@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 07:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 07:49:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [为金砖合作机制注入新活力](https://www.baidu.com/s?wd=%E4%B8%BA%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E6%9C%BA%E5%88%B6%E6%B3%A8%E5%85%A5%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：普里戈任命运多舛有才华](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%91%BD%E8%BF%90%E5%A4%9A%E8%88%9B%E6%9C%89%E6%89%8D%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广东一海滩突然涌现大量海虾](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E6%B5%B7%E6%BB%A9%E7%AA%81%E7%84%B6%E6%B6%8C%E7%8E%B0%E5%A4%A7%E9%87%8F%E6%B5%B7%E8%99%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [低收入者取现3000万触发预警](https://www.baidu.com/s?wd=%E4%BD%8E%E6%94%B6%E5%85%A5%E8%80%85%E5%8F%96%E7%8E%B03000%E4%B8%87%E8%A7%A6%E5%8F%91%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [徐州一湖水质呈绿色出现死鱼](https://www.baidu.com/s?wd=%E5%BE%90%E5%B7%9E%E4%B8%80%E6%B9%96%E6%B0%B4%E8%B4%A8%E5%91%88%E7%BB%BF%E8%89%B2%E5%87%BA%E7%8E%B0%E6%AD%BB%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [餐饮店以“渣男”命名菜品被罚2万](https://www.baidu.com/s?wd=%E9%A4%90%E9%A5%AE%E5%BA%97%E4%BB%A5%E2%80%9C%E6%B8%A3%E7%94%B7%E2%80%9D%E5%91%BD%E5%90%8D%E8%8F%9C%E5%93%81%E8%A2%AB%E7%BD%9A2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [低收入者取现3000万触发预警](https://www.baidu.com/s?wd=%E4%BD%8E%E6%94%B6%E5%85%A5%E8%80%85%E5%8F%96%E7%8E%B03000%E4%B8%87%E8%A7%A6%E5%8F%91%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [日本将用百亿处理核污染水负面信息](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%86%E7%94%A8%E7%99%BE%E4%BA%BF%E5%A4%84%E7%90%86%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E8%B4%9F%E9%9D%A2%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [为金砖合作机制注入新活力](https://www.baidu.com/s?wd=%E4%B8%BA%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E6%9C%BA%E5%88%B6%E6%B3%A8%E5%85%A5%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：普里戈任命运多舛有才华](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%91%BD%E8%BF%90%E5%A4%9A%E8%88%9B%E6%9C%89%E6%89%8D%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广东一海滩突然涌现大量海虾](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E6%B5%B7%E6%BB%A9%E7%AA%81%E7%84%B6%E6%B6%8C%E7%8E%B0%E5%A4%A7%E9%87%8F%E6%B5%B7%E8%99%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [低收入者取现3000万触发预警](https://www.baidu.com/s?wd=%E4%BD%8E%E6%94%B6%E5%85%A5%E8%80%85%E5%8F%96%E7%8E%B03000%E4%B8%87%E8%A7%A6%E5%8F%91%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [徐州一湖水质呈绿色出现死鱼](https://www.baidu.com/s?wd=%E5%BE%90%E5%B7%9E%E4%B8%80%E6%B9%96%E6%B0%B4%E8%B4%A8%E5%91%88%E7%BB%BF%E8%89%B2%E5%87%BA%E7%8E%B0%E6%AD%BB%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [餐饮店以“渣男”命名菜品被罚2万](https://www.baidu.com/s?wd=%E9%A4%90%E9%A5%AE%E5%BA%97%E4%BB%A5%E2%80%9C%E6%B8%A3%E7%94%B7%E2%80%9D%E5%91%BD%E5%90%8D%E8%8F%9C%E5%93%81%E8%A2%AB%E7%BD%9A2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [低收入者取现3000万触发预警](https://www.baidu.com/s?wd=%E4%BD%8E%E6%94%B6%E5%85%A5%E8%80%85%E5%8F%96%E7%8E%B03000%E4%B8%87%E8%A7%A6%E5%8F%91%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [日本将用百亿处理核污染水负面信息](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%86%E7%94%A8%E7%99%BE%E4%BA%BF%E5%A4%84%E7%90%86%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E8%B4%9F%E9%9D%A2%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
