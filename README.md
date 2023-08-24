@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 18:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 18:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黄渤回答演烂片](https://s.weibo.com/weibo?q=%E9%BB%84%E6%B8%A4%E5%9B%9E%E7%AD%94%E6%BC%94%E7%83%82%E7%89%87&t=31&band_rank=6&Refer=top)<br />
 7. [19岁大学生守号3月中758万](https://s.weibo.com/weibo?q=%2319%E5%B2%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%88%E5%8F%B73%E6%9C%88%E4%B8%AD758%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [Look What You Made Me Do重录版](https://s.weibo.com/weibo?q=Look%20What%20You%20Made%20Me%20Do%E9%87%8D%E5%BD%95%E7%89%88&t=31&band_rank=8&Refer=top)<br />
-9. [普里戈任坠机遇难的背后有哪些疑点](https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%9D%A0%E6%9C%BA%E9%81%87%E9%9A%BE%E7%9A%84%E8%83%8C%E5%90%8E%E6%9C%89%E5%93%AA%E4%BA%9B%E7%96%91%E7%82%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [可能模糊的是她的童年吧](https://s.weibo.com/weibo?q=%23%E5%8F%AF%E8%83%BD%E6%A8%A1%E7%B3%8A%E7%9A%84%E6%98%AF%E5%A5%B9%E7%9A%84%E7%AB%A5%E5%B9%B4%E5%90%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
