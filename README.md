@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 15:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 15:52:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [乌合麒麟 与人类同归于尽吗混蛋](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%90%88%E9%BA%92%E9%BA%9F%20%E4%B8%8E%E4%BA%BA%E7%B1%BB%E5%90%8C%E5%BD%92%E4%BA%8E%E5%B0%BD%E5%90%97%E6%B7%B7%E8%9B%8B&t=31&band_rank=4&Refer=top)<br />
 5. [四杯咖啡 五个领导](https://s.weibo.com/weibo?q=%E5%9B%9B%E6%9D%AF%E5%92%96%E5%95%A1%20%E4%BA%94%E4%B8%AA%E9%A2%86%E5%AF%BC&t=31&band_rank=5&Refer=top)<br />
 6. [都排成鸳鸯锅了还嘴硬是安全的](https://s.weibo.com/weibo?q=%23%E9%83%BD%E6%8E%92%E6%88%90%E9%B8%B3%E9%B8%AF%E9%94%85%E4%BA%86%E8%BF%98%E5%98%B4%E7%A1%AC%E6%98%AF%E5%AE%89%E5%85%A8%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
-7. [日本将用700亿日元处理核污染水负面信息](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E7%94%A8700%E4%BA%BF%E6%97%A5%E5%85%83%E5%A4%84%E7%90%86%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E8%B4%9F%E9%9D%A2%E4%BF%A1%E6%81%AF%23&t=31&band_rank=7&Refer=top)<br />
+7. [中国日料店会大批量倒闭吗](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%97%A5%E6%96%99%E5%BA%97%E4%BC%9A%E5%A4%A7%E6%89%B9%E9%87%8F%E5%80%92%E9%97%AD%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [AI换脸换声让已故演员重现屏幕](https://s.weibo.com/weibo?q=%23AI%E6%8D%A2%E8%84%B8%E6%8D%A2%E5%A3%B0%E8%AE%A9%E5%B7%B2%E6%95%85%E6%BC%94%E5%91%98%E9%87%8D%E7%8E%B0%E5%B1%8F%E5%B9%95%23&t=31&band_rank=8&Refer=top)<br />
 9. [封神全员BE](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E5%85%A8%E5%91%98BE%23&t=31&band_rank=9&Refer=top)<br />
 
