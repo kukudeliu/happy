@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 11:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 11:53:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [普京紧急返回莫斯科](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%B4%A7%E6%80%A5%E8%BF%94%E5%9B%9E%E8%8E%AB%E6%96%AF%E7%A7%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [今天的核污染水排放量预计为200到210吨](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%9A%84%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%94%BE%E9%87%8F%E9%A2%84%E8%AE%A1%E4%B8%BA200%E5%88%B0210%E5%90%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨迪去剪发店全是张艺兴](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E5%8E%BB%E5%89%AA%E5%8F%91%E5%BA%97%E5%85%A8%E6%98%AF%E5%BC%A0%E8%89%BA%E5%85%B4%23&t=31&band_rank=6&Refer=top)<br />
-7. [五部电影联合抵制网络黑水军](https://s.weibo.com/weibo?q=%23%E4%BA%94%E9%83%A8%E7%94%B5%E5%BD%B1%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6%E7%BD%91%E7%BB%9C%E9%BB%91%E6%B0%B4%E5%86%9B%23&t=31&band_rank=7&Refer=top)<br />
-8. [日本核污水排海或化作雨水洒遍全球](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E6%88%96%E5%8C%96%E4%BD%9C%E9%9B%A8%E6%B0%B4%E6%B4%92%E9%81%8D%E5%85%A8%E7%90%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [科比](https://s.weibo.com/weibo?q=%E7%A7%91%E6%AF%94&t=31&band_rank=9&Refer=top)<br />
+7. [日本前首相批排污入海](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A6%96%E7%9B%B8%E6%89%B9%E6%8E%92%E6%B1%A1%E5%85%A5%E6%B5%B7%23&t=31&band_rank=7&Refer=top)<br />
+8. [五部电影联合抵制网络黑水军](https://s.weibo.com/weibo?q=%23%E4%BA%94%E9%83%A8%E7%94%B5%E5%BD%B1%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6%E7%BD%91%E7%BB%9C%E9%BB%91%E6%B0%B4%E5%86%9B%23&t=31&band_rank=8&Refer=top)<br />
+9. [日本核污水排海或化作雨水洒遍全球](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E6%88%96%E5%8C%96%E4%BD%9C%E9%9B%A8%E6%B0%B4%E6%B4%92%E9%81%8D%E5%85%A8%E7%90%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
