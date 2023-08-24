@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 17:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 17:24:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [日本核污染水排海正式开始](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [日本核污染水首次排海持续17天](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E9%A6%96%E6%AC%A1%E6%8E%92%E6%B5%B7%E6%8C%81%E7%BB%AD17%E5%A4%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [刘宇真的好爱苍兰诀](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%88%B1%E8%8B%8D%E5%85%B0%E8%AF%80%23&t=31&band_rank=6&Refer=top)<br />
-7. [封神全员BE](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E5%85%A8%E5%91%98BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘昊然演技](https://s.weibo.com/weibo?q=%E5%88%98%E6%98%8A%E7%84%B6%E6%BC%94%E6%8A%80&t=31&band_rank=8&Refer=top)<br />
+7. [刘昊然演技](https://s.weibo.com/weibo?q=%E5%88%98%E6%98%8A%E7%84%B6%E6%BC%94%E6%8A%80&t=31&band_rank=7&Refer=top)<br />
+8. [封神全员BE](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E5%85%A8%E5%91%98BE%23&t=31&band_rank=8&Refer=top)<br />
 9. [中国匿名好邻居](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8C%BF%E5%90%8D%E5%A5%BD%E9%82%BB%E5%B1%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
