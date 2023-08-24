@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 21:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 21:23:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [国内多地市民抢盐 有超市货架被搬空](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E5%A4%9A%E5%9C%B0%E5%B8%82%E6%B0%91%E6%8A%A2%E7%9B%90+%E6%9C%89%E8%B6%85%E5%B8%82%E8%B4%A7%E6%9E%B6%E8%A2%AB%E6%90%AC%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本核污染水已进入大海](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%A4%A7%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“三阳”要来了？多名医生分析](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%89%E9%98%B3%E2%80%9D%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F%E5%A4%9A%E5%90%8D%E5%8C%BB%E7%94%9F%E5%88%86%E6%9E%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本民众将起诉日政府和东电](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E5%B0%86%E8%B5%B7%E8%AF%89%E6%97%A5%E6%94%BF%E5%BA%9C%E5%92%8C%E4%B8%9C%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [原来奥特曼是纪录片](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%98%AF%E7%BA%AA%E5%BD%95%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [国内多地市民抢盐 有超市货架被搬空](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E5%A4%9A%E5%9C%B0%E5%B8%82%E6%B0%91%E6%8A%A2%E7%9B%90+%E6%9C%89%E8%B6%85%E5%B8%82%E8%B4%A7%E6%9E%B6%E8%A2%AB%E6%90%AC%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本核污染水已进入大海](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%A4%A7%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“三阳”要来了？多名医生分析](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%89%E9%98%B3%E2%80%9D%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F%E5%A4%9A%E5%90%8D%E5%8C%BB%E7%94%9F%E5%88%86%E6%9E%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本民众将起诉日政府和东电](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E5%B0%86%E8%B5%B7%E8%AF%89%E6%97%A5%E6%94%BF%E5%BA%9C%E5%92%8C%E4%B8%9C%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [原来奥特曼是纪录片](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%98%AF%E7%BA%AA%E5%BD%95%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
