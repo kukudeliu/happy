@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 15:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 15:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国日料店会大批量倒闭吗](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%97%A5%E6%96%99%E5%BA%97%E4%BC%9A%E5%A4%A7%E6%89%B9%E9%87%8F%E5%80%92%E9%97%AD%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [四杯咖啡 五个领导](https://s.weibo.com/weibo?q=%E5%9B%9B%E6%9D%AF%E5%92%96%E5%95%A1%20%E4%BA%94%E4%B8%AA%E9%A2%86%E5%AF%BC&t=31&band_rank=7&Refer=top)<br />
 8. [AI换脸换声让已故演员重现屏幕](https://s.weibo.com/weibo?q=%23AI%E6%8D%A2%E8%84%B8%E6%8D%A2%E5%A3%B0%E8%AE%A9%E5%B7%B2%E6%95%85%E6%BC%94%E5%91%98%E9%87%8D%E7%8E%B0%E5%B1%8F%E5%B9%95%23&t=31&band_rank=8&Refer=top)<br />
-9. [福岛排放核污水地区瞬时辐射量增加](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%8E%92%E6%94%BE%E6%A0%B8%E6%B1%A1%E6%B0%B4%E5%9C%B0%E5%8C%BA%E7%9E%AC%E6%97%B6%E8%BE%90%E5%B0%84%E9%87%8F%E5%A2%9E%E5%8A%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [杜海涛吃蜈蚣在嘴里八进八出](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%90%83%E8%9C%88%E8%9A%A3%E5%9C%A8%E5%98%B4%E9%87%8C%E5%85%AB%E8%BF%9B%E5%85%AB%E5%87%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
