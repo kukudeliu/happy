@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 05:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 05:02:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [中方暂停进口日本水产品是完全必要的](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E6%9A%82%E5%81%9C%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81%E6%98%AF%E5%AE%8C%E5%85%A8%E5%BF%85%E8%A6%81%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
 6. [医生7小时取出小伙脑内10厘米成虫](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F7%E5%B0%8F%E6%97%B6%E5%8F%96%E5%87%BA%E5%B0%8F%E4%BC%99%E8%84%91%E5%86%8510%E5%8E%98%E7%B1%B3%E6%88%90%E8%99%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [红色海滩的海水如血液般殷红](https://s.weibo.com/weibo?q=%E7%BA%A2%E8%89%B2%E6%B5%B7%E6%BB%A9%E7%9A%84%E6%B5%B7%E6%B0%B4%E5%A6%82%E8%A1%80%E6%B6%B2%E8%88%AC%E6%AE%B7%E7%BA%A2&t=31&band_rank=7&Refer=top)<br />
-8. [被骗至缅甸中科院博士已被解救](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AA%97%E8%87%B3%E7%BC%85%E7%94%B8%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%B7%B2%E8%A2%AB%E8%A7%A3%E6%95%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [别再把舌头垫在牙齿中间了](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E6%8A%8A%E8%88%8C%E5%A4%B4%E5%9E%AB%E5%9C%A8%E7%89%99%E9%BD%BF%E4%B8%AD%E9%97%B4%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [别再把舌头垫在牙齿中间了](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E6%8A%8A%E8%88%8C%E5%A4%B4%E5%9E%AB%E5%9C%A8%E7%89%99%E9%BD%BF%E4%B8%AD%E9%97%B4%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [被骗至缅甸中科院博士已被解救](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AA%97%E8%87%B3%E7%BC%85%E7%94%B8%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%B7%B2%E8%A2%AB%E8%A7%A3%E6%95%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
