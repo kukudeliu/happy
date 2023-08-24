@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 11:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 11:14:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [朝鲜宣布军事侦察卫星发射失败](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%AE%A3%E5%B8%83%E5%86%9B%E4%BA%8B%E4%BE%A6%E5%AF%9F%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁静公开抨击行业乱象](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%85%AC%E5%BC%80%E6%8A%A8%E5%87%BB%E8%A1%8C%E4%B8%9A%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [瓦格纳中心大楼亮起十字架](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E4%B8%AD%E5%BF%83%E5%A4%A7%E6%A5%BC%E4%BA%AE%E8%B5%B7%E5%8D%81%E5%AD%97%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [湖北前首富兰世立申请国赔获立案](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E5%89%8D%E9%A6%96%E5%AF%8C%E5%85%B0%E4%B8%96%E7%AB%8B%E7%94%B3%E8%AF%B7%E5%9B%BD%E8%B5%94%E8%8E%B7%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [13岁女孩追星被假律师骗走35万](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BF%BD%E6%98%9F%E8%A2%AB%E5%81%87%E5%BE%8B%E5%B8%88%E9%AA%97%E8%B5%B035%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [朝鲜宣布军事侦察卫星发射失败](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%AE%A3%E5%B8%83%E5%86%9B%E4%BA%8B%E4%BE%A6%E5%AF%9F%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁静公开抨击行业乱象](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%85%AC%E5%BC%80%E6%8A%A8%E5%87%BB%E8%A1%8C%E4%B8%9A%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [瓦格纳中心大楼亮起十字架](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E4%B8%AD%E5%BF%83%E5%A4%A7%E6%A5%BC%E4%BA%AE%E8%B5%B7%E5%8D%81%E5%AD%97%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [湖北前首富兰世立申请国赔获立案](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E5%89%8D%E9%A6%96%E5%AF%8C%E5%85%B0%E4%B8%96%E7%AB%8B%E7%94%B3%E8%AF%B7%E5%9B%BD%E8%B5%94%E8%8E%B7%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [13岁女孩追星被假律师骗走35万](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BF%BD%E6%98%9F%E8%A2%AB%E5%81%87%E5%BE%8B%E5%B8%88%E9%AA%97%E8%B5%B035%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
