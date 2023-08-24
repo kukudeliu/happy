@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 12:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 12:47:01</h4></div>
 
 > 微博  
 
@@ -20,21 +20,21 @@
 1. [携手构建高水平中南命运共同体](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E6%9E%84%E5%BB%BA%E9%AB%98%E6%B0%B4%E5%B9%B3%E4%B8%AD%E5%8D%97%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [日本核污染水已进入大海](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%A4%A7%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [普京紧急返回莫斯科](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%B4%A7%E6%80%A5%E8%BF%94%E5%9B%9E%E8%8E%AB%E6%96%AF%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [共建更加美好的世界](https://www.baidu.com/s?wd=%E5%85%B1%E5%BB%BA%E6%9B%B4%E5%8A%A0%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [解码“金砖＋”吸引力](https://www.baidu.com/s?wd=%E8%A7%A3%E7%A0%81%E2%80%9C%E9%87%91%E7%A0%96%EF%BC%8B%E2%80%9D%E5%90%B8%E5%BC%95%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [吃下核污染食品后果有多严重](https://www.baidu.com/s?wd=%E5%90%83%E4%B8%8B%E6%A0%B8%E6%B1%A1%E6%9F%93%E9%A3%9F%E5%93%81%E5%90%8E%E6%9E%9C%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东京电力：今天预计排放核废水200吨](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E7%94%B5%E5%8A%9B%EF%BC%9A%E4%BB%8A%E5%A4%A9%E9%A2%84%E8%AE%A1%E6%8E%92%E6%94%BE%E6%A0%B8%E5%BA%9F%E6%B0%B4200%E5%90%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [外交部就日本排放核污染水发表谈话](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E6%97%A5%E6%9C%AC%E6%8E%92%E6%94%BE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%8F%91%E8%A1%A8%E8%B0%88%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [直击日本核污染水排海](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [瓦格纳中心大楼亮起十字架](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E4%B8%AD%E5%BF%83%E5%A4%A7%E6%A5%BC%E4%BA%AE%E8%B5%B7%E5%8D%81%E5%AD%97%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [直击日本核污染水排海](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [外交部就日本排放核污染水发表谈话](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E6%97%A5%E6%9C%AC%E6%8E%92%E6%94%BE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%8F%91%E8%A1%A8%E8%B0%88%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [携手构建高水平中南命运共同体](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E6%9E%84%E5%BB%BA%E9%AB%98%E6%B0%B4%E5%B9%B3%E4%B8%AD%E5%8D%97%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [日本核污染水已进入大海](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%A4%A7%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [普京紧急返回莫斯科](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%B4%A7%E6%80%A5%E8%BF%94%E5%9B%9E%E8%8E%AB%E6%96%AF%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [共建更加美好的世界](https://www.baidu.com/s?wd=%E5%85%B1%E5%BB%BA%E6%9B%B4%E5%8A%A0%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [解码“金砖＋”吸引力](https://www.baidu.com/s?wd=%E8%A7%A3%E7%A0%81%E2%80%9C%E9%87%91%E7%A0%96%EF%BC%8B%E2%80%9D%E5%90%B8%E5%BC%95%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [吃下核污染食品后果有多严重](https://www.baidu.com/s?wd=%E5%90%83%E4%B8%8B%E6%A0%B8%E6%B1%A1%E6%9F%93%E9%A3%9F%E5%93%81%E5%90%8E%E6%9E%9C%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东京电力：今天预计排放核废水200吨](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E7%94%B5%E5%8A%9B%EF%BC%9A%E4%BB%8A%E5%A4%A9%E9%A2%84%E8%AE%A1%E6%8E%92%E6%94%BE%E6%A0%B8%E5%BA%9F%E6%B0%B4200%E5%90%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [外交部就日本排放核污染水发表谈话](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E6%97%A5%E6%9C%AC%E6%8E%92%E6%94%BE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%8F%91%E8%A1%A8%E8%B0%88%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [直击日本核污染水排海](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [瓦格纳中心大楼亮起十字架](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E4%B8%AD%E5%BF%83%E5%A4%A7%E6%A5%BC%E4%BA%AE%E8%B5%B7%E5%8D%81%E5%AD%97%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [直击日本核污染水排海](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [外交部就日本排放核污染水发表谈话](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E6%97%A5%E6%9C%AC%E6%8E%92%E6%94%BE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%8F%91%E8%A1%A8%E8%B0%88%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
