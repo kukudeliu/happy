@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 15:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 15:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [胡锡进 别吃从日本进口的海鲜了](https://s.weibo.com/weibo?q=%E8%83%A1%E9%94%A1%E8%BF%9B%20%E5%88%AB%E5%90%83%E4%BB%8E%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%9A%84%E6%B5%B7%E9%B2%9C%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [日本将用700亿日元处理核污染水负面信息](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E7%94%A8700%E4%BA%BF%E6%97%A5%E5%85%83%E5%A4%84%E7%90%86%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E8%B4%9F%E9%9D%A2%E4%BF%A1%E6%81%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [四杯咖啡 五个领导](https://s.weibo.com/weibo?q=%E5%9B%9B%E6%9D%AF%E5%92%96%E5%95%A1%20%E4%BA%94%E4%B8%AA%E9%A2%86%E5%AF%BC&t=31&band_rank=8&Refer=top)<br />
-9. [AI换脸换声让已故演员重现屏幕](https://s.weibo.com/weibo?q=%23AI%E6%8D%A2%E8%84%B8%E6%8D%A2%E5%A3%B0%E8%AE%A9%E5%B7%B2%E6%95%85%E6%BC%94%E5%91%98%E9%87%8D%E7%8E%B0%E5%B1%8F%E5%B9%95%23&t=31&band_rank=9&Refer=top)<br />
+9. [日本就是这样感谢和回馈世界的](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%B1%E6%98%AF%E8%BF%99%E6%A0%B7%E6%84%9F%E8%B0%A2%E5%92%8C%E5%9B%9E%E9%A6%88%E4%B8%96%E7%95%8C%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
