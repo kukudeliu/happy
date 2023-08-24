@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 12:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 12:23:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [日本官员喝下核污染水4年后引退消失](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E5%96%9D%E4%B8%8B%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B44%E5%B9%B4%E5%90%8E%E5%BC%95%E9%80%80%E6%B6%88%E5%A4%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [吃下核污染食品后果有多严重](https://s.weibo.com/weibo?q=%23%E5%90%83%E4%B8%8B%E6%A0%B8%E6%B1%A1%E6%9F%93%E9%A3%9F%E5%93%81%E5%90%8E%E6%9E%9C%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [今天的核污染水排放量预计为200到210吨](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%9A%84%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%94%BE%E9%87%8F%E9%A2%84%E8%AE%A1%E4%B8%BA200%E5%88%B0210%E5%90%A8%23&t=31&band_rank=6&Refer=top)<br />
-7. [普里戈任尸体已被初步确认](https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%B0%B8%E4%BD%93%E5%B7%B2%E8%A2%AB%E5%88%9D%E6%AD%A5%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [杜海涛吃蜈蚣在嘴里八进八出](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%90%83%E8%9C%88%E8%9A%A3%E5%9C%A8%E5%98%B4%E9%87%8C%E5%85%AB%E8%BF%9B%E5%85%AB%E5%87%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [日本前首相批排污入海](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A6%96%E7%9B%B8%E6%89%B9%E6%8E%92%E6%B1%A1%E5%85%A5%E6%B5%B7%23&t=31&band_rank=9&Refer=top)<br />
+7. [杜海涛吃蜈蚣在嘴里八进八出](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%90%83%E8%9C%88%E8%9A%A3%E5%9C%A8%E5%98%B4%E9%87%8C%E5%85%AB%E8%BF%9B%E5%85%AB%E5%87%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [普里戈任尸体已被初步确认](https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%B0%B8%E4%BD%93%E5%B7%B2%E8%A2%AB%E5%88%9D%E6%AD%A5%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=8&Refer=top)<br />
+9. [日本核污染水排放后约1000秒抵达大海](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%94%BE%E5%90%8E%E7%BA%A61000%E7%A7%92%E6%8A%B5%E8%BE%BE%E5%A4%A7%E6%B5%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
