@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 17:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 17:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黄渤回答演烂片](https://s.weibo.com/weibo?q=%E9%BB%84%E6%B8%A4%E5%9B%9E%E7%AD%94%E6%BC%94%E7%83%82%E7%89%87&t=31&band_rank=6&Refer=top)<br />
 7. [19岁大学生守号3月中758万](https://s.weibo.com/weibo?q=%2319%E5%B2%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%88%E5%8F%B73%E6%9C%88%E4%B8%AD758%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [Look What You Made Me Do重录版](https://s.weibo.com/weibo?q=Look%20What%20You%20Made%20Me%20Do%E9%87%8D%E5%BD%95%E7%89%88&t=31&band_rank=8&Refer=top)<br />
-9. [刘宇真的好爱苍兰诀](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%88%B1%E8%8B%8D%E5%85%B0%E8%AF%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [感觉我也要上清华了](https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%A7%89%E6%88%91%E4%B9%9F%E8%A6%81%E4%B8%8A%E6%B8%85%E5%8D%8E%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
