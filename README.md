@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 08:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 08:28:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [四六级成绩](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%88%90%E7%BB%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [景甜没人告诉我扫楼要跑啊](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E6%B2%A1%E4%BA%BA%E5%91%8A%E8%AF%89%E6%88%91%E6%89%AB%E6%A5%BC%E8%A6%81%E8%B7%91%E5%95%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [坠毁飞机乘客包括瓦格纳几乎所有高层](https://s.weibo.com/weibo?q=%23%E5%9D%A0%E6%AF%81%E9%A3%9E%E6%9C%BA%E4%B9%98%E5%AE%A2%E5%8C%85%E6%8B%AC%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89%E9%AB%98%E5%B1%82%23&t=31&band_rank=7&Refer=top)<br />
-8. [宁静太敢说了](https://s.weibo.com/weibo?q=%E5%AE%81%E9%9D%99%E5%A4%AA%E6%95%A2%E8%AF%B4%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+8. [科比](https://s.weibo.com/weibo?q=%E7%A7%91%E6%AF%94&t=31&band_rank=8&Refer=top)<br />
 9. [马云分享近况](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BA%91%E5%88%86%E4%BA%AB%E8%BF%91%E5%86%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
