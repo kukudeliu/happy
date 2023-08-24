@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 20:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 20:23:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [富士山爆发若达5级东京会受影响](https://s.weibo.com/weibo?q=%23%E5%AF%8C%E5%A3%AB%E5%B1%B1%E7%88%86%E5%8F%91%E8%8B%A5%E8%BE%BE5%E7%BA%A7%E4%B8%9C%E4%BA%AC%E4%BC%9A%E5%8F%97%E5%BD%B1%E5%93%8D%23&t=31&band_rank=4&Refer=top)<br />
 5. [日本将用700亿日元处理核污染水负面信息](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E7%94%A8700%E4%BA%BF%E6%97%A5%E5%85%83%E5%A4%84%E7%90%86%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E8%B4%9F%E9%9D%A2%E4%BF%A1%E6%81%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [罗云熙退退退](https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E9%80%80%E9%80%80%E9%80%80%23&t=31&band_rank=6&Refer=top)<br />
-7. [AI换脸换声让已故演员重现屏幕](https://s.weibo.com/weibo?q=%23AI%E6%8D%A2%E8%84%B8%E6%8D%A2%E5%A3%B0%E8%AE%A9%E5%B7%B2%E6%95%85%E6%BC%94%E5%91%98%E9%87%8D%E7%8E%B0%E5%B1%8F%E5%B9%95%23&t=31&band_rank=7&Refer=top)<br />
-8. [王鹤棣名字来源于诗经](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%90%8D%E5%AD%97%E6%9D%A5%E6%BA%90%E4%BA%8E%E8%AF%97%E7%BB%8F%23&t=31&band_rank=8&Refer=top)<br />
+7. [王鹤棣名字来源于诗经](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%90%8D%E5%AD%97%E6%9D%A5%E6%BA%90%E4%BA%8E%E8%AF%97%E7%BB%8F%23&t=31&band_rank=7&Refer=top)<br />
+8. [AI换脸换声让已故演员重现屏幕](https://s.weibo.com/weibo?q=%23AI%E6%8D%A2%E8%84%B8%E6%8D%A2%E5%A3%B0%E8%AE%A9%E5%B7%B2%E6%95%85%E6%BC%94%E5%91%98%E9%87%8D%E7%8E%B0%E5%B1%8F%E5%B9%95%23&t=31&band_rank=8&Refer=top)<br />
 9. [华西医院又完成一项世界首例](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E8%A5%BF%E5%8C%BB%E9%99%A2%E5%8F%88%E5%AE%8C%E6%88%90%E4%B8%80%E9%A1%B9%E4%B8%96%E7%95%8C%E9%A6%96%E4%BE%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
