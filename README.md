@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 17:42:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 17:43:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [今天杭州亚运会倒计时30天](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%80%92%E8%AE%A1%E6%97%B630%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [日本核污染水排海正式开始](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [黄渤回答演烂片](https://s.weibo.com/weibo?q=%E9%BB%84%E6%B8%A4%E5%9B%9E%E7%AD%94%E6%BC%94%E7%83%82%E7%89%87&t=31&band_rank=5&Refer=top)<br />
-6. [19岁大学生守号3月中758万](https://s.weibo.com/weibo?q=%2319%E5%B2%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%88%E5%8F%B73%E6%9C%88%E4%B8%AD758%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [刘宇真的好爱苍兰诀](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%88%B1%E8%8B%8D%E5%85%B0%E8%AF%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [Look What You Made Me Do重录版](https://s.weibo.com/weibo?q=Look%20What%20You%20Made%20Me%20Do%E9%87%8D%E5%BD%95%E7%89%88&t=31&band_rank=8&Refer=top)<br />
-9. [普里戈任尸体已被初步确认](https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%B0%B8%E4%BD%93%E5%B7%B2%E8%A2%AB%E5%88%9D%E6%AD%A5%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=9&Refer=top)<br />
+6. [刘宇真的好爱苍兰诀](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%88%B1%E8%8B%8D%E5%85%B0%E8%AF%80%23&t=31&band_rank=6&Refer=top)<br />
+7. [Look What You Made Me Do重录版](https://s.weibo.com/weibo?q=Look%20What%20You%20Made%20Me%20Do%E9%87%8D%E5%BD%95%E7%89%88&t=31&band_rank=7&Refer=top)<br />
+8. [普里戈任尸体已被初步确认](https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%B0%B8%E4%BD%93%E5%B7%B2%E8%A2%AB%E5%88%9D%E6%AD%A5%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=8&Refer=top)<br />
+9. [封神全员BE](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E5%85%A8%E5%91%98BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
