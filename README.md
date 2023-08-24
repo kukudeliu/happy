@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 14:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 14:09:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [核污水排海现场：海水呈两种颜色](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E7%8E%B0%E5%9C%BA%EF%BC%9A%E6%B5%B7%E6%B0%B4%E5%91%88%E4%B8%A4%E7%A7%8D%E9%A2%9C%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [外交部就日本排放核污染水发表谈话](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E6%97%A5%E6%9C%AC%E6%8E%92%E6%94%BE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%8F%91%E8%A1%A8%E8%B0%88%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [佩斯科夫：普京已知普里戈任遇难](https://www.baidu.com/s?wd=%E4%BD%A9%E6%96%AF%E7%A7%91%E5%A4%AB%EF%BC%9A%E6%99%AE%E4%BA%AC%E5%B7%B2%E7%9F%A5%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [吃下核污染食品后果有多严重](https://www.baidu.com/s?wd=%E5%90%83%E4%B8%8B%E6%A0%B8%E6%B1%A1%E6%9F%93%E9%A3%9F%E5%93%81%E5%90%8E%E6%9E%9C%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子称熬夜致免疫力低下确诊紫癜](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%86%AC%E5%A4%9C%E8%87%B4%E5%85%8D%E7%96%AB%E5%8A%9B%E4%BD%8E%E4%B8%8B%E7%A1%AE%E8%AF%8A%E7%B4%AB%E7%99%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [核污水排海现场：海水呈两种颜色](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E7%8E%B0%E5%9C%BA%EF%BC%9A%E6%B5%B7%E6%B0%B4%E5%91%88%E4%B8%A4%E7%A7%8D%E9%A2%9C%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [外交部就日本排放核污染水发表谈话](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E6%97%A5%E6%9C%AC%E6%8E%92%E6%94%BE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%8F%91%E8%A1%A8%E8%B0%88%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [佩斯科夫：普京已知普里戈任遇难](https://www.baidu.com/s?wd=%E4%BD%A9%E6%96%AF%E7%A7%91%E5%A4%AB%EF%BC%9A%E6%99%AE%E4%BA%AC%E5%B7%B2%E7%9F%A5%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [吃下核污染食品后果有多严重](https://www.baidu.com/s?wd=%E5%90%83%E4%B8%8B%E6%A0%B8%E6%B1%A1%E6%9F%93%E9%A3%9F%E5%93%81%E5%90%8E%E6%9E%9C%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子称熬夜致免疫力低下确诊紫癜](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%86%AC%E5%A4%9C%E8%87%B4%E5%85%8D%E7%96%AB%E5%8A%9B%E4%BD%8E%E4%B8%8B%E7%A1%AE%E8%AF%8A%E7%B4%AB%E7%99%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
