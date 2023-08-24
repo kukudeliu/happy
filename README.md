@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 08:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 08:23:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [核污染水](https://s.weibo.com/weibo?q=%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4&t=31&band_rank=5&Refer=top)<br />
 6. [四六级成绩](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%88%90%E7%BB%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [景甜没人告诉我扫楼要跑啊](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E6%B2%A1%E4%BA%BA%E5%91%8A%E8%AF%89%E6%88%91%E6%89%AB%E6%A5%BC%E8%A6%81%E8%B7%91%E5%95%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [宁静太敢说了](https://s.weibo.com/weibo?q=%E5%AE%81%E9%9D%99%E5%A4%AA%E6%95%A2%E8%AF%B4%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [六级没过](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7%E6%B2%A1%E8%BF%87&t=31&band_rank=9&Refer=top)<br />
+8. [六级没过](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7%E6%B2%A1%E8%BF%87&t=31&band_rank=8&Refer=top)<br />
+9. [宁静太敢说了](https://s.weibo.com/weibo?q=%E5%AE%81%E9%9D%99%E5%A4%AA%E6%95%A2%E8%AF%B4%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
