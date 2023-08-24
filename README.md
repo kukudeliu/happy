@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 15:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 15:57:01</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 
 > 百度  
 
-1. [习近平：以金砖担当开创美好未来](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E4%BB%A5%E9%87%91%E7%A0%96%E6%8B%85%E5%BD%93%E5%BC%80%E5%88%9B%E7%BE%8E%E5%A5%BD%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平：共建更加美好的世界](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E5%85%B1%E5%BB%BA%E6%9B%B4%E5%8A%A0%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [日本核污染水已进入大海](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%A4%A7%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [海关总署：全面暂停进口日本水产品](https://www.baidu.com/s?wd=%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%EF%BC%9A%E5%85%A8%E9%9D%A2%E6%9A%82%E5%81%9C%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [解码“金砖＋”吸引力](https://www.baidu.com/s?wd=%E8%A7%A3%E7%A0%81%E2%80%9C%E9%87%91%E7%A0%96%EF%BC%8B%E2%80%9D%E5%90%B8%E5%BC%95%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [团结协作谋发展 勇于担当促和平](https://www.baidu.com/s?wd=%E5%9B%A2%E7%BB%93%E5%8D%8F%E4%BD%9C%E8%B0%8B%E5%8F%91%E5%B1%95+%E5%8B%87%E4%BA%8E%E6%8B%85%E5%BD%93%E4%BF%83%E5%92%8C%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [核污水排海现场：海水呈两种颜色](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E7%8E%B0%E5%9C%BA%EF%BC%9A%E6%B5%B7%E6%B0%B4%E5%91%88%E4%B8%A4%E7%A7%8D%E9%A2%9C%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [瓦格纳中心大楼亮起十字架](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E4%B8%AD%E5%BF%83%E5%A4%A7%E6%A5%BC%E4%BA%AE%E8%B5%B7%E5%8D%81%E5%AD%97%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [台当局：没看到日本排污风险](https://www.baidu.com/s?wd=%E5%8F%B0%E5%BD%93%E5%B1%80%EF%BC%9A%E6%B2%A1%E7%9C%8B%E5%88%B0%E6%97%A5%E6%9C%AC%E6%8E%92%E6%B1%A1%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,10 +29,10 @@
 
 > 哔哩哔哩  
 
-1. [习近平：以金砖担当开创美好未来](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E4%BB%A5%E9%87%91%E7%A0%96%E6%8B%85%E5%BD%93%E5%BC%80%E5%88%9B%E7%BE%8E%E5%A5%BD%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平：共建更加美好的世界](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E5%85%B1%E5%BB%BA%E6%9B%B4%E5%8A%A0%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [日本核污染水已进入大海](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%A4%A7%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [海关总署：全面暂停进口日本水产品](https://www.baidu.com/s?wd=%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%EF%BC%9A%E5%85%A8%E9%9D%A2%E6%9A%82%E5%81%9C%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [解码“金砖＋”吸引力](https://www.baidu.com/s?wd=%E8%A7%A3%E7%A0%81%E2%80%9C%E9%87%91%E7%A0%96%EF%BC%8B%E2%80%9D%E5%90%B8%E5%BC%95%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [团结协作谋发展 勇于担当促和平](https://www.baidu.com/s?wd=%E5%9B%A2%E7%BB%93%E5%8D%8F%E4%BD%9C%E8%B0%8B%E5%8F%91%E5%B1%95+%E5%8B%87%E4%BA%8E%E6%8B%85%E5%BD%93%E4%BF%83%E5%92%8C%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [核污水排海现场：海水呈两种颜色](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E7%8E%B0%E5%9C%BA%EF%BC%9A%E6%B5%B7%E6%B0%B4%E5%91%88%E4%B8%A4%E7%A7%8D%E9%A2%9C%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [瓦格纳中心大楼亮起十字架](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E4%B8%AD%E5%BF%83%E5%A4%A7%E6%A5%BC%E4%BA%AE%E8%B5%B7%E5%8D%81%E5%AD%97%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [台当局：没看到日本排污风险](https://www.baidu.com/s?wd=%E5%8F%B0%E5%BD%93%E5%B1%80%EF%BC%9A%E6%B2%A1%E7%9C%8B%E5%88%B0%E6%97%A5%E6%9C%AC%E6%8E%92%E6%B1%A1%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
