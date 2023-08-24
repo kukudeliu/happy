@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 11:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 11:33:02</h4></div>
 
 > 微博  
 
 1. [日本核污染水下午排入海洋](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E4%B8%8B%E5%8D%88%E6%8E%92%E5%85%A5%E6%B5%B7%E6%B4%8B%23&t=31&band_rank=1&Refer=top)<br />
-2. [普京紧急返回莫斯科](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%B4%A7%E6%80%A5%E8%BF%94%E5%9B%9E%E8%8E%AB%E6%96%AF%E7%A7%91%23&t=31&band_rank=2&Refer=top)<br />
+2. [吃下核污染食品后果有多严重](https://s.weibo.com/weibo?q=%23%E5%90%83%E4%B8%8B%E6%A0%B8%E6%B1%A1%E6%9F%93%E9%A3%9F%E5%93%81%E5%90%8E%E6%9E%9C%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023年中国网络视听精品创作峰会](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E7%B2%BE%E5%93%81%E5%88%9B%E4%BD%9C%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [吃下核污染食品后果有多严重](https://s.weibo.com/weibo?q=%23%E5%90%83%E4%B8%8B%E6%A0%B8%E6%B1%A1%E6%9F%93%E9%A3%9F%E5%93%81%E5%90%8E%E6%9E%9C%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D%23&t=31&band_rank=4&Refer=top)<br />
+4. [普京紧急返回莫斯科](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%B4%A7%E6%80%A5%E8%BF%94%E5%9B%9E%E8%8E%AB%E6%96%AF%E7%A7%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨迪去剪发店全是张艺兴](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E5%8E%BB%E5%89%AA%E5%8F%91%E5%BA%97%E5%85%A8%E6%98%AF%E5%BC%A0%E8%89%BA%E5%85%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [今天的核污染水排放量预计为200到210吨](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%9A%84%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%94%BE%E9%87%8F%E9%A2%84%E8%AE%A1%E4%B8%BA200%E5%88%B0210%E5%90%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [五部电影联合抵制网络黑水军](https://s.weibo.com/weibo?q=%23%E4%BA%94%E9%83%A8%E7%94%B5%E5%BD%B1%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6%E7%BD%91%E7%BB%9C%E9%BB%91%E6%B0%B4%E5%86%9B%23&t=31&band_rank=7&Refer=top)<br />
