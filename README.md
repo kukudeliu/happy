@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 10:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 10:39:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [瓦格纳中心大楼亮起十字架](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E4%B8%AD%E5%BF%83%E5%A4%A7%E6%A5%BC%E4%BA%AE%E8%B5%B7%E5%8D%81%E5%AD%97%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁静公开抨击行业乱象](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%85%AC%E5%BC%80%E6%8A%A8%E5%87%BB%E8%A1%8C%E4%B8%9A%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [俄飞机坠毁是意外还是有预谋行动？](https://www.baidu.com/s?wd=%E4%BF%84%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81%E6%98%AF%E6%84%8F%E5%A4%96%E8%BF%98%E6%98%AF%E6%9C%89%E9%A2%84%E8%B0%8B%E8%A1%8C%E5%8A%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大连半小时内连震两次 市民上街避险](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%86%85%E8%BF%9E%E9%9C%87%E4%B8%A4%E6%AC%A1+%E5%B8%82%E6%B0%91%E4%B8%8A%E8%A1%97%E9%81%BF%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [日本核污染水排海最新情况](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [瓦格纳中心大楼亮起十字架](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E4%B8%AD%E5%BF%83%E5%A4%A7%E6%A5%BC%E4%BA%AE%E8%B5%B7%E5%8D%81%E5%AD%97%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁静公开抨击行业乱象](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%85%AC%E5%BC%80%E6%8A%A8%E5%87%BB%E8%A1%8C%E4%B8%9A%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [俄飞机坠毁是意外还是有预谋行动？](https://www.baidu.com/s?wd=%E4%BF%84%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81%E6%98%AF%E6%84%8F%E5%A4%96%E8%BF%98%E6%98%AF%E6%9C%89%E9%A2%84%E8%B0%8B%E8%A1%8C%E5%8A%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大连半小时内连震两次 市民上街避险](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%86%85%E8%BF%9E%E9%9C%87%E4%B8%A4%E6%AC%A1+%E5%B8%82%E6%B0%91%E4%B8%8A%E8%A1%97%E9%81%BF%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [日本核污染水排海最新情况](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
