@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 11:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 11:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [科比](https://s.weibo.com/weibo?q=%E7%A7%91%E6%AF%94&t=31&band_rank=6&Refer=top)<br />
 7. [女生考研时查出尿毒症男友不离不弃](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%80%83%E7%A0%94%E6%97%B6%E6%9F%A5%E5%87%BA%E5%B0%BF%E6%AF%92%E7%97%87%E7%94%B7%E5%8F%8B%E4%B8%8D%E7%A6%BB%E4%B8%8D%E5%BC%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [日本核污水排海或化作雨水洒遍全球](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E6%88%96%E5%8C%96%E4%BD%9C%E9%9B%A8%E6%B0%B4%E6%B4%92%E9%81%8D%E5%85%A8%E7%90%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [燃冬票房就像豆汁儿](https://s.weibo.com/weibo?q=%23%E7%87%83%E5%86%AC%E7%A5%A8%E6%88%BF%E5%B0%B1%E5%83%8F%E8%B1%86%E6%B1%81%E5%84%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [今天的核污染水排放量预计为200到210吨](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%9A%84%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%94%BE%E9%87%8F%E9%A2%84%E8%AE%A1%E4%B8%BA200%E5%88%B0210%E5%90%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
