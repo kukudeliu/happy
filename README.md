@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 09:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 09:44:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [普京紧急返回莫斯科](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%B4%A7%E6%80%A5%E8%BF%94%E5%9B%9E%E8%8E%AB%E6%96%AF%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁静公开抨击行业乱象](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%85%AC%E5%BC%80%E6%8A%A8%E5%87%BB%E8%A1%8C%E4%B8%9A%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [俄飞机坠毁是意外还是有预谋行动？](https://www.baidu.com/s?wd=%E4%BF%84%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81%E6%98%AF%E6%84%8F%E5%A4%96%E8%BF%98%E6%98%AF%E6%9C%89%E9%A2%84%E8%B0%8B%E8%A1%8C%E5%8A%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [4名缅甸妙瓦底电诈嫌犯被押解回国](https://www.baidu.com/s?wd=4%E5%90%8D%E7%BC%85%E7%94%B8%E5%A6%99%E7%93%A6%E5%BA%95%E7%94%B5%E8%AF%88%E5%AB%8C%E7%8A%AF%E8%A2%AB%E6%8A%BC%E8%A7%A3%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拼车2人上车3人 司机拒载遭威胁](https://www.baidu.com/s?wd=%E6%8B%BC%E8%BD%A62%E4%BA%BA%E4%B8%8A%E8%BD%A63%E4%BA%BA+%E5%8F%B8%E6%9C%BA%E6%8B%92%E8%BD%BD%E9%81%AD%E5%A8%81%E8%83%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [普京紧急返回莫斯科](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%B4%A7%E6%80%A5%E8%BF%94%E5%9B%9E%E8%8E%AB%E6%96%AF%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宁静公开抨击行业乱象](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%85%AC%E5%BC%80%E6%8A%A8%E5%87%BB%E8%A1%8C%E4%B8%9A%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [俄飞机坠毁是意外还是有预谋行动？](https://www.baidu.com/s?wd=%E4%BF%84%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81%E6%98%AF%E6%84%8F%E5%A4%96%E8%BF%98%E6%98%AF%E6%9C%89%E9%A2%84%E8%B0%8B%E8%A1%8C%E5%8A%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [4名缅甸妙瓦底电诈嫌犯被押解回国](https://www.baidu.com/s?wd=4%E5%90%8D%E7%BC%85%E7%94%B8%E5%A6%99%E7%93%A6%E5%BA%95%E7%94%B5%E8%AF%88%E5%AB%8C%E7%8A%AF%E8%A2%AB%E6%8A%BC%E8%A7%A3%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [拼车2人上车3人 司机拒载遭威胁](https://www.baidu.com/s?wd=%E6%8B%BC%E8%BD%A62%E4%BA%BA%E4%B8%8A%E8%BD%A63%E4%BA%BA+%E5%8F%B8%E6%9C%BA%E6%8B%92%E8%BD%BD%E9%81%AD%E5%A8%81%E8%83%81&sa=fyb_news&rsv_dl=fyb_news)<br />
