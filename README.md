@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 19:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 19:14:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [被骗至缅甸的中科院博士获救](https://www.baidu.com/s?wd=%E8%A2%AB%E9%AA%97%E8%87%B3%E7%BC%85%E7%94%B8%E7%9A%84%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日系化妆品安全受质疑 多家品牌回应](https://www.baidu.com/s?wd=%E6%97%A5%E7%B3%BB%E5%8C%96%E5%A6%86%E5%93%81%E5%AE%89%E5%85%A8%E5%8F%97%E8%B4%A8%E7%96%91+%E5%A4%9A%E5%AE%B6%E5%93%81%E7%89%8C%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“三阳”要来了？多名医生分析](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%89%E9%98%B3%E2%80%9D%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F%E5%A4%9A%E5%90%8D%E5%8C%BB%E7%94%9F%E5%88%86%E6%9E%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [吃下核污染食品后果有多严重](https://www.baidu.com/s?wd=%E5%90%83%E4%B8%8B%E6%A0%B8%E6%B1%A1%E6%9F%93%E9%A3%9F%E5%93%81%E5%90%8E%E6%9E%9C%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [核污染水3000天横跨太平洋](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B43000%E5%A4%A9%E6%A8%AA%E8%B7%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [被骗至缅甸的中科院博士获救](https://www.baidu.com/s?wd=%E8%A2%AB%E9%AA%97%E8%87%B3%E7%BC%85%E7%94%B8%E7%9A%84%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日系化妆品安全受质疑 多家品牌回应](https://www.baidu.com/s?wd=%E6%97%A5%E7%B3%BB%E5%8C%96%E5%A6%86%E5%93%81%E5%AE%89%E5%85%A8%E5%8F%97%E8%B4%A8%E7%96%91+%E5%A4%9A%E5%AE%B6%E5%93%81%E7%89%8C%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“三阳”要来了？多名医生分析](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%89%E9%98%B3%E2%80%9D%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F%E5%A4%9A%E5%90%8D%E5%8C%BB%E7%94%9F%E5%88%86%E6%9E%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [吃下核污染食品后果有多严重](https://www.baidu.com/s?wd=%E5%90%83%E4%B8%8B%E6%A0%B8%E6%B1%A1%E6%9F%93%E9%A3%9F%E5%93%81%E5%90%8E%E6%9E%9C%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [核污染水3000天横跨太平洋](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B43000%E5%A4%A9%E6%A8%AA%E8%B7%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
