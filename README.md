@@ -1,8 +1,8 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 20:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 20:41:01</h4></div>
 
 > 微博  
 
-1. [中方暂停进口日本水产品是完全必要的](https://s.weibo.com/weibo?q=%E4%B8%AD%E6%96%B9%E6%9A%82%E5%81%9C%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81%E6%98%AF%E5%AE%8C%E5%85%A8%E5%BF%85%E8%A6%81%E7%9A%84&t=31&band_rank=1&Refer=top)<br />
+1. [中方暂停进口日本水产品是完全必要的](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E6%9A%82%E5%81%9C%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81%E6%98%AF%E5%AE%8C%E5%85%A8%E5%BF%85%E8%A6%81%E7%9A%84%23&t=31&band_rank=1&Refer=top)<br />
 2. [日本政府已向儿童发核污水安全传单](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E5%B7%B2%E5%90%91%E5%84%BF%E7%AB%A5%E5%8F%91%E6%A0%B8%E6%B1%A1%E6%B0%B4%E5%AE%89%E5%85%A8%E4%BC%A0%E5%8D%95%23&t=31&band_rank=2&Refer=top)<br />
 3. [秉持开放包容合作共赢的金砖精神](https://s.weibo.com/weibo?q=%23%E7%A7%89%E6%8C%81%E5%BC%80%E6%94%BE%E5%8C%85%E5%AE%B9%E5%90%88%E4%BD%9C%E5%85%B1%E8%B5%A2%E7%9A%84%E9%87%91%E7%A0%96%E7%B2%BE%E7%A5%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [富士山爆发若达5级东京会受影响](https://s.weibo.com/weibo?q=%23%E5%AF%8C%E5%A3%AB%E5%B1%B1%E7%88%86%E5%8F%91%E8%8B%A5%E8%BE%BE5%E7%BA%A7%E4%B8%9C%E4%BA%AC%E4%BC%9A%E5%8F%97%E5%BD%B1%E5%93%8D%23&t=31&band_rank=4&Refer=top)<br />
