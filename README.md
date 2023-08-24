@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 17:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 17:02:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [都排成鸳鸯锅了还嘴硬是安全的](https://s.weibo.com/weibo?q=%23%E9%83%BD%E6%8E%92%E6%88%90%E9%B8%B3%E9%B8%AF%E9%94%85%E4%BA%86%E8%BF%98%E5%98%B4%E7%A1%AC%E6%98%AF%E5%AE%89%E5%85%A8%E7%9A%84%23&t=31&band_rank=4&Refer=top)<br />
 5. [四杯咖啡 五个领导](https://s.weibo.com/weibo?q=%E5%9B%9B%E6%9D%AF%E5%92%96%E5%95%A1%20%E4%BA%94%E4%B8%AA%E9%A2%86%E5%AF%BC&t=31&band_rank=5&Refer=top)<br />
 6. [我封你做大太子不做这三太子](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%B0%81%E4%BD%A0%E5%81%9A%E5%A4%A7%E5%A4%AA%E5%AD%90%E4%B8%8D%E5%81%9A%E8%BF%99%E4%B8%89%E5%A4%AA%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
-7. [封神全员BE](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E5%85%A8%E5%91%98BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘宇真的好爱苍兰诀](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%88%B1%E8%8B%8D%E5%85%B0%E8%AF%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [AI换脸换声让已故演员重现屏幕](https://s.weibo.com/weibo?q=%23AI%E6%8D%A2%E8%84%B8%E6%8D%A2%E5%A3%B0%E8%AE%A9%E5%B7%B2%E6%95%85%E6%BC%94%E5%91%98%E9%87%8D%E7%8E%B0%E5%B1%8F%E5%B9%95%23&t=31&band_rank=9&Refer=top)<br />
+7. [刘宇真的好爱苍兰诀](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%88%B1%E8%8B%8D%E5%85%B0%E8%AF%80%23&t=31&band_rank=7&Refer=top)<br />
+8. [AI换脸换声让已故演员重现屏幕](https://s.weibo.com/weibo?q=%23AI%E6%8D%A2%E8%84%B8%E6%8D%A2%E5%A3%B0%E8%AE%A9%E5%B7%B2%E6%95%85%E6%BC%94%E5%91%98%E9%87%8D%E7%8E%B0%E5%B1%8F%E5%B9%95%23&t=31&band_rank=8&Refer=top)<br />
+9. [封神全员BE](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E5%85%A8%E5%91%98BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
