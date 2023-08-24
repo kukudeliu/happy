@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 09:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-24 09:38:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [王阳新剧被李兰迪亲了的反应](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%98%B3%E6%96%B0%E5%89%A7%E8%A2%AB%E6%9D%8E%E5%85%B0%E8%BF%AA%E4%BA%B2%E4%BA%86%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=5&Refer=top)<br />
 6. [民警和女友的约会太刺激了](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%92%8C%E5%A5%B3%E5%8F%8B%E7%9A%84%E7%BA%A6%E4%BC%9A%E5%A4%AA%E5%88%BA%E6%BF%80%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [坠毁飞机乘客包括瓦格纳几乎所有高层](https://s.weibo.com/weibo?q=%23%E5%9D%A0%E6%AF%81%E9%A3%9E%E6%9C%BA%E4%B9%98%E5%AE%A2%E5%8C%85%E6%8B%AC%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89%E9%AB%98%E5%B1%82%23&t=31&band_rank=7&Refer=top)<br />
-8. [瓦格纳集团称普里戈任被叛徒杀害](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E7%A7%B0%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E8%A2%AB%E5%8F%9B%E5%BE%92%E6%9D%80%E5%AE%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [燃冬票房就像豆汁儿](https://s.weibo.com/weibo?q=%23%E7%87%83%E5%86%AC%E7%A5%A8%E6%88%BF%E5%B0%B1%E5%83%8F%E8%B1%86%E6%B1%81%E5%84%BF%23&t=31&band_rank=9&Refer=top)<br />
+8. [燃冬票房就像豆汁儿](https://s.weibo.com/weibo?q=%23%E7%87%83%E5%86%AC%E7%A5%A8%E6%88%BF%E5%B0%B1%E5%83%8F%E8%B1%86%E6%B1%81%E5%84%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [景甜没人告诉我扫楼要跑啊](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E6%B2%A1%E4%BA%BA%E5%91%8A%E8%AF%89%E6%88%91%E6%89%AB%E6%A5%BC%E8%A6%81%E8%B7%91%E5%95%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [共建更加美好的世界](https://www.baidu.com/s?wd=%E5%85%B1%E5%BB%BA%E6%9B%B4%E5%8A%A0%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [福岛核事故影响：患癌人数逐年上升](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B2%9B%E6%A0%B8%E4%BA%8B%E6%95%85%E5%BD%B1%E5%93%8D%EF%BC%9A%E6%82%A3%E7%99%8C%E4%BA%BA%E6%95%B0%E9%80%90%E5%B9%B4%E4%B8%8A%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京紧急返回莫斯科](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%B4%A7%E6%80%A5%E8%BF%94%E5%9B%9E%E8%8E%AB%E6%96%AF%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [瓦格纳创始人普里戈任坠机身亡](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%9D%A0%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄飞机坠毁是意外还是有预谋行动？](https://www.baidu.com/s?wd=%E4%BF%84%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81%E6%98%AF%E6%84%8F%E5%A4%96%E8%BF%98%E6%98%AF%E6%9C%89%E9%A2%84%E8%B0%8B%E8%A1%8C%E5%8A%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [俄飞机坠毁是意外还是有预谋行动？](https://www.baidu.com/s?wd=%E4%BF%84%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81%E6%98%AF%E6%84%8F%E5%A4%96%E8%BF%98%E6%98%AF%E6%9C%89%E9%A2%84%E8%B0%8B%E8%A1%8C%E5%8A%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宁静公开抨击行业乱象](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%85%AC%E5%BC%80%E6%8A%A8%E5%87%BB%E8%A1%8C%E4%B8%9A%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [俄方：已立案侦查特维尔州坠机事件](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E5%B7%B2%E7%AB%8B%E6%A1%88%E4%BE%A6%E6%9F%A5%E7%89%B9%E7%BB%B4%E5%B0%94%E5%B7%9E%E5%9D%A0%E6%9C%BA%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [共建更加美好的世界](https://www.baidu.com/s?wd=%E5%85%B1%E5%BB%BA%E6%9B%B4%E5%8A%A0%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [福岛核事故影响：患癌人数逐年上升](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B2%9B%E6%A0%B8%E4%BA%8B%E6%95%85%E5%BD%B1%E5%93%8D%EF%BC%9A%E6%82%A3%E7%99%8C%E4%BA%BA%E6%95%B0%E9%80%90%E5%B9%B4%E4%B8%8A%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京紧急返回莫斯科](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%B4%A7%E6%80%A5%E8%BF%94%E5%9B%9E%E8%8E%AB%E6%96%AF%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [瓦格纳创始人普里戈任坠机身亡](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%9D%A0%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄飞机坠毁是意外还是有预谋行动？](https://www.baidu.com/s?wd=%E4%BF%84%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81%E6%98%AF%E6%84%8F%E5%A4%96%E8%BF%98%E6%98%AF%E6%9C%89%E9%A2%84%E8%B0%8B%E8%A1%8C%E5%8A%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [俄飞机坠毁是意外还是有预谋行动？](https://www.baidu.com/s?wd=%E4%BF%84%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81%E6%98%AF%E6%84%8F%E5%A4%96%E8%BF%98%E6%98%AF%E6%9C%89%E9%A2%84%E8%B0%8B%E8%A1%8C%E5%8A%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宁静公开抨击行业乱象](https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%85%AC%E5%BC%80%E6%8A%A8%E5%87%BB%E8%A1%8C%E4%B8%9A%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [俄方：已立案侦查特维尔州坠机事件](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E5%B7%B2%E7%AB%8B%E6%A1%88%E4%BE%A6%E6%9F%A5%E7%89%B9%E7%BB%B4%E5%B0%94%E5%B7%9E%E5%9D%A0%E6%9C%BA%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
