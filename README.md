@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 01:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 01:53:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [日本一天内两次地震](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A4%A9%E5%86%85%E4%B8%A4%E6%AC%A1%E5%9C%B0%E9%9C%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [刘美玲丈夫出轨](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BE%8E%E7%8E%B2%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本水产行业哀鸿遍野](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E8%A1%8C%E4%B8%9A%E5%93%80%E9%B8%BF%E9%81%8D%E9%87%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [谁谈个恋爱天天亲啊](https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%B0%88%E4%B8%AA%E6%81%8B%E7%88%B1%E5%A4%A9%E5%A4%A9%E4%BA%B2%E5%95%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [唐禹哲 白月光](https://s.weibo.com/weibo?q=%E5%94%90%E7%A6%B9%E5%93%B2%20%E7%99%BD%E6%9C%88%E5%85%89&t=31&band_rank=9&Refer=top)<br />
+8. [唐禹哲 白月光](https://s.weibo.com/weibo?q=%E5%94%90%E7%A6%B9%E5%93%B2%20%E7%99%BD%E6%9C%88%E5%85%89&t=31&band_rank=8&Refer=top)<br />
+9. [谁谈个恋爱天天亲啊](https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%B0%88%E4%B8%AA%E6%81%8B%E7%88%B1%E5%A4%A9%E5%A4%A9%E4%BA%B2%E5%95%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
