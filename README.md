@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 23:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 23:39:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [2023“金砖时间”](https://www.baidu.com/s?wd=2023%E2%80%9C%E9%87%91%E7%A0%96%E6%97%B6%E9%97%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [以金砖担当开创美好未来](https://www.baidu.com/s?wd=%E4%BB%A5%E9%87%91%E7%A0%96%E6%8B%85%E5%BD%93%E5%BC%80%E5%88%9B%E7%BE%8E%E5%A5%BD%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [日媒：日本水产行业“哀鸿遍野”](https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E8%A1%8C%E4%B8%9A%E2%80%9C%E5%93%80%E9%B8%BF%E9%81%8D%E9%87%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [日本大使馆:在华日本人别大声说日语](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E9%A6%86%3A%E5%9C%A8%E5%8D%8E%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%88%AB%E5%A4%A7%E5%A3%B0%E8%AF%B4%E6%97%A5%E8%AF%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [金砖，加！“金砖+”](https://www.baidu.com/s?wd=%E9%87%91%E7%A0%96%EF%BC%8C%E5%8A%A0%EF%BC%81%E2%80%9C%E9%87%91%E7%A0%96%2B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [2023“金砖时间”](https://www.baidu.com/s?wd=2023%E2%80%9C%E9%87%91%E7%A0%96%E6%97%B6%E9%97%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [以金砖担当开创美好未来](https://www.baidu.com/s?wd=%E4%BB%A5%E9%87%91%E7%A0%96%E6%8B%85%E5%BD%93%E5%BC%80%E5%88%9B%E7%BE%8E%E5%A5%BD%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [日媒：日本水产行业“哀鸿遍野”](https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E8%A1%8C%E4%B8%9A%E2%80%9C%E5%93%80%E9%B8%BF%E9%81%8D%E9%87%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [日本大使馆:在华日本人别大声说日语](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E9%A6%86%3A%E5%9C%A8%E5%8D%8E%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%88%AB%E5%A4%A7%E5%A3%B0%E8%AF%B4%E6%97%A5%E8%AF%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [金砖，加！“金砖+”](https://www.baidu.com/s?wd=%E9%87%91%E7%A0%96%EF%BC%8C%E5%8A%A0%EF%BC%81%E2%80%9C%E9%87%91%E7%A0%96%2B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
