@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 22:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 22:58:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [台风将影响日本 或让核污水向东传](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%B0%86%E5%BD%B1%E5%93%8D%E6%97%A5%E6%9C%AC+%E6%88%96%E8%AE%A9%E6%A0%B8%E6%B1%A1%E6%B0%B4%E5%90%91%E4%B8%9C%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [卫星图显示福岛核污染水激增](https://www.baidu.com/s?wd=%E5%8D%AB%E6%98%9F%E5%9B%BE%E6%98%BE%E7%A4%BA%E7%A6%8F%E5%B2%9B%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%BF%80%E5%A2%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [河南叶县岩盐可供全国吃3.3万年](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%8F%B6%E5%8E%BF%E5%B2%A9%E7%9B%90%E5%8F%AF%E4%BE%9B%E5%85%A8%E5%9B%BD%E5%90%833.3%E4%B8%87%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙江舟山梭子蟹销量售价双双反弹](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E8%88%9F%E5%B1%B1%E6%A2%AD%E5%AD%90%E8%9F%B9%E9%94%80%E9%87%8F%E5%94%AE%E4%BB%B7%E5%8F%8C%E5%8F%8C%E5%8F%8D%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [好声音母公司：支持浙江卫视决定](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%AF%8D%E5%85%AC%E5%8F%B8%EF%BC%9A%E6%94%AF%E6%8C%81%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%86%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [台风将影响日本 或让核污水向东传](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%B0%86%E5%BD%B1%E5%93%8D%E6%97%A5%E6%9C%AC+%E6%88%96%E8%AE%A9%E6%A0%B8%E6%B1%A1%E6%B0%B4%E5%90%91%E4%B8%9C%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [卫星图显示福岛核污染水激增](https://www.baidu.com/s?wd=%E5%8D%AB%E6%98%9F%E5%9B%BE%E6%98%BE%E7%A4%BA%E7%A6%8F%E5%B2%9B%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%BF%80%E5%A2%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [河南叶县岩盐可供全国吃3.3万年](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%8F%B6%E5%8E%BF%E5%B2%A9%E7%9B%90%E5%8F%AF%E4%BE%9B%E5%85%A8%E5%9B%BD%E5%90%833.3%E4%B8%87%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙江舟山梭子蟹销量售价双双反弹](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E8%88%9F%E5%B1%B1%E6%A2%AD%E5%AD%90%E8%9F%B9%E9%94%80%E9%87%8F%E5%94%AE%E4%BB%B7%E5%8F%8C%E5%8F%8C%E5%8F%8D%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [好声音母公司：支持浙江卫视决定](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%AF%8D%E5%85%AC%E5%8F%B8%EF%BC%9A%E6%94%AF%E6%8C%81%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%86%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
