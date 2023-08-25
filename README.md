@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 18:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 18:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赌的就是你不要小票](https://s.weibo.com/weibo?q=%23%E8%B5%8C%E7%9A%84%E5%B0%B1%E6%98%AF%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%B0%8F%E7%A5%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [残疾小伙免费给农村老人残疾人理发](https://s.weibo.com/weibo?q=%23%E6%AE%8B%E7%96%BE%E5%B0%8F%E4%BC%99%E5%85%8D%E8%B4%B9%E7%BB%99%E5%86%9C%E6%9D%91%E8%80%81%E4%BA%BA%E6%AE%8B%E7%96%BE%E4%BA%BA%E7%90%86%E5%8F%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [毛不易 生气是为了让对方知道边界](https://s.weibo.com/weibo?q=%E6%AF%9B%E4%B8%8D%E6%98%93%20%E7%94%9F%E6%B0%94%E6%98%AF%E4%B8%BA%E4%BA%86%E8%AE%A9%E5%AF%B9%E6%96%B9%E7%9F%A5%E9%81%93%E8%BE%B9%E7%95%8C&t=31&band_rank=8&Refer=top)<br />
-9. [李玟或将安葬在武汉](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E6%88%96%E5%B0%86%E5%AE%89%E8%91%AC%E5%9C%A8%E6%AD%A6%E6%B1%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [日本公布排海启动瞬间画面](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%85%AC%E5%B8%83%E6%8E%92%E6%B5%B7%E5%90%AF%E5%8A%A8%E7%9E%AC%E9%97%B4%E7%94%BB%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
