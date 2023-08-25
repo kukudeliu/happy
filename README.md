@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 04:35:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 04:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [凤凰传奇感谢汪苏泷救场央视秋晚](https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E6%84%9F%E8%B0%A2%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%95%91%E5%9C%BA%E5%A4%AE%E8%A7%86%E7%A7%8B%E6%99%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本公布排海启动瞬间画面](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%85%AC%E5%B8%83%E6%8E%92%E6%B5%B7%E5%90%AF%E5%8A%A8%E7%9E%AC%E9%97%B4%E7%94%BB%E9%9D%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [原来身上的泥不能用力搓](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BA%AB%E4%B8%8A%E7%9A%84%E6%B3%A5%E4%B8%8D%E8%83%BD%E7%94%A8%E5%8A%9B%E6%90%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [披荆斩棘好抓马](https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%A5%BD%E6%8A%93%E9%A9%AC%23&t=31&band_rank=9&Refer=top)<br />
+9. [渐冻人蔡磊称已在准备身后事](https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E4%BA%BA%E8%94%A1%E7%A3%8A%E7%A7%B0%E5%B7%B2%E5%9C%A8%E5%87%86%E5%A4%87%E8%BA%AB%E5%90%8E%E4%BA%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
