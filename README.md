@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 19:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 19:45:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [浙江嘉兴全面取消限购限售](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%98%89%E5%85%B4%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E9%99%90%E8%B4%AD%E9%99%90%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#中国好声音暂停播出#](https://www.baidu.com/s?wd=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%9A%82%E5%81%9C%E6%92%AD%E5%87%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杭州小伙要去缅北发财被紧急拦截](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%B0%8F%E4%BC%99%E8%A6%81%E5%8E%BB%E7%BC%85%E5%8C%97%E5%8F%91%E8%B4%A2%E8%A2%AB%E7%B4%A7%E6%80%A5%E6%8B%A6%E6%88%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普里戈任坠机前有神秘人登机](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%9D%A0%E6%9C%BA%E5%89%8D%E6%9C%89%E7%A5%9E%E7%A7%98%E4%BA%BA%E7%99%BB%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李玟或将安葬在武汉](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E6%88%96%E5%B0%86%E5%AE%89%E8%91%AC%E5%9C%A8%E6%AD%A6%E6%B1%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [浙江嘉兴全面取消限购限售](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%98%89%E5%85%B4%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E9%99%90%E8%B4%AD%E9%99%90%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#中国好声音暂停播出#](https://www.baidu.com/s?wd=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%9A%82%E5%81%9C%E6%92%AD%E5%87%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杭州小伙要去缅北发财被紧急拦截](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%B0%8F%E4%BC%99%E8%A6%81%E5%8E%BB%E7%BC%85%E5%8C%97%E5%8F%91%E8%B4%A2%E8%A2%AB%E7%B4%A7%E6%80%A5%E6%8B%A6%E6%88%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [普里戈任坠机前有神秘人登机](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%9D%A0%E6%9C%BA%E5%89%8D%E6%9C%89%E7%A5%9E%E7%A7%98%E4%BA%BA%E7%99%BB%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李玟或将安葬在武汉](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E6%88%96%E5%B0%86%E5%AE%89%E8%91%AC%E5%9C%A8%E6%AD%A6%E6%B1%89&sa=fyb_news&rsv_dl=fyb_news)<br />
