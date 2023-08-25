@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 09:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 09:16:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 > 百度  
 
 1. [习近平主席指引金砖合作发展方向](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E6%8C%87%E5%BC%95%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E5%8F%91%E5%B1%95%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [特朗普嫌犯大头照公布](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AB%8C%E7%8A%AF%E5%A4%A7%E5%A4%B4%E7%85%A7%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [日料还能吃吗？多家店铺紧急声明](https://www.baidu.com/s?wd=%E6%97%A5%E6%96%99%E8%BF%98%E8%83%BD%E5%90%83%E5%90%97%EF%BC%9F%E5%A4%9A%E5%AE%B6%E5%BA%97%E9%93%BA%E7%B4%A7%E6%80%A5%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [日料还能吃吗？多家店铺紧急声明](https://www.baidu.com/s?wd=%E6%97%A5%E6%96%99%E8%BF%98%E8%83%BD%E5%90%83%E5%90%97%EF%BC%9F%E5%A4%9A%E5%AE%B6%E5%BA%97%E9%93%BA%E7%B4%A7%E6%80%A5%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [特朗普嫌犯大头照公布](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AB%8C%E7%8A%AF%E5%A4%A7%E5%A4%B4%E7%85%A7%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [为金砖合作机制注入新活力](https://www.baidu.com/s?wd=%E4%B8%BA%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E6%9C%BA%E5%88%B6%E6%B3%A8%E5%85%A5%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：普里戈任命运多舛有才华](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%91%BD%E8%BF%90%E5%A4%9A%E8%88%9B%E6%9C%89%E6%89%8D%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特朗普收押细节：草莓色头发 蓝眼睛](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B6%E6%8A%BC%E7%BB%86%E8%8A%82%EF%BC%9A%E8%8D%89%E8%8E%93%E8%89%B2%E5%A4%B4%E5%8F%91+%E8%93%9D%E7%9C%BC%E7%9D%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,8 +30,8 @@
 > 哔哩哔哩  
 
 1. [习近平主席指引金砖合作发展方向](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E6%8C%87%E5%BC%95%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E5%8F%91%E5%B1%95%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [特朗普嫌犯大头照公布](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AB%8C%E7%8A%AF%E5%A4%A7%E5%A4%B4%E7%85%A7%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [日料还能吃吗？多家店铺紧急声明](https://www.baidu.com/s?wd=%E6%97%A5%E6%96%99%E8%BF%98%E8%83%BD%E5%90%83%E5%90%97%EF%BC%9F%E5%A4%9A%E5%AE%B6%E5%BA%97%E9%93%BA%E7%B4%A7%E6%80%A5%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [日料还能吃吗？多家店铺紧急声明](https://www.baidu.com/s?wd=%E6%97%A5%E6%96%99%E8%BF%98%E8%83%BD%E5%90%83%E5%90%97%EF%BC%9F%E5%A4%9A%E5%AE%B6%E5%BA%97%E9%93%BA%E7%B4%A7%E6%80%A5%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [特朗普嫌犯大头照公布](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AB%8C%E7%8A%AF%E5%A4%A7%E5%A4%B4%E7%85%A7%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [为金砖合作机制注入新活力](https://www.baidu.com/s?wd=%E4%B8%BA%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E6%9C%BA%E5%88%B6%E6%B3%A8%E5%85%A5%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：普里戈任命运多舛有才华](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%91%BD%E8%BF%90%E5%A4%9A%E8%88%9B%E6%9C%89%E6%89%8D%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特朗普收押细节：草莓色头发 蓝眼睛](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B6%E6%8A%BC%E7%BB%86%E8%8A%82%EF%BC%9A%E8%8D%89%E8%8E%93%E8%89%B2%E5%A4%B4%E5%8F%91+%E8%93%9D%E7%9C%BC%E7%9D%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
