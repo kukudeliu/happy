@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 12:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 12:32:01</h4></div>
 
 > 微博  
 
-1. [中国好声音暂停播出](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%9A%82%E5%81%9C%E6%92%AD%E5%87%BA%23&t=31&band_rank=1&Refer=top)<br />
-2. [日本核污染水排海民众忍无可忍](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E6%B0%91%E4%BC%97%E5%BF%8D%E6%97%A0%E5%8F%AF%E5%BF%8D%23&t=31&band_rank=2&Refer=top)<br />
+1. [日本核污染水排海民众忍无可忍](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E6%B0%91%E4%BC%97%E5%BF%8D%E6%97%A0%E5%8F%AF%E5%BF%8D%23&t=31&band_rank=1&Refer=top)<br />
+2. [中国好声音暂停播出](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%9A%82%E5%81%9C%E6%92%AD%E5%87%BA%23&t=31&band_rank=2&Refer=top)<br />
 3. [金砖合作大有可为金砖国家未来可期](https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E5%A4%A7%E6%9C%89%E5%8F%AF%E4%B8%BA%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [监狱公布特朗普身高体重](https://s.weibo.com/weibo?q=%23%E7%9B%91%E7%8B%B1%E5%85%AC%E5%B8%83%E7%89%B9%E6%9C%97%E6%99%AE%E8%BA%AB%E9%AB%98%E4%BD%93%E9%87%8D%23&t=31&band_rank=4&Refer=top)<br />
 5. [美国一边支持日本排海一边减少进口](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%BE%B9%E6%94%AF%E6%8C%81%E6%97%A5%E6%9C%AC%E6%8E%92%E6%B5%B7%E4%B8%80%E8%BE%B9%E5%87%8F%E5%B0%91%E8%BF%9B%E5%8F%A3%23&t=31&band_rank=5&Refer=top)<br />
