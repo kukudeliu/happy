@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 09:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 09:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [茶颜悦色](https://s.weibo.com/weibo?q=%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2&t=31&band_rank=6&Refer=top)<br />
 7. [日本本州东海岸远海5.8级地震](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E4%B8%9C%E6%B5%B7%E5%B2%B8%E8%BF%9C%E6%B5%B75.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [中方暂停进口日本水产品是完全必要的](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E6%9A%82%E5%81%9C%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81%E6%98%AF%E5%AE%8C%E5%85%A8%E5%BF%85%E8%A6%81%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [欧阳娜娜说自己要回去上学了](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E8%AF%B4%E8%87%AA%E5%B7%B1%E8%A6%81%E5%9B%9E%E5%8E%BB%E4%B8%8A%E5%AD%A6%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [日本政府欺骗儿童意欲何为](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E6%AC%BA%E9%AA%97%E5%84%BF%E7%AB%A5%E6%84%8F%E6%AC%B2%E4%BD%95%E4%B8%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [特朗普收押细节：草莓色头发 蓝眼睛](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B6%E6%8A%BC%E7%BB%86%E8%8A%82%EF%BC%9A%E8%8D%89%E8%8E%93%E8%89%B2%E5%A4%B4%E5%8F%91+%E8%93%9D%E7%9C%BC%E7%9D%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本本州东海岸远海5.8级地震](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E4%B8%9C%E6%B5%B7%E5%B2%B8%E8%BF%9C%E6%B5%B75.8%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [徐州一湖水质呈绿色出现死鱼](https://www.baidu.com/s?wd=%E5%BE%90%E5%B7%9E%E4%B8%80%E6%B9%96%E6%B0%B4%E8%B4%A8%E5%91%88%E7%BB%BF%E8%89%B2%E5%87%BA%E7%8E%B0%E6%AD%BB%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [流浪地球导演郭帆用日漫讽刺日本](https://www.baidu.com/s?wd=%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E5%AF%BC%E6%BC%94%E9%83%AD%E5%B8%86%E7%94%A8%E6%97%A5%E6%BC%AB%E8%AE%BD%E5%88%BA%E6%97%A5%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [原来奥特曼是纪录片](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%98%AF%E7%BA%AA%E5%BD%95%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [特朗普收押细节：草莓色头发 蓝眼睛](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B6%E6%8A%BC%E7%BB%86%E8%8A%82%EF%BC%9A%E8%8D%89%E8%8E%93%E8%89%B2%E5%A4%B4%E5%8F%91+%E8%93%9D%E7%9C%BC%E7%9D%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本本州东海岸远海5.8级地震](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E4%B8%9C%E6%B5%B7%E5%B2%B8%E8%BF%9C%E6%B5%B75.8%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [徐州一湖水质呈绿色出现死鱼](https://www.baidu.com/s?wd=%E5%BE%90%E5%B7%9E%E4%B8%80%E6%B9%96%E6%B0%B4%E8%B4%A8%E5%91%88%E7%BB%BF%E8%89%B2%E5%87%BA%E7%8E%B0%E6%AD%BB%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [流浪地球导演郭帆用日漫讽刺日本](https://www.baidu.com/s?wd=%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E5%AF%BC%E6%BC%94%E9%83%AD%E5%B8%86%E7%94%A8%E6%97%A5%E6%BC%AB%E8%AE%BD%E5%88%BA%E6%97%A5%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [原来奥特曼是纪录片](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%98%AF%E7%BA%AA%E5%BD%95%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
