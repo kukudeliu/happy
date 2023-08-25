@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 06:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 06:25:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [要坚持真正的多边主义](https://s.weibo.com/weibo?q=%23%E8%A6%81%E5%9D%9A%E6%8C%81%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%A4%9A%E8%BE%B9%E4%B8%BB%E4%B9%89%23&t=31&band_rank=3&Refer=top)<br />
 4. [张杰一句话高情商介绍朋友](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E4%B8%80%E5%8F%A5%E8%AF%9D%E9%AB%98%E6%83%85%E5%95%86%E4%BB%8B%E7%BB%8D%E6%9C%8B%E5%8F%8B&t=31&band_rank=4&Refer=top)<br />
 5. [日本一天内两次地震](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A4%A9%E5%86%85%E4%B8%A4%E6%AC%A1%E5%9C%B0%E9%9C%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [渐冻人蔡磊称已在准备身后事](https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E4%BA%BA%E8%94%A1%E7%A3%8A%E7%A7%B0%E5%B7%B2%E5%9C%A8%E5%87%86%E5%A4%87%E8%BA%AB%E5%90%8E%E4%BA%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [刘美玲丈夫出轨](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BE%8E%E7%8E%B2%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8%23&t=31&band_rank=7&Refer=top)<br />
+6. [刘美玲丈夫出轨](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BE%8E%E7%8E%B2%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8%23&t=31&band_rank=6&Refer=top)<br />
+7. [渐冻人蔡磊称已在准备身后事](https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E4%BA%BA%E8%94%A1%E7%A3%8A%E7%A7%B0%E5%B7%B2%E5%9C%A8%E5%87%86%E5%A4%87%E8%BA%AB%E5%90%8E%E4%BA%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [原来身上的泥不能用力搓](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BA%AB%E4%B8%8A%E7%9A%84%E6%B3%A5%E4%B8%8D%E8%83%BD%E7%94%A8%E5%8A%9B%E6%90%93%23&t=31&band_rank=8&Refer=top)<br />
 9. [蓝正龙好帅](https://s.weibo.com/weibo?q=%E8%93%9D%E6%AD%A3%E9%BE%99%E5%A5%BD%E5%B8%85&t=31&band_rank=9&Refer=top)<br />
 
