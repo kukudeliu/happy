@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 12:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 12:29:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [国内7万家日式餐厅该何去何从](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%857%E4%B8%87%E5%AE%B6%E6%97%A5%E5%BC%8F%E9%A4%90%E5%8E%85%E8%AF%A5%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#中国好声音暂停播出#](https://www.baidu.com/s?wd=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%9A%82%E5%81%9C%E6%92%AD%E5%87%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [茶卡盐湖现有盐够全国吃70年](https://www.baidu.com/s?wd=%E8%8C%B6%E5%8D%A1%E7%9B%90%E6%B9%96%E7%8E%B0%E6%9C%89%E7%9B%90%E5%A4%9F%E5%85%A8%E5%9B%BD%E5%90%8370%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [深圳洒水车在暴雨中洒水作业](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%B4%92%E6%B0%B4%E8%BD%A6%E5%9C%A8%E6%9A%B4%E9%9B%A8%E4%B8%AD%E6%B4%92%E6%B0%B4%E4%BD%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [特朗普自首后：这是美国悲伤的一天](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E9%A6%96%E5%90%8E%EF%BC%9A%E8%BF%99%E6%98%AF%E7%BE%8E%E5%9B%BD%E6%82%B2%E4%BC%A4%E7%9A%84%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [国内7万家日式餐厅该何去何从](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%857%E4%B8%87%E5%AE%B6%E6%97%A5%E5%BC%8F%E9%A4%90%E5%8E%85%E8%AF%A5%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#中国好声音暂停播出#](https://www.baidu.com/s?wd=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%9A%82%E5%81%9C%E6%92%AD%E5%87%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [茶卡盐湖现有盐够全国吃70年](https://www.baidu.com/s?wd=%E8%8C%B6%E5%8D%A1%E7%9B%90%E6%B9%96%E7%8E%B0%E6%9C%89%E7%9B%90%E5%A4%9F%E5%85%A8%E5%9B%BD%E5%90%8370%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [深圳洒水车在暴雨中洒水作业](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%B4%92%E6%B0%B4%E8%BD%A6%E5%9C%A8%E6%9A%B4%E9%9B%A8%E4%B8%AD%E6%B4%92%E6%B0%B4%E4%BD%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [特朗普自首后：这是美国悲伤的一天](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E9%A6%96%E5%90%8E%EF%BC%9A%E8%BF%99%E6%98%AF%E7%BE%8E%E5%9B%BD%E6%82%B2%E4%BC%A4%E7%9A%84%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
