@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 14:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 14:50:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [黄晓明发长文谈最后的真相](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%8F%91%E9%95%BF%E6%96%87%E8%B0%88%E6%9C%80%E5%90%8E%E7%9A%84%E7%9C%9F%E7%9B%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [中国好声音暂停播出](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%9A%82%E5%81%9C%E6%92%AD%E5%87%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [严禁采买日本水产品网络销售](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E7%A6%81%E9%87%87%E4%B9%B0%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81%E7%BD%91%E7%BB%9C%E9%94%80%E5%94%AE%23&t=31&band_rank=7&Refer=top)<br />
-8. [西北太平洋已现双台风](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%8C%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B7%B2%E7%8E%B0%E5%8F%8C%E5%8F%B0%E9%A3%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [百事可乐](https://s.weibo.com/weibo?q=%E7%99%BE%E4%BA%8B%E5%8F%AF%E4%B9%90&t=31&band_rank=9&Refer=top)<br />
+8. [百事可乐](https://s.weibo.com/weibo?q=%E7%99%BE%E4%BA%8B%E5%8F%AF%E4%B9%90&t=31&band_rank=8&Refer=top)<br />
+9. [西北太平洋已现双台风](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%8C%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B7%B2%E7%8E%B0%E5%8F%8C%E5%8F%B0%E9%A3%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
