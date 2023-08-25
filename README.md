@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 18:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 18:02:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [赌的就是你不要小票](https://s.weibo.com/weibo?q=%23%E8%B5%8C%E7%9A%84%E5%B0%B1%E6%98%AF%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%B0%8F%E7%A5%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [被送精神病院千万富翁已自缢身亡](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%80%81%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E5%8D%83%E4%B8%87%E5%AF%8C%E7%BF%81%E5%B7%B2%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [0713](https://s.weibo.com/weibo?q=0713&t=31&band_rank=6&Refer=top)<br />
-7. [日本核污染水排海当天大阪突降暴雨](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%BD%93%E5%A4%A9%E5%A4%A7%E9%98%AA%E7%AA%81%E9%99%8D%E6%9A%B4%E9%9B%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [李玟或将安葬在武汉](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E6%88%96%E5%B0%86%E5%AE%89%E8%91%AC%E5%9C%A8%E6%AD%A6%E6%B1%89%23&t=31&band_rank=8&Refer=top)<br />
+7. [李玟或将安葬在武汉](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E6%88%96%E5%B0%86%E5%AE%89%E8%91%AC%E5%9C%A8%E6%AD%A6%E6%B1%89%23&t=31&band_rank=7&Refer=top)<br />
+8. [日本核污染水排海当天大阪突降暴雨](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%BD%93%E5%A4%A9%E5%A4%A7%E9%98%AA%E7%AA%81%E9%99%8D%E6%9A%B4%E9%9B%A8%23&t=31&band_rank=8&Refer=top)<br />
 9. [毛不易 生气是为了让对方知道边界](https://s.weibo.com/weibo?q=%E6%AF%9B%E4%B8%8D%E6%98%93%20%E7%94%9F%E6%B0%94%E6%98%AF%E4%B8%BA%E4%BA%86%E8%AE%A9%E5%AF%B9%E6%96%B9%E7%9F%A5%E9%81%93%E8%BE%B9%E7%95%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
