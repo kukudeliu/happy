@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 13:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 13:23:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [叔侄竟然爱上同一个人](https://s.weibo.com/weibo?q=%23%E5%8F%94%E4%BE%84%E7%AB%9F%E7%84%B6%E7%88%B1%E4%B8%8A%E5%90%8C%E4%B8%80%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [中国好声音暂停播出](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%9A%82%E5%81%9C%E6%92%AD%E5%87%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本本州东海岸远海地震](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E4%B8%9C%E6%B5%B7%E5%B2%B8%E8%BF%9C%E6%B5%B7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [iPhone15Pro新增灰色](https://s.weibo.com/weibo?q=%23iPhone15Pro%E6%96%B0%E5%A2%9E%E7%81%B0%E8%89%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国好声音母公司盘中跳水](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%AF%8D%E5%85%AC%E5%8F%B8%E7%9B%98%E4%B8%AD%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
+8. [中国好声音母公司盘中跳水](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%AF%8D%E5%85%AC%E5%8F%B8%E7%9B%98%E4%B8%AD%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=8&Refer=top)<br />
+9. [iPhone15Pro新增灰色](https://s.weibo.com/weibo?q=%23iPhone15Pro%E6%96%B0%E5%A2%9E%E7%81%B0%E8%89%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [官方回应北极鲶鱼事件调查进度](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#中国好声音暂停播出#](https://www.baidu.com/s?wd=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%9A%82%E5%81%9C%E6%92%AD%E5%87%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [国内7万家日式餐厅该何去何从](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%857%E4%B8%87%E5%AE%B6%E6%97%A5%E5%BC%8F%E9%A4%90%E5%8E%85%E8%AF%A5%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美方：无信息表明坠机是导弹击落](https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%EF%BC%9A%E6%97%A0%E4%BF%A1%E6%81%AF%E8%A1%A8%E6%98%8E%E5%9D%A0%E6%9C%BA%E6%98%AF%E5%AF%BC%E5%BC%B9%E5%87%BB%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [好声音学员发声：记得那个好的声音](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AD%A6%E5%91%98%E5%8F%91%E5%A3%B0%EF%BC%9A%E8%AE%B0%E5%BE%97%E9%82%A3%E4%B8%AA%E5%A5%BD%E7%9A%84%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [官方回应北极鲶鱼事件调查进度](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#中国好声音暂停播出#](https://www.baidu.com/s?wd=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%9A%82%E5%81%9C%E6%92%AD%E5%87%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [国内7万家日式餐厅该何去何从](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%857%E4%B8%87%E5%AE%B6%E6%97%A5%E5%BC%8F%E9%A4%90%E5%8E%85%E8%AF%A5%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美方：无信息表明坠机是导弹击落](https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%EF%BC%9A%E6%97%A0%E4%BF%A1%E6%81%AF%E8%A1%A8%E6%98%8E%E5%9D%A0%E6%9C%BA%E6%98%AF%E5%AF%BC%E5%BC%B9%E5%87%BB%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [好声音学员发声：记得那个好的声音](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AD%A6%E5%91%98%E5%8F%91%E5%A3%B0%EF%BC%9A%E8%AE%B0%E5%BE%97%E9%82%A3%E4%B8%AA%E5%A5%BD%E7%9A%84%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
