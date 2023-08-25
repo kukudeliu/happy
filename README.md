@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 15:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 15:42:01</h4></div>
 
 > 微博  
 
-1. [北极鲶鱼事件核查5个月没结果](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%E6%A0%B8%E6%9F%A55%E4%B8%AA%E6%9C%88%E6%B2%A1%E7%BB%93%E6%9E%9C%23&t=31&band_rank=1&Refer=top)<br />
-2. [日本核污染水排海民众忍无可忍](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E6%B0%91%E4%BC%97%E5%BF%8D%E6%97%A0%E5%8F%AF%E5%BF%8D%23&t=31&band_rank=2&Refer=top)<br />
+1. [日本核污染水排海民众忍无可忍](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E6%B0%91%E4%BC%97%E5%BF%8D%E6%97%A0%E5%8F%AF%E5%BF%8D%23&t=31&band_rank=1&Refer=top)<br />
+2. [北极鲶鱼事件核查5个月没结果](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%E6%A0%B8%E6%9F%A55%E4%B8%AA%E6%9C%88%E6%B2%A1%E7%BB%93%E6%9E%9C%23&t=31&band_rank=2&Refer=top)<br />
 3. [金砖合作大有可为金砖国家未来可期](https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E5%A4%A7%E6%9C%89%E5%8F%AF%E4%B8%BA%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [李玖哲自曝被雪藏7年](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%96%E5%93%B2%E8%87%AA%E6%9B%9D%E8%A2%AB%E9%9B%AA%E8%97%8F7%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [黄晓明发长文谈最后的真相](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%8F%91%E9%95%BF%E6%96%87%E8%B0%88%E6%9C%80%E5%90%8E%E7%9A%84%E7%9C%9F%E7%9B%B8%23&t=31&band_rank=5&Refer=top)<br />
