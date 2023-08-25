@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 08:40:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 08:41:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [日本本州东海岸远海5.8级地震](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E4%B8%9C%E6%B5%B7%E5%B2%B8%E8%BF%9C%E6%B5%B75.8%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [瓦格纳或启动首领遭不测预案机制](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E6%88%96%E5%90%AF%E5%8A%A8%E9%A6%96%E9%A2%86%E9%81%AD%E4%B8%8D%E6%B5%8B%E9%A2%84%E6%A1%88%E6%9C%BA%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [80后出纳挪用570多万公款买彩票](https://www.baidu.com/s?wd=80%E5%90%8E%E5%87%BA%E7%BA%B3%E6%8C%AA%E7%94%A8570%E5%A4%9A%E4%B8%87%E5%85%AC%E6%AC%BE%E4%B9%B0%E5%BD%A9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [举报新东方网红回应曾被判刑](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E6%96%B0%E4%B8%9C%E6%96%B9%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%BA%94%E6%9B%BE%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中盐集团回应食盐抢购现象](https://www.baidu.com/s?wd=%E4%B8%AD%E7%9B%90%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E9%A3%9F%E7%9B%90%E6%8A%A2%E8%B4%AD%E7%8E%B0%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [日本本州东海岸远海5.8级地震](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E4%B8%9C%E6%B5%B7%E5%B2%B8%E8%BF%9C%E6%B5%B75.8%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [瓦格纳或启动首领遭不测预案机制](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E6%88%96%E5%90%AF%E5%8A%A8%E9%A6%96%E9%A2%86%E9%81%AD%E4%B8%8D%E6%B5%8B%E9%A2%84%E6%A1%88%E6%9C%BA%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [80后出纳挪用570多万公款买彩票](https://www.baidu.com/s?wd=80%E5%90%8E%E5%87%BA%E7%BA%B3%E6%8C%AA%E7%94%A8570%E5%A4%9A%E4%B8%87%E5%85%AC%E6%AC%BE%E4%B9%B0%E5%BD%A9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [举报新东方网红回应曾被判刑](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E6%96%B0%E4%B8%9C%E6%96%B9%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%BA%94%E6%9B%BE%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中盐集团回应食盐抢购现象](https://www.baidu.com/s?wd=%E4%B8%AD%E7%9B%90%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E9%A3%9F%E7%9B%90%E6%8A%A2%E8%B4%AD%E7%8E%B0%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
