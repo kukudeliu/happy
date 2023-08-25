@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 20:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 20:49:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [俄方否认“克宫下令杀害普里戈任”](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E5%90%A6%E8%AE%A4%E2%80%9C%E5%85%8B%E5%AE%AB%E4%B8%8B%E4%BB%A4%E6%9D%80%E5%AE%B3%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [巨大太阳黑子或致地球电网瘫痪](https://www.baidu.com/s?wd=%E5%B7%A8%E5%A4%A7%E5%A4%AA%E9%98%B3%E9%BB%91%E5%AD%90%E6%88%96%E8%87%B4%E5%9C%B0%E7%90%83%E7%94%B5%E7%BD%91%E7%98%AB%E7%97%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#中国好声音暂停播出#](https://www.baidu.com/s?wd=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%9A%82%E5%81%9C%E6%92%AD%E5%87%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [林志颖车祸复出后首个舞台](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E9%A2%96%E8%BD%A6%E7%A5%B8%E5%A4%8D%E5%87%BA%E5%90%8E%E9%A6%96%E4%B8%AA%E8%88%9E%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙江嘉兴全面取消限购限售](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%98%89%E5%85%B4%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E9%99%90%E8%B4%AD%E9%99%90%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江嘉兴全面取消限购限售](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%98%89%E5%85%B4%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E9%99%90%E8%B4%AD%E9%99%90%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [陕西煤矿闪爆致11死 责任人被控制](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E7%85%A4%E7%9F%BF%E9%97%AA%E7%88%86%E8%87%B411%E6%AD%BB+%E8%B4%A3%E4%BB%BB%E4%BA%BA%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [俄方否认“克宫下令杀害普里戈任”](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E5%90%A6%E8%AE%A4%E2%80%9C%E5%85%8B%E5%AE%AB%E4%B8%8B%E4%BB%A4%E6%9D%80%E5%AE%B3%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [巨大太阳黑子或致地球电网瘫痪](https://www.baidu.com/s?wd=%E5%B7%A8%E5%A4%A7%E5%A4%AA%E9%98%B3%E9%BB%91%E5%AD%90%E6%88%96%E8%87%B4%E5%9C%B0%E7%90%83%E7%94%B5%E7%BD%91%E7%98%AB%E7%97%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#中国好声音暂停播出#](https://www.baidu.com/s?wd=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%9A%82%E5%81%9C%E6%92%AD%E5%87%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [林志颖车祸复出后首个舞台](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E9%A2%96%E8%BD%A6%E7%A5%B8%E5%A4%8D%E5%87%BA%E5%90%8E%E9%A6%96%E4%B8%AA%E8%88%9E%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙江嘉兴全面取消限购限售](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%98%89%E5%85%B4%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E9%99%90%E8%B4%AD%E9%99%90%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江嘉兴全面取消限购限售](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%98%89%E5%85%B4%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E9%99%90%E8%B4%AD%E9%99%90%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [陕西煤矿闪爆致11死 责任人被控制](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E7%85%A4%E7%9F%BF%E9%97%AA%E7%88%86%E8%87%B411%E6%AD%BB+%E8%B4%A3%E4%BB%BB%E4%BA%BA%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
