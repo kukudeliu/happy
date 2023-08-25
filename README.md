@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 05:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 05:38:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [张杰一句话高情商介绍朋友](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E4%B8%80%E5%8F%A5%E8%AF%9D%E9%AB%98%E6%83%85%E5%95%86%E4%BB%8B%E7%BB%8D%E6%9C%8B%E5%8F%8B&t=31&band_rank=5&Refer=top)<br />
 6. [渐冻人蔡磊称已在准备身后事](https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E4%BA%BA%E8%94%A1%E7%A3%8A%E7%A7%B0%E5%B7%B2%E5%9C%A8%E5%87%86%E5%A4%87%E8%BA%AB%E5%90%8E%E4%BA%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [凤凰传奇感谢汪苏泷救场央视秋晚](https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E6%84%9F%E8%B0%A2%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%95%91%E5%9C%BA%E5%A4%AE%E8%A7%86%E7%A7%8B%E6%99%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [日本公布排海启动瞬间画面](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%85%AC%E5%B8%83%E6%8E%92%E6%B5%B7%E5%90%AF%E5%8A%A8%E7%9E%AC%E9%97%B4%E7%94%BB%E9%9D%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [原来身上的泥不能用力搓](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BA%AB%E4%B8%8A%E7%9A%84%E6%B3%A5%E4%B8%8D%E8%83%BD%E7%94%A8%E5%8A%9B%E6%90%93%23&t=31&band_rank=9&Refer=top)<br />
+8. [原来身上的泥不能用力搓](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BA%AB%E4%B8%8A%E7%9A%84%E6%B3%A5%E4%B8%8D%E8%83%BD%E7%94%A8%E5%8A%9B%E6%90%93%23&t=31&band_rank=8&Refer=top)<br />
+9. [日本公布排海启动瞬间画面](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%85%AC%E5%B8%83%E6%8E%92%E6%B5%B7%E5%90%AF%E5%8A%A8%E7%9E%AC%E9%97%B4%E7%94%BB%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
