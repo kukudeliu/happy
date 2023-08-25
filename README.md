@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 15:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 15:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [严禁采买日本水产品网络销售](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E7%A6%81%E9%87%87%E4%B9%B0%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81%E7%BD%91%E7%BB%9C%E9%94%80%E5%94%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国好声音暂停播出](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%9A%82%E5%81%9C%E6%92%AD%E5%87%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [百事可乐](https://s.weibo.com/weibo?q=%E7%99%BE%E4%BA%8B%E5%8F%AF%E4%B9%90&t=31&band_rank=8&Refer=top)<br />
-9. [西北太平洋已现双台风](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%8C%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B7%B2%E7%8E%B0%E5%8F%8C%E5%8F%B0%E9%A3%8E%23&t=31&band_rank=9&Refer=top)<br />
+9. [多家日妆品牌遭遇退货](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E6%97%A5%E5%A6%86%E5%93%81%E7%89%8C%E9%81%AD%E9%81%87%E9%80%80%E8%B4%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
