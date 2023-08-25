@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 16:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 16:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [日本核污染水排海民众忍无可忍](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E6%B0%91%E4%BC%97%E5%BF%8D%E6%97%A0%E5%8F%AF%E5%BF%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [黄晓明发长文谈最后的真相](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%8F%91%E9%95%BF%E6%96%87%E8%B0%88%E6%9C%80%E5%90%8E%E7%9A%84%E7%9C%9F%E7%9B%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [李玖哲自曝被雪藏7年](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%96%E5%93%B2%E8%87%AA%E6%9B%9D%E8%A2%AB%E9%9B%AA%E8%97%8F7%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [网红大学老师相宜自曝辞职](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E7%9B%B8%E5%AE%9C%E8%87%AA%E6%9B%9D%E8%BE%9E%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [英国妈妈为做缩胸手术卖房](https://s.weibo.com/weibo?q=%E8%8B%B1%E5%9B%BD%E5%A6%88%E5%A6%88%E4%B8%BA%E5%81%9A%E7%BC%A9%E8%83%B8%E6%89%8B%E6%9C%AF%E5%8D%96%E6%88%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
