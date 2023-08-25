@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 11:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 11:08:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [日本本州东海岸远海地震](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E4%B8%9C%E6%B5%B7%E5%B2%B8%E8%BF%9C%E6%B5%B7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [日本核污染水排海民众忍无可忍](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E6%B0%91%E4%BC%97%E5%BF%8D%E6%97%A0%E5%8F%AF%E5%BF%8D%23&t=31&band_rank=3&Refer=top)<br />
 4. [iPhone15Pro新增灰色](https://s.weibo.com/weibo?q=%23iPhone15Pro%E6%96%B0%E5%A2%9E%E7%81%B0%E8%89%B2%23&t=31&band_rank=4&Refer=top)<br />
-5. [3元的豆腐3000元的服务](https://s.weibo.com/weibo?q=%233%E5%85%83%E7%9A%84%E8%B1%86%E8%85%903000%E5%85%83%E7%9A%84%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=5&Refer=top)<br />
-6. [欧阳娜娜说自己要回去上学了](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E8%AF%B4%E8%87%AA%E5%B7%B1%E8%A6%81%E5%9B%9E%E5%8E%BB%E4%B8%8A%E5%AD%A6%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+5. [欧阳娜娜说自己要回去上学了](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E8%AF%B4%E8%87%AA%E5%B7%B1%E8%A6%81%E5%9B%9E%E5%8E%BB%E4%B8%8A%E5%AD%A6%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
+6. [3元的豆腐3000元的服务](https://s.weibo.com/weibo?q=%233%E5%85%83%E7%9A%84%E8%B1%86%E8%85%903000%E5%85%83%E7%9A%84%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本核污染水排海4000天后海洋啥样](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B74000%E5%A4%A9%E5%90%8E%E6%B5%B7%E6%B4%8B%E5%95%A5%E6%A0%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [俞灏明 命运的齿轮又转回来了](https://s.weibo.com/weibo?q=%E4%BF%9E%E7%81%8F%E6%98%8E%20%E5%91%BD%E8%BF%90%E7%9A%84%E9%BD%BF%E8%BD%AE%E5%8F%88%E8%BD%AC%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [长相思演员表没有叶十七](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E6%BC%94%E5%91%98%E8%A1%A8%E6%B2%A1%E6%9C%89%E5%8F%B6%E5%8D%81%E4%B8%83%23&t=31&band_rank=9&Refer=top)<br />
