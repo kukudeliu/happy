@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 16:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 16:22:01</h4></div>
 
 > 微博  
 
 1. [我见过情绪最稳定的小孩](https://s.weibo.com/weibo?q=%E6%88%91%E8%A7%81%E8%BF%87%E6%83%85%E7%BB%AA%E6%9C%80%E7%A8%B3%E5%AE%9A%E7%9A%84%E5%B0%8F%E5%AD%A9&t=31&band_rank=1&Refer=top)<br />
 2. [日本核污染水排海民众忍无可忍](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E6%B0%91%E4%BC%97%E5%BF%8D%E6%97%A0%E5%8F%AF%E5%BF%8D%23&t=31&band_rank=2&Refer=top)<br />
-3. [打造和平发展的大格局](https://s.weibo.com/weibo?q=%23%E6%89%93%E9%80%A0%E5%92%8C%E5%B9%B3%E5%8F%91%E5%B1%95%E7%9A%84%E5%A4%A7%E6%A0%BC%E5%B1%80%23&t=31&band_rank=3&Refer=top)<br />
+3. [在红绿灯上发现杭州亚运会吉祥物](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E7%BA%A2%E7%BB%BF%E7%81%AF%E4%B8%8A%E5%8F%91%E7%8E%B0%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%89%E7%A5%A5%E7%89%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [黄晓明发长文谈最后的真相](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%8F%91%E9%95%BF%E6%96%87%E8%B0%88%E6%9C%80%E5%90%8E%E7%9A%84%E7%9C%9F%E7%9B%B8%23&t=31&band_rank=4&Refer=top)<br />
 5. [李玖哲自曝被雪藏7年](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%96%E5%93%B2%E8%87%AA%E6%9B%9D%E8%A2%AB%E9%9B%AA%E8%97%8F7%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [网红大学老师相宜自曝辞职](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E7%9B%B8%E5%AE%9C%E8%87%AA%E6%9B%9D%E8%BE%9E%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
