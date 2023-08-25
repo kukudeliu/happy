@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 18:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-25 18:52:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [在红绿灯上发现杭州亚运会吉祥物](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E7%BA%A2%E7%BB%BF%E7%81%AF%E4%B8%8A%E5%8F%91%E7%8E%B0%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%89%E7%A5%A5%E7%89%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [被送精神病院千万富翁已自缢身亡](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%80%81%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E5%8D%83%E4%B8%87%E5%AF%8C%E7%BF%81%E5%B7%B2%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子情绪低落被环卫工人送花治愈](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%83%85%E7%BB%AA%E4%BD%8E%E8%90%BD%E8%A2%AB%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%E9%80%81%E8%8A%B1%E6%B2%BB%E6%84%88%23&t=31&band_rank=5&Refer=top)<br />
-6. [赌的就是你不要小票](https://s.weibo.com/weibo?q=%23%E8%B5%8C%E7%9A%84%E5%B0%B1%E6%98%AF%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%B0%8F%E7%A5%A8%23&t=31&band_rank=6&Refer=top)<br />
+6. [日本公布排海启动瞬间画面](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%85%AC%E5%B8%83%E6%8E%92%E6%B5%B7%E5%90%AF%E5%8A%A8%E7%9E%AC%E9%97%B4%E7%94%BB%E9%9D%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [残疾小伙免费给农村老人残疾人理发](https://s.weibo.com/weibo?q=%23%E6%AE%8B%E7%96%BE%E5%B0%8F%E4%BC%99%E5%85%8D%E8%B4%B9%E7%BB%99%E5%86%9C%E6%9D%91%E8%80%81%E4%BA%BA%E6%AE%8B%E7%96%BE%E4%BA%BA%E7%90%86%E5%8F%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [毛不易 生气是为了让对方知道边界](https://s.weibo.com/weibo?q=%E6%AF%9B%E4%B8%8D%E6%98%93%20%E7%94%9F%E6%B0%94%E6%98%AF%E4%B8%BA%E4%BA%86%E8%AE%A9%E5%AF%B9%E6%96%B9%E7%9F%A5%E9%81%93%E8%BE%B9%E7%95%8C&t=31&band_rank=8&Refer=top)<br />
-9. [日本公布排海启动瞬间画面](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%85%AC%E5%B8%83%E6%8E%92%E6%B5%B7%E5%90%AF%E5%8A%A8%E7%9E%AC%E9%97%B4%E7%94%BB%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
+8. [赌的就是你不要小票](https://s.weibo.com/weibo?q=%23%E8%B5%8C%E7%9A%84%E5%B0%B1%E6%98%AF%E4%BD%A0%E4%B8%8D%E8%A6%81%E5%B0%8F%E7%A5%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [毛不易 生气是为了让对方知道边界](https://s.weibo.com/weibo?q=%E6%AF%9B%E4%B8%8D%E6%98%93%20%E7%94%9F%E6%B0%94%E6%98%AF%E4%B8%BA%E4%BA%86%E8%AE%A9%E5%AF%B9%E6%96%B9%E7%9F%A5%E9%81%93%E8%BE%B9%E7%95%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
