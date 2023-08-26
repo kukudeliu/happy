@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 10:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 10:08:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [核污水排海韩国已出现连锁反应](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E9%9F%A9%E5%9B%BD%E5%B7%B2%E5%87%BA%E7%8E%B0%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [核污水排海后日本人在海里游泳](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%90%8E%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%9C%A8%E6%B5%B7%E9%87%8C%E6%B8%B8%E6%B3%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [715万建的雕塑被吐槽又丑又贵](https://www.baidu.com/s?wd=715%E4%B8%87%E5%BB%BA%E7%9A%84%E9%9B%95%E5%A1%91%E8%A2%AB%E5%90%90%E6%A7%BD%E5%8F%88%E4%B8%91%E5%8F%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [上海一日料店上架防辐射套餐](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E6%97%A5%E6%96%99%E5%BA%97%E4%B8%8A%E6%9E%B6%E9%98%B2%E8%BE%90%E5%B0%84%E5%A5%97%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普里戈任专机挂普京驾驶军机照片](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E4%B8%93%E6%9C%BA%E6%8C%82%E6%99%AE%E4%BA%AC%E9%A9%BE%E9%A9%B6%E5%86%9B%E6%9C%BA%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [核污水排海韩国已出现连锁反应](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E9%9F%A9%E5%9B%BD%E5%B7%B2%E5%87%BA%E7%8E%B0%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [核污水排海后日本人在海里游泳](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%90%8E%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%9C%A8%E6%B5%B7%E9%87%8C%E6%B8%B8%E6%B3%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [715万建的雕塑被吐槽又丑又贵](https://www.baidu.com/s?wd=715%E4%B8%87%E5%BB%BA%E7%9A%84%E9%9B%95%E5%A1%91%E8%A2%AB%E5%90%90%E6%A7%BD%E5%8F%88%E4%B8%91%E5%8F%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [上海一日料店上架防辐射套餐](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E6%97%A5%E6%96%99%E5%BA%97%E4%B8%8A%E6%9E%B6%E9%98%B2%E8%BE%90%E5%B0%84%E5%A5%97%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普里戈任专机挂普京驾驶军机照片](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E4%B8%93%E6%9C%BA%E6%8C%82%E6%99%AE%E4%BA%AC%E9%A9%BE%E9%A9%B6%E5%86%9B%E6%9C%BA%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
