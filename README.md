@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 21:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 21:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [范丞丞好韩](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%A5%BD%E9%9F%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [美国年轻人对日本排核污染水态度](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AF%B9%E6%97%A5%E6%9C%AC%E6%8E%92%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%80%81%E5%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [他可能不知道游泳池是透明的](https://s.weibo.com/weibo?q=%23%E4%BB%96%E5%8F%AF%E8%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E6%B8%B8%E6%B3%B3%E6%B1%A0%E6%98%AF%E9%80%8F%E6%98%8E%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国男篮vs塞尔维亚男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E7%94%B7%E7%AF%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [黄渤回应开美颜误伤倪妮](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%9B%9E%E5%BA%94%E5%BC%80%E7%BE%8E%E9%A2%9C%E8%AF%AF%E4%BC%A4%E5%80%AA%E5%A6%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
