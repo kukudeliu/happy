@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 21:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 21:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [连名带姓](https://s.weibo.com/weibo?q=%E8%BF%9E%E5%90%8D%E5%B8%A6%E5%A7%93&t=31&band_rank=5&Refer=top)<br />
 6. [你好星期六成毅](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E6%88%90%E6%AF%85&t=31&band_rank=6&Refer=top)<br />
 7. [浏览前任婚礼请帖上百次被发现](https://s.weibo.com/weibo?q=%E6%B5%8F%E8%A7%88%E5%89%8D%E4%BB%BB%E5%A9%9A%E7%A4%BC%E8%AF%B7%E5%B8%96%E4%B8%8A%E7%99%BE%E6%AC%A1%E8%A2%AB%E5%8F%91%E7%8E%B0&t=31&band_rank=7&Refer=top)<br />
-8. [美国年轻人对日本排核污染水态度](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AF%B9%E6%97%A5%E6%9C%AC%E6%8E%92%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%80%81%E5%BA%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [范丞丞好韩](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%A5%BD%E9%9F%A9%23&t=31&band_rank=9&Refer=top)<br />
+8. [谢娜魏大勋没来Hi6又好像来了](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%B2%A1%E6%9D%A5Hi6%E5%8F%88%E5%A5%BD%E5%83%8F%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [美国年轻人对日本排核污染水态度](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AF%B9%E6%97%A5%E6%9C%AC%E6%8E%92%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%80%81%E5%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
