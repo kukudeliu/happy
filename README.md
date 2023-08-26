@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 10:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 10:25:01</h4></div>
 
 > 微博  
 
-1. [中方在联合国回击日方说辞](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E5%9B%9E%E5%87%BB%E6%97%A5%E6%96%B9%E8%AF%B4%E8%BE%9E%23&t=31&band_rank=1&Refer=top)<br />
-2. [原来长期睡不够6小时容易患癌](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%95%BF%E6%9C%9F%E7%9D%A1%E4%B8%8D%E5%A4%9F6%E5%B0%8F%E6%97%B6%E5%AE%B9%E6%98%93%E6%82%A3%E7%99%8C%23&t=31&band_rank=2&Refer=top)<br />
+1. [原来长期睡不够6小时容易患癌](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%95%BF%E6%9C%9F%E7%9D%A1%E4%B8%8D%E5%A4%9F6%E5%B0%8F%E6%97%B6%E5%AE%B9%E6%98%93%E6%82%A3%E7%99%8C%23&t=31&band_rank=1&Refer=top)<br />
+2. [中方在联合国回击日方说辞](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E5%9B%9E%E5%87%BB%E6%97%A5%E6%96%B9%E8%AF%B4%E8%BE%9E%23&t=31&band_rank=2&Refer=top)<br />
 3. [要坚持真正的多边主义](https://s.weibo.com/weibo?q=%23%E8%A6%81%E5%9D%9A%E6%8C%81%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%A4%9A%E8%BE%B9%E4%B8%BB%E4%B9%89%23&t=31&band_rank=3&Refer=top)<br />
 4. [莲花楼央视版结局](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E5%A4%AE%E8%A7%86%E7%89%88%E7%BB%93%E5%B1%80%23&t=31&band_rank=4&Refer=top)<br />
 5. [原来赵丽颖也喜欢蹦迪](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B9%9F%E5%96%9C%E6%AC%A2%E8%B9%A6%E8%BF%AA%23&t=31&band_rank=5&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [卢卡申科：曾警告普里戈任他或被杀](https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%EF%BC%9A%E6%9B%BE%E8%AD%A6%E5%91%8A%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E4%BB%96%E6%88%96%E8%A2%AB%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [核污水排海韩国已出现连锁反应](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E9%9F%A9%E5%9B%BD%E5%B7%B2%E5%87%BA%E7%8E%B0%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [核污水排海后日本人在海里游泳](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%90%8E%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%9C%A8%E6%B5%B7%E9%87%8C%E6%B8%B8%E6%B3%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [715万建的雕塑被吐槽又丑又贵](https://www.baidu.com/s?wd=715%E4%B8%87%E5%BB%BA%E7%9A%84%E9%9B%95%E5%A1%91%E8%A2%AB%E5%90%90%E6%A7%BD%E5%8F%88%E4%B8%91%E5%8F%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [县政府花715万建雕像 记者采访遭辱骂](https://www.baidu.com/s?wd=%E5%8E%BF%E6%94%BF%E5%BA%9C%E8%8A%B1715%E4%B8%87%E5%BB%BA%E9%9B%95%E5%83%8F+%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E9%81%AD%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [普里戈任专机挂普京驾驶军机照片](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E4%B8%93%E6%9C%BA%E6%8C%82%E6%99%AE%E4%BA%AC%E9%A9%BE%E9%A9%B6%E5%86%9B%E6%9C%BA%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [卢卡申科：曾警告普里戈任他或被杀](https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%EF%BC%9A%E6%9B%BE%E8%AD%A6%E5%91%8A%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E4%BB%96%E6%88%96%E8%A2%AB%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [核污水排海韩国已出现连锁反应](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E9%9F%A9%E5%9B%BD%E5%B7%B2%E5%87%BA%E7%8E%B0%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [核污水排海后日本人在海里游泳](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%90%8E%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%9C%A8%E6%B5%B7%E9%87%8C%E6%B8%B8%E6%B3%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [715万建的雕塑被吐槽又丑又贵](https://www.baidu.com/s?wd=715%E4%B8%87%E5%BB%BA%E7%9A%84%E9%9B%95%E5%A1%91%E8%A2%AB%E5%90%90%E6%A7%BD%E5%8F%88%E4%B8%91%E5%8F%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [县政府花715万建雕像 记者采访遭辱骂](https://www.baidu.com/s?wd=%E5%8E%BF%E6%94%BF%E5%BA%9C%E8%8A%B1715%E4%B8%87%E5%BB%BA%E9%9B%95%E5%83%8F+%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E9%81%AD%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [普里戈任专机挂普京驾驶军机照片](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E4%B8%93%E6%9C%BA%E6%8C%82%E6%99%AE%E4%BA%AC%E9%A9%BE%E9%A9%B6%E5%86%9B%E6%9C%BA%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
