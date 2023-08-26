@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 13:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 13:14:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [男网红扬言我玩的就是抛妻弃子](https://www.baidu.com/s?wd=%E7%94%B7%E7%BD%91%E7%BA%A2%E6%89%AC%E8%A8%80%E6%88%91%E7%8E%A9%E7%9A%84%E5%B0%B1%E6%98%AF%E6%8A%9B%E5%A6%BB%E5%BC%83%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [对话《孤注一掷》一原型人物母亲](https://www.baidu.com/s?wd=%E5%AF%B9%E8%AF%9D%E3%80%8A%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E3%80%8B%E4%B8%80%E5%8E%9F%E5%9E%8B%E4%BA%BA%E7%89%A9%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本金枪鱼价一夜暴跌24%](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%87%91%E6%9E%AA%E9%B1%BC%E4%BB%B7%E4%B8%80%E5%A4%9C%E6%9A%B4%E8%B7%8C24%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [太阳表面惊现巨大黑子](https://www.baidu.com/s?wd=%E5%A4%AA%E9%98%B3%E8%A1%A8%E9%9D%A2%E6%83%8A%E7%8E%B0%E5%B7%A8%E5%A4%A7%E9%BB%91%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [家长投诉开学仪式感引热议](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89%E5%BC%80%E5%AD%A6%E4%BB%AA%E5%BC%8F%E6%84%9F%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [男网红扬言我玩的就是抛妻弃子](https://www.baidu.com/s?wd=%E7%94%B7%E7%BD%91%E7%BA%A2%E6%89%AC%E8%A8%80%E6%88%91%E7%8E%A9%E7%9A%84%E5%B0%B1%E6%98%AF%E6%8A%9B%E5%A6%BB%E5%BC%83%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [对话《孤注一掷》一原型人物母亲](https://www.baidu.com/s?wd=%E5%AF%B9%E8%AF%9D%E3%80%8A%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E3%80%8B%E4%B8%80%E5%8E%9F%E5%9E%8B%E4%BA%BA%E7%89%A9%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本金枪鱼价一夜暴跌24%](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%87%91%E6%9E%AA%E9%B1%BC%E4%BB%B7%E4%B8%80%E5%A4%9C%E6%9A%B4%E8%B7%8C24%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [太阳表面惊现巨大黑子](https://www.baidu.com/s?wd=%E5%A4%AA%E9%98%B3%E8%A1%A8%E9%9D%A2%E6%83%8A%E7%8E%B0%E5%B7%A8%E5%A4%A7%E9%BB%91%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [家长投诉开学仪式感引热议](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89%E5%BC%80%E5%AD%A6%E4%BB%AA%E5%BC%8F%E6%84%9F%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
