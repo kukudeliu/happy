@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 10:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 10:55:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [周冬雨说越长大离女神越远了](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E8%AF%B4%E8%B6%8A%E9%95%BF%E5%A4%A7%E7%A6%BB%E5%A5%B3%E7%A5%9E%E8%B6%8A%E8%BF%9C%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [要坚持真正的多边主义](https://s.weibo.com/weibo?q=%23%E8%A6%81%E5%9D%9A%E6%8C%81%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%A4%9A%E8%BE%B9%E4%B8%BB%E4%B9%89%23&t=31&band_rank=3&Refer=top)<br />
 4. [莲花楼央视版结局](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E5%A4%AE%E8%A7%86%E7%89%88%E7%BB%93%E5%B1%80%23&t=31&band_rank=4&Refer=top)<br />
-5. [中方在联合国回击日方说辞](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E5%9B%9E%E5%87%BB%E6%97%A5%E6%96%B9%E8%AF%B4%E8%BE%9E%23&t=31&band_rank=5&Refer=top)<br />
-6. [太阳表面惊现巨大黑子](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3%E8%A1%A8%E9%9D%A2%E6%83%8A%E7%8E%B0%E5%B7%A8%E5%A4%A7%E9%BB%91%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
+5. [太阳表面惊现巨大黑子](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3%E8%A1%A8%E9%9D%A2%E6%83%8A%E7%8E%B0%E5%B7%A8%E5%A4%A7%E9%BB%91%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
+6. [中方在联合国回击日方说辞](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E5%9B%9E%E5%87%BB%E6%97%A5%E6%96%B9%E8%AF%B4%E8%BE%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵本山真敢拍](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E7%9C%9F%E6%95%A2%E6%8B%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [原来赵丽颖也喜欢蹦迪](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B9%9F%E5%96%9C%E6%AC%A2%E8%B9%A6%E8%BF%AA%23&t=31&band_rank=8&Refer=top)<br />
 9. [瑞士向我国返还5件流失文物](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%AB%E5%90%91%E6%88%91%E5%9B%BD%E8%BF%94%E8%BF%985%E4%BB%B6%E6%B5%81%E5%A4%B1%E6%96%87%E7%89%A9%23&t=31&band_rank=9&Refer=top)<br />
