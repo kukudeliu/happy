@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 07:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 07:36:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [三场台风正在接近日本](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%9C%BA%E5%8F%B0%E9%A3%8E%E6%AD%A3%E5%9C%A8%E6%8E%A5%E8%BF%91%E6%97%A5%E6%9C%AC%23&t=31&band_rank=5&Refer=top)<br />
 6. [暑期档最让人惊喜的男演员](https://s.weibo.com/weibo?q=%23%E6%9A%91%E6%9C%9F%E6%A1%A3%E6%9C%80%E8%AE%A9%E4%BA%BA%E6%83%8A%E5%96%9C%E7%9A%84%E7%94%B7%E6%BC%94%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [孟美岐空中坠落](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E7%A9%BA%E4%B8%AD%E5%9D%A0%E8%90%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [30岁男生给20岁男生的建议](https://s.weibo.com/weibo?q=%2330%E5%B2%81%E7%94%B7%E7%94%9F%E7%BB%9920%E5%B2%81%E7%94%B7%E7%94%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [江苏常州一隧道口发生惨烈车祸](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%B8%B8%E5%B7%9E%E4%B8%80%E9%9A%A7%E9%81%93%E5%8F%A3%E5%8F%91%E7%94%9F%E6%83%A8%E7%83%88%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=9&Refer=top)<br />
+8. [江苏常州一隧道口发生惨烈车祸](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%B8%B8%E5%B7%9E%E4%B8%80%E9%9A%A7%E9%81%93%E5%8F%A3%E5%8F%91%E7%94%9F%E6%83%A8%E7%83%88%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=8&Refer=top)<br />
+9. [30岁男生给20岁男生的建议](https://s.weibo.com/weibo?q=%2330%E5%B2%81%E7%94%B7%E7%94%9F%E7%BB%9920%E5%B2%81%E7%94%B7%E7%94%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
