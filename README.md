@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 02:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 02:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [老人留下一套房产五兄妹和和气气均分](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%95%99%E4%B8%8B%E4%B8%80%E5%A5%97%E6%88%BF%E4%BA%A7%E4%BA%94%E5%85%84%E5%A6%B9%E5%92%8C%E5%92%8C%E6%B0%94%E6%B0%94%E5%9D%87%E5%88%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国地理评出一生最值得去的20个地方](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%9C%B0%E7%90%86%E8%AF%84%E5%87%BA%E4%B8%80%E7%94%9F%E6%9C%80%E5%80%BC%E5%BE%97%E5%8E%BB%E7%9A%8420%E4%B8%AA%E5%9C%B0%E6%96%B9&t=31&band_rank=7&Refer=top)<br />
 8. [云之羽](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD&t=31&band_rank=8&Refer=top)<br />
-9. [莲花楼结局](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%BB%93%E5%B1%80&t=31&band_rank=9&Refer=top)<br />
+9. [二哥上当](https://s.weibo.com/weibo?q=%E4%BA%8C%E5%93%A5%E4%B8%8A%E5%BD%93&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
