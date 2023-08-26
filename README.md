@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 08:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 08:03:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [渐冻人蔡磊称已在准备身后事](https://www.baidu.com/s?wd=%E6%B8%90%E5%86%BB%E4%BA%BA%E8%94%A1%E7%A3%8A%E7%A7%B0%E5%B7%B2%E5%9C%A8%E5%87%86%E5%A4%87%E8%BA%AB%E5%90%8E%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网传南航一航班起飞前有空乘坠落](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%8D%97%E8%88%AA%E4%B8%80%E8%88%AA%E7%8F%AD%E8%B5%B7%E9%A3%9E%E5%89%8D%E6%9C%89%E7%A9%BA%E4%B9%98%E5%9D%A0%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [科长被举报婚内出轨 官方通报](https://www.baidu.com/s?wd=%E7%A7%91%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [卫星图显示福岛核污染水激增](https://www.baidu.com/s?wd=%E5%8D%AB%E6%98%9F%E5%9B%BE%E6%98%BE%E7%A4%BA%E7%A6%8F%E5%B2%9B%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%BF%80%E5%A2%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [千万富翁身亡 3个月被送3家精神病院](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E5%AF%8C%E7%BF%81%E8%BA%AB%E4%BA%A1+3%E4%B8%AA%E6%9C%88%E8%A2%AB%E9%80%813%E5%AE%B6%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [渐冻人蔡磊称已在准备身后事](https://www.baidu.com/s?wd=%E6%B8%90%E5%86%BB%E4%BA%BA%E8%94%A1%E7%A3%8A%E7%A7%B0%E5%B7%B2%E5%9C%A8%E5%87%86%E5%A4%87%E8%BA%AB%E5%90%8E%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网传南航一航班起飞前有空乘坠落](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%8D%97%E8%88%AA%E4%B8%80%E8%88%AA%E7%8F%AD%E8%B5%B7%E9%A3%9E%E5%89%8D%E6%9C%89%E7%A9%BA%E4%B9%98%E5%9D%A0%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [科长被举报婚内出轨 官方通报](https://www.baidu.com/s?wd=%E7%A7%91%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [卫星图显示福岛核污染水激增](https://www.baidu.com/s?wd=%E5%8D%AB%E6%98%9F%E5%9B%BE%E6%98%BE%E7%A4%BA%E7%A6%8F%E5%B2%9B%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%BF%80%E5%A2%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [千万富翁身亡 3个月被送3家精神病院](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E5%AF%8C%E7%BF%81%E8%BA%AB%E4%BA%A1+3%E4%B8%AA%E6%9C%88%E8%A2%AB%E9%80%813%E5%AE%B6%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
