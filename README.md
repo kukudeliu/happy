@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 12:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 12:17:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [日本金枪鱼价一夜暴跌24%](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%87%91%E6%9E%AA%E9%B1%BC%E4%BB%B7%E4%B8%80%E5%A4%9C%E6%9A%B4%E8%B7%8C24%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩媒：日本拒绝他国对核污水取样](https://www.baidu.com/s?wd=%E9%9F%A9%E5%AA%92%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%8B%92%E7%BB%9D%E4%BB%96%E5%9B%BD%E5%AF%B9%E6%A0%B8%E6%B1%A1%E6%B0%B4%E5%8F%96%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [王心凌前两天做了手术](https://www.baidu.com/s?wd=%E7%8E%8B%E5%BF%83%E5%87%8C%E5%89%8D%E4%B8%A4%E5%A4%A9%E5%81%9A%E4%BA%86%E6%89%8B%E6%9C%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [俄称已找到普里戈任失事飞机黑匣子](https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%B0%E5%B7%B2%E6%89%BE%E5%88%B0%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%A4%B1%E4%BA%8B%E9%A3%9E%E6%9C%BA%E9%BB%91%E5%8C%A3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [家长投诉开学仪式感引热议](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89%E5%BC%80%E5%AD%A6%E4%BB%AA%E5%BC%8F%E6%84%9F%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [日本金枪鱼价一夜暴跌24%](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%87%91%E6%9E%AA%E9%B1%BC%E4%BB%B7%E4%B8%80%E5%A4%9C%E6%9A%B4%E8%B7%8C24%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩媒：日本拒绝他国对核污水取样](https://www.baidu.com/s?wd=%E9%9F%A9%E5%AA%92%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%8B%92%E7%BB%9D%E4%BB%96%E5%9B%BD%E5%AF%B9%E6%A0%B8%E6%B1%A1%E6%B0%B4%E5%8F%96%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [王心凌前两天做了手术](https://www.baidu.com/s?wd=%E7%8E%8B%E5%BF%83%E5%87%8C%E5%89%8D%E4%B8%A4%E5%A4%A9%E5%81%9A%E4%BA%86%E6%89%8B%E6%9C%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [俄称已找到普里戈任失事飞机黑匣子](https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%B0%E5%B7%B2%E6%89%BE%E5%88%B0%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%A4%B1%E4%BA%8B%E9%A3%9E%E6%9C%BA%E9%BB%91%E5%8C%A3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [家长投诉开学仪式感引热议](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89%E5%BC%80%E5%AD%A6%E4%BB%AA%E5%BC%8F%E6%84%9F%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
