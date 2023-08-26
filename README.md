@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 20:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 20:38:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [金砖精神引领时代前进方向](https://www.baidu.com/s?wd=%E9%87%91%E7%A0%96%E7%B2%BE%E7%A5%9E%E5%BC%95%E9%A2%86%E6%97%B6%E4%BB%A3%E5%89%8D%E8%BF%9B%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国男篮vs塞尔维亚男篮](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E7%94%B7%E7%AF%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [95后小伙怒砸日料店改中餐厅](https://www.baidu.com/s?wd=95%E5%90%8E%E5%B0%8F%E4%BC%99%E6%80%92%E7%A0%B8%E6%97%A5%E6%96%99%E5%BA%97%E6%94%B9%E4%B8%AD%E9%A4%90%E5%8E%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [白鹿新片制片人贪污千万被抓](https://www.baidu.com/s?wd=%E7%99%BD%E9%B9%BF%E6%96%B0%E7%89%87%E5%88%B6%E7%89%87%E4%BA%BA%E8%B4%AA%E6%B1%A1%E5%8D%83%E4%B8%87%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [《中国好声音》到底卷了多少钱](https://www.baidu.com/s?wd=%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E3%80%8B%E5%88%B0%E5%BA%95%E5%8D%B7%E4%BA%86%E5%A4%9A%E5%B0%91%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [谴责核污水排海也需理智看待海鲜](https://www.baidu.com/s?wd=%E8%B0%B4%E8%B4%A3%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E4%B9%9F%E9%9C%80%E7%90%86%E6%99%BA%E7%9C%8B%E5%BE%85%E6%B5%B7%E9%B2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [滨寿司在中国停售日本产扇贝](https://www.baidu.com/s?wd=%E6%BB%A8%E5%AF%BF%E5%8F%B8%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%81%9C%E5%94%AE%E6%97%A5%E6%9C%AC%E4%BA%A7%E6%89%87%E8%B4%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [白鹿新片制片人贪污千万被抓](https://www.baidu.com/s?wd=%E7%99%BD%E9%B9%BF%E6%96%B0%E7%89%87%E5%88%B6%E7%89%87%E4%BA%BA%E8%B4%AA%E6%B1%A1%E5%8D%83%E4%B8%87%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [金砖精神引领时代前进方向](https://www.baidu.com/s?wd=%E9%87%91%E7%A0%96%E7%B2%BE%E7%A5%9E%E5%BC%95%E9%A2%86%E6%97%B6%E4%BB%A3%E5%89%8D%E8%BF%9B%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国男篮vs塞尔维亚男篮](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E7%94%B7%E7%AF%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [95后小伙怒砸日料店改中餐厅](https://www.baidu.com/s?wd=95%E5%90%8E%E5%B0%8F%E4%BC%99%E6%80%92%E7%A0%B8%E6%97%A5%E6%96%99%E5%BA%97%E6%94%B9%E4%B8%AD%E9%A4%90%E5%8E%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [白鹿新片制片人贪污千万被抓](https://www.baidu.com/s?wd=%E7%99%BD%E9%B9%BF%E6%96%B0%E7%89%87%E5%88%B6%E7%89%87%E4%BA%BA%E8%B4%AA%E6%B1%A1%E5%8D%83%E4%B8%87%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [《中国好声音》到底卷了多少钱](https://www.baidu.com/s?wd=%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E3%80%8B%E5%88%B0%E5%BA%95%E5%8D%B7%E4%BA%86%E5%A4%9A%E5%B0%91%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [谴责核污水排海也需理智看待海鲜](https://www.baidu.com/s?wd=%E8%B0%B4%E8%B4%A3%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E4%B9%9F%E9%9C%80%E7%90%86%E6%99%BA%E7%9C%8B%E5%BE%85%E6%B5%B7%E9%B2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [滨寿司在中国停售日本产扇贝](https://www.baidu.com/s?wd=%E6%BB%A8%E5%AF%BF%E5%8F%B8%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%81%9C%E5%94%AE%E6%97%A5%E6%9C%AC%E4%BA%A7%E6%89%87%E8%B4%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [白鹿新片制片人贪污千万被抓](https://www.baidu.com/s?wd=%E7%99%BD%E9%B9%BF%E6%96%B0%E7%89%87%E5%88%B6%E7%89%87%E4%BA%BA%E8%B4%AA%E6%B1%A1%E5%8D%83%E4%B8%87%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
