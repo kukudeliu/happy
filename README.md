@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 05:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 05:34:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [BRICS+ 历史性扩员](https://www.baidu.com/s?wd=BRICS%2B+%E5%8E%86%E5%8F%B2%E6%80%A7%E6%89%A9%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家称年轻人不生孩子以后生源不够](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E7%94%9F%E5%AD%A9%E5%AD%90%E4%BB%A5%E5%90%8E%E7%94%9F%E6%BA%90%E4%B8%8D%E5%A4%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黄渤回应开美颜误伤倪妮](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E5%9B%9E%E5%BA%94%E5%BC%80%E7%BE%8E%E9%A2%9C%E8%AF%AF%E4%BC%A4%E5%80%AA%E5%A6%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [火车站回应人没上完门没关车就开了](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%AB%99%E5%9B%9E%E5%BA%94%E4%BA%BA%E6%B2%A1%E4%B8%8A%E5%AE%8C%E9%97%A8%E6%B2%A1%E5%85%B3%E8%BD%A6%E5%B0%B1%E5%BC%80%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [黄继光侄子下水救3人不留姓名](https://www.baidu.com/s?wd=%E9%BB%84%E7%BB%A7%E5%85%89%E4%BE%84%E5%AD%90%E4%B8%8B%E6%B0%B4%E6%95%913%E4%BA%BA%E4%B8%8D%E7%95%99%E5%A7%93%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [42分惨败！中国男篮不敌塞尔维亚](https://www.baidu.com/s?wd=42%E5%88%86%E6%83%A8%E8%B4%A5%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [拜登评价特朗普嫌犯照是帅哥](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E8%AF%84%E4%BB%B7%E7%89%B9%E6%9C%97%E6%99%AE%E5%AB%8C%E7%8A%AF%E7%85%A7%E6%98%AF%E5%B8%85%E5%93%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [火车卧铺能否自带床帘？12306回应](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E5%8D%A7%E9%93%BA%E8%83%BD%E5%90%A6%E8%87%AA%E5%B8%A6%E5%BA%8A%E5%B8%98%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [BRICS+ 历史性扩员](https://www.baidu.com/s?wd=BRICS%2B+%E5%8E%86%E5%8F%B2%E6%80%A7%E6%89%A9%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家称年轻人不生孩子以后生源不够](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E7%94%9F%E5%AD%A9%E5%AD%90%E4%BB%A5%E5%90%8E%E7%94%9F%E6%BA%90%E4%B8%8D%E5%A4%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黄渤回应开美颜误伤倪妮](https://www.baidu.com/s?wd=%E9%BB%84%E6%B8%A4%E5%9B%9E%E5%BA%94%E5%BC%80%E7%BE%8E%E9%A2%9C%E8%AF%AF%E4%BC%A4%E5%80%AA%E5%A6%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [火车站回应人没上完门没关车就开了](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%AB%99%E5%9B%9E%E5%BA%94%E4%BA%BA%E6%B2%A1%E4%B8%8A%E5%AE%8C%E9%97%A8%E6%B2%A1%E5%85%B3%E8%BD%A6%E5%B0%B1%E5%BC%80%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [黄继光侄子下水救3人不留姓名](https://www.baidu.com/s?wd=%E9%BB%84%E7%BB%A7%E5%85%89%E4%BE%84%E5%AD%90%E4%B8%8B%E6%B0%B4%E6%95%913%E4%BA%BA%E4%B8%8D%E7%95%99%E5%A7%93%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [42分惨败！中国男篮不敌塞尔维亚](https://www.baidu.com/s?wd=42%E5%88%86%E6%83%A8%E8%B4%A5%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [拜登评价特朗普嫌犯照是帅哥](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E8%AF%84%E4%BB%B7%E7%89%B9%E6%9C%97%E6%99%AE%E5%AB%8C%E7%8A%AF%E7%85%A7%E6%98%AF%E5%B8%85%E5%93%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [火车卧铺能否自带床帘？12306回应](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E5%8D%A7%E9%93%BA%E8%83%BD%E5%90%A6%E8%87%AA%E5%B8%A6%E5%BA%8A%E5%B8%98%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
