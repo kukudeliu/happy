@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 08:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 08:44:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [卢卡申科：曾警告普里戈任他或被杀](https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%EF%BC%9A%E6%9B%BE%E8%AD%A6%E5%91%8A%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E4%BB%96%E6%88%96%E8%A2%AB%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网传南航一航班起飞前有空乘坠落](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%8D%97%E8%88%AA%E4%B8%80%E8%88%AA%E7%8F%AD%E8%B5%B7%E9%A3%9E%E5%89%8D%E6%9C%89%E7%A9%BA%E4%B9%98%E5%9D%A0%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [渐冻人蔡磊称已在准备身后事](https://www.baidu.com/s?wd=%E6%B8%90%E5%86%BB%E4%BA%BA%E8%94%A1%E7%A3%8A%E7%A7%B0%E5%B7%B2%E5%9C%A8%E5%87%86%E5%A4%87%E8%BA%AB%E5%90%8E%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [千万富翁身亡 3个月被送3家精神病院](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E5%AF%8C%E7%BF%81%E8%BA%AB%E4%BA%A1+3%E4%B8%AA%E6%9C%88%E8%A2%AB%E9%80%813%E5%AE%B6%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [科长被举报婚内出轨 官方通报](https://www.baidu.com/s?wd=%E7%A7%91%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [715万建的雕塑被吐槽又丑又贵](https://www.baidu.com/s?wd=715%E4%B8%87%E5%BB%BA%E7%9A%84%E9%9B%95%E5%A1%91%E8%A2%AB%E5%90%90%E6%A7%BD%E5%8F%88%E4%B8%91%E5%8F%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [千万富翁身亡 3个月被送3家精神病院](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E5%AF%8C%E7%BF%81%E8%BA%AB%E4%BA%A1+3%E4%B8%AA%E6%9C%88%E8%A2%AB%E9%80%813%E5%AE%B6%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [卢卡申科：曾警告普里戈任他或被杀](https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%EF%BC%9A%E6%9B%BE%E8%AD%A6%E5%91%8A%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E4%BB%96%E6%88%96%E8%A2%AB%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网传南航一航班起飞前有空乘坠落](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%8D%97%E8%88%AA%E4%B8%80%E8%88%AA%E7%8F%AD%E8%B5%B7%E9%A3%9E%E5%89%8D%E6%9C%89%E7%A9%BA%E4%B9%98%E5%9D%A0%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [渐冻人蔡磊称已在准备身后事](https://www.baidu.com/s?wd=%E6%B8%90%E5%86%BB%E4%BA%BA%E8%94%A1%E7%A3%8A%E7%A7%B0%E5%B7%B2%E5%9C%A8%E5%87%86%E5%A4%87%E8%BA%AB%E5%90%8E%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [千万富翁身亡 3个月被送3家精神病院](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E5%AF%8C%E7%BF%81%E8%BA%AB%E4%BA%A1+3%E4%B8%AA%E6%9C%88%E8%A2%AB%E9%80%813%E5%AE%B6%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [科长被举报婚内出轨 官方通报](https://www.baidu.com/s?wd=%E7%A7%91%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [715万建的雕塑被吐槽又丑又贵](https://www.baidu.com/s?wd=715%E4%B8%87%E5%BB%BA%E7%9A%84%E9%9B%95%E5%A1%91%E8%A2%AB%E5%90%90%E6%A7%BD%E5%8F%88%E4%B8%91%E5%8F%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [千万富翁身亡 3个月被送3家精神病院](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E5%AF%8C%E7%BF%81%E8%BA%AB%E4%BA%A1+3%E4%B8%AA%E6%9C%88%E8%A2%AB%E9%80%813%E5%AE%B6%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
