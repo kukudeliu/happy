@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 23:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 23:15:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [日本国内超市停买水产品让日企心态崩了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%86%85%E8%B6%85%E5%B8%82%E5%81%9C%E4%B9%B0%E6%B0%B4%E4%BA%A7%E5%93%81%E8%AE%A9%E6%97%A5%E4%BC%81%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国取得可控核聚变重大突破](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%8F%96%E5%BE%97%E5%8F%AF%E6%8E%A7%E6%A0%B8%E8%81%9A%E5%8F%98%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [刀郎发微博了](https://s.weibo.com/weibo?q=%23%E5%88%80%E9%83%8E%E5%8F%91%E5%BE%AE%E5%8D%9A%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [莲花楼](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC&t=31&band_rank=5&Refer=top)<br />
+5. [莲花楼结局](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%BB%93%E5%B1%80&t=31&band_rank=5&Refer=top)<br />
 6. [山西致5死27伤旅游大巴事故监控曝光](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E8%87%B45%E6%AD%BB27%E4%BC%A4%E6%97%85%E6%B8%B8%E5%A4%A7%E5%B7%B4%E4%BA%8B%E6%95%85%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [莲花楼结局](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%BB%93%E5%B1%80&t=31&band_rank=7&Refer=top)<br />
+7. [莲花楼](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC&t=31&band_rank=7&Refer=top)<br />
 8. [张晚意谈和杨紫二搭](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E8%B0%88%E5%92%8C%E6%9D%A8%E7%B4%AB%E4%BA%8C%E6%90%AD%23&t=31&band_rank=8&Refer=top)<br />
 9. [中国地理评出一生最值得去的20个地方](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%9C%B0%E7%90%86%E8%AF%84%E5%87%BA%E4%B8%80%E7%94%9F%E6%9C%80%E5%80%BC%E5%BE%97%E5%8E%BB%E7%9A%8420%E4%B8%AA%E5%9C%B0%E6%96%B9&t=31&band_rank=9&Refer=top)<br />
 
