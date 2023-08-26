@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 19:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 19:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [俞灏明片场哭到浑身颤抖](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E7%81%8F%E6%98%8E%E7%89%87%E5%9C%BA%E5%93%AD%E5%88%B0%E6%B5%91%E8%BA%AB%E9%A2%A4%E6%8A%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [大学新生报道后匆忙返乡救爸爸](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%96%B0%E7%94%9F%E6%8A%A5%E9%81%93%E5%90%8E%E5%8C%86%E5%BF%99%E8%BF%94%E4%B9%A1%E6%95%91%E7%88%B8%E7%88%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [青簪行 补拍](https://s.weibo.com/weibo?q=%E9%9D%92%E7%B0%AA%E8%A1%8C%20%E8%A1%A5%E6%8B%8D&t=31&band_rank=8&Refer=top)<br />
-9. [安崎怀念THE9合体舞台](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%B4%8E%E6%80%80%E5%BF%B5THE9%E5%90%88%E4%BD%93%E8%88%9E%E5%8F%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [封神第一部票房破24亿](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%B8%80%E9%83%A8%E7%A5%A8%E6%88%BF%E7%A0%B424%E4%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
