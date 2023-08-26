@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 00:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 00:55:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [云之羽](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD&t=31&band_rank=4&Refer=top)<br />
 5. [孟美岐空中坠落](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E7%A9%BA%E4%B8%AD%E5%9D%A0%E8%90%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [刀郎发微博了](https://s.weibo.com/weibo?q=%23%E5%88%80%E9%83%8E%E5%8F%91%E5%BE%AE%E5%8D%9A%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [莲花楼结局](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%BB%93%E5%B1%80&t=31&band_rank=7&Refer=top)<br />
-8. [三场台风正在接近日本](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%9C%BA%E5%8F%B0%E9%A3%8E%E6%AD%A3%E5%9C%A8%E6%8E%A5%E8%BF%91%E6%97%A5%E6%9C%AC%23&t=31&band_rank=8&Refer=top)<br />
+7. [三场台风正在接近日本](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%9C%BA%E5%8F%B0%E9%A3%8E%E6%AD%A3%E5%9C%A8%E6%8E%A5%E8%BF%91%E6%97%A5%E6%9C%AC%23&t=31&band_rank=7&Refer=top)<br />
+8. [莲花楼结局](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%BB%93%E5%B1%80&t=31&band_rank=8&Refer=top)<br />
 9. [陈楚生和儿子同台表演](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E5%92%8C%E5%84%BF%E5%AD%90%E5%90%8C%E5%8F%B0%E8%A1%A8%E6%BC%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
