@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 01:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 01:23:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [韩国人开始囤海味干货](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%9B%A4%E6%B5%B7%E5%91%B3%E5%B9%B2%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [川投集团纪委副书记自杀?殡仪馆回应](https://www.baidu.com/s?wd=%E5%B7%9D%E6%8A%95%E9%9B%86%E5%9B%A2%E7%BA%AA%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E8%87%AA%E6%9D%80%3F%E6%AE%A1%E4%BB%AA%E9%A6%86%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [42分惨败！中国男篮不敌塞尔维亚](https://www.baidu.com/s?wd=42%E5%88%86%E6%83%A8%E8%B4%A5%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [南航受伤乘务员在ICU接受救治](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E5%8F%97%E4%BC%A4%E4%B9%98%E5%8A%A1%E5%91%98%E5%9C%A8ICU%E6%8E%A5%E5%8F%97%E6%95%91%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [看完最后的真相被闫妮震撼到了](https://www.baidu.com/s?wd=%E7%9C%8B%E5%AE%8C%E6%9C%80%E5%90%8E%E7%9A%84%E7%9C%9F%E7%9B%B8%E8%A2%AB%E9%97%AB%E5%A6%AE%E9%9C%87%E6%92%BC%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [韩国人开始囤海味干货](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%9B%A4%E6%B5%B7%E5%91%B3%E5%B9%B2%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [川投集团纪委副书记自杀?殡仪馆回应](https://www.baidu.com/s?wd=%E5%B7%9D%E6%8A%95%E9%9B%86%E5%9B%A2%E7%BA%AA%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E8%87%AA%E6%9D%80%3F%E6%AE%A1%E4%BB%AA%E9%A6%86%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [42分惨败！中国男篮不敌塞尔维亚](https://www.baidu.com/s?wd=42%E5%88%86%E6%83%A8%E8%B4%A5%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [南航受伤乘务员在ICU接受救治](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E5%8F%97%E4%BC%A4%E4%B9%98%E5%8A%A1%E5%91%98%E5%9C%A8ICU%E6%8E%A5%E5%8F%97%E6%95%91%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [看完最后的真相被闫妮震撼到了](https://www.baidu.com/s?wd=%E7%9C%8B%E5%AE%8C%E6%9C%80%E5%90%8E%E7%9A%84%E7%9C%9F%E7%9B%B8%E8%A2%AB%E9%97%AB%E5%A6%AE%E9%9C%87%E6%92%BC%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
