@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 23:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 23:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [莲花楼](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC&t=31&band_rank=6&Refer=top)<br />
 7. [山西致5死27伤旅游大巴事故监控曝光](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E8%87%B45%E6%AD%BB27%E4%BC%A4%E6%97%85%E6%B8%B8%E5%A4%A7%E5%B7%B4%E4%BA%8B%E6%95%85%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [老人留下一套房产五兄妹和和气气均分](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%95%99%E4%B8%8B%E4%B8%80%E5%A5%97%E6%88%BF%E4%BA%A7%E4%BA%94%E5%85%84%E5%A6%B9%E5%92%8C%E5%92%8C%E6%B0%94%E6%B0%94%E5%9D%87%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [张晚意谈和杨紫二搭](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E8%B0%88%E5%92%8C%E6%9D%A8%E7%B4%AB%E4%BA%8C%E6%90%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国地理评出一生最值得去的20个地方](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%9C%B0%E7%90%86%E8%AF%84%E5%87%BA%E4%B8%80%E7%94%9F%E6%9C%80%E5%80%BC%E5%BE%97%E5%8E%BB%E7%9A%8420%E4%B8%AA%E5%9C%B0%E6%96%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
