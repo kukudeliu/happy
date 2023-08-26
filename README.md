@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 22:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 22:03:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [共筑高水平中非命运共同体](https://www.baidu.com/s?wd=%E5%85%B1%E7%AD%91%E9%AB%98%E6%B0%B4%E5%B9%B3%E4%B8%AD%E9%9D%9E%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [拓展“金砖＋”模式](https://www.baidu.com/s?wd=%E6%8B%93%E5%B1%95%E2%80%9C%E9%87%91%E7%A0%96%EF%BC%8B%E2%80%9D%E6%A8%A1%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [日本超市停买水产品 日企心态崩了](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%B6%85%E5%B8%82%E5%81%9C%E4%B9%B0%E6%B0%B4%E4%BA%A7%E5%93%81+%E6%97%A5%E4%BC%81%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [暴雨大暴雨连成片 多地或现极端降雨](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%A4%A7%E6%9A%B4%E9%9B%A8%E8%BF%9E%E6%88%90%E7%89%87+%E5%A4%9A%E5%9C%B0%E6%88%96%E7%8E%B0%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [BRICS+ 历史性扩员](https://www.baidu.com/s?wd=BRICS%2B+%E5%8E%86%E5%8F%B2%E6%80%A7%E6%89%A9%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [共筑高水平中非命运共同体](https://www.baidu.com/s?wd=%E5%85%B1%E7%AD%91%E9%AB%98%E6%B0%B4%E5%B9%B3%E4%B8%AD%E9%9D%9E%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [拓展“金砖＋”模式](https://www.baidu.com/s?wd=%E6%8B%93%E5%B1%95%E2%80%9C%E9%87%91%E7%A0%96%EF%BC%8B%E2%80%9D%E6%A8%A1%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [日本超市停买水产品 日企心态崩了](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%B6%85%E5%B8%82%E5%81%9C%E4%B9%B0%E6%B0%B4%E4%BA%A7%E5%93%81+%E6%97%A5%E4%BC%81%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [暴雨大暴雨连成片 多地或现极端降雨](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%A4%A7%E6%9A%B4%E9%9B%A8%E8%BF%9E%E6%88%90%E7%89%87+%E5%A4%9A%E5%9C%B0%E6%88%96%E7%8E%B0%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [BRICS+ 历史性扩员](https://www.baidu.com/s?wd=BRICS%2B+%E5%8E%86%E5%8F%B2%E6%80%A7%E6%89%A9%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
