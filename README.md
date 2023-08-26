@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 20:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 20:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [封神第一部票房破24亿](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%B8%80%E9%83%A8%E7%A5%A8%E6%88%BF%E7%A0%B424%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [美国年轻人对日本排核污染水态度](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AF%B9%E6%97%A5%E6%9C%AC%E6%8E%92%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%80%81%E5%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [日媒宣称日本针对中方措施开展外交攻势](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E5%AE%A3%E7%A7%B0%E6%97%A5%E6%9C%AC%E9%92%88%E5%AF%B9%E4%B8%AD%E6%96%B9%E6%8E%AA%E6%96%BD%E5%BC%80%E5%B1%95%E5%A4%96%E4%BA%A4%E6%94%BB%E5%8A%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [俞灏明片场哭到浑身颤抖](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E7%81%8F%E6%98%8E%E7%89%87%E5%9C%BA%E5%93%AD%E5%88%B0%E6%B5%91%E8%BA%AB%E9%A2%A4%E6%8A%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [他可能不知道游泳池是透明的](https://s.weibo.com/weibo?q=%23%E4%BB%96%E5%8F%AF%E8%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E6%B8%B8%E6%B3%B3%E6%B1%A0%E6%98%AF%E9%80%8F%E6%98%8E%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
