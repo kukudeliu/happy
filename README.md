@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 22:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-26 22:39:02</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [暴雨大暴雨连成片 多地或现极端降雨](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%A4%A7%E6%9A%B4%E9%9B%A8%E8%BF%9E%E6%88%90%E7%89%87+%E5%A4%9A%E5%9C%B0%E6%88%96%E7%8E%B0%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [BRICS+ 历史性扩员](https://www.baidu.com/s?wd=BRICS%2B+%E5%8E%86%E5%8F%B2%E6%80%A7%E6%89%A9%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家称年轻人不生孩子以后生源不够](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E7%94%9F%E5%AD%A9%E5%AD%90%E4%BB%A5%E5%90%8E%E7%94%9F%E6%BA%90%E4%B8%8D%E5%A4%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [日本水产厅检测鱼类样本仅2条](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%8E%85%E6%A3%80%E6%B5%8B%E9%B1%BC%E7%B1%BB%E6%A0%B7%E6%9C%AC%E4%BB%852%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [火车站回应人没上完门没关车就开了](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%AB%99%E5%9B%9E%E5%BA%94%E4%BA%BA%E6%B2%A1%E4%B8%8A%E5%AE%8C%E9%97%A8%E6%B2%A1%E5%85%B3%E8%BD%A6%E5%B0%B1%E5%BC%80%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [南极海冰融化致帝企鹅幼鸟被淹死](https://www.baidu.com/s?wd=%E5%8D%97%E6%9E%81%E6%B5%B7%E5%86%B0%E8%9E%8D%E5%8C%96%E8%87%B4%E5%B8%9D%E4%BC%81%E9%B9%85%E5%B9%BC%E9%B8%9F%E8%A2%AB%E6%B7%B9%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [专家称日本处理核污水还有很多办法](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%97%A5%E6%9C%AC%E5%A4%84%E7%90%86%E6%A0%B8%E6%B1%A1%E6%B0%B4%E8%BF%98%E6%9C%89%E5%BE%88%E5%A4%9A%E5%8A%9E%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [42分惨败！中国男篮不敌塞尔维亚](https://www.baidu.com/s?wd=42%E5%88%86%E6%83%A8%E8%B4%A5%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胡锡进:中国渔民和沿海养殖户很无辜](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%3A%E4%B8%AD%E5%9B%BD%E6%B8%94%E6%B0%91%E5%92%8C%E6%B2%BF%E6%B5%B7%E5%85%BB%E6%AE%96%E6%88%B7%E5%BE%88%E6%97%A0%E8%BE%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [家长投诉开学仪式感引热议](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89%E5%BC%80%E5%AD%A6%E4%BB%AA%E5%BC%8F%E6%84%9F%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [暴雨大暴雨连成片 多地或现极端降雨](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%A4%A7%E6%9A%B4%E9%9B%A8%E8%BF%9E%E6%88%90%E7%89%87+%E5%A4%9A%E5%9C%B0%E6%88%96%E7%8E%B0%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [BRICS+ 历史性扩员](https://www.baidu.com/s?wd=BRICS%2B+%E5%8E%86%E5%8F%B2%E6%80%A7%E6%89%A9%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家称年轻人不生孩子以后生源不够](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E7%94%9F%E5%AD%A9%E5%AD%90%E4%BB%A5%E5%90%8E%E7%94%9F%E6%BA%90%E4%B8%8D%E5%A4%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [日本水产厅检测鱼类样本仅2条](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%8E%85%E6%A3%80%E6%B5%8B%E9%B1%BC%E7%B1%BB%E6%A0%B7%E6%9C%AC%E4%BB%852%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [火车站回应人没上完门没关车就开了](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%AB%99%E5%9B%9E%E5%BA%94%E4%BA%BA%E6%B2%A1%E4%B8%8A%E5%AE%8C%E9%97%A8%E6%B2%A1%E5%85%B3%E8%BD%A6%E5%B0%B1%E5%BC%80%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [南极海冰融化致帝企鹅幼鸟被淹死](https://www.baidu.com/s?wd=%E5%8D%97%E6%9E%81%E6%B5%B7%E5%86%B0%E8%9E%8D%E5%8C%96%E8%87%B4%E5%B8%9D%E4%BC%81%E9%B9%85%E5%B9%BC%E9%B8%9F%E8%A2%AB%E6%B7%B9%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [专家称日本处理核污水还有很多办法](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%97%A5%E6%9C%AC%E5%A4%84%E7%90%86%E6%A0%B8%E6%B1%A1%E6%B0%B4%E8%BF%98%E6%9C%89%E5%BE%88%E5%A4%9A%E5%8A%9E%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [42分惨败！中国男篮不敌塞尔维亚](https://www.baidu.com/s?wd=42%E5%88%86%E6%83%A8%E8%B4%A5%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胡锡进:中国渔民和沿海养殖户很无辜](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%3A%E4%B8%AD%E5%9B%BD%E6%B8%94%E6%B0%91%E5%92%8C%E6%B2%BF%E6%B5%B7%E5%85%BB%E6%AE%96%E6%88%B7%E5%BE%88%E6%97%A0%E8%BE%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [家长投诉开学仪式感引热议](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89%E5%BC%80%E5%AD%A6%E4%BB%AA%E5%BC%8F%E6%84%9F%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
