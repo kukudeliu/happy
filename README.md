@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 12:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 12:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [恭喜08号选手李宇春](https://s.weibo.com/weibo?q=%23%E6%81%AD%E5%96%9C08%E5%8F%B7%E9%80%89%E6%89%8B%E6%9D%8E%E5%AE%87%E6%98%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [两女生被尾随急中生智躲进消防站](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%B0%BE%E9%9A%8F%E6%80%A5%E4%B8%AD%E7%94%9F%E6%99%BA%E8%BA%B2%E8%BF%9B%E6%B6%88%E9%98%B2%E7%AB%99%23&t=31&band_rank=7&Refer=top)<br />
 8. [宁安如梦](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6&t=31&band_rank=8&Refer=top)<br />
-9. [邓为 我觉得火不敢当](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%20%E6%88%91%E8%A7%89%E5%BE%97%E7%81%AB%E4%B8%8D%E6%95%A2%E5%BD%93&t=31&band_rank=9&Refer=top)<br />
+9. [田曦薇叫哥哥和我想象的不一样](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%8F%AB%E5%93%A5%E5%93%A5%E5%92%8C%E6%88%91%E6%83%B3%E8%B1%A1%E7%9A%84%E4%B8%8D%E4%B8%80%E6%A0%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
