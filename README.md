@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 12:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 12:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [两女生被尾随急中生智躲进消防站](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%B0%BE%E9%9A%8F%E6%80%A5%E4%B8%AD%E7%94%9F%E6%99%BA%E8%BA%B2%E8%BF%9B%E6%B6%88%E9%98%B2%E7%AB%99%23&t=31&band_rank=6&Refer=top)<br />
 7. [宁安如梦](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6&t=31&band_rank=7&Refer=top)<br />
 8. [CPA会计](https://s.weibo.com/weibo?q=CPA%E4%BC%9A%E8%AE%A1&t=31&band_rank=8&Refer=top)<br />
-9. [杜海涛几十年的主持人白干了](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%87%A0%E5%8D%81%E5%B9%B4%E7%9A%84%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%99%BD%E5%B9%B2%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [邓为 我觉得火不敢当](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%20%E6%88%91%E8%A7%89%E5%BE%97%E7%81%AB%E4%B8%8D%E6%95%A2%E5%BD%93&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
