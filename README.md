@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 18:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 18:39:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [夫妻俩医院捡1万元毫不犹豫上交](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E4%BF%A9%E5%8C%BB%E9%99%A2%E6%8D%A11%E4%B8%87%E5%85%83%E6%AF%AB%E4%B8%8D%E7%8A%B9%E8%B1%AB%E4%B8%8A%E4%BA%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [披荆斩棘给林志颖安排了单人间](https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%BB%99%E6%9E%97%E5%BF%97%E9%A2%96%E5%AE%89%E6%8E%92%E4%BA%86%E5%8D%95%E4%BA%BA%E9%97%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [6名银行员工帮客户清点160万被烧现金](https://s.weibo.com/weibo?q=%236%E5%90%8D%E9%93%B6%E8%A1%8C%E5%91%98%E5%B7%A5%E5%B8%AE%E5%AE%A2%E6%88%B7%E6%B8%85%E7%82%B9160%E4%B8%87%E8%A2%AB%E7%83%A7%E7%8E%B0%E9%87%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [证券交易印花税实施减半征收](https://s.weibo.com/weibo?q=%23%E8%AF%81%E5%88%B8%E4%BA%A4%E6%98%93%E5%8D%B0%E8%8A%B1%E7%A8%8E%E5%AE%9E%E6%96%BD%E5%87%8F%E5%8D%8A%E5%BE%81%E6%94%B6%23&t=31&band_rank=8&Refer=top)<br />
+8. [姬发](https://s.weibo.com/weibo?q=%E5%A7%AC%E5%8F%91&t=31&band_rank=8&Refer=top)<br />
 9. [婚前冲动买房杭州姑娘肠子悔青](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%89%8D%E5%86%B2%E5%8A%A8%E4%B9%B0%E6%88%BF%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%98%E8%82%A0%E5%AD%90%E6%82%94%E9%9D%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,9 +23,9 @@
 4. [给新生的军训小贴士](https://www.baidu.com/s?wd=%E7%BB%99%E6%96%B0%E7%94%9F%E7%9A%84%E5%86%9B%E8%AE%AD%E5%B0%8F%E8%B4%B4%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [天后世纪同框 观众听不清歌声喊退票](https://www.baidu.com/s?wd=%E5%A4%A9%E5%90%8E%E4%B8%96%E7%BA%AA%E5%90%8C%E6%A1%86+%E8%A7%82%E4%BC%97%E5%90%AC%E4%B8%8D%E6%B8%85%E6%AD%8C%E5%A3%B0%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [城管查收商户售卖冥纸冥币](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E6%9F%A5%E6%94%B6%E5%95%86%E6%88%B7%E5%94%AE%E5%8D%96%E5%86%A5%E7%BA%B8%E5%86%A5%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美国务院称对日核污水排海计划满意](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%A7%B0%E5%AF%B9%E6%97%A5%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E8%AE%A1%E5%88%92%E6%BB%A1%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中学一女生宿舍住116人？当地回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E4%B8%80%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E4%BD%8F116%E4%BA%BA%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子长期侧躺玩手机致右眼短暂失明](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%95%BF%E6%9C%9F%E4%BE%A7%E8%BA%BA%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%87%B4%E5%8F%B3%E7%9C%BC%E7%9F%AD%E6%9A%82%E5%A4%B1%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [家长吐槽恶改版儿歌教小孩说脏话](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%81%B6%E6%94%B9%E7%89%88%E5%84%BF%E6%AD%8C%E6%95%99%E5%B0%8F%E5%AD%A9%E8%AF%B4%E8%84%8F%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [商人与园区斡旋一周解救中科院博士](https://www.baidu.com/s?wd=%E5%95%86%E4%BA%BA%E4%B8%8E%E5%9B%AD%E5%8C%BA%E6%96%A1%E6%97%8B%E4%B8%80%E5%91%A8%E8%A7%A3%E6%95%91%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美国务院称对日核污水排海计划满意](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%A7%B0%E5%AF%B9%E6%97%A5%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E8%AE%A1%E5%88%92%E6%BB%A1%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [给新生的军训小贴士](https://www.baidu.com/s?wd=%E7%BB%99%E6%96%B0%E7%94%9F%E7%9A%84%E5%86%9B%E8%AE%AD%E5%B0%8F%E8%B4%B4%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [天后世纪同框 观众听不清歌声喊退票](https://www.baidu.com/s?wd=%E5%A4%A9%E5%90%8E%E4%B8%96%E7%BA%AA%E5%90%8C%E6%A1%86+%E8%A7%82%E4%BC%97%E5%90%AC%E4%B8%8D%E6%B8%85%E6%AD%8C%E5%A3%B0%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [城管查收商户售卖冥纸冥币](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E6%9F%A5%E6%94%B6%E5%95%86%E6%88%B7%E5%94%AE%E5%8D%96%E5%86%A5%E7%BA%B8%E5%86%A5%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美国务院称对日核污水排海计划满意](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%A7%B0%E5%AF%B9%E6%97%A5%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E8%AE%A1%E5%88%92%E6%BB%A1%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中学一女生宿舍住116人？当地回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E4%B8%80%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E4%BD%8F116%E4%BA%BA%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子长期侧躺玩手机致右眼短暂失明](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%95%BF%E6%9C%9F%E4%BE%A7%E8%BA%BA%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%87%B4%E5%8F%B3%E7%9C%BC%E7%9F%AD%E6%9A%82%E5%A4%B1%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [家长吐槽恶改版儿歌教小孩说脏话](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%81%B6%E6%94%B9%E7%89%88%E5%84%BF%E6%AD%8C%E6%95%99%E5%B0%8F%E5%AD%A9%E8%AF%B4%E8%84%8F%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [商人与园区斡旋一周解救中科院博士](https://www.baidu.com/s?wd=%E5%95%86%E4%BA%BA%E4%B8%8E%E5%9B%AD%E5%8C%BA%E6%96%A1%E6%97%8B%E4%B8%80%E5%91%A8%E8%A7%A3%E6%95%91%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美国务院称对日核污水排海计划满意](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%A7%B0%E5%AF%B9%E6%97%A5%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E8%AE%A1%E5%88%92%E6%BB%A1%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
