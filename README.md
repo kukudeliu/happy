@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 06:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 06:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [台风达维或使核污染水扑向美国](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%BE%BE%E7%BB%B4%E6%88%96%E4%BD%BF%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%89%91%E5%90%91%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [2游客被终生禁入成都大熊猫基地](https://s.weibo.com/weibo?q=%232%E6%B8%B8%E5%AE%A2%E8%A2%AB%E7%BB%88%E7%94%9F%E7%A6%81%E5%85%A5%E6%88%90%E9%83%BD%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [男孩怕瓜有毒让民警先吃](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E6%80%95%E7%93%9C%E6%9C%89%E6%AF%92%E8%AE%A9%E6%B0%91%E8%AD%A6%E5%85%88%E5%90%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [王怡然最上镜小姐](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%80%A1%E7%84%B6%E6%9C%80%E4%B8%8A%E9%95%9C%E5%B0%8F%E5%A7%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [张杰的明星粉丝们开始合照了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%9A%84%E6%98%8E%E6%98%9F%E7%B2%89%E4%B8%9D%E4%BB%AC%E5%BC%80%E5%A7%8B%E5%90%88%E7%85%A7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
