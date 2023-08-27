@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 04:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 04:06:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [大盘单日票房已连续68天破亿](https://www.baidu.com/s?wd=%E5%A4%A7%E7%9B%98%E5%8D%95%E6%97%A5%E7%A5%A8%E6%88%BF%E5%B7%B2%E8%BF%9E%E7%BB%AD68%E5%A4%A9%E7%A0%B4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中学小卖部5年租金超900万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%B0%8F%E5%8D%96%E9%83%A85%E5%B9%B4%E7%A7%9F%E9%87%91%E8%B6%85900%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子刷视频手机突然说话自称未来人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%B7%E8%A7%86%E9%A2%91%E6%89%8B%E6%9C%BA%E7%AA%81%E7%84%B6%E8%AF%B4%E8%AF%9D%E8%87%AA%E7%A7%B0%E6%9C%AA%E6%9D%A5%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美国商务部部长雷蒙多抵达北京](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E9%83%A8%E9%95%BF%E9%9B%B7%E8%92%99%E5%A4%9A%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [俄国防部：一昼夜击落37架](https://www.baidu.com/s?wd=%E4%BF%84%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E4%B8%80%E6%98%BC%E5%A4%9C%E5%87%BB%E8%90%BD37%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [大盘单日票房已连续68天破亿](https://www.baidu.com/s?wd=%E5%A4%A7%E7%9B%98%E5%8D%95%E6%97%A5%E7%A5%A8%E6%88%BF%E5%B7%B2%E8%BF%9E%E7%BB%AD68%E5%A4%A9%E7%A0%B4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中学小卖部5年租金超900万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%B0%8F%E5%8D%96%E9%83%A85%E5%B9%B4%E7%A7%9F%E9%87%91%E8%B6%85900%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子刷视频手机突然说话自称未来人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%B7%E8%A7%86%E9%A2%91%E6%89%8B%E6%9C%BA%E7%AA%81%E7%84%B6%E8%AF%B4%E8%AF%9D%E8%87%AA%E7%A7%B0%E6%9C%AA%E6%9D%A5%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美国商务部部长雷蒙多抵达北京](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E9%83%A8%E9%95%BF%E9%9B%B7%E8%92%99%E5%A4%9A%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [俄国防部：一昼夜击落37架](https://www.baidu.com/s?wd=%E4%BF%84%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E4%B8%80%E6%98%BC%E5%A4%9C%E5%87%BB%E8%90%BD37%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
