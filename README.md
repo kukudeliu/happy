@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 23:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 23:16:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [给新生的军训小贴士](https://s.weibo.com/weibo?q=%23%E7%BB%99%E6%96%B0%E7%94%9F%E7%9A%84%E5%86%9B%E8%AE%AD%E5%B0%8F%E8%B4%B4%E5%A3%AB%23&t=31&band_rank=3&Refer=top)<br />
 4. [中国烟草](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%83%9F%E8%8D%89&t=31&band_rank=4&Refer=top)<br />
 5. [顾漫 接下来更新会更斟酌仔细](https://s.weibo.com/weibo?q=%E9%A1%BE%E6%BC%AB%20%E6%8E%A5%E4%B8%8B%E6%9D%A5%E6%9B%B4%E6%96%B0%E4%BC%9A%E6%9B%B4%E6%96%9F%E9%85%8C%E4%BB%94%E7%BB%86&t=31&band_rank=5&Refer=top)<br />
-6. [妹妹被正式确诊为曾毅](https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B9%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%9B%BE%E6%AF%85%23&t=31&band_rank=6&Refer=top)<br />
-7. [尼格买提报平安](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E6%8A%A5%E5%B9%B3%E5%AE%89%23&t=31&band_rank=7&Refer=top)<br />
+6. [尼格买提报平安](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E6%8A%A5%E5%B9%B3%E5%AE%89%23&t=31&band_rank=6&Refer=top)<br />
+7. [妹妹被正式确诊为曾毅](https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B9%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%9B%BE%E6%AF%85%23&t=31&band_rank=7&Refer=top)<br />
 8. [日本男篮爆冷击败芬兰](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE%E7%88%86%E5%86%B7%E5%87%BB%E8%B4%A5%E8%8A%AC%E5%85%B0%23&t=31&band_rank=8&Refer=top)<br />
 9. [一路朝阳 今晚创飞我](https://s.weibo.com/weibo?q=%E4%B8%80%E8%B7%AF%E6%9C%9D%E9%98%B3%20%E4%BB%8A%E6%99%9A%E5%88%9B%E9%A3%9E%E6%88%91&t=31&band_rank=9&Refer=top)<br />
 
