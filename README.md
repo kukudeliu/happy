@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 09:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 09:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孟美岐空中坠落](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E7%A9%BA%E4%B8%AD%E5%9D%A0%E8%90%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [刀郎发微博了](https://s.weibo.com/weibo?q=%23%E5%88%80%E9%83%8E%E5%8F%91%E5%BE%AE%E5%8D%9A%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [爱宝双胞胎女儿延续宝字辈](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%AE%9D%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A5%B3%E5%84%BF%E5%BB%B6%E7%BB%AD%E5%AE%9D%E5%AD%97%E8%BE%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [开劳斯莱斯免费接游客的淄博大哥](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E5%85%8D%E8%B4%B9%E6%8E%A5%E6%B8%B8%E5%AE%A2%E7%9A%84%E6%B7%84%E5%8D%9A%E5%A4%A7%E5%93%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [长相思第二季是不是快来了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%98%AF%E4%B8%8D%E6%98%AF%E5%BF%AB%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
