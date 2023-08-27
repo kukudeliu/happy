@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 19:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 19:40:01</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [中非这样回答历史之问](https://www.baidu.com/s?wd=%E4%B8%AD%E9%9D%9E%E8%BF%99%E6%A0%B7%E5%9B%9E%E7%AD%94%E5%8E%86%E5%8F%B2%E4%B9%8B%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [普里戈任确认死于坠机](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%A1%AE%E8%AE%A4%E6%AD%BB%E4%BA%8E%E5%9D%A0%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [水产品商家：不敢吃海鲜是庸人自扰](https://www.baidu.com/s?wd=%E6%B0%B4%E4%BA%A7%E5%93%81%E5%95%86%E5%AE%B6%EF%BC%9A%E4%B8%8D%E6%95%A2%E5%90%83%E6%B5%B7%E9%B2%9C%E6%98%AF%E5%BA%B8%E4%BA%BA%E8%87%AA%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [两部门：证券交易印花税减半征收](https://www.baidu.com/s?wd=%E4%B8%A4%E9%83%A8%E9%97%A8%EF%BC%9A%E8%AF%81%E5%88%B8%E4%BA%A4%E6%98%93%E5%8D%B0%E8%8A%B1%E7%A8%8E%E5%87%8F%E5%8D%8A%E5%BE%81%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [给新生的军训小贴士](https://www.baidu.com/s?wd=%E7%BB%99%E6%96%B0%E7%94%9F%E7%9A%84%E5%86%9B%E8%AE%AD%E5%B0%8F%E8%B4%B4%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家称洗头可洗掉沾染的放射性元素](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%B4%97%E5%A4%B4%E5%8F%AF%E6%B4%97%E6%8E%89%E6%B2%BE%E6%9F%93%E7%9A%84%E6%94%BE%E5%B0%84%E6%80%A7%E5%85%83%E7%B4%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [两部门：证券交易印花税减半征收](https://www.baidu.com/s?wd=%E4%B8%A4%E9%83%A8%E9%97%A8%EF%BC%9A%E8%AF%81%E5%88%B8%E4%BA%A4%E6%98%93%E5%8D%B0%E8%8A%B1%E7%A8%8E%E5%87%8F%E5%8D%8A%E5%BE%81%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [谁花5555元买早餐了老板正找你](https://www.baidu.com/s?wd=%E8%B0%81%E8%8A%B15555%E5%85%83%E4%B9%B0%E6%97%A9%E9%A4%90%E4%BA%86%E8%80%81%E6%9D%BF%E6%AD%A3%E6%89%BE%E4%BD%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [歌迷花千元在演唱会现场“看柱子”](https://www.baidu.com/s?wd=%E6%AD%8C%E8%BF%B7%E8%8A%B1%E5%8D%83%E5%85%83%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA%E2%80%9C%E7%9C%8B%E6%9F%B1%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“代骂服务”商家:可选择是否带脏话](https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%A3%E9%AA%82%E6%9C%8D%E5%8A%A1%E2%80%9D%E5%95%86%E5%AE%B6%3A%E5%8F%AF%E9%80%89%E6%8B%A9%E6%98%AF%E5%90%A6%E5%B8%A6%E8%84%8F%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [谁花5555元买早餐了老板正找你](https://www.baidu.com/s?wd=%E8%B0%81%E8%8A%B15555%E5%85%83%E4%B9%B0%E6%97%A9%E9%A4%90%E4%BA%86%E8%80%81%E6%9D%BF%E6%AD%A3%E6%89%BE%E4%BD%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [歌迷花千元在演唱会现场“看柱子”](https://www.baidu.com/s?wd=%E6%AD%8C%E8%BF%B7%E8%8A%B1%E5%8D%83%E5%85%83%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA%E2%80%9C%E7%9C%8B%E6%9F%B1%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“代骂服务”商家:可选择是否带脏话](https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%A3%E9%AA%82%E6%9C%8D%E5%8A%A1%E2%80%9D%E5%95%86%E5%AE%B6%3A%E5%8F%AF%E9%80%89%E6%8B%A9%E6%98%AF%E5%90%A6%E5%B8%A6%E8%84%8F%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子挂科退学10年后再上大学](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%82%E7%A7%91%E9%80%80%E5%AD%A610%E5%B9%B4%E5%90%8E%E5%86%8D%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [中非这样回答历史之问](https://www.baidu.com/s?wd=%E4%B8%AD%E9%9D%9E%E8%BF%99%E6%A0%B7%E5%9B%9E%E7%AD%94%E5%8E%86%E5%8F%B2%E4%B9%8B%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [普里戈任确认死于坠机](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%A1%AE%E8%AE%A4%E6%AD%BB%E4%BA%8E%E5%9D%A0%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [水产品商家：不敢吃海鲜是庸人自扰](https://www.baidu.com/s?wd=%E6%B0%B4%E4%BA%A7%E5%93%81%E5%95%86%E5%AE%B6%EF%BC%9A%E4%B8%8D%E6%95%A2%E5%90%83%E6%B5%B7%E9%B2%9C%E6%98%AF%E5%BA%B8%E4%BA%BA%E8%87%AA%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [两部门：证券交易印花税减半征收](https://www.baidu.com/s?wd=%E4%B8%A4%E9%83%A8%E9%97%A8%EF%BC%9A%E8%AF%81%E5%88%B8%E4%BA%A4%E6%98%93%E5%8D%B0%E8%8A%B1%E7%A8%8E%E5%87%8F%E5%8D%8A%E5%BE%81%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [给新生的军训小贴士](https://www.baidu.com/s?wd=%E7%BB%99%E6%96%B0%E7%94%9F%E7%9A%84%E5%86%9B%E8%AE%AD%E5%B0%8F%E8%B4%B4%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家称洗头可洗掉沾染的放射性元素](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%B4%97%E5%A4%B4%E5%8F%AF%E6%B4%97%E6%8E%89%E6%B2%BE%E6%9F%93%E7%9A%84%E6%94%BE%E5%B0%84%E6%80%A7%E5%85%83%E7%B4%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [两部门：证券交易印花税减半征收](https://www.baidu.com/s?wd=%E4%B8%A4%E9%83%A8%E9%97%A8%EF%BC%9A%E8%AF%81%E5%88%B8%E4%BA%A4%E6%98%93%E5%8D%B0%E8%8A%B1%E7%A8%8E%E5%87%8F%E5%8D%8A%E5%BE%81%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [谁花5555元买早餐了老板正找你](https://www.baidu.com/s?wd=%E8%B0%81%E8%8A%B15555%E5%85%83%E4%B9%B0%E6%97%A9%E9%A4%90%E4%BA%86%E8%80%81%E6%9D%BF%E6%AD%A3%E6%89%BE%E4%BD%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [歌迷花千元在演唱会现场“看柱子”](https://www.baidu.com/s?wd=%E6%AD%8C%E8%BF%B7%E8%8A%B1%E5%8D%83%E5%85%83%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA%E2%80%9C%E7%9C%8B%E6%9F%B1%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“代骂服务”商家:可选择是否带脏话](https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%A3%E9%AA%82%E6%9C%8D%E5%8A%A1%E2%80%9D%E5%95%86%E5%AE%B6%3A%E5%8F%AF%E9%80%89%E6%8B%A9%E6%98%AF%E5%90%A6%E5%B8%A6%E8%84%8F%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [谁花5555元买早餐了老板正找你](https://www.baidu.com/s?wd=%E8%B0%81%E8%8A%B15555%E5%85%83%E4%B9%B0%E6%97%A9%E9%A4%90%E4%BA%86%E8%80%81%E6%9D%BF%E6%AD%A3%E6%89%BE%E4%BD%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [歌迷花千元在演唱会现场“看柱子”](https://www.baidu.com/s?wd=%E6%AD%8C%E8%BF%B7%E8%8A%B1%E5%8D%83%E5%85%83%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA%E2%80%9C%E7%9C%8B%E6%9F%B1%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“代骂服务”商家:可选择是否带脏话](https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%A3%E9%AA%82%E6%9C%8D%E5%8A%A1%E2%80%9D%E5%95%86%E5%AE%B6%3A%E5%8F%AF%E9%80%89%E6%8B%A9%E6%98%AF%E5%90%A6%E5%B8%A6%E8%84%8F%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子挂科退学10年后再上大学](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%82%E7%A7%91%E9%80%80%E5%AD%A610%E5%B9%B4%E5%90%8E%E5%86%8D%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
