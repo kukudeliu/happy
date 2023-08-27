@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 19:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 19:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [确认普里戈任死亡](https://s.weibo.com/weibo?q=%23%E7%A1%AE%E8%AE%A4%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [6名银行员工帮客户清点160万被烧现金](https://s.weibo.com/weibo?q=%236%E5%90%8D%E9%93%B6%E8%A1%8C%E5%91%98%E5%B7%A5%E5%B8%AE%E5%AE%A2%E6%88%B7%E6%B8%85%E7%82%B9160%E4%B8%87%E8%A2%AB%E7%83%A7%E7%8E%B0%E9%87%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [九尾狐明明就是祥瑞](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%B0%BE%E7%8B%90%E6%98%8E%E6%98%8E%E5%B0%B1%E6%98%AF%E7%A5%A5%E7%91%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [长沙一小区电梯坠落2人瞬间腾空](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%94%B5%E6%A2%AF%E5%9D%A0%E8%90%BD2%E4%BA%BA%E7%9E%AC%E9%97%B4%E8%85%BE%E7%A9%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [观众演唱会上听不清歌声齐喊退票](https://s.weibo.com/weibo?q=%23%E8%A7%82%E4%BC%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%90%AC%E4%B8%8D%E6%B8%85%E6%AD%8C%E5%A3%B0%E9%BD%90%E5%96%8A%E9%80%80%E7%A5%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [专家称洗头可洗掉沾染的放射性元素](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%B4%97%E5%A4%B4%E5%8F%AF%E6%B4%97%E6%8E%89%E6%B2%BE%E6%9F%93%E7%9A%84%E6%94%BE%E5%B0%84%E6%80%A7%E5%85%83%E7%B4%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [谁花5555元买早餐了老板正找你](https://www.baidu.com/s?wd=%E8%B0%81%E8%8A%B15555%E5%85%83%E4%B9%B0%E6%97%A9%E9%A4%90%E4%BA%86%E8%80%81%E6%9D%BF%E6%AD%A3%E6%89%BE%E4%BD%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子挂科退学10年后再上大学](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%82%E7%A7%91%E9%80%80%E5%AD%A610%E5%B9%B4%E5%90%8E%E5%86%8D%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [妈妈欲买海鲜囤满3米长冰柜惊呆儿子](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E6%AC%B2%E4%B9%B0%E6%B5%B7%E9%B2%9C%E5%9B%A4%E6%BB%A13%E7%B1%B3%E9%95%BF%E5%86%B0%E6%9F%9C%E6%83%8A%E5%91%86%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中学一女生宿舍住116人？当地回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E4%B8%80%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E4%BD%8F116%E4%BA%BA%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [7万多株紫薇树苗遭强毁？陕西通报](https://www.baidu.com/s?wd=7%E4%B8%87%E5%A4%9A%E6%A0%AA%E7%B4%AB%E8%96%87%E6%A0%91%E8%8B%97%E9%81%AD%E5%BC%BA%E6%AF%81%EF%BC%9F%E9%99%95%E8%A5%BF%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [专家称洗头可洗掉沾染的放射性元素](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%B4%97%E5%A4%B4%E5%8F%AF%E6%B4%97%E6%8E%89%E6%B2%BE%E6%9F%93%E7%9A%84%E6%94%BE%E5%B0%84%E6%80%A7%E5%85%83%E7%B4%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [谁花5555元买早餐了老板正找你](https://www.baidu.com/s?wd=%E8%B0%81%E8%8A%B15555%E5%85%83%E4%B9%B0%E6%97%A9%E9%A4%90%E4%BA%86%E8%80%81%E6%9D%BF%E6%AD%A3%E6%89%BE%E4%BD%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子挂科退学10年后再上大学](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%82%E7%A7%91%E9%80%80%E5%AD%A610%E5%B9%B4%E5%90%8E%E5%86%8D%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [妈妈欲买海鲜囤满3米长冰柜惊呆儿子](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E6%AC%B2%E4%B9%B0%E6%B5%B7%E9%B2%9C%E5%9B%A4%E6%BB%A13%E7%B1%B3%E9%95%BF%E5%86%B0%E6%9F%9C%E6%83%8A%E5%91%86%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中学一女生宿舍住116人？当地回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E4%B8%80%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E4%BD%8F116%E4%BA%BA%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [7万多株紫薇树苗遭强毁？陕西通报](https://www.baidu.com/s?wd=7%E4%B8%87%E5%A4%9A%E6%A0%AA%E7%B4%AB%E8%96%87%E6%A0%91%E8%8B%97%E9%81%AD%E5%BC%BA%E6%AF%81%EF%BC%9F%E9%99%95%E8%A5%BF%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
