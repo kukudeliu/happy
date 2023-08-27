@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 12:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 12:17:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [男子穿“日本投降”T恤买日系车](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A9%BF%E2%80%9C%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D%E2%80%9DT%E6%81%A4%E4%B9%B0%E6%97%A5%E7%B3%BB%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄罗斯海岸惊现深海恐怖怪鱼](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%B5%B7%E5%B2%B8%E6%83%8A%E7%8E%B0%E6%B7%B1%E6%B5%B7%E6%81%90%E6%80%96%E6%80%AA%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [42分惨败！中国男篮不敌塞尔维亚](https://www.baidu.com/s?wd=42%E5%88%86%E6%83%A8%E8%B4%A5%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [太平洋沿岸国有权向日本发起索赔](https://www.baidu.com/s?wd=%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%B2%BF%E5%B2%B8%E5%9B%BD%E6%9C%89%E6%9D%83%E5%90%91%E6%97%A5%E6%9C%AC%E5%8F%91%E8%B5%B7%E7%B4%A2%E8%B5%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老人火化子女在火葬场争吵](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%81%AB%E5%8C%96%E5%AD%90%E5%A5%B3%E5%9C%A8%E7%81%AB%E8%91%AC%E5%9C%BA%E4%BA%89%E5%90%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [男子穿“日本投降”T恤买日系车](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A9%BF%E2%80%9C%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D%E2%80%9DT%E6%81%A4%E4%B9%B0%E6%97%A5%E7%B3%BB%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄罗斯海岸惊现深海恐怖怪鱼](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%B5%B7%E5%B2%B8%E6%83%8A%E7%8E%B0%E6%B7%B1%E6%B5%B7%E6%81%90%E6%80%96%E6%80%AA%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [42分惨败！中国男篮不敌塞尔维亚](https://www.baidu.com/s?wd=42%E5%88%86%E6%83%A8%E8%B4%A5%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [太平洋沿岸国有权向日本发起索赔](https://www.baidu.com/s?wd=%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%B2%BF%E5%B2%B8%E5%9B%BD%E6%9C%89%E6%9D%83%E5%90%91%E6%97%A5%E6%9C%AC%E5%8F%91%E8%B5%B7%E7%B4%A2%E8%B5%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老人火化子女在火葬场争吵](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%81%AB%E5%8C%96%E5%AD%90%E5%A5%B3%E5%9C%A8%E7%81%AB%E8%91%AC%E5%9C%BA%E4%BA%89%E5%90%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
