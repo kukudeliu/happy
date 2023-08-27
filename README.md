@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 05:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 05:49:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [中学小卖部5年租金超900万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%B0%8F%E5%8D%96%E9%83%A85%E5%B9%B4%E7%A7%9F%E9%87%91%E8%B6%85900%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [天后世纪同框 观众听不清歌声喊退票](https://www.baidu.com/s?wd=%E5%A4%A9%E5%90%8E%E4%B8%96%E7%BA%AA%E5%90%8C%E6%A1%86+%E8%A7%82%E4%BC%97%E5%90%AC%E4%B8%8D%E6%B8%85%E6%AD%8C%E5%A3%B0%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [披荆斩棘给林志颖安排了单人间](https://www.baidu.com/s?wd=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%BB%99%E6%9E%97%E5%BF%97%E9%A2%96%E5%AE%89%E6%8E%92%E4%BA%86%E5%8D%95%E4%BA%BA%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国真在购美国农田吗？](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9C%9F%E5%9C%A8%E8%B4%AD%E7%BE%8E%E5%9B%BD%E5%86%9C%E7%94%B0%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [好声音或赔付7家广告商超5亿](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%88%96%E8%B5%94%E4%BB%987%E5%AE%B6%E5%B9%BF%E5%91%8A%E5%95%86%E8%B6%855%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [中学小卖部5年租金超900万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%B0%8F%E5%8D%96%E9%83%A85%E5%B9%B4%E7%A7%9F%E9%87%91%E8%B6%85900%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [天后世纪同框 观众听不清歌声喊退票](https://www.baidu.com/s?wd=%E5%A4%A9%E5%90%8E%E4%B8%96%E7%BA%AA%E5%90%8C%E6%A1%86+%E8%A7%82%E4%BC%97%E5%90%AC%E4%B8%8D%E6%B8%85%E6%AD%8C%E5%A3%B0%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [披荆斩棘给林志颖安排了单人间](https://www.baidu.com/s?wd=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%BB%99%E6%9E%97%E5%BF%97%E9%A2%96%E5%AE%89%E6%8E%92%E4%BA%86%E5%8D%95%E4%BA%BA%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国真在购美国农田吗？](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9C%9F%E5%9C%A8%E8%B4%AD%E7%BE%8E%E5%9B%BD%E5%86%9C%E7%94%B0%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [好声音或赔付7家广告商超5亿](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%88%96%E8%B5%94%E4%BB%987%E5%AE%B6%E5%B9%BF%E5%91%8A%E5%95%86%E8%B6%855%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
