@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 18:43:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 18:44:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [天后世纪同框 观众听不清歌声喊退票](https://www.baidu.com/s?wd=%E5%A4%A9%E5%90%8E%E4%B8%96%E7%BA%AA%E5%90%8C%E6%A1%86+%E8%A7%82%E4%BC%97%E5%90%AC%E4%B8%8D%E6%B8%85%E6%AD%8C%E5%A3%B0%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [城管查收商户售卖冥纸冥币](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E6%9F%A5%E6%94%B6%E5%95%86%E6%88%B7%E5%94%AE%E5%8D%96%E5%86%A5%E7%BA%B8%E5%86%A5%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [商人与园区斡旋一周解救中科院博士](https://www.baidu.com/s?wd=%E5%95%86%E4%BA%BA%E4%B8%8E%E5%9B%AD%E5%8C%BA%E6%96%A1%E6%97%8B%E4%B8%80%E5%91%A8%E8%A7%A3%E6%95%91%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [家长吐槽恶改版儿歌教小孩说脏话](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%81%B6%E6%94%B9%E7%89%88%E5%84%BF%E6%AD%8C%E6%95%99%E5%B0%8F%E5%AD%A9%E8%AF%B4%E8%84%8F%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本强推核污染水排海5大手段](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E6%8E%A8%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B75%E5%A4%A7%E6%89%8B%E6%AE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [美国务院称对日核污水排海计划满意](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%A7%B0%E5%AF%B9%E6%97%A5%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E8%AE%A1%E5%88%92%E6%BB%A1%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [天后世纪同框 观众听不清歌声喊退票](https://www.baidu.com/s?wd=%E5%A4%A9%E5%90%8E%E4%B8%96%E7%BA%AA%E5%90%8C%E6%A1%86+%E8%A7%82%E4%BC%97%E5%90%AC%E4%B8%8D%E6%B8%85%E6%AD%8C%E5%A3%B0%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [城管查收商户售卖冥纸冥币](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E6%9F%A5%E6%94%B6%E5%95%86%E6%88%B7%E5%94%AE%E5%8D%96%E5%86%A5%E7%BA%B8%E5%86%A5%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [商人与园区斡旋一周解救中科院博士](https://www.baidu.com/s?wd=%E5%95%86%E4%BA%BA%E4%B8%8E%E5%9B%AD%E5%8C%BA%E6%96%A1%E6%97%8B%E4%B8%80%E5%91%A8%E8%A7%A3%E6%95%91%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [家长吐槽恶改版儿歌教小孩说脏话](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%81%B6%E6%94%B9%E7%89%88%E5%84%BF%E6%AD%8C%E6%95%99%E5%B0%8F%E5%AD%A9%E8%AF%B4%E8%84%8F%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本强推核污染水排海5大手段](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E6%8E%A8%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B75%E5%A4%A7%E6%89%8B%E6%AE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [美国务院称对日核污水排海计划满意](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%A7%B0%E5%AF%B9%E6%97%A5%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E8%AE%A1%E5%88%92%E6%BB%A1%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
