@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 16:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 16:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [当地教育局回应一中学女生宿舍住116人](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E4%BD%8F116%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [其实穷人的孩子更晚熟](https://s.weibo.com/weibo?q=%23%E5%85%B6%E5%AE%9E%E7%A9%B7%E4%BA%BA%E7%9A%84%E5%AD%A9%E5%AD%90%E6%9B%B4%E6%99%9A%E7%86%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [马丽 不幸的童年需要用一生去治愈](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%20%E4%B8%8D%E5%B9%B8%E7%9A%84%E7%AB%A5%E5%B9%B4%E9%9C%80%E8%A6%81%E7%94%A8%E4%B8%80%E7%94%9F%E5%8E%BB%E6%B2%BB%E6%84%88&t=31&band_rank=8&Refer=top)<br />
-9. [躺着玩手机如何减少伤害](https://s.weibo.com/weibo?q=%23%E8%BA%BA%E7%9D%80%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%A6%82%E4%BD%95%E5%87%8F%E5%B0%91%E4%BC%A4%E5%AE%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [女子长期侧躺玩手机致右眼短暂失明](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%95%BF%E6%9C%9F%E4%BE%A7%E8%BA%BA%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%87%B4%E5%8F%B3%E7%9C%BC%E7%9F%AD%E6%9A%82%E5%A4%B1%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
