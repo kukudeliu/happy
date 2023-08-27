@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 17:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 17:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [披荆斩棘给林志颖安排了单人间](https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%BB%99%E6%9E%97%E5%BF%97%E9%A2%96%E5%AE%89%E6%8E%92%E4%BA%86%E5%8D%95%E4%BA%BA%E9%97%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [把骨相美发挥到了极致](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E9%AA%A8%E7%9B%B8%E7%BE%8E%E5%8F%91%E6%8C%A5%E5%88%B0%E4%BA%86%E6%9E%81%E8%87%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [幼儿园被疑组织家长开私家车队上街炫富](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%A2%AB%E7%96%91%E7%BB%84%E7%BB%87%E5%AE%B6%E9%95%BF%E5%BC%80%E7%A7%81%E5%AE%B6%E8%BD%A6%E9%98%9F%E4%B8%8A%E8%A1%97%E7%82%AB%E5%AF%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [福岛真相](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B2%9B%E7%9C%9F%E7%9B%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子发现网红探访的凶宅是自己家](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E7%BD%91%E7%BA%A2%E6%8E%A2%E8%AE%BF%E7%9A%84%E5%87%B6%E5%AE%85%E6%98%AF%E8%87%AA%E5%B7%B1%E5%AE%B6%23&t=31&band_rank=9&Refer=top)<br />
+8. [12306回应火车卧铺能否自带床帘](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E7%81%AB%E8%BD%A6%E5%8D%A7%E9%93%BA%E8%83%BD%E5%90%A6%E8%87%AA%E5%B8%A6%E5%BA%8A%E5%B8%98%23&t=31&band_rank=8&Refer=top)<br />
+9. [福岛真相](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B2%9B%E7%9C%9F%E7%9B%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
