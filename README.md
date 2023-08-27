@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 00:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 00:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [台风达维或使核污染水扑向美国](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%BE%BE%E7%BB%B4%E6%88%96%E4%BD%BF%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%89%91%E5%90%91%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [2023香港小姐获奖名单](https://s.weibo.com/weibo?q=%232023%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%90%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [顾漫 接下来更新会更斟酌仔细](https://s.weibo.com/weibo?q=%E9%A1%BE%E6%BC%AB%20%E6%8E%A5%E4%B8%8B%E6%9D%A5%E6%9B%B4%E6%96%B0%E4%BC%9A%E6%9B%B4%E6%96%9F%E9%85%8C%E4%BB%94%E7%BB%86&t=31&band_rank=8&Refer=top)<br />
-9. [尼格买提报平安](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E6%8A%A5%E5%B9%B3%E5%AE%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [王怡然最上镜小姐](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%80%A1%E7%84%B6%E6%9C%80%E4%B8%8A%E9%95%9C%E5%B0%8F%E5%A7%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
