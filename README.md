@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 06:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 06:09:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [中学小卖部5年租金超900万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%B0%8F%E5%8D%96%E9%83%A85%E5%B9%B4%E7%A7%9F%E9%87%91%E8%B6%85900%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子发现网红探访的凶宅是自己家](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E7%BD%91%E7%BA%A2%E6%8E%A2%E8%AE%BF%E7%9A%84%E5%87%B6%E5%AE%85%E6%98%AF%E8%87%AA%E5%B7%B1%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [尼格买提报平安](https://www.baidu.com/s?wd=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E6%8A%A5%E5%B9%B3%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [谁花5555元买早餐了老板正找你](https://www.baidu.com/s?wd=%E8%B0%81%E8%8A%B15555%E5%85%83%E4%B9%B0%E6%97%A9%E9%A4%90%E4%BA%86%E8%80%81%E6%9D%BF%E6%AD%A3%E6%89%BE%E4%BD%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学校教练打学生多次踹头掌掴](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E6%95%99%E7%BB%83%E6%89%93%E5%AD%A6%E7%94%9F%E5%A4%9A%E6%AC%A1%E8%B8%B9%E5%A4%B4%E6%8E%8C%E6%8E%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [中学小卖部5年租金超900万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%B0%8F%E5%8D%96%E9%83%A85%E5%B9%B4%E7%A7%9F%E9%87%91%E8%B6%85900%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子发现网红探访的凶宅是自己家](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E7%BD%91%E7%BA%A2%E6%8E%A2%E8%AE%BF%E7%9A%84%E5%87%B6%E5%AE%85%E6%98%AF%E8%87%AA%E5%B7%B1%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [尼格买提报平安](https://www.baidu.com/s?wd=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E6%8A%A5%E5%B9%B3%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [谁花5555元买早餐了老板正找你](https://www.baidu.com/s?wd=%E8%B0%81%E8%8A%B15555%E5%85%83%E4%B9%B0%E6%97%A9%E9%A4%90%E4%BA%86%E8%80%81%E6%9D%BF%E6%AD%A3%E6%89%BE%E4%BD%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学校教练打学生多次踹头掌掴](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E6%95%99%E7%BB%83%E6%89%93%E5%AD%A6%E7%94%9F%E5%A4%9A%E6%AC%A1%E8%B8%B9%E5%A4%B4%E6%8E%8C%E6%8E%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
