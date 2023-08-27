@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 12:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 12:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [恭喜08号选手李宇春](https://s.weibo.com/weibo?q=%23%E6%81%AD%E5%96%9C08%E5%8F%B7%E9%80%89%E6%89%8B%E6%9D%8E%E5%AE%87%E6%98%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [宁安如梦](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6&t=31&band_rank=7&Refer=top)<br />
 8. [邓为 我觉得火不敢当](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%20%E6%88%91%E8%A7%89%E5%BE%97%E7%81%AB%E4%B8%8D%E6%95%A2%E5%BD%93&t=31&band_rank=8&Refer=top)<br />
-9. [CPA会计](https://s.weibo.com/weibo?q=CPA%E4%BC%9A%E8%AE%A1&t=31&band_rank=9&Refer=top)<br />
+9. [日本国内超市停买水产品让日企心态崩了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%86%85%E8%B6%85%E5%B8%82%E5%81%9C%E4%B9%B0%E6%B0%B4%E4%BA%A7%E5%93%81%E8%AE%A9%E6%97%A5%E4%BC%81%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
