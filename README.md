@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 13:16:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 13:17:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [加拿大环境部长启程前往北京](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%8E%AF%E5%A2%83%E9%83%A8%E9%95%BF%E5%90%AF%E7%A8%8B%E5%89%8D%E5%BE%80%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老人火化子女在火葬场争吵](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%81%AB%E5%8C%96%E5%AD%90%E5%A5%B3%E5%9C%A8%E7%81%AB%E8%91%AC%E5%9C%BA%E4%BA%89%E5%90%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [42分惨败！中国男篮不敌塞尔维亚](https://www.baidu.com/s?wd=42%E5%88%86%E6%83%A8%E8%B4%A5%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [海绵宝宝讲的是核污染的故事](https://www.baidu.com/s?wd=%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E8%AE%B2%E7%9A%84%E6%98%AF%E6%A0%B8%E6%B1%A1%E6%9F%93%E7%9A%84%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [尼格买提录节目摔伤](https://www.baidu.com/s?wd=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E5%BD%95%E8%8A%82%E7%9B%AE%E6%91%94%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [加拿大环境部长启程前往北京](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%8E%AF%E5%A2%83%E9%83%A8%E9%95%BF%E5%90%AF%E7%A8%8B%E5%89%8D%E5%BE%80%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老人火化子女在火葬场争吵](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%81%AB%E5%8C%96%E5%AD%90%E5%A5%B3%E5%9C%A8%E7%81%AB%E8%91%AC%E5%9C%BA%E4%BA%89%E5%90%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [42分惨败！中国男篮不敌塞尔维亚](https://www.baidu.com/s?wd=42%E5%88%86%E6%83%A8%E8%B4%A5%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [海绵宝宝讲的是核污染的故事](https://www.baidu.com/s?wd=%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E8%AE%B2%E7%9A%84%E6%98%AF%E6%A0%B8%E6%B1%A1%E6%9F%93%E7%9A%84%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [尼格买提录节目摔伤](https://www.baidu.com/s?wd=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E5%BD%95%E8%8A%82%E7%9B%AE%E6%91%94%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
