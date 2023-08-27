@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 13:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 13:40:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [考编失败的狗狗去了哪里](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%BC%96%E5%A4%B1%E8%B4%A5%E7%9A%84%E7%8B%97%E7%8B%97%E5%8E%BB%E4%BA%86%E5%93%AA%E9%87%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [郑恺女儿上综艺了](https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E5%A5%B3%E5%84%BF%E4%B8%8A%E7%BB%BC%E8%89%BA%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [泰国的雪王那么富贵](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%9A%84%E9%9B%AA%E7%8E%8B%E9%82%A3%E4%B9%88%E5%AF%8C%E8%B4%B5%23&t=31&band_rank=8&Refer=top)<br />
-9. [金城武 我很讨厌在拍戏时看到动物](https://s.weibo.com/weibo?q=%E9%87%91%E5%9F%8E%E6%AD%A6%20%E6%88%91%E5%BE%88%E8%AE%A8%E5%8E%8C%E5%9C%A8%E6%8B%8D%E6%88%8F%E6%97%B6%E7%9C%8B%E5%88%B0%E5%8A%A8%E7%89%A9&t=31&band_rank=9&Refer=top)<br />
+9. [恭喜08号选手李宇春](https://s.weibo.com/weibo?q=%23%E6%81%AD%E5%96%9C08%E5%8F%B7%E9%80%89%E6%89%8B%E6%9D%8E%E5%AE%87%E6%98%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
