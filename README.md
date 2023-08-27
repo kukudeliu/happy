@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 07:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 07:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男孩怕瓜有毒让民警先吃](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E6%80%95%E7%93%9C%E6%9C%89%E6%AF%92%E8%AE%A9%E6%B0%91%E8%AD%A6%E5%85%88%E5%90%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [张杰的明星粉丝们开始合照了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%9A%84%E6%98%8E%E6%98%9F%E7%B2%89%E4%B8%9D%E4%BB%AC%E5%BC%80%E5%A7%8B%E5%90%88%E7%85%A7%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [妹妹被正式确诊为曾毅](https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B9%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%9B%BE%E6%AF%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [Doinb](https://s.weibo.com/weibo?q=Doinb&t=31&band_rank=9&Refer=top)<br />
+9. [王怡然最上镜小姐](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%80%A1%E7%84%B6%E6%9C%80%E4%B8%8A%E9%95%9C%E5%B0%8F%E5%A7%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
