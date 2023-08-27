@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 07:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 07:25:02</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [推动金砖合作迈上新台阶](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E8%BF%88%E4%B8%8A%E6%96%B0%E5%8F%B0%E9%98%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [辛吉飞代言奶粉被举报含违禁成分](https://www.baidu.com/s?wd=%E8%BE%9B%E5%90%89%E9%A3%9E%E4%BB%A3%E8%A8%80%E5%A5%B6%E7%B2%89%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%90%AB%E8%BF%9D%E7%A6%81%E6%88%90%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [辛吉飞代言奶粉被举报塑化剂超标](https://www.baidu.com/s?wd=%E8%BE%9B%E5%90%89%E9%A3%9E%E4%BB%A3%E8%A8%80%E5%A5%B6%E7%B2%89%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A1%91%E5%8C%96%E5%89%82%E8%B6%85%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [庄子璇获2023香港小姐冠军](https://www.baidu.com/s?wd=%E5%BA%84%E5%AD%90%E7%92%87%E8%8E%B72023%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%90%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这是“万物共生”的中国答卷](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E2%80%9C%E4%B8%87%E7%89%A9%E5%85%B1%E7%94%9F%E2%80%9D%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [胡歌回应未来五年不拍戏](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%9B%9E%E5%BA%94%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E4%B8%8D%E6%8B%8D%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [推动金砖合作迈上新台阶](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E8%BF%88%E4%B8%8A%E6%96%B0%E5%8F%B0%E9%98%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [辛吉飞代言奶粉被举报含违禁成分](https://www.baidu.com/s?wd=%E8%BE%9B%E5%90%89%E9%A3%9E%E4%BB%A3%E8%A8%80%E5%A5%B6%E7%B2%89%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%90%AB%E8%BF%9D%E7%A6%81%E6%88%90%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [辛吉飞代言奶粉被举报塑化剂超标](https://www.baidu.com/s?wd=%E8%BE%9B%E5%90%89%E9%A3%9E%E4%BB%A3%E8%A8%80%E5%A5%B6%E7%B2%89%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A1%91%E5%8C%96%E5%89%82%E8%B6%85%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [庄子璇获2023香港小姐冠军](https://www.baidu.com/s?wd=%E5%BA%84%E5%AD%90%E7%92%87%E8%8E%B72023%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%90%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这是“万物共生”的中国答卷](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E2%80%9C%E4%B8%87%E7%89%A9%E5%85%B1%E7%94%9F%E2%80%9D%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [胡歌回应未来五年不拍戏](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%9B%9E%E5%BA%94%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E4%B8%8D%E6%8B%8D%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
