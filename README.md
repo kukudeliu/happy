@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 10:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 10:29:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [安妮海瑟薇的颜值变化](https://s.weibo.com/weibo?q=%E5%AE%89%E5%A6%AE%E6%B5%B7%E7%91%9F%E8%96%87%E7%9A%84%E9%A2%9C%E5%80%BC%E5%8F%98%E5%8C%96&t=31&band_rank=5&Refer=top)<br />
 6. [杜海涛几十年的主持人白干了](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%87%A0%E5%8D%81%E5%B9%B4%E7%9A%84%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%99%BD%E5%B9%B2%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本国内超市停买水产品让日企心态崩了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%86%85%E8%B6%85%E5%B8%82%E5%81%9C%E4%B9%B0%E6%B0%B4%E4%BA%A7%E5%93%81%E8%AE%A9%E6%97%A5%E4%BC%81%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [张栋梁披荆斩棘排名](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A0%8B%E6%A2%81%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%8E%92%E5%90%8D%23&t=31&band_rank=8&Refer=top)<br />
+8. [第一次见拔箭如此干脆的女主](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E6%8B%94%E7%AE%AD%E5%A6%82%E6%AD%A4%E5%B9%B2%E8%84%86%E7%9A%84%E5%A5%B3%E4%B8%BB&t=31&band_rank=8&Refer=top)<br />
 9. [新中式裙子](https://s.weibo.com/weibo?q=%E6%96%B0%E4%B8%AD%E5%BC%8F%E8%A3%99%E5%AD%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
