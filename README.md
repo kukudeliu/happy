@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 22:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 22:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [非常杨幂](https://s.weibo.com/weibo?q=%E9%9D%9E%E5%B8%B8%E6%9D%A8%E5%B9%82&t=31&band_rank=6&Refer=top)<br />
 7. [杨宗纬 我想要听张杰](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%AE%97%E7%BA%AC%20%E6%88%91%E6%83%B3%E8%A6%81%E5%90%AC%E5%BC%A0%E6%9D%B0&t=31&band_rank=7&Refer=top)<br />
 8. [DRG被零封](https://s.weibo.com/weibo?q=DRG%E8%A2%AB%E9%9B%B6%E5%B0%81&t=31&band_rank=8&Refer=top)<br />
-9. [张子豪摔下台](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AD%90%E8%B1%AA%E6%91%94%E4%B8%8B%E5%8F%B0&t=31&band_rank=9&Refer=top)<br />
+9. [长空之王最终票房8.5亿](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%A9%BA%E4%B9%8B%E7%8E%8B%E6%9C%80%E7%BB%88%E7%A5%A8%E6%88%BF8.5%E4%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
