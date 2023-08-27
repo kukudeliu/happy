@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 17:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 17:14:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [水产品商家：不敢吃海鲜是庸人自扰](https://www.baidu.com/s?wd=%E6%B0%B4%E4%BA%A7%E5%93%81%E5%95%86%E5%AE%B6%EF%BC%9A%E4%B8%8D%E6%95%A2%E5%90%83%E6%B5%B7%E9%B2%9C%E6%98%AF%E5%BA%B8%E4%BA%BA%E8%87%AA%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子刷视频手机突然说话自称未来人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%B7%E8%A7%86%E9%A2%91%E6%89%8B%E6%9C%BA%E7%AA%81%E7%84%B6%E8%AF%B4%E8%AF%9D%E8%87%AA%E7%A7%B0%E6%9C%AA%E6%9D%A5%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中学一女生宿舍住116人？当地回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E4%B8%80%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E4%BD%8F116%E4%BA%BA%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [好声音或赔付7家广告商超5亿](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%88%96%E8%B5%94%E4%BB%987%E5%AE%B6%E5%B9%BF%E5%91%8A%E5%95%86%E8%B6%855%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [妈妈欲买海鲜囤满3米长冰柜惊呆儿子](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E6%AC%B2%E4%B9%B0%E6%B5%B7%E9%B2%9C%E5%9B%A4%E6%BB%A13%E7%B1%B3%E9%95%BF%E5%86%B0%E6%9F%9C%E6%83%8A%E5%91%86%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家长吐槽恶改版儿歌教小孩说脏话](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%81%B6%E6%94%B9%E7%89%88%E5%84%BF%E6%AD%8C%E6%95%99%E5%B0%8F%E5%AD%A9%E8%AF%B4%E8%84%8F%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [好声音或赔付7家广告商超5亿](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%88%96%E8%B5%94%E4%BB%987%E5%AE%B6%E5%B9%BF%E5%91%8A%E5%95%86%E8%B6%855%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [水产品商家：不敢吃海鲜是庸人自扰](https://www.baidu.com/s?wd=%E6%B0%B4%E4%BA%A7%E5%93%81%E5%95%86%E5%AE%B6%EF%BC%9A%E4%B8%8D%E6%95%A2%E5%90%83%E6%B5%B7%E9%B2%9C%E6%98%AF%E5%BA%B8%E4%BA%BA%E8%87%AA%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子刷视频手机突然说话自称未来人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%B7%E8%A7%86%E9%A2%91%E6%89%8B%E6%9C%BA%E7%AA%81%E7%84%B6%E8%AF%B4%E8%AF%9D%E8%87%AA%E7%A7%B0%E6%9C%AA%E6%9D%A5%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中学一女生宿舍住116人？当地回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E4%B8%80%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E4%BD%8F116%E4%BA%BA%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [好声音或赔付7家广告商超5亿](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%88%96%E8%B5%94%E4%BB%987%E5%AE%B6%E5%B9%BF%E5%91%8A%E5%95%86%E8%B6%855%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [妈妈欲买海鲜囤满3米长冰柜惊呆儿子](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E6%AC%B2%E4%B9%B0%E6%B5%B7%E9%B2%9C%E5%9B%A4%E6%BB%A13%E7%B1%B3%E9%95%BF%E5%86%B0%E6%9F%9C%E6%83%8A%E5%91%86%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家长吐槽恶改版儿歌教小孩说脏话](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%81%B6%E6%94%B9%E7%89%88%E5%84%BF%E6%AD%8C%E6%95%99%E5%B0%8F%E5%AD%A9%E8%AF%B4%E8%84%8F%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [好声音或赔付7家广告商超5亿](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%88%96%E8%B5%94%E4%BB%987%E5%AE%B6%E5%B9%BF%E5%91%8A%E5%95%86%E8%B6%855%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
