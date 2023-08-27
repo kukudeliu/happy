@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 00:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 00:19:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [庄子璇获2023香港小姐冠军](https://www.baidu.com/s?wd=%E5%BA%84%E5%AD%90%E7%92%87%E8%8E%B72023%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%90%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美贸易代表：中国在稀土领域占主导](https://www.baidu.com/s?wd=%E7%BE%8E%E8%B4%B8%E6%98%93%E4%BB%A3%E8%A1%A8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%9C%A8%E7%A8%80%E5%9C%9F%E9%A2%86%E5%9F%9F%E5%8D%A0%E4%B8%BB%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [2游客被终生禁入成都大熊猫基地](https://www.baidu.com/s?wd=2%E6%B8%B8%E5%AE%A2%E8%A2%AB%E7%BB%88%E7%94%9F%E7%A6%81%E5%85%A5%E6%88%90%E9%83%BD%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%9F%BA%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [音乐节现场遇大雨歌迷变身小泥人](https://www.baidu.com/s?wd=%E9%9F%B3%E4%B9%90%E8%8A%82%E7%8E%B0%E5%9C%BA%E9%81%87%E5%A4%A7%E9%9B%A8%E6%AD%8C%E8%BF%B7%E5%8F%98%E8%BA%AB%E5%B0%8F%E6%B3%A5%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医生让去指定药店买天价药?院方调查](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%8E%BB%E6%8C%87%E5%AE%9A%E8%8D%AF%E5%BA%97%E4%B9%B0%E5%A4%A9%E4%BB%B7%E8%8D%AF%3F%E9%99%A2%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中学小卖部5年租金超900万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%B0%8F%E5%8D%96%E9%83%A85%E5%B9%B4%E7%A7%9F%E9%87%91%E8%B6%85900%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [庄子璇获2023香港小姐冠军](https://www.baidu.com/s?wd=%E5%BA%84%E5%AD%90%E7%92%87%E8%8E%B72023%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%90%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美贸易代表：中国在稀土领域占主导](https://www.baidu.com/s?wd=%E7%BE%8E%E8%B4%B8%E6%98%93%E4%BB%A3%E8%A1%A8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%9C%A8%E7%A8%80%E5%9C%9F%E9%A2%86%E5%9F%9F%E5%8D%A0%E4%B8%BB%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [2游客被终生禁入成都大熊猫基地](https://www.baidu.com/s?wd=2%E6%B8%B8%E5%AE%A2%E8%A2%AB%E7%BB%88%E7%94%9F%E7%A6%81%E5%85%A5%E6%88%90%E9%83%BD%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%9F%BA%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [音乐节现场遇大雨歌迷变身小泥人](https://www.baidu.com/s?wd=%E9%9F%B3%E4%B9%90%E8%8A%82%E7%8E%B0%E5%9C%BA%E9%81%87%E5%A4%A7%E9%9B%A8%E6%AD%8C%E8%BF%B7%E5%8F%98%E8%BA%AB%E5%B0%8F%E6%B3%A5%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医生让去指定药店买天价药?院方调查](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%8E%BB%E6%8C%87%E5%AE%9A%E8%8D%AF%E5%BA%97%E4%B9%B0%E5%A4%A9%E4%BB%B7%E8%8D%AF%3F%E9%99%A2%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中学小卖部5年租金超900万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%B0%8F%E5%8D%96%E9%83%A85%E5%B9%B4%E7%A7%9F%E9%87%91%E8%B6%85900%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
