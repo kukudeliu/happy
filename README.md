@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 21:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 21:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [张远 想过糊没想过这么糊](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%BF%9C%20%E6%83%B3%E8%BF%87%E7%B3%8A%E6%B2%A1%E6%83%B3%E8%BF%87%E8%BF%99%E4%B9%88%E7%B3%8A&t=31&band_rank=5&Refer=top)<br />
 6. [杨宗纬 我想要听张杰](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%AE%97%E7%BA%AC%20%E6%88%91%E6%83%B3%E8%A6%81%E5%90%AC%E5%BC%A0%E6%9D%B0&t=31&band_rank=6&Refer=top)<br />
 7. [DRG被零封](https://s.weibo.com/weibo?q=DRG%E8%A2%AB%E9%9B%B6%E5%B0%81&t=31&band_rank=7&Refer=top)<br />
-8. [张子豪摔下台](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AD%90%E8%B1%AA%E6%91%94%E4%B8%8B%E5%8F%B0&t=31&band_rank=8&Refer=top)<br />
-9. [非常杨幂](https://s.weibo.com/weibo?q=%E9%9D%9E%E5%B8%B8%E6%9D%A8%E5%B9%82&t=31&band_rank=9&Refer=top)<br />
+8. [非常杨幂](https://s.weibo.com/weibo?q=%E9%9D%9E%E5%B8%B8%E6%9D%A8%E5%B9%82&t=31&band_rank=8&Refer=top)<br />
+9. [张子豪摔下台](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AD%90%E8%B1%AA%E6%91%94%E4%B8%8B%E5%8F%B0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
