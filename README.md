@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 07:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 07:09:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [中学小卖部5年租金超900万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%B0%8F%E5%8D%96%E9%83%A85%E5%B9%B4%E7%A7%9F%E9%87%91%E8%B6%85900%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [2游客被终生禁入成都大熊猫基地](https://www.baidu.com/s?wd=2%E6%B8%B8%E5%AE%A2%E8%A2%AB%E7%BB%88%E7%94%9F%E7%A6%81%E5%85%A5%E6%88%90%E9%83%BD%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%9F%BA%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [谁花5555元买早餐了老板正找你](https://www.baidu.com/s?wd=%E8%B0%81%E8%8A%B15555%E5%85%83%E4%B9%B0%E6%97%A9%E9%A4%90%E4%BA%86%E8%80%81%E6%9D%BF%E6%AD%A3%E6%89%BE%E4%BD%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [谭松韵现身素人闺蜜婚礼](https://www.baidu.com/s?wd=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E7%8E%B0%E8%BA%AB%E7%B4%A0%E4%BA%BA%E9%97%BA%E8%9C%9C%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [天后世纪同框 观众听不清歌声喊退票](https://www.baidu.com/s?wd=%E5%A4%A9%E5%90%8E%E4%B8%96%E7%BA%AA%E5%90%8C%E6%A1%86+%E8%A7%82%E4%BC%97%E5%90%AC%E4%B8%8D%E6%B8%85%E6%AD%8C%E5%A3%B0%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [中学小卖部5年租金超900万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%B0%8F%E5%8D%96%E9%83%A85%E5%B9%B4%E7%A7%9F%E9%87%91%E8%B6%85900%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [2游客被终生禁入成都大熊猫基地](https://www.baidu.com/s?wd=2%E6%B8%B8%E5%AE%A2%E8%A2%AB%E7%BB%88%E7%94%9F%E7%A6%81%E5%85%A5%E6%88%90%E9%83%BD%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%9F%BA%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [谁花5555元买早餐了老板正找你](https://www.baidu.com/s?wd=%E8%B0%81%E8%8A%B15555%E5%85%83%E4%B9%B0%E6%97%A9%E9%A4%90%E4%BA%86%E8%80%81%E6%9D%BF%E6%AD%A3%E6%89%BE%E4%BD%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [谭松韵现身素人闺蜜婚礼](https://www.baidu.com/s?wd=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E7%8E%B0%E8%BA%AB%E7%B4%A0%E4%BA%BA%E9%97%BA%E8%9C%9C%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [天后世纪同框 观众听不清歌声喊退票](https://www.baidu.com/s?wd=%E5%A4%A9%E5%90%8E%E4%B8%96%E7%BA%AA%E5%90%8C%E6%A1%86+%E8%A7%82%E4%BC%97%E5%90%AC%E4%B8%8D%E6%B8%85%E6%AD%8C%E5%A3%B0%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
