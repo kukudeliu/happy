@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 12:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 12:47:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [给新生的军训小贴士](https://s.weibo.com/weibo?q=%23%E7%BB%99%E6%96%B0%E7%94%9F%E7%9A%84%E5%86%9B%E8%AE%AD%E5%B0%8F%E8%B4%B4%E5%A3%AB%23&t=31&band_rank=3&Refer=top)<br />
 4. [其实穷人的孩子更晚熟](https://s.weibo.com/weibo?q=%23%E5%85%B6%E5%AE%9E%E7%A9%B7%E4%BA%BA%E7%9A%84%E5%AD%A9%E5%AD%90%E6%9B%B4%E6%99%9A%E7%86%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [郑恺女儿上综艺了](https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E5%A5%B3%E5%84%BF%E4%B8%8A%E7%BB%BC%E8%89%BA%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [恭喜08号选手李宇春](https://s.weibo.com/weibo?q=%23%E6%81%AD%E5%96%9C08%E5%8F%B7%E9%80%89%E6%89%8B%E6%9D%8E%E5%AE%87%E6%98%A5%23&t=31&band_rank=6&Refer=top)<br />
-7. [田曦薇叫哥哥和我想象的不一样](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%8F%AB%E5%93%A5%E5%93%A5%E5%92%8C%E6%88%91%E6%83%B3%E8%B1%A1%E7%9A%84%E4%B8%8D%E4%B8%80%E6%A0%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [两女生被尾随急中生智躲进消防站](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%B0%BE%E9%9A%8F%E6%80%A5%E4%B8%AD%E7%94%9F%E6%99%BA%E8%BA%B2%E8%BF%9B%E6%B6%88%E9%98%B2%E7%AB%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘惜君好辣](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%83%9C%E5%90%9B%E5%A5%BD%E8%BE%A3%23&t=31&band_rank=9&Refer=top)<br />
+6. [田曦薇叫哥哥和我想象的不一样](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%8F%AB%E5%93%A5%E5%93%A5%E5%92%8C%E6%88%91%E6%83%B3%E8%B1%A1%E7%9A%84%E4%B8%8D%E4%B8%80%E6%A0%B7%23&t=31&band_rank=6&Refer=top)<br />
+7. [恭喜08号选手李宇春](https://s.weibo.com/weibo?q=%23%E6%81%AD%E5%96%9C08%E5%8F%B7%E9%80%89%E6%89%8B%E6%9D%8E%E5%AE%87%E6%98%A5%23&t=31&band_rank=7&Refer=top)<br />
+8. [刘惜君好辣](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%83%9C%E5%90%9B%E5%A5%BD%E8%BE%A3%23&t=31&band_rank=8&Refer=top)<br />
+9. [两女生被尾随急中生智躲进消防站](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%B0%BE%E9%9A%8F%E6%80%A5%E4%B8%AD%E7%94%9F%E6%99%BA%E8%BA%B2%E8%BF%9B%E6%B6%88%E9%98%B2%E7%AB%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
