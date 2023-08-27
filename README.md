@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 22:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 22:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张远 想过糊没想过这么糊](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%BF%9C%20%E6%83%B3%E8%BF%87%E7%B3%8A%E6%B2%A1%E6%83%B3%E8%BF%87%E8%BF%99%E4%B9%88%E7%B3%8A&t=31&band_rank=6&Refer=top)<br />
 7. [非常杨幂](https://s.weibo.com/weibo?q=%E9%9D%9E%E5%B8%B8%E6%9D%A8%E5%B9%82&t=31&band_rank=7&Refer=top)<br />
 8. [2023香港小姐决赛](https://s.weibo.com/weibo?q=2023%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%90%E5%86%B3%E8%B5%9B&t=31&band_rank=8&Refer=top)<br />
-9. [蜂巢](https://s.weibo.com/weibo?q=%E8%9C%82%E5%B7%A2&t=31&band_rank=9&Refer=top)<br />
+9. [一路朝阳 今晚创飞我](https://s.weibo.com/weibo?q=%E4%B8%80%E8%B7%AF%E6%9C%9D%E9%98%B3%20%E4%BB%8A%E6%99%9A%E5%88%9B%E9%A3%9E%E6%88%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
