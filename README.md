@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 19:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 19:49:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [专家称洗头可洗掉沾染的放射性元素](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%B4%97%E5%A4%B4%E5%8F%AF%E6%B4%97%E6%8E%89%E6%B2%BE%E6%9F%93%E7%9A%84%E6%94%BE%E5%B0%84%E6%80%A7%E5%85%83%E7%B4%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [谁花5555元买早餐了老板正找你](https://www.baidu.com/s?wd=%E8%B0%81%E8%8A%B15555%E5%85%83%E4%B9%B0%E6%97%A9%E9%A4%90%E4%BA%86%E8%80%81%E6%9D%BF%E6%AD%A3%E6%89%BE%E4%BD%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子挂科退学10年后再上大学](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%82%E7%A7%91%E9%80%80%E5%AD%A610%E5%B9%B4%E5%90%8E%E5%86%8D%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [7万多株紫薇树苗遭强毁？陕西通报](https://www.baidu.com/s?wd=7%E4%B8%87%E5%A4%9A%E6%A0%AA%E7%B4%AB%E8%96%87%E6%A0%91%E8%8B%97%E9%81%AD%E5%BC%BA%E6%AF%81%EF%BC%9F%E9%99%95%E8%A5%BF%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [妈妈欲买海鲜囤满3米长冰柜惊呆儿子](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E6%AC%B2%E4%B9%B0%E6%B5%B7%E9%B2%9C%E5%9B%A4%E6%BB%A13%E7%B1%B3%E9%95%BF%E5%86%B0%E6%9F%9C%E6%83%8A%E5%91%86%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [妈妈欲买海鲜囤满3米长冰柜惊呆儿子](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E6%AC%B2%E4%B9%B0%E6%B5%B7%E9%B2%9C%E5%9B%A4%E6%BB%A13%E7%B1%B3%E9%95%BF%E5%86%B0%E6%9F%9C%E6%83%8A%E5%91%86%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [7万多株紫薇树苗遭强毁？陕西通报](https://www.baidu.com/s?wd=7%E4%B8%87%E5%A4%9A%E6%A0%AA%E7%B4%AB%E8%96%87%E6%A0%91%E8%8B%97%E9%81%AD%E5%BC%BA%E6%AF%81%EF%BC%9F%E9%99%95%E8%A5%BF%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [专家称洗头可洗掉沾染的放射性元素](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%B4%97%E5%A4%B4%E5%8F%AF%E6%B4%97%E6%8E%89%E6%B2%BE%E6%9F%93%E7%9A%84%E6%94%BE%E5%B0%84%E6%80%A7%E5%85%83%E7%B4%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [谁花5555元买早餐了老板正找你](https://www.baidu.com/s?wd=%E8%B0%81%E8%8A%B15555%E5%85%83%E4%B9%B0%E6%97%A9%E9%A4%90%E4%BA%86%E8%80%81%E6%9D%BF%E6%AD%A3%E6%89%BE%E4%BD%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子挂科退学10年后再上大学](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%82%E7%A7%91%E9%80%80%E5%AD%A610%E5%B9%B4%E5%90%8E%E5%86%8D%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [7万多株紫薇树苗遭强毁？陕西通报](https://www.baidu.com/s?wd=7%E4%B8%87%E5%A4%9A%E6%A0%AA%E7%B4%AB%E8%96%87%E6%A0%91%E8%8B%97%E9%81%AD%E5%BC%BA%E6%AF%81%EF%BC%9F%E9%99%95%E8%A5%BF%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [妈妈欲买海鲜囤满3米长冰柜惊呆儿子](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E6%AC%B2%E4%B9%B0%E6%B5%B7%E9%B2%9C%E5%9B%A4%E6%BB%A13%E7%B1%B3%E9%95%BF%E5%86%B0%E6%9F%9C%E6%83%8A%E5%91%86%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [妈妈欲买海鲜囤满3米长冰柜惊呆儿子](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E6%AC%B2%E4%B9%B0%E6%B5%B7%E9%B2%9C%E5%9B%A4%E6%BB%A13%E7%B1%B3%E9%95%BF%E5%86%B0%E6%9F%9C%E6%83%8A%E5%91%86%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [7万多株紫薇树苗遭强毁？陕西通报](https://www.baidu.com/s?wd=7%E4%B8%87%E5%A4%9A%E6%A0%AA%E7%B4%AB%E8%96%87%E6%A0%91%E8%8B%97%E9%81%AD%E5%BC%BA%E6%AF%81%EF%BC%9F%E9%99%95%E8%A5%BF%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
