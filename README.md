@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 20:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 20:57:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [推动金砖合作迈上新台阶](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E8%BF%88%E4%B8%8A%E6%96%B0%E5%8F%B0%E9%98%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [中非这样回答历史之问](https://www.baidu.com/s?wd=%E4%B8%AD%E9%9D%9E%E8%BF%99%E6%A0%B7%E5%9B%9E%E7%AD%94%E5%8E%86%E5%8F%B2%E4%B9%8B%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [天后世纪同框 观众听不清歌声喊退票](https://www.baidu.com/s?wd=%E5%A4%A9%E5%90%8E%E4%B8%96%E7%BA%AA%E5%90%8C%E6%A1%86+%E8%A7%82%E4%BC%97%E5%90%AC%E4%B8%8D%E6%B8%85%E6%AD%8C%E5%A3%B0%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [台风苏拉巅峰强度或将与杜苏芮齐平](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%E5%B7%85%E5%B3%B0%E5%BC%BA%E5%BA%A6%E6%88%96%E5%B0%86%E4%B8%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E9%BD%90%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这是“万物共生”的中国答卷](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E2%80%9C%E4%B8%87%E7%89%A9%E5%85%B1%E7%94%9F%E2%80%9D%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [推动金砖合作迈上新台阶](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E8%BF%88%E4%B8%8A%E6%96%B0%E5%8F%B0%E9%98%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [中非这样回答历史之问](https://www.baidu.com/s?wd=%E4%B8%AD%E9%9D%9E%E8%BF%99%E6%A0%B7%E5%9B%9E%E7%AD%94%E5%8E%86%E5%8F%B2%E4%B9%8B%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [天后世纪同框 观众听不清歌声喊退票](https://www.baidu.com/s?wd=%E5%A4%A9%E5%90%8E%E4%B8%96%E7%BA%AA%E5%90%8C%E6%A1%86+%E8%A7%82%E4%BC%97%E5%90%AC%E4%B8%8D%E6%B8%85%E6%AD%8C%E5%A3%B0%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [台风苏拉巅峰强度或将与杜苏芮齐平](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%E5%B7%85%E5%B3%B0%E5%BC%BA%E5%BA%A6%E6%88%96%E5%B0%86%E4%B8%8E%E6%9D%9C%E8%8B%8F%E8%8A%AE%E9%BD%90%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这是“万物共生”的中国答卷](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E2%80%9C%E4%B8%87%E7%89%A9%E5%85%B1%E7%94%9F%E2%80%9D%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
