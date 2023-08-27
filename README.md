@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 21:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 21:45:01</h4></div>
 
 > 微博  
 
 1. [2游客被终生禁入成都大熊猫基地](https://s.weibo.com/weibo?q=%232%E6%B8%B8%E5%AE%A2%E8%A2%AB%E7%BB%88%E7%94%9F%E7%A6%81%E5%85%A5%E6%88%90%E9%83%BD%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=1&Refer=top)<br />
 2. [顾漫 接下来更新会更斟酌仔细](https://s.weibo.com/weibo?q=%E9%A1%BE%E6%BC%AB%20%E6%8E%A5%E4%B8%8B%E6%9D%A5%E6%9B%B4%E6%96%B0%E4%BC%9A%E6%9B%B4%E6%96%9F%E9%85%8C%E4%BB%94%E7%BB%86&t=31&band_rank=2&Refer=top)<br />
 3. [给新生的军训小贴士](https://s.weibo.com/weibo?q=%23%E7%BB%99%E6%96%B0%E7%94%9F%E7%9A%84%E5%86%9B%E8%AE%AD%E5%B0%8F%E8%B4%B4%E5%A3%AB%23&t=31&band_rank=3&Refer=top)<br />
-4. [张远 想过糊没想过这么糊](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%BF%9C%20%E6%83%B3%E8%BF%87%E7%B3%8A%E6%B2%A1%E6%83%B3%E8%BF%87%E8%BF%99%E4%B9%88%E7%B3%8A&t=31&band_rank=4&Refer=top)<br />
-5. [尼格买提报平安](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E6%8A%A5%E5%B9%B3%E5%AE%89%23&t=31&band_rank=5&Refer=top)<br />
+4. [尼格买提报平安](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E6%8A%A5%E5%B9%B3%E5%AE%89%23&t=31&band_rank=4&Refer=top)<br />
+5. [张远 想过糊没想过这么糊](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%BF%9C%20%E6%83%B3%E8%BF%87%E7%B3%8A%E6%B2%A1%E6%83%B3%E8%BF%87%E8%BF%99%E4%B9%88%E7%B3%8A&t=31&band_rank=5&Refer=top)<br />
 6. [杨宗纬 我想要听张杰](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%AE%97%E7%BA%AC%20%E6%88%91%E6%83%B3%E8%A6%81%E5%90%AC%E5%BC%A0%E6%9D%B0&t=31&band_rank=6&Refer=top)<br />
 7. [观众演唱会上听不清歌声齐喊退票](https://s.weibo.com/weibo?q=%23%E8%A7%82%E4%BC%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%90%AC%E4%B8%8D%E6%B8%85%E6%AD%8C%E5%A3%B0%E9%BD%90%E5%96%8A%E9%80%80%E7%A5%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [留学生被英国爷爷安利中国](https://s.weibo.com/weibo?q=%23%E7%95%99%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%8B%B1%E5%9B%BD%E7%88%B7%E7%88%B7%E5%AE%89%E5%88%A9%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [日本3天连发5次地震](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC3%E5%A4%A9%E8%BF%9E%E5%8F%915%E6%AC%A1%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [DRG被零封](https://s.weibo.com/weibo?q=DRG%E8%A2%AB%E9%9B%B6%E5%B0%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
