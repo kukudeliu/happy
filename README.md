@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 17:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 17:09:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [女子刷视频手机突然说话自称未来人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%B7%E8%A7%86%E9%A2%91%E6%89%8B%E6%9C%BA%E7%AA%81%E7%84%B6%E8%AF%B4%E8%AF%9D%E8%87%AA%E7%A7%B0%E6%9C%AA%E6%9D%A5%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中学一女生宿舍住116人？当地回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E4%B8%80%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E4%BD%8F116%E4%BA%BA%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [好声音或赔付7家广告商超5亿](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%88%96%E8%B5%94%E4%BB%987%E5%AE%B6%E5%B9%BF%E5%91%8A%E5%95%86%E8%B6%855%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [福岛记者称会坚持要求撤销排海](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B2%9B%E8%AE%B0%E8%80%85%E7%A7%B0%E4%BC%9A%E5%9D%9A%E6%8C%81%E8%A6%81%E6%B1%82%E6%92%A4%E9%94%80%E6%8E%92%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [被美军炸了67次又遇上日本核污水](https://www.baidu.com/s?wd=%E8%A2%AB%E7%BE%8E%E5%86%9B%E7%82%B8%E4%BA%8667%E6%AC%A1%E5%8F%88%E9%81%87%E4%B8%8A%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女子刷视频手机突然说话自称未来人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%B7%E8%A7%86%E9%A2%91%E6%89%8B%E6%9C%BA%E7%AA%81%E7%84%B6%E8%AF%B4%E8%AF%9D%E8%87%AA%E7%A7%B0%E6%9C%AA%E6%9D%A5%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中学一女生宿舍住116人？当地回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E4%B8%80%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E4%BD%8F116%E4%BA%BA%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [好声音或赔付7家广告商超5亿](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%88%96%E8%B5%94%E4%BB%987%E5%AE%B6%E5%B9%BF%E5%91%8A%E5%95%86%E8%B6%855%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [福岛记者称会坚持要求撤销排海](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B2%9B%E8%AE%B0%E8%80%85%E7%A7%B0%E4%BC%9A%E5%9D%9A%E6%8C%81%E8%A6%81%E6%B1%82%E6%92%A4%E9%94%80%E6%8E%92%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [被美军炸了67次又遇上日本核污水](https://www.baidu.com/s?wd=%E8%A2%AB%E7%BE%8E%E5%86%9B%E7%82%B8%E4%BA%8667%E6%AC%A1%E5%8F%88%E9%81%87%E4%B8%8A%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
