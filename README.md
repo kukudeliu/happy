@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 15:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 15:16:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [给新生的军训小贴士](https://s.weibo.com/weibo?q=%23%E7%BB%99%E6%96%B0%E7%94%9F%E7%9A%84%E5%86%9B%E8%AE%AD%E5%B0%8F%E8%B4%B4%E5%A3%AB%23&t=31&band_rank=3&Refer=top)<br />
 4. [福岛真相](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B2%9B%E7%9C%9F%E7%9B%B8%23&t=31&band_rank=4&Refer=top)<br />
 5. [其实穷人的孩子更晚熟](https://s.weibo.com/weibo?q=%23%E5%85%B6%E5%AE%9E%E7%A9%B7%E4%BA%BA%E7%9A%84%E5%AD%A9%E5%AD%90%E6%9B%B4%E6%99%9A%E7%86%9F%23&t=31&band_rank=5&Refer=top)<br />
-6. [男子穿日本投降T恤买日系车遭无视](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A9%BF%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8DT%E6%81%A4%E4%B9%B0%E6%97%A5%E7%B3%BB%E8%BD%A6%E9%81%AD%E6%97%A0%E8%A7%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [马丽 不幸的童年需要用一生去治愈](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%20%E4%B8%8D%E5%B9%B8%E7%9A%84%E7%AB%A5%E5%B9%B4%E9%9C%80%E8%A6%81%E7%94%A8%E4%B8%80%E7%94%9F%E5%8E%BB%E6%B2%BB%E6%84%88&t=31&band_rank=7&Refer=top)<br />
+6. [马丽 不幸的童年需要用一生去治愈](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%20%E4%B8%8D%E5%B9%B8%E7%9A%84%E7%AB%A5%E5%B9%B4%E9%9C%80%E8%A6%81%E7%94%A8%E4%B8%80%E7%94%9F%E5%8E%BB%E6%B2%BB%E6%84%88&t=31&band_rank=6&Refer=top)<br />
+7. [男子穿日本投降T恤买日系车遭无视](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A9%BF%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8DT%E6%81%A4%E4%B9%B0%E6%97%A5%E7%B3%BB%E8%BD%A6%E9%81%AD%E6%97%A0%E8%A7%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘惜君好辣](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%83%9C%E5%90%9B%E5%A5%BD%E8%BE%A3%23&t=31&band_rank=8&Refer=top)<br />
 9. [中国网友把时代广场大屏占领了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%8A%8A%E6%97%B6%E4%BB%A3%E5%B9%BF%E5%9C%BA%E5%A4%A7%E5%B1%8F%E5%8D%A0%E9%A2%86%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
