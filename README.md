@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 05:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 05:09:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [胡歌回应未来五年不拍戏](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%9B%9E%E5%BA%94%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E4%B8%8D%E6%8B%8D%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这是“万物共生”的中国答卷](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E2%80%9C%E4%B8%87%E7%89%A9%E5%85%B1%E7%94%9F%E2%80%9D%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [庄子璇获2023香港小姐冠军](https://www.baidu.com/s?wd=%E5%BA%84%E5%AD%90%E7%92%87%E8%8E%B72023%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%90%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子刷视频手机突然说话自称未来人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%B7%E8%A7%86%E9%A2%91%E6%89%8B%E6%9C%BA%E7%AA%81%E7%84%B6%E8%AF%B4%E8%AF%9D%E8%87%AA%E7%A7%B0%E6%9C%AA%E6%9D%A5%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子发现网红探访的凶宅是自己家](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E7%BD%91%E7%BA%A2%E6%8E%A2%E8%AE%BF%E7%9A%84%E5%87%B6%E5%AE%85%E6%98%AF%E8%87%AA%E5%B7%B1%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中学小卖部5年租金超900万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%B0%8F%E5%8D%96%E9%83%A85%E5%B9%B4%E7%A7%9F%E9%87%91%E8%B6%85900%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美贸易代表：中国在稀土领域占主导](https://www.baidu.com/s?wd=%E7%BE%8E%E8%B4%B8%E6%98%93%E4%BB%A3%E8%A1%A8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%9C%A8%E7%A8%80%E5%9C%9F%E9%A2%86%E5%9F%9F%E5%8D%A0%E4%B8%BB%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美国商务部部长雷蒙多抵达北京](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E9%83%A8%E9%95%BF%E9%9B%B7%E8%92%99%E5%A4%9A%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子回应卧票看杨千嬅演唱会](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E5%8D%A7%E7%A5%A8%E7%9C%8B%E6%9D%A8%E5%8D%83%E5%AC%85%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子刷视频手机突然说话自称未来人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%B7%E8%A7%86%E9%A2%91%E6%89%8B%E6%9C%BA%E7%AA%81%E7%84%B6%E8%AF%B4%E8%AF%9D%E8%87%AA%E7%A7%B0%E6%9C%AA%E6%9D%A5%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大盘单日票房已连续68天破亿](https://www.baidu.com/s?wd=%E5%A4%A7%E7%9B%98%E5%8D%95%E6%97%A5%E7%A5%A8%E6%88%BF%E5%B7%B2%E8%BF%9E%E7%BB%AD68%E5%A4%A9%E7%A0%B4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [胡歌回应未来五年不拍戏](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%9B%9E%E5%BA%94%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E4%B8%8D%E6%8B%8D%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这是“万物共生”的中国答卷](https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E2%80%9C%E4%B8%87%E7%89%A9%E5%85%B1%E7%94%9F%E2%80%9D%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%AD%94%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [庄子璇获2023香港小姐冠军](https://www.baidu.com/s?wd=%E5%BA%84%E5%AD%90%E7%92%87%E8%8E%B72023%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%90%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子刷视频手机突然说话自称未来人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%B7%E8%A7%86%E9%A2%91%E6%89%8B%E6%9C%BA%E7%AA%81%E7%84%B6%E8%AF%B4%E8%AF%9D%E8%87%AA%E7%A7%B0%E6%9C%AA%E6%9D%A5%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子发现网红探访的凶宅是自己家](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E7%BD%91%E7%BA%A2%E6%8E%A2%E8%AE%BF%E7%9A%84%E5%87%B6%E5%AE%85%E6%98%AF%E8%87%AA%E5%B7%B1%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中学小卖部5年租金超900万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%B0%8F%E5%8D%96%E9%83%A85%E5%B9%B4%E7%A7%9F%E9%87%91%E8%B6%85900%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美贸易代表：中国在稀土领域占主导](https://www.baidu.com/s?wd=%E7%BE%8E%E8%B4%B8%E6%98%93%E4%BB%A3%E8%A1%A8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%9C%A8%E7%A8%80%E5%9C%9F%E9%A2%86%E5%9F%9F%E5%8D%A0%E4%B8%BB%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美国商务部部长雷蒙多抵达北京](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E9%83%A8%E9%95%BF%E9%9B%B7%E8%92%99%E5%A4%9A%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子回应卧票看杨千嬅演唱会](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E5%8D%A7%E7%A5%A8%E7%9C%8B%E6%9D%A8%E5%8D%83%E5%AC%85%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子刷视频手机突然说话自称未来人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%B7%E8%A7%86%E9%A2%91%E6%89%8B%E6%9C%BA%E7%AA%81%E7%84%B6%E8%AF%B4%E8%AF%9D%E8%87%AA%E7%A7%B0%E6%9C%AA%E6%9D%A5%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大盘单日票房已连续68天破亿](https://www.baidu.com/s?wd=%E5%A4%A7%E7%9B%98%E5%8D%95%E6%97%A5%E7%A5%A8%E6%88%BF%E5%B7%B2%E8%BF%9E%E7%BB%AD68%E5%A4%A9%E7%A0%B4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
