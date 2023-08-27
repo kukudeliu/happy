@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 15:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 15:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [其实穷人的孩子更晚熟](https://s.weibo.com/weibo?q=%23%E5%85%B6%E5%AE%9E%E7%A9%B7%E4%BA%BA%E7%9A%84%E5%AD%A9%E5%AD%90%E6%9B%B4%E6%99%9A%E7%86%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [马丽 不幸的童年需要用一生去治愈](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%20%E4%B8%8D%E5%B9%B8%E7%9A%84%E7%AB%A5%E5%B9%B4%E9%9C%80%E8%A6%81%E7%94%A8%E4%B8%80%E7%94%9F%E5%8E%BB%E6%B2%BB%E6%84%88&t=31&band_rank=6&Refer=top)<br />
 7. [当地教育局回应一中学女生宿舍住116人](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E4%BD%8F116%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [Jennie粉色芭比造型](https://s.weibo.com/weibo?q=%23Jennie%E7%B2%89%E8%89%B2%E8%8A%AD%E6%AF%94%E9%80%A0%E5%9E%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [CPA税法](https://s.weibo.com/weibo?q=CPA%E7%A8%8E%E6%B3%95&t=31&band_rank=9&Refer=top)<br />
+8. [CPA税法](https://s.weibo.com/weibo?q=CPA%E7%A8%8E%E6%B3%95&t=31&band_rank=8&Refer=top)<br />
+9. [Jennie粉色芭比造型](https://s.weibo.com/weibo?q=%23Jennie%E7%B2%89%E8%89%B2%E8%8A%AD%E6%AF%94%E9%80%A0%E5%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
