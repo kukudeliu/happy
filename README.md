@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 17:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-27 17:28:01</h4></div>
 
 > 微博  
 
 1. [女子长期侧躺玩手机致右眼短暂失明](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%95%BF%E6%9C%9F%E4%BE%A7%E8%BA%BA%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%87%B4%E5%8F%B3%E7%9C%BC%E7%9F%AD%E6%9A%82%E5%A4%B1%E6%98%8E%23&t=31&band_rank=1&Refer=top)<br />
-2. [证券交易印花税实施减半征收](https://s.weibo.com/weibo?q=%E8%AF%81%E5%88%B8%E4%BA%A4%E6%98%93%E5%8D%B0%E8%8A%B1%E7%A8%8E%E5%AE%9E%E6%96%BD%E5%87%8F%E5%8D%8A%E5%BE%81%E6%94%B6&t=31&band_rank=2&Refer=top)<br />
+2. [证券交易印花税实施减半征收](https://s.weibo.com/weibo?q=%23%E8%AF%81%E5%88%B8%E4%BA%A4%E6%98%93%E5%8D%B0%E8%8A%B1%E7%A8%8E%E5%AE%9E%E6%96%BD%E5%87%8F%E5%8D%8A%E5%BE%81%E6%94%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [新疆面临新机遇要有新作为](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E9%9D%A2%E4%B8%B4%E6%96%B0%E6%9C%BA%E9%81%87%E8%A6%81%E6%9C%89%E6%96%B0%E4%BD%9C%E4%B8%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [披荆斩棘给林志颖安排了单人间](https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%BB%99%E6%9E%97%E5%BF%97%E9%A2%96%E5%AE%89%E6%8E%92%E4%BA%86%E5%8D%95%E4%BA%BA%E9%97%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [把骨相美发挥到了极致](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E9%AA%A8%E7%9B%B8%E7%BE%8E%E5%8F%91%E6%8C%A5%E5%88%B0%E4%BA%86%E6%9E%81%E8%87%B4%23&t=31&band_rank=5&Refer=top)<br />
