@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 16:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 16:08:01</h4></div>
 
 > 微博  
 
 1. [董明珠怒斥员工吃着碗里看着锅里](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E6%80%92%E6%96%A5%E5%91%98%E5%B7%A5%E5%90%83%E7%9D%80%E7%A2%97%E9%87%8C%E7%9C%8B%E7%9D%80%E9%94%85%E9%87%8C%23&t=31&band_rank=1&Refer=top)<br />
 2. [男子大三挂科退学10年后再次考上大学](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%A7%E4%B8%89%E6%8C%82%E7%A7%91%E9%80%80%E5%AD%A610%E5%B9%B4%E5%90%8E%E5%86%8D%E6%AC%A1%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [多姿多彩多元多样是世界应有的样子](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%A7%BF%E5%A4%9A%E5%BD%A9%E5%A4%9A%E5%85%83%E5%A4%9A%E6%A0%B7%E6%98%AF%E4%B8%96%E7%95%8C%E5%BA%94%E6%9C%89%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=3&Refer=top)<br />
-4. [燃冬导演说自己受到的打击很大](https://s.weibo.com/weibo?q=%23%E7%87%83%E5%86%AC%E5%AF%BC%E6%BC%94%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%8F%97%E5%88%B0%E7%9A%84%E6%89%93%E5%87%BB%E5%BE%88%E5%A4%A7%23&t=31&band_rank=4&Refer=top)<br />
-5. [30日起来华人员无需核酸或抗原检测](https://s.weibo.com/weibo?q=%2330%E6%97%A5%E8%B5%B7%E6%9D%A5%E5%8D%8E%E4%BA%BA%E5%91%98%E6%97%A0%E9%9C%80%E6%A0%B8%E9%85%B8%E6%88%96%E6%8A%97%E5%8E%9F%E6%A3%80%E6%B5%8B%23&t=31&band_rank=5&Refer=top)<br />
+4. [30日起来华人员无需核酸或抗原检测](https://s.weibo.com/weibo?q=%2330%E6%97%A5%E8%B5%B7%E6%9D%A5%E5%8D%8E%E4%BA%BA%E5%91%98%E6%97%A0%E9%9C%80%E6%A0%B8%E9%85%B8%E6%88%96%E6%8A%97%E5%8E%9F%E6%A3%80%E6%B5%8B%23&t=31&band_rank=4&Refer=top)<br />
+5. [燃冬导演说自己受到的打击很大](https://s.weibo.com/weibo?q=%23%E7%87%83%E5%86%AC%E5%AF%BC%E6%BC%94%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%8F%97%E5%88%B0%E7%9A%84%E6%89%93%E5%87%BB%E5%BE%88%E5%A4%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [李佳琦与母亲接连成立新公司](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E4%B8%8E%E6%AF%8D%E4%BA%B2%E6%8E%A5%E8%BF%9E%E6%88%90%E7%AB%8B%E6%96%B0%E5%85%AC%E5%8F%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [虹猫 一位大侠最极致的爱](https://s.weibo.com/weibo?q=%E8%99%B9%E7%8C%AB%20%E4%B8%80%E4%BD%8D%E5%A4%A7%E4%BE%A0%E6%9C%80%E6%9E%81%E8%87%B4%E7%9A%84%E7%88%B1&t=31&band_rank=7&Refer=top)<br />
 8. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=8&Refer=top)<br />
