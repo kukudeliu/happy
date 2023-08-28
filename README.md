@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 16:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 16:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [虹猫 一位大侠最极致的爱](https://s.weibo.com/weibo?q=%E8%99%B9%E7%8C%AB%20%E4%B8%80%E4%BD%8D%E5%A4%A7%E4%BE%A0%E6%9C%80%E6%9E%81%E8%87%B4%E7%9A%84%E7%88%B1&t=31&band_rank=6&Refer=top)<br />
 7. [李佳琦与母亲接连成立新公司](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E4%B8%8E%E6%AF%8D%E4%BA%B2%E6%8E%A5%E8%BF%9E%E6%88%90%E7%AB%8B%E6%96%B0%E5%85%AC%E5%8F%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [万和 孙颖莎](https://s.weibo.com/weibo?q=%E4%B8%87%E5%92%8C%20%E5%AD%99%E9%A2%96%E8%8E%8E&t=31&band_rank=8&Refer=top)<br />
-9. [中国男篮vs南苏丹男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E5%8D%97%E8%8B%8F%E4%B8%B9%E7%94%B7%E7%AF%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [在境外做电诈的人真的都是被骗过去的吗](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%A2%83%E5%A4%96%E5%81%9A%E7%94%B5%E8%AF%88%E7%9A%84%E4%BA%BA%E7%9C%9F%E7%9A%84%E9%83%BD%E6%98%AF%E8%A2%AB%E9%AA%97%E8%BF%87%E5%8E%BB%E7%9A%84%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
