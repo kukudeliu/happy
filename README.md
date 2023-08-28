@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 00:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 00:50:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [奏响金砖声音](https://www.baidu.com/s?wd=%E5%A5%8F%E5%93%8D%E9%87%91%E7%A0%96%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [留学女儿要300万美元买房妈妈报警](https://www.baidu.com/s?wd=%E7%95%99%E5%AD%A6%E5%A5%B3%E5%84%BF%E8%A6%81300%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E6%88%BF%E5%A6%88%E5%A6%88%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国民众给日本打骚扰电话?中方回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%BC%97%E7%BB%99%E6%97%A5%E6%9C%AC%E6%89%93%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D%3F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [我国拟立学位法](https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E5%AD%A6%E4%BD%8D%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子洗小龙虾被刺伤 3天后离世](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B4%97%E5%B0%8F%E9%BE%99%E8%99%BE%E8%A2%AB%E5%88%BA%E4%BC%A4+3%E5%A4%A9%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子洗小龙虾被刺伤 3天后离世](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B4%97%E5%B0%8F%E9%BE%99%E8%99%BE%E8%A2%AB%E5%88%BA%E4%BC%A4+3%E5%A4%A9%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [39元烧烤外卖有9.5元包装费](https://www.baidu.com/s?wd=39%E5%85%83%E7%83%A7%E7%83%A4%E5%A4%96%E5%8D%96%E6%9C%899.5%E5%85%83%E5%8C%85%E8%A3%85%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [周深红毯上修伞](https://www.baidu.com/s?wd=%E5%91%A8%E6%B7%B1%E7%BA%A2%E6%AF%AF%E4%B8%8A%E4%BF%AE%E4%BC%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [奏响金砖声音](https://www.baidu.com/s?wd=%E5%A5%8F%E5%93%8D%E9%87%91%E7%A0%96%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [留学女儿要300万美元买房妈妈报警](https://www.baidu.com/s?wd=%E7%95%99%E5%AD%A6%E5%A5%B3%E5%84%BF%E8%A6%81300%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E6%88%BF%E5%A6%88%E5%A6%88%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国民众给日本打骚扰电话?中方回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%BC%97%E7%BB%99%E6%97%A5%E6%9C%AC%E6%89%93%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D%3F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [我国拟立学位法](https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E5%AD%A6%E4%BD%8D%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子洗小龙虾被刺伤 3天后离世](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B4%97%E5%B0%8F%E9%BE%99%E8%99%BE%E8%A2%AB%E5%88%BA%E4%BC%A4+3%E5%A4%A9%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子洗小龙虾被刺伤 3天后离世](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B4%97%E5%B0%8F%E9%BE%99%E8%99%BE%E8%A2%AB%E5%88%BA%E4%BC%A4+3%E5%A4%A9%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [39元烧烤外卖有9.5元包装费](https://www.baidu.com/s?wd=39%E5%85%83%E7%83%A7%E7%83%A4%E5%A4%96%E5%8D%96%E6%9C%899.5%E5%85%83%E5%8C%85%E8%A3%85%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [周深红毯上修伞](https://www.baidu.com/s?wd=%E5%91%A8%E6%B7%B1%E7%BA%A2%E6%AF%AF%E4%B8%8A%E4%BF%AE%E4%BC%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
