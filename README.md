@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 22:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 23:00:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [谁家女主第一集失业又失恋](https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E5%A5%B3%E4%B8%BB%E7%AC%AC%E4%B8%80%E9%9B%86%E5%A4%B1%E4%B8%9A%E5%8F%88%E5%A4%B1%E6%81%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [刘亦菲 高定](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E9%AB%98%E5%AE%9A&t=31&band_rank=5&Refer=top)<br />
 6. [浙江12岁女孩确诊甲状腺癌](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F12%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%23&t=31&band_rank=6&Refer=top)<br />
-7. [花轿喜事男主](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%BD%BF%E5%96%9C%E4%BA%8B%E7%94%B7%E4%B8%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [贵州省委原书记孙志刚被查](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E5%AD%99%E5%BF%97%E5%88%9A%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国在南极意外发现海上粮仓](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%9E%81%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E6%B5%B7%E4%B8%8A%E7%B2%AE%E4%BB%93%23&t=31&band_rank=9&Refer=top)<br />
+7. [贵州省委原书记孙志刚被查](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E5%AD%99%E5%BF%97%E5%88%9A%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=7&Refer=top)<br />
+8. [中国在南极意外发现海上粮仓](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%9E%81%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E6%B5%B7%E4%B8%8A%E7%B2%AE%E4%BB%93%23&t=31&band_rank=8&Refer=top)<br />
+9. [花轿喜事男主](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%BD%BF%E5%96%9C%E4%BA%8B%E7%94%B7%E4%B8%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
