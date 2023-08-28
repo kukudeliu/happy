@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 17:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 17:14:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [多姿多彩多元多样是世界应有的样子](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%A7%BF%E5%A4%9A%E5%BD%A9%E5%A4%9A%E5%85%83%E5%A4%9A%E6%A0%B7%E6%98%AF%E4%B8%96%E7%95%8C%E5%BA%94%E6%9C%89%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=3&Refer=top)<br />
 4. [八九月份想辞职的情绪很严重](https://s.weibo.com/weibo?q=%E5%85%AB%E4%B9%9D%E6%9C%88%E4%BB%BD%E6%83%B3%E8%BE%9E%E8%81%8C%E7%9A%84%E6%83%85%E7%BB%AA%E5%BE%88%E4%B8%A5%E9%87%8D&t=31&band_rank=4&Refer=top)<br />
 5. [日本核污染水排海最新情况](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5%23&t=31&band_rank=5&Refer=top)<br />
-6. [燃冬导演说自己受到的打击很大](https://s.weibo.com/weibo?q=%23%E7%87%83%E5%86%AC%E5%AF%BC%E6%BC%94%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%8F%97%E5%88%B0%E7%9A%84%E6%89%93%E5%87%BB%E5%BE%88%E5%A4%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [男子在缅逃跑身后步枪扫射](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E7%BC%85%E9%80%83%E8%B7%91%E8%BA%AB%E5%90%8E%E6%AD%A5%E6%9E%AA%E6%89%AB%E5%B0%84%23&t=31&band_rank=7&Refer=top)<br />
-8. [张杰 我要唱得再久一点](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%20%E6%88%91%E8%A6%81%E5%94%B1%E5%BE%97%E5%86%8D%E4%B9%85%E4%B8%80%E7%82%B9&t=31&band_rank=8&Refer=top)<br />
-9. [日本已排放超1000吨核污染水](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B7%B2%E6%8E%92%E6%94%BE%E8%B6%851000%E5%90%A8%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
+6. [男子在缅逃跑身后步枪扫射](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E7%BC%85%E9%80%83%E8%B7%91%E8%BA%AB%E5%90%8E%E6%AD%A5%E6%9E%AA%E6%89%AB%E5%B0%84%23&t=31&band_rank=6&Refer=top)<br />
+7. [日本已排放超1000吨核污染水](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B7%B2%E6%8E%92%E6%94%BE%E8%B6%851000%E5%90%A8%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [燃冬导演说自己受到的打击很大](https://s.weibo.com/weibo?q=%23%E7%87%83%E5%86%AC%E5%AF%BC%E6%BC%94%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%8F%97%E5%88%B0%E7%9A%84%E6%89%93%E5%87%BB%E5%BE%88%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
+9. [张杰 我要唱得再久一点](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%20%E6%88%91%E8%A6%81%E5%94%B1%E5%BE%97%E5%86%8D%E4%B9%85%E4%B8%80%E7%82%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
