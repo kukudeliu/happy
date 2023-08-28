@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 07:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 07:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵本山的新剧很讽刺](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E7%9A%84%E6%96%B0%E5%89%A7%E5%BE%88%E8%AE%BD%E5%88%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [夭玹 改写结局](https://s.weibo.com/weibo?q=%E5%A4%AD%E7%8E%B9%20%E6%94%B9%E5%86%99%E7%BB%93%E5%B1%80&t=31&band_rank=7&Refer=top)<br />
 8. [大量日本骚扰电话打进我驻日使领馆](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%87%8F%E6%97%A5%E6%9C%AC%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D%E6%89%93%E8%BF%9B%E6%88%91%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A2%86%E9%A6%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [浙江12岁女孩确诊甲状腺癌](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F12%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [董宇辉说不要沉沦在逆境中](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%E8%AF%B4%E4%B8%8D%E8%A6%81%E6%B2%89%E6%B2%A6%E5%9C%A8%E9%80%86%E5%A2%83%E4%B8%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
