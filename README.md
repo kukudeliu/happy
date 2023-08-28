@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 21:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 21:43:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [吴磊被骑友大哥要微信](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E8%A2%AB%E9%AA%91%E5%8F%8B%E5%A4%A7%E5%93%A5%E8%A6%81%E5%BE%AE%E4%BF%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [刘亦菲 高定](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E9%AB%98%E5%AE%9A&t=31&band_rank=6&Refer=top)<br />
 7. [冯小刚夸虞书欣台词特别好](https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%B0%8F%E5%88%9A%E5%A4%B8%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%B0%E8%AF%8D%E7%89%B9%E5%88%AB%E5%A5%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [房东的猫把云烟穿身上了](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E7%9A%84%E7%8C%AB%E6%8A%8A%E4%BA%91%E7%83%9F%E7%A9%BF%E8%BA%AB%E4%B8%8A%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [4万学费宿舍到处是垃圾没法住](https://s.weibo.com/weibo?q=%234%E4%B8%87%E5%AD%A6%E8%B4%B9%E5%AE%BF%E8%88%8D%E5%88%B0%E5%A4%84%E6%98%AF%E5%9E%83%E5%9C%BE%E6%B2%A1%E6%B3%95%E4%BD%8F%23&t=31&band_rank=9&Refer=top)<br />
+8. [4万学费宿舍到处是垃圾没法住](https://s.weibo.com/weibo?q=%234%E4%B8%87%E5%AD%A6%E8%B4%B9%E5%AE%BF%E8%88%8D%E5%88%B0%E5%A4%84%E6%98%AF%E5%9E%83%E5%9C%BE%E6%B2%A1%E6%B3%95%E4%BD%8F%23&t=31&band_rank=8&Refer=top)<br />
+9. [浙江12岁女孩确诊甲状腺癌](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F12%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
