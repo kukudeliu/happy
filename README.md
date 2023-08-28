@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 13:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 13:34:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [美军医被曝至少性侵23人](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%8C%BB%E8%A2%AB%E6%9B%9D%E8%87%B3%E5%B0%91%E6%80%A7%E4%BE%B523%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东电承认超6成储存核污水放射物超标](https://www.baidu.com/s?wd=%E4%B8%9C%E7%94%B5%E6%89%BF%E8%AE%A4%E8%B6%856%E6%88%90%E5%82%A8%E5%AD%98%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%94%BE%E5%B0%84%E7%89%A9%E8%B6%85%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [邯郸一地河面现大量死鱼](https://www.baidu.com/s?wd=%E9%82%AF%E9%83%B8%E4%B8%80%E5%9C%B0%E6%B2%B3%E9%9D%A2%E7%8E%B0%E5%A4%A7%E9%87%8F%E6%AD%BB%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生考上浙大爸爸扛行李直奔6楼](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83%E4%B8%8A%E6%B5%99%E5%A4%A7%E7%88%B8%E7%88%B8%E6%89%9B%E8%A1%8C%E6%9D%8E%E7%9B%B4%E5%A5%946%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [实探碧桂园危机中的买房人](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8E%A2%E7%A2%A7%E6%A1%82%E5%9B%AD%E5%8D%B1%E6%9C%BA%E4%B8%AD%E7%9A%84%E4%B9%B0%E6%88%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [美军医被曝至少性侵23人](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%8C%BB%E8%A2%AB%E6%9B%9D%E8%87%B3%E5%B0%91%E6%80%A7%E4%BE%B523%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东电承认超6成储存核污水放射物超标](https://www.baidu.com/s?wd=%E4%B8%9C%E7%94%B5%E6%89%BF%E8%AE%A4%E8%B6%856%E6%88%90%E5%82%A8%E5%AD%98%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%94%BE%E5%B0%84%E7%89%A9%E8%B6%85%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [邯郸一地河面现大量死鱼](https://www.baidu.com/s?wd=%E9%82%AF%E9%83%B8%E4%B8%80%E5%9C%B0%E6%B2%B3%E9%9D%A2%E7%8E%B0%E5%A4%A7%E9%87%8F%E6%AD%BB%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男生考上浙大爸爸扛行李直奔6楼](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83%E4%B8%8A%E6%B5%99%E5%A4%A7%E7%88%B8%E7%88%B8%E6%89%9B%E8%A1%8C%E6%9D%8E%E7%9B%B4%E5%A5%946%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [实探碧桂园危机中的买房人](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8E%A2%E7%A2%A7%E6%A1%82%E5%9B%AD%E5%8D%B1%E6%9C%BA%E4%B8%AD%E7%9A%84%E4%B9%B0%E6%88%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
