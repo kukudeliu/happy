@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 14:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 14:05:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [虹猫 一位大侠最极致的爱](https://s.weibo.com/weibo?q=%E8%99%B9%E7%8C%AB%20%E4%B8%80%E4%BD%8D%E5%A4%A7%E4%BE%A0%E6%9C%80%E6%9E%81%E8%87%B4%E7%9A%84%E7%88%B1&t=31&band_rank=5&Refer=top)<br />
 6. [林志颖推荐林俊杰来下一季披哥](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E6%8E%A8%E8%8D%90%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%9D%A5%E4%B8%8B%E4%B8%80%E5%AD%A3%E6%8A%AB%E5%93%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [大英博物馆馆长辞职](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E9%A6%86%E9%95%BF%E8%BE%9E%E8%81%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=8&Refer=top)<br />
-9. [燃冬导演说自己受到的打击很大](https://s.weibo.com/weibo?q=%23%E7%87%83%E5%86%AC%E5%AF%BC%E6%BC%94%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%8F%97%E5%88%B0%E7%9A%84%E6%89%93%E5%87%BB%E5%BE%88%E5%A4%A7%23&t=31&band_rank=9&Refer=top)<br />
+8. [燃冬导演说自己受到的打击很大](https://s.weibo.com/weibo?q=%23%E7%87%83%E5%86%AC%E5%AF%BC%E6%BC%94%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%8F%97%E5%88%B0%E7%9A%84%E6%89%93%E5%87%BB%E5%BE%88%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
+9. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
