@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 12:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 12:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [林志颖推荐林俊杰来下一季披哥](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E6%8E%A8%E8%8D%90%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%9D%A5%E4%B8%8B%E4%B8%80%E5%AD%A3%E6%8A%AB%E5%93%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=7&Refer=top)<br />
 8. [产妇羊水栓塞输血超6万毫升被救](https://s.weibo.com/weibo?q=%23%E4%BA%A7%E5%A6%87%E7%BE%8A%E6%B0%B4%E6%A0%93%E5%A1%9E%E8%BE%93%E8%A1%80%E8%B6%856%E4%B8%87%E6%AF%AB%E5%8D%87%E8%A2%AB%E6%95%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈奕迅澳门演唱会抢票](https://s.weibo.com/weibo?q=%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8&t=31&band_rank=9&Refer=top)<br />
+9. [沈月给不快乐的朋友们的一封信](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E7%BB%99%E4%B8%8D%E5%BF%AB%E4%B9%90%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
