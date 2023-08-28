@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 23:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 23:22:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [浙江12岁女孩确诊甲状腺癌](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F12%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国在南极意外发现海上粮仓](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%9E%81%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E6%B5%B7%E4%B8%8A%E7%B2%AE%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [律师解读辽宁一地没收冥纸冥币](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E8%BE%BD%E5%AE%81%E4%B8%80%E5%9C%B0%E6%B2%A1%E6%94%B6%E5%86%A5%E7%BA%B8%E5%86%A5%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子半月被缅北男友骗光850万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8D%8A%E6%9C%88%E8%A2%AB%E7%BC%85%E5%8C%97%E7%94%B7%E5%8F%8B%E9%AA%97%E5%85%89850%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [马斯克直播自动驾驶去扎克伯格家](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9B%B4%E6%92%AD%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%8E%BB%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [浙江12岁女孩确诊甲状腺癌](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F12%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国在南极意外发现海上粮仓](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%9E%81%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E6%B5%B7%E4%B8%8A%E7%B2%AE%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [律师解读辽宁一地没收冥纸冥币](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E8%BE%BD%E5%AE%81%E4%B8%80%E5%9C%B0%E6%B2%A1%E6%94%B6%E5%86%A5%E7%BA%B8%E5%86%A5%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子半月被缅北男友骗光850万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8D%8A%E6%9C%88%E8%A2%AB%E7%BC%85%E5%8C%97%E7%94%B7%E5%8F%8B%E9%AA%97%E5%85%89850%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [马斯克直播自动驾驶去扎克伯格家](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9B%B4%E6%92%AD%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%8E%BB%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
