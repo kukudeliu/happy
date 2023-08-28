@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 17:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 17:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [日本核污染水排海最新情况](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子在缅逃跑身后步枪扫射](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E7%BC%85%E9%80%83%E8%B7%91%E8%BA%AB%E5%90%8E%E6%AD%A5%E6%9E%AA%E6%89%AB%E5%B0%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [燃冬导演说自己受到的打击很大](https://s.weibo.com/weibo?q=%23%E7%87%83%E5%86%AC%E5%AF%BC%E6%BC%94%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%8F%97%E5%88%B0%E7%9A%84%E6%89%93%E5%87%BB%E5%BE%88%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [张杰 我要唱得再久一点](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%20%E6%88%91%E8%A6%81%E5%94%B1%E5%BE%97%E5%86%8D%E4%B9%85%E4%B8%80%E7%82%B9&t=31&band_rank=9&Refer=top)<br />
+9. [周琦罚球三不沾](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%90%A6%E7%BD%9A%E7%90%83%E4%B8%89%E4%B8%8D%E6%B2%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
