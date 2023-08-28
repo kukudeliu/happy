@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 20:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 20:49:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [中学小卖部5年租金943万 官方说明](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%B0%8F%E5%8D%96%E9%83%A85%E5%B9%B4%E7%A7%9F%E9%87%91943%E4%B8%87+%E5%AE%98%E6%96%B9%E8%AF%B4%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [留学女儿要300万美元买房妈妈报警](https://www.baidu.com/s?wd=%E7%95%99%E5%AD%A6%E5%A5%B3%E5%84%BF%E8%A6%81300%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E6%88%BF%E5%A6%88%E5%A6%88%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广东16岁学生失联20多天疑被困缅甸](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C16%E5%B2%81%E5%AD%A6%E7%94%9F%E5%A4%B1%E8%81%9420%E5%A4%9A%E5%A4%A9%E7%96%91%E8%A2%AB%E5%9B%B0%E7%BC%85%E7%94%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王莉已任茅台集团总经理](https://www.baidu.com/s?wd=%E7%8E%8B%E8%8E%89%E5%B7%B2%E4%BB%BB%E8%8C%85%E5%8F%B0%E9%9B%86%E5%9B%A2%E6%80%BB%E7%BB%8F%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [律师解读辽宁一地没收冥纸冥币](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E8%BE%BD%E5%AE%81%E4%B8%80%E5%9C%B0%E6%B2%A1%E6%94%B6%E5%86%A5%E7%BA%B8%E5%86%A5%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [川投集团确认纪委副书记杨超自杀](https://www.baidu.com/s?wd=%E5%B7%9D%E6%8A%95%E9%9B%86%E5%9B%A2%E7%A1%AE%E8%AE%A4%E7%BA%AA%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E6%9D%A8%E8%B6%85%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [中学小卖部5年租金943万 官方说明](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%B0%8F%E5%8D%96%E9%83%A85%E5%B9%B4%E7%A7%9F%E9%87%91943%E4%B8%87+%E5%AE%98%E6%96%B9%E8%AF%B4%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [留学女儿要300万美元买房妈妈报警](https://www.baidu.com/s?wd=%E7%95%99%E5%AD%A6%E5%A5%B3%E5%84%BF%E8%A6%81300%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E6%88%BF%E5%A6%88%E5%A6%88%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广东16岁学生失联20多天疑被困缅甸](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C16%E5%B2%81%E5%AD%A6%E7%94%9F%E5%A4%B1%E8%81%9420%E5%A4%9A%E5%A4%A9%E7%96%91%E8%A2%AB%E5%9B%B0%E7%BC%85%E7%94%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王莉已任茅台集团总经理](https://www.baidu.com/s?wd=%E7%8E%8B%E8%8E%89%E5%B7%B2%E4%BB%BB%E8%8C%85%E5%8F%B0%E9%9B%86%E5%9B%A2%E6%80%BB%E7%BB%8F%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [律师解读辽宁一地没收冥纸冥币](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E8%BE%BD%E5%AE%81%E4%B8%80%E5%9C%B0%E6%B2%A1%E6%94%B6%E5%86%A5%E7%BA%B8%E5%86%A5%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [川投集团确认纪委副书记杨超自杀](https://www.baidu.com/s?wd=%E5%B7%9D%E6%8A%95%E9%9B%86%E5%9B%A2%E7%A1%AE%E8%AE%A4%E7%BA%AA%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E6%9D%A8%E8%B6%85%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
