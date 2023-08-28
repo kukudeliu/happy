@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 23:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 23:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [肖战郭靖概念图](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E9%83%AD%E9%9D%96%E6%A6%82%E5%BF%B5%E5%9B%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [你什么档次跟国宝一个飞机](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%80%E4%B9%88%E6%A1%A3%E6%AC%A1%E8%B7%9F%E5%9B%BD%E5%AE%9D%E4%B8%80%E4%B8%AA%E9%A3%9E%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [浙江12岁女孩确诊甲状腺癌](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F12%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵本山的新剧很讽刺](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E7%9A%84%E6%96%B0%E5%89%A7%E5%BE%88%E8%AE%BD%E5%88%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [夭玹 改写结局](https://s.weibo.com/weibo?q=%E5%A4%AD%E7%8E%B9%20%E6%94%B9%E5%86%99%E7%BB%93%E5%B1%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
