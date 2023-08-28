@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 15:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 15:32:01</h4></div>
 
 > 微博  
 
 1. [燃冬导演说自己受到的打击很大](https://s.weibo.com/weibo?q=%23%E7%87%83%E5%86%AC%E5%AF%BC%E6%BC%94%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%8F%97%E5%88%B0%E7%9A%84%E6%89%93%E5%87%BB%E5%BE%88%E5%A4%A7%23&t=31&band_rank=1&Refer=top)<br />
-2. [东电承认超6成储存核污水放射物超标](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E7%94%B5%E6%89%BF%E8%AE%A4%E8%B6%856%E6%88%90%E5%82%A8%E5%AD%98%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%94%BE%E5%B0%84%E7%89%A9%E8%B6%85%E6%A0%87%23&t=31&band_rank=2&Refer=top)<br />
+2. [男子大三挂科退学10年后再次考上大学](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%A7%E4%B8%89%E6%8C%82%E7%A7%91%E9%80%80%E5%AD%A610%E5%B9%B4%E5%90%8E%E5%86%8D%E6%AC%A1%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [多姿多彩多元多样是世界应有的样子](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%A7%BF%E5%A4%9A%E5%BD%A9%E5%A4%9A%E5%85%83%E5%A4%9A%E6%A0%B7%E6%98%AF%E4%B8%96%E7%95%8C%E5%BA%94%E6%9C%89%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=3&Refer=top)<br />
-4. [男子大三挂科退学10年后再次考上大学](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%A7%E4%B8%89%E6%8C%82%E7%A7%91%E9%80%80%E5%AD%A610%E5%B9%B4%E5%90%8E%E5%86%8D%E6%AC%A1%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=4&Refer=top)<br />
+4. [东电承认超6成储存核污水放射物超标](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E7%94%B5%E6%89%BF%E8%AE%A4%E8%B6%856%E6%88%90%E5%82%A8%E5%AD%98%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%94%BE%E5%B0%84%E7%89%A9%E8%B6%85%E6%A0%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [李佳琦与母亲接连成立新公司](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E4%B8%8E%E6%AF%8D%E4%BA%B2%E6%8E%A5%E8%BF%9E%E6%88%90%E7%AB%8B%E6%96%B0%E5%85%AC%E5%8F%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [赛百味700亿成功卖身](https://s.weibo.com/weibo?q=%23%E8%B5%9B%E7%99%BE%E5%91%B3700%E4%BA%BF%E6%88%90%E5%8A%9F%E5%8D%96%E8%BA%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=7&Refer=top)<br />
