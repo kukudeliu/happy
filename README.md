@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 11:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 11:54:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [恒大复牌跌超86%](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E5%A4%8D%E7%89%8C%E8%B7%8C%E8%B6%8586%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生考上浙大爸爸扛行李直奔6楼](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83%E4%B8%8A%E6%B5%99%E5%A4%A7%E7%88%B8%E7%88%B8%E6%89%9B%E8%A1%8C%E6%9D%8E%E7%9B%B4%E5%A5%946%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美军医被曝至少性侵23人](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%8C%BB%E8%A2%AB%E6%9B%9D%E8%87%B3%E5%B0%91%E6%80%A7%E4%BE%B523%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高考钉子户唐尚珺宣布继续复读](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E5%94%90%E5%B0%9A%E7%8F%BA%E5%AE%A3%E5%B8%83%E7%BB%A7%E7%BB%AD%E5%A4%8D%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [卷烟将涨价？中国烟草辟谣](https://www.baidu.com/s?wd=%E5%8D%B7%E7%83%9F%E5%B0%86%E6%B6%A8%E4%BB%B7%EF%BC%9F%E4%B8%AD%E5%9B%BD%E7%83%9F%E8%8D%89%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [恒大复牌跌超86%](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E5%A4%8D%E7%89%8C%E8%B7%8C%E8%B6%8586%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生考上浙大爸爸扛行李直奔6楼](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83%E4%B8%8A%E6%B5%99%E5%A4%A7%E7%88%B8%E7%88%B8%E6%89%9B%E8%A1%8C%E6%9D%8E%E7%9B%B4%E5%A5%946%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美军医被曝至少性侵23人](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%8C%BB%E8%A2%AB%E6%9B%9D%E8%87%B3%E5%B0%91%E6%80%A7%E4%BE%B523%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高考钉子户唐尚珺宣布继续复读](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E5%94%90%E5%B0%9A%E7%8F%BA%E5%AE%A3%E5%B8%83%E7%BB%A7%E7%BB%AD%E5%A4%8D%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [卷烟将涨价？中国烟草辟谣](https://www.baidu.com/s?wd=%E5%8D%B7%E7%83%9F%E5%B0%86%E6%B6%A8%E4%BB%B7%EF%BC%9F%E4%B8%AD%E5%9B%BD%E7%83%9F%E8%8D%89%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
