@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 08:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 08:37:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [胡歌回应不拍戏风波](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%8B%8D%E6%88%8F%E9%A3%8E%E6%B3%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=6&Refer=top)<br />
 7. [妈妈不让周扬青发的微博](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E4%B8%8D%E8%AE%A9%E5%91%A8%E6%89%AC%E9%9D%92%E5%8F%91%E7%9A%84%E5%BE%AE%E5%8D%9A&t=31&band_rank=7&Refer=top)<br />
-8. [女子打包40多桌婚宴剩菜喂流浪猫狗](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%93%E5%8C%8540%E5%A4%9A%E6%A1%8C%E5%A9%9A%E5%AE%B4%E5%89%A9%E8%8F%9C%E5%96%82%E6%B5%81%E6%B5%AA%E7%8C%AB%E7%8B%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [魏大勋认证魏大勋的大不发音](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%AE%A4%E8%AF%81%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%9A%84%E5%A4%A7%E4%B8%8D%E5%8F%91%E9%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
+8. [魏大勋认证魏大勋的大不发音](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%AE%A4%E8%AF%81%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%9A%84%E5%A4%A7%E4%B8%8D%E5%8F%91%E9%9F%B3%23&t=31&band_rank=8&Refer=top)<br />
+9. [女子打包40多桌婚宴剩菜喂流浪猫狗](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%93%E5%8C%8540%E5%A4%9A%E6%A1%8C%E5%A9%9A%E5%AE%B4%E5%89%A9%E8%8F%9C%E5%96%82%E6%B5%81%E6%B5%AA%E7%8C%AB%E7%8B%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
