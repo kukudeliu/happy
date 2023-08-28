@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 22:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 22:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘亦菲 高定](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E9%AB%98%E5%AE%9A&t=31&band_rank=6&Refer=top)<br />
 7. [贵州省委原书记孙志刚被查](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E5%AD%99%E5%BF%97%E5%88%9A%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国在南极意外发现海上粮仓](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%9E%81%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E6%B5%B7%E4%B8%8A%E7%B2%AE%E4%BB%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [吴磊被骑友大哥要微信](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E8%A2%AB%E9%AA%91%E5%8F%8B%E5%A4%A7%E5%93%A5%E8%A6%81%E5%BE%AE%E4%BF%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [花轿喜事男主](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%BD%BF%E5%96%9C%E4%BA%8B%E7%94%B7%E4%B8%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
