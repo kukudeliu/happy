@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 20:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 20:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王鹤棣田曦薇搂腰吻戏](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%94%B0%E6%9B%A6%E8%96%87%E6%90%82%E8%85%B0%E5%90%BB%E6%88%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [八九月份想辞职的情绪很严重](https://s.weibo.com/weibo?q=%E5%85%AB%E4%B9%9D%E6%9C%88%E4%BB%BD%E6%83%B3%E8%BE%9E%E8%81%8C%E7%9A%84%E6%83%85%E7%BB%AA%E5%BE%88%E4%B8%A5%E9%87%8D&t=31&band_rank=7&Refer=top)<br />
 8. [东方风云榜](https://s.weibo.com/weibo?q=%E4%B8%9C%E6%96%B9%E9%A3%8E%E4%BA%91%E6%A6%9C&t=31&band_rank=8&Refer=top)<br />
-9. [飞机上女孩口唇发紫麻醉医生出手](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%A5%B3%E5%AD%A9%E5%8F%A3%E5%94%87%E5%8F%91%E7%B4%AB%E9%BA%BB%E9%86%89%E5%8C%BB%E7%94%9F%E5%87%BA%E6%89%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [贾冰 丞啊炒蛋教程哥放这了](https://s.weibo.com/weibo?q=%E8%B4%BE%E5%86%B0%20%E4%B8%9E%E5%95%8A%E7%82%92%E8%9B%8B%E6%95%99%E7%A8%8B%E5%93%A5%E6%94%BE%E8%BF%99%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [媒体：男篮世界杯出线仅剩理论可能](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%94%B7%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E7%BA%BF%E4%BB%85%E5%89%A9%E7%90%86%E8%AE%BA%E5%8F%AF%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地扎实推进灾后重建](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E6%89%8E%E5%AE%9E%E6%8E%A8%E8%BF%9B%E7%81%BE%E5%90%8E%E9%87%8D%E5%BB%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中学小卖部5年租金943万 官方说明](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%B0%8F%E5%8D%96%E9%83%A85%E5%B9%B4%E7%A7%9F%E9%87%91943%E4%B8%87+%E5%AE%98%E6%96%B9%E8%AF%B4%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [蜜雪冰城进军炸串](https://www.baidu.com/s?wd=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%BF%9B%E5%86%9B%E7%82%B8%E4%B8%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大爷大妈超市抢面粉满脸都是粉](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%A4%A7%E5%A6%88%E8%B6%85%E5%B8%82%E6%8A%A2%E9%9D%A2%E7%B2%89%E6%BB%A1%E8%84%B8%E9%83%BD%E6%98%AF%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子半月被缅北男友骗光850万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8D%8A%E6%9C%88%E8%A2%AB%E7%BC%85%E5%8C%97%E7%94%B7%E5%8F%8B%E9%AA%97%E5%85%89850%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [川投集团确认纪委副书记杨超自杀](https://www.baidu.com/s?wd=%E5%B7%9D%E6%8A%95%E9%9B%86%E5%9B%A2%E7%A1%AE%E8%AE%A4%E7%BA%AA%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E6%9D%A8%E8%B6%85%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [爱情神话导演发文疑暗讽燃冬导演](https://www.baidu.com/s?wd=%E7%88%B1%E6%83%85%E7%A5%9E%E8%AF%9D%E5%AF%BC%E6%BC%94%E5%8F%91%E6%96%87%E7%96%91%E6%9A%97%E8%AE%BD%E7%87%83%E5%86%AC%E5%AF%BC%E6%BC%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [餐厅回收剩米饭用于员工餐](https://www.baidu.com/s?wd=%E9%A4%90%E5%8E%85%E5%9B%9E%E6%94%B6%E5%89%A9%E7%B1%B3%E9%A5%AD%E7%94%A8%E4%BA%8E%E5%91%98%E5%B7%A5%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [留学女儿要300万美元买房妈妈报警](https://www.baidu.com/s?wd=%E7%95%99%E5%AD%A6%E5%A5%B3%E5%84%BF%E8%A6%81300%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E6%88%BF%E5%A6%88%E5%A6%88%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [媒体：男篮世界杯出线仅剩理论可能](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%94%B7%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E7%BA%BF%E4%BB%85%E5%89%A9%E7%90%86%E8%AE%BA%E5%8F%AF%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地扎实推进灾后重建](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E6%89%8E%E5%AE%9E%E6%8E%A8%E8%BF%9B%E7%81%BE%E5%90%8E%E9%87%8D%E5%BB%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中学小卖部5年租金943万 官方说明](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%B0%8F%E5%8D%96%E9%83%A85%E5%B9%B4%E7%A7%9F%E9%87%91943%E4%B8%87+%E5%AE%98%E6%96%B9%E8%AF%B4%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [蜜雪冰城进军炸串](https://www.baidu.com/s?wd=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%BF%9B%E5%86%9B%E7%82%B8%E4%B8%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大爷大妈超市抢面粉满脸都是粉](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%A4%A7%E5%A6%88%E8%B6%85%E5%B8%82%E6%8A%A2%E9%9D%A2%E7%B2%89%E6%BB%A1%E8%84%B8%E9%83%BD%E6%98%AF%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子半月被缅北男友骗光850万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8D%8A%E6%9C%88%E8%A2%AB%E7%BC%85%E5%8C%97%E7%94%B7%E5%8F%8B%E9%AA%97%E5%85%89850%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [川投集团确认纪委副书记杨超自杀](https://www.baidu.com/s?wd=%E5%B7%9D%E6%8A%95%E9%9B%86%E5%9B%A2%E7%A1%AE%E8%AE%A4%E7%BA%AA%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E6%9D%A8%E8%B6%85%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [爱情神话导演发文疑暗讽燃冬导演](https://www.baidu.com/s?wd=%E7%88%B1%E6%83%85%E7%A5%9E%E8%AF%9D%E5%AF%BC%E6%BC%94%E5%8F%91%E6%96%87%E7%96%91%E6%9A%97%E8%AE%BD%E7%87%83%E5%86%AC%E5%AF%BC%E6%BC%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [餐厅回收剩米饭用于员工餐](https://www.baidu.com/s?wd=%E9%A4%90%E5%8E%85%E5%9B%9E%E6%94%B6%E5%89%A9%E7%B1%B3%E9%A5%AD%E7%94%A8%E4%BA%8E%E5%91%98%E5%B7%A5%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [留学女儿要300万美元买房妈妈报警](https://www.baidu.com/s?wd=%E7%95%99%E5%AD%A6%E5%A5%B3%E5%84%BF%E8%A6%81300%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E6%88%BF%E5%A6%88%E5%A6%88%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
