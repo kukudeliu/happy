@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 23:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 23:29:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [浙江12岁女孩确诊甲状腺癌](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F12%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国在南极意外发现海上粮仓](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%9E%81%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E6%B5%B7%E4%B8%8A%E7%B2%AE%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [我国拟立学位法](https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E5%AD%A6%E4%BD%8D%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [律师解读辽宁一地没收冥纸冥币](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E8%BE%BD%E5%AE%81%E4%B8%80%E5%9C%B0%E6%B2%A1%E6%94%B6%E5%86%A5%E7%BA%B8%E5%86%A5%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子洗小龙虾被刺伤 3天后离世](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B4%97%E5%B0%8F%E9%BE%99%E8%99%BE%E8%A2%AB%E5%88%BA%E4%BC%A4+3%E5%A4%A9%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [浙江12岁女孩确诊甲状腺癌](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F12%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国在南极意外发现海上粮仓](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%9E%81%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E6%B5%B7%E4%B8%8A%E7%B2%AE%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [我国拟立学位法](https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E5%AD%A6%E4%BD%8D%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [律师解读辽宁一地没收冥纸冥币](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E8%BE%BD%E5%AE%81%E4%B8%80%E5%9C%B0%E6%B2%A1%E6%94%B6%E5%86%A5%E7%BA%B8%E5%86%A5%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子洗小龙虾被刺伤 3天后离世](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B4%97%E5%B0%8F%E9%BE%99%E8%99%BE%E8%A2%AB%E5%88%BA%E4%BC%A4+3%E5%A4%A9%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
