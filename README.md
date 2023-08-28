@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 11:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 11:42:01</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [大道之行 天下为公](https://www.baidu.com/s?wd=%E5%A4%A7%E9%81%93%E4%B9%8B%E8%A1%8C+%E5%A4%A9%E4%B8%8B%E4%B8%BA%E5%85%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [郭台铭宣布参选台湾地区领导人](https://www.baidu.com/s?wd=%E9%83%AD%E5%8F%B0%E9%93%AD%E5%AE%A3%E5%B8%83%E5%8F%82%E9%80%89%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E9%A2%86%E5%AF%BC%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [三大股指集体跳空暴涨](https://www.baidu.com/s?wd=%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%9B%86%E4%BD%93%E8%B7%B3%E7%A9%BA%E6%9A%B4%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [午评：三大股指回落 近4800股飘红](https://www.baidu.com/s?wd=%E5%8D%88%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E5%9B%9E%E8%90%BD+%E8%BF%914800%E8%82%A1%E9%A3%98%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运惠民 添彩生活](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E6%83%A0%E6%B0%91+%E6%B7%BB%E5%BD%A9%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京签令要求瓦格纳宣誓效忠](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%AD%BE%E4%BB%A4%E8%A6%81%E6%B1%82%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%AE%A3%E8%AA%93%E6%95%88%E5%BF%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [恒大复牌跌超86%](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E5%A4%8D%E7%89%8C%E8%B7%8C%E8%B6%8586%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高考钉子户唐尚珺宣布继续复读](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E5%94%90%E5%B0%9A%E7%8F%BA%E5%AE%A3%E5%B8%83%E7%BB%A7%E7%BB%AD%E5%A4%8D%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [上证实时指数](https://www.baidu.com/s?wd=%E4%B8%8A%E8%AF%81%E5%AE%9E%E6%97%B6%E6%8C%87%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子开保时捷连撞四五辆路边车辆](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BC%80%E4%BF%9D%E6%97%B6%E6%8D%B7%E8%BF%9E%E6%92%9E%E5%9B%9B%E4%BA%94%E8%BE%86%E8%B7%AF%E8%BE%B9%E8%BD%A6%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [三大股指集体跳空暴涨](https://www.baidu.com/s?wd=%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%9B%86%E4%BD%93%E8%B7%B3%E7%A9%BA%E6%9A%B4%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高考钉子户唐尚珺宣布继续复读](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E5%94%90%E5%B0%9A%E7%8F%BA%E5%AE%A3%E5%B8%83%E7%BB%A7%E7%BB%AD%E5%A4%8D%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [上证实时指数](https://www.baidu.com/s?wd=%E4%B8%8A%E8%AF%81%E5%AE%9E%E6%97%B6%E6%8C%87%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [大道之行 天下为公](https://www.baidu.com/s?wd=%E5%A4%A7%E9%81%93%E4%B9%8B%E8%A1%8C+%E5%A4%A9%E4%B8%8B%E4%B8%BA%E5%85%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [郭台铭宣布参选台湾地区领导人](https://www.baidu.com/s?wd=%E9%83%AD%E5%8F%B0%E9%93%AD%E5%AE%A3%E5%B8%83%E5%8F%82%E9%80%89%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E9%A2%86%E5%AF%BC%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [三大股指集体跳空暴涨](https://www.baidu.com/s?wd=%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%9B%86%E4%BD%93%E8%B7%B3%E7%A9%BA%E6%9A%B4%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [午评：三大股指回落 近4800股飘红](https://www.baidu.com/s?wd=%E5%8D%88%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E5%9B%9E%E8%90%BD+%E8%BF%914800%E8%82%A1%E9%A3%98%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运惠民 添彩生活](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E6%83%A0%E6%B0%91+%E6%B7%BB%E5%BD%A9%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京签令要求瓦格纳宣誓效忠](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%AD%BE%E4%BB%A4%E8%A6%81%E6%B1%82%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%AE%A3%E8%AA%93%E6%95%88%E5%BF%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [恒大复牌跌超86%](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E5%A4%8D%E7%89%8C%E8%B7%8C%E8%B6%8586%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高考钉子户唐尚珺宣布继续复读](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E5%94%90%E5%B0%9A%E7%8F%BA%E5%AE%A3%E5%B8%83%E7%BB%A7%E7%BB%AD%E5%A4%8D%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [上证实时指数](https://www.baidu.com/s?wd=%E4%B8%8A%E8%AF%81%E5%AE%9E%E6%97%B6%E6%8C%87%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子开保时捷连撞四五辆路边车辆](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BC%80%E4%BF%9D%E6%97%B6%E6%8D%B7%E8%BF%9E%E6%92%9E%E5%9B%9B%E4%BA%94%E8%BE%86%E8%B7%AF%E8%BE%B9%E8%BD%A6%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [三大股指集体跳空暴涨](https://www.baidu.com/s?wd=%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%9B%86%E4%BD%93%E8%B7%B3%E7%A9%BA%E6%9A%B4%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高考钉子户唐尚珺宣布继续复读](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E5%94%90%E5%B0%9A%E7%8F%BA%E5%AE%A3%E5%B8%83%E7%BB%A7%E7%BB%AD%E5%A4%8D%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [上证实时指数](https://www.baidu.com/s?wd=%E4%B8%8A%E8%AF%81%E5%AE%9E%E6%97%B6%E6%8C%87%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
