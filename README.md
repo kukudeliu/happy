@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 15:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 15:51:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [江苏夫妻积水中触电身亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%A4%AB%E5%A6%BB%E7%A7%AF%E6%B0%B4%E4%B8%AD%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [学生被拐骗缅甸 家人花了20万赎回](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8B%90%E9%AA%97%E7%BC%85%E7%94%B8+%E5%AE%B6%E4%BA%BA%E8%8A%B1%E4%BA%8620%E4%B8%87%E8%B5%8E%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [学生发布虐猫视频 南阳理工学院通报](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E5%8F%91%E5%B8%83%E8%99%90%E7%8C%AB%E8%A7%86%E9%A2%91+%E5%8D%97%E9%98%B3%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [单位回应文旅局干部将女子踹骨折](https://www.baidu.com/s?wd=%E5%8D%95%E4%BD%8D%E5%9B%9E%E5%BA%94%E6%96%87%E6%97%85%E5%B1%80%E5%B9%B2%E9%83%A8%E5%B0%86%E5%A5%B3%E5%AD%90%E8%B8%B9%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子网购蒟蒻果冻吃出整只虫](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD%E8%92%9F%E8%92%BB%E6%9E%9C%E5%86%BB%E5%90%83%E5%87%BA%E6%95%B4%E5%8F%AA%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [江苏夫妻积水中触电身亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%A4%AB%E5%A6%BB%E7%A7%AF%E6%B0%B4%E4%B8%AD%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [学生被拐骗缅甸 家人花了20万赎回](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8B%90%E9%AA%97%E7%BC%85%E7%94%B8+%E5%AE%B6%E4%BA%BA%E8%8A%B1%E4%BA%8620%E4%B8%87%E8%B5%8E%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [学生发布虐猫视频 南阳理工学院通报](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E5%8F%91%E5%B8%83%E8%99%90%E7%8C%AB%E8%A7%86%E9%A2%91+%E5%8D%97%E9%98%B3%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [单位回应文旅局干部将女子踹骨折](https://www.baidu.com/s?wd=%E5%8D%95%E4%BD%8D%E5%9B%9E%E5%BA%94%E6%96%87%E6%97%85%E5%B1%80%E5%B9%B2%E9%83%A8%E5%B0%86%E5%A5%B3%E5%AD%90%E8%B8%B9%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子网购蒟蒻果冻吃出整只虫](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD%E8%92%9F%E8%92%BB%E6%9E%9C%E5%86%BB%E5%90%83%E5%87%BA%E6%95%B4%E5%8F%AA%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
