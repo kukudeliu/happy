@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 22:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 22:15:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [同心协力 务实合作](https://www.baidu.com/s?wd=%E5%90%8C%E5%BF%83%E5%8D%8F%E5%8A%9B+%E5%8A%A1%E5%AE%9E%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [贵州省委原书记孙志刚被查](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E5%AD%99%E5%BF%97%E5%88%9A%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [孙志刚被查 曾任国务院医改办主任](https://www.baidu.com/s?wd=%E5%AD%99%E5%BF%97%E5%88%9A%E8%A2%AB%E6%9F%A5+%E6%9B%BE%E4%BB%BB%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8C%BB%E6%94%B9%E5%8A%9E%E4%B8%BB%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [中国驻日大使:接到大量日本骚扰电话](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E5%A4%A7%E4%BD%BF%3A%E6%8E%A5%E5%88%B0%E5%A4%A7%E9%87%8F%E6%97%A5%E6%9C%AC%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地扎实推进灾后重建](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E6%89%8E%E5%AE%9E%E6%8E%A8%E8%BF%9B%E7%81%BE%E5%90%8E%E9%87%8D%E5%BB%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [留学女儿要300万美元买房妈妈报警](https://www.baidu.com/s?wd=%E7%95%99%E5%AD%A6%E5%A5%B3%E5%84%BF%E8%A6%81300%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E6%88%BF%E5%A6%88%E5%A6%88%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [同心协力 务实合作](https://www.baidu.com/s?wd=%E5%90%8C%E5%BF%83%E5%8D%8F%E5%8A%9B+%E5%8A%A1%E5%AE%9E%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [贵州省委原书记孙志刚被查](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E5%AD%99%E5%BF%97%E5%88%9A%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [孙志刚被查 曾任国务院医改办主任](https://www.baidu.com/s?wd=%E5%AD%99%E5%BF%97%E5%88%9A%E8%A2%AB%E6%9F%A5+%E6%9B%BE%E4%BB%BB%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8C%BB%E6%94%B9%E5%8A%9E%E4%B8%BB%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [中国驻日大使:接到大量日本骚扰电话](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E5%A4%A7%E4%BD%BF%3A%E6%8E%A5%E5%88%B0%E5%A4%A7%E9%87%8F%E6%97%A5%E6%9C%AC%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地扎实推进灾后重建](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E6%89%8E%E5%AE%9E%E6%8E%A8%E8%BF%9B%E7%81%BE%E5%90%8E%E9%87%8D%E5%BB%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [留学女儿要300万美元买房妈妈报警](https://www.baidu.com/s?wd=%E7%95%99%E5%AD%A6%E5%A5%B3%E5%84%BF%E8%A6%81300%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E6%88%BF%E5%A6%88%E5%A6%88%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
