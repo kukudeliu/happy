@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 21:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 22:00:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [吴磊被骑友大哥要微信](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E8%A2%AB%E9%AA%91%E5%8F%8B%E5%A4%A7%E5%93%A5%E8%A6%81%E5%BE%AE%E4%BF%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [多姿多彩多元多样是世界应有的样子](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%A7%BF%E5%A4%9A%E5%BD%A9%E5%A4%9A%E5%85%83%E5%A4%9A%E6%A0%B7%E6%98%AF%E4%B8%96%E7%95%8C%E5%BA%94%E6%9C%89%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=3&Refer=top)<br />
 4. [谁家女主第一集失业又失恋](https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E5%A5%B3%E4%B8%BB%E7%AC%AC%E4%B8%80%E9%9B%86%E5%A4%B1%E4%B8%9A%E5%8F%88%E5%A4%B1%E6%81%8B%23&t=31&band_rank=4&Refer=top)<br />
-5. [中国在南极意外发现海上粮仓](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%9E%81%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E6%B5%B7%E4%B8%8A%E7%B2%AE%E4%BB%93%23&t=31&band_rank=5&Refer=top)<br />
-6. [刘亦菲 高定](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E9%AB%98%E5%AE%9A&t=31&band_rank=6&Refer=top)<br />
+5. [刘亦菲 高定](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E9%AB%98%E5%AE%9A&t=31&band_rank=5&Refer=top)<br />
+6. [中国在南极意外发现海上粮仓](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%9E%81%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E6%B5%B7%E4%B8%8A%E7%B2%AE%E4%BB%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [贵州省委原书记孙志刚被查](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E5%AD%99%E5%BF%97%E5%88%9A%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [冯小刚夸虞书欣台词特别好](https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%B0%8F%E5%88%9A%E5%A4%B8%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%B0%E8%AF%8D%E7%89%B9%E5%88%AB%E5%A5%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [花轿喜事男主](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%BD%BF%E5%96%9C%E4%BA%8B%E7%94%B7%E4%B8%BB%23&t=31&band_rank=9&Refer=top)<br />
+8. [花轿喜事男主](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%BD%BF%E5%96%9C%E4%BA%8B%E7%94%B7%E4%B8%BB%23&t=31&band_rank=8&Refer=top)<br />
+9. [冯小刚夸虞书欣台词特别好](https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%B0%8F%E5%88%9A%E5%A4%B8%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%B0%E8%AF%8D%E7%89%B9%E5%88%AB%E5%A5%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
