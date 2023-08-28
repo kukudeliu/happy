@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 08:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 08:44:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [高考钉子户唐尚珺宣布继续复读](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E5%94%90%E5%B0%9A%E7%8F%BA%E5%AE%A3%E5%B8%83%E7%BB%A7%E7%BB%AD%E5%A4%8D%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [碧桂园“卖卖卖”？](https://www.baidu.com/s?wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%E2%80%9C%E5%8D%96%E5%8D%96%E5%8D%96%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [印花税减半 或让利近千亿](https://www.baidu.com/s?wd=%E5%8D%B0%E8%8A%B1%E7%A8%8E%E5%87%8F%E5%8D%8A+%E6%88%96%E8%AE%A9%E5%88%A9%E8%BF%91%E5%8D%83%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [缅北回流男子称曾被逼看活埋现场](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E5%9B%9E%E6%B5%81%E7%94%B7%E5%AD%90%E7%A7%B0%E6%9B%BE%E8%A2%AB%E9%80%BC%E7%9C%8B%E6%B4%BB%E5%9F%8B%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网红博主就造谣房屋为凶宅道歉](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%8D%9A%E4%B8%BB%E5%B0%B1%E9%80%A0%E8%B0%A3%E6%88%BF%E5%B1%8B%E4%B8%BA%E5%87%B6%E5%AE%85%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [高考钉子户唐尚珺宣布继续复读](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E5%94%90%E5%B0%9A%E7%8F%BA%E5%AE%A3%E5%B8%83%E7%BB%A7%E7%BB%AD%E5%A4%8D%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [碧桂园“卖卖卖”？](https://www.baidu.com/s?wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%E2%80%9C%E5%8D%96%E5%8D%96%E5%8D%96%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [印花税减半 或让利近千亿](https://www.baidu.com/s?wd=%E5%8D%B0%E8%8A%B1%E7%A8%8E%E5%87%8F%E5%8D%8A+%E6%88%96%E8%AE%A9%E5%88%A9%E8%BF%91%E5%8D%83%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [缅北回流男子称曾被逼看活埋现场](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E5%9B%9E%E6%B5%81%E7%94%B7%E5%AD%90%E7%A7%B0%E6%9B%BE%E8%A2%AB%E9%80%BC%E7%9C%8B%E6%B4%BB%E5%9F%8B%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网红博主就造谣房屋为凶宅道歉](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%8D%9A%E4%B8%BB%E5%B0%B1%E9%80%A0%E8%B0%A3%E6%88%BF%E5%B1%8B%E4%B8%BA%E5%87%B6%E5%AE%85%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
