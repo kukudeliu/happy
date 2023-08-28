@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 13:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 13:28:02</h4></div>
 
 > 微博  
 
 1. [请大英博物馆无偿归还中国文物](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E6%97%A0%E5%81%BF%E5%BD%92%E8%BF%98%E4%B8%AD%E5%9B%BD%E6%96%87%E7%89%A9%23&t=31&band_rank=1&Refer=top)<br />
-2. [大英博物馆馆长辞职](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E9%A6%86%E9%95%BF%E8%BE%9E%E8%81%8C%23&t=31&band_rank=2&Refer=top)<br />
+2. [东电承认超6成储存核污水放射物超标](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E7%94%B5%E6%89%BF%E8%AE%A4%E8%B6%856%E6%88%90%E5%82%A8%E5%AD%98%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%94%BE%E5%B0%84%E7%89%A9%E8%B6%85%E6%A0%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [三个关键词带你看大美新疆](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%E5%B8%A6%E4%BD%A0%E7%9C%8B%E5%A4%A7%E7%BE%8E%E6%96%B0%E7%96%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [东电承认超6成储存核污水放射物超标](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E7%94%B5%E6%89%BF%E8%AE%A4%E8%B6%856%E6%88%90%E5%82%A8%E5%AD%98%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%94%BE%E5%B0%84%E7%89%A9%E8%B6%85%E6%A0%87%23&t=31&band_rank=4&Refer=top)<br />
+4. [大英博物馆馆长辞职](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E9%A6%86%E9%95%BF%E8%BE%9E%E8%81%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [谢娜没和张杰合照是不是得洗碗](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%B2%A1%E5%92%8C%E5%BC%A0%E6%9D%B0%E5%90%88%E7%85%A7%E6%98%AF%E4%B8%8D%E6%98%AF%E5%BE%97%E6%B4%97%E7%A2%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [林志颖推荐林俊杰来下一季披哥](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E6%8E%A8%E8%8D%90%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%9D%A5%E4%B8%8B%E4%B8%80%E5%AD%A3%E6%8A%AB%E5%93%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [虹猫 一位大侠最极致的爱](https://s.weibo.com/weibo?q=%E8%99%B9%E7%8C%AB%20%E4%B8%80%E4%BD%8D%E5%A4%A7%E4%BE%A0%E6%9C%80%E6%9E%81%E8%87%B4%E7%9A%84%E7%88%B1&t=31&band_rank=7&Refer=top)<br />
