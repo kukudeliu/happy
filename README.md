@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 12:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 12:38:01</h4></div>
 
 > 微博  
 
 1. [请大英博物馆无偿归还中国文物](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E6%97%A0%E5%81%BF%E5%BD%92%E8%BF%98%E4%B8%AD%E5%9B%BD%E6%96%87%E7%89%A9%23&t=31&band_rank=1&Refer=top)<br />
-2. [胡歌说再拍李逍遥应该让吴磊演](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E8%AF%B4%E5%86%8D%E6%8B%8D%E6%9D%8E%E9%80%8D%E9%81%A5%E5%BA%94%E8%AF%A5%E8%AE%A9%E5%90%B4%E7%A3%8A%E6%BC%94%23&t=31&band_rank=2&Refer=top)<br />
+2. [大英博物馆馆长辞职](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E9%A6%86%E9%95%BF%E8%BE%9E%E8%81%8C%23&t=31&band_rank=2&Refer=top)<br />
 3. [三个关键词带你看大美新疆](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%E5%B8%A6%E4%BD%A0%E7%9C%8B%E5%A4%A7%E7%BE%8E%E6%96%B0%E7%96%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [大英博物馆馆长辞职](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E9%A6%86%E9%95%BF%E8%BE%9E%E8%81%8C%23&t=31&band_rank=4&Refer=top)<br />
+4. [胡歌说再拍李逍遥应该让吴磊演](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E8%AF%B4%E5%86%8D%E6%8B%8D%E6%9D%8E%E9%80%8D%E9%81%A5%E5%BA%94%E8%AF%A5%E8%AE%A9%E5%90%B4%E7%A3%8A%E6%BC%94%23&t=31&band_rank=4&Refer=top)<br />
 5. [东电承认超6成储存核污水放射物超标](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E7%94%B5%E6%89%BF%E8%AE%A4%E8%B6%856%E6%88%90%E5%82%A8%E5%AD%98%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%94%BE%E5%B0%84%E7%89%A9%E8%B6%85%E6%A0%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=6&Refer=top)<br />
 7. [陈奕迅澳门演唱会抢票](https://s.weibo.com/weibo?q=%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8&t=31&band_rank=7&Refer=top)<br />
