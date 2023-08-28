@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 10:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 10:48:01</h4></div>
 
 > 微博  
 
 1. [请大英博物馆无偿归还中国文物](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E6%97%A0%E5%81%BF%E5%BD%92%E8%BF%98%E4%B8%AD%E5%9B%BD%E6%96%87%E7%89%A9%23&t=31&band_rank=1&Refer=top)<br />
 2. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=2&Refer=top)<br />
-3. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=3&Refer=top)<br />
-4. [男生考上浙大爸爸扛行李直奔6楼](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%80%83%E4%B8%8A%E6%B5%99%E5%A4%A7%E7%88%B8%E7%88%B8%E6%89%9B%E8%A1%8C%E6%9D%8E%E7%9B%B4%E5%A5%946%E6%A5%BC%23&t=31&band_rank=4&Refer=top)<br />
-5. [郭台铭宣布参选](https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%8F%B0%E9%93%AD%E5%AE%A3%E5%B8%83%E5%8F%82%E9%80%89%23&t=31&band_rank=5&Refer=top)<br />
-6. [产妇羊水栓塞输血超6万毫升被救](https://s.weibo.com/weibo?q=%23%E4%BA%A7%E5%A6%87%E7%BE%8A%E6%B0%B4%E6%A0%93%E5%A1%9E%E8%BE%93%E8%A1%80%E8%B6%856%E4%B8%87%E6%AF%AB%E5%8D%87%E8%A2%AB%E6%95%91%23&t=31&band_rank=6&Refer=top)<br />
-7. [香港小姐10号 意难平](https://s.weibo.com/weibo?q=%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%9010%E5%8F%B7%20%E6%84%8F%E9%9A%BE%E5%B9%B3&t=31&band_rank=7&Refer=top)<br />
-8. [印花税](https://s.weibo.com/weibo?q=%E5%8D%B0%E8%8A%B1%E7%A8%8E&t=31&band_rank=8&Refer=top)<br />
-9. [中国艺术体操首个世界冠军](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%89%BA%E6%9C%AF%E4%BD%93%E6%93%8D%E9%A6%96%E4%B8%AA%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%23&t=31&band_rank=9&Refer=top)<br />
+3. [三个关键词带你看大美新疆](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%E5%B8%A6%E4%BD%A0%E7%9C%8B%E5%A4%A7%E7%BE%8E%E6%96%B0%E7%96%86%23&t=31&band_rank=3&Refer=top)<br />
+4. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=4&Refer=top)<br />
+5. [男生考上浙大爸爸扛行李直奔6楼](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%80%83%E4%B8%8A%E6%B5%99%E5%A4%A7%E7%88%B8%E7%88%B8%E6%89%9B%E8%A1%8C%E6%9D%8E%E7%9B%B4%E5%A5%946%E6%A5%BC%23&t=31&band_rank=5&Refer=top)<br />
+6. [郭台铭宣布参选](https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%8F%B0%E9%93%AD%E5%AE%A3%E5%B8%83%E5%8F%82%E9%80%89%23&t=31&band_rank=6&Refer=top)<br />
+7. [产妇羊水栓塞输血超6万毫升被救](https://s.weibo.com/weibo?q=%23%E4%BA%A7%E5%A6%87%E7%BE%8A%E6%B0%B4%E6%A0%93%E5%A1%9E%E8%BE%93%E8%A1%80%E8%B6%856%E4%B8%87%E6%AF%AB%E5%8D%87%E8%A2%AB%E6%95%91%23&t=31&band_rank=7&Refer=top)<br />
+8. [香港小姐10号 意难平](https://s.weibo.com/weibo?q=%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%9010%E5%8F%B7%20%E6%84%8F%E9%9A%BE%E5%B9%B3&t=31&band_rank=8&Refer=top)<br />
+9. [印花税](https://s.weibo.com/weibo?q=%E5%8D%B0%E8%8A%B1%E7%A8%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
