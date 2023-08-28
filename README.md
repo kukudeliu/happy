@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 21:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 21:09:01</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [同心协力 务实合作](https://www.baidu.com/s?wd=%E5%90%8C%E5%BF%83%E5%8D%8F%E5%8A%9B+%E5%8A%A1%E5%AE%9E%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [中国驻日大使:接到大量日本骚扰电话](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E5%A4%A7%E4%BD%BF%3A%E6%8E%A5%E5%88%B0%E5%A4%A7%E9%87%8F%E6%97%A5%E6%9C%AC%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [媒体：男篮世界杯出线仅剩理论可能](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%94%B7%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E7%BA%BF%E4%BB%85%E5%89%A9%E7%90%86%E8%AE%BA%E5%8F%AF%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [贵州省委原书记孙志刚被查](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E5%AD%99%E5%BF%97%E5%88%9A%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地扎实推进灾后重建](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E6%89%8E%E5%AE%9E%E6%8E%A8%E8%BF%9B%E7%81%BE%E5%90%8E%E9%87%8D%E5%BB%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中学小卖部5年租金943万 官方说明](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%B0%8F%E5%8D%96%E9%83%A85%E5%B9%B4%E7%A7%9F%E9%87%91943%E4%B8%87+%E5%AE%98%E6%96%B9%E8%AF%B4%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [留学女儿要300万美元买房妈妈报警](https://www.baidu.com/s?wd=%E7%95%99%E5%AD%A6%E5%A5%B3%E5%84%BF%E8%A6%81300%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E6%88%BF%E5%A6%88%E5%A6%88%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子洗小龙虾被刺伤 3天后离世](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B4%97%E5%B0%8F%E9%BE%99%E8%99%BE%E8%A2%AB%E5%88%BA%E4%BC%A4+3%E5%A4%A9%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [川投集团确认纪委副书记杨超自杀](https://www.baidu.com/s?wd=%E5%B7%9D%E6%8A%95%E9%9B%86%E5%9B%A2%E7%A1%AE%E8%AE%A4%E7%BA%AA%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E6%9D%A8%E8%B6%85%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [董明珠怒斥员工吃着碗里看着锅里](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E6%80%92%E6%96%A5%E5%91%98%E5%B7%A5%E5%90%83%E7%9D%80%E7%A2%97%E9%87%8C%E7%9C%8B%E7%9D%80%E9%94%85%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [39元烧烤外卖有9.5元包装费](https://www.baidu.com/s?wd=39%E5%85%83%E7%83%A7%E7%83%A4%E5%A4%96%E5%8D%96%E6%9C%899.5%E5%85%83%E5%8C%85%E8%A3%85%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子洗小龙虾被刺伤 3天后离世](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B4%97%E5%B0%8F%E9%BE%99%E8%99%BE%E8%A2%AB%E5%88%BA%E4%BC%A4+3%E5%A4%A9%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [川投集团确认纪委副书记杨超自杀](https://www.baidu.com/s?wd=%E5%B7%9D%E6%8A%95%E9%9B%86%E5%9B%A2%E7%A1%AE%E8%AE%A4%E7%BA%AA%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E6%9D%A8%E8%B6%85%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [同心协力 务实合作](https://www.baidu.com/s?wd=%E5%90%8C%E5%BF%83%E5%8D%8F%E5%8A%9B+%E5%8A%A1%E5%AE%9E%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [中国驻日大使:接到大量日本骚扰电话](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E5%A4%A7%E4%BD%BF%3A%E6%8E%A5%E5%88%B0%E5%A4%A7%E9%87%8F%E6%97%A5%E6%9C%AC%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [媒体：男篮世界杯出线仅剩理论可能](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%94%B7%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E7%BA%BF%E4%BB%85%E5%89%A9%E7%90%86%E8%AE%BA%E5%8F%AF%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [贵州省委原书记孙志刚被查](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E5%AD%99%E5%BF%97%E5%88%9A%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地扎实推进灾后重建](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E6%89%8E%E5%AE%9E%E6%8E%A8%E8%BF%9B%E7%81%BE%E5%90%8E%E9%87%8D%E5%BB%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中学小卖部5年租金943万 官方说明](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%B0%8F%E5%8D%96%E9%83%A85%E5%B9%B4%E7%A7%9F%E9%87%91943%E4%B8%87+%E5%AE%98%E6%96%B9%E8%AF%B4%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [留学女儿要300万美元买房妈妈报警](https://www.baidu.com/s?wd=%E7%95%99%E5%AD%A6%E5%A5%B3%E5%84%BF%E8%A6%81300%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E6%88%BF%E5%A6%88%E5%A6%88%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子洗小龙虾被刺伤 3天后离世](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B4%97%E5%B0%8F%E9%BE%99%E8%99%BE%E8%A2%AB%E5%88%BA%E4%BC%A4+3%E5%A4%A9%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [川投集团确认纪委副书记杨超自杀](https://www.baidu.com/s?wd=%E5%B7%9D%E6%8A%95%E9%9B%86%E5%9B%A2%E7%A1%AE%E8%AE%A4%E7%BA%AA%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E6%9D%A8%E8%B6%85%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [董明珠怒斥员工吃着碗里看着锅里](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E6%80%92%E6%96%A5%E5%91%98%E5%B7%A5%E5%90%83%E7%9D%80%E7%A2%97%E9%87%8C%E7%9C%8B%E7%9D%80%E9%94%85%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [39元烧烤外卖有9.5元包装费](https://www.baidu.com/s?wd=39%E5%85%83%E7%83%A7%E7%83%A4%E5%A4%96%E5%8D%96%E6%9C%899.5%E5%85%83%E5%8C%85%E8%A3%85%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子洗小龙虾被刺伤 3天后离世](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B4%97%E5%B0%8F%E9%BE%99%E8%99%BE%E8%A2%AB%E5%88%BA%E4%BC%A4+3%E5%A4%A9%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [川投集团确认纪委副书记杨超自杀](https://www.baidu.com/s?wd=%E5%B7%9D%E6%8A%95%E9%9B%86%E5%9B%A2%E7%A1%AE%E8%AE%A4%E7%BA%AA%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E6%9D%A8%E8%B6%85%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
