@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 08:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 08:49:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [胡歌回应不拍戏风波](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%8B%8D%E6%88%8F%E9%A3%8E%E6%B3%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [中学小卖部5年租金超900万元](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E5%B0%8F%E5%8D%96%E9%83%A85%E5%B9%B4%E7%A7%9F%E9%87%91%E8%B6%85900%E4%B8%87%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=7&Refer=top)<br />
-8. [妈妈不让周扬青发的微博](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E4%B8%8D%E8%AE%A9%E5%91%A8%E6%89%AC%E9%9D%92%E5%8F%91%E7%9A%84%E5%BE%AE%E5%8D%9A&t=31&band_rank=8&Refer=top)<br />
-9. [女子打包40多桌婚宴剩菜喂流浪猫狗](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%93%E5%8C%8540%E5%A4%9A%E6%A1%8C%E5%A9%9A%E5%AE%B4%E5%89%A9%E8%8F%9C%E5%96%82%E6%B5%81%E6%B5%AA%E7%8C%AB%E7%8B%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=8&Refer=top)<br />
+9. [妈妈不让周扬青发的微博](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E4%B8%8D%E8%AE%A9%E5%91%A8%E6%89%AC%E9%9D%92%E5%8F%91%E7%9A%84%E5%BE%AE%E5%8D%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [高考钉子户唐尚珺宣布继续复读](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E5%94%90%E5%B0%9A%E7%8F%BA%E5%AE%A3%E5%B8%83%E7%BB%A7%E7%BB%AD%E5%A4%8D%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [碧桂园“卖卖卖”？](https://www.baidu.com/s?wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%E2%80%9C%E5%8D%96%E5%8D%96%E5%8D%96%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [印花税减半 或让利近千亿](https://www.baidu.com/s?wd=%E5%8D%B0%E8%8A%B1%E7%A8%8E%E5%87%8F%E5%8D%8A+%E6%88%96%E8%AE%A9%E5%88%A9%E8%BF%91%E5%8D%83%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网红博主就造谣房屋为凶宅道歉](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%8D%9A%E4%B8%BB%E5%B0%B1%E9%80%A0%E8%B0%A3%E6%88%BF%E5%B1%8B%E4%B8%BA%E5%87%B6%E5%AE%85%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [缅北回流男子称曾被逼看活埋现场](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E5%9B%9E%E6%B5%81%E7%94%B7%E5%AD%90%E7%A7%B0%E6%9B%BE%E8%A2%AB%E9%80%BC%E7%9C%8B%E6%B4%BB%E5%9F%8B%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [高考钉子户唐尚珺宣布继续复读](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%92%89%E5%AD%90%E6%88%B7%E5%94%90%E5%B0%9A%E7%8F%BA%E5%AE%A3%E5%B8%83%E7%BB%A7%E7%BB%AD%E5%A4%8D%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [碧桂园“卖卖卖”？](https://www.baidu.com/s?wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%E2%80%9C%E5%8D%96%E5%8D%96%E5%8D%96%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [印花税减半 或让利近千亿](https://www.baidu.com/s?wd=%E5%8D%B0%E8%8A%B1%E7%A8%8E%E5%87%8F%E5%8D%8A+%E6%88%96%E8%AE%A9%E5%88%A9%E8%BF%91%E5%8D%83%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网红博主就造谣房屋为凶宅道歉](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%8D%9A%E4%B8%BB%E5%B0%B1%E9%80%A0%E8%B0%A3%E6%88%BF%E5%B1%8B%E4%B8%BA%E5%87%B6%E5%AE%85%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [缅北回流男子称曾被逼看活埋现场](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E5%9B%9E%E6%B5%81%E7%94%B7%E5%AD%90%E7%A7%B0%E6%9B%BE%E8%A2%AB%E9%80%BC%E7%9C%8B%E6%B4%BB%E5%9F%8B%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
