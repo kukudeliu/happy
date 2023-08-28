@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 04:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 04:58:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [B站被韩国KBS起诉侵权](https://www.baidu.com/s?wd=B%E7%AB%99%E8%A2%AB%E9%9F%A9%E5%9B%BDKBS%E8%B5%B7%E8%AF%89%E4%BE%B5%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子洗小龙虾被刺伤 3天后离世](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B4%97%E5%B0%8F%E9%BE%99%E8%99%BE%E8%A2%AB%E5%88%BA%E4%BC%A4+3%E5%A4%A9%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [浙江12岁女孩确诊甲状腺癌](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F12%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [家长吐槽高校让学生住未完工宿舍楼](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E9%AB%98%E6%A0%A1%E8%AE%A9%E5%AD%A6%E7%94%9F%E4%BD%8F%E6%9C%AA%E5%AE%8C%E5%B7%A5%E5%AE%BF%E8%88%8D%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国在南极意外发现海上粮仓](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%9E%81%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E6%B5%B7%E4%B8%8A%E7%B2%AE%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [B站被韩国KBS起诉侵权](https://www.baidu.com/s?wd=B%E7%AB%99%E8%A2%AB%E9%9F%A9%E5%9B%BDKBS%E8%B5%B7%E8%AF%89%E4%BE%B5%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子洗小龙虾被刺伤 3天后离世](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B4%97%E5%B0%8F%E9%BE%99%E8%99%BE%E8%A2%AB%E5%88%BA%E4%BC%A4+3%E5%A4%A9%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [浙江12岁女孩确诊甲状腺癌](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F12%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [家长吐槽高校让学生住未完工宿舍楼](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E9%AB%98%E6%A0%A1%E8%AE%A9%E5%AD%A6%E7%94%9F%E4%BD%8F%E6%9C%AA%E5%AE%8C%E5%B7%A5%E5%AE%BF%E8%88%8D%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国在南极意外发现海上粮仓](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%9E%81%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E6%B5%B7%E4%B8%8A%E7%B2%AE%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
