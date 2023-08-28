@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 13:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 13:14:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [亚运惠民 添彩生活](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E6%83%A0%E6%B0%91+%E6%B7%BB%E5%BD%A9%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [湖南一扶贫安置房频现质量问题](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E6%89%B6%E8%B4%AB%E5%AE%89%E7%BD%AE%E6%88%BF%E9%A2%91%E7%8E%B0%E8%B4%A8%E9%87%8F%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美军医被曝至少性侵23人](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%8C%BB%E8%A2%AB%E6%9B%9D%E8%87%B3%E5%B0%91%E6%80%A7%E4%BE%B523%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男生考上浙大爸爸扛行李直奔6楼](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83%E4%B8%8A%E6%B5%99%E5%A4%A7%E7%88%B8%E7%88%B8%E6%89%9B%E8%A1%8C%E6%9D%8E%E7%9B%B4%E5%A5%946%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [实探碧桂园危机中的买房人](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8E%A2%E7%A2%A7%E6%A1%82%E5%9B%AD%E5%8D%B1%E6%9C%BA%E4%B8%AD%E7%9A%84%E4%B9%B0%E6%88%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [四川男子邀约多人盗墓9处被抓](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%94%B7%E5%AD%90%E9%82%80%E7%BA%A6%E5%A4%9A%E4%BA%BA%E7%9B%97%E5%A2%939%E5%A4%84%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生考上浙大爸爸扛行李直奔6楼](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83%E4%B8%8A%E6%B5%99%E5%A4%A7%E7%88%B8%E7%88%B8%E6%89%9B%E8%A1%8C%E6%9D%8E%E7%9B%B4%E5%A5%946%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [午评：三大股指回落 近4800股飘红](https://www.baidu.com/s?wd=%E5%8D%88%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E5%9B%9E%E8%90%BD+%E8%BF%914800%E8%82%A1%E9%A3%98%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [亚运惠民 添彩生活](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E6%83%A0%E6%B0%91+%E6%B7%BB%E5%BD%A9%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [湖南一扶贫安置房频现质量问题](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E6%89%B6%E8%B4%AB%E5%AE%89%E7%BD%AE%E6%88%BF%E9%A2%91%E7%8E%B0%E8%B4%A8%E9%87%8F%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美军医被曝至少性侵23人](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%8C%BB%E8%A2%AB%E6%9B%9D%E8%87%B3%E5%B0%91%E6%80%A7%E4%BE%B523%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男生考上浙大爸爸扛行李直奔6楼](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83%E4%B8%8A%E6%B5%99%E5%A4%A7%E7%88%B8%E7%88%B8%E6%89%9B%E8%A1%8C%E6%9D%8E%E7%9B%B4%E5%A5%946%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [实探碧桂园危机中的买房人](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8E%A2%E7%A2%A7%E6%A1%82%E5%9B%AD%E5%8D%B1%E6%9C%BA%E4%B8%AD%E7%9A%84%E4%B9%B0%E6%88%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [四川男子邀约多人盗墓9处被抓](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%94%B7%E5%AD%90%E9%82%80%E7%BA%A6%E5%A4%9A%E4%BA%BA%E7%9B%97%E5%A2%939%E5%A4%84%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生考上浙大爸爸扛行李直奔6楼](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83%E4%B8%8A%E6%B5%99%E5%A4%A7%E7%88%B8%E7%88%B8%E6%89%9B%E8%A1%8C%E6%9D%8E%E7%9B%B4%E5%A5%946%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [午评：三大股指回落 近4800股飘红](https://www.baidu.com/s?wd=%E5%8D%88%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E5%9B%9E%E8%90%BD+%E8%BF%914800%E8%82%A1%E9%A3%98%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
