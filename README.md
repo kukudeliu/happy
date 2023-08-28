@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 16:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 16:39:02</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [大道之行 天下为公](https://www.baidu.com/s?wd=%E5%A4%A7%E9%81%93%E4%B9%8B%E8%A1%8C+%E5%A4%A9%E4%B8%8B%E4%B8%BA%E5%85%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [A股收评：开盘即巅峰](https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%BC%80%E7%9B%98%E5%8D%B3%E5%B7%85%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [驻日本使领馆遭受滋扰 中方严正交涉](https://www.baidu.com/s?wd=%E9%A9%BB%E6%97%A5%E6%9C%AC%E4%BD%BF%E9%A2%86%E9%A6%86%E9%81%AD%E5%8F%97%E6%BB%8B%E6%89%B0+%E4%B8%AD%E6%96%B9%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [在华日本学校被砸石头鸡蛋?中方回应](https://www.baidu.com/s?wd=%E5%9C%A8%E5%8D%8E%E6%97%A5%E6%9C%AC%E5%AD%A6%E6%A0%A1%E8%A2%AB%E7%A0%B8%E7%9F%B3%E5%A4%B4%E9%B8%A1%E8%9B%8B%3F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运惠民 添彩生活](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E6%83%A0%E6%B0%91+%E6%B7%BB%E5%BD%A9%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [企业让员工贷款给企业 涉1000多万](https://www.baidu.com/s?wd=%E4%BC%81%E4%B8%9A%E8%AE%A9%E5%91%98%E5%B7%A5%E8%B4%B7%E6%AC%BE%E7%BB%99%E4%BC%81%E4%B8%9A+%E6%B6%891000%E5%A4%9A%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [A股收评：开盘即巅峰](https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%BC%80%E7%9B%98%E5%8D%B3%E5%B7%85%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美方遣返中国留学生 中方：坚决反对](https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%E9%81%A3%E8%BF%94%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F+%E4%B8%AD%E6%96%B9%EF%BC%9A%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [郭碧婷越来越像向太了](https://www.baidu.com/s?wd=%E9%83%AD%E7%A2%A7%E5%A9%B7%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E5%90%91%E5%A4%AA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [滴滴放弃造车，何小鹏接手](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E6%94%BE%E5%BC%83%E9%80%A0%E8%BD%A6%EF%BC%8C%E4%BD%95%E5%B0%8F%E9%B9%8F%E6%8E%A5%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [外交部：推迟日本公明党代表团访华](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%8E%A8%E8%BF%9F%E6%97%A5%E6%9C%AC%E5%85%AC%E6%98%8E%E5%85%9A%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [外交部：推迟日本公明党代表团访华](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%8E%A8%E8%BF%9F%E6%97%A5%E6%9C%AC%E5%85%AC%E6%98%8E%E5%85%9A%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [台媒：台当局应立即撤换谢长廷](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%EF%BC%9A%E5%8F%B0%E5%BD%93%E5%B1%80%E5%BA%94%E7%AB%8B%E5%8D%B3%E6%92%A4%E6%8D%A2%E8%B0%A2%E9%95%BF%E5%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [大道之行 天下为公](https://www.baidu.com/s?wd=%E5%A4%A7%E9%81%93%E4%B9%8B%E8%A1%8C+%E5%A4%A9%E4%B8%8B%E4%B8%BA%E5%85%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [A股收评：开盘即巅峰](https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%BC%80%E7%9B%98%E5%8D%B3%E5%B7%85%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [驻日本使领馆遭受滋扰 中方严正交涉](https://www.baidu.com/s?wd=%E9%A9%BB%E6%97%A5%E6%9C%AC%E4%BD%BF%E9%A2%86%E9%A6%86%E9%81%AD%E5%8F%97%E6%BB%8B%E6%89%B0+%E4%B8%AD%E6%96%B9%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [在华日本学校被砸石头鸡蛋?中方回应](https://www.baidu.com/s?wd=%E5%9C%A8%E5%8D%8E%E6%97%A5%E6%9C%AC%E5%AD%A6%E6%A0%A1%E8%A2%AB%E7%A0%B8%E7%9F%B3%E5%A4%B4%E9%B8%A1%E8%9B%8B%3F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运惠民 添彩生活](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E6%83%A0%E6%B0%91+%E6%B7%BB%E5%BD%A9%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [企业让员工贷款给企业 涉1000多万](https://www.baidu.com/s?wd=%E4%BC%81%E4%B8%9A%E8%AE%A9%E5%91%98%E5%B7%A5%E8%B4%B7%E6%AC%BE%E7%BB%99%E4%BC%81%E4%B8%9A+%E6%B6%891000%E5%A4%9A%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [A股收评：开盘即巅峰](https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%BC%80%E7%9B%98%E5%8D%B3%E5%B7%85%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美方遣返中国留学生 中方：坚决反对](https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%E9%81%A3%E8%BF%94%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F+%E4%B8%AD%E6%96%B9%EF%BC%9A%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [郭碧婷越来越像向太了](https://www.baidu.com/s?wd=%E9%83%AD%E7%A2%A7%E5%A9%B7%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E5%90%91%E5%A4%AA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [滴滴放弃造车，何小鹏接手](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E6%94%BE%E5%BC%83%E9%80%A0%E8%BD%A6%EF%BC%8C%E4%BD%95%E5%B0%8F%E9%B9%8F%E6%8E%A5%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [外交部：推迟日本公明党代表团访华](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%8E%A8%E8%BF%9F%E6%97%A5%E6%9C%AC%E5%85%AC%E6%98%8E%E5%85%9A%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [外交部：推迟日本公明党代表团访华](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%8E%A8%E8%BF%9F%E6%97%A5%E6%9C%AC%E5%85%AC%E6%98%8E%E5%85%9A%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [台媒：台当局应立即撤换谢长廷](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%EF%BC%9A%E5%8F%B0%E5%BD%93%E5%B1%80%E5%BA%94%E7%AB%8B%E5%8D%B3%E6%92%A4%E6%8D%A2%E8%B0%A2%E9%95%BF%E5%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
