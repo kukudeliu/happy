@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 12:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 12:45:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [胡歌说再拍李逍遥应该让吴磊演](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E8%AF%B4%E5%86%8D%E6%8B%8D%E6%9D%8E%E9%80%8D%E9%81%A5%E5%BA%94%E8%AF%A5%E8%AE%A9%E5%90%B4%E7%A3%8A%E6%BC%94%23&t=31&band_rank=4&Refer=top)<br />
 5. [东电承认超6成储存核污水放射物超标](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E7%94%B5%E6%89%BF%E8%AE%A4%E8%B6%856%E6%88%90%E5%82%A8%E5%AD%98%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%94%BE%E5%B0%84%E7%89%A9%E8%B6%85%E6%A0%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=6&Refer=top)<br />
-7. [陈奕迅澳门演唱会抢票](https://s.weibo.com/weibo?q=%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8&t=31&band_rank=7&Refer=top)<br />
-8. [产妇羊水栓塞输血超6万毫升被救](https://s.weibo.com/weibo?q=%23%E4%BA%A7%E5%A6%87%E7%BE%8A%E6%B0%B4%E6%A0%93%E5%A1%9E%E8%BE%93%E8%A1%80%E8%B6%856%E4%B8%87%E6%AF%AB%E5%8D%87%E8%A2%AB%E6%95%91%23&t=31&band_rank=8&Refer=top)<br />
+7. [产妇羊水栓塞输血超6万毫升被救](https://s.weibo.com/weibo?q=%23%E4%BA%A7%E5%A6%87%E7%BE%8A%E6%B0%B4%E6%A0%93%E5%A1%9E%E8%BE%93%E8%A1%80%E8%B6%856%E4%B8%87%E6%AF%AB%E5%8D%87%E8%A2%AB%E6%95%91%23&t=31&band_rank=7&Refer=top)<br />
+8. [陈奕迅澳门演唱会抢票](https://s.weibo.com/weibo?q=%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8&t=31&band_rank=8&Refer=top)<br />
 9. [杨幂和王阳合作过](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%92%8C%E7%8E%8B%E9%98%B3%E5%90%88%E4%BD%9C%E8%BF%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
