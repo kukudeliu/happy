@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 12:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 13:00:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [郭台铭宣布参选台湾地区领导人](https://www.baidu.com/s?wd=%E9%83%AD%E5%8F%B0%E9%93%AD%E5%AE%A3%E5%B8%83%E5%8F%82%E9%80%89%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E9%A2%86%E5%AF%BC%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [普京签令要求瓦格纳宣誓效忠](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%AD%BE%E4%BB%A4%E8%A6%81%E6%B1%82%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%AE%A3%E8%AA%93%E6%95%88%E5%BF%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运惠民 添彩生活](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E6%83%A0%E6%B0%91+%E6%B7%BB%E5%BD%A9%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [港姐亚军是江苏女孩](https://www.baidu.com/s?wd=%E6%B8%AF%E5%A7%90%E4%BA%9A%E5%86%9B%E6%98%AF%E6%B1%9F%E8%8B%8F%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [湖南一扶贫安置房频现质量问题](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E6%89%B6%E8%B4%AB%E5%AE%89%E7%BD%AE%E6%88%BF%E9%A2%91%E7%8E%B0%E8%B4%A8%E9%87%8F%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美军医被曝至少性侵23人](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%8C%BB%E8%A2%AB%E6%9B%9D%E8%87%B3%E5%B0%91%E6%80%A7%E4%BE%B523%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生考上浙大爸爸扛行李直奔6楼](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83%E4%B8%8A%E6%B5%99%E5%A4%A7%E7%88%B8%E7%88%B8%E6%89%9B%E8%A1%8C%E6%9D%8E%E7%9B%B4%E5%A5%946%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [实探碧桂园危机中的买房人](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8E%A2%E7%A2%A7%E6%A1%82%E5%9B%AD%E5%8D%B1%E6%9C%BA%E4%B8%AD%E7%9A%84%E4%B9%B0%E6%88%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [郭台铭宣布参选台湾地区领导人](https://www.baidu.com/s?wd=%E9%83%AD%E5%8F%B0%E9%93%AD%E5%AE%A3%E5%B8%83%E5%8F%82%E9%80%89%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E9%A2%86%E5%AF%BC%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [普京签令要求瓦格纳宣誓效忠](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%AD%BE%E4%BB%A4%E8%A6%81%E6%B1%82%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%AE%A3%E8%AA%93%E6%95%88%E5%BF%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运惠民 添彩生活](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E6%83%A0%E6%B0%91+%E6%B7%BB%E5%BD%A9%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [港姐亚军是江苏女孩](https://www.baidu.com/s?wd=%E6%B8%AF%E5%A7%90%E4%BA%9A%E5%86%9B%E6%98%AF%E6%B1%9F%E8%8B%8F%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [湖南一扶贫安置房频现质量问题](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E6%89%B6%E8%B4%AB%E5%AE%89%E7%BD%AE%E6%88%BF%E9%A2%91%E7%8E%B0%E8%B4%A8%E9%87%8F%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美军医被曝至少性侵23人](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%8C%BB%E8%A2%AB%E6%9B%9D%E8%87%B3%E5%B0%91%E6%80%A7%E4%BE%B523%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男生考上浙大爸爸扛行李直奔6楼](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83%E4%B8%8A%E6%B5%99%E5%A4%A7%E7%88%B8%E7%88%B8%E6%89%9B%E8%A1%8C%E6%9D%8E%E7%9B%B4%E5%A5%946%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [实探碧桂园危机中的买房人](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8E%A2%E7%A2%A7%E6%A1%82%E5%9B%AD%E5%8D%B1%E6%9C%BA%E4%B8%AD%E7%9A%84%E4%B9%B0%E6%88%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
