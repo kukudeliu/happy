@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 15:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 15:41:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [江苏夫妻积水中触电身亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%A4%AB%E5%A6%BB%E7%A7%AF%E6%B0%B4%E4%B8%AD%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [学生被拐骗缅甸 家人花了20万赎回](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8B%90%E9%AA%97%E7%BC%85%E7%94%B8+%E5%AE%B6%E4%BA%BA%E8%8A%B1%E4%BA%8620%E4%B8%87%E8%B5%8E%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [福岛当地最大港口爆发抗议集会](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B2%9B%E5%BD%93%E5%9C%B0%E6%9C%80%E5%A4%A7%E6%B8%AF%E5%8F%A3%E7%88%86%E5%8F%91%E6%8A%97%E8%AE%AE%E9%9B%86%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美军医被曝至少性侵23人](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%8C%BB%E8%A2%AB%E6%9B%9D%E8%87%B3%E5%B0%91%E6%80%A7%E4%BE%B523%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子网购蒟蒻果冻吃出整只虫](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD%E8%92%9F%E8%92%BB%E6%9E%9C%E5%86%BB%E5%90%83%E5%87%BA%E6%95%B4%E5%8F%AA%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [江苏夫妻积水中触电身亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%A4%AB%E5%A6%BB%E7%A7%AF%E6%B0%B4%E4%B8%AD%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [学生被拐骗缅甸 家人花了20万赎回](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8B%90%E9%AA%97%E7%BC%85%E7%94%B8+%E5%AE%B6%E4%BA%BA%E8%8A%B1%E4%BA%8620%E4%B8%87%E8%B5%8E%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [福岛当地最大港口爆发抗议集会](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B2%9B%E5%BD%93%E5%9C%B0%E6%9C%80%E5%A4%A7%E6%B8%AF%E5%8F%A3%E7%88%86%E5%8F%91%E6%8A%97%E8%AE%AE%E9%9B%86%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美军医被曝至少性侵23人](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%8C%BB%E8%A2%AB%E6%9B%9D%E8%87%B3%E5%B0%91%E6%80%A7%E4%BE%B523%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子网购蒟蒻果冻吃出整只虫](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD%E8%92%9F%E8%92%BB%E6%9E%9C%E5%86%BB%E5%90%83%E5%87%BA%E6%95%B4%E5%8F%AA%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
