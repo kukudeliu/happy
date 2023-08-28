@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 16:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 16:05:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [江苏夫妻积水中触电身亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%A4%AB%E5%A6%BB%E7%A7%AF%E6%B0%B4%E4%B8%AD%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国民党回应郭台铭参选：极度遗憾](https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%9B%9E%E5%BA%94%E9%83%AD%E5%8F%B0%E9%93%AD%E5%8F%82%E9%80%89%EF%BC%9A%E6%9E%81%E5%BA%A6%E9%81%97%E6%86%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [学生被拐骗缅甸 家人花了20万赎回](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8B%90%E9%AA%97%E7%BC%85%E7%94%B8+%E5%AE%B6%E4%BA%BA%E8%8A%B1%E4%BA%8620%E4%B8%87%E8%B5%8E%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [实探碧桂园危机中的买房人](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8E%A2%E7%A2%A7%E6%A1%82%E5%9B%AD%E5%8D%B1%E6%9C%BA%E4%B8%AD%E7%9A%84%E4%B9%B0%E6%88%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [特校校长猥亵多名学生被控强奸罪](https://www.baidu.com/s?wd=%E7%89%B9%E6%A0%A1%E6%A0%A1%E9%95%BF%E7%8C%A5%E4%BA%B5%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8E%A7%E5%BC%BA%E5%A5%B8%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [江苏夫妻积水中触电身亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%A4%AB%E5%A6%BB%E7%A7%AF%E6%B0%B4%E4%B8%AD%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国民党回应郭台铭参选：极度遗憾](https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%9B%9E%E5%BA%94%E9%83%AD%E5%8F%B0%E9%93%AD%E5%8F%82%E9%80%89%EF%BC%9A%E6%9E%81%E5%BA%A6%E9%81%97%E6%86%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [学生被拐骗缅甸 家人花了20万赎回](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8B%90%E9%AA%97%E7%BC%85%E7%94%B8+%E5%AE%B6%E4%BA%BA%E8%8A%B1%E4%BA%8620%E4%B8%87%E8%B5%8E%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [实探碧桂园危机中的买房人](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8E%A2%E7%A2%A7%E6%A1%82%E5%9B%AD%E5%8D%B1%E6%9C%BA%E4%B8%AD%E7%9A%84%E4%B9%B0%E6%88%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [特校校长猥亵多名学生被控强奸罪](https://www.baidu.com/s?wd=%E7%89%B9%E6%A0%A1%E6%A0%A1%E9%95%BF%E7%8C%A5%E4%BA%B5%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8E%A7%E5%BC%BA%E5%A5%B8%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
