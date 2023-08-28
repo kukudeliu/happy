@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 23:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-28 23:10:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [刘亦菲 高定](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E9%AB%98%E5%AE%9A&t=31&band_rank=5&Refer=top)<br />
 6. [浙江12岁女孩确诊甲状腺癌](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F12%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖战郭靖概念图](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E9%83%AD%E9%9D%96%E6%A6%82%E5%BF%B5%E5%9B%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [中国在南极意外发现海上粮仓](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%9E%81%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E6%B5%B7%E4%B8%8A%E7%B2%AE%E4%BB%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [苏醒cue0713披荆斩棘小分队](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92cue0713%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%B0%8F%E5%88%86%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [男孩带录取通知书与服刑父亲见面](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%B8%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E4%B8%8E%E6%9C%8D%E5%88%91%E7%88%B6%E4%BA%B2%E8%A7%81%E9%9D%A2%23&t=31&band_rank=8&Refer=top)<br />
+9. [中国在南极意外发现海上粮仓](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%9E%81%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E6%B5%B7%E4%B8%8A%E7%B2%AE%E4%BB%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
