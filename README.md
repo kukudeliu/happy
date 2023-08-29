@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 09:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 09:22:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [日本核污染水排海已经开始影响邻国](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%BD%B1%E5%93%8D%E9%82%BB%E5%9B%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [警方通报足浴店故意伤害案](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E8%B6%B3%E6%B5%B4%E5%BA%97%E6%95%85%E6%84%8F%E4%BC%A4%E5%AE%B3%E6%A1%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子收到儿子饭卡消费记录后泪奔](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%94%B6%E5%88%B0%E5%84%BF%E5%AD%90%E9%A5%AD%E5%8D%A1%E6%B6%88%E8%B4%B9%E8%AE%B0%E5%BD%95%E5%90%8E%E6%B3%AA%E5%A5%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [笔记本一直插着电源使用比较好](https://s.weibo.com/weibo?q=%E7%AC%94%E8%AE%B0%E6%9C%AC%E4%B8%80%E7%9B%B4%E6%8F%92%E7%9D%80%E7%94%B5%E6%BA%90%E4%BD%BF%E7%94%A8%E6%AF%94%E8%BE%83%E5%A5%BD&t=31&band_rank=8&Refer=top)<br />
-9. [白敬亭赢了比赛输了形象](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%B5%A2%E4%BA%86%E6%AF%94%E8%B5%9B%E8%BE%93%E4%BA%86%E5%BD%A2%E8%B1%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [白敬亭赢了比赛输了形象](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%B5%A2%E4%BA%86%E6%AF%94%E8%B5%9B%E8%BE%93%E4%BA%86%E5%BD%A2%E8%B1%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [留学女儿要300多万美元买房妈妈报警](https://s.weibo.com/weibo?q=%23%E7%95%99%E5%AD%A6%E5%A5%B3%E5%84%BF%E8%A6%81300%E5%A4%9A%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E6%88%BF%E5%A6%88%E5%A6%88%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
