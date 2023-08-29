@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 14:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 14:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [骑友大哥这回认出来吴磊了](https://s.weibo.com/weibo?q=%23%E9%AA%91%E5%8F%8B%E5%A4%A7%E5%93%A5%E8%BF%99%E5%9B%9E%E8%AE%A4%E5%87%BA%E6%9D%A5%E5%90%B4%E7%A3%8A%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [西安五月天](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=7&Refer=top)<br />
 8. [警察称自己接触的缅北电诈者95%是自愿](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E7%A7%B0%E8%87%AA%E5%B7%B1%E6%8E%A5%E8%A7%A6%E7%9A%84%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E8%80%8595%25%E6%98%AF%E8%87%AA%E6%84%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [女生高考结束当天车祸身亡肇事者发声](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%BD%93%E5%A4%A9%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1%E8%82%87%E4%BA%8B%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [易烊千玺进组小小的我](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%BF%9B%E7%BB%84%E5%B0%8F%E5%B0%8F%E7%9A%84%E6%88%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
