@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 02:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 02:37:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [苹果发布会](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=4&Refer=top)<br />
 5. [鲁山县通报花700多万建牛郎织女雕塑](https://s.weibo.com/weibo?q=%23%E9%B2%81%E5%B1%B1%E5%8E%BF%E9%80%9A%E6%8A%A5%E8%8A%B1700%E5%A4%9A%E4%B8%87%E5%BB%BA%E7%89%9B%E9%83%8E%E7%BB%87%E5%A5%B3%E9%9B%95%E5%A1%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [内蒙古赤峰发生重大刑事案件](https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E8%B5%A4%E5%B3%B0%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [央八在干什么](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E5%85%AB%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [马立奥坐下那刻偶像剧都弱爆了](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%AB%8B%E5%A5%A5%E5%9D%90%E4%B8%8B%E9%82%A3%E5%88%BB%E5%81%B6%E5%83%8F%E5%89%A7%E9%83%BD%E5%BC%B1%E7%88%86%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+7. [马立奥坐下那刻偶像剧都弱爆了](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%AB%8B%E5%A5%A5%E5%9D%90%E4%B8%8B%E9%82%A3%E5%88%BB%E5%81%B6%E5%83%8F%E5%89%A7%E9%83%BD%E5%BC%B1%E7%88%86%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [央八在干什么](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E5%85%AB%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88%23&t=31&band_rank=8&Refer=top)<br />
 9. [中纪委再公布5名内鬼](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%86%8D%E5%85%AC%E5%B8%835%E5%90%8D%E5%86%85%E9%AC%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
