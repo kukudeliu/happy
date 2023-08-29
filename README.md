@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 14:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 14:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女生高考结束当天车祸身亡肇事者发声](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%BD%93%E5%A4%A9%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1%E8%82%87%E4%BA%8B%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本正采取卑劣手段对中国倒打一耙](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%AD%A3%E9%87%87%E5%8F%96%E5%8D%91%E5%8A%A3%E6%89%8B%E6%AE%B5%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%80%92%E6%89%93%E4%B8%80%E8%80%99%23&t=31&band_rank=7&Refer=top)<br />
 8. [易烊千玺进组小小的我](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%BF%9B%E7%BB%84%E5%B0%8F%E5%B0%8F%E7%9A%84%E6%88%91&t=31&band_rank=8&Refer=top)<br />
-9. [骄阳伴我定档](https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [西安五月天](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
