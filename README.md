@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 20:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 20:03:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [宋茜 我没事拍摄正常进行](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%20%E6%88%91%E6%B2%A1%E4%BA%8B%E6%8B%8D%E6%91%84%E6%AD%A3%E5%B8%B8%E8%BF%9B%E8%A1%8C&t=31&band_rank=5&Refer=top)<br />
 6. [宁安如梦](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6&t=31&band_rank=6&Refer=top)<br />
 7. [华为Mate60](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate60&t=31&band_rank=7&Refer=top)<br />
-8. [7岁弟弟帮上初中姐姐熟练包书皮](https://s.weibo.com/weibo?q=%237%E5%B2%81%E5%BC%9F%E5%BC%9F%E5%B8%AE%E4%B8%8A%E5%88%9D%E4%B8%AD%E5%A7%90%E5%A7%90%E7%86%9F%E7%BB%83%E5%8C%85%E4%B9%A6%E7%9A%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [上海40余人吃日料后上吐下泻](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B740%E4%BD%99%E4%BA%BA%E5%90%83%E6%97%A5%E6%96%99%E5%90%8E%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB%23&t=31&band_rank=9&Refer=top)<br />
+8. [上海40余人吃日料后上吐下泻](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B740%E4%BD%99%E4%BA%BA%E5%90%83%E6%97%A5%E6%96%99%E5%90%8E%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB%23&t=31&band_rank=8&Refer=top)<br />
+9. [中纪委再公布5名内鬼](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%86%8D%E5%85%AC%E5%B8%835%E5%90%8D%E5%86%85%E9%AC%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
