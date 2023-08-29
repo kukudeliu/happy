@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 18:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 18:18:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中纪委再公布5名内鬼](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%86%8D%E5%85%AC%E5%B8%835%E5%90%8D%E5%86%85%E9%AC%BC%23&t=31&band_rank=6&Refer=top)<br />
 7. [当代高中生有多勤俭节约](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A3%E9%AB%98%E4%B8%AD%E7%94%9F%E6%9C%89%E5%A4%9A%E5%8B%A4%E4%BF%AD%E8%8A%82%E7%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [你删我出品我删你联合出品](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%88%A0%E6%88%91%E5%87%BA%E5%93%81%E6%88%91%E5%88%A0%E4%BD%A0%E8%81%94%E5%90%88%E5%87%BA%E5%93%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [华为Mate60](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate60&t=31&band_rank=9&Refer=top)<br />
+9. [宁安如梦](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
