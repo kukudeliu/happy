@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 19:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 19:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [沪上阿姨水果茶仅5块西瓜4片凤梨](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E6%B0%B4%E6%9E%9C%E8%8C%B6%E4%BB%855%E5%9D%97%E8%A5%BF%E7%93%9C4%E7%89%87%E5%87%A4%E6%A2%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子东北自助扫码买到2元1个的西瓜](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%9C%E5%8C%97%E8%87%AA%E5%8A%A9%E6%89%AB%E7%A0%81%E4%B9%B0%E5%88%B02%E5%85%831%E4%B8%AA%E7%9A%84%E8%A5%BF%E7%93%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [宁安如梦](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6&t=31&band_rank=8&Refer=top)<br />
-9. [华为Mate60](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate60&t=31&band_rank=9&Refer=top)<br />
+9. [宋茜 我没事拍摄正常进行](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%20%E6%88%91%E6%B2%A1%E4%BA%8B%E6%8B%8D%E6%91%84%E6%AD%A3%E5%B8%B8%E8%BF%9B%E8%A1%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
