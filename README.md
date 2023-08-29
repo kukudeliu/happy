@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 21:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 21:10:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [西北旱情仍在持续：甘肃损失超21亿](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8C%97%E6%97%B1%E6%83%85%E4%BB%8D%E5%9C%A8%E6%8C%81%E7%BB%AD%EF%BC%9A%E7%94%98%E8%82%83%E6%8D%9F%E5%A4%B1%E8%B6%8521%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [内蒙古赤峰发生重大刑案](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E8%B5%A4%E5%B3%B0%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子路边烧纸祭祀遭大妈泼水驱逐](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AF%E8%BE%B9%E7%83%A7%E7%BA%B8%E7%A5%AD%E7%A5%80%E9%81%AD%E5%A4%A7%E5%A6%88%E6%B3%BC%E6%B0%B4%E9%A9%B1%E9%80%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [宋茜发文报平安](https://www.baidu.com/s?wd=%E5%AE%8B%E8%8C%9C%E5%8F%91%E6%96%87%E6%8A%A5%E5%B9%B3%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [沪上阿姨水果茶仅5块西瓜4片凤梨](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E6%B0%B4%E6%9E%9C%E8%8C%B6%E4%BB%855%E5%9D%97%E8%A5%BF%E7%93%9C4%E7%89%87%E5%87%A4%E6%A2%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [双胞胎妹妹神针出院了](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A6%B9%E5%A6%B9%E7%A5%9E%E9%92%88%E5%87%BA%E9%99%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [西北旱情仍在持续：甘肃损失超21亿](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8C%97%E6%97%B1%E6%83%85%E4%BB%8D%E5%9C%A8%E6%8C%81%E7%BB%AD%EF%BC%9A%E7%94%98%E8%82%83%E6%8D%9F%E5%A4%B1%E8%B6%8521%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [内蒙古赤峰发生重大刑案](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E8%B5%A4%E5%B3%B0%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子路边烧纸祭祀遭大妈泼水驱逐](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%AF%E8%BE%B9%E7%83%A7%E7%BA%B8%E7%A5%AD%E7%A5%80%E9%81%AD%E5%A4%A7%E5%A6%88%E6%B3%BC%E6%B0%B4%E9%A9%B1%E9%80%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [宋茜发文报平安](https://www.baidu.com/s?wd=%E5%AE%8B%E8%8C%9C%E5%8F%91%E6%96%87%E6%8A%A5%E5%B9%B3%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [沪上阿姨水果茶仅5块西瓜4片凤梨](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E6%B0%B4%E6%9E%9C%E8%8C%B6%E4%BB%855%E5%9D%97%E8%A5%BF%E7%93%9C4%E7%89%87%E5%87%A4%E6%A2%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [双胞胎妹妹神针出院了](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A6%B9%E5%A6%B9%E7%A5%9E%E9%92%88%E5%87%BA%E9%99%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
