@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 13:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 13:39:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [中国留美博士持枪袭击校园致1死](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E7%BE%8E%E5%8D%9A%E5%A3%AB%E6%8C%81%E6%9E%AA%E8%A2%AD%E5%87%BB%E6%A0%A1%E5%9B%AD%E8%87%B41%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡歌删博后发自拍](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%88%A0%E5%8D%9A%E5%90%8E%E5%8F%91%E8%87%AA%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [保时捷欲插队被拦数次顶撞保安](https://www.baidu.com/s?wd=%E4%BF%9D%E6%97%B6%E6%8D%B7%E6%AC%B2%E6%8F%92%E9%98%9F%E8%A2%AB%E6%8B%A6%E6%95%B0%E6%AC%A1%E9%A1%B6%E6%92%9E%E4%BF%9D%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度推迟中国专家签证审批](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%8E%A8%E8%BF%9F%E4%B8%AD%E5%9B%BD%E4%B8%93%E5%AE%B6%E7%AD%BE%E8%AF%81%E5%AE%A1%E6%89%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [青岛雪糕店主怒扔2万元日货](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E9%9B%AA%E7%B3%95%E5%BA%97%E4%B8%BB%E6%80%92%E6%89%942%E4%B8%87%E5%85%83%E6%97%A5%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [青岛雪糕店主怒扔2万元日货](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E9%9B%AA%E7%B3%95%E5%BA%97%E4%B8%BB%E6%80%92%E6%89%942%E4%B8%87%E5%85%83%E6%97%A5%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医药反腐下 揭秘医生的真实生活](https://www.baidu.com/s?wd=%E5%8C%BB%E8%8D%AF%E5%8F%8D%E8%85%90%E4%B8%8B+%E6%8F%AD%E7%A7%98%E5%8C%BB%E7%94%9F%E7%9A%84%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [中国留美博士持枪袭击校园致1死](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E7%BE%8E%E5%8D%9A%E5%A3%AB%E6%8C%81%E6%9E%AA%E8%A2%AD%E5%87%BB%E6%A0%A1%E5%9B%AD%E8%87%B41%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡歌删博后发自拍](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%88%A0%E5%8D%9A%E5%90%8E%E5%8F%91%E8%87%AA%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [保时捷欲插队被拦数次顶撞保安](https://www.baidu.com/s?wd=%E4%BF%9D%E6%97%B6%E6%8D%B7%E6%AC%B2%E6%8F%92%E9%98%9F%E8%A2%AB%E6%8B%A6%E6%95%B0%E6%AC%A1%E9%A1%B6%E6%92%9E%E4%BF%9D%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度推迟中国专家签证审批](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%8E%A8%E8%BF%9F%E4%B8%AD%E5%9B%BD%E4%B8%93%E5%AE%B6%E7%AD%BE%E8%AF%81%E5%AE%A1%E6%89%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [青岛雪糕店主怒扔2万元日货](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E9%9B%AA%E7%B3%95%E5%BA%97%E4%B8%BB%E6%80%92%E6%89%942%E4%B8%87%E5%85%83%E6%97%A5%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [青岛雪糕店主怒扔2万元日货](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E9%9B%AA%E7%B3%95%E5%BA%97%E4%B8%BB%E6%80%92%E6%89%942%E4%B8%87%E5%85%83%E6%97%A5%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医药反腐下 揭秘医生的真实生活](https://www.baidu.com/s?wd=%E5%8C%BB%E8%8D%AF%E5%8F%8D%E8%85%90%E4%B8%8B+%E6%8F%AD%E7%A7%98%E5%8C%BB%E7%94%9F%E7%9A%84%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
