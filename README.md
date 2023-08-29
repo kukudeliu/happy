@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 23:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 23:58:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [乐嘉还原“太监事件”真相](https://www.baidu.com/s?wd=%E4%B9%90%E5%98%89%E8%BF%98%E5%8E%9F%E2%80%9C%E5%A4%AA%E7%9B%91%E4%BA%8B%E4%BB%B6%E2%80%9D%E7%9C%9F%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [辽宁一地城管没收冥纸？当地回应](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%9C%B0%E5%9F%8E%E7%AE%A1%E6%B2%A1%E6%94%B6%E5%86%A5%E7%BA%B8%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [胡歌早F晚E](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%97%A9F%E6%99%9AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宋茜发文报平安](https://www.baidu.com/s?wd=%E5%AE%8B%E8%8C%9C%E5%8F%91%E6%96%87%E6%8A%A5%E5%B9%B3%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [华为5G回归纪念金币曝光](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA5G%E5%9B%9E%E5%BD%92%E7%BA%AA%E5%BF%B5%E9%87%91%E5%B8%81%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [乐嘉还原“太监事件”真相](https://www.baidu.com/s?wd=%E4%B9%90%E5%98%89%E8%BF%98%E5%8E%9F%E2%80%9C%E5%A4%AA%E7%9B%91%E4%BA%8B%E4%BB%B6%E2%80%9D%E7%9C%9F%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [辽宁一地城管没收冥纸？当地回应](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%9C%B0%E5%9F%8E%E7%AE%A1%E6%B2%A1%E6%94%B6%E5%86%A5%E7%BA%B8%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [胡歌早F晚E](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%97%A9F%E6%99%9AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宋茜发文报平安](https://www.baidu.com/s?wd=%E5%AE%8B%E8%8C%9C%E5%8F%91%E6%96%87%E6%8A%A5%E5%B9%B3%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [华为5G回归纪念金币曝光](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA5G%E5%9B%9E%E5%BD%92%E7%BA%AA%E5%BF%B5%E9%87%91%E5%B8%81%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
