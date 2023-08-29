@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 12:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 12:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宋亚轩王牌对王牌路透](https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%E8%B7%AF%E9%80%8F&t=31&band_rank=6&Refer=top)<br />
 7. [董明珠自曝70岁没保养](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E8%87%AA%E6%9B%9D70%E5%B2%81%E6%B2%A1%E4%BF%9D%E5%85%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [易烊千玺实体专](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%AE%9E%E4%BD%93%E4%B8%93&t=31&band_rank=8&Refer=top)<br />
-9. [同年同月同日生同专业同班同宿舍](https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%B9%B4%E5%90%8C%E6%9C%88%E5%90%8C%E6%97%A5%E7%94%9F%E5%90%8C%E4%B8%93%E4%B8%9A%E5%90%8C%E7%8F%AD%E5%90%8C%E5%AE%BF%E8%88%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [遭嫌疑人开车碾压经4次开颅民警归队了](https://s.weibo.com/weibo?q=%23%E9%81%AD%E5%AB%8C%E7%96%91%E4%BA%BA%E5%BC%80%E8%BD%A6%E7%A2%BE%E5%8E%8B%E7%BB%8F4%E6%AC%A1%E5%BC%80%E9%A2%85%E6%B0%91%E8%AD%A6%E5%BD%92%E9%98%9F%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
