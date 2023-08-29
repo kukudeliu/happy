@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 08:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 08:16:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子收到儿子饭卡消费记录后泪奔](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%94%B6%E5%88%B0%E5%84%BF%E5%AD%90%E9%A5%AD%E5%8D%A1%E6%B6%88%E8%B4%B9%E8%AE%B0%E5%BD%95%E5%90%8E%E6%B3%AA%E5%A5%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [夭玹 改写结局](https://s.weibo.com/weibo?q=%E5%A4%AD%E7%8E%B9%20%E6%94%B9%E5%86%99%E7%BB%93%E5%B1%80&t=31&band_rank=7&Refer=top)<br />
 8. [赵本山的新剧很讽刺](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E7%9A%84%E6%96%B0%E5%89%A7%E5%BE%88%E8%AE%BD%E5%88%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [全性转版封神第一部](https://s.weibo.com/weibo?q=%E5%85%A8%E6%80%A7%E8%BD%AC%E7%89%88%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%B8%80%E9%83%A8&t=31&band_rank=9&Refer=top)<br />
+9. [大量日本骚扰电话打进我驻日使领馆](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%87%8F%E6%97%A5%E6%9C%AC%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D%E6%89%93%E8%BF%9B%E6%88%91%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A2%86%E9%A6%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
