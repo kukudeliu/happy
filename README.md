@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 05:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 05:54:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [内蒙古赤峰发生重大刑案](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E8%B5%A4%E5%B3%B0%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [乐嘉还原“太监事件”真相](https://www.baidu.com/s?wd=%E4%B9%90%E5%98%89%E8%BF%98%E5%8E%9F%E2%80%9C%E5%A4%AA%E7%9B%91%E4%BA%8B%E4%BB%B6%E2%80%9D%E7%9C%9F%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子捡到金手链丢弃被判赔8376](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8D%A1%E5%88%B0%E9%87%91%E6%89%8B%E9%93%BE%E4%B8%A2%E5%BC%83%E8%A2%AB%E5%88%A4%E8%B5%948376&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国游客赴日意愿下降 日本业界担心](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%B5%B4%E6%97%A5%E6%84%8F%E6%84%BF%E4%B8%8B%E9%99%8D+%E6%97%A5%E6%9C%AC%E4%B8%9A%E7%95%8C%E6%8B%85%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学生踩砖头走泥路入校 学校回应](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%B8%A9%E7%A0%96%E5%A4%B4%E8%B5%B0%E6%B3%A5%E8%B7%AF%E5%85%A5%E6%A0%A1+%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [内蒙古赤峰发生重大刑案](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E8%B5%A4%E5%B3%B0%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [乐嘉还原“太监事件”真相](https://www.baidu.com/s?wd=%E4%B9%90%E5%98%89%E8%BF%98%E5%8E%9F%E2%80%9C%E5%A4%AA%E7%9B%91%E4%BA%8B%E4%BB%B6%E2%80%9D%E7%9C%9F%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子捡到金手链丢弃被判赔8376](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8D%A1%E5%88%B0%E9%87%91%E6%89%8B%E9%93%BE%E4%B8%A2%E5%BC%83%E8%A2%AB%E5%88%A4%E8%B5%948376&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国游客赴日意愿下降 日本业界担心](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%B5%B4%E6%97%A5%E6%84%8F%E6%84%BF%E4%B8%8B%E9%99%8D+%E6%97%A5%E6%9C%AC%E4%B8%9A%E7%95%8C%E6%8B%85%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学生踩砖头走泥路入校 学校回应](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%B8%A9%E7%A0%96%E5%A4%B4%E8%B5%B0%E6%B3%A5%E8%B7%AF%E5%85%A5%E6%A0%A1+%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
