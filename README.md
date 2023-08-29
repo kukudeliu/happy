@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 01:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 01:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [内蒙古赤峰发生重大刑事案件](https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E8%B5%A4%E5%B3%B0%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [腾讯爱奇艺和好了](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E7%88%B1%E5%A5%87%E8%89%BA%E5%92%8C%E5%A5%BD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [中美商务部长谈了4个半小时](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E8%B0%88%E4%BA%864%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [张晚意的两个妹妹有点像啊](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E7%9A%84%E4%B8%A4%E4%B8%AA%E5%A6%B9%E5%A6%B9%E6%9C%89%E7%82%B9%E5%83%8F%E5%95%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [马立奥坐下那刻偶像剧都弱爆了](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%AB%8B%E5%A5%A5%E5%9D%90%E4%B8%8B%E9%82%A3%E5%88%BB%E5%81%B6%E5%83%8F%E5%89%A7%E9%83%BD%E5%BC%B1%E7%88%86%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
