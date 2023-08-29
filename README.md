@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 17:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 17:16:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [中超公司董事长刘军被带走调查](https://www.baidu.com/s?wd=%E4%B8%AD%E8%B6%85%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF%E5%88%98%E5%86%9B%E8%A2%AB%E5%B8%A6%E8%B5%B0%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [广州珠江水面现鱼群齐游](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E7%8F%A0%E6%B1%9F%E6%B0%B4%E9%9D%A2%E7%8E%B0%E9%B1%BC%E7%BE%A4%E9%BD%90%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国地图一点都不能错](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE%E4%B8%80%E7%82%B9%E9%83%BD%E4%B8%8D%E8%83%BD%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [日本驻华使馆被扔砖头？外交部回应](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A9%BB%E5%8D%8E%E4%BD%BF%E9%A6%86%E8%A2%AB%E6%89%94%E7%A0%96%E5%A4%B4%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [内蒙古致53死矿难调查报告公布](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E8%87%B453%E6%AD%BB%E7%9F%BF%E9%9A%BE%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杰尼斯承认喜多川性侵](https://www.baidu.com/s?wd=%E6%9D%B0%E5%B0%BC%E6%96%AF%E6%89%BF%E8%AE%A4%E5%96%9C%E5%A4%9A%E5%B7%9D%E6%80%A7%E4%BE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [学生趴桌午休也收费 官方：收费合理](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%B6%B4%E6%A1%8C%E5%8D%88%E4%BC%91%E4%B9%9F%E6%94%B6%E8%B4%B9+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%94%B6%E8%B4%B9%E5%90%88%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [元宇宙沉浸式逛街](https://www.baidu.com/s?wd=%E5%85%83%E5%AE%87%E5%AE%99%E6%B2%89%E6%B5%B8%E5%BC%8F%E9%80%9B%E8%A1%97&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [中超公司董事长刘军被带走调查](https://www.baidu.com/s?wd=%E4%B8%AD%E8%B6%85%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF%E5%88%98%E5%86%9B%E8%A2%AB%E5%B8%A6%E8%B5%B0%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [广州珠江水面现鱼群齐游](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E7%8F%A0%E6%B1%9F%E6%B0%B4%E9%9D%A2%E7%8E%B0%E9%B1%BC%E7%BE%A4%E9%BD%90%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国地图一点都不能错](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE%E4%B8%80%E7%82%B9%E9%83%BD%E4%B8%8D%E8%83%BD%E9%94%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [日本驻华使馆被扔砖头？外交部回应](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A9%BB%E5%8D%8E%E4%BD%BF%E9%A6%86%E8%A2%AB%E6%89%94%E7%A0%96%E5%A4%B4%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [内蒙古致53死矿难调查报告公布](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E8%87%B453%E6%AD%BB%E7%9F%BF%E9%9A%BE%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杰尼斯承认喜多川性侵](https://www.baidu.com/s?wd=%E6%9D%B0%E5%B0%BC%E6%96%AF%E6%89%BF%E8%AE%A4%E5%96%9C%E5%A4%9A%E5%B7%9D%E6%80%A7%E4%BE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [学生趴桌午休也收费 官方：收费合理](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%B6%B4%E6%A1%8C%E5%8D%88%E4%BC%91%E4%B9%9F%E6%94%B6%E8%B4%B9+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%94%B6%E8%B4%B9%E5%90%88%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [元宇宙沉浸式逛街](https://www.baidu.com/s?wd=%E5%85%83%E5%AE%87%E5%AE%99%E6%B2%89%E6%B5%B8%E5%BC%8F%E9%80%9B%E8%A1%97&sa=fyb_news&rsv_dl=fyb_news)<br />
