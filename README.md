@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 23:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 23:59:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [乐嘉还原“太监事件”真相](https://www.baidu.com/s?wd=%E4%B9%90%E5%98%89%E8%BF%98%E5%8E%9F%E2%80%9C%E5%A4%AA%E7%9B%91%E4%BA%8B%E4%BB%B6%E2%80%9D%E7%9C%9F%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [辽宁一地城管没收冥纸？当地回应](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%9C%B0%E5%9F%8E%E7%AE%A1%E6%B2%A1%E6%94%B6%E5%86%A5%E7%BA%B8%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [胡歌早F晚E](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%97%A9F%E6%99%9AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [华为5G回归纪念金币曝光](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA5G%E5%9B%9E%E5%BD%92%E7%BA%AA%E5%BF%B5%E9%87%91%E5%B8%81%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [外交部敦促日方保障在日中国人安全](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%95%A6%E4%BF%83%E6%97%A5%E6%96%B9%E4%BF%9D%E9%9A%9C%E5%9C%A8%E6%97%A5%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AE%89%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [乐嘉还原“太监事件”真相](https://www.baidu.com/s?wd=%E4%B9%90%E5%98%89%E8%BF%98%E5%8E%9F%E2%80%9C%E5%A4%AA%E7%9B%91%E4%BA%8B%E4%BB%B6%E2%80%9D%E7%9C%9F%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [辽宁一地城管没收冥纸？当地回应](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%9C%B0%E5%9F%8E%E7%AE%A1%E6%B2%A1%E6%94%B6%E5%86%A5%E7%BA%B8%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [胡歌早F晚E](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%97%A9F%E6%99%9AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [华为5G回归纪念金币曝光](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA5G%E5%9B%9E%E5%BD%92%E7%BA%AA%E5%BF%B5%E9%87%91%E5%B8%81%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [外交部敦促日方保障在日中国人安全](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%95%A6%E4%BF%83%E6%97%A5%E6%96%B9%E4%BF%9D%E9%9A%9C%E5%9C%A8%E6%97%A5%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AE%89%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
