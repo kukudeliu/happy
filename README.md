@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 09:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 09:09:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [胡歌深夜发文称对不起好多人](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%B7%B1%E5%A4%9C%E5%8F%91%E6%96%87%E7%A7%B0%E5%AF%B9%E4%B8%8D%E8%B5%B7%E5%A5%BD%E5%A4%9A%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [考驾照一定要花钱挨骂吗](https://www.baidu.com/s?wd=%E8%80%83%E9%A9%BE%E7%85%A7%E4%B8%80%E5%AE%9A%E8%A6%81%E8%8A%B1%E9%92%B1%E6%8C%A8%E9%AA%82%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国民众给日本打骚扰电话?中方回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%BC%97%E7%BB%99%E6%97%A5%E6%9C%AC%E6%89%93%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D%3F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [民警在足浴店打残疾人 当地调查](https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A6%E5%9C%A8%E8%B6%B3%E6%B5%B4%E5%BA%97%E6%89%93%E6%AE%8B%E7%96%BE%E4%BA%BA+%E5%BD%93%E5%9C%B0%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [我国拟立学位法](https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E5%AD%A6%E4%BD%8D%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [胡歌深夜发文称对不起好多人](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%B7%B1%E5%A4%9C%E5%8F%91%E6%96%87%E7%A7%B0%E5%AF%B9%E4%B8%8D%E8%B5%B7%E5%A5%BD%E5%A4%9A%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [考驾照一定要花钱挨骂吗](https://www.baidu.com/s?wd=%E8%80%83%E9%A9%BE%E7%85%A7%E4%B8%80%E5%AE%9A%E8%A6%81%E8%8A%B1%E9%92%B1%E6%8C%A8%E9%AA%82%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国民众给日本打骚扰电话?中方回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%BC%97%E7%BB%99%E6%97%A5%E6%9C%AC%E6%89%93%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D%3F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [民警在足浴店打残疾人 当地调查](https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A6%E5%9C%A8%E8%B6%B3%E6%B5%B4%E5%BA%97%E6%89%93%E6%AE%8B%E7%96%BE%E4%BA%BA+%E5%BD%93%E5%9C%B0%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [我国拟立学位法](https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E5%AD%A6%E4%BD%8D%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
