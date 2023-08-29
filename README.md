@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 20:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 20:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [华为Mate60](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate60&t=31&band_rank=6&Refer=top)<br />
 7. [宁安如梦](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6&t=31&band_rank=7&Refer=top)<br />
 8. [华为](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA&t=31&band_rank=8&Refer=top)<br />
-9. [上海40余人吃日料后上吐下泻](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B740%E4%BD%99%E4%BA%BA%E5%90%83%E6%97%A5%E6%96%99%E5%90%8E%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [中纪委再公布5名内鬼](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%86%8D%E5%85%AC%E5%B8%835%E5%90%8D%E5%86%85%E9%AC%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
