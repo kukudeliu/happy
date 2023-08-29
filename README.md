@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 09:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 09:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [警方通报足浴店故意伤害案](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E8%B6%B3%E6%B5%B4%E5%BA%97%E6%95%85%E6%84%8F%E4%BC%A4%E5%AE%B3%E6%A1%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [笔记本一直插着电源使用比较好](https://s.weibo.com/weibo?q=%E7%AC%94%E8%AE%B0%E6%9C%AC%E4%B8%80%E7%9B%B4%E6%8F%92%E7%9D%80%E7%94%B5%E6%BA%90%E4%BD%BF%E7%94%A8%E6%AF%94%E8%BE%83%E5%A5%BD&t=31&band_rank=7&Refer=top)<br />
 8. [男子收到儿子饭卡消费记录后泪奔](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%94%B6%E5%88%B0%E5%84%BF%E5%AD%90%E9%A5%AD%E5%8D%A1%E6%B6%88%E8%B4%B9%E8%AE%B0%E5%BD%95%E5%90%8E%E6%B3%AA%E5%A5%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [夭玹 改写结局](https://s.weibo.com/weibo?q=%E5%A4%AD%E7%8E%B9%20%E6%94%B9%E5%86%99%E7%BB%93%E5%B1%80&t=31&band_rank=9&Refer=top)<br />
+9. [你什么档次跟国宝一个飞机](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%80%E4%B9%88%E6%A1%A3%E6%AC%A1%E8%B7%9F%E5%9B%BD%E5%AE%9D%E4%B8%80%E4%B8%AA%E9%A3%9E%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
