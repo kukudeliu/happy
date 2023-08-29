@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 12:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 12:51:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [骄阳伴我定档](https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [遭嫌疑人开车碾压经4次开颅民警归队了](https://s.weibo.com/weibo?q=%23%E9%81%AD%E5%AB%8C%E7%96%91%E4%BA%BA%E5%BC%80%E8%BD%A6%E7%A2%BE%E5%8E%8B%E7%BB%8F4%E6%AC%A1%E5%BC%80%E9%A2%85%E6%B0%91%E8%AD%A6%E5%BD%92%E9%98%9F%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [董明珠自曝70岁没保养](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E8%87%AA%E6%9B%9D70%E5%B2%81%E6%B2%A1%E4%BF%9D%E5%85%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [奥本海默](https://s.weibo.com/weibo?q=%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98&t=31&band_rank=9&Refer=top)<br />
+9. [微笑pasta现在看还是好甜](https://s.weibo.com/weibo?q=%E5%BE%AE%E7%AC%91pasta%E7%8E%B0%E5%9C%A8%E7%9C%8B%E8%BF%98%E6%98%AF%E5%A5%BD%E7%94%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
