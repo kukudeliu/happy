@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 05:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 05:49:02</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [开学季被这些迎新方式打动了](https://www.baidu.com/s?wd=%E5%BC%80%E5%AD%A6%E5%AD%A3%E8%A2%AB%E8%BF%99%E4%BA%9B%E8%BF%8E%E6%96%B0%E6%96%B9%E5%BC%8F%E6%89%93%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨水果茶仅5块西瓜4片凤梨](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E6%B0%B4%E6%9E%9C%E8%8C%B6%E4%BB%855%E5%9D%97%E8%A5%BF%E7%93%9C4%E7%89%87%E5%87%A4%E6%A2%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [内蒙古赤峰发生重大刑案](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E8%B5%A4%E5%B3%B0%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子捡到金手链丢弃被判赔8376](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8D%A1%E5%88%B0%E9%87%91%E6%89%8B%E9%93%BE%E4%B8%A2%E5%BC%83%E8%A2%AB%E5%88%A4%E8%B5%948376&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乐嘉还原“太监事件”真相](https://www.baidu.com/s?wd=%E4%B9%90%E5%98%89%E8%BF%98%E5%8E%9F%E2%80%9C%E5%A4%AA%E7%9B%91%E4%BA%8B%E4%BB%B6%E2%80%9D%E7%9C%9F%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本驻华使馆被扔砖头？外交部回应](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A9%BB%E5%8D%8E%E4%BD%BF%E9%A6%86%E8%A2%AB%E6%89%94%E7%A0%96%E5%A4%B4%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乐嘉还原“太监事件”真相](https://www.baidu.com/s?wd=%E4%B9%90%E5%98%89%E8%BF%98%E5%8E%9F%E2%80%9C%E5%A4%AA%E7%9B%91%E4%BA%8B%E4%BB%B6%E2%80%9D%E7%9C%9F%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子捡到金手链丢弃被判赔8376](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8D%A1%E5%88%B0%E9%87%91%E6%89%8B%E9%93%BE%E4%B8%A2%E5%BC%83%E8%A2%AB%E5%88%A4%E8%B5%948376&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国游客赴日意愿下降 日本业界担心](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%B5%B4%E6%97%A5%E6%84%8F%E6%84%BF%E4%B8%8B%E9%99%8D+%E6%97%A5%E6%9C%AC%E4%B8%9A%E7%95%8C%E6%8B%85%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [开学季被这些迎新方式打动了](https://www.baidu.com/s?wd=%E5%BC%80%E5%AD%A6%E5%AD%A3%E8%A2%AB%E8%BF%99%E4%BA%9B%E8%BF%8E%E6%96%B0%E6%96%B9%E5%BC%8F%E6%89%93%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [沪上阿姨水果茶仅5块西瓜4片凤梨](https://www.baidu.com/s?wd=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E6%B0%B4%E6%9E%9C%E8%8C%B6%E4%BB%855%E5%9D%97%E8%A5%BF%E7%93%9C4%E7%89%87%E5%87%A4%E6%A2%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [内蒙古赤峰发生重大刑案](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E8%B5%A4%E5%B3%B0%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子捡到金手链丢弃被判赔8376](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8D%A1%E5%88%B0%E9%87%91%E6%89%8B%E9%93%BE%E4%B8%A2%E5%BC%83%E8%A2%AB%E5%88%A4%E8%B5%948376&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乐嘉还原“太监事件”真相](https://www.baidu.com/s?wd=%E4%B9%90%E5%98%89%E8%BF%98%E5%8E%9F%E2%80%9C%E5%A4%AA%E7%9B%91%E4%BA%8B%E4%BB%B6%E2%80%9D%E7%9C%9F%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本驻华使馆被扔砖头？外交部回应](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A9%BB%E5%8D%8E%E4%BD%BF%E9%A6%86%E8%A2%AB%E6%89%94%E7%A0%96%E5%A4%B4%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乐嘉还原“太监事件”真相](https://www.baidu.com/s?wd=%E4%B9%90%E5%98%89%E8%BF%98%E5%8E%9F%E2%80%9C%E5%A4%AA%E7%9B%91%E4%BA%8B%E4%BB%B6%E2%80%9D%E7%9C%9F%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子捡到金手链丢弃被判赔8376](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8D%A1%E5%88%B0%E9%87%91%E6%89%8B%E9%93%BE%E4%B8%A2%E5%BC%83%E8%A2%AB%E5%88%A4%E8%B5%948376&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国游客赴日意愿下降 日本业界担心](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%B5%B4%E6%97%A5%E6%84%8F%E6%84%BF%E4%B8%8B%E9%99%8D+%E6%97%A5%E6%9C%AC%E4%B8%9A%E7%95%8C%E6%8B%85%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
