@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 13:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 13:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女生高考结束当天车祸身亡肇事者发声](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%BD%93%E5%A4%A9%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1%E8%82%87%E4%BA%8B%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [易烊千玺进组小小的我](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%BF%9B%E7%BB%84%E5%B0%8F%E5%B0%8F%E7%9A%84%E6%88%91&t=31&band_rank=7&Refer=top)<br />
 8. [骄阳伴我定档](https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [微笑pasta现在看还是好甜](https://s.weibo.com/weibo?q=%E5%BE%AE%E7%AC%91pasta%E7%8E%B0%E5%9C%A8%E7%9C%8B%E8%BF%98%E6%98%AF%E5%A5%BD%E7%94%9C&t=31&band_rank=9&Refer=top)<br />
+9. [封神全员性转的吸引力](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E5%85%A8%E5%91%98%E6%80%A7%E8%BD%AC%E7%9A%84%E5%90%B8%E5%BC%95%E5%8A%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
