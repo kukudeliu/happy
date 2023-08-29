@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 20:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 20:19:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [上海40余人吃日料后上吐下泻](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B740%E4%BD%99%E4%BA%BA%E5%90%83%E6%97%A5%E6%96%99%E5%90%8E%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [双胞胎妹妹神针出院了](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A6%B9%E5%A6%B9%E7%A5%9E%E9%92%88%E5%87%BA%E9%99%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [元宇宙沉浸式逛街](https://www.baidu.com/s?wd=%E5%85%83%E5%AE%87%E5%AE%99%E6%B2%89%E6%B5%B8%E5%BC%8F%E9%80%9B%E8%A1%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国游客赴日意愿下降 日本业界担心](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%B5%B4%E6%97%A5%E6%84%8F%E6%84%BF%E4%B8%8B%E9%99%8D+%E6%97%A5%E6%9C%AC%E4%B8%9A%E7%95%8C%E6%8B%85%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [宋茜发文报平安](https://www.baidu.com/s?wd=%E5%AE%8B%E8%8C%9C%E5%8F%91%E6%96%87%E6%8A%A5%E5%B9%B3%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [上海40余人吃日料后上吐下泻](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B740%E4%BD%99%E4%BA%BA%E5%90%83%E6%97%A5%E6%96%99%E5%90%8E%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [双胞胎妹妹神针出院了](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A6%B9%E5%A6%B9%E7%A5%9E%E9%92%88%E5%87%BA%E9%99%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [元宇宙沉浸式逛街](https://www.baidu.com/s?wd=%E5%85%83%E5%AE%87%E5%AE%99%E6%B2%89%E6%B5%B8%E5%BC%8F%E9%80%9B%E8%A1%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国游客赴日意愿下降 日本业界担心](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%B5%B4%E6%97%A5%E6%84%8F%E6%84%BF%E4%B8%8B%E9%99%8D+%E6%97%A5%E6%9C%AC%E4%B8%9A%E7%95%8C%E6%8B%85%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [宋茜发文报平安](https://www.baidu.com/s?wd=%E5%AE%8B%E8%8C%9C%E5%8F%91%E6%96%87%E6%8A%A5%E5%B9%B3%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
