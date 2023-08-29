@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 07:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 07:28:01</h4></div>
 
 > 微博  
 
-1. [易建联退役](https://s.weibo.com/weibo?q=%23%E6%98%93%E5%BB%BA%E8%81%94%E9%80%80%E5%BD%B9%23&t=31&band_rank=1&Refer=top)<br />
-2. [华为](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA&t=31&band_rank=2&Refer=top)<br />
+1. [华为](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA&t=31&band_rank=1&Refer=top)<br />
+2. [易建联退役](https://s.weibo.com/weibo?q=%23%E6%98%93%E5%BB%BA%E8%81%94%E9%80%80%E5%BD%B9%23&t=31&band_rank=2&Refer=top)<br />
 3. [地图一点一线都代表祖国大好山河](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E5%9B%BE%E4%B8%80%E7%82%B9%E4%B8%80%E7%BA%BF%E9%83%BD%E4%BB%A3%E8%A1%A8%E7%A5%96%E5%9B%BD%E5%A4%A7%E5%A5%BD%E5%B1%B1%E6%B2%B3%23&t=31&band_rank=3&Refer=top)<br />
 4. [内蒙古赤峰发生重大刑事案件](https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E8%B5%A4%E5%B3%B0%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [中元节](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%85%83%E8%8A%82&t=31&band_rank=5&Refer=top)<br />
