@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 08:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 08:43:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [谁在俞灏明旁边打呼噜](https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%9C%A8%E4%BF%9E%E7%81%8F%E6%98%8E%E6%97%81%E8%BE%B9%E6%89%93%E5%91%BC%E5%99%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [2岁男孩走丢告诉民警我爸爸叫妈妈妈妈叫爸爸](https://s.weibo.com/weibo?q=%232%E5%B2%81%E7%94%B7%E5%AD%A9%E8%B5%B0%E4%B8%A2%E5%91%8A%E8%AF%89%E6%B0%91%E8%AD%A6%E6%88%91%E7%88%B8%E7%88%B8%E5%8F%AB%E5%A6%88%E5%A6%88%E5%A6%88%E5%A6%88%E5%8F%AB%E7%88%B8%E7%88%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [笔记本一直插着电源使用比较好](https://s.weibo.com/weibo?q=%E7%AC%94%E8%AE%B0%E6%9C%AC%E4%B8%80%E7%9B%B4%E6%8F%92%E7%9D%80%E7%94%B5%E6%BA%90%E4%BD%BF%E7%94%A8%E6%AF%94%E8%BE%83%E5%A5%BD&t=31&band_rank=7&Refer=top)<br />
-8. [男子收到儿子饭卡消费记录后泪奔](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%94%B6%E5%88%B0%E5%84%BF%E5%AD%90%E9%A5%AD%E5%8D%A1%E6%B6%88%E8%B4%B9%E8%AE%B0%E5%BD%95%E5%90%8E%E6%B3%AA%E5%A5%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [警方通报足浴店故意伤害案](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E8%B6%B3%E6%B5%B4%E5%BA%97%E6%95%85%E6%84%8F%E4%BC%A4%E5%AE%B3%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
+8. [警方通报足浴店故意伤害案](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E8%B6%B3%E6%B5%B4%E5%BA%97%E6%95%85%E6%84%8F%E4%BC%A4%E5%AE%B3%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [男子收到儿子饭卡消费记录后泪奔](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%94%B6%E5%88%B0%E5%84%BF%E5%AD%90%E9%A5%AD%E5%8D%A1%E6%B6%88%E8%B4%B9%E8%AE%B0%E5%BD%95%E5%90%8E%E6%B3%AA%E5%A5%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,9 +23,9 @@
 4. [奏响金砖声音](https://www.baidu.com/s?wd=%E5%A5%8F%E5%93%8D%E9%87%91%E7%A0%96%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [日本一饭店招牌歧视中国人?博主报警](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E9%A5%AD%E5%BA%97%E6%8B%9B%E7%89%8C%E6%AD%A7%E8%A7%86%E4%B8%AD%E5%9B%BD%E4%BA%BA%3F%E5%8D%9A%E4%B8%BB%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡歌深夜发文称对不起好多人](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%B7%B1%E5%A4%9C%E5%8F%91%E6%96%87%E7%A7%B0%E5%AF%B9%E4%B8%8D%E8%B5%B7%E5%A5%BD%E5%A4%9A%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子撞断绿化树枝被索赔8000](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%92%9E%E6%96%AD%E7%BB%BF%E5%8C%96%E6%A0%91%E6%9E%9D%E8%A2%AB%E7%B4%A2%E8%B5%948000&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马斯克直播自动驾驶去扎克伯格家](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9B%B4%E6%92%AD%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%8E%BB%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩总统尹锡悦高调吃海鲜午餐](https://www.baidu.com/s?wd=%E9%9F%A9%E6%80%BB%E7%BB%9F%E5%B0%B9%E9%94%A1%E6%82%A6%E9%AB%98%E8%B0%83%E5%90%83%E6%B5%B7%E9%B2%9C%E5%8D%88%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [考驾照一定要花钱挨骂吗](https://www.baidu.com/s?wd=%E8%80%83%E9%A9%BE%E7%85%A7%E4%B8%80%E5%AE%9A%E8%A6%81%E8%8A%B1%E9%92%B1%E6%8C%A8%E9%AA%82%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子撞断绿化树枝被索赔8000](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%92%9E%E6%96%AD%E7%BB%BF%E5%8C%96%E6%A0%91%E6%9E%9D%E8%A2%AB%E7%B4%A2%E8%B5%948000&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [县政府被问天价雕塑连回6个不知道](https://www.baidu.com/s?wd=%E5%8E%BF%E6%94%BF%E5%BA%9C%E8%A2%AB%E9%97%AE%E5%A4%A9%E4%BB%B7%E9%9B%95%E5%A1%91%E8%BF%9E%E5%9B%9E6%E4%B8%AA%E4%B8%8D%E7%9F%A5%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [奏响金砖声音](https://www.baidu.com/s?wd=%E5%A5%8F%E5%93%8D%E9%87%91%E7%A0%96%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [日本一饭店招牌歧视中国人?博主报警](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E9%A5%AD%E5%BA%97%E6%8B%9B%E7%89%8C%E6%AD%A7%E8%A7%86%E4%B8%AD%E5%9B%BD%E4%BA%BA%3F%E5%8D%9A%E4%B8%BB%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡歌深夜发文称对不起好多人](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E6%B7%B1%E5%A4%9C%E5%8F%91%E6%96%87%E7%A7%B0%E5%AF%B9%E4%B8%8D%E8%B5%B7%E5%A5%BD%E5%A4%9A%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子撞断绿化树枝被索赔8000](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%92%9E%E6%96%AD%E7%BB%BF%E5%8C%96%E6%A0%91%E6%9E%9D%E8%A2%AB%E7%B4%A2%E8%B5%948000&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马斯克直播自动驾驶去扎克伯格家](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9B%B4%E6%92%AD%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%8E%BB%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩总统尹锡悦高调吃海鲜午餐](https://www.baidu.com/s?wd=%E9%9F%A9%E6%80%BB%E7%BB%9F%E5%B0%B9%E9%94%A1%E6%82%A6%E9%AB%98%E8%B0%83%E5%90%83%E6%B5%B7%E9%B2%9C%E5%8D%88%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [考驾照一定要花钱挨骂吗](https://www.baidu.com/s?wd=%E8%80%83%E9%A9%BE%E7%85%A7%E4%B8%80%E5%AE%9A%E8%A6%81%E8%8A%B1%E9%92%B1%E6%8C%A8%E9%AA%82%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子撞断绿化树枝被索赔8000](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%92%9E%E6%96%AD%E7%BB%BF%E5%8C%96%E6%A0%91%E6%9E%9D%E8%A2%AB%E7%B4%A2%E8%B5%948000&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [县政府被问天价雕塑连回6个不知道](https://www.baidu.com/s?wd=%E5%8E%BF%E6%94%BF%E5%BA%9C%E8%A2%AB%E9%97%AE%E5%A4%A9%E4%BB%B7%E9%9B%95%E5%A1%91%E8%BF%9E%E5%9B%9E6%E4%B8%AA%E4%B8%8D%E7%9F%A5%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
