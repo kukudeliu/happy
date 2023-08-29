@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 22:20:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 22:21:02</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [内蒙古赤峰发生重大刑事案件](https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E8%B5%A4%E5%B3%B0%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚运村里的江浙菜品有多馋人](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E6%9D%91%E9%87%8C%E7%9A%84%E6%B1%9F%E6%B5%99%E8%8F%9C%E5%93%81%E6%9C%89%E5%A4%9A%E9%A6%8B%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [科学家建议孕期不要吃这些](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%AD%95%E6%9C%9F%E4%B8%8D%E8%A6%81%E5%90%83%E8%BF%99%E4%BA%9B%23&t=31&band_rank=4&Refer=top)<br />
-5. [腾讯爱奇艺和好了](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E7%88%B1%E5%A5%87%E8%89%BA%E5%92%8C%E5%A5%BD%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [华为](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA&t=31&band_rank=6&Refer=top)<br />
+5. [华为](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA&t=31&band_rank=5&Refer=top)<br />
+6. [腾讯爱奇艺和好了](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E7%88%B1%E5%A5%87%E8%89%BA%E5%92%8C%E5%A5%BD%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [马立奥坐下那刻偶像剧都弱爆了](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%AB%8B%E5%A5%A5%E5%9D%90%E4%B8%8B%E9%82%A3%E5%88%BB%E5%81%B6%E5%83%8F%E5%89%A7%E9%83%BD%E5%BC%B1%E7%88%86%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [中纪委再公布5名内鬼](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%86%8D%E5%85%AC%E5%B8%835%E5%90%8D%E5%86%85%E9%AC%BC%23&t=31&band_rank=8&Refer=top)<br />
 9. [张晚意田曦薇或将二搭古装](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E7%94%B0%E6%9B%A6%E8%96%87%E6%88%96%E5%B0%86%E4%BA%8C%E6%90%AD%E5%8F%A4%E8%A3%85%23&t=31&band_rank=9&Refer=top)<br />
