@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 19:42:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 19:43:01</h4></div>
 
 > 微博  
 
 1. [马立奥坐下那刻偶像剧都弱爆了](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%AB%8B%E5%A5%A5%E5%9D%90%E4%B8%8B%E9%82%A3%E5%88%BB%E5%81%B6%E5%83%8F%E5%89%A7%E9%83%BD%E5%BC%B1%E7%88%86%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [男子东北自助扫码买到2元1个的西瓜](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%9C%E5%8C%97%E8%87%AA%E5%8A%A9%E6%89%AB%E7%A0%81%E4%B9%B0%E5%88%B02%E5%85%831%E4%B8%AA%E7%9A%84%E8%A5%BF%E7%93%9C%23&t=31&band_rank=2&Refer=top)<br />
+2. [7岁弟弟帮上初中姐姐熟练包书皮](https://s.weibo.com/weibo?q=%237%E5%B2%81%E5%BC%9F%E5%BC%9F%E5%B8%AE%E4%B8%8A%E5%88%9D%E4%B8%AD%E5%A7%90%E5%A7%90%E7%86%9F%E7%BB%83%E5%8C%85%E4%B9%A6%E7%9A%AE%23&t=31&band_rank=2&Refer=top)<br />
 3. [医生给出开学健康锦囊](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%BB%99%E5%87%BA%E5%BC%80%E5%AD%A6%E5%81%A5%E5%BA%B7%E9%94%A6%E5%9B%8A%23&t=31&band_rank=3&Refer=top)<br />
 4. [腾讯爱奇艺和好了](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E7%88%B1%E5%A5%87%E8%89%BA%E5%92%8C%E5%A5%BD%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [7岁弟弟帮上初中姐姐熟练包书皮](https://s.weibo.com/weibo?q=%237%E5%B2%81%E5%BC%9F%E5%BC%9F%E5%B8%AE%E4%B8%8A%E5%88%9D%E4%B8%AD%E5%A7%90%E5%A7%90%E7%86%9F%E7%BB%83%E5%8C%85%E4%B9%A6%E7%9A%AE%23&t=31&band_rank=5&Refer=top)<br />
+5. [男子东北自助扫码买到2元1个的西瓜](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%9C%E5%8C%97%E8%87%AA%E5%8A%A9%E6%89%AB%E7%A0%81%E4%B9%B0%E5%88%B02%E5%85%831%E4%B8%AA%E7%9A%84%E8%A5%BF%E7%93%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [沪上阿姨水果茶仅5块西瓜4片凤梨](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E6%B0%B4%E6%9E%9C%E8%8C%B6%E4%BB%855%E5%9D%97%E8%A5%BF%E7%93%9C4%E7%89%87%E5%87%A4%E6%A2%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [医院为暴雨中降生的神针举办出院仪式](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E4%B8%BA%E6%9A%B4%E9%9B%A8%E4%B8%AD%E9%99%8D%E7%94%9F%E7%9A%84%E7%A5%9E%E9%92%88%E4%B8%BE%E5%8A%9E%E5%87%BA%E9%99%A2%E4%BB%AA%E5%BC%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [宁安如梦](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6&t=31&band_rank=8&Refer=top)<br />
