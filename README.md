@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 17:56:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [金星 再瞎编我的新闻见一个打一个](https://s.weibo.com/weibo?q=%E9%87%91%E6%98%9F%20%E5%86%8D%E7%9E%8E%E7%BC%96%E6%88%91%E7%9A%84%E6%96%B0%E9%97%BB%E8%A7%81%E4%B8%80%E4%B8%AA%E6%89%93%E4%B8%80%E4%B8%AA&t=31&band_rank=4&Refer=top)<br />
 5. [你删我出品我删你联合出品](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%88%A0%E6%88%91%E5%87%BA%E5%93%81%E6%88%91%E5%88%A0%E4%BD%A0%E8%81%94%E5%90%88%E5%87%BA%E5%93%81%23&t=31&band_rank=5&Refer=top)<br />
 6. [华为Mate60](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate60&t=31&band_rank=6&Refer=top)<br />
-7. [河南安阳42死火灾调查报告](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%AE%89%E9%98%B342%E6%AD%BB%E7%81%AB%E7%81%BE%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨幂称作为演员要自觉抵制天价片酬](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%A7%B0%E4%BD%9C%E4%B8%BA%E6%BC%94%E5%91%98%E8%A6%81%E8%87%AA%E8%A7%89%E6%8A%B5%E5%88%B6%E5%A4%A9%E4%BB%B7%E7%89%87%E9%85%AC%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战三戏连播](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%89%E6%88%8F%E8%BF%9E%E6%92%AD%23&t=31&band_rank=9&Refer=top)<br />
+7. [谁会不喜欢吃零食呢](https://s.weibo.com/weibo?q=%23%E8%B0%81%E4%BC%9A%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%90%83%E9%9B%B6%E9%A3%9F%E5%91%A2%23&t=31&band_rank=7&Refer=top)<br />
+8. [司机把儿子送的父亲节礼物挂到现在](https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%9C%BA%E6%8A%8A%E5%84%BF%E5%AD%90%E9%80%81%E7%9A%84%E7%88%B6%E4%BA%B2%E8%8A%82%E7%A4%BC%E7%89%A9%E6%8C%82%E5%88%B0%E7%8E%B0%E5%9C%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [男子东北自助扫码买到2元1个的西瓜](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%9C%E5%8C%97%E8%87%AA%E5%8A%A9%E6%89%AB%E7%A0%81%E4%B9%B0%E5%88%B02%E5%85%831%E4%B8%AA%E7%9A%84%E8%A5%BF%E7%93%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
