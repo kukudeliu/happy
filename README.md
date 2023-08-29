@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 09:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 09:47:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=4&Refer=top)<br />
 5. [2岁男孩走丢告诉民警我爸爸叫妈妈妈妈叫爸爸](https://s.weibo.com/weibo?q=%232%E5%B2%81%E7%94%B7%E5%AD%A9%E8%B5%B0%E4%B8%A2%E5%91%8A%E8%AF%89%E6%B0%91%E8%AD%A6%E6%88%91%E7%88%B8%E7%88%B8%E5%8F%AB%E5%A6%88%E5%A6%88%E5%A6%88%E5%A6%88%E5%8F%AB%E7%88%B8%E7%88%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [你听过虞书欣说英语吗](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%90%AC%E8%BF%87%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%AF%B4%E8%8B%B1%E8%AF%AD%E5%90%97&t=31&band_rank=6&Refer=top)<br />
-7. [留学女儿要300多万美元买房妈妈报警](https://s.weibo.com/weibo?q=%23%E7%95%99%E5%AD%A6%E5%A5%B3%E5%84%BF%E8%A6%81300%E5%A4%9A%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E6%88%BF%E5%A6%88%E5%A6%88%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [2023歌手演唱会封神现场](https://s.weibo.com/weibo?q=2023%E6%AD%8C%E6%89%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B0%81%E7%A5%9E%E7%8E%B0%E5%9C%BA&t=31&band_rank=8&Refer=top)<br />
+7. [2023歌手演唱会封神现场](https://s.weibo.com/weibo?q=2023%E6%AD%8C%E6%89%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B0%81%E7%A5%9E%E7%8E%B0%E5%9C%BA&t=31&band_rank=7&Refer=top)<br />
+8. [留学女儿要300多万美元买房妈妈报警](https://s.weibo.com/weibo?q=%23%E7%95%99%E5%AD%A6%E5%A5%B3%E5%84%BF%E8%A6%81300%E5%A4%9A%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E6%88%BF%E5%A6%88%E5%A6%88%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
 9. [谁在俞灏明旁边打呼噜](https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%9C%A8%E4%BF%9E%E7%81%8F%E6%98%8E%E6%97%81%E8%BE%B9%E6%89%93%E5%91%BC%E5%99%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
