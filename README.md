@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 17:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 17:33:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [杰尼斯承认喜多川性侵](https://www.baidu.com/s?wd=%E6%9D%B0%E5%B0%BC%E6%96%AF%E6%89%BF%E8%AE%A4%E5%96%9C%E5%A4%9A%E5%B7%9D%E6%80%A7%E4%BE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [学生趴桌午休也收费 官方：收费合理](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%B6%B4%E6%A1%8C%E5%8D%88%E4%BC%91%E4%B9%9F%E6%94%B6%E8%B4%B9+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%94%B6%E8%B4%B9%E5%90%88%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [元宇宙沉浸式逛街](https://www.baidu.com/s?wd=%E5%85%83%E5%AE%87%E5%AE%99%E6%B2%89%E6%B5%B8%E5%BC%8F%E9%80%9B%E8%A1%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [河南安阳42死火灾调查报告公布](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%AE%89%E9%98%B342%E6%AD%BB%E7%81%AB%E7%81%BE%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中纪委再公布5名内鬼](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%86%8D%E5%85%AC%E5%B8%835%E5%90%8D%E5%86%85%E9%AC%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [杰尼斯承认喜多川性侵](https://www.baidu.com/s?wd=%E6%9D%B0%E5%B0%BC%E6%96%AF%E6%89%BF%E8%AE%A4%E5%96%9C%E5%A4%9A%E5%B7%9D%E6%80%A7%E4%BE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [学生趴桌午休也收费 官方：收费合理](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%B6%B4%E6%A1%8C%E5%8D%88%E4%BC%91%E4%B9%9F%E6%94%B6%E8%B4%B9+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%94%B6%E8%B4%B9%E5%90%88%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [元宇宙沉浸式逛街](https://www.baidu.com/s?wd=%E5%85%83%E5%AE%87%E5%AE%99%E6%B2%89%E6%B5%B8%E5%BC%8F%E9%80%9B%E8%A1%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [河南安阳42死火灾调查报告公布](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%AE%89%E9%98%B342%E6%AD%BB%E7%81%AB%E7%81%BE%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中纪委再公布5名内鬼](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%86%8D%E5%85%AC%E5%B8%835%E5%90%8D%E5%86%85%E9%AC%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
