@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 21:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 21:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [马立奥坐下那刻偶像剧都弱爆了](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%AB%8B%E5%A5%A5%E5%9D%90%E4%B8%8B%E9%82%A3%E5%88%BB%E5%81%B6%E5%83%8F%E5%89%A7%E9%83%BD%E5%BC%B1%E7%88%86%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [沪上阿姨水果茶仅5块西瓜4片凤梨](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E6%B0%B4%E6%9E%9C%E8%8C%B6%E4%BB%855%E5%9D%97%E8%A5%BF%E7%93%9C4%E7%89%87%E5%87%A4%E6%A2%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [中纪委再公布5名内鬼](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%86%8D%E5%85%AC%E5%B8%835%E5%90%8D%E5%86%85%E9%AC%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [华为](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA&t=31&band_rank=9&Refer=top)<br />
+9. [盛阳家里摆了肖战的照片](https://s.weibo.com/weibo?q=%23%E7%9B%9B%E9%98%B3%E5%AE%B6%E9%87%8C%E6%91%86%E4%BA%86%E8%82%96%E6%88%98%E7%9A%84%E7%85%A7%E7%89%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
