@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 18:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 18:24:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [火灾致42死 河南副省长孙守刚被问责](https://www.baidu.com/s?wd=%E7%81%AB%E7%81%BE%E8%87%B442%E6%AD%BB+%E6%B2%B3%E5%8D%97%E5%89%AF%E7%9C%81%E9%95%BF%E5%AD%99%E5%AE%88%E5%88%9A%E8%A2%AB%E9%97%AE%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杰尼斯承认喜多川性侵](https://www.baidu.com/s?wd=%E6%9D%B0%E5%B0%BC%E6%96%AF%E6%89%BF%E8%AE%A4%E5%96%9C%E5%A4%9A%E5%B7%9D%E6%80%A7%E4%BE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [元宇宙沉浸式逛街](https://www.baidu.com/s?wd=%E5%85%83%E5%AE%87%E5%AE%99%E6%B2%89%E6%B5%B8%E5%BC%8F%E9%80%9B%E8%A1%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [学生趴桌午休也收费 官方：收费合理](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%B6%B4%E6%A1%8C%E5%8D%88%E4%BC%91%E4%B9%9F%E6%94%B6%E8%B4%B9+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%94%B6%E8%B4%B9%E5%90%88%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [那英澳门演唱会惨遭网友抵制](https://www.baidu.com/s?wd=%E9%82%A3%E8%8B%B1%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E6%83%A8%E9%81%AD%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [火灾致42死 河南副省长孙守刚被问责](https://www.baidu.com/s?wd=%E7%81%AB%E7%81%BE%E8%87%B442%E6%AD%BB+%E6%B2%B3%E5%8D%97%E5%89%AF%E7%9C%81%E9%95%BF%E5%AD%99%E5%AE%88%E5%88%9A%E8%A2%AB%E9%97%AE%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杰尼斯承认喜多川性侵](https://www.baidu.com/s?wd=%E6%9D%B0%E5%B0%BC%E6%96%AF%E6%89%BF%E8%AE%A4%E5%96%9C%E5%A4%9A%E5%B7%9D%E6%80%A7%E4%BE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [元宇宙沉浸式逛街](https://www.baidu.com/s?wd=%E5%85%83%E5%AE%87%E5%AE%99%E6%B2%89%E6%B5%B8%E5%BC%8F%E9%80%9B%E8%A1%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [学生趴桌午休也收费 官方：收费合理](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%B6%B4%E6%A1%8C%E5%8D%88%E4%BC%91%E4%B9%9F%E6%94%B6%E8%B4%B9+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%94%B6%E8%B4%B9%E5%90%88%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [那英澳门演唱会惨遭网友抵制](https://www.baidu.com/s?wd=%E9%82%A3%E8%8B%B1%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E6%83%A8%E9%81%AD%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
