@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 15:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-29 15:19:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [一地奖励初婚夫妇：现金1000元](https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%B0%E5%A5%96%E5%8A%B1%E5%88%9D%E5%A9%9A%E5%A4%AB%E5%A6%87%EF%BC%9A%E7%8E%B0%E9%87%911000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [那英澳门演唱会惨遭网友抵制](https://www.baidu.com/s?wd=%E9%82%A3%E8%8B%B1%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E6%83%A8%E9%81%AD%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [福建一小学将黄姓列入F首字母](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%B0%8F%E5%AD%A6%E5%B0%86%E9%BB%84%E5%A7%93%E5%88%97%E5%85%A5F%E9%A6%96%E5%AD%97%E6%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美甲店帅哥光膀子服务？老板回应](https://www.baidu.com/s?wd=%E7%BE%8E%E7%94%B2%E5%BA%97%E5%B8%85%E5%93%A5%E5%85%89%E8%86%80%E5%AD%90%E6%9C%8D%E5%8A%A1%EF%BC%9F%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国人民大学第一位90后教授诞生](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%80%E4%BD%8D90%E5%90%8E%E6%95%99%E6%8E%88%E8%AF%9E%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国人民大学第一位90后教授诞生](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%80%E4%BD%8D90%E5%90%8E%E6%95%99%E6%8E%88%E8%AF%9E%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美甲店帅哥光膀子服务？老板回应](https://www.baidu.com/s?wd=%E7%BE%8E%E7%94%B2%E5%BA%97%E5%B8%85%E5%93%A5%E5%85%89%E8%86%80%E5%AD%90%E6%9C%8D%E5%8A%A1%EF%BC%9F%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [一地奖励初婚夫妇：现金1000元](https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%B0%E5%A5%96%E5%8A%B1%E5%88%9D%E5%A9%9A%E5%A4%AB%E5%A6%87%EF%BC%9A%E7%8E%B0%E9%87%911000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [那英澳门演唱会惨遭网友抵制](https://www.baidu.com/s?wd=%E9%82%A3%E8%8B%B1%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E6%83%A8%E9%81%AD%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [福建一小学将黄姓列入F首字母](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%B0%8F%E5%AD%A6%E5%B0%86%E9%BB%84%E5%A7%93%E5%88%97%E5%85%A5F%E9%A6%96%E5%AD%97%E6%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美甲店帅哥光膀子服务？老板回应](https://www.baidu.com/s?wd=%E7%BE%8E%E7%94%B2%E5%BA%97%E5%B8%85%E5%93%A5%E5%85%89%E8%86%80%E5%AD%90%E6%9C%8D%E5%8A%A1%EF%BC%9F%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国人民大学第一位90后教授诞生](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%80%E4%BD%8D90%E5%90%8E%E6%95%99%E6%8E%88%E8%AF%9E%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国人民大学第一位90后教授诞生](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%80%E4%BD%8D90%E5%90%8E%E6%95%99%E6%8E%88%E8%AF%9E%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美甲店帅哥光膀子服务？老板回应](https://www.baidu.com/s?wd=%E7%BE%8E%E7%94%B2%E5%BA%97%E5%B8%85%E5%93%A5%E5%85%89%E8%86%80%E5%AD%90%E6%9C%8D%E5%8A%A1%EF%BC%9F%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
