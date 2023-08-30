@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 00:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 00:07:01</h4></div>
 
 > 微博  
 
-1. [用华为手机给美国商务部长拍照](https://s.weibo.com/weibo?q=%23%E7%94%A8%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E7%BB%99%E7%BE%8E%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E6%8B%8D%E7%85%A7%23&t=31&band_rank=1&Refer=top)<br />
-2. [椰子水价格暴涨4000%](https://s.weibo.com/weibo?q=%23%E6%A4%B0%E5%AD%90%E6%B0%B4%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A84000%25%23&t=31&band_rank=2&Refer=top)<br />
+1. [椰子水价格暴涨4000%](https://s.weibo.com/weibo?q=%23%E6%A4%B0%E5%AD%90%E6%B0%B4%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A84000%25%23&t=31&band_rank=1&Refer=top)<br />
+2. [用华为手机给美国商务部长拍照](https://s.weibo.com/weibo?q=%23%E7%94%A8%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E7%BB%99%E7%BE%8E%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E6%8B%8D%E7%85%A7%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚运会场如何让数万人同时丝滑上网](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9C%BA%E5%A6%82%E4%BD%95%E8%AE%A9%E6%95%B0%E4%B8%87%E4%BA%BA%E5%90%8C%E6%97%B6%E4%B8%9D%E6%BB%91%E4%B8%8A%E7%BD%91%23&t=31&band_rank=3&Refer=top)<br />
 4. [超级蓝月](https://s.weibo.com/weibo?q=%23%E8%B6%85%E7%BA%A7%E8%93%9D%E6%9C%88%23&t=31&band_rank=4&Refer=top)<br />
 5. [王哲林](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%93%B2%E6%9E%97&t=31&band_rank=5&Refer=top)<br />
