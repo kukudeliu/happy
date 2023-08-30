@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 01:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 01:19:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [专家称一线城市认房不认贷已无悬念](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7%E5%B7%B2%E6%97%A0%E6%82%AC%E5%BF%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄政府首次提出普里戈任可能被暗杀](https://www.baidu.com/s?wd=%E4%BF%84%E6%94%BF%E5%BA%9C%E9%A6%96%E6%AC%A1%E6%8F%90%E5%87%BA%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%8F%AF%E8%83%BD%E8%A2%AB%E6%9A%97%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李玟生前37秒语音曝光：真的好难受](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D37%E7%A7%92%E8%AF%AD%E9%9F%B3%E6%9B%9D%E5%85%89%EF%BC%9A%E7%9C%9F%E7%9A%84%E5%A5%BD%E9%9A%BE%E5%8F%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大爷见女网友被骗800万后去世](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E8%A7%81%E5%A5%B3%E7%BD%91%E5%8F%8B%E8%A2%AB%E9%AA%97800%E4%B8%87%E5%90%8E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [16岁辍学做游戏高中生称重回学校](https://www.baidu.com/s?wd=16%E5%B2%81%E8%BE%8D%E5%AD%A6%E5%81%9A%E6%B8%B8%E6%88%8F%E9%AB%98%E4%B8%AD%E7%94%9F%E7%A7%B0%E9%87%8D%E5%9B%9E%E5%AD%A6%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李玟生前37秒语音曝光：真的好难受](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D37%E7%A7%92%E8%AF%AD%E9%9F%B3%E6%9B%9D%E5%85%89%EF%BC%9A%E7%9C%9F%E7%9A%84%E5%A5%BD%E9%9A%BE%E5%8F%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [专家称一线城市认房不认贷已无悬念](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7%E5%B7%B2%E6%97%A0%E6%82%AC%E5%BF%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄政府首次提出普里戈任可能被暗杀](https://www.baidu.com/s?wd=%E4%BF%84%E6%94%BF%E5%BA%9C%E9%A6%96%E6%AC%A1%E6%8F%90%E5%87%BA%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%8F%AF%E8%83%BD%E8%A2%AB%E6%9A%97%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李玟生前37秒语音曝光：真的好难受](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D37%E7%A7%92%E8%AF%AD%E9%9F%B3%E6%9B%9D%E5%85%89%EF%BC%9A%E7%9C%9F%E7%9A%84%E5%A5%BD%E9%9A%BE%E5%8F%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [大爷见女网友被骗800万后去世](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E8%A7%81%E5%A5%B3%E7%BD%91%E5%8F%8B%E8%A2%AB%E9%AA%97800%E4%B8%87%E5%90%8E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [16岁辍学做游戏高中生称重回学校](https://www.baidu.com/s?wd=16%E5%B2%81%E8%BE%8D%E5%AD%A6%E5%81%9A%E6%B8%B8%E6%88%8F%E9%AB%98%E4%B8%AD%E7%94%9F%E7%A7%B0%E9%87%8D%E5%9B%9E%E5%AD%A6%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李玟生前37秒语音曝光：真的好难受](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D37%E7%A7%92%E8%AF%AD%E9%9F%B3%E6%9B%9D%E5%85%89%EF%BC%9A%E7%9C%9F%E7%9A%84%E5%A5%BD%E9%9A%BE%E5%8F%97&sa=fyb_news&rsv_dl=fyb_news)<br />
