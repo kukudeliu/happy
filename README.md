@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 06:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 06:28:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [超级蓝月](https://s.weibo.com/weibo?q=%23%E8%B6%85%E7%BA%A7%E8%93%9D%E6%9C%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [孙菲菲 王阳不在现场大家不要为难他](https://s.weibo.com/weibo?q=%E5%AD%99%E8%8F%B2%E8%8F%B2%20%E7%8E%8B%E9%98%B3%E4%B8%8D%E5%9C%A8%E7%8E%B0%E5%9C%BA%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E4%B8%BA%E9%9A%BE%E4%BB%96&t=31&band_rank=7&Refer=top)<br />
 8. [5岁儿子被撞送医途中车祸致女儿身亡](https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%84%BF%E5%AD%90%E8%A2%AB%E6%92%9E%E9%80%81%E5%8C%BB%E9%80%94%E4%B8%AD%E8%BD%A6%E7%A5%B8%E8%87%B4%E5%A5%B3%E5%84%BF%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [奇葩大会丁锐被曝PUA学员](https://s.weibo.com/weibo?q=%23%E5%A5%87%E8%91%A9%E5%A4%A7%E4%BC%9A%E4%B8%81%E9%94%90%E8%A2%AB%E6%9B%9DPUA%E5%AD%A6%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [不小心看到瑞幸员工内讧了](https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E7%9C%8B%E5%88%B0%E7%91%9E%E5%B9%B8%E5%91%98%E5%B7%A5%E5%86%85%E8%AE%A7%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
