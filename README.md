@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 11:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 11:29:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [四川金阳洪灾致4人遇难48人失联](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E9%87%91%E9%98%B3%E6%B4%AA%E7%81%BE%E8%87%B44%E4%BA%BA%E9%81%87%E9%9A%BE48%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [苹果秋季发布会9月13日举行](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A9%E6%9C%8813%E6%97%A5%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [两个台风来了](https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AA%E5%8F%B0%E9%A3%8E%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [俄罗斯花滑运动员戈尔巴乔娃失踪](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E8%8A%B1%E6%BB%91%E8%BF%90%E5%8A%A8%E5%91%98%E6%88%88%E5%B0%94%E5%B7%B4%E4%B9%94%E5%A8%83%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [博士枪杀导师：3年间父母先后去世](https://www.baidu.com/s?wd=%E5%8D%9A%E5%A3%AB%E6%9E%AA%E6%9D%80%E5%AF%BC%E5%B8%88%EF%BC%9A3%E5%B9%B4%E9%97%B4%E7%88%B6%E6%AF%8D%E5%85%88%E5%90%8E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [四川金阳洪灾致4人遇难48人失联](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E9%87%91%E9%98%B3%E6%B4%AA%E7%81%BE%E8%87%B44%E4%BA%BA%E9%81%87%E9%9A%BE48%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [苹果秋季发布会9月13日举行](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A9%E6%9C%8813%E6%97%A5%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [两个台风来了](https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AA%E5%8F%B0%E9%A3%8E%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [俄罗斯花滑运动员戈尔巴乔娃失踪](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E8%8A%B1%E6%BB%91%E8%BF%90%E5%8A%A8%E5%91%98%E6%88%88%E5%B0%94%E5%B7%B4%E4%B9%94%E5%A8%83%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [博士枪杀导师：3年间父母先后去世](https://www.baidu.com/s?wd=%E5%8D%9A%E5%A3%AB%E6%9E%AA%E6%9D%80%E5%AF%BC%E5%B8%88%EF%BC%9A3%E5%B9%B4%E9%97%B4%E7%88%B6%E6%AF%8D%E5%85%88%E5%90%8E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
