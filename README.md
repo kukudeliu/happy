@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 18:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 18:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以后吃瓜就知道谁是谁了](https://s.weibo.com/weibo?q=%E4%BB%A5%E5%90%8E%E5%90%83%E7%93%9C%E5%B0%B1%E7%9F%A5%E9%81%93%E8%B0%81%E6%98%AF%E8%B0%81%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [孕妇街头狂奔追人交警果断出手](https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E8%A1%97%E5%A4%B4%E7%8B%82%E5%A5%94%E8%BF%BD%E4%BA%BA%E4%BA%A4%E8%AD%A6%E6%9E%9C%E6%96%AD%E5%87%BA%E6%89%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [莲花楼番外 武痴](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%95%AA%E5%A4%96%20%E6%AD%A6%E7%97%B4&t=31&band_rank=8&Refer=top)<br />
-9. [五条悟断臂](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9D%A1%E6%82%9F%E6%96%AD%E8%87%82&t=31&band_rank=9&Refer=top)<br />
+9. [北京冰雹](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%86%B0%E9%9B%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
