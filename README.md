@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 02:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 02:38:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [被枪杀导师生前担心学生精神状况](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9E%AA%E6%9D%80%E5%AF%BC%E5%B8%88%E7%94%9F%E5%89%8D%E6%8B%85%E5%BF%83%E5%AD%A6%E7%94%9F%E7%B2%BE%E7%A5%9E%E7%8A%B6%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [大爷见女网友被骗800万后去世](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E8%A7%81%E5%A5%B3%E7%BD%91%E5%8F%8B%E8%A2%AB%E9%AA%97800%E4%B8%87%E5%90%8E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩国济州海女穿丧服去日领事馆抗议](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%B5%8E%E5%B7%9E%E6%B5%B7%E5%A5%B3%E7%A9%BF%E4%B8%A7%E6%9C%8D%E5%8E%BB%E6%97%A5%E9%A2%86%E4%BA%8B%E9%A6%86%E6%8A%97%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李玟生前37秒语音曝光：真的好难受](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D37%E7%A7%92%E8%AF%AD%E9%9F%B3%E6%9B%9D%E5%85%89%EF%BC%9A%E7%9C%9F%E7%9A%84%E5%A5%BD%E9%9A%BE%E5%8F%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [被枪杀导师生前担心学生精神状况](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9E%AA%E6%9D%80%E5%AF%BC%E5%B8%88%E7%94%9F%E5%89%8D%E6%8B%85%E5%BF%83%E5%AD%A6%E7%94%9F%E7%B2%BE%E7%A5%9E%E7%8A%B6%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [大爷见女网友被骗800万后去世](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E8%A7%81%E5%A5%B3%E7%BD%91%E5%8F%8B%E8%A2%AB%E9%AA%97800%E4%B8%87%E5%90%8E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [韩国济州海女穿丧服去日领事馆抗议](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%B5%8E%E5%B7%9E%E6%B5%B7%E5%A5%B3%E7%A9%BF%E4%B8%A7%E6%9C%8D%E5%8E%BB%E6%97%A5%E9%A2%86%E4%BA%8B%E9%A6%86%E6%8A%97%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李玟生前37秒语音曝光：真的好难受](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D37%E7%A7%92%E8%AF%AD%E9%9F%B3%E6%9B%9D%E5%85%89%EF%BC%9A%E7%9C%9F%E7%9A%84%E5%A5%BD%E9%9A%BE%E5%8F%97&sa=fyb_news&rsv_dl=fyb_news)<br />
