@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 13:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 13:06:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [苹果iPhone15系列价格](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CiPhone15%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=6&Refer=top)<br />
 7. [腾讯爱奇艺和好了但没完全和好](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E7%88%B1%E5%A5%87%E8%89%BA%E5%92%8C%E5%A5%BD%E4%BA%86%E4%BD%86%E6%B2%A1%E5%AE%8C%E5%85%A8%E5%92%8C%E5%A5%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [一路朝阳 李慕嘉求婚发言](https://s.weibo.com/weibo?q=%E4%B8%80%E8%B7%AF%E6%9C%9D%E9%98%B3%20%E6%9D%8E%E6%85%95%E5%98%89%E6%B1%82%E5%A9%9A%E5%8F%91%E8%A8%80&t=31&band_rank=8&Refer=top)<br />
-9. [中元节](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%85%83%E8%8A%82&t=31&band_rank=9&Refer=top)<br />
+9. [披荆斩棘真是请对蔡国庆了](https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9C%9F%E6%98%AF%E8%AF%B7%E5%AF%B9%E8%94%A1%E5%9B%BD%E5%BA%86%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
