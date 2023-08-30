@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 12:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 12:49:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [《海豚湾恋人》童星畏罪潜逃被通缉](https://www.baidu.com/s?wd=%E3%80%8A%E6%B5%B7%E8%B1%9A%E6%B9%BE%E6%81%8B%E4%BA%BA%E3%80%8B%E7%AB%A5%E6%98%9F%E7%95%8F%E7%BD%AA%E6%BD%9C%E9%80%83%E8%A2%AB%E9%80%9A%E7%BC%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [苹果秋季发布会9月13日举行](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A9%E6%9C%8813%E6%97%A5%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小红书“旅游搭子”被指涉黄](https://www.baidu.com/s?wd=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E2%80%9C%E6%97%85%E6%B8%B8%E6%90%AD%E5%AD%90%E2%80%9D%E8%A2%AB%E6%8C%87%E6%B6%89%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [成龙金喜善时隔18年合作《神话2》](https://www.baidu.com/s?wd=%E6%88%90%E9%BE%99%E9%87%91%E5%96%9C%E5%96%84%E6%97%B6%E9%9A%9418%E5%B9%B4%E5%90%88%E4%BD%9C%E3%80%8A%E7%A5%9E%E8%AF%9D2%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [风暴眼里的医药销售](https://www.baidu.com/s?wd=%E9%A3%8E%E6%9A%B4%E7%9C%BC%E9%87%8C%E7%9A%84%E5%8C%BB%E8%8D%AF%E9%94%80%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [《海豚湾恋人》童星畏罪潜逃被通缉](https://www.baidu.com/s?wd=%E3%80%8A%E6%B5%B7%E8%B1%9A%E6%B9%BE%E6%81%8B%E4%BA%BA%E3%80%8B%E7%AB%A5%E6%98%9F%E7%95%8F%E7%BD%AA%E6%BD%9C%E9%80%83%E8%A2%AB%E9%80%9A%E7%BC%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [苹果秋季发布会9月13日举行](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A9%E6%9C%8813%E6%97%A5%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小红书“旅游搭子”被指涉黄](https://www.baidu.com/s?wd=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E2%80%9C%E6%97%85%E6%B8%B8%E6%90%AD%E5%AD%90%E2%80%9D%E8%A2%AB%E6%8C%87%E6%B6%89%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [成龙金喜善时隔18年合作《神话2》](https://www.baidu.com/s?wd=%E6%88%90%E9%BE%99%E9%87%91%E5%96%9C%E5%96%84%E6%97%B6%E9%9A%9418%E5%B9%B4%E5%90%88%E4%BD%9C%E3%80%8A%E7%A5%9E%E8%AF%9D2%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [风暴眼里的医药销售](https://www.baidu.com/s?wd=%E9%A3%8E%E6%9A%B4%E7%9C%BC%E9%87%8C%E7%9A%84%E5%8C%BB%E8%8D%AF%E9%94%80%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
