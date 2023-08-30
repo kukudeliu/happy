@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 00:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 00:54:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [大爷见女网友被骗800万后去世](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E8%A7%81%E5%A5%B3%E7%BD%91%E5%8F%8B%E8%A2%AB%E9%AA%97800%E4%B8%87%E5%90%8E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [医院花近600万购置工服引争议](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E8%8A%B1%E8%BF%91600%E4%B8%87%E8%B4%AD%E7%BD%AE%E5%B7%A5%E6%9C%8D%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [48人因洪水失联的工地5人被刑拘](https://www.baidu.com/s?wd=48%E4%BA%BA%E5%9B%A0%E6%B4%AA%E6%B0%B4%E5%A4%B1%E8%81%94%E7%9A%84%E5%B7%A5%E5%9C%B05%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [儿子被撞送医途中车祸致女儿身亡](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%A2%AB%E6%92%9E%E9%80%81%E5%8C%BB%E9%80%94%E4%B8%AD%E8%BD%A6%E7%A5%B8%E8%87%B4%E5%A5%B3%E5%84%BF%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [大爷见女网友被骗800万后去世](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E8%A7%81%E5%A5%B3%E7%BD%91%E5%8F%8B%E8%A2%AB%E9%AA%97800%E4%B8%87%E5%90%8E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [医院花近600万购置工服引争议](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E8%8A%B1%E8%BF%91600%E4%B8%87%E8%B4%AD%E7%BD%AE%E5%B7%A5%E6%9C%8D%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [48人因洪水失联的工地5人被刑拘](https://www.baidu.com/s?wd=48%E4%BA%BA%E5%9B%A0%E6%B4%AA%E6%B0%B4%E5%A4%B1%E8%81%94%E7%9A%84%E5%B7%A5%E5%9C%B05%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [儿子被撞送医途中车祸致女儿身亡](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%A2%AB%E6%92%9E%E9%80%81%E5%8C%BB%E9%80%94%E4%B8%AD%E8%BD%A6%E7%A5%B8%E8%87%B4%E5%A5%B3%E5%84%BF%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
