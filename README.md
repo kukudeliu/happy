@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 00:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 00:53:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [总导演剧透杭州亚运会开幕式创意](https://www.baidu.com/s?wd=%E6%80%BB%E5%AF%BC%E6%BC%94%E5%89%A7%E9%80%8F%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%88%9B%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家称一线城市认房不认贷已无悬念](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7%E5%B7%B2%E6%97%A0%E6%82%AC%E5%BF%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大爷见女网友被骗800万后去世](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E8%A7%81%E5%A5%B3%E7%BD%91%E5%8F%8B%E8%A2%AB%E9%AA%97800%E4%B8%87%E5%90%8E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [48人因洪水失联的工地5人被刑拘](https://www.baidu.com/s?wd=48%E4%BA%BA%E5%9B%A0%E6%B4%AA%E6%B0%B4%E5%A4%B1%E8%81%94%E7%9A%84%E5%B7%A5%E5%9C%B05%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医院花近600万购置工服引争议](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E8%8A%B1%E8%BF%91600%E4%B8%87%E8%B4%AD%E7%BD%AE%E5%B7%A5%E6%9C%8D%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [什么导致了武汉三镇的“闪崩”?](https://www.baidu.com/s?wd=%E4%BB%80%E4%B9%88%E5%AF%BC%E8%87%B4%E4%BA%86%E6%AD%A6%E6%B1%89%E4%B8%89%E9%95%87%E7%9A%84%E2%80%9C%E9%97%AA%E5%B4%A9%E2%80%9D%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [48人因洪水失联的工地5人被刑拘](https://www.baidu.com/s?wd=48%E4%BA%BA%E5%9B%A0%E6%B4%AA%E6%B0%B4%E5%A4%B1%E8%81%94%E7%9A%84%E5%B7%A5%E5%9C%B05%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [总导演剧透杭州亚运会开幕式创意](https://www.baidu.com/s?wd=%E6%80%BB%E5%AF%BC%E6%BC%94%E5%89%A7%E9%80%8F%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%88%9B%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家称一线城市认房不认贷已无悬念](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7%E5%B7%B2%E6%97%A0%E6%82%AC%E5%BF%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大爷见女网友被骗800万后去世](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E8%A7%81%E5%A5%B3%E7%BD%91%E5%8F%8B%E8%A2%AB%E9%AA%97800%E4%B8%87%E5%90%8E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [48人因洪水失联的工地5人被刑拘](https://www.baidu.com/s?wd=48%E4%BA%BA%E5%9B%A0%E6%B4%AA%E6%B0%B4%E5%A4%B1%E8%81%94%E7%9A%84%E5%B7%A5%E5%9C%B05%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医院花近600万购置工服引争议](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E8%8A%B1%E8%BF%91600%E4%B8%87%E8%B4%AD%E7%BD%AE%E5%B7%A5%E6%9C%8D%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [什么导致了武汉三镇的“闪崩”?](https://www.baidu.com/s?wd=%E4%BB%80%E4%B9%88%E5%AF%BC%E8%87%B4%E4%BA%86%E6%AD%A6%E6%B1%89%E4%B8%89%E9%95%87%E7%9A%84%E2%80%9C%E9%97%AA%E5%B4%A9%E2%80%9D%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [48人因洪水失联的工地5人被刑拘](https://www.baidu.com/s?wd=48%E4%BA%BA%E5%9B%A0%E6%B4%AA%E6%B0%B4%E5%A4%B1%E8%81%94%E7%9A%84%E5%B7%A5%E5%9C%B05%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
