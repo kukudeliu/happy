@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 15:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 15:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以后吃瓜就知道谁是谁了](https://s.weibo.com/weibo?q=%E4%BB%A5%E5%90%8E%E5%90%83%E7%93%9C%E5%B0%B1%E7%9F%A5%E9%81%93%E8%B0%81%E6%98%AF%E8%B0%81%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [逃出大英博物馆开播](https://s.weibo.com/weibo?q=%23%E9%80%83%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E5%BC%80%E6%92%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [正式确诊为胡歌](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E8%83%A1%E6%AD%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [苹果iPhone15系列价格](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CiPhone15%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [关晓彤王牌对王牌](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
