@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 19:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 19:34:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [小杨哥称每个月工资支出5000万](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E7%A7%B0%E6%AF%8F%E4%B8%AA%E6%9C%88%E5%B7%A5%E8%B5%84%E6%94%AF%E5%87%BA5000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟生前37秒语音曝光：真的好难受](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D37%E7%A7%92%E8%AF%AD%E9%9F%B3%E6%9B%9D%E5%85%89%EF%BC%9A%E7%9C%9F%E7%9A%84%E5%A5%BD%E9%9A%BE%E5%8F%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [95岁李嘉诚坐轮椅到寺庙](https://www.baidu.com/s?wd=95%E5%B2%81%E6%9D%8E%E5%98%89%E8%AF%9A%E5%9D%90%E8%BD%AE%E6%A4%85%E5%88%B0%E5%AF%BA%E5%BA%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [王阳回应当年涉孙菲菲言论:表达不妥](https://www.baidu.com/s?wd=%E7%8E%8B%E9%98%B3%E5%9B%9E%E5%BA%94%E5%BD%93%E5%B9%B4%E6%B6%89%E5%AD%99%E8%8F%B2%E8%8F%B2%E8%A8%80%E8%AE%BA%3A%E8%A1%A8%E8%BE%BE%E4%B8%8D%E5%A6%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普里戈任已被下葬 细节曝光](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%B7%B2%E8%A2%AB%E4%B8%8B%E8%91%AC+%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [小杨哥称每个月工资支出5000万](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E7%A7%B0%E6%AF%8F%E4%B8%AA%E6%9C%88%E5%B7%A5%E8%B5%84%E6%94%AF%E5%87%BA5000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李玟生前37秒语音曝光：真的好难受](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D37%E7%A7%92%E8%AF%AD%E9%9F%B3%E6%9B%9D%E5%85%89%EF%BC%9A%E7%9C%9F%E7%9A%84%E5%A5%BD%E9%9A%BE%E5%8F%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [95岁李嘉诚坐轮椅到寺庙](https://www.baidu.com/s?wd=95%E5%B2%81%E6%9D%8E%E5%98%89%E8%AF%9A%E5%9D%90%E8%BD%AE%E6%A4%85%E5%88%B0%E5%AF%BA%E5%BA%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [王阳回应当年涉孙菲菲言论:表达不妥](https://www.baidu.com/s?wd=%E7%8E%8B%E9%98%B3%E5%9B%9E%E5%BA%94%E5%BD%93%E5%B9%B4%E6%B6%89%E5%AD%99%E8%8F%B2%E8%8F%B2%E8%A8%80%E8%AE%BA%3A%E8%A1%A8%E8%BE%BE%E4%B8%8D%E5%A6%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [普里戈任已被下葬 细节曝光](https://www.baidu.com/s?wd=%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%B7%B2%E8%A2%AB%E4%B8%8B%E8%91%AC+%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
