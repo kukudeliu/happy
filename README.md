@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 11:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 12:00:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [正式确诊为胡歌](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E8%83%A1%E6%AD%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [乘风2024拟邀阵容名单](https://s.weibo.com/weibo?q=%E4%B9%98%E9%A3%8E2024%E6%8B%9F%E9%82%80%E9%98%B5%E5%AE%B9%E5%90%8D%E5%8D%95&t=31&band_rank=5&Refer=top)<br />
 6. [中元节](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%85%83%E8%8A%82&t=31&band_rank=6&Refer=top)<br />
-7. [韩媒曝成龙金喜善合作神话2](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E6%9B%9D%E6%88%90%E9%BE%99%E9%87%91%E5%96%9C%E5%96%84%E5%90%88%E4%BD%9C%E7%A5%9E%E8%AF%9D2%23&t=31&band_rank=7&Refer=top)<br />
-8. [广州认房不认贷](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [沪上阿姨回应21元饮品仅几块水果](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%9421%E5%85%83%E9%A5%AE%E5%93%81%E4%BB%85%E5%87%A0%E5%9D%97%E6%B0%B4%E6%9E%9C%23&t=31&band_rank=9&Refer=top)<br />
+7. [香港15平米的家是什么样的](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF15%E5%B9%B3%E7%B1%B3%E7%9A%84%E5%AE%B6%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
+8. [韩媒曝成龙金喜善合作神话2](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E6%9B%9D%E6%88%90%E9%BE%99%E9%87%91%E5%96%9C%E5%96%84%E5%90%88%E4%BD%9C%E7%A5%9E%E8%AF%9D2%23&t=31&band_rank=8&Refer=top)<br />
+9. [广州认房不认贷](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
