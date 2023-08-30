@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 12:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 12:14:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [四川金阳洪灾致4人遇难48人失联](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E9%87%91%E9%98%B3%E6%B4%AA%E7%81%BE%E8%87%B44%E4%BA%BA%E9%81%87%E9%9A%BE48%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [苹果秋季发布会9月13日举行](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A9%E6%9C%8813%E6%97%A5%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [成龙金喜善时隔18年合作《神话2》](https://www.baidu.com/s?wd=%E6%88%90%E9%BE%99%E9%87%91%E5%96%9C%E5%96%84%E6%97%B6%E9%9A%9418%E5%B9%B4%E5%90%88%E4%BD%9C%E3%80%8A%E7%A5%9E%E8%AF%9D2%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高校女教师擅自离境失去联系被解聘](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%A5%B3%E6%95%99%E5%B8%88%E6%93%85%E8%87%AA%E7%A6%BB%E5%A2%83%E5%A4%B1%E5%8E%BB%E8%81%94%E7%B3%BB%E8%A2%AB%E8%A7%A3%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [1家3口入境美国数小时遇车祸1死2伤](https://www.baidu.com/s?wd=1%E5%AE%B63%E5%8F%A3%E5%85%A5%E5%A2%83%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%B0%8F%E6%97%B6%E9%81%87%E8%BD%A6%E7%A5%B81%E6%AD%BB2%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [四川金阳洪灾致4人遇难48人失联](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E9%87%91%E9%98%B3%E6%B4%AA%E7%81%BE%E8%87%B44%E4%BA%BA%E9%81%87%E9%9A%BE48%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [苹果秋季发布会9月13日举行](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A9%E6%9C%8813%E6%97%A5%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [成龙金喜善时隔18年合作《神话2》](https://www.baidu.com/s?wd=%E6%88%90%E9%BE%99%E9%87%91%E5%96%9C%E5%96%84%E6%97%B6%E9%9A%9418%E5%B9%B4%E5%90%88%E4%BD%9C%E3%80%8A%E7%A5%9E%E8%AF%9D2%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高校女教师擅自离境失去联系被解聘](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%A5%B3%E6%95%99%E5%B8%88%E6%93%85%E8%87%AA%E7%A6%BB%E5%A2%83%E5%A4%B1%E5%8E%BB%E8%81%94%E7%B3%BB%E8%A2%AB%E8%A7%A3%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [1家3口入境美国数小时遇车祸1死2伤](https://www.baidu.com/s?wd=1%E5%AE%B63%E5%8F%A3%E5%85%A5%E5%A2%83%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%B0%8F%E6%97%B6%E9%81%87%E8%BD%A6%E7%A5%B81%E6%AD%BB2%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
