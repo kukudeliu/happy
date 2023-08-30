@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 08:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 08:08:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [华为转让多个姚安娜商标](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E8%BD%AC%E8%AE%A9%E5%A4%9A%E4%B8%AA%E5%A7%9A%E5%AE%89%E5%A8%9C%E5%95%86%E6%A0%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [内蒙古赤峰发生重大刑事案件](https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E8%B5%A4%E5%B3%B0%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [中元节](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%85%83%E8%8A%82&t=31&band_rank=6&Refer=top)<br />
-7. [苹果发布会](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [鲁山县通报花700多万建牛郎织女雕塑](https://s.weibo.com/weibo?q=%23%E9%B2%81%E5%B1%B1%E5%8E%BF%E9%80%9A%E6%8A%A5%E8%8A%B1700%E5%A4%9A%E4%B8%87%E5%BB%BA%E7%89%9B%E9%83%8E%E7%BB%87%E5%A5%B3%E9%9B%95%E5%A1%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [为什么过桥米线门店越来越少](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%87%E6%A1%A5%E7%B1%B3%E7%BA%BF%E9%97%A8%E5%BA%97%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91%23&t=31&band_rank=9&Refer=top)<br />
+7. [永远的中国队长](https://s.weibo.com/weibo?q=%E6%B0%B8%E8%BF%9C%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%95%BF&t=31&band_rank=7&Refer=top)<br />
+8. [苹果发布会](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [鲁山县通报花700多万建牛郎织女雕塑](https://s.weibo.com/weibo?q=%23%E9%B2%81%E5%B1%B1%E5%8E%BF%E9%80%9A%E6%8A%A5%E8%8A%B1700%E5%A4%9A%E4%B8%87%E5%BB%BA%E7%89%9B%E9%83%8E%E7%BB%87%E5%A5%B3%E9%9B%95%E5%A1%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
