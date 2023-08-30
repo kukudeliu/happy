@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 03:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 03:39:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [儿子被撞送医途中车祸致女儿身亡](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%A2%AB%E6%92%9E%E9%80%81%E5%8C%BB%E9%80%94%E4%B8%AD%E8%BD%A6%E7%A5%B8%E8%87%B4%E5%A5%B3%E5%84%BF%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [鸟鸟：我努力到30岁还没过上好日子](https://www.baidu.com/s?wd=%E9%B8%9F%E9%B8%9F%EF%BC%9A%E6%88%91%E5%8A%AA%E5%8A%9B%E5%88%B030%E5%B2%81%E8%BF%98%E6%B2%A1%E8%BF%87%E4%B8%8A%E5%A5%BD%E6%97%A5%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [三个台风同时上线？专家提醒](https://www.baidu.com/s?wd=%E4%B8%89%E4%B8%AA%E5%8F%B0%E9%A3%8E%E5%90%8C%E6%97%B6%E4%B8%8A%E7%BA%BF%EF%BC%9F%E4%B8%93%E5%AE%B6%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [被枪杀导师生前担心学生精神状况](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9E%AA%E6%9D%80%E5%AF%BC%E5%B8%88%E7%94%9F%E5%89%8D%E6%8B%85%E5%BF%83%E5%AD%A6%E7%94%9F%E7%B2%BE%E7%A5%9E%E7%8A%B6%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [儿子被撞送医途中车祸致女儿身亡](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%A2%AB%E6%92%9E%E9%80%81%E5%8C%BB%E9%80%94%E4%B8%AD%E8%BD%A6%E7%A5%B8%E8%87%B4%E5%A5%B3%E5%84%BF%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [鸟鸟：我努力到30岁还没过上好日子](https://www.baidu.com/s?wd=%E9%B8%9F%E9%B8%9F%EF%BC%9A%E6%88%91%E5%8A%AA%E5%8A%9B%E5%88%B030%E5%B2%81%E8%BF%98%E6%B2%A1%E8%BF%87%E4%B8%8A%E5%A5%BD%E6%97%A5%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [三个台风同时上线？专家提醒](https://www.baidu.com/s?wd=%E4%B8%89%E4%B8%AA%E5%8F%B0%E9%A3%8E%E5%90%8C%E6%97%B6%E4%B8%8A%E7%BA%BF%EF%BC%9F%E4%B8%93%E5%AE%B6%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [被枪杀导师生前担心学生精神状况](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9E%AA%E6%9D%80%E5%AF%BC%E5%B8%88%E7%94%9F%E5%89%8D%E6%8B%85%E5%BF%83%E5%AD%A6%E7%94%9F%E7%B2%BE%E7%A5%9E%E7%8A%B6%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
