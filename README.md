@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 18:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 18:54:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [95岁李嘉诚坐轮椅到寺庙](https://www.baidu.com/s?wd=95%E5%B2%81%E6%9D%8E%E5%98%89%E8%AF%9A%E5%9D%90%E8%BD%AE%E6%A4%85%E5%88%B0%E5%AF%BA%E5%BA%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京冰雹](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%86%B0%E9%9B%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“华尔街之狼”正抄底中国房地产](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%8E%E5%B0%94%E8%A1%97%E4%B9%8B%E7%8B%BC%E2%80%9D%E6%AD%A3%E6%8A%84%E5%BA%95%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国盐业协会回应“抢盐现象”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9B%90%E4%B8%9A%E5%8D%8F%E4%BC%9A%E5%9B%9E%E5%BA%94%E2%80%9C%E6%8A%A2%E7%9B%90%E7%8E%B0%E8%B1%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [导游评天价雕塑遭威胁 相关部门道歉](https://www.baidu.com/s?wd=%E5%AF%BC%E6%B8%B8%E8%AF%84%E5%A4%A9%E4%BB%B7%E9%9B%95%E5%A1%91%E9%81%AD%E5%A8%81%E8%83%81+%E7%9B%B8%E5%85%B3%E9%83%A8%E9%97%A8%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [95岁李嘉诚坐轮椅到寺庙](https://www.baidu.com/s?wd=95%E5%B2%81%E6%9D%8E%E5%98%89%E8%AF%9A%E5%9D%90%E8%BD%AE%E6%A4%85%E5%88%B0%E5%AF%BA%E5%BA%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京冰雹](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%86%B0%E9%9B%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“华尔街之狼”正抄底中国房地产](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%8E%E5%B0%94%E8%A1%97%E4%B9%8B%E7%8B%BC%E2%80%9D%E6%AD%A3%E6%8A%84%E5%BA%95%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国盐业协会回应“抢盐现象”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9B%90%E4%B8%9A%E5%8D%8F%E4%BC%9A%E5%9B%9E%E5%BA%94%E2%80%9C%E6%8A%A2%E7%9B%90%E7%8E%B0%E8%B1%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [导游评天价雕塑遭威胁 相关部门道歉](https://www.baidu.com/s?wd=%E5%AF%BC%E6%B8%B8%E8%AF%84%E5%A4%A9%E4%BB%B7%E9%9B%95%E5%A1%91%E9%81%AD%E5%A8%81%E8%83%81+%E7%9B%B8%E5%85%B3%E9%83%A8%E9%97%A8%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
