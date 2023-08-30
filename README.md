@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 11:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 11:12:01</h4></div>
 
 > 微博  
 
 1. [小红书旅游搭子被指涉黄](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%BA%A2%E4%B9%A6%E6%97%85%E6%B8%B8%E6%90%AD%E5%AD%90%E8%A2%AB%E6%8C%87%E6%B6%89%E9%BB%84%23&t=31&band_rank=1&Refer=top)<br />
 2. [中元节](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%85%83%E8%8A%82&t=31&band_rank=2&Refer=top)<br />
-3. [如何规范使用地图](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E8%A7%84%E8%8C%83%E4%BD%BF%E7%94%A8%E5%9C%B0%E5%9B%BE%23&t=31&band_rank=3&Refer=top)<br />
+3. [把星辰的声音谱成音乐有多美](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E6%98%9F%E8%BE%B0%E7%9A%84%E5%A3%B0%E9%9F%B3%E8%B0%B1%E6%88%90%E9%9F%B3%E4%B9%90%E6%9C%89%E5%A4%9A%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [正式确诊为胡歌](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E8%83%A1%E6%AD%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [魏大勋 欧莱雅](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8B%20%E6%AC%A7%E8%8E%B1%E9%9B%85&t=31&band_rank=5&Refer=top)<br />
 6. [韩媒曝成龙金喜善合作神话2](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E6%9B%9D%E6%88%90%E9%BE%99%E9%87%91%E5%96%9C%E5%96%84%E5%90%88%E4%BD%9C%E7%A5%9E%E8%AF%9D2%23&t=31&band_rank=6&Refer=top)<br />
