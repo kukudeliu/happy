@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 04:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 04:22:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [辽宁一海域海水变黑 当地回应](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E6%B5%B7%E5%9F%9F%E6%B5%B7%E6%B0%B4%E5%8F%98%E9%BB%91+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [大爷见女网友被骗800万后去世](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E8%A7%81%E5%A5%B3%E7%BD%91%E5%8F%8B%E8%A2%AB%E9%AA%97800%E4%B8%87%E5%90%8E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [行政处罚书还原孙菲菲被打事件](https://www.baidu.com/s?wd=%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E4%B9%A6%E8%BF%98%E5%8E%9F%E5%AD%99%E8%8F%B2%E8%8F%B2%E8%A2%AB%E6%89%93%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [导游评天价雕塑遭威胁 相关部门道歉](https://www.baidu.com/s?wd=%E5%AF%BC%E6%B8%B8%E8%AF%84%E5%A4%A9%E4%BB%B7%E9%9B%95%E5%A1%91%E9%81%AD%E5%A8%81%E8%83%81+%E7%9B%B8%E5%85%B3%E9%83%A8%E9%97%A8%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [辽宁一海域海水变黑 当地回应](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E6%B5%B7%E5%9F%9F%E6%B5%B7%E6%B0%B4%E5%8F%98%E9%BB%91+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [大爷见女网友被骗800万后去世](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E8%A7%81%E5%A5%B3%E7%BD%91%E5%8F%8B%E8%A2%AB%E9%AA%97800%E4%B8%87%E5%90%8E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [行政处罚书还原孙菲菲被打事件](https://www.baidu.com/s?wd=%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E4%B9%A6%E8%BF%98%E5%8E%9F%E5%AD%99%E8%8F%B2%E8%8F%B2%E8%A2%AB%E6%89%93%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [导游评天价雕塑遭威胁 相关部门道歉](https://www.baidu.com/s?wd=%E5%AF%BC%E6%B8%B8%E8%AF%84%E5%A4%A9%E4%BB%B7%E9%9B%95%E5%A1%91%E9%81%AD%E5%A8%81%E8%83%81+%E7%9B%B8%E5%85%B3%E9%83%A8%E9%97%A8%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
