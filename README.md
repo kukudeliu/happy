@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 19:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 19:19:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [总导演剧透杭州亚运会开幕式创意](https://s.weibo.com/weibo?q=%23%E6%80%BB%E5%AF%BC%E6%BC%94%E5%89%A7%E9%80%8F%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%88%9B%E6%84%8F%23&t=31&band_rank=3&Refer=top)<br />
 4. [王阳 我们都会选择站在正义的一方](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%98%B3%20%E6%88%91%E4%BB%AC%E9%83%BD%E4%BC%9A%E9%80%89%E6%8B%A9%E7%AB%99%E5%9C%A8%E6%AD%A3%E4%B9%89%E7%9A%84%E4%B8%80%E6%96%B9&t=31&band_rank=4&Refer=top)<br />
 5. [6岁脑瘫女孩豆豆成为小学生](https://s.weibo.com/weibo?q=%236%E5%B2%81%E8%84%91%E7%98%AB%E5%A5%B3%E5%AD%A9%E8%B1%86%E8%B1%86%E6%88%90%E4%B8%BA%E5%B0%8F%E5%AD%A6%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
-6. [王阳曾回应孙菲菲与导演的冲突](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%98%B3%E6%9B%BE%E5%9B%9E%E5%BA%94%E5%AD%99%E8%8F%B2%E8%8F%B2%E4%B8%8E%E5%AF%BC%E6%BC%94%E7%9A%84%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
+6. [古剑奇谭主题曲竟然是陆虎写的](https://s.weibo.com/weibo?q=%E5%8F%A4%E5%89%91%E5%A5%87%E8%B0%AD%E4%B8%BB%E9%A2%98%E6%9B%B2%E7%AB%9F%E7%84%B6%E6%98%AF%E9%99%86%E8%99%8E%E5%86%99%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
 7. [孕妇街头狂奔追人交警果断出手](https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E8%A1%97%E5%A4%B4%E7%8B%82%E5%A5%94%E8%BF%BD%E4%BA%BA%E4%BA%A4%E8%AD%A6%E6%9E%9C%E6%96%AD%E5%87%BA%E6%89%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [古剑奇谭主题曲竟然是陆虎写的](https://s.weibo.com/weibo?q=%E5%8F%A4%E5%89%91%E5%A5%87%E8%B0%AD%E4%B8%BB%E9%A2%98%E6%9B%B2%E7%AB%9F%E7%84%B6%E6%98%AF%E9%99%86%E8%99%8E%E5%86%99%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
+8. [王阳曾回应孙菲菲与导演的冲突](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%98%B3%E6%9B%BE%E5%9B%9E%E5%BA%94%E5%AD%99%E8%8F%B2%E8%8F%B2%E4%B8%8E%E5%AF%BC%E6%BC%94%E7%9A%84%E5%86%B2%E7%AA%81%23&t=31&band_rank=8&Refer=top)<br />
 9. [超级蓝月](https://s.weibo.com/weibo?q=%23%E8%B6%85%E7%BA%A7%E8%93%9D%E6%9C%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
