@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 21:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 21:07:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [5岁儿子被撞送医途中车祸致女儿身亡](https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%84%BF%E5%AD%90%E8%A2%AB%E6%92%9E%E9%80%81%E5%8C%BB%E9%80%94%E4%B8%AD%E8%BD%A6%E7%A5%B8%E8%87%B4%E5%A5%B3%E5%84%BF%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [椰树集团招生本科生月薪涨至2万](https://s.weibo.com/weibo?q=%23%E6%A4%B0%E6%A0%91%E9%9B%86%E5%9B%A2%E6%8B%9B%E7%94%9F%E6%9C%AC%E7%A7%91%E7%94%9F%E6%9C%88%E8%96%AA%E6%B6%A8%E8%87%B32%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [日方反咬中国洗白不了排污入海劣迹](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%96%B9%E5%8F%8D%E5%92%AC%E4%B8%AD%E5%9B%BD%E6%B4%97%E7%99%BD%E4%B8%8D%E4%BA%86%E6%8E%92%E6%B1%A1%E5%85%A5%E6%B5%B7%E5%8A%A3%E8%BF%B9%23&t=31&band_rank=6&Refer=top)<br />
-7. [中国男篮vs波多黎各男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%B3%A2%E5%A4%9A%E9%BB%8E%E5%90%84%E7%94%B7%E7%AF%AE%23&t=31&band_rank=7&Refer=top)<br />
-8. [辽宁卫视曾报道孙菲菲被霸凌事件](https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86%E6%9B%BE%E6%8A%A5%E9%81%93%E5%AD%99%E8%8F%B2%E8%8F%B2%E8%A2%AB%E9%9C%B8%E5%87%8C%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
+7. [辽宁卫视曾报道孙菲菲被霸凌事件](https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86%E6%9B%BE%E6%8A%A5%E9%81%93%E5%AD%99%E8%8F%B2%E8%8F%B2%E8%A2%AB%E9%9C%B8%E5%87%8C%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
+8. [中国男篮vs波多黎各男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%B3%A2%E5%A4%9A%E9%BB%8E%E5%90%84%E7%94%B7%E7%AF%AE%23&t=31&band_rank=8&Refer=top)<br />
 9. [古剑奇谭主题曲竟然是陆虎写的](https://s.weibo.com/weibo?q=%E5%8F%A4%E5%89%91%E5%A5%87%E8%B0%AD%E4%B8%BB%E9%A2%98%E6%9B%B2%E7%AB%9F%E7%84%B6%E6%98%AF%E9%99%86%E8%99%8E%E5%86%99%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
