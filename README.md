@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 09:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-30 09:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [易建联退役](https://s.weibo.com/weibo?q=%23%E6%98%93%E5%BB%BA%E8%81%94%E9%80%80%E5%BD%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [俄罗斯16岁花滑运动员戈尔巴乔娃失踪](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF16%E5%B2%81%E8%8A%B1%E6%BB%91%E8%BF%90%E5%8A%A8%E5%91%98%E6%88%88%E5%B0%94%E5%B7%B4%E4%B9%94%E5%A8%83%E5%A4%B1%E8%B8%AA%23&t=31&band_rank=7&Refer=top)<br />
 8. [苹果发布会](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [永远的中国队长](https://s.weibo.com/weibo?q=%E6%B0%B8%E8%BF%9C%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%95%BF&t=31&band_rank=9&Refer=top)<br />
+9. [韩媒曝成龙金喜善合作神话2](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E6%9B%9D%E6%88%90%E9%BE%99%E9%87%91%E5%96%9C%E5%96%84%E5%90%88%E4%BD%9C%E7%A5%9E%E8%AF%9D2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
