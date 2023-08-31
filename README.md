@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 15:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 15:54:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [#宋祖儿被实名举报偷漏税#](https://www.baidu.com/s?wd=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%81%B7%E6%BC%8F%E7%A8%8E%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [烟台海边现大量蝼蛄虾](https://www.baidu.com/s?wd=%E7%83%9F%E5%8F%B0%E6%B5%B7%E8%BE%B9%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%9D%BC%E8%9B%84%E8%99%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本32人吃便当后不适 1人死亡](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC32%E4%BA%BA%E5%90%83%E4%BE%BF%E5%BD%93%E5%90%8E%E4%B8%8D%E9%80%82+1%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一个暑假跑900万次 香港人挤爆深圳](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9A%91%E5%81%87%E8%B7%91900%E4%B8%87%E6%AC%A1+%E9%A6%99%E6%B8%AF%E4%BA%BA%E6%8C%A4%E7%88%86%E6%B7%B1%E5%9C%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [江苏一男子杀害3人已被抓](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B33%E4%BA%BA%E5%B7%B2%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [#宋祖儿被实名举报偷漏税#](https://www.baidu.com/s?wd=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%81%B7%E6%BC%8F%E7%A8%8E%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [烟台海边现大量蝼蛄虾](https://www.baidu.com/s?wd=%E7%83%9F%E5%8F%B0%E6%B5%B7%E8%BE%B9%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%9D%BC%E8%9B%84%E8%99%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本32人吃便当后不适 1人死亡](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC32%E4%BA%BA%E5%90%83%E4%BE%BF%E5%BD%93%E5%90%8E%E4%B8%8D%E9%80%82+1%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [一个暑假跑900万次 香港人挤爆深圳](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9A%91%E5%81%87%E8%B7%91900%E4%B8%87%E6%AC%A1+%E9%A6%99%E6%B8%AF%E4%BA%BA%E6%8C%A4%E7%88%86%E6%B7%B1%E5%9C%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [江苏一男子杀害3人已被抓](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B33%E4%BA%BA%E5%B7%B2%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
