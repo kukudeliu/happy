@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 16:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 16:47:02</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [以学促干](https://www.baidu.com/s?wd=%E4%BB%A5%E5%AD%A6%E4%BF%83%E5%B9%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [确保正常开学安全开学](https://www.baidu.com/s?wd=%E7%A1%AE%E4%BF%9D%E6%AD%A3%E5%B8%B8%E5%BC%80%E5%AD%A6%E5%AE%89%E5%85%A8%E5%BC%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [深圳全市将停课](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E5%B0%86%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [武汉官宣认房不认贷](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%AE%98%E5%AE%A3%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [凝聚侨心侨力 谱写复兴华章](https://www.baidu.com/s?wd=%E5%87%9D%E8%81%9A%E4%BE%A8%E5%BF%83%E4%BE%A8%E5%8A%9B+%E8%B0%B1%E5%86%99%E5%A4%8D%E5%85%B4%E5%8D%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [以学促干](https://www.baidu.com/s?wd=%E4%BB%A5%E5%AD%A6%E4%BF%83%E5%B9%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [确保正常开学安全开学](https://www.baidu.com/s?wd=%E7%A1%AE%E4%BF%9D%E6%AD%A3%E5%B8%B8%E5%BC%80%E5%AD%A6%E5%AE%89%E5%85%A8%E5%BC%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [深圳全市将停课](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E5%B0%86%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [武汉官宣认房不认贷](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%AE%98%E5%AE%A3%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [凝聚侨心侨力 谱写复兴华章](https://www.baidu.com/s?wd=%E5%87%9D%E8%81%9A%E4%BE%A8%E5%BF%83%E4%BE%A8%E5%8A%9B+%E8%B0%B1%E5%86%99%E5%A4%8D%E5%85%B4%E5%8D%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
