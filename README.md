@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 12:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 12:44:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李湘：我已退休了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%B9%98%EF%BC%9A%E6%88%91%E5%B7%B2%E9%80%80%E4%BC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小伙中6835万独自领奖没告诉妻子](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%B8%AD6835%E4%B8%87%E7%8B%AC%E8%87%AA%E9%A2%86%E5%A5%96%E6%B2%A1%E5%91%8A%E8%AF%89%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [华春莹连发4帖警告日本](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E8%BF%9E%E5%8F%914%E5%B8%96%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张颂文评价檀健次、孙阳](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E8%AF%84%E4%BB%B7%E6%AA%80%E5%81%A5%E6%AC%A1%E3%80%81%E5%AD%99%E9%98%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [婴儿被高空抛下烟头烫伤 或全楼做DNA](https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E8%A2%AB%E9%AB%98%E7%A9%BA%E6%8A%9B%E4%B8%8B%E7%83%9F%E5%A4%B4%E7%83%AB%E4%BC%A4+%E6%88%96%E5%85%A8%E6%A5%BC%E5%81%9ADNA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [华春莹连发4帖警告日本](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E8%BF%9E%E5%8F%914%E5%B8%96%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李湘：我已退休了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%B9%98%EF%BC%9A%E6%88%91%E5%B7%B2%E9%80%80%E4%BC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小伙中6835万独自领奖没告诉妻子](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%B8%AD6835%E4%B8%87%E7%8B%AC%E8%87%AA%E9%A2%86%E5%A5%96%E6%B2%A1%E5%91%8A%E8%AF%89%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [华春莹连发4帖警告日本](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E8%BF%9E%E5%8F%914%E5%B8%96%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张颂文评价檀健次、孙阳](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E8%AF%84%E4%BB%B7%E6%AA%80%E5%81%A5%E6%AC%A1%E3%80%81%E5%AD%99%E9%98%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [婴儿被高空抛下烟头烫伤 或全楼做DNA](https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E8%A2%AB%E9%AB%98%E7%A9%BA%E6%8A%9B%E4%B8%8B%E7%83%9F%E5%A4%B4%E7%83%AB%E4%BC%A4+%E6%88%96%E5%85%A8%E6%A5%BC%E5%81%9ADNA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [华春莹连发4帖警告日本](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E8%BF%9E%E5%8F%914%E5%B8%96%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
