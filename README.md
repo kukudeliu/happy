@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 20:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 20:37:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [确保正常开学安全开学](https://www.baidu.com/s?wd=%E7%A1%AE%E4%BF%9D%E6%AD%A3%E5%B8%B8%E5%BC%80%E5%AD%A6%E5%AE%89%E5%85%A8%E5%BC%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [官方：降低存量首套住房贷款利率](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E9%99%8D%E4%BD%8E%E5%AD%98%E9%87%8F%E9%A6%96%E5%A5%97%E4%BD%8F%E6%88%BF%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [官方调整住房信贷政策要点一览](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%B0%83%E6%95%B4%E4%BD%8F%E6%88%BF%E4%BF%A1%E8%B4%B7%E6%94%BF%E7%AD%96%E8%A6%81%E7%82%B9%E4%B8%80%E8%A7%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [首套房贷款最低首付不低于20%](https://www.baidu.com/s?wd=%E9%A6%96%E5%A5%97%E6%88%BF%E8%B4%B7%E6%AC%BE%E6%9C%80%E4%BD%8E%E9%A6%96%E4%BB%98%E4%B8%8D%E4%BD%8E%E4%BA%8E20%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [当杭州亚运会遇见中国风](https://www.baidu.com/s?wd=%E5%BD%93%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%81%87%E8%A7%81%E4%B8%AD%E5%9B%BD%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [确保正常开学安全开学](https://www.baidu.com/s?wd=%E7%A1%AE%E4%BF%9D%E6%AD%A3%E5%B8%B8%E5%BC%80%E5%AD%A6%E5%AE%89%E5%85%A8%E5%BC%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [官方：降低存量首套住房贷款利率](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E9%99%8D%E4%BD%8E%E5%AD%98%E9%87%8F%E9%A6%96%E5%A5%97%E4%BD%8F%E6%88%BF%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [官方调整住房信贷政策要点一览](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%B0%83%E6%95%B4%E4%BD%8F%E6%88%BF%E4%BF%A1%E8%B4%B7%E6%94%BF%E7%AD%96%E8%A6%81%E7%82%B9%E4%B8%80%E8%A7%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [首套房贷款最低首付不低于20%](https://www.baidu.com/s?wd=%E9%A6%96%E5%A5%97%E6%88%BF%E8%B4%B7%E6%AC%BE%E6%9C%80%E4%BD%8E%E9%A6%96%E4%BB%98%E4%B8%8D%E4%BD%8E%E4%BA%8E20%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [当杭州亚运会遇见中国风](https://www.baidu.com/s?wd=%E5%BD%93%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%81%87%E8%A7%81%E4%B8%AD%E5%9B%BD%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
