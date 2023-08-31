@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 03:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 03:28:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [深圳全市将停课](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E5%B0%86%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [马斯克称视音频通话将登陆X](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%A7%86%E9%9F%B3%E9%A2%91%E9%80%9A%E8%AF%9D%E5%B0%86%E7%99%BB%E9%99%86X&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [华春莹连发4帖警告日本](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E8%BF%9E%E5%8F%914%E5%B8%96%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多家卫视官博已无宋祖儿相关内容](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%8D%AB%E8%A7%86%E5%AE%98%E5%8D%9A%E5%B7%B2%E6%97%A0%E5%AE%8B%E7%A5%96%E5%84%BF%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度跑网约车比白领工资高一半](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%B7%91%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%AF%94%E7%99%BD%E9%A2%86%E5%B7%A5%E8%B5%84%E9%AB%98%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [深圳全市将停课](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E5%B0%86%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [马斯克称视音频通话将登陆X](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%A7%86%E9%9F%B3%E9%A2%91%E9%80%9A%E8%AF%9D%E5%B0%86%E7%99%BB%E9%99%86X&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [华春莹连发4帖警告日本](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E8%BF%9E%E5%8F%914%E5%B8%96%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多家卫视官博已无宋祖儿相关内容](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%8D%AB%E8%A7%86%E5%AE%98%E5%8D%9A%E5%B7%B2%E6%97%A0%E5%AE%8B%E7%A5%96%E5%84%BF%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度跑网约车比白领工资高一半](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%B7%91%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%AF%94%E7%99%BD%E9%A2%86%E5%B7%A5%E8%B5%84%E9%AB%98%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
