@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 23:42:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 23:43:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [首套房贷款最低首付不低于20%](https://www.baidu.com/s?wd=%E9%A6%96%E5%A5%97%E6%88%BF%E8%B4%B7%E6%AC%BE%E6%9C%80%E4%BD%8E%E9%A6%96%E4%BB%98%E4%B8%8D%E4%BD%8E%E4%BA%8E20%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [岸田声称将努力让中国撤销进口限制](https://www.baidu.com/s?wd=%E5%B2%B8%E7%94%B0%E5%A3%B0%E7%A7%B0%E5%B0%86%E5%8A%AA%E5%8A%9B%E8%AE%A9%E4%B8%AD%E5%9B%BD%E6%92%A4%E9%94%80%E8%BF%9B%E5%8F%A3%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [瓦格纳发布普里戈任生前最后影像](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%8F%91%E5%B8%83%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%94%9F%E5%89%8D%E6%9C%80%E5%90%8E%E5%BD%B1%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [学校回应宿舍床铺紧挨无缝隙](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AE%BF%E8%88%8D%E5%BA%8A%E9%93%BA%E7%B4%A7%E6%8C%A8%E6%97%A0%E7%BC%9D%E9%9A%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [河北一学校回应拦长发女生入校](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E6%8B%A6%E9%95%BF%E5%8F%91%E5%A5%B3%E7%94%9F%E5%85%A5%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [首套房贷款最低首付不低于20%](https://www.baidu.com/s?wd=%E9%A6%96%E5%A5%97%E6%88%BF%E8%B4%B7%E6%AC%BE%E6%9C%80%E4%BD%8E%E9%A6%96%E4%BB%98%E4%B8%8D%E4%BD%8E%E4%BA%8E20%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [岸田声称将努力让中国撤销进口限制](https://www.baidu.com/s?wd=%E5%B2%B8%E7%94%B0%E5%A3%B0%E7%A7%B0%E5%B0%86%E5%8A%AA%E5%8A%9B%E8%AE%A9%E4%B8%AD%E5%9B%BD%E6%92%A4%E9%94%80%E8%BF%9B%E5%8F%A3%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [瓦格纳发布普里戈任生前最后影像](https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%8F%91%E5%B8%83%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%94%9F%E5%89%8D%E6%9C%80%E5%90%8E%E5%BD%B1%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [学校回应宿舍床铺紧挨无缝隙](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AE%BF%E8%88%8D%E5%BA%8A%E9%93%BA%E7%B4%A7%E6%8C%A8%E6%97%A0%E7%BC%9D%E9%9A%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [河北一学校回应拦长发女生入校](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E6%8B%A6%E9%95%BF%E5%8F%91%E5%A5%B3%E7%94%9F%E5%85%A5%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
