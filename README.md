@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 16:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 16:49:01</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [确保正常开学安全开学](https://www.baidu.com/s?wd=%E7%A1%AE%E4%BF%9D%E6%AD%A3%E5%B8%B8%E5%BC%80%E5%AD%A6%E5%AE%89%E5%85%A8%E5%BC%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [深圳全市将停课](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E5%B0%86%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [武汉官宣认房不认贷](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%AE%98%E5%AE%A3%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [国防部辟谣093核潜艇在台海失事](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E8%BE%9F%E8%B0%A3093%E6%A0%B8%E6%BD%9C%E8%89%87%E5%9C%A8%E5%8F%B0%E6%B5%B7%E5%A4%B1%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [当杭州亚运会遇见中国风](https://www.baidu.com/s?wd=%E5%BD%93%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%81%87%E8%A7%81%E4%B8%AD%E5%9B%BD%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [税务总局：会对宋祖儿开展税务稽查](https://www.baidu.com/s?wd=%E7%A8%8E%E5%8A%A1%E6%80%BB%E5%B1%80%EF%BC%9A%E4%BC%9A%E5%AF%B9%E5%AE%8B%E7%A5%96%E5%84%BF%E5%BC%80%E5%B1%95%E7%A8%8E%E5%8A%A1%E7%A8%BD%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [万科董事会主席：房地产跌过头了](https://www.baidu.com/s?wd=%E4%B8%87%E7%A7%91%E8%91%A3%E4%BA%8B%E4%BC%9A%E4%B8%BB%E5%B8%AD%EF%BC%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%B7%8C%E8%BF%87%E5%A4%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一个暑假跑900万次 香港人挤爆深圳](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9A%91%E5%81%87%E8%B7%91900%E4%B8%87%E6%AC%A1+%E9%A6%99%E6%B8%AF%E4%BA%BA%E6%8C%A4%E7%88%86%E6%B7%B1%E5%9C%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [自缢富翁是否遭遇被精神病?医院回应](https://www.baidu.com/s?wd=%E8%87%AA%E7%BC%A2%E5%AF%8C%E7%BF%81%E6%98%AF%E5%90%A6%E9%81%AD%E9%81%87%E8%A2%AB%E7%B2%BE%E7%A5%9E%E7%97%85%3F%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [武汉官宣认房不认贷](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%AE%98%E5%AE%A3%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [福建平潭夜空现巨型云环](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E5%B9%B3%E6%BD%AD%E5%A4%9C%E7%A9%BA%E7%8E%B0%E5%B7%A8%E5%9E%8B%E4%BA%91%E7%8E%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [确保正常开学安全开学](https://www.baidu.com/s?wd=%E7%A1%AE%E4%BF%9D%E6%AD%A3%E5%B8%B8%E5%BC%80%E5%AD%A6%E5%AE%89%E5%85%A8%E5%BC%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [深圳全市将停课](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E5%B0%86%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [武汉官宣认房不认贷](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%AE%98%E5%AE%A3%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [国防部辟谣093核潜艇在台海失事](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E8%BE%9F%E8%B0%A3093%E6%A0%B8%E6%BD%9C%E8%89%87%E5%9C%A8%E5%8F%B0%E6%B5%B7%E5%A4%B1%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [当杭州亚运会遇见中国风](https://www.baidu.com/s?wd=%E5%BD%93%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%81%87%E8%A7%81%E4%B8%AD%E5%9B%BD%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [税务总局：会对宋祖儿开展税务稽查](https://www.baidu.com/s?wd=%E7%A8%8E%E5%8A%A1%E6%80%BB%E5%B1%80%EF%BC%9A%E4%BC%9A%E5%AF%B9%E5%AE%8B%E7%A5%96%E5%84%BF%E5%BC%80%E5%B1%95%E7%A8%8E%E5%8A%A1%E7%A8%BD%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [万科董事会主席：房地产跌过头了](https://www.baidu.com/s?wd=%E4%B8%87%E7%A7%91%E8%91%A3%E4%BA%8B%E4%BC%9A%E4%B8%BB%E5%B8%AD%EF%BC%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%B7%8C%E8%BF%87%E5%A4%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一个暑假跑900万次 香港人挤爆深圳](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9A%91%E5%81%87%E8%B7%91900%E4%B8%87%E6%AC%A1+%E9%A6%99%E6%B8%AF%E4%BA%BA%E6%8C%A4%E7%88%86%E6%B7%B1%E5%9C%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [自缢富翁是否遭遇被精神病?医院回应](https://www.baidu.com/s?wd=%E8%87%AA%E7%BC%A2%E5%AF%8C%E7%BF%81%E6%98%AF%E5%90%A6%E9%81%AD%E9%81%87%E8%A2%AB%E7%B2%BE%E7%A5%9E%E7%97%85%3F%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [武汉官宣认房不认贷](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%AE%98%E5%AE%A3%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [福建平潭夜空现巨型云环](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E5%B9%B3%E6%BD%AD%E5%A4%9C%E7%A9%BA%E7%8E%B0%E5%B7%A8%E5%9E%8B%E4%BA%91%E7%8E%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
