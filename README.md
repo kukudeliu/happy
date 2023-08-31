@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 12:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 12:59:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [开学第一课丨习近平寄语莘莘学子](https://www.baidu.com/s?wd=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%E4%B8%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%84%E8%AF%AD%E8%8E%98%E8%8E%98%E5%AD%A6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [以学促干](https://www.baidu.com/s?wd=%E4%BB%A5%E5%AD%A6%E4%BF%83%E5%B9%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [#宋祖儿被实名举报偷漏税#](https://www.baidu.com/s?wd=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%81%B7%E6%BC%8F%E7%A8%8E%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [评天价雕塑被威胁导游已报案](https://www.baidu.com/s?wd=%E8%AF%84%E5%A4%A9%E4%BB%B7%E9%9B%95%E5%A1%91%E8%A2%AB%E5%A8%81%E8%83%81%E5%AF%BC%E6%B8%B8%E5%B7%B2%E6%8A%A5%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [凝聚侨心侨力 谱写复兴华章](https://www.baidu.com/s?wd=%E5%87%9D%E8%81%9A%E4%BE%A8%E5%BF%83%E4%BE%A8%E5%8A%9B+%E8%B0%B1%E5%86%99%E5%A4%8D%E5%85%B4%E5%8D%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [开学第一课丨习近平寄语莘莘学子](https://www.baidu.com/s?wd=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%E4%B8%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%84%E8%AF%AD%E8%8E%98%E8%8E%98%E5%AD%A6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [以学促干](https://www.baidu.com/s?wd=%E4%BB%A5%E5%AD%A6%E4%BF%83%E5%B9%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [#宋祖儿被实名举报偷漏税#](https://www.baidu.com/s?wd=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%81%B7%E6%BC%8F%E7%A8%8E%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [评天价雕塑被威胁导游已报案](https://www.baidu.com/s?wd=%E8%AF%84%E5%A4%A9%E4%BB%B7%E9%9B%95%E5%A1%91%E8%A2%AB%E5%A8%81%E8%83%81%E5%AF%BC%E6%B8%B8%E5%B7%B2%E6%8A%A5%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [凝聚侨心侨力 谱写复兴华章](https://www.baidu.com/s?wd=%E5%87%9D%E8%81%9A%E4%BE%A8%E5%BF%83%E4%BE%A8%E5%8A%9B+%E8%B0%B1%E5%86%99%E5%A4%8D%E5%85%B4%E5%8D%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
