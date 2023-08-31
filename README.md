@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 18:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 18:19:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [税务总局：会对宋祖儿开展税务稽查](https://www.baidu.com/s?wd=%E7%A8%8E%E5%8A%A1%E6%80%BB%E5%B1%80%EF%BC%9A%E4%BC%9A%E5%AF%B9%E5%AE%8B%E7%A5%96%E5%84%BF%E5%BC%80%E5%B1%95%E7%A8%8E%E5%8A%A1%E7%A8%BD%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [岸田文雄在鱼市场大吃福岛章鱼](https://www.baidu.com/s?wd=%E5%B2%B8%E7%94%B0%E6%96%87%E9%9B%84%E5%9C%A8%E9%B1%BC%E5%B8%82%E5%9C%BA%E5%A4%A7%E5%90%83%E7%A6%8F%E5%B2%9B%E7%AB%A0%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大型赶作业现场又来了](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9E%8B%E8%B5%B6%E4%BD%9C%E4%B8%9A%E7%8E%B0%E5%9C%BA%E5%8F%88%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网红车评人“蔡老板”被封号](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E8%BD%A6%E8%AF%84%E4%BA%BA%E2%80%9C%E8%94%A1%E8%80%81%E6%9D%BF%E2%80%9D%E8%A2%AB%E5%B0%81%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [江苏一男子杀害3人已被抓](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B33%E4%BA%BA%E5%B7%B2%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大型赶作业现场又来了](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9E%8B%E8%B5%B6%E4%BD%9C%E4%B8%9A%E7%8E%B0%E5%9C%BA%E5%8F%88%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [税务总局：会对宋祖儿开展税务稽查](https://www.baidu.com/s?wd=%E7%A8%8E%E5%8A%A1%E6%80%BB%E5%B1%80%EF%BC%9A%E4%BC%9A%E5%AF%B9%E5%AE%8B%E7%A5%96%E5%84%BF%E5%BC%80%E5%B1%95%E7%A8%8E%E5%8A%A1%E7%A8%BD%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [岸田文雄在鱼市场大吃福岛章鱼](https://www.baidu.com/s?wd=%E5%B2%B8%E7%94%B0%E6%96%87%E9%9B%84%E5%9C%A8%E9%B1%BC%E5%B8%82%E5%9C%BA%E5%A4%A7%E5%90%83%E7%A6%8F%E5%B2%9B%E7%AB%A0%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大型赶作业现场又来了](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9E%8B%E8%B5%B6%E4%BD%9C%E4%B8%9A%E7%8E%B0%E5%9C%BA%E5%8F%88%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网红车评人“蔡老板”被封号](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E8%BD%A6%E8%AF%84%E4%BA%BA%E2%80%9C%E8%94%A1%E8%80%81%E6%9D%BF%E2%80%9D%E8%A2%AB%E5%B0%81%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [江苏一男子杀害3人已被抓](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B33%E4%BA%BA%E5%B7%B2%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大型赶作业现场又来了](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9E%8B%E8%B5%B6%E4%BD%9C%E4%B8%9A%E7%8E%B0%E5%9C%BA%E5%8F%88%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
