@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 12:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 12:58:01</h4></div>
 
 > 微博  
 
@@ -10,14 +10,14 @@
 6. [刘宇郑乃馨苍兰诀剧照](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E9%83%91%E4%B9%83%E9%A6%A8%E8%8B%8D%E5%85%B0%E8%AF%80%E5%89%A7%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [五险一金原来是这么回事](https://s.weibo.com/weibo?q=%23%E4%BA%94%E9%99%A9%E4%B8%80%E9%87%91%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E4%B9%88%E5%9B%9E%E4%BA%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [原来久坐人会变丑是真的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B9%85%E5%9D%90%E4%BA%BA%E4%BC%9A%E5%8F%98%E4%B8%91%E6%98%AF%E7%9C%9F%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [你要带我回中国吗](https://s.weibo.com/weibo?q=%E4%BD%A0%E8%A6%81%E5%B8%A6%E6%88%91%E5%9B%9E%E4%B8%AD%E5%9B%BD%E5%90%97&t=31&band_rank=9&Refer=top)<br />
+9. [孙菲菲回应被霸凌原因](https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%8F%B2%E8%8F%B2%E5%9B%9E%E5%BA%94%E8%A2%AB%E9%9C%B8%E5%87%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 
 > 百度  
 
-1. [以学促干](https://www.baidu.com/s?wd=%E4%BB%A5%E5%AD%A6%E4%BF%83%E5%B9%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [开学第一课丨习近平寄语莘莘学子](https://www.baidu.com/s?wd=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%E4%B8%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%84%E8%AF%AD%E8%8E%98%E8%8E%98%E5%AD%A6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [#宋祖儿被实名举报偷漏税#](https://www.baidu.com/s?wd=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%81%B7%E6%BC%8F%E7%A8%8E%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [评天价雕塑被威胁导游已报案](https://www.baidu.com/s?wd=%E8%AF%84%E5%A4%A9%E4%BB%B7%E9%9B%95%E5%A1%91%E8%A2%AB%E5%A8%81%E8%83%81%E5%AF%BC%E6%B8%B8%E5%B7%B2%E6%8A%A5%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [凝聚侨心侨力 谱写复兴华章](https://www.baidu.com/s?wd=%E5%87%9D%E8%81%9A%E4%BE%A8%E5%BF%83%E4%BE%A8%E5%8A%9B+%E8%B0%B1%E5%86%99%E5%A4%8D%E5%85%B4%E5%8D%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [以学促干](https://www.baidu.com/s?wd=%E4%BB%A5%E5%AD%A6%E4%BF%83%E5%B9%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [开学第一课丨习近平寄语莘莘学子](https://www.baidu.com/s?wd=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%E4%B8%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%84%E8%AF%AD%E8%8E%98%E8%8E%98%E5%AD%A6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [#宋祖儿被实名举报偷漏税#](https://www.baidu.com/s?wd=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%81%B7%E6%BC%8F%E7%A8%8E%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [评天价雕塑被威胁导游已报案](https://www.baidu.com/s?wd=%E8%AF%84%E5%A4%A9%E4%BB%B7%E9%9B%95%E5%A1%91%E8%A2%AB%E5%A8%81%E8%83%81%E5%AF%BC%E6%B8%B8%E5%B7%B2%E6%8A%A5%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [凝聚侨心侨力 谱写复兴华章](https://www.baidu.com/s?wd=%E5%87%9D%E8%81%9A%E4%BE%A8%E5%BF%83%E4%BE%A8%E5%8A%9B+%E8%B0%B1%E5%86%99%E5%A4%8D%E5%85%B4%E5%8D%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
