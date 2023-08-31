@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 08:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 08:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [行政处罚书还原孙菲菲被打事件](https://s.weibo.com/weibo?q=%23%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E4%B9%A6%E8%BF%98%E5%8E%9F%E5%AD%99%E8%8F%B2%E8%8F%B2%E8%A2%AB%E6%89%93%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么选择玉壶做主角](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E6%8B%A9%E7%8E%89%E5%A3%B6%E5%81%9A%E4%B8%BB%E8%A7%92&t=31&band_rank=7&Refer=top)<br />
 8. [台风苏拉或明天在广东沿海登陆](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%E6%88%96%E6%98%8E%E5%A4%A9%E5%9C%A8%E5%B9%BF%E4%B8%9C%E6%B2%BF%E6%B5%B7%E7%99%BB%E9%99%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [12306回应硬卧下铺别人能不能坐](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E7%A1%AC%E5%8D%A7%E4%B8%8B%E9%93%BA%E5%88%AB%E4%BA%BA%E8%83%BD%E4%B8%8D%E8%83%BD%E5%9D%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [城里夫妻租农房养老村民拿租金进城买房](https://s.weibo.com/weibo?q=%23%E5%9F%8E%E9%87%8C%E5%A4%AB%E5%A6%BB%E7%A7%9F%E5%86%9C%E6%88%BF%E5%85%BB%E8%80%81%E6%9D%91%E6%B0%91%E6%8B%BF%E7%A7%9F%E9%87%91%E8%BF%9B%E5%9F%8E%E4%B9%B0%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
