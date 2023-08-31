@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 18:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 18:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [公交车连续2年为她多等一分钟](https://s.weibo.com/weibo?q=%23%E5%85%AC%E4%BA%A4%E8%BD%A6%E8%BF%9E%E7%BB%AD2%E5%B9%B4%E4%B8%BA%E5%A5%B9%E5%A4%9A%E7%AD%89%E4%B8%80%E5%88%86%E9%92%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [中国男篮首胜](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E9%A6%96%E8%83%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [广东全力防御台风苏拉](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%85%A8%E5%8A%9B%E9%98%B2%E5%BE%A1%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [蔡老板被封号](https://s.weibo.com/weibo?q=%23%E8%94%A1%E8%80%81%E6%9D%BF%E8%A2%AB%E5%B0%81%E5%8F%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [在中医院喝到了中药奶茶](https://s.weibo.com/weibo?q=%E5%9C%A8%E4%B8%AD%E5%8C%BB%E9%99%A2%E5%96%9D%E5%88%B0%E4%BA%86%E4%B8%AD%E8%8D%AF%E5%A5%B6%E8%8C%B6&t=31&band_rank=9&Refer=top)<br />
+8. [在中医院喝到了中药奶茶](https://s.weibo.com/weibo?q=%E5%9C%A8%E4%B8%AD%E5%8C%BB%E9%99%A2%E5%96%9D%E5%88%B0%E4%BA%86%E4%B8%AD%E8%8D%AF%E5%A5%B6%E8%8C%B6&t=31&band_rank=8&Refer=top)<br />
+9. [蔡老板被封号](https://s.weibo.com/weibo?q=%23%E8%94%A1%E8%80%81%E6%9D%BF%E8%A2%AB%E5%B0%81%E5%8F%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
