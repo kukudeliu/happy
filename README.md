@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 20:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 20:41:01</h4></div>
 
 > 微博  
 
-1. [深圳全市将停课](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E5%B0%86%E5%81%9C%E8%AF%BE%23&t=31&band_rank=1&Refer=top)<br />
-2. [上错花轿嫁对郎再火的唯一受害者](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E9%94%99%E8%8A%B1%E8%BD%BF%E5%AB%81%E5%AF%B9%E9%83%8E%E5%86%8D%E7%81%AB%E7%9A%84%E5%94%AF%E4%B8%80%E5%8F%97%E5%AE%B3%E8%80%85%23&t=31&band_rank=2&Refer=top)<br />
+1. [上错花轿嫁对郎再火的唯一受害者](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E9%94%99%E8%8A%B1%E8%BD%BF%E5%AB%81%E5%AF%B9%E9%83%8E%E5%86%8D%E7%81%AB%E7%9A%84%E5%94%AF%E4%B8%80%E5%8F%97%E5%AE%B3%E8%80%85%23&t=31&band_rank=1&Refer=top)<br />
+2. [深圳全市将停课](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E5%B0%86%E5%81%9C%E8%AF%BE%23&t=31&band_rank=2&Refer=top)<br />
 3. [这些重要新规9月起施行](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%87%8D%E8%A6%81%E6%96%B0%E8%A7%849%E6%9C%88%E8%B5%B7%E6%96%BD%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [税务总局称会对宋祖儿开展税务稽查](https://s.weibo.com/weibo?q=%23%E7%A8%8E%E5%8A%A1%E6%80%BB%E5%B1%80%E7%A7%B0%E4%BC%9A%E5%AF%B9%E5%AE%8B%E7%A5%96%E5%84%BF%E5%BC%80%E5%B1%95%E7%A8%8E%E5%8A%A1%E7%A8%BD%E6%9F%A5%23&t=31&band_rank=4&Refer=top)<br />
 5. [他和她的猫开播](https://s.weibo.com/weibo?q=%E4%BB%96%E5%92%8C%E5%A5%B9%E7%9A%84%E7%8C%AB%E5%BC%80%E6%92%AD&t=31&band_rank=5&Refer=top)<br />
