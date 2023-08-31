@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 19:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 19:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子钓中1条鲅鱼身上卡着金镯子](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%92%93%E4%B8%AD1%E6%9D%A1%E9%B2%85%E9%B1%BC%E8%BA%AB%E4%B8%8A%E5%8D%A1%E7%9D%80%E9%87%91%E9%95%AF%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [广东全力防御台风苏拉](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%85%A8%E5%8A%9B%E9%98%B2%E5%BE%A1%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [在中医院喝到了中药奶茶](https://s.weibo.com/weibo?q=%E5%9C%A8%E4%B8%AD%E5%8C%BB%E9%99%A2%E5%96%9D%E5%88%B0%E4%BA%86%E4%B8%AD%E8%8D%AF%E5%A5%B6%E8%8C%B6&t=31&band_rank=8&Refer=top)<br />
-9. [中国男篮首胜](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E9%A6%96%E8%83%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [上错花轿嫁对郎再火的唯一受害者](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E9%94%99%E8%8A%B1%E8%BD%BF%E5%AB%81%E5%AF%B9%E9%83%8E%E5%86%8D%E7%81%AB%E7%9A%84%E5%94%AF%E4%B8%80%E5%8F%97%E5%AE%B3%E8%80%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
