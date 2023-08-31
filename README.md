@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 20:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 20:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女子账户突然多出800万元吓得报警](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B4%A6%E6%88%B7%E7%AA%81%E7%84%B6%E5%A4%9A%E5%87%BA800%E4%B8%87%E5%85%83%E5%90%93%E5%BE%97%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [奥本海默](https://s.weibo.com/weibo?q=%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98&t=31&band_rank=7&Refer=top)<br />
 8. [男子钓中1条鲅鱼身上卡着金镯子](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%92%93%E4%B8%AD1%E6%9D%A1%E9%B2%85%E9%B1%BC%E8%BA%AB%E4%B8%8A%E5%8D%A1%E7%9D%80%E9%87%91%E9%95%AF%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [超强台风苏拉](https://s.weibo.com/weibo?q=%23%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [在中医院喝到了中药奶茶](https://s.weibo.com/weibo?q=%E5%9C%A8%E4%B8%AD%E5%8C%BB%E9%99%A2%E5%96%9D%E5%88%B0%E4%BA%86%E4%B8%AD%E8%8D%AF%E5%A5%B6%E8%8C%B6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
