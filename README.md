@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 12:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 12:57:01</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 
 > 百度  
 
-1. [开学第一课丨习近平寄语莘莘学子](https://www.baidu.com/s?wd=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%E4%B8%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%84%E8%AF%AD%E8%8E%98%E8%8E%98%E5%AD%A6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [以学促干](https://www.baidu.com/s?wd=%E4%BB%A5%E5%AD%A6%E4%BF%83%E5%B9%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [#宋祖儿被实名举报偷漏税#](https://www.baidu.com/s?wd=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%81%B7%E6%BC%8F%E7%A8%8E%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [评天价雕塑被威胁导游已报案](https://www.baidu.com/s?wd=%E8%AF%84%E5%A4%A9%E4%BB%B7%E9%9B%95%E5%A1%91%E8%A2%AB%E5%A8%81%E8%83%81%E5%AF%BC%E6%B8%B8%E5%B7%B2%E6%8A%A5%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [总导演剧透杭州亚运会开幕式创意](https://www.baidu.com/s?wd=%E6%80%BB%E5%AF%BC%E6%BC%94%E5%89%A7%E9%80%8F%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%88%9B%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [凝聚侨心侨力 谱写复兴华章](https://www.baidu.com/s?wd=%E5%87%9D%E8%81%9A%E4%BE%A8%E5%BF%83%E4%BE%A8%E5%8A%9B+%E8%B0%B1%E5%86%99%E5%A4%8D%E5%85%B4%E5%8D%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李湘：我已退休了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%B9%98%EF%BC%9A%E6%88%91%E5%B7%B2%E9%80%80%E4%BC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [婴儿被高空抛下烟头烫伤 或全楼做DNA](https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E8%A2%AB%E9%AB%98%E7%A9%BA%E6%8A%9B%E4%B8%8B%E7%83%9F%E5%A4%B4%E7%83%AB%E4%BC%A4+%E6%88%96%E5%85%A8%E6%A5%BC%E5%81%9ADNA&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,10 +29,10 @@
 
 > 哔哩哔哩  
 
-1. [开学第一课丨习近平寄语莘莘学子](https://www.baidu.com/s?wd=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%E4%B8%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%84%E8%AF%AD%E8%8E%98%E8%8E%98%E5%AD%A6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [以学促干](https://www.baidu.com/s?wd=%E4%BB%A5%E5%AD%A6%E4%BF%83%E5%B9%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [#宋祖儿被实名举报偷漏税#](https://www.baidu.com/s?wd=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%81%B7%E6%BC%8F%E7%A8%8E%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [评天价雕塑被威胁导游已报案](https://www.baidu.com/s?wd=%E8%AF%84%E5%A4%A9%E4%BB%B7%E9%9B%95%E5%A1%91%E8%A2%AB%E5%A8%81%E8%83%81%E5%AF%BC%E6%B8%B8%E5%B7%B2%E6%8A%A5%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [总导演剧透杭州亚运会开幕式创意](https://www.baidu.com/s?wd=%E6%80%BB%E5%AF%BC%E6%BC%94%E5%89%A7%E9%80%8F%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%88%9B%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [凝聚侨心侨力 谱写复兴华章](https://www.baidu.com/s?wd=%E5%87%9D%E8%81%9A%E4%BE%A8%E5%BF%83%E4%BE%A8%E5%8A%9B+%E8%B0%B1%E5%86%99%E5%A4%8D%E5%85%B4%E5%8D%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [文心一言率先全面开放](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李湘：我已退休了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%B9%98%EF%BC%9A%E6%88%91%E5%B7%B2%E9%80%80%E4%BC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [婴儿被高空抛下烟头烫伤 或全楼做DNA](https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E8%A2%AB%E9%AB%98%E7%A9%BA%E6%8A%9B%E4%B8%8B%E7%83%9F%E5%A4%B4%E7%83%AB%E4%BC%A4+%E6%88%96%E5%85%A8%E6%A5%BC%E5%81%9ADNA&sa=fyb_news&rsv_dl=fyb_news)<br />
