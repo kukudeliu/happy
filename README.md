@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 17:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 18:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [蔡老板被封号](https://s.weibo.com/weibo?q=%23%E8%94%A1%E8%80%81%E6%9D%BF%E8%A2%AB%E5%B0%81%E5%8F%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [公交车连续2年为她多等一分钟](https://s.weibo.com/weibo?q=%23%E5%85%AC%E4%BA%A4%E8%BD%A6%E8%BF%9E%E7%BB%AD2%E5%B9%B4%E4%B8%BA%E5%A5%B9%E5%A4%9A%E7%AD%89%E4%B8%80%E5%88%86%E9%92%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [李湘 我已退休](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B9%98%20%E6%88%91%E5%B7%B2%E9%80%80%E4%BC%91&t=31&band_rank=8&Refer=top)<br />
-9. [女子账户突然多出800万元吓得报警](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B4%A6%E6%88%B7%E7%AA%81%E7%84%B6%E5%A4%9A%E5%87%BA800%E4%B8%87%E5%85%83%E5%90%93%E5%BE%97%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [在中医院喝到了中药奶茶](https://s.weibo.com/weibo?q=%E5%9C%A8%E4%B8%AD%E5%8C%BB%E9%99%A2%E5%96%9D%E5%88%B0%E4%BA%86%E4%B8%AD%E8%8D%AF%E5%A5%B6%E8%8C%B6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
