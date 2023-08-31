@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 12:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 12:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [原来久坐人会变丑是真的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B9%85%E5%9D%90%E4%BA%BA%E4%BC%9A%E5%8F%98%E4%B8%91%E6%98%AF%E7%9C%9F%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [你要带我回中国吗](https://s.weibo.com/weibo?q=%E4%BD%A0%E8%A6%81%E5%B8%A6%E6%88%91%E5%9B%9E%E4%B8%AD%E5%9B%BD%E5%90%97&t=31&band_rank=7&Refer=top)<br />
 8. [孙菲菲回应被霸凌原因](https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%8F%B2%E8%8F%B2%E5%9B%9E%E5%BA%94%E8%A2%AB%E9%9C%B8%E5%87%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [女生每天只吃15元省下的全买书](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%AF%8F%E5%A4%A9%E5%8F%AA%E5%90%8315%E5%85%83%E7%9C%81%E4%B8%8B%E7%9A%84%E5%85%A8%E4%B9%B0%E4%B9%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [我国5G基站核心芯片自研成功](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD5G%E5%9F%BA%E7%AB%99%E6%A0%B8%E5%BF%83%E8%8A%AF%E7%89%87%E8%87%AA%E7%A0%94%E6%88%90%E5%8A%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
