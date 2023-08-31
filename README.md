@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 14:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 14:14:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [凝聚侨心侨力 谱写复兴华章](https://www.baidu.com/s?wd=%E5%87%9D%E8%81%9A%E4%BE%A8%E5%BF%83%E4%BE%A8%E5%8A%9B+%E8%B0%B1%E5%86%99%E5%A4%8D%E5%85%B4%E5%8D%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [婴儿被高空抛下烟头烫伤 或全楼做DNA](https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E8%A2%AB%E9%AB%98%E7%A9%BA%E6%8A%9B%E4%B8%8B%E7%83%9F%E5%A4%B4%E7%83%AB%E4%BC%A4+%E6%88%96%E5%85%A8%E6%A5%BC%E5%81%9ADNA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [看到女友发视频夸婆婆一查她已婚](https://www.baidu.com/s?wd=%E7%9C%8B%E5%88%B0%E5%A5%B3%E5%8F%8B%E5%8F%91%E8%A7%86%E9%A2%91%E5%A4%B8%E5%A9%86%E5%A9%86%E4%B8%80%E6%9F%A5%E5%A5%B9%E5%B7%B2%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高中语文材料称新生儿下跌怪女人](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E8%AF%AD%E6%96%87%E6%9D%90%E6%96%99%E7%A7%B0%E6%96%B0%E7%94%9F%E5%84%BF%E4%B8%8B%E8%B7%8C%E6%80%AA%E5%A5%B3%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [落马贪官忏悔：我带坏了整个单位](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E8%B4%AA%E5%AE%98%E5%BF%8F%E6%82%94%EF%BC%9A%E6%88%91%E5%B8%A6%E5%9D%8F%E4%BA%86%E6%95%B4%E4%B8%AA%E5%8D%95%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [专家称取消公摊是把老百姓当傻子忽悠](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%8F%96%E6%B6%88%E5%85%AC%E6%91%8A%E6%98%AF%E6%8A%8A%E8%80%81%E7%99%BE%E5%A7%93%E5%BD%93%E5%82%BB%E5%AD%90%E5%BF%BD%E6%82%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [自缢富翁是否遭遇被精神病?医院回应](https://www.baidu.com/s?wd=%E8%87%AA%E7%BC%A2%E5%AF%8C%E7%BF%81%E6%98%AF%E5%90%A6%E9%81%AD%E9%81%87%E8%A2%AB%E7%B2%BE%E7%A5%9E%E7%97%85%3F%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高中语文材料称新生儿下跌怪女人](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E8%AF%AD%E6%96%87%E6%9D%90%E6%96%99%E7%A7%B0%E6%96%B0%E7%94%9F%E5%84%BF%E4%B8%8B%E8%B7%8C%E6%80%AA%E5%A5%B3%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [胡锡进：炒股需要信念](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E7%82%92%E8%82%A1%E9%9C%80%E8%A6%81%E4%BF%A1%E5%BF%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [凝聚侨心侨力 谱写复兴华章](https://www.baidu.com/s?wd=%E5%87%9D%E8%81%9A%E4%BE%A8%E5%BF%83%E4%BE%A8%E5%8A%9B+%E8%B0%B1%E5%86%99%E5%A4%8D%E5%85%B4%E5%8D%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [婴儿被高空抛下烟头烫伤 或全楼做DNA](https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E8%A2%AB%E9%AB%98%E7%A9%BA%E6%8A%9B%E4%B8%8B%E7%83%9F%E5%A4%B4%E7%83%AB%E4%BC%A4+%E6%88%96%E5%85%A8%E6%A5%BC%E5%81%9ADNA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [看到女友发视频夸婆婆一查她已婚](https://www.baidu.com/s?wd=%E7%9C%8B%E5%88%B0%E5%A5%B3%E5%8F%8B%E5%8F%91%E8%A7%86%E9%A2%91%E5%A4%B8%E5%A9%86%E5%A9%86%E4%B8%80%E6%9F%A5%E5%A5%B9%E5%B7%B2%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高中语文材料称新生儿下跌怪女人](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E8%AF%AD%E6%96%87%E6%9D%90%E6%96%99%E7%A7%B0%E6%96%B0%E7%94%9F%E5%84%BF%E4%B8%8B%E8%B7%8C%E6%80%AA%E5%A5%B3%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [落马贪官忏悔：我带坏了整个单位](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E8%B4%AA%E5%AE%98%E5%BF%8F%E6%82%94%EF%BC%9A%E6%88%91%E5%B8%A6%E5%9D%8F%E4%BA%86%E6%95%B4%E4%B8%AA%E5%8D%95%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [专家称取消公摊是把老百姓当傻子忽悠](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%8F%96%E6%B6%88%E5%85%AC%E6%91%8A%E6%98%AF%E6%8A%8A%E8%80%81%E7%99%BE%E5%A7%93%E5%BD%93%E5%82%BB%E5%AD%90%E5%BF%BD%E6%82%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [自缢富翁是否遭遇被精神病?医院回应](https://www.baidu.com/s?wd=%E8%87%AA%E7%BC%A2%E5%AF%8C%E7%BF%81%E6%98%AF%E5%90%A6%E9%81%AD%E9%81%87%E8%A2%AB%E7%B2%BE%E7%A5%9E%E7%97%85%3F%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高中语文材料称新生儿下跌怪女人](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E8%AF%AD%E6%96%87%E6%9D%90%E6%96%99%E7%A7%B0%E6%96%B0%E7%94%9F%E5%84%BF%E4%B8%8B%E8%B7%8C%E6%80%AA%E5%A5%B3%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [胡锡进：炒股需要信念](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E7%82%92%E8%82%A1%E9%9C%80%E8%A6%81%E4%BF%A1%E5%BF%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
