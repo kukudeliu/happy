@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 18:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-08-31 18:23:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [深圳全市将停课](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E5%B0%86%E5%81%9C%E8%AF%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [在中医院喝到了中药奶茶](https://s.weibo.com/weibo?q=%E5%9C%A8%E4%B8%AD%E5%8C%BB%E9%99%A2%E5%96%9D%E5%88%B0%E4%BA%86%E4%B8%AD%E8%8D%AF%E5%A5%B6%E8%8C%B6&t=31&band_rank=7&Refer=top)<br />
 8. [李湘 我已退休](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B9%98%20%E6%88%91%E5%B7%B2%E9%80%80%E4%BC%91&t=31&band_rank=8&Refer=top)<br />
-9. [女子账户突然多出800万元吓得报警](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B4%A6%E6%88%B7%E7%AA%81%E7%84%B6%E5%A4%9A%E5%87%BA800%E4%B8%87%E5%85%83%E5%90%93%E5%BE%97%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国男篮首胜](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E9%A6%96%E8%83%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
