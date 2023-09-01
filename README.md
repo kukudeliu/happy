@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 14:50:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 14:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [汪苏泷探班徐良](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%8E%A2%E7%8F%AD%E5%BE%90%E8%89%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘亦菲提名金熊猫奖最佳女主角](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%8F%90%E5%90%8D%E9%87%91%E7%86%8A%E7%8C%AB%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [陆毅rap对我眼睛很友好](https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85rap%E5%AF%B9%E6%88%91%E7%9C%BC%E7%9D%9B%E5%BE%88%E5%8F%8B%E5%A5%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [幼升小三大件花费近3000元](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%8D%87%E5%B0%8F%E4%B8%89%E5%A4%A7%E4%BB%B6%E8%8A%B1%E8%B4%B9%E8%BF%913000%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [深圳地铁全线停运](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E5%85%A8%E7%BA%BF%E5%81%9C%E8%BF%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
