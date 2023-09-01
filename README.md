@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 19:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 19:38:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [微信文件可撤回三小时内消息](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%B8%89%E5%B0%8F%E6%97%B6%E5%86%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李湘商业版图盘点 名下仍有公司](https://www.baidu.com/s?wd=%E6%9D%8E%E6%B9%98%E5%95%86%E4%B8%9A%E7%89%88%E5%9B%BE%E7%9B%98%E7%82%B9+%E5%90%8D%E4%B8%8B%E4%BB%8D%E6%9C%89%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [《庆余年2》首支预告曝光](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B42%E3%80%8B%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女友曾是中国籍影响芬兰男子仕途](https://www.baidu.com/s?wd=%E5%A5%B3%E5%8F%8B%E6%9B%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%B1%8D%E5%BD%B1%E5%93%8D%E8%8A%AC%E5%85%B0%E7%94%B7%E5%AD%90%E4%BB%95%E9%80%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [费翔通宵翻译封神英文字幕](https://www.baidu.com/s?wd=%E8%B4%B9%E7%BF%94%E9%80%9A%E5%AE%B5%E7%BF%BB%E8%AF%91%E5%B0%81%E7%A5%9E%E8%8B%B1%E6%96%87%E5%AD%97%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [微信文件可撤回三小时内消息](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%B8%89%E5%B0%8F%E6%97%B6%E5%86%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李湘商业版图盘点 名下仍有公司](https://www.baidu.com/s?wd=%E6%9D%8E%E6%B9%98%E5%95%86%E4%B8%9A%E7%89%88%E5%9B%BE%E7%9B%98%E7%82%B9+%E5%90%8D%E4%B8%8B%E4%BB%8D%E6%9C%89%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [《庆余年2》首支预告曝光](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B42%E3%80%8B%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女友曾是中国籍影响芬兰男子仕途](https://www.baidu.com/s?wd=%E5%A5%B3%E5%8F%8B%E6%9B%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%B1%8D%E5%BD%B1%E5%93%8D%E8%8A%AC%E5%85%B0%E7%94%B7%E5%AD%90%E4%BB%95%E9%80%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [费翔通宵翻译封神英文字幕](https://www.baidu.com/s?wd=%E8%B4%B9%E7%BF%94%E9%80%9A%E5%AE%B5%E7%BF%BB%E8%AF%91%E5%B0%81%E7%A5%9E%E8%8B%B1%E6%96%87%E5%AD%97%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
