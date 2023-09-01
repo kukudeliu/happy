@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 10:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 10:38:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [2023年小学入学人数达近年峰值](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%B0%8F%E5%AD%A6%E5%85%A5%E5%AD%A6%E4%BA%BA%E6%95%B0%E8%BE%BE%E8%BF%91%E5%B9%B4%E5%B3%B0%E5%80%BC%23&t=31&band_rank=5&Refer=top)<br />
 6. [特斯拉Model3](https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89Model3&t=31&band_rank=6&Refer=top)<br />
 7. [迎击台风苏拉](https://s.weibo.com/weibo?q=%23%E8%BF%8E%E5%87%BB%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [网友许愿的综艺拍出来了](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%AE%B8%E6%84%BF%E7%9A%84%E7%BB%BC%E8%89%BA%E6%8B%8D%E5%87%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [存量房贷](https://s.weibo.com/weibo?q=%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7&t=31&band_rank=9&Refer=top)<br />
+8. [存量房贷](https://s.weibo.com/weibo?q=%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7&t=31&band_rank=8&Refer=top)<br />
+9. [网友许愿的综艺拍出来了](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%AE%B8%E6%84%BF%E7%9A%84%E7%BB%BC%E8%89%BA%E6%8B%8D%E5%87%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
