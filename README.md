@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 14:19:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 14:20:02</h4></div>
 
 > 微博  
 
 1. [抢注宋祖儿商标均被驳回](https://s.weibo.com/weibo?q=%23%E6%8A%A2%E6%B3%A8%E5%AE%8B%E7%A5%96%E5%84%BF%E5%95%86%E6%A0%87%E5%9D%87%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&t=31&band_rank=1&Refer=top)<br />
-2. [陆毅rap对我眼睛很友好](https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85rap%E5%AF%B9%E6%88%91%E7%9C%BC%E7%9D%9B%E5%BE%88%E5%8F%8B%E5%A5%BD%23&t=31&band_rank=2&Refer=top)<br />
+2. [汪苏泷探班徐良](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%8E%A2%E7%8F%AD%E5%BE%90%E8%89%AF%23&t=31&band_rank=2&Refer=top)<br />
 3. [开学第一天](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
-4. [汪苏泷探班徐良](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%8E%A2%E7%8F%AD%E5%BE%90%E8%89%AF%23&t=31&band_rank=4&Refer=top)<br />
+4. [陆毅rap对我眼睛很友好](https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85rap%E5%AF%B9%E6%88%91%E7%9C%BC%E7%9D%9B%E5%BE%88%E5%8F%8B%E5%A5%BD%23&t=31&band_rank=4&Refer=top)<br />
 5. [台风苏拉路径又变了](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%E8%B7%AF%E5%BE%84%E5%8F%88%E5%8F%98%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [原来张栋梁之前就是唱跳歌手](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%BC%A0%E6%A0%8B%E6%A2%81%E4%B9%8B%E5%89%8D%E5%B0%B1%E6%98%AF%E5%94%B1%E8%B7%B3%E6%AD%8C%E6%89%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [乌尔善 内娱徒手整形第一人](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%20%E5%86%85%E5%A8%B1%E5%BE%92%E6%89%8B%E6%95%B4%E5%BD%A2%E7%AC%AC%E4%B8%80%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
