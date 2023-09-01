@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 17:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 18:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [撒贝宁预言成功](https://s.weibo.com/weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E9%A2%84%E8%A8%80%E6%88%90%E5%8A%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [退役搜救犬扒着训导员求抱抱](https://s.weibo.com/weibo?q=%23%E9%80%80%E5%BD%B9%E6%90%9C%E6%95%91%E7%8A%AC%E6%89%92%E7%9D%80%E8%AE%AD%E5%AF%BC%E5%91%98%E6%B1%82%E6%8A%B1%E6%8A%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [五哈4官宣](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%884%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [庆余年2首支预告](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B42%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [基本每年一部爆剧的演员](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E6%9C%AC%E6%AF%8F%E5%B9%B4%E4%B8%80%E9%83%A8%E7%88%86%E5%89%A7%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
