@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 23:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 23:41:01</h4></div>
 
 > 微博  
 
 1. [深圳台风](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%8F%B0%E9%A3%8E&t=31&band_rank=1&Refer=top)<br />
 2. [徐良 淘汰](https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%AF%20%E6%B7%98%E6%B1%B0&t=31&band_rank=2&Refer=top)<br />
 3. [亚运会媒体中心可同时看九场比赛](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%AA%92%E4%BD%93%E4%B8%AD%E5%BF%83%E5%8F%AF%E5%90%8C%E6%97%B6%E7%9C%8B%E4%B9%9D%E5%9C%BA%E6%AF%94%E8%B5%9B%23&t=31&band_rank=3&Refer=top)<br />
-4. [一路朝阳 烂尾](https://s.weibo.com/weibo?q=%E4%B8%80%E8%B7%AF%E6%9C%9D%E9%98%B3%20%E7%83%82%E5%B0%BE&t=31&band_rank=4&Refer=top)<br />
-5. [骄阳伴我收视率](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=5&Refer=top)<br />
+4. [骄阳伴我收视率](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=4&Refer=top)<br />
+5. [一路朝阳 烂尾](https://s.weibo.com/weibo?q=%E4%B8%80%E8%B7%AF%E6%9C%9D%E9%98%B3%20%E7%83%82%E5%B0%BE&t=31&band_rank=5&Refer=top)<br />
 6. [黄宗泽哭了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%97%E6%B3%BD%E5%93%AD%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [林俊杰第一条微博就是胡彦斌](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%E5%B0%B1%E6%98%AF%E8%83%A1%E5%BD%A6%E6%96%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [利息少了41万购房者激动得一夜没睡](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%8641%E4%B8%87%E8%B4%AD%E6%88%BF%E8%80%85%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1%23&t=31&band_rank=8&Refer=top)<br />
