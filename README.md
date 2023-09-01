@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 06:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 06:49:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [利息少了41万购房者激动得一夜没睡](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%8641%E4%B8%87%E8%B4%AD%E6%88%BF%E8%80%85%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [十几分钟却是我的整个青春](https://s.weibo.com/weibo?q=%E5%8D%81%E5%87%A0%E5%88%86%E9%92%9F%E5%8D%B4%E6%98%AF%E6%88%91%E7%9A%84%E6%95%B4%E4%B8%AA%E9%9D%92%E6%98%A5&t=31&band_rank=7&Refer=top)<br />
 8. [空姐丸子头](https://s.weibo.com/weibo?q=%E7%A9%BA%E5%A7%90%E4%B8%B8%E5%AD%90%E5%A4%B4&t=31&band_rank=8&Refer=top)<br />
-9. [台风路径](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%B7%AF%E5%BE%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [日本出现大量巨型蛾子布满街道](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E5%B7%A8%E5%9E%8B%E8%9B%BE%E5%AD%90%E5%B8%83%E6%BB%A1%E8%A1%97%E9%81%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
