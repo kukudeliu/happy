@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 06:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 06:07:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [台风吹倒大树砸中汽车造成一死两伤](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%90%B9%E5%80%92%E5%A4%A7%E6%A0%91%E7%A0%B8%E4%B8%AD%E6%B1%BD%E8%BD%A6%E9%80%A0%E6%88%90%E4%B8%80%E6%AD%BB%E4%B8%A4%E4%BC%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [利息少了41万购房者激动得一夜没睡](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%8641%E4%B8%87%E8%B4%AD%E6%88%BF%E8%80%85%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [十几分钟却是我的整个青春](https://s.weibo.com/weibo?q=%E5%8D%81%E5%87%A0%E5%88%86%E9%92%9F%E5%8D%B4%E6%98%AF%E6%88%91%E7%9A%84%E6%95%B4%E4%B8%AA%E9%9D%92%E6%98%A5&t=31&band_rank=6&Refer=top)<br />
-7. [台风路径](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%B7%AF%E5%BE%84%23&t=31&band_rank=7&Refer=top)<br />
-8. [空姐丸子头](https://s.weibo.com/weibo?q=%E7%A9%BA%E5%A7%90%E4%B8%B8%E5%AD%90%E5%A4%B4&t=31&band_rank=8&Refer=top)<br />
+7. [空姐丸子头](https://s.weibo.com/weibo?q=%E7%A9%BA%E5%A7%90%E4%B8%B8%E5%AD%90%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
+8. [台风路径](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%B7%AF%E5%BE%84%23&t=31&band_rank=8&Refer=top)<br />
 9. [徐良 淘汰](https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%AF%20%E6%B7%98%E6%B1%B0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
