@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 01:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 01:21:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [徐良 淘汰](https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%AF%20%E6%B7%98%E6%B1%B0&t=31&band_rank=5&Refer=top)<br />
 6. [利息少了41万购房者激动得一夜没睡](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%8641%E4%B8%87%E8%B4%AD%E6%88%BF%E8%80%85%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [林俊杰第一条微博就是胡彦斌](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%E5%B0%B1%E6%98%AF%E8%83%A1%E5%BD%A6%E6%96%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [骄阳伴我收视率](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=8&Refer=top)<br />
-9. [台风吹倒大树砸中汽车造成一死两伤](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%90%B9%E5%80%92%E5%A4%A7%E6%A0%91%E7%A0%B8%E4%B8%AD%E6%B1%BD%E8%BD%A6%E9%80%A0%E6%88%90%E4%B8%80%E6%AD%BB%E4%B8%A4%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
+8. [台风吹倒大树砸中汽车造成一死两伤](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%90%B9%E5%80%92%E5%A4%A7%E6%A0%91%E7%A0%B8%E4%B8%AD%E6%B1%BD%E8%BD%A6%E9%80%A0%E6%88%90%E4%B8%80%E6%AD%BB%E4%B8%A4%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
+9. [骄阳伴我收视率](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
