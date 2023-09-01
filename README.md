@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 19:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 19:24:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [开端第二部](https://s.weibo.com/weibo?q=%E5%BC%80%E7%AB%AF%E7%AC%AC%E4%BA%8C%E9%83%A8&t=31&band_rank=4&Refer=top)<br />
 5. [83岁老人候诊晕倒医护冲刺救人](https://s.weibo.com/weibo?q=%2383%E5%B2%81%E8%80%81%E4%BA%BA%E5%80%99%E8%AF%8A%E6%99%95%E5%80%92%E5%8C%BB%E6%8A%A4%E5%86%B2%E5%88%BA%E6%95%91%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [基本每年一部爆剧的演员](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E6%9C%AC%E6%AF%8F%E5%B9%B4%E4%B8%80%E9%83%A8%E7%88%86%E5%89%A7%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
-7. [微信文件可撤回三小时内消息](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%B8%89%E5%B0%8F%E6%97%B6%E5%86%85%E6%B6%88%E6%81%AF%23&t=31&band_rank=7&Refer=top)<br />
-8. [七仔把阿宝的招牌动作学去了](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%BB%94%E6%8A%8A%E9%98%BF%E5%AE%9D%E7%9A%84%E6%8B%9B%E7%89%8C%E5%8A%A8%E4%BD%9C%E5%AD%A6%E5%8E%BB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [华少 不信谣不传谣](https://s.weibo.com/weibo?q=%E5%8D%8E%E5%B0%91%20%E4%B8%8D%E4%BF%A1%E8%B0%A3%E4%B8%8D%E4%BC%A0%E8%B0%A3&t=31&band_rank=9&Refer=top)<br />
+7. [七仔把阿宝的招牌动作学去了](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%BB%94%E6%8A%8A%E9%98%BF%E5%AE%9D%E7%9A%84%E6%8B%9B%E7%89%8C%E5%8A%A8%E4%BD%9C%E5%AD%A6%E5%8E%BB%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [微信文件可撤回三小时内消息](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%B8%89%E5%B0%8F%E6%97%B6%E5%86%85%E6%B6%88%E6%81%AF%23&t=31&band_rank=8&Refer=top)<br />
+9. [五哈4官宣](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%884%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,8 +24,8 @@
 5. [广东严防台风:汕尾市长出镜提醒防范](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%A5%E9%98%B2%E5%8F%B0%E9%A3%8E%3A%E6%B1%95%E5%B0%BE%E5%B8%82%E9%95%BF%E5%87%BA%E9%95%9C%E6%8F%90%E9%86%92%E9%98%B2%E8%8C%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [微信文件可撤回三小时内消息](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%B8%89%E5%B0%8F%E6%97%B6%E5%86%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [《庆余年2》首支预告曝光](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B42%E3%80%8B%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [这个班老师点名都要多想3秒](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%8F%AD%E8%80%81%E5%B8%88%E7%82%B9%E5%90%8D%E9%83%BD%E8%A6%81%E5%A4%9A%E6%83%B33%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [利息少了41万 购房者激动得一夜没睡](https://www.baidu.com/s?wd=%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%8641%E4%B8%87+%E8%B4%AD%E6%88%BF%E8%80%85%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江一化工厂泄漏 多人头晕流泪](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E6%B3%84%E6%BC%8F+%E5%A4%9A%E4%BA%BA%E5%A4%B4%E6%99%95%E6%B5%81%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这个班老师点名都要多想3秒](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%8F%AD%E8%80%81%E5%B8%88%E7%82%B9%E5%90%8D%E9%83%BD%E8%A6%81%E5%A4%9A%E6%83%B33%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [广东严防台风:汕尾市长出镜提醒防范](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%A5%E9%98%B2%E5%8F%B0%E9%A3%8E%3A%E6%B1%95%E5%B0%BE%E5%B8%82%E9%95%BF%E5%87%BA%E9%95%9C%E6%8F%90%E9%86%92%E9%98%B2%E8%8C%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [微信文件可撤回三小时内消息](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%B8%89%E5%B0%8F%E6%97%B6%E5%86%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [《庆余年2》首支预告曝光](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B42%E3%80%8B%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [这个班老师点名都要多想3秒](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%8F%AD%E8%80%81%E5%B8%88%E7%82%B9%E5%90%8D%E9%83%BD%E8%A6%81%E5%A4%9A%E6%83%B33%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [利息少了41万 购房者激动得一夜没睡](https://www.baidu.com/s?wd=%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%8641%E4%B8%87+%E8%B4%AD%E6%88%BF%E8%80%85%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江一化工厂泄漏 多人头晕流泪](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E6%B3%84%E6%BC%8F+%E5%A4%9A%E4%BA%BA%E5%A4%B4%E6%99%95%E6%B5%81%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这个班老师点名都要多想3秒](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%8F%AD%E8%80%81%E5%B8%88%E7%82%B9%E5%90%8D%E9%83%BD%E8%A6%81%E5%A4%9A%E6%83%B33%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
