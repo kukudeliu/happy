@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 03:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 03:12:02</h4></div>
 
 > 微博  
 
 1. [十几分钟却是我的整个青春](https://s.weibo.com/weibo?q=%E5%8D%81%E5%87%A0%E5%88%86%E9%92%9F%E5%8D%B4%E6%98%AF%E6%88%91%E7%9A%84%E6%95%B4%E4%B8%AA%E9%9D%92%E6%98%A5&t=31&band_rank=1&Refer=top)<br />
 2. [深圳台风](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%8F%B0%E9%A3%8E&t=31&band_rank=2&Refer=top)<br />
-3. [亚运会媒体中心可同时看九场比赛](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%AA%92%E4%BD%93%E4%B8%AD%E5%BF%83%E5%8F%AF%E5%90%8C%E6%97%B6%E7%9C%8B%E4%B9%9D%E5%9C%BA%E6%AF%94%E8%B5%9B%23&t=31&band_rank=3&Refer=top)<br />
+3. [开学第一课](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [南宁震感](https://s.weibo.com/weibo?q=%E5%8D%97%E5%AE%81%E9%9C%87%E6%84%9F&t=31&band_rank=4&Refer=top)<br />
 5. [台风吹倒大树砸中汽车造成一死两伤](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%90%B9%E5%80%92%E5%A4%A7%E6%A0%91%E7%A0%B8%E4%B8%AD%E6%B1%BD%E8%BD%A6%E9%80%A0%E6%88%90%E4%B8%80%E6%AD%BB%E4%B8%A4%E4%BC%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [徐良 淘汰](https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%AF%20%E6%B7%98%E6%B1%B0&t=31&band_rank=6&Refer=top)<br />
@@ -24,8 +24,8 @@
 5. [俄罗斯美女加入天津大爷跳水队伍](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%BE%8E%E5%A5%B3%E5%8A%A0%E5%85%A5%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E8%B7%B3%E6%B0%B4%E9%98%9F%E4%BC%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子中千万大奖带老婆打飞的兑奖](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD%E5%8D%83%E4%B8%87%E5%A4%A7%E5%A5%96%E5%B8%A6%E8%80%81%E5%A9%86%E6%89%93%E9%A3%9E%E7%9A%84%E5%85%91%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京多区震感明显 市民称晃了4、5秒](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%9A%E5%8C%BA%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE+%E5%B8%82%E6%B0%91%E7%A7%B0%E6%99%83%E4%BA%864%E3%80%815%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子点外卖备注放我出来骑手报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%82%B9%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E6%94%BE%E6%88%91%E5%87%BA%E6%9D%A5%E9%AA%91%E6%89%8B%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [微信文件可撤回三小时内消息](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%B8%89%E5%B0%8F%E6%97%B6%E5%86%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [微信文件可撤回三小时内消息](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%B8%89%E5%B0%8F%E6%97%B6%E5%86%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子点外卖备注放我出来骑手报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%82%B9%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E6%94%BE%E6%88%91%E5%87%BA%E6%9D%A5%E9%AA%91%E6%89%8B%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [俄罗斯美女加入天津大爷跳水队伍](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%BE%8E%E5%A5%B3%E5%8A%A0%E5%85%A5%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E8%B7%B3%E6%B0%B4%E9%98%9F%E4%BC%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子中千万大奖带老婆打飞的兑奖](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD%E5%8D%83%E4%B8%87%E5%A4%A7%E5%A5%96%E5%B8%A6%E8%80%81%E5%A9%86%E6%89%93%E9%A3%9E%E7%9A%84%E5%85%91%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京多区震感明显 市民称晃了4、5秒](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%9A%E5%8C%BA%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE+%E5%B8%82%E6%B0%91%E7%A7%B0%E6%99%83%E4%BA%864%E3%80%815%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子点外卖备注放我出来骑手报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%82%B9%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E6%94%BE%E6%88%91%E5%87%BA%E6%9D%A5%E9%AA%91%E6%89%8B%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [微信文件可撤回三小时内消息](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%B8%89%E5%B0%8F%E6%97%B6%E5%86%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [微信文件可撤回三小时内消息](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%B8%89%E5%B0%8F%E6%97%B6%E5%86%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子点外卖备注放我出来骑手报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%82%B9%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E6%94%BE%E6%88%91%E5%87%BA%E6%9D%A5%E9%AA%91%E6%89%8B%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
