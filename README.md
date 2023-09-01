@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 22:43:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 22:44:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [深圳台风](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%8F%B0%E9%A3%8E&t=31&band_rank=5&Refer=top)<br />
 6. [利息少了41万购房者激动得一夜没睡](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%8641%E4%B8%87%E8%B4%AD%E6%88%BF%E8%80%85%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [火树 我给指条明路](https://s.weibo.com/weibo?q=%E7%81%AB%E6%A0%91%20%E6%88%91%E7%BB%99%E6%8C%87%E6%9D%A1%E6%98%8E%E8%B7%AF&t=31&band_rank=7&Refer=top)<br />
-8. [基本每年一部爆剧的演员](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E6%9C%AC%E6%AF%8F%E5%B9%B4%E4%B8%80%E9%83%A8%E7%88%86%E5%89%A7%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [广州TTG重回总决赛](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9ETTG%E9%87%8D%E5%9B%9E%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=9&Refer=top)<br />
+8. [骄阳伴我片尾](https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E7%89%87%E5%B0%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [天狼星 天为首](https://s.weibo.com/weibo?q=%E5%A4%A9%E7%8B%BC%E6%98%9F%20%E5%A4%A9%E4%B8%BA%E9%A6%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,8 +24,8 @@
 5. [北上广深官宣认房不认贷 首付降多少](https://www.baidu.com/s?wd=%E5%8C%97%E4%B8%8A%E5%B9%BF%E6%B7%B1%E5%AE%98%E5%AE%A3%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7+%E9%A6%96%E4%BB%98%E9%99%8D%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [曾志伟入股缅北诈骗集团？警方回应](https://www.baidu.com/s?wd=%E6%9B%BE%E5%BF%97%E4%BC%9F%E5%85%A5%E8%82%A1%E7%BC%85%E5%8C%97%E8%AF%88%E9%AA%97%E9%9B%86%E5%9B%A2%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [母亲不堪家暴找人冒充走失儿子30年](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E4%B8%8D%E5%A0%AA%E5%AE%B6%E6%9A%B4%E6%89%BE%E4%BA%BA%E5%86%92%E5%85%85%E8%B5%B0%E5%A4%B1%E5%84%BF%E5%AD%9030%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日方称只有中方反对排海 外交部驳斥](https://www.baidu.com/s?wd=%E6%97%A5%E6%96%B9%E7%A7%B0%E5%8F%AA%E6%9C%89%E4%B8%AD%E6%96%B9%E5%8F%8D%E5%AF%B9%E6%8E%92%E6%B5%B7+%E5%A4%96%E4%BA%A4%E9%83%A8%E9%A9%B3%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这个班老师点名都要多想3秒](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%8F%AD%E8%80%81%E5%B8%88%E7%82%B9%E5%90%8D%E9%83%BD%E8%A6%81%E5%A4%9A%E6%83%B33%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男孩失联 4日后好友才称其被水冲走](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%A4%B1%E8%81%94+4%E6%97%A5%E5%90%8E%E5%A5%BD%E5%8F%8B%E6%89%8D%E7%A7%B0%E5%85%B6%E8%A2%AB%E6%B0%B4%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [子公司花3亿买无人机？交通局回应](https://www.baidu.com/s?wd=%E5%AD%90%E5%85%AC%E5%8F%B8%E8%8A%B13%E4%BA%BF%E4%B9%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%EF%BC%9F%E4%BA%A4%E9%80%9A%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [北上广深官宣认房不认贷 首付降多少](https://www.baidu.com/s?wd=%E5%8C%97%E4%B8%8A%E5%B9%BF%E6%B7%B1%E5%AE%98%E5%AE%A3%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7+%E9%A6%96%E4%BB%98%E9%99%8D%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [曾志伟入股缅北诈骗集团？警方回应](https://www.baidu.com/s?wd=%E6%9B%BE%E5%BF%97%E4%BC%9F%E5%85%A5%E8%82%A1%E7%BC%85%E5%8C%97%E8%AF%88%E9%AA%97%E9%9B%86%E5%9B%A2%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [母亲不堪家暴找人冒充走失儿子30年](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E4%B8%8D%E5%A0%AA%E5%AE%B6%E6%9A%B4%E6%89%BE%E4%BA%BA%E5%86%92%E5%85%85%E8%B5%B0%E5%A4%B1%E5%84%BF%E5%AD%9030%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日方称只有中方反对排海 外交部驳斥](https://www.baidu.com/s?wd=%E6%97%A5%E6%96%B9%E7%A7%B0%E5%8F%AA%E6%9C%89%E4%B8%AD%E6%96%B9%E5%8F%8D%E5%AF%B9%E6%8E%92%E6%B5%B7+%E5%A4%96%E4%BA%A4%E9%83%A8%E9%A9%B3%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这个班老师点名都要多想3秒](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%8F%AD%E8%80%81%E5%B8%88%E7%82%B9%E5%90%8D%E9%83%BD%E8%A6%81%E5%A4%9A%E6%83%B33%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男孩失联 4日后好友才称其被水冲走](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%A4%B1%E8%81%94+4%E6%97%A5%E5%90%8E%E5%A5%BD%E5%8F%8B%E6%89%8D%E7%A7%B0%E5%85%B6%E8%A2%AB%E6%B0%B4%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [子公司花3亿买无人机？交通局回应](https://www.baidu.com/s?wd=%E5%AD%90%E5%85%AC%E5%8F%B8%E8%8A%B13%E4%BA%BF%E4%B9%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%EF%BC%9F%E4%BA%A4%E9%80%9A%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
