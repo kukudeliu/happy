@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 22:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 22:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [利息少了41万购房者激动得一夜没睡](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%8641%E4%B8%87%E8%B4%AD%E6%88%BF%E8%80%85%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [基本每年一部爆剧的演员](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E6%9C%AC%E6%AF%8F%E5%B9%B4%E4%B8%80%E9%83%A8%E7%88%86%E5%89%A7%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [广州TTG重回总决赛](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9ETTG%E9%87%8D%E5%9B%9E%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=8&Refer=top)<br />
-9. [航空公司向李惠利道歉](https://s.weibo.com/weibo?q=%23%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E5%90%91%E6%9D%8E%E6%83%A0%E5%88%A9%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [火树 我给指条明路](https://s.weibo.com/weibo?q=%E7%81%AB%E6%A0%91%20%E6%88%91%E7%BB%99%E6%8C%87%E6%9D%A1%E6%98%8E%E8%B7%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
