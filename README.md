@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 13:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 13:03:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [乌尔善 内娱徒手整形第一人](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%20%E5%86%85%E5%A8%B1%E5%BE%92%E6%89%8B%E6%95%B4%E5%BD%A2%E7%AC%AC%E4%B8%80%E4%BA%BA&t=31&band_rank=4&Refer=top)<br />
 5. [存量房贷](https://s.weibo.com/weibo?q=%23%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [幼升小三大件花费近3000元](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%8D%87%E5%B0%8F%E4%B8%89%E5%A4%A7%E4%BB%B6%E8%8A%B1%E8%B4%B9%E8%BF%913000%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=7&Refer=top)<br />
-8. [披荆斩棘一公](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E4%B8%80%E5%85%AC&t=31&band_rank=8&Refer=top)<br />
+7. [披荆斩棘一公](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E4%B8%80%E5%85%AC&t=31&band_rank=7&Refer=top)<br />
+8. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=8&Refer=top)<br />
 9. [张小斐新剧爽文女主](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E6%96%B0%E5%89%A7%E7%88%BD%E6%96%87%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
