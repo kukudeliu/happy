@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 08:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 08:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [缅北电诈头目姐夫等225人被抓](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E5%A7%90%E5%A4%AB%E7%AD%89225%E4%BA%BA%E8%A2%AB%E6%8A%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [首套房贷款最低首付比例不低于20%](https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%A5%97%E6%88%BF%E8%B4%B7%E6%AC%BE%E6%9C%80%E4%BD%8E%E9%A6%96%E4%BB%98%E6%AF%94%E4%BE%8B%E4%B8%8D%E4%BD%8E%E4%BA%8E20%25%23&t=31&band_rank=7&Refer=top)<br />
 8. [上错花轿嫁对郎再火的唯一受害者](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E9%94%99%E8%8A%B1%E8%BD%BF%E5%AB%81%E5%AF%B9%E9%83%8E%E5%86%8D%E7%81%AB%E7%9A%84%E5%94%AF%E4%B8%80%E5%8F%97%E5%AE%B3%E8%80%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [声生不息港乐季2拟邀阵容](https://s.weibo.com/weibo?q=%23%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E6%B8%AF%E4%B9%90%E5%AD%A32%E6%8B%9F%E9%82%80%E9%98%B5%E5%AE%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [老师我想请假去救个人](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%88%91%E6%83%B3%E8%AF%B7%E5%81%87%E5%8E%BB%E6%95%91%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
