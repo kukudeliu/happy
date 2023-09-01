@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 00:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 00:13:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [林俊杰第一条微博就是胡彦斌](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%E5%B0%B1%E6%98%AF%E8%83%A1%E5%BD%A6%E6%96%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [小夭 万般皆是命](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%A4%AD%20%E4%B8%87%E8%88%AC%E7%9A%86%E6%98%AF%E5%91%BD&t=31&band_rank=6&Refer=top)<br />
 7. [利息少了41万购房者激动得一夜没睡](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%8641%E4%B8%87%E8%B4%AD%E6%88%BF%E8%80%85%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [黄宗泽哭了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%97%E6%B3%BD%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+8. [一路朝阳 烂尾](https://s.weibo.com/weibo?q=%E4%B8%80%E8%B7%AF%E6%9C%9D%E9%98%B3%20%E7%83%82%E5%B0%BE&t=31&band_rank=8&Refer=top)<br />
 9. [台风路径](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%B7%AF%E5%BE%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
