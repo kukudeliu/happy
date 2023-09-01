@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 12:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 12:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [2024鹅厂片单](https://s.weibo.com/weibo?q=%232024%E9%B9%85%E5%8E%82%E7%89%87%E5%8D%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [第一届05后大学生来了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E5%B1%8A05%E5%90%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=8&Refer=top)<br />
-9. [迎击台风苏拉](https://s.weibo.com/weibo?q=%23%E8%BF%8E%E5%87%BB%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国驻日使馆披露被骚扰细节](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%86%E6%8A%AB%E9%9C%B2%E8%A2%AB%E9%AA%9A%E6%89%B0%E7%BB%86%E8%8A%82%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
