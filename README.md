@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 23:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 23:39:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [骄阳伴我收视率](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=5&Refer=top)<br />
 6. [黄宗泽哭了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%97%E6%B3%BD%E5%93%AD%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [林俊杰第一条微博就是胡彦斌](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%E5%B0%B1%E6%98%AF%E8%83%A1%E5%BD%A6%E6%96%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [奥本海默高潮](https://s.weibo.com/weibo?q=%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E9%AB%98%E6%BD%AE&t=31&band_rank=8&Refer=top)<br />
-9. [利息少了41万购房者激动得一夜没睡](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%8641%E4%B8%87%E8%B4%AD%E6%88%BF%E8%80%85%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [利息少了41万购房者激动得一夜没睡](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%8641%E4%B8%87%E8%B4%AD%E6%88%BF%E8%80%85%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [台风路径](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%B7%AF%E5%BE%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,8 +24,8 @@
 5. [北上广深官宣认房不认贷 首付降多少](https://www.baidu.com/s?wd=%E5%8C%97%E4%B8%8A%E5%B9%BF%E6%B7%B1%E5%AE%98%E5%AE%A3%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7+%E9%A6%96%E4%BB%98%E9%99%8D%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [曾志伟入股缅北诈骗集团？警方回应](https://www.baidu.com/s?wd=%E6%9B%BE%E5%BF%97%E4%BC%9F%E5%85%A5%E8%82%A1%E7%BC%85%E5%8C%97%E8%AF%88%E9%AA%97%E9%9B%86%E5%9B%A2%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [母亲不堪家暴找人冒充走失儿子30年](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E4%B8%8D%E5%A0%AA%E5%AE%B6%E6%9A%B4%E6%89%BE%E4%BA%BA%E5%86%92%E5%85%85%E8%B5%B0%E5%A4%B1%E5%84%BF%E5%AD%9030%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王耀庆说演员是没资格生病的](https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%80%E5%BA%86%E8%AF%B4%E6%BC%94%E5%91%98%E6%98%AF%E6%B2%A1%E8%B5%84%E6%A0%BC%E7%94%9F%E7%97%85%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“早F晚E”热梗遭调侃 背后原因为何](https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A9F%E6%99%9AE%E2%80%9D%E7%83%AD%E6%A2%97%E9%81%AD%E8%B0%83%E4%BE%83+%E8%83%8C%E5%90%8E%E5%8E%9F%E5%9B%A0%E4%B8%BA%E4%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [好声音制作方:转身费50万等均为谣言](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%88%B6%E4%BD%9C%E6%96%B9%3A%E8%BD%AC%E8%BA%AB%E8%B4%B950%E4%B8%87%E7%AD%89%E5%9D%87%E4%B8%BA%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [深圳台风吹倒树砸中车辆致1死2伤](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%8F%B0%E9%A3%8E%E5%90%B9%E5%80%92%E6%A0%91%E7%A0%B8%E4%B8%AD%E8%BD%A6%E8%BE%86%E8%87%B41%E6%AD%BB2%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [北上广深官宣认房不认贷 首付降多少](https://www.baidu.com/s?wd=%E5%8C%97%E4%B8%8A%E5%B9%BF%E6%B7%B1%E5%AE%98%E5%AE%A3%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7+%E9%A6%96%E4%BB%98%E9%99%8D%E5%A4%9A%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [曾志伟入股缅北诈骗集团？警方回应](https://www.baidu.com/s?wd=%E6%9B%BE%E5%BF%97%E4%BC%9F%E5%85%A5%E8%82%A1%E7%BC%85%E5%8C%97%E8%AF%88%E9%AA%97%E9%9B%86%E5%9B%A2%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [母亲不堪家暴找人冒充走失儿子30年](https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E4%B8%8D%E5%A0%AA%E5%AE%B6%E6%9A%B4%E6%89%BE%E4%BA%BA%E5%86%92%E5%85%85%E8%B5%B0%E5%A4%B1%E5%84%BF%E5%AD%9030%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王耀庆说演员是没资格生病的](https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%80%E5%BA%86%E8%AF%B4%E6%BC%94%E5%91%98%E6%98%AF%E6%B2%A1%E8%B5%84%E6%A0%BC%E7%94%9F%E7%97%85%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“早F晚E”热梗遭调侃 背后原因为何](https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A9F%E6%99%9AE%E2%80%9D%E7%83%AD%E6%A2%97%E9%81%AD%E8%B0%83%E4%BE%83+%E8%83%8C%E5%90%8E%E5%8E%9F%E5%9B%A0%E4%B8%BA%E4%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [好声音制作方:转身费50万等均为谣言](https://www.baidu.com/s?wd=%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%88%B6%E4%BD%9C%E6%96%B9%3A%E8%BD%AC%E8%BA%AB%E8%B4%B950%E4%B8%87%E7%AD%89%E5%9D%87%E4%B8%BA%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [深圳台风吹倒树砸中车辆致1死2伤](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%8F%B0%E9%A3%8E%E5%90%B9%E5%80%92%E6%A0%91%E7%A0%B8%E4%B8%AD%E8%BD%A6%E8%BE%86%E8%87%B41%E6%AD%BB2%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
