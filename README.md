@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 10:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 10:12:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [特斯拉Model3](https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89Model3&t=31&band_rank=5&Refer=top)<br />
 6. [网友许愿的综艺拍出来了](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%AE%B8%E6%84%BF%E7%9A%84%E7%BB%BC%E8%89%BA%E6%8B%8D%E5%87%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [新疆三文鱼喜获丰收](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E4%B8%89%E6%96%87%E9%B1%BC%E5%96%9C%E8%8E%B7%E4%B8%B0%E6%94%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [莲花楼番外 找到你了](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%95%AA%E5%A4%96%20%E6%89%BE%E5%88%B0%E4%BD%A0%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [迎击台风苏拉](https://s.weibo.com/weibo?q=%23%E8%BF%8E%E5%87%BB%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%23&t=31&band_rank=9&Refer=top)<br />
+8. [2023年小学入学人数达近年峰值](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%B0%8F%E5%AD%A6%E5%85%A5%E5%AD%A6%E4%BA%BA%E6%95%B0%E8%BE%BE%E8%BF%91%E5%B9%B4%E5%B3%B0%E5%80%BC%23&t=31&band_rank=8&Refer=top)<br />
+9. [莲花楼番外 找到你了](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%95%AA%E5%A4%96%20%E6%89%BE%E5%88%B0%E4%BD%A0%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
