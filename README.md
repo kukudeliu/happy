@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 01:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 01:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [徐良 淘汰](https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%AF%20%E6%B7%98%E6%B1%B0&t=31&band_rank=6&Refer=top)<br />
 7. [空姐丸子头](https://s.weibo.com/weibo?q=%E7%A9%BA%E5%A7%90%E4%B8%B8%E5%AD%90%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
 8. [骄阳伴我收视率](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=8&Refer=top)<br />
-9. [火树 我给指条明路](https://s.weibo.com/weibo?q=%E7%81%AB%E6%A0%91%20%E6%88%91%E7%BB%99%E6%8C%87%E6%9D%A1%E6%98%8E%E8%B7%AF&t=31&band_rank=9&Refer=top)<br />
+9. [台风路径](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%B7%AF%E5%BE%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
