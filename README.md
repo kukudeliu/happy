@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 08:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 08:58:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [特斯拉Model3](https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89Model3&t=31&band_rank=2&Refer=top)<br />
 3. [砺志逐梦正当时](https://s.weibo.com/weibo?q=%23%E7%A0%BA%E5%BF%97%E9%80%90%E6%A2%A6%E6%AD%A3%E5%BD%93%E6%97%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [迎击台风苏拉](https://s.weibo.com/weibo?q=%23%E8%BF%8E%E5%87%BB%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%23&t=31&band_rank=4&Refer=top)<br />
-5. [老师我想请假去救个人](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%88%91%E6%83%B3%E8%AF%B7%E5%81%87%E5%8E%BB%E6%95%91%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [新疆三文鱼喜获丰收](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E4%B8%89%E6%96%87%E9%B1%BC%E5%96%9C%E8%8E%B7%E4%B8%B0%E6%94%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [网友许愿的综艺拍出来了](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%AE%B8%E6%84%BF%E7%9A%84%E7%BB%BC%E8%89%BA%E6%8B%8D%E5%87%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+5. [新疆三文鱼喜获丰收](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E4%B8%89%E6%96%87%E9%B1%BC%E5%96%9C%E8%8E%B7%E4%B8%B0%E6%94%B6%23&t=31&band_rank=5&Refer=top)<br />
+6. [网友许愿的综艺拍出来了](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%AE%B8%E6%84%BF%E7%9A%84%E7%BB%BC%E8%89%BA%E6%8B%8D%E5%87%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [老师我想请假去救个人](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%88%91%E6%83%B3%E8%AF%B7%E5%81%87%E5%8E%BB%E6%95%91%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [这不是何群成晓诗婚后生活吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%8D%E6%98%AF%E4%BD%95%E7%BE%A4%E6%88%90%E6%99%93%E8%AF%97%E5%A9%9A%E5%90%8E%E7%94%9F%E6%B4%BB%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [李东海李赫宰成立新公司](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%9C%E6%B5%B7%E6%9D%8E%E8%B5%AB%E5%AE%B0%E6%88%90%E7%AB%8B%E6%96%B0%E5%85%AC%E5%8F%B8%23&t=31&band_rank=9&Refer=top)<br />
 
