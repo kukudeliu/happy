@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 18:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 18:22:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [女子蒸大闸蟹核辐射检测仪警报不断](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%92%B8%E5%A4%A7%E9%97%B8%E8%9F%B9%E6%A0%B8%E8%BE%90%E5%B0%84%E6%A3%80%E6%B5%8B%E4%BB%AA%E8%AD%A6%E6%8A%A5%E4%B8%8D%E6%96%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [微信文件可撤回三小时内消息](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%B8%89%E5%B0%8F%E6%97%B6%E5%86%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [这个班老师点名都要多想3秒](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%8F%AD%E8%80%81%E5%B8%88%E7%82%B9%E5%90%8D%E9%83%BD%E8%A6%81%E5%A4%9A%E6%83%B33%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [卡德罗夫发文表忠心:我欠普京一条命](https://www.baidu.com/s?wd=%E5%8D%A1%E5%BE%B7%E7%BD%97%E5%A4%AB%E5%8F%91%E6%96%87%E8%A1%A8%E5%BF%A0%E5%BF%83%3A%E6%88%91%E6%AC%A0%E6%99%AE%E4%BA%AC%E4%B8%80%E6%9D%A1%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [《庆余年2》首支预告曝光](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B42%E3%80%8B%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女子蒸大闸蟹核辐射检测仪警报不断](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%92%B8%E5%A4%A7%E9%97%B8%E8%9F%B9%E6%A0%B8%E8%BE%90%E5%B0%84%E6%A3%80%E6%B5%8B%E4%BB%AA%E8%AD%A6%E6%8A%A5%E4%B8%8D%E6%96%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [微信文件可撤回三小时内消息](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%B8%89%E5%B0%8F%E6%97%B6%E5%86%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [这个班老师点名都要多想3秒](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%8F%AD%E8%80%81%E5%B8%88%E7%82%B9%E5%90%8D%E9%83%BD%E8%A6%81%E5%A4%9A%E6%83%B33%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [卡德罗夫发文表忠心:我欠普京一条命](https://www.baidu.com/s?wd=%E5%8D%A1%E5%BE%B7%E7%BD%97%E5%A4%AB%E5%8F%91%E6%96%87%E8%A1%A8%E5%BF%A0%E5%BF%83%3A%E6%88%91%E6%AC%A0%E6%99%AE%E4%BA%AC%E4%B8%80%E6%9D%A1%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [《庆余年2》首支预告曝光](https://www.baidu.com/s?wd=%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B42%E3%80%8B%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
