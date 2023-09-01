@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 21:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 21:21:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [深圳台风](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%8F%B0%E9%A3%8E&t=31&band_rank=5&Refer=top)<br />
 6. [骄阳伴我](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91&t=31&band_rank=6&Refer=top)<br />
 7. [台风路径](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E8%B7%AF%E5%BE%84&t=31&band_rank=7&Refer=top)<br />
-8. [开端第二部](https://s.weibo.com/weibo?q=%E5%BC%80%E7%AB%AF%E7%AC%AC%E4%BA%8C%E9%83%A8&t=31&band_rank=8&Refer=top)<br />
-9. [基本每年一部爆剧的演员](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E6%9C%AC%E6%AF%8F%E5%B9%B4%E4%B8%80%E9%83%A8%E7%88%86%E5%89%A7%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
+8. [基本每年一部爆剧的演员](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E6%9C%AC%E6%AF%8F%E5%B9%B4%E4%B8%80%E9%83%A8%E7%88%86%E5%89%A7%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
+9. [开端第二部](https://s.weibo.com/weibo?q=%E5%BC%80%E7%AB%AF%E7%AC%AC%E4%BA%8C%E9%83%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
