@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 19:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 19:14:01</h4></div>
 
 > 微博  
 
 1. [华少 不信谣不传谣](https://s.weibo.com/weibo?q=%E5%8D%8E%E5%B0%91%20%E4%B8%8D%E4%BF%A1%E8%B0%A3%E4%B8%8D%E4%BC%A0%E8%B0%A3&t=31&band_rank=1&Refer=top)<br />
 2. [宁波男子收到云南来的火腿系救命谢恩礼](https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E7%94%B7%E5%AD%90%E6%94%B6%E5%88%B0%E4%BA%91%E5%8D%97%E6%9D%A5%E7%9A%84%E7%81%AB%E8%85%BF%E7%B3%BB%E6%95%91%E5%91%BD%E8%B0%A2%E6%81%A9%E7%A4%BC%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会颁奖花束首次加入花器](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%A2%81%E5%A5%96%E8%8A%B1%E6%9D%9F%E9%A6%96%E6%AC%A1%E5%8A%A0%E5%85%A5%E8%8A%B1%E5%99%A8%23&t=31&band_rank=3&Refer=top)<br />
-4. [开端第二部](https://s.weibo.com/weibo?q=%E5%BC%80%E7%AB%AF%E7%AC%AC%E4%BA%8C%E9%83%A8&t=31&band_rank=4&Refer=top)<br />
+4. [利息少了41万购房者激动得一夜没睡](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%8641%E4%B8%87%E8%B4%AD%E6%88%BF%E8%80%85%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [83岁老人候诊晕倒医护冲刺救人](https://s.weibo.com/weibo?q=%2383%E5%B2%81%E8%80%81%E4%BA%BA%E5%80%99%E8%AF%8A%E6%99%95%E5%80%92%E5%8C%BB%E6%8A%A4%E5%86%B2%E5%88%BA%E6%95%91%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [利息少了41万购房者激动得一夜没睡](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%8641%E4%B8%87%E8%B4%AD%E6%88%BF%E8%80%85%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1%23&t=31&band_rank=6&Refer=top)<br />
+6. [开端第二部](https://s.weibo.com/weibo?q=%E5%BC%80%E7%AB%AF%E7%AC%AC%E4%BA%8C%E9%83%A8&t=31&band_rank=6&Refer=top)<br />
 7. [特警单膝跪地10分钟撑起发病老人](https://s.weibo.com/weibo?q=%23%E7%89%B9%E8%AD%A6%E5%8D%95%E8%86%9D%E8%B7%AA%E5%9C%B010%E5%88%86%E9%92%9F%E6%92%91%E8%B5%B7%E5%8F%91%E7%97%85%E8%80%81%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [微信文件可撤回三小时内消息](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%B8%89%E5%B0%8F%E6%97%B6%E5%86%85%E6%B6%88%E6%81%AF%23&t=31&band_rank=8&Refer=top)<br />
 9. [基本每年一部爆剧的演员](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E6%9C%AC%E6%AF%8F%E5%B9%B4%E4%B8%80%E9%83%A8%E7%88%86%E5%89%A7%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
@@ -23,9 +23,9 @@
 4. [金秋9月 这些日子值得关注](https://www.baidu.com/s?wd=%E9%87%91%E7%A7%8B9%E6%9C%88+%E8%BF%99%E4%BA%9B%E6%97%A5%E5%AD%90%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广东严防台风:汕尾市长出镜提醒防范](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%A5%E9%98%B2%E5%8F%B0%E9%A3%8E%3A%E6%B1%95%E5%B0%BE%E5%B8%82%E9%95%BF%E5%87%BA%E9%95%9C%E6%8F%90%E9%86%92%E9%98%B2%E8%8C%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [微信文件可撤回三小时内消息](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%B8%89%E5%B0%8F%E6%97%B6%E5%86%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国留学生在英国街头科普核污水](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E8%8B%B1%E5%9B%BD%E8%A1%97%E5%A4%B4%E7%A7%91%E6%99%AE%E6%A0%B8%E6%B1%A1%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本大臣称每天吃福岛便当：好吃！](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E8%87%A3%E7%A7%B0%E6%AF%8F%E5%A4%A9%E5%90%83%E7%A6%8F%E5%B2%9B%E4%BE%BF%E5%BD%93%EF%BC%9A%E5%A5%BD%E5%90%83%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这个班老师点名都要多想3秒](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%8F%AD%E8%80%81%E5%B8%88%E7%82%B9%E5%90%8D%E9%83%BD%E8%A6%81%E5%A4%9A%E6%83%B33%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [这个班老师点名都要多想3秒](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%8F%AD%E8%80%81%E5%B8%88%E7%82%B9%E5%90%8D%E9%83%BD%E8%A6%81%E5%A4%9A%E6%83%B33%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子点外卖备注放我出来骑手报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%82%B9%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E6%94%BE%E6%88%91%E5%87%BA%E6%9D%A5%E9%AA%91%E6%89%8B%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [华为麒麟9000S处理器为8核12线程](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E9%BA%92%E9%BA%9F9000S%E5%A4%84%E7%90%86%E5%99%A8%E4%B8%BA8%E6%A0%B812%E7%BA%BF%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [金秋9月 这些日子值得关注](https://www.baidu.com/s?wd=%E9%87%91%E7%A7%8B9%E6%9C%88+%E8%BF%99%E4%BA%9B%E6%97%A5%E5%AD%90%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广东严防台风:汕尾市长出镜提醒防范](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%A5%E9%98%B2%E5%8F%B0%E9%A3%8E%3A%E6%B1%95%E5%B0%BE%E5%B8%82%E9%95%BF%E5%87%BA%E9%95%9C%E6%8F%90%E9%86%92%E9%98%B2%E8%8C%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [微信文件可撤回三小时内消息](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%B8%89%E5%B0%8F%E6%97%B6%E5%86%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国留学生在英国街头科普核污水](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E8%8B%B1%E5%9B%BD%E8%A1%97%E5%A4%B4%E7%A7%91%E6%99%AE%E6%A0%B8%E6%B1%A1%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本大臣称每天吃福岛便当：好吃！](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E8%87%A3%E7%A7%B0%E6%AF%8F%E5%A4%A9%E5%90%83%E7%A6%8F%E5%B2%9B%E4%BE%BF%E5%BD%93%EF%BC%9A%E5%A5%BD%E5%90%83%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这个班老师点名都要多想3秒](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%8F%AD%E8%80%81%E5%B8%88%E7%82%B9%E5%90%8D%E9%83%BD%E8%A6%81%E5%A4%9A%E6%83%B33%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [这个班老师点名都要多想3秒](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%8F%AD%E8%80%81%E5%B8%88%E7%82%B9%E5%90%8D%E9%83%BD%E8%A6%81%E5%A4%9A%E6%83%B33%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子点外卖备注放我出来骑手报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%82%B9%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E6%94%BE%E6%88%91%E5%87%BA%E6%9D%A5%E9%AA%91%E6%89%8B%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [华为麒麟9000S处理器为8核12线程](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E9%BA%92%E9%BA%9F9000S%E5%A4%84%E7%90%86%E5%99%A8%E4%B8%BA8%E6%A0%B812%E7%BA%BF%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
