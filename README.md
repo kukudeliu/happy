@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 18:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 18:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [基本每年一部爆剧的演员](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E6%9C%AC%E6%AF%8F%E5%B9%B4%E4%B8%80%E9%83%A8%E7%88%86%E5%89%A7%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [五哈4官宣](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%884%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [撒贝宁预言成功](https://s.weibo.com/weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E9%A2%84%E8%A8%80%E6%88%90%E5%8A%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [庆余年2首支预告](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B42%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [开学首日小学生霸气立下满分小目标](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E9%A6%96%E6%97%A5%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%9C%B8%E6%B0%94%E7%AB%8B%E4%B8%8B%E6%BB%A1%E5%88%86%E5%B0%8F%E7%9B%AE%E6%A0%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
