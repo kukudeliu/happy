@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 13:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 13:31:01</h4></div>
 
 > 微博  
 
 1. [抢注宋祖儿商标均被驳回](https://s.weibo.com/weibo?q=%23%E6%8A%A2%E6%B3%A8%E5%AE%8B%E7%A5%96%E5%84%BF%E5%95%86%E6%A0%87%E5%9D%87%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&t=31&band_rank=1&Refer=top)<br />
-2. [披荆斩棘一公](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E4%B8%80%E5%85%AC&t=31&band_rank=2&Refer=top)<br />
+2. [陆毅rap对我眼睛很友好](https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85rap%E5%AF%B9%E6%88%91%E7%9C%BC%E7%9D%9B%E5%BE%88%E5%8F%8B%E5%A5%BD%23&t=31&band_rank=2&Refer=top)<br />
 3. [开学第一天](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
-4. [陆毅rap对我眼睛很友好](https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85rap%E5%AF%B9%E6%88%91%E7%9C%BC%E7%9D%9B%E5%BE%88%E5%8F%8B%E5%A5%BD%23&t=31&band_rank=4&Refer=top)<br />
+4. [披荆斩棘一公](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E4%B8%80%E5%85%AC&t=31&band_rank=4&Refer=top)<br />
 5. [乌尔善 内娱徒手整形第一人](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%20%E5%86%85%E5%A8%B1%E5%BE%92%E6%89%8B%E6%95%B4%E5%BD%A2%E7%AC%AC%E4%B8%80%E4%BA%BA&t=31&band_rank=5&Refer=top)<br />
 6. [深圳16时起停工停业停市](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B316%E6%97%B6%E8%B5%B7%E5%81%9C%E5%B7%A5%E5%81%9C%E4%B8%9A%E5%81%9C%E5%B8%82%23&t=31&band_rank=6&Refer=top)<br />
-7. [没有中国人笑着走出大英博物馆](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%AC%91%E7%9D%80%E8%B5%B0%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [男生上门订婚准备了24束花](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E4%B8%8A%E9%97%A8%E8%AE%A2%E5%A9%9A%E5%87%86%E5%A4%87%E4%BA%8624%E6%9D%9F%E8%8A%B1%23&t=31&band_rank=8&Refer=top)<br />
+7. [男生上门订婚准备了24束花](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E4%B8%8A%E9%97%A8%E8%AE%A2%E5%A9%9A%E5%87%86%E5%A4%87%E4%BA%8624%E6%9D%9F%E8%8A%B1%23&t=31&band_rank=7&Refer=top)<br />
+8. [没有中国人笑着走出大英博物馆](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%AC%91%E7%9D%80%E8%B5%B0%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [存量房贷](https://s.weibo.com/weibo?q=%23%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
