@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 09:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 09:14:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [中央决定：三大央企迎来新领导](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A%EF%BC%9A%E4%B8%89%E5%A4%A7%E5%A4%AE%E4%BC%81%E8%BF%8E%E6%9D%A5%E6%96%B0%E9%A2%86%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子领200元红包需缴40元个税](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A2%86200%E5%85%83%E7%BA%A2%E5%8C%85%E9%9C%80%E7%BC%B440%E5%85%83%E4%B8%AA%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [缅北电诈头目姐夫自曝诈骗套路](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E5%A7%90%E5%A4%AB%E8%87%AA%E6%9B%9D%E8%AF%88%E9%AA%97%E5%A5%97%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杜锋：早该上胡金秋了](https://www.baidu.com/s?wd=%E6%9D%9C%E9%94%8B%EF%BC%9A%E6%97%A9%E8%AF%A5%E4%B8%8A%E8%83%A1%E9%87%91%E7%A7%8B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [幼儿园老师徒手擦便池被赞很敬业](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E5%BE%92%E6%89%8B%E6%93%A6%E4%BE%BF%E6%B1%A0%E8%A2%AB%E8%B5%9E%E5%BE%88%E6%95%AC%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [中央决定：三大央企迎来新领导](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A%EF%BC%9A%E4%B8%89%E5%A4%A7%E5%A4%AE%E4%BC%81%E8%BF%8E%E6%9D%A5%E6%96%B0%E9%A2%86%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子领200元红包需缴40元个税](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A2%86200%E5%85%83%E7%BA%A2%E5%8C%85%E9%9C%80%E7%BC%B440%E5%85%83%E4%B8%AA%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [缅北电诈头目姐夫自曝诈骗套路](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E5%A7%90%E5%A4%AB%E8%87%AA%E6%9B%9D%E8%AF%88%E9%AA%97%E5%A5%97%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [杜锋：早该上胡金秋了](https://www.baidu.com/s?wd=%E6%9D%9C%E9%94%8B%EF%BC%9A%E6%97%A9%E8%AF%A5%E4%B8%8A%E8%83%A1%E9%87%91%E7%A7%8B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [幼儿园老师徒手擦便池被赞很敬业](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E5%BE%92%E6%89%8B%E6%93%A6%E4%BE%BF%E6%B1%A0%E8%A2%AB%E8%B5%9E%E5%BE%88%E6%95%AC%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
