@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 08:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 08:01:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [迎击台风苏拉](https://s.weibo.com/weibo?q=%23%E8%BF%8E%E5%87%BB%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [缅北电诈头目姐夫等225人被抓](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E5%A7%90%E5%A4%AB%E7%AD%89225%E4%BA%BA%E8%A2%AB%E6%8A%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [墨菲定律](https://s.weibo.com/weibo?q=%E5%A2%A8%E8%8F%B2%E5%AE%9A%E5%BE%8B&t=31&band_rank=7&Refer=top)<br />
-8. [陕西一医院规定男55岁女44岁不续聘](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E4%B8%80%E5%8C%BB%E9%99%A2%E8%A7%84%E5%AE%9A%E7%94%B755%E5%B2%81%E5%A5%B344%E5%B2%81%E4%B8%8D%E7%BB%AD%E8%81%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [声生不息港乐季2拟邀阵容](https://s.weibo.com/weibo?q=%23%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E6%B8%AF%E4%B9%90%E5%AD%A32%E6%8B%9F%E9%82%80%E9%98%B5%E5%AE%B9%23&t=31&band_rank=9&Refer=top)<br />
+8. [声生不息港乐季2拟邀阵容](https://s.weibo.com/weibo?q=%23%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E6%B8%AF%E4%B9%90%E5%AD%A32%E6%8B%9F%E9%82%80%E9%98%B5%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
+9. [陕西一医院规定男55岁女44岁不续聘](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E4%B8%80%E5%8C%BB%E9%99%A2%E8%A7%84%E5%AE%9A%E7%94%B755%E5%B2%81%E5%A5%B344%E5%B2%81%E4%B8%8D%E7%BB%AD%E8%81%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
