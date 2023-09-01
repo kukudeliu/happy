@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 19:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 19:19:01</h4></div>
 
 > 微博  
 
-1. [华少 不信谣不传谣](https://s.weibo.com/weibo?q=%E5%8D%8E%E5%B0%91%20%E4%B8%8D%E4%BF%A1%E8%B0%A3%E4%B8%8D%E4%BC%A0%E8%B0%A3&t=31&band_rank=1&Refer=top)<br />
+1. [利息少了41万购房者激动得一夜没睡](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%8641%E4%B8%87%E8%B4%AD%E6%88%BF%E8%80%85%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1%23&t=31&band_rank=1&Refer=top)<br />
 2. [宁波男子收到云南来的火腿系救命谢恩礼](https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E7%94%B7%E5%AD%90%E6%94%B6%E5%88%B0%E4%BA%91%E5%8D%97%E6%9D%A5%E7%9A%84%E7%81%AB%E8%85%BF%E7%B3%BB%E6%95%91%E5%91%BD%E8%B0%A2%E6%81%A9%E7%A4%BC%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会颁奖花束首次加入花器](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%A2%81%E5%A5%96%E8%8A%B1%E6%9D%9F%E9%A6%96%E6%AC%A1%E5%8A%A0%E5%85%A5%E8%8A%B1%E5%99%A8%23&t=31&band_rank=3&Refer=top)<br />
-4. [利息少了41万购房者激动得一夜没睡](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%8641%E4%B8%87%E8%B4%AD%E6%88%BF%E8%80%85%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1%23&t=31&band_rank=4&Refer=top)<br />
+4. [华少 不信谣不传谣](https://s.weibo.com/weibo?q=%E5%8D%8E%E5%B0%91%20%E4%B8%8D%E4%BF%A1%E8%B0%A3%E4%B8%8D%E4%BC%A0%E8%B0%A3&t=31&band_rank=4&Refer=top)<br />
 5. [83岁老人候诊晕倒医护冲刺救人](https://s.weibo.com/weibo?q=%2383%E5%B2%81%E8%80%81%E4%BA%BA%E5%80%99%E8%AF%8A%E6%99%95%E5%80%92%E5%8C%BB%E6%8A%A4%E5%86%B2%E5%88%BA%E6%95%91%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [开端第二部](https://s.weibo.com/weibo?q=%E5%BC%80%E7%AB%AF%E7%AC%AC%E4%BA%8C%E9%83%A8&t=31&band_rank=6&Refer=top)<br />
 7. [微信文件可撤回三小时内消息](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%B8%89%E5%B0%8F%E6%97%B6%E5%86%85%E6%B6%88%E6%81%AF%23&t=31&band_rank=7&Refer=top)<br />
