@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 03:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 03:05:01</h4></div>
 
 > 微博  
 
 1. [十几分钟却是我的整个青春](https://s.weibo.com/weibo?q=%E5%8D%81%E5%87%A0%E5%88%86%E9%92%9F%E5%8D%B4%E6%98%AF%E6%88%91%E7%9A%84%E6%95%B4%E4%B8%AA%E9%9D%92%E6%98%A5&t=31&band_rank=1&Refer=top)<br />
-2. [南宁震感](https://s.weibo.com/weibo?q=%E5%8D%97%E5%AE%81%E9%9C%87%E6%84%9F&t=31&band_rank=2&Refer=top)<br />
+2. [深圳台风](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%8F%B0%E9%A3%8E&t=31&band_rank=2&Refer=top)<br />
 3. [亚运会媒体中心可同时看九场比赛](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%AA%92%E4%BD%93%E4%B8%AD%E5%BF%83%E5%8F%AF%E5%90%8C%E6%97%B6%E7%9C%8B%E4%B9%9D%E5%9C%BA%E6%AF%94%E8%B5%9B%23&t=31&band_rank=3&Refer=top)<br />
-4. [深圳台风](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%8F%B0%E9%A3%8E&t=31&band_rank=4&Refer=top)<br />
+4. [南宁震感](https://s.weibo.com/weibo?q=%E5%8D%97%E5%AE%81%E9%9C%87%E6%84%9F&t=31&band_rank=4&Refer=top)<br />
 5. [台风吹倒大树砸中汽车造成一死两伤](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%90%B9%E5%80%92%E5%A4%A7%E6%A0%91%E7%A0%B8%E4%B8%AD%E6%B1%BD%E8%BD%A6%E9%80%A0%E6%88%90%E4%B8%80%E6%AD%BB%E4%B8%A4%E4%BC%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [徐良 淘汰](https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%AF%20%E6%B7%98%E6%B1%B0&t=31&band_rank=6&Refer=top)<br />
 7. [台风路径](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%B7%AF%E5%BE%84%23&t=31&band_rank=7&Refer=top)<br />
