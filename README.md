@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 17:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 17:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [泰国对中国游客免签](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%85%8D%E7%AD%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [金晨孤注一掷提名金鹿奖最佳女演员](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E6%8F%90%E5%90%8D%E9%87%91%E9%B9%BF%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E6%BC%94%E5%91%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [台风苏拉路径又变了](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%E8%B7%AF%E5%BE%84%E5%8F%88%E5%8F%98%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [承欢记真抠](https://s.weibo.com/weibo?q=%E6%89%BF%E6%AC%A2%E8%AE%B0%E7%9C%9F%E6%8A%A0&t=31&band_rank=9&Refer=top)<br />
+9. [撒贝宁预言成功](https://s.weibo.com/weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E9%A2%84%E8%A8%80%E6%88%90%E5%8A%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
