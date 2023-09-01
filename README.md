@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 09:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 09:38:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [男子领200元红包需缴40元个税](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A2%86200%E5%85%83%E7%BA%A2%E5%8C%85%E9%9C%80%E7%BC%B440%E5%85%83%E4%B8%AA%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中央决定：三大央企迎来新领导](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A%EF%BC%9A%E4%B8%89%E5%A4%A7%E5%A4%AE%E4%BC%81%E8%BF%8E%E6%9D%A5%E6%96%B0%E9%A2%86%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [缅北电诈头目姐夫自曝诈骗套路](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E5%A7%90%E5%A4%AB%E8%87%AA%E6%9B%9D%E8%AF%88%E9%AA%97%E5%A5%97%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [扎哈罗娃建议美国政客喝核污水](https://www.baidu.com/s?wd=%E6%89%8E%E5%93%88%E7%BD%97%E5%A8%83%E5%BB%BA%E8%AE%AE%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%AE%A2%E5%96%9D%E6%A0%B8%E6%B1%A1%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子腿伤要求送货上门被怼腿断了](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%85%BF%E4%BC%A4%E8%A6%81%E6%B1%82%E9%80%81%E8%B4%A7%E4%B8%8A%E9%97%A8%E8%A2%AB%E6%80%BC%E8%85%BF%E6%96%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [男子领200元红包需缴40元个税](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A2%86200%E5%85%83%E7%BA%A2%E5%8C%85%E9%9C%80%E7%BC%B440%E5%85%83%E4%B8%AA%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中央决定：三大央企迎来新领导](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A%EF%BC%9A%E4%B8%89%E5%A4%A7%E5%A4%AE%E4%BC%81%E8%BF%8E%E6%9D%A5%E6%96%B0%E9%A2%86%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [缅北电诈头目姐夫自曝诈骗套路](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E5%A7%90%E5%A4%AB%E8%87%AA%E6%9B%9D%E8%AF%88%E9%AA%97%E5%A5%97%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [扎哈罗娃建议美国政客喝核污水](https://www.baidu.com/s?wd=%E6%89%8E%E5%93%88%E7%BD%97%E5%A8%83%E5%BB%BA%E8%AE%AE%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%AE%A2%E5%96%9D%E6%A0%B8%E6%B1%A1%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子腿伤要求送货上门被怼腿断了](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%85%BF%E4%BC%A4%E8%A6%81%E6%B1%82%E9%80%81%E8%B4%A7%E4%B8%8A%E9%97%A8%E8%A2%AB%E6%80%BC%E8%85%BF%E6%96%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
