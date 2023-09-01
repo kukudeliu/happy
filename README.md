@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 13:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 13:22:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [乌尔善 内娱徒手整形第一人](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%20%E5%86%85%E5%A8%B1%E5%BE%92%E6%89%8B%E6%95%B4%E5%BD%A2%E7%AC%AC%E4%B8%80%E4%BA%BA&t=31&band_rank=4&Refer=top)<br />
 5. [深圳16时起停工停业停市](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B316%E6%97%B6%E8%B5%B7%E5%81%9C%E5%B7%A5%E5%81%9C%E4%B8%9A%E5%81%9C%E5%B8%82%23&t=31&band_rank=5&Refer=top)<br />
 6. [陆毅rap对我眼睛很友好](https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85rap%E5%AF%B9%E6%88%91%E7%9C%BC%E7%9D%9B%E5%BE%88%E5%8F%8B%E5%A5%BD%23&t=31&band_rank=6&Refer=top)<br />
-7. [存量房贷](https://s.weibo.com/weibo?q=%23%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [幼升小三大件花费近3000元](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%8D%87%E5%B0%8F%E4%B8%89%E5%A4%A7%E4%BB%B6%E8%8A%B1%E8%B4%B9%E8%BF%913000%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [没有中国人笑着走出大英博物馆](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%AC%91%E7%9D%80%E8%B5%B0%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%23&t=31&band_rank=9&Refer=top)<br />
+7. [没有中国人笑着走出大英博物馆](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%AC%91%E7%9D%80%E8%B5%B0%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [存量房贷](https://s.weibo.com/weibo?q=%23%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7%23&t=31&band_rank=8&Refer=top)<br />
+9. [幼升小三大件花费近3000元](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%8D%87%E5%B0%8F%E4%B8%89%E5%A4%A7%E4%BB%B6%E8%8A%B1%E8%B4%B9%E8%BF%913000%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,8 +24,8 @@
 5. [海边餐厅3万元租大货车防台风](https://www.baidu.com/s?wd=%E6%B5%B7%E8%BE%B9%E9%A4%90%E5%8E%853%E4%B8%87%E5%85%83%E7%A7%9F%E5%A4%A7%E8%B4%A7%E8%BD%A6%E9%98%B2%E5%8F%B0%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [利息少了41万 购房者激动得一夜没睡](https://www.baidu.com/s?wd=%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%8641%E4%B8%87+%E8%B4%AD%E6%88%BF%E8%80%85%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电价赶上油价 谁还伺候电动爹](https://www.baidu.com/s?wd=%E7%94%B5%E4%BB%B7%E8%B5%B6%E4%B8%8A%E6%B2%B9%E4%BB%B7+%E8%B0%81%E8%BF%98%E4%BC%BA%E5%80%99%E7%94%B5%E5%8A%A8%E7%88%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [23岁女子自曝遭夫妻两人殴打扒衣](https://www.baidu.com/s?wd=23%E5%B2%81%E5%A5%B3%E5%AD%90%E8%87%AA%E6%9B%9D%E9%81%AD%E5%A4%AB%E5%A6%BB%E4%B8%A4%E4%BA%BA%E6%AE%B4%E6%89%93%E6%89%92%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2023年小学入学人数达近年峰值](https://www.baidu.com/s?wd=2023%E5%B9%B4%E5%B0%8F%E5%AD%A6%E5%85%A5%E5%AD%A6%E4%BA%BA%E6%95%B0%E8%BE%BE%E8%BF%91%E5%B9%B4%E5%B3%B0%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [神兽归笼“三大件”花费数千元](https://www.baidu.com/s?wd=%E7%A5%9E%E5%85%BD%E5%BD%92%E7%AC%BC%E2%80%9C%E4%B8%89%E5%A4%A7%E4%BB%B6%E2%80%9D%E8%8A%B1%E8%B4%B9%E6%95%B0%E5%8D%83%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [23岁女子自曝遭夫妻两人殴打扒衣](https://www.baidu.com/s?wd=23%E5%B2%81%E5%A5%B3%E5%AD%90%E8%87%AA%E6%9B%9D%E9%81%AD%E5%A4%AB%E5%A6%BB%E4%B8%A4%E4%BA%BA%E6%AE%B4%E6%89%93%E6%89%92%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [海边餐厅3万元租大货车防台风](https://www.baidu.com/s?wd=%E6%B5%B7%E8%BE%B9%E9%A4%90%E5%8E%853%E4%B8%87%E5%85%83%E7%A7%9F%E5%A4%A7%E8%B4%A7%E8%BD%A6%E9%98%B2%E5%8F%B0%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [利息少了41万 购房者激动得一夜没睡](https://www.baidu.com/s?wd=%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%8641%E4%B8%87+%E8%B4%AD%E6%88%BF%E8%80%85%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电价赶上油价 谁还伺候电动爹](https://www.baidu.com/s?wd=%E7%94%B5%E4%BB%B7%E8%B5%B6%E4%B8%8A%E6%B2%B9%E4%BB%B7+%E8%B0%81%E8%BF%98%E4%BC%BA%E5%80%99%E7%94%B5%E5%8A%A8%E7%88%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [23岁女子自曝遭夫妻两人殴打扒衣](https://www.baidu.com/s?wd=23%E5%B2%81%E5%A5%B3%E5%AD%90%E8%87%AA%E6%9B%9D%E9%81%AD%E5%A4%AB%E5%A6%BB%E4%B8%A4%E4%BA%BA%E6%AE%B4%E6%89%93%E6%89%92%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [2023年小学入学人数达近年峰值](https://www.baidu.com/s?wd=2023%E5%B9%B4%E5%B0%8F%E5%AD%A6%E5%85%A5%E5%AD%A6%E4%BA%BA%E6%95%B0%E8%BE%BE%E8%BF%91%E5%B9%B4%E5%B3%B0%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [神兽归笼“三大件”花费数千元](https://www.baidu.com/s?wd=%E7%A5%9E%E5%85%BD%E5%BD%92%E7%AC%BC%E2%80%9C%E4%B8%89%E5%A4%A7%E4%BB%B6%E2%80%9D%E8%8A%B1%E8%B4%B9%E6%95%B0%E5%8D%83%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [23岁女子自曝遭夫妻两人殴打扒衣](https://www.baidu.com/s?wd=23%E5%B2%81%E5%A5%B3%E5%AD%90%E8%87%AA%E6%9B%9D%E9%81%AD%E5%A4%AB%E5%A6%BB%E4%B8%A4%E4%BA%BA%E6%AE%B4%E6%89%93%E6%89%92%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
