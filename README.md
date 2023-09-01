@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 14:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 14:05:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [开学第一天](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [汪苏泷探班徐良](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%8E%A2%E7%8F%AD%E5%BE%90%E8%89%AF%23&t=31&band_rank=4&Refer=top)<br />
 5. [原来张栋梁之前就是唱跳歌手](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%BC%A0%E6%A0%8B%E6%A2%81%E4%B9%8B%E5%89%8D%E5%B0%B1%E6%98%AF%E5%94%B1%E8%B7%B3%E6%AD%8C%E6%89%8B%23&t=31&band_rank=5&Refer=top)<br />
-6. [男生上门订婚准备了24束花](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E4%B8%8A%E9%97%A8%E8%AE%A2%E5%A9%9A%E5%87%86%E5%A4%87%E4%BA%8624%E6%9D%9F%E8%8A%B1%23&t=31&band_rank=6&Refer=top)<br />
-7. [乌尔善 内娱徒手整形第一人](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%20%E5%86%85%E5%A8%B1%E5%BE%92%E6%89%8B%E6%95%B4%E5%BD%A2%E7%AC%AC%E4%B8%80%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
-8. [没有中国人笑着走出大英博物馆](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%AC%91%E7%9D%80%E8%B5%B0%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [存量房贷](https://s.weibo.com/weibo?q=%23%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7%23&t=31&band_rank=9&Refer=top)<br />
+6. [乌尔善 内娱徒手整形第一人](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%20%E5%86%85%E5%A8%B1%E5%BE%92%E6%89%8B%E6%95%B4%E5%BD%A2%E7%AC%AC%E4%B8%80%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
+7. [没有中国人笑着走出大英博物馆](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%AC%91%E7%9D%80%E8%B5%B0%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [存量房贷](https://s.weibo.com/weibo?q=%23%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7%23&t=31&band_rank=8&Refer=top)<br />
+9. [幼升小三大件花费近3000元](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%8D%87%E5%B0%8F%E4%B8%89%E5%A4%A7%E4%BB%B6%E8%8A%B1%E8%B4%B9%E8%BF%913000%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
