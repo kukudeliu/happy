@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 08:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 08:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [新疆三文鱼喜获丰收](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E4%B8%89%E6%96%87%E9%B1%BC%E5%96%9C%E8%8E%B7%E4%B8%B0%E6%94%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [这不是何群成晓诗婚后生活吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%8D%E6%98%AF%E4%BD%95%E7%BE%A4%E6%88%90%E6%99%93%E8%AF%97%E5%A9%9A%E5%90%8E%E7%94%9F%E6%B4%BB%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [缅北电诈头目姐夫等225人被抓](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E5%A7%90%E5%A4%AB%E7%AD%89225%E4%BA%BA%E8%A2%AB%E6%8A%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [100万存量房贷每年可省5000多元利息](https://s.weibo.com/weibo?q=%23100%E4%B8%87%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7%E6%AF%8F%E5%B9%B4%E5%8F%AF%E7%9C%815000%E5%A4%9A%E5%85%83%E5%88%A9%E6%81%AF%23&t=31&band_rank=9&Refer=top)<br />
+9. [李东海李赫宰成立新公司](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%9C%E6%B5%B7%E6%9D%8E%E8%B5%AB%E5%AE%B0%E6%88%90%E7%AB%8B%E6%96%B0%E5%85%AC%E5%8F%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
