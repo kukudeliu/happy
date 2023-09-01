@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 20:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 20:25:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [BLACKPINK QQ音乐](https://s.weibo.com/weibo?q=BLACKPINK%20QQ%E9%9F%B3%E4%B9%90&t=31&band_rank=5&Refer=top)<br />
 6. [开端第二部](https://s.weibo.com/weibo?q=%E5%BC%80%E7%AB%AF%E7%AC%AC%E4%BA%8C%E9%83%A8&t=31&band_rank=6&Refer=top)<br />
 7. [警方辟谣曾志伟被带走调查](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%9B%BE%E5%BF%97%E4%BC%9F%E8%A2%AB%E5%B8%A6%E8%B5%B0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [五哈4官宣](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%884%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [徐良 淘汰](https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%AF%20%E6%B7%98%E6%B1%B0&t=31&band_rank=9&Refer=top)<br />
+8. [徐良 淘汰](https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%AF%20%E6%B7%98%E6%B1%B0&t=31&band_rank=8&Refer=top)<br />
+9. [五哈4官宣](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%884%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
