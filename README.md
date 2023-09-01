@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 17:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 17:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [死刑犯最后一餐吃什么](https://s.weibo.com/weibo?q=%23%E6%AD%BB%E5%88%91%E7%8A%AF%E6%9C%80%E5%90%8E%E4%B8%80%E9%A4%90%E5%90%83%E4%BB%80%E4%B9%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [庆余年2首支预告](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B42%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [五哈4官宣](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%884%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [台风苏拉路径又变了](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%E8%B7%AF%E5%BE%84%E5%8F%88%E5%8F%98%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [基本每年一部爆剧的演员](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E6%9C%AC%E6%AF%8F%E5%B9%B4%E4%B8%80%E9%83%A8%E7%88%86%E5%89%A7%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
