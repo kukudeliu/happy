@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 10:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 10:52:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [砺志逐梦正当时](https://s.weibo.com/weibo?q=%23%E7%A0%BA%E5%BF%97%E9%80%90%E6%A2%A6%E6%AD%A3%E5%BD%93%E6%97%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [乌尔善 内娱徒手整形第一人](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%20%E5%86%85%E5%A8%B1%E5%BE%92%E6%89%8B%E6%95%B4%E5%BD%A2%E7%AC%AC%E4%B8%80%E4%BA%BA&t=31&band_rank=4&Refer=top)<br />
 5. [存量房贷](https://s.weibo.com/weibo?q=%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7&t=31&band_rank=5&Refer=top)<br />
-6. [特斯拉Model3](https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89Model3&t=31&band_rank=6&Refer=top)<br />
-7. [丈夫去世后女子自驾9万公里游遍中国](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%8E%BB%E4%B8%96%E5%90%8E%E5%A5%B3%E5%AD%90%E8%87%AA%E9%A9%BE9%E4%B8%87%E5%85%AC%E9%87%8C%E6%B8%B8%E9%81%8D%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=7&Refer=top)<br />
+6. [丈夫去世后女子自驾9万公里游遍中国](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%8E%BB%E4%B8%96%E5%90%8E%E5%A5%B3%E5%AD%90%E8%87%AA%E9%A9%BE9%E4%B8%87%E5%85%AC%E9%87%8C%E6%B8%B8%E9%81%8D%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
+7. [特斯拉Model3](https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89Model3&t=31&band_rank=7&Refer=top)<br />
 8. [2023年小学入学人数达近年峰值](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%B0%8F%E5%AD%A6%E5%85%A5%E5%AD%A6%E4%BA%BA%E6%95%B0%E8%BE%BE%E8%BF%91%E5%B9%B4%E5%B3%B0%E5%80%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [新疆三文鱼喜获丰收](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E4%B8%89%E6%96%87%E9%B1%BC%E5%96%9C%E8%8E%B7%E4%B8%B0%E6%94%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [网友许愿的综艺拍出来了](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%AE%B8%E6%84%BF%E7%9A%84%E7%BB%BC%E8%89%BA%E6%8B%8D%E5%87%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
