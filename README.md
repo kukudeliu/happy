@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 16:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 16:09:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [老汉被指强奸为证清白自杀身亡](https://www.baidu.com/s?wd=%E8%80%81%E6%B1%89%E8%A2%AB%E6%8C%87%E5%BC%BA%E5%A5%B8%E4%B8%BA%E8%AF%81%E6%B8%85%E7%99%BD%E8%87%AA%E6%9D%80%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [代驾被查出酒驾车主笑称百年一遇](https://www.baidu.com/s?wd=%E4%BB%A3%E9%A9%BE%E8%A2%AB%E6%9F%A5%E5%87%BA%E9%85%92%E9%A9%BE%E8%BD%A6%E4%B8%BB%E7%AC%91%E7%A7%B0%E7%99%BE%E5%B9%B4%E4%B8%80%E9%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [华为麒麟9000S处理器为8核12线程](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E9%BA%92%E9%BA%9F9000S%E5%A4%84%E7%90%86%E5%99%A8%E4%B8%BA8%E6%A0%B812%E7%BA%BF%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [蒋万安3天上海行全记录](https://www.baidu.com/s?wd=%E8%92%8B%E4%B8%87%E5%AE%893%E5%A4%A9%E4%B8%8A%E6%B5%B7%E8%A1%8C%E5%85%A8%E8%AE%B0%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [利息少了41万 购房者激动得一夜没睡](https://www.baidu.com/s?wd=%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%8641%E4%B8%87+%E8%B4%AD%E6%88%BF%E8%80%85%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [老汉被指强奸为证清白自杀身亡](https://www.baidu.com/s?wd=%E8%80%81%E6%B1%89%E8%A2%AB%E6%8C%87%E5%BC%BA%E5%A5%B8%E4%B8%BA%E8%AF%81%E6%B8%85%E7%99%BD%E8%87%AA%E6%9D%80%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [代驾被查出酒驾车主笑称百年一遇](https://www.baidu.com/s?wd=%E4%BB%A3%E9%A9%BE%E8%A2%AB%E6%9F%A5%E5%87%BA%E9%85%92%E9%A9%BE%E8%BD%A6%E4%B8%BB%E7%AC%91%E7%A7%B0%E7%99%BE%E5%B9%B4%E4%B8%80%E9%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [华为麒麟9000S处理器为8核12线程](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E9%BA%92%E9%BA%9F9000S%E5%A4%84%E7%90%86%E5%99%A8%E4%B8%BA8%E6%A0%B812%E7%BA%BF%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [蒋万安3天上海行全记录](https://www.baidu.com/s?wd=%E8%92%8B%E4%B8%87%E5%AE%893%E5%A4%A9%E4%B8%8A%E6%B5%B7%E8%A1%8C%E5%85%A8%E8%AE%B0%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [利息少了41万 购房者激动得一夜没睡](https://www.baidu.com/s?wd=%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%8641%E4%B8%87+%E8%B4%AD%E6%88%BF%E8%80%85%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
