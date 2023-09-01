@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 13:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 13:10:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [海边餐厅3万元租大货车防台风](https://www.baidu.com/s?wd=%E6%B5%B7%E8%BE%B9%E9%A4%90%E5%8E%853%E4%B8%87%E5%85%83%E7%A7%9F%E5%A4%A7%E8%B4%A7%E8%BD%A6%E9%98%B2%E5%8F%B0%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [利息少了41万 购房者激动得一夜没睡](https://www.baidu.com/s?wd=%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%8641%E4%B8%87+%E8%B4%AD%E6%88%BF%E8%80%85%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电价赶上油价 谁还伺候电动爹](https://www.baidu.com/s?wd=%E7%94%B5%E4%BB%B7%E8%B5%B6%E4%B8%8A%E6%B2%B9%E4%BB%B7+%E8%B0%81%E8%BF%98%E4%BC%BA%E5%80%99%E7%94%B5%E5%8A%A8%E7%88%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本农林水产大臣被岸田下令道歉](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%86%9C%E6%9E%97%E6%B0%B4%E4%BA%A7%E5%A4%A7%E8%87%A3%E8%A2%AB%E5%B2%B8%E7%94%B0%E4%B8%8B%E4%BB%A4%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [老人组团往海里倒矿泉水、馒头](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%BB%84%E5%9B%A2%E5%BE%80%E6%B5%B7%E9%87%8C%E5%80%92%E7%9F%BF%E6%B3%89%E6%B0%B4%E3%80%81%E9%A6%92%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [陕西一医院规定男55岁女44岁不续聘](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E4%B8%80%E5%8C%BB%E9%99%A2%E8%A7%84%E5%AE%9A%E7%94%B755%E5%B2%81%E5%A5%B344%E5%B2%81%E4%B8%8D%E7%BB%AD%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [23岁女子自曝遭夫妻两人殴打扒衣](https://www.baidu.com/s?wd=23%E5%B2%81%E5%A5%B3%E5%AD%90%E8%87%AA%E6%9B%9D%E9%81%AD%E5%A4%AB%E5%A6%BB%E4%B8%A4%E4%BA%BA%E6%AE%B4%E6%89%93%E6%89%92%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [海边餐厅3万元租大货车防台风](https://www.baidu.com/s?wd=%E6%B5%B7%E8%BE%B9%E9%A4%90%E5%8E%853%E4%B8%87%E5%85%83%E7%A7%9F%E5%A4%A7%E8%B4%A7%E8%BD%A6%E9%98%B2%E5%8F%B0%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [利息少了41万 购房者激动得一夜没睡](https://www.baidu.com/s?wd=%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%8641%E4%B8%87+%E8%B4%AD%E6%88%BF%E8%80%85%E6%BF%80%E5%8A%A8%E5%BE%97%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电价赶上油价 谁还伺候电动爹](https://www.baidu.com/s?wd=%E7%94%B5%E4%BB%B7%E8%B5%B6%E4%B8%8A%E6%B2%B9%E4%BB%B7+%E8%B0%81%E8%BF%98%E4%BC%BA%E5%80%99%E7%94%B5%E5%8A%A8%E7%88%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本农林水产大臣被岸田下令道歉](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%86%9C%E6%9E%97%E6%B0%B4%E4%BA%A7%E5%A4%A7%E8%87%A3%E8%A2%AB%E5%B2%B8%E7%94%B0%E4%B8%8B%E4%BB%A4%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [老人组团往海里倒矿泉水、馒头](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%BB%84%E5%9B%A2%E5%BE%80%E6%B5%B7%E9%87%8C%E5%80%92%E7%9F%BF%E6%B3%89%E6%B0%B4%E3%80%81%E9%A6%92%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [陕西一医院规定男55岁女44岁不续聘](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E4%B8%80%E5%8C%BB%E9%99%A2%E8%A7%84%E5%AE%9A%E7%94%B755%E5%B2%81%E5%A5%B344%E5%B2%81%E4%B8%8D%E7%BB%AD%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [23岁女子自曝遭夫妻两人殴打扒衣](https://www.baidu.com/s?wd=23%E5%B2%81%E5%A5%B3%E5%AD%90%E8%87%AA%E6%9B%9D%E9%81%AD%E5%A4%AB%E5%A6%BB%E4%B8%A4%E4%BA%BA%E6%AE%B4%E6%89%93%E6%89%92%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
