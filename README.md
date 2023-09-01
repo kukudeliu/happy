@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 11:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 11:56:01</h4></div>
 
 > 微博  
 
 1. [幼升小三大件花费近3000元](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%8D%87%E5%B0%8F%E4%B8%89%E5%A4%A7%E4%BB%B6%E8%8A%B1%E8%B4%B9%E8%BF%913000%E5%85%83%23&t=31&band_rank=1&Refer=top)<br />
-2. [2024鹅厂片单](https://s.weibo.com/weibo?q=%232024%E9%B9%85%E5%8E%82%E7%89%87%E5%8D%95%23&t=31&band_rank=2&Refer=top)<br />
+2. [深圳16时起停工停业停市](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B316%E6%97%B6%E8%B5%B7%E5%81%9C%E5%B7%A5%E5%81%9C%E4%B8%9A%E5%81%9C%E5%B8%82%23&t=31&band_rank=2&Refer=top)<br />
 3. [砺志逐梦正当时](https://s.weibo.com/weibo?q=%23%E7%A0%BA%E5%BF%97%E9%80%90%E6%A2%A6%E6%AD%A3%E5%BD%93%E6%97%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [乌尔善 内娱徒手整形第一人](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%20%E5%86%85%E5%A8%B1%E5%BE%92%E6%89%8B%E6%95%B4%E5%BD%A2%E7%AC%AC%E4%B8%80%E4%BA%BA&t=31&band_rank=4&Refer=top)<br />
-5. [深圳16时起停工停业停市](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B316%E6%97%B6%E8%B5%B7%E5%81%9C%E5%B7%A5%E5%81%9C%E4%B8%9A%E5%81%9C%E5%B8%82%23&t=31&band_rank=5&Refer=top)<br />
+5. [2024鹅厂片单](https://s.weibo.com/weibo?q=%232024%E9%B9%85%E5%8E%82%E7%89%87%E5%8D%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [存量房贷](https://s.weibo.com/weibo?q=%23%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [第一届05后大学生来了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E5%B1%8A05%E5%90%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [前任4孟云林佳体面告别](https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%BB%BB4%E5%AD%9F%E4%BA%91%E6%9E%97%E4%BD%B3%E4%BD%93%E9%9D%A2%E5%91%8A%E5%88%AB%23&t=31&band_rank=8&Refer=top)<br />
