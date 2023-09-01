@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 20:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 20:14:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [金秋9月 这些日子值得关注](https://www.baidu.com/s?wd=%E9%87%91%E7%A7%8B9%E6%9C%88+%E8%BF%99%E4%BA%9B%E6%97%A5%E5%AD%90%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广东严防台风:汕尾市长出镜提醒防范](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%A5%E9%98%B2%E5%8F%B0%E9%A3%8E%3A%E6%B1%95%E5%B0%BE%E5%B8%82%E9%95%BF%E5%87%BA%E9%95%9C%E6%8F%90%E9%86%92%E9%98%B2%E8%8C%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日方称只有中方反对排海 外交部驳斥](https://www.baidu.com/s?wd=%E6%97%A5%E6%96%B9%E7%A7%B0%E5%8F%AA%E6%9C%89%E4%B8%AD%E6%96%B9%E5%8F%8D%E5%AF%B9%E6%8E%92%E6%B5%B7+%E5%A4%96%E4%BA%A4%E9%83%A8%E9%A9%B3%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [微信文件可撤回三小时内消息](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%B8%89%E5%B0%8F%E6%97%B6%E5%86%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄罗斯美女加入天津大爷跳水队伍](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%BE%8E%E5%A5%B3%E5%8A%A0%E5%85%A5%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E8%B7%B3%E6%B0%B4%E9%98%9F%E4%BC%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“早F晚E”热梗遭调侃 背后原因为何](https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A9F%E6%99%9AE%E2%80%9D%E7%83%AD%E6%A2%97%E9%81%AD%E8%B0%83%E4%BE%83+%E8%83%8C%E5%90%8E%E5%8E%9F%E5%9B%A0%E4%B8%BA%E4%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [俄罗斯美女加入天津大爷跳水队伍](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%BE%8E%E5%A5%B3%E5%8A%A0%E5%85%A5%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E8%B7%B3%E6%B0%B4%E9%98%9F%E4%BC%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [微信文件可撤回三小时内消息](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%B8%89%E5%B0%8F%E6%97%B6%E5%86%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这个班老师点名都要多想3秒](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%8F%AD%E8%80%81%E5%B8%88%E7%82%B9%E5%90%8D%E9%83%BD%E8%A6%81%E5%A4%9A%E6%83%B33%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [金秋9月 这些日子值得关注](https://www.baidu.com/s?wd=%E9%87%91%E7%A7%8B9%E6%9C%88+%E8%BF%99%E4%BA%9B%E6%97%A5%E5%AD%90%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广东严防台风:汕尾市长出镜提醒防范](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%A5%E9%98%B2%E5%8F%B0%E9%A3%8E%3A%E6%B1%95%E5%B0%BE%E5%B8%82%E9%95%BF%E5%87%BA%E9%95%9C%E6%8F%90%E9%86%92%E9%98%B2%E8%8C%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日方称只有中方反对排海 外交部驳斥](https://www.baidu.com/s?wd=%E6%97%A5%E6%96%B9%E7%A7%B0%E5%8F%AA%E6%9C%89%E4%B8%AD%E6%96%B9%E5%8F%8D%E5%AF%B9%E6%8E%92%E6%B5%B7+%E5%A4%96%E4%BA%A4%E9%83%A8%E9%A9%B3%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [微信文件可撤回三小时内消息](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%B8%89%E5%B0%8F%E6%97%B6%E5%86%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄罗斯美女加入天津大爷跳水队伍](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%BE%8E%E5%A5%B3%E5%8A%A0%E5%85%A5%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E8%B7%B3%E6%B0%B4%E9%98%9F%E4%BC%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“早F晚E”热梗遭调侃 背后原因为何](https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A9F%E6%99%9AE%E2%80%9D%E7%83%AD%E6%A2%97%E9%81%AD%E8%B0%83%E4%BE%83+%E8%83%8C%E5%90%8E%E5%8E%9F%E5%9B%A0%E4%B8%BA%E4%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [俄罗斯美女加入天津大爷跳水队伍](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%BE%8E%E5%A5%B3%E5%8A%A0%E5%85%A5%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E8%B7%B3%E6%B0%B4%E9%98%9F%E4%BC%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [微信文件可撤回三小时内消息](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%B8%89%E5%B0%8F%E6%97%B6%E5%86%85%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这个班老师点名都要多想3秒](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%8F%AD%E8%80%81%E5%B8%88%E7%82%B9%E5%90%8D%E9%83%BD%E8%A6%81%E5%A4%9A%E6%83%B33%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
