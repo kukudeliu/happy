@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 18:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 18:31:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [微信文件可撤回三小时内消息](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E5%8F%AF%E6%92%A4%E5%9B%9E%E4%B8%89%E5%B0%8F%E6%97%B6%E5%86%85%E6%B6%88%E6%81%AF%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子笑着喊口号带阿尔茨海默症婆婆回家](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%AC%91%E7%9D%80%E5%96%8A%E5%8F%A3%E5%8F%B7%E5%B8%A6%E9%98%BF%E5%B0%94%E8%8C%A8%E6%B5%B7%E9%BB%98%E7%97%87%E5%A9%86%E5%A9%86%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [基本每年一部爆剧的演员](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E6%9C%AC%E6%AF%8F%E5%B9%B4%E4%B8%80%E9%83%A8%E7%88%86%E5%89%A7%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
-7. [五哈4官宣](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%884%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [华少 不信谣不传谣](https://s.weibo.com/weibo?q=%E5%8D%8E%E5%B0%91%20%E4%B8%8D%E4%BF%A1%E8%B0%A3%E4%B8%8D%E4%BC%A0%E8%B0%A3&t=31&band_rank=8&Refer=top)<br />
+7. [华少 不信谣不传谣](https://s.weibo.com/weibo?q=%E5%8D%8E%E5%B0%91%20%E4%B8%8D%E4%BF%A1%E8%B0%A3%E4%B8%8D%E4%BC%A0%E8%B0%A3&t=31&band_rank=7&Refer=top)<br />
+8. [五哈4官宣](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%884%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
 9. [撒贝宁预言成功](https://s.weibo.com/weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E9%A2%84%E8%A8%80%E6%88%90%E5%8A%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
