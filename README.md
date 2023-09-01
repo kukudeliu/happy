@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 04:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 04:16:01</h4></div>
 
 > 微博  
 
-1. [十几分钟却是我的整个青春](https://s.weibo.com/weibo?q=%E5%8D%81%E5%87%A0%E5%88%86%E9%92%9F%E5%8D%B4%E6%98%AF%E6%88%91%E7%9A%84%E6%95%B4%E4%B8%AA%E9%9D%92%E6%98%A5&t=31&band_rank=1&Refer=top)<br />
-2. [深圳台风](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%8F%B0%E9%A3%8E&t=31&band_rank=2&Refer=top)<br />
+1. [深圳台风](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%8F%B0%E9%A3%8E&t=31&band_rank=1&Refer=top)<br />
+2. [十几分钟却是我的整个青春](https://s.weibo.com/weibo?q=%E5%8D%81%E5%87%A0%E5%88%86%E9%92%9F%E5%8D%B4%E6%98%AF%E6%88%91%E7%9A%84%E6%95%B4%E4%B8%AA%E9%9D%92%E6%98%A5&t=31&band_rank=2&Refer=top)<br />
 3. [开学第一课](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [台风吹倒大树砸中汽车造成一死两伤](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%90%B9%E5%80%92%E5%A4%A7%E6%A0%91%E7%A0%B8%E4%B8%AD%E6%B1%BD%E8%BD%A6%E9%80%A0%E6%88%90%E4%B8%80%E6%AD%BB%E4%B8%A4%E4%BC%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [骄阳伴我收视率](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=5&Refer=top)<br />
