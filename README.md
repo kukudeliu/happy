@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 14:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 14:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王耀庆 演员是没资格生病的](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%80%E5%BA%86%20%E6%BC%94%E5%91%98%E6%98%AF%E6%B2%A1%E8%B5%84%E6%A0%BC%E7%94%9F%E7%97%85%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
 7. [陆毅rap对我眼睛很友好](https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85rap%E5%AF%B9%E6%88%91%E7%9C%BC%E7%9D%9B%E5%BE%88%E5%8F%8B%E5%A5%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [原来张栋梁之前就是唱跳歌手](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%BC%A0%E6%A0%8B%E6%A2%81%E4%B9%8B%E5%89%8D%E5%B0%B1%E6%98%AF%E5%94%B1%E8%B7%B3%E6%AD%8C%E6%89%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [没有中国人笑着走出大英博物馆](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%AC%91%E7%9D%80%E8%B5%B0%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [B太 海鲜市场还会有做鬼的吗](https://s.weibo.com/weibo?q=B%E5%A4%AA%20%E6%B5%B7%E9%B2%9C%E5%B8%82%E5%9C%BA%E8%BF%98%E4%BC%9A%E6%9C%89%E5%81%9A%E9%AC%BC%E7%9A%84%E5%90%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
