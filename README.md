@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 10:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 10:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迎击台风苏拉](https://s.weibo.com/weibo?q=%23%E8%BF%8E%E5%87%BB%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [特斯拉Model3](https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89Model3&t=31&band_rank=7&Refer=top)<br />
 8. [存量房贷](https://s.weibo.com/weibo?q=%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7&t=31&band_rank=8&Refer=top)<br />
-9. [新疆三文鱼喜获丰收](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E4%B8%89%E6%96%87%E9%B1%BC%E5%96%9C%E8%8E%B7%E4%B8%B0%E6%94%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [莲花楼番外 找到你了](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%95%AA%E5%A4%96%20%E6%89%BE%E5%88%B0%E4%BD%A0%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
