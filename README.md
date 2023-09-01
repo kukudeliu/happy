@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 16:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-01 16:30:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [开学第一天](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [金晨孤注一掷提名金鹿奖最佳女演员](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E6%8F%90%E5%90%8D%E9%87%91%E9%B9%BF%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E6%BC%94%E5%91%98%23&t=31&band_rank=4&Refer=top)<br />
 5. [北京多区震感明显](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%9A%E5%8C%BA%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE%23&t=31&band_rank=5&Refer=top)<br />
-6. [台风苏拉路径又变了](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%E8%B7%AF%E5%BE%84%E5%8F%88%E5%8F%98%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [日方称中方是唯一反对核污水排海国家](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%96%B9%E7%A7%B0%E4%B8%AD%E6%96%B9%E6%98%AF%E5%94%AF%E4%B8%80%E5%8F%8D%E5%AF%B9%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=7&Refer=top)<br />
+6. [日方称中方是唯一反对核污水排海国家](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%96%B9%E7%A7%B0%E4%B8%AD%E6%96%B9%E6%98%AF%E5%94%AF%E4%B8%80%E5%8F%8D%E5%AF%B9%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=6&Refer=top)<br />
+7. [台风苏拉路径又变了](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%E8%B7%AF%E5%BE%84%E5%8F%88%E5%8F%98%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [抢注宋祖儿商标均被驳回](https://s.weibo.com/weibo?q=%23%E6%8A%A2%E6%B3%A8%E5%AE%8B%E7%A5%96%E5%84%BF%E5%95%86%E6%A0%87%E5%9D%87%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&t=31&band_rank=8&Refer=top)<br />
 9. [玫瑰故事](https://s.weibo.com/weibo?q=%E7%8E%AB%E7%91%B0%E6%95%85%E4%BA%8B&t=31&band_rank=9&Refer=top)<br />
 
