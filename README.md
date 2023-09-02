@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 23:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 23:55:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [张凌赫粉底太白了](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%B2%89%E5%BA%95%E5%A4%AA%E7%99%BD%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [姚明黑脸](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%98%8E%E9%BB%91%E8%84%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [云之羽空降](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%E7%A9%BA%E9%99%8D&t=31&band_rank=7&Refer=top)<br />
-8. [王宝强终于可以把金扫帚还回去了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E7%BB%88%E4%BA%8E%E5%8F%AF%E4%BB%A5%E6%8A%8A%E9%87%91%E6%89%AB%E5%B8%9A%E8%BF%98%E5%9B%9E%E5%8E%BB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [羡慕杜海涛婴儿般的睡眠](https://s.weibo.com/weibo?q=%23%E7%BE%A1%E6%85%95%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%A9%B4%E5%84%BF%E8%88%AC%E7%9A%84%E7%9D%A1%E7%9C%A0%23&t=31&band_rank=9&Refer=top)<br />
+8. [羡慕杜海涛婴儿般的睡眠](https://s.weibo.com/weibo?q=%23%E7%BE%A1%E6%85%95%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%A9%B4%E5%84%BF%E8%88%AC%E7%9A%84%E7%9D%A1%E7%9C%A0%23&t=31&band_rank=8&Refer=top)<br />
+9. [王宝强终于可以把金扫帚还回去了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E7%BB%88%E4%BA%8E%E5%8F%AF%E4%BB%A5%E6%8A%8A%E9%87%91%E6%89%AB%E5%B8%9A%E8%BF%98%E5%9B%9E%E5%8E%BB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
