@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 10:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 10:36:01</h4></div>
 
 > 微博  
 
-1. [日本第一代丁克正疯狂相亲](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AC%AC%E4%B8%80%E4%BB%A3%E4%B8%81%E5%85%8B%E6%AD%A3%E7%96%AF%E7%8B%82%E7%9B%B8%E4%BA%B2%23&t=31&band_rank=1&Refer=top)<br />
-2. [有一种沉默是两个人看了部国产烂片](https://s.weibo.com/weibo?q=%E6%9C%89%E4%B8%80%E7%A7%8D%E6%B2%89%E9%BB%98%E6%98%AF%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9C%8B%E4%BA%86%E9%83%A8%E5%9B%BD%E4%BA%A7%E7%83%82%E7%89%87&t=31&band_rank=2&Refer=top)<br />
+1. [有一种沉默是两个人看了部国产烂片](https://s.weibo.com/weibo?q=%E6%9C%89%E4%B8%80%E7%A7%8D%E6%B2%89%E9%BB%98%E6%98%AF%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9C%8B%E4%BA%86%E9%83%A8%E5%9B%BD%E4%BA%A7%E7%83%82%E7%89%87&t=31&band_rank=1&Refer=top)<br />
+2. [日本第一代丁克正疯狂相亲](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AC%AC%E4%B8%80%E4%BB%A3%E4%B8%81%E5%85%8B%E6%AD%A3%E7%96%AF%E7%8B%82%E7%9B%B8%E4%BA%B2%23&t=31&band_rank=2&Refer=top)<br />
 3. [开学第一课](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [世界网速排名中国都蓝得发黑了](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E7%BD%91%E9%80%9F%E6%8E%92%E5%90%8D%E4%B8%AD%E5%9B%BD%E9%83%BD%E8%93%9D%E5%BE%97%E5%8F%91%E9%BB%91%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [苏拉登陆广东珠海](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%8B%89%E7%99%BB%E9%99%86%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B5%B7%23&t=31&band_rank=5&Refer=top)<br />
