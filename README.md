@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 01:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 01:24:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [韩国石斑鱼大量死亡](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%9F%B3%E6%96%91%E9%B1%BC%E5%A4%A7%E9%87%8F%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡歌回应热评：你才大小姐呢](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%9B%9E%E5%BA%94%E7%83%AD%E8%AF%84%EF%BC%9A%E4%BD%A0%E6%89%8D%E5%A4%A7%E5%B0%8F%E5%A7%90%E5%91%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [台风破坏力太大会被除名](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E7%A0%B4%E5%9D%8F%E5%8A%9B%E5%A4%AA%E5%A4%A7%E4%BC%9A%E8%A2%AB%E9%99%A4%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [封神票房破25亿主创整活](https://www.baidu.com/s?wd=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF%E7%A0%B425%E4%BA%BF%E4%B8%BB%E5%88%9B%E6%95%B4%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [南阳理工虐猫学生被开除学籍](https://www.baidu.com/s?wd=%E5%8D%97%E9%98%B3%E7%90%86%E5%B7%A5%E8%99%90%E7%8C%AB%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%BC%80%E9%99%A4%E5%AD%A6%E7%B1%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [韩国石斑鱼大量死亡](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%9F%B3%E6%96%91%E9%B1%BC%E5%A4%A7%E9%87%8F%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡歌回应热评：你才大小姐呢](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%9B%9E%E5%BA%94%E7%83%AD%E8%AF%84%EF%BC%9A%E4%BD%A0%E6%89%8D%E5%A4%A7%E5%B0%8F%E5%A7%90%E5%91%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [台风破坏力太大会被除名](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E7%A0%B4%E5%9D%8F%E5%8A%9B%E5%A4%AA%E5%A4%A7%E4%BC%9A%E8%A2%AB%E9%99%A4%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [封神票房破25亿主创整活](https://www.baidu.com/s?wd=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF%E7%A0%B425%E4%BA%BF%E4%B8%BB%E5%88%9B%E6%95%B4%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [南阳理工虐猫学生被开除学籍](https://www.baidu.com/s?wd=%E5%8D%97%E9%98%B3%E7%90%86%E5%B7%A5%E8%99%90%E7%8C%AB%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%BC%80%E9%99%A4%E5%AD%A6%E7%B1%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
