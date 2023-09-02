@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 15:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 15:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [上班下班 上班是为了下班](https://s.weibo.com/weibo?q=%E4%B8%8A%E7%8F%AD%E4%B8%8B%E7%8F%AD%20%E4%B8%8A%E7%8F%AD%E6%98%AF%E4%B8%BA%E4%BA%86%E4%B8%8B%E7%8F%AD&t=31&band_rank=6&Refer=top)<br />
 7. [唐禹哲一公排名](https://s.weibo.com/weibo?q=%23%E5%94%90%E7%A6%B9%E5%93%B2%E4%B8%80%E5%85%AC%E6%8E%92%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [许绍洋淘汰](https://s.weibo.com/weibo?q=%E8%AE%B8%E7%BB%8D%E6%B4%8B%E6%B7%98%E6%B1%B0&t=31&band_rank=8&Refer=top)<br />
-9. [台风苏拉一天两次登陆广东](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%E4%B8%80%E5%A4%A9%E4%B8%A4%E6%AC%A1%E7%99%BB%E9%99%86%E5%B9%BF%E4%B8%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [世界网速排名中国都蓝得发黑了](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E7%BD%91%E9%80%9F%E6%8E%92%E5%90%8D%E4%B8%AD%E5%9B%BD%E9%83%BD%E8%93%9D%E5%BE%97%E5%8F%91%E9%BB%91%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,8 +24,8 @@
 5. [官方回应国企3亿买无人机：或有违规](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%BC%813%E4%BA%BF%E4%B9%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%EF%BC%9A%E6%88%96%E6%9C%89%E8%BF%9D%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本接连发生大规模集体食物中毒](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E4%BD%93%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [核污染水排放口检测出氚](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%94%BE%E5%8F%A3%E6%A3%80%E6%B5%8B%E5%87%BA%E6%B0%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [脑机接口，帮人开口](https://www.baidu.com/s?wd=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%EF%BC%8C%E5%B8%AE%E4%BA%BA%E5%BC%80%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [05后女生吊运超700斤混凝土墙](https://www.baidu.com/s?wd=05%E5%90%8E%E5%A5%B3%E7%94%9F%E5%90%8A%E8%BF%90%E8%B6%85700%E6%96%A4%E6%B7%B7%E5%87%9D%E5%9C%9F%E5%A2%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [天山天池现银色水怪？景区:无法判断](https://www.baidu.com/s?wd=%E5%A4%A9%E5%B1%B1%E5%A4%A9%E6%B1%A0%E7%8E%B0%E9%93%B6%E8%89%B2%E6%B0%B4%E6%80%AA%EF%BC%9F%E6%99%AF%E5%8C%BA%3A%E6%97%A0%E6%B3%95%E5%88%A4%E6%96%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国兵器工业集团发布紧急声明](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%B5%E5%99%A8%E5%B7%A5%E4%B8%9A%E9%9B%86%E5%9B%A2%E5%8F%91%E5%B8%83%E7%B4%A7%E6%80%A5%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [官方回应国企3亿买无人机：或有违规](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%BC%813%E4%BA%BF%E4%B9%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%EF%BC%9A%E6%88%96%E6%9C%89%E8%BF%9D%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本接连发生大规模集体食物中毒](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E4%BD%93%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [核污染水排放口检测出氚](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%94%BE%E5%8F%A3%E6%A3%80%E6%B5%8B%E5%87%BA%E6%B0%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [脑机接口，帮人开口](https://www.baidu.com/s?wd=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%EF%BC%8C%E5%B8%AE%E4%BA%BA%E5%BC%80%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [05后女生吊运超700斤混凝土墙](https://www.baidu.com/s?wd=05%E5%90%8E%E5%A5%B3%E7%94%9F%E5%90%8A%E8%BF%90%E8%B6%85700%E6%96%A4%E6%B7%B7%E5%87%9D%E5%9C%9F%E5%A2%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [天山天池现银色水怪？景区:无法判断](https://www.baidu.com/s?wd=%E5%A4%A9%E5%B1%B1%E5%A4%A9%E6%B1%A0%E7%8E%B0%E9%93%B6%E8%89%B2%E6%B0%B4%E6%80%AA%EF%BC%9F%E6%99%AF%E5%8C%BA%3A%E6%97%A0%E6%B3%95%E5%88%A4%E6%96%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中国兵器工业集团发布紧急声明](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%B5%E5%99%A8%E5%B7%A5%E4%B8%9A%E9%9B%86%E5%9B%A2%E5%8F%91%E5%B8%83%E7%B4%A7%E6%80%A5%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
