@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 03:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 03:28:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [利息少了130万房主美滋滋换电脑换手机](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%86130%E4%B8%87%E6%88%BF%E4%B8%BB%E7%BE%8E%E6%BB%8B%E6%BB%8B%E6%8D%A2%E7%94%B5%E8%84%91%E6%8D%A2%E6%89%8B%E6%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [云之羽空降](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%E7%A9%BA%E9%99%8D&t=31&band_rank=6&Refer=top)<br />
 7. [中国男篮或将连续缺席两届奥运会](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%88%96%E5%B0%86%E8%BF%9E%E7%BB%AD%E7%BC%BA%E5%B8%AD%E4%B8%A4%E5%B1%8A%E5%A5%A5%E8%BF%90%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈都灵兰夫人](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E5%85%B0%E5%A4%AB%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [解说怒吼质问中国男篮](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E8%AF%B4%E6%80%92%E5%90%BC%E8%B4%A8%E9%97%AE%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%23&t=31&band_rank=9&Refer=top)<br />
+8. [解说怒吼质问中国男篮](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E8%AF%B4%E6%80%92%E5%90%BC%E8%B4%A8%E9%97%AE%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%23&t=31&band_rank=8&Refer=top)<br />
+9. [陈都灵兰夫人](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E5%85%B0%E5%A4%AB%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
