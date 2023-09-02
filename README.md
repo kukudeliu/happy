@@ -1,8 +1,8 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 18:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 18:36:01</h4></div>
 
 > 微博  
 
-1. [秀才被封](https://s.weibo.com/weibo?q=%E7%A7%80%E6%89%8D%E8%A2%AB%E5%B0%81&t=31&band_rank=1&Refer=top)<br />
+1. [秀才被封](https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E8%A2%AB%E5%B0%81%23&t=31&band_rank=1&Refer=top)<br />
 2. [车祸后18个人54秒救了2条命](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E7%A5%B8%E5%90%8E18%E4%B8%AA%E4%BA%BA54%E7%A7%92%E6%95%91%E4%BA%862%E6%9D%A1%E5%91%BD%23&t=31&band_rank=2&Refer=top)<br />
 3. [服贸会朋友圈为何能越做越大](https://s.weibo.com/weibo?q=%23%E6%9C%8D%E8%B4%B8%E4%BC%9A%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%B8%BA%E4%BD%95%E8%83%BD%E8%B6%8A%E5%81%9A%E8%B6%8A%E5%A4%A7%23&t=31&band_rank=3&Refer=top)<br />
 4. [21岁休学29岁存款5000万](https://s.weibo.com/weibo?q=21%E5%B2%81%E4%BC%91%E5%AD%A629%E5%B2%81%E5%AD%98%E6%AC%BE5000%E4%B8%87&t=31&band_rank=4&Refer=top)<br />
