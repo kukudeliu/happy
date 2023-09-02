@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 21:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 21:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [马冬梅任北京市平谷区副区长](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%86%AC%E6%A2%85%E4%BB%BB%E5%8C%97%E4%BA%AC%E5%B8%82%E5%B9%B3%E8%B0%B7%E5%8C%BA%E5%89%AF%E5%8C%BA%E9%95%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [倪妮金鹿奖最佳女演员](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E9%87%91%E9%B9%BF%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E6%BC%94%E5%91%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [金靖出场把我笑死](https://s.weibo.com/weibo?q=%E9%87%91%E9%9D%96%E5%87%BA%E5%9C%BA%E6%8A%8A%E6%88%91%E7%AC%91%E6%AD%BB&t=31&band_rank=8&Refer=top)<br />
-9. [好羡慕23级大学生](https://s.weibo.com/weibo?q=%E5%A5%BD%E7%BE%A1%E6%85%9523%E7%BA%A7%E5%A4%A7%E5%AD%A6%E7%94%9F&t=31&band_rank=9&Refer=top)<br />
+9. [一笑倾城](https://s.weibo.com/weibo?q=%E4%B8%80%E7%AC%91%E5%80%BE%E5%9F%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
