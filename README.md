@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 09:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 09:33:01</h4></div>
 
 > 微博  
 
-1. [苏拉登陆广东珠海](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%8B%89%E7%99%BB%E9%99%86%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B5%B7%23&t=31&band_rank=1&Refer=top)<br />
-2. [有一种沉默是两个人看了部国产烂片](https://s.weibo.com/weibo?q=%E6%9C%89%E4%B8%80%E7%A7%8D%E6%B2%89%E9%BB%98%E6%98%AF%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9C%8B%E4%BA%86%E9%83%A8%E5%9B%BD%E4%BA%A7%E7%83%82%E7%89%87&t=31&band_rank=2&Refer=top)<br />
+1. [有一种沉默是两个人看了部国产烂片](https://s.weibo.com/weibo?q=%E6%9C%89%E4%B8%80%E7%A7%8D%E6%B2%89%E9%BB%98%E6%98%AF%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9C%8B%E4%BA%86%E9%83%A8%E5%9B%BD%E4%BA%A7%E7%83%82%E7%89%87&t=31&band_rank=1&Refer=top)<br />
+2. [苏拉登陆广东珠海](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%8B%89%E7%99%BB%E9%99%86%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B5%B7%23&t=31&band_rank=2&Refer=top)<br />
 3. [开学第一课](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [30年内日本首都圈7级地震概率达七成](https://s.weibo.com/weibo?q=%2330%E5%B9%B4%E5%86%85%E6%97%A5%E6%9C%AC%E9%A6%96%E9%83%BD%E5%9C%887%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%A6%82%E7%8E%87%E8%BE%BE%E4%B8%83%E6%88%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [深圳台风](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%8F%B0%E9%A3%8E&t=31&band_rank=5&Refer=top)<br />
