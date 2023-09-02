@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 13:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 13:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [世界网速排名中国都蓝得发黑了](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E7%BD%91%E9%80%9F%E6%8E%92%E5%90%8D%E4%B8%AD%E5%9B%BD%E9%83%BD%E8%93%9D%E5%BE%97%E5%8F%91%E9%BB%91%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [鸟鸟 要只在意最重要的人](https://s.weibo.com/weibo?q=%E9%B8%9F%E9%B8%9F%20%E8%A6%81%E5%8F%AA%E5%9C%A8%E6%84%8F%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
 8. [就让这大雨全都落下](https://s.weibo.com/weibo?q=%E5%B0%B1%E8%AE%A9%E8%BF%99%E5%A4%A7%E9%9B%A8%E5%85%A8%E9%83%BD%E8%90%BD%E4%B8%8B&t=31&band_rank=8&Refer=top)<br />
-9. [披荆斩棘](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98&t=31&band_rank=9&Refer=top)<br />
+9. [你好星期六](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
