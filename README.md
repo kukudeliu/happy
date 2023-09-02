@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 02:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 02:39:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [千万粉丝主播“秀才”账号被封](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E7%B2%89%E4%B8%9D%E4%B8%BB%E6%92%AD%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [杭州亚运会颁奖花束藏着宝藏非遗](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%A2%81%E5%A5%96%E8%8A%B1%E6%9D%9F%E8%97%8F%E7%9D%80%E5%AE%9D%E8%97%8F%E9%9D%9E%E9%81%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [台风苏拉过境广东海滩现大量海鲜](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%E8%BF%87%E5%A2%83%E5%B9%BF%E4%B8%9C%E6%B5%B7%E6%BB%A9%E7%8E%B0%E5%A4%A7%E9%87%8F%E6%B5%B7%E9%B2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [封神票房破25亿主创整活](https://www.baidu.com/s?wd=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF%E7%A0%B425%E4%BA%BF%E4%B8%BB%E5%88%9B%E6%95%B4%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [医院保安花式指挥车辆像跳舞](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E4%BF%9D%E5%AE%89%E8%8A%B1%E5%BC%8F%E6%8C%87%E6%8C%A5%E8%BD%A6%E8%BE%86%E5%83%8F%E8%B7%B3%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国石斑鱼大量死亡](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%9F%B3%E6%96%91%E9%B1%BC%E5%A4%A7%E9%87%8F%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本前首相谈“关东大屠杀”](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A6%96%E7%9B%B8%E8%B0%88%E2%80%9C%E5%85%B3%E4%B8%9C%E5%A4%A7%E5%B1%A0%E6%9D%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胡歌回应热评：你才大小姐呢](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%9B%9E%E5%BA%94%E7%83%AD%E8%AF%84%EF%BC%9A%E4%BD%A0%E6%89%8D%E5%A4%A7%E5%B0%8F%E5%A7%90%E5%91%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡歌回应热评：你才大小姐呢](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%9B%9E%E5%BA%94%E7%83%AD%E8%AF%84%EF%BC%9A%E4%BD%A0%E6%89%8D%E5%A4%A7%E5%B0%8F%E5%A7%90%E5%91%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [封神票房破25亿主创整活](https://www.baidu.com/s?wd=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF%E7%A0%B425%E4%BA%BF%E4%B8%BB%E5%88%9B%E6%95%B4%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [千万粉丝主播“秀才”账号被封](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E7%B2%89%E4%B8%9D%E4%B8%BB%E6%92%AD%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [杭州亚运会颁奖花束藏着宝藏非遗](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%A2%81%E5%A5%96%E8%8A%B1%E6%9D%9F%E8%97%8F%E7%9D%80%E5%AE%9D%E8%97%8F%E9%9D%9E%E9%81%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [台风苏拉过境广东海滩现大量海鲜](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%E8%BF%87%E5%A2%83%E5%B9%BF%E4%B8%9C%E6%B5%B7%E6%BB%A9%E7%8E%B0%E5%A4%A7%E9%87%8F%E6%B5%B7%E9%B2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [封神票房破25亿主创整活](https://www.baidu.com/s?wd=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF%E7%A0%B425%E4%BA%BF%E4%B8%BB%E5%88%9B%E6%95%B4%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [医院保安花式指挥车辆像跳舞](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E4%BF%9D%E5%AE%89%E8%8A%B1%E5%BC%8F%E6%8C%87%E6%8C%A5%E8%BD%A6%E8%BE%86%E5%83%8F%E8%B7%B3%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国石斑鱼大量死亡](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%9F%B3%E6%96%91%E9%B1%BC%E5%A4%A7%E9%87%8F%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本前首相谈“关东大屠杀”](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A6%96%E7%9B%B8%E8%B0%88%E2%80%9C%E5%85%B3%E4%B8%9C%E5%A4%A7%E5%B1%A0%E6%9D%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胡歌回应热评：你才大小姐呢](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%9B%9E%E5%BA%94%E7%83%AD%E8%AF%84%EF%BC%9A%E4%BD%A0%E6%89%8D%E5%A4%A7%E5%B0%8F%E5%A7%90%E5%91%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡歌回应热评：你才大小姐呢](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%9B%9E%E5%BA%94%E7%83%AD%E8%AF%84%EF%BC%9A%E4%BD%A0%E6%89%8D%E5%A4%A7%E5%B0%8F%E5%A7%90%E5%91%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [封神票房破25亿主创整活](https://www.baidu.com/s?wd=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF%E7%A0%B425%E4%BA%BF%E4%B8%BB%E5%88%9B%E6%95%B4%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
