@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 19:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 19:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [日本接连发生大规模集体食物中毒](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E4%BD%93%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [的哥送还10万现金只收失主10块钱](https://s.weibo.com/weibo?q=%23%E7%9A%84%E5%93%A5%E9%80%81%E8%BF%9810%E4%B8%87%E7%8E%B0%E9%87%91%E5%8F%AA%E6%94%B6%E5%A4%B1%E4%B8%BB10%E5%9D%97%E9%92%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [一笑倾城](https://s.weibo.com/weibo?q=%E4%B8%80%E7%AC%91%E5%80%BE%E5%9F%8E&t=31&band_rank=8&Refer=top)<br />
-9. [21岁休学29岁存款5000万](https://s.weibo.com/weibo?q=21%E5%B2%81%E4%BC%91%E5%AD%A629%E5%B2%81%E5%AD%98%E6%AC%BE5000%E4%B8%87&t=31&band_rank=9&Refer=top)<br />
+9. [云之羽OST阵容](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BDOST%E9%98%B5%E5%AE%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
