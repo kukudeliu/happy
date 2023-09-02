@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 20:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 21:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [一笑倾城](https://s.weibo.com/weibo?q=%E4%B8%80%E7%AC%91%E5%80%BE%E5%9F%8E&t=31&band_rank=6&Refer=top)<br />
 7. [云之羽开播口碑](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E5%BC%80%E6%92%AD%E5%8F%A3%E7%A2%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [马冬梅任北京市平谷区副区长](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%86%AC%E6%A2%85%E4%BB%BB%E5%8C%97%E4%BA%AC%E5%B8%82%E5%B9%B3%E8%B0%B7%E5%8C%BA%E5%89%AF%E5%8C%BA%E9%95%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [公司逼员工主动离职常用套路](https://s.weibo.com/weibo?q=%E5%85%AC%E5%8F%B8%E9%80%BC%E5%91%98%E5%B7%A5%E4%B8%BB%E5%8A%A8%E7%A6%BB%E8%81%8C%E5%B8%B8%E7%94%A8%E5%A5%97%E8%B7%AF&t=31&band_rank=9&Refer=top)<br />
+9. [金靖出场把我笑死](https://s.weibo.com/weibo?q=%E9%87%91%E9%9D%96%E5%87%BA%E5%9C%BA%E6%8A%8A%E6%88%91%E7%AC%91%E6%AD%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
