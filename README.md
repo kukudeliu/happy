@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 05:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 05:04:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [韩国石斑鱼大量死亡](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%9F%B3%E6%96%91%E9%B1%BC%E5%A4%A7%E9%87%8F%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡歌回应热评：你才大小姐呢](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%9B%9E%E5%BA%94%E7%83%AD%E8%AF%84%EF%BC%9A%E4%BD%A0%E6%89%8D%E5%A4%A7%E5%B0%8F%E5%A7%90%E5%91%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水过后出现碎金 村民河道捞金](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%90%8E%E5%87%BA%E7%8E%B0%E7%A2%8E%E9%87%91+%E6%9D%91%E6%B0%91%E6%B2%B3%E9%81%93%E6%8D%9E%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [秀才是怎么火起来的](https://www.baidu.com/s?wd=%E7%A7%80%E6%89%8D%E6%98%AF%E6%80%8E%E4%B9%88%E7%81%AB%E8%B5%B7%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老人去世留下19份不同遗嘱](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E7%95%99%E4%B8%8B19%E4%BB%BD%E4%B8%8D%E5%90%8C%E9%81%97%E5%98%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [韩国石斑鱼大量死亡](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%9F%B3%E6%96%91%E9%B1%BC%E5%A4%A7%E9%87%8F%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡歌回应热评：你才大小姐呢](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%9B%9E%E5%BA%94%E7%83%AD%E8%AF%84%EF%BC%9A%E4%BD%A0%E6%89%8D%E5%A4%A7%E5%B0%8F%E5%A7%90%E5%91%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洪水过后出现碎金 村民河道捞金](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%90%8E%E5%87%BA%E7%8E%B0%E7%A2%8E%E9%87%91+%E6%9D%91%E6%B0%91%E6%B2%B3%E9%81%93%E6%8D%9E%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [秀才是怎么火起来的](https://www.baidu.com/s?wd=%E7%A7%80%E6%89%8D%E6%98%AF%E6%80%8E%E4%B9%88%E7%81%AB%E8%B5%B7%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老人去世留下19份不同遗嘱](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E7%95%99%E4%B8%8B19%E4%BB%BD%E4%B8%8D%E5%90%8C%E9%81%97%E5%98%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
