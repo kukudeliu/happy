@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 23:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 23:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [云之羽空降](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%E7%A9%BA%E9%99%8D&t=31&band_rank=6&Refer=top)<br />
 7. [好羡慕23级大学生](https://s.weibo.com/weibo?q=%E5%A5%BD%E7%BE%A1%E6%85%9523%E7%BA%A7%E5%A4%A7%E5%AD%A6%E7%94%9F&t=31&band_rank=7&Refer=top)<br />
 8. [王宝强终于可以把金扫帚还回去了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E7%BB%88%E4%BA%8E%E5%8F%AF%E4%BB%A5%E6%8A%8A%E9%87%91%E6%89%AB%E5%B8%9A%E8%BF%98%E5%9B%9E%E5%8E%BB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [秀才被封](https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E8%A2%AB%E5%B0%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国男篮小组倒数第一](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%B0%8F%E7%BB%84%E5%80%92%E6%95%B0%E7%AC%AC%E4%B8%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,8 +24,8 @@
 5. [台风苏拉过境广东海滩现大量海鲜](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%E8%BF%87%E5%A2%83%E5%B9%BF%E4%B8%9C%E6%B5%B7%E6%BB%A9%E7%8E%B0%E5%A4%A7%E9%87%8F%E6%B5%B7%E9%B2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杨健哭了](https://www.baidu.com/s?wd=%E6%9D%A8%E5%81%A5%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [洪水过后出现碎金 村民河道捞金](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%90%8E%E5%87%BA%E7%8E%B0%E7%A2%8E%E9%87%91+%E6%9D%91%E6%B0%91%E6%B2%B3%E9%81%93%E6%8D%9E%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男篮世界杯现场观战的姚明脸色糟糕](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E7%8E%B0%E5%9C%BA%E8%A7%82%E6%88%98%E7%9A%84%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E7%B3%9F%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子疑受邀到泰国旅游后在缅甸失联](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%96%91%E5%8F%97%E9%82%80%E5%88%B0%E6%B3%B0%E5%9B%BD%E6%97%85%E6%B8%B8%E5%90%8E%E5%9C%A8%E7%BC%85%E7%94%B8%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子疑受邀到泰国旅游后在缅甸失联](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%96%91%E5%8F%97%E9%82%80%E5%88%B0%E6%B3%B0%E5%9B%BD%E6%97%85%E6%B8%B8%E5%90%8E%E5%9C%A8%E7%BC%85%E7%94%B8%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [秀才是怎么火起来的](https://www.baidu.com/s?wd=%E7%A7%80%E6%89%8D%E6%98%AF%E6%80%8E%E4%B9%88%E7%81%AB%E8%B5%B7%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [台风苏拉过境广东海滩现大量海鲜](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%E8%BF%87%E5%A2%83%E5%B9%BF%E4%B8%9C%E6%B5%B7%E6%BB%A9%E7%8E%B0%E5%A4%A7%E9%87%8F%E6%B5%B7%E9%B2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杨健哭了](https://www.baidu.com/s?wd=%E6%9D%A8%E5%81%A5%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [洪水过后出现碎金 村民河道捞金](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%90%8E%E5%87%BA%E7%8E%B0%E7%A2%8E%E9%87%91+%E6%9D%91%E6%B0%91%E6%B2%B3%E9%81%93%E6%8D%9E%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男篮世界杯现场观战的姚明脸色糟糕](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E7%8E%B0%E5%9C%BA%E8%A7%82%E6%88%98%E7%9A%84%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E7%B3%9F%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子疑受邀到泰国旅游后在缅甸失联](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%96%91%E5%8F%97%E9%82%80%E5%88%B0%E6%B3%B0%E5%9B%BD%E6%97%85%E6%B8%B8%E5%90%8E%E5%9C%A8%E7%BC%85%E7%94%B8%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子疑受邀到泰国旅游后在缅甸失联](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%96%91%E5%8F%97%E9%82%80%E5%88%B0%E6%B3%B0%E5%9B%BD%E6%97%85%E6%B8%B8%E5%90%8E%E5%9C%A8%E7%BC%85%E7%94%B8%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [秀才是怎么火起来的](https://www.baidu.com/s?wd=%E7%A7%80%E6%89%8D%E6%98%AF%E6%80%8E%E4%B9%88%E7%81%AB%E8%B5%B7%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
