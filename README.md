@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 17:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 17:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [官方回应国企3亿买无人机：或有违规](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%BC%813%E4%BA%BF%E4%B9%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%EF%BC%9A%E6%88%96%E6%9C%89%E8%BF%9D%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [重庆母子3人家中去世 警方回应](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%AF%8D%E5%AD%903%E4%BA%BA%E5%AE%B6%E4%B8%AD%E5%8E%BB%E4%B8%96+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [万人老小区欲自拆重建 99%业主同意](https://www.baidu.com/s?wd=%E4%B8%87%E4%BA%BA%E8%80%81%E5%B0%8F%E5%8C%BA%E6%AC%B2%E8%87%AA%E6%8B%86%E9%87%8D%E5%BB%BA+99%25%E4%B8%9A%E4%B8%BB%E5%90%8C%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [98年民警收到锦旗笑得合不拢嘴](https://www.baidu.com/s?wd=98%E5%B9%B4%E6%B0%91%E8%AD%A6%E6%94%B6%E5%88%B0%E9%94%A6%E6%97%97%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [千万粉丝主播“秀才”账号被封](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E7%B2%89%E4%B8%9D%E4%B8%BB%E6%92%AD%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [胡兵一公排名倒数](https://www.baidu.com/s?wd=%E8%83%A1%E5%85%B5%E4%B8%80%E5%85%AC%E6%8E%92%E5%90%8D%E5%80%92%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [官方回应国企3亿买无人机：或有违规](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%BC%813%E4%BA%BF%E4%B9%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%EF%BC%9A%E6%88%96%E6%9C%89%E8%BF%9D%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [重庆母子3人家中去世 警方回应](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%AF%8D%E5%AD%903%E4%BA%BA%E5%AE%B6%E4%B8%AD%E5%8E%BB%E4%B8%96+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [万人老小区欲自拆重建 99%业主同意](https://www.baidu.com/s?wd=%E4%B8%87%E4%BA%BA%E8%80%81%E5%B0%8F%E5%8C%BA%E6%AC%B2%E8%87%AA%E6%8B%86%E9%87%8D%E5%BB%BA+99%25%E4%B8%9A%E4%B8%BB%E5%90%8C%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [98年民警收到锦旗笑得合不拢嘴](https://www.baidu.com/s?wd=98%E5%B9%B4%E6%B0%91%E8%AD%A6%E6%94%B6%E5%88%B0%E9%94%A6%E6%97%97%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [千万粉丝主播“秀才”账号被封](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E7%B2%89%E4%B8%9D%E4%B8%BB%E6%92%AD%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [胡兵一公排名倒数](https://www.baidu.com/s?wd=%E8%83%A1%E5%85%B5%E4%B8%80%E5%85%AC%E6%8E%92%E5%90%8D%E5%80%92%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
