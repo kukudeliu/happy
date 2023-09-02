@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 23:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 23:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [我喜欢你 暂时两字不发音](https://s.weibo.com/weibo?q=%E6%88%91%E5%96%9C%E6%AC%A2%E4%BD%A0%20%E6%9A%82%E6%97%B6%E4%B8%A4%E5%AD%97%E4%B8%8D%E5%8F%91%E9%9F%B3&t=31&band_rank=6&Refer=top)<br />
 7. [云之羽空降](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%E7%A9%BA%E9%99%8D&t=31&band_rank=7&Refer=top)<br />
 8. [王宝强终于可以把金扫帚还回去了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E7%BB%88%E4%BA%8E%E5%8F%AF%E4%BB%A5%E6%8A%8A%E9%87%91%E6%89%AB%E5%B8%9A%E8%BF%98%E5%9B%9E%E5%8E%BB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [好羡慕23级大学生](https://s.weibo.com/weibo?q=%E5%A5%BD%E7%BE%A1%E6%85%9523%E7%BA%A7%E5%A4%A7%E5%AD%A6%E7%94%9F&t=31&band_rank=9&Refer=top)<br />
+9. [羡慕杜海涛婴儿般的睡眠](https://s.weibo.com/weibo?q=%23%E7%BE%A1%E6%85%95%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%A9%B4%E5%84%BF%E8%88%AC%E7%9A%84%E7%9D%A1%E7%9C%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
