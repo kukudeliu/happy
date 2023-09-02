@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 13:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 13:09:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [日本第一代丁克正疯狂相亲](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%AC%AC%E4%B8%80%E4%BB%A3%E4%B8%81%E5%85%8B%E6%AD%A3%E7%96%AF%E7%8B%82%E7%9B%B8%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [马冬梅任北京平谷区副区长](https://www.baidu.com/s?wd=%E9%A9%AC%E5%86%AC%E6%A2%85%E4%BB%BB%E5%8C%97%E4%BA%AC%E5%B9%B3%E8%B0%B7%E5%8C%BA%E5%89%AF%E5%8C%BA%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国兵器工业集团发布紧急声明](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%B5%E5%99%A8%E5%B7%A5%E4%B8%9A%E9%9B%86%E5%9B%A2%E5%8F%91%E5%B8%83%E7%B4%A7%E6%80%A5%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本前首相谈“关东大屠杀”](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A6%96%E7%9B%B8%E8%B0%88%E2%80%9C%E5%85%B3%E4%B8%9C%E5%A4%A7%E5%B1%A0%E6%9D%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方回应群发短信让群众回答满意](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%A4%E5%8F%91%E7%9F%AD%E4%BF%A1%E8%AE%A9%E7%BE%A4%E4%BC%97%E5%9B%9E%E7%AD%94%E6%BB%A1%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [日本第一代丁克正疯狂相亲](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%AC%AC%E4%B8%80%E4%BB%A3%E4%B8%81%E5%85%8B%E6%AD%A3%E7%96%AF%E7%8B%82%E7%9B%B8%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [马冬梅任北京平谷区副区长](https://www.baidu.com/s?wd=%E9%A9%AC%E5%86%AC%E6%A2%85%E4%BB%BB%E5%8C%97%E4%BA%AC%E5%B9%B3%E8%B0%B7%E5%8C%BA%E5%89%AF%E5%8C%BA%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国兵器工业集团发布紧急声明](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%B5%E5%99%A8%E5%B7%A5%E4%B8%9A%E9%9B%86%E5%9B%A2%E5%8F%91%E5%B8%83%E7%B4%A7%E6%80%A5%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本前首相谈“关东大屠杀”](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A6%96%E7%9B%B8%E8%B0%88%E2%80%9C%E5%85%B3%E4%B8%9C%E5%A4%A7%E5%B1%A0%E6%9D%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方回应群发短信让群众回答满意](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%A4%E5%8F%91%E7%9F%AD%E4%BF%A1%E8%AE%A9%E7%BE%A4%E4%BC%97%E5%9B%9E%E7%AD%94%E6%BB%A1%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
