@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 15:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 15:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孙怡问melody喜欢软桃子还是硬桃子](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E9%97%AEmelody%E5%96%9C%E6%AC%A2%E8%BD%AF%E6%A1%83%E5%AD%90%E8%BF%98%E6%98%AF%E7%A1%AC%E6%A1%83%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [唐禹哲一公排名](https://s.weibo.com/weibo?q=%23%E5%94%90%E7%A6%B9%E5%93%B2%E4%B8%80%E5%85%AC%E6%8E%92%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [核污染水排放口检测出氚](https://s.weibo.com/weibo?q=%23%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%94%BE%E5%8F%A3%E6%A3%80%E6%B5%8B%E5%87%BA%E6%B0%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈楚生张远俞灏明演了同一个人](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E5%BC%A0%E8%BF%9C%E4%BF%9E%E7%81%8F%E6%98%8E%E6%BC%94%E4%BA%86%E5%90%8C%E4%B8%80%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [上班下班 上班是为了下班](https://s.weibo.com/weibo?q=%E4%B8%8A%E7%8F%AD%E4%B8%8B%E7%8F%AD%20%E4%B8%8A%E7%8F%AD%E6%98%AF%E4%B8%BA%E4%BA%86%E4%B8%8B%E7%8F%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
