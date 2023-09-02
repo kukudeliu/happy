@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 13:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 13:38:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [香港月租12000元的房子](https://s.weibo.com/weibo?q=%E9%A6%99%E6%B8%AF%E6%9C%88%E7%A7%9F12000%E5%85%83%E7%9A%84%E6%88%BF%E5%AD%90&t=31&band_rank=2&Refer=top)<br />
 3. [感受2023服贸会风采](https://s.weibo.com/weibo?q=%23%E6%84%9F%E5%8F%972023%E6%9C%8D%E8%B4%B8%E4%BC%9A%E9%A3%8E%E9%87%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [胡兵一公排名倒数](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B5%E4%B8%80%E5%85%AC%E6%8E%92%E5%90%8D%E5%80%92%E6%95%B0%23&t=31&band_rank=4&Refer=top)<br />
-5. [核污染水排放口检测出氚](https://s.weibo.com/weibo?q=%23%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%94%BE%E5%8F%A3%E6%A3%80%E6%B5%8B%E5%87%BA%E6%B0%9A%23&t=31&band_rank=5&Refer=top)<br />
-6. [你好星期六](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD&t=31&band_rank=6&Refer=top)<br />
-7. [台风刮来一张演唱会门票](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%88%AE%E6%9D%A5%E4%B8%80%E5%BC%A0%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [世界网速排名中国都蓝得发黑了](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E7%BD%91%E9%80%9F%E6%8E%92%E5%90%8D%E4%B8%AD%E5%9B%BD%E9%83%BD%E8%93%9D%E5%BE%97%E5%8F%91%E9%BB%91%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [就让这大雨全都落下](https://s.weibo.com/weibo?q=%E5%B0%B1%E8%AE%A9%E8%BF%99%E5%A4%A7%E9%9B%A8%E5%85%A8%E9%83%BD%E8%90%BD%E4%B8%8B&t=31&band_rank=9&Refer=top)<br />
+5. [女儿的书桌上没有一丁点学习的东西](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%84%BF%E7%9A%84%E4%B9%A6%E6%A1%8C%E4%B8%8A%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%81%E7%82%B9%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%B8%9C%E8%A5%BF&t=31&band_rank=5&Refer=top)<br />
+6. [核污染水排放口检测出氚](https://s.weibo.com/weibo?q=%23%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%94%BE%E5%8F%A3%E6%A3%80%E6%B5%8B%E5%87%BA%E6%B0%9A%23&t=31&band_rank=6&Refer=top)<br />
+7. [你好星期六](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD&t=31&band_rank=7&Refer=top)<br />
+8. [台风刮来一张演唱会门票](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%88%AE%E6%9D%A5%E4%B8%80%E5%BC%A0%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [世界网速排名中国都蓝得发黑了](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E7%BD%91%E9%80%9F%E6%8E%92%E5%90%8D%E4%B8%AD%E5%9B%BD%E9%83%BD%E8%93%9D%E5%BE%97%E5%8F%91%E9%BB%91%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
