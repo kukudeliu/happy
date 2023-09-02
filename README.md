@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 16:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 16:15:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [张远三年内经历了赔钱生离死别](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E4%B8%89%E5%B9%B4%E5%86%85%E7%BB%8F%E5%8E%86%E4%BA%86%E8%B5%94%E9%92%B1%E7%94%9F%E7%A6%BB%E6%AD%BB%E5%88%AB%23&t=31&band_rank=5&Refer=top)<br />
 6. [香港月租12000元的房子](https://s.weibo.com/weibo?q=%E9%A6%99%E6%B8%AF%E6%9C%88%E7%A7%9F12000%E5%85%83%E7%9A%84%E6%88%BF%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
 7. [唐禹哲一公排名](https://s.weibo.com/weibo?q=%23%E5%94%90%E7%A6%B9%E5%93%B2%E4%B8%80%E5%85%AC%E6%8E%92%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [台风苏拉一天两次登陆广东](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%E4%B8%80%E5%A4%A9%E4%B8%A4%E6%AC%A1%E7%99%BB%E9%99%86%E5%B9%BF%E4%B8%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [封神票房破25亿flag](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF%E7%A0%B425%E4%BA%BFflag%23&t=31&band_rank=9&Refer=top)<br />
+8. [南阳理工给予虐猫学生开除学籍处分](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B3%E7%90%86%E5%B7%A5%E7%BB%99%E4%BA%88%E8%99%90%E7%8C%AB%E5%AD%A6%E7%94%9F%E5%BC%80%E9%99%A4%E5%AD%A6%E7%B1%8D%E5%A4%84%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [台风苏拉一天两次登陆广东](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%E4%B8%80%E5%A4%A9%E4%B8%A4%E6%AC%A1%E7%99%BB%E9%99%86%E5%B9%BF%E4%B8%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
