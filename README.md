@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 23:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 23:23:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [杨健哭了](https://www.baidu.com/s?wd=%E6%9D%A8%E5%81%A5%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [洪水过后出现碎金 村民河道捞金](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%90%8E%E5%87%BA%E7%8E%B0%E7%A2%8E%E9%87%91+%E6%9D%91%E6%B0%91%E6%B2%B3%E9%81%93%E6%8D%9E%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [官方回应国企3亿买无人机：或有违规](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%BC%813%E4%BA%BF%E4%B9%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%EF%BC%9A%E6%88%96%E6%9C%89%E8%BF%9D%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [房贷利率下调个贷经理电话被打爆](https://www.baidu.com/s?wd=%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E4%B8%8B%E8%B0%83%E4%B8%AA%E8%B4%B7%E7%BB%8F%E7%90%86%E7%94%B5%E8%AF%9D%E8%A2%AB%E6%89%93%E7%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男篮世界杯现场观战的姚明脸色糟糕](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E7%8E%B0%E5%9C%BA%E8%A7%82%E6%88%98%E7%9A%84%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E7%B3%9F%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [杨健哭了](https://www.baidu.com/s?wd=%E6%9D%A8%E5%81%A5%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [洪水过后出现碎金 村民河道捞金](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%90%8E%E5%87%BA%E7%8E%B0%E7%A2%8E%E9%87%91+%E6%9D%91%E6%B0%91%E6%B2%B3%E9%81%93%E6%8D%9E%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [官方回应国企3亿买无人机：或有违规](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%BC%813%E4%BA%BF%E4%B9%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%EF%BC%9A%E6%88%96%E6%9C%89%E8%BF%9D%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [房贷利率下调个贷经理电话被打爆](https://www.baidu.com/s?wd=%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E4%B8%8B%E8%B0%83%E4%B8%AA%E8%B4%B7%E7%BB%8F%E7%90%86%E7%94%B5%E8%AF%9D%E8%A2%AB%E6%89%93%E7%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男篮世界杯现场观战的姚明脸色糟糕](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E7%8E%B0%E5%9C%BA%E8%A7%82%E6%88%98%E7%9A%84%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E7%B3%9F%E7%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
