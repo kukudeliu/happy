@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 22:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 22:59:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [洪水过后出现碎金 村民河道捞金](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%90%8E%E5%87%BA%E7%8E%B0%E7%A2%8E%E9%87%91+%E6%9D%91%E6%B0%91%E6%B2%B3%E9%81%93%E6%8D%9E%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨健哭了](https://www.baidu.com/s?wd=%E6%9D%A8%E5%81%A5%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [秀才是怎么火起来的](https://www.baidu.com/s?wd=%E7%A7%80%E6%89%8D%E6%98%AF%E6%80%8E%E4%B9%88%E7%81%AB%E8%B5%B7%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [封神票房破25亿主创整活](https://www.baidu.com/s?wd=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF%E7%A0%B425%E4%BA%BF%E4%B8%BB%E5%88%9B%E6%95%B4%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [70岁保安冲入火场救火被灼成“雕像”](https://www.baidu.com/s?wd=70%E5%B2%81%E4%BF%9D%E5%AE%89%E5%86%B2%E5%85%A5%E7%81%AB%E5%9C%BA%E6%95%91%E7%81%AB%E8%A2%AB%E7%81%BC%E6%88%90%E2%80%9C%E9%9B%95%E5%83%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [洪水过后出现碎金 村民河道捞金](https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%90%8E%E5%87%BA%E7%8E%B0%E7%A2%8E%E9%87%91+%E6%9D%91%E6%B0%91%E6%B2%B3%E9%81%93%E6%8D%9E%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨健哭了](https://www.baidu.com/s?wd=%E6%9D%A8%E5%81%A5%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [秀才是怎么火起来的](https://www.baidu.com/s?wd=%E7%A7%80%E6%89%8D%E6%98%AF%E6%80%8E%E4%B9%88%E7%81%AB%E8%B5%B7%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [封神票房破25亿主创整活](https://www.baidu.com/s?wd=%E5%B0%81%E7%A5%9E%E7%A5%A8%E6%88%BF%E7%A0%B425%E4%BA%BF%E4%B8%BB%E5%88%9B%E6%95%B4%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [70岁保安冲入火场救火被灼成“雕像”](https://www.baidu.com/s?wd=70%E5%B2%81%E4%BF%9D%E5%AE%89%E5%86%B2%E5%85%A5%E7%81%AB%E5%9C%BA%E6%95%91%E7%81%AB%E8%A2%AB%E7%81%BC%E6%88%90%E2%80%9C%E9%9B%95%E5%83%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
