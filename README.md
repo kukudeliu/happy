@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 06:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 06:18:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [利息少了130万房主美滋滋换电脑换手机](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%86130%E4%B8%87%E6%88%BF%E4%B8%BB%E7%BE%8E%E6%BB%8B%E6%BB%8B%E6%8D%A2%E7%94%B5%E8%84%91%E6%8D%A2%E6%89%8B%E6%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [秀才被举报涉嫌税收违法](https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E8%A2%AB%E4%B8%BE%E6%8A%A5%E6%B6%89%E5%AB%8C%E7%A8%8E%E6%94%B6%E8%BF%9D%E6%B3%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [解说怒吼质问中国男篮](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E8%AF%B4%E6%80%92%E5%90%BC%E8%B4%A8%E9%97%AE%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [盛阳 伪装小奶狗的小狼狗](https://s.weibo.com/weibo?q=%E7%9B%9B%E9%98%B3%20%E4%BC%AA%E8%A3%85%E5%B0%8F%E5%A5%B6%E7%8B%97%E7%9A%84%E5%B0%8F%E7%8B%BC%E7%8B%97&t=31&band_rank=9&Refer=top)<br />
+9. [日本接连发生大规模集体食物中毒](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E4%BD%93%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
