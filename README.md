@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 09:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 09:56:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [开学第一课](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [北上广深全部认房不认贷](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%B8%8A%E5%B9%BF%E6%B7%B1%E5%85%A8%E9%83%A8%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [沈梦辰下期中餐厅哭了](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E4%B8%8B%E6%9C%9F%E4%B8%AD%E9%A4%90%E5%8E%85%E5%93%AD%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [深圳台风](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%8F%B0%E9%A3%8E&t=31&band_rank=6&Refer=top)<br />
-7. [一个台风刚登陆另一个台风又来了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E5%8F%B0%E9%A3%8E%E5%88%9A%E7%99%BB%E9%99%86%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%8F%B0%E9%A3%8E%E5%8F%88%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+6. [一个台风刚登陆另一个台风又来了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E5%8F%B0%E9%A3%8E%E5%88%9A%E7%99%BB%E9%99%86%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%8F%B0%E9%A3%8E%E5%8F%88%E6%9D%A5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [深圳台风](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%8F%B0%E9%A3%8E&t=31&band_rank=7&Refer=top)<br />
 8. [小夭 只手风雨翻](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%A4%AD%20%E5%8F%AA%E6%89%8B%E9%A3%8E%E9%9B%A8%E7%BF%BB&t=31&band_rank=8&Refer=top)<br />
 9. [天津跳水大爷逐渐专业化了](https://s.weibo.com/weibo?q=%E5%A4%A9%E6%B4%A5%E8%B7%B3%E6%B0%B4%E5%A4%A7%E7%88%B7%E9%80%90%E6%B8%90%E4%B8%93%E4%B8%9A%E5%8C%96%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
