@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 05:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 05:50:01</h4></div>
 
 > 微博  
 
 1. [千万粉丝网红家中失火](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E5%AE%B6%E4%B8%AD%E5%A4%B1%E7%81%AB%23&t=31&band_rank=1&Refer=top)<br />
 2. [云之羽](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD&t=31&band_rank=2&Refer=top)<br />
 3. [感受2023服贸会风采](https://s.weibo.com/weibo?q=%23%E6%84%9F%E5%8F%972023%E6%9C%8D%E8%B4%B8%E4%BC%9A%E9%A3%8E%E9%87%87%23&t=31&band_rank=3&Refer=top)<br />
-4. [中国男篮或将连续缺席两届奥运会](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%88%96%E5%B0%86%E8%BF%9E%E7%BB%AD%E7%BC%BA%E5%B8%AD%E4%B8%A4%E5%B1%8A%E5%A5%A5%E8%BF%90%E4%BC%9A%23&t=31&band_rank=4&Refer=top)<br />
+4. [羡慕杜海涛婴儿般的睡眠](https://s.weibo.com/weibo?q=%23%E7%BE%A1%E6%85%95%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%A9%B4%E5%84%BF%E8%88%AC%E7%9A%84%E7%9D%A1%E7%9C%A0%23&t=31&band_rank=4&Refer=top)<br />
 5. [利息少了130万房主美滋滋换电脑换手机](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%86130%E4%B8%87%E6%88%BF%E4%B8%BB%E7%BE%8E%E6%BB%8B%E6%BB%8B%E6%8D%A2%E7%94%B5%E8%84%91%E6%8D%A2%E6%89%8B%E6%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [羡慕杜海涛婴儿般的睡眠](https://s.weibo.com/weibo?q=%23%E7%BE%A1%E6%85%95%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%A9%B4%E5%84%BF%E8%88%AC%E7%9A%84%E7%9D%A1%E7%9C%A0%23&t=31&band_rank=6&Refer=top)<br />
-7. [日本接连发生大规模集体食物中毒](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E4%BD%93%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [解说怒吼质问中国男篮](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E8%AF%B4%E6%80%92%E5%90%BC%E8%B4%A8%E9%97%AE%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [张凌赫粉底太白了](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%B2%89%E5%BA%95%E5%A4%AA%E7%99%BD%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+6. [中国男篮或将连续缺席两届奥运会](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%88%96%E5%B0%86%E8%BF%9E%E7%BB%AD%E7%BC%BA%E5%B8%AD%E4%B8%A4%E5%B1%8A%E5%A5%A5%E8%BF%90%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
+7. [秀才被举报涉嫌税收违法](https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E8%A2%AB%E4%B8%BE%E6%8A%A5%E6%B6%89%E5%AB%8C%E7%A8%8E%E6%94%B6%E8%BF%9D%E6%B3%95%23&t=31&band_rank=7&Refer=top)<br />
+8. [日本接连发生大规模集体食物中毒](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E4%BD%93%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%23&t=31&band_rank=8&Refer=top)<br />
+9. [解说怒吼质问中国男篮](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E8%AF%B4%E6%80%92%E5%90%BC%E8%B4%A8%E9%97%AE%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
