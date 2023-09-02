@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 10:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 10:56:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [开学第一课](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [用iPhone5s拍照](https://s.weibo.com/weibo?q=%E7%94%A8iPhone5s%E6%8B%8D%E7%85%A7&t=31&band_rank=4&Refer=top)<br />
 5. [长相思腾讯暑期档最大爆款](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E8%85%BE%E8%AE%AF%E6%9A%91%E6%9C%9F%E6%A1%A3%E6%9C%80%E5%A4%A7%E7%88%86%E6%AC%BE%23&t=31&band_rank=5&Refer=top)<br />
-6. [苏拉登陆广东珠海](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%8B%89%E7%99%BB%E9%99%86%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B5%B7%23&t=31&band_rank=6&Refer=top)<br />
-7. [武艺问武艺拿蛋糕好笑吗](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E8%89%BA%E9%97%AE%E6%AD%A6%E8%89%BA%E6%8B%BF%E8%9B%8B%E7%B3%95%E5%A5%BD%E7%AC%91%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
+6. [武艺问武艺拿蛋糕好笑吗](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E8%89%BA%E9%97%AE%E6%AD%A6%E8%89%BA%E6%8B%BF%E8%9B%8B%E7%B3%95%E5%A5%BD%E7%AC%91%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
+7. [苏拉登陆广东珠海](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%8B%89%E7%99%BB%E9%99%86%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B5%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [一个台风刚登陆另一个台风又来了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E5%8F%B0%E9%A3%8E%E5%88%9A%E7%99%BB%E9%99%86%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%8F%B0%E9%A3%8E%E5%8F%88%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [北上广深全部认房不认贷](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%B8%8A%E5%B9%BF%E6%B7%B1%E5%85%A8%E9%83%A8%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7%23&t=31&band_rank=9&Refer=top)<br />
 
