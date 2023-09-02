@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 09:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 09:41:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [苏拉登陆广东珠海](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%8B%89%E7%99%BB%E9%99%86%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B5%B7%23&t=31&band_rank=2&Refer=top)<br />
 3. [开学第一课](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [深圳台风](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%8F%B0%E9%A3%8E&t=31&band_rank=4&Refer=top)<br />
-5. [30年内日本首都圈7级地震概率达七成](https://s.weibo.com/weibo?q=%2330%E5%B9%B4%E5%86%85%E6%97%A5%E6%9C%AC%E9%A6%96%E9%83%BD%E5%9C%887%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%A6%82%E7%8E%87%E8%BE%BE%E4%B8%83%E6%88%90%23&t=31&band_rank=5&Refer=top)<br />
-6. [北上广深全部认房不认贷](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%B8%8A%E5%B9%BF%E6%B7%B1%E5%85%A8%E9%83%A8%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7%23&t=31&band_rank=6&Refer=top)<br />
+5. [北上广深全部认房不认贷](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%B8%8A%E5%B9%BF%E6%B7%B1%E5%85%A8%E9%83%A8%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7%23&t=31&band_rank=5&Refer=top)<br />
+6. [30年内日本首都圈7级地震概率达七成](https://s.weibo.com/weibo?q=%2330%E5%B9%B4%E5%86%85%E6%97%A5%E6%9C%AC%E9%A6%96%E9%83%BD%E5%9C%887%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%A6%82%E7%8E%87%E8%BE%BE%E4%B8%83%E6%88%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [小夭 只手风雨翻](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%A4%AD%20%E5%8F%AA%E6%89%8B%E9%A3%8E%E9%9B%A8%E7%BF%BB&t=31&band_rank=7&Refer=top)<br />
 8. [成都官宣认房不认贷](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%AE%98%E5%AE%A3%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7%23&t=31&band_rank=8&Refer=top)<br />
 9. [一个台风刚登陆另一个台风又来了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E5%8F%B0%E9%A3%8E%E5%88%9A%E7%99%BB%E9%99%86%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%8F%B0%E9%A3%8E%E5%8F%88%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
