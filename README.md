@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 00:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 00:27:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [台风苏拉过境广东海滩现大量海鲜](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%E8%BF%87%E5%A2%83%E5%B9%BF%E4%B8%9C%E6%B5%B7%E6%BB%A9%E7%8E%B0%E5%A4%A7%E9%87%8F%E6%B5%B7%E9%B2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国石斑鱼大量死亡](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%9F%B3%E6%96%91%E9%B1%BC%E5%A4%A7%E9%87%8F%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡歌回应热评：你才大小姐呢](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%9B%9E%E5%BA%94%E7%83%AD%E8%AF%84%EF%BC%9A%E4%BD%A0%E6%89%8D%E5%A4%A7%E5%B0%8F%E5%A7%90%E5%91%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [西安两医生收红包视频曝光后被停职](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%B8%A4%E5%8C%BB%E7%94%9F%E6%94%B6%E7%BA%A2%E5%8C%85%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%E5%90%8E%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [秀才是怎么火起来的](https://www.baidu.com/s?wd=%E7%A7%80%E6%89%8D%E6%98%AF%E6%80%8E%E4%B9%88%E7%81%AB%E8%B5%B7%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [秀才是怎么火起来的](https://www.baidu.com/s?wd=%E7%A7%80%E6%89%8D%E6%98%AF%E6%80%8E%E4%B9%88%E7%81%AB%E8%B5%B7%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杨健哭了](https://www.baidu.com/s?wd=%E6%9D%A8%E5%81%A5%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [台风苏拉过境广东海滩现大量海鲜](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E8%8B%8F%E6%8B%89%E8%BF%87%E5%A2%83%E5%B9%BF%E4%B8%9C%E6%B5%B7%E6%BB%A9%E7%8E%B0%E5%A4%A7%E9%87%8F%E6%B5%B7%E9%B2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国石斑鱼大量死亡](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%9F%B3%E6%96%91%E9%B1%BC%E5%A4%A7%E9%87%8F%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡歌回应热评：你才大小姐呢](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%9B%9E%E5%BA%94%E7%83%AD%E8%AF%84%EF%BC%9A%E4%BD%A0%E6%89%8D%E5%A4%A7%E5%B0%8F%E5%A7%90%E5%91%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [西安两医生收红包视频曝光后被停职](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%B8%A4%E5%8C%BB%E7%94%9F%E6%94%B6%E7%BA%A2%E5%8C%85%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%E5%90%8E%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [秀才是怎么火起来的](https://www.baidu.com/s?wd=%E7%A7%80%E6%89%8D%E6%98%AF%E6%80%8E%E4%B9%88%E7%81%AB%E8%B5%B7%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [秀才是怎么火起来的](https://www.baidu.com/s?wd=%E7%A7%80%E6%89%8D%E6%98%AF%E6%80%8E%E4%B9%88%E7%81%AB%E8%B5%B7%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杨健哭了](https://www.baidu.com/s?wd=%E6%9D%A8%E5%81%A5%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
