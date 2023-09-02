@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 17:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 17:49:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [重庆母子3人家中去世 警方回应](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%AF%8D%E5%AD%903%E4%BA%BA%E5%AE%B6%E4%B8%AD%E5%8E%BB%E4%B8%96+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [万人老小区欲自拆重建 99%业主同意](https://www.baidu.com/s?wd=%E4%B8%87%E4%BA%BA%E8%80%81%E5%B0%8F%E5%8C%BA%E6%AC%B2%E8%87%AA%E6%8B%86%E9%87%8D%E5%BB%BA+99%25%E4%B8%9A%E4%B8%BB%E5%90%8C%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本接连发生大规模集体食物中毒](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E4%BD%93%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [核污染水排放口检测出氚](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%94%BE%E5%8F%A3%E6%A3%80%E6%B5%8B%E5%87%BA%E6%B0%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [胡兵一公排名倒数](https://www.baidu.com/s?wd=%E8%83%A1%E5%85%B5%E4%B8%80%E5%85%AC%E6%8E%92%E5%90%8D%E5%80%92%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [重庆母子3人家中去世 警方回应](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%AF%8D%E5%AD%903%E4%BA%BA%E5%AE%B6%E4%B8%AD%E5%8E%BB%E4%B8%96+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [万人老小区欲自拆重建 99%业主同意](https://www.baidu.com/s?wd=%E4%B8%87%E4%BA%BA%E8%80%81%E5%B0%8F%E5%8C%BA%E6%AC%B2%E8%87%AA%E6%8B%86%E9%87%8D%E5%BB%BA+99%25%E4%B8%9A%E4%B8%BB%E5%90%8C%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本接连发生大规模集体食物中毒](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E4%BD%93%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [核污染水排放口检测出氚](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%94%BE%E5%8F%A3%E6%A3%80%E6%B5%8B%E5%87%BA%E6%B0%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [胡兵一公排名倒数](https://www.baidu.com/s?wd=%E8%83%A1%E5%85%B5%E4%B8%80%E5%85%AC%E6%8E%92%E5%90%8D%E5%80%92%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
