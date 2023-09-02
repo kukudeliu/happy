@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 11:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 11:52:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [用iPhone5s拍照](https://s.weibo.com/weibo?q=%E7%94%A8iPhone5s%E6%8B%8D%E7%85%A7&t=31&band_rank=6&Refer=top)<br />
 7. [长相思腾讯暑期档最大爆款](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E8%85%BE%E8%AE%AF%E6%9A%91%E6%9C%9F%E6%A1%A3%E6%9C%80%E5%A4%A7%E7%88%86%E6%AC%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [日本签字投降历史影像](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AD%BE%E5%AD%97%E6%8A%95%E9%99%8D%E5%8E%86%E5%8F%B2%E5%BD%B1%E5%83%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [美网](https://s.weibo.com/weibo?q=%E7%BE%8E%E7%BD%91&t=31&band_rank=9&Refer=top)<br />
+9. [一个台风刚登陆另一个台风又来了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E5%8F%B0%E9%A3%8E%E5%88%9A%E7%99%BB%E9%99%86%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%8F%B0%E9%A3%8E%E5%8F%88%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
