@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 18:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 18:43:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [重庆母子3人家中去世 警方回应](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%AF%8D%E5%AD%903%E4%BA%BA%E5%AE%B6%E4%B8%AD%E5%8E%BB%E4%B8%96+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本：首都圈30年内或有7级大地震](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%EF%BC%9A%E9%A6%96%E9%83%BD%E5%9C%8830%E5%B9%B4%E5%86%85%E6%88%96%E6%9C%897%E7%BA%A7%E5%A4%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本接连发生大规模集体食物中毒](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E4%BD%93%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [98年民警收到锦旗笑得合不拢嘴](https://www.baidu.com/s?wd=98%E5%B9%B4%E6%B0%91%E8%AD%A6%E6%94%B6%E5%88%B0%E9%94%A6%E6%97%97%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [退伍残疾军人买优惠票乘车被拒](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%8D%E6%AE%8B%E7%96%BE%E5%86%9B%E4%BA%BA%E4%B9%B0%E4%BC%98%E6%83%A0%E7%A5%A8%E4%B9%98%E8%BD%A6%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [重庆母子3人家中去世 警方回应](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%AF%8D%E5%AD%903%E4%BA%BA%E5%AE%B6%E4%B8%AD%E5%8E%BB%E4%B8%96+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本：首都圈30年内或有7级大地震](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%EF%BC%9A%E9%A6%96%E9%83%BD%E5%9C%8830%E5%B9%B4%E5%86%85%E6%88%96%E6%9C%897%E7%BA%A7%E5%A4%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本接连发生大规模集体食物中毒](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E4%BD%93%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [98年民警收到锦旗笑得合不拢嘴](https://www.baidu.com/s?wd=98%E5%B9%B4%E6%B0%91%E8%AD%A6%E6%94%B6%E5%88%B0%E9%94%A6%E6%97%97%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [退伍残疾军人买优惠票乘车被拒](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%8D%E6%AE%8B%E7%96%BE%E5%86%9B%E4%BA%BA%E4%B9%B0%E4%BC%98%E6%83%A0%E7%A5%A8%E4%B9%98%E8%BD%A6%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
