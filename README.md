@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 22:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 22:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [好羡慕23级大学生](https://s.weibo.com/weibo?q=%E5%A5%BD%E7%BE%A1%E6%85%9523%E7%BA%A7%E5%A4%A7%E5%AD%A6%E7%94%9F&t=31&band_rank=5&Refer=top)<br />
 6. [王宝强终于可以把金扫帚还回去了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E7%BB%88%E4%BA%8E%E5%8F%AF%E4%BB%A5%E6%8A%8A%E9%87%91%E6%89%AB%E5%B8%9A%E8%BF%98%E5%9B%9E%E5%8E%BB%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国男篮小组倒数第一](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%B0%8F%E7%BB%84%E5%80%92%E6%95%B0%E7%AC%AC%E4%B8%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [云之羽空降](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%E7%A9%BA%E9%99%8D&t=31&band_rank=8&Refer=top)<br />
-9. [中国男篮崩盘](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%B4%A9%E7%9B%98%23&t=31&band_rank=9&Refer=top)<br />
+8. [解说怒吼质问中国男篮](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E8%AF%B4%E6%80%92%E5%90%BC%E8%B4%A8%E9%97%AE%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%23&t=31&band_rank=8&Refer=top)<br />
+9. [云之羽空降](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%E7%A9%BA%E9%99%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
