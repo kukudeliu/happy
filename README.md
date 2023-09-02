@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 19:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 19:06:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 > 百度  
 
 1. [习近平对服贸会作出这些重要论述](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E6%9C%8D%E8%B4%B8%E4%BC%9A%E4%BD%9C%E5%87%BA%E8%BF%99%E4%BA%9B%E9%87%8D%E8%A6%81%E8%AE%BA%E8%BF%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [男子不信台风威力开门被吹翻在地](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E4%BF%A1%E5%8F%B0%E9%A3%8E%E5%A8%81%E5%8A%9B%E5%BC%80%E9%97%A8%E8%A2%AB%E5%90%B9%E7%BF%BB%E5%9C%A8%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [千万粉丝主播“秀才”账号被封](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E7%B2%89%E4%B8%9D%E4%B8%BB%E6%92%AD%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [千万粉丝主播“秀才”账号被封](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E7%B2%89%E4%B8%9D%E4%B8%BB%E6%92%AD%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [男子不信台风威力开门被吹翻在地](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E4%BF%A1%E5%8F%B0%E9%A3%8E%E5%A8%81%E5%8A%9B%E5%BC%80%E9%97%A8%E8%A2%AB%E5%90%B9%E7%BF%BB%E5%9C%A8%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共盼杭州亚运盛会](https://www.baidu.com/s?wd=%E5%85%B1%E7%9B%BC%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E7%9B%9B%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [老人去世留下19份不同遗嘱](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E7%95%99%E4%B8%8B19%E4%BB%BD%E4%B8%8D%E5%90%8C%E9%81%97%E5%98%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [专家称开发商趁机涨价不可取](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%BC%80%E5%8F%91%E5%95%86%E8%B6%81%E6%9C%BA%E6%B6%A8%E4%BB%B7%E4%B8%8D%E5%8F%AF%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,8 +30,8 @@
 > 哔哩哔哩  
 
 1. [习近平对服贸会作出这些重要论述](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E6%9C%8D%E8%B4%B8%E4%BC%9A%E4%BD%9C%E5%87%BA%E8%BF%99%E4%BA%9B%E9%87%8D%E8%A6%81%E8%AE%BA%E8%BF%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [男子不信台风威力开门被吹翻在地](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E4%BF%A1%E5%8F%B0%E9%A3%8E%E5%A8%81%E5%8A%9B%E5%BC%80%E9%97%A8%E8%A2%AB%E5%90%B9%E7%BF%BB%E5%9C%A8%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [千万粉丝主播“秀才”账号被封](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E7%B2%89%E4%B8%9D%E4%B8%BB%E6%92%AD%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [千万粉丝主播“秀才”账号被封](https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E7%B2%89%E4%B8%9D%E4%B8%BB%E6%92%AD%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [男子不信台风威力开门被吹翻在地](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E4%BF%A1%E5%8F%B0%E9%A3%8E%E5%A8%81%E5%8A%9B%E5%BC%80%E9%97%A8%E8%A2%AB%E5%90%B9%E7%BF%BB%E5%9C%A8%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共盼杭州亚运盛会](https://www.baidu.com/s?wd=%E5%85%B1%E7%9B%BC%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E7%9B%9B%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [老人去世留下19份不同遗嘱](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E7%95%99%E4%B8%8B19%E4%BB%BD%E4%B8%8D%E5%90%8C%E9%81%97%E5%98%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [专家称开发商趁机涨价不可取](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%BC%80%E5%8F%91%E5%95%86%E8%B6%81%E6%9C%BA%E6%B6%A8%E4%BB%B7%E4%B8%8D%E5%8F%AF%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
