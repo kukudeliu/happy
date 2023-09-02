@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 22:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 22:15:01</h4></div>
 
 > 微博  
 
-1. [秀才被封](https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E8%A2%AB%E5%B0%81%23&t=31&band_rank=1&Refer=top)<br />
-2. [韩国石斑鱼大量死亡](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%9F%B3%E6%96%91%E9%B1%BC%E5%A4%A7%E9%87%8F%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
+1. [韩国石斑鱼大量死亡](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%9F%B3%E6%96%91%E9%B1%BC%E5%A4%A7%E9%87%8F%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=1&Refer=top)<br />
+2. [秀才被封](https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E8%A2%AB%E5%B0%81%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会颁奖物资背后满是祝福](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%A2%81%E5%A5%96%E7%89%A9%E8%B5%84%E8%83%8C%E5%90%8E%E6%BB%A1%E6%98%AF%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=3&Refer=top)<br />
 4. [好羡慕23级大学生](https://s.weibo.com/weibo?q=%E5%A5%BD%E7%BE%A1%E6%85%9523%E7%BA%A7%E5%A4%A7%E5%AD%A6%E7%94%9F&t=31&band_rank=4&Refer=top)<br />
 5. [张凌赫粉底太白了](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%B2%89%E5%BA%95%E5%A4%AA%E7%99%BD%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
