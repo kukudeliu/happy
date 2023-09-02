@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 14:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-02 14:24:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [胡兵一公排名倒数](https://www.baidu.com/s?wd=%E8%83%A1%E5%85%B5%E4%B8%80%E5%85%AC%E6%8E%92%E5%90%8D%E5%80%92%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国兵器工业集团发布紧急声明](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%B5%E5%99%A8%E5%B7%A5%E4%B8%9A%E9%9B%86%E5%9B%A2%E5%8F%91%E5%B8%83%E7%B4%A7%E6%80%A5%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [河北一小学宿舍现三层床铺](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E5%B0%8F%E5%AD%A6%E5%AE%BF%E8%88%8D%E7%8E%B0%E4%B8%89%E5%B1%82%E5%BA%8A%E9%93%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [背电瓶下井捞手机 3男子疑触电身亡](https://www.baidu.com/s?wd=%E8%83%8C%E7%94%B5%E7%93%B6%E4%B8%8B%E4%BA%95%E6%8D%9E%E6%89%8B%E6%9C%BA+3%E7%94%B7%E5%AD%90%E7%96%91%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多名学生吃臭鸡腿后送医?教育局回应](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E5%90%83%E8%87%AD%E9%B8%A1%E8%85%BF%E5%90%8E%E9%80%81%E5%8C%BB%3F%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [胡兵一公排名倒数](https://www.baidu.com/s?wd=%E8%83%A1%E5%85%B5%E4%B8%80%E5%85%AC%E6%8E%92%E5%90%8D%E5%80%92%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国兵器工业集团发布紧急声明](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%B5%E5%99%A8%E5%B7%A5%E4%B8%9A%E9%9B%86%E5%9B%A2%E5%8F%91%E5%B8%83%E7%B4%A7%E6%80%A5%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [河北一小学宿舍现三层床铺](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E5%B0%8F%E5%AD%A6%E5%AE%BF%E8%88%8D%E7%8E%B0%E4%B8%89%E5%B1%82%E5%BA%8A%E9%93%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [背电瓶下井捞手机 3男子疑触电身亡](https://www.baidu.com/s?wd=%E8%83%8C%E7%94%B5%E7%93%B6%E4%B8%8B%E4%BA%95%E6%8D%9E%E6%89%8B%E6%9C%BA+3%E7%94%B7%E5%AD%90%E7%96%91%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [多名学生吃臭鸡腿后送医?教育局回应](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E5%90%83%E8%87%AD%E9%B8%A1%E8%85%BF%E5%90%8E%E9%80%81%E5%8C%BB%3F%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
