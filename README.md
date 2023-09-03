@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 12:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 12:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [日本投降的真正原因是什么](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么无座和二等座是同价](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%97%A0%E5%BA%A7%E5%92%8C%E4%BA%8C%E7%AD%89%E5%BA%A7%E6%98%AF%E5%90%8C%E4%BB%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [虞书欣说拍泥浆戏很像巧克力广告](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%AF%B4%E6%8B%8D%E6%B3%A5%E6%B5%86%E6%88%8F%E5%BE%88%E5%83%8F%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%B9%BF%E5%91%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [江苏一学校开学一年级仅3人](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%BC%80%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%BB%853%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [12306回应高铁动车二等座无座同价](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E5%8A%A8%E8%BD%A6%E4%BA%8C%E7%AD%89%E5%BA%A7%E6%97%A0%E5%BA%A7%E5%90%8C%E4%BB%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
