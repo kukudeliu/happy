@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 17:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 17:45:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [从此世上只有李莲花了](https://s.weibo.com/weibo?q=%E4%BB%8E%E6%AD%A4%E4%B8%96%E4%B8%8A%E5%8F%AA%E6%9C%89%E6%9D%8E%E8%8E%B2%E8%8A%B1%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [奥本海默](https://s.weibo.com/weibo?q=%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98&t=31&band_rank=6&Refer=top)<br />
 7. [六公主谈逃出大英博物馆火出圈](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E8%B0%88%E9%80%83%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E7%81%AB%E5%87%BA%E5%9C%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [闫妮让姚晨做套卷子清醒一下](https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%A6%AE%E8%AE%A9%E5%A7%9A%E6%99%A8%E5%81%9A%E5%A5%97%E5%8D%B7%E5%AD%90%E6%B8%85%E9%86%92%E4%B8%80%E4%B8%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [十个勤天头像](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E5%A4%B4%E5%83%8F&t=31&band_rank=9&Refer=top)<br />
+8. [十个勤天头像](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E5%A4%B4%E5%83%8F&t=31&band_rank=8&Refer=top)<br />
+9. [闫妮让姚晨做套卷子清醒一下](https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%A6%AE%E8%AE%A9%E5%A7%9A%E6%99%A8%E5%81%9A%E5%A5%97%E5%8D%B7%E5%AD%90%E6%B8%85%E9%86%92%E4%B8%80%E4%B8%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
