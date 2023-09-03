@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 00:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 00:42:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [蒋依依被曝偷税漏税 已补缴238万](https://www.baidu.com/s?wd=%E8%92%8B%E4%BE%9D%E4%BE%9D%E8%A2%AB%E6%9B%9D%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E+%E5%B7%B2%E8%A1%A5%E7%BC%B4238%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子被狗撕碎左脸缝了500多针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E6%92%95%E7%A2%8E%E5%B7%A6%E8%84%B8%E7%BC%9D%E4%BA%86500%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡锡进评奥本海默女演员被P上衣服](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E5%A5%B3%E6%BC%94%E5%91%98%E8%A2%ABP%E4%B8%8A%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大学生拿1万2奖学金给村里修路](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%BF1%E4%B8%872%E5%A5%96%E5%AD%A6%E9%87%91%E7%BB%99%E6%9D%91%E9%87%8C%E4%BF%AE%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩被男友嫌胖从115斤瘦到68斤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%AB%8C%E8%83%96%E4%BB%8E115%E6%96%A4%E7%98%A6%E5%88%B068%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [湖南被刺伤牙医暂未脱离危险](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E8%A2%AB%E5%88%BA%E4%BC%A4%E7%89%99%E5%8C%BB%E6%9A%82%E6%9C%AA%E8%84%B1%E7%A6%BB%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [蒋依依被曝偷税漏税 已补缴238万](https://www.baidu.com/s?wd=%E8%92%8B%E4%BE%9D%E4%BE%9D%E8%A2%AB%E6%9B%9D%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E+%E5%B7%B2%E8%A1%A5%E7%BC%B4238%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子被狗撕碎左脸缝了500多针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E6%92%95%E7%A2%8E%E5%B7%A6%E8%84%B8%E7%BC%9D%E4%BA%86500%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡锡进评奥本海默女演员被P上衣服](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E5%A5%B3%E6%BC%94%E5%91%98%E8%A2%ABP%E4%B8%8A%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大学生拿1万2奖学金给村里修路](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%BF1%E4%B8%872%E5%A5%96%E5%AD%A6%E9%87%91%E7%BB%99%E6%9D%91%E9%87%8C%E4%BF%AE%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩被男友嫌胖从115斤瘦到68斤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%AB%8C%E8%83%96%E4%BB%8E115%E6%96%A4%E7%98%A6%E5%88%B068%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [湖南被刺伤牙医暂未脱离危险](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E8%A2%AB%E5%88%BA%E4%BC%A4%E7%89%99%E5%8C%BB%E6%9A%82%E6%9C%AA%E8%84%B1%E7%A6%BB%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
