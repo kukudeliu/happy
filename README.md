@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 15:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 15:30:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [洗完澡后不要马上穿内裤](https://s.weibo.com/weibo?q=%23%E6%B4%97%E5%AE%8C%E6%BE%A1%E5%90%8E%E4%B8%8D%E8%A6%81%E9%A9%AC%E4%B8%8A%E7%A9%BF%E5%86%85%E8%A3%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [六公主谈逃出大英博物馆火出圈](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E8%B0%88%E9%80%83%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E7%81%AB%E5%87%BA%E5%9C%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [12306回应高铁动车二等座无座同价](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E5%8A%A8%E8%BD%A6%E4%BA%8C%E7%AD%89%E5%BA%A7%E6%97%A0%E5%BA%A7%E5%90%8C%E4%BB%B7%23&t=31&band_rank=6&Refer=top)<br />
-7. [平原县地震](https://s.weibo.com/weibo?q=%E5%B9%B3%E5%8E%9F%E5%8E%BF%E5%9C%B0%E9%9C%87&t=31&band_rank=7&Refer=top)<br />
-8. [抱歉陈晓是真的帅](https://s.weibo.com/weibo?q=%23%E6%8A%B1%E6%AD%89%E9%99%88%E6%99%93%E6%98%AF%E7%9C%9F%E7%9A%84%E5%B8%85%23&t=31&band_rank=8&Refer=top)<br />
+7. [抱歉陈晓是真的帅](https://s.weibo.com/weibo?q=%23%E6%8A%B1%E6%AD%89%E9%99%88%E6%99%93%E6%98%AF%E7%9C%9F%E7%9A%84%E5%B8%85%23&t=31&band_rank=7&Refer=top)<br />
+8. [平原县地震](https://s.weibo.com/weibo?q=%E5%B9%B3%E5%8E%9F%E5%8E%BF%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top)<br />
 9. [女子修复双眼皮后竟然多个洞](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BF%AE%E5%A4%8D%E5%8F%8C%E7%9C%BC%E7%9A%AE%E5%90%8E%E7%AB%9F%E7%84%B6%E5%A4%9A%E4%B8%AA%E6%B4%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -25,7 +25,7 @@
 6. [大学生拿1万2奖学金给村里修路](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%BF1%E4%B8%872%E5%A5%96%E5%AD%A6%E9%87%91%E7%BB%99%E6%9D%91%E9%87%8C%E4%BF%AE%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国20万名教师首尔街头抗议](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD20%E4%B8%87%E5%90%8D%E6%95%99%E5%B8%88%E9%A6%96%E5%B0%94%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [江苏一学校开学一年级仅3人](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%BC%80%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%BB%853%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“秀才”被封 中老年顶流塌半边？](https://www.baidu.com/s?wd=%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E8%A2%AB%E5%B0%81+%E4%B8%AD%E8%80%81%E5%B9%B4%E9%A1%B6%E6%B5%81%E5%A1%8C%E5%8D%8A%E8%BE%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [尚雯婕回应聂心远被立案调查](https://www.baidu.com/s?wd=%E5%B0%9A%E9%9B%AF%E5%A9%95%E5%9B%9E%E5%BA%94%E8%81%82%E5%BF%83%E8%BF%9C%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [大学生拿1万2奖学金给村里修路](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%BF1%E4%B8%872%E5%A5%96%E5%AD%A6%E9%87%91%E7%BB%99%E6%9D%91%E9%87%8C%E4%BF%AE%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国20万名教师首尔街头抗议](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD20%E4%B8%87%E5%90%8D%E6%95%99%E5%B8%88%E9%A6%96%E5%B0%94%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [江苏一学校开学一年级仅3人](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%BC%80%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%BB%853%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“秀才”被封 中老年顶流塌半边？](https://www.baidu.com/s?wd=%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E8%A2%AB%E5%B0%81+%E4%B8%AD%E8%80%81%E5%B9%B4%E9%A1%B6%E6%B5%81%E5%A1%8C%E5%8D%8A%E8%BE%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [尚雯婕回应聂心远被立案调查](https://www.baidu.com/s?wd=%E5%B0%9A%E9%9B%AF%E5%A9%95%E5%9B%9E%E5%BA%94%E8%81%82%E5%BF%83%E8%BF%9C%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
