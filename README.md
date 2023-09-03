@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 21:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 21:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [8岁女孩去世捐遗体开学第1天成大体老师](https://s.weibo.com/weibo?q=%238%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8E%BB%E4%B8%96%E6%8D%90%E9%81%97%E4%BD%93%E5%BC%80%E5%AD%A6%E7%AC%AC1%E5%A4%A9%E6%88%90%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [虞书欣拍的卢昱晓](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%8B%8D%E7%9A%84%E5%8D%A2%E6%98%B1%E6%99%93%23&t=31&band_rank=7&Refer=top)<br />
 8. [梁朝伟刘嘉玲亲亲](https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%9C%9D%E4%BC%9F%E5%88%98%E5%98%89%E7%8E%B2%E4%BA%B2%E4%BA%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [宫远徵叫姐姐](https://s.weibo.com/weibo?q=%E5%AE%AB%E8%BF%9C%E5%BE%B5%E5%8F%AB%E5%A7%90%E5%A7%90&t=31&band_rank=9&Refer=top)<br />
+9. [日本2亿头海参滞销养殖户实在没招](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC2%E4%BA%BF%E5%A4%B4%E6%B5%B7%E5%8F%82%E6%BB%9E%E9%94%80%E5%85%BB%E6%AE%96%E6%88%B7%E5%AE%9E%E5%9C%A8%E6%B2%A1%E6%8B%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
