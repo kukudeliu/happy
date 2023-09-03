@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 17:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 17:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [从此世上只有李莲花了](https://s.weibo.com/weibo?q=%E4%BB%8E%E6%AD%A4%E4%B8%96%E4%B8%8A%E5%8F%AA%E6%9C%89%E6%9D%8E%E8%8E%B2%E8%8A%B1%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [日本已排放超3800吨核污染水](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B7%B2%E6%8E%92%E6%94%BE%E8%B6%853800%E5%90%A8%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [奥本海默](https://s.weibo.com/weibo?q=%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98&t=31&band_rank=8&Refer=top)<br />
-9. [风象星座情绪稳定才最疯狂](https://s.weibo.com/weibo?q=%E9%A3%8E%E8%B1%A1%E6%98%9F%E5%BA%A7%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E6%89%8D%E6%9C%80%E7%96%AF%E7%8B%82&t=31&band_rank=9&Refer=top)<br />
+9. [南京地铁票竟然是个币](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%81%E7%A5%A8%E7%AB%9F%E7%84%B6%E6%98%AF%E4%B8%AA%E5%B8%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
