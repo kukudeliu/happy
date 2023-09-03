@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 01:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 01:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为什么好多人都消失在朋友圈了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [原来真有人后发际线长到脖子上](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E7%9C%9F%E6%9C%89%E4%BA%BA%E5%90%8E%E5%8F%91%E9%99%85%E7%BA%BF%E9%95%BF%E5%88%B0%E8%84%96%E5%AD%90%E4%B8%8A&t=31&band_rank=7&Refer=top)<br />
 8. [成都地震](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top)<br />
-9. [网传女子治牙发生纠纷抹了医生脖子](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A5%B3%E5%AD%90%E6%B2%BB%E7%89%99%E5%8F%91%E7%94%9F%E7%BA%A0%E7%BA%B7%E6%8A%B9%E4%BA%86%E5%8C%BB%E7%94%9F%E8%84%96%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [韩版黄雨萱](https://s.weibo.com/weibo?q=%E9%9F%A9%E7%89%88%E9%BB%84%E9%9B%A8%E8%90%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,8 +24,8 @@
 5. [蒋依依被曝偷税漏税 已补缴238万](https://www.baidu.com/s?wd=%E8%92%8B%E4%BE%9D%E4%BE%9D%E8%A2%AB%E6%9B%9D%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E+%E5%B7%B2%E8%A1%A5%E7%BC%B4238%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子被狗撕碎左脸缝了500多针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E6%92%95%E7%A2%8E%E5%B7%A6%E8%84%B8%E7%BC%9D%E4%BA%86500%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [顾客吃必胜客披萨一口咬在铁片上](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E5%BF%85%E8%83%9C%E5%AE%A2%E6%8A%AB%E8%90%A8%E4%B8%80%E5%8F%A3%E5%92%AC%E5%9C%A8%E9%93%81%E7%89%87%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胡锡进评奥本海默女演员被P上衣服](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E5%A5%B3%E6%BC%94%E5%91%98%E8%A2%ABP%E4%B8%8A%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [武汉一市民服用中药两天后身亡](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E4%B8%80%E5%B8%82%E6%B0%91%E6%9C%8D%E7%94%A8%E4%B8%AD%E8%8D%AF%E4%B8%A4%E5%A4%A9%E5%90%8E%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [武汉一市民服用中药两天后身亡](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E4%B8%80%E5%B8%82%E6%B0%91%E6%9C%8D%E7%94%A8%E4%B8%AD%E8%8D%AF%E4%B8%A4%E5%A4%A9%E5%90%8E%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [胡锡进评奥本海默女演员被P上衣服](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E5%A5%B3%E6%BC%94%E5%91%98%E8%A2%ABP%E4%B8%8A%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [蒋依依被曝偷税漏税 已补缴238万](https://www.baidu.com/s?wd=%E8%92%8B%E4%BE%9D%E4%BE%9D%E8%A2%AB%E6%9B%9D%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E+%E5%B7%B2%E8%A1%A5%E7%BC%B4238%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子被狗撕碎左脸缝了500多针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E6%92%95%E7%A2%8E%E5%B7%A6%E8%84%B8%E7%BC%9D%E4%BA%86500%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [顾客吃必胜客披萨一口咬在铁片上](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E5%BF%85%E8%83%9C%E5%AE%A2%E6%8A%AB%E8%90%A8%E4%B8%80%E5%8F%A3%E5%92%AC%E5%9C%A8%E9%93%81%E7%89%87%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胡锡进评奥本海默女演员被P上衣服](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E5%A5%B3%E6%BC%94%E5%91%98%E8%A2%ABP%E4%B8%8A%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [武汉一市民服用中药两天后身亡](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E4%B8%80%E5%B8%82%E6%B0%91%E6%9C%8D%E7%94%A8%E4%B8%AD%E8%8D%AF%E4%B8%A4%E5%A4%A9%E5%90%8E%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [武汉一市民服用中药两天后身亡](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E4%B8%80%E5%B8%82%E6%B0%91%E6%9C%8D%E7%94%A8%E4%B8%AD%E8%8D%AF%E4%B8%A4%E5%A4%A9%E5%90%8E%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [胡锡进评奥本海默女演员被P上衣服](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E5%A5%B3%E6%BC%94%E5%91%98%E8%A2%ABP%E4%B8%8A%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
