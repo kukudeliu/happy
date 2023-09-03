@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 18:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 18:53:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [于正希望内娱好好对待蒋依依](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%B8%8C%E6%9C%9B%E5%86%85%E5%A8%B1%E5%A5%BD%E5%A5%BD%E5%AF%B9%E5%BE%85%E8%92%8B%E4%BE%9D%E4%BE%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [俄顶尖火箭科学家中毒身亡](https://s.weibo.com/weibo?q=%23%E4%BF%84%E9%A1%B6%E5%B0%96%E7%81%AB%E7%AE%AD%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [何炅 不要被自己的情绪绑架](https://s.weibo.com/weibo?q=%E4%BD%95%E7%82%85%20%E4%B8%8D%E8%A6%81%E8%A2%AB%E8%87%AA%E5%B7%B1%E7%9A%84%E6%83%85%E7%BB%AA%E7%BB%91%E6%9E%B6&t=31&band_rank=8&Refer=top)<br />
-9. [南京地铁票竟然是个币](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%81%E7%A5%A8%E7%AB%9F%E7%84%B6%E6%98%AF%E4%B8%AA%E5%B8%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [奥本海默](https://s.weibo.com/weibo?q=%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
