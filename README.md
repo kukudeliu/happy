@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 14:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 14:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘琳演技](https://s.weibo.com/weibo?q=%E5%88%98%E7%90%B3%E6%BC%94%E6%8A%80&t=31&band_rank=6&Refer=top)<br />
 7. [傅首尔老刘参加再见爱人3](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E8%80%81%E5%88%98%E5%8F%82%E5%8A%A0%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA3%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子买到发霉面包店员当场吃下](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%88%B0%E5%8F%91%E9%9C%89%E9%9D%A2%E5%8C%85%E5%BA%97%E5%91%98%E5%BD%93%E5%9C%BA%E5%90%83%E4%B8%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [魏哲鸣张远至上励合时期就认识](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%93%B2%E9%B8%A3%E5%BC%A0%E8%BF%9C%E8%87%B3%E4%B8%8A%E5%8A%B1%E5%90%88%E6%97%B6%E6%9C%9F%E5%B0%B1%E8%AE%A4%E8%AF%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [全国唯一考生已经在答题了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%94%AF%E4%B8%80%E8%80%83%E7%94%9F%E5%B7%B2%E7%BB%8F%E5%9C%A8%E7%AD%94%E9%A2%98%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
