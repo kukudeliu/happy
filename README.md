@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 01:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 01:50:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [女子被狗撕碎左脸缝了500多针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E6%92%95%E7%A2%8E%E5%B7%A6%E8%84%B8%E7%BC%9D%E4%BA%86500%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杭州高架禁止特斯拉通行？官方回应](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%AB%98%E6%9E%B6%E7%A6%81%E6%AD%A2%E7%89%B9%E6%96%AF%E6%8B%89%E9%80%9A%E8%A1%8C%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全国多地华为门店抢购Mate60](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%8D%8E%E4%B8%BA%E9%97%A8%E5%BA%97%E6%8A%A2%E8%B4%ADMate60&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [湖南被刺伤牙医暂未脱离危险](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E8%A2%AB%E5%88%BA%E4%BC%A4%E7%89%99%E5%8C%BB%E6%9A%82%E6%9C%AA%E8%84%B1%E7%A6%BB%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大学生拿1万2奖学金给村里修路](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%BF1%E4%B8%872%E5%A5%96%E5%AD%A6%E9%87%91%E7%BB%99%E6%9D%91%E9%87%8C%E4%BF%AE%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女子被狗撕碎左脸缝了500多针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E6%92%95%E7%A2%8E%E5%B7%A6%E8%84%B8%E7%BC%9D%E4%BA%86500%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杭州高架禁止特斯拉通行？官方回应](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%AB%98%E6%9E%B6%E7%A6%81%E6%AD%A2%E7%89%B9%E6%96%AF%E6%8B%89%E9%80%9A%E8%A1%8C%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全国多地华为门店抢购Mate60](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%8D%8E%E4%B8%BA%E9%97%A8%E5%BA%97%E6%8A%A2%E8%B4%ADMate60&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [湖南被刺伤牙医暂未脱离危险](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E8%A2%AB%E5%88%BA%E4%BC%A4%E7%89%99%E5%8C%BB%E6%9A%82%E6%9C%AA%E8%84%B1%E7%A6%BB%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [大学生拿1万2奖学金给村里修路](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%BF1%E4%B8%872%E5%A5%96%E5%AD%A6%E9%87%91%E7%BB%99%E6%9D%91%E9%87%8C%E4%BF%AE%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
