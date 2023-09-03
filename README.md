@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 08:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 08:34:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [电科院董事长和一众高管集体辞职](https://www.baidu.com/s?wd=%E7%94%B5%E7%A7%91%E9%99%A2%E8%91%A3%E4%BA%8B%E9%95%BF%E5%92%8C%E4%B8%80%E4%BC%97%E9%AB%98%E7%AE%A1%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [重庆母子3人家中去世 警方通报](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%AF%8D%E5%AD%903%E4%BA%BA%E5%AE%B6%E4%B8%AD%E5%8E%BB%E4%B8%96+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [梁朝伟威尼斯领奖变表情包](https://www.baidu.com/s?wd=%E6%A2%81%E6%9C%9D%E4%BC%9F%E5%A8%81%E5%B0%BC%E6%96%AF%E9%A2%86%E5%A5%96%E5%8F%98%E8%A1%A8%E6%83%85%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [曾有70多岁老太不远千里去找秀才](https://www.baidu.com/s?wd=%E6%9B%BE%E6%9C%8970%E5%A4%9A%E5%B2%81%E8%80%81%E5%A4%AA%E4%B8%8D%E8%BF%9C%E5%8D%83%E9%87%8C%E5%8E%BB%E6%89%BE%E7%A7%80%E6%89%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [秀才是怎么火起来的](https://www.baidu.com/s?wd=%E7%A7%80%E6%89%8D%E6%98%AF%E6%80%8E%E4%B9%88%E7%81%AB%E8%B5%B7%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [电科院董事长和一众高管集体辞职](https://www.baidu.com/s?wd=%E7%94%B5%E7%A7%91%E9%99%A2%E8%91%A3%E4%BA%8B%E9%95%BF%E5%92%8C%E4%B8%80%E4%BC%97%E9%AB%98%E7%AE%A1%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [重庆母子3人家中去世 警方通报](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%AF%8D%E5%AD%903%E4%BA%BA%E5%AE%B6%E4%B8%AD%E5%8E%BB%E4%B8%96+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [梁朝伟威尼斯领奖变表情包](https://www.baidu.com/s?wd=%E6%A2%81%E6%9C%9D%E4%BC%9F%E5%A8%81%E5%B0%BC%E6%96%AF%E9%A2%86%E5%A5%96%E5%8F%98%E8%A1%A8%E6%83%85%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [曾有70多岁老太不远千里去找秀才](https://www.baidu.com/s?wd=%E6%9B%BE%E6%9C%8970%E5%A4%9A%E5%B2%81%E8%80%81%E5%A4%AA%E4%B8%8D%E8%BF%9C%E5%8D%83%E9%87%8C%E5%8E%BB%E6%89%BE%E7%A7%80%E6%89%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [秀才是怎么火起来的](https://www.baidu.com/s?wd=%E7%A7%80%E6%89%8D%E6%98%AF%E6%80%8E%E4%B9%88%E7%81%AB%E8%B5%B7%E6%9D%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
