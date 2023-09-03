@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 01:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 01:18:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [女子被狗撕碎左脸缝了500多针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E6%92%95%E7%A2%8E%E5%B7%A6%E8%84%B8%E7%BC%9D%E4%BA%86500%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [云南通报一高中多名学生就餐后送医](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E9%80%9A%E6%8A%A5%E4%B8%80%E9%AB%98%E4%B8%AD%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E5%B0%B1%E9%A4%90%E5%90%8E%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [苏州一检察官被前妻举报婚内出轨](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E4%B8%80%E6%A3%80%E5%AF%9F%E5%AE%98%E8%A2%AB%E5%89%8D%E5%A6%BB%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [顾客吃必胜客披萨一口咬在铁片上](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E5%BF%85%E8%83%9C%E5%AE%A2%E6%8A%AB%E8%90%A8%E4%B8%80%E5%8F%A3%E5%92%AC%E5%9C%A8%E9%93%81%E7%89%87%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [3个贪腐超亿的贪官接连被判无期](https://www.baidu.com/s?wd=3%E4%B8%AA%E8%B4%AA%E8%85%90%E8%B6%85%E4%BA%BF%E7%9A%84%E8%B4%AA%E5%AE%98%E6%8E%A5%E8%BF%9E%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女子被狗撕碎左脸缝了500多针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E6%92%95%E7%A2%8E%E5%B7%A6%E8%84%B8%E7%BC%9D%E4%BA%86500%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [云南通报一高中多名学生就餐后送医](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E9%80%9A%E6%8A%A5%E4%B8%80%E9%AB%98%E4%B8%AD%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E5%B0%B1%E9%A4%90%E5%90%8E%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [苏州一检察官被前妻举报婚内出轨](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E4%B8%80%E6%A3%80%E5%AF%9F%E5%AE%98%E8%A2%AB%E5%89%8D%E5%A6%BB%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [顾客吃必胜客披萨一口咬在铁片上](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E5%BF%85%E8%83%9C%E5%AE%A2%E6%8A%AB%E8%90%A8%E4%B8%80%E5%8F%A3%E5%92%AC%E5%9C%A8%E9%93%81%E7%89%87%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [3个贪腐超亿的贪官接连被判无期](https://www.baidu.com/s?wd=3%E4%B8%AA%E8%B4%AA%E8%85%90%E8%B6%85%E4%BA%BF%E7%9A%84%E8%B4%AA%E5%AE%98%E6%8E%A5%E8%BF%9E%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
