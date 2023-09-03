@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 12:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 12:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为什么无座和二等座是同价](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%97%A0%E5%BA%A7%E5%92%8C%E4%BA%8C%E7%AD%89%E5%BA%A7%E6%98%AF%E5%90%8C%E4%BB%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本投降的真正原因是什么](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈都灵新剧演张凌赫的妈](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E6%96%B0%E5%89%A7%E6%BC%94%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9A%84%E5%A6%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [骄阳伴我广告竟然来真的](https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E5%B9%BF%E5%91%8A%E7%AB%9F%E7%84%B6%E6%9D%A5%E7%9C%9F%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [江苏一学校开学一年级仅3人](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%BC%80%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%BB%853%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,9 +23,9 @@
 4. [杭州亚运会颁奖花束藏着宝藏非遗](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%A2%81%E5%A5%96%E8%8A%B1%E6%9D%9F%E8%97%8F%E7%9D%80%E5%AE%9D%E8%97%8F%E9%9D%9E%E9%81%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [为什么无座和二等座是同价](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%97%A0%E5%BA%A7%E5%92%8C%E4%BA%8C%E7%AD%89%E5%BA%A7%E6%98%AF%E5%90%8C%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子双眼皮修复后 闭上眼能看到外面](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%8C%E7%9C%BC%E7%9A%AE%E4%BF%AE%E5%A4%8D%E5%90%8E+%E9%97%AD%E4%B8%8A%E7%9C%BC%E8%83%BD%E7%9C%8B%E5%88%B0%E5%A4%96%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [“认房不认贷”下北京看房量大增](https://www.baidu.com/s?wd=%E2%80%9C%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7%E2%80%9D%E4%B8%8B%E5%8C%97%E4%BA%AC%E7%9C%8B%E6%88%BF%E9%87%8F%E5%A4%A7%E5%A2%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李荣浩演唱会讲话时嘴里进了只蚊子](https://www.baidu.com/s?wd=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E8%AE%B2%E8%AF%9D%E6%97%B6%E5%98%B4%E9%87%8C%E8%BF%9B%E4%BA%86%E5%8F%AA%E8%9A%8A%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [电科院董事长和一众高管集体辞职](https://www.baidu.com/s?wd=%E7%94%B5%E7%A7%91%E9%99%A2%E8%91%A3%E4%BA%8B%E9%95%BF%E5%92%8C%E4%B8%80%E4%BC%97%E9%AB%98%E7%AE%A1%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [9岁女孩离家失踪两个月 警方已立案](https://www.baidu.com/s?wd=9%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A6%BB%E5%AE%B6%E5%A4%B1%E8%B8%AA%E4%B8%A4%E4%B8%AA%E6%9C%88+%E8%AD%A6%E6%96%B9%E5%B7%B2%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“认房不认贷”下北京看房量大增](https://www.baidu.com/s?wd=%E2%80%9C%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7%E2%80%9D%E4%B8%8B%E5%8C%97%E4%BA%AC%E7%9C%8B%E6%88%BF%E9%87%8F%E5%A4%A7%E5%A2%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李荣浩演唱会讲话时嘴里进了只蚊子](https://www.baidu.com/s?wd=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E8%AE%B2%E8%AF%9D%E6%97%B6%E5%98%B4%E9%87%8C%E8%BF%9B%E4%BA%86%E5%8F%AA%E8%9A%8A%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [杭州亚运会颁奖花束藏着宝藏非遗](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%A2%81%E5%A5%96%E8%8A%B1%E6%9D%9F%E8%97%8F%E7%9D%80%E5%AE%9D%E8%97%8F%E9%9D%9E%E9%81%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [为什么无座和二等座是同价](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%97%A0%E5%BA%A7%E5%92%8C%E4%BA%8C%E7%AD%89%E5%BA%A7%E6%98%AF%E5%90%8C%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子双眼皮修复后 闭上眼能看到外面](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%8C%E7%9C%BC%E7%9A%AE%E4%BF%AE%E5%A4%8D%E5%90%8E+%E9%97%AD%E4%B8%8A%E7%9C%BC%E8%83%BD%E7%9C%8B%E5%88%B0%E5%A4%96%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [“认房不认贷”下北京看房量大增](https://www.baidu.com/s?wd=%E2%80%9C%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7%E2%80%9D%E4%B8%8B%E5%8C%97%E4%BA%AC%E7%9C%8B%E6%88%BF%E9%87%8F%E5%A4%A7%E5%A2%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李荣浩演唱会讲话时嘴里进了只蚊子](https://www.baidu.com/s?wd=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E8%AE%B2%E8%AF%9D%E6%97%B6%E5%98%B4%E9%87%8C%E8%BF%9B%E4%BA%86%E5%8F%AA%E8%9A%8A%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [电科院董事长和一众高管集体辞职](https://www.baidu.com/s?wd=%E7%94%B5%E7%A7%91%E9%99%A2%E8%91%A3%E4%BA%8B%E9%95%BF%E5%92%8C%E4%B8%80%E4%BC%97%E9%AB%98%E7%AE%A1%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [9岁女孩离家失踪两个月 警方已立案](https://www.baidu.com/s?wd=9%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A6%BB%E5%AE%B6%E5%A4%B1%E8%B8%AA%E4%B8%A4%E4%B8%AA%E6%9C%88+%E8%AD%A6%E6%96%B9%E5%B7%B2%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“认房不认贷”下北京看房量大增](https://www.baidu.com/s?wd=%E2%80%9C%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7%E2%80%9D%E4%B8%8B%E5%8C%97%E4%BA%AC%E7%9C%8B%E6%88%BF%E9%87%8F%E5%A4%A7%E5%A2%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李荣浩演唱会讲话时嘴里进了只蚊子](https://www.baidu.com/s?wd=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E8%AE%B2%E8%AF%9D%E6%97%B6%E5%98%B4%E9%87%8C%E8%BF%9B%E4%BA%86%E5%8F%AA%E8%9A%8A%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
