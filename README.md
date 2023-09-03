@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 00:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 00:11:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [适合做老婆 不是赞扬是冒犯](https://s.weibo.com/weibo?q=%E9%80%82%E5%90%88%E5%81%9A%E8%80%81%E5%A9%86%20%E4%B8%8D%E6%98%AF%E8%B5%9E%E6%89%AC%E6%98%AF%E5%86%92%E7%8A%AF&t=31&band_rank=4&Refer=top)<br />
 5. [成都地震](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E5%9C%B0%E9%9C%87&t=31&band_rank=5&Refer=top)<br />
 6. [网传女子治牙发生纠纷抹了医生脖子](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A5%B3%E5%AD%90%E6%B2%BB%E7%89%99%E5%8F%91%E7%94%9F%E7%BA%A0%E7%BA%B7%E6%8A%B9%E4%BA%86%E5%8C%BB%E7%94%9F%E8%84%96%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
-7. [你什么档次敢骂雪姨](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%80%E4%B9%88%E6%A1%A3%E6%AC%A1%E6%95%A2%E9%AA%82%E9%9B%AA%E5%A7%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [原来真有人后发际线长到脖子上](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E7%9C%9F%E6%9C%89%E4%BA%BA%E5%90%8E%E5%8F%91%E9%99%85%E7%BA%BF%E9%95%BF%E5%88%B0%E8%84%96%E5%AD%90%E4%B8%8A&t=31&band_rank=8&Refer=top)<br />
-9. [韩版黄雨萱](https://s.weibo.com/weibo?q=%E9%9F%A9%E7%89%88%E9%BB%84%E9%9B%A8%E8%90%B1&t=31&band_rank=9&Refer=top)<br />
+7. [张慧雯妆造好端庄](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%85%A7%E9%9B%AF%E5%A6%86%E9%80%A0%E5%A5%BD%E7%AB%AF%E5%BA%84%23&t=31&band_rank=7&Refer=top)<br />
+8. [你什么档次敢骂雪姨](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%80%E4%B9%88%E6%A1%A3%E6%AC%A1%E6%95%A2%E9%AA%82%E9%9B%AA%E5%A7%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [原来真有人后发际线长到脖子上](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E7%9C%9F%E6%9C%89%E4%BA%BA%E5%90%8E%E5%8F%91%E9%99%85%E7%BA%BF%E9%95%BF%E5%88%B0%E8%84%96%E5%AD%90%E4%B8%8A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
