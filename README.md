@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 15:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 15:18:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [韩国20万名教师首尔街头抗议](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD20%E4%B8%87%E5%90%8D%E6%95%99%E5%B8%88%E9%A6%96%E5%B0%94%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江苏一学校开学一年级仅3人](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%BC%80%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%BB%853%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [大学生拿1万2奖学金给村里修路](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%BF1%E4%B8%872%E5%A5%96%E5%AD%A6%E9%87%91%E7%BB%99%E6%9D%91%E9%87%8C%E4%BF%AE%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网红秀才被大妈举报欺诈 警方回应](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%A7%80%E6%89%8D%E8%A2%AB%E5%A4%A7%E5%A6%88%E4%B8%BE%E6%8A%A5%E6%AC%BA%E8%AF%88+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [山东：开海“第一鲜”上岸被抢购](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%EF%BC%9A%E5%BC%80%E6%B5%B7%E2%80%9C%E7%AC%AC%E4%B8%80%E9%B2%9C%E2%80%9D%E4%B8%8A%E5%B2%B8%E8%A2%AB%E6%8A%A2%E8%B4%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [韩国20万名教师首尔街头抗议](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD20%E4%B8%87%E5%90%8D%E6%95%99%E5%B8%88%E9%A6%96%E5%B0%94%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江苏一学校开学一年级仅3人](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%BC%80%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%BB%853%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [大学生拿1万2奖学金给村里修路](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%BF1%E4%B8%872%E5%A5%96%E5%AD%A6%E9%87%91%E7%BB%99%E6%9D%91%E9%87%8C%E4%BF%AE%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网红秀才被大妈举报欺诈 警方回应](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%A7%80%E6%89%8D%E8%A2%AB%E5%A4%A7%E5%A6%88%E4%B8%BE%E6%8A%A5%E6%AC%BA%E8%AF%88+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [山东：开海“第一鲜”上岸被抢购](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%EF%BC%9A%E5%BC%80%E6%B5%B7%E2%80%9C%E7%AC%AC%E4%B8%80%E9%B2%9C%E2%80%9D%E4%B8%8A%E5%B2%B8%E8%A2%AB%E6%8A%A2%E8%B4%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
