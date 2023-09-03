@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 20:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 20:08:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 > 百度  
 
 1. [服贸会是对外开放的重要平台](https://www.baidu.com/s?wd=%E6%9C%8D%E8%B4%B8%E4%BC%9A%E6%98%AF%E5%AF%B9%E5%A4%96%E5%BC%80%E6%94%BE%E7%9A%84%E9%87%8D%E8%A6%81%E5%B9%B3%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [31地首套房贷利率下限全部出炉](https://www.baidu.com/s?wd=31%E5%9C%B0%E9%A6%96%E5%A5%97%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E4%B8%8B%E9%99%90%E5%85%A8%E9%83%A8%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [媒体盘点今年被禁的5个一线网红](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E7%9B%98%E7%82%B9%E4%BB%8A%E5%B9%B4%E8%A2%AB%E7%A6%81%E7%9A%845%E4%B8%AA%E4%B8%80%E7%BA%BF%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [媒体盘点今年被禁的5个一线网红](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E7%9B%98%E7%82%B9%E4%BB%8A%E5%B9%B4%E8%A2%AB%E7%A6%81%E7%9A%845%E4%B8%AA%E4%B8%80%E7%BA%BF%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [卫健委回应“雷暴哮喘”患者增多](https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E2%80%9C%E9%9B%B7%E6%9A%B4%E5%93%AE%E5%96%98%E2%80%9D%E6%82%A3%E8%80%85%E5%A2%9E%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [做好台风“海葵”防御工作](https://www.baidu.com/s?wd=%E5%81%9A%E5%A5%BD%E5%8F%B0%E9%A3%8E%E2%80%9C%E6%B5%B7%E8%91%B5%E2%80%9D%E9%98%B2%E5%BE%A1%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蒋依依被曝偷税漏税 已补缴238万](https://www.baidu.com/s?wd=%E8%92%8B%E4%BE%9D%E4%BE%9D%E8%A2%AB%E6%9B%9D%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E+%E5%B7%B2%E8%A1%A5%E7%BC%B4238%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女孩开学报到全班就自己一个人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%BC%80%E5%AD%A6%E6%8A%A5%E5%88%B0%E5%85%A8%E7%8F%AD%E5%B0%B1%E8%87%AA%E5%B7%B1%E4%B8%80%E4%B8%AA%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,8 +30,8 @@
 > 哔哩哔哩  
 
 1. [服贸会是对外开放的重要平台](https://www.baidu.com/s?wd=%E6%9C%8D%E8%B4%B8%E4%BC%9A%E6%98%AF%E5%AF%B9%E5%A4%96%E5%BC%80%E6%94%BE%E7%9A%84%E9%87%8D%E8%A6%81%E5%B9%B3%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [31地首套房贷利率下限全部出炉](https://www.baidu.com/s?wd=31%E5%9C%B0%E9%A6%96%E5%A5%97%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E4%B8%8B%E9%99%90%E5%85%A8%E9%83%A8%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [媒体盘点今年被禁的5个一线网红](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E7%9B%98%E7%82%B9%E4%BB%8A%E5%B9%B4%E8%A2%AB%E7%A6%81%E7%9A%845%E4%B8%AA%E4%B8%80%E7%BA%BF%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [媒体盘点今年被禁的5个一线网红](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E7%9B%98%E7%82%B9%E4%BB%8A%E5%B9%B4%E8%A2%AB%E7%A6%81%E7%9A%845%E4%B8%AA%E4%B8%80%E7%BA%BF%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [卫健委回应“雷暴哮喘”患者增多](https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E2%80%9C%E9%9B%B7%E6%9A%B4%E5%93%AE%E5%96%98%E2%80%9D%E6%82%A3%E8%80%85%E5%A2%9E%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [做好台风“海葵”防御工作](https://www.baidu.com/s?wd=%E5%81%9A%E5%A5%BD%E5%8F%B0%E9%A3%8E%E2%80%9C%E6%B5%B7%E8%91%B5%E2%80%9D%E9%98%B2%E5%BE%A1%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蒋依依被曝偷税漏税 已补缴238万](https://www.baidu.com/s?wd=%E8%92%8B%E4%BE%9D%E4%BE%9D%E8%A2%AB%E6%9B%9D%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E+%E5%B7%B2%E8%A1%A5%E7%BC%B4238%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女孩开学报到全班就自己一个人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%BC%80%E5%AD%A6%E6%8A%A5%E5%88%B0%E5%85%A8%E7%8F%AD%E5%B0%B1%E8%87%AA%E5%B7%B1%E4%B8%80%E4%B8%AA%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
