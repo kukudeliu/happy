@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 22:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 22:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [华科新闻学院院长回应张雪峰](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E7%A7%91%E6%96%B0%E9%97%BB%E5%AD%A6%E9%99%A2%E9%99%A2%E9%95%BF%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E5%B3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [Mate60遥遥领先](https://s.weibo.com/weibo?q=%23Mate60%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [虞书欣拍的卢昱晓](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%8B%8D%E7%9A%84%E5%8D%A2%E6%98%B1%E6%99%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [用张元英当头像被骚扰了](https://s.weibo.com/weibo?q=%E7%94%A8%E5%BC%A0%E5%85%83%E8%8B%B1%E5%BD%93%E5%A4%B4%E5%83%8F%E8%A2%AB%E9%AA%9A%E6%89%B0%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [央视评华为争气机](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E5%8D%8E%E4%B8%BA%E4%BA%89%E6%B0%94%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
