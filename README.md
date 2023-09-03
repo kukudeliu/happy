@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 13:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 13:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [日本政府拟拨款200亿日元紧急支援水产业](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E6%8B%9F%E6%8B%A8%E6%AC%BE200%E4%BA%BF%E6%97%A5%E5%85%83%E7%B4%A7%E6%80%A5%E6%94%AF%E6%8F%B4%E6%B0%B4%E4%BA%A7%E4%B8%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [于正希望内娱好好对待蒋依依](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%B8%8C%E6%9C%9B%E5%86%85%E5%A8%B1%E5%A5%BD%E5%A5%BD%E5%AF%B9%E5%BE%85%E8%92%8B%E4%BE%9D%E4%BE%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [妈妈被家暴女儿留下的纸条让人泪目](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E8%A2%AB%E5%AE%B6%E6%9A%B4%E5%A5%B3%E5%84%BF%E7%95%99%E4%B8%8B%E7%9A%84%E7%BA%B8%E6%9D%A1%E8%AE%A9%E4%BA%BA%E6%B3%AA%E7%9B%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [虞书欣说拍泥浆戏很像巧克力广告](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%AF%B4%E6%8B%8D%E6%B3%A5%E6%B5%86%E6%88%8F%E5%BE%88%E5%83%8F%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%B9%BF%E5%91%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈奕迅上海抢票](https://s.weibo.com/weibo?q=%E9%99%88%E5%A5%95%E8%BF%85%E4%B8%8A%E6%B5%B7%E6%8A%A2%E7%A5%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
