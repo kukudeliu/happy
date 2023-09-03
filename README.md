@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 14:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 14:01:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [妈妈被家暴女儿留下的纸条让人泪目](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E8%A2%AB%E5%AE%B6%E6%9A%B4%E5%A5%B3%E5%84%BF%E7%95%99%E4%B8%8B%E7%9A%84%E7%BA%B8%E6%9D%A1%E8%AE%A9%E4%BA%BA%E6%B3%AA%E7%9B%AE%23&t=31&band_rank=4&Refer=top)<br />
 5. [洗完澡后不要马上穿内裤](https://s.weibo.com/weibo?q=%23%E6%B4%97%E5%AE%8C%E6%BE%A1%E5%90%8E%E4%B8%8D%E8%A6%81%E9%A9%AC%E4%B8%8A%E7%A9%BF%E5%86%85%E8%A3%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [日本政府拟拨款200亿日元紧急支援水产业](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E6%8B%9F%E6%8B%A8%E6%AC%BE200%E4%BA%BF%E6%97%A5%E5%85%83%E7%B4%A7%E6%80%A5%E6%94%AF%E6%8F%B4%E6%B0%B4%E4%BA%A7%E4%B8%9A%23&t=31&band_rank=6&Refer=top)<br />
-7. [泰国坠崖案女子称离婚要很多材料](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%9D%A0%E5%B4%96%E6%A1%88%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%A6%BB%E5%A9%9A%E8%A6%81%E5%BE%88%E5%A4%9A%E6%9D%90%E6%96%99%23&t=31&band_rank=7&Refer=top)<br />
-8. [被困横店到处客串](https://s.weibo.com/weibo?q=%E8%A2%AB%E5%9B%B0%E6%A8%AA%E5%BA%97%E5%88%B0%E5%A4%84%E5%AE%A2%E4%B8%B2&t=31&band_rank=8&Refer=top)<br />
+7. [被困横店到处客串](https://s.weibo.com/weibo?q=%E8%A2%AB%E5%9B%B0%E6%A8%AA%E5%BA%97%E5%88%B0%E5%A4%84%E5%AE%A2%E4%B8%B2&t=31&band_rank=7&Refer=top)<br />
+8. [泰国坠崖案女子称离婚要很多材料](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%9D%A0%E5%B4%96%E6%A1%88%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%A6%BB%E5%A9%9A%E8%A6%81%E5%BE%88%E5%A4%9A%E6%9D%90%E6%96%99%23&t=31&band_rank=8&Refer=top)<br />
 9. [因发际线高花3万植发长出成撮卷发](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E5%8F%91%E9%99%85%E7%BA%BF%E9%AB%98%E8%8A%B13%E4%B8%87%E6%A4%8D%E5%8F%91%E9%95%BF%E5%87%BA%E6%88%90%E6%92%AE%E5%8D%B7%E5%8F%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
