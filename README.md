@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 19:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 19:18:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [蒋依依被曝偷税漏税 已补缴238万](https://www.baidu.com/s?wd=%E8%92%8B%E4%BE%9D%E4%BE%9D%E8%A2%AB%E6%9B%9D%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E+%E5%B7%B2%E8%A1%A5%E7%BC%B4238%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [核污水排海后：中国鳗鱼之乡的担忧](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%90%8E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%B3%97%E9%B1%BC%E4%B9%8B%E4%B9%A1%E7%9A%84%E6%8B%85%E5%BF%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杭州高架禁止特斯拉通行？官方回应](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%AB%98%E6%9E%B6%E7%A6%81%E6%AD%A2%E7%89%B9%E6%96%AF%E6%8B%89%E9%80%9A%E8%A1%8C%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [3个贪腐超亿的贪官接连被判无期](https://www.baidu.com/s?wd=3%E4%B8%AA%E8%B4%AA%E8%85%90%E8%B6%85%E4%BA%BF%E7%9A%84%E8%B4%AA%E5%AE%98%E6%8E%A5%E8%BF%9E%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [江苏一学校开学一年级仅3人](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%BC%80%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%BB%853%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [蒋依依被曝偷税漏税 已补缴238万](https://www.baidu.com/s?wd=%E8%92%8B%E4%BE%9D%E4%BE%9D%E8%A2%AB%E6%9B%9D%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E+%E5%B7%B2%E8%A1%A5%E7%BC%B4238%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [核污水排海后：中国鳗鱼之乡的担忧](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%90%8E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%B3%97%E9%B1%BC%E4%B9%8B%E4%B9%A1%E7%9A%84%E6%8B%85%E5%BF%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杭州高架禁止特斯拉通行？官方回应](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%AB%98%E6%9E%B6%E7%A6%81%E6%AD%A2%E7%89%B9%E6%96%AF%E6%8B%89%E9%80%9A%E8%A1%8C%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [3个贪腐超亿的贪官接连被判无期](https://www.baidu.com/s?wd=3%E4%B8%AA%E8%B4%AA%E8%85%90%E8%B6%85%E4%BA%BF%E7%9A%84%E8%B4%AA%E5%AE%98%E6%8E%A5%E8%BF%9E%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [江苏一学校开学一年级仅3人](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%BC%80%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%BB%853%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
