@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 23:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 23:57:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [虚拟世界的莫高窟能看到砖石上的尘埃](https://s.weibo.com/weibo?q=%23%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E7%9A%84%E8%8E%AB%E9%AB%98%E7%AA%9F%E8%83%BD%E7%9C%8B%E5%88%B0%E7%A0%96%E7%9F%B3%E4%B8%8A%E7%9A%84%E5%B0%98%E5%9F%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [今年已有5位网红因违法违规被封](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%B7%B2%E6%9C%895%E4%BD%8D%E7%BD%91%E7%BA%A2%E5%9B%A0%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84%E8%A2%AB%E5%B0%81%23&t=31&band_rank=4&Refer=top)<br />
 5. [网传女子治牙发生纠纷抹了医生脖子](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A5%B3%E5%AD%90%E6%B2%BB%E7%89%99%E5%8F%91%E7%94%9F%E7%BA%A0%E7%BA%B7%E6%8A%B9%E4%BA%86%E5%8C%BB%E7%94%9F%E8%84%96%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
-6. [9月1日 9月3日](https://s.weibo.com/weibo?q=9%E6%9C%881%E6%97%A5%209%E6%9C%883%E6%97%A5&t=31&band_rank=6&Refer=top)<br />
-7. [你什么档次敢骂雪姨](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%80%E4%B9%88%E6%A1%A3%E6%AC%A1%E6%95%A2%E9%AA%82%E9%9B%AA%E5%A7%A8%23&t=31&band_rank=7&Refer=top)<br />
+6. [你什么档次敢骂雪姨](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%80%E4%B9%88%E6%A1%A3%E6%AC%A1%E6%95%A2%E9%AA%82%E9%9B%AA%E5%A7%A8%23&t=31&band_rank=6&Refer=top)<br />
+7. [9月1日 9月3日](https://s.weibo.com/weibo?q=9%E6%9C%881%E6%97%A5%209%E6%9C%883%E6%97%A5&t=31&band_rank=7&Refer=top)<br />
 8. [原来真有人后发际线长到脖子上](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E7%9C%9F%E6%9C%89%E4%BA%BA%E5%90%8E%E5%8F%91%E9%99%85%E7%BA%BF%E9%95%BF%E5%88%B0%E8%84%96%E5%AD%90%E4%B8%8A&t=31&band_rank=8&Refer=top)<br />
 9. [这居然是纪凌尘](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E7%BA%AA%E5%87%8C%E5%B0%98%23&t=31&band_rank=9&Refer=top)<br />
 
