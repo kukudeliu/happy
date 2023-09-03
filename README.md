@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 16:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 16:13:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [洗完澡后不要马上穿内裤](https://s.weibo.com/weibo?q=%23%E6%B4%97%E5%AE%8C%E6%BE%A1%E5%90%8E%E4%B8%8D%E8%A6%81%E9%A9%AC%E4%B8%8A%E7%A9%BF%E5%86%85%E8%A3%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [被困横店到处客串](https://s.weibo.com/weibo?q=%E8%A2%AB%E5%9B%B0%E6%A8%AA%E5%BA%97%E5%88%B0%E5%A4%84%E5%AE%A2%E4%B8%B2&t=31&band_rank=5&Refer=top)<br />
 6. [抱歉陈晓是真的帅](https://s.weibo.com/weibo?q=%23%E6%8A%B1%E6%AD%89%E9%99%88%E6%99%93%E6%98%AF%E7%9C%9F%E7%9A%84%E5%B8%85%23&t=31&band_rank=6&Refer=top)<br />
-7. [王哲林把朱芳雨微信删了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%93%B2%E6%9E%97%E6%8A%8A%E6%9C%B1%E8%8A%B3%E9%9B%A8%E5%BE%AE%E4%BF%A1%E5%88%A0%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [十个勤天头像](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E5%A4%B4%E5%83%8F&t=31&band_rank=8&Refer=top)<br />
+7. [十个勤天头像](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E5%A4%B4%E5%83%8F&t=31&band_rank=7&Refer=top)<br />
+8. [王哲林把朱芳雨微信删了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%93%B2%E6%9E%97%E6%8A%8A%E6%9C%B1%E8%8A%B3%E9%9B%A8%E5%BE%AE%E4%BF%A1%E5%88%A0%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [日本已排放超3800吨核污染水](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B7%B2%E6%8E%92%E6%94%BE%E8%B6%853800%E5%90%A8%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
