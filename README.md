@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 19:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 19:40:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [用张元英当头像被骚扰了](https://s.weibo.com/weibo?q=%E7%94%A8%E5%BC%A0%E5%85%83%E8%8B%B1%E5%BD%93%E5%A4%B4%E5%83%8F%E8%A2%AB%E9%AA%9A%E6%89%B0%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [休假辅警遇汽车自燃一路狂追灭火](https://s.weibo.com/weibo?q=%23%E4%BC%91%E5%81%87%E8%BE%85%E8%AD%A6%E9%81%87%E6%B1%BD%E8%BD%A6%E8%87%AA%E7%87%83%E4%B8%80%E8%B7%AF%E7%8B%82%E8%BF%BD%E7%81%AD%E7%81%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [敖子逸待播剧](https://s.weibo.com/weibo?q=%23%E6%95%96%E5%AD%90%E9%80%B8%E5%BE%85%E6%92%AD%E5%89%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [Mate60pro](https://s.weibo.com/weibo?q=Mate60pro&t=31&band_rank=9&Refer=top)<br />
+9. [厦门晚霞](https://s.weibo.com/weibo?q=%E5%8E%A6%E9%97%A8%E6%99%9A%E9%9C%9E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
