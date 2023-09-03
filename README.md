@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 14:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 14:04:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [杭州亚运会颁奖花束藏着宝藏非遗](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%A2%81%E5%A5%96%E8%8A%B1%E6%9D%9F%E8%97%8F%E7%9D%80%E5%AE%9D%E8%97%8F%E9%9D%9E%E9%81%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江苏一学校开学一年级仅3人](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%BC%80%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%BB%853%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国20万名教师首尔街头抗议](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD20%E4%B8%87%E5%90%8D%E6%95%99%E5%B8%88%E9%A6%96%E5%B0%94%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美国政府芯片补贴至今未出钱](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E8%8A%AF%E7%89%87%E8%A1%A5%E8%B4%B4%E8%87%B3%E4%BB%8A%E6%9C%AA%E5%87%BA%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山东：开海“第一鲜”上岸被抢购](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%EF%BC%9A%E5%BC%80%E6%B5%B7%E2%80%9C%E7%AC%AC%E4%B8%80%E9%B2%9C%E2%80%9D%E4%B8%8A%E5%B2%B8%E8%A2%AB%E6%8A%A2%E8%B4%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子双眼皮修复后 闭上眼能看到外面](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%8C%E7%9C%BC%E7%9A%AE%E4%BF%AE%E5%A4%8D%E5%90%8E+%E9%97%AD%E4%B8%8A%E7%9C%BC%E8%83%BD%E7%9C%8B%E5%88%B0%E5%A4%96%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [山东：开海“第一鲜”上岸被抢购](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%EF%BC%9A%E5%BC%80%E6%B5%B7%E2%80%9C%E7%AC%AC%E4%B8%80%E9%B2%9C%E2%80%9D%E4%B8%8A%E5%B2%B8%E8%A2%AB%E6%8A%A2%E8%B4%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子双眼皮修复后 闭上眼能看到外面](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%8C%E7%9C%BC%E7%9A%AE%E4%BF%AE%E5%A4%8D%E5%90%8E+%E9%97%AD%E4%B8%8A%E7%9C%BC%E8%83%BD%E7%9C%8B%E5%88%B0%E5%A4%96%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [利息少了130万房主美滋滋换电脑手机](https://www.baidu.com/s?wd=%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%86130%E4%B8%87%E6%88%BF%E4%B8%BB%E7%BE%8E%E6%BB%8B%E6%BB%8B%E6%8D%A2%E7%94%B5%E8%84%91%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [杭州亚运会颁奖花束藏着宝藏非遗](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%A2%81%E5%A5%96%E8%8A%B1%E6%9D%9F%E8%97%8F%E7%9D%80%E5%AE%9D%E8%97%8F%E9%9D%9E%E9%81%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江苏一学校开学一年级仅3人](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%BC%80%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%BB%853%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国20万名教师首尔街头抗议](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD20%E4%B8%87%E5%90%8D%E6%95%99%E5%B8%88%E9%A6%96%E5%B0%94%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美国政府芯片补贴至今未出钱](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E8%8A%AF%E7%89%87%E8%A1%A5%E8%B4%B4%E8%87%B3%E4%BB%8A%E6%9C%AA%E5%87%BA%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山东：开海“第一鲜”上岸被抢购](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%EF%BC%9A%E5%BC%80%E6%B5%B7%E2%80%9C%E7%AC%AC%E4%B8%80%E9%B2%9C%E2%80%9D%E4%B8%8A%E5%B2%B8%E8%A2%AB%E6%8A%A2%E8%B4%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子双眼皮修复后 闭上眼能看到外面](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%8C%E7%9C%BC%E7%9A%AE%E4%BF%AE%E5%A4%8D%E5%90%8E+%E9%97%AD%E4%B8%8A%E7%9C%BC%E8%83%BD%E7%9C%8B%E5%88%B0%E5%A4%96%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [山东：开海“第一鲜”上岸被抢购](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%EF%BC%9A%E5%BC%80%E6%B5%B7%E2%80%9C%E7%AC%AC%E4%B8%80%E9%B2%9C%E2%80%9D%E4%B8%8A%E5%B2%B8%E8%A2%AB%E6%8A%A2%E8%B4%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子双眼皮修复后 闭上眼能看到外面](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%8C%E7%9C%BC%E7%9A%AE%E4%BF%AE%E5%A4%8D%E5%90%8E+%E9%97%AD%E4%B8%8A%E7%9C%BC%E8%83%BD%E7%9C%8B%E5%88%B0%E5%A4%96%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [利息少了130万房主美滋滋换电脑手机](https://www.baidu.com/s?wd=%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%86130%E4%B8%87%E6%88%BF%E4%B8%BB%E7%BE%8E%E6%BB%8B%E6%BB%8B%E6%8D%A2%E7%94%B5%E8%84%91%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
