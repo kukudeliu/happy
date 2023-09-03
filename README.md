@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 00:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 00:14:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [蒋依依被曝偷税漏税 已补缴238万](https://www.baidu.com/s?wd=%E8%92%8B%E4%BE%9D%E4%BE%9D%E8%A2%AB%E6%9B%9D%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E+%E5%B7%B2%E8%A1%A5%E7%BC%B4238%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子被狗撕碎左脸缝了500多针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E6%92%95%E7%A2%8E%E5%B7%A6%E8%84%B8%E7%BC%9D%E4%BA%86500%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡锡进评奥本海默女演员被P上衣服](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E5%A5%B3%E6%BC%94%E5%91%98%E8%A2%ABP%E4%B8%8A%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [核污水排海后：中国鳗鱼之乡的担忧](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%90%8E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%B3%97%E9%B1%BC%E4%B9%8B%E4%B9%A1%E7%9A%84%E6%8B%85%E5%BF%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美国队不敌立陶宛遭首败](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%98%9F%E4%B8%8D%E6%95%8C%E7%AB%8B%E9%99%B6%E5%AE%9B%E9%81%AD%E9%A6%96%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“海葵”登陆台湾岛 女记者嘶吼报道](https://www.baidu.com/s?wd=%E2%80%9C%E6%B5%B7%E8%91%B5%E2%80%9D%E7%99%BB%E9%99%86%E5%8F%B0%E6%B9%BE%E5%B2%9B+%E5%A5%B3%E8%AE%B0%E8%80%85%E5%98%B6%E5%90%BC%E6%8A%A5%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [核污水排海后：中国鳗鱼之乡的担忧](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%90%8E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%B3%97%E9%B1%BC%E4%B9%8B%E4%B9%A1%E7%9A%84%E6%8B%85%E5%BF%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [蒋依依被曝偷税漏税 已补缴238万](https://www.baidu.com/s?wd=%E8%92%8B%E4%BE%9D%E4%BE%9D%E8%A2%AB%E6%9B%9D%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E+%E5%B7%B2%E8%A1%A5%E7%BC%B4238%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子被狗撕碎左脸缝了500多针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E6%92%95%E7%A2%8E%E5%B7%A6%E8%84%B8%E7%BC%9D%E4%BA%86500%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡锡进评奥本海默女演员被P上衣服](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E5%A5%B3%E6%BC%94%E5%91%98%E8%A2%ABP%E4%B8%8A%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [核污水排海后：中国鳗鱼之乡的担忧](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%90%8E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%B3%97%E9%B1%BC%E4%B9%8B%E4%B9%A1%E7%9A%84%E6%8B%85%E5%BF%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [美国队不敌立陶宛遭首败](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%98%9F%E4%B8%8D%E6%95%8C%E7%AB%8B%E9%99%B6%E5%AE%9B%E9%81%AD%E9%A6%96%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“海葵”登陆台湾岛 女记者嘶吼报道](https://www.baidu.com/s?wd=%E2%80%9C%E6%B5%B7%E8%91%B5%E2%80%9D%E7%99%BB%E9%99%86%E5%8F%B0%E6%B9%BE%E5%B2%9B+%E5%A5%B3%E8%AE%B0%E8%80%85%E5%98%B6%E5%90%BC%E6%8A%A5%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [核污水排海后：中国鳗鱼之乡的担忧](https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%90%8E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%B3%97%E9%B1%BC%E4%B9%8B%E4%B9%A1%E7%9A%84%E6%8B%85%E5%BF%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
