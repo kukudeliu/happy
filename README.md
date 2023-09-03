@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 15:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 15:01:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [洗完澡后不要马上穿内裤](https://s.weibo.com/weibo?q=%23%E6%B4%97%E5%AE%8C%E6%BE%A1%E5%90%8E%E4%B8%8D%E8%A6%81%E9%A9%AC%E4%B8%8A%E7%A9%BF%E5%86%85%E8%A3%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子修复双眼皮后竟然多个洞](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BF%AE%E5%A4%8D%E5%8F%8C%E7%9C%BC%E7%9A%AE%E5%90%8E%E7%AB%9F%E7%84%B6%E5%A4%9A%E4%B8%AA%E6%B4%9E%23&t=31&band_rank=5&Refer=top)<br />
 6. [刘琳演技](https://s.weibo.com/weibo?q=%E5%88%98%E7%90%B3%E6%BC%94%E6%8A%80&t=31&band_rank=6&Refer=top)<br />
-7. [傅首尔老刘参加再见爱人3](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E8%80%81%E5%88%98%E5%8F%82%E5%8A%A0%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA3%23&t=31&band_rank=7&Refer=top)<br />
-8. [女子买到发霉面包店员当场吃下](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%88%B0%E5%8F%91%E9%9C%89%E9%9D%A2%E5%8C%85%E5%BA%97%E5%91%98%E5%BD%93%E5%9C%BA%E5%90%83%E4%B8%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [全国唯一考生已经在答题了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%94%AF%E4%B8%80%E8%80%83%E7%94%9F%E5%B7%B2%E7%BB%8F%E5%9C%A8%E7%AD%94%E9%A2%98%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+7. [大学生拿1万2奖学金给村里修路](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%BF1%E4%B8%872%E5%A5%96%E5%AD%A6%E9%87%91%E7%BB%99%E6%9D%91%E9%87%8C%E4%BF%AE%E8%B7%AF%23&t=31&band_rank=7&Refer=top)<br />
+8. [傅首尔老刘参加再见爱人3](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E8%80%81%E5%88%98%E5%8F%82%E5%8A%A0%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA3%23&t=31&band_rank=8&Refer=top)<br />
+9. [女子买到发霉面包店员当场吃下](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%88%B0%E5%8F%91%E9%9C%89%E9%9D%A2%E5%8C%85%E5%BA%97%E5%91%98%E5%BD%93%E5%9C%BA%E5%90%83%E4%B8%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
