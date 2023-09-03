@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 18:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 18:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [何炅 不要被自己的情绪绑架](https://s.weibo.com/weibo?q=%E4%BD%95%E7%82%85%20%E4%B8%8D%E8%A6%81%E8%A2%AB%E8%87%AA%E5%B7%B1%E7%9A%84%E6%83%85%E7%BB%AA%E7%BB%91%E6%9E%B6&t=31&band_rank=6&Refer=top)<br />
 7. [休假辅警遇汽车自燃一路狂追灭火](https://s.weibo.com/weibo?q=%23%E4%BC%91%E5%81%87%E8%BE%85%E8%AD%A6%E9%81%87%E6%B1%BD%E8%BD%A6%E8%87%AA%E7%87%83%E4%B8%80%E8%B7%AF%E7%8B%82%E8%BF%BD%E7%81%AD%E7%81%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [奥本海默](https://s.weibo.com/weibo?q=%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98&t=31&band_rank=8&Refer=top)<br />
-9. [从此世上只有李莲花了](https://s.weibo.com/weibo?q=%E4%BB%8E%E6%AD%A4%E4%B8%96%E4%B8%8A%E5%8F%AA%E6%9C%89%E6%9D%8E%E8%8E%B2%E8%8A%B1%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [于正希望内娱好好对待蒋依依](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%B8%8C%E6%9C%9B%E5%86%85%E5%A8%B1%E5%A5%BD%E5%A5%BD%E5%AF%B9%E5%BE%85%E8%92%8B%E4%BE%9D%E4%BE%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
