@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 13:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 13:56:01</h4></div>
 
 > 微博  
 
@@ -19,9 +19,9 @@
 
 1. [携手推动世界经济走上持续复苏轨道](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E6%8E%A8%E5%8A%A8%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E8%B5%B0%E4%B8%8A%E6%8C%81%E7%BB%AD%E5%A4%8D%E8%8B%8F%E8%BD%A8%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [为什么无座和二等座是同价](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%97%A0%E5%BA%A7%E5%92%8C%E4%BA%8C%E7%AD%89%E5%BA%A7%E6%98%AF%E5%90%8C%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [杨毅：这是中国篮球几十年最大惨案](https://www.baidu.com/s?wd=%E6%9D%A8%E6%AF%85%EF%BC%9A%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%AF%AE%E7%90%83%E5%87%A0%E5%8D%81%E5%B9%B4%E6%9C%80%E5%A4%A7%E6%83%A8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [男子自导自演河道内淘金被立案侦查](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E5%AF%BC%E8%87%AA%E6%BC%94%E6%B2%B3%E9%81%93%E5%86%85%E6%B7%98%E9%87%91%E8%A2%AB%E7%AB%8B%E6%A1%88%E4%BE%A6%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [杭州亚运会颁奖花束藏着宝藏非遗](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%A2%81%E5%A5%96%E8%8A%B1%E6%9D%9F%E8%97%8F%E7%9D%80%E5%AE%9D%E8%97%8F%E9%9D%9E%E9%81%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男子自导自演河道内淘金被立案侦查](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E5%AF%BC%E8%87%AA%E6%BC%94%E6%B2%B3%E9%81%93%E5%86%85%E6%B7%98%E9%87%91%E8%A2%AB%E7%AB%8B%E6%A1%88%E4%BE%A6%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [“秀才”被封 中老年顶流塌半边？](https://www.baidu.com/s?wd=%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E8%A2%AB%E5%B0%81+%E4%B8%AD%E8%80%81%E5%B9%B4%E9%A1%B6%E6%B5%81%E5%A1%8C%E5%8D%8A%E8%BE%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江苏一学校开学一年级仅3人](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%BC%80%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%BB%853%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国20万名教师首尔街头抗议](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD20%E4%B8%87%E5%90%8D%E6%95%99%E5%B8%88%E9%A6%96%E5%B0%94%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子双眼皮修复后 闭上眼能看到外面](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%8C%E7%9C%BC%E7%9A%AE%E4%BF%AE%E5%A4%8D%E5%90%8E+%E9%97%AD%E4%B8%8A%E7%9C%BC%E8%83%BD%E7%9C%8B%E5%88%B0%E5%A4%96%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,9 +31,9 @@
 
 1. [携手推动世界经济走上持续复苏轨道](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E6%8E%A8%E5%8A%A8%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E8%B5%B0%E4%B8%8A%E6%8C%81%E7%BB%AD%E5%A4%8D%E8%8B%8F%E8%BD%A8%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [为什么无座和二等座是同价](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%97%A0%E5%BA%A7%E5%92%8C%E4%BA%8C%E7%AD%89%E5%BA%A7%E6%98%AF%E5%90%8C%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [杨毅：这是中国篮球几十年最大惨案](https://www.baidu.com/s?wd=%E6%9D%A8%E6%AF%85%EF%BC%9A%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%AF%AE%E7%90%83%E5%87%A0%E5%8D%81%E5%B9%B4%E6%9C%80%E5%A4%A7%E6%83%A8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [男子自导自演河道内淘金被立案侦查](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E5%AF%BC%E8%87%AA%E6%BC%94%E6%B2%B3%E9%81%93%E5%86%85%E6%B7%98%E9%87%91%E8%A2%AB%E7%AB%8B%E6%A1%88%E4%BE%A6%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [杭州亚运会颁奖花束藏着宝藏非遗](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%A2%81%E5%A5%96%E8%8A%B1%E6%9D%9F%E8%97%8F%E7%9D%80%E5%AE%9D%E8%97%8F%E9%9D%9E%E9%81%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男子自导自演河道内淘金被立案侦查](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E5%AF%BC%E8%87%AA%E6%BC%94%E6%B2%B3%E9%81%93%E5%86%85%E6%B7%98%E9%87%91%E8%A2%AB%E7%AB%8B%E6%A1%88%E4%BE%A6%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [“秀才”被封 中老年顶流塌半边？](https://www.baidu.com/s?wd=%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E8%A2%AB%E5%B0%81+%E4%B8%AD%E8%80%81%E5%B9%B4%E9%A1%B6%E6%B5%81%E5%A1%8C%E5%8D%8A%E8%BE%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江苏一学校开学一年级仅3人](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%BC%80%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%BB%853%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国20万名教师首尔街头抗议](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD20%E4%B8%87%E5%90%8D%E6%95%99%E5%B8%88%E9%A6%96%E5%B0%94%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子双眼皮修复后 闭上眼能看到外面](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%8C%E7%9C%BC%E7%9A%AE%E4%BF%AE%E5%A4%8D%E5%90%8E+%E9%97%AD%E4%B8%8A%E7%9C%BC%E8%83%BD%E7%9C%8B%E5%88%B0%E5%A4%96%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
