@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 23:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 00:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [适合做老婆 不是赞扬是冒犯](https://s.weibo.com/weibo?q=%E9%80%82%E5%90%88%E5%81%9A%E8%80%81%E5%A9%86%20%E4%B8%8D%E6%98%AF%E8%B5%9E%E6%89%AC%E6%98%AF%E5%86%92%E7%8A%AF&t=31&band_rank=6&Refer=top)<br />
 7. [你什么档次敢骂雪姨](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%80%E4%B9%88%E6%A1%A3%E6%AC%A1%E6%95%A2%E9%AA%82%E9%9B%AA%E5%A7%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [原来真有人后发际线长到脖子上](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E7%9C%9F%E6%9C%89%E4%BA%BA%E5%90%8E%E5%8F%91%E9%99%85%E7%BA%BF%E9%95%BF%E5%88%B0%E8%84%96%E5%AD%90%E4%B8%8A&t=31&band_rank=8&Refer=top)<br />
-9. [9月1日 9月3日](https://s.weibo.com/weibo?q=9%E6%9C%881%E6%97%A5%209%E6%9C%883%E6%97%A5&t=31&band_rank=9&Refer=top)<br />
+9. [韩版黄雨萱](https://s.weibo.com/weibo?q=%E9%9F%A9%E7%89%88%E9%BB%84%E9%9B%A8%E8%90%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
