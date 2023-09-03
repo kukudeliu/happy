@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 07:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 07:50:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [女子被狗撕碎左脸缝了500多针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E6%92%95%E7%A2%8E%E5%B7%A6%E8%84%B8%E7%BC%9D%E4%BA%86500%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡锡进评奥本海默女演员被P上衣服](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E5%A5%B3%E6%BC%94%E5%91%98%E8%A2%ABP%E4%B8%8A%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [旅行社：赴日旅游退单率达50%](https://www.baidu.com/s?wd=%E6%97%85%E8%A1%8C%E7%A4%BE%EF%BC%9A%E8%B5%B4%E6%97%A5%E6%97%85%E6%B8%B8%E9%80%80%E5%8D%95%E7%8E%87%E8%BE%BE50%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [武汉一市民服用中药两天后身亡](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E4%B8%80%E5%B8%82%E6%B0%91%E6%9C%8D%E7%94%A8%E4%B8%AD%E8%8D%AF%E4%B8%A4%E5%A4%A9%E5%90%8E%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体盘点今年被禁的5个一线网红](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E7%9B%98%E7%82%B9%E4%BB%8A%E5%B9%B4%E8%A2%AB%E7%A6%81%E7%9A%845%E4%B8%AA%E4%B8%80%E7%BA%BF%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女子被狗撕碎左脸缝了500多针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E6%92%95%E7%A2%8E%E5%B7%A6%E8%84%B8%E7%BC%9D%E4%BA%86500%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡锡进评奥本海默女演员被P上衣服](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E5%A5%B3%E6%BC%94%E5%91%98%E8%A2%ABP%E4%B8%8A%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [旅行社：赴日旅游退单率达50%](https://www.baidu.com/s?wd=%E6%97%85%E8%A1%8C%E7%A4%BE%EF%BC%9A%E8%B5%B4%E6%97%A5%E6%97%85%E6%B8%B8%E9%80%80%E5%8D%95%E7%8E%87%E8%BE%BE50%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [武汉一市民服用中药两天后身亡](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E4%B8%80%E5%B8%82%E6%B0%91%E6%9C%8D%E7%94%A8%E4%B8%AD%E8%8D%AF%E4%B8%A4%E5%A4%A9%E5%90%8E%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体盘点今年被禁的5个一线网红](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E7%9B%98%E7%82%B9%E4%BB%8A%E5%B9%B4%E8%A2%AB%E7%A6%81%E7%9A%845%E4%B8%AA%E4%B8%80%E7%BA%BF%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
