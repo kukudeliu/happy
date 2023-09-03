@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 18:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 18:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南京地铁票竟然是个币](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%81%E7%A5%A8%E7%AB%9F%E7%84%B6%E6%98%AF%E4%B8%AA%E5%B8%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [罕见同心莲含露绽放太惊艳](https://s.weibo.com/weibo?q=%23%E7%BD%95%E8%A7%81%E5%90%8C%E5%BF%83%E8%8E%B2%E5%90%AB%E9%9C%B2%E7%BB%BD%E6%94%BE%E5%A4%AA%E6%83%8A%E8%89%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [何炅 不要被自己的情绪绑架](https://s.weibo.com/weibo?q=%E4%BD%95%E7%82%85%20%E4%B8%8D%E8%A6%81%E8%A2%AB%E8%87%AA%E5%B7%B1%E7%9A%84%E6%83%85%E7%BB%AA%E7%BB%91%E6%9E%B6&t=31&band_rank=8&Refer=top)<br />
-9. [奥本海默](https://s.weibo.com/weibo?q=%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98&t=31&band_rank=9&Refer=top)<br />
+9. [于正希望内娱好好对待蒋依依](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%B8%8C%E6%9C%9B%E5%86%85%E5%A8%B1%E5%A5%BD%E5%A5%BD%E5%AF%B9%E5%BE%85%E8%92%8B%E4%BE%9D%E4%BE%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,8 +24,8 @@
 5. [俄顶尖科学家身亡 疑因误食毒蘑菇](https://www.baidu.com/s?wd=%E4%BF%84%E9%A1%B6%E5%B0%96%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%BA%AB%E4%BA%A1+%E7%96%91%E5%9B%A0%E8%AF%AF%E9%A3%9F%E6%AF%92%E8%98%91%E8%8F%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [蒋依依被曝偷税漏税 已补缴238万](https://www.baidu.com/s?wd=%E8%92%8B%E4%BE%9D%E4%BE%9D%E8%A2%AB%E6%9B%9D%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E+%E5%B7%B2%E8%A1%A5%E7%BC%B4238%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国20万名教师首尔街头抗议](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD20%E4%B8%87%E5%90%8D%E6%95%99%E5%B8%88%E9%A6%96%E5%B0%94%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [卫健委回应“雷暴哮喘”患者增多](https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E2%80%9C%E9%9B%B7%E6%9A%B4%E5%93%AE%E5%96%98%E2%80%9D%E6%82%A3%E8%80%85%E5%A2%9E%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子双眼皮修复后 闭上眼能看到外面](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%8C%E7%9C%BC%E7%9A%AE%E4%BF%AE%E5%A4%8D%E5%90%8E+%E9%97%AD%E4%B8%8A%E7%9C%BC%E8%83%BD%E7%9C%8B%E5%88%B0%E5%A4%96%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子双眼皮修复后 闭上眼能看到外面](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%8C%E7%9C%BC%E7%9A%AE%E4%BF%AE%E5%A4%8D%E5%90%8E+%E9%97%AD%E4%B8%8A%E7%9C%BC%E8%83%BD%E7%9C%8B%E5%88%B0%E5%A4%96%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [卫健委回应“雷暴哮喘”患者增多](https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E2%80%9C%E9%9B%B7%E6%9A%B4%E5%93%AE%E5%96%98%E2%80%9D%E6%82%A3%E8%80%85%E5%A2%9E%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [俄顶尖科学家身亡 疑因误食毒蘑菇](https://www.baidu.com/s?wd=%E4%BF%84%E9%A1%B6%E5%B0%96%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%BA%AB%E4%BA%A1+%E7%96%91%E5%9B%A0%E8%AF%AF%E9%A3%9F%E6%AF%92%E8%98%91%E8%8F%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [蒋依依被曝偷税漏税 已补缴238万](https://www.baidu.com/s?wd=%E8%92%8B%E4%BE%9D%E4%BE%9D%E8%A2%AB%E6%9B%9D%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E+%E5%B7%B2%E8%A1%A5%E7%BC%B4238%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国20万名教师首尔街头抗议](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD20%E4%B8%87%E5%90%8D%E6%95%99%E5%B8%88%E9%A6%96%E5%B0%94%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [卫健委回应“雷暴哮喘”患者增多](https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E2%80%9C%E9%9B%B7%E6%9A%B4%E5%93%AE%E5%96%98%E2%80%9D%E6%82%A3%E8%80%85%E5%A2%9E%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子双眼皮修复后 闭上眼能看到外面](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%8C%E7%9C%BC%E7%9A%AE%E4%BF%AE%E5%A4%8D%E5%90%8E+%E9%97%AD%E4%B8%8A%E7%9C%BC%E8%83%BD%E7%9C%8B%E5%88%B0%E5%A4%96%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子双眼皮修复后 闭上眼能看到外面](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%8C%E7%9C%BC%E7%9A%AE%E4%BF%AE%E5%A4%8D%E5%90%8E+%E9%97%AD%E4%B8%8A%E7%9C%BC%E8%83%BD%E7%9C%8B%E5%88%B0%E5%A4%96%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [卫健委回应“雷暴哮喘”患者增多](https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E2%80%9C%E9%9B%B7%E6%9A%B4%E5%93%AE%E5%96%98%E2%80%9D%E6%82%A3%E8%80%85%E5%A2%9E%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
