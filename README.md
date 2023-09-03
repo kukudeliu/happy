@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 14:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 14:59:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [韩国20万名教师首尔街头抗议](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD20%E4%B8%87%E5%90%8D%E6%95%99%E5%B8%88%E9%A6%96%E5%B0%94%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大学生拿1万2奖学金给村里修路](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%BF1%E4%B8%872%E5%A5%96%E5%AD%A6%E9%87%91%E7%BB%99%E6%9D%91%E9%87%8C%E4%BF%AE%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [山东：开海“第一鲜”上岸被抢购](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%EF%BC%9A%E5%BC%80%E6%B5%B7%E2%80%9C%E7%AC%AC%E4%B8%80%E9%B2%9C%E2%80%9D%E4%B8%8A%E5%B2%B8%E8%A2%AB%E6%8A%A2%E8%B4%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李荣浩演唱会讲话时嘴里进了只蚊子](https://www.baidu.com/s?wd=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E8%AE%B2%E8%AF%9D%E6%97%B6%E5%98%B4%E9%87%8C%E8%BF%9B%E4%BA%86%E5%8F%AA%E8%9A%8A%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [利息少了130万房主美滋滋换电脑手机](https://www.baidu.com/s?wd=%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%86130%E4%B8%87%E6%88%BF%E4%B8%BB%E7%BE%8E%E6%BB%8B%E6%BB%8B%E6%8D%A2%E7%94%B5%E8%84%91%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [韩国20万名教师首尔街头抗议](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD20%E4%B8%87%E5%90%8D%E6%95%99%E5%B8%88%E9%A6%96%E5%B0%94%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大学生拿1万2奖学金给村里修路](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%BF1%E4%B8%872%E5%A5%96%E5%AD%A6%E9%87%91%E7%BB%99%E6%9D%91%E9%87%8C%E4%BF%AE%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [山东：开海“第一鲜”上岸被抢购](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%EF%BC%9A%E5%BC%80%E6%B5%B7%E2%80%9C%E7%AC%AC%E4%B8%80%E9%B2%9C%E2%80%9D%E4%B8%8A%E5%B2%B8%E8%A2%AB%E6%8A%A2%E8%B4%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [李荣浩演唱会讲话时嘴里进了只蚊子](https://www.baidu.com/s?wd=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E8%AE%B2%E8%AF%9D%E6%97%B6%E5%98%B4%E9%87%8C%E8%BF%9B%E4%BA%86%E5%8F%AA%E8%9A%8A%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [利息少了130万房主美滋滋换电脑手机](https://www.baidu.com/s?wd=%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%86130%E4%B8%87%E6%88%BF%E4%B8%BB%E7%BE%8E%E6%BB%8B%E6%BB%8B%E6%8D%A2%E7%94%B5%E8%84%91%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
