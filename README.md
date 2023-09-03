@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 13:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 13:41:02</h4></div>
 
 > 微博  
 
 1. [12306回应高铁动车二等座无座同价](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E5%8A%A8%E8%BD%A6%E4%BA%8C%E7%AD%89%E5%BA%A7%E6%97%A0%E5%BA%A7%E5%90%8C%E4%BB%B7%23&t=31&band_rank=1&Refer=top)<br />
 2. [全国唯一考生已经在答题了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%94%AF%E4%B8%80%E8%80%83%E7%94%9F%E5%B7%B2%E7%BB%8F%E5%9C%A8%E7%AD%94%E9%A2%98%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [感受2023服贸会风采](https://s.weibo.com/weibo?q=%23%E6%84%9F%E5%8F%972023%E6%9C%8D%E8%B4%B8%E4%BC%9A%E9%A3%8E%E9%87%87%23&t=31&band_rank=3&Refer=top)<br />
-4. [洗完澡后不要马上穿内裤](https://s.weibo.com/weibo?q=%23%E6%B4%97%E5%AE%8C%E6%BE%A1%E5%90%8E%E4%B8%8D%E8%A6%81%E9%A9%AC%E4%B8%8A%E7%A9%BF%E5%86%85%E8%A3%A4%23&t=31&band_rank=4&Refer=top)<br />
-5. [妈妈被家暴女儿留下的纸条让人泪目](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E8%A2%AB%E5%AE%B6%E6%9A%B4%E5%A5%B3%E5%84%BF%E7%95%99%E4%B8%8B%E7%9A%84%E7%BA%B8%E6%9D%A1%E8%AE%A9%E4%BA%BA%E6%B3%AA%E7%9B%AE%23&t=31&band_rank=5&Refer=top)<br />
+4. [妈妈被家暴女儿留下的纸条让人泪目](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E8%A2%AB%E5%AE%B6%E6%9A%B4%E5%A5%B3%E5%84%BF%E7%95%99%E4%B8%8B%E7%9A%84%E7%BA%B8%E6%9D%A1%E8%AE%A9%E4%BA%BA%E6%B3%AA%E7%9B%AE%23&t=31&band_rank=4&Refer=top)<br />
+5. [洗完澡后不要马上穿内裤](https://s.weibo.com/weibo?q=%23%E6%B4%97%E5%AE%8C%E6%BE%A1%E5%90%8E%E4%B8%8D%E8%A6%81%E9%A9%AC%E4%B8%8A%E7%A9%BF%E5%86%85%E8%A3%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [日本政府拟拨款200亿日元紧急支援水产业](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E6%8B%9F%E6%8B%A8%E6%AC%BE200%E4%BA%BF%E6%97%A5%E5%85%83%E7%B4%A7%E6%80%A5%E6%94%AF%E6%8F%B4%E6%B0%B4%E4%BA%A7%E4%B8%9A%23&t=31&band_rank=6&Refer=top)<br />
-7. [于正希望内娱好好对待蒋依依](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%B8%8C%E6%9C%9B%E5%86%85%E5%A8%B1%E5%A5%BD%E5%A5%BD%E5%AF%B9%E5%BE%85%E8%92%8B%E4%BE%9D%E4%BE%9D%23&t=31&band_rank=7&Refer=top)<br />
-8. [傅首尔老刘参加再见爱人3](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E8%80%81%E5%88%98%E5%8F%82%E5%8A%A0%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA3%23&t=31&band_rank=8&Refer=top)<br />
+7. [傅首尔老刘参加再见爱人3](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E8%80%81%E5%88%98%E5%8F%82%E5%8A%A0%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA3%23&t=31&band_rank=7&Refer=top)<br />
+8. [于正希望内娱好好对待蒋依依](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%B8%8C%E6%9C%9B%E5%86%85%E5%A8%B1%E5%A5%BD%E5%A5%BD%E5%AF%B9%E5%BE%85%E8%92%8B%E4%BE%9D%E4%BE%9D%23&t=31&band_rank=8&Refer=top)<br />
 9. [泰国坠崖案女子称离婚要很多材料](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%9D%A0%E5%B4%96%E6%A1%88%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%A6%BB%E5%A9%9A%E8%A6%81%E5%BE%88%E5%A4%9A%E6%9D%90%E6%96%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
