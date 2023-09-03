@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 00:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 00:29:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [女子被狗撕碎左脸缝了500多针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E6%92%95%E7%A2%8E%E5%B7%A6%E8%84%B8%E7%BC%9D%E4%BA%86500%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡锡进评奥本海默女演员被P上衣服](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E5%A5%B3%E6%BC%94%E5%91%98%E8%A2%ABP%E4%B8%8A%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [海葵登陆后继续西行](https://www.baidu.com/s?wd=%E6%B5%B7%E8%91%B5%E7%99%BB%E9%99%86%E5%90%8E%E7%BB%A7%E7%BB%AD%E8%A5%BF%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泰国坠崖案女子称离婚要很多材料](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%9D%A0%E5%B4%96%E6%A1%88%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%A6%BB%E5%A9%9A%E8%A6%81%E5%BE%88%E5%A4%9A%E6%9D%90%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杭州高架禁止特斯拉通行？官方回应](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%AB%98%E6%9E%B6%E7%A6%81%E6%AD%A2%E7%89%B9%E6%96%AF%E6%8B%89%E9%80%9A%E8%A1%8C%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女子被狗撕碎左脸缝了500多针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E6%92%95%E7%A2%8E%E5%B7%A6%E8%84%B8%E7%BC%9D%E4%BA%86500%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡锡进评奥本海默女演员被P上衣服](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E5%A5%B3%E6%BC%94%E5%91%98%E8%A2%ABP%E4%B8%8A%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [海葵登陆后继续西行](https://www.baidu.com/s?wd=%E6%B5%B7%E8%91%B5%E7%99%BB%E9%99%86%E5%90%8E%E7%BB%A7%E7%BB%AD%E8%A5%BF%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [泰国坠崖案女子称离婚要很多材料](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%9D%A0%E5%B4%96%E6%A1%88%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%A6%BB%E5%A9%9A%E8%A6%81%E5%BE%88%E5%A4%9A%E6%9D%90%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [杭州高架禁止特斯拉通行？官方回应](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%AB%98%E6%9E%B6%E7%A6%81%E6%AD%A2%E7%89%B9%E6%96%AF%E6%8B%89%E9%80%9A%E8%A1%8C%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
