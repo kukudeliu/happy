@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 08:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-03 08:14:01</h4></div>
 
 > 微博  
 
 1. [日本首相岸田文雄被检举](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E5%B2%B8%E7%94%B0%E6%96%87%E9%9B%84%E8%A2%AB%E6%A3%80%E4%B8%BE%23&t=31&band_rank=1&Refer=top)<br />
-2. [千万粉丝网红家中失火](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E5%AE%B6%E4%B8%AD%E5%A4%B1%E7%81%AB%23&t=31&band_rank=2&Refer=top)<br />
+2. [秀才曾被大妈举报欺诈51万](https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E6%9B%BE%E8%A2%AB%E5%A4%A7%E5%A6%88%E4%B8%BE%E6%8A%A5%E6%AC%BA%E8%AF%8851%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [感受2023服贸会风采](https://s.weibo.com/weibo?q=%23%E6%84%9F%E5%8F%972023%E6%9C%8D%E8%B4%B8%E4%BC%9A%E9%A3%8E%E9%87%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [北京众多市民涌入干涸河道捡金粒](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BC%97%E5%A4%9A%E5%B8%82%E6%B0%91%E6%B6%8C%E5%85%A5%E5%B9%B2%E6%B6%B8%E6%B2%B3%E9%81%93%E6%8D%A1%E9%87%91%E7%B2%92%23&t=31&band_rank=4&Refer=top)<br />
-5. [秀才曾被大妈举报欺诈51万](https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E6%9B%BE%E8%A2%AB%E5%A4%A7%E5%A6%88%E4%B8%BE%E6%8A%A5%E6%AC%BA%E8%AF%8851%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
+5. [千万粉丝网红家中失火](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E5%AE%B6%E4%B8%AD%E5%A4%B1%E7%81%AB%23&t=31&band_rank=5&Refer=top)<br />
 6. [云之羽](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD&t=31&band_rank=6&Refer=top)<br />
 7. [利息少了130万房主美滋滋换电脑换手机](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%81%AF%E5%B0%91%E4%BA%86130%E4%B8%87%E6%88%BF%E4%B8%BB%E7%BE%8E%E6%BB%8B%E6%BB%8B%E6%8D%A2%E7%94%B5%E8%84%91%E6%8D%A2%E6%89%8B%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [抗战胜利78周年](https://s.weibo.com/weibo?q=%23%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A978%E5%91%A8%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
