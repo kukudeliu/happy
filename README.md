@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 07:32:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 07:33:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [花花没有妈妈了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E6%B2%A1%E6%9C%89%E5%A6%88%E5%A6%88%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [今年已有5位网红因违法违规被封](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%B7%B2%E6%9C%895%E4%BD%8D%E7%BD%91%E7%BA%A2%E5%9B%A0%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84%E8%A2%AB%E5%B0%81%23&t=31&band_rank=5&Refer=top)<br />
 6. [湖南被患者抹脖子牙医朋友发声](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E8%A2%AB%E6%82%A3%E8%80%85%E6%8A%B9%E8%84%96%E5%AD%90%E7%89%99%E5%8C%BB%E6%9C%8B%E5%8F%8B%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
-7. [清华大学研究生重量级宿舍](https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E9%87%8D%E9%87%8F%E7%BA%A7%E5%AE%BF%E8%88%8D&t=31&band_rank=7&Refer=top)<br />
-8. [适合做老婆 不是赞扬是冒犯](https://s.weibo.com/weibo?q=%E9%80%82%E5%90%88%E5%81%9A%E8%80%81%E5%A9%86%20%E4%B8%8D%E6%98%AF%E8%B5%9E%E6%89%AC%E6%98%AF%E5%86%92%E7%8A%AF&t=31&band_rank=8&Refer=top)<br />
+7. [适合做老婆 不是赞扬是冒犯](https://s.weibo.com/weibo?q=%E9%80%82%E5%90%88%E5%81%9A%E8%80%81%E5%A9%86%20%E4%B8%8D%E6%98%AF%E8%B5%9E%E6%89%AC%E6%98%AF%E5%86%92%E7%8A%AF&t=31&band_rank=7&Refer=top)<br />
+8. [清华大学研究生重量级宿舍](https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E9%87%8D%E9%87%8F%E7%BA%A7%E5%AE%BF%E8%88%8D&t=31&band_rank=8&Refer=top)<br />
 9. [原来真有人后发际线长到脖子上](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E7%9C%9F%E6%9C%89%E4%BA%BA%E5%90%8E%E5%8F%91%E9%99%85%E7%BA%BF%E9%95%BF%E5%88%B0%E8%84%96%E5%AD%90%E4%B8%8A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
