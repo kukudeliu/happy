@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 15:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 15:20:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [封神真的和芒果合作质子训练营综艺了](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%9C%9F%E7%9A%84%E5%92%8C%E8%8A%92%E6%9E%9C%E5%90%88%E4%BD%9C%E8%B4%A8%E5%AD%90%E8%AE%AD%E7%BB%83%E8%90%A5%E7%BB%BC%E8%89%BA%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [瑞幸客服回应酱香拿铁不加咖啡液](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E4%B8%8D%E5%8A%A0%E5%92%96%E5%95%A1%E6%B6%B2%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国女性肥胖比例不足10%](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E8%82%A5%E8%83%96%E6%AF%94%E4%BE%8B%E4%B8%8D%E8%B6%B310%25%23&t=31&band_rank=8&Refer=top)<br />
-9. [原来婴儿是没有后脚跟的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A9%B4%E5%84%BF%E6%98%AF%E6%B2%A1%E6%9C%89%E5%90%8E%E8%84%9A%E8%B7%9F%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [一亿个孩子一间房](https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%BF%E4%B8%AA%E5%AD%A9%E5%AD%90%E4%B8%80%E9%97%B4%E6%88%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
