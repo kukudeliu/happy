@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 16:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 16:12:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [期待杭州亚运会到来](https://www.baidu.com/s?wd=%E6%9C%9F%E5%BE%85%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%88%B0%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中央统战部原副部长崔茂虎被逮捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BB%9F%E6%88%98%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E5%B4%94%E8%8C%82%E8%99%8E%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老刘想和傅首尔离婚的原因](https://www.baidu.com/s?wd=%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [官方研究LPR房贷利率调整](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E7%A0%94%E7%A9%B6LPR%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山东滕州高铁站跳轨男子已死亡](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%BB%95%E5%B7%9E%E9%AB%98%E9%93%81%E7%AB%99%E8%B7%B3%E8%BD%A8%E7%94%B7%E5%AD%90%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [酱香拿铁被评价像玫瑰腐乳汁](https://www.baidu.com/s?wd=%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E8%A2%AB%E8%AF%84%E4%BB%B7%E5%83%8F%E7%8E%AB%E7%91%B0%E8%85%90%E4%B9%B3%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [山东滕州高铁站跳轨男子已死亡](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%BB%95%E5%B7%9E%E9%AB%98%E9%93%81%E7%AB%99%E8%B7%B3%E8%BD%A8%E7%94%B7%E5%AD%90%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [酱香拿铁被评价像玫瑰腐乳汁](https://www.baidu.com/s?wd=%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E8%A2%AB%E8%AF%84%E4%BB%B7%E5%83%8F%E7%8E%AB%E7%91%B0%E8%85%90%E4%B9%B3%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中铁五局被举报高速大桥偷工减料](https://www.baidu.com/s?wd=%E4%B8%AD%E9%93%81%E4%BA%94%E5%B1%80%E8%A2%AB%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E5%A4%A7%E6%A1%A5%E5%81%B7%E5%B7%A5%E5%87%8F%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [期待杭州亚运会到来](https://www.baidu.com/s?wd=%E6%9C%9F%E5%BE%85%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%88%B0%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中央统战部原副部长崔茂虎被逮捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BB%9F%E6%88%98%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E5%B4%94%E8%8C%82%E8%99%8E%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老刘想和傅首尔离婚的原因](https://www.baidu.com/s?wd=%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [官方研究LPR房贷利率调整](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E7%A0%94%E7%A9%B6LPR%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E8%B0%83%E6%95%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山东滕州高铁站跳轨男子已死亡](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%BB%95%E5%B7%9E%E9%AB%98%E9%93%81%E7%AB%99%E8%B7%B3%E8%BD%A8%E7%94%B7%E5%AD%90%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [酱香拿铁被评价像玫瑰腐乳汁](https://www.baidu.com/s?wd=%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E8%A2%AB%E8%AF%84%E4%BB%B7%E5%83%8F%E7%8E%AB%E7%91%B0%E8%85%90%E4%B9%B3%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [山东滕州高铁站跳轨男子已死亡](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%BB%95%E5%B7%9E%E9%AB%98%E9%93%81%E7%AB%99%E8%B7%B3%E8%BD%A8%E7%94%B7%E5%AD%90%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [酱香拿铁被评价像玫瑰腐乳汁](https://www.baidu.com/s?wd=%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E8%A2%AB%E8%AF%84%E4%BB%B7%E5%83%8F%E7%8E%AB%E7%91%B0%E8%85%90%E4%B9%B3%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中铁五局被举报高速大桥偷工减料](https://www.baidu.com/s?wd=%E4%B8%AD%E9%93%81%E4%BA%94%E5%B1%80%E8%A2%AB%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E5%A4%A7%E6%A1%A5%E5%81%B7%E5%B7%A5%E5%87%8F%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
