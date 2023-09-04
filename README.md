@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 15:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 15:55:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [酱香拿铁被评价像玫瑰腐乳汁](https://www.baidu.com/s?wd=%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E8%A2%AB%E8%AF%84%E4%BB%B7%E5%83%8F%E7%8E%AB%E7%91%B0%E8%85%90%E4%B9%B3%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山东滕州高铁站跳轨男子已死亡](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%BB%95%E5%B7%9E%E9%AB%98%E9%93%81%E7%AB%99%E8%B7%B3%E8%BD%A8%E7%94%B7%E5%AD%90%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [塞尔维亚男篮球员被肘击后摘肾](https://www.baidu.com/s?wd=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E7%94%B7%E7%AF%AE%E7%90%83%E5%91%98%E8%A2%AB%E8%82%98%E5%87%BB%E5%90%8E%E6%91%98%E8%82%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为什么好多人都消失在朋友圈了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [天津大爷已经没空跳水了](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E5%B7%B2%E7%BB%8F%E6%B2%A1%E7%A9%BA%E8%B7%B3%E6%B0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [酱香拿铁被评价像玫瑰腐乳汁](https://www.baidu.com/s?wd=%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E8%A2%AB%E8%AF%84%E4%BB%B7%E5%83%8F%E7%8E%AB%E7%91%B0%E8%85%90%E4%B9%B3%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山东滕州高铁站跳轨男子已死亡](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%BB%95%E5%B7%9E%E9%AB%98%E9%93%81%E7%AB%99%E8%B7%B3%E8%BD%A8%E7%94%B7%E5%AD%90%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [塞尔维亚男篮球员被肘击后摘肾](https://www.baidu.com/s?wd=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E7%94%B7%E7%AF%AE%E7%90%83%E5%91%98%E8%A2%AB%E8%82%98%E5%87%BB%E5%90%8E%E6%91%98%E8%82%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为什么好多人都消失在朋友圈了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [天津大爷已经没空跳水了](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E5%B7%B2%E7%BB%8F%E6%B2%A1%E7%A9%BA%E8%B7%B3%E6%B0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
