@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 22:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 22:24:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [河北车主运气爆表摇到X99999](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E8%BD%A6%E4%B8%BB%E8%BF%90%E6%B0%94%E7%88%86%E8%A1%A8%E6%91%87%E5%88%B0X99999&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子拍到男士们蹲在消防通道静心](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8B%8D%E5%88%B0%E7%94%B7%E5%A3%AB%E4%BB%AC%E8%B9%B2%E5%9C%A8%E6%B6%88%E9%98%B2%E9%80%9A%E9%81%93%E9%9D%99%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [雨后养殖场牛蛙出逃村民狂捡](https://www.baidu.com/s?wd=%E9%9B%A8%E5%90%8E%E5%85%BB%E6%AE%96%E5%9C%BA%E7%89%9B%E8%9B%99%E5%87%BA%E9%80%83%E6%9D%91%E6%B0%91%E7%8B%82%E6%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本政客出新招：到福岛冲浪](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%94%BF%E5%AE%A2%E5%87%BA%E6%96%B0%E6%8B%9B%EF%BC%9A%E5%88%B0%E7%A6%8F%E5%B2%9B%E5%86%B2%E6%B5%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体：高铁站票坐价有违消费公平](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%AB%98%E9%93%81%E7%AB%99%E7%A5%A8%E5%9D%90%E4%BB%B7%E6%9C%89%E8%BF%9D%E6%B6%88%E8%B4%B9%E5%85%AC%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [河北车主运气爆表摇到X99999](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E8%BD%A6%E4%B8%BB%E8%BF%90%E6%B0%94%E7%88%86%E8%A1%A8%E6%91%87%E5%88%B0X99999&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子拍到男士们蹲在消防通道静心](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8B%8D%E5%88%B0%E7%94%B7%E5%A3%AB%E4%BB%AC%E8%B9%B2%E5%9C%A8%E6%B6%88%E9%98%B2%E9%80%9A%E9%81%93%E9%9D%99%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [雨后养殖场牛蛙出逃村民狂捡](https://www.baidu.com/s?wd=%E9%9B%A8%E5%90%8E%E5%85%BB%E6%AE%96%E5%9C%BA%E7%89%9B%E8%9B%99%E5%87%BA%E9%80%83%E6%9D%91%E6%B0%91%E7%8B%82%E6%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本政客出新招：到福岛冲浪](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%94%BF%E5%AE%A2%E5%87%BA%E6%96%B0%E6%8B%9B%EF%BC%9A%E5%88%B0%E7%A6%8F%E5%B2%9B%E5%86%B2%E6%B5%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体：高铁站票坐价有违消费公平](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%AB%98%E9%93%81%E7%AB%99%E7%A5%A8%E5%9D%90%E4%BB%B7%E6%9C%89%E8%BF%9D%E6%B6%88%E8%B4%B9%E5%85%AC%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
