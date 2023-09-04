@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 22:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 22:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [瑞幸 真茅台](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%20%E7%9C%9F%E8%8C%85%E5%8F%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [亲爱的雪 我已嫁入豪门](https://s.weibo.com/weibo?q=%E4%BA%B2%E7%88%B1%E7%9A%84%E9%9B%AA%20%E6%88%91%E5%B7%B2%E5%AB%81%E5%85%A5%E8%B1%AA%E9%97%A8&t=31&band_rank=7&Refer=top)<br />
 8. [在咖啡中擅自添加茅台售卖是侵权行为](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%92%96%E5%95%A1%E4%B8%AD%E6%93%85%E8%87%AA%E6%B7%BB%E5%8A%A0%E8%8C%85%E5%8F%B0%E5%94%AE%E5%8D%96%E6%98%AF%E4%BE%B5%E6%9D%83%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [原来樱花妹觉得高颅顶很丑](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%A8%B1%E8%8A%B1%E5%A6%B9%E8%A7%89%E5%BE%97%E9%AB%98%E9%A2%85%E9%A1%B6%E5%BE%88%E4%B8%91&t=31&band_rank=9&Refer=top)<br />
+9. [蒋依依搭好的帐篷不小心被海风吹塌](https://s.weibo.com/weibo?q=%E8%92%8B%E4%BE%9D%E4%BE%9D%E6%90%AD%E5%A5%BD%E7%9A%84%E5%B8%90%E7%AF%B7%E4%B8%8D%E5%B0%8F%E5%BF%83%E8%A2%AB%E6%B5%B7%E9%A3%8E%E5%90%B9%E5%A1%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
