@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 21:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 21:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [亲爱的雪 我已嫁入豪门](https://s.weibo.com/weibo?q=%E4%BA%B2%E7%88%B1%E7%9A%84%E9%9B%AA%20%E6%88%91%E5%B7%B2%E5%AB%81%E5%85%A5%E8%B1%AA%E9%97%A8&t=31&band_rank=6&Refer=top)<br />
 7. [瑞幸 真茅台](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%20%E7%9C%9F%E8%8C%85%E5%8F%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [骄阳伴我9分钟破1](https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%919%E5%88%86%E9%92%9F%E7%A0%B41%23&t=31&band_rank=8&Refer=top)<br />
-9. [电影院遇到这么懂原子弹的](https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E9%99%A2%E9%81%87%E5%88%B0%E8%BF%99%E4%B9%88%E6%87%82%E5%8E%9F%E5%AD%90%E5%BC%B9%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+9. [易烊千玺包场不虚此行](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%8C%85%E5%9C%BA%E4%B8%8D%E8%99%9A%E6%AD%A4%E8%A1%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
