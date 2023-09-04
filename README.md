@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 16:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 16:39:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [共促开放合作 共创美好未来](https://www.baidu.com/s?wd=%E5%85%B1%E4%BF%83%E5%BC%80%E6%94%BE%E5%90%88%E4%BD%9C+%E5%85%B1%E5%88%9B%E7%BE%8E%E5%A5%BD%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [美将对华出售芯片 但不卖最顶尖的](https://www.baidu.com/s?wd=%E7%BE%8E%E5%B0%86%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AE%E8%8A%AF%E7%89%87+%E4%BD%86%E4%B8%8D%E5%8D%96%E6%9C%80%E9%A1%B6%E5%B0%96%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [记者实测喝完酱香拿铁吹检测仪](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E5%96%9D%E5%AE%8C%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%90%B9%E6%A3%80%E6%B5%8B%E4%BB%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [记者实测喝完酱香拿铁吹检测仪](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E5%96%9D%E5%AE%8C%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%90%B9%E6%A3%80%E6%B5%8B%E4%BB%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [中央统战部原副部长崔茂虎被逮捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BB%9F%E6%88%98%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E5%B4%94%E8%8C%82%E8%99%8E%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [期待杭州亚运会到来](https://www.baidu.com/s?wd=%E6%9C%9F%E5%BE%85%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%88%B0%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [中央统战部原副部长崔茂虎被逮捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BB%9F%E6%88%98%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E5%B4%94%E8%8C%82%E8%99%8E%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [牵手瑞幸 茅台对打工人下手了](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E7%91%9E%E5%B9%B8+%E8%8C%85%E5%8F%B0%E5%AF%B9%E6%89%93%E5%B7%A5%E4%BA%BA%E4%B8%8B%E6%89%8B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老刘想和傅首尔离婚的原因](https://www.baidu.com/s?wd=%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中铁五局被举报高速大桥偷工减料](https://www.baidu.com/s?wd=%E4%B8%AD%E9%93%81%E4%BA%94%E5%B1%80%E8%A2%AB%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E5%A4%A7%E6%A1%A5%E5%81%B7%E5%B7%A5%E5%87%8F%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [缅甸警局遭炸弹袭击致十余人受伤](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E8%AD%A6%E5%B1%80%E9%81%AD%E7%82%B8%E5%BC%B9%E8%A2%AD%E5%87%BB%E8%87%B4%E5%8D%81%E4%BD%99%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [天津大爷已经没空跳水了](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E5%B7%B2%E7%BB%8F%E6%B2%A1%E7%A9%BA%E8%B7%B3%E6%B0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河南有2.8万事实无人抚养儿童](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%9C%892.8%E4%B8%87%E4%BA%8B%E5%AE%9E%E6%97%A0%E4%BA%BA%E6%8A%9A%E5%85%BB%E5%84%BF%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子持刀刺伤牙医后自伤 警方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8C%81%E5%88%80%E5%88%BA%E4%BC%A4%E7%89%99%E5%8C%BB%E5%90%8E%E8%87%AA%E4%BC%A4+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [共促开放合作 共创美好未来](https://www.baidu.com/s?wd=%E5%85%B1%E4%BF%83%E5%BC%80%E6%94%BE%E5%90%88%E4%BD%9C+%E5%85%B1%E5%88%9B%E7%BE%8E%E5%A5%BD%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [美将对华出售芯片 但不卖最顶尖的](https://www.baidu.com/s?wd=%E7%BE%8E%E5%B0%86%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AE%E8%8A%AF%E7%89%87+%E4%BD%86%E4%B8%8D%E5%8D%96%E6%9C%80%E9%A1%B6%E5%B0%96%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [记者实测喝完酱香拿铁吹检测仪](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E5%96%9D%E5%AE%8C%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%90%B9%E6%A3%80%E6%B5%8B%E4%BB%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [记者实测喝完酱香拿铁吹检测仪](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E5%96%9D%E5%AE%8C%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%90%B9%E6%A3%80%E6%B5%8B%E4%BB%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [中央统战部原副部长崔茂虎被逮捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BB%9F%E6%88%98%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E5%B4%94%E8%8C%82%E8%99%8E%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [期待杭州亚运会到来](https://www.baidu.com/s?wd=%E6%9C%9F%E5%BE%85%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%88%B0%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [中央统战部原副部长崔茂虎被逮捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BB%9F%E6%88%98%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E5%B4%94%E8%8C%82%E8%99%8E%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [牵手瑞幸 茅台对打工人下手了](https://www.baidu.com/s?wd=%E7%89%B5%E6%89%8B%E7%91%9E%E5%B9%B8+%E8%8C%85%E5%8F%B0%E5%AF%B9%E6%89%93%E5%B7%A5%E4%BA%BA%E4%B8%8B%E6%89%8B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老刘想和傅首尔离婚的原因](https://www.baidu.com/s?wd=%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中铁五局被举报高速大桥偷工减料](https://www.baidu.com/s?wd=%E4%B8%AD%E9%93%81%E4%BA%94%E5%B1%80%E8%A2%AB%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E5%A4%A7%E6%A1%A5%E5%81%B7%E5%B7%A5%E5%87%8F%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [缅甸警局遭炸弹袭击致十余人受伤](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E8%AD%A6%E5%B1%80%E9%81%AD%E7%82%B8%E5%BC%B9%E8%A2%AD%E5%87%BB%E8%87%B4%E5%8D%81%E4%BD%99%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [天津大爷已经没空跳水了](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E5%B7%B2%E7%BB%8F%E6%B2%A1%E7%A9%BA%E8%B7%B3%E6%B0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河南有2.8万事实无人抚养儿童](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%9C%892.8%E4%B8%87%E4%BA%8B%E5%AE%9E%E6%97%A0%E4%BA%BA%E6%8A%9A%E5%85%BB%E5%84%BF%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子持刀刺伤牙医后自伤 警方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8C%81%E5%88%80%E5%88%BA%E4%BC%A4%E7%89%99%E5%8C%BB%E5%90%8E%E8%87%AA%E4%BC%A4+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
