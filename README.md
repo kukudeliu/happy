@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 22:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 22:46:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [大连一烤肉店挂牌谢绝日本人进入](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E4%B8%80%E7%83%A4%E8%82%89%E5%BA%97%E6%8C%82%E7%89%8C%E8%B0%A2%E7%BB%9D%E6%97%A5%E6%9C%AC%E4%BA%BA%E8%BF%9B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [天文台回应济南有不明飞行物坠落](https://www.baidu.com/s?wd=%E5%A4%A9%E6%96%87%E5%8F%B0%E5%9B%9E%E5%BA%94%E6%B5%8E%E5%8D%97%E6%9C%89%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%E5%9D%A0%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [老刘想和傅首尔离婚的原因](https://www.baidu.com/s?wd=%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子持刀刺伤牙医后自伤 警方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8C%81%E5%88%80%E5%88%BA%E4%BC%A4%E7%89%99%E5%8C%BB%E5%90%8E%E8%87%AA%E4%BC%A4+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [在咖啡中擅自添加茅台售卖属侵权](https://www.baidu.com/s?wd=%E5%9C%A8%E5%92%96%E5%95%A1%E4%B8%AD%E6%93%85%E8%87%AA%E6%B7%BB%E5%8A%A0%E8%8C%85%E5%8F%B0%E5%94%AE%E5%8D%96%E5%B1%9E%E4%BE%B5%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [大连一烤肉店挂牌谢绝日本人进入](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E4%B8%80%E7%83%A4%E8%82%89%E5%BA%97%E6%8C%82%E7%89%8C%E8%B0%A2%E7%BB%9D%E6%97%A5%E6%9C%AC%E4%BA%BA%E8%BF%9B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [天文台回应济南有不明飞行物坠落](https://www.baidu.com/s?wd=%E5%A4%A9%E6%96%87%E5%8F%B0%E5%9B%9E%E5%BA%94%E6%B5%8E%E5%8D%97%E6%9C%89%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%E5%9D%A0%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [老刘想和傅首尔离婚的原因](https://www.baidu.com/s?wd=%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子持刀刺伤牙医后自伤 警方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8C%81%E5%88%80%E5%88%BA%E4%BC%A4%E7%89%99%E5%8C%BB%E5%90%8E%E8%87%AA%E4%BC%A4+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [在咖啡中擅自添加茅台售卖属侵权](https://www.baidu.com/s?wd=%E5%9C%A8%E5%92%96%E5%95%A1%E4%B8%AD%E6%93%85%E8%87%AA%E6%B7%BB%E5%8A%A0%E8%8C%85%E5%8F%B0%E5%94%AE%E5%8D%96%E5%B1%9E%E4%BE%B5%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
