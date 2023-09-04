@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 10:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 10:34:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [河南有2.8万事实无人抚养儿童](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%9C%892.8%E4%B8%87%E4%BA%8B%E5%AE%9E%E6%97%A0%E4%BA%BA%E6%8A%9A%E5%85%BB%E5%84%BF%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东京新闻呼吁日媒不要煽动民族主义](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E6%96%B0%E9%97%BB%E5%91%BC%E5%90%81%E6%97%A5%E5%AA%92%E4%B8%8D%E8%A6%81%E7%85%BD%E5%8A%A8%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [瑞幸回应喝茅台联名咖啡能否开车](https://www.baidu.com/s?wd=%E7%91%9E%E5%B9%B8%E5%9B%9E%E5%BA%94%E5%96%9D%E8%8C%85%E5%8F%B0%E8%81%94%E5%90%8D%E5%92%96%E5%95%A1%E8%83%BD%E5%90%A6%E5%BC%80%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本政客出新招：到福岛冲浪](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%94%BF%E5%AE%A2%E5%87%BA%E6%96%B0%E6%8B%9B%EF%BC%9A%E5%88%B0%E7%A6%8F%E5%B2%9B%E5%86%B2%E6%B5%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [缅甸警局遭炸弹袭击致十余人受伤](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E8%AD%A6%E5%B1%80%E9%81%AD%E7%82%B8%E5%BC%B9%E8%A2%AD%E5%87%BB%E8%87%B4%E5%8D%81%E4%BD%99%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [河南有2.8万事实无人抚养儿童](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%9C%892.8%E4%B8%87%E4%BA%8B%E5%AE%9E%E6%97%A0%E4%BA%BA%E6%8A%9A%E5%85%BB%E5%84%BF%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东京新闻呼吁日媒不要煽动民族主义](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E6%96%B0%E9%97%BB%E5%91%BC%E5%90%81%E6%97%A5%E5%AA%92%E4%B8%8D%E8%A6%81%E7%85%BD%E5%8A%A8%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [瑞幸回应喝茅台联名咖啡能否开车](https://www.baidu.com/s?wd=%E7%91%9E%E5%B9%B8%E5%9B%9E%E5%BA%94%E5%96%9D%E8%8C%85%E5%8F%B0%E8%81%94%E5%90%8D%E5%92%96%E5%95%A1%E8%83%BD%E5%90%A6%E5%BC%80%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [日本政客出新招：到福岛冲浪](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%94%BF%E5%AE%A2%E5%87%BA%E6%96%B0%E6%8B%9B%EF%BC%9A%E5%88%B0%E7%A6%8F%E5%B2%9B%E5%86%B2%E6%B5%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [缅甸警局遭炸弹袭击致十余人受伤](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E8%AD%A6%E5%B1%80%E9%81%AD%E7%82%B8%E5%BC%B9%E8%A2%AD%E5%87%BB%E8%87%B4%E5%8D%81%E4%BD%99%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
