@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 07:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 07:09:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [天山天池拍到水怪？官方展开调查](https://www.baidu.com/s?wd=%E5%A4%A9%E5%B1%B1%E5%A4%A9%E6%B1%A0%E6%8B%8D%E5%88%B0%E6%B0%B4%E6%80%AA%EF%BC%9F%E5%AE%98%E6%96%B9%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [解锁亚运黑科技](https://www.baidu.com/s?wd=%E8%A7%A3%E9%94%81%E4%BA%9A%E8%BF%90%E9%BB%91%E7%A7%91%E6%8A%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [关键时刻换防长 泽连斯基打什么算盘](https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%E6%8D%A2%E9%98%B2%E9%95%BF+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%89%93%E4%BB%80%E4%B9%88%E7%AE%97%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子拍到男士们蹲在消防通道静心](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8B%8D%E5%88%B0%E7%94%B7%E5%A3%AB%E4%BB%AC%E8%B9%B2%E5%9C%A8%E6%B6%88%E9%98%B2%E9%80%9A%E9%81%93%E9%9D%99%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [记者实测喝完酱香拿铁吹检测仪](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E5%96%9D%E5%AE%8C%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%90%B9%E6%A3%80%E6%B5%8B%E4%BB%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老刘想和傅首尔离婚的原因](https://www.baidu.com/s?wd=%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [黑龙江佳木斯一宾馆发生坍塌](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%B8%80%E5%AE%BE%E9%A6%86%E5%8F%91%E7%94%9F%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [萌兰哥哥萌二也开始养鸟了](https://www.baidu.com/s?wd=%E8%90%8C%E5%85%B0%E5%93%A5%E5%93%A5%E8%90%8C%E4%BA%8C%E4%B9%9F%E5%BC%80%E5%A7%8B%E5%85%BB%E9%B8%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子拍到男士们蹲在消防通道静心](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8B%8D%E5%88%B0%E7%94%B7%E5%A3%AB%E4%BB%AC%E8%B9%B2%E5%9C%A8%E6%B6%88%E9%98%B2%E9%80%9A%E9%81%93%E9%9D%99%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [记者实测喝完酱香拿铁吹检测仪](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E5%96%9D%E5%AE%8C%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%90%B9%E6%A3%80%E6%B5%8B%E4%BB%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老刘想和傅首尔离婚的原因](https://www.baidu.com/s?wd=%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [天山天池拍到水怪？官方展开调查](https://www.baidu.com/s?wd=%E5%A4%A9%E5%B1%B1%E5%A4%A9%E6%B1%A0%E6%8B%8D%E5%88%B0%E6%B0%B4%E6%80%AA%EF%BC%9F%E5%AE%98%E6%96%B9%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [解锁亚运黑科技](https://www.baidu.com/s?wd=%E8%A7%A3%E9%94%81%E4%BA%9A%E8%BF%90%E9%BB%91%E7%A7%91%E6%8A%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [关键时刻换防长 泽连斯基打什么算盘](https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%E6%8D%A2%E9%98%B2%E9%95%BF+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%89%93%E4%BB%80%E4%B9%88%E7%AE%97%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子拍到男士们蹲在消防通道静心](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8B%8D%E5%88%B0%E7%94%B7%E5%A3%AB%E4%BB%AC%E8%B9%B2%E5%9C%A8%E6%B6%88%E9%98%B2%E9%80%9A%E9%81%93%E9%9D%99%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [记者实测喝完酱香拿铁吹检测仪](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E5%96%9D%E5%AE%8C%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%90%B9%E6%A3%80%E6%B5%8B%E4%BB%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老刘想和傅首尔离婚的原因](https://www.baidu.com/s?wd=%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [黑龙江佳木斯一宾馆发生坍塌](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%B8%80%E5%AE%BE%E9%A6%86%E5%8F%91%E7%94%9F%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [萌兰哥哥萌二也开始养鸟了](https://www.baidu.com/s?wd=%E8%90%8C%E5%85%B0%E5%93%A5%E5%93%A5%E8%90%8C%E4%BA%8C%E4%B9%9F%E5%BC%80%E5%A7%8B%E5%85%BB%E9%B8%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子拍到男士们蹲在消防通道静心](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8B%8D%E5%88%B0%E7%94%B7%E5%A3%AB%E4%BB%AC%E8%B9%B2%E5%9C%A8%E6%B6%88%E9%98%B2%E9%80%9A%E9%81%93%E9%9D%99%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [记者实测喝完酱香拿铁吹检测仪](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E5%96%9D%E5%AE%8C%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%90%B9%E6%A3%80%E6%B5%8B%E4%BB%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [老刘想和傅首尔离婚的原因](https://www.baidu.com/s?wd=%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
