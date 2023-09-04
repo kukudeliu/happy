@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 12:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 12:25:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [天津大爷已经没空跳水了](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E5%B7%B2%E7%BB%8F%E6%B2%A1%E7%A9%BA%E8%B7%B3%E6%B0%B4%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [博物馆里那些一眼惊艳的文案](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E7%89%A9%E9%A6%86%E9%87%8C%E9%82%A3%E4%BA%9B%E4%B8%80%E7%9C%BC%E6%83%8A%E8%89%B3%E7%9A%84%E6%96%87%E6%A1%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [高铁](https://s.weibo.com/weibo?q=%E9%AB%98%E9%93%81&t=31&band_rank=4&Refer=top)<br />
-5. [杨振宁 奥本海默](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%8C%AF%E5%AE%81%20%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98&t=31&band_rank=5&Refer=top)<br />
-6. [原来婴儿是没有后脚跟的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A9%B4%E5%84%BF%E6%98%AF%E6%B2%A1%E6%9C%89%E5%90%8E%E8%84%9A%E8%B7%9F%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
+5. [原来婴儿是没有后脚跟的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A9%B4%E5%84%BF%E6%98%AF%E6%B2%A1%E6%9C%89%E5%90%8E%E8%84%9A%E8%B7%9F%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
+6. [杨振宁 奥本海默](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%8C%AF%E5%AE%81%20%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98&t=31&band_rank=6&Refer=top)<br />
 7. [大熊猫花花的妈妈死亡](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%8A%B1%E8%8A%B1%E7%9A%84%E5%A6%88%E5%A6%88%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [酱香拿铁](https://s.weibo.com/weibo?q=%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81&t=31&band_rank=8&Refer=top)<br />
-9. [易烊千玺怀化市城市形象大使](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%80%80%E5%8C%96%E5%B8%82%E5%9F%8E%E5%B8%82%E5%BD%A2%E8%B1%A1%E5%A4%A7%E4%BD%BF%23&t=31&band_rank=9&Refer=top)<br />
+8. [滕州高铁站跳轨男子已被送医](https://s.weibo.com/weibo?q=%23%E6%BB%95%E5%B7%9E%E9%AB%98%E9%93%81%E7%AB%99%E8%B7%B3%E8%BD%A8%E7%94%B7%E5%AD%90%E5%B7%B2%E8%A2%AB%E9%80%81%E5%8C%BB%23&t=31&band_rank=8&Refer=top)<br />
+9. [酱香拿铁](https://s.weibo.com/weibo?q=%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
