@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 20:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 20:24:01</h4></div>
 
 > 微博  
 
@@ -21,10 +21,10 @@
 2. [记者实测喝完酱香拿铁吹检测仪](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E5%96%9D%E5%AE%8C%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%90%B9%E6%A3%80%E6%B5%8B%E4%BB%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [天山天池拍到水怪？官方展开调查](https://www.baidu.com/s?wd=%E5%A4%A9%E5%B1%B1%E5%A4%A9%E6%B1%A0%E6%8B%8D%E5%88%B0%E6%B0%B4%E6%80%AA%EF%BC%9F%E5%AE%98%E6%96%B9%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运观赛空间引燃亚运热潮](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E8%A7%82%E8%B5%9B%E7%A9%BA%E9%97%B4%E5%BC%95%E7%87%83%E4%BA%9A%E8%BF%90%E7%83%AD%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [中国男篮亚运会名单公布 周琦缺席](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83+%E5%91%A8%E7%90%A6%E7%BC%BA%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [辽宁一干部要求打扫砖缝无尘土沙粒](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%B9%B2%E9%83%A8%E8%A6%81%E6%B1%82%E6%89%93%E6%89%AB%E7%A0%96%E7%BC%9D%E6%97%A0%E5%B0%98%E5%9C%9F%E6%B2%99%E7%B2%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子拍到男士们蹲在消防通道静心](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8B%8D%E5%88%B0%E7%94%B7%E5%A3%AB%E4%BB%AC%E8%B9%B2%E5%9C%A8%E6%B6%88%E9%98%B2%E9%80%9A%E9%81%93%E9%9D%99%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老刘想和傅首尔离婚的原因](https://www.baidu.com/s?wd=%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [缅甸警局遭炸弹袭击致十余人受伤](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E8%AD%A6%E5%B1%80%E9%81%AD%E7%82%B8%E5%BC%B9%E8%A2%AD%E5%87%BB%E8%87%B4%E5%8D%81%E4%BD%99%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [蔡国庆成披哥3最大的黑马](https://www.baidu.com/s?wd=%E8%94%A1%E5%9B%BD%E5%BA%86%E6%88%90%E6%8A%AB%E5%93%A53%E6%9C%80%E5%A4%A7%E7%9A%84%E9%BB%91%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老刘想和傅首尔离婚的原因](https://www.baidu.com/s?wd=%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [老鼠咬坏白酒桶醉倒在超市](https://www.baidu.com/s?wd=%E8%80%81%E9%BC%A0%E5%92%AC%E5%9D%8F%E7%99%BD%E9%85%92%E6%A1%B6%E9%86%89%E5%80%92%E5%9C%A8%E8%B6%85%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -33,8 +33,8 @@
 2. [记者实测喝完酱香拿铁吹检测仪](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E5%96%9D%E5%AE%8C%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%90%B9%E6%A3%80%E6%B5%8B%E4%BB%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [天山天池拍到水怪？官方展开调查](https://www.baidu.com/s?wd=%E5%A4%A9%E5%B1%B1%E5%A4%A9%E6%B1%A0%E6%8B%8D%E5%88%B0%E6%B0%B4%E6%80%AA%EF%BC%9F%E5%AE%98%E6%96%B9%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运观赛空间引燃亚运热潮](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E8%A7%82%E8%B5%9B%E7%A9%BA%E9%97%B4%E5%BC%95%E7%87%83%E4%BA%9A%E8%BF%90%E7%83%AD%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [中国男篮亚运会名单公布 周琦缺席](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83+%E5%91%A8%E7%90%A6%E7%BC%BA%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [辽宁一干部要求打扫砖缝无尘土沙粒](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%B9%B2%E9%83%A8%E8%A6%81%E6%B1%82%E6%89%93%E6%89%AB%E7%A0%96%E7%BC%9D%E6%97%A0%E5%B0%98%E5%9C%9F%E6%B2%99%E7%B2%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子拍到男士们蹲在消防通道静心](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8B%8D%E5%88%B0%E7%94%B7%E5%A3%AB%E4%BB%AC%E8%B9%B2%E5%9C%A8%E6%B6%88%E9%98%B2%E9%80%9A%E9%81%93%E9%9D%99%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老刘想和傅首尔离婚的原因](https://www.baidu.com/s?wd=%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [缅甸警局遭炸弹袭击致十余人受伤](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E8%AD%A6%E5%B1%80%E9%81%AD%E7%82%B8%E5%BC%B9%E8%A2%AD%E5%87%BB%E8%87%B4%E5%8D%81%E4%BD%99%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [蔡国庆成披哥3最大的黑马](https://www.baidu.com/s?wd=%E8%94%A1%E5%9B%BD%E5%BA%86%E6%88%90%E6%8A%AB%E5%93%A53%E6%9C%80%E5%A4%A7%E7%9A%84%E9%BB%91%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老刘想和傅首尔离婚的原因](https://www.baidu.com/s?wd=%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [老鼠咬坏白酒桶醉倒在超市](https://www.baidu.com/s?wd=%E8%80%81%E9%BC%A0%E5%92%AC%E5%9D%8F%E7%99%BD%E9%85%92%E6%A1%B6%E9%86%89%E5%80%92%E5%9C%A8%E8%B6%85%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
