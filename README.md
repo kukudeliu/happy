@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 21:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 21:32:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [开放引领发展 合作共赢未来](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E5%BC%95%E9%A2%86%E5%8F%91%E5%B1%95+%E5%90%88%E4%BD%9C%E5%85%B1%E8%B5%A2%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平向2023中国国际智博会致贺信](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%912023%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E6%99%BA%E5%8D%9A%E4%BC%9A%E8%87%B4%E8%B4%BA%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [记者实测喝完酱香拿铁吹检测仪](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E5%96%9D%E5%AE%8C%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%90%B9%E6%A3%80%E6%B5%8B%E4%BB%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [天山天池拍到水怪？官方展开调查](https://www.baidu.com/s?wd=%E5%A4%A9%E5%B1%B1%E5%A4%A9%E6%B1%A0%E6%8B%8D%E5%88%B0%E6%B0%B4%E6%80%AA%EF%BC%9F%E5%AE%98%E6%96%B9%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [解锁亚运黑科技](https://www.baidu.com/s?wd=%E8%A7%A3%E9%94%81%E4%BA%9A%E8%BF%90%E9%BB%91%E7%A7%91%E6%8A%80&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [开放引领发展 合作共赢未来](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E5%BC%95%E9%A2%86%E5%8F%91%E5%B1%95+%E5%90%88%E4%BD%9C%E5%85%B1%E8%B5%A2%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平向2023中国国际智博会致贺信](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%912023%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E6%99%BA%E5%8D%9A%E4%BC%9A%E8%87%B4%E8%B4%BA%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [记者实测喝完酱香拿铁吹检测仪](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E5%96%9D%E5%AE%8C%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%90%B9%E6%A3%80%E6%B5%8B%E4%BB%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [天山天池拍到水怪？官方展开调查](https://www.baidu.com/s?wd=%E5%A4%A9%E5%B1%B1%E5%A4%A9%E6%B1%A0%E6%8B%8D%E5%88%B0%E6%B0%B4%E6%80%AA%EF%BC%9F%E5%AE%98%E6%96%B9%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [解锁亚运黑科技](https://www.baidu.com/s?wd=%E8%A7%A3%E9%94%81%E4%BA%9A%E8%BF%90%E9%BB%91%E7%A7%91%E6%8A%80&sa=fyb_news&rsv_dl=fyb_news)<br />
