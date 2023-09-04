@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 17:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 17:50:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [老刘想和傅首尔离婚的原因](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [何运晨带5本民法典录offer5](https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%BF%90%E6%99%A8%E5%B8%A65%E6%9C%AC%E6%B0%91%E6%B3%95%E5%85%B8%E5%BD%95offer5%23&t=31&band_rank=6&Refer=top)<br />
 7. [瑞幸回应喝茅台联名咖啡能否开车](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%9B%9E%E5%BA%94%E5%96%9D%E8%8C%85%E5%8F%B0%E8%81%94%E5%90%8D%E5%92%96%E5%95%A1%E8%83%BD%E5%90%A6%E5%BC%80%E8%BD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [薛之谦广州演唱会](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
-9. [满杯茅台去咖啡液](https://s.weibo.com/weibo?q=%23%E6%BB%A1%E6%9D%AF%E8%8C%85%E5%8F%B0%E5%8E%BB%E5%92%96%E5%95%A1%E6%B6%B2%23&t=31&band_rank=9&Refer=top)<br />
+8. [满杯茅台去咖啡液](https://s.weibo.com/weibo?q=%23%E6%BB%A1%E6%9D%AF%E8%8C%85%E5%8F%B0%E5%8E%BB%E5%92%96%E5%95%A1%E6%B6%B2%23&t=31&band_rank=8&Refer=top)<br />
+9. [薛之谦广州演唱会](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
