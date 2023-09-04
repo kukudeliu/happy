@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 14:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 14:06:01</h4></div>
 
 > 微博  
 
 1. [瑞幸回应喝茅台联名咖啡能否开车](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%9B%9E%E5%BA%94%E5%96%9D%E8%8C%85%E5%8F%B0%E8%81%94%E5%90%8D%E5%92%96%E5%95%A1%E8%83%BD%E5%90%A6%E5%BC%80%E8%BD%A6%23&t=31&band_rank=1&Refer=top)<br />
-2. [拒绝退伍军人买优惠票客车停运7天](https://s.weibo.com/weibo?q=%23%E6%8B%92%E7%BB%9D%E9%80%80%E4%BC%8D%E5%86%9B%E4%BA%BA%E4%B9%B0%E4%BC%98%E6%83%A0%E7%A5%A8%E5%AE%A2%E8%BD%A6%E5%81%9C%E8%BF%907%E5%A4%A9%23&t=31&band_rank=2&Refer=top)<br />
+2. [老刘想和傅首尔离婚的原因](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=2&Refer=top)<br />
 3. [博物馆里那些一眼惊艳的文案](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E7%89%A9%E9%A6%86%E9%87%8C%E9%82%A3%E4%BA%9B%E4%B8%80%E7%9C%BC%E6%83%8A%E8%89%B3%E7%9A%84%E6%96%87%E6%A1%88%23&t=31&band_rank=3&Refer=top)<br />
-4. [老刘想和傅首尔离婚的原因](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=4&Refer=top)<br />
+4. [拒绝退伍军人买优惠票客车停运7天](https://s.weibo.com/weibo?q=%23%E6%8B%92%E7%BB%9D%E9%80%80%E4%BC%8D%E5%86%9B%E4%BA%BA%E4%B9%B0%E4%BC%98%E6%83%A0%E7%A5%A8%E5%AE%A2%E8%BD%A6%E5%81%9C%E8%BF%907%E5%A4%A9%23&t=31&band_rank=4&Refer=top)<br />
 5. [中国女性肥胖比例不足10%](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E8%82%A5%E8%83%96%E6%AF%94%E4%BE%8B%E4%B8%8D%E8%B6%B310%25%23&t=31&band_rank=5&Refer=top)<br />
 6. [范丞丞关晓彤 小巷人家](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%85%B3%E6%99%93%E5%BD%A4%20%E5%B0%8F%E5%B7%B7%E4%BA%BA%E5%AE%B6&t=31&band_rank=6&Refer=top)<br />
 7. [一亿个孩子一间房](https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%BF%E4%B8%AA%E5%AD%A9%E5%AD%90%E4%B8%80%E9%97%B4%E6%88%BF&t=31&band_rank=7&Refer=top)<br />
