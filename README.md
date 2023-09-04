@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 15:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 15:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [山东滕州高铁站跳轨者已身亡](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%BB%95%E5%B7%9E%E9%AB%98%E9%93%81%E7%AB%99%E8%B7%B3%E8%BD%A8%E8%80%85%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [瑞幸客服回应酱香拿铁不加咖啡液](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E4%B8%8D%E5%8A%A0%E5%92%96%E5%95%A1%E6%B6%B2%23&t=31&band_rank=7&Refer=top)<br />
 8. [iPhone15新款手机壳曝光](https://s.weibo.com/weibo?q=%23iPhone15%E6%96%B0%E6%AC%BE%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%9B%9D%E5%85%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [针孔摄像头](https://s.weibo.com/weibo?q=%E9%92%88%E5%AD%94%E6%91%84%E5%83%8F%E5%A4%B4&t=31&band_rank=9&Refer=top)<br />
+9. [秀才爆红 老年人精神产品供应](https://s.weibo.com/weibo?q=%E7%A7%80%E6%89%8D%E7%88%86%E7%BA%A2%20%E8%80%81%E5%B9%B4%E4%BA%BA%E7%B2%BE%E7%A5%9E%E4%BA%A7%E5%93%81%E4%BE%9B%E5%BA%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
