@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 17:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 17:07:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [共促开放合作 共创美好未来](https://www.baidu.com/s?wd=%E5%85%B1%E4%BF%83%E5%BC%80%E6%94%BE%E5%90%88%E4%BD%9C+%E5%85%B1%E5%88%9B%E7%BE%8E%E5%A5%BD%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [开放引领发展 合作共赢未来](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E5%BC%95%E9%A2%86%E5%8F%91%E5%B1%95+%E5%90%88%E4%BD%9C%E5%85%B1%E8%B5%A2%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [记者实测喝完酱香拿铁吹检测仪](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E5%96%9D%E5%AE%8C%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%90%B9%E6%A3%80%E6%B5%8B%E4%BB%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [中央统战部原副部长崔茂虎被逮捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BB%9F%E6%88%98%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E5%B4%94%E8%8C%82%E8%99%8E%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运观赛空间引燃亚运热潮](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E8%A7%82%E8%B5%9B%E7%A9%BA%E9%97%B4%E5%BC%95%E7%87%83%E4%BA%9A%E8%BF%90%E7%83%AD%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [共促开放合作 共创美好未来](https://www.baidu.com/s?wd=%E5%85%B1%E4%BF%83%E5%BC%80%E6%94%BE%E5%90%88%E4%BD%9C+%E5%85%B1%E5%88%9B%E7%BE%8E%E5%A5%BD%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [开放引领发展 合作共赢未来](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E5%BC%95%E9%A2%86%E5%8F%91%E5%B1%95+%E5%90%88%E4%BD%9C%E5%85%B1%E8%B5%A2%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [记者实测喝完酱香拿铁吹检测仪](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E5%96%9D%E5%AE%8C%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%90%B9%E6%A3%80%E6%B5%8B%E4%BB%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [中央统战部原副部长崔茂虎被逮捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BB%9F%E6%88%98%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E5%B4%94%E8%8C%82%E8%99%8E%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运观赛空间引燃亚运热潮](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E8%A7%82%E8%B5%9B%E7%A9%BA%E9%97%B4%E5%BC%95%E7%87%83%E4%BA%9A%E8%BF%90%E7%83%AD%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
