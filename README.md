@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 10:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 10:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为什么好多人都消失在朋友圈了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [莲花楼男主选角](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%94%B7%E4%B8%BB%E9%80%89%E8%A7%92&t=31&band_rank=7&Refer=top)<br />
 8. [内马尔 我和梅西在巴黎经历了地狱](https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%20%E6%88%91%E5%92%8C%E6%A2%85%E8%A5%BF%E5%9C%A8%E5%B7%B4%E9%BB%8E%E7%BB%8F%E5%8E%86%E4%BA%86%E5%9C%B0%E7%8B%B1&t=31&band_rank=8&Refer=top)<br />
-9. [云之羽还没谈上就开始看眼色了](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%E8%BF%98%E6%B2%A1%E8%B0%88%E4%B8%8A%E5%B0%B1%E5%BC%80%E5%A7%8B%E7%9C%8B%E7%9C%BC%E8%89%B2%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [Melody参加再见爱人3的原因](https://s.weibo.com/weibo?q=%23Melody%E5%8F%82%E5%8A%A0%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA3%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
