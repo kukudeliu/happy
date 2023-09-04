@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 16:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 16:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [满杯茅台去咖啡液](https://s.weibo.com/weibo?q=%23%E6%BB%A1%E6%9D%AF%E8%8C%85%E5%8F%B0%E5%8E%BB%E5%92%96%E5%95%A1%E6%B6%B2%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子P付款截图4年逃单33万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90P%E4%BB%98%E6%AC%BE%E6%88%AA%E5%9B%BE4%E5%B9%B4%E9%80%83%E5%8D%9533%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [山东滕州高铁站跳轨者已身亡](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%BB%95%E5%B7%9E%E9%AB%98%E9%93%81%E7%AB%99%E8%B7%B3%E8%BD%A8%E8%80%85%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [日本福岛县近海地震](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%9B%E5%8E%BF%E8%BF%91%E6%B5%B7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [瑞幸客服回应酱香拿铁不加咖啡液](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E4%B8%8D%E5%8A%A0%E5%92%96%E5%95%A1%E6%B6%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
