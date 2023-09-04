@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 08:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 08:34:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [为什么好多人都消失在朋友圈了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体:华为动作在华盛顿引发担忧](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%3A%E5%8D%8E%E4%B8%BA%E5%8A%A8%E4%BD%9C%E5%9C%A8%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%BC%95%E5%8F%91%E6%8B%85%E5%BF%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [《云之羽》疑涉倭元素被抵制](https://www.baidu.com/s?wd=%E3%80%8A%E4%BA%91%E4%B9%8B%E7%BE%BD%E3%80%8B%E7%96%91%E6%B6%89%E5%80%AD%E5%85%83%E7%B4%A0%E8%A2%AB%E6%8A%B5%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子被狗撕碎左脸缝了500多针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E6%92%95%E7%A2%8E%E5%B7%A6%E8%84%B8%E7%BC%9D%E4%BA%86500%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胡锡进评奥本海默女演员被P上衣服](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E5%A5%B3%E6%BC%94%E5%91%98%E8%A2%ABP%E4%B8%8A%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [篮球世界杯八强名单](https://www.baidu.com/s?wd=%E7%AF%AE%E7%90%83%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA%E5%90%8D%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子被狗撕碎左脸缝了500多针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E6%92%95%E7%A2%8E%E5%B7%A6%E8%84%B8%E7%BC%9D%E4%BA%86500%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [为什么好多人都消失在朋友圈了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体:华为动作在华盛顿引发担忧](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%3A%E5%8D%8E%E4%B8%BA%E5%8A%A8%E4%BD%9C%E5%9C%A8%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%BC%95%E5%8F%91%E6%8B%85%E5%BF%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [《云之羽》疑涉倭元素被抵制](https://www.baidu.com/s?wd=%E3%80%8A%E4%BA%91%E4%B9%8B%E7%BE%BD%E3%80%8B%E7%96%91%E6%B6%89%E5%80%AD%E5%85%83%E7%B4%A0%E8%A2%AB%E6%8A%B5%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子被狗撕碎左脸缝了500多针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E6%92%95%E7%A2%8E%E5%B7%A6%E8%84%B8%E7%BC%9D%E4%BA%86500%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [胡锡进评奥本海默女演员被P上衣服](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E5%A5%B3%E6%BC%94%E5%91%98%E8%A2%ABP%E4%B8%8A%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [篮球世界杯八强名单](https://www.baidu.com/s?wd=%E7%AF%AE%E7%90%83%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA%E5%90%8D%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子被狗撕碎左脸缝了500多针](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E6%92%95%E7%A2%8E%E5%B7%A6%E8%84%B8%E7%BC%9D%E4%BA%86500%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
