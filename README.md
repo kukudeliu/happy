@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 23:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 23:41:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [瑞幸公开原料生产记录视频](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%85%AC%E5%BC%80%E5%8E%9F%E6%96%99%E7%94%9F%E4%BA%A7%E8%AE%B0%E5%BD%95%E8%A7%86%E9%A2%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [亲爱的雪 我已嫁入豪门](https://s.weibo.com/weibo?q=%E4%BA%B2%E7%88%B1%E7%9A%84%E9%9B%AA%20%E6%88%91%E5%B7%B2%E5%AB%81%E5%85%A5%E8%B1%AA%E9%97%A8&t=31&band_rank=6&Refer=top)<br />
 7. [在咖啡中擅自添加茅台售卖是侵权行为](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%92%96%E5%95%A1%E4%B8%AD%E6%93%85%E8%87%AA%E6%B7%BB%E5%8A%A0%E8%8C%85%E5%8F%B0%E5%94%AE%E5%8D%96%E6%98%AF%E4%BE%B5%E6%9D%83%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [瑞幸 真茅台](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%20%E7%9C%9F%E8%8C%85%E5%8F%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩国推出只有名人可以加入的社交平台](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%8E%A8%E5%87%BA%E5%8F%AA%E6%9C%89%E5%90%8D%E4%BA%BA%E5%8F%AF%E4%BB%A5%E5%8A%A0%E5%85%A5%E7%9A%84%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0&t=31&band_rank=9&Refer=top)<br />
+8. [没想到现在取快递这么高级了](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E7%8E%B0%E5%9C%A8%E5%8F%96%E5%BF%AB%E9%80%92%E8%BF%99%E4%B9%88%E9%AB%98%E7%BA%A7%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [瑞幸 真茅台](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%20%E7%9C%9F%E8%8C%85%E5%8F%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
