@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 23:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 23:06:02</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [解锁亚运黑科技](https://www.baidu.com/s?wd=%E8%A7%A3%E9%94%81%E4%BA%9A%E8%BF%90%E9%BB%91%E7%A7%91%E6%8A%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [辽宁一干部要求打扫砖缝无尘土沙粒](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%B9%B2%E9%83%A8%E8%A6%81%E6%B1%82%E6%89%93%E6%89%AB%E7%A0%96%E7%BC%9D%E6%97%A0%E5%B0%98%E5%9C%9F%E6%B2%99%E7%B2%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大连一烤肉店挂牌谢绝日本人进入](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E4%B8%80%E7%83%A4%E8%82%89%E5%BA%97%E6%8C%82%E7%89%8C%E8%B0%A2%E7%BB%9D%E6%97%A5%E6%9C%AC%E4%BA%BA%E8%BF%9B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [曝侃爷被船舶公司终身禁坐](https://www.baidu.com/s?wd=%E6%9B%9D%E4%BE%83%E7%88%B7%E8%A2%AB%E8%88%B9%E8%88%B6%E5%85%AC%E5%8F%B8%E7%BB%88%E8%BA%AB%E7%A6%81%E5%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [在咖啡中擅自添加茅台售卖属侵权](https://www.baidu.com/s?wd=%E5%9C%A8%E5%92%96%E5%95%A1%E4%B8%AD%E6%93%85%E8%87%AA%E6%B7%BB%E5%8A%A0%E8%8C%85%E5%8F%B0%E5%94%AE%E5%8D%96%E5%B1%9E%E4%BE%B5%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为什么好多人都消失在朋友圈了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [在咖啡中擅自添加茅台售卖属侵权](https://www.baidu.com/s?wd=%E5%9C%A8%E5%92%96%E5%95%A1%E4%B8%AD%E6%93%85%E8%87%AA%E6%B7%BB%E5%8A%A0%E8%8C%85%E5%8F%B0%E5%94%AE%E5%8D%96%E5%B1%9E%E4%BE%B5%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝侃爷被船舶公司终身禁坐](https://www.baidu.com/s?wd=%E6%9B%9D%E4%BE%83%E7%88%B7%E8%A2%AB%E8%88%B9%E8%88%B6%E5%85%AC%E5%8F%B8%E7%BB%88%E8%BA%AB%E7%A6%81%E5%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中央统战部原副部长崔茂虎被逮捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BB%9F%E6%88%98%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E5%B4%94%E8%8C%82%E8%99%8E%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [解锁亚运黑科技](https://www.baidu.com/s?wd=%E8%A7%A3%E9%94%81%E4%BA%9A%E8%BF%90%E9%BB%91%E7%A7%91%E6%8A%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [辽宁一干部要求打扫砖缝无尘土沙粒](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%B9%B2%E9%83%A8%E8%A6%81%E6%B1%82%E6%89%93%E6%89%AB%E7%A0%96%E7%BC%9D%E6%97%A0%E5%B0%98%E5%9C%9F%E6%B2%99%E7%B2%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大连一烤肉店挂牌谢绝日本人进入](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E4%B8%80%E7%83%A4%E8%82%89%E5%BA%97%E6%8C%82%E7%89%8C%E8%B0%A2%E7%BB%9D%E6%97%A5%E6%9C%AC%E4%BA%BA%E8%BF%9B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [曝侃爷被船舶公司终身禁坐](https://www.baidu.com/s?wd=%E6%9B%9D%E4%BE%83%E7%88%B7%E8%A2%AB%E8%88%B9%E8%88%B6%E5%85%AC%E5%8F%B8%E7%BB%88%E8%BA%AB%E7%A6%81%E5%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [在咖啡中擅自添加茅台售卖属侵权](https://www.baidu.com/s?wd=%E5%9C%A8%E5%92%96%E5%95%A1%E4%B8%AD%E6%93%85%E8%87%AA%E6%B7%BB%E5%8A%A0%E8%8C%85%E5%8F%B0%E5%94%AE%E5%8D%96%E5%B1%9E%E4%BE%B5%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为什么好多人都消失在朋友圈了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [在咖啡中擅自添加茅台售卖属侵权](https://www.baidu.com/s?wd=%E5%9C%A8%E5%92%96%E5%95%A1%E4%B8%AD%E6%93%85%E8%87%AA%E6%B7%BB%E5%8A%A0%E8%8C%85%E5%8F%B0%E5%94%AE%E5%8D%96%E5%B1%9E%E4%BE%B5%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝侃爷被船舶公司终身禁坐](https://www.baidu.com/s?wd=%E6%9B%9D%E4%BE%83%E7%88%B7%E8%A2%AB%E8%88%B9%E8%88%B6%E5%85%AC%E5%8F%B8%E7%BB%88%E8%BA%AB%E7%A6%81%E5%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中央统战部原副部长崔茂虎被逮捕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BB%9F%E6%88%98%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E5%B4%94%E8%8C%82%E8%99%8E%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
