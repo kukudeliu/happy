@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 02:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 02:59:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [天山天池拍到水怪？官方展开调查](https://www.baidu.com/s?wd=%E5%A4%A9%E5%B1%B1%E5%A4%A9%E6%B1%A0%E6%8B%8D%E5%88%B0%E6%B0%B4%E6%80%AA%EF%BC%9F%E5%AE%98%E6%96%B9%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [解锁亚运黑科技](https://www.baidu.com/s?wd=%E8%A7%A3%E9%94%81%E4%BA%9A%E8%BF%90%E9%BB%91%E7%A7%91%E6%8A%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [关键时刻换防长 泽连斯基打什么算盘](https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%E6%8D%A2%E9%98%B2%E9%95%BF+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%89%93%E4%BB%80%E4%B9%88%E7%AE%97%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [为什么好多人都消失在朋友圈了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [上海现不明飞行物 似火球般高速坠落](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9+%E4%BC%BC%E7%81%AB%E7%90%83%E8%88%AC%E9%AB%98%E9%80%9F%E5%9D%A0%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [在咖啡中擅自添加茅台售卖属侵权](https://www.baidu.com/s?wd=%E5%9C%A8%E5%92%96%E5%95%A1%E4%B8%AD%E6%93%85%E8%87%AA%E6%B7%BB%E5%8A%A0%E8%8C%85%E5%8F%B0%E5%94%AE%E5%8D%96%E5%B1%9E%E4%BE%B5%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [黑龙江佳木斯一宾馆发生坍塌](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%B8%80%E5%AE%BE%E9%A6%86%E5%8F%91%E7%94%9F%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [奥本海默内地票房破2亿](https://www.baidu.com/s?wd=%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E5%86%85%E5%9C%B0%E7%A5%A8%E6%88%BF%E7%A0%B42%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [黑龙江一冰淇淋公司突发火灾](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%86%B0%E6%B7%87%E6%B7%8B%E5%85%AC%E5%8F%B8%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上海现不明飞行物 似火球般高速坠落](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9+%E4%BC%BC%E7%81%AB%E7%90%83%E8%88%AC%E9%AB%98%E9%80%9F%E5%9D%A0%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为什么好多人都消失在朋友圈了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [天山天池拍到水怪？官方展开调查](https://www.baidu.com/s?wd=%E5%A4%A9%E5%B1%B1%E5%A4%A9%E6%B1%A0%E6%8B%8D%E5%88%B0%E6%B0%B4%E6%80%AA%EF%BC%9F%E5%AE%98%E6%96%B9%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [解锁亚运黑科技](https://www.baidu.com/s?wd=%E8%A7%A3%E9%94%81%E4%BA%9A%E8%BF%90%E9%BB%91%E7%A7%91%E6%8A%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [关键时刻换防长 泽连斯基打什么算盘](https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%E6%8D%A2%E9%98%B2%E9%95%BF+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%89%93%E4%BB%80%E4%B9%88%E7%AE%97%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [为什么好多人都消失在朋友圈了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [上海现不明飞行物 似火球般高速坠落](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9+%E4%BC%BC%E7%81%AB%E7%90%83%E8%88%AC%E9%AB%98%E9%80%9F%E5%9D%A0%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [在咖啡中擅自添加茅台售卖属侵权](https://www.baidu.com/s?wd=%E5%9C%A8%E5%92%96%E5%95%A1%E4%B8%AD%E6%93%85%E8%87%AA%E6%B7%BB%E5%8A%A0%E8%8C%85%E5%8F%B0%E5%94%AE%E5%8D%96%E5%B1%9E%E4%BE%B5%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [黑龙江佳木斯一宾馆发生坍塌](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%B8%80%E5%AE%BE%E9%A6%86%E5%8F%91%E7%94%9F%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [奥本海默内地票房破2亿](https://www.baidu.com/s?wd=%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E5%86%85%E5%9C%B0%E7%A5%A8%E6%88%BF%E7%A0%B42%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [黑龙江一冰淇淋公司突发火灾](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%86%B0%E6%B7%87%E6%B7%8B%E5%85%AC%E5%8F%B8%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上海现不明飞行物 似火球般高速坠落](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9+%E4%BC%BC%E7%81%AB%E7%90%83%E8%88%AC%E9%AB%98%E9%80%9F%E5%9D%A0%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为什么好多人都消失在朋友圈了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
