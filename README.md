@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 11:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 11:43:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [残疾军人买优惠票乘车遭拒 官方通报](https://www.baidu.com/s?wd=%E6%AE%8B%E7%96%BE%E5%86%9B%E4%BA%BA%E4%B9%B0%E4%BC%98%E6%83%A0%E7%A5%A8%E4%B9%98%E8%BD%A6%E9%81%AD%E6%8B%92+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [呼和浩特现雷暴哮喘 记者实探医院](https://www.baidu.com/s?wd=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E7%8E%B0%E9%9B%B7%E6%9A%B4%E5%93%AE%E5%96%98+%E8%AE%B0%E8%80%85%E5%AE%9E%E6%8E%A2%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河南有2.8万事实无人抚养儿童](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%9C%892.8%E4%B8%87%E4%BA%8B%E5%AE%9E%E6%97%A0%E4%BA%BA%E6%8A%9A%E5%85%BB%E5%84%BF%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [四川美院教授抄袭外国画家判赔500万](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%BE%8E%E9%99%A2%E6%95%99%E6%8E%88%E6%8A%84%E8%A2%AD%E5%A4%96%E5%9B%BD%E7%94%BB%E5%AE%B6%E5%88%A4%E8%B5%94500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [明代三十二长城遭拦腰“斩断”](https://www.baidu.com/s?wd=%E6%98%8E%E4%BB%A3%E4%B8%89%E5%8D%81%E4%BA%8C%E9%95%BF%E5%9F%8E%E9%81%AD%E6%8B%A6%E8%85%B0%E2%80%9C%E6%96%A9%E6%96%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [明代三十二长城遭拦腰“斩断”](https://www.baidu.com/s?wd=%E6%98%8E%E4%BB%A3%E4%B8%89%E5%8D%81%E4%BA%8C%E9%95%BF%E5%9F%8E%E9%81%AD%E6%8B%A6%E8%85%B0%E2%80%9C%E6%96%A9%E6%96%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为什么好多人都消失在朋友圈了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [残疾军人买优惠票乘车遭拒 官方通报](https://www.baidu.com/s?wd=%E6%AE%8B%E7%96%BE%E5%86%9B%E4%BA%BA%E4%B9%B0%E4%BC%98%E6%83%A0%E7%A5%A8%E4%B9%98%E8%BD%A6%E9%81%AD%E6%8B%92+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [呼和浩特现雷暴哮喘 记者实探医院](https://www.baidu.com/s?wd=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E7%8E%B0%E9%9B%B7%E6%9A%B4%E5%93%AE%E5%96%98+%E8%AE%B0%E8%80%85%E5%AE%9E%E6%8E%A2%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河南有2.8万事实无人抚养儿童](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%9C%892.8%E4%B8%87%E4%BA%8B%E5%AE%9E%E6%97%A0%E4%BA%BA%E6%8A%9A%E5%85%BB%E5%84%BF%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [四川美院教授抄袭外国画家判赔500万](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%BE%8E%E9%99%A2%E6%95%99%E6%8E%88%E6%8A%84%E8%A2%AD%E5%A4%96%E5%9B%BD%E7%94%BB%E5%AE%B6%E5%88%A4%E8%B5%94500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [明代三十二长城遭拦腰“斩断”](https://www.baidu.com/s?wd=%E6%98%8E%E4%BB%A3%E4%B8%89%E5%8D%81%E4%BA%8C%E9%95%BF%E5%9F%8E%E9%81%AD%E6%8B%A6%E8%85%B0%E2%80%9C%E6%96%A9%E6%96%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [明代三十二长城遭拦腰“斩断”](https://www.baidu.com/s?wd=%E6%98%8E%E4%BB%A3%E4%B8%89%E5%8D%81%E4%BA%8C%E9%95%BF%E5%9F%8E%E9%81%AD%E6%8B%A6%E8%85%B0%E2%80%9C%E6%96%A9%E6%96%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为什么好多人都消失在朋友圈了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
