@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 17:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 17:08:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [亚运观赛空间引燃亚运热潮](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E8%A7%82%E8%B5%9B%E7%A9%BA%E9%97%B4%E5%BC%95%E7%87%83%E4%BA%9A%E8%BF%90%E7%83%AD%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蒋依依工作室回应涉嫌偷税漏税](https://www.baidu.com/s?wd=%E8%92%8B%E4%BE%9D%E4%BE%9D%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%E6%B6%89%E5%AB%8C%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [河北车主运气爆表摇到X99999](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E8%BD%A6%E4%B8%BB%E8%BF%90%E6%B0%94%E7%88%86%E8%A1%A8%E6%91%87%E5%88%B0X99999&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [欺行霸市团伙被端 商户放烟花庆祝](https://www.baidu.com/s?wd=%E6%AC%BA%E8%A1%8C%E9%9C%B8%E5%B8%82%E5%9B%A2%E4%BC%99%E8%A2%AB%E7%AB%AF+%E5%95%86%E6%88%B7%E6%94%BE%E7%83%9F%E8%8A%B1%E5%BA%86%E7%A5%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男孩喝饮料上瘾牙全烂14岁戴假牙](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%96%9D%E9%A5%AE%E6%96%99%E4%B8%8A%E7%98%BE%E7%89%99%E5%85%A8%E7%83%8214%E5%B2%81%E6%88%B4%E5%81%87%E7%89%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中铁五局被举报高速大桥偷工减料](https://www.baidu.com/s?wd=%E4%B8%AD%E9%93%81%E4%BA%94%E5%B1%80%E8%A2%AB%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E5%A4%A7%E6%A1%A5%E5%81%B7%E5%B7%A5%E5%87%8F%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [任正非称华为储备人才不储备美元](https://www.baidu.com/s?wd=%E4%BB%BB%E6%AD%A3%E9%9D%9E%E7%A7%B0%E5%8D%8E%E4%B8%BA%E5%82%A8%E5%A4%87%E4%BA%BA%E6%89%8D%E4%B8%8D%E5%82%A8%E5%A4%87%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泽连斯基解除乌防长职务](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%A7%A3%E9%99%A4%E4%B9%8C%E9%98%B2%E9%95%BF%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [亚运观赛空间引燃亚运热潮](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E8%A7%82%E8%B5%9B%E7%A9%BA%E9%97%B4%E5%BC%95%E7%87%83%E4%BA%9A%E8%BF%90%E7%83%AD%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蒋依依工作室回应涉嫌偷税漏税](https://www.baidu.com/s?wd=%E8%92%8B%E4%BE%9D%E4%BE%9D%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%E6%B6%89%E5%AB%8C%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [河北车主运气爆表摇到X99999](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E8%BD%A6%E4%B8%BB%E8%BF%90%E6%B0%94%E7%88%86%E8%A1%A8%E6%91%87%E5%88%B0X99999&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [欺行霸市团伙被端 商户放烟花庆祝](https://www.baidu.com/s?wd=%E6%AC%BA%E8%A1%8C%E9%9C%B8%E5%B8%82%E5%9B%A2%E4%BC%99%E8%A2%AB%E7%AB%AF+%E5%95%86%E6%88%B7%E6%94%BE%E7%83%9F%E8%8A%B1%E5%BA%86%E7%A5%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男孩喝饮料上瘾牙全烂14岁戴假牙](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%96%9D%E9%A5%AE%E6%96%99%E4%B8%8A%E7%98%BE%E7%89%99%E5%85%A8%E7%83%8214%E5%B2%81%E6%88%B4%E5%81%87%E7%89%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中铁五局被举报高速大桥偷工减料](https://www.baidu.com/s?wd=%E4%B8%AD%E9%93%81%E4%BA%94%E5%B1%80%E8%A2%AB%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E5%A4%A7%E6%A1%A5%E5%81%B7%E5%B7%A5%E5%87%8F%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [任正非称华为储备人才不储备美元](https://www.baidu.com/s?wd=%E4%BB%BB%E6%AD%A3%E9%9D%9E%E7%A7%B0%E5%8D%8E%E4%B8%BA%E5%82%A8%E5%A4%87%E4%BA%BA%E6%89%8D%E4%B8%8D%E5%82%A8%E5%A4%87%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泽连斯基解除乌防长职务](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%A7%A3%E9%99%A4%E4%B9%8C%E9%98%B2%E9%95%BF%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
