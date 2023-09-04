@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 08:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 08:39:01</h4></div>
 
 > 微博  
 
 1. [大熊猫成功死亡](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%88%90%E5%8A%9F%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=1&Refer=top)<br />
 2. [为什么好多人都消失在朋友圈了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [迎亚运的杭州好漂亮](https://s.weibo.com/weibo?q=%23%E8%BF%8E%E4%BA%9A%E8%BF%90%E7%9A%84%E6%9D%AD%E5%B7%9E%E5%A5%BD%E6%BC%82%E4%BA%AE%23&t=31&band_rank=3&Refer=top)<br />
-4. [原来大学没课时可以搞那么多事](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%AD%A6%E6%B2%A1%E8%AF%BE%E6%97%B6%E5%8F%AF%E4%BB%A5%E6%90%9E%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%8B&t=31&band_rank=4&Refer=top)<br />
-5. [湖南被患者抹脖子牙医朋友发声](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E8%A2%AB%E6%82%A3%E8%80%85%E6%8A%B9%E8%84%96%E5%AD%90%E7%89%99%E5%8C%BB%E6%9C%8B%E5%8F%8B%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
-6. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=6&Refer=top)<br />
-7. [Twins说毛不易粤语像她们普通话一样标准](https://s.weibo.com/weibo?q=%23Twins%E8%AF%B4%E6%AF%9B%E4%B8%8D%E6%98%93%E7%B2%A4%E8%AF%AD%E5%83%8F%E5%A5%B9%E4%BB%AC%E6%99%AE%E9%80%9A%E8%AF%9D%E4%B8%80%E6%A0%B7%E6%A0%87%E5%87%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [清华大学研究生重量级宿舍](https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E9%87%8D%E9%87%8F%E7%BA%A7%E5%AE%BF%E8%88%8D&t=31&band_rank=8&Refer=top)<br />
-9. [央视主持人做饭好像过大年](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%81%9A%E9%A5%AD%E5%A5%BD%E5%83%8F%E8%BF%87%E5%A4%A7%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
+4. [郭小四搁这儿拍小时代呢](https://s.weibo.com/weibo?q=%E9%83%AD%E5%B0%8F%E5%9B%9B%E6%90%81%E8%BF%99%E5%84%BF%E6%8B%8D%E5%B0%8F%E6%97%B6%E4%BB%A3%E5%91%A2&t=31&band_rank=4&Refer=top)<br />
+5. [原来大学没课时可以搞那么多事](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%AD%A6%E6%B2%A1%E8%AF%BE%E6%97%B6%E5%8F%AF%E4%BB%A5%E6%90%9E%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%8B&t=31&band_rank=5&Refer=top)<br />
+6. [内马尔 我和梅西在巴黎经历了地狱](https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%20%E6%88%91%E5%92%8C%E6%A2%85%E8%A5%BF%E5%9C%A8%E5%B7%B4%E9%BB%8E%E7%BB%8F%E5%8E%86%E4%BA%86%E5%9C%B0%E7%8B%B1&t=31&band_rank=6&Refer=top)<br />
+7. [湖南被患者抹脖子牙医朋友发声](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E8%A2%AB%E6%82%A3%E8%80%85%E6%8A%B9%E8%84%96%E5%AD%90%E7%89%99%E5%8C%BB%E6%9C%8B%E5%8F%8B%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
+8. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=8&Refer=top)<br />
+9. [Twins说毛不易粤语像她们普通话一样标准](https://s.weibo.com/weibo?q=%23Twins%E8%AF%B4%E6%AF%9B%E4%B8%8D%E6%98%93%E7%B2%A4%E8%AF%AD%E5%83%8F%E5%A5%B9%E4%BB%AC%E6%99%AE%E9%80%9A%E8%AF%9D%E4%B8%80%E6%A0%B7%E6%A0%87%E5%87%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
