@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 15:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 15:59:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [记者实测喝完酱香拿铁吹检测仪](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E5%96%9D%E5%AE%8C%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%90%B9%E6%A3%80%E6%B5%8B%E4%BB%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [期待杭州亚运会到来](https://www.baidu.com/s?wd=%E6%9C%9F%E5%BE%85%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%88%B0%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [老刘想和傅首尔离婚的原因](https://www.baidu.com/s?wd=%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [酱香拿铁被评价像玫瑰腐乳汁](https://www.baidu.com/s?wd=%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E8%A2%AB%E8%AF%84%E4%BB%B7%E5%83%8F%E7%8E%AB%E7%91%B0%E8%85%90%E4%B9%B3%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [山东滕州高铁站跳轨男子已死亡](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%BB%95%E5%B7%9E%E9%AB%98%E9%93%81%E7%AB%99%E8%B7%B3%E8%BD%A8%E7%94%B7%E5%AD%90%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [塞尔维亚男篮球员被肘击后摘肾](https://www.baidu.com/s?wd=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E7%94%B7%E7%AF%AE%E7%90%83%E5%91%98%E8%A2%AB%E8%82%98%E5%87%BB%E5%90%8E%E6%91%98%E8%82%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [天津大爷已经没空跳水了](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E5%B7%B2%E7%BB%8F%E6%B2%A1%E7%A9%BA%E8%B7%B3%E6%B0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [逃出大英博物馆为啥能火](https://www.baidu.com/s?wd=%E9%80%83%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E4%B8%BA%E5%95%A5%E8%83%BD%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [酱香拿铁被评价像玫瑰腐乳汁](https://www.baidu.com/s?wd=%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E8%A2%AB%E8%AF%84%E4%BB%B7%E5%83%8F%E7%8E%AB%E7%91%B0%E8%85%90%E4%B9%B3%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山东滕州高铁站跳轨男子已死亡](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%BB%95%E5%B7%9E%E9%AB%98%E9%93%81%E7%AB%99%E8%B7%B3%E8%BD%A8%E7%94%B7%E5%AD%90%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [云之羽 小时代5封建时代](https://www.baidu.com/s?wd=%E4%BA%91%E4%B9%8B%E7%BE%BD+%E5%B0%8F%E6%97%B6%E4%BB%A35%E5%B0%81%E5%BB%BA%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [记者实测喝完酱香拿铁吹检测仪](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E5%96%9D%E5%AE%8C%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%90%B9%E6%A3%80%E6%B5%8B%E4%BB%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [期待杭州亚运会到来](https://www.baidu.com/s?wd=%E6%9C%9F%E5%BE%85%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%88%B0%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [老刘想和傅首尔离婚的原因](https://www.baidu.com/s?wd=%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [酱香拿铁被评价像玫瑰腐乳汁](https://www.baidu.com/s?wd=%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E8%A2%AB%E8%AF%84%E4%BB%B7%E5%83%8F%E7%8E%AB%E7%91%B0%E8%85%90%E4%B9%B3%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [山东滕州高铁站跳轨男子已死亡](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%BB%95%E5%B7%9E%E9%AB%98%E9%93%81%E7%AB%99%E8%B7%B3%E8%BD%A8%E7%94%B7%E5%AD%90%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [塞尔维亚男篮球员被肘击后摘肾](https://www.baidu.com/s?wd=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E7%94%B7%E7%AF%AE%E7%90%83%E5%91%98%E8%A2%AB%E8%82%98%E5%87%BB%E5%90%8E%E6%91%98%E8%82%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [天津大爷已经没空跳水了](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E5%B7%B2%E7%BB%8F%E6%B2%A1%E7%A9%BA%E8%B7%B3%E6%B0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [逃出大英博物馆为啥能火](https://www.baidu.com/s?wd=%E9%80%83%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E4%B8%BA%E5%95%A5%E8%83%BD%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [酱香拿铁被评价像玫瑰腐乳汁](https://www.baidu.com/s?wd=%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E8%A2%AB%E8%AF%84%E4%BB%B7%E5%83%8F%E7%8E%AB%E7%91%B0%E8%85%90%E4%B9%B3%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山东滕州高铁站跳轨男子已死亡](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%BB%95%E5%B7%9E%E9%AB%98%E9%93%81%E7%AB%99%E8%B7%B3%E8%BD%A8%E7%94%B7%E5%AD%90%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [云之羽 小时代5封建时代](https://www.baidu.com/s?wd=%E4%BA%91%E4%B9%8B%E7%BE%BD+%E5%B0%8F%E6%97%B6%E4%BB%A35%E5%B0%81%E5%BB%BA%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
