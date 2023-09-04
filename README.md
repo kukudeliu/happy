@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 08:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 08:16:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=5&Refer=top)<br />
 6. [Twins说毛不易粤语像她们普通话一样标准](https://s.weibo.com/weibo?q=%23Twins%E8%AF%B4%E6%AF%9B%E4%B8%8D%E6%98%93%E7%B2%A4%E8%AF%AD%E5%83%8F%E5%A5%B9%E4%BB%AC%E6%99%AE%E9%80%9A%E8%AF%9D%E4%B8%80%E6%A0%B7%E6%A0%87%E5%87%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [花花没有妈妈了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E6%B2%A1%E6%9C%89%E5%A6%88%E5%A6%88%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [适合做老婆 不是赞扬是冒犯](https://s.weibo.com/weibo?q=%E9%80%82%E5%90%88%E5%81%9A%E8%80%81%E5%A9%86%20%E4%B8%8D%E6%98%AF%E8%B5%9E%E6%89%AC%E6%98%AF%E5%86%92%E7%8A%AF&t=31&band_rank=8&Refer=top)<br />
-9. [清华大学研究生重量级宿舍](https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E9%87%8D%E9%87%8F%E7%BA%A7%E5%AE%BF%E8%88%8D&t=31&band_rank=9&Refer=top)<br />
+8. [清华大学研究生重量级宿舍](https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E9%87%8D%E9%87%8F%E7%BA%A7%E5%AE%BF%E8%88%8D&t=31&band_rank=8&Refer=top)<br />
+9. [适合做老婆 不是赞扬是冒犯](https://s.weibo.com/weibo?q=%E9%80%82%E5%90%88%E5%81%9A%E8%80%81%E5%A9%86%20%E4%B8%8D%E6%98%AF%E8%B5%9E%E6%89%AC%E6%98%AF%E5%86%92%E7%8A%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
