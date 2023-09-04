@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 15:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 15:23:01</h4></div>
 
 > 微博  
 
-1. [杨迪信息被泄露](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E4%BF%A1%E6%81%AF%E8%A2%AB%E6%B3%84%E9%9C%B2%23&t=31&band_rank=1&Refer=top)<br />
-2. [老刘想和傅首尔离婚的原因](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=2&Refer=top)<br />
+1. [老刘想和傅首尔离婚的原因](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=1&Refer=top)<br />
+2. [杨迪信息被泄露](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E4%BF%A1%E6%81%AF%E8%A2%AB%E6%B3%84%E9%9C%B2%23&t=31&band_rank=2&Refer=top)<br />
 3. [博物馆里那些一眼惊艳的文案](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E7%89%A9%E9%A6%86%E9%87%8C%E9%82%A3%E4%BA%9B%E4%B8%80%E7%9C%BC%E6%83%8A%E8%89%B3%E7%9A%84%E6%96%87%E6%A1%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [瑞幸回应喝茅台联名咖啡能否开车](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%9B%9E%E5%BA%94%E5%96%9D%E8%8C%85%E5%8F%B0%E8%81%94%E5%90%8D%E5%92%96%E5%95%A1%E8%83%BD%E5%90%A6%E5%BC%80%E8%BD%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [山东滕州高铁站跳轨者已身亡](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%BB%95%E5%B7%9E%E9%AB%98%E9%93%81%E7%AB%99%E8%B7%B3%E8%BD%A8%E8%80%85%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
