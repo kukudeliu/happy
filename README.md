@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 19:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 19:14:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [天山天池拍到水怪？官方展开调查](https://www.baidu.com/s?wd=%E5%A4%A9%E5%B1%B1%E5%A4%A9%E6%B1%A0%E6%8B%8D%E5%88%B0%E6%B0%B4%E6%80%AA%EF%BC%9F%E5%AE%98%E6%96%B9%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一杯酱香拿铁里的茅台酒成本有多高](https://www.baidu.com/s?wd=%E4%B8%80%E6%9D%AF%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E9%87%8C%E7%9A%84%E8%8C%85%E5%8F%B0%E9%85%92%E6%88%90%E6%9C%AC%E6%9C%89%E5%A4%9A%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高以翔生前女友以歌手身份出道](https://www.baidu.com/s?wd=%E9%AB%98%E4%BB%A5%E7%BF%94%E7%94%9F%E5%89%8D%E5%A5%B3%E5%8F%8B%E4%BB%A5%E6%AD%8C%E6%89%8B%E8%BA%AB%E4%BB%BD%E5%87%BA%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [老刘想和傅首尔离婚的原因](https://www.baidu.com/s?wd=%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为什么好多人都消失在朋友圈了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [天山天池拍到水怪？官方展开调查](https://www.baidu.com/s?wd=%E5%A4%A9%E5%B1%B1%E5%A4%A9%E6%B1%A0%E6%8B%8D%E5%88%B0%E6%B0%B4%E6%80%AA%EF%BC%9F%E5%AE%98%E6%96%B9%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一杯酱香拿铁里的茅台酒成本有多高](https://www.baidu.com/s?wd=%E4%B8%80%E6%9D%AF%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E9%87%8C%E7%9A%84%E8%8C%85%E5%8F%B0%E9%85%92%E6%88%90%E6%9C%AC%E6%9C%89%E5%A4%9A%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高以翔生前女友以歌手身份出道](https://www.baidu.com/s?wd=%E9%AB%98%E4%BB%A5%E7%BF%94%E7%94%9F%E5%89%8D%E5%A5%B3%E5%8F%8B%E4%BB%A5%E6%AD%8C%E6%89%8B%E8%BA%AB%E4%BB%BD%E5%87%BA%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [老刘想和傅首尔离婚的原因](https://www.baidu.com/s?wd=%E8%80%81%E5%88%98%E6%83%B3%E5%92%8C%E5%82%85%E9%A6%96%E5%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为什么好多人都消失在朋友圈了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
