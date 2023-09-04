@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 03:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 03:02:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [奥本海默内地票房破2亿](https://www.baidu.com/s?wd=%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E5%86%85%E5%9C%B0%E7%A5%A8%E6%88%BF%E7%A0%B42%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黑龙江一冰淇淋公司突发火灾](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%86%B0%E6%B7%87%E6%B7%8B%E5%85%AC%E5%8F%B8%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上海现不明飞行物 似火球般高速坠落](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9+%E4%BC%BC%E7%81%AB%E7%90%83%E8%88%AC%E9%AB%98%E9%80%9F%E5%9D%A0%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为什么好多人都消失在朋友圈了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [黑龙江佳木斯一宾馆发生坍塌](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%B8%80%E5%AE%BE%E9%A6%86%E5%8F%91%E7%94%9F%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [奥本海默内地票房破2亿](https://www.baidu.com/s?wd=%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E5%86%85%E5%9C%B0%E7%A5%A8%E6%88%BF%E7%A0%B42%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黑龙江一冰淇淋公司突发火灾](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%86%B0%E6%B7%87%E6%B7%8B%E5%85%AC%E5%8F%B8%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上海现不明飞行物 似火球般高速坠落](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9+%E4%BC%BC%E7%81%AB%E7%90%83%E8%88%AC%E9%AB%98%E9%80%9F%E5%9D%A0%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为什么好多人都消失在朋友圈了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [黑龙江佳木斯一宾馆发生坍塌](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%B8%80%E5%AE%BE%E9%A6%86%E5%8F%91%E7%94%9F%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
