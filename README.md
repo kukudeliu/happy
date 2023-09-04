@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 18:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 18:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [5岁幼童帮渐冻症母亲拍出卡住药物](https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%B9%BC%E7%AB%A5%E5%B8%AE%E6%B8%90%E5%86%BB%E7%97%87%E6%AF%8D%E4%BA%B2%E6%8B%8D%E5%87%BA%E5%8D%A1%E4%BD%8F%E8%8D%AF%E7%89%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [90后夫妻结婚3年不领证](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%A4%AB%E5%A6%BB%E7%BB%93%E5%A9%9A3%E5%B9%B4%E4%B8%8D%E9%A2%86%E8%AF%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [路遇车辆起火休假辅警狂追扑灭](https://s.weibo.com/weibo?q=%23%E8%B7%AF%E9%81%87%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB%E4%BC%91%E5%81%87%E8%BE%85%E8%AD%A6%E7%8B%82%E8%BF%BD%E6%89%91%E7%81%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [易烊千玺提名金熊猫奖最佳男主角](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%8F%90%E5%90%8D%E9%87%91%E7%86%8A%E7%8C%AB%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [Jessi要来成都](https://s.weibo.com/weibo?q=Jessi%E8%A6%81%E6%9D%A5%E6%88%90%E9%83%BD&t=31&band_rank=9&Refer=top)<br />
+8. [Jessi要来成都](https://s.weibo.com/weibo?q=Jessi%E8%A6%81%E6%9D%A5%E6%88%90%E9%83%BD&t=31&band_rank=8&Refer=top)<br />
+9. [易烊千玺提名金熊猫奖最佳男主角](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%8F%90%E5%90%8D%E9%87%91%E7%86%8A%E7%8C%AB%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
