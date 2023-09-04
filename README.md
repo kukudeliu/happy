@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 20:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 20:59:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [女子拍到男士们蹲在消防通道静心](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8B%8D%E5%88%B0%E7%94%B7%E5%A3%AB%E4%BB%AC%E8%B9%B2%E5%9C%A8%E6%B6%88%E9%98%B2%E9%80%9A%E9%81%93%E9%9D%99%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河北车主运气爆表摇到X99999](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E8%BD%A6%E4%B8%BB%E8%BF%90%E6%B0%94%E7%88%86%E8%A1%A8%E6%91%87%E5%88%B0X99999&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [黑龙江佳木斯一宾馆发生坍塌](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%B8%80%E5%AE%BE%E9%A6%86%E5%8F%91%E7%94%9F%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高以翔生前女友以歌手身份出道](https://www.baidu.com/s?wd=%E9%AB%98%E4%BB%A5%E7%BF%94%E7%94%9F%E5%89%8D%E5%A5%B3%E5%8F%8B%E4%BB%A5%E6%AD%8C%E6%89%8B%E8%BA%AB%E4%BB%BD%E5%87%BA%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [山东滕州高铁站跳轨男子已死亡](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%BB%95%E5%B7%9E%E9%AB%98%E9%93%81%E7%AB%99%E8%B7%B3%E8%BD%A8%E7%94%B7%E5%AD%90%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女子拍到男士们蹲在消防通道静心](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8B%8D%E5%88%B0%E7%94%B7%E5%A3%AB%E4%BB%AC%E8%B9%B2%E5%9C%A8%E6%B6%88%E9%98%B2%E9%80%9A%E9%81%93%E9%9D%99%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河北车主运气爆表摇到X99999](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E8%BD%A6%E4%B8%BB%E8%BF%90%E6%B0%94%E7%88%86%E8%A1%A8%E6%91%87%E5%88%B0X99999&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [黑龙江佳木斯一宾馆发生坍塌](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%B8%80%E5%AE%BE%E9%A6%86%E5%8F%91%E7%94%9F%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高以翔生前女友以歌手身份出道](https://www.baidu.com/s?wd=%E9%AB%98%E4%BB%A5%E7%BF%94%E7%94%9F%E5%89%8D%E5%A5%B3%E5%8F%8B%E4%BB%A5%E6%AD%8C%E6%89%8B%E8%BA%AB%E4%BB%BD%E5%87%BA%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [山东滕州高铁站跳轨男子已死亡](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%BB%95%E5%B7%9E%E9%AB%98%E9%93%81%E7%AB%99%E8%B7%B3%E8%BD%A8%E7%94%B7%E5%AD%90%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
