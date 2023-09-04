@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 11:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 11:56:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [原来婴儿是没有后脚跟的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A9%B4%E5%84%BF%E6%98%AF%E6%B2%A1%E6%9C%89%E5%90%8E%E8%84%9A%E8%B7%9F%E7%9A%84%23&t=31&band_rank=4&Refer=top)<br />
 5. [大熊猫花花的妈妈死亡](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%8A%B1%E8%8A%B1%E7%9A%84%E5%A6%88%E5%A6%88%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [易烊千玺怀化市城市形象大使](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%80%80%E5%8C%96%E5%B8%82%E5%9F%8E%E5%B8%82%E5%BD%A2%E8%B1%A1%E5%A4%A7%E4%BD%BF%23&t=31&band_rank=6&Refer=top)<br />
-7. [迎亚运的杭州好漂亮](https://s.weibo.com/weibo?q=%23%E8%BF%8E%E4%BA%9A%E8%BF%90%E7%9A%84%E6%9D%AD%E5%B7%9E%E5%A5%BD%E6%BC%82%E4%BA%AE%23&t=31&band_rank=7&Refer=top)<br />
-8. [为什么好多人都消失在朋友圈了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [酱香拿铁](https://s.weibo.com/weibo?q=%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81&t=31&band_rank=9&Refer=top)<br />
+7. [为什么好多人都消失在朋友圈了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [酱香拿铁](https://s.weibo.com/weibo?q=%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81&t=31&band_rank=8&Refer=top)<br />
+9. [上海现不明飞行物似火球般高速坠落](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%E4%BC%BC%E7%81%AB%E7%90%83%E8%88%AC%E9%AB%98%E9%80%9F%E5%9D%A0%E8%90%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
