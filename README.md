@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 09:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-04 09:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [内马尔 我和梅西在巴黎经历了地狱](https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%20%E6%88%91%E5%92%8C%E6%A2%85%E8%A5%BF%E5%9C%A8%E5%B7%B4%E9%BB%8E%E7%BB%8F%E5%8E%86%E4%BA%86%E5%9C%B0%E7%8B%B1&t=31&band_rank=6&Refer=top)<br />
 7. [莲花楼男主选角](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%94%B7%E4%B8%BB%E9%80%89%E8%A7%92&t=31&band_rank=7&Refer=top)<br />
 8. [原来大学没课时可以搞那么多事](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%AD%A6%E6%B2%A1%E8%AF%BE%E6%97%B6%E5%8F%AF%E4%BB%A5%E6%90%9E%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%8B&t=31&band_rank=8&Refer=top)<br />
-9. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=9&Refer=top)<br />
+9. [茅台瑞幸酱香拿铁](https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E7%91%9E%E5%B9%B8%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
