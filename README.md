@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 01:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 01:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [亲爱的雪 我已嫁入豪门](https://s.weibo.com/weibo?q=%E4%BA%B2%E7%88%B1%E7%9A%84%E9%9B%AA%20%E6%88%91%E5%B7%B2%E5%AB%81%E5%85%A5%E8%B1%AA%E9%97%A8&t=31&band_rank=6&Refer=top)<br />
 7. [在咖啡中擅自添加茅台售卖是侵权行为](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%92%96%E5%95%A1%E4%B8%AD%E6%93%85%E8%87%AA%E6%B7%BB%E5%8A%A0%E8%8C%85%E5%8F%B0%E5%94%AE%E5%8D%96%E6%98%AF%E4%BE%B5%E6%9D%83%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [原来樱花妹觉得高颅顶很丑](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%A8%B1%E8%8A%B1%E5%A6%B9%E8%A7%89%E5%BE%97%E9%AB%98%E9%A2%85%E9%A1%B6%E5%BE%88%E4%B8%91&t=31&band_rank=8&Refer=top)<br />
-9. [没想到现在取快递这么高级了](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E7%8E%B0%E5%9C%A8%E5%8F%96%E5%BF%AB%E9%80%92%E8%BF%99%E4%B9%88%E9%AB%98%E7%BA%A7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [丞磊演虚颜的时候就上桌了](https://s.weibo.com/weibo?q=%E4%B8%9E%E7%A3%8A%E6%BC%94%E8%99%9A%E9%A2%9C%E7%9A%84%E6%97%B6%E5%80%99%E5%B0%B1%E4%B8%8A%E6%A1%8C%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
