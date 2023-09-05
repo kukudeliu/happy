@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 02:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 02:50:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [药水哥消失4个月变这样了](https://s.weibo.com/weibo?q=%23%E8%8D%AF%E6%B0%B4%E5%93%A5%E6%B6%88%E5%A4%B14%E4%B8%AA%E6%9C%88%E5%8F%98%E8%BF%99%E6%A0%B7%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [虽然是精神病但没关系](https://s.weibo.com/weibo?q=%E8%99%BD%E7%84%B6%E6%98%AF%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BD%86%E6%B2%A1%E5%85%B3%E7%B3%BB&t=31&band_rank=6&Refer=top)<br />
 7. [蜜雪冰城 五粮液](https://s.weibo.com/weibo?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%20%E4%BA%94%E7%B2%AE%E6%B6%B2&t=31&band_rank=7&Refer=top)<br />
-8. [瑞幸加茅台 华尔街跪下来](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E5%8A%A0%E8%8C%85%E5%8F%B0%20%E5%8D%8E%E5%B0%94%E8%A1%97%E8%B7%AA%E4%B8%8B%E6%9D%A5&t=31&band_rank=8&Refer=top)<br />
-9. [中国人不做那种偷鸡摸狗的事](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8D%E5%81%9A%E9%82%A3%E7%A7%8D%E5%81%B7%E9%B8%A1%E6%91%B8%E7%8B%97%E7%9A%84%E4%BA%8B&t=31&band_rank=9&Refer=top)<br />
+8. [中国人不做那种偷鸡摸狗的事](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8D%E5%81%9A%E9%82%A3%E7%A7%8D%E5%81%B7%E9%B8%A1%E6%91%B8%E7%8B%97%E7%9A%84%E4%BA%8B&t=31&band_rank=8&Refer=top)<br />
+9. [瑞幸加茅台 华尔街跪下来](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E5%8A%A0%E8%8C%85%E5%8F%B0%20%E5%8D%8E%E5%B0%94%E8%A1%97%E8%B7%AA%E4%B8%8B%E6%9D%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
