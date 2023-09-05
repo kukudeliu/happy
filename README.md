@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 22:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 22:31:01</h4></div>
 
 > 微博  
 
@@ -22,10 +22,10 @@
 3. [秀才曾在直播时高喊给我你的医药费](https://www.baidu.com/s?wd=%E7%A7%80%E6%89%8D%E6%9B%BE%E5%9C%A8%E7%9B%B4%E6%92%AD%E6%97%B6%E9%AB%98%E5%96%8A%E7%BB%99%E6%88%91%E4%BD%A0%E7%9A%84%E5%8C%BB%E8%8D%AF%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共享惠全球的历史之机](https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E6%83%A0%E5%85%A8%E7%90%83%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B9%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [警方称“地铁判官”精神有问题](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E2%80%9C%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E2%80%9D%E7%B2%BE%E7%A5%9E%E6%9C%89%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高校食堂推2元套餐](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E6%8E%A82%E5%85%83%E5%A5%97%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [特斯拉“鲶鱼效应”引发连锁反应](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E9%B2%B6%E9%B1%BC%E6%95%88%E5%BA%94%E2%80%9D%E5%BC%95%E5%8F%91%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国科学院新规：院士禁止参加应酬](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E6%96%B0%E8%A7%84%EF%BC%9A%E9%99%A2%E5%A3%AB%E7%A6%81%E6%AD%A2%E5%8F%82%E5%8A%A0%E5%BA%94%E9%85%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高校食堂推2元套餐](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E6%8E%A82%E5%85%83%E5%A5%97%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [特斯拉“鲶鱼效应”引发连锁反应](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E9%B2%B6%E9%B1%BC%E6%95%88%E5%BA%94%E2%80%9D%E5%BC%95%E5%8F%91%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [秀才曾在直播时高喊给我你的医药费](https://www.baidu.com/s?wd=%E7%A7%80%E6%89%8D%E6%9B%BE%E5%9C%A8%E7%9B%B4%E6%92%AD%E6%97%B6%E9%AB%98%E5%96%8A%E7%BB%99%E6%88%91%E4%BD%A0%E7%9A%84%E5%8C%BB%E8%8D%AF%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共享惠全球的历史之机](https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E6%83%A0%E5%85%A8%E7%90%83%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B9%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [警方称“地铁判官”精神有问题](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E2%80%9C%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E2%80%9D%E7%B2%BE%E7%A5%9E%E6%9C%89%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高校食堂推2元套餐](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E6%8E%A82%E5%85%83%E5%A5%97%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [特斯拉“鲶鱼效应”引发连锁反应](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E9%B2%B6%E9%B1%BC%E6%95%88%E5%BA%94%E2%80%9D%E5%BC%95%E5%8F%91%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国科学院新规：院士禁止参加应酬](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E6%96%B0%E8%A7%84%EF%BC%9A%E9%99%A2%E5%A3%AB%E7%A6%81%E6%AD%A2%E5%8F%82%E5%8A%A0%E5%BA%94%E9%85%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高校食堂推2元套餐](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E6%8E%A82%E5%85%83%E5%A5%97%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [特斯拉“鲶鱼效应”引发连锁反应](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E9%B2%B6%E9%B1%BC%E6%95%88%E5%BA%94%E2%80%9D%E5%BC%95%E5%8F%91%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
