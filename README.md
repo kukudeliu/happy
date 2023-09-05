@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 18:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 18:26:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [儿子在妈妈再婚现场发言送祝福](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E5%9C%A8%E5%A6%88%E5%A6%88%E5%86%8D%E5%A9%9A%E7%8E%B0%E5%9C%BA%E5%8F%91%E8%A8%80%E9%80%81%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=5&Refer=top)<br />
 6. [papi酱气离婚的又气不离婚的](https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E6%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8F%88%E6%B0%94%E4%B8%8D%E7%A6%BB%E5%A9%9A%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [龚全珍资助过的孩子长大后也成了老师](https://s.weibo.com/weibo?q=%23%E9%BE%9A%E5%85%A8%E7%8F%8D%E8%B5%84%E5%8A%A9%E8%BF%87%E7%9A%84%E5%AD%A9%E5%AD%90%E9%95%BF%E5%A4%A7%E5%90%8E%E4%B9%9F%E6%88%90%E4%BA%86%E8%80%81%E5%B8%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [果然毒唯只对真嫂子破防](https://s.weibo.com/weibo?q=%23%E6%9E%9C%E7%84%B6%E6%AF%92%E5%94%AF%E5%8F%AA%E5%AF%B9%E7%9C%9F%E5%AB%82%E5%AD%90%E7%A0%B4%E9%98%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [孙菲菲晒行政处罚书](https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%8F%B2%E8%8F%B2%E6%99%92%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E4%B9%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [孙菲菲晒行政处罚书](https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%8F%B2%E8%8F%B2%E6%99%92%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E4%B9%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [果然毒唯只对真嫂子破防](https://s.weibo.com/weibo?q=%23%E6%9E%9C%E7%84%B6%E6%AF%92%E5%94%AF%E5%8F%AA%E5%AF%B9%E7%9C%9F%E5%AB%82%E5%AD%90%E7%A0%B4%E9%98%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
