@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 11:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 11:50:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [刘亦菲彭冠英吻戏](https://www.baidu.com/s?wd=%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BD%AD%E5%86%A0%E8%8B%B1%E5%90%BB%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [入境船舶上发现1万余只蟑螂](https://www.baidu.com/s?wd=%E5%85%A5%E5%A2%83%E8%88%B9%E8%88%B6%E4%B8%8A%E5%8F%91%E7%8E%B01%E4%B8%87%E4%BD%99%E5%8F%AA%E8%9F%91%E8%9E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023百度云智大会](https://www.baidu.com/s?wd=2023%E7%99%BE%E5%BA%A6%E4%BA%91%E6%99%BA%E5%A4%A7%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [爷爷咳嗽不小心把假牙咳出迅速撤回](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E5%92%B3%E5%97%BD%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8A%E5%81%87%E7%89%99%E5%92%B3%E5%87%BA%E8%BF%85%E9%80%9F%E6%92%A4%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [日本就中国水产品禁令向WTO提交文件](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%B1%E4%B8%AD%E5%9B%BD%E6%B0%B4%E4%BA%A7%E5%93%81%E7%A6%81%E4%BB%A4%E5%90%91WTO%E6%8F%90%E4%BA%A4%E6%96%87%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [刘亦菲彭冠英吻戏](https://www.baidu.com/s?wd=%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BD%AD%E5%86%A0%E8%8B%B1%E5%90%BB%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [入境船舶上发现1万余只蟑螂](https://www.baidu.com/s?wd=%E5%85%A5%E5%A2%83%E8%88%B9%E8%88%B6%E4%B8%8A%E5%8F%91%E7%8E%B01%E4%B8%87%E4%BD%99%E5%8F%AA%E8%9F%91%E8%9E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023百度云智大会](https://www.baidu.com/s?wd=2023%E7%99%BE%E5%BA%A6%E4%BA%91%E6%99%BA%E5%A4%A7%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [爷爷咳嗽不小心把假牙咳出迅速撤回](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E5%92%B3%E5%97%BD%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8A%E5%81%87%E7%89%99%E5%92%B3%E5%87%BA%E8%BF%85%E9%80%9F%E6%92%A4%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [日本就中国水产品禁令向WTO提交文件](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%B1%E4%B8%AD%E5%9B%BD%E6%B0%B4%E4%BA%A7%E5%93%81%E7%A6%81%E4%BB%A4%E5%90%91WTO%E6%8F%90%E4%BA%A4%E6%96%87%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
