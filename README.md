@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 11:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 11:32:01</h4></div>
 
 > 微博  
 
@@ -18,10 +18,10 @@
 > 百度  
 
 1. [习近平向2023中国国际智博会致贺信](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%912023%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E6%99%BA%E5%8D%9A%E4%BC%9A%E8%87%B4%E8%B4%BA%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [福州全市中小学停课停学一天](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E5%85%A8%E5%B8%82%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%81%9C%E8%AF%BE%E5%81%9C%E5%AD%A6%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [山西省委副书记商黎光被查](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%95%86%E9%BB%8E%E5%85%89%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [山西省委副书记商黎光被查](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%95%86%E9%BB%8E%E5%85%89%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [瑞幸酱香拿铁首日销售额破亿](https://www.baidu.com/s?wd=%E7%91%9E%E5%B9%B8%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E9%A6%96%E6%97%A5%E9%94%80%E5%94%AE%E9%A2%9D%E7%A0%B4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [解锁亚运黑科技](https://www.baidu.com/s?wd=%E8%A7%A3%E9%94%81%E4%BA%9A%E8%BF%90%E9%BB%91%E7%A7%91%E6%8A%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [中央政法委领导层再添一位女性成员](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B3%95%E5%A7%94%E9%A2%86%E5%AF%BC%E5%B1%82%E5%86%8D%E6%B7%BB%E4%B8%80%E4%BD%8D%E5%A5%B3%E6%80%A7%E6%88%90%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [福州暴雨 消防车救援途中坠河](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E6%9A%B4%E9%9B%A8+%E6%B6%88%E9%98%B2%E8%BD%A6%E6%95%91%E6%8F%B4%E9%80%94%E4%B8%AD%E5%9D%A0%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘亦菲彭冠英吻戏](https://www.baidu.com/s?wd=%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BD%AD%E5%86%A0%E8%8B%B1%E5%90%BB%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [上海暴雨山姆被淹 网友:变汤姆了](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8%E5%B1%B1%E5%A7%86%E8%A2%AB%E6%B7%B9+%E7%BD%91%E5%8F%8B%3A%E5%8F%98%E6%B1%A4%E5%A7%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023百度云智大会](https://www.baidu.com/s?wd=2023%E7%99%BE%E5%BA%A6%E4%BA%91%E6%99%BA%E5%A4%A7%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,10 +30,10 @@
 > 哔哩哔哩  
 
 1. [习近平向2023中国国际智博会致贺信](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%912023%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E6%99%BA%E5%8D%9A%E4%BC%9A%E8%87%B4%E8%B4%BA%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [福州全市中小学停课停学一天](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E5%85%A8%E5%B8%82%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%81%9C%E8%AF%BE%E5%81%9C%E5%AD%A6%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [山西省委副书记商黎光被查](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%95%86%E9%BB%8E%E5%85%89%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [山西省委副书记商黎光被查](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%95%86%E9%BB%8E%E5%85%89%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [瑞幸酱香拿铁首日销售额破亿](https://www.baidu.com/s?wd=%E7%91%9E%E5%B9%B8%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E9%A6%96%E6%97%A5%E9%94%80%E5%94%AE%E9%A2%9D%E7%A0%B4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [解锁亚运黑科技](https://www.baidu.com/s?wd=%E8%A7%A3%E9%94%81%E4%BA%9A%E8%BF%90%E9%BB%91%E7%A7%91%E6%8A%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [中央政法委领导层再添一位女性成员](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B3%95%E5%A7%94%E9%A2%86%E5%AF%BC%E5%B1%82%E5%86%8D%E6%B7%BB%E4%B8%80%E4%BD%8D%E5%A5%B3%E6%80%A7%E6%88%90%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [福州暴雨 消防车救援途中坠河](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E6%9A%B4%E9%9B%A8+%E6%B6%88%E9%98%B2%E8%BD%A6%E6%95%91%E6%8F%B4%E9%80%94%E4%B8%AD%E5%9D%A0%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘亦菲彭冠英吻戏](https://www.baidu.com/s?wd=%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BD%AD%E5%86%A0%E8%8B%B1%E5%90%BB%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [上海暴雨山姆被淹 网友:变汤姆了](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8%E5%B1%B1%E5%A7%86%E8%A2%AB%E6%B7%B9+%E7%BD%91%E5%8F%8B%3A%E5%8F%98%E6%B1%A4%E5%A7%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023百度云智大会](https://www.baidu.com/s?wd=2023%E7%99%BE%E5%BA%A6%E4%BA%91%E6%99%BA%E5%A4%A7%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
