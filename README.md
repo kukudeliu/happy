@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 17:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 17:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [秀才曾在直播时高喊给我你的医药费](https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E6%9B%BE%E5%9C%A8%E7%9B%B4%E6%92%AD%E6%97%B6%E9%AB%98%E5%96%8A%E7%BB%99%E6%88%91%E4%BD%A0%E7%9A%84%E5%8C%BB%E8%8D%AF%E8%B4%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [路过都觉得脏的程度](https://s.weibo.com/weibo?q=%E8%B7%AF%E8%BF%87%E9%83%BD%E8%A7%89%E5%BE%97%E8%84%8F%E7%9A%84%E7%A8%8B%E5%BA%A6&t=31&band_rank=7&Refer=top)<br />
 8. [傅首尔说和老刘的爱情降到0了](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E8%AF%B4%E5%92%8C%E8%80%81%E5%88%98%E7%9A%84%E7%88%B1%E6%83%85%E9%99%8D%E5%88%B00%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [小时代5 封建时代](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%B6%E4%BB%A35%20%E5%B0%81%E5%BB%BA%E6%97%B6%E4%BB%A3&t=31&band_rank=9&Refer=top)<br />
+9. [我愿意嫁入宫门服从调剂](https://s.weibo.com/weibo?q=%E6%88%91%E6%84%BF%E6%84%8F%E5%AB%81%E5%85%A5%E5%AE%AB%E9%97%A8%E6%9C%8D%E4%BB%8E%E8%B0%83%E5%89%82&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
