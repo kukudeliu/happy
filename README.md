@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 16:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 16:58:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [路过都觉得脏的程度](https://s.weibo.com/weibo?q=%E8%B7%AF%E8%BF%87%E9%83%BD%E8%A7%89%E5%BE%97%E8%84%8F%E7%9A%84%E7%A8%8B%E5%BA%A6&t=31&band_rank=5&Refer=top)<br />
 6. [小时代5 封建时代](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%B6%E4%BB%A35%20%E5%B0%81%E5%BB%BA%E6%97%B6%E4%BB%A3&t=31&band_rank=6&Refer=top)<br />
 7. [逃出大英博物馆第三集](https://s.weibo.com/weibo?q=%E9%80%83%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E7%AC%AC%E4%B8%89%E9%9B%86&t=31&band_rank=7&Refer=top)<br />
-8. [姆巴佩放弃奖金为巴黎节省1亿欧](https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%94%BE%E5%BC%83%E5%A5%96%E9%87%91%E4%B8%BA%E5%B7%B4%E9%BB%8E%E8%8A%82%E7%9C%811%E4%BA%BF%E6%AC%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [秀才曾在直播时高喊给我你的医药费](https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E6%9B%BE%E5%9C%A8%E7%9B%B4%E6%92%AD%E6%97%B6%E9%AB%98%E5%96%8A%E7%BB%99%E6%88%91%E4%BD%A0%E7%9A%84%E5%8C%BB%E8%8D%AF%E8%B4%B9%23&t=31&band_rank=9&Refer=top)<br />
+8. [秀才曾在直播时高喊给我你的医药费](https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E6%9B%BE%E5%9C%A8%E7%9B%B4%E6%92%AD%E6%97%B6%E9%AB%98%E5%96%8A%E7%BB%99%E6%88%91%E4%BD%A0%E7%9A%84%E5%8C%BB%E8%8D%AF%E8%B4%B9%23&t=31&band_rank=8&Refer=top)<br />
+9. [姆巴佩放弃奖金为巴黎节省1亿欧](https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%94%BE%E5%BC%83%E5%A5%96%E9%87%91%E4%B8%BA%E5%B7%B4%E9%BB%8E%E8%8A%82%E7%9C%811%E4%BA%BF%E6%AC%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
