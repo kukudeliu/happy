@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 22:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 22:15:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [警方称“地铁判官”精神有问题](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E2%80%9C%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E2%80%9D%E7%B2%BE%E7%A5%9E%E6%9C%89%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子花84万在医美机构做血液净化](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B184%E4%B8%87%E5%9C%A8%E5%8C%BB%E7%BE%8E%E6%9C%BA%E6%9E%84%E5%81%9A%E8%A1%80%E6%B6%B2%E5%87%80%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [英国伯明翰市政府宣布破产](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E4%BC%AF%E6%98%8E%E7%BF%B0%E5%B8%82%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E7%A0%B4%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新疆“海鲜”大丰收了](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E2%80%9C%E6%B5%B7%E9%B2%9C%E2%80%9D%E5%A4%A7%E4%B8%B0%E6%94%B6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [瑞幸今年已联名12次](https://www.baidu.com/s?wd=%E7%91%9E%E5%B9%B8%E4%BB%8A%E5%B9%B4%E5%B7%B2%E8%81%94%E5%90%8D12%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [警方称“地铁判官”精神有问题](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E2%80%9C%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E2%80%9D%E7%B2%BE%E7%A5%9E%E6%9C%89%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子花84万在医美机构做血液净化](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B184%E4%B8%87%E5%9C%A8%E5%8C%BB%E7%BE%8E%E6%9C%BA%E6%9E%84%E5%81%9A%E8%A1%80%E6%B6%B2%E5%87%80%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [英国伯明翰市政府宣布破产](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E4%BC%AF%E6%98%8E%E7%BF%B0%E5%B8%82%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E7%A0%B4%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新疆“海鲜”大丰收了](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E2%80%9C%E6%B5%B7%E9%B2%9C%E2%80%9D%E5%A4%A7%E4%B8%B0%E6%94%B6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [瑞幸今年已联名12次](https://www.baidu.com/s?wd=%E7%91%9E%E5%B9%B8%E4%BB%8A%E5%B9%B4%E5%B7%B2%E8%81%94%E5%90%8D12%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
