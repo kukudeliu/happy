@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 07:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 07:44:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [福州：非必要人不出门车不上路](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%EF%BC%9A%E9%9D%9E%E5%BF%85%E8%A6%81%E4%BA%BA%E4%B8%8D%E5%87%BA%E9%97%A8%E8%BD%A6%E4%B8%8D%E4%B8%8A%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为什么卤味三巨头卖不动了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%A4%E5%91%B3%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [特斯拉“鲶鱼效应”引发连锁反应](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E9%B2%B6%E9%B1%BC%E6%95%88%E5%BA%94%E2%80%9D%E5%BC%95%E5%8F%91%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [福州：非必要人不出门车不上路](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%EF%BC%9A%E9%9D%9E%E5%BF%85%E8%A6%81%E4%BA%BA%E4%B8%8D%E5%87%BA%E9%97%A8%E8%BD%A6%E4%B8%8D%E4%B8%8A%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为什么卤味三巨头卖不动了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%A4%E5%91%B3%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [特斯拉“鲶鱼效应”引发连锁反应](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E9%B2%B6%E9%B1%BC%E6%95%88%E5%BA%94%E2%80%9D%E5%BC%95%E5%8F%91%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
