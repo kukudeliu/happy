@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 23:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 23:49:02</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [警方称“地铁判官”精神有问题](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E2%80%9C%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E2%80%9D%E7%B2%BE%E7%A5%9E%E6%9C%89%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [有商家曾因自制茅台咖啡被罚6.3万](https://www.baidu.com/s?wd=%E6%9C%89%E5%95%86%E5%AE%B6%E6%9B%BE%E5%9B%A0%E8%87%AA%E5%88%B6%E8%8C%85%E5%8F%B0%E5%92%96%E5%95%A1%E8%A2%AB%E7%BD%9A6.3%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国外18岁富家子在普吉岛度假身亡](https://www.baidu.com/s?wd=%E5%9B%BD%E5%A4%9618%E5%B2%81%E5%AF%8C%E5%AE%B6%E5%AD%90%E5%9C%A8%E6%99%AE%E5%90%89%E5%B2%9B%E5%BA%A6%E5%81%87%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [特斯拉“鲶鱼效应”引发连锁反应](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E9%B2%B6%E9%B1%BC%E6%95%88%E5%BA%94%E2%80%9D%E5%BC%95%E5%8F%91%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国外18岁富家子在普吉岛度假身亡](https://www.baidu.com/s?wd=%E5%9B%BD%E5%A4%9618%E5%B2%81%E5%AF%8C%E5%AE%B6%E5%AD%90%E5%9C%A8%E6%99%AE%E5%90%89%E5%B2%9B%E5%BA%A6%E5%81%87%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [警方称“地铁判官”精神有问题](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E2%80%9C%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E2%80%9D%E7%B2%BE%E7%A5%9E%E6%9C%89%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [有商家曾因自制茅台咖啡被罚6.3万](https://www.baidu.com/s?wd=%E6%9C%89%E5%95%86%E5%AE%B6%E6%9B%BE%E5%9B%A0%E8%87%AA%E5%88%B6%E8%8C%85%E5%8F%B0%E5%92%96%E5%95%A1%E8%A2%AB%E7%BD%9A6.3%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国外18岁富家子在普吉岛度假身亡](https://www.baidu.com/s?wd=%E5%9B%BD%E5%A4%9618%E5%B2%81%E5%AF%8C%E5%AE%B6%E5%AD%90%E5%9C%A8%E6%99%AE%E5%90%89%E5%B2%9B%E5%BA%A6%E5%81%87%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [特斯拉“鲶鱼效应”引发连锁反应](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E9%B2%B6%E9%B1%BC%E6%95%88%E5%BA%94%E2%80%9D%E5%BC%95%E5%8F%91%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国外18岁富家子在普吉岛度假身亡](https://www.baidu.com/s?wd=%E5%9B%BD%E5%A4%9618%E5%B2%81%E5%AF%8C%E5%AE%B6%E5%AD%90%E5%9C%A8%E6%99%AE%E5%90%89%E5%B2%9B%E5%BA%A6%E5%81%87%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
