@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 06:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 06:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [蜜雪冰城 五粮液](https://s.weibo.com/weibo?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%20%E4%BA%94%E7%B2%AE%E6%B6%B2&t=31&band_rank=6&Refer=top)<br />
 7. [肖战剧里的画竟然都是自己画的](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%89%A7%E9%87%8C%E7%9A%84%E7%94%BB%E7%AB%9F%E7%84%B6%E9%83%BD%E6%98%AF%E8%87%AA%E5%B7%B1%E7%94%BB%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [虽然是精神病但没关系](https://s.weibo.com/weibo?q=%E8%99%BD%E7%84%B6%E6%98%AF%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BD%86%E6%B2%A1%E5%85%B3%E7%B3%BB&t=31&band_rank=8&Refer=top)<br />
-9. [韩国流行的自助煮面火到上海了](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%B5%81%E8%A1%8C%E7%9A%84%E8%87%AA%E5%8A%A9%E7%85%AE%E9%9D%A2%E7%81%AB%E5%88%B0%E4%B8%8A%E6%B5%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [药水哥消失4个月变这样了](https://s.weibo.com/weibo?q=%23%E8%8D%AF%E6%B0%B4%E5%93%A5%E6%B6%88%E5%A4%B14%E4%B8%AA%E6%9C%88%E5%8F%98%E8%BF%99%E6%A0%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
