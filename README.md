@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 20:42:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 20:43:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [英国伯明翰市政府宣布破产](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E4%BC%AF%E6%98%8E%E7%BF%B0%E5%B8%82%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E7%A0%B4%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [蜜雪冰城辟谣与五粮液出联名款](https://www.baidu.com/s?wd=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%BE%9F%E8%B0%A3%E4%B8%8E%E4%BA%94%E7%B2%AE%E6%B6%B2%E5%87%BA%E8%81%94%E5%90%8D%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子花84万在医美机构做血液净化](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B184%E4%B8%87%E5%9C%A8%E5%8C%BB%E7%BE%8E%E6%9C%BA%E6%9E%84%E5%81%9A%E8%A1%80%E6%B6%B2%E5%87%80%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“哏都养老院”网红老人背后](https://www.baidu.com/s?wd=%E2%80%9C%E5%93%8F%E9%83%BD%E5%85%BB%E8%80%81%E9%99%A2%E2%80%9D%E7%BD%91%E7%BA%A2%E8%80%81%E4%BA%BA%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [警方称地铁判官精神有问题](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E7%B2%BE%E7%A5%9E%E6%9C%89%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [英国伯明翰市政府宣布破产](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E4%BC%AF%E6%98%8E%E7%BF%B0%E5%B8%82%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E7%A0%B4%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [蜜雪冰城辟谣与五粮液出联名款](https://www.baidu.com/s?wd=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%BE%9F%E8%B0%A3%E4%B8%8E%E4%BA%94%E7%B2%AE%E6%B6%B2%E5%87%BA%E8%81%94%E5%90%8D%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子花84万在医美机构做血液净化](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B184%E4%B8%87%E5%9C%A8%E5%8C%BB%E7%BE%8E%E6%9C%BA%E6%9E%84%E5%81%9A%E8%A1%80%E6%B6%B2%E5%87%80%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“哏都养老院”网红老人背后](https://www.baidu.com/s?wd=%E2%80%9C%E5%93%8F%E9%83%BD%E5%85%BB%E8%80%81%E9%99%A2%E2%80%9D%E7%BD%91%E7%BA%A2%E8%80%81%E4%BA%BA%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [警方称地铁判官精神有问题](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E7%B2%BE%E7%A5%9E%E6%9C%89%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
