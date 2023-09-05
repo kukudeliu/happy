@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 18:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 18:19:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [大爷地铁与人争吵遭陌生男子打耳光](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%9C%B0%E9%93%81%E4%B8%8E%E4%BA%BA%E4%BA%89%E5%90%B5%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E6%89%93%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [papi酱气离婚的又气不离婚的](https://www.baidu.com/s?wd=papi%E9%85%B1%E6%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8F%88%E6%B0%94%E4%B8%8D%E7%A6%BB%E5%A9%9A%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网传河南一公司4万员工将赴韩旅游](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B2%B3%E5%8D%97%E4%B8%80%E5%85%AC%E5%8F%B84%E4%B8%87%E5%91%98%E5%B7%A5%E5%B0%86%E8%B5%B4%E9%9F%A9%E6%97%85%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大学老师回应做骑手送外卖质疑](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E5%9B%9E%E5%BA%94%E5%81%9A%E9%AA%91%E6%89%8B%E9%80%81%E5%A4%96%E5%8D%96%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“哏都养老院”网红老人背后](https://www.baidu.com/s?wd=%E2%80%9C%E5%93%8F%E9%83%BD%E5%85%BB%E8%80%81%E9%99%A2%E2%80%9D%E7%BD%91%E7%BA%A2%E8%80%81%E4%BA%BA%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地现不明飞行物 武汉有人拍到](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9+%E6%AD%A6%E6%B1%89%E6%9C%89%E4%BA%BA%E6%8B%8D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [徐静雨：我请缨成为下任男篮主帅](https://www.baidu.com/s?wd=%E5%BE%90%E9%9D%99%E9%9B%A8%EF%BC%9A%E6%88%91%E8%AF%B7%E7%BC%A8%E6%88%90%E4%B8%BA%E4%B8%8B%E4%BB%BB%E7%94%B7%E7%AF%AE%E4%B8%BB%E5%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [大爷地铁与人争吵遭陌生男子打耳光](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%9C%B0%E9%93%81%E4%B8%8E%E4%BA%BA%E4%BA%89%E5%90%B5%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E6%89%93%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [papi酱气离婚的又气不离婚的](https://www.baidu.com/s?wd=papi%E9%85%B1%E6%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8F%88%E6%B0%94%E4%B8%8D%E7%A6%BB%E5%A9%9A%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网传河南一公司4万员工将赴韩旅游](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B2%B3%E5%8D%97%E4%B8%80%E5%85%AC%E5%8F%B84%E4%B8%87%E5%91%98%E5%B7%A5%E5%B0%86%E8%B5%B4%E9%9F%A9%E6%97%85%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大学老师回应做骑手送外卖质疑](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E5%9B%9E%E5%BA%94%E5%81%9A%E9%AA%91%E6%89%8B%E9%80%81%E5%A4%96%E5%8D%96%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“哏都养老院”网红老人背后](https://www.baidu.com/s?wd=%E2%80%9C%E5%93%8F%E9%83%BD%E5%85%BB%E8%80%81%E9%99%A2%E2%80%9D%E7%BD%91%E7%BA%A2%E8%80%81%E4%BA%BA%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地现不明飞行物 武汉有人拍到](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9+%E6%AD%A6%E6%B1%89%E6%9C%89%E4%BA%BA%E6%8B%8D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [徐静雨：我请缨成为下任男篮主帅](https://www.baidu.com/s?wd=%E5%BE%90%E9%9D%99%E9%9B%A8%EF%BC%9A%E6%88%91%E8%AF%B7%E7%BC%A8%E6%88%90%E4%B8%BA%E4%B8%8B%E4%BB%BB%E7%94%B7%E7%AF%AE%E4%B8%BB%E5%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
