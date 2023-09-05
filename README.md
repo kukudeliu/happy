@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 03:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 03:49:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [她们困在“秀才”里](https://www.baidu.com/s?wd=%E5%A5%B9%E4%BB%AC%E5%9B%B0%E5%9C%A8%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特斯拉“鲶鱼效应”引发连锁反应](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E9%B2%B6%E9%B1%BC%E6%95%88%E5%BA%94%E2%80%9D%E5%BC%95%E5%8F%91%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方回应女干部要求砖缝无尘土](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%B9%B2%E9%83%A8%E8%A6%81%E6%B1%82%E7%A0%96%E7%BC%9D%E6%97%A0%E5%B0%98%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国科学院新规：院士禁止参加应酬](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E6%96%B0%E8%A7%84%EF%BC%9A%E9%99%A2%E5%A3%AB%E7%A6%81%E6%AD%A2%E5%8F%82%E5%8A%A0%E5%BA%94%E9%85%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [记者：中国球员喝成酒懵子不新鲜](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%90%83%E5%91%98%E5%96%9D%E6%88%90%E9%85%92%E6%87%B5%E5%AD%90%E4%B8%8D%E6%96%B0%E9%B2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [她们困在“秀才”里](https://www.baidu.com/s?wd=%E5%A5%B9%E4%BB%AC%E5%9B%B0%E5%9C%A8%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特斯拉“鲶鱼效应”引发连锁反应](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E9%B2%B6%E9%B1%BC%E6%95%88%E5%BA%94%E2%80%9D%E5%BC%95%E5%8F%91%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方回应女干部要求砖缝无尘土](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%B9%B2%E9%83%A8%E8%A6%81%E6%B1%82%E7%A0%96%E7%BC%9D%E6%97%A0%E5%B0%98%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国科学院新规：院士禁止参加应酬](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E6%96%B0%E8%A7%84%EF%BC%9A%E9%99%A2%E5%A3%AB%E7%A6%81%E6%AD%A2%E5%8F%82%E5%8A%A0%E5%BA%94%E9%85%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [记者：中国球员喝成酒懵子不新鲜](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%90%83%E5%91%98%E5%96%9D%E6%88%90%E9%85%92%E6%87%B5%E5%AD%90%E4%B8%8D%E6%96%B0%E9%B2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
