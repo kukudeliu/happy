@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 21:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 21:14:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [秀才曾在直播时高喊给我你的医药费](https://www.baidu.com/s?wd=%E7%A7%80%E6%89%8D%E6%9B%BE%E5%9C%A8%E7%9B%B4%E6%92%AD%E6%97%B6%E9%AB%98%E5%96%8A%E7%BB%99%E6%88%91%E4%BD%A0%E7%9A%84%E5%8C%BB%E8%8D%AF%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共享惠全球的历史之机](https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E6%83%A0%E5%85%A8%E7%90%83%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B9%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“地铁判官”掌掴吵架大爷 官方回应](https://www.baidu.com/s?wd=%E2%80%9C%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E2%80%9D%E6%8E%8C%E6%8E%B4%E5%90%B5%E6%9E%B6%E5%A4%A7%E7%88%B7+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [英国伯明翰市政府宣布破产](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E4%BC%AF%E6%98%8E%E7%BF%B0%E5%B8%82%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E7%A0%B4%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广东一村小一年级仅有1名学生](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E6%9D%91%E5%B0%8F%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%BB%85%E6%9C%891%E5%90%8D%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [贵州“杀妻灭子”案重审明日宣判](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E2%80%9C%E6%9D%80%E5%A6%BB%E7%81%AD%E5%AD%90%E2%80%9D%E6%A1%88%E9%87%8D%E5%AE%A1%E6%98%8E%E6%97%A5%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [广东司机校门口撞倒多人 警方通报](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%8F%B8%E6%9C%BA%E6%A0%A1%E9%97%A8%E5%8F%A3%E6%92%9E%E5%80%92%E5%A4%9A%E4%BA%BA+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [英国伯明翰市政府宣布破产](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E4%BC%AF%E6%98%8E%E7%BF%B0%E5%B8%82%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E7%A0%B4%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地现不明飞行物 武汉有人拍到](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9+%E6%AD%A6%E6%B1%89%E6%9C%89%E4%BA%BA%E6%8B%8D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女子花84万在医美机构做血液净化](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B184%E4%B8%87%E5%9C%A8%E5%8C%BB%E7%BE%8E%E6%9C%BA%E6%9E%84%E5%81%9A%E8%A1%80%E6%B6%B2%E5%87%80%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [秀才曾在直播时高喊给我你的医药费](https://www.baidu.com/s?wd=%E7%A7%80%E6%89%8D%E6%9B%BE%E5%9C%A8%E7%9B%B4%E6%92%AD%E6%97%B6%E9%AB%98%E5%96%8A%E7%BB%99%E6%88%91%E4%BD%A0%E7%9A%84%E5%8C%BB%E8%8D%AF%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共享惠全球的历史之机](https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E6%83%A0%E5%85%A8%E7%90%83%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B9%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“地铁判官”掌掴吵架大爷 官方回应](https://www.baidu.com/s?wd=%E2%80%9C%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E2%80%9D%E6%8E%8C%E6%8E%B4%E5%90%B5%E6%9E%B6%E5%A4%A7%E7%88%B7+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [英国伯明翰市政府宣布破产](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E4%BC%AF%E6%98%8E%E7%BF%B0%E5%B8%82%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E7%A0%B4%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广东一村小一年级仅有1名学生](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E6%9D%91%E5%B0%8F%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%BB%85%E6%9C%891%E5%90%8D%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [贵州“杀妻灭子”案重审明日宣判](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E2%80%9C%E6%9D%80%E5%A6%BB%E7%81%AD%E5%AD%90%E2%80%9D%E6%A1%88%E9%87%8D%E5%AE%A1%E6%98%8E%E6%97%A5%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [广东司机校门口撞倒多人 警方通报](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%8F%B8%E6%9C%BA%E6%A0%A1%E9%97%A8%E5%8F%A3%E6%92%9E%E5%80%92%E5%A4%9A%E4%BA%BA+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [英国伯明翰市政府宣布破产](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E4%BC%AF%E6%98%8E%E7%BF%B0%E5%B8%82%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E7%A0%B4%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地现不明飞行物 武汉有人拍到](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9+%E6%AD%A6%E6%B1%89%E6%9C%89%E4%BA%BA%E6%8B%8D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女子花84万在医美机构做血液净化](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B184%E4%B8%87%E5%9C%A8%E5%8C%BB%E7%BE%8E%E6%9C%BA%E6%9E%84%E5%81%9A%E8%A1%80%E6%B6%B2%E5%87%80%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
