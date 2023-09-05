@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 05:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 05:09:02</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [共享惠全球的历史之机](https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E6%83%A0%E5%85%A8%E7%90%83%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B9%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [她们困在“秀才”里](https://www.baidu.com/s?wd=%E5%A5%B9%E4%BB%AC%E5%9B%B0%E5%9C%A8%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高校食堂因饭菜不涨价被罚 校方回应](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%9B%A0%E9%A5%AD%E8%8F%9C%E4%B8%8D%E6%B6%A8%E4%BB%B7%E8%A2%AB%E7%BD%9A+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [特斯拉“鲶鱼效应”引发连锁反应](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E9%B2%B6%E9%B1%BC%E6%95%88%E5%BA%94%E2%80%9D%E5%BC%95%E5%8F%91%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国外18岁富家子在普吉岛度假身亡](https://www.baidu.com/s?wd=%E5%9B%BD%E5%A4%9618%E5%B2%81%E5%AF%8C%E5%AE%B6%E5%AD%90%E5%9C%A8%E6%99%AE%E5%90%89%E5%B2%9B%E5%BA%A6%E5%81%87%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国外18岁富家子在普吉岛度假身亡](https://www.baidu.com/s?wd=%E5%9B%BD%E5%A4%9618%E5%B2%81%E5%AF%8C%E5%AE%B6%E5%AD%90%E5%9C%A8%E6%99%AE%E5%90%89%E5%B2%9B%E5%BA%A6%E5%81%87%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [特斯拉“鲶鱼效应”引发连锁反应](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E9%B2%B6%E9%B1%BC%E6%95%88%E5%BA%94%E2%80%9D%E5%BC%95%E5%8F%91%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [共享惠全球的历史之机](https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E6%83%A0%E5%85%A8%E7%90%83%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B9%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [她们困在“秀才”里](https://www.baidu.com/s?wd=%E5%A5%B9%E4%BB%AC%E5%9B%B0%E5%9C%A8%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高校食堂因饭菜不涨价被罚 校方回应](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%9B%A0%E9%A5%AD%E8%8F%9C%E4%B8%8D%E6%B6%A8%E4%BB%B7%E8%A2%AB%E7%BD%9A+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [特斯拉“鲶鱼效应”引发连锁反应](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E9%B2%B6%E9%B1%BC%E6%95%88%E5%BA%94%E2%80%9D%E5%BC%95%E5%8F%91%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国外18岁富家子在普吉岛度假身亡](https://www.baidu.com/s?wd=%E5%9B%BD%E5%A4%9618%E5%B2%81%E5%AF%8C%E5%AE%B6%E5%AD%90%E5%9C%A8%E6%99%AE%E5%90%89%E5%B2%9B%E5%BA%A6%E5%81%87%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国外18岁富家子在普吉岛度假身亡](https://www.baidu.com/s?wd=%E5%9B%BD%E5%A4%9618%E5%B2%81%E5%AF%8C%E5%AE%B6%E5%AD%90%E5%9C%A8%E6%99%AE%E5%90%89%E5%B2%9B%E5%BA%A6%E5%81%87%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [特斯拉“鲶鱼效应”引发连锁反应](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E9%B2%B6%E9%B1%BC%E6%95%88%E5%BA%94%E2%80%9D%E5%BC%95%E5%8F%91%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
