@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 09:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 09:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [日本核污染水排海量已超4200吨](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E9%87%8F%E5%B7%B2%E8%B6%854200%E5%90%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [巨蟹座永远不会奔谁而去](https://s.weibo.com/weibo?q=%E5%B7%A8%E8%9F%B9%E5%BA%A7%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E5%A5%94%E8%B0%81%E8%80%8C%E5%8E%BB&t=31&band_rank=7&Refer=top)<br />
 8. [王心凌国风旗袍太美了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E5%9B%BD%E9%A3%8E%E6%97%97%E8%A2%8D%E5%A4%AA%E7%BE%8E%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [在咖啡中擅自添加茅台售卖是侵权行为](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%92%96%E5%95%A1%E4%B8%AD%E6%93%85%E8%87%AA%E6%B7%BB%E5%8A%A0%E8%8C%85%E5%8F%B0%E5%94%AE%E5%8D%96%E6%98%AF%E4%BE%B5%E6%9D%83%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [商黎光被查](https://s.weibo.com/weibo?q=%23%E5%95%86%E9%BB%8E%E5%85%89%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
