@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 16:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 16:44:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小时代5 封建时代](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%B6%E4%BB%A35%20%E5%B0%81%E5%BB%BA%E6%97%B6%E4%BB%A3&t=31&band_rank=6&Refer=top)<br />
 7. [逃出大英博物馆第三集](https://s.weibo.com/weibo?q=%E9%80%83%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E7%AC%AC%E4%B8%89%E9%9B%86&t=31&band_rank=7&Refer=top)<br />
 8. [姆巴佩放弃奖金为巴黎节省1亿欧](https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%94%BE%E5%BC%83%E5%A5%96%E9%87%91%E4%B8%BA%E5%B7%B4%E9%BB%8E%E8%8A%82%E7%9C%811%E4%BA%BF%E6%AC%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [42岁主持人感冒未痊愈去健身突发心梗去世](https://s.weibo.com/weibo?q=%2342%E5%B2%81%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%84%9F%E5%86%92%E6%9C%AA%E7%97%8A%E6%84%88%E5%8E%BB%E5%81%A5%E8%BA%AB%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [秀才曾在直播时高喊给我你的医药费](https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E6%9B%BE%E5%9C%A8%E7%9B%B4%E6%92%AD%E6%97%B6%E9%AB%98%E5%96%8A%E7%BB%99%E6%88%91%E4%BD%A0%E7%9A%84%E5%8C%BB%E8%8D%AF%E8%B4%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [湛江一轿车在学校门口撞倒多名学生](https://www.baidu.com/s?wd=%E6%B9%9B%E6%B1%9F%E4%B8%80%E8%BD%BF%E8%BD%A6%E5%9C%A8%E5%AD%A6%E6%A0%A1%E9%97%A8%E5%8F%A3%E6%92%9E%E5%80%92%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多地现不明飞行物 武汉有人拍到](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9+%E6%AD%A6%E6%B1%89%E6%9C%89%E4%BA%BA%E6%8B%8D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [记者：中国球员喝成酒懵子不新鲜](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%90%83%E5%91%98%E5%96%9D%E6%88%90%E9%85%92%E6%87%B5%E5%AD%90%E4%B8%8D%E6%96%B0%E9%B2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [潘石屹隐入尘烟之后](https://www.baidu.com/s?wd=%E6%BD%98%E7%9F%B3%E5%B1%B9%E9%9A%90%E5%85%A5%E5%B0%98%E7%83%9F%E4%B9%8B%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [入境船舶上发现1万余只蟑螂](https://www.baidu.com/s?wd=%E5%85%A5%E5%A2%83%E8%88%B9%E8%88%B6%E4%B8%8A%E5%8F%91%E7%8E%B01%E4%B8%87%E4%BD%99%E5%8F%AA%E8%9F%91%E8%9E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [刘亦菲彭冠英吻戏](https://www.baidu.com/s?wd=%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BD%AD%E5%86%A0%E8%8B%B1%E5%90%BB%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [湛江一轿车在学校门口撞倒多名学生](https://www.baidu.com/s?wd=%E6%B9%9B%E6%B1%9F%E4%B8%80%E8%BD%BF%E8%BD%A6%E5%9C%A8%E5%AD%A6%E6%A0%A1%E9%97%A8%E5%8F%A3%E6%92%9E%E5%80%92%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多地现不明飞行物 武汉有人拍到](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9+%E6%AD%A6%E6%B1%89%E6%9C%89%E4%BA%BA%E6%8B%8D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [记者：中国球员喝成酒懵子不新鲜](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%90%83%E5%91%98%E5%96%9D%E6%88%90%E9%85%92%E6%87%B5%E5%AD%90%E4%B8%8D%E6%96%B0%E9%B2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [潘石屹隐入尘烟之后](https://www.baidu.com/s?wd=%E6%BD%98%E7%9F%B3%E5%B1%B9%E9%9A%90%E5%85%A5%E5%B0%98%E7%83%9F%E4%B9%8B%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [入境船舶上发现1万余只蟑螂](https://www.baidu.com/s?wd=%E5%85%A5%E5%A2%83%E8%88%B9%E8%88%B6%E4%B8%8A%E5%8F%91%E7%8E%B01%E4%B8%87%E4%BD%99%E5%8F%AA%E8%9F%91%E8%9E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [刘亦菲彭冠英吻戏](https://www.baidu.com/s?wd=%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BD%AD%E5%86%A0%E8%8B%B1%E5%90%BB%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
