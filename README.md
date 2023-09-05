@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 17:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 17:15:01</h4></div>
 
 > 微博  
 
 1. [为什么卤味三巨头卖不动了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%A4%E5%91%B3%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
 2. [papi酱气离婚的又气不离婚的](https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E6%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8F%88%E6%B0%94%E4%B8%8D%E7%A6%BB%E5%A9%9A%E7%9A%84%23&t=31&band_rank=2&Refer=top)<br />
-3. [杭州亚运会逛玩指南](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%80%9B%E7%8E%A9%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top)<br />
+3. [逃出大英博物馆第三集](https://s.weibo.com/weibo?q=%E9%80%83%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E7%AC%AC%E4%B8%89%E9%9B%86&t=31&band_rank=3&Refer=top)<br />
 4. [果然毒唯只对真嫂子破防](https://s.weibo.com/weibo?q=%23%E6%9E%9C%E7%84%B6%E6%AF%92%E5%94%AF%E5%8F%AA%E5%AF%B9%E7%9C%9F%E5%AB%82%E5%AD%90%E7%A0%B4%E9%98%B2%23&t=31&band_rank=4&Refer=top)<br />
 5. [路过都觉得脏的程度](https://s.weibo.com/weibo?q=%E8%B7%AF%E8%BF%87%E9%83%BD%E8%A7%89%E5%BE%97%E8%84%8F%E7%9A%84%E7%A8%8B%E5%BA%A6&t=31&band_rank=5&Refer=top)<br />
-6. [逃出大英博物馆第三集](https://s.weibo.com/weibo?q=%E9%80%83%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E7%AC%AC%E4%B8%89%E9%9B%86&t=31&band_rank=6&Refer=top)<br />
-7. [秀才曾在直播时高喊给我你的医药费](https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E6%9B%BE%E5%9C%A8%E7%9B%B4%E6%92%AD%E6%97%B6%E9%AB%98%E5%96%8A%E7%BB%99%E6%88%91%E4%BD%A0%E7%9A%84%E5%8C%BB%E8%8D%AF%E8%B4%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [小时代5 封建时代](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%B6%E4%BB%A35%20%E5%B0%81%E5%BB%BA%E6%97%B6%E4%BB%A3&t=31&band_rank=8&Refer=top)<br />
-9. [傅首尔说和老刘的爱情降到0了](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E8%AF%B4%E5%92%8C%E8%80%81%E5%88%98%E7%9A%84%E7%88%B1%E6%83%85%E9%99%8D%E5%88%B00%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+6. [秀才曾在直播时高喊给我你的医药费](https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E6%9B%BE%E5%9C%A8%E7%9B%B4%E6%92%AD%E6%97%B6%E9%AB%98%E5%96%8A%E7%BB%99%E6%88%91%E4%BD%A0%E7%9A%84%E5%8C%BB%E8%8D%AF%E8%B4%B9%23&t=31&band_rank=6&Refer=top)<br />
+7. [小时代5 封建时代](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%B6%E4%BB%A35%20%E5%B0%81%E5%BB%BA%E6%97%B6%E4%BB%A3&t=31&band_rank=7&Refer=top)<br />
+8. [傅首尔说和老刘的爱情降到0了](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E8%AF%B4%E5%92%8C%E8%80%81%E5%88%98%E7%9A%84%E7%88%B1%E6%83%85%E9%99%8D%E5%88%B00%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [杭州亚运会逛玩指南](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%80%9B%E7%8E%A9%E6%8C%87%E5%8D%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
