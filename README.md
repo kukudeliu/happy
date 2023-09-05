@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 07:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 07:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [福州暴雨](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%B7%9E%E6%9A%B4%E9%9B%A8&t=31&band_rank=6&Refer=top)<br />
 7. [福州地铁](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%B7%9E%E5%9C%B0%E9%93%81&t=31&band_rank=7&Refer=top)<br />
 8. [肖战剧里的画竟然都是自己画的](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%89%A7%E9%87%8C%E7%9A%84%E7%94%BB%E7%AB%9F%E7%84%B6%E9%83%BD%E6%98%AF%E8%87%AA%E5%B7%B1%E7%94%BB%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [药水哥消失4个月变这样了](https://s.weibo.com/weibo?q=%23%E8%8D%AF%E6%B0%B4%E5%93%A5%E6%B6%88%E5%A4%B14%E4%B8%AA%E6%9C%88%E5%8F%98%E8%BF%99%E6%A0%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [让宿管阿姨害怕的女大学生](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E5%AE%BF%E7%AE%A1%E9%98%BF%E5%A7%A8%E5%AE%B3%E6%80%95%E7%9A%84%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
