@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 20:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 20:52:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [虽然是精神病但没关系](https://s.weibo.com/weibo?q=%E8%99%BD%E7%84%B6%E6%98%AF%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BD%86%E6%B2%A1%E5%85%B3%E7%B3%BB&t=31&band_rank=4&Refer=top)<br />
 5. [瑞幸今年已联名12次](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E4%BB%8A%E5%B9%B4%E5%B7%B2%E8%81%94%E5%90%8D12%E6%AC%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [中国铁饭碗排行榜](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%93%81%E9%A5%AD%E7%A2%97%E6%8E%92%E8%A1%8C%E6%A6%9C%23&t=31&band_rank=6&Refer=top)<br />
-7. [西出玉门定档](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%87%BA%E7%8E%89%E9%97%A8%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [药水哥消失4个月变这样了](https://s.weibo.com/weibo?q=%23%E8%8D%AF%E6%B0%B4%E5%93%A5%E6%B6%88%E5%A4%B14%E4%B8%AA%E6%9C%88%E5%8F%98%E8%BF%99%E6%A0%B7%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [药水哥消失4个月变这样了](https://s.weibo.com/weibo?q=%23%E8%8D%AF%E6%B0%B4%E5%93%A5%E6%B6%88%E5%A4%B14%E4%B8%AA%E6%9C%88%E5%8F%98%E8%BF%99%E6%A0%B7%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [西出玉门定档](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%87%BA%E7%8E%89%E9%97%A8%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
 9. [张凌赫以为大家叫自己牛的原因](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%BB%A5%E4%B8%BA%E5%A4%A7%E5%AE%B6%E5%8F%AB%E8%87%AA%E5%B7%B1%E7%89%9B%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
