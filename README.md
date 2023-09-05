@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 21:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 21:55:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [福州2名消防员在抢险救援中牺牲](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E2%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E5%9C%A8%E6%8A%A2%E9%99%A9%E6%95%91%E6%8F%B4%E4%B8%AD%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [搜有惊喜](https://www.baidu.com/s?wd=%E6%90%9C%E6%9C%89%E6%83%8A%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [瑞幸今年已联名12次](https://www.baidu.com/s?wd=%E7%91%9E%E5%B9%B8%E4%BB%8A%E5%B9%B4%E5%B7%B2%E8%81%94%E5%90%8D12%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为什么卤味三巨头卖不动了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%A4%E5%91%B3%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [福州2名消防员在抢险救援中牺牲](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E2%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E5%9C%A8%E6%8A%A2%E9%99%A9%E6%95%91%E6%8F%B4%E4%B8%AD%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [搜有惊喜](https://www.baidu.com/s?wd=%E6%90%9C%E6%9C%89%E6%83%8A%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [瑞幸今年已联名12次](https://www.baidu.com/s?wd=%E7%91%9E%E5%B9%B8%E4%BB%8A%E5%B9%B4%E5%B7%B2%E8%81%94%E5%90%8D12%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为什么卤味三巨头卖不动了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%A4%E5%91%B3%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
