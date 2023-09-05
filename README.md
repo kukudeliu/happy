@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 02:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 02:12:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [她们困在“秀才”里](https://www.baidu.com/s?wd=%E5%A5%B9%E4%BB%AC%E5%9B%B0%E5%9C%A8%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国邀请任正非赴美参会？华为辟谣](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%82%80%E8%AF%B7%E4%BB%BB%E6%AD%A3%E9%9D%9E%E8%B5%B4%E7%BE%8E%E5%8F%82%E4%BC%9A%EF%BC%9F%E5%8D%8E%E4%B8%BA%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多地现不明飞行物 武汉有人拍到](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9+%E6%AD%A6%E6%B1%89%E6%9C%89%E4%BA%BA%E6%8B%8D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国外18岁富家子在普吉岛度假身亡](https://www.baidu.com/s?wd=%E5%9B%BD%E5%A4%9618%E5%B2%81%E5%AF%8C%E5%AE%B6%E5%AD%90%E5%9C%A8%E6%99%AE%E5%90%89%E5%B2%9B%E5%BA%A6%E5%81%87%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高校食堂因饭菜不涨价被罚 校方回应](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%9B%A0%E9%A5%AD%E8%8F%9C%E4%B8%8D%E6%B6%A8%E4%BB%B7%E8%A2%AB%E7%BD%9A+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方回应女干部要求砖缝无尘土](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%B9%B2%E9%83%A8%E8%A6%81%E6%B1%82%E7%A0%96%E7%BC%9D%E6%97%A0%E5%B0%98%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [她们困在“秀才”里](https://www.baidu.com/s?wd=%E5%A5%B9%E4%BB%AC%E5%9B%B0%E5%9C%A8%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国邀请任正非赴美参会？华为辟谣](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%82%80%E8%AF%B7%E4%BB%BB%E6%AD%A3%E9%9D%9E%E8%B5%B4%E7%BE%8E%E5%8F%82%E4%BC%9A%EF%BC%9F%E5%8D%8E%E4%B8%BA%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多地现不明飞行物 武汉有人拍到](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9+%E6%AD%A6%E6%B1%89%E6%9C%89%E4%BA%BA%E6%8B%8D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国外18岁富家子在普吉岛度假身亡](https://www.baidu.com/s?wd=%E5%9B%BD%E5%A4%9618%E5%B2%81%E5%AF%8C%E5%AE%B6%E5%AD%90%E5%9C%A8%E6%99%AE%E5%90%89%E5%B2%9B%E5%BA%A6%E5%81%87%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高校食堂因饭菜不涨价被罚 校方回应](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%9B%A0%E9%A5%AD%E8%8F%9C%E4%B8%8D%E6%B6%A8%E4%BB%B7%E8%A2%AB%E7%BD%9A+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方回应女干部要求砖缝无尘土](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%B9%B2%E9%83%A8%E8%A6%81%E6%B1%82%E7%A0%96%E7%BC%9D%E6%97%A0%E5%B0%98%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
