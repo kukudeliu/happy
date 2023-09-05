@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 22:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 22:12:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [高校食堂因饭菜不涨价被罚 校方回应](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%9B%A0%E9%A5%AD%E8%8F%9C%E4%B8%8D%E6%B6%A8%E4%BB%B7%E8%A2%AB%E7%BD%9A+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [秀才曾在直播时高喊给我你的医药费](https://www.baidu.com/s?wd=%E7%A7%80%E6%89%8D%E6%9B%BE%E5%9C%A8%E7%9B%B4%E6%92%AD%E6%97%B6%E9%AB%98%E5%96%8A%E7%BB%99%E6%88%91%E4%BD%A0%E7%9A%84%E5%8C%BB%E8%8D%AF%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共享惠全球的历史之机](https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E6%83%A0%E5%85%A8%E7%90%83%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B9%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [警方称地铁判官精神有问题](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E7%B2%BE%E7%A5%9E%E6%9C%89%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [警方称“地铁判官”精神有问题](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E2%80%9C%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E2%80%9D%E7%B2%BE%E7%A5%9E%E6%9C%89%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [警察合唱比赛唱黑猫警长气势拉满](https://www.baidu.com/s?wd=%E8%AD%A6%E5%AF%9F%E5%90%88%E5%94%B1%E6%AF%94%E8%B5%9B%E5%94%B1%E9%BB%91%E7%8C%AB%E8%AD%A6%E9%95%BF%E6%B0%94%E5%8A%BF%E6%8B%89%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子花84万在医美机构做血液净化](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B184%E4%B8%87%E5%9C%A8%E5%8C%BB%E7%BE%8E%E6%9C%BA%E6%9E%84%E5%81%9A%E8%A1%80%E6%B6%B2%E5%87%80%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [高校食堂因饭菜不涨价被罚 校方回应](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%9B%A0%E9%A5%AD%E8%8F%9C%E4%B8%8D%E6%B6%A8%E4%BB%B7%E8%A2%AB%E7%BD%9A+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [秀才曾在直播时高喊给我你的医药费](https://www.baidu.com/s?wd=%E7%A7%80%E6%89%8D%E6%9B%BE%E5%9C%A8%E7%9B%B4%E6%92%AD%E6%97%B6%E9%AB%98%E5%96%8A%E7%BB%99%E6%88%91%E4%BD%A0%E7%9A%84%E5%8C%BB%E8%8D%AF%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共享惠全球的历史之机](https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E6%83%A0%E5%85%A8%E7%90%83%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B9%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [警方称地铁判官精神有问题](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E7%B2%BE%E7%A5%9E%E6%9C%89%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [警方称“地铁判官”精神有问题](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E2%80%9C%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E2%80%9D%E7%B2%BE%E7%A5%9E%E6%9C%89%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [警察合唱比赛唱黑猫警长气势拉满](https://www.baidu.com/s?wd=%E8%AD%A6%E5%AF%9F%E5%90%88%E5%94%B1%E6%AF%94%E8%B5%9B%E5%94%B1%E9%BB%91%E7%8C%AB%E8%AD%A6%E9%95%BF%E6%B0%94%E5%8A%BF%E6%8B%89%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子花84万在医美机构做血液净化](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B184%E4%B8%87%E5%9C%A8%E5%8C%BB%E7%BE%8E%E6%9C%BA%E6%9E%84%E5%81%9A%E8%A1%80%E6%B6%B2%E5%87%80%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
