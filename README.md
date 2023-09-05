@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 02:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 02:49:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [共享惠全球的历史之机](https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E6%83%A0%E5%85%A8%E7%90%83%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B9%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [她们困在“秀才”里](https://www.baidu.com/s?wd=%E5%A5%B9%E4%BB%AC%E5%9B%B0%E5%9C%A8%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [官方回应女干部要求砖缝无尘土](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%B9%B2%E9%83%A8%E8%A6%81%E6%B1%82%E7%A0%96%E7%BC%9D%E6%97%A0%E5%B0%98%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广东拟全省全域实施个人养老金](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%8B%9F%E5%85%A8%E7%9C%81%E5%85%A8%E5%9F%9F%E5%AE%9E%E6%96%BD%E4%B8%AA%E4%BA%BA%E5%85%BB%E8%80%81%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [央媒评退伍军人买优惠票遭拒](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E8%AF%84%E9%80%80%E4%BC%8D%E5%86%9B%E4%BA%BA%E4%B9%B0%E4%BC%98%E6%83%A0%E7%A5%A8%E9%81%AD%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广东拟全省全域实施个人养老金](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%8B%9F%E5%85%A8%E7%9C%81%E5%85%A8%E5%9F%9F%E5%AE%9E%E6%96%BD%E4%B8%AA%E4%BA%BA%E5%85%BB%E8%80%81%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高校食堂因饭菜不涨价被罚 校方回应](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%9B%A0%E9%A5%AD%E8%8F%9C%E4%B8%8D%E6%B6%A8%E4%BB%B7%E8%A2%AB%E7%BD%9A+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [共享惠全球的历史之机](https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E6%83%A0%E5%85%A8%E7%90%83%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B9%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [她们困在“秀才”里](https://www.baidu.com/s?wd=%E5%A5%B9%E4%BB%AC%E5%9B%B0%E5%9C%A8%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [官方回应女干部要求砖缝无尘土](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%B9%B2%E9%83%A8%E8%A6%81%E6%B1%82%E7%A0%96%E7%BC%9D%E6%97%A0%E5%B0%98%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广东拟全省全域实施个人养老金](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%8B%9F%E5%85%A8%E7%9C%81%E5%85%A8%E5%9F%9F%E5%AE%9E%E6%96%BD%E4%B8%AA%E4%BA%BA%E5%85%BB%E8%80%81%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [央媒评退伍军人买优惠票遭拒](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E8%AF%84%E9%80%80%E4%BC%8D%E5%86%9B%E4%BA%BA%E4%B9%B0%E4%BC%98%E6%83%A0%E7%A5%A8%E9%81%AD%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广东拟全省全域实施个人养老金](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%8B%9F%E5%85%A8%E7%9C%81%E5%85%A8%E5%9F%9F%E5%AE%9E%E6%96%BD%E4%B8%AA%E4%BA%BA%E5%85%BB%E8%80%81%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高校食堂因饭菜不涨价被罚 校方回应](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%9B%A0%E9%A5%AD%E8%8F%9C%E4%B8%8D%E6%B6%A8%E4%BB%B7%E8%A2%AB%E7%BD%9A+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
