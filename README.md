@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 02:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 02:04:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [福州暴雨](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%B7%9E%E6%9A%B4%E9%9B%A8&t=31&band_rank=4&Refer=top)<br />
 5. [蜜雪冰城 五粮液](https://s.weibo.com/weibo?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%20%E4%BA%94%E7%B2%AE%E6%B6%B2&t=31&band_rank=5&Refer=top)<br />
 6. [瑞幸加茅台 华尔街跪下来](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E5%8A%A0%E8%8C%85%E5%8F%B0%20%E5%8D%8E%E5%B0%94%E8%A1%97%E8%B7%AA%E4%B8%8B%E6%9D%A5&t=31&band_rank=6&Refer=top)<br />
-7. [中国人不做那种偷鸡摸狗的事](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8D%E5%81%9A%E9%82%A3%E7%A7%8D%E5%81%B7%E9%B8%A1%E6%91%B8%E7%8B%97%E7%9A%84%E4%BA%8B&t=31&band_rank=7&Refer=top)<br />
-8. [虽然是精神病但没关系](https://s.weibo.com/weibo?q=%E8%99%BD%E7%84%B6%E6%98%AF%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BD%86%E6%B2%A1%E5%85%B3%E7%B3%BB&t=31&band_rank=8&Refer=top)<br />
+7. [虽然是精神病但没关系](https://s.weibo.com/weibo?q=%E8%99%BD%E7%84%B6%E6%98%AF%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BD%86%E6%B2%A1%E5%85%B3%E7%B3%BB&t=31&band_rank=7&Refer=top)<br />
+8. [中国人不做那种偷鸡摸狗的事](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8D%E5%81%9A%E9%82%A3%E7%A7%8D%E5%81%B7%E9%B8%A1%E6%91%B8%E7%8B%97%E7%9A%84%E4%BA%8B&t=31&band_rank=8&Refer=top)<br />
 9. [药水哥消失4个月变这样了](https://s.weibo.com/weibo?q=%23%E8%8D%AF%E6%B0%B4%E5%93%A5%E6%B6%88%E5%A4%B14%E4%B8%AA%E6%9C%88%E5%8F%98%E8%BF%99%E6%A0%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,10 +22,10 @@
 3. [地铁上掌掴大爷的小伙已被找到](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E4%B8%8A%E6%8E%8C%E6%8E%B4%E5%A4%A7%E7%88%B7%E7%9A%84%E5%B0%8F%E4%BC%99%E5%B7%B2%E8%A2%AB%E6%89%BE%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共享惠全球的历史之机](https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E6%83%A0%E5%85%A8%E7%90%83%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B9%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [她们困在“秀才”里](https://www.baidu.com/s?wd=%E5%A5%B9%E4%BB%AC%E5%9B%B0%E5%9C%A8%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [黑龙江多车相撞 大客车压在货车上](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%A4%9A%E8%BD%A6%E7%9B%B8%E6%92%9E+%E5%A4%A7%E5%AE%A2%E8%BD%A6%E5%8E%8B%E5%9C%A8%E8%B4%A7%E8%BD%A6%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [为什么卤味三巨头卖不动了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%A4%E5%91%B3%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [外交部回应台当局提出参与联合国](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%8F%B0%E5%BD%93%E5%B1%80%E6%8F%90%E5%87%BA%E5%8F%82%E4%B8%8E%E8%81%94%E5%90%88%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [多地现不明飞行物 武汉有人拍到](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9+%E6%AD%A6%E6%B1%89%E6%9C%89%E4%BA%BA%E6%8B%8D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为什么卤味三巨头卖不动了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%A4%E5%91%B3%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [地铁上掌掴大爷的小伙已被找到](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E4%B8%8A%E6%8E%8C%E6%8E%B4%E5%A4%A7%E7%88%B7%E7%9A%84%E5%B0%8F%E4%BC%99%E5%B7%B2%E8%A2%AB%E6%89%BE%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共享惠全球的历史之机](https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E6%83%A0%E5%85%A8%E7%90%83%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B9%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [她们困在“秀才”里](https://www.baidu.com/s?wd=%E5%A5%B9%E4%BB%AC%E5%9B%B0%E5%9C%A8%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [黑龙江多车相撞 大客车压在货车上](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%A4%9A%E8%BD%A6%E7%9B%B8%E6%92%9E+%E5%A4%A7%E5%AE%A2%E8%BD%A6%E5%8E%8B%E5%9C%A8%E8%B4%A7%E8%BD%A6%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [为什么卤味三巨头卖不动了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%A4%E5%91%B3%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [外交部回应台当局提出参与联合国](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%8F%B0%E5%BD%93%E5%B1%80%E6%8F%90%E5%87%BA%E5%8F%82%E4%B8%8E%E8%81%94%E5%90%88%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [多地现不明飞行物 武汉有人拍到](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9+%E6%AD%A6%E6%B1%89%E6%9C%89%E4%BA%BA%E6%8B%8D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [为什么卤味三巨头卖不动了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%A4%E5%91%B3%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
