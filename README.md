@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 21:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 21:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [瑞幸今年已联名12次](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E4%BB%8A%E5%B9%B4%E5%B7%B2%E8%81%94%E5%90%8D12%E6%AC%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国铁饭碗排行榜](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%93%81%E9%A5%AD%E7%A2%97%E6%8E%92%E8%A1%8C%E6%A6%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [西出玉门定档](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%87%BA%E7%8E%89%E9%97%A8%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [张凌赫以为大家叫自己牛的原因](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%BB%A5%E4%B8%BA%E5%A4%A7%E5%AE%B6%E5%8F%AB%E8%87%AA%E5%B7%B1%E7%89%9B%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [丞磊卢昱晓这么会营业不要命啦](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8D%A2%E6%98%B1%E6%99%93%E8%BF%99%E4%B9%88%E4%BC%9A%E8%90%A5%E4%B8%9A%E4%B8%8D%E8%A6%81%E5%91%BD%E5%95%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
