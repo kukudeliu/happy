@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 00:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 00:01:01</h4></div>
 
 > 微博  
 
 1. [蜜雪冰城 五粮液](https://s.weibo.com/weibo?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%20%E4%BA%94%E7%B2%AE%E6%B6%B2&t=31&band_rank=1&Refer=top)<br />
 2. [瑞幸加茅台 华尔街跪下来](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E5%8A%A0%E8%8C%85%E5%8F%B0%20%E5%8D%8E%E5%B0%94%E8%A1%97%E8%B7%AA%E4%B8%8B%E6%9D%A5&t=31&band_rank=2&Refer=top)<br />
-3. [我国成功从海上发射一箭四星](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E4%BB%8E%E6%B5%B7%E4%B8%8A%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E5%9B%9B%E6%98%9F%23&t=31&band_rank=3&Refer=top)<br />
+3. [杭州亚运会逛玩指南](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%80%9B%E7%8E%A9%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top)<br />
 4. [虽然是精神病但没关系](https://s.weibo.com/weibo?q=%E8%99%BD%E7%84%B6%E6%98%AF%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BD%86%E6%B2%A1%E5%85%B3%E7%B3%BB&t=31&band_rank=4&Refer=top)<br />
 5. [药水哥消失4个月变这样了](https://s.weibo.com/weibo?q=%23%E8%8D%AF%E6%B0%B4%E5%93%A5%E6%B6%88%E5%A4%B14%E4%B8%AA%E6%9C%88%E5%8F%98%E8%BF%99%E6%A0%B7%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [地铁判官解说](https://s.weibo.com/weibo?q=%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E8%A7%A3%E8%AF%B4&t=31&band_rank=6&Refer=top)<br />
-7. [韩国流行的自助煮面火到上海了](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%B5%81%E8%A1%8C%E7%9A%84%E8%87%AA%E5%8A%A9%E7%85%AE%E9%9D%A2%E7%81%AB%E5%88%B0%E4%B8%8A%E6%B5%B7%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [肖战剧里的画竟然都是自己画的](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%89%A7%E9%87%8C%E7%9A%84%E7%94%BB%E7%AB%9F%E7%84%B6%E9%83%BD%E6%98%AF%E8%87%AA%E5%B7%B1%E7%94%BB%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
+7. [我国成功从海上发射一箭四星](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E4%BB%8E%E6%B5%B7%E4%B8%8A%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E5%9B%9B%E6%98%9F%23&t=31&band_rank=7&Refer=top)<br />
+8. [韩国流行的自助煮面火到上海了](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%B5%81%E8%A1%8C%E7%9A%84%E8%87%AA%E5%8A%A9%E7%85%AE%E9%9D%A2%E7%81%AB%E5%88%B0%E4%B8%8A%E6%B5%B7%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [福州暴雨](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%B7%9E%E6%9A%B4%E9%9B%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
