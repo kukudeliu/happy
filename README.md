@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 19:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 19:28:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [酸梅汤爆火后浙江省中医院推出秋季茶饮](https://s.weibo.com/weibo?q=%23%E9%85%B8%E6%A2%85%E6%B1%A4%E7%88%86%E7%81%AB%E5%90%8E%E6%B5%99%E6%B1%9F%E7%9C%81%E4%B8%AD%E5%8C%BB%E9%99%A2%E6%8E%A8%E5%87%BA%E7%A7%8B%E5%AD%A3%E8%8C%B6%E9%A5%AE%23&t=31&band_rank=5&Refer=top)<br />
 6. [警方称地铁判官精神有问题](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E7%A7%B0%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E7%B2%BE%E7%A5%9E%E6%9C%89%E9%97%AE%E9%A2%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [儿子在妈妈再婚现场发言送祝福](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E5%9C%A8%E5%A6%88%E5%A6%88%E5%86%8D%E5%A9%9A%E7%8E%B0%E5%9C%BA%E5%8F%91%E8%A8%80%E9%80%81%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [papi酱气离婚的又气不离婚的](https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E6%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8F%88%E6%B0%94%E4%B8%8D%E7%A6%BB%E5%A9%9A%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [孙菲菲晒行政处罚书](https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%8F%B2%E8%8F%B2%E6%99%92%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E4%B9%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [国外18岁富家子在普吉岛度假身亡](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%A4%9618%E5%B2%81%E5%AF%8C%E5%AE%B6%E5%AD%90%E5%9C%A8%E6%99%AE%E5%90%89%E5%B2%9B%E5%BA%A6%E5%81%87%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [papi酱气离婚的又气不离婚的](https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E6%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8F%88%E6%B0%94%E4%B8%8D%E7%A6%BB%E5%A9%9A%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
