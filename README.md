@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 22:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 22:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [警方称地铁判官精神有问题](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E7%A7%B0%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E7%B2%BE%E7%A5%9E%E6%9C%89%E9%97%AE%E9%A2%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖战剧里的画竟然都是自己画的](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%89%A7%E9%87%8C%E7%9A%84%E7%94%BB%E7%AB%9F%E7%84%B6%E9%83%BD%E6%98%AF%E8%87%AA%E5%B7%B1%E7%94%BB%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国铁饭碗排行榜](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%93%81%E9%A5%AD%E7%A2%97%E6%8E%92%E8%A1%8C%E6%A6%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [愿山河无恙 家国永安](https://s.weibo.com/weibo?q=%E6%84%BF%E5%B1%B1%E6%B2%B3%E6%97%A0%E6%81%99%20%E5%AE%B6%E5%9B%BD%E6%B0%B8%E5%AE%89&t=31&band_rank=9&Refer=top)<br />
+9. [韩国流行的自助煮面火到上海了](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%B5%81%E8%A1%8C%E7%9A%84%E8%87%AA%E5%8A%A9%E7%85%AE%E9%9D%A2%E7%81%AB%E5%88%B0%E4%B8%8A%E6%B5%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
