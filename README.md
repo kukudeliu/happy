@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 15:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 15:59:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [湛江一轿车在学校门口撞倒多名学生](https://www.baidu.com/s?wd=%E6%B9%9B%E6%B1%9F%E4%B8%80%E8%BD%BF%E8%BD%A6%E5%9C%A8%E5%AD%A6%E6%A0%A1%E9%97%A8%E5%8F%A3%E6%92%9E%E5%80%92%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [记者：中国球员喝成酒懵子不新鲜](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%90%83%E5%91%98%E5%96%9D%E6%88%90%E9%85%92%E6%87%B5%E5%AD%90%E4%B8%8D%E6%96%B0%E9%B2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [警方打掉缅北诈骗窝点11个抓获269人](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%89%93%E6%8E%89%E7%BC%85%E5%8C%97%E8%AF%88%E9%AA%97%E7%AA%9D%E7%82%B911%E4%B8%AA%E6%8A%93%E8%8E%B7269%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [英伟达CEO与印度总理莫迪会面](https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BECEO%E4%B8%8E%E5%8D%B0%E5%BA%A6%E6%80%BB%E7%90%86%E8%8E%AB%E8%BF%AA%E4%BC%9A%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [潘石屹隐入尘烟之后](https://www.baidu.com/s?wd=%E6%BD%98%E7%9F%B3%E5%B1%B9%E9%9A%90%E5%85%A5%E5%B0%98%E7%83%9F%E4%B9%8B%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [潘石屹隐入尘烟之后](https://www.baidu.com/s?wd=%E6%BD%98%E7%9F%B3%E5%B1%B9%E9%9A%90%E5%85%A5%E5%B0%98%E7%83%9F%E4%B9%8B%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生军训表演武术一声吼震慑全场](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%86%9B%E8%AE%AD%E8%A1%A8%E6%BC%94%E6%AD%A6%E6%9C%AF%E4%B8%80%E5%A3%B0%E5%90%BC%E9%9C%87%E6%85%91%E5%85%A8%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [湛江一轿车在学校门口撞倒多名学生](https://www.baidu.com/s?wd=%E6%B9%9B%E6%B1%9F%E4%B8%80%E8%BD%BF%E8%BD%A6%E5%9C%A8%E5%AD%A6%E6%A0%A1%E9%97%A8%E5%8F%A3%E6%92%9E%E5%80%92%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [记者：中国球员喝成酒懵子不新鲜](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%90%83%E5%91%98%E5%96%9D%E6%88%90%E9%85%92%E6%87%B5%E5%AD%90%E4%B8%8D%E6%96%B0%E9%B2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [警方打掉缅北诈骗窝点11个抓获269人](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%89%93%E6%8E%89%E7%BC%85%E5%8C%97%E8%AF%88%E9%AA%97%E7%AA%9D%E7%82%B911%E4%B8%AA%E6%8A%93%E8%8E%B7269%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [英伟达CEO与印度总理莫迪会面](https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BECEO%E4%B8%8E%E5%8D%B0%E5%BA%A6%E6%80%BB%E7%90%86%E8%8E%AB%E8%BF%AA%E4%BC%9A%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [潘石屹隐入尘烟之后](https://www.baidu.com/s?wd=%E6%BD%98%E7%9F%B3%E5%B1%B9%E9%9A%90%E5%85%A5%E5%B0%98%E7%83%9F%E4%B9%8B%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [潘石屹隐入尘烟之后](https://www.baidu.com/s?wd=%E6%BD%98%E7%9F%B3%E5%B1%B9%E9%9A%90%E5%85%A5%E5%B0%98%E7%83%9F%E4%B9%8B%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生军训表演武术一声吼震慑全场](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%86%9B%E8%AE%AD%E8%A1%A8%E6%BC%94%E6%AD%A6%E6%9C%AF%E4%B8%80%E5%A3%B0%E5%90%BC%E9%9C%87%E6%85%91%E5%85%A8%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
