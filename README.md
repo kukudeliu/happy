@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 07:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 07:14:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [她们困在“秀才”里](https://www.baidu.com/s?wd=%E5%A5%B9%E4%BB%AC%E5%9B%B0%E5%9C%A8%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体评古长城被拦腰“挖断”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%8F%A4%E9%95%BF%E5%9F%8E%E8%A2%AB%E6%8B%A6%E8%85%B0%E2%80%9C%E6%8C%96%E6%96%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [为什么卤味三巨头卖不动了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%A4%E5%91%B3%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高校食堂因饭菜不涨价被罚 校方回应](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%9B%A0%E9%A5%AD%E8%8F%9C%E4%B8%8D%E6%B6%A8%E4%BB%B7%E8%A2%AB%E7%BD%9A+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [知情人曝郭德纲曹云金私下和解](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E6%9B%9D%E9%83%AD%E5%BE%B7%E7%BA%B2%E6%9B%B9%E4%BA%91%E9%87%91%E7%A7%81%E4%B8%8B%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [知情人曝郭德纲曹云金私下和解](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E6%9B%9D%E9%83%AD%E5%BE%B7%E7%BA%B2%E6%9B%B9%E4%BA%91%E9%87%91%E7%A7%81%E4%B8%8B%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高校食堂因饭菜不涨价被罚 校方回应](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%9B%A0%E9%A5%AD%E8%8F%9C%E4%B8%8D%E6%B6%A8%E4%BB%B7%E8%A2%AB%E7%BD%9A+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [她们困在“秀才”里](https://www.baidu.com/s?wd=%E5%A5%B9%E4%BB%AC%E5%9B%B0%E5%9C%A8%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体评古长城被拦腰“挖断”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%8F%A4%E9%95%BF%E5%9F%8E%E8%A2%AB%E6%8B%A6%E8%85%B0%E2%80%9C%E6%8C%96%E6%96%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [为什么卤味三巨头卖不动了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%A4%E5%91%B3%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高校食堂因饭菜不涨价被罚 校方回应](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%9B%A0%E9%A5%AD%E8%8F%9C%E4%B8%8D%E6%B6%A8%E4%BB%B7%E8%A2%AB%E7%BD%9A+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [知情人曝郭德纲曹云金私下和解](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E6%9B%9D%E9%83%AD%E5%BE%B7%E7%BA%B2%E6%9B%B9%E4%BA%91%E9%87%91%E7%A7%81%E4%B8%8B%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [知情人曝郭德纲曹云金私下和解](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E6%9B%9D%E9%83%AD%E5%BE%B7%E7%BA%B2%E6%9B%B9%E4%BA%91%E9%87%91%E7%A7%81%E4%B8%8B%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高校食堂因饭菜不涨价被罚 校方回应](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%9B%A0%E9%A5%AD%E8%8F%9C%E4%B8%8D%E6%B6%A8%E4%BB%B7%E8%A2%AB%E7%BD%9A+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
