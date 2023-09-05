@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 10:12:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 10:13:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [理解诺兰成为诺兰](https://s.weibo.com/weibo?q=%E7%90%86%E8%A7%A3%E8%AF%BA%E5%85%B0%E6%88%90%E4%B8%BA%E8%AF%BA%E5%85%B0&t=31&band_rank=4&Refer=top)<br />
 5. [不接受办公室恋情的原因](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%8E%A5%E5%8F%97%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%81%8B%E6%83%85%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [烤肉店回应谢绝日本人进入](https://s.weibo.com/weibo?q=%23%E7%83%A4%E8%82%89%E5%BA%97%E5%9B%9E%E5%BA%94%E8%B0%A2%E7%BB%9D%E6%97%A5%E6%9C%AC%E4%BA%BA%E8%BF%9B%E5%85%A5%23&t=31&band_rank=6&Refer=top)<br />
-7. [8岁女孩去世成为大体老师](https://s.weibo.com/weibo?q=%238%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8E%BB%E4%B8%96%E6%88%90%E4%B8%BA%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [日本核污染水排海量已超4200吨](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E9%87%8F%E5%B7%B2%E8%B6%854200%E5%90%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [巨蟹座永远不会奔谁而去](https://s.weibo.com/weibo?q=%E5%B7%A8%E8%9F%B9%E5%BA%A7%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E5%A5%94%E8%B0%81%E8%80%8C%E5%8E%BB&t=31&band_rank=9&Refer=top)<br />
+7. [景甜张凌赫四海重明杀青](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%9B%9B%E6%B5%B7%E9%87%8D%E6%98%8E%E6%9D%80%E9%9D%92%23&t=31&band_rank=7&Refer=top)<br />
+8. [8岁女孩去世成为大体老师](https://s.weibo.com/weibo?q=%238%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8E%BB%E4%B8%96%E6%88%90%E4%B8%BA%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [日本核污染水排海量已超4200吨](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E9%87%8F%E5%B7%B2%E8%B6%854200%E5%90%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
