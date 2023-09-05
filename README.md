@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 00:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 00:39:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [蜜雪冰城 五粮液](https://s.weibo.com/weibo?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%20%E4%BA%94%E7%B2%AE%E6%B6%B2&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会逛玩指南](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%80%9B%E7%8E%A9%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top)<br />
 4. [瑞幸加茅台 华尔街跪下来](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E5%8A%A0%E8%8C%85%E5%8F%B0%20%E5%8D%8E%E5%B0%94%E8%A1%97%E8%B7%AA%E4%B8%8B%E6%9D%A5&t=31&band_rank=4&Refer=top)<br />
-5. [虽然是精神病但没关系](https://s.weibo.com/weibo?q=%E8%99%BD%E7%84%B6%E6%98%AF%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BD%86%E6%B2%A1%E5%85%B3%E7%B3%BB&t=31&band_rank=5&Refer=top)<br />
-6. [地铁判官找到了](https://s.weibo.com/weibo?q=%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E6%89%BE%E5%88%B0%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+5. [地铁判官找到了](https://s.weibo.com/weibo?q=%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E6%89%BE%E5%88%B0%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
+6. [虽然是精神病但没关系](https://s.weibo.com/weibo?q=%E8%99%BD%E7%84%B6%E6%98%AF%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BD%86%E6%B2%A1%E5%85%B3%E7%B3%BB&t=31&band_rank=6&Refer=top)<br />
 7. [福州暴雨](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%B7%9E%E6%9A%B4%E9%9B%A8&t=31&band_rank=7&Refer=top)<br />
 8. [地铁判官解说](https://s.weibo.com/weibo?q=%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E8%A7%A3%E8%AF%B4&t=31&band_rank=8&Refer=top)<br />
 9. [药水哥消失4个月变这样了](https://s.weibo.com/weibo?q=%23%E8%8D%AF%E6%B0%B4%E5%93%A5%E6%B6%88%E5%A4%B14%E4%B8%AA%E6%9C%88%E5%8F%98%E8%BF%99%E6%A0%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
@@ -22,10 +22,10 @@
 3. [她们困在“秀才”里](https://www.baidu.com/s?wd=%E5%A5%B9%E4%BB%AC%E5%9B%B0%E5%9C%A8%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共享惠全球的历史之机](https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E6%83%A0%E5%85%A8%E7%90%83%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B9%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [地铁上掌掴大爷的小伙已被找到](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E4%B8%8A%E6%8E%8C%E6%8E%B4%E5%A4%A7%E7%88%B7%E7%9A%84%E5%B0%8F%E4%BC%99%E5%B7%B2%E8%A2%AB%E6%89%BE%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [香港驻伦敦经贸办被喷红漆 中方回应](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%A9%BB%E4%BC%A6%E6%95%A6%E7%BB%8F%E8%B4%B8%E5%8A%9E%E8%A2%AB%E5%96%B7%E7%BA%A2%E6%BC%86+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [那些因厌食症差点死掉的女孩](https://www.baidu.com/s?wd=%E9%82%A3%E4%BA%9B%E5%9B%A0%E5%8E%8C%E9%A3%9F%E7%97%87%E5%B7%AE%E7%82%B9%E6%AD%BB%E6%8E%89%E7%9A%84%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [郑州新生儿入户三孩家庭补贴1.5万](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%96%B0%E7%94%9F%E5%84%BF%E5%85%A5%E6%88%B7%E4%B8%89%E5%AD%A9%E5%AE%B6%E5%BA%AD%E8%A1%A5%E8%B4%B41.5%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子花84万在医美机构做血液净化](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B184%E4%B8%87%E5%9C%A8%E5%8C%BB%E7%BE%8E%E6%9C%BA%E6%9E%84%E5%81%9A%E8%A1%80%E6%B6%B2%E5%87%80%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [香港驻伦敦经贸办被喷红漆 中方回应](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%A9%BB%E4%BC%A6%E6%95%A6%E7%BB%8F%E8%B4%B8%E5%8A%9E%E8%A2%AB%E5%96%B7%E7%BA%A2%E6%BC%86+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [她们困在“秀才”里](https://www.baidu.com/s?wd=%E5%A5%B9%E4%BB%AC%E5%9B%B0%E5%9C%A8%E2%80%9C%E7%A7%80%E6%89%8D%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共享惠全球的历史之机](https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E6%83%A0%E5%85%A8%E7%90%83%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B9%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [地铁上掌掴大爷的小伙已被找到](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E4%B8%8A%E6%8E%8C%E6%8E%B4%E5%A4%A7%E7%88%B7%E7%9A%84%E5%B0%8F%E4%BC%99%E5%B7%B2%E8%A2%AB%E6%89%BE%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [香港驻伦敦经贸办被喷红漆 中方回应](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%A9%BB%E4%BC%A6%E6%95%A6%E7%BB%8F%E8%B4%B8%E5%8A%9E%E8%A2%AB%E5%96%B7%E7%BA%A2%E6%BC%86+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [那些因厌食症差点死掉的女孩](https://www.baidu.com/s?wd=%E9%82%A3%E4%BA%9B%E5%9B%A0%E5%8E%8C%E9%A3%9F%E7%97%87%E5%B7%AE%E7%82%B9%E6%AD%BB%E6%8E%89%E7%9A%84%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [郑州新生儿入户三孩家庭补贴1.5万](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%96%B0%E7%94%9F%E5%84%BF%E5%85%A5%E6%88%B7%E4%B8%89%E5%AD%A9%E5%AE%B6%E5%BA%AD%E8%A1%A5%E8%B4%B41.5%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子花84万在医美机构做血液净化](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B184%E4%B8%87%E5%9C%A8%E5%8C%BB%E7%BE%8E%E6%9C%BA%E6%9E%84%E5%81%9A%E8%A1%80%E6%B6%B2%E5%87%80%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [香港驻伦敦经贸办被喷红漆 中方回应](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%A9%BB%E4%BC%A6%E6%95%A6%E7%BB%8F%E8%B4%B8%E5%8A%9E%E8%A2%AB%E5%96%B7%E7%BA%A2%E6%BC%86+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
