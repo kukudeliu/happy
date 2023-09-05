@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 01:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 01:20:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [蜜雪冰城辟谣与五粮液出联名款](https://www.baidu.com/s?wd=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%BE%9F%E8%B0%A3%E4%B8%8E%E4%BA%94%E7%B2%AE%E6%B6%B2%E5%87%BA%E8%81%94%E5%90%8D%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [特斯拉“鲶鱼效应”引发连锁反应](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E9%B2%B6%E9%B1%BC%E6%95%88%E5%BA%94%E2%80%9D%E5%BC%95%E5%8F%91%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [官方回应女干部要求砖缝无尘土](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%B9%B2%E9%83%A8%E8%A6%81%E6%B1%82%E7%A0%96%E7%BC%9D%E6%97%A0%E5%B0%98%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [五问715万元“丑”雕塑](https://www.baidu.com/s?wd=%E4%BA%94%E9%97%AE715%E4%B8%87%E5%85%83%E2%80%9C%E4%B8%91%E2%80%9D%E9%9B%95%E5%A1%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [蜜雪冰城辟谣与五粮液出联名款](https://www.baidu.com/s?wd=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%BE%9F%E8%B0%A3%E4%B8%8E%E4%BA%94%E7%B2%AE%E6%B6%B2%E5%87%BA%E8%81%94%E5%90%8D%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [特斯拉“鲶鱼效应”引发连锁反应](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E9%B2%B6%E9%B1%BC%E6%95%88%E5%BA%94%E2%80%9D%E5%BC%95%E5%8F%91%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [官方回应女干部要求砖缝无尘土](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%B9%B2%E9%83%A8%E8%A6%81%E6%B1%82%E7%A0%96%E7%BC%9D%E6%97%A0%E5%B0%98%E5%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [五问715万元“丑”雕塑](https://www.baidu.com/s?wd=%E4%BA%94%E9%97%AE715%E4%B8%87%E5%85%83%E2%80%9C%E4%B8%91%E2%80%9D%E9%9B%95%E5%A1%91&sa=fyb_news&rsv_dl=fyb_news)<br />
