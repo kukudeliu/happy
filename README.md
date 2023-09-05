@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 22:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 22:59:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [警方称“地铁判官”精神有问题](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E2%80%9C%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E2%80%9D%E7%B2%BE%E7%A5%9E%E6%9C%89%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [19块的酱香拿铁赚走新中产1个亿](https://www.baidu.com/s?wd=19%E5%9D%97%E7%9A%84%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E8%B5%9A%E8%B5%B0%E6%96%B0%E4%B8%AD%E4%BA%A71%E4%B8%AA%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为什么卤味三巨头卖不动了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%A4%E5%91%B3%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [为什么卤味三巨头卖不动了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%A4%E5%91%B3%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [蜜雪冰城辟谣与五粮液出联名款](https://www.baidu.com/s?wd=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%BE%9F%E8%B0%A3%E4%B8%8E%E4%BA%94%E7%B2%AE%E6%B6%B2%E5%87%BA%E8%81%94%E5%90%8D%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [警方称“地铁判官”精神有问题](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E2%80%9C%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E2%80%9D%E7%B2%BE%E7%A5%9E%E6%9C%89%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [19块的酱香拿铁赚走新中产1个亿](https://www.baidu.com/s?wd=19%E5%9D%97%E7%9A%84%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E8%B5%9A%E8%B5%B0%E6%96%B0%E4%B8%AD%E4%BA%A71%E4%B8%AA%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [为什么卤味三巨头卖不动了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%A4%E5%91%B3%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [为什么卤味三巨头卖不动了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%A4%E5%91%B3%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [蜜雪冰城辟谣与五粮液出联名款](https://www.baidu.com/s?wd=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%BE%9F%E8%B0%A3%E4%B8%8E%E4%BA%94%E7%B2%AE%E6%B6%B2%E5%87%BA%E8%81%94%E5%90%8D%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
