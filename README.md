@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 12:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 12:41:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [妻子婚前隐瞒患癌丈夫诉离婚被驳](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%A9%9A%E5%89%8D%E9%9A%90%E7%9E%92%E6%82%A3%E7%99%8C%E4%B8%88%E5%A4%AB%E8%AF%89%E7%A6%BB%E5%A9%9A%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=5&Refer=top)<br />
 6. [42岁主持人感冒未痊愈去健身突发心梗去世](https://s.weibo.com/weibo?q=%2342%E5%B2%81%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%84%9F%E5%86%92%E6%9C%AA%E7%97%8A%E6%84%88%E5%8E%BB%E5%81%A5%E8%BA%AB%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [62岁北京女粉丝打赏秀才52万只追回数万](https://s.weibo.com/weibo?q=%2362%E5%B2%81%E5%8C%97%E4%BA%AC%E5%A5%B3%E7%B2%89%E4%B8%9D%E6%89%93%E8%B5%8F%E7%A7%80%E6%89%8D52%E4%B8%87%E5%8F%AA%E8%BF%BD%E5%9B%9E%E6%95%B0%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [东北7元三个肉菜的盒饭](https://s.weibo.com/weibo?q=%E4%B8%9C%E5%8C%977%E5%85%83%E4%B8%89%E4%B8%AA%E8%82%89%E8%8F%9C%E7%9A%84%E7%9B%92%E9%A5%AD&t=31&band_rank=8&Refer=top)<br />
-9. [我来接我未过门的妻子怎么了](https://s.weibo.com/weibo?q=%E6%88%91%E6%9D%A5%E6%8E%A5%E6%88%91%E6%9C%AA%E8%BF%87%E9%97%A8%E7%9A%84%E5%A6%BB%E5%AD%90%E6%80%8E%E4%B9%88%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [我来接我未过门的妻子怎么了](https://s.weibo.com/weibo?q=%E6%88%91%E6%9D%A5%E6%8E%A5%E6%88%91%E6%9C%AA%E8%BF%87%E9%97%A8%E7%9A%84%E5%A6%BB%E5%AD%90%E6%80%8E%E4%B9%88%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [东北7元三个肉菜的盒饭](https://s.weibo.com/weibo?q=%E4%B8%9C%E5%8C%977%E5%85%83%E4%B8%89%E4%B8%AA%E8%82%89%E8%8F%9C%E7%9A%84%E7%9B%92%E9%A5%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
