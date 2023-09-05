@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 10:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 10:42:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [一个真秀才倒下去 十个假靳东站起来](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E7%9C%9F%E7%A7%80%E6%89%8D%E5%80%92%E4%B8%8B%E5%8E%BB+%E5%8D%81%E4%B8%AA%E5%81%87%E9%9D%B3%E4%B8%9C%E7%AB%99%E8%B5%B7%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [上海暴雨山姆被淹 网友:变汤姆了](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8%E5%B1%B1%E5%A7%86%E8%A2%AB%E6%B7%B9+%E7%BD%91%E5%8F%8B%3A%E5%8F%98%E6%B1%A4%E5%A7%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023百度云智大会](https://www.baidu.com/s?wd=2023%E7%99%BE%E5%BA%A6%E4%BA%91%E6%99%BA%E5%A4%A7%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [妻子腿卡收割机丈夫紧抱大喊名字](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E8%85%BF%E5%8D%A1%E6%94%B6%E5%89%B2%E6%9C%BA%E4%B8%88%E5%A4%AB%E7%B4%A7%E6%8A%B1%E5%A4%A7%E5%96%8A%E5%90%8D%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [爷爷咳嗽不小心把假牙咳出迅速撤回](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E5%92%B3%E5%97%BD%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8A%E5%81%87%E7%89%99%E5%92%B3%E5%87%BA%E8%BF%85%E9%80%9F%E6%92%A4%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [一个真秀才倒下去 十个假靳东站起来](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E7%9C%9F%E7%A7%80%E6%89%8D%E5%80%92%E4%B8%8B%E5%8E%BB+%E5%8D%81%E4%B8%AA%E5%81%87%E9%9D%B3%E4%B8%9C%E7%AB%99%E8%B5%B7%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [上海暴雨山姆被淹 网友:变汤姆了](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8%E5%B1%B1%E5%A7%86%E8%A2%AB%E6%B7%B9+%E7%BD%91%E5%8F%8B%3A%E5%8F%98%E6%B1%A4%E5%A7%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023百度云智大会](https://www.baidu.com/s?wd=2023%E7%99%BE%E5%BA%A6%E4%BA%91%E6%99%BA%E5%A4%A7%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [妻子腿卡收割机丈夫紧抱大喊名字](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E8%85%BF%E5%8D%A1%E6%94%B6%E5%89%B2%E6%9C%BA%E4%B8%88%E5%A4%AB%E7%B4%A7%E6%8A%B1%E5%A4%A7%E5%96%8A%E5%90%8D%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [爷爷咳嗽不小心把假牙咳出迅速撤回](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E5%92%B3%E5%97%BD%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8A%E5%81%87%E7%89%99%E5%92%B3%E5%87%BA%E8%BF%85%E9%80%9F%E6%92%A4%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
