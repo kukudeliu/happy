@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 12:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 12:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [东北7元三个肉菜的盒饭](https://s.weibo.com/weibo?q=%E4%B8%9C%E5%8C%977%E5%85%83%E4%B8%89%E4%B8%AA%E8%82%89%E8%8F%9C%E7%9A%84%E7%9B%92%E9%A5%AD&t=31&band_rank=6&Refer=top)<br />
 7. [茅台巧克力即将上线](https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%8D%B3%E5%B0%86%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [我来接我未过门的妻子怎么了](https://s.weibo.com/weibo?q=%E6%88%91%E6%9D%A5%E6%8E%A5%E6%88%91%E6%9C%AA%E8%BF%87%E9%97%A8%E7%9A%84%E5%A6%BB%E5%AD%90%E6%80%8E%E4%B9%88%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [烤肉店回应谢绝日本人进入](https://s.weibo.com/weibo?q=%23%E7%83%A4%E8%82%89%E5%BA%97%E5%9B%9E%E5%BA%94%E8%B0%A2%E7%BB%9D%E6%97%A5%E6%9C%AC%E4%BA%BA%E8%BF%9B%E5%85%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [16岁女孩绑钢筋获全国二等奖](https://s.weibo.com/weibo?q=%2316%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%BB%91%E9%92%A2%E7%AD%8B%E8%8E%B7%E5%85%A8%E5%9B%BD%E4%BA%8C%E7%AD%89%E5%A5%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
