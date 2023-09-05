@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 20:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 20:35:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [秀才曾在直播时高喊给我你的医药费](https://www.baidu.com/s?wd=%E7%A7%80%E6%89%8D%E6%9B%BE%E5%9C%A8%E7%9B%B4%E6%92%AD%E6%97%B6%E9%AB%98%E5%96%8A%E7%BB%99%E6%88%91%E4%BD%A0%E7%9A%84%E5%8C%BB%E8%8D%AF%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [携手推动智能产业创新发展](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E6%8E%A8%E5%8A%A8%E6%99%BA%E8%83%BD%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [为什么卤味三巨头卖不动了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%A4%E5%91%B3%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子花84万在医美机构做血液净化](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B184%E4%B8%87%E5%9C%A8%E5%8C%BB%E7%BE%8E%E6%9C%BA%E6%9E%84%E5%81%9A%E8%A1%80%E6%B6%B2%E5%87%80%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高校食堂因饭菜不涨价被罚 校方回应](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%9B%A0%E9%A5%AD%E8%8F%9C%E4%B8%8D%E6%B6%A8%E4%BB%B7%E8%A2%AB%E7%BD%9A+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新疆“海鲜”大丰收了](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E2%80%9C%E6%B5%B7%E9%B2%9C%E2%80%9D%E5%A4%A7%E4%B8%B0%E6%94%B6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高校食堂因饭菜不涨价被罚 校方回应](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%9B%A0%E9%A5%AD%E8%8F%9C%E4%B8%8D%E6%B6%A8%E4%BB%B7%E8%A2%AB%E7%BD%9A+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子花84万在医美机构做血液净化](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B184%E4%B8%87%E5%9C%A8%E5%8C%BB%E7%BE%8E%E6%9C%BA%E6%9E%84%E5%81%9A%E8%A1%80%E6%B6%B2%E5%87%80%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [papi酱气离婚的又气不离婚的](https://www.baidu.com/s?wd=papi%E9%85%B1%E6%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8F%88%E6%B0%94%E4%B8%8D%E7%A6%BB%E5%A9%9A%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [孙菲菲晒行政处罚书 再提被打事件](https://www.baidu.com/s?wd=%E5%AD%99%E8%8F%B2%E8%8F%B2%E6%99%92%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E4%B9%A6+%E5%86%8D%E6%8F%90%E8%A2%AB%E6%89%93%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [秀才曾在直播时高喊给我你的医药费](https://www.baidu.com/s?wd=%E7%A7%80%E6%89%8D%E6%9B%BE%E5%9C%A8%E7%9B%B4%E6%92%AD%E6%97%B6%E9%AB%98%E5%96%8A%E7%BB%99%E6%88%91%E4%BD%A0%E7%9A%84%E5%8C%BB%E8%8D%AF%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [携手推动智能产业创新发展](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E6%8E%A8%E5%8A%A8%E6%99%BA%E8%83%BD%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [为什么卤味三巨头卖不动了](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%A4%E5%91%B3%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子花84万在医美机构做血液净化](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B184%E4%B8%87%E5%9C%A8%E5%8C%BB%E7%BE%8E%E6%9C%BA%E6%9E%84%E5%81%9A%E8%A1%80%E6%B6%B2%E5%87%80%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [高校食堂因饭菜不涨价被罚 校方回应](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%9B%A0%E9%A5%AD%E8%8F%9C%E4%B8%8D%E6%B6%A8%E4%BB%B7%E8%A2%AB%E7%BD%9A+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新疆“海鲜”大丰收了](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E2%80%9C%E6%B5%B7%E9%B2%9C%E2%80%9D%E5%A4%A7%E4%B8%B0%E6%94%B6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高校食堂因饭菜不涨价被罚 校方回应](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%9B%A0%E9%A5%AD%E8%8F%9C%E4%B8%8D%E6%B6%A8%E4%BB%B7%E8%A2%AB%E7%BD%9A+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子花84万在医美机构做血液净化](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B184%E4%B8%87%E5%9C%A8%E5%8C%BB%E7%BE%8E%E6%9C%BA%E6%9E%84%E5%81%9A%E8%A1%80%E6%B6%B2%E5%87%80%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [papi酱气离婚的又气不离婚的](https://www.baidu.com/s?wd=papi%E9%85%B1%E6%B0%94%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8F%88%E6%B0%94%E4%B8%8D%E7%A6%BB%E5%A9%9A%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [孙菲菲晒行政处罚书 再提被打事件](https://www.baidu.com/s?wd=%E5%AD%99%E8%8F%B2%E8%8F%B2%E6%99%92%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E4%B9%A6+%E5%86%8D%E6%8F%90%E8%A2%AB%E6%89%93%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
