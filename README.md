@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 16:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 16:32:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [小时代5 封建时代](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%B6%E4%BB%A35%20%E5%B0%81%E5%BB%BA%E6%97%B6%E4%BB%A3&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会逛玩指南](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%80%9B%E7%8E%A9%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top)<br />
 4. [果然毒唯只对真嫂子破防](https://s.weibo.com/weibo?q=%23%E6%9E%9C%E7%84%B6%E6%AF%92%E5%94%AF%E5%8F%AA%E5%AF%B9%E7%9C%9F%E5%AB%82%E5%AD%90%E7%A0%B4%E9%98%B2%23&t=31&band_rank=4&Refer=top)<br />
-5. [逃出大英博物馆第三集](https://s.weibo.com/weibo?q=%E9%80%83%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E7%AC%AC%E4%B8%89%E9%9B%86&t=31&band_rank=5&Refer=top)<br />
-6. [为什么卤味三巨头卖不动了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%A4%E5%91%B3%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+5. [为什么卤味三巨头卖不动了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%A4%E5%91%B3%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
+6. [逃出大英博物馆第三集](https://s.weibo.com/weibo?q=%E9%80%83%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E7%AC%AC%E4%B8%89%E9%9B%86&t=31&band_rank=6&Refer=top)<br />
 7. [路过都觉得脏的程度](https://s.weibo.com/weibo?q=%E8%B7%AF%E8%BF%87%E9%83%BD%E8%A7%89%E5%BE%97%E8%84%8F%E7%9A%84%E7%A8%8B%E5%BA%A6&t=31&band_rank=7&Refer=top)<br />
 8. [姆巴佩放弃奖金为巴黎节省1亿欧](https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%94%BE%E5%BC%83%E5%A5%96%E9%87%91%E4%B8%BA%E5%B7%B4%E9%BB%8E%E8%8A%82%E7%9C%811%E4%BA%BF%E6%AC%A7%23&t=31&band_rank=8&Refer=top)<br />
 9. [42岁主持人感冒未痊愈去健身突发心梗去世](https://s.weibo.com/weibo?q=%2342%E5%B2%81%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%84%9F%E5%86%92%E6%9C%AA%E7%97%8A%E6%84%88%E5%8E%BB%E5%81%A5%E8%BA%AB%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
