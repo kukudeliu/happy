@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 21:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 21:29:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [福州2名消防员在抢险救援中牺牲](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E2%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E5%9C%A8%E6%8A%A2%E9%99%A9%E6%95%91%E6%8F%B4%E4%B8%AD%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国留葡15岁小将因车祸去世](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E8%91%A115%E5%B2%81%E5%B0%8F%E5%B0%86%E5%9B%A0%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [搜有惊喜](https://www.baidu.com/s?wd=%E6%90%9C%E6%9C%89%E6%83%8A%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [英国伯明翰市政府宣布破产](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E4%BC%AF%E6%98%8E%E7%BF%B0%E5%B8%82%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E7%A0%B4%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [知情人曝郭德纲曹云金私下和解](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E6%9B%9D%E9%83%AD%E5%BE%B7%E7%BA%B2%E6%9B%B9%E4%BA%91%E9%87%91%E7%A7%81%E4%B8%8B%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [福州2名消防员在抢险救援中牺牲](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E2%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E5%9C%A8%E6%8A%A2%E9%99%A9%E6%95%91%E6%8F%B4%E4%B8%AD%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国留葡15岁小将因车祸去世](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E8%91%A115%E5%B2%81%E5%B0%8F%E5%B0%86%E5%9B%A0%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [搜有惊喜](https://www.baidu.com/s?wd=%E6%90%9C%E6%9C%89%E6%83%8A%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [英国伯明翰市政府宣布破产](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E4%BC%AF%E6%98%8E%E7%BF%B0%E5%B8%82%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E7%A0%B4%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [知情人曝郭德纲曹云金私下和解](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E6%9B%9D%E9%83%AD%E5%BE%B7%E7%BA%B2%E6%9B%B9%E4%BA%91%E9%87%91%E7%A7%81%E4%B8%8B%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
