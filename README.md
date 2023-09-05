@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 23:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-05 23:28:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [瑞幸今年已联名12次](https://www.baidu.com/s?wd=%E7%91%9E%E5%B9%B8%E4%BB%8A%E5%B9%B4%E5%B7%B2%E8%81%94%E5%90%8D12%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [香港驻伦敦经贸办被喷红漆 中方回应](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%A9%BB%E4%BC%A6%E6%95%A6%E7%BB%8F%E8%B4%B8%E5%8A%9E%E8%A2%AB%E5%96%B7%E7%BA%A2%E6%BC%86+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子花84万在医美机构做血液净化](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B184%E4%B8%87%E5%9C%A8%E5%8C%BB%E7%BE%8E%E6%9C%BA%E6%9E%84%E5%81%9A%E8%A1%80%E6%B6%B2%E5%87%80%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [印度或要将国名改为“巴拉特”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%88%96%E8%A6%81%E5%B0%86%E5%9B%BD%E5%90%8D%E6%94%B9%E4%B8%BA%E2%80%9C%E5%B7%B4%E6%8B%89%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [甄子丹为排场大道歉](https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%E4%B8%BA%E6%8E%92%E5%9C%BA%E5%A4%A7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [瑞幸今年已联名12次](https://www.baidu.com/s?wd=%E7%91%9E%E5%B9%B8%E4%BB%8A%E5%B9%B4%E5%B7%B2%E8%81%94%E5%90%8D12%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [香港驻伦敦经贸办被喷红漆 中方回应](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%A9%BB%E4%BC%A6%E6%95%A6%E7%BB%8F%E8%B4%B8%E5%8A%9E%E8%A2%AB%E5%96%B7%E7%BA%A2%E6%BC%86+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子花84万在医美机构做血液净化](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B184%E4%B8%87%E5%9C%A8%E5%8C%BB%E7%BE%8E%E6%9C%BA%E6%9E%84%E5%81%9A%E8%A1%80%E6%B6%B2%E5%87%80%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
