@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 09:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 09:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [地铁判官找到了](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么要多和婴儿聊天](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%A4%9A%E5%92%8C%E5%A9%B4%E5%84%BF%E8%81%8A%E5%A4%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [活牛2分钟被强行灌水近50升](https://s.weibo.com/weibo?q=%23%E6%B4%BB%E7%89%9B2%E5%88%86%E9%92%9F%E8%A2%AB%E5%BC%BA%E8%A1%8C%E7%81%8C%E6%B0%B4%E8%BF%9150%E5%8D%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子称怒砸10杯酱香拿铁不是因奶油太丑](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E6%80%92%E7%A0%B810%E6%9D%AF%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E4%B8%8D%E6%98%AF%E5%9B%A0%E5%A5%B6%E6%B2%B9%E5%A4%AA%E4%B8%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [瑞幸加茅台 华尔街跪下来](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E5%8A%A0%E8%8C%85%E5%8F%B0%20%E5%8D%8E%E5%B0%94%E8%A1%97%E8%B7%AA%E4%B8%8B%E6%9D%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
