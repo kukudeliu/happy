@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 19:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 19:39:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [李强就日本核污水排海问题阐明立场](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BC%BA%E5%B0%B1%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E9%97%AE%E9%A2%98%E9%98%90%E6%98%8E%E7%AB%8B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [酸奶原价9.9元特价10元](https://www.baidu.com/s?wd=%E9%85%B8%E5%A5%B6%E5%8E%9F%E4%BB%B79.9%E5%85%83%E7%89%B9%E4%BB%B710%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [50岁以下人群癌症新发病例数激增](https://www.baidu.com/s?wd=50%E5%B2%81%E4%BB%A5%E4%B8%8B%E4%BA%BA%E7%BE%A4%E7%99%8C%E7%97%87%E6%96%B0%E5%8F%91%E7%97%85%E4%BE%8B%E6%95%B0%E6%BF%80%E5%A2%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [iPhone15国行售价疑曝光](https://www.baidu.com/s?wd=iPhone15%E5%9B%BD%E8%A1%8C%E5%94%AE%E4%BB%B7%E7%96%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [校方回应教材丢失由学生买单](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E6%95%99%E6%9D%90%E4%B8%A2%E5%A4%B1%E7%94%B1%E5%AD%A6%E7%94%9F%E4%B9%B0%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [李强就日本核污水排海问题阐明立场](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BC%BA%E5%B0%B1%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E9%97%AE%E9%A2%98%E9%98%90%E6%98%8E%E7%AB%8B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [酸奶原价9.9元特价10元](https://www.baidu.com/s?wd=%E9%85%B8%E5%A5%B6%E5%8E%9F%E4%BB%B79.9%E5%85%83%E7%89%B9%E4%BB%B710%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [50岁以下人群癌症新发病例数激增](https://www.baidu.com/s?wd=50%E5%B2%81%E4%BB%A5%E4%B8%8B%E4%BA%BA%E7%BE%A4%E7%99%8C%E7%97%87%E6%96%B0%E5%8F%91%E7%97%85%E4%BE%8B%E6%95%B0%E6%BF%80%E5%A2%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [iPhone15国行售价疑曝光](https://www.baidu.com/s?wd=iPhone15%E5%9B%BD%E8%A1%8C%E5%94%AE%E4%BB%B7%E7%96%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [校方回应教材丢失由学生买单](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E6%95%99%E6%9D%90%E4%B8%A2%E5%A4%B1%E7%94%B1%E5%AD%A6%E7%94%9F%E4%B9%B0%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
