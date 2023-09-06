@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 02:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 02:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [iPhone15国行售价曝光](https://s.weibo.com/weibo?q=%23iPhone15%E5%9B%BD%E8%A1%8C%E5%94%AE%E4%BB%B7%E6%9B%9D%E5%85%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [一杯咖啡 两代人的沉默](https://s.weibo.com/weibo?q=%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1%20%E4%B8%A4%E4%BB%A3%E4%BA%BA%E7%9A%84%E6%B2%89%E9%BB%98&t=31&band_rank=7&Refer=top)<br />
 8. [减脂事半功倍的三件事](https://s.weibo.com/weibo?q=%E5%87%8F%E8%84%82%E4%BA%8B%E5%8D%8A%E5%8A%9F%E5%80%8D%E7%9A%84%E4%B8%89%E4%BB%B6%E4%BA%8B&t=31&band_rank=8&Refer=top)<br />
-9. [每读到史铁生这段都被震撼](https://s.weibo.com/weibo?q=%E6%AF%8F%E8%AF%BB%E5%88%B0%E5%8F%B2%E9%93%81%E7%94%9F%E8%BF%99%E6%AE%B5%E9%83%BD%E8%A2%AB%E9%9C%87%E6%92%BC&t=31&band_rank=9&Refer=top)<br />
+9. [邓紫棋说我是歌手已经是十年前了](https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E8%AF%B4%E6%88%91%E6%98%AF%E6%AD%8C%E6%89%8B%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%8D%81%E5%B9%B4%E5%89%8D%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
