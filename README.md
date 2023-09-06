@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 00:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 00:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [一杯咖啡 两代人的沉默](https://s.weibo.com/weibo?q=%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1%20%E4%B8%A4%E4%BB%A3%E4%BA%BA%E7%9A%84%E6%B2%89%E9%BB%98&t=31&band_rank=6&Refer=top)<br />
 7. [虞书欣做了八百个综艺效果](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%81%9A%E4%BA%86%E5%85%AB%E7%99%BE%E4%B8%AA%E7%BB%BC%E8%89%BA%E6%95%88%E6%9E%9C&t=31&band_rank=7&Refer=top)<br />
 8. [华为卡脖子问题解决了吗](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8D%A1%E8%84%96%E5%AD%90%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E4%BA%86%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘诗诗霍建华为胡歌新片打call](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E9%9C%8D%E5%BB%BA%E5%8D%8E%E4%B8%BA%E8%83%A1%E6%AD%8C%E6%96%B0%E7%89%87%E6%89%93call%23&t=31&band_rank=9&Refer=top)<br />
+9. [EXO 安踏](https://s.weibo.com/weibo?q=EXO%20%E5%AE%89%E8%B8%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
