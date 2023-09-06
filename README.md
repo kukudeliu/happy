@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 20:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 20:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [洪知秀演唱会哭了](https://s.weibo.com/weibo?q=%23%E6%B4%AA%E7%9F%A5%E7%A7%80%E6%BC%94%E5%94%B1%E4%BC%9A%E5%93%AD%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [iPhone15国行售价曝光](https://s.weibo.com/weibo?q=%23iPhone15%E5%9B%BD%E8%A1%8C%E5%94%AE%E4%BB%B7%E6%9B%9D%E5%85%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [酱香拿铁已经火到韩国了](https://s.weibo.com/weibo?q=%23%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%B7%B2%E7%BB%8F%E7%81%AB%E5%88%B0%E9%9F%A9%E5%9B%BD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [没想到我提离职猫同事也要走](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E6%88%91%E6%8F%90%E7%A6%BB%E8%81%8C%E7%8C%AB%E5%90%8C%E4%BA%8B%E4%B9%9F%E8%A6%81%E8%B5%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [林俊杰北京](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%8C%97%E4%BA%AC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
