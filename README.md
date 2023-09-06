@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 17:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 17:28:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [Hero取关久哲](https://s.weibo.com/weibo?q=%23Hero%E5%8F%96%E5%85%B3%E4%B9%85%E5%93%B2%23&t=31&band_rank=5&Refer=top)<br />
 6. [地铁判官已赔礼道歉](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E5%B7%B2%E8%B5%94%E7%A4%BC%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [灵隐寺出奶茶了](https://s.weibo.com/weibo?q=%23%E7%81%B5%E9%9A%90%E5%AF%BA%E5%87%BA%E5%A5%B6%E8%8C%B6%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [谁在考公可以进来学申论](https://s.weibo.com/weibo?q=%E8%B0%81%E5%9C%A8%E8%80%83%E5%85%AC%E5%8F%AF%E4%BB%A5%E8%BF%9B%E6%9D%A5%E5%AD%A6%E7%94%B3%E8%AE%BA&t=31&band_rank=8&Refer=top)<br />
-9. [梦泪婚礼聚集大半个电竞圈](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E6%B3%AA%E5%A9%9A%E7%A4%BC%E8%81%9A%E9%9B%86%E5%A4%A7%E5%8D%8A%E4%B8%AA%E7%94%B5%E7%AB%9E%E5%9C%88%23&t=31&band_rank=9&Refer=top)<br />
+8. [梦泪婚礼聚集大半个电竞圈](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E6%B3%AA%E5%A9%9A%E7%A4%BC%E8%81%9A%E9%9B%86%E5%A4%A7%E5%8D%8A%E4%B8%AA%E7%94%B5%E7%AB%9E%E5%9C%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [谁在考公可以进来学申论](https://s.weibo.com/weibo?q=%E8%B0%81%E5%9C%A8%E8%80%83%E5%85%AC%E5%8F%AF%E4%BB%A5%E8%BF%9B%E6%9D%A5%E5%AD%A6%E7%94%B3%E8%AE%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
