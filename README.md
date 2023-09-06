@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 18:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 18:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨丽萍新舞再被批尺度大](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%BD%E8%90%8D%E6%96%B0%E8%88%9E%E5%86%8D%E8%A2%AB%E6%89%B9%E5%B0%BA%E5%BA%A6%E5%A4%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [酱香拿铁已经火到韩国了](https://s.weibo.com/weibo?q=%23%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%B7%B2%E7%BB%8F%E7%81%AB%E5%88%B0%E9%9F%A9%E5%9B%BD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [知网被罚款5000万元](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E7%BD%91%E8%A2%AB%E7%BD%9A%E6%AC%BE5000%E4%B8%87%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [九尾 高铁没赶上](https://s.weibo.com/weibo?q=%E4%B9%9D%E5%B0%BE%20%E9%AB%98%E9%93%81%E6%B2%A1%E8%B5%B6%E4%B8%8A&t=31&band_rank=9&Refer=top)<br />
+9. [450万是很大一笔钱了](https://s.weibo.com/weibo?q=450%E4%B8%87%E6%98%AF%E5%BE%88%E5%A4%A7%E4%B8%80%E7%AC%94%E9%92%B1%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
