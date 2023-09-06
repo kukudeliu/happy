@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 10:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 10:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [地铁判官找到了](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [张艺谋](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B&t=31&band_rank=7&Refer=top)<br />
 8. [异人之下](https://s.weibo.com/weibo?q=%E5%BC%82%E4%BA%BA%E4%B9%8B%E4%B8%8B&t=31&band_rank=8&Refer=top)<br />
-9. [蜜雪冰城 五粮液](https://s.weibo.com/weibo?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%20%E4%BA%94%E7%B2%AE%E6%B6%B2&t=31&band_rank=9&Refer=top)<br />
+9. [D社曝黑暗荣耀金赫拉校园暴力](https://s.weibo.com/weibo?q=%23D%E7%A4%BE%E6%9B%9D%E9%BB%91%E6%9A%97%E8%8D%A3%E8%80%80%E9%87%91%E8%B5%AB%E6%8B%89%E6%A0%A1%E5%9B%AD%E6%9A%B4%E5%8A%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
