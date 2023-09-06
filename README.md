@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 15:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 15:29:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [媒体：美国一些人别光忙着拆手机](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%80%E4%BA%9B%E4%BA%BA%E5%88%AB%E5%85%89%E5%BF%99%E7%9D%80%E6%8B%86%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杨丽萍新舞再被批尺度大](https://www.baidu.com/s?wd=%E6%9D%A8%E4%B8%BD%E8%90%8D%E6%96%B0%E8%88%9E%E5%86%8D%E8%A2%AB%E6%89%B9%E5%B0%BA%E5%BA%A6%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [何炅遭实名举报拖欠保姆工资](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E9%81%AD%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E6%8B%96%E6%AC%A0%E4%BF%9D%E5%A7%86%E5%B7%A5%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [年轻人开始去中医院买酸梅汤了](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8E%BB%E4%B8%AD%E5%8C%BB%E9%99%A2%E4%B9%B0%E9%85%B8%E6%A2%85%E6%B1%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [主持人张蕾再次辟谣11年谣言](https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%BC%A0%E8%95%BE%E5%86%8D%E6%AC%A1%E8%BE%9F%E8%B0%A311%E5%B9%B4%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友吐槽浏览器推送张艺谋谣言](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8E%A8%E9%80%81%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [年轻人开始去中医院买酸梅汤了](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8E%BB%E4%B8%AD%E5%8C%BB%E9%99%A2%E4%B9%B0%E9%85%B8%E6%A2%85%E6%B1%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [媒体：美国一些人别光忙着拆手机](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%80%E4%BA%9B%E4%BA%BA%E5%88%AB%E5%85%89%E5%BF%99%E7%9D%80%E6%8B%86%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杨丽萍新舞再被批尺度大](https://www.baidu.com/s?wd=%E6%9D%A8%E4%B8%BD%E8%90%8D%E6%96%B0%E8%88%9E%E5%86%8D%E8%A2%AB%E6%89%B9%E5%B0%BA%E5%BA%A6%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [何炅遭实名举报拖欠保姆工资](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E9%81%AD%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E6%8B%96%E6%AC%A0%E4%BF%9D%E5%A7%86%E5%B7%A5%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [年轻人开始去中医院买酸梅汤了](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8E%BB%E4%B8%AD%E5%8C%BB%E9%99%A2%E4%B9%B0%E9%85%B8%E6%A2%85%E6%B1%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [主持人张蕾再次辟谣11年谣言](https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%BC%A0%E8%95%BE%E5%86%8D%E6%AC%A1%E8%BE%9F%E8%B0%A311%E5%B9%B4%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友吐槽浏览器推送张艺谋谣言](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8E%A8%E9%80%81%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [年轻人开始去中医院买酸梅汤了](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8E%BB%E4%B8%AD%E5%8C%BB%E9%99%A2%E4%B9%B0%E9%85%B8%E6%A2%85%E6%B1%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
