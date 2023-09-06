@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 23:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 23:39:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [福州一车主将车装入塑料袋](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E4%B8%80%E8%BD%A6%E4%B8%BB%E5%B0%86%E8%BD%A6%E8%A3%85%E5%85%A5%E5%A1%91%E6%96%99%E8%A2%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [7岁娃被邻居家狗抓伤后离世](https://www.baidu.com/s?wd=7%E5%B2%81%E5%A8%83%E8%A2%AB%E9%82%BB%E5%B1%85%E5%AE%B6%E7%8B%97%E6%8A%93%E4%BC%A4%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [酸奶原价9.9元特价10元](https://www.baidu.com/s?wd=%E9%85%B8%E5%A5%B6%E5%8E%9F%E4%BB%B79.9%E5%85%83%E7%89%B9%E4%BB%B710%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河南拿快递失踪女孩遗体被找到](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%8B%BF%E5%BF%AB%E9%80%92%E5%A4%B1%E8%B8%AA%E5%A5%B3%E5%AD%A9%E9%81%97%E4%BD%93%E8%A2%AB%E6%89%BE%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [1只小白虎在狮群里被挤成银渐层](https://www.baidu.com/s?wd=1%E5%8F%AA%E5%B0%8F%E7%99%BD%E8%99%8E%E5%9C%A8%E7%8B%AE%E7%BE%A4%E9%87%8C%E8%A2%AB%E6%8C%A4%E6%88%90%E9%93%B6%E6%B8%90%E5%B1%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [1只小白虎在狮群里被挤成银渐层](https://www.baidu.com/s?wd=1%E5%8F%AA%E5%B0%8F%E7%99%BD%E8%99%8E%E5%9C%A8%E7%8B%AE%E7%BE%A4%E9%87%8C%E8%A2%AB%E6%8C%A4%E6%88%90%E9%93%B6%E6%B8%90%E5%B1%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [50岁以下人群癌症新发病例数激增](https://www.baidu.com/s?wd=50%E5%B2%81%E4%BB%A5%E4%B8%8B%E4%BA%BA%E7%BE%A4%E7%99%8C%E7%97%87%E6%96%B0%E5%8F%91%E7%97%85%E4%BE%8B%E6%95%B0%E6%BF%80%E5%A2%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [福州一车主将车装入塑料袋](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E4%B8%80%E8%BD%A6%E4%B8%BB%E5%B0%86%E8%BD%A6%E8%A3%85%E5%85%A5%E5%A1%91%E6%96%99%E8%A2%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [7岁娃被邻居家狗抓伤后离世](https://www.baidu.com/s?wd=7%E5%B2%81%E5%A8%83%E8%A2%AB%E9%82%BB%E5%B1%85%E5%AE%B6%E7%8B%97%E6%8A%93%E4%BC%A4%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [酸奶原价9.9元特价10元](https://www.baidu.com/s?wd=%E9%85%B8%E5%A5%B6%E5%8E%9F%E4%BB%B79.9%E5%85%83%E7%89%B9%E4%BB%B710%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河南拿快递失踪女孩遗体被找到](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%8B%BF%E5%BF%AB%E9%80%92%E5%A4%B1%E8%B8%AA%E5%A5%B3%E5%AD%A9%E9%81%97%E4%BD%93%E8%A2%AB%E6%89%BE%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [1只小白虎在狮群里被挤成银渐层](https://www.baidu.com/s?wd=1%E5%8F%AA%E5%B0%8F%E7%99%BD%E8%99%8E%E5%9C%A8%E7%8B%AE%E7%BE%A4%E9%87%8C%E8%A2%AB%E6%8C%A4%E6%88%90%E9%93%B6%E6%B8%90%E5%B1%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [1只小白虎在狮群里被挤成银渐层](https://www.baidu.com/s?wd=1%E5%8F%AA%E5%B0%8F%E7%99%BD%E8%99%8E%E5%9C%A8%E7%8B%AE%E7%BE%A4%E9%87%8C%E8%A2%AB%E6%8C%A4%E6%88%90%E9%93%B6%E6%B8%90%E5%B1%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [50岁以下人群癌症新发病例数激增](https://www.baidu.com/s?wd=50%E5%B2%81%E4%BB%A5%E4%B8%8B%E4%BA%BA%E7%BE%A4%E7%99%8C%E7%97%87%E6%96%B0%E5%8F%91%E7%97%85%E4%BE%8B%E6%95%B0%E6%BF%80%E5%A2%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
