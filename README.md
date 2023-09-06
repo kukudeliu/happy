@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 12:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 12:19:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [共享惠全球的历史之机](https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E6%83%A0%E5%85%A8%E7%90%83%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B9%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [教育局回应60份试卷判错100多处](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%9460%E4%BB%BD%E8%AF%95%E5%8D%B7%E5%88%A4%E9%94%99100%E5%A4%9A%E5%A4%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [新疆大螃蟹发货了](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%A4%A7%E8%9E%83%E8%9F%B9%E5%8F%91%E8%B4%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本称为应对中国禁令已砸千亿日元](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%A7%B0%E4%B8%BA%E5%BA%94%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%A6%81%E4%BB%A4%E5%B7%B2%E7%A0%B8%E5%8D%83%E4%BA%BF%E6%97%A5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [活牛2分钟被强行灌水近50升](https://www.baidu.com/s?wd=%E6%B4%BB%E7%89%9B2%E5%88%86%E9%92%9F%E8%A2%AB%E5%BC%BA%E8%A1%8C%E7%81%8C%E6%B0%B4%E8%BF%9150%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女律师偷30余次盒饭获刑](https://www.baidu.com/s?wd=%E5%A5%B3%E5%BE%8B%E5%B8%88%E5%81%B730%E4%BD%99%E6%AC%A1%E7%9B%92%E9%A5%AD%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [2人被困急流大喊不要冒险营救](https://www.baidu.com/s?wd=2%E4%BA%BA%E8%A2%AB%E5%9B%B0%E6%80%A5%E6%B5%81%E5%A4%A7%E5%96%8A%E4%B8%8D%E8%A6%81%E5%86%92%E9%99%A9%E8%90%A5%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本称为应对中国禁令已砸千亿日元](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%A7%B0%E4%B8%BA%E5%BA%94%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%A6%81%E4%BB%A4%E5%B7%B2%E7%A0%B8%E5%8D%83%E4%BA%BF%E6%97%A5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [活牛2分钟被强行灌水近50升](https://www.baidu.com/s?wd=%E6%B4%BB%E7%89%9B2%E5%88%86%E9%92%9F%E8%A2%AB%E5%BC%BA%E8%A1%8C%E7%81%8C%E6%B0%B4%E8%BF%9150%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [共享惠全球的历史之机](https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E6%83%A0%E5%85%A8%E7%90%83%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B9%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [教育局回应60份试卷判错100多处](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%9460%E4%BB%BD%E8%AF%95%E5%8D%B7%E5%88%A4%E9%94%99100%E5%A4%9A%E5%A4%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [新疆大螃蟹发货了](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%A4%A7%E8%9E%83%E8%9F%B9%E5%8F%91%E8%B4%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本称为应对中国禁令已砸千亿日元](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%A7%B0%E4%B8%BA%E5%BA%94%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%A6%81%E4%BB%A4%E5%B7%B2%E7%A0%B8%E5%8D%83%E4%BA%BF%E6%97%A5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [活牛2分钟被强行灌水近50升](https://www.baidu.com/s?wd=%E6%B4%BB%E7%89%9B2%E5%88%86%E9%92%9F%E8%A2%AB%E5%BC%BA%E8%A1%8C%E7%81%8C%E6%B0%B4%E8%BF%9150%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女律师偷30余次盒饭获刑](https://www.baidu.com/s?wd=%E5%A5%B3%E5%BE%8B%E5%B8%88%E5%81%B730%E4%BD%99%E6%AC%A1%E7%9B%92%E9%A5%AD%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [2人被困急流大喊不要冒险营救](https://www.baidu.com/s?wd=2%E4%BA%BA%E8%A2%AB%E5%9B%B0%E6%80%A5%E6%B5%81%E5%A4%A7%E5%96%8A%E4%B8%8D%E8%A6%81%E5%86%92%E9%99%A9%E8%90%A5%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本称为应对中国禁令已砸千亿日元](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%A7%B0%E4%B8%BA%E5%BA%94%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%A6%81%E4%BB%A4%E5%B7%B2%E7%A0%B8%E5%8D%83%E4%BA%BF%E6%97%A5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [活牛2分钟被强行灌水近50升](https://www.baidu.com/s?wd=%E6%B4%BB%E7%89%9B2%E5%88%86%E9%92%9F%E8%A2%AB%E5%BC%BA%E8%A1%8C%E7%81%8C%E6%B0%B4%E8%BF%9150%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
