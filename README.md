@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 16:01:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 16:02:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [3000万元茅台只够卖1.5天咖啡](https://www.baidu.com/s?wd=3000%E4%B8%87%E5%85%83%E8%8C%85%E5%8F%B0%E5%8F%AA%E5%A4%9F%E5%8D%961.5%E5%A4%A9%E5%92%96%E5%95%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨丽萍新舞再被批尺度大](https://www.baidu.com/s?wd=%E6%9D%A8%E4%B8%BD%E8%90%8D%E6%96%B0%E8%88%9E%E5%86%8D%E8%A2%AB%E6%89%B9%E5%B0%BA%E5%BA%A6%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [天津大爷喊话周杰伦来跳水](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E5%96%8A%E8%AF%9D%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%9D%A5%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子饭店结账被多算27瓶啤酒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%A5%AD%E5%BA%97%E7%BB%93%E8%B4%A6%E8%A2%AB%E5%A4%9A%E7%AE%9727%E7%93%B6%E5%95%A4%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2人被困急流大喊不要冒险营救](https://www.baidu.com/s?wd=2%E4%BA%BA%E8%A2%AB%E5%9B%B0%E6%80%A5%E6%B5%81%E5%A4%A7%E5%96%8A%E4%B8%8D%E8%A6%81%E5%86%92%E9%99%A9%E8%90%A5%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [3000万元茅台只够卖1.5天咖啡](https://www.baidu.com/s?wd=3000%E4%B8%87%E5%85%83%E8%8C%85%E5%8F%B0%E5%8F%AA%E5%A4%9F%E5%8D%961.5%E5%A4%A9%E5%92%96%E5%95%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨丽萍新舞再被批尺度大](https://www.baidu.com/s?wd=%E6%9D%A8%E4%B8%BD%E8%90%8D%E6%96%B0%E8%88%9E%E5%86%8D%E8%A2%AB%E6%89%B9%E5%B0%BA%E5%BA%A6%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [天津大爷喊话周杰伦来跳水](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E5%96%8A%E8%AF%9D%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%9D%A5%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女子饭店结账被多算27瓶啤酒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%A5%AD%E5%BA%97%E7%BB%93%E8%B4%A6%E8%A2%AB%E5%A4%9A%E7%AE%9727%E7%93%B6%E5%95%A4%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [2人被困急流大喊不要冒险营救](https://www.baidu.com/s?wd=2%E4%BA%BA%E8%A2%AB%E5%9B%B0%E6%80%A5%E6%B5%81%E5%A4%A7%E5%96%8A%E4%B8%8D%E8%A6%81%E5%86%92%E9%99%A9%E8%90%A5%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
