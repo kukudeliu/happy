@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 21:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 21:58:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [一杯咖啡 两代人的沉默](https://s.weibo.com/weibo?q=%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1%20%E4%B8%A4%E4%BB%A3%E4%BA%BA%E7%9A%84%E6%B2%89%E9%BB%98&t=31&band_rank=5&Refer=top)<br />
 6. [5名大学生人均花37元改造宿舍](https://s.weibo.com/weibo?q=%235%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BA%BA%E5%9D%87%E8%8A%B137%E5%85%83%E6%94%B9%E9%80%A0%E5%AE%BF%E8%88%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [一万块回农村可以躺平多久](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%87%E5%9D%97%E5%9B%9E%E5%86%9C%E6%9D%91%E5%8F%AF%E4%BB%A5%E8%BA%BA%E5%B9%B3%E5%A4%9A%E4%B9%85%23&t=31&band_rank=7&Refer=top)<br />
-8. [沉浸式体验服贸会上的科幻互动](https://s.weibo.com/weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E6%9C%8D%E8%B4%B8%E4%BC%9A%E4%B8%8A%E7%9A%84%E7%A7%91%E5%B9%BB%E4%BA%92%E5%8A%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [骄阳伴我央视收视率](https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E5%A4%AE%E8%A7%86%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [骄阳伴我央视收视率](https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E5%A4%AE%E8%A7%86%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [iPhone15国行售价曝光](https://s.weibo.com/weibo?q=%23iPhone15%E5%9B%BD%E8%A1%8C%E5%94%AE%E4%BB%B7%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
