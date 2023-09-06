@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 21:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 21:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [5名大学生人均花37元改造宿舍](https://s.weibo.com/weibo?q=%235%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BA%BA%E5%9D%87%E8%8A%B137%E5%85%83%E6%94%B9%E9%80%A0%E5%AE%BF%E8%88%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [一杯咖啡 两代人的沉默](https://s.weibo.com/weibo?q=%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1%20%E4%B8%A4%E4%BB%A3%E4%BA%BA%E7%9A%84%E6%B2%89%E9%BB%98&t=31&band_rank=7&Refer=top)<br />
 8. [一万块回农村可以躺平多久](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%87%E5%9D%97%E5%9B%9E%E5%86%9C%E6%9D%91%E5%8F%AF%E4%BB%A5%E8%BA%BA%E5%B9%B3%E5%A4%9A%E4%B9%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [邓紫棋说我是歌手已经是十年前了](https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E8%AF%B4%E6%88%91%E6%98%AF%E6%AD%8C%E6%89%8B%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%8D%81%E5%B9%B4%E5%89%8D%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [骄阳伴我央视收视率](https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E5%A4%AE%E8%A7%86%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
