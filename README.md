@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 21:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 21:12:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [男子带充电宝进高铁站被拦?官方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%A6%E5%85%85%E7%94%B5%E5%AE%9D%E8%BF%9B%E9%AB%98%E9%93%81%E7%AB%99%E8%A2%AB%E6%8B%A6%3F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄防长称今年将在乌克兰演习](https://www.baidu.com/s?wd=%E4%BF%84%E9%98%B2%E9%95%BF%E7%A7%B0%E4%BB%8A%E5%B9%B4%E5%B0%86%E5%9C%A8%E4%B9%8C%E5%85%8B%E5%85%B0%E6%BC%94%E4%B9%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [51岁老爸和91岁爷爷品尝酱香拿铁](https://www.baidu.com/s?wd=51%E5%B2%81%E8%80%81%E7%88%B8%E5%92%8C91%E5%B2%81%E7%88%B7%E7%88%B7%E5%93%81%E5%B0%9D%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [离婚不退彩礼1家6口被杀？警方辟谣](https://www.baidu.com/s?wd=%E7%A6%BB%E5%A9%9A%E4%B8%8D%E9%80%80%E5%BD%A9%E7%A4%BC1%E5%AE%B66%E5%8F%A3%E8%A2%AB%E6%9D%80%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [恒大融创暴涨 房地产股狂飙](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E8%9E%8D%E5%88%9B%E6%9A%B4%E6%B6%A8+%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%82%A1%E7%8B%82%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [男子带充电宝进高铁站被拦?官方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%A6%E5%85%85%E7%94%B5%E5%AE%9D%E8%BF%9B%E9%AB%98%E9%93%81%E7%AB%99%E8%A2%AB%E6%8B%A6%3F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄防长称今年将在乌克兰演习](https://www.baidu.com/s?wd=%E4%BF%84%E9%98%B2%E9%95%BF%E7%A7%B0%E4%BB%8A%E5%B9%B4%E5%B0%86%E5%9C%A8%E4%B9%8C%E5%85%8B%E5%85%B0%E6%BC%94%E4%B9%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [51岁老爸和91岁爷爷品尝酱香拿铁](https://www.baidu.com/s?wd=51%E5%B2%81%E8%80%81%E7%88%B8%E5%92%8C91%E5%B2%81%E7%88%B7%E7%88%B7%E5%93%81%E5%B0%9D%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [离婚不退彩礼1家6口被杀？警方辟谣](https://www.baidu.com/s?wd=%E7%A6%BB%E5%A9%9A%E4%B8%8D%E9%80%80%E5%BD%A9%E7%A4%BC1%E5%AE%B66%E5%8F%A3%E8%A2%AB%E6%9D%80%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [恒大融创暴涨 房地产股狂飙](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E8%9E%8D%E5%88%9B%E6%9A%B4%E6%B6%A8+%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%82%A1%E7%8B%82%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
