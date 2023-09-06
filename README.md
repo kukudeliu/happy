@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 16:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 16:18:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [3000万元茅台只够卖1.5天咖啡](https://www.baidu.com/s?wd=3000%E4%B8%87%E5%85%83%E8%8C%85%E5%8F%B0%E5%8F%AA%E5%A4%9F%E5%8D%961.5%E5%A4%A9%E5%92%96%E5%95%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨丽萍新舞再被批尺度大](https://www.baidu.com/s?wd=%E6%9D%A8%E4%B8%BD%E8%90%8D%E6%96%B0%E8%88%9E%E5%86%8D%E8%A2%AB%E6%89%B9%E5%B0%BA%E5%BA%A6%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [新疆大螃蟹发货了](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%A4%A7%E8%9E%83%E8%9F%B9%E5%8F%91%E8%B4%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [丈夫潜入医院稀释醉驾妻子血液样本](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E6%BD%9C%E5%85%A5%E5%8C%BB%E9%99%A2%E7%A8%80%E9%87%8A%E9%86%89%E9%A9%BE%E5%A6%BB%E5%AD%90%E8%A1%80%E6%B6%B2%E6%A0%B7%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [主持人张蕾再次辟谣11年谣言](https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%BC%A0%E8%95%BE%E5%86%8D%E6%AC%A1%E8%BE%9F%E8%B0%A311%E5%B9%B4%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [3000万元茅台只够卖1.5天咖啡](https://www.baidu.com/s?wd=3000%E4%B8%87%E5%85%83%E8%8C%85%E5%8F%B0%E5%8F%AA%E5%A4%9F%E5%8D%961.5%E5%A4%A9%E5%92%96%E5%95%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨丽萍新舞再被批尺度大](https://www.baidu.com/s?wd=%E6%9D%A8%E4%B8%BD%E8%90%8D%E6%96%B0%E8%88%9E%E5%86%8D%E8%A2%AB%E6%89%B9%E5%B0%BA%E5%BA%A6%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [新疆大螃蟹发货了](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%A4%A7%E8%9E%83%E8%9F%B9%E5%8F%91%E8%B4%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [丈夫潜入医院稀释醉驾妻子血液样本](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E6%BD%9C%E5%85%A5%E5%8C%BB%E9%99%A2%E7%A8%80%E9%87%8A%E9%86%89%E9%A9%BE%E5%A6%BB%E5%AD%90%E8%A1%80%E6%B6%B2%E6%A0%B7%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [主持人张蕾再次辟谣11年谣言](https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%BC%A0%E8%95%BE%E5%86%8D%E6%AC%A1%E8%BE%9F%E8%B0%A311%E5%B9%B4%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
