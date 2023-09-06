@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 14:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 14:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [地铁判官找到了](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [福州2名牺牲消防员身份已确认](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E2%E5%90%8D%E7%89%BA%E7%89%B2%E6%B6%88%E9%98%B2%E5%91%98%E8%BA%AB%E4%BB%BD%E5%B7%B2%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [咒术回战](https://s.weibo.com/weibo?q=%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98&t=31&band_rank=8&Refer=top)<br />
-9. [酱香拿铁在泰国火了](https://s.weibo.com/weibo?q=%23%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%9C%A8%E6%B3%B0%E5%9B%BD%E7%81%AB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [包上恩 开拍之前也有认真漱口](https://s.weibo.com/weibo?q=%E5%8C%85%E4%B8%8A%E6%81%A9%20%E5%BC%80%E6%8B%8D%E4%B9%8B%E5%89%8D%E4%B9%9F%E6%9C%89%E8%AE%A4%E7%9C%9F%E6%BC%B1%E5%8F%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
