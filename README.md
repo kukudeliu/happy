@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 18:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 18:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [九尾 高铁没赶上](https://s.weibo.com/weibo?q=%E4%B9%9D%E5%B0%BE%20%E9%AB%98%E9%93%81%E6%B2%A1%E8%B5%B6%E4%B8%8A&t=31&band_rank=6&Refer=top)<br />
 7. [7对女儿女婿和2个儿子为父亲庆生](https://s.weibo.com/weibo?q=%237%E5%AF%B9%E5%A5%B3%E5%84%BF%E5%A5%B3%E5%A9%BF%E5%92%8C2%E4%B8%AA%E5%84%BF%E5%AD%90%E4%B8%BA%E7%88%B6%E4%BA%B2%E5%BA%86%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [周渝民夫妻被诈骗保险金案宣判](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B8%9D%E6%B0%91%E5%A4%AB%E5%A6%BB%E8%A2%AB%E8%AF%88%E9%AA%97%E4%BF%9D%E9%99%A9%E9%87%91%E6%A1%88%E5%AE%A3%E5%88%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [地铁判官已赔礼道歉](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E5%B7%B2%E8%B5%94%E7%A4%BC%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [iPhone15国行售价曝光](https://s.weibo.com/weibo?q=%23iPhone15%E5%9B%BD%E8%A1%8C%E5%94%AE%E4%BB%B7%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
