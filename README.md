@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 01:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 01:36:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [450万是很大一笔钱了](https://s.weibo.com/weibo?q=450%E4%B8%87%E6%98%AF%E5%BE%88%E5%A4%A7%E4%B8%80%E7%AC%94%E9%92%B1%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [我有一个朋友](https://s.weibo.com/weibo?q=%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E6%9C%8B%E5%8F%8B&t=31&band_rank=6&Refer=top)<br />
 7. [iPhone15国行售价曝光](https://s.weibo.com/weibo?q=%23iPhone15%E5%9B%BD%E8%A1%8C%E5%94%AE%E4%BB%B7%E6%9B%9D%E5%85%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [16岁少年心脏骤停1小时后恢复](https://s.weibo.com/weibo?q=%2316%E5%B2%81%E5%B0%91%E5%B9%B4%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C1%E5%B0%8F%E6%97%B6%E5%90%8E%E6%81%A2%E5%A4%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [EXO 安踏](https://s.weibo.com/weibo?q=EXO%20%E5%AE%89%E8%B8%8F&t=31&band_rank=9&Refer=top)<br />
+8. [EXO 安踏](https://s.weibo.com/weibo?q=EXO%20%E5%AE%89%E8%B8%8F&t=31&band_rank=8&Refer=top)<br />
+9. [16岁少年心脏骤停1小时后恢复](https://s.weibo.com/weibo?q=%2316%E5%B2%81%E5%B0%91%E5%B9%B4%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C1%E5%B0%8F%E6%97%B6%E5%90%8E%E6%81%A2%E5%A4%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
