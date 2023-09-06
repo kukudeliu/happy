@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 14:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 14:48:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [何炅遭实名举报拖欠保姆工资](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E9%81%AD%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E6%8B%96%E6%AC%A0%E4%BF%9D%E5%A7%86%E5%B7%A5%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨丽萍新舞再被批尺度大](https://www.baidu.com/s?wd=%E6%9D%A8%E4%B8%BD%E8%90%8D%E6%96%B0%E8%88%9E%E5%86%8D%E8%A2%AB%E6%89%B9%E5%B0%BA%E5%BA%A6%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2人被困急流大喊不要冒险营救](https://www.baidu.com/s?wd=2%E4%BA%BA%E8%A2%AB%E5%9B%B0%E6%80%A5%E6%B5%81%E5%A4%A7%E5%96%8A%E4%B8%8D%E8%A6%81%E5%86%92%E9%99%A9%E8%90%A5%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [iPhone15四款机型相机曝光](https://www.baidu.com/s?wd=iPhone15%E5%9B%9B%E6%AC%BE%E6%9C%BA%E5%9E%8B%E7%9B%B8%E6%9C%BA%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [年轻人开始去中医院买酸梅汤了](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8E%BB%E4%B8%AD%E5%8C%BB%E9%99%A2%E4%B9%B0%E9%85%B8%E6%A2%85%E6%B1%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [何炅遭实名举报拖欠保姆工资](https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E9%81%AD%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E6%8B%96%E6%AC%A0%E4%BF%9D%E5%A7%86%E5%B7%A5%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨丽萍新舞再被批尺度大](https://www.baidu.com/s?wd=%E6%9D%A8%E4%B8%BD%E8%90%8D%E6%96%B0%E8%88%9E%E5%86%8D%E8%A2%AB%E6%89%B9%E5%B0%BA%E5%BA%A6%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2人被困急流大喊不要冒险营救](https://www.baidu.com/s?wd=2%E4%BA%BA%E8%A2%AB%E5%9B%B0%E6%80%A5%E6%B5%81%E5%A4%A7%E5%96%8A%E4%B8%8D%E8%A6%81%E5%86%92%E9%99%A9%E8%90%A5%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [iPhone15四款机型相机曝光](https://www.baidu.com/s?wd=iPhone15%E5%9B%9B%E6%AC%BE%E6%9C%BA%E5%9E%8B%E7%9B%B8%E6%9C%BA%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [年轻人开始去中医院买酸梅汤了](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8E%BB%E4%B8%AD%E5%8C%BB%E9%99%A2%E4%B9%B0%E9%85%B8%E6%A2%85%E6%B1%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
