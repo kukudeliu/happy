@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 13:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 13:06:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [女主播户外涉黄直播当场被抓](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%BB%E6%92%AD%E6%88%B7%E5%A4%96%E6%B6%89%E9%BB%84%E7%9B%B4%E6%92%AD%E5%BD%93%E5%9C%BA%E8%A2%AB%E6%8A%93%23&t=31&band_rank=4&Refer=top)<br />
 5. [白宫回应华为新手机](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E5%9B%9E%E5%BA%94%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%89%8B%E6%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [地铁判官找到了](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [D社曝黑暗荣耀金赫拉校园暴力](https://s.weibo.com/weibo?q=%23D%E7%A4%BE%E6%9B%9D%E9%BB%91%E6%9A%97%E8%8D%A3%E8%80%80%E9%87%91%E8%B5%AB%E6%8B%89%E6%A0%A1%E5%9B%AD%E6%9A%B4%E5%8A%9B%23&t=31&band_rank=7&Refer=top)<br />
-8. [15800的月嫂一天都在做什么](https://s.weibo.com/weibo?q=15800%E7%9A%84%E6%9C%88%E5%AB%82%E4%B8%80%E5%A4%A9%E9%83%BD%E5%9C%A8%E5%81%9A%E4%BB%80%E4%B9%88&t=31&band_rank=8&Refer=top)<br />
+7. [15800的月嫂一天都在做什么](https://s.weibo.com/weibo?q=15800%E7%9A%84%E6%9C%88%E5%AB%82%E4%B8%80%E5%A4%A9%E9%83%BD%E5%9C%A8%E5%81%9A%E4%BB%80%E4%B9%88&t=31&band_rank=7&Refer=top)<br />
+8. [D社曝黑暗荣耀金赫拉校园暴力](https://s.weibo.com/weibo?q=%23D%E7%A4%BE%E6%9B%9D%E9%BB%91%E6%9A%97%E8%8D%A3%E8%80%80%E9%87%91%E8%B5%AB%E6%8B%89%E6%A0%A1%E5%9B%AD%E6%9A%B4%E5%8A%9B%23&t=31&band_rank=8&Refer=top)<br />
 9. [野球帝公告](https://s.weibo.com/weibo?q=%E9%87%8E%E7%90%83%E5%B8%9D%E5%85%AC%E5%91%8A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
