@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 15:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 15:54:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [警方：地铁被打大爷与小伙已和解](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%EF%BC%9A%E5%9C%B0%E9%93%81%E8%A2%AB%E6%89%93%E5%A4%A7%E7%88%B7%E4%B8%8E%E5%B0%8F%E4%BC%99%E5%B7%B2%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [3000万元茅台只够卖1.5天咖啡](https://www.baidu.com/s?wd=3000%E4%B8%87%E5%85%83%E8%8C%85%E5%8F%B0%E5%8F%AA%E5%A4%9F%E5%8D%961.5%E5%A4%A9%E5%92%96%E5%95%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨丽萍新舞再被批尺度大](https://www.baidu.com/s?wd=%E6%9D%A8%E4%B8%BD%E8%90%8D%E6%96%B0%E8%88%9E%E5%86%8D%E8%A2%AB%E6%89%B9%E5%B0%BA%E5%BA%A6%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [年轻人开始去中医院买酸梅汤了](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8E%BB%E4%B8%AD%E5%8C%BB%E9%99%A2%E4%B9%B0%E9%85%B8%E6%A2%85%E6%B1%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [媒体评地铁判官：不该玩梗美化暴力](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%EF%BC%9A%E4%B8%8D%E8%AF%A5%E7%8E%A9%E6%A2%97%E7%BE%8E%E5%8C%96%E6%9A%B4%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [天津大爷喊话周杰伦来跳水](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E5%96%8A%E8%AF%9D%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%9D%A5%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子饭店结账被多算27瓶啤酒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%A5%AD%E5%BA%97%E7%BB%93%E8%B4%A6%E8%A2%AB%E5%A4%9A%E7%AE%9727%E7%93%B6%E5%95%A4%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [警方：地铁被打大爷与小伙已和解](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%EF%BC%9A%E5%9C%B0%E9%93%81%E8%A2%AB%E6%89%93%E5%A4%A7%E7%88%B7%E4%B8%8E%E5%B0%8F%E4%BC%99%E5%B7%B2%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [3000万元茅台只够卖1.5天咖啡](https://www.baidu.com/s?wd=3000%E4%B8%87%E5%85%83%E8%8C%85%E5%8F%B0%E5%8F%AA%E5%A4%9F%E5%8D%961.5%E5%A4%A9%E5%92%96%E5%95%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨丽萍新舞再被批尺度大](https://www.baidu.com/s?wd=%E6%9D%A8%E4%B8%BD%E8%90%8D%E6%96%B0%E8%88%9E%E5%86%8D%E8%A2%AB%E6%89%B9%E5%B0%BA%E5%BA%A6%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [年轻人开始去中医院买酸梅汤了](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8E%BB%E4%B8%AD%E5%8C%BB%E9%99%A2%E4%B9%B0%E9%85%B8%E6%A2%85%E6%B1%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [媒体评地铁判官：不该玩梗美化暴力](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%EF%BC%9A%E4%B8%8D%E8%AF%A5%E7%8E%A9%E6%A2%97%E7%BE%8E%E5%8C%96%E6%9A%B4%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [天津大爷喊话周杰伦来跳水](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E5%96%8A%E8%AF%9D%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%9D%A5%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子饭店结账被多算27瓶啤酒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%A5%AD%E5%BA%97%E7%BB%93%E8%B4%A6%E8%A2%AB%E5%A4%9A%E7%AE%9727%E7%93%B6%E5%95%A4%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
