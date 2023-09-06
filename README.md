@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 20:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 20:28:01</h4></div>
 
 > 微博  
 
 1. [450万是很大一笔钱了](https://s.weibo.com/weibo?q=450%E4%B8%87%E6%98%AF%E5%BE%88%E5%A4%A7%E4%B8%80%E7%AC%94%E9%92%B1%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
 2. [一杯咖啡 两代人的沉默](https://s.weibo.com/weibo?q=%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1%20%E4%B8%A4%E4%BB%A3%E4%BA%BA%E7%9A%84%E6%B2%89%E9%BB%98&t=31&band_rank=2&Refer=top)<br />
-3. [详解杭州亚运会会徽和口号](https://s.weibo.com/weibo?q=%23%E8%AF%A6%E8%A7%A3%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%BC%9A%E5%BE%BD%E5%92%8C%E5%8F%A3%E5%8F%B7%23&t=31&band_rank=3&Refer=top)<br />
+3. [沉浸式体验服贸会上的科幻互动](https://s.weibo.com/weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E6%9C%8D%E8%B4%B8%E4%BC%9A%E4%B8%8A%E7%9A%84%E7%A7%91%E5%B9%BB%E4%BA%92%E5%8A%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [辅导员建议考研能不吃的苦别吃](https://s.weibo.com/weibo?q=%E8%BE%85%E5%AF%BC%E5%91%98%E5%BB%BA%E8%AE%AE%E8%80%83%E7%A0%94%E8%83%BD%E4%B8%8D%E5%90%83%E7%9A%84%E8%8B%A6%E5%88%AB%E5%90%83&t=31&band_rank=4&Refer=top)<br />
 5. [TFBOYS为易烊千玺新电影做宣传](https://s.weibo.com/weibo?q=%23TFBOYS%E4%B8%BA%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%96%B0%E7%94%B5%E5%BD%B1%E5%81%9A%E5%AE%A3%E4%BC%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [酱香拿铁已经火到韩国了](https://s.weibo.com/weibo?q=%23%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%B7%B2%E7%BB%8F%E7%81%AB%E5%88%B0%E9%9F%A9%E5%9B%BD%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [iPhone15国行售价曝光](https://s.weibo.com/weibo?q=%23iPhone15%E5%9B%BD%E8%A1%8C%E5%94%AE%E4%BB%B7%E6%9B%9D%E5%85%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [林俊杰北京](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%8C%97%E4%BA%AC&t=31&band_rank=8&Refer=top)<br />
-9. [一万块回农村可以躺平多久](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%87%E5%9D%97%E5%9B%9E%E5%86%9C%E6%9D%91%E5%8F%AF%E4%BB%A5%E8%BA%BA%E5%B9%B3%E5%A4%9A%E4%B9%85%23&t=31&band_rank=9&Refer=top)<br />
+9. [详解杭州亚运会会徽和口号](https://s.weibo.com/weibo?q=%23%E8%AF%A6%E8%A7%A3%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%BC%9A%E5%BE%BD%E5%92%8C%E5%8F%A3%E5%8F%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
