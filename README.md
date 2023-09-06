@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 14:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 14:47:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [虞书欣张凌赫来演云之羽的原因一模一样](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%9D%A5%E6%BC%94%E4%BA%91%E4%B9%8B%E7%BE%BD%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7%23&t=31&band_rank=2&Refer=top)<br />
 3. [沉浸式体验服贸会上的科幻互动](https://s.weibo.com/weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E6%9C%8D%E8%B4%B8%E4%BC%9A%E4%B8%8A%E7%9A%84%E7%A7%91%E5%B9%BB%E4%BA%92%E5%8A%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [傅首尔和老刘](https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%E5%92%8C%E8%80%81%E5%88%98&t=31&band_rank=4&Refer=top)<br />
-5. [黄奕时隔23年再扮李玉湖](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A5%95%E6%97%B6%E9%9A%9423%E5%B9%B4%E5%86%8D%E6%89%AE%E6%9D%8E%E7%8E%89%E6%B9%96%23&t=31&band_rank=5&Refer=top)<br />
+5. [张碧晨一周六天都在普拉提](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E4%B8%80%E5%91%A8%E5%85%AD%E5%A4%A9%E9%83%BD%E5%9C%A8%E6%99%AE%E6%8B%89%E6%8F%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [地铁判官找到了](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [张碧晨一周六天都在普拉提](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E4%B8%80%E5%91%A8%E5%85%AD%E5%A4%A9%E9%83%BD%E5%9C%A8%E6%99%AE%E6%8B%89%E6%8F%90%23&t=31&band_rank=7&Refer=top)<br />
+7. [黄奕时隔23年再扮李玉湖](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A5%95%E6%97%B6%E9%9A%9423%E5%B9%B4%E5%86%8D%E6%89%AE%E6%9D%8E%E7%8E%89%E6%B9%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [内江地震](https://s.weibo.com/weibo?q=%E5%86%85%E6%B1%9F%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top)<br />
 9. [包上恩 开拍之前也有认真漱口](https://s.weibo.com/weibo?q=%E5%8C%85%E4%B8%8A%E6%81%A9%20%E5%BC%80%E6%8B%8D%E4%B9%8B%E5%89%8D%E4%B9%9F%E6%9C%89%E8%AE%A4%E7%9C%9F%E6%BC%B1%E5%8F%A3&t=31&band_rank=9&Refer=top)<br />
 
