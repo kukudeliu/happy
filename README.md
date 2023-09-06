@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 17:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 17:54:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [河南拿快递失踪女孩遗体被找到](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%8B%BF%E5%BF%AB%E9%80%92%E5%A4%B1%E8%B8%AA%E5%A5%B3%E5%AD%A9%E9%81%97%E4%BD%93%E8%A2%AB%E6%89%BE%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [周渝民夫妇被诈骗案宣判](https://www.baidu.com/s?wd=%E5%91%A8%E6%B8%9D%E6%B0%91%E5%A4%AB%E5%A6%87%E8%A2%AB%E8%AF%88%E9%AA%97%E6%A1%88%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [新手爸爸将14天婴儿装塑料袋称重](https://www.baidu.com/s?wd=%E6%96%B0%E6%89%8B%E7%88%B8%E7%88%B8%E5%B0%8614%E5%A4%A9%E5%A9%B4%E5%84%BF%E8%A3%85%E5%A1%91%E6%96%99%E8%A2%8B%E7%A7%B0%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [云之羽营销翻车被指倭风明显](https://www.baidu.com/s?wd=%E4%BA%91%E4%B9%8B%E7%BE%BD%E8%90%A5%E9%94%80%E7%BF%BB%E8%BD%A6%E8%A2%AB%E6%8C%87%E5%80%AD%E9%A3%8E%E6%98%8E%E6%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [92岁老人烧秸秆被迫写检讨 当地回应](https://www.baidu.com/s?wd=92%E5%B2%81%E8%80%81%E4%BA%BA%E7%83%A7%E7%A7%B8%E7%A7%86%E8%A2%AB%E8%BF%AB%E5%86%99%E6%A3%80%E8%AE%A8+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [河南拿快递失踪女孩遗体被找到](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%8B%BF%E5%BF%AB%E9%80%92%E5%A4%B1%E8%B8%AA%E5%A5%B3%E5%AD%A9%E9%81%97%E4%BD%93%E8%A2%AB%E6%89%BE%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [周渝民夫妇被诈骗案宣判](https://www.baidu.com/s?wd=%E5%91%A8%E6%B8%9D%E6%B0%91%E5%A4%AB%E5%A6%87%E8%A2%AB%E8%AF%88%E9%AA%97%E6%A1%88%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [新手爸爸将14天婴儿装塑料袋称重](https://www.baidu.com/s?wd=%E6%96%B0%E6%89%8B%E7%88%B8%E7%88%B8%E5%B0%8614%E5%A4%A9%E5%A9%B4%E5%84%BF%E8%A3%85%E5%A1%91%E6%96%99%E8%A2%8B%E7%A7%B0%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [云之羽营销翻车被指倭风明显](https://www.baidu.com/s?wd=%E4%BA%91%E4%B9%8B%E7%BE%BD%E8%90%A5%E9%94%80%E7%BF%BB%E8%BD%A6%E8%A2%AB%E6%8C%87%E5%80%AD%E9%A3%8E%E6%98%8E%E6%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [92岁老人烧秸秆被迫写检讨 当地回应](https://www.baidu.com/s?wd=92%E5%B2%81%E8%80%81%E4%BA%BA%E7%83%A7%E7%A7%B8%E7%A7%86%E8%A2%AB%E8%BF%AB%E5%86%99%E6%A3%80%E8%AE%A8+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
