@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 17:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 17:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [灵隐寺出奶茶了](https://s.weibo.com/weibo?q=%23%E7%81%B5%E9%9A%90%E5%AF%BA%E5%87%BA%E5%A5%B6%E8%8C%B6%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [沈阳宣布在校大学生买房每平米补贴200元](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E5%AE%A3%E5%B8%83%E5%9C%A8%E6%A0%A1%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B9%B0%E6%88%BF%E6%AF%8F%E5%B9%B3%E7%B1%B3%E8%A1%A5%E8%B4%B4200%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [谁在考公可以进来学申论](https://s.weibo.com/weibo?q=%E8%B0%81%E5%9C%A8%E8%80%83%E5%85%AC%E5%8F%AF%E4%BB%A5%E8%BF%9B%E6%9D%A5%E5%AD%A6%E7%94%B3%E8%AE%BA&t=31&band_rank=8&Refer=top)<br />
-9. [余华 是他自己消失了](https://s.weibo.com/weibo?q=%E4%BD%99%E5%8D%8E%20%E6%98%AF%E4%BB%96%E8%87%AA%E5%B7%B1%E6%B6%88%E5%A4%B1%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [知网被罚款5000万元](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E7%BD%91%E8%A2%AB%E7%BD%9A%E6%AC%BE5000%E4%B8%87%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
