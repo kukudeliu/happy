@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 04:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 04:12:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [iPhone15国行售价曝光](https://s.weibo.com/weibo?q=%23iPhone15%E5%9B%BD%E8%A1%8C%E5%94%AE%E4%BB%B7%E6%9B%9D%E5%85%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [真的讨厌二三十块叫一杯奶茶钱](https://s.weibo.com/weibo?q=%E7%9C%9F%E7%9A%84%E8%AE%A8%E5%8E%8C%E4%BA%8C%E4%B8%89%E5%8D%81%E5%9D%97%E5%8F%AB%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%E9%92%B1&t=31&band_rank=6&Refer=top)<br />
 7. [我回到十七岁的理由播放量破亿](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%9E%E5%88%B0%E5%8D%81%E4%B8%83%E5%B2%81%E7%9A%84%E7%90%86%E7%94%B1%E6%92%AD%E6%94%BE%E9%87%8F%E7%A0%B4%E4%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [邓紫棋说我是歌手已经是十年前了](https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E8%AF%B4%E6%88%91%E6%98%AF%E6%AD%8C%E6%89%8B%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%8D%81%E5%B9%B4%E5%89%8D%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+8. [减脂事半功倍的三件事](https://s.weibo.com/weibo?q=%E5%87%8F%E8%84%82%E4%BA%8B%E5%8D%8A%E5%8A%9F%E5%80%8D%E7%9A%84%E4%B8%89%E4%BB%B6%E4%BA%8B&t=31&band_rank=8&Refer=top)<br />
 9. [每读到史铁生这段都被震撼](https://s.weibo.com/weibo?q=%E6%AF%8F%E8%AF%BB%E5%88%B0%E5%8F%B2%E9%93%81%E7%94%9F%E8%BF%99%E6%AE%B5%E9%83%BD%E8%A2%AB%E9%9C%87%E6%92%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
