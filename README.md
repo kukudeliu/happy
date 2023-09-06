@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 20:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 20:36:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [辅导员建议考研能不吃的苦别吃](https://s.weibo.com/weibo?q=%E8%BE%85%E5%AF%BC%E5%91%98%E5%BB%BA%E8%AE%AE%E8%80%83%E7%A0%94%E8%83%BD%E4%B8%8D%E5%90%83%E7%9A%84%E8%8B%A6%E5%88%AB%E5%90%83&t=31&band_rank=4&Refer=top)<br />
 5. [一杯咖啡 两代人的沉默](https://s.weibo.com/weibo?q=%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1%20%E4%B8%A4%E4%BB%A3%E4%BA%BA%E7%9A%84%E6%B2%89%E9%BB%98&t=31&band_rank=5&Refer=top)<br />
 6. [真的讨厌二三十块叫一杯奶茶钱](https://s.weibo.com/weibo?q=%E7%9C%9F%E7%9A%84%E8%AE%A8%E5%8E%8C%E4%BA%8C%E4%B8%89%E5%8D%81%E5%9D%97%E5%8F%AB%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%E9%92%B1&t=31&band_rank=6&Refer=top)<br />
-7. [酱香拿铁已经火到韩国了](https://s.weibo.com/weibo?q=%23%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%B7%B2%E7%BB%8F%E7%81%AB%E5%88%B0%E9%9F%A9%E5%9B%BD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [林俊杰北京](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%8C%97%E4%BA%AC&t=31&band_rank=8&Refer=top)<br />
+7. [林俊杰北京](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%8C%97%E4%BA%AC&t=31&band_rank=7&Refer=top)<br />
+8. [酱香拿铁已经火到韩国了](https://s.weibo.com/weibo?q=%23%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%B7%B2%E7%BB%8F%E7%81%AB%E5%88%B0%E9%9F%A9%E5%9B%BD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [没想到我提离职猫同事也要走](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E6%88%91%E6%8F%90%E7%A6%BB%E8%81%8C%E7%8C%AB%E5%90%8C%E4%BA%8B%E4%B9%9F%E8%A6%81%E8%B5%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
