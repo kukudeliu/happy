@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 13:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 13:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [地铁判官找到了](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [D社曝黑暗荣耀金赫拉校园暴力](https://s.weibo.com/weibo?q=%23D%E7%A4%BE%E6%9B%9D%E9%BB%91%E6%9A%97%E8%8D%A3%E8%80%80%E9%87%91%E8%B5%AB%E6%8B%89%E6%A0%A1%E5%9B%AD%E6%9A%B4%E5%8A%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [华为新型5G芯片是否突破卡脖子问题](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%96%B0%E5%9E%8B5G%E8%8A%AF%E7%89%87%E6%98%AF%E5%90%A6%E7%AA%81%E7%A0%B4%E5%8D%A1%E8%84%96%E5%AD%90%E9%97%AE%E9%A2%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [iPhone15四款机型相机曝光](https://s.weibo.com/weibo?q=%23iPhone15%E5%9B%9B%E6%AC%BE%E6%9C%BA%E5%9E%8B%E7%9B%B8%E6%9C%BA%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [野球帝公告](https://s.weibo.com/weibo?q=%E9%87%8E%E7%90%83%E5%B8%9D%E5%85%AC%E5%91%8A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
