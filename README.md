@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 20:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 20:08:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [酱香拿铁已经火到韩国了](https://s.weibo.com/weibo?q=%23%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%B7%B2%E7%BB%8F%E7%81%AB%E5%88%B0%E9%9F%A9%E5%9B%BD%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [易烊千玺舒淇主演毕赣新片](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%88%92%E6%B7%87%E4%B8%BB%E6%BC%94%E6%AF%95%E8%B5%A3%E6%96%B0%E7%89%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [iPhone15国行售价曝光](https://s.weibo.com/weibo?q=%23iPhone15%E5%9B%BD%E8%A1%8C%E5%94%AE%E4%BB%B7%E6%9B%9D%E5%85%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [一万块回农村可以躺平多久](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%87%E5%9D%97%E5%9B%9E%E5%86%9C%E6%9D%91%E5%8F%AF%E4%BB%A5%E8%BA%BA%E5%B9%B3%E5%A4%9A%E4%B9%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [王楚钦](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6&t=31&band_rank=9&Refer=top)<br />
+8. [王楚钦](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6&t=31&band_rank=8&Refer=top)<br />
+9. [一万块回农村可以躺平多久](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%87%E5%9D%97%E5%9B%9E%E5%86%9C%E6%9D%91%E5%8F%AF%E4%BB%A5%E8%BA%BA%E5%B9%B3%E5%A4%9A%E4%B9%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [济南天文台5天内2次拍到不明飞行物](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E5%A4%A9%E6%96%87%E5%8F%B05%E5%A4%A9%E5%86%852%E6%AC%A1%E6%8B%8D%E5%88%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [缅甸：全面清理针对中国人的诈骗](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%EF%BC%9A%E5%85%A8%E9%9D%A2%E6%B8%85%E7%90%86%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李强就日本核污水排海问题阐明立场](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BC%BA%E5%B0%B1%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E9%97%AE%E9%A2%98%E9%98%90%E6%98%8E%E7%AB%8B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [50岁以下人群癌症新发病例数激增](https://www.baidu.com/s?wd=50%E5%B2%81%E4%BB%A5%E4%B8%8B%E4%BA%BA%E7%BE%A4%E7%99%8C%E7%97%87%E6%96%B0%E5%8F%91%E7%97%85%E4%BE%8B%E6%95%B0%E6%BF%80%E5%A2%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“天津跳水大爷”宣布：不跳了](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A9%E6%B4%A5%E8%B7%B3%E6%B0%B4%E5%A4%A7%E7%88%B7%E2%80%9D%E5%AE%A3%E5%B8%83%EF%BC%9A%E4%B8%8D%E8%B7%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [iPhone15国行售价疑曝光](https://www.baidu.com/s?wd=iPhone15%E5%9B%BD%E8%A1%8C%E5%94%AE%E4%BB%B7%E7%96%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [济南天文台5天内2次拍到不明飞行物](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E5%A4%A9%E6%96%87%E5%8F%B05%E5%A4%A9%E5%86%852%E6%AC%A1%E6%8B%8D%E5%88%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [缅甸：全面清理针对中国人的诈骗](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%EF%BC%9A%E5%85%A8%E9%9D%A2%E6%B8%85%E7%90%86%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李强就日本核污水排海问题阐明立场](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BC%BA%E5%B0%B1%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E9%97%AE%E9%A2%98%E9%98%90%E6%98%8E%E7%AB%8B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [50岁以下人群癌症新发病例数激增](https://www.baidu.com/s?wd=50%E5%B2%81%E4%BB%A5%E4%B8%8B%E4%BA%BA%E7%BE%A4%E7%99%8C%E7%97%87%E6%96%B0%E5%8F%91%E7%97%85%E4%BE%8B%E6%95%B0%E6%BF%80%E5%A2%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“天津跳水大爷”宣布：不跳了](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A9%E6%B4%A5%E8%B7%B3%E6%B0%B4%E5%A4%A7%E7%88%B7%E2%80%9D%E5%AE%A3%E5%B8%83%EF%BC%9A%E4%B8%8D%E8%B7%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [iPhone15国行售价疑曝光](https://www.baidu.com/s?wd=iPhone15%E5%9B%BD%E8%A1%8C%E5%94%AE%E4%BB%B7%E7%96%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
