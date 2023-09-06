@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 11:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 11:22:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [D社曝黑暗荣耀金赫拉校园暴力](https://s.weibo.com/weibo?q=%23D%E7%A4%BE%E6%9B%9D%E9%BB%91%E6%9A%97%E8%8D%A3%E8%80%80%E9%87%91%E8%B5%AB%E6%8B%89%E6%A0%A1%E5%9B%AD%E6%9A%B4%E5%8A%9B%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会逛玩指南](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%80%9B%E7%8E%A9%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top)<br />
 4. [秀才账号被封 信息茧房](https://s.weibo.com/weibo?q=%E7%A7%80%E6%89%8D%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%20%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF&t=31&band_rank=4&Refer=top)<br />
-5. [考研人很难不心动](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E4%BA%BA%E5%BE%88%E9%9A%BE%E4%B8%8D%E5%BF%83%E5%8A%A8&t=31&band_rank=5&Refer=top)<br />
+5. [酱香拿铁在泰国火了](https://s.weibo.com/weibo?q=%23%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%9C%A8%E6%B3%B0%E5%9B%BD%E7%81%AB%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [地铁判官找到了](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [15800的月嫂一天都在做什么](https://s.weibo.com/weibo?q=15800%E7%9A%84%E6%9C%88%E5%AB%82%E4%B8%80%E5%A4%A9%E9%83%BD%E5%9C%A8%E5%81%9A%E4%BB%80%E4%B9%88&t=31&band_rank=7&Refer=top)<br />
-8. [张艺谋](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B&t=31&band_rank=8&Refer=top)<br />
-9. [蜜雪冰城 五粮液](https://s.weibo.com/weibo?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%20%E4%BA%94%E7%B2%AE%E6%B6%B2&t=31&band_rank=9&Refer=top)<br />
+7. [考研人很难不心动](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E4%BA%BA%E5%BE%88%E9%9A%BE%E4%B8%8D%E5%BF%83%E5%8A%A8&t=31&band_rank=7&Refer=top)<br />
+8. [15800的月嫂一天都在做什么](https://s.weibo.com/weibo?q=15800%E7%9A%84%E6%9C%88%E5%AB%82%E4%B8%80%E5%A4%A9%E9%83%BD%E5%9C%A8%E5%81%9A%E4%BB%80%E4%B9%88&t=31&band_rank=8&Refer=top)<br />
+9. [张艺谋](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
