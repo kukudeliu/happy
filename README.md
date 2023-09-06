@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 11:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 11:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [地铁判官找到了](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [15800的月嫂一天都在做什么](https://s.weibo.com/weibo?q=15800%E7%9A%84%E6%9C%88%E5%AB%82%E4%B8%80%E5%A4%A9%E9%83%BD%E5%9C%A8%E5%81%9A%E4%BB%80%E4%B9%88&t=31&band_rank=7&Refer=top)<br />
 8. [张艺谋](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B&t=31&band_rank=8&Refer=top)<br />
-9. [异人之下](https://s.weibo.com/weibo?q=%E5%BC%82%E4%BA%BA%E4%B9%8B%E4%B8%8B&t=31&band_rank=9&Refer=top)<br />
+9. [蜜雪冰城 五粮液](https://s.weibo.com/weibo?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%20%E4%BA%94%E7%B2%AE%E6%B6%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
