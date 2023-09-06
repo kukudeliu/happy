@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 16:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 16:14:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [警方：地铁被打大爷与小伙已和解](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%EF%BC%9A%E5%9C%B0%E9%93%81%E8%A2%AB%E6%89%93%E5%A4%A7%E7%88%B7%E4%B8%8E%E5%B0%8F%E4%BC%99%E5%B7%B2%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [3000万元茅台只够卖1.5天咖啡](https://www.baidu.com/s?wd=3000%E4%B8%87%E5%85%83%E8%8C%85%E5%8F%B0%E5%8F%AA%E5%A4%9F%E5%8D%961.5%E5%A4%A9%E5%92%96%E5%95%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨丽萍新舞再被批尺度大](https://www.baidu.com/s?wd=%E6%9D%A8%E4%B8%BD%E8%90%8D%E6%96%B0%E8%88%9E%E5%86%8D%E8%A2%AB%E6%89%B9%E5%B0%BA%E5%BA%A6%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄防长称今年将在乌克兰演习](https://www.baidu.com/s?wd=%E4%BF%84%E9%98%B2%E9%95%BF%E7%A7%B0%E4%BB%8A%E5%B9%B4%E5%B0%86%E5%9C%A8%E4%B9%8C%E5%85%8B%E5%85%B0%E6%BC%94%E4%B9%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国际糖价飙升至11年高位](https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E7%B3%96%E4%BB%B7%E9%A3%99%E5%8D%87%E8%87%B311%E5%B9%B4%E9%AB%98%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新疆大螃蟹发货了](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%A4%A7%E8%9E%83%E8%9F%B9%E5%8F%91%E8%B4%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [丈夫潜入医院稀释醉驾妻子血液样本](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E6%BD%9C%E5%85%A5%E5%8C%BB%E9%99%A2%E7%A8%80%E9%87%8A%E9%86%89%E9%A9%BE%E5%A6%BB%E5%AD%90%E8%A1%80%E6%B6%B2%E6%A0%B7%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [警方：地铁被打大爷与小伙已和解](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%EF%BC%9A%E5%9C%B0%E9%93%81%E8%A2%AB%E6%89%93%E5%A4%A7%E7%88%B7%E4%B8%8E%E5%B0%8F%E4%BC%99%E5%B7%B2%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [3000万元茅台只够卖1.5天咖啡](https://www.baidu.com/s?wd=3000%E4%B8%87%E5%85%83%E8%8C%85%E5%8F%B0%E5%8F%AA%E5%A4%9F%E5%8D%961.5%E5%A4%A9%E5%92%96%E5%95%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨丽萍新舞再被批尺度大](https://www.baidu.com/s?wd=%E6%9D%A8%E4%B8%BD%E8%90%8D%E6%96%B0%E8%88%9E%E5%86%8D%E8%A2%AB%E6%89%B9%E5%B0%BA%E5%BA%A6%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄防长称今年将在乌克兰演习](https://www.baidu.com/s?wd=%E4%BF%84%E9%98%B2%E9%95%BF%E7%A7%B0%E4%BB%8A%E5%B9%B4%E5%B0%86%E5%9C%A8%E4%B9%8C%E5%85%8B%E5%85%B0%E6%BC%94%E4%B9%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国际糖价飙升至11年高位](https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E7%B3%96%E4%BB%B7%E9%A3%99%E5%8D%87%E8%87%B311%E5%B9%B4%E9%AB%98%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新疆大螃蟹发货了](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%A4%A7%E8%9E%83%E8%9F%B9%E5%8F%91%E8%B4%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [丈夫潜入医院稀释醉驾妻子血液样本](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E6%BD%9C%E5%85%A5%E5%8C%BB%E9%99%A2%E7%A8%80%E9%87%8A%E9%86%89%E9%A9%BE%E5%A6%BB%E5%AD%90%E8%A1%80%E6%B6%B2%E6%A0%B7%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
