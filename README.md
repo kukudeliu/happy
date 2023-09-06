@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 15:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 15:45:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [张碧晨一周六天都在普拉提](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E4%B8%80%E5%91%A8%E5%85%AD%E5%A4%A9%E9%83%BD%E5%9C%A8%E6%99%AE%E6%8B%89%E6%8F%90%23&t=31&band_rank=2&Refer=top)<br />
 3. [沉浸式体验服贸会上的科幻互动](https://s.weibo.com/weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E6%9C%8D%E8%B4%B8%E4%BC%9A%E4%B8%8A%E7%9A%84%E7%A7%91%E5%B9%BB%E4%BA%92%E5%8A%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [戴向宇在垃圾桶捡剩饭吃](https://s.weibo.com/weibo?q=%23%E6%88%B4%E5%90%91%E5%AE%87%E5%9C%A8%E5%9E%83%E5%9C%BE%E6%A1%B6%E6%8D%A1%E5%89%A9%E9%A5%AD%E5%90%83%23&t=31&band_rank=4&Refer=top)<br />
-5. [内江地震](https://s.weibo.com/weibo?q=%E5%86%85%E6%B1%9F%E5%9C%B0%E9%9C%87&t=31&band_rank=5&Refer=top)<br />
+5. [虞书欣张凌赫来演云之羽的原因一模一样](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%9D%A5%E6%BC%94%E4%BA%91%E4%B9%8B%E7%BE%BD%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [地铁判官找到了](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [虞书欣张凌赫来演云之羽的原因一模一样](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%9D%A5%E6%BC%94%E4%BA%91%E4%B9%8B%E7%BE%BD%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7%23&t=31&band_rank=7&Refer=top)<br />
+7. [内江地震](https://s.weibo.com/weibo?q=%E5%86%85%E6%B1%9F%E5%9C%B0%E9%9C%87&t=31&band_rank=7&Refer=top)<br />
 8. [傅首尔和老刘](https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%E5%92%8C%E8%80%81%E5%88%98&t=31&band_rank=8&Refer=top)<br />
 9. [地铁被打大爷与小伙已和解](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E8%A2%AB%E6%89%93%E5%A4%A7%E7%88%B7%E4%B8%8E%E5%B0%8F%E4%BC%99%E5%B7%B2%E5%92%8C%E8%A7%A3%23&t=31&band_rank=9&Refer=top)<br />
 
