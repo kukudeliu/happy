@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 23:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 23:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [TFBOYS为易烊千玺新电影做宣传](https://s.weibo.com/weibo?q=%23TFBOYS%E4%B8%BA%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%96%B0%E7%94%B5%E5%BD%B1%E5%81%9A%E5%AE%A3%E4%BC%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [450万是很大一笔钱了](https://s.weibo.com/weibo?q=450%E4%B8%87%E6%98%AF%E5%BE%88%E5%A4%A7%E4%B8%80%E7%AC%94%E9%92%B1%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [刘诗诗霍建华为胡歌新片打call](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E9%9C%8D%E5%BB%BA%E5%8D%8E%E4%B8%BA%E8%83%A1%E6%AD%8C%E6%96%B0%E7%89%87%E6%89%93call%23&t=31&band_rank=8&Refer=top)<br />
-9. [宫尚角坠入爱河了](https://s.weibo.com/weibo?q=%23%E5%AE%AB%E5%B0%9A%E8%A7%92%E5%9D%A0%E5%85%A5%E7%88%B1%E6%B2%B3%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [华为卡脖子问题解决了吗](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8D%A1%E8%84%96%E5%AD%90%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E4%BA%86%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
