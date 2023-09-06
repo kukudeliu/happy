@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 19:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 19:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [一杯咖啡 两代人的沉默](https://s.weibo.com/weibo?q=%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1%20%E4%B8%A4%E4%BB%A3%E4%BA%BA%E7%9A%84%E6%B2%89%E9%BB%98&t=31&band_rank=6&Refer=top)<br />
 7. [女子浑身抽搐的哥连闯红灯送医](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B5%91%E8%BA%AB%E6%8A%BD%E6%90%90%E7%9A%84%E5%93%A5%E8%BF%9E%E9%97%AF%E7%BA%A2%E7%81%AF%E9%80%81%E5%8C%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [易烊千玺舒淇主演毕赣新片](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%88%92%E6%B7%87%E4%B8%BB%E6%BC%94%E6%AF%95%E8%B5%A3%E6%96%B0%E7%89%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [iPhone15国行售价曝光](https://s.weibo.com/weibo?q=%23iPhone15%E5%9B%BD%E8%A1%8C%E5%94%AE%E4%BB%B7%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [辅导员建议考研能不吃的苦别吃](https://s.weibo.com/weibo?q=%E8%BE%85%E5%AF%BC%E5%91%98%E5%BB%BA%E8%AE%AE%E8%80%83%E7%A0%94%E8%83%BD%E4%B8%8D%E5%90%83%E7%9A%84%E8%8B%A6%E5%88%AB%E5%90%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
