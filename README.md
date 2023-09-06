@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 17:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 17:49:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [九尾 高铁没赶上](https://s.weibo.com/weibo?q=%E4%B9%9D%E5%B0%BE%20%E9%AB%98%E9%93%81%E6%B2%A1%E8%B5%B6%E4%B8%8A&t=31&band_rank=5&Refer=top)<br />
 6. [Hero取关久哲](https://s.weibo.com/weibo?q=%23Hero%E5%8F%96%E5%85%B3%E4%B9%85%E5%93%B2%23&t=31&band_rank=6&Refer=top)<br />
 7. [地铁判官已赔礼道歉](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E5%B7%B2%E8%B5%94%E7%A4%BC%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [灵隐出奶茶了](https://s.weibo.com/weibo?q=%E7%81%B5%E9%9A%90%E5%87%BA%E5%A5%B6%E8%8C%B6%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+8. [灵隐出奶茶了](https://s.weibo.com/weibo?q=%23%E7%81%B5%E9%9A%90%E5%87%BA%E5%A5%B6%E8%8C%B6%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [中国地图将钓鱼岛标为中国领土理所当然](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE%E5%B0%86%E9%92%93%E9%B1%BC%E5%B2%9B%E6%A0%87%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%9C%9F%E7%90%86%E6%89%80%E5%BD%93%E7%84%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
