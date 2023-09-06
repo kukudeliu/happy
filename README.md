@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 18:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 18:16:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [脑瘫女孩妈妈被小朋友的回答暖到](https://s.weibo.com/weibo?q=%23%E8%84%91%E7%98%AB%E5%A5%B3%E5%AD%A9%E5%A6%88%E5%A6%88%E8%A2%AB%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%9A%84%E5%9B%9E%E7%AD%94%E6%9A%96%E5%88%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨丽萍新舞再被批尺度大](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%BD%E8%90%8D%E6%96%B0%E8%88%9E%E5%86%8D%E8%A2%AB%E6%89%B9%E5%B0%BA%E5%BA%A6%E5%A4%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [7对女儿女婿和2个儿子为父亲庆生](https://s.weibo.com/weibo?q=%237%E5%AF%B9%E5%A5%B3%E5%84%BF%E5%A5%B3%E5%A9%BF%E5%92%8C2%E4%B8%AA%E5%84%BF%E5%AD%90%E4%B8%BA%E7%88%B6%E4%BA%B2%E5%BA%86%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [九尾 高铁没赶上](https://s.weibo.com/weibo?q=%E4%B9%9D%E5%B0%BE%20%E9%AB%98%E9%93%81%E6%B2%A1%E8%B5%B6%E4%B8%8A&t=31&band_rank=8&Refer=top)<br />
-9. [一万块回农村可以躺平多久](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%87%E5%9D%97%E5%9B%9E%E5%86%9C%E6%9D%91%E5%8F%AF%E4%BB%A5%E8%BA%BA%E5%B9%B3%E5%A4%9A%E4%B9%85%23&t=31&band_rank=9&Refer=top)<br />
+8. [一万块回农村可以躺平多久](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%87%E5%9D%97%E5%9B%9E%E5%86%9C%E6%9D%91%E5%8F%AF%E4%BB%A5%E8%BA%BA%E5%B9%B3%E5%A4%9A%E4%B9%85%23&t=31&band_rank=8&Refer=top)<br />
+9. [九尾 高铁没赶上](https://s.weibo.com/weibo?q=%E4%B9%9D%E5%B0%BE%20%E9%AB%98%E9%93%81%E6%B2%A1%E8%B5%B6%E4%B8%8A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
