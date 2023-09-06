@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 11:35:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-06 11:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [地铁判官找到了](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [考研人很难不心动](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E4%BA%BA%E5%BE%88%E9%9A%BE%E4%B8%8D%E5%BF%83%E5%8A%A8&t=31&band_rank=7&Refer=top)<br />
 8. [新疆大螃蟹发货了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%A4%A7%E8%9E%83%E8%9F%B9%E5%8F%91%E8%B4%A7%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [秀才账号被封 信息茧房](https://s.weibo.com/weibo?q=%E7%A7%80%E6%89%8D%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%20%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF&t=31&band_rank=9&Refer=top)<br />
+9. [蜜雪冰城 五粮液](https://s.weibo.com/weibo?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%20%E4%BA%94%E7%B2%AE%E6%B6%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
