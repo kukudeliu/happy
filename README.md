@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 00:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 00:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [日本核污染水已排海6100吨](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%B7%B2%E6%8E%92%E6%B5%B76100%E5%90%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [檀健次直播穿了防风被](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9B%B4%E6%92%AD%E7%A9%BF%E4%BA%86%E9%98%B2%E9%A3%8E%E8%A2%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [被困横店后我成了所有男主的白月光](https://s.weibo.com/weibo?q=%E8%A2%AB%E5%9B%B0%E6%A8%AA%E5%BA%97%E5%90%8E%E6%88%91%E6%88%90%E4%BA%86%E6%89%80%E6%9C%89%E7%94%B7%E4%B8%BB%E7%9A%84%E7%99%BD%E6%9C%88%E5%85%89&t=31&band_rank=8&Refer=top)<br />
-9. [深圳暴雨](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8&t=31&band_rank=9&Refer=top)<br />
+9. [原来只有晕车的人才闻得到异味](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%8F%AA%E6%9C%89%E6%99%95%E8%BD%A6%E7%9A%84%E4%BA%BA%E6%89%8D%E9%97%BB%E5%BE%97%E5%88%B0%E5%BC%82%E5%91%B3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
