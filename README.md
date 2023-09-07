@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 15:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 15:05:01</h4></div>
 
 > 微博  
 
 1. [用苹果备忘录做电子衣橱](https://s.weibo.com/weibo?q=%E7%94%A8%E8%8B%B9%E6%9E%9C%E5%A4%87%E5%BF%98%E5%BD%95%E5%81%9A%E7%94%B5%E5%AD%90%E8%A1%A3%E6%A9%B1&t=31&band_rank=1&Refer=top)<br />
-2. [科学家称50年前美国或杀死了外星生命](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A7%B050%E5%B9%B4%E5%89%8D%E7%BE%8E%E5%9B%BD%E6%88%96%E6%9D%80%E6%AD%BB%E4%BA%86%E5%A4%96%E6%98%9F%E7%94%9F%E5%91%BD%23&t=31&band_rank=2&Refer=top)<br />
+2. [公安介入调查老师打碎学生头骨](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%AE%89%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E8%80%81%E5%B8%88%E6%89%93%E7%A2%8E%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%23&t=31&band_rank=2&Refer=top)<br />
 3. [一带一路上的中国工程师](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E4%B8%8A%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E5%B8%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [张馨予300颗钻石头饰造型](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88300%E9%A2%97%E9%92%BB%E7%9F%B3%E5%A4%B4%E9%A5%B0%E9%80%A0%E5%9E%8B%23&t=31&band_rank=4&Refer=top)<br />
-5. [公安介入调查老师打碎学生头骨](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%AE%89%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E8%80%81%E5%B8%88%E6%89%93%E7%A2%8E%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%23&t=31&band_rank=5&Refer=top)<br />
+5. [科学家称50年前美国或杀死了外星生命](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A7%B050%E5%B9%B4%E5%89%8D%E7%BE%8E%E5%9B%BD%E6%88%96%E6%9D%80%E6%AD%BB%E4%BA%86%E5%A4%96%E6%98%9F%E7%94%9F%E5%91%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [iPhone15价格你能接受吗](https://s.weibo.com/weibo?q=%23iPhone15%E4%BB%B7%E6%A0%BC%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [大米里的虫子从哪里来](https://s.weibo.com/weibo?q=%E5%A4%A7%E7%B1%B3%E9%87%8C%E7%9A%84%E8%99%AB%E5%AD%90%E4%BB%8E%E5%93%AA%E9%87%8C%E6%9D%A5&t=31&band_rank=7&Refer=top)<br />
 8. [汪苏泷 我不轻易和别人吃饭的原因](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%20%E6%88%91%E4%B8%8D%E8%BD%BB%E6%98%93%E5%92%8C%E5%88%AB%E4%BA%BA%E5%90%83%E9%A5%AD%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=8&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [印媒担心巴基斯坦更名叫印度](https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E6%8B%85%E5%BF%83%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%9B%B4%E5%90%8D%E5%8F%AB%E5%8D%B0%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美议员：结束对华为所有技术出口](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%AE%E5%91%98%EF%BC%9A%E7%BB%93%E6%9D%9F%E5%AF%B9%E5%8D%8E%E4%B8%BA%E6%89%80%E6%9C%89%E6%8A%80%E6%9C%AF%E5%87%BA%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [印度外长回应“改国名”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%A4%96%E9%95%BF%E5%9B%9E%E5%BA%94%E2%80%9C%E6%94%B9%E5%9B%BD%E5%90%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [2022届本科生平均月收入5990元](https://www.baidu.com/s?wd=2022%E5%B1%8A%E6%9C%AC%E7%A7%91%E7%94%9F%E5%B9%B3%E5%9D%87%E6%9C%88%E6%94%B6%E5%85%A55990%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本长崎百万条养殖鱼死亡](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%95%BF%E5%B4%8E%E7%99%BE%E4%B8%87%E6%9D%A1%E5%85%BB%E6%AE%96%E9%B1%BC%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [贪腐被举报 国企董事长扎小人报复](https://www.baidu.com/s?wd=%E8%B4%AA%E8%85%90%E8%A2%AB%E4%B8%BE%E6%8A%A5+%E5%9B%BD%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E6%89%8E%E5%B0%8F%E4%BA%BA%E6%8A%A5%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [印媒担心巴基斯坦更名叫印度](https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E6%8B%85%E5%BF%83%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%9B%B4%E5%90%8D%E5%8F%AB%E5%8D%B0%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美议员：结束对华为所有技术出口](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%AE%E5%91%98%EF%BC%9A%E7%BB%93%E6%9D%9F%E5%AF%B9%E5%8D%8E%E4%B8%BA%E6%89%80%E6%9C%89%E6%8A%80%E6%9C%AF%E5%87%BA%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [印度外长回应“改国名”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%A4%96%E9%95%BF%E5%9B%9E%E5%BA%94%E2%80%9C%E6%94%B9%E5%9B%BD%E5%90%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [2022届本科生平均月收入5990元](https://www.baidu.com/s?wd=2022%E5%B1%8A%E6%9C%AC%E7%A7%91%E7%94%9F%E5%B9%B3%E5%9D%87%E6%9C%88%E6%94%B6%E5%85%A55990%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本长崎百万条养殖鱼死亡](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%95%BF%E5%B4%8E%E7%99%BE%E4%B8%87%E6%9D%A1%E5%85%BB%E6%AE%96%E9%B1%BC%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [贪腐被举报 国企董事长扎小人报复](https://www.baidu.com/s?wd=%E8%B4%AA%E8%85%90%E8%A2%AB%E4%B8%BE%E6%8A%A5+%E5%9B%BD%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E6%89%8E%E5%B0%8F%E4%BA%BA%E6%8A%A5%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
