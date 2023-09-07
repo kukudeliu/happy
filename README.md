@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 15:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 15:04:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [中国服务业 世界新机遇](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%8D%E5%8A%A1%E4%B8%9A+%E4%B8%96%E7%95%8C%E6%96%B0%E6%9C%BA%E9%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [印媒担心巴基斯坦更名叫印度](https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E6%8B%85%E5%BF%83%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%9B%B4%E5%90%8D%E5%8F%AB%E5%8D%B0%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美议员：结束对华为所有技术出口](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%AE%E5%91%98%EF%BC%9A%E7%BB%93%E6%9D%9F%E5%AF%B9%E5%8D%8E%E4%B8%BA%E6%89%80%E6%9C%89%E6%8A%80%E6%9C%AF%E5%87%BA%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子称因拒拆迁遭敲盆骚扰 当地回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E5%9B%A0%E6%8B%92%E6%8B%86%E8%BF%81%E9%81%AD%E6%95%B2%E7%9B%86%E9%AA%9A%E6%89%B0+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度外长回应“改国名”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%A4%96%E9%95%BF%E5%9B%9E%E5%BA%94%E2%80%9C%E6%94%B9%E5%9B%BD%E5%90%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度外长回应“改国名”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%A4%96%E9%95%BF%E5%9B%9E%E5%BA%94%E2%80%9C%E6%94%B9%E5%9B%BD%E5%90%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2022届本科生平均月收入5990元](https://www.baidu.com/s?wd=2022%E5%B1%8A%E6%9C%AC%E7%A7%91%E7%94%9F%E5%B9%B3%E5%9D%87%E6%9C%88%E6%94%B6%E5%85%A55990%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [贪腐被举报 国企董事长扎小人报复](https://www.baidu.com/s?wd=%E8%B4%AA%E8%85%90%E8%A2%AB%E4%B8%BE%E6%8A%A5+%E5%9B%BD%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E6%89%8E%E5%B0%8F%E4%BA%BA%E6%8A%A5%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [中国服务业 世界新机遇](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%8D%E5%8A%A1%E4%B8%9A+%E4%B8%96%E7%95%8C%E6%96%B0%E6%9C%BA%E9%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [印媒担心巴基斯坦更名叫印度](https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E6%8B%85%E5%BF%83%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%9B%B4%E5%90%8D%E5%8F%AB%E5%8D%B0%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美议员：结束对华为所有技术出口](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%AE%E5%91%98%EF%BC%9A%E7%BB%93%E6%9D%9F%E5%AF%B9%E5%8D%8E%E4%B8%BA%E6%89%80%E6%9C%89%E6%8A%80%E6%9C%AF%E5%87%BA%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子称因拒拆迁遭敲盆骚扰 当地回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E5%9B%A0%E6%8B%92%E6%8B%86%E8%BF%81%E9%81%AD%E6%95%B2%E7%9B%86%E9%AA%9A%E6%89%B0+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度外长回应“改国名”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%A4%96%E9%95%BF%E5%9B%9E%E5%BA%94%E2%80%9C%E6%94%B9%E5%9B%BD%E5%90%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度外长回应“改国名”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%A4%96%E9%95%BF%E5%9B%9E%E5%BA%94%E2%80%9C%E6%94%B9%E5%9B%BD%E5%90%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2022届本科生平均月收入5990元](https://www.baidu.com/s?wd=2022%E5%B1%8A%E6%9C%AC%E7%A7%91%E7%94%9F%E5%B9%B3%E5%9D%87%E6%9C%88%E6%94%B6%E5%85%A55990%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [贪腐被举报 国企董事长扎小人报复](https://www.baidu.com/s?wd=%E8%B4%AA%E8%85%90%E8%A2%AB%E4%B8%BE%E6%8A%A5+%E5%9B%BD%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E6%89%8E%E5%B0%8F%E4%BA%BA%E6%8A%A5%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
