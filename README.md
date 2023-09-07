@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 13:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 13:38:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [2022届本科生平均月收入5990元](https://s.weibo.com/weibo?q=%232022%E5%B1%8A%E6%9C%AC%E7%A7%91%E7%94%9F%E5%B9%B3%E5%9D%87%E6%9C%88%E6%94%B6%E5%85%A55990%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [印媒担心巴基斯坦更名叫印度](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%AA%92%E6%8B%85%E5%BF%83%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%9B%B4%E5%90%8D%E5%8F%AB%E5%8D%B0%E5%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [宝宝还没出生就收到爷爷编的婴儿床](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E8%BF%98%E6%B2%A1%E5%87%BA%E7%94%9F%E5%B0%B1%E6%94%B6%E5%88%B0%E7%88%B7%E7%88%B7%E7%BC%96%E7%9A%84%E5%A9%B4%E5%84%BF%E5%BA%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [姜珮瑶眼睛好会撩](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E7%8F%AE%E7%91%B6%E7%9C%BC%E7%9D%9B%E5%A5%BD%E4%BC%9A%E6%92%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [长沙一小学男教师打伤学生头骨](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%94%B7%E6%95%99%E5%B8%88%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
