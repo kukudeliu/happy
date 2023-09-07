@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 11:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 11:09:01</h4></div>
 
 > 微博  
 
-1. [iPhone信号太差或将解决](https://s.weibo.com/weibo?q=%23iPhone%E4%BF%A1%E5%8F%B7%E5%A4%AA%E5%B7%AE%E6%88%96%E5%B0%86%E8%A7%A3%E5%86%B3%23&t=31&band_rank=1&Refer=top)<br />
-2. [2022届本科生平均月收入5990元](https://s.weibo.com/weibo?q=%232022%E5%B1%8A%E6%9C%AC%E7%A7%91%E7%94%9F%E5%B9%B3%E5%9D%87%E6%9C%88%E6%94%B6%E5%85%A55990%E5%85%83%23&t=31&band_rank=2&Refer=top)<br />
+1. [2022届本科生平均月收入5990元](https://s.weibo.com/weibo?q=%232022%E5%B1%8A%E6%9C%AC%E7%A7%91%E7%94%9F%E5%B9%B3%E5%9D%87%E6%9C%88%E6%94%B6%E5%85%A55990%E5%85%83%23&t=31&band_rank=1&Refer=top)<br />
+2. [iPhone信号太差或将解决](https://s.weibo.com/weibo?q=%23iPhone%E4%BF%A1%E5%8F%B7%E5%A4%AA%E5%B7%AE%E6%88%96%E5%B0%86%E8%A7%A3%E5%86%B3%23&t=31&band_rank=2&Refer=top)<br />
 3. [原来航天员在太空是这样练腿的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E5%A4%AA%E7%A9%BA%E6%98%AF%E8%BF%99%E6%A0%B7%E7%BB%83%E8%85%BF%E7%9A%84%23&t=31&band_rank=3&Refer=top)<br />
 4. [瑞幸为什么不直接倒茅台酒](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%9B%B4%E6%8E%A5%E5%80%92%E8%8C%85%E5%8F%B0%E9%85%92&t=31&band_rank=4&Refer=top)<br />
 5. [四川工商学院通报公开播放劣迹艺人视频](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%B7%A5%E5%95%86%E5%AD%A6%E9%99%A2%E9%80%9A%E6%8A%A5%E5%85%AC%E5%BC%80%E6%92%AD%E6%94%BE%E5%8A%A3%E8%BF%B9%E8%89%BA%E4%BA%BA%E8%A7%86%E9%A2%91%23&t=31&band_rank=5&Refer=top)<br />
@@ -25,7 +25,7 @@
 6. [苹果市值一夜蒸发1062亿美元](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%911062%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男童被邻居家狗抓伤确诊狂犬病离世](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E9%82%BB%E5%B1%85%E5%AE%B6%E7%8B%97%E6%8A%93%E4%BC%A4%E7%A1%AE%E8%AF%8A%E7%8B%82%E7%8A%AC%E7%97%85%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [印度欲更名“婆罗多”有何目的](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%AC%B2%E6%9B%B4%E5%90%8D%E2%80%9C%E5%A9%86%E7%BD%97%E5%A4%9A%E2%80%9D%E6%9C%89%E4%BD%95%E7%9B%AE%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [纪委人员办案 车顶被放掰断翅膀鸽子](https://www.baidu.com/s?wd=%E7%BA%AA%E5%A7%94%E4%BA%BA%E5%91%98%E5%8A%9E%E6%A1%88+%E8%BD%A6%E9%A1%B6%E8%A2%AB%E6%94%BE%E6%8E%B0%E6%96%AD%E7%BF%85%E8%86%80%E9%B8%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中铁五局回应高速大桥有质量问题](https://www.baidu.com/s?wd=%E4%B8%AD%E9%93%81%E4%BA%94%E5%B1%80%E5%9B%9E%E5%BA%94%E9%AB%98%E9%80%9F%E5%A4%A7%E6%A1%A5%E6%9C%89%E8%B4%A8%E9%87%8F%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [苹果市值一夜蒸发1062亿美元](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%911062%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男童被邻居家狗抓伤确诊狂犬病离世](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E9%82%BB%E5%B1%85%E5%AE%B6%E7%8B%97%E6%8A%93%E4%BC%A4%E7%A1%AE%E8%AF%8A%E7%8B%82%E7%8A%AC%E7%97%85%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [印度欲更名“婆罗多”有何目的](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%AC%B2%E6%9B%B4%E5%90%8D%E2%80%9C%E5%A9%86%E7%BD%97%E5%A4%9A%E2%80%9D%E6%9C%89%E4%BD%95%E7%9B%AE%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [纪委人员办案 车顶被放掰断翅膀鸽子](https://www.baidu.com/s?wd=%E7%BA%AA%E5%A7%94%E4%BA%BA%E5%91%98%E5%8A%9E%E6%A1%88+%E8%BD%A6%E9%A1%B6%E8%A2%AB%E6%94%BE%E6%8E%B0%E6%96%AD%E7%BF%85%E8%86%80%E9%B8%BD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中铁五局回应高速大桥有质量问题](https://www.baidu.com/s?wd=%E4%B8%AD%E9%93%81%E4%BA%94%E5%B1%80%E5%9B%9E%E5%BA%94%E9%AB%98%E9%80%9F%E5%A4%A7%E6%A1%A5%E6%9C%89%E8%B4%A8%E9%87%8F%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
