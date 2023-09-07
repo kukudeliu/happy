@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 17:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 17:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [关于新疆虹鳟](https://s.weibo.com/weibo?q=%E5%85%B3%E4%BA%8E%E6%96%B0%E7%96%86%E8%99%B9%E9%B3%9F&t=31&band_rank=6&Refer=top)<br />
 7. [男子抢注学籍致6岁儿子无法入学](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%A2%E6%B3%A8%E5%AD%A6%E7%B1%8D%E8%87%B46%E5%B2%81%E5%84%BF%E5%AD%90%E6%97%A0%E6%B3%95%E5%85%A5%E5%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [原来相柳和宫子羽走的是一个台阶](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%9B%B8%E6%9F%B3%E5%92%8C%E5%AE%AB%E5%AD%90%E7%BE%BD%E8%B5%B0%E7%9A%84%E6%98%AF%E4%B8%80%E4%B8%AA%E5%8F%B0%E9%98%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [终于学会高情商回复了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E5%AD%A6%E4%BC%9A%E9%AB%98%E6%83%85%E5%95%86%E5%9B%9E%E5%A4%8D%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [被老师打破头骨女生已清醒](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E7%A0%B4%E5%A4%B4%E9%AA%A8%E5%A5%B3%E7%94%9F%E5%B7%B2%E6%B8%85%E9%86%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
