@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 00:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 00:45:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [广州暴雨](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8&t=31&band_rank=5&Refer=top)<br />
 6. [内蒙古发生高压气体喷出事故致9死3伤](https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E5%8F%91%E7%94%9F%E9%AB%98%E5%8E%8B%E6%B0%94%E4%BD%93%E5%96%B7%E5%87%BA%E4%BA%8B%E6%95%85%E8%87%B49%E6%AD%BB3%E4%BC%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本核污染水已排海6100吨](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%B7%B2%E6%8E%92%E6%B5%B76100%E5%90%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [檀健次直播穿了防风被](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9B%B4%E6%92%AD%E7%A9%BF%E4%BA%86%E9%98%B2%E9%A3%8E%E8%A2%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [原来只有晕车的人才闻得到异味](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%8F%AA%E6%9C%89%E6%99%95%E8%BD%A6%E7%9A%84%E4%BA%BA%E6%89%8D%E9%97%BB%E5%BE%97%E5%88%B0%E5%BC%82%E5%91%B3&t=31&band_rank=9&Refer=top)<br />
+8. [原来只有晕车的人才闻得到异味](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%8F%AA%E6%9C%89%E6%99%95%E8%BD%A6%E7%9A%84%E4%BA%BA%E6%89%8D%E9%97%BB%E5%BE%97%E5%88%B0%E5%BC%82%E5%91%B3&t=31&band_rank=8&Refer=top)<br />
+9. [檀健次直播穿了防风被](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9B%B4%E6%92%AD%E7%A9%BF%E4%BA%86%E9%98%B2%E9%A3%8E%E8%A2%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
