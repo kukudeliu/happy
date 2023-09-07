@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 10:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 10:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女子穿汉服拍照被认作日本服饰驱赶](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A9%BF%E6%B1%89%E6%9C%8D%E6%8B%8D%E7%85%A7%E8%A2%AB%E8%AE%A4%E4%BD%9C%E6%97%A5%E6%9C%AC%E6%9C%8D%E9%A5%B0%E9%A9%B1%E8%B5%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [父母坚持每周给女儿拍一张照片](https://s.weibo.com/weibo?q=%E7%88%B6%E6%AF%8D%E5%9D%9A%E6%8C%81%E6%AF%8F%E5%91%A8%E7%BB%99%E5%A5%B3%E5%84%BF%E6%8B%8D%E4%B8%80%E5%BC%A0%E7%85%A7%E7%89%87&t=31&band_rank=7&Refer=top)<br />
 8. [考研和考编同时上岸选哪个](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%92%8C%E8%80%83%E7%BC%96%E5%90%8C%E6%97%B6%E4%B8%8A%E5%B2%B8%E9%80%89%E5%93%AA%E4%B8%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨丽萍回应舞蹈大尺度设置](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%BD%E8%90%8D%E5%9B%9E%E5%BA%94%E8%88%9E%E8%B9%88%E5%A4%A7%E5%B0%BA%E5%BA%A6%E8%AE%BE%E7%BD%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [新加坡地铁果然是中国造的](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9C%B0%E9%93%81%E6%9E%9C%E7%84%B6%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%80%A0%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
