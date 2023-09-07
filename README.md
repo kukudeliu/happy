@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 15:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 15:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大米里的虫子从哪里来](https://s.weibo.com/weibo?q=%E5%A4%A7%E7%B1%B3%E9%87%8C%E7%9A%84%E8%99%AB%E5%AD%90%E4%BB%8E%E5%93%AA%E9%87%8C%E6%9D%A5&t=31&band_rank=6&Refer=top)<br />
 7. [角徵浅 狐狸精](https://s.weibo.com/weibo?q=%E8%A7%92%E5%BE%B5%E6%B5%85%20%E7%8B%90%E7%8B%B8%E7%B2%BE&t=31&band_rank=7&Refer=top)<br />
 8. [一念关山](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1&t=31&band_rank=8&Refer=top)<br />
-9. [科学家称50年前美国或杀死了外星生命](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A7%B050%E5%B9%B4%E5%89%8D%E7%BE%8E%E5%9B%BD%E6%88%96%E6%9D%80%E6%AD%BB%E4%BA%86%E5%A4%96%E6%98%9F%E7%94%9F%E5%91%BD%23&t=31&band_rank=9&Refer=top)<br />
+9. [iPhone15价格你能接受吗](https://s.weibo.com/weibo?q=%23iPhone15%E4%BB%B7%E6%A0%BC%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
