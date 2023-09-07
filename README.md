@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 18:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 18:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [被老师打破头骨女生已清醒](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E7%A0%B4%E5%A4%B4%E9%AA%A8%E5%A5%B3%E7%94%9F%E5%B7%B2%E6%B8%85%E9%86%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [老人干农活手臂受伤流血交警急送医](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%B9%B2%E5%86%9C%E6%B4%BB%E6%89%8B%E8%87%82%E5%8F%97%E4%BC%A4%E6%B5%81%E8%A1%80%E4%BA%A4%E8%AD%A6%E6%80%A5%E9%80%81%E5%8C%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [林志颖车祸后首露脸部伤疤](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E8%BD%A6%E7%A5%B8%E5%90%8E%E9%A6%96%E9%9C%B2%E8%84%B8%E9%83%A8%E4%BC%A4%E7%96%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [教育局通报小学教师打伤学生头骨](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [巴奴称羊肉卷确实含有鸭肉成份](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%A5%B4%E7%A7%B0%E7%BE%8A%E8%82%89%E5%8D%B7%E7%A1%AE%E5%AE%9E%E5%90%AB%E6%9C%89%E9%B8%AD%E8%82%89%E6%88%90%E4%BB%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
