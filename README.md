@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 17:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 17:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张馨予300颗钻石头饰造型](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88300%E9%A2%97%E9%92%BB%E7%9F%B3%E5%A4%B4%E9%A5%B0%E9%80%A0%E5%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [iPhone15价格你能接受吗](https://s.weibo.com/weibo?q=%23iPhone15%E4%BB%B7%E6%A0%BC%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [角徵浅 狐狸精](https://s.weibo.com/weibo?q=%E8%A7%92%E5%BE%B5%E6%B5%85%20%E7%8B%90%E7%8B%B8%E7%B2%BE&t=31&band_rank=8&Refer=top)<br />
-9. [一念关山](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1&t=31&band_rank=9&Refer=top)<br />
+9. [患抑郁症的她以第一名考上了研究生](https://s.weibo.com/weibo?q=%23%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%E7%9A%84%E5%A5%B9%E4%BB%A5%E7%AC%AC%E4%B8%80%E5%90%8D%E8%80%83%E4%B8%8A%E4%BA%86%E7%A0%94%E7%A9%B6%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
