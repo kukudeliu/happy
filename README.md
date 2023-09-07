@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 17:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 17:04:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [尹锡悦发言用“韩日中”顺序谈三国](https://www.baidu.com/s?wd=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%8F%91%E8%A8%80%E7%94%A8%E2%80%9C%E9%9F%A9%E6%97%A5%E4%B8%AD%E2%80%9D%E9%A1%BA%E5%BA%8F%E8%B0%88%E4%B8%89%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老人因烧秸秆被迫写检讨 当地通报](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%9B%A0%E7%83%A7%E7%A7%B8%E7%A7%86%E8%A2%AB%E8%BF%AB%E5%86%99%E6%A3%80%E8%AE%A8+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李强:今年中国经济有望实现增长目标](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BC%BA%3A%E4%BB%8A%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%9C%89%E6%9C%9B%E5%AE%9E%E7%8E%B0%E5%A2%9E%E9%95%BF%E7%9B%AE%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [落马官员梦到被查去翻《周公解梦》](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%AE%98%E5%91%98%E6%A2%A6%E5%88%B0%E8%A2%AB%E6%9F%A5%E5%8E%BB%E7%BF%BB%E3%80%8A%E5%91%A8%E5%85%AC%E8%A7%A3%E6%A2%A6%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [48岁阿姨再高考考上大学学中医](https://www.baidu.com/s?wd=48%E5%B2%81%E9%98%BF%E5%A7%A8%E5%86%8D%E9%AB%98%E8%80%83%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B8%AD%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [尹锡悦发言用“韩日中”顺序谈三国](https://www.baidu.com/s?wd=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%8F%91%E8%A8%80%E7%94%A8%E2%80%9C%E9%9F%A9%E6%97%A5%E4%B8%AD%E2%80%9D%E9%A1%BA%E5%BA%8F%E8%B0%88%E4%B8%89%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老人因烧秸秆被迫写检讨 当地通报](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%9B%A0%E7%83%A7%E7%A7%B8%E7%A7%86%E8%A2%AB%E8%BF%AB%E5%86%99%E6%A3%80%E8%AE%A8+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李强:今年中国经济有望实现增长目标](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BC%BA%3A%E4%BB%8A%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%9C%89%E6%9C%9B%E5%AE%9E%E7%8E%B0%E5%A2%9E%E9%95%BF%E7%9B%AE%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [落马官员梦到被查去翻《周公解梦》](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%AE%98%E5%91%98%E6%A2%A6%E5%88%B0%E8%A2%AB%E6%9F%A5%E5%8E%BB%E7%BF%BB%E3%80%8A%E5%91%A8%E5%85%AC%E8%A7%A3%E6%A2%A6%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [48岁阿姨再高考考上大学学中医](https://www.baidu.com/s?wd=48%E5%B2%81%E9%98%BF%E5%A7%A8%E5%86%8D%E9%AB%98%E8%80%83%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B8%AD%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
