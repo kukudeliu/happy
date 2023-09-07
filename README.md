@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 16:24:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 16:25:01</h4></div>
 
 > 微博  
 
-1. [男子抢注学籍致6岁儿子无法入学](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%A2%E6%B3%A8%E5%AD%A6%E7%B1%8D%E8%87%B46%E5%B2%81%E5%84%BF%E5%AD%90%E6%97%A0%E6%B3%95%E5%85%A5%E5%AD%A6%23&t=31&band_rank=1&Refer=top)<br />
-2. [林志颖车祸后首露脸部伤疤](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E8%BD%A6%E7%A5%B8%E5%90%8E%E9%A6%96%E9%9C%B2%E8%84%B8%E9%83%A8%E4%BC%A4%E7%96%A4%23&t=31&band_rank=2&Refer=top)<br />
+1. [林志颖车祸后首露脸部伤疤](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E8%BD%A6%E7%A5%B8%E5%90%8E%E9%A6%96%E9%9C%B2%E8%84%B8%E9%83%A8%E4%BC%A4%E7%96%A4%23&t=31&band_rank=1&Refer=top)<br />
+2. [男子抢注学籍致6岁儿子无法入学](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%A2%E6%B3%A8%E5%AD%A6%E7%B1%8D%E8%87%B46%E5%B2%81%E5%84%BF%E5%AD%90%E6%97%A0%E6%B3%95%E5%85%A5%E5%AD%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [直击杭州亚运会](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%87%BB%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [张馨予300颗钻石头饰造型](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88300%E9%A2%97%E9%92%BB%E7%9F%B3%E5%A4%B4%E9%A5%B0%E9%80%A0%E5%9E%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [公安介入调查老师打碎学生头骨](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%AE%89%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E8%80%81%E5%B8%88%E6%89%93%E7%A2%8E%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%23&t=31&band_rank=5&Refer=top)<br />
@@ -25,7 +25,7 @@
 6. [打破学生头骨老师停职接受公安调查](https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%E8%80%81%E5%B8%88%E5%81%9C%E8%81%8C%E6%8E%A5%E5%8F%97%E5%85%AC%E5%AE%89%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [首尔“慰安妇”纪念雕塑遭拆除](https://www.baidu.com/s?wd=%E9%A6%96%E5%B0%94%E2%80%9C%E6%85%B0%E5%AE%89%E5%A6%87%E2%80%9D%E7%BA%AA%E5%BF%B5%E9%9B%95%E5%A1%91%E9%81%AD%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [餐厅称酱香火锅锅底含8ml茅台酒](https://www.baidu.com/s?wd=%E9%A4%90%E5%8E%85%E7%A7%B0%E9%85%B1%E9%A6%99%E7%81%AB%E9%94%85%E9%94%85%E5%BA%95%E5%90%AB8ml%E8%8C%85%E5%8F%B0%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [福州洪水受灾人员:几吨重机器被冲走](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E6%B4%AA%E6%B0%B4%E5%8F%97%E7%81%BE%E4%BA%BA%E5%91%98%3A%E5%87%A0%E5%90%A8%E9%87%8D%E6%9C%BA%E5%99%A8%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子抢注学籍致6岁儿子无法入学](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A2%E6%B3%A8%E5%AD%A6%E7%B1%8D%E8%87%B46%E5%B2%81%E5%84%BF%E5%AD%90%E6%97%A0%E6%B3%95%E5%85%A5%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [打破学生头骨老师停职接受公安调查](https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%E8%80%81%E5%B8%88%E5%81%9C%E8%81%8C%E6%8E%A5%E5%8F%97%E5%85%AC%E5%AE%89%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [首尔“慰安妇”纪念雕塑遭拆除](https://www.baidu.com/s?wd=%E9%A6%96%E5%B0%94%E2%80%9C%E6%85%B0%E5%AE%89%E5%A6%87%E2%80%9D%E7%BA%AA%E5%BF%B5%E9%9B%95%E5%A1%91%E9%81%AD%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [餐厅称酱香火锅锅底含8ml茅台酒](https://www.baidu.com/s?wd=%E9%A4%90%E5%8E%85%E7%A7%B0%E9%85%B1%E9%A6%99%E7%81%AB%E9%94%85%E9%94%85%E5%BA%95%E5%90%AB8ml%E8%8C%85%E5%8F%B0%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [福州洪水受灾人员:几吨重机器被冲走](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E6%B4%AA%E6%B0%B4%E5%8F%97%E7%81%BE%E4%BA%BA%E5%91%98%3A%E5%87%A0%E5%90%A8%E9%87%8D%E6%9C%BA%E5%99%A8%E8%A2%AB%E5%86%B2%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子抢注学籍致6岁儿子无法入学](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A2%E6%B3%A8%E5%AD%A6%E7%B1%8D%E8%87%B46%E5%B2%81%E5%84%BF%E5%AD%90%E6%97%A0%E6%B3%95%E5%85%A5%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
