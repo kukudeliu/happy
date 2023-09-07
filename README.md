@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 16:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 16:46:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [角徵浅 狐狸精](https://s.weibo.com/weibo?q=%E8%A7%92%E5%BE%B5%E6%B5%85%20%E7%8B%90%E7%8B%B8%E7%B2%BE&t=31&band_rank=5&Refer=top)<br />
 6. [一念关山](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1&t=31&band_rank=6&Refer=top)<br />
 7. [公安介入调查老师打碎学生头骨](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%AE%89%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E8%80%81%E5%B8%88%E6%89%93%E7%A2%8E%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [iPhone15价格你能接受吗](https://s.weibo.com/weibo?q=%23iPhone15%E4%BB%B7%E6%A0%BC%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [教育局通报小学教师打伤学生头骨](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%23&t=31&band_rank=9&Refer=top)<br />
+8. [教育局通报小学教师打伤学生头骨](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [iPhone15价格你能接受吗](https://s.weibo.com/weibo?q=%23iPhone15%E4%BB%B7%E6%A0%BC%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
