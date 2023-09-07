@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 23:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 23:23:01</h4></div>
 
 > 微博  
 
-1. [深圳暴雨](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8&t=31&band_rank=1&Refer=top)<br />
-2. [内蒙古发生高压气体喷出事故致9死3伤](https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E5%8F%91%E7%94%9F%E9%AB%98%E5%8E%8B%E6%B0%94%E4%BD%93%E5%96%B7%E5%87%BA%E4%BA%8B%E6%95%85%E8%87%B49%E6%AD%BB3%E4%BC%A4%23&t=31&band_rank=2&Refer=top)<br />
+1. [内蒙古发生高压气体喷出事故致9死3伤](https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E5%8F%91%E7%94%9F%E9%AB%98%E5%8E%8B%E6%B0%94%E4%BD%93%E5%96%B7%E5%87%BA%E4%BA%8B%E6%95%85%E8%87%B49%E6%AD%BB3%E4%BC%A4%23&t=31&band_rank=1&Refer=top)<br />
+2. [深圳暴雨](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8&t=31&band_rank=2&Refer=top)<br />
 3. [首艘国产大型邮轮开启新试航](https://s.weibo.com/weibo?q=%23%E9%A6%96%E8%89%98%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%E5%BC%80%E5%90%AF%E6%96%B0%E8%AF%95%E8%88%AA%23&t=31&band_rank=3&Refer=top)<br />
 4. [农行卡状态异常](https://s.weibo.com/weibo?q=%E5%86%9C%E8%A1%8C%E5%8D%A1%E7%8A%B6%E6%80%81%E5%BC%82%E5%B8%B8&t=31&band_rank=4&Refer=top)<br />
 5. [公职人员被儿子举报出轨停职](https://s.weibo.com/weibo?q=%23%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%84%BF%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E5%81%9C%E8%81%8C%23&t=31&band_rank=5&Refer=top)<br />
