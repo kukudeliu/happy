@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 17:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 17:11:01</h4></div>
 
 > 微博  
 
 1. [林志颖车祸后首露脸部伤疤](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E8%BD%A6%E7%A5%B8%E5%90%8E%E9%A6%96%E9%9C%B2%E8%84%B8%E9%83%A8%E4%BC%A4%E7%96%A4%23&t=31&band_rank=1&Refer=top)<br />
 2. [教育局通报小学教师打伤学生头骨](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%23&t=31&band_rank=2&Refer=top)<br />
 3. [直击杭州亚运会](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%87%BB%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [男子抢注学籍致6岁儿子无法入学](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%A2%E6%B3%A8%E5%AD%A6%E7%B1%8D%E8%87%B46%E5%B2%81%E5%84%BF%E5%AD%90%E6%97%A0%E6%B3%95%E5%85%A5%E5%AD%A6%23&t=31&band_rank=4&Refer=top)<br />
-5. [张国立接了陈道明婉拒的角色](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%9B%BD%E7%AB%8B%E6%8E%A5%E4%BA%86%E9%99%88%E9%81%93%E6%98%8E%E5%A9%89%E6%8B%92%E7%9A%84%E8%A7%92%E8%89%B2%23&t=31&band_rank=5&Refer=top)<br />
+4. [张国立接了陈道明婉拒的角色](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%9B%BD%E7%AB%8B%E6%8E%A5%E4%BA%86%E9%99%88%E9%81%93%E6%98%8E%E5%A9%89%E6%8B%92%E7%9A%84%E8%A7%92%E8%89%B2%23&t=31&band_rank=4&Refer=top)<br />
+5. [男子抢注学籍致6岁儿子无法入学](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%A2%E6%B3%A8%E5%AD%A6%E7%B1%8D%E8%87%B46%E5%B2%81%E5%84%BF%E5%AD%90%E6%97%A0%E6%B3%95%E5%85%A5%E5%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [张馨予300颗钻石头饰造型](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88300%E9%A2%97%E9%92%BB%E7%9F%B3%E5%A4%B4%E9%A5%B0%E9%80%A0%E5%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [iPhone15价格你能接受吗](https://s.weibo.com/weibo?q=%23iPhone15%E4%BB%B7%E6%A0%BC%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [冯宝宝被割韭菜](https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%AE%9D%E5%AE%9D%E8%A2%AB%E5%89%B2%E9%9F%AD%E8%8F%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [关于新疆虹鳟](https://s.weibo.com/weibo?q=%E5%85%B3%E4%BA%8E%E6%96%B0%E7%96%86%E8%99%B9%E9%B3%9F&t=31&band_rank=9&Refer=top)<br />
+7. [关于新疆虹鳟](https://s.weibo.com/weibo?q=%E5%85%B3%E4%BA%8E%E6%96%B0%E7%96%86%E8%99%B9%E9%B3%9F&t=31&band_rank=7&Refer=top)<br />
+8. [iPhone15价格你能接受吗](https://s.weibo.com/weibo?q=%23iPhone15%E4%BB%B7%E6%A0%BC%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [冯宝宝被割韭菜](https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%AE%9D%E5%AE%9D%E8%A2%AB%E5%89%B2%E9%9F%AD%E8%8F%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
