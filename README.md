@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 01:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 01:46:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [企业发生高压气体喷出事故致9死3伤](https://www.baidu.com/s?wd=%E4%BC%81%E4%B8%9A%E5%8F%91%E7%94%9F%E9%AB%98%E5%8E%8B%E6%B0%94%E4%BD%93%E5%96%B7%E5%87%BA%E4%BA%8B%E6%95%85%E8%87%B49%E6%AD%BB3%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [火炬传递看“浙”里](https://www.baidu.com/s?wd=%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E7%9C%8B%E2%80%9C%E6%B5%99%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [年收入10万以下个人基本不缴个税](https://www.baidu.com/s?wd=%E5%B9%B4%E6%94%B6%E5%85%A510%E4%B8%87%E4%BB%A5%E4%B8%8B%E4%B8%AA%E4%BA%BA%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%BC%B4%E4%B8%AA%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [张艺谋说于和伟反派角色胜过高启强](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%AF%B4%E4%BA%8E%E5%92%8C%E4%BC%9F%E5%8F%8D%E6%B4%BE%E8%A7%92%E8%89%B2%E8%83%9C%E8%BF%87%E9%AB%98%E5%90%AF%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [芭堤雅四方水上市场发生严重火灾](https://www.baidu.com/s?wd=%E8%8A%AD%E5%A0%A4%E9%9B%85%E5%9B%9B%E6%96%B9%E6%B0%B4%E4%B8%8A%E5%B8%82%E5%9C%BA%E5%8F%91%E7%94%9F%E4%B8%A5%E9%87%8D%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美国防部将向乌克兰提供贫铀弹](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E5%B0%86%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B%E8%B4%AB%E9%93%80%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [13岁女孩身高超1米7被确诊天才病](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BA%AB%E9%AB%98%E8%B6%851%E7%B1%B37%E8%A2%AB%E7%A1%AE%E8%AF%8A%E5%A4%A9%E6%89%8D%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张艺谋说于和伟反派角色胜过高启强](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%AF%B4%E4%BA%8E%E5%92%8C%E4%BC%9F%E5%8F%8D%E6%B4%BE%E8%A7%92%E8%89%B2%E8%83%9C%E8%BF%87%E9%AB%98%E5%90%AF%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [11名领导干部轮训期间聚餐饮酒](https://www.baidu.com/s?wd=11%E5%90%8D%E9%A2%86%E5%AF%BC%E5%B9%B2%E9%83%A8%E8%BD%AE%E8%AE%AD%E6%9C%9F%E9%97%B4%E8%81%9A%E9%A4%90%E9%A5%AE%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [企业发生高压气体喷出事故致9死3伤](https://www.baidu.com/s?wd=%E4%BC%81%E4%B8%9A%E5%8F%91%E7%94%9F%E9%AB%98%E5%8E%8B%E6%B0%94%E4%BD%93%E5%96%B7%E5%87%BA%E4%BA%8B%E6%95%85%E8%87%B49%E6%AD%BB3%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [火炬传递看“浙”里](https://www.baidu.com/s?wd=%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E7%9C%8B%E2%80%9C%E6%B5%99%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [年收入10万以下个人基本不缴个税](https://www.baidu.com/s?wd=%E5%B9%B4%E6%94%B6%E5%85%A510%E4%B8%87%E4%BB%A5%E4%B8%8B%E4%B8%AA%E4%BA%BA%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%BC%B4%E4%B8%AA%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [张艺谋说于和伟反派角色胜过高启强](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%AF%B4%E4%BA%8E%E5%92%8C%E4%BC%9F%E5%8F%8D%E6%B4%BE%E8%A7%92%E8%89%B2%E8%83%9C%E8%BF%87%E9%AB%98%E5%90%AF%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [芭堤雅四方水上市场发生严重火灾](https://www.baidu.com/s?wd=%E8%8A%AD%E5%A0%A4%E9%9B%85%E5%9B%9B%E6%96%B9%E6%B0%B4%E4%B8%8A%E5%B8%82%E5%9C%BA%E5%8F%91%E7%94%9F%E4%B8%A5%E9%87%8D%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美国防部将向乌克兰提供贫铀弹](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E5%B0%86%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B%E8%B4%AB%E9%93%80%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [13岁女孩身高超1米7被确诊天才病](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BA%AB%E9%AB%98%E8%B6%851%E7%B1%B37%E8%A2%AB%E7%A1%AE%E8%AF%8A%E5%A4%A9%E6%89%8D%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张艺谋说于和伟反派角色胜过高启强](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%AF%B4%E4%BA%8E%E5%92%8C%E4%BC%9F%E5%8F%8D%E6%B4%BE%E8%A7%92%E8%89%B2%E8%83%9C%E8%BF%87%E9%AB%98%E5%90%AF%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [11名领导干部轮训期间聚餐饮酒](https://www.baidu.com/s?wd=11%E5%90%8D%E9%A2%86%E5%AF%BC%E5%B9%B2%E9%83%A8%E8%BD%AE%E8%AE%AD%E6%9C%9F%E9%97%B4%E8%81%9A%E9%A4%90%E9%A5%AE%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
