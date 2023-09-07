@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 21:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 21:23:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [陈翔做声带手术](https://s.weibo.com/weibo?q=%23%E9%99%88%E7%BF%94%E5%81%9A%E5%A3%B0%E5%B8%A6%E6%89%8B%E6%9C%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [年收入10万元以下个人基本不缴个税](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E6%94%B6%E5%85%A510%E4%B8%87%E5%85%83%E4%BB%A5%E4%B8%8B%E4%B8%AA%E4%BA%BA%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%BC%B4%E4%B8%AA%E7%A8%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [维密天使 众神回归](https://s.weibo.com/weibo?q=%E7%BB%B4%E5%AF%86%E5%A4%A9%E4%BD%BF%20%E4%BC%97%E7%A5%9E%E5%9B%9E%E5%BD%92&t=31&band_rank=7&Refer=top)<br />
-8. [林志颖车祸后首露脸部伤疤](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E8%BD%A6%E7%A5%B8%E5%90%8E%E9%A6%96%E9%9C%B2%E8%84%B8%E9%83%A8%E4%BC%A4%E7%96%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [巴奴赔付顾客835.4万](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%A5%B4%E8%B5%94%E4%BB%98%E9%A1%BE%E5%AE%A2835.4%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [巴奴赔付顾客835.4万](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%A5%B4%E8%B5%94%E4%BB%98%E9%A1%BE%E5%AE%A2835.4%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [被老师打破头骨女生已清醒](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E7%A0%B4%E5%A4%B4%E9%AA%A8%E5%A5%B3%E7%94%9F%E5%B7%B2%E6%B8%85%E9%86%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [13岁女孩身高超1米7被确诊天才病](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BA%AB%E9%AB%98%E8%B6%851%E7%B1%B37%E8%A2%AB%E7%A1%AE%E8%AF%8A%E5%A4%A9%E6%89%8D%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [乌高官称第三次世界大战已开始](https://www.baidu.com/s?wd=%E4%B9%8C%E9%AB%98%E5%AE%98%E7%A7%B0%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98%E5%B7%B2%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [街道办通报工作人员多次掌掴商贩](https://www.baidu.com/s?wd=%E8%A1%97%E9%81%93%E5%8A%9E%E9%80%9A%E6%8A%A5%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%A4%9A%E6%AC%A1%E6%8E%8C%E6%8E%B4%E5%95%86%E8%B4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [全球首只白色大熊猫最新研究成果](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%AA%E7%99%BD%E8%89%B2%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [新疆沙漠里澳洲龙虾丰收啦](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%B2%99%E6%BC%A0%E9%87%8C%E6%BE%B3%E6%B4%B2%E9%BE%99%E8%99%BE%E4%B8%B0%E6%94%B6%E5%95%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [13岁女孩身高超1米7被确诊天才病](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BA%AB%E9%AB%98%E8%B6%851%E7%B1%B37%E8%A2%AB%E7%A1%AE%E8%AF%8A%E5%A4%A9%E6%89%8D%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [乌高官称第三次世界大战已开始](https://www.baidu.com/s?wd=%E4%B9%8C%E9%AB%98%E5%AE%98%E7%A7%B0%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98%E5%B7%B2%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [街道办通报工作人员多次掌掴商贩](https://www.baidu.com/s?wd=%E8%A1%97%E9%81%93%E5%8A%9E%E9%80%9A%E6%8A%A5%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%A4%9A%E6%AC%A1%E6%8E%8C%E6%8E%B4%E5%95%86%E8%B4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [全球首只白色大熊猫最新研究成果](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%AA%E7%99%BD%E8%89%B2%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [新疆沙漠里澳洲龙虾丰收啦](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%B2%99%E6%BC%A0%E9%87%8C%E6%BE%B3%E6%B4%B2%E9%BE%99%E8%99%BE%E4%B8%B0%E6%94%B6%E5%95%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
