@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 20:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 20:44:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [乌高官称第三次世界大战已开始](https://www.baidu.com/s?wd=%E4%B9%8C%E9%AB%98%E5%AE%98%E7%A7%B0%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98%E5%B7%B2%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [13岁女孩身高超1米7被确诊天才病](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BA%AB%E9%AB%98%E8%B6%851%E7%B1%B37%E8%A2%AB%E7%A1%AE%E8%AF%8A%E5%A4%A9%E6%89%8D%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美国专家：半导体行业需要中国](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%A1%8C%E4%B8%9A%E9%9C%80%E8%A6%81%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [落马官员梦到被查去翻《周公解梦》](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%AE%98%E5%91%98%E6%A2%A6%E5%88%B0%E8%A2%AB%E6%9F%A5%E5%8E%BB%E7%BF%BB%E3%80%8A%E5%91%A8%E5%85%AC%E8%A7%A3%E6%A2%A6%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [刘国中将访问朝鲜](https://www.baidu.com/s?wd=%E5%88%98%E5%9B%BD%E4%B8%AD%E5%B0%86%E8%AE%BF%E9%97%AE%E6%9C%9D%E9%B2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [洛阳理工一学生致1死2伤后跳楼自杀](https://www.baidu.com/s?wd=%E6%B4%9B%E9%98%B3%E7%90%86%E5%B7%A5%E4%B8%80%E5%AD%A6%E7%94%9F%E8%87%B41%E6%AD%BB2%E4%BC%A4%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [乌高官称第三次世界大战已开始](https://www.baidu.com/s?wd=%E4%B9%8C%E9%AB%98%E5%AE%98%E7%A7%B0%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98%E5%B7%B2%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [13岁女孩身高超1米7被确诊天才病](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BA%AB%E9%AB%98%E8%B6%851%E7%B1%B37%E8%A2%AB%E7%A1%AE%E8%AF%8A%E5%A4%A9%E6%89%8D%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美国专家：半导体行业需要中国](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%A1%8C%E4%B8%9A%E9%9C%80%E8%A6%81%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [落马官员梦到被查去翻《周公解梦》](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%AE%98%E5%91%98%E6%A2%A6%E5%88%B0%E8%A2%AB%E6%9F%A5%E5%8E%BB%E7%BF%BB%E3%80%8A%E5%91%A8%E5%85%AC%E8%A7%A3%E6%A2%A6%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [刘国中将访问朝鲜](https://www.baidu.com/s?wd=%E5%88%98%E5%9B%BD%E4%B8%AD%E5%B0%86%E8%AE%BF%E9%97%AE%E6%9C%9D%E9%B2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [洛阳理工一学生致1死2伤后跳楼自杀](https://www.baidu.com/s?wd=%E6%B4%9B%E9%98%B3%E7%90%86%E5%B7%A5%E4%B8%80%E5%AD%A6%E7%94%9F%E8%87%B41%E6%AD%BB2%E4%BC%A4%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
