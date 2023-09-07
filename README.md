@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 15:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 15:37:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [被老师打破头骨女孩仍在ICU抢救](https://www.baidu.com/s?wd=%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E7%A0%B4%E5%A4%B4%E9%AA%A8%E5%A5%B3%E5%AD%A9%E4%BB%8D%E5%9C%A8ICU%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马琳故意弃用王曼昱?国乒回应](https://www.baidu.com/s?wd=%E9%A9%AC%E7%90%B3%E6%95%85%E6%84%8F%E5%BC%83%E7%94%A8%E7%8E%8B%E6%9B%BC%E6%98%B1%3F%E5%9B%BD%E4%B9%92%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [上千人因隔空猥亵未成年人被起诉](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%83%E4%BA%BA%E5%9B%A0%E9%9A%94%E7%A9%BA%E7%8C%A5%E4%BA%B5%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E8%A2%AB%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美议员：结束对华为所有技术出口](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%AE%E5%91%98%EF%BC%9A%E7%BB%93%E6%9D%9F%E5%AF%B9%E5%8D%8E%E4%B8%BA%E6%89%80%E6%9C%89%E6%8A%80%E6%9C%AF%E5%87%BA%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [德国总理激励德车企不要被吓倒](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E6%BF%80%E5%8A%B1%E5%BE%B7%E8%BD%A6%E4%BC%81%E4%B8%8D%E8%A6%81%E8%A2%AB%E5%90%93%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [首尔“慰安妇”纪念雕塑遭拆除](https://www.baidu.com/s?wd=%E9%A6%96%E5%B0%94%E2%80%9C%E6%85%B0%E5%AE%89%E5%A6%87%E2%80%9D%E7%BA%AA%E5%BF%B5%E9%9B%95%E5%A1%91%E9%81%AD%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美议员：结束对华为所有技术出口](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%AE%E5%91%98%EF%BC%9A%E7%BB%93%E6%9D%9F%E5%AF%B9%E5%8D%8E%E4%B8%BA%E6%89%80%E6%9C%89%E6%8A%80%E6%9C%AF%E5%87%BA%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [被老师打破头骨女孩仍在ICU抢救](https://www.baidu.com/s?wd=%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E7%A0%B4%E5%A4%B4%E9%AA%A8%E5%A5%B3%E5%AD%A9%E4%BB%8D%E5%9C%A8ICU%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马琳故意弃用王曼昱?国乒回应](https://www.baidu.com/s?wd=%E9%A9%AC%E7%90%B3%E6%95%85%E6%84%8F%E5%BC%83%E7%94%A8%E7%8E%8B%E6%9B%BC%E6%98%B1%3F%E5%9B%BD%E4%B9%92%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [上千人因隔空猥亵未成年人被起诉](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%83%E4%BA%BA%E5%9B%A0%E9%9A%94%E7%A9%BA%E7%8C%A5%E4%BA%B5%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E8%A2%AB%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美议员：结束对华为所有技术出口](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%AE%E5%91%98%EF%BC%9A%E7%BB%93%E6%9D%9F%E5%AF%B9%E5%8D%8E%E4%B8%BA%E6%89%80%E6%9C%89%E6%8A%80%E6%9C%AF%E5%87%BA%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [德国总理激励德车企不要被吓倒](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E6%BF%80%E5%8A%B1%E5%BE%B7%E8%BD%A6%E4%BC%81%E4%B8%8D%E8%A6%81%E8%A2%AB%E5%90%93%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [首尔“慰安妇”纪念雕塑遭拆除](https://www.baidu.com/s?wd=%E9%A6%96%E5%B0%94%E2%80%9C%E6%85%B0%E5%AE%89%E5%A6%87%E2%80%9D%E7%BA%AA%E5%BF%B5%E9%9B%95%E5%A1%91%E9%81%AD%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [美议员：结束对华为所有技术出口](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%AE%E5%91%98%EF%BC%9A%E7%BB%93%E6%9D%9F%E5%AF%B9%E5%8D%8E%E4%B8%BA%E6%89%80%E6%9C%89%E6%8A%80%E6%9C%AF%E5%87%BA%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
