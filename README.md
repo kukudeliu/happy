@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 08:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 08:40:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [夫妻俩偷遍无印良品 开网店8折卖出](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E4%BF%A9%E5%81%B7%E9%81%8D%E6%97%A0%E5%8D%B0%E8%89%AF%E5%93%81+%E5%BC%80%E7%BD%91%E5%BA%978%E6%8A%98%E5%8D%96%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [手机自动转账女子冲进派出所](https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E8%87%AA%E5%8A%A8%E8%BD%AC%E8%B4%A6%E5%A5%B3%E5%AD%90%E5%86%B2%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生去中医馆买酸梅汤被医师教育](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8E%BB%E4%B8%AD%E5%8C%BB%E9%A6%86%E4%B9%B0%E9%85%B8%E6%A2%85%E6%B1%A4%E8%A2%AB%E5%8C%BB%E5%B8%88%E6%95%99%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体采访老人服中药身亡 当地拒回应](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E9%87%87%E8%AE%BF%E8%80%81%E4%BA%BA%E6%9C%8D%E4%B8%AD%E8%8D%AF%E8%BA%AB%E4%BA%A1+%E5%BD%93%E5%9C%B0%E6%8B%92%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [酸奶原价9.9元特价10元](https://www.baidu.com/s?wd=%E9%85%B8%E5%A5%B6%E5%8E%9F%E4%BB%B79.9%E5%85%83%E7%89%B9%E4%BB%B710%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [C罗说和梅西的竞争结束了](https://www.baidu.com/s?wd=C%E7%BD%97%E8%AF%B4%E5%92%8C%E6%A2%85%E8%A5%BF%E7%9A%84%E7%AB%9E%E4%BA%89%E7%BB%93%E6%9D%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体采访老人服中药身亡 当地拒回应](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E9%87%87%E8%AE%BF%E8%80%81%E4%BA%BA%E6%9C%8D%E4%B8%AD%E8%8D%AF%E8%BA%AB%E4%BA%A1+%E5%BD%93%E5%9C%B0%E6%8B%92%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [夫妻俩偷遍无印良品 开网店8折卖出](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E4%BF%A9%E5%81%B7%E9%81%8D%E6%97%A0%E5%8D%B0%E8%89%AF%E5%93%81+%E5%BC%80%E7%BD%91%E5%BA%978%E6%8A%98%E5%8D%96%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [手机自动转账女子冲进派出所](https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E8%87%AA%E5%8A%A8%E8%BD%AC%E8%B4%A6%E5%A5%B3%E5%AD%90%E5%86%B2%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生去中医馆买酸梅汤被医师教育](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8E%BB%E4%B8%AD%E5%8C%BB%E9%A6%86%E4%B9%B0%E9%85%B8%E6%A2%85%E6%B1%A4%E8%A2%AB%E5%8C%BB%E5%B8%88%E6%95%99%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体采访老人服中药身亡 当地拒回应](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E9%87%87%E8%AE%BF%E8%80%81%E4%BA%BA%E6%9C%8D%E4%B8%AD%E8%8D%AF%E8%BA%AB%E4%BA%A1+%E5%BD%93%E5%9C%B0%E6%8B%92%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [酸奶原价9.9元特价10元](https://www.baidu.com/s?wd=%E9%85%B8%E5%A5%B6%E5%8E%9F%E4%BB%B79.9%E5%85%83%E7%89%B9%E4%BB%B710%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [C罗说和梅西的竞争结束了](https://www.baidu.com/s?wd=C%E7%BD%97%E8%AF%B4%E5%92%8C%E6%A2%85%E8%A5%BF%E7%9A%84%E7%AB%9E%E4%BA%89%E7%BB%93%E6%9D%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [媒体采访老人服中药身亡 当地拒回应](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E9%87%87%E8%AE%BF%E8%80%81%E4%BA%BA%E6%9C%8D%E4%B8%AD%E8%8D%AF%E8%BA%AB%E4%BA%A1+%E5%BD%93%E5%9C%B0%E6%8B%92%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
