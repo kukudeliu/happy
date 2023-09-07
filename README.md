@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 20:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 20:04:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [乌高官称第三次世界大战已开始](https://www.baidu.com/s?wd=%E4%B9%8C%E9%AB%98%E5%AE%98%E7%A7%B0%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98%E5%B7%B2%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [合肥通报脱口秀演员吐槽演出被取消](https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E9%80%9A%E6%8A%A5%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E5%90%90%E6%A7%BD%E6%BC%94%E5%87%BA%E8%A2%AB%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [胡歌谈母亲去世悲伤哽咽](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E8%B0%88%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%E6%82%B2%E4%BC%A4%E5%93%BD%E5%92%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [曝河北某学院食堂肉菜10元一勺](https://www.baidu.com/s?wd=%E6%9B%9D%E6%B2%B3%E5%8C%97%E6%9F%90%E5%AD%A6%E9%99%A2%E9%A3%9F%E5%A0%82%E8%82%89%E8%8F%9C10%E5%85%83%E4%B8%80%E5%8B%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [迎新晚会播放劣迹艺人视频 校方通报](https://www.baidu.com/s?wd=%E8%BF%8E%E6%96%B0%E6%99%9A%E4%BC%9A%E6%92%AD%E6%94%BE%E5%8A%A3%E8%BF%B9%E8%89%BA%E4%BA%BA%E8%A7%86%E9%A2%91+%E6%A0%A1%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [乌高官称第三次世界大战已开始](https://www.baidu.com/s?wd=%E4%B9%8C%E9%AB%98%E5%AE%98%E7%A7%B0%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98%E5%B7%B2%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [合肥通报脱口秀演员吐槽演出被取消](https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E9%80%9A%E6%8A%A5%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E5%90%90%E6%A7%BD%E6%BC%94%E5%87%BA%E8%A2%AB%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [胡歌谈母亲去世悲伤哽咽](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E8%B0%88%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%E6%82%B2%E4%BC%A4%E5%93%BD%E5%92%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [曝河北某学院食堂肉菜10元一勺](https://www.baidu.com/s?wd=%E6%9B%9D%E6%B2%B3%E5%8C%97%E6%9F%90%E5%AD%A6%E9%99%A2%E9%A3%9F%E5%A0%82%E8%82%89%E8%8F%9C10%E5%85%83%E4%B8%80%E5%8B%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [迎新晚会播放劣迹艺人视频 校方通报](https://www.baidu.com/s?wd=%E8%BF%8E%E6%96%B0%E6%99%9A%E4%BC%9A%E6%92%AD%E6%94%BE%E5%8A%A3%E8%BF%B9%E8%89%BA%E4%BA%BA%E8%A7%86%E9%A2%91+%E6%A0%A1%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
