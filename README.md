@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 10:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 10:49:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [苹果市值一夜蒸发1062亿美元](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%911062%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子穿汉服拍照被认作日本服饰驱赶](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A9%BF%E6%B1%89%E6%9C%8D%E6%8B%8D%E7%85%A7%E8%A2%AB%E8%AE%A4%E4%BD%9C%E6%97%A5%E6%9C%AC%E6%9C%8D%E9%A5%B0%E9%A9%B1%E8%B5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [iPhone信号太差或将解决](https://www.baidu.com/s?wd=iPhone%E4%BF%A1%E5%8F%B7%E5%A4%AA%E5%B7%AE%E6%88%96%E5%B0%86%E8%A7%A3%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生去中医馆买酸梅汤被医师教育](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8E%BB%E4%B8%AD%E5%8C%BB%E9%A6%86%E4%B9%B0%E9%85%B8%E6%A2%85%E6%B1%A4%E8%A2%AB%E5%8C%BB%E5%B8%88%E6%95%99%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [村庄拦停外地车收费500? 当地回应](https://www.baidu.com/s?wd=%E6%9D%91%E5%BA%84%E6%8B%A6%E5%81%9C%E5%A4%96%E5%9C%B0%E8%BD%A6%E6%94%B6%E8%B4%B9500%3F+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [苹果市值一夜蒸发1062亿美元](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%911062%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子穿汉服拍照被认作日本服饰驱赶](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A9%BF%E6%B1%89%E6%9C%8D%E6%8B%8D%E7%85%A7%E8%A2%AB%E8%AE%A4%E4%BD%9C%E6%97%A5%E6%9C%AC%E6%9C%8D%E9%A5%B0%E9%A9%B1%E8%B5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [iPhone信号太差或将解决](https://www.baidu.com/s?wd=iPhone%E4%BF%A1%E5%8F%B7%E5%A4%AA%E5%B7%AE%E6%88%96%E5%B0%86%E8%A7%A3%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生去中医馆买酸梅汤被医师教育](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8E%BB%E4%B8%AD%E5%8C%BB%E9%A6%86%E4%B9%B0%E9%85%B8%E6%A2%85%E6%B1%A4%E8%A2%AB%E5%8C%BB%E5%B8%88%E6%95%99%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [村庄拦停外地车收费500? 当地回应](https://www.baidu.com/s?wd=%E6%9D%91%E5%BA%84%E6%8B%A6%E5%81%9C%E5%A4%96%E5%9C%B0%E8%BD%A6%E6%94%B6%E8%B4%B9500%3F+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
