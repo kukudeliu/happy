@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 21:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 21:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [瑞幸：酱香拿铁原料断货](https://www.baidu.com/s?wd=%E7%91%9E%E5%B9%B8%EF%BC%9A%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%8E%9F%E6%96%99%E6%96%AD%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [13岁女孩身高超1米7被确诊天才病](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BA%AB%E9%AB%98%E8%B6%851%E7%B1%B37%E8%A2%AB%E7%A1%AE%E8%AF%8A%E5%A4%A9%E6%89%8D%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [乌高官称第三次世界大战已开始](https://www.baidu.com/s?wd=%E4%B9%8C%E9%AB%98%E5%AE%98%E7%A7%B0%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98%E5%B7%B2%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [街道办通报工作人员多次掌掴商贩](https://www.baidu.com/s?wd=%E8%A1%97%E9%81%93%E5%8A%9E%E9%80%9A%E6%8A%A5%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%A4%9A%E6%AC%A1%E6%8E%8C%E6%8E%B4%E5%95%86%E8%B4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湖北汉川一350平米楼房坍塌](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E6%B1%89%E5%B7%9D%E4%B8%80350%E5%B9%B3%E7%B1%B3%E6%A5%BC%E6%88%BF%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆沙漠里澳洲龙虾丰收啦](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%B2%99%E6%BC%A0%E9%87%8C%E6%BE%B3%E6%B4%B2%E9%BE%99%E8%99%BE%E4%B8%B0%E6%94%B6%E5%95%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [瑞幸：酱香拿铁原料断货](https://www.baidu.com/s?wd=%E7%91%9E%E5%B9%B8%EF%BC%9A%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E5%8E%9F%E6%96%99%E6%96%AD%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [13岁女孩身高超1米7被确诊天才病](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BA%AB%E9%AB%98%E8%B6%851%E7%B1%B37%E8%A2%AB%E7%A1%AE%E8%AF%8A%E5%A4%A9%E6%89%8D%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [乌高官称第三次世界大战已开始](https://www.baidu.com/s?wd=%E4%B9%8C%E9%AB%98%E5%AE%98%E7%A7%B0%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98%E5%B7%B2%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [街道办通报工作人员多次掌掴商贩](https://www.baidu.com/s?wd=%E8%A1%97%E9%81%93%E5%8A%9E%E9%80%9A%E6%8A%A5%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%A4%9A%E6%AC%A1%E6%8E%8C%E6%8E%B4%E5%95%86%E8%B4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湖北汉川一350平米楼房坍塌](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E6%B1%89%E5%B7%9D%E4%B8%80350%E5%B9%B3%E7%B1%B3%E6%A5%BC%E6%88%BF%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆沙漠里澳洲龙虾丰收啦](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%B2%99%E6%BC%A0%E9%87%8C%E6%BE%B3%E6%B4%B2%E9%BE%99%E8%99%BE%E4%B8%B0%E6%94%B6%E5%95%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
