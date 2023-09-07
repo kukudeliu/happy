@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 16:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 16:37:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [印媒担心巴基斯坦更名叫印度](https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E6%8B%85%E5%BF%83%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%9B%B4%E5%90%8D%E5%8F%AB%E5%8D%B0%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子抢注学籍致6岁儿子无法入学](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A2%E6%B3%A8%E5%AD%A6%E7%B1%8D%E8%87%B46%E5%B2%81%E5%84%BF%E5%AD%90%E6%97%A0%E6%B3%95%E5%85%A5%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [打破学生头骨老师停职接受公安调查](https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%E8%80%81%E5%B8%88%E5%81%9C%E8%81%8C%E6%8E%A5%E5%8F%97%E5%85%AC%E5%AE%89%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [首尔“慰安妇”纪念雕塑遭拆除](https://www.baidu.com/s?wd=%E9%A6%96%E5%B0%94%E2%80%9C%E6%85%B0%E5%AE%89%E5%A6%87%E2%80%9D%E7%BA%AA%E5%BF%B5%E9%9B%95%E5%A1%91%E9%81%AD%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [尹锡悦发言用“韩日中”顺序谈三国](https://www.baidu.com/s?wd=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%8F%91%E8%A8%80%E7%94%A8%E2%80%9C%E9%9F%A9%E6%97%A5%E4%B8%AD%E2%80%9D%E9%A1%BA%E5%BA%8F%E8%B0%88%E4%B8%89%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [尹锡悦发言用“韩日中”顺序谈三国](https://www.baidu.com/s?wd=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%8F%91%E8%A8%80%E7%94%A8%E2%80%9C%E9%9F%A9%E6%97%A5%E4%B8%AD%E2%80%9D%E9%A1%BA%E5%BA%8F%E8%B0%88%E4%B8%89%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [首尔“慰安妇”纪念雕塑遭拆除](https://www.baidu.com/s?wd=%E9%A6%96%E5%B0%94%E2%80%9C%E6%85%B0%E5%AE%89%E5%A6%87%E2%80%9D%E7%BA%AA%E5%BF%B5%E9%9B%95%E5%A1%91%E9%81%AD%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [印媒担心巴基斯坦更名叫印度](https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E6%8B%85%E5%BF%83%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%9B%B4%E5%90%8D%E5%8F%AB%E5%8D%B0%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子抢注学籍致6岁儿子无法入学](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8A%A2%E6%B3%A8%E5%AD%A6%E7%B1%8D%E8%87%B46%E5%B2%81%E5%84%BF%E5%AD%90%E6%97%A0%E6%B3%95%E5%85%A5%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [打破学生头骨老师停职接受公安调查](https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%E8%80%81%E5%B8%88%E5%81%9C%E8%81%8C%E6%8E%A5%E5%8F%97%E5%85%AC%E5%AE%89%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [首尔“慰安妇”纪念雕塑遭拆除](https://www.baidu.com/s?wd=%E9%A6%96%E5%B0%94%E2%80%9C%E6%85%B0%E5%AE%89%E5%A6%87%E2%80%9D%E7%BA%AA%E5%BF%B5%E9%9B%95%E5%A1%91%E9%81%AD%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [尹锡悦发言用“韩日中”顺序谈三国](https://www.baidu.com/s?wd=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%8F%91%E8%A8%80%E7%94%A8%E2%80%9C%E9%9F%A9%E6%97%A5%E4%B8%AD%E2%80%9D%E9%A1%BA%E5%BA%8F%E8%B0%88%E4%B8%89%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [尹锡悦发言用“韩日中”顺序谈三国](https://www.baidu.com/s?wd=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%8F%91%E8%A8%80%E7%94%A8%E2%80%9C%E9%9F%A9%E6%97%A5%E4%B8%AD%E2%80%9D%E9%A1%BA%E5%BA%8F%E8%B0%88%E4%B8%89%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [首尔“慰安妇”纪念雕塑遭拆除](https://www.baidu.com/s?wd=%E9%A6%96%E5%B0%94%E2%80%9C%E6%85%B0%E5%AE%89%E5%A6%87%E2%80%9D%E7%BA%AA%E5%BF%B5%E9%9B%95%E5%A1%91%E9%81%AD%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
