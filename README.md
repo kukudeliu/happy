@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 12:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 12:04:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [印度欲更名“婆罗多”有何目的](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%AC%B2%E6%9B%B4%E5%90%8D%E2%80%9C%E5%A9%86%E7%BD%97%E5%A4%9A%E2%80%9D%E6%9C%89%E4%BD%95%E7%9B%AE%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [11名领导干部轮训期间聚餐饮酒](https://www.baidu.com/s?wd=11%E5%90%8D%E9%A2%86%E5%AF%BC%E5%B9%B2%E9%83%A8%E8%BD%AE%E8%AE%AD%E6%9C%9F%E9%97%B4%E8%81%9A%E9%A4%90%E9%A5%AE%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [手机自动转账女子冲进派出所](https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E8%87%AA%E5%8A%A8%E8%BD%AC%E8%B4%A6%E5%A5%B3%E5%AD%90%E5%86%B2%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [夫妻俩偷遍无印良品 开网店8折卖出](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E4%BF%A9%E5%81%B7%E9%81%8D%E6%97%A0%E5%8D%B0%E8%89%AF%E5%93%81+%E5%BC%80%E7%BD%91%E5%BA%978%E6%8A%98%E5%8D%96%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生去中医馆买酸梅汤被医师教育](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8E%BB%E4%B8%AD%E5%8C%BB%E9%A6%86%E4%B9%B0%E9%85%B8%E6%A2%85%E6%B1%A4%E8%A2%AB%E5%8C%BB%E5%B8%88%E6%95%99%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [印度欲更名“婆罗多”有何目的](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%AC%B2%E6%9B%B4%E5%90%8D%E2%80%9C%E5%A9%86%E7%BD%97%E5%A4%9A%E2%80%9D%E6%9C%89%E4%BD%95%E7%9B%AE%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [11名领导干部轮训期间聚餐饮酒](https://www.baidu.com/s?wd=11%E5%90%8D%E9%A2%86%E5%AF%BC%E5%B9%B2%E9%83%A8%E8%BD%AE%E8%AE%AD%E6%9C%9F%E9%97%B4%E8%81%9A%E9%A4%90%E9%A5%AE%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [手机自动转账女子冲进派出所](https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E8%87%AA%E5%8A%A8%E8%BD%AC%E8%B4%A6%E5%A5%B3%E5%AD%90%E5%86%B2%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [夫妻俩偷遍无印良品 开网店8折卖出](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E4%BF%A9%E5%81%B7%E9%81%8D%E6%97%A0%E5%8D%B0%E8%89%AF%E5%93%81+%E5%BC%80%E7%BD%91%E5%BA%978%E6%8A%98%E5%8D%96%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女生去中医馆买酸梅汤被医师教育](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8E%BB%E4%B8%AD%E5%8C%BB%E9%A6%86%E4%B9%B0%E9%85%B8%E6%A2%85%E6%B1%A4%E8%A2%AB%E5%8C%BB%E5%B8%88%E6%95%99%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
