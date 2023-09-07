@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 18:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 18:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [林志颖车祸后首露脸部伤疤](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E8%BD%A6%E7%A5%B8%E5%90%8E%E9%A6%96%E9%9C%B2%E8%84%B8%E9%83%A8%E4%BC%A4%E7%96%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [独腿小伙装上假肢跑货运重拾生活勇气](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E8%85%BF%E5%B0%8F%E4%BC%99%E8%A3%85%E4%B8%8A%E5%81%87%E8%82%A2%E8%B7%91%E8%B4%A7%E8%BF%90%E9%87%8D%E6%8B%BE%E7%94%9F%E6%B4%BB%E5%8B%87%E6%B0%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [何穗 天使](https://s.weibo.com/weibo?q=%E4%BD%95%E7%A9%97%20%E5%A4%A9%E4%BD%BF&t=31&band_rank=8&Refer=top)<br />
-9. [张国立接了陈道明婉拒的角色](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%9B%BD%E7%AB%8B%E6%8E%A5%E4%BA%86%E9%99%88%E9%81%93%E6%98%8E%E5%A9%89%E6%8B%92%E7%9A%84%E8%A7%92%E8%89%B2%23&t=31&band_rank=9&Refer=top)<br />
+9. [教育局通报小学教师打伤学生头骨](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
