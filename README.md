@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 21:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 21:10:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈翔做声带手术](https://s.weibo.com/weibo?q=%23%E9%99%88%E7%BF%94%E5%81%9A%E5%A3%B0%E5%B8%A6%E6%89%8B%E6%9C%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩国娱乐公司内部食堂菜品](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%A8%B1%E4%B9%90%E5%85%AC%E5%8F%B8%E5%86%85%E9%83%A8%E9%A3%9F%E5%A0%82%E8%8F%9C%E5%93%81&t=31&band_rank=7&Refer=top)<br />
 8. [维密天使 众神回归](https://s.weibo.com/weibo?q=%E7%BB%B4%E5%AF%86%E5%A4%A9%E4%BD%BF%20%E4%BC%97%E7%A5%9E%E5%9B%9E%E5%BD%92&t=31&band_rank=8&Refer=top)<br />
-9. [被老师打破头骨女生已清醒](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E7%A0%B4%E5%A4%B4%E9%AA%A8%E5%A5%B3%E7%94%9F%E5%B7%B2%E6%B8%85%E9%86%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [王楚钦2比3田中佑汰](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A62%E6%AF%943%E7%94%B0%E4%B8%AD%E4%BD%91%E6%B1%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
