@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 23:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 23:35:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [农行卡状态异常](https://s.weibo.com/weibo?q=%E5%86%9C%E8%A1%8C%E5%8D%A1%E7%8A%B6%E6%80%81%E5%BC%82%E5%B8%B8&t=31&band_rank=5&Refer=top)<br />
 6. [公职人员被儿子举报出轨停职](https://s.weibo.com/weibo?q=%23%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%84%BF%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E5%81%9C%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [檀健次直播穿了防风被](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9B%B4%E6%92%AD%E7%A9%BF%E4%BA%86%E9%98%B2%E9%A3%8E%E8%A2%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [日本核污染水已排海6100吨](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%B7%B2%E6%8E%92%E6%B5%B76100%E5%90%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [人民日报评肖战演技](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E8%82%96%E6%88%98%E6%BC%94%E6%8A%80%23&t=31&band_rank=9&Refer=top)<br />
+8. [人民日报评肖战演技](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E8%82%96%E6%88%98%E6%BC%94%E6%8A%80%23&t=31&band_rank=8&Refer=top)<br />
+9. [日本核污染水已排海6100吨](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%B7%B2%E6%8E%92%E6%B5%B76100%E5%90%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
