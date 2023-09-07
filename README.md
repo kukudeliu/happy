@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 00:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 00:19:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [内蒙古发生高压气体喷出事故致9死3伤](https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E5%8F%91%E7%94%9F%E9%AB%98%E5%8E%8B%E6%B0%94%E4%BD%93%E5%96%B7%E5%87%BA%E4%BA%8B%E6%95%85%E8%87%B49%E6%AD%BB3%E4%BC%A4%23&t=31&band_rank=2&Refer=top)<br />
 3. [直击杭州亚运会](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%87%BB%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [人民日报评肖战演技](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E8%82%96%E6%88%98%E6%BC%94%E6%8A%80%23&t=31&band_rank=4&Refer=top)<br />
-5. [深圳暴雨](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8&t=31&band_rank=5&Refer=top)<br />
-6. [日本核污染水已排海6100吨](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%B7%B2%E6%8E%92%E6%B5%B76100%E5%90%A8%23&t=31&band_rank=6&Refer=top)<br />
+5. [日本核污染水已排海6100吨](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%B7%B2%E6%8E%92%E6%B5%B76100%E5%90%A8%23&t=31&band_rank=5&Refer=top)<br />
+6. [深圳暴雨](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8&t=31&band_rank=6&Refer=top)<br />
 7. [广州暴雨](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8&t=31&band_rank=7&Refer=top)<br />
 8. [檀健次直播穿了防风被](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9B%B4%E6%92%AD%E7%A9%BF%E4%BA%86%E9%98%B2%E9%A3%8E%E8%A2%AB%23&t=31&band_rank=8&Refer=top)<br />
 9. [被困横店后我成了所有男主的白月光](https://s.weibo.com/weibo?q=%E8%A2%AB%E5%9B%B0%E6%A8%AA%E5%BA%97%E5%90%8E%E6%88%91%E6%88%90%E4%BA%86%E6%89%80%E6%9C%89%E7%94%B7%E4%B8%BB%E7%9A%84%E7%99%BD%E6%9C%88%E5%85%89&t=31&band_rank=9&Refer=top)<br />
@@ -22,10 +22,10 @@
 3. [年收入10万以下个人基本不缴个税](https://www.baidu.com/s?wd=%E5%B9%B4%E6%94%B6%E5%85%A510%E4%B8%87%E4%BB%A5%E4%B8%8B%E4%B8%AA%E4%BA%BA%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%BC%B4%E4%B8%AA%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [火炬传递看“浙”里](https://www.baidu.com/s?wd=%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E7%9C%8B%E2%80%9C%E6%B5%99%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [暴雨突袭深圳：地铁站进水 多车被淹](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E7%AA%81%E8%A2%AD%E6%B7%B1%E5%9C%B3%EF%BC%9A%E5%9C%B0%E9%93%81%E7%AB%99%E8%BF%9B%E6%B0%B4+%E5%A4%9A%E8%BD%A6%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子爬车顶做不雅动作 街道办回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%88%AC%E8%BD%A6%E9%A1%B6%E5%81%9A%E4%B8%8D%E9%9B%85%E5%8A%A8%E4%BD%9C+%E8%A1%97%E9%81%93%E5%8A%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [俄称不排除中俄朝军演 外交部回应](https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%B0%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%AD%E4%BF%84%E6%9C%9D%E5%86%9B%E6%BC%94+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [13岁女孩身高超1米7被确诊天才病](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BA%AB%E9%AB%98%E8%B6%851%E7%B1%B37%E8%A2%AB%E7%A1%AE%E8%AF%8A%E5%A4%A9%E6%89%8D%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张艺谋说于和伟反派角色胜过高启强](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%AF%B4%E4%BA%8E%E5%92%8C%E4%BC%9F%E5%8F%8D%E6%B4%BE%E8%A7%92%E8%89%B2%E8%83%9C%E8%BF%87%E9%AB%98%E5%90%AF%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美国专家：半导体行业需要中国](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%A1%8C%E4%B8%9A%E9%9C%80%E8%A6%81%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [13岁女孩身高超1米7被确诊天才病](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BA%AB%E9%AB%98%E8%B6%851%E7%B1%B37%E8%A2%AB%E7%A1%AE%E8%AF%8A%E5%A4%A9%E6%89%8D%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张艺谋说于和伟反派角色胜过高启强](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%AF%B4%E4%BA%8E%E5%92%8C%E4%BC%9F%E5%8F%8D%E6%B4%BE%E8%A7%92%E8%89%B2%E8%83%9C%E8%BF%87%E9%AB%98%E5%90%AF%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子爬车顶做不雅动作 街道办回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%88%AC%E8%BD%A6%E9%A1%B6%E5%81%9A%E4%B8%8D%E9%9B%85%E5%8A%A8%E4%BD%9C+%E8%A1%97%E9%81%93%E5%8A%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [年收入10万以下个人基本不缴个税](https://www.baidu.com/s?wd=%E5%B9%B4%E6%94%B6%E5%85%A510%E4%B8%87%E4%BB%A5%E4%B8%8B%E4%B8%AA%E4%BA%BA%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%BC%B4%E4%B8%AA%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [火炬传递看“浙”里](https://www.baidu.com/s?wd=%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E7%9C%8B%E2%80%9C%E6%B5%99%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [暴雨突袭深圳：地铁站进水 多车被淹](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E7%AA%81%E8%A2%AD%E6%B7%B1%E5%9C%B3%EF%BC%9A%E5%9C%B0%E9%93%81%E7%AB%99%E8%BF%9B%E6%B0%B4+%E5%A4%9A%E8%BD%A6%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子爬车顶做不雅动作 街道办回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%88%AC%E8%BD%A6%E9%A1%B6%E5%81%9A%E4%B8%8D%E9%9B%85%E5%8A%A8%E4%BD%9C+%E8%A1%97%E9%81%93%E5%8A%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [俄称不排除中俄朝军演 外交部回应](https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%B0%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%AD%E4%BF%84%E6%9C%9D%E5%86%9B%E6%BC%94+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [13岁女孩身高超1米7被确诊天才病](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BA%AB%E9%AB%98%E8%B6%851%E7%B1%B37%E8%A2%AB%E7%A1%AE%E8%AF%8A%E5%A4%A9%E6%89%8D%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [张艺谋说于和伟反派角色胜过高启强](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%AF%B4%E4%BA%8E%E5%92%8C%E4%BC%9F%E5%8F%8D%E6%B4%BE%E8%A7%92%E8%89%B2%E8%83%9C%E8%BF%87%E9%AB%98%E5%90%AF%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美国专家：半导体行业需要中国](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%A1%8C%E4%B8%9A%E9%9C%80%E8%A6%81%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [13岁女孩身高超1米7被确诊天才病](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BA%AB%E9%AB%98%E8%B6%851%E7%B1%B37%E8%A2%AB%E7%A1%AE%E8%AF%8A%E5%A4%A9%E6%89%8D%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张艺谋说于和伟反派角色胜过高启强](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%AF%B4%E4%BA%8E%E5%92%8C%E4%BC%9F%E5%8F%8D%E6%B4%BE%E8%A7%92%E8%89%B2%E8%83%9C%E8%BF%87%E9%AB%98%E5%90%AF%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [女子爬车顶做不雅动作 街道办回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%88%AC%E8%BD%A6%E9%A1%B6%E5%81%9A%E4%B8%8D%E9%9B%85%E5%8A%A8%E4%BD%9C+%E8%A1%97%E9%81%93%E5%8A%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
