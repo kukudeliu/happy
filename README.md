@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 20:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 20:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [被老师打破头骨女生已清醒](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E7%A0%B4%E5%A4%B4%E9%AA%A8%E5%A5%B3%E7%94%9F%E5%B7%B2%E6%B8%85%E9%86%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [警方通报洛阳理工学院学生死亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B4%9B%E9%98%B3%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E5%AD%A6%E7%94%9F%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [华为mate60和iPhone15选哪个](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAmate60%E5%92%8CiPhone15%E9%80%89%E5%93%AA%E4%B8%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [林志颖车祸后首露脸部伤疤](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E8%BD%A6%E7%A5%B8%E5%90%8E%E9%A6%96%E9%9C%B2%E8%84%B8%E9%83%A8%E4%BC%A4%E7%96%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [何穗 天使](https://s.weibo.com/weibo?q=%E4%BD%95%E7%A9%97%20%E5%A4%A9%E4%BD%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
