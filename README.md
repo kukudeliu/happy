@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 08:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 08:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [手机自动转账女子冲进派出所](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E8%87%AA%E5%8A%A8%E8%BD%AC%E8%B4%A6%E5%A5%B3%E5%AD%90%E5%86%B2%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [天津大爷们宣布退出狮子林桥跳水](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E4%BB%AC%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E7%8B%AE%E5%AD%90%E6%9E%97%E6%A1%A5%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [赵今麦团队回应出演大熊猫](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%9B%A2%E9%98%9F%E5%9B%9E%E5%BA%94%E5%87%BA%E6%BC%94%E5%A4%A7%E7%86%8A%E7%8C%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [真的讨厌二三十块叫一杯奶茶钱](https://s.weibo.com/weibo?q=%E7%9C%9F%E7%9A%84%E8%AE%A8%E5%8E%8C%E4%BA%8C%E4%B8%89%E5%8D%81%E5%9D%97%E5%8F%AB%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%E9%92%B1&t=31&band_rank=9&Refer=top)<br />
+9. [云之羽热度破爱奇艺24集剧集记录](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E7%83%AD%E5%BA%A6%E7%A0%B4%E7%88%B1%E5%A5%87%E8%89%BA24%E9%9B%86%E5%89%A7%E9%9B%86%E8%AE%B0%E5%BD%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
