@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 14:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 14:47:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [科学家称50年前美国或杀死了外星生命](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A7%B050%E5%B9%B4%E5%89%8D%E7%BE%8E%E5%9B%BD%E6%88%96%E6%9D%80%E6%AD%BB%E4%BA%86%E5%A4%96%E6%98%9F%E7%94%9F%E5%91%BD%23&t=31&band_rank=2&Refer=top)<br />
 3. [一带一路上的中国工程师](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E4%B8%8A%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E5%B8%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [iPhone15价格你能接受吗](https://s.weibo.com/weibo?q=%23iPhone15%E4%BB%B7%E6%A0%BC%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
-5. [教育局回应小学教师打伤学生头骨](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%23&t=31&band_rank=5&Refer=top)<br />
-6. [汪苏泷 我不轻易和别人吃饭的原因](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%20%E6%88%91%E4%B8%8D%E8%BD%BB%E6%98%93%E5%92%8C%E5%88%AB%E4%BA%BA%E5%90%83%E9%A5%AD%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=6&Refer=top)<br />
+5. [汪苏泷 我不轻易和别人吃饭的原因](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%20%E6%88%91%E4%B8%8D%E8%BD%BB%E6%98%93%E5%92%8C%E5%88%AB%E4%BA%BA%E5%90%83%E9%A5%AD%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=5&Refer=top)<br />
+6. [教育局回应小学教师打伤学生头骨](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [瑞幸为什么不直接倒茅台酒](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%9B%B4%E6%8E%A5%E5%80%92%E8%8C%85%E5%8F%B0%E9%85%92&t=31&band_rank=7&Refer=top)<br />
 8. [2022届本科生平均月收入5990元](https://s.weibo.com/weibo?q=%232022%E5%B1%8A%E6%9C%AC%E7%A7%91%E7%94%9F%E5%B9%B3%E5%9D%87%E6%9C%88%E6%94%B6%E5%85%A55990%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [长沙一小学男教师打伤学生头骨](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%94%B7%E6%95%99%E5%B8%88%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [宝宝还没出生就收到爷爷编的婴儿床](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E8%BF%98%E6%B2%A1%E5%87%BA%E7%94%9F%E5%B0%B1%E6%94%B6%E5%88%B0%E7%88%B7%E7%88%B7%E7%BC%96%E7%9A%84%E5%A9%B4%E5%84%BF%E5%BA%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
