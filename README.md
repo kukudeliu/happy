@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 05:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 05:17:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [大一男生36℃天穿40斤甲胄去报到](https://www.baidu.com/s?wd=%E5%A4%A7%E4%B8%80%E7%94%B7%E7%94%9F36%E2%84%83%E5%A4%A9%E7%A9%BF40%E6%96%A4%E7%94%B2%E8%83%84%E5%8E%BB%E6%8A%A5%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄称不排除中俄朝军演 外交部回应](https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%B0%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%AD%E4%BF%84%E6%9C%9D%E5%86%9B%E6%BC%94+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洛阳理工一学生致1死2伤后跳楼自杀](https://www.baidu.com/s?wd=%E6%B4%9B%E9%98%B3%E7%90%86%E5%B7%A5%E4%B8%80%E5%AD%A6%E7%94%9F%E8%87%B41%E6%AD%BB2%E4%BC%A4%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乌高官称第三次世界大战已开始](https://www.baidu.com/s?wd=%E4%B9%8C%E9%AB%98%E5%AE%98%E7%A7%B0%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98%E5%B7%B2%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [13岁女孩身高超1米7被确诊天才病](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BA%AB%E9%AB%98%E8%B6%851%E7%B1%B37%E8%A2%AB%E7%A1%AE%E8%AF%8A%E5%A4%A9%E6%89%8D%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [大一男生36℃天穿40斤甲胄去报到](https://www.baidu.com/s?wd=%E5%A4%A7%E4%B8%80%E7%94%B7%E7%94%9F36%E2%84%83%E5%A4%A9%E7%A9%BF40%E6%96%A4%E7%94%B2%E8%83%84%E5%8E%BB%E6%8A%A5%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄称不排除中俄朝军演 外交部回应](https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%B0%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%AD%E4%BF%84%E6%9C%9D%E5%86%9B%E6%BC%94+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [洛阳理工一学生致1死2伤后跳楼自杀](https://www.baidu.com/s?wd=%E6%B4%9B%E9%98%B3%E7%90%86%E5%B7%A5%E4%B8%80%E5%AD%A6%E7%94%9F%E8%87%B41%E6%AD%BB2%E4%BC%A4%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乌高官称第三次世界大战已开始](https://www.baidu.com/s?wd=%E4%B9%8C%E9%AB%98%E5%AE%98%E7%A7%B0%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98%E5%B7%B2%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [13岁女孩身高超1米7被确诊天才病](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BA%AB%E9%AB%98%E8%B6%851%E7%B1%B37%E8%A2%AB%E7%A1%AE%E8%AF%8A%E5%A4%A9%E6%89%8D%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
