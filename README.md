@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 20:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 20:03:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [何穗 天使](https://s.weibo.com/weibo?q=%E4%BD%95%E7%A9%97%20%E5%A4%A9%E4%BD%BF&t=31&band_rank=5&Refer=top)<br />
 6. [警方通报洛阳理工学院学生死亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B4%9B%E9%98%B3%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E5%AD%A6%E7%94%9F%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [被老师打破头骨女生已清醒](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E7%A0%B4%E5%A4%B4%E9%AA%A8%E5%A5%B3%E7%94%9F%E5%B7%B2%E6%B8%85%E9%86%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [90后给女儿做40片花瓣仙女裙](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E7%BB%99%E5%A5%B3%E5%84%BF%E5%81%9A40%E7%89%87%E8%8A%B1%E7%93%A3%E4%BB%99%E5%A5%B3%E8%A3%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [BLACKPINK TXT最佳组合竞争者](https://s.weibo.com/weibo?q=BLACKPINK%20TXT%E6%9C%80%E4%BD%B3%E7%BB%84%E5%90%88%E7%AB%9E%E4%BA%89%E8%80%85&t=31&band_rank=9&Refer=top)<br />
+8. [BLACKPINK TXT最佳组合竞争者](https://s.weibo.com/weibo?q=BLACKPINK%20TXT%E6%9C%80%E4%BD%B3%E7%BB%84%E5%90%88%E7%AB%9E%E4%BA%89%E8%80%85&t=31&band_rank=8&Refer=top)<br />
+9. [致学生受伤老师涉嫌故意伤害罪被刑拘](https://s.weibo.com/weibo?q=%23%E8%87%B4%E5%AD%A6%E7%94%9F%E5%8F%97%E4%BC%A4%E8%80%81%E5%B8%88%E6%B6%89%E5%AB%8C%E6%95%85%E6%84%8F%E4%BC%A4%E5%AE%B3%E7%BD%AA%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
