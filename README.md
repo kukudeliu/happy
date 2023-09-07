@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 17:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-07 17:12:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男子抢注学籍致6岁儿子无法入学](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%A2%E6%B3%A8%E5%AD%A6%E7%B1%8D%E8%87%B46%E5%B2%81%E5%84%BF%E5%AD%90%E6%97%A0%E6%B3%95%E5%85%A5%E5%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [张馨予300颗钻石头饰造型](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88300%E9%A2%97%E9%92%BB%E7%9F%B3%E5%A4%B4%E9%A5%B0%E9%80%A0%E5%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [关于新疆虹鳟](https://s.weibo.com/weibo?q=%E5%85%B3%E4%BA%8E%E6%96%B0%E7%96%86%E8%99%B9%E9%B3%9F&t=31&band_rank=7&Refer=top)<br />
-8. [iPhone15价格你能接受吗](https://s.weibo.com/weibo?q=%23iPhone15%E4%BB%B7%E6%A0%BC%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [冯宝宝被割韭菜](https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%AE%9D%E5%AE%9D%E8%A2%AB%E5%89%B2%E9%9F%AD%E8%8F%9C%23&t=31&band_rank=9&Refer=top)<br />
+8. [冯宝宝被割韭菜](https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%AE%9D%E5%AE%9D%E8%A2%AB%E5%89%B2%E9%9F%AD%E8%8F%9C%23&t=31&band_rank=8&Refer=top)<br />
+9. [iPhone15价格你能接受吗](https://s.weibo.com/weibo?q=%23iPhone15%E4%BB%B7%E6%A0%BC%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
