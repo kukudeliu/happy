@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 15:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 15:45:01</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 
 > 百度  
 
-1. [“必须自觉拜人民为师”](https://www.baidu.com/s?wd=%E2%80%9C%E5%BF%85%E9%A1%BB%E8%87%AA%E8%A7%89%E6%8B%9C%E4%BA%BA%E6%B0%91%E4%B8%BA%E5%B8%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平在黑龙江看望慰问受灾群众](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%8B%E6%9C%9B%E6%85%B0%E9%97%AE%E5%8F%97%E7%81%BE%E7%BE%A4%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [香港极端情况至少维持至今晚12时](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%9E%81%E7%AB%AF%E6%83%85%E5%86%B5%E8%87%B3%E5%B0%91%E7%BB%B4%E6%8C%81%E8%87%B3%E4%BB%8A%E6%99%9A12%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [1207名缅北涉电诈嫌疑人移交中方](https://www.baidu.com/s?wd=1207%E5%90%8D%E7%BC%85%E5%8C%97%E6%B6%89%E7%94%B5%E8%AF%88%E5%AB%8C%E7%96%91%E4%BA%BA%E7%A7%BB%E4%BA%A4%E4%B8%AD%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [火炬传递看“浙”里](https://www.baidu.com/s?wd=%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E7%9C%8B%E2%80%9C%E6%B5%99%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [读懂“薪火”背后的中国式浪漫](https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%82%E2%80%9C%E8%96%AA%E7%81%AB%E2%80%9D%E8%83%8C%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [深圳一商贩激流中淡定卖炒饭](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%95%86%E8%B4%A9%E6%BF%80%E6%B5%81%E4%B8%AD%E6%B7%A1%E5%AE%9A%E5%8D%96%E7%82%92%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张雪峰问华为什么意思](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E9%97%AE%E5%8D%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [容祖儿香港雨中开车 蔡卓妍害怕大喊](https://www.baidu.com/s?wd=%E5%AE%B9%E7%A5%96%E5%84%BF%E9%A6%99%E6%B8%AF%E9%9B%A8%E4%B8%AD%E5%BC%80%E8%BD%A6+%E8%94%A1%E5%8D%93%E5%A6%8D%E5%AE%B3%E6%80%95%E5%A4%A7%E5%96%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,10 +29,10 @@
 
 > 哔哩哔哩  
 
-1. [“必须自觉拜人民为师”](https://www.baidu.com/s?wd=%E2%80%9C%E5%BF%85%E9%A1%BB%E8%87%AA%E8%A7%89%E6%8B%9C%E4%BA%BA%E6%B0%91%E4%B8%BA%E5%B8%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平在黑龙江看望慰问受灾群众](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%8B%E6%9C%9B%E6%85%B0%E9%97%AE%E5%8F%97%E7%81%BE%E7%BE%A4%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [香港极端情况至少维持至今晚12时](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%9E%81%E7%AB%AF%E6%83%85%E5%86%B5%E8%87%B3%E5%B0%91%E7%BB%B4%E6%8C%81%E8%87%B3%E4%BB%8A%E6%99%9A12%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [1207名缅北涉电诈嫌疑人移交中方](https://www.baidu.com/s?wd=1207%E5%90%8D%E7%BC%85%E5%8C%97%E6%B6%89%E7%94%B5%E8%AF%88%E5%AB%8C%E7%96%91%E4%BA%BA%E7%A7%BB%E4%BA%A4%E4%B8%AD%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [火炬传递看“浙”里](https://www.baidu.com/s?wd=%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E7%9C%8B%E2%80%9C%E6%B5%99%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [读懂“薪火”背后的中国式浪漫](https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%82%E2%80%9C%E8%96%AA%E7%81%AB%E2%80%9D%E8%83%8C%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [深圳一商贩激流中淡定卖炒饭](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%95%86%E8%B4%A9%E6%BF%80%E6%B5%81%E4%B8%AD%E6%B7%A1%E5%AE%9A%E5%8D%96%E7%82%92%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张雪峰问华为什么意思](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E9%97%AE%E5%8D%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [容祖儿香港雨中开车 蔡卓妍害怕大喊](https://www.baidu.com/s?wd=%E5%AE%B9%E7%A5%96%E5%84%BF%E9%A6%99%E6%B8%AF%E9%9B%A8%E4%B8%AD%E5%BC%80%E8%BD%A6+%E8%94%A1%E5%8D%93%E5%A6%8D%E5%AE%B3%E6%80%95%E5%A4%A7%E5%96%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
