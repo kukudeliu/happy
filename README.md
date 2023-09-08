@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 23:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 23:46:01</h4></div>
 
 > 微博  
 
@@ -18,10 +18,10 @@
 > 百度  
 
 1. [风雨同心 人民至上](https://www.baidu.com/s?wd=%E9%A3%8E%E9%9B%A8%E5%90%8C%E5%BF%83+%E4%BA%BA%E6%B0%91%E8%87%B3%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [周杰伦演唱会上受伤](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [光刻机巨头CEO：孤立中国没有希望](https://www.baidu.com/s?wd=%E5%85%89%E5%88%BB%E6%9C%BA%E5%B7%A8%E5%A4%B4CEO%EF%BC%9A%E5%AD%A4%E7%AB%8B%E4%B8%AD%E5%9B%BD%E6%B2%A1%E6%9C%89%E5%B8%8C%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [妻子起诉离婚被驳：男方瞒病、嫖娼](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E8%B5%B7%E8%AF%89%E7%A6%BB%E5%A9%9A%E8%A2%AB%E9%A9%B3%EF%BC%9A%E7%94%B7%E6%96%B9%E7%9E%92%E7%97%85%E3%80%81%E5%AB%96%E5%A8%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“薪火”相传 点燃亚运激情](https://www.baidu.com/s?wd=%E2%80%9C%E8%96%AA%E7%81%AB%E2%80%9D%E7%9B%B8%E4%BC%A0+%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E6%BF%80%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [光刻机巨头CEO：孤立中国没有希望](https://www.baidu.com/s?wd=%E5%85%89%E5%88%BB%E6%9C%BA%E5%B7%A8%E5%A4%B4CEO%EF%BC%9A%E5%AD%A4%E7%AB%8B%E4%B8%AD%E5%9B%BD%E6%B2%A1%E6%9C%89%E5%B8%8C%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [周杰伦演唱会上受伤](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [理发店回应被公职人员恐吓检查](https://www.baidu.com/s?wd=%E7%90%86%E5%8F%91%E5%BA%97%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E6%81%90%E5%90%93%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [哈尔滨多辆车加油后开出不远就熄火](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%A4%9A%E8%BE%86%E8%BD%A6%E5%8A%A0%E6%B2%B9%E5%90%8E%E5%BC%80%E5%87%BA%E4%B8%8D%E8%BF%9C%E5%B0%B1%E7%86%84%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美国男篮爆冷无缘世界杯决赛](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%88%86%E5%86%B7%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,10 +30,10 @@
 > 哔哩哔哩  
 
 1. [风雨同心 人民至上](https://www.baidu.com/s?wd=%E9%A3%8E%E9%9B%A8%E5%90%8C%E5%BF%83+%E4%BA%BA%E6%B0%91%E8%87%B3%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [周杰伦演唱会上受伤](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [光刻机巨头CEO：孤立中国没有希望](https://www.baidu.com/s?wd=%E5%85%89%E5%88%BB%E6%9C%BA%E5%B7%A8%E5%A4%B4CEO%EF%BC%9A%E5%AD%A4%E7%AB%8B%E4%B8%AD%E5%9B%BD%E6%B2%A1%E6%9C%89%E5%B8%8C%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [妻子起诉离婚被驳：男方瞒病、嫖娼](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E8%B5%B7%E8%AF%89%E7%A6%BB%E5%A9%9A%E8%A2%AB%E9%A9%B3%EF%BC%9A%E7%94%B7%E6%96%B9%E7%9E%92%E7%97%85%E3%80%81%E5%AB%96%E5%A8%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“薪火”相传 点燃亚运激情](https://www.baidu.com/s?wd=%E2%80%9C%E8%96%AA%E7%81%AB%E2%80%9D%E7%9B%B8%E4%BC%A0+%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E6%BF%80%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [光刻机巨头CEO：孤立中国没有希望](https://www.baidu.com/s?wd=%E5%85%89%E5%88%BB%E6%9C%BA%E5%B7%A8%E5%A4%B4CEO%EF%BC%9A%E5%AD%A4%E7%AB%8B%E4%B8%AD%E5%9B%BD%E6%B2%A1%E6%9C%89%E5%B8%8C%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [周杰伦演唱会上受伤](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [理发店回应被公职人员恐吓检查](https://www.baidu.com/s?wd=%E7%90%86%E5%8F%91%E5%BA%97%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E6%81%90%E5%90%93%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [哈尔滨多辆车加油后开出不远就熄火](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%A4%9A%E8%BE%86%E8%BD%A6%E5%8A%A0%E6%B2%B9%E5%90%8E%E5%BC%80%E5%87%BA%E4%B8%8D%E8%BF%9C%E5%B0%B1%E7%86%84%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美国男篮爆冷无缘世界杯决赛](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%88%86%E5%86%B7%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
