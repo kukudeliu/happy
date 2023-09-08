@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 15:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 15:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [家长称小学强制订牛奶3箱330元](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E7%A7%B0%E5%B0%8F%E5%AD%A6%E5%BC%BA%E5%88%B6%E8%AE%A2%E7%89%9B%E5%A5%B63%E7%AE%B1330%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [徐良自带版权来披荆斩棘](https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%AF%E8%87%AA%E5%B8%A6%E7%89%88%E6%9D%83%E6%9D%A5%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [香港宣布极端情况至少维持至下午6时](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%AE%A3%E5%B8%83%E6%9E%81%E7%AB%AF%E6%83%85%E5%86%B5%E8%87%B3%E5%B0%91%E7%BB%B4%E6%8C%81%E8%87%B3%E4%B8%8B%E5%8D%886%E6%97%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [张远没选0713](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E6%B2%A1%E9%80%890713%23&t=31&band_rank=9&Refer=top)<br />
+9. [莲花楼演唱会](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
