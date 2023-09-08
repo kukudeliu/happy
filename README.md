@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 00:29:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 00:30:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [周杰伦演唱会上受伤](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [折断兵马俑手指的美国男子获缓刑](https://www.baidu.com/s?wd=%E6%8A%98%E6%96%AD%E5%85%B5%E9%A9%AC%E4%BF%91%E6%89%8B%E6%8C%87%E7%9A%84%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E8%8E%B7%E7%BC%93%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [实拍：大妈拿铁架挡门“卡爆”电梯](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8B%8D%EF%BC%9A%E5%A4%A7%E5%A6%88%E6%8B%BF%E9%93%81%E6%9E%B6%E6%8C%A1%E9%97%A8%E2%80%9C%E5%8D%A1%E7%88%86%E2%80%9D%E7%94%B5%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新生妈妈误将吐槽语音发到家长群](https://www.baidu.com/s?wd=%E6%96%B0%E7%94%9F%E5%A6%88%E5%A6%88%E8%AF%AF%E5%B0%86%E5%90%90%E6%A7%BD%E8%AF%AD%E9%9F%B3%E5%8F%91%E5%88%B0%E5%AE%B6%E9%95%BF%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湖北首位用户开通卫星通话功能](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E9%A6%96%E4%BD%8D%E7%94%A8%E6%88%B7%E5%BC%80%E9%80%9A%E5%8D%AB%E6%98%9F%E9%80%9A%E8%AF%9D%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州长隆鳄鱼出逃？官方辟谣](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%95%BF%E9%9A%86%E9%B3%84%E9%B1%BC%E5%87%BA%E9%80%83%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [周杰伦演唱会上受伤](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [折断兵马俑手指的美国男子获缓刑](https://www.baidu.com/s?wd=%E6%8A%98%E6%96%AD%E5%85%B5%E9%A9%AC%E4%BF%91%E6%89%8B%E6%8C%87%E7%9A%84%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E8%8E%B7%E7%BC%93%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [实拍：大妈拿铁架挡门“卡爆”电梯](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8B%8D%EF%BC%9A%E5%A4%A7%E5%A6%88%E6%8B%BF%E9%93%81%E6%9E%B6%E6%8C%A1%E9%97%A8%E2%80%9C%E5%8D%A1%E7%88%86%E2%80%9D%E7%94%B5%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新生妈妈误将吐槽语音发到家长群](https://www.baidu.com/s?wd=%E6%96%B0%E7%94%9F%E5%A6%88%E5%A6%88%E8%AF%AF%E5%B0%86%E5%90%90%E6%A7%BD%E8%AF%AD%E9%9F%B3%E5%8F%91%E5%88%B0%E5%AE%B6%E9%95%BF%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湖北首位用户开通卫星通话功能](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E9%A6%96%E4%BD%8D%E7%94%A8%E6%88%B7%E5%BC%80%E9%80%9A%E5%8D%AB%E6%98%9F%E9%80%9A%E8%AF%9D%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州长隆鳄鱼出逃？官方辟谣](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%95%BF%E9%9A%86%E9%B3%84%E9%B1%BC%E5%87%BA%E9%80%83%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
