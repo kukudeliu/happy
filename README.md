@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 07:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 07:27:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李在明已绝食抗议9天](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B7%B2%E7%BB%9D%E9%A3%9F%E6%8A%97%E8%AE%AE9%E5%A4%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [一车钢筋砸大爷身上119高喊120](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%BD%A6%E9%92%A2%E7%AD%8B%E7%A0%B8%E5%A4%A7%E7%88%B7%E8%BA%AB%E4%B8%8A119%E9%AB%98%E5%96%8A120%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子照顾植物人丈夫4年终苏醒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%85%A7%E9%A1%BE%E6%A4%8D%E7%89%A9%E4%BA%BA%E4%B8%88%E5%A4%AB4%E5%B9%B4%E7%BB%88%E8%8B%8F%E9%86%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [为什么上岸第一剑先斩意中人](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8A%E5%B2%B8%E7%AC%AC%E4%B8%80%E5%89%91%E5%85%88%E6%96%A9%E6%84%8F%E4%B8%AD%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [摩洛哥6.9级地震](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A56.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
