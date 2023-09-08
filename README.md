@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 11:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 11:45:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [00后入警2个月收锦旗变显眼包](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%85%A5%E8%AD%A62%E4%B8%AA%E6%9C%88%E6%94%B6%E9%94%A6%E6%97%97%E5%8F%98%E6%98%BE%E7%9C%BC%E5%8C%85%23&t=31&band_rank=4&Refer=top)<br />
 5. [何超莲想和窦骁一起录综艺](https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B6%85%E8%8E%B2%E6%83%B3%E5%92%8C%E7%AA%A6%E9%AA%81%E4%B8%80%E8%B5%B7%E5%BD%95%E7%BB%BC%E8%89%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [Mate60Pro+](https://s.weibo.com/weibo?q=Mate60Pro%2B&t=31&band_rank=6&Refer=top)<br />
-7. [香港的雨有多大](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%9A%84%E9%9B%A8%E6%9C%89%E5%A4%9A%E5%A4%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [华为王炸](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E7%8E%8B%E7%82%B8%23&t=31&band_rank=8&Refer=top)<br />
+7. [华为王炸](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E7%8E%8B%E7%82%B8%23&t=31&band_rank=7&Refer=top)<br />
+8. [香港的雨有多大](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%9A%84%E9%9B%A8%E6%9C%89%E5%A4%9A%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
 9. [男子每天抽烟百根啤酒当水喝患多种癌症](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E6%8A%BD%E7%83%9F%E7%99%BE%E6%A0%B9%E5%95%A4%E9%85%92%E5%BD%93%E6%B0%B4%E5%96%9D%E6%82%A3%E5%A4%9A%E7%A7%8D%E7%99%8C%E7%97%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
