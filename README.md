@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 09:26:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 09:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [林俊杰广州](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%B9%BF%E5%B7%9E&t=31&band_rank=6&Refer=top)<br />
 7. [被困横店后我成了所有男主的白月光](https://s.weibo.com/weibo?q=%E8%A2%AB%E5%9B%B0%E6%A8%AA%E5%BA%97%E5%90%8E%E6%88%91%E6%88%90%E4%BA%86%E6%89%80%E6%9C%89%E7%94%B7%E4%B8%BB%E7%9A%84%E7%99%BD%E6%9C%88%E5%85%89&t=31&band_rank=7&Refer=top)<br />
 8. [广州停课](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%81%9C%E8%AF%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [官方通报四川达州5死16伤交通事故](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9B%9B%E5%B7%9D%E8%BE%BE%E5%B7%9E5%E6%AD%BB16%E4%BC%A4%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子每天抽烟百根啤酒当水喝患多种癌症](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E6%8A%BD%E7%83%9F%E7%99%BE%E6%A0%B9%E5%95%A4%E9%85%92%E5%BD%93%E6%B0%B4%E5%96%9D%E6%82%A3%E5%A4%9A%E7%A7%8D%E7%99%8C%E7%97%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,8 +24,8 @@
 5. [深圳暴雨红色预警全市停课](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [7岁艾滋病毒携带者父亲病亡母亲失踪](https://www.baidu.com/s?wd=7%E5%B2%81%E8%89%BE%E6%BB%8B%E7%97%85%E6%AF%92%E6%90%BA%E5%B8%A6%E8%80%85%E7%88%B6%E4%BA%B2%E7%97%85%E4%BA%A1%E6%AF%8D%E4%BA%B2%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杭州亚运会火炬传递今启动](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E4%BB%8A%E5%90%AF%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新人临下班去婚姻登记处领证被拒](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E4%B8%B4%E4%B8%8B%E7%8F%AD%E5%8E%BB%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%AE%B0%E5%A4%84%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女篮张子宇身高2米28超姚明](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AF%AE%E5%BC%A0%E5%AD%90%E5%AE%87%E8%BA%AB%E9%AB%982%E7%B1%B328%E8%B6%85%E5%A7%9A%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女篮张子宇身高2米28超姚明](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AF%AE%E5%BC%A0%E5%AD%90%E5%AE%87%E8%BA%AB%E9%AB%982%E7%B1%B328%E8%B6%85%E5%A7%9A%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [新人临下班去婚姻登记处领证被拒](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E4%B8%B4%E4%B8%8B%E7%8F%AD%E5%8E%BB%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%AE%B0%E5%A4%84%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [深圳暴雨红色预警全市停课](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [7岁艾滋病毒携带者父亲病亡母亲失踪](https://www.baidu.com/s?wd=7%E5%B2%81%E8%89%BE%E6%BB%8B%E7%97%85%E6%AF%92%E6%90%BA%E5%B8%A6%E8%80%85%E7%88%B6%E4%BA%B2%E7%97%85%E4%BA%A1%E6%AF%8D%E4%BA%B2%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杭州亚运会火炬传递今启动](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E4%BB%8A%E5%90%AF%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新人临下班去婚姻登记处领证被拒](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E4%B8%B4%E4%B8%8B%E7%8F%AD%E5%8E%BB%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%AE%B0%E5%A4%84%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女篮张子宇身高2米28超姚明](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AF%AE%E5%BC%A0%E5%AD%90%E5%AE%87%E8%BA%AB%E9%AB%982%E7%B1%B328%E8%B6%85%E5%A7%9A%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女篮张子宇身高2米28超姚明](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AF%AE%E5%BC%A0%E5%AD%90%E5%AE%87%E8%BA%AB%E9%AB%982%E7%B1%B328%E8%B6%85%E5%A7%9A%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [新人临下班去婚姻登记处领证被拒](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E4%B8%B4%E4%B8%8B%E7%8F%AD%E5%8E%BB%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%AE%B0%E5%A4%84%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
