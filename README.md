@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 14:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 14:28:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [官方辟谣深圳南山区停工一天](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%B1%B1%E5%8C%BA%E5%81%9C%E5%B7%A5%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [深圳一商贩激流中淡定卖炒饭](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%95%86%E8%B4%A9%E6%BF%80%E6%B5%81%E4%B8%AD%E6%B7%A1%E5%AE%9A%E5%8D%96%E7%82%92%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [妈妈被家暴 女儿冲出揪爸爸头发阻止](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E8%A2%AB%E5%AE%B6%E6%9A%B4+%E5%A5%B3%E5%84%BF%E5%86%B2%E5%87%BA%E6%8F%AA%E7%88%B8%E7%88%B8%E5%A4%B4%E5%8F%91%E9%98%BB%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广州暴雨后严重内涝：积水没过车窗](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%90%8E%E4%B8%A5%E9%87%8D%E5%86%85%E6%B6%9D%EF%BC%9A%E7%A7%AF%E6%B0%B4%E6%B2%A1%E8%BF%87%E8%BD%A6%E7%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高层大变动！浦发回应业绩压力问题](https://www.baidu.com/s?wd=%E9%AB%98%E5%B1%82%E5%A4%A7%E5%8F%98%E5%8A%A8%EF%BC%81%E6%B5%A6%E5%8F%91%E5%9B%9E%E5%BA%94%E4%B8%9A%E7%BB%A9%E5%8E%8B%E5%8A%9B%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [实拍：大妈拿铁架挡门“卡爆”电梯](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8B%8D%EF%BC%9A%E5%A4%A7%E5%A6%88%E6%8B%BF%E9%93%81%E6%9E%B6%E6%8C%A1%E9%97%A8%E2%80%9C%E5%8D%A1%E7%88%86%E2%80%9D%E7%94%B5%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [实拍：大妈拿铁架挡门“卡爆”电梯](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8B%8D%EF%BC%9A%E5%A4%A7%E5%A6%88%E6%8B%BF%E9%93%81%E6%9E%B6%E6%8C%A1%E9%97%A8%E2%80%9C%E5%8D%A1%E7%88%86%E2%80%9D%E7%94%B5%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加媒：加军舰遭解放军“激光照射”](https://www.baidu.com/s?wd=%E5%8A%A0%E5%AA%92%EF%BC%9A%E5%8A%A0%E5%86%9B%E8%88%B0%E9%81%AD%E8%A7%A3%E6%94%BE%E5%86%9B%E2%80%9C%E6%BF%80%E5%85%89%E7%85%A7%E5%B0%84%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子日抽百根烟啤酒当水喝患多种癌症](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%97%A5%E6%8A%BD%E7%99%BE%E6%A0%B9%E7%83%9F%E5%95%A4%E9%85%92%E5%BD%93%E6%B0%B4%E5%96%9D%E6%82%A3%E5%A4%9A%E7%A7%8D%E7%99%8C%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [官方辟谣深圳南山区停工一天](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%B1%B1%E5%8C%BA%E5%81%9C%E5%B7%A5%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [深圳一商贩激流中淡定卖炒饭](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%95%86%E8%B4%A9%E6%BF%80%E6%B5%81%E4%B8%AD%E6%B7%A1%E5%AE%9A%E5%8D%96%E7%82%92%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [妈妈被家暴 女儿冲出揪爸爸头发阻止](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E8%A2%AB%E5%AE%B6%E6%9A%B4+%E5%A5%B3%E5%84%BF%E5%86%B2%E5%87%BA%E6%8F%AA%E7%88%B8%E7%88%B8%E5%A4%B4%E5%8F%91%E9%98%BB%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广州暴雨后严重内涝：积水没过车窗](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%90%8E%E4%B8%A5%E9%87%8D%E5%86%85%E6%B6%9D%EF%BC%9A%E7%A7%AF%E6%B0%B4%E6%B2%A1%E8%BF%87%E8%BD%A6%E7%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高层大变动！浦发回应业绩压力问题](https://www.baidu.com/s?wd=%E9%AB%98%E5%B1%82%E5%A4%A7%E5%8F%98%E5%8A%A8%EF%BC%81%E6%B5%A6%E5%8F%91%E5%9B%9E%E5%BA%94%E4%B8%9A%E7%BB%A9%E5%8E%8B%E5%8A%9B%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [实拍：大妈拿铁架挡门“卡爆”电梯](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8B%8D%EF%BC%9A%E5%A4%A7%E5%A6%88%E6%8B%BF%E9%93%81%E6%9E%B6%E6%8C%A1%E9%97%A8%E2%80%9C%E5%8D%A1%E7%88%86%E2%80%9D%E7%94%B5%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [实拍：大妈拿铁架挡门“卡爆”电梯](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8B%8D%EF%BC%9A%E5%A4%A7%E5%A6%88%E6%8B%BF%E9%93%81%E6%9E%B6%E6%8C%A1%E9%97%A8%E2%80%9C%E5%8D%A1%E7%88%86%E2%80%9D%E7%94%B5%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加媒：加军舰遭解放军“激光照射”](https://www.baidu.com/s?wd=%E5%8A%A0%E5%AA%92%EF%BC%9A%E5%8A%A0%E5%86%9B%E8%88%B0%E9%81%AD%E8%A7%A3%E6%94%BE%E5%86%9B%E2%80%9C%E6%BF%80%E5%85%89%E7%85%A7%E5%B0%84%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子日抽百根烟啤酒当水喝患多种癌症](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%97%A5%E6%8A%BD%E7%99%BE%E6%A0%B9%E7%83%9F%E5%95%A4%E9%85%92%E5%BD%93%E6%B0%B4%E5%96%9D%E6%82%A3%E5%A4%9A%E7%A7%8D%E7%99%8C%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
