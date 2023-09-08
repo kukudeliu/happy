@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 07:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 07:15:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [来杭州看看梦里江南的模样](https://s.weibo.com/weibo?q=%23%E6%9D%A5%E6%9D%AD%E5%B7%9E%E7%9C%8B%E7%9C%8B%E6%A2%A6%E9%87%8C%E6%B1%9F%E5%8D%97%E7%9A%84%E6%A8%A1%E6%A0%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [周杰伦演唱会受伤](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%97%E4%BC%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [大学生贷款参加就业培训后自缢身亡](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%8F%82%E5%8A%A0%E5%B0%B1%E4%B8%9A%E5%9F%B9%E8%AE%AD%E5%90%8E%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
-6. [为什么上岸第一剑先斩意中人](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8A%E5%B2%B8%E7%AC%AC%E4%B8%80%E5%89%91%E5%85%88%E6%96%A9%E6%84%8F%E4%B8%AD%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [李在明已绝食抗议9天](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B7%B2%E7%BB%9D%E9%A3%9F%E6%8A%97%E8%AE%AE9%E5%A4%A9%23&t=31&band_rank=7&Refer=top)<br />
+6. [李在明已绝食抗议9天](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B7%B2%E7%BB%9D%E9%A3%9F%E6%8A%97%E8%AE%AE9%E5%A4%A9%23&t=31&band_rank=6&Refer=top)<br />
+7. [为什么上岸第一剑先斩意中人](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8A%E5%B2%B8%E7%AC%AC%E4%B8%80%E5%89%91%E5%85%88%E6%96%A9%E6%84%8F%E4%B8%AD%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘宪华Jessi真的在内娱合体了](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8EJessi%E7%9C%9F%E7%9A%84%E5%9C%A8%E5%86%85%E5%A8%B1%E5%90%88%E4%BD%93%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [一车钢筋砸大爷身上119高喊120](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%BD%A6%E9%92%A2%E7%AD%8B%E7%A0%B8%E5%A4%A7%E7%88%B7%E8%BA%AB%E4%B8%8A119%E9%AB%98%E5%96%8A120%23&t=31&band_rank=9&Refer=top)<br />
 
