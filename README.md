@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 20:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 20:05:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [理发店回应被公职人员恐吓检查](https://www.baidu.com/s?wd=%E7%90%86%E5%8F%91%E5%BA%97%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E6%81%90%E5%90%93%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [何超莲想和窦骁一起录综艺](https://www.baidu.com/s?wd=%E4%BD%95%E8%B6%85%E8%8E%B2%E6%83%B3%E5%92%8C%E7%AA%A6%E9%AA%81%E4%B8%80%E8%B5%B7%E5%BD%95%E7%BB%BC%E8%89%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广东广西的雨还要下三天](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%B9%BF%E8%A5%BF%E7%9A%84%E9%9B%A8%E8%BF%98%E8%A6%81%E4%B8%8B%E4%B8%89%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子按市价买房竟是凶宅 中介喊冤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%89%E5%B8%82%E4%BB%B7%E4%B9%B0%E6%88%BF%E7%AB%9F%E6%98%AF%E5%87%B6%E5%AE%85+%E4%B8%AD%E4%BB%8B%E5%96%8A%E5%86%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩在野党党首绝食躺地一动不动](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9C%A8%E9%87%8E%E5%85%9A%E5%85%9A%E9%A6%96%E7%BB%9D%E9%A3%9F%E8%BA%BA%E5%9C%B0%E4%B8%80%E5%8A%A8%E4%B8%8D%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [佛山动物园辟谣暴雨致动物出逃](https://www.baidu.com/s?wd=%E4%BD%9B%E5%B1%B1%E5%8A%A8%E7%89%A9%E5%9B%AD%E8%BE%9F%E8%B0%A3%E6%9A%B4%E9%9B%A8%E8%87%B4%E5%8A%A8%E7%89%A9%E5%87%BA%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [理发店回应被公职人员恐吓检查](https://www.baidu.com/s?wd=%E7%90%86%E5%8F%91%E5%BA%97%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E6%81%90%E5%90%93%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [何超莲想和窦骁一起录综艺](https://www.baidu.com/s?wd=%E4%BD%95%E8%B6%85%E8%8E%B2%E6%83%B3%E5%92%8C%E7%AA%A6%E9%AA%81%E4%B8%80%E8%B5%B7%E5%BD%95%E7%BB%BC%E8%89%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广东广西的雨还要下三天](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%B9%BF%E8%A5%BF%E7%9A%84%E9%9B%A8%E8%BF%98%E8%A6%81%E4%B8%8B%E4%B8%89%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子按市价买房竟是凶宅 中介喊冤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%89%E5%B8%82%E4%BB%B7%E4%B9%B0%E6%88%BF%E7%AB%9F%E6%98%AF%E5%87%B6%E5%AE%85+%E4%B8%AD%E4%BB%8B%E5%96%8A%E5%86%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩在野党党首绝食躺地一动不动](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9C%A8%E9%87%8E%E5%85%9A%E5%85%9A%E9%A6%96%E7%BB%9D%E9%A3%9F%E8%BA%BA%E5%9C%B0%E4%B8%80%E5%8A%A8%E4%B8%8D%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [佛山动物园辟谣暴雨致动物出逃](https://www.baidu.com/s?wd=%E4%BD%9B%E5%B1%B1%E5%8A%A8%E7%89%A9%E5%9B%AD%E8%BE%9F%E8%B0%A3%E6%9A%B4%E9%9B%A8%E8%87%B4%E5%8A%A8%E7%89%A9%E5%87%BA%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
