@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 17:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 17:52:01</h4></div>
 
 > 微博  
 
 1. [外交部回应美国调查华为最新手机芯片](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E8%B0%83%E6%9F%A5%E5%8D%8E%E4%B8%BA%E6%9C%80%E6%96%B0%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [义乳女团](https://s.weibo.com/weibo?q=%E4%B9%89%E4%B9%B3%E5%A5%B3%E5%9B%A2&t=31&band_rank=2&Refer=top)<br />
+2. [18岁少年离世前一个决定心碎又感动](https://s.weibo.com/weibo?q=%2318%E5%B2%81%E5%B0%91%E5%B9%B4%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E4%B8%AA%E5%86%B3%E5%AE%9A%E5%BF%83%E7%A2%8E%E5%8F%88%E6%84%9F%E5%8A%A8%23&t=31&band_rank=2&Refer=top)<br />
 3. [让更多国家更多民众共享发展成果](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E6%9B%B4%E5%A4%9A%E5%9B%BD%E5%AE%B6%E6%9B%B4%E5%A4%9A%E6%B0%91%E4%BC%97%E5%85%B1%E4%BA%AB%E5%8F%91%E5%B1%95%E6%88%90%E6%9E%9C%23&t=31&band_rank=3&Refer=top)<br />
-4. [张雪峰问华为什么意思](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E9%97%AE%E5%8D%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%23&t=31&band_rank=4&Refer=top)<br />
-5. [18岁少年离世前一个决定心碎又感动](https://s.weibo.com/weibo?q=%2318%E5%B2%81%E5%B0%91%E5%B9%B4%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E4%B8%AA%E5%86%B3%E5%AE%9A%E5%BF%83%E7%A2%8E%E5%8F%88%E6%84%9F%E5%8A%A8%23&t=31&band_rank=5&Refer=top)<br />
+4. [义乳女团](https://s.weibo.com/weibo?q=%E4%B9%89%E4%B9%B3%E5%A5%B3%E5%9B%A2&t=31&band_rank=4&Refer=top)<br />
+5. [张雪峰问华为什么意思](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E9%97%AE%E5%8D%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%23&t=31&band_rank=5&Refer=top)<br />
 6. [小学生徒手挖出炮弹送校长室](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%BE%92%E6%89%8B%E6%8C%96%E5%87%BA%E7%82%AE%E5%BC%B9%E9%80%81%E6%A0%A1%E9%95%BF%E5%AE%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [8月新增501例猴痘确诊](https://s.weibo.com/weibo?q=%238%E6%9C%88%E6%96%B0%E5%A2%9E501%E4%BE%8B%E7%8C%B4%E7%97%98%E7%A1%AE%E8%AF%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [内蒙古高压气体泄漏事故10死3伤](https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E9%AB%98%E5%8E%8B%E6%B0%94%E4%BD%93%E6%B3%84%E6%BC%8F%E4%BA%8B%E6%95%8510%E6%AD%BB3%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
