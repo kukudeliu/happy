@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 03:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 03:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为什么上岸第一剑先斩意中人](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8A%E5%B2%B8%E7%AC%AC%E4%B8%80%E5%89%91%E5%85%88%E6%96%A9%E6%84%8F%E4%B8%AD%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [阿信演唱会吸氧](https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%B8%E6%B0%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [云之羽一口气追到大结局](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E4%B8%80%E5%8F%A3%E6%B0%94%E8%BF%BD%E5%88%B0%E5%A4%A7%E7%BB%93%E5%B1%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [Uzi纪念限定薇恩](https://s.weibo.com/weibo?q=%23Uzi%E7%BA%AA%E5%BF%B5%E9%99%90%E5%AE%9A%E8%96%87%E6%81%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [女子照顾植物人丈夫4年终苏醒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%85%A7%E9%A1%BE%E6%A4%8D%E7%89%A9%E4%BA%BA%E4%B8%88%E5%A4%AB4%E5%B9%B4%E7%BB%88%E8%8B%8F%E9%86%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
