@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 22:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 22:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [英语四级从424到423](https://s.weibo.com/weibo?q=%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E4%BB%8E424%E5%88%B0423&t=31&band_rank=6&Refer=top)<br />
 7. [真的有龙吗](https://s.weibo.com/weibo?q=%E7%9C%9F%E7%9A%84%E6%9C%89%E9%BE%99%E5%90%97&t=31&band_rank=7&Refer=top)<br />
 8. [义乳女团](https://s.weibo.com/weibo?q=%E4%B9%89%E4%B9%B3%E5%A5%B3%E5%9B%A2&t=31&band_rank=8&Refer=top)<br />
-9. [Uzi纪念限定薇恩](https://s.weibo.com/weibo?q=%23Uzi%E7%BA%AA%E5%BF%B5%E9%99%90%E5%AE%9A%E8%96%87%E6%81%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [日本皇室的狗血婚嫁史](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E7%9A%87%E5%AE%A4%E7%9A%84%E7%8B%97%E8%A1%80%E5%A9%9A%E5%AB%81%E5%8F%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
