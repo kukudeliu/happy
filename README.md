@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 08:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 08:52:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [“必须自觉拜人民为师”](https://www.baidu.com/s?wd=%E2%80%9C%E5%BF%85%E9%A1%BB%E8%87%AA%E8%A7%89%E6%8B%9C%E4%BA%BA%E6%B0%91%E4%B8%BA%E5%B8%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [深圳外卖小哥暴雨中艰难前行](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%9A%B4%E9%9B%A8%E4%B8%AD%E8%89%B0%E9%9A%BE%E5%89%8D%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [深圳暴雨红色预警全市停课](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [香港遭百年一遇暴雨 女子被狂流冲倒](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%81%AD%E7%99%BE%E5%B9%B4%E4%B8%80%E9%81%87%E6%9A%B4%E9%9B%A8+%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%82%E6%B5%81%E5%86%B2%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [火炬传递看“浙”里](https://www.baidu.com/s?wd=%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E7%9C%8B%E2%80%9C%E6%B5%99%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [苹果两天市值蒸发1900亿美元](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E4%B8%A4%E5%A4%A9%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%911900%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [“必须自觉拜人民为师”](https://www.baidu.com/s?wd=%E2%80%9C%E5%BF%85%E9%A1%BB%E8%87%AA%E8%A7%89%E6%8B%9C%E4%BA%BA%E6%B0%91%E4%B8%BA%E5%B8%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [深圳外卖小哥暴雨中艰难前行](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%9A%B4%E9%9B%A8%E4%B8%AD%E8%89%B0%E9%9A%BE%E5%89%8D%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [深圳暴雨红色预警全市停课](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [香港遭百年一遇暴雨 女子被狂流冲倒](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%81%AD%E7%99%BE%E5%B9%B4%E4%B8%80%E9%81%87%E6%9A%B4%E9%9B%A8+%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%82%E6%B5%81%E5%86%B2%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [火炬传递看“浙”里](https://www.baidu.com/s?wd=%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E7%9C%8B%E2%80%9C%E6%B5%99%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [苹果两天市值蒸发1900亿美元](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E4%B8%A4%E5%A4%A9%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%911900%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
