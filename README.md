@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 08:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 08:59:02</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [“必须自觉拜人民为师”](https://www.baidu.com/s?wd=%E2%80%9C%E5%BF%85%E9%A1%BB%E8%87%AA%E8%A7%89%E6%8B%9C%E4%BA%BA%E6%B0%91%E4%B8%BA%E5%B8%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [深圳暴雨红色预警全市停课](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [香港遭百年一遇暴雨 女子被狂流冲倒](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%81%AD%E7%99%BE%E5%B9%B4%E4%B8%80%E9%81%87%E6%9A%B4%E9%9B%A8+%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%82%E6%B5%81%E5%86%B2%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [香港遭百年一遇暴雨 女子被狂流冲倒](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%81%AD%E7%99%BE%E5%B9%B4%E4%B8%80%E9%81%87%E6%9A%B4%E9%9B%A8+%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%82%E6%B5%81%E5%86%B2%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [朝鲜第一艘战术核攻击潜艇下水](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E7%AC%AC%E4%B8%80%E8%89%98%E6%88%98%E6%9C%AF%E6%A0%B8%E6%94%BB%E5%87%BB%E6%BD%9C%E8%89%87%E4%B8%8B%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [火炬传递看“浙”里](https://www.baidu.com/s?wd=%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E7%9C%8B%E2%80%9C%E6%B5%99%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [苹果两天市值蒸发1900亿美元](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E4%B8%A4%E5%A4%A9%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%911900%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [深圳暴雨红色预警全市停课](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [7岁艾滋病毒携带者父亲病亡母亲失踪](https://www.baidu.com/s?wd=7%E5%B2%81%E8%89%BE%E6%BB%8B%E7%97%85%E6%AF%92%E6%90%BA%E5%B8%A6%E8%80%85%E7%88%B6%E4%BA%B2%E7%97%85%E4%BA%A1%E6%AF%8D%E4%BA%B2%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [新人临下班去婚姻登记处领证被拒](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E4%B8%B4%E4%B8%8B%E7%8F%AD%E5%8E%BB%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%AE%B0%E5%A4%84%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [朝鲜第一艘战术核攻击潜艇下水](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E7%AC%AC%E4%B8%80%E8%89%98%E6%88%98%E6%9C%AF%E6%A0%B8%E6%94%BB%E5%87%BB%E6%BD%9C%E8%89%87%E4%B8%8B%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川达州发生交通事故致1死20伤](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%BE%BE%E5%B7%9E%E5%8F%91%E7%94%9F%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%87%B41%E6%AD%BB20%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [苹果两天市值蒸发1900亿美元](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E4%B8%A4%E5%A4%A9%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%911900%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新人临下班去婚姻登记处领证被拒](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E4%B8%B4%E4%B8%8B%E7%8F%AD%E5%8E%BB%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%AE%B0%E5%A4%84%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广州暴雨后严重内涝：积水没过车窗](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%90%8E%E4%B8%A5%E9%87%8D%E5%86%85%E6%B6%9D%EF%BC%9A%E7%A7%AF%E6%B0%B4%E6%B2%A1%E8%BF%87%E8%BD%A6%E7%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [“必须自觉拜人民为师”](https://www.baidu.com/s?wd=%E2%80%9C%E5%BF%85%E9%A1%BB%E8%87%AA%E8%A7%89%E6%8B%9C%E4%BA%BA%E6%B0%91%E4%B8%BA%E5%B8%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [深圳暴雨红色预警全市停课](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [香港遭百年一遇暴雨 女子被狂流冲倒](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%81%AD%E7%99%BE%E5%B9%B4%E4%B8%80%E9%81%87%E6%9A%B4%E9%9B%A8+%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%82%E6%B5%81%E5%86%B2%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [香港遭百年一遇暴雨 女子被狂流冲倒](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%81%AD%E7%99%BE%E5%B9%B4%E4%B8%80%E9%81%87%E6%9A%B4%E9%9B%A8+%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%82%E6%B5%81%E5%86%B2%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [朝鲜第一艘战术核攻击潜艇下水](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E7%AC%AC%E4%B8%80%E8%89%98%E6%88%98%E6%9C%AF%E6%A0%B8%E6%94%BB%E5%87%BB%E6%BD%9C%E8%89%87%E4%B8%8B%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [火炬传递看“浙”里](https://www.baidu.com/s?wd=%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E7%9C%8B%E2%80%9C%E6%B5%99%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [苹果两天市值蒸发1900亿美元](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E4%B8%A4%E5%A4%A9%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%911900%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [深圳暴雨红色预警全市停课](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [7岁艾滋病毒携带者父亲病亡母亲失踪](https://www.baidu.com/s?wd=7%E5%B2%81%E8%89%BE%E6%BB%8B%E7%97%85%E6%AF%92%E6%90%BA%E5%B8%A6%E8%80%85%E7%88%B6%E4%BA%B2%E7%97%85%E4%BA%A1%E6%AF%8D%E4%BA%B2%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [新人临下班去婚姻登记处领证被拒](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E4%B8%B4%E4%B8%8B%E7%8F%AD%E5%8E%BB%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%AE%B0%E5%A4%84%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [朝鲜第一艘战术核攻击潜艇下水](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E7%AC%AC%E4%B8%80%E8%89%98%E6%88%98%E6%9C%AF%E6%A0%B8%E6%94%BB%E5%87%BB%E6%BD%9C%E8%89%87%E4%B8%8B%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川达州发生交通事故致1死20伤](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%BE%BE%E5%B7%9E%E5%8F%91%E7%94%9F%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%87%B41%E6%AD%BB20%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [苹果两天市值蒸发1900亿美元](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E4%B8%A4%E5%A4%A9%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%911900%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新人临下班去婚姻登记处领证被拒](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E4%B8%B4%E4%B8%8B%E7%8F%AD%E5%8E%BB%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%AE%B0%E5%A4%84%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广州暴雨后严重内涝：积水没过车窗](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%90%8E%E4%B8%A5%E9%87%8D%E5%86%85%E6%B6%9D%EF%BC%9A%E7%A7%AF%E6%B0%B4%E6%B2%A1%E8%BF%87%E8%BD%A6%E7%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
