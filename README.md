@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 09:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 09:12:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [直击杭州亚运会](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%87%BB%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [深圳泄洪](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%B3%84%E6%B4%AA%23&t=31&band_rank=4&Refer=top)<br />
 5. [长期不吃晚餐真的会瘦吗](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E4%B8%8D%E5%90%83%E6%99%9A%E9%A4%90%E7%9C%9F%E7%9A%84%E4%BC%9A%E7%98%A6%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
-6. [广州停课](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%81%9C%E8%AF%BE%23&t=31&band_rank=6&Refer=top)<br />
-7. [林俊杰广州](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%B9%BF%E5%B7%9E&t=31&band_rank=7&Refer=top)<br />
+6. [林俊杰广州](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%B9%BF%E5%B7%9E&t=31&band_rank=6&Refer=top)<br />
+7. [广州停课](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%81%9C%E8%AF%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [被困横店后我成了所有男主的白月光](https://s.weibo.com/weibo?q=%E8%A2%AB%E5%9B%B0%E6%A8%AA%E5%BA%97%E5%90%8E%E6%88%91%E6%88%90%E4%BA%86%E6%89%80%E6%9C%89%E7%94%B7%E4%B8%BB%E7%9A%84%E7%99%BD%E6%9C%88%E5%85%89&t=31&band_rank=8&Refer=top)<br />
 9. [官方通报四川达州5死16伤交通事故](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9B%9B%E5%B7%9D%E8%BE%BE%E5%B7%9E5%E6%AD%BB16%E4%BC%A4%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%23&t=31&band_rank=9&Refer=top)<br />
 
