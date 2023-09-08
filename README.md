@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 20:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 20:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [义乳女团](https://s.weibo.com/weibo?q=%E4%B9%89%E4%B9%B3%E5%A5%B3%E5%9B%A2&t=31&band_rank=6&Refer=top)<br />
 7. [哥哥3次劝学网瘾弟弟返校考上一本](https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A53%E6%AC%A1%E5%8A%9D%E5%AD%A6%E7%BD%91%E7%98%BE%E5%BC%9F%E5%BC%9F%E8%BF%94%E6%A0%A1%E8%80%83%E4%B8%8A%E4%B8%80%E6%9C%AC%23&t=31&band_rank=7&Refer=top)<br />
 8. [顾里孟宴臣天生一对](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E9%87%8C%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%A4%A9%E7%94%9F%E4%B8%80%E5%AF%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [这四位是写纯古言里口碑较好的了](https://s.weibo.com/weibo?q=%E8%BF%99%E5%9B%9B%E4%BD%8D%E6%98%AF%E5%86%99%E7%BA%AF%E5%8F%A4%E8%A8%80%E9%87%8C%E5%8F%A3%E7%A2%91%E8%BE%83%E5%A5%BD%E7%9A%84%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [云为衫宫子羽初吻](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B8%BA%E8%A1%AB%E5%AE%AB%E5%AD%90%E7%BE%BD%E5%88%9D%E5%90%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
