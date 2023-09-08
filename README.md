@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 08:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 08:24:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [朝鲜第一艘战术核攻击潜艇下水](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E7%AC%AC%E4%B8%80%E8%89%98%E6%88%98%E6%9C%AF%E6%A0%B8%E6%94%BB%E5%87%BB%E6%BD%9C%E8%89%87%E4%B8%8B%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [公职人员被儿子举报出轨朋友妻子](https://www.baidu.com/s?wd=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%84%BF%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E6%9C%8B%E5%8F%8B%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [7岁艾滋病毒携带者父亲病亡母亲失踪](https://www.baidu.com/s?wd=7%E5%B2%81%E8%89%BE%E6%BB%8B%E7%97%85%E6%AF%92%E6%90%BA%E5%B8%A6%E8%80%85%E7%88%B6%E4%BA%B2%E7%97%85%E4%BA%A1%E6%AF%8D%E4%BA%B2%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [13岁女孩身高超1米7被确诊天才病](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BA%AB%E9%AB%98%E8%B6%851%E7%B1%B37%E8%A2%AB%E7%A1%AE%E8%AF%8A%E5%A4%A9%E6%89%8D%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [林志颖称车祸后理解能力变差](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E9%A2%96%E7%A7%B0%E8%BD%A6%E7%A5%B8%E5%90%8E%E7%90%86%E8%A7%A3%E8%83%BD%E5%8A%9B%E5%8F%98%E5%B7%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [朝鲜第一艘战术核攻击潜艇下水](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E7%AC%AC%E4%B8%80%E8%89%98%E6%88%98%E6%9C%AF%E6%A0%B8%E6%94%BB%E5%87%BB%E6%BD%9C%E8%89%87%E4%B8%8B%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [公职人员被儿子举报出轨朋友妻子](https://www.baidu.com/s?wd=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%84%BF%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E6%9C%8B%E5%8F%8B%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [7岁艾滋病毒携带者父亲病亡母亲失踪](https://www.baidu.com/s?wd=7%E5%B2%81%E8%89%BE%E6%BB%8B%E7%97%85%E6%AF%92%E6%90%BA%E5%B8%A6%E8%80%85%E7%88%B6%E4%BA%B2%E7%97%85%E4%BA%A1%E6%AF%8D%E4%BA%B2%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [13岁女孩身高超1米7被确诊天才病](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BA%AB%E9%AB%98%E8%B6%851%E7%B1%B37%E8%A2%AB%E7%A1%AE%E8%AF%8A%E5%A4%A9%E6%89%8D%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [林志颖称车祸后理解能力变差](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E9%A2%96%E7%A7%B0%E8%BD%A6%E7%A5%B8%E5%90%8E%E7%90%86%E8%A7%A3%E8%83%BD%E5%8A%9B%E5%8F%98%E5%B7%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
