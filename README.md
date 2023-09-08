@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 23:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 23:04:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [“薪火”相传 点燃亚运激情](https://www.baidu.com/s?wd=%E2%80%9C%E8%96%AA%E7%81%AB%E2%80%9D%E7%9B%B8%E4%BC%A0+%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E6%BF%80%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子举报已婚副县长欺骗感情](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%B7%B2%E5%A9%9A%E5%89%AF%E5%8E%BF%E9%95%BF%E6%AC%BA%E9%AA%97%E6%84%9F%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [哈尔滨多辆车加油后开出不远就熄火](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%A4%9A%E8%BE%86%E8%BD%A6%E5%8A%A0%E6%B2%B9%E5%90%8E%E5%BC%80%E5%87%BA%E4%B8%8D%E8%BF%9C%E5%B0%B1%E7%86%84%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [光刻机巨头CEO：孤立中国没有希望](https://www.baidu.com/s?wd=%E5%85%89%E5%88%BB%E6%9C%BA%E5%B7%A8%E5%A4%B4CEO%EF%BC%9A%E5%AD%A4%E7%AB%8B%E4%B8%AD%E5%9B%BD%E6%B2%A1%E6%9C%89%E5%B8%8C%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马克龙确认巴黎奥运不挂俄国旗](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E7%A1%AE%E8%AE%A4%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%B8%8D%E6%8C%82%E4%BF%84%E5%9B%BD%E6%97%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [8月内地新增501例猴痘确诊病例](https://www.baidu.com/s?wd=8%E6%9C%88%E5%86%85%E5%9C%B0%E6%96%B0%E5%A2%9E501%E4%BE%8B%E7%8C%B4%E7%97%98%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [光刻机巨头CEO：孤立中国没有希望](https://www.baidu.com/s?wd=%E5%85%89%E5%88%BB%E6%9C%BA%E5%B7%A8%E5%A4%B4CEO%EF%BC%9A%E5%AD%A4%E7%AB%8B%E4%B8%AD%E5%9B%BD%E6%B2%A1%E6%9C%89%E5%B8%8C%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州长隆鳄鱼出逃？官方辟谣](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%95%BF%E9%9A%86%E9%B3%84%E9%B1%BC%E5%87%BA%E9%80%83%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [“薪火”相传 点燃亚运激情](https://www.baidu.com/s?wd=%E2%80%9C%E8%96%AA%E7%81%AB%E2%80%9D%E7%9B%B8%E4%BC%A0+%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E6%BF%80%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子举报已婚副县长欺骗感情](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%B7%B2%E5%A9%9A%E5%89%AF%E5%8E%BF%E9%95%BF%E6%AC%BA%E9%AA%97%E6%84%9F%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [哈尔滨多辆车加油后开出不远就熄火](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%A4%9A%E8%BE%86%E8%BD%A6%E5%8A%A0%E6%B2%B9%E5%90%8E%E5%BC%80%E5%87%BA%E4%B8%8D%E8%BF%9C%E5%B0%B1%E7%86%84%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [光刻机巨头CEO：孤立中国没有希望](https://www.baidu.com/s?wd=%E5%85%89%E5%88%BB%E6%9C%BA%E5%B7%A8%E5%A4%B4CEO%EF%BC%9A%E5%AD%A4%E7%AB%8B%E4%B8%AD%E5%9B%BD%E6%B2%A1%E6%9C%89%E5%B8%8C%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马克龙确认巴黎奥运不挂俄国旗](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E7%A1%AE%E8%AE%A4%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%B8%8D%E6%8C%82%E4%BF%84%E5%9B%BD%E6%97%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [8月内地新增501例猴痘确诊病例](https://www.baidu.com/s?wd=8%E6%9C%88%E5%86%85%E5%9C%B0%E6%96%B0%E5%A2%9E501%E4%BE%8B%E7%8C%B4%E7%97%98%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [光刻机巨头CEO：孤立中国没有希望](https://www.baidu.com/s?wd=%E5%85%89%E5%88%BB%E6%9C%BA%E5%B7%A8%E5%A4%B4CEO%EF%BC%9A%E5%AD%A4%E7%AB%8B%E4%B8%AD%E5%9B%BD%E6%B2%A1%E6%9C%89%E5%B8%8C%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州长隆鳄鱼出逃？官方辟谣](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%95%BF%E9%9A%86%E9%B3%84%E9%B1%BC%E5%87%BA%E9%80%83%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
