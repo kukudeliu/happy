@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 22:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 22:14:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [光刻机巨头CEO：孤立中国没有希望](https://www.baidu.com/s?wd=%E5%85%89%E5%88%BB%E6%9C%BA%E5%B7%A8%E5%A4%B4CEO%EF%BC%9A%E5%AD%A4%E7%AB%8B%E4%B8%AD%E5%9B%BD%E6%B2%A1%E6%9C%89%E5%B8%8C%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“薪火”相传 点燃亚运激情](https://www.baidu.com/s?wd=%E2%80%9C%E8%96%AA%E7%81%AB%E2%80%9D%E7%9B%B8%E4%BC%A0+%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E6%BF%80%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子举报已婚副县长欺骗感情](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%B7%B2%E5%A9%9A%E5%89%AF%E5%8E%BF%E9%95%BF%E6%AC%BA%E9%AA%97%E6%84%9F%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [福岛核污染水首批排海7800吨](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B2%9B%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E9%A6%96%E6%89%B9%E6%8E%92%E6%B5%B77800%E5%90%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [实拍：大妈拿铁架挡门“卡爆”电梯](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8B%8D%EF%BC%9A%E5%A4%A7%E5%A6%88%E6%8B%BF%E9%93%81%E6%9E%B6%E6%8C%A1%E9%97%A8%E2%80%9C%E5%8D%A1%E7%88%86%E2%80%9D%E7%94%B5%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [香港暴雨已致2死1失踪117人受伤](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%9A%B4%E9%9B%A8%E5%B7%B2%E8%87%B42%E6%AD%BB1%E5%A4%B1%E8%B8%AA117%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [香港极端情况至少维持至今晚12时](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%9E%81%E7%AB%AF%E6%83%85%E5%86%B5%E8%87%B3%E5%B0%91%E7%BB%B4%E6%8C%81%E8%87%B3%E4%BB%8A%E6%99%9A12%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [曝华为全线产品都将推出麒麟5G新品](https://www.baidu.com/s?wd=%E6%9B%9D%E5%8D%8E%E4%B8%BA%E5%85%A8%E7%BA%BF%E4%BA%A7%E5%93%81%E9%83%BD%E5%B0%86%E6%8E%A8%E5%87%BA%E9%BA%92%E9%BA%9F5G%E6%96%B0%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州长隆鳄鱼出逃？官方辟谣](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%95%BF%E9%9A%86%E9%B3%84%E9%B1%BC%E5%87%BA%E9%80%83%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [光刻机巨头CEO：孤立中国没有希望](https://www.baidu.com/s?wd=%E5%85%89%E5%88%BB%E6%9C%BA%E5%B7%A8%E5%A4%B4CEO%EF%BC%9A%E5%AD%A4%E7%AB%8B%E4%B8%AD%E5%9B%BD%E6%B2%A1%E6%9C%89%E5%B8%8C%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“薪火”相传 点燃亚运激情](https://www.baidu.com/s?wd=%E2%80%9C%E8%96%AA%E7%81%AB%E2%80%9D%E7%9B%B8%E4%BC%A0+%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E6%BF%80%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子举报已婚副县长欺骗感情](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%B7%B2%E5%A9%9A%E5%89%AF%E5%8E%BF%E9%95%BF%E6%AC%BA%E9%AA%97%E6%84%9F%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [福岛核污染水首批排海7800吨](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B2%9B%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E9%A6%96%E6%89%B9%E6%8E%92%E6%B5%B77800%E5%90%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [实拍：大妈拿铁架挡门“卡爆”电梯](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8B%8D%EF%BC%9A%E5%A4%A7%E5%A6%88%E6%8B%BF%E9%93%81%E6%9E%B6%E6%8C%A1%E9%97%A8%E2%80%9C%E5%8D%A1%E7%88%86%E2%80%9D%E7%94%B5%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [香港暴雨已致2死1失踪117人受伤](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%9A%B4%E9%9B%A8%E5%B7%B2%E8%87%B42%E6%AD%BB1%E5%A4%B1%E8%B8%AA117%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [香港极端情况至少维持至今晚12时](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%9E%81%E7%AB%AF%E6%83%85%E5%86%B5%E8%87%B3%E5%B0%91%E7%BB%B4%E6%8C%81%E8%87%B3%E4%BB%8A%E6%99%9A12%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [曝华为全线产品都将推出麒麟5G新品](https://www.baidu.com/s?wd=%E6%9B%9D%E5%8D%8E%E4%B8%BA%E5%85%A8%E7%BA%BF%E4%BA%A7%E5%93%81%E9%83%BD%E5%B0%86%E6%8E%A8%E5%87%BA%E9%BA%92%E9%BA%9F5G%E6%96%B0%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州长隆鳄鱼出逃？官方辟谣](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%95%BF%E9%9A%86%E9%B3%84%E9%B1%BC%E5%87%BA%E9%80%83%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
