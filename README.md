@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 09:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 09:07:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [7岁艾滋病毒携带者父亲病亡母亲失踪](https://www.baidu.com/s?wd=7%E5%B2%81%E8%89%BE%E6%BB%8B%E7%97%85%E6%AF%92%E6%90%BA%E5%B8%A6%E8%80%85%E7%88%B6%E4%BA%B2%E7%97%85%E4%BA%A1%E6%AF%8D%E4%BA%B2%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [苹果两天市值蒸发1900亿美元](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E4%B8%A4%E5%A4%A9%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%911900%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [新人临下班去婚姻登记处领证被拒](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E4%B8%B4%E4%B8%8B%E7%8F%AD%E5%8E%BB%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%AE%B0%E5%A4%84%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广州暴雨后严重内涝：积水没过车窗](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%90%8E%E4%B8%A5%E9%87%8D%E5%86%85%E6%B6%9D%EF%BC%9A%E7%A7%AF%E6%B0%B4%E6%B2%A1%E8%BF%87%E8%BD%A6%E7%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [四川车祸致5死16伤 调查结果公布](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%BD%A6%E7%A5%B8%E8%87%B45%E6%AD%BB16%E4%BC%A4+%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [7岁艾滋病毒携带者父亲病亡母亲失踪](https://www.baidu.com/s?wd=7%E5%B2%81%E8%89%BE%E6%BB%8B%E7%97%85%E6%AF%92%E6%90%BA%E5%B8%A6%E8%80%85%E7%88%B6%E4%BA%B2%E7%97%85%E4%BA%A1%E6%AF%8D%E4%BA%B2%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [苹果两天市值蒸发1900亿美元](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E4%B8%A4%E5%A4%A9%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%911900%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [新人临下班去婚姻登记处领证被拒](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E4%B8%B4%E4%B8%8B%E7%8F%AD%E5%8E%BB%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%AE%B0%E5%A4%84%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广州暴雨后严重内涝：积水没过车窗](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%90%8E%E4%B8%A5%E9%87%8D%E5%86%85%E6%B6%9D%EF%BC%9A%E7%A7%AF%E6%B0%B4%E6%B2%A1%E8%BF%87%E8%BD%A6%E7%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [四川车祸致5死16伤 调查结果公布](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%BD%A6%E7%A5%B8%E8%87%B45%E6%AD%BB16%E4%BC%A4+%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
