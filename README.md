@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 23:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 23:52:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [阿信演唱会吸氧](https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%B8%E6%B0%A7%23&t=31&band_rank=2&Refer=top)<br />
 3. [共建一带一路倡议十周年](https://s.weibo.com/weibo?q=%23%E5%85%B1%E5%BB%BA%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E5%80%A1%E8%AE%AE%E5%8D%81%E5%91%A8%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [没唱玫瑰少年](https://s.weibo.com/weibo?q=%E6%B2%A1%E5%94%B1%E7%8E%AB%E7%91%B0%E5%B0%91%E5%B9%B4&t=31&band_rank=4&Refer=top)<br />
-5. [刘宪华Jessi真的在内娱合体了](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8EJessi%E7%9C%9F%E7%9A%84%E5%9C%A8%E5%86%85%E5%A8%B1%E5%90%88%E4%BD%93%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [金泰亨销量违反规定](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%B3%B0%E4%BA%A8%E9%94%80%E9%87%8F%E8%BF%9D%E5%8F%8D%E8%A7%84%E5%AE%9A%23&t=31&band_rank=6&Refer=top)<br />
+5. [金泰亨销量违反规定](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%B3%B0%E4%BA%A8%E9%94%80%E9%87%8F%E8%BF%9D%E5%8F%8D%E8%A7%84%E5%AE%9A%23&t=31&band_rank=5&Refer=top)<br />
+6. [刘宪华Jessi真的在内娱合体了](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8EJessi%E7%9C%9F%E7%9A%84%E5%9C%A8%E5%86%85%E5%A8%B1%E5%90%88%E4%BD%93%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么上岸第一剑先斩意中人](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8A%E5%B2%B8%E7%AC%AC%E4%B8%80%E5%89%91%E5%85%88%E6%96%A9%E6%84%8F%E4%B8%AD%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [义乳女团](https://s.weibo.com/weibo?q=%E4%B9%89%E4%B9%B3%E5%A5%B3%E5%9B%A2&t=31&band_rank=8&Refer=top)<br />
 9. [iPhone15Pro减轻约10%](https://s.weibo.com/weibo?q=%23iPhone15Pro%E5%87%8F%E8%BD%BB%E7%BA%A610%25%23&t=31&band_rank=9&Refer=top)<br />
