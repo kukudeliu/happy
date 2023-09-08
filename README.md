@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 13:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 13:40:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [深圳暴雨打破1952年以来极值](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8%E6%89%93%E7%A0%B41952%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [平台下调抽成 司机称收入不升反降](https://www.baidu.com/s?wd=%E5%B9%B3%E5%8F%B0%E4%B8%8B%E8%B0%83%E6%8A%BD%E6%88%90+%E5%8F%B8%E6%9C%BA%E7%A7%B0%E6%94%B6%E5%85%A5%E4%B8%8D%E5%8D%87%E5%8F%8D%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [实拍：大妈拿铁架挡门“卡爆”电梯](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8B%8D%EF%BC%9A%E5%A4%A7%E5%A6%88%E6%8B%BF%E9%93%81%E6%9E%B6%E6%8C%A1%E9%97%A8%E2%80%9C%E5%8D%A1%E7%88%86%E2%80%9D%E7%94%B5%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [农户遭举报后放生眼镜蛇？官方辟谣](https://www.baidu.com/s?wd=%E5%86%9C%E6%88%B7%E9%81%AD%E4%B8%BE%E6%8A%A5%E5%90%8E%E6%94%BE%E7%94%9F%E7%9C%BC%E9%95%9C%E8%9B%87%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [香港宣布极端情况至少维持至下午6时](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%AE%A3%E5%B8%83%E6%9E%81%E7%AB%AF%E6%83%85%E5%86%B5%E8%87%B3%E5%B0%91%E7%BB%B4%E6%8C%81%E8%87%B3%E4%B8%8B%E5%8D%886%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳外卖员趟积水艰难送餐 美团调查](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%B6%9F%E7%A7%AF%E6%B0%B4%E8%89%B0%E9%9A%BE%E9%80%81%E9%A4%90+%E7%BE%8E%E5%9B%A2%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [深圳暴雨打破1952年以来极值](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8%E6%89%93%E7%A0%B41952%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [平台下调抽成 司机称收入不升反降](https://www.baidu.com/s?wd=%E5%B9%B3%E5%8F%B0%E4%B8%8B%E8%B0%83%E6%8A%BD%E6%88%90+%E5%8F%B8%E6%9C%BA%E7%A7%B0%E6%94%B6%E5%85%A5%E4%B8%8D%E5%8D%87%E5%8F%8D%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [实拍：大妈拿铁架挡门“卡爆”电梯](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8B%8D%EF%BC%9A%E5%A4%A7%E5%A6%88%E6%8B%BF%E9%93%81%E6%9E%B6%E6%8C%A1%E9%97%A8%E2%80%9C%E5%8D%A1%E7%88%86%E2%80%9D%E7%94%B5%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [农户遭举报后放生眼镜蛇？官方辟谣](https://www.baidu.com/s?wd=%E5%86%9C%E6%88%B7%E9%81%AD%E4%B8%BE%E6%8A%A5%E5%90%8E%E6%94%BE%E7%94%9F%E7%9C%BC%E9%95%9C%E8%9B%87%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [香港宣布极端情况至少维持至下午6时](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%AE%A3%E5%B8%83%E6%9E%81%E7%AB%AF%E6%83%85%E5%86%B5%E8%87%B3%E5%B0%91%E7%BB%B4%E6%8C%81%E8%87%B3%E4%B8%8B%E5%8D%886%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳外卖员趟积水艰难送餐 美团调查](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%B6%9F%E7%A7%AF%E6%B0%B4%E8%89%B0%E9%9A%BE%E9%80%81%E9%A4%90+%E7%BE%8E%E5%9B%A2%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
