@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 08:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 08:39:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [火炬传递看“浙”里](https://www.baidu.com/s?wd=%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E7%9C%8B%E2%80%9C%E6%B5%99%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [苹果两天市值蒸发1900亿美元](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E4%B8%A4%E5%A4%A9%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%911900%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [7岁艾滋病毒携带者父亲病亡母亲失踪](https://www.baidu.com/s?wd=7%E5%B2%81%E8%89%BE%E6%BB%8B%E7%97%85%E6%AF%92%E6%90%BA%E5%B8%A6%E8%80%85%E7%88%B6%E4%BA%B2%E7%97%85%E4%BA%A1%E6%AF%8D%E4%BA%B2%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [新人临下班去婚姻登记处领证被拒](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E4%B8%B4%E4%B8%8B%E7%8F%AD%E5%8E%BB%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%AE%B0%E5%A4%84%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [芭堤雅四方水上市场发生严重火灾](https://www.baidu.com/s?wd=%E8%8A%AD%E5%A0%A4%E9%9B%85%E5%9B%9B%E6%96%B9%E6%B0%B4%E4%B8%8A%E5%B8%82%E5%9C%BA%E5%8F%91%E7%94%9F%E4%B8%A5%E9%87%8D%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [公职人员被儿子举报出轨朋友妻子](https://www.baidu.com/s?wd=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%84%BF%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E6%9C%8B%E5%8F%8B%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [朝鲜第一艘战术核攻击潜艇下水](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E7%AC%AC%E4%B8%80%E8%89%98%E6%88%98%E6%9C%AF%E6%A0%B8%E6%94%BB%E5%87%BB%E6%BD%9C%E8%89%87%E4%B8%8B%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新人临下班去婚姻登记处领证被拒](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E4%B8%B4%E4%B8%8B%E7%8F%AD%E5%8E%BB%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%AE%B0%E5%A4%84%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [央行连续10月增持黄金 狂买近千亿](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E8%BF%9E%E7%BB%AD10%E6%9C%88%E5%A2%9E%E6%8C%81%E9%BB%84%E9%87%91+%E7%8B%82%E4%B9%B0%E8%BF%91%E5%8D%83%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [火炬传递看“浙”里](https://www.baidu.com/s?wd=%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E7%9C%8B%E2%80%9C%E6%B5%99%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [苹果两天市值蒸发1900亿美元](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E4%B8%A4%E5%A4%A9%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%911900%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [7岁艾滋病毒携带者父亲病亡母亲失踪](https://www.baidu.com/s?wd=7%E5%B2%81%E8%89%BE%E6%BB%8B%E7%97%85%E6%AF%92%E6%90%BA%E5%B8%A6%E8%80%85%E7%88%B6%E4%BA%B2%E7%97%85%E4%BA%A1%E6%AF%8D%E4%BA%B2%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [新人临下班去婚姻登记处领证被拒](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E4%B8%B4%E4%B8%8B%E7%8F%AD%E5%8E%BB%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%AE%B0%E5%A4%84%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [芭堤雅四方水上市场发生严重火灾](https://www.baidu.com/s?wd=%E8%8A%AD%E5%A0%A4%E9%9B%85%E5%9B%9B%E6%96%B9%E6%B0%B4%E4%B8%8A%E5%B8%82%E5%9C%BA%E5%8F%91%E7%94%9F%E4%B8%A5%E9%87%8D%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [公职人员被儿子举报出轨朋友妻子](https://www.baidu.com/s?wd=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%84%BF%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E6%9C%8B%E5%8F%8B%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [朝鲜第一艘战术核攻击潜艇下水](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E7%AC%AC%E4%B8%80%E8%89%98%E6%88%98%E6%9C%AF%E6%A0%B8%E6%94%BB%E5%87%BB%E6%BD%9C%E8%89%87%E4%B8%8B%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新人临下班去婚姻登记处领证被拒](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E4%B8%B4%E4%B8%8B%E7%8F%AD%E5%8E%BB%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%AE%B0%E5%A4%84%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [央行连续10月增持黄金 狂买近千亿](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E8%BF%9E%E7%BB%AD10%E6%9C%88%E5%A2%9E%E6%8C%81%E9%BB%84%E9%87%91+%E7%8B%82%E4%B9%B0%E8%BF%91%E5%8D%83%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
