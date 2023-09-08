@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 20:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 20:36:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [为什么上岸第一剑先斩意中人](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8A%E5%B2%B8%E7%AC%AC%E4%B8%80%E5%89%91%E5%85%88%E6%96%A9%E6%84%8F%E4%B8%AD%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [义乳女团](https://s.weibo.com/weibo?q=%E4%B9%89%E4%B9%B3%E5%A5%B3%E5%9B%A2&t=31&band_rank=6&Refer=top)<br />
 7. [金繁红玉侍卫](https://s.weibo.com/weibo?q=%E9%87%91%E7%B9%81%E7%BA%A2%E7%8E%89%E4%BE%8D%E5%8D%AB&t=31&band_rank=7&Refer=top)<br />
-8. [我课表出来了](https://s.weibo.com/weibo?q=%E6%88%91%E8%AF%BE%E8%A1%A8%E5%87%BA%E6%9D%A5%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [马龙vs林高远](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99vs%E6%9E%97%E9%AB%98%E8%BF%9C&t=31&band_rank=9&Refer=top)<br />
+8. [马龙vs林高远](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99vs%E6%9E%97%E9%AB%98%E8%BF%9C&t=31&band_rank=8&Refer=top)<br />
+9. [我课表出来了](https://s.weibo.com/weibo?q=%E6%88%91%E8%AF%BE%E8%A1%A8%E5%87%BA%E6%9D%A5%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
