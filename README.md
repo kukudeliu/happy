@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 20:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 20:27:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [义乳女团](https://s.weibo.com/weibo?q=%E4%B9%89%E4%B9%B3%E5%A5%B3%E5%9B%A2&t=31&band_rank=6&Refer=top)<br />
 7. [李子维是老了不是变野人了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E7%BB%B4%E6%98%AF%E8%80%81%E4%BA%86%E4%B8%8D%E6%98%AF%E5%8F%98%E9%87%8E%E4%BA%BA%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [哥哥3次劝学网瘾弟弟返校考上一本](https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A53%E6%AC%A1%E5%8A%9D%E5%AD%A6%E7%BD%91%E7%98%BE%E5%BC%9F%E5%BC%9F%E8%BF%94%E6%A0%A1%E8%80%83%E4%B8%8A%E4%B8%80%E6%9C%AC%23&t=31&band_rank=8&Refer=top)<br />
-9. [顾里孟宴臣天生一对](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E9%87%8C%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%A4%A9%E7%94%9F%E4%B8%80%E5%AF%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [金繁红玉侍卫](https://s.weibo.com/weibo?q=%E9%87%91%E7%B9%81%E7%BA%A2%E7%8E%89%E4%BE%8D%E5%8D%AB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
