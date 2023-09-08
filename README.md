@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 11:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 11:19:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [深圳暴雨红色预警全市停课](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [龚俊二闹周杰伦演唱会](https://www.baidu.com/s?wd=%E9%BE%9A%E4%BF%8A%E4%BA%8C%E9%97%B9%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子日抽百根烟啤酒当水喝患多种癌症](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%97%A5%E6%8A%BD%E7%99%BE%E6%A0%B9%E7%83%9F%E5%95%A4%E9%85%92%E5%BD%93%E6%B0%B4%E5%96%9D%E6%82%A3%E5%A4%9A%E7%A7%8D%E7%99%8C%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [内蒙古高压气体喷出事故已致10死3伤](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E9%AB%98%E5%8E%8B%E6%B0%94%E4%BD%93%E5%96%B7%E5%87%BA%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B410%E6%AD%BB3%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“发钱”鼓励生育是好方式吗？](https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%91%E9%92%B1%E2%80%9D%E9%BC%93%E5%8A%B1%E7%94%9F%E8%82%B2%E6%98%AF%E5%A5%BD%E6%96%B9%E5%BC%8F%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [平台下调抽成 司机称收入不升反降](https://www.baidu.com/s?wd=%E5%B9%B3%E5%8F%B0%E4%B8%8B%E8%B0%83%E6%8A%BD%E6%88%90+%E5%8F%B8%E6%9C%BA%E7%A7%B0%E6%94%B6%E5%85%A5%E4%B8%8D%E5%8D%87%E5%8F%8D%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [内蒙古高压气体喷出事故已致10死3伤](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E9%AB%98%E5%8E%8B%E6%B0%94%E4%BD%93%E5%96%B7%E5%87%BA%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B410%E6%AD%BB3%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [深圳暴雨红色预警全市停课](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [龚俊二闹周杰伦演唱会](https://www.baidu.com/s?wd=%E9%BE%9A%E4%BF%8A%E4%BA%8C%E9%97%B9%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子日抽百根烟啤酒当水喝患多种癌症](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%97%A5%E6%8A%BD%E7%99%BE%E6%A0%B9%E7%83%9F%E5%95%A4%E9%85%92%E5%BD%93%E6%B0%B4%E5%96%9D%E6%82%A3%E5%A4%9A%E7%A7%8D%E7%99%8C%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [内蒙古高压气体喷出事故已致10死3伤](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E9%AB%98%E5%8E%8B%E6%B0%94%E4%BD%93%E5%96%B7%E5%87%BA%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B410%E6%AD%BB3%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“发钱”鼓励生育是好方式吗？](https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%91%E9%92%B1%E2%80%9D%E9%BC%93%E5%8A%B1%E7%94%9F%E8%82%B2%E6%98%AF%E5%A5%BD%E6%96%B9%E5%BC%8F%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [平台下调抽成 司机称收入不升反降](https://www.baidu.com/s?wd=%E5%B9%B3%E5%8F%B0%E4%B8%8B%E8%B0%83%E6%8A%BD%E6%88%90+%E5%8F%B8%E6%9C%BA%E7%A7%B0%E6%94%B6%E5%85%A5%E4%B8%8D%E5%8D%87%E5%8F%8D%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [内蒙古高压气体喷出事故已致10死3伤](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E9%AB%98%E5%8E%8B%E6%B0%94%E4%BD%93%E5%96%B7%E5%87%BA%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B410%E6%AD%BB3%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
