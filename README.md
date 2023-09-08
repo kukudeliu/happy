@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 03:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 03:47:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [大学生贷款参加就业培训后自缢身亡](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%8F%82%E5%8A%A0%E5%B0%B1%E4%B8%9A%E5%9F%B9%E8%AE%AD%E5%90%8E%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [为什么上岸第一剑先斩意中人](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8A%E5%B2%B8%E7%AC%AC%E4%B8%80%E5%89%91%E5%85%88%E6%96%A9%E6%84%8F%E4%B8%AD%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [义乳女团](https://s.weibo.com/weibo?q=%E4%B9%89%E4%B9%B3%E5%A5%B3%E5%9B%A2&t=31&band_rank=7&Refer=top)<br />
-8. [11.4万人都知道盛阳失业了](https://s.weibo.com/weibo?q=%2311.4%E4%B8%87%E4%BA%BA%E9%83%BD%E7%9F%A5%E9%81%93%E7%9B%9B%E9%98%B3%E5%A4%B1%E4%B8%9A%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [云之羽一口气追到大结局](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E4%B8%80%E5%8F%A3%E6%B0%94%E8%BF%BD%E5%88%B0%E5%A4%A7%E7%BB%93%E5%B1%80%23&t=31&band_rank=9&Refer=top)<br />
+8. [云之羽一口气追到大结局](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E4%B8%80%E5%8F%A3%E6%B0%94%E8%BF%BD%E5%88%B0%E5%A4%A7%E7%BB%93%E5%B1%80%23&t=31&band_rank=8&Refer=top)<br />
+9. [11.4万人都知道盛阳失业了](https://s.weibo.com/weibo?q=%2311.4%E4%B8%87%E4%BA%BA%E9%83%BD%E7%9F%A5%E9%81%93%E7%9B%9B%E9%98%B3%E5%A4%B1%E4%B8%9A%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
