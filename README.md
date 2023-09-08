@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 14:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 14:07:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [“必须自觉拜人民为师”](https://www.baidu.com/s?wd=%E2%80%9C%E5%BF%85%E9%A1%BB%E8%87%AA%E8%A7%89%E6%8B%9C%E4%BA%BA%E6%B0%91%E4%B8%BA%E5%B8%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [东莞遇强降雨隧道成河 车在水中自燃](https://www.baidu.com/s?wd=%E4%B8%9C%E8%8E%9E%E9%81%87%E5%BC%BA%E9%99%8D%E9%9B%A8%E9%9A%A7%E9%81%93%E6%88%90%E6%B2%B3+%E8%BD%A6%E5%9C%A8%E6%B0%B4%E4%B8%AD%E8%87%AA%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [香港宣布极端情况至少维持至下午6时](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%AE%A3%E5%B8%83%E6%9E%81%E7%AB%AF%E6%83%85%E5%86%B5%E8%87%B3%E5%B0%91%E7%BB%B4%E6%8C%81%E8%87%B3%E4%B8%8B%E5%8D%886%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [1207名缅北涉电诈嫌疑人移交中方](https://www.baidu.com/s?wd=1207%E5%90%8D%E7%BC%85%E5%8C%97%E6%B6%89%E7%94%B5%E8%AF%88%E5%AB%8C%E7%96%91%E4%BA%BA%E7%A7%BB%E4%BA%A4%E4%B8%AD%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [火炬传递看“浙”里](https://www.baidu.com/s?wd=%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E7%9C%8B%E2%80%9C%E6%B5%99%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [深圳暴雨打破1952年以来极值](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8%E6%89%93%E7%A0%B41952%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [“必须自觉拜人民为师”](https://www.baidu.com/s?wd=%E2%80%9C%E5%BF%85%E9%A1%BB%E8%87%AA%E8%A7%89%E6%8B%9C%E4%BA%BA%E6%B0%91%E4%B8%BA%E5%B8%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [东莞遇强降雨隧道成河 车在水中自燃](https://www.baidu.com/s?wd=%E4%B8%9C%E8%8E%9E%E9%81%87%E5%BC%BA%E9%99%8D%E9%9B%A8%E9%9A%A7%E9%81%93%E6%88%90%E6%B2%B3+%E8%BD%A6%E5%9C%A8%E6%B0%B4%E4%B8%AD%E8%87%AA%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [香港宣布极端情况至少维持至下午6时](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%AE%A3%E5%B8%83%E6%9E%81%E7%AB%AF%E6%83%85%E5%86%B5%E8%87%B3%E5%B0%91%E7%BB%B4%E6%8C%81%E8%87%B3%E4%B8%8B%E5%8D%886%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [1207名缅北涉电诈嫌疑人移交中方](https://www.baidu.com/s?wd=1207%E5%90%8D%E7%BC%85%E5%8C%97%E6%B6%89%E7%94%B5%E8%AF%88%E5%AB%8C%E7%96%91%E4%BA%BA%E7%A7%BB%E4%BA%A4%E4%B8%AD%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [火炬传递看“浙”里](https://www.baidu.com/s?wd=%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E7%9C%8B%E2%80%9C%E6%B5%99%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [深圳暴雨打破1952年以来极值](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8%E6%89%93%E7%A0%B41952%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
