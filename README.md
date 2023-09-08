@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 03:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 04:00:01</h4></div>
 
 > 微博  
 
-1. [王源说希望赵英俊能为自己感到骄傲](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E8%AF%B4%E5%B8%8C%E6%9C%9B%E8%B5%B5%E8%8B%B1%E4%BF%8A%E8%83%BD%E4%B8%BA%E8%87%AA%E5%B7%B1%E6%84%9F%E5%88%B0%E9%AA%84%E5%82%B2%23&t=31&band_rank=1&Refer=top)<br />
-2. [阿信演唱会吸氧](https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%B8%E6%B0%A7%23&t=31&band_rank=2&Refer=top)<br />
+1. [阿信演唱会吸氧](https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%B8%E6%B0%A7%23&t=31&band_rank=1&Refer=top)<br />
+2. [王源说希望赵英俊能为自己感到骄傲](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E8%AF%B4%E5%B8%8C%E6%9C%9B%E8%B5%B5%E8%8B%B1%E4%BF%8A%E8%83%BD%E4%B8%BA%E8%87%AA%E5%B7%B1%E6%84%9F%E5%88%B0%E9%AA%84%E5%82%B2%23&t=31&band_rank=2&Refer=top)<br />
 3. [来杭州看看梦里江南的模样](https://s.weibo.com/weibo?q=%23%E6%9D%A5%E6%9D%AD%E5%B7%9E%E7%9C%8B%E7%9C%8B%E6%A2%A6%E9%87%8C%E6%B1%9F%E5%8D%97%E7%9A%84%E6%A8%A1%E6%A0%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [周杰伦演唱会受伤](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%97%E4%BC%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [大学生贷款参加就业培训后自缢身亡](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%8F%82%E5%8A%A0%E5%B0%B1%E4%B8%9A%E5%9F%B9%E8%AE%AD%E5%90%8E%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
