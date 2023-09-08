@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 08:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-08 08:18:01</h4></div>
 
 > 微博  
 
@@ -7,7 +7,7 @@
 3. [直击杭州亚运会](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%87%BB%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [深圳泄洪](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%B3%84%E6%B4%AA%23&t=31&band_rank=4&Refer=top)<br />
 5. [香港暴雨](https://s.weibo.com/weibo?q=%E9%A6%99%E6%B8%AF%E6%9A%B4%E9%9B%A8&t=31&band_rank=5&Refer=top)<br />
-6. [广州停课](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E5%81%9C%E8%AF%BE&t=31&band_rank=6&Refer=top)<br />
+6. [广州停课](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%81%9C%E8%AF%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [被困横店后我成了所有男主的白月光](https://s.weibo.com/weibo?q=%E8%A2%AB%E5%9B%B0%E6%A8%AA%E5%BA%97%E5%90%8E%E6%88%91%E6%88%90%E4%BA%86%E6%89%80%E6%9C%89%E7%94%B7%E4%B8%BB%E7%9A%84%E7%99%BD%E6%9C%88%E5%85%89&t=31&band_rank=7&Refer=top)<br />
 8. [公职人员被儿子举报出轨停职](https://s.weibo.com/weibo?q=%23%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%84%BF%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E5%81%9C%E8%81%8C%23&t=31&band_rank=8&Refer=top)<br />
 9. [脱口秀演员称城市越穷事越多](https://s.weibo.com/weibo?q=%23%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E7%A7%B0%E5%9F%8E%E5%B8%82%E8%B6%8A%E7%A9%B7%E4%BA%8B%E8%B6%8A%E5%A4%9A%23&t=31&band_rank=9&Refer=top)<br />
