@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 07:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 07:28:02</h4></div>
 
 > 微博  
 
-1. [11.4万人都知道盛阳失业了](https://s.weibo.com/weibo?q=%2311.4%E4%B8%87%E4%BA%BA%E9%83%BD%E7%9F%A5%E9%81%93%E7%9B%9B%E9%98%B3%E5%A4%B1%E4%B8%9A%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [公职人员理发不满意举报店家偷税漏税](https://s.weibo.com/weibo?q=%23%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E7%90%86%E5%8F%91%E4%B8%8D%E6%BB%A1%E6%84%8F%E4%B8%BE%E6%8A%A5%E5%BA%97%E5%AE%B6%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23&t=31&band_rank=2&Refer=top)<br />
+1. [公职人员理发不满意举报店家偷税漏税](https://s.weibo.com/weibo?q=%23%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E7%90%86%E5%8F%91%E4%B8%8D%E6%BB%A1%E6%84%8F%E4%B8%BE%E6%8A%A5%E5%BA%97%E5%AE%B6%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23&t=31&band_rank=1&Refer=top)<br />
+2. [11.4万人都知道盛阳失业了](https://s.weibo.com/weibo?q=%2311.4%E4%B8%87%E4%BA%BA%E9%83%BD%E7%9F%A5%E9%81%93%E7%9B%9B%E9%98%B3%E5%A4%B1%E4%B8%9A%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [来杭州看看梦里江南的模样](https://s.weibo.com/weibo?q=%23%E6%9D%A5%E6%9D%AD%E5%B7%9E%E7%9C%8B%E7%9C%8B%E6%A2%A6%E9%87%8C%E6%B1%9F%E5%8D%97%E7%9A%84%E6%A8%A1%E6%A0%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [周杰伦演唱会受伤](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%97%E4%BC%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [大学生贷款参加就业培训后自缢身亡](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%8F%82%E5%8A%A0%E5%B0%B1%E4%B8%9A%E5%9F%B9%E8%AE%AD%E5%90%8E%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
