@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 03:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 03:24:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [女子胸前腰部绑藏15条活体蛇入境](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%83%B8%E5%89%8D%E8%85%B0%E9%83%A8%E7%BB%91%E8%97%8F15%E6%9D%A1%E6%B4%BB%E4%BD%93%E8%9B%87%E5%85%A5%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [触摸亚运之城的文化脉动](https://www.baidu.com/s?wd=%E8%A7%A6%E6%91%B8%E4%BA%9A%E8%BF%90%E4%B9%8B%E5%9F%8E%E7%9A%84%E6%96%87%E5%8C%96%E8%84%89%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [台风鸳鸯接近日本 福岛等地房屋被淹](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E9%B8%B3%E9%B8%AF%E6%8E%A5%E8%BF%91%E6%97%A5%E6%9C%AC+%E7%A6%8F%E5%B2%9B%E7%AD%89%E5%9C%B0%E6%88%BF%E5%B1%8B%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [18岁男生开学失联已9日 亲属发声](https://www.baidu.com/s?wd=18%E5%B2%81%E7%94%B7%E7%94%9F%E5%BC%80%E5%AD%A6%E5%A4%B1%E8%81%94%E5%B7%B29%E6%97%A5+%E4%BA%B2%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [外卖员被别车喷辣椒水？警方通报](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB%E5%88%AB%E8%BD%A6%E5%96%B7%E8%BE%A3%E6%A4%92%E6%B0%B4%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子同时交往30多名女子行骗](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%8C%E6%97%B6%E4%BA%A4%E5%BE%8030%E5%A4%9A%E5%90%8D%E5%A5%B3%E5%AD%90%E8%A1%8C%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [胡锡进：四川工商学院声明是种悲哀](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E5%9B%9B%E5%B7%9D%E5%B7%A5%E5%95%86%E5%AD%A6%E9%99%A2%E5%A3%B0%E6%98%8E%E6%98%AF%E7%A7%8D%E6%82%B2%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [陈建州范玮琪看王力宏演唱会](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E5%B7%9E%E8%8C%83%E7%8E%AE%E7%90%AA%E7%9C%8B%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马斯克和女高管所生双胞胎曝光](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%92%8C%E5%A5%B3%E9%AB%98%E7%AE%A1%E6%89%80%E7%94%9F%E5%8F%8C%E8%83%9E%E8%83%8E%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [未收净中药遭哄抢？村支书澄清](https://www.baidu.com/s?wd=%E6%9C%AA%E6%94%B6%E5%87%80%E4%B8%AD%E8%8D%AF%E9%81%AD%E5%93%84%E6%8A%A2%EF%BC%9F%E6%9D%91%E6%94%AF%E4%B9%A6%E6%BE%84%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [女子胸前腰部绑藏15条活体蛇入境](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%83%B8%E5%89%8D%E8%85%B0%E9%83%A8%E7%BB%91%E8%97%8F15%E6%9D%A1%E6%B4%BB%E4%BD%93%E8%9B%87%E5%85%A5%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [触摸亚运之城的文化脉动](https://www.baidu.com/s?wd=%E8%A7%A6%E6%91%B8%E4%BA%9A%E8%BF%90%E4%B9%8B%E5%9F%8E%E7%9A%84%E6%96%87%E5%8C%96%E8%84%89%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [台风鸳鸯接近日本 福岛等地房屋被淹](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E9%B8%B3%E9%B8%AF%E6%8E%A5%E8%BF%91%E6%97%A5%E6%9C%AC+%E7%A6%8F%E5%B2%9B%E7%AD%89%E5%9C%B0%E6%88%BF%E5%B1%8B%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [18岁男生开学失联已9日 亲属发声](https://www.baidu.com/s?wd=18%E5%B2%81%E7%94%B7%E7%94%9F%E5%BC%80%E5%AD%A6%E5%A4%B1%E8%81%94%E5%B7%B29%E6%97%A5+%E4%BA%B2%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [外卖员被别车喷辣椒水？警方通报](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB%E5%88%AB%E8%BD%A6%E5%96%B7%E8%BE%A3%E6%A4%92%E6%B0%B4%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子同时交往30多名女子行骗](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%8C%E6%97%B6%E4%BA%A4%E5%BE%8030%E5%A4%9A%E5%90%8D%E5%A5%B3%E5%AD%90%E8%A1%8C%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [胡锡进：四川工商学院声明是种悲哀](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E5%9B%9B%E5%B7%9D%E5%B7%A5%E5%95%86%E5%AD%A6%E9%99%A2%E5%A3%B0%E6%98%8E%E6%98%AF%E7%A7%8D%E6%82%B2%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [陈建州范玮琪看王力宏演唱会](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E5%B7%9E%E8%8C%83%E7%8E%AE%E7%90%AA%E7%9C%8B%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马斯克和女高管所生双胞胎曝光](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%92%8C%E5%A5%B3%E9%AB%98%E7%AE%A1%E6%89%80%E7%94%9F%E5%8F%8C%E8%83%9E%E8%83%8E%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [未收净中药遭哄抢？村支书澄清](https://www.baidu.com/s?wd=%E6%9C%AA%E6%94%B6%E5%87%80%E4%B8%AD%E8%8D%AF%E9%81%AD%E5%93%84%E6%8A%A2%EF%BC%9F%E6%9D%91%E6%94%AF%E4%B9%A6%E6%BE%84%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
