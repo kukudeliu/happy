@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 09:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 09:28:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [张雪峰效应在班委竞选体现了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%95%88%E5%BA%94%E5%9C%A8%E7%8F%AD%E5%A7%94%E7%AB%9E%E9%80%89%E4%BD%93%E7%8E%B0%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [李在明已绝食抗议9天](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B7%B2%E7%BB%9D%E9%A3%9F%E6%8A%97%E8%AE%AE9%E5%A4%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [男子河边用钢筋磨针坚持2000多天](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B2%B3%E8%BE%B9%E7%94%A8%E9%92%A2%E7%AD%8B%E7%A3%A8%E9%92%88%E5%9D%9A%E6%8C%812000%E5%A4%9A%E5%A4%A9%23&t=31&band_rank=6&Refer=top)<br />
-7. [黄晓明被张小斐感动落泪](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E8%A2%AB%E5%BC%A0%E5%B0%8F%E6%96%90%E6%84%9F%E5%8A%A8%E8%90%BD%E6%B3%AA%23&t=31&band_rank=7&Refer=top)<br />
+7. [教师妻子听说丈夫给学生捐骨髓当场同意](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E5%A6%BB%E5%AD%90%E5%90%AC%E8%AF%B4%E4%B8%88%E5%A4%AB%E7%BB%99%E5%AD%A6%E7%94%9F%E6%8D%90%E9%AA%A8%E9%AB%93%E5%BD%93%E5%9C%BA%E5%90%8C%E6%84%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [大学生贷款参加就业培训后自缢身亡](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%8F%82%E5%8A%A0%E5%B0%B1%E4%B8%9A%E5%9F%B9%E8%AE%AD%E5%90%8E%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [教师妻子听说丈夫给学生捐骨髓当场同意](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E5%A6%BB%E5%AD%90%E5%90%AC%E8%AF%B4%E4%B8%88%E5%A4%AB%E7%BB%99%E5%AD%A6%E7%94%9F%E6%8D%90%E9%AA%A8%E9%AB%93%E5%BD%93%E5%9C%BA%E5%90%8C%E6%84%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [黄晓明被张小斐感动落泪](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E8%A2%AB%E5%BC%A0%E5%B0%8F%E6%96%90%E6%84%9F%E5%8A%A8%E8%90%BD%E6%B3%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
