@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 00:09:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 00:10:02</h4></div>
 
 > 微博  
 
 1. [华晨宇接受法师称号](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%8E%A5%E5%8F%97%E6%B3%95%E5%B8%88%E7%A7%B0%E5%8F%B7%23&t=31&band_rank=1&Refer=top)<br />
-2. [李荣浩演唱会后台收到100个烧饼夹里脊](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%8F%B0%E6%94%B6%E5%88%B0100%E4%B8%AA%E7%83%A7%E9%A5%BC%E5%A4%B9%E9%87%8C%E8%84%8A%23&t=31&band_rank=2&Refer=top)<br />
+2. [教师节](https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%8A%82&t=31&band_rank=2&Refer=top)<br />
 3. [夜西湖点燃亚运之夜](https://s.weibo.com/weibo?q=%23%E5%A4%9C%E8%A5%BF%E6%B9%96%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=3&Refer=top)<br />
-4. [教师节](https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%8A%82&t=31&band_rank=4&Refer=top)<br />
+4. [李荣浩演唱会后台收到100个烧饼夹里脊](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%8F%B0%E6%94%B6%E5%88%B0100%E4%B8%AA%E7%83%A7%E9%A5%BC%E5%A4%B9%E9%87%8C%E8%84%8A%23&t=31&band_rank=4&Refer=top)<br />
 5. [计划有变 准备夺冠](https://s.weibo.com/weibo?q=%E8%AE%A1%E5%88%92%E6%9C%89%E5%8F%98%20%E5%87%86%E5%A4%87%E5%A4%BA%E5%86%A0&t=31&band_rank=5&Refer=top)<br />
 6. [王俊凯 俊昇文化](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E4%BF%8A%E6%98%87%E6%96%87%E5%8C%96&t=31&band_rank=6&Refer=top)<br />
 7. [周杰伦能不能给张凌赫一首歌的时间](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%83%BD%E4%B8%8D%E8%83%BD%E7%BB%99%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%B8%80%E9%A6%96%E6%AD%8C%E7%9A%84%E6%97%B6%E9%97%B4%23&t=31&band_rank=7&Refer=top)<br />
