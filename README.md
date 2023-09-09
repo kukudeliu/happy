@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 01:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 01:53:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [你还在买余额宝吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BF%98%E5%9C%A8%E4%B9%B0%E4%BD%99%E9%A2%9D%E5%AE%9D%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [张杰觉得自己自恋时期是个疯子](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E8%87%AA%E6%81%8B%E6%97%B6%E6%9C%9F%E6%98%AF%E4%B8%AA%E7%96%AF%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [王俊凯 俊昇文化](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E4%BF%8A%E6%98%87%E6%96%87%E5%8C%96&t=31&band_rank=6&Refer=top)<br />
-7. [周杰伦能不能给张凌赫一首歌的时间](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%83%BD%E4%B8%8D%E8%83%BD%E7%BB%99%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%B8%80%E9%A6%96%E6%AD%8C%E7%9A%84%E6%97%B6%E9%97%B4%23&t=31&band_rank=7&Refer=top)<br />
+7. [异人之下周深别唱了](https://s.weibo.com/weibo?q=%23%E5%BC%82%E4%BA%BA%E4%B9%8B%E4%B8%8B%E5%91%A8%E6%B7%B1%E5%88%AB%E5%94%B1%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [邓稼先和奥本海默的对比](https://s.weibo.com/weibo?q=%E9%82%93%E7%A8%BC%E5%85%88%E5%92%8C%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E7%9A%84%E5%AF%B9%E6%AF%94&t=31&band_rank=8&Refer=top)<br />
 9. [10年米粉换用iPhone是什么体验](https://s.weibo.com/weibo?q=10%E5%B9%B4%E7%B1%B3%E7%B2%89%E6%8D%A2%E7%94%A8iPhone%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&t=31&band_rank=9&Refer=top)<br />
 
