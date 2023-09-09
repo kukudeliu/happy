@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 22:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 22:15:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [华晨宇接受法师称号](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%8E%A5%E5%8F%97%E6%B3%95%E5%B8%88%E7%A7%B0%E5%8F%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [成龙周杰伦 千里之外](https://s.weibo.com/weibo?q=%E6%88%90%E9%BE%99%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E5%8D%83%E9%87%8C%E4%B9%8B%E5%A4%96&t=31&band_rank=6&Refer=top)<br />
 7. [王力宏演唱会](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
-8. [摩洛哥地震遇难人数上升至1037人](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E5%9C%B0%E9%9C%87%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E4%B8%8A%E5%8D%87%E8%87%B31037%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [李帅受伤](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B8%85%E5%8F%97%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
+8. [李帅受伤](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B8%85%E5%8F%97%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
+9. [摩洛哥地震遇难人数上升至1037人](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E5%9C%B0%E9%9C%87%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E4%B8%8A%E5%8D%87%E8%87%B31037%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
