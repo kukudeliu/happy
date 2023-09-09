@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 14:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 14:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高考时被关禁闭网红狗去世](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%97%B6%E8%A2%AB%E5%85%B3%E7%A6%81%E9%97%AD%E7%BD%91%E7%BA%A2%E7%8B%97%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [女婴输液后尖叫昏迷成脑萎缩](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A9%B4%E8%BE%93%E6%B6%B2%E5%90%8E%E5%B0%96%E5%8F%AB%E6%98%8F%E8%BF%B7%E6%88%90%E8%84%91%E8%90%8E%E7%BC%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [PPT发明者去世](https://s.weibo.com/weibo?q=%23PPT%E5%8F%91%E6%98%8E%E8%80%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [王俊凯 巴黎时装周](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8&t=31&band_rank=9&Refer=top)<br />
+9. [邓为风度10月刊双封面](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E9%A3%8E%E5%BA%A610%E6%9C%88%E5%88%8A%E5%8F%8C%E5%B0%81%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
