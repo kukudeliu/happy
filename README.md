@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 18:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 18:30:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [摩洛哥地震遇难人数升至820人](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E5%9C%B0%E9%9C%87%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B3820%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [男老师收到花边走边拍开心炫耀](https://s.weibo.com/weibo?q=%23%E7%94%B7%E8%80%81%E5%B8%88%E6%94%B6%E5%88%B0%E8%8A%B1%E8%BE%B9%E8%B5%B0%E8%BE%B9%E6%8B%8D%E5%BC%80%E5%BF%83%E7%82%AB%E8%80%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [男子想和聋哑女友结婚领证被拒](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%83%B3%E5%92%8C%E8%81%8B%E5%93%91%E5%A5%B3%E5%8F%8B%E7%BB%93%E5%A9%9A%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [很喜欢去有风的地方这段表白](https://s.weibo.com/weibo?q=%E5%BE%88%E5%96%9C%E6%AC%A2%E5%8E%BB%E6%9C%89%E9%A3%8E%E7%9A%84%E5%9C%B0%E6%96%B9%E8%BF%99%E6%AE%B5%E8%A1%A8%E7%99%BD&t=31&band_rank=9&Refer=top)<br />
+9. [陶喆 melody](https://s.weibo.com/weibo?q=%E9%99%B6%E5%96%86%20melody&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
