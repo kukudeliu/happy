@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 10:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 10:03:01</h4></div>
 
 > 微博  
 
@@ -21,10 +21,10 @@
 2. [男子河边用钢筋磨针坚持2000多天](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B2%B3%E8%BE%B9%E7%94%A8%E9%92%A2%E7%AD%8B%E7%A3%A8%E9%92%88%E5%9D%9A%E6%8C%812000%E5%A4%9A%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [经纪公司回应周杰伦演唱会受伤](https://www.baidu.com/s?wd=%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“薪火”相传 点燃亚运激情](https://www.baidu.com/s?wd=%E2%80%9C%E8%96%AA%E7%81%AB%E2%80%9D%E7%9B%B8%E4%BC%A0+%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E6%BF%80%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [大学生贷款参加就业培训后自缢身亡](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%8F%82%E5%8A%A0%E5%B0%B1%E4%B8%9A%E5%9F%B9%E8%AE%AD%E5%90%8E%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [保洁扔掉业主鞋遭索赔后轻生](https://www.baidu.com/s?wd=%E4%BF%9D%E6%B4%81%E6%89%94%E6%8E%89%E4%B8%9A%E4%B8%BB%E9%9E%8B%E9%81%AD%E7%B4%A2%E8%B5%94%E5%90%8E%E8%BD%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [太原一家长群筹五千元给老师买礼物](https://www.baidu.com/s?wd=%E5%A4%AA%E5%8E%9F%E4%B8%80%E5%AE%B6%E9%95%BF%E7%BE%A4%E7%AD%B9%E4%BA%94%E5%8D%83%E5%85%83%E7%BB%99%E8%80%81%E5%B8%88%E4%B9%B0%E7%A4%BC%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [亮证威胁理发店女子被处分 店主回应](https://www.baidu.com/s?wd=%E4%BA%AE%E8%AF%81%E5%A8%81%E8%83%81%E7%90%86%E5%8F%91%E5%BA%97%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%A4%84%E5%88%86+%E5%BA%97%E4%B8%BB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [保洁扔掉业主鞋遭索赔后轻生](https://www.baidu.com/s?wd=%E4%BF%9D%E6%B4%81%E6%89%94%E6%8E%89%E4%B8%9A%E4%B8%BB%E9%9E%8B%E9%81%AD%E7%B4%A2%E8%B5%94%E5%90%8E%E8%BD%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大学生贷款参加就业培训后自缢身亡](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%8F%82%E5%8A%A0%E5%B0%B1%E4%B8%9A%E5%9F%B9%E8%AE%AD%E5%90%8E%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西双版纳登革热致多人死亡?官方辟谣](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E7%99%BB%E9%9D%A9%E7%83%AD%E8%87%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1%3F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -33,8 +33,8 @@
 2. [男子河边用钢筋磨针坚持2000多天](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B2%B3%E8%BE%B9%E7%94%A8%E9%92%A2%E7%AD%8B%E7%A3%A8%E9%92%88%E5%9D%9A%E6%8C%812000%E5%A4%9A%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [经纪公司回应周杰伦演唱会受伤](https://www.baidu.com/s?wd=%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“薪火”相传 点燃亚运激情](https://www.baidu.com/s?wd=%E2%80%9C%E8%96%AA%E7%81%AB%E2%80%9D%E7%9B%B8%E4%BC%A0+%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E6%BF%80%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [大学生贷款参加就业培训后自缢身亡](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%8F%82%E5%8A%A0%E5%B0%B1%E4%B8%9A%E5%9F%B9%E8%AE%AD%E5%90%8E%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [保洁扔掉业主鞋遭索赔后轻生](https://www.baidu.com/s?wd=%E4%BF%9D%E6%B4%81%E6%89%94%E6%8E%89%E4%B8%9A%E4%B8%BB%E9%9E%8B%E9%81%AD%E7%B4%A2%E8%B5%94%E5%90%8E%E8%BD%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [太原一家长群筹五千元给老师买礼物](https://www.baidu.com/s?wd=%E5%A4%AA%E5%8E%9F%E4%B8%80%E5%AE%B6%E9%95%BF%E7%BE%A4%E7%AD%B9%E4%BA%94%E5%8D%83%E5%85%83%E7%BB%99%E8%80%81%E5%B8%88%E4%B9%B0%E7%A4%BC%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [亮证威胁理发店女子被处分 店主回应](https://www.baidu.com/s?wd=%E4%BA%AE%E8%AF%81%E5%A8%81%E8%83%81%E7%90%86%E5%8F%91%E5%BA%97%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%A4%84%E5%88%86+%E5%BA%97%E4%B8%BB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [保洁扔掉业主鞋遭索赔后轻生](https://www.baidu.com/s?wd=%E4%BF%9D%E6%B4%81%E6%89%94%E6%8E%89%E4%B8%9A%E4%B8%BB%E9%9E%8B%E9%81%AD%E7%B4%A2%E8%B5%94%E5%90%8E%E8%BD%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大学生贷款参加就业培训后自缢身亡](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%8F%82%E5%8A%A0%E5%B0%B1%E4%B8%9A%E5%9F%B9%E8%AE%AD%E5%90%8E%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西双版纳登革热致多人死亡?官方辟谣](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E7%99%BB%E9%9D%A9%E7%83%AD%E8%87%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1%3F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
