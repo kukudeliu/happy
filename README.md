@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 18:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 18:56:01</h4></div>
 
 > 微博  
 
-1. [虞书欣 THE9演唱你会来吗](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20THE9%E6%BC%94%E5%94%B1%E4%BD%A0%E4%BC%9A%E6%9D%A5%E5%90%97&t=31&band_rank=1&Refer=top)<br />
+1. [陶喆 melody](https://s.weibo.com/weibo?q=%E9%99%B6%E5%96%86%20melody&t=31&band_rank=1&Refer=top)<br />
 2. [妈妈第一次自己坐地铁女儿偷偷跟着](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%87%AA%E5%B7%B1%E5%9D%90%E5%9C%B0%E9%93%81%E5%A5%B3%E5%84%BF%E5%81%B7%E5%81%B7%E8%B7%9F%E7%9D%80%23&t=31&band_rank=2&Refer=top)<br />
 3. [一定要会的急救知识合集](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%9A%E8%A6%81%E4%BC%9A%E7%9A%84%E6%80%A5%E6%95%91%E7%9F%A5%E8%AF%86%E5%90%88%E9%9B%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [陶喆 melody](https://s.weibo.com/weibo?q=%E9%99%B6%E5%96%86%20melody&t=31&band_rank=4&Refer=top)<br />
+4. [虞书欣 THE9演唱你会来吗](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20THE9%E6%BC%94%E5%94%B1%E4%BD%A0%E4%BC%9A%E6%9D%A5%E5%90%97&t=31&band_rank=4&Refer=top)<br />
 5. [4岁女孩教师节手提五花肉送老师](https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%95%99%E5%B8%88%E8%8A%82%E6%89%8B%E6%8F%90%E4%BA%94%E8%8A%B1%E8%82%89%E9%80%81%E8%80%81%E5%B8%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [摩洛哥地震遇难人数升至820人](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E5%9C%B0%E9%9C%87%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B3820%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [男老师收到花边走边拍开心炫耀](https://s.weibo.com/weibo?q=%23%E7%94%B7%E8%80%81%E5%B8%88%E6%94%B6%E5%88%B0%E8%8A%B1%E8%BE%B9%E8%B5%B0%E8%BE%B9%E6%8B%8D%E5%BC%80%E5%BF%83%E7%82%AB%E8%80%80%23&t=31&band_rank=7&Refer=top)<br />
