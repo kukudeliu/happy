@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 10:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 10:17:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [公职人员理发不满意举报店家偷税漏税](https://s.weibo.com/weibo?q=%23%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E7%90%86%E5%8F%91%E4%B8%8D%E6%BB%A1%E6%84%8F%E4%B8%BE%E6%8A%A5%E5%BA%97%E5%AE%B6%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [井胧回应被海陆戳鼻孔](https://s.weibo.com/weibo?q=%23%E4%BA%95%E8%83%A7%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%B5%B7%E9%99%86%E6%88%B3%E9%BC%BB%E5%AD%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [李在明已绝食抗议9天](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B7%B2%E7%BB%9D%E9%A3%9F%E6%8A%97%E8%AE%AE9%E5%A4%A9%23&t=31&band_rank=7&Refer=top)<br />
-8. [广东香港世纪暴雨台风只是表层原因](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E9%A6%99%E6%B8%AF%E4%B8%96%E7%BA%AA%E6%9A%B4%E9%9B%A8%E5%8F%B0%E9%A3%8E%E5%8F%AA%E6%98%AF%E8%A1%A8%E5%B1%82%E5%8E%9F%E5%9B%A0&t=31&band_rank=8&Refer=top)<br />
-9. [00后交警上班了](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E4%BA%A4%E8%AD%A6%E4%B8%8A%E7%8F%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [00后交警上班了](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E4%BA%A4%E8%AD%A6%E4%B8%8A%E7%8F%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [广东香港世纪暴雨台风只是表层原因](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E9%A6%99%E6%B8%AF%E4%B8%96%E7%BA%AA%E6%9A%B4%E9%9B%A8%E5%8F%B0%E9%A3%8E%E5%8F%AA%E6%98%AF%E8%A1%A8%E5%B1%82%E5%8E%9F%E5%9B%A0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
