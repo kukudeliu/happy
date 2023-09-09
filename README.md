@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 10:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 10:05:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [公职人员理发不满意举报店家偷税漏税](https://s.weibo.com/weibo?q=%23%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E7%90%86%E5%8F%91%E4%B8%8D%E6%BB%A1%E6%84%8F%E4%B8%BE%E6%8A%A5%E5%BA%97%E5%AE%B6%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [李在明已绝食抗议9天](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B7%B2%E7%BB%9D%E9%A3%9F%E6%8A%97%E8%AE%AE9%E5%A4%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [广东香港世纪暴雨台风只是表层原因](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E9%A6%99%E6%B8%AF%E4%B8%96%E7%BA%AA%E6%9A%B4%E9%9B%A8%E5%8F%B0%E9%A3%8E%E5%8F%AA%E6%98%AF%E8%A1%A8%E5%B1%82%E5%8E%9F%E5%9B%A0&t=31&band_rank=7&Refer=top)<br />
-8. [大学生贷款参加就业培训后自缢身亡](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%8F%82%E5%8A%A0%E5%B0%B1%E4%B8%9A%E5%9F%B9%E8%AE%AD%E5%90%8E%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子河边用钢筋磨针坚持2000多天](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B2%B3%E8%BE%B9%E7%94%A8%E9%92%A2%E7%AD%8B%E7%A3%A8%E9%92%88%E5%9D%9A%E6%8C%812000%E5%A4%9A%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
+8. [男子河边用钢筋磨针坚持2000多天](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B2%B3%E8%BE%B9%E7%94%A8%E9%92%A2%E7%AD%8B%E7%A3%A8%E9%92%88%E5%9D%9A%E6%8C%812000%E5%A4%9A%E5%A4%A9%23&t=31&band_rank=8&Refer=top)<br />
+9. [大学生贷款参加就业培训后自缢身亡](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%8F%82%E5%8A%A0%E5%B0%B1%E4%B8%9A%E5%9F%B9%E8%AE%AD%E5%90%8E%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
