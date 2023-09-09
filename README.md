@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 19:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 19:01:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [4岁女孩教师节手提五花肉送老师](https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%95%99%E5%B8%88%E8%8A%82%E6%89%8B%E6%8F%90%E4%BA%94%E8%8A%B1%E8%82%89%E9%80%81%E8%80%81%E5%B8%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [蔡文静劝女孩别被偶像剧骗了](https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E5%8A%9D%E5%A5%B3%E5%AD%A9%E5%88%AB%E8%A2%AB%E5%81%B6%E5%83%8F%E5%89%A7%E9%AA%97%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [男老师收到花边走边拍开心炫耀](https://s.weibo.com/weibo?q=%23%E7%94%B7%E8%80%81%E5%B8%88%E6%94%B6%E5%88%B0%E8%8A%B1%E8%BE%B9%E8%B5%B0%E8%BE%B9%E6%8B%8D%E5%BC%80%E5%BF%83%E7%82%AB%E8%80%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [摩洛哥地震遇难人数升至820人](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E5%9C%B0%E9%9C%87%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B3820%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [学生不订奶要开县级医院以上诊断证明](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E4%B8%8D%E8%AE%A2%E5%A5%B6%E8%A6%81%E5%BC%80%E5%8E%BF%E7%BA%A7%E5%8C%BB%E9%99%A2%E4%BB%A5%E4%B8%8A%E8%AF%8A%E6%96%AD%E8%AF%81%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
+8. [学生不订奶要开县级医院以上诊断证明](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E4%B8%8D%E8%AE%A2%E5%A5%B6%E8%A6%81%E5%BC%80%E5%8E%BF%E7%BA%A7%E5%8C%BB%E9%99%A2%E4%BB%A5%E4%B8%8A%E8%AF%8A%E6%96%AD%E8%AF%81%E6%98%8E%23&t=31&band_rank=8&Refer=top)<br />
+9. [摩洛哥地震遇难人数升至820人](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E5%9C%B0%E9%9C%87%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B3820%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
