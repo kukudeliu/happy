@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 21:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 21:55:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [触摸亚运之城的文化脉动](https://www.baidu.com/s?wd=%E8%A7%A6%E6%91%B8%E4%BA%9A%E8%BF%90%E4%B9%8B%E5%9F%8E%E7%9A%84%E6%96%87%E5%8C%96%E8%84%89%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成龙周杰伦合唱千里之外](https://www.baidu.com/s?wd=%E6%88%90%E9%BE%99%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%90%88%E5%94%B1%E5%8D%83%E9%87%8C%E4%B9%8B%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡锡进：四川工商学院声明是种悲哀](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E5%9B%9B%E5%B7%9D%E5%B7%A5%E5%95%86%E5%AD%A6%E9%99%A2%E5%A3%B0%E6%98%8E%E6%98%AF%E7%A7%8D%E6%82%B2%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [48岁保安猝死 生前超190天未休假](https://www.baidu.com/s?wd=48%E5%B2%81%E4%BF%9D%E5%AE%89%E7%8C%9D%E6%AD%BB+%E7%94%9F%E5%89%8D%E8%B6%85190%E5%A4%A9%E6%9C%AA%E4%BC%91%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [经销商回应外卖员爬泰山送键盘](https://www.baidu.com/s?wd=%E7%BB%8F%E9%94%80%E5%95%86%E5%9B%9E%E5%BA%94%E5%A4%96%E5%8D%96%E5%91%98%E7%88%AC%E6%B3%B0%E5%B1%B1%E9%80%81%E9%94%AE%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [经销商回应外卖员爬泰山送键盘](https://www.baidu.com/s?wd=%E7%BB%8F%E9%94%80%E5%95%86%E5%9B%9E%E5%BA%94%E5%A4%96%E5%8D%96%E5%91%98%E7%88%AC%E6%B3%B0%E5%B1%B1%E9%80%81%E9%94%AE%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度建议G20涉俄乌声明纳入中俄观点](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%BB%BA%E8%AE%AEG20%E6%B6%89%E4%BF%84%E4%B9%8C%E5%A3%B0%E6%98%8E%E7%BA%B3%E5%85%A5%E4%B8%AD%E4%BF%84%E8%A7%82%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [未收净中药遭哄抢？村支书澄清](https://www.baidu.com/s?wd=%E6%9C%AA%E6%94%B6%E5%87%80%E4%B8%AD%E8%8D%AF%E9%81%AD%E5%93%84%E6%8A%A2%EF%BC%9F%E6%9D%91%E6%94%AF%E4%B9%A6%E6%BE%84%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [触摸亚运之城的文化脉动](https://www.baidu.com/s?wd=%E8%A7%A6%E6%91%B8%E4%BA%9A%E8%BF%90%E4%B9%8B%E5%9F%8E%E7%9A%84%E6%96%87%E5%8C%96%E8%84%89%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成龙周杰伦合唱千里之外](https://www.baidu.com/s?wd=%E6%88%90%E9%BE%99%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%90%88%E5%94%B1%E5%8D%83%E9%87%8C%E4%B9%8B%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡锡进：四川工商学院声明是种悲哀](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E5%9B%9B%E5%B7%9D%E5%B7%A5%E5%95%86%E5%AD%A6%E9%99%A2%E5%A3%B0%E6%98%8E%E6%98%AF%E7%A7%8D%E6%82%B2%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [48岁保安猝死 生前超190天未休假](https://www.baidu.com/s?wd=48%E5%B2%81%E4%BF%9D%E5%AE%89%E7%8C%9D%E6%AD%BB+%E7%94%9F%E5%89%8D%E8%B6%85190%E5%A4%A9%E6%9C%AA%E4%BC%91%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [经销商回应外卖员爬泰山送键盘](https://www.baidu.com/s?wd=%E7%BB%8F%E9%94%80%E5%95%86%E5%9B%9E%E5%BA%94%E5%A4%96%E5%8D%96%E5%91%98%E7%88%AC%E6%B3%B0%E5%B1%B1%E9%80%81%E9%94%AE%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [经销商回应外卖员爬泰山送键盘](https://www.baidu.com/s?wd=%E7%BB%8F%E9%94%80%E5%95%86%E5%9B%9E%E5%BA%94%E5%A4%96%E5%8D%96%E5%91%98%E7%88%AC%E6%B3%B0%E5%B1%B1%E9%80%81%E9%94%AE%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度建议G20涉俄乌声明纳入中俄观点](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%BB%BA%E8%AE%AEG20%E6%B6%89%E4%BF%84%E4%B9%8C%E5%A3%B0%E6%98%8E%E7%BA%B3%E5%85%A5%E4%B8%AD%E4%BF%84%E8%A7%82%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [未收净中药遭哄抢？村支书澄清](https://www.baidu.com/s?wd=%E6%9C%AA%E6%94%B6%E5%87%80%E4%B8%AD%E8%8D%AF%E9%81%AD%E5%93%84%E6%8A%A2%EF%BC%9F%E6%9D%91%E6%94%AF%E4%B9%A6%E6%BE%84%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
