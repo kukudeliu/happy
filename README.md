@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 14:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 14:15:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [聋哑女孩无法表达结婚意愿领证被拒](https://www.baidu.com/s?wd=%E8%81%8B%E5%93%91%E5%A5%B3%E5%AD%A9%E6%97%A0%E6%B3%95%E8%A1%A8%E8%BE%BE%E7%BB%93%E5%A9%9A%E6%84%8F%E6%84%BF%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [孩子扛2条五花肉送老师](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E6%89%9B2%E6%9D%A1%E4%BA%94%E8%8A%B1%E8%82%89%E9%80%81%E8%80%81%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运会总赛程3.0版发布](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%80%BB%E8%B5%9B%E7%A8%8B3.0%E7%89%88%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [女婴输液后尖叫昏迷成脑萎缩](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A9%B4%E8%BE%93%E6%B6%B2%E5%90%8E%E5%B0%96%E5%8F%AB%E6%98%8F%E8%BF%B7%E6%88%90%E8%84%91%E8%90%8E%E7%BC%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [内蒙古大学食堂用鸭肉冒充牛羊肉](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E5%A4%A7%E5%AD%A6%E9%A3%9F%E5%A0%82%E7%94%A8%E9%B8%AD%E8%82%89%E5%86%92%E5%85%85%E7%89%9B%E7%BE%8A%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李咏21岁女儿时装秀全程飙英文](https://www.baidu.com/s?wd=%E6%9D%8E%E5%92%8F21%E5%B2%81%E5%A5%B3%E5%84%BF%E6%97%B6%E8%A3%85%E7%A7%80%E5%85%A8%E7%A8%8B%E9%A3%99%E8%8B%B1%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [第一批离婚的00后:22岁带娃](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%89%B9%E7%A6%BB%E5%A9%9A%E7%9A%8400%E5%90%8E%3A22%E5%B2%81%E5%B8%A6%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [正式确诊为蔡国庆](https://www.baidu.com/s?wd=%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E8%94%A1%E5%9B%BD%E5%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [聋哑女孩无法表达结婚意愿领证被拒](https://www.baidu.com/s?wd=%E8%81%8B%E5%93%91%E5%A5%B3%E5%AD%A9%E6%97%A0%E6%B3%95%E8%A1%A8%E8%BE%BE%E7%BB%93%E5%A9%9A%E6%84%8F%E6%84%BF%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [孩子扛2条五花肉送老师](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E6%89%9B2%E6%9D%A1%E4%BA%94%E8%8A%B1%E8%82%89%E9%80%81%E8%80%81%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运会总赛程3.0版发布](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%80%BB%E8%B5%9B%E7%A8%8B3.0%E7%89%88%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [女婴输液后尖叫昏迷成脑萎缩](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A9%B4%E8%BE%93%E6%B6%B2%E5%90%8E%E5%B0%96%E5%8F%AB%E6%98%8F%E8%BF%B7%E6%88%90%E8%84%91%E8%90%8E%E7%BC%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [内蒙古大学食堂用鸭肉冒充牛羊肉](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E5%A4%A7%E5%AD%A6%E9%A3%9F%E5%A0%82%E7%94%A8%E9%B8%AD%E8%82%89%E5%86%92%E5%85%85%E7%89%9B%E7%BE%8A%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李咏21岁女儿时装秀全程飙英文](https://www.baidu.com/s?wd=%E6%9D%8E%E5%92%8F21%E5%B2%81%E5%A5%B3%E5%84%BF%E6%97%B6%E8%A3%85%E7%A7%80%E5%85%A8%E7%A8%8B%E9%A3%99%E8%8B%B1%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [第一批离婚的00后:22岁带娃](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%89%B9%E7%A6%BB%E5%A9%9A%E7%9A%8400%E5%90%8E%3A22%E5%B2%81%E5%B8%A6%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [正式确诊为蔡国庆](https://www.baidu.com/s?wd=%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E8%94%A1%E5%9B%BD%E5%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
