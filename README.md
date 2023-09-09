@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 21:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 22:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李帅受伤](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B8%85%E5%8F%97%E4%BC%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖战田雨20集终于见面了](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%94%B0%E9%9B%A820%E9%9B%86%E7%BB%88%E4%BA%8E%E8%A7%81%E9%9D%A2%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [云之羽角浅徵开虐](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E8%A7%92%E6%B5%85%E5%BE%B5%E5%BC%80%E8%99%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [胡锡进 四川工商学院的声明是一种悲哀](https://s.weibo.com/weibo?q=%E8%83%A1%E9%94%A1%E8%BF%9B%20%E5%9B%9B%E5%B7%9D%E5%B7%A5%E5%95%86%E5%AD%A6%E9%99%A2%E7%9A%84%E5%A3%B0%E6%98%8E%E6%98%AF%E4%B8%80%E7%A7%8D%E6%82%B2%E5%93%80&t=31&band_rank=9&Refer=top)<br />
+9. [国足1比1马来西亚](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B31%E6%AF%941%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
