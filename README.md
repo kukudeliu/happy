@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 07:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 08:00:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [李在明已绝食抗议9天](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B7%B2%E7%BB%9D%E9%A3%9F%E6%8A%97%E8%AE%AE9%E5%A4%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [太原一家长群筹备五千元给老师买礼物](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%8E%9F%E4%B8%80%E5%AE%B6%E9%95%BF%E7%BE%A4%E7%AD%B9%E5%A4%87%E4%BA%94%E5%8D%83%E5%85%83%E7%BB%99%E8%80%81%E5%B8%88%E4%B9%B0%E7%A4%BC%E7%89%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子河边用钢筋磨针坚持2000多天](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B2%B3%E8%BE%B9%E7%94%A8%E9%92%A2%E7%AD%8B%E7%A3%A8%E9%92%88%E5%9D%9A%E6%8C%812000%E5%A4%9A%E5%A4%A9%23&t=31&band_rank=7&Refer=top)<br />
-8. [11.4万人都知道盛阳失业了](https://s.weibo.com/weibo?q=%2311.4%E4%B8%87%E4%BA%BA%E9%83%BD%E7%9F%A5%E9%81%93%E7%9B%9B%E9%98%B3%E5%A4%B1%E4%B8%9A%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [一车钢筋砸大爷身上119高喊120](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%BD%A6%E9%92%A2%E7%AD%8B%E7%A0%B8%E5%A4%A7%E7%88%B7%E8%BA%AB%E4%B8%8A119%E9%AB%98%E5%96%8A120%23&t=31&band_rank=9&Refer=top)<br />
+8. [一车钢筋砸大爷身上119高喊120](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%BD%A6%E9%92%A2%E7%AD%8B%E7%A0%B8%E5%A4%A7%E7%88%B7%E8%BA%AB%E4%B8%8A119%E9%AB%98%E5%96%8A120%23&t=31&band_rank=8&Refer=top)<br />
+9. [11.4万人都知道盛阳失业了](https://s.weibo.com/weibo?q=%2311.4%E4%B8%87%E4%BA%BA%E9%83%BD%E7%9F%A5%E9%81%93%E7%9B%9B%E9%98%B3%E5%A4%B1%E4%B8%9A%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
