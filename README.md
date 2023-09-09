@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 21:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 21:22:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [胡锡进 四川工商学院的声明是一种悲哀](https://s.weibo.com/weibo?q=%E8%83%A1%E9%94%A1%E8%BF%9B%20%E5%9B%9B%E5%B7%9D%E5%B7%A5%E5%95%86%E5%AD%A6%E9%99%A2%E7%9A%84%E5%A3%B0%E6%98%8E%E6%98%AF%E4%B8%80%E7%A7%8D%E6%82%B2%E5%93%80&t=31&band_rank=5&Refer=top)<br />
 6. [学生不订奶要开县级医院以上诊断证明](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E4%B8%8D%E8%AE%A2%E5%A5%B6%E8%A6%81%E5%BC%80%E5%8E%BF%E7%BA%A7%E5%8C%BB%E9%99%A2%E4%BB%A5%E4%B8%8A%E8%AF%8A%E6%96%AD%E8%AF%81%E6%98%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [国足开场10分钟丢球](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E5%BC%80%E5%9C%BA10%E5%88%86%E9%92%9F%E4%B8%A2%E7%90%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [中级经济法](https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BA%A7%E7%BB%8F%E6%B5%8E%E6%B3%95&t=31&band_rank=8&Refer=top)<br />
-9. [虞书欣没忍住喊了张凌赫牛牛](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%B2%A1%E5%BF%8D%E4%BD%8F%E5%96%8A%E4%BA%86%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%89%9B%E7%89%9B%23&t=31&band_rank=9&Refer=top)<br />
+8. [云之羽角浅徵开虐](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E8%A7%92%E6%B5%85%E5%BE%B5%E5%BC%80%E8%99%90%23&t=31&band_rank=8&Refer=top)<br />
+9. [中级经济法](https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BA%A7%E7%BB%8F%E6%B5%8E%E6%B3%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
