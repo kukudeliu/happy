@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 14:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 14:23:01</h4></div>
 
 > 微博  
 
-1. [爱吃海底捞的有福了](https://s.weibo.com/weibo?q=%E7%88%B1%E5%90%83%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%9A%84%E6%9C%89%E7%A6%8F%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [偷票房 到底是谁偷了谁](https://s.weibo.com/weibo?q=%E5%81%B7%E7%A5%A8%E6%88%BF%20%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E5%81%B7%E4%BA%86%E8%B0%81&t=31&band_rank=2&Refer=top)<br />
+1. [偷票房 到底是谁偷了谁](https://s.weibo.com/weibo?q=%E5%81%B7%E7%A5%A8%E6%88%BF%20%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E5%81%B7%E4%BA%86%E8%B0%81&t=31&band_rank=1&Refer=top)<br />
+2. [爱吃海底捞的有福了](https://s.weibo.com/weibo?q=%E7%88%B1%E5%90%83%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%9A%84%E6%9C%89%E7%A6%8F%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会总赛程最新版](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%80%BB%E8%B5%9B%E7%A8%8B%E6%9C%80%E6%96%B0%E7%89%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [中考分流40%的孩子去哪了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%80%83%E5%88%86%E6%B5%8140%25%E7%9A%84%E5%AD%A9%E5%AD%90%E5%8E%BB%E5%93%AA%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [人类人均每天仅花2.6小时用于经济活动](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E4%BA%BA%E5%9D%87%E6%AF%8F%E5%A4%A9%E4%BB%85%E8%8A%B12.6%E5%B0%8F%E6%97%B6%E7%94%A8%E4%BA%8E%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=5&Refer=top)<br />
