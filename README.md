@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 14:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 14:58:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [习近平在黑龙江考察](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E9%BB%91%E9%BE%99%E6%B1%9F%E8%80%83%E5%AF%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [聋哑女孩无法表达结婚意愿领证被拒](https://www.baidu.com/s?wd=%E8%81%8B%E5%93%91%E5%A5%B3%E5%AD%A9%E6%97%A0%E6%B3%95%E8%A1%A8%E8%BE%BE%E7%BB%93%E5%A9%9A%E6%84%8F%E6%84%BF%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [摩洛哥强震已致超600人死亡](https://www.baidu.com/s?wd=%E6%91%A9%E6%B4%9B%E5%93%A5%E5%BC%BA%E9%9C%87%E5%B7%B2%E8%87%B4%E8%B6%85600%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [孩子扛2条五花肉送老师](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E6%89%9B2%E6%9D%A1%E4%BA%94%E8%8A%B1%E8%82%89%E9%80%81%E8%80%81%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运会总赛程3.0版发布](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%80%BB%E8%B5%9B%E7%A8%8B3.0%E7%89%88%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [PPT之父去世](https://www.baidu.com/s?wd=PPT%E4%B9%8B%E7%88%B6%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [习近平在黑龙江考察](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E9%BB%91%E9%BE%99%E6%B1%9F%E8%80%83%E5%AF%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [聋哑女孩无法表达结婚意愿领证被拒](https://www.baidu.com/s?wd=%E8%81%8B%E5%93%91%E5%A5%B3%E5%AD%A9%E6%97%A0%E6%B3%95%E8%A1%A8%E8%BE%BE%E7%BB%93%E5%A9%9A%E6%84%8F%E6%84%BF%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [摩洛哥强震已致超600人死亡](https://www.baidu.com/s?wd=%E6%91%A9%E6%B4%9B%E5%93%A5%E5%BC%BA%E9%9C%87%E5%B7%B2%E8%87%B4%E8%B6%85600%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [孩子扛2条五花肉送老师](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E6%89%9B2%E6%9D%A1%E4%BA%94%E8%8A%B1%E8%82%89%E9%80%81%E8%80%81%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运会总赛程3.0版发布](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%80%BB%E8%B5%9B%E7%A8%8B3.0%E7%89%88%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [PPT之父去世](https://www.baidu.com/s?wd=PPT%E4%B9%8B%E7%88%B6%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
