@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 14:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 14:46:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [PPT发明者去世](https://s.weibo.com/weibo?q=%23PPT%E5%8F%91%E6%98%8E%E8%80%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [偷票房 到底是谁偷了谁](https://s.weibo.com/weibo?q=%E5%81%B7%E7%A5%A8%E6%88%BF%20%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E5%81%B7%E4%BA%86%E8%B0%81&t=31&band_rank=6&Refer=top)<br />
 7. [邓为风度10月刊双封面](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E9%A3%8E%E5%BA%A610%E6%9C%88%E5%88%8A%E5%8F%8C%E5%B0%81%E9%9D%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [人类人均每天仅花2.6小时用于经济活动](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E4%BA%BA%E5%9D%87%E6%AF%8F%E5%A4%A9%E4%BB%85%E8%8A%B12.6%E5%B0%8F%E6%97%B6%E7%94%A8%E4%BA%8E%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [女婴输液后尖叫昏迷成脑萎缩](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A9%B4%E8%BE%93%E6%B6%B2%E5%90%8E%E5%B0%96%E5%8F%AB%E6%98%8F%E8%BF%B7%E6%88%90%E8%84%91%E8%90%8E%E7%BC%A9%23&t=31&band_rank=9&Refer=top)<br />
+8. [费翔李冰冰郑秀晶 中世纪贵族即视感](https://s.weibo.com/weibo?q=%E8%B4%B9%E7%BF%94%E6%9D%8E%E5%86%B0%E5%86%B0%E9%83%91%E7%A7%80%E6%99%B6%20%E4%B8%AD%E4%B8%96%E7%BA%AA%E8%B4%B5%E6%97%8F%E5%8D%B3%E8%A7%86%E6%84%9F&t=31&band_rank=8&Refer=top)<br />
+9. [人类人均每天仅花2.6小时用于经济活动](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E4%BA%BA%E5%9D%87%E6%AF%8F%E5%A4%A9%E4%BB%85%E8%8A%B12.6%E5%B0%8F%E6%97%B6%E7%94%A8%E4%BA%8E%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
