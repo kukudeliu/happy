@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 11:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 11:56:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [正式确诊为蔡国庆](https://www.baidu.com/s?wd=%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E8%94%A1%E5%9B%BD%E5%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美政府首度回应华为技术突破](https://www.baidu.com/s?wd=%E7%BE%8E%E6%94%BF%E5%BA%9C%E9%A6%96%E5%BA%A6%E5%9B%9E%E5%BA%94%E5%8D%8E%E4%B8%BA%E6%8A%80%E6%9C%AF%E7%AA%81%E7%A0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [聋哑女孩无法表达结婚意愿领证被拒](https://www.baidu.com/s?wd=%E8%81%8B%E5%93%91%E5%A5%B3%E5%AD%A9%E6%97%A0%E6%B3%95%E8%A1%A8%E8%BE%BE%E7%BB%93%E5%A9%9A%E6%84%8F%E6%84%BF%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [留守智障女孩疑被3男子翻墙性侵](https://www.baidu.com/s?wd=%E7%95%99%E5%AE%88%E6%99%BA%E9%9A%9C%E5%A5%B3%E5%AD%A9%E7%96%91%E8%A2%AB3%E7%94%B7%E5%AD%90%E7%BF%BB%E5%A2%99%E6%80%A7%E4%BE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国电池制造商在美建厂计划敲定](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E6%B1%A0%E5%88%B6%E9%80%A0%E5%95%86%E5%9C%A8%E7%BE%8E%E5%BB%BA%E5%8E%82%E8%AE%A1%E5%88%92%E6%95%B2%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西双版纳登革热致多人死亡?官方辟谣](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E7%99%BB%E9%9D%A9%E7%83%AD%E8%87%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1%3F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [正式确诊为蔡国庆](https://www.baidu.com/s?wd=%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E8%94%A1%E5%9B%BD%E5%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美政府首度回应华为技术突破](https://www.baidu.com/s?wd=%E7%BE%8E%E6%94%BF%E5%BA%9C%E9%A6%96%E5%BA%A6%E5%9B%9E%E5%BA%94%E5%8D%8E%E4%B8%BA%E6%8A%80%E6%9C%AF%E7%AA%81%E7%A0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [聋哑女孩无法表达结婚意愿领证被拒](https://www.baidu.com/s?wd=%E8%81%8B%E5%93%91%E5%A5%B3%E5%AD%A9%E6%97%A0%E6%B3%95%E8%A1%A8%E8%BE%BE%E7%BB%93%E5%A9%9A%E6%84%8F%E6%84%BF%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [留守智障女孩疑被3男子翻墙性侵](https://www.baidu.com/s?wd=%E7%95%99%E5%AE%88%E6%99%BA%E9%9A%9C%E5%A5%B3%E5%AD%A9%E7%96%91%E8%A2%AB3%E7%94%B7%E5%AD%90%E7%BF%BB%E5%A2%99%E6%80%A7%E4%BE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国电池制造商在美建厂计划敲定](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E6%B1%A0%E5%88%B6%E9%80%A0%E5%95%86%E5%9C%A8%E7%BE%8E%E5%BB%BA%E5%8E%82%E8%AE%A1%E5%88%92%E6%95%B2%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西双版纳登革热致多人死亡?官方辟谣](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E7%99%BB%E9%9D%A9%E7%83%AD%E8%87%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1%3F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
