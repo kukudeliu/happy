@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 08:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 09:00:02</h4></div>
 
 > 微博  
 
-1. [公职人员理发不满意举报店家偷税漏税](https://s.weibo.com/weibo?q=%23%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E7%90%86%E5%8F%91%E4%B8%8D%E6%BB%A1%E6%84%8F%E4%B8%BE%E6%8A%A5%E5%BA%97%E5%AE%B6%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23&t=31&band_rank=1&Refer=top)<br />
-2. [周五正式确认为蔡国庆](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AE%A4%E4%B8%BA%E8%94%A1%E5%9B%BD%E5%BA%86&t=31&band_rank=2&Refer=top)<br />
+1. [周五正式确认为蔡国庆](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AE%A4%E4%B8%BA%E8%94%A1%E5%9B%BD%E5%BA%86&t=31&band_rank=1&Refer=top)<br />
+2. [公职人员理发不满意举报店家偷税漏税](https://s.weibo.com/weibo?q=%23%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E7%90%86%E5%8F%91%E4%B8%8D%E6%BB%A1%E6%84%8F%E4%B8%BE%E6%8A%A5%E5%BA%97%E5%AE%B6%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23&t=31&band_rank=2&Refer=top)<br />
 3. [来杭州看看梦里江南的模样](https://s.weibo.com/weibo?q=%23%E6%9D%A5%E6%9D%AD%E5%B7%9E%E7%9C%8B%E7%9C%8B%E6%A2%A6%E9%87%8C%E6%B1%9F%E5%8D%97%E7%9A%84%E6%A8%A1%E6%A0%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [张雪峰效应在班委竞选体现了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%95%88%E5%BA%94%E5%9C%A8%E7%8F%AD%E5%A7%94%E7%AB%9E%E9%80%89%E4%BD%93%E7%8E%B0%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [杰威尔否认周杰伦受伤](https://s.weibo.com/weibo?q=%23%E6%9D%B0%E5%A8%81%E5%B0%94%E5%90%A6%E8%AE%A4%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%8F%97%E4%BC%A4%23&t=31&band_rank=5&Refer=top)<br />
