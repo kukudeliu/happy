@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 14:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 14:29:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [中考分流40%的孩子去哪了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%80%83%E5%88%86%E6%B5%8140%25%E7%9A%84%E5%AD%A9%E5%AD%90%E5%8E%BB%E5%93%AA%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [人类人均每天仅花2.6小时用于经济活动](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E4%BA%BA%E5%9D%87%E6%AF%8F%E5%A4%A9%E4%BB%85%E8%8A%B12.6%E5%B0%8F%E6%97%B6%E7%94%A8%E4%BA%8E%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [PPT发明者去世](https://s.weibo.com/weibo?q=%23PPT%E5%8F%91%E6%98%8E%E8%80%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [爱吃海底捞的有福了](https://s.weibo.com/weibo?q=%E7%88%B1%E5%90%83%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%9A%84%E6%9C%89%E7%A6%8F%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [邓为风度10月刊双封面](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E9%A3%8E%E5%BA%A610%E6%9C%88%E5%88%8A%E5%8F%8C%E5%B0%81%E9%9D%A2%23&t=31&band_rank=8&Refer=top)<br />
+7. [邓为风度10月刊双封面](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E9%A3%8E%E5%BA%A610%E6%9C%88%E5%88%8A%E5%8F%8C%E5%B0%81%E9%9D%A2%23&t=31&band_rank=7&Refer=top)<br />
+8. [爱吃海底捞的有福了](https://s.weibo.com/weibo?q=%E7%88%B1%E5%90%83%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%9A%84%E6%9C%89%E7%A6%8F%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [女婴输液后尖叫昏迷成脑萎缩](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A9%B4%E8%BE%93%E6%B6%B2%E5%90%8E%E5%B0%96%E5%8F%AB%E6%98%8F%E8%BF%B7%E6%88%90%E8%84%91%E8%90%8E%E7%BC%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
