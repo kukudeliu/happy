@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 22:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 22:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [华晨宇接受法师称号](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%8E%A5%E5%8F%97%E6%B3%95%E5%B8%88%E7%A7%B0%E5%8F%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [李帅受伤](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B8%85%E5%8F%97%E4%BC%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [成龙周杰伦 千里之外](https://s.weibo.com/weibo?q=%E6%88%90%E9%BE%99%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E5%8D%83%E9%87%8C%E4%B9%8B%E5%A4%96&t=31&band_rank=8&Refer=top)<br />
-9. [王力宏演唱会](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
+9. [肖战田雨20集终于见面了](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%94%B0%E9%9B%A820%E9%9B%86%E7%BB%88%E4%BA%8E%E8%A7%81%E9%9D%A2%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
