@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 20:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 20:05:01</h4></div>
 
 > 微博  
 
-1. [学生不订奶要开县级医院以上诊断证明](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E4%B8%8D%E8%AE%A2%E5%A5%B6%E8%A6%81%E5%BC%80%E5%8E%BF%E7%BA%A7%E5%8C%BB%E9%99%A2%E4%BB%A5%E4%B8%8A%E8%AF%8A%E6%96%AD%E8%AF%81%E6%98%8E%23&t=31&band_rank=1&Refer=top)<br />
-2. [三年租房花费了十五万](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%B9%B4%E7%A7%9F%E6%88%BF%E8%8A%B1%E8%B4%B9%E4%BA%86%E5%8D%81%E4%BA%94%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
+1. [三年租房花费了十五万](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%B9%B4%E7%A7%9F%E6%88%BF%E8%8A%B1%E8%B4%B9%E4%BA%86%E5%8D%81%E4%BA%94%E4%B8%87%23&t=31&band_rank=1&Refer=top)<br />
+2. [学生不订奶要开县级医院以上诊断证明](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E4%B8%8D%E8%AE%A2%E5%A5%B6%E8%A6%81%E5%BC%80%E5%8E%BF%E7%BA%A7%E5%8C%BB%E9%99%A2%E4%BB%A5%E4%B8%8A%E8%AF%8A%E6%96%AD%E8%AF%81%E6%98%8E%23&t=31&band_rank=2&Refer=top)<br />
 3. [一定要会的急救知识合集](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%9A%E8%A6%81%E4%BC%9A%E7%9A%84%E6%80%A5%E6%95%91%E7%9F%A5%E8%AF%86%E5%90%88%E9%9B%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [陶喆 melody](https://s.weibo.com/weibo?q=%E9%99%B6%E5%96%86%20melody&t=31&band_rank=4&Refer=top)<br />
 5. [管理余额宝10多年的基金经理离职了](https://s.weibo.com/weibo?q=%23%E7%AE%A1%E7%90%86%E4%BD%99%E9%A2%9D%E5%AE%9D10%E5%A4%9A%E5%B9%B4%E7%9A%84%E5%9F%BA%E9%87%91%E7%BB%8F%E7%90%86%E7%A6%BB%E8%81%8C%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [哈尔滨打响商品房省外推介第一枪](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E6%89%93%E5%93%8D%E5%95%86%E5%93%81%E6%88%BF%E7%9C%81%E5%A4%96%E6%8E%A8%E4%BB%8B%E7%AC%AC%E4%B8%80%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [二胎妈妈诞下龙凤三胞胎](https://www.baidu.com/s?wd=%E4%BA%8C%E8%83%8E%E5%A6%88%E5%A6%88%E8%AF%9E%E4%B8%8B%E9%BE%99%E5%87%A4%E4%B8%89%E8%83%9E%E8%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [幼儿园收200多万学费开学前却闭园](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%94%B6200%E5%A4%9A%E4%B8%87%E5%AD%A6%E8%B4%B9%E5%BC%80%E5%AD%A6%E5%89%8D%E5%8D%B4%E9%97%AD%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曝周琦将赴京手术](https://www.baidu.com/s?wd=%E6%9B%9D%E5%91%A8%E7%90%A6%E5%B0%86%E8%B5%B4%E4%BA%AC%E6%89%8B%E6%9C%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [56人围坐一起涮鸳鸯火锅](https://www.baidu.com/s?wd=56%E4%BA%BA%E5%9B%B4%E5%9D%90%E4%B8%80%E8%B5%B7%E6%B6%AE%E9%B8%B3%E9%B8%AF%E7%81%AB%E9%94%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多条广东暴雨相关传言被辟谣](https://www.baidu.com/s?wd=%E5%A4%9A%E6%9D%A1%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E7%9B%B8%E5%85%B3%E4%BC%A0%E8%A8%80%E8%A2%AB%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [哈尔滨打响商品房省外推介第一枪](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E6%89%93%E5%93%8D%E5%95%86%E5%93%81%E6%88%BF%E7%9C%81%E5%A4%96%E6%8E%A8%E4%BB%8B%E7%AC%AC%E4%B8%80%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [二胎妈妈诞下龙凤三胞胎](https://www.baidu.com/s?wd=%E4%BA%8C%E8%83%8E%E5%A6%88%E5%A6%88%E8%AF%9E%E4%B8%8B%E9%BE%99%E5%87%A4%E4%B8%89%E8%83%9E%E8%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [幼儿园收200多万学费开学前却闭园](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%94%B6200%E5%A4%9A%E4%B8%87%E5%AD%A6%E8%B4%B9%E5%BC%80%E5%AD%A6%E5%89%8D%E5%8D%B4%E9%97%AD%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曝周琦将赴京手术](https://www.baidu.com/s?wd=%E6%9B%9D%E5%91%A8%E7%90%A6%E5%B0%86%E8%B5%B4%E4%BA%AC%E6%89%8B%E6%9C%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [56人围坐一起涮鸳鸯火锅](https://www.baidu.com/s?wd=56%E4%BA%BA%E5%9B%B4%E5%9D%90%E4%B8%80%E8%B5%B7%E6%B6%AE%E9%B8%B3%E9%B8%AF%E7%81%AB%E9%94%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多条广东暴雨相关传言被辟谣](https://www.baidu.com/s?wd=%E5%A4%9A%E6%9D%A1%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E7%9B%B8%E5%85%B3%E4%BC%A0%E8%A8%80%E8%A2%AB%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
