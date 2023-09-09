@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 17:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 17:14:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [2新生同名同姓同籍贯同专业同寝室](https://www.baidu.com/s?wd=2%E6%96%B0%E7%94%9F%E5%90%8C%E5%90%8D%E5%90%8C%E5%A7%93%E5%90%8C%E7%B1%8D%E8%B4%AF%E5%90%8C%E4%B8%93%E4%B8%9A%E5%90%8C%E5%AF%9D%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运火炬手有了不起的榜样](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E7%81%AB%E7%82%AC%E6%89%8B%E6%9C%89%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E6%A6%9C%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [外卖小哥爬泰山送外卖跑腿费500元](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E7%88%AC%E6%B3%B0%E5%B1%B1%E9%80%81%E5%A4%96%E5%8D%96%E8%B7%91%E8%85%BF%E8%B4%B9500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [第一批离婚的00后:22岁带娃](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%89%B9%E7%A6%BB%E5%A9%9A%E7%9A%8400%E5%90%8E%3A22%E5%B2%81%E5%B8%A6%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [摩洛哥6.9级强震:直播画面猛烈摇晃](https://www.baidu.com/s?wd=%E6%91%A9%E6%B4%9B%E5%93%A56.9%E7%BA%A7%E5%BC%BA%E9%9C%87%3A%E7%9B%B4%E6%92%AD%E7%94%BB%E9%9D%A2%E7%8C%9B%E7%83%88%E6%91%87%E6%99%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [纯碱涨价风暴背后](https://www.baidu.com/s?wd=%E7%BA%AF%E7%A2%B1%E6%B6%A8%E4%BB%B7%E9%A3%8E%E6%9A%B4%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [第一批离婚的00后:22岁带娃](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%89%B9%E7%A6%BB%E5%A9%9A%E7%9A%8400%E5%90%8E%3A22%E5%B2%81%E5%B8%A6%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [PPT之父去世](https://www.baidu.com/s?wd=PPT%E4%B9%8B%E7%88%B6%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多条广东暴雨相关传言被辟谣](https://www.baidu.com/s?wd=%E5%A4%9A%E6%9D%A1%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E7%9B%B8%E5%85%B3%E4%BC%A0%E8%A8%80%E8%A2%AB%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [2新生同名同姓同籍贯同专业同寝室](https://www.baidu.com/s?wd=2%E6%96%B0%E7%94%9F%E5%90%8C%E5%90%8D%E5%90%8C%E5%A7%93%E5%90%8C%E7%B1%8D%E8%B4%AF%E5%90%8C%E4%B8%93%E4%B8%9A%E5%90%8C%E5%AF%9D%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运火炬手有了不起的榜样](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E7%81%AB%E7%82%AC%E6%89%8B%E6%9C%89%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E6%A6%9C%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [外卖小哥爬泰山送外卖跑腿费500元](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E7%88%AC%E6%B3%B0%E5%B1%B1%E9%80%81%E5%A4%96%E5%8D%96%E8%B7%91%E8%85%BF%E8%B4%B9500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [第一批离婚的00后:22岁带娃](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%89%B9%E7%A6%BB%E5%A9%9A%E7%9A%8400%E5%90%8E%3A22%E5%B2%81%E5%B8%A6%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [摩洛哥6.9级强震:直播画面猛烈摇晃](https://www.baidu.com/s?wd=%E6%91%A9%E6%B4%9B%E5%93%A56.9%E7%BA%A7%E5%BC%BA%E9%9C%87%3A%E7%9B%B4%E6%92%AD%E7%94%BB%E9%9D%A2%E7%8C%9B%E7%83%88%E6%91%87%E6%99%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [纯碱涨价风暴背后](https://www.baidu.com/s?wd=%E7%BA%AF%E7%A2%B1%E6%B6%A8%E4%BB%B7%E9%A3%8E%E6%9A%B4%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [第一批离婚的00后:22岁带娃](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%89%B9%E7%A6%BB%E5%A9%9A%E7%9A%8400%E5%90%8E%3A22%E5%B2%81%E5%B8%A6%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [PPT之父去世](https://www.baidu.com/s?wd=PPT%E4%B9%8B%E7%88%B6%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多条广东暴雨相关传言被辟谣](https://www.baidu.com/s?wd=%E5%A4%9A%E6%9D%A1%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E7%9B%B8%E5%85%B3%E4%BC%A0%E8%A8%80%E8%A2%AB%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
