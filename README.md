@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 10:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 10:22:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [保洁扔掉业主鞋遭索赔后轻生](https://www.baidu.com/s?wd=%E4%BF%9D%E6%B4%81%E6%89%94%E6%8E%89%E4%B8%9A%E4%B8%BB%E9%9E%8B%E9%81%AD%E7%B4%A2%E8%B5%94%E5%90%8E%E8%BD%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生未订餐被赶出教室淋雨吃饭](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%9C%AA%E8%AE%A2%E9%A4%90%E8%A2%AB%E8%B5%B6%E5%87%BA%E6%95%99%E5%AE%A4%E6%B7%8B%E9%9B%A8%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [太原一家长群筹五千元给老师买礼物](https://www.baidu.com/s?wd=%E5%A4%AA%E5%8E%9F%E4%B8%80%E5%AE%B6%E9%95%BF%E7%BE%A4%E7%AD%B9%E4%BA%94%E5%8D%83%E5%85%83%E7%BB%99%E8%80%81%E5%B8%88%E4%B9%B0%E7%A4%BC%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大学生贷款参加就业培训后自缢身亡](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%8F%82%E5%8A%A0%E5%B0%B1%E4%B8%9A%E5%9F%B9%E8%AE%AD%E5%90%8E%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [Lisa或将挑战蒂塔酒杯脱衣舞](https://www.baidu.com/s?wd=Lisa%E6%88%96%E5%B0%86%E6%8C%91%E6%88%98%E8%92%82%E5%A1%94%E9%85%92%E6%9D%AF%E8%84%B1%E8%A1%A3%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西双版纳登革热致多人死亡?官方辟谣](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E7%99%BB%E9%9D%A9%E7%83%AD%E8%87%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1%3F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [保洁扔掉业主鞋遭索赔后轻生](https://www.baidu.com/s?wd=%E4%BF%9D%E6%B4%81%E6%89%94%E6%8E%89%E4%B8%9A%E4%B8%BB%E9%9E%8B%E9%81%AD%E7%B4%A2%E8%B5%94%E5%90%8E%E8%BD%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生未订餐被赶出教室淋雨吃饭](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%9C%AA%E8%AE%A2%E9%A4%90%E8%A2%AB%E8%B5%B6%E5%87%BA%E6%95%99%E5%AE%A4%E6%B7%8B%E9%9B%A8%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [太原一家长群筹五千元给老师买礼物](https://www.baidu.com/s?wd=%E5%A4%AA%E5%8E%9F%E4%B8%80%E5%AE%B6%E9%95%BF%E7%BE%A4%E7%AD%B9%E4%BA%94%E5%8D%83%E5%85%83%E7%BB%99%E8%80%81%E5%B8%88%E4%B9%B0%E7%A4%BC%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大学生贷款参加就业培训后自缢身亡](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%8F%82%E5%8A%A0%E5%B0%B1%E4%B8%9A%E5%9F%B9%E8%AE%AD%E5%90%8E%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [Lisa或将挑战蒂塔酒杯脱衣舞](https://www.baidu.com/s?wd=Lisa%E6%88%96%E5%B0%86%E6%8C%91%E6%88%98%E8%92%82%E5%A1%94%E9%85%92%E6%9D%AF%E8%84%B1%E8%A1%A3%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西双版纳登革热致多人死亡?官方辟谣](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E7%99%BB%E9%9D%A9%E7%83%AD%E8%87%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1%3F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
