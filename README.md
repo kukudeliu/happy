@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 01:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 01:14:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [女子胸前腰部绑藏15条活体蛇入境](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%83%B8%E5%89%8D%E8%85%B0%E9%83%A8%E7%BB%91%E8%97%8F15%E6%9D%A1%E6%B4%BB%E4%BD%93%E8%9B%87%E5%85%A5%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [触摸亚运之城的文化脉动](https://www.baidu.com/s?wd=%E8%A7%A6%E6%91%B8%E4%BA%9A%E8%BF%90%E4%B9%8B%E5%9F%8E%E7%9A%84%E6%96%87%E5%8C%96%E8%84%89%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [台风鸳鸯接近日本 福岛等地房屋被淹](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E9%B8%B3%E9%B8%AF%E6%8E%A5%E8%BF%91%E6%97%A5%E6%9C%AC+%E7%A6%8F%E5%B2%9B%E7%AD%89%E5%9C%B0%E6%88%BF%E5%B1%8B%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [曝荣耀自研系统9月15日发布](https://www.baidu.com/s?wd=%E6%9B%9D%E8%8D%A3%E8%80%80%E8%87%AA%E7%A0%94%E7%B3%BB%E7%BB%9F9%E6%9C%8815%E6%97%A5%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [网传有公司禁止员工购买理想汽车](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%9C%89%E5%85%AC%E5%8F%B8%E7%A6%81%E6%AD%A2%E5%91%98%E5%B7%A5%E8%B4%AD%E4%B9%B0%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [被老师打伤女孩头部水肿有感染风险](https://www.baidu.com/s?wd=%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E4%BC%A4%E5%A5%B3%E5%AD%A9%E5%A4%B4%E9%83%A8%E6%B0%B4%E8%82%BF%E6%9C%89%E6%84%9F%E6%9F%93%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马斯克和女高管所生双胞胎曝光](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%92%8C%E5%A5%B3%E9%AB%98%E7%AE%A1%E6%89%80%E7%94%9F%E5%8F%8C%E8%83%9E%E8%83%8E%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝荣耀自研系统9月15日发布](https://www.baidu.com/s?wd=%E6%9B%9D%E8%8D%A3%E8%80%80%E8%87%AA%E7%A0%94%E7%B3%BB%E7%BB%9F9%E6%9C%8815%E6%97%A5%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [未收净中药遭哄抢？村支书澄清](https://www.baidu.com/s?wd=%E6%9C%AA%E6%94%B6%E5%87%80%E4%B8%AD%E8%8D%AF%E9%81%AD%E5%93%84%E6%8A%A2%EF%BC%9F%E6%9D%91%E6%94%AF%E4%B9%A6%E6%BE%84%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [女子胸前腰部绑藏15条活体蛇入境](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%83%B8%E5%89%8D%E8%85%B0%E9%83%A8%E7%BB%91%E8%97%8F15%E6%9D%A1%E6%B4%BB%E4%BD%93%E8%9B%87%E5%85%A5%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [触摸亚运之城的文化脉动](https://www.baidu.com/s?wd=%E8%A7%A6%E6%91%B8%E4%BA%9A%E8%BF%90%E4%B9%8B%E5%9F%8E%E7%9A%84%E6%96%87%E5%8C%96%E8%84%89%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [台风鸳鸯接近日本 福岛等地房屋被淹](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E9%B8%B3%E9%B8%AF%E6%8E%A5%E8%BF%91%E6%97%A5%E6%9C%AC+%E7%A6%8F%E5%B2%9B%E7%AD%89%E5%9C%B0%E6%88%BF%E5%B1%8B%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [曝荣耀自研系统9月15日发布](https://www.baidu.com/s?wd=%E6%9B%9D%E8%8D%A3%E8%80%80%E8%87%AA%E7%A0%94%E7%B3%BB%E7%BB%9F9%E6%9C%8815%E6%97%A5%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [网传有公司禁止员工购买理想汽车](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%9C%89%E5%85%AC%E5%8F%B8%E7%A6%81%E6%AD%A2%E5%91%98%E5%B7%A5%E8%B4%AD%E4%B9%B0%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [被老师打伤女孩头部水肿有感染风险](https://www.baidu.com/s?wd=%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E4%BC%A4%E5%A5%B3%E5%AD%A9%E5%A4%B4%E9%83%A8%E6%B0%B4%E8%82%BF%E6%9C%89%E6%84%9F%E6%9F%93%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马斯克和女高管所生双胞胎曝光](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%92%8C%E5%A5%B3%E9%AB%98%E7%AE%A1%E6%89%80%E7%94%9F%E5%8F%8C%E8%83%9E%E8%83%8E%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝荣耀自研系统9月15日发布](https://www.baidu.com/s?wd=%E6%9B%9D%E8%8D%A3%E8%80%80%E8%87%AA%E7%A0%94%E7%B3%BB%E7%BB%9F9%E6%9C%8815%E6%97%A5%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [未收净中药遭哄抢？村支书澄清](https://www.baidu.com/s?wd=%E6%9C%AA%E6%94%B6%E5%87%80%E4%B8%AD%E8%8D%AF%E9%81%AD%E5%93%84%E6%8A%A2%EF%BC%9F%E6%9D%91%E6%94%AF%E4%B9%A6%E6%BE%84%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
