@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 20:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 20:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陶喆 melody](https://s.weibo.com/weibo?q=%E9%99%B6%E5%96%86%20melody&t=31&band_rank=6&Refer=top)<br />
 7. [中级经济法](https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BA%A7%E7%BB%8F%E6%B5%8E%E6%B3%95&t=31&band_rank=7&Refer=top)<br />
 8. [蔡文静劝女孩别被偶像剧骗了](https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E5%8A%9D%E5%A5%B3%E5%AD%A9%E5%88%AB%E8%A2%AB%E5%81%B6%E5%83%8F%E5%89%A7%E9%AA%97%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [泰国BTS轻轨可以微信支付了](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BDBTS%E8%BD%BB%E8%BD%A8%E5%8F%AF%E4%BB%A5%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [国足开场10分钟丢球](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E5%BC%80%E5%9C%BA10%E5%88%86%E9%92%9F%E4%B8%A2%E7%90%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
