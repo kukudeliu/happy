@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 20:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 20:18:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [一定要会的急救知识合集](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%9A%E8%A6%81%E4%BC%9A%E7%9A%84%E6%80%A5%E6%95%91%E7%9F%A5%E8%AF%86%E5%90%88%E9%9B%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [学生不订奶要开县级医院以上诊断证明](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E4%B8%8D%E8%AE%A2%E5%A5%B6%E8%A6%81%E5%BC%80%E5%8E%BF%E7%BA%A7%E5%8C%BB%E9%99%A2%E4%BB%A5%E4%B8%8A%E8%AF%8A%E6%96%AD%E8%AF%81%E6%98%8E%23&t=31&band_rank=4&Refer=top)<br />
 5. [陶喆 melody](https://s.weibo.com/weibo?q=%E9%99%B6%E5%96%86%20melody&t=31&band_rank=5&Refer=top)<br />
-6. [蔡文静劝女孩别被偶像剧骗了](https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E5%8A%9D%E5%A5%B3%E5%AD%A9%E5%88%AB%E8%A2%AB%E5%81%B6%E5%83%8F%E5%89%A7%E9%AA%97%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [虞书欣 THE9演唱你会来吗](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20THE9%E6%BC%94%E5%94%B1%E4%BD%A0%E4%BC%9A%E6%9D%A5%E5%90%97&t=31&band_rank=7&Refer=top)<br />
+6. [你还在买余额宝吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BF%98%E5%9C%A8%E4%B9%B0%E4%BD%99%E9%A2%9D%E5%AE%9D%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
+7. [蔡文静劝女孩别被偶像剧骗了](https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E5%8A%9D%E5%A5%B3%E5%AD%A9%E5%88%AB%E8%A2%AB%E5%81%B6%E5%83%8F%E5%89%A7%E9%AA%97%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [中级经济法](https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BA%A7%E7%BB%8F%E6%B5%8E%E6%B3%95&t=31&band_rank=8&Refer=top)<br />
-9. [泰国BTS轻轨可以微信支付了](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BDBTS%E8%BD%BB%E8%BD%A8%E5%8F%AF%E4%BB%A5%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [虞书欣 THE9演唱你会来吗](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20THE9%E6%BC%94%E5%94%B1%E4%BD%A0%E4%BC%9A%E6%9D%A5%E5%90%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
