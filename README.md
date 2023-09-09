@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 14:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 14:22:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [中考分流40%的孩子去哪了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%80%83%E5%88%86%E6%B5%8140%25%E7%9A%84%E5%AD%A9%E5%AD%90%E5%8E%BB%E5%93%AA%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [人类人均每天仅花2.6小时用于经济活动](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E4%BA%BA%E5%9D%87%E6%AF%8F%E5%A4%A9%E4%BB%85%E8%8A%B12.6%E5%B0%8F%E6%97%B6%E7%94%A8%E4%BA%8E%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [女婴输液后尖叫昏迷成脑萎缩](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A9%B4%E8%BE%93%E6%B6%B2%E5%90%8E%E5%B0%96%E5%8F%AB%E6%98%8F%E8%BF%B7%E6%88%90%E8%84%91%E8%90%8E%E7%BC%A9%23&t=31&band_rank=6&Refer=top)<br />
-7. [王俊凯 巴黎时装周](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8&t=31&band_rank=7&Refer=top)<br />
-8. [高考时被关禁闭网红狗去世](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%97%B6%E8%A2%AB%E5%85%B3%E7%A6%81%E9%97%AD%E7%BD%91%E7%BA%A2%E7%8B%97%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
+7. [高考时被关禁闭网红狗去世](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%97%B6%E8%A2%AB%E5%85%B3%E7%A6%81%E9%97%AD%E7%BD%91%E7%BA%A2%E7%8B%97%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
+8. [王俊凯 巴黎时装周](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8&t=31&band_rank=8&Refer=top)<br />
 9. [老师听课中发现一个流泪的男孩](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%90%AC%E8%AF%BE%E4%B8%AD%E5%8F%91%E7%8E%B0%E4%B8%80%E4%B8%AA%E6%B5%81%E6%B3%AA%E7%9A%84%E7%94%B7%E5%AD%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
