@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 22:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 22:30:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [成龙周杰伦合唱千里之外](https://www.baidu.com/s?wd=%E6%88%90%E9%BE%99%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%90%88%E5%94%B1%E5%8D%83%E9%87%8C%E4%B9%8B%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡锡进：四川工商学院声明是种悲哀](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E5%9B%9B%E5%B7%9D%E5%B7%A5%E5%95%86%E5%AD%A6%E9%99%A2%E5%A3%B0%E6%98%8E%E6%98%AF%E7%A7%8D%E6%82%B2%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [拜登访印 称支持印度在联合国入常](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E8%AE%BF%E5%8D%B0+%E7%A7%B0%E6%94%AF%E6%8C%81%E5%8D%B0%E5%BA%A6%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E5%85%A5%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [便利店老板疑似冤枉小孩没付钱](https://www.baidu.com/s?wd=%E4%BE%BF%E5%88%A9%E5%BA%97%E8%80%81%E6%9D%BF%E7%96%91%E4%BC%BC%E5%86%A4%E6%9E%89%E5%B0%8F%E5%AD%A9%E6%B2%A1%E4%BB%98%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [幼儿园收200多万学费开学前却闭园](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%94%B6200%E5%A4%9A%E4%B8%87%E5%AD%A6%E8%B4%B9%E5%BC%80%E5%AD%A6%E5%89%8D%E5%8D%B4%E9%97%AD%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [未收净中药遭哄抢？村支书澄清](https://www.baidu.com/s?wd=%E6%9C%AA%E6%94%B6%E5%87%80%E4%B8%AD%E8%8D%AF%E9%81%AD%E5%93%84%E6%8A%A2%EF%BC%9F%E6%9D%91%E6%94%AF%E4%B9%A6%E6%BE%84%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [成龙周杰伦合唱千里之外](https://www.baidu.com/s?wd=%E6%88%90%E9%BE%99%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%90%88%E5%94%B1%E5%8D%83%E9%87%8C%E4%B9%8B%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡锡进：四川工商学院声明是种悲哀](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E5%9B%9B%E5%B7%9D%E5%B7%A5%E5%95%86%E5%AD%A6%E9%99%A2%E5%A3%B0%E6%98%8E%E6%98%AF%E7%A7%8D%E6%82%B2%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [拜登访印 称支持印度在联合国入常](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E8%AE%BF%E5%8D%B0+%E7%A7%B0%E6%94%AF%E6%8C%81%E5%8D%B0%E5%BA%A6%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E5%85%A5%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [便利店老板疑似冤枉小孩没付钱](https://www.baidu.com/s?wd=%E4%BE%BF%E5%88%A9%E5%BA%97%E8%80%81%E6%9D%BF%E7%96%91%E4%BC%BC%E5%86%A4%E6%9E%89%E5%B0%8F%E5%AD%A9%E6%B2%A1%E4%BB%98%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [幼儿园收200多万学费开学前却闭园](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%94%B6200%E5%A4%9A%E4%B8%87%E5%AD%A6%E8%B4%B9%E5%BC%80%E5%AD%A6%E5%89%8D%E5%8D%B4%E9%97%AD%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [未收净中药遭哄抢？村支书澄清](https://www.baidu.com/s?wd=%E6%9C%AA%E6%94%B6%E5%87%80%E4%B8%AD%E8%8D%AF%E9%81%AD%E5%93%84%E6%8A%A2%EF%BC%9F%E6%9D%91%E6%94%AF%E4%B9%A6%E6%BE%84%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
