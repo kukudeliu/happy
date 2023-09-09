@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 14:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 14:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [人类人均每天仅花2.6小时用于经济活动](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E4%BA%BA%E5%9D%87%E6%AF%8F%E5%A4%A9%E4%BB%85%E8%8A%B12.6%E5%B0%8F%E6%97%B6%E7%94%A8%E4%BA%8E%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [王俊凯 巴黎时装周](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8&t=31&band_rank=6&Refer=top)<br />
 7. [成毅张予曦南风知我意双人海报](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%8D%97%E9%A3%8E%E7%9F%A5%E6%88%91%E6%84%8F%E5%8F%8C%E4%BA%BA%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [李佳航海陆还珠格格12年后再搭新剧](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E8%88%AA%E6%B5%B7%E9%99%86%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC12%E5%B9%B4%E5%90%8E%E5%86%8D%E6%90%AD%E6%96%B0%E5%89%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [为什么摘掉眼镜后听力变差了](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%91%98%E6%8E%89%E7%9C%BC%E9%95%9C%E5%90%8E%E5%90%AC%E5%8A%9B%E5%8F%98%E5%B7%AE%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [为什么摘掉眼镜后听力变差了](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%91%98%E6%8E%89%E7%9C%BC%E9%95%9C%E5%90%8E%E5%90%AC%E5%8A%9B%E5%8F%98%E5%B7%AE%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [李佳航海陆还珠格格12年后再搭新剧](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E8%88%AA%E6%B5%B7%E9%99%86%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC12%E5%B9%B4%E5%90%8E%E5%86%8D%E6%90%AD%E6%96%B0%E5%89%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
