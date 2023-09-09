@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 21:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 21:09:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [莫迪身前桌签上国名是“婆罗多”](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%BA%AB%E5%89%8D%E6%A1%8C%E7%AD%BE%E4%B8%8A%E5%9B%BD%E5%90%8D%E6%98%AF%E2%80%9C%E5%A9%86%E7%BD%97%E5%A4%9A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运火炬手有了不起的榜样](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E7%81%AB%E7%82%AC%E6%89%8B%E6%9C%89%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E6%A6%9C%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [幼儿园收200多万学费开学前却闭园](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%94%B6200%E5%A4%9A%E4%B8%87%E5%AD%A6%E8%B4%B9%E5%BC%80%E5%AD%A6%E5%89%8D%E5%8D%B4%E9%97%AD%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [二胎妈妈诞下龙凤三胞胎](https://www.baidu.com/s?wd=%E4%BA%8C%E8%83%8E%E5%A6%88%E5%A6%88%E8%AF%9E%E4%B8%8B%E9%BE%99%E5%87%A4%E4%B8%89%E8%83%9E%E8%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [暴雨后的动物园：猛兽显得暴躁](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%90%8E%E7%9A%84%E5%8A%A8%E7%89%A9%E5%9B%AD%EF%BC%9A%E7%8C%9B%E5%85%BD%E6%98%BE%E5%BE%97%E6%9A%B4%E8%BA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子和朋友逛西湖遭大叔一路偷拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%92%8C%E6%9C%8B%E5%8F%8B%E9%80%9B%E8%A5%BF%E6%B9%96%E9%81%AD%E5%A4%A7%E5%8F%94%E4%B8%80%E8%B7%AF%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [曝周琦将赴京手术](https://www.baidu.com/s?wd=%E6%9B%9D%E5%91%A8%E7%90%A6%E5%B0%86%E8%B5%B4%E4%BA%AC%E6%89%8B%E6%9C%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [拜登访印 称支持印度在联合国入常](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E8%AE%BF%E5%8D%B0+%E7%A7%B0%E6%94%AF%E6%8C%81%E5%8D%B0%E5%BA%A6%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E5%85%A5%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方通报学生贷款参加培训自缢身亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%8F%82%E5%8A%A0%E5%9F%B9%E8%AE%AD%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多条广东暴雨相关传言被辟谣](https://www.baidu.com/s?wd=%E5%A4%9A%E6%9D%A1%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E7%9B%B8%E5%85%B3%E4%BC%A0%E8%A8%80%E8%A2%AB%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [莫迪身前桌签上国名是“婆罗多”](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%BA%AB%E5%89%8D%E6%A1%8C%E7%AD%BE%E4%B8%8A%E5%9B%BD%E5%90%8D%E6%98%AF%E2%80%9C%E5%A9%86%E7%BD%97%E5%A4%9A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运火炬手有了不起的榜样](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E7%81%AB%E7%82%AC%E6%89%8B%E6%9C%89%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E6%A6%9C%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [幼儿园收200多万学费开学前却闭园](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%94%B6200%E5%A4%9A%E4%B8%87%E5%AD%A6%E8%B4%B9%E5%BC%80%E5%AD%A6%E5%89%8D%E5%8D%B4%E9%97%AD%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [二胎妈妈诞下龙凤三胞胎](https://www.baidu.com/s?wd=%E4%BA%8C%E8%83%8E%E5%A6%88%E5%A6%88%E8%AF%9E%E4%B8%8B%E9%BE%99%E5%87%A4%E4%B8%89%E8%83%9E%E8%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [暴雨后的动物园：猛兽显得暴躁](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%90%8E%E7%9A%84%E5%8A%A8%E7%89%A9%E5%9B%AD%EF%BC%9A%E7%8C%9B%E5%85%BD%E6%98%BE%E5%BE%97%E6%9A%B4%E8%BA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子和朋友逛西湖遭大叔一路偷拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%92%8C%E6%9C%8B%E5%8F%8B%E9%80%9B%E8%A5%BF%E6%B9%96%E9%81%AD%E5%A4%A7%E5%8F%94%E4%B8%80%E8%B7%AF%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [曝周琦将赴京手术](https://www.baidu.com/s?wd=%E6%9B%9D%E5%91%A8%E7%90%A6%E5%B0%86%E8%B5%B4%E4%BA%AC%E6%89%8B%E6%9C%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [拜登访印 称支持印度在联合国入常](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E8%AE%BF%E5%8D%B0+%E7%A7%B0%E6%94%AF%E6%8C%81%E5%8D%B0%E5%BA%A6%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E5%85%A5%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方通报学生贷款参加培训自缢身亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%8F%82%E5%8A%A0%E5%9F%B9%E8%AE%AD%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多条广东暴雨相关传言被辟谣](https://www.baidu.com/s?wd=%E5%A4%9A%E6%9D%A1%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E7%9B%B8%E5%85%B3%E4%BC%A0%E8%A8%80%E8%A2%AB%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
