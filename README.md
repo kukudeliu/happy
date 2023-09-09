@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 21:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 21:03:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [亚运火炬手有了不起的榜样](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E7%81%AB%E7%82%AC%E6%89%8B%E6%9C%89%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E6%A6%9C%E6%A0%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [学生不订奶要开县级医院以上诊断证明](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E4%B8%8D%E8%AE%A2%E5%A5%B6%E8%A6%81%E5%BC%80%E5%8E%BF%E7%BA%A7%E5%8C%BB%E9%99%A2%E4%BB%A5%E4%B8%8A%E8%AF%8A%E6%96%AD%E8%AF%81%E6%98%8E%23&t=31&band_rank=4&Refer=top)<br />
 5. [王力宏演唱会](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=5&Refer=top)<br />
-6. [国足开场10分钟丢球](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E5%BC%80%E5%9C%BA10%E5%88%86%E9%92%9F%E4%B8%A2%E7%90%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [管理余额宝10多年的基金经理离职了](https://s.weibo.com/weibo?q=%23%E7%AE%A1%E7%90%86%E4%BD%99%E9%A2%9D%E5%AE%9D10%E5%A4%9A%E5%B9%B4%E7%9A%84%E5%9F%BA%E9%87%91%E7%BB%8F%E7%90%86%E7%A6%BB%E8%81%8C%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [陶喆 melody](https://s.weibo.com/weibo?q=%E9%99%B6%E5%96%86%20melody&t=31&band_rank=8&Refer=top)<br />
-9. [中级经济法](https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BA%A7%E7%BB%8F%E6%B5%8E%E6%B3%95&t=31&band_rank=9&Refer=top)<br />
+6. [管理余额宝10多年的基金经理离职了](https://s.weibo.com/weibo?q=%23%E7%AE%A1%E7%90%86%E4%BD%99%E9%A2%9D%E5%AE%9D10%E5%A4%9A%E5%B9%B4%E7%9A%84%E5%9F%BA%E9%87%91%E7%BB%8F%E7%90%86%E7%A6%BB%E8%81%8C%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [国足开场10分钟丢球](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E5%BC%80%E5%9C%BA10%E5%88%86%E9%92%9F%E4%B8%A2%E7%90%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [中级经济法](https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BA%A7%E7%BB%8F%E6%B5%8E%E6%B3%95&t=31&band_rank=8&Refer=top)<br />
+9. [陶喆 melody](https://s.weibo.com/weibo?q=%E9%99%B6%E5%96%86%20melody&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
