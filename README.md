@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 19:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 19:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [三年租房花费了十五万](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%B9%B4%E7%A7%9F%E6%88%BF%E8%8A%B1%E8%B4%B9%E4%BA%86%E5%8D%81%E4%BA%94%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [男老师收到花边走边拍开心炫耀](https://s.weibo.com/weibo?q=%23%E7%94%B7%E8%80%81%E5%B8%88%E6%94%B6%E5%88%B0%E8%8A%B1%E8%BE%B9%E8%B5%B0%E8%BE%B9%E6%8B%8D%E5%BC%80%E5%BF%83%E7%82%AB%E8%80%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [蔡文静劝女孩别被偶像剧骗了](https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E5%8A%9D%E5%A5%B3%E5%AD%A9%E5%88%AB%E8%A2%AB%E5%81%B6%E5%83%8F%E5%89%A7%E9%AA%97%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [虞书欣 THE9演唱你会来吗](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20THE9%E6%BC%94%E5%94%B1%E4%BD%A0%E4%BC%9A%E6%9D%A5%E5%90%97&t=31&band_rank=9&Refer=top)<br />
+9. [虞书欣张凌赫杀敌1000自损1000](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%9D%80%E6%95%8C1000%E8%87%AA%E6%8D%9F1000%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
