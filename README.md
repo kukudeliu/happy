@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 19:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 19:12:01</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [习近平寄语教师队伍](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%84%E8%AF%AD%E6%95%99%E5%B8%88%E9%98%9F%E4%BC%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [莫迪身前桌签上国名是“婆罗多”](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%BA%AB%E5%89%8D%E6%A1%8C%E7%AD%BE%E4%B8%8A%E5%9B%BD%E5%90%8D%E6%98%AF%E2%80%9C%E5%A9%86%E7%BD%97%E5%A4%9A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [2新生同名同姓同籍贯同专业同寝室](https://www.baidu.com/s?wd=2%E6%96%B0%E7%94%9F%E5%90%8C%E5%90%8D%E5%90%8C%E5%A7%93%E5%90%8C%E7%B1%8D%E8%B4%AF%E5%90%8C%E4%B8%93%E4%B8%9A%E5%90%8C%E5%AF%9D%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [哈尔滨打响商品房省外推介第一枪](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E6%89%93%E5%93%8D%E5%95%86%E5%93%81%E6%88%BF%E7%9C%81%E5%A4%96%E6%8E%A8%E4%BB%8B%E7%AC%AC%E4%B8%80%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运火炬手有了不起的榜样](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E7%81%AB%E7%82%AC%E6%89%8B%E6%9C%89%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E6%A6%9C%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华人讲述摩洛哥地震惊魂时刻](https://www.baidu.com/s?wd=%E5%8D%8E%E4%BA%BA%E8%AE%B2%E8%BF%B0%E6%91%A9%E6%B4%9B%E5%93%A5%E5%9C%B0%E9%9C%87%E6%83%8A%E9%AD%82%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [苹果分析师郭明錤谈华为归来](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%88%86%E6%9E%90%E5%B8%88%E9%83%AD%E6%98%8E%E9%8C%A4%E8%B0%88%E5%8D%8E%E4%B8%BA%E5%BD%92%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [幼儿园收200多万学费开学前却闭园](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%94%B6200%E5%A4%9A%E4%B8%87%E5%AD%A6%E8%B4%B9%E5%BC%80%E5%AD%A6%E5%89%8D%E5%8D%B4%E9%97%AD%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夫妻捡手机要报酬被拒将失主摁地上](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%8D%A1%E6%89%8B%E6%9C%BA%E8%A6%81%E6%8A%A5%E9%85%AC%E8%A2%AB%E6%8B%92%E5%B0%86%E5%A4%B1%E4%B8%BB%E6%91%81%E5%9C%B0%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2新生同名同姓同籍贯同专业同寝室](https://www.baidu.com/s?wd=2%E6%96%B0%E7%94%9F%E5%90%8C%E5%90%8D%E5%90%8C%E5%A7%93%E5%90%8C%E7%B1%8D%E8%B4%AF%E5%90%8C%E4%B8%93%E4%B8%9A%E5%90%8C%E5%AF%9D%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多条广东暴雨相关传言被辟谣](https://www.baidu.com/s?wd=%E5%A4%9A%E6%9D%A1%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E7%9B%B8%E5%85%B3%E4%BC%A0%E8%A8%80%E8%A2%AB%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [习近平寄语教师队伍](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%84%E8%AF%AD%E6%95%99%E5%B8%88%E9%98%9F%E4%BC%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [莫迪身前桌签上国名是“婆罗多”](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%BA%AB%E5%89%8D%E6%A1%8C%E7%AD%BE%E4%B8%8A%E5%9B%BD%E5%90%8D%E6%98%AF%E2%80%9C%E5%A9%86%E7%BD%97%E5%A4%9A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [2新生同名同姓同籍贯同专业同寝室](https://www.baidu.com/s?wd=2%E6%96%B0%E7%94%9F%E5%90%8C%E5%90%8D%E5%90%8C%E5%A7%93%E5%90%8C%E7%B1%8D%E8%B4%AF%E5%90%8C%E4%B8%93%E4%B8%9A%E5%90%8C%E5%AF%9D%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [哈尔滨打响商品房省外推介第一枪](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E6%89%93%E5%93%8D%E5%95%86%E5%93%81%E6%88%BF%E7%9C%81%E5%A4%96%E6%8E%A8%E4%BB%8B%E7%AC%AC%E4%B8%80%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运火炬手有了不起的榜样](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E7%81%AB%E7%82%AC%E6%89%8B%E6%9C%89%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E6%A6%9C%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华人讲述摩洛哥地震惊魂时刻](https://www.baidu.com/s?wd=%E5%8D%8E%E4%BA%BA%E8%AE%B2%E8%BF%B0%E6%91%A9%E6%B4%9B%E5%93%A5%E5%9C%B0%E9%9C%87%E6%83%8A%E9%AD%82%E6%97%B6%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [苹果分析师郭明錤谈华为归来](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%88%86%E6%9E%90%E5%B8%88%E9%83%AD%E6%98%8E%E9%8C%A4%E8%B0%88%E5%8D%8E%E4%B8%BA%E5%BD%92%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [幼儿园收200多万学费开学前却闭园](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%94%B6200%E5%A4%9A%E4%B8%87%E5%AD%A6%E8%B4%B9%E5%BC%80%E5%AD%A6%E5%89%8D%E5%8D%B4%E9%97%AD%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夫妻捡手机要报酬被拒将失主摁地上](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%8D%A1%E6%89%8B%E6%9C%BA%E8%A6%81%E6%8A%A5%E9%85%AC%E8%A2%AB%E6%8B%92%E5%B0%86%E5%A4%B1%E4%B8%BB%E6%91%81%E5%9C%B0%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2新生同名同姓同籍贯同专业同寝室](https://www.baidu.com/s?wd=2%E6%96%B0%E7%94%9F%E5%90%8C%E5%90%8D%E5%90%8C%E5%A7%93%E5%90%8C%E7%B1%8D%E8%B4%AF%E5%90%8C%E4%B8%93%E4%B8%9A%E5%90%8C%E5%AF%9D%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多条广东暴雨相关传言被辟谣](https://www.baidu.com/s?wd=%E5%A4%9A%E6%9D%A1%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E7%9B%B8%E5%85%B3%E4%BC%A0%E8%A8%80%E8%A2%AB%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
