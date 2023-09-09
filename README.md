@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 00:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 00:25:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [教师节](https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%8A%82&t=31&band_rank=4&Refer=top)<br />
 5. [张杰觉得自己自恋时期是个疯子](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E8%87%AA%E6%81%8B%E6%97%B6%E6%9C%9F%E6%98%AF%E4%B8%AA%E7%96%AF%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [李荣浩演唱会后台收到100个烧饼夹里脊](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%8F%B0%E6%94%B6%E5%88%B0100%E4%B8%AA%E7%83%A7%E9%A5%BC%E5%A4%B9%E9%87%8C%E8%84%8A%23&t=31&band_rank=6&Refer=top)<br />
-7. [王俊凯 俊昇文化](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E4%BF%8A%E6%98%87%E6%96%87%E5%8C%96&t=31&band_rank=7&Refer=top)<br />
-8. [周杰伦能不能给张凌赫一首歌的时间](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%83%BD%E4%B8%8D%E8%83%BD%E7%BB%99%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%B8%80%E9%A6%96%E6%AD%8C%E7%9A%84%E6%97%B6%E9%97%B4%23&t=31&band_rank=8&Refer=top)<br />
+7. [周杰伦能不能给张凌赫一首歌的时间](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%83%BD%E4%B8%8D%E8%83%BD%E7%BB%99%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%B8%80%E9%A6%96%E6%AD%8C%E7%9A%84%E6%97%B6%E9%97%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [王俊凯 俊昇文化](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E4%BF%8A%E6%98%87%E6%96%87%E5%8C%96&t=31&band_rank=8&Refer=top)<br />
 9. [你还在买余额宝吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BF%98%E5%9C%A8%E4%B9%B0%E4%BD%99%E9%A2%9D%E5%AE%9D%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
