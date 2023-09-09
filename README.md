@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 13:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 13:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [成毅张予曦南风知我意双人海报](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%8D%97%E9%A3%8E%E7%9F%A5%E6%88%91%E6%84%8F%E5%8F%8C%E4%BA%BA%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [纪念毛泽东同志逝世47周年](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%BF%B5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%9647%E5%91%A8%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [虞书欣在剧组打几份工啊](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9C%A8%E5%89%A7%E7%BB%84%E6%89%93%E5%87%A0%E4%BB%BD%E5%B7%A5%E5%95%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [折断兵马俑手指的美国男子向中国道歉](https://s.weibo.com/weibo?q=%23%E6%8A%98%E6%96%AD%E5%85%B5%E9%A9%AC%E4%BF%91%E6%89%8B%E6%8C%87%E7%9A%84%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [偷票房 到底是谁偷了谁](https://s.weibo.com/weibo?q=%E5%81%B7%E7%A5%A8%E6%88%BF%20%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E5%81%B7%E4%BA%86%E8%B0%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
