@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 00:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 00:54:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [华晨宇接受法师称号](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%8E%A5%E5%8F%97%E6%B3%95%E5%B8%88%E7%A7%B0%E5%8F%B7%23&t=31&band_rank=2&Refer=top)<br />
 3. [夜西湖点燃亚运之夜](https://s.weibo.com/weibo?q=%23%E5%A4%9C%E8%A5%BF%E6%B9%96%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=3&Refer=top)<br />
 4. [张杰觉得自己自恋时期是个疯子](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E8%87%AA%E6%81%8B%E6%97%B6%E6%9C%9F%E6%98%AF%E4%B8%AA%E7%96%AF%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
-5. [教师节](https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%8A%82&t=31&band_rank=5&Refer=top)<br />
-6. [邓稼先和奥本海默的对比](https://s.weibo.com/weibo?q=%E9%82%93%E7%A8%BC%E5%85%88%E5%92%8C%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E7%9A%84%E5%AF%B9%E6%AF%94&t=31&band_rank=6&Refer=top)<br />
+5. [邓稼先和奥本海默的对比](https://s.weibo.com/weibo?q=%E9%82%93%E7%A8%BC%E5%85%88%E5%92%8C%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E7%9A%84%E5%AF%B9%E6%AF%94&t=31&band_rank=5&Refer=top)<br />
+6. [教师节](https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%8A%82&t=31&band_rank=6&Refer=top)<br />
 7. [你还在买余额宝吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BF%98%E5%9C%A8%E4%B9%B0%E4%BD%99%E9%A2%9D%E5%AE%9D%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [王俊凯 俊昇文化](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E4%BF%8A%E6%98%87%E6%96%87%E5%8C%96&t=31&band_rank=8&Refer=top)<br />
 9. [周杰伦能不能给张凌赫一首歌的时间](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%83%BD%E4%B8%8D%E8%83%BD%E7%BB%99%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%B8%80%E9%A6%96%E6%AD%8C%E7%9A%84%E6%97%B6%E9%97%B4%23&t=31&band_rank=9&Refer=top)<br />
@@ -23,8 +23,8 @@
 4. [触摸亚运之城的文化脉动](https://www.baidu.com/s?wd=%E8%A7%A6%E6%91%B8%E4%BA%9A%E8%BF%90%E4%B9%8B%E5%9F%8E%E7%9A%84%E6%96%87%E5%8C%96%E8%84%89%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [台风鸳鸯接近日本 福岛等地房屋被淹](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E9%B8%B3%E9%B8%AF%E6%8E%A5%E8%BF%91%E6%97%A5%E6%9C%AC+%E7%A6%8F%E5%B2%9B%E7%AD%89%E5%9C%B0%E6%88%BF%E5%B1%8B%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马斯克和女高管所生双胞胎曝光](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%92%8C%E5%A5%B3%E9%AB%98%E7%AE%A1%E6%89%80%E7%94%9F%E5%8F%8C%E8%83%9E%E8%83%8E%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [警方通报学生贷款参加培训自缢身亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%8F%82%E5%8A%A0%E5%9F%B9%E8%AE%AD%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胡锡进：四川工商学院声明是种悲哀](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E5%9B%9B%E5%B7%9D%E5%B7%A5%E5%95%86%E5%AD%A6%E9%99%A2%E5%A3%B0%E6%98%8E%E6%98%AF%E7%A7%8D%E6%82%B2%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男孩翻墙离校后失联 家属发声](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E7%BF%BB%E5%A2%99%E7%A6%BB%E6%A0%A1%E5%90%8E%E5%A4%B1%E8%81%94+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [为杀子凶手求情 15年后她仍未被遗忘](https://www.baidu.com/s?wd=%E4%B8%BA%E6%9D%80%E5%AD%90%E5%87%B6%E6%89%8B%E6%B1%82%E6%83%85+15%E5%B9%B4%E5%90%8E%E5%A5%B9%E4%BB%8D%E6%9C%AA%E8%A2%AB%E9%81%97%E5%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [未收净中药遭哄抢？村支书澄清](https://www.baidu.com/s?wd=%E6%9C%AA%E6%94%B6%E5%87%80%E4%B8%AD%E8%8D%AF%E9%81%AD%E5%93%84%E6%8A%A2%EF%BC%9F%E6%9D%91%E6%94%AF%E4%B9%A6%E6%BE%84%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [触摸亚运之城的文化脉动](https://www.baidu.com/s?wd=%E8%A7%A6%E6%91%B8%E4%BA%9A%E8%BF%90%E4%B9%8B%E5%9F%8E%E7%9A%84%E6%96%87%E5%8C%96%E8%84%89%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [台风鸳鸯接近日本 福岛等地房屋被淹](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E9%B8%B3%E9%B8%AF%E6%8E%A5%E8%BF%91%E6%97%A5%E6%9C%AC+%E7%A6%8F%E5%B2%9B%E7%AD%89%E5%9C%B0%E6%88%BF%E5%B1%8B%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马斯克和女高管所生双胞胎曝光](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%92%8C%E5%A5%B3%E9%AB%98%E7%AE%A1%E6%89%80%E7%94%9F%E5%8F%8C%E8%83%9E%E8%83%8E%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [警方通报学生贷款参加培训自缢身亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%8F%82%E5%8A%A0%E5%9F%B9%E8%AE%AD%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胡锡进：四川工商学院声明是种悲哀](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E5%9B%9B%E5%B7%9D%E5%B7%A5%E5%95%86%E5%AD%A6%E9%99%A2%E5%A3%B0%E6%98%8E%E6%98%AF%E7%A7%8D%E6%82%B2%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男孩翻墙离校后失联 家属发声](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E7%BF%BB%E5%A2%99%E7%A6%BB%E6%A0%A1%E5%90%8E%E5%A4%B1%E8%81%94+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [为杀子凶手求情 15年后她仍未被遗忘](https://www.baidu.com/s?wd=%E4%B8%BA%E6%9D%80%E5%AD%90%E5%87%B6%E6%89%8B%E6%B1%82%E6%83%85+15%E5%B9%B4%E5%90%8E%E5%A5%B9%E4%BB%8D%E6%9C%AA%E8%A2%AB%E9%81%97%E5%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [未收净中药遭哄抢？村支书澄清](https://www.baidu.com/s?wd=%E6%9C%AA%E6%94%B6%E5%87%80%E4%B8%AD%E8%8D%AF%E9%81%AD%E5%93%84%E6%8A%A2%EF%BC%9F%E6%9D%91%E6%94%AF%E4%B9%A6%E6%BE%84%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
