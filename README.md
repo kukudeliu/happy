@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 15:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 15:24:01</h4></div>
 
 > 微博  
 
 1. [高考时被关禁闭走红的流浪狗去世](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%97%B6%E8%A2%AB%E5%85%B3%E7%A6%81%E9%97%AD%E8%B5%B0%E7%BA%A2%E7%9A%84%E6%B5%81%E6%B5%AA%E7%8B%97%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [仅有14人住的中国海岛](https://s.weibo.com/weibo?q=%E4%BB%85%E6%9C%8914%E4%BA%BA%E4%BD%8F%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%B2%9B&t=31&band_rank=2&Refer=top)<br />
+2. [男子想和聋哑女友结婚领证被拒](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%83%B3%E5%92%8C%E8%81%8B%E5%93%91%E5%A5%B3%E5%8F%8B%E7%BB%93%E5%A9%9A%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92%23&t=31&band_rank=2&Refer=top)<br />
 3. [成片粮食在大地上铺展好壮观](https://s.weibo.com/weibo?q=%23%E6%88%90%E7%89%87%E7%B2%AE%E9%A3%9F%E5%9C%A8%E5%A4%A7%E5%9C%B0%E4%B8%8A%E9%93%BA%E5%B1%95%E5%A5%BD%E5%A3%AE%E8%A7%82%23&t=31&band_rank=3&Refer=top)<br />
-4. [男子想和聋哑女友结婚领证被拒](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%83%B3%E5%92%8C%E8%81%8B%E5%93%91%E5%A5%B3%E5%8F%8B%E7%BB%93%E5%A9%9A%E9%A2%86%E8%AF%81%E8%A2%AB%E6%8B%92%23&t=31&band_rank=4&Refer=top)<br />
+4. [仅有14人住的中国海岛](https://s.weibo.com/weibo?q=%E4%BB%85%E6%9C%8914%E4%BA%BA%E4%BD%8F%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%B2%9B&t=31&band_rank=4&Refer=top)<br />
 5. [摩洛哥地震遇难人数升至632人](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E5%9C%B0%E9%9C%87%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B3632%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [荷兰光刻机巨头说我们太自以为是了](https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0%E5%85%89%E5%88%BB%E6%9C%BA%E5%B7%A8%E5%A4%B4%E8%AF%B4%E6%88%91%E4%BB%AC%E5%A4%AA%E8%87%AA%E4%BB%A5%E4%B8%BA%E6%98%AF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [中考分流40%的孩子去哪了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%80%83%E5%88%86%E6%B5%8140%25%E7%9A%84%E5%AD%A9%E5%AD%90%E5%8E%BB%E5%93%AA%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
