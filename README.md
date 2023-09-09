@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 23:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-09 23:10:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [10年米粉换用iPhone是什么体验](https://s.weibo.com/weibo?q=10%E5%B9%B4%E7%B1%B3%E7%B2%89%E6%8D%A2%E7%94%A8iPhone%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&t=31&band_rank=5&Refer=top)<br />
 6. [华晨宇接受法师称号](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%8E%A5%E5%8F%97%E6%B3%95%E5%B8%88%E7%A7%B0%E5%8F%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [TFBOYS为王源新综艺宣传](https://s.weibo.com/weibo?q=%23TFBOYS%E4%B8%BA%E7%8E%8B%E6%BA%90%E6%96%B0%E7%BB%BC%E8%89%BA%E5%AE%A3%E4%BC%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [肖战田雨20集终于见面了](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%94%B0%E9%9B%A820%E9%9B%86%E7%BB%88%E4%BA%8E%E8%A7%81%E9%9D%A2%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [胡锡进 四川工商学院的声明是一种悲哀](https://s.weibo.com/weibo?q=%E8%83%A1%E9%94%A1%E8%BF%9B%20%E5%9B%9B%E5%B7%9D%E5%B7%A5%E5%95%86%E5%AD%A6%E9%99%A2%E7%9A%84%E5%A3%B0%E6%98%8E%E6%98%AF%E4%B8%80%E7%A7%8D%E6%82%B2%E5%93%80&t=31&band_rank=9&Refer=top)<br />
+8. [胡锡进 四川工商学院的声明是一种悲哀](https://s.weibo.com/weibo?q=%E8%83%A1%E9%94%A1%E8%BF%9B%20%E5%9B%9B%E5%B7%9D%E5%B7%A5%E5%95%86%E5%AD%A6%E9%99%A2%E7%9A%84%E5%A3%B0%E6%98%8E%E6%98%AF%E4%B8%80%E7%A7%8D%E6%82%B2%E5%93%80&t=31&band_rank=8&Refer=top)<br />
+9. [肖战田雨20集终于见面了](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%94%B0%E9%9B%A820%E9%9B%86%E7%BB%88%E4%BA%8E%E8%A7%81%E9%9D%A2%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
