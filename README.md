@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 19:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 19:58:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [蔡依林恭喜马龙夺冠](https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%81%AD%E5%96%9C%E9%A9%AC%E9%BE%99%E5%A4%BA%E5%86%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [她们是老师也是科学大牛](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BB%AC%E6%98%AF%E8%80%81%E5%B8%88%E4%B9%9F%E6%98%AF%E7%A7%91%E5%AD%A6%E5%A4%A7%E7%89%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [赵丽颖去看张碧晨演唱会](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8E%BB%E7%9C%8B%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
-9. [上海73岁初代丁克现状颠覆想象](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B773%E5%B2%81%E5%88%9D%E4%BB%A3%E4%B8%81%E5%85%8B%E7%8E%B0%E7%8A%B6%E9%A2%A0%E8%A6%86%E6%83%B3%E8%B1%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [王靖雯把KPL说成KPI](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9D%96%E9%9B%AF%E6%8A%8AKPL%E8%AF%B4%E6%88%90KPI%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
