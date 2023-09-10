@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 06:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 06:20:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [同学们便利贴写祝福拼成画送老师](https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E4%BE%BF%E5%88%A9%E8%B4%B4%E5%86%99%E7%A5%9D%E7%A6%8F%E6%8B%BC%E6%88%90%E7%94%BB%E9%80%81%E8%80%81%E5%B8%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨紫说长相思第二季比第一季更虐](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%B4%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%AF%94%E7%AC%AC%E4%B8%80%E5%AD%A3%E6%9B%B4%E8%99%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [警号253689请回答](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%8F%B7253689%E8%AF%B7%E5%9B%9E%E7%AD%94%23&t=31&band_rank=5&Refer=top)<br />
-6. [薛之谦成都39度高烧依旧开唱](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%90%E9%83%BD39%E5%BA%A6%E9%AB%98%E7%83%A7%E4%BE%9D%E6%97%A7%E5%BC%80%E5%94%B1%23&t=31&band_rank=6&Refer=top)<br />
-7. [男子抢劫156元分赃30元躲进山洞14年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%A2%E5%8A%AB156%E5%85%83%E5%88%86%E8%B5%8330%E5%85%83%E8%BA%B2%E8%BF%9B%E5%B1%B1%E6%B4%9E14%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [真的在体面里听到了体面](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E5%9C%A8%E4%BD%93%E9%9D%A2%E9%87%8C%E5%90%AC%E5%88%B0%E4%BA%86%E4%BD%93%E9%9D%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [塞尔维亚没有约基奇也这么强](https://s.weibo.com/weibo?q=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%B2%A1%E6%9C%89%E7%BA%A6%E5%9F%BA%E5%A5%87%E4%B9%9F%E8%BF%99%E4%B9%88%E5%BC%BA&t=31&band_rank=9&Refer=top)<br />
+6. [男子抢劫156元分赃30元躲进山洞14年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%A2%E5%8A%AB156%E5%85%83%E5%88%86%E8%B5%8330%E5%85%83%E8%BA%B2%E8%BF%9B%E5%B1%B1%E6%B4%9E14%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
+7. [薛之谦成都39度高烧依旧开唱](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%90%E9%83%BD39%E5%BA%A6%E9%AB%98%E7%83%A7%E4%BE%9D%E6%97%A7%E5%BC%80%E5%94%B1%23&t=31&band_rank=7&Refer=top)<br />
+8. [塞尔维亚没有约基奇也这么强](https://s.weibo.com/weibo?q=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%B2%A1%E6%9C%89%E7%BA%A6%E5%9F%BA%E5%A5%87%E4%B9%9F%E8%BF%99%E4%B9%88%E5%BC%BA&t=31&band_rank=8&Refer=top)<br />
+9. [真的在体面里听到了体面](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E5%9C%A8%E4%BD%93%E9%9D%A2%E9%87%8C%E5%90%AC%E5%88%B0%E4%BA%86%E4%BD%93%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
