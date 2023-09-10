@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 22:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 22:06:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [52岁校长与学生一同考入北大](https://www.baidu.com/s?wd=52%E5%B2%81%E6%A0%A1%E9%95%BF%E4%B8%8E%E5%AD%A6%E7%94%9F%E4%B8%80%E5%90%8C%E8%80%83%E5%85%A5%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [认房不认贷10天后的北京楼市](https://www.baidu.com/s?wd=%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B710%E5%A4%A9%E5%90%8E%E7%9A%84%E5%8C%97%E4%BA%AC%E6%A5%BC%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [东北一定能够重振雄风](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E4%B8%80%E5%AE%9A%E8%83%BD%E5%A4%9F%E9%87%8D%E6%8C%AF%E9%9B%84%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [鲁山“威胁信事件”写信人已被行拘](https://www.baidu.com/s?wd=%E9%B2%81%E5%B1%B1%E2%80%9C%E5%A8%81%E8%83%81%E4%BF%A1%E4%BA%8B%E4%BB%B6%E2%80%9D%E5%86%99%E4%BF%A1%E4%BA%BA%E5%B7%B2%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [网红男歌手涉黑涉恶 警方征集线索](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%94%B7%E6%AD%8C%E6%89%8B%E6%B6%89%E9%BB%91%E6%B6%89%E6%81%B6+%E8%AD%A6%E6%96%B9%E5%BE%81%E9%9B%86%E7%BA%BF%E7%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老外乘地铁躺座椅上装睡50分钟](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%96%E4%B9%98%E5%9C%B0%E9%93%81%E8%BA%BA%E5%BA%A7%E6%A4%85%E4%B8%8A%E8%A3%85%E7%9D%A150%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [上海车主为躲查酒驾跳湖 警方回应](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BD%A6%E4%B8%BB%E4%B8%BA%E8%BA%B2%E6%9F%A5%E9%85%92%E9%A9%BE%E8%B7%B3%E6%B9%96+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [陈建州范玮琪夫妇风波后首度同台](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E5%B7%9E%E8%8C%83%E7%8E%AE%E7%90%AA%E5%A4%AB%E5%A6%87%E9%A3%8E%E6%B3%A2%E5%90%8E%E9%A6%96%E5%BA%A6%E5%90%8C%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [52岁校长与学生一同考入北大](https://www.baidu.com/s?wd=52%E5%B2%81%E6%A0%A1%E9%95%BF%E4%B8%8E%E5%AD%A6%E7%94%9F%E4%B8%80%E5%90%8C%E8%80%83%E5%85%A5%E5%8C%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [认房不认贷10天后的北京楼市](https://www.baidu.com/s?wd=%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B710%E5%A4%A9%E5%90%8E%E7%9A%84%E5%8C%97%E4%BA%AC%E6%A5%BC%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [东北一定能够重振雄风](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E4%B8%80%E5%AE%9A%E8%83%BD%E5%A4%9F%E9%87%8D%E6%8C%AF%E9%9B%84%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [鲁山“威胁信事件”写信人已被行拘](https://www.baidu.com/s?wd=%E9%B2%81%E5%B1%B1%E2%80%9C%E5%A8%81%E8%83%81%E4%BF%A1%E4%BA%8B%E4%BB%B6%E2%80%9D%E5%86%99%E4%BF%A1%E4%BA%BA%E5%B7%B2%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [网红男歌手涉黑涉恶 警方征集线索](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%94%B7%E6%AD%8C%E6%89%8B%E6%B6%89%E9%BB%91%E6%B6%89%E6%81%B6+%E8%AD%A6%E6%96%B9%E5%BE%81%E9%9B%86%E7%BA%BF%E7%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老外乘地铁躺座椅上装睡50分钟](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%96%E4%B9%98%E5%9C%B0%E9%93%81%E8%BA%BA%E5%BA%A7%E6%A4%85%E4%B8%8A%E8%A3%85%E7%9D%A150%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [上海车主为躲查酒驾跳湖 警方回应](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BD%A6%E4%B8%BB%E4%B8%BA%E8%BA%B2%E6%9F%A5%E9%85%92%E9%A9%BE%E8%B7%B3%E6%B9%96+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [陈建州范玮琪夫妇风波后首度同台](https://www.baidu.com/s?wd=%E9%99%88%E5%BB%BA%E5%B7%9E%E8%8C%83%E7%8E%AE%E7%90%AA%E5%A4%AB%E5%A6%87%E9%A3%8E%E6%B3%A2%E5%90%8E%E9%A6%96%E5%BA%A6%E5%90%8C%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
