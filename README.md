@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 17:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 17:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [华晨宇演唱会大屏背景是恶评](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%A7%E5%B1%8F%E8%83%8C%E6%99%AF%E6%98%AF%E6%81%B6%E8%AF%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [华为已启动全面回归全球手机市场的通盘计划](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%B7%B2%E5%90%AF%E5%8A%A8%E5%85%A8%E9%9D%A2%E5%9B%9E%E5%BD%92%E5%85%A8%E7%90%83%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E7%9A%84%E9%80%9A%E7%9B%98%E8%AE%A1%E5%88%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [天官赐福动画定档海报](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E5%8A%A8%E7%94%BB%E5%AE%9A%E6%A1%A3%E6%B5%B7%E6%8A%A5&t=31&band_rank=8&Refer=top)<br />
-9. [孙阳承诺票房破3亿晒腹肌](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%98%B3%E6%89%BF%E8%AF%BA%E7%A5%A8%E6%88%BF%E7%A0%B43%E4%BA%BF%E6%99%92%E8%85%B9%E8%82%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [马龙男单夺冠](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
