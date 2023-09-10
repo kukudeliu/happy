@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 09:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 09:59:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [当亚运会遇上中华文化](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%81%87%E4%B8%8A%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%23&t=31&band_rank=3&Refer=top)<br />
 4. [教师节](https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%8A%82&t=31&band_rank=4&Refer=top)<br />
 5. [国足43年首次赢不了马来西亚](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B343%E5%B9%B4%E9%A6%96%E6%AC%A1%E8%B5%A2%E4%B8%8D%E4%BA%86%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%23&t=31&band_rank=5&Refer=top)<br />
-6. [G20](https://s.weibo.com/weibo?q=%23G20%23&t=31&band_rank=6&Refer=top)<br />
-7. [警察也是老师只教出圈的学生](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E4%B9%9F%E6%98%AF%E8%80%81%E5%B8%88%E5%8F%AA%E6%95%99%E5%87%BA%E5%9C%88%E7%9A%84%E5%AD%A6%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [女子手指肿胀21天开刀发现仙人掌刺](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%8B%E6%8C%87%E8%82%BF%E8%83%8021%E5%A4%A9%E5%BC%80%E5%88%80%E5%8F%91%E7%8E%B0%E4%BB%99%E4%BA%BA%E6%8E%8C%E5%88%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [教师节祝福](https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%8A%82%E7%A5%9D%E7%A6%8F&t=31&band_rank=9&Refer=top)<br />
+6. [警察也是老师只教出圈的学生](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E4%B9%9F%E6%98%AF%E8%80%81%E5%B8%88%E5%8F%AA%E6%95%99%E5%87%BA%E5%9C%88%E7%9A%84%E5%AD%A6%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
+7. [G20](https://s.weibo.com/weibo?q=%23G20%23&t=31&band_rank=7&Refer=top)<br />
+8. [教师节祝福](https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%8A%82%E7%A5%9D%E7%A6%8F&t=31&band_rank=8&Refer=top)<br />
+9. [女子手指肿胀21天开刀发现仙人掌刺](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%8B%E6%8C%87%E8%82%BF%E8%83%8021%E5%A4%A9%E5%BC%80%E5%88%80%E5%8F%91%E7%8E%B0%E4%BB%99%E4%BA%BA%E6%8E%8C%E5%88%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
