@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 18:01:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 18:02:02</h4></div>
 
 > 微博  
 
-1. [邓为费加罗男士金九首封预告](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E8%B4%B9%E5%8A%A0%E7%BD%97%E7%94%B7%E5%A3%AB%E9%87%91%E4%B9%9D%E9%A6%96%E5%B0%81%E9%A2%84%E5%91%8A%23&t=31&band_rank=1&Refer=top)<br />
+1. [国航CA403疑发出紧急代码7700](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%88%AACA403%E7%96%91%E5%8F%91%E5%87%BA%E7%B4%A7%E6%80%A5%E4%BB%A3%E7%A0%817700%23&t=31&band_rank=1&Refer=top)<br />
 2. [她们是老师也是科学大牛](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BB%AC%E6%98%AF%E8%80%81%E5%B8%88%E4%B9%9F%E6%98%AF%E7%A7%91%E5%AD%A6%E5%A4%A7%E7%89%9B%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会开幕日恰逢秋分](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E6%97%A5%E6%81%B0%E9%80%A2%E7%A7%8B%E5%88%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [警方通报重庆女子持刀袭警被击伤死亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%8D%E5%BA%86%E5%A5%B3%E5%AD%90%E6%8C%81%E5%88%80%E8%A2%AD%E8%AD%A6%E8%A2%AB%E5%87%BB%E4%BC%A4%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [儿子觉得自己家在班里最平凡](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E5%AE%B6%E5%9C%A8%E7%8F%AD%E9%87%8C%E6%9C%80%E5%B9%B3%E5%87%A1%23&t=31&band_rank=5&Refer=top)<br />
-6. [花了一百万后消费观转变](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E4%BA%86%E4%B8%80%E7%99%BE%E4%B8%87%E5%90%8E%E6%B6%88%E8%B4%B9%E8%A7%82%E8%BD%AC%E5%8F%98%23&t=31&band_rank=6&Refer=top)<br />
+6. [邓为费加罗男士金九首封预告](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E8%B4%B9%E5%8A%A0%E7%BD%97%E7%94%B7%E5%A3%AB%E9%87%91%E4%B9%9D%E9%A6%96%E5%B0%81%E9%A2%84%E5%91%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [警察执勤时偶遇自己小学老师](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E6%89%A7%E5%8B%A4%E6%97%B6%E5%81%B6%E9%81%87%E8%87%AA%E5%B7%B1%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [华晨宇演唱会大屏背景是恶评](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%A7%E5%B1%8F%E8%83%8C%E6%99%AF%E6%98%AF%E6%81%B6%E8%AF%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [华为已启动全面回归全球手机市场的通盘计划](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%B7%B2%E5%90%AF%E5%8A%A8%E5%85%A8%E9%9D%A2%E5%9B%9E%E5%BD%92%E5%85%A8%E7%90%83%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E7%9A%84%E9%80%9A%E7%9B%98%E8%AE%A1%E5%88%92%23&t=31&band_rank=9&Refer=top)<br />
+8. [花了一百万后消费观转变](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E4%BA%86%E4%B8%80%E7%99%BE%E4%B8%87%E5%90%8E%E6%B6%88%E8%B4%B9%E8%A7%82%E8%BD%AC%E5%8F%98%23&t=31&band_rank=8&Refer=top)<br />
+9. [华晨宇演唱会大屏背景是恶评](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%A7%E5%B1%8F%E8%83%8C%E6%99%AF%E6%98%AF%E6%81%B6%E8%AF%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
