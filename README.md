@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 07:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 07:32:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [杨紫说长相思第二季比第一季更虐](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%B4%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%AF%94%E7%AC%AC%E4%B8%80%E5%AD%A3%E6%9B%B4%E8%99%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [这届年轻人为何变得抠门了](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%8F%98%E5%BE%97%E6%8A%A0%E9%97%A8%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子抢劫156元分赃30元躲进山洞14年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%A2%E5%8A%AB156%E5%85%83%E5%88%86%E8%B5%8330%E5%85%83%E8%BA%B2%E8%BF%9B%E5%B1%B1%E6%B4%9E14%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [薛之谦成都39度高烧依旧开唱](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%90%E9%83%BD39%E5%BA%A6%E9%AB%98%E7%83%A7%E4%BE%9D%E6%97%A7%E5%BC%80%E5%94%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [德约科维奇vs梅德韦杰夫](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87vs%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%23&t=31&band_rank=9&Refer=top)<br />
+8. [德约科维奇vs梅德韦杰夫](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87vs%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%23&t=31&band_rank=8&Refer=top)<br />
+9. [薛之谦成都39度高烧依旧开唱](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%90%E9%83%BD39%E5%BA%A6%E9%AB%98%E7%83%A7%E4%BE%9D%E6%97%A7%E5%BC%80%E5%94%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
