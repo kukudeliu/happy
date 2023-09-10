@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 14:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 14:37:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [华晨宇演唱会大屏背景是恶评](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%A7%E5%B1%8F%E8%83%8C%E6%99%AF%E6%98%AF%E6%81%B6%E8%AF%84%23&t=31&band_rank=4&Refer=top)<br />
 5. [女大学生差点被裤子单杀](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B7%AE%E7%82%B9%E8%A2%AB%E8%A3%A4%E5%AD%90%E5%8D%95%E6%9D%80%23&t=31&band_rank=5&Refer=top)<br />
 6. [王源像跟着父母应酬的我](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E5%83%8F%E8%B7%9F%E7%9D%80%E7%88%B6%E6%AF%8D%E5%BA%94%E9%85%AC%E7%9A%84%E6%88%91&t=31&band_rank=6&Refer=top)<br />
-7. [鹤壁地震](https://s.weibo.com/weibo?q=%E9%B9%A4%E5%A3%81%E5%9C%B0%E9%9C%87&t=31&band_rank=7&Refer=top)<br />
-8. [襄阳](https://s.weibo.com/weibo?q=%E8%A5%84%E9%98%B3&t=31&band_rank=8&Refer=top)<br />
+7. [襄阳](https://s.weibo.com/weibo?q=%E8%A5%84%E9%98%B3&t=31&band_rank=7&Refer=top)<br />
+8. [鹤壁地震](https://s.weibo.com/weibo?q=%E9%B9%A4%E5%A3%81%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top)<br />
 9. [Rose或将和霉霉合作](https://s.weibo.com/weibo?q=%23Rose%E6%88%96%E5%B0%86%E5%92%8C%E9%9C%89%E9%9C%89%E5%90%88%E4%BD%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
