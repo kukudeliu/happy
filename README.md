@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 20:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 20:16:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [余华 你只要把老人写成老人](https://s.weibo.com/weibo?q=%E4%BD%99%E5%8D%8E%20%E4%BD%A0%E5%8F%AA%E8%A6%81%E6%8A%8A%E8%80%81%E4%BA%BA%E5%86%99%E6%88%90%E8%80%81%E4%BA%BA&t=31&band_rank=4&Refer=top)<br />
 5. [赵丽颖去看张碧晨演唱会](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8E%BB%E7%9C%8B%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=5&Refer=top)<br />
 6. [王靖雯把KPL说成KPI](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9D%96%E9%9B%AF%E6%8A%8AKPL%E8%AF%B4%E6%88%90KPI%23&t=31&band_rank=6&Refer=top)<br />
-7. [迪丽热巴力士直播](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8A%9B%E5%A3%AB%E7%9B%B4%E6%92%AD&t=31&band_rank=7&Refer=top)<br />
+7. [薛之谦成都39度高烧依旧开唱](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%90%E9%83%BD39%E5%BA%A6%E9%AB%98%E7%83%A7%E4%BE%9D%E6%97%A7%E5%BC%80%E5%94%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [国航通报CA403挂紧急代码7700](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%88%AA%E9%80%9A%E6%8A%A5CA403%E6%8C%82%E7%B4%A7%E6%80%A5%E4%BB%A3%E7%A0%817700%23&t=31&band_rank=8&Refer=top)<br />
 9. [花了一百万后消费观转变](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E4%BA%86%E4%B8%80%E7%99%BE%E4%B8%87%E5%90%8E%E6%B6%88%E8%B4%B9%E8%A7%82%E8%BD%AC%E5%8F%98%23&t=31&band_rank=9&Refer=top)<br />
 
