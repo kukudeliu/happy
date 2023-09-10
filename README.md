@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 18:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 18:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [我命由我不由天 你说三千就三千](https://s.weibo.com/weibo?q=%E6%88%91%E5%91%BD%E7%94%B1%E6%88%91%E4%B8%8D%E7%94%B1%E5%A4%A9%20%E4%BD%A0%E8%AF%B4%E4%B8%89%E5%8D%83%E5%B0%B1%E4%B8%89%E5%8D%83&t=31&band_rank=6&Refer=top)<br />
 7. [她们是老师也是科学大牛](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BB%AC%E6%98%AF%E8%80%81%E5%B8%88%E4%B9%9F%E6%98%AF%E7%A7%91%E5%AD%A6%E5%A4%A7%E7%89%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [余华 你只要把老人写成老人](https://s.weibo.com/weibo?q=%E4%BD%99%E5%8D%8E%20%E4%BD%A0%E5%8F%AA%E8%A6%81%E6%8A%8A%E8%80%81%E4%BA%BA%E5%86%99%E6%88%90%E8%80%81%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
-9. [花了一百万后消费观转变](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E4%BA%86%E4%B8%80%E7%99%BE%E4%B8%87%E5%90%8E%E6%B6%88%E8%B4%B9%E8%A7%82%E8%BD%AC%E5%8F%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [天官赐福](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
