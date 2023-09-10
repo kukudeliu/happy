@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 12:34:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 12:35:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [警察也是老师只教出圈的学生](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E4%B9%9F%E6%98%AF%E8%80%81%E5%B8%88%E5%8F%AA%E6%95%99%E5%87%BA%E5%9C%88%E7%9A%84%E5%AD%A6%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [烘焙 我接触过的最大生活骗局](https://s.weibo.com/weibo?q=%E7%83%98%E7%84%99%20%E6%88%91%E6%8E%A5%E8%A7%A6%E8%BF%87%E7%9A%84%E6%9C%80%E5%A4%A7%E7%94%9F%E6%B4%BB%E9%AA%97%E5%B1%80&t=31&band_rank=7&Refer=top)<br />
 8. [德国足协花1亿日元请日本比赛](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E8%B6%B3%E5%8D%8F%E8%8A%B11%E4%BA%BF%E6%97%A5%E5%85%83%E8%AF%B7%E6%97%A5%E6%9C%AC%E6%AF%94%E8%B5%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [马丽沈腾吃折耳根演我](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%E6%B2%88%E8%85%BE%E5%90%83%E6%8A%98%E8%80%B3%E6%A0%B9%E6%BC%94%E6%88%91&t=31&band_rank=9&Refer=top)<br />
+9. [华晨宇谈癌创作理念](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E8%B0%88%E7%99%8C%E5%88%9B%E4%BD%9C%E7%90%86%E5%BF%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
