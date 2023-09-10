@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 12:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 12:13:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [张歆艺 这个天赶往鸟巢的都是真的吧](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%AD%86%E8%89%BA%20%E8%BF%99%E4%B8%AA%E5%A4%A9%E8%B5%B6%E5%BE%80%E9%B8%9F%E5%B7%A2%E7%9A%84%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%A7&t=31&band_rank=5&Refer=top)<br />
 6. [警察也是老师只教出圈的学生](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E4%B9%9F%E6%98%AF%E8%80%81%E5%B8%88%E5%8F%AA%E6%95%99%E5%87%BA%E5%9C%88%E7%9A%84%E5%AD%A6%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [中级会计](https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BA%A7%E4%BC%9A%E8%AE%A1&t=31&band_rank=7&Refer=top)<br />
-8. [警方通报大学生出地铁站后失踪](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%87%BA%E5%9C%B0%E9%93%81%E7%AB%99%E5%90%8E%E5%A4%B1%E8%B8%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [教师节快乐](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%E5%BF%AB%E4%B9%90%23&t=31&band_rank=9&Refer=top)<br />
+8. [华莎接受警方调查](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E8%8E%8E%E6%8E%A5%E5%8F%97%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5%23&t=31&band_rank=8&Refer=top)<br />
+9. [警方通报大学生出地铁站后失踪](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%87%BA%E5%9C%B0%E9%93%81%E7%AB%99%E5%90%8E%E5%A4%B1%E8%B8%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
