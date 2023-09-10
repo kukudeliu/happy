@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 00:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 00:42:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [薛之谦成都39度高烧依旧开唱](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%90%E9%83%BD39%E5%BA%A6%E9%AB%98%E7%83%A7%E4%BE%9D%E6%97%A7%E5%BC%80%E5%94%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨紫说长相思第二季比第一季更虐](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%B4%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%AF%94%E7%AC%AC%E4%B8%80%E5%AD%A3%E6%9B%B4%E8%99%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [国货难带和尊重消费者是两码事](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B4%A7%E9%9A%BE%E5%B8%A6%E5%92%8C%E5%B0%8A%E9%87%8D%E6%B6%88%E8%B4%B9%E8%80%85%E6%98%AF%E4%B8%A4%E7%A0%81%E4%BA%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [周杰伦嘉宾](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%98%89%E5%AE%BE&t=31&band_rank=7&Refer=top)<br />
-8. [DF冲](https://s.weibo.com/weibo?q=DF%E5%86%B2&t=31&band_rank=8&Refer=top)<br />
+7. [DF冲](https://s.weibo.com/weibo?q=DF%E5%86%B2&t=31&band_rank=7&Refer=top)<br />
+8. [周杰伦嘉宾](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%98%89%E5%AE%BE&t=31&band_rank=8&Refer=top)<br />
 9. [男子抢劫156元分赃30元躲进山洞14年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%A2%E5%8A%AB156%E5%85%83%E5%88%86%E8%B5%8330%E5%85%83%E8%BA%B2%E8%BF%9B%E5%B1%B1%E6%B4%9E14%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
