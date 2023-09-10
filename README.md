@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 15:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 15:14:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [沙特高官秀中文：我厦大毕业的](https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E9%AB%98%E5%AE%98%E7%A7%80%E4%B8%AD%E6%96%87%EF%BC%9A%E6%88%91%E5%8E%A6%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特朗普猛批拜登哽咽失语40秒](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8C%9B%E6%89%B9%E6%8B%9C%E7%99%BB%E5%93%BD%E5%92%BD%E5%A4%B1%E8%AF%AD40%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生经期用按摩仪按腰致肾破裂](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%BB%8F%E6%9C%9F%E7%94%A8%E6%8C%89%E6%91%A9%E4%BB%AA%E6%8C%89%E8%85%B0%E8%87%B4%E8%82%BE%E7%A0%B4%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [牡丹仙子雕像被指缺乏美感 当地回应](https://www.baidu.com/s?wd=%E7%89%A1%E4%B8%B9%E4%BB%99%E5%AD%90%E9%9B%95%E5%83%8F%E8%A2%AB%E6%8C%87%E7%BC%BA%E4%B9%8F%E7%BE%8E%E6%84%9F+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国科学家在海底发现神秘金蛋](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%9C%A8%E6%B5%B7%E5%BA%95%E5%8F%91%E7%8E%B0%E7%A5%9E%E7%A7%98%E9%87%91%E8%9B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传深圳人为买房排队离婚不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B7%B1%E5%9C%B3%E4%BA%BA%E4%B8%BA%E4%B9%B0%E6%88%BF%E6%8E%92%E9%98%9F%E7%A6%BB%E5%A9%9A%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [沙特高官秀中文：我厦大毕业的](https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E9%AB%98%E5%AE%98%E7%A7%80%E4%B8%AD%E6%96%87%EF%BC%9A%E6%88%91%E5%8E%A6%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特朗普猛批拜登哽咽失语40秒](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8C%9B%E6%89%B9%E6%8B%9C%E7%99%BB%E5%93%BD%E5%92%BD%E5%A4%B1%E8%AF%AD40%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生经期用按摩仪按腰致肾破裂](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%BB%8F%E6%9C%9F%E7%94%A8%E6%8C%89%E6%91%A9%E4%BB%AA%E6%8C%89%E8%85%B0%E8%87%B4%E8%82%BE%E7%A0%B4%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [牡丹仙子雕像被指缺乏美感 当地回应](https://www.baidu.com/s?wd=%E7%89%A1%E4%B8%B9%E4%BB%99%E5%AD%90%E9%9B%95%E5%83%8F%E8%A2%AB%E6%8C%87%E7%BC%BA%E4%B9%8F%E7%BE%8E%E6%84%9F+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国科学家在海底发现神秘金蛋](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%9C%A8%E6%B5%B7%E5%BA%95%E5%8F%91%E7%8E%B0%E7%A5%9E%E7%A7%98%E9%87%91%E8%9B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传深圳人为买房排队离婚不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B7%B1%E5%9C%B3%E4%BA%BA%E4%B8%BA%E4%B9%B0%E6%88%BF%E6%8E%92%E9%98%9F%E7%A6%BB%E5%A9%9A%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
