@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 21:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 21:26:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [薛之谦成都39度高烧依旧开唱](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%90%E9%83%BD39%E5%BA%A6%E9%AB%98%E7%83%A7%E4%BE%9D%E6%97%A7%E5%BC%80%E5%94%B1%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚运会场馆水幔设计既典雅又实用](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9C%BA%E9%A6%86%E6%B0%B4%E5%B9%94%E8%AE%BE%E8%AE%A1%E6%97%A2%E5%85%B8%E9%9B%85%E5%8F%88%E5%AE%9E%E7%94%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [花西子](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%A5%BF%E5%AD%90&t=31&band_rank=4&Refer=top)<br />
-5. [TTG对战狼队](https://s.weibo.com/weibo?q=%23TTG%E5%AF%B9%E6%88%98%E7%8B%BC%E9%98%9F%23&t=31&band_rank=5&Refer=top)<br />
-6. [天狼星天为首](https://s.weibo.com/weibo?q=%E5%A4%A9%E7%8B%BC%E6%98%9F%E5%A4%A9%E4%B8%BA%E9%A6%96&t=31&band_rank=6&Refer=top)<br />
+5. [天狼星天为首](https://s.weibo.com/weibo?q=%E5%A4%A9%E7%8B%BC%E6%98%9F%E5%A4%A9%E4%B8%BA%E9%A6%96&t=31&band_rank=5&Refer=top)<br />
+6. [TTG对战狼队](https://s.weibo.com/weibo?q=%23TTG%E5%AF%B9%E6%88%98%E7%8B%BC%E9%98%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [警方通报重庆女子持刀袭警被击伤死亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%8D%E5%BA%86%E5%A5%B3%E5%AD%90%E6%8C%81%E5%88%80%E8%A2%AD%E8%AD%A6%E8%A2%AB%E5%87%BB%E4%BC%A4%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [赵丽颖去看张碧晨演唱会](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8E%BB%E7%9C%8B%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
 9. [王靖雯把KPL说成KPI](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9D%96%E9%9B%AF%E6%8A%8AKPL%E8%AF%B4%E6%88%90KPI%23&t=31&band_rank=9&Refer=top)<br />
