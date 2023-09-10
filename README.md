@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 22:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 22:57:02</h4></div>
 
 > 微博  
 
-1. [TTG夺冠](https://s.weibo.com/weibo?q=%23TTG%E5%A4%BA%E5%86%A0%23&t=31&band_rank=1&Refer=top)<br />
-2. [丞磊卢昱晓大大方方营业](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8D%A2%E6%98%B1%E6%99%93%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E8%90%A5%E4%B8%9A%23&t=31&band_rank=2&Refer=top)<br />
+1. [丞磊卢昱晓大大方方营业](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8D%A2%E6%98%B1%E6%99%93%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E8%90%A5%E4%B8%9A%23&t=31&band_rank=1&Refer=top)<br />
+2. [TTG夺冠](https://s.weibo.com/weibo?q=%23TTG%E5%A4%BA%E5%86%A0%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚运会场馆水幔设计既典雅又实用](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9C%BA%E9%A6%86%E6%B0%B4%E5%B9%94%E8%AE%BE%E8%AE%A1%E6%97%A2%E5%85%B8%E9%9B%85%E5%8F%88%E5%AE%9E%E7%94%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [李佳琦说找不到以前状态了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%AF%B4%E6%89%BE%E4%B8%8D%E5%88%B0%E4%BB%A5%E5%89%8D%E7%8A%B6%E6%80%81%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [九尾](https://s.weibo.com/weibo?q=%E4%B9%9D%E5%B0%BE&t=31&band_rank=5&Refer=top)<br />
