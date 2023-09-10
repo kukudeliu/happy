@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 14:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 14:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王源像跟着父母应酬的我](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E5%83%8F%E8%B7%9F%E7%9D%80%E7%88%B6%E6%AF%8D%E5%BA%94%E9%85%AC%E7%9A%84%E6%88%91&t=31&band_rank=6&Refer=top)<br />
 7. [鹤壁地震](https://s.weibo.com/weibo?q=%E9%B9%A4%E5%A3%81%E5%9C%B0%E9%9C%87&t=31&band_rank=7&Refer=top)<br />
 8. [襄阳](https://s.weibo.com/weibo?q=%E8%A5%84%E9%98%B3&t=31&band_rank=8&Refer=top)<br />
-9. [花花暂停展出](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E6%9A%82%E5%81%9C%E5%B1%95%E5%87%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [Rose或将和霉霉合作](https://s.weibo.com/weibo?q=%23Rose%E6%88%96%E5%B0%86%E5%92%8C%E9%9C%89%E9%9C%89%E5%90%88%E4%BD%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
