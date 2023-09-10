@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 20:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 20:50:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [赵丽颖去看张碧晨演唱会](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8E%BB%E7%9C%8B%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会开幕日恰逢秋分](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E6%97%A5%E6%81%B0%E9%80%A2%E7%A7%8B%E5%88%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [国航CA403疑发出紧急代码7700](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%88%AACA403%E7%96%91%E5%8F%91%E5%87%BA%E7%B4%A7%E6%80%A5%E4%BB%A3%E7%A0%817700%23&t=31&band_rank=4&Refer=top)<br />
-5. [余华 你只要把老人写成老人](https://s.weibo.com/weibo?q=%E4%BD%99%E5%8D%8E%20%E4%BD%A0%E5%8F%AA%E8%A6%81%E6%8A%8A%E8%80%81%E4%BA%BA%E5%86%99%E6%88%90%E8%80%81%E4%BA%BA&t=31&band_rank=5&Refer=top)<br />
-6. [王靖雯把KPL说成KPI](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9D%96%E9%9B%AF%E6%8A%8AKPL%E8%AF%B4%E6%88%90KPI%23&t=31&band_rank=6&Refer=top)<br />
-7. [蔡依林恭喜马龙夺冠](https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%81%AD%E5%96%9C%E9%A9%AC%E9%BE%99%E5%A4%BA%E5%86%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [警方通报重庆女子持刀袭警被击伤死亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%8D%E5%BA%86%E5%A5%B3%E5%AD%90%E6%8C%81%E5%88%80%E8%A2%AD%E8%AD%A6%E8%A2%AB%E5%87%BB%E4%BC%A4%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+5. [王靖雯把KPL说成KPI](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9D%96%E9%9B%AF%E6%8A%8AKPL%E8%AF%B4%E6%88%90KPI%23&t=31&band_rank=5&Refer=top)<br />
+6. [余华 你只要把老人写成老人](https://s.weibo.com/weibo?q=%E4%BD%99%E5%8D%8E%20%E4%BD%A0%E5%8F%AA%E8%A6%81%E6%8A%8A%E8%80%81%E4%BA%BA%E5%86%99%E6%88%90%E8%80%81%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
+7. [警方通报重庆女子持刀袭警被击伤死亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%8D%E5%BA%86%E5%A5%B3%E5%AD%90%E6%8C%81%E5%88%80%E8%A2%AD%E8%AD%A6%E8%A2%AB%E5%87%BB%E4%BC%A4%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
+8. [蔡依林恭喜马龙夺冠](https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%81%AD%E5%96%9C%E9%A9%AC%E9%BE%99%E5%A4%BA%E5%86%A0%23&t=31&band_rank=8&Refer=top)<br />
 9. [花了一百万后消费观转变](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E4%BA%86%E4%B8%80%E7%99%BE%E4%B8%87%E5%90%8E%E6%B6%88%E8%B4%B9%E8%A7%82%E8%BD%AC%E5%8F%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
