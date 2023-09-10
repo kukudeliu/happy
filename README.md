@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 19:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 19:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [上海73岁初代丁克现状颠覆想象](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B773%E5%B2%81%E5%88%9D%E4%BB%A3%E4%B8%81%E5%85%8B%E7%8E%B0%E7%8A%B6%E9%A2%A0%E8%A6%86%E6%83%B3%E8%B1%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [她们是老师也是科学大牛](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BB%AC%E6%98%AF%E8%80%81%E5%B8%88%E4%B9%9F%E6%98%AF%E7%A7%91%E5%AD%A6%E5%A4%A7%E7%89%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [CA403所有人员均安全撤离](https://s.weibo.com/weibo?q=%23CA403%E6%89%80%E6%9C%89%E4%BA%BA%E5%91%98%E5%9D%87%E5%AE%89%E5%85%A8%E6%92%A4%E7%A6%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [花了一百万后消费观转变](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E4%BA%86%E4%B8%80%E7%99%BE%E4%B8%87%E5%90%8E%E6%B6%88%E8%B4%B9%E8%A7%82%E8%BD%AC%E5%8F%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [国航通报CA403挂紧急代码7700](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%88%AA%E9%80%9A%E6%8A%A5CA403%E6%8C%82%E7%B4%A7%E6%80%A5%E4%BB%A3%E7%A0%817700%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
