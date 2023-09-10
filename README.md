@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 07:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 07:19:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [27岁女子极端减肥瘦20斤致闭经1年半](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A5%B3%E5%AD%90%E6%9E%81%E7%AB%AF%E5%87%8F%E8%82%A5%E7%98%A620%E6%96%A4%E8%87%B4%E9%97%AD%E7%BB%8F1%E5%B9%B4%E5%8D%8A%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨紫说长相思第二季比第一季更虐](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%B4%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%AF%94%E7%AC%AC%E4%B8%80%E5%AD%A3%E6%9B%B4%E8%99%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [男子抢劫156元分赃30元躲进山洞14年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%A2%E5%8A%AB156%E5%85%83%E5%88%86%E8%B5%8330%E5%85%83%E8%BA%B2%E8%BF%9B%E5%B1%B1%E6%B4%9E14%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
-7. [薛之谦成都39度高烧依旧开唱](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%90%E9%83%BD39%E5%BA%A6%E9%AB%98%E7%83%A7%E4%BE%9D%E6%97%A7%E5%BC%80%E5%94%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [这届年轻人为何变得抠门了](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%8F%98%E5%BE%97%E6%8A%A0%E9%97%A8%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [这届年轻人为何变得抠门了](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%8F%98%E5%BE%97%E6%8A%A0%E9%97%A8%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [薛之谦成都39度高烧依旧开唱](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%90%E9%83%BD39%E5%BA%A6%E9%AB%98%E7%83%A7%E4%BE%9D%E6%97%A7%E5%BC%80%E5%94%B1%23&t=31&band_rank=8&Refer=top)<br />
 9. [用女儿的奶茶袋做文具](https://s.weibo.com/weibo?q=%E7%94%A8%E5%A5%B3%E5%84%BF%E7%9A%84%E5%A5%B6%E8%8C%B6%E8%A2%8B%E5%81%9A%E6%96%87%E5%85%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,8 +23,8 @@
 4. [东北一定能够重振雄风](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E4%B8%80%E5%AE%9A%E8%83%BD%E5%A4%9F%E9%87%8D%E6%8C%AF%E9%9B%84%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国航通报CA403航班起火事件](https://www.baidu.com/s?wd=%E5%9B%BD%E8%88%AA%E9%80%9A%E6%8A%A5CA403%E8%88%AA%E7%8F%AD%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老外乘地铁躺座椅上装睡50分钟](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%96%E4%B9%98%E5%9C%B0%E9%93%81%E8%BA%BA%E5%BA%A7%E6%A4%85%E4%B8%8A%E8%A3%85%E7%9D%A150%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [刘德华62岁生日 半个港圈到场庆贺](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E62%E5%B2%81%E7%94%9F%E6%97%A5+%E5%8D%8A%E4%B8%AA%E6%B8%AF%E5%9C%88%E5%88%B0%E5%9C%BA%E5%BA%86%E8%B4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [蔡依林恭喜马龙夺冠](https://www.baidu.com/s?wd=%E8%94%A1%E4%BE%9D%E6%9E%97%E6%81%AD%E5%96%9C%E9%A9%AC%E9%BE%99%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [22岁演员摩托表演遇火灾严重烧伤](https://www.baidu.com/s?wd=22%E5%B2%81%E6%BC%94%E5%91%98%E6%91%A9%E6%89%98%E8%A1%A8%E6%BC%94%E9%81%87%E7%81%AB%E7%81%BE%E4%B8%A5%E9%87%8D%E7%83%A7%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [刘德华62岁生日 半个港圈到场庆贺](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E62%E5%B2%81%E7%94%9F%E6%97%A5+%E5%8D%8A%E4%B8%AA%E6%B8%AF%E5%9C%88%E5%88%B0%E5%9C%BA%E5%BA%86%E8%B4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆下调最低工资标准?官方辟谣](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%8B%E8%B0%83%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E6%A0%87%E5%87%86%3F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [东北一定能够重振雄风](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E4%B8%80%E5%AE%9A%E8%83%BD%E5%A4%9F%E9%87%8D%E6%8C%AF%E9%9B%84%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国航通报CA403航班起火事件](https://www.baidu.com/s?wd=%E5%9B%BD%E8%88%AA%E9%80%9A%E6%8A%A5CA403%E8%88%AA%E7%8F%AD%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老外乘地铁躺座椅上装睡50分钟](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%96%E4%B9%98%E5%9C%B0%E9%93%81%E8%BA%BA%E5%BA%A7%E6%A4%85%E4%B8%8A%E8%A3%85%E7%9D%A150%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [刘德华62岁生日 半个港圈到场庆贺](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E62%E5%B2%81%E7%94%9F%E6%97%A5+%E5%8D%8A%E4%B8%AA%E6%B8%AF%E5%9C%88%E5%88%B0%E5%9C%BA%E5%BA%86%E8%B4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [蔡依林恭喜马龙夺冠](https://www.baidu.com/s?wd=%E8%94%A1%E4%BE%9D%E6%9E%97%E6%81%AD%E5%96%9C%E9%A9%AC%E9%BE%99%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [22岁演员摩托表演遇火灾严重烧伤](https://www.baidu.com/s?wd=22%E5%B2%81%E6%BC%94%E5%91%98%E6%91%A9%E6%89%98%E8%A1%A8%E6%BC%94%E9%81%87%E7%81%AB%E7%81%BE%E4%B8%A5%E9%87%8D%E7%83%A7%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [刘德华62岁生日 半个港圈到场庆贺](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E62%E5%B2%81%E7%94%9F%E6%97%A5+%E5%8D%8A%E4%B8%AA%E6%B8%AF%E5%9C%88%E5%88%B0%E5%9C%BA%E5%BA%86%E8%B4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆下调最低工资标准?官方辟谣](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%8B%E8%B0%83%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E6%A0%87%E5%87%86%3F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
