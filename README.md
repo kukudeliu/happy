@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 12:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 12:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [罗斯结婚](https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%96%AF%E7%BB%93%E5%A9%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [张歆艺 这个天赶往鸟巢的都是真的吧](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%AD%86%E8%89%BA%20%E8%BF%99%E4%B8%AA%E5%A4%A9%E8%B5%B6%E5%BE%80%E9%B8%9F%E5%B7%A2%E7%9A%84%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%A7&t=31&band_rank=7&Refer=top)<br />
 8. [华晨宇谈癌创作理念](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E8%B0%88%E7%99%8C%E5%88%9B%E4%BD%9C%E7%90%86%E5%BF%B5%23&t=31&band_rank=8&Refer=top)<br />
-9. [烘焙 我接触过的最大生活骗局](https://s.weibo.com/weibo?q=%E7%83%98%E7%84%99%20%E6%88%91%E6%8E%A5%E8%A7%A6%E8%BF%87%E7%9A%84%E6%9C%80%E5%A4%A7%E7%94%9F%E6%B4%BB%E9%AA%97%E5%B1%80&t=31&band_rank=9&Refer=top)<br />
+9. [范丞丞自称比沈腾白敬亭文静一点](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%87%AA%E7%A7%B0%E6%AF%94%E6%B2%88%E8%85%BE%E7%99%BD%E6%95%AC%E4%BA%AD%E6%96%87%E9%9D%99%E4%B8%80%E7%82%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
