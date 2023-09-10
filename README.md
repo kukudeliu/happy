@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 10:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 10:33:01</h4></div>
 
 > 微博  
 
 1. [警方通报大学生出地铁站后失踪](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%87%BA%E5%9C%B0%E9%93%81%E7%AB%99%E5%90%8E%E5%A4%B1%E8%B8%AA%23&t=31&band_rank=1&Refer=top)<br />
 2. [DFBOYS](https://s.weibo.com/weibo?q=DFBOYS&t=31&band_rank=2&Refer=top)<br />
-3. [当亚运会遇上中华文化](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%81%87%E4%B8%8A%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%23&t=31&band_rank=3&Refer=top)<br />
+3. [教师节快乐](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%E5%BF%AB%E4%B9%90%23&t=31&band_rank=3&Refer=top)<br />
 4. [冯宝宝被人贩子拐卖挑断手脚筋](https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%AE%9D%E5%AE%9D%E8%A2%AB%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%8B%90%E5%8D%96%E6%8C%91%E6%96%AD%E6%89%8B%E8%84%9A%E7%AD%8B%23&t=31&band_rank=4&Refer=top)<br />
-5. [教师节快乐](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%E5%BF%AB%E4%B9%90%23&t=31&band_rank=5&Refer=top)<br />
+5. [警察也是老师只教出圈的学生](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E4%B9%9F%E6%98%AF%E8%80%81%E5%B8%88%E5%8F%AA%E6%95%99%E5%87%BA%E5%9C%88%E7%9A%84%E5%AD%A6%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [G20](https://s.weibo.com/weibo?q=%23G20%23&t=31&band_rank=6&Refer=top)<br />
-7. [警察也是老师只教出圈的学生](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E4%B9%9F%E6%98%AF%E8%80%81%E5%B8%88%E5%8F%AA%E6%95%99%E5%87%BA%E5%9C%88%E7%9A%84%E5%AD%A6%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [女子手指肿胀21天开刀发现仙人掌刺](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%8B%E6%8C%87%E8%82%BF%E8%83%8021%E5%A4%A9%E5%BC%80%E5%88%80%E5%8F%91%E7%8E%B0%E4%BB%99%E4%BA%BA%E6%8E%8C%E5%88%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [教师节](https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%8A%82&t=31&band_rank=9&Refer=top)<br />
+7. [教师节](https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%8A%82&t=31&band_rank=7&Refer=top)<br />
+8. [当亚运会遇上中华文化](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%81%87%E4%B8%8A%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [女子手指肿胀21天开刀发现仙人掌刺](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%8B%E6%8C%87%E8%82%BF%E8%83%8021%E5%A4%A9%E5%BC%80%E5%88%80%E5%8F%91%E7%8E%B0%E4%BB%99%E4%BA%BA%E6%8E%8C%E5%88%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
