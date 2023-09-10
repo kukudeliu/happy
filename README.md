@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 00:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 00:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周杰伦嘉宾](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%98%89%E5%AE%BE&t=31&band_rank=6&Refer=top)<br />
 7. [DF冲](https://s.weibo.com/weibo?q=DF%E5%86%B2&t=31&band_rank=7&Refer=top)<br />
 8. [男子抢劫156元分赃30元躲进山洞14年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%A2%E5%8A%AB156%E5%85%83%E5%88%86%E8%B5%8330%E5%85%83%E8%BA%B2%E8%BF%9B%E5%B1%B1%E6%B4%9E14%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [TTG夺冠](https://s.weibo.com/weibo?q=%23TTG%E5%A4%BA%E5%86%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [九尾](https://s.weibo.com/weibo?q=%E4%B9%9D%E5%B0%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
