@@ -1,8 +1,8 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 21:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 21:22:01</h4></div>
 
 > 微博  
 
-1. [TTG夺冠](https://s.weibo.com/weibo?q=TTG%E5%A4%BA%E5%86%A0&t=31&band_rank=1&Refer=top)<br />
+1. [TTG夺冠](https://s.weibo.com/weibo?q=%23TTG%E5%A4%BA%E5%86%A0%23&t=31&band_rank=1&Refer=top)<br />
 2. [薛之谦成都39度高烧依旧开唱](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%90%E9%83%BD39%E5%BA%A6%E9%AB%98%E7%83%A7%E4%BE%9D%E6%97%A7%E5%BC%80%E5%94%B1%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚运会场馆水幔设计既典雅又实用](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9C%BA%E9%A6%86%E6%B0%B4%E5%B9%94%E8%AE%BE%E8%AE%A1%E6%97%A2%E5%85%B8%E9%9B%85%E5%8F%88%E5%AE%9E%E7%94%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [花西子](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%A5%BF%E5%AD%90&t=31&band_rank=4&Refer=top)<br />
