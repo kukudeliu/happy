@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 12:32:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 12:33:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [师生间双向奔赴的爱](https://s.weibo.com/weibo?q=%23%E5%B8%88%E7%94%9F%E9%97%B4%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E7%9A%84%E7%88%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [华莎接受警方调查](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E8%8E%8E%E6%8E%A5%E5%8F%97%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5%23&t=31&band_rank=4&Refer=top)<br />
 5. [张歆艺 这个天赶往鸟巢的都是真的吧](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%AD%86%E8%89%BA%20%E8%BF%99%E4%B8%AA%E5%A4%A9%E8%B5%B6%E5%BE%80%E9%B8%9F%E5%B7%A2%E7%9A%84%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%A7&t=31&band_rank=5&Refer=top)<br />
-6. [烘焙 我接触过的最大生活骗局](https://s.weibo.com/weibo?q=%E7%83%98%E7%84%99%20%E6%88%91%E6%8E%A5%E8%A7%A6%E8%BF%87%E7%9A%84%E6%9C%80%E5%A4%A7%E7%94%9F%E6%B4%BB%E9%AA%97%E5%B1%80&t=31&band_rank=6&Refer=top)<br />
-7. [警察也是老师只教出圈的学生](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E4%B9%9F%E6%98%AF%E8%80%81%E5%B8%88%E5%8F%AA%E6%95%99%E5%87%BA%E5%9C%88%E7%9A%84%E5%AD%A6%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
+6. [警察也是老师只教出圈的学生](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E4%B9%9F%E6%98%AF%E8%80%81%E5%B8%88%E5%8F%AA%E6%95%99%E5%87%BA%E5%9C%88%E7%9A%84%E5%AD%A6%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
+7. [烘焙 我接触过的最大生活骗局](https://s.weibo.com/weibo?q=%E7%83%98%E7%84%99%20%E6%88%91%E6%8E%A5%E8%A7%A6%E8%BF%87%E7%9A%84%E6%9C%80%E5%A4%A7%E7%94%9F%E6%B4%BB%E9%AA%97%E5%B1%80&t=31&band_rank=7&Refer=top)<br />
 8. [德国足协花1亿日元请日本比赛](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E8%B6%B3%E5%8D%8F%E8%8A%B11%E4%BA%BF%E6%97%A5%E5%85%83%E8%AF%B7%E6%97%A5%E6%9C%AC%E6%AF%94%E8%B5%9B%23&t=31&band_rank=8&Refer=top)<br />
 9. [马丽沈腾吃折耳根演我](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%E6%B2%88%E8%85%BE%E5%90%83%E6%8A%98%E8%80%B3%E6%A0%B9%E6%BC%94%E6%88%91&t=31&band_rank=9&Refer=top)<br />
 
