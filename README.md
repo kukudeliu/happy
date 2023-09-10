@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 21:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 21:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [警方通报重庆女子持刀袭警被击伤死亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%8D%E5%BA%86%E5%A5%B3%E5%AD%90%E6%8C%81%E5%88%80%E8%A2%AD%E8%AD%A6%E8%A2%AB%E5%87%BB%E4%BC%A4%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [不然FMVP](https://s.weibo.com/weibo?q=%E4%B8%8D%E7%84%B6FMVP&t=31&band_rank=7&Refer=top)<br />
 8. [赵丽颖去看张碧晨演唱会](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8E%BB%E7%9C%8B%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
-9. [国航CA403疑发出紧急代码7700](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%88%AACA403%E7%96%91%E5%8F%91%E5%87%BA%E7%B4%A7%E6%80%A5%E4%BB%A3%E7%A0%817700%23&t=31&band_rank=9&Refer=top)<br />
+9. [时代少年团去了华晨宇演唱会](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%8E%BB%E4%BA%86%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
