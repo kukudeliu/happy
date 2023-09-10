@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 09:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 09:11:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [华晨宇接受法师称号](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%8E%A5%E5%8F%97%E6%B3%95%E5%B8%88%E7%A7%B0%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [县长无视村民跪地告状？本人回应](https://www.baidu.com/s?wd=%E5%8E%BF%E9%95%BF%E6%97%A0%E8%A7%86%E6%9D%91%E6%B0%91%E8%B7%AA%E5%9C%B0%E5%91%8A%E7%8A%B6%EF%BC%9F%E6%9C%AC%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [今天教师节](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E6%95%99%E5%B8%88%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [未收净中药遭哄抢？村支书澄清](https://www.baidu.com/s?wd=%E6%9C%AA%E6%94%B6%E5%87%80%E4%B8%AD%E8%8D%AF%E9%81%AD%E5%93%84%E6%8A%A2%EF%BC%9F%E6%9D%91%E6%94%AF%E4%B9%A6%E6%BE%84%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [狂犬病潜伏期十几年？专家辟谣](https://www.baidu.com/s?wd=%E7%8B%82%E7%8A%AC%E7%97%85%E6%BD%9C%E4%BC%8F%E6%9C%9F%E5%8D%81%E5%87%A0%E5%B9%B4%EF%BC%9F%E4%B8%93%E5%AE%B6%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [华晨宇接受法师称号](https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%8E%A5%E5%8F%97%E6%B3%95%E5%B8%88%E7%A7%B0%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [县长无视村民跪地告状？本人回应](https://www.baidu.com/s?wd=%E5%8E%BF%E9%95%BF%E6%97%A0%E8%A7%86%E6%9D%91%E6%B0%91%E8%B7%AA%E5%9C%B0%E5%91%8A%E7%8A%B6%EF%BC%9F%E6%9C%AC%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [今天教师节](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E6%95%99%E5%B8%88%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [未收净中药遭哄抢？村支书澄清](https://www.baidu.com/s?wd=%E6%9C%AA%E6%94%B6%E5%87%80%E4%B8%AD%E8%8D%AF%E9%81%AD%E5%93%84%E6%8A%A2%EF%BC%9F%E6%9D%91%E6%94%AF%E4%B9%A6%E6%BE%84%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [狂犬病潜伏期十几年？专家辟谣](https://www.baidu.com/s?wd=%E7%8B%82%E7%8A%AC%E7%97%85%E6%BD%9C%E4%BC%8F%E6%9C%9F%E5%8D%81%E5%87%A0%E5%B9%B4%EF%BC%9F%E4%B8%93%E5%AE%B6%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
