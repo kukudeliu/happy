@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 13:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 13:41:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [师生间双向奔赴的爱](https://s.weibo.com/weibo?q=%23%E5%B8%88%E7%94%9F%E9%97%B4%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E7%9A%84%E7%88%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [咖啡 是一种豆浆](https://s.weibo.com/weibo?q=%E5%92%96%E5%95%A1%20%E6%98%AF%E4%B8%80%E7%A7%8D%E8%B1%86%E6%B5%86&t=31&band_rank=4&Refer=top)<br />
 5. [罗斯结婚](https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%96%AF%E7%BB%93%E5%A9%9A%23&t=31&band_rank=5&Refer=top)<br />
-6. [22名倒卖周杰伦演唱会门票黄牛在天津被抓](https://s.weibo.com/weibo?q=%2322%E5%90%8D%E5%80%92%E5%8D%96%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E9%BB%84%E7%89%9B%E5%9C%A8%E5%A4%A9%E6%B4%A5%E8%A2%AB%E6%8A%93%23&t=31&band_rank=6&Refer=top)<br />
-7. [张歆艺 这个天赶往鸟巢的都是真的吧](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%AD%86%E8%89%BA%20%E8%BF%99%E4%B8%AA%E5%A4%A9%E8%B5%B6%E5%BE%80%E9%B8%9F%E5%B7%A2%E7%9A%84%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%A7&t=31&band_rank=7&Refer=top)<br />
-8. [华晨宇演唱会大屏背景是恶评](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%A7%E5%B1%8F%E8%83%8C%E6%99%AF%E6%98%AF%E6%81%B6%E8%AF%84%23&t=31&band_rank=8&Refer=top)<br />
+6. [华晨宇演唱会大屏背景是恶评](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%A7%E5%B1%8F%E8%83%8C%E6%99%AF%E6%98%AF%E6%81%B6%E8%AF%84%23&t=31&band_rank=6&Refer=top)<br />
+7. [22名倒卖周杰伦演唱会门票黄牛在天津被抓](https://s.weibo.com/weibo?q=%2322%E5%90%8D%E5%80%92%E5%8D%96%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E9%BB%84%E7%89%9B%E5%9C%A8%E5%A4%A9%E6%B4%A5%E8%A2%AB%E6%8A%93%23&t=31&band_rank=7&Refer=top)<br />
+8. [张歆艺 这个天赶往鸟巢的都是真的吧](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%AD%86%E8%89%BA%20%E8%BF%99%E4%B8%AA%E5%A4%A9%E8%B5%B6%E5%BE%80%E9%B8%9F%E5%B7%A2%E7%9A%84%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
 9. [盛阳亲了简冰](https://s.weibo.com/weibo?q=%23%E7%9B%9B%E9%98%B3%E4%BA%B2%E4%BA%86%E7%AE%80%E5%86%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
