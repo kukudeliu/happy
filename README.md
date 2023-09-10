@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 06:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 06:44:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子抢劫156元分赃30元躲进山洞14年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%A2%E5%8A%AB156%E5%85%83%E5%88%86%E8%B5%8330%E5%85%83%E8%BA%B2%E8%BF%9B%E5%B1%B1%E6%B4%9E14%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [薛之谦成都39度高烧依旧开唱](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%90%E9%83%BD39%E5%BA%A6%E9%AB%98%E7%83%A7%E4%BE%9D%E6%97%A7%E5%BC%80%E5%94%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [塞尔维亚没有约基奇也这么强](https://s.weibo.com/weibo?q=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%B2%A1%E6%9C%89%E7%BA%A6%E5%9F%BA%E5%A5%87%E4%B9%9F%E8%BF%99%E4%B9%88%E5%BC%BA&t=31&band_rank=8&Refer=top)<br />
-9. [周杰伦嘉宾](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%98%89%E5%AE%BE&t=31&band_rank=9&Refer=top)<br />
+9. [用女儿的奶茶袋做文具](https://s.weibo.com/weibo?q=%E7%94%A8%E5%A5%B3%E5%84%BF%E7%9A%84%E5%A5%B6%E8%8C%B6%E8%A2%8B%E5%81%9A%E6%96%87%E5%85%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
