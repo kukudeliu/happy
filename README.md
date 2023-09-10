@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 20:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 21:00:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [王靖雯把KPL说成KPI](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9D%96%E9%9B%AF%E6%8A%8AKPL%E8%AF%B4%E6%88%90KPI%23&t=31&band_rank=5&Refer=top)<br />
 6. [国航CA403疑发出紧急代码7700](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%88%AACA403%E7%96%91%E5%8F%91%E5%87%BA%E7%B4%A7%E6%80%A5%E4%BB%A3%E7%A0%817700%23&t=31&band_rank=6&Refer=top)<br />
 7. [余华 你只要把老人写成老人](https://s.weibo.com/weibo?q=%E4%BD%99%E5%8D%8E%20%E4%BD%A0%E5%8F%AA%E8%A6%81%E6%8A%8A%E8%80%81%E4%BA%BA%E5%86%99%E6%88%90%E8%80%81%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
-8. [蔡依林恭喜马龙夺冠](https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%81%AD%E5%96%9C%E9%A9%AC%E9%BE%99%E5%A4%BA%E5%86%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [花了一百万后消费观转变](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E4%BA%86%E4%B8%80%E7%99%BE%E4%B8%87%E5%90%8E%E6%B6%88%E8%B4%B9%E8%A7%82%E8%BD%AC%E5%8F%98%23&t=31&band_rank=9&Refer=top)<br />
+8. [花了一百万后消费观转变](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E4%BA%86%E4%B8%80%E7%99%BE%E4%B8%87%E5%90%8E%E6%B6%88%E8%B4%B9%E8%A7%82%E8%BD%AC%E5%8F%98%23&t=31&band_rank=8&Refer=top)<br />
+9. [蔡依林恭喜马龙夺冠](https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%81%AD%E5%96%9C%E9%A9%AC%E9%BE%99%E5%A4%BA%E5%86%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
