@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 16:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 16:21:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [华晨宇演唱会大屏背景是恶评](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%A7%E5%B1%8F%E8%83%8C%E6%99%AF%E6%98%AF%E6%81%B6%E8%AF%84%23&t=31&band_rank=5&Refer=top)<br />
 6. [花13000元买的周杰伦演唱会门票被偷](https://s.weibo.com/weibo?q=%23%E8%8A%B113000%E5%85%83%E4%B9%B0%E7%9A%84%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E8%A2%AB%E5%81%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [王源像跟着父母应酬的我](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E5%83%8F%E8%B7%9F%E7%9D%80%E7%88%B6%E6%AF%8D%E5%BA%94%E9%85%AC%E7%9A%84%E6%88%91&t=31&band_rank=7&Refer=top)<br />
-8. [儿子觉得自己家在班里最平凡](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E5%AE%B6%E5%9C%A8%E7%8F%AD%E9%87%8C%E6%9C%80%E5%B9%B3%E5%87%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [女大学生差点被裤子单杀](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B7%AE%E7%82%B9%E8%A2%AB%E8%A3%A4%E5%AD%90%E5%8D%95%E6%9D%80%23&t=31&band_rank=9&Refer=top)<br />
+8. [女大学生差点被裤子单杀](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B7%AE%E7%82%B9%E8%A2%AB%E8%A3%A4%E5%AD%90%E5%8D%95%E6%9D%80%23&t=31&band_rank=8&Refer=top)<br />
+9. [儿子觉得自己家在班里最平凡](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E5%AE%B6%E5%9C%A8%E7%8F%AD%E9%87%8C%E6%9C%80%E5%B9%B3%E5%87%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
