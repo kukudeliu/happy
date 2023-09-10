@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 14:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 14:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [鹤壁地震](https://s.weibo.com/weibo?q=%E9%B9%A4%E5%A3%81%E5%9C%B0%E9%9C%87&t=31&band_rank=6&Refer=top)<br />
 7. [花花暂停展出](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E6%9A%82%E5%81%9C%E5%B1%95%E5%87%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [张歆艺 这个天赶往鸟巢的都是真的吧](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%AD%86%E8%89%BA%20%E8%BF%99%E4%B8%AA%E5%A4%A9%E8%B5%B6%E5%BE%80%E9%B8%9F%E5%B7%A2%E7%9A%84%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
-9. [咖啡 是一种豆浆](https://s.weibo.com/weibo?q=%E5%92%96%E5%95%A1%20%E6%98%AF%E4%B8%80%E7%A7%8D%E8%B1%86%E6%B5%86&t=31&band_rank=9&Refer=top)<br />
+9. [襄阳](https://s.weibo.com/weibo?q=%E8%A5%84%E9%98%B3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
