@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 10:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 10:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [G20](https://s.weibo.com/weibo?q=%23G20%23&t=31&band_rank=6&Refer=top)<br />
 7. [教师节](https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%8A%82&t=31&band_rank=7&Refer=top)<br />
 8. [薛之谦天外来物舞美获缪斯设计奖](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%A4%A9%E5%A4%96%E6%9D%A5%E7%89%A9%E8%88%9E%E7%BE%8E%E8%8E%B7%E7%BC%AA%E6%96%AF%E8%AE%BE%E8%AE%A1%E5%A5%96&t=31&band_rank=8&Refer=top)<br />
-9. [女子手指肿胀21天开刀发现仙人掌刺](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%8B%E6%8C%87%E8%82%BF%E8%83%8021%E5%A4%A9%E5%BC%80%E5%88%80%E5%8F%91%E7%8E%B0%E4%BB%99%E4%BA%BA%E6%8E%8C%E5%88%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [国足43年首次赢不了马来西亚](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B343%E5%B9%B4%E9%A6%96%E6%AC%A1%E8%B5%A2%E4%B8%8D%E4%BA%86%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
