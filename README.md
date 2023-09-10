@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 08:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 08:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [摩洛哥地震遇难人数升至2012人](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E5%9C%B0%E9%9C%87%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B32012%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [教师节祝福](https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%8A%82%E7%A5%9D%E7%A6%8F&t=31&band_rank=7&Refer=top)<br />
 8. [德国1比4日本](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD1%E6%AF%944%E6%97%A5%E6%9C%AC%23&t=31&band_rank=8&Refer=top)<br />
-9. [学生教师节给老师送祝福越跑越偏](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%95%99%E5%B8%88%E8%8A%82%E7%BB%99%E8%80%81%E5%B8%88%E9%80%81%E7%A5%9D%E7%A6%8F%E8%B6%8A%E8%B7%91%E8%B6%8A%E5%81%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [张亮开车主打一个倔强](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%AE%E5%BC%80%E8%BD%A6%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E5%80%94%E5%BC%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
