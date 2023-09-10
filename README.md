@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 13:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 13:32:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [22名倒卖周杰伦演唱会门票黄牛在天津被抓](https://s.weibo.com/weibo?q=%2322%E5%90%8D%E5%80%92%E5%8D%96%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E9%BB%84%E7%89%9B%E5%9C%A8%E5%A4%A9%E6%B4%A5%E8%A2%AB%E6%8A%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [华晨宇谈癌创作理念](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E8%B0%88%E7%99%8C%E5%88%9B%E4%BD%9C%E7%90%86%E5%BF%B5%23&t=31&band_rank=7&Refer=top)<br />
 8. [范丞丞自称比沈腾白敬亭文静一点](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%87%AA%E7%A7%B0%E6%AF%94%E6%B2%88%E8%85%BE%E7%99%BD%E6%95%AC%E4%BA%AD%E6%96%87%E9%9D%99%E4%B8%80%E7%82%B9&t=31&band_rank=8&Refer=top)<br />
-9. [盛阳亲了简冰](https://s.weibo.com/weibo?q=%23%E7%9B%9B%E9%98%B3%E4%BA%B2%E4%BA%86%E7%AE%80%E5%86%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [张歆艺 这个天赶往鸟巢的都是真的吧](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%AD%86%E8%89%BA%20%E8%BF%99%E4%B8%AA%E5%A4%A9%E8%B5%B6%E5%BE%80%E9%B8%9F%E5%B7%A2%E7%9A%84%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
