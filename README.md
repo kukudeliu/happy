@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 08:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 08:03:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [当亚运会遇上中华文化](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%81%87%E4%B8%8A%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%23&t=31&band_rank=3&Refer=top)<br />
 4. [女子手指肿胀21天开刀发现仙人掌刺](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%8B%E6%8C%87%E8%82%BF%E8%83%8021%E5%A4%A9%E5%BC%80%E5%88%80%E5%8F%91%E7%8E%B0%E4%BB%99%E4%BA%BA%E6%8E%8C%E5%88%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [德国1比4日本](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD1%E6%AF%944%E6%97%A5%E6%9C%AC%23&t=31&band_rank=5&Refer=top)<br />
-6. [计划有变 准备夺冠](https://s.weibo.com/weibo?q=%E8%AE%A1%E5%88%92%E6%9C%89%E5%8F%98%20%E5%87%86%E5%A4%87%E5%A4%BA%E5%86%A0&t=31&band_rank=6&Refer=top)<br />
-7. [教师节](https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%8A%82&t=31&band_rank=7&Refer=top)<br />
+6. [教师节](https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%8A%82&t=31&band_rank=6&Refer=top)<br />
+7. [计划有变 准备夺冠](https://s.weibo.com/weibo?q=%E8%AE%A1%E5%88%92%E6%9C%89%E5%8F%98%20%E5%87%86%E5%A4%87%E5%A4%BA%E5%86%A0&t=31&band_rank=7&Refer=top)<br />
 8. [华晨宇接受法师称号](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%8E%A5%E5%8F%97%E6%B3%95%E5%B8%88%E7%A7%B0%E5%8F%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [马斯克和女高管所生双胞胎曝光](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%92%8C%E5%A5%B3%E9%AB%98%E7%AE%A1%E6%89%80%E7%94%9F%E5%8F%8C%E8%83%9E%E8%83%8E%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [摩洛哥地震遇难人数升至2012人](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E5%9C%B0%E9%9C%87%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B32012%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
