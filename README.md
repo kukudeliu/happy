@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 10:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 10:52:01</h4></div>
 
 > 微博  
 
 1. [警方通报大学生出地铁站后失踪](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%87%BA%E5%9C%B0%E9%93%81%E7%AB%99%E5%90%8E%E5%A4%B1%E8%B8%AA%23&t=31&band_rank=1&Refer=top)<br />
-2. [DFBOYS](https://s.weibo.com/weibo?q=DFBOYS&t=31&band_rank=2&Refer=top)<br />
+2. [教师节快乐](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%E5%BF%AB%E4%B9%90%23&t=31&band_rank=2&Refer=top)<br />
 3. [师生间双向奔赴的爱](https://s.weibo.com/weibo?q=%23%E5%B8%88%E7%94%9F%E9%97%B4%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E7%9A%84%E7%88%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [冯宝宝被人贩子拐卖挑断手脚筋](https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%AE%9D%E5%AE%9D%E8%A2%AB%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%8B%90%E5%8D%96%E6%8C%91%E6%96%AD%E6%89%8B%E8%84%9A%E7%AD%8B%23&t=31&band_rank=4&Refer=top)<br />
-5. [教师节快乐](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%E5%BF%AB%E4%B9%90%23&t=31&band_rank=5&Refer=top)<br />
-6. [薛之谦天外来物舞美获缪斯设计奖](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%A4%A9%E5%A4%96%E6%9D%A5%E7%89%A9%E8%88%9E%E7%BE%8E%E8%8E%B7%E7%BC%AA%E6%96%AF%E8%AE%BE%E8%AE%A1%E5%A5%96&t=31&band_rank=6&Refer=top)<br />
-7. [教师节](https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%8A%82&t=31&band_rank=7&Refer=top)<br />
-8. [G20](https://s.weibo.com/weibo?q=%23G20%23&t=31&band_rank=8&Refer=top)<br />
-9. [警察也是老师只教出圈的学生](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E4%B9%9F%E6%98%AF%E8%80%81%E5%B8%88%E5%8F%AA%E6%95%99%E5%87%BA%E5%9C%88%E7%9A%84%E5%AD%A6%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
+5. [DFBOYS](https://s.weibo.com/weibo?q=DFBOYS&t=31&band_rank=5&Refer=top)<br />
+6. [教师节](https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%8A%82&t=31&band_rank=6&Refer=top)<br />
+7. [烘焙 我接触过的最大生活骗局](https://s.weibo.com/weibo?q=%E7%83%98%E7%84%99%20%E6%88%91%E6%8E%A5%E8%A7%A6%E8%BF%87%E7%9A%84%E6%9C%80%E5%A4%A7%E7%94%9F%E6%B4%BB%E9%AA%97%E5%B1%80&t=31&band_rank=7&Refer=top)<br />
+8. [警察也是老师只教出圈的学生](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E4%B9%9F%E6%98%AF%E8%80%81%E5%B8%88%E5%8F%AA%E6%95%99%E5%87%BA%E5%9C%88%E7%9A%84%E5%AD%A6%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [薛之谦天外来物舞美获缪斯设计奖](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%A4%A9%E5%A4%96%E6%9D%A5%E7%89%A9%E8%88%9E%E7%BE%8E%E8%8E%B7%E7%BC%AA%E6%96%AF%E8%AE%BE%E8%AE%A1%E5%A5%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
