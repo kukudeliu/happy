@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 05:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 05:04:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [蔡崇信正式履新阿里董事长](https://www.baidu.com/s?wd=%E8%94%A1%E5%B4%87%E4%BF%A1%E6%AD%A3%E5%BC%8F%E5%B1%A5%E6%96%B0%E9%98%BF%E9%87%8C%E8%91%A3%E4%BA%8B%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子13000元买周杰伦演唱会门票被偷](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9013000%E5%85%83%E4%B9%B0%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E8%A2%AB%E5%81%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [刘德华62岁生日 半个港圈到场庆贺](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E62%E5%B2%81%E7%94%9F%E6%97%A5+%E5%8D%8A%E4%B8%AA%E6%B8%AF%E5%9C%88%E5%88%B0%E5%9C%BA%E5%BA%86%E8%B4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子长期关灯玩手机诱发青光眼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%95%BF%E6%9C%9F%E5%85%B3%E7%81%AF%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%AF%B1%E5%8F%91%E9%9D%92%E5%85%89%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [这些食品安全谣言 你中招了吗](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E8%B0%A3%E8%A8%80+%E4%BD%A0%E4%B8%AD%E6%8B%9B%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆下调最低工资标准?官方辟谣](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%8B%E8%B0%83%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E6%A0%87%E5%87%86%3F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [蔡崇信正式履新阿里董事长](https://www.baidu.com/s?wd=%E8%94%A1%E5%B4%87%E4%BF%A1%E6%AD%A3%E5%BC%8F%E5%B1%A5%E6%96%B0%E9%98%BF%E9%87%8C%E8%91%A3%E4%BA%8B%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子13000元买周杰伦演唱会门票被偷](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9013000%E5%85%83%E4%B9%B0%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E8%A2%AB%E5%81%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [刘德华62岁生日 半个港圈到场庆贺](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E62%E5%B2%81%E7%94%9F%E6%97%A5+%E5%8D%8A%E4%B8%AA%E6%B8%AF%E5%9C%88%E5%88%B0%E5%9C%BA%E5%BA%86%E8%B4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子长期关灯玩手机诱发青光眼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%95%BF%E6%9C%9F%E5%85%B3%E7%81%AF%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%AF%B1%E5%8F%91%E9%9D%92%E5%85%89%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [这些食品安全谣言 你中招了吗](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E8%B0%A3%E8%A8%80+%E4%BD%A0%E4%B8%AD%E6%8B%9B%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆下调最低工资标准?官方辟谣](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%8B%E8%B0%83%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E6%A0%87%E5%87%86%3F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
