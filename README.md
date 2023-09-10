@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 01:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 02:00:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [东北一定能够重振雄风](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E4%B8%80%E5%AE%9A%E8%83%BD%E5%A4%9F%E9%87%8D%E6%8C%AF%E9%9B%84%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蔡崇信正式履新阿里董事长](https://www.baidu.com/s?wd=%E8%94%A1%E5%B4%87%E4%BF%A1%E6%AD%A3%E5%BC%8F%E5%B1%A5%E6%96%B0%E9%98%BF%E9%87%8C%E8%91%A3%E4%BA%8B%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子为寻女友报警谎称女儿失踪](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E5%AF%BB%E5%A5%B3%E5%8F%8B%E6%8A%A5%E8%AD%A6%E8%B0%8E%E7%A7%B0%E5%A5%B3%E5%84%BF%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [TTG夺冠](https://www.baidu.com/s?wd=TTG%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [刘德华62岁生日 半个港圈到场庆贺](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E62%E5%B2%81%E7%94%9F%E6%97%A5+%E5%8D%8A%E4%B8%AA%E6%B8%AF%E5%9C%88%E5%88%B0%E5%9C%BA%E5%BA%86%E8%B4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [沙特高官秀中文：我厦大毕业的](https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E9%AB%98%E5%AE%98%E7%A7%80%E4%B8%AD%E6%96%87%EF%BC%9A%E6%88%91%E5%8E%A6%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆下调最低工资标准?官方辟谣](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%8B%E8%B0%83%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E6%A0%87%E5%87%86%3F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [东北一定能够重振雄风](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E4%B8%80%E5%AE%9A%E8%83%BD%E5%A4%9F%E9%87%8D%E6%8C%AF%E9%9B%84%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蔡崇信正式履新阿里董事长](https://www.baidu.com/s?wd=%E8%94%A1%E5%B4%87%E4%BF%A1%E6%AD%A3%E5%BC%8F%E5%B1%A5%E6%96%B0%E9%98%BF%E9%87%8C%E8%91%A3%E4%BA%8B%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子为寻女友报警谎称女儿失踪](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E5%AF%BB%E5%A5%B3%E5%8F%8B%E6%8A%A5%E8%AD%A6%E8%B0%8E%E7%A7%B0%E5%A5%B3%E5%84%BF%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [TTG夺冠](https://www.baidu.com/s?wd=TTG%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [刘德华62岁生日 半个港圈到场庆贺](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E62%E5%B2%81%E7%94%9F%E6%97%A5+%E5%8D%8A%E4%B8%AA%E6%B8%AF%E5%9C%88%E5%88%B0%E5%9C%BA%E5%BA%86%E8%B4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [沙特高官秀中文：我厦大毕业的](https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E9%AB%98%E5%AE%98%E7%A7%80%E4%B8%AD%E6%96%87%EF%BC%9A%E6%88%91%E5%8E%A6%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆下调最低工资标准?官方辟谣](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%8B%E8%B0%83%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E6%A0%87%E5%87%86%3F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
