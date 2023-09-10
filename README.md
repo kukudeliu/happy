@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 11:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 11:06:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [教师节快乐](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%E5%BF%AB%E4%B9%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [冯宝宝被人贩子拐卖挑断手脚筋](https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%AE%9D%E5%AE%9D%E8%A2%AB%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%8B%90%E5%8D%96%E6%8C%91%E6%96%AD%E6%89%8B%E8%84%9A%E7%AD%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [教师节](https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%8A%82&t=31&band_rank=6&Refer=top)<br />
-7. [薛之谦天外来物舞美获缪斯设计奖](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%A4%A9%E5%A4%96%E6%9D%A5%E7%89%A9%E8%88%9E%E7%BE%8E%E8%8E%B7%E7%BC%AA%E6%96%AF%E8%AE%BE%E8%AE%A1%E5%A5%96&t=31&band_rank=7&Refer=top)<br />
+7. [苏翊鸣说羽生结弦是他的精神目标](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E8%AF%B4%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E6%98%AF%E4%BB%96%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%9B%AE%E6%A0%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [警察也是老师只教出圈的学生](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E4%B9%9F%E6%98%AF%E8%80%81%E5%B8%88%E5%8F%AA%E6%95%99%E5%87%BA%E5%9C%88%E7%9A%84%E5%AD%A6%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [苏翊鸣说羽生结弦是他的精神目标](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E8%AF%B4%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E6%98%AF%E4%BB%96%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%9B%AE%E6%A0%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [薛之谦天外来物舞美获缪斯设计奖](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%A4%A9%E5%A4%96%E6%9D%A5%E7%89%A9%E8%88%9E%E7%BE%8E%E8%8E%B7%E7%BC%AA%E6%96%AF%E8%AE%BE%E8%AE%A1%E5%A5%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
