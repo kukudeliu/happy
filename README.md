@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 11:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 11:47:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [烘焙 我接触过的最大生活骗局](https://s.weibo.com/weibo?q=%E7%83%98%E7%84%99%20%E6%88%91%E6%8E%A5%E8%A7%A6%E8%BF%87%E7%9A%84%E6%9C%80%E5%A4%A7%E7%94%9F%E6%B4%BB%E9%AA%97%E5%B1%80&t=31&band_rank=4&Refer=top)<br />
 5. [张歆艺 这个天赶往鸟巢的都是真的吧](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%AD%86%E8%89%BA%20%E8%BF%99%E4%B8%AA%E5%A4%A9%E8%B5%B6%E5%BE%80%E9%B8%9F%E5%B7%A2%E7%9A%84%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%A7&t=31&band_rank=5&Refer=top)<br />
 6. [警方通报大学生出地铁站后失踪](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%87%BA%E5%9C%B0%E9%93%81%E7%AB%99%E5%90%8E%E5%A4%B1%E8%B8%AA%23&t=31&band_rank=6&Refer=top)<br />
-7. [云之羽宫二人设](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%E5%AE%AB%E4%BA%8C%E4%BA%BA%E8%AE%BE&t=31&band_rank=7&Refer=top)<br />
-8. [警察也是老师只教出圈的学生](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E4%B9%9F%E6%98%AF%E8%80%81%E5%B8%88%E5%8F%AA%E6%95%99%E5%87%BA%E5%9C%88%E7%9A%84%E5%AD%A6%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [樊振东vs梁靖崑](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E6%A2%81%E9%9D%96%E5%B4%91&t=31&band_rank=9&Refer=top)<br />
+7. [警察也是老师只教出圈的学生](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E4%B9%9F%E6%98%AF%E8%80%81%E5%B8%88%E5%8F%AA%E6%95%99%E5%87%BA%E5%9C%88%E7%9A%84%E5%AD%A6%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
+8. [云之羽宫二人设](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%E5%AE%AB%E4%BA%8C%E4%BA%BA%E8%AE%BE&t=31&band_rank=8&Refer=top)<br />
+9. [教师节快乐](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%E5%BF%AB%E4%B9%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
