@@ -1,8 +1,8 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 17:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 17:02:01</h4></div>
 
 > 微博  
 
-1. [花了一百万后消费观转变](https://s.weibo.com/weibo?q=%E8%8A%B1%E4%BA%86%E4%B8%80%E7%99%BE%E4%B8%87%E5%90%8E%E6%B6%88%E8%B4%B9%E8%A7%82%E8%BD%AC%E5%8F%98&t=31&band_rank=1&Refer=top)<br />
+1. [花了一百万后消费观转变](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E4%BA%86%E4%B8%80%E7%99%BE%E4%B8%87%E5%90%8E%E6%B6%88%E8%B4%B9%E8%A7%82%E8%BD%AC%E5%8F%98%23&t=31&band_rank=1&Refer=top)<br />
 2. [马龙男单夺冠](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会开幕日恰逢秋分](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E6%97%A5%E6%81%B0%E9%80%A2%E7%A7%8B%E5%88%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [李佳琦带货怼网友](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%B8%A6%E8%B4%A7%E6%80%BC%E7%BD%91%E5%8F%8B%23&t=31&band_rank=4&Refer=top)<br />
