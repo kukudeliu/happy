@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 22:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 22:20:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [亚运会场馆水幔设计既典雅又实用](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9C%BA%E9%A6%86%E6%B0%B4%E5%B9%94%E8%AE%BE%E8%AE%A1%E6%97%A2%E5%85%B8%E9%9B%85%E5%8F%88%E5%AE%9E%E7%94%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [妖刀隐身](https://s.weibo.com/weibo?q=%E5%A6%96%E5%88%80%E9%9A%90%E8%BA%AB&t=31&band_rank=4&Refer=top)<br />
 5. [赵丽颖去看张碧晨演唱会](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8E%BB%E7%9C%8B%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=5&Refer=top)<br />
-6. [杨紫高洁丝直播](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%AB%98%E6%B4%81%E4%B8%9D%E7%9B%B4%E6%92%AD%23&t=31&band_rank=6&Refer=top)<br />
-7. [张远一开口莲花楼DNA动了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E4%B8%80%E5%BC%80%E5%8F%A3%E8%8E%B2%E8%8A%B1%E6%A5%BCDNA%E5%8A%A8%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+6. [张远一开口莲花楼DNA动了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E4%B8%80%E5%BC%80%E5%8F%A3%E8%8E%B2%E8%8A%B1%E6%A5%BCDNA%E5%8A%A8%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [杨紫高洁丝直播](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%AB%98%E6%B4%81%E4%B8%9D%E7%9B%B4%E6%92%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [时代少年团去了华晨宇演唱会](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%8E%BB%E4%BA%86%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
 9. [男子抢劫156元分赃30元躲进山洞14年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%A2%E5%8A%AB156%E5%85%83%E5%88%86%E8%B5%8330%E5%85%83%E8%BA%B2%E8%BF%9B%E5%B1%B1%E6%B4%9E14%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
 
