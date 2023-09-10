@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 18:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 18:48:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [2男童拿现金买手机被老板哄吓拒售](https://s.weibo.com/weibo?q=%232%E7%94%B7%E7%AB%A5%E6%8B%BF%E7%8E%B0%E9%87%91%E4%B9%B0%E6%89%8B%E6%9C%BA%E8%A2%AB%E8%80%81%E6%9D%BF%E5%93%84%E5%90%93%E6%8B%92%E5%94%AE%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会开幕日恰逢秋分](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E6%97%A5%E6%81%B0%E9%80%A2%E7%A7%8B%E5%88%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [上海73岁初代丁克现状颠覆想象](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B773%E5%B2%81%E5%88%9D%E4%BB%A3%E4%B8%81%E5%85%8B%E7%8E%B0%E7%8A%B6%E9%A2%A0%E8%A6%86%E6%83%B3%E8%B1%A1%23&t=31&band_rank=4&Refer=top)<br />
-5. [她们是老师也是科学大牛](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BB%AC%E6%98%AF%E8%80%81%E5%B8%88%E4%B9%9F%E6%98%AF%E7%A7%91%E5%AD%A6%E5%A4%A7%E7%89%9B%23&t=31&band_rank=5&Refer=top)<br />
+5. [山里小学摔出400多块奖牌](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E9%87%8C%E5%B0%8F%E5%AD%A6%E6%91%94%E5%87%BA400%E5%A4%9A%E5%9D%97%E5%A5%96%E7%89%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [我命由我不由天 你说三千就三千](https://s.weibo.com/weibo?q=%E6%88%91%E5%91%BD%E7%94%B1%E6%88%91%E4%B8%8D%E7%94%B1%E5%A4%A9%20%E4%BD%A0%E8%AF%B4%E4%B8%89%E5%8D%83%E5%B0%B1%E4%B8%89%E5%8D%83&t=31&band_rank=6&Refer=top)<br />
-7. [山里小学摔出400多块奖牌](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E9%87%8C%E5%B0%8F%E5%AD%A6%E6%91%94%E5%87%BA400%E5%A4%9A%E5%9D%97%E5%A5%96%E7%89%8C%23&t=31&band_rank=7&Refer=top)<br />
+7. [她们是老师也是科学大牛](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BB%AC%E6%98%AF%E8%80%81%E5%B8%88%E4%B9%9F%E6%98%AF%E7%A7%91%E5%AD%A6%E5%A4%A7%E7%89%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [花了一百万后消费观转变](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E4%BA%86%E4%B8%80%E7%99%BE%E4%B8%87%E5%90%8E%E6%B6%88%E8%B4%B9%E8%A7%82%E8%BD%AC%E5%8F%98%23&t=31&band_rank=8&Refer=top)<br />
 9. [天官赐福](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F&t=31&band_rank=9&Refer=top)<br />
 
