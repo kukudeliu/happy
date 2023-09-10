@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 19:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 19:12:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [山里小学摔出400多块奖牌](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E9%87%8C%E5%B0%8F%E5%AD%A6%E6%91%94%E5%87%BA400%E5%A4%9A%E5%9D%97%E5%A5%96%E7%89%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [余华 你只要把老人写成老人](https://s.weibo.com/weibo?q=%E4%BD%99%E5%8D%8E%20%E4%BD%A0%E5%8F%AA%E8%A6%81%E6%8A%8A%E8%80%81%E4%BA%BA%E5%86%99%E6%88%90%E8%80%81%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
 7. [她们是老师也是科学大牛](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BB%AC%E6%98%AF%E8%80%81%E5%B8%88%E4%B9%9F%E6%98%AF%E7%A7%91%E5%AD%A6%E5%A4%A7%E7%89%9B%23&t=31&band_rank=7&Refer=top)<br />
-8. [我命由我不由天 你说三千就三千](https://s.weibo.com/weibo?q=%E6%88%91%E5%91%BD%E7%94%B1%E6%88%91%E4%B8%8D%E7%94%B1%E5%A4%A9%20%E4%BD%A0%E8%AF%B4%E4%B8%89%E5%8D%83%E5%B0%B1%E4%B8%89%E5%8D%83&t=31&band_rank=8&Refer=top)<br />
-9. [CA403所有人员均安全撤离](https://s.weibo.com/weibo?q=%23CA403%E6%89%80%E6%9C%89%E4%BA%BA%E5%91%98%E5%9D%87%E5%AE%89%E5%85%A8%E6%92%A4%E7%A6%BB%23&t=31&band_rank=9&Refer=top)<br />
+8. [CA403所有人员均安全撤离](https://s.weibo.com/weibo?q=%23CA403%E6%89%80%E6%9C%89%E4%BA%BA%E5%91%98%E5%9D%87%E5%AE%89%E5%85%A8%E6%92%A4%E7%A6%BB%23&t=31&band_rank=8&Refer=top)<br />
+9. [我命由我不由天 你说三千就三千](https://s.weibo.com/weibo?q=%E6%88%91%E5%91%BD%E7%94%B1%E6%88%91%E4%B8%8D%E7%94%B1%E5%A4%A9%20%E4%BD%A0%E8%AF%B4%E4%B8%89%E5%8D%83%E5%B0%B1%E4%B8%89%E5%8D%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
