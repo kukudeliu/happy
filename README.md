@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 03:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 03:38:02</h4></div>
 
 > 微博  
 
 1. [Apex](https://s.weibo.com/weibo?q=Apex&t=31&band_rank=1&Refer=top)<br />
-2. [胡歌 我们也需要票房](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%20%E6%88%91%E4%BB%AC%E4%B9%9F%E9%9C%80%E8%A6%81%E7%A5%A8%E6%88%BF&t=31&band_rank=2&Refer=top)<br />
+2. [OG](https://s.weibo.com/weibo?q=OG&t=31&band_rank=2&Refer=top)<br />
 3. [同学们便利贴写祝福拼成画送老师](https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E4%BE%BF%E5%88%A9%E8%B4%B4%E5%86%99%E7%A5%9D%E7%A6%8F%E6%8B%BC%E6%88%90%E7%94%BB%E9%80%81%E8%80%81%E5%B8%88%23&t=31&band_rank=3&Refer=top)<br />
-4. [OG](https://s.weibo.com/weibo?q=OG&t=31&band_rank=4&Refer=top)<br />
+4. [胡歌 我们也需要票房](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%20%E6%88%91%E4%BB%AC%E4%B9%9F%E9%9C%80%E8%A6%81%E7%A5%A8%E6%88%BF&t=31&band_rank=4&Refer=top)<br />
 5. [薛之谦成都39度高烧依旧开唱](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%90%E9%83%BD39%E5%BA%A6%E9%AB%98%E7%83%A7%E4%BE%9D%E6%97%A7%E5%BC%80%E5%94%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [DF冲](https://s.weibo.com/weibo?q=DF%E5%86%B2&t=31&band_rank=6&Refer=top)<br />
 7. [警号253689请回答](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%8F%B7253689%E8%AF%B7%E5%9B%9E%E7%AD%94%23&t=31&band_rank=7&Refer=top)<br />
