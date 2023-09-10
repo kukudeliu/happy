@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 22:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-10 22:42:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [九尾](https://s.weibo.com/weibo?q=%E4%B9%9D%E5%B0%BE&t=31&band_rank=5&Refer=top)<br />
 6. [薛之谦成都39度高烧依旧开唱](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%90%E9%83%BD39%E5%BA%A6%E9%AB%98%E7%83%A7%E4%BE%9D%E6%97%A7%E5%BC%80%E5%94%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵丽颖去看张碧晨演唱会](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8E%BB%E7%9C%8B%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
-8. [云为衫三寸天堂](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B8%BA%E8%A1%AB%E4%B8%89%E5%AF%B8%E5%A4%A9%E5%A0%82&t=31&band_rank=8&Refer=top)<br />
+8. [张远一开口莲花楼DNA动了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E4%B8%80%E5%BC%80%E5%8F%A3%E8%8E%B2%E8%8A%B1%E6%A5%BCDNA%E5%8A%A8%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [男子抢劫156元分赃30元躲进山洞14年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%A2%E5%8A%AB156%E5%85%83%E5%88%86%E8%B5%8330%E5%85%83%E8%BA%B2%E8%BF%9B%E5%B1%B1%E6%B4%9E14%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
