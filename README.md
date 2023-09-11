@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 22:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 23:00:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [薛之谦跪着向歌迷道歉](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%B7%AA%E7%9D%80%E5%90%91%E6%AD%8C%E8%BF%B7%E9%81%93%E6%AD%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [戒咖啡两个月后](https://s.weibo.com/weibo?q=%E6%88%92%E5%92%96%E5%95%A1%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%90%8E&t=31&band_rank=6&Refer=top)<br />
 7. [李昀锐建议实现一户一深](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E5%BB%BA%E8%AE%AE%E5%AE%9E%E7%8E%B0%E4%B8%80%E6%88%B7%E4%B8%80%E6%B7%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [田嘉瑞看金靖演戏看哭了](https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%98%89%E7%91%9E%E7%9C%8B%E9%87%91%E9%9D%96%E6%BC%94%E6%88%8F%E7%9C%8B%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [1982元的中秋礼盒仅有两粒月饼](https://s.weibo.com/weibo?q=%231982%E5%85%83%E7%9A%84%E4%B8%AD%E7%A7%8B%E7%A4%BC%E7%9B%92%E4%BB%85%E6%9C%89%E4%B8%A4%E7%B2%92%E6%9C%88%E9%A5%BC%23&t=31&band_rank=9&Refer=top)<br />
+8. [1982元的中秋礼盒仅有两粒月饼](https://s.weibo.com/weibo?q=%231982%E5%85%83%E7%9A%84%E4%B8%AD%E7%A7%8B%E7%A4%BC%E7%9B%92%E4%BB%85%E6%9C%89%E4%B8%A4%E7%B2%92%E6%9C%88%E9%A5%BC%23&t=31&band_rank=8&Refer=top)<br />
+9. [田嘉瑞看金靖演戏看哭了](https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%98%89%E7%91%9E%E7%9C%8B%E9%87%91%E9%9D%96%E6%BC%94%E6%88%8F%E7%9C%8B%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
