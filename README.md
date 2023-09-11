@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 08:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 08:18:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [同学们便利贴写祝福拼成画送老师](https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E4%BE%BF%E5%88%A9%E8%B4%B4%E5%86%99%E7%A5%9D%E7%A6%8F%E6%8B%BC%E6%88%90%E7%94%BB%E9%80%81%E8%80%81%E5%B8%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [华为手机无信号打通卫星电话](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E6%97%A0%E4%BF%A1%E5%8F%B7%E6%89%93%E9%80%9A%E5%8D%AB%E6%98%9F%E7%94%B5%E8%AF%9D%23&t=31&band_rank=4&Refer=top)<br />
 5. [不想军训 萧敬腾雨来](https://s.weibo.com/weibo?q=%E4%B8%8D%E6%83%B3%E5%86%9B%E8%AE%AD%20%E8%90%A7%E6%95%AC%E8%85%BE%E9%9B%A8%E6%9D%A5&t=31&band_rank=5&Refer=top)<br />
-6. [27岁女子极端减肥瘦20斤致闭经1年半](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A5%B3%E5%AD%90%E6%9E%81%E7%AB%AF%E5%87%8F%E8%82%A5%E7%98%A620%E6%96%A4%E8%87%B4%E9%97%AD%E7%BB%8F1%E5%B9%B4%E5%8D%8A%23&t=31&band_rank=6&Refer=top)<br />
-7. [德约科维奇美网四冠王](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E7%BE%8E%E7%BD%91%E5%9B%9B%E5%86%A0%E7%8E%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨紫说长相思第二季比第一季更虐](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%B4%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%AF%94%E7%AC%AC%E4%B8%80%E5%AD%A3%E6%9B%B4%E8%99%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [夜色尚浅 好嗑](https://s.weibo.com/weibo?q=%E5%A4%9C%E8%89%B2%E5%B0%9A%E6%B5%85%20%E5%A5%BD%E5%97%91&t=31&band_rank=9&Refer=top)<br />
+6. [乃万演唱会突遇断电](https://s.weibo.com/weibo?q=%23%E4%B9%83%E4%B8%87%E6%BC%94%E5%94%B1%E4%BC%9A%E7%AA%81%E9%81%87%E6%96%AD%E7%94%B5%23&t=31&band_rank=6&Refer=top)<br />
+7. [27岁女子极端减肥瘦20斤致闭经1年半](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A5%B3%E5%AD%90%E6%9E%81%E7%AB%AF%E5%87%8F%E8%82%A5%E7%98%A620%E6%96%A4%E8%87%B4%E9%97%AD%E7%BB%8F1%E5%B9%B4%E5%8D%8A%23&t=31&band_rank=7&Refer=top)<br />
+8. [德约科维奇美网四冠王](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E7%BE%8E%E7%BD%91%E5%9B%9B%E5%86%A0%E7%8E%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [杨紫说长相思第二季比第一季更虐](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%B4%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%AF%94%E7%AC%AC%E4%B8%80%E5%AD%A3%E6%9B%B4%E8%99%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
