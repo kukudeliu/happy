@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 21:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 21:09:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [养殖场疑多条鳄鱼出逃 民兵称将击毙](https://www.baidu.com/s?wd=%E5%85%BB%E6%AE%96%E5%9C%BA%E7%96%91%E5%A4%9A%E6%9D%A1%E9%B3%84%E9%B1%BC%E5%87%BA%E9%80%83+%E6%B0%91%E5%85%B5%E7%A7%B0%E5%B0%86%E5%87%BB%E6%AF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一图了解网络安全法](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E4%BA%86%E8%A7%A3%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [拜登称中国不会“侵台” 外交部回应](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%B8%8D%E4%BC%9A%E2%80%9C%E4%BE%B5%E5%8F%B0%E2%80%9D+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [36岁大一新生报到被当成家长](https://www.baidu.com/s?wd=36%E5%B2%81%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E6%8A%A5%E5%88%B0%E8%A2%AB%E5%BD%93%E6%88%90%E5%AE%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [家长质疑班费买礼物被踢出群聊](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E8%B4%A8%E7%96%91%E7%8F%AD%E8%B4%B9%E4%B9%B0%E7%A4%BC%E7%89%A9%E8%A2%AB%E8%B8%A2%E5%87%BA%E7%BE%A4%E8%81%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [成龙买华为手机被网友偶遇](https://www.baidu.com/s?wd=%E6%88%90%E9%BE%99%E4%B9%B0%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本79岁男子性侵100岁老太致死](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC79%E5%B2%81%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5100%E5%B2%81%E8%80%81%E5%A4%AA%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [36岁大一新生报到被当成家长](https://www.baidu.com/s?wd=36%E5%B2%81%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E6%8A%A5%E5%88%B0%E8%A2%AB%E5%BD%93%E6%88%90%E5%AE%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多人放生60箱矿泉水？官方回应](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E6%94%BE%E7%94%9F60%E7%AE%B1%E7%9F%BF%E6%B3%89%E6%B0%B4%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [养殖场疑多条鳄鱼出逃 民兵称将击毙](https://www.baidu.com/s?wd=%E5%85%BB%E6%AE%96%E5%9C%BA%E7%96%91%E5%A4%9A%E6%9D%A1%E9%B3%84%E9%B1%BC%E5%87%BA%E9%80%83+%E6%B0%91%E5%85%B5%E7%A7%B0%E5%B0%86%E5%87%BB%E6%AF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一图了解网络安全法](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E4%BA%86%E8%A7%A3%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [拜登称中国不会“侵台” 外交部回应](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%B8%8D%E4%BC%9A%E2%80%9C%E4%BE%B5%E5%8F%B0%E2%80%9D+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [36岁大一新生报到被当成家长](https://www.baidu.com/s?wd=36%E5%B2%81%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E6%8A%A5%E5%88%B0%E8%A2%AB%E5%BD%93%E6%88%90%E5%AE%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [家长质疑班费买礼物被踢出群聊](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E8%B4%A8%E7%96%91%E7%8F%AD%E8%B4%B9%E4%B9%B0%E7%A4%BC%E7%89%A9%E8%A2%AB%E8%B8%A2%E5%87%BA%E7%BE%A4%E8%81%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [成龙买华为手机被网友偶遇](https://www.baidu.com/s?wd=%E6%88%90%E9%BE%99%E4%B9%B0%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本79岁男子性侵100岁老太致死](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC79%E5%B2%81%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5100%E5%B2%81%E8%80%81%E5%A4%AA%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [36岁大一新生报到被当成家长](https://www.baidu.com/s?wd=36%E5%B2%81%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E6%8A%A5%E5%88%B0%E8%A2%AB%E5%BD%93%E6%88%90%E5%AE%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多人放生60箱矿泉水？官方回应](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E6%94%BE%E7%94%9F60%E7%AE%B1%E7%9F%BF%E6%B3%89%E6%B0%B4%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
