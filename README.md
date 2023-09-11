@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 15:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 15:06:02</h4></div>
 
 > 微博  
 
-1. [飞机上打华为卫星电话属于违规](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E6%9C%BA%E4%B8%8A%E6%89%93%E5%8D%8E%E4%B8%BA%E5%8D%AB%E6%98%9F%E7%94%B5%E8%AF%9D%E5%B1%9E%E4%BA%8E%E8%BF%9D%E8%A7%84%23&t=31&band_rank=1&Refer=top)<br />
-2. [十元盒饭姐流泪称不想再坚持](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%85%83%E7%9B%92%E9%A5%AD%E5%A7%90%E6%B5%81%E6%B3%AA%E7%A7%B0%E4%B8%8D%E6%83%B3%E5%86%8D%E5%9D%9A%E6%8C%81%23&t=31&band_rank=2&Refer=top)<br />
+1. [十元盒饭姐流泪称不想再坚持](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%85%83%E7%9B%92%E9%A5%AD%E5%A7%90%E6%B5%81%E6%B3%AA%E7%A7%B0%E4%B8%8D%E6%83%B3%E5%86%8D%E5%9D%9A%E6%8C%81%23&t=31&band_rank=1&Refer=top)<br />
+2. [飞机上打华为卫星电话属于违规](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E6%9C%BA%E4%B8%8A%E6%89%93%E5%8D%8E%E4%B8%BA%E5%8D%AB%E6%98%9F%E7%94%B5%E8%AF%9D%E5%B1%9E%E4%BA%8E%E8%BF%9D%E8%A7%84%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023年国家网络安全宣传周](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%AE%A3%E4%BC%A0%E5%91%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [多人往海里放生60多箱矿泉水](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BA%BA%E5%BE%80%E6%B5%B7%E9%87%8C%E6%94%BE%E7%94%9F60%E5%A4%9A%E7%AE%B1%E7%9F%BF%E6%B3%89%E6%B0%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [张杰 我女儿有三个为什么朋友不能有三个](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%20%E6%88%91%E5%A5%B3%E5%84%BF%E6%9C%89%E4%B8%89%E4%B8%AA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%8B%E5%8F%8B%E4%B8%8D%E8%83%BD%E6%9C%89%E4%B8%89%E4%B8%AA&t=31&band_rank=5&Refer=top)<br />
