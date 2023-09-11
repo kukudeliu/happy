@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 17:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 17:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [华为 财神爷上香](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%20%E8%B4%A2%E7%A5%9E%E7%88%B7%E4%B8%8A%E9%A6%99&t=31&band_rank=6&Refer=top)<br />
 7. [十元盒饭姐流泪称不想再坚持](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%85%83%E7%9B%92%E9%A5%AD%E5%A7%90%E6%B5%81%E6%B3%AA%E7%A7%B0%E4%B8%8D%E6%83%B3%E5%86%8D%E5%9D%9A%E6%8C%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [周杰伦上海演唱会强实名](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%BA%E5%AE%9E%E5%90%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [43岁女子二次考研考上北京大学](https://s.weibo.com/weibo?q=%2343%E5%B2%81%E5%A5%B3%E5%AD%90%E4%BA%8C%E6%AC%A1%E8%80%83%E7%A0%94%E8%80%83%E4%B8%8A%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [上海暴雨](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
