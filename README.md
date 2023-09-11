@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 19:06:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 19:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [43岁女子二次考研考上北京大学](https://s.weibo.com/weibo?q=%2343%E5%B2%81%E5%A5%B3%E5%AD%90%E4%BA%8C%E6%AC%A1%E8%80%83%E7%A0%94%E8%80%83%E4%B8%8A%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [工资一万要不要租3400的房子](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E8%B5%84%E4%B8%80%E4%B8%87%E8%A6%81%E4%B8%8D%E8%A6%81%E7%A7%9F3400%E7%9A%84%E6%88%BF%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [班长背同学上救护车回来哭成泪人](https://s.weibo.com/weibo?q=%23%E7%8F%AD%E9%95%BF%E8%83%8C%E5%90%8C%E5%AD%A6%E4%B8%8A%E6%95%91%E6%8A%A4%E8%BD%A6%E5%9B%9E%E6%9D%A5%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [Yamy被判赔偿前经纪公司100万](https://s.weibo.com/weibo?q=%23Yamy%E8%A2%AB%E5%88%A4%E8%B5%94%E5%81%BF%E5%89%8D%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8100%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [当我用了前夫哥的亲密付](https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E7%94%A8%E4%BA%86%E5%89%8D%E5%A4%AB%E5%93%A5%E7%9A%84%E4%BA%B2%E5%AF%86%E4%BB%98%23&t=31&band_rank=9&Refer=top)<br />
+8. [当我用了前夫哥的亲密付](https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E7%94%A8%E4%BA%86%E5%89%8D%E5%A4%AB%E5%93%A5%E7%9A%84%E4%BA%B2%E5%AF%86%E4%BB%98%23&t=31&band_rank=8&Refer=top)<br />
+9. [Yamy被判赔偿前经纪公司100万](https://s.weibo.com/weibo?q=%23Yamy%E8%A2%AB%E5%88%A4%E8%B5%94%E5%81%BF%E5%89%8D%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8100%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
