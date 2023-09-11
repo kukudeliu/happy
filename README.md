@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 12:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 12:22:02</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [网红歌手被征集犯罪线索 有多人投案](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E6%AD%8C%E6%89%8B%E8%A2%AB%E5%BE%81%E9%9B%86%E7%8A%AF%E7%BD%AA%E7%BA%BF%E7%B4%A2+%E6%9C%89%E5%A4%9A%E4%BA%BA%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [原央视主持人王志履新](https://www.baidu.com/s?wd=%E5%8E%9F%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%8E%8B%E5%BF%97%E5%B1%A5%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [国内旅游市场加速回暖](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E6%97%85%E6%B8%B8%E5%B8%82%E5%9C%BA%E5%8A%A0%E9%80%9F%E5%9B%9E%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [摩洛哥强震破坏力相当于25枚核弹](https://www.baidu.com/s?wd=%E6%91%A9%E6%B4%9B%E5%93%A5%E5%BC%BA%E9%9C%87%E7%A0%B4%E5%9D%8F%E5%8A%9B%E7%9B%B8%E5%BD%93%E4%BA%8E25%E6%9E%9A%E6%A0%B8%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [东方甄选回应主播称“918是好日子”](https://www.baidu.com/s?wd=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%9B%9E%E5%BA%94%E4%B8%BB%E6%92%AD%E7%A7%B0%E2%80%9C918%E6%98%AF%E5%A5%BD%E6%97%A5%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子杀妻后连夜奔逃被抓时一脸懵](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E5%A6%BB%E5%90%8E%E8%BF%9E%E5%A4%9C%E5%A5%94%E9%80%83%E8%A2%AB%E6%8A%93%E6%97%B6%E4%B8%80%E8%84%B8%E6%87%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [朝鲜阅兵为啥用拖拉机拉大炮](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E9%98%85%E5%85%B5%E4%B8%BA%E5%95%A5%E7%94%A8%E6%8B%96%E6%8B%89%E6%9C%BA%E6%8B%89%E5%A4%A7%E7%82%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [广东多人往海里放生60多箱矿泉水](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%A4%9A%E4%BA%BA%E5%BE%80%E6%B5%B7%E9%87%8C%E6%94%BE%E7%94%9F60%E5%A4%9A%E7%AE%B1%E7%9F%BF%E6%B3%89%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [网红歌手被征集犯罪线索 有多人投案](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E6%AD%8C%E6%89%8B%E8%A2%AB%E5%BE%81%E9%9B%86%E7%8A%AF%E7%BD%AA%E7%BA%BF%E7%B4%A2+%E6%9C%89%E5%A4%9A%E4%BA%BA%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [原央视主持人王志履新](https://www.baidu.com/s?wd=%E5%8E%9F%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%8E%8B%E5%BF%97%E5%B1%A5%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [国内旅游市场加速回暖](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E6%97%85%E6%B8%B8%E5%B8%82%E5%9C%BA%E5%8A%A0%E9%80%9F%E5%9B%9E%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [摩洛哥强震破坏力相当于25枚核弹](https://www.baidu.com/s?wd=%E6%91%A9%E6%B4%9B%E5%93%A5%E5%BC%BA%E9%9C%87%E7%A0%B4%E5%9D%8F%E5%8A%9B%E7%9B%B8%E5%BD%93%E4%BA%8E25%E6%9E%9A%E6%A0%B8%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [东方甄选回应主播称“918是好日子”](https://www.baidu.com/s?wd=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%9B%9E%E5%BA%94%E4%B8%BB%E6%92%AD%E7%A7%B0%E2%80%9C918%E6%98%AF%E5%A5%BD%E6%97%A5%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子杀妻后连夜奔逃被抓时一脸懵](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E5%A6%BB%E5%90%8E%E8%BF%9E%E5%A4%9C%E5%A5%94%E9%80%83%E8%A2%AB%E6%8A%93%E6%97%B6%E4%B8%80%E8%84%B8%E6%87%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [朝鲜阅兵为啥用拖拉机拉大炮](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E9%98%85%E5%85%B5%E4%B8%BA%E5%95%A5%E7%94%A8%E6%8B%96%E6%8B%89%E6%9C%BA%E6%8B%89%E5%A4%A7%E7%82%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [广东多人往海里放生60多箱矿泉水](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%A4%9A%E4%BA%BA%E5%BE%80%E6%B5%B7%E9%87%8C%E6%94%BE%E7%94%9F60%E5%A4%9A%E7%AE%B1%E7%9F%BF%E6%B3%89%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
