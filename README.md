@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 09:50:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 09:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [深圳地铁](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81&t=31&band_rank=6&Refer=top)<br />
 7. [洗完头不要长时间包头发](https://s.weibo.com/weibo?q=%E6%B4%97%E5%AE%8C%E5%A4%B4%E4%B8%8D%E8%A6%81%E9%95%BF%E6%97%B6%E9%97%B4%E5%8C%85%E5%A4%B4%E5%8F%91&t=31&band_rank=7&Refer=top)<br />
 8. [乃万演唱会突遇断电](https://s.weibo.com/weibo?q=%23%E4%B9%83%E4%B8%87%E6%BC%94%E5%94%B1%E4%BC%9A%E7%AA%81%E9%81%87%E6%96%AD%E7%94%B5%23&t=31&band_rank=8&Refer=top)<br />
-9. [华为手机无信号打通卫星电话](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E6%97%A0%E4%BF%A1%E5%8F%B7%E6%89%93%E9%80%9A%E5%8D%AB%E6%98%9F%E7%94%B5%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
+9. [27岁女子极端减肥瘦20斤致闭经1年半](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A5%B3%E5%AD%90%E6%9E%81%E7%AB%AF%E5%87%8F%E8%82%A5%E7%98%A620%E6%96%A4%E8%87%B4%E9%97%AD%E7%BB%8F1%E5%B9%B4%E5%8D%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
