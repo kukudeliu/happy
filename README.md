@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 07:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 07:37:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [养殖场疑多条鳄鱼出逃 民兵称将击毙](https://www.baidu.com/s?wd=%E5%85%BB%E6%AE%96%E5%9C%BA%E7%96%91%E5%A4%9A%E6%9D%A1%E9%B3%84%E9%B1%BC%E5%87%BA%E9%80%83+%E6%B0%91%E5%85%B5%E7%A7%B0%E5%B0%86%E5%87%BB%E6%AF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一图了解网络安全法](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E4%BA%86%E8%A7%A3%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子感染HPV向发生关系房东索赔被驳](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%84%9F%E6%9F%93HPV%E5%90%91%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E6%88%BF%E4%B8%9C%E7%B4%A2%E8%B5%94%E8%A2%AB%E9%A9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [36岁大一新生报到被当成家长](https://www.baidu.com/s?wd=36%E5%B2%81%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E6%8A%A5%E5%88%B0%E8%A2%AB%E5%BD%93%E6%88%90%E5%AE%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [云南彩民中1.13亿大奖](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%BD%A9%E6%B0%91%E4%B8%AD1.13%E4%BA%BF%E5%A4%A7%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [薛之谦跪着向歌迷道歉](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%B7%AA%E7%9D%80%E5%90%91%E6%AD%8C%E8%BF%B7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女生遭多人殴打逼下跪 家属发声](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E4%BA%BA%E6%AE%B4%E6%89%93%E9%80%BC%E4%B8%8B%E8%B7%AA+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [36岁大一新生报到被当成家长](https://www.baidu.com/s?wd=36%E5%B2%81%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E6%8A%A5%E5%88%B0%E8%A2%AB%E5%BD%93%E6%88%90%E5%AE%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [云南彩民中1.13亿大奖](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%BD%A9%E6%B0%91%E4%B8%AD1.13%E4%BA%BF%E5%A4%A7%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [保安被业主打死？赣州警方辟谣](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E8%A2%AB%E4%B8%9A%E4%B8%BB%E6%89%93%E6%AD%BB%EF%BC%9F%E8%B5%A3%E5%B7%9E%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [养殖场疑多条鳄鱼出逃 民兵称将击毙](https://www.baidu.com/s?wd=%E5%85%BB%E6%AE%96%E5%9C%BA%E7%96%91%E5%A4%9A%E6%9D%A1%E9%B3%84%E9%B1%BC%E5%87%BA%E9%80%83+%E6%B0%91%E5%85%B5%E7%A7%B0%E5%B0%86%E5%87%BB%E6%AF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一图了解网络安全法](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E4%BA%86%E8%A7%A3%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子感染HPV向发生关系房东索赔被驳](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%84%9F%E6%9F%93HPV%E5%90%91%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E6%88%BF%E4%B8%9C%E7%B4%A2%E8%B5%94%E8%A2%AB%E9%A9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [36岁大一新生报到被当成家长](https://www.baidu.com/s?wd=36%E5%B2%81%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E6%8A%A5%E5%88%B0%E8%A2%AB%E5%BD%93%E6%88%90%E5%AE%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [云南彩民中1.13亿大奖](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%BD%A9%E6%B0%91%E4%B8%AD1.13%E4%BA%BF%E5%A4%A7%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [薛之谦跪着向歌迷道歉](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%B7%AA%E7%9D%80%E5%90%91%E6%AD%8C%E8%BF%B7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女生遭多人殴打逼下跪 家属发声](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E4%BA%BA%E6%AE%B4%E6%89%93%E9%80%BC%E4%B8%8B%E8%B7%AA+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [36岁大一新生报到被当成家长](https://www.baidu.com/s?wd=36%E5%B2%81%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E6%8A%A5%E5%88%B0%E8%A2%AB%E5%BD%93%E6%88%90%E5%AE%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [云南彩民中1.13亿大奖](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%BD%A9%E6%B0%91%E4%B8%AD1.13%E4%BA%BF%E5%A4%A7%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [保安被业主打死？赣州警方辟谣](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E8%A2%AB%E4%B8%9A%E4%B8%BB%E6%89%93%E6%AD%BB%EF%BC%9F%E8%B5%A3%E5%B7%9E%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
