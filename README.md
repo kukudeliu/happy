@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 10:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 10:13:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [赵本山新剧讽刺娱乐圈 内涵好声音](https://www.baidu.com/s?wd=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E6%96%B0%E5%89%A7%E8%AE%BD%E5%88%BA%E5%A8%B1%E4%B9%90%E5%9C%88+%E5%86%85%E6%B6%B5%E5%A5%BD%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国男子赴韩弃子：希望他在韩长大](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E8%B5%B4%E9%9F%A9%E5%BC%83%E5%AD%90%EF%BC%9A%E5%B8%8C%E6%9C%9B%E4%BB%96%E5%9C%A8%E9%9F%A9%E9%95%BF%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [福州200多辆车被淹 业主：挪车被拒](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E200%E5%A4%9A%E8%BE%86%E8%BD%A6%E8%A2%AB%E6%B7%B9+%E4%B8%9A%E4%B8%BB%EF%BC%9A%E6%8C%AA%E8%BD%A6%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆下调最低工资标准?官方辟谣](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%8B%E8%B0%83%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E6%A0%87%E5%87%86%3F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [自热米饭是塑料做的？媒体辟谣](https://www.baidu.com/s?wd=%E8%87%AA%E7%83%AD%E7%B1%B3%E9%A5%AD%E6%98%AF%E5%A1%91%E6%96%99%E5%81%9A%E7%9A%84%EF%BC%9F%E5%AA%92%E4%BD%93%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [赵本山新剧讽刺娱乐圈 内涵好声音](https://www.baidu.com/s?wd=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E6%96%B0%E5%89%A7%E8%AE%BD%E5%88%BA%E5%A8%B1%E4%B9%90%E5%9C%88+%E5%86%85%E6%B6%B5%E5%A5%BD%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国男子赴韩弃子：希望他在韩长大](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E8%B5%B4%E9%9F%A9%E5%BC%83%E5%AD%90%EF%BC%9A%E5%B8%8C%E6%9C%9B%E4%BB%96%E5%9C%A8%E9%9F%A9%E9%95%BF%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [福州200多辆车被淹 业主：挪车被拒](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E200%E5%A4%9A%E8%BE%86%E8%BD%A6%E8%A2%AB%E6%B7%B9+%E4%B8%9A%E4%B8%BB%EF%BC%9A%E6%8C%AA%E8%BD%A6%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆下调最低工资标准?官方辟谣](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%8B%E8%B0%83%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E6%A0%87%E5%87%86%3F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [自热米饭是塑料做的？媒体辟谣](https://www.baidu.com/s?wd=%E8%87%AA%E7%83%AD%E7%B1%B3%E9%A5%AD%E6%98%AF%E5%A1%91%E6%96%99%E5%81%9A%E7%9A%84%EF%BC%9F%E5%AA%92%E4%BD%93%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
