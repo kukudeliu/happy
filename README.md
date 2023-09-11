@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 21:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 21:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [成毅第一部现代男主剧](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E7%AC%AC%E4%B8%80%E9%83%A8%E7%8E%B0%E4%BB%A3%E7%94%B7%E4%B8%BB%E5%89%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [Yamy被判赔偿前经纪公司100万](https://s.weibo.com/weibo?q=%23Yamy%E8%A2%AB%E5%88%A4%E8%B5%94%E5%81%BF%E5%89%8D%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8100%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [女儿倾诉自己长相ugly被妈妈拥吻](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%80%BE%E8%AF%89%E8%87%AA%E5%B7%B1%E9%95%BF%E7%9B%B8ugly%E8%A2%AB%E5%A6%88%E5%A6%88%E6%8B%A5%E5%90%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [摩洛哥地震老人抢救出烤箱为灾民烤面包](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E5%9C%B0%E9%9C%87%E8%80%81%E4%BA%BA%E6%8A%A2%E6%95%91%E5%87%BA%E7%83%A4%E7%AE%B1%E4%B8%BA%E7%81%BE%E6%B0%91%E7%83%A4%E9%9D%A2%E5%8C%85%23&t=31&band_rank=9&Refer=top)<br />
+9. [男孩写名字笔顺令人出乎意料](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%86%99%E5%90%8D%E5%AD%97%E7%AC%94%E9%A1%BA%E4%BB%A4%E4%BA%BA%E5%87%BA%E4%B9%8E%E6%84%8F%E6%96%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
