@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 16:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 16:24:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [2023年国家网络安全宣传周](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%AE%A3%E4%BC%A0%E5%91%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [工资一万要不要租3400的房子](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E8%B5%84%E4%B8%80%E4%B8%87%E8%A6%81%E4%B8%8D%E8%A6%81%E7%A7%9F3400%E7%9A%84%E6%88%BF%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [蜜雪冰城是全球第五大连锁快餐店](https://s.weibo.com/weibo?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%98%AF%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%94%E5%A4%A7%E8%BF%9E%E9%94%81%E5%BF%AB%E9%A4%90%E5%BA%97&t=31&band_rank=5&Refer=top)<br />
-6. [43岁女子二次考研考上北京大学](https://s.weibo.com/weibo?q=%2343%E5%B2%81%E5%A5%B3%E5%AD%90%E4%BA%8C%E6%AC%A1%E8%80%83%E7%A0%94%E8%80%83%E4%B8%8A%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [长相思第二季过审](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E8%BF%87%E5%AE%A1%23&t=31&band_rank=7&Refer=top)<br />
+6. [长相思第二季过审](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E8%BF%87%E5%AE%A1%23&t=31&band_rank=6&Refer=top)<br />
+7. [43岁女子二次考研考上北京大学](https://s.weibo.com/weibo?q=%2343%E5%B2%81%E5%A5%B3%E5%AD%90%E4%BA%8C%E6%AC%A1%E8%80%83%E7%A0%94%E8%80%83%E4%B8%8A%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [父亲藏女儿高中录取通知书17年](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%97%8F%E5%A5%B3%E5%84%BF%E9%AB%98%E4%B8%AD%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A617%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
 9. [多人往海里放生60多箱矿泉水](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BA%BA%E5%BE%80%E6%B5%B7%E9%87%8C%E6%94%BE%E7%94%9F60%E5%A4%9A%E7%AE%B1%E7%9F%BF%E6%B3%89%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
 
