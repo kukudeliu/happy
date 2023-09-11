@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 01:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 01:44:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [男子感染HPV向发生关系房东索赔被驳](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%84%9F%E6%9F%93HPV%E5%90%91%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E6%88%BF%E4%B8%9C%E7%B4%A2%E8%B5%94%E8%A2%AB%E9%A9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子称怀孕女友失联多日 女方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E6%80%80%E5%AD%95%E5%A5%B3%E5%8F%8B%E5%A4%B1%E8%81%94%E5%A4%9A%E6%97%A5+%E5%A5%B3%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [36岁大一新生报到被当成家长](https://www.baidu.com/s?wd=36%E5%B2%81%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E6%8A%A5%E5%88%B0%E8%A2%AB%E5%BD%93%E6%88%90%E5%AE%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本79岁男子性侵100岁老太致死](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC79%E5%B2%81%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5100%E5%B2%81%E8%80%81%E5%A4%AA%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家：中国3000万男性娶不到老婆](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%B8%AD%E5%9B%BD3000%E4%B8%87%E7%94%B7%E6%80%A7%E5%A8%B6%E4%B8%8D%E5%88%B0%E8%80%81%E5%A9%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [保安被业主打死？赣州警方辟谣](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E8%A2%AB%E4%B8%9A%E4%B8%BB%E6%89%93%E6%AD%BB%EF%BC%9F%E8%B5%A3%E5%B7%9E%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男子感染HPV向发生关系房东索赔被驳](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%84%9F%E6%9F%93HPV%E5%90%91%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E6%88%BF%E4%B8%9C%E7%B4%A2%E8%B5%94%E8%A2%AB%E9%A9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子称怀孕女友失联多日 女方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E6%80%80%E5%AD%95%E5%A5%B3%E5%8F%8B%E5%A4%B1%E8%81%94%E5%A4%9A%E6%97%A5+%E5%A5%B3%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [36岁大一新生报到被当成家长](https://www.baidu.com/s?wd=36%E5%B2%81%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E6%8A%A5%E5%88%B0%E8%A2%AB%E5%BD%93%E6%88%90%E5%AE%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本79岁男子性侵100岁老太致死](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC79%E5%B2%81%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5100%E5%B2%81%E8%80%81%E5%A4%AA%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家：中国3000万男性娶不到老婆](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%B8%AD%E5%9B%BD3000%E4%B8%87%E7%94%B7%E6%80%A7%E5%A8%B6%E4%B8%8D%E5%88%B0%E8%80%81%E5%A9%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [保安被业主打死？赣州警方辟谣](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E8%A2%AB%E4%B8%9A%E4%B8%BB%E6%89%93%E6%AD%BB%EF%BC%9F%E8%B5%A3%E5%B7%9E%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
