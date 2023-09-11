@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 10:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 10:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [库迪米乳拿铁](https://s.weibo.com/weibo?q=%E5%BA%93%E8%BF%AA%E7%B1%B3%E4%B9%B3%E6%8B%BF%E9%93%81&t=31&band_rank=6&Refer=top)<br />
 7. [赵本山你大爷永远是你大爷](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E4%BD%A0%E5%A4%A7%E7%88%B7%E6%B0%B8%E8%BF%9C%E6%98%AF%E4%BD%A0%E5%A4%A7%E7%88%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [山东一家三代人出了18个教师](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%AE%B6%E4%B8%89%E4%BB%A3%E4%BA%BA%E5%87%BA%E4%BA%8618%E4%B8%AA%E6%95%99%E5%B8%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [有种女性贫困叫月经贫困](https://s.weibo.com/weibo?q=%E6%9C%89%E7%A7%8D%E5%A5%B3%E6%80%A7%E8%B4%AB%E5%9B%B0%E5%8F%AB%E6%9C%88%E7%BB%8F%E8%B4%AB%E5%9B%B0&t=31&band_rank=9&Refer=top)<br />
+9. [宫尚角的寝衣](https://s.weibo.com/weibo?q=%23%E5%AE%AB%E5%B0%9A%E8%A7%92%E7%9A%84%E5%AF%9D%E8%A1%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
