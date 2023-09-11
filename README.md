@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 05:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 05:08:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [玉溪一彩民中1.13亿元](https://s.weibo.com/weibo?q=%23%E7%8E%89%E6%BA%AA%E4%B8%80%E5%BD%A9%E6%B0%91%E4%B8%AD1.13%E4%BA%BF%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [薛之谦跪着向歌迷道歉](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%B7%AA%E7%9D%80%E5%90%91%E6%AD%8C%E8%BF%B7%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [男人吃醋的时候不分理由只看性别](https://s.weibo.com/weibo?q=%23%E7%94%B7%E4%BA%BA%E5%90%83%E9%86%8B%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%8D%E5%88%86%E7%90%86%E7%94%B1%E5%8F%AA%E7%9C%8B%E6%80%A7%E5%88%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [我有事要去jellycat一趟](https://s.weibo.com/weibo?q=%E6%88%91%E6%9C%89%E4%BA%8B%E8%A6%81%E5%8E%BBjellycat%E4%B8%80%E8%B6%9F&t=31&band_rank=8&Refer=top)<br />
-9. [女孩因外貌质疑自己妈妈拥吻回应](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9B%A0%E5%A4%96%E8%B2%8C%E8%B4%A8%E7%96%91%E8%87%AA%E5%B7%B1%E5%A6%88%E5%A6%88%E6%8B%A5%E5%90%BB%E5%9B%9E%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
+8. [女孩因外貌质疑自己妈妈拥吻回应](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9B%A0%E5%A4%96%E8%B2%8C%E8%B4%A8%E7%96%91%E8%87%AA%E5%B7%B1%E5%A6%88%E5%A6%88%E6%8B%A5%E5%90%BB%E5%9B%9E%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
+9. [戒咖啡两个月后](https://s.weibo.com/weibo?q=%E6%88%92%E5%92%96%E5%95%A1%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%90%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [一图了解网络安全法](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E4%BA%86%E8%A7%A3%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子感染HPV向发生关系房东索赔被驳](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%84%9F%E6%9F%93HPV%E5%90%91%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E6%88%BF%E4%B8%9C%E7%B4%A2%E8%B5%94%E8%A2%AB%E9%A9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [人民币突然猛拉！发生了什么？](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E7%AA%81%E7%84%B6%E7%8C%9B%E6%8B%89%EF%BC%81%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [下跪刷屏！房企董事长回应股东内讧](https://www.baidu.com/s?wd=%E4%B8%8B%E8%B7%AA%E5%88%B7%E5%B1%8F%EF%BC%81%E6%88%BF%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9B%9E%E5%BA%94%E8%82%A1%E4%B8%9C%E5%86%85%E8%AE%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [薛之谦跪着向歌迷道歉](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%B7%AA%E7%9D%80%E5%90%91%E6%AD%8C%E8%BF%B7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [薛之谦跪着向歌迷道歉](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%B7%AA%E7%9D%80%E5%90%91%E6%AD%8C%E8%BF%B7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子称怀孕女友失联多日 女方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E6%80%80%E5%AD%95%E5%A5%B3%E5%8F%8B%E5%A4%B1%E8%81%94%E5%A4%9A%E6%97%A5+%E5%A5%B3%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [保安被业主打死？赣州警方辟谣](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E8%A2%AB%E4%B8%9A%E4%B8%BB%E6%89%93%E6%AD%BB%EF%BC%9F%E8%B5%A3%E5%B7%9E%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [一图了解网络安全法](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E4%BA%86%E8%A7%A3%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子感染HPV向发生关系房东索赔被驳](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%84%9F%E6%9F%93HPV%E5%90%91%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E6%88%BF%E4%B8%9C%E7%B4%A2%E8%B5%94%E8%A2%AB%E9%A9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [人民币突然猛拉！发生了什么？](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E7%AA%81%E7%84%B6%E7%8C%9B%E6%8B%89%EF%BC%81%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [下跪刷屏！房企董事长回应股东内讧](https://www.baidu.com/s?wd=%E4%B8%8B%E8%B7%AA%E5%88%B7%E5%B1%8F%EF%BC%81%E6%88%BF%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9B%9E%E5%BA%94%E8%82%A1%E4%B8%9C%E5%86%85%E8%AE%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [薛之谦跪着向歌迷道歉](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%B7%AA%E7%9D%80%E5%90%91%E6%AD%8C%E8%BF%B7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [薛之谦跪着向歌迷道歉](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%B7%AA%E7%9D%80%E5%90%91%E6%AD%8C%E8%BF%B7%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子称怀孕女友失联多日 女方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E6%80%80%E5%AD%95%E5%A5%B3%E5%8F%8B%E5%A4%B1%E8%81%94%E5%A4%9A%E6%97%A5+%E5%A5%B3%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [保安被业主打死？赣州警方辟谣](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E8%A2%AB%E4%B8%9A%E4%B8%BB%E6%89%93%E6%AD%BB%EF%BC%9F%E8%B5%A3%E5%B7%9E%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
