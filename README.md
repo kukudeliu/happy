@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 12:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 12:31:01</h4></div>
 
 > 微博  
 
-1. [父亲藏女儿高中录取通知书17年](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%97%8F%E5%A5%B3%E5%84%BF%E9%AB%98%E4%B8%AD%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A617%E5%B9%B4%23&t=31&band_rank=1&Refer=top)<br />
-2. [多人往海里放生60多箱矿泉水](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BA%BA%E5%BE%80%E6%B5%B7%E9%87%8C%E6%94%BE%E7%94%9F60%E5%A4%9A%E7%AE%B1%E7%9F%BF%E6%B3%89%E6%B0%B4%23&t=31&band_rank=2&Refer=top)<br />
+1. [多人往海里放生60多箱矿泉水](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BA%BA%E5%BE%80%E6%B5%B7%E9%87%8C%E6%94%BE%E7%94%9F60%E5%A4%9A%E7%AE%B1%E7%9F%BF%E6%B3%89%E6%B0%B4%23&t=31&band_rank=1&Refer=top)<br />
+2. [父亲藏女儿高中录取通知书17年](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%97%8F%E5%A5%B3%E5%84%BF%E9%AB%98%E4%B8%AD%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A617%E5%B9%B4%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023年国家网络安全宣传周](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%AE%A3%E4%BC%A0%E5%91%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [张杰 我女儿有三个为什么朋友不能有三个](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%20%E6%88%91%E5%A5%B3%E5%84%BF%E6%9C%89%E4%B8%89%E4%B8%AA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%8B%E5%8F%8B%E4%B8%8D%E8%83%BD%E6%9C%89%E4%B8%89%E4%B8%AA&t=31&band_rank=4&Refer=top)<br />
 5. [王力宏演唱会跪谢粉丝](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B7%AA%E8%B0%A2%E7%B2%89%E4%B8%9D%23&t=31&band_rank=5&Refer=top)<br />
