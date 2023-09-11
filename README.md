@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 16:43:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 16:44:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [2023年国家网络安全宣传周](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%AE%A3%E4%BC%A0%E5%91%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [工资一万要不要租3400的房子](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E8%B5%84%E4%B8%80%E4%B8%87%E8%A6%81%E4%B8%8D%E8%A6%81%E7%A7%9F3400%E7%9A%84%E6%88%BF%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [十元盒饭姐流泪称不想再坚持](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%85%83%E7%9B%92%E9%A5%AD%E5%A7%90%E6%B5%81%E6%B3%AA%E7%A7%B0%E4%B8%8D%E6%83%B3%E5%86%8D%E5%9D%9A%E6%8C%81%23&t=31&band_rank=5&Refer=top)<br />
-6. [相亲不是感情发生的载体](https://s.weibo.com/weibo?q=%E7%9B%B8%E4%BA%B2%E4%B8%8D%E6%98%AF%E6%84%9F%E6%83%85%E5%8F%91%E7%94%9F%E7%9A%84%E8%BD%BD%E4%BD%93&t=31&band_rank=6&Refer=top)<br />
-7. [华为 财神爷上香](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%20%E8%B4%A2%E7%A5%9E%E7%88%B7%E4%B8%8A%E9%A6%99&t=31&band_rank=7&Refer=top)<br />
+6. [华为 财神爷上香](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%20%E8%B4%A2%E7%A5%9E%E7%88%B7%E4%B8%8A%E9%A6%99&t=31&band_rank=6&Refer=top)<br />
+7. [相亲不是感情发生的载体](https://s.weibo.com/weibo?q=%E7%9B%B8%E4%BA%B2%E4%B8%8D%E6%98%AF%E6%84%9F%E6%83%85%E5%8F%91%E7%94%9F%E7%9A%84%E8%BD%BD%E4%BD%93&t=31&band_rank=7&Refer=top)<br />
 8. [43岁女子二次考研考上北京大学](https://s.weibo.com/weibo?q=%2343%E5%B2%81%E5%A5%B3%E5%AD%90%E4%BA%8C%E6%AC%A1%E8%80%83%E7%A0%94%E8%80%83%E4%B8%8A%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
 9. [周杰伦上海演唱会强实名](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%BA%E5%AE%9E%E5%90%8D%23&t=31&band_rank=9&Refer=top)<br />
 
