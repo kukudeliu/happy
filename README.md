@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 11:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 11:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [美国功勋间谍在华落网](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8A%9F%E5%8B%8B%E9%97%B4%E8%B0%8D%E5%9C%A8%E5%8D%8E%E8%90%BD%E7%BD%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [洗完头不要长时间包头发](https://s.weibo.com/weibo?q=%E6%B4%97%E5%AE%8C%E5%A4%B4%E4%B8%8D%E8%A6%81%E9%95%BF%E6%97%B6%E9%97%B4%E5%8C%85%E5%A4%B4%E5%8F%91&t=31&band_rank=7&Refer=top)<br />
 8. [华为Mate 60 Pro一周体验](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate%2060%20Pro%E4%B8%80%E5%91%A8%E4%BD%93%E9%AA%8C&t=31&band_rank=8&Refer=top)<br />
-9. [库迪米乳拿铁](https://s.weibo.com/weibo?q=%E5%BA%93%E8%BF%AA%E7%B1%B3%E4%B9%B3%E6%8B%BF%E9%93%81&t=31&band_rank=9&Refer=top)<br />
+9. [宫尚角沦陷了](https://s.weibo.com/weibo?q=%23%E5%AE%AB%E5%B0%9A%E8%A7%92%E6%B2%A6%E9%99%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
