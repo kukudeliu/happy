@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 19:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 19:53:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [2023年国家网络安全宣传周](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%AE%A3%E4%BC%A0%E5%91%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [宫尚角误伤宫远徵](https://s.weibo.com/weibo?q=%23%E5%AE%AB%E5%B0%9A%E8%A7%92%E8%AF%AF%E4%BC%A4%E5%AE%AB%E8%BF%9C%E5%BE%B5%23&t=31&band_rank=4&Refer=top)<br />
 5. [00后i人学姐迎新秒变e人](https://s.weibo.com/weibo?q=%2300%E5%90%8Ei%E4%BA%BA%E5%AD%A6%E5%A7%90%E8%BF%8E%E6%96%B0%E7%A7%92%E5%8F%98e%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [戒咖啡两个月后](https://s.weibo.com/weibo?q=%E6%88%92%E5%92%96%E5%95%A1%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%90%8E&t=31&band_rank=6&Refer=top)<br />
+6. [中国超3000万男性难结婚](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B6%853000%E4%B8%87%E7%94%B7%E6%80%A7%E9%9A%BE%E7%BB%93%E5%A9%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [43岁女子二次考研考上北京大学](https://s.weibo.com/weibo?q=%2343%E5%B2%81%E5%A5%B3%E5%AD%90%E4%BA%8C%E6%AC%A1%E8%80%83%E7%A0%94%E8%80%83%E4%B8%8A%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [中国超3000万男性难结婚](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B6%853000%E4%B8%87%E7%94%B7%E6%80%A7%E9%9A%BE%E7%BB%93%E5%A9%9A%23&t=31&band_rank=8&Refer=top)<br />
+8. [戒咖啡两个月后](https://s.weibo.com/weibo?q=%E6%88%92%E5%92%96%E5%95%A1%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%90%8E&t=31&band_rank=8&Refer=top)<br />
 9. [Yamy被判赔偿前经纪公司100万](https://s.weibo.com/weibo?q=%23Yamy%E8%A2%AB%E5%88%A4%E8%B5%94%E5%81%BF%E5%89%8D%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8100%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
