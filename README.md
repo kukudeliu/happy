@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 10:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 10:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [洗完头不要长时间包头发](https://s.weibo.com/weibo?q=%E6%B4%97%E5%AE%8C%E5%A4%B4%E4%B8%8D%E8%A6%81%E9%95%BF%E6%97%B6%E9%97%B4%E5%8C%85%E5%A4%B4%E5%8F%91&t=31&band_rank=5&Refer=top)<br />
 6. [华为Mate 60 Pro一周体验](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate%2060%20Pro%E4%B8%80%E5%91%A8%E4%BD%93%E9%AA%8C&t=31&band_rank=6&Refer=top)<br />
 7. [库迪米乳拿铁](https://s.weibo.com/weibo?q=%E5%BA%93%E8%BF%AA%E7%B1%B3%E4%B9%B3%E6%8B%BF%E9%93%81&t=31&band_rank=7&Refer=top)<br />
-8. [赵本山你大爷永远是你大爷](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E4%BD%A0%E5%A4%A7%E7%88%B7%E6%B0%B8%E8%BF%9C%E6%98%AF%E4%BD%A0%E5%A4%A7%E7%88%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [山东一家三代人出了18个教师](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%AE%B6%E4%B8%89%E4%BB%A3%E4%BA%BA%E5%87%BA%E4%BA%8618%E4%B8%AA%E6%95%99%E5%B8%88%23&t=31&band_rank=9&Refer=top)<br />
+8. [山东一家三代人出了18个教师](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%AE%B6%E4%B8%89%E4%BB%A3%E4%BA%BA%E5%87%BA%E4%BA%8618%E4%B8%AA%E6%95%99%E5%B8%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [赵本山你大爷永远是你大爷](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E4%BD%A0%E5%A4%A7%E7%88%B7%E6%B0%B8%E8%BF%9C%E6%98%AF%E4%BD%A0%E5%A4%A7%E7%88%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
