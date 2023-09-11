@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 11:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 11:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [美国功勋间谍在华落网](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8A%9F%E5%8B%8B%E9%97%B4%E8%B0%8D%E5%9C%A8%E5%8D%8E%E8%90%BD%E7%BD%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [华为Mate 60 Pro一周体验](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate%2060%20Pro%E4%B8%80%E5%91%A8%E4%BD%93%E9%AA%8C&t=31&band_rank=7&Refer=top)<br />
 8. [周杰伦终于给张彬彬送门票了吗](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%BB%88%E4%BA%8E%E7%BB%99%E5%BC%A0%E5%BD%AC%E5%BD%AC%E9%80%81%E9%97%A8%E7%A5%A8%E4%BA%86%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [东方甄选回应主播称918是个好日子](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%9B%9E%E5%BA%94%E4%B8%BB%E6%92%AD%E7%A7%B0918%E6%98%AF%E4%B8%AA%E5%A5%BD%E6%97%A5%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [洗完头不要长时间包头发](https://s.weibo.com/weibo?q=%E6%B4%97%E5%AE%8C%E5%A4%B4%E4%B8%8D%E8%A6%81%E9%95%BF%E6%97%B6%E9%97%B4%E5%8C%85%E5%A4%B4%E5%8F%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
