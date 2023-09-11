@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 08:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 08:09:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [德约科维奇vs梅德韦杰夫](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87vs%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%23&t=31&band_rank=5&Refer=top)<br />
 6. [27岁女子极端减肥瘦20斤致闭经1年半](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A5%B3%E5%AD%90%E6%9E%81%E7%AB%AF%E5%87%8F%E8%82%A5%E7%98%A620%E6%96%A4%E8%87%B4%E9%97%AD%E7%BB%8F1%E5%B9%B4%E5%8D%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫说长相思第二季比第一季更虐](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%B4%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%AF%94%E7%AC%AC%E4%B8%80%E5%AD%A3%E6%9B%B4%E8%99%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [警号253689请回答](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%8F%B7253689%E8%AF%B7%E5%9B%9E%E7%AD%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [夜色尚浅 好嗑](https://s.weibo.com/weibo?q=%E5%A4%9C%E8%89%B2%E5%B0%9A%E6%B5%85%20%E5%A5%BD%E5%97%91&t=31&band_rank=9&Refer=top)<br />
+8. [不想军训 萧敬腾雨来](https://s.weibo.com/weibo?q=%E4%B8%8D%E6%83%B3%E5%86%9B%E8%AE%AD%20%E8%90%A7%E6%95%AC%E8%85%BE%E9%9B%A8%E6%9D%A5&t=31&band_rank=8&Refer=top)<br />
+9. [警号253689请回答](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%8F%B7253689%E8%AF%B7%E5%9B%9E%E7%AD%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
