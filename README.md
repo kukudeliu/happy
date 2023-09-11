@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 06:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 06:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男人吃醋的时候不分理由只看性别](https://s.weibo.com/weibo?q=%23%E7%94%B7%E4%BA%BA%E5%90%83%E9%86%8B%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%8D%E5%88%86%E7%90%86%E7%94%B1%E5%8F%AA%E7%9C%8B%E6%80%A7%E5%88%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [玉溪一彩民中1.13亿元](https://s.weibo.com/weibo?q=%23%E7%8E%89%E6%BA%AA%E4%B8%80%E5%BD%A9%E6%B0%91%E4%B8%AD1.13%E4%BA%BF%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [女孩因外貌质疑自己妈妈拥吻回应](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9B%A0%E5%A4%96%E8%B2%8C%E8%B4%A8%E7%96%91%E8%87%AA%E5%B7%B1%E5%A6%88%E5%A6%88%E6%8B%A5%E5%90%BB%E5%9B%9E%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [戒咖啡两个月后](https://s.weibo.com/weibo?q=%E6%88%92%E5%92%96%E5%95%A1%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%90%8E&t=31&band_rank=9&Refer=top)<br />
+9. [薛之谦跪着向歌迷道歉](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%B7%AA%E7%9D%80%E5%90%91%E6%AD%8C%E8%BF%B7%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
