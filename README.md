@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 09:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-11 09:59:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [赵本山你大爷永远是你大爷](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E4%BD%A0%E5%A4%A7%E7%88%B7%E6%B0%B8%E8%BF%9C%E6%98%AF%E4%BD%A0%E5%A4%A7%E7%88%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [美国911事件22周年](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD911%E4%BA%8B%E4%BB%B622%E5%91%A8%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [深圳地铁](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81&t=31&band_rank=7&Refer=top)<br />
-8. [山东一家三代人出了18个教师](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%AE%B6%E4%B8%89%E4%BB%A3%E4%BA%BA%E5%87%BA%E4%BA%8618%E4%B8%AA%E6%95%99%E5%B8%88%23&t=31&band_rank=8&Refer=top)<br />
+8. [宫尚角的寝衣](https://s.weibo.com/weibo?q=%23%E5%AE%AB%E5%B0%9A%E8%A7%92%E7%9A%84%E5%AF%9D%E8%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
 9. [乃万演唱会突遇断电](https://s.weibo.com/weibo?q=%23%E4%B9%83%E4%B8%87%E6%BC%94%E5%94%B1%E4%BC%9A%E7%AA%81%E9%81%87%E6%96%AD%E7%94%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
