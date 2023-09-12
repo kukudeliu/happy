@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 14:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 14:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [蜂花回应捡箱子发货](https://s.weibo.com/weibo?q=%23%E8%9C%82%E8%8A%B1%E5%9B%9E%E5%BA%94%E6%8D%A1%E7%AE%B1%E5%AD%90%E5%8F%91%E8%B4%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [华为发布会](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
 8. [华为争气三件套](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%BA%89%E6%B0%94%E4%B8%89%E4%BB%B6%E5%A5%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [SMTOWN艺人正式入驻WEVERSE](https://s.weibo.com/weibo?q=%23SMTOWN%E8%89%BA%E4%BA%BA%E6%AD%A3%E5%BC%8F%E5%85%A5%E9%A9%BBWEVERSE%23&t=31&band_rank=9&Refer=top)<br />
+9. [孙怡替北方人辟谣](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E6%9B%BF%E5%8C%97%E6%96%B9%E4%BA%BA%E8%BE%9F%E8%B0%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
