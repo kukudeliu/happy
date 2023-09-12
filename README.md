@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 09:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 09:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩国最受欢迎的两种小吃](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E4%B8%A4%E7%A7%8D%E5%B0%8F%E5%90%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [金繁喊纪凌尘大海哥](https://s.weibo.com/weibo?q=%23%E9%87%91%E7%B9%81%E5%96%8A%E7%BA%AA%E5%87%8C%E5%B0%98%E5%A4%A7%E6%B5%B7%E5%93%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [蜂花 商战](https://s.weibo.com/weibo?q=%E8%9C%82%E8%8A%B1%20%E5%95%86%E6%88%98&t=31&band_rank=8&Refer=top)<br />
-9. [汪苏泷容祖儿 雷公电母](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%AE%B9%E7%A5%96%E5%84%BF%20%E9%9B%B7%E5%85%AC%E7%94%B5%E6%AF%8D&t=31&band_rank=9&Refer=top)<br />
+9. [肖战哭戏哭到脸通红了](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%93%AD%E6%88%8F%E5%93%AD%E5%88%B0%E8%84%B8%E9%80%9A%E7%BA%A2%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
