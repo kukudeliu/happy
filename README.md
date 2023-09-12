@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 23:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 23:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [日本反对他国直接取样独立检测](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8D%E5%AF%B9%E4%BB%96%E5%9B%BD%E7%9B%B4%E6%8E%A5%E5%8F%96%E6%A0%B7%E7%8B%AC%E7%AB%8B%E6%A3%80%E6%B5%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [成毅换了微博头像](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%8D%A2%E4%BA%86%E5%BE%AE%E5%8D%9A%E5%A4%B4%E5%83%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [国足主帅称输球是因为运气不好](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%B8%85%E7%A7%B0%E8%BE%93%E7%90%83%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%BF%90%E6%B0%94%E4%B8%8D%E5%A5%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [宫尚角隐形眼镜忘摘了](https://s.weibo.com/weibo?q=%23%E5%AE%AB%E5%B0%9A%E8%A7%92%E9%9A%90%E5%BD%A2%E7%9C%BC%E9%95%9C%E5%BF%98%E6%91%98%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈致逸离开米哈游](https://s.weibo.com/weibo?q=%E9%99%88%E8%87%B4%E9%80%B8%E7%A6%BB%E5%BC%80%E7%B1%B3%E5%93%88%E6%B8%B8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
