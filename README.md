@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 22:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 22:32:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [日本反对他国直接取样独立检测](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8D%E5%AF%B9%E4%BB%96%E5%9B%BD%E7%9B%B4%E6%8E%A5%E5%8F%96%E6%A0%B7%E7%8B%AC%E7%AB%8B%E6%A3%80%E6%B5%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [莲花味精上架79元的套餐](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%E4%B8%8A%E6%9E%B679%E5%85%83%E7%9A%84%E5%A5%97%E9%A4%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [宫尚角隐形眼镜忘摘了](https://s.weibo.com/weibo?q=%23%E5%AE%AB%E5%B0%9A%E8%A7%92%E9%9A%90%E5%BD%A2%E7%9C%BC%E9%95%9C%E5%BF%98%E6%91%98%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [中小学教师从事学科类校外培训将从重处罚](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E4%BB%8E%E4%BA%8B%E5%AD%A6%E7%A7%91%E7%B1%BB%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E5%B0%86%E4%BB%8E%E9%87%8D%E5%A4%84%E7%BD%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [成毅换了微博头像](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%8D%A2%E4%BA%86%E5%BE%AE%E5%8D%9A%E5%A4%B4%E5%83%8F%23&t=31&band_rank=8&Refer=top)<br />
+7. [成毅换了微博头像](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%8D%A2%E4%BA%86%E5%BE%AE%E5%8D%9A%E5%A4%B4%E5%83%8F%23&t=31&band_rank=7&Refer=top)<br />
+8. [中小学教师从事学科类校外培训将从重处罚](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E4%BB%8E%E4%BA%8B%E5%AD%A6%E7%A7%91%E7%B1%BB%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E5%B0%86%E4%BB%8E%E9%87%8D%E5%A4%84%E7%BD%9A%23&t=31&band_rank=8&Refer=top)<br />
 9. [赵丽颖参加中国电视艺术家大会](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%82%E5%8A%A0%E4%B8%AD%E5%9B%BD%E7%94%B5%E8%A7%86%E8%89%BA%E6%9C%AF%E5%AE%B6%E5%A4%A7%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
