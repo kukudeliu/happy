@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 23:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 23:06:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中小学教师从事学科类校外培训将从重处罚](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E4%BB%8E%E4%BA%8B%E5%AD%A6%E7%A7%91%E7%B1%BB%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E5%B0%86%E4%BB%8E%E9%87%8D%E5%A4%84%E7%BD%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [成毅换了微博头像](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%8D%A2%E4%BA%86%E5%BE%AE%E5%8D%9A%E5%A4%B4%E5%83%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [宫尚角隐形眼镜忘摘了](https://s.weibo.com/weibo?q=%23%E5%AE%AB%E5%B0%9A%E8%A7%92%E9%9A%90%E5%BD%A2%E7%9C%BC%E9%95%9C%E5%BF%98%E6%91%98%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈致逸离开米哈游](https://s.weibo.com/weibo?q=%E9%99%88%E8%87%B4%E9%80%B8%E7%A6%BB%E5%BC%80%E7%B1%B3%E5%93%88%E6%B8%B8&t=31&band_rank=9&Refer=top)<br />
+9. [国足主帅称输球是因为运气不好](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%B8%85%E7%A7%B0%E8%BE%93%E7%90%83%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%BF%90%E6%B0%94%E4%B8%8D%E5%A5%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
