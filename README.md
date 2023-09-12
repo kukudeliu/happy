@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 14:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 14:38:02</h4></div>
 
 > 微博  
 
 1. [金价已涨破600元每克](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%B7%B2%E6%B6%A8%E7%A0%B4600%E5%85%83%E6%AF%8F%E5%85%8B%23&t=31&band_rank=1&Refer=top)<br />
-2. [防猝死套餐](https://s.weibo.com/weibo?q=%E9%98%B2%E7%8C%9D%E6%AD%BB%E5%A5%97%E9%A4%90&t=31&band_rank=2&Refer=top)<br />
+2. [华为发布会](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=2&Refer=top)<br />
 3. [来杭州感受体育之美](https://s.weibo.com/weibo?q=%23%E6%9D%A5%E6%9D%AD%E5%B7%9E%E6%84%9F%E5%8F%97%E4%BD%93%E8%82%B2%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [女子买高铁二等座嫌冷大闹要毛毯](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E9%AB%98%E9%93%81%E4%BA%8C%E7%AD%89%E5%BA%A7%E5%AB%8C%E5%86%B7%E5%A4%A7%E9%97%B9%E8%A6%81%E6%AF%9B%E6%AF%AF%23&t=31&band_rank=4&Refer=top)<br />
-5. [华为发布会](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=5&Refer=top)<br />
+5. [防猝死套餐](https://s.weibo.com/weibo?q=%E9%98%B2%E7%8C%9D%E6%AD%BB%E5%A5%97%E9%A4%90&t=31&band_rank=5&Refer=top)<br />
 6. [papi酱 两个人一起浪费时间很重要](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E4%B8%A4%E4%B8%AA%E4%BA%BA%E4%B8%80%E8%B5%B7%E6%B5%AA%E8%B4%B9%E6%97%B6%E9%97%B4%E5%BE%88%E9%87%8D%E8%A6%81&t=31&band_rank=6&Refer=top)<br />
 7. [蜂花回应捡箱子发货](https://s.weibo.com/weibo?q=%23%E8%9C%82%E8%8A%B1%E5%9B%9E%E5%BA%94%E6%8D%A1%E7%AE%B1%E5%AD%90%E5%8F%91%E8%B4%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [华为争气三件套](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%BA%89%E6%B0%94%E4%B8%89%E4%BB%B6%E5%A5%97%23&t=31&band_rank=8&Refer=top)<br />
