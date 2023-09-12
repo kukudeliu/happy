@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 10:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 10:05:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [2023年国家网络安全宣传周](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%AE%A3%E4%BC%A0%E5%91%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [iPhone15取消静音拨片](https://s.weibo.com/weibo?q=%23iPhone15%E5%8F%96%E6%B6%88%E9%9D%99%E9%9F%B3%E6%8B%A8%E7%89%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [被困缅甸的中科院博士发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%9B%B0%E7%BC%85%E7%94%B8%E7%9A%84%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
-6. [金繁喊纪凌尘大海哥](https://s.weibo.com/weibo?q=%23%E9%87%91%E7%B9%81%E5%96%8A%E7%BA%AA%E5%87%8C%E5%B0%98%E5%A4%A7%E6%B5%B7%E5%93%A5%23&t=31&band_rank=6&Refer=top)<br />
-7. [苹果 5G角标](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%205G%E8%A7%92%E6%A0%87&t=31&band_rank=7&Refer=top)<br />
+6. [苹果 5G角标](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%205G%E8%A7%92%E6%A0%87&t=31&band_rank=6&Refer=top)<br />
+7. [金繁喊纪凌尘大海哥](https://s.weibo.com/weibo?q=%23%E9%87%91%E7%B9%81%E5%96%8A%E7%BA%AA%E5%87%8C%E5%B0%98%E5%A4%A7%E6%B5%B7%E5%93%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [上班上久了是会这样的](https://s.weibo.com/weibo?q=%E4%B8%8A%E7%8F%AD%E4%B8%8A%E4%B9%85%E4%BA%86%E6%98%AF%E4%BC%9A%E8%BF%99%E6%A0%B7%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
 9. [北京10号线一列车车载故障](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC10%E5%8F%B7%E7%BA%BF%E4%B8%80%E5%88%97%E8%BD%A6%E8%BD%A6%E8%BD%BD%E6%95%85%E9%9A%9C%23&t=31&band_rank=9&Refer=top)<br />
 
