@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 03:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 03:34:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [惊艳了整个秋天的丰收色](https://s.weibo.com/weibo?q=%23%E6%83%8A%E8%89%B3%E4%BA%86%E6%95%B4%E4%B8%AA%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%B8%B0%E6%94%B6%E8%89%B2%23&t=31&band_rank=3&Refer=top)<br />
 4. [日本反对他国直接取样独立检测](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8D%E5%AF%B9%E4%BB%96%E5%9B%BD%E7%9B%B4%E6%8E%A5%E5%8F%96%E6%A0%B7%E7%8B%AC%E7%AB%8B%E6%A3%80%E6%B5%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [世界首富有多爱客串](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E9%A6%96%E5%AF%8C%E6%9C%89%E5%A4%9A%E7%88%B1%E5%AE%A2%E4%B8%B2%23&t=31&band_rank=5&Refer=top)<br />
-6. [4000万中央资金建3个项目竟全烂尾](https://s.weibo.com/weibo?q=%234000%E4%B8%87%E4%B8%AD%E5%A4%AE%E8%B5%84%E9%87%91%E5%BB%BA3%E4%B8%AA%E9%A1%B9%E7%9B%AE%E7%AB%9F%E5%85%A8%E7%83%82%E5%B0%BE%23&t=31&band_rank=6&Refer=top)<br />
-7. [徐良对张远说我结婚的时候你一定要来](https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%AF%E5%AF%B9%E5%BC%A0%E8%BF%9C%E8%AF%B4%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E6%97%B6%E5%80%99%E4%BD%A0%E4%B8%80%E5%AE%9A%E8%A6%81%E6%9D%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [华晨宇希望中国音乐传播到全世界](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E4%BC%A0%E6%92%AD%E5%88%B0%E5%85%A8%E4%B8%96%E7%95%8C%23&t=31&band_rank=8&Refer=top)<br />
+6. [华晨宇希望中国音乐传播到全世界](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E4%BC%A0%E6%92%AD%E5%88%B0%E5%85%A8%E4%B8%96%E7%95%8C%23&t=31&band_rank=6&Refer=top)<br />
+7. [4000万中央资金建3个项目竟全烂尾](https://s.weibo.com/weibo?q=%234000%E4%B8%87%E4%B8%AD%E5%A4%AE%E8%B5%84%E9%87%91%E5%BB%BA3%E4%B8%AA%E9%A1%B9%E7%9B%AE%E7%AB%9F%E5%85%A8%E7%83%82%E5%B0%BE%23&t=31&band_rank=7&Refer=top)<br />
+8. [徐良对张远说我结婚的时候你一定要来](https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%AF%E5%AF%B9%E5%BC%A0%E8%BF%9C%E8%AF%B4%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E6%97%B6%E5%80%99%E4%BD%A0%E4%B8%80%E5%AE%9A%E8%A6%81%E6%9D%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [12306回应女子买高铁二等座要毛毯](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%B9%B0%E9%AB%98%E9%93%81%E4%BA%8C%E7%AD%89%E5%BA%A7%E8%A6%81%E6%AF%9B%E6%AF%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
