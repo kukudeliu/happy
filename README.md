@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 13:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 13:32:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [社科院女研究生怀孕休学1年后返校](https://www.baidu.com/s?wd=%E7%A4%BE%E7%A7%91%E9%99%A2%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E6%80%80%E5%AD%95%E4%BC%91%E5%AD%A61%E5%B9%B4%E5%90%8E%E8%BF%94%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [新房五天遭粪水淹两次 业主崩溃](https://www.baidu.com/s?wd=%E6%96%B0%E6%88%BF%E4%BA%94%E5%A4%A9%E9%81%AD%E7%B2%AA%E6%B0%B4%E6%B7%B9%E4%B8%A4%E6%AC%A1+%E4%B8%9A%E4%B8%BB%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [月薪3万 他们却选择长期住青旅](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA3%E4%B8%87+%E4%BB%96%E4%BB%AC%E5%8D%B4%E9%80%89%E6%8B%A9%E9%95%BF%E6%9C%9F%E4%BD%8F%E9%9D%92%E6%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [南宁警方回应电摩少年聚众霸凌](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B5%E6%91%A9%E5%B0%91%E5%B9%B4%E8%81%9A%E4%BC%97%E9%9C%B8%E5%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [济南大楼着火？官方辟谣](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E5%A4%A7%E6%A5%BC%E7%9D%80%E7%81%AB%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [社科院女研究生怀孕休学1年后返校](https://www.baidu.com/s?wd=%E7%A4%BE%E7%A7%91%E9%99%A2%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E6%80%80%E5%AD%95%E4%BC%91%E5%AD%A61%E5%B9%B4%E5%90%8E%E8%BF%94%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [新房五天遭粪水淹两次 业主崩溃](https://www.baidu.com/s?wd=%E6%96%B0%E6%88%BF%E4%BA%94%E5%A4%A9%E9%81%AD%E7%B2%AA%E6%B0%B4%E6%B7%B9%E4%B8%A4%E6%AC%A1+%E4%B8%9A%E4%B8%BB%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [月薪3万 他们却选择长期住青旅](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA3%E4%B8%87+%E4%BB%96%E4%BB%AC%E5%8D%B4%E9%80%89%E6%8B%A9%E9%95%BF%E6%9C%9F%E4%BD%8F%E9%9D%92%E6%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [南宁警方回应电摩少年聚众霸凌](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B5%E6%91%A9%E5%B0%91%E5%B9%B4%E8%81%9A%E4%BC%97%E9%9C%B8%E5%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [济南大楼着火？官方辟谣](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E5%A4%A7%E6%A5%BC%E7%9D%80%E7%81%AB%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
