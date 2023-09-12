@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 12:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 12:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [修丽可 邓为](https://s.weibo.com/weibo?q=%E4%BF%AE%E4%B8%BD%E5%8F%AF%20%E9%82%93%E4%B8%BA&t=31&band_rank=5&Refer=top)<br />
 6. [华为争气三件套](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%BA%89%E6%B0%94%E4%B8%89%E4%BB%B6%E5%A5%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [吃螺蛳粉臭到抽烟的大爷戒烟了](https://s.weibo.com/weibo?q=%23%E5%90%83%E8%9E%BA%E8%9B%B3%E7%B2%89%E8%87%AD%E5%88%B0%E6%8A%BD%E7%83%9F%E7%9A%84%E5%A4%A7%E7%88%B7%E6%88%92%E7%83%9F%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [Mate60遭老罪了](https://s.weibo.com/weibo?q=%23Mate60%E9%81%AD%E8%80%81%E7%BD%AA%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [周笔畅签约壹心娱乐](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%AC%94%E7%95%85%E7%AD%BE%E7%BA%A6%E5%A3%B9%E5%BF%83%E5%A8%B1%E4%B9%90%23&t=31&band_rank=9&Refer=top)<br />
+8. [周笔畅签约壹心娱乐](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%AC%94%E7%95%85%E7%AD%BE%E7%BA%A6%E5%A3%B9%E5%BF%83%E5%A8%B1%E4%B9%90%23&t=31&band_rank=8&Refer=top)<br />
+9. [Mate60遭老罪了](https://s.weibo.com/weibo?q=%23Mate60%E9%81%AD%E8%80%81%E7%BD%AA%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
