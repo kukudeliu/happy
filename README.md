@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 13:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 13:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [修丽可 邓为](https://s.weibo.com/weibo?q=%E4%BF%AE%E4%B8%BD%E5%8F%AF%20%E9%82%93%E4%B8%BA&t=31&band_rank=6&Refer=top)<br />
 7. [华为争气三件套](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%BA%89%E6%B0%94%E4%B8%89%E4%BB%B6%E5%A5%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [吃螺蛳粉臭到抽烟的大爷戒烟了](https://s.weibo.com/weibo?q=%23%E5%90%83%E8%9E%BA%E8%9B%B3%E7%B2%89%E8%87%AD%E5%88%B0%E6%8A%BD%E7%83%9F%E7%9A%84%E5%A4%A7%E7%88%B7%E6%88%92%E7%83%9F%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子分手后卖掉黄金将15000元全撒了](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%88%86%E6%89%8B%E5%90%8E%E5%8D%96%E6%8E%89%E9%BB%84%E9%87%91%E5%B0%8615000%E5%85%83%E5%85%A8%E6%92%92%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [蜂花回应捡箱子发货](https://s.weibo.com/weibo?q=%23%E8%9C%82%E8%8A%B1%E5%9B%9E%E5%BA%94%E6%8D%A1%E7%AE%B1%E5%AD%90%E5%8F%91%E8%B4%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
