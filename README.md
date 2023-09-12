@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 13:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 13:56:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [女子买高铁二等座嫌冷大闹要毛毯](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E9%AB%98%E9%93%81%E4%BA%8C%E7%AD%89%E5%BA%A7%E5%AB%8C%E5%86%B7%E5%A4%A7%E9%97%B9%E8%A6%81%E6%AF%9B%E6%AF%AF%23&t=31&band_rank=4&Refer=top)<br />
 5. [薛之谦演唱会退票细则公布](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%80%E7%A5%A8%E7%BB%86%E5%88%99%E5%85%AC%E5%B8%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [SEVENTEEN官宣澳门演唱会](https://s.weibo.com/weibo?q=%23SEVENTEEN%E5%AE%98%E5%AE%A3%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
-7. [警方回应淄博一女子被当街杀害](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%84%E5%8D%9A%E4%B8%80%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%BD%93%E8%A1%97%E6%9D%80%E5%AE%B3%23&t=31&band_rank=7&Refer=top)<br />
-8. [华为争气三件套](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%BA%89%E6%B0%94%E4%B8%89%E4%BB%B6%E5%A5%97%23&t=31&band_rank=8&Refer=top)<br />
+7. [华为争气三件套](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%BA%89%E6%B0%94%E4%B8%89%E4%BB%B6%E5%A5%97%23&t=31&band_rank=7&Refer=top)<br />
+8. [警方回应淄博一女子被当街杀害](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%84%E5%8D%9A%E4%B8%80%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%BD%93%E8%A1%97%E6%9D%80%E5%AE%B3%23&t=31&band_rank=8&Refer=top)<br />
 9. [胡歌 所有表达爱的举动都应该趁早](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%20%E6%89%80%E6%9C%89%E8%A1%A8%E8%BE%BE%E7%88%B1%E7%9A%84%E4%B8%BE%E5%8A%A8%E9%83%BD%E5%BA%94%E8%AF%A5%E8%B6%81%E6%97%A9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
