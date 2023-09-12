@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 00:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 00:22:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [关智斌说是时候利用赵丽颖了](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%BA%E6%96%8C%E8%AF%B4%E6%98%AF%E6%97%B6%E5%80%99%E5%88%A9%E7%94%A8%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [莲花味精上架79元的套餐](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%E4%B8%8A%E6%9E%B679%E5%85%83%E7%9A%84%E5%A5%97%E9%A4%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [成毅换了微博头像](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%8D%A2%E4%BA%86%E5%BE%AE%E5%8D%9A%E5%A4%B4%E5%83%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [国足主帅称输球是因为运气不好](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%B8%85%E7%A7%B0%E8%BE%93%E7%90%83%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%BF%90%E6%B0%94%E4%B8%8D%E5%A5%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [12306回应女子买高铁二等座要毛毯](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%B9%B0%E9%AB%98%E9%93%81%E4%BA%8C%E7%AD%89%E5%BA%A7%E8%A6%81%E6%AF%9B%E6%AF%AF%23&t=31&band_rank=9&Refer=top)<br />
+8. [12306回应女子买高铁二等座要毛毯](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%B9%B0%E9%AB%98%E9%93%81%E4%BA%8C%E7%AD%89%E5%BA%A7%E8%A6%81%E6%AF%9B%E6%AF%AF%23&t=31&band_rank=8&Refer=top)<br />
+9. [国足主帅称输球是因为运气不好](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%B8%85%E7%A7%B0%E8%BE%93%E7%90%83%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%BF%90%E6%B0%94%E4%B8%8D%E5%A5%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
