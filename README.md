@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 20:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 20:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大麦 抢不到](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%BA%A6%20%E6%8A%A2%E4%B8%8D%E5%88%B0&t=31&band_rank=6&Refer=top)<br />
 7. [华为发布会](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
 8. [心动的信号](https://s.weibo.com/weibo?q=%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7&t=31&band_rank=8&Refer=top)<br />
-9. [菲律宾群岛地区6.3级地震](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%BE%A4%E5%B2%9B%E5%9C%B0%E5%8C%BA6.3%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [蜂花小哥直播间一上午人气翻10倍](https://s.weibo.com/weibo?q=%23%E8%9C%82%E8%8A%B1%E5%B0%8F%E5%93%A5%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B8%80%E4%B8%8A%E5%8D%88%E4%BA%BA%E6%B0%94%E7%BF%BB10%E5%80%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
