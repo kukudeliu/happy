@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 17:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 17:12:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [双胞胎退役全家60多人接站](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E9%80%80%E5%BD%B9%E5%85%A8%E5%AE%B660%E5%A4%9A%E4%BA%BA%E6%8E%A5%E7%AB%99%23&t=31&band_rank=4&Refer=top)<br />
 5. [男子抓柯尔鸭当肉鸭吃赔了8千元](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%93%E6%9F%AF%E5%B0%94%E9%B8%AD%E5%BD%93%E8%82%89%E9%B8%AD%E5%90%83%E8%B5%94%E4%BA%868%E5%8D%83%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [金价已涨破600元每克](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%B7%B2%E6%B6%A8%E7%A0%B4600%E5%85%83%E6%AF%8F%E5%85%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [猴 狐猴](https://s.weibo.com/weibo?q=%E7%8C%B4%20%E7%8B%90%E7%8C%B4&t=31&band_rank=7&Refer=top)<br />
-8. [周冬雨以为扫楼要打扫卫生](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E4%BB%A5%E4%B8%BA%E6%89%AB%E6%A5%BC%E8%A6%81%E6%89%93%E6%89%AB%E5%8D%AB%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
+7. [周冬雨以为扫楼要打扫卫生](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E4%BB%A5%E4%B8%BA%E6%89%AB%E6%A5%BC%E8%A6%81%E6%89%93%E6%89%AB%E5%8D%AB%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
+8. [猴 狐猴](https://s.weibo.com/weibo?q=%E7%8C%B4%20%E7%8B%90%E7%8C%B4&t=31&band_rank=8&Refer=top)<br />
 9. [遥遥领先](https://s.weibo.com/weibo?q=%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
