@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 17:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 17:22:02</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [亚运圣火照耀璀璨人文](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E5%9C%A3%E7%81%AB%E7%85%A7%E8%80%80%E7%92%80%E7%92%A8%E4%BA%BA%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [俄称未来或对中国公民全面免签](https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%B0%E6%9C%AA%E6%9D%A5%E6%88%96%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%85%A8%E9%9D%A2%E5%85%8D%E7%AD%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [120万买的商铺出租后被改成公厕](https://www.baidu.com/s?wd=120%E4%B8%87%E4%B9%B0%E7%9A%84%E5%95%86%E9%93%BA%E5%87%BA%E7%A7%9F%E5%90%8E%E8%A2%AB%E6%94%B9%E6%88%90%E5%85%AC%E5%8E%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小时候没空调为什么不觉得热](https://www.baidu.com/s?wd=%E5%B0%8F%E6%97%B6%E5%80%99%E6%B2%A1%E7%A9%BA%E8%B0%83%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%A7%89%E5%BE%97%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [双胞胎退役全家60多人接站](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E9%80%80%E5%BD%B9%E5%85%A8%E5%AE%B660%E5%A4%9A%E4%BA%BA%E6%8E%A5%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [百度美好家居节](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E7%BE%8E%E5%A5%BD%E5%AE%B6%E5%B1%85%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [济南大楼着火？官方辟谣](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E5%A4%A7%E6%A5%BC%E7%9D%80%E7%81%AB%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [亚运圣火照耀璀璨人文](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E5%9C%A3%E7%81%AB%E7%85%A7%E8%80%80%E7%92%80%E7%92%A8%E4%BA%BA%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [俄称未来或对中国公民全面免签](https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%B0%E6%9C%AA%E6%9D%A5%E6%88%96%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%85%A8%E9%9D%A2%E5%85%8D%E7%AD%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [120万买的商铺出租后被改成公厕](https://www.baidu.com/s?wd=120%E4%B8%87%E4%B9%B0%E7%9A%84%E5%95%86%E9%93%BA%E5%87%BA%E7%A7%9F%E5%90%8E%E8%A2%AB%E6%94%B9%E6%88%90%E5%85%AC%E5%8E%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小时候没空调为什么不觉得热](https://www.baidu.com/s?wd=%E5%B0%8F%E6%97%B6%E5%80%99%E6%B2%A1%E7%A9%BA%E8%B0%83%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%A7%89%E5%BE%97%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [双胞胎退役全家60多人接站](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E9%80%80%E5%BD%B9%E5%85%A8%E5%AE%B660%E5%A4%9A%E4%BA%BA%E6%8E%A5%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [百度美好家居节](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E7%BE%8E%E5%A5%BD%E5%AE%B6%E5%B1%85%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [济南大楼着火？官方辟谣](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E5%A4%A7%E6%A5%BC%E7%9D%80%E7%81%AB%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
