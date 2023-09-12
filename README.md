@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 20:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 20:26:01</h4></div>
 
 > 微博  
 
 1. [分手谈出了离职的感觉](https://s.weibo.com/weibo?q=%23%E5%88%86%E6%89%8B%E8%B0%88%E5%87%BA%E4%BA%86%E7%A6%BB%E8%81%8C%E7%9A%84%E6%84%9F%E8%A7%89%23&t=31&band_rank=1&Refer=top)<br />
-2. [大麦 抢不到](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%BA%A6%20%E6%8A%A2%E4%B8%8D%E5%88%B0&t=31&band_rank=2&Refer=top)<br />
+2. [12306回应女子买高铁二等座要毛毯](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%B9%B0%E9%AB%98%E9%93%81%E4%BA%8C%E7%AD%89%E5%BA%A7%E8%A6%81%E6%AF%9B%E6%AF%AF%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国大江大河保护与治理成效显著](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%A4%A7%E6%B1%9F%E5%A4%A7%E6%B2%B3%E4%BF%9D%E6%8A%A4%E4%B8%8E%E6%B2%BB%E7%90%86%E6%88%90%E6%95%88%E6%98%BE%E8%91%97%23&t=31&band_rank=3&Refer=top)<br />
-4. [12306回应女子买高铁二等座要毛毯](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%B9%B0%E9%AB%98%E9%93%81%E4%BA%8C%E7%AD%89%E5%BA%A7%E8%A6%81%E6%AF%9B%E6%AF%AF%23&t=31&band_rank=4&Refer=top)<br />
+4. [大麦 抢不到](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%BA%A6%20%E6%8A%A2%E4%B8%8D%E5%88%B0&t=31&band_rank=4&Refer=top)<br />
 5. [莲花楼演唱会官宣](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%23&t=31&band_rank=5&Refer=top)<br />
-6. [华为发布会](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
-7. [心动的信号](https://s.weibo.com/weibo?q=%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7&t=31&band_rank=7&Refer=top)<br />
-8. [菲律宾群岛地区6.3级地震](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%BE%A4%E5%B2%9B%E5%9C%B0%E5%8C%BA6.3%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [厦门震感](https://s.weibo.com/weibo?q=%E5%8E%A6%E9%97%A8%E9%9C%87%E6%84%9F&t=31&band_rank=9&Refer=top)<br />
+6. [取消台胞在闽暂住登记](https://s.weibo.com/weibo?q=%23%E5%8F%96%E6%B6%88%E5%8F%B0%E8%83%9E%E5%9C%A8%E9%97%BD%E6%9A%82%E4%BD%8F%E7%99%BB%E8%AE%B0%23&t=31&band_rank=6&Refer=top)<br />
+7. [华为发布会](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
+8. [心动的信号](https://s.weibo.com/weibo?q=%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7&t=31&band_rank=8&Refer=top)<br />
+9. [菲律宾群岛地区6.3级地震](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%BE%A4%E5%B2%9B%E5%9C%B0%E5%8C%BA6.3%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
