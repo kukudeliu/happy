@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 00:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 00:29:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [关智斌说是时候利用赵丽颖了](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%BA%E6%96%8C%E8%AF%B4%E6%98%AF%E6%97%B6%E5%80%99%E5%88%A9%E7%94%A8%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [云之羽 虞书欣演技分析](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%20%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%BC%94%E6%8A%80%E5%88%86%E6%9E%90&t=31&band_rank=6&Refer=top)<br />
 7. [12306回应女子买高铁二等座要毛毯](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%B9%B0%E9%AB%98%E9%93%81%E4%BA%8C%E7%AD%89%E5%BA%A7%E8%A6%81%E6%AF%9B%E6%AF%AF%23&t=31&band_rank=7&Refer=top)<br />
-8. [莲花味精上架79元的套餐](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%E4%B8%8A%E6%9E%B679%E5%85%83%E7%9A%84%E5%A5%97%E9%A4%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [成毅换了微博头像](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%8D%A2%E4%BA%86%E5%BE%AE%E5%8D%9A%E5%A4%B4%E5%83%8F%23&t=31&band_rank=9&Refer=top)<br />
+8. [成毅换了微博头像](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%8D%A2%E4%BA%86%E5%BE%AE%E5%8D%9A%E5%A4%B4%E5%83%8F%23&t=31&band_rank=8&Refer=top)<br />
+9. [莲花味精上架79元的套餐](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%E4%B8%8A%E6%9E%B679%E5%85%83%E7%9A%84%E5%A5%97%E9%A4%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
