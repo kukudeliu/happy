@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 12:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 12:12:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 > 百度  
 
 1. [看习近平总书记的大局谋划](https://www.baidu.com/s?wd=%E7%9C%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E5%A4%A7%E5%B1%80%E8%B0%8B%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [淄博又出大招 房子可以“以旧换新”](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%8F%88%E5%87%BA%E5%A4%A7%E6%8B%9B+%E6%88%BF%E5%AD%90%E5%8F%AF%E4%BB%A5%E2%80%9C%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [黄金卖爆了 已涨破600元每克](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%8D%96%E7%88%86%E4%BA%86+%E5%B7%B2%E6%B6%A8%E7%A0%B4600%E5%85%83%E6%AF%8F%E5%85%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [黄金卖爆了 已涨破600元每克](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%8D%96%E7%88%86%E4%BA%86+%E5%B7%B2%E6%B6%A8%E7%A0%B4600%E5%85%83%E6%AF%8F%E5%85%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [淄博又出大招 房子可以“以旧换新”](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%8F%88%E5%87%BA%E5%A4%A7%E6%8B%9B+%E6%88%BF%E5%AD%90%E5%8F%AF%E4%BB%A5%E2%80%9C%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一图了解网络安全法](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E4%BA%86%E8%A7%A3%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子分手后将15000元撒向天空](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%86%E6%89%8B%E5%90%8E%E5%B0%8615000%E5%85%83%E6%92%92%E5%90%91%E5%A4%A9%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女孩因外貌质疑自己妈妈拥吻回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9B%A0%E5%A4%96%E8%B2%8C%E8%B4%A8%E7%96%91%E8%87%AA%E5%B7%B1%E5%A6%88%E5%A6%88%E6%8B%A5%E5%90%BB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,8 +30,8 @@
 > 哔哩哔哩  
 
 1. [看习近平总书记的大局谋划](https://www.baidu.com/s?wd=%E7%9C%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E5%A4%A7%E5%B1%80%E8%B0%8B%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [淄博又出大招 房子可以“以旧换新”](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%8F%88%E5%87%BA%E5%A4%A7%E6%8B%9B+%E6%88%BF%E5%AD%90%E5%8F%AF%E4%BB%A5%E2%80%9C%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [黄金卖爆了 已涨破600元每克](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%8D%96%E7%88%86%E4%BA%86+%E5%B7%B2%E6%B6%A8%E7%A0%B4600%E5%85%83%E6%AF%8F%E5%85%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [黄金卖爆了 已涨破600元每克](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%8D%96%E7%88%86%E4%BA%86+%E5%B7%B2%E6%B6%A8%E7%A0%B4600%E5%85%83%E6%AF%8F%E5%85%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [淄博又出大招 房子可以“以旧换新”](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%8F%88%E5%87%BA%E5%A4%A7%E6%8B%9B+%E6%88%BF%E5%AD%90%E5%8F%AF%E4%BB%A5%E2%80%9C%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一图了解网络安全法](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E4%BA%86%E8%A7%A3%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子分手后将15000元撒向天空](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%86%E6%89%8B%E5%90%8E%E5%B0%8615000%E5%85%83%E6%92%92%E5%90%91%E5%A4%A9%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女孩因外貌质疑自己妈妈拥吻回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9B%A0%E5%A4%96%E8%B2%8C%E8%B4%A8%E7%96%91%E8%87%AA%E5%B7%B1%E5%A6%88%E5%A6%88%E6%8B%A5%E5%90%BB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
