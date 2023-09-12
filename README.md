@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 06:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 06:43:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [癌症患者乘飞机被拒 成都航空回应](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E4%B9%98%E9%A3%9E%E6%9C%BA%E8%A2%AB%E6%8B%92+%E6%88%90%E9%83%BD%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中央：取消台胞在福建暂住登记](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%EF%BC%9A%E5%8F%96%E6%B6%88%E5%8F%B0%E8%83%9E%E5%9C%A8%E7%A6%8F%E5%BB%BA%E6%9A%82%E4%BD%8F%E7%99%BB%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [央媒发声：李佳琦们别再飘了](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E5%8F%91%E5%A3%B0%EF%BC%9A%E6%9D%8E%E4%BD%B3%E7%90%A6%E4%BB%AC%E5%88%AB%E5%86%8D%E9%A3%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [淄博一女子被当街杀害 警方回应](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E4%B8%80%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%BD%93%E8%A1%97%E6%9D%80%E5%AE%B3+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小时候没空调为什么不觉得热](https://www.baidu.com/s?wd=%E5%B0%8F%E6%97%B6%E5%80%99%E6%B2%A1%E7%A9%BA%E8%B0%83%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%A7%89%E5%BE%97%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州某大学男生持刀互殴系谣传](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%9F%90%E5%A4%A7%E5%AD%A6%E7%94%B7%E7%94%9F%E6%8C%81%E5%88%80%E4%BA%92%E6%AE%B4%E7%B3%BB%E8%B0%A3%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [癌症患者乘飞机被拒 成都航空回应](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E4%B9%98%E9%A3%9E%E6%9C%BA%E8%A2%AB%E6%8B%92+%E6%88%90%E9%83%BD%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中央：取消台胞在福建暂住登记](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%EF%BC%9A%E5%8F%96%E6%B6%88%E5%8F%B0%E8%83%9E%E5%9C%A8%E7%A6%8F%E5%BB%BA%E6%9A%82%E4%BD%8F%E7%99%BB%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [央媒发声：李佳琦们别再飘了](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E5%8F%91%E5%A3%B0%EF%BC%9A%E6%9D%8E%E4%BD%B3%E7%90%A6%E4%BB%AC%E5%88%AB%E5%86%8D%E9%A3%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [淄博一女子被当街杀害 警方回应](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E4%B8%80%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%BD%93%E8%A1%97%E6%9D%80%E5%AE%B3+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小时候没空调为什么不觉得热](https://www.baidu.com/s?wd=%E5%B0%8F%E6%97%B6%E5%80%99%E6%B2%A1%E7%A9%BA%E8%B0%83%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%A7%89%E5%BE%97%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州某大学男生持刀互殴系谣传](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%9F%90%E5%A4%A7%E5%AD%A6%E7%94%B7%E7%94%9F%E6%8C%81%E5%88%80%E4%BA%92%E6%AE%B4%E7%B3%BB%E8%B0%A3%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
