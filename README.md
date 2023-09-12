@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 12:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 12:55:01</h4></div>
 
 > 微博  
 
-1. [肖战被导演灌醉了](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%A2%AB%E5%AF%BC%E6%BC%94%E7%81%8C%E9%86%89%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [薛之谦演唱会退票细则公布](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%80%E7%A5%A8%E7%BB%86%E5%88%99%E5%85%AC%E5%B8%83%23&t=31&band_rank=2&Refer=top)<br />
+1. [薛之谦演唱会退票细则公布](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%80%E7%A5%A8%E7%BB%86%E5%88%99%E5%85%AC%E5%B8%83%23&t=31&band_rank=1&Refer=top)<br />
+2. [肖战被导演灌醉了](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%A2%AB%E5%AF%BC%E6%BC%94%E7%81%8C%E9%86%89%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [来杭州感受体育之美](https://s.weibo.com/weibo?q=%23%E6%9D%A5%E6%9D%AD%E5%B7%9E%E6%84%9F%E5%8F%97%E4%BD%93%E8%82%B2%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [蜂花 商战](https://s.weibo.com/weibo?q=%E8%9C%82%E8%8A%B1%20%E5%95%86%E6%88%98&t=31&band_rank=4&Refer=top)<br />
 5. [警方回应淄博一女子被当街杀害](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%84%E5%8D%9A%E4%B8%80%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%BD%93%E8%A1%97%E6%9D%80%E5%AE%B3%23&t=31&band_rank=5&Refer=top)<br />
