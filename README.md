@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 14:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 14:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [papi酱 两个人一起浪费时间很重要](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E4%B8%A4%E4%B8%AA%E4%BA%BA%E4%B8%80%E8%B5%B7%E6%B5%AA%E8%B4%B9%E6%97%B6%E9%97%B4%E5%BE%88%E9%87%8D%E8%A6%81&t=31&band_rank=6&Refer=top)<br />
 7. [华为争气三件套](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%BA%89%E6%B0%94%E4%B8%89%E4%BB%B6%E5%A5%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [薛之谦演唱会退票细则公布](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%80%E7%A5%A8%E7%BB%86%E5%88%99%E5%85%AC%E5%B8%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [警方回应淄博一女子被当街杀害](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%84%E5%8D%9A%E4%B8%80%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%BD%93%E8%A1%97%E6%9D%80%E5%AE%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [SMTOWN艺人正式入驻WEVERSE](https://s.weibo.com/weibo?q=%23SMTOWN%E8%89%BA%E4%BA%BA%E6%AD%A3%E5%BC%8F%E5%85%A5%E9%A9%BBWEVERSE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,7 +23,7 @@
 4. [亚运圣火照耀璀璨人文](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E5%9C%A3%E7%81%AB%E7%85%A7%E8%80%80%E7%92%80%E7%92%A8%E4%BA%BA%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [社科院女研究生怀孕休学1年后返校](https://www.baidu.com/s?wd=%E7%A4%BE%E7%A7%91%E9%99%A2%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E6%80%80%E5%AD%95%E4%BC%91%E5%AD%A61%E5%B9%B4%E5%90%8E%E8%BF%94%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [新房五天遭粪水淹两次 业主崩溃](https://www.baidu.com/s?wd=%E6%96%B0%E6%88%BF%E4%BA%94%E5%A4%A9%E9%81%AD%E7%B2%AA%E6%B0%B4%E6%B7%B9%E4%B8%A4%E6%AC%A1+%E4%B8%9A%E4%B8%BB%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [俄罗斯数十亿卢比资产滞留印度](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%95%B0%E5%8D%81%E4%BA%BF%E5%8D%A2%E6%AF%94%E8%B5%84%E4%BA%A7%E6%BB%9E%E7%95%99%E5%8D%B0%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [马斯克回应被指叛国](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%8F%9B%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [武磊回应球迷嘘声](https://www.baidu.com/s?wd=%E6%AD%A6%E7%A3%8A%E5%9B%9E%E5%BA%94%E7%90%83%E8%BF%B7%E5%98%98%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [济南大楼着火？官方辟谣](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E5%A4%A7%E6%A5%BC%E7%9D%80%E7%81%AB%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [亚运圣火照耀璀璨人文](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E5%9C%A3%E7%81%AB%E7%85%A7%E8%80%80%E7%92%80%E7%92%A8%E4%BA%BA%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [社科院女研究生怀孕休学1年后返校](https://www.baidu.com/s?wd=%E7%A4%BE%E7%A7%91%E9%99%A2%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E6%80%80%E5%AD%95%E4%BC%91%E5%AD%A61%E5%B9%B4%E5%90%8E%E8%BF%94%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [新房五天遭粪水淹两次 业主崩溃](https://www.baidu.com/s?wd=%E6%96%B0%E6%88%BF%E4%BA%94%E5%A4%A9%E9%81%AD%E7%B2%AA%E6%B0%B4%E6%B7%B9%E4%B8%A4%E6%AC%A1+%E4%B8%9A%E4%B8%BB%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [俄罗斯数十亿卢比资产滞留印度](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%95%B0%E5%8D%81%E4%BA%BF%E5%8D%A2%E6%AF%94%E8%B5%84%E4%BA%A7%E6%BB%9E%E7%95%99%E5%8D%B0%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [马斯克回应被指叛国](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%8F%9B%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [武磊回应球迷嘘声](https://www.baidu.com/s?wd=%E6%AD%A6%E7%A3%8A%E5%9B%9E%E5%BA%94%E7%90%83%E8%BF%B7%E5%98%98%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [济南大楼着火？官方辟谣](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E5%A4%A7%E6%A5%BC%E7%9D%80%E7%81%AB%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
