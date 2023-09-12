@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 07:00:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 07:01:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [华为发布会](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=2&Refer=top)<br />
 3. [惊艳了整个秋天的丰收色](https://s.weibo.com/weibo?q=%23%E6%83%8A%E8%89%B3%E4%BA%86%E6%95%B4%E4%B8%AA%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%B8%B0%E6%94%B6%E8%89%B2%23&t=31&band_rank=3&Refer=top)<br />
 4. [郑州全面取消限购](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E9%99%90%E8%B4%AD%23&t=31&band_rank=4&Refer=top)<br />
-5. [教育部颁布校外培训行政处罚暂行办法](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E9%A2%81%E5%B8%83%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E6%9A%82%E8%A1%8C%E5%8A%9E%E6%B3%95%23&t=31&band_rank=5&Refer=top)<br />
+5. [中小学教师从事学科类校外培训将从重处罚](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E4%BB%8E%E4%BA%8B%E5%AD%A6%E7%A7%91%E7%B1%BB%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E5%B0%86%E4%BB%8E%E9%87%8D%E5%A4%84%E7%BD%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [世界首富有多爱客串](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E9%A6%96%E5%AF%8C%E6%9C%89%E5%A4%9A%E7%88%B1%E5%AE%A2%E4%B8%B2%23&t=31&band_rank=6&Refer=top)<br />
-7. [中小学教师从事学科类校外培训将从重处罚](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E4%BB%8E%E4%BA%8B%E5%AD%A6%E7%A7%91%E7%B1%BB%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E5%B0%86%E4%BB%8E%E9%87%8D%E5%A4%84%E7%BD%9A%23&t=31&band_rank=7&Refer=top)<br />
+7. [教育部颁布校外培训行政处罚暂行办法](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E9%A2%81%E5%B8%83%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E6%9A%82%E8%A1%8C%E5%8A%9E%E6%B3%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [4000万中央资金建3个项目竟全烂尾](https://s.weibo.com/weibo?q=%234000%E4%B8%87%E4%B8%AD%E5%A4%AE%E8%B5%84%E9%87%91%E5%BB%BA3%E4%B8%AA%E9%A1%B9%E7%9B%AE%E7%AB%9F%E5%85%A8%E7%83%82%E5%B0%BE%23&t=31&band_rank=8&Refer=top)<br />
 9. [徐良对张远说我结婚的时候你一定要来](https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%AF%E5%AF%B9%E5%BC%A0%E8%BF%9C%E8%AF%B4%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E6%97%B6%E5%80%99%E4%BD%A0%E4%B8%80%E5%AE%9A%E8%A6%81%E6%9D%A5%23&t=31&band_rank=9&Refer=top)<br />
 
