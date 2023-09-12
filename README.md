@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 18:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 18:01:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男子从近8米高河堤跳下勇救落水女童](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BB%8E%E8%BF%918%E7%B1%B3%E9%AB%98%E6%B2%B3%E5%A0%A4%E8%B7%B3%E4%B8%8B%E5%8B%87%E6%95%91%E8%90%BD%E6%B0%B4%E5%A5%B3%E7%AB%A5%23&t=31&band_rank=5&Refer=top)<br />
 6. [成毅怎么老演这种快死的角色](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%80%8E%E4%B9%88%E8%80%81%E6%BC%94%E8%BF%99%E7%A7%8D%E5%BF%AB%E6%AD%BB%E7%9A%84%E8%A7%92%E8%89%B2%23&t=31&band_rank=6&Refer=top)<br />
 7. [他不是在下乡就是在下乡的路上](https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%B8%8D%E6%98%AF%E5%9C%A8%E4%B8%8B%E4%B9%A1%E5%B0%B1%E6%98%AF%E5%9C%A8%E4%B8%8B%E4%B9%A1%E7%9A%84%E8%B7%AF%E4%B8%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [花西子同款眉笔成本价不超10元](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%90%8C%E6%AC%BE%E7%9C%89%E7%AC%94%E6%88%90%E6%9C%AC%E4%BB%B7%E4%B8%8D%E8%B6%8510%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国人寿原董事长王滨死缓](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AF%BF%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E7%8E%8B%E6%BB%A8%E6%AD%BB%E7%BC%93%23&t=31&band_rank=9&Refer=top)<br />
+8. [中国人寿原董事长王滨死缓](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AF%BF%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E7%8E%8B%E6%BB%A8%E6%AD%BB%E7%BC%93%23&t=31&band_rank=8&Refer=top)<br />
+9. [花西子同款眉笔成本价不超10元](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%90%8C%E6%AC%BE%E7%9C%89%E7%AC%94%E6%88%90%E6%9C%AC%E4%BB%B7%E4%B8%8D%E8%B6%8510%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
