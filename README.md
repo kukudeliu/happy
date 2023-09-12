@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 18:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 18:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [成毅怎么老演这种快死的角色](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%80%8E%E4%B9%88%E8%80%81%E6%BC%94%E8%BF%99%E7%A7%8D%E5%BF%AB%E6%AD%BB%E7%9A%84%E8%A7%92%E8%89%B2%23&t=31&band_rank=6&Refer=top)<br />
 7. [他不是在下乡就是在下乡的路上](https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%B8%8D%E6%98%AF%E5%9C%A8%E4%B8%8B%E4%B9%A1%E5%B0%B1%E6%98%AF%E5%9C%A8%E4%B8%8B%E4%B9%A1%E7%9A%84%E8%B7%AF%E4%B8%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国人寿原董事长王滨死缓](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AF%BF%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E7%8E%8B%E6%BB%A8%E6%AD%BB%E7%BC%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [花西子同款眉笔成本价不超10元](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%90%8C%E6%AC%BE%E7%9C%89%E7%AC%94%E6%88%90%E6%9C%AC%E4%BB%B7%E4%B8%8D%E8%B6%8510%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子抓柯尔鸭当肉鸭吃赔了8千元](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%93%E6%9F%AF%E5%B0%94%E9%B8%AD%E5%BD%93%E8%82%89%E9%B8%AD%E5%90%83%E8%B5%94%E4%BA%868%E5%8D%83%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
