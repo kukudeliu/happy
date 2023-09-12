@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 20:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 20:58:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [取消台胞在闽暂住登记](https://s.weibo.com/weibo?q=%23%E5%8F%96%E6%B6%88%E5%8F%B0%E8%83%9E%E5%9C%A8%E9%97%BD%E6%9A%82%E4%BD%8F%E7%99%BB%E8%AE%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [莲花楼演唱会官宣](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [华为发布会](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
-7. [大麦 抢不到](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%BA%A6%20%E6%8A%A2%E4%B8%8D%E5%88%B0&t=31&band_rank=7&Refer=top)<br />
-8. [蜂花小哥直播间一上午人气翻10倍](https://s.weibo.com/weibo?q=%23%E8%9C%82%E8%8A%B1%E5%B0%8F%E5%93%A5%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B8%80%E4%B8%8A%E5%8D%88%E4%BA%BA%E6%B0%94%E7%BF%BB10%E5%80%8D%23&t=31&band_rank=8&Refer=top)<br />
+7. [蜂花小哥直播间一上午人气翻10倍](https://s.weibo.com/weibo?q=%23%E8%9C%82%E8%8A%B1%E5%B0%8F%E5%93%A5%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B8%80%E4%B8%8A%E5%8D%88%E4%BA%BA%E6%B0%94%E7%BF%BB10%E5%80%8D%23&t=31&band_rank=7&Refer=top)<br />
+8. [大麦 抢不到](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%BA%A6%20%E6%8A%A2%E4%B8%8D%E5%88%B0&t=31&band_rank=8&Refer=top)<br />
 9. [心动的信号](https://s.weibo.com/weibo?q=%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
