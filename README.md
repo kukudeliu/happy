@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 05:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 05:07:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [世界首富有多爱客串](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E9%A6%96%E5%AF%8C%E6%9C%89%E5%A4%9A%E7%88%B1%E5%AE%A2%E4%B8%B2%23&t=31&band_rank=6&Refer=top)<br />
 7. [12306回应女子买高铁二等座要毛毯](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%B9%B0%E9%AB%98%E9%93%81%E4%BA%8C%E7%AD%89%E5%BA%A7%E8%A6%81%E6%AF%9B%E6%AF%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [取消台胞在闽暂住登记](https://s.weibo.com/weibo?q=%23%E5%8F%96%E6%B6%88%E5%8F%B0%E8%83%9E%E5%9C%A8%E9%97%BD%E6%9A%82%E4%BD%8F%E7%99%BB%E8%AE%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [关智斌说是时候利用赵丽颖了](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%BA%E6%96%8C%E8%AF%B4%E6%98%AF%E6%97%B6%E5%80%99%E5%88%A9%E7%94%A8%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [日本反对他国直接取样独立检测](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8D%E5%AF%B9%E4%BB%96%E5%9B%BD%E7%9B%B4%E6%8E%A5%E5%8F%96%E6%A0%B7%E7%8B%AC%E7%AB%8B%E6%A3%80%E6%B5%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
