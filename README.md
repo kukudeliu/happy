@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 11:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 11:38:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [蜂花 商战](https://s.weibo.com/weibo?q=%E8%9C%82%E8%8A%B1%20%E5%95%86%E6%88%98&t=31&band_rank=2&Refer=top)<br />
 3. [2023年国家网络安全宣传周](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%AE%A3%E4%BC%A0%E5%91%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [修丽可 邓为](https://s.weibo.com/weibo?q=%E4%BF%AE%E4%B8%BD%E5%8F%AF%20%E9%82%93%E4%B8%BA&t=31&band_rank=4&Refer=top)<br />
-5. [Mate60遭老罪了](https://s.weibo.com/weibo?q=%23Mate60%E9%81%AD%E8%80%81%E7%BD%AA%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [周笔畅签约壹心娱乐](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%AC%94%E7%95%85%E7%AD%BE%E7%BA%A6%E5%A3%B9%E5%BF%83%E5%A8%B1%E4%B9%90%23&t=31&band_rank=6&Refer=top)<br />
+5. [周笔畅签约壹心娱乐](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%AC%94%E7%95%85%E7%AD%BE%E7%BA%A6%E5%A3%B9%E5%BF%83%E5%A8%B1%E4%B9%90%23&t=31&band_rank=5&Refer=top)<br />
+6. [Mate60遭老罪了](https://s.weibo.com/weibo?q=%23Mate60%E9%81%AD%E8%80%81%E7%BD%AA%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [动漫都被还原成这样了吗](https://s.weibo.com/weibo?q=%23%E5%8A%A8%E6%BC%AB%E9%83%BD%E8%A2%AB%E8%BF%98%E5%8E%9F%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [吃螺蛳粉臭到抽烟的大爷戒烟了](https://s.weibo.com/weibo?q=%23%E5%90%83%E8%9E%BA%E8%9B%B3%E7%B2%89%E8%87%AD%E5%88%B0%E6%8A%BD%E7%83%9F%E7%9A%84%E5%A4%A7%E7%88%B7%E6%88%92%E7%83%9F%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [金繁喊纪凌尘大海哥](https://s.weibo.com/weibo?q=%23%E9%87%91%E7%B9%81%E5%96%8A%E7%BA%AA%E5%87%8C%E5%B0%98%E5%A4%A7%E6%B5%B7%E5%93%A5%23&t=31&band_rank=9&Refer=top)<br />
