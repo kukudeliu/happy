@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 19:26:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 19:27:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [双胞胎退役全家60多人接站](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E9%80%80%E5%BD%B9%E5%85%A8%E5%AE%B660%E5%A4%9A%E4%BA%BA%E6%8E%A5%E7%AB%99%23&t=31&band_rank=5&Refer=top)<br />
 6. [周杰伦上海演唱会抢票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8&t=31&band_rank=6&Refer=top)<br />
 7. [老人生病后村里人拎牛奶鸡蛋看望](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%94%9F%E7%97%85%E5%90%8E%E6%9D%91%E9%87%8C%E4%BA%BA%E6%8B%8E%E7%89%9B%E5%A5%B6%E9%B8%A1%E8%9B%8B%E7%9C%8B%E6%9C%9B%23&t=31&band_rank=7&Refer=top)<br />
-8. [华晨宇王牌对王牌cos相柳](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8Ccos%E7%9B%B8%E6%9F%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [厦门震感](https://s.weibo.com/weibo?q=%E5%8E%A6%E9%97%A8%E9%9C%87%E6%84%9F&t=31&band_rank=9&Refer=top)<br />
+8. [厦门震感](https://s.weibo.com/weibo?q=%E5%8E%A6%E9%97%A8%E9%9C%87%E6%84%9F&t=31&band_rank=8&Refer=top)<br />
+9. [华晨宇王牌对王牌cos相柳](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8Ccos%E7%9B%B8%E6%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
