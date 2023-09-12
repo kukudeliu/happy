@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 12:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 12:35:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [2023年国家网络安全宣传周](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%AE%A3%E4%BC%A0%E5%91%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [蜂花 商战](https://s.weibo.com/weibo?q=%E8%9C%82%E8%8A%B1%20%E5%95%86%E6%88%98&t=31&band_rank=4&Refer=top)<br />
 5. [肖战被导演灌醉了](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%A2%AB%E5%AF%BC%E6%BC%94%E7%81%8C%E9%86%89%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [男子分手后卖掉黄金将15000元全撒了](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%88%86%E6%89%8B%E5%90%8E%E5%8D%96%E6%8E%89%E9%BB%84%E9%87%91%E5%B0%8615000%E5%85%83%E5%85%A8%E6%92%92%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+6. [华为争气三件套](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%BA%89%E6%B0%94%E4%B8%89%E4%BB%B6%E5%A5%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [蜂花捡箱子](https://s.weibo.com/weibo?q=%E8%9C%82%E8%8A%B1%E6%8D%A1%E7%AE%B1%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
-8. [华为争气三件套](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%BA%89%E6%B0%94%E4%B8%89%E4%BB%B6%E5%A5%97%23&t=31&band_rank=8&Refer=top)<br />
+8. [男子分手后卖掉黄金将15000元全撒了](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%88%86%E6%89%8B%E5%90%8E%E5%8D%96%E6%8E%89%E9%BB%84%E9%87%91%E5%B0%8615000%E5%85%83%E5%85%A8%E6%92%92%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [修丽可 邓为](https://s.weibo.com/weibo?q=%E4%BF%AE%E4%B8%BD%E5%8F%AF%20%E9%82%93%E4%B8%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
