@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 11:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 11:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Mate60遭老罪了](https://s.weibo.com/weibo?q=%23Mate60%E9%81%AD%E8%80%81%E7%BD%AA%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [动漫都被还原成这样了吗](https://s.weibo.com/weibo?q=%23%E5%8A%A8%E6%BC%AB%E9%83%BD%E8%A2%AB%E8%BF%98%E5%8E%9F%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [吃螺蛳粉臭到抽烟的大爷戒烟了](https://s.weibo.com/weibo?q=%23%E5%90%83%E8%9E%BA%E8%9B%B3%E7%B2%89%E8%87%AD%E5%88%B0%E6%8A%BD%E7%83%9F%E7%9A%84%E5%A4%A7%E7%88%B7%E6%88%92%E7%83%9F%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [金繁喊纪凌尘大海哥](https://s.weibo.com/weibo?q=%23%E9%87%91%E7%B9%81%E5%96%8A%E7%BA%AA%E5%87%8C%E5%B0%98%E5%A4%A7%E6%B5%B7%E5%93%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [女子称上班3天半被辞讨要工资反被怼](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B8%8A%E7%8F%AD3%E5%A4%A9%E5%8D%8A%E8%A2%AB%E8%BE%9E%E8%AE%A8%E8%A6%81%E5%B7%A5%E8%B5%84%E5%8F%8D%E8%A2%AB%E6%80%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
