@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 04:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 04:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [癌症患者乘飞机被拒 成都航空回应](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E4%B9%98%E9%A3%9E%E6%9C%BA%E8%A2%AB%E6%8B%92+%E6%88%90%E9%83%BD%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中央：取消台胞在福建暂住登记](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%EF%BC%9A%E5%8F%96%E6%B6%88%E5%8F%B0%E8%83%9E%E5%9C%A8%E7%A6%8F%E5%BB%BA%E6%9A%82%E4%BD%8F%E7%99%BB%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄金卖爆了 每克已涨破600元](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%8D%96%E7%88%86%E4%BA%86+%E6%AF%8F%E5%85%8B%E5%B7%B2%E6%B6%A8%E7%A0%B4600%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [林永健、康辉等当选中国视协副主席](https://www.baidu.com/s?wd=%E6%9E%97%E6%B0%B8%E5%81%A5%E3%80%81%E5%BA%B7%E8%BE%89%E7%AD%89%E5%BD%93%E9%80%89%E4%B8%AD%E5%9B%BD%E8%A7%86%E5%8D%8F%E5%89%AF%E4%B8%BB%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [货车倒车连撞奥迪20多次 多方回应](https://www.baidu.com/s?wd=%E8%B4%A7%E8%BD%A6%E5%80%92%E8%BD%A6%E8%BF%9E%E6%92%9E%E5%A5%A5%E8%BF%AA20%E5%A4%9A%E6%AC%A1+%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州某大学男生持刀互殴系谣传](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%9F%90%E5%A4%A7%E5%AD%A6%E7%94%B7%E7%94%9F%E6%8C%81%E5%88%80%E4%BA%92%E6%AE%B4%E7%B3%BB%E8%B0%A3%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [癌症患者乘飞机被拒 成都航空回应](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E4%B9%98%E9%A3%9E%E6%9C%BA%E8%A2%AB%E6%8B%92+%E6%88%90%E9%83%BD%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中央：取消台胞在福建暂住登记](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%EF%BC%9A%E5%8F%96%E6%B6%88%E5%8F%B0%E8%83%9E%E5%9C%A8%E7%A6%8F%E5%BB%BA%E6%9A%82%E4%BD%8F%E7%99%BB%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄金卖爆了 每克已涨破600元](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%8D%96%E7%88%86%E4%BA%86+%E6%AF%8F%E5%85%8B%E5%B7%B2%E6%B6%A8%E7%A0%B4600%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [林永健、康辉等当选中国视协副主席](https://www.baidu.com/s?wd=%E6%9E%97%E6%B0%B8%E5%81%A5%E3%80%81%E5%BA%B7%E8%BE%89%E7%AD%89%E5%BD%93%E9%80%89%E4%B8%AD%E5%9B%BD%E8%A7%86%E5%8D%8F%E5%89%AF%E4%B8%BB%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [货车倒车连撞奥迪20多次 多方回应](https://www.baidu.com/s?wd=%E8%B4%A7%E8%BD%A6%E5%80%92%E8%BD%A6%E8%BF%9E%E6%92%9E%E5%A5%A5%E8%BF%AA20%E5%A4%9A%E6%AC%A1+%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州某大学男生持刀互殴系谣传](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%9F%90%E5%A4%A7%E5%AD%A6%E7%94%B7%E7%94%9F%E6%8C%81%E5%88%80%E4%BA%92%E6%AE%B4%E7%B3%BB%E8%B0%A3%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
