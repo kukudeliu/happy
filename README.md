@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 17:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 17:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子抓柯尔鸭当肉鸭吃赔了8千元](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%93%E6%9F%AF%E5%B0%94%E9%B8%AD%E5%BD%93%E8%82%89%E9%B8%AD%E5%90%83%E8%B5%94%E4%BA%868%E5%8D%83%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [成毅怎么老演这种快死的角色](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%80%8E%E4%B9%88%E8%80%81%E6%BC%94%E8%BF%99%E7%A7%8D%E5%BF%AB%E6%AD%BB%E7%9A%84%E8%A7%92%E8%89%B2%23&t=31&band_rank=7&Refer=top)<br />
 8. [金价已涨破600元每克](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%B7%B2%E6%B6%A8%E7%A0%B4600%E5%85%83%E6%AF%8F%E5%85%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [薛之谦感谢大家的理解和包容](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%84%9F%E8%B0%A2%E5%A4%A7%E5%AE%B6%E7%9A%84%E7%90%86%E8%A7%A3%E5%92%8C%E5%8C%85%E5%AE%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [金靖的角色还是太保守了](https://s.weibo.com/weibo?q=%E9%87%91%E9%9D%96%E7%9A%84%E8%A7%92%E8%89%B2%E8%BF%98%E6%98%AF%E5%A4%AA%E4%BF%9D%E5%AE%88%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
