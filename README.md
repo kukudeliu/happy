@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 13:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 13:45:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [蜂花回应捡箱子发货](https://s.weibo.com/weibo?q=%23%E8%9C%82%E8%8A%B1%E5%9B%9E%E5%BA%94%E6%8D%A1%E7%AE%B1%E5%AD%90%E5%8F%91%E8%B4%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [警方回应淄博一女子被当街杀害](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%84%E5%8D%9A%E4%B8%80%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%BD%93%E8%A1%97%E6%9D%80%E5%AE%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [SEVENTEEN官宣澳门演唱会](https://s.weibo.com/weibo?q=%23SEVENTEEN%E5%AE%98%E5%AE%A3%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [蜂花捡箱子](https://s.weibo.com/weibo?q=%E8%9C%82%E8%8A%B1%E6%8D%A1%E7%AE%B1%E5%AD%90&t=31&band_rank=8&Refer=top)<br />
-9. [华为争气三件套](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%BA%89%E6%B0%94%E4%B8%89%E4%BB%B6%E5%A5%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [华为争气三件套](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%BA%89%E6%B0%94%E4%B8%89%E4%BB%B6%E5%A5%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [蜂花捡箱子](https://s.weibo.com/weibo?q=%E8%9C%82%E8%8A%B1%E6%8D%A1%E7%AE%B1%E5%AD%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
