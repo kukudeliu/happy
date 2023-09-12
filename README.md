@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 06:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 06:03:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [世界首富有多爱客串](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E9%A6%96%E5%AF%8C%E6%9C%89%E5%A4%9A%E7%88%B1%E5%AE%A2%E4%B8%B2%23&t=31&band_rank=5&Refer=top)<br />
 6. [教育部颁布校外培训行政处罚暂行办法](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E9%A2%81%E5%B8%83%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E6%9A%82%E8%A1%8C%E5%8A%9E%E6%B3%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本反对他国直接取样独立检测](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8D%E5%AF%B9%E4%BB%96%E5%9B%BD%E7%9B%B4%E6%8E%A5%E5%8F%96%E6%A0%B7%E7%8B%AC%E7%AB%8B%E6%A3%80%E6%B5%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [徐良对张远说我结婚的时候你一定要来](https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%AF%E5%AF%B9%E5%BC%A0%E8%BF%9C%E8%AF%B4%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E6%97%B6%E5%80%99%E4%BD%A0%E4%B8%80%E5%AE%9A%E8%A6%81%E6%9D%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [中小学教师从事学科类校外培训将从重处罚](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E4%BB%8E%E4%BA%8B%E5%AD%A6%E7%A7%91%E7%B1%BB%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E5%B0%86%E4%BB%8E%E9%87%8D%E5%A4%84%E7%BD%9A%23&t=31&band_rank=9&Refer=top)<br />
+8. [中小学教师从事学科类校外培训将从重处罚](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E4%BB%8E%E4%BA%8B%E5%AD%A6%E7%A7%91%E7%B1%BB%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E5%B0%86%E4%BB%8E%E9%87%8D%E5%A4%84%E7%BD%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [徐良对张远说我结婚的时候你一定要来](https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%AF%E5%AF%B9%E5%BC%A0%E8%BF%9C%E8%AF%B4%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E6%97%B6%E5%80%99%E4%BD%A0%E4%B8%80%E5%AE%9A%E8%A6%81%E6%9D%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,7 +23,7 @@
 4. [金融数据企稳回升](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E6%95%B0%E6%8D%AE%E4%BC%81%E7%A8%B3%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [癌症患者乘飞机被拒 成都航空回应](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E4%B9%98%E9%A3%9E%E6%9C%BA%E8%A2%AB%E6%8B%92+%E6%88%90%E9%83%BD%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中央：取消台胞在福建暂住登记](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%EF%BC%9A%E5%8F%96%E6%B6%88%E5%8F%B0%E8%83%9E%E5%9C%A8%E7%A6%8F%E5%BB%BA%E6%9A%82%E4%BD%8F%E7%99%BB%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [外资第一大省瞄准了一座“富矿”](https://www.baidu.com/s?wd=%E5%A4%96%E8%B5%84%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%9C%81%E7%9E%84%E5%87%86%E4%BA%86%E4%B8%80%E5%BA%A7%E2%80%9C%E5%AF%8C%E7%9F%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [双胞胎退役全家60多人接站](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E9%80%80%E5%BD%B9%E5%85%A8%E5%AE%B660%E5%A4%9A%E4%BA%BA%E6%8E%A5%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [黄金卖爆了 每克已涨破600元](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%8D%96%E7%88%86%E4%BA%86+%E6%AF%8F%E5%85%8B%E5%B7%B2%E6%B6%A8%E7%A0%B4600%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州某大学男生持刀互殴系谣传](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%9F%90%E5%A4%A7%E5%AD%A6%E7%94%B7%E7%94%9F%E6%8C%81%E5%88%80%E4%BA%92%E6%AE%B4%E7%B3%BB%E8%B0%A3%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [金融数据企稳回升](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E6%95%B0%E6%8D%AE%E4%BC%81%E7%A8%B3%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [癌症患者乘飞机被拒 成都航空回应](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E4%B9%98%E9%A3%9E%E6%9C%BA%E8%A2%AB%E6%8B%92+%E6%88%90%E9%83%BD%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中央：取消台胞在福建暂住登记](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%EF%BC%9A%E5%8F%96%E6%B6%88%E5%8F%B0%E8%83%9E%E5%9C%A8%E7%A6%8F%E5%BB%BA%E6%9A%82%E4%BD%8F%E7%99%BB%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [外资第一大省瞄准了一座“富矿”](https://www.baidu.com/s?wd=%E5%A4%96%E8%B5%84%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%9C%81%E7%9E%84%E5%87%86%E4%BA%86%E4%B8%80%E5%BA%A7%E2%80%9C%E5%AF%8C%E7%9F%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [双胞胎退役全家60多人接站](https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E9%80%80%E5%BD%B9%E5%85%A8%E5%AE%B660%E5%A4%9A%E4%BA%BA%E6%8E%A5%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [黄金卖爆了 每克已涨破600元](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%8D%96%E7%88%86%E4%BA%86+%E6%AF%8F%E5%85%8B%E5%B7%B2%E6%B6%A8%E7%A0%B4600%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州某大学男生持刀互殴系谣传](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%9F%90%E5%A4%A7%E5%AD%A6%E7%94%B7%E7%94%9F%E6%8C%81%E5%88%80%E4%BA%92%E6%AE%B4%E7%B3%BB%E8%B0%A3%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
