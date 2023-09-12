@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 04:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 04:23:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [金融数据企稳回升](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E6%95%B0%E6%8D%AE%E4%BC%81%E7%A8%B3%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [癌症患者乘飞机被拒 成都航空回应](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E4%B9%98%E9%A3%9E%E6%9C%BA%E8%A2%AB%E6%8B%92+%E6%88%90%E9%83%BD%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中央：取消台胞在福建暂住登记](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%EF%BC%9A%E5%8F%96%E6%B6%88%E5%8F%B0%E8%83%9E%E5%9C%A8%E7%A6%8F%E5%BB%BA%E6%9A%82%E4%BD%8F%E7%99%BB%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [黄金卖爆了 每克已涨破600元](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%8D%96%E7%88%86%E4%BA%86+%E6%AF%8F%E5%85%8B%E5%B7%B2%E6%B6%A8%E7%A0%B4600%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [余承东发布会说了5次遥遥领先](https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E8%AF%B4%E4%BA%865%E6%AC%A1%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [余承东发布会说了5次遥遥领先](https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E8%AF%B4%E4%BA%865%E6%AC%A1%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [黄金卖爆了 每克已涨破600元](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%8D%96%E7%88%86%E4%BA%86+%E6%AF%8F%E5%85%8B%E5%B7%B2%E6%B6%A8%E7%A0%B4600%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州某大学男生持刀互殴系谣传](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%9F%90%E5%A4%A7%E5%AD%A6%E7%94%B7%E7%94%9F%E6%8C%81%E5%88%80%E4%BA%92%E6%AE%B4%E7%B3%BB%E8%B0%A3%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [金融数据企稳回升](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E6%95%B0%E6%8D%AE%E4%BC%81%E7%A8%B3%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [癌症患者乘飞机被拒 成都航空回应](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E4%B9%98%E9%A3%9E%E6%9C%BA%E8%A2%AB%E6%8B%92+%E6%88%90%E9%83%BD%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中央：取消台胞在福建暂住登记](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%EF%BC%9A%E5%8F%96%E6%B6%88%E5%8F%B0%E8%83%9E%E5%9C%A8%E7%A6%8F%E5%BB%BA%E6%9A%82%E4%BD%8F%E7%99%BB%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [黄金卖爆了 每克已涨破600元](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%8D%96%E7%88%86%E4%BA%86+%E6%AF%8F%E5%85%8B%E5%B7%B2%E6%B6%A8%E7%A0%B4600%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [余承东发布会说了5次遥遥领先](https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E8%AF%B4%E4%BA%865%E6%AC%A1%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [余承东发布会说了5次遥遥领先](https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E8%AF%B4%E4%BA%865%E6%AC%A1%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [黄金卖爆了 每克已涨破600元](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%8D%96%E7%88%86%E4%BA%86+%E6%AF%8F%E5%85%8B%E5%B7%B2%E6%B6%A8%E7%A0%B4600%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州某大学男生持刀互殴系谣传](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%9F%90%E5%A4%A7%E5%AD%A6%E7%94%B7%E7%94%9F%E6%8C%81%E5%88%80%E4%BA%92%E6%AE%B4%E7%B3%BB%E8%B0%A3%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
