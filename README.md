@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 09:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 09:22:01</h4></div>
 
 > 微博  
 
-1. [被困缅甸的中科院博士发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%9B%B0%E7%BC%85%E7%94%B8%E7%9A%84%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=1&Refer=top)<br />
-2. [李佳琦 职业倦怠](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%20%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0&t=31&band_rank=2&Refer=top)<br />
+1. [李佳琦 职业倦怠](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%20%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0&t=31&band_rank=1&Refer=top)<br />
+2. [被困缅甸的中科院博士发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%9B%B0%E7%BC%85%E7%94%B8%E7%9A%84%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023年国家网络安全宣传周](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%AE%A3%E4%BC%A0%E5%91%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [韩国最受欢迎的两种小吃](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E4%B8%A4%E7%A7%8D%E5%B0%8F%E5%90%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [上班上久了是会这样的](https://s.weibo.com/weibo?q=%E4%B8%8A%E7%8F%AD%E4%B8%8A%E4%B9%85%E4%BA%86%E6%98%AF%E4%BC%9A%E8%BF%99%E6%A0%B7%E7%9A%84&t=31&band_rank=5&Refer=top)<br />
