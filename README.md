@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 17:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 17:41:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国人寿原董事长王滨死缓](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AF%BF%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E7%8E%8B%E6%BB%A8%E6%AD%BB%E7%BC%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [金价已涨破600元每克](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%B7%B2%E6%B6%A8%E7%A0%B4600%E5%85%83%E6%AF%8F%E5%85%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [薛之谦感谢大家的理解和包容](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%84%9F%E8%B0%A2%E5%A4%A7%E5%AE%B6%E7%9A%84%E7%90%86%E8%A7%A3%E5%92%8C%E5%8C%85%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [双胞胎退役全家60多人接站](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E9%80%80%E5%BD%B9%E5%85%A8%E5%AE%B660%E5%A4%9A%E4%BA%BA%E6%8E%A5%E7%AB%99%23&t=31&band_rank=9&Refer=top)<br />
+9. [金靖的角色还是太保守了](https://s.weibo.com/weibo?q=%E9%87%91%E9%9D%96%E7%9A%84%E8%A7%92%E8%89%B2%E8%BF%98%E6%98%AF%E5%A4%AA%E4%BF%9D%E5%AE%88%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
