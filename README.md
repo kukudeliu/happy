@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 14:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-12 14:28:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [蜂花回应捡箱子发货](https://s.weibo.com/weibo?q=%23%E8%9C%82%E8%8A%B1%E5%9B%9E%E5%BA%94%E6%8D%A1%E7%AE%B1%E5%AD%90%E5%8F%91%E8%B4%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [papi酱 两个人一起浪费时间很重要](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E4%B8%A4%E4%B8%AA%E4%BA%BA%E4%B8%80%E8%B5%B7%E6%B5%AA%E8%B4%B9%E6%97%B6%E9%97%B4%E5%BE%88%E9%87%8D%E8%A6%81&t=31&band_rank=6&Refer=top)<br />
 7. [华为争气三件套](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%BA%89%E6%B0%94%E4%B8%89%E4%BB%B6%E5%A5%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [薛之谦演唱会退票细则公布](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%80%E7%A5%A8%E7%BB%86%E5%88%99%E5%85%AC%E5%B8%83%23&t=31&band_rank=8&Refer=top)<br />
+8. [华为发布会](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
 9. [SMTOWN艺人正式入驻WEVERSE](https://s.weibo.com/weibo?q=%23SMTOWN%E8%89%BA%E4%BA%BA%E6%AD%A3%E5%BC%8F%E5%85%A5%E9%A9%BBWEVERSE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
