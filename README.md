@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 18:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 18:44:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [大学生模仿主播带货形式推荐母校](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%A8%A1%E4%BB%BF%E4%B8%BB%E6%92%AD%E5%B8%A6%E8%B4%A7%E5%BD%A2%E5%BC%8F%E6%8E%A8%E8%8D%90%E6%AF%8D%E6%A0%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [演员滕汝骏去世](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E6%BB%95%E6%B1%9D%E9%AA%8F%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [丈夫瘫痪妻子说该我为这个家付出了](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E7%98%AB%E7%97%AA%E5%A6%BB%E5%AD%90%E8%AF%B4%E8%AF%A5%E6%88%91%E4%B8%BA%E8%BF%99%E4%B8%AA%E5%AE%B6%E4%BB%98%E5%87%BA%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [北极鲶鱼事件交通局答复是否有法律依据](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%E4%BA%A4%E9%80%9A%E5%B1%80%E7%AD%94%E5%A4%8D%E6%98%AF%E5%90%A6%E6%9C%89%E6%B3%95%E5%BE%8B%E4%BE%9D%E6%8D%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [孟宴臣高启强 双疯](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AE%B4%E8%87%A3%E9%AB%98%E5%90%AF%E5%BC%BA%20%E5%8F%8C%E7%96%AF&t=31&band_rank=9&Refer=top)<br />
+8. [你会花4300元买一支口红吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E8%8A%B14300%E5%85%83%E4%B9%B0%E4%B8%80%E6%94%AF%E5%8F%A3%E7%BA%A2%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [北极鲶鱼事件交通局答复是否有法律依据](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%E4%BA%A4%E9%80%9A%E5%B1%80%E7%AD%94%E5%A4%8D%E6%98%AF%E5%90%A6%E6%9C%89%E6%B3%95%E5%BE%8B%E4%BE%9D%E6%8D%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [高中生装官二代骗北大女生?校方回应](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E7%94%9F%E8%A3%85%E5%AE%98%E4%BA%8C%E4%BB%A3%E9%AA%97%E5%8C%97%E5%A4%A7%E5%A5%B3%E7%94%9F%3F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体：预制菜进校园不是一件小事](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E6%A0%A1%E5%9B%AD%E4%B8%8D%E6%98%AF%E4%B8%80%E4%BB%B6%E5%B0%8F%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄罗斯为金正恩举行国宴 菜单曝光](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%BA%E9%87%91%E6%AD%A3%E6%81%A9%E4%B8%BE%E8%A1%8C%E5%9B%BD%E5%AE%B4+%E8%8F%9C%E5%8D%95%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广州城中村“电费刺客”凶猛](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%9F%8E%E4%B8%AD%E6%9D%91%E2%80%9C%E7%94%B5%E8%B4%B9%E5%88%BA%E5%AE%A2%E2%80%9D%E5%87%B6%E7%8C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子拐卖11名儿童 检方建议死刑](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8B%90%E5%8D%9611%E5%90%8D%E5%84%BF%E7%AB%A5+%E6%A3%80%E6%96%B9%E5%BB%BA%E8%AE%AE%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高铁化妆是不文明行为？官方辟谣](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%E6%98%AF%E4%B8%8D%E6%96%87%E6%98%8E%E8%A1%8C%E4%B8%BA%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [高中生装官二代骗北大女生?校方回应](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E7%94%9F%E8%A3%85%E5%AE%98%E4%BA%8C%E4%BB%A3%E9%AA%97%E5%8C%97%E5%A4%A7%E5%A5%B3%E7%94%9F%3F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体：预制菜进校园不是一件小事](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E6%A0%A1%E5%9B%AD%E4%B8%8D%E6%98%AF%E4%B8%80%E4%BB%B6%E5%B0%8F%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄罗斯为金正恩举行国宴 菜单曝光](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%BA%E9%87%91%E6%AD%A3%E6%81%A9%E4%B8%BE%E8%A1%8C%E5%9B%BD%E5%AE%B4+%E8%8F%9C%E5%8D%95%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广州城中村“电费刺客”凶猛](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%9F%8E%E4%B8%AD%E6%9D%91%E2%80%9C%E7%94%B5%E8%B4%B9%E5%88%BA%E5%AE%A2%E2%80%9D%E5%87%B6%E7%8C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子拐卖11名儿童 检方建议死刑](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8B%90%E5%8D%9611%E5%90%8D%E5%84%BF%E7%AB%A5+%E6%A3%80%E6%96%B9%E5%BB%BA%E8%AE%AE%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高铁化妆是不文明行为？官方辟谣](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%E6%98%AF%E4%B8%8D%E6%96%87%E6%98%8E%E8%A1%8C%E4%B8%BA%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
