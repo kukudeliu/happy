@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 09:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 09:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [这4种面包真的建议少吃](https://s.weibo.com/weibo?q=%E8%BF%994%E7%A7%8D%E9%9D%A2%E5%8C%85%E7%9C%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%E5%B0%91%E5%90%83&t=31&band_rank=5&Refer=top)<br />
 6. [老人穿15元的鞋却给家乡捐了1000万](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%A9%BF15%E5%85%83%E7%9A%84%E9%9E%8B%E5%8D%B4%E7%BB%99%E5%AE%B6%E4%B9%A1%E6%8D%90%E4%BA%861000%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [月公子居然是左叶演的](https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%85%AC%E5%AD%90%E5%B1%85%E7%84%B6%E6%98%AF%E5%B7%A6%E5%8F%B6%E6%BC%94%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
-8. [4000万中央资金建3个项目竟全烂尾](https://s.weibo.com/weibo?q=%234000%E4%B8%87%E4%B8%AD%E5%A4%AE%E8%B5%84%E9%87%91%E5%BB%BA3%E4%B8%AA%E9%A1%B9%E7%9B%AE%E7%AB%9F%E5%85%A8%E7%83%82%E5%B0%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [Uzi薇恩臻彩](https://s.weibo.com/weibo?q=Uzi%E8%96%87%E6%81%A9%E8%87%BB%E5%BD%A9&t=31&band_rank=9&Refer=top)<br />
+8. [七仔拒绝了食堂决定自己整点吃的](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%BB%94%E6%8B%92%E7%BB%9D%E4%BA%86%E9%A3%9F%E5%A0%82%E5%86%B3%E5%AE%9A%E8%87%AA%E5%B7%B1%E6%95%B4%E7%82%B9%E5%90%83%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
+9. [4000万中央资金建3个项目竟全烂尾](https://s.weibo.com/weibo?q=%234000%E4%B8%87%E4%B8%AD%E5%A4%AE%E8%B5%84%E9%87%91%E5%BB%BA3%E4%B8%AA%E9%A1%B9%E7%9B%AE%E7%AB%9F%E5%85%A8%E7%83%82%E5%B0%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
