@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 15:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 15:55:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [男子发现女儿非亲生擅改亲子鉴定](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%93%85%E6%94%B9%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李家超下令严查名人豪宅违建](https://www.baidu.com/s?wd=%E6%9D%8E%E5%AE%B6%E8%B6%85%E4%B8%8B%E4%BB%A4%E4%B8%A5%E6%9F%A5%E5%90%8D%E4%BA%BA%E8%B1%AA%E5%AE%85%E8%BF%9D%E5%BB%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [蜂花产能紧张已断货](https://www.baidu.com/s?wd=%E8%9C%82%E8%8A%B1%E4%BA%A7%E8%83%BD%E7%B4%A7%E5%BC%A0%E5%B7%B2%E6%96%AD%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [有人骗学生上车摘器官？警方辟谣](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E9%AA%97%E5%AD%A6%E7%94%9F%E4%B8%8A%E8%BD%A6%E6%91%98%E5%99%A8%E5%AE%98%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高铁化妆是不文明行为？12306辟谣](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%E6%98%AF%E4%B8%8D%E6%96%87%E6%98%8E%E8%A1%8C%E4%B8%BA%EF%BC%9F12306%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [男子发现女儿非亲生擅改亲子鉴定](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%93%85%E6%94%B9%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李家超下令严查名人豪宅违建](https://www.baidu.com/s?wd=%E6%9D%8E%E5%AE%B6%E8%B6%85%E4%B8%8B%E4%BB%A4%E4%B8%A5%E6%9F%A5%E5%90%8D%E4%BA%BA%E8%B1%AA%E5%AE%85%E8%BF%9D%E5%BB%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [蜂花产能紧张已断货](https://www.baidu.com/s?wd=%E8%9C%82%E8%8A%B1%E4%BA%A7%E8%83%BD%E7%B4%A7%E5%BC%A0%E5%B7%B2%E6%96%AD%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [有人骗学生上车摘器官？警方辟谣](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E9%AA%97%E5%AD%A6%E7%94%9F%E4%B8%8A%E8%BD%A6%E6%91%98%E5%99%A8%E5%AE%98%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [高铁化妆是不文明行为？12306辟谣](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%E6%98%AF%E4%B8%8D%E6%96%87%E6%98%8E%E8%A1%8C%E4%B8%BA%EF%BC%9F12306%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
