@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 21:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 21:37:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [国家一级演员苏孝林被决定逮捕](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%BC%94%E5%91%98%E8%8B%8F%E5%AD%9D%E6%9E%97%E8%A2%AB%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95%23&t=31&band_rank=2&Refer=top)<br />
 3. [高校开学校长寄语合集](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%BC%80%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%AF%84%E8%AF%AD%E5%90%88%E9%9B%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [外交部辟谣中国政府机关禁用苹果手机](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%9C%BA%E5%85%B3%E7%A6%81%E7%94%A8%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%23&t=31&band_rank=4&Refer=top)<br />
-5. [你会花4300元买一支口红吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E8%8A%B14300%E5%85%83%E4%B9%B0%E4%B8%80%E6%94%AF%E5%8F%A3%E7%BA%A2%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
-6. [专家曾称外星人不敢来地球](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E6%9B%BE%E7%A7%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E4%B8%8D%E6%95%A2%E6%9D%A5%E5%9C%B0%E7%90%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [北极鲶鱼核查不予公开是否为权力的傲慢](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E6%A0%B8%E6%9F%A5%E4%B8%8D%E4%BA%88%E5%85%AC%E5%BC%80%E6%98%AF%E5%90%A6%E4%B8%BA%E6%9D%83%E5%8A%9B%E7%9A%84%E5%82%B2%E6%85%A2%23&t=31&band_rank=7&Refer=top)<br />
+5. [李维嘉爸爸面对诈骗的思路](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%BB%B4%E5%98%89%E7%88%B8%E7%88%B8%E9%9D%A2%E5%AF%B9%E8%AF%88%E9%AA%97%E7%9A%84%E6%80%9D%E8%B7%AF&t=31&band_rank=5&Refer=top)<br />
+6. [你会花4300元买一支口红吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E8%8A%B14300%E5%85%83%E4%B9%B0%E4%B8%80%E6%94%AF%E5%8F%A3%E7%BA%A2%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
+7. [专家曾称外星人不敢来地球](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E6%9B%BE%E7%A7%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E4%B8%8D%E6%95%A2%E6%9D%A5%E5%9C%B0%E7%90%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [制作方否认高铁化妆视频不尊重女性](https://s.weibo.com/weibo?q=%23%E5%88%B6%E4%BD%9C%E6%96%B9%E5%90%A6%E8%AE%A4%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%E8%A7%86%E9%A2%91%E4%B8%8D%E5%B0%8A%E9%87%8D%E5%A5%B3%E6%80%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [曝金赫拉对三人施暴道歉了七次](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%87%91%E8%B5%AB%E6%8B%89%E5%AF%B9%E4%B8%89%E4%BA%BA%E6%96%BD%E6%9A%B4%E9%81%93%E6%AD%89%E4%BA%86%E4%B8%83%E6%AC%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [北极鲶鱼核查不予公开是否为权力的傲慢](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E6%A0%B8%E6%9F%A5%E4%B8%8D%E4%BA%88%E5%85%AC%E5%BC%80%E6%98%AF%E5%90%A6%E4%B8%BA%E6%9D%83%E5%8A%9B%E7%9A%84%E5%82%B2%E6%85%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
