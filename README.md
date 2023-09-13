@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 22:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 22:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国家一级演员苏孝林被决定逮捕](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%BC%94%E5%91%98%E8%8B%8F%E5%AD%9D%E6%9E%97%E8%A2%AB%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [李维嘉爸爸面对诈骗的思路](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%BB%B4%E5%98%89%E7%88%B8%E7%88%B8%E9%9D%A2%E5%AF%B9%E8%AF%88%E9%AA%97%E7%9A%84%E6%80%9D%E8%B7%AF&t=31&band_rank=7&Refer=top)<br />
 8. [成毅发了2018年的文案](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%8F%91%E4%BA%862018%E5%B9%B4%E7%9A%84%E6%96%87%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [你会花4300元买一支口红吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E8%8A%B14300%E5%85%83%E4%B9%B0%E4%B8%80%E6%94%AF%E5%8F%A3%E7%BA%A2%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [利比亚东部洪灾已致超6000人遇难](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%AF%94%E4%BA%9A%E4%B8%9C%E9%83%A8%E6%B4%AA%E7%81%BE%E5%B7%B2%E8%87%B4%E8%B6%856000%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
