@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 21:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 21:03:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [媒体：预制菜进校园不是一件小事](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E6%A0%A1%E5%9B%AD%E4%B8%8D%E6%98%AF%E4%B8%80%E4%BB%B6%E5%B0%8F%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国代表团向亚运出发](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%90%91%E4%BA%9A%E8%BF%90%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [外交部:中国未出台禁用苹果手机政策](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%3A%E4%B8%AD%E5%9B%BD%E6%9C%AA%E5%87%BA%E5%8F%B0%E7%A6%81%E7%94%A8%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%94%BF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子拐卖11名儿童 检方建议死刑](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8B%90%E5%8D%9611%E5%90%8D%E5%84%BF%E7%AB%A5+%E6%A3%80%E6%96%B9%E5%BB%BA%E8%AE%AE%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [麦卡锡宣布对拜登弹劾开启 白宫回应](https://www.baidu.com/s?wd=%E9%BA%A6%E5%8D%A1%E9%94%A1%E5%AE%A3%E5%B8%83%E5%AF%B9%E6%8B%9C%E7%99%BB%E5%BC%B9%E5%8A%BE%E5%BC%80%E5%90%AF+%E7%99%BD%E5%AE%AB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [央行：提前还房贷的情况有所减少](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E6%8F%90%E5%89%8D%E8%BF%98%E6%88%BF%E8%B4%B7%E7%9A%84%E6%83%85%E5%86%B5%E6%9C%89%E6%89%80%E5%87%8F%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [四川一塔吊作业时倾倒 已致6人死亡](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%A1%94%E5%90%8A%E4%BD%9C%E4%B8%9A%E6%97%B6%E5%80%BE%E5%80%92+%E5%B7%B2%E8%87%B46%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [子公司名写成“住哥哥家” 企业回应](https://www.baidu.com/s?wd=%E5%AD%90%E5%85%AC%E5%8F%B8%E5%90%8D%E5%86%99%E6%88%90%E2%80%9C%E4%BD%8F%E5%93%A5%E5%93%A5%E5%AE%B6%E2%80%9D+%E4%BC%81%E4%B8%9A%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [江苏多企业退出政府融资平台](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%A4%9A%E4%BC%81%E4%B8%9A%E9%80%80%E5%87%BA%E6%94%BF%E5%BA%9C%E8%9E%8D%E8%B5%84%E5%B9%B3%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [有人骗学生上车摘器官？警方辟谣](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E9%AA%97%E5%AD%A6%E7%94%9F%E4%B8%8A%E8%BD%A6%E6%91%98%E5%99%A8%E5%AE%98%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [媒体：预制菜进校园不是一件小事](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E6%A0%A1%E5%9B%AD%E4%B8%8D%E6%98%AF%E4%B8%80%E4%BB%B6%E5%B0%8F%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国代表团向亚运出发](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%90%91%E4%BA%9A%E8%BF%90%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [外交部:中国未出台禁用苹果手机政策](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%3A%E4%B8%AD%E5%9B%BD%E6%9C%AA%E5%87%BA%E5%8F%B0%E7%A6%81%E7%94%A8%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%94%BF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子拐卖11名儿童 检方建议死刑](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8B%90%E5%8D%9611%E5%90%8D%E5%84%BF%E7%AB%A5+%E6%A3%80%E6%96%B9%E5%BB%BA%E8%AE%AE%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [麦卡锡宣布对拜登弹劾开启 白宫回应](https://www.baidu.com/s?wd=%E9%BA%A6%E5%8D%A1%E9%94%A1%E5%AE%A3%E5%B8%83%E5%AF%B9%E6%8B%9C%E7%99%BB%E5%BC%B9%E5%8A%BE%E5%BC%80%E5%90%AF+%E7%99%BD%E5%AE%AB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [央行：提前还房贷的情况有所减少](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E6%8F%90%E5%89%8D%E8%BF%98%E6%88%BF%E8%B4%B7%E7%9A%84%E6%83%85%E5%86%B5%E6%9C%89%E6%89%80%E5%87%8F%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [四川一塔吊作业时倾倒 已致6人死亡](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%A1%94%E5%90%8A%E4%BD%9C%E4%B8%9A%E6%97%B6%E5%80%BE%E5%80%92+%E5%B7%B2%E8%87%B46%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [子公司名写成“住哥哥家” 企业回应](https://www.baidu.com/s?wd=%E5%AD%90%E5%85%AC%E5%8F%B8%E5%90%8D%E5%86%99%E6%88%90%E2%80%9C%E4%BD%8F%E5%93%A5%E5%93%A5%E5%AE%B6%E2%80%9D+%E4%BC%81%E4%B8%9A%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [江苏多企业退出政府融资平台](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%A4%9A%E4%BC%81%E4%B8%9A%E9%80%80%E5%87%BA%E6%94%BF%E5%BA%9C%E8%9E%8D%E8%B5%84%E5%B9%B3%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [有人骗学生上车摘器官？警方辟谣](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E9%AA%97%E5%AD%A6%E7%94%9F%E4%B8%8A%E8%BD%A6%E6%91%98%E5%99%A8%E5%AE%98%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
