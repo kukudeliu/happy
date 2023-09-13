@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 13:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 13:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [郭碧婷向佐全黑色系红毯造型](https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E5%90%91%E4%BD%90%E5%85%A8%E9%BB%91%E8%89%B2%E7%B3%BB%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [这4种面包真的建议少吃](https://s.weibo.com/weibo?q=%E8%BF%994%E7%A7%8D%E9%9D%A2%E5%8C%85%E7%9C%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%E5%B0%91%E5%90%83&t=31&band_rank=7&Refer=top)<br />
 8. [优酷他急了](https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E4%BB%96%E6%80%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [云之羽 浅之角](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%20%E6%B5%85%E4%B9%8B%E8%A7%92&t=31&band_rank=9&Refer=top)<br />
+9. [BLACKPINK获VMA最佳年度组合](https://s.weibo.com/weibo?q=%23BLACKPINK%E8%8E%B7VMA%E6%9C%80%E4%BD%B3%E5%B9%B4%E5%BA%A6%E7%BB%84%E5%90%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
