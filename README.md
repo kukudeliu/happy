@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 13:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 13:23:01</h4></div>
 
 > 微博  
 
 1. [无效刷牙](https://s.weibo.com/weibo?q=%E6%97%A0%E6%95%88%E5%88%B7%E7%89%99&t=31&band_rank=1&Refer=top)<br />
 2. [郭碧婷向佐全黑色系红毯造型](https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E5%90%91%E4%BD%90%E5%85%A8%E9%BB%91%E8%89%B2%E7%B3%BB%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会开幕倒计时10天](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%80%92%E8%AE%A1%E6%97%B610%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
-4. [这4种面包真的建议少吃](https://s.weibo.com/weibo?q=%E8%BF%994%E7%A7%8D%E9%9D%A2%E5%8C%85%E7%9C%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%E5%B0%91%E5%90%83&t=31&band_rank=4&Refer=top)<br />
-5. [蜂花蹲热点引发行业人士反感](https://s.weibo.com/weibo?q=%23%E8%9C%82%E8%8A%B1%E8%B9%B2%E7%83%AD%E7%82%B9%E5%BC%95%E5%8F%91%E8%A1%8C%E4%B8%9A%E4%BA%BA%E5%A3%AB%E5%8F%8D%E6%84%9F%23&t=31&band_rank=5&Refer=top)<br />
+4. [蜂花蹲热点引发行业人士反感](https://s.weibo.com/weibo?q=%23%E8%9C%82%E8%8A%B1%E8%B9%B2%E7%83%AD%E7%82%B9%E5%BC%95%E5%8F%91%E8%A1%8C%E4%B8%9A%E4%BA%BA%E5%A3%AB%E5%8F%8D%E6%84%9F%23&t=31&band_rank=4&Refer=top)<br />
+5. [这4种面包真的建议少吃](https://s.weibo.com/weibo?q=%E8%BF%994%E7%A7%8D%E9%9D%A2%E5%8C%85%E7%9C%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%E5%B0%91%E5%90%83&t=31&band_rank=5&Refer=top)<br />
 6. [优酷他急了](https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E4%BB%96%E6%80%A5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [云之羽 浅之角](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%20%E6%B5%85%E4%B9%8B%E8%A7%92&t=31&band_rank=7&Refer=top)<br />
 8. [老人穿15元的鞋却给家乡捐了1000万](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%A9%BF15%E5%85%83%E7%9A%84%E9%9E%8B%E5%8D%B4%E7%BB%99%E5%AE%B6%E4%B9%A1%E6%8D%90%E4%BA%861000%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
