@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 16:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 16:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孟宴臣高启强 双疯](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AE%B4%E8%87%A3%E9%AB%98%E5%90%AF%E5%BC%BA%20%E5%8F%8C%E7%96%AF&t=31&band_rank=6&Refer=top)<br />
 7. [陶白白走秀](https://s.weibo.com/weibo?q=%E9%99%B6%E7%99%BD%E7%99%BD%E8%B5%B0%E7%A7%80&t=31&band_rank=7&Refer=top)<br />
 8. [男子发现女儿非亲生伪造亲子鉴定落户](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E9%9D%9E%E4%BA%B2%E7%94%9F%E4%BC%AA%E9%80%A0%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E8%90%BD%E6%88%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [华为小米达成全球专利交叉许可协议](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E8%BE%BE%E6%88%90%E5%85%A8%E7%90%83%E4%B8%93%E5%88%A9%E4%BA%A4%E5%8F%89%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [12306称没有高铁不能化妆相关规定](https://s.weibo.com/weibo?q=%2312306%E7%A7%B0%E6%B2%A1%E6%9C%89%E9%AB%98%E9%93%81%E4%B8%8D%E8%83%BD%E5%8C%96%E5%A6%86%E7%9B%B8%E5%85%B3%E8%A7%84%E5%AE%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
