@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 02:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 02:55:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国家一级演员苏孝林被决定逮捕](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%BC%94%E5%91%98%E8%8B%8F%E5%AD%9D%E6%9E%97%E8%A2%AB%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [库迪和瑞幸的商战](https://s.weibo.com/weibo?q=%E5%BA%93%E8%BF%AA%E5%92%8C%E7%91%9E%E5%B9%B8%E7%9A%84%E5%95%86%E6%88%98&t=31&band_rank=7&Refer=top)<br />
 8. [70岁房东失联租客察觉不对果断报警](https://s.weibo.com/weibo?q=%2370%E5%B2%81%E6%88%BF%E4%B8%9C%E5%A4%B1%E8%81%94%E7%A7%9F%E5%AE%A2%E5%AF%9F%E8%A7%89%E4%B8%8D%E5%AF%B9%E6%9E%9C%E6%96%AD%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [李维嘉爸爸面对诈骗的思路](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%BB%B4%E5%98%89%E7%88%B8%E7%88%B8%E9%9D%A2%E5%AF%B9%E8%AF%88%E9%AA%97%E7%9A%84%E6%80%9D%E8%B7%AF&t=31&band_rank=9&Refer=top)<br />
+9. [精心 接商战代打](https://s.weibo.com/weibo?q=%E7%B2%BE%E5%BF%83%20%E6%8E%A5%E5%95%86%E6%88%98%E4%BB%A3%E6%89%93&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
