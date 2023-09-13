@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 00:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 00:19:01</h4></div>
 
 > 微博  
 
 1. [UFO](https://s.weibo.com/weibo?q=UFO&t=31&band_rank=1&Refer=top)<br />
-2. [专家曾称外星人不敢来地球](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E6%9B%BE%E7%A7%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E4%B8%8D%E6%95%A2%E6%9D%A5%E5%9C%B0%E7%90%83%23&t=31&band_rank=2&Refer=top)<br />
+2. [全球首个承认外星生物存在的国家](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E6%89%BF%E8%AE%A4%E5%A4%96%E6%98%9F%E7%94%9F%E7%89%A9%E5%AD%98%E5%9C%A8%E7%9A%84%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [高校开学校长寄语合集](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%BC%80%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%AF%84%E8%AF%AD%E5%90%88%E9%9B%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [国货 团结](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B4%A7%20%E5%9B%A2%E7%BB%93&t=31&band_rank=4&Refer=top)<br />
-5. [70岁房东失联租客察觉不对果断报警](https://s.weibo.com/weibo?q=%2370%E5%B2%81%E6%88%BF%E4%B8%9C%E5%A4%B1%E8%81%94%E7%A7%9F%E5%AE%A2%E5%AF%9F%E8%A7%89%E4%B8%8D%E5%AF%B9%E6%9E%9C%E6%96%AD%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
-6. [交通局拒绝公开前局长孙女炫富调查结果](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E9%80%9A%E5%B1%80%E6%8B%92%E7%BB%9D%E5%85%AC%E5%BC%80%E5%89%8D%E5%B1%80%E9%95%BF%E5%AD%99%E5%A5%B3%E7%82%AB%E5%AF%8C%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=31&band_rank=6&Refer=top)<br />
-7. [你姐让我来看看我小姨](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A7%90%E8%AE%A9%E6%88%91%E6%9D%A5%E7%9C%8B%E7%9C%8B%E6%88%91%E5%B0%8F%E5%A7%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [国家一级演员苏孝林被决定逮捕](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%BC%94%E5%91%98%E8%8B%8F%E5%AD%9D%E6%9E%97%E8%A2%AB%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95%23&t=31&band_rank=8&Refer=top)<br />
-9. [成毅发了2018年的文案](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%8F%91%E4%BA%862018%E5%B9%B4%E7%9A%84%E6%96%87%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
+4. [专家曾称外星人不敢来地球](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E6%9B%BE%E7%A7%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E4%B8%8D%E6%95%A2%E6%9D%A5%E5%9C%B0%E7%90%83%23&t=31&band_rank=4&Refer=top)<br />
+5. [国货 团结](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B4%A7%20%E5%9B%A2%E7%BB%93&t=31&band_rank=5&Refer=top)<br />
+6. [70岁房东失联租客察觉不对果断报警](https://s.weibo.com/weibo?q=%2370%E5%B2%81%E6%88%BF%E4%B8%9C%E5%A4%B1%E8%81%94%E7%A7%9F%E5%AE%A2%E5%AF%9F%E8%A7%89%E4%B8%8D%E5%AF%B9%E6%9E%9C%E6%96%AD%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
+7. [交通局拒绝公开前局长孙女炫富调查结果](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E9%80%9A%E5%B1%80%E6%8B%92%E7%BB%9D%E5%85%AC%E5%BC%80%E5%89%8D%E5%B1%80%E9%95%BF%E5%AD%99%E5%A5%B3%E7%82%AB%E5%AF%8C%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=31&band_rank=7&Refer=top)<br />
+8. [成毅发了2018年的文案](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%8F%91%E4%BA%862018%E5%B9%B4%E7%9A%84%E6%96%87%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [国家一级演员苏孝林被决定逮捕](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%BC%94%E5%91%98%E8%8B%8F%E5%AD%9D%E6%9E%97%E8%A2%AB%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
