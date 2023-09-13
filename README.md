@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 09:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 09:08:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女子打工还清10年房贷房子却被占](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%89%93%E5%B7%A5%E8%BF%98%E6%B8%8510%E5%B9%B4%E6%88%BF%E8%B4%B7%E6%88%BF%E5%AD%90%E5%8D%B4%E8%A2%AB%E5%8D%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学校推荐的高薪工作竟是跨境赌博](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E6%8E%A8%E8%8D%90%E7%9A%84%E9%AB%98%E8%96%AA%E5%B7%A5%E4%BD%9C%E7%AB%9F%E6%98%AF%E8%B7%A8%E5%A2%83%E8%B5%8C%E5%8D%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本研究机构发生放射性物质泄漏](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%A0%94%E7%A9%B6%E6%9C%BA%E6%9E%84%E5%8F%91%E7%94%9F%E6%94%BE%E5%B0%84%E6%80%A7%E7%89%A9%E8%B4%A8%E6%B3%84%E6%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [利比亚遭飓风袭击 天空一片“血红”](https://www.baidu.com/s?wd=%E5%88%A9%E6%AF%94%E4%BA%9A%E9%81%AD%E9%A3%93%E9%A3%8E%E8%A2%AD%E5%87%BB+%E5%A4%A9%E7%A9%BA%E4%B8%80%E7%89%87%E2%80%9C%E8%A1%80%E7%BA%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [利比亚洪灾已致超5000人遇难](https://www.baidu.com/s?wd=%E5%88%A9%E6%AF%94%E4%BA%9A%E6%B4%AA%E7%81%BE%E5%B7%B2%E8%87%B4%E8%B6%855000%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传深圳地震消息不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%9C%87%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女子打工还清10年房贷房子却被占](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%89%93%E5%B7%A5%E8%BF%98%E6%B8%8510%E5%B9%B4%E6%88%BF%E8%B4%B7%E6%88%BF%E5%AD%90%E5%8D%B4%E8%A2%AB%E5%8D%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学校推荐的高薪工作竟是跨境赌博](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E6%8E%A8%E8%8D%90%E7%9A%84%E9%AB%98%E8%96%AA%E5%B7%A5%E4%BD%9C%E7%AB%9F%E6%98%AF%E8%B7%A8%E5%A2%83%E8%B5%8C%E5%8D%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本研究机构发生放射性物质泄漏](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%A0%94%E7%A9%B6%E6%9C%BA%E6%9E%84%E5%8F%91%E7%94%9F%E6%94%BE%E5%B0%84%E6%80%A7%E7%89%A9%E8%B4%A8%E6%B3%84%E6%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [利比亚遭飓风袭击 天空一片“血红”](https://www.baidu.com/s?wd=%E5%88%A9%E6%AF%94%E4%BA%9A%E9%81%AD%E9%A3%93%E9%A3%8E%E8%A2%AD%E5%87%BB+%E5%A4%A9%E7%A9%BA%E4%B8%80%E7%89%87%E2%80%9C%E8%A1%80%E7%BA%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [利比亚洪灾已致超5000人遇难](https://www.baidu.com/s?wd=%E5%88%A9%E6%AF%94%E4%BA%9A%E6%B4%AA%E7%81%BE%E5%B7%B2%E8%87%B4%E8%B6%855000%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传深圳地震消息不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%9C%87%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
