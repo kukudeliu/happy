@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 21:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 21:38:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [高校开学校长寄语合集](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%BC%80%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%AF%84%E8%AF%AD%E5%90%88%E9%9B%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [外交部辟谣中国政府机关禁用苹果手机](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%9C%BA%E5%85%B3%E7%A6%81%E7%94%A8%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [李维嘉爸爸面对诈骗的思路](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%BB%B4%E5%98%89%E7%88%B8%E7%88%B8%E9%9D%A2%E5%AF%B9%E8%AF%88%E9%AA%97%E7%9A%84%E6%80%9D%E8%B7%AF&t=31&band_rank=5&Refer=top)<br />
-6. [你会花4300元买一支口红吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E8%8A%B14300%E5%85%83%E4%B9%B0%E4%B8%80%E6%94%AF%E5%8F%A3%E7%BA%A2%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [专家曾称外星人不敢来地球](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E6%9B%BE%E7%A7%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E4%B8%8D%E6%95%A2%E6%9D%A5%E5%9C%B0%E7%90%83%23&t=31&band_rank=7&Refer=top)<br />
+6. [专家曾称外星人不敢来地球](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E6%9B%BE%E7%A7%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E4%B8%8D%E6%95%A2%E6%9D%A5%E5%9C%B0%E7%90%83%23&t=31&band_rank=6&Refer=top)<br />
+7. [你会花4300元买一支口红吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E8%8A%B14300%E5%85%83%E4%B9%B0%E4%B8%80%E6%94%AF%E5%8F%A3%E7%BA%A2%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [制作方否认高铁化妆视频不尊重女性](https://s.weibo.com/weibo?q=%23%E5%88%B6%E4%BD%9C%E6%96%B9%E5%90%A6%E8%AE%A4%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%E8%A7%86%E9%A2%91%E4%B8%8D%E5%B0%8A%E9%87%8D%E5%A5%B3%E6%80%A7%23&t=31&band_rank=8&Refer=top)<br />
 9. [北极鲶鱼核查不予公开是否为权力的傲慢](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E6%A0%B8%E6%9F%A5%E4%B8%8D%E4%BA%88%E5%85%AC%E5%BC%80%E6%98%AF%E5%90%A6%E4%B8%BA%E6%9D%83%E5%8A%9B%E7%9A%84%E5%82%B2%E6%85%A2%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -23,8 +23,8 @@
 4. [中国代表团向亚运出发](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%90%91%E4%BA%9A%E8%BF%90%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [媒体：预制菜进校园不是一件小事](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E6%A0%A1%E5%9B%AD%E4%B8%8D%E6%98%AF%E4%B8%80%E4%BB%B6%E5%B0%8F%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [四川一塔吊作业时倾倒 已致6人死亡](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%A1%94%E5%90%8A%E4%BD%9C%E4%B8%9A%E6%97%B6%E5%80%BE%E5%80%92+%E5%B7%B2%E8%87%B46%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [与赖小民交往甚密的“老虎”获刑](https://www.baidu.com/s?wd=%E4%B8%8E%E8%B5%96%E5%B0%8F%E6%B0%91%E4%BA%A4%E5%BE%80%E7%94%9A%E5%AF%86%E7%9A%84%E2%80%9C%E8%80%81%E8%99%8E%E2%80%9D%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子发现女儿非亲生擅改亲子鉴定](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%93%85%E6%94%B9%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子发现女儿非亲生擅改亲子鉴定](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%93%85%E6%94%B9%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国家一级演员苏孝林被决定逮捕](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%BC%94%E5%91%98%E8%8B%8F%E5%AD%9D%E6%9E%97%E8%A2%AB%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川凉山山体大面积垮塌为假消息](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E5%B1%B1%E4%BD%93%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%9E%AE%E5%A1%8C%E4%B8%BA%E5%81%87%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [中国代表团向亚运出发](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%90%91%E4%BA%9A%E8%BF%90%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [媒体：预制菜进校园不是一件小事](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E6%A0%A1%E5%9B%AD%E4%B8%8D%E6%98%AF%E4%B8%80%E4%BB%B6%E5%B0%8F%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [四川一塔吊作业时倾倒 已致6人死亡](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%A1%94%E5%90%8A%E4%BD%9C%E4%B8%9A%E6%97%B6%E5%80%BE%E5%80%92+%E5%B7%B2%E8%87%B46%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [与赖小民交往甚密的“老虎”获刑](https://www.baidu.com/s?wd=%E4%B8%8E%E8%B5%96%E5%B0%8F%E6%B0%91%E4%BA%A4%E5%BE%80%E7%94%9A%E5%AF%86%E7%9A%84%E2%80%9C%E8%80%81%E8%99%8E%E2%80%9D%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子发现女儿非亲生擅改亲子鉴定](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%93%85%E6%94%B9%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子发现女儿非亲生擅改亲子鉴定](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%93%85%E6%94%B9%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国家一级演员苏孝林被决定逮捕](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%BC%94%E5%91%98%E8%8B%8F%E5%AD%9D%E6%9E%97%E8%A2%AB%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川凉山山体大面积垮塌为假消息](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E5%B1%B1%E4%BD%93%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%9E%AE%E5%A1%8C%E4%B8%BA%E5%81%87%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
