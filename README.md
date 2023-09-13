@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 10:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 10:23:02</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [蜜雪冰城又被新兵攻陷了](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%8F%88%E8%A2%AB%E6%96%B0%E5%85%B5%E6%94%BB%E9%99%B7%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [惊艳了整个秋天的丰收色](https://s.weibo.com/weibo?q=%23%E6%83%8A%E8%89%B3%E4%BA%86%E6%95%B4%E4%B8%AA%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%B8%B0%E6%94%B6%E8%89%B2%23&t=31&band_rank=3&Refer=top)<br />
 4. [才发现朋友圈发多了会折叠](https://s.weibo.com/weibo?q=%23%E6%89%8D%E5%8F%91%E7%8E%B0%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E5%A4%9A%E4%BA%86%E4%BC%9A%E6%8A%98%E5%8F%A0%23&t=31&band_rank=4&Refer=top)<br />
-5. [扁桃体结石 龙涎香](https://s.weibo.com/weibo?q=%E6%89%81%E6%A1%83%E4%BD%93%E7%BB%93%E7%9F%B3%20%E9%BE%99%E6%B6%8E%E9%A6%99&t=31&band_rank=5&Refer=top)<br />
-6. [法院回应鹤岗女子还贷10年房子被占](https://s.weibo.com/weibo?q=%23%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%94%E9%B9%A4%E5%B2%97%E5%A5%B3%E5%AD%90%E8%BF%98%E8%B4%B710%E5%B9%B4%E6%88%BF%E5%AD%90%E8%A2%AB%E5%8D%A0%23&t=31&band_rank=6&Refer=top)<br />
-7. [向佐发长文回应为什么不躺平](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%8F%91%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%BA%BA%E5%B9%B3%23&t=31&band_rank=7&Refer=top)<br />
-8. [日本计划明年3月底前排放4轮核污染水](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%AE%A1%E5%88%92%E6%98%8E%E5%B9%B43%E6%9C%88%E5%BA%95%E5%89%8D%E6%8E%92%E6%94%BE4%E8%BD%AE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%23&t=31&band_rank=8&Refer=top)<br />
+5. [法院回应鹤岗女子还贷10年房子被占](https://s.weibo.com/weibo?q=%23%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%94%E9%B9%A4%E5%B2%97%E5%A5%B3%E5%AD%90%E8%BF%98%E8%B4%B710%E5%B9%B4%E6%88%BF%E5%AD%90%E8%A2%AB%E5%8D%A0%23&t=31&band_rank=5&Refer=top)<br />
+6. [扁桃体结石 龙涎香](https://s.weibo.com/weibo?q=%E6%89%81%E6%A1%83%E4%BD%93%E7%BB%93%E7%9F%B3%20%E9%BE%99%E6%B6%8E%E9%A6%99&t=31&band_rank=6&Refer=top)<br />
+7. [日本计划明年3月底前排放4轮核污染水](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%AE%A1%E5%88%92%E6%98%8E%E5%B9%B43%E6%9C%88%E5%BA%95%E5%89%8D%E6%8E%92%E6%94%BE4%E8%BD%AE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [向佐发长文回应为什么不躺平](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%8F%91%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%BA%BA%E5%B9%B3%23&t=31&band_rank=8&Refer=top)<br />
 9. [这4种面包真的建议少吃](https://s.weibo.com/weibo?q=%E8%BF%994%E7%A7%8D%E9%9D%A2%E5%8C%85%E7%9C%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%E5%B0%91%E5%90%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
