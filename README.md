@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 04:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 04:30:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [中国代表团向亚运出发](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%90%91%E4%BA%9A%E8%BF%90%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [叙利亚队曾被发现逛中国49元小摊](https://www.baidu.com/s?wd=%E5%8F%99%E5%88%A9%E4%BA%9A%E9%98%9F%E6%9B%BE%E8%A2%AB%E5%8F%91%E7%8E%B0%E9%80%9B%E4%B8%AD%E5%9B%BD49%E5%85%83%E5%B0%8F%E6%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国家一级演员苏孝林被决定逮捕](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%BC%94%E5%91%98%E8%8B%8F%E5%AD%9D%E6%9E%97%E8%A2%AB%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本排海首轮结束 当地现状如何](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8E%92%E6%B5%B7%E9%A6%96%E8%BD%AE%E7%BB%93%E6%9D%9F+%E5%BD%93%E5%9C%B0%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医院回应出具智商偏低体检报告](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%87%BA%E5%85%B7%E6%99%BA%E5%95%86%E5%81%8F%E4%BD%8E%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [多地网友称看到“不明飞行物”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%9C%8B%E5%88%B0%E2%80%9C%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川凉山山体大面积垮塌为假消息](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E5%B1%B1%E4%BD%93%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%9E%AE%E5%A1%8C%E4%B8%BA%E5%81%87%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [中国代表团向亚运出发](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%90%91%E4%BA%9A%E8%BF%90%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [叙利亚队曾被发现逛中国49元小摊](https://www.baidu.com/s?wd=%E5%8F%99%E5%88%A9%E4%BA%9A%E9%98%9F%E6%9B%BE%E8%A2%AB%E5%8F%91%E7%8E%B0%E9%80%9B%E4%B8%AD%E5%9B%BD49%E5%85%83%E5%B0%8F%E6%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国家一级演员苏孝林被决定逮捕](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%BC%94%E5%91%98%E8%8B%8F%E5%AD%9D%E6%9E%97%E8%A2%AB%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本排海首轮结束 当地现状如何](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8E%92%E6%B5%B7%E9%A6%96%E8%BD%AE%E7%BB%93%E6%9D%9F+%E5%BD%93%E5%9C%B0%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医院回应出具智商偏低体检报告](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%87%BA%E5%85%B7%E6%99%BA%E5%95%86%E5%81%8F%E4%BD%8E%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [多地网友称看到“不明飞行物”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%9C%8B%E5%88%B0%E2%80%9C%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川凉山山体大面积垮塌为假消息](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E5%B1%B1%E4%BD%93%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%9E%AE%E5%A1%8C%E4%B8%BA%E5%81%87%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
