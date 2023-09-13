@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 22:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 22:42:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [交通局拒绝公开前局长孙女炫富调查结果](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E9%80%9A%E5%B1%80%E6%8B%92%E7%BB%9D%E5%85%AC%E5%BC%80%E5%89%8D%E5%B1%80%E9%95%BF%E5%AD%99%E5%A5%B3%E7%82%AB%E5%AF%8C%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [一诺](https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA&t=31&band_rank=6&Refer=top)<br />
 7. [国家一级演员苏孝林被决定逮捕](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%BC%94%E5%91%98%E8%8B%8F%E5%AD%9D%E6%9E%97%E8%A2%AB%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95%23&t=31&band_rank=7&Refer=top)<br />
-8. [成毅发了2018年的文案](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%8F%91%E4%BA%862018%E5%B9%B4%E7%9A%84%E6%96%87%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [NARS](https://s.weibo.com/weibo?q=NARS&t=31&band_rank=9&Refer=top)<br />
+8. [NARS](https://s.weibo.com/weibo?q=NARS&t=31&band_rank=8&Refer=top)<br />
+9. [成毅发了2018年的文案](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%8F%91%E4%BA%862018%E5%B9%B4%E7%9A%84%E6%96%87%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
