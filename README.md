@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 15:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 15:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [无效刷牙](https://s.weibo.com/weibo?q=%E6%97%A0%E6%95%88%E5%88%B7%E7%89%99&t=31&band_rank=6&Refer=top)<br />
 7. [魏大勋李庚希拍吻戏](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%9D%8E%E5%BA%9A%E5%B8%8C%E6%8B%8D%E5%90%BB%E6%88%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [泰国对中国实施5个月免签政策](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%AE%9E%E6%96%BD5%E4%B8%AA%E6%9C%88%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [妇产科真的很考验心理素质](https://s.weibo.com/weibo?q=%23%E5%A6%87%E4%BA%A7%E7%A7%91%E7%9C%9F%E7%9A%84%E5%BE%88%E8%80%83%E9%AA%8C%E5%BF%83%E7%90%86%E7%B4%A0%E8%B4%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [华为小米达成全球专利交叉许可协议](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E8%BE%BE%E6%88%90%E5%85%A8%E7%90%83%E4%B8%93%E5%88%A9%E4%BA%A4%E5%8F%89%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
