@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 01:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 01:40:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [库迪和瑞幸的商战](https://s.weibo.com/weibo?q=%E5%BA%93%E8%BF%AA%E5%92%8C%E7%91%9E%E5%B9%B8%E7%9A%84%E5%95%86%E6%88%98&t=31&band_rank=5&Refer=top)<br />
 6. [专家曾称外星人不敢来地球](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E6%9B%BE%E7%A7%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E4%B8%8D%E6%95%A2%E6%9D%A5%E5%9C%B0%E7%90%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [交通局拒绝公开前局长孙女炫富调查结果](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E9%80%9A%E5%B1%80%E6%8B%92%E7%BB%9D%E5%85%AC%E5%BC%80%E5%89%8D%E5%B1%80%E9%95%BF%E5%AD%99%E5%A5%B3%E7%82%AB%E5%AF%8C%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [国货 团结](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B4%A7%20%E5%9B%A2%E7%BB%93&t=31&band_rank=8&Refer=top)<br />
-9. [武大靖 500的神](https://s.weibo.com/weibo?q=%E6%AD%A6%E5%A4%A7%E9%9D%96%20500%E7%9A%84%E7%A5%9E&t=31&band_rank=9&Refer=top)<br />
+8. [武大靖 500的神](https://s.weibo.com/weibo?q=%E6%AD%A6%E5%A4%A7%E9%9D%96%20500%E7%9A%84%E7%A5%9E&t=31&band_rank=8&Refer=top)<br />
+9. [国货 团结](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B4%A7%20%E5%9B%A2%E7%BB%93&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
