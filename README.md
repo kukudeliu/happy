@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 19:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 19:48:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [你会花4300元买一支口红吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E8%8A%B14300%E5%85%83%E4%B9%B0%E4%B8%80%E6%94%AF%E5%8F%A3%E7%BA%A2%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [丈夫瘫痪妻子说该我为这个家付出了](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E7%98%AB%E7%97%AA%E5%A6%BB%E5%AD%90%E8%AF%B4%E8%AF%A5%E6%88%91%E4%B8%BA%E8%BF%99%E4%B8%AA%E5%AE%B6%E4%BB%98%E5%87%BA%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [小杨哥称没资格飘](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E7%A7%B0%E6%B2%A1%E8%B5%84%E6%A0%BC%E9%A3%98%23&t=31&band_rank=6&Refer=top)<br />
-7. [虞书欣回应分开上hi6的原因](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%9E%E5%BA%94%E5%88%86%E5%BC%80%E4%B8%8Ahi6%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [不散装的浙江](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%95%A3%E8%A3%85%E7%9A%84%E6%B5%99%E6%B1%9F%23&t=31&band_rank=8&Refer=top)<br />
+7. [不散装的浙江](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%95%A3%E8%A3%85%E7%9A%84%E6%B5%99%E6%B1%9F%23&t=31&band_rank=7&Refer=top)<br />
+8. [虞书欣回应分开上hi6的原因](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%9E%E5%BA%94%E5%88%86%E5%BC%80%E4%B8%8Ahi6%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=8&Refer=top)<br />
 9. [消失的大学专业](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
