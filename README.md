@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 15:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 15:40:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [杭州亚运会开幕倒计时10天](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%80%92%E8%AE%A1%E6%97%B610%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [男子发现女儿非亲生伪造亲子鉴定落户](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E9%9D%9E%E4%BA%B2%E7%94%9F%E4%BC%AA%E9%80%A0%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E8%90%BD%E6%88%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [华为小米达成全球专利交叉许可协议](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E8%BE%BE%E6%88%90%E5%85%A8%E7%90%83%E4%B8%93%E5%88%A9%E4%BA%A4%E5%8F%89%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=5&Refer=top)<br />
-6. [普京称俄罗斯已准备迎接长期战争](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%B2%E5%87%86%E5%A4%87%E8%BF%8E%E6%8E%A5%E9%95%BF%E6%9C%9F%E6%88%98%E4%BA%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [魏大勋李庚希拍吻戏](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%9D%8E%E5%BA%9A%E5%B8%8C%E6%8B%8D%E5%90%BB%E6%88%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [无效刷牙](https://s.weibo.com/weibo?q=%E6%97%A0%E6%95%88%E5%88%B7%E7%89%99&t=31&band_rank=8&Refer=top)<br />
-9. [泰国对中国实施5个月免签政策](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%AE%9E%E6%96%BD5%E4%B8%AA%E6%9C%88%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%23&t=31&band_rank=9&Refer=top)<br />
+6. [无效刷牙](https://s.weibo.com/weibo?q=%E6%97%A0%E6%95%88%E5%88%B7%E7%89%99&t=31&band_rank=6&Refer=top)<br />
+7. [普京称俄罗斯已准备迎接长期战争](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%B2%E5%87%86%E5%A4%87%E8%BF%8E%E6%8E%A5%E9%95%BF%E6%9C%9F%E6%88%98%E4%BA%89%23&t=31&band_rank=7&Refer=top)<br />
+8. [魏大勋李庚希拍吻戏](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%9D%8E%E5%BA%9A%E5%B8%8C%E6%8B%8D%E5%90%BB%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
+9. [华为Mate60是如何逆袭的](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate60%E6%98%AF%E5%A6%82%E4%BD%95%E9%80%86%E8%A2%AD%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
