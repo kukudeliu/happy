@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 18:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 18:42:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [麦卡锡宣布对拜登弹劾开启 白宫回应](https://www.baidu.com/s?wd=%E9%BA%A6%E5%8D%A1%E9%94%A1%E5%AE%A3%E5%B8%83%E5%AF%B9%E6%8B%9C%E7%99%BB%E5%BC%B9%E5%8A%BE%E5%BC%80%E5%90%AF+%E7%99%BD%E5%AE%AB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运会开幕式倒计时短片发布](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%80%92%E8%AE%A1%E6%97%B6%E7%9F%AD%E7%89%87%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高中生装官二代骗北大女生?校方回应](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E7%94%9F%E8%A3%85%E5%AE%98%E4%BA%8C%E4%BB%A3%E9%AA%97%E5%8C%97%E5%A4%A7%E5%A5%B3%E7%94%9F%3F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [俄罗斯为金正恩举行国宴 菜单曝光](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%BA%E9%87%91%E6%AD%A3%E6%81%A9%E4%B8%BE%E8%A1%8C%E5%9B%BD%E5%AE%B4+%E8%8F%9C%E5%8D%95%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广州城中村“电费刺客”凶猛](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%9F%8E%E4%B8%AD%E6%9D%91%E2%80%9C%E7%94%B5%E8%B4%B9%E5%88%BA%E5%AE%A2%E2%80%9D%E5%87%B6%E7%8C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子拐卖11名儿童 检方建议死刑](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8B%90%E5%8D%9611%E5%90%8D%E5%84%BF%E7%AB%A5+%E6%A3%80%E6%96%B9%E5%BB%BA%E8%AE%AE%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [媒体：预制菜进校园不是一件小事](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E6%A0%A1%E5%9B%AD%E4%B8%8D%E6%98%AF%E4%B8%80%E4%BB%B6%E5%B0%8F%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [俄罗斯为金正恩举行国宴 菜单曝光](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%BA%E9%87%91%E6%AD%A3%E6%81%A9%E4%B8%BE%E8%A1%8C%E5%9B%BD%E5%AE%B4+%E8%8F%9C%E5%8D%95%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广州城中村“电费刺客”凶猛](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%9F%8E%E4%B8%AD%E6%9D%91%E2%80%9C%E7%94%B5%E8%B4%B9%E5%88%BA%E5%AE%A2%E2%80%9D%E5%87%B6%E7%8C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高铁化妆是不文明行为？官方辟谣](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%E6%98%AF%E4%B8%8D%E6%96%87%E6%98%8E%E8%A1%8C%E4%B8%BA%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [麦卡锡宣布对拜登弹劾开启 白宫回应](https://www.baidu.com/s?wd=%E9%BA%A6%E5%8D%A1%E9%94%A1%E5%AE%A3%E5%B8%83%E5%AF%B9%E6%8B%9C%E7%99%BB%E5%BC%B9%E5%8A%BE%E5%BC%80%E5%90%AF+%E7%99%BD%E5%AE%AB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运会开幕式倒计时短片发布](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%80%92%E8%AE%A1%E6%97%B6%E7%9F%AD%E7%89%87%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高中生装官二代骗北大女生?校方回应](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E7%94%9F%E8%A3%85%E5%AE%98%E4%BA%8C%E4%BB%A3%E9%AA%97%E5%8C%97%E5%A4%A7%E5%A5%B3%E7%94%9F%3F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [俄罗斯为金正恩举行国宴 菜单曝光](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%BA%E9%87%91%E6%AD%A3%E6%81%A9%E4%B8%BE%E8%A1%8C%E5%9B%BD%E5%AE%B4+%E8%8F%9C%E5%8D%95%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广州城中村“电费刺客”凶猛](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%9F%8E%E4%B8%AD%E6%9D%91%E2%80%9C%E7%94%B5%E8%B4%B9%E5%88%BA%E5%AE%A2%E2%80%9D%E5%87%B6%E7%8C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子拐卖11名儿童 检方建议死刑](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8B%90%E5%8D%9611%E5%90%8D%E5%84%BF%E7%AB%A5+%E6%A3%80%E6%96%B9%E5%BB%BA%E8%AE%AE%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [媒体：预制菜进校园不是一件小事](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E6%A0%A1%E5%9B%AD%E4%B8%8D%E6%98%AF%E4%B8%80%E4%BB%B6%E5%B0%8F%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [俄罗斯为金正恩举行国宴 菜单曝光](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%BA%E9%87%91%E6%AD%A3%E6%81%A9%E4%B8%BE%E8%A1%8C%E5%9B%BD%E5%AE%B4+%E8%8F%9C%E5%8D%95%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广州城中村“电费刺客”凶猛](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%9F%8E%E4%B8%AD%E6%9D%91%E2%80%9C%E7%94%B5%E8%B4%B9%E5%88%BA%E5%AE%A2%E2%80%9D%E5%87%B6%E7%8C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高铁化妆是不文明行为？官方辟谣](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%E6%98%AF%E4%B8%8D%E6%96%87%E6%98%8E%E8%A1%8C%E4%B8%BA%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
