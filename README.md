@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 09:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 09:59:02</h4></div>
 
 > 微博  
 
-1. [蜜雪冰城又被新兵攻陷了](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%8F%88%E8%A2%AB%E6%96%B0%E5%85%B5%E6%94%BB%E9%99%B7%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [优酷他急了](https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E4%BB%96%E6%80%A5%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [优酷他急了](https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E4%BB%96%E6%80%A5%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [蜜雪冰城又被新兵攻陷了](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%8F%88%E8%A2%AB%E6%96%B0%E5%85%B5%E6%94%BB%E9%99%B7%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [惊艳了整个秋天的丰收色](https://s.weibo.com/weibo?q=%23%E6%83%8A%E8%89%B3%E4%BA%86%E6%95%B4%E4%B8%AA%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%B8%B0%E6%94%B6%E8%89%B2%23&t=31&band_rank=3&Refer=top)<br />
 4. [才发现朋友圈发多了会折叠](https://s.weibo.com/weibo?q=%23%E6%89%8D%E5%8F%91%E7%8E%B0%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E5%A4%9A%E4%BA%86%E4%BC%9A%E6%8A%98%E5%8F%A0%23&t=31&band_rank=4&Refer=top)<br />
 5. [扁桃体结石 龙涎香](https://s.weibo.com/weibo?q=%E6%89%81%E6%A1%83%E4%BD%93%E7%BB%93%E7%9F%B3%20%E9%BE%99%E6%B6%8E%E9%A6%99&t=31&band_rank=5&Refer=top)<br />
@@ -23,8 +23,8 @@
 4. [金融数据企稳回升](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E6%95%B0%E6%8D%AE%E4%BC%81%E7%A8%B3%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子打工还清10年房贷房子却被占](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%89%93%E5%B7%A5%E8%BF%98%E6%B8%8510%E5%B9%B4%E6%88%BF%E8%B4%B7%E6%88%BF%E5%AD%90%E5%8D%B4%E8%A2%AB%E5%8D%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子为炫富烧100元点烟被罚1万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E7%82%AB%E5%AF%8C%E7%83%A7100%E5%85%83%E7%82%B9%E7%83%9F%E8%A2%AB%E7%BD%9A1%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [媒体评校外培训“变异”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E2%80%9C%E5%8F%98%E5%BC%82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学校推荐的高薪工作竟是跨境赌博](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E6%8E%A8%E8%8D%90%E7%9A%84%E9%AB%98%E8%96%AA%E5%B7%A5%E4%BD%9C%E7%AB%9F%E6%98%AF%E8%B7%A8%E5%A2%83%E8%B5%8C%E5%8D%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [学校推荐的高薪工作竟是跨境赌博](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E6%8E%A8%E8%8D%90%E7%9A%84%E9%AB%98%E8%96%AA%E5%B7%A5%E4%BD%9C%E7%AB%9F%E6%98%AF%E8%B7%A8%E5%A2%83%E8%B5%8C%E5%8D%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [12306回应女子买高铁二等座要毛毯](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%B9%B0%E9%AB%98%E9%93%81%E4%BA%8C%E7%AD%89%E5%BA%A7%E8%A6%81%E6%AF%9B%E6%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传深圳地震消息不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%9C%87%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [金融数据企稳回升](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E6%95%B0%E6%8D%AE%E4%BC%81%E7%A8%B3%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子打工还清10年房贷房子却被占](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%89%93%E5%B7%A5%E8%BF%98%E6%B8%8510%E5%B9%B4%E6%88%BF%E8%B4%B7%E6%88%BF%E5%AD%90%E5%8D%B4%E8%A2%AB%E5%8D%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子为炫富烧100元点烟被罚1万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E7%82%AB%E5%AF%8C%E7%83%A7100%E5%85%83%E7%82%B9%E7%83%9F%E8%A2%AB%E7%BD%9A1%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [媒体评校外培训“变异”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E2%80%9C%E5%8F%98%E5%BC%82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学校推荐的高薪工作竟是跨境赌博](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E6%8E%A8%E8%8D%90%E7%9A%84%E9%AB%98%E8%96%AA%E5%B7%A5%E4%BD%9C%E7%AB%9F%E6%98%AF%E8%B7%A8%E5%A2%83%E8%B5%8C%E5%8D%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [学校推荐的高薪工作竟是跨境赌博](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E6%8E%A8%E8%8D%90%E7%9A%84%E9%AB%98%E8%96%AA%E5%B7%A5%E4%BD%9C%E7%AB%9F%E6%98%AF%E8%B7%A8%E5%A2%83%E8%B5%8C%E5%8D%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [12306回应女子买高铁二等座要毛毯](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%B9%B0%E9%AB%98%E9%93%81%E4%BA%8C%E7%AD%89%E5%BA%A7%E8%A6%81%E6%AF%9B%E6%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传深圳地震消息不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%9C%87%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
