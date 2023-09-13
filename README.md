@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 16:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 16:26:01</h4></div>
 
 > 微博  
 
-1. [高铁化妆](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [演员滕汝骏去世](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E6%BB%95%E6%B1%9D%E9%AA%8F%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
+1. [演员滕汝骏去世](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E6%BB%95%E6%B1%9D%E9%AA%8F%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
+2. [高铁化妆](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国首艘国产大型邮轮试航成功](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E8%89%98%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%E8%AF%95%E8%88%AA%E6%88%90%E5%8A%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [口臭的源头可能是扁桃体结石](https://s.weibo.com/weibo?q=%23%E5%8F%A3%E8%87%AD%E7%9A%84%E6%BA%90%E5%A4%B4%E5%8F%AF%E8%83%BD%E6%98%AF%E6%89%81%E6%A1%83%E4%BD%93%E7%BB%93%E7%9F%B3%23&t=31&band_rank=4&Refer=top)<br />
 5. [云之羽扫楼跳虞书欣ohmy](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E6%89%AB%E6%A5%BC%E8%B7%B3%E8%99%9E%E4%B9%A6%E6%AC%A3ohmy%23&t=31&band_rank=5&Refer=top)<br />
