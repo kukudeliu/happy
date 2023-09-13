@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 06:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 06:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国家一级演员苏孝林被决定逮捕](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%BC%94%E5%91%98%E8%8B%8F%E5%AD%9D%E6%9E%97%E8%A2%AB%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [70岁房东失联租客察觉不对果断报警](https://s.weibo.com/weibo?q=%2370%E5%B2%81%E6%88%BF%E4%B8%9C%E5%A4%B1%E8%81%94%E7%A7%9F%E5%AE%A2%E5%AF%9F%E8%A7%89%E4%B8%8D%E5%AF%B9%E6%9E%9C%E6%96%AD%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [专家曾称外星人不敢来地球](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E6%9B%BE%E7%A7%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E4%B8%8D%E6%95%A2%E6%9D%A5%E5%9C%B0%E7%90%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [中式老钱风](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%BC%8F%E8%80%81%E9%92%B1%E9%A3%8E&t=31&band_rank=9&Refer=top)<br />
+9. [外交部辟谣中国政府机关禁用苹果手机](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%9C%BA%E5%85%B3%E7%A6%81%E7%94%A8%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
