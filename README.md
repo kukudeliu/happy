@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 20:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 20:55:01</h4></div>
 
 > 微博  
 
@@ -20,7 +20,7 @@
 1. [牢记总书记这些话](https://www.baidu.com/s?wd=%E7%89%A2%E8%AE%B0%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [欧盟拟对华电动汽车启动反补贴调查](https://www.baidu.com/s?wd=%E6%AC%A7%E7%9B%9F%E6%8B%9F%E5%AF%B9%E5%8D%8E%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%90%AF%E5%8A%A8%E5%8F%8D%E8%A1%A5%E8%B4%B4%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [媒体：预制菜进校园不是一件小事](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E6%A0%A1%E5%9B%AD%E4%B8%8D%E6%98%AF%E4%B8%80%E4%BB%B6%E5%B0%8F%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [亚运会开幕式倒计时短片发布](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%80%92%E8%AE%A1%E6%97%B6%E7%9F%AD%E7%89%87%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [中国代表团向亚运出发](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%90%91%E4%BA%9A%E8%BF%90%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [外交部:中国未出台禁用苹果手机政策](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%3A%E4%B8%AD%E5%9B%BD%E6%9C%AA%E5%87%BA%E5%8F%B0%E7%A6%81%E7%94%A8%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%94%BF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [四川一塔吊作业时倾倒 已致6人死亡](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%A1%94%E5%90%8A%E4%BD%9C%E4%B8%9A%E6%97%B6%E5%80%BE%E5%80%92+%E5%B7%B2%E8%87%B46%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国家一级演员苏孝林被决定逮捕](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%BC%94%E5%91%98%E8%8B%8F%E5%AD%9D%E6%9E%97%E8%A2%AB%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -32,7 +32,7 @@
 1. [牢记总书记这些话](https://www.baidu.com/s?wd=%E7%89%A2%E8%AE%B0%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [欧盟拟对华电动汽车启动反补贴调查](https://www.baidu.com/s?wd=%E6%AC%A7%E7%9B%9F%E6%8B%9F%E5%AF%B9%E5%8D%8E%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%90%AF%E5%8A%A8%E5%8F%8D%E8%A1%A5%E8%B4%B4%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [媒体：预制菜进校园不是一件小事](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E6%A0%A1%E5%9B%AD%E4%B8%8D%E6%98%AF%E4%B8%80%E4%BB%B6%E5%B0%8F%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [亚运会开幕式倒计时短片发布](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%80%92%E8%AE%A1%E6%97%B6%E7%9F%AD%E7%89%87%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [中国代表团向亚运出发](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%90%91%E4%BA%9A%E8%BF%90%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [外交部:中国未出台禁用苹果手机政策](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%3A%E4%B8%AD%E5%9B%BD%E6%9C%AA%E5%87%BA%E5%8F%B0%E7%A6%81%E7%94%A8%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%94%BF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [四川一塔吊作业时倾倒 已致6人死亡](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%A1%94%E5%90%8A%E4%BD%9C%E4%B8%9A%E6%97%B6%E5%80%BE%E5%80%92+%E5%B7%B2%E8%87%B46%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国家一级演员苏孝林被决定逮捕](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%BC%94%E5%91%98%E8%8B%8F%E5%AD%9D%E6%9E%97%E8%A2%AB%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
