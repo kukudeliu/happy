@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 14:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 14:26:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [牢记总书记这些话](https://www.baidu.com/s?wd=%E7%89%A2%E8%AE%B0%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [蜂花蹲热点引发行业人士反感](https://www.baidu.com/s?wd=%E8%9C%82%E8%8A%B1%E8%B9%B2%E7%83%AD%E7%82%B9%E5%BC%95%E5%8F%91%E8%A1%8C%E4%B8%9A%E4%BA%BA%E5%A3%AB%E5%8F%8D%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [官方：大型演出实名购票实名入场](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E5%A4%A7%E5%9E%8B%E6%BC%94%E5%87%BA%E5%AE%9E%E5%90%8D%E8%B4%AD%E7%A5%A8%E5%AE%9E%E5%90%8D%E5%85%A5%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [泰国对中国实施5个月免签政策](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%AE%9E%E6%96%BD5%E4%B8%AA%E6%9C%88%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [杭州亚运会倒计时10天](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%80%92%E8%AE%A1%E6%97%B610%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [武汉一公交车突发意外致2死3伤](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E4%B8%80%E5%85%AC%E4%BA%A4%E8%BD%A6%E7%AA%81%E5%8F%91%E6%84%8F%E5%A4%96%E8%87%B42%E6%AD%BB3%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [牢记总书记这些话](https://www.baidu.com/s?wd=%E7%89%A2%E8%AE%B0%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [蜂花蹲热点引发行业人士反感](https://www.baidu.com/s?wd=%E8%9C%82%E8%8A%B1%E8%B9%B2%E7%83%AD%E7%82%B9%E5%BC%95%E5%8F%91%E8%A1%8C%E4%B8%9A%E4%BA%BA%E5%A3%AB%E5%8F%8D%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [官方：大型演出实名购票实名入场](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E5%A4%A7%E5%9E%8B%E6%BC%94%E5%87%BA%E5%AE%9E%E5%90%8D%E8%B4%AD%E7%A5%A8%E5%AE%9E%E5%90%8D%E5%85%A5%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [泰国对中国实施5个月免签政策](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%AE%9E%E6%96%BD5%E4%B8%AA%E6%9C%88%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [杭州亚运会倒计时10天](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%80%92%E8%AE%A1%E6%97%B610%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [武汉一公交车突发意外致2死3伤](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E4%B8%80%E5%85%AC%E4%BA%A4%E8%BD%A6%E7%AA%81%E5%8F%91%E6%84%8F%E5%A4%96%E8%87%B42%E6%AD%BB3%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
