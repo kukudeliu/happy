@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 10:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 10:50:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [才发现朋友圈发多了会折叠](https://www.baidu.com/s?wd=%E6%89%8D%E5%8F%91%E7%8E%B0%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E5%A4%9A%E4%BA%86%E4%BC%9A%E6%8A%98%E5%8F%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京：俄罗斯已准备迎接长期战争](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%B2%E5%87%86%E5%A4%87%E8%BF%8E%E6%8E%A5%E9%95%BF%E6%9C%9F%E6%88%98%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子为炫富烧100元点烟被罚1万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E7%82%AB%E5%AF%8C%E7%83%A7100%E5%85%83%E7%82%B9%E7%83%9F%E8%A2%AB%E7%BD%9A1%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [江苏多企业退出政府融资平台](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%A4%9A%E4%BC%81%E4%B8%9A%E9%80%80%E5%87%BA%E6%94%BF%E5%BA%9C%E8%9E%8D%E8%B5%84%E5%B9%B3%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广州城中村“电费刺客”凶猛](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%9F%8E%E4%B8%AD%E6%9D%91%E2%80%9C%E7%94%B5%E8%B4%B9%E5%88%BA%E5%AE%A2%E2%80%9D%E5%87%B6%E7%8C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传深圳地震消息不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%9C%87%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [才发现朋友圈发多了会折叠](https://www.baidu.com/s?wd=%E6%89%8D%E5%8F%91%E7%8E%B0%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E5%A4%9A%E4%BA%86%E4%BC%9A%E6%8A%98%E5%8F%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京：俄罗斯已准备迎接长期战争](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%B2%E5%87%86%E5%A4%87%E8%BF%8E%E6%8E%A5%E9%95%BF%E6%9C%9F%E6%88%98%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子为炫富烧100元点烟被罚1万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E7%82%AB%E5%AF%8C%E7%83%A7100%E5%85%83%E7%82%B9%E7%83%9F%E8%A2%AB%E7%BD%9A1%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [江苏多企业退出政府融资平台](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%A4%9A%E4%BC%81%E4%B8%9A%E9%80%80%E5%87%BA%E6%94%BF%E5%BA%9C%E8%9E%8D%E8%B5%84%E5%B9%B3%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广州城中村“电费刺客”凶猛](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%9F%8E%E4%B8%AD%E6%9D%91%E2%80%9C%E7%94%B5%E8%B4%B9%E5%88%BA%E5%AE%A2%E2%80%9D%E5%87%B6%E7%8C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传深圳地震消息不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%9C%87%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
