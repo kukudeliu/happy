@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 15:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 15:32:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [华为小米达成全球专利交叉许可协议](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E8%BE%BE%E6%88%90%E5%85%A8%E7%90%83%E4%B8%93%E5%88%A9%E4%BA%A4%E5%8F%89%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=5&Refer=top)<br />
 6. [普京称俄罗斯已准备迎接长期战争](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%B2%E5%87%86%E5%A4%87%E8%BF%8E%E6%8E%A5%E9%95%BF%E6%9C%9F%E6%88%98%E4%BA%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [魏大勋李庚希拍吻戏](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%9D%8E%E5%BA%9A%E5%B8%8C%E6%8B%8D%E5%90%BB%E6%88%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [多个账号为劣迹艺人洗白鸣冤被处理](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%B8%AA%E8%B4%A6%E5%8F%B7%E4%B8%BA%E5%8A%A3%E8%BF%B9%E8%89%BA%E4%BA%BA%E6%B4%97%E7%99%BD%E9%B8%A3%E5%86%A4%E8%A2%AB%E5%A4%84%E7%90%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [无效刷牙](https://s.weibo.com/weibo?q=%E6%97%A0%E6%95%88%E5%88%B7%E7%89%99&t=31&band_rank=9&Refer=top)<br />
+8. [无效刷牙](https://s.weibo.com/weibo?q=%E6%97%A0%E6%95%88%E5%88%B7%E7%89%99&t=31&band_rank=8&Refer=top)<br />
+9. [泰国对中国实施5个月免签政策](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%AE%9E%E6%96%BD5%E4%B8%AA%E6%9C%88%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
