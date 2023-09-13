@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 20:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 20:20:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [你会花4300元买一支口红吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E8%8A%B14300%E5%85%83%E4%B9%B0%E4%B8%80%E6%94%AF%E5%8F%A3%E7%BA%A2%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [成都一塔吊作业时倾倒已致5人死亡](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E5%A1%94%E5%90%8A%E4%BD%9C%E4%B8%9A%E6%97%B6%E5%80%BE%E5%80%92%E5%B7%B2%E8%87%B45%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [10月是极好的辞职的季节](https://s.weibo.com/weibo?q=10%E6%9C%88%E6%98%AF%E6%9E%81%E5%A5%BD%E7%9A%84%E8%BE%9E%E8%81%8C%E7%9A%84%E5%AD%A3%E8%8A%82&t=31&band_rank=6&Refer=top)<br />
-7. [梦中的那片海](https://s.weibo.com/weibo?q=%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7&t=31&band_rank=7&Refer=top)<br />
-8. [高铁为疑似早产孕妇多停6分钟](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%BA%E7%96%91%E4%BC%BC%E6%97%A9%E4%BA%A7%E5%AD%95%E5%A6%87%E5%A4%9A%E5%81%9C6%E5%88%86%E9%92%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [北极鲶鱼核查不予公开是否为权力的傲慢](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E6%A0%B8%E6%9F%A5%E4%B8%8D%E4%BA%88%E5%85%AC%E5%BC%80%E6%98%AF%E5%90%A6%E4%B8%BA%E6%9D%83%E5%8A%9B%E7%9A%84%E5%82%B2%E6%85%A2%23&t=31&band_rank=9&Refer=top)<br />
+7. [北极鲶鱼核查不予公开是否为权力的傲慢](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E6%A0%B8%E6%9F%A5%E4%B8%8D%E4%BA%88%E5%85%AC%E5%BC%80%E6%98%AF%E5%90%A6%E4%B8%BA%E6%9D%83%E5%8A%9B%E7%9A%84%E5%82%B2%E6%85%A2%23&t=31&band_rank=7&Refer=top)<br />
+8. [梦中的那片海](https://s.weibo.com/weibo?q=%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7&t=31&band_rank=8&Refer=top)<br />
+9. [高铁为疑似早产孕妇多停6分钟](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%BA%E7%96%91%E4%BC%BC%E6%97%A9%E4%BA%A7%E5%AD%95%E5%A6%87%E5%A4%9A%E5%81%9C6%E5%88%86%E9%92%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
