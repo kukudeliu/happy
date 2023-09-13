@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 21:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 21:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [李维嘉爸爸面对诈骗的思路](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%BB%B4%E5%98%89%E7%88%B8%E7%88%B8%E9%9D%A2%E5%AF%B9%E8%AF%88%E9%AA%97%E7%9A%84%E6%80%9D%E8%B7%AF&t=31&band_rank=5&Refer=top)<br />
 6. [专家曾称外星人不敢来地球](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E6%9B%BE%E7%A7%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E4%B8%8D%E6%95%A2%E6%9D%A5%E5%9C%B0%E7%90%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [你会花4300元买一支口红吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E8%8A%B14300%E5%85%83%E4%B9%B0%E4%B8%80%E6%94%AF%E5%8F%A3%E7%BA%A2%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [制作方否认高铁化妆视频不尊重女性](https://s.weibo.com/weibo?q=%23%E5%88%B6%E4%BD%9C%E6%96%B9%E5%90%A6%E8%AE%A4%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%E8%A7%86%E9%A2%91%E4%B8%8D%E5%B0%8A%E9%87%8D%E5%A5%B3%E6%80%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [成毅发了2018年的文案](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%8F%91%E4%BA%862018%E5%B9%B4%E7%9A%84%E6%96%87%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
+8. [成毅发了2018年的文案](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%8F%91%E4%BA%862018%E5%B9%B4%E7%9A%84%E6%96%87%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [制作方否认高铁化妆视频不尊重女性](https://s.weibo.com/weibo?q=%23%E5%88%B6%E4%BD%9C%E6%96%B9%E5%90%A6%E8%AE%A4%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%E8%A7%86%E9%A2%91%E4%B8%8D%E5%B0%8A%E9%87%8D%E5%A5%B3%E6%80%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
