@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 08:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 08:45:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [蜜雪冰城又被新兵攻陷了](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%8F%88%E8%A2%AB%E6%96%B0%E5%85%B5%E6%94%BB%E9%99%B7%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [老人穿15元的鞋却给家乡捐了1000万](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%A9%BF15%E5%85%83%E7%9A%84%E9%9E%8B%E5%8D%B4%E7%BB%99%E5%AE%B6%E4%B9%A1%E6%8D%90%E4%BA%861000%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [月公子居然是左叶演的](https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%85%AC%E5%AD%90%E5%B1%85%E7%84%B6%E6%98%AF%E5%B7%A6%E5%8F%B6%E6%BC%94%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
-8. [华为发布会](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
-9. [Uzi薇恩臻彩](https://s.weibo.com/weibo?q=Uzi%E8%96%87%E6%81%A9%E8%87%BB%E5%BD%A9&t=31&band_rank=9&Refer=top)<br />
+8. [Uzi薇恩臻彩](https://s.weibo.com/weibo?q=Uzi%E8%96%87%E6%81%A9%E8%87%BB%E5%BD%A9&t=31&band_rank=8&Refer=top)<br />
+9. [4000万中央资金建3个项目竟全烂尾](https://s.weibo.com/weibo?q=%234000%E4%B8%87%E4%B8%AD%E5%A4%AE%E8%B5%84%E9%87%91%E5%BB%BA3%E4%B8%AA%E9%A1%B9%E7%9B%AE%E7%AB%9F%E5%85%A8%E7%83%82%E5%B0%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
