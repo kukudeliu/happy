@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 19:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 19:07:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [《封神》疑遭威尼斯电影节打脸](https://www.baidu.com/s?wd=%E3%80%8A%E5%B0%81%E7%A5%9E%E3%80%8B%E7%96%91%E9%81%AD%E5%A8%81%E5%B0%BC%E6%96%AF%E7%94%B5%E5%BD%B1%E8%8A%82%E6%89%93%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [与赖小民交往甚密的“老虎”获刑](https://www.baidu.com/s?wd=%E4%B8%8E%E8%B5%96%E5%B0%8F%E6%B0%91%E4%BA%A4%E5%BE%80%E7%94%9A%E5%AF%86%E7%9A%84%E2%80%9C%E8%80%81%E8%99%8E%E2%80%9D%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [媒体评校外培训“变异”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E2%80%9C%E5%8F%98%E5%BC%82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高铁化妆是不文明行为？官方辟谣](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%E6%98%AF%E4%B8%8D%E6%96%87%E6%98%8E%E8%A1%8C%E4%B8%BA%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [青岛有重要史料价值石刻遭水泥涂抹](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E6%9C%89%E9%87%8D%E8%A6%81%E5%8F%B2%E6%96%99%E4%BB%B7%E5%80%BC%E7%9F%B3%E5%88%BB%E9%81%AD%E6%B0%B4%E6%B3%A5%E6%B6%82%E6%8A%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [《封神》疑遭威尼斯电影节打脸](https://www.baidu.com/s?wd=%E3%80%8A%E5%B0%81%E7%A5%9E%E3%80%8B%E7%96%91%E9%81%AD%E5%A8%81%E5%B0%BC%E6%96%AF%E7%94%B5%E5%BD%B1%E8%8A%82%E6%89%93%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [与赖小民交往甚密的“老虎”获刑](https://www.baidu.com/s?wd=%E4%B8%8E%E8%B5%96%E5%B0%8F%E6%B0%91%E4%BA%A4%E5%BE%80%E7%94%9A%E5%AF%86%E7%9A%84%E2%80%9C%E8%80%81%E8%99%8E%E2%80%9D%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [媒体评校外培训“变异”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E2%80%9C%E5%8F%98%E5%BC%82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高铁化妆是不文明行为？官方辟谣](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%E6%98%AF%E4%B8%8D%E6%96%87%E6%98%8E%E8%A1%8C%E4%B8%BA%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [青岛有重要史料价值石刻遭水泥涂抹](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E6%9C%89%E9%87%8D%E8%A6%81%E5%8F%B2%E6%96%99%E4%BB%B7%E5%80%BC%E7%9F%B3%E5%88%BB%E9%81%AD%E6%B0%B4%E6%B3%A5%E6%B6%82%E6%8A%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
