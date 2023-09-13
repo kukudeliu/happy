@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 23:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 23:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国家一级演员苏孝林被决定逮捕](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%BC%94%E5%91%98%E8%8B%8F%E5%AD%9D%E6%9E%97%E8%A2%AB%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [一诺](https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA&t=31&band_rank=7&Refer=top)<br />
 8. [成毅发了2018年的文案](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%8F%91%E4%BA%862018%E5%B9%B4%E7%9A%84%E6%96%87%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [你会花4300元买一支口红吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E8%8A%B14300%E5%85%83%E4%B9%B0%E4%B8%80%E6%94%AF%E5%8F%A3%E7%BA%A2%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [你姐让我来看看我小姨](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A7%90%E8%AE%A9%E6%88%91%E6%9D%A5%E7%9C%8B%E7%9C%8B%E6%88%91%E5%B0%8F%E5%A7%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
