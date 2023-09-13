@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 12:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 12:24:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [金融数据企稳回升](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E6%95%B0%E6%8D%AE%E4%BC%81%E7%A8%B3%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [媒体人:不理解球迷为何给叙利亚加油](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E4%BA%BA%3A%E4%B8%8D%E7%90%86%E8%A7%A3%E7%90%83%E8%BF%B7%E4%B8%BA%E4%BD%95%E7%BB%99%E5%8F%99%E5%88%A9%E4%BA%9A%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一家7口吃野菇2人死亡2人进ICU](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B67%E5%8F%A3%E5%90%83%E9%87%8E%E8%8F%872%E4%BA%BA%E6%AD%BB%E4%BA%A12%E4%BA%BA%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [涉案2亿逃犯报警称被诈骗](https://www.baidu.com/s?wd=%E6%B6%89%E6%A1%882%E4%BA%BF%E9%80%83%E7%8A%AF%E6%8A%A5%E8%AD%A6%E7%A7%B0%E8%A2%AB%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中学安装人脸识别每人每年收100元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%AE%89%E8%A3%85%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E6%AF%8F%E4%BA%BA%E6%AF%8F%E5%B9%B4%E6%94%B6100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中学安装人脸识别每人每年收100元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%AE%89%E8%A3%85%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E6%AF%8F%E4%BA%BA%E6%AF%8F%E5%B9%B4%E6%94%B6100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老人穿15元的鞋却给家乡捐1000万](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%A9%BF15%E5%85%83%E7%9A%84%E9%9E%8B%E5%8D%B4%E7%BB%99%E5%AE%B6%E4%B9%A1%E6%8D%901000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传深圳地震消息不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%9C%87%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [金融数据企稳回升](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E6%95%B0%E6%8D%AE%E4%BC%81%E7%A8%B3%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [媒体人:不理解球迷为何给叙利亚加油](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E4%BA%BA%3A%E4%B8%8D%E7%90%86%E8%A7%A3%E7%90%83%E8%BF%B7%E4%B8%BA%E4%BD%95%E7%BB%99%E5%8F%99%E5%88%A9%E4%BA%9A%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一家7口吃野菇2人死亡2人进ICU](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B67%E5%8F%A3%E5%90%83%E9%87%8E%E8%8F%872%E4%BA%BA%E6%AD%BB%E4%BA%A12%E4%BA%BA%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [涉案2亿逃犯报警称被诈骗](https://www.baidu.com/s?wd=%E6%B6%89%E6%A1%882%E4%BA%BF%E9%80%83%E7%8A%AF%E6%8A%A5%E8%AD%A6%E7%A7%B0%E8%A2%AB%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中学安装人脸识别每人每年收100元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%AE%89%E8%A3%85%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E6%AF%8F%E4%BA%BA%E6%AF%8F%E5%B9%B4%E6%94%B6100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中学安装人脸识别每人每年收100元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%AE%89%E8%A3%85%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E6%AF%8F%E4%BA%BA%E6%AF%8F%E5%B9%B4%E6%94%B6100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老人穿15元的鞋却给家乡捐1000万](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%A9%BF15%E5%85%83%E7%9A%84%E9%9E%8B%E5%8D%B4%E7%BB%99%E5%AE%B6%E4%B9%A1%E6%8D%901000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传深圳地震消息不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%9C%87%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
