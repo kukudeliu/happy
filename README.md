@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 20:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 20:39:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [北极鲶鱼核查不予公开是否为权力的傲慢](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E6%A0%B8%E6%9F%A5%E4%B8%8D%E4%BA%88%E5%85%AC%E5%BC%80%E6%98%AF%E5%90%A6%E4%B8%BA%E6%9D%83%E5%8A%9B%E7%9A%84%E5%82%B2%E6%85%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [曝金赫拉对三人施暴道歉了七次](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%87%91%E8%B5%AB%E6%8B%89%E5%AF%B9%E4%B8%89%E4%BA%BA%E6%96%BD%E6%9A%B4%E9%81%93%E6%AD%89%E4%BA%86%E4%B8%83%E6%AC%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [10月是极好的辞职的季节](https://s.weibo.com/weibo?q=10%E6%9C%88%E6%98%AF%E6%9E%81%E5%A5%BD%E7%9A%84%E8%BE%9E%E8%81%8C%E7%9A%84%E5%AD%A3%E8%8A%82&t=31&band_rank=7&Refer=top)<br />
-8. [梦中的那片海](https://s.weibo.com/weibo?q=%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7&t=31&band_rank=8&Refer=top)<br />
-9. [上海一外卖骑手商场消费后休息遭驱赶](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%A4%96%E5%8D%96%E9%AA%91%E6%89%8B%E5%95%86%E5%9C%BA%E6%B6%88%E8%B4%B9%E5%90%8E%E4%BC%91%E6%81%AF%E9%81%AD%E9%A9%B1%E8%B5%B6%23&t=31&band_rank=9&Refer=top)<br />
+8. [上海一外卖骑手商场消费后休息遭驱赶](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%A4%96%E5%8D%96%E9%AA%91%E6%89%8B%E5%95%86%E5%9C%BA%E6%B6%88%E8%B4%B9%E5%90%8E%E4%BC%91%E6%81%AF%E9%81%AD%E9%A9%B1%E8%B5%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [梦中的那片海](https://s.weibo.com/weibo?q=%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
