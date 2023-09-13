@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 08:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 08:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [武艺怎么又有新笑料了](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E8%89%BA%E6%80%8E%E4%B9%88%E5%8F%88%E6%9C%89%E6%96%B0%E7%AC%91%E6%96%99%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [4000万中央资金建3个项目竟全烂尾](https://s.weibo.com/weibo?q=%234000%E4%B8%87%E4%B8%AD%E5%A4%AE%E8%B5%84%E9%87%91%E5%BB%BA3%E4%B8%AA%E9%A1%B9%E7%9B%AE%E7%AB%9F%E5%85%A8%E7%83%82%E5%B0%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [郑州全面取消限购](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E9%99%90%E8%B4%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [徐良对张远说我结婚的时候你一定要来](https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%AF%E5%AF%B9%E5%BC%A0%E8%BF%9C%E8%AF%B4%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%E6%97%B6%E5%80%99%E4%BD%A0%E4%B8%80%E5%AE%9A%E8%A6%81%E6%9D%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [老人穿15元的鞋却给家乡捐了1000万](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%A9%BF15%E5%85%83%E7%9A%84%E9%9E%8B%E5%8D%B4%E7%BB%99%E5%AE%B6%E4%B9%A1%E6%8D%90%E4%BA%861000%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
