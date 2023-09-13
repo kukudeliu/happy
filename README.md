@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 20:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 20:56:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [牢记总书记这些话](https://www.baidu.com/s?wd=%E7%89%A2%E8%AE%B0%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平同委内瑞拉总统马杜罗会谈](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%80%BB%E7%BB%9F%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [欧盟拟对华电动汽车启动反补贴调查](https://www.baidu.com/s?wd=%E6%AC%A7%E7%9B%9F%E6%8B%9F%E5%AF%B9%E5%8D%8E%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%90%AF%E5%8A%A8%E5%8F%8D%E8%A1%A5%E8%B4%B4%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [媒体：预制菜进校园不是一件小事](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E6%A0%A1%E5%9B%AD%E4%B8%8D%E6%98%AF%E4%B8%80%E4%BB%B6%E5%B0%8F%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国代表团向亚运出发](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%90%91%E4%BA%9A%E8%BF%90%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [牢记总书记这些话](https://www.baidu.com/s?wd=%E7%89%A2%E8%AE%B0%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平同委内瑞拉总统马杜罗会谈](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%80%BB%E7%BB%9F%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [欧盟拟对华电动汽车启动反补贴调查](https://www.baidu.com/s?wd=%E6%AC%A7%E7%9B%9F%E6%8B%9F%E5%AF%B9%E5%8D%8E%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%90%AF%E5%8A%A8%E5%8F%8D%E8%A1%A5%E8%B4%B4%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [媒体：预制菜进校园不是一件小事](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E6%A0%A1%E5%9B%AD%E4%B8%8D%E6%98%AF%E4%B8%80%E4%BB%B6%E5%B0%8F%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国代表团向亚运出发](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%90%91%E4%BA%9A%E8%BF%90%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
