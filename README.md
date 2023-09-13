@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 12:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 12:04:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [媒体人:不理解球迷为何给叙利亚加油](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E4%BA%BA%3A%E4%B8%8D%E7%90%86%E8%A7%A3%E7%90%83%E8%BF%B7%E4%B8%BA%E4%BD%95%E7%BB%99%E5%8F%99%E5%88%A9%E4%BA%9A%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一家7口吃野菇2人死亡2人进ICU](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B67%E5%8F%A3%E5%90%83%E9%87%8E%E8%8F%872%E4%BA%BA%E6%AD%BB%E4%BA%A12%E4%BA%BA%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中学安装人脸识别每人每年收100元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%AE%89%E8%A3%85%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E6%AF%8F%E4%BA%BA%E6%AF%8F%E5%B9%B4%E6%94%B6100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [才发现朋友圈发多了会折叠](https://www.baidu.com/s?wd=%E6%89%8D%E5%8F%91%E7%8E%B0%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E5%A4%9A%E4%BA%86%E4%BC%9A%E6%8A%98%E5%8F%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [普京：俄罗斯已准备迎接长期战争](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%B2%E5%87%86%E5%A4%87%E8%BF%8E%E6%8E%A5%E9%95%BF%E6%9C%9F%E6%88%98%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传深圳地震消息不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%9C%87%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [媒体人:不理解球迷为何给叙利亚加油](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E4%BA%BA%3A%E4%B8%8D%E7%90%86%E8%A7%A3%E7%90%83%E8%BF%B7%E4%B8%BA%E4%BD%95%E7%BB%99%E5%8F%99%E5%88%A9%E4%BA%9A%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一家7口吃野菇2人死亡2人进ICU](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B67%E5%8F%A3%E5%90%83%E9%87%8E%E8%8F%872%E4%BA%BA%E6%AD%BB%E4%BA%A12%E4%BA%BA%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中学安装人脸识别每人每年收100元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%AE%89%E8%A3%85%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E6%AF%8F%E4%BA%BA%E6%AF%8F%E5%B9%B4%E6%94%B6100%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [才发现朋友圈发多了会折叠](https://www.baidu.com/s?wd=%E6%89%8D%E5%8F%91%E7%8E%B0%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E5%A4%9A%E4%BA%86%E4%BC%9A%E6%8A%98%E5%8F%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [普京：俄罗斯已准备迎接长期战争](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%B2%E5%87%86%E5%A4%87%E8%BF%8E%E6%8E%A5%E9%95%BF%E6%9C%9F%E6%88%98%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传深圳地震消息不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%9C%87%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
