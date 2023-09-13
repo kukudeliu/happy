@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 16:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 17:00:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [12306称没有高铁不能化妆相关规定](https://s.weibo.com/weibo?q=%2312306%E7%A7%B0%E6%B2%A1%E6%9C%89%E9%AB%98%E9%93%81%E4%B8%8D%E8%83%BD%E5%8C%96%E5%A6%86%E7%9B%B8%E5%85%B3%E8%A7%84%E5%AE%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [口臭的源头可能是扁桃体结石](https://s.weibo.com/weibo?q=%23%E5%8F%A3%E8%87%AD%E7%9A%84%E6%BA%90%E5%A4%B4%E5%8F%AF%E8%83%BD%E6%98%AF%E6%89%81%E6%A1%83%E4%BD%93%E7%BB%93%E7%9F%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [丞磊脸红得快熟了](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E8%84%B8%E7%BA%A2%E5%BE%97%E5%BF%AB%E7%86%9F%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [高铁化妆](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子发现女儿非亲生伪造亲子鉴定落户](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E9%9D%9E%E4%BA%B2%E7%94%9F%E4%BC%AA%E9%80%A0%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E8%90%BD%E6%88%B7%23&t=31&band_rank=9&Refer=top)<br />
+8. [男子发现女儿非亲生伪造亲子鉴定落户](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E9%9D%9E%E4%BA%B2%E7%94%9F%E4%BC%AA%E9%80%A0%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E8%90%BD%E6%88%B7%23&t=31&band_rank=8&Refer=top)<br />
+9. [高铁化妆](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
