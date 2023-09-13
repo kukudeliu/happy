@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 12:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 12:06:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [郭碧婷向佐全黑色系红毯造型](https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E5%90%91%E4%BD%90%E5%85%A8%E9%BB%91%E8%89%B2%E7%B3%BB%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23&t=31&band_rank=2&Refer=top)<br />
 3. [惊艳了整个秋天的丰收色](https://s.weibo.com/weibo?q=%23%E6%83%8A%E8%89%B3%E4%BA%86%E6%95%B4%E4%B8%AA%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%B8%B0%E6%94%B6%E8%89%B2%23&t=31&band_rank=3&Refer=top)<br />
 4. [优酷他急了](https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E4%BB%96%E6%80%A5%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [张亮读写给天天的信都没哭这么惨](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%AE%E8%AF%BB%E5%86%99%E7%BB%99%E5%A4%A9%E5%A4%A9%E7%9A%84%E4%BF%A1%E9%83%BD%E6%B2%A1%E5%93%AD%E8%BF%99%E4%B9%88%E6%83%A8%23&t=31&band_rank=5&Refer=top)<br />
-6. [这4种面包真的建议少吃](https://s.weibo.com/weibo?q=%E8%BF%994%E7%A7%8D%E9%9D%A2%E5%8C%85%E7%9C%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%E5%B0%91%E5%90%83&t=31&band_rank=6&Refer=top)<br />
+5. [这4种面包真的建议少吃](https://s.weibo.com/weibo?q=%E8%BF%994%E7%A7%8D%E9%9D%A2%E5%8C%85%E7%9C%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%E5%B0%91%E5%90%83&t=31&band_rank=5&Refer=top)<br />
+6. [张亮读写给天天的信都没哭这么惨](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%AE%E8%AF%BB%E5%86%99%E7%BB%99%E5%A4%A9%E5%A4%A9%E7%9A%84%E4%BF%A1%E9%83%BD%E6%B2%A1%E5%93%AD%E8%BF%99%E4%B9%88%E6%83%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [云之羽 浅之角](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%20%E6%B5%85%E4%B9%8B%E8%A7%92&t=31&band_rank=7&Refer=top)<br />
 8. [蜜雪冰城又被新兵攻陷了](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%8F%88%E8%A2%AB%E6%96%B0%E5%85%B5%E6%94%BB%E9%99%B7%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=9&Refer=top)<br />
