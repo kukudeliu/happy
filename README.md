@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 10:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-13 10:24:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [金融数据企稳回升](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E6%95%B0%E6%8D%AE%E4%BC%81%E7%A8%B3%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子耍流氓被女子狂扇耳光 警方通报](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%80%8D%E6%B5%81%E6%B0%93%E8%A2%AB%E5%A5%B3%E5%AD%90%E7%8B%82%E6%89%87%E8%80%B3%E5%85%89+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [红了就飘？6名网红主播先后“翻车”](https://www.baidu.com/s?wd=%E7%BA%A2%E4%BA%86%E5%B0%B1%E9%A3%98%EF%BC%9F6%E5%90%8D%E7%BD%91%E7%BA%A2%E4%B8%BB%E6%92%AD%E5%85%88%E5%90%8E%E2%80%9C%E7%BF%BB%E8%BD%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子为炫富烧100元点烟被罚1万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E7%82%AB%E5%AF%8C%E7%83%A7100%E5%85%83%E7%82%B9%E7%83%9F%E8%A2%AB%E7%BD%9A1%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [才发现朋友圈发多了会折叠](https://www.baidu.com/s?wd=%E6%89%8D%E5%8F%91%E7%8E%B0%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E5%A4%9A%E4%BA%86%E4%BC%9A%E6%8A%98%E5%8F%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [才发现朋友圈发多了会折叠](https://www.baidu.com/s?wd=%E6%89%8D%E5%8F%91%E7%8E%B0%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E5%A4%9A%E4%BA%86%E4%BC%9A%E6%8A%98%E5%8F%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子为炫富烧100元点烟被罚1万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E7%82%AB%E5%AF%8C%E7%83%A7100%E5%85%83%E7%82%B9%E7%83%9F%E8%A2%AB%E7%BD%9A1%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传深圳地震消息不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%9C%87%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [金融数据企稳回升](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E6%95%B0%E6%8D%AE%E4%BC%81%E7%A8%B3%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子耍流氓被女子狂扇耳光 警方通报](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%80%8D%E6%B5%81%E6%B0%93%E8%A2%AB%E5%A5%B3%E5%AD%90%E7%8B%82%E6%89%87%E8%80%B3%E5%85%89+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [红了就飘？6名网红主播先后“翻车”](https://www.baidu.com/s?wd=%E7%BA%A2%E4%BA%86%E5%B0%B1%E9%A3%98%EF%BC%9F6%E5%90%8D%E7%BD%91%E7%BA%A2%E4%B8%BB%E6%92%AD%E5%85%88%E5%90%8E%E2%80%9C%E7%BF%BB%E8%BD%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子为炫富烧100元点烟被罚1万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E7%82%AB%E5%AF%8C%E7%83%A7100%E5%85%83%E7%82%B9%E7%83%9F%E8%A2%AB%E7%BD%9A1%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [才发现朋友圈发多了会折叠](https://www.baidu.com/s?wd=%E6%89%8D%E5%8F%91%E7%8E%B0%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E5%A4%9A%E4%BA%86%E4%BC%9A%E6%8A%98%E5%8F%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [才发现朋友圈发多了会折叠](https://www.baidu.com/s?wd=%E6%89%8D%E5%8F%91%E7%8E%B0%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E5%A4%9A%E4%BA%86%E4%BC%9A%E6%8A%98%E5%8F%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子为炫富烧100元点烟被罚1万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E7%82%AB%E5%AF%8C%E7%83%A7100%E5%85%83%E7%82%B9%E7%83%9F%E8%A2%AB%E7%BD%9A1%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传深圳地震消息不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%9C%87%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
