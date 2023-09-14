@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 08:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 08:27:02</h4></div>
 
 > 微博  
 
 1. [全球首个承认外星生物存在的国家](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E6%89%BF%E8%AE%A4%E5%A4%96%E6%98%9F%E7%94%9F%E7%89%A9%E5%AD%98%E5%9C%A8%E7%9A%84%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=1&Refer=top)<br />
-2. [蜜雪冰城被复刻了](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A2%AB%E5%A4%8D%E5%88%BB%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+2. [辛苦一晚上偷一条街全得还回去](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8B%A6%E4%B8%80%E6%99%9A%E4%B8%8A%E5%81%B7%E4%B8%80%E6%9D%A1%E8%A1%97%E5%85%A8%E5%BE%97%E8%BF%98%E5%9B%9E%E5%8E%BB%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚运会吉祥物3小只宣传片](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%89%E7%A5%A5%E7%89%A93%E5%B0%8F%E5%8F%AA%E5%AE%A3%E4%BC%A0%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
-4. [辛苦一晚上偷一条街全得还回去](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8B%A6%E4%B8%80%E6%99%9A%E4%B8%8A%E5%81%B7%E4%B8%80%E6%9D%A1%E8%A1%97%E5%85%A8%E5%BE%97%E8%BF%98%E5%9B%9E%E5%8E%BB%23&t=31&band_rank=4&Refer=top)<br />
+4. [蜜雪冰城被复刻了](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A2%AB%E5%A4%8D%E5%88%BB%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [UFO](https://s.weibo.com/weibo?q=UFO&t=31&band_rank=5&Refer=top)<br />
 6. [14岁女孩花10年潜伏进暗恋对象的生活](https://s.weibo.com/weibo?q=14%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%8A%B110%E5%B9%B4%E6%BD%9C%E4%BC%8F%E8%BF%9B%E6%9A%97%E6%81%8B%E5%AF%B9%E8%B1%A1%E7%9A%84%E7%94%9F%E6%B4%BB&t=31&band_rank=6&Refer=top)<br />
-7. [中科院博士还原被骗至缅甸经历](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E8%BF%98%E5%8E%9F%E8%A2%AB%E9%AA%97%E8%87%B3%E7%BC%85%E7%94%B8%E7%BB%8F%E5%8E%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [金店销售发工资就攒金豆子](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%BA%97%E9%94%80%E5%94%AE%E5%8F%91%E5%B7%A5%E8%B5%84%E5%B0%B1%E6%94%92%E9%87%91%E8%B1%86%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [多地网友称看到UFO](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%9C%8B%E5%88%B0UFO%23&t=31&band_rank=9&Refer=top)<br />
+7. [多地网友称看到UFO](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%9C%8B%E5%88%B0UFO%23&t=31&band_rank=7&Refer=top)<br />
+8. [中科院博士还原被骗至缅甸经历](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E8%BF%98%E5%8E%9F%E8%A2%AB%E9%AA%97%E8%87%B3%E7%BC%85%E7%94%B8%E7%BB%8F%E5%8E%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [金店销售发工资就攒金豆子](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%BA%97%E9%94%80%E5%94%AE%E5%8F%91%E5%B7%A5%E8%B5%84%E5%B0%B1%E6%94%92%E9%87%91%E8%B1%86%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
