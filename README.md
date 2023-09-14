@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 02:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 02:42:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [外媒曝Lisa拒绝和YG续约](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%9B%9DLisa%E6%8B%92%E7%BB%9D%E5%92%8CYG%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [当亚运遇上民乐太惊艳了](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%9A%E8%BF%90%E9%81%87%E4%B8%8A%E6%B0%91%E4%B9%90%E5%A4%AA%E6%83%8A%E8%89%B3%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [抗日小饼干](https://s.weibo.com/weibo?q=%E6%8A%97%E6%97%A5%E5%B0%8F%E9%A5%BC%E5%B9%B2&t=31&band_rank=4&Refer=top)<br />
-5. [宿舍超爽的睡觉氛围](https://s.weibo.com/weibo?q=%E5%AE%BF%E8%88%8D%E8%B6%85%E7%88%BD%E7%9A%84%E7%9D%A1%E8%A7%89%E6%B0%9B%E5%9B%B4&t=31&band_rank=5&Refer=top)<br />
-6. [利比亚](https://s.weibo.com/weibo?q=%E5%88%A9%E6%AF%94%E4%BA%9A&t=31&band_rank=6&Refer=top)<br />
+5. [利比亚](https://s.weibo.com/weibo?q=%E5%88%A9%E6%AF%94%E4%BA%9A&t=31&band_rank=5&Refer=top)<br />
+6. [宿舍超爽的睡觉氛围](https://s.weibo.com/weibo?q=%E5%AE%BF%E8%88%8D%E8%B6%85%E7%88%BD%E7%9A%84%E7%9D%A1%E8%A7%89%E6%B0%9B%E5%9B%B4&t=31&band_rank=6&Refer=top)<br />
 7. [奈雪按销售情况向周杰伦支付IP费](https://s.weibo.com/weibo?q=%23%E5%A5%88%E9%9B%AA%E6%8C%89%E9%94%80%E5%94%AE%E6%83%85%E5%86%B5%E5%90%91%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%94%AF%E4%BB%98IP%E8%B4%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [终于学会耳后双C发型了](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E5%AD%A6%E4%BC%9A%E8%80%B3%E5%90%8E%E5%8F%8CC%E5%8F%91%E5%9E%8B%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [男子买彩票中5544万到手4444万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD5544%E4%B8%87%E5%88%B0%E6%89%8B4444%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [泰国为什么等不来中国游客？](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AD%89%E4%B8%8D%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [官方回应前局长孙女炫富事件不公开](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%89%8D%E5%B1%80%E9%95%BF%E5%AD%99%E5%A5%B3%E7%82%AB%E5%AF%8C%E4%BA%8B%E4%BB%B6%E4%B8%8D%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子买彩票中5544万到手4444万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD5544%E4%B8%87%E5%88%B0%E6%89%8B4444%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [卷走千万救命款背后的慈善配捐](https://www.baidu.com/s?wd=%E5%8D%B7%E8%B5%B0%E5%8D%83%E4%B8%87%E6%95%91%E5%91%BD%E6%AC%BE%E8%83%8C%E5%90%8E%E7%9A%84%E6%85%88%E5%96%84%E9%85%8D%E6%8D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [记者实测：关电视开机广告用了3天](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%EF%BC%9A%E5%85%B3%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A%E7%94%A8%E4%BA%863%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“河中发现巨型长虫”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B2%B3%E4%B8%AD%E5%8F%91%E7%8E%B0%E5%B7%A8%E5%9E%8B%E9%95%BF%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [泰国为什么等不来中国游客？](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AD%89%E4%B8%8D%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [官方回应前局长孙女炫富事件不公开](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%89%8D%E5%B1%80%E9%95%BF%E5%AD%99%E5%A5%B3%E7%82%AB%E5%AF%8C%E4%BA%8B%E4%BB%B6%E4%B8%8D%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子买彩票中5544万到手4444万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD5544%E4%B8%87%E5%88%B0%E6%89%8B4444%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [卷走千万救命款背后的慈善配捐](https://www.baidu.com/s?wd=%E5%8D%B7%E8%B5%B0%E5%8D%83%E4%B8%87%E6%95%91%E5%91%BD%E6%AC%BE%E8%83%8C%E5%90%8E%E7%9A%84%E6%85%88%E5%96%84%E9%85%8D%E6%8D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [记者实测：关电视开机广告用了3天](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%EF%BC%9A%E5%85%B3%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A%E7%94%A8%E4%BA%863%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“河中发现巨型长虫”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B2%B3%E4%B8%AD%E5%8F%91%E7%8E%B0%E5%B7%A8%E5%9E%8B%E9%95%BF%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
