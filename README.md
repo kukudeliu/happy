@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 18:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 18:08:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [戚薇不反对Lucky进演艺圈](https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E4%B8%8D%E5%8F%8D%E5%AF%B9Lucky%E8%BF%9B%E6%BC%94%E8%89%BA%E5%9C%88%23&t=31&band_rank=4&Refer=top)<br />
 5. [演员马卫军去世](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E9%A9%AC%E5%8D%AB%E5%86%9B%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [周杰伦联名奶茶一定要点冰的](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%81%94%E5%90%8D%E5%A5%B6%E8%8C%B6%E4%B8%80%E5%AE%9A%E8%A6%81%E7%82%B9%E5%86%B0%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
-7. [修飞机专业学生兼职汉服旅拍月入2万](https://s.weibo.com/weibo?q=%23%E4%BF%AE%E9%A3%9E%E6%9C%BA%E4%B8%93%E4%B8%9A%E5%AD%A6%E7%94%9F%E5%85%BC%E8%81%8C%E6%B1%89%E6%9C%8D%E6%97%85%E6%8B%8D%E6%9C%88%E5%85%A52%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
+7. [妻子用头绳牵失明丈夫晨跑30年](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E7%94%A8%E5%A4%B4%E7%BB%B3%E7%89%B5%E5%A4%B1%E6%98%8E%E4%B8%88%E5%A4%AB%E6%99%A8%E8%B7%9130%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国航天回应墨西哥展出疑外星遗骸](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%9B%9E%E5%BA%94%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%B1%95%E5%87%BA%E7%96%91%E5%A4%96%E6%98%9F%E9%81%97%E9%AA%B8%23&t=31&band_rank=8&Refer=top)<br />
 9. [易烊千玺为希望工程献唱](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%B8%BA%E5%B8%8C%E6%9C%9B%E5%B7%A5%E7%A8%8B%E7%8C%AE%E5%94%B1%23&t=31&band_rank=9&Refer=top)<br />
 
