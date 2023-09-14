@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 01:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 01:45:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [抗日小饼干](https://s.weibo.com/weibo?q=%E6%8A%97%E6%97%A5%E5%B0%8F%E9%A5%BC%E5%B9%B2&t=31&band_rank=4&Refer=top)<br />
 5. [宿舍超爽的睡觉氛围](https://s.weibo.com/weibo?q=%E5%AE%BF%E8%88%8D%E8%B6%85%E7%88%BD%E7%9A%84%E7%9D%A1%E8%A7%89%E6%B0%9B%E5%9B%B4&t=31&band_rank=5&Refer=top)<br />
 6. [邓超孙俪捐款20万资助100名困难学生](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%AD%99%E4%BF%AA%E6%8D%90%E6%AC%BE20%E4%B8%87%E8%B5%84%E5%8A%A9100%E5%90%8D%E5%9B%B0%E9%9A%BE%E5%AD%A6%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [官方回应北极鲶鱼事件调查结果不公开](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E4%B8%8D%E5%85%AC%E5%BC%80%23&t=31&band_rank=7&Refer=top)<br />
+7. [华为](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA&t=31&band_rank=7&Refer=top)<br />
 8. [奈雪按销售情况向周杰伦支付IP费](https://s.weibo.com/weibo?q=%23%E5%A5%88%E9%9B%AA%E6%8C%89%E9%94%80%E5%94%AE%E6%83%85%E5%86%B5%E5%90%91%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%94%AF%E4%BB%98IP%E8%B4%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [华为](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA&t=31&band_rank=9&Refer=top)<br />
+9. [官方回应北极鲶鱼事件调查结果不公开](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E4%B8%8D%E5%85%AC%E5%BC%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
