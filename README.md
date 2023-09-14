@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 09:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 09:08:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [UFO](https://s.weibo.com/weibo?q=UFO&t=31&band_rank=4&Refer=top)<br />
 5. [蜜雪冰城被复刻了](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A2%AB%E5%A4%8D%E5%88%BB%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [多地网友称看到UFO](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%9C%8B%E5%88%B0UFO%23&t=31&band_rank=6&Refer=top)<br />
-7. [中科院博士还原被骗至缅甸经历](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E8%BF%98%E5%8E%9F%E8%A2%AB%E9%AA%97%E8%87%B3%E7%BC%85%E7%94%B8%E7%BB%8F%E5%8E%86%23&t=31&band_rank=7&Refer=top)<br />
+7. [12306抢票](https://s.weibo.com/weibo?q=12306%E6%8A%A2%E7%A5%A8&t=31&band_rank=7&Refer=top)<br />
 8. [霍启刚履新](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E5%B1%A5%E6%96%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [12306抢票](https://s.weibo.com/weibo?q=12306%E6%8A%A2%E7%A5%A8&t=31&band_rank=9&Refer=top)<br />
+9. [中科院博士还原被骗至缅甸经历](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E8%BF%98%E5%8E%9F%E8%A2%AB%E9%AA%97%E8%87%B3%E7%BC%85%E7%94%B8%E7%BB%8F%E5%8E%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
