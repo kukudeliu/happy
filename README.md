@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 07:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 07:49:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [华为](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA&t=31&band_rank=4&Refer=top)<br />
 5. [北极鲶鱼事件结果是否应公开](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%E7%BB%93%E6%9E%9C%E6%98%AF%E5%90%A6%E5%BA%94%E5%85%AC%E5%BC%80%23&t=31&band_rank=5&Refer=top)<br />
 6. [朱一龙自曝曾犹豫是否接演消失的她](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E8%87%AA%E6%9B%9D%E6%9B%BE%E7%8A%B9%E8%B1%AB%E6%98%AF%E5%90%A6%E6%8E%A5%E6%BC%94%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23&t=31&band_rank=6&Refer=top)<br />
-7. [外媒曝Lisa拒绝和YG续约](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%9B%9DLisa%E6%8B%92%E7%BB%9D%E5%92%8CYG%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [体质真的会影响思维和性格](https://s.weibo.com/weibo?q=%E4%BD%93%E8%B4%A8%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%80%9D%E7%BB%B4%E5%92%8C%E6%80%A7%E6%A0%BC&t=31&band_rank=8&Refer=top)<br />
+7. [体质真的会影响思维和性格](https://s.weibo.com/weibo?q=%E4%BD%93%E8%B4%A8%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%80%9D%E7%BB%B4%E5%92%8C%E6%80%A7%E6%A0%BC&t=31&band_rank=7&Refer=top)<br />
+8. [外媒曝Lisa拒绝和YG续约](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%9B%9DLisa%E6%8B%92%E7%BB%9D%E5%92%8CYG%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=8&Refer=top)<br />
 9. [邓超孙俪捐款20万资助100名困难学生](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%AD%99%E4%BF%AA%E6%8D%90%E6%AC%BE20%E4%B8%87%E8%B5%84%E5%8A%A9100%E5%90%8D%E5%9B%B0%E9%9A%BE%E5%AD%A6%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,7 +23,7 @@
 4. [你不知道的亚运事](https://www.baidu.com/s?wd=%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%9A%E8%BF%90%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [报告：中国人吃掉全球91%榴莲](https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E6%8E%89%E5%85%A8%E7%90%8391%25%E6%A6%B4%E8%8E%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生点外卖从碗里吃出地漏](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%82%B9%E5%A4%96%E5%8D%96%E4%BB%8E%E7%A2%97%E9%87%8C%E5%90%83%E5%87%BA%E5%9C%B0%E6%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本新外相首场记者会谈到中俄](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%96%B0%E5%A4%96%E7%9B%B8%E9%A6%96%E5%9C%BA%E8%AE%B0%E8%80%85%E4%BC%9A%E8%B0%88%E5%88%B0%E4%B8%AD%E4%BF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高铁上化妆是不文明行为？网友吵翻](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E4%B8%8A%E5%8C%96%E5%A6%86%E6%98%AF%E4%B8%8D%E6%96%87%E6%98%8E%E8%A1%8C%E4%B8%BA%EF%BC%9F%E7%BD%91%E5%8F%8B%E5%90%B5%E7%BF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [深圳人已经开始喝上冰中式了](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%96%9D%E4%B8%8A%E5%86%B0%E4%B8%AD%E5%BC%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海辟谣豫园商圈只卖进口冰淇淋](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E8%B1%AB%E5%9B%AD%E5%95%86%E5%9C%88%E5%8F%AA%E5%8D%96%E8%BF%9B%E5%8F%A3%E5%86%B0%E6%B7%87%E6%B7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [你不知道的亚运事](https://www.baidu.com/s?wd=%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%9A%E8%BF%90%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [报告：中国人吃掉全球91%榴莲](https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E6%8E%89%E5%85%A8%E7%90%8391%25%E6%A6%B4%E8%8E%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生点外卖从碗里吃出地漏](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%82%B9%E5%A4%96%E5%8D%96%E4%BB%8E%E7%A2%97%E9%87%8C%E5%90%83%E5%87%BA%E5%9C%B0%E6%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本新外相首场记者会谈到中俄](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%96%B0%E5%A4%96%E7%9B%B8%E9%A6%96%E5%9C%BA%E8%AE%B0%E8%80%85%E4%BC%9A%E8%B0%88%E5%88%B0%E4%B8%AD%E4%BF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高铁上化妆是不文明行为？网友吵翻](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E4%B8%8A%E5%8C%96%E5%A6%86%E6%98%AF%E4%B8%8D%E6%96%87%E6%98%8E%E8%A1%8C%E4%B8%BA%EF%BC%9F%E7%BD%91%E5%8F%8B%E5%90%B5%E7%BF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [深圳人已经开始喝上冰中式了](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%96%9D%E4%B8%8A%E5%86%B0%E4%B8%AD%E5%BC%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海辟谣豫园商圈只卖进口冰淇淋](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E8%B1%AB%E5%9B%AD%E5%95%86%E5%9C%88%E5%8F%AA%E5%8D%96%E8%BF%9B%E5%8F%A3%E5%86%B0%E6%B7%87%E6%B7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
