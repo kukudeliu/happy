@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 13:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 13:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [12306建议没买到票的用户立即候补](https://s.weibo.com/weibo?q=%2312306%E5%BB%BA%E8%AE%AE%E6%B2%A1%E4%B9%B0%E5%88%B0%E7%A5%A8%E7%9A%84%E7%94%A8%E6%88%B7%E7%AB%8B%E5%8D%B3%E5%80%99%E8%A1%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [马斯克表态台湾是中国一部分](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A1%A8%E6%80%81%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%B8%80%E9%83%A8%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [倪妮人前A人后C](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E4%BA%BA%E5%89%8DA%E4%BA%BA%E5%90%8EC%23&t=31&band_rank=8&Refer=top)<br />
-9. [桂花龙井拿铁](https://s.weibo.com/weibo?q=%E6%A1%82%E8%8A%B1%E9%BE%99%E4%BA%95%E6%8B%BF%E9%93%81&t=31&band_rank=9&Refer=top)<br />
+9. [高空抛烟头烫伤4个月婴儿全楼测DNA](https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%83%9F%E5%A4%B4%E7%83%AB%E4%BC%A44%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E5%85%A8%E6%A5%BC%E6%B5%8BDNA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
