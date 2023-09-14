@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 22:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 22:44:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [深圳人已经开始喝上冰中式了](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%96%9D%E4%B8%8A%E5%86%B0%E4%B8%AD%E5%BC%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [你不知道的亚运事](https://www.baidu.com/s?wd=%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%9A%E8%BF%90%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男童撑伞从26楼跳下后生还](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E6%92%91%E4%BC%9E%E4%BB%8E26%E6%A5%BC%E8%B7%B3%E4%B8%8B%E5%90%8E%E7%94%9F%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [iPhone14价格不降反涨](https://www.baidu.com/s?wd=iPhone14%E4%BB%B7%E6%A0%BC%E4%B8%8D%E9%99%8D%E5%8F%8D%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [西南大学通报“保安扔花事件”](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E2%80%9C%E4%BF%9D%E5%AE%89%E6%89%94%E8%8A%B1%E4%BA%8B%E4%BB%B6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [郁美净不到一天涨粉32万](https://www.baidu.com/s?wd=%E9%83%81%E7%BE%8E%E5%87%80%E4%B8%8D%E5%88%B0%E4%B8%80%E5%A4%A9%E6%B6%A8%E7%B2%8932%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [网红防猝死套餐有用吗？医生解读](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E9%98%B2%E7%8C%9D%E6%AD%BB%E5%A5%97%E9%A4%90%E6%9C%89%E7%94%A8%E5%90%97%EF%BC%9F%E5%8C%BB%E7%94%9F%E8%A7%A3%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [台当局正把台湾变成地雷岛弹药库](https://www.baidu.com/s?wd=%E5%8F%B0%E5%BD%93%E5%B1%80%E6%AD%A3%E6%8A%8A%E5%8F%B0%E6%B9%BE%E5%8F%98%E6%88%90%E5%9C%B0%E9%9B%B7%E5%B2%9B%E5%BC%B9%E8%8D%AF%E5%BA%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [iPhone14价格不降反涨](https://www.baidu.com/s?wd=iPhone14%E4%BB%B7%E6%A0%BC%E4%B8%8D%E9%99%8D%E5%8F%8D%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“河中发现巨型长虫”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B2%B3%E4%B8%AD%E5%8F%91%E7%8E%B0%E5%B7%A8%E5%9E%8B%E9%95%BF%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [深圳人已经开始喝上冰中式了](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%96%9D%E4%B8%8A%E5%86%B0%E4%B8%AD%E5%BC%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [你不知道的亚运事](https://www.baidu.com/s?wd=%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%9A%E8%BF%90%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男童撑伞从26楼跳下后生还](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E6%92%91%E4%BC%9E%E4%BB%8E26%E6%A5%BC%E8%B7%B3%E4%B8%8B%E5%90%8E%E7%94%9F%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [iPhone14价格不降反涨](https://www.baidu.com/s?wd=iPhone14%E4%BB%B7%E6%A0%BC%E4%B8%8D%E9%99%8D%E5%8F%8D%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [西南大学通报“保安扔花事件”](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E2%80%9C%E4%BF%9D%E5%AE%89%E6%89%94%E8%8A%B1%E4%BA%8B%E4%BB%B6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [郁美净不到一天涨粉32万](https://www.baidu.com/s?wd=%E9%83%81%E7%BE%8E%E5%87%80%E4%B8%8D%E5%88%B0%E4%B8%80%E5%A4%A9%E6%B6%A8%E7%B2%8932%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [网红防猝死套餐有用吗？医生解读](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E9%98%B2%E7%8C%9D%E6%AD%BB%E5%A5%97%E9%A4%90%E6%9C%89%E7%94%A8%E5%90%97%EF%BC%9F%E5%8C%BB%E7%94%9F%E8%A7%A3%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [台当局正把台湾变成地雷岛弹药库](https://www.baidu.com/s?wd=%E5%8F%B0%E5%BD%93%E5%B1%80%E6%AD%A3%E6%8A%8A%E5%8F%B0%E6%B9%BE%E5%8F%98%E6%88%90%E5%9C%B0%E9%9B%B7%E5%B2%9B%E5%BC%B9%E8%8D%AF%E5%BA%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [iPhone14价格不降反涨](https://www.baidu.com/s?wd=iPhone14%E4%BB%B7%E6%A0%BC%E4%B8%8D%E9%99%8D%E5%8F%8D%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“河中发现巨型长虫”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B2%B3%E4%B8%AD%E5%8F%91%E7%8E%B0%E5%B7%A8%E5%9E%8B%E9%95%BF%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
