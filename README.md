@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 22:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 22:26:01</h4></div>
 
 > 微博  
 
 1. [高铁上化妆列为不文明行为网友为何不认可](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E5%8C%96%E5%A6%86%E5%88%97%E4%B8%BA%E4%B8%8D%E6%96%87%E6%98%8E%E8%A1%8C%E4%B8%BA%E7%BD%91%E5%8F%8B%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%AE%A4%E5%8F%AF%23&t=31&band_rank=1&Refer=top)<br />
 2. [外媒曝Lisa拒绝和YG续约](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%9B%9DLisa%E6%8B%92%E7%BB%9D%E5%92%8CYG%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国的朋友圈会越来越广](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B9%BF%23&t=31&band_rank=3&Refer=top)<br />
-4. [iPhone14价格不降反涨](https://s.weibo.com/weibo?q=%23iPhone14%E4%BB%B7%E6%A0%BC%E4%B8%8D%E9%99%8D%E5%8F%8D%E6%B6%A8%23&t=31&band_rank=4&Refer=top)<br />
-5. [终于学会耳后双C发型了](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E5%AD%A6%E4%BC%9A%E8%80%B3%E5%90%8E%E5%8F%8CC%E5%8F%91%E5%9E%8B%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
-6. [官方回应北极鲶鱼事件调查结果不公开](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E4%B8%8D%E5%85%AC%E5%BC%80%23&t=31&band_rank=6&Refer=top)<br />
-7. [男子买彩票中5544万到手4444万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD5544%E4%B8%87%E5%88%B0%E6%89%8B4444%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [云为衫掉马](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B8%BA%E8%A1%AB%E6%8E%89%E9%A9%AC%23&t=31&band_rank=8&Refer=top)<br />
-9. [成都停电](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E5%81%9C%E7%94%B5&t=31&band_rank=9&Refer=top)<br />
+4. [奈雪按销售情况向周杰伦支付IP费](https://s.weibo.com/weibo?q=%23%E5%A5%88%E9%9B%AA%E6%8C%89%E9%94%80%E5%94%AE%E6%83%85%E5%86%B5%E5%90%91%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%94%AF%E4%BB%98IP%E8%B4%B9%23&t=31&band_rank=4&Refer=top)<br />
+5. [iPhone14价格不降反涨](https://s.weibo.com/weibo?q=%23iPhone14%E4%BB%B7%E6%A0%BC%E4%B8%8D%E9%99%8D%E5%8F%8D%E6%B6%A8%23&t=31&band_rank=5&Refer=top)<br />
+6. [终于学会耳后双C发型了](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E5%AD%A6%E4%BC%9A%E8%80%B3%E5%90%8E%E5%8F%8CC%E5%8F%91%E5%9E%8B%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+7. [官方回应北极鲶鱼事件调查结果不公开](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E4%B8%8D%E5%85%AC%E5%BC%80%23&t=31&band_rank=7&Refer=top)<br />
+8. [男子买彩票中5544万到手4444万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD5544%E4%B8%87%E5%88%B0%E6%89%8B4444%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [云为衫掉马](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B8%BA%E8%A1%AB%E6%8E%89%E9%A9%AC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
