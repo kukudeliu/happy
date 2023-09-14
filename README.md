@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 11:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 11:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高空抛烟头烫伤4个月婴儿全楼测DNA](https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%83%9F%E5%A4%B4%E7%83%AB%E4%BC%A44%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E5%85%A8%E6%A5%BC%E6%B5%8BDNA%23&t=31&band_rank=6&Refer=top)<br />
 7. [郁美净终于通网](https://s.weibo.com/weibo?q=%E9%83%81%E7%BE%8E%E5%87%80%E7%BB%88%E4%BA%8E%E9%80%9A%E7%BD%91&t=31&band_rank=7&Refer=top)<br />
 8. [全球首个承认外星生物存在的国家](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E6%89%BF%E8%AE%A4%E5%A4%96%E6%98%9F%E7%94%9F%E7%89%A9%E5%AD%98%E5%9C%A8%E7%9A%84%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [瘫痪小猫被中医医术1秒咔吧接回](https://s.weibo.com/weibo?q=%23%E7%98%AB%E7%97%AA%E5%B0%8F%E7%8C%AB%E8%A2%AB%E4%B8%AD%E5%8C%BB%E5%8C%BB%E6%9C%AF1%E7%A7%92%E5%92%94%E5%90%A7%E6%8E%A5%E5%9B%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [你的钱也不是天上刮来的](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E9%92%B1%E4%B9%9F%E4%B8%8D%E6%98%AF%E5%A4%A9%E4%B8%8A%E5%88%AE%E6%9D%A5%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
