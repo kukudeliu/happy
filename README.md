@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 16:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 16:18:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [苍兰诀 全员上桌](https://s.weibo.com/weibo?q=%E8%8B%8D%E5%85%B0%E8%AF%80%20%E5%85%A8%E5%91%98%E4%B8%8A%E6%A1%8C&t=31&band_rank=5&Refer=top)<br />
 6. [警方通报上海一中学疑似发生投毒](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%8A%E6%B5%B7%E4%B8%80%E4%B8%AD%E5%AD%A6%E7%96%91%E4%BC%BC%E5%8F%91%E7%94%9F%E6%8A%95%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [12306建议没买到票的用户立即候补](https://s.weibo.com/weibo?q=%2312306%E5%BB%BA%E8%AE%AE%E6%B2%A1%E4%B9%B0%E5%88%B0%E7%A5%A8%E7%9A%84%E7%94%A8%E6%88%B7%E7%AB%8B%E5%8D%B3%E5%80%99%E8%A1%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [鸟巢第一人](https://s.weibo.com/weibo?q=%E9%B8%9F%E5%B7%A2%E7%AC%AC%E4%B8%80%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
-9. [马斯克表态台湾是中国一部分](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A1%A8%E6%80%81%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%B8%80%E9%83%A8%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [两名13岁学生将清洁漂白液倒入同学水杯](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%90%8D13%E5%B2%81%E5%AD%A6%E7%94%9F%E5%B0%86%E6%B8%85%E6%B4%81%E6%BC%82%E7%99%BD%E6%B6%B2%E5%80%92%E5%85%A5%E5%90%8C%E5%AD%A6%E6%B0%B4%E6%9D%AF%23&t=31&band_rank=8&Refer=top)<br />
+9. [鸟巢第一人](https://s.weibo.com/weibo?q=%E9%B8%9F%E5%B7%A2%E7%AC%AC%E4%B8%80%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
