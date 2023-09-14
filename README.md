@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 18:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 18:26:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [中国的朋友圈会越来越广](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B9%BF%23&t=31&band_rank=3&Refer=top)<br />
 4. [演员马卫军去世](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E9%A9%AC%E5%8D%AB%E5%86%9B%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [妻子用头绳牵失明丈夫晨跑30年](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E7%94%A8%E5%A4%B4%E7%BB%B3%E7%89%B5%E5%A4%B1%E6%98%8E%E4%B8%88%E5%A4%AB%E6%99%A8%E8%B7%9130%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
-6. [戚薇不反对Lucky进演艺圈](https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E4%B8%8D%E5%8F%8D%E5%AF%B9Lucky%E8%BF%9B%E6%BC%94%E8%89%BA%E5%9C%88%23&t=31&band_rank=6&Refer=top)<br />
+6. [入职体检报告写表情呆滞智商偏低](https://s.weibo.com/weibo?q=%23%E5%85%A5%E8%81%8C%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A%E5%86%99%E8%A1%A8%E6%83%85%E5%91%86%E6%BB%9E%E6%99%BA%E5%95%86%E5%81%8F%E4%BD%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [小车侧翻1分钟冲出40多名抬车勇士](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%BD%A6%E4%BE%A7%E7%BF%BB1%E5%88%86%E9%92%9F%E5%86%B2%E5%87%BA40%E5%A4%9A%E5%90%8D%E6%8A%AC%E8%BD%A6%E5%8B%87%E5%A3%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [周杰伦联名奶茶一定要点冰的](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%81%94%E5%90%8D%E5%A5%B6%E8%8C%B6%E4%B8%80%E5%AE%9A%E8%A6%81%E7%82%B9%E5%86%B0%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [12306候补购票成功率达75%](https://s.weibo.com/weibo?q=%2312306%E5%80%99%E8%A1%A5%E8%B4%AD%E7%A5%A8%E6%88%90%E5%8A%9F%E7%8E%87%E8%BE%BE75%25%23&t=31&band_rank=9&Refer=top)<br />
+8. [戚薇不反对Lucky进演艺圈](https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E4%B8%8D%E5%8F%8D%E5%AF%B9Lucky%E8%BF%9B%E6%BC%94%E8%89%BA%E5%9C%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [周杰伦联名奶茶一定要点冰的](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%81%94%E5%90%8D%E5%A5%B6%E8%8C%B6%E4%B8%80%E5%AE%9A%E8%A6%81%E7%82%B9%E5%86%B0%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
