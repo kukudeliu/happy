@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 22:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 22:46:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [成都停电](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E5%81%9C%E7%94%B5&t=31&band_rank=5&Refer=top)<br />
 6. [iPhone14价格不降反涨](https://s.weibo.com/weibo?q=%23iPhone14%E4%BB%B7%E6%A0%BC%E4%B8%8D%E9%99%8D%E5%8F%8D%E6%B6%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [终于学会耳后双C发型了](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E5%AD%A6%E4%BC%9A%E8%80%B3%E5%90%8E%E5%8F%8CC%E5%8F%91%E5%9E%8B%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [云为衫掉马](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B8%BA%E8%A1%AB%E6%8E%89%E9%A9%AC%23&t=31&band_rank=8&Refer=top)<br />
-9. [官方回应北极鲶鱼事件调查结果不公开](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E4%B8%8D%E5%85%AC%E5%BC%80%23&t=31&band_rank=9&Refer=top)<br />
+8. [最好嗑的是宫尚角这一刻的失望和烦闷](https://s.weibo.com/weibo?q=%E6%9C%80%E5%A5%BD%E5%97%91%E7%9A%84%E6%98%AF%E5%AE%AB%E5%B0%9A%E8%A7%92%E8%BF%99%E4%B8%80%E5%88%BB%E7%9A%84%E5%A4%B1%E6%9C%9B%E5%92%8C%E7%83%A6%E9%97%B7&t=31&band_rank=8&Refer=top)<br />
+9. [男子买彩票中5544万到手4444万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD5544%E4%B8%87%E5%88%B0%E6%89%8B4444%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
