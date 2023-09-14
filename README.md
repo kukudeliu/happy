@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 22:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 22:24:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [深圳人已经开始喝上冰中式了](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%96%9D%E4%B8%8A%E5%86%B0%E4%B8%AD%E5%BC%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [你不知道的亚运事](https://www.baidu.com/s?wd=%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%9A%E8%BF%90%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男童撑伞从26楼跳下后生还](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E6%92%91%E4%BC%9E%E4%BB%8E26%E6%A5%BC%E8%B7%B3%E4%B8%8B%E5%90%8E%E7%94%9F%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [郁美净不到一天涨粉32万](https://www.baidu.com/s?wd=%E9%83%81%E7%BE%8E%E5%87%80%E4%B8%8D%E5%88%B0%E4%B8%80%E5%A4%A9%E6%B6%A8%E7%B2%8932%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美媒调查：美国家庭储蓄正在耗尽](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E8%B0%83%E6%9F%A5%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%AE%B6%E5%BA%AD%E5%82%A8%E8%93%84%E6%AD%A3%E5%9C%A8%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [“防猝死套餐” 新的智商税？](https://www.baidu.com/s?wd=%E2%80%9C%E9%98%B2%E7%8C%9D%E6%AD%BB%E5%A5%97%E9%A4%90%E2%80%9D+%E6%96%B0%E7%9A%84%E6%99%BA%E5%95%86%E7%A8%8E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [鸿星尔克回应直播间卖国货拼盘](https://www.baidu.com/s?wd=%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E5%9B%BD%E8%B4%A7%E6%8B%BC%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [外星人真存在吗？中国航天官方发声](https://www.baidu.com/s?wd=%E5%A4%96%E6%98%9F%E4%BA%BA%E7%9C%9F%E5%AD%98%E5%9C%A8%E5%90%97%EF%BC%9F%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%AE%98%E6%96%B9%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“河中发现巨型长虫”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B2%B3%E4%B8%AD%E5%8F%91%E7%8E%B0%E5%B7%A8%E5%9E%8B%E9%95%BF%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [深圳人已经开始喝上冰中式了](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%96%9D%E4%B8%8A%E5%86%B0%E4%B8%AD%E5%BC%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [你不知道的亚运事](https://www.baidu.com/s?wd=%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%9A%E8%BF%90%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男童撑伞从26楼跳下后生还](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E6%92%91%E4%BC%9E%E4%BB%8E26%E6%A5%BC%E8%B7%B3%E4%B8%8B%E5%90%8E%E7%94%9F%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [郁美净不到一天涨粉32万](https://www.baidu.com/s?wd=%E9%83%81%E7%BE%8E%E5%87%80%E4%B8%8D%E5%88%B0%E4%B8%80%E5%A4%A9%E6%B6%A8%E7%B2%8932%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美媒调查：美国家庭储蓄正在耗尽](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E8%B0%83%E6%9F%A5%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%AE%B6%E5%BA%AD%E5%82%A8%E8%93%84%E6%AD%A3%E5%9C%A8%E8%80%97%E5%B0%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [“防猝死套餐” 新的智商税？](https://www.baidu.com/s?wd=%E2%80%9C%E9%98%B2%E7%8C%9D%E6%AD%BB%E5%A5%97%E9%A4%90%E2%80%9D+%E6%96%B0%E7%9A%84%E6%99%BA%E5%95%86%E7%A8%8E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [鸿星尔克回应直播间卖国货拼盘](https://www.baidu.com/s?wd=%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E5%9B%BD%E8%B4%A7%E6%8B%BC%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [外星人真存在吗？中国航天官方发声](https://www.baidu.com/s?wd=%E5%A4%96%E6%98%9F%E4%BA%BA%E7%9C%9F%E5%AD%98%E5%9C%A8%E5%90%97%EF%BC%9F%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%AE%98%E6%96%B9%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“河中发现巨型长虫”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B2%B3%E4%B8%AD%E5%8F%91%E7%8E%B0%E5%B7%A8%E5%9E%8B%E9%95%BF%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
