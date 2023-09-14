@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 16:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 16:16:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [新时代成就巡礼](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%E6%88%90%E5%B0%B1%E5%B7%A1%E7%A4%BC%23&t=31&band_rank=3&Refer=top)<br />
 4. [茅台 我和德芙官宣了](https://s.weibo.com/weibo?q=%E8%8C%85%E5%8F%B0%20%E6%88%91%E5%92%8C%E5%BE%B7%E8%8A%99%E5%AE%98%E5%AE%A3%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [苍兰诀 全员上桌](https://s.weibo.com/weibo?q=%E8%8B%8D%E5%85%B0%E8%AF%80%20%E5%85%A8%E5%91%98%E4%B8%8A%E6%A1%8C&t=31&band_rank=5&Refer=top)<br />
-6. [12306建议没买到票的用户立即候补](https://s.weibo.com/weibo?q=%2312306%E5%BB%BA%E8%AE%AE%E6%B2%A1%E4%B9%B0%E5%88%B0%E7%A5%A8%E7%9A%84%E7%94%A8%E6%88%B7%E7%AB%8B%E5%8D%B3%E5%80%99%E8%A1%A5%23&t=31&band_rank=6&Refer=top)<br />
-7. [警方通报上海一中学疑似发生投毒](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%8A%E6%B5%B7%E4%B8%80%E4%B8%AD%E5%AD%A6%E7%96%91%E4%BC%BC%E5%8F%91%E7%94%9F%E6%8A%95%E6%AF%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [马斯克表态台湾是中国一部分](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A1%A8%E6%80%81%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%B8%80%E9%83%A8%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [鸟巢第一人](https://s.weibo.com/weibo?q=%E9%B8%9F%E5%B7%A2%E7%AC%AC%E4%B8%80%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
+6. [警方通报上海一中学疑似发生投毒](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%8A%E6%B5%B7%E4%B8%80%E4%B8%AD%E5%AD%A6%E7%96%91%E4%BC%BC%E5%8F%91%E7%94%9F%E6%8A%95%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
+7. [12306建议没买到票的用户立即候补](https://s.weibo.com/weibo?q=%2312306%E5%BB%BA%E8%AE%AE%E6%B2%A1%E4%B9%B0%E5%88%B0%E7%A5%A8%E7%9A%84%E7%94%A8%E6%88%B7%E7%AB%8B%E5%8D%B3%E5%80%99%E8%A1%A5%23&t=31&band_rank=7&Refer=top)<br />
+8. [鸟巢第一人](https://s.weibo.com/weibo?q=%E9%B8%9F%E5%B7%A2%E7%AC%AC%E4%B8%80%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
+9. [马斯克表态台湾是中国一部分](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A1%A8%E6%80%81%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%B8%80%E9%83%A8%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
