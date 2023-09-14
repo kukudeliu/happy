@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 16:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 16:51:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [夫妻制售避孕套造型糖果被罚没41万](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%88%B6%E5%94%AE%E9%81%BF%E5%AD%95%E5%A5%97%E9%80%A0%E5%9E%8B%E7%B3%96%E6%9E%9C%E8%A2%AB%E7%BD%9A%E6%B2%A141%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [成都一博物馆标本被掰断](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E5%8D%9A%E7%89%A9%E9%A6%86%E6%A0%87%E6%9C%AC%E8%A2%AB%E6%8E%B0%E6%96%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [北上深有可能取消限购吗？专家解读](https://www.baidu.com/s?wd=%E5%8C%97%E4%B8%8A%E6%B7%B1%E6%9C%89%E5%8F%AF%E8%83%BD%E5%8F%96%E6%B6%88%E9%99%90%E8%B4%AD%E5%90%97%EF%BC%9F%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [社区辟谣公寓楼电梯内发生命案](https://www.baidu.com/s?wd=%E7%A4%BE%E5%8C%BA%E8%BE%9F%E8%B0%A3%E5%85%AC%E5%AF%93%E6%A5%BC%E7%94%B5%E6%A2%AF%E5%86%85%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学生未交保护费被扔被褥系其自导](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%9C%AA%E4%BA%A4%E4%BF%9D%E6%8A%A4%E8%B4%B9%E8%A2%AB%E6%89%94%E8%A2%AB%E8%A4%A5%E7%B3%BB%E5%85%B6%E8%87%AA%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [夫妻制售避孕套造型糖果被罚没41万](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%88%B6%E5%94%AE%E9%81%BF%E5%AD%95%E5%A5%97%E9%80%A0%E5%9E%8B%E7%B3%96%E6%9E%9C%E8%A2%AB%E7%BD%9A%E6%B2%A141%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [成都一博物馆标本被掰断](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E5%8D%9A%E7%89%A9%E9%A6%86%E6%A0%87%E6%9C%AC%E8%A2%AB%E6%8E%B0%E6%96%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [北上深有可能取消限购吗？专家解读](https://www.baidu.com/s?wd=%E5%8C%97%E4%B8%8A%E6%B7%B1%E6%9C%89%E5%8F%AF%E8%83%BD%E5%8F%96%E6%B6%88%E9%99%90%E8%B4%AD%E5%90%97%EF%BC%9F%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [社区辟谣公寓楼电梯内发生命案](https://www.baidu.com/s?wd=%E7%A4%BE%E5%8C%BA%E8%BE%9F%E8%B0%A3%E5%85%AC%E5%AF%93%E6%A5%BC%E7%94%B5%E6%A2%AF%E5%86%85%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学生未交保护费被扔被褥系其自导](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%9C%AA%E4%BA%A4%E4%BF%9D%E6%8A%A4%E8%B4%B9%E8%A2%AB%E6%89%94%E8%A2%AB%E8%A4%A5%E7%B3%BB%E5%85%B6%E8%87%AA%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
