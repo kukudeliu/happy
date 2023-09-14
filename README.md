@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 09:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 09:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [多地网友称看到UFO](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%9C%8B%E5%88%B0UFO%23&t=31&band_rank=6&Refer=top)<br />
 7. [中科院博士还原被骗至缅甸经历](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E8%BF%98%E5%8E%9F%E8%A2%AB%E9%AA%97%E8%87%B3%E7%BC%85%E7%94%B8%E7%BB%8F%E5%8E%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [14岁女孩花10年潜伏进暗恋对象的生活](https://s.weibo.com/weibo?q=14%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%8A%B110%E5%B9%B4%E6%BD%9C%E4%BC%8F%E8%BF%9B%E6%9A%97%E6%81%8B%E5%AF%B9%E8%B1%A1%E7%9A%84%E7%94%9F%E6%B4%BB&t=31&band_rank=8&Refer=top)<br />
-9. [金店销售发工资就攒金豆子](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%BA%97%E9%94%80%E5%94%AE%E5%8F%91%E5%B7%A5%E8%B5%84%E5%B0%B1%E6%94%92%E9%87%91%E8%B1%86%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [霍启刚履新](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E5%B1%A5%E6%96%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
