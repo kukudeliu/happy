@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 23:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 23:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [iPhone14价格不降反涨](https://s.weibo.com/weibo?q=%23iPhone14%E4%BB%B7%E6%A0%BC%E4%B8%8D%E9%99%8D%E5%8F%8D%E6%B6%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [成都停电](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E5%81%9C%E7%94%B5&t=31&band_rank=7&Refer=top)<br />
 8. [终于学会耳后双C发型了](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E5%AD%A6%E4%BC%9A%E8%80%B3%E5%90%8E%E5%8F%8CC%E5%8F%91%E5%9E%8B%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [全场给冯宝宝哭丧](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9C%BA%E7%BB%99%E5%86%AF%E5%AE%9D%E5%AE%9D%E5%93%AD%E4%B8%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子买彩票中5544万到手4444万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD5544%E4%B8%87%E5%88%B0%E6%89%8B4444%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
