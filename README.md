@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 11:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 11:10:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [茅台 我和德芙官宣了](https://s.weibo.com/weibo?q=%E8%8C%85%E5%8F%B0%20%E6%88%91%E5%92%8C%E5%BE%B7%E8%8A%99%E5%AE%98%E5%AE%A3%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [高空抛烟头烫伤4个月婴儿全楼测DNA](https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%83%9F%E5%A4%B4%E7%83%AB%E4%BC%A44%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E5%85%A8%E6%A5%BC%E6%B5%8BDNA%23&t=31&band_rank=5&Refer=top)<br />
 6. [郁美净终于通网](https://s.weibo.com/weibo?q=%E9%83%81%E7%BE%8E%E5%87%80%E7%BB%88%E4%BA%8E%E9%80%9A%E7%BD%91&t=31&band_rank=6&Refer=top)<br />
-7. [全球首个承认外星生物存在的国家](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E6%89%BF%E8%AE%A4%E5%A4%96%E6%98%9F%E7%94%9F%E7%89%A9%E5%AD%98%E5%9C%A8%E7%9A%84%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [华为选在孟晚舟归来日举办发布会](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%80%89%E5%9C%A8%E5%AD%9F%E6%99%9A%E8%88%9F%E5%BD%92%E6%9D%A5%E6%97%A5%E4%B8%BE%E5%8A%9E%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [华为Mate60发布会定档](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate60%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=9&Refer=top)<br />
+7. [华为选在孟晚舟归来日举办发布会](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%80%89%E5%9C%A8%E5%AD%9F%E6%99%9A%E8%88%9F%E5%BD%92%E6%9D%A5%E6%97%A5%E4%B8%BE%E5%8A%9E%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
+8. [全球首个承认外星生物存在的国家](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E6%89%BF%E8%AE%A4%E5%A4%96%E6%98%9F%E7%94%9F%E7%89%A9%E5%AD%98%E5%9C%A8%E7%9A%84%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [你的钱也不是天上刮来的](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E9%92%B1%E4%B9%9F%E4%B8%8D%E6%98%AF%E5%A4%A9%E4%B8%8A%E5%88%AE%E6%9D%A5%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
