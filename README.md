@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 01:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 01:14:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [深圳人已经开始喝上冰中式了](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%96%9D%E4%B8%8A%E5%86%B0%E4%B8%AD%E5%BC%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [你不知道的亚运事](https://www.baidu.com/s?wd=%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%9A%E8%BF%90%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [泰国为什么等不来中国游客？](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AD%89%E4%B8%8D%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [金融机构不得与违法失德明星合作](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84%E4%B8%8D%E5%BE%97%E4%B8%8E%E8%BF%9D%E6%B3%95%E5%A4%B1%E5%BE%B7%E6%98%8E%E6%98%9F%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [西南大学通报“保安扔花事件”](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E2%80%9C%E4%BF%9D%E5%AE%89%E6%89%94%E8%8A%B1%E4%BA%8B%E4%BB%B6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方回应前局长孙女炫富事件不公开](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%89%8D%E5%B1%80%E9%95%BF%E5%AD%99%E5%A5%B3%E7%82%AB%E5%AF%8C%E4%BA%8B%E4%BB%B6%E4%B8%8D%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [网红防猝死套餐有用吗？医生解读](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E9%98%B2%E7%8C%9D%E6%AD%BB%E5%A5%97%E9%A4%90%E6%9C%89%E7%94%A8%E5%90%97%EF%BC%9F%E5%8C%BB%E7%94%9F%E8%A7%A3%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [台当局正把台湾变成地雷岛弹药库](https://www.baidu.com/s?wd=%E5%8F%B0%E5%BD%93%E5%B1%80%E6%AD%A3%E6%8A%8A%E5%8F%B0%E6%B9%BE%E5%8F%98%E6%88%90%E5%9C%B0%E9%9B%B7%E5%B2%9B%E5%BC%B9%E8%8D%AF%E5%BA%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [顾客称烤肉流出粉色奶油状液体](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E7%A7%B0%E7%83%A4%E8%82%89%E6%B5%81%E5%87%BA%E7%B2%89%E8%89%B2%E5%A5%B6%E6%B2%B9%E7%8A%B6%E6%B6%B2%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“河中发现巨型长虫”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B2%B3%E4%B8%AD%E5%8F%91%E7%8E%B0%E5%B7%A8%E5%9E%8B%E9%95%BF%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [深圳人已经开始喝上冰中式了](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%96%9D%E4%B8%8A%E5%86%B0%E4%B8%AD%E5%BC%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [你不知道的亚运事](https://www.baidu.com/s?wd=%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%9A%E8%BF%90%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [泰国为什么等不来中国游客？](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AD%89%E4%B8%8D%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [金融机构不得与违法失德明星合作](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84%E4%B8%8D%E5%BE%97%E4%B8%8E%E8%BF%9D%E6%B3%95%E5%A4%B1%E5%BE%B7%E6%98%8E%E6%98%9F%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [西南大学通报“保安扔花事件”](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E2%80%9C%E4%BF%9D%E5%AE%89%E6%89%94%E8%8A%B1%E4%BA%8B%E4%BB%B6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方回应前局长孙女炫富事件不公开](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%89%8D%E5%B1%80%E9%95%BF%E5%AD%99%E5%A5%B3%E7%82%AB%E5%AF%8C%E4%BA%8B%E4%BB%B6%E4%B8%8D%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [网红防猝死套餐有用吗？医生解读](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E9%98%B2%E7%8C%9D%E6%AD%BB%E5%A5%97%E9%A4%90%E6%9C%89%E7%94%A8%E5%90%97%EF%BC%9F%E5%8C%BB%E7%94%9F%E8%A7%A3%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [台当局正把台湾变成地雷岛弹药库](https://www.baidu.com/s?wd=%E5%8F%B0%E5%BD%93%E5%B1%80%E6%AD%A3%E6%8A%8A%E5%8F%B0%E6%B9%BE%E5%8F%98%E6%88%90%E5%9C%B0%E9%9B%B7%E5%B2%9B%E5%BC%B9%E8%8D%AF%E5%BA%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [顾客称烤肉流出粉色奶油状液体](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E7%A7%B0%E7%83%A4%E8%82%89%E6%B5%81%E5%87%BA%E7%B2%89%E8%89%B2%E5%A5%B6%E6%B2%B9%E7%8A%B6%E6%B6%B2%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“河中发现巨型长虫”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B2%B3%E4%B8%AD%E5%8F%91%E7%8E%B0%E5%B7%A8%E5%9E%8B%E9%95%BF%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
