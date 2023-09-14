@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 00:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 00:59:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [深圳人已经开始喝上冰中式了](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%96%9D%E4%B8%8A%E5%86%B0%E4%B8%AD%E5%BC%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [你不知道的亚运事](https://www.baidu.com/s?wd=%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%9A%E8%BF%90%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [泰国为什么等不来中国游客？](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AD%89%E4%B8%8D%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [大妈放生百余盆田螺 官方称无害](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E6%94%BE%E7%94%9F%E7%99%BE%E4%BD%99%E7%9B%86%E7%94%B0%E8%9E%BA+%E5%AE%98%E6%96%B9%E7%A7%B0%E6%97%A0%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [官方回应前局长孙女炫富事件不公开](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%89%8D%E5%B1%80%E9%95%BF%E5%AD%99%E5%A5%B3%E7%82%AB%E5%AF%8C%E4%BA%8B%E4%BB%B6%E4%B8%8D%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子称被奥迪女司机别停后遭掌掴](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E8%A2%AB%E5%A5%A5%E8%BF%AA%E5%A5%B3%E5%8F%B8%E6%9C%BA%E5%88%AB%E5%81%9C%E5%90%8E%E9%81%AD%E6%8E%8C%E6%8E%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [初中生投毒致多人不适 疑家长道歉](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E6%8A%95%E6%AF%92%E8%87%B4%E5%A4%9A%E4%BA%BA%E4%B8%8D%E9%80%82+%E7%96%91%E5%AE%B6%E9%95%BF%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网友曝花西子五只化妆刷919元](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%9B%9D%E8%8A%B1%E8%A5%BF%E5%AD%90%E4%BA%94%E5%8F%AA%E5%8C%96%E5%A6%86%E5%88%B7919%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [涉黑组织头目曾是外国语学校校长](https://www.baidu.com/s?wd=%E6%B6%89%E9%BB%91%E7%BB%84%E7%BB%87%E5%A4%B4%E7%9B%AE%E6%9B%BE%E6%98%AF%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%AD%A6%E6%A0%A1%E6%A0%A1%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“河中发现巨型长虫”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B2%B3%E4%B8%AD%E5%8F%91%E7%8E%B0%E5%B7%A8%E5%9E%8B%E9%95%BF%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [深圳人已经开始喝上冰中式了](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%96%9D%E4%B8%8A%E5%86%B0%E4%B8%AD%E5%BC%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [你不知道的亚运事](https://www.baidu.com/s?wd=%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%9A%E8%BF%90%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [泰国为什么等不来中国游客？](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AD%89%E4%B8%8D%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [大妈放生百余盆田螺 官方称无害](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E6%94%BE%E7%94%9F%E7%99%BE%E4%BD%99%E7%9B%86%E7%94%B0%E8%9E%BA+%E5%AE%98%E6%96%B9%E7%A7%B0%E6%97%A0%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [官方回应前局长孙女炫富事件不公开](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%89%8D%E5%B1%80%E9%95%BF%E5%AD%99%E5%A5%B3%E7%82%AB%E5%AF%8C%E4%BA%8B%E4%BB%B6%E4%B8%8D%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子称被奥迪女司机别停后遭掌掴](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E8%A2%AB%E5%A5%A5%E8%BF%AA%E5%A5%B3%E5%8F%B8%E6%9C%BA%E5%88%AB%E5%81%9C%E5%90%8E%E9%81%AD%E6%8E%8C%E6%8E%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [初中生投毒致多人不适 疑家长道歉](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E6%8A%95%E6%AF%92%E8%87%B4%E5%A4%9A%E4%BA%BA%E4%B8%8D%E9%80%82+%E7%96%91%E5%AE%B6%E9%95%BF%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网友曝花西子五只化妆刷919元](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%9B%9D%E8%8A%B1%E8%A5%BF%E5%AD%90%E4%BA%94%E5%8F%AA%E5%8C%96%E5%A6%86%E5%88%B7919%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [涉黑组织头目曾是外国语学校校长](https://www.baidu.com/s?wd=%E6%B6%89%E9%BB%91%E7%BB%84%E7%BB%87%E5%A4%B4%E7%9B%AE%E6%9B%BE%E6%98%AF%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%AD%A6%E6%A0%A1%E6%A0%A1%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“河中发现巨型长虫”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B2%B3%E4%B8%AD%E5%8F%91%E7%8E%B0%E5%B7%A8%E5%9E%8B%E9%95%BF%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
