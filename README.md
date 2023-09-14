@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 00:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 00:23:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [抗日小饼干](https://s.weibo.com/weibo?q=%E6%8A%97%E6%97%A5%E5%B0%8F%E9%A5%BC%E5%B9%B2&t=31&band_rank=5&Refer=top)<br />
 6. [肖战说向同事分享美食被嫌弃](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E5%90%91%E5%90%8C%E4%BA%8B%E5%88%86%E4%BA%AB%E7%BE%8E%E9%A3%9F%E8%A2%AB%E5%AB%8C%E5%BC%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [奈雪按销售情况向周杰伦支付IP费](https://s.weibo.com/weibo?q=%23%E5%A5%88%E9%9B%AA%E6%8C%89%E9%94%80%E5%94%AE%E6%83%85%E5%86%B5%E5%90%91%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%94%AF%E4%BB%98IP%E8%B4%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [卢浮宫Loopy 阴阳怪气的粉肠贵妇](https://s.weibo.com/weibo?q=%E5%8D%A2%E6%B5%AE%E5%AE%ABLoopy%20%E9%98%B4%E9%98%B3%E6%80%AA%E6%B0%94%E7%9A%84%E7%B2%89%E8%82%A0%E8%B4%B5%E5%A6%87&t=31&band_rank=8&Refer=top)<br />
+8. [华为](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA&t=31&band_rank=8&Refer=top)<br />
 9. [高铁上化妆列为不文明行为网友为何不认可](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E5%8C%96%E5%A6%86%E5%88%97%E4%B8%BA%E4%B8%8D%E6%96%87%E6%98%8E%E8%A1%8C%E4%B8%BA%E7%BD%91%E5%8F%8B%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%AE%A4%E5%8F%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
