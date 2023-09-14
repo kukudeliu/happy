@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 09:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 09:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [全球首个承认外星生物存在的国家](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E6%89%BF%E8%AE%A4%E5%A4%96%E6%98%9F%E7%94%9F%E7%89%A9%E5%AD%98%E5%9C%A8%E7%9A%84%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [华为Mate60发布会定档](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate60%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [UFO](https://s.weibo.com/weibo?q=UFO&t=31&band_rank=8&Refer=top)<br />
-9. [辛苦一晚上偷一条街全得还回去](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8B%A6%E4%B8%80%E6%99%9A%E4%B8%8A%E5%81%B7%E4%B8%80%E6%9D%A1%E8%A1%97%E5%85%A8%E5%BE%97%E8%BF%98%E5%9B%9E%E5%8E%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [网络攻击我大学的美相关人员身份被锁定](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E6%88%91%E5%A4%A7%E5%AD%A6%E7%9A%84%E7%BE%8E%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%91%98%E8%BA%AB%E4%BB%BD%E8%A2%AB%E9%94%81%E5%AE%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
