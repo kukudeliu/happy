@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 13:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 13:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [倪妮人前A人后C](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E4%BA%BA%E5%89%8DA%E4%BA%BA%E5%90%8EC%23&t=31&band_rank=6&Refer=top)<br />
 7. [妻子拿丈夫百万死亡赔偿款拒分给公婆](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E6%8B%BF%E4%B8%88%E5%A4%AB%E7%99%BE%E4%B8%87%E6%AD%BB%E4%BA%A1%E8%B5%94%E5%81%BF%E6%AC%BE%E6%8B%92%E5%88%86%E7%BB%99%E5%85%AC%E5%A9%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [高空抛烟头烫伤4个月婴儿全楼测DNA](https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%83%9F%E5%A4%B4%E7%83%AB%E4%BC%A44%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E5%85%A8%E6%A5%BC%E6%B5%8BDNA%23&t=31&band_rank=8&Refer=top)<br />
-9. [12306抢票](https://s.weibo.com/weibo?q=%2312306%E6%8A%A2%E7%A5%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [12306建议没买到票的用户立即候补](https://s.weibo.com/weibo?q=%2312306%E5%BB%BA%E8%AE%AE%E6%B2%A1%E4%B9%B0%E5%88%B0%E7%A5%A8%E7%9A%84%E7%94%A8%E6%88%B7%E7%AB%8B%E5%8D%B3%E5%80%99%E8%A1%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
