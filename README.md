@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 10:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 10:14:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [小伙酷似张翰 工厂打螺丝假动作不断](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%85%B7%E4%BC%BC%E5%BC%A0%E7%BF%B0+%E5%B7%A5%E5%8E%82%E6%89%93%E8%9E%BA%E4%B8%9D%E5%81%87%E5%8A%A8%E4%BD%9C%E4%B8%8D%E6%96%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [辛苦一晚上偷一条街全得还回去](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8B%A6%E4%B8%80%E6%99%9A%E4%B8%8A%E5%81%B7%E4%B8%80%E6%9D%A1%E8%A1%97%E5%85%A8%E5%BE%97%E8%BF%98%E5%9B%9E%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子科目一考7次没过第8次被抓](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%91%E7%9B%AE%E4%B8%80%E8%80%837%E6%AC%A1%E6%B2%A1%E8%BF%87%E7%AC%AC8%E6%AC%A1%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川凉山山体大面积垮塌为假消息](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E5%B1%B1%E4%BD%93%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%9E%AE%E5%A1%8C%E4%B8%BA%E5%81%87%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [司机见义勇为被罚5千？警方辟谣](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E8%A2%AB%E7%BD%9A5%E5%8D%83%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [小伙酷似张翰 工厂打螺丝假动作不断](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%85%B7%E4%BC%BC%E5%BC%A0%E7%BF%B0+%E5%B7%A5%E5%8E%82%E6%89%93%E8%9E%BA%E4%B8%9D%E5%81%87%E5%8A%A8%E4%BD%9C%E4%B8%8D%E6%96%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [辛苦一晚上偷一条街全得还回去](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8B%A6%E4%B8%80%E6%99%9A%E4%B8%8A%E5%81%B7%E4%B8%80%E6%9D%A1%E8%A1%97%E5%85%A8%E5%BE%97%E8%BF%98%E5%9B%9E%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子科目一考7次没过第8次被抓](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%91%E7%9B%AE%E4%B8%80%E8%80%837%E6%AC%A1%E6%B2%A1%E8%BF%87%E7%AC%AC8%E6%AC%A1%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川凉山山体大面积垮塌为假消息](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E5%B1%B1%E4%BD%93%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%9E%AE%E5%A1%8C%E4%B8%BA%E5%81%87%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [司机见义勇为被罚5千？警方辟谣](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E8%A2%AB%E7%BD%9A5%E5%8D%83%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
