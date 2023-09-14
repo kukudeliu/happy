@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 12:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 12:50:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [马斯克表态台湾是中国一部分](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A1%A8%E6%80%81%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%B8%80%E9%83%A8%E5%88%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [12306抢票](https://s.weibo.com/weibo?q=%2312306%E6%8A%A2%E7%A5%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [茅台巧克力单颗价格或超20元](https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%8D%95%E9%A2%97%E4%BB%B7%E6%A0%BC%E6%88%96%E8%B6%8520%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [高空抛烟头烫伤4个月婴儿全楼测DNA](https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%83%9F%E5%A4%B4%E7%83%AB%E4%BC%A44%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E5%85%A8%E6%A5%BC%E6%B5%8BDNA%23&t=31&band_rank=8&Refer=top)<br />
-9. [妻子拿丈夫百万死亡赔偿款拒分给公婆](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E6%8B%BF%E4%B8%88%E5%A4%AB%E7%99%BE%E4%B8%87%E6%AD%BB%E4%BA%A1%E8%B5%94%E5%81%BF%E6%AC%BE%E6%8B%92%E5%88%86%E7%BB%99%E5%85%AC%E5%A9%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [妻子拿丈夫百万死亡赔偿款拒分给公婆](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E6%8B%BF%E4%B8%88%E5%A4%AB%E7%99%BE%E4%B8%87%E6%AD%BB%E4%BA%A1%E8%B5%94%E5%81%BF%E6%AC%BE%E6%8B%92%E5%88%86%E7%BB%99%E5%85%AC%E5%A9%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [高空抛烟头烫伤4个月婴儿全楼测DNA](https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%83%9F%E5%A4%B4%E7%83%AB%E4%BC%A44%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E5%85%A8%E6%A5%BC%E6%B5%8BDNA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
