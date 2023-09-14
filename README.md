@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 20:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 20:07:01</h4></div>
 
 > 微博  
 
-1. [深圳人已经开始喝上冰中式了](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%96%9D%E4%B8%8A%E5%86%B0%E4%B8%AD%E5%BC%8F%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [外媒曝Lisa拒绝和YG续约](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%9B%9DLisa%E6%8B%92%E7%BB%9D%E5%92%8CYG%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=2&Refer=top)<br />
+1. [外媒曝Lisa拒绝和YG续约](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%9B%9DLisa%E6%8B%92%E7%BB%9D%E5%92%8CYG%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=1&Refer=top)<br />
+2. [深圳人已经开始喝上冰中式了](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%96%9D%E4%B8%8A%E5%86%B0%E4%B8%AD%E5%BC%8F%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国的朋友圈会越来越广](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B9%BF%23&t=31&band_rank=3&Refer=top)<br />
 4. [iPhone14价格不降反涨](https://s.weibo.com/weibo?q=%23iPhone14%E4%BB%B7%E6%A0%BC%E4%B8%8D%E9%99%8D%E5%8F%8D%E6%B6%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [宫二终于知道了谁才是无锋首领](https://s.weibo.com/weibo?q=%E5%AE%AB%E4%BA%8C%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%BA%86%E8%B0%81%E6%89%8D%E6%98%AF%E6%97%A0%E9%94%8B%E9%A6%96%E9%A2%86&t=31&band_rank=5&Refer=top)<br />
