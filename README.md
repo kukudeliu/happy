@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 09:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 09:31:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [高空抛烟头烫伤4个月婴儿全楼测DNA](https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%83%9F%E5%A4%B4%E7%83%AB%E4%BC%A44%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E5%85%A8%E6%A5%BC%E6%B5%8BDNA%23&t=31&band_rank=4&Refer=top)<br />
 5. [辛苦一晚上偷一条街全得还回去](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8B%A6%E4%B8%80%E6%99%9A%E4%B8%8A%E5%81%B7%E4%B8%80%E6%9D%A1%E8%A1%97%E5%85%A8%E5%BE%97%E8%BF%98%E5%9B%9E%E5%8E%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [UFO](https://s.weibo.com/weibo?q=UFO&t=31&band_rank=6&Refer=top)<br />
-7. [霍启刚履新](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E5%B1%A5%E6%96%B0%23&t=31&band_rank=7&Refer=top)<br />
-8. [蜜雪冰城被复刻了](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A2%AB%E5%A4%8D%E5%88%BB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [蜜雪冰城被复刻了](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A2%AB%E5%A4%8D%E5%88%BB%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [霍启刚履新](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E5%B1%A5%E6%96%B0%23&t=31&band_rank=8&Refer=top)<br />
 9. [广东鳄鱼暴雨中出逃已抓回36条](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E9%B3%84%E9%B1%BC%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%87%BA%E9%80%83%E5%B7%B2%E6%8A%93%E5%9B%9E36%E6%9D%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
