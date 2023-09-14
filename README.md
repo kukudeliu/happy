@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 22:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 22:58:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [奈雪按销售情况向周杰伦支付IP费](https://s.weibo.com/weibo?q=%23%E5%A5%88%E9%9B%AA%E6%8C%89%E9%94%80%E5%94%AE%E6%83%85%E5%86%B5%E5%90%91%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%94%AF%E4%BB%98IP%E8%B4%B9%23&t=31&band_rank=4&Refer=top)<br />
 5. [iPhone14价格不降反涨](https://s.weibo.com/weibo?q=%23iPhone14%E4%BB%B7%E6%A0%BC%E4%B8%8D%E9%99%8D%E5%8F%8D%E6%B6%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [成都停电](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E5%81%9C%E7%94%B5&t=31&band_rank=6&Refer=top)<br />
-7. [终于学会耳后双C发型了](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E5%AD%A6%E4%BC%9A%E8%80%B3%E5%90%8E%E5%8F%8CC%E5%8F%91%E5%9E%8B%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [iPhone玄学](https://s.weibo.com/weibo?q=iPhone%E7%8E%84%E5%AD%A6&t=31&band_rank=8&Refer=top)<br />
+7. [iPhone玄学](https://s.weibo.com/weibo?q=iPhone%E7%8E%84%E5%AD%A6&t=31&band_rank=7&Refer=top)<br />
+8. [终于学会耳后双C发型了](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E5%AD%A6%E4%BC%9A%E8%80%B3%E5%90%8E%E5%8F%8CC%E5%8F%91%E5%9E%8B%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [最好嗑的是宫尚角这一刻的失望和烦闷](https://s.weibo.com/weibo?q=%E6%9C%80%E5%A5%BD%E5%97%91%E7%9A%84%E6%98%AF%E5%AE%AB%E5%B0%9A%E8%A7%92%E8%BF%99%E4%B8%80%E5%88%BB%E7%9A%84%E5%A4%B1%E6%9C%9B%E5%92%8C%E7%83%A6%E9%97%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
