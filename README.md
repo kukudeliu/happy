@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 22:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 22:09:01</h4></div>
 
 > 微博  
 
@@ -17,24 +17,24 @@
 
 > 百度  
 
-1. [习近平向2023北京文化论坛致贺信](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%912023%E5%8C%97%E4%BA%AC%E6%96%87%E5%8C%96%E8%AE%BA%E5%9D%9B%E8%87%B4%E8%B4%BA%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [新词汇传递鲜明信号](https://www.baidu.com/s?wd=%E6%96%B0%E8%AF%8D%E6%B1%87%E4%BC%A0%E9%80%92%E9%B2%9C%E6%98%8E%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [泰国为什么等不来中国游客？](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AD%89%E4%B8%8D%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [深圳人已经开始喝上冰中式了](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%96%9D%E4%B8%8A%E5%86%B0%E4%B8%AD%E5%BC%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [夯实网络强国安全“基座”](https://www.baidu.com/s?wd=%E5%A4%AF%E5%AE%9E%E7%BD%91%E7%BB%9C%E5%BC%BA%E5%9B%BD%E5%AE%89%E5%85%A8%E2%80%9C%E5%9F%BA%E5%BA%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男童撑伞从26楼跳下后生还](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E6%92%91%E4%BC%9E%E4%BB%8E26%E6%A5%BC%E8%B7%B3%E4%B8%8B%E5%90%8E%E7%94%9F%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [马斯克表态台湾是中国一部分](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A1%A8%E6%80%81%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%B8%80%E9%83%A8%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [妻子拿丈夫百万死亡赔偿拒分给公婆](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E6%8B%BF%E4%B8%88%E5%A4%AB%E7%99%BE%E4%B8%87%E6%AD%BB%E4%BA%A1%E8%B5%94%E5%81%BF%E6%8B%92%E5%88%86%E7%BB%99%E5%85%AC%E5%A9%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [央行宣布将全面降准0.25个百分点](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%AE%A3%E5%B8%83%E5%B0%86%E5%85%A8%E9%9D%A2%E9%99%8D%E5%87%860.25%E4%B8%AA%E7%99%BE%E5%88%86%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小偷1夜挖700斤芋头被抓 农户笑了](https://www.baidu.com/s?wd=%E5%B0%8F%E5%81%B71%E5%A4%9C%E6%8C%96700%E6%96%A4%E8%8A%8B%E5%A4%B4%E8%A2%AB%E6%8A%93+%E5%86%9C%E6%88%B7%E7%AC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“河中发现巨型长虫”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B2%B3%E4%B8%AD%E5%8F%91%E7%8E%B0%E5%B7%A8%E5%9E%8B%E9%95%BF%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
-1. [习近平向2023北京文化论坛致贺信](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%912023%E5%8C%97%E4%BA%AC%E6%96%87%E5%8C%96%E8%AE%BA%E5%9D%9B%E8%87%B4%E8%B4%BA%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [新词汇传递鲜明信号](https://www.baidu.com/s?wd=%E6%96%B0%E8%AF%8D%E6%B1%87%E4%BC%A0%E9%80%92%E9%B2%9C%E6%98%8E%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [泰国为什么等不来中国游客？](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AD%89%E4%B8%8D%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [深圳人已经开始喝上冰中式了](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%96%9D%E4%B8%8A%E5%86%B0%E4%B8%AD%E5%BC%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [夯实网络强国安全“基座”](https://www.baidu.com/s?wd=%E5%A4%AF%E5%AE%9E%E7%BD%91%E7%BB%9C%E5%BC%BA%E5%9B%BD%E5%AE%89%E5%85%A8%E2%80%9C%E5%9F%BA%E5%BA%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男童撑伞从26楼跳下后生还](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E6%92%91%E4%BC%9E%E4%BB%8E26%E6%A5%BC%E8%B7%B3%E4%B8%8B%E5%90%8E%E7%94%9F%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [马斯克表态台湾是中国一部分](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A1%A8%E6%80%81%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%B8%80%E9%83%A8%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [妻子拿丈夫百万死亡赔偿拒分给公婆](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E6%8B%BF%E4%B8%88%E5%A4%AB%E7%99%BE%E4%B8%87%E6%AD%BB%E4%BA%A1%E8%B5%94%E5%81%BF%E6%8B%92%E5%88%86%E7%BB%99%E5%85%AC%E5%A9%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [央行宣布将全面降准0.25个百分点](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%AE%A3%E5%B8%83%E5%B0%86%E5%85%A8%E9%9D%A2%E9%99%8D%E5%87%860.25%E4%B8%AA%E7%99%BE%E5%88%86%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小偷1夜挖700斤芋头被抓 农户笑了](https://www.baidu.com/s?wd=%E5%B0%8F%E5%81%B71%E5%A4%9C%E6%8C%96700%E6%96%A4%E8%8A%8B%E5%A4%B4%E8%A2%AB%E6%8A%93+%E5%86%9C%E6%88%B7%E7%AC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“河中发现巨型长虫”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B2%B3%E4%B8%AD%E5%8F%91%E7%8E%B0%E5%B7%A8%E5%9E%8B%E9%95%BF%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
