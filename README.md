@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 11:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 11:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高空抛烟头烫伤4个月婴儿全楼测DNA](https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%83%9F%E5%A4%B4%E7%83%AB%E4%BC%A44%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E5%85%A8%E6%A5%BC%E6%B5%8BDNA%23&t=31&band_rank=6&Refer=top)<br />
 7. [全球首个承认外星生物存在的国家](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E6%89%BF%E8%AE%A4%E5%A4%96%E6%98%9F%E7%94%9F%E7%89%A9%E5%AD%98%E5%9C%A8%E7%9A%84%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [郁美净终于通网](https://s.weibo.com/weibo?q=%E9%83%81%E7%BE%8E%E5%87%80%E7%BB%88%E4%BA%8E%E9%80%9A%E7%BD%91&t=31&band_rank=8&Refer=top)<br />
-9. [瘫痪小猫被中医医术1秒咔吧接回](https://s.weibo.com/weibo?q=%23%E7%98%AB%E7%97%AA%E5%B0%8F%E7%8C%AB%E8%A2%AB%E4%B8%AD%E5%8C%BB%E5%8C%BB%E6%9C%AF1%E7%A7%92%E5%92%94%E5%90%A7%E6%8E%A5%E5%9B%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [茅台 渣男](https://s.weibo.com/weibo?q=%E8%8C%85%E5%8F%B0%20%E6%B8%A3%E7%94%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [网友：掐着人中订了国庆机票酒店](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%EF%BC%9A%E6%8E%90%E7%9D%80%E4%BA%BA%E4%B8%AD%E8%AE%A2%E4%BA%86%E5%9B%BD%E5%BA%86%E6%9C%BA%E7%A5%A8%E9%85%92%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [研究生因专业多2字报考事业单位遭拒](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%A0%E4%B8%93%E4%B8%9A%E5%A4%9A2%E5%AD%97%E6%8A%A5%E8%80%83%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E9%81%AD%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小伙酷似张翰 工厂打螺丝假动作不断](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%85%B7%E4%BC%BC%E5%BC%A0%E7%BF%B0+%E5%B7%A5%E5%8E%82%E6%89%93%E8%9E%BA%E4%B8%9D%E5%81%87%E5%8A%A8%E4%BD%9C%E4%B8%8D%E6%96%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [辛苦一晚上偷一条街全得还回去](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8B%A6%E4%B8%80%E6%99%9A%E4%B8%8A%E5%81%B7%E4%B8%80%E6%9D%A1%E8%A1%97%E5%85%A8%E5%BE%97%E8%BF%98%E5%9B%9E%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子科目一考7次没过第8次被抓](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%91%E7%9B%AE%E4%B8%80%E8%80%837%E6%AC%A1%E6%B2%A1%E8%BF%87%E7%AC%AC8%E6%AC%A1%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [司机见义勇为被罚5千？警方辟谣](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E8%A2%AB%E7%BD%9A5%E5%8D%83%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [网友：掐着人中订了国庆机票酒店](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%EF%BC%9A%E6%8E%90%E7%9D%80%E4%BA%BA%E4%B8%AD%E8%AE%A2%E4%BA%86%E5%9B%BD%E5%BA%86%E6%9C%BA%E7%A5%A8%E9%85%92%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [研究生因专业多2字报考事业单位遭拒](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%A0%E4%B8%93%E4%B8%9A%E5%A4%9A2%E5%AD%97%E6%8A%A5%E8%80%83%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E9%81%AD%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小伙酷似张翰 工厂打螺丝假动作不断](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%85%B7%E4%BC%BC%E5%BC%A0%E7%BF%B0+%E5%B7%A5%E5%8E%82%E6%89%93%E8%9E%BA%E4%B8%9D%E5%81%87%E5%8A%A8%E4%BD%9C%E4%B8%8D%E6%96%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [辛苦一晚上偷一条街全得还回去](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8B%A6%E4%B8%80%E6%99%9A%E4%B8%8A%E5%81%B7%E4%B8%80%E6%9D%A1%E8%A1%97%E5%85%A8%E5%BE%97%E8%BF%98%E5%9B%9E%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子科目一考7次没过第8次被抓](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%91%E7%9B%AE%E4%B8%80%E8%80%837%E6%AC%A1%E6%B2%A1%E8%BF%87%E7%AC%AC8%E6%AC%A1%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [司机见义勇为被罚5千？警方辟谣](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E8%A2%AB%E7%BD%9A5%E5%8D%83%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
