@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 13:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 14:00:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [男子中5544万大奖：不躺平也不挥霍](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD5544%E4%B8%87%E5%A4%A7%E5%A5%96%EF%BC%9A%E4%B8%8D%E8%BA%BA%E5%B9%B3%E4%B9%9F%E4%B8%8D%E6%8C%A5%E9%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [鸿星尔克主播拿鞋用蜂花洗头发](https://www.baidu.com/s?wd=%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E4%B8%BB%E6%92%AD%E6%8B%BF%E9%9E%8B%E7%94%A8%E8%9C%82%E8%8A%B1%E6%B4%97%E5%A4%B4%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [特斯拉撞飞骑手后冲上人行道](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%92%9E%E9%A3%9E%E9%AA%91%E6%89%8B%E5%90%8E%E5%86%B2%E4%B8%8A%E4%BA%BA%E8%A1%8C%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [司机见义勇为被罚5千？警方辟谣](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E8%A2%AB%E7%BD%9A5%E5%8D%83%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [社区辟谣公寓楼电梯内发生命案](https://www.baidu.com/s?wd=%E7%A4%BE%E5%8C%BA%E8%BE%9F%E8%B0%A3%E5%85%AC%E5%AF%93%E6%A5%BC%E7%94%B5%E6%A2%AF%E5%86%85%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [男子中5544万大奖：不躺平也不挥霍](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD5544%E4%B8%87%E5%A4%A7%E5%A5%96%EF%BC%9A%E4%B8%8D%E8%BA%BA%E5%B9%B3%E4%B9%9F%E4%B8%8D%E6%8C%A5%E9%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [鸿星尔克主播拿鞋用蜂花洗头发](https://www.baidu.com/s?wd=%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E4%B8%BB%E6%92%AD%E6%8B%BF%E9%9E%8B%E7%94%A8%E8%9C%82%E8%8A%B1%E6%B4%97%E5%A4%B4%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [特斯拉撞飞骑手后冲上人行道](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%92%9E%E9%A3%9E%E9%AA%91%E6%89%8B%E5%90%8E%E5%86%B2%E4%B8%8A%E4%BA%BA%E8%A1%8C%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [司机见义勇为被罚5千？警方辟谣](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E8%A2%AB%E7%BD%9A5%E5%8D%83%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [社区辟谣公寓楼电梯内发生命案](https://www.baidu.com/s?wd=%E7%A4%BE%E5%8C%BA%E8%BE%9F%E8%B0%A3%E5%85%AC%E5%AF%93%E6%A5%BC%E7%94%B5%E6%A2%AF%E5%86%85%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
