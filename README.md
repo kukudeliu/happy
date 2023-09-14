@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 18:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 18:21:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [戚薇不反对Lucky进演艺圈](https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E4%B8%8D%E5%8F%8D%E5%AF%B9Lucky%E8%BF%9B%E6%BC%94%E8%89%BA%E5%9C%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [小车侧翻1分钟冲出40多名抬车勇士](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%BD%A6%E4%BE%A7%E7%BF%BB1%E5%88%86%E9%92%9F%E5%86%B2%E5%87%BA40%E5%A4%9A%E5%90%8D%E6%8A%AC%E8%BD%A6%E5%8B%87%E5%A3%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [周杰伦联名奶茶一定要点冰的](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%81%94%E5%90%8D%E5%A5%B6%E8%8C%B6%E4%B8%80%E5%AE%9A%E8%A6%81%E7%82%B9%E5%86%B0%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国航天回应墨西哥展出疑外星遗骸](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%9B%9E%E5%BA%94%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%B1%95%E5%87%BA%E7%96%91%E5%A4%96%E6%98%9F%E9%81%97%E9%AA%B8%23&t=31&band_rank=9&Refer=top)<br />
+9. [12306候补购票成功率达75%](https://s.weibo.com/weibo?q=%2312306%E5%80%99%E8%A1%A5%E8%B4%AD%E7%A5%A8%E6%88%90%E5%8A%9F%E7%8E%87%E8%BE%BE75%25%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
