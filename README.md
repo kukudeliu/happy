@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 14:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 14:13:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [鸿星尔克主播拿鞋用蜂花洗头发](https://s.weibo.com/weibo?q=%23%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E4%B8%BB%E6%92%AD%E6%8B%BF%E9%9E%8B%E7%94%A8%E8%9C%82%E8%8A%B1%E6%B4%97%E5%A4%B4%E5%8F%91%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023网络名人贵州行](https://s.weibo.com/weibo?q=%232023%E7%BD%91%E7%BB%9C%E5%90%8D%E4%BA%BA%E8%B4%B5%E5%B7%9E%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [谢娜 郑乃馨是泰国的张一山](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E9%83%91%E4%B9%83%E9%A6%A8%E6%98%AF%E6%B3%B0%E5%9B%BD%E7%9A%84%E5%BC%A0%E4%B8%80%E5%B1%B1&t=31&band_rank=4&Refer=top)<br />
-5. [5999元你会买华为还是苹果](https://s.weibo.com/weibo?q=%235999%E5%85%83%E4%BD%A0%E4%BC%9A%E4%B9%B0%E5%8D%8E%E4%B8%BA%E8%BF%98%E6%98%AF%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=5&Refer=top)<br />
-6. [12306建议没买到票的用户立即候补](https://s.weibo.com/weibo?q=%2312306%E5%BB%BA%E8%AE%AE%E6%B2%A1%E4%B9%B0%E5%88%B0%E7%A5%A8%E7%9A%84%E7%94%A8%E6%88%B7%E7%AB%8B%E5%8D%B3%E5%80%99%E8%A1%A5%23&t=31&band_rank=6&Refer=top)<br />
+5. [12306建议没买到票的用户立即候补](https://s.weibo.com/weibo?q=%2312306%E5%BB%BA%E8%AE%AE%E6%B2%A1%E4%B9%B0%E5%88%B0%E7%A5%A8%E7%9A%84%E7%94%A8%E6%88%B7%E7%AB%8B%E5%8D%B3%E5%80%99%E8%A1%A5%23&t=31&band_rank=5&Refer=top)<br />
+6. [5999元你会买华为还是苹果](https://s.weibo.com/weibo?q=%235999%E5%85%83%E4%BD%A0%E4%BC%9A%E4%B9%B0%E5%8D%8E%E4%B8%BA%E8%BF%98%E6%98%AF%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [高空抛烟头烫伤4个月婴儿全楼测DNA](https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%83%9F%E5%A4%B4%E7%83%AB%E4%BC%A44%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E5%85%A8%E6%A5%BC%E6%B5%8BDNA%23&t=31&band_rank=7&Refer=top)<br />
-8. [倪妮人前A人后C](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E4%BA%BA%E5%89%8DA%E4%BA%BA%E5%90%8EC%23&t=31&band_rank=8&Refer=top)<br />
-9. [马斯克表态台湾是中国一部分](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A1%A8%E6%80%81%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%B8%80%E9%83%A8%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [马斯克表态台湾是中国一部分](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A1%A8%E6%80%81%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%B8%80%E9%83%A8%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [倪妮人前A人后C](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E4%BA%BA%E5%89%8DA%E4%BA%BA%E5%90%8EC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
