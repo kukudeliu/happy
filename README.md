@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 22:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 22:11:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [习近平向2023北京文化论坛致贺信](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%912023%E5%8C%97%E4%BA%AC%E6%96%87%E5%8C%96%E8%AE%BA%E5%9D%9B%E8%87%B4%E8%B4%BA%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [新词汇传递鲜明信号](https://www.baidu.com/s?wd=%E6%96%B0%E8%AF%8D%E6%B1%87%E4%BC%A0%E9%80%92%E9%B2%9C%E6%98%8E%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [泰国为什么等不来中国游客？](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AD%89%E4%B8%8D%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [深圳人已经开始喝上冰中式了](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%96%9D%E4%B8%8A%E5%86%B0%E4%B8%AD%E5%BC%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [你不知道的亚运事](https://www.baidu.com/s?wd=%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%9A%E8%BF%90%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [习近平向2023北京文化论坛致贺信](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%912023%E5%8C%97%E4%BA%AC%E6%96%87%E5%8C%96%E8%AE%BA%E5%9D%9B%E8%87%B4%E8%B4%BA%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [新词汇传递鲜明信号](https://www.baidu.com/s?wd=%E6%96%B0%E8%AF%8D%E6%B1%87%E4%BC%A0%E9%80%92%E9%B2%9C%E6%98%8E%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [泰国为什么等不来中国游客？](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AD%89%E4%B8%8D%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [深圳人已经开始喝上冰中式了](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%96%9D%E4%B8%8A%E5%86%B0%E4%B8%AD%E5%BC%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [你不知道的亚运事](https://www.baidu.com/s?wd=%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%9A%E8%BF%90%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
