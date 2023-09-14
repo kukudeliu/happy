@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 11:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 11:04:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [全球首个承认外星生物存在的国家](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E6%89%BF%E8%AE%A4%E5%A4%96%E6%98%9F%E7%94%9F%E7%89%A9%E5%AD%98%E5%9C%A8%E7%9A%84%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [华为Mate60发布会定档](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate60%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [你的钱也不是天上刮来的](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E9%92%B1%E4%B9%9F%E4%B8%8D%E6%98%AF%E5%A4%A9%E4%B8%8A%E5%88%AE%E6%9D%A5%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [霍启刚担任中粮集团外部董事](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E6%8B%85%E4%BB%BB%E4%B8%AD%E7%B2%AE%E9%9B%86%E5%9B%A2%E5%A4%96%E9%83%A8%E8%91%A3%E4%BA%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [华为选在孟晚舟归来日举办发布会](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%80%89%E5%9C%A8%E5%AD%9F%E6%99%9A%E8%88%9F%E5%BD%92%E6%9D%A5%E6%97%A5%E4%B8%BE%E5%8A%9E%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [茅台德芙合作酒心巧克力9月16日上市](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E5%BE%B7%E8%8A%99%E5%90%88%E4%BD%9C%E9%85%92%E5%BF%83%E5%B7%A7%E5%85%8B%E5%8A%9B9%E6%9C%8816%E6%97%A5%E4%B8%8A%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小伙酷似张翰 工厂打螺丝假动作不断](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%85%B7%E4%BC%BC%E5%BC%A0%E7%BF%B0+%E5%B7%A5%E5%8E%82%E6%89%93%E8%9E%BA%E4%B8%9D%E5%81%87%E5%8A%A8%E4%BD%9C%E4%B8%8D%E6%96%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [研究生因专业多2字报考事业单位遭拒](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%A0%E4%B8%93%E4%B8%9A%E5%A4%9A2%E5%AD%97%E6%8A%A5%E8%80%83%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E9%81%AD%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [儿慈会卷走千万救命款涉案者已自首](https://www.baidu.com/s?wd=%E5%84%BF%E6%85%88%E4%BC%9A%E5%8D%B7%E8%B5%B0%E5%8D%83%E4%B8%87%E6%95%91%E5%91%BD%E6%AC%BE%E6%B6%89%E6%A1%88%E8%80%85%E5%B7%B2%E8%87%AA%E9%A6%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子科目一考7次没过第8次被抓](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%91%E7%9B%AE%E4%B8%80%E8%80%837%E6%AC%A1%E6%B2%A1%E8%BF%87%E7%AC%AC8%E6%AC%A1%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [司机见义勇为被罚5千？警方辟谣](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E8%A2%AB%E7%BD%9A5%E5%8D%83%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [茅台德芙合作酒心巧克力9月16日上市](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E5%BE%B7%E8%8A%99%E5%90%88%E4%BD%9C%E9%85%92%E5%BF%83%E5%B7%A7%E5%85%8B%E5%8A%9B9%E6%9C%8816%E6%97%A5%E4%B8%8A%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小伙酷似张翰 工厂打螺丝假动作不断](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%85%B7%E4%BC%BC%E5%BC%A0%E7%BF%B0+%E5%B7%A5%E5%8E%82%E6%89%93%E8%9E%BA%E4%B8%9D%E5%81%87%E5%8A%A8%E4%BD%9C%E4%B8%8D%E6%96%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [研究生因专业多2字报考事业单位遭拒](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%A0%E4%B8%93%E4%B8%9A%E5%A4%9A2%E5%AD%97%E6%8A%A5%E8%80%83%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E9%81%AD%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [儿慈会卷走千万救命款涉案者已自首](https://www.baidu.com/s?wd=%E5%84%BF%E6%85%88%E4%BC%9A%E5%8D%B7%E8%B5%B0%E5%8D%83%E4%B8%87%E6%95%91%E5%91%BD%E6%AC%BE%E6%B6%89%E6%A1%88%E8%80%85%E5%B7%B2%E8%87%AA%E9%A6%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子科目一考7次没过第8次被抓](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%91%E7%9B%AE%E4%B8%80%E8%80%837%E6%AC%A1%E6%B2%A1%E8%BF%87%E7%AC%AC8%E6%AC%A1%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [司机见义勇为被罚5千？警方辟谣](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E8%A2%AB%E7%BD%9A5%E5%8D%83%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
