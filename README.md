@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 07:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 07:14:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [抗日小饼干](https://s.weibo.com/weibo?q=%E6%8A%97%E6%97%A5%E5%B0%8F%E9%A5%BC%E5%B9%B2&t=31&band_rank=4&Refer=top)<br />
 5. [华为](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA&t=31&band_rank=5&Refer=top)<br />
 6. [官方回应北极鲶鱼事件调查结果不公开](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E4%B8%8D%E5%85%AC%E5%BC%80%23&t=31&band_rank=6&Refer=top)<br />
-7. [终于学会耳后双C发型了](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E5%AD%A6%E4%BC%9A%E8%80%B3%E5%90%8E%E5%8F%8CC%E5%8F%91%E5%9E%8B%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [邓超孙俪捐款20万资助100名困难学生](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%AD%99%E4%BF%AA%E6%8D%90%E6%AC%BE20%E4%B8%87%E8%B5%84%E5%8A%A9100%E5%90%8D%E5%9B%B0%E9%9A%BE%E5%AD%A6%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
+7. [邓超孙俪捐款20万资助100名困难学生](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%AD%99%E4%BF%AA%E6%8D%90%E6%AC%BE20%E4%B8%87%E8%B5%84%E5%8A%A9100%E5%90%8D%E5%9B%B0%E9%9A%BE%E5%AD%A6%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
+8. [终于学会耳后双C发型了](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E5%AD%A6%E4%BC%9A%E8%80%B3%E5%90%8E%E5%8F%8CC%E5%8F%91%E5%9E%8B%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [肖战说向同事分享美食被嫌弃](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E5%90%91%E5%90%8C%E4%BA%8B%E5%88%86%E4%BA%AB%E7%BE%8E%E9%A3%9F%E8%A2%AB%E5%AB%8C%E5%BC%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,8 +24,8 @@
 5. [泰国为什么等不来中国游客？](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AD%89%E4%B8%8D%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男童撑伞从26楼跳下后生还](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E6%92%91%E4%BC%9E%E4%BB%8E26%E6%A5%BC%E8%B7%B3%E4%B8%8B%E5%90%8E%E7%94%9F%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方回应前局长孙女炫富事件不公开](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%89%8D%E5%B1%80%E9%95%BF%E5%AD%99%E5%A5%B3%E7%82%AB%E5%AF%8C%E4%BA%8B%E4%BB%B6%E4%B8%8D%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [初中生投毒致多人不适 疑家长道歉](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E6%8A%95%E6%AF%92%E8%87%B4%E5%A4%9A%E4%BA%BA%E4%B8%8D%E9%80%82+%E7%96%91%E5%AE%B6%E9%95%BF%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方辟谣“河中发现巨型长虫”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B2%B3%E4%B8%AD%E5%8F%91%E7%8E%B0%E5%B7%A8%E5%9E%8B%E9%95%BF%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [戚薇不反对Lucky进娱乐圈](https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87%E4%B8%8D%E5%8F%8D%E5%AF%B9Lucky%E8%BF%9B%E5%A8%B1%E4%B9%90%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [上海辟谣豫园商圈只卖进口冰淇淋](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E8%B1%AB%E5%9B%AD%E5%95%86%E5%9C%88%E5%8F%AA%E5%8D%96%E8%BF%9B%E5%8F%A3%E5%86%B0%E6%B7%87%E6%B7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [泰国为什么等不来中国游客？](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AD%89%E4%B8%8D%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男童撑伞从26楼跳下后生还](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E6%92%91%E4%BC%9E%E4%BB%8E26%E6%A5%BC%E8%B7%B3%E4%B8%8B%E5%90%8E%E7%94%9F%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方回应前局长孙女炫富事件不公开](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%89%8D%E5%B1%80%E9%95%BF%E5%AD%99%E5%A5%B3%E7%82%AB%E5%AF%8C%E4%BA%8B%E4%BB%B6%E4%B8%8D%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [初中生投毒致多人不适 疑家长道歉](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E6%8A%95%E6%AF%92%E8%87%B4%E5%A4%9A%E4%BA%BA%E4%B8%8D%E9%80%82+%E7%96%91%E5%AE%B6%E9%95%BF%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方辟谣“河中发现巨型长虫”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B2%B3%E4%B8%AD%E5%8F%91%E7%8E%B0%E5%B7%A8%E5%9E%8B%E9%95%BF%E8%99%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [戚薇不反对Lucky进娱乐圈](https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87%E4%B8%8D%E5%8F%8D%E5%AF%B9Lucky%E8%BF%9B%E5%A8%B1%E4%B9%90%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [上海辟谣豫园商圈只卖进口冰淇淋](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E8%B1%AB%E5%9B%AD%E5%95%86%E5%9C%88%E5%8F%AA%E5%8D%96%E8%BF%9B%E5%8F%A3%E5%86%B0%E6%B7%87%E6%B7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
