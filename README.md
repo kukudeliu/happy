@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 19:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 19:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [入职体检报告写表情呆滞智商偏低](https://s.weibo.com/weibo?q=%23%E5%85%A5%E8%81%8C%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A%E5%86%99%E8%A1%A8%E6%83%85%E5%91%86%E6%BB%9E%E6%99%BA%E5%95%86%E5%81%8F%E4%BD%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [央行9月15日下调金融机构存款准备金率](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C9%E6%9C%8815%E6%97%A5%E4%B8%8B%E8%B0%83%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84%E5%AD%98%E6%AC%BE%E5%87%86%E5%A4%87%E9%87%91%E7%8E%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [演员马卫军去世](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E9%A9%AC%E5%8D%AB%E5%86%9B%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [戚薇不反对Lucky进演艺圈](https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E4%B8%8D%E5%8F%8D%E5%AF%B9Lucky%E8%BF%9B%E6%BC%94%E8%89%BA%E5%9C%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [老人在清华大学食堂忘我看书](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%BF%98%E6%88%91%E7%9C%8B%E4%B9%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
