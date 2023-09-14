@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 09:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 09:55:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [高空抛烟头烫伤4个月婴儿全楼测DNA](https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%83%9F%E5%A4%B4%E7%83%AB%E4%BC%A44%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E5%85%A8%E6%A5%BC%E6%B5%8BDNA%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚运会吉祥物3小只宣传片](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%89%E7%A5%A5%E7%89%A93%E5%B0%8F%E5%8F%AA%E5%AE%A3%E4%BC%A0%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [郁美净终于通网](https://s.weibo.com/weibo?q=%E9%83%81%E7%BE%8E%E5%87%80%E7%BB%88%E4%BA%8E%E9%80%9A%E7%BD%91&t=31&band_rank=4&Refer=top)<br />
-5. [全球首个承认外星生物存在的国家](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E6%89%BF%E8%AE%A4%E5%A4%96%E6%98%9F%E7%94%9F%E7%89%A9%E5%AD%98%E5%9C%A8%E7%9A%84%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=5&Refer=top)<br />
-6. [北师大研究生因2字报考事业单位遭拒](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%B8%88%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%A02%E5%AD%97%E6%8A%A5%E8%80%83%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E9%81%AD%E6%8B%92%23&t=31&band_rank=6&Refer=top)<br />
+5. [北师大研究生因2字报考事业单位遭拒](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%B8%88%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%A02%E5%AD%97%E6%8A%A5%E8%80%83%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E9%81%AD%E6%8B%92%23&t=31&band_rank=5&Refer=top)<br />
+6. [全球首个承认外星生物存在的国家](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E6%89%BF%E8%AE%A4%E5%A4%96%E6%98%9F%E7%94%9F%E7%89%A9%E5%AD%98%E5%9C%A8%E7%9A%84%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [华为Mate60发布会定档](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate60%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [UFO](https://s.weibo.com/weibo?q=UFO&t=31&band_rank=8&Refer=top)<br />
 9. [辛苦一晚上偷一条街全得还回去](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8B%A6%E4%B8%80%E6%99%9A%E4%B8%8A%E5%81%B7%E4%B8%80%E6%9D%A1%E8%A1%97%E5%85%A8%E5%BE%97%E8%BF%98%E5%9B%9E%E5%8E%BB%23&t=31&band_rank=9&Refer=top)<br />
