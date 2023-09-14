@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 17:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 17:04:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [小偷1夜挖700斤芋头被抓农户笑了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%81%B71%E5%A4%9C%E6%8C%96700%E6%96%A4%E8%8A%8B%E5%A4%B4%E8%A2%AB%E6%8A%93%E5%86%9C%E6%88%B7%E7%AC%91%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [他平等地骂每一个恋爱脑](https://s.weibo.com/weibo?q=%E4%BB%96%E5%B9%B3%E7%AD%89%E5%9C%B0%E9%AA%82%E6%AF%8F%E4%B8%80%E4%B8%AA%E6%81%8B%E7%88%B1%E8%84%91&t=31&band_rank=5&Refer=top)<br />
 6. [茅台 我和德芙官宣了](https://s.weibo.com/weibo?q=%E8%8C%85%E5%8F%B0%20%E6%88%91%E5%92%8C%E5%BE%B7%E8%8A%99%E5%AE%98%E5%AE%A3%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [警方通报上海一中学疑似发生投毒](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%8A%E6%B5%B7%E4%B8%80%E4%B8%AD%E5%AD%A6%E7%96%91%E4%BC%BC%E5%8F%91%E7%94%9F%E6%8A%95%E6%AF%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [苍兰诀 全员上桌](https://s.weibo.com/weibo?q=%E8%8B%8D%E5%85%B0%E8%AF%80%20%E5%85%A8%E5%91%98%E4%B8%8A%E6%A1%8C&t=31&band_rank=8&Refer=top)<br />
-9. [男子买彩票中5544万到手4444万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD5544%E4%B8%87%E5%88%B0%E6%89%8B4444%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+7. [男子买彩票中5544万到手4444万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD5544%E4%B8%87%E5%88%B0%E6%89%8B4444%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
+8. [警方通报上海一中学疑似发生投毒](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%8A%E6%B5%B7%E4%B8%80%E4%B8%AD%E5%AD%A6%E7%96%91%E4%BC%BC%E5%8F%91%E7%94%9F%E6%8A%95%E6%AF%92%23&t=31&band_rank=8&Refer=top)<br />
+9. [苍兰诀 全员上桌](https://s.weibo.com/weibo?q=%E8%8B%8D%E5%85%B0%E8%AF%80%20%E5%85%A8%E5%91%98%E4%B8%8A%E6%A1%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
