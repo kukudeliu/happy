@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 21:19:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-14 21:20:02</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [iPhone14价格不降反涨](https://s.weibo.com/weibo?q=%23iPhone14%E4%BB%B7%E6%A0%BC%E4%B8%8D%E9%99%8D%E5%8F%8D%E6%B6%A8%23&t=31&band_rank=2&Refer=top)<br />
 3. [新时代成就巡礼](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%E6%88%90%E5%B0%B1%E5%B7%A1%E7%A4%BC%23&t=31&band_rank=3&Refer=top)<br />
 4. [官方回应北极鲶鱼事件调查结果不公开](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E4%B8%8D%E5%85%AC%E5%BC%80%23&t=31&band_rank=4&Refer=top)<br />
-5. [郁美净不到一天涨粉32万](https://s.weibo.com/weibo?q=%23%E9%83%81%E7%BE%8E%E5%87%80%E4%B8%8D%E5%88%B0%E4%B8%80%E5%A4%A9%E6%B6%A8%E7%B2%8932%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [高铁上化妆列为不文明行为网友为何不认可](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E5%8C%96%E5%A6%86%E5%88%97%E4%B8%BA%E4%B8%8D%E6%96%87%E6%98%8E%E8%A1%8C%E4%B8%BA%E7%BD%91%E5%8F%8B%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%AE%A4%E5%8F%AF%23&t=31&band_rank=6&Refer=top)<br />
+5. [高铁上化妆列为不文明行为网友为何不认可](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E5%8C%96%E5%A6%86%E5%88%97%E4%B8%BA%E4%B8%8D%E6%96%87%E6%98%8E%E8%A1%8C%E4%B8%BA%E7%BD%91%E5%8F%8B%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%AE%A4%E5%8F%AF%23&t=31&band_rank=5&Refer=top)<br />
+6. [郁美净不到一天涨粉32万](https://s.weibo.com/weibo?q=%23%E9%83%81%E7%BE%8E%E5%87%80%E4%B8%8D%E5%88%B0%E4%B8%80%E5%A4%A9%E6%B6%A8%E7%B2%8932%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子买彩票中5544万到手4444万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD5544%E4%B8%87%E5%88%B0%E6%89%8B4444%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [宫二终于知道了谁才是无锋首领](https://s.weibo.com/weibo?q=%E5%AE%AB%E4%BA%8C%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%BA%86%E8%B0%81%E6%89%8D%E6%98%AF%E6%97%A0%E9%94%8B%E9%A6%96%E9%A2%86&t=31&band_rank=8&Refer=top)<br />
 9. [深圳人已经开始喝上冰中式了](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%96%9D%E4%B8%8A%E5%86%B0%E4%B8%AD%E5%BC%8F%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
