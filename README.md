@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 22:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 22:14:01</h4></div>
 
 > 微博  
 
-1. [李子柒官司后首个露面视频](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E5%AE%98%E5%8F%B8%E5%90%8E%E9%A6%96%E4%B8%AA%E9%9C%B2%E9%9D%A2%E8%A7%86%E9%A2%91%23&t=31&band_rank=1&Refer=top)<br />
-2. [云之羽结局](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%E7%BB%93%E5%B1%80&t=31&band_rank=2&Refer=top)<br />
+1. [云之羽结局](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%E7%BB%93%E5%B1%80&t=31&band_rank=1&Refer=top)<br />
+2. [李子柒官司后首个露面视频](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E5%AE%98%E5%8F%B8%E5%90%8E%E9%A6%96%E4%B8%AA%E9%9C%B2%E9%9D%A2%E8%A7%86%E9%A2%91%23&t=31&band_rank=2&Refer=top)<br />
 3. [深空探测新规划公布](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E7%A9%BA%E6%8E%A2%E6%B5%8B%E6%96%B0%E8%A7%84%E5%88%92%E5%85%AC%E5%B8%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [剥了5000多只虾就为了一碗面](https://s.weibo.com/weibo?q=%E5%89%A5%E4%BA%865000%E5%A4%9A%E5%8F%AA%E8%99%BE%E5%B0%B1%E4%B8%BA%E4%BA%86%E4%B8%80%E7%A2%97%E9%9D%A2&t=31&band_rank=4&Refer=top)<br />
 5. [蜂花老总的头发用事实证明](https://s.weibo.com/weibo?q=%23%E8%9C%82%E8%8A%B1%E8%80%81%E6%80%BB%E7%9A%84%E5%A4%B4%E5%8F%91%E7%94%A8%E4%BA%8B%E5%AE%9E%E8%AF%81%E6%98%8E%23&t=31&band_rank=5&Refer=top)<br />
