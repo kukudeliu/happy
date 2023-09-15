@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 09:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 09:48:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [211女硕士遭杀猪盘两周被骗138万](https://s.weibo.com/weibo?q=%23211%E5%A5%B3%E7%A1%95%E5%A3%AB%E9%81%AD%E6%9D%80%E7%8C%AA%E7%9B%98%E4%B8%A4%E5%91%A8%E8%A2%AB%E9%AA%97138%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [当亚运遇上民乐太惊艳了](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%9A%E8%BF%90%E9%81%87%E4%B8%8A%E6%B0%91%E4%B9%90%E5%A4%AA%E6%83%8A%E8%89%B3%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [上官浅故意不穿里衣](https://s.weibo.com/weibo?q=%E4%B8%8A%E5%AE%98%E6%B5%85%E6%95%85%E6%84%8F%E4%B8%8D%E7%A9%BF%E9%87%8C%E8%A1%A3&t=31&band_rank=4&Refer=top)<br />
-5. [你看过黄金 就不会被黄铜所迷惑](https://s.weibo.com/weibo?q=%E4%BD%A0%E7%9C%8B%E8%BF%87%E9%BB%84%E9%87%91%20%E5%B0%B1%E4%B8%8D%E4%BC%9A%E8%A2%AB%E9%BB%84%E9%93%9C%E6%89%80%E8%BF%B7%E6%83%91&t=31&band_rank=5&Refer=top)<br />
-6. [男童撑伞从26楼跳下后奇迹生还](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E6%92%91%E4%BC%9E%E4%BB%8E26%E6%A5%BC%E8%B7%B3%E4%B8%8B%E5%90%8E%E5%A5%87%E8%BF%B9%E7%94%9F%E8%BF%98%23&t=31&band_rank=6&Refer=top)<br />
+5. [男童撑伞从26楼跳下后奇迹生还](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E6%92%91%E4%BC%9E%E4%BB%8E26%E6%A5%BC%E8%B7%B3%E4%B8%8B%E5%90%8E%E5%A5%87%E8%BF%B9%E7%94%9F%E8%BF%98%23&t=31&band_rank=5&Refer=top)<br />
+6. [你看过黄金 就不会被黄铜所迷惑](https://s.weibo.com/weibo?q=%E4%BD%A0%E7%9C%8B%E8%BF%87%E9%BB%84%E9%87%91%20%E5%B0%B1%E4%B8%8D%E4%BC%9A%E8%A2%AB%E9%BB%84%E9%93%9C%E6%89%80%E8%BF%B7%E6%83%91&t=31&band_rank=6&Refer=top)<br />
 7. [花西子事件后老牌国货销量暴涨](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E4%BA%8B%E4%BB%B6%E5%90%8E%E8%80%81%E7%89%8C%E5%9B%BD%E8%B4%A7%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国人吃了全球91%的榴莲](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E4%BA%86%E5%85%A8%E7%90%8391%25%E7%9A%84%E6%A6%B4%E8%8E%B2%23&t=31&band_rank=8&Refer=top)<br />
 9. [女子翻护栏捡手机坠下40米高瀑布身亡](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BF%BB%E6%8A%A4%E6%A0%8F%E6%8D%A1%E6%89%8B%E6%9C%BA%E5%9D%A0%E4%B8%8B40%E7%B1%B3%E9%AB%98%E7%80%91%E5%B8%83%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
