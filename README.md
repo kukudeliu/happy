@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 18:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 18:14:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [杜蕾斯辟谣与茅台联名](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E8%95%BE%E6%96%AF%E8%BE%9F%E8%B0%A3%E4%B8%8E%E8%8C%85%E5%8F%B0%E8%81%94%E5%90%8D%23&t=31&band_rank=4&Refer=top)<br />
 5. [女孩夸军人叔叔衣服帅被回应你也很美](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%A4%B8%E5%86%9B%E4%BA%BA%E5%8F%94%E5%8F%94%E8%A1%A3%E6%9C%8D%E5%B8%85%E8%A2%AB%E5%9B%9E%E5%BA%94%E4%BD%A0%E4%B9%9F%E5%BE%88%E7%BE%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [一斤鸭脖70元年轻人大喊少抓点](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%96%A4%E9%B8%AD%E8%84%9670%E5%85%83%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%A4%A7%E5%96%8A%E5%B0%91%E6%8A%93%E7%82%B9%23&t=31&band_rank=6&Refer=top)<br />
-7. [薛之谦滁州演唱会抢票](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BB%81%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8&t=31&band_rank=7&Refer=top)<br />
-8. [丞磊卢昱晓或将二搭](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8D%A2%E6%98%B1%E6%99%93%E6%88%96%E5%B0%86%E4%BA%8C%E6%90%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [YG回应Lisa拒绝续约](https://s.weibo.com/weibo?q=%23YG%E5%9B%9E%E5%BA%94Lisa%E6%8B%92%E7%BB%9D%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
+7. [雅安地震](https://s.weibo.com/weibo?q=%E9%9B%85%E5%AE%89%E5%9C%B0%E9%9C%87&t=31&band_rank=7&Refer=top)<br />
+8. [薛之谦滁州演唱会抢票](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BB%81%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8&t=31&band_rank=8&Refer=top)<br />
+9. [丞磊卢昱晓或将二搭](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8D%A2%E6%98%B1%E6%99%93%E6%88%96%E5%B0%86%E4%BA%8C%E6%90%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 3. [被解救回国博士晒出缅甸工资单](https://www.baidu.com/s?wd=%E8%A2%AB%E8%A7%A3%E6%95%91%E5%9B%9E%E5%9B%BD%E5%8D%9A%E5%A3%AB%E6%99%92%E5%87%BA%E7%BC%85%E7%94%B8%E5%B7%A5%E8%B5%84%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [守正创新 以文化城](https://www.baidu.com/s?wd=%E5%AE%88%E6%AD%A3%E5%88%9B%E6%96%B0+%E4%BB%A5%E6%96%87%E5%8C%96%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [一斤鸭脖70元年轻人大喊少抓点](https://www.baidu.com/s?wd=%E4%B8%80%E6%96%A4%E9%B8%AD%E8%84%9670%E5%85%83%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%A4%A7%E5%96%8A%E5%B0%91%E6%8A%93%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小鬼想请董明珠当演唱会嘉宾](https://www.baidu.com/s?wd=%E5%B0%8F%E9%AC%BC%E6%83%B3%E8%AF%B7%E8%91%A3%E6%98%8E%E7%8F%A0%E5%BD%93%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [60多秒冲出40多名好心人合力救人](https://www.baidu.com/s?wd=60%E5%A4%9A%E7%A7%92%E5%86%B2%E5%87%BA40%E5%A4%9A%E5%90%8D%E5%A5%BD%E5%BF%83%E4%BA%BA%E5%90%88%E5%8A%9B%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [12306客服回应系统崩了](https://www.baidu.com/s?wd=12306%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E7%B3%BB%E7%BB%9F%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [第一时间呵护伤痛](https://www.baidu.com/s?wd=%23%E7%AC%AC%E4%B8%80%E6%97%B6%E9%97%B4%E5%91%B5%E6%8A%A4%E4%BC%A4%E7%97%9B%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣植物油不能吃](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%A4%8D%E7%89%A9%E6%B2%B9%E4%B8%8D%E8%83%BD%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [被解救回国博士晒出缅甸工资单](https://www.baidu.com/s?wd=%E8%A2%AB%E8%A7%A3%E6%95%91%E5%9B%9E%E5%9B%BD%E5%8D%9A%E5%A3%AB%E6%99%92%E5%87%BA%E7%BC%85%E7%94%B8%E5%B7%A5%E8%B5%84%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [守正创新 以文化城](https://www.baidu.com/s?wd=%E5%AE%88%E6%AD%A3%E5%88%9B%E6%96%B0+%E4%BB%A5%E6%96%87%E5%8C%96%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [一斤鸭脖70元年轻人大喊少抓点](https://www.baidu.com/s?wd=%E4%B8%80%E6%96%A4%E9%B8%AD%E8%84%9670%E5%85%83%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%A4%A7%E5%96%8A%E5%B0%91%E6%8A%93%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小鬼想请董明珠当演唱会嘉宾](https://www.baidu.com/s?wd=%E5%B0%8F%E9%AC%BC%E6%83%B3%E8%AF%B7%E8%91%A3%E6%98%8E%E7%8F%A0%E5%BD%93%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [60多秒冲出40多名好心人合力救人](https://www.baidu.com/s?wd=60%E5%A4%9A%E7%A7%92%E5%86%B2%E5%87%BA40%E5%A4%9A%E5%90%8D%E5%A5%BD%E5%BF%83%E4%BA%BA%E5%90%88%E5%8A%9B%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [12306客服回应系统崩了](https://www.baidu.com/s?wd=12306%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E7%B3%BB%E7%BB%9F%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [第一时间呵护伤痛](https://www.baidu.com/s?wd=%23%E7%AC%AC%E4%B8%80%E6%97%B6%E9%97%B4%E5%91%B5%E6%8A%A4%E4%BC%A4%E7%97%9B%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣植物油不能吃](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%A4%8D%E7%89%A9%E6%B2%B9%E4%B8%8D%E8%83%BD%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
