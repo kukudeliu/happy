@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 20:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 20:53:02</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [习近平同赞比亚总统举行会谈](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E8%B5%9E%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [扎实推动教育强国建设](https://www.baidu.com/s?wd=%E6%89%8E%E5%AE%9E%E6%8E%A8%E5%8A%A8%E6%95%99%E8%82%B2%E5%BC%BA%E5%9B%BD%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [原来血型真的可以变](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E8%A1%80%E5%9E%8B%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [高铁化妆不文明宣传片仍在播放](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%E4%B8%8D%E6%96%87%E6%98%8E%E5%AE%A3%E4%BC%A0%E7%89%87%E4%BB%8D%E5%9C%A8%E6%92%AD%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国夏粮收购超6300万吨](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%8F%E7%B2%AE%E6%94%B6%E8%B4%AD%E8%B6%856300%E4%B8%87%E5%90%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [习近平同赞比亚总统举行会谈](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E8%B5%9E%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [扎实推动教育强国建设](https://www.baidu.com/s?wd=%E6%89%8E%E5%AE%9E%E6%8E%A8%E5%8A%A8%E6%95%99%E8%82%B2%E5%BC%BA%E5%9B%BD%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [原来血型真的可以变](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E8%A1%80%E5%9E%8B%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [高铁化妆不文明宣传片仍在播放](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%E4%B8%8D%E6%96%87%E6%98%8E%E5%AE%A3%E4%BC%A0%E7%89%87%E4%BB%8D%E5%9C%A8%E6%92%AD%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国夏粮收购超6300万吨](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%8F%E7%B2%AE%E6%94%B6%E8%B4%AD%E8%B6%856300%E4%B8%87%E5%90%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
