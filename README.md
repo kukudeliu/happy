@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 10:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 10:23:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女子翻护栏捡手机坠下40米瀑布身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BF%BB%E6%8A%A4%E6%A0%8F%E6%8D%A1%E6%89%8B%E6%9C%BA%E5%9D%A0%E4%B8%8B40%E7%B1%B3%E7%80%91%E5%B8%83%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [白菜价买海景房的年轻人后悔了吗](https://www.baidu.com/s?wd=%E7%99%BD%E8%8F%9C%E4%BB%B7%E4%B9%B0%E6%B5%B7%E6%99%AF%E6%88%BF%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [外卖小哥凌晨冒雨送外卖喊话李佳琦](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%87%8C%E6%99%A8%E5%86%92%E9%9B%A8%E9%80%81%E5%A4%96%E5%8D%96%E5%96%8A%E8%AF%9D%E6%9D%8E%E4%BD%B3%E7%90%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [朱一龙张颂文像极了上课的你](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%80%E9%BE%99%E5%BC%A0%E9%A2%82%E6%96%87%E5%83%8F%E6%9E%81%E4%BA%86%E4%B8%8A%E8%AF%BE%E7%9A%84%E4%BD%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [佩洛西自称“冷血爬行动物”](https://www.baidu.com/s?wd=%E4%BD%A9%E6%B4%9B%E8%A5%BF%E8%87%AA%E7%A7%B0%E2%80%9C%E5%86%B7%E8%A1%80%E7%88%AC%E8%A1%8C%E5%8A%A8%E7%89%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海辟谣豫园商圈只卖进口冰淇淋](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E8%B1%AB%E5%9B%AD%E5%95%86%E5%9C%88%E5%8F%AA%E5%8D%96%E8%BF%9B%E5%8F%A3%E5%86%B0%E6%B7%87%E6%B7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女子翻护栏捡手机坠下40米瀑布身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BF%BB%E6%8A%A4%E6%A0%8F%E6%8D%A1%E6%89%8B%E6%9C%BA%E5%9D%A0%E4%B8%8B40%E7%B1%B3%E7%80%91%E5%B8%83%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [白菜价买海景房的年轻人后悔了吗](https://www.baidu.com/s?wd=%E7%99%BD%E8%8F%9C%E4%BB%B7%E4%B9%B0%E6%B5%B7%E6%99%AF%E6%88%BF%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [外卖小哥凌晨冒雨送外卖喊话李佳琦](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%87%8C%E6%99%A8%E5%86%92%E9%9B%A8%E9%80%81%E5%A4%96%E5%8D%96%E5%96%8A%E8%AF%9D%E6%9D%8E%E4%BD%B3%E7%90%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [朱一龙张颂文像极了上课的你](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%80%E9%BE%99%E5%BC%A0%E9%A2%82%E6%96%87%E5%83%8F%E6%9E%81%E4%BA%86%E4%B8%8A%E8%AF%BE%E7%9A%84%E4%BD%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [佩洛西自称“冷血爬行动物”](https://www.baidu.com/s?wd=%E4%BD%A9%E6%B4%9B%E8%A5%BF%E8%87%AA%E7%A7%B0%E2%80%9C%E5%86%B7%E8%A1%80%E7%88%AC%E8%A1%8C%E5%8A%A8%E7%89%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海辟谣豫园商圈只卖进口冰淇淋](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E8%B1%AB%E5%9B%AD%E5%95%86%E5%9C%88%E5%8F%AA%E5%8D%96%E8%BF%9B%E5%8F%A3%E5%86%B0%E6%B7%87%E6%B7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
