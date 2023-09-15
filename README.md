@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 16:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 16:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [蜂花年销售额已破10亿](https://s.weibo.com/weibo?q=%23%E8%9C%82%E8%8A%B1%E5%B9%B4%E9%94%80%E5%94%AE%E9%A2%9D%E5%B7%B2%E7%A0%B410%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [广州暴雨](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8&t=31&band_rank=7&Refer=top)<br />
 8. [林孝埈陈德全安凯全pen了](https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%9D%E5%9F%88%E9%99%88%E5%BE%B7%E5%85%A8%E5%AE%89%E5%87%AF%E5%85%A8pen%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [长头发的八个穴位](https://s.weibo.com/weibo?q=%E9%95%BF%E5%A4%B4%E5%8F%91%E7%9A%84%E5%85%AB%E4%B8%AA%E7%A9%B4%E4%BD%8D&t=31&band_rank=9&Refer=top)<br />
+9. [韩庚魏大勋新剧定档](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%BA%9A%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%96%B0%E5%89%A7%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
