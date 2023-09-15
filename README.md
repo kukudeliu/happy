@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 09:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 09:52:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [上官浅故意不穿里衣](https://s.weibo.com/weibo?q=%E4%B8%8A%E5%AE%98%E6%B5%85%E6%95%85%E6%84%8F%E4%B8%8D%E7%A9%BF%E9%87%8C%E8%A1%A3&t=31&band_rank=4&Refer=top)<br />
 5. [男童撑伞从26楼跳下后奇迹生还](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E6%92%91%E4%BC%9E%E4%BB%8E26%E6%A5%BC%E8%B7%B3%E4%B8%8B%E5%90%8E%E5%A5%87%E8%BF%B9%E7%94%9F%E8%BF%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [你看过黄金 就不会被黄铜所迷惑](https://s.weibo.com/weibo?q=%E4%BD%A0%E7%9C%8B%E8%BF%87%E9%BB%84%E9%87%91%20%E5%B0%B1%E4%B8%8D%E4%BC%9A%E8%A2%AB%E9%BB%84%E9%93%9C%E6%89%80%E8%BF%B7%E6%83%91&t=31&band_rank=6&Refer=top)<br />
-7. [花西子事件后老牌国货销量暴涨](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E4%BA%8B%E4%BB%B6%E5%90%8E%E8%80%81%E7%89%8C%E5%9B%BD%E8%B4%A7%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [抢票 抢不到](https://s.weibo.com/weibo?q=%E6%8A%A2%E7%A5%A8%20%E6%8A%A2%E4%B8%8D%E5%88%B0&t=31&band_rank=8&Refer=top)<br />
+7. [抢票 抢不到](https://s.weibo.com/weibo?q=%E6%8A%A2%E7%A5%A8%20%E6%8A%A2%E4%B8%8D%E5%88%B0&t=31&band_rank=7&Refer=top)<br />
+8. [花西子事件后老牌国货销量暴涨](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E4%BA%8B%E4%BB%B6%E5%90%8E%E8%80%81%E7%89%8C%E5%9B%BD%E8%B4%A7%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A8%23&t=31&band_rank=8&Refer=top)<br />
 9. [中国人吃了全球91%的榴莲](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E4%BA%86%E5%85%A8%E7%90%8391%25%E7%9A%84%E6%A6%B4%E8%8E%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
