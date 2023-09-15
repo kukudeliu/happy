@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 15:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 15:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵丽颖当选中视协第七届理事](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BD%93%E9%80%89%E4%B8%AD%E8%A7%86%E5%8D%8F%E7%AC%AC%E4%B8%83%E5%B1%8A%E7%90%86%E4%BA%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [高铁上有多容易偶遇香港明星](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E6%9C%89%E5%A4%9A%E5%AE%B9%E6%98%93%E5%81%B6%E9%81%87%E9%A6%99%E6%B8%AF%E6%98%8E%E6%98%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [吴昕录你好星期六](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E5%BD%95%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [易建联退役仪式直播](https://s.weibo.com/weibo?q=%E6%98%93%E5%BB%BA%E8%81%94%E9%80%80%E5%BD%B9%E4%BB%AA%E5%BC%8F%E7%9B%B4%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
+9. [12306客服建议过半小时再尝试](https://s.weibo.com/weibo?q=%2312306%E5%AE%A2%E6%9C%8D%E5%BB%BA%E8%AE%AE%E8%BF%87%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%86%8D%E5%B0%9D%E8%AF%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
