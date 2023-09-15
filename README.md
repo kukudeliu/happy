@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 09:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 09:56:02</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [新词汇传递鲜明信号](https://www.baidu.com/s?wd=%E6%96%B0%E8%AF%8D%E6%B1%87%E4%BC%A0%E9%80%92%E9%B2%9C%E6%98%8E%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [“黑老大”曾是校长 公安出手端了](https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%91%E8%80%81%E5%A4%A7%E2%80%9D%E6%9B%BE%E6%98%AF%E6%A0%A1%E9%95%BF+%E5%85%AC%E5%AE%89%E5%87%BA%E6%89%8B%E7%AB%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [211女硕士两周被骗138万](https://www.baidu.com/s?wd=211%E5%A5%B3%E7%A1%95%E5%A3%AB%E4%B8%A4%E5%91%A8%E8%A2%AB%E9%AA%97138%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [报告：中国人吃掉全球91%榴莲](https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E6%8E%89%E5%85%A8%E7%90%8391%25%E6%A6%B4%E8%8E%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [你不知道的亚运事](https://www.baidu.com/s?wd=%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%9A%E8%BF%90%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [李大霄：央行降准是一场及时雨](https://www.baidu.com/s?wd=%E6%9D%8E%E5%A4%A7%E9%9C%84%EF%BC%9A%E5%A4%AE%E8%A1%8C%E9%99%8D%E5%87%86%E6%98%AF%E4%B8%80%E5%9C%BA%E5%8F%8A%E6%97%B6%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [“黑老大”曾是校长 公安出手端了](https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%91%E8%80%81%E5%A4%A7%E2%80%9D%E6%9B%BE%E6%98%AF%E6%A0%A1%E9%95%BF+%E5%85%AC%E5%AE%89%E5%87%BA%E6%89%8B%E7%AB%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [白菜价买海景房的年轻人后悔了吗](https://www.baidu.com/s?wd=%E7%99%BD%E8%8F%9C%E4%BB%B7%E4%B9%B0%E6%B5%B7%E6%99%AF%E6%88%BF%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [211女硕士两周被骗138万](https://www.baidu.com/s?wd=211%E5%A5%B3%E7%A1%95%E5%A3%AB%E4%B8%A4%E5%91%A8%E8%A2%AB%E9%AA%97138%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子翻护栏捡手机坠下40米瀑布身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BF%BB%E6%8A%A4%E6%A0%8F%E6%8D%A1%E6%89%8B%E6%9C%BA%E5%9D%A0%E4%B8%8B40%E7%B1%B3%E7%80%91%E5%B8%83%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子翻护栏捡手机坠下40米瀑布身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BF%BB%E6%8A%A4%E6%A0%8F%E6%8D%A1%E6%89%8B%E6%9C%BA%E5%9D%A0%E4%B8%8B40%E7%B1%B3%E7%80%91%E5%B8%83%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [朱一龙张颂文像极了上课的你](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%80%E9%BE%99%E5%BC%A0%E9%A2%82%E6%96%87%E5%83%8F%E6%9E%81%E4%BA%86%E4%B8%8A%E8%AF%BE%E7%9A%84%E4%BD%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海辟谣豫园商圈只卖进口冰淇淋](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E8%B1%AB%E5%9B%AD%E5%95%86%E5%9C%88%E5%8F%AA%E5%8D%96%E8%BF%9B%E5%8F%A3%E5%86%B0%E6%B7%87%E6%B7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [新词汇传递鲜明信号](https://www.baidu.com/s?wd=%E6%96%B0%E8%AF%8D%E6%B1%87%E4%BC%A0%E9%80%92%E9%B2%9C%E6%98%8E%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [“黑老大”曾是校长 公安出手端了](https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%91%E8%80%81%E5%A4%A7%E2%80%9D%E6%9B%BE%E6%98%AF%E6%A0%A1%E9%95%BF+%E5%85%AC%E5%AE%89%E5%87%BA%E6%89%8B%E7%AB%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [211女硕士两周被骗138万](https://www.baidu.com/s?wd=211%E5%A5%B3%E7%A1%95%E5%A3%AB%E4%B8%A4%E5%91%A8%E8%A2%AB%E9%AA%97138%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [报告：中国人吃掉全球91%榴莲](https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E6%8E%89%E5%85%A8%E7%90%8391%25%E6%A6%B4%E8%8E%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [你不知道的亚运事](https://www.baidu.com/s?wd=%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%9A%E8%BF%90%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [李大霄：央行降准是一场及时雨](https://www.baidu.com/s?wd=%E6%9D%8E%E5%A4%A7%E9%9C%84%EF%BC%9A%E5%A4%AE%E8%A1%8C%E9%99%8D%E5%87%86%E6%98%AF%E4%B8%80%E5%9C%BA%E5%8F%8A%E6%97%B6%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [“黑老大”曾是校长 公安出手端了](https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%91%E8%80%81%E5%A4%A7%E2%80%9D%E6%9B%BE%E6%98%AF%E6%A0%A1%E9%95%BF+%E5%85%AC%E5%AE%89%E5%87%BA%E6%89%8B%E7%AB%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [白菜价买海景房的年轻人后悔了吗](https://www.baidu.com/s?wd=%E7%99%BD%E8%8F%9C%E4%BB%B7%E4%B9%B0%E6%B5%B7%E6%99%AF%E6%88%BF%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [211女硕士两周被骗138万](https://www.baidu.com/s?wd=211%E5%A5%B3%E7%A1%95%E5%A3%AB%E4%B8%A4%E5%91%A8%E8%A2%AB%E9%AA%97138%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子翻护栏捡手机坠下40米瀑布身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BF%BB%E6%8A%A4%E6%A0%8F%E6%8D%A1%E6%89%8B%E6%9C%BA%E5%9D%A0%E4%B8%8B40%E7%B1%B3%E7%80%91%E5%B8%83%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子翻护栏捡手机坠下40米瀑布身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BF%BB%E6%8A%A4%E6%A0%8F%E6%8D%A1%E6%89%8B%E6%9C%BA%E5%9D%A0%E4%B8%8B40%E7%B1%B3%E7%80%91%E5%B8%83%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [朱一龙张颂文像极了上课的你](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%80%E9%BE%99%E5%BC%A0%E9%A2%82%E6%96%87%E5%83%8F%E6%9E%81%E4%BA%86%E4%B8%8A%E8%AF%BE%E7%9A%84%E4%BD%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海辟谣豫园商圈只卖进口冰淇淋](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E8%B1%AB%E5%9B%AD%E5%95%86%E5%9C%88%E5%8F%AA%E5%8D%96%E8%BF%9B%E5%8F%A3%E5%86%B0%E6%B7%87%E6%B7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
