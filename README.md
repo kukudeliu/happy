@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 15:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 15:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [长头发的八个穴位](https://s.weibo.com/weibo?q=%E9%95%BF%E5%A4%B4%E5%8F%91%E7%9A%84%E5%85%AB%E4%B8%AA%E7%A9%B4%E4%BD%8D&t=31&band_rank=6&Refer=top)<br />
 7. [男子吃生腌海鲜后做4次手术失去1条腿](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E7%94%9F%E8%85%8C%E6%B5%B7%E9%B2%9C%E5%90%8E%E5%81%9A4%E6%AC%A1%E6%89%8B%E6%9C%AF%E5%A4%B1%E5%8E%BB1%E6%9D%A1%E8%85%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [宋紫薇已从iQOO离职](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%B4%AB%E8%96%87%E5%B7%B2%E4%BB%8EiQOO%E7%A6%BB%E8%81%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [吴昕录你好星期六](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E5%BD%95%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [高铁上有多容易偶遇香港明星](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E6%9C%89%E5%A4%9A%E5%AE%B9%E6%98%93%E5%81%B6%E9%81%87%E9%A6%99%E6%B8%AF%E6%98%8E%E6%98%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
