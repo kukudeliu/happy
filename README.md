@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 15:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 15:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [广州暴雨](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8&t=31&band_rank=6&Refer=top)<br />
 7. [长头发的八个穴位](https://s.weibo.com/weibo?q=%E9%95%BF%E5%A4%B4%E5%8F%91%E7%9A%84%E5%85%AB%E4%B8%AA%E7%A9%B4%E4%BD%8D&t=31&band_rank=7&Refer=top)<br />
 8. [吴磊八年前就邀请胡歌一起骑行](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E5%85%AB%E5%B9%B4%E5%89%8D%E5%B0%B1%E9%82%80%E8%AF%B7%E8%83%A1%E6%AD%8C%E4%B8%80%E8%B5%B7%E9%AA%91%E8%A1%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [宋紫薇已从iQOO离职](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%B4%AB%E8%96%87%E5%B7%B2%E4%BB%8EiQOO%E7%A6%BB%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [蜂花年销售额已破10亿](https://s.weibo.com/weibo?q=%23%E8%9C%82%E8%8A%B1%E5%B9%B4%E9%94%80%E5%94%AE%E9%A2%9D%E5%B7%B2%E7%A0%B410%E4%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
