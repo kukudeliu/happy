@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 00:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 00:29:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女生称因爱抠鼻子致鼻内长多团真菌](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%9B%A0%E7%88%B1%E6%8A%A0%E9%BC%BB%E5%AD%90%E8%87%B4%E9%BC%BB%E5%86%85%E9%95%BF%E5%A4%9A%E5%9B%A2%E7%9C%9F%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [离婚人数连续三年下降](https://www.baidu.com/s?wd=%E7%A6%BB%E5%A9%9A%E4%BA%BA%E6%95%B0%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%B9%B4%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [提醒！中国公民不得前往这些地方](https://www.baidu.com/s?wd=%E6%8F%90%E9%86%92%EF%BC%81%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E4%B8%8D%E5%BE%97%E5%89%8D%E5%BE%80%E8%BF%99%E4%BA%9B%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [原来血型真的可以变](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E8%A1%80%E5%9E%8B%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [顾客称1元秒788元套餐到店被赶](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E7%A7%B01%E5%85%83%E7%A7%92788%E5%85%83%E5%A5%97%E9%A4%90%E5%88%B0%E5%BA%97%E8%A2%AB%E8%B5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [BOSS直聘辟谣4700万人挤爆服务器](https://www.baidu.com/s?wd=BOSS%E7%9B%B4%E8%81%98%E8%BE%9F%E8%B0%A34700%E4%B8%87%E4%BA%BA%E6%8C%A4%E7%88%86%E6%9C%8D%E5%8A%A1%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女生称因爱抠鼻子致鼻内长多团真菌](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%9B%A0%E7%88%B1%E6%8A%A0%E9%BC%BB%E5%AD%90%E8%87%B4%E9%BC%BB%E5%86%85%E9%95%BF%E5%A4%9A%E5%9B%A2%E7%9C%9F%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [离婚人数连续三年下降](https://www.baidu.com/s?wd=%E7%A6%BB%E5%A9%9A%E4%BA%BA%E6%95%B0%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%B9%B4%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [提醒！中国公民不得前往这些地方](https://www.baidu.com/s?wd=%E6%8F%90%E9%86%92%EF%BC%81%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E4%B8%8D%E5%BE%97%E5%89%8D%E5%BE%80%E8%BF%99%E4%BA%9B%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [原来血型真的可以变](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E8%A1%80%E5%9E%8B%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [顾客称1元秒788元套餐到店被赶](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E7%A7%B01%E5%85%83%E7%A7%92788%E5%85%83%E5%A5%97%E9%A4%90%E5%88%B0%E5%BA%97%E8%A2%AB%E8%B5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [BOSS直聘辟谣4700万人挤爆服务器](https://www.baidu.com/s?wd=BOSS%E7%9B%B4%E8%81%98%E8%BE%9F%E8%B0%A34700%E4%B8%87%E4%BA%BA%E6%8C%A4%E7%88%86%E6%9C%8D%E5%8A%A1%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
