@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 10:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 10:50:02</h4></div>
 
 > 微博  
 
-1. [211女硕士遭杀猪盘两周被骗138万](https://s.weibo.com/weibo?q=%23211%E5%A5%B3%E7%A1%95%E5%A3%AB%E9%81%AD%E6%9D%80%E7%8C%AA%E7%9B%98%E4%B8%A4%E5%91%A8%E8%A2%AB%E9%AA%97138%E4%B8%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [抢票 抢不到](https://s.weibo.com/weibo?q=%E6%8A%A2%E7%A5%A8%20%E6%8A%A2%E4%B8%8D%E5%88%B0&t=31&band_rank=2&Refer=top)<br />
+1. [抢票 抢不到](https://s.weibo.com/weibo?q=%E6%8A%A2%E7%A5%A8%20%E6%8A%A2%E4%B8%8D%E5%88%B0&t=31&band_rank=1&Refer=top)<br />
+2. [211女硕士遭杀猪盘两周被骗138万](https://s.weibo.com/weibo?q=%23211%E5%A5%B3%E7%A1%95%E5%A3%AB%E9%81%AD%E6%9D%80%E7%8C%AA%E7%9B%98%E4%B8%A4%E5%91%A8%E8%A2%AB%E9%AA%97138%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [当亚运遇上民乐太惊艳了](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%9A%E8%BF%90%E9%81%87%E4%B8%8A%E6%B0%91%E4%B9%90%E5%A4%AA%E6%83%8A%E8%89%B3%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [男童撑伞从26楼跳下后奇迹生还](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E6%92%91%E4%BC%9E%E4%BB%8E26%E6%A5%BC%E8%B7%B3%E4%B8%8B%E5%90%8E%E5%A5%87%E8%BF%B9%E7%94%9F%E8%BF%98%23&t=31&band_rank=4&Refer=top)<br />
 5. [上官浅故意不穿里衣](https://s.weibo.com/weibo?q=%E4%B8%8A%E5%AE%98%E6%B5%85%E6%95%85%E6%84%8F%E4%B8%8D%E7%A9%BF%E9%87%8C%E8%A1%A3&t=31&band_rank=5&Refer=top)<br />
