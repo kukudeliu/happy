@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 21:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 21:18:02</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [原来血型真的可以变](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E8%A1%80%E5%9E%8B%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [高铁化妆不文明宣传片仍在播放](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%E4%B8%8D%E6%96%87%E6%98%8E%E5%AE%A3%E4%BC%A0%E7%89%87%E4%BB%8D%E5%9C%A8%E6%92%AD%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [智能服务助力亚运](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%8A%A9%E5%8A%9B%E4%BA%9A%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [深圳交通局官方账号禁止网民评论](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BA%A4%E9%80%9A%E5%B1%80%E5%AE%98%E6%96%B9%E8%B4%A6%E5%8F%B7%E7%A6%81%E6%AD%A2%E7%BD%91%E6%B0%91%E8%AF%84%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [“缅北电诈”搬到迪拜？知情人发声](https://www.baidu.com/s?wd=%E2%80%9C%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E2%80%9D%E6%90%AC%E5%88%B0%E8%BF%AA%E6%8B%9C%EF%BC%9F%E7%9F%A5%E6%83%85%E4%BA%BA%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孩子在外婆家溺亡 父亲起诉索赔80万](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E5%9C%A8%E5%A4%96%E5%A9%86%E5%AE%B6%E6%BA%BA%E4%BA%A1+%E7%88%B6%E4%BA%B2%E8%B5%B7%E8%AF%89%E7%B4%A2%E8%B5%9480%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [别再把永居证叫做“中国绿卡”了](https://www.baidu.com/s?wd=%E5%88%AB%E5%86%8D%E6%8A%8A%E6%B0%B8%E5%B1%85%E8%AF%81%E5%8F%AB%E5%81%9A%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%BB%BF%E5%8D%A1%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男孩偷拿幼儿园玩具妈妈领去自首](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%81%B7%E6%8B%BF%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%8E%A9%E5%85%B7%E5%A6%88%E5%A6%88%E9%A2%86%E5%8E%BB%E8%87%AA%E9%A6%96&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [原来血型真的可以变](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E8%A1%80%E5%9E%8B%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [高铁化妆不文明宣传片仍在播放](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%E4%B8%8D%E6%96%87%E6%98%8E%E5%AE%A3%E4%BC%A0%E7%89%87%E4%BB%8D%E5%9C%A8%E6%92%AD%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [智能服务助力亚运](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%8A%A9%E5%8A%9B%E4%BA%9A%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [深圳交通局官方账号禁止网民评论](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BA%A4%E9%80%9A%E5%B1%80%E5%AE%98%E6%96%B9%E8%B4%A6%E5%8F%B7%E7%A6%81%E6%AD%A2%E7%BD%91%E6%B0%91%E8%AF%84%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [“缅北电诈”搬到迪拜？知情人发声](https://www.baidu.com/s?wd=%E2%80%9C%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E2%80%9D%E6%90%AC%E5%88%B0%E8%BF%AA%E6%8B%9C%EF%BC%9F%E7%9F%A5%E6%83%85%E4%BA%BA%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孩子在外婆家溺亡 父亲起诉索赔80万](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E5%9C%A8%E5%A4%96%E5%A9%86%E5%AE%B6%E6%BA%BA%E4%BA%A1+%E7%88%B6%E4%BA%B2%E8%B5%B7%E8%AF%89%E7%B4%A2%E8%B5%9480%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [别再把永居证叫做“中国绿卡”了](https://www.baidu.com/s?wd=%E5%88%AB%E5%86%8D%E6%8A%8A%E6%B0%B8%E5%B1%85%E8%AF%81%E5%8F%AB%E5%81%9A%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%BB%BF%E5%8D%A1%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男孩偷拿幼儿园玩具妈妈领去自首](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%81%B7%E6%8B%BF%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%8E%A9%E5%85%B7%E5%A6%88%E5%A6%88%E9%A2%86%E5%8E%BB%E8%87%AA%E9%A6%96&sa=fyb_news&rsv_dl=fyb_news)<br />
