@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 22:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 22:32:02</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [扎实推动教育强国建设](https://www.baidu.com/s?wd=%E6%89%8E%E5%AE%9E%E6%8E%A8%E5%8A%A8%E6%95%99%E8%82%B2%E5%BC%BA%E5%9B%BD%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [媒体：外卖柜向骑手收服务费公平吗](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%A4%96%E5%8D%96%E6%9F%9C%E5%90%91%E9%AA%91%E6%89%8B%E6%94%B6%E6%9C%8D%E5%8A%A1%E8%B4%B9%E5%85%AC%E5%B9%B3%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [国货蜂花、鸿星尔克靠玩梗卖爆](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B4%A7%E8%9C%82%E8%8A%B1%E3%80%81%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E9%9D%A0%E7%8E%A9%E6%A2%97%E5%8D%96%E7%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [广东一学校76名教师开学前遭解聘](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A176%E5%90%8D%E6%95%99%E5%B8%88%E5%BC%80%E5%AD%A6%E5%89%8D%E9%81%AD%E8%A7%A3%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [智能服务助力亚运](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%8A%A9%E5%8A%9B%E4%BA%9A%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女生称因爱抠鼻子致鼻内长多团真菌](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%9B%A0%E7%88%B1%E6%8A%A0%E9%BC%BB%E5%AD%90%E8%87%B4%E9%BC%BB%E5%86%85%E9%95%BF%E5%A4%9A%E5%9B%A2%E7%9C%9F%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [扎实推动教育强国建设](https://www.baidu.com/s?wd=%E6%89%8E%E5%AE%9E%E6%8E%A8%E5%8A%A8%E6%95%99%E8%82%B2%E5%BC%BA%E5%9B%BD%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [媒体：外卖柜向骑手收服务费公平吗](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%A4%96%E5%8D%96%E6%9F%9C%E5%90%91%E9%AA%91%E6%89%8B%E6%94%B6%E6%9C%8D%E5%8A%A1%E8%B4%B9%E5%85%AC%E5%B9%B3%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [国货蜂花、鸿星尔克靠玩梗卖爆](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B4%A7%E8%9C%82%E8%8A%B1%E3%80%81%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E9%9D%A0%E7%8E%A9%E6%A2%97%E5%8D%96%E7%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [广东一学校76名教师开学前遭解聘](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A176%E5%90%8D%E6%95%99%E5%B8%88%E5%BC%80%E5%AD%A6%E5%89%8D%E9%81%AD%E8%A7%A3%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [智能服务助力亚运](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%8A%A9%E5%8A%9B%E4%BA%9A%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女生称因爱抠鼻子致鼻内长多团真菌](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%9B%A0%E7%88%B1%E6%8A%A0%E9%BC%BB%E5%AD%90%E8%87%B4%E9%BC%BB%E5%86%85%E9%95%BF%E5%A4%9A%E5%9B%A2%E7%9C%9F%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
