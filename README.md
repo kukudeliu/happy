@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 10:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 10:59:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [报告：中国人吃掉全球91%榴莲](https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E6%8E%89%E5%85%A8%E7%90%8391%25%E6%A6%B4%E8%8E%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [你不知道的亚运事](https://www.baidu.com/s?wd=%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%9A%E8%BF%90%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [8月70城房价发布：上涨城市减少](https://www.baidu.com/s?wd=8%E6%9C%8870%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%8F%91%E5%B8%83%EF%BC%9A%E4%B8%8A%E6%B6%A8%E5%9F%8E%E5%B8%82%E5%87%8F%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多地外卖柜面向骑手收服务费引争议](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%A4%96%E5%8D%96%E6%9F%9C%E9%9D%A2%E5%90%91%E9%AA%91%E6%89%8B%E6%94%B6%E6%9C%8D%E5%8A%A1%E8%B4%B9%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [白菜价买海景房的年轻人后悔了吗](https://www.baidu.com/s?wd=%E7%99%BD%E8%8F%9C%E4%BB%B7%E4%B9%B0%E6%B5%B7%E6%99%AF%E6%88%BF%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子翻护栏捡手机坠下40米瀑布身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BF%BB%E6%8A%A4%E6%A0%8F%E6%8D%A1%E6%89%8B%E6%9C%BA%E5%9D%A0%E4%B8%8B40%E7%B1%B3%E7%80%91%E5%B8%83%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [白菜价买海景房的年轻人后悔了吗](https://www.baidu.com/s?wd=%E7%99%BD%E8%8F%9C%E4%BB%B7%E4%B9%B0%E6%B5%B7%E6%99%AF%E6%88%BF%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多地外卖柜面向骑手收服务费引争议](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%A4%96%E5%8D%96%E6%9F%9C%E9%9D%A2%E5%90%91%E9%AA%91%E6%89%8B%E6%94%B6%E6%9C%8D%E5%8A%A1%E8%B4%B9%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [郁美净董事长直播间跳舞](https://www.baidu.com/s?wd=%E9%83%81%E7%BE%8E%E5%87%80%E8%91%A3%E4%BA%8B%E9%95%BF%E7%9B%B4%E6%92%AD%E9%97%B4%E8%B7%B3%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海辟谣豫园商圈只卖进口冰淇淋](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E8%B1%AB%E5%9B%AD%E5%95%86%E5%9C%88%E5%8F%AA%E5%8D%96%E8%BF%9B%E5%8F%A3%E5%86%B0%E6%B7%87%E6%B7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [报告：中国人吃掉全球91%榴莲](https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E6%8E%89%E5%85%A8%E7%90%8391%25%E6%A6%B4%E8%8E%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [你不知道的亚运事](https://www.baidu.com/s?wd=%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%9A%E8%BF%90%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [8月70城房价发布：上涨城市减少](https://www.baidu.com/s?wd=8%E6%9C%8870%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%8F%91%E5%B8%83%EF%BC%9A%E4%B8%8A%E6%B6%A8%E5%9F%8E%E5%B8%82%E5%87%8F%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多地外卖柜面向骑手收服务费引争议](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%A4%96%E5%8D%96%E6%9F%9C%E9%9D%A2%E5%90%91%E9%AA%91%E6%89%8B%E6%94%B6%E6%9C%8D%E5%8A%A1%E8%B4%B9%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [白菜价买海景房的年轻人后悔了吗](https://www.baidu.com/s?wd=%E7%99%BD%E8%8F%9C%E4%BB%B7%E4%B9%B0%E6%B5%B7%E6%99%AF%E6%88%BF%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子翻护栏捡手机坠下40米瀑布身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BF%BB%E6%8A%A4%E6%A0%8F%E6%8D%A1%E6%89%8B%E6%9C%BA%E5%9D%A0%E4%B8%8B40%E7%B1%B3%E7%80%91%E5%B8%83%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [白菜价买海景房的年轻人后悔了吗](https://www.baidu.com/s?wd=%E7%99%BD%E8%8F%9C%E4%BB%B7%E4%B9%B0%E6%B5%B7%E6%99%AF%E6%88%BF%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多地外卖柜面向骑手收服务费引争议](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%A4%96%E5%8D%96%E6%9F%9C%E9%9D%A2%E5%90%91%E9%AA%91%E6%89%8B%E6%94%B6%E6%9C%8D%E5%8A%A1%E8%B4%B9%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [郁美净董事长直播间跳舞](https://www.baidu.com/s?wd=%E9%83%81%E7%BE%8E%E5%87%80%E8%91%A3%E4%BA%8B%E9%95%BF%E7%9B%B4%E6%92%AD%E9%97%B4%E8%B7%B3%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海辟谣豫园商圈只卖进口冰淇淋](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E8%B1%AB%E5%9B%AD%E5%95%86%E5%9C%88%E5%8F%AA%E5%8D%96%E8%BF%9B%E5%8F%A3%E5%86%B0%E6%B7%87%E6%B7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
