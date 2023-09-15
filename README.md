@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 19:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 19:51:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [国内出现女性猴痘感染者 专家提醒](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%A5%B3%E6%80%A7%E7%8C%B4%E7%97%98%E6%84%9F%E6%9F%93%E8%80%85+%E4%B8%93%E5%AE%B6%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [雅安地震](https://www.baidu.com/s?wd=%E9%9B%85%E5%AE%89%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [提醒！中国公民不得前往这些地方](https://www.baidu.com/s?wd=%E6%8F%90%E9%86%92%EF%BC%81%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E4%B8%8D%E5%BE%97%E5%89%8D%E5%BE%80%E8%BF%99%E4%BA%9B%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子称麻醉后被忘手术台医生下班](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E9%BA%BB%E9%86%89%E5%90%8E%E8%A2%AB%E5%BF%98%E6%89%8B%E6%9C%AF%E5%8F%B0%E5%8C%BB%E7%94%9F%E4%B8%8B%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高铁化妆不文明宣传片仍在播放](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%E4%B8%8D%E6%96%87%E6%98%8E%E5%AE%A3%E4%BC%A0%E7%89%87%E4%BB%8D%E5%9C%A8%E6%92%AD%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣植物油不能吃](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%A4%8D%E7%89%A9%E6%B2%B9%E4%B8%8D%E8%83%BD%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [国内出现女性猴痘感染者 专家提醒](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%A5%B3%E6%80%A7%E7%8C%B4%E7%97%98%E6%84%9F%E6%9F%93%E8%80%85+%E4%B8%93%E5%AE%B6%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [雅安地震](https://www.baidu.com/s?wd=%E9%9B%85%E5%AE%89%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [提醒！中国公民不得前往这些地方](https://www.baidu.com/s?wd=%E6%8F%90%E9%86%92%EF%BC%81%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E4%B8%8D%E5%BE%97%E5%89%8D%E5%BE%80%E8%BF%99%E4%BA%9B%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子称麻醉后被忘手术台医生下班](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E9%BA%BB%E9%86%89%E5%90%8E%E8%A2%AB%E5%BF%98%E6%89%8B%E6%9C%AF%E5%8F%B0%E5%8C%BB%E7%94%9F%E4%B8%8B%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高铁化妆不文明宣传片仍在播放](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%E4%B8%8D%E6%96%87%E6%98%8E%E5%AE%A3%E4%BC%A0%E7%89%87%E4%BB%8D%E5%9C%A8%E6%92%AD%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣植物油不能吃](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%A4%8D%E7%89%A9%E6%B2%B9%E4%B8%8D%E8%83%BD%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
