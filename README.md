@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 14:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 14:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张远问魏哲鸣结婚了吗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E9%97%AE%E9%AD%8F%E5%93%B2%E9%B8%A3%E7%BB%93%E5%A9%9A%E4%BA%86%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [12306客服建议过半小时再尝试](https://s.weibo.com/weibo?q=%2312306%E5%AE%A2%E6%9C%8D%E5%BB%BA%E8%AE%AE%E8%BF%87%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%86%8D%E5%B0%9D%E8%AF%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [男子吃生腌海鲜后做4次手术失去1条腿](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E7%94%9F%E8%85%8C%E6%B5%B7%E9%B2%9C%E5%90%8E%E5%81%9A4%E6%AC%A1%E6%89%8B%E6%9C%AF%E5%A4%B1%E5%8E%BB1%E6%9D%A1%E8%85%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [行走的鱼 王炸](https://s.weibo.com/weibo?q=%E8%A1%8C%E8%B5%B0%E7%9A%84%E9%B1%BC%20%E7%8E%8B%E7%82%B8&t=31&band_rank=9&Refer=top)<br />
+9. [易建联退役仪式直播](https://s.weibo.com/weibo?q=%E6%98%93%E5%BB%BA%E8%81%94%E9%80%80%E5%BD%B9%E4%BB%AA%E5%BC%8F%E7%9B%B4%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
