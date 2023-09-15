@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 08:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 08:17:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [当亚运遇上民乐太惊艳了](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%9A%E8%BF%90%E9%81%87%E4%B8%8A%E6%B0%91%E4%B9%90%E5%A4%AA%E6%83%8A%E8%89%B3%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [华为](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA&t=31&band_rank=4&Refer=top)<br />
 5. [北极鲶鱼事件结果是否应公开](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%E7%BB%93%E6%9E%9C%E6%98%AF%E5%90%A6%E5%BA%94%E5%85%AC%E5%BC%80%23&t=31&band_rank=5&Refer=top)<br />
-6. [朱一龙自曝曾犹豫是否接演消失的她](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E8%87%AA%E6%9B%9D%E6%9B%BE%E7%8A%B9%E8%B1%AB%E6%98%AF%E5%90%A6%E6%8E%A5%E6%BC%94%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23&t=31&band_rank=6&Refer=top)<br />
-7. [小鬼想请董明珠当演唱会嘉宾](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%E6%83%B3%E8%AF%B7%E8%91%A3%E6%98%8E%E7%8F%A0%E5%BD%93%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%23&t=31&band_rank=7&Refer=top)<br />
+6. [小鬼想请董明珠当演唱会嘉宾](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%E6%83%B3%E8%AF%B7%E8%91%A3%E6%98%8E%E7%8F%A0%E5%BD%93%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%23&t=31&band_rank=6&Refer=top)<br />
+7. [朱一龙自曝曾犹豫是否接演消失的她](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E8%87%AA%E6%9B%9D%E6%9B%BE%E7%8A%B9%E8%B1%AB%E6%98%AF%E5%90%A6%E6%8E%A5%E6%BC%94%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [官方回应北极鲶鱼事件调查结果不公开](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E4%B8%8D%E5%85%AC%E5%BC%80%23&t=31&band_rank=8&Refer=top)<br />
 9. [外媒曝Lisa拒绝和YG续约](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%9B%9DLisa%E6%8B%92%E7%BB%9D%E5%92%8CYG%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
 
