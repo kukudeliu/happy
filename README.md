@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 10:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 10:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [上官浅故意不穿里衣](https://s.weibo.com/weibo?q=%E4%B8%8A%E5%AE%98%E6%B5%85%E6%95%85%E6%84%8F%E4%B8%8D%E7%A9%BF%E9%87%8C%E8%A1%A3&t=31&band_rank=5&Refer=top)<br />
 6. [网红峰哥亲历缅甸生死36小时](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%B3%B0%E5%93%A5%E4%BA%B2%E5%8E%86%E7%BC%85%E7%94%B8%E7%94%9F%E6%AD%BB36%E5%B0%8F%E6%97%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [郁美净董事长直播间跳舞](https://s.weibo.com/weibo?q=%23%E9%83%81%E7%BE%8E%E5%87%80%E8%91%A3%E4%BA%8B%E9%95%BF%E7%9B%B4%E6%92%AD%E9%97%B4%E8%B7%B3%E8%88%9E%23&t=31&band_rank=7&Refer=top)<br />
-8. [12306崩了](https://s.weibo.com/weibo?q=12306%E5%B4%A9%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [丫丫也养鸟了](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E4%B9%9F%E5%85%BB%E9%B8%9F%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [丫丫也养鸟了](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E4%B9%9F%E5%85%BB%E9%B8%9F%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [12306崩了](https://s.weibo.com/weibo?q=12306%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
