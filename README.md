@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 13:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 13:53:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [高铁乘客花35买盒饭发现标价15](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B9%98%E5%AE%A2%E8%8A%B135%E4%B9%B0%E7%9B%92%E9%A5%AD%E5%8F%91%E7%8E%B0%E6%A0%87%E4%BB%B715%23&t=31&band_rank=4&Refer=top)<br />
 5. [抢票 抢不到](https://s.weibo.com/weibo?q=%E6%8A%A2%E7%A5%A8%20%E6%8A%A2%E4%B8%8D%E5%88%B0&t=31&band_rank=5&Refer=top)<br />
 6. [男子吃生腌海鲜后做4次手术失去1条腿](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E7%94%9F%E8%85%8C%E6%B5%B7%E9%B2%9C%E5%90%8E%E5%81%9A4%E6%AC%A1%E6%89%8B%E6%9C%AF%E5%A4%B1%E5%8E%BB1%E6%9D%A1%E8%85%BF%23&t=31&band_rank=6&Refer=top)<br />
-7. [陈楚生李玖哲老舅行走的鱼](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E6%9D%8E%E7%8E%96%E5%93%B2%E8%80%81%E8%88%85%E8%A1%8C%E8%B5%B0%E7%9A%84%E9%B1%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [TF家族演唱会举办方被罚6万](https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BE%E5%8A%9E%E6%96%B9%E8%A2%AB%E7%BD%9A6%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
+7. [TF家族演唱会举办方被罚6万](https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BE%E5%8A%9E%E6%96%B9%E8%A2%AB%E7%BD%9A6%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
+8. [陈楚生李玖哲老舅行走的鱼](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E6%9D%8E%E7%8E%96%E5%93%B2%E8%80%81%E8%88%85%E8%A1%8C%E8%B5%B0%E7%9A%84%E9%B1%BC%23&t=31&band_rank=8&Refer=top)<br />
 9. [他从火光中走来 定档](https://s.weibo.com/weibo?q=%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%20%E5%AE%9A%E6%A1%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
