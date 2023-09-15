@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 07:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 07:55:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [杭州亚运会宣传片爱之城](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%AE%A3%E4%BC%A0%E7%89%87%E7%88%B1%E4%B9%8B%E5%9F%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [女子捏死隐翅虫手臂被腐蚀7天还没好](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8D%8F%E6%AD%BB%E9%9A%90%E7%BF%85%E8%99%AB%E6%89%8B%E8%87%82%E8%A2%AB%E8%85%90%E8%9A%807%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%A5%BD%23&t=31&band_rank=4&Refer=top)<br />
 5. [云之羽 稀巴烂](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%20%E7%A8%80%E5%B7%B4%E7%83%82&t=31&band_rank=5&Refer=top)<br />
-6. [曾舜晞 心如止水](https://s.weibo.com/weibo?q=%E6%9B%BE%E8%88%9C%E6%99%9E%20%E5%BF%83%E5%A6%82%E6%AD%A2%E6%B0%B4&t=31&band_rank=6&Refer=top)<br />
-7. [教师资格证三个作文万能开头](https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%AF%81%E4%B8%89%E4%B8%AA%E4%BD%9C%E6%96%87%E4%B8%87%E8%83%BD%E5%BC%80%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
+6. [教师资格证三个作文万能开头](https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%AF%81%E4%B8%89%E4%B8%AA%E4%BD%9C%E6%96%87%E4%B8%87%E8%83%BD%E5%BC%80%E5%A4%B4&t=31&band_rank=6&Refer=top)<br />
+7. [曾舜晞 心如止水](https://s.weibo.com/weibo?q=%E6%9B%BE%E8%88%9C%E6%99%9E%20%E5%BF%83%E5%A6%82%E6%AD%A2%E6%B0%B4&t=31&band_rank=7&Refer=top)<br />
 8. [李在明绝食第16天健康已非常危险](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%BB%9D%E9%A3%9F%E7%AC%AC16%E5%A4%A9%E5%81%A5%E5%BA%B7%E5%B7%B2%E9%9D%9E%E5%B8%B8%E5%8D%B1%E9%99%A9%23&t=31&band_rank=8&Refer=top)<br />
 9. [吴昕说恋爱没百分百确定别骚扰家长](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E8%AF%B4%E6%81%8B%E7%88%B1%E6%B2%A1%E7%99%BE%E5%88%86%E7%99%BE%E7%A1%AE%E5%AE%9A%E5%88%AB%E9%AA%9A%E6%89%B0%E5%AE%B6%E9%95%BF%23&t=31&band_rank=9&Refer=top)<br />
 
