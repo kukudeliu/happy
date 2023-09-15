@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 08:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 09:00:01</h4></div>
 
 > 微博  
 
-1. [中国人吃了全球91%的榴莲](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E4%BA%86%E5%85%A8%E7%90%8391%25%E7%9A%84%E6%A6%B4%E8%8E%B2%23&t=31&band_rank=1&Refer=top)<br />
-2. [上官浅故意不穿里衣](https://s.weibo.com/weibo?q=%E4%B8%8A%E5%AE%98%E6%B5%85%E6%95%85%E6%84%8F%E4%B8%8D%E7%A9%BF%E9%87%8C%E8%A1%A3&t=31&band_rank=2&Refer=top)<br />
+1. [上官浅故意不穿里衣](https://s.weibo.com/weibo?q=%E4%B8%8A%E5%AE%98%E6%B5%85%E6%95%85%E6%84%8F%E4%B8%8D%E7%A9%BF%E9%87%8C%E8%A1%A3&t=31&band_rank=1&Refer=top)<br />
+2. [中国人吃了全球91%的榴莲](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E4%BA%86%E5%85%A8%E7%90%8391%25%E7%9A%84%E6%A6%B4%E8%8E%B2%23&t=31&band_rank=2&Refer=top)<br />
 3. [当亚运遇上民乐太惊艳了](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%9A%E8%BF%90%E9%81%87%E4%B8%8A%E6%B0%91%E4%B9%90%E5%A4%AA%E6%83%8A%E8%89%B3%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [花西子事件后老牌国货销量暴涨](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E4%BA%8B%E4%BB%B6%E5%90%8E%E8%80%81%E7%89%8C%E5%9B%BD%E8%B4%A7%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [你看过黄金 就不会被黄铜所迷惑](https://s.weibo.com/weibo?q=%E4%BD%A0%E7%9C%8B%E8%BF%87%E9%BB%84%E9%87%91%20%E5%B0%B1%E4%B8%8D%E4%BC%9A%E8%A2%AB%E9%BB%84%E9%93%9C%E6%89%80%E8%BF%B7%E6%83%91&t=31&band_rank=5&Refer=top)<br />
