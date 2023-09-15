@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 12:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 12:03:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [上官浅故意不穿里衣](https://s.weibo.com/weibo?q=%E4%B8%8A%E5%AE%98%E6%B5%85%E6%95%85%E6%84%8F%E4%B8%8D%E7%A9%BF%E9%87%8C%E8%A1%A3&t=31&band_rank=5&Refer=top)<br />
 6. [boss直聘崩了](https://s.weibo.com/weibo?q=boss%E7%9B%B4%E8%81%98%E5%B4%A9%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [211女硕士遭杀猪盘两周被骗138万](https://s.weibo.com/weibo?q=%23211%E5%A5%B3%E7%A1%95%E5%A3%AB%E9%81%AD%E6%9D%80%E7%8C%AA%E7%9B%98%E4%B8%A4%E5%91%A8%E8%A2%AB%E9%AA%97138%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [将猴痘纳入乙类传染病进行管理](https://s.weibo.com/weibo?q=%23%E5%B0%86%E7%8C%B4%E7%97%98%E7%BA%B3%E5%85%A5%E4%B9%99%E7%B1%BB%E4%BC%A0%E6%9F%93%E7%97%85%E8%BF%9B%E8%A1%8C%E7%AE%A1%E7%90%86%23&t=31&band_rank=8&Refer=top)<br />
+8. [蜂花香皂 残障人士包装](https://s.weibo.com/weibo?q=%E8%9C%82%E8%8A%B1%E9%A6%99%E7%9A%82%20%E6%AE%8B%E9%9A%9C%E4%BA%BA%E5%A3%AB%E5%8C%85%E8%A3%85&t=31&band_rank=8&Refer=top)<br />
 9. [苹果要求员工对iPhone12辐射沉默](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E8%A6%81%E6%B1%82%E5%91%98%E5%B7%A5%E5%AF%B9iPhone12%E8%BE%90%E5%B0%84%E6%B2%89%E9%BB%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
