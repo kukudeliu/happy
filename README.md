@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 09:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 09:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [你看过黄金 就不会被黄铜所迷惑](https://s.weibo.com/weibo?q=%E4%BD%A0%E7%9C%8B%E8%BF%87%E9%BB%84%E9%87%91%20%E5%B0%B1%E4%B8%8D%E4%BC%9A%E8%A2%AB%E9%BB%84%E9%93%9C%E6%89%80%E8%BF%B7%E6%83%91&t=31&band_rank=6&Refer=top)<br />
 7. [女子翻护栏捡手机坠下40米高瀑布身亡](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BF%BB%E6%8A%A4%E6%A0%8F%E6%8D%A1%E6%89%8B%E6%9C%BA%E5%9D%A0%E4%B8%8B40%E7%B1%B3%E9%AB%98%E7%80%91%E5%B8%83%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [北极鲶鱼事件结果是否应公开](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%E7%BB%93%E6%9E%9C%E6%98%AF%E5%90%A6%E5%BA%94%E5%85%AC%E5%BC%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [小鬼想请董明珠当演唱会嘉宾](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%E6%83%B3%E8%AF%B7%E8%91%A3%E6%98%8E%E7%8F%A0%E5%BD%93%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [香港市中心15平的家](https://s.weibo.com/weibo?q=%E9%A6%99%E6%B8%AF%E5%B8%82%E4%B8%AD%E5%BF%8315%E5%B9%B3%E7%9A%84%E5%AE%B6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
