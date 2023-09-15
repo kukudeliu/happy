@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 23:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 23:47:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [云之羽结局](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%E7%BB%93%E5%B1%80&t=31&band_rank=5&Refer=top)<br />
 6. [剥了5000多只虾就为了一碗面](https://s.weibo.com/weibo?q=%E5%89%A5%E4%BA%865000%E5%A4%9A%E5%8F%AA%E8%99%BE%E5%B0%B1%E4%B8%BA%E4%BA%86%E4%B8%80%E7%A2%97%E9%9D%A2&t=31&band_rank=6&Refer=top)<br />
 7. [云之羽给曾舜晞P了刘海](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E7%BB%99%E6%9B%BE%E8%88%9C%E6%99%9EP%E4%BA%86%E5%88%98%E6%B5%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [沈梦辰跟贾静雯打招呼紧张到结巴](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E8%B7%9F%E8%B4%BE%E9%9D%99%E9%9B%AF%E6%89%93%E6%8B%9B%E5%91%BC%E7%B4%A7%E5%BC%A0%E5%88%B0%E7%BB%93%E5%B7%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [文咏珊被正式确诊为文勇扇](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%96%87%E5%8B%87%E6%89%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [文咏珊被正式确诊为文勇扇](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%96%87%E5%8B%87%E6%89%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [迪丽热巴为胡意旋新剧打call](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%BA%E8%83%A1%E6%84%8F%E6%97%8B%E6%96%B0%E5%89%A7%E6%89%93call%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
