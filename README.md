@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 13:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 13:40:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [高铁上有多容易偶遇香港明星](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E6%9C%89%E5%A4%9A%E5%AE%B9%E6%98%93%E5%81%B6%E9%81%87%E9%A6%99%E6%B8%AF%E6%98%8E%E6%98%9F%23&t=31&band_rank=2&Refer=top)<br />
 3. [用超长画卷打开5000年杭州](https://s.weibo.com/weibo?q=%23%E7%94%A8%E8%B6%85%E9%95%BF%E7%94%BB%E5%8D%B7%E6%89%93%E5%BC%805000%E5%B9%B4%E6%9D%AD%E5%B7%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [高铁乘客花35买盒饭发现标价15](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B9%98%E5%AE%A2%E8%8A%B135%E4%B9%B0%E7%9B%92%E9%A5%AD%E5%8F%91%E7%8E%B0%E6%A0%87%E4%BB%B715%23&t=31&band_rank=4&Refer=top)<br />
-5. [男子吃生腌海鲜后做4次手术失去1条腿](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E7%94%9F%E8%85%8C%E6%B5%B7%E9%B2%9C%E5%90%8E%E5%81%9A4%E6%AC%A1%E6%89%8B%E6%9C%AF%E5%A4%B1%E5%8E%BB1%E6%9D%A1%E8%85%BF%23&t=31&band_rank=5&Refer=top)<br />
-6. [抢票 抢不到](https://s.weibo.com/weibo?q=%E6%8A%A2%E7%A5%A8%20%E6%8A%A2%E4%B8%8D%E5%88%B0&t=31&band_rank=6&Refer=top)<br />
+5. [抢票 抢不到](https://s.weibo.com/weibo?q=%E6%8A%A2%E7%A5%A8%20%E6%8A%A2%E4%B8%8D%E5%88%B0&t=31&band_rank=5&Refer=top)<br />
+6. [男子吃生腌海鲜后做4次手术失去1条腿](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E7%94%9F%E8%85%8C%E6%B5%B7%E9%B2%9C%E5%90%8E%E5%81%9A4%E6%AC%A1%E6%89%8B%E6%9C%AF%E5%A4%B1%E5%8E%BB1%E6%9D%A1%E8%85%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [TF家族演唱会举办方被罚6万](https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BE%E5%8A%9E%E6%96%B9%E8%A2%AB%E7%BD%9A6%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [他从火光中走来 定档](https://s.weibo.com/weibo?q=%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%20%E5%AE%9A%E6%A1%A3&t=31&band_rank=8&Refer=top)<br />
 9. [肖战喊前夫哥是即兴发挥](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%96%8A%E5%89%8D%E5%A4%AB%E5%93%A5%E6%98%AF%E5%8D%B3%E5%85%B4%E5%8F%91%E6%8C%A5%23&t=31&band_rank=9&Refer=top)<br />
