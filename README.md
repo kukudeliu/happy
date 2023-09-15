@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 13:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 13:25:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [抢票 抢不到](https://s.weibo.com/weibo?q=%E6%8A%A2%E7%A5%A8%20%E6%8A%A2%E4%B8%8D%E5%88%B0&t=31&band_rank=5&Refer=top)<br />
 6. [TF家族演唱会举办方被罚6万](https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BE%E5%8A%9E%E6%96%B9%E8%A2%AB%E7%BD%9A6%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [他从火光中走来 定档](https://s.weibo.com/weibo?q=%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%20%E5%AE%9A%E6%A1%A3&t=31&band_rank=7&Refer=top)<br />
-8. [恋与胡彦斌](https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E8%83%A1%E5%BD%A6%E6%96%8C&t=31&band_rank=8&Refer=top)<br />
-9. [肖战喊前夫哥是即兴发挥](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%96%8A%E5%89%8D%E5%A4%AB%E5%93%A5%E6%98%AF%E5%8D%B3%E5%85%B4%E5%8F%91%E6%8C%A5%23&t=31&band_rank=9&Refer=top)<br />
+8. [肖战喊前夫哥是即兴发挥](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%96%8A%E5%89%8D%E5%A4%AB%E5%93%A5%E6%98%AF%E5%8D%B3%E5%85%B4%E5%8F%91%E6%8C%A5%23&t=31&band_rank=8&Refer=top)<br />
+9. [恋与胡彦斌](https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E8%83%A1%E5%BD%A6%E6%96%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
