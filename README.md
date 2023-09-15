@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 20:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 20:06:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [中科院被骗博士晒出工资单](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%91%E9%99%A2%E8%A2%AB%E9%AA%97%E5%8D%9A%E5%A3%AB%E6%99%92%E5%87%BA%E5%B7%A5%E8%B5%84%E5%8D%95%23&t=31&band_rank=4&Refer=top)<br />
 5. [傅云深出车祸](https://s.weibo.com/weibo?q=%23%E5%82%85%E4%BA%91%E6%B7%B1%E5%87%BA%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [李玖哲因公司拒绝而错过我是歌手](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%96%E5%93%B2%E5%9B%A0%E5%85%AC%E5%8F%B8%E6%8B%92%E7%BB%9D%E8%80%8C%E9%94%99%E8%BF%87%E6%88%91%E6%98%AF%E6%AD%8C%E6%89%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [如何看待蜂花借李佳琦热点搞营销](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%9C%82%E8%8A%B1%E5%80%9F%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%83%AD%E7%82%B9%E6%90%9E%E8%90%A5%E9%94%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [38元买的谢馥春眉粉用了9年仅破皮](https://s.weibo.com/weibo?q=%2338%E5%85%83%E4%B9%B0%E7%9A%84%E8%B0%A2%E9%A6%A5%E6%98%A5%E7%9C%89%E7%B2%89%E7%94%A8%E4%BA%869%E5%B9%B4%E4%BB%85%E7%A0%B4%E7%9A%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘恋晋级又淘汰](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%81%8B%E6%99%8B%E7%BA%A7%E5%8F%88%E6%B7%98%E6%B1%B0%23&t=31&band_rank=9&Refer=top)<br />
+7. [孩子在外婆家溺亡父亲起诉索赔80万](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E5%9C%A8%E5%A4%96%E5%A9%86%E5%AE%B6%E6%BA%BA%E4%BA%A1%E7%88%B6%E4%BA%B2%E8%B5%B7%E8%AF%89%E7%B4%A2%E8%B5%9480%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
+8. [如何看待蜂花借李佳琦热点搞营销](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%9C%82%E8%8A%B1%E5%80%9F%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%83%AD%E7%82%B9%E6%90%9E%E8%90%A5%E9%94%80%23&t=31&band_rank=8&Refer=top)<br />
+9. [稻城亚丁](https://s.weibo.com/weibo?q=%E7%A8%BB%E5%9F%8E%E4%BA%9A%E4%B8%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
