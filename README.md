@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 20:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 20:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [云之羽超点](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E8%B6%85%E7%82%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [李玖哲因公司拒绝而错过我是歌手](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%96%E5%93%B2%E5%9B%A0%E5%85%AC%E5%8F%B8%E6%8B%92%E7%BB%9D%E8%80%8C%E9%94%99%E8%BF%87%E6%88%91%E6%98%AF%E6%AD%8C%E6%89%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [如何看待蜂花借李佳琦热点搞营销](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%9C%82%E8%8A%B1%E5%80%9F%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%83%AD%E7%82%B9%E6%90%9E%E8%90%A5%E9%94%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [60秒速览北京文化论坛文艺晚会](https://s.weibo.com/weibo?q=%2360%E7%A7%92%E9%80%9F%E8%A7%88%E5%8C%97%E4%BA%AC%E6%96%87%E5%8C%96%E8%AE%BA%E5%9D%9B%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [高铁化妆 美妆博主反击](https://s.weibo.com/weibo?q=%E9%AB%98%E9%93%81%E5%8C%96%E5%A6%86%20%E7%BE%8E%E5%A6%86%E5%8D%9A%E4%B8%BB%E5%8F%8D%E5%87%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
