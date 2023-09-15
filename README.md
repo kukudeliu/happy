@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 13:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 13:02:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [YG回应Lisa拒绝续约](https://s.weibo.com/weibo?q=%23YG%E5%9B%9E%E5%BA%94Lisa%E6%8B%92%E7%BB%9D%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [TF家族演唱会举办方被罚6万](https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BE%E5%8A%9E%E6%96%B9%E8%A2%AB%E7%BD%9A6%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [恋与胡彦斌](https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E8%83%A1%E5%BD%A6%E6%96%8C&t=31&band_rank=7&Refer=top)<br />
-8. [央视前女主持任星巴克董事](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E5%89%8D%E5%A5%B3%E4%B8%BB%E6%8C%81%E4%BB%BB%E6%98%9F%E5%B7%B4%E5%85%8B%E8%91%A3%E4%BA%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [蜂花香皂 残障人士包装](https://s.weibo.com/weibo?q=%E8%9C%82%E8%8A%B1%E9%A6%99%E7%9A%82%20%E6%AE%8B%E9%9A%9C%E4%BA%BA%E5%A3%AB%E5%8C%85%E8%A3%85&t=31&band_rank=9&Refer=top)<br />
+8. [蜂花香皂 残障人士包装](https://s.weibo.com/weibo?q=%E8%9C%82%E8%8A%B1%E9%A6%99%E7%9A%82%20%E6%AE%8B%E9%9A%9C%E4%BA%BA%E5%A3%AB%E5%8C%85%E8%A3%85&t=31&band_rank=8&Refer=top)<br />
+9. [他从火光中走来 定档](https://s.weibo.com/weibo?q=%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%20%E5%AE%9A%E6%A1%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
