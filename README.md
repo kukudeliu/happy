@@ -1,8 +1,8 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 17:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-15 17:59:01</h4></div>
 
 > 微博  
 
-1. [中科院被骗博士晒出工资单](https://s.weibo.com/weibo?q=%E4%B8%AD%E7%A7%91%E9%99%A2%E8%A2%AB%E9%AA%97%E5%8D%9A%E5%A3%AB%E6%99%92%E5%87%BA%E5%B7%A5%E8%B5%84%E5%8D%95&t=31&band_rank=1&Refer=top)<br />
+1. [中科院被骗博士晒出工资单](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%91%E9%99%A2%E8%A2%AB%E9%AA%97%E5%8D%9A%E5%A3%AB%E6%99%92%E5%87%BA%E5%B7%A5%E8%B5%84%E5%8D%95%23&t=31&band_rank=1&Refer=top)<br />
 2. [丫丫也养鸟了](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E4%B9%9F%E5%85%BB%E9%B8%9F%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [用超长画卷打开5000年杭州](https://s.weibo.com/weibo?q=%23%E7%94%A8%E8%B6%85%E9%95%BF%E7%94%BB%E5%8D%B7%E6%89%93%E5%BC%805000%E5%B9%B4%E6%9D%AD%E5%B7%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [一斤鸭脖70元年轻人大喊少抓点](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%96%A4%E9%B8%AD%E8%84%9670%E5%85%83%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%A4%A7%E5%96%8A%E5%B0%91%E6%8A%93%E7%82%B9%23&t=31&band_rank=4&Refer=top)<br />
