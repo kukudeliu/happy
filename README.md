@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 12:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 12:19:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=2&Refer=top)<br />
 3. [2023年网络安全周云计算服务安全分论坛](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%91%A8%E4%BA%91%E8%AE%A1%E7%AE%97%E6%9C%8D%E5%8A%A1%E5%AE%89%E5%85%A8%E5%88%86%E8%AE%BA%E5%9D%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [国内出现女性猴痘感染者](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%A5%B3%E6%80%A7%E7%8C%B4%E7%97%98%E6%84%9F%E6%9F%93%E8%80%85%23&t=31&band_rank=4&Refer=top)<br />
-5. [教资答案](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E7%AD%94%E6%A1%88&t=31&band_rank=5&Refer=top)<br />
-6. [白色橄榄树开机](https://s.weibo.com/weibo?q=%E7%99%BD%E8%89%B2%E6%A9%84%E6%A6%84%E6%A0%91%E5%BC%80%E6%9C%BA&t=31&band_rank=6&Refer=top)<br />
-7. [女子捏死隐翅虫手臂被腐蚀7天还没好](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8D%8F%E6%AD%BB%E9%9A%90%E7%BF%85%E8%99%AB%E6%89%8B%E8%87%82%E8%A2%AB%E8%85%90%E8%9A%807%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%A5%BD%23&t=31&band_rank=7&Refer=top)<br />
+5. [白色橄榄树开机](https://s.weibo.com/weibo?q=%E7%99%BD%E8%89%B2%E6%A9%84%E6%A6%84%E6%A0%91%E5%BC%80%E6%9C%BA&t=31&band_rank=5&Refer=top)<br />
+6. [女子捏死隐翅虫手臂被腐蚀7天还没好](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8D%8F%E6%AD%BB%E9%9A%90%E7%BF%85%E8%99%AB%E6%89%8B%E8%87%82%E8%A2%AB%E8%85%90%E8%9A%807%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%A5%BD%23&t=31&band_rank=6&Refer=top)<br />
+7. [教资答案](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E7%AD%94%E6%A1%88&t=31&band_rank=7&Refer=top)<br />
 8. [法考](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%83&t=31&band_rank=8&Refer=top)<br />
-9. [教资作文](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E4%BD%9C%E6%96%87&t=31&band_rank=9&Refer=top)<br />
+9. [曾舜晞 心如止水](https://s.weibo.com/weibo?q=%E6%9B%BE%E8%88%9C%E6%99%9E%20%E5%BF%83%E5%A6%82%E6%AD%A2%E6%B0%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [女子在泰国遭绑架遇车祸跳车自救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B3%B0%E5%9B%BD%E9%81%AD%E7%BB%91%E6%9E%B6%E9%81%87%E8%BD%A6%E7%A5%B8%E8%B7%B3%E8%BD%A6%E8%87%AA%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [群众捡66斤“大宝贝”交给派出所](https://www.baidu.com/s?wd=%E7%BE%A4%E4%BC%97%E6%8D%A166%E6%96%A4%E2%80%9C%E5%A4%A7%E5%AE%9D%E8%B4%9D%E2%80%9D%E4%BA%A4%E7%BB%99%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [7岁男孩偷带啤酒去学校同学齐喝醉](https://www.baidu.com/s?wd=7%E5%B2%81%E7%94%B7%E5%AD%A9%E5%81%B7%E5%B8%A6%E5%95%A4%E9%85%92%E5%8E%BB%E5%AD%A6%E6%A0%A1%E5%90%8C%E5%AD%A6%E9%BD%90%E5%96%9D%E9%86%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胡锡进：美国制裁网络被华为捅破了](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E7%BD%91%E7%BB%9C%E8%A2%AB%E5%8D%8E%E4%B8%BA%E6%8D%85%E7%A0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子捏死隐翅虫手臂被腐蚀7天还没好](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8D%8F%E6%AD%BB%E9%9A%90%E7%BF%85%E8%99%AB%E6%89%8B%E8%87%82%E8%A2%AB%E8%85%90%E8%9A%807%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [证监会辟谣IPO、再融资关闸传闻](https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E8%BE%9F%E8%B0%A3IPO%E3%80%81%E5%86%8D%E8%9E%8D%E8%B5%84%E5%85%B3%E9%97%B8%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女子在泰国遭绑架遇车祸跳车自救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B3%B0%E5%9B%BD%E9%81%AD%E7%BB%91%E6%9E%B6%E9%81%87%E8%BD%A6%E7%A5%B8%E8%B7%B3%E8%BD%A6%E8%87%AA%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [群众捡66斤“大宝贝”交给派出所](https://www.baidu.com/s?wd=%E7%BE%A4%E4%BC%97%E6%8D%A166%E6%96%A4%E2%80%9C%E5%A4%A7%E5%AE%9D%E8%B4%9D%E2%80%9D%E4%BA%A4%E7%BB%99%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [7岁男孩偷带啤酒去学校同学齐喝醉](https://www.baidu.com/s?wd=7%E5%B2%81%E7%94%B7%E5%AD%A9%E5%81%B7%E5%B8%A6%E5%95%A4%E9%85%92%E5%8E%BB%E5%AD%A6%E6%A0%A1%E5%90%8C%E5%AD%A6%E9%BD%90%E5%96%9D%E9%86%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胡锡进：美国制裁网络被华为捅破了](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E7%BD%91%E7%BB%9C%E8%A2%AB%E5%8D%8E%E4%B8%BA%E6%8D%85%E7%A0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子捏死隐翅虫手臂被腐蚀7天还没好](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8D%8F%E6%AD%BB%E9%9A%90%E7%BF%85%E8%99%AB%E6%89%8B%E8%87%82%E8%A2%AB%E8%85%90%E8%9A%807%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [证监会辟谣IPO、再融资关闸传闻](https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E8%BE%9F%E8%B0%A3IPO%E3%80%81%E5%86%8D%E8%9E%8D%E8%B5%84%E5%85%B3%E9%97%B8%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
