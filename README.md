@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 22:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 22:54:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [东博会20载结硕果 勇立潮头再跨越](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8D%9A%E4%BC%9A20%E8%BD%BD%E7%BB%93%E7%A1%95%E6%9E%9C+%E5%8B%87%E7%AB%8B%E6%BD%AE%E5%A4%B4%E5%86%8D%E8%B7%A8%E8%B6%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海地铁徐家汇站列车冒烟 官方回应](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%BE%90%E5%AE%B6%E6%B1%87%E7%AB%99%E5%88%97%E8%BD%A6%E5%86%92%E7%83%9F+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [重庆前首富住进养老院](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%89%8D%E9%A6%96%E5%AF%8C%E4%BD%8F%E8%BF%9B%E5%85%BB%E8%80%81%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网友建议餐厅标明菜品是否为预制菜](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%BB%BA%E8%AE%AE%E9%A4%90%E5%8E%85%E6%A0%87%E6%98%8E%E8%8F%9C%E5%93%81%E6%98%AF%E5%90%A6%E4%B8%BA%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [亚洲金价狂飙发生了什么？](https://www.baidu.com/s?wd=%E4%BA%9A%E6%B4%B2%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [学生家长质疑当地研究生推免有猫腻](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E8%B4%A8%E7%96%91%E5%BD%93%E5%9C%B0%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8E%A8%E5%85%8D%E6%9C%89%E7%8C%AB%E8%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [车主回应高速上被钢板击穿挡风玻璃](https://www.baidu.com/s?wd=%E8%BD%A6%E4%B8%BB%E5%9B%9E%E5%BA%94%E9%AB%98%E9%80%9F%E4%B8%8A%E8%A2%AB%E9%92%A2%E6%9D%BF%E5%87%BB%E7%A9%BF%E6%8C%A1%E9%A3%8E%E7%8E%BB%E7%92%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夫妻办教培被罚跳楼？长沙辟谣](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%8A%9E%E6%95%99%E5%9F%B9%E8%A2%AB%E7%BD%9A%E8%B7%B3%E6%A5%BC%EF%BC%9F%E9%95%BF%E6%B2%99%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [东博会20载结硕果 勇立潮头再跨越](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8D%9A%E4%BC%9A20%E8%BD%BD%E7%BB%93%E7%A1%95%E6%9E%9C+%E5%8B%87%E7%AB%8B%E6%BD%AE%E5%A4%B4%E5%86%8D%E8%B7%A8%E8%B6%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海地铁徐家汇站列车冒烟 官方回应](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%BE%90%E5%AE%B6%E6%B1%87%E7%AB%99%E5%88%97%E8%BD%A6%E5%86%92%E7%83%9F+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [重庆前首富住进养老院](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%89%8D%E9%A6%96%E5%AF%8C%E4%BD%8F%E8%BF%9B%E5%85%BB%E8%80%81%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网友建议餐厅标明菜品是否为预制菜](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%BB%BA%E8%AE%AE%E9%A4%90%E5%8E%85%E6%A0%87%E6%98%8E%E8%8F%9C%E5%93%81%E6%98%AF%E5%90%A6%E4%B8%BA%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [亚洲金价狂飙发生了什么？](https://www.baidu.com/s?wd=%E4%BA%9A%E6%B4%B2%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [学生家长质疑当地研究生推免有猫腻](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E8%B4%A8%E7%96%91%E5%BD%93%E5%9C%B0%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8E%A8%E5%85%8D%E6%9C%89%E7%8C%AB%E8%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [车主回应高速上被钢板击穿挡风玻璃](https://www.baidu.com/s?wd=%E8%BD%A6%E4%B8%BB%E5%9B%9E%E5%BA%94%E9%AB%98%E9%80%9F%E4%B8%8A%E8%A2%AB%E9%92%A2%E6%9D%BF%E5%87%BB%E7%A9%BF%E6%8C%A1%E9%A3%8E%E7%8E%BB%E7%92%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夫妻办教培被罚跳楼？长沙辟谣](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%8A%9E%E6%95%99%E5%9F%B9%E8%A2%AB%E7%BD%9A%E8%B7%B3%E6%A5%BC%EF%BC%9F%E9%95%BF%E6%B2%99%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
