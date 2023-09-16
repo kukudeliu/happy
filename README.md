@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 17:50:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 17:51:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [35元2颗茅台巧克力贵不贵](https://s.weibo.com/weibo?q=%2335%E5%85%832%E9%A2%97%E8%8C%85%E5%8F%B0%E5%B7%A7%E5%85%8B%E5%8A%9B%E8%B4%B5%E4%B8%8D%E8%B4%B5%23&t=31&band_rank=4&Refer=top)<br />
 5. [餐厅称被烧伤女子为拍视频要求多加酒精](https://s.weibo.com/weibo?q=%23%E9%A4%90%E5%8E%85%E7%A7%B0%E8%A2%AB%E7%83%A7%E4%BC%A4%E5%A5%B3%E5%AD%90%E4%B8%BA%E6%8B%8D%E8%A7%86%E9%A2%91%E8%A6%81%E6%B1%82%E5%A4%9A%E5%8A%A0%E9%85%92%E7%B2%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [法考](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%83&t=31&band_rank=6&Refer=top)<br />
-7. [乔任梁父母失独后重新生活](https://s.weibo.com/weibo?q=%23%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E6%AF%8D%E5%A4%B1%E7%8B%AC%E5%90%8E%E9%87%8D%E6%96%B0%E7%94%9F%E6%B4%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [人民日报批明星偷逃税](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%89%B9%E6%98%8E%E6%98%9F%E5%81%B7%E9%80%83%E7%A8%8E%23&t=31&band_rank=8&Refer=top)<br />
+7. [人民日报批明星偷逃税](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%89%B9%E6%98%8E%E6%98%9F%E5%81%B7%E9%80%83%E7%A8%8E%23&t=31&band_rank=7&Refer=top)<br />
+8. [乔任梁父母失独后重新生活](https://s.weibo.com/weibo?q=%23%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E6%AF%8D%E5%A4%B1%E7%8B%AC%E5%90%8E%E9%87%8D%E6%96%B0%E7%94%9F%E6%B4%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [林孝埈男子500米夺冠](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E7%94%B7%E5%AD%90500%E7%B1%B3%E5%A4%BA%E5%86%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
