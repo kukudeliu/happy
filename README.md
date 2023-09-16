@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 02:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 02:40:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [高铁拒换座被打女子：对方先动手](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E6%8B%92%E6%8D%A2%E5%BA%A7%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%90%EF%BC%9A%E5%AF%B9%E6%96%B9%E5%85%88%E5%8A%A8%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子花20万装修发现房子不是自己的](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B120%E4%B8%87%E8%A3%85%E4%BF%AE%E5%8F%91%E7%8E%B0%E6%88%BF%E5%AD%90%E4%B8%8D%E6%98%AF%E8%87%AA%E5%B7%B1%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [亚洲金价狂飙发生了什么？](https://www.baidu.com/s?wd=%E4%BA%9A%E6%B4%B2%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [车主回应高速上被钢板击穿挡风玻璃](https://www.baidu.com/s?wd=%E8%BD%A6%E4%B8%BB%E5%9B%9E%E5%BA%94%E9%AB%98%E9%80%9F%E4%B8%8A%E8%A2%AB%E9%92%A2%E6%9D%BF%E5%87%BB%E7%A9%BF%E6%8C%A1%E9%A3%8E%E7%8E%BB%E7%92%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子9年前花250万买飞机至今未到货](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%909%E5%B9%B4%E5%89%8D%E8%8A%B1250%E4%B8%87%E4%B9%B0%E9%A3%9E%E6%9C%BA%E8%87%B3%E4%BB%8A%E6%9C%AA%E5%88%B0%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津马拉松名额可售卖？官方辟谣](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%90%8D%E9%A2%9D%E5%8F%AF%E5%94%AE%E5%8D%96%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [高铁拒换座被打女子：对方先动手](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E6%8B%92%E6%8D%A2%E5%BA%A7%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%90%EF%BC%9A%E5%AF%B9%E6%96%B9%E5%85%88%E5%8A%A8%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子花20万装修发现房子不是自己的](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B120%E4%B8%87%E8%A3%85%E4%BF%AE%E5%8F%91%E7%8E%B0%E6%88%BF%E5%AD%90%E4%B8%8D%E6%98%AF%E8%87%AA%E5%B7%B1%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [亚洲金价狂飙发生了什么？](https://www.baidu.com/s?wd=%E4%BA%9A%E6%B4%B2%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [车主回应高速上被钢板击穿挡风玻璃](https://www.baidu.com/s?wd=%E8%BD%A6%E4%B8%BB%E5%9B%9E%E5%BA%94%E9%AB%98%E9%80%9F%E4%B8%8A%E8%A2%AB%E9%92%A2%E6%9D%BF%E5%87%BB%E7%A9%BF%E6%8C%A1%E9%A3%8E%E7%8E%BB%E7%92%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子9年前花250万买飞机至今未到货](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%909%E5%B9%B4%E5%89%8D%E8%8A%B1250%E4%B8%87%E4%B9%B0%E9%A3%9E%E6%9C%BA%E8%87%B3%E4%BB%8A%E6%9C%AA%E5%88%B0%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津马拉松名额可售卖？官方辟谣](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%90%8D%E9%A2%9D%E5%8F%AF%E5%94%AE%E5%8D%96%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
