@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 21:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 21:39:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [被曝喝出蜘蛛 蜜雪冰城涉事门店停业](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9B%9D%E5%96%9D%E5%87%BA%E8%9C%98%E8%9B%9B+%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%B6%89%E4%BA%8B%E9%97%A8%E5%BA%97%E5%81%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上海地铁徐家汇站列车冒烟 官方回应](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%BE%90%E5%AE%B6%E6%B1%87%E7%AB%99%E5%88%97%E8%BD%A6%E5%86%92%E7%83%9F+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子20万装修发现房子不是自己的](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9020%E4%B8%87%E8%A3%85%E4%BF%AE%E5%8F%91%E7%8E%B0%E6%88%BF%E5%AD%90%E4%B8%8D%E6%98%AF%E8%87%AA%E5%B7%B1%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [2狗打架主人被狗绳绊致十级伤残](https://www.baidu.com/s?wd=2%E7%8B%97%E6%89%93%E6%9E%B6%E4%B8%BB%E4%BA%BA%E8%A2%AB%E7%8B%97%E7%BB%B3%E7%BB%8A%E8%87%B4%E5%8D%81%E7%BA%A7%E4%BC%A4%E6%AE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [车主回应高速上被钢板击穿挡风玻璃](https://www.baidu.com/s?wd=%E8%BD%A6%E4%B8%BB%E5%9B%9E%E5%BA%94%E9%AB%98%E9%80%9F%E4%B8%8A%E8%A2%AB%E9%92%A2%E6%9D%BF%E5%87%BB%E7%A9%BF%E6%8C%A1%E9%A3%8E%E7%8E%BB%E7%92%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夫妻办教培被罚跳楼？长沙辟谣](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%8A%9E%E6%95%99%E5%9F%B9%E8%A2%AB%E7%BD%9A%E8%B7%B3%E6%A5%BC%EF%BC%9F%E9%95%BF%E6%B2%99%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [被曝喝出蜘蛛 蜜雪冰城涉事门店停业](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9B%9D%E5%96%9D%E5%87%BA%E8%9C%98%E8%9B%9B+%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%B6%89%E4%BA%8B%E9%97%A8%E5%BA%97%E5%81%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上海地铁徐家汇站列车冒烟 官方回应](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%BE%90%E5%AE%B6%E6%B1%87%E7%AB%99%E5%88%97%E8%BD%A6%E5%86%92%E7%83%9F+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子20万装修发现房子不是自己的](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9020%E4%B8%87%E8%A3%85%E4%BF%AE%E5%8F%91%E7%8E%B0%E6%88%BF%E5%AD%90%E4%B8%8D%E6%98%AF%E8%87%AA%E5%B7%B1%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [2狗打架主人被狗绳绊致十级伤残](https://www.baidu.com/s?wd=2%E7%8B%97%E6%89%93%E6%9E%B6%E4%B8%BB%E4%BA%BA%E8%A2%AB%E7%8B%97%E7%BB%B3%E7%BB%8A%E8%87%B4%E5%8D%81%E7%BA%A7%E4%BC%A4%E6%AE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [车主回应高速上被钢板击穿挡风玻璃](https://www.baidu.com/s?wd=%E8%BD%A6%E4%B8%BB%E5%9B%9E%E5%BA%94%E9%AB%98%E9%80%9F%E4%B8%8A%E8%A2%AB%E9%92%A2%E6%9D%BF%E5%87%BB%E7%A9%BF%E6%8C%A1%E9%A3%8E%E7%8E%BB%E7%92%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夫妻办教培被罚跳楼？长沙辟谣](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%8A%9E%E6%95%99%E5%9F%B9%E8%A2%AB%E7%BD%9A%E8%B7%B3%E6%A5%BC%EF%BC%9F%E9%95%BF%E6%B2%99%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
