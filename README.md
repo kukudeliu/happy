@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 15:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 15:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [徐良淘汰](https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%AF%E6%B7%98%E6%B1%B0&t=31&band_rank=6&Refer=top)<br />
 7. [校方回应女老师与多名同事有不正当关系](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E8%80%81%E5%B8%88%E4%B8%8E%E5%A4%9A%E5%90%8D%E5%90%8C%E4%BA%8B%E6%9C%89%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子高铁座位被占换回后遭3人殴打](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E5%BA%A7%E4%BD%8D%E8%A2%AB%E5%8D%A0%E6%8D%A2%E5%9B%9E%E5%90%8E%E9%81%AD3%E4%BA%BA%E6%AE%B4%E6%89%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [云之羽第22集封神](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E7%AC%AC22%E9%9B%86%E5%B0%81%E7%A5%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [教资科二](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E7%A7%91%E4%BA%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
