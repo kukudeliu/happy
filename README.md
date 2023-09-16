@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 20:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 20:46:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [我们的亚运](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E4%BA%9A%E8%BF%90%23&t=31&band_rank=3&Refer=top)<br />
 4. [莲花楼直播](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%9B%B4%E6%92%AD&t=31&band_rank=4&Refer=top)<br />
 5. [4个小众免签国](https://s.weibo.com/weibo?q=4%E4%B8%AA%E5%B0%8F%E4%BC%97%E5%85%8D%E7%AD%BE%E5%9B%BD&t=31&band_rank=5&Refer=top)<br />
-6. [檀健次三年前教周深的舞还没学会](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E4%B8%89%E5%B9%B4%E5%89%8D%E6%95%99%E5%91%A8%E6%B7%B1%E7%9A%84%E8%88%9E%E8%BF%98%E6%B2%A1%E5%AD%A6%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
-7. [人民网评袁某某偷逃税是洗不白的](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E8%A2%81%E6%9F%90%E6%9F%90%E5%81%B7%E9%80%83%E7%A8%8E%E6%98%AF%E6%B4%97%E4%B8%8D%E7%99%BD%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
+6. [上海地铁回应1号线列车车顶产生烟雾](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%941%E5%8F%B7%E7%BA%BF%E5%88%97%E8%BD%A6%E8%BD%A6%E9%A1%B6%E4%BA%A7%E7%94%9F%E7%83%9F%E9%9B%BE%23&t=31&band_rank=6&Refer=top)<br />
+7. [檀健次三年前教周深的舞还没学会](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E4%B8%89%E5%B9%B4%E5%89%8D%E6%95%99%E5%91%A8%E6%B7%B1%E7%9A%84%E8%88%9E%E8%BF%98%E6%B2%A1%E5%AD%A6%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [BLACKPINK首尔安可](https://s.weibo.com/weibo?q=BLACKPINK%E9%A6%96%E5%B0%94%E5%AE%89%E5%8F%AF&t=31&band_rank=8&Refer=top)<br />
-9. [人民日报批明星偷逃税](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%89%B9%E6%98%8E%E6%98%9F%E5%81%B7%E9%80%83%E7%A8%8E%23&t=31&band_rank=9&Refer=top)<br />
+9. [人民网评袁某某偷逃税是洗不白的](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E8%A2%81%E6%9F%90%E6%9F%90%E5%81%B7%E9%80%83%E7%A8%8E%E6%98%AF%E6%B4%97%E4%B8%8D%E7%99%BD%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
