@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 12:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 12:50:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [当亚运会遇上中国风](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%81%87%E4%B8%8A%E4%B8%AD%E5%9B%BD%E9%A3%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [女子捏死隐翅虫手臂被腐蚀7天还没好](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8D%8F%E6%AD%BB%E9%9A%90%E7%BF%85%E8%99%AB%E6%89%8B%E8%87%82%E8%A2%AB%E8%85%90%E8%9A%807%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%A5%BD%23&t=31&band_rank=4&Refer=top)<br />
 5. [法考](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%83&t=31&band_rank=5&Refer=top)<br />
-6. [国内出现女性猴痘感染者](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%A5%B3%E6%80%A7%E7%8C%B4%E7%97%98%E6%84%9F%E6%9F%93%E8%80%85%23&t=31&band_rank=6&Refer=top)<br />
-7. [封神质子团综开始录制](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E8%B4%A8%E5%AD%90%E5%9B%A2%E7%BB%BC%E5%BC%80%E5%A7%8B%E5%BD%95%E5%88%B6%23&t=31&band_rank=7&Refer=top)<br />
+6. [封神质子团综开始录制](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E8%B4%A8%E5%AD%90%E5%9B%A2%E7%BB%BC%E5%BC%80%E5%A7%8B%E5%BD%95%E5%88%B6%23&t=31&band_rank=6&Refer=top)<br />
+7. [国内出现女性猴痘感染者](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%A5%B3%E6%80%A7%E7%8C%B4%E7%97%98%E6%84%9F%E6%9F%93%E8%80%85%23&t=31&band_rank=7&Refer=top)<br />
 8. [白色橄榄树开机](https://s.weibo.com/weibo?q=%E7%99%BD%E8%89%B2%E6%A9%84%E6%A6%84%E6%A0%91%E5%BC%80%E6%9C%BA&t=31&band_rank=8&Refer=top)<br />
 9. [广东惠州一学校76名教师开学前遭解聘](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%83%A0%E5%B7%9E%E4%B8%80%E5%AD%A6%E6%A0%A176%E5%90%8D%E6%95%99%E5%B8%88%E5%BC%80%E5%AD%A6%E5%89%8D%E9%81%AD%E8%A7%A3%E8%81%98%23&t=31&band_rank=9&Refer=top)<br />
 
