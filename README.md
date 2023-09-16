@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 13:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 13:25:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [曾舜晞雪重子原片](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%E9%9B%AA%E9%87%8D%E5%AD%90%E5%8E%9F%E7%89%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [梁洁宋冉好贴](https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%B4%81%E5%AE%8B%E5%86%89%E5%A5%BD%E8%B4%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [失聪50年父亲戴人工耳蜗听声音后哭了](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%AA50%E5%B9%B4%E7%88%B6%E4%BA%B2%E6%88%B4%E4%BA%BA%E5%B7%A5%E8%80%B3%E8%9C%97%E5%90%AC%E5%A3%B0%E9%9F%B3%E5%90%8E%E5%93%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [封神质子团综开始录制](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E8%B4%A8%E5%AD%90%E5%9B%A2%E7%BB%BC%E5%BC%80%E5%A7%8B%E5%BD%95%E5%88%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [法考](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%83&t=31&band_rank=9&Refer=top)<br />
+8. [法考](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%83&t=31&band_rank=8&Refer=top)<br />
+9. [封神质子团综开始录制](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E8%B4%A8%E5%AD%90%E5%9B%A2%E7%BB%BC%E5%BC%80%E5%A7%8B%E5%BD%95%E5%88%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
