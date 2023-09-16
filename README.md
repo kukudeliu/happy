@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 12:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 12:22:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [九名市（州）长进京检讨](https://www.baidu.com/s?wd=%E4%B9%9D%E5%90%8D%E5%B8%82%EF%BC%88%E5%B7%9E%EF%BC%89%E9%95%BF%E8%BF%9B%E4%BA%AC%E6%A3%80%E8%AE%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [智能服务助力亚运](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%8A%A9%E5%8A%9B%E4%BA%9A%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子在泰国遭绑架遇车祸跳车自救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B3%B0%E5%9B%BD%E9%81%AD%E7%BB%91%E6%9E%B6%E9%81%87%E8%BD%A6%E7%A5%B8%E8%B7%B3%E8%BD%A6%E8%87%AA%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [群众捡66斤“大宝贝”交给派出所](https://www.baidu.com/s?wd=%E7%BE%A4%E4%BC%97%E6%8D%A166%E6%96%A4%E2%80%9C%E5%A4%A7%E5%AE%9D%E8%B4%9D%E2%80%9D%E4%BA%A4%E7%BB%99%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [7岁男孩偷带啤酒去学校同学齐喝醉](https://www.baidu.com/s?wd=7%E5%B2%81%E7%94%B7%E5%AD%A9%E5%81%B7%E5%B8%A6%E5%95%A4%E9%85%92%E5%8E%BB%E5%AD%A6%E6%A0%A1%E5%90%8C%E5%AD%A6%E9%BD%90%E5%96%9D%E9%86%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子捏死隐翅虫手臂被腐蚀7天还没好](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8D%8F%E6%AD%BB%E9%9A%90%E7%BF%85%E8%99%AB%E6%89%8B%E8%87%82%E8%A2%AB%E8%85%90%E8%9A%807%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [7岁男孩偷带啤酒去学校同学齐喝醉](https://www.baidu.com/s?wd=7%E5%B2%81%E7%94%B7%E5%AD%A9%E5%81%B7%E5%B8%A6%E5%95%A4%E9%85%92%E5%8E%BB%E5%AD%A6%E6%A0%A1%E5%90%8C%E5%AD%A6%E9%BD%90%E5%96%9D%E9%86%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [群众捡66斤“大宝贝”交给派出所](https://www.baidu.com/s?wd=%E7%BE%A4%E4%BC%97%E6%8D%A166%E6%96%A4%E2%80%9C%E5%A4%A7%E5%AE%9D%E8%B4%9D%E2%80%9D%E4%BA%A4%E7%BB%99%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [徐直军：应该大规模使用国产芯片](https://www.baidu.com/s?wd=%E5%BE%90%E7%9B%B4%E5%86%9B%EF%BC%9A%E5%BA%94%E8%AF%A5%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BD%BF%E7%94%A8%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [证监会辟谣IPO、再融资关闸传闻](https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E8%BE%9F%E8%B0%A3IPO%E3%80%81%E5%86%8D%E8%9E%8D%E8%B5%84%E5%85%B3%E9%97%B8%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [九名市（州）长进京检讨](https://www.baidu.com/s?wd=%E4%B9%9D%E5%90%8D%E5%B8%82%EF%BC%88%E5%B7%9E%EF%BC%89%E9%95%BF%E8%BF%9B%E4%BA%AC%E6%A3%80%E8%AE%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [智能服务助力亚运](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%8A%A9%E5%8A%9B%E4%BA%9A%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子在泰国遭绑架遇车祸跳车自救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B3%B0%E5%9B%BD%E9%81%AD%E7%BB%91%E6%9E%B6%E9%81%87%E8%BD%A6%E7%A5%B8%E8%B7%B3%E8%BD%A6%E8%87%AA%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [群众捡66斤“大宝贝”交给派出所](https://www.baidu.com/s?wd=%E7%BE%A4%E4%BC%97%E6%8D%A166%E6%96%A4%E2%80%9C%E5%A4%A7%E5%AE%9D%E8%B4%9D%E2%80%9D%E4%BA%A4%E7%BB%99%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [7岁男孩偷带啤酒去学校同学齐喝醉](https://www.baidu.com/s?wd=7%E5%B2%81%E7%94%B7%E5%AD%A9%E5%81%B7%E5%B8%A6%E5%95%A4%E9%85%92%E5%8E%BB%E5%AD%A6%E6%A0%A1%E5%90%8C%E5%AD%A6%E9%BD%90%E5%96%9D%E9%86%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子捏死隐翅虫手臂被腐蚀7天还没好](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8D%8F%E6%AD%BB%E9%9A%90%E7%BF%85%E8%99%AB%E6%89%8B%E8%87%82%E8%A2%AB%E8%85%90%E8%9A%807%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [7岁男孩偷带啤酒去学校同学齐喝醉](https://www.baidu.com/s?wd=7%E5%B2%81%E7%94%B7%E5%AD%A9%E5%81%B7%E5%B8%A6%E5%95%A4%E9%85%92%E5%8E%BB%E5%AD%A6%E6%A0%A1%E5%90%8C%E5%AD%A6%E9%BD%90%E5%96%9D%E9%86%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [群众捡66斤“大宝贝”交给派出所](https://www.baidu.com/s?wd=%E7%BE%A4%E4%BC%97%E6%8D%A166%E6%96%A4%E2%80%9C%E5%A4%A7%E5%AE%9D%E8%B4%9D%E2%80%9D%E4%BA%A4%E7%BB%99%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [徐直军：应该大规模使用国产芯片](https://www.baidu.com/s?wd=%E5%BE%90%E7%9B%B4%E5%86%9B%EF%BC%9A%E5%BA%94%E8%AF%A5%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BD%BF%E7%94%A8%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [证监会辟谣IPO、再融资关闸传闻](https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E8%BE%9F%E8%B0%A3IPO%E3%80%81%E5%86%8D%E8%9E%8D%E8%B5%84%E5%85%B3%E9%97%B8%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
