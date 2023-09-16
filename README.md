@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 20:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 20:21:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [袁冰妍被约谈后仍整改不彻底](https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%86%B0%E5%A6%8D%E8%A2%AB%E7%BA%A6%E8%B0%88%E5%90%8E%E4%BB%8D%E6%95%B4%E6%94%B9%E4%B8%8D%E5%BD%BB%E5%BA%95%23&t=31&band_rank=2&Refer=top)<br />
 3. [我们的亚运](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E4%BA%9A%E8%BF%90%23&t=31&band_rank=3&Refer=top)<br />
 4. [莲花楼直播](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%9B%B4%E6%92%AD&t=31&band_rank=4&Refer=top)<br />
-5. [人民网评袁某某偷逃税是洗不白的](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E8%A2%81%E6%9F%90%E6%9F%90%E5%81%B7%E9%80%83%E7%A8%8E%E6%98%AF%E6%B4%97%E4%B8%8D%E7%99%BD%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
-6. [人民日报批明星偷逃税](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%89%B9%E6%98%8E%E6%98%9F%E5%81%B7%E9%80%83%E7%A8%8E%23&t=31&band_rank=6&Refer=top)<br />
-7. [BLACKPINK首尔安可](https://s.weibo.com/weibo?q=BLACKPINK%E9%A6%96%E5%B0%94%E5%AE%89%E5%8F%AF&t=31&band_rank=7&Refer=top)<br />
-8. [云之羽隐藏结局](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E9%9A%90%E8%97%8F%E7%BB%93%E5%B1%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [成毅曾舜晞肖顺尧彩排舞台](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%9B%BE%E8%88%9C%E6%99%9E%E8%82%96%E9%A1%BA%E5%B0%A7%E5%BD%A9%E6%8E%92%E8%88%9E%E5%8F%B0%23&t=31&band_rank=9&Refer=top)<br />
+5. [4个小众免签国](https://s.weibo.com/weibo?q=4%E4%B8%AA%E5%B0%8F%E4%BC%97%E5%85%8D%E7%AD%BE%E5%9B%BD&t=31&band_rank=5&Refer=top)<br />
+6. [人民网评袁某某偷逃税是洗不白的](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E8%A2%81%E6%9F%90%E6%9F%90%E5%81%B7%E9%80%83%E7%A8%8E%E6%98%AF%E6%B4%97%E4%B8%8D%E7%99%BD%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
+7. [人民日报批明星偷逃税](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%89%B9%E6%98%8E%E6%98%9F%E5%81%B7%E9%80%83%E7%A8%8E%23&t=31&band_rank=7&Refer=top)<br />
+8. [BLACKPINK首尔安可](https://s.weibo.com/weibo?q=BLACKPINK%E9%A6%96%E5%B0%94%E5%AE%89%E5%8F%AF&t=31&band_rank=8&Refer=top)<br />
+9. [云之羽隐藏结局](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E9%9A%90%E8%97%8F%E7%BB%93%E5%B1%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
