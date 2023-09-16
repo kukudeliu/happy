@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 17:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 17:36:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [法考](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%83&t=31&band_rank=4&Refer=top)<br />
 5. [35元2颗茅台巧克力贵不贵](https://s.weibo.com/weibo?q=%2335%E5%85%832%E9%A2%97%E8%8C%85%E5%8F%B0%E5%B7%A7%E5%85%8B%E5%8A%9B%E8%B4%B5%E4%B8%8D%E8%B4%B5%23&t=31&band_rank=5&Refer=top)<br />
 6. [乔任梁父母失独后重新生活](https://s.weibo.com/weibo?q=%23%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E6%AF%8D%E5%A4%B1%E7%8B%AC%E5%90%8E%E9%87%8D%E6%96%B0%E7%94%9F%E6%B4%BB%23&t=31&band_rank=6&Refer=top)<br />
-7. [虞书欣为云为衫跳了一支舞](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%BA%E4%BA%91%E4%B8%BA%E8%A1%AB%E8%B7%B3%E4%BA%86%E4%B8%80%E6%94%AF%E8%88%9E%23&t=31&band_rank=7&Refer=top)<br />
+7. [网络主播吴川偷逃税被罚](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%92%AD%E5%90%B4%E5%B7%9D%E5%81%B7%E9%80%83%E7%A8%8E%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [我的存款足够下半辈子不吃不喝](https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E5%AD%98%E6%AC%BE%E8%B6%B3%E5%A4%9F%E4%B8%8B%E5%8D%8A%E8%BE%88%E5%AD%90%E4%B8%8D%E5%90%83%E4%B8%8D%E5%96%9D&t=31&band_rank=8&Refer=top)<br />
-9. [网络主播吴川偷逃税被罚](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%92%AD%E5%90%B4%E5%B7%9D%E5%81%B7%E9%80%83%E7%A8%8E%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [虞书欣为云为衫跳了一支舞](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%BA%E4%BA%91%E4%B8%BA%E8%A1%AB%E8%B7%B3%E4%BA%86%E4%B8%80%E6%94%AF%E8%88%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
