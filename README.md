@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 21:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 21:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [断崖式的衰老是在几岁](https://s.weibo.com/weibo?q=%23%E6%96%AD%E5%B4%96%E5%BC%8F%E7%9A%84%E8%A1%B0%E8%80%81%E6%98%AF%E5%9C%A8%E5%87%A0%E5%B2%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈都灵舞台](https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%E8%88%9E%E5%8F%B0&t=31&band_rank=7&Refer=top)<br />
 8. [上海地铁回应1号线列车车顶产生烟雾](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%941%E5%8F%B7%E7%BA%BF%E5%88%97%E8%BD%A6%E8%BD%A6%E9%A1%B6%E4%BA%A7%E7%94%9F%E7%83%9F%E9%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [成毅刀剑如梦](https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E5%88%80%E5%89%91%E5%A6%82%E6%A2%A6&t=31&band_rank=9&Refer=top)<br />
+9. [尝试戒掉咖啡的韩国人](https://s.weibo.com/weibo?q=%23%E5%B0%9D%E8%AF%95%E6%88%92%E6%8E%89%E5%92%96%E5%95%A1%E7%9A%84%E9%9F%A9%E5%9B%BD%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
