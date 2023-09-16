@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 19:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 19:37:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [袁冰妍被约谈后仍整改不彻底](https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%86%B0%E5%A6%8D%E8%A2%AB%E7%BA%A6%E8%B0%88%E5%90%8E%E4%BB%8D%E6%95%B4%E6%94%B9%E4%B8%8D%E5%BD%BB%E5%BA%95%23&t=31&band_rank=4&Refer=top)<br />
 5. [酒店人员邀请环卫工们进屋避雨](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E4%BA%BA%E5%91%98%E9%82%80%E8%AF%B7%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BB%AC%E8%BF%9B%E5%B1%8B%E9%81%BF%E9%9B%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [BLACKPINK首尔安可](https://s.weibo.com/weibo?q=BLACKPINK%E9%A6%96%E5%B0%94%E5%AE%89%E5%8F%AF&t=31&band_rank=6&Refer=top)<br />
-7. [的哥4分钟连闯6红灯送乘客就医](https://s.weibo.com/weibo?q=%23%E7%9A%84%E5%93%A54%E5%88%86%E9%92%9F%E8%BF%9E%E9%97%AF6%E7%BA%A2%E7%81%AF%E9%80%81%E4%B9%98%E5%AE%A2%E5%B0%B1%E5%8C%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [云之羽隐藏结局](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E9%9A%90%E8%97%8F%E7%BB%93%E5%B1%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [人民网评袁某某偷逃税是洗不白的](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E8%A2%81%E6%9F%90%E6%9F%90%E5%81%B7%E9%80%83%E7%A8%8E%E6%98%AF%E6%B4%97%E4%B8%8D%E7%99%BD%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+7. [云之羽隐藏结局](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E9%9A%90%E8%97%8F%E7%BB%93%E5%B1%80%23&t=31&band_rank=7&Refer=top)<br />
+8. [人民网评袁某某偷逃税是洗不白的](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E8%A2%81%E6%9F%90%E6%9F%90%E5%81%B7%E9%80%83%E7%A8%8E%E6%98%AF%E6%B4%97%E4%B8%8D%E7%99%BD%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
+9. [餐厅称被烧伤女子为拍视频要求多加酒精](https://s.weibo.com/weibo?q=%23%E9%A4%90%E5%8E%85%E7%A7%B0%E8%A2%AB%E7%83%A7%E4%BC%A4%E5%A5%B3%E5%AD%90%E4%B8%BA%E6%8B%8D%E8%A7%86%E9%A2%91%E8%A6%81%E6%B1%82%E5%A4%9A%E5%8A%A0%E9%85%92%E7%B2%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
