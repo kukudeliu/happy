@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 15:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 15:44:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [当亚运会遇上中国风](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%81%87%E4%B8%8A%E4%B8%AD%E5%9B%BD%E9%A3%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [丑衣服都卖给了年轻时的我](https://s.weibo.com/weibo?q=%E4%B8%91%E8%A1%A3%E6%9C%8D%E9%83%BD%E5%8D%96%E7%BB%99%E4%BA%86%E5%B9%B4%E8%BD%BB%E6%97%B6%E7%9A%84%E6%88%91&t=31&band_rank=4&Refer=top)<br />
 5. [教资科二](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E7%A7%91%E4%BA%8C&t=31&band_rank=5&Refer=top)<br />
-6. [校方回应女老师与多名同事有不正当关系](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E8%80%81%E5%B8%88%E4%B8%8E%E5%A4%9A%E5%90%8D%E5%90%8C%E4%BA%8B%E6%9C%89%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB%23&t=31&band_rank=6&Refer=top)<br />
-7. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=7&Refer=top)<br />
-8. [徐良淘汰](https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%AF%E6%B7%98%E6%B1%B0&t=31&band_rank=8&Refer=top)<br />
-9. [女子高铁座位被占换回后遭3人殴打](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E5%BA%A7%E4%BD%8D%E8%A2%AB%E5%8D%A0%E6%8D%A2%E5%9B%9E%E5%90%8E%E9%81%AD3%E4%BA%BA%E6%AE%B4%E6%89%93%23&t=31&band_rank=9&Refer=top)<br />
+6. [生理期去高原一滴都无](https://s.weibo.com/weibo?q=%23%E7%94%9F%E7%90%86%E6%9C%9F%E5%8E%BB%E9%AB%98%E5%8E%9F%E4%B8%80%E6%BB%B4%E9%83%BD%E6%97%A0%23&t=31&band_rank=6&Refer=top)<br />
+7. [校方回应女老师与多名同事有不正当关系](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E8%80%81%E5%B8%88%E4%B8%8E%E5%A4%9A%E5%90%8D%E5%90%8C%E4%BA%8B%E6%9C%89%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB%23&t=31&band_rank=7&Refer=top)<br />
+8. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=8&Refer=top)<br />
+9. [徐良淘汰](https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%AF%E6%B7%98%E6%B1%B0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [女子在泰国遭绑架遇车祸跳车自救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B3%B0%E5%9B%BD%E9%81%AD%E7%BB%91%E6%9E%B6%E9%81%87%E8%BD%A6%E7%A5%B8%E8%B7%B3%E8%BD%A6%E8%87%AA%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [群众捡66斤“大宝贝”交给派出所](https://www.baidu.com/s?wd=%E7%BE%A4%E4%BC%97%E6%8D%A166%E6%96%A4%E2%80%9C%E5%A4%A7%E5%AE%9D%E8%B4%9D%E2%80%9D%E4%BA%A4%E7%BB%99%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王耀庆因徐良淘汰哭了](https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%80%E5%BA%86%E5%9B%A0%E5%BE%90%E8%89%AF%E6%B7%98%E6%B1%B0%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子捏死隐翅虫手臂被腐蚀7天还没好](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8D%8F%E6%AD%BB%E9%9A%90%E7%BF%85%E8%99%AB%E6%89%8B%E8%87%82%E8%A2%AB%E8%85%90%E8%9A%807%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [福建闽江源首次发现黑熊](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E9%97%BD%E6%B1%9F%E6%BA%90%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B0%E9%BB%91%E7%86%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夫妻办教培被罚跳楼？长沙辟谣](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%8A%9E%E6%95%99%E5%9F%B9%E8%A2%AB%E7%BD%9A%E8%B7%B3%E6%A5%BC%EF%BC%9F%E9%95%BF%E6%B2%99%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女子在泰国遭绑架遇车祸跳车自救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B3%B0%E5%9B%BD%E9%81%AD%E7%BB%91%E6%9E%B6%E9%81%87%E8%BD%A6%E7%A5%B8%E8%B7%B3%E8%BD%A6%E8%87%AA%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [群众捡66斤“大宝贝”交给派出所](https://www.baidu.com/s?wd=%E7%BE%A4%E4%BC%97%E6%8D%A166%E6%96%A4%E2%80%9C%E5%A4%A7%E5%AE%9D%E8%B4%9D%E2%80%9D%E4%BA%A4%E7%BB%99%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王耀庆因徐良淘汰哭了](https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%80%E5%BA%86%E5%9B%A0%E5%BE%90%E8%89%AF%E6%B7%98%E6%B1%B0%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子捏死隐翅虫手臂被腐蚀7天还没好](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8D%8F%E6%AD%BB%E9%9A%90%E7%BF%85%E8%99%AB%E6%89%8B%E8%87%82%E8%A2%AB%E8%85%90%E8%9A%807%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [福建闽江源首次发现黑熊](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E9%97%BD%E6%B1%9F%E6%BA%90%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B0%E9%BB%91%E7%86%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夫妻办教培被罚跳楼？长沙辟谣](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%8A%9E%E6%95%99%E5%9F%B9%E8%A2%AB%E7%BD%9A%E8%B7%B3%E6%A5%BC%EF%BC%9F%E9%95%BF%E6%B2%99%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
