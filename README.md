@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 08:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 08:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [广东一学校76名教师开学前遭解聘](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A176%E5%90%8D%E6%95%99%E5%B8%88%E5%BC%80%E5%AD%A6%E5%89%8D%E9%81%AD%E8%A7%A3%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [iPhone 12辐射超标？多国跟进调查](https://www.baidu.com/s?wd=iPhone+12%E8%BE%90%E5%B0%84%E8%B6%85%E6%A0%87%EF%BC%9F%E5%A4%9A%E5%9B%BD%E8%B7%9F%E8%BF%9B%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [云之羽大结局被骂稀巴烂](https://www.baidu.com/s?wd=%E4%BA%91%E4%B9%8B%E7%BE%BD%E5%A4%A7%E7%BB%93%E5%B1%80%E8%A2%AB%E9%AA%82%E7%A8%80%E5%B7%B4%E7%83%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [巴西男子练习射击意外将自己击毙](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E7%94%B7%E5%AD%90%E7%BB%83%E4%B9%A0%E5%B0%84%E5%87%BB%E6%84%8F%E5%A4%96%E5%B0%86%E8%87%AA%E5%B7%B1%E5%87%BB%E6%AF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [提醒！中国公民不得前往这些地方](https://www.baidu.com/s?wd=%E6%8F%90%E9%86%92%EF%BC%81%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E4%B8%8D%E5%BE%97%E5%89%8D%E5%BE%80%E8%BF%99%E4%BA%9B%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [证监会辟谣IPO、再融资关闸传闻](https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E8%BE%9F%E8%B0%A3IPO%E3%80%81%E5%86%8D%E8%9E%8D%E8%B5%84%E5%85%B3%E9%97%B8%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [广东一学校76名教师开学前遭解聘](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A176%E5%90%8D%E6%95%99%E5%B8%88%E5%BC%80%E5%AD%A6%E5%89%8D%E9%81%AD%E8%A7%A3%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [iPhone 12辐射超标？多国跟进调查](https://www.baidu.com/s?wd=iPhone+12%E8%BE%90%E5%B0%84%E8%B6%85%E6%A0%87%EF%BC%9F%E5%A4%9A%E5%9B%BD%E8%B7%9F%E8%BF%9B%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [云之羽大结局被骂稀巴烂](https://www.baidu.com/s?wd=%E4%BA%91%E4%B9%8B%E7%BE%BD%E5%A4%A7%E7%BB%93%E5%B1%80%E8%A2%AB%E9%AA%82%E7%A8%80%E5%B7%B4%E7%83%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [巴西男子练习射击意外将自己击毙](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E7%94%B7%E5%AD%90%E7%BB%83%E4%B9%A0%E5%B0%84%E5%87%BB%E6%84%8F%E5%A4%96%E5%B0%86%E8%87%AA%E5%B7%B1%E5%87%BB%E6%AF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [提醒！中国公民不得前往这些地方](https://www.baidu.com/s?wd=%E6%8F%90%E9%86%92%EF%BC%81%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E4%B8%8D%E5%BE%97%E5%89%8D%E5%BE%80%E8%BF%99%E4%BA%9B%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [证监会辟谣IPO、再融资关闸传闻](https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E8%BE%9F%E8%B0%A3IPO%E3%80%81%E5%86%8D%E8%9E%8D%E8%B5%84%E5%85%B3%E9%97%B8%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
