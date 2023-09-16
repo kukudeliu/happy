@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 04:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 04:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白猫直播间的主播是一只白猫](https://s.weibo.com/weibo?q=%E7%99%BD%E7%8C%AB%E7%9B%B4%E6%92%AD%E9%97%B4%E7%9A%84%E4%B8%BB%E6%92%AD%E6%98%AF%E4%B8%80%E5%8F%AA%E7%99%BD%E7%8C%AB&t=31&band_rank=6&Refer=top)<br />
 7. [才知道蜜雪冰城曾经是个餐馆](https://s.weibo.com/weibo?q=%23%E6%89%8D%E7%9F%A5%E9%81%93%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%9B%BE%E7%BB%8F%E6%98%AF%E4%B8%AA%E9%A4%90%E9%A6%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [曾舜晞queencard 方多病拦出租车](https://s.weibo.com/weibo?q=%E6%9B%BE%E8%88%9C%E6%99%9Equeencard%20%E6%96%B9%E5%A4%9A%E7%97%85%E6%8B%A6%E5%87%BA%E7%A7%9F%E8%BD%A6&t=31&band_rank=8&Refer=top)<br />
-9. [金博洋分数](https://s.weibo.com/weibo?q=%E9%87%91%E5%8D%9A%E6%B4%8B%E5%88%86%E6%95%B0&t=31&band_rank=9&Refer=top)<br />
+9. [12306车票候补的正确方法](https://s.weibo.com/weibo?q=%2312306%E8%BD%A6%E7%A5%A8%E5%80%99%E8%A1%A5%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%96%B9%E6%B3%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
