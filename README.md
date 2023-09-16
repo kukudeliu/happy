@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 20:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 20:38:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [夯实提升中国－东盟开放平台](https://www.baidu.com/s?wd=%E5%A4%AF%E5%AE%9E%E6%8F%90%E5%8D%87%E4%B8%AD%E5%9B%BD%EF%BC%8D%E4%B8%9C%E7%9B%9F%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海地铁徐家汇站着火？官方回应](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%BE%90%E5%AE%B6%E6%B1%87%E7%AB%99%E7%9D%80%E7%81%AB%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [9年级化学课本出现高“猛”酸钾](https://www.baidu.com/s?wd=9%E5%B9%B4%E7%BA%A7%E5%8C%96%E5%AD%A6%E8%AF%BE%E6%9C%AC%E5%87%BA%E7%8E%B0%E9%AB%98%E2%80%9C%E7%8C%9B%E2%80%9D%E9%85%B8%E9%92%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国制裁两美企 有个地方不同寻常](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%88%B6%E8%A3%81%E4%B8%A4%E7%BE%8E%E4%BC%81+%E6%9C%89%E4%B8%AA%E5%9C%B0%E6%96%B9%E4%B8%8D%E5%90%8C%E5%AF%BB%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [知情人称青岛母子坠楼疑因夫妻吵架](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E9%9D%92%E5%B2%9B%E6%AF%8D%E5%AD%90%E5%9D%A0%E6%A5%BC%E7%96%91%E5%9B%A0%E5%A4%AB%E5%A6%BB%E5%90%B5%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [知情人称青岛母子坠楼疑因夫妻吵架](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E9%9D%92%E5%B2%9B%E6%AF%8D%E5%AD%90%E5%9D%A0%E6%A5%BC%E7%96%91%E5%9B%A0%E5%A4%AB%E5%A6%BB%E5%90%B5%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生称因爱抠鼻子致鼻内长多团真菌](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%9B%A0%E7%88%B1%E6%8A%A0%E9%BC%BB%E5%AD%90%E8%87%B4%E9%BC%BB%E5%86%85%E9%95%BF%E5%A4%9A%E5%9B%A2%E7%9C%9F%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夫妻办教培被罚跳楼？长沙辟谣](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%8A%9E%E6%95%99%E5%9F%B9%E8%A2%AB%E7%BD%9A%E8%B7%B3%E6%A5%BC%EF%BC%9F%E9%95%BF%E6%B2%99%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [夯实提升中国－东盟开放平台](https://www.baidu.com/s?wd=%E5%A4%AF%E5%AE%9E%E6%8F%90%E5%8D%87%E4%B8%AD%E5%9B%BD%EF%BC%8D%E4%B8%9C%E7%9B%9F%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海地铁徐家汇站着火？官方回应](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%BE%90%E5%AE%B6%E6%B1%87%E7%AB%99%E7%9D%80%E7%81%AB%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [9年级化学课本出现高“猛”酸钾](https://www.baidu.com/s?wd=9%E5%B9%B4%E7%BA%A7%E5%8C%96%E5%AD%A6%E8%AF%BE%E6%9C%AC%E5%87%BA%E7%8E%B0%E9%AB%98%E2%80%9C%E7%8C%9B%E2%80%9D%E9%85%B8%E9%92%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国制裁两美企 有个地方不同寻常](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%88%B6%E8%A3%81%E4%B8%A4%E7%BE%8E%E4%BC%81+%E6%9C%89%E4%B8%AA%E5%9C%B0%E6%96%B9%E4%B8%8D%E5%90%8C%E5%AF%BB%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [知情人称青岛母子坠楼疑因夫妻吵架](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E9%9D%92%E5%B2%9B%E6%AF%8D%E5%AD%90%E5%9D%A0%E6%A5%BC%E7%96%91%E5%9B%A0%E5%A4%AB%E5%A6%BB%E5%90%B5%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [知情人称青岛母子坠楼疑因夫妻吵架](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E9%9D%92%E5%B2%9B%E6%AF%8D%E5%AD%90%E5%9D%A0%E6%A5%BC%E7%96%91%E5%9B%A0%E5%A4%AB%E5%A6%BB%E5%90%B5%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生称因爱抠鼻子致鼻内长多团真菌](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%9B%A0%E7%88%B1%E6%8A%A0%E9%BC%BB%E5%AD%90%E8%87%B4%E9%BC%BB%E5%86%85%E9%95%BF%E5%A4%9A%E5%9B%A2%E7%9C%9F%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夫妻办教培被罚跳楼？长沙辟谣](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%8A%9E%E6%95%99%E5%9F%B9%E8%A2%AB%E7%BD%9A%E8%B7%B3%E6%A5%BC%EF%BC%9F%E9%95%BF%E6%B2%99%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
