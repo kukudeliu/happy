@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 15:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 15:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [教资科二](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E7%A7%91%E4%BA%8C&t=31&band_rank=6&Refer=top)<br />
 7. [校方回应女老师与多名同事有不正当关系](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E8%80%81%E5%B8%88%E4%B8%8E%E5%A4%9A%E5%90%8D%E5%90%8C%E4%BA%8B%E6%9C%89%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=8&Refer=top)<br />
-9. [徐良淘汰](https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%AF%E6%B7%98%E6%B1%B0&t=31&band_rank=9&Refer=top)<br />
+9. [王耀庆因徐良淘汰哭了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%80%E5%BA%86%E5%9B%A0%E5%BE%90%E8%89%AF%E6%B7%98%E6%B1%B0%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
