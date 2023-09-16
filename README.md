@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 03:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 03:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [才知道蜜雪冰城曾经是个餐馆](https://s.weibo.com/weibo?q=%23%E6%89%8D%E7%9F%A5%E9%81%93%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%9B%BE%E7%BB%8F%E6%98%AF%E4%B8%AA%E9%A4%90%E9%A6%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [江苏9年级化学课本出现高猛酸钾](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F9%E5%B9%B4%E7%BA%A7%E5%8C%96%E5%AD%A6%E8%AF%BE%E6%9C%AC%E5%87%BA%E7%8E%B0%E9%AB%98%E7%8C%9B%E9%85%B8%E9%92%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [白猫直播间的主播是一只白猫](https://s.weibo.com/weibo?q=%E7%99%BD%E7%8C%AB%E7%9B%B4%E6%92%AD%E9%97%B4%E7%9A%84%E4%B8%BB%E6%92%AD%E6%98%AF%E4%B8%80%E5%8F%AA%E7%99%BD%E7%8C%AB&t=31&band_rank=8&Refer=top)<br />
-9. [考研女生未吃早饭晕倒众人扶起送零食](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%A5%B3%E7%94%9F%E6%9C%AA%E5%90%83%E6%97%A9%E9%A5%AD%E6%99%95%E5%80%92%E4%BC%97%E4%BA%BA%E6%89%B6%E8%B5%B7%E9%80%81%E9%9B%B6%E9%A3%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [曾舜晞queencard 方多病拦出租车](https://s.weibo.com/weibo?q=%E6%9B%BE%E8%88%9C%E6%99%9Equeencard%20%E6%96%B9%E5%A4%9A%E7%97%85%E6%8B%A6%E5%87%BA%E7%A7%9F%E8%BD%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
