@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 17:56:02</h4></div>
 
 > 微博  
 
 1. [官方通报袁冰妍偷逃税事件](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%A2%81%E5%86%B0%E5%A6%8D%E5%81%B7%E9%80%83%E7%A8%8E%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top)<br />
 2. [蜜雪冰城被曝喝出蜘蛛](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A2%AB%E6%9B%9D%E5%96%9D%E5%87%BA%E8%9C%98%E8%9B%9B%23&t=31&band_rank=2&Refer=top)<br />
 3. [我们的亚运](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E4%BA%9A%E8%BF%90%23&t=31&band_rank=3&Refer=top)<br />
-4. [35元2颗茅台巧克力贵不贵](https://s.weibo.com/weibo?q=%2335%E5%85%832%E9%A2%97%E8%8C%85%E5%8F%B0%E5%B7%A7%E5%85%8B%E5%8A%9B%E8%B4%B5%E4%B8%8D%E8%B4%B5%23&t=31&band_rank=4&Refer=top)<br />
-5. [餐厅称被烧伤女子为拍视频要求多加酒精](https://s.weibo.com/weibo?q=%23%E9%A4%90%E5%8E%85%E7%A7%B0%E8%A2%AB%E7%83%A7%E4%BC%A4%E5%A5%B3%E5%AD%90%E4%B8%BA%E6%8B%8D%E8%A7%86%E9%A2%91%E8%A6%81%E6%B1%82%E5%A4%9A%E5%8A%A0%E9%85%92%E7%B2%BE%23&t=31&band_rank=5&Refer=top)<br />
-6. [人民日报批明星偷逃税](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%89%B9%E6%98%8E%E6%98%9F%E5%81%B7%E9%80%83%E7%A8%8E%23&t=31&band_rank=6&Refer=top)<br />
-7. [法考](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%83&t=31&band_rank=7&Refer=top)<br />
-8. [乔任梁父母失独后重新生活](https://s.weibo.com/weibo?q=%23%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E6%AF%8D%E5%A4%B1%E7%8B%AC%E5%90%8E%E9%87%8D%E6%96%B0%E7%94%9F%E6%B4%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [林孝埈男子500米夺冠](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E7%94%B7%E5%AD%90500%E7%B1%B3%E5%A4%BA%E5%86%A0%23&t=31&band_rank=9&Refer=top)<br />
+4. [餐厅称被烧伤女子为拍视频要求多加酒精](https://s.weibo.com/weibo?q=%23%E9%A4%90%E5%8E%85%E7%A7%B0%E8%A2%AB%E7%83%A7%E4%BC%A4%E5%A5%B3%E5%AD%90%E4%B8%BA%E6%8B%8D%E8%A7%86%E9%A2%91%E8%A6%81%E6%B1%82%E5%A4%9A%E5%8A%A0%E9%85%92%E7%B2%BE%23&t=31&band_rank=4&Refer=top)<br />
+5. [35元2颗茅台巧克力贵不贵](https://s.weibo.com/weibo?q=%2335%E5%85%832%E9%A2%97%E8%8C%85%E5%8F%B0%E5%B7%A7%E5%85%8B%E5%8A%9B%E8%B4%B5%E4%B8%8D%E8%B4%B5%23&t=31&band_rank=5&Refer=top)<br />
+6. [女童被卡车底路人拿千斤顶救出](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%8D%A1%E8%BD%A6%E5%BA%95%E8%B7%AF%E4%BA%BA%E6%8B%BF%E5%8D%83%E6%96%A4%E9%A1%B6%E6%95%91%E5%87%BA%23&t=31&band_rank=6&Refer=top)<br />
+7. [当郑州交警遇上小迷糊考生](https://s.weibo.com/weibo?q=%23%E5%BD%93%E9%83%91%E5%B7%9E%E4%BA%A4%E8%AD%A6%E9%81%87%E4%B8%8A%E5%B0%8F%E8%BF%B7%E7%B3%8A%E8%80%83%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
+8. [人民日报批明星偷逃税](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%89%B9%E6%98%8E%E6%98%9F%E5%81%B7%E9%80%83%E7%A8%8E%23&t=31&band_rank=8&Refer=top)<br />
+9. [路边捡到10万块他毫不犹豫打了110](https://s.weibo.com/weibo?q=%23%E8%B7%AF%E8%BE%B9%E6%8D%A1%E5%88%B010%E4%B8%87%E5%9D%97%E4%BB%96%E6%AF%AB%E4%B8%8D%E7%8A%B9%E8%B1%AB%E6%89%93%E4%BA%86110%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
