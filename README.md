@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 08:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 08:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吴昕说恋爱没百分百确定别骚扰家长](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E8%AF%B4%E6%81%8B%E7%88%B1%E6%B2%A1%E7%99%BE%E5%88%86%E7%99%BE%E7%A1%AE%E5%AE%9A%E5%88%AB%E9%AA%9A%E6%89%B0%E5%AE%B6%E9%95%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [曾舜晞 心如止水](https://s.weibo.com/weibo?q=%E6%9B%BE%E8%88%9C%E6%99%9E%20%E5%BF%83%E5%A6%82%E6%AD%A2%E6%B0%B4&t=31&band_rank=7&Refer=top)<br />
 8. [警方通报一女子小区内被伤害身亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E5%A5%B3%E5%AD%90%E5%B0%8F%E5%8C%BA%E5%86%85%E8%A2%AB%E4%BC%A4%E5%AE%B3%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [蜂花老总的头发用事实证明](https://s.weibo.com/weibo?q=%23%E8%9C%82%E8%8A%B1%E8%80%81%E6%80%BB%E7%9A%84%E5%A4%B4%E5%8F%91%E7%94%A8%E4%BA%8B%E5%AE%9E%E8%AF%81%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
+9. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
