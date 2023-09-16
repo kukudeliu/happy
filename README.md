@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 10:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 10:33:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [女子捏死隐翅虫手臂被腐蚀7天还没好](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8D%8F%E6%AD%BB%E9%9A%90%E7%BF%85%E8%99%AB%E6%89%8B%E8%87%82%E8%A2%AB%E8%85%90%E8%9A%807%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%A5%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [1元秒杀788元套餐到店被赶走](https://s.weibo.com/weibo?q=%231%E5%85%83%E7%A7%92%E6%9D%80788%E5%85%83%E5%A5%97%E9%A4%90%E5%88%B0%E5%BA%97%E8%A2%AB%E8%B5%B6%E8%B5%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [云之羽 稀巴烂](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%20%E7%A8%80%E5%B7%B4%E7%83%82&t=31&band_rank=7&Refer=top)<br />
-8. [法考凭什么被称为天下第一考](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%83%E5%87%AD%E4%BB%80%E4%B9%88%E8%A2%AB%E7%A7%B0%E4%B8%BA%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E8%80%83&t=31&band_rank=8&Refer=top)<br />
+8. [国内出现女性猴痘感染者](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%A5%B3%E6%80%A7%E7%8C%B4%E7%97%98%E6%84%9F%E6%9F%93%E8%80%85%23&t=31&band_rank=8&Refer=top)<br />
 9. [曾舜晞 心如止水](https://s.weibo.com/weibo?q=%E6%9B%BE%E8%88%9C%E6%99%9E%20%E5%BF%83%E5%A6%82%E6%AD%A2%E6%B0%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
