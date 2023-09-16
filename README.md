@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 20:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 20:44:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [夯实提升中国－东盟开放平台](https://www.baidu.com/s?wd=%E5%A4%AF%E5%AE%9E%E6%8F%90%E5%8D%87%E4%B8%AD%E5%9B%BD%EF%BC%8D%E4%B8%9C%E7%9B%9F%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海地铁徐家汇站着火？官方回应](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%BE%90%E5%AE%B6%E6%B1%87%E7%AB%99%E7%9D%80%E7%81%AB%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子餐厅吃饭竟“引火烧身”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%A4%90%E5%8E%85%E5%90%83%E9%A5%AD%E7%AB%9F%E2%80%9C%E5%BC%95%E7%81%AB%E7%83%A7%E8%BA%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [陈乔恩晒照悼念乔任梁](https://www.baidu.com/s?wd=%E9%99%88%E4%B9%94%E6%81%A9%E6%99%92%E7%85%A7%E6%82%BC%E5%BF%B5%E4%B9%94%E4%BB%BB%E6%A2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [9年级化学课本出现高“猛”酸钾](https://www.baidu.com/s?wd=9%E5%B9%B4%E7%BA%A7%E5%8C%96%E5%AD%A6%E8%AF%BE%E6%9C%AC%E5%87%BA%E7%8E%B0%E9%AB%98%E2%80%9C%E7%8C%9B%E2%80%9D%E9%85%B8%E9%92%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [徐直军：应该大规模使用国产芯片](https://www.baidu.com/s?wd=%E5%BE%90%E7%9B%B4%E5%86%9B%EF%BC%9A%E5%BA%94%E8%AF%A5%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BD%BF%E7%94%A8%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [福建闽江源首次发现黑熊](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E9%97%BD%E6%B1%9F%E6%BA%90%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B0%E9%BB%91%E7%86%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夫妻办教培被罚跳楼？长沙辟谣](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%8A%9E%E6%95%99%E5%9F%B9%E8%A2%AB%E7%BD%9A%E8%B7%B3%E6%A5%BC%EF%BC%9F%E9%95%BF%E6%B2%99%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [夯实提升中国－东盟开放平台](https://www.baidu.com/s?wd=%E5%A4%AF%E5%AE%9E%E6%8F%90%E5%8D%87%E4%B8%AD%E5%9B%BD%EF%BC%8D%E4%B8%9C%E7%9B%9F%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海地铁徐家汇站着火？官方回应](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%BE%90%E5%AE%B6%E6%B1%87%E7%AB%99%E7%9D%80%E7%81%AB%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子餐厅吃饭竟“引火烧身”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%A4%90%E5%8E%85%E5%90%83%E9%A5%AD%E7%AB%9F%E2%80%9C%E5%BC%95%E7%81%AB%E7%83%A7%E8%BA%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [陈乔恩晒照悼念乔任梁](https://www.baidu.com/s?wd=%E9%99%88%E4%B9%94%E6%81%A9%E6%99%92%E7%85%A7%E6%82%BC%E5%BF%B5%E4%B9%94%E4%BB%BB%E6%A2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [9年级化学课本出现高“猛”酸钾](https://www.baidu.com/s?wd=9%E5%B9%B4%E7%BA%A7%E5%8C%96%E5%AD%A6%E8%AF%BE%E6%9C%AC%E5%87%BA%E7%8E%B0%E9%AB%98%E2%80%9C%E7%8C%9B%E2%80%9D%E9%85%B8%E9%92%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [徐直军：应该大规模使用国产芯片](https://www.baidu.com/s?wd=%E5%BE%90%E7%9B%B4%E5%86%9B%EF%BC%9A%E5%BA%94%E8%AF%A5%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BD%BF%E7%94%A8%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [福建闽江源首次发现黑熊](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E9%97%BD%E6%B1%9F%E6%BA%90%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B0%E9%BB%91%E7%86%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夫妻办教培被罚跳楼？长沙辟谣](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%8A%9E%E6%95%99%E5%9F%B9%E8%A2%AB%E7%BD%9A%E8%B7%B3%E6%A5%BC%EF%BC%9F%E9%95%BF%E6%B2%99%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
