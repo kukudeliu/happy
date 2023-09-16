@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 11:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 11:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白色橄榄树开机](https://s.weibo.com/weibo?q=%E7%99%BD%E8%89%B2%E6%A9%84%E6%A6%84%E6%A0%91%E5%BC%80%E6%9C%BA&t=31&band_rank=6&Refer=top)<br />
 7. [曾舜晞 心如止水](https://s.weibo.com/weibo?q=%E6%9B%BE%E8%88%9C%E6%99%9E%20%E5%BF%83%E5%A6%82%E6%AD%A2%E6%B0%B4&t=31&band_rank=7&Refer=top)<br />
 8. [空腹看吃播容易得胃炎](https://s.weibo.com/weibo?q=%E7%A9%BA%E8%85%B9%E7%9C%8B%E5%90%83%E6%92%AD%E5%AE%B9%E6%98%93%E5%BE%97%E8%83%83%E7%82%8E&t=31&band_rank=8&Refer=top)<br />
-9. [1元秒杀788元套餐到店被赶走](https://s.weibo.com/weibo?q=%231%E5%85%83%E7%A7%92%E6%9D%80788%E5%85%83%E5%A5%97%E9%A4%90%E5%88%B0%E5%BA%97%E8%A2%AB%E8%B5%B6%E8%B5%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [教资答案](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E7%AD%94%E6%A1%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
