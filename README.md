@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 18:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 18:59:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [被曝喝出蜘蛛 蜜雪冰城涉事门店停业](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9B%9D%E5%96%9D%E5%87%BA%E8%9C%98%E8%9B%9B+%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%B6%89%E4%BA%8B%E9%97%A8%E5%BA%97%E5%81%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [夯实提升中国－东盟开放平台](https://www.baidu.com/s?wd=%E5%A4%AF%E5%AE%9E%E6%8F%90%E5%8D%87%E4%B8%AD%E5%9B%BD%EF%BC%8D%E4%B8%9C%E7%9B%9F%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网友建议餐厅标明菜品是否为预制菜](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%BB%BA%E8%AE%AE%E9%A4%90%E5%8E%85%E6%A0%87%E6%98%8E%E8%8F%9C%E5%93%81%E6%98%AF%E5%90%A6%E4%B8%BA%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [9年级化学课本出现高“猛”酸钾](https://www.baidu.com/s?wd=9%E5%B9%B4%E7%BA%A7%E5%8C%96%E5%AD%A6%E8%AF%BE%E6%9C%AC%E5%87%BA%E7%8E%B0%E9%AB%98%E2%80%9C%E7%8C%9B%E2%80%9D%E9%85%B8%E9%92%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [德芙茅台联名巧克力上架后秒没](https://www.baidu.com/s?wd=%E5%BE%B7%E8%8A%99%E8%8C%85%E5%8F%B0%E8%81%94%E5%90%8D%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8A%E6%9E%B6%E5%90%8E%E7%A7%92%E6%B2%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [军训顺拐同学们组成了方队](https://www.baidu.com/s?wd=%E5%86%9B%E8%AE%AD%E9%A1%BA%E6%8B%90%E5%90%8C%E5%AD%A6%E4%BB%AC%E7%BB%84%E6%88%90%E4%BA%86%E6%96%B9%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [云南一老师被指将学生打成轻伤二级](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E8%80%81%E5%B8%88%E8%A2%AB%E6%8C%87%E5%B0%86%E5%AD%A6%E7%94%9F%E6%89%93%E6%88%90%E8%BD%BB%E4%BC%A4%E4%BA%8C%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [9年级化学课本出现高“猛”酸钾](https://www.baidu.com/s?wd=9%E5%B9%B4%E7%BA%A7%E5%8C%96%E5%AD%A6%E8%AF%BE%E6%9C%AC%E5%87%BA%E7%8E%B0%E9%AB%98%E2%80%9C%E7%8C%9B%E2%80%9D%E9%85%B8%E9%92%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [沈阳马拉松物资包现过期饮料](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E9%A9%AC%E6%8B%89%E6%9D%BE%E7%89%A9%E8%B5%84%E5%8C%85%E7%8E%B0%E8%BF%87%E6%9C%9F%E9%A5%AE%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夫妻办教培被罚跳楼？长沙辟谣](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%8A%9E%E6%95%99%E5%9F%B9%E8%A2%AB%E7%BD%9A%E8%B7%B3%E6%A5%BC%EF%BC%9F%E9%95%BF%E6%B2%99%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [被曝喝出蜘蛛 蜜雪冰城涉事门店停业](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9B%9D%E5%96%9D%E5%87%BA%E8%9C%98%E8%9B%9B+%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%B6%89%E4%BA%8B%E9%97%A8%E5%BA%97%E5%81%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [夯实提升中国－东盟开放平台](https://www.baidu.com/s?wd=%E5%A4%AF%E5%AE%9E%E6%8F%90%E5%8D%87%E4%B8%AD%E5%9B%BD%EF%BC%8D%E4%B8%9C%E7%9B%9F%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网友建议餐厅标明菜品是否为预制菜](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%BB%BA%E8%AE%AE%E9%A4%90%E5%8E%85%E6%A0%87%E6%98%8E%E8%8F%9C%E5%93%81%E6%98%AF%E5%90%A6%E4%B8%BA%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [9年级化学课本出现高“猛”酸钾](https://www.baidu.com/s?wd=9%E5%B9%B4%E7%BA%A7%E5%8C%96%E5%AD%A6%E8%AF%BE%E6%9C%AC%E5%87%BA%E7%8E%B0%E9%AB%98%E2%80%9C%E7%8C%9B%E2%80%9D%E9%85%B8%E9%92%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [德芙茅台联名巧克力上架后秒没](https://www.baidu.com/s?wd=%E5%BE%B7%E8%8A%99%E8%8C%85%E5%8F%B0%E8%81%94%E5%90%8D%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8A%E6%9E%B6%E5%90%8E%E7%A7%92%E6%B2%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [军训顺拐同学们组成了方队](https://www.baidu.com/s?wd=%E5%86%9B%E8%AE%AD%E9%A1%BA%E6%8B%90%E5%90%8C%E5%AD%A6%E4%BB%AC%E7%BB%84%E6%88%90%E4%BA%86%E6%96%B9%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [云南一老师被指将学生打成轻伤二级](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E8%80%81%E5%B8%88%E8%A2%AB%E6%8C%87%E5%B0%86%E5%AD%A6%E7%94%9F%E6%89%93%E6%88%90%E8%BD%BB%E4%BC%A4%E4%BA%8C%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [9年级化学课本出现高“猛”酸钾](https://www.baidu.com/s?wd=9%E5%B9%B4%E7%BA%A7%E5%8C%96%E5%AD%A6%E8%AF%BE%E6%9C%AC%E5%87%BA%E7%8E%B0%E9%AB%98%E2%80%9C%E7%8C%9B%E2%80%9D%E9%85%B8%E9%92%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [沈阳马拉松物资包现过期饮料](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E9%A9%AC%E6%8B%89%E6%9D%BE%E7%89%A9%E8%B5%84%E5%8C%85%E7%8E%B0%E8%BF%87%E6%9C%9F%E9%A5%AE%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夫妻办教培被罚跳楼？长沙辟谣](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%8A%9E%E6%95%99%E5%9F%B9%E8%A2%AB%E7%BD%9A%E8%B7%B3%E6%A5%BC%EF%BC%9F%E9%95%BF%E6%B2%99%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
