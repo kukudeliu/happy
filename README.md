@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 11:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 12:00:01</h4></div>
 
 > 微博  
 
-1. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=1&Refer=top)<br />
-2. [好歹毒的教资作文](https://s.weibo.com/weibo?q=%E5%A5%BD%E6%AD%B9%E6%AF%92%E7%9A%84%E6%95%99%E8%B5%84%E4%BD%9C%E6%96%87&t=31&band_rank=2&Refer=top)<br />
+1. [好歹毒的教资作文](https://s.weibo.com/weibo?q=%E5%A5%BD%E6%AD%B9%E6%AF%92%E7%9A%84%E6%95%99%E8%B5%84%E4%BD%9C%E6%96%87&t=31&band_rank=1&Refer=top)<br />
+2. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会宣传片爱之城](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%AE%A3%E4%BC%A0%E7%89%87%E7%88%B1%E4%B9%8B%E5%9F%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [国内出现女性猴痘感染者](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%87%BA%E7%8E%B0%E5%A5%B3%E6%80%A7%E7%8C%B4%E7%97%98%E6%84%9F%E6%9F%93%E8%80%85%23&t=31&band_rank=4&Refer=top)<br />
 5. [教资作文](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E4%BD%9C%E6%96%87&t=31&band_rank=5&Refer=top)<br />
