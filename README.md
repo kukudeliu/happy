@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 08:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 08:49:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [离婚人数连续三年下降](https://www.baidu.com/s?wd=%E7%A6%BB%E5%A9%9A%E4%BA%BA%E6%95%B0%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%B9%B4%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [智能服务助力亚运](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%8A%A9%E5%8A%9B%E4%BA%9A%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [巴西男子练习射击意外将自己击毙](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E7%94%B7%E5%AD%90%E7%BB%83%E4%B9%A0%E5%B0%84%E5%87%BB%E6%84%8F%E5%A4%96%E5%B0%86%E8%87%AA%E5%B7%B1%E5%87%BB%E6%AF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [徐直军：应该大规模使用国产芯片](https://www.baidu.com/s?wd=%E5%BE%90%E7%9B%B4%E5%86%9B%EF%BC%9A%E5%BA%94%E8%AF%A5%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BD%BF%E7%94%A8%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [对爱宝的双胞胎幼崽毫无抵抗力](https://www.baidu.com/s?wd=%E5%AF%B9%E7%88%B1%E5%AE%9D%E7%9A%84%E5%8F%8C%E8%83%9E%E8%83%8E%E5%B9%BC%E5%B4%BD%E6%AF%AB%E6%97%A0%E6%8A%B5%E6%8A%97%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [云之羽大结局被骂稀巴烂](https://www.baidu.com/s?wd=%E4%BA%91%E4%B9%8B%E7%BE%BD%E5%A4%A7%E7%BB%93%E5%B1%80%E8%A2%AB%E9%AA%82%E7%A8%80%E5%B7%B4%E7%83%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子搭讪失败殴打女孩 女方怕被报复](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%90%AD%E8%AE%AA%E5%A4%B1%E8%B4%A5%E6%AE%B4%E6%89%93%E5%A5%B3%E5%AD%A9+%E5%A5%B3%E6%96%B9%E6%80%95%E8%A2%AB%E6%8A%A5%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子为孩子上街求捐赠被质疑](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E5%AD%A9%E5%AD%90%E4%B8%8A%E8%A1%97%E6%B1%82%E6%8D%90%E8%B5%A0%E8%A2%AB%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [徐直军：应该大规模使用国产芯片](https://www.baidu.com/s?wd=%E5%BE%90%E7%9B%B4%E5%86%9B%EF%BC%9A%E5%BA%94%E8%AF%A5%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BD%BF%E7%94%A8%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [证监会辟谣IPO、再融资关闸传闻](https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E8%BE%9F%E8%B0%A3IPO%E3%80%81%E5%86%8D%E8%9E%8D%E8%B5%84%E5%85%B3%E9%97%B8%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [离婚人数连续三年下降](https://www.baidu.com/s?wd=%E7%A6%BB%E5%A9%9A%E4%BA%BA%E6%95%B0%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%B9%B4%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [智能服务助力亚运](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%8A%A9%E5%8A%9B%E4%BA%9A%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [巴西男子练习射击意外将自己击毙](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E7%94%B7%E5%AD%90%E7%BB%83%E4%B9%A0%E5%B0%84%E5%87%BB%E6%84%8F%E5%A4%96%E5%B0%86%E8%87%AA%E5%B7%B1%E5%87%BB%E6%AF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [徐直军：应该大规模使用国产芯片](https://www.baidu.com/s?wd=%E5%BE%90%E7%9B%B4%E5%86%9B%EF%BC%9A%E5%BA%94%E8%AF%A5%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BD%BF%E7%94%A8%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [对爱宝的双胞胎幼崽毫无抵抗力](https://www.baidu.com/s?wd=%E5%AF%B9%E7%88%B1%E5%AE%9D%E7%9A%84%E5%8F%8C%E8%83%9E%E8%83%8E%E5%B9%BC%E5%B4%BD%E6%AF%AB%E6%97%A0%E6%8A%B5%E6%8A%97%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [云之羽大结局被骂稀巴烂](https://www.baidu.com/s?wd=%E4%BA%91%E4%B9%8B%E7%BE%BD%E5%A4%A7%E7%BB%93%E5%B1%80%E8%A2%AB%E9%AA%82%E7%A8%80%E5%B7%B4%E7%83%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子搭讪失败殴打女孩 女方怕被报复](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%90%AD%E8%AE%AA%E5%A4%B1%E8%B4%A5%E6%AE%B4%E6%89%93%E5%A5%B3%E5%AD%A9+%E5%A5%B3%E6%96%B9%E6%80%95%E8%A2%AB%E6%8A%A5%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子为孩子上街求捐赠被质疑](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E5%AD%A9%E5%AD%90%E4%B8%8A%E8%A1%97%E6%B1%82%E6%8D%90%E8%B5%A0%E8%A2%AB%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [徐直军：应该大规模使用国产芯片](https://www.baidu.com/s?wd=%E5%BE%90%E7%9B%B4%E5%86%9B%EF%BC%9A%E5%BA%94%E8%AF%A5%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BD%BF%E7%94%A8%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [证监会辟谣IPO、再融资关闸传闻](https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E8%BE%9F%E8%B0%A3IPO%E3%80%81%E5%86%8D%E8%9E%8D%E8%B5%84%E5%85%B3%E9%97%B8%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
