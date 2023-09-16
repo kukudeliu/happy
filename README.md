@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 18:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 18:38:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [德芙茅台联名巧克力上架后秒没](https://www.baidu.com/s?wd=%E5%BE%B7%E8%8A%99%E8%8C%85%E5%8F%B0%E8%81%94%E5%90%8D%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8A%E6%9E%B6%E5%90%8E%E7%A7%92%E6%B2%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网友建议餐厅标明菜品是否为预制菜](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%BB%BA%E8%AE%AE%E9%A4%90%E5%8E%85%E6%A0%87%E6%98%8E%E8%8F%9C%E5%93%81%E6%98%AF%E5%90%A6%E4%B8%BA%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [9年级化学课本出现高“猛”酸钾](https://www.baidu.com/s?wd=9%E5%B9%B4%E7%BA%A7%E5%8C%96%E5%AD%A6%E8%AF%BE%E6%9C%AC%E5%87%BA%E7%8E%B0%E9%AB%98%E2%80%9C%E7%8C%9B%E2%80%9D%E9%85%B8%E9%92%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大爷遇诈骗因嗓门大被及时止损](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E9%81%87%E8%AF%88%E9%AA%97%E5%9B%A0%E5%97%93%E9%97%A8%E5%A4%A7%E8%A2%AB%E5%8F%8A%E6%97%B6%E6%AD%A2%E6%8D%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [台媒：台积电延迟接收芯片设备](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%EF%BC%9A%E5%8F%B0%E7%A7%AF%E7%94%B5%E5%BB%B6%E8%BF%9F%E6%8E%A5%E6%94%B6%E8%8A%AF%E7%89%87%E8%AE%BE%E5%A4%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夫妻办教培被罚跳楼？长沙辟谣](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%8A%9E%E6%95%99%E5%9F%B9%E8%A2%AB%E7%BD%9A%E8%B7%B3%E6%A5%BC%EF%BC%9F%E9%95%BF%E6%B2%99%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [德芙茅台联名巧克力上架后秒没](https://www.baidu.com/s?wd=%E5%BE%B7%E8%8A%99%E8%8C%85%E5%8F%B0%E8%81%94%E5%90%8D%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8A%E6%9E%B6%E5%90%8E%E7%A7%92%E6%B2%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网友建议餐厅标明菜品是否为预制菜](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%BB%BA%E8%AE%AE%E9%A4%90%E5%8E%85%E6%A0%87%E6%98%8E%E8%8F%9C%E5%93%81%E6%98%AF%E5%90%A6%E4%B8%BA%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [9年级化学课本出现高“猛”酸钾](https://www.baidu.com/s?wd=9%E5%B9%B4%E7%BA%A7%E5%8C%96%E5%AD%A6%E8%AF%BE%E6%9C%AC%E5%87%BA%E7%8E%B0%E9%AB%98%E2%80%9C%E7%8C%9B%E2%80%9D%E9%85%B8%E9%92%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大爷遇诈骗因嗓门大被及时止损](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E9%81%87%E8%AF%88%E9%AA%97%E5%9B%A0%E5%97%93%E9%97%A8%E5%A4%A7%E8%A2%AB%E5%8F%8A%E6%97%B6%E6%AD%A2%E6%8D%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [台媒：台积电延迟接收芯片设备](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%EF%BC%9A%E5%8F%B0%E7%A7%AF%E7%94%B5%E5%BB%B6%E8%BF%9F%E6%8E%A5%E6%94%B6%E8%8A%AF%E7%89%87%E8%AE%BE%E5%A4%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [夫妻办教培被罚跳楼？长沙辟谣](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%8A%9E%E6%95%99%E5%9F%B9%E8%A2%AB%E7%BD%9A%E8%B7%B3%E6%A5%BC%EF%BC%9F%E9%95%BF%E6%B2%99%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
