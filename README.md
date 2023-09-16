@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 08:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 08:19:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [广东一学校76名教师开学前遭解聘](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A176%E5%90%8D%E6%95%99%E5%B8%88%E5%BC%80%E5%AD%A6%E5%89%8D%E9%81%AD%E8%A7%A3%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [这些地方对中国游客免签或落地签](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%9C%B0%E6%96%B9%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%85%8D%E7%AD%BE%E6%88%96%E8%90%BD%E5%9C%B0%E7%AD%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [原来血型真的可以变](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E8%A1%80%E5%9E%8B%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生称因爱抠鼻子致鼻内长多团真菌](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%9B%A0%E7%88%B1%E6%8A%A0%E9%BC%BB%E5%AD%90%E8%87%B4%E9%BC%BB%E5%86%85%E9%95%BF%E5%A4%9A%E5%9B%A2%E7%9C%9F%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [巴西男子练习射击意外将自己击毙](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E7%94%B7%E5%AD%90%E7%BB%83%E4%B9%A0%E5%B0%84%E5%87%BB%E6%84%8F%E5%A4%96%E5%B0%86%E8%87%AA%E5%B7%B1%E5%87%BB%E6%AF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [证监会辟谣IPO、再融资关闸传闻](https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E8%BE%9F%E8%B0%A3IPO%E3%80%81%E5%86%8D%E8%9E%8D%E8%B5%84%E5%85%B3%E9%97%B8%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [广东一学校76名教师开学前遭解聘](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A176%E5%90%8D%E6%95%99%E5%B8%88%E5%BC%80%E5%AD%A6%E5%89%8D%E9%81%AD%E8%A7%A3%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [这些地方对中国游客免签或落地签](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%9C%B0%E6%96%B9%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%85%8D%E7%AD%BE%E6%88%96%E8%90%BD%E5%9C%B0%E7%AD%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [原来血型真的可以变](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E8%A1%80%E5%9E%8B%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生称因爱抠鼻子致鼻内长多团真菌](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%9B%A0%E7%88%B1%E6%8A%A0%E9%BC%BB%E5%AD%90%E8%87%B4%E9%BC%BB%E5%86%85%E9%95%BF%E5%A4%9A%E5%9B%A2%E7%9C%9F%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [巴西男子练习射击意外将自己击毙](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E7%94%B7%E5%AD%90%E7%BB%83%E4%B9%A0%E5%B0%84%E5%87%BB%E6%84%8F%E5%A4%96%E5%B0%86%E8%87%AA%E5%B7%B1%E5%87%BB%E6%AF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [证监会辟谣IPO、再融资关闸传闻](https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E8%BE%9F%E8%B0%A3IPO%E3%80%81%E5%86%8D%E8%9E%8D%E8%B5%84%E5%85%B3%E9%97%B8%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
