@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 08:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 09:00:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黄奕上错花轿嫁对郎未曝光剧照](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A5%95%E4%B8%8A%E9%94%99%E8%8A%B1%E8%BD%BF%E5%AB%81%E5%AF%B9%E9%83%8E%E6%9C%AA%E6%9B%9D%E5%85%89%E5%89%A7%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [曾舜晞 心如止水](https://s.weibo.com/weibo?q=%E6%9B%BE%E8%88%9C%E6%99%9E%20%E5%BF%83%E5%A6%82%E6%AD%A2%E6%B0%B4&t=31&band_rank=7&Refer=top)<br />
 8. [北极鲶鱼核查不予公开是否为权力的傲慢](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E6%A0%B8%E6%9F%A5%E4%B8%8D%E4%BA%88%E5%85%AC%E5%BC%80%E6%98%AF%E5%90%A6%E4%B8%BA%E6%9D%83%E5%8A%9B%E7%9A%84%E5%82%B2%E6%85%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [过敏是因为免疫力差吗](https://s.weibo.com/weibo?q=%23%E8%BF%87%E6%95%8F%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%85%8D%E7%96%AB%E5%8A%9B%E5%B7%AE%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [大爷接诈骗电话因声音太大被及时制止](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E6%8E%A5%E8%AF%88%E9%AA%97%E7%94%B5%E8%AF%9D%E5%9B%A0%E5%A3%B0%E9%9F%B3%E5%A4%AA%E5%A4%A7%E8%A2%AB%E5%8F%8A%E6%97%B6%E5%88%B6%E6%AD%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
