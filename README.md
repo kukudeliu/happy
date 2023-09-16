@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 11:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 11:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [曾舜晞 心如止水](https://s.weibo.com/weibo?q=%E6%9B%BE%E8%88%9C%E6%99%9E%20%E5%BF%83%E5%A6%82%E6%AD%A2%E6%B0%B4&t=31&band_rank=6&Refer=top)<br />
 7. [蜂花终身认养了一只大熊猫](https://s.weibo.com/weibo?q=%23%E8%9C%82%E8%8A%B1%E7%BB%88%E8%BA%AB%E8%AE%A4%E5%85%BB%E4%BA%86%E4%B8%80%E5%8F%AA%E5%A4%A7%E7%86%8A%E7%8C%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [云之羽 稀巴烂](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%20%E7%A8%80%E5%B7%B4%E7%83%82&t=31&band_rank=8&Refer=top)<br />
-9. [空腹看吃播容易得胃炎](https://s.weibo.com/weibo?q=%E7%A9%BA%E8%85%B9%E7%9C%8B%E5%90%83%E6%92%AD%E5%AE%B9%E6%98%93%E5%BE%97%E8%83%83%E7%82%8E&t=31&band_rank=9&Refer=top)<br />
+9. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
