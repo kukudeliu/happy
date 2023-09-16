@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 12:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 13:00:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [法考](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%83&t=31&band_rank=5&Refer=top)<br />
 6. [封神质子团综开始录制](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E8%B4%A8%E5%AD%90%E5%9B%A2%E7%BB%BC%E5%BC%80%E5%A7%8B%E5%BD%95%E5%88%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [白色橄榄树 玖月晞](https://s.weibo.com/weibo?q=%E7%99%BD%E8%89%B2%E6%A9%84%E6%A6%84%E6%A0%91%20%E7%8E%96%E6%9C%88%E6%99%9E&t=31&band_rank=7&Refer=top)<br />
-8. [广东惠州一学校76名教师开学前遭解聘](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%83%A0%E5%B7%9E%E4%B8%80%E5%AD%A6%E6%A0%A176%E5%90%8D%E6%95%99%E5%B8%88%E5%BC%80%E5%AD%A6%E5%89%8D%E9%81%AD%E8%A7%A3%E8%81%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [失聪50年父亲戴人工耳蜗听声音后哭了](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%AA50%E5%B9%B4%E7%88%B6%E4%BA%B2%E6%88%B4%E4%BA%BA%E5%B7%A5%E8%80%B3%E8%9C%97%E5%90%AC%E5%A3%B0%E9%9F%B3%E5%90%8E%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [失聪50年父亲戴人工耳蜗听声音后哭了](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%AA50%E5%B9%B4%E7%88%B6%E4%BA%B2%E6%88%B4%E4%BA%BA%E5%B7%A5%E8%80%B3%E8%9C%97%E5%90%AC%E5%A3%B0%E9%9F%B3%E5%90%8E%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [广东惠州一学校76名教师开学前遭解聘](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%83%A0%E5%B7%9E%E4%B8%80%E5%AD%A6%E6%A0%A176%E5%90%8D%E6%95%99%E5%B8%88%E5%BC%80%E5%AD%A6%E5%89%8D%E9%81%AD%E8%A7%A3%E8%81%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
