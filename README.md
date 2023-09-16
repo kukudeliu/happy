@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 21:00:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 21:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈都灵舞台](https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%E8%88%9E%E5%8F%B0&t=31&band_rank=6&Refer=top)<br />
 7. [4个小众免签国](https://s.weibo.com/weibo?q=4%E4%B8%AA%E5%B0%8F%E4%BC%97%E5%85%8D%E7%AD%BE%E5%9B%BD&t=31&band_rank=7&Refer=top)<br />
 8. [成毅刀剑如梦](https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E5%88%80%E5%89%91%E5%A6%82%E6%A2%A6&t=31&band_rank=8&Refer=top)<br />
-9. [BLACKPINK首尔安可](https://s.weibo.com/weibo?q=BLACKPINK%E9%A6%96%E5%B0%94%E5%AE%89%E5%8F%AF&t=31&band_rank=9&Refer=top)<br />
+9. [檀健次三年前教周深的舞还没学会](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E4%B8%89%E5%B9%B4%E5%89%8D%E6%95%99%E5%91%A8%E6%B7%B1%E7%9A%84%E8%88%9E%E8%BF%98%E6%B2%A1%E5%AD%A6%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
