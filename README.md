@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 15:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-16 15:06:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [徐良淘汰](https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%AF%E6%B7%98%E6%B1%B0&t=31&band_rank=5&Refer=top)<br />
 6. [女子高铁座位被占换回后遭3人殴打](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E5%BA%A7%E4%BD%8D%E8%A2%AB%E5%8D%A0%E6%8D%A2%E5%9B%9E%E5%90%8E%E9%81%AD3%E4%BA%BA%E6%AE%B4%E6%89%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [云之羽第22集封神](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E7%AC%AC22%E9%9B%86%E5%B0%81%E7%A5%9E%23&t=31&band_rank=7&Refer=top)<br />
-8. [aespa与蟑螂的合作舞台](https://s.weibo.com/weibo?q=%23aespa%E4%B8%8E%E8%9F%91%E8%9E%82%E7%9A%84%E5%90%88%E4%BD%9C%E8%88%9E%E5%8F%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=9&Refer=top)<br />
+8. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=8&Refer=top)<br />
+9. [aespa与蟑螂的合作舞台](https://s.weibo.com/weibo?q=%23aespa%E4%B8%8E%E8%9F%91%E8%9E%82%E7%9A%84%E5%90%88%E4%BD%9C%E8%88%9E%E5%8F%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
