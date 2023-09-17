@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 19:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 19:57:01</h4></div>
 
 > 微博  
 
-1. [花儿与少年5](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B45&t=31&band_rank=1&Refer=top)<br />
+1. [活力28将为23万单洗衣粉退款10元](https://s.weibo.com/weibo?q=%23%E6%B4%BB%E5%8A%9B28%E5%B0%86%E4%B8%BA23%E4%B8%87%E5%8D%95%E6%B4%97%E8%A1%A3%E7%B2%89%E9%80%80%E6%AC%BE10%E5%85%83%23&t=31&band_rank=1&Refer=top)<br />
 2. [深圳街头有24小时开放的免费琴房](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E8%A1%97%E5%A4%B4%E6%9C%8924%E5%B0%8F%E6%97%B6%E5%BC%80%E6%94%BE%E7%9A%84%E5%85%8D%E8%B4%B9%E7%90%B4%E6%88%BF%23&t=31&band_rank=2&Refer=top)<br />
 3. [成功发射遥感三十九号卫星](https://s.weibo.com/weibo?q=%23%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E9%81%A5%E6%84%9F%E4%B8%89%E5%8D%81%E4%B9%9D%E5%8F%B7%E5%8D%AB%E6%98%9F%23&t=31&band_rank=3&Refer=top)<br />
-4. [活力28将为23万单洗衣粉退款10元](https://s.weibo.com/weibo?q=%23%E6%B4%BB%E5%8A%9B28%E5%B0%86%E4%B8%BA23%E4%B8%87%E5%8D%95%E6%B4%97%E8%A1%A3%E7%B2%89%E9%80%80%E6%AC%BE10%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
+4. [花儿与少年5](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B45&t=31&band_rank=4&Refer=top)<br />
 5. [96岁教师连续12年为学生发奖学金](https://s.weibo.com/weibo?q=%2396%E5%B2%81%E6%95%99%E5%B8%88%E8%BF%9E%E7%BB%AD12%E5%B9%B4%E4%B8%BA%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A5%96%E5%AD%A6%E9%87%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [如何看苹果中国官网辫子客服形象](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E8%8B%B9%E6%9E%9C%E4%B8%AD%E5%9B%BD%E5%AE%98%E7%BD%91%E8%BE%AB%E5%AD%90%E5%AE%A2%E6%9C%8D%E5%BD%A2%E8%B1%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [妹妹犯错被批评哥哥暖心呵护](https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B9%E7%8A%AF%E9%94%99%E8%A2%AB%E6%89%B9%E8%AF%84%E5%93%A5%E5%93%A5%E6%9A%96%E5%BF%83%E5%91%B5%E6%8A%A4%23&t=31&band_rank=7&Refer=top)<br />
