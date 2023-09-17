@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 22:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 22:39:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [微观中国东盟博览会](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E8%A7%82%E4%B8%AD%E5%9B%BD%E4%B8%9C%E7%9B%9F%E5%8D%9A%E8%A7%88%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [苹果客服回应辫子客服形象](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%BE%AB%E5%AD%90%E5%AE%A2%E6%9C%8D%E5%BD%A2%E8%B1%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [赵丽颖直播](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9B%B4%E6%92%AD&t=31&band_rank=5&Refer=top)<br />
-6. [花儿与少年5](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B45&t=31&band_rank=6&Refer=top)<br />
-7. [汪苏泷我喜欢上你时的内心活动](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%88%91%E5%96%9C%E6%AC%A2%E4%B8%8A%E4%BD%A0%E6%97%B6%E7%9A%84%E5%86%85%E5%BF%83%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [金晨打水仗被迫卸妆了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E6%89%93%E6%B0%B4%E4%BB%97%E8%A2%AB%E8%BF%AB%E5%8D%B8%E5%A6%86%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [柴犬误食70粒布洛芬主人花5千救回](https://s.weibo.com/weibo?q=%23%E6%9F%B4%E7%8A%AC%E8%AF%AF%E9%A3%9F70%E7%B2%92%E5%B8%83%E6%B4%9B%E8%8A%AC%E4%B8%BB%E4%BA%BA%E8%8A%B15%E5%8D%83%E6%95%91%E5%9B%9E%23&t=31&band_rank=9&Refer=top)<br />
+6. [金晨打水仗被迫卸妆了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E6%89%93%E6%B0%B4%E4%BB%97%E8%A2%AB%E8%BF%AB%E5%8D%B8%E5%A6%86%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [花儿与少年5](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B45&t=31&band_rank=7&Refer=top)<br />
+8. [汪苏泷我喜欢上你时的内心活动](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%88%91%E5%96%9C%E6%AC%A2%E4%B8%8A%E4%BD%A0%E6%97%B6%E7%9A%84%E5%86%85%E5%BF%83%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [拉塞尔撞了](https://s.weibo.com/weibo?q=%E6%8B%89%E5%A1%9E%E5%B0%94%E6%92%9E%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
