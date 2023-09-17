@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 07:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 07:56:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黑龙江发生重大刑案](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [医生一眼认出9旬患者相拥落泪](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA9%E6%97%AC%E6%82%A3%E8%80%85%E7%9B%B8%E6%8B%A5%E8%90%BD%E6%B3%AA%23&t=31&band_rank=7&Refer=top)<br />
 8. [新郎开迈巴赫扮猪八戒接新娘](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E5%BC%80%E8%BF%88%E5%B7%B4%E8%B5%AB%E6%89%AE%E7%8C%AA%E5%85%AB%E6%88%92%E6%8E%A5%E6%96%B0%E5%A8%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [金晨打水仗被迫卸妆了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E6%89%93%E6%B0%B4%E4%BB%97%E8%A2%AB%E8%BF%AB%E5%8D%B8%E5%A6%86%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [今日中国再不是1931年的中国](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%86%8D%E4%B8%8D%E6%98%AF1931%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
