@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 19:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 19:36:02</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [成功发射遥感三十九号卫星](https://s.weibo.com/weibo?q=%23%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E9%81%A5%E6%84%9F%E4%B8%89%E5%8D%81%E4%B9%9D%E5%8F%B7%E5%8D%AB%E6%98%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [活力28将为23万单洗衣粉退款10元](https://s.weibo.com/weibo?q=%23%E6%B4%BB%E5%8A%9B28%E5%B0%86%E4%B8%BA23%E4%B8%87%E5%8D%95%E6%B4%97%E8%A1%A3%E7%B2%89%E9%80%80%E6%AC%BE10%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [96岁教师连续12年为学生发奖学金](https://s.weibo.com/weibo?q=%2396%E5%B2%81%E6%95%99%E5%B8%88%E8%BF%9E%E7%BB%AD12%E5%B9%B4%E4%B8%BA%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A5%96%E5%AD%A6%E9%87%91%23&t=31&band_rank=5&Refer=top)<br />
-6. [徐良13个学生里12个写出了爆款歌](https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%AF13%E4%B8%AA%E5%AD%A6%E7%94%9F%E9%87%8C12%E4%B8%AA%E5%86%99%E5%87%BA%E4%BA%86%E7%88%86%E6%AC%BE%E6%AD%8C%23&t=31&band_rank=6&Refer=top)<br />
+6. [aespa BLACKPINK演唱会](https://s.weibo.com/weibo?q=aespa%20BLACKPINK%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
 7. [妹妹犯错被批评哥哥暖心呵护](https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B9%E7%8A%AF%E9%94%99%E8%A2%AB%E6%89%B9%E8%AF%84%E5%93%A5%E5%93%A5%E6%9A%96%E5%BF%83%E5%91%B5%E6%8A%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [aespa BLACKPINK演唱会](https://s.weibo.com/weibo?q=aespa%20BLACKPINK%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
+8. [徐良13个学生里12个写出了爆款歌](https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%AF13%E4%B8%AA%E5%AD%A6%E7%94%9F%E9%87%8C12%E4%B8%AA%E5%86%99%E5%87%BA%E4%BA%86%E7%88%86%E6%AC%BE%E6%AD%8C%23&t=31&band_rank=8&Refer=top)<br />
 9. [如何看苹果中国官网辫子客服形象](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E8%8B%B9%E6%9E%9C%E4%B8%AD%E5%9B%BD%E5%AE%98%E7%BD%91%E8%BE%AB%E5%AD%90%E5%AE%A2%E6%9C%8D%E5%BD%A2%E8%B1%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
