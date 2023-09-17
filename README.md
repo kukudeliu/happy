@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 01:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 01:42:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [黑龙江发生重大刑案](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [新郎开迈巴赫扮猪八戒接新娘](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E5%BC%80%E8%BF%88%E5%B7%B4%E8%B5%AB%E6%89%AE%E7%8C%AA%E5%85%AB%E6%88%92%E6%8E%A5%E6%96%B0%E5%A8%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [尤长靖演唱会嘉宾是彭昱畅](https://s.weibo.com/weibo?q=%23%E5%B0%A4%E9%95%BF%E9%9D%96%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%E6%98%AF%E5%BD%AD%E6%98%B1%E7%95%85%23&t=31&band_rank=7&Refer=top)<br />
-8. [为什么会出现集体咽喉炎](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%87%BA%E7%8E%B0%E9%9B%86%E4%BD%93%E5%92%BD%E5%96%89%E7%82%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [Jennie演唱会哭了](https://s.weibo.com/weibo?q=%23Jennie%E6%BC%94%E5%94%B1%E4%BC%9A%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [Jennie演唱会哭了](https://s.weibo.com/weibo?q=%23Jennie%E6%BC%94%E5%94%B1%E4%BC%9A%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [为什么会出现集体咽喉炎](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%87%BA%E7%8E%B0%E9%9B%86%E4%BD%93%E5%92%BD%E5%96%89%E7%82%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
