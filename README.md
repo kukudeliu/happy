@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 21:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 21:25:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [成功发射遥感三十九号卫星](https://s.weibo.com/weibo?q=%23%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E9%81%A5%E6%84%9F%E4%B8%89%E5%8D%81%E4%B9%9D%E5%8F%B7%E5%8D%AB%E6%98%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [赵丽颖直播](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9B%B4%E6%92%AD&t=31&band_rank=4&Refer=top)<br />
 5. [花儿与少年5](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B45&t=31&band_rank=5&Refer=top)<br />
-6. [活力28将为23万单洗衣粉退款10元](https://s.weibo.com/weibo?q=%23%E6%B4%BB%E5%8A%9B28%E5%B0%86%E4%B8%BA23%E4%B8%87%E5%8D%95%E6%B4%97%E8%A1%A3%E7%B2%89%E9%80%80%E6%AC%BE10%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [夭璟 带我走](https://s.weibo.com/weibo?q=%E5%A4%AD%E7%92%9F%20%E5%B8%A6%E6%88%91%E8%B5%B0&t=31&band_rank=7&Refer=top)<br />
-8. [金晨打水仗被迫卸妆了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E6%89%93%E6%B0%B4%E4%BB%97%E8%A2%AB%E8%BF%AB%E5%8D%B8%E5%A6%86%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [开灯后电影院的椅子有多脏](https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%81%AF%E5%90%8E%E7%94%B5%E5%BD%B1%E9%99%A2%E7%9A%84%E6%A4%85%E5%AD%90%E6%9C%89%E5%A4%9A%E8%84%8F%23&t=31&band_rank=9&Refer=top)<br />
+6. [开灯后电影院的椅子有多脏](https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%81%AF%E5%90%8E%E7%94%B5%E5%BD%B1%E9%99%A2%E7%9A%84%E6%A4%85%E5%AD%90%E6%9C%89%E5%A4%9A%E8%84%8F%23&t=31&band_rank=6&Refer=top)<br />
+7. [金晨打水仗被迫卸妆了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E6%89%93%E6%B0%B4%E4%BB%97%E8%A2%AB%E8%BF%AB%E5%8D%B8%E5%A6%86%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [活力28将为23万单洗衣粉退款10元](https://s.weibo.com/weibo?q=%23%E6%B4%BB%E5%8A%9B28%E5%B0%86%E4%B8%BA23%E4%B8%87%E5%8D%95%E6%B4%97%E8%A1%A3%E7%B2%89%E9%80%80%E6%AC%BE10%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [夭璟 带我走](https://s.weibo.com/weibo?q=%E5%A4%AD%E7%92%9F%20%E5%B8%A6%E6%88%91%E8%B5%B0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
