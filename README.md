@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 08:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 08:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [何猷君这人没事就去蹦极](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E8%BF%99%E4%BA%BA%E6%B2%A1%E4%BA%8B%E5%B0%B1%E5%8E%BB%E8%B9%A6%E6%9E%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [断崖式的衰老是在几岁](https://s.weibo.com/weibo?q=%23%E6%96%AD%E5%B4%96%E5%BC%8F%E7%9A%84%E8%A1%B0%E8%80%81%E6%98%AF%E5%9C%A8%E5%87%A0%E5%B2%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [央视网文娱评流量反噬后的反思](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E6%96%87%E5%A8%B1%E8%AF%84%E6%B5%81%E9%87%8F%E5%8F%8D%E5%99%AC%E5%90%8E%E7%9A%84%E5%8F%8D%E6%80%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [江苏9年级化学课本出现高猛酸钾](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F9%E5%B9%B4%E7%BA%A7%E5%8C%96%E5%AD%A6%E8%AF%BE%E6%9C%AC%E5%87%BA%E7%8E%B0%E9%AB%98%E7%8C%9B%E9%85%B8%E9%92%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [熊猫反客为主吐舌头逗游客](https://s.weibo.com/weibo?q=%23%E7%86%8A%E7%8C%AB%E5%8F%8D%E5%AE%A2%E4%B8%BA%E4%B8%BB%E5%90%90%E8%88%8C%E5%A4%B4%E9%80%97%E6%B8%B8%E5%AE%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
