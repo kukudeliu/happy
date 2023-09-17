@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 07:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 07:14:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [85岁重庆前首富住进养老院](https://www.baidu.com/s?wd=85%E5%B2%81%E9%87%8D%E5%BA%86%E5%89%8D%E9%A6%96%E5%AF%8C%E4%BD%8F%E8%BF%9B%E5%85%BB%E8%80%81%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张柏芝起诉孙东海家暴？男方否认](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9F%8F%E8%8A%9D%E8%B5%B7%E8%AF%89%E5%AD%99%E4%B8%9C%E6%B5%B7%E5%AE%B6%E6%9A%B4%EF%BC%9F%E7%94%B7%E6%96%B9%E5%90%A6%E8%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河南多地已发现隐翅虫](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%B7%B2%E5%8F%91%E7%8E%B0%E9%9A%90%E7%BF%85%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高调离婚的年轻人开始办席庆祝](https://www.baidu.com/s?wd=%E9%AB%98%E8%B0%83%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8A%9E%E5%B8%AD%E5%BA%86%E7%A5%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [32岁女子几乎每年确诊一种癌](https://www.baidu.com/s?wd=32%E5%B2%81%E5%A5%B3%E5%AD%90%E5%87%A0%E4%B9%8E%E6%AF%8F%E5%B9%B4%E7%A1%AE%E8%AF%8A%E4%B8%80%E7%A7%8D%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [不转钱到安全账户就坐牢？假的](https://www.baidu.com/s?wd=%E4%B8%8D%E8%BD%AC%E9%92%B1%E5%88%B0%E5%AE%89%E5%85%A8%E8%B4%A6%E6%88%B7%E5%B0%B1%E5%9D%90%E7%89%A2%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [85岁重庆前首富住进养老院](https://www.baidu.com/s?wd=85%E5%B2%81%E9%87%8D%E5%BA%86%E5%89%8D%E9%A6%96%E5%AF%8C%E4%BD%8F%E8%BF%9B%E5%85%BB%E8%80%81%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张柏芝起诉孙东海家暴？男方否认](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9F%8F%E8%8A%9D%E8%B5%B7%E8%AF%89%E5%AD%99%E4%B8%9C%E6%B5%B7%E5%AE%B6%E6%9A%B4%EF%BC%9F%E7%94%B7%E6%96%B9%E5%90%A6%E8%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河南多地已发现隐翅虫](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%B7%B2%E5%8F%91%E7%8E%B0%E9%9A%90%E7%BF%85%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高调离婚的年轻人开始办席庆祝](https://www.baidu.com/s?wd=%E9%AB%98%E8%B0%83%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8A%9E%E5%B8%AD%E5%BA%86%E7%A5%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [32岁女子几乎每年确诊一种癌](https://www.baidu.com/s?wd=32%E5%B2%81%E5%A5%B3%E5%AD%90%E5%87%A0%E4%B9%8E%E6%AF%8F%E5%B9%B4%E7%A1%AE%E8%AF%8A%E4%B8%80%E7%A7%8D%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [不转钱到安全账户就坐牢？假的](https://www.baidu.com/s?wd=%E4%B8%8D%E8%BD%AC%E9%92%B1%E5%88%B0%E5%AE%89%E5%85%A8%E8%B4%A6%E6%88%B7%E5%B0%B1%E5%9D%90%E7%89%A2%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
