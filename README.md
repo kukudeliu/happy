@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 15:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 15:31:01</h4></div>
 
 > 微博  
 
 1. [体检报告上写智商偏低的医生已被停职](https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A%E4%B8%8A%E5%86%99%E6%99%BA%E5%95%86%E5%81%8F%E4%BD%8E%E7%9A%84%E5%8C%BB%E7%94%9F%E5%B7%B2%E8%A2%AB%E5%81%9C%E8%81%8C%23&t=31&band_rank=1&Refer=top)<br />
 2. [巨型棉签洗头 五天不油](https://s.weibo.com/weibo?q=%E5%B7%A8%E5%9E%8B%E6%A3%89%E7%AD%BE%E6%B4%97%E5%A4%B4%20%E4%BA%94%E5%A4%A9%E4%B8%8D%E6%B2%B9&t=31&band_rank=2&Refer=top)<br />
-3. [当杭州亚运图标小人遇上中国风](https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E5%9B%BE%E6%A0%87%E5%B0%8F%E4%BA%BA%E9%81%87%E4%B8%8A%E4%B8%AD%E5%9B%BD%E9%A3%8E%23&t=31&band_rank=3&Refer=top)<br />
+3. [我国科学家研发出新型稀土开采技术](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A0%94%E5%8F%91%E5%87%BA%E6%96%B0%E5%9E%8B%E7%A8%80%E5%9C%9F%E5%BC%80%E9%87%87%E6%8A%80%E6%9C%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [为什么蜜雪冰城拍不出ins感](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%8B%8D%E4%B8%8D%E5%87%BAins%E6%84%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [男朋友在车里装了一个化妆台](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%9C%A8%E8%BD%A6%E9%87%8C%E8%A3%85%E4%BA%86%E4%B8%80%E4%B8%AA%E5%8C%96%E5%A6%86%E5%8F%B0%23&t=31&band_rank=5&Refer=top)<br />
-6. [各大卫视删除袁冰妍相关动态](https://s.weibo.com/weibo?q=%23%E5%90%84%E5%A4%A7%E5%8D%AB%E8%A7%86%E5%88%A0%E9%99%A4%E8%A2%81%E5%86%B0%E5%A6%8D%E7%9B%B8%E5%85%B3%E5%8A%A8%E6%80%81%23&t=31&band_rank=6&Refer=top)<br />
-7. [尔康才是去缅甸受害的第一人](https://s.weibo.com/weibo?q=%23%E5%B0%94%E5%BA%B7%E6%89%8D%E6%98%AF%E5%8E%BB%E7%BC%85%E7%94%B8%E5%8F%97%E5%AE%B3%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [视觉中国拍的Angelababy](https://s.weibo.com/weibo?q=%E8%A7%86%E8%A7%89%E4%B8%AD%E5%9B%BD%E6%8B%8D%E7%9A%84Angelababy&t=31&band_rank=8&Refer=top)<br />
-9. [张凌赫自己接档自己](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%87%AA%E5%B7%B1%E6%8E%A5%E6%A1%A3%E8%87%AA%E5%B7%B1%23&t=31&band_rank=9&Refer=top)<br />
+6. [尔康才是去缅甸受害的第一人](https://s.weibo.com/weibo?q=%23%E5%B0%94%E5%BA%B7%E6%89%8D%E6%98%AF%E5%8E%BB%E7%BC%85%E7%94%B8%E5%8F%97%E5%AE%B3%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
+7. [各大卫视删除袁冰妍相关动态](https://s.weibo.com/weibo?q=%23%E5%90%84%E5%A4%A7%E5%8D%AB%E8%A7%86%E5%88%A0%E9%99%A4%E8%A2%81%E5%86%B0%E5%A6%8D%E7%9B%B8%E5%85%B3%E5%8A%A8%E6%80%81%23&t=31&band_rank=7&Refer=top)<br />
+8. [当杭州亚运图标小人遇上中国风](https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E5%9B%BE%E6%A0%87%E5%B0%8F%E4%BA%BA%E9%81%87%E4%B8%8A%E4%B8%AD%E5%9B%BD%E9%A3%8E%23&t=31&band_rank=8&Refer=top)<br />
+9. [视觉中国拍的Angelababy](https://s.weibo.com/weibo?q=%E8%A7%86%E8%A7%89%E4%B8%AD%E5%9B%BD%E6%8B%8D%E7%9A%84Angelababy&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
