@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 14:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 14:12:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [蜂花改喷头](https://s.weibo.com/weibo?q=%E8%9C%82%E8%8A%B1%E6%94%B9%E5%96%B7%E5%A4%B4&t=31&band_rank=5&Refer=top)<br />
 6. [把面粉倒进滚烫的开水里](https://s.weibo.com/weibo?q=%E6%8A%8A%E9%9D%A2%E7%B2%89%E5%80%92%E8%BF%9B%E6%BB%9A%E7%83%AB%E7%9A%84%E5%BC%80%E6%B0%B4%E9%87%8C&t=31&band_rank=6&Refer=top)<br />
 7. [郑恺啥也没带就带了媳妇](https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E5%95%A5%E4%B9%9F%E6%B2%A1%E5%B8%A6%E5%B0%B1%E5%B8%A6%E4%BA%86%E5%AA%B3%E5%A6%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [44岁农妇疑被强奸8天后自杀身亡](https://s.weibo.com/weibo?q=%2344%E5%B2%81%E5%86%9C%E5%A6%87%E7%96%91%E8%A2%AB%E5%BC%BA%E5%A5%B88%E5%A4%A9%E5%90%8E%E8%87%AA%E6%9D%80%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+8. [为什么蜜雪冰城拍不出ins感](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%8B%8D%E4%B8%8D%E5%87%BAins%E6%84%9F%23&t=31&band_rank=8&Refer=top)<br />
 9. [赵丽颖带火蟳埔女文化](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B8%A6%E7%81%AB%E8%9F%B3%E5%9F%94%E5%A5%B3%E6%96%87%E5%8C%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
