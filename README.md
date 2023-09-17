@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 14:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 14:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张凌赫自己接档自己](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%87%AA%E5%B7%B1%E6%8E%A5%E6%A1%A3%E8%87%AA%E5%B7%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [郑恺啥也没带就带了媳妇](https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E5%95%A5%E4%B9%9F%E6%B2%A1%E5%B8%A6%E5%B0%B1%E5%B8%A6%E4%BA%86%E5%AA%B3%E5%A6%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [赵丽颖带火蟳埔女文化](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B8%A6%E7%81%AB%E8%9F%B3%E5%9F%94%E5%A5%B3%E6%96%87%E5%8C%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [蜂花改喷头](https://s.weibo.com/weibo?q=%E8%9C%82%E8%8A%B1%E6%94%B9%E5%96%B7%E5%A4%B4&t=31&band_rank=9&Refer=top)<br />
+9. [美军方称中国造舰产能是美国的232倍](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E6%96%B9%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%80%A0%E8%88%B0%E4%BA%A7%E8%83%BD%E6%98%AF%E7%BE%8E%E5%9B%BD%E7%9A%84232%E5%80%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
