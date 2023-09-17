@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 14:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 14:28:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [普通人学卢昱晓上官浅](https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%AD%A6%E5%8D%A2%E6%98%B1%E6%99%93%E4%B8%8A%E5%AE%98%E6%B5%85&t=31&band_rank=5&Refer=top)<br />
 6. [郑恺啥也没带就带了媳妇](https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E5%95%A5%E4%B9%9F%E6%B2%A1%E5%B8%A6%E5%B0%B1%E5%B8%A6%E4%BA%86%E5%AA%B3%E5%A6%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵丽颖带火蟳埔女文化](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B8%A6%E7%81%AB%E8%9F%B3%E5%9F%94%E5%A5%B3%E6%96%87%E5%8C%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [把面粉倒进滚烫的开水里](https://s.weibo.com/weibo?q=%E6%8A%8A%E9%9D%A2%E7%B2%89%E5%80%92%E8%BF%9B%E6%BB%9A%E7%83%AB%E7%9A%84%E5%BC%80%E6%B0%B4%E9%87%8C&t=31&band_rank=8&Refer=top)<br />
-9. [蜂花改喷头](https://s.weibo.com/weibo?q=%E8%9C%82%E8%8A%B1%E6%94%B9%E5%96%B7%E5%A4%B4&t=31&band_rank=9&Refer=top)<br />
+8. [蜂花改喷头](https://s.weibo.com/weibo?q=%E8%9C%82%E8%8A%B1%E6%94%B9%E5%96%B7%E5%A4%B4&t=31&band_rank=8&Refer=top)<br />
+9. [把面粉倒进滚烫的开水里](https://s.weibo.com/weibo?q=%E6%8A%8A%E9%9D%A2%E7%B2%89%E5%80%92%E8%BF%9B%E6%BB%9A%E7%83%AB%E7%9A%84%E5%BC%80%E6%B0%B4%E9%87%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
