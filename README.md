@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 11:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 11:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [原来何猷君也逃不过女儿奴](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%95%E7%8C%B7%E5%90%9B%E4%B9%9F%E9%80%83%E4%B8%8D%E8%BF%87%E5%A5%B3%E5%84%BF%E5%A5%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [公司团建让我放弃周杰伦演唱会](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E5%9B%A2%E5%BB%BA%E8%AE%A9%E6%88%91%E6%94%BE%E5%BC%83%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [不经意却很伤头发的行为](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%BB%8F%E6%84%8F%E5%8D%B4%E5%BE%88%E4%BC%A4%E5%A4%B4%E5%8F%91%E7%9A%84%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [张凌赫回应被说运气不好](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AF%B4%E8%BF%90%E6%B0%94%E4%B8%8D%E5%A5%BD%23&t=31&band_rank=9&Refer=top)<br />
+9. [蜂花改喷头](https://s.weibo.com/weibo?q=%E8%9C%82%E8%8A%B1%E6%94%B9%E5%96%B7%E5%A4%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
