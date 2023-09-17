@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 00:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 00:15:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [黑龙江发生重大刑案](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%23&t=31&band_rank=4&Refer=top)<br />
 5. [中国经济崩溃论注定再度崩溃](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B4%A9%E6%BA%83%E8%AE%BA%E6%B3%A8%E5%AE%9A%E5%86%8D%E5%BA%A6%E5%B4%A9%E6%BA%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [为什么会出现集体咽喉炎](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%87%BA%E7%8E%B0%E9%9B%86%E4%BD%93%E5%92%BD%E5%96%89%E7%82%8E%23&t=31&band_rank=6&Refer=top)<br />
-7. [赵丽颖直播](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9B%B4%E6%92%AD&t=31&band_rank=7&Refer=top)<br />
-8. [金晨打水仗被迫卸妆了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E6%89%93%E6%B0%B4%E4%BB%97%E8%A2%AB%E8%BF%AB%E5%8D%B8%E5%A6%86%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [650合体](https://s.weibo.com/weibo?q=650%E5%90%88%E4%BD%93&t=31&band_rank=9&Refer=top)<br />
+7. [重庆前首富住进养老院](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%89%8D%E9%A6%96%E5%AF%8C%E4%BD%8F%E8%BF%9B%E5%85%BB%E8%80%81%E9%99%A2%23&t=31&band_rank=7&Refer=top)<br />
+8. [赵丽颖直播](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9B%B4%E6%92%AD&t=31&band_rank=8&Refer=top)<br />
+9. [金晨打水仗被迫卸妆了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E6%89%93%E6%B0%B4%E4%BB%97%E8%A2%AB%E8%BF%AB%E5%8D%B8%E5%A6%86%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
