@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 03:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 03:42:01</h4></div>
 
 > 微博  
 
-1. [夫妻偷渡到缅北后因业绩太差被打](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%81%B7%E6%B8%A1%E5%88%B0%E7%BC%85%E5%8C%97%E5%90%8E%E5%9B%A0%E4%B8%9A%E7%BB%A9%E5%A4%AA%E5%B7%AE%E8%A2%AB%E6%89%93%23&t=31&band_rank=1&Refer=top)<br />
-2. [原来高铁站台是禁止吸烟的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E9%AB%98%E9%93%81%E7%AB%99%E5%8F%B0%E6%98%AF%E7%A6%81%E6%AD%A2%E5%90%B8%E7%83%9F%E7%9A%84&t=31&band_rank=2&Refer=top)<br />
+1. [原来高铁站台是禁止吸烟的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E9%AB%98%E9%93%81%E7%AB%99%E5%8F%B0%E6%98%AF%E7%A6%81%E6%AD%A2%E5%90%B8%E7%83%9F%E7%9A%84&t=31&band_rank=1&Refer=top)<br />
+2. [夫妻偷渡到缅北后因业绩太差被打](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%81%B7%E6%B8%A1%E5%88%B0%E7%BC%85%E5%8C%97%E5%90%8E%E5%9B%A0%E4%B8%9A%E7%BB%A9%E5%A4%AA%E5%B7%AE%E8%A2%AB%E6%89%93%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国科学家研发出新型稀土开采技术](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A0%94%E5%8F%91%E5%87%BA%E6%96%B0%E5%9E%8B%E7%A8%80%E5%9C%9F%E5%BC%80%E9%87%87%E6%8A%80%E6%9C%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [黑龙江发生重大刑案](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%23&t=31&band_rank=4&Refer=top)<br />
 5. [陈坤 坦然接受生命中的一切](https://s.weibo.com/weibo?q=%E9%99%88%E5%9D%A4%20%E5%9D%A6%E7%84%B6%E6%8E%A5%E5%8F%97%E7%94%9F%E5%91%BD%E4%B8%AD%E7%9A%84%E4%B8%80%E5%88%87&t=31&band_rank=5&Refer=top)<br />
