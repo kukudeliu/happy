@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 11:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 11:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为什么现在的油条全是面包口感](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%B2%B9%E6%9D%A1%E5%85%A8%E6%98%AF%E9%9D%A2%E5%8C%85%E5%8F%A3%E6%84%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [原来何猷君也逃不过女儿奴](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%95%E7%8C%B7%E5%90%9B%E4%B9%9F%E9%80%83%E4%B8%8D%E8%BF%87%E5%A5%B3%E5%84%BF%E5%A5%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [不经意却很伤头发的行为](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%BB%8F%E6%84%8F%E5%8D%B4%E5%BE%88%E4%BC%A4%E5%A4%B4%E5%8F%91%E7%9A%84%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [你有多久没有爱的感觉了](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%9C%89%E5%A4%9A%E4%B9%85%E6%B2%A1%E6%9C%89%E7%88%B1%E7%9A%84%E6%84%9F%E8%A7%89%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [女子250万买飞机9年没到货](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90250%E4%B8%87%E4%B9%B0%E9%A3%9E%E6%9C%BA9%E5%B9%B4%E6%B2%A1%E5%88%B0%E8%B4%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
