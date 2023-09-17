@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 18:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 19:00:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [96岁教师连续12年为学生发奖学金](https://s.weibo.com/weibo?q=%2396%E5%B2%81%E6%95%99%E5%B8%88%E8%BF%9E%E7%BB%AD12%E5%B9%B4%E4%B8%BA%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A5%96%E5%AD%A6%E9%87%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨鸣 那就好好告个别吧](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3%20%E9%82%A3%E5%B0%B1%E5%A5%BD%E5%A5%BD%E5%91%8A%E4%B8%AA%E5%88%AB%E5%90%A7&t=31&band_rank=6&Refer=top)<br />
 7. [妹妹犯错被批评哥哥暖心呵护](https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B9%E7%8A%AF%E9%94%99%E8%A2%AB%E6%89%B9%E8%AF%84%E5%93%A5%E5%93%A5%E6%9A%96%E5%BF%83%E5%91%B5%E6%8A%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [不画网红妆后变得清爽](https://s.weibo.com/weibo?q=%E4%B8%8D%E7%94%BB%E7%BD%91%E7%BA%A2%E5%A6%86%E5%90%8E%E5%8F%98%E5%BE%97%E6%B8%85%E7%88%BD&t=31&band_rank=8&Refer=top)<br />
-9. [偷税漏税再被罚袁冰妍的头到底有多铁](https://s.weibo.com/weibo?q=%23%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%E5%86%8D%E8%A2%AB%E7%BD%9A%E8%A2%81%E5%86%B0%E5%A6%8D%E7%9A%84%E5%A4%B4%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%93%81%23&t=31&band_rank=9&Refer=top)<br />
+8. [B太 海鲜市场价格欺诈陷阱](https://s.weibo.com/weibo?q=B%E5%A4%AA%20%E6%B5%B7%E9%B2%9C%E5%B8%82%E5%9C%BA%E4%BB%B7%E6%A0%BC%E6%AC%BA%E8%AF%88%E9%99%B7%E9%98%B1&t=31&band_rank=8&Refer=top)<br />
+9. [不画网红妆后变得清爽](https://s.weibo.com/weibo?q=%E4%B8%8D%E7%94%BB%E7%BD%91%E7%BA%A2%E5%A6%86%E5%90%8E%E5%8F%98%E5%BE%97%E6%B8%85%E7%88%BD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
