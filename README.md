@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 22:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 22:34:01</h4></div>
 
 > 微博  
 
 1. [Jennie演唱会哭了](https://s.weibo.com/weibo?q=%23Jennie%E6%BC%94%E5%94%B1%E4%BC%9A%E5%93%AD%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
 2. [黑龙江发生重大刑案](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%23&t=31&band_rank=2&Refer=top)<br />
-3. [花儿与少年5](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B45&t=31&band_rank=3&Refer=top)<br />
+3. [我国科学家研发出新型稀土开采技术](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A0%94%E5%8F%91%E5%87%BA%E6%96%B0%E5%9E%8B%E7%A8%80%E5%9C%9F%E5%BC%80%E9%87%87%E6%8A%80%E6%9C%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [苹果客服回应辫子客服形象](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%BE%AB%E5%AD%90%E5%AE%A2%E6%9C%8D%E5%BD%A2%E8%B1%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [赵丽颖直播](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9B%B4%E6%92%AD&t=31&band_rank=5&Refer=top)<br />
-6. [金晨打水仗被迫卸妆了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E6%89%93%E6%B0%B4%E4%BB%97%E8%A2%AB%E8%BF%AB%E5%8D%B8%E5%A6%86%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [柴犬误食70粒布洛芬主人花5千救回](https://s.weibo.com/weibo?q=%23%E6%9F%B4%E7%8A%AC%E8%AF%AF%E9%A3%9F70%E7%B2%92%E5%B8%83%E6%B4%9B%E8%8A%AC%E4%B8%BB%E4%BA%BA%E8%8A%B15%E5%8D%83%E6%95%91%E5%9B%9E%23&t=31&band_rank=7&Refer=top)<br />
-8. [开灯后电影院的椅子有多脏](https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%81%AF%E5%90%8E%E7%94%B5%E5%BD%B1%E9%99%A2%E7%9A%84%E6%A4%85%E5%AD%90%E6%9C%89%E5%A4%9A%E8%84%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [汪苏泷我喜欢上你时的内心活动](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%88%91%E5%96%9C%E6%AC%A2%E4%B8%8A%E4%BD%A0%E6%97%B6%E7%9A%84%E5%86%85%E5%BF%83%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=9&Refer=top)<br />
+6. [花儿与少年5](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B45&t=31&band_rank=6&Refer=top)<br />
+7. [金晨打水仗被迫卸妆了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E6%89%93%E6%B0%B4%E4%BB%97%E8%A2%AB%E8%BF%AB%E5%8D%B8%E5%A6%86%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [柴犬误食70粒布洛芬主人花5千救回](https://s.weibo.com/weibo?q=%23%E6%9F%B4%E7%8A%AC%E8%AF%AF%E9%A3%9F70%E7%B2%92%E5%B8%83%E6%B4%9B%E8%8A%AC%E4%B8%BB%E4%BA%BA%E8%8A%B15%E5%8D%83%E6%95%91%E5%9B%9E%23&t=31&band_rank=8&Refer=top)<br />
+9. [开灯后电影院的椅子有多脏](https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%81%AF%E5%90%8E%E7%94%B5%E5%BD%B1%E9%99%A2%E7%9A%84%E6%A4%85%E5%AD%90%E6%9C%89%E5%A4%9A%E8%84%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
