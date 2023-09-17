@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 10:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 10:14:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [男孩扔木块砸死老人被判赔58万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%89%94%E6%9C%A8%E5%9D%97%E7%A0%B8%E6%AD%BB%E8%80%81%E4%BA%BA%E8%A2%AB%E5%88%A4%E8%B5%9458%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子讨要彩礼未果将女方砍伤致死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AE%A8%E8%A6%81%E5%BD%A9%E7%A4%BC%E6%9C%AA%E6%9E%9C%E5%B0%86%E5%A5%B3%E6%96%B9%E7%A0%8D%E4%BC%A4%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [C罗任意球射偏砸晕场外摄像](https://www.baidu.com/s?wd=C%E7%BD%97%E4%BB%BB%E6%84%8F%E7%90%83%E5%B0%84%E5%81%8F%E7%A0%B8%E6%99%95%E5%9C%BA%E5%A4%96%E6%91%84%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [贪官10万元翡翠手镯1元起拍](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%9810%E4%B8%87%E5%85%83%E7%BF%A1%E7%BF%A0%E6%89%8B%E9%95%AF1%E5%85%83%E8%B5%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高铁拒换座被打女子：对方先动手](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E6%8B%92%E6%8D%A2%E5%BA%A7%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%90%EF%BC%9A%E5%AF%B9%E6%96%B9%E5%85%88%E5%8A%A8%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中学辟谣与送餐家长发生冲突](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%BE%9F%E8%B0%A3%E4%B8%8E%E9%80%81%E9%A4%90%E5%AE%B6%E9%95%BF%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男孩扔木块砸死老人被判赔58万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%89%94%E6%9C%A8%E5%9D%97%E7%A0%B8%E6%AD%BB%E8%80%81%E4%BA%BA%E8%A2%AB%E5%88%A4%E8%B5%9458%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子讨要彩礼未果将女方砍伤致死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AE%A8%E8%A6%81%E5%BD%A9%E7%A4%BC%E6%9C%AA%E6%9E%9C%E5%B0%86%E5%A5%B3%E6%96%B9%E7%A0%8D%E4%BC%A4%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [C罗任意球射偏砸晕场外摄像](https://www.baidu.com/s?wd=C%E7%BD%97%E4%BB%BB%E6%84%8F%E7%90%83%E5%B0%84%E5%81%8F%E7%A0%B8%E6%99%95%E5%9C%BA%E5%A4%96%E6%91%84%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [贪官10万元翡翠手镯1元起拍](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%9810%E4%B8%87%E5%85%83%E7%BF%A1%E7%BF%A0%E6%89%8B%E9%95%AF1%E5%85%83%E8%B5%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高铁拒换座被打女子：对方先动手](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E6%8B%92%E6%8D%A2%E5%BA%A7%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%90%EF%BC%9A%E5%AF%B9%E6%96%B9%E5%85%88%E5%8A%A8%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中学辟谣与送餐家长发生冲突](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E8%BE%9F%E8%B0%A3%E4%B8%8E%E9%80%81%E9%A4%90%E5%AE%B6%E9%95%BF%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
