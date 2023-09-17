@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 16:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-17 16:32:01</h4></div>
 
 > 微博  
 
 1. [体检报告上写智商偏低的医生已被停职](https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A%E4%B8%8A%E5%86%99%E6%99%BA%E5%95%86%E5%81%8F%E4%BD%8E%E7%9A%84%E5%8C%BB%E7%94%9F%E5%B7%B2%E8%A2%AB%E5%81%9C%E8%81%8C%23&t=31&band_rank=1&Refer=top)<br />
 2. [偷税漏税再被罚袁冰妍的头到底有多铁](https://s.weibo.com/weibo?q=%23%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%E5%86%8D%E8%A2%AB%E7%BD%9A%E8%A2%81%E5%86%B0%E5%A6%8D%E7%9A%84%E5%A4%B4%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%93%81%23&t=31&band_rank=2&Refer=top)<br />
-3. [我国科学家研发出新型稀土开采技术](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A0%94%E5%8F%91%E5%87%BA%E6%96%B0%E5%9E%8B%E7%A8%80%E5%9C%9F%E5%BC%80%E9%87%87%E6%8A%80%E6%9C%AF%23&t=31&band_rank=3&Refer=top)<br />
-4. [杨鸣卸任辽宁男篮主教练](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E5%8D%B8%E4%BB%BB%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE%E4%B8%BB%E6%95%99%E7%BB%83%23&t=31&band_rank=4&Refer=top)<br />
-5. [为什么蜜雪冰城拍不出ins感](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%8B%8D%E4%B8%8D%E5%87%BAins%E6%84%9F%23&t=31&band_rank=5&Refer=top)<br />
-6. [视觉中国拍的Angelababy](https://s.weibo.com/weibo?q=%E8%A7%86%E8%A7%89%E4%B8%AD%E5%9B%BD%E6%8B%8D%E7%9A%84Angelababy&t=31&band_rank=6&Refer=top)<br />
-7. [胡兵为三公准备了维密翅膀](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B5%E4%B8%BA%E4%B8%89%E5%85%AC%E5%87%86%E5%A4%87%E4%BA%86%E7%BB%B4%E5%AF%86%E7%BF%85%E8%86%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [是不是全国各地都在咽喉炎](https://s.weibo.com/weibo?q=%E6%98%AF%E4%B8%8D%E6%98%AF%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E9%83%BD%E5%9C%A8%E5%92%BD%E5%96%89%E7%82%8E&t=31&band_rank=8&Refer=top)<br />
-9. [田曦薇也在看我有一个朋友](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E4%B9%9F%E5%9C%A8%E7%9C%8B%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
+3. [杨鸣卸任辽宁男篮主教练](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E5%8D%B8%E4%BB%BB%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE%E4%B8%BB%E6%95%99%E7%BB%83%23&t=31&band_rank=3&Refer=top)<br />
+4. [为什么蜜雪冰城拍不出ins感](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%8B%8D%E4%B8%8D%E5%87%BAins%E6%84%9F%23&t=31&band_rank=4&Refer=top)<br />
+5. [视觉中国拍的Angelababy](https://s.weibo.com/weibo?q=%E8%A7%86%E8%A7%89%E4%B8%AD%E5%9B%BD%E6%8B%8D%E7%9A%84Angelababy&t=31&band_rank=5&Refer=top)<br />
+6. [胡兵为三公准备了维密翅膀](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B5%E4%B8%BA%E4%B8%89%E5%85%AC%E5%87%86%E5%A4%87%E4%BA%86%E7%BB%B4%E5%AF%86%E7%BF%85%E8%86%80%23&t=31&band_rank=6&Refer=top)<br />
+7. [是不是全国各地都在咽喉炎](https://s.weibo.com/weibo?q=%E6%98%AF%E4%B8%8D%E6%98%AF%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E9%83%BD%E5%9C%A8%E5%92%BD%E5%96%89%E7%82%8E&t=31&band_rank=7&Refer=top)<br />
+8. [田曦薇也在看我有一个朋友](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E4%B9%9F%E5%9C%A8%E7%9C%8B%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [蜂花你家纸箱被偷了](https://s.weibo.com/weibo?q=%23%E8%9C%82%E8%8A%B1%E4%BD%A0%E5%AE%B6%E7%BA%B8%E7%AE%B1%E8%A2%AB%E5%81%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
