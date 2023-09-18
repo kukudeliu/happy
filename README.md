@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 23:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 23:05:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [麻辣王子好吃](https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%8E%8B%E5%AD%90%E5%A5%BD%E5%90%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [导师在太空开了门实验课](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E5%B8%88%E5%9C%A8%E5%A4%AA%E7%A9%BA%E5%BC%80%E4%BA%86%E9%97%A8%E5%AE%9E%E9%AA%8C%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [居然有人把飘窗做成了洗脚池](https://s.weibo.com/weibo?q=%23%E5%B1%85%E7%84%B6%E6%9C%89%E4%BA%BA%E6%8A%8A%E9%A3%98%E7%AA%97%E5%81%9A%E6%88%90%E4%BA%86%E6%B4%97%E8%84%9A%E6%B1%A0%23&t=31&band_rank=4&Refer=top)<br />
-5. [4名男孩溺亡其中3人亲兄弟](https://s.weibo.com/weibo?q=%234%E5%90%8D%E7%94%B7%E5%AD%A9%E6%BA%BA%E4%BA%A1%E5%85%B6%E4%B8%AD3%E4%BA%BA%E4%BA%B2%E5%85%84%E5%BC%9F%23&t=31&band_rank=5&Refer=top)<br />
-6. [伍佰 25岁为什么听我的歌呢](https://s.weibo.com/weibo?q=%E4%BC%8D%E4%BD%B0%2025%E5%B2%81%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%AC%E6%88%91%E7%9A%84%E6%AD%8C%E5%91%A2&t=31&band_rank=6&Refer=top)<br />
+5. [伍佰 25岁为什么听我的歌呢](https://s.weibo.com/weibo?q=%E4%BC%8D%E4%BD%B0%2025%E5%B2%81%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%AC%E6%88%91%E7%9A%84%E6%AD%8C%E5%91%A2&t=31&band_rank=5&Refer=top)<br />
+6. [4名男孩溺亡其中3人亲兄弟](https://s.weibo.com/weibo?q=%234%E5%90%8D%E7%94%B7%E5%AD%A9%E6%BA%BA%E4%BA%A1%E5%85%B6%E4%B8%AD3%E4%BA%BA%E4%BA%B2%E5%85%84%E5%BC%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [多邻国崩了](https://s.weibo.com/weibo?q=%E5%A4%9A%E9%82%BB%E5%9B%BD%E5%B4%A9%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [THE9解散演唱会要来了](https://s.weibo.com/weibo?q=%23THE9%E8%A7%A3%E6%95%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [中国台湾东北附近发生6.7级左右地震](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E4%B8%9C%E5%8C%97%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F6.7%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [东海海域6.4级地震 福建等地有震感](https://www.baidu.com/s?wd=%E4%B8%9C%E6%B5%B7%E6%B5%B7%E5%9F%9F6.4%E7%BA%A7%E5%9C%B0%E9%9C%87+%E7%A6%8F%E5%BB%BA%E7%AD%89%E5%9C%B0%E6%9C%89%E9%9C%87%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大学生蹭酒席随礼100元被指太少](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B9%AD%E9%85%92%E5%B8%AD%E9%9A%8F%E7%A4%BC100%E5%85%83%E8%A2%AB%E6%8C%87%E5%A4%AA%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杜德伟演唱会上将亳州念成毫州](https://www.baidu.com/s?wd=%E6%9D%9C%E5%BE%B7%E4%BC%9F%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%B0%86%E4%BA%B3%E5%B7%9E%E5%BF%B5%E6%88%90%E6%AF%AB%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多地教育部门回应预制菜进校园](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%95%99%E8%82%B2%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E6%A0%A1%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [两男子疑因争座椅在地铁车厢内互殴](https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%96%91%E5%9B%A0%E4%BA%89%E5%BA%A7%E6%A4%85%E5%9C%A8%E5%9C%B0%E9%93%81%E8%BD%A6%E5%8E%A2%E5%86%85%E4%BA%92%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣女子酒吧拼酒后死亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%A7%E6%8B%BC%E9%85%92%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [东海海域6.4级地震 福建等地有震感](https://www.baidu.com/s?wd=%E4%B8%9C%E6%B5%B7%E6%B5%B7%E5%9F%9F6.4%E7%BA%A7%E5%9C%B0%E9%9C%87+%E7%A6%8F%E5%BB%BA%E7%AD%89%E5%9C%B0%E6%9C%89%E9%9C%87%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大学生蹭酒席随礼100元被指太少](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B9%AD%E9%85%92%E5%B8%AD%E9%9A%8F%E7%A4%BC100%E5%85%83%E8%A2%AB%E6%8C%87%E5%A4%AA%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杜德伟演唱会上将亳州念成毫州](https://www.baidu.com/s?wd=%E6%9D%9C%E5%BE%B7%E4%BC%9F%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%B0%86%E4%BA%B3%E5%B7%9E%E5%BF%B5%E6%88%90%E6%AF%AB%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多地教育部门回应预制菜进校园](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%95%99%E8%82%B2%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E6%A0%A1%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [两男子疑因争座椅在地铁车厢内互殴](https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%96%91%E5%9B%A0%E4%BA%89%E5%BA%A7%E6%A4%85%E5%9C%A8%E5%9C%B0%E9%93%81%E8%BD%A6%E5%8E%A2%E5%86%85%E4%BA%92%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣女子酒吧拼酒后死亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%A7%E6%8B%BC%E9%85%92%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
