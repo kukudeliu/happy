@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 16:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 16:32:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [展示共建一带一路的信心](https://s.weibo.com/weibo?q=%23%E5%B1%95%E7%A4%BA%E5%85%B1%E5%BB%BA%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E7%9A%84%E4%BF%A1%E5%BF%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [猪油](https://s.weibo.com/weibo?q=%E7%8C%AA%E6%B2%B9&t=31&band_rank=4&Refer=top)<br />
 5. [演员刘金苹果店前怒摔iPhone](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E5%88%98%E9%87%91%E8%8B%B9%E6%9E%9C%E5%BA%97%E5%89%8D%E6%80%92%E6%91%94iPhone%23&t=31&band_rank=5&Refer=top)<br />
-6. [黑龙江重大刑案嫌疑人徐某被抓获](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E5%BE%90%E6%9F%90%E8%A2%AB%E6%8A%93%E8%8E%B7%23&t=31&band_rank=6&Refer=top)<br />
-7. [二十二](https://s.weibo.com/weibo?q=%E4%BA%8C%E5%8D%81%E4%BA%8C&t=31&band_rank=7&Refer=top)<br />
+6. [二十二](https://s.weibo.com/weibo?q=%E4%BA%8C%E5%8D%81%E4%BA%8C&t=31&band_rank=6&Refer=top)<br />
+7. [黑龙江重大刑案嫌疑人徐某被抓获](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E5%BE%90%E6%9F%90%E8%A2%AB%E6%8A%93%E8%8E%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [731部队用跳蚤感染鼠疫后咬人](https://s.weibo.com/weibo?q=%23731%E9%83%A8%E9%98%9F%E7%94%A8%E8%B7%B3%E8%9A%A4%E6%84%9F%E6%9F%93%E9%BC%A0%E7%96%AB%E5%90%8E%E5%92%AC%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [国庆8天假7个朋友结婚](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%868%E5%A4%A9%E5%81%877%E4%B8%AA%E6%9C%8B%E5%8F%8B%E7%BB%93%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
 
