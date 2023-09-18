@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 14:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 14:55:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [展示共建一带一路的信心](https://s.weibo.com/weibo?q=%23%E5%B1%95%E7%A4%BA%E5%85%B1%E5%BB%BA%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E7%9A%84%E4%BF%A1%E5%BF%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [濒死时会感觉身边多了一个人](https://s.weibo.com/weibo?q=%E6%BF%92%E6%AD%BB%E6%97%B6%E4%BC%9A%E6%84%9F%E8%A7%89%E8%BA%AB%E8%BE%B9%E5%A4%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E4%BA%BA&t=31&band_rank=4&Refer=top)<br />
 5. [鸡精配料表第一位就是味精](https://s.weibo.com/weibo?q=%E9%B8%A1%E7%B2%BE%E9%85%8D%E6%96%99%E8%A1%A8%E7%AC%AC%E4%B8%80%E4%BD%8D%E5%B0%B1%E6%98%AF%E5%91%B3%E7%B2%BE&t=31&band_rank=5&Refer=top)<br />
-6. [中文慢慢失去了加密功能](https://s.weibo.com/weibo?q=%E4%B8%AD%E6%96%87%E6%85%A2%E6%85%A2%E5%A4%B1%E5%8E%BB%E4%BA%86%E5%8A%A0%E5%AF%86%E5%8A%9F%E8%83%BD&t=31&band_rank=6&Refer=top)<br />
-7. [西安交大回应留学生专用垃圾桶事件](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%95%99%E5%AD%A6%E7%94%9F%E4%B8%93%E7%94%A8%E5%9E%83%E5%9C%BE%E6%A1%B6%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
+6. [西安交大回应留学生专用垃圾桶事件](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%95%99%E5%AD%A6%E7%94%9F%E4%B8%93%E7%94%A8%E5%9E%83%E5%9C%BE%E6%A1%B6%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
+7. [中文慢慢失去了加密功能](https://s.weibo.com/weibo?q=%E4%B8%AD%E6%96%87%E6%85%A2%E6%85%A2%E5%A4%B1%E5%8E%BB%E4%BA%86%E5%8A%A0%E5%AF%86%E5%8A%9F%E8%83%BD&t=31&band_rank=7&Refer=top)<br />
 8. [多家国货宣布九一八当天停播](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%9B%BD%E8%B4%A7%E5%AE%A3%E5%B8%83%E4%B9%9D%E4%B8%80%E5%85%AB%E5%BD%93%E5%A4%A9%E5%81%9C%E6%92%AD%23&t=31&band_rank=8&Refer=top)<br />
 9. [防空警报](https://s.weibo.com/weibo?q=%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5&t=31&band_rank=9&Refer=top)<br />
 
@@ -24,7 +24,7 @@
 5. [曝中学多名教师吃空饷 校方通报](https://www.baidu.com/s?wd=%E6%9B%9D%E4%B8%AD%E5%AD%A6%E5%A4%9A%E5%90%8D%E6%95%99%E5%B8%88%E5%90%83%E7%A9%BA%E9%A5%B7+%E6%A0%A1%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [出现女性猴痘感染者意味着什么](https://www.baidu.com/s?wd=%E5%87%BA%E7%8E%B0%E5%A5%B3%E6%80%A7%E7%8C%B4%E7%97%98%E6%84%9F%E6%9F%93%E8%80%85%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子看热闹金手镯被人剪断险被偷](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%9C%8B%E7%83%AD%E9%97%B9%E9%87%91%E6%89%8B%E9%95%AF%E8%A2%AB%E4%BA%BA%E5%89%AA%E6%96%AD%E9%99%A9%E8%A2%AB%E5%81%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国2架飞机降落时相撞致2死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD2%E6%9E%B6%E9%A3%9E%E6%9C%BA%E9%99%8D%E8%90%BD%E6%97%B6%E7%9B%B8%E6%92%9E%E8%87%B42%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [731部队标本室有腹中胎儿标本](https://www.baidu.com/s?wd=731%E9%83%A8%E9%98%9F%E6%A0%87%E6%9C%AC%E5%AE%A4%E6%9C%89%E8%85%B9%E4%B8%AD%E8%83%8E%E5%84%BF%E6%A0%87%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中国工程院辟谣将创办大学](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%99%A2%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%88%9B%E5%8A%9E%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [曝中学多名教师吃空饷 校方通报](https://www.baidu.com/s?wd=%E6%9B%9D%E4%B8%AD%E5%AD%A6%E5%A4%9A%E5%90%8D%E6%95%99%E5%B8%88%E5%90%83%E7%A9%BA%E9%A5%B7+%E6%A0%A1%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [出现女性猴痘感染者意味着什么](https://www.baidu.com/s?wd=%E5%87%BA%E7%8E%B0%E5%A5%B3%E6%80%A7%E7%8C%B4%E7%97%98%E6%84%9F%E6%9F%93%E8%80%85%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子看热闹金手镯被人剪断险被偷](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%9C%8B%E7%83%AD%E9%97%B9%E9%87%91%E6%89%8B%E9%95%AF%E8%A2%AB%E4%BA%BA%E5%89%AA%E6%96%AD%E9%99%A9%E8%A2%AB%E5%81%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国2架飞机降落时相撞致2死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD2%E6%9E%B6%E9%A3%9E%E6%9C%BA%E9%99%8D%E8%90%BD%E6%97%B6%E7%9B%B8%E6%92%9E%E8%87%B42%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [731部队标本室有腹中胎儿标本](https://www.baidu.com/s?wd=731%E9%83%A8%E9%98%9F%E6%A0%87%E6%9C%AC%E5%AE%A4%E6%9C%89%E8%85%B9%E4%B8%AD%E8%83%8E%E5%84%BF%E6%A0%87%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中国工程院辟谣将创办大学](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%99%A2%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%88%9B%E5%8A%9E%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
