@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 00:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 00:37:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [导师在太空开了门实验课](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E5%B8%88%E5%9C%A8%E5%A4%AA%E7%A9%BA%E5%BC%80%E4%BA%86%E9%97%A8%E5%AE%9E%E9%AA%8C%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [多邻国崩了](https://s.weibo.com/weibo?q=%E5%A4%9A%E9%82%BB%E5%9B%BD%E5%B4%A9%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [居然有人把飘窗做成了洗脚池](https://s.weibo.com/weibo?q=%23%E5%B1%85%E7%84%B6%E6%9C%89%E4%BA%BA%E6%8A%8A%E9%A3%98%E7%AA%97%E5%81%9A%E6%88%90%E4%BA%86%E6%B4%97%E8%84%9A%E6%B1%A0%23&t=31&band_rank=5&Refer=top)<br />
-6. [七点以后禁食带给我的变化](https://s.weibo.com/weibo?q=%E4%B8%83%E7%82%B9%E4%BB%A5%E5%90%8E%E7%A6%81%E9%A3%9F%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E5%8F%98%E5%8C%96&t=31&band_rank=6&Refer=top)<br />
-7. [大学生蹭酒席随礼100元被指太少](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B9%AD%E9%85%92%E5%B8%AD%E9%9A%8F%E7%A4%BC100%E5%85%83%E8%A2%AB%E6%8C%87%E5%A4%AA%E5%B0%91%23&t=31&band_rank=7&Refer=top)<br />
+6. [大学生蹭酒席随礼100元被指太少](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B9%AD%E9%85%92%E5%B8%AD%E9%9A%8F%E7%A4%BC100%E5%85%83%E8%A2%AB%E6%8C%87%E5%A4%AA%E5%B0%91%23&t=31&band_rank=6&Refer=top)<br />
+7. [七点以后禁食带给我的变化](https://s.weibo.com/weibo?q=%E4%B8%83%E7%82%B9%E4%BB%A5%E5%90%8E%E7%A6%81%E9%A3%9F%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E5%8F%98%E5%8C%96&t=31&band_rank=7&Refer=top)<br />
 8. [白敬亭这令人震撼的大脑](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%BF%99%E4%BB%A4%E4%BA%BA%E9%9C%87%E6%92%BC%E7%9A%84%E5%A4%A7%E8%84%91%23&t=31&band_rank=8&Refer=top)<br />
 9. [THE9解散演唱会要来了](https://s.weibo.com/weibo?q=%23THE9%E8%A7%A3%E6%95%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -23,7 +23,7 @@
 4. [杭州亚运会开幕式预告片放送](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E9%A2%84%E5%91%8A%E7%89%87%E6%94%BE%E9%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [医生收患者家属1箱奶打开是4万现金](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E6%94%B6%E6%82%A3%E8%80%85%E5%AE%B6%E5%B1%9E1%E7%AE%B1%E5%A5%B6%E6%89%93%E5%BC%80%E6%98%AF4%E4%B8%87%E7%8E%B0%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [房地产税立法暂缓](https://www.baidu.com/s?wd=%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%A8%8E%E7%AB%8B%E6%B3%95%E6%9A%82%E7%BC%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小伙误把奶茶赠品雪花膏当雪糕吃](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%AF%AF%E6%8A%8A%E5%A5%B6%E8%8C%B6%E8%B5%A0%E5%93%81%E9%9B%AA%E8%8A%B1%E8%86%8F%E5%BD%93%E9%9B%AA%E7%B3%95%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [伍佰说你们25岁为什么会听我的歌](https://www.baidu.com/s?wd=%E4%BC%8D%E4%BD%B0%E8%AF%B4%E4%BD%A0%E4%BB%AC25%E5%B2%81%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%90%AC%E6%88%91%E7%9A%84%E6%AD%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [东海海域6.4级地震 福建等地有震感](https://www.baidu.com/s?wd=%E4%B8%9C%E6%B5%B7%E6%B5%B7%E5%9F%9F6.4%E7%BA%A7%E5%9C%B0%E9%9C%87+%E7%A6%8F%E5%BB%BA%E7%AD%89%E5%9C%B0%E6%9C%89%E9%9C%87%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣女子酒吧拼酒后死亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%A7%E6%8B%BC%E9%85%92%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [杭州亚运会开幕式预告片放送](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E9%A2%84%E5%91%8A%E7%89%87%E6%94%BE%E9%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [医生收患者家属1箱奶打开是4万现金](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E6%94%B6%E6%82%A3%E8%80%85%E5%AE%B6%E5%B1%9E1%E7%AE%B1%E5%A5%B6%E6%89%93%E5%BC%80%E6%98%AF4%E4%B8%87%E7%8E%B0%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [房地产税立法暂缓](https://www.baidu.com/s?wd=%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%A8%8E%E7%AB%8B%E6%B3%95%E6%9A%82%E7%BC%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小伙误把奶茶赠品雪花膏当雪糕吃](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%AF%AF%E6%8A%8A%E5%A5%B6%E8%8C%B6%E8%B5%A0%E5%93%81%E9%9B%AA%E8%8A%B1%E8%86%8F%E5%BD%93%E9%9B%AA%E7%B3%95%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [伍佰说你们25岁为什么会听我的歌](https://www.baidu.com/s?wd=%E4%BC%8D%E4%BD%B0%E8%AF%B4%E4%BD%A0%E4%BB%AC25%E5%B2%81%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%90%AC%E6%88%91%E7%9A%84%E6%AD%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [东海海域6.4级地震 福建等地有震感](https://www.baidu.com/s?wd=%E4%B8%9C%E6%B5%B7%E6%B5%B7%E5%9F%9F6.4%E7%BA%A7%E5%9C%B0%E9%9C%87+%E7%A6%8F%E5%BB%BA%E7%AD%89%E5%9C%B0%E6%9C%89%E9%9C%87%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣女子酒吧拼酒后死亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%A7%E6%8B%BC%E9%85%92%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
