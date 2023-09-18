@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 17:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 17:10:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [美国没资格对中国禁毒努力说三道四](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B2%A1%E8%B5%84%E6%A0%BC%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%A6%81%E6%AF%92%E5%8A%AA%E5%8A%9B%E8%AF%B4%E4%B8%89%E9%81%93%E5%9B%9B%23&t=31&band_rank=2&Refer=top)<br />
 3. [展示共建一带一路的信心](https://s.weibo.com/weibo?q=%23%E5%B1%95%E7%A4%BA%E5%85%B1%E5%BB%BA%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E7%9A%84%E4%BF%A1%E5%BF%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [猪油](https://s.weibo.com/weibo?q=%E7%8C%AA%E6%B2%B9&t=31&band_rank=4&Refer=top)<br />
-5. [刘亚仁强行让随行人员吸毒](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%9A%E4%BB%81%E5%BC%BA%E8%A1%8C%E8%AE%A9%E9%9A%8F%E8%A1%8C%E4%BA%BA%E5%91%98%E5%90%B8%E6%AF%92%23&t=31&band_rank=5&Refer=top)<br />
-6. [演员刘金苹果店前怒摔iPhone](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E5%88%98%E9%87%91%E8%8B%B9%E6%9E%9C%E5%BA%97%E5%89%8D%E6%80%92%E6%91%94iPhone%23&t=31&band_rank=6&Refer=top)<br />
+5. [演员刘金苹果店前怒摔iPhone](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E5%88%98%E9%87%91%E8%8B%B9%E6%9E%9C%E5%BA%97%E5%89%8D%E6%80%92%E6%91%94iPhone%23&t=31&band_rank=5&Refer=top)<br />
+6. [刘亚仁强行让随行人员吸毒](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%9A%E4%BB%81%E5%BC%BA%E8%A1%8C%E8%AE%A9%E9%9A%8F%E8%A1%8C%E4%BA%BA%E5%91%98%E5%90%B8%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [二十二](https://s.weibo.com/weibo?q=%E4%BA%8C%E5%8D%81%E4%BA%8C&t=31&band_rank=7&Refer=top)<br />
 8. [731部队用跳蚤感染鼠疫后咬人](https://s.weibo.com/weibo?q=%23731%E9%83%A8%E9%98%9F%E7%94%A8%E8%B7%B3%E8%9A%A4%E6%84%9F%E6%9F%93%E9%BC%A0%E7%96%AB%E5%90%8E%E5%92%AC%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [国庆8天假7个朋友结婚](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%868%E5%A4%A9%E5%81%877%E4%B8%AA%E6%9C%8B%E5%8F%8B%E7%BB%93%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
