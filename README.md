@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 13:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 13:13:01</h4></div>
 
 > 微博  
 
-1. [我国首次报告5例女性猴痘病例](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E6%8A%A5%E5%91%8A5%E4%BE%8B%E5%A5%B3%E6%80%A7%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23&t=31&band_rank=1&Refer=top)<br />
-2. [中文慢慢失去了加密功能](https://s.weibo.com/weibo?q=%E4%B8%AD%E6%96%87%E6%85%A2%E6%85%A2%E5%A4%B1%E5%8E%BB%E4%BA%86%E5%8A%A0%E5%AF%86%E5%8A%9F%E8%83%BD&t=31&band_rank=2&Refer=top)<br />
+1. [中文慢慢失去了加密功能](https://s.weibo.com/weibo?q=%E4%B8%AD%E6%96%87%E6%85%A2%E6%85%A2%E5%A4%B1%E5%8E%BB%E4%BA%86%E5%8A%A0%E5%AF%86%E5%8A%9F%E8%83%BD&t=31&band_rank=1&Refer=top)<br />
+2. [我国首次报告5例女性猴痘病例](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E6%8A%A5%E5%91%8A5%E4%BE%8B%E5%A5%B3%E6%80%A7%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23&t=31&band_rank=2&Refer=top)<br />
 3. [展示共建一带一路的信心](https://s.weibo.com/weibo?q=%23%E5%B1%95%E7%A4%BA%E5%85%B1%E5%BB%BA%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E7%9A%84%E4%BF%A1%E5%BF%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [李在明器官因绝食严重受损](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%99%A8%E5%AE%98%E5%9B%A0%E7%BB%9D%E9%A3%9F%E4%B8%A5%E9%87%8D%E5%8F%97%E6%8D%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [多家国货宣布九一八当天停播](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%9B%BD%E8%B4%A7%E5%AE%A3%E5%B8%83%E4%B9%9D%E4%B8%80%E5%85%AB%E5%BD%93%E5%A4%A9%E5%81%9C%E6%92%AD%23&t=31&band_rank=5&Refer=top)<br />
