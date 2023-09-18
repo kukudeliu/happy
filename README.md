@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 09:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 09:02:01</h4></div>
 
 > 微博  
 
-1. [918](https://s.weibo.com/weibo?q=918&t=31&band_rank=1&Refer=top)<br />
-2. [李在明绝食第19天健康恶化被送医](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%BB%9D%E9%A3%9F%E7%AC%AC19%E5%A4%A9%E5%81%A5%E5%BA%B7%E6%81%B6%E5%8C%96%E8%A2%AB%E9%80%81%E5%8C%BB%23&t=31&band_rank=2&Refer=top)<br />
+1. [李在明绝食第19天健康恶化被送医](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%BB%9D%E9%A3%9F%E7%AC%AC19%E5%A4%A9%E5%81%A5%E5%BA%B7%E6%81%B6%E5%8C%96%E8%A2%AB%E9%80%81%E5%8C%BB%23&t=31&band_rank=1&Refer=top)<br />
+2. [918](https://s.weibo.com/weibo?q=918&t=31&band_rank=2&Refer=top)<br />
 3. [我国科学家研发出新型稀土开采技术](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A0%94%E5%8F%91%E5%87%BA%E6%96%B0%E5%9E%8B%E7%A8%80%E5%9C%9F%E5%BC%80%E9%87%87%E6%8A%80%E6%9C%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [磨牙的原因](https://s.weibo.com/weibo?q=%23%E7%A3%A8%E7%89%99%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=4&Refer=top)<br />
 5. [新郎开迈巴赫扮猪八戒接新娘](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E5%BC%80%E8%BF%88%E5%B7%B4%E8%B5%AB%E6%89%AE%E7%8C%AA%E5%85%AB%E6%88%92%E6%8E%A5%E6%96%B0%E5%A8%98%23&t=31&band_rank=5&Refer=top)<br />
