@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 19:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 20:00:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [300亩农田变垃圾场 银川成立调查组](https://www.baidu.com/s?wd=300%E4%BA%A9%E5%86%9C%E7%94%B0%E5%8F%98%E5%9E%83%E5%9C%BE%E5%9C%BA+%E9%93%B6%E5%B7%9D%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子求爱被拒换号骚扰女方2年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B1%82%E7%88%B1%E8%A2%AB%E6%8B%92%E6%8D%A2%E5%8F%B7%E9%AA%9A%E6%89%B0%E5%A5%B3%E6%96%B92%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄外长：美国实质上已在对俄作战](https://www.baidu.com/s?wd=%E4%BF%84%E5%A4%96%E9%95%BF%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%AE%9E%E8%B4%A8%E4%B8%8A%E5%B7%B2%E5%9C%A8%E5%AF%B9%E4%BF%84%E4%BD%9C%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [莲花味精配料表只有小麦](https://www.baidu.com/s?wd=%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%E9%85%8D%E6%96%99%E8%A1%A8%E5%8F%AA%E6%9C%89%E5%B0%8F%E9%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [海南澄迈一高中生跳楼后不治身亡](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E6%BE%84%E8%BF%88%E4%B8%80%E9%AB%98%E4%B8%AD%E7%94%9F%E8%B7%B3%E6%A5%BC%E5%90%8E%E4%B8%8D%E6%B2%BB%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣西安出现拐骗儿童情况](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%A5%BF%E5%AE%89%E5%87%BA%E7%8E%B0%E6%8B%90%E9%AA%97%E5%84%BF%E7%AB%A5%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [300亩农田变垃圾场 银川成立调查组](https://www.baidu.com/s?wd=300%E4%BA%A9%E5%86%9C%E7%94%B0%E5%8F%98%E5%9E%83%E5%9C%BE%E5%9C%BA+%E9%93%B6%E5%B7%9D%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子求爱被拒换号骚扰女方2年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B1%82%E7%88%B1%E8%A2%AB%E6%8B%92%E6%8D%A2%E5%8F%B7%E9%AA%9A%E6%89%B0%E5%A5%B3%E6%96%B92%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄外长：美国实质上已在对俄作战](https://www.baidu.com/s?wd=%E4%BF%84%E5%A4%96%E9%95%BF%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%AE%9E%E8%B4%A8%E4%B8%8A%E5%B7%B2%E5%9C%A8%E5%AF%B9%E4%BF%84%E4%BD%9C%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [莲花味精配料表只有小麦](https://www.baidu.com/s?wd=%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%E9%85%8D%E6%96%99%E8%A1%A8%E5%8F%AA%E6%9C%89%E5%B0%8F%E9%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [海南澄迈一高中生跳楼后不治身亡](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E6%BE%84%E8%BF%88%E4%B8%80%E9%AB%98%E4%B8%AD%E7%94%9F%E8%B7%B3%E6%A5%BC%E5%90%8E%E4%B8%8D%E6%B2%BB%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣西安出现拐骗儿童情况](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%A5%BF%E5%AE%89%E5%87%BA%E7%8E%B0%E6%8B%90%E9%AA%97%E5%84%BF%E7%AB%A5%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
