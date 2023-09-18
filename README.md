@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 09:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 09:19:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [磨牙的原因](https://s.weibo.com/weibo?q=%23%E7%A3%A8%E7%89%99%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [九一八事变爆发92周年](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E5%8F%98%E7%88%86%E5%8F%9192%E5%91%A8%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [医生一眼认出9旬患者相拥落泪](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA9%E6%97%AC%E6%82%A3%E8%80%85%E7%9B%B8%E6%8B%A5%E8%90%BD%E6%B3%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [黑龙江发生重大刑案](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [每个人都该铭记九一八](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E8%AF%A5%E9%93%AD%E8%AE%B0%E4%B9%9D%E4%B8%80%E5%85%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
