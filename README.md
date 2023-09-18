@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 13:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 13:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李在明器官因绝食严重受损](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%99%A8%E5%AE%98%E5%9B%A0%E7%BB%9D%E9%A3%9F%E4%B8%A5%E9%87%8D%E5%8F%97%E6%8D%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [莲花味精 谣言](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%20%E8%B0%A3%E8%A8%80&t=31&band_rank=7&Refer=top)<br />
 8. [918](https://s.weibo.com/weibo?q=%23918%23&t=31&band_rank=8&Refer=top)<br />
-9. [父母离异男孩被弃车站哭泣民警出手](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E7%A6%BB%E5%BC%82%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%BC%83%E8%BD%A6%E7%AB%99%E5%93%AD%E6%B3%A3%E6%B0%91%E8%AD%A6%E5%87%BA%E6%89%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [国庆8天假7个朋友结婚](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%868%E5%A4%A9%E5%81%877%E4%B8%AA%E6%9C%8B%E5%8F%8B%E7%BB%93%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
