@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 16:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 16:52:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [感受创新魅力 提升科学素养](https://www.baidu.com/s?wd=%E6%84%9F%E5%8F%97%E5%88%9B%E6%96%B0%E9%AD%85%E5%8A%9B+%E6%8F%90%E5%8D%87%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [演员刘金苹果店前怒砸iPhone](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E5%88%98%E9%87%91%E8%8B%B9%E6%9E%9C%E5%BA%97%E5%89%8D%E6%80%92%E7%A0%B8iPhone&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [13岁男孩花318元烫发 家长报警](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%8A%B1318%E5%85%83%E7%83%AB%E5%8F%91+%E5%AE%B6%E9%95%BF%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杨鸣下课后首度发声](https://www.baidu.com/s?wd=%E6%9D%A8%E9%B8%A3%E4%B8%8B%E8%AF%BE%E5%90%8E%E9%A6%96%E5%BA%A6%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夫妻偷渡到缅北后因业绩太差被打](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%81%B7%E6%B8%A1%E5%88%B0%E7%BC%85%E5%8C%97%E5%90%8E%E5%9B%A0%E4%B8%9A%E7%BB%A9%E5%A4%AA%E5%B7%AE%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [夫妻偷渡到缅北后因业绩太差被打](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%81%B7%E6%B8%A1%E5%88%B0%E7%BC%85%E5%8C%97%E5%90%8E%E5%9B%A0%E4%B8%9A%E7%BB%A9%E5%A4%AA%E5%B7%AE%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [她拐卖11个孩子 亲儿子都没放过](https://www.baidu.com/s?wd=%E5%A5%B9%E6%8B%90%E5%8D%9611%E4%B8%AA%E5%AD%A9%E5%AD%90+%E4%BA%B2%E5%84%BF%E5%AD%90%E9%83%BD%E6%B2%A1%E6%94%BE%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中国工程院辟谣将创办大学](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%99%A2%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%88%9B%E5%8A%9E%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [感受创新魅力 提升科学素养](https://www.baidu.com/s?wd=%E6%84%9F%E5%8F%97%E5%88%9B%E6%96%B0%E9%AD%85%E5%8A%9B+%E6%8F%90%E5%8D%87%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [演员刘金苹果店前怒砸iPhone](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E5%88%98%E9%87%91%E8%8B%B9%E6%9E%9C%E5%BA%97%E5%89%8D%E6%80%92%E7%A0%B8iPhone&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [13岁男孩花318元烫发 家长报警](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%8A%B1318%E5%85%83%E7%83%AB%E5%8F%91+%E5%AE%B6%E9%95%BF%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杨鸣下课后首度发声](https://www.baidu.com/s?wd=%E6%9D%A8%E9%B8%A3%E4%B8%8B%E8%AF%BE%E5%90%8E%E9%A6%96%E5%BA%A6%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夫妻偷渡到缅北后因业绩太差被打](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%81%B7%E6%B8%A1%E5%88%B0%E7%BC%85%E5%8C%97%E5%90%8E%E5%9B%A0%E4%B8%9A%E7%BB%A9%E5%A4%AA%E5%B7%AE%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [夫妻偷渡到缅北后因业绩太差被打](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%81%B7%E6%B8%A1%E5%88%B0%E7%BC%85%E5%8C%97%E5%90%8E%E5%9B%A0%E4%B8%9A%E7%BB%A9%E5%A4%AA%E5%B7%AE%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [她拐卖11个孩子 亲儿子都没放过](https://www.baidu.com/s?wd=%E5%A5%B9%E6%8B%90%E5%8D%9611%E4%B8%AA%E5%AD%A9%E5%AD%90+%E4%BA%B2%E5%84%BF%E5%AD%90%E9%83%BD%E6%B2%A1%E6%94%BE%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中国工程院辟谣将创办大学](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%99%A2%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%88%9B%E5%8A%9E%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
