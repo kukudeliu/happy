@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 22:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 22:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [奇强董事长在直播间哭了](https://s.weibo.com/weibo?q=%23%E5%A5%87%E5%BC%BA%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9C%A8%E7%9B%B4%E6%92%AD%E9%97%B4%E5%93%AD%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [麻辣王子好吃](https://s.weibo.com/weibo?q=%E9%BA%BB%E8%BE%A3%E7%8E%8B%E5%AD%90%E5%A5%BD%E5%90%83&t=31&band_rank=7&Refer=top)<br />
 8. [七点以后禁食带给我的变化](https://s.weibo.com/weibo?q=%E4%B8%83%E7%82%B9%E4%BB%A5%E5%90%8E%E7%A6%81%E9%A3%9F%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E5%8F%98%E5%8C%96&t=31&band_rank=8&Refer=top)<br />
-9. [演员刘金拒绝展示iPhone购买记录](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E5%88%98%E9%87%91%E6%8B%92%E7%BB%9D%E5%B1%95%E7%A4%BAiPhone%E8%B4%AD%E4%B9%B0%E8%AE%B0%E5%BD%95%23&t=31&band_rank=9&Refer=top)<br />
+9. [梁静茹 倒嗓](https://s.weibo.com/weibo?q=%E6%A2%81%E9%9D%99%E8%8C%B9%20%E5%80%92%E5%97%93&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
