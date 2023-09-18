@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 22:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 22:38:01</h4></div>
 
 > 微博  
 
-1. [中国台湾东北附近发生6.7级左右地震](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E4%B8%9C%E5%8C%97%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F6.7%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [4名男孩溺亡其中3人亲兄弟](https://s.weibo.com/weibo?q=%234%E5%90%8D%E7%94%B7%E5%AD%A9%E6%BA%BA%E4%BA%A1%E5%85%B6%E4%B8%AD3%E4%BA%BA%E4%BA%B2%E5%85%84%E5%BC%9F%23&t=31&band_rank=2&Refer=top)<br />
+1. [4名男孩溺亡其中3人亲兄弟](https://s.weibo.com/weibo?q=%234%E5%90%8D%E7%94%B7%E5%AD%A9%E6%BA%BA%E4%BA%A1%E5%85%B6%E4%B8%AD3%E4%BA%BA%E4%BA%B2%E5%85%84%E5%BC%9F%23&t=31&band_rank=1&Refer=top)<br />
+2. [中国台湾东北附近发生6.7级左右地震](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E4%B8%9C%E5%8C%97%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F6.7%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [导师在太空开了门实验课](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E5%B8%88%E5%9C%A8%E5%A4%AA%E7%A9%BA%E5%BC%80%E4%BA%86%E9%97%A8%E5%AE%9E%E9%AA%8C%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [居然有人把飘窗做成了洗脚池](https://s.weibo.com/weibo?q=%23%E5%B1%85%E7%84%B6%E6%9C%89%E4%BA%BA%E6%8A%8A%E9%A3%98%E7%AA%97%E5%81%9A%E6%88%90%E4%BA%86%E6%B4%97%E8%84%9A%E6%B1%A0%23&t=31&band_rank=4&Refer=top)<br />
 5. [THE9解散演唱会要来了](https://s.weibo.com/weibo?q=%23THE9%E8%A7%A3%E6%95%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
