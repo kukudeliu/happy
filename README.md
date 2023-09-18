@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 22:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 22:19:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [杭州亚运会开幕式预告片放送](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E9%A2%84%E5%91%8A%E7%89%87%E6%94%BE%E9%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国企3亿买无人机后续：合同已解除](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%813%E4%BA%BF%E4%B9%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8E%E7%BB%AD%EF%BC%9A%E5%90%88%E5%90%8C%E5%B7%B2%E8%A7%A3%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大学生蹭酒席随礼100元被指太少](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B9%AD%E9%85%92%E5%B8%AD%E9%9A%8F%E7%A4%BC100%E5%85%83%E8%A2%AB%E6%8C%87%E5%A4%AA%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子自拍“酒驾”视频炫耀被行拘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E6%8B%8D%E2%80%9C%E9%85%92%E9%A9%BE%E2%80%9D%E8%A7%86%E9%A2%91%E7%82%AB%E8%80%80%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [湛江4名男孩溺水身亡 3人是亲兄弟](https://www.baidu.com/s?wd=%E6%B9%9B%E6%B1%9F4%E5%90%8D%E7%94%B7%E5%AD%A9%E6%BA%BA%E6%B0%B4%E8%BA%AB%E4%BA%A1+3%E4%BA%BA%E6%98%AF%E4%BA%B2%E5%85%84%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [湛江4名男孩溺水身亡 3人是亲兄弟](https://www.baidu.com/s?wd=%E6%B9%9B%E6%B1%9F4%E5%90%8D%E7%94%B7%E5%AD%A9%E6%BA%BA%E6%B0%B4%E8%BA%AB%E4%BA%A1+3%E4%BA%BA%E6%98%AF%E4%BA%B2%E5%85%84%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [演员刘金拒绝展示iPhone购买记录](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E5%88%98%E9%87%91%E6%8B%92%E7%BB%9D%E5%B1%95%E7%A4%BAiPhone%E8%B4%AD%E4%B9%B0%E8%AE%B0%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣女子酒吧拼酒后死亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%A7%E6%8B%BC%E9%85%92%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [杭州亚运会开幕式预告片放送](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E9%A2%84%E5%91%8A%E7%89%87%E6%94%BE%E9%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国企3亿买无人机后续：合同已解除](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%813%E4%BA%BF%E4%B9%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8E%E7%BB%AD%EF%BC%9A%E5%90%88%E5%90%8C%E5%B7%B2%E8%A7%A3%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大学生蹭酒席随礼100元被指太少](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B9%AD%E9%85%92%E5%B8%AD%E9%9A%8F%E7%A4%BC100%E5%85%83%E8%A2%AB%E6%8C%87%E5%A4%AA%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子自拍“酒驾”视频炫耀被行拘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E6%8B%8D%E2%80%9C%E9%85%92%E9%A9%BE%E2%80%9D%E8%A7%86%E9%A2%91%E7%82%AB%E8%80%80%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [湛江4名男孩溺水身亡 3人是亲兄弟](https://www.baidu.com/s?wd=%E6%B9%9B%E6%B1%9F4%E5%90%8D%E7%94%B7%E5%AD%A9%E6%BA%BA%E6%B0%B4%E8%BA%AB%E4%BA%A1+3%E4%BA%BA%E6%98%AF%E4%BA%B2%E5%85%84%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [湛江4名男孩溺水身亡 3人是亲兄弟](https://www.baidu.com/s?wd=%E6%B9%9B%E6%B1%9F4%E5%90%8D%E7%94%B7%E5%AD%A9%E6%BA%BA%E6%B0%B4%E8%BA%AB%E4%BA%A1+3%E4%BA%BA%E6%98%AF%E4%BA%B2%E5%85%84%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [演员刘金拒绝展示iPhone购买记录](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E5%88%98%E9%87%91%E6%8B%92%E7%BB%9D%E5%B1%95%E7%A4%BAiPhone%E8%B4%AD%E4%B9%B0%E8%AE%B0%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣女子酒吧拼酒后死亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%A7%E6%8B%BC%E9%85%92%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
