@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 22:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 22:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [THE9解散演唱会要来了](https://s.weibo.com/weibo?q=%23THE9%E8%A7%A3%E6%95%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国台湾东北附近发生6.7级左右地震](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E4%B8%9C%E5%8C%97%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F6.7%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [七点以后禁食带给我的变化](https://s.weibo.com/weibo?q=%E4%B8%83%E7%82%B9%E4%BB%A5%E5%90%8E%E7%A6%81%E9%A3%9F%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E5%8F%98%E5%8C%96&t=31&band_rank=8&Refer=top)<br />
-9. [莲花味精放弃低成本味精研发专利权](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%E6%94%BE%E5%BC%83%E4%BD%8E%E6%88%90%E6%9C%AC%E5%91%B3%E7%B2%BE%E7%A0%94%E5%8F%91%E4%B8%93%E5%88%A9%E6%9D%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [伍佰 25岁为什么听我的歌呢](https://s.weibo.com/weibo?q=%E4%BC%8D%E4%BD%B0%2025%E5%B2%81%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%AC%E6%88%91%E7%9A%84%E6%AD%8C%E5%91%A2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
