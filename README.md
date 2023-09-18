@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 17:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 17:09:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [展江南韵 扬中华魂](https://www.baidu.com/s?wd=%E5%B1%95%E6%B1%9F%E5%8D%97%E9%9F%B5+%E6%89%AC%E4%B8%AD%E5%8D%8E%E9%AD%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [中方回应解放军军机在台海周边活动](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%9C%BA%E5%9C%A8%E5%8F%B0%E6%B5%B7%E5%91%A8%E8%BE%B9%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [银川西夏300多亩农田变垃圾场](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E8%A5%BF%E5%A4%8F300%E5%A4%9A%E4%BA%A9%E5%86%9C%E7%94%B0%E5%8F%98%E5%9E%83%E5%9C%BE%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [银川西夏300多亩农田变垃圾场](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E8%A5%BF%E5%A4%8F300%E5%A4%9A%E4%BA%A9%E5%86%9C%E7%94%B0%E5%8F%98%E5%9E%83%E5%9C%BE%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [学生没三角板被老师质问“家里穷”](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%B2%A1%E4%B8%89%E8%A7%92%E6%9D%BF%E8%A2%AB%E8%80%81%E5%B8%88%E8%B4%A8%E9%97%AE%E2%80%9C%E5%AE%B6%E9%87%8C%E7%A9%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [感受创新魅力 提升科学素养](https://www.baidu.com/s?wd=%E6%84%9F%E5%8F%97%E5%88%9B%E6%96%B0%E9%AD%85%E5%8A%9B+%E6%8F%90%E5%8D%87%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [演员刘金苹果店前怒砸iPhone](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E5%88%98%E9%87%91%E8%8B%B9%E6%9E%9C%E5%BA%97%E5%89%8D%E6%80%92%E7%A0%B8iPhone&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [13岁男孩花318元烫发 家长报警](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%8A%B1318%E5%85%83%E7%83%AB%E5%8F%91+%E5%AE%B6%E9%95%BF%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [学生没三角板被老师质问“家里穷”](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%B2%A1%E4%B8%89%E8%A7%92%E6%9D%BF%E8%A2%AB%E8%80%81%E5%B8%88%E8%B4%A8%E9%97%AE%E2%80%9C%E5%AE%B6%E9%87%8C%E7%A9%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [731部队标本室有腹中胎儿标本](https://www.baidu.com/s?wd=731%E9%83%A8%E9%98%9F%E6%A0%87%E6%9C%AC%E5%AE%A4%E6%9C%89%E8%85%B9%E4%B8%AD%E8%83%8E%E5%84%BF%E6%A0%87%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [歌手将亳州念成毫州被当场纠正](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E5%B0%86%E4%BA%B3%E5%B7%9E%E5%BF%B5%E6%88%90%E6%AF%AB%E5%B7%9E%E8%A2%AB%E5%BD%93%E5%9C%BA%E7%BA%A0%E6%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [出现女性猴痘感染者意味着什么](https://www.baidu.com/s?wd=%E5%87%BA%E7%8E%B0%E5%A5%B3%E6%80%A7%E7%8C%B4%E7%97%98%E6%84%9F%E6%9F%93%E8%80%85%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中国工程院辟谣将创办大学](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%99%A2%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%88%9B%E5%8A%9E%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [展江南韵 扬中华魂](https://www.baidu.com/s?wd=%E5%B1%95%E6%B1%9F%E5%8D%97%E9%9F%B5+%E6%89%AC%E4%B8%AD%E5%8D%8E%E9%AD%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [中方回应解放军军机在台海周边活动](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%9C%BA%E5%9C%A8%E5%8F%B0%E6%B5%B7%E5%91%A8%E8%BE%B9%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [银川西夏300多亩农田变垃圾场](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E8%A5%BF%E5%A4%8F300%E5%A4%9A%E4%BA%A9%E5%86%9C%E7%94%B0%E5%8F%98%E5%9E%83%E5%9C%BE%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [银川西夏300多亩农田变垃圾场](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E8%A5%BF%E5%A4%8F300%E5%A4%9A%E4%BA%A9%E5%86%9C%E7%94%B0%E5%8F%98%E5%9E%83%E5%9C%BE%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [学生没三角板被老师质问“家里穷”](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%B2%A1%E4%B8%89%E8%A7%92%E6%9D%BF%E8%A2%AB%E8%80%81%E5%B8%88%E8%B4%A8%E9%97%AE%E2%80%9C%E5%AE%B6%E9%87%8C%E7%A9%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [感受创新魅力 提升科学素养](https://www.baidu.com/s?wd=%E6%84%9F%E5%8F%97%E5%88%9B%E6%96%B0%E9%AD%85%E5%8A%9B+%E6%8F%90%E5%8D%87%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [演员刘金苹果店前怒砸iPhone](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E5%88%98%E9%87%91%E8%8B%B9%E6%9E%9C%E5%BA%97%E5%89%8D%E6%80%92%E7%A0%B8iPhone&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [13岁男孩花318元烫发 家长报警](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%8A%B1318%E5%85%83%E7%83%AB%E5%8F%91+%E5%AE%B6%E9%95%BF%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [学生没三角板被老师质问“家里穷”](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E6%B2%A1%E4%B8%89%E8%A7%92%E6%9D%BF%E8%A2%AB%E8%80%81%E5%B8%88%E8%B4%A8%E9%97%AE%E2%80%9C%E5%AE%B6%E9%87%8C%E7%A9%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [731部队标本室有腹中胎儿标本](https://www.baidu.com/s?wd=731%E9%83%A8%E9%98%9F%E6%A0%87%E6%9C%AC%E5%AE%A4%E6%9C%89%E8%85%B9%E4%B8%AD%E8%83%8E%E5%84%BF%E6%A0%87%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [歌手将亳州念成毫州被当场纠正](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E5%B0%86%E4%BA%B3%E5%B7%9E%E5%BF%B5%E6%88%90%E6%AF%AB%E5%B7%9E%E8%A2%AB%E5%BD%93%E5%9C%BA%E7%BA%A0%E6%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [出现女性猴痘感染者意味着什么](https://www.baidu.com/s?wd=%E5%87%BA%E7%8E%B0%E5%A5%B3%E6%80%A7%E7%8C%B4%E7%97%98%E6%84%9F%E6%9F%93%E8%80%85%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中国工程院辟谣将创办大学](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%99%A2%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%88%9B%E5%8A%9E%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
