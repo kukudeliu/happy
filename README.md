@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 10:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 10:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [九一八事变爆发92周年](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E5%8F%98%E7%88%86%E5%8F%9192%E5%91%A8%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [每个人都该铭记九一八](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E8%AF%A5%E9%93%AD%E8%AE%B0%E4%B9%9D%E4%B8%80%E5%85%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [强大的肠胃是一种资产](https://s.weibo.com/weibo?q=%E5%BC%BA%E5%A4%A7%E7%9A%84%E8%82%A0%E8%83%83%E6%98%AF%E4%B8%80%E7%A7%8D%E8%B5%84%E4%BA%A7&t=31&band_rank=8&Refer=top)<br />
-9. [房地产税立法暂缓](https://s.weibo.com/weibo?q=%23%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%A8%8E%E7%AB%8B%E6%B3%95%E6%9A%82%E7%BC%93%23&t=31&band_rank=9&Refer=top)<br />
+9. [918鸣笛](https://s.weibo.com/weibo?q=918%E9%B8%A3%E7%AC%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
