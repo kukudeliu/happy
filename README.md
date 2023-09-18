@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 12:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 12:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [新公司让我节后8号入职](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%85%AC%E5%8F%B8%E8%AE%A9%E6%88%91%E8%8A%82%E5%90%8E8%E5%8F%B7%E5%85%A5%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [多地教育部门回应预制菜进校园](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E6%95%99%E8%82%B2%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E6%A0%A1%E5%9B%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [九一八事变爆发92周年](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E5%8F%98%E7%88%86%E5%8F%9192%E5%91%A8%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [防空警报](https://s.weibo.com/weibo?q=%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5&t=31&band_rank=9&Refer=top)<br />
+9. [我国首次报告5例女性猴痘病例](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E6%8A%A5%E5%91%8A5%E4%BE%8B%E5%A5%B3%E6%80%A7%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
