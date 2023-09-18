@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 20:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 20:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [哈利波特才是瑞幸最该合作的ip](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E6%89%8D%E6%98%AF%E7%91%9E%E5%B9%B8%E6%9C%80%E8%AF%A5%E5%90%88%E4%BD%9C%E7%9A%84ip%23&t=31&band_rank=6&Refer=top)<br />
 7. [Excel错题本](https://s.weibo.com/weibo?q=Excel%E9%94%99%E9%A2%98%E6%9C%AC&t=31&band_rank=7&Refer=top)<br />
 8. [美国男子极限通勤3小时到上海上班](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E6%9E%81%E9%99%90%E9%80%9A%E5%8B%A43%E5%B0%8F%E6%97%B6%E5%88%B0%E4%B8%8A%E6%B5%B7%E4%B8%8A%E7%8F%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [XYG 血压高](https://s.weibo.com/weibo?q=XYG%20%E8%A1%80%E5%8E%8B%E9%AB%98&t=31&band_rank=9&Refer=top)<br />
+9. [官方回应网红骑摩托穿行隧道丧生](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E7%BA%A2%E9%AA%91%E6%91%A9%E6%89%98%E7%A9%BF%E8%A1%8C%E9%9A%A7%E9%81%93%E4%B8%A7%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
