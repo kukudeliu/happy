@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 19:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 19:39:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [感受创新魅力 提升科学素养](https://www.baidu.com/s?wd=%E6%84%9F%E5%8F%97%E5%88%9B%E6%96%B0%E9%AD%85%E5%8A%9B+%E6%8F%90%E5%8D%87%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [300亩农田变垃圾场 银川成立调查组](https://www.baidu.com/s?wd=300%E4%BA%A9%E5%86%9C%E7%94%B0%E5%8F%98%E5%9E%83%E5%9C%BE%E5%9C%BA+%E9%93%B6%E5%B7%9D%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [山西导游用激光笔照射佛像被投诉](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%AF%BC%E6%B8%B8%E7%94%A8%E6%BF%80%E5%85%89%E7%AC%94%E7%85%A7%E5%B0%84%E4%BD%9B%E5%83%8F%E8%A2%AB%E6%8A%95%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美国2架飞机降落时相撞致2死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD2%E6%9E%B6%E9%A3%9E%E6%9C%BA%E9%99%8D%E8%90%BD%E6%97%B6%E7%9B%B8%E6%92%9E%E8%87%B42%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小伙误把奶茶赠品雪花膏当雪糕吃](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%AF%AF%E6%8A%8A%E5%A5%B6%E8%8C%B6%E8%B5%A0%E5%93%81%E9%9B%AA%E8%8A%B1%E8%86%8F%E5%BD%93%E9%9B%AA%E7%B3%95%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小伙误把奶茶赠品雪花膏当雪糕吃](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%AF%AF%E6%8A%8A%E5%A5%B6%E8%8C%B6%E8%B5%A0%E5%93%81%E9%9B%AA%E8%8A%B1%E8%86%8F%E5%BD%93%E9%9B%AA%E7%B3%95%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国2架飞机降落时相撞致2死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD2%E6%9E%B6%E9%A3%9E%E6%9C%BA%E9%99%8D%E8%90%BD%E6%97%B6%E7%9B%B8%E6%92%9E%E8%87%B42%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣西安出现拐骗儿童情况](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%A5%BF%E5%AE%89%E5%87%BA%E7%8E%B0%E6%8B%90%E9%AA%97%E5%84%BF%E7%AB%A5%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [感受创新魅力 提升科学素养](https://www.baidu.com/s?wd=%E6%84%9F%E5%8F%97%E5%88%9B%E6%96%B0%E9%AD%85%E5%8A%9B+%E6%8F%90%E5%8D%87%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [300亩农田变垃圾场 银川成立调查组](https://www.baidu.com/s?wd=300%E4%BA%A9%E5%86%9C%E7%94%B0%E5%8F%98%E5%9E%83%E5%9C%BE%E5%9C%BA+%E9%93%B6%E5%B7%9D%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [山西导游用激光笔照射佛像被投诉](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%AF%BC%E6%B8%B8%E7%94%A8%E6%BF%80%E5%85%89%E7%AC%94%E7%85%A7%E5%B0%84%E4%BD%9B%E5%83%8F%E8%A2%AB%E6%8A%95%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美国2架飞机降落时相撞致2死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD2%E6%9E%B6%E9%A3%9E%E6%9C%BA%E9%99%8D%E8%90%BD%E6%97%B6%E7%9B%B8%E6%92%9E%E8%87%B42%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小伙误把奶茶赠品雪花膏当雪糕吃](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%AF%AF%E6%8A%8A%E5%A5%B6%E8%8C%B6%E8%B5%A0%E5%93%81%E9%9B%AA%E8%8A%B1%E8%86%8F%E5%BD%93%E9%9B%AA%E7%B3%95%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小伙误把奶茶赠品雪花膏当雪糕吃](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%AF%AF%E6%8A%8A%E5%A5%B6%E8%8C%B6%E8%B5%A0%E5%93%81%E9%9B%AA%E8%8A%B1%E8%86%8F%E5%BD%93%E9%9B%AA%E7%B3%95%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国2架飞机降落时相撞致2死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD2%E6%9E%B6%E9%A3%9E%E6%9C%BA%E9%99%8D%E8%90%BD%E6%97%B6%E7%9B%B8%E6%92%9E%E8%87%B42%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣西安出现拐骗儿童情况](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%A5%BF%E5%AE%89%E5%87%BA%E7%8E%B0%E6%8B%90%E9%AA%97%E5%84%BF%E7%AB%A5%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
