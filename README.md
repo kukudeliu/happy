@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 15:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 15:28:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [13岁男孩花318元烫发家人报警](https://s.weibo.com/weibo?q=%2313%E5%B2%81%E7%94%B7%E5%AD%A9%E8%8A%B1318%E5%85%83%E7%83%AB%E5%8F%91%E5%AE%B6%E4%BA%BA%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [濒死时会感觉身边多了一个人](https://s.weibo.com/weibo?q=%E6%BF%92%E6%AD%BB%E6%97%B6%E4%BC%9A%E6%84%9F%E8%A7%89%E8%BA%AB%E8%BE%B9%E5%A4%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
 7. [鸡精配料表第一位就是味精](https://s.weibo.com/weibo?q=%E9%B8%A1%E7%B2%BE%E9%85%8D%E6%96%99%E8%A1%A8%E7%AC%AC%E4%B8%80%E4%BD%8D%E5%B0%B1%E6%98%AF%E5%91%B3%E7%B2%BE&t=31&band_rank=7&Refer=top)<br />
-8. [西安交大回应留学生专用垃圾桶事件](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%95%99%E5%AD%A6%E7%94%9F%E4%B8%93%E7%94%A8%E5%9E%83%E5%9C%BE%E6%A1%B6%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [傅云深唯一瘫痪了还那么迷人的男人](https://s.weibo.com/weibo?q=%23%E5%82%85%E4%BA%91%E6%B7%B1%E5%94%AF%E4%B8%80%E7%98%AB%E7%97%AA%E4%BA%86%E8%BF%98%E9%82%A3%E4%B9%88%E8%BF%B7%E4%BA%BA%E7%9A%84%E7%94%B7%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [开水冲鸡蛋](https://s.weibo.com/weibo?q=%E5%BC%80%E6%B0%B4%E5%86%B2%E9%B8%A1%E8%9B%8B&t=31&band_rank=8&Refer=top)<br />
+9. [西安交大回应留学生专用垃圾桶事件](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%95%99%E5%AD%A6%E7%94%9F%E4%B8%93%E7%94%A8%E5%9E%83%E5%9C%BE%E6%A1%B6%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
