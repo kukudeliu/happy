@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 21:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 21:25:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [梁静茹 倒嗓](https://s.weibo.com/weibo?q=%E6%A2%81%E9%9D%99%E8%8C%B9%20%E5%80%92%E5%97%93&t=31&band_rank=4&Refer=top)<br />
 5. [广州区伯去世](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%8C%BA%E4%BC%AF%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [海马体无痛学习法](https://s.weibo.com/weibo?q=%E6%B5%B7%E9%A9%AC%E4%BD%93%E6%97%A0%E7%97%9B%E5%AD%A6%E4%B9%A0%E6%B3%95&t=31&band_rank=6&Refer=top)<br />
-7. [演员刘金拒绝展示iPhone购买记录](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E5%88%98%E9%87%91%E6%8B%92%E7%BB%9D%E5%B1%95%E7%A4%BAiPhone%E8%B4%AD%E4%B9%B0%E8%AE%B0%E5%BD%95%23&t=31&band_rank=7&Refer=top)<br />
-8. [奇强董事长在直播间哭了](https://s.weibo.com/weibo?q=%23%E5%A5%87%E5%BC%BA%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9C%A8%E7%9B%B4%E6%92%AD%E9%97%B4%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [奇强董事长在直播间哭了](https://s.weibo.com/weibo?q=%23%E5%A5%87%E5%BC%BA%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9C%A8%E7%9B%B4%E6%92%AD%E9%97%B4%E5%93%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [演员刘金拒绝展示iPhone购买记录](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E5%88%98%E9%87%91%E6%8B%92%E7%BB%9D%E5%B1%95%E7%A4%BAiPhone%E8%B4%AD%E4%B9%B0%E8%AE%B0%E5%BD%95%23&t=31&band_rank=8&Refer=top)<br />
 9. [美国男子极限通勤3小时到上海上班](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E6%9E%81%E9%99%90%E9%80%9A%E5%8B%A43%E5%B0%8F%E6%97%B6%E5%88%B0%E4%B8%8A%E6%B5%B7%E4%B8%8A%E7%8F%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
