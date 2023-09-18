@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 11:26:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 11:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [考研的动力在此刻到达巅峰](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E7%9A%84%E5%8A%A8%E5%8A%9B%E5%9C%A8%E6%AD%A4%E5%88%BB%E5%88%B0%E8%BE%BE%E5%B7%85%E5%B3%B0&t=31&band_rank=6&Refer=top)<br />
 7. [BOSS直聘崩了](https://s.weibo.com/weibo?q=BOSS%E7%9B%B4%E8%81%98%E5%B4%A9%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [九一八事变爆发92周年](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E5%8F%98%E7%88%86%E5%8F%9192%E5%91%A8%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [为什么音乐节都是这种厕所](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9F%B3%E4%B9%90%E8%8A%82%E9%83%BD%E6%98%AF%E8%BF%99%E7%A7%8D%E5%8E%95%E6%89%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子带着抑郁症妻子一起送外卖](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B8%A6%E7%9D%80%E6%8A%91%E9%83%81%E7%97%87%E5%A6%BB%E5%AD%90%E4%B8%80%E8%B5%B7%E9%80%81%E5%A4%96%E5%8D%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
