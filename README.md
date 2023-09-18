@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 20:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 20:13:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [还原“杨妞花”被拐26年寻亲路](https://www.baidu.com/s?wd=%E8%BF%98%E5%8E%9F%E2%80%9C%E6%9D%A8%E5%A6%9E%E8%8A%B1%E2%80%9D%E8%A2%AB%E6%8B%9026%E5%B9%B4%E5%AF%BB%E4%BA%B2%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [感受创新魅力 提升科学素养](https://www.baidu.com/s?wd=%E6%84%9F%E5%8F%97%E5%88%9B%E6%96%B0%E9%AD%85%E5%8A%9B+%E6%8F%90%E5%8D%87%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [300亩农田变垃圾场 银川成立调查组](https://www.baidu.com/s?wd=300%E4%BA%A9%E5%86%9C%E7%94%B0%E5%8F%98%E5%9E%83%E5%9C%BE%E5%9C%BA+%E9%93%B6%E5%B7%9D%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [“慰安妇”制度受害者蒋奶奶逝世](https://www.baidu.com/s?wd=%E2%80%9C%E6%85%B0%E5%AE%89%E5%A6%87%E2%80%9D%E5%88%B6%E5%BA%A6%E5%8F%97%E5%AE%B3%E8%80%85%E8%92%8B%E5%A5%B6%E5%A5%B6%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [余华英案受害者：曾被开水烫头](https://www.baidu.com/s?wd=%E4%BD%99%E5%8D%8E%E8%8B%B1%E6%A1%88%E5%8F%97%E5%AE%B3%E8%80%85%EF%BC%9A%E6%9B%BE%E8%A2%AB%E5%BC%80%E6%B0%B4%E7%83%AB%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [余华英案受害者：曾被开水烫头](https://www.baidu.com/s?wd=%E4%BD%99%E5%8D%8E%E8%8B%B1%E6%A1%88%E5%8F%97%E5%AE%B3%E8%80%85%EF%BC%9A%E6%9B%BE%E8%A2%AB%E5%BC%80%E6%B0%B4%E7%83%AB%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩演员刘亚仁曾强行让随行人员吸毒](https://www.baidu.com/s?wd=%E9%9F%A9%E6%BC%94%E5%91%98%E5%88%98%E4%BA%9A%E4%BB%81%E6%9B%BE%E5%BC%BA%E8%A1%8C%E8%AE%A9%E9%9A%8F%E8%A1%8C%E4%BA%BA%E5%91%98%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小伙误把奶茶赠品雪花膏当雪糕吃](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%AF%AF%E6%8A%8A%E5%A5%B6%E8%8C%B6%E8%B5%A0%E5%93%81%E9%9B%AA%E8%8A%B1%E8%86%8F%E5%BD%93%E9%9B%AA%E7%B3%95%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣女子酒吧拼酒后死亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%A7%E6%8B%BC%E9%85%92%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [还原“杨妞花”被拐26年寻亲路](https://www.baidu.com/s?wd=%E8%BF%98%E5%8E%9F%E2%80%9C%E6%9D%A8%E5%A6%9E%E8%8A%B1%E2%80%9D%E8%A2%AB%E6%8B%9026%E5%B9%B4%E5%AF%BB%E4%BA%B2%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [感受创新魅力 提升科学素养](https://www.baidu.com/s?wd=%E6%84%9F%E5%8F%97%E5%88%9B%E6%96%B0%E9%AD%85%E5%8A%9B+%E6%8F%90%E5%8D%87%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [300亩农田变垃圾场 银川成立调查组](https://www.baidu.com/s?wd=300%E4%BA%A9%E5%86%9C%E7%94%B0%E5%8F%98%E5%9E%83%E5%9C%BE%E5%9C%BA+%E9%93%B6%E5%B7%9D%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [“慰安妇”制度受害者蒋奶奶逝世](https://www.baidu.com/s?wd=%E2%80%9C%E6%85%B0%E5%AE%89%E5%A6%87%E2%80%9D%E5%88%B6%E5%BA%A6%E5%8F%97%E5%AE%B3%E8%80%85%E8%92%8B%E5%A5%B6%E5%A5%B6%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [余华英案受害者：曾被开水烫头](https://www.baidu.com/s?wd=%E4%BD%99%E5%8D%8E%E8%8B%B1%E6%A1%88%E5%8F%97%E5%AE%B3%E8%80%85%EF%BC%9A%E6%9B%BE%E8%A2%AB%E5%BC%80%E6%B0%B4%E7%83%AB%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [余华英案受害者：曾被开水烫头](https://www.baidu.com/s?wd=%E4%BD%99%E5%8D%8E%E8%8B%B1%E6%A1%88%E5%8F%97%E5%AE%B3%E8%80%85%EF%BC%9A%E6%9B%BE%E8%A2%AB%E5%BC%80%E6%B0%B4%E7%83%AB%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩演员刘亚仁曾强行让随行人员吸毒](https://www.baidu.com/s?wd=%E9%9F%A9%E6%BC%94%E5%91%98%E5%88%98%E4%BA%9A%E4%BB%81%E6%9B%BE%E5%BC%BA%E8%A1%8C%E8%AE%A9%E9%9A%8F%E8%A1%8C%E4%BA%BA%E5%91%98%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小伙误把奶茶赠品雪花膏当雪糕吃](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%AF%AF%E6%8A%8A%E5%A5%B6%E8%8C%B6%E8%B5%A0%E5%93%81%E9%9B%AA%E8%8A%B1%E8%86%8F%E5%BD%93%E9%9B%AA%E7%B3%95%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣女子酒吧拼酒后死亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%A7%E6%8B%BC%E9%85%92%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
