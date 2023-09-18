@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 00:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 00:38:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [医生收到患者家属1箱牛奶发现是4万现金](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E5%AE%B6%E5%B1%9E1%E7%AE%B1%E7%89%9B%E5%A5%B6%E5%8F%91%E7%8E%B0%E6%98%AF4%E4%B8%87%E7%8E%B0%E9%87%91%23&t=31&band_rank=2&Refer=top)<br />
 3. [导师在太空开了门实验课](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E5%B8%88%E5%9C%A8%E5%A4%AA%E7%A9%BA%E5%BC%80%E4%BA%86%E9%97%A8%E5%AE%9E%E9%AA%8C%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [多邻国崩了](https://s.weibo.com/weibo?q=%E5%A4%9A%E9%82%BB%E5%9B%BD%E5%B4%A9%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
-5. [居然有人把飘窗做成了洗脚池](https://s.weibo.com/weibo?q=%23%E5%B1%85%E7%84%B6%E6%9C%89%E4%BA%BA%E6%8A%8A%E9%A3%98%E7%AA%97%E5%81%9A%E6%88%90%E4%BA%86%E6%B4%97%E8%84%9A%E6%B1%A0%23&t=31&band_rank=5&Refer=top)<br />
-6. [大学生蹭酒席随礼100元被指太少](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B9%AD%E9%85%92%E5%B8%AD%E9%9A%8F%E7%A4%BC100%E5%85%83%E8%A2%AB%E6%8C%87%E5%A4%AA%E5%B0%91%23&t=31&band_rank=6&Refer=top)<br />
+5. [大学生蹭酒席随礼100元被指太少](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B9%AD%E9%85%92%E5%B8%AD%E9%9A%8F%E7%A4%BC100%E5%85%83%E8%A2%AB%E6%8C%87%E5%A4%AA%E5%B0%91%23&t=31&band_rank=5&Refer=top)<br />
+6. [居然有人把飘窗做成了洗脚池](https://s.weibo.com/weibo?q=%23%E5%B1%85%E7%84%B6%E6%9C%89%E4%BA%BA%E6%8A%8A%E9%A3%98%E7%AA%97%E5%81%9A%E6%88%90%E4%BA%86%E6%B4%97%E8%84%9A%E6%B1%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [七点以后禁食带给我的变化](https://s.weibo.com/weibo?q=%E4%B8%83%E7%82%B9%E4%BB%A5%E5%90%8E%E7%A6%81%E9%A3%9F%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E5%8F%98%E5%8C%96&t=31&band_rank=7&Refer=top)<br />
 8. [白敬亭这令人震撼的大脑](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%BF%99%E4%BB%A4%E4%BA%BA%E9%9C%87%E6%92%BC%E7%9A%84%E5%A4%A7%E8%84%91%23&t=31&band_rank=8&Refer=top)<br />
 9. [THE9解散演唱会要来了](https://s.weibo.com/weibo?q=%23THE9%E8%A7%A3%E6%95%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
