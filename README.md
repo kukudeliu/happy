@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 13:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 13:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [918](https://s.weibo.com/weibo?q=%23918%23&t=31&band_rank=6&Refer=top)<br />
 7. [精心 希望大家了解硅油](https://s.weibo.com/weibo?q=%E7%B2%BE%E5%BF%83%20%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E4%BA%86%E8%A7%A3%E7%A1%85%E6%B2%B9&t=31&band_rank=7&Refer=top)<br />
 8. [父母离异男孩被弃车站哭泣民警出手](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E7%A6%BB%E5%BC%82%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%BC%83%E8%BD%A6%E7%AB%99%E5%93%AD%E6%B3%A3%E6%B0%91%E8%AD%A6%E5%87%BA%E6%89%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [你知道什么是假性亲密关系吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9F%A5%E9%81%93%E4%BB%80%E4%B9%88%E6%98%AF%E5%81%87%E6%80%A7%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [莲花味精 谣言](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%20%E8%B0%A3%E8%A8%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
