@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 10:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 10:54:02</h4></div>
 
 > 微博  
 
 1. [防空警报](https://s.weibo.com/weibo?q=%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5&t=31&band_rank=1&Refer=top)<br />
-2. [918](https://s.weibo.com/weibo?q=918&t=31&band_rank=2&Refer=top)<br />
+2. [918](https://s.weibo.com/weibo?q=%23918%23&t=31&band_rank=2&Refer=top)<br />
 3. [展示共建一带一路的信心](https://s.weibo.com/weibo?q=%23%E5%B1%95%E7%A4%BA%E5%85%B1%E5%BB%BA%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E7%9A%84%E4%BF%A1%E5%BF%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [为什么音乐节都是这种厕所](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9F%B3%E4%B9%90%E8%8A%82%E9%83%BD%E6%98%AF%E8%BF%99%E7%A7%8D%E5%8E%95%E6%89%80%23&t=31&band_rank=4&Refer=top)<br />
 5. [韩国检方申请拘捕李在明](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%A3%80%E6%96%B9%E7%94%B3%E8%AF%B7%E6%8B%98%E6%8D%95%E6%9D%8E%E5%9C%A8%E6%98%8E%23&t=31&band_rank=5&Refer=top)<br />
