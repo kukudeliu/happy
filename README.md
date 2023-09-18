@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 15:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 15:18:01</h4></div>
 
 > 微博  
 
 1. [演员刘金苹果店前怒摔iPhone](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E5%88%98%E9%87%91%E8%8B%B9%E6%9E%9C%E5%BA%97%E5%89%8D%E6%80%92%E6%91%94iPhone%23&t=31&band_rank=1&Refer=top)<br />
 2. [国庆8天假7个朋友结婚](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%868%E5%A4%A9%E5%81%877%E4%B8%AA%E6%9C%8B%E5%8F%8B%E7%BB%93%E5%A9%9A%23&t=31&band_rank=2&Refer=top)<br />
 3. [全球首个茶主题世界文化遗产](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E8%8C%B6%E4%B8%BB%E9%A2%98%E4%B8%96%E7%95%8C%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%23&t=31&band_rank=3&Refer=top)<br />
-4. [濒死时会感觉身边多了一个人](https://s.weibo.com/weibo?q=%E6%BF%92%E6%AD%BB%E6%97%B6%E4%BC%9A%E6%84%9F%E8%A7%89%E8%BA%AB%E8%BE%B9%E5%A4%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E4%BA%BA&t=31&band_rank=4&Refer=top)<br />
-5. [猪油](https://s.weibo.com/weibo?q=%E7%8C%AA%E6%B2%B9&t=31&band_rank=5&Refer=top)<br />
+4. [猪油](https://s.weibo.com/weibo?q=%E7%8C%AA%E6%B2%B9&t=31&band_rank=4&Refer=top)<br />
+5. [濒死时会感觉身边多了一个人](https://s.weibo.com/weibo?q=%E6%BF%92%E6%AD%BB%E6%97%B6%E4%BC%9A%E6%84%9F%E8%A7%89%E8%BA%AB%E8%BE%B9%E5%A4%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E4%BA%BA&t=31&band_rank=5&Refer=top)<br />
 6. [鸡精配料表第一位就是味精](https://s.weibo.com/weibo?q=%E9%B8%A1%E7%B2%BE%E9%85%8D%E6%96%99%E8%A1%A8%E7%AC%AC%E4%B8%80%E4%BD%8D%E5%B0%B1%E6%98%AF%E5%91%B3%E7%B2%BE&t=31&band_rank=6&Refer=top)<br />
 7. [傅云深唯一瘫痪了还那么迷人的男人](https://s.weibo.com/weibo?q=%23%E5%82%85%E4%BA%91%E6%B7%B1%E5%94%AF%E4%B8%80%E7%98%AB%E7%97%AA%E4%BA%86%E8%BF%98%E9%82%A3%E4%B9%88%E8%BF%B7%E4%BA%BA%E7%9A%84%E7%94%B7%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [西安交大回应留学生专用垃圾桶事件](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%95%99%E5%AD%A6%E7%94%9F%E4%B8%93%E7%94%A8%E5%9E%83%E5%9C%BE%E6%A1%B6%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
