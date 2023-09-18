@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 10:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 10:35:01</h4></div>
 
 > 微博  
 
 1. [防空警报](https://s.weibo.com/weibo?q=%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5&t=31&band_rank=1&Refer=top)<br />
 2. [918](https://s.weibo.com/weibo?q=918&t=31&band_rank=2&Refer=top)<br />
-3. [全球首个茶主题世界文化遗产](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E8%8C%B6%E4%B8%BB%E9%A2%98%E4%B8%96%E7%95%8C%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%23&t=31&band_rank=3&Refer=top)<br />
+3. [为什么音乐节都是这种厕所](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9F%B3%E4%B9%90%E8%8A%82%E9%83%BD%E6%98%AF%E8%BF%99%E7%A7%8D%E5%8E%95%E6%89%80%23&t=31&band_rank=3&Refer=top)<br />
 4. [韩国检方申请拘捕李在明](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%A3%80%E6%96%B9%E7%94%B3%E8%AF%B7%E6%8B%98%E6%8D%95%E6%9D%8E%E5%9C%A8%E6%98%8E%23&t=31&band_rank=4&Refer=top)<br />
-5. [为什么音乐节都是这种厕所](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9F%B3%E4%B9%90%E8%8A%82%E9%83%BD%E6%98%AF%E8%BF%99%E7%A7%8D%E5%8E%95%E6%89%80%23&t=31&band_rank=5&Refer=top)<br />
-6. [配眼镜时为什么要看这张图片](https://s.weibo.com/weibo?q=%23%E9%85%8D%E7%9C%BC%E9%95%9C%E6%97%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9C%8B%E8%BF%99%E5%BC%A0%E5%9B%BE%E7%89%87%23&t=31&band_rank=6&Refer=top)<br />
+5. [配眼镜时为什么要看这张图片](https://s.weibo.com/weibo?q=%23%E9%85%8D%E7%9C%BC%E9%95%9C%E6%97%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9C%8B%E8%BF%99%E5%BC%A0%E5%9B%BE%E7%89%87%23&t=31&band_rank=5&Refer=top)<br />
+6. [男子带着抑郁症妻子一起送外卖](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B8%A6%E7%9D%80%E6%8A%91%E9%83%81%E7%97%87%E5%A6%BB%E5%AD%90%E4%B8%80%E8%B5%B7%E9%80%81%E5%A4%96%E5%8D%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [九一八事变爆发92周年](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E5%8F%98%E7%88%86%E5%8F%9192%E5%91%A8%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [男子带着抑郁症妻子一起送外卖](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B8%A6%E7%9D%80%E6%8A%91%E9%83%81%E7%97%87%E5%A6%BB%E5%AD%90%E4%B8%80%E8%B5%B7%E9%80%81%E5%A4%96%E5%8D%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [房地产税立法暂缓](https://s.weibo.com/weibo?q=%23%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%A8%8E%E7%AB%8B%E6%B3%95%E6%9A%82%E7%BC%93%23&t=31&band_rank=9&Refer=top)<br />
+8. [房地产税立法暂缓](https://s.weibo.com/weibo?q=%23%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%A8%8E%E7%AB%8B%E6%B3%95%E6%9A%82%E7%BC%93%23&t=31&band_rank=8&Refer=top)<br />
+9. [每个人都该铭记九一八](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E8%AF%A5%E9%93%AD%E8%AE%B0%E4%B9%9D%E4%B8%80%E5%85%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
