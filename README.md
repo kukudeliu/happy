@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 22:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 22:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [梁静茹 倒嗓](https://s.weibo.com/weibo?q=%E6%A2%81%E9%9D%99%E8%8C%B9%20%E5%80%92%E5%97%93&t=31&band_rank=6&Refer=top)<br />
 7. [七点以后禁食带给我的变化](https://s.weibo.com/weibo?q=%E4%B8%83%E7%82%B9%E4%BB%A5%E5%90%8E%E7%A6%81%E9%A3%9F%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E5%8F%98%E5%8C%96&t=31&band_rank=7&Refer=top)<br />
 8. [官方回应高二学生跳楼后不治身亡](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E4%BA%8C%E5%AD%A6%E7%94%9F%E8%B7%B3%E6%A5%BC%E5%90%8E%E4%B8%8D%E6%B2%BB%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [广州区伯去世](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%8C%BA%E4%BC%AF%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [新款AirPodsPro2值得换吗](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%AC%BEAirPodsPro2%E5%80%BC%E5%BE%97%E6%8D%A2%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
