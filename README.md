@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 23:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 23:25:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [导师在太空开了门实验课](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E5%B8%88%E5%9C%A8%E5%A4%AA%E7%A9%BA%E5%BC%80%E4%BA%86%E9%97%A8%E5%AE%9E%E9%AA%8C%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [多邻国崩了](https://s.weibo.com/weibo?q=%E5%A4%9A%E9%82%BB%E5%9B%BD%E5%B4%A9%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [居然有人把飘窗做成了洗脚池](https://s.weibo.com/weibo?q=%23%E5%B1%85%E7%84%B6%E6%9C%89%E4%BA%BA%E6%8A%8A%E9%A3%98%E7%AA%97%E5%81%9A%E6%88%90%E4%BA%86%E6%B4%97%E8%84%9A%E6%B1%A0%23&t=31&band_rank=5&Refer=top)<br />
-6. [麻辣王子好吃](https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%8E%8B%E5%AD%90%E5%A5%BD%E5%90%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [4名男孩溺亡其中3人亲兄弟](https://s.weibo.com/weibo?q=%234%E5%90%8D%E7%94%B7%E5%AD%A9%E6%BA%BA%E4%BA%A1%E5%85%B6%E4%B8%AD3%E4%BA%BA%E4%BA%B2%E5%85%84%E5%BC%9F%23&t=31&band_rank=7&Refer=top)<br />
+6. [4名男孩溺亡其中3人亲兄弟](https://s.weibo.com/weibo?q=%234%E5%90%8D%E7%94%B7%E5%AD%A9%E6%BA%BA%E4%BA%A1%E5%85%B6%E4%B8%AD3%E4%BA%BA%E4%BA%B2%E5%85%84%E5%BC%9F%23&t=31&band_rank=6&Refer=top)<br />
+7. [麻辣王子好吃](https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%8E%8B%E5%AD%90%E5%A5%BD%E5%90%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [THE9解散演唱会要来了](https://s.weibo.com/weibo?q=%23THE9%E8%A7%A3%E6%95%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [医生收到患者家属1箱牛奶发现是4万现金](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E5%AE%B6%E5%B1%9E1%E7%AE%B1%E7%89%9B%E5%A5%B6%E5%8F%91%E7%8E%B0%E6%98%AF4%E4%B8%87%E7%8E%B0%E9%87%91%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -24,7 +24,7 @@
 5. [东海海域6.4级地震 福建等地有震感](https://www.baidu.com/s?wd=%E4%B8%9C%E6%B5%B7%E6%B5%B7%E5%9F%9F6.4%E7%BA%A7%E5%9C%B0%E9%9C%87+%E7%A6%8F%E5%BB%BA%E7%AD%89%E5%9C%B0%E6%9C%89%E9%9C%87%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大学生蹭酒席随礼100元被指太少](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B9%AD%E9%85%92%E5%B8%AD%E9%9A%8F%E7%A4%BC100%E5%85%83%E8%A2%AB%E6%8C%87%E5%A4%AA%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [演员刘金拒绝展示iPhone购买记录](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E5%88%98%E9%87%91%E6%8B%92%E7%BB%9D%E5%B1%95%E7%A4%BAiPhone%E8%B4%AD%E4%B9%B0%E8%AE%B0%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [电池入户充电致骑手死亡 平台被约谈](https://www.baidu.com/s?wd=%E7%94%B5%E6%B1%A0%E5%85%A5%E6%88%B7%E5%85%85%E7%94%B5%E8%87%B4%E9%AA%91%E6%89%8B%E6%AD%BB%E4%BA%A1+%E5%B9%B3%E5%8F%B0%E8%A2%AB%E7%BA%A6%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湛江4名男孩溺水身亡 3人是亲兄弟](https://www.baidu.com/s?wd=%E6%B9%9B%E6%B1%9F4%E5%90%8D%E7%94%B7%E5%AD%A9%E6%BA%BA%E6%B0%B4%E8%BA%AB%E4%BA%A1+3%E4%BA%BA%E6%98%AF%E4%BA%B2%E5%85%84%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣女子酒吧拼酒后死亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%A7%E6%8B%BC%E9%85%92%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [东海海域6.4级地震 福建等地有震感](https://www.baidu.com/s?wd=%E4%B8%9C%E6%B5%B7%E6%B5%B7%E5%9F%9F6.4%E7%BA%A7%E5%9C%B0%E9%9C%87+%E7%A6%8F%E5%BB%BA%E7%AD%89%E5%9C%B0%E6%9C%89%E9%9C%87%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大学生蹭酒席随礼100元被指太少](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B9%AD%E9%85%92%E5%B8%AD%E9%9A%8F%E7%A4%BC100%E5%85%83%E8%A2%AB%E6%8C%87%E5%A4%AA%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [演员刘金拒绝展示iPhone购买记录](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E5%88%98%E9%87%91%E6%8B%92%E7%BB%9D%E5%B1%95%E7%A4%BAiPhone%E8%B4%AD%E4%B9%B0%E8%AE%B0%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [电池入户充电致骑手死亡 平台被约谈](https://www.baidu.com/s?wd=%E7%94%B5%E6%B1%A0%E5%85%A5%E6%88%B7%E5%85%85%E7%94%B5%E8%87%B4%E9%AA%91%E6%89%8B%E6%AD%BB%E4%BA%A1+%E5%B9%B3%E5%8F%B0%E8%A2%AB%E7%BA%A6%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湛江4名男孩溺水身亡 3人是亲兄弟](https://www.baidu.com/s?wd=%E6%B9%9B%E6%B1%9F4%E5%90%8D%E7%94%B7%E5%AD%A9%E6%BA%BA%E6%B0%B4%E8%BA%AB%E4%BA%A1+3%E4%BA%BA%E6%98%AF%E4%BA%B2%E5%85%84%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣女子酒吧拼酒后死亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%A7%E6%8B%BC%E9%85%92%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
