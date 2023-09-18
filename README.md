@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 17:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 17:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [731部队用跳蚤感染鼠疫后咬人](https://s.weibo.com/weibo?q=%23731%E9%83%A8%E9%98%9F%E7%94%A8%E8%B7%B3%E8%9A%A4%E6%84%9F%E6%9F%93%E9%BC%A0%E7%96%AB%E5%90%8E%E5%92%AC%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [国庆8天假7个朋友结婚](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%868%E5%A4%A9%E5%81%877%E4%B8%AA%E6%9C%8B%E5%8F%8B%E7%BB%93%E5%A9%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [二十二](https://s.weibo.com/weibo?q=%E4%BA%8C%E5%8D%81%E4%BA%8C&t=31&band_rank=8&Refer=top)<br />
-9. [刘亚仁强行让随行人员吸毒](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%9A%E4%BB%81%E5%BC%BA%E8%A1%8C%E8%AE%A9%E9%9A%8F%E8%A1%8C%E4%BA%BA%E5%91%98%E5%90%B8%E6%AF%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [神奇动物 貘](https://s.weibo.com/weibo?q=%E7%A5%9E%E5%A5%87%E5%8A%A8%E7%89%A9%20%E8%B2%98&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
