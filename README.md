@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 23:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 23:02:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [4名男孩溺亡其中3人亲兄弟](https://s.weibo.com/weibo?q=%234%E5%90%8D%E7%94%B7%E5%AD%A9%E6%BA%BA%E4%BA%A1%E5%85%B6%E4%B8%AD3%E4%BA%BA%E4%BA%B2%E5%85%84%E5%BC%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [伍佰 25岁为什么听我的歌呢](https://s.weibo.com/weibo?q=%E4%BC%8D%E4%BD%B0%2025%E5%B2%81%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%AC%E6%88%91%E7%9A%84%E6%AD%8C%E5%91%A2&t=31&band_rank=6&Refer=top)<br />
 7. [THE9解散演唱会要来了](https://s.weibo.com/weibo?q=%23THE9%E8%A7%A3%E6%95%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [七点以后禁食带给我的变化](https://s.weibo.com/weibo?q=%E4%B8%83%E7%82%B9%E4%BB%A5%E5%90%8E%E7%A6%81%E9%A3%9F%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E5%8F%98%E5%8C%96&t=31&band_rank=8&Refer=top)<br />
-9. [多邻国崩了](https://s.weibo.com/weibo?q=%E5%A4%9A%E9%82%BB%E5%9B%BD%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [多邻国崩了](https://s.weibo.com/weibo?q=%E5%A4%9A%E9%82%BB%E5%9B%BD%E5%B4%A9%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [七点以后禁食带给我的变化](https://s.weibo.com/weibo?q=%E4%B8%83%E7%82%B9%E4%BB%A5%E5%90%8E%E7%A6%81%E9%A3%9F%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E5%8F%98%E5%8C%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
