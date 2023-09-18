@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 09:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 10:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [九一八事变爆发92周年](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E5%8F%98%E7%88%86%E5%8F%9192%E5%91%A8%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [每个人都该铭记九一八](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E8%AF%A5%E9%93%AD%E8%AE%B0%E4%B9%9D%E4%B8%80%E5%85%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [新郎开迈巴赫扮猪八戒接新娘](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E5%BC%80%E8%BF%88%E5%B7%B4%E8%B5%AB%E6%89%AE%E7%8C%AA%E5%85%AB%E6%88%92%E6%8E%A5%E6%96%B0%E5%A8%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [医生一眼认出9旬患者相拥落泪](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA9%E6%97%AC%E6%82%A3%E8%80%85%E7%9B%B8%E6%8B%A5%E8%90%BD%E6%B3%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [房地产税立法暂缓](https://s.weibo.com/weibo?q=%23%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%A8%8E%E7%AB%8B%E6%B3%95%E6%9A%82%E7%BC%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
