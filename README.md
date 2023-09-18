@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 03:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 03:23:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [杭州亚运会开幕式预告片放送](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E9%A2%84%E5%91%8A%E7%89%87%E6%94%BE%E9%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [医生收患者家属1箱奶打开是4万现金](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E6%94%B6%E6%82%A3%E8%80%85%E5%AE%B6%E5%B1%9E1%E7%AE%B1%E5%A5%B6%E6%89%93%E5%BC%80%E6%98%AF4%E4%B8%87%E7%8E%B0%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [村民公路晒粮 用汽车横堵封路](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E5%85%AC%E8%B7%AF%E6%99%92%E7%B2%AE+%E7%94%A8%E6%B1%BD%E8%BD%A6%E6%A8%AA%E5%A0%B5%E5%B0%81%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [曝中学多名教师吃空饷 校方通报](https://www.baidu.com/s?wd=%E6%9B%9D%E4%B8%AD%E5%AD%A6%E5%A4%9A%E5%90%8D%E6%95%99%E5%B8%88%E5%90%83%E7%A9%BA%E9%A5%B7+%E6%A0%A1%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子用辣椒油做活络油获刑12年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E8%BE%A3%E6%A4%92%E6%B2%B9%E5%81%9A%E6%B4%BB%E7%BB%9C%E6%B2%B9%E8%8E%B7%E5%88%9112%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [东海海域6.4级地震 福建等地有震感](https://www.baidu.com/s?wd=%E4%B8%9C%E6%B5%B7%E6%B5%B7%E5%9F%9F6.4%E7%BA%A7%E5%9C%B0%E9%9C%87+%E7%A6%8F%E5%BB%BA%E7%AD%89%E5%9C%B0%E6%9C%89%E9%9C%87%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣女子酒吧拼酒后死亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%A7%E6%8B%BC%E9%85%92%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [杭州亚运会开幕式预告片放送](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E9%A2%84%E5%91%8A%E7%89%87%E6%94%BE%E9%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [医生收患者家属1箱奶打开是4万现金](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E6%94%B6%E6%82%A3%E8%80%85%E5%AE%B6%E5%B1%9E1%E7%AE%B1%E5%A5%B6%E6%89%93%E5%BC%80%E6%98%AF4%E4%B8%87%E7%8E%B0%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [村民公路晒粮 用汽车横堵封路](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E5%85%AC%E8%B7%AF%E6%99%92%E7%B2%AE+%E7%94%A8%E6%B1%BD%E8%BD%A6%E6%A8%AA%E5%A0%B5%E5%B0%81%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [曝中学多名教师吃空饷 校方通报](https://www.baidu.com/s?wd=%E6%9B%9D%E4%B8%AD%E5%AD%A6%E5%A4%9A%E5%90%8D%E6%95%99%E5%B8%88%E5%90%83%E7%A9%BA%E9%A5%B7+%E6%A0%A1%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子用辣椒油做活络油获刑12年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E8%BE%A3%E6%A4%92%E6%B2%B9%E5%81%9A%E6%B4%BB%E7%BB%9C%E6%B2%B9%E8%8E%B7%E5%88%9112%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [东海海域6.4级地震 福建等地有震感](https://www.baidu.com/s?wd=%E4%B8%9C%E6%B5%B7%E6%B5%B7%E5%9F%9F6.4%E7%BA%A7%E5%9C%B0%E9%9C%87+%E7%A6%8F%E5%BB%BA%E7%AD%89%E5%9C%B0%E6%9C%89%E9%9C%87%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣女子酒吧拼酒后死亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%A7%E6%8B%BC%E9%85%92%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
