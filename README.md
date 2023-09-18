@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 08:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 08:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黑龙江发生重大刑案](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [夫妻偷渡到缅北后因业绩太差被打](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%81%B7%E6%B8%A1%E5%88%B0%E7%BC%85%E5%8C%97%E5%90%8E%E5%9B%A0%E4%B8%9A%E7%BB%A9%E5%A4%AA%E5%B7%AE%E8%A2%AB%E6%89%93%23&t=31&band_rank=7&Refer=top)<br />
 8. [医生一眼认出9旬患者相拥落泪](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA9%E6%97%AC%E6%82%A3%E8%80%85%E7%9B%B8%E6%8B%A5%E8%90%BD%E6%B3%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [iPhone15ProMax需求强劲](https://s.weibo.com/weibo?q=%23iPhone15ProMax%E9%9C%80%E6%B1%82%E5%BC%BA%E5%8A%B2%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈坤 坦然接受生命中的一切](https://s.weibo.com/weibo?q=%E9%99%88%E5%9D%A4%20%E5%9D%A6%E7%84%B6%E6%8E%A5%E5%8F%97%E7%94%9F%E5%91%BD%E4%B8%AD%E7%9A%84%E4%B8%80%E5%88%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
