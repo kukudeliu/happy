@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 09:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 09:26:01</h4></div>
 
 > 微博  
 
 1. [918](https://s.weibo.com/weibo?q=918&t=31&band_rank=1&Refer=top)<br />
-2. [李在明绝食第19天健康恶化被送医](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%BB%9D%E9%A3%9F%E7%AC%AC19%E5%A4%A9%E5%81%A5%E5%BA%B7%E6%81%B6%E5%8C%96%E8%A2%AB%E9%80%81%E5%8C%BB%23&t=31&band_rank=2&Refer=top)<br />
+2. [配眼镜时为什么要看这张图片](https://s.weibo.com/weibo?q=%23%E9%85%8D%E7%9C%BC%E9%95%9C%E6%97%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9C%8B%E8%BF%99%E5%BC%A0%E5%9B%BE%E7%89%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国科学家研发出新型稀土开采技术](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A0%94%E5%8F%91%E5%87%BA%E6%96%B0%E5%9E%8B%E7%A8%80%E5%9C%9F%E5%BC%80%E9%87%87%E6%8A%80%E6%9C%AF%23&t=31&band_rank=3&Refer=top)<br />
-4. [配眼镜时为什么要看这张图片](https://s.weibo.com/weibo?q=%23%E9%85%8D%E7%9C%BC%E9%95%9C%E6%97%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9C%8B%E8%BF%99%E5%BC%A0%E5%9B%BE%E7%89%87%23&t=31&band_rank=4&Refer=top)<br />
+4. [李在明绝食第19天健康恶化被送医](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%BB%9D%E9%A3%9F%E7%AC%AC19%E5%A4%A9%E5%81%A5%E5%BA%B7%E6%81%B6%E5%8C%96%E8%A2%AB%E9%80%81%E5%8C%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [九一八事变爆发92周年](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E5%8F%98%E7%88%86%E5%8F%9192%E5%91%A8%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [每个人都该铭记九一八](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E8%AF%A5%E9%93%AD%E8%AE%B0%E4%B9%9D%E4%B8%80%E5%85%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [新郎开迈巴赫扮猪八戒接新娘](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E5%BC%80%E8%BF%88%E5%B7%B4%E8%B5%AB%E6%89%AE%E7%8C%AA%E5%85%AB%E6%88%92%E6%8E%A5%E6%96%B0%E5%A8%98%23&t=31&band_rank=7&Refer=top)<br />
