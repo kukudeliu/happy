@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 17:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-18 17:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [演员刘金苹果店前怒砸iPhone](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E5%88%98%E9%87%91%E8%8B%B9%E6%9E%9C%E5%BA%97%E5%89%8D%E6%80%92%E7%A0%B8iPhone&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [13岁男孩花318元烫发 家长报警](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%8A%B1318%E5%85%83%E7%83%AB%E5%8F%91+%E5%AE%B6%E9%95%BF%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子求爱被拒换号骚扰女方2年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B1%82%E7%88%B1%E8%A2%AB%E6%8B%92%E6%8D%A2%E5%8F%B7%E9%AA%9A%E6%89%B0%E5%A5%B3%E6%96%B92%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被传病危昏迷 车臣领导人晒自拍视频](https://www.baidu.com/s?wd=%E8%A2%AB%E4%BC%A0%E7%97%85%E5%8D%B1%E6%98%8F%E8%BF%B7+%E8%BD%A6%E8%87%A3%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%99%92%E8%87%AA%E6%8B%8D%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子看热闹金手镯被人剪断险被偷](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%9C%8B%E7%83%AD%E9%97%B9%E9%87%91%E6%89%8B%E9%95%AF%E8%A2%AB%E4%BA%BA%E5%89%AA%E6%96%AD%E9%99%A9%E8%A2%AB%E5%81%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣西安出现拐骗儿童情况](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%A5%BF%E5%AE%89%E5%87%BA%E7%8E%B0%E6%8B%90%E9%AA%97%E5%84%BF%E7%AB%A5%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [演员刘金苹果店前怒砸iPhone](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E5%88%98%E9%87%91%E8%8B%B9%E6%9E%9C%E5%BA%97%E5%89%8D%E6%80%92%E7%A0%B8iPhone&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [13岁男孩花318元烫发 家长报警](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%8A%B1318%E5%85%83%E7%83%AB%E5%8F%91+%E5%AE%B6%E9%95%BF%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子求爱被拒换号骚扰女方2年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B1%82%E7%88%B1%E8%A2%AB%E6%8B%92%E6%8D%A2%E5%8F%B7%E9%AA%9A%E6%89%B0%E5%A5%B3%E6%96%B92%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被传病危昏迷 车臣领导人晒自拍视频](https://www.baidu.com/s?wd=%E8%A2%AB%E4%BC%A0%E7%97%85%E5%8D%B1%E6%98%8F%E8%BF%B7+%E8%BD%A6%E8%87%A3%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%99%92%E8%87%AA%E6%8B%8D%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子看热闹金手镯被人剪断险被偷](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%9C%8B%E7%83%AD%E9%97%B9%E9%87%91%E6%89%8B%E9%95%AF%E8%A2%AB%E4%BA%BA%E5%89%AA%E6%96%AD%E9%99%A9%E8%A2%AB%E5%81%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣西安出现拐骗儿童情况](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%A5%BF%E5%AE%89%E5%87%BA%E7%8E%B0%E6%8B%90%E9%AA%97%E5%84%BF%E7%AB%A5%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
