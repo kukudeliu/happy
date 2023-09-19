@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 13:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 13:20:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [关晓彤天然呆奶茶公司被强执130万](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%A4%A9%E7%84%B6%E5%91%86%E5%A5%B6%E8%8C%B6%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%BC%BA%E6%89%A7130%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚运会金牌赛事日历](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%87%91%E7%89%8C%E8%B5%9B%E4%BA%8B%E6%97%A5%E5%8E%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [央视官网表扬刘雨昕演唱会强实名](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E5%AE%98%E7%BD%91%E8%A1%A8%E6%89%AC%E5%88%98%E9%9B%A8%E6%98%95%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%BA%E5%AE%9E%E5%90%8D%23&t=31&band_rank=4&Refer=top)<br />
-5. [花少5 沙特](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%915%20%E6%B2%99%E7%89%B9&t=31&band_rank=5&Refer=top)<br />
-6. [韩国一位奶奶在公厕住了十年](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%B8%80%E4%BD%8D%E5%A5%B6%E5%A5%B6%E5%9C%A8%E5%85%AC%E5%8E%95%E4%BD%8F%E4%BA%86%E5%8D%81%E5%B9%B4&t=31&band_rank=6&Refer=top)<br />
-7. [韩国总统批准拘捕李在明](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%89%B9%E5%87%86%E6%8B%98%E6%8D%95%E6%9D%8E%E5%9C%A8%E6%98%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [妻子肺癌脑转移丈夫拼尽全力从死亡线救回](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%82%BA%E7%99%8C%E8%84%91%E8%BD%AC%E7%A7%BB%E4%B8%88%E5%A4%AB%E6%8B%BC%E5%B0%BD%E5%85%A8%E5%8A%9B%E4%BB%8E%E6%AD%BB%E4%BA%A1%E7%BA%BF%E6%95%91%E5%9B%9E%23&t=31&band_rank=8&Refer=top)<br />
+5. [韩国一位奶奶在公厕住了十年](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%B8%80%E4%BD%8D%E5%A5%B6%E5%A5%B6%E5%9C%A8%E5%85%AC%E5%8E%95%E4%BD%8F%E4%BA%86%E5%8D%81%E5%B9%B4&t=31&band_rank=5&Refer=top)<br />
+6. [花少5 沙特](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%915%20%E6%B2%99%E7%89%B9&t=31&band_rank=6&Refer=top)<br />
+7. [妻子肺癌脑转移丈夫拼尽全力从死亡线救回](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%82%BA%E7%99%8C%E8%84%91%E8%BD%AC%E7%A7%BB%E4%B8%88%E5%A4%AB%E6%8B%BC%E5%B0%BD%E5%85%A8%E5%8A%9B%E4%BB%8E%E6%AD%BB%E4%BA%A1%E7%BA%BF%E6%95%91%E5%9B%9E%23&t=31&band_rank=7&Refer=top)<br />
+8. [韩国总统批准拘捕李在明](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%89%B9%E5%87%86%E6%8B%98%E6%8D%95%E6%9D%8E%E5%9C%A8%E6%98%8E%23&t=31&band_rank=8&Refer=top)<br />
 9. [赵继伟担任中国男篮队长](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E6%8B%85%E4%BB%BB%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E9%98%9F%E9%95%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
