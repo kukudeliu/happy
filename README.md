@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 16:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 16:11:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [蜜雪冰城 红茶](https://s.weibo.com/weibo?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%20%E7%BA%A2%E8%8C%B6&t=31&band_rank=4&Refer=top)<br />
 5. [茅台快把自己玩成料酒了](https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E5%BF%AB%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%8E%A9%E6%88%90%E6%96%99%E9%85%92%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [iPhone用户羡慕的安卓功能](https://s.weibo.com/weibo?q=%23iPhone%E7%94%A8%E6%88%B7%E7%BE%A1%E6%85%95%E7%9A%84%E5%AE%89%E5%8D%93%E5%8A%9F%E8%83%BD%23&t=31&band_rank=6&Refer=top)<br />
-7. [长相思杨紫换成女装后就没那么好看了](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E6%9D%A8%E7%B4%AB%E6%8D%A2%E6%88%90%E5%A5%B3%E8%A3%85%E5%90%8E%E5%B0%B1%E6%B2%A1%E9%82%A3%E4%B9%88%E5%A5%BD%E7%9C%8B%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [教育局回应幼儿园老师恐吓孩子假笑摆拍](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E6%81%90%E5%90%93%E5%AD%A9%E5%AD%90%E5%81%87%E7%AC%91%E6%91%86%E6%8B%8D%23&t=31&band_rank=8&Refer=top)<br />
+7. [教育局回应幼儿园老师恐吓孩子假笑摆拍](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E6%81%90%E5%90%93%E5%AD%A9%E5%AD%90%E5%81%87%E7%AC%91%E6%91%86%E6%8B%8D%23&t=31&band_rank=7&Refer=top)<br />
+8. [长相思杨紫换成女装后就没那么好看了](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E6%9D%A8%E7%B4%AB%E6%8D%A2%E6%88%90%E5%A5%B3%E8%A3%85%E5%90%8E%E5%B0%B1%E6%B2%A1%E9%82%A3%E4%B9%88%E5%A5%BD%E7%9C%8B%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [天蚕土豆 逆水寒](https://s.weibo.com/weibo?q=%E5%A4%A9%E8%9A%95%E5%9C%9F%E8%B1%86%20%E9%80%86%E6%B0%B4%E5%AF%92&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
