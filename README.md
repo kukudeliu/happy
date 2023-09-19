@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 00:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 00:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [papi酱我的震惊划破天际](https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E6%88%91%E7%9A%84%E9%9C%87%E6%83%8A%E5%88%92%E7%A0%B4%E5%A4%A9%E9%99%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [董宇辉 短暂的一生不要尝试讨好每个人](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%20%E7%9F%AD%E6%9A%82%E7%9A%84%E4%B8%80%E7%94%9F%E4%B8%8D%E8%A6%81%E5%B0%9D%E8%AF%95%E8%AE%A8%E5%A5%BD%E6%AF%8F%E4%B8%AA%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
 7. [王者荣耀新赛季](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%96%B0%E8%B5%9B%E5%AD%A3&t=31&band_rank=7&Refer=top)<br />
-8. [邓为 迪奥](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%20%E8%BF%AA%E5%A5%A5&t=31&band_rank=8&Refer=top)<br />
-9. [肩膀突然不内扣了](https://s.weibo.com/weibo?q=%E8%82%A9%E8%86%80%E7%AA%81%E7%84%B6%E4%B8%8D%E5%86%85%E6%89%A3%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [肩膀突然不内扣了](https://s.weibo.com/weibo?q=%E8%82%A9%E8%86%80%E7%AA%81%E7%84%B6%E4%B8%8D%E5%86%85%E6%89%A3%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [邓为 迪奥](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%20%E8%BF%AA%E5%A5%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
