@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 09:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 09:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [95号汽油或将进入9元时代](https://s.weibo.com/weibo?q=%2395%E5%8F%B7%E6%B1%BD%E6%B2%B9%E6%88%96%E5%B0%86%E8%BF%9B%E5%85%A59%E5%85%83%E6%97%B6%E4%BB%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [七点以后禁食带给我的变化](https://s.weibo.com/weibo?q=%E4%B8%83%E7%82%B9%E4%BB%A5%E5%90%8E%E7%A6%81%E9%A3%9F%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E5%8F%98%E5%8C%96&t=31&band_rank=7&Refer=top)<br />
 8. [被拐28年最后她亲手把人贩子送上法庭](https://s.weibo.com/weibo?q=%E8%A2%AB%E6%8B%9028%E5%B9%B4%E6%9C%80%E5%90%8E%E5%A5%B9%E4%BA%B2%E6%89%8B%E6%8A%8A%E4%BA%BA%E8%B4%A9%E5%AD%90%E9%80%81%E4%B8%8A%E6%B3%95%E5%BA%AD&t=31&band_rank=8&Refer=top)<br />
-9. [大学生蹭酒席随礼100元被指太少](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B9%AD%E9%85%92%E5%B8%AD%E9%9A%8F%E7%A4%BC100%E5%85%83%E8%A2%AB%E6%8C%87%E5%A4%AA%E5%B0%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [极度疲劳下人一次最多能睡多久](https://s.weibo.com/weibo?q=%E6%9E%81%E5%BA%A6%E7%96%B2%E5%8A%B3%E4%B8%8B%E4%BA%BA%E4%B8%80%E6%AC%A1%E6%9C%80%E5%A4%9A%E8%83%BD%E7%9D%A1%E5%A4%9A%E4%B9%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
