@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 15:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 15:18:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [央视官网表扬刘雨昕演唱会强实名](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E5%AE%98%E7%BD%91%E8%A1%A8%E6%89%AC%E5%88%98%E9%9B%A8%E6%98%95%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%BA%E5%AE%9E%E5%90%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩国一位奶奶在公厕住了十年](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%B8%80%E4%BD%8D%E5%A5%B6%E5%A5%B6%E5%9C%A8%E5%85%AC%E5%8E%95%E4%BD%8F%E4%BA%86%E5%8D%81%E5%B9%B4&t=31&band_rank=7&Refer=top)<br />
 8. [月饼都出美拉德风了](https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%A5%BC%E9%83%BD%E5%87%BA%E7%BE%8E%E6%8B%89%E5%BE%B7%E9%A3%8E%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴帮秦海璐戴麦](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B8%AE%E7%A7%A6%E6%B5%B7%E7%92%90%E6%88%B4%E9%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [于适 GQ](https://s.weibo.com/weibo?q=%E4%BA%8E%E9%80%82%20GQ&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
