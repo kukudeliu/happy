@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 17:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 17:03:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [男足亚运队目标是打进决赛 冲击冠军](https://www.baidu.com/s?wd=%E7%94%B7%E8%B6%B3%E4%BA%9A%E8%BF%90%E9%98%9F%E7%9B%AE%E6%A0%87%E6%98%AF%E6%89%93%E8%BF%9B%E5%86%B3%E8%B5%9B+%E5%86%B2%E5%87%BB%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [溺亡3兄弟父亲：孩子不是去玩水的](https://www.baidu.com/s?wd=%E6%BA%BA%E4%BA%A13%E5%85%84%E5%BC%9F%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E6%98%AF%E5%8E%BB%E7%8E%A9%E6%B0%B4%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美腕回应李佳琦抖音认证消失](https://www.baidu.com/s?wd=%E7%BE%8E%E8%85%95%E5%9B%9E%E5%BA%94%E6%9D%8E%E4%BD%B3%E7%90%A6%E6%8A%96%E9%9F%B3%E8%AE%A4%E8%AF%81%E6%B6%88%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [NASA发现超级地球或有人居住](https://www.baidu.com/s?wd=NASA%E5%8F%91%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%9C%B0%E7%90%83%E6%88%96%E6%9C%89%E4%BA%BA%E5%B1%85%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [百度AI畅游工博会](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6AI%E7%95%85%E6%B8%B8%E5%B7%A5%E5%8D%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [与多国签署采购协议？华为辟谣](https://www.baidu.com/s?wd=%E4%B8%8E%E5%A4%9A%E5%9B%BD%E7%AD%BE%E7%BD%B2%E9%87%87%E8%B4%AD%E5%8D%8F%E8%AE%AE%EF%BC%9F%E5%8D%8E%E4%B8%BA%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男足亚运队目标是打进决赛 冲击冠军](https://www.baidu.com/s?wd=%E7%94%B7%E8%B6%B3%E4%BA%9A%E8%BF%90%E9%98%9F%E7%9B%AE%E6%A0%87%E6%98%AF%E6%89%93%E8%BF%9B%E5%86%B3%E8%B5%9B+%E5%86%B2%E5%87%BB%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [溺亡3兄弟父亲：孩子不是去玩水的](https://www.baidu.com/s?wd=%E6%BA%BA%E4%BA%A13%E5%85%84%E5%BC%9F%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E6%98%AF%E5%8E%BB%E7%8E%A9%E6%B0%B4%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美腕回应李佳琦抖音认证消失](https://www.baidu.com/s?wd=%E7%BE%8E%E8%85%95%E5%9B%9E%E5%BA%94%E6%9D%8E%E4%BD%B3%E7%90%A6%E6%8A%96%E9%9F%B3%E8%AE%A4%E8%AF%81%E6%B6%88%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [NASA发现超级地球或有人居住](https://www.baidu.com/s?wd=NASA%E5%8F%91%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%9C%B0%E7%90%83%E6%88%96%E6%9C%89%E4%BA%BA%E5%B1%85%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [百度AI畅游工博会](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6AI%E7%95%85%E6%B8%B8%E5%B7%A5%E5%8D%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [与多国签署采购协议？华为辟谣](https://www.baidu.com/s?wd=%E4%B8%8E%E5%A4%9A%E5%9B%BD%E7%AD%BE%E7%BD%B2%E9%87%87%E8%B4%AD%E5%8D%8F%E8%AE%AE%EF%BC%9F%E5%8D%8E%E4%B8%BA%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
