@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 11:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 11:33:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [热巴好A](https://s.weibo.com/weibo?q=%E7%83%AD%E5%B7%B4%E5%A5%BDA&t=31&band_rank=6&Refer=top)<br />
 7. [旧款iPhone升级iOS17后续航降低](https://s.weibo.com/weibo?q=%23%E6%97%A7%E6%AC%BEiPhone%E5%8D%87%E7%BA%A7iOS17%E5%90%8E%E7%BB%AD%E8%88%AA%E9%99%8D%E4%BD%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [Lisa舞蹈视频MONEY播放量突破9亿](https://s.weibo.com/weibo?q=%23Lisa%E8%88%9E%E8%B9%88%E8%A7%86%E9%A2%91MONEY%E6%92%AD%E6%94%BE%E9%87%8F%E7%AA%81%E7%A0%B49%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [12306最多候补20个车次](https://s.weibo.com/weibo?q=%2312306%E6%9C%80%E5%A4%9A%E5%80%99%E8%A1%A520%E4%B8%AA%E8%BD%A6%E6%AC%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [三喜奶奶看起来比况盛还年轻](https://s.weibo.com/weibo?q=%E4%B8%89%E5%96%9C%E5%A5%B6%E5%A5%B6%E7%9C%8B%E8%B5%B7%E6%9D%A5%E6%AF%94%E5%86%B5%E7%9B%9B%E8%BF%98%E5%B9%B4%E8%BD%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
