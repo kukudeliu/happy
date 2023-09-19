@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 08:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 08:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [多邻国崩了](https://s.weibo.com/weibo?q=%E5%A4%9A%E9%82%BB%E5%9B%BD%E5%B4%A9%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [被拐28年最后她亲手把人贩子送上法庭](https://s.weibo.com/weibo?q=%E8%A2%AB%E6%8B%9028%E5%B9%B4%E6%9C%80%E5%90%8E%E5%A5%B9%E4%BA%B2%E6%89%8B%E6%8A%8A%E4%BA%BA%E8%B4%A9%E5%AD%90%E9%80%81%E4%B8%8A%E6%B3%95%E5%BA%AD&t=31&band_rank=7&Refer=top)<br />
 8. [赢了我带你回家输了下辈子再见](https://s.weibo.com/weibo?q=%23%E8%B5%A2%E4%BA%86%E6%88%91%E5%B8%A6%E4%BD%A0%E5%9B%9E%E5%AE%B6%E8%BE%93%E4%BA%86%E4%B8%8B%E8%BE%88%E5%AD%90%E5%86%8D%E8%A7%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [居然有人把飘窗做成了洗脚池](https://s.weibo.com/weibo?q=%23%E5%B1%85%E7%84%B6%E6%9C%89%E4%BA%BA%E6%8A%8A%E9%A3%98%E7%AA%97%E5%81%9A%E6%88%90%E4%BA%86%E6%B4%97%E8%84%9A%E6%B1%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [日本本州近海5.4级地震](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E8%BF%91%E6%B5%B75.4%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
