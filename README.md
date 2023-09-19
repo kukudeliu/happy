@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 09:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 09:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [油价](https://s.weibo.com/weibo?q=%E6%B2%B9%E4%BB%B7&t=31&band_rank=6&Refer=top)<br />
 7. [医生收到患者家属1箱牛奶发现是4万现金](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E5%AE%B6%E5%B1%9E1%E7%AE%B1%E7%89%9B%E5%A5%B6%E5%8F%91%E7%8E%B0%E6%98%AF4%E4%B8%87%E7%8E%B0%E9%87%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [七点以后禁食带给我的变化](https://s.weibo.com/weibo?q=%E4%B8%83%E7%82%B9%E4%BB%A5%E5%90%8E%E7%A6%81%E9%A3%9F%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E5%8F%98%E5%8C%96&t=31&band_rank=8&Refer=top)<br />
-9. [孙灏羽称小慧君涉诽谤被刑事立案](https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%81%8F%E7%BE%BD%E7%A7%B0%E5%B0%8F%E6%85%A7%E5%90%9B%E6%B6%89%E8%AF%BD%E8%B0%A4%E8%A2%AB%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [迪丽热巴花少5出发路透](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%8A%B1%E5%B0%915%E5%87%BA%E5%8F%91%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
