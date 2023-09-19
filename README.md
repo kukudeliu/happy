@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 00:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 00:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [邓为 迪奥](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%20%E8%BF%AA%E5%A5%A5&t=31&band_rank=6&Refer=top)<br />
 7. [肩膀突然不内扣了](https://s.weibo.com/weibo?q=%E8%82%A9%E8%86%80%E7%AA%81%E7%84%B6%E4%B8%8D%E5%86%85%E6%89%A3%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [王者荣耀新赛季](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%96%B0%E8%B5%9B%E5%AD%A3&t=31&band_rank=8&Refer=top)<br />
-9. [国足亚运队5比1印度](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%BA%9A%E8%BF%90%E9%98%9F5%E6%AF%941%E5%8D%B0%E5%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [研究生上课 没有课本](https://s.weibo.com/weibo?q=%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B8%8A%E8%AF%BE%20%E6%B2%A1%E6%9C%89%E8%AF%BE%E6%9C%AC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
