@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 20:40:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 20:41:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [亚运会今日开赛](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%BB%8A%E6%97%A5%E5%BC%80%E8%B5%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [能不能别来碰瓷我们顶流](https://s.weibo.com/weibo?q=%23%E8%83%BD%E4%B8%8D%E8%83%BD%E5%88%AB%E6%9D%A5%E7%A2%B0%E7%93%B7%E6%88%91%E4%BB%AC%E9%A1%B6%E6%B5%81%23&t=31&band_rank=4&Refer=top)<br />
 5. [丁真 今天我的造型怎么样](https://s.weibo.com/weibo?q=%E4%B8%81%E7%9C%9F%20%E4%BB%8A%E5%A4%A9%E6%88%91%E7%9A%84%E9%80%A0%E5%9E%8B%E6%80%8E%E4%B9%88%E6%A0%B7&t=31&band_rank=5&Refer=top)<br />
-6. [我有一个朋友](https://s.weibo.com/weibo?q=%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E6%9C%8B%E5%8F%8B&t=31&band_rank=6&Refer=top)<br />
-7. [印度扳平](https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E6%89%B3%E5%B9%B3&t=31&band_rank=7&Refer=top)<br />
+6. [印度扳平](https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E6%89%B3%E5%B9%B3&t=31&band_rank=6&Refer=top)<br />
+7. [我有一个朋友](https://s.weibo.com/weibo?q=%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E6%9C%8B%E5%8F%8B&t=31&band_rank=7&Refer=top)<br />
 8. [肩膀突然不内扣了](https://s.weibo.com/weibo?q=%E8%82%A9%E8%86%80%E7%AA%81%E7%84%B6%E4%B8%8D%E5%86%85%E6%89%A3%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [国足亚运队vs印度](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%BA%9A%E8%BF%90%E9%98%9Fvs%E5%8D%B0%E5%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
 
