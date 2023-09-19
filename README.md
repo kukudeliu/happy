@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 04:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 04:24:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [打造“数字丝绸之路”](https://www.baidu.com/s?wd=%E6%89%93%E9%80%A0%E2%80%9C%E6%95%B0%E5%AD%97%E4%B8%9D%E7%BB%B8%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [12306：不可能给第三方优先购票权](https://www.baidu.com/s?wd=12306%EF%BC%9A%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%BB%99%E7%AC%AC%E4%B8%89%E6%96%B9%E4%BC%98%E5%85%88%E8%B4%AD%E7%A5%A8%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [茅台快把自己玩成料酒了](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E5%BF%AB%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%8E%A9%E6%88%90%E6%96%99%E9%85%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国8月进口日本海鲜同比下降67%](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD8%E6%9C%88%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%B5%B7%E9%B2%9C%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D67%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子被优衣库员工掐脖子拖回收银台](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%BC%98%E8%A1%A3%E5%BA%93%E5%91%98%E5%B7%A5%E6%8E%90%E8%84%96%E5%AD%90%E6%8B%96%E5%9B%9E%E6%94%B6%E9%93%B6%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [31岁博士坠亡 曾报警称手机需检查](https://www.baidu.com/s?wd=31%E5%B2%81%E5%8D%9A%E5%A3%AB%E5%9D%A0%E4%BA%A1+%E6%9B%BE%E6%8A%A5%E8%AD%A6%E7%A7%B0%E6%89%8B%E6%9C%BA%E9%9C%80%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [护照号EL开头是老赖？官方辟谣](https://www.baidu.com/s?wd=%E6%8A%A4%E7%85%A7%E5%8F%B7EL%E5%BC%80%E5%A4%B4%E6%98%AF%E8%80%81%E8%B5%96%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [打造“数字丝绸之路”](https://www.baidu.com/s?wd=%E6%89%93%E9%80%A0%E2%80%9C%E6%95%B0%E5%AD%97%E4%B8%9D%E7%BB%B8%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [12306：不可能给第三方优先购票权](https://www.baidu.com/s?wd=12306%EF%BC%9A%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%BB%99%E7%AC%AC%E4%B8%89%E6%96%B9%E4%BC%98%E5%85%88%E8%B4%AD%E7%A5%A8%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [茅台快把自己玩成料酒了](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E5%BF%AB%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%8E%A9%E6%88%90%E6%96%99%E9%85%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国8月进口日本海鲜同比下降67%](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD8%E6%9C%88%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%B5%B7%E9%B2%9C%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D67%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子被优衣库员工掐脖子拖回收银台](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%BC%98%E8%A1%A3%E5%BA%93%E5%91%98%E5%B7%A5%E6%8E%90%E8%84%96%E5%AD%90%E6%8B%96%E5%9B%9E%E6%94%B6%E9%93%B6%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [31岁博士坠亡 曾报警称手机需检查](https://www.baidu.com/s?wd=31%E5%B2%81%E5%8D%9A%E5%A3%AB%E5%9D%A0%E4%BA%A1+%E6%9B%BE%E6%8A%A5%E8%AD%A6%E7%A7%B0%E6%89%8B%E6%9C%BA%E9%9C%80%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [护照号EL开头是老赖？官方辟谣](https://www.baidu.com/s?wd=%E6%8A%A4%E7%85%A7%E5%8F%B7EL%E5%BC%80%E5%A4%B4%E6%98%AF%E8%80%81%E8%B5%96%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
