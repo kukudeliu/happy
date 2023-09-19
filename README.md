@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 23:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 23:33:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [骗子教3小时老人仍未学会转账](https://www.baidu.com/s?wd=%E9%AA%97%E5%AD%90%E6%95%993%E5%B0%8F%E6%97%B6%E8%80%81%E4%BA%BA%E4%BB%8D%E6%9C%AA%E5%AD%A6%E4%BC%9A%E8%BD%AC%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [31岁博士坠亡 曾报警称手机需检查](https://www.baidu.com/s?wd=31%E5%B2%81%E5%8D%9A%E5%A3%AB%E5%9D%A0%E4%BA%A1+%E6%9B%BE%E6%8A%A5%E8%AD%A6%E7%A7%B0%E6%89%8B%E6%9C%BA%E9%9C%80%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国8月进口日本海鲜同比下降67%](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD8%E6%9C%88%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%B5%B7%E9%B2%9C%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D67%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [学校辟谣九一八升日本国旗](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E8%BE%9F%E8%B0%A3%E4%B9%9D%E4%B8%80%E5%85%AB%E5%8D%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [护照号EL开头是老赖？官方辟谣](https://www.baidu.com/s?wd=%E6%8A%A4%E7%85%A7%E5%8F%B7EL%E5%BC%80%E5%A4%B4%E6%98%AF%E8%80%81%E8%B5%96%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [骗子教3小时老人仍未学会转账](https://www.baidu.com/s?wd=%E9%AA%97%E5%AD%90%E6%95%993%E5%B0%8F%E6%97%B6%E8%80%81%E4%BA%BA%E4%BB%8D%E6%9C%AA%E5%AD%A6%E4%BC%9A%E8%BD%AC%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [31岁博士坠亡 曾报警称手机需检查](https://www.baidu.com/s?wd=31%E5%B2%81%E5%8D%9A%E5%A3%AB%E5%9D%A0%E4%BA%A1+%E6%9B%BE%E6%8A%A5%E8%AD%A6%E7%A7%B0%E6%89%8B%E6%9C%BA%E9%9C%80%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国8月进口日本海鲜同比下降67%](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD8%E6%9C%88%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%B5%B7%E9%B2%9C%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D67%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [学校辟谣九一八升日本国旗](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E8%BE%9F%E8%B0%A3%E4%B9%9D%E4%B8%80%E5%85%AB%E5%8D%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [护照号EL开头是老赖？官方辟谣](https://www.baidu.com/s?wd=%E6%8A%A4%E7%85%A7%E5%8F%B7EL%E5%BC%80%E5%A4%B4%E6%98%AF%E8%80%81%E8%B5%96%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
