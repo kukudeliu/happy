@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 20:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 20:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国足亚运队vs印度](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%BA%9A%E8%BF%90%E9%98%9Fvs%E5%8D%B0%E5%BA%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [肩膀突然不内扣了](https://s.weibo.com/weibo?q=%E8%82%A9%E8%86%80%E7%AA%81%E7%84%B6%E4%B8%8D%E5%86%85%E6%89%A3%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [我有一个朋友](https://s.weibo.com/weibo?q=%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E6%9C%8B%E5%8F%8B&t=31&band_rank=8&Refer=top)<br />
-9. [THE9解散演唱会官宣了](https://s.weibo.com/weibo?q=%23THE9%E8%A7%A3%E6%95%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [大腿赘肉保不住了](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%85%BF%E8%B5%98%E8%82%89%E4%BF%9D%E4%B8%8D%E4%BD%8F%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
