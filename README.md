@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 15:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 15:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [男足亚运队目标是打进决赛 冲击冠军](https://www.baidu.com/s?wd=%E7%94%B7%E8%B6%B3%E4%BA%9A%E8%BF%90%E9%98%9F%E7%9B%AE%E6%A0%87%E6%98%AF%E6%89%93%E8%BF%9B%E5%86%B3%E8%B5%9B+%E5%86%B2%E5%87%BB%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生和妈妈双双剃寸头 惊到爸爸](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%92%8C%E5%A6%88%E5%A6%88%E5%8F%8C%E5%8F%8C%E5%89%83%E5%AF%B8%E5%A4%B4+%E6%83%8A%E5%88%B0%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [外卖小哥不顾订单哭着跑进派出所](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%8D%E9%A1%BE%E8%AE%A2%E5%8D%95%E5%93%AD%E7%9D%80%E8%B7%91%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方回应驾考安全员开车别停考生](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%A9%BE%E8%80%83%E5%AE%89%E5%85%A8%E5%91%98%E5%BC%80%E8%BD%A6%E5%88%AB%E5%81%9C%E8%80%83%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [奥委会称杭州亚运将创造历史](https://www.baidu.com/s?wd=%E5%A5%A5%E5%A7%94%E4%BC%9A%E7%A7%B0%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E5%B0%86%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [味精加热后会产生致癌物？假的](https://www.baidu.com/s?wd=%E5%91%B3%E7%B2%BE%E5%8A%A0%E7%83%AD%E5%90%8E%E4%BC%9A%E4%BA%A7%E7%94%9F%E8%87%B4%E7%99%8C%E7%89%A9%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男足亚运队目标是打进决赛 冲击冠军](https://www.baidu.com/s?wd=%E7%94%B7%E8%B6%B3%E4%BA%9A%E8%BF%90%E9%98%9F%E7%9B%AE%E6%A0%87%E6%98%AF%E6%89%93%E8%BF%9B%E5%86%B3%E8%B5%9B+%E5%86%B2%E5%87%BB%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生和妈妈双双剃寸头 惊到爸爸](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%92%8C%E5%A6%88%E5%A6%88%E5%8F%8C%E5%8F%8C%E5%89%83%E5%AF%B8%E5%A4%B4+%E6%83%8A%E5%88%B0%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [外卖小哥不顾订单哭着跑进派出所](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%8D%E9%A1%BE%E8%AE%A2%E5%8D%95%E5%93%AD%E7%9D%80%E8%B7%91%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方回应驾考安全员开车别停考生](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%A9%BE%E8%80%83%E5%AE%89%E5%85%A8%E5%91%98%E5%BC%80%E8%BD%A6%E5%88%AB%E5%81%9C%E8%80%83%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [奥委会称杭州亚运将创造历史](https://www.baidu.com/s?wd=%E5%A5%A5%E5%A7%94%E4%BC%9A%E7%A7%B0%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E5%B0%86%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [味精加热后会产生致癌物？假的](https://www.baidu.com/s?wd=%E5%91%B3%E7%B2%BE%E5%8A%A0%E7%83%AD%E5%90%8E%E4%BC%9A%E4%BA%A7%E7%94%9F%E8%87%B4%E7%99%8C%E7%89%A9%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
