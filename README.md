@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 18:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 19:00:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [北京晚霞](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%99%9A%E9%9C%9E&t=31&band_rank=6&Refer=top)<br />
 7. [女子被撞几十名路人瞬间集结抬车救人](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%92%9E%E5%87%A0%E5%8D%81%E5%90%8D%E8%B7%AF%E4%BA%BA%E7%9E%AC%E9%97%B4%E9%9B%86%E7%BB%93%E6%8A%AC%E8%BD%A6%E6%95%91%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [瘦子同事带的饭](https://s.weibo.com/weibo?q=%E7%98%A6%E5%AD%90%E5%90%8C%E4%BA%8B%E5%B8%A6%E7%9A%84%E9%A5%AD&t=31&band_rank=8&Refer=top)<br />
-9. [肩膀突然不内扣了](https://s.weibo.com/weibo?q=%E8%82%A9%E8%86%80%E7%AA%81%E7%84%B6%E4%B8%8D%E5%86%85%E6%89%A3%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [长风破浪 王一博李沁](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E7%A0%B4%E6%B5%AA%20%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9D%8E%E6%B2%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
