@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 22:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 22:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [徐娇回归周星驰公司](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%A8%87%E5%9B%9E%E5%BD%92%E5%91%A8%E6%98%9F%E9%A9%B0%E5%85%AC%E5%8F%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [华为Mate60Pro](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate60Pro%23&t=31&band_rank=7&Refer=top)<br />
 8. [长风破浪 王一博李沁](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E7%A0%B4%E6%B5%AA%20%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9D%8E%E6%B2%81&t=31&band_rank=8&Refer=top)<br />
-9. [焦虑的人可以多吃点酸的](https://s.weibo.com/weibo?q=%23%E7%84%A6%E8%99%91%E7%9A%84%E4%BA%BA%E5%8F%AF%E4%BB%A5%E5%A4%9A%E5%90%83%E7%82%B9%E9%85%B8%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [他从火光中走来](https://s.weibo.com/weibo?q=%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
