@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 19:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 19:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [THE9解散演唱会官宣了](https://s.weibo.com/weibo?q=%23THE9%E8%A7%A3%E6%95%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [东海全面开渔第一网海鲜被抢空](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%B5%B7%E5%85%A8%E9%9D%A2%E5%BC%80%E6%B8%94%E7%AC%AC%E4%B8%80%E7%BD%91%E6%B5%B7%E9%B2%9C%E8%A2%AB%E6%8A%A2%E7%A9%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [瘦子同事带的饭](https://s.weibo.com/weibo?q=%E7%98%A6%E5%AD%90%E5%90%8C%E4%BA%8B%E5%B8%A6%E7%9A%84%E9%A5%AD&t=31&band_rank=8&Refer=top)<br />
-9. [肩膀突然不内扣了](https://s.weibo.com/weibo?q=%E8%82%A9%E8%86%80%E7%AA%81%E7%84%B6%E4%B8%8D%E5%86%85%E6%89%A3%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [丁真 今天我的造型怎么样](https://s.weibo.com/weibo?q=%E4%B8%81%E7%9C%9F%20%E4%BB%8A%E5%A4%A9%E6%88%91%E7%9A%84%E9%80%A0%E5%9E%8B%E6%80%8E%E4%B9%88%E6%A0%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
