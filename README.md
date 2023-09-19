@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 23:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 23:37:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [邓为 迪奥](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%20%E8%BF%AA%E5%A5%A5&t=31&band_rank=4&Refer=top)<br />
 5. [研究生上课 没有课本](https://s.weibo.com/weibo?q=%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B8%8A%E8%AF%BE%20%E6%B2%A1%E6%9C%89%E8%AF%BE%E6%9C%AC&t=31&band_rank=5&Refer=top)<br />
 6. [肩膀突然不内扣了](https://s.weibo.com/weibo?q=%E8%82%A9%E8%86%80%E7%AA%81%E7%84%B6%E4%B8%8D%E5%86%85%E6%89%A3%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [31岁博士生宿舍楼坠楼身亡](https://s.weibo.com/weibo?q=%2331%E5%B2%81%E5%8D%9A%E5%A3%AB%E7%94%9F%E5%AE%BF%E8%88%8D%E6%A5%BC%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [长风破浪 王一博李沁](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E7%A0%B4%E6%B5%AA%20%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9D%8E%E6%B2%81&t=31&band_rank=8&Refer=top)<br />
+7. [长风破浪 王一博李沁](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E7%A0%B4%E6%B5%AA%20%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9D%8E%E6%B2%81&t=31&band_rank=7&Refer=top)<br />
+8. [31岁博士生宿舍楼坠楼身亡](https://s.weibo.com/weibo?q=%2331%E5%B2%81%E5%8D%9A%E5%A3%AB%E7%94%9F%E5%AE%BF%E8%88%8D%E6%A5%BC%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [徐娇回归周星驰公司](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%A8%87%E5%9B%9E%E5%BD%92%E5%91%A8%E6%98%9F%E9%A9%B0%E5%85%AC%E5%8F%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
