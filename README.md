@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 01:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 01:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [肩膀突然不内扣了](https://s.weibo.com/weibo?q=%E8%82%A9%E8%86%80%E7%AA%81%E7%84%B6%E4%B8%8D%E5%86%85%E6%89%A3%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [谁把我录取进来的谁负责](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%8A%8A%E6%88%91%E5%BD%95%E5%8F%96%E8%BF%9B%E6%9D%A5%E7%9A%84%E8%B0%81%E8%B4%9F%E8%B4%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [每天5点起床身体有什么变化](https://s.weibo.com/weibo?q=%E6%AF%8F%E5%A4%A95%E7%82%B9%E8%B5%B7%E5%BA%8A%E8%BA%AB%E4%BD%93%E6%9C%89%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96&t=31&band_rank=8&Refer=top)<br />
-9. [papi酱我的震惊划破天际](https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E6%88%91%E7%9A%84%E9%9C%87%E6%83%8A%E5%88%92%E7%A0%B4%E5%A4%A9%E9%99%85%23&t=31&band_rank=9&Refer=top)<br />
+9. [哥哥用玩具绳牵住妹妹等妈妈回来](https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E7%94%A8%E7%8E%A9%E5%85%B7%E7%BB%B3%E7%89%B5%E4%BD%8F%E5%A6%B9%E5%A6%B9%E7%AD%89%E5%A6%88%E5%A6%88%E5%9B%9E%E6%9D%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
