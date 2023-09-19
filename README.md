@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 06:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 06:29:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [花西子道歉信一半篇幅宣传品牌](https://www.baidu.com/s?wd=%E8%8A%B1%E8%A5%BF%E5%AD%90%E9%81%93%E6%AD%89%E4%BF%A1%E4%B8%80%E5%8D%8A%E7%AF%87%E5%B9%85%E5%AE%A3%E4%BC%A0%E5%93%81%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [打造“数字丝绸之路”](https://www.baidu.com/s?wd=%E6%89%93%E9%80%A0%E2%80%9C%E6%95%B0%E5%AD%97%E4%B8%9D%E7%BB%B8%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [12306：不可能给第三方优先购票权](https://www.baidu.com/s?wd=12306%EF%BC%9A%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%BB%99%E7%AC%AC%E4%B8%89%E6%96%B9%E4%BC%98%E5%85%88%E8%B4%AD%E7%A5%A8%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女生和妈妈双双剃寸头 惊到爸爸](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%92%8C%E5%A6%88%E5%A6%88%E5%8F%8C%E5%8F%8C%E5%89%83%E5%AF%B8%E5%A4%B4+%E6%83%8A%E5%88%B0%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [茅台快把自己玩成料酒了](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E5%BF%AB%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%8E%A9%E6%88%90%E6%96%99%E9%85%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [外卖小哥不顾订单哭着跑进派出所](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%8D%E9%A1%BE%E8%AE%A2%E5%8D%95%E5%93%AD%E7%9D%80%E8%B7%91%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [茅台快把自己玩成料酒了](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E5%BF%AB%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%8E%A9%E6%88%90%E6%96%99%E9%85%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生和妈妈双双剃寸头 惊到爸爸](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%92%8C%E5%A6%88%E5%A6%88%E5%8F%8C%E5%8F%8C%E5%89%83%E5%AF%B8%E5%A4%B4+%E6%83%8A%E5%88%B0%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [骗子教3小时老人仍未学会转账](https://www.baidu.com/s?wd=%E9%AA%97%E5%AD%90%E6%95%993%E5%B0%8F%E6%97%B6%E8%80%81%E4%BA%BA%E4%BB%8D%E6%9C%AA%E5%AD%A6%E4%BC%9A%E8%BD%AC%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [护照号EL开头是老赖？官方辟谣](https://www.baidu.com/s?wd=%E6%8A%A4%E7%85%A7%E5%8F%B7EL%E5%BC%80%E5%A4%B4%E6%98%AF%E8%80%81%E8%B5%96%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [花西子道歉信一半篇幅宣传品牌](https://www.baidu.com/s?wd=%E8%8A%B1%E8%A5%BF%E5%AD%90%E9%81%93%E6%AD%89%E4%BF%A1%E4%B8%80%E5%8D%8A%E7%AF%87%E5%B9%85%E5%AE%A3%E4%BC%A0%E5%93%81%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [打造“数字丝绸之路”](https://www.baidu.com/s?wd=%E6%89%93%E9%80%A0%E2%80%9C%E6%95%B0%E5%AD%97%E4%B8%9D%E7%BB%B8%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [12306：不可能给第三方优先购票权](https://www.baidu.com/s?wd=12306%EF%BC%9A%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%BB%99%E7%AC%AC%E4%B8%89%E6%96%B9%E4%BC%98%E5%85%88%E8%B4%AD%E7%A5%A8%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女生和妈妈双双剃寸头 惊到爸爸](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%92%8C%E5%A6%88%E5%A6%88%E5%8F%8C%E5%8F%8C%E5%89%83%E5%AF%B8%E5%A4%B4+%E6%83%8A%E5%88%B0%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [茅台快把自己玩成料酒了](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E5%BF%AB%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%8E%A9%E6%88%90%E6%96%99%E9%85%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [外卖小哥不顾订单哭着跑进派出所](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%8D%E9%A1%BE%E8%AE%A2%E5%8D%95%E5%93%AD%E7%9D%80%E8%B7%91%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [茅台快把自己玩成料酒了](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E5%BF%AB%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%8E%A9%E6%88%90%E6%96%99%E9%85%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生和妈妈双双剃寸头 惊到爸爸](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%92%8C%E5%A6%88%E5%A6%88%E5%8F%8C%E5%8F%8C%E5%89%83%E5%AF%B8%E5%A4%B4+%E6%83%8A%E5%88%B0%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [骗子教3小时老人仍未学会转账](https://www.baidu.com/s?wd=%E9%AA%97%E5%AD%90%E6%95%993%E5%B0%8F%E6%97%B6%E8%80%81%E4%BA%BA%E4%BB%8D%E6%9C%AA%E5%AD%A6%E4%BC%9A%E8%BD%AC%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [护照号EL开头是老赖？官方辟谣](https://www.baidu.com/s?wd=%E6%8A%A4%E7%85%A7%E5%8F%B7EL%E5%BC%80%E5%A4%B4%E6%98%AF%E8%80%81%E8%B5%96%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
