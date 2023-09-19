@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 18:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 18:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [瘦子同事带的饭](https://s.weibo.com/weibo?q=%E7%98%A6%E5%AD%90%E5%90%8C%E4%BA%8B%E5%B8%A6%E7%9A%84%E9%A5%AD&t=31&band_rank=6&Refer=top)<br />
 7. [多位羽毛球冠军出自杭州文龙巷小学](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BD%8D%E7%BE%BD%E6%AF%9B%E7%90%83%E5%86%A0%E5%86%9B%E5%87%BA%E8%87%AA%E6%9D%AD%E5%B7%9E%E6%96%87%E9%BE%99%E5%B7%B7%E5%B0%8F%E5%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [肩膀突然不内扣了](https://s.weibo.com/weibo?q=%E8%82%A9%E8%86%80%E7%AA%81%E7%84%B6%E4%B8%8D%E5%86%85%E6%89%A3%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [蜜雪冰城否认将下架红茶产品](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%90%A6%E8%AE%A4%E5%B0%86%E4%B8%8B%E6%9E%B6%E7%BA%A2%E8%8C%B6%E4%BA%A7%E5%93%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [骗子教3小时老人仍未学会转账](https://s.weibo.com/weibo?q=%23%E9%AA%97%E5%AD%90%E6%95%993%E5%B0%8F%E6%97%B6%E8%80%81%E4%BA%BA%E4%BB%8D%E6%9C%AA%E5%AD%A6%E4%BC%9A%E8%BD%AC%E8%B4%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
