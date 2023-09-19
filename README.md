@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 00:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 00:19:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [花西子道歉信一半篇幅宣传品牌](https://www.baidu.com/s?wd=%E8%8A%B1%E8%A5%BF%E5%AD%90%E9%81%93%E6%AD%89%E4%BF%A1%E4%B8%80%E5%8D%8A%E7%AF%87%E5%B9%85%E5%AE%A3%E4%BC%A0%E5%93%81%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [打造“数字丝绸之路”](https://www.baidu.com/s?wd=%E6%89%93%E9%80%A0%E2%80%9C%E6%95%B0%E5%AD%97%E4%B8%9D%E7%BB%B8%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [12306：不可能给第三方优先购票权](https://www.baidu.com/s?wd=12306%EF%BC%9A%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%BB%99%E7%AC%AC%E4%B8%89%E6%96%B9%E4%BC%98%E5%85%88%E8%B4%AD%E7%A5%A8%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [国庆大花篮里首次装上了五谷](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%A4%A7%E8%8A%B1%E7%AF%AE%E9%87%8C%E9%A6%96%E6%AC%A1%E8%A3%85%E4%B8%8A%E4%BA%86%E4%BA%94%E8%B0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女学生遇陌生男骚扰 拒绝后被辱骂](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A6%E7%94%9F%E9%81%87%E9%99%8C%E7%94%9F%E7%94%B7%E9%AA%9A%E6%89%B0+%E6%8B%92%E7%BB%9D%E5%90%8E%E8%A2%AB%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度驱逐加拿大外交官 否认在加行刺](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%A9%B1%E9%80%90%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%96%E4%BA%A4%E5%AE%98+%E5%90%A6%E8%AE%A4%E5%9C%A8%E5%8A%A0%E8%A1%8C%E5%88%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子被优衣库员工掐脖子拖回收银台](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%BC%98%E8%A1%A3%E5%BA%93%E5%91%98%E5%B7%A5%E6%8E%90%E8%84%96%E5%AD%90%E6%8B%96%E5%9B%9E%E6%94%B6%E9%93%B6%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [房贷利率调降在即 银行积极备战](https://www.baidu.com/s?wd=%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E8%B0%83%E9%99%8D%E5%9C%A8%E5%8D%B3+%E9%93%B6%E8%A1%8C%E7%A7%AF%E6%9E%81%E5%A4%87%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [任正非称苹果是华为的老师](https://www.baidu.com/s?wd=%E4%BB%BB%E6%AD%A3%E9%9D%9E%E7%A7%B0%E8%8B%B9%E6%9E%9C%E6%98%AF%E5%8D%8E%E4%B8%BA%E7%9A%84%E8%80%81%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [护照号EL开头是老赖？官方辟谣](https://www.baidu.com/s?wd=%E6%8A%A4%E7%85%A7%E5%8F%B7EL%E5%BC%80%E5%A4%B4%E6%98%AF%E8%80%81%E8%B5%96%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [花西子道歉信一半篇幅宣传品牌](https://www.baidu.com/s?wd=%E8%8A%B1%E8%A5%BF%E5%AD%90%E9%81%93%E6%AD%89%E4%BF%A1%E4%B8%80%E5%8D%8A%E7%AF%87%E5%B9%85%E5%AE%A3%E4%BC%A0%E5%93%81%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [打造“数字丝绸之路”](https://www.baidu.com/s?wd=%E6%89%93%E9%80%A0%E2%80%9C%E6%95%B0%E5%AD%97%E4%B8%9D%E7%BB%B8%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [12306：不可能给第三方优先购票权](https://www.baidu.com/s?wd=12306%EF%BC%9A%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%BB%99%E7%AC%AC%E4%B8%89%E6%96%B9%E4%BC%98%E5%85%88%E8%B4%AD%E7%A5%A8%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [国庆大花篮里首次装上了五谷](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%A4%A7%E8%8A%B1%E7%AF%AE%E9%87%8C%E9%A6%96%E6%AC%A1%E8%A3%85%E4%B8%8A%E4%BA%86%E4%BA%94%E8%B0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女学生遇陌生男骚扰 拒绝后被辱骂](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A6%E7%94%9F%E9%81%87%E9%99%8C%E7%94%9F%E7%94%B7%E9%AA%9A%E6%89%B0+%E6%8B%92%E7%BB%9D%E5%90%8E%E8%A2%AB%E8%BE%B1%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度驱逐加拿大外交官 否认在加行刺](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%A9%B1%E9%80%90%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%96%E4%BA%A4%E5%AE%98+%E5%90%A6%E8%AE%A4%E5%9C%A8%E5%8A%A0%E8%A1%8C%E5%88%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子被优衣库员工掐脖子拖回收银台](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%BC%98%E8%A1%A3%E5%BA%93%E5%91%98%E5%B7%A5%E6%8E%90%E8%84%96%E5%AD%90%E6%8B%96%E5%9B%9E%E6%94%B6%E9%93%B6%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [房贷利率调降在即 银行积极备战](https://www.baidu.com/s?wd=%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E8%B0%83%E9%99%8D%E5%9C%A8%E5%8D%B3+%E9%93%B6%E8%A1%8C%E7%A7%AF%E6%9E%81%E5%A4%87%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [任正非称苹果是华为的老师](https://www.baidu.com/s?wd=%E4%BB%BB%E6%AD%A3%E9%9D%9E%E7%A7%B0%E8%8B%B9%E6%9E%9C%E6%98%AF%E5%8D%8E%E4%B8%BA%E7%9A%84%E8%80%81%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [护照号EL开头是老赖？官方辟谣](https://www.baidu.com/s?wd=%E6%8A%A4%E7%85%A7%E5%8F%B7EL%E5%BC%80%E5%A4%B4%E6%98%AF%E8%80%81%E8%B5%96%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
