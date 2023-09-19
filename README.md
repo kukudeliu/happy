@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 13:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 13:47:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [亚运会金牌赛事日历](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%87%91%E7%89%8C%E8%B5%9B%E4%BA%8B%E6%97%A5%E5%8E%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [央视官网表扬刘雨昕演唱会强实名](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E5%AE%98%E7%BD%91%E8%A1%A8%E6%89%AC%E5%88%98%E9%9B%A8%E6%98%95%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%BA%E5%AE%9E%E5%90%8D%23&t=31&band_rank=4&Refer=top)<br />
 5. [韩国一位奶奶在公厕住了十年](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%B8%80%E4%BD%8D%E5%A5%B6%E5%A5%B6%E5%9C%A8%E5%85%AC%E5%8E%95%E4%BD%8F%E4%BA%86%E5%8D%81%E5%B9%B4&t=31&band_rank=5&Refer=top)<br />
-6. [华中师大通报公众号引用骂人伪诗经](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%B8%88%E5%A4%A7%E9%80%9A%E6%8A%A5%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BC%95%E7%94%A8%E9%AA%82%E4%BA%BA%E4%BC%AA%E8%AF%97%E7%BB%8F%23&t=31&band_rank=6&Refer=top)<br />
-7. [花少5 沙特](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%915%20%E6%B2%99%E7%89%B9&t=31&band_rank=7&Refer=top)<br />
-8. [虞书欣米兰时装周](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%B1%B3%E5%85%B0%E6%97%B6%E8%A3%85%E5%91%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵继伟担任中国男篮队长](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E6%8B%85%E4%BB%BB%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E9%98%9F%E9%95%BF%23&t=31&band_rank=9&Refer=top)<br />
+6. [傅首尔给自己的压力好大](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E7%BB%99%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8E%8B%E5%8A%9B%E5%A5%BD%E5%A4%A7%23&t=31&band_rank=6&Refer=top)<br />
+7. [华中师大通报公众号引用骂人伪诗经](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%B8%88%E5%A4%A7%E9%80%9A%E6%8A%A5%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BC%95%E7%94%A8%E9%AA%82%E4%BA%BA%E4%BC%AA%E8%AF%97%E7%BB%8F%23&t=31&band_rank=7&Refer=top)<br />
+8. [花少5 沙特](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%915%20%E6%B2%99%E7%89%B9&t=31&band_rank=8&Refer=top)<br />
+9. [虞书欣米兰时装周](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%B1%B3%E5%85%B0%E6%97%B6%E8%A3%85%E5%91%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
