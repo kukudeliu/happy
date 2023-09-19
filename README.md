@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 21:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 21:15:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [长风破浪 王一博李沁](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E7%A0%B4%E6%B5%AA%20%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9D%8E%E6%B2%81&t=31&band_rank=5&Refer=top)<br />
 6. [焦虑的人可以多吃点酸的](https://s.weibo.com/weibo?q=%23%E7%84%A6%E8%99%91%E7%9A%84%E4%BA%BA%E5%8F%AF%E4%BB%A5%E5%A4%9A%E5%90%83%E7%82%B9%E9%85%B8%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [国足亚运队vs印度](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%BA%9A%E8%BF%90%E9%98%9Fvs%E5%8D%B0%E5%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [我有一个朋友](https://s.weibo.com/weibo?q=%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E6%9C%8B%E5%8F%8B&t=31&band_rank=8&Refer=top)<br />
-9. [肩膀突然不内扣了](https://s.weibo.com/weibo?q=%E8%82%A9%E8%86%80%E7%AA%81%E7%84%B6%E4%B8%8D%E5%86%85%E6%89%A3%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [肩膀突然不内扣了](https://s.weibo.com/weibo?q=%E8%82%A9%E8%86%80%E7%AA%81%E7%84%B6%E4%B8%8D%E5%86%85%E6%89%A3%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [我有一个朋友](https://s.weibo.com/weibo?q=%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E6%9C%8B%E5%8F%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
