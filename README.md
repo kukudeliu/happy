@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 14:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 14:40:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [人文之美让亚运更精彩](https://www.baidu.com/s?wd=%E4%BA%BA%E6%96%87%E4%B9%8B%E7%BE%8E%E8%AE%A9%E4%BA%9A%E8%BF%90%E6%9B%B4%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [王毅：中俄合作不受第三方干扰](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E4%B8%AD%E4%BF%84%E5%90%88%E4%BD%9C%E4%B8%8D%E5%8F%97%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B9%B2%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [杭州亚运会中国队开门红](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%BC%80%E9%97%A8%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [400人赴喜宴近百人中毒 官方通报](https://www.baidu.com/s?wd=400%E4%BA%BA%E8%B5%B4%E5%96%9C%E5%AE%B4%E8%BF%91%E7%99%BE%E4%BA%BA%E4%B8%AD%E6%AF%92+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [保障粮食安全 端牢中国饭碗](https://www.baidu.com/s?wd=%E4%BF%9D%E9%9A%9C%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8+%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [脱贫县3亿元无人机订单告吹 媒体解读](https://www.baidu.com/s?wd=%E8%84%B1%E8%B4%AB%E5%8E%BF3%E4%BA%BF%E5%85%83%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%AE%A2%E5%8D%95%E5%91%8A%E5%90%B9+%E5%AA%92%E4%BD%93%E8%A7%A3%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生和妈妈双双剃寸头 惊到爸爸](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%92%8C%E5%A6%88%E5%A6%88%E5%8F%8C%E5%8F%8C%E5%89%83%E5%AF%B8%E5%A4%B4+%E6%83%8A%E5%88%B0%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杭州亚运会中国队开门红](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%BC%80%E9%97%A8%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [NASA发现超级地球或有人居住](https://www.baidu.com/s?wd=NASA%E5%8F%91%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%9C%B0%E7%90%83%E6%88%96%E6%9C%89%E4%BA%BA%E5%B1%85%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [NASA发现超级地球或有人居住](https://www.baidu.com/s?wd=NASA%E5%8F%91%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%9C%B0%E7%90%83%E6%88%96%E6%9C%89%E4%BA%BA%E5%B1%85%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周星驰御用配音石班瑜发视频求助](https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%BE%A1%E7%94%A8%E9%85%8D%E9%9F%B3%E7%9F%B3%E7%8F%AD%E7%91%9C%E5%8F%91%E8%A7%86%E9%A2%91%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [味精加热后会产生致癌物？假的](https://www.baidu.com/s?wd=%E5%91%B3%E7%B2%BE%E5%8A%A0%E7%83%AD%E5%90%8E%E4%BC%9A%E4%BA%A7%E7%94%9F%E8%87%B4%E7%99%8C%E7%89%A9%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [人文之美让亚运更精彩](https://www.baidu.com/s?wd=%E4%BA%BA%E6%96%87%E4%B9%8B%E7%BE%8E%E8%AE%A9%E4%BA%9A%E8%BF%90%E6%9B%B4%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [王毅：中俄合作不受第三方干扰](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E4%B8%AD%E4%BF%84%E5%90%88%E4%BD%9C%E4%B8%8D%E5%8F%97%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B9%B2%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [杭州亚运会中国队开门红](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%BC%80%E9%97%A8%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [400人赴喜宴近百人中毒 官方通报](https://www.baidu.com/s?wd=400%E4%BA%BA%E8%B5%B4%E5%96%9C%E5%AE%B4%E8%BF%91%E7%99%BE%E4%BA%BA%E4%B8%AD%E6%AF%92+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [保障粮食安全 端牢中国饭碗](https://www.baidu.com/s?wd=%E4%BF%9D%E9%9A%9C%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8+%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [脱贫县3亿元无人机订单告吹 媒体解读](https://www.baidu.com/s?wd=%E8%84%B1%E8%B4%AB%E5%8E%BF3%E4%BA%BF%E5%85%83%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%AE%A2%E5%8D%95%E5%91%8A%E5%90%B9+%E5%AA%92%E4%BD%93%E8%A7%A3%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生和妈妈双双剃寸头 惊到爸爸](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%92%8C%E5%A6%88%E5%A6%88%E5%8F%8C%E5%8F%8C%E5%89%83%E5%AF%B8%E5%A4%B4+%E6%83%8A%E5%88%B0%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杭州亚运会中国队开门红](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%BC%80%E9%97%A8%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [NASA发现超级地球或有人居住](https://www.baidu.com/s?wd=NASA%E5%8F%91%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%9C%B0%E7%90%83%E6%88%96%E6%9C%89%E4%BA%BA%E5%B1%85%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [NASA发现超级地球或有人居住](https://www.baidu.com/s?wd=NASA%E5%8F%91%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%9C%B0%E7%90%83%E6%88%96%E6%9C%89%E4%BA%BA%E5%B1%85%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周星驰御用配音石班瑜发视频求助](https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%BE%A1%E7%94%A8%E9%85%8D%E9%9F%B3%E7%9F%B3%E7%8F%AD%E7%91%9C%E5%8F%91%E8%A7%86%E9%A2%91%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [味精加热后会产生致癌物？假的](https://www.baidu.com/s?wd=%E5%91%B3%E7%B2%BE%E5%8A%A0%E7%83%AD%E5%90%8E%E4%BC%9A%E4%BA%A7%E7%94%9F%E8%87%B4%E7%99%8C%E7%89%A9%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
