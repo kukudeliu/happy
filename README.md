@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 10:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 10:08:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [妻子肺癌脑转移丈夫拼尽全力从死亡线救回](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%82%BA%E7%99%8C%E8%84%91%E8%BD%AC%E7%A7%BB%E4%B8%88%E5%A4%AB%E6%8B%BC%E5%B0%BD%E5%85%A8%E5%8A%9B%E4%BB%8E%E6%AD%BB%E4%BA%A1%E7%BA%BF%E6%95%91%E5%9B%9E%23&t=31&band_rank=5&Refer=top)<br />
 6. [极度疲劳下人一次最多能睡多久](https://s.weibo.com/weibo?q=%E6%9E%81%E5%BA%A6%E7%96%B2%E5%8A%B3%E4%B8%8B%E4%BA%BA%E4%B8%80%E6%AC%A1%E6%9C%80%E5%A4%9A%E8%83%BD%E7%9D%A1%E5%A4%9A%E4%B9%85&t=31&band_rank=6&Refer=top)<br />
 7. [三喜奶奶看起来比况盛还年轻](https://s.weibo.com/weibo?q=%E4%B8%89%E5%96%9C%E5%A5%B6%E5%A5%B6%E7%9C%8B%E8%B5%B7%E6%9D%A5%E6%AF%94%E5%86%B5%E7%9B%9B%E8%BF%98%E5%B9%B4%E8%BD%BB&t=31&band_rank=7&Refer=top)<br />
-8. [95号汽油或将进入9元时代](https://s.weibo.com/weibo?q=%2395%E5%8F%B7%E6%B1%BD%E6%B2%B9%E6%88%96%E5%B0%86%E8%BF%9B%E5%85%A59%E5%85%83%E6%97%B6%E4%BB%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [游客买票470元错付成4700元景区急寻人](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E4%B9%B0%E7%A5%A8470%E5%85%83%E9%94%99%E4%BB%98%E6%88%904700%E5%85%83%E6%99%AF%E5%8C%BA%E6%80%A5%E5%AF%BB%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [游客买票470元错付成4700元景区急寻人](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E4%B9%B0%E7%A5%A8470%E5%85%83%E9%94%99%E4%BB%98%E6%88%904700%E5%85%83%E6%99%AF%E5%8C%BA%E6%80%A5%E5%AF%BB%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [95号汽油或将进入9元时代](https://s.weibo.com/weibo?q=%2395%E5%8F%B7%E6%B1%BD%E6%B2%B9%E6%88%96%E5%B0%86%E8%BF%9B%E5%85%A59%E5%85%83%E6%97%B6%E4%BB%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
