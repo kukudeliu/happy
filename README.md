@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 05:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 05:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [12306：不可能给第三方优先购票权](https://www.baidu.com/s?wd=12306%EF%BC%9A%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%BB%99%E7%AC%AC%E4%B8%89%E6%96%B9%E4%BC%98%E5%85%88%E8%B4%AD%E7%A5%A8%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子被优衣库员工掐脖子拖回收银台](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%BC%98%E8%A1%A3%E5%BA%93%E5%91%98%E5%B7%A5%E6%8E%90%E8%84%96%E5%AD%90%E6%8B%96%E5%9B%9E%E6%94%B6%E9%93%B6%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [骗子教3小时老人仍未学会转账](https://www.baidu.com/s?wd=%E9%AA%97%E5%AD%90%E6%95%993%E5%B0%8F%E6%97%B6%E8%80%81%E4%BA%BA%E4%BB%8D%E6%9C%AA%E5%AD%A6%E4%BC%9A%E8%BD%AC%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小伙一天走3万步吃10顿饭胖了30斤](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%B8%80%E5%A4%A9%E8%B5%B03%E4%B8%87%E6%AD%A5%E5%90%8310%E9%A1%BF%E9%A5%AD%E8%83%96%E4%BA%8630%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [NASA发现超级地球或有人居住](https://www.baidu.com/s?wd=NASA%E5%8F%91%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%9C%B0%E7%90%83%E6%88%96%E6%9C%89%E4%BA%BA%E5%B1%85%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [护照号EL开头是老赖？官方辟谣](https://www.baidu.com/s?wd=%E6%8A%A4%E7%85%A7%E5%8F%B7EL%E5%BC%80%E5%A4%B4%E6%98%AF%E8%80%81%E8%B5%96%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [12306：不可能给第三方优先购票权](https://www.baidu.com/s?wd=12306%EF%BC%9A%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%BB%99%E7%AC%AC%E4%B8%89%E6%96%B9%E4%BC%98%E5%85%88%E8%B4%AD%E7%A5%A8%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子被优衣库员工掐脖子拖回收银台](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%BC%98%E8%A1%A3%E5%BA%93%E5%91%98%E5%B7%A5%E6%8E%90%E8%84%96%E5%AD%90%E6%8B%96%E5%9B%9E%E6%94%B6%E9%93%B6%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [骗子教3小时老人仍未学会转账](https://www.baidu.com/s?wd=%E9%AA%97%E5%AD%90%E6%95%993%E5%B0%8F%E6%97%B6%E8%80%81%E4%BA%BA%E4%BB%8D%E6%9C%AA%E5%AD%A6%E4%BC%9A%E8%BD%AC%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小伙一天走3万步吃10顿饭胖了30斤](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%B8%80%E5%A4%A9%E8%B5%B03%E4%B8%87%E6%AD%A5%E5%90%8310%E9%A1%BF%E9%A5%AD%E8%83%96%E4%BA%8630%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [NASA发现超级地球或有人居住](https://www.baidu.com/s?wd=NASA%E5%8F%91%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%9C%B0%E7%90%83%E6%88%96%E6%9C%89%E4%BA%BA%E5%B1%85%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [护照号EL开头是老赖？官方辟谣](https://www.baidu.com/s?wd=%E6%8A%A4%E7%85%A7%E5%8F%B7EL%E5%BC%80%E5%A4%B4%E6%98%AF%E8%80%81%E8%B5%96%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
