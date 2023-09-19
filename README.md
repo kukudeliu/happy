@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 17:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 17:39:02</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [现场：文在寅抵达医院探望李在明](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%EF%BC%9A%E6%96%87%E5%9C%A8%E5%AF%85%E6%8A%B5%E8%BE%BE%E5%8C%BB%E9%99%A2%E6%8E%A2%E6%9C%9B%E6%9D%8E%E5%9C%A8%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [坚持科技创新引领发展](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E5%BC%95%E9%A2%86%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马龙亚运会简历好长](https://www.baidu.com/s?wd=%E9%A9%AC%E9%BE%99%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%AE%80%E5%8E%86%E5%A5%BD%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [茅台快把自己玩成料酒了](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E5%BF%AB%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%8E%A9%E6%88%90%E6%96%99%E9%85%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [溺亡3兄弟父亲：孩子不是去玩水的](https://www.baidu.com/s?wd=%E6%BA%BA%E4%BA%A13%E5%85%84%E5%BC%9F%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E6%98%AF%E5%8E%BB%E7%8E%A9%E6%B0%B4%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [溺亡3兄弟父亲：孩子不是去玩水的](https://www.baidu.com/s?wd=%E6%BA%BA%E4%BA%A13%E5%85%84%E5%BC%9F%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E6%98%AF%E5%8E%BB%E7%8E%A9%E6%B0%B4%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [茅台快把自己玩成料酒了](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E5%BF%AB%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%8E%A9%E6%88%90%E6%96%99%E9%85%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [百度AI畅游工博会](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6AI%E7%95%85%E6%B8%B8%E5%B7%A5%E5%8D%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [与多国签署采购协议？华为辟谣](https://www.baidu.com/s?wd=%E4%B8%8E%E5%A4%9A%E5%9B%BD%E7%AD%BE%E7%BD%B2%E9%87%87%E8%B4%AD%E5%8D%8F%E8%AE%AE%EF%BC%9F%E5%8D%8E%E4%B8%BA%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [现场：文在寅抵达医院探望李在明](https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%EF%BC%9A%E6%96%87%E5%9C%A8%E5%AF%85%E6%8A%B5%E8%BE%BE%E5%8C%BB%E9%99%A2%E6%8E%A2%E6%9C%9B%E6%9D%8E%E5%9C%A8%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [坚持科技创新引领发展](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E5%BC%95%E9%A2%86%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马龙亚运会简历好长](https://www.baidu.com/s?wd=%E9%A9%AC%E9%BE%99%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%AE%80%E5%8E%86%E5%A5%BD%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [茅台快把自己玩成料酒了](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E5%BF%AB%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%8E%A9%E6%88%90%E6%96%99%E9%85%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [溺亡3兄弟父亲：孩子不是去玩水的](https://www.baidu.com/s?wd=%E6%BA%BA%E4%BA%A13%E5%85%84%E5%BC%9F%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E6%98%AF%E5%8E%BB%E7%8E%A9%E6%B0%B4%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [溺亡3兄弟父亲：孩子不是去玩水的](https://www.baidu.com/s?wd=%E6%BA%BA%E4%BA%A13%E5%85%84%E5%BC%9F%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E6%98%AF%E5%8E%BB%E7%8E%A9%E6%B0%B4%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [茅台快把自己玩成料酒了](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E5%BF%AB%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%8E%A9%E6%88%90%E6%96%99%E9%85%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [百度AI畅游工博会](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6AI%E7%95%85%E6%B8%B8%E5%B7%A5%E5%8D%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [与多国签署采购协议？华为辟谣](https://www.baidu.com/s?wd=%E4%B8%8E%E5%A4%9A%E5%9B%BD%E7%AD%BE%E7%BD%B2%E9%87%87%E8%B4%AD%E5%8D%8F%E8%AE%AE%EF%BC%9F%E5%8D%8E%E4%B8%BA%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
