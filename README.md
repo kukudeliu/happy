@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 05:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 05:04:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [花西子道歉信一半篇幅宣传品牌](https://www.baidu.com/s?wd=%E8%8A%B1%E8%A5%BF%E5%AD%90%E9%81%93%E6%AD%89%E4%BF%A1%E4%B8%80%E5%8D%8A%E7%AF%87%E5%B9%85%E5%AE%A3%E4%BC%A0%E5%93%81%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [打造“数字丝绸之路”](https://www.baidu.com/s?wd=%E6%89%93%E9%80%A0%E2%80%9C%E6%95%B0%E5%AD%97%E4%B8%9D%E7%BB%B8%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [12306：不可能给第三方优先购票权](https://www.baidu.com/s?wd=12306%EF%BC%9A%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%BB%99%E7%AC%AC%E4%B8%89%E6%96%B9%E4%BC%98%E5%85%88%E8%B4%AD%E7%A5%A8%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [外卖小哥不顾订单哭着跑进派出所](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%8D%E9%A1%BE%E8%AE%A2%E5%8D%95%E5%93%AD%E7%9D%80%E8%B7%91%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女生和妈妈双双剃寸头 惊到爸爸](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%92%8C%E5%A6%88%E5%A6%88%E5%8F%8C%E5%8F%8C%E5%89%83%E5%AF%B8%E5%A4%B4+%E6%83%8A%E5%88%B0%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [31岁博士坠亡 曾报警称手机需检查](https://www.baidu.com/s?wd=31%E5%B2%81%E5%8D%9A%E5%A3%AB%E5%9D%A0%E4%BA%A1+%E6%9B%BE%E6%8A%A5%E8%AD%A6%E7%A7%B0%E6%89%8B%E6%9C%BA%E9%9C%80%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女生和妈妈双双剃寸头 惊到爸爸](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%92%8C%E5%A6%88%E5%A6%88%E5%8F%8C%E5%8F%8C%E5%89%83%E5%AF%B8%E5%A4%B4+%E6%83%8A%E5%88%B0%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [31岁博士坠亡 曾报警称手机需检查](https://www.baidu.com/s?wd=31%E5%B2%81%E5%8D%9A%E5%A3%AB%E5%9D%A0%E4%BA%A1+%E6%9B%BE%E6%8A%A5%E8%AD%A6%E7%A7%B0%E6%89%8B%E6%9C%BA%E9%9C%80%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [外卖小哥不顾订单哭着跑进派出所](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%8D%E9%A1%BE%E8%AE%A2%E5%8D%95%E5%93%AD%E7%9D%80%E8%B7%91%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [护照号EL开头是老赖？官方辟谣](https://www.baidu.com/s?wd=%E6%8A%A4%E7%85%A7%E5%8F%B7EL%E5%BC%80%E5%A4%B4%E6%98%AF%E8%80%81%E8%B5%96%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [花西子道歉信一半篇幅宣传品牌](https://www.baidu.com/s?wd=%E8%8A%B1%E8%A5%BF%E5%AD%90%E9%81%93%E6%AD%89%E4%BF%A1%E4%B8%80%E5%8D%8A%E7%AF%87%E5%B9%85%E5%AE%A3%E4%BC%A0%E5%93%81%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [打造“数字丝绸之路”](https://www.baidu.com/s?wd=%E6%89%93%E9%80%A0%E2%80%9C%E6%95%B0%E5%AD%97%E4%B8%9D%E7%BB%B8%E4%B9%8B%E8%B7%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [12306：不可能给第三方优先购票权](https://www.baidu.com/s?wd=12306%EF%BC%9A%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%BB%99%E7%AC%AC%E4%B8%89%E6%96%B9%E4%BC%98%E5%85%88%E8%B4%AD%E7%A5%A8%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [外卖小哥不顾订单哭着跑进派出所](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%8D%E9%A1%BE%E8%AE%A2%E5%8D%95%E5%93%AD%E7%9D%80%E8%B7%91%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女生和妈妈双双剃寸头 惊到爸爸](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%92%8C%E5%A6%88%E5%A6%88%E5%8F%8C%E5%8F%8C%E5%89%83%E5%AF%B8%E5%A4%B4+%E6%83%8A%E5%88%B0%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [31岁博士坠亡 曾报警称手机需检查](https://www.baidu.com/s?wd=31%E5%B2%81%E5%8D%9A%E5%A3%AB%E5%9D%A0%E4%BA%A1+%E6%9B%BE%E6%8A%A5%E8%AD%A6%E7%A7%B0%E6%89%8B%E6%9C%BA%E9%9C%80%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女生和妈妈双双剃寸头 惊到爸爸](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%92%8C%E5%A6%88%E5%A6%88%E5%8F%8C%E5%8F%8C%E5%89%83%E5%AF%B8%E5%A4%B4+%E6%83%8A%E5%88%B0%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [31岁博士坠亡 曾报警称手机需检查](https://www.baidu.com/s?wd=31%E5%B2%81%E5%8D%9A%E5%A3%AB%E5%9D%A0%E4%BA%A1+%E6%9B%BE%E6%8A%A5%E8%AD%A6%E7%A7%B0%E6%89%8B%E6%9C%BA%E9%9C%80%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [外卖小哥不顾订单哭着跑进派出所](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%8D%E9%A1%BE%E8%AE%A2%E5%8D%95%E5%93%AD%E7%9D%80%E8%B7%91%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [护照号EL开头是老赖？官方辟谣](https://www.baidu.com/s?wd=%E6%8A%A4%E7%85%A7%E5%8F%B7EL%E5%BC%80%E5%A4%B4%E6%98%AF%E8%80%81%E8%B5%96%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
