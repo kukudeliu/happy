@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 15:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 15:32:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [亚运会金牌赛事日历](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%87%91%E7%89%8C%E8%B5%9B%E4%BA%8B%E6%97%A5%E5%8E%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [iPhone用户羡慕的安卓功能](https://s.weibo.com/weibo?q=%23iPhone%E7%94%A8%E6%88%B7%E7%BE%A1%E6%85%95%E7%9A%84%E5%AE%89%E5%8D%93%E5%8A%9F%E8%83%BD%23&t=31&band_rank=4&Refer=top)<br />
 5. [长相思杨紫换成女装后就没那么好看了](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E6%9D%A8%E7%B4%AB%E6%8D%A2%E6%88%90%E5%A5%B3%E8%A3%85%E5%90%8E%E5%B0%B1%E6%B2%A1%E9%82%A3%E4%B9%88%E5%A5%BD%E7%9C%8B%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
-6. [关晓彤方回应天然呆奶茶公司被强执](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%A9%E7%84%B6%E5%91%86%E5%A5%B6%E8%8C%B6%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%BC%BA%E6%89%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [央视官网表扬刘雨昕演唱会强实名](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E5%AE%98%E7%BD%91%E8%A1%A8%E6%89%AC%E5%88%98%E9%9B%A8%E6%98%95%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%BA%E5%AE%9E%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
+6. [央视官网表扬刘雨昕演唱会强实名](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E5%AE%98%E7%BD%91%E8%A1%A8%E6%89%AC%E5%88%98%E9%9B%A8%E6%98%95%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%BA%E5%AE%9E%E5%90%8D%23&t=31&band_rank=6&Refer=top)<br />
+7. [关晓彤方回应天然呆奶茶公司被强执](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%A9%E7%84%B6%E5%91%86%E5%A5%B6%E8%8C%B6%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%BC%BA%E6%89%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [天蚕土豆 逆水寒](https://s.weibo.com/weibo?q=%E5%A4%A9%E8%9A%95%E5%9C%9F%E8%B1%86%20%E9%80%86%E6%B0%B4%E5%AF%92&t=31&band_rank=8&Refer=top)<br />
-9. [韩国一位奶奶在公厕住了十年](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%B8%80%E4%BD%8D%E5%A5%B6%E5%A5%B6%E5%9C%A8%E5%85%AC%E5%8E%95%E4%BD%8F%E4%BA%86%E5%8D%81%E5%B9%B4&t=31&band_rank=9&Refer=top)<br />
+9. [蜜雪冰城 红茶](https://s.weibo.com/weibo?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%20%E7%BA%A2%E8%8C%B6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
