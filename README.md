@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 19:00:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 19:02:01</h4></div>
 
 > 微博  
 
 1. [花西子发声](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=1&Refer=top)<br />
 2. [杭州阿姨1碗汤安徽姑娘铭记一生](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E9%98%BF%E5%A7%A81%E7%A2%97%E6%B1%A4%E5%AE%89%E5%BE%BD%E5%A7%91%E5%A8%98%E9%93%AD%E8%AE%B0%E4%B8%80%E7%94%9F%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚运会今日开赛](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%BB%8A%E6%97%A5%E5%BC%80%E8%B5%9B%23&t=31&band_rank=3&Refer=top)<br />
-4. [THE9解散演唱会官宣了](https://s.weibo.com/weibo?q=%23THE9%E8%A7%A3%E6%95%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
+4. [长风破浪 王一博李沁](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E7%A0%B4%E6%B5%AA%20%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9D%8E%E6%B2%81&t=31&band_rank=4&Refer=top)<br />
 5. [东海全面开渔第一网海鲜被抢空](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%B5%B7%E5%85%A8%E9%9D%A2%E5%BC%80%E6%B8%94%E7%AC%AC%E4%B8%80%E7%BD%91%E6%B5%B7%E9%B2%9C%E8%A2%AB%E6%8A%A2%E7%A9%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [北京晚霞](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%99%9A%E9%9C%9E&t=31&band_rank=6&Refer=top)<br />
+6. [THE9解散演唱会官宣了](https://s.weibo.com/weibo?q=%23THE9%E8%A7%A3%E6%95%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子被撞几十名路人瞬间集结抬车救人](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%92%9E%E5%87%A0%E5%8D%81%E5%90%8D%E8%B7%AF%E4%BA%BA%E7%9E%AC%E9%97%B4%E9%9B%86%E7%BB%93%E6%8A%AC%E8%BD%A6%E6%95%91%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [瘦子同事带的饭](https://s.weibo.com/weibo?q=%E7%98%A6%E5%AD%90%E5%90%8C%E4%BA%8B%E5%B8%A6%E7%9A%84%E9%A5%AD&t=31&band_rank=8&Refer=top)<br />
-9. [长风破浪 王一博李沁](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E7%A0%B4%E6%B5%AA%20%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9D%8E%E6%B2%81&t=31&band_rank=9&Refer=top)<br />
+9. [北京晚霞](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%99%9A%E9%9C%9E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
