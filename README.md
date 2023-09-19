@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 12:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-19 12:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [妻子肺癌脑转移丈夫拼尽全力从死亡线救回](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%82%BA%E7%99%8C%E8%84%91%E8%BD%AC%E7%A7%BB%E4%B8%88%E5%A4%AB%E6%8B%BC%E5%B0%BD%E5%85%A8%E5%8A%9B%E4%BB%8E%E6%AD%BB%E4%BA%A1%E7%BA%BF%E6%95%91%E5%9B%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [魏大勋事业粉狂喜](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%BA%8B%E4%B8%9A%E7%B2%89%E7%8B%82%E5%96%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [花少5机场合体](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%915%E6%9C%BA%E5%9C%BA%E5%90%88%E4%BD%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [95号汽油或将进入9元时代](https://s.weibo.com/weibo?q=%2395%E5%8F%B7%E6%B1%BD%E6%B2%B9%E6%88%96%E5%B0%86%E8%BF%9B%E5%85%A59%E5%85%83%E6%97%B6%E4%BB%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [关晓彤天然呆奶茶公司被强执130万](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%A4%A9%E7%84%B6%E5%91%86%E5%A5%B6%E8%8C%B6%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%BC%BA%E6%89%A7130%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
