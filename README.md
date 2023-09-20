@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 13:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 13:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [关于我们结婚了有没有剧本](https://s.weibo.com/weibo?q=%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC%E7%BB%93%E5%A9%9A%E4%BA%86%E6%9C%89%E6%B2%A1%E6%9C%89%E5%89%A7%E6%9C%AC&t=31&band_rank=6&Refer=top)<br />
 7. [宿迁遭遇强龙卷风5死4伤](https://s.weibo.com/weibo?q=%23%E5%AE%BF%E8%BF%81%E9%81%AD%E9%81%87%E5%BC%BA%E9%BE%99%E5%8D%B7%E9%A3%8E5%E6%AD%BB4%E4%BC%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [韩国是不是满大街都这种发型](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%98%AF%E6%BB%A1%E5%A4%A7%E8%A1%97%E9%83%BD%E8%BF%99%E7%A7%8D%E5%8F%91%E5%9E%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [成都蛋烘糕摊 老板有洁癖](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E8%9B%8B%E7%83%98%E7%B3%95%E6%91%8A%20%E8%80%81%E6%9D%BF%E6%9C%89%E6%B4%81%E7%99%96&t=31&band_rank=9&Refer=top)<br />
+9. [穷鬼套餐](https://s.weibo.com/weibo?q=%E7%A9%B7%E9%AC%BC%E5%A5%97%E9%A4%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
