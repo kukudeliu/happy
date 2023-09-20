@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 17:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 17:21:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [江苏龙卷风已致10人死亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E9%BE%99%E5%8D%B7%E9%A3%8E%E5%B7%B2%E8%87%B410%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [有人赴香港买金条一天赚7000元](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E8%B5%B4%E9%A6%99%E6%B8%AF%E4%B9%B0%E9%87%91%E6%9D%A1%E4%B8%80%E5%A4%A9%E8%B5%9A7000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [花西子公关部或集体离职](https://www.baidu.com/s?wd=%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%85%AC%E5%85%B3%E9%83%A8%E6%88%96%E9%9B%86%E4%BD%93%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国庆后老年人购火车票半价？假的](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%90%8E%E8%80%81%E5%B9%B4%E4%BA%BA%E8%B4%AD%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%8D%8A%E4%BB%B7%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医院辟谣清洁工半挂空中求救](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%B8%85%E6%B4%81%E5%B7%A5%E5%8D%8A%E6%8C%82%E7%A9%BA%E4%B8%AD%E6%B1%82%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [江苏龙卷风已致10人死亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E9%BE%99%E5%8D%B7%E9%A3%8E%E5%B7%B2%E8%87%B410%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [有人赴香港买金条一天赚7000元](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E8%B5%B4%E9%A6%99%E6%B8%AF%E4%B9%B0%E9%87%91%E6%9D%A1%E4%B8%80%E5%A4%A9%E8%B5%9A7000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [花西子公关部或集体离职](https://www.baidu.com/s?wd=%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%85%AC%E5%85%B3%E9%83%A8%E6%88%96%E9%9B%86%E4%BD%93%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国庆后老年人购火车票半价？假的](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%90%8E%E8%80%81%E5%B9%B4%E4%BA%BA%E8%B4%AD%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%8D%8A%E4%BB%B7%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [医院辟谣清洁工半挂空中求救](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%B8%85%E6%B4%81%E5%B7%A5%E5%8D%8A%E6%8C%82%E7%A9%BA%E4%B8%AD%E6%B1%82%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
