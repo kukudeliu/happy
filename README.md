@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 09:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 09:04:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [李佳琦直播间评论区现状](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E8%AF%84%E8%AE%BA%E5%8C%BA%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [瑞幸要和哈利波特联名了吗](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E8%A6%81%E5%92%8C%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E8%81%94%E5%90%8D%E4%BA%86%E5%90%97&t=31&band_rank=6&Refer=top)<br />
 7. [餐厅员工发顾客打娃视频后赔1万离职](https://s.weibo.com/weibo?q=%23%E9%A4%90%E5%8E%85%E5%91%98%E5%B7%A5%E5%8F%91%E9%A1%BE%E5%AE%A2%E6%89%93%E5%A8%83%E8%A7%86%E9%A2%91%E5%90%8E%E8%B5%941%E4%B8%87%E7%A6%BB%E8%81%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [60岁教授心脏骤停学生联手施救](https://s.weibo.com/weibo?q=%2360%E5%B2%81%E6%95%99%E6%8E%88%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E5%AD%A6%E7%94%9F%E8%81%94%E6%89%8B%E6%96%BD%E6%95%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [3岁孙女上幼儿园奶奶哭了一上午](https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%AD%99%E5%A5%B3%E4%B8%8A%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A5%B6%E5%A5%B6%E5%93%AD%E4%BA%86%E4%B8%80%E4%B8%8A%E5%8D%88%23&t=31&band_rank=9&Refer=top)<br />
+8. [3岁孙女上幼儿园奶奶哭了一上午](https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%AD%99%E5%A5%B3%E4%B8%8A%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A5%B6%E5%A5%B6%E5%93%AD%E4%BA%86%E4%B8%80%E4%B8%8A%E5%8D%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [60岁教授心脏骤停学生联手施救](https://s.weibo.com/weibo?q=%2360%E5%B2%81%E6%95%99%E6%8E%88%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E5%AD%A6%E7%94%9F%E8%81%94%E6%89%8B%E6%96%BD%E6%95%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
