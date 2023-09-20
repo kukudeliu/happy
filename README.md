@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 15:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 15:56:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [让飞虎队精神代代传承](https://www.baidu.com/s?wd=%E8%AE%A9%E9%A3%9E%E8%99%8E%E9%98%9F%E7%B2%BE%E7%A5%9E%E4%BB%A3%E4%BB%A3%E4%BC%A0%E6%89%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [12306回应节假日车票涨价](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E8%8A%82%E5%81%87%E6%97%A5%E8%BD%A6%E7%A5%A8%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [雷蒙多回应访华时华为推出新手机](https://www.baidu.com/s?wd=%E9%9B%B7%E8%92%99%E5%A4%9A%E5%9B%9E%E5%BA%94%E8%AE%BF%E5%8D%8E%E6%97%B6%E5%8D%8E%E4%B8%BA%E6%8E%A8%E5%87%BA%E6%96%B0%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [美商务部长对华为新机不悦 中方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E5%AF%B9%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%9C%BA%E4%B8%8D%E6%82%A6+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运会开幕式完成最后一次彩排](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%AE%8C%E6%88%90%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%BD%A9%E6%8E%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都现不明发光物 好似飞龙在天](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E7%8E%B0%E4%B8%8D%E6%98%8E%E5%8F%91%E5%85%89%E7%89%A9+%E5%A5%BD%E4%BC%BC%E9%A3%9E%E9%BE%99%E5%9C%A8%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [丈夫上厕所不关门 妻子下跪恳求](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E4%B8%8A%E5%8E%95%E6%89%80%E4%B8%8D%E5%85%B3%E9%97%A8+%E5%A6%BB%E5%AD%90%E4%B8%8B%E8%B7%AA%E6%81%B3%E6%B1%82&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [让飞虎队精神代代传承](https://www.baidu.com/s?wd=%E8%AE%A9%E9%A3%9E%E8%99%8E%E9%98%9F%E7%B2%BE%E7%A5%9E%E4%BB%A3%E4%BB%A3%E4%BC%A0%E6%89%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [12306回应节假日车票涨价](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E8%8A%82%E5%81%87%E6%97%A5%E8%BD%A6%E7%A5%A8%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [雷蒙多回应访华时华为推出新手机](https://www.baidu.com/s?wd=%E9%9B%B7%E8%92%99%E5%A4%9A%E5%9B%9E%E5%BA%94%E8%AE%BF%E5%8D%8E%E6%97%B6%E5%8D%8E%E4%B8%BA%E6%8E%A8%E5%87%BA%E6%96%B0%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [美商务部长对华为新机不悦 中方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E5%AF%B9%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%9C%BA%E4%B8%8D%E6%82%A6+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运会开幕式完成最后一次彩排](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%AE%8C%E6%88%90%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%BD%A9%E6%8E%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都现不明发光物 好似飞龙在天](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E7%8E%B0%E4%B8%8D%E6%98%8E%E5%8F%91%E5%85%89%E7%89%A9+%E5%A5%BD%E4%BC%BC%E9%A3%9E%E9%BE%99%E5%9C%A8%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [丈夫上厕所不关门 妻子下跪恳求](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E4%B8%8A%E5%8E%95%E6%89%80%E4%B8%8D%E5%85%B3%E9%97%A8+%E5%A6%BB%E5%AD%90%E4%B8%8B%E8%B7%AA%E6%81%B3%E6%B1%82&sa=fyb_news&rsv_dl=fyb_news)<br />
