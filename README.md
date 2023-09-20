@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 12:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 12:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [成都蛋烘糕摊 老板有洁癖](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E8%9B%8B%E7%83%98%E7%B3%95%E6%91%8A%20%E8%80%81%E6%9D%BF%E6%9C%89%E6%B4%81%E7%99%96&t=31&band_rank=6&Refer=top)<br />
 7. [韩国是不是满大街都这种发型](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%98%AF%E6%BB%A1%E5%A4%A7%E8%A1%97%E9%83%BD%E8%BF%99%E7%A7%8D%E5%8F%91%E5%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [雷蒙多回应华为发布新手机](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E8%92%99%E5%A4%9A%E5%9B%9E%E5%BA%94%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E6%96%B0%E6%89%8B%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [洗牙只是洗出了原本的牙缝](https://s.weibo.com/weibo?q=%23%E6%B4%97%E7%89%99%E5%8F%AA%E6%98%AF%E6%B4%97%E5%87%BA%E4%BA%86%E5%8E%9F%E6%9C%AC%E7%9A%84%E7%89%99%E7%BC%9D%23&t=31&band_rank=9&Refer=top)<br />
+9. [开始担心张婉婷的精神状态](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%A7%8B%E6%8B%85%E5%BF%83%E5%BC%A0%E5%A9%89%E5%A9%B7%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
