@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 13:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 13:46:02</h4></div>
 
 > 微博  
 
 1. [花西子公关部或集体离职](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%85%AC%E5%85%B3%E9%83%A8%E6%88%96%E9%9B%86%E4%BD%93%E7%A6%BB%E8%81%8C%23&t=31&band_rank=1&Refer=top)<br />
-2. [原来塞牙是牙齿在求救](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A1%9E%E7%89%99%E6%98%AF%E7%89%99%E9%BD%BF%E5%9C%A8%E6%B1%82%E6%95%91%23&t=31&band_rank=2&Refer=top)<br />
+2. [开始担心张婉婷的精神状态](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%A7%8B%E6%8B%85%E5%BF%83%E5%BC%A0%E5%A9%89%E5%A9%B7%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23&t=31&band_rank=2&Refer=top)<br />
 3. [何以中国的文明密码](https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%96%87%E6%98%8E%E5%AF%86%E7%A0%81%23&t=31&band_rank=3&Refer=top)<br />
 4. [女儿曝嫁人后偷懒秘诀妈妈懵了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E6%9B%9D%E5%AB%81%E4%BA%BA%E5%90%8E%E5%81%B7%E6%87%92%E7%A7%98%E8%AF%80%E5%A6%88%E5%A6%88%E6%87%B5%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [开始担心张婉婷的精神状态](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%A7%8B%E6%8B%85%E5%BF%83%E5%BC%A0%E5%A9%89%E5%A9%B7%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23&t=31&band_rank=5&Refer=top)<br />
-6. [医生发朋友圈2个通宵救2命称自豪](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%882%E4%B8%AA%E9%80%9A%E5%AE%B5%E6%95%912%E5%91%BD%E7%A7%B0%E8%87%AA%E8%B1%AA%23&t=31&band_rank=6&Refer=top)<br />
+5. [医生发朋友圈2个通宵救2命称自豪](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%882%E4%B8%AA%E9%80%9A%E5%AE%B5%E6%95%912%E5%91%BD%E7%A7%B0%E8%87%AA%E8%B1%AA%23&t=31&band_rank=5&Refer=top)<br />
+6. [原来塞牙是牙齿在求救](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A1%9E%E7%89%99%E6%98%AF%E7%89%99%E9%BD%BF%E5%9C%A8%E6%B1%82%E6%95%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [穷鬼套餐](https://s.weibo.com/weibo?q=%E7%A9%B7%E9%AC%BC%E5%A5%97%E9%A4%90&t=31&band_rank=7&Refer=top)<br />
 8. [羽生结弦方拒绝回应妻子身份](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E6%96%B9%E6%8B%92%E7%BB%9D%E5%9B%9E%E5%BA%94%E5%A6%BB%E5%AD%90%E8%BA%AB%E4%BB%BD%23&t=31&band_rank=8&Refer=top)<br />
 9. [沈阳患癌阿姨无麻药手术8小时](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E6%82%A3%E7%99%8C%E9%98%BF%E5%A7%A8%E6%97%A0%E9%BA%BB%E8%8D%AF%E6%89%8B%E6%9C%AF8%E5%B0%8F%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
