@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 13:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 13:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [原来塞牙是牙齿在求救](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A1%9E%E7%89%99%E6%98%AF%E7%89%99%E9%BD%BF%E5%9C%A8%E6%B1%82%E6%95%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [穷鬼套餐](https://s.weibo.com/weibo?q=%E7%A9%B7%E9%AC%BC%E5%A5%97%E9%A4%90&t=31&band_rank=7&Refer=top)<br />
 8. [羽生结弦方拒绝回应妻子身份](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E6%96%B9%E6%8B%92%E7%BB%9D%E5%9B%9E%E5%BA%94%E5%A6%BB%E5%AD%90%E8%BA%AB%E4%BB%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [沈阳患癌阿姨无麻药手术8小时](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E6%82%A3%E7%99%8C%E9%98%BF%E5%A7%A8%E6%97%A0%E9%BA%BB%E8%8D%AF%E6%89%8B%E6%9C%AF8%E5%B0%8F%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [警方发3.4万条钓鱼短信321名大学生上钩](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%8F%913.4%E4%B8%87%E6%9D%A1%E9%92%93%E9%B1%BC%E7%9F%AD%E4%BF%A1321%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8A%E9%92%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
