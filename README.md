@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 12:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 12:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [洗牙只是洗出了原本的牙缝](https://s.weibo.com/weibo?q=%23%E6%B4%97%E7%89%99%E5%8F%AA%E6%98%AF%E6%B4%97%E5%87%BA%E4%BA%86%E5%8E%9F%E6%9C%AC%E7%9A%84%E7%89%99%E7%BC%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩国是不是满大街都这种发型](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%98%AF%E6%BB%A1%E5%A4%A7%E8%A1%97%E9%83%BD%E8%BF%99%E7%A7%8D%E5%8F%91%E5%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [献鱼](https://s.weibo.com/weibo?q=%23%E7%8C%AE%E9%B1%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [长期喝带有水垢的水会不会得肾结石](https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%9F%E5%96%9D%E5%B8%A6%E6%9C%89%E6%B0%B4%E5%9E%A2%E7%9A%84%E6%B0%B4%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%BE%97%E8%82%BE%E7%BB%93%E7%9F%B3&t=31&band_rank=9&Refer=top)<br />
+9. [第一次看见存嫁妆是为了不嫁的](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E8%A7%81%E5%AD%98%E5%AB%81%E5%A6%86%E6%98%AF%E4%B8%BA%E4%BA%86%E4%B8%8D%E5%AB%81%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
