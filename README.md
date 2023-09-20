@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 03:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 03:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [北极兔cp](https://s.weibo.com/weibo?q=%E5%8C%97%E6%9E%81%E5%85%94cp&t=31&band_rank=6&Refer=top)<br />
 7. [日媒曝羽生结弦妻子是中国人](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%9B%9D%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%A6%BB%E5%AD%90%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [五条悟被腰斩](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9D%A1%E6%82%9F%E8%A2%AB%E8%85%B0%E6%96%A9&t=31&band_rank=8&Refer=top)<br />
-9. [男生泡澡后背被排水口吸出大片淤青](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%B3%A1%E6%BE%A1%E5%90%8E%E8%83%8C%E8%A2%AB%E6%8E%92%E6%B0%B4%E5%8F%A3%E5%90%B8%E5%87%BA%E5%A4%A7%E7%89%87%E6%B7%A4%E9%9D%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [杜海涛亲沈梦辰不让妈妈看](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E4%BA%B2%E6%B2%88%E6%A2%A6%E8%BE%B0%E4%B8%8D%E8%AE%A9%E5%A6%88%E5%A6%88%E7%9C%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
