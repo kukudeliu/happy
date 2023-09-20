@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 05:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 05:45:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [国产小说界的四大天王](https://s.weibo.com/weibo?q=%E5%9B%BD%E4%BA%A7%E5%B0%8F%E8%AF%B4%E7%95%8C%E7%9A%84%E5%9B%9B%E5%A4%A7%E5%A4%A9%E7%8E%8B&t=31&band_rank=4&Refer=top)<br />
 5. [删除的所有QQ空间都在这里](https://s.weibo.com/weibo?q=%23%E5%88%A0%E9%99%A4%E7%9A%84%E6%89%80%E6%9C%89QQ%E7%A9%BA%E9%97%B4%E9%83%BD%E5%9C%A8%E8%BF%99%E9%87%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [日媒曝羽生结弦妻子是中国人](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%9B%9D%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%A6%BB%E5%AD%90%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [上半年爆款是狂飙和长相思](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%88%86%E6%AC%BE%E6%98%AF%E7%8B%82%E9%A3%99%E5%92%8C%E9%95%BF%E7%9B%B8%E6%80%9D%23&t=31&band_rank=7&Refer=top)<br />
-8. [16岁读博士神童张炘炀现状](https://s.weibo.com/weibo?q=%2316%E5%B2%81%E8%AF%BB%E5%8D%9A%E5%A3%AB%E7%A5%9E%E7%AB%A5%E5%BC%A0%E7%82%98%E7%82%80%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=8&Refer=top)<br />
+7. [16岁读博士神童张炘炀现状](https://s.weibo.com/weibo?q=%2316%E5%B2%81%E8%AF%BB%E5%8D%9A%E5%A3%AB%E7%A5%9E%E7%AB%A5%E5%BC%A0%E7%82%98%E7%82%80%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=7&Refer=top)<br />
+8. [上半年爆款是狂飙和长相思](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%88%86%E6%AC%BE%E6%98%AF%E7%8B%82%E9%A3%99%E5%92%8C%E9%95%BF%E7%9B%B8%E6%80%9D%23&t=31&band_rank=8&Refer=top)<br />
 9. [老刘再次对着傅首尔唱出十五年前的歌](https://s.weibo.com/weibo?q=%E8%80%81%E5%88%98%E5%86%8D%E6%AC%A1%E5%AF%B9%E7%9D%80%E5%82%85%E9%A6%96%E5%B0%94%E5%94%B1%E5%87%BA%E5%8D%81%E4%BA%94%E5%B9%B4%E5%89%8D%E7%9A%84%E6%AD%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
