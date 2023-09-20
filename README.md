@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 10:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 10:16:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [韩国是不是满大街都这种发型](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%98%AF%E6%BB%A1%E5%A4%A7%E8%A1%97%E9%83%BD%E8%BF%99%E7%A7%8D%E5%8F%91%E5%9E%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [12306回应节假日火车票涨价](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E8%8A%82%E5%81%87%E6%97%A5%E7%81%AB%E8%BD%A6%E7%A5%A8%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [花西子道歉不够真诚不够实在](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E9%81%93%E6%AD%89%E4%B8%8D%E5%A4%9F%E7%9C%9F%E8%AF%9A%E4%B8%8D%E5%A4%9F%E5%AE%9E%E5%9C%A8%23&t=31&band_rank=6&Refer=top)<br />
-7. [花西子豪掷1万份花西币](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E8%B1%AA%E6%8E%B71%E4%B8%87%E4%BB%BD%E8%8A%B1%E8%A5%BF%E5%B8%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [读研究生之后才会知道的真相](https://s.weibo.com/weibo?q=%E8%AF%BB%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B9%8B%E5%90%8E%E6%89%8D%E4%BC%9A%E7%9F%A5%E9%81%93%E7%9A%84%E7%9C%9F%E7%9B%B8&t=31&band_rank=8&Refer=top)<br />
+7. [读研究生之后才会知道的真相](https://s.weibo.com/weibo?q=%E8%AF%BB%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B9%8B%E5%90%8E%E6%89%8D%E4%BC%9A%E7%9F%A5%E9%81%93%E7%9A%84%E7%9C%9F%E7%9B%B8&t=31&band_rank=7&Refer=top)<br />
+8. [花西子豪掷1万份花西币](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E8%B1%AA%E6%8E%B71%E4%B8%87%E4%BB%BD%E8%8A%B1%E8%A5%BF%E5%B8%81%23&t=31&band_rank=8&Refer=top)<br />
 9. [这是秋田 这是柴犬](https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E7%A7%8B%E7%94%B0%20%E8%BF%99%E6%98%AF%E6%9F%B4%E7%8A%AC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
