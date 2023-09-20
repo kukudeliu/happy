@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 13:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 13:24:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [女儿曝嫁人后偷懒秘诀妈妈懵了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E6%9B%9D%E5%AB%81%E4%BA%BA%E5%90%8E%E5%81%B7%E6%87%92%E7%A7%98%E8%AF%80%E5%A6%88%E5%A6%88%E6%87%B5%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [开始担心张婉婷的精神状态](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%A7%8B%E6%8B%85%E5%BF%83%E5%BC%A0%E5%A9%89%E5%A9%B7%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23&t=31&band_rank=5&Refer=top)<br />
 6. [穷鬼套餐](https://s.weibo.com/weibo?q=%E7%A9%B7%E9%AC%BC%E5%A5%97%E9%A4%90&t=31&band_rank=6&Refer=top)<br />
-7. [宿迁遭遇强龙卷风5死4伤](https://s.weibo.com/weibo?q=%23%E5%AE%BF%E8%BF%81%E9%81%AD%E9%81%87%E5%BC%BA%E9%BE%99%E5%8D%B7%E9%A3%8E5%E6%AD%BB4%E4%BC%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [关于我们结婚了有没有剧本](https://s.weibo.com/weibo?q=%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC%E7%BB%93%E5%A9%9A%E4%BA%86%E6%9C%89%E6%B2%A1%E6%9C%89%E5%89%A7%E6%9C%AC&t=31&band_rank=8&Refer=top)<br />
+7. [关于我们结婚了有没有剧本](https://s.weibo.com/weibo?q=%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC%E7%BB%93%E5%A9%9A%E4%BA%86%E6%9C%89%E6%B2%A1%E6%9C%89%E5%89%A7%E6%9C%AC&t=31&band_rank=7&Refer=top)<br />
+8. [宿迁遭遇强龙卷风5死4伤](https://s.weibo.com/weibo?q=%23%E5%AE%BF%E8%BF%81%E9%81%AD%E9%81%87%E5%BC%BA%E9%BE%99%E5%8D%B7%E9%A3%8E5%E6%AD%BB4%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
 9. [羽生结弦方拒绝回应妻子身份](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E6%96%B9%E6%8B%92%E7%BB%9D%E5%9B%9E%E5%BA%94%E5%A6%BB%E5%AD%90%E8%BA%AB%E4%BB%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
