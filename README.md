@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 15:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 15:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [jjxx 歹毒](https://s.weibo.com/weibo?q=jjxx%20%E6%AD%B9%E6%AF%92&t=31&band_rank=6&Refer=top)<br />
 7. [录取通知书被人冒领顶替30年](https://s.weibo.com/weibo?q=%23%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E8%A2%AB%E4%BA%BA%E5%86%92%E9%A2%86%E9%A1%B6%E6%9B%BF30%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [老刘爆哭](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%88%98%E7%88%86%E5%93%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [花西子海外对标奢侈品](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E6%B5%B7%E5%A4%96%E5%AF%B9%E6%A0%87%E5%A5%A2%E4%BE%88%E5%93%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [第一次见男主纯情到接吻噘嘴的](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E7%94%B7%E4%B8%BB%E7%BA%AF%E6%83%85%E5%88%B0%E6%8E%A5%E5%90%BB%E5%99%98%E5%98%B4%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
