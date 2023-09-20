@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 04:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 04:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [凉山多名百万级网红被捕](https://www.baidu.com/s?wd=%E5%87%89%E5%B1%B1%E5%A4%9A%E5%90%8D%E7%99%BE%E4%B8%87%E7%BA%A7%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子3个月用水589吨？水务公司回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%903%E4%B8%AA%E6%9C%88%E7%94%A8%E6%B0%B4589%E5%90%A8%EF%BC%9F%E6%B0%B4%E5%8A%A1%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [神童张炘炀现状：卡里就剩几千块钱](https://www.baidu.com/s?wd=%E7%A5%9E%E7%AB%A5%E5%BC%A0%E7%82%98%E7%82%80%E7%8E%B0%E7%8A%B6%EF%BC%9A%E5%8D%A1%E9%87%8C%E5%B0%B1%E5%89%A9%E5%87%A0%E5%8D%83%E5%9D%97%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多国呼吁为纳卡冲突局势降温](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%91%BC%E5%90%81%E4%B8%BA%E7%BA%B3%E5%8D%A1%E5%86%B2%E7%AA%81%E5%B1%80%E5%8A%BF%E9%99%8D%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄罗斯总统普京会见王毅](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E6%99%AE%E4%BA%AC%E4%BC%9A%E8%A7%81%E7%8E%8B%E6%AF%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣“化学老师用丝袜杀人”](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%8C%96%E5%AD%A6%E8%80%81%E5%B8%88%E7%94%A8%E4%B8%9D%E8%A2%9C%E6%9D%80%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [凉山多名百万级网红被捕](https://www.baidu.com/s?wd=%E5%87%89%E5%B1%B1%E5%A4%9A%E5%90%8D%E7%99%BE%E4%B8%87%E7%BA%A7%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子3个月用水589吨？水务公司回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%903%E4%B8%AA%E6%9C%88%E7%94%A8%E6%B0%B4589%E5%90%A8%EF%BC%9F%E6%B0%B4%E5%8A%A1%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [神童张炘炀现状：卡里就剩几千块钱](https://www.baidu.com/s?wd=%E7%A5%9E%E7%AB%A5%E5%BC%A0%E7%82%98%E7%82%80%E7%8E%B0%E7%8A%B6%EF%BC%9A%E5%8D%A1%E9%87%8C%E5%B0%B1%E5%89%A9%E5%87%A0%E5%8D%83%E5%9D%97%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多国呼吁为纳卡冲突局势降温](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%91%BC%E5%90%81%E4%B8%BA%E7%BA%B3%E5%8D%A1%E5%86%B2%E7%AA%81%E5%B1%80%E5%8A%BF%E9%99%8D%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄罗斯总统普京会见王毅](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E6%99%AE%E4%BA%AC%E4%BC%9A%E8%A7%81%E7%8E%8B%E6%AF%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣“化学老师用丝袜杀人”](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%8C%96%E5%AD%A6%E8%80%81%E5%B8%88%E7%94%A8%E4%B8%9D%E8%A2%9C%E6%9D%80%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
