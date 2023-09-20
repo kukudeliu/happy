@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 11:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 11:46:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [成都蛋烘糕摊 老板有洁癖](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E8%9B%8B%E7%83%98%E7%B3%95%E6%91%8A%20%E8%80%81%E6%9D%BF%E6%9C%89%E6%B4%81%E7%99%96&t=31&band_rank=4&Refer=top)<br />
 5. [韩国是不是满大街都这种发型](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%98%AF%E6%BB%A1%E5%A4%A7%E8%A1%97%E9%83%BD%E8%BF%99%E7%A7%8D%E5%8F%91%E5%9E%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [美国2009年就开始入侵华为总部服务器](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD2009%E5%B9%B4%E5%B0%B1%E5%BC%80%E5%A7%8B%E5%85%A5%E4%BE%B5%E5%8D%8E%E4%B8%BA%E6%80%BB%E9%83%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%23&t=31&band_rank=6&Refer=top)<br />
-7. [12306称不可能给第三方平台优先购票权](https://s.weibo.com/weibo?q=%2312306%E7%A7%B0%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%BB%99%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B9%B3%E5%8F%B0%E4%BC%98%E5%85%88%E8%B4%AD%E7%A5%A8%E6%9D%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [长期喝带有水垢的水会不会得肾结石](https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%9F%E5%96%9D%E5%B8%A6%E6%9C%89%E6%B0%B4%E5%9E%A2%E7%9A%84%E6%B0%B4%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%BE%97%E8%82%BE%E7%BB%93%E7%9F%B3&t=31&band_rank=8&Refer=top)<br />
+7. [长期喝带有水垢的水会不会得肾结石](https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%9F%E5%96%9D%E5%B8%A6%E6%9C%89%E6%B0%B4%E5%9E%A2%E7%9A%84%E6%B0%B4%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%BE%97%E8%82%BE%E7%BB%93%E7%9F%B3&t=31&band_rank=7&Refer=top)<br />
+8. [12306称不可能给第三方平台优先购票权](https://s.weibo.com/weibo?q=%2312306%E7%A7%B0%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%BB%99%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B9%B3%E5%8F%B0%E4%BC%98%E5%85%88%E8%B4%AD%E7%A5%A8%E6%9D%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [日本40多个地区百人食物中毒](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC40%E5%A4%9A%E4%B8%AA%E5%9C%B0%E5%8C%BA%E7%99%BE%E4%BA%BA%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
