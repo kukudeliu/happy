@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 14:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 14:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女儿曝嫁人后偷懒秘诀妈妈懵了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E6%9B%9D%E5%AB%81%E4%BA%BA%E5%90%8E%E5%81%B7%E6%87%92%E7%A7%98%E8%AF%80%E5%A6%88%E5%A6%88%E6%87%B5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [广东再添985大学](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%86%8D%E6%B7%BB985%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [警方发3.4万条钓鱼短信321名大学生上钩](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%8F%913.4%E4%B8%87%E6%9D%A1%E9%92%93%E9%B1%BC%E7%9F%AD%E4%BF%A1321%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8A%E9%92%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [穷鬼套餐](https://s.weibo.com/weibo?q=%E7%A9%B7%E9%AC%BC%E5%A5%97%E9%A4%90&t=31&band_rank=9&Refer=top)<br />
+9. [我们恋爱吧女1撞衫赵露思](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E6%81%8B%E7%88%B1%E5%90%A7%E5%A5%B31%E6%92%9E%E8%A1%AB%E8%B5%B5%E9%9C%B2%E6%80%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
