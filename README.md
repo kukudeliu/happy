@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 11:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 11:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [韩国是不是满大街都这种发型](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%98%AF%E6%BB%A1%E5%A4%A7%E8%A1%97%E9%83%BD%E8%BF%99%E7%A7%8D%E5%8F%91%E5%9E%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [日本40多个地区百人食物中毒](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC40%E5%A4%9A%E4%B8%AA%E5%9C%B0%E5%8C%BA%E7%99%BE%E4%BA%BA%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [长期喝带有水垢的水会不会得肾结石](https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%9F%E5%96%9D%E5%B8%A6%E6%9C%89%E6%B0%B4%E5%9E%A2%E7%9A%84%E6%B0%B4%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%BE%97%E8%82%BE%E7%BB%93%E7%9F%B3&t=31&band_rank=7&Refer=top)<br />
-8. [美国2009年就开始入侵华为总部服务器](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD2009%E5%B9%B4%E5%B0%B1%E5%BC%80%E5%A7%8B%E5%85%A5%E4%BE%B5%E5%8D%8E%E4%B8%BA%E6%80%BB%E9%83%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [何炅 好朋友都是阶段性的](https://s.weibo.com/weibo?q=%E4%BD%95%E7%82%85%20%E5%A5%BD%E6%9C%8B%E5%8F%8B%E9%83%BD%E6%98%AF%E9%98%B6%E6%AE%B5%E6%80%A7%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+8. [何炅 好朋友都是阶段性的](https://s.weibo.com/weibo?q=%E4%BD%95%E7%82%85%20%E5%A5%BD%E6%9C%8B%E5%8F%8B%E9%83%BD%E6%98%AF%E9%98%B6%E6%AE%B5%E6%80%A7%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
+9. [美国2009年就开始入侵华为总部服务器](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD2009%E5%B9%B4%E5%B0%B1%E5%BC%80%E5%A7%8B%E5%85%A5%E4%BE%B5%E5%8D%8E%E4%B8%BA%E6%80%BB%E9%83%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
