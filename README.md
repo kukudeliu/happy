@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 18:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 18:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [雄安新区取消商品住房预售](https://www.baidu.com/s?wd=%E9%9B%84%E5%AE%89%E6%96%B0%E5%8C%BA%E5%8F%96%E6%B6%88%E5%95%86%E5%93%81%E4%BD%8F%E6%88%BF%E9%A2%84%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [伴娘遭多人提灭火器狂喷倒地痛哭](https://www.baidu.com/s?wd=%E4%BC%B4%E5%A8%98%E9%81%AD%E5%A4%9A%E4%BA%BA%E6%8F%90%E7%81%AD%E7%81%AB%E5%99%A8%E7%8B%82%E5%96%B7%E5%80%92%E5%9C%B0%E7%97%9B%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [有人赴香港买金条一天赚7000元](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E8%B5%B4%E9%A6%99%E6%B8%AF%E4%B9%B0%E9%87%91%E6%9D%A1%E4%B8%80%E5%A4%A9%E8%B5%9A7000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [花西子公关部或集体离职](https://www.baidu.com/s?wd=%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%85%AC%E5%85%B3%E9%83%A8%E6%88%96%E9%9B%86%E4%BD%93%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [江苏龙卷风已致10人死亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E9%BE%99%E5%8D%B7%E9%A3%8E%E5%B7%B2%E8%87%B410%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [医院辟谣清洁工半挂空中求救](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%B8%85%E6%B4%81%E5%B7%A5%E5%8D%8A%E6%8C%82%E7%A9%BA%E4%B8%AD%E6%B1%82%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [雄安新区取消商品住房预售](https://www.baidu.com/s?wd=%E9%9B%84%E5%AE%89%E6%96%B0%E5%8C%BA%E5%8F%96%E6%B6%88%E5%95%86%E5%93%81%E4%BD%8F%E6%88%BF%E9%A2%84%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [伴娘遭多人提灭火器狂喷倒地痛哭](https://www.baidu.com/s?wd=%E4%BC%B4%E5%A8%98%E9%81%AD%E5%A4%9A%E4%BA%BA%E6%8F%90%E7%81%AD%E7%81%AB%E5%99%A8%E7%8B%82%E5%96%B7%E5%80%92%E5%9C%B0%E7%97%9B%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [有人赴香港买金条一天赚7000元](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E8%B5%B4%E9%A6%99%E6%B8%AF%E4%B9%B0%E9%87%91%E6%9D%A1%E4%B8%80%E5%A4%A9%E8%B5%9A7000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [花西子公关部或集体离职](https://www.baidu.com/s?wd=%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%85%AC%E5%85%B3%E9%83%A8%E6%88%96%E9%9B%86%E4%BD%93%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [江苏龙卷风已致10人死亡](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E9%BE%99%E5%8D%B7%E9%A3%8E%E5%B7%B2%E8%87%B410%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [医院辟谣清洁工半挂空中求救](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%B8%85%E6%B4%81%E5%B7%A5%E5%8D%8A%E6%8C%82%E7%A9%BA%E4%B8%AD%E6%B1%82%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
