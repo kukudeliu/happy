@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 12:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 12:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩国是不是满大街都这种发型](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%98%AF%E6%BB%A1%E5%A4%A7%E8%A1%97%E9%83%BD%E8%BF%99%E7%A7%8D%E5%8F%91%E5%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [献鱼](https://s.weibo.com/weibo?q=%23%E7%8C%AE%E9%B1%BC%23&t=31&band_rank=7&Refer=top)<br />
 8. [洗牙只是洗出了原本的牙缝](https://s.weibo.com/weibo?q=%23%E6%B4%97%E7%89%99%E5%8F%AA%E6%98%AF%E6%B4%97%E5%87%BA%E4%BA%86%E5%8E%9F%E6%9C%AC%E7%9A%84%E7%89%99%E7%BC%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [日本40多个地区百人食物中毒](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC40%E5%A4%9A%E4%B8%AA%E5%9C%B0%E5%8C%BA%E7%99%BE%E4%BA%BA%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [女儿曝嫁人后偷懒秘诀妈妈懵了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E6%9B%9D%E5%AB%81%E4%BA%BA%E5%90%8E%E5%81%B7%E6%87%92%E7%A7%98%E8%AF%80%E5%A6%88%E5%A6%88%E6%87%B5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
