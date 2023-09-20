@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 18:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 19:00:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [理想之光不灭 信念之光不灭](https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E4%B9%8B%E5%85%89%E4%B8%8D%E7%81%AD+%E4%BF%A1%E5%BF%B5%E4%B9%8B%E5%85%89%E4%B8%8D%E7%81%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [美商务部长对华为新机不悦 中方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E5%AF%B9%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%9C%BA%E4%B8%8D%E6%82%A6+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [女子吐槽工资5000国庆随份子3000](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E5%B7%A5%E8%B5%845000%E5%9B%BD%E5%BA%86%E9%9A%8F%E4%BB%BD%E5%AD%903000&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [神童张炘炀现状：卡里就剩几千块钱](https://www.baidu.com/s?wd=%E7%A5%9E%E7%AB%A5%E5%BC%A0%E7%82%98%E7%82%80%E7%8E%B0%E7%8A%B6%EF%BC%9A%E5%8D%A1%E9%87%8C%E5%B0%B1%E5%89%A9%E5%87%A0%E5%8D%83%E5%9D%97%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [用拼贴画形式看中国亚运49载历程](https://www.baidu.com/s?wd=%E7%94%A8%E6%8B%BC%E8%B4%B4%E7%94%BB%E5%BD%A2%E5%BC%8F%E7%9C%8B%E4%B8%AD%E5%9B%BD%E4%BA%9A%E8%BF%9049%E8%BD%BD%E5%8E%86%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [凉山多名百万级网红被捕](https://www.baidu.com/s?wd=%E5%87%89%E5%B1%B1%E5%A4%9A%E5%90%8D%E7%99%BE%E4%B8%87%E7%BA%A7%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [理想之光不灭 信念之光不灭](https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E4%B9%8B%E5%85%89%E4%B8%8D%E7%81%AD+%E4%BF%A1%E5%BF%B5%E4%B9%8B%E5%85%89%E4%B8%8D%E7%81%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [美商务部长对华为新机不悦 中方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E5%AF%B9%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%9C%BA%E4%B8%8D%E6%82%A6+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [女子吐槽工资5000国庆随份子3000](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E5%B7%A5%E8%B5%845000%E5%9B%BD%E5%BA%86%E9%9A%8F%E4%BB%BD%E5%AD%903000&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [神童张炘炀现状：卡里就剩几千块钱](https://www.baidu.com/s?wd=%E7%A5%9E%E7%AB%A5%E5%BC%A0%E7%82%98%E7%82%80%E7%8E%B0%E7%8A%B6%EF%BC%9A%E5%8D%A1%E9%87%8C%E5%B0%B1%E5%89%A9%E5%87%A0%E5%8D%83%E5%9D%97%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [用拼贴画形式看中国亚运49载历程](https://www.baidu.com/s?wd=%E7%94%A8%E6%8B%BC%E8%B4%B4%E7%94%BB%E5%BD%A2%E5%BC%8F%E7%9C%8B%E4%B8%AD%E5%9B%BD%E4%BA%9A%E8%BF%9049%E8%BD%BD%E5%8E%86%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [凉山多名百万级网红被捕](https://www.baidu.com/s?wd=%E5%87%89%E5%B1%B1%E5%A4%9A%E5%90%8D%E7%99%BE%E4%B8%87%E7%BA%A7%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
