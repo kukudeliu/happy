@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 21:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 21:32:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [智造世界创造美好](https://s.weibo.com/weibo?q=%23%E6%99%BA%E9%80%A0%E4%B8%96%E7%95%8C%E5%88%9B%E9%80%A0%E7%BE%8E%E5%A5%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [英雄联盟崩了](https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%B4%A9%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [心动的信号6成了四对](https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B76%E6%88%90%E4%BA%86%E5%9B%9B%E5%AF%B9%23&t=31&band_rank=5&Refer=top)<br />
-6. [谁把成毅耳朵煮了](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%8A%8A%E6%88%90%E6%AF%85%E8%80%B3%E6%9C%B5%E7%85%AE%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [日媒曝羽生结弦妻子是中国人](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%9B%9D%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%A6%BB%E5%AD%90%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
+6. [日媒曝羽生结弦妻子是中国人](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%9B%9D%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%A6%BB%E5%AD%90%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
+7. [谁把成毅耳朵煮了](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%8A%8A%E6%88%90%E6%AF%85%E8%80%B3%E6%9C%B5%E7%85%AE%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [侯卓成杨汝晴亲了四次](https://s.weibo.com/weibo?q=%23%E4%BE%AF%E5%8D%93%E6%88%90%E6%9D%A8%E6%B1%9D%E6%99%B4%E4%BA%B2%E4%BA%86%E5%9B%9B%E6%AC%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [五条悟被腰斩](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9D%A1%E6%82%9F%E8%A2%AB%E8%85%B0%E6%96%A9&t=31&band_rank=9&Refer=top)<br />
 
