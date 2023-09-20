@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 15:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 15:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [录取通知书被人冒领顶替30年](https://s.weibo.com/weibo?q=%23%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E8%A2%AB%E4%BA%BA%E5%86%92%E9%A2%86%E9%A1%B6%E6%9B%BF30%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [jjxx 歹毒](https://s.weibo.com/weibo?q=jjxx%20%E6%AD%B9%E6%AF%92&t=31&band_rank=7&Refer=top)<br />
 8. [花西子海外对标奢侈品](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E6%B5%B7%E5%A4%96%E5%AF%B9%E6%A0%87%E5%A5%A2%E4%BE%88%E5%93%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [开始担心张婉婷的精神状态](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%A7%8B%E6%8B%85%E5%BF%83%E5%BC%A0%E5%A9%89%E5%A9%B7%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [老刘爆哭](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%88%98%E7%88%86%E5%93%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [亚运会开幕式完成最后一次彩排](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%AE%8C%E6%88%90%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%BD%A9%E6%8E%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都现不明发光物 好似飞龙在天](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E7%8E%B0%E4%B8%8D%E6%98%8E%E5%8F%91%E5%85%89%E7%89%A9+%E5%A5%BD%E4%BC%BC%E9%A3%9E%E9%BE%99%E5%9C%A8%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [丈夫上厕所不关门 妻子下跪恳求](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E4%B8%8A%E5%8E%95%E6%89%80%E4%B8%8D%E5%85%B3%E9%97%A8+%E5%A6%BB%E5%AD%90%E4%B8%8B%E8%B7%AA%E6%81%B3%E6%B1%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [花西子公关部或集体离职](https://www.baidu.com/s?wd=%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%85%AC%E5%85%B3%E9%83%A8%E6%88%96%E9%9B%86%E4%BD%93%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [16岁读博士神童张炘炀现状](https://www.baidu.com/s?wd=16%E5%B2%81%E8%AF%BB%E5%8D%9A%E5%A3%AB%E7%A5%9E%E7%AB%A5%E5%BC%A0%E7%82%98%E7%82%80%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [16岁读博士神童张炘炀现状](https://www.baidu.com/s?wd=16%E5%B2%81%E8%AF%BB%E5%8D%9A%E5%A3%AB%E7%A5%9E%E7%AB%A5%E5%BC%A0%E7%82%98%E7%82%80%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [花西子公关部或集体离职](https://www.baidu.com/s?wd=%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%85%AC%E5%85%B3%E9%83%A8%E6%88%96%E9%9B%86%E4%BD%93%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [国庆后老年人购火车票半价？假的](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%90%8E%E8%80%81%E5%B9%B4%E4%BA%BA%E8%B4%AD%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%8D%8A%E4%BB%B7%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [亚运会开幕式完成最后一次彩排](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%AE%8C%E6%88%90%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%BD%A9%E6%8E%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [成都现不明发光物 好似飞龙在天](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E7%8E%B0%E4%B8%8D%E6%98%8E%E5%8F%91%E5%85%89%E7%89%A9+%E5%A5%BD%E4%BC%BC%E9%A3%9E%E9%BE%99%E5%9C%A8%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [丈夫上厕所不关门 妻子下跪恳求](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E4%B8%8A%E5%8E%95%E6%89%80%E4%B8%8D%E5%85%B3%E9%97%A8+%E5%A6%BB%E5%AD%90%E4%B8%8B%E8%B7%AA%E6%81%B3%E6%B1%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [花西子公关部或集体离职](https://www.baidu.com/s?wd=%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%85%AC%E5%85%B3%E9%83%A8%E6%88%96%E9%9B%86%E4%BD%93%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [16岁读博士神童张炘炀现状](https://www.baidu.com/s?wd=16%E5%B2%81%E8%AF%BB%E5%8D%9A%E5%A3%AB%E7%A5%9E%E7%AB%A5%E5%BC%A0%E7%82%98%E7%82%80%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [16岁读博士神童张炘炀现状](https://www.baidu.com/s?wd=16%E5%B2%81%E8%AF%BB%E5%8D%9A%E5%A3%AB%E7%A5%9E%E7%AB%A5%E5%BC%A0%E7%82%98%E7%82%80%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [花西子公关部或集体离职](https://www.baidu.com/s?wd=%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%85%AC%E5%85%B3%E9%83%A8%E6%88%96%E9%9B%86%E4%BD%93%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [国庆后老年人购火车票半价？假的](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%90%8E%E8%80%81%E5%B9%B4%E4%BA%BA%E8%B4%AD%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%8D%8A%E4%BB%B7%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
