@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 07:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 07:24:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [西安交大取消四六级学位证挂钩](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7%E5%8F%96%E6%B6%88%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%AD%A6%E4%BD%8D%E8%AF%81%E6%8C%82%E9%92%A9%23&t=31&band_rank=4&Refer=top)<br />
 5. [霸王茶姬 李相夷](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E6%9D%8E%E7%9B%B8%E5%A4%B7&t=31&band_rank=5&Refer=top)<br />
 6. [国产小说界的四大天王](https://s.weibo.com/weibo?q=%E5%9B%BD%E4%BA%A7%E5%B0%8F%E8%AF%B4%E7%95%8C%E7%9A%84%E5%9B%9B%E5%A4%A7%E5%A4%A9%E7%8E%8B&t=31&band_rank=6&Refer=top)<br />
-7. [删除的所有QQ空间都在这里](https://s.weibo.com/weibo?q=%23%E5%88%A0%E9%99%A4%E7%9A%84%E6%89%80%E6%9C%89QQ%E7%A9%BA%E9%97%B4%E9%83%BD%E5%9C%A8%E8%BF%99%E9%87%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [杜海涛亲沈梦辰不让妈妈看](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E4%BA%B2%E6%B2%88%E6%A2%A6%E8%BE%B0%E4%B8%8D%E8%AE%A9%E5%A6%88%E5%A6%88%E7%9C%8B%23&t=31&band_rank=8&Refer=top)<br />
+7. [杜海涛亲沈梦辰不让妈妈看](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E4%BA%B2%E6%B2%88%E6%A2%A6%E8%BE%B0%E4%B8%8D%E8%AE%A9%E5%A6%88%E5%A6%88%E7%9C%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [删除的所有QQ空间都在这里](https://s.weibo.com/weibo?q=%23%E5%88%A0%E9%99%A4%E7%9A%84%E6%89%80%E6%9C%89QQ%E7%A9%BA%E9%97%B4%E9%83%BD%E5%9C%A8%E8%BF%99%E9%87%8C%23&t=31&band_rank=8&Refer=top)<br />
 9. [16岁读博士神童张炘炀现状](https://s.weibo.com/weibo?q=%2316%E5%B2%81%E8%AF%BB%E5%8D%9A%E5%A3%AB%E7%A5%9E%E7%AB%A5%E5%BC%A0%E7%82%98%E7%82%80%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
