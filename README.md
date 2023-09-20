@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 12:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 12:12:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [洗牙只是洗出了原本的牙缝](https://s.weibo.com/weibo?q=%23%E6%B4%97%E7%89%99%E5%8F%AA%E6%98%AF%E6%B4%97%E5%87%BA%E4%BA%86%E5%8E%9F%E6%9C%AC%E7%9A%84%E7%89%99%E7%BC%9D%23&t=31&band_rank=5&Refer=top)<br />
 6. [韩国是不是满大街都这种发型](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%98%AF%E6%BB%A1%E5%A4%A7%E8%A1%97%E9%83%BD%E8%BF%99%E7%A7%8D%E5%8F%91%E5%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [献鱼](https://s.weibo.com/weibo?q=%23%E7%8C%AE%E9%B1%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [长期喝带有水垢的水会不会得肾结石](https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%9F%E5%96%9D%E5%B8%A6%E6%9C%89%E6%B0%B4%E5%9E%A2%E7%9A%84%E6%B0%B4%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%BE%97%E8%82%BE%E7%BB%93%E7%9F%B3&t=31&band_rank=8&Refer=top)<br />
-9. [日本40多个地区百人食物中毒](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC40%E5%A4%9A%E4%B8%AA%E5%9C%B0%E5%8C%BA%E7%99%BE%E4%BA%BA%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%23&t=31&band_rank=9&Refer=top)<br />
+8. [医生发朋友圈2个通宵救2命称自豪](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%882%E4%B8%AA%E9%80%9A%E5%AE%B5%E6%95%912%E5%91%BD%E7%A7%B0%E8%87%AA%E8%B1%AA%23&t=31&band_rank=8&Refer=top)<br />
+9. [长期喝带有水垢的水会不会得肾结石](https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%9F%E5%96%9D%E5%B8%A6%E6%9C%89%E6%B0%B4%E5%9E%A2%E7%9A%84%E6%B0%B4%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%BE%97%E8%82%BE%E7%BB%93%E7%9F%B3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
