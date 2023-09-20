@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 13:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 13:44:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [雷蒙多回应访华时华为推出新手机](https://www.baidu.com/s?wd=%E9%9B%B7%E8%92%99%E5%A4%9A%E5%9B%9E%E5%BA%94%E8%AE%BF%E5%8D%8E%E6%97%B6%E5%8D%8E%E4%B8%BA%E6%8E%A8%E5%87%BA%E6%96%B0%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [成都现不明发光物 好似飞龙在天](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E7%8E%B0%E4%B8%8D%E6%98%8E%E5%8F%91%E5%85%89%E7%89%A9+%E5%A5%BD%E4%BC%BC%E9%A3%9E%E9%BE%99%E5%9C%A8%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子冒名顶替他人30年 因怀孕被撤案](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%86%92%E5%90%8D%E9%A1%B6%E6%9B%BF%E4%BB%96%E4%BA%BA30%E5%B9%B4+%E5%9B%A0%E6%80%80%E5%AD%95%E8%A2%AB%E6%92%A4%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [餐厅员工发顾客打娃视频后赔1万离职](https://www.baidu.com/s?wd=%E9%A4%90%E5%8E%85%E5%91%98%E5%B7%A5%E5%8F%91%E9%A1%BE%E5%AE%A2%E6%89%93%E5%A8%83%E8%A7%86%E9%A2%91%E5%90%8E%E8%B5%941%E4%B8%87%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [凉山老人卖石榴被扔车外系摆拍](https://www.baidu.com/s?wd=%E5%87%89%E5%B1%B1%E8%80%81%E4%BA%BA%E5%8D%96%E7%9F%B3%E6%A6%B4%E8%A2%AB%E6%89%94%E8%BD%A6%E5%A4%96%E7%B3%BB%E6%91%86%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子造谣旅游团在日本吃海鲜被拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E6%97%85%E6%B8%B8%E5%9B%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%90%83%E6%B5%B7%E9%B2%9C%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国庆后老年人购火车票半价？假的](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%90%8E%E8%80%81%E5%B9%B4%E4%BA%BA%E8%B4%AD%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%8D%8A%E4%BB%B7%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [雷蒙多回应访华时华为推出新手机](https://www.baidu.com/s?wd=%E9%9B%B7%E8%92%99%E5%A4%9A%E5%9B%9E%E5%BA%94%E8%AE%BF%E5%8D%8E%E6%97%B6%E5%8D%8E%E4%B8%BA%E6%8E%A8%E5%87%BA%E6%96%B0%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [成都现不明发光物 好似飞龙在天](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E7%8E%B0%E4%B8%8D%E6%98%8E%E5%8F%91%E5%85%89%E7%89%A9+%E5%A5%BD%E4%BC%BC%E9%A3%9E%E9%BE%99%E5%9C%A8%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子冒名顶替他人30年 因怀孕被撤案](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%86%92%E5%90%8D%E9%A1%B6%E6%9B%BF%E4%BB%96%E4%BA%BA30%E5%B9%B4+%E5%9B%A0%E6%80%80%E5%AD%95%E8%A2%AB%E6%92%A4%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [餐厅员工发顾客打娃视频后赔1万离职](https://www.baidu.com/s?wd=%E9%A4%90%E5%8E%85%E5%91%98%E5%B7%A5%E5%8F%91%E9%A1%BE%E5%AE%A2%E6%89%93%E5%A8%83%E8%A7%86%E9%A2%91%E5%90%8E%E8%B5%941%E4%B8%87%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [凉山老人卖石榴被扔车外系摆拍](https://www.baidu.com/s?wd=%E5%87%89%E5%B1%B1%E8%80%81%E4%BA%BA%E5%8D%96%E7%9F%B3%E6%A6%B4%E8%A2%AB%E6%89%94%E8%BD%A6%E5%A4%96%E7%B3%BB%E6%91%86%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子造谣旅游团在日本吃海鲜被拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E6%97%85%E6%B8%B8%E5%9B%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%90%83%E6%B5%B7%E9%B2%9C%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [国庆后老年人购火车票半价？假的](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%90%8E%E8%80%81%E5%B9%B4%E4%BA%BA%E8%B4%AD%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%8D%8A%E4%BB%B7%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
