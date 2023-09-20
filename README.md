@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 22:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-20 22:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [删除的所有QQ空间都在这里](https://s.weibo.com/weibo?q=%23%E5%88%A0%E9%99%A4%E7%9A%84%E6%89%80%E6%9C%89QQ%E7%A9%BA%E9%97%B4%E9%83%BD%E5%9C%A8%E8%BF%99%E9%87%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [心动的信号6成了四对](https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B76%E6%88%90%E4%BA%86%E5%9B%9B%E5%AF%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [檀健次直播](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9B%B4%E6%92%AD&t=31&band_rank=8&Refer=top)<br />
-9. [于适 蓝翔系爱豆](https://s.weibo.com/weibo?q=%E4%BA%8E%E9%80%82%20%E8%93%9D%E7%BF%94%E7%B3%BB%E7%88%B1%E8%B1%86&t=31&band_rank=9&Refer=top)<br />
+9. [李盈莹一人拿下30分](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%9B%88%E8%8E%B9%E4%B8%80%E4%BA%BA%E6%8B%BF%E4%B8%8B30%E5%88%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
