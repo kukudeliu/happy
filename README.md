@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 09:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 09:04:01</h4></div>
 
 > 微博  
 
 1. [花西子创始人送1万份眉笔](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%88%9B%E5%A7%8B%E4%BA%BA%E9%80%811%E4%B8%87%E4%BB%BD%E7%9C%89%E7%AC%94%23&t=31&band_rank=1&Refer=top)<br />
 2. [西安交大取消四六级学位证挂钩](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7%E5%8F%96%E6%B6%88%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%AD%A6%E4%BD%8D%E8%AF%81%E6%8C%82%E9%92%A9%23&t=31&band_rank=2&Refer=top)<br />
 3. [世界都知道了杭州有多美](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E9%83%BD%E7%9F%A5%E9%81%93%E4%BA%86%E6%9D%AD%E5%B7%9E%E6%9C%89%E5%A4%9A%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
-4. [花西子年薪60万招品牌传播专家](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%B9%B4%E8%96%AA60%E4%B8%87%E6%8B%9B%E5%93%81%E7%89%8C%E4%BC%A0%E6%92%AD%E4%B8%93%E5%AE%B6%23&t=31&band_rank=4&Refer=top)<br />
-5. [霸王茶姬 李相夷](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E6%9D%8E%E7%9B%B8%E5%A4%B7&t=31&band_rank=5&Refer=top)<br />
+4. [霸王茶姬 李相夷](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E6%9D%8E%E7%9B%B8%E5%A4%B7&t=31&band_rank=4&Refer=top)<br />
+5. [花西子年薪60万招品牌传播专家](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%B9%B4%E8%96%AA60%E4%B8%87%E6%8B%9B%E5%93%81%E7%89%8C%E4%BC%A0%E6%92%AD%E4%B8%93%E5%AE%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [赵又廷希望女儿长得像高圆圆](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%8F%88%E5%BB%B7%E5%B8%8C%E6%9C%9B%E5%A5%B3%E5%84%BF%E9%95%BF%E5%BE%97%E5%83%8F%E9%AB%98%E5%9C%86%E5%9C%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [警方介入女生称实习被安排为男宾洗澡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%AE%9E%E4%B9%A0%E8%A2%AB%E5%AE%89%E6%8E%92%E4%B8%BA%E7%94%B7%E5%AE%BE%E6%B4%97%E6%BE%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [高度近视的人不要剧烈运动](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%BA%A6%E8%BF%91%E8%A7%86%E7%9A%84%E4%BA%BA%E4%B8%8D%E8%A6%81%E5%89%A7%E7%83%88%E8%BF%90%E5%8A%A8%23&t=31&band_rank=8&Refer=top)<br />
