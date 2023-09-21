@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 14:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 14:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [猎罪图鉴2官宣檀健次金世佳](https://s.weibo.com/weibo?q=%23%E7%8C%8E%E7%BD%AA%E5%9B%BE%E9%89%B42%E5%AE%98%E5%AE%A3%E6%AA%80%E5%81%A5%E6%AC%A1%E9%87%91%E4%B8%96%E4%BD%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [被钱砸中的刘亚仁](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%92%B1%E7%A0%B8%E4%B8%AD%E7%9A%84%E5%88%98%E4%BA%9A%E4%BB%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [拿诺奖在东莞买房补贴1000万](https://s.weibo.com/weibo?q=%23%E6%8B%BF%E8%AF%BA%E5%A5%96%E5%9C%A8%E4%B8%9C%E8%8E%9E%E4%B9%B0%E6%88%BF%E8%A1%A5%E8%B4%B41000%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [换回国货后发现工资够用了](https://s.weibo.com/weibo?q=%23%E6%8D%A2%E5%9B%9E%E5%9B%BD%E8%B4%A7%E5%90%8E%E5%8F%91%E7%8E%B0%E5%B7%A5%E8%B5%84%E5%A4%9F%E7%94%A8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [导演一下就把魏大勋推开了](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E4%B8%80%E4%B8%8B%E5%B0%B1%E6%8A%8A%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%8E%A8%E5%BC%80%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
