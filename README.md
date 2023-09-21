@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 12:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 12:08:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [年轻人忘东忘西是阿尔茨海默病吗？](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BF%98%E4%B8%9C%E5%BF%98%E8%A5%BF%E6%98%AF%E9%98%BF%E5%B0%94%E8%8C%A8%E6%B5%B7%E9%BB%98%E7%97%85%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李昌钰案或以2520万美元和解](https://www.baidu.com/s?wd=%E6%9D%8E%E6%98%8C%E9%92%B0%E6%A1%88%E6%88%96%E4%BB%A52520%E4%B8%87%E7%BE%8E%E5%85%83%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“我帮全村的老人拍好了遗照”](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E5%B8%AE%E5%85%A8%E6%9D%91%E7%9A%84%E8%80%81%E4%BA%BA%E6%8B%8D%E5%A5%BD%E4%BA%86%E9%81%97%E7%85%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：理性看待“预制菜进学校”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%90%86%E6%80%A7%E7%9C%8B%E5%BE%85%E2%80%9C%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E5%AD%A6%E6%A0%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宗馥莉低调开厂 年入百亿](https://www.baidu.com/s?wd=%E5%AE%97%E9%A6%A5%E8%8E%89%E4%BD%8E%E8%B0%83%E5%BC%80%E5%8E%82+%E5%B9%B4%E5%85%A5%E7%99%BE%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [12306辟谣“优先购票权”](https://www.baidu.com/s?wd=12306%E8%BE%9F%E8%B0%A3%E2%80%9C%E4%BC%98%E5%85%88%E8%B4%AD%E7%A5%A8%E6%9D%83%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [年轻人忘东忘西是阿尔茨海默病吗？](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BF%98%E4%B8%9C%E5%BF%98%E8%A5%BF%E6%98%AF%E9%98%BF%E5%B0%94%E8%8C%A8%E6%B5%B7%E9%BB%98%E7%97%85%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李昌钰案或以2520万美元和解](https://www.baidu.com/s?wd=%E6%9D%8E%E6%98%8C%E9%92%B0%E6%A1%88%E6%88%96%E4%BB%A52520%E4%B8%87%E7%BE%8E%E5%85%83%E5%92%8C%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“我帮全村的老人拍好了遗照”](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E5%B8%AE%E5%85%A8%E6%9D%91%E7%9A%84%E8%80%81%E4%BA%BA%E6%8B%8D%E5%A5%BD%E4%BA%86%E9%81%97%E7%85%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：理性看待“预制菜进学校”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%90%86%E6%80%A7%E7%9C%8B%E5%BE%85%E2%80%9C%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E5%AD%A6%E6%A0%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宗馥莉低调开厂 年入百亿](https://www.baidu.com/s?wd=%E5%AE%97%E9%A6%A5%E8%8E%89%E4%BD%8E%E8%B0%83%E5%BC%80%E5%8E%82+%E5%B9%B4%E5%85%A5%E7%99%BE%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [12306辟谣“优先购票权”](https://www.baidu.com/s?wd=12306%E8%BE%9F%E8%B0%A3%E2%80%9C%E4%BC%98%E5%85%88%E8%B4%AD%E7%A5%A8%E6%9D%83%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
