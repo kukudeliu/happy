@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 14:35:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 14:36:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [妈妈第一次来杭州朋友圈晒8张厕所图](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9D%A5%E6%9D%AD%E5%B7%9E%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%99%928%E5%BC%A0%E5%8E%95%E6%89%80%E5%9B%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [猎罪图鉴2官宣檀健次金世佳](https://s.weibo.com/weibo?q=%23%E7%8C%8E%E7%BD%AA%E5%9B%BE%E9%89%B42%E5%AE%98%E5%AE%A3%E6%AA%80%E5%81%A5%E6%AC%A1%E9%87%91%E4%B8%96%E4%BD%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [被钱砸中的刘亚仁](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%92%B1%E7%A0%B8%E4%B8%AD%E7%9A%84%E5%88%98%E4%BA%9A%E4%BB%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [导演一下就把魏大勋推开了](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E4%B8%80%E4%B8%8B%E5%B0%B1%E6%8A%8A%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%8E%A8%E5%BC%80%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [TheShy和小杨哥联动](https://s.weibo.com/weibo?q=%23TheShy%E5%92%8C%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%81%94%E5%8A%A8%23&t=31&band_rank=9&Refer=top)<br />
+8. [TheShy和小杨哥联动](https://s.weibo.com/weibo?q=%23TheShy%E5%92%8C%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%81%94%E5%8A%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [导演一下就把魏大勋推开了](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E4%B8%80%E4%B8%8B%E5%B0%B1%E6%8A%8A%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%8E%A8%E5%BC%80%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
