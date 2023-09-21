@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 18:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 18:57:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [妈妈第一次来杭州朋友圈晒8张厕所图](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9D%A5%E6%9D%AD%E5%B7%9E%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%99%928%E5%BC%A0%E5%8E%95%E6%89%80%E5%9B%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [只有朴彩英续约YG](https://s.weibo.com/weibo?q=%23%E5%8F%AA%E6%9C%89%E6%9C%B4%E5%BD%A9%E8%8B%B1%E7%BB%AD%E7%BA%A6YG%23&t=31&band_rank=6&Refer=top)<br />
 7. [三胞胎兄弟大学毕业一起参军](https://s.weibo.com/weibo?q=%23%E4%B8%89%E8%83%9E%E8%83%8E%E5%85%84%E5%BC%9F%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E4%B8%80%E8%B5%B7%E5%8F%82%E5%86%9B%23&t=31&band_rank=7&Refer=top)<br />
-8. [潍坊科技学院辟谣军训女生跳舞视频](https://s.weibo.com/weibo?q=%23%E6%BD%8D%E5%9D%8A%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2%E8%BE%9F%E8%B0%A3%E5%86%9B%E8%AE%AD%E5%A5%B3%E7%94%9F%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [谁家女主把男主弄哭了啊](https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E5%A5%B3%E4%B8%BB%E6%8A%8A%E7%94%B7%E4%B8%BB%E5%BC%84%E5%93%AD%E4%BA%86%E5%95%8A%23&t=31&band_rank=9&Refer=top)<br />
+8. [沪昆高速一货车轮爆胎致起火](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E6%98%86%E9%AB%98%E9%80%9F%E4%B8%80%E8%B4%A7%E8%BD%A6%E8%BD%AE%E7%88%86%E8%83%8E%E8%87%B4%E8%B5%B7%E7%81%AB%23&t=31&band_rank=8&Refer=top)<br />
+9. [潍坊科技学院辟谣军训女生跳舞视频](https://s.weibo.com/weibo?q=%23%E6%BD%8D%E5%9D%8A%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2%E8%BE%9F%E8%B0%A3%E5%86%9B%E8%AE%AD%E5%A5%B3%E7%94%9F%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
