@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 21:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 21:17:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [陈都灵到底救了多少场](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E5%88%B0%E5%BA%95%E6%95%91%E4%BA%86%E5%A4%9A%E5%B0%91%E5%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [国足亚运队半场4比0缅甸](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%BA%9A%E8%BF%90%E9%98%9F%E5%8D%8A%E5%9C%BA4%E6%AF%940%E7%BC%85%E7%94%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [林俊杰南京抢票](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%8D%97%E4%BA%AC%E6%8A%A2%E7%A5%A8&t=31&band_rank=7&Refer=top)<br />
-8. [马立奥独自在酒店的一天](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%AB%8B%E5%A5%A5%E7%8B%AC%E8%87%AA%E5%9C%A8%E9%85%92%E5%BA%97%E7%9A%84%E4%B8%80%E5%A4%A9&t=31&band_rank=8&Refer=top)<br />
-9. [这玩意凭什么火了1900年](https://s.weibo.com/weibo?q=%E8%BF%99%E7%8E%A9%E6%84%8F%E5%87%AD%E4%BB%80%E4%B9%88%E7%81%AB%E4%BA%861900%E5%B9%B4&t=31&band_rank=9&Refer=top)<br />
+8. [这玩意凭什么火了1900年](https://s.weibo.com/weibo?q=%E8%BF%99%E7%8E%A9%E6%84%8F%E5%87%AD%E4%BB%80%E4%B9%88%E7%81%AB%E4%BA%861900%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
+9. [马立奥独自在酒店的一天](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%AB%8B%E5%A5%A5%E7%8B%AC%E8%87%AA%E5%9C%A8%E9%85%92%E5%BA%97%E7%9A%84%E4%B8%80%E5%A4%A9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
