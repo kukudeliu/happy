@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 00:09:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 00:10:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [港星张智霖到警署协助调查](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E6%98%9F%E5%BC%A0%E6%99%BA%E9%9C%96%E5%88%B0%E8%AD%A6%E7%BD%B2%E5%8D%8F%E5%8A%A9%E8%B0%83%E6%9F%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [傅首尔 这段婚姻不是我憧憬的样子](https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%20%E8%BF%99%E6%AE%B5%E5%A9%9A%E5%A7%BB%E4%B8%8D%E6%98%AF%E6%88%91%E6%86%A7%E6%86%AC%E7%9A%84%E6%A0%B7%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
 8. [五哈4阵容官宣](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%884%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [他从火光中走来 孙梦](https://s.weibo.com/weibo?q=%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%20%E5%AD%99%E6%A2%A6&t=31&band_rank=9&Refer=top)<br />
+9. [法考成绩](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%83%E6%88%90%E7%BB%A9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
