@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 07:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 07:58:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [网红老婆爱吃巧乐兹发文道歉](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%80%81%E5%A9%86%E7%88%B1%E5%90%83%E5%B7%A7%E4%B9%90%E5%85%B9%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [顾客吐槽茶颜悦色点餐方式像智商税](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BD%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [港星张智霖到警署协助调查](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E6%98%9F%E5%BC%A0%E6%99%BA%E9%9C%96%E5%88%B0%E8%AD%A6%E7%BD%B2%E5%8D%8F%E5%8A%A9%E8%B0%83%E6%9F%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [黄景瑜演消防员的松弛感](https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%AF%E7%91%9C%E6%BC%94%E6%B6%88%E9%98%B2%E5%91%98%E7%9A%84%E6%9D%BE%E5%BC%9B%E6%84%9F&t=31&band_rank=9&Refer=top)<br />
+9. [法考成绩](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%83%E6%88%90%E7%BB%A9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [杭州亚运会创意视频：功成](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%88%9B%E6%84%8F%E8%A7%86%E9%A2%91%EF%BC%9A%E5%8A%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [李在明所在党国会院内领导层集体辞职](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%89%80%E5%9C%A8%E5%85%9A%E5%9B%BD%E4%BC%9A%E9%99%A2%E5%86%85%E9%A2%86%E5%AF%BC%E5%B1%82%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [美国政府重启免费新冠检测](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%87%8D%E5%90%AF%E5%85%8D%E8%B4%B9%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [花西子代工厂回应是日资企业](https://www.baidu.com/s?wd=%E8%8A%B1%E8%A5%BF%E5%AD%90%E4%BB%A3%E5%B7%A5%E5%8E%82%E5%9B%9E%E5%BA%94%E6%98%AF%E6%97%A5%E8%B5%84%E4%BC%81%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [李在明所在党国会院内领导层集体辞职](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%89%80%E5%9C%A8%E5%85%9A%E5%9B%BD%E4%BC%9A%E9%99%A2%E5%86%85%E9%A2%86%E5%AF%BC%E5%B1%82%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [重温历次“太空授课”精彩瞬间](https://www.baidu.com/s?wd=%E9%87%8D%E6%B8%A9%E5%8E%86%E6%AC%A1%E2%80%9C%E5%A4%AA%E7%A9%BA%E6%8E%88%E8%AF%BE%E2%80%9D%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [国足4-0缅甸 两连胜晋级16强](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B34-0%E7%BC%85%E7%94%B8+%E4%B8%A4%E8%BF%9E%E8%83%9C%E6%99%8B%E7%BA%A716%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [35岁小伙太爱喝饮料致双目失明](https://www.baidu.com/s?wd=35%E5%B2%81%E5%B0%8F%E4%BC%99%E5%A4%AA%E7%88%B1%E5%96%9D%E9%A5%AE%E6%96%99%E8%87%B4%E5%8F%8C%E7%9B%AE%E5%A4%B1%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [陈都灵到底救了多少场](https://www.baidu.com/s?wd=%E9%99%88%E9%83%BD%E7%81%B5%E5%88%B0%E5%BA%95%E6%95%91%E4%BA%86%E5%A4%9A%E5%B0%91%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [工厂爆燃致2死 目击者称浓烟全县可见](https://www.baidu.com/s?wd=%E5%B7%A5%E5%8E%82%E7%88%86%E7%87%83%E8%87%B42%E6%AD%BB+%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E6%B5%93%E7%83%9F%E5%85%A8%E5%8E%BF%E5%8F%AF%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [35岁小伙太爱喝饮料致双目失明](https://www.baidu.com/s?wd=35%E5%B2%81%E5%B0%8F%E4%BC%99%E5%A4%AA%E7%88%B1%E5%96%9D%E9%A5%AE%E6%96%99%E8%87%B4%E5%8F%8C%E7%9B%AE%E5%A4%B1%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [陈都灵到底救了多少场](https://www.baidu.com/s?wd=%E9%99%88%E9%83%BD%E7%81%B5%E5%88%B0%E5%BA%95%E6%95%91%E4%BA%86%E5%A4%9A%E5%B0%91%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [工厂爆燃致2死 目击者称浓烟全县可见](https://www.baidu.com/s?wd=%E5%B7%A5%E5%8E%82%E7%88%86%E7%87%83%E8%87%B42%E6%AD%BB+%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E6%B5%93%E7%83%9F%E5%85%A8%E5%8E%BF%E5%8F%AF%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国政府重启免费新冠检测](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%87%8D%E5%90%AF%E5%85%8D%E8%B4%B9%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [员工泄露商业秘密？比亚迪辟谣](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E6%B3%84%E9%9C%B2%E5%95%86%E4%B8%9A%E7%A7%98%E5%AF%86%EF%BC%9F%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [杭州亚运会创意视频：功成](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%88%9B%E6%84%8F%E8%A7%86%E9%A2%91%EF%BC%9A%E5%8A%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [李在明所在党国会院内领导层集体辞职](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%89%80%E5%9C%A8%E5%85%9A%E5%9B%BD%E4%BC%9A%E9%99%A2%E5%86%85%E9%A2%86%E5%AF%BC%E5%B1%82%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [美国政府重启免费新冠检测](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%87%8D%E5%90%AF%E5%85%8D%E8%B4%B9%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [花西子代工厂回应是日资企业](https://www.baidu.com/s?wd=%E8%8A%B1%E8%A5%BF%E5%AD%90%E4%BB%A3%E5%B7%A5%E5%8E%82%E5%9B%9E%E5%BA%94%E6%98%AF%E6%97%A5%E8%B5%84%E4%BC%81%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [李在明所在党国会院内领导层集体辞职](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%89%80%E5%9C%A8%E5%85%9A%E5%9B%BD%E4%BC%9A%E9%99%A2%E5%86%85%E9%A2%86%E5%AF%BC%E5%B1%82%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [重温历次“太空授课”精彩瞬间](https://www.baidu.com/s?wd=%E9%87%8D%E6%B8%A9%E5%8E%86%E6%AC%A1%E2%80%9C%E5%A4%AA%E7%A9%BA%E6%8E%88%E8%AF%BE%E2%80%9D%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [国足4-0缅甸 两连胜晋级16强](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B34-0%E7%BC%85%E7%94%B8+%E4%B8%A4%E8%BF%9E%E8%83%9C%E6%99%8B%E7%BA%A716%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [35岁小伙太爱喝饮料致双目失明](https://www.baidu.com/s?wd=35%E5%B2%81%E5%B0%8F%E4%BC%99%E5%A4%AA%E7%88%B1%E5%96%9D%E9%A5%AE%E6%96%99%E8%87%B4%E5%8F%8C%E7%9B%AE%E5%A4%B1%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [陈都灵到底救了多少场](https://www.baidu.com/s?wd=%E9%99%88%E9%83%BD%E7%81%B5%E5%88%B0%E5%BA%95%E6%95%91%E4%BA%86%E5%A4%9A%E5%B0%91%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [工厂爆燃致2死 目击者称浓烟全县可见](https://www.baidu.com/s?wd=%E5%B7%A5%E5%8E%82%E7%88%86%E7%87%83%E8%87%B42%E6%AD%BB+%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E6%B5%93%E7%83%9F%E5%85%A8%E5%8E%BF%E5%8F%AF%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [35岁小伙太爱喝饮料致双目失明](https://www.baidu.com/s?wd=35%E5%B2%81%E5%B0%8F%E4%BC%99%E5%A4%AA%E7%88%B1%E5%96%9D%E9%A5%AE%E6%96%99%E8%87%B4%E5%8F%8C%E7%9B%AE%E5%A4%B1%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [陈都灵到底救了多少场](https://www.baidu.com/s?wd=%E9%99%88%E9%83%BD%E7%81%B5%E5%88%B0%E5%BA%95%E6%95%91%E4%BA%86%E5%A4%9A%E5%B0%91%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [工厂爆燃致2死 目击者称浓烟全县可见](https://www.baidu.com/s?wd=%E5%B7%A5%E5%8E%82%E7%88%86%E7%87%83%E8%87%B42%E6%AD%BB+%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E6%B5%93%E7%83%9F%E5%85%A8%E5%8E%BF%E5%8F%AF%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国政府重启免费新冠检测](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%87%8D%E5%90%AF%E5%85%8D%E8%B4%B9%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [员工泄露商业秘密？比亚迪辟谣](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E6%B3%84%E9%9C%B2%E5%95%86%E4%B8%9A%E7%A7%98%E5%AF%86%EF%BC%9F%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
