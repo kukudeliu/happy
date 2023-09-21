@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 17:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 17:23:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [少爷和我](https://s.weibo.com/weibo?q=%E5%B0%91%E7%88%B7%E5%92%8C%E6%88%91&t=31&band_rank=5&Refer=top)<br />
 6. [韩国会通过同意逮捕李在明议案](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BC%9A%E9%80%9A%E8%BF%87%E5%90%8C%E6%84%8F%E9%80%AE%E6%8D%95%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%AE%AE%E6%A1%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [逆水寒 崩](https://s.weibo.com/weibo?q=%E9%80%86%E6%B0%B4%E5%AF%92%20%E5%B4%A9&t=31&band_rank=7&Refer=top)<br />
-8. [中国又一特大城市诞生](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%88%E4%B8%80%E7%89%B9%E5%A4%A7%E5%9F%8E%E5%B8%82%E8%AF%9E%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [丞磊卢昱晓去澳门拍芭莎](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8D%A2%E6%98%B1%E6%99%93%E5%8E%BB%E6%BE%B3%E9%97%A8%E6%8B%8D%E8%8A%AD%E8%8E%8E%23&t=31&band_rank=9&Refer=top)<br />
+8. [丞磊卢昱晓去澳门拍芭莎](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8D%A2%E6%98%B1%E6%99%93%E5%8E%BB%E6%BE%B3%E9%97%A8%E6%8B%8D%E8%8A%AD%E8%8E%8E%23&t=31&band_rank=8&Refer=top)<br />
+9. [中国又一特大城市诞生](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%88%E4%B8%80%E7%89%B9%E5%A4%A7%E5%9F%8E%E5%B8%82%E8%AF%9E%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
