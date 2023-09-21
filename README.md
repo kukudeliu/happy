@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 11:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 11:19:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [狐妖小红娘月红篇](https://s.weibo.com/weibo?q=%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E6%9C%88%E7%BA%A2%E7%AF%87&t=31&band_rank=5&Refer=top)<br />
 6. [许幻山 又是你](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B9%BB%E5%B1%B1%20%E5%8F%88%E6%98%AF%E4%BD%A0&t=31&band_rank=6&Refer=top)<br />
 7. [高度近视的人不要剧烈运动](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%BA%A6%E8%BF%91%E8%A7%86%E7%9A%84%E4%BA%BA%E4%B8%8D%E8%A6%81%E5%89%A7%E7%83%88%E8%BF%90%E5%8A%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [长时间用电脑后洗把脸](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%97%B6%E9%97%B4%E7%94%A8%E7%94%B5%E8%84%91%E5%90%8E%E6%B4%97%E6%8A%8A%E8%84%B8%23&t=31&band_rank=8&Refer=top)<br />
+8. [五条悟台词 人设崩塌](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9D%A1%E6%82%9F%E5%8F%B0%E8%AF%8D%20%E4%BA%BA%E8%AE%BE%E5%B4%A9%E5%A1%8C&t=31&band_rank=8&Refer=top)<br />
 9. [西安交大取消四六级学位证挂钩](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7%E5%8F%96%E6%B6%88%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%AD%A6%E4%BD%8D%E8%AF%81%E6%8C%82%E9%92%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
