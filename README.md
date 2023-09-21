@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 14:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 14:49:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [亚运中国队有36个奥运冠军](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%9C%8936%E4%B8%AA%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“国庆住我家” 可行吗？](https://www.baidu.com/s?wd=%E2%80%9C%E5%9B%BD%E5%BA%86%E4%BD%8F%E6%88%91%E5%AE%B6%E2%80%9D+%E5%8F%AF%E8%A1%8C%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方通报13岁女孩被逼喝一瓶白酒](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A513%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E9%80%BC%E5%96%9D%E4%B8%80%E7%93%B6%E7%99%BD%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国又一特大城市诞生 意味着什么？](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%88%E4%B8%80%E7%89%B9%E5%A4%A7%E5%9F%8E%E5%B8%82%E8%AF%9E%E7%94%9F+%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [家长联名要求劝退霸凌学生?校方通报](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E8%81%94%E5%90%8D%E8%A6%81%E6%B1%82%E5%8A%9D%E9%80%80%E9%9C%B8%E5%87%8C%E5%AD%A6%E7%94%9F%3F%E6%A0%A1%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [银川农田堆满垃圾 相关人员停职](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E5%86%9C%E7%94%B0%E5%A0%86%E6%BB%A1%E5%9E%83%E5%9C%BE+%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%91%98%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国又一特大城市诞生 意味着什么？](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%88%E4%B8%80%E7%89%B9%E5%A4%A7%E5%9F%8E%E5%B8%82%E8%AF%9E%E7%94%9F+%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [喝啤酒有利于体内结石排出？](https://www.baidu.com/s?wd=%E5%96%9D%E5%95%A4%E9%85%92%E6%9C%89%E5%88%A9%E4%BA%8E%E4%BD%93%E5%86%85%E7%BB%93%E7%9F%B3%E6%8E%92%E5%87%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [亚运中国队有36个奥运冠军](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%9C%8936%E4%B8%AA%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“国庆住我家” 可行吗？](https://www.baidu.com/s?wd=%E2%80%9C%E5%9B%BD%E5%BA%86%E4%BD%8F%E6%88%91%E5%AE%B6%E2%80%9D+%E5%8F%AF%E8%A1%8C%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方通报13岁女孩被逼喝一瓶白酒](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A513%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E9%80%BC%E5%96%9D%E4%B8%80%E7%93%B6%E7%99%BD%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国又一特大城市诞生 意味着什么？](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%88%E4%B8%80%E7%89%B9%E5%A4%A7%E5%9F%8E%E5%B8%82%E8%AF%9E%E7%94%9F+%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [家长联名要求劝退霸凌学生?校方通报](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E8%81%94%E5%90%8D%E8%A6%81%E6%B1%82%E5%8A%9D%E9%80%80%E9%9C%B8%E5%87%8C%E5%AD%A6%E7%94%9F%3F%E6%A0%A1%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [银川农田堆满垃圾 相关人员停职](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E5%86%9C%E7%94%B0%E5%A0%86%E6%BB%A1%E5%9E%83%E5%9C%BE+%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%91%98%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国又一特大城市诞生 意味着什么？](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%88%E4%B8%80%E7%89%B9%E5%A4%A7%E5%9F%8E%E5%B8%82%E8%AF%9E%E7%94%9F+%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [喝啤酒有利于体内结石排出？](https://www.baidu.com/s?wd=%E5%96%9D%E5%95%A4%E9%85%92%E6%9C%89%E5%88%A9%E4%BA%8E%E4%BD%93%E5%86%85%E7%BB%93%E7%9F%B3%E6%8E%92%E5%87%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
