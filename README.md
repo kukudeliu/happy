@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 20:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 20:24:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [亚运中国队有36个奥运冠军](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%9C%8936%E4%B8%AA%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [妈妈第一次来杭州朋友圈晒8张厕所图](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9D%A5%E6%9D%AD%E5%B7%9E%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%99%928%E5%BC%A0%E5%8E%95%E6%89%80%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [陈都灵到底救了多少场](https://www.baidu.com/s?wd=%E9%99%88%E9%83%BD%E7%81%B5%E5%88%B0%E5%BA%95%E6%95%91%E4%BA%86%E5%A4%9A%E5%B0%91%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [媒体：理性看待“预制菜进学校”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%90%86%E6%80%A7%E7%9C%8B%E5%BE%85%E2%80%9C%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E5%AD%A6%E6%A0%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孙女买衣服爷爷边说不要边报体重](https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E4%B9%B0%E8%A1%A3%E6%9C%8D%E7%88%B7%E7%88%B7%E8%BE%B9%E8%AF%B4%E4%B8%8D%E8%A6%81%E8%BE%B9%E6%8A%A5%E4%BD%93%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [山西太原5车相撞 面包车被压货车下](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%A4%AA%E5%8E%9F5%E8%BD%A6%E7%9B%B8%E6%92%9E+%E9%9D%A2%E5%8C%85%E8%BD%A6%E8%A2%AB%E5%8E%8B%E8%B4%A7%E8%BD%A6%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东“神水”正面硬刚可乐](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E2%80%9C%E7%A5%9E%E6%B0%B4%E2%80%9D%E6%AD%A3%E9%9D%A2%E7%A1%AC%E5%88%9A%E5%8F%AF%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [985高校落户南昌？假的](https://www.baidu.com/s?wd=985%E9%AB%98%E6%A0%A1%E8%90%BD%E6%88%B7%E5%8D%97%E6%98%8C%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [亚运中国队有36个奥运冠军](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%9C%8936%E4%B8%AA%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [妈妈第一次来杭州朋友圈晒8张厕所图](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9D%A5%E6%9D%AD%E5%B7%9E%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%99%928%E5%BC%A0%E5%8E%95%E6%89%80%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [陈都灵到底救了多少场](https://www.baidu.com/s?wd=%E9%99%88%E9%83%BD%E7%81%B5%E5%88%B0%E5%BA%95%E6%95%91%E4%BA%86%E5%A4%9A%E5%B0%91%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [媒体：理性看待“预制菜进学校”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%90%86%E6%80%A7%E7%9C%8B%E5%BE%85%E2%80%9C%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E5%AD%A6%E6%A0%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孙女买衣服爷爷边说不要边报体重](https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E4%B9%B0%E8%A1%A3%E6%9C%8D%E7%88%B7%E7%88%B7%E8%BE%B9%E8%AF%B4%E4%B8%8D%E8%A6%81%E8%BE%B9%E6%8A%A5%E4%BD%93%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [山西太原5车相撞 面包车被压货车下](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%A4%AA%E5%8E%9F5%E8%BD%A6%E7%9B%B8%E6%92%9E+%E9%9D%A2%E5%8C%85%E8%BD%A6%E8%A2%AB%E5%8E%8B%E8%B4%A7%E8%BD%A6%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东“神水”正面硬刚可乐](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E2%80%9C%E7%A5%9E%E6%B0%B4%E2%80%9D%E6%AD%A3%E9%9D%A2%E7%A1%AC%E5%88%9A%E5%8F%AF%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [985高校落户南昌？假的](https://www.baidu.com/s?wd=985%E9%AB%98%E6%A0%A1%E8%90%BD%E6%88%B7%E5%8D%97%E6%98%8C%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
