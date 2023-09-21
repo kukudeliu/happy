@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 12:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 12:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [换回国货后发现工资够用了](https://s.weibo.com/weibo?q=%23%E6%8D%A2%E5%9B%9E%E5%9B%BD%E8%B4%A7%E5%90%8E%E5%8F%91%E7%8E%B0%E5%B7%A5%E8%B5%84%E5%A4%9F%E7%94%A8%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [狐妖小红娘竹业篇首发阵容](https://s.weibo.com/weibo?q=%23%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E7%AB%B9%E4%B8%9A%E7%AF%87%E9%A6%96%E5%8F%91%E9%98%B5%E5%AE%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [NIO Phone](https://s.weibo.com/weibo?q=NIO%20Phone&t=31&band_rank=8&Refer=top)<br />
-9. [Mate60不会放过每一个逃单的人](https://s.weibo.com/weibo?q=%23Mate60%E4%B8%8D%E4%BC%9A%E6%94%BE%E8%BF%87%E6%AF%8F%E4%B8%80%E4%B8%AA%E9%80%83%E5%8D%95%E7%9A%84%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [拿诺奖在东莞买房补贴1000万](https://s.weibo.com/weibo?q=%23%E6%8B%BF%E8%AF%BA%E5%A5%96%E5%9C%A8%E4%B8%9C%E8%8E%9E%E4%B9%B0%E6%88%BF%E8%A1%A5%E8%B4%B41000%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
