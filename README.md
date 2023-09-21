@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 04:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 04:41:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [她被困在考研考编里的五年](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E8%A2%AB%E5%9B%B0%E5%9C%A8%E8%80%83%E7%A0%94%E8%80%83%E7%BC%96%E9%87%8C%E7%9A%84%E4%BA%94%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [35岁小伙太爱喝饮料致双目失明](https://s.weibo.com/weibo?q=%2335%E5%B2%81%E5%B0%8F%E4%BC%99%E5%A4%AA%E7%88%B1%E5%96%9D%E9%A5%AE%E6%96%99%E8%87%B4%E5%8F%8C%E7%9B%AE%E5%A4%B1%E6%98%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [网红老婆爱吃巧乐兹发文道歉](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%80%81%E5%A9%86%E7%88%B1%E5%90%83%E5%B7%A7%E4%B9%90%E5%85%B9%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [顾客吐槽茶颜悦色点餐方式像智商税](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BD%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [陆毅谢谢大家帮我找回回忆](https://s.weibo.com/weibo?q=%E9%99%86%E6%AF%85%E8%B0%A2%E8%B0%A2%E5%A4%A7%E5%AE%B6%E5%B8%AE%E6%88%91%E6%89%BE%E5%9B%9E%E5%9B%9E%E5%BF%86&t=31&band_rank=8&Refer=top)<br />
+7. [陆毅谢谢大家帮我找回回忆](https://s.weibo.com/weibo?q=%E9%99%86%E6%AF%85%E8%B0%A2%E8%B0%A2%E5%A4%A7%E5%AE%B6%E5%B8%AE%E6%88%91%E6%89%BE%E5%9B%9E%E5%9B%9E%E5%BF%86&t=31&band_rank=7&Refer=top)<br />
+8. [顾客吐槽茶颜悦色点餐方式像智商税](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BD%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E%23&t=31&band_rank=8&Refer=top)<br />
 9. [我有一个朋友 欢你](https://s.weibo.com/weibo?q=%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E6%9C%8B%E5%8F%8B%20%E6%AC%A2%E4%BD%A0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
