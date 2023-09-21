@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 10:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 10:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黄子诚姚瑶结婚了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E8%AF%9A%E5%A7%9A%E7%91%B6%E7%BB%93%E5%A9%9A%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [长时间用电脑后洗把脸](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%97%B6%E9%97%B4%E7%94%A8%E7%94%B5%E8%84%91%E5%90%8E%E6%B4%97%E6%8A%8A%E8%84%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [西安交大取消四六级学位证挂钩](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7%E5%8F%96%E6%B6%88%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%AD%A6%E4%BD%8D%E8%AF%81%E6%8C%82%E9%92%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [日本对华食品出口暴跌41.2%](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AF%B9%E5%8D%8E%E9%A3%9F%E5%93%81%E5%87%BA%E5%8F%A3%E6%9A%B4%E8%B7%8C41.2%25%23&t=31&band_rank=9&Refer=top)<br />
+9. [迪丽热巴秦岚花少5合照](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%A7%A6%E5%B2%9A%E8%8A%B1%E5%B0%915%E5%90%88%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
