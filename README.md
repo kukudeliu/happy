@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 12:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 12:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [NIO Phone](https://s.weibo.com/weibo?q=NIO%20Phone&t=31&band_rank=6&Refer=top)<br />
 7. [赵又廷希望女儿长得像高圆圆](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%8F%88%E5%BB%B7%E5%B8%8C%E6%9C%9B%E5%A5%B3%E5%84%BF%E9%95%BF%E5%BE%97%E5%83%8F%E9%AB%98%E5%9C%86%E5%9C%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [终于弄清瑜伽裤和鲨鱼裤的区别](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E5%BC%84%E6%B8%85%E7%91%9C%E4%BC%BD%E8%A3%A4%E5%92%8C%E9%B2%A8%E9%B1%BC%E8%A3%A4%E7%9A%84%E5%8C%BA%E5%88%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [西安交大取消四六级学位证挂钩](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7%E5%8F%96%E6%B6%88%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%AD%A6%E4%BD%8D%E8%AF%81%E6%8C%82%E9%92%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [猎罪图鉴2没加女主](https://s.weibo.com/weibo?q=%23%E7%8C%8E%E7%BD%AA%E5%9B%BE%E9%89%B42%E6%B2%A1%E5%8A%A0%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
