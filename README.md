@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 00:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 00:36:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [央媒：无底线婚闹是在犯罪](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E6%97%A0%E5%BA%95%E7%BA%BF%E5%A9%9A%E9%97%B9%E6%98%AF%E5%9C%A8%E7%8A%AF%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [35岁小伙太爱喝饮料致双目失明](https://www.baidu.com/s?wd=35%E5%B2%81%E5%B0%8F%E4%BC%99%E5%A4%AA%E7%88%B1%E5%96%9D%E9%A5%AE%E6%96%99%E8%87%B4%E5%8F%8C%E7%9B%AE%E5%A4%B1%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [10人死刑 警方披露破获特大贩毒案](https://www.baidu.com/s?wd=10%E4%BA%BA%E6%AD%BB%E5%88%91+%E8%AD%A6%E6%96%B9%E6%8A%AB%E9%9C%B2%E7%A0%B4%E8%8E%B7%E7%89%B9%E5%A4%A7%E8%B4%A9%E6%AF%92%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孙女买衣服爷爷边说不要边报体重](https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E4%B9%B0%E8%A1%A3%E6%9C%8D%E7%88%B7%E7%88%B7%E8%BE%B9%E8%AF%B4%E4%B8%8D%E8%A6%81%E8%BE%B9%E6%8A%A5%E4%BD%93%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [工厂爆燃致2死 目击者称浓烟全县可见](https://www.baidu.com/s?wd=%E5%B7%A5%E5%8E%82%E7%88%86%E7%87%83%E8%87%B42%E6%AD%BB+%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E6%B5%93%E7%83%9F%E5%85%A8%E5%8E%BF%E5%8F%AF%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [员工泄露商业秘密？比亚迪辟谣](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E6%B3%84%E9%9C%B2%E5%95%86%E4%B8%9A%E7%A7%98%E5%AF%86%EF%BC%9F%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [央媒：无底线婚闹是在犯罪](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E6%97%A0%E5%BA%95%E7%BA%BF%E5%A9%9A%E9%97%B9%E6%98%AF%E5%9C%A8%E7%8A%AF%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [35岁小伙太爱喝饮料致双目失明](https://www.baidu.com/s?wd=35%E5%B2%81%E5%B0%8F%E4%BC%99%E5%A4%AA%E7%88%B1%E5%96%9D%E9%A5%AE%E6%96%99%E8%87%B4%E5%8F%8C%E7%9B%AE%E5%A4%B1%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [10人死刑 警方披露破获特大贩毒案](https://www.baidu.com/s?wd=10%E4%BA%BA%E6%AD%BB%E5%88%91+%E8%AD%A6%E6%96%B9%E6%8A%AB%E9%9C%B2%E7%A0%B4%E8%8E%B7%E7%89%B9%E5%A4%A7%E8%B4%A9%E6%AF%92%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孙女买衣服爷爷边说不要边报体重](https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E4%B9%B0%E8%A1%A3%E6%9C%8D%E7%88%B7%E7%88%B7%E8%BE%B9%E8%AF%B4%E4%B8%8D%E8%A6%81%E8%BE%B9%E6%8A%A5%E4%BD%93%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [工厂爆燃致2死 目击者称浓烟全县可见](https://www.baidu.com/s?wd=%E5%B7%A5%E5%8E%82%E7%88%86%E7%87%83%E8%87%B42%E6%AD%BB+%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E6%B5%93%E7%83%9F%E5%85%A8%E5%8E%BF%E5%8F%AF%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [员工泄露商业秘密？比亚迪辟谣](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E6%B3%84%E9%9C%B2%E5%95%86%E4%B8%9A%E7%A7%98%E5%AF%86%EF%BC%9F%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
