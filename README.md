@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 20:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 20:09:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [孟钰活成了安欣的样子](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E9%92%B0%E6%B4%BB%E6%88%90%E4%BA%86%E5%AE%89%E6%AC%A3%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [重庆三号线](https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E4%B8%89%E5%8F%B7%E7%BA%BF&t=31&band_rank=6&Refer=top)<br />
 7. [卢昱晓为教丞磊上海话求助妈妈](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E4%B8%BA%E6%95%99%E4%B8%9E%E7%A3%8A%E4%B8%8A%E6%B5%B7%E8%AF%9D%E6%B1%82%E5%8A%A9%E5%A6%88%E5%A6%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [谭龙破门](https://s.weibo.com/weibo?q=%E8%B0%AD%E9%BE%99%E7%A0%B4%E9%97%A8&t=31&band_rank=8&Refer=top)<br />
-9. [黄健翔今晚国足应该是一场胜利](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%81%A5%E7%BF%94%E4%BB%8A%E6%99%9A%E5%9B%BD%E8%B6%B3%E5%BA%94%E8%AF%A5%E6%98%AF%E4%B8%80%E5%9C%BA%E8%83%9C%E5%88%A9%23&t=31&band_rank=9&Refer=top)<br />
+8. [黄健翔今晚国足应该是一场胜利](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%81%A5%E7%BF%94%E4%BB%8A%E6%99%9A%E5%9B%BD%E8%B6%B3%E5%BA%94%E8%AF%A5%E6%98%AF%E4%B8%80%E5%9C%BA%E8%83%9C%E5%88%A9%23&t=31&band_rank=8&Refer=top)<br />
+9. [只有朴彩英续约YG](https://s.weibo.com/weibo?q=%23%E5%8F%AA%E6%9C%89%E6%9C%B4%E5%BD%A9%E8%8B%B1%E7%BB%AD%E7%BA%A6YG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
