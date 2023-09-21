@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 14:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 14:05:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [中国又一特大城市诞生](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%88%E4%B8%80%E7%89%B9%E5%A4%A7%E5%9F%8E%E5%B8%82%E8%AF%9E%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [拿诺奖在东莞买房补贴1000万](https://s.weibo.com/weibo?q=%23%E6%8B%BF%E8%AF%BA%E5%A5%96%E5%9C%A8%E4%B8%9C%E8%8E%9E%E4%B9%B0%E6%88%BF%E8%A1%A5%E8%B4%B41000%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [妈妈第一次来杭州朋友圈晒8张厕所图](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9D%A5%E6%9D%AD%E5%B7%9E%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%99%928%E5%BC%A0%E5%8E%95%E6%89%80%E5%9B%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [成毅优酷扫楼](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E4%BC%98%E9%85%B7%E6%89%AB%E6%A5%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [被钱砸中的刘亚仁](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%92%B1%E7%A0%B8%E4%B8%AD%E7%9A%84%E5%88%98%E4%BA%9A%E4%BB%81%23&t=31&band_rank=9&Refer=top)<br />
+8. [被钱砸中的刘亚仁](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%92%B1%E7%A0%B8%E4%B8%AD%E7%9A%84%E5%88%98%E4%BA%9A%E4%BB%81%23&t=31&band_rank=8&Refer=top)<br />
+9. [成毅优酷扫楼](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E4%BC%98%E9%85%B7%E6%89%AB%E6%A5%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
