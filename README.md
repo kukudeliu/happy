@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 10:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 10:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [高度近视的人不要剧烈运动](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%BA%A6%E8%BF%91%E8%A7%86%E7%9A%84%E4%BA%BA%E4%B8%8D%E8%A6%81%E5%89%A7%E7%83%88%E8%BF%90%E5%8A%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [电影野孩子官宣](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E9%87%8E%E5%AD%A9%E5%AD%90%E5%AE%98%E5%AE%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [霸王茶姬 李相夷](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E6%9D%8E%E7%9B%B8%E5%A4%B7&t=31&band_rank=7&Refer=top)<br />
-8. [花西子年薪63万招公关](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%B9%B4%E8%96%AA63%E4%B8%87%E6%8B%9B%E5%85%AC%E5%85%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [日本对华食品出口暴跌41.2%](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AF%B9%E5%8D%8E%E9%A3%9F%E5%93%81%E5%87%BA%E5%8F%A3%E6%9A%B4%E8%B7%8C41.2%25%23&t=31&band_rank=9&Refer=top)<br />
+8. [日本对华食品出口暴跌41.2%](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AF%B9%E5%8D%8E%E9%A3%9F%E5%93%81%E5%87%BA%E5%8F%A3%E6%9A%B4%E8%B7%8C41.2%25%23&t=31&band_rank=8&Refer=top)<br />
+9. [洁柔直播间输错价格亏损千万](https://s.weibo.com/weibo?q=%23%E6%B4%81%E6%9F%94%E7%9B%B4%E6%92%AD%E9%97%B4%E8%BE%93%E9%94%99%E4%BB%B7%E6%A0%BC%E4%BA%8F%E6%8D%9F%E5%8D%83%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
