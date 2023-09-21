@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 20:16:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 20:17:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [陈都灵到底救了多少场](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E5%88%B0%E5%BA%95%E6%95%91%E4%BA%86%E5%A4%9A%E5%B0%91%E5%9C%BA%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会将产生多少枚金牌](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%B0%86%E4%BA%A7%E7%94%9F%E5%A4%9A%E5%B0%91%E6%9E%9A%E9%87%91%E7%89%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [结过婚后真的再没羡慕过婚礼上的新娘](https://s.weibo.com/weibo?q=%E7%BB%93%E8%BF%87%E5%A9%9A%E5%90%8E%E7%9C%9F%E7%9A%84%E5%86%8D%E6%B2%A1%E7%BE%A1%E6%85%95%E8%BF%87%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%9A%84%E6%96%B0%E5%A8%98&t=31&band_rank=4&Refer=top)<br />
-5. [孟钰活成了安欣的样子](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E9%92%B0%E6%B4%BB%E6%88%90%E4%BA%86%E5%AE%89%E6%AC%A3%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
-6. [黄健翔今晚国足应该是一场胜利](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%81%A5%E7%BF%94%E4%BB%8A%E6%99%9A%E5%9B%BD%E8%B6%B3%E5%BA%94%E8%AF%A5%E6%98%AF%E4%B8%80%E5%9C%BA%E8%83%9C%E5%88%A9%23&t=31&band_rank=6&Refer=top)<br />
-7. [卢昱晓为教丞磊上海话求助妈妈](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E4%B8%BA%E6%95%99%E4%B8%9E%E7%A3%8A%E4%B8%8A%E6%B5%B7%E8%AF%9D%E6%B1%82%E5%8A%A9%E5%A6%88%E5%A6%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [重庆三号线](https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E4%B8%89%E5%8F%B7%E7%BA%BF&t=31&band_rank=8&Refer=top)<br />
-9. [只有朴彩英续约YG](https://s.weibo.com/weibo?q=%23%E5%8F%AA%E6%9C%89%E6%9C%B4%E5%BD%A9%E8%8B%B1%E7%BB%AD%E7%BA%A6YG%23&t=31&band_rank=9&Refer=top)<br />
+5. [网红老婆爱吃巧乐兹发文道歉](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%80%81%E5%A9%86%E7%88%B1%E5%90%83%E5%B7%A7%E4%B9%90%E5%85%B9%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23&t=31&band_rank=5&Refer=top)<br />
+6. [孟钰活成了安欣的样子](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E9%92%B0%E6%B4%BB%E6%88%90%E4%BA%86%E5%AE%89%E6%AC%A3%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
+7. [黄健翔今晚国足应该是一场胜利](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%81%A5%E7%BF%94%E4%BB%8A%E6%99%9A%E5%9B%BD%E8%B6%B3%E5%BA%94%E8%AF%A5%E6%98%AF%E4%B8%80%E5%9C%BA%E8%83%9C%E5%88%A9%23&t=31&band_rank=7&Refer=top)<br />
+8. [卢昱晓为教丞磊上海话求助妈妈](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E4%B8%BA%E6%95%99%E4%B8%9E%E7%A3%8A%E4%B8%8A%E6%B5%B7%E8%AF%9D%E6%B1%82%E5%8A%A9%E5%A6%88%E5%A6%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [重庆三号线](https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E4%B8%89%E5%8F%B7%E7%BA%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
