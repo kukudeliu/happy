@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 20:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 20:39:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [陈都灵到底救了多少场](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E5%88%B0%E5%BA%95%E6%95%91%E4%BA%86%E5%A4%9A%E5%B0%91%E5%9C%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [结过婚后真的再没羡慕过婚礼上的新娘](https://s.weibo.com/weibo?q=%E7%BB%93%E8%BF%87%E5%A9%9A%E5%90%8E%E7%9C%9F%E7%9A%84%E5%86%8D%E6%B2%A1%E7%BE%A1%E6%85%95%E8%BF%87%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%9A%84%E6%96%B0%E5%A8%98&t=31&band_rank=4&Refer=top)<br />
 5. [国足亚运队半场4比0缅甸](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%BA%9A%E8%BF%90%E9%98%9F%E5%8D%8A%E5%9C%BA4%E6%AF%940%E7%BC%85%E7%94%B8%23&t=31&band_rank=5&Refer=top)<br />
-6. [马立奥独自在酒店的一天](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%AB%8B%E5%A5%A5%E7%8B%AC%E8%87%AA%E5%9C%A8%E9%85%92%E5%BA%97%E7%9A%84%E4%B8%80%E5%A4%A9&t=31&band_rank=6&Refer=top)<br />
-7. [这玩意凭什么火了1900年](https://s.weibo.com/weibo?q=%E8%BF%99%E7%8E%A9%E6%84%8F%E5%87%AD%E4%BB%80%E4%B9%88%E7%81%AB%E4%BA%861900%E5%B9%B4&t=31&band_rank=7&Refer=top)<br />
+6. [这玩意凭什么火了1900年](https://s.weibo.com/weibo?q=%E8%BF%99%E7%8E%A9%E6%84%8F%E5%87%AD%E4%BB%80%E4%B9%88%E7%81%AB%E4%BA%861900%E5%B9%B4&t=31&band_rank=6&Refer=top)<br />
+7. [马立奥独自在酒店的一天](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%AB%8B%E5%A5%A5%E7%8B%AC%E8%87%AA%E5%9C%A8%E9%85%92%E5%BA%97%E7%9A%84%E4%B8%80%E5%A4%A9&t=31&band_rank=7&Refer=top)<br />
 8. [孟钰活成了安欣的样子](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E9%92%B0%E6%B4%BB%E6%88%90%E4%BA%86%E5%AE%89%E6%AC%A3%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
 9. [黄健翔今晚国足应该是一场胜利](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%81%A5%E7%BF%94%E4%BB%8A%E6%99%9A%E5%9B%BD%E8%B6%B3%E5%BA%94%E8%AF%A5%E6%98%AF%E4%B8%80%E5%9C%BA%E8%83%9C%E5%88%A9%23&t=31&band_rank=9&Refer=top)<br />
 
