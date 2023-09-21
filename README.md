@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 19:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 19:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孟钰活成了安欣的样子](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E9%92%B0%E6%B4%BB%E6%88%90%E4%BA%86%E5%AE%89%E6%AC%A3%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [三胞胎兄弟大学毕业一起参军](https://s.weibo.com/weibo?q=%23%E4%B8%89%E8%83%9E%E8%83%8E%E5%85%84%E5%BC%9F%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E4%B8%80%E8%B5%B7%E5%8F%82%E5%86%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [重庆三号线](https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E4%B8%89%E5%8F%B7%E7%BA%BF&t=31&band_rank=8&Refer=top)<br />
-9. [沪昆高速一货车轮爆胎致起火](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E6%98%86%E9%AB%98%E9%80%9F%E4%B8%80%E8%B4%A7%E8%BD%A6%E8%BD%AE%E7%88%86%E8%83%8E%E8%87%B4%E8%B5%B7%E7%81%AB%23&t=31&band_rank=9&Refer=top)<br />
+9. [只有朴彩英续约YG](https://s.weibo.com/weibo?q=%23%E5%8F%AA%E6%9C%89%E6%9C%B4%E5%BD%A9%E8%8B%B1%E7%BB%AD%E7%BA%A6YG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [学校给孩子吃预制菜 上千名家长送餐](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E7%BB%99%E5%AD%A9%E5%AD%90%E5%90%83%E9%A2%84%E5%88%B6%E8%8F%9C+%E4%B8%8A%E5%8D%83%E5%90%8D%E5%AE%B6%E9%95%BF%E9%80%81%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [台湾一登山团遭蜂群攻击2死9伤](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E4%B8%80%E7%99%BB%E5%B1%B1%E5%9B%A2%E9%81%AD%E8%9C%82%E7%BE%A4%E6%94%BB%E5%87%BB2%E6%AD%BB9%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#不可思议的百科知识#](https://www.baidu.com/s?wd=%23%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AE%AE%E7%9A%84%E7%99%BE%E7%A7%91%E7%9F%A5%E8%AF%86%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生军训跳舞走光？网传涉事学校辟谣](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%86%9B%E8%AE%AD%E8%B7%B3%E8%88%9E%E8%B5%B0%E5%85%89%EF%BC%9F%E7%BD%91%E4%BC%A0%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [儿子服刑母亲替其在粮食局领工资](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E6%9C%8D%E5%88%91%E6%AF%8D%E4%BA%B2%E6%9B%BF%E5%85%B6%E5%9C%A8%E7%B2%AE%E9%A3%9F%E5%B1%80%E9%A2%86%E5%B7%A5%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [学校给孩子吃预制菜 上千名家长送餐](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E7%BB%99%E5%AD%A9%E5%AD%90%E5%90%83%E9%A2%84%E5%88%B6%E8%8F%9C+%E4%B8%8A%E5%8D%83%E5%90%8D%E5%AE%B6%E9%95%BF%E9%80%81%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [台湾一登山团遭蜂群攻击2死9伤](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E4%B8%80%E7%99%BB%E5%B1%B1%E5%9B%A2%E9%81%AD%E8%9C%82%E7%BE%A4%E6%94%BB%E5%87%BB2%E6%AD%BB9%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#不可思议的百科知识#](https://www.baidu.com/s?wd=%23%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AE%AE%E7%9A%84%E7%99%BE%E7%A7%91%E7%9F%A5%E8%AF%86%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生军训跳舞走光？网传涉事学校辟谣](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%86%9B%E8%AE%AD%E8%B7%B3%E8%88%9E%E8%B5%B0%E5%85%89%EF%BC%9F%E7%BD%91%E4%BC%A0%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [儿子服刑母亲替其在粮食局领工资](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E6%9C%8D%E5%88%91%E6%AF%8D%E4%BA%B2%E6%9B%BF%E5%85%B6%E5%9C%A8%E7%B2%AE%E9%A3%9F%E5%B1%80%E9%A2%86%E5%B7%A5%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
