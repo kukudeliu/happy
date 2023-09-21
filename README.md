@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 13:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 13:50:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [“国庆住我家” 可行吗？](https://www.baidu.com/s?wd=%E2%80%9C%E5%9B%BD%E5%BA%86%E4%BD%8F%E6%88%91%E5%AE%B6%E2%80%9D+%E5%8F%AF%E8%A1%8C%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方通报13岁女孩被逼喝一瓶白酒](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A513%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E9%80%BC%E5%96%9D%E4%B8%80%E7%93%B6%E7%99%BD%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宗馥莉低调开厂 年入百亿](https://www.baidu.com/s?wd=%E5%AE%97%E9%A6%A5%E8%8E%89%E4%BD%8E%E8%B0%83%E5%BC%80%E5%8E%82+%E5%B9%B4%E5%85%A5%E7%99%BE%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [银川农田堆满垃圾 相关人员停职](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E5%86%9C%E7%94%B0%E5%A0%86%E6%BB%A1%E5%9E%83%E5%9C%BE+%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%91%98%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“我帮全村的老人拍好了遗照”](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E5%B8%AE%E5%85%A8%E6%9D%91%E7%9A%84%E8%80%81%E4%BA%BA%E6%8B%8D%E5%A5%BD%E4%BA%86%E9%81%97%E7%85%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [喝啤酒有利于体内结石排出？](https://www.baidu.com/s?wd=%E5%96%9D%E5%95%A4%E9%85%92%E6%9C%89%E5%88%A9%E4%BA%8E%E4%BD%93%E5%86%85%E7%BB%93%E7%9F%B3%E6%8E%92%E5%87%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [“国庆住我家” 可行吗？](https://www.baidu.com/s?wd=%E2%80%9C%E5%9B%BD%E5%BA%86%E4%BD%8F%E6%88%91%E5%AE%B6%E2%80%9D+%E5%8F%AF%E8%A1%8C%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方通报13岁女孩被逼喝一瓶白酒](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A513%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E9%80%BC%E5%96%9D%E4%B8%80%E7%93%B6%E7%99%BD%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宗馥莉低调开厂 年入百亿](https://www.baidu.com/s?wd=%E5%AE%97%E9%A6%A5%E8%8E%89%E4%BD%8E%E8%B0%83%E5%BC%80%E5%8E%82+%E5%B9%B4%E5%85%A5%E7%99%BE%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [银川农田堆满垃圾 相关人员停职](https://www.baidu.com/s?wd=%E9%93%B6%E5%B7%9D%E5%86%9C%E7%94%B0%E5%A0%86%E6%BB%A1%E5%9E%83%E5%9C%BE+%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%91%98%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“我帮全村的老人拍好了遗照”](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E5%B8%AE%E5%85%A8%E6%9D%91%E7%9A%84%E8%80%81%E4%BA%BA%E6%8B%8D%E5%A5%BD%E4%BA%86%E9%81%97%E7%85%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [喝啤酒有利于体内结石排出？](https://www.baidu.com/s?wd=%E5%96%9D%E5%95%A4%E9%85%92%E6%9C%89%E5%88%A9%E4%BA%8E%E4%BD%93%E5%86%85%E7%BB%93%E7%9F%B3%E6%8E%92%E5%87%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
