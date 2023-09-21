@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 16:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-21 16:30:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [34岁还没结婚是因为喜欢帅哥](https://s.weibo.com/weibo?q=34%E5%B2%81%E8%BF%98%E6%B2%A1%E7%BB%93%E5%A9%9A%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%96%9C%E6%AC%A2%E5%B8%85%E5%93%A5&t=31&band_rank=6&Refer=top)<br />
 7. [被杨幂美到的一个镜头](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%9D%A8%E5%B9%82%E7%BE%8E%E5%88%B0%E7%9A%84%E4%B8%80%E4%B8%AA%E9%95%9C%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [躲雨的大熊猫已被送往救助站](https://s.weibo.com/weibo?q=%23%E8%BA%B2%E9%9B%A8%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%B7%B2%E8%A2%AB%E9%80%81%E5%BE%80%E6%95%91%E5%8A%A9%E7%AB%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [张小斐这段真的给我难受死了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E8%BF%99%E6%AE%B5%E7%9C%9F%E7%9A%84%E7%BB%99%E6%88%91%E9%9A%BE%E5%8F%97%E6%AD%BB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [封神网播](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E7%BD%91%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,7 +23,7 @@
 4. [亚运中国队有36个奥运冠军](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%9C%8936%E4%B8%AA%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [妈妈第一次来杭州朋友圈晒8张厕所图](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9D%A5%E6%9D%AD%E5%B7%9E%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%99%928%E5%BC%A0%E5%8E%95%E6%89%80%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杨丽萍回应孔雀舞剧争议](https://www.baidu.com/s?wd=%E6%9D%A8%E4%B8%BD%E8%90%8D%E5%9B%9E%E5%BA%94%E5%AD%94%E9%9B%80%E8%88%9E%E5%89%A7%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [朝鲜拉拉队时隔5年重现国际赛场](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E6%8B%89%E6%8B%89%E9%98%9F%E6%97%B6%E9%9A%945%E5%B9%B4%E9%87%8D%E7%8E%B0%E5%9B%BD%E9%99%85%E8%B5%9B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [安排女生给男宾洗澡？门店回应](https://www.baidu.com/s?wd=%E5%AE%89%E6%8E%92%E5%A5%B3%E7%94%9F%E7%BB%99%E7%94%B7%E5%AE%BE%E6%B4%97%E6%BE%A1%EF%BC%9F%E9%97%A8%E5%BA%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#不可思议的百科知识#](https://www.baidu.com/s?wd=%23%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AE%AE%E7%9A%84%E7%99%BE%E7%A7%91%E7%9F%A5%E8%AF%86%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [喝啤酒有利于体内结石排出？](https://www.baidu.com/s?wd=%E5%96%9D%E5%95%A4%E9%85%92%E6%9C%89%E5%88%A9%E4%BA%8E%E4%BD%93%E5%86%85%E7%BB%93%E7%9F%B3%E6%8E%92%E5%87%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [亚运中国队有36个奥运冠军](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%9C%8936%E4%B8%AA%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [妈妈第一次来杭州朋友圈晒8张厕所图](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9D%A5%E6%9D%AD%E5%B7%9E%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%99%928%E5%BC%A0%E5%8E%95%E6%89%80%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杨丽萍回应孔雀舞剧争议](https://www.baidu.com/s?wd=%E6%9D%A8%E4%B8%BD%E8%90%8D%E5%9B%9E%E5%BA%94%E5%AD%94%E9%9B%80%E8%88%9E%E5%89%A7%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [朝鲜拉拉队时隔5年重现国际赛场](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E6%8B%89%E6%8B%89%E9%98%9F%E6%97%B6%E9%9A%945%E5%B9%B4%E9%87%8D%E7%8E%B0%E5%9B%BD%E9%99%85%E8%B5%9B%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [安排女生给男宾洗澡？门店回应](https://www.baidu.com/s?wd=%E5%AE%89%E6%8E%92%E5%A5%B3%E7%94%9F%E7%BB%99%E7%94%B7%E5%AE%BE%E6%B4%97%E6%BE%A1%EF%BC%9F%E9%97%A8%E5%BA%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#不可思议的百科知识#](https://www.baidu.com/s?wd=%23%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AE%AE%E7%9A%84%E7%99%BE%E7%A7%91%E7%9F%A5%E8%AF%86%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [喝啤酒有利于体内结石排出？](https://www.baidu.com/s?wd=%E5%96%9D%E5%95%A4%E9%85%92%E6%9C%89%E5%88%A9%E4%BA%8E%E4%BD%93%E5%86%85%E7%BB%93%E7%9F%B3%E6%8E%92%E5%87%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
