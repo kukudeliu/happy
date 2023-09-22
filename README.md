@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 11:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 11:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张智霖方声明](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E6%96%B9%E5%A3%B0%E6%98%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [考研大纲](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%A4%A7%E7%BA%B2&t=31&band_rank=7&Refer=top)<br />
 8. [邓紫棋说承认自己不够也是一种勇气](https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E8%AF%B4%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%A4%9F%E4%B9%9F%E6%98%AF%E4%B8%80%E7%A7%8D%E5%8B%87%E6%B0%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [卢昱晓熬了一整晚等丞磊杀青](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E7%86%AC%E4%BA%86%E4%B8%80%E6%95%B4%E6%99%9A%E7%AD%89%E4%B8%9E%E7%A3%8A%E6%9D%80%E9%9D%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [丞磊卢昱晓二搭想演公路文](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8D%A2%E6%98%B1%E6%99%93%E4%BA%8C%E6%90%AD%E6%83%B3%E6%BC%94%E5%85%AC%E8%B7%AF%E6%96%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
