@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 21:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 21:14:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [《我们亚洲》，雄风更劲](https://www.baidu.com/s?wd=%E3%80%8A%E6%88%91%E4%BB%AC%E4%BA%9A%E6%B4%B2%E3%80%8B%EF%BC%8C%E9%9B%84%E9%A3%8E%E6%9B%B4%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国女足半场8比0蒙古女足](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E5%8D%8A%E5%9C%BA8%E6%AF%940%E8%92%99%E5%8F%A4%E5%A5%B3%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [公司爆炸已致74伤 消防员1死3失联](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B474%E4%BC%A4+%E6%B6%88%E9%98%B2%E5%91%981%E6%AD%BB3%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [官媒发文批消费农民“伪苦难”](https://www.baidu.com/s?wd=%E5%AE%98%E5%AA%92%E5%8F%91%E6%96%87%E6%89%B9%E6%B6%88%E8%B4%B9%E5%86%9C%E6%B0%91%E2%80%9C%E4%BC%AA%E8%8B%A6%E9%9A%BE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [拜登会见泽连斯基 宣布新军援](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E4%BC%9A%E8%A7%81%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA+%E5%AE%A3%E5%B8%83%E6%96%B0%E5%86%9B%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [保安被女子扇耳光后拎其脖子猛摔在地](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E8%A2%AB%E5%A5%B3%E5%AD%90%E6%89%87%E8%80%B3%E5%85%89%E5%90%8E%E6%8B%8E%E5%85%B6%E8%84%96%E5%AD%90%E7%8C%9B%E6%91%94%E5%9C%A8%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [92岁默多克宣布退休 长子将接棒](https://www.baidu.com/s?wd=92%E5%B2%81%E9%BB%98%E5%A4%9A%E5%85%8B%E5%AE%A3%E5%B8%83%E9%80%80%E4%BC%91+%E9%95%BF%E5%AD%90%E5%B0%86%E6%8E%A5%E6%A3%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [《我们亚洲》，雄风更劲](https://www.baidu.com/s?wd=%E3%80%8A%E6%88%91%E4%BB%AC%E4%BA%9A%E6%B4%B2%E3%80%8B%EF%BC%8C%E9%9B%84%E9%A3%8E%E6%9B%B4%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国女足半场8比0蒙古女足](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E5%8D%8A%E5%9C%BA8%E6%AF%940%E8%92%99%E5%8F%A4%E5%A5%B3%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [公司爆炸已致74伤 消防员1死3失联](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B474%E4%BC%A4+%E6%B6%88%E9%98%B2%E5%91%981%E6%AD%BB3%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [官媒发文批消费农民“伪苦难”](https://www.baidu.com/s?wd=%E5%AE%98%E5%AA%92%E5%8F%91%E6%96%87%E6%89%B9%E6%B6%88%E8%B4%B9%E5%86%9C%E6%B0%91%E2%80%9C%E4%BC%AA%E8%8B%A6%E9%9A%BE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [拜登会见泽连斯基 宣布新军援](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E4%BC%9A%E8%A7%81%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA+%E5%AE%A3%E5%B8%83%E6%96%B0%E5%86%9B%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [保安被女子扇耳光后拎其脖子猛摔在地](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E8%A2%AB%E5%A5%B3%E5%AD%90%E6%89%87%E8%80%B3%E5%85%89%E5%90%8E%E6%8B%8E%E5%85%B6%E8%84%96%E5%AD%90%E7%8C%9B%E6%91%94%E5%9C%A8%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [92岁默多克宣布退休 长子将接棒](https://www.baidu.com/s?wd=92%E5%B2%81%E9%BB%98%E5%A4%9A%E5%85%8B%E5%AE%A3%E5%B8%83%E9%80%80%E4%BC%91+%E9%95%BF%E5%AD%90%E5%B0%86%E6%8E%A5%E6%A3%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
