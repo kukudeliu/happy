@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 07:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 07:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [正确的内衣晾晒方法](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E7%A1%AE%E7%9A%84%E5%86%85%E8%A1%A3%E6%99%BE%E6%99%92%E6%96%B9%E6%B3%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [杭州第19届亚运会今日开幕](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%AC%AC19%E5%B1%8A%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%BB%8A%E6%97%A5%E5%BC%80%E5%B9%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [李泽锋这段台词怎么敢说出口的](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B3%BD%E9%94%8B%E8%BF%99%E6%AE%B5%E5%8F%B0%E8%AF%8D%E6%80%8E%E4%B9%88%E6%95%A2%E8%AF%B4%E5%87%BA%E5%8F%A3%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [新家被我改造成了住不起的样子](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%AE%B6%E8%A2%AB%E6%88%91%E6%94%B9%E9%80%A0%E6%88%90%E4%BA%86%E4%BD%8F%E4%B8%8D%E8%B5%B7%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [和肖战一起为中国队加油](https://s.weibo.com/weibo?q=%23%E5%92%8C%E8%82%96%E6%88%98%E4%B8%80%E8%B5%B7%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
