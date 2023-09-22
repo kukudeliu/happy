@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 12:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 12:22:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [儿子监狱服刑母亲骗领国家工资41万](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E7%9B%91%E7%8B%B1%E6%9C%8D%E5%88%91%E6%AF%8D%E4%BA%B2%E9%AA%97%E9%A2%86%E5%9B%BD%E5%AE%B6%E5%B7%A5%E8%B5%8441%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [研究发现人会在34岁断崖式衰老](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E4%BA%BA%E4%BC%9A%E5%9C%A834%E5%B2%81%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [她被困在考研考编里的五年](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E8%A2%AB%E5%9B%B0%E5%9C%A8%E8%80%83%E7%A0%94%E8%80%83%E7%BC%96%E9%87%8C%E7%9A%84%E4%BA%94%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [丞磊卢昱晓二搭想演公路文](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8D%A2%E6%98%B1%E6%99%93%E4%BA%8C%E6%90%AD%E6%83%B3%E6%BC%94%E5%85%AC%E8%B7%AF%E6%96%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [虞书欣叫郭敬明寒鸦四](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%AB%E9%83%AD%E6%95%AC%E6%98%8E%E5%AF%92%E9%B8%A6%E5%9B%9B%23&t=31&band_rank=9&Refer=top)<br />
+8. [他从火光中走来vs我的人间烟火](https://s.weibo.com/weibo?q=%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5vs%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB&t=31&band_rank=8&Refer=top)<br />
+9. [丞磊卢昱晓二搭想演公路文](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8D%A2%E6%98%B1%E6%99%93%E4%BA%8C%E6%90%AD%E6%83%B3%E6%BC%94%E5%85%AC%E8%B7%AF%E6%96%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
