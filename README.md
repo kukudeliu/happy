@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 12:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 12:06:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [儿子监狱服刑母亲骗领国家工资41万](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E7%9B%91%E7%8B%B1%E6%9C%8D%E5%88%91%E6%AF%8D%E4%BA%B2%E9%AA%97%E9%A2%86%E5%9B%BD%E5%AE%B6%E5%B7%A5%E8%B5%8441%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [约两成考生选择逆向考研](https://s.weibo.com/weibo?q=%23%E7%BA%A6%E4%B8%A4%E6%88%90%E8%80%83%E7%94%9F%E9%80%89%E6%8B%A9%E9%80%86%E5%90%91%E8%80%83%E7%A0%94%23&t=31&band_rank=5&Refer=top)<br />
 6. [她被困在考研考编里的五年](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E8%A2%AB%E5%9B%B0%E5%9C%A8%E8%80%83%E7%A0%94%E8%80%83%E7%BC%96%E9%87%8C%E7%9A%84%E4%BA%94%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
-7. [张智霖方声明](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E6%96%B9%E5%A3%B0%E6%98%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [丞磊卢昱晓二搭想演公路文](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8D%A2%E6%98%B1%E6%99%93%E4%BA%8C%E6%90%AD%E6%83%B3%E6%BC%94%E5%85%AC%E8%B7%AF%E6%96%87%23&t=31&band_rank=8&Refer=top)<br />
+7. [丞磊卢昱晓二搭想演公路文](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8D%A2%E6%98%B1%E6%99%93%E4%BA%8C%E6%90%AD%E6%83%B3%E6%BC%94%E5%85%AC%E8%B7%AF%E6%96%87%23&t=31&band_rank=7&Refer=top)<br />
+8. [张智霖方声明](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E6%96%B9%E5%A3%B0%E6%98%8E%23&t=31&band_rank=8&Refer=top)<br />
 9. [考研大纲](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%A4%A7%E7%BA%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
