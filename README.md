@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 19:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 20:00:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [中国女足亚运首战对阵蒙古队](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E4%BA%9A%E8%BF%90%E9%A6%96%E6%88%98%E5%AF%B9%E9%98%B5%E8%92%99%E5%8F%A4%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体：不要因对手弱否定男足大胜](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%8D%E8%A6%81%E5%9B%A0%E5%AF%B9%E6%89%8B%E5%BC%B1%E5%90%A6%E5%AE%9A%E7%94%B7%E8%B6%B3%E5%A4%A7%E8%83%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方回应“男子赤身裸体趴在6楼外”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%94%B7%E5%AD%90%E8%B5%A4%E8%BA%AB%E8%A3%B8%E4%BD%93%E8%B6%B4%E5%9C%A86%E6%A5%BC%E5%A4%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州1米92特警很意外自己走红](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E1%E7%B1%B392%E7%89%B9%E8%AD%A6%E5%BE%88%E6%84%8F%E5%A4%96%E8%87%AA%E5%B7%B1%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子在家伪造34张假币被抓](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E5%AE%B6%E4%BC%AA%E9%80%A034%E5%BC%A0%E5%81%87%E5%B8%81%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [中国女足亚运首战对阵蒙古队](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E4%BA%9A%E8%BF%90%E9%A6%96%E6%88%98%E5%AF%B9%E9%98%B5%E8%92%99%E5%8F%A4%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体：不要因对手弱否定男足大胜](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%8D%E8%A6%81%E5%9B%A0%E5%AF%B9%E6%89%8B%E5%BC%B1%E5%90%A6%E5%AE%9A%E7%94%B7%E8%B6%B3%E5%A4%A7%E8%83%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方回应“男子赤身裸体趴在6楼外”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%94%B7%E5%AD%90%E8%B5%A4%E8%BA%AB%E8%A3%B8%E4%BD%93%E8%B6%B4%E5%9C%A86%E6%A5%BC%E5%A4%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州1米92特警很意外自己走红](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E1%E7%B1%B392%E7%89%B9%E8%AD%A6%E5%BE%88%E6%84%8F%E5%A4%96%E8%87%AA%E5%B7%B1%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子在家伪造34张假币被抓](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E5%AE%B6%E4%BC%AA%E9%80%A034%E5%BC%A0%E5%81%87%E5%B8%81%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
