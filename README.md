@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 10:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 10:06:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [邓紫棋说承认自己不够也是一种勇气](https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E8%AF%B4%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%A4%9F%E4%B9%9F%E6%98%AF%E4%B8%80%E7%A7%8D%E5%8B%87%E6%B0%94%23&t=31&band_rank=2&Refer=top)<br />
 3. [来杭州看亚运吃什么](https://s.weibo.com/weibo?q=%23%E6%9D%A5%E6%9D%AD%E5%B7%9E%E7%9C%8B%E4%BA%9A%E8%BF%90%E5%90%83%E4%BB%80%E4%B9%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [她被困在考研考编里的五年](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E8%A2%AB%E5%9B%B0%E5%9C%A8%E8%80%83%E7%A0%94%E8%80%83%E7%BC%96%E9%87%8C%E7%9A%84%E4%BA%94%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
-5. [2岁幼儿随地小便家长被判赔11万](https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%B9%BC%E5%84%BF%E9%9A%8F%E5%9C%B0%E5%B0%8F%E4%BE%BF%E5%AE%B6%E9%95%BF%E8%A2%AB%E5%88%A4%E8%B5%9411%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [吕良被断双手](https://s.weibo.com/weibo?q=%23%E5%90%95%E8%89%AF%E8%A2%AB%E6%96%AD%E5%8F%8C%E6%89%8B%23&t=31&band_rank=6&Refer=top)<br />
+5. [吕良被断双手](https://s.weibo.com/weibo?q=%23%E5%90%95%E8%89%AF%E8%A2%AB%E6%96%AD%E5%8F%8C%E6%89%8B%23&t=31&band_rank=5&Refer=top)<br />
+6. [2岁幼儿随地小便家长被判赔11万](https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%B9%BC%E5%84%BF%E9%9A%8F%E5%9C%B0%E5%B0%8F%E4%BE%BF%E5%AE%B6%E9%95%BF%E8%A2%AB%E5%88%A4%E8%B5%9411%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [花少5车内合照](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%915%E8%BD%A6%E5%86%85%E5%90%88%E7%85%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [顾客吐槽茶颜悦色点餐方式像智商税](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BD%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E%23&t=31&band_rank=8&Refer=top)<br />
 9. [郭敬明 再漫长的黑夜都会过去](https://s.weibo.com/weibo?q=%E9%83%AD%E6%95%AC%E6%98%8E%20%E5%86%8D%E6%BC%AB%E9%95%BF%E7%9A%84%E9%BB%91%E5%A4%9C%E9%83%BD%E4%BC%9A%E8%BF%87%E5%8E%BB&t=31&band_rank=9&Refer=top)<br />
