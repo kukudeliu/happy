@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 13:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 13:35:02</h4></div>
 
 > 微博  
 
-1. [任正非谈农村学英文困难](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%AD%A3%E9%9D%9E%E8%B0%88%E5%86%9C%E6%9D%91%E5%AD%A6%E8%8B%B1%E6%96%87%E5%9B%B0%E9%9A%BE%23&t=31&band_rank=1&Refer=top)<br />
-2. [12306回应强制买长乘短](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%BC%BA%E5%88%B6%E4%B9%B0%E9%95%BF%E4%B9%98%E7%9F%AD%23&t=31&band_rank=2&Refer=top)<br />
+1. [12306回应强制买长乘短](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%BC%BA%E5%88%B6%E4%B9%B0%E9%95%BF%E4%B9%98%E7%9F%AD%23&t=31&band_rank=1&Refer=top)<br />
+2. [任正非谈农村学英文困难](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%AD%A3%E9%9D%9E%E8%B0%88%E5%86%9C%E6%9D%91%E5%AD%A6%E8%8B%B1%E6%96%87%E5%9B%B0%E9%9A%BE%23&t=31&band_rank=2&Refer=top)<br />
 3. [乌镇峰会十年寄语](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E5%8D%81%E5%B9%B4%E5%AF%84%E8%AF%AD%23&t=31&band_rank=3&Refer=top)<br />
 4. [茶颜悦色回应点餐方式像智商税](https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%9B%9E%E5%BA%94%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E%23&t=31&band_rank=4&Refer=top)<br />
 5. [张拿铁因东北口音被汪汪队婉拒](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%8B%BF%E9%93%81%E5%9B%A0%E4%B8%9C%E5%8C%97%E5%8F%A3%E9%9F%B3%E8%A2%AB%E6%B1%AA%E6%B1%AA%E9%98%9F%E5%A9%89%E6%8B%92%23&t=31&band_rank=5&Refer=top)<br />
