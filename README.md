@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 08:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 08:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [3岁男孩对妈妈说车上坐不下交警一查是超员](https://s.weibo.com/weibo?q=%233%E5%B2%81%E7%94%B7%E5%AD%A9%E5%AF%B9%E5%A6%88%E5%A6%88%E8%AF%B4%E8%BD%A6%E4%B8%8A%E5%9D%90%E4%B8%8D%E4%B8%8B%E4%BA%A4%E8%AD%A6%E4%B8%80%E6%9F%A5%E6%98%AF%E8%B6%85%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [网红老婆爱吃巧乐兹发文道歉](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%80%81%E5%A9%86%E7%88%B1%E5%90%83%E5%B7%A7%E4%B9%90%E5%85%B9%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [杭州1米92特警被赞一身都是安全感](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E1%E7%B1%B392%E7%89%B9%E8%AD%A6%E8%A2%AB%E8%B5%9E%E4%B8%80%E8%BA%AB%E9%83%BD%E6%98%AF%E5%AE%89%E5%85%A8%E6%84%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [花西子代工厂被曝为日资](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E4%BB%A3%E5%B7%A5%E5%8E%82%E8%A2%AB%E6%9B%9D%E4%B8%BA%E6%97%A5%E8%B5%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [韩国共同民主党国会院内领导层集体辞职](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%85%B1%E5%90%8C%E6%B0%91%E4%B8%BB%E5%85%9A%E5%9B%BD%E4%BC%9A%E9%99%A2%E5%86%85%E9%A2%86%E5%AF%BC%E5%B1%82%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
