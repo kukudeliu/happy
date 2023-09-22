@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 20:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 20:01:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [孙颖莎演我下班](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%BC%94%E6%88%91%E4%B8%8B%E7%8F%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [Prada秀场抓到三个符](https://s.weibo.com/weibo?q=%23Prada%E7%A7%80%E5%9C%BA%E6%8A%93%E5%88%B0%E4%B8%89%E4%B8%AA%E7%AC%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [救人后着急上班的领带小哥是山东人](https://s.weibo.com/weibo?q=%23%E6%95%91%E4%BA%BA%E5%90%8E%E7%9D%80%E6%80%A5%E4%B8%8A%E7%8F%AD%E7%9A%84%E9%A2%86%E5%B8%A6%E5%B0%8F%E5%93%A5%E6%98%AF%E5%B1%B1%E4%B8%9C%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [孟钰坐她爸爸的位置了](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E9%92%B0%E5%9D%90%E5%A5%B9%E7%88%B8%E7%88%B8%E7%9A%84%E4%BD%8D%E7%BD%AE%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [泷泽秀明被曝性骚扰](https://s.weibo.com/weibo?q=%23%E6%B3%B7%E6%B3%BD%E7%A7%80%E6%98%8E%E8%A2%AB%E6%9B%9D%E6%80%A7%E9%AA%9A%E6%89%B0%23&t=31&band_rank=9&Refer=top)<br />
+8. [小杨哥回应TheShy缺席直播](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94TheShy%E7%BC%BA%E5%B8%AD%E7%9B%B4%E6%92%AD%23&t=31&band_rank=8&Refer=top)<br />
+9. [孟钰坐她爸爸的位置了](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E9%92%B0%E5%9D%90%E5%A5%B9%E7%88%B8%E7%88%B8%E7%9A%84%E4%BD%8D%E7%BD%AE%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
