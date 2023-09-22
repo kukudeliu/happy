@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 15:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 15:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张栋梁从鬼脚梁变成鸡脚梁了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A0%8B%E6%A2%81%E4%BB%8E%E9%AC%BC%E8%84%9A%E6%A2%81%E5%8F%98%E6%88%90%E9%B8%A1%E8%84%9A%E6%A2%81%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [约两成考生选择逆向考研](https://s.weibo.com/weibo?q=%23%E7%BA%A6%E4%B8%A4%E6%88%90%E8%80%83%E7%94%9F%E9%80%89%E6%8B%A9%E9%80%86%E5%90%91%E8%80%83%E7%A0%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [儿子监狱服刑母亲骗领国家工资41万](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E7%9B%91%E7%8B%B1%E6%9C%8D%E5%88%91%E6%AF%8D%E4%BA%B2%E9%AA%97%E9%A2%86%E5%9B%BD%E5%AE%B6%E5%B7%A5%E8%B5%8441%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [LOL中韩可能在半决赛交手](https://s.weibo.com/weibo?q=%23LOL%E4%B8%AD%E9%9F%A9%E5%8F%AF%E8%83%BD%E5%9C%A8%E5%8D%8A%E5%86%B3%E8%B5%9B%E4%BA%A4%E6%89%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [新手爸爸没看住的孩子被陌生爷爷守护了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%89%8B%E7%88%B8%E7%88%B8%E6%B2%A1%E7%9C%8B%E4%BD%8F%E7%9A%84%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%99%8C%E7%94%9F%E7%88%B7%E7%88%B7%E5%AE%88%E6%8A%A4%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
