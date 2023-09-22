@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 17:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 17:31:01</h4></div>
 
 > 微博  
 
 1. [98年小伙每天2小时开网店月入5万](https://s.weibo.com/weibo?q=%2398%E5%B9%B4%E5%B0%8F%E4%BC%99%E6%AF%8F%E5%A4%A92%E5%B0%8F%E6%97%B6%E5%BC%80%E7%BD%91%E5%BA%97%E6%9C%88%E5%85%A55%E4%B8%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [孙颖莎11比0](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E11%E6%AF%940%23&t=31&band_rank=2&Refer=top)<br />
+2. [英语老师3天忘光所有单词查出痴呆症](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%883%E5%A4%A9%E5%BF%98%E5%85%89%E6%89%80%E6%9C%89%E5%8D%95%E8%AF%8D%E6%9F%A5%E5%87%BA%E7%97%B4%E5%91%86%E7%97%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [三次亚运会窗口透视中国33年变迁](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%AC%A1%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%AA%97%E5%8F%A3%E9%80%8F%E8%A7%86%E4%B8%AD%E5%9B%BD33%E5%B9%B4%E5%8F%98%E8%BF%81%23&t=31&band_rank=3&Refer=top)<br />
-4. [英语老师3天忘光所有单词查出痴呆症](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%883%E5%A4%A9%E5%BF%98%E5%85%89%E6%89%80%E6%9C%89%E5%8D%95%E8%AF%8D%E6%9F%A5%E5%87%BA%E7%97%B4%E5%91%86%E7%97%87%23&t=31&band_rank=4&Refer=top)<br />
+4. [孙颖莎11比0](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E11%E6%AF%940%23&t=31&band_rank=4&Refer=top)<br />
 5. [三亚一女子诊所内被害](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E4%B8%80%E5%A5%B3%E5%AD%90%E8%AF%8A%E6%89%80%E5%86%85%E8%A2%AB%E5%AE%B3%23&t=31&band_rank=5&Refer=top)<br />
 6. [离职后还收到了公司的中秋礼物](https://s.weibo.com/weibo?q=%23%E7%A6%BB%E8%81%8C%E5%90%8E%E8%BF%98%E6%94%B6%E5%88%B0%E4%BA%86%E5%85%AC%E5%8F%B8%E7%9A%84%E4%B8%AD%E7%A7%8B%E7%A4%BC%E7%89%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [新手爸爸没看住的孩子被陌生爷爷守护了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%89%8B%E7%88%B8%E7%88%B8%E6%B2%A1%E7%9C%8B%E4%BD%8F%E7%9A%84%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%99%8C%E7%94%9F%E7%88%B7%E7%88%B7%E5%AE%88%E6%8A%A4%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
