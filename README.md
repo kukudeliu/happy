@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 12:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 12:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [儿子监狱服刑母亲骗领国家工资41万](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E7%9B%91%E7%8B%B1%E6%9C%8D%E5%88%91%E6%AF%8D%E4%BA%B2%E9%AA%97%E9%A2%86%E5%9B%BD%E5%AE%B6%E5%B7%A5%E8%B5%8441%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [她被困在考研考编里的五年](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E8%A2%AB%E5%9B%B0%E5%9C%A8%E8%80%83%E7%A0%94%E8%80%83%E7%BC%96%E9%87%8C%E7%9A%84%E4%BA%94%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [他从火光中走来vs我的人间烟火](https://s.weibo.com/weibo?q=%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5vs%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB&t=31&band_rank=8&Refer=top)<br />
-9. [虞书欣叫郭敬明寒鸦四](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%AB%E9%83%AD%E6%95%AC%E6%98%8E%E5%AF%92%E9%B8%A6%E5%9B%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [茶颜悦色回应点餐方式像智商税](https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%9B%9E%E5%BA%94%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [重温历次“太空授课”精彩瞬间](https://www.baidu.com/s?wd=%E9%87%8D%E6%B8%A9%E5%8E%86%E6%AC%A1%E2%80%9C%E5%A4%AA%E7%A9%BA%E6%8E%88%E8%AF%BE%E2%80%9D%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [亚运会倒计时1天](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%80%92%E8%AE%A1%E6%97%B61%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄高官：美国想在蒙古国套用乌剧本](https://www.baidu.com/s?wd=%E4%BF%84%E9%AB%98%E5%AE%98%EF%BC%9A%E7%BE%8E%E5%9B%BD%E6%83%B3%E5%9C%A8%E8%92%99%E5%8F%A4%E5%9B%BD%E5%A5%97%E7%94%A8%E4%B9%8C%E5%89%A7%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [黄晓明罕见谈儿子：性格像妈妈](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E7%BD%95%E8%A7%81%E8%B0%88%E5%84%BF%E5%AD%90%EF%BC%9A%E6%80%A7%E6%A0%BC%E5%83%8F%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [2岁幼儿随地小便家长被判赔11万](https://www.baidu.com/s?wd=2%E5%B2%81%E5%B9%BC%E5%84%BF%E9%9A%8F%E5%9C%B0%E5%B0%8F%E4%BE%BF%E5%AE%B6%E9%95%BF%E8%A2%AB%E5%88%A4%E8%B5%9411%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官媒发文批消费农民“伪苦难”](https://www.baidu.com/s?wd=%E5%AE%98%E5%AA%92%E5%8F%91%E6%96%87%E6%89%B9%E6%B6%88%E8%B4%B9%E5%86%9C%E6%B0%91%E2%80%9C%E4%BC%AA%E8%8B%A6%E9%9A%BE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [黄晓明罕见谈儿子：性格像妈妈](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E7%BD%95%E8%A7%81%E8%B0%88%E5%84%BF%E5%AD%90%EF%BC%9A%E6%80%A7%E6%A0%BC%E5%83%8F%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [东莞现五尸凶杀案？警方辟谣](https://www.baidu.com/s?wd=%E4%B8%9C%E8%8E%9E%E7%8E%B0%E4%BA%94%E5%B0%B8%E5%87%B6%E6%9D%80%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [重温历次“太空授课”精彩瞬间](https://www.baidu.com/s?wd=%E9%87%8D%E6%B8%A9%E5%8E%86%E6%AC%A1%E2%80%9C%E5%A4%AA%E7%A9%BA%E6%8E%88%E8%AF%BE%E2%80%9D%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [亚运会倒计时1天](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%80%92%E8%AE%A1%E6%97%B61%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄高官：美国想在蒙古国套用乌剧本](https://www.baidu.com/s?wd=%E4%BF%84%E9%AB%98%E5%AE%98%EF%BC%9A%E7%BE%8E%E5%9B%BD%E6%83%B3%E5%9C%A8%E8%92%99%E5%8F%A4%E5%9B%BD%E5%A5%97%E7%94%A8%E4%B9%8C%E5%89%A7%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [黄晓明罕见谈儿子：性格像妈妈](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E7%BD%95%E8%A7%81%E8%B0%88%E5%84%BF%E5%AD%90%EF%BC%9A%E6%80%A7%E6%A0%BC%E5%83%8F%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [2岁幼儿随地小便家长被判赔11万](https://www.baidu.com/s?wd=2%E5%B2%81%E5%B9%BC%E5%84%BF%E9%9A%8F%E5%9C%B0%E5%B0%8F%E4%BE%BF%E5%AE%B6%E9%95%BF%E8%A2%AB%E5%88%A4%E8%B5%9411%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官媒发文批消费农民“伪苦难”](https://www.baidu.com/s?wd=%E5%AE%98%E5%AA%92%E5%8F%91%E6%96%87%E6%89%B9%E6%B6%88%E8%B4%B9%E5%86%9C%E6%B0%91%E2%80%9C%E4%BC%AA%E8%8B%A6%E9%9A%BE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [黄晓明罕见谈儿子：性格像妈妈](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E7%BD%95%E8%A7%81%E8%B0%88%E5%84%BF%E5%AD%90%EF%BC%9A%E6%80%A7%E6%A0%BC%E5%83%8F%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [东莞现五尸凶杀案？警方辟谣](https://www.baidu.com/s?wd=%E4%B8%9C%E8%8E%9E%E7%8E%B0%E4%BA%94%E5%B0%B8%E5%87%B6%E6%9D%80%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
