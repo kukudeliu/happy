@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 03:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 03:30:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [赵露思受邀亮相Versace2024春夏大秀](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%8F%97%E9%82%80%E4%BA%AE%E7%9B%B8Versace2024%E6%98%A5%E5%A4%8F%E5%A4%A7%E7%A7%80&t=31&band_rank=4&Refer=top)<br />
 5. [女子3次试管婴儿终于怀上却查出癌症](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%903%E6%AC%A1%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF%E7%BB%88%E4%BA%8E%E6%80%80%E4%B8%8A%E5%8D%B4%E6%9F%A5%E5%87%BA%E7%99%8C%E7%97%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [正确的内衣晾晒方法](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E7%A1%AE%E7%9A%84%E5%86%85%E8%A1%A3%E6%99%BE%E6%99%92%E6%96%B9%E6%B3%95%23&t=31&band_rank=6&Refer=top)<br />
-7. [本科学生考研考公哪个更好](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E7%A7%91%E5%AD%A6%E7%94%9F%E8%80%83%E7%A0%94%E8%80%83%E5%85%AC%E5%93%AA%E4%B8%AA%E6%9B%B4%E5%A5%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [国产剧女主终于长嘴了](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%89%A7%E5%A5%B3%E4%B8%BB%E7%BB%88%E4%BA%8E%E9%95%BF%E5%98%B4%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [李泽锋这段台词怎么敢说出口的](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B3%BD%E9%94%8B%E8%BF%99%E6%AE%B5%E5%8F%B0%E8%AF%8D%E6%80%8E%E4%B9%88%E6%95%A2%E8%AF%B4%E5%87%BA%E5%8F%A3%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+7. [国产剧女主终于长嘴了](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%89%A7%E5%A5%B3%E4%B8%BB%E7%BB%88%E4%BA%8E%E9%95%BF%E5%98%B4%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [本科学生考研考公哪个更好](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E7%A7%91%E5%AD%A6%E7%94%9F%E8%80%83%E7%A0%94%E8%80%83%E5%85%AC%E5%93%AA%E4%B8%AA%E6%9B%B4%E5%A5%BD%23&t=31&band_rank=8&Refer=top)<br />
+9. [98年小伙每天2小时开网店月入5万](https://s.weibo.com/weibo?q=%2398%E5%B9%B4%E5%B0%8F%E4%BC%99%E6%AF%8F%E5%A4%A92%E5%B0%8F%E6%97%B6%E5%BC%80%E7%BD%91%E5%BA%97%E6%9C%88%E5%85%A55%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [广东大量鱼跃出海面跳上岸 官方回应](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%87%8F%E9%B1%BC%E8%B7%83%E5%87%BA%E6%B5%B7%E9%9D%A2%E8%B7%B3%E4%B8%8A%E5%B2%B8+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [98年小伙每天2小时开网店月入5万](https://www.baidu.com/s?wd=98%E5%B9%B4%E5%B0%8F%E4%BC%99%E6%AF%8F%E5%A4%A92%E5%B0%8F%E6%97%B6%E5%BC%80%E7%BD%91%E5%BA%97%E6%9C%88%E5%85%A55%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [3男女酒店吸食600瓶笑气被抓](https://www.baidu.com/s?wd=3%E7%94%B7%E5%A5%B3%E9%85%92%E5%BA%97%E5%90%B8%E9%A3%9F600%E7%93%B6%E7%AC%91%E6%B0%94%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [35岁成为女市长，21年后主动投案](https://www.baidu.com/s?wd=35%E5%B2%81%E6%88%90%E4%B8%BA%E5%A5%B3%E5%B8%82%E9%95%BF%EF%BC%8C21%E5%B9%B4%E5%90%8E%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [台公司爆炸已致74伤 消防员1死3失联](https://www.baidu.com/s?wd=%E5%8F%B0%E5%85%AC%E5%8F%B8%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B474%E4%BC%A4+%E6%B6%88%E9%98%B2%E5%91%981%E6%AD%BB3%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [广东大量鱼跃出海面跳上岸 官方回应](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%87%8F%E9%B1%BC%E8%B7%83%E5%87%BA%E6%B5%B7%E9%9D%A2%E8%B7%B3%E4%B8%8A%E5%B2%B8+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [98年小伙每天2小时开网店月入5万](https://www.baidu.com/s?wd=98%E5%B9%B4%E5%B0%8F%E4%BC%99%E6%AF%8F%E5%A4%A92%E5%B0%8F%E6%97%B6%E5%BC%80%E7%BD%91%E5%BA%97%E6%9C%88%E5%85%A55%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [3男女酒店吸食600瓶笑气被抓](https://www.baidu.com/s?wd=3%E7%94%B7%E5%A5%B3%E9%85%92%E5%BA%97%E5%90%B8%E9%A3%9F600%E7%93%B6%E7%AC%91%E6%B0%94%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [35岁成为女市长，21年后主动投案](https://www.baidu.com/s?wd=35%E5%B2%81%E6%88%90%E4%B8%BA%E5%A5%B3%E5%B8%82%E9%95%BF%EF%BC%8C21%E5%B9%B4%E5%90%8E%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [台公司爆炸已致74伤 消防员1死3失联](https://www.baidu.com/s?wd=%E5%8F%B0%E5%85%AC%E5%8F%B8%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B474%E4%BC%A4+%E6%B6%88%E9%98%B2%E5%91%981%E6%AD%BB3%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
