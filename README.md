@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 18:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 18:47:01</h4></div>
 
 > 微博  
 
 1. [C位妈妈这脸还能再战十年](https://s.weibo.com/weibo?q=C%E4%BD%8D%E5%A6%88%E5%A6%88%E8%BF%99%E8%84%B8%E8%BF%98%E8%83%BD%E5%86%8D%E6%88%98%E5%8D%81%E5%B9%B4&t=31&band_rank=1&Refer=top)<br />
 2. [新手爸爸没看住的孩子被陌生爷爷守护了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%89%8B%E7%88%B8%E7%88%B8%E6%B2%A1%E7%9C%8B%E4%BD%8F%E7%9A%84%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%99%8C%E7%94%9F%E7%88%B7%E7%88%B7%E5%AE%88%E6%8A%A4%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会开幕倒计时1天](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%80%92%E8%AE%A1%E6%97%B61%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
-4. [孟钰坐她爸爸的位置了](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E9%92%B0%E5%9D%90%E5%A5%B9%E7%88%B8%E7%88%B8%E7%9A%84%E4%BD%8D%E7%BD%AE%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
+4. [英语老师3天忘光所有单词查出痴呆症](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%883%E5%A4%A9%E5%BF%98%E5%85%89%E6%89%80%E6%9C%89%E5%8D%95%E8%AF%8D%E6%9F%A5%E5%87%BA%E7%97%B4%E5%91%86%E7%97%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [救人后着急上班的领带小哥是山东人](https://s.weibo.com/weibo?q=%23%E6%95%91%E4%BA%BA%E5%90%8E%E7%9D%80%E6%80%A5%E4%B8%8A%E7%8F%AD%E7%9A%84%E9%A2%86%E5%B8%A6%E5%B0%8F%E5%93%A5%E6%98%AF%E5%B1%B1%E4%B8%9C%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [英语老师3天忘光所有单词查出痴呆症](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%883%E5%A4%A9%E5%BF%98%E5%85%89%E6%89%80%E6%9C%89%E5%8D%95%E8%AF%8D%E6%9F%A5%E5%87%BA%E7%97%B4%E5%91%86%E7%97%87%23&t=31&band_rank=6&Refer=top)<br />
+6. [孟钰坐她爸爸的位置了](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E9%92%B0%E5%9D%90%E5%A5%B9%E7%88%B8%E7%88%B8%E7%9A%84%E4%BD%8D%E7%BD%AE%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [民警下班吃饭顺便抓了个贼](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E4%B8%8B%E7%8F%AD%E5%90%83%E9%A5%AD%E9%A1%BA%E4%BE%BF%E6%8A%93%E4%BA%86%E4%B8%AA%E8%B4%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [98年小伙每天2小时开网店月入5万](https://s.weibo.com/weibo?q=%2398%E5%B9%B4%E5%B0%8F%E4%BC%99%E6%AF%8F%E5%A4%A92%E5%B0%8F%E6%97%B6%E5%BC%80%E7%BD%91%E5%BA%97%E6%9C%88%E5%85%A55%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [长相思酷云播放量年冠](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E9%85%B7%E4%BA%91%E6%92%AD%E6%94%BE%E9%87%8F%E5%B9%B4%E5%86%A0&t=31&band_rank=9&Refer=top)<br />
+8. [长相思酷云播放量年冠](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E9%85%B7%E4%BA%91%E6%92%AD%E6%94%BE%E9%87%8F%E5%B9%B4%E5%86%A0&t=31&band_rank=8&Refer=top)<br />
+9. [98年小伙每天2小时开网店月入5万](https://s.weibo.com/weibo?q=%2398%E5%B9%B4%E5%B0%8F%E4%BC%99%E6%AF%8F%E5%A4%A92%E5%B0%8F%E6%97%B6%E5%BC%80%E7%BD%91%E5%BA%97%E6%9C%88%E5%85%A55%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
