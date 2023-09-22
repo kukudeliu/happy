@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 16:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 16:30:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [我辞职后 我的猫压力巨大在家吐了](https://s.weibo.com/weibo?q=%E6%88%91%E8%BE%9E%E8%81%8C%E5%90%8E%20%E6%88%91%E7%9A%84%E7%8C%AB%E5%8E%8B%E5%8A%9B%E5%B7%A8%E5%A4%A7%E5%9C%A8%E5%AE%B6%E5%90%90%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [北京一公交车被水泥罐车追尾18人送医](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E5%85%AC%E4%BA%A4%E8%BD%A6%E8%A2%AB%E6%B0%B4%E6%B3%A5%E7%BD%90%E8%BD%A6%E8%BF%BD%E5%B0%BE18%E4%BA%BA%E9%80%81%E5%8C%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [新手爸爸没看住的孩子被陌生爷爷守护了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%89%8B%E7%88%B8%E7%88%B8%E6%B2%A1%E7%9C%8B%E4%BD%8F%E7%9A%84%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%99%8C%E7%94%9F%E7%88%B7%E7%88%B7%E5%AE%88%E6%8A%A4%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [茶颜悦色回应点餐方式像智商税](https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%9B%9E%E5%BA%94%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [新疆大闸蟹全网首卖](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%A4%A7%E9%97%B8%E8%9F%B9%E5%85%A8%E7%BD%91%E9%A6%96%E5%8D%96%23&t=31&band_rank=8&Refer=top)<br />
+7. [新疆大闸蟹全网首卖](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%A4%A7%E9%97%B8%E8%9F%B9%E5%85%A8%E7%BD%91%E9%A6%96%E5%8D%96%23&t=31&band_rank=7&Refer=top)<br />
+8. [茶颜悦色回应点餐方式像智商税](https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%9B%9E%E5%BA%94%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E%23&t=31&band_rank=8&Refer=top)<br />
 9. [她被困在考研考编里的五年](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E8%A2%AB%E5%9B%B0%E5%9C%A8%E8%80%83%E7%A0%94%E8%80%83%E7%BC%96%E9%87%8C%E7%9A%84%E4%BA%94%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
