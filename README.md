@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 13:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 13:55:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [茶颜悦色回应点餐方式像智商税](https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%9B%9E%E5%BA%94%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E%23&t=31&band_rank=2&Refer=top)<br />
 3. [乌镇峰会十年寄语](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E5%8D%81%E5%B9%B4%E5%AF%84%E8%AF%AD%23&t=31&band_rank=3&Refer=top)<br />
 4. [张拿铁因东北口音被汪汪队婉拒](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%8B%BF%E9%93%81%E5%9B%A0%E4%B8%9C%E5%8C%97%E5%8F%A3%E9%9F%B3%E8%A2%AB%E6%B1%AA%E6%B1%AA%E9%98%9F%E5%A9%89%E6%8B%92%23&t=31&band_rank=4&Refer=top)<br />
-5. [任正非谈农村学英文困难](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%AD%A3%E9%9D%9E%E8%B0%88%E5%86%9C%E6%9D%91%E5%AD%A6%E8%8B%B1%E6%96%87%E5%9B%B0%E9%9A%BE%23&t=31&band_rank=5&Refer=top)<br />
-6. [女教师举报遭教授性侵双方发声](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%BE%E6%8A%A5%E9%81%AD%E6%95%99%E6%8E%88%E6%80%A7%E4%BE%B5%E5%8F%8C%E6%96%B9%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
+5. [女教师举报遭教授性侵双方发声](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%BE%E6%8A%A5%E9%81%AD%E6%95%99%E6%8E%88%E6%80%A7%E4%BE%B5%E5%8F%8C%E6%96%B9%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
+6. [任正非谈农村学英文困难](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%AD%A3%E9%9D%9E%E8%B0%88%E5%86%9C%E6%9D%91%E5%AD%A6%E8%8B%B1%E6%96%87%E5%9B%B0%E9%9A%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [她被困在考研考编里的五年](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E8%A2%AB%E5%9B%B0%E5%9C%A8%E8%80%83%E7%A0%94%E8%80%83%E7%BC%96%E9%87%8C%E7%9A%84%E4%BA%94%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [儿子监狱服刑母亲骗领国家工资41万](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E7%9B%91%E7%8B%B1%E6%9C%8D%E5%88%91%E6%AF%8D%E4%BA%B2%E9%AA%97%E9%A2%86%E5%9B%BD%E5%AE%B6%E5%B7%A5%E8%B5%8441%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [约两成考生选择逆向考研](https://s.weibo.com/weibo?q=%23%E7%BA%A6%E4%B8%A4%E6%88%90%E8%80%83%E7%94%9F%E9%80%89%E6%8B%A9%E9%80%86%E5%90%91%E8%80%83%E7%A0%94%23&t=31&band_rank=9&Refer=top)<br />
