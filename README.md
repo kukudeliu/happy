@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 14:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 14:06:02</h4></div>
 
 > 微博  
 
-1. [12306回应强制买长乘短](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%BC%BA%E5%88%B6%E4%B9%B0%E9%95%BF%E4%B9%98%E7%9F%AD%23&t=31&band_rank=1&Refer=top)<br />
-2. [茶颜悦色回应点餐方式像智商税](https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%9B%9E%E5%BA%94%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E%23&t=31&band_rank=2&Refer=top)<br />
+1. [茶颜悦色回应点餐方式像智商税](https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%9B%9E%E5%BA%94%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E%23&t=31&band_rank=1&Refer=top)<br />
+2. [12306回应强制买长乘短](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%BC%BA%E5%88%B6%E4%B9%B0%E9%95%BF%E4%B9%98%E7%9F%AD%23&t=31&band_rank=2&Refer=top)<br />
 3. [乌镇峰会十年寄语](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E5%8D%81%E5%B9%B4%E5%AF%84%E8%AF%AD%23&t=31&band_rank=3&Refer=top)<br />
 4. [女教师举报遭教授性侵双方发声](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%BE%E6%8A%A5%E9%81%AD%E6%95%99%E6%8E%88%E6%80%A7%E4%BE%B5%E5%8F%8C%E6%96%B9%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [她被困在考研考编里的五年](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E8%A2%AB%E5%9B%B0%E5%9C%A8%E8%80%83%E7%A0%94%E8%80%83%E7%BC%96%E9%87%8C%E7%9A%84%E4%BA%94%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
