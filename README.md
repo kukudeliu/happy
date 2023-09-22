@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 22:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 22:59:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [教育部：预制菜不宜推广进校园](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E9%A2%84%E5%88%B6%E8%8F%9C%E4%B8%8D%E5%AE%9C%E6%8E%A8%E5%B9%BF%E8%BF%9B%E6%A0%A1%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [《我们亚洲》，雄风更劲](https://www.baidu.com/s?wd=%E3%80%8A%E6%88%91%E4%BB%AC%E4%BA%9A%E6%B4%B2%E3%80%8B%EF%BC%8C%E9%9B%84%E9%A3%8E%E6%9B%B4%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [16-0！中国女足狂胜蒙古](https://www.baidu.com/s?wd=16-0%EF%BC%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E7%8B%82%E8%83%9C%E8%92%99%E5%8F%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [保安被女子扇耳光后拎其脖子猛摔在地](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E8%A2%AB%E5%A5%B3%E5%AD%90%E6%89%87%E8%80%B3%E5%85%89%E5%90%8E%E6%8B%8E%E5%85%B6%E8%84%96%E5%AD%90%E7%8C%9B%E6%91%94%E5%9C%A8%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [被国会同意拘留 李在明首次发声](https://www.baidu.com/s?wd=%E8%A2%AB%E5%9B%BD%E4%BC%9A%E5%90%8C%E6%84%8F%E6%8B%98%E7%95%99+%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%A6%96%E6%AC%A1%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [放任吃空饷粮食局局长被判刑](https://www.baidu.com/s?wd=%E6%94%BE%E4%BB%BB%E5%90%83%E7%A9%BA%E9%A5%B7%E7%B2%AE%E9%A3%9F%E5%B1%80%E5%B1%80%E9%95%BF%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方:中国不会出现日式长期通缩](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%3A%E4%B8%AD%E5%9B%BD%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E6%97%A5%E5%BC%8F%E9%95%BF%E6%9C%9F%E9%80%9A%E7%BC%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [保安被女子扇耳光后拎其脖子猛摔在地](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E8%A2%AB%E5%A5%B3%E5%AD%90%E6%89%87%E8%80%B3%E5%85%89%E5%90%8E%E6%8B%8E%E5%85%B6%E8%84%96%E5%AD%90%E7%8C%9B%E6%91%94%E5%9C%A8%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [教育部：预制菜不宜推广进校园](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E9%A2%84%E5%88%B6%E8%8F%9C%E4%B8%8D%E5%AE%9C%E6%8E%A8%E5%B9%BF%E8%BF%9B%E6%A0%A1%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [《我们亚洲》，雄风更劲](https://www.baidu.com/s?wd=%E3%80%8A%E6%88%91%E4%BB%AC%E4%BA%9A%E6%B4%B2%E3%80%8B%EF%BC%8C%E9%9B%84%E9%A3%8E%E6%9B%B4%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [16-0！中国女足狂胜蒙古](https://www.baidu.com/s?wd=16-0%EF%BC%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E7%8B%82%E8%83%9C%E8%92%99%E5%8F%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [保安被女子扇耳光后拎其脖子猛摔在地](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E8%A2%AB%E5%A5%B3%E5%AD%90%E6%89%87%E8%80%B3%E5%85%89%E5%90%8E%E6%8B%8E%E5%85%B6%E8%84%96%E5%AD%90%E7%8C%9B%E6%91%94%E5%9C%A8%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [被国会同意拘留 李在明首次发声](https://www.baidu.com/s?wd=%E8%A2%AB%E5%9B%BD%E4%BC%9A%E5%90%8C%E6%84%8F%E6%8B%98%E7%95%99+%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%A6%96%E6%AC%A1%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [放任吃空饷粮食局局长被判刑](https://www.baidu.com/s?wd=%E6%94%BE%E4%BB%BB%E5%90%83%E7%A9%BA%E9%A5%B7%E7%B2%AE%E9%A3%9F%E5%B1%80%E5%B1%80%E9%95%BF%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方:中国不会出现日式长期通缩](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%3A%E4%B8%AD%E5%9B%BD%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E6%97%A5%E5%BC%8F%E9%95%BF%E6%9C%9F%E9%80%9A%E7%BC%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [保安被女子扇耳光后拎其脖子猛摔在地](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E8%A2%AB%E5%A5%B3%E5%AD%90%E6%89%87%E8%80%B3%E5%85%89%E5%90%8E%E6%8B%8E%E5%85%B6%E8%84%96%E5%AD%90%E7%8C%9B%E6%91%94%E5%9C%A8%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
