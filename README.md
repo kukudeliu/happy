@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 19:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 19:10:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [救人后着急上班的领带小哥是山东人](https://s.weibo.com/weibo?q=%23%E6%95%91%E4%BA%BA%E5%90%8E%E7%9D%80%E6%80%A5%E4%B8%8A%E7%8F%AD%E7%9A%84%E9%A2%86%E5%B8%A6%E5%B0%8F%E5%93%A5%E6%98%AF%E5%B1%B1%E4%B8%9C%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [洞洞鞋和勃肯鞋哪个更丑](https://s.weibo.com/weibo?q=%23%E6%B4%9E%E6%B4%9E%E9%9E%8B%E5%92%8C%E5%8B%83%E8%82%AF%E9%9E%8B%E5%93%AA%E4%B8%AA%E6%9B%B4%E4%B8%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [民警下班吃饭顺便抓了个贼](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E4%B8%8B%E7%8F%AD%E5%90%83%E9%A5%AD%E9%A1%BA%E4%BE%BF%E6%8A%93%E4%BA%86%E4%B8%AA%E8%B4%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [98年小伙每天2小时开网店月入5万](https://s.weibo.com/weibo?q=%2398%E5%B9%B4%E5%B0%8F%E4%BC%99%E6%AF%8F%E5%A4%A92%E5%B0%8F%E6%97%B6%E5%BC%80%E7%BD%91%E5%BA%97%E6%9C%88%E5%85%A55%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [长相思酷云播放量年冠](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E9%85%B7%E4%BA%91%E6%92%AD%E6%94%BE%E9%87%8F%E5%B9%B4%E5%86%A0&t=31&band_rank=9&Refer=top)<br />
+8. [婆婆弄丢孩子甩锅儿媳](https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%86%E5%BC%84%E4%B8%A2%E5%AD%A9%E5%AD%90%E7%94%A9%E9%94%85%E5%84%BF%E5%AA%B3%23&t=31&band_rank=8&Refer=top)<br />
+9. [98年小伙每天2小时开网店月入5万](https://s.weibo.com/weibo?q=%2398%E5%B9%B4%E5%B0%8F%E4%BC%99%E6%AF%8F%E5%A4%A92%E5%B0%8F%E6%97%B6%E5%BC%80%E7%BD%91%E5%BA%97%E6%9C%88%E5%85%A55%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
