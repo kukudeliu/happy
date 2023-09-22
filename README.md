@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 08:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 08:55:01</h4></div>
 
 > 微博  
 
-1. [法考 吃上主观题的苦](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%83%20%E5%90%83%E4%B8%8A%E4%B8%BB%E8%A7%82%E9%A2%98%E7%9A%84%E8%8B%A6&t=31&band_rank=1&Refer=top)<br />
-2. [2岁幼儿随地小便家长被判赔11万](https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%B9%BC%E5%84%BF%E9%9A%8F%E5%9C%B0%E5%B0%8F%E4%BE%BF%E5%AE%B6%E9%95%BF%E8%A2%AB%E5%88%A4%E8%B5%9411%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
+1. [2岁幼儿随地小便家长被判赔11万](https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%B9%BC%E5%84%BF%E9%9A%8F%E5%9C%B0%E5%B0%8F%E4%BE%BF%E5%AE%B6%E9%95%BF%E8%A2%AB%E5%88%A4%E8%B5%9411%E4%B8%87%23&t=31&band_rank=1&Refer=top)<br />
+2. [法考 吃上主观题的苦](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%83%20%E5%90%83%E4%B8%8A%E4%B8%BB%E8%A7%82%E9%A2%98%E7%9A%84%E8%8B%A6&t=31&band_rank=2&Refer=top)<br />
 3. [绕杭州飞33小时拍到的美景有多震撼](https://s.weibo.com/weibo?q=%23%E7%BB%95%E6%9D%AD%E5%B7%9E%E9%A3%9E33%E5%B0%8F%E6%97%B6%E6%8B%8D%E5%88%B0%E7%9A%84%E7%BE%8E%E6%99%AF%E6%9C%89%E5%A4%9A%E9%9C%87%E6%92%BC%23&t=31&band_rank=3&Refer=top)<br />
 4. [她被困在考研考编里的五年](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E8%A2%AB%E5%9B%B0%E5%9C%A8%E8%80%83%E7%A0%94%E8%80%83%E7%BC%96%E9%87%8C%E7%9A%84%E4%BA%94%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [顾客吐槽茶颜悦色点餐方式像智商税](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BD%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E%23&t=31&band_rank=5&Refer=top)<br />
