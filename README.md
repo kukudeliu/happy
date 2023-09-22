@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 02:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 02:59:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [《我们亚洲》，雄风更劲](https://www.baidu.com/s?wd=%E3%80%8A%E6%88%91%E4%BB%AC%E4%BA%9A%E6%B4%B2%E3%80%8B%EF%BC%8C%E9%9B%84%E9%A3%8E%E6%9B%B4%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广东大量鱼跃出海面跳上岸 官方回应](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%87%8F%E9%B1%BC%E8%B7%83%E5%87%BA%E6%B5%B7%E9%9D%A2%E8%B7%B3%E4%B8%8A%E5%B2%B8+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [98年小伙每天2小时开网店月入5万](https://www.baidu.com/s?wd=98%E5%B9%B4%E5%B0%8F%E4%BC%99%E6%AF%8F%E5%A4%A92%E5%B0%8F%E6%97%B6%E5%BC%80%E7%BD%91%E5%BA%97%E6%9C%88%E5%85%A55%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [台公司爆炸已致74伤 消防员1死3失联](https://www.baidu.com/s?wd=%E5%8F%B0%E5%85%AC%E5%8F%B8%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B474%E4%BC%A4+%E6%B6%88%E9%98%B2%E5%91%981%E6%AD%BB3%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [2岁幼儿随地小便家长被判赔11万](https://www.baidu.com/s?wd=2%E5%B2%81%E5%B9%BC%E5%84%BF%E9%9A%8F%E5%9C%B0%E5%B0%8F%E4%BE%BF%E5%AE%B6%E9%95%BF%E8%A2%AB%E5%88%A4%E8%B5%9411%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方:中国不会出现日式长期通缩](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%3A%E4%B8%AD%E5%9B%BD%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E6%97%A5%E5%BC%8F%E9%95%BF%E6%9C%9F%E9%80%9A%E7%BC%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [台公司爆炸已致74伤 消防员1死3失联](https://www.baidu.com/s?wd=%E5%8F%B0%E5%85%AC%E5%8F%B8%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B474%E4%BC%A4+%E6%B6%88%E9%98%B2%E5%91%981%E6%AD%BB3%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [《我们亚洲》，雄风更劲](https://www.baidu.com/s?wd=%E3%80%8A%E6%88%91%E4%BB%AC%E4%BA%9A%E6%B4%B2%E3%80%8B%EF%BC%8C%E9%9B%84%E9%A3%8E%E6%9B%B4%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广东大量鱼跃出海面跳上岸 官方回应](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%87%8F%E9%B1%BC%E8%B7%83%E5%87%BA%E6%B5%B7%E9%9D%A2%E8%B7%B3%E4%B8%8A%E5%B2%B8+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [98年小伙每天2小时开网店月入5万](https://www.baidu.com/s?wd=98%E5%B9%B4%E5%B0%8F%E4%BC%99%E6%AF%8F%E5%A4%A92%E5%B0%8F%E6%97%B6%E5%BC%80%E7%BD%91%E5%BA%97%E6%9C%88%E5%85%A55%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [台公司爆炸已致74伤 消防员1死3失联](https://www.baidu.com/s?wd=%E5%8F%B0%E5%85%AC%E5%8F%B8%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B474%E4%BC%A4+%E6%B6%88%E9%98%B2%E5%91%981%E6%AD%BB3%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [2岁幼儿随地小便家长被判赔11万](https://www.baidu.com/s?wd=2%E5%B2%81%E5%B9%BC%E5%84%BF%E9%9A%8F%E5%9C%B0%E5%B0%8F%E4%BE%BF%E5%AE%B6%E9%95%BF%E8%A2%AB%E5%88%A4%E8%B5%9411%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方:中国不会出现日式长期通缩](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%3A%E4%B8%AD%E5%9B%BD%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E6%97%A5%E5%BC%8F%E9%95%BF%E6%9C%9F%E9%80%9A%E7%BC%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [台公司爆炸已致74伤 消防员1死3失联](https://www.baidu.com/s?wd=%E5%8F%B0%E5%85%AC%E5%8F%B8%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B474%E4%BC%A4+%E6%B6%88%E9%98%B2%E5%91%981%E6%AD%BB3%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
