@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 17:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 17:40:01</h4></div>
 
 > 微博  
 
-1. [98年小伙每天2小时开网店月入5万](https://s.weibo.com/weibo?q=%2398%E5%B9%B4%E5%B0%8F%E4%BC%99%E6%AF%8F%E5%A4%A92%E5%B0%8F%E6%97%B6%E5%BC%80%E7%BD%91%E5%BA%97%E6%9C%88%E5%85%A55%E4%B8%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [英语老师3天忘光所有单词查出痴呆症](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%883%E5%A4%A9%E5%BF%98%E5%85%89%E6%89%80%E6%9C%89%E5%8D%95%E8%AF%8D%E6%9F%A5%E5%87%BA%E7%97%B4%E5%91%86%E7%97%87%23&t=31&band_rank=2&Refer=top)<br />
+1. [英语老师3天忘光所有单词查出痴呆症](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%883%E5%A4%A9%E5%BF%98%E5%85%89%E6%89%80%E6%9C%89%E5%8D%95%E8%AF%8D%E6%9F%A5%E5%87%BA%E7%97%B4%E5%91%86%E7%97%87%23&t=31&band_rank=1&Refer=top)<br />
+2. [98年小伙每天2小时开网店月入5万](https://s.weibo.com/weibo?q=%2398%E5%B9%B4%E5%B0%8F%E4%BC%99%E6%AF%8F%E5%A4%A92%E5%B0%8F%E6%97%B6%E5%BC%80%E7%BD%91%E5%BA%97%E6%9C%88%E5%85%A55%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [三次亚运会窗口透视中国33年变迁](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%AC%A1%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%AA%97%E5%8F%A3%E9%80%8F%E8%A7%86%E4%B8%AD%E5%9B%BD33%E5%B9%B4%E5%8F%98%E8%BF%81%23&t=31&band_rank=3&Refer=top)<br />
 4. [孙颖莎11比0](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E11%E6%AF%940%23&t=31&band_rank=4&Refer=top)<br />
 5. [三亚一女子诊所内被害](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E4%B8%80%E5%A5%B3%E5%AD%90%E8%AF%8A%E6%89%80%E5%86%85%E8%A2%AB%E5%AE%B3%23&t=31&band_rank=5&Refer=top)<br />
