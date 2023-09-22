@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 22:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 22:18:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [女子3次试管婴儿终于怀上却查出癌症](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%903%E6%AC%A1%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF%E7%BB%88%E4%BA%8E%E6%80%80%E4%B8%8A%E5%8D%B4%E6%9F%A5%E5%87%BA%E7%99%8C%E7%97%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [洞洞鞋和勃肯鞋哪个更丑](https://s.weibo.com/weibo?q=%23%E6%B4%9E%E6%B4%9E%E9%9E%8B%E5%92%8C%E5%8B%83%E8%82%AF%E9%9E%8B%E5%93%AA%E4%B8%AA%E6%9B%B4%E4%B8%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [中国女排vs荷兰女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E8%8D%B7%E5%85%B0%E5%A5%B3%E6%8E%92%23&t=31&band_rank=6&Refer=top)<br />
-7. [教育部称对预制菜进校园持审慎态度](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E7%A7%B0%E5%AF%B9%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E6%A0%A1%E5%9B%AD%E6%8C%81%E5%AE%A1%E6%85%8E%E6%80%81%E5%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [国产剧女主终于长嘴了](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%89%A7%E5%A5%B3%E4%B8%BB%E7%BB%88%E4%BA%8E%E9%95%BF%E5%98%B4%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [国产剧女主终于长嘴了](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%89%A7%E5%A5%B3%E4%B8%BB%E7%BB%88%E4%BA%8E%E9%95%BF%E5%98%B4%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [教育部称对预制菜进校园持审慎态度](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E7%A7%B0%E5%AF%B9%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E6%A0%A1%E5%9B%AD%E6%8C%81%E5%AE%A1%E6%85%8E%E6%80%81%E5%BA%A6%23&t=31&band_rank=8&Refer=top)<br />
 9. [邓紫棋林俊杰手心的蔷薇](https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%89%8B%E5%BF%83%E7%9A%84%E8%94%B7%E8%96%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
