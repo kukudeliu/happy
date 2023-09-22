@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 14:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 14:24:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [12306回应强制买长乘短](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%BC%BA%E5%88%B6%E4%B9%B0%E9%95%BF%E4%B9%98%E7%9F%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [她被困在考研考编里的五年](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E8%A2%AB%E5%9B%B0%E5%9C%A8%E8%80%83%E7%A0%94%E8%80%83%E7%BC%96%E9%87%8C%E7%9A%84%E4%BA%94%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [儿子监狱服刑母亲骗领国家工资41万](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E7%9B%91%E7%8B%B1%E6%9C%8D%E5%88%91%E6%AF%8D%E4%BA%B2%E9%AA%97%E9%A2%86%E5%9B%BD%E5%AE%B6%E5%B7%A5%E8%B5%8441%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [亚运会电竞项目抽签](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%94%B5%E7%AB%9E%E9%A1%B9%E7%9B%AE%E6%8A%BD%E7%AD%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [约两成考生选择逆向考研](https://s.weibo.com/weibo?q=%23%E7%BA%A6%E4%B8%A4%E6%88%90%E8%80%83%E7%94%9F%E9%80%89%E6%8B%A9%E9%80%86%E5%90%91%E8%80%83%E7%A0%94%23&t=31&band_rank=9&Refer=top)<br />
+8. [约两成考生选择逆向考研](https://s.weibo.com/weibo?q=%23%E7%BA%A6%E4%B8%A4%E6%88%90%E8%80%83%E7%94%9F%E9%80%89%E6%8B%A9%E9%80%86%E5%90%91%E8%80%83%E7%A0%94%23&t=31&band_rank=8&Refer=top)<br />
+9. [LOL中韩可能在半决赛交手](https://s.weibo.com/weibo?q=%23LOL%E4%B8%AD%E9%9F%A9%E5%8F%AF%E8%83%BD%E5%9C%A8%E5%8D%8A%E5%86%B3%E8%B5%9B%E4%BA%A4%E6%89%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
