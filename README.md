@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 02:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 02:10:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [广东大量鱼跃出海面跳上岸 官方回应](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%87%8F%E9%B1%BC%E8%B7%83%E5%87%BA%E6%B5%B7%E9%9D%A2%E8%B7%B3%E4%B8%8A%E5%B2%B8+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [厅官被“双开”：用公款买腊肉香肠](https://www.baidu.com/s?wd=%E5%8E%85%E5%AE%98%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D%EF%BC%9A%E7%94%A8%E5%85%AC%E6%AC%BE%E4%B9%B0%E8%85%8A%E8%82%89%E9%A6%99%E8%82%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子聚餐疑遭老板灌酒致死 警方介入](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%81%9A%E9%A4%90%E7%96%91%E9%81%AD%E8%80%81%E6%9D%BF%E7%81%8C%E9%85%92%E8%87%B4%E6%AD%BB+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [35岁成为女市长，21年后主动投案](https://www.baidu.com/s?wd=35%E5%B2%81%E6%88%90%E4%B8%BA%E5%A5%B3%E5%B8%82%E9%95%BF%EF%BC%8C21%E5%B9%B4%E5%90%8E%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [3男女酒店吸食600瓶笑气被抓](https://www.baidu.com/s?wd=3%E7%94%B7%E5%A5%B3%E9%85%92%E5%BA%97%E5%90%B8%E9%A3%9F600%E7%93%B6%E7%AC%91%E6%B0%94%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [广东大量鱼跃出海面跳上岸 官方回应](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%87%8F%E9%B1%BC%E8%B7%83%E5%87%BA%E6%B5%B7%E9%9D%A2%E8%B7%B3%E4%B8%8A%E5%B2%B8+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [厅官被“双开”：用公款买腊肉香肠](https://www.baidu.com/s?wd=%E5%8E%85%E5%AE%98%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D%EF%BC%9A%E7%94%A8%E5%85%AC%E6%AC%BE%E4%B9%B0%E8%85%8A%E8%82%89%E9%A6%99%E8%82%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子聚餐疑遭老板灌酒致死 警方介入](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%81%9A%E9%A4%90%E7%96%91%E9%81%AD%E8%80%81%E6%9D%BF%E7%81%8C%E9%85%92%E8%87%B4%E6%AD%BB+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [35岁成为女市长，21年后主动投案](https://www.baidu.com/s?wd=35%E5%B2%81%E6%88%90%E4%B8%BA%E5%A5%B3%E5%B8%82%E9%95%BF%EF%BC%8C21%E5%B9%B4%E5%90%8E%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [3男女酒店吸食600瓶笑气被抓](https://www.baidu.com/s?wd=3%E7%94%B7%E5%A5%B3%E9%85%92%E5%BA%97%E5%90%B8%E9%A3%9F600%E7%93%B6%E7%AC%91%E6%B0%94%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
