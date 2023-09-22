@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 16:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 16:17:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [98年小伙每天2小时开网店月入5万](https://www.baidu.com/s?wd=98%E5%B9%B4%E5%B0%8F%E4%BC%99%E6%AF%8F%E5%A4%A92%E5%B0%8F%E6%97%B6%E5%BC%80%E7%BD%91%E5%BA%97%E6%9C%88%E5%85%A55%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [35岁成为女市长，21年后主动投案](https://www.baidu.com/s?wd=35%E5%B2%81%E6%88%90%E4%B8%BA%E5%A5%B3%E5%B8%82%E9%95%BF%EF%BC%8C21%E5%B9%B4%E5%90%8E%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [英语老师3天忘光所有单词](https://www.baidu.com/s?wd=%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%883%E5%A4%A9%E5%BF%98%E5%85%89%E6%89%80%E6%9C%89%E5%8D%95%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [东莞现五尸凶杀案？警方辟谣](https://www.baidu.com/s?wd=%E4%B8%9C%E8%8E%9E%E7%8E%B0%E4%BA%94%E5%B0%B8%E5%87%B6%E6%9D%80%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [98年小伙每天2小时开网店月入5万](https://www.baidu.com/s?wd=98%E5%B9%B4%E5%B0%8F%E4%BC%99%E6%AF%8F%E5%A4%A92%E5%B0%8F%E6%97%B6%E5%BC%80%E7%BD%91%E5%BA%97%E6%9C%88%E5%85%A55%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [35岁成为女市长，21年后主动投案](https://www.baidu.com/s?wd=35%E5%B2%81%E6%88%90%E4%B8%BA%E5%A5%B3%E5%B8%82%E9%95%BF%EF%BC%8C21%E5%B9%B4%E5%90%8E%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [英语老师3天忘光所有单词](https://www.baidu.com/s?wd=%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%883%E5%A4%A9%E5%BF%98%E5%85%89%E6%89%80%E6%9C%89%E5%8D%95%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [东莞现五尸凶杀案？警方辟谣](https://www.baidu.com/s?wd=%E4%B8%9C%E8%8E%9E%E7%8E%B0%E4%BA%94%E5%B0%B8%E5%87%B6%E6%9D%80%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
