@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 14:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 14:59:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [她被困在考研考编里的五年](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E8%A2%AB%E5%9B%B0%E5%9C%A8%E8%80%83%E7%A0%94%E8%80%83%E7%BC%96%E9%87%8C%E7%9A%84%E4%BA%94%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [约两成考生选择逆向考研](https://s.weibo.com/weibo?q=%23%E7%BA%A6%E4%B8%A4%E6%88%90%E8%80%83%E7%94%9F%E9%80%89%E6%8B%A9%E9%80%86%E5%90%91%E8%80%83%E7%A0%94%23&t=31&band_rank=5&Refer=top)<br />
 6. [儿子监狱服刑母亲骗领国家工资41万](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E7%9B%91%E7%8B%B1%E6%9C%8D%E5%88%91%E6%AF%8D%E4%BA%B2%E9%AA%97%E9%A2%86%E5%9B%BD%E5%AE%B6%E5%B7%A5%E8%B5%8441%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [12306回应强制买长乘短](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%BC%BA%E5%88%B6%E4%B9%B0%E9%95%BF%E4%B9%98%E7%9F%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [LOL中韩可能在半决赛交手](https://s.weibo.com/weibo?q=%23LOL%E4%B8%AD%E9%9F%A9%E5%8F%AF%E8%83%BD%E5%9C%A8%E5%8D%8A%E5%86%B3%E8%B5%9B%E4%BA%A4%E6%89%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [SEVENTEEN新预告有北京](https://s.weibo.com/weibo?q=%23SEVENTEEN%E6%96%B0%E9%A2%84%E5%91%8A%E6%9C%89%E5%8C%97%E4%BA%AC%23&t=31&band_rank=9&Refer=top)<br />
+7. [LOL中韩可能在半决赛交手](https://s.weibo.com/weibo?q=%23LOL%E4%B8%AD%E9%9F%A9%E5%8F%AF%E8%83%BD%E5%9C%A8%E5%8D%8A%E5%86%B3%E8%B5%9B%E4%BA%A4%E6%89%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [12306回应强制买长乘短](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%BC%BA%E5%88%B6%E4%B9%B0%E9%95%BF%E4%B9%98%E7%9F%AD%23&t=31&band_rank=8&Refer=top)<br />
+9. [五条悟被封印](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9D%A1%E6%82%9F%E8%A2%AB%E5%B0%81%E5%8D%B0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [杭州1米92特警很意外自己走红](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E1%E7%B1%B392%E7%89%B9%E8%AD%A6%E5%BE%88%E6%84%8F%E5%A4%96%E8%87%AA%E5%B7%B1%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [英语老师3天忘光所有单词](https://www.baidu.com/s?wd=%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%883%E5%A4%A9%E5%BF%98%E5%85%89%E6%89%80%E6%9C%89%E5%8D%95%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [太爷爷去世11天重孙女坐路口等待](https://www.baidu.com/s?wd=%E5%A4%AA%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%9611%E5%A4%A9%E9%87%8D%E5%AD%99%E5%A5%B3%E5%9D%90%E8%B7%AF%E5%8F%A3%E7%AD%89%E5%BE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄高官：美国想在蒙古国套用乌剧本](https://www.baidu.com/s?wd=%E4%BF%84%E9%AB%98%E5%AE%98%EF%BC%9A%E7%BE%8E%E5%9B%BD%E6%83%B3%E5%9C%A8%E8%92%99%E5%8F%A4%E5%9B%BD%E5%A5%97%E7%94%A8%E4%B9%8C%E5%89%A7%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [茶颜悦色回应点餐方式像智商税](https://www.baidu.com/s?wd=%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%9B%9E%E5%BA%94%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [东莞现五尸凶杀案？警方辟谣](https://www.baidu.com/s?wd=%E4%B8%9C%E8%8E%9E%E7%8E%B0%E4%BA%94%E5%B0%B8%E5%87%B6%E6%9D%80%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [杭州1米92特警很意外自己走红](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E1%E7%B1%B392%E7%89%B9%E8%AD%A6%E5%BE%88%E6%84%8F%E5%A4%96%E8%87%AA%E5%B7%B1%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [英语老师3天忘光所有单词](https://www.baidu.com/s?wd=%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%883%E5%A4%A9%E5%BF%98%E5%85%89%E6%89%80%E6%9C%89%E5%8D%95%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [太爷爷去世11天重孙女坐路口等待](https://www.baidu.com/s?wd=%E5%A4%AA%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%9611%E5%A4%A9%E9%87%8D%E5%AD%99%E5%A5%B3%E5%9D%90%E8%B7%AF%E5%8F%A3%E7%AD%89%E5%BE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄高官：美国想在蒙古国套用乌剧本](https://www.baidu.com/s?wd=%E4%BF%84%E9%AB%98%E5%AE%98%EF%BC%9A%E7%BE%8E%E5%9B%BD%E6%83%B3%E5%9C%A8%E8%92%99%E5%8F%A4%E5%9B%BD%E5%A5%97%E7%94%A8%E4%B9%8C%E5%89%A7%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [茶颜悦色回应点餐方式像智商税](https://www.baidu.com/s?wd=%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%9B%9E%E5%BA%94%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [东莞现五尸凶杀案？警方辟谣](https://www.baidu.com/s?wd=%E4%B8%9C%E8%8E%9E%E7%8E%B0%E4%BA%94%E5%B0%B8%E5%87%B6%E6%9D%80%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
