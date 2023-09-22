@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 20:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 20:42:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [邓紫棋林俊杰手心的蔷薇](https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%89%8B%E5%BF%83%E7%9A%84%E8%94%B7%E8%96%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦11比0](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A611%E6%AF%940%23&t=31&band_rank=7&Refer=top)<br />
 8. [婆婆弄丢孩子甩锅儿媳](https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%86%E5%BC%84%E4%B8%A2%E5%AD%A9%E5%AD%90%E7%94%A9%E9%94%85%E5%84%BF%E5%AA%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [小杨哥回应TheShy缺席直播](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94TheShy%E7%BC%BA%E5%B8%AD%E7%9B%B4%E6%92%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [中美成立经济领域工作组](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E6%88%90%E7%AB%8B%E7%BB%8F%E6%B5%8E%E9%A2%86%E5%9F%9F%E5%B7%A5%E4%BD%9C%E7%BB%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
