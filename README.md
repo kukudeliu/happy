@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 10:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 10:34:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [英语老师3天忘光所有单词](https://www.baidu.com/s?wd=%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%883%E5%A4%A9%E5%BF%98%E5%85%89%E6%89%80%E6%9C%89%E5%8D%95%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2岁幼儿随地小便家长被判赔11万](https://www.baidu.com/s?wd=2%E5%B2%81%E5%B9%BC%E5%84%BF%E9%9A%8F%E5%9C%B0%E5%B0%8F%E4%BE%BF%E5%AE%B6%E9%95%BF%E8%A2%AB%E5%88%A4%E8%B5%9411%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄晓明罕见谈儿子：性格像妈妈](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E7%BD%95%E8%A7%81%E8%B0%88%E5%84%BF%E5%AD%90%EF%BC%9A%E6%80%A7%E6%A0%BC%E5%83%8F%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [清北大学生称考研半途而废是当逃兵](https://www.baidu.com/s?wd=%E6%B8%85%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A7%B0%E8%80%83%E7%A0%94%E5%8D%8A%E9%80%94%E8%80%8C%E5%BA%9F%E6%98%AF%E5%BD%93%E9%80%83%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [10人死刑 警方披露破获特大贩毒案](https://www.baidu.com/s?wd=10%E4%BA%BA%E6%AD%BB%E5%88%91+%E8%AD%A6%E6%96%B9%E6%8A%AB%E9%9C%B2%E7%A0%B4%E8%8E%B7%E7%89%B9%E5%A4%A7%E8%B4%A9%E6%AF%92%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [东莞现五尸凶杀案？警方辟谣](https://www.baidu.com/s?wd=%E4%B8%9C%E8%8E%9E%E7%8E%B0%E4%BA%94%E5%B0%B8%E5%87%B6%E6%9D%80%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [英语老师3天忘光所有单词](https://www.baidu.com/s?wd=%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%883%E5%A4%A9%E5%BF%98%E5%85%89%E6%89%80%E6%9C%89%E5%8D%95%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2岁幼儿随地小便家长被判赔11万](https://www.baidu.com/s?wd=2%E5%B2%81%E5%B9%BC%E5%84%BF%E9%9A%8F%E5%9C%B0%E5%B0%8F%E4%BE%BF%E5%AE%B6%E9%95%BF%E8%A2%AB%E5%88%A4%E8%B5%9411%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄晓明罕见谈儿子：性格像妈妈](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E7%BD%95%E8%A7%81%E8%B0%88%E5%84%BF%E5%AD%90%EF%BC%9A%E6%80%A7%E6%A0%BC%E5%83%8F%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [清北大学生称考研半途而废是当逃兵](https://www.baidu.com/s?wd=%E6%B8%85%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A7%B0%E8%80%83%E7%A0%94%E5%8D%8A%E9%80%94%E8%80%8C%E5%BA%9F%E6%98%AF%E5%BD%93%E9%80%83%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [10人死刑 警方披露破获特大贩毒案](https://www.baidu.com/s?wd=10%E4%BA%BA%E6%AD%BB%E5%88%91+%E8%AD%A6%E6%96%B9%E6%8A%AB%E9%9C%B2%E7%A0%B4%E8%8E%B7%E7%89%B9%E5%A4%A7%E8%B4%A9%E6%AF%92%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [东莞现五尸凶杀案？警方辟谣](https://www.baidu.com/s?wd=%E4%B8%9C%E8%8E%9E%E7%8E%B0%E4%BA%94%E5%B0%B8%E5%87%B6%E6%9D%80%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
