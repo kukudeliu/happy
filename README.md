@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 19:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 19:55:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [新手爸爸没看住的孩子被陌生爷爷守护了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%89%8B%E7%88%B8%E7%88%B8%E6%B2%A1%E7%9C%8B%E4%BD%8F%E7%9A%84%E5%AD%A9%E5%AD%90%E8%A2%AB%E9%99%8C%E7%94%9F%E7%88%B7%E7%88%B7%E5%AE%88%E6%8A%A4%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会开幕倒计时1天](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%80%92%E8%AE%A1%E6%97%B61%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [吴磊 我有自己的路要走](https://s.weibo.com/weibo?q=%E5%90%B4%E7%A3%8A%20%E6%88%91%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E8%B7%AF%E8%A6%81%E8%B5%B0&t=31&band_rank=4&Refer=top)<br />
-5. [救人后着急上班的领带小哥是山东人](https://s.weibo.com/weibo?q=%23%E6%95%91%E4%BA%BA%E5%90%8E%E7%9D%80%E6%80%A5%E4%B8%8A%E7%8F%AD%E7%9A%84%E9%A2%86%E5%B8%A6%E5%B0%8F%E5%93%A5%E6%98%AF%E5%B1%B1%E4%B8%9C%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
+5. [孟钰坐她爸爸的位置了](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E9%92%B0%E5%9D%90%E5%A5%B9%E7%88%B8%E7%88%B8%E7%9A%84%E4%BD%8D%E7%BD%AE%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [泷泽秀明被曝性骚扰](https://s.weibo.com/weibo?q=%23%E6%B3%B7%E6%B3%BD%E7%A7%80%E6%98%8E%E8%A2%AB%E6%9B%9D%E6%80%A7%E9%AA%9A%E6%89%B0%23&t=31&band_rank=6&Refer=top)<br />
-7. [孟钰坐她爸爸的位置了](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E9%92%B0%E5%9D%90%E5%A5%B9%E7%88%B8%E7%88%B8%E7%9A%84%E4%BD%8D%E7%BD%AE%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+7. [救人后着急上班的领带小哥是山东人](https://s.weibo.com/weibo?q=%23%E6%95%91%E4%BA%BA%E5%90%8E%E7%9D%80%E6%80%A5%E4%B8%8A%E7%8F%AD%E7%9A%84%E9%A2%86%E5%B8%A6%E5%B0%8F%E5%93%A5%E6%98%AF%E5%B1%B1%E4%B8%9C%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [英语老师3天忘光所有单词查出痴呆症](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%883%E5%A4%A9%E5%BF%98%E5%85%89%E6%89%80%E6%9C%89%E5%8D%95%E8%AF%8D%E6%9F%A5%E5%87%BA%E7%97%B4%E5%91%86%E7%97%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [婆婆弄丢孩子甩锅儿媳](https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%86%E5%BC%84%E4%B8%A2%E5%AD%A9%E5%AD%90%E7%94%A9%E9%94%85%E5%84%BF%E5%AA%B3%23&t=31&band_rank=9&Refer=top)<br />
 
