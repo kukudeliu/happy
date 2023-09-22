@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 23:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 23:09:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [教育部：预制菜不宜推广进校园](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E9%A2%84%E5%88%B6%E8%8F%9C%E4%B8%8D%E5%AE%9C%E6%8E%A8%E5%B9%BF%E8%BF%9B%E6%A0%A1%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [《我们亚洲》，雄风更劲](https://www.baidu.com/s?wd=%E3%80%8A%E6%88%91%E4%BB%AC%E4%BA%9A%E6%B4%B2%E3%80%8B%EF%BC%8C%E9%9B%84%E9%A3%8E%E6%9B%B4%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [16-0！中国女足狂胜蒙古](https://www.baidu.com/s?wd=16-0%EF%BC%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E7%8B%82%E8%83%9C%E8%92%99%E5%8F%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [被国会同意拘留 李在明首次发声](https://www.baidu.com/s?wd=%E8%A2%AB%E5%9B%BD%E4%BC%9A%E5%90%8C%E6%84%8F%E6%8B%98%E7%95%99+%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%A6%96%E6%AC%A1%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [香港特首李家超和团队抵达杭州](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E9%A6%96%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%92%8C%E5%9B%A2%E9%98%9F%E6%8A%B5%E8%BE%BE%E6%9D%AD%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [保安被女子扇耳光后拎其脖子猛摔在地](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E8%A2%AB%E5%A5%B3%E5%AD%90%E6%89%87%E8%80%B3%E5%85%89%E5%90%8E%E6%8B%8E%E5%85%B6%E8%84%96%E5%AD%90%E7%8C%9B%E6%91%94%E5%9C%A8%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [外国运动员在杭州开启扫货模式](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E5%9C%A8%E6%9D%AD%E5%B7%9E%E5%BC%80%E5%90%AF%E6%89%AB%E8%B4%A7%E6%A8%A1%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女游客景区起争执 丈夫遭多人围殴](https://www.baidu.com/s?wd=%E5%A5%B3%E6%B8%B8%E5%AE%A2%E6%99%AF%E5%8C%BA%E8%B5%B7%E4%BA%89%E6%89%A7+%E4%B8%88%E5%A4%AB%E9%81%AD%E5%A4%9A%E4%BA%BA%E5%9B%B4%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [教育部：预制菜不宜推广进校园](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E9%A2%84%E5%88%B6%E8%8F%9C%E4%B8%8D%E5%AE%9C%E6%8E%A8%E5%B9%BF%E8%BF%9B%E6%A0%A1%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [《我们亚洲》，雄风更劲](https://www.baidu.com/s?wd=%E3%80%8A%E6%88%91%E4%BB%AC%E4%BA%9A%E6%B4%B2%E3%80%8B%EF%BC%8C%E9%9B%84%E9%A3%8E%E6%9B%B4%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [16-0！中国女足狂胜蒙古](https://www.baidu.com/s?wd=16-0%EF%BC%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E7%8B%82%E8%83%9C%E8%92%99%E5%8F%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [被国会同意拘留 李在明首次发声](https://www.baidu.com/s?wd=%E8%A2%AB%E5%9B%BD%E4%BC%9A%E5%90%8C%E6%84%8F%E6%8B%98%E7%95%99+%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%A6%96%E6%AC%A1%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [香港特首李家超和团队抵达杭州](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E9%A6%96%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%92%8C%E5%9B%A2%E9%98%9F%E6%8A%B5%E8%BE%BE%E6%9D%AD%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [保安被女子扇耳光后拎其脖子猛摔在地](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E8%A2%AB%E5%A5%B3%E5%AD%90%E6%89%87%E8%80%B3%E5%85%89%E5%90%8E%E6%8B%8E%E5%85%B6%E8%84%96%E5%AD%90%E7%8C%9B%E6%91%94%E5%9C%A8%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [外国运动员在杭州开启扫货模式](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E5%9C%A8%E6%9D%AD%E5%B7%9E%E5%BC%80%E5%90%AF%E6%89%AB%E8%B4%A7%E6%A8%A1%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女游客景区起争执 丈夫遭多人围殴](https://www.baidu.com/s?wd=%E5%A5%B3%E6%B8%B8%E5%AE%A2%E6%99%AF%E5%8C%BA%E8%B5%B7%E4%BA%89%E6%89%A7+%E4%B8%88%E5%A4%AB%E9%81%AD%E5%A4%9A%E4%BA%BA%E5%9B%B4%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
