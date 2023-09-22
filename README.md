@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 21:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 21:49:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [16-0！中国女足狂胜蒙古](https://www.baidu.com/s?wd=16-0%EF%BC%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E7%8B%82%E8%83%9C%E8%92%99%E5%8F%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [台公司爆炸已致74伤 消防员1死3失联](https://www.baidu.com/s?wd=%E5%8F%B0%E5%85%AC%E5%8F%B8%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B474%E4%BC%A4+%E6%B6%88%E9%98%B2%E5%91%981%E6%AD%BB3%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [保安被女子扇耳光后拎其脖子猛摔在地](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E8%A2%AB%E5%A5%B3%E5%AD%90%E6%89%87%E8%80%B3%E5%85%89%E5%90%8E%E6%8B%8E%E5%85%B6%E8%84%96%E5%AD%90%E7%8C%9B%E6%91%94%E5%9C%A8%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京一公交车被水泥罐车追尾后起火](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%85%AC%E4%BA%A4%E8%BD%A6%E8%A2%AB%E6%B0%B4%E6%B3%A5%E7%BD%90%E8%BD%A6%E8%BF%BD%E5%B0%BE%E5%90%8E%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [被国会同意拘留 李在明首次发声](https://www.baidu.com/s?wd=%E8%A2%AB%E5%9B%BD%E4%BC%9A%E5%90%8C%E6%84%8F%E6%8B%98%E7%95%99+%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%A6%96%E6%AC%A1%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [16-0！中国女足狂胜蒙古](https://www.baidu.com/s?wd=16-0%EF%BC%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E7%8B%82%E8%83%9C%E8%92%99%E5%8F%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [台公司爆炸已致74伤 消防员1死3失联](https://www.baidu.com/s?wd=%E5%8F%B0%E5%85%AC%E5%8F%B8%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B474%E4%BC%A4+%E6%B6%88%E9%98%B2%E5%91%981%E6%AD%BB3%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [保安被女子扇耳光后拎其脖子猛摔在地](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E8%A2%AB%E5%A5%B3%E5%AD%90%E6%89%87%E8%80%B3%E5%85%89%E5%90%8E%E6%8B%8E%E5%85%B6%E8%84%96%E5%AD%90%E7%8C%9B%E6%91%94%E5%9C%A8%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京一公交车被水泥罐车追尾后起火](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%85%AC%E4%BA%A4%E8%BD%A6%E8%A2%AB%E6%B0%B4%E6%B3%A5%E7%BD%90%E8%BD%A6%E8%BF%BD%E5%B0%BE%E5%90%8E%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [被国会同意拘留 李在明首次发声](https://www.baidu.com/s?wd=%E8%A2%AB%E5%9B%BD%E4%BC%9A%E5%90%8C%E6%84%8F%E6%8B%98%E7%95%99+%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%A6%96%E6%AC%A1%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
