@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 09:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 09:26:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [2岁幼儿随地小便家长被判赔11万](https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%B9%BC%E5%84%BF%E9%9A%8F%E5%9C%B0%E5%B0%8F%E4%BE%BF%E5%AE%B6%E9%95%BF%E8%A2%AB%E5%88%A4%E8%B5%9411%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [郭敬明 再漫长的黑夜都会过去](https://s.weibo.com/weibo?q=%E9%83%AD%E6%95%AC%E6%98%8E%20%E5%86%8D%E6%BC%AB%E9%95%BF%E7%9A%84%E9%BB%91%E5%A4%9C%E9%83%BD%E4%BC%9A%E8%BF%87%E5%8E%BB&t=31&band_rank=6&Refer=top)<br />
 7. [3岁男孩对妈妈说车上坐不下交警一查是超员](https://s.weibo.com/weibo?q=%233%E5%B2%81%E7%94%B7%E5%AD%A9%E5%AF%B9%E5%A6%88%E5%A6%88%E8%AF%B4%E8%BD%A6%E4%B8%8A%E5%9D%90%E4%B8%8D%E4%B8%8B%E4%BA%A4%E8%AD%A6%E4%B8%80%E6%9F%A5%E6%98%AF%E8%B6%85%E5%91%98%23&t=31&band_rank=7&Refer=top)<br />
-8. [网红老婆爱吃巧乐兹发文道歉](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%80%81%E5%A9%86%E7%88%B1%E5%90%83%E5%B7%A7%E4%B9%90%E5%85%B9%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [超1400万部老年机被木马控制自动花钱](https://s.weibo.com/weibo?q=%23%E8%B6%851400%E4%B8%87%E9%83%A8%E8%80%81%E5%B9%B4%E6%9C%BA%E8%A2%AB%E6%9C%A8%E9%A9%AC%E6%8E%A7%E5%88%B6%E8%87%AA%E5%8A%A8%E8%8A%B1%E9%92%B1%23&t=31&band_rank=9&Refer=top)<br />
+8. [超1400万部老年机被木马控制自动花钱](https://s.weibo.com/weibo?q=%23%E8%B6%851400%E4%B8%87%E9%83%A8%E8%80%81%E5%B9%B4%E6%9C%BA%E8%A2%AB%E6%9C%A8%E9%A9%AC%E6%8E%A7%E5%88%B6%E8%87%AA%E5%8A%A8%E8%8A%B1%E9%92%B1%23&t=31&band_rank=8&Refer=top)<br />
+9. [网红老婆爱吃巧乐兹发文道歉](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%80%81%E5%A9%86%E7%88%B1%E5%90%83%E5%B7%A7%E4%B9%90%E5%85%B9%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
