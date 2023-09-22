@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 09:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 09:19:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [英语老师3天忘光所有单词](https://www.baidu.com/s?wd=%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%883%E5%A4%A9%E5%BF%98%E5%85%89%E6%89%80%E6%9C%89%E5%8D%95%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [靠电费赚差价成部分房东重要收入](https://www.baidu.com/s?wd=%E9%9D%A0%E7%94%B5%E8%B4%B9%E8%B5%9A%E5%B7%AE%E4%BB%B7%E6%88%90%E9%83%A8%E5%88%86%E6%88%BF%E4%B8%9C%E9%87%8D%E8%A6%81%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生被安排为男宾洗澡？警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%AE%89%E6%8E%92%E4%B8%BA%E7%94%B7%E5%AE%BE%E6%B4%97%E6%BE%A1%EF%BC%9F%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [清北大学生称考研半途而废是当逃兵](https://www.baidu.com/s?wd=%E6%B8%85%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A7%B0%E8%80%83%E7%A0%94%E5%8D%8A%E9%80%94%E8%80%8C%E5%BA%9F%E6%98%AF%E5%BD%93%E9%80%83%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄临时限制出口汽油和柴油](https://www.baidu.com/s?wd=%E4%BF%84%E4%B8%B4%E6%97%B6%E9%99%90%E5%88%B6%E5%87%BA%E5%8F%A3%E6%B1%BD%E6%B2%B9%E5%92%8C%E6%9F%B4%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [东莞现五尸凶杀案？警方辟谣](https://www.baidu.com/s?wd=%E4%B8%9C%E8%8E%9E%E7%8E%B0%E4%BA%94%E5%B0%B8%E5%87%B6%E6%9D%80%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [英语老师3天忘光所有单词](https://www.baidu.com/s?wd=%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%883%E5%A4%A9%E5%BF%98%E5%85%89%E6%89%80%E6%9C%89%E5%8D%95%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [靠电费赚差价成部分房东重要收入](https://www.baidu.com/s?wd=%E9%9D%A0%E7%94%B5%E8%B4%B9%E8%B5%9A%E5%B7%AE%E4%BB%B7%E6%88%90%E9%83%A8%E5%88%86%E6%88%BF%E4%B8%9C%E9%87%8D%E8%A6%81%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生被安排为男宾洗澡？警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%AE%89%E6%8E%92%E4%B8%BA%E7%94%B7%E5%AE%BE%E6%B4%97%E6%BE%A1%EF%BC%9F%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [清北大学生称考研半途而废是当逃兵](https://www.baidu.com/s?wd=%E6%B8%85%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A7%B0%E8%80%83%E7%A0%94%E5%8D%8A%E9%80%94%E8%80%8C%E5%BA%9F%E6%98%AF%E5%BD%93%E9%80%83%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄临时限制出口汽油和柴油](https://www.baidu.com/s?wd=%E4%BF%84%E4%B8%B4%E6%97%B6%E9%99%90%E5%88%B6%E5%87%BA%E5%8F%A3%E6%B1%BD%E6%B2%B9%E5%92%8C%E6%9F%B4%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [东莞现五尸凶杀案？警方辟谣](https://www.baidu.com/s?wd=%E4%B8%9C%E8%8E%9E%E7%8E%B0%E4%BA%94%E5%B0%B8%E5%87%B6%E6%9D%80%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
