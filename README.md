@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 00:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 00:19:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [广东大量鱼跃出海面跳上岸 官方回应](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%87%8F%E9%B1%BC%E8%B7%83%E5%87%BA%E6%B5%B7%E9%9D%A2%E8%B7%B3%E4%B8%8A%E5%B2%B8+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [保安被女子扇耳光后拎其脖子猛摔在地](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E8%A2%AB%E5%A5%B3%E5%AD%90%E6%89%87%E8%80%B3%E5%85%89%E5%90%8E%E6%8B%8E%E5%85%B6%E8%84%96%E5%AD%90%E7%8C%9B%E6%91%94%E5%9C%A8%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方回应“男子赤身裸体趴在6楼外”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%94%B7%E5%AD%90%E8%B5%A4%E8%BA%AB%E8%A3%B8%E4%BD%93%E8%B6%B4%E5%9C%A86%E6%A5%BC%E5%A4%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄军黑海舰队总部遭导弹袭击](https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E9%BB%91%E6%B5%B7%E8%88%B0%E9%98%9F%E6%80%BB%E9%83%A8%E9%81%AD%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子聚餐疑遭老板灌酒致死 警方介入](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%81%9A%E9%A4%90%E7%96%91%E9%81%AD%E8%80%81%E6%9D%BF%E7%81%8C%E9%85%92%E8%87%B4%E6%AD%BB+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [广东大量鱼跃出海面跳上岸 官方回应](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%87%8F%E9%B1%BC%E8%B7%83%E5%87%BA%E6%B5%B7%E9%9D%A2%E8%B7%B3%E4%B8%8A%E5%B2%B8+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [保安被女子扇耳光后拎其脖子猛摔在地](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E8%A2%AB%E5%A5%B3%E5%AD%90%E6%89%87%E8%80%B3%E5%85%89%E5%90%8E%E6%8B%8E%E5%85%B6%E8%84%96%E5%AD%90%E7%8C%9B%E6%91%94%E5%9C%A8%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方回应“男子赤身裸体趴在6楼外”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%94%B7%E5%AD%90%E8%B5%A4%E8%BA%AB%E8%A3%B8%E4%BD%93%E8%B6%B4%E5%9C%A86%E6%A5%BC%E5%A4%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄军黑海舰队总部遭导弹袭击](https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E9%BB%91%E6%B5%B7%E8%88%B0%E9%98%9F%E6%80%BB%E9%83%A8%E9%81%AD%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子聚餐疑遭老板灌酒致死 警方介入](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%81%9A%E9%A4%90%E7%96%91%E9%81%AD%E8%80%81%E6%9D%BF%E7%81%8C%E9%85%92%E8%87%B4%E6%AD%BB+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
