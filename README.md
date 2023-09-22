@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 20:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-22 20:41:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [中国女足半场8比0蒙古女足](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E5%8D%8A%E5%9C%BA8%E6%AF%940%E8%92%99%E5%8F%A4%E5%A5%B3%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [官方回应“男子赤身裸体趴在6楼外”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%94%B7%E5%AD%90%E8%B5%A4%E8%BA%AB%E8%A3%B8%E4%BD%93%E8%B6%B4%E5%9C%A86%E6%A5%BC%E5%A4%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [98年小伙每天2小时开网店月入5万](https://www.baidu.com/s?wd=98%E5%B9%B4%E5%B0%8F%E4%BC%99%E6%AF%8F%E5%A4%A92%E5%B0%8F%E6%97%B6%E5%BC%80%E7%BD%91%E5%BA%97%E6%9C%88%E5%85%A55%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [香港特首李家超和团队抵达杭州](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E9%A6%96%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%92%8C%E5%9B%A2%E9%98%9F%E6%8A%B5%E8%BE%BE%E6%9D%AD%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [公司爆炸已致74伤 消防员1死3失联](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B474%E4%BC%A4+%E6%B6%88%E9%98%B2%E5%91%981%E6%AD%BB3%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [中国女足半场8比0蒙古女足](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E5%8D%8A%E5%9C%BA8%E6%AF%940%E8%92%99%E5%8F%A4%E5%A5%B3%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [官方回应“男子赤身裸体趴在6楼外”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%94%B7%E5%AD%90%E8%B5%A4%E8%BA%AB%E8%A3%B8%E4%BD%93%E8%B6%B4%E5%9C%A86%E6%A5%BC%E5%A4%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [98年小伙每天2小时开网店月入5万](https://www.baidu.com/s?wd=98%E5%B9%B4%E5%B0%8F%E4%BC%99%E6%AF%8F%E5%A4%A92%E5%B0%8F%E6%97%B6%E5%BC%80%E7%BD%91%E5%BA%97%E6%9C%88%E5%85%A55%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [香港特首李家超和团队抵达杭州](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E9%A6%96%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%92%8C%E5%9B%A2%E9%98%9F%E6%8A%B5%E8%BE%BE%E6%9D%AD%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [公司爆炸已致74伤 消防员1死3失联](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B474%E4%BC%A4+%E6%B6%88%E9%98%B2%E5%91%981%E6%AD%BB3%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川地震局辟谣攀枝花将地震](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%94%80%E6%9E%9D%E8%8A%B1%E5%B0%86%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
