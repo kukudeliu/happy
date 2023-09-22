@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 00:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 00:26:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [邓紫棋林俊杰手心的蔷薇](https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%89%8B%E5%BF%83%E7%9A%84%E8%94%B7%E8%96%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [国产剧女主终于长嘴了](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%89%A7%E5%A5%B3%E4%B8%BB%E7%BB%88%E4%BA%8E%E9%95%BF%E5%98%B4%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子3次试管婴儿终于怀上却查出癌症](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%903%E6%AC%A1%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF%E7%BB%88%E4%BA%8E%E6%80%80%E4%B8%8A%E5%8D%B4%E6%9F%A5%E5%87%BA%E7%99%8C%E7%97%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [李泽锋这段台词怎么敢说出口的](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B3%BD%E9%94%8B%E8%BF%99%E6%AE%B5%E5%8F%B0%E8%AF%8D%E6%80%8E%E4%B9%88%E6%95%A2%E8%AF%B4%E5%87%BA%E5%8F%A3%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [丁霞 跑不动了](https://s.weibo.com/weibo?q=%E4%B8%81%E9%9C%9E%20%E8%B7%91%E4%B8%8D%E5%8A%A8%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [丁霞 跑不动了](https://s.weibo.com/weibo?q=%E4%B8%81%E9%9C%9E%20%E8%B7%91%E4%B8%8D%E5%8A%A8%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [李泽锋这段台词怎么敢说出口的](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B3%BD%E9%94%8B%E8%BF%99%E6%AE%B5%E5%8F%B0%E8%AF%8D%E6%80%8E%E4%B9%88%E6%95%A2%E8%AF%B4%E5%87%BA%E5%8F%A3%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
