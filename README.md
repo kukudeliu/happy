@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 10:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 10:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [21岁专科毕业生拒绝当副教授](https://s.weibo.com/weibo?q=%2321%E5%B2%81%E4%B8%93%E7%A7%91%E6%AF%95%E4%B8%9A%E7%94%9F%E6%8B%92%E7%BB%9D%E5%BD%93%E5%89%AF%E6%95%99%E6%8E%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵露思外网生图](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%A4%96%E7%BD%91%E7%94%9F%E5%9B%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [毛不易 一点皮外伤感谢大家关心](https://s.weibo.com/weibo?q=%E6%AF%9B%E4%B8%8D%E6%98%93%20%E4%B8%80%E7%82%B9%E7%9A%AE%E5%A4%96%E4%BC%A4%E6%84%9F%E8%B0%A2%E5%A4%A7%E5%AE%B6%E5%85%B3%E5%BF%83&t=31&band_rank=8&Refer=top)<br />
-9. [为什么小说写到结婚就完结了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B0%8F%E8%AF%B4%E5%86%99%E5%88%B0%E7%BB%93%E5%A9%9A%E5%B0%B1%E5%AE%8C%E7%BB%93%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [被俞灏明拒绝的王栎鑫](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BF%9E%E7%81%8F%E6%98%8E%E6%8B%92%E7%BB%9D%E7%9A%84%E7%8E%8B%E6%A0%8E%E9%91%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
