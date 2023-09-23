@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 16:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 16:17:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [杭州亚运会 准备好了](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A+%E5%87%86%E5%A4%87%E5%A5%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [亚运开幕式将能闻到真实桂花香](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%E5%B0%86%E8%83%BD%E9%97%BB%E5%88%B0%E7%9C%9F%E5%AE%9E%E6%A1%82%E8%8A%B1%E9%A6%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [亚运会主火炬21时28分许点燃](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%BB%E7%81%AB%E7%82%AC21%E6%97%B628%E5%88%86%E8%AE%B8%E7%82%B9%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [业主“打包”买走小区近200个车位](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E2%80%9C%E6%89%93%E5%8C%85%E2%80%9D%E4%B9%B0%E8%B5%B0%E5%B0%8F%E5%8C%BA%E8%BF%91200%E4%B8%AA%E8%BD%A6%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [潮起钱塘江 澎湃亚细亚](https://www.baidu.com/s?wd=%E6%BD%AE%E8%B5%B7%E9%92%B1%E5%A1%98%E6%B1%9F+%E6%BE%8E%E6%B9%83%E4%BA%9A%E7%BB%86%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国海军巡航时解救两名菲渔民](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%B7%A1%E8%88%AA%E6%97%B6%E8%A7%A3%E6%95%91%E4%B8%A4%E5%90%8D%E8%8F%B2%E6%B8%94%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [#一起AI亚运#](https://www.baidu.com/s?wd=%23%E4%B8%80%E8%B5%B7AI%E4%BA%9A%E8%BF%90%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网曝一校长与主任考察时同房间过夜](https://www.baidu.com/s?wd=%E7%BD%91%E6%9B%9D%E4%B8%80%E6%A0%A1%E9%95%BF%E4%B8%8E%E4%B8%BB%E4%BB%BB%E8%80%83%E5%AF%9F%E6%97%B6%E5%90%8C%E6%88%BF%E9%97%B4%E8%BF%87%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生称因父母把年龄报大4岁影响就业](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%9B%A0%E7%88%B6%E6%AF%8D%E6%8A%8A%E5%B9%B4%E9%BE%84%E6%8A%A5%E5%A4%A74%E5%B2%81%E5%BD%B1%E5%93%8D%E5%B0%B1%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#追亚运的N种方式#](https://www.baidu.com/s?wd=%23%E8%BF%BD%E4%BA%9A%E8%BF%90%E7%9A%84N%E7%A7%8D%E6%96%B9%E5%BC%8F%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [农家抱养女开直播呼救？假的](https://www.baidu.com/s?wd=%E5%86%9C%E5%AE%B6%E6%8A%B1%E5%85%BB%E5%A5%B3%E5%BC%80%E7%9B%B4%E6%92%AD%E5%91%BC%E6%95%91%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [杭州亚运会 准备好了](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A+%E5%87%86%E5%A4%87%E5%A5%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [亚运开幕式将能闻到真实桂花香](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%E5%B0%86%E8%83%BD%E9%97%BB%E5%88%B0%E7%9C%9F%E5%AE%9E%E6%A1%82%E8%8A%B1%E9%A6%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [亚运会主火炬21时28分许点燃](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%BB%E7%81%AB%E7%82%AC21%E6%97%B628%E5%88%86%E8%AE%B8%E7%82%B9%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [业主“打包”买走小区近200个车位](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E2%80%9C%E6%89%93%E5%8C%85%E2%80%9D%E4%B9%B0%E8%B5%B0%E5%B0%8F%E5%8C%BA%E8%BF%91200%E4%B8%AA%E8%BD%A6%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [潮起钱塘江 澎湃亚细亚](https://www.baidu.com/s?wd=%E6%BD%AE%E8%B5%B7%E9%92%B1%E5%A1%98%E6%B1%9F+%E6%BE%8E%E6%B9%83%E4%BA%9A%E7%BB%86%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国海军巡航时解救两名菲渔民](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%B7%A1%E8%88%AA%E6%97%B6%E8%A7%A3%E6%95%91%E4%B8%A4%E5%90%8D%E8%8F%B2%E6%B8%94%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [#一起AI亚运#](https://www.baidu.com/s?wd=%23%E4%B8%80%E8%B5%B7AI%E4%BA%9A%E8%BF%90%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网曝一校长与主任考察时同房间过夜](https://www.baidu.com/s?wd=%E7%BD%91%E6%9B%9D%E4%B8%80%E6%A0%A1%E9%95%BF%E4%B8%8E%E4%B8%BB%E4%BB%BB%E8%80%83%E5%AF%9F%E6%97%B6%E5%90%8C%E6%88%BF%E9%97%B4%E8%BF%87%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生称因父母把年龄报大4岁影响就业](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%9B%A0%E7%88%B6%E6%AF%8D%E6%8A%8A%E5%B9%B4%E9%BE%84%E6%8A%A5%E5%A4%A74%E5%B2%81%E5%BD%B1%E5%93%8D%E5%B0%B1%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#追亚运的N种方式#](https://www.baidu.com/s?wd=%23%E8%BF%BD%E4%BA%9A%E8%BF%90%E7%9A%84N%E7%A7%8D%E6%96%B9%E5%BC%8F%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [农家抱养女开直播呼救？假的](https://www.baidu.com/s?wd=%E5%86%9C%E5%AE%B6%E6%8A%B1%E5%85%BB%E5%A5%B3%E5%BC%80%E7%9B%B4%E6%92%AD%E5%91%BC%E6%95%91%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
