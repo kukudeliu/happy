@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 20:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 20:23:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [开幕式五星红旗入场](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%95%E5%BC%8F%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E5%85%A5%E5%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [中国女排vs多米尼加女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E5%A4%9A%E7%B1%B3%E5%B0%BC%E5%8A%A0%E5%A5%B3%E6%8E%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [承欢记也信这个玄学了](https://s.weibo.com/weibo?q=%23%E6%89%BF%E6%AC%A2%E8%AE%B0%E4%B9%9F%E4%BF%A1%E8%BF%99%E4%B8%AA%E7%8E%84%E5%AD%A6%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [你好星期六](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD&t=31&band_rank=8&Refer=top)<br />
+8. [看开幕式想哭](https://s.weibo.com/weibo?q=%E7%9C%8B%E5%BC%80%E5%B9%95%E5%BC%8F%E6%83%B3%E5%93%AD&t=31&band_rank=8&Refer=top)<br />
 9. [承欢记](https://s.weibo.com/weibo?q=%23%E6%89%BF%E6%AC%A2%E8%AE%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
