@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 14:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 14:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [微信占用了我100多G的内存](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%8D%A0%E7%94%A8%E4%BA%86%E6%88%91100%E5%A4%9AG%E7%9A%84%E5%86%85%E5%AD%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [张柏芝 顶级骨相](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%20%E9%A1%B6%E7%BA%A7%E9%AA%A8%E7%9B%B8&t=31&band_rank=7&Refer=top)<br />
 8. [孟非删好友](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E9%9D%9E%E5%88%A0%E5%A5%BD%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [警方回应网传大同小学生霸凌事件](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%A4%A7%E5%90%8C%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%9C%B8%E5%87%8C%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [原来香港超市门口还有停狗处](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%A6%99%E6%B8%AF%E8%B6%85%E5%B8%82%E9%97%A8%E5%8F%A3%E8%BF%98%E6%9C%89%E5%81%9C%E7%8B%97%E5%A4%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
