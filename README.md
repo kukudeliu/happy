@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 13:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 13:55:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [韩国总理韩德洙抵达杭州](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%90%86%E9%9F%A9%E5%BE%B7%E6%B4%99%E6%8A%B5%E8%BE%BE%E6%9D%AD%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [#一起AI亚运#](https://www.baidu.com/s?wd=%23%E4%B8%80%E8%B5%B7AI%E4%BA%9A%E8%BF%90%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李雪琴内耗好严重](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%86%85%E8%80%97%E5%A5%BD%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [伍佰在苏州演唱会累惨了](https://www.baidu.com/s?wd=%E4%BC%8D%E4%BD%B0%E5%9C%A8%E8%8B%8F%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E7%B4%AF%E6%83%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [#与韩乔生一起接听冠军来电#](https://www.baidu.com/s?wd=%23%E5%86%A0%E5%86%9B%E6%9D%A5%E7%94%B5%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [农家抱养女开直播呼救？假的](https://www.baidu.com/s?wd=%E5%86%9C%E5%AE%B6%E6%8A%B1%E5%85%BB%E5%A5%B3%E5%BC%80%E7%9B%B4%E6%92%AD%E5%91%BC%E6%95%91%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [韩国总理韩德洙抵达杭州](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%90%86%E9%9F%A9%E5%BE%B7%E6%B4%99%E6%8A%B5%E8%BE%BE%E6%9D%AD%E5%B7%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [#一起AI亚运#](https://www.baidu.com/s?wd=%23%E4%B8%80%E8%B5%B7AI%E4%BA%9A%E8%BF%90%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李雪琴内耗好严重](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%86%85%E8%80%97%E5%A5%BD%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [伍佰在苏州演唱会累惨了](https://www.baidu.com/s?wd=%E4%BC%8D%E4%BD%B0%E5%9C%A8%E8%8B%8F%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E7%B4%AF%E6%83%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [#与韩乔生一起接听冠军来电#](https://www.baidu.com/s?wd=%23%E5%86%A0%E5%86%9B%E6%9D%A5%E7%94%B5%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [农家抱养女开直播呼救？假的](https://www.baidu.com/s?wd=%E5%86%9C%E5%AE%B6%E6%8A%B1%E5%85%BB%E5%A5%B3%E5%BC%80%E7%9B%B4%E6%92%AD%E5%91%BC%E6%95%91%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
