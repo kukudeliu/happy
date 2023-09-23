@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 22:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 22:13:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [中国队入场全场欢呼](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A5%E5%9C%BA%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%23&t=31&band_rank=3&Refer=top)<br />
 4. [郭晶晶好美](https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%99%B6%E6%99%B6%E5%A5%BD%E7%BE%8E%23&t=31&band_rank=4&Refer=top)<br />
 5. [全场欢呼让巴基斯坦选手震惊了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%E8%AE%A9%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%80%89%E6%89%8B%E9%9C%87%E6%83%8A%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [中国队入场音乐一秒换歌唱祖国](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A5%E5%9C%BA%E9%9F%B3%E4%B9%90%E4%B8%80%E7%A7%92%E6%8D%A2%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
-7. [中国女排1比3多米尼加女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%921%E6%AF%943%E5%A4%9A%E7%B1%B3%E5%B0%BC%E5%8A%A0%E5%A5%B3%E6%8E%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [第六棒火炬手汪顺](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%85%AD%E6%A3%92%E7%81%AB%E7%82%AC%E6%89%8B%E6%B1%AA%E9%A1%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [我爱你中国](https://s.weibo.com/weibo?q=%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD&t=31&band_rank=9&Refer=top)<br />
+6. [数字人点燃主火炬](https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%97%E4%BA%BA%E7%82%B9%E7%87%83%E4%B8%BB%E7%81%AB%E7%82%AC%23&t=31&band_rank=6&Refer=top)<br />
+7. [中国队入场音乐一秒换歌唱祖国](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A5%E5%9C%BA%E9%9F%B3%E4%B9%90%E4%B8%80%E7%A7%92%E6%8D%A2%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD%23&t=31&band_rank=7&Refer=top)<br />
+8. [中国女排1比3多米尼加女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%921%E6%AF%943%E5%A4%9A%E7%B1%B3%E5%B0%BC%E5%8A%A0%E5%A5%B3%E6%8E%92%23&t=31&band_rank=8&Refer=top)<br />
+9. [第六棒火炬手汪顺](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%85%AD%E6%A3%92%E7%81%AB%E7%82%AC%E6%89%8B%E6%B1%AA%E9%A1%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [习近平在亚运会开幕式欢迎宴会致辞](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E8%87%B4%E8%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [亚运会开幕式](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [亚运会开幕](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [郭晶晶罗雪娟惊艳亮相](https://www.baidu.com/s?wd=%E9%83%AD%E6%99%B6%E6%99%B6%E7%BD%97%E9%9B%AA%E5%A8%9F%E6%83%8A%E8%89%B3%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [丰收里的中国色](https://www.baidu.com/s?wd=%E4%B8%B0%E6%94%B6%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [五星红旗入场 BGM是我爱你中国](https://www.baidu.com/s?wd=%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E5%85%A5%E5%9C%BA+BGM%E6%98%AF%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [习近平在亚运会开幕式欢迎宴会致辞](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E8%87%B4%E8%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [亚运会开幕式](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [亚运会开幕](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [郭晶晶罗雪娟惊艳亮相](https://www.baidu.com/s?wd=%E9%83%AD%E6%99%B6%E6%99%B6%E7%BD%97%E9%9B%AA%E5%A8%9F%E6%83%8A%E8%89%B3%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [丰收里的中国色](https://www.baidu.com/s?wd=%E4%B8%B0%E6%94%B6%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [五星红旗入场 BGM是我爱你中国](https://www.baidu.com/s?wd=%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E5%85%A5%E5%9C%BA+BGM%E6%98%AF%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
