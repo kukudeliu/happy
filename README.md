@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 08:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 08:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孙杨不相信杭州是美食荒漠](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E4%B8%8D%E7%9B%B8%E4%BF%A1%E6%9D%AD%E5%B7%9E%E6%98%AF%E7%BE%8E%E9%A3%9F%E8%8D%92%E6%BC%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么小说写到结婚就完结了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B0%8F%E8%AF%B4%E5%86%99%E5%88%B0%E7%BB%93%E5%A9%9A%E5%B0%B1%E5%AE%8C%E7%BB%93%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [蜜雪冰城又出新品了](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%8F%88%E5%87%BA%E6%96%B0%E5%93%81%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [在整个乒乓球界都是相当炸裂的](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%95%B4%E4%B8%AA%E4%B9%92%E4%B9%93%E7%90%83%E7%95%8C%E9%83%BD%E6%98%AF%E7%9B%B8%E5%BD%93%E7%82%B8%E8%A3%82%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [没想到整个小区都买了活力28](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E6%95%B4%E4%B8%AA%E5%B0%8F%E5%8C%BA%E9%83%BD%E4%B9%B0%E4%BA%86%E6%B4%BB%E5%8A%9B28%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
