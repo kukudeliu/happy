@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 21:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 21:10:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [我爱你中国](https://s.weibo.com/weibo?q=%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD&t=31&band_rank=2&Refer=top)<br />
 3. [六大亚运之城联动](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%A4%A7%E4%BA%9A%E8%BF%90%E4%B9%8B%E5%9F%8E%E8%81%94%E5%8A%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [霍启刚笑得好开心](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E7%AC%91%E5%BE%97%E5%A5%BD%E5%BC%80%E5%BF%83%23&t=31&band_rank=4&Refer=top)<br />
-5. [开幕式五星红旗入场](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%95%E5%BC%8F%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E5%85%A5%E5%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [中国代表团](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2&t=31&band_rank=6&Refer=top)<br />
+5. [中国代表团](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2&t=31&band_rank=5&Refer=top)<br />
+6. [开幕式五星红旗入场](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%95%E5%BC%8F%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E5%85%A5%E5%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [孙颖莎将用英语宣誓](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B0%86%E7%94%A8%E8%8B%B1%E8%AF%AD%E5%AE%A3%E8%AA%93%23&t=31&band_rank=7&Refer=top)<br />
 8. [看开幕式想哭](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%BC%80%E5%B9%95%E5%BC%8F%E6%83%B3%E5%93%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国女排vs多米尼加女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E5%A4%9A%E7%B1%B3%E5%B0%BC%E5%8A%A0%E5%A5%B3%E6%8E%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [我们的亚细亚](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E4%BA%9A%E7%BB%86%E4%BA%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
