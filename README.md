@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 07:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 07:09:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [习近平在亚运会开幕式欢迎宴会致辞](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E8%87%B4%E8%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [亚运会开幕](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [中国队剑指杭州亚运首金](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%89%91%E6%8C%87%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E9%A6%96%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [被电子烟花惊艳到了](https://www.baidu.com/s?wd=%E8%A2%AB%E7%94%B5%E5%AD%90%E7%83%9F%E8%8A%B1%E6%83%8A%E8%89%B3%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [丰收里的中国色](https://www.baidu.com/s?wd=%E4%B8%B0%E6%94%B6%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [郭晶晶罗雪娟惊艳亮相](https://www.baidu.com/s?wd=%E9%83%AD%E6%99%B6%E6%99%B6%E7%BD%97%E9%9B%AA%E5%A8%9F%E6%83%8A%E8%89%B3%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [习近平在亚运会开幕式欢迎宴会致辞](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E8%87%B4%E8%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [亚运会开幕](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [中国队剑指杭州亚运首金](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%89%91%E6%8C%87%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E9%A6%96%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [被电子烟花惊艳到了](https://www.baidu.com/s?wd=%E8%A2%AB%E7%94%B5%E5%AD%90%E7%83%9F%E8%8A%B1%E6%83%8A%E8%89%B3%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [丰收里的中国色](https://www.baidu.com/s?wd=%E4%B8%B0%E6%94%B6%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [郭晶晶罗雪娟惊艳亮相](https://www.baidu.com/s?wd=%E9%83%AD%E6%99%B6%E6%99%B6%E7%BD%97%E9%9B%AA%E5%A8%9F%E6%83%8A%E8%89%B3%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
