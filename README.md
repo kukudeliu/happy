@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 16:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 16:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女生称因父母把年龄报大4岁影响就业](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%9B%A0%E7%88%B6%E6%AF%8D%E6%8A%8A%E5%B9%B4%E9%BE%84%E6%8A%A5%E5%A4%A74%E5%B2%81%E5%BD%B1%E5%93%8D%E5%B0%B1%E4%B8%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [朱珠对着费翔说商务殷语](https://s.weibo.com/weibo?q=%E6%9C%B1%E7%8F%A0%E5%AF%B9%E7%9D%80%E8%B4%B9%E7%BF%94%E8%AF%B4%E5%95%86%E5%8A%A1%E6%AE%B7%E8%AF%AD&t=31&band_rank=7&Refer=top)<br />
 8. [把大学生活过成了高中](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB%E8%BF%87%E6%88%90%E4%BA%86%E9%AB%98%E4%B8%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [SEVENTEEN新预告用了长城](https://s.weibo.com/weibo?q=%23SEVENTEEN%E6%96%B0%E9%A2%84%E5%91%8A%E7%94%A8%E4%BA%86%E9%95%BF%E5%9F%8E%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子背几十杯冰柠檬水到沙漠山顶卖](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%83%8C%E5%87%A0%E5%8D%81%E6%9D%AF%E5%86%B0%E6%9F%A0%E6%AA%AC%E6%B0%B4%E5%88%B0%E6%B2%99%E6%BC%A0%E5%B1%B1%E9%A1%B6%E5%8D%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
