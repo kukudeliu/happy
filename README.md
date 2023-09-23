@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 22:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 22:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [数字人点燃主火炬](https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%97%E4%BA%BA%E7%82%B9%E7%87%83%E4%B8%BB%E7%81%AB%E7%82%AC%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国队入场音乐一秒换歌唱祖国](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A5%E5%9C%BA%E9%9F%B3%E4%B9%90%E4%B8%80%E7%A7%92%E6%8D%A2%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国女排1比3多米尼加女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%921%E6%AF%943%E5%A4%9A%E7%B1%B3%E5%B0%BC%E5%8A%A0%E5%A5%B3%E6%8E%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [第六棒火炬手汪顺](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%85%AD%E6%A3%92%E7%81%AB%E7%82%AC%E6%89%8B%E6%B1%AA%E9%A1%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [叙利亚出场全场欢呼](https://s.weibo.com/weibo?q=%23%E5%8F%99%E5%88%A9%E4%BA%9A%E5%87%BA%E5%9C%BA%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
