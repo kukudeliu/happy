@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 16:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 16:39:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [给戚薇当了一天助理 我心态崩了](https://s.weibo.com/weibo?q=%E7%BB%99%E6%88%9A%E8%96%87%E5%BD%93%E4%BA%86%E4%B8%80%E5%A4%A9%E5%8A%A9%E7%90%86%20%E6%88%91%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [女生称因父母把年龄报大4岁影响就业](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%9B%A0%E7%88%B6%E6%AF%8D%E6%8A%8A%E5%B9%B4%E9%BE%84%E6%8A%A5%E5%A4%A74%E5%B2%81%E5%BD%B1%E5%93%8D%E5%B0%B1%E4%B8%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [林孝埈500米PEN](https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%9D%E5%9F%88500%E7%B1%B3PEN&t=31&band_rank=7&Refer=top)<br />
-8. [把大学生活过成了高中](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB%E8%BF%87%E6%88%90%E4%BA%86%E9%AB%98%E4%B8%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [亚洲人民都来感受烟雨江南了](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E4%BA%BA%E6%B0%91%E9%83%BD%E6%9D%A5%E6%84%9F%E5%8F%97%E7%83%9F%E9%9B%A8%E6%B1%9F%E5%8D%97%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [亚洲人民都来感受烟雨江南了](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E4%BA%BA%E6%B0%91%E9%83%BD%E6%9D%A5%E6%84%9F%E5%8F%97%E7%83%9F%E9%9B%A8%E6%B1%9F%E5%8D%97%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [把大学生活过成了高中](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB%E8%BF%87%E6%88%90%E4%BA%86%E9%AB%98%E4%B8%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
