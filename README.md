@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 14:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 14:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女生称因父母把年龄报大4岁影响就业](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%9B%A0%E7%88%B6%E6%AF%8D%E6%8A%8A%E5%B9%B4%E9%BE%84%E6%8A%A5%E5%A4%A74%E5%B2%81%E5%BD%B1%E5%93%8D%E5%B0%B1%E4%B8%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [张柏芝 顶级骨相](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%20%E9%A1%B6%E7%BA%A7%E9%AA%A8%E7%9B%B8&t=31&band_rank=6&Refer=top)<br />
 7. [微信占用了我100多G的内存](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%8D%A0%E7%94%A8%E4%BA%86%E6%88%91100%E5%A4%9AG%E7%9A%84%E5%86%85%E5%AD%98%23&t=31&band_rank=7&Refer=top)<br />
-8. [许家印身家缩水90%](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%BA%AB%E5%AE%B6%E7%BC%A9%E6%B0%B490%25%23&t=31&band_rank=8&Refer=top)<br />
-9. [孟非删好友](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E9%9D%9E%E5%88%A0%E5%A5%BD%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
+8. [孟非删好友](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E9%9D%9E%E5%88%A0%E5%A5%BD%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [许家印身家缩水90%](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%BA%AB%E5%AE%B6%E7%BC%A9%E6%B0%B490%25%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
