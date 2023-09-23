@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 21:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 21:39:01</h4></div>
 
 > 微博  
 
 1. [亚运开幕式](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%23&t=31&band_rank=1&Refer=top)<br />
-2. [中国台北出场欢呼声响彻全场](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E5%87%BA%E5%9C%BA%E6%AC%A2%E5%91%BC%E5%A3%B0%E5%93%8D%E5%BD%BB%E5%85%A8%E5%9C%BA%23&t=31&band_rank=2&Refer=top)<br />
+2. [郭晶晶好美](https://s.weibo.com/weibo?q=%E9%83%AD%E6%99%B6%E6%99%B6%E5%A5%BD%E7%BE%8E&t=31&band_rank=2&Refer=top)<br />
 3. [中国队入场全场欢呼](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A5%E5%9C%BA%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%23&t=31&band_rank=3&Refer=top)<br />
-4. [郭晶晶好美](https://s.weibo.com/weibo?q=%E9%83%AD%E6%99%B6%E6%99%B6%E5%A5%BD%E7%BE%8E&t=31&band_rank=4&Refer=top)<br />
+4. [中国台北出场欢呼声响彻全场](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E5%87%BA%E5%9C%BA%E6%AC%A2%E5%91%BC%E5%A3%B0%E5%93%8D%E5%BD%BB%E5%85%A8%E5%9C%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [全场欢呼让巴基斯坦选手震惊了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%E8%AE%A9%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%80%89%E6%89%8B%E9%9C%87%E6%83%8A%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [中国队入场音乐一秒换歌唱祖国](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A5%E5%9C%BA%E9%9F%B3%E4%B9%90%E4%B8%80%E7%A7%92%E6%8D%A2%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [霍启刚笑得好开心](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E7%AC%91%E5%BE%97%E5%A5%BD%E5%BC%80%E5%BF%83%23&t=31&band_rank=7&Refer=top)<br />
