@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 23:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 23:04:01</h4></div>
 
 > 微博  
 
@@ -7,7 +7,7 @@
 3. [中国队入场全场欢呼](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A5%E5%9C%BA%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%23&t=31&band_rank=3&Refer=top)<br />
 4. [全场欢呼让巴基斯坦选手震惊了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%E8%AE%A9%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%80%89%E6%89%8B%E9%9C%87%E6%83%8A%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [亚运开幕式](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%23&t=31&band_rank=5&Refer=top)<br />
-6. [郭晶晶好美](https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%99%B6%E6%99%B6%E5%A5%BD%E7%BE%8E%23&t=31&band_rank=6&Refer=top)<br />
+6. [郭晶晶执旗霍启刚领队](https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%99%B6%E6%99%B6%E6%89%A7%E6%97%97%E9%9C%8D%E5%90%AF%E5%88%9A%E9%A2%86%E9%98%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [李倩](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%80%A9&t=31&band_rank=7&Refer=top)<br />
 8. [亚运会宣传片男主是董浩然](https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%AE%A3%E4%BC%A0%E7%89%87%E7%94%B7%E4%B8%BB%E6%98%AF%E8%91%A3%E6%B5%A9%E7%84%B6&t=31&band_rank=8&Refer=top)<br />
 9. [叙利亚出场全场欢呼](https://s.weibo.com/weibo?q=%23%E5%8F%99%E5%88%A9%E4%BA%9A%E5%87%BA%E5%9C%BA%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%23&t=31&band_rank=9&Refer=top)<br />
