@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 23:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 23:39:01</h4></div>
 
 > 微博  
 
-1. [唱歌的四个帅哥是谁](https://s.weibo.com/weibo?q=%23%E5%94%B1%E6%AD%8C%E7%9A%84%E5%9B%9B%E4%B8%AA%E5%B8%85%E5%93%A5%E6%98%AF%E8%B0%81%23&t=31&band_rank=1&Refer=top)<br />
-2. [全场欢呼让巴基斯坦选手震惊了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%E8%AE%A9%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%80%89%E6%89%8B%E9%9C%87%E6%83%8A%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [全场欢呼让巴基斯坦选手震惊了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%E8%AE%A9%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%80%89%E6%89%8B%E9%9C%87%E6%83%8A%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [唱歌的四个帅哥是谁](https://s.weibo.com/weibo?q=%23%E5%94%B1%E6%AD%8C%E7%9A%84%E5%9B%9B%E4%B8%AA%E5%B8%85%E5%93%A5%E6%98%AF%E8%B0%81%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国队入场全场欢呼](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A5%E5%9C%BA%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%23&t=31&band_rank=3&Refer=top)<br />
 4. [郭晶晶执旗霍启刚领队](https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%99%B6%E6%99%B6%E6%89%A7%E6%97%97%E9%9C%8D%E5%90%AF%E5%88%9A%E9%A2%86%E9%98%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [李倩](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%80%A9&t=31&band_rank=5&Refer=top)<br />
