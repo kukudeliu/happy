@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 07:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 07:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [叙利亚出场全场欢呼](https://s.weibo.com/weibo?q=%23%E5%8F%99%E5%88%A9%E4%BA%9A%E5%87%BA%E5%9C%BA%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%23&t=31&band_rank=6&Refer=top)<br />
 7. [唱歌的四个帅哥是谁](https://s.weibo.com/weibo?q=%23%E5%94%B1%E6%AD%8C%E7%9A%84%E5%9B%9B%E4%B8%AA%E5%B8%85%E5%93%A5%E6%98%AF%E8%B0%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [郭晶晶执旗霍启刚领队](https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%99%B6%E6%99%B6%E6%89%A7%E6%97%97%E9%9C%8D%E5%90%AF%E5%88%9A%E9%A2%86%E9%98%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [第一次见有剧情的婚纱照](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E6%9C%89%E5%89%A7%E6%83%85%E7%9A%84%E5%A9%9A%E7%BA%B1%E7%85%A7&t=31&band_rank=9&Refer=top)<br />
+9. [苏炳添臀围小了8公分](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E8%87%80%E5%9B%B4%E5%B0%8F%E4%BA%868%E5%85%AC%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
