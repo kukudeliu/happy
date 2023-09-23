@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 19:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 19:58:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [杭州亚运会 准备好了](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A+%E5%87%86%E5%A4%87%E5%A5%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [孙颖莎将用英语宣誓](https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B0%86%E7%94%A8%E8%8B%B1%E8%AF%AD%E5%AE%A3%E8%AA%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [亚运会开幕式](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [亚运会主火炬21时28分许点燃](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%BB%E7%81%AB%E7%82%AC21%E6%97%B628%E5%88%86%E8%AE%B8%E7%82%B9%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [潮起钱塘江 澎湃亚细亚](https://www.baidu.com/s?wd=%E6%BD%AE%E8%B5%B7%E9%92%B1%E5%A1%98%E6%B1%9F+%E6%BE%8E%E6%B9%83%E4%BA%9A%E7%BB%86%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马龙走了五分钟还在原地](https://www.baidu.com/s?wd=%E9%A9%AC%E9%BE%99%E8%B5%B0%E4%BA%86%E4%BA%94%E5%88%86%E9%92%9F%E8%BF%98%E5%9C%A8%E5%8E%9F%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [杭州亚运会 准备好了](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A+%E5%87%86%E5%A4%87%E5%A5%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [孙颖莎将用英语宣誓](https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B0%86%E7%94%A8%E8%8B%B1%E8%AF%AD%E5%AE%A3%E8%AA%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [亚运会开幕式](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [亚运会主火炬21时28分许点燃](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%BB%E7%81%AB%E7%82%AC21%E6%97%B628%E5%88%86%E8%AE%B8%E7%82%B9%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [潮起钱塘江 澎湃亚细亚](https://www.baidu.com/s?wd=%E6%BD%AE%E8%B5%B7%E9%92%B1%E5%A1%98%E6%B1%9F+%E6%BE%8E%E6%B9%83%E4%BA%9A%E7%BB%86%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马龙走了五分钟还在原地](https://www.baidu.com/s?wd=%E9%A9%AC%E9%BE%99%E8%B5%B0%E4%BA%86%E4%BA%94%E5%88%86%E9%92%9F%E8%BF%98%E5%9C%A8%E5%8E%9F%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
