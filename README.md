@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 22:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 22:28:01</h4></div>
 
 > 微博  
 
 1. [亚运开幕式](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%23&t=31&band_rank=1&Refer=top)<br />
 2. [数字人点燃主火炬](https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%97%E4%BA%BA%E7%82%B9%E7%87%83%E4%B8%BB%E7%81%AB%E7%82%AC%23&t=31&band_rank=2&Refer=top)<br />
-3. [郭晶晶好美](https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%99%B6%E6%99%B6%E5%A5%BD%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
-4. [全场欢呼让巴基斯坦选手震惊了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%E8%AE%A9%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%80%89%E6%89%8B%E9%9C%87%E6%83%8A%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [第六棒火炬手汪顺](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%85%AD%E6%A3%92%E7%81%AB%E7%82%AC%E6%89%8B%E6%B1%AA%E9%A1%BA%23&t=31&band_rank=5&Refer=top)<br />
+3. [杭州亚运开幕式](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%23&t=31&band_rank=3&Refer=top)<br />
+4. [郭晶晶好美](https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%99%B6%E6%99%B6%E5%A5%BD%E7%BE%8E%23&t=31&band_rank=4&Refer=top)<br />
+5. [全场欢呼让巴基斯坦选手震惊了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%E8%AE%A9%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%80%89%E6%89%8B%E9%9C%87%E6%83%8A%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [亚运会宣传片男主是董浩然](https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%AE%A3%E4%BC%A0%E7%89%87%E7%94%B7%E4%B8%BB%E6%98%AF%E8%91%A3%E6%B5%A9%E7%84%B6&t=31&band_rank=6&Refer=top)<br />
-7. [中国队入场全场欢呼](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A5%E5%9C%BA%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%23&t=31&band_rank=7&Refer=top)<br />
+7. [第六棒火炬手汪顺](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%85%AD%E6%A3%92%E7%81%AB%E7%82%AC%E6%89%8B%E6%B1%AA%E9%A1%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国队入场音乐一秒换歌唱祖国](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A5%E5%9C%BA%E9%9F%B3%E4%B9%90%E4%B8%80%E7%A7%92%E6%8D%A2%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD%23&t=31&band_rank=8&Refer=top)<br />
 9. [叙利亚出场全场欢呼](https://s.weibo.com/weibo?q=%23%E5%8F%99%E5%88%A9%E4%BA%9A%E5%87%BA%E5%9C%BA%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%23&t=31&band_rank=9&Refer=top)<br />
 
