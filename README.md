@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 20:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 20:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [看开幕式想哭](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%BC%80%E5%B9%95%E5%BC%8F%E6%83%B3%E5%93%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [孙颖莎将用英语宣誓](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B0%86%E7%94%A8%E8%8B%B1%E8%AF%AD%E5%AE%A3%E8%AA%93%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国女排vs多米尼加女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E5%A4%9A%E7%B1%B3%E5%B0%BC%E5%8A%A0%E5%A5%B3%E6%8E%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [承欢记也信这个玄学了](https://s.weibo.com/weibo?q=%23%E6%89%BF%E6%AC%A2%E8%AE%B0%E4%B9%9F%E4%BF%A1%E8%BF%99%E4%B8%AA%E7%8E%84%E5%AD%A6%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国代表团](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
