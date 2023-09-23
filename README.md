@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 13:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 13:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张柏芝 顶级骨相](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%20%E9%A1%B6%E7%BA%A7%E9%AA%A8%E7%9B%B8&t=31&band_rank=6&Refer=top)<br />
 7. [微信占用了我100多G的内存](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%8D%A0%E7%94%A8%E4%BA%86%E6%88%91100%E5%A4%9AG%E7%9A%84%E5%86%85%E5%AD%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [许家印身家缩水90%](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%BA%AB%E5%AE%B6%E7%BC%A9%E6%B0%B490%25%23&t=31&band_rank=8&Refer=top)<br />
-9. [起猛了韩庚魏大勋竟演出了父子感](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E9%9F%A9%E5%BA%9A%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%AB%9F%E6%BC%94%E5%87%BA%E4%BA%86%E7%88%B6%E5%AD%90%E6%84%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [盗版小说里男主身高被压缩了](https://s.weibo.com/weibo?q=%23%E7%9B%97%E7%89%88%E5%B0%8F%E8%AF%B4%E9%87%8C%E7%94%B7%E4%B8%BB%E8%BA%AB%E9%AB%98%E8%A2%AB%E5%8E%8B%E7%BC%A9%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
