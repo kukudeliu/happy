@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 21:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 21:18:01</h4></div>
 
 > 微博  
 
 1. [亚运开幕式](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%23&t=31&band_rank=1&Refer=top)<br />
-2. [我爱你中国](https://s.weibo.com/weibo?q=%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD&t=31&band_rank=2&Refer=top)<br />
+2. [中国台北出场欢呼声响彻全场](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E5%87%BA%E5%9C%BA%E6%AC%A2%E5%91%BC%E5%A3%B0%E5%93%8D%E5%BD%BB%E5%85%A8%E5%9C%BA%23&t=31&band_rank=2&Refer=top)<br />
 3. [六大亚运之城联动](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%A4%A7%E4%BA%9A%E8%BF%90%E4%B9%8B%E5%9F%8E%E8%81%94%E5%8A%A8%23&t=31&band_rank=3&Refer=top)<br />
-4. [霍启刚笑得好开心](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E7%AC%91%E5%BE%97%E5%A5%BD%E5%BC%80%E5%BF%83%23&t=31&band_rank=4&Refer=top)<br />
-5. [中国代表团](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2&t=31&band_rank=5&Refer=top)<br />
+4. [我爱你中国](https://s.weibo.com/weibo?q=%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD&t=31&band_rank=4&Refer=top)<br />
+5. [霍启刚笑得好开心](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E7%AC%91%E5%BE%97%E5%A5%BD%E5%BC%80%E5%BF%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [孙颖莎将用英语宣誓](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B0%86%E7%94%A8%E8%8B%B1%E8%AF%AD%E5%AE%A3%E8%AA%93%23&t=31&band_rank=6&Refer=top)<br />
-7. [开幕式五星红旗入场](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%95%E5%BC%8F%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E5%85%A5%E5%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [看开幕式想哭](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%BC%80%E5%B9%95%E5%BC%8F%E6%83%B3%E5%93%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [我们的亚细亚](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E4%BA%9A%E7%BB%86%E4%BA%9A%23&t=31&band_rank=9&Refer=top)<br />
+7. [中国代表团](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2&t=31&band_rank=7&Refer=top)<br />
+8. [开幕式五星红旗入场](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%95%E5%BC%8F%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E5%85%A5%E5%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [看开幕式想哭](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%BC%80%E5%B9%95%E5%BC%8F%E6%83%B3%E5%93%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [丰收里的中国色](https://www.baidu.com/s?wd=%E4%B8%B0%E6%94%B6%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [满脑子都是亚细亚](https://www.baidu.com/s?wd=%E6%BB%A1%E8%84%91%E5%AD%90%E9%83%BD%E6%98%AF%E4%BA%9A%E7%BB%86%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [霍启刚笑得好开心](https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E7%AC%91%E5%BE%97%E5%A5%BD%E5%BC%80%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [全场欢呼！中国体育代表团入场](https://www.baidu.com/s?wd=%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%EF%BC%81%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%85%A5%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苏炳添李晨现身开幕式现场](https://www.baidu.com/s?wd=%E8%8B%8F%E7%82%B3%E6%B7%BB%E6%9D%8E%E6%99%A8%E7%8E%B0%E8%BA%AB%E5%BC%80%E5%B9%95%E5%BC%8F%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国代表团入场 全场欢呼](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%85%A5%E5%9C%BA+%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孙颖莎将用英语宣誓](https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B0%86%E7%94%A8%E8%8B%B1%E8%AF%AD%E5%AE%A3%E8%AA%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [加速包能优先买火车票？不实](https://www.baidu.com/s?wd=%E5%8A%A0%E9%80%9F%E5%8C%85%E8%83%BD%E4%BC%98%E5%85%88%E4%B9%B0%E7%81%AB%E8%BD%A6%E7%A5%A8%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [丰收里的中国色](https://www.baidu.com/s?wd=%E4%B8%B0%E6%94%B6%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [满脑子都是亚细亚](https://www.baidu.com/s?wd=%E6%BB%A1%E8%84%91%E5%AD%90%E9%83%BD%E6%98%AF%E4%BA%9A%E7%BB%86%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [霍启刚笑得好开心](https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E7%AC%91%E5%BE%97%E5%A5%BD%E5%BC%80%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [全场欢呼！中国体育代表团入场](https://www.baidu.com/s?wd=%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%EF%BC%81%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%85%A5%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苏炳添李晨现身开幕式现场](https://www.baidu.com/s?wd=%E8%8B%8F%E7%82%B3%E6%B7%BB%E6%9D%8E%E6%99%A8%E7%8E%B0%E8%BA%AB%E5%BC%80%E5%B9%95%E5%BC%8F%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国代表团入场 全场欢呼](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%85%A5%E5%9C%BA+%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孙颖莎将用英语宣誓](https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B0%86%E7%94%A8%E8%8B%B1%E8%AF%AD%E5%AE%A3%E8%AA%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [加速包能优先买火车票？不实](https://www.baidu.com/s?wd=%E5%8A%A0%E9%80%9F%E5%8C%85%E8%83%BD%E4%BC%98%E5%85%88%E4%B9%B0%E7%81%AB%E8%BD%A6%E7%A5%A8%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
