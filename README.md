@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 20:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-23 20:36:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [我爱你中国](https://s.weibo.com/weibo?q=%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD&t=31&band_rank=2&Refer=top)<br />
 3. [大数据告诉你为何最忆是杭州](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%91%8A%E8%AF%89%E4%BD%A0%E4%B8%BA%E4%BD%95%E6%9C%80%E5%BF%86%E6%98%AF%E6%9D%AD%E5%B7%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [开幕式五星红旗入场](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%95%E5%BC%8F%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E5%85%A5%E5%9C%BA%23&t=31&band_rank=4&Refer=top)<br />
-5. [孙颖莎将用英语宣誓](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B0%86%E7%94%A8%E8%8B%B1%E8%AF%AD%E5%AE%A3%E8%AA%93%23&t=31&band_rank=5&Refer=top)<br />
-6. [看开幕式想哭](https://s.weibo.com/weibo?q=%E7%9C%8B%E5%BC%80%E5%B9%95%E5%BC%8F%E6%83%B3%E5%93%AD&t=31&band_rank=6&Refer=top)<br />
+5. [看开幕式想哭](https://s.weibo.com/weibo?q=%E7%9C%8B%E5%BC%80%E5%B9%95%E5%BC%8F%E6%83%B3%E5%93%AD&t=31&band_rank=5&Refer=top)<br />
+6. [孙颖莎将用英语宣誓](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B0%86%E7%94%A8%E8%8B%B1%E8%AF%AD%E5%AE%A3%E8%AA%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [霍启刚笑得好开心](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%90%AF%E5%88%9A%E7%AC%91%E5%BE%97%E5%A5%BD%E5%BC%80%E5%BF%83&t=31&band_rank=7&Refer=top)<br />
 8. [中国女排vs多米尼加女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E5%A4%9A%E7%B1%B3%E5%B0%BC%E5%8A%A0%E5%A5%B3%E6%8E%92%23&t=31&band_rank=8&Refer=top)<br />
 9. [承欢记也信这个玄学了](https://s.weibo.com/weibo?q=%23%E6%89%BF%E6%AC%A2%E8%AE%B0%E4%B9%9F%E4%BF%A1%E8%BF%99%E4%B8%AA%E7%8E%84%E5%AD%A6%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [习近平在亚运会开幕式欢迎宴会致辞](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E8%87%B4%E8%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [杭州亚运会 准备好了](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A+%E5%87%86%E5%A4%87%E5%A5%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [亚运会开幕式](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [五星红旗入场 BGM是我爱你中国](https://www.baidu.com/s?wd=%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E5%85%A5%E5%9C%BA+BGM%E6%98%AF%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [丰收里的中国色](https://www.baidu.com/s?wd=%E4%B8%B0%E6%94%B6%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [习近平在亚运会开幕式欢迎宴会致辞](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E8%87%B4%E8%BE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [杭州亚运会 准备好了](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A+%E5%87%86%E5%A4%87%E5%A5%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [亚运会开幕式](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [五星红旗入场 BGM是我爱你中国](https://www.baidu.com/s?wd=%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E5%85%A5%E5%9C%BA+BGM%E6%98%AF%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [丰收里的中国色](https://www.baidu.com/s?wd=%E4%B8%B0%E6%94%B6%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
