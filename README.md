@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 15:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 15:39:01</h4></div>
 
 > 微博  
 
 1. [涂山暖暖](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E6%9A%96%E6%9A%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [外卖迟到可能是去抓间谍了](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E8%BF%9F%E5%88%B0%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8E%BB%E6%8A%93%E9%97%B4%E8%B0%8D%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+2. [网传大同小学生遭霸凌教育局连夜调查](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A4%A7%E5%90%8C%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%81%AD%E9%9C%B8%E5%87%8C%E6%95%99%E8%82%B2%E5%B1%80%E8%BF%9E%E5%A4%9C%E8%B0%83%E6%9F%A5%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚运开幕式国风美学拉满](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%E5%9B%BD%E9%A3%8E%E7%BE%8E%E5%AD%A6%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
-4. [网传大同小学生遭霸凌教育局连夜调查](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A4%A7%E5%90%8C%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%81%AD%E9%9C%B8%E5%87%8C%E6%95%99%E8%82%B2%E5%B1%80%E8%BF%9E%E5%A4%9C%E8%B0%83%E6%9F%A5%23&t=31&band_rank=4&Refer=top)<br />
+4. [外卖迟到可能是去抓间谍了](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E8%BF%9F%E5%88%B0%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8E%BB%E6%8A%93%E9%97%B4%E8%B0%8D%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [叙利亚总统时隔19年再访华](https://s.weibo.com/weibo?q=%23%E5%8F%99%E5%88%A9%E4%BA%9A%E6%80%BB%E7%BB%9F%E6%97%B6%E9%9A%9419%E5%B9%B4%E5%86%8D%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴启程巴黎时装周](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%90%AF%E7%A8%8B%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [伍佰下次苏州这种大活别接了](https://s.weibo.com/weibo?q=%E4%BC%8D%E4%BD%B0%E4%B8%8B%E6%AC%A1%E8%8B%8F%E5%B7%9E%E8%BF%99%E7%A7%8D%E5%A4%A7%E6%B4%BB%E5%88%AB%E6%8E%A5%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
