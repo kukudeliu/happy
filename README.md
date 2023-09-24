@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 21:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 21:20:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [官方通报校长和主任外出考察同房过夜](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%A0%A1%E9%95%BF%E5%92%8C%E4%B8%BB%E4%BB%BB%E5%A4%96%E5%87%BA%E8%80%83%E5%AF%9F%E5%90%8C%E6%88%BF%E8%BF%87%E5%A4%9C%23&t=31&band_rank=4&Refer=top)<br />
 5. [宣璐爱情和事业果断选择事业](https://s.weibo.com/weibo?q=%23%E5%AE%A3%E7%92%90%E7%88%B1%E6%83%85%E5%92%8C%E4%BA%8B%E4%B8%9A%E6%9E%9C%E6%96%AD%E9%80%89%E6%8B%A9%E4%BA%8B%E4%B8%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [夫妻爬泰山将孩子独留车内4小时](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%88%AC%E6%B3%B0%E5%B1%B1%E5%B0%86%E5%AD%A9%E5%AD%90%E7%8B%AC%E7%95%99%E8%BD%A6%E5%86%854%E5%B0%8F%E6%97%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [张本智和2比3伊朗选手](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C2%E6%AF%943%E4%BC%8A%E6%9C%97%E9%80%89%E6%89%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [徐嘉余卫冕](https://s.weibo.com/weibo?q=%E5%BE%90%E5%98%89%E4%BD%99%E5%8D%AB%E5%86%95&t=31&band_rank=8&Refer=top)<br />
+7. [徐嘉余卫冕](https://s.weibo.com/weibo?q=%E5%BE%90%E5%98%89%E4%BD%99%E5%8D%AB%E5%86%95&t=31&band_rank=7&Refer=top)<br />
+8. [张本智和2比3伊朗选手](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C2%E6%AF%943%E4%BC%8A%E6%9C%97%E9%80%89%E6%89%8B%23&t=31&band_rank=8&Refer=top)<br />
 9. [IU演唱会边跳candy边提裤子](https://s.weibo.com/weibo?q=%23IU%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BE%B9%E8%B7%B3candy%E8%BE%B9%E6%8F%90%E8%A3%A4%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [心心相融，绽放亚洲之光](https://www.baidu.com/s?wd=%E5%BF%83%E5%BF%83%E7%9B%B8%E8%9E%8D%EF%BC%8C%E7%BB%BD%E6%94%BE%E4%BA%9A%E6%B4%B2%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [时政微纪录丨习近平的亚运会时间](https://www.baidu.com/s?wd=%E6%97%B6%E6%94%BF%E5%BE%AE%E7%BA%AA%E5%BD%95%E4%B8%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [亚运赛场夺金上演中国速度](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA%E5%A4%BA%E9%87%91%E4%B8%8A%E6%BC%94%E4%B8%AD%E5%9B%BD%E9%80%9F%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [“社牛”吴艳妮为何再次出圈](https://www.baidu.com/s?wd=%E2%80%9C%E7%A4%BE%E7%89%9B%E2%80%9D%E5%90%B4%E8%89%B3%E5%A6%AE%E4%B8%BA%E4%BD%95%E5%86%8D%E6%AC%A1%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运会开幕式上的关键元素](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E4%B8%8A%E7%9A%84%E5%85%B3%E9%94%AE%E5%85%83%E7%B4%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [心心相融，绽放亚洲之光](https://www.baidu.com/s?wd=%E5%BF%83%E5%BF%83%E7%9B%B8%E8%9E%8D%EF%BC%8C%E7%BB%BD%E6%94%BE%E4%BA%9A%E6%B4%B2%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [时政微纪录丨习近平的亚运会时间](https://www.baidu.com/s?wd=%E6%97%B6%E6%94%BF%E5%BE%AE%E7%BA%AA%E5%BD%95%E4%B8%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [亚运赛场夺金上演中国速度](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA%E5%A4%BA%E9%87%91%E4%B8%8A%E6%BC%94%E4%B8%AD%E5%9B%BD%E9%80%9F%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [“社牛”吴艳妮为何再次出圈](https://www.baidu.com/s?wd=%E2%80%9C%E7%A4%BE%E7%89%9B%E2%80%9D%E5%90%B4%E8%89%B3%E5%A6%AE%E4%B8%BA%E4%BD%95%E5%86%8D%E6%AC%A1%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运会开幕式上的关键元素](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E4%B8%8A%E7%9A%84%E5%85%B3%E9%94%AE%E5%85%83%E7%B4%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
