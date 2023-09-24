@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 22:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 22:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国足亚运队0比0孟加拉国](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%BA%9A%E8%BF%90%E9%98%9F0%E6%AF%940%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [34岁初中老师重新高考转学口腔医学](https://s.weibo.com/weibo?q=%2334%E5%B2%81%E5%88%9D%E4%B8%AD%E8%80%81%E5%B8%88%E9%87%8D%E6%96%B0%E9%AB%98%E8%80%83%E8%BD%AC%E5%AD%A6%E5%8F%A3%E8%85%94%E5%8C%BB%E5%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [白敬亭老约范丞丞打球](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%80%81%E7%BA%A6%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%89%93%E7%90%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [宣璐爱情和事业果断选择事业](https://s.weibo.com/weibo?q=%23%E5%AE%A3%E7%92%90%E7%88%B1%E6%83%85%E5%92%8C%E4%BA%8B%E4%B8%9A%E6%9E%9C%E6%96%AD%E9%80%89%E6%8B%A9%E4%BA%8B%E4%B8%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国女排3比1塞尔维亚女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E6%AF%941%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E5%A5%B3%E6%8E%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
