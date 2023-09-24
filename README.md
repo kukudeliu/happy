@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 19:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 19:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [丁克和独身者存多少钱够养老](https://s.weibo.com/weibo?q=%23%E4%B8%81%E5%85%8B%E5%92%8C%E7%8B%AC%E8%BA%AB%E8%80%85%E5%AD%98%E5%A4%9A%E5%B0%91%E9%92%B1%E5%A4%9F%E5%85%BB%E8%80%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国姑娘与叙利亚民众交换玫瑰](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A7%91%E5%A8%98%E4%B8%8E%E5%8F%99%E5%88%A9%E4%BA%9A%E6%B0%91%E4%BC%97%E4%BA%A4%E6%8D%A2%E7%8E%AB%E7%91%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈梦11比0](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A611%E6%AF%940%23&t=31&band_rank=8&Refer=top)<br />
-9. [陕西男篮6个字回应官方处罚](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E7%94%B7%E7%AF%AE6%E4%B8%AA%E5%AD%97%E5%9B%9E%E5%BA%94%E5%AE%98%E6%96%B9%E5%A4%84%E7%BD%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [王者荣耀项目](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E9%A1%B9%E7%9B%AE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
