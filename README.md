@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 04:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 04:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [日媒批男团耻辱出局](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%89%B9%E7%94%B7%E5%9B%A2%E8%80%BB%E8%BE%B1%E5%87%BA%E5%B1%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [坚持半个月下来一身轻的健身动作](https://s.weibo.com/weibo?q=%E5%9D%9A%E6%8C%81%E5%8D%8A%E4%B8%AA%E6%9C%88%E4%B8%8B%E6%9D%A5%E4%B8%80%E8%BA%AB%E8%BD%BB%E7%9A%84%E5%81%A5%E8%BA%AB%E5%8A%A8%E4%BD%9C&t=31&band_rank=7&Refer=top)<br />
 8. [胡兵跑着跟谷爱凌合影](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B5%E8%B7%91%E7%9D%80%E8%B7%9F%E8%B0%B7%E7%88%B1%E5%87%8C%E5%90%88%E5%BD%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [周杰伦太原演唱会](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A4%AA%E5%8E%9F%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
+9. [林俊杰韩红掀翻我的天灵盖](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E9%9F%A9%E7%BA%A2%E6%8E%80%E7%BF%BB%E6%88%91%E7%9A%84%E5%A4%A9%E7%81%B5%E7%9B%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
