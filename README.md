@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 10:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 10:26:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [一个月给儿子办3次婚宴收66万礼金](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%9C%88%E7%BB%99%E5%84%BF%E5%AD%90%E5%8A%9E3%E6%AC%A1%E5%A9%9A%E5%AE%B4%E6%94%B666%E4%B8%87%E7%A4%BC%E9%87%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [孙培原连续三届夺金](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%9F%B9%E5%8E%9F%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%B1%8A%E5%A4%BA%E9%87%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国队女子10米气步枪团体赛金牌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A5%B3%E5%AD%9010%E7%B1%B3%E6%B0%94%E6%AD%A5%E6%9E%AA%E5%9B%A2%E4%BD%93%E8%B5%9B%E9%87%91%E7%89%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [中国赛艇队姑娘夺金](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B5%9B%E8%89%87%E9%98%9F%E5%A7%91%E5%A8%98%E5%A4%BA%E9%87%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [这么背下去考研要满分上岸了](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B9%88%E8%83%8C%E4%B8%8B%E5%8E%BB%E8%80%83%E7%A0%94%E8%A6%81%E6%BB%A1%E5%88%86%E4%B8%8A%E5%B2%B8%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [这么背下去考研要满分上岸了](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B9%88%E8%83%8C%E4%B8%8B%E5%8E%BB%E8%80%83%E7%A0%94%E8%A6%81%E6%BB%A1%E5%88%86%E4%B8%8A%E5%B2%B8%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [中国赛艇队姑娘夺金](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B5%9B%E8%89%87%E9%98%9F%E5%A7%91%E5%A8%98%E5%A4%BA%E9%87%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
