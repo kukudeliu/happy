@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 05:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 05:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [幼儿园手工作业主打一个卷死家长](https://s.weibo.com/weibo?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%89%8B%E5%B7%A5%E4%BD%9C%E4%B8%9A%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E5%8D%B7%E6%AD%BB%E5%AE%B6%E9%95%BF&t=31&band_rank=6&Refer=top)<br />
 7. [34岁初中老师重新高考转学口腔医学](https://s.weibo.com/weibo?q=%2334%E5%B2%81%E5%88%9D%E4%B8%AD%E8%80%81%E5%B8%88%E9%87%8D%E6%96%B0%E9%AB%98%E8%80%83%E8%BD%AC%E5%AD%A6%E5%8F%A3%E8%85%94%E5%8C%BB%E5%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子结婚和亚运冠军同住一家酒店](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E5%92%8C%E4%BA%9A%E8%BF%90%E5%86%A0%E5%86%9B%E5%90%8C%E4%BD%8F%E4%B8%80%E5%AE%B6%E9%85%92%E5%BA%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [我没票但不妨碍我来听演唱会](https://s.weibo.com/weibo?q=%E6%88%91%E6%B2%A1%E7%A5%A8%E4%BD%86%E4%B8%8D%E5%A6%A8%E7%A2%8D%E6%88%91%E6%9D%A5%E5%90%AC%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
+9. [范丞丞临时抱冰脚](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B8%B4%E6%97%B6%E6%8A%B1%E5%86%B0%E8%84%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
