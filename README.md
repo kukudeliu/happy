@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 14:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 14:56:01</h4></div>
 
 > 微博  
 
-1. [涂山暖暖](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E6%9A%96%E6%9A%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [叙利亚总统时隔19年再访华](https://s.weibo.com/weibo?q=%23%E5%8F%99%E5%88%A9%E4%BA%9A%E6%80%BB%E7%BB%9F%E6%97%B6%E9%9A%9419%E5%B9%B4%E5%86%8D%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=2&Refer=top)<br />
+1. [叙利亚总统时隔19年再访华](https://s.weibo.com/weibo?q=%23%E5%8F%99%E5%88%A9%E4%BA%9A%E6%80%BB%E7%BB%9F%E6%97%B6%E9%9A%9419%E5%B9%B4%E5%86%8D%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top)<br />
+2. [涂山暖暖](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E6%9A%96%E6%9A%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚运开幕式国风美学拉满](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%E5%9B%BD%E9%A3%8E%E7%BE%8E%E5%AD%A6%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [专家称现有住房14亿人可能住不完](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E7%8E%B0%E6%9C%89%E4%BD%8F%E6%88%BF14%E4%BA%BF%E4%BA%BA%E5%8F%AF%E8%83%BD%E4%BD%8F%E4%B8%8D%E5%AE%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [外卖迟到可能是去抓间谍了](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E8%BF%9F%E5%88%B0%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8E%BB%E6%8A%93%E9%97%B4%E8%B0%8D%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
