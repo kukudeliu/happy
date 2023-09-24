@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 01:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 01:58:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [良渚之光照耀亚运之美](https://s.weibo.com/weibo?q=%23%E8%89%AF%E6%B8%9A%E4%B9%8B%E5%85%89%E7%85%A7%E8%80%80%E4%BA%9A%E8%BF%90%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [MOMO风头像](https://s.weibo.com/weibo?q=MOMO%E9%A3%8E%E5%A4%B4%E5%83%8F&t=31&band_rank=4&Refer=top)<br />
 5. [日媒批男团耻辱出局](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%89%B9%E7%94%B7%E5%9B%A2%E8%80%BB%E8%BE%B1%E5%87%BA%E5%B1%80%23&t=31&band_rank=5&Refer=top)<br />
-6. [林俊杰韩红掀翻我的天灵盖](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E9%9F%A9%E7%BA%A2%E6%8E%80%E7%BF%BB%E6%88%91%E7%9A%84%E5%A4%A9%E7%81%B5%E7%9B%96&t=31&band_rank=6&Refer=top)<br />
-7. [幼儿园手工作业主打一个卷死家长](https://s.weibo.com/weibo?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%89%8B%E5%B7%A5%E4%BD%9C%E4%B8%9A%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E5%8D%B7%E6%AD%BB%E5%AE%B6%E9%95%BF&t=31&band_rank=7&Refer=top)<br />
+6. [幼儿园手工作业主打一个卷死家长](https://s.weibo.com/weibo?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%89%8B%E5%B7%A5%E4%BD%9C%E4%B8%9A%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E5%8D%B7%E6%AD%BB%E5%AE%B6%E9%95%BF&t=31&band_rank=6&Refer=top)<br />
+7. [林俊杰韩红掀翻我的天灵盖](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E9%9F%A9%E7%BA%A2%E6%8E%80%E7%BF%BB%E6%88%91%E7%9A%84%E5%A4%A9%E7%81%B5%E7%9B%96&t=31&band_rank=7&Refer=top)<br />
 8. [坚持半个月下来一身轻的健身动作](https://s.weibo.com/weibo?q=%E5%9D%9A%E6%8C%81%E5%8D%8A%E4%B8%AA%E6%9C%88%E4%B8%8B%E6%9D%A5%E4%B8%80%E8%BA%AB%E8%BD%BB%E7%9A%84%E5%81%A5%E8%BA%AB%E5%8A%A8%E4%BD%9C&t=31&band_rank=8&Refer=top)<br />
 9. [张小斐这剧除了原配全员好嗑](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E8%BF%99%E5%89%A7%E9%99%A4%E4%BA%86%E5%8E%9F%E9%85%8D%E5%85%A8%E5%91%98%E5%A5%BD%E5%97%91%23&t=31&band_rank=9&Refer=top)<br />
 
