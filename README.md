@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 11:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 11:14:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [上班微信发了啥老板可能知道](https://s.weibo.com/weibo?q=%E4%B8%8A%E7%8F%AD%E5%BE%AE%E4%BF%A1%E5%8F%91%E4%BA%86%E5%95%A5%E8%80%81%E6%9D%BF%E5%8F%AF%E8%83%BD%E7%9F%A5%E9%81%93&t=31&band_rank=5&Refer=top)<br />
 6. [12306回应压票再分批放票](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%8E%8B%E7%A5%A8%E5%86%8D%E5%88%86%E6%89%B9%E6%94%BE%E7%A5%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么吃番茄皮肤会变好](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%83%E7%95%AA%E8%8C%84%E7%9A%AE%E8%82%A4%E4%BC%9A%E5%8F%98%E5%A5%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [这么背下去考研要满分上岸了](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B9%88%E8%83%8C%E4%B8%8B%E5%8E%BB%E8%80%83%E7%A0%94%E8%A6%81%E6%BB%A1%E5%88%86%E4%B8%8A%E5%B2%B8%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [比预制菜更可恨的是承包学校食堂的关系户](https://s.weibo.com/weibo?q=%23%E6%AF%94%E9%A2%84%E5%88%B6%E8%8F%9C%E6%9B%B4%E5%8F%AF%E6%81%A8%E7%9A%84%E6%98%AF%E6%89%BF%E5%8C%85%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E7%9A%84%E5%85%B3%E7%B3%BB%E6%88%B7%23&t=31&band_rank=9&Refer=top)<br />
+8. [比预制菜更可恨的是承包学校食堂的关系户](https://s.weibo.com/weibo?q=%23%E6%AF%94%E9%A2%84%E5%88%B6%E8%8F%9C%E6%9B%B4%E5%8F%AF%E6%81%A8%E7%9A%84%E6%98%AF%E6%89%BF%E5%8C%85%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E7%9A%84%E5%85%B3%E7%B3%BB%E6%88%B7%23&t=31&band_rank=8&Refer=top)<br />
+9. [男子欲买100张周杰伦演唱会门票被骗23万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%B2%E4%B9%B0100%E5%BC%A0%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E8%A2%AB%E9%AA%9723%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
