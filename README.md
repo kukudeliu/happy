@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 23:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 23:25:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [杭州亚运会开幕式刷新亚运史](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%88%B7%E6%96%B0%E4%BA%9A%E8%BF%90%E5%8F%B2%23&t=31&band_rank=3&Refer=top)<br />
 4. [日本男团止步亚运会八强](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%9B%A2%E6%AD%A2%E6%AD%A5%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%85%AB%E5%BC%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [林俊杰韩红掀翻我的天灵盖](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E9%9F%A9%E7%BA%A2%E6%8E%80%E7%BF%BB%E6%88%91%E7%9A%84%E5%A4%A9%E7%81%B5%E7%9B%96&t=31&band_rank=5&Refer=top)<br />
-6. [女子结婚和亚运冠军同住一家酒店](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E5%92%8C%E4%BA%9A%E8%BF%90%E5%86%A0%E5%86%9B%E5%90%8C%E4%BD%8F%E4%B8%80%E5%AE%B6%E9%85%92%E5%BA%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [34岁初中老师重新高考转学口腔医学](https://s.weibo.com/weibo?q=%2334%E5%B2%81%E5%88%9D%E4%B8%AD%E8%80%81%E5%B8%88%E9%87%8D%E6%96%B0%E9%AB%98%E8%80%83%E8%BD%AC%E5%AD%A6%E5%8F%A3%E8%85%94%E5%8C%BB%E5%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [白敬亭老约范丞丞打球](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%80%81%E7%BA%A6%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%89%93%E7%90%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [今晚国歌是我的单曲循环](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%9A%E5%9B%BD%E6%AD%8C%E6%98%AF%E6%88%91%E7%9A%84%E5%8D%95%E6%9B%B2%E5%BE%AA%E7%8E%AF%23&t=31&band_rank=9&Refer=top)<br />
+6. [日媒批男团耻辱出局](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%89%B9%E7%94%B7%E5%9B%A2%E8%80%BB%E8%BE%B1%E5%87%BA%E5%B1%80%23&t=31&band_rank=6&Refer=top)<br />
+7. [女子结婚和亚运冠军同住一家酒店](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E5%92%8C%E4%BA%9A%E8%BF%90%E5%86%A0%E5%86%9B%E5%90%8C%E4%BD%8F%E4%B8%80%E5%AE%B6%E9%85%92%E5%BA%97%23&t=31&band_rank=7&Refer=top)<br />
+8. [34岁初中老师重新高考转学口腔医学](https://s.weibo.com/weibo?q=%2334%E5%B2%81%E5%88%9D%E4%B8%AD%E8%80%81%E5%B8%88%E9%87%8D%E6%96%B0%E9%AB%98%E8%80%83%E8%BD%AC%E5%AD%A6%E5%8F%A3%E8%85%94%E5%8C%BB%E5%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [白敬亭老约范丞丞打球](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%80%81%E7%BA%A6%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%89%93%E7%90%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
