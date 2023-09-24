@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 16:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 16:50:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [AI修复49年前中国亚运首金画面](https://s.weibo.com/weibo?q=%23AI%E4%BF%AE%E5%A4%8D49%E5%B9%B4%E5%89%8D%E4%B8%AD%E5%9B%BD%E4%BA%9A%E8%BF%90%E9%A6%96%E9%87%91%E7%94%BB%E9%9D%A2%23&t=31&band_rank=3&Refer=top)<br />
 4. [韩国首尔五天四夜吃什么](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E9%A6%96%E5%B0%94%E4%BA%94%E5%A4%A9%E5%9B%9B%E5%A4%9C%E5%90%83%E4%BB%80%E4%B9%88&t=31&band_rank=4&Refer=top)<br />
 5. [贺峻霖被实习生简历吓到](https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E8%A2%AB%E5%AE%9E%E4%B9%A0%E7%94%9F%E7%AE%80%E5%8E%86%E5%90%93%E5%88%B0%23&t=31&band_rank=5&Refer=top)<br />
-6. [网传大同小学生遭霸凌教育局连夜调查](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A4%A7%E5%90%8C%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%81%AD%E9%9C%B8%E5%87%8C%E6%95%99%E8%82%B2%E5%B1%80%E8%BF%9E%E5%A4%9C%E8%B0%83%E6%9F%A5%23&t=31&band_rank=6&Refer=top)<br />
-7. [外卖迟到可能是去抓间谍了](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E8%BF%9F%E5%88%B0%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8E%BB%E6%8A%93%E9%97%B4%E8%B0%8D%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈梦11比0](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A611%E6%AF%940%23&t=31&band_rank=8&Refer=top)<br />
+6. [陈梦11比0](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A611%E6%AF%940%23&t=31&band_rank=6&Refer=top)<br />
+7. [网传大同小学生遭霸凌教育局连夜调查](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A4%A7%E5%90%8C%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%81%AD%E9%9C%B8%E5%87%8C%E6%95%99%E8%82%B2%E5%B1%80%E8%BF%9E%E5%A4%9C%E8%B0%83%E6%9F%A5%23&t=31&band_rank=7&Refer=top)<br />
+8. [外卖迟到可能是去抓间谍了](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E8%BF%9F%E5%88%B0%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8E%BB%E6%8A%93%E9%97%B4%E8%B0%8D%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [我被假兵马俑骗哭了](https://s.weibo.com/weibo?q=%23%E6%88%91%E8%A2%AB%E5%81%87%E5%85%B5%E9%A9%AC%E4%BF%91%E9%AA%97%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
