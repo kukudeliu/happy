@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 12:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 12:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [比预制菜更可恨的是承包学校食堂的关系户](https://s.weibo.com/weibo?q=%23%E6%AF%94%E9%A2%84%E5%88%B6%E8%8F%9C%E6%9B%B4%E5%8F%AF%E6%81%A8%E7%9A%84%E6%98%AF%E6%89%BF%E5%8C%85%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E7%9A%84%E5%85%B3%E7%B3%BB%E6%88%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [杭州好像真的有一亿人](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A5%BD%E5%83%8F%E7%9C%9F%E7%9A%84%E6%9C%89%E4%B8%80%E4%BA%BF%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子就医发现五脏六腑全长反](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B0%B1%E5%8C%BB%E5%8F%91%E7%8E%B0%E4%BA%94%E8%84%8F%E5%85%AD%E8%85%91%E5%85%A8%E9%95%BF%E5%8F%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [酱香拿铁会让星巴克慌吗](https://s.weibo.com/weibo?q=%23%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E4%BC%9A%E8%AE%A9%E6%98%9F%E5%B7%B4%E5%85%8B%E6%85%8C%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [田嘉瑞有工作室了](https://s.weibo.com/weibo?q=%E7%94%B0%E5%98%89%E7%91%9E%E6%9C%89%E5%B7%A5%E4%BD%9C%E5%AE%A4%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
