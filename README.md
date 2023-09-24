@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 13:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 13:09:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国队亚运金牌九宫格](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C%E4%B9%9D%E5%AE%AB%E6%A0%BC%23&t=31&band_rank=6&Refer=top)<br />
 7. [杭州好像真的有一亿人](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A5%BD%E5%83%8F%E7%9C%9F%E7%9A%84%E6%9C%89%E4%B8%80%E4%BA%BF%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [陕西信达被重罚100万取消成绩](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E4%BF%A1%E8%BE%BE%E8%A2%AB%E9%87%8D%E7%BD%9A100%E4%B8%87%E5%8F%96%E6%B6%88%E6%88%90%E7%BB%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [柯洁亚运会开门红](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E9%97%A8%E7%BA%A2%23&t=31&band_rank=9&Refer=top)<br />
+9. [黄雨婷夺10米气步枪金牌](https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%9B%A8%E5%A9%B7%E5%A4%BA10%E7%B1%B3%E6%B0%94%E6%AD%A5%E6%9E%AA%E9%87%91%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
