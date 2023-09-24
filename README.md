@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 10:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 10:18:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [丰收里的中国色](https://www.baidu.com/s?wd=%E4%B8%B0%E6%94%B6%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [开幕式的中国式美学太浪漫了](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%95%E5%BC%8F%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%BE%8E%E5%AD%A6%E5%A4%AA%E6%B5%AA%E6%BC%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国姐妹花甩第2名近10秒](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A7%90%E5%A6%B9%E8%8A%B1%E7%94%A9%E7%AC%AC2%E5%90%8D%E8%BF%9110%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [穿100多斤青绿山水裙跳舞是什么感觉](https://www.baidu.com/s?wd=%E7%A9%BF100%E5%A4%9A%E6%96%A4%E9%9D%92%E7%BB%BF%E5%B1%B1%E6%B0%B4%E8%A3%99%E8%B7%B3%E8%88%9E%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [一个月给儿子办3次婚宴收66万礼金](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9C%88%E7%BB%99%E5%84%BF%E5%AD%90%E5%8A%9E3%E6%AC%A1%E5%A9%9A%E5%AE%B4%E6%94%B666%E4%B8%87%E7%A4%BC%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李倩美出圈](https://www.baidu.com/s?wd=%E6%9D%8E%E5%80%A9%E7%BE%8E%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [加速包能优先买火车票？不实](https://www.baidu.com/s?wd=%E5%8A%A0%E9%80%9F%E5%8C%85%E8%83%BD%E4%BC%98%E5%85%88%E4%B9%B0%E7%81%AB%E8%BD%A6%E7%A5%A8%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [丰收里的中国色](https://www.baidu.com/s?wd=%E4%B8%B0%E6%94%B6%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [开幕式的中国式美学太浪漫了](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%95%E5%BC%8F%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%BE%8E%E5%AD%A6%E5%A4%AA%E6%B5%AA%E6%BC%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国姐妹花甩第2名近10秒](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A7%90%E5%A6%B9%E8%8A%B1%E7%94%A9%E7%AC%AC2%E5%90%8D%E8%BF%9110%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [穿100多斤青绿山水裙跳舞是什么感觉](https://www.baidu.com/s?wd=%E7%A9%BF100%E5%A4%9A%E6%96%A4%E9%9D%92%E7%BB%BF%E5%B1%B1%E6%B0%B4%E8%A3%99%E8%B7%B3%E8%88%9E%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [一个月给儿子办3次婚宴收66万礼金](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9C%88%E7%BB%99%E5%84%BF%E5%AD%90%E5%8A%9E3%E6%AC%A1%E5%A9%9A%E5%AE%B4%E6%94%B666%E4%B8%87%E7%A4%BC%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李倩美出圈](https://www.baidu.com/s?wd=%E6%9D%8E%E5%80%A9%E7%BE%8E%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [加速包能优先买火车票？不实](https://www.baidu.com/s?wd=%E5%8A%A0%E9%80%9F%E5%8C%85%E8%83%BD%E4%BC%98%E5%85%88%E4%B9%B0%E7%81%AB%E8%BD%A6%E7%A5%A8%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
