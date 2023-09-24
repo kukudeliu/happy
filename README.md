@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 21:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 21:32:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [宣璐爱情和事业果断选择事业](https://s.weibo.com/weibo?q=%23%E5%AE%A3%E7%92%90%E7%88%B1%E6%83%85%E5%92%8C%E4%BA%8B%E4%B8%9A%E6%9E%9C%E6%96%AD%E9%80%89%E6%8B%A9%E4%BA%8B%E4%B8%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [张本智和2比3伊朗选手](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C2%E6%AF%943%E4%BC%8A%E6%9C%97%E9%80%89%E6%89%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [夫妻爬泰山将孩子独留车内4小时](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%88%AC%E6%B3%B0%E5%B1%B1%E5%B0%86%E5%AD%A9%E5%AD%90%E7%8B%AC%E7%95%99%E8%BD%A6%E5%86%854%E5%B0%8F%E6%97%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [徐嘉余卫冕](https://s.weibo.com/weibo?q=%E5%BE%90%E5%98%89%E4%BD%99%E5%8D%AB%E5%86%95&t=31&band_rank=8&Refer=top)<br />
-9. [中国女排vs塞尔维亚女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E5%A5%B3%E6%8E%92%23&t=31&band_rank=9&Refer=top)<br />
+8. [贵州六盘水煤矿着火事故致16人遇难](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E5%85%AD%E7%9B%98%E6%B0%B4%E7%85%A4%E7%9F%BF%E7%9D%80%E7%81%AB%E4%BA%8B%E6%95%85%E8%87%B416%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [徐嘉余卫冕](https://s.weibo.com/weibo?q=%E5%BE%90%E5%98%89%E4%BD%99%E5%8D%AB%E5%86%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
