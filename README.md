@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 00:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 00:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吴奇隆黄子弘凡被牛赶了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%A5%87%E9%9A%86%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E8%A2%AB%E7%89%9B%E8%B5%B6%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本男团止步亚运会八强](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%9B%A2%E6%AD%A2%E6%AD%A5%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%85%AB%E5%BC%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [白桃星座](https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7&t=31&band_rank=8&Refer=top)<br />
-9. [林俊杰韩红掀翻我的天灵盖](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E9%9F%A9%E7%BA%A2%E6%8E%80%E7%BF%BB%E6%88%91%E7%9A%84%E5%A4%A9%E7%81%B5%E7%9B%96&t=31&band_rank=9&Refer=top)<br />
+9. [原神首冠诞生](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%E9%A6%96%E5%86%A0%E8%AF%9E%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
