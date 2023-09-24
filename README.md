@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 05:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 05:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [坚持半个月下来一身轻的健身动作](https://s.weibo.com/weibo?q=%E5%9D%9A%E6%8C%81%E5%8D%8A%E4%B8%AA%E6%9C%88%E4%B8%8B%E6%9D%A5%E4%B8%80%E8%BA%AB%E8%BD%BB%E7%9A%84%E5%81%A5%E8%BA%AB%E5%8A%A8%E4%BD%9C&t=31&band_rank=6&Refer=top)<br />
 7. [34岁初中老师重新高考转学口腔医学](https://s.weibo.com/weibo?q=%2334%E5%B2%81%E5%88%9D%E4%B8%AD%E8%80%81%E5%B8%88%E9%87%8D%E6%96%B0%E9%AB%98%E8%80%83%E8%BD%AC%E5%AD%A6%E5%8F%A3%E8%85%94%E5%8C%BB%E5%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [我没票但不妨碍我来听演唱会](https://s.weibo.com/weibo?q=%E6%88%91%E6%B2%A1%E7%A5%A8%E4%BD%86%E4%B8%8D%E5%A6%A8%E7%A2%8D%E6%88%91%E6%9D%A5%E5%90%AC%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
-9. [胡兵跑着跟谷爱凌合影](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B5%E8%B7%91%E7%9D%80%E8%B7%9F%E8%B0%B7%E7%88%B1%E5%87%8C%E5%90%88%E5%BD%B1%23&t=31&band_rank=9&Refer=top)<br />
+9. [范丞丞临时抱冰脚](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B8%B4%E6%97%B6%E6%8A%B1%E5%86%B0%E8%84%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
