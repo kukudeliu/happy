@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 00:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 00:12:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [胡兵跑着跟谷爱凌合影](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B5%E8%B7%91%E7%9D%80%E8%B7%9F%E8%B0%B7%E7%88%B1%E5%87%8C%E5%90%88%E5%BD%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [白桃星座](https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7&t=31&band_rank=6&Refer=top)<br />
 7. [原神首冠诞生](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%E9%A6%96%E5%86%A0%E8%AF%9E%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [吴奇隆黄子弘凡被牛赶了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%A5%87%E9%9A%86%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E8%A2%AB%E7%89%9B%E8%B5%B6%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [日本男团止步亚运会八强](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%9B%A2%E6%AD%A2%E6%AD%A5%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%85%AB%E5%BC%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [日本男团止步亚运会八强](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%9B%A2%E6%AD%A2%E6%AD%A5%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%85%AB%E5%BC%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [吴奇隆黄子弘凡被牛赶了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%A5%87%E9%9A%86%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E8%A2%AB%E7%89%9B%E8%B5%B6%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
