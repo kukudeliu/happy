@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 00:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 00:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [幼儿园手工作业主打一个卷死家长](https://s.weibo.com/weibo?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%89%8B%E5%B7%A5%E4%BD%9C%E4%B8%9A%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E5%8D%B7%E6%AD%BB%E5%AE%B6%E9%95%BF&t=31&band_rank=6&Refer=top)<br />
 7. [我没票但不妨碍我来听演唱会](https://s.weibo.com/weibo?q=%E6%88%91%E6%B2%A1%E7%A5%A8%E4%BD%86%E4%B8%8D%E5%A6%A8%E7%A2%8D%E6%88%91%E6%9D%A5%E5%90%AC%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
 8. [原神首冠诞生](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%E9%A6%96%E5%86%A0%E8%AF%9E%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [吴奇隆黄子弘凡被牛赶了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%A5%87%E9%9A%86%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E8%A2%AB%E7%89%9B%E8%B5%B6%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [张小斐这剧除了原配全员好嗑](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E8%BF%99%E5%89%A7%E9%99%A4%E4%BA%86%E5%8E%9F%E9%85%8D%E5%85%A8%E5%91%98%E5%A5%BD%E5%97%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
