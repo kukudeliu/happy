@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 17:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 17:36:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [AI修复49年前中国亚运首金画面](https://s.weibo.com/weibo?q=%23AI%E4%BF%AE%E5%A4%8D49%E5%B9%B4%E5%89%8D%E4%B8%AD%E5%9B%BD%E4%BA%9A%E8%BF%90%E9%A6%96%E9%87%91%E7%94%BB%E9%9D%A2%23&t=31&band_rank=3&Refer=top)<br />
 4. [日本将启动第二轮核污染水排海](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E5%90%AF%E5%8A%A8%E7%AC%AC%E4%BA%8C%E8%BD%AE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [林孝埈内道一过三](https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%9D%E5%9F%88%E5%86%85%E9%81%93%E4%B8%80%E8%BF%87%E4%B8%89&t=31&band_rank=5&Refer=top)<br />
-6. [贺峻霖被实习生简历吓到](https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E8%A2%AB%E5%AE%9E%E4%B9%A0%E7%94%9F%E7%AE%80%E5%8E%86%E5%90%93%E5%88%B0%23&t=31&band_rank=6&Refer=top)<br />
-7. [考研读研 人生选择](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E8%AF%BB%E7%A0%94%20%E4%BA%BA%E7%94%9F%E9%80%89%E6%8B%A9&t=31&band_rank=7&Refer=top)<br />
+6. [考研读研 人生选择](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E8%AF%BB%E7%A0%94%20%E4%BA%BA%E7%94%9F%E9%80%89%E6%8B%A9&t=31&band_rank=6&Refer=top)<br />
+7. [贺峻霖被实习生简历吓到](https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E8%A2%AB%E5%AE%9E%E4%B9%A0%E7%94%9F%E7%AE%80%E5%8E%86%E5%90%93%E5%88%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [外卖迟到可能是去抓间谍了](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E8%BF%9F%E5%88%B0%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8E%BB%E6%8A%93%E9%97%B4%E8%B0%8D%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [陕西男篮6个字回应官方处罚](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E7%94%B7%E7%AF%AE6%E4%B8%AA%E5%AD%97%E5%9B%9E%E5%BA%94%E5%AE%98%E6%96%B9%E5%A4%84%E7%BD%9A%23&t=31&band_rank=9&Refer=top)<br />
 
