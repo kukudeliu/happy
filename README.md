@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 14:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 14:54:02</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [四海同赴亚运之约](https://www.baidu.com/s?wd=%E5%9B%9B%E6%B5%B7%E5%90%8C%E8%B5%B4%E4%BA%9A%E8%BF%90%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州亚运会首个双冠王诞生](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%A6%96%E4%B8%AA%E5%8F%8C%E5%86%A0%E7%8E%8B%E8%AF%9E%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [夺得首金的中国姑娘双手满是老茧](https://www.baidu.com/s?wd=%E5%A4%BA%E5%BE%97%E9%A6%96%E9%87%91%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A7%91%E5%A8%98%E5%8F%8C%E6%89%8B%E6%BB%A1%E6%98%AF%E8%80%81%E8%8C%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国姐妹花甩第2名近10秒](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A7%90%E5%A6%B9%E8%8A%B1%E7%94%A9%E7%AC%AC2%E5%90%8D%E8%BF%9110%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [49岁张震岳举行婚礼](https://www.baidu.com/s?wd=49%E5%B2%81%E5%BC%A0%E9%9C%87%E5%B2%B3%E4%B8%BE%E8%A1%8C%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [开幕式唱歌的四个帅哥是谁](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%95%E5%BC%8F%E5%94%B1%E6%AD%8C%E7%9A%84%E5%9B%9B%E4%B8%AA%E5%B8%85%E5%93%A5%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网遇“现役军人”帮忙入伍？假的](https://www.baidu.com/s?wd=%E7%BD%91%E9%81%87%E2%80%9C%E7%8E%B0%E5%BD%B9%E5%86%9B%E4%BA%BA%E2%80%9D%E5%B8%AE%E5%BF%99%E5%85%A5%E4%BC%8D%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [四海同赴亚运之约](https://www.baidu.com/s?wd=%E5%9B%9B%E6%B5%B7%E5%90%8C%E8%B5%B4%E4%BA%9A%E8%BF%90%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州亚运会首个双冠王诞生](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%A6%96%E4%B8%AA%E5%8F%8C%E5%86%A0%E7%8E%8B%E8%AF%9E%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [夺得首金的中国姑娘双手满是老茧](https://www.baidu.com/s?wd=%E5%A4%BA%E5%BE%97%E9%A6%96%E9%87%91%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A7%91%E5%A8%98%E5%8F%8C%E6%89%8B%E6%BB%A1%E6%98%AF%E8%80%81%E8%8C%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国姐妹花甩第2名近10秒](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A7%90%E5%A6%B9%E8%8A%B1%E7%94%A9%E7%AC%AC2%E5%90%8D%E8%BF%9110%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [49岁张震岳举行婚礼](https://www.baidu.com/s?wd=49%E5%B2%81%E5%BC%A0%E9%9C%87%E5%B2%B3%E4%B8%BE%E8%A1%8C%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [开幕式唱歌的四个帅哥是谁](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%95%E5%BC%8F%E5%94%B1%E6%AD%8C%E7%9A%84%E5%9B%9B%E4%B8%AA%E5%B8%85%E5%93%A5%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网遇“现役军人”帮忙入伍？假的](https://www.baidu.com/s?wd=%E7%BD%91%E9%81%87%E2%80%9C%E7%8E%B0%E5%BD%B9%E5%86%9B%E4%BA%BA%E2%80%9D%E5%B8%AE%E5%BF%99%E5%85%A5%E4%BC%8D%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
