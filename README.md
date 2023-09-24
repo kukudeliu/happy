@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 18:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 18:25:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [心心相融，绽放亚洲之光](https://www.baidu.com/s?wd=%E5%BF%83%E5%BF%83%E7%9B%B8%E8%9E%8D%EF%BC%8C%E7%BB%BD%E6%94%BE%E4%BA%9A%E6%B4%B2%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [日本将开始第二轮核污染水排海](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%86%E5%BC%80%E5%A7%8B%E7%AC%AC%E4%BA%8C%E8%BD%AE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [亚运赛场夺金上演中国速度](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA%E5%A4%BA%E9%87%91%E4%B8%8A%E6%BC%94%E4%B8%AD%E5%9B%BD%E9%80%9F%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [张国伟在亚运会场馆外摊煎饼](https://www.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E4%BC%9F%E5%9C%A8%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9C%BA%E9%A6%86%E5%A4%96%E6%91%8A%E7%85%8E%E9%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运会开幕式上的关键元素](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E4%B8%8A%E7%9A%84%E5%85%B3%E9%94%AE%E5%85%83%E7%B4%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“社牛”吴艳妮为何再次出圈](https://www.baidu.com/s?wd=%E2%80%9C%E7%A4%BE%E7%89%9B%E2%80%9D%E5%90%B4%E8%89%B3%E5%A6%AE%E4%B8%BA%E4%BD%95%E5%86%8D%E6%AC%A1%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [心心相融，绽放亚洲之光](https://www.baidu.com/s?wd=%E5%BF%83%E5%BF%83%E7%9B%B8%E8%9E%8D%EF%BC%8C%E7%BB%BD%E6%94%BE%E4%BA%9A%E6%B4%B2%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [日本将开始第二轮核污染水排海](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%86%E5%BC%80%E5%A7%8B%E7%AC%AC%E4%BA%8C%E8%BD%AE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [亚运赛场夺金上演中国速度](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA%E5%A4%BA%E9%87%91%E4%B8%8A%E6%BC%94%E4%B8%AD%E5%9B%BD%E9%80%9F%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [张国伟在亚运会场馆外摊煎饼](https://www.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E4%BC%9F%E5%9C%A8%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9C%BA%E9%A6%86%E5%A4%96%E6%91%8A%E7%85%8E%E9%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运会开幕式上的关键元素](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E4%B8%8A%E7%9A%84%E5%85%B3%E9%94%AE%E5%85%83%E7%B4%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“社牛”吴艳妮为何再次出圈](https://www.baidu.com/s?wd=%E2%80%9C%E7%A4%BE%E7%89%9B%E2%80%9D%E5%90%B4%E8%89%B3%E5%A6%AE%E4%B8%BA%E4%BD%95%E5%86%8D%E6%AC%A1%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
