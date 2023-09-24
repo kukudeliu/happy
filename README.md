@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 17:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 17:52:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [王者荣耀项目 转播](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E9%A1%B9%E7%9B%AE%20%E8%BD%AC%E6%92%AD&t=31&band_rank=4&Refer=top)<br />
 5. [林孝埈内道一过三](https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%9D%E5%9F%88%E5%86%85%E9%81%93%E4%B8%80%E8%BF%87%E4%B8%89&t=31&band_rank=5&Refer=top)<br />
 6. [考研读研 人生选择](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E8%AF%BB%E7%A0%94%20%E4%BA%BA%E7%94%9F%E9%80%89%E6%8B%A9&t=31&band_rank=6&Refer=top)<br />
-7. [陕西男篮6个字回应官方处罚](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E7%94%B7%E7%AF%AE6%E4%B8%AA%E5%AD%97%E5%9B%9E%E5%BA%94%E5%AE%98%E6%96%B9%E5%A4%84%E7%BD%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [贺峻霖被实习生简历吓到](https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E8%A2%AB%E5%AE%9E%E4%B9%A0%E7%94%9F%E7%AE%80%E5%8E%86%E5%90%93%E5%88%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘诗诗张云龙额头吻路透](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%BC%A0%E4%BA%91%E9%BE%99%E9%A2%9D%E5%A4%B4%E5%90%BB%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
+7. [1岁半孙女午睡爷爷守3小时照顾](https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%8D%8A%E5%AD%99%E5%A5%B3%E5%8D%88%E7%9D%A1%E7%88%B7%E7%88%B7%E5%AE%883%E5%B0%8F%E6%97%B6%E7%85%A7%E9%A1%BE%23&t=31&band_rank=7&Refer=top)<br />
+8. [陕西男篮6个字回应官方处罚](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E7%94%B7%E7%AF%AE6%E4%B8%AA%E5%AD%97%E5%9B%9E%E5%BA%94%E5%AE%98%E6%96%B9%E5%A4%84%E7%BD%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [贺峻霖被实习生简历吓到](https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E8%A2%AB%E5%AE%9E%E4%B9%A0%E7%94%9F%E7%AE%80%E5%8E%86%E5%90%93%E5%88%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
