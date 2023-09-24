@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 12:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 12:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [比预制菜更可恨的是承包学校食堂的关系户](https://s.weibo.com/weibo?q=%23%E6%AF%94%E9%A2%84%E5%88%B6%E8%8F%9C%E6%9B%B4%E5%8F%AF%E6%81%A8%E7%9A%84%E6%98%AF%E6%89%BF%E5%8C%85%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E7%9A%84%E5%85%B3%E7%B3%BB%E6%88%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [上班微信发了啥老板可能知道](https://s.weibo.com/weibo?q=%E4%B8%8A%E7%8F%AD%E5%BE%AE%E4%BF%A1%E5%8F%91%E4%BA%86%E5%95%A5%E8%80%81%E6%9D%BF%E5%8F%AF%E8%83%BD%E7%9F%A5%E9%81%93&t=31&band_rank=7&Refer=top)<br />
 8. [田嘉瑞有工作室了](https://s.weibo.com/weibo?q=%E7%94%B0%E5%98%89%E7%91%9E%E6%9C%89%E5%B7%A5%E4%BD%9C%E5%AE%A4%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [于文文说自己的歌都有点死了前男友的感觉](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E8%AF%B4%E8%87%AA%E5%B7%B1%E7%9A%84%E6%AD%8C%E9%83%BD%E6%9C%89%E7%82%B9%E6%AD%BB%E4%BA%86%E5%89%8D%E7%94%B7%E5%8F%8B%E7%9A%84%E6%84%9F%E8%A7%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [12306回应压票再分批放票](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%8E%8B%E7%A5%A8%E5%86%8D%E5%88%86%E6%89%B9%E6%94%BE%E7%A5%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
