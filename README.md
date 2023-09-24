@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 18:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 18:08:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [专家谈李佳琦花西子眉笔争议](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%B0%88%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%8A%B1%E8%A5%BF%E5%AD%90%E7%9C%89%E7%AC%94%E4%BA%89%E8%AE%AE%23&t=31&band_rank=4&Refer=top)<br />
 5. [中国姑娘与叙利亚民众交换玫瑰](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A7%91%E5%A8%98%E4%B8%8E%E5%8F%99%E5%88%A9%E4%BA%9A%E6%B0%91%E4%BC%97%E4%BA%A4%E6%8D%A2%E7%8E%AB%E7%91%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [王者荣耀项目 转播](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E9%A1%B9%E7%9B%AE%20%E8%BD%AC%E6%92%AD&t=31&band_rank=6&Refer=top)<br />
-7. [1岁半孙女午睡爷爷守3小时照顾](https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%8D%8A%E5%AD%99%E5%A5%B3%E5%8D%88%E7%9D%A1%E7%88%B7%E7%88%B7%E5%AE%883%E5%B0%8F%E6%97%B6%E7%85%A7%E9%A1%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [日本将启动第二轮核污染水排海](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E5%90%AF%E5%8A%A8%E7%AC%AC%E4%BA%8C%E8%BD%AE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [林孝埈内道一过三](https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%9D%E5%9F%88%E5%86%85%E9%81%93%E4%B8%80%E8%BF%87%E4%B8%89&t=31&band_rank=9&Refer=top)<br />
+7. [日本将启动第二轮核污染水排海](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E5%90%AF%E5%8A%A8%E7%AC%AC%E4%BA%8C%E8%BD%AE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%23&t=31&band_rank=7&Refer=top)<br />
+8. [林孝埈内道一过三](https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%9D%E5%9F%88%E5%86%85%E9%81%93%E4%B8%80%E8%BF%87%E4%B8%89&t=31&band_rank=8&Refer=top)<br />
+9. [考研读研 人生选择](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E8%AF%BB%E7%A0%94%20%E4%BA%BA%E7%94%9F%E9%80%89%E6%8B%A9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
