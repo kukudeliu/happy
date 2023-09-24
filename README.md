@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 10:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 10:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [太快了！中国队1小时5金入账](https://www.baidu.com/s?wd=%E5%A4%AA%E5%BF%AB%E4%BA%86%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%98%9F1%E5%B0%8F%E6%97%B65%E9%87%91%E5%85%A5%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国姐妹花甩第2名近10秒](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A7%90%E5%A6%B9%E8%8A%B1%E7%94%A9%E7%AC%AC2%E5%90%8D%E8%BF%9110%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一个月给儿子办3次婚宴收66万礼金](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9C%88%E7%BB%99%E5%84%BF%E5%AD%90%E5%8A%9E3%E6%AC%A1%E5%A9%9A%E5%AE%B4%E6%94%B666%E4%B8%87%E7%A4%BC%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“00后”射击天团破亚洲纪录摘金](https://www.baidu.com/s?wd=%E2%80%9C00%E5%90%8E%E2%80%9D%E5%B0%84%E5%87%BB%E5%A4%A9%E5%9B%A2%E7%A0%B4%E4%BA%9A%E6%B4%B2%E7%BA%AA%E5%BD%95%E6%91%98%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [开幕式唱歌的四个帅哥是谁](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%95%E5%BC%8F%E5%94%B1%E6%AD%8C%E7%9A%84%E5%9B%9B%E4%B8%AA%E5%B8%85%E5%93%A5%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [加速包能优先买火车票？不实](https://www.baidu.com/s?wd=%E5%8A%A0%E9%80%9F%E5%8C%85%E8%83%BD%E4%BC%98%E5%85%88%E4%B9%B0%E7%81%AB%E8%BD%A6%E7%A5%A8%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [太快了！中国队1小时5金入账](https://www.baidu.com/s?wd=%E5%A4%AA%E5%BF%AB%E4%BA%86%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%98%9F1%E5%B0%8F%E6%97%B65%E9%87%91%E5%85%A5%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国姐妹花甩第2名近10秒](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A7%90%E5%A6%B9%E8%8A%B1%E7%94%A9%E7%AC%AC2%E5%90%8D%E8%BF%9110%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一个月给儿子办3次婚宴收66万礼金](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%9C%88%E7%BB%99%E5%84%BF%E5%AD%90%E5%8A%9E3%E6%AC%A1%E5%A9%9A%E5%AE%B4%E6%94%B666%E4%B8%87%E7%A4%BC%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“00后”射击天团破亚洲纪录摘金](https://www.baidu.com/s?wd=%E2%80%9C00%E5%90%8E%E2%80%9D%E5%B0%84%E5%87%BB%E5%A4%A9%E5%9B%A2%E7%A0%B4%E4%BA%9A%E6%B4%B2%E7%BA%AA%E5%BD%95%E6%91%98%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [开幕式唱歌的四个帅哥是谁](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%95%E5%BC%8F%E5%94%B1%E6%AD%8C%E7%9A%84%E5%9B%9B%E4%B8%AA%E5%B8%85%E5%93%A5%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [加速包能优先买火车票？不实](https://www.baidu.com/s?wd=%E5%8A%A0%E9%80%9F%E5%8C%85%E8%83%BD%E4%BC%98%E5%85%88%E4%B9%B0%E7%81%AB%E8%BD%A6%E7%A5%A8%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
