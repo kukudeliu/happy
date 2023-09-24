@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 23:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-24 23:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白敬亭老约范丞丞打球](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%80%81%E7%BA%A6%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%89%93%E7%90%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本男团0比3伊朗男团](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%9B%A20%E6%AF%943%E4%BC%8A%E6%9C%97%E7%94%B7%E5%9B%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [国足亚运队0比0孟加拉国](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%BA%9A%E8%BF%90%E9%98%9F0%E6%AF%940%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%9B%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国女排3比1塞尔维亚女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E6%AF%941%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E5%A5%B3%E6%8E%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [今晚国歌是我的单曲循环](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%9A%E5%9B%BD%E6%AD%8C%E6%98%AF%E6%88%91%E7%9A%84%E5%8D%95%E6%9B%B2%E5%BE%AA%E7%8E%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
