@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 10:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 10:49:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [伊朗教练称击败日本是历史性一刻](https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%95%99%E7%BB%83%E7%A7%B0%E5%87%BB%E8%B4%A5%E6%97%A5%E6%9C%AC%E6%98%AF%E5%8E%86%E5%8F%B2%E6%80%A7%E4%B8%80%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孩子扎堆玩“萝卜刀”引担忧](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E6%89%8E%E5%A0%86%E7%8E%A9%E2%80%9C%E8%90%9D%E5%8D%9C%E5%88%80%E2%80%9D%E5%BC%95%E6%8B%85%E5%BF%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [刘学州家属要求网暴大V公开道歉](https://www.baidu.com/s?wd=%E5%88%98%E5%AD%A6%E5%B7%9E%E5%AE%B6%E5%B1%9E%E8%A6%81%E6%B1%82%E7%BD%91%E6%9A%B4%E5%A4%A7V%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：伊朗乒乓球队拥有魔法秘笈](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%BC%8A%E6%9C%97%E4%B9%92%E4%B9%93%E7%90%83%E9%98%9F%E6%8B%A5%E6%9C%89%E9%AD%94%E6%B3%95%E7%A7%98%E7%AC%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [34岁初中老师重新高考转学口腔医学](https://www.baidu.com/s?wd=34%E5%B2%81%E5%88%9D%E4%B8%AD%E8%80%81%E5%B8%88%E9%87%8D%E6%96%B0%E9%AB%98%E8%80%83%E8%BD%AC%E5%AD%A6%E5%8F%A3%E8%85%94%E5%8C%BB%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣江西一小区发生分尸案](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E5%88%86%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [伊朗教练称击败日本是历史性一刻](https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%95%99%E7%BB%83%E7%A7%B0%E5%87%BB%E8%B4%A5%E6%97%A5%E6%9C%AC%E6%98%AF%E5%8E%86%E5%8F%B2%E6%80%A7%E4%B8%80%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孩子扎堆玩“萝卜刀”引担忧](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E6%89%8E%E5%A0%86%E7%8E%A9%E2%80%9C%E8%90%9D%E5%8D%9C%E5%88%80%E2%80%9D%E5%BC%95%E6%8B%85%E5%BF%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [刘学州家属要求网暴大V公开道歉](https://www.baidu.com/s?wd=%E5%88%98%E5%AD%A6%E5%B7%9E%E5%AE%B6%E5%B1%9E%E8%A6%81%E6%B1%82%E7%BD%91%E6%9A%B4%E5%A4%A7V%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：伊朗乒乓球队拥有魔法秘笈](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%BC%8A%E6%9C%97%E4%B9%92%E4%B9%93%E7%90%83%E9%98%9F%E6%8B%A5%E6%9C%89%E9%AD%94%E6%B3%95%E7%A7%98%E7%AC%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [34岁初中老师重新高考转学口腔医学](https://www.baidu.com/s?wd=34%E5%B2%81%E5%88%9D%E4%B8%AD%E8%80%81%E5%B8%88%E9%87%8D%E6%96%B0%E9%AB%98%E8%80%83%E8%BD%AC%E5%AD%A6%E5%8F%A3%E8%85%94%E5%8C%BB%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣江西一小区发生分尸案](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E5%88%86%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
