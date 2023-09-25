@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 22:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 22:02:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈凯歌又来拉朱一龙了](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%87%AF%E6%AD%8C%E5%8F%88%E6%9D%A5%E6%8B%89%E6%9C%B1%E4%B8%80%E9%BE%99%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [叶诗文时隔9年再战亚运摘银](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E8%AF%97%E6%96%87%E6%97%B6%E9%9A%949%E5%B9%B4%E5%86%8D%E6%88%98%E4%BA%9A%E8%BF%90%E6%91%98%E9%93%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [奚梦瑶晒何猷君表情包](https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E6%99%92%E4%BD%95%E7%8C%B7%E5%90%9B%E8%A1%A8%E6%83%85%E5%8C%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩国球员爆冷输球拒绝握手](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%90%83%E5%91%98%E7%88%86%E5%86%B7%E8%BE%93%E7%90%83%E6%8B%92%E7%BB%9D%E6%8F%A1%E6%89%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国剑客绝杀日本跪地怒吼](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%89%91%E5%AE%A2%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC%E8%B7%AA%E5%9C%B0%E6%80%92%E5%90%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
