@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 10:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 10:09:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [汪顺 说我不行的人看这个成绩还行吗](https://s.weibo.com/weibo?q=%E6%B1%AA%E9%A1%BA%20%E8%AF%B4%E6%88%91%E4%B8%8D%E8%A1%8C%E7%9A%84%E4%BA%BA%E7%9C%8B%E8%BF%99%E4%B8%AA%E6%88%90%E7%BB%A9%E8%BF%98%E8%A1%8C%E5%90%97&t=31&band_rank=6&Refer=top)<br />
 7. [英雄联盟](https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&t=31&band_rank=7&Refer=top)<br />
 8. [马斯克不断公开恳求名人推特发帖](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8D%E6%96%AD%E5%85%AC%E5%BC%80%E6%81%B3%E6%B1%82%E5%90%8D%E4%BA%BA%E6%8E%A8%E7%89%B9%E5%8F%91%E5%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [女生花7000元看周杰伦演唱会忘带票](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%8A%B17000%E5%85%83%E7%9C%8B%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BF%98%E5%B8%A6%E7%A5%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [低血糖发作时有多尴尬](https://s.weibo.com/weibo?q=%E4%BD%8E%E8%A1%80%E7%B3%96%E5%8F%91%E4%BD%9C%E6%97%B6%E6%9C%89%E5%A4%9A%E5%B0%B4%E5%B0%AC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [伊朗教练称击败日本是历史性一刻](https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%95%99%E7%BB%83%E7%A7%B0%E5%87%BB%E8%B4%A5%E6%97%A5%E6%9C%AC%E6%98%AF%E5%8E%86%E5%8F%B2%E6%80%A7%E4%B8%80%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [亚运会今日将产生38枚金牌](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%BB%8A%E6%97%A5%E5%B0%86%E4%BA%A7%E7%94%9F38%E6%9E%9A%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [外国运动员逛市场开口就对半砍价](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E9%80%9B%E5%B8%82%E5%9C%BA%E5%BC%80%E5%8F%A3%E5%B0%B1%E5%AF%B9%E5%8D%8A%E7%A0%8D%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国台北队“亚运百金”到手](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E9%98%9F%E2%80%9C%E4%BA%9A%E8%BF%90%E7%99%BE%E9%87%91%E2%80%9D%E5%88%B0%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孩子扎堆玩“萝卜刀”引担忧](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E6%89%8E%E5%A0%86%E7%8E%A9%E2%80%9C%E8%90%9D%E5%8D%9C%E5%88%80%E2%80%9D%E5%BC%95%E6%8B%85%E5%BF%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣江西一小区发生分尸案](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E5%88%86%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [伊朗教练称击败日本是历史性一刻](https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%95%99%E7%BB%83%E7%A7%B0%E5%87%BB%E8%B4%A5%E6%97%A5%E6%9C%AC%E6%98%AF%E5%8E%86%E5%8F%B2%E6%80%A7%E4%B8%80%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [亚运会今日将产生38枚金牌](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%BB%8A%E6%97%A5%E5%B0%86%E4%BA%A7%E7%94%9F38%E6%9E%9A%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [外国运动员逛市场开口就对半砍价](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E9%80%9B%E5%B8%82%E5%9C%BA%E5%BC%80%E5%8F%A3%E5%B0%B1%E5%AF%B9%E5%8D%8A%E7%A0%8D%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国台北队“亚运百金”到手](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E9%98%9F%E2%80%9C%E4%BA%9A%E8%BF%90%E7%99%BE%E9%87%91%E2%80%9D%E5%88%B0%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孩子扎堆玩“萝卜刀”引担忧](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E6%89%8E%E5%A0%86%E7%8E%A9%E2%80%9C%E8%90%9D%E5%8D%9C%E5%88%80%E2%80%9D%E5%BC%95%E6%8B%85%E5%BF%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣江西一小区发生分尸案](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E5%88%86%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
