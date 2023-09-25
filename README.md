@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 19:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 19:08:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩国球员爆冷输球拒绝握手](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%90%83%E5%91%98%E7%88%86%E5%86%B7%E8%BE%93%E7%90%83%E6%8B%92%E7%BB%9D%E6%8F%A1%E6%89%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [女交警指挥交通举手投足让人安全感满满](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%BA%A4%E8%AD%A6%E6%8C%87%E6%8C%A5%E4%BA%A4%E9%80%9A%E4%B8%BE%E6%89%8B%E6%8A%95%E8%B6%B3%E8%AE%A9%E4%BA%BA%E5%AE%89%E5%85%A8%E6%84%9F%E6%BB%A1%E6%BB%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈梦11比0国乒全员憋笑失败](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A611%E6%AF%940%E5%9B%BD%E4%B9%92%E5%85%A8%E5%91%98%E6%86%8B%E7%AC%91%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [张小斐看张嘉倪的眼神](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%E7%9C%8B%E5%BC%A0%E5%98%89%E5%80%AA%E7%9A%84%E7%9C%BC%E7%A5%9E&t=31&band_rank=9&Refer=top)<br />
+9. [洁柔写信感谢取消10元6箱订单顾客](https://s.weibo.com/weibo?q=%23%E6%B4%81%E6%9F%94%E5%86%99%E4%BF%A1%E6%84%9F%E8%B0%A2%E5%8F%96%E6%B6%8810%E5%85%836%E7%AE%B1%E8%AE%A2%E5%8D%95%E9%A1%BE%E5%AE%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
