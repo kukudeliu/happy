@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 01:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 01:52:01</h4></div>
 
 > 微博  
 
-1. [整场演唱会最该买票的是伍佰](https://s.weibo.com/weibo?q=%E6%95%B4%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%80%E8%AF%A5%E4%B9%B0%E7%A5%A8%E7%9A%84%E6%98%AF%E4%BC%8D%E4%BD%B0&t=31&band_rank=1&Refer=top)<br />
-2. [华为回应充电器不支持iPhone15](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%9B%9E%E5%BA%94%E5%85%85%E7%94%B5%E5%99%A8%E4%B8%8D%E6%94%AF%E6%8C%81iPhone15%23&t=31&band_rank=2&Refer=top)<br />
+1. [华为回应充电器不支持iPhone15](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%9B%9E%E5%BA%94%E5%85%85%E7%94%B5%E5%99%A8%E4%B8%8D%E6%94%AF%E6%8C%81iPhone15%23&t=31&band_rank=1&Refer=top)<br />
+2. [整场演唱会最该买票的是伍佰](https://s.weibo.com/weibo?q=%E6%95%B4%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%80%E8%AF%A5%E4%B9%B0%E7%A5%A8%E7%9A%84%E6%98%AF%E4%BC%8D%E4%BD%B0&t=31&band_rank=2&Refer=top)<br />
 3. [一起看亚运](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E7%9C%8B%E4%BA%9A%E8%BF%90%23&t=31&band_rank=3&Refer=top)<br />
 4. [学生刺杀操失误给领导吓一身汗](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%88%BA%E6%9D%80%E6%93%8D%E5%A4%B1%E8%AF%AF%E7%BB%99%E9%A2%86%E5%AF%BC%E5%90%93%E4%B8%80%E8%BA%AB%E6%B1%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [女明星第一次去欧美时装周看秀造型图](https://s.weibo.com/weibo?q=%E5%A5%B3%E6%98%8E%E6%98%9F%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8E%BB%E6%AC%A7%E7%BE%8E%E6%97%B6%E8%A3%85%E5%91%A8%E7%9C%8B%E7%A7%80%E9%80%A0%E5%9E%8B%E5%9B%BE&t=31&band_rank=5&Refer=top)<br />
