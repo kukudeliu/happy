@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 17:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 17:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩庚一口气吃了九两面](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%BA%9A%E4%B8%80%E5%8F%A3%E6%B0%94%E5%90%83%E4%BA%86%E4%B9%9D%E4%B8%A4%E9%9D%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [张小斐看张嘉倪的眼神](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%E7%9C%8B%E5%BC%A0%E5%98%89%E5%80%AA%E7%9A%84%E7%9C%BC%E7%A5%9E&t=31&band_rank=7&Refer=top)<br />
 8. [B太回应删除花西子产品测评](https://s.weibo.com/weibo?q=%23B%E5%A4%AA%E5%9B%9E%E5%BA%94%E5%88%A0%E9%99%A4%E8%8A%B1%E8%A5%BF%E5%AD%90%E4%BA%A7%E5%93%81%E6%B5%8B%E8%AF%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [周杰伦 看来我要一直唱下去了](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E7%9C%8B%E6%9D%A5%E6%88%91%E8%A6%81%E4%B8%80%E7%9B%B4%E5%94%B1%E4%B8%8B%E5%8E%BB%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [加油声让男足中国台北队领队泪洒现场](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%B9%E5%A3%B0%E8%AE%A9%E7%94%B7%E8%B6%B3%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E9%98%9F%E9%A2%86%E9%98%9F%E6%B3%AA%E6%B4%92%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
