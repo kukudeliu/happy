@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 14:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 14:41:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [突然间全场爆发欢呼给马龙都整懵了](https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E9%97%B4%E5%85%A8%E5%9C%BA%E7%88%86%E5%8F%91%E6%AC%A2%E5%91%BC%E7%BB%99%E9%A9%AC%E9%BE%99%E9%83%BD%E6%95%B4%E6%87%B5%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [黄子诚被女友卖给间谍组织](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E8%AF%9A%E8%A2%AB%E5%A5%B3%E5%8F%8B%E5%8D%96%E7%BB%99%E9%97%B4%E8%B0%8D%E7%BB%84%E7%BB%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [家长花费50万为自闭症儿子经络重构](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E8%8A%B1%E8%B4%B950%E4%B8%87%E4%B8%BA%E8%87%AA%E9%97%AD%E7%97%87%E5%84%BF%E5%AD%90%E7%BB%8F%E7%BB%9C%E9%87%8D%E6%9E%84%23&t=31&band_rank=7&Refer=top)<br />
-8. [王者荣耀比赛](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%AF%94%E8%B5%9B&t=31&band_rank=8&Refer=top)<br />
-9. [女子用筋膜枪抢到林俊杰演唱会门票](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%A8%E7%AD%8B%E8%86%9C%E6%9E%AA%E6%8A%A2%E5%88%B0%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%23&t=31&band_rank=9&Refer=top)<br />
+8. [女子用筋膜枪抢到林俊杰演唱会门票](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%A8%E7%AD%8B%E8%86%9C%E6%9E%AA%E6%8A%A2%E5%88%B0%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [王者荣耀比赛](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%AF%94%E8%B5%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
