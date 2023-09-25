@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 23:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 23:19:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 3. [长沙一液化气站突发爆炸 火光冲天](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E6%B6%B2%E5%8C%96%E6%B0%94%E7%AB%99%E7%AA%81%E5%8F%91%E7%88%86%E7%82%B8+%E7%81%AB%E5%85%89%E5%86%B2%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [杭州亚运会有多智能](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%9C%89%E5%A4%9A%E6%99%BA%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [硕士论文研究“她为什么换了导师”](https://www.baidu.com/s?wd=%E7%A1%95%E5%A3%AB%E8%AE%BA%E6%96%87%E7%A0%94%E7%A9%B6%E2%80%9C%E5%A5%B9%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8D%A2%E4%BA%86%E5%AF%BC%E5%B8%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [90后女干部沉迷网赌细节曝光](https://www.baidu.com/s?wd=90%E5%90%8E%E5%A5%B3%E5%B9%B2%E9%83%A8%E6%B2%89%E8%BF%B7%E7%BD%91%E8%B5%8C%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [医院手术致多人伤残申请再审被驳回](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E6%89%8B%E6%9C%AF%E8%87%B4%E5%A4%9A%E4%BA%BA%E4%BC%A4%E6%AE%8B%E7%94%B3%E8%AF%B7%E5%86%8D%E5%AE%A1%E8%A2%AB%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [洁柔写信感谢取消10元6箱订单顾客](https://www.baidu.com/s?wd=%E6%B4%81%E6%9F%94%E5%86%99%E4%BF%A1%E6%84%9F%E8%B0%A2%E5%8F%96%E6%B6%8810%E5%85%836%E7%AE%B1%E8%AE%A2%E5%8D%95%E9%A1%BE%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [26岁女孩患上死臀综合征](https://www.baidu.com/s?wd=26%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%82%A3%E4%B8%8A%E6%AD%BB%E8%87%80%E7%BB%BC%E5%90%88%E5%BE%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [城管被指执法随心所欲 官方辟谣](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E8%A2%AB%E6%8C%87%E6%89%A7%E6%B3%95%E9%9A%8F%E5%BF%83%E6%89%80%E6%AC%B2+%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [长沙一液化气站突发爆炸 火光冲天](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E6%B6%B2%E5%8C%96%E6%B0%94%E7%AB%99%E7%AA%81%E5%8F%91%E7%88%86%E7%82%B8+%E7%81%AB%E5%85%89%E5%86%B2%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [杭州亚运会有多智能](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%9C%89%E5%A4%9A%E6%99%BA%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [硕士论文研究“她为什么换了导师”](https://www.baidu.com/s?wd=%E7%A1%95%E5%A3%AB%E8%AE%BA%E6%96%87%E7%A0%94%E7%A9%B6%E2%80%9C%E5%A5%B9%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8D%A2%E4%BA%86%E5%AF%BC%E5%B8%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [90后女干部沉迷网赌细节曝光](https://www.baidu.com/s?wd=90%E5%90%8E%E5%A5%B3%E5%B9%B2%E9%83%A8%E6%B2%89%E8%BF%B7%E7%BD%91%E8%B5%8C%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [医院手术致多人伤残申请再审被驳回](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E6%89%8B%E6%9C%AF%E8%87%B4%E5%A4%9A%E4%BA%BA%E4%BC%A4%E6%AE%8B%E7%94%B3%E8%AF%B7%E5%86%8D%E5%AE%A1%E8%A2%AB%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [洁柔写信感谢取消10元6箱订单顾客](https://www.baidu.com/s?wd=%E6%B4%81%E6%9F%94%E5%86%99%E4%BF%A1%E6%84%9F%E8%B0%A2%E5%8F%96%E6%B6%8810%E5%85%836%E7%AE%B1%E8%AE%A2%E5%8D%95%E9%A1%BE%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [26岁女孩患上死臀综合征](https://www.baidu.com/s?wd=26%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%82%A3%E4%B8%8A%E6%AD%BB%E8%87%80%E7%BB%BC%E5%90%88%E5%BE%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [城管被指执法随心所欲 官方辟谣](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E8%A2%AB%E6%8C%87%E6%89%A7%E6%B3%95%E9%9A%8F%E5%BF%83%E6%89%80%E6%AC%B2+%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
