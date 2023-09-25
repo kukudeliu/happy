@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 00:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 00:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [长相思第二季能预约了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E8%83%BD%E9%A2%84%E7%BA%A6%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [张嘉倪每句台词都扎在恋爱脑心上](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AA%E6%AF%8F%E5%8F%A5%E5%8F%B0%E8%AF%8D%E9%83%BD%E6%89%8E%E5%9C%A8%E6%81%8B%E7%88%B1%E8%84%91%E5%BF%83%E4%B8%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [郑恺回应把前任拍成铁饭碗](https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E5%9B%9E%E5%BA%94%E6%8A%8A%E5%89%8D%E4%BB%BB%E6%8B%8D%E6%88%90%E9%93%81%E9%A5%AD%E7%A2%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [这么小的世界冠军头一次见](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B9%88%E5%B0%8F%E7%9A%84%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E5%A4%B4%E4%B8%80%E6%AC%A1%E8%A7%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [洁柔写信感谢取消10元6箱订单顾客](https://s.weibo.com/weibo?q=%23%E6%B4%81%E6%9F%94%E5%86%99%E4%BF%A1%E6%84%9F%E8%B0%A2%E5%8F%96%E6%B6%8810%E5%85%836%E7%AE%B1%E8%AE%A2%E5%8D%95%E9%A1%BE%E5%AE%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
