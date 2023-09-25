@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 11:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 11:32:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [很多女爱豆被大白脸韩妆耽误了](https://s.weibo.com/weibo?q=%E5%BE%88%E5%A4%9A%E5%A5%B3%E7%88%B1%E8%B1%86%E8%A2%AB%E5%A4%A7%E7%99%BD%E8%84%B8%E9%9F%A9%E5%A6%86%E8%80%BD%E8%AF%AF%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [封神训练营定档](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E8%AE%AD%E7%BB%83%E8%90%A5%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [你的血管里流的不一定是血](https://s.weibo.com/weibo?q=%E4%BD%A0%E7%9A%84%E8%A1%80%E7%AE%A1%E9%87%8C%E6%B5%81%E7%9A%84%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%98%AF%E8%A1%80&t=31&band_rank=6&Refer=top)<br />
-7. [韩国队战胜中国香港队](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%98%9F%E6%88%98%E8%83%9C%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E9%98%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [宁泽涛](https://s.weibo.com/weibo?q=%E5%AE%81%E6%B3%BD%E6%B6%9B&t=31&band_rank=8&Refer=top)<br />
-9. [低血糖发作时有多尴尬](https://s.weibo.com/weibo?q=%E4%BD%8E%E8%A1%80%E7%B3%96%E5%8F%91%E4%BD%9C%E6%97%B6%E6%9C%89%E5%A4%9A%E5%B0%B4%E5%B0%AC&t=31&band_rank=9&Refer=top)<br />
+7. [低血糖发作时有多尴尬](https://s.weibo.com/weibo?q=%E4%BD%8E%E8%A1%80%E7%B3%96%E5%8F%91%E4%BD%9C%E6%97%B6%E6%9C%89%E5%A4%9A%E5%B0%B4%E5%B0%AC&t=31&band_rank=7&Refer=top)<br />
+8. [韩国队战胜中国香港队](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%98%9F%E6%88%98%E8%83%9C%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E9%98%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [宁泽涛](https://s.weibo.com/weibo?q=%E5%AE%81%E6%B3%BD%E6%B6%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
