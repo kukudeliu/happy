@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 07:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 07:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [辽宁阜新女子被碎尸案告破](https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E9%98%9C%E6%96%B0%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%A2%8E%E5%B0%B8%E6%A1%88%E5%91%8A%E7%A0%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [张嘉倪每句台词都扎在恋爱脑心上](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AA%E6%AF%8F%E5%8F%A5%E5%8F%B0%E8%AF%8D%E9%83%BD%E6%89%8E%E5%9C%A8%E6%81%8B%E7%88%B1%E8%84%91%E5%BF%83%E4%B8%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [女明星第一次去欧美时装周看秀造型图](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%98%8E%E6%98%9F%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8E%BB%E6%AC%A7%E7%BE%8E%E6%97%B6%E8%A3%85%E5%91%A8%E7%9C%8B%E7%A7%80%E9%80%A0%E5%9E%8B%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [班主任没上课时是亚运会火炬手](https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%B2%A1%E4%B8%8A%E8%AF%BE%E6%97%B6%E6%98%AF%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E6%89%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [长相思第二季能预约了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E8%83%BD%E9%A2%84%E7%BA%A6%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
