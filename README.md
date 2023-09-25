@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 14:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 14:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黄子诚被女友卖给间谍组织](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E8%AF%9A%E8%A2%AB%E5%A5%B3%E5%8F%8B%E5%8D%96%E7%BB%99%E9%97%B4%E8%B0%8D%E7%BB%84%E7%BB%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [家长花费50万为自闭症儿子经络重构](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E8%8A%B1%E8%B4%B950%E4%B8%87%E4%B8%BA%E8%87%AA%E9%97%AD%E7%97%87%E5%84%BF%E5%AD%90%E7%BB%8F%E7%BB%9C%E9%87%8D%E6%9E%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子用筋膜枪抢到林俊杰演唱会门票](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%A8%E7%AD%8B%E8%86%9C%E6%9E%AA%E6%8A%A2%E5%88%B0%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [18岁中国小将破世界纪录夺冠](https://s.weibo.com/weibo?q=%2318%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%B0%86%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E5%A4%BA%E5%86%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [王者荣耀比赛](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%AF%94%E8%B5%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
