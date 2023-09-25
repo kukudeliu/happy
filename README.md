@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 12:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 12:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [封神训练营定档](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E8%AE%AD%E7%BB%83%E8%90%A5%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [你的血管里流的不一定是血](https://s.weibo.com/weibo?q=%E4%BD%A0%E7%9A%84%E8%A1%80%E7%AE%A1%E9%87%8C%E6%B5%81%E7%9A%84%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%98%AF%E8%A1%80&t=31&band_rank=7&Refer=top)<br />
 8. [北京一火锅店销毁2吨临期羊蝎子](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E7%81%AB%E9%94%85%E5%BA%97%E9%94%80%E6%AF%812%E5%90%A8%E4%B8%B4%E6%9C%9F%E7%BE%8A%E8%9D%8E%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [低血糖发作时有多尴尬](https://s.weibo.com/weibo?q=%E4%BD%8E%E8%A1%80%E7%B3%96%E5%8F%91%E4%BD%9C%E6%97%B6%E6%9C%89%E5%A4%9A%E5%B0%B4%E5%B0%AC&t=31&band_rank=9&Refer=top)<br />
+9. [上半年A股股民人均盈利3.91万元](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8D%8A%E5%B9%B4A%E8%82%A1%E8%82%A1%E6%B0%91%E4%BA%BA%E5%9D%87%E7%9B%88%E5%88%A93.91%E4%B8%87%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
