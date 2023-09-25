@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 01:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 01:09:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [汪顺被问颜值笑出褶子](https://www.baidu.com/s?wd=%E6%B1%AA%E9%A1%BA%E8%A2%AB%E9%97%AE%E9%A2%9C%E5%80%BC%E7%AC%91%E5%87%BA%E8%A4%B6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [杭州亚运会有多智能](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%9C%89%E5%A4%9A%E6%99%BA%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [硕士论文研究“她为什么换了导师”](https://www.baidu.com/s?wd=%E7%A1%95%E5%A3%AB%E8%AE%BA%E6%96%87%E7%A0%94%E7%A9%B6%E2%80%9C%E5%A5%B9%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8D%A2%E4%BA%86%E5%AF%BC%E5%B8%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [济南国资平台甩卖1341套现房](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E5%9B%BD%E8%B5%84%E5%B9%B3%E5%8F%B0%E7%94%A9%E5%8D%961341%E5%A5%97%E7%8E%B0%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子潜水嫌不过瘾绑铅球沉入海底](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%BD%9C%E6%B0%B4%E5%AB%8C%E4%B8%8D%E8%BF%87%E7%98%BE%E7%BB%91%E9%93%85%E7%90%83%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国前总统卡特罕见公开露面](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%E5%8D%A1%E7%89%B9%E7%BD%95%E8%A7%81%E5%85%AC%E5%BC%80%E9%9C%B2%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子潜水嫌不过瘾绑铅球沉入海底](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%BD%9C%E6%B0%B4%E5%AB%8C%E4%B8%8D%E8%BF%87%E7%98%BE%E7%BB%91%E9%93%85%E7%90%83%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [洁柔写信感谢取消10元6箱订单顾客](https://www.baidu.com/s?wd=%E6%B4%81%E6%9F%94%E5%86%99%E4%BF%A1%E6%84%9F%E8%B0%A2%E5%8F%96%E6%B6%8810%E5%85%836%E7%AE%B1%E8%AE%A2%E5%8D%95%E9%A1%BE%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家谈萝卜刀在中小学周边热销](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E8%90%9D%E5%8D%9C%E5%88%80%E5%9C%A8%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%91%A8%E8%BE%B9%E7%83%AD%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [城管被指执法随心所欲 官方辟谣](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E8%A2%AB%E6%8C%87%E6%89%A7%E6%B3%95%E9%9A%8F%E5%BF%83%E6%89%80%E6%AC%B2+%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [汪顺被问颜值笑出褶子](https://www.baidu.com/s?wd=%E6%B1%AA%E9%A1%BA%E8%A2%AB%E9%97%AE%E9%A2%9C%E5%80%BC%E7%AC%91%E5%87%BA%E8%A4%B6%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [杭州亚运会有多智能](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%9C%89%E5%A4%9A%E6%99%BA%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [硕士论文研究“她为什么换了导师”](https://www.baidu.com/s?wd=%E7%A1%95%E5%A3%AB%E8%AE%BA%E6%96%87%E7%A0%94%E7%A9%B6%E2%80%9C%E5%A5%B9%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8D%A2%E4%BA%86%E5%AF%BC%E5%B8%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [济南国资平台甩卖1341套现房](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E5%9B%BD%E8%B5%84%E5%B9%B3%E5%8F%B0%E7%94%A9%E5%8D%961341%E5%A5%97%E7%8E%B0%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子潜水嫌不过瘾绑铅球沉入海底](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%BD%9C%E6%B0%B4%E5%AB%8C%E4%B8%8D%E8%BF%87%E7%98%BE%E7%BB%91%E9%93%85%E7%90%83%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国前总统卡特罕见公开露面](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%E5%8D%A1%E7%89%B9%E7%BD%95%E8%A7%81%E5%85%AC%E5%BC%80%E9%9C%B2%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子潜水嫌不过瘾绑铅球沉入海底](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%BD%9C%E6%B0%B4%E5%AB%8C%E4%B8%8D%E8%BF%87%E7%98%BE%E7%BB%91%E9%93%85%E7%90%83%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [洁柔写信感谢取消10元6箱订单顾客](https://www.baidu.com/s?wd=%E6%B4%81%E6%9F%94%E5%86%99%E4%BF%A1%E6%84%9F%E8%B0%A2%E5%8F%96%E6%B6%8810%E5%85%836%E7%AE%B1%E8%AE%A2%E5%8D%95%E9%A1%BE%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家谈萝卜刀在中小学周边热销](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E8%90%9D%E5%8D%9C%E5%88%80%E5%9C%A8%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%91%A8%E8%BE%B9%E7%83%AD%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [城管被指执法随心所欲 官方辟谣](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E8%A2%AB%E6%8C%87%E6%89%A7%E6%B3%95%E9%9A%8F%E5%BF%83%E6%89%80%E6%AC%B2+%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
