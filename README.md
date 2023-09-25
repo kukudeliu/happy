@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 09:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 09:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [马斯克不断公开恳求名人推特发帖](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8D%E6%96%AD%E5%85%AC%E5%BC%80%E6%81%B3%E6%B1%82%E5%90%8D%E4%BA%BA%E6%8E%A8%E7%89%B9%E5%8F%91%E5%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴巴黎时装周](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8&t=31&band_rank=7&Refer=top)<br />
 8. [沈腾吐槽金晨一步一亮相](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%90%90%E6%A7%BD%E9%87%91%E6%99%A8%E4%B8%80%E6%AD%A5%E4%B8%80%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [女生花7000元看周杰伦演唱会忘带票](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%8A%B17000%E5%85%83%E7%9C%8B%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BF%98%E5%B8%A6%E7%A5%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [王牌对王牌](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
