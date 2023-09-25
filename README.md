@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 19:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 19:38:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [加入“灵修” 他们从裸辞到负债百万](https://www.baidu.com/s?wd=%E5%8A%A0%E5%85%A5%E2%80%9C%E7%81%B5%E4%BF%AE%E2%80%9D+%E4%BB%96%E4%BB%AC%E4%BB%8E%E8%A3%B8%E8%BE%9E%E5%88%B0%E8%B4%9F%E5%80%BA%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孙艺洲回应爱情公寓全员黑化](https://www.baidu.com/s?wd=%E5%AD%99%E8%89%BA%E6%B4%B2%E5%9B%9E%E5%BA%94%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E5%85%A8%E5%91%98%E9%BB%91%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男版香妃 游客引来蝴蝶落满身](https://www.baidu.com/s?wd=%E7%94%B7%E7%89%88%E9%A6%99%E5%A6%83+%E6%B8%B8%E5%AE%A2%E5%BC%95%E6%9D%A5%E8%9D%B4%E8%9D%B6%E8%90%BD%E6%BB%A1%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [时隔27年 辽宁阜新碎尸案告破](https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%9427%E5%B9%B4+%E8%BE%BD%E5%AE%81%E9%98%9C%E6%96%B0%E7%A2%8E%E5%B0%B8%E6%A1%88%E5%91%8A%E7%A0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家谈萝卜刀在中小学周边热销](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E8%90%9D%E5%8D%9C%E5%88%80%E5%9C%A8%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%91%A8%E8%BE%B9%E7%83%AD%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [城管被指执法随心所欲 官方辟谣](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E8%A2%AB%E6%8C%87%E6%89%A7%E6%B3%95%E9%9A%8F%E5%BF%83%E6%89%80%E6%AC%B2+%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [加入“灵修” 他们从裸辞到负债百万](https://www.baidu.com/s?wd=%E5%8A%A0%E5%85%A5%E2%80%9C%E7%81%B5%E4%BF%AE%E2%80%9D+%E4%BB%96%E4%BB%AC%E4%BB%8E%E8%A3%B8%E8%BE%9E%E5%88%B0%E8%B4%9F%E5%80%BA%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孙艺洲回应爱情公寓全员黑化](https://www.baidu.com/s?wd=%E5%AD%99%E8%89%BA%E6%B4%B2%E5%9B%9E%E5%BA%94%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E5%85%A8%E5%91%98%E9%BB%91%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男版香妃 游客引来蝴蝶落满身](https://www.baidu.com/s?wd=%E7%94%B7%E7%89%88%E9%A6%99%E5%A6%83+%E6%B8%B8%E5%AE%A2%E5%BC%95%E6%9D%A5%E8%9D%B4%E8%9D%B6%E8%90%BD%E6%BB%A1%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [时隔27年 辽宁阜新碎尸案告破](https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%9427%E5%B9%B4+%E8%BE%BD%E5%AE%81%E9%98%9C%E6%96%B0%E7%A2%8E%E5%B0%B8%E6%A1%88%E5%91%8A%E7%A0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家谈萝卜刀在中小学周边热销](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E8%90%9D%E5%8D%9C%E5%88%80%E5%9C%A8%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%91%A8%E8%BE%B9%E7%83%AD%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [城管被指执法随心所欲 官方辟谣](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E8%A2%AB%E6%8C%87%E6%89%A7%E6%B3%95%E9%9A%8F%E5%BF%83%E6%89%80%E6%AC%B2+%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
