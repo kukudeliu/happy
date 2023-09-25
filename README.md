@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 11:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 11:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [伊朗教练称击败日本是历史性一刻](https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%95%99%E7%BB%83%E7%A7%B0%E5%87%BB%E8%B4%A5%E6%97%A5%E6%9C%AC%E6%98%AF%E5%8E%86%E5%8F%B2%E6%80%A7%E4%B8%80%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孩子扎堆玩“萝卜刀”引担忧](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E6%89%8E%E5%A0%86%E7%8E%A9%E2%80%9C%E8%90%9D%E5%8D%9C%E5%88%80%E2%80%9D%E5%BC%95%E6%8B%85%E5%BF%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [《再见爱人》情感导师被曝性侵](https://www.baidu.com/s?wd=%E3%80%8A%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%E3%80%8B%E6%83%85%E6%84%9F%E5%AF%BC%E5%B8%88%E8%A2%AB%E6%9B%9D%E6%80%A7%E4%BE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [亚运赛场观众自发人浪太嗨了](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA%E8%A7%82%E4%BC%97%E8%87%AA%E5%8F%91%E4%BA%BA%E6%B5%AA%E5%A4%AA%E5%97%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [法媒：机器人“接管”杭州亚运会](https://www.baidu.com/s?wd=%E6%B3%95%E5%AA%92%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E6%8E%A5%E7%AE%A1%E2%80%9D%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣江西一小区发生分尸案](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E5%88%86%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [伊朗教练称击败日本是历史性一刻](https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%95%99%E7%BB%83%E7%A7%B0%E5%87%BB%E8%B4%A5%E6%97%A5%E6%9C%AC%E6%98%AF%E5%8E%86%E5%8F%B2%E6%80%A7%E4%B8%80%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孩子扎堆玩“萝卜刀”引担忧](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E6%89%8E%E5%A0%86%E7%8E%A9%E2%80%9C%E8%90%9D%E5%8D%9C%E5%88%80%E2%80%9D%E5%BC%95%E6%8B%85%E5%BF%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [《再见爱人》情感导师被曝性侵](https://www.baidu.com/s?wd=%E3%80%8A%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%E3%80%8B%E6%83%85%E6%84%9F%E5%AF%BC%E5%B8%88%E8%A2%AB%E6%9B%9D%E6%80%A7%E4%BE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [亚运赛场观众自发人浪太嗨了](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA%E8%A7%82%E4%BC%97%E8%87%AA%E5%8F%91%E4%BA%BA%E6%B5%AA%E5%A4%AA%E5%97%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [法媒：机器人“接管”杭州亚运会](https://www.baidu.com/s?wd=%E6%B3%95%E5%AA%92%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E6%8E%A5%E7%AE%A1%E2%80%9D%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣江西一小区发生分尸案](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E5%88%86%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
