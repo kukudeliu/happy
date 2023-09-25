@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 18:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 18:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘德华 非凡大师](https://s.weibo.com/weibo?q=%E5%88%98%E5%BE%B7%E5%8D%8E%20%E9%9D%9E%E5%87%A1%E5%A4%A7%E5%B8%88&t=31&band_rank=6&Refer=top)<br />
 7. [丘索维金娜再战亚运](https://s.weibo.com/weibo?q=%23%E4%B8%98%E7%B4%A2%E7%BB%B4%E9%87%91%E5%A8%9C%E5%86%8D%E6%88%98%E4%BA%9A%E8%BF%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [华为发布会 不提手机](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A%20%E4%B8%8D%E6%8F%90%E6%89%8B%E6%9C%BA&t=31&band_rank=8&Refer=top)<br />
-9. [韩庚一口气吃了九两面](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%BA%9A%E4%B8%80%E5%8F%A3%E6%B0%94%E5%90%83%E4%BA%86%E4%B9%9D%E4%B8%A4%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
+9. [留学生 预制菜](https://s.weibo.com/weibo?q=%E7%95%99%E5%AD%A6%E7%94%9F%20%E9%A2%84%E5%88%B6%E8%8F%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
