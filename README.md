@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 19:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 19:42:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [加油声让男足中国台北队领队泪洒现场](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%B9%E5%A3%B0%E8%AE%A9%E7%94%B7%E8%B6%B3%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E9%98%9F%E9%A2%86%E9%98%9F%E6%B3%AA%E6%B4%92%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [韩国球员爆冷输球拒绝握手](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%90%83%E5%91%98%E7%88%86%E5%86%B7%E8%BE%93%E7%90%83%E6%8B%92%E7%BB%9D%E6%8F%A1%E6%89%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么这届亚运会非看不可](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E5%B1%8A%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%9D%9E%E7%9C%8B%E4%B8%8D%E5%8F%AF%23&t=31&band_rank=7&Refer=top)<br />
-8. [男版香妃](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%89%88%E9%A6%99%E5%A6%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [张小斐看张嘉倪的眼神](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%E7%9C%8B%E5%BC%A0%E5%98%89%E5%80%AA%E7%9A%84%E7%9C%BC%E7%A5%9E&t=31&band_rank=9&Refer=top)<br />
+8. [张小斐看张嘉倪的眼神](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%E7%9C%8B%E5%BC%A0%E5%98%89%E5%80%AA%E7%9A%84%E7%9C%BC%E7%A5%9E&t=31&band_rank=8&Refer=top)<br />
+9. [男版香妃](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%89%88%E9%A6%99%E5%A6%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [乌称俄黑海舰队司令死亡](https://www.baidu.com/s?wd=%E4%B9%8C%E7%A7%B0%E4%BF%84%E9%BB%91%E6%B5%B7%E8%88%B0%E9%98%9F%E5%8F%B8%E4%BB%A4%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孙艺洲回应爱情公寓全员黑化](https://www.baidu.com/s?wd=%E5%AD%99%E8%89%BA%E6%B4%B2%E5%9B%9E%E5%BA%94%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E5%85%A8%E5%91%98%E9%BB%91%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男版香妃 游客引来蝴蝶落满身](https://www.baidu.com/s?wd=%E7%94%B7%E7%89%88%E9%A6%99%E5%A6%83+%E6%B8%B8%E5%AE%A2%E5%BC%95%E6%9D%A5%E8%9D%B4%E8%9D%B6%E8%90%BD%E6%BB%A1%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [专家谈萝卜刀在中小学周边热销](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E8%90%9D%E5%8D%9C%E5%88%80%E5%9C%A8%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%91%A8%E8%BE%B9%E7%83%AD%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加入“灵修” 他们从裸辞到负债百万](https://www.baidu.com/s?wd=%E5%8A%A0%E5%85%A5%E2%80%9C%E7%81%B5%E4%BF%AE%E2%80%9D+%E4%BB%96%E4%BB%AC%E4%BB%8E%E8%A3%B8%E8%BE%9E%E5%88%B0%E8%B4%9F%E5%80%BA%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [城管被指执法随心所欲 官方辟谣](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E8%A2%AB%E6%8C%87%E6%89%A7%E6%B3%95%E9%9A%8F%E5%BF%83%E6%89%80%E6%AC%B2+%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [乌称俄黑海舰队司令死亡](https://www.baidu.com/s?wd=%E4%B9%8C%E7%A7%B0%E4%BF%84%E9%BB%91%E6%B5%B7%E8%88%B0%E9%98%9F%E5%8F%B8%E4%BB%A4%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孙艺洲回应爱情公寓全员黑化](https://www.baidu.com/s?wd=%E5%AD%99%E8%89%BA%E6%B4%B2%E5%9B%9E%E5%BA%94%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E5%85%A8%E5%91%98%E9%BB%91%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男版香妃 游客引来蝴蝶落满身](https://www.baidu.com/s?wd=%E7%94%B7%E7%89%88%E9%A6%99%E5%A6%83+%E6%B8%B8%E5%AE%A2%E5%BC%95%E6%9D%A5%E8%9D%B4%E8%9D%B6%E8%90%BD%E6%BB%A1%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [专家谈萝卜刀在中小学周边热销](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E8%90%9D%E5%8D%9C%E5%88%80%E5%9C%A8%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%91%A8%E8%BE%B9%E7%83%AD%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加入“灵修” 他们从裸辞到负债百万](https://www.baidu.com/s?wd=%E5%8A%A0%E5%85%A5%E2%80%9C%E7%81%B5%E4%BF%AE%E2%80%9D+%E4%BB%96%E4%BB%AC%E4%BB%8E%E8%A3%B8%E8%BE%9E%E5%88%B0%E8%B4%9F%E5%80%BA%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [城管被指执法随心所欲 官方辟谣](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E8%A2%AB%E6%8C%87%E6%89%A7%E6%B3%95%E9%9A%8F%E5%BF%83%E6%89%80%E6%AC%B2+%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
