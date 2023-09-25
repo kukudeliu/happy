@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 22:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 22:28:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国剑客绝杀日本跪地怒吼](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%89%91%E5%AE%A2%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC%E8%B7%AA%E5%9C%B0%E6%80%92%E5%90%BC%23&t=31&band_rank=6&Refer=top)<br />
 7. [丁程鑫不愧是拍过旋风少女的](https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E4%B8%8D%E6%84%A7%E6%98%AF%E6%8B%8D%E8%BF%87%E6%97%8B%E9%A3%8E%E5%B0%91%E5%A5%B3%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
 8. [魏大勋称清华学子未来的老板](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%A7%B0%E6%B8%85%E5%8D%8E%E5%AD%A6%E5%AD%90%E6%9C%AA%E6%9D%A5%E7%9A%84%E8%80%81%E6%9D%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [offer5实习生竟然是港姐](https://s.weibo.com/weibo?q=%23offer5%E5%AE%9E%E4%B9%A0%E7%94%9F%E7%AB%9F%E7%84%B6%E6%98%AF%E6%B8%AF%E5%A7%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [王楚钦 教练没有错信你](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%20%E6%95%99%E7%BB%83%E6%B2%A1%E6%9C%89%E9%94%99%E4%BF%A1%E4%BD%A0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
