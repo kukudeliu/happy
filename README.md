@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 18:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-25 18:41:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [留学生 预制菜](https://s.weibo.com/weibo?q=%E7%95%99%E5%AD%A6%E7%94%9F%20%E9%A2%84%E5%88%B6%E8%8F%9C&t=31&band_rank=6&Refer=top)<br />
 7. [男版香妃](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%89%88%E9%A6%99%E5%A6%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘德华 非凡大师](https://s.weibo.com/weibo?q=%E5%88%98%E5%BE%B7%E5%8D%8E%20%E9%9D%9E%E5%87%A1%E5%A4%A7%E5%B8%88&t=31&band_rank=8&Refer=top)<br />
-9. [华为发布会 不提手机](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A%20%E4%B8%8D%E6%8F%90%E6%89%8B%E6%9C%BA&t=31&band_rank=9&Refer=top)<br />
+9. [陈梦11比0国乒全员憋笑失败](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A611%E6%AF%940%E5%9B%BD%E4%B9%92%E5%85%A8%E5%91%98%E6%86%8B%E7%AC%91%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
