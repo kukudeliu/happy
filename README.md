@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 09:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 09:40:01</h4></div>
 
 > 微博  
 
-1. [美国小费文化正在失控](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%B0%8F%E8%B4%B9%E6%96%87%E5%8C%96%E6%AD%A3%E5%9C%A8%E5%A4%B1%E6%8E%A7&t=31&band_rank=1&Refer=top)<br />
-2. [680元民宿被平台悄悄调成国庆2780](https://s.weibo.com/weibo?q=%23680%E5%85%83%E6%B0%91%E5%AE%BF%E8%A2%AB%E5%B9%B3%E5%8F%B0%E6%82%84%E6%82%84%E8%B0%83%E6%88%90%E5%9B%BD%E5%BA%862780%23&t=31&band_rank=2&Refer=top)<br />
+1. [680元民宿被平台悄悄调成国庆2780](https://s.weibo.com/weibo?q=%23680%E5%85%83%E6%B0%91%E5%AE%BF%E8%A2%AB%E5%B9%B3%E5%8F%B0%E6%82%84%E6%82%84%E8%B0%83%E6%88%90%E5%9B%BD%E5%BA%862780%23&t=31&band_rank=1&Refer=top)<br />
+2. [美国小费文化正在失控](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%B0%8F%E8%B4%B9%E6%96%87%E5%8C%96%E6%AD%A3%E5%9C%A8%E5%A4%B1%E6%8E%A7&t=31&band_rank=2&Refer=top)<br />
 3. [一起看亚运](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E7%9C%8B%E4%BA%9A%E8%BF%90%23&t=31&band_rank=3&Refer=top)<br />
 4. [调休不如适当增加和延长假期](https://s.weibo.com/weibo?q=%23%E8%B0%83%E4%BC%91%E4%B8%8D%E5%A6%82%E9%80%82%E5%BD%93%E5%A2%9E%E5%8A%A0%E5%92%8C%E5%BB%B6%E9%95%BF%E5%81%87%E6%9C%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [58岁头婚新郎接亲42岁新娘](https://s.weibo.com/weibo?q=%2358%E5%B2%81%E5%A4%B4%E5%A9%9A%E6%96%B0%E9%83%8E%E6%8E%A5%E4%BA%B242%E5%B2%81%E6%96%B0%E5%A8%98%23&t=31&band_rank=5&Refer=top)<br />
