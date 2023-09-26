@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 20:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 20:49:02</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [王者项目中国队零封马来队](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E9%A1%B9%E7%9B%AE%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%9B%B6%E5%B0%81%E9%A9%AC%E6%9D%A5%E9%98%9F%23&t=31&band_rank=2&Refer=top)<br />
 3. [国庆大花篮祝福祖国繁荣昌盛](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%A4%A7%E8%8A%B1%E7%AF%AE%E7%A5%9D%E7%A6%8F%E7%A5%96%E5%9B%BD%E7%B9%81%E8%8D%A3%E6%98%8C%E7%9B%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [樊振东vs安宰贤](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E5%AE%89%E5%AE%B0%E8%B4%A4%23&t=31&band_rank=4&Refer=top)<br />
-5. [中国队拿下亚运电竞项目首金](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%8B%BF%E4%B8%8B%E4%BA%9A%E8%BF%90%E7%94%B5%E7%AB%9E%E9%A1%B9%E7%9B%AE%E9%A6%96%E9%87%91%23&t=31&band_rank=5&Refer=top)<br />
-6. [周深 握不完根本握不完](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%20%E6%8F%A1%E4%B8%8D%E5%AE%8C%E6%A0%B9%E6%9C%AC%E6%8F%A1%E4%B8%8D%E5%AE%8C&t=31&band_rank=6&Refer=top)<br />
+5. [周深 握不完根本握不完](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%20%E6%8F%A1%E4%B8%8D%E5%AE%8C%E6%A0%B9%E6%9C%AC%E6%8F%A1%E4%B8%8D%E5%AE%8C&t=31&band_rank=5&Refer=top)<br />
+6. [中国队拿下亚运电竞项目首金](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%8B%BF%E4%B8%8B%E4%BA%9A%E8%BF%90%E7%94%B5%E7%AB%9E%E9%A1%B9%E7%9B%AE%E9%A6%96%E9%87%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [性缘脑比恋爱脑还可怕吗](https://s.weibo.com/weibo?q=%E6%80%A7%E7%BC%98%E8%84%91%E6%AF%94%E6%81%8B%E7%88%B1%E8%84%91%E8%BF%98%E5%8F%AF%E6%80%95%E5%90%97&t=31&band_rank=7&Refer=top)<br />
 8. [孙杨](https://s.weibo.com/weibo?q=%E5%AD%99%E6%9D%A8&t=31&band_rank=8&Refer=top)<br />
 9. [王俊凯又当老板又当翻译](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8F%88%E5%BD%93%E8%80%81%E6%9D%BF%E5%8F%88%E5%BD%93%E7%BF%BB%E8%AF%91%23&t=31&band_rank=9&Refer=top)<br />
