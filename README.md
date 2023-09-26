@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 06:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 06:43:01</h4></div>
 
 > 微博  
 
-1. [仅停4分钟的高铁上消防救人只用了9秒](https://s.weibo.com/weibo?q=%23%E4%BB%85%E5%81%9C4%E5%88%86%E9%92%9F%E7%9A%84%E9%AB%98%E9%93%81%E4%B8%8A%E6%B6%88%E9%98%B2%E6%95%91%E4%BA%BA%E5%8F%AA%E7%94%A8%E4%BA%869%E7%A7%92%23&t=31&band_rank=1&Refer=top)<br />
-2. [猫和老鼠中女主人漏过一次脸](https://s.weibo.com/weibo?q=%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0%E4%B8%AD%E5%A5%B3%E4%B8%BB%E4%BA%BA%E6%BC%8F%E8%BF%87%E4%B8%80%E6%AC%A1%E8%84%B8&t=31&band_rank=2&Refer=top)<br />
+1. [猫和老鼠中女主人漏过一次脸](https://s.weibo.com/weibo?q=%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0%E4%B8%AD%E5%A5%B3%E4%B8%BB%E4%BA%BA%E6%BC%8F%E8%BF%87%E4%B8%80%E6%AC%A1%E8%84%B8&t=31&band_rank=1&Refer=top)<br />
+2. [仅停4分钟的高铁上消防救人只用了9秒](https://s.weibo.com/weibo?q=%23%E4%BB%85%E5%81%9C4%E5%88%86%E9%92%9F%E7%9A%84%E9%AB%98%E9%93%81%E4%B8%8A%E6%B6%88%E9%98%B2%E6%95%91%E4%BA%BA%E5%8F%AA%E7%94%A8%E4%BA%869%E7%A7%92%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚运赛场闪闪发光的中国00后](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA%E9%97%AA%E9%97%AA%E5%8F%91%E5%85%89%E7%9A%84%E4%B8%AD%E5%9B%BD00%E5%90%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [官方通报10岁男孩遭俩男生常年凌辱猥亵](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A510%E5%B2%81%E7%94%B7%E5%AD%A9%E9%81%AD%E4%BF%A9%E7%94%B7%E7%94%9F%E5%B8%B8%E5%B9%B4%E5%87%8C%E8%BE%B1%E7%8C%A5%E4%BA%B5%23&t=31&band_rank=4&Refer=top)<br />
 5. [徐必成](https://s.weibo.com/weibo?q=%E5%BE%90%E5%BF%85%E6%88%90&t=31&band_rank=5&Refer=top)<br />
