@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 18:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 18:22:01</h4></div>
 
 > 微博  
 
-1. [花西子称想做高端品牌](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E7%A7%B0%E6%83%B3%E5%81%9A%E9%AB%98%E7%AB%AF%E5%93%81%E7%89%8C%23&t=31&band_rank=1&Refer=top)<br />
+1. [花西子发疯](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%8F%91%E7%96%AF%23&t=31&band_rank=1&Refer=top)<br />
 2. [花西子 好心态决定花西子一生](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%A5%BF%E5%AD%90%20%E5%A5%BD%E5%BF%83%E6%80%81%E5%86%B3%E5%AE%9A%E8%8A%B1%E8%A5%BF%E5%AD%90%E4%B8%80%E7%94%9F&t=31&band_rank=2&Refer=top)<br />
 3. [国庆大花篮祝福祖国繁荣昌盛](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%A4%A7%E8%8A%B1%E7%AF%AE%E7%A5%9D%E7%A6%8F%E7%A5%96%E5%9B%BD%E7%B9%81%E8%8D%A3%E6%98%8C%E7%9B%9B%23&t=31&band_rank=3&Refer=top)<br />
-4. [花西子发疯](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%8F%91%E7%96%AF%23&t=31&band_rank=4&Refer=top)<br />
+4. [花西子称想做高端品牌](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E7%A7%B0%E6%83%B3%E5%81%9A%E9%AB%98%E7%AB%AF%E5%93%81%E7%89%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [8名用被子接坠楼女孩邻居被认定见义勇为](https://s.weibo.com/weibo?q=%238%E5%90%8D%E7%94%A8%E8%A2%AB%E5%AD%90%E6%8E%A5%E5%9D%A0%E6%A5%BC%E5%A5%B3%E5%AD%A9%E9%82%BB%E5%B1%85%E8%A2%AB%E8%AE%A4%E5%AE%9A%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [花西子问真有人拿克重衡量眉笔价值吗](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E9%97%AE%E7%9C%9F%E6%9C%89%E4%BA%BA%E6%8B%BF%E5%85%8B%E9%87%8D%E8%A1%A1%E9%87%8F%E7%9C%89%E7%AC%94%E4%BB%B7%E5%80%BC%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [孙颖莎为队友加油撞脸花花](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%BA%E9%98%9F%E5%8F%8B%E5%8A%A0%E6%B2%B9%E6%92%9E%E8%84%B8%E8%8A%B1%E8%8A%B1%23&t=31&band_rank=7&Refer=top)<br />
