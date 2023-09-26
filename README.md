@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 00:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 00:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [卫明出轨再添实锤](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%8E%E5%87%BA%E8%BD%A8%E5%86%8D%E6%B7%BB%E5%AE%9E%E9%94%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [律师建议引入恶意补足年龄制度](https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E5%BB%BA%E8%AE%AE%E5%BC%95%E5%85%A5%E6%81%B6%E6%84%8F%E8%A1%A5%E8%B6%B3%E5%B9%B4%E9%BE%84%E5%88%B6%E5%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [作为怪物](https://s.weibo.com/weibo?q=%E4%BD%9C%E4%B8%BA%E6%80%AA%E7%89%A9&t=31&band_rank=8&Refer=top)<br />
-9. [王俊凯去了塞纳河畔](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8E%BB%E4%BA%86%E5%A1%9E%E7%BA%B3%E6%B2%B3%E7%95%94&t=31&band_rank=9&Refer=top)<br />
+9. [仅停4分钟的高铁上消防救人只用了9秒](https://s.weibo.com/weibo?q=%23%E4%BB%85%E5%81%9C4%E5%88%86%E9%92%9F%E7%9A%84%E9%AB%98%E9%93%81%E4%B8%8A%E6%B6%88%E9%98%B2%E6%95%91%E4%BA%BA%E5%8F%AA%E7%94%A8%E4%BA%869%E7%A7%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
