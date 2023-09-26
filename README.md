@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 17:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 17:09:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [国乒女团横扫日本](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC%23&t=31&band_rank=5&Refer=top)<br />
 6. [性教育专家谈大同校园性欺凌事件](https://s.weibo.com/weibo?q=%23%E6%80%A7%E6%95%99%E8%82%B2%E4%B8%93%E5%AE%B6%E8%B0%88%E5%A4%A7%E5%90%8C%E6%A0%A1%E5%9B%AD%E6%80%A7%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [袁记云饺被曝是预制菜](https://s.weibo.com/weibo?q=%23%E8%A2%81%E8%AE%B0%E4%BA%91%E9%A5%BA%E8%A2%AB%E6%9B%9D%E6%98%AF%E9%A2%84%E5%88%B6%E8%8F%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [挖呀挖黄老师开启直播带货](https://s.weibo.com/weibo?q=%23%E6%8C%96%E5%91%80%E6%8C%96%E9%BB%84%E8%80%81%E5%B8%88%E5%BC%80%E5%90%AF%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈梦3比2平野美宇](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A63%E6%AF%942%E5%B9%B3%E9%87%8E%E7%BE%8E%E5%AE%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [陈梦3比2平野美宇](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A63%E6%AF%942%E5%B9%B3%E9%87%8E%E7%BE%8E%E5%AE%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [挖呀挖黄老师开启直播带货](https://s.weibo.com/weibo?q=%23%E6%8C%96%E5%91%80%E6%8C%96%E9%BB%84%E8%80%81%E5%B8%88%E5%BC%80%E5%90%AF%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
