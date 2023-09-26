@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 16:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 16:30:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [陈梦平野美宇决胜局](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E5%B9%B3%E9%87%8E%E7%BE%8E%E5%AE%87%E5%86%B3%E8%83%9C%E5%B1%80%23&t=31&band_rank=5&Refer=top)<br />
 6. [王乐君说拍伪装者时被胡歌砸断锁骨](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B9%90%E5%90%9B%E8%AF%B4%E6%8B%8D%E4%BC%AA%E8%A3%85%E8%80%85%E6%97%B6%E8%A2%AB%E8%83%A1%E6%AD%8C%E7%A0%B8%E6%96%AD%E9%94%81%E9%AA%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈梦状态](https://s.weibo.com/weibo?q=%E9%99%88%E6%A2%A6%E7%8A%B6%E6%80%81&t=31&band_rank=7&Refer=top)<br />
-8. [2.5亿年后所有的美好或都将结束](https://s.weibo.com/weibo?q=%232.5%E4%BA%BF%E5%B9%B4%E5%90%8E%E6%89%80%E6%9C%89%E7%9A%84%E7%BE%8E%E5%A5%BD%E6%88%96%E9%83%BD%E5%B0%86%E7%BB%93%E6%9D%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [人民网评大同未成年人欺凌事件](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%A4%A7%E5%90%8C%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
+8. [人民网评大同未成年人欺凌事件](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%A4%A7%E5%90%8C%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [2.5亿年后所有的美好或都将结束](https://s.weibo.com/weibo?q=%232.5%E4%BA%BF%E5%B9%B4%E5%90%8E%E6%89%80%E6%9C%89%E7%9A%84%E7%BE%8E%E5%A5%BD%E6%88%96%E9%83%BD%E5%B0%86%E7%BB%93%E6%9D%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
