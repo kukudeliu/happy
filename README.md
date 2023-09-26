@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 15:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 15:27:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [习近平考察枣庄石榴种植园](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%80%83%E5%AF%9F%E6%9E%A3%E5%BA%84%E7%9F%B3%E6%A6%B4%E7%A7%8D%E6%A4%8D%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [国企领导称取消周末：工资按月给的](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E7%A7%B0%E5%8F%96%E6%B6%88%E5%91%A8%E6%9C%AB%EF%BC%9A%E5%B7%A5%E8%B5%84%E6%8C%89%E6%9C%88%E7%BB%99%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [菲律宾擅拆中国在黄岩岛的漂浮屏障](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%93%85%E6%8B%86%E4%B8%AD%E5%9B%BD%E5%9C%A8%E9%BB%84%E5%B2%A9%E5%B2%9B%E7%9A%84%E6%BC%82%E6%B5%AE%E5%B1%8F%E9%9A%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [山西:校长是学校保护学生第一责任人](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%3A%E6%A0%A1%E9%95%BF%E6%98%AF%E5%AD%A6%E6%A0%A1%E4%BF%9D%E6%8A%A4%E5%AD%A6%E7%94%9F%E7%AC%AC%E4%B8%80%E8%B4%A3%E4%BB%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [奔跑吧，亚洲](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%EF%BC%8C%E4%BA%9A%E6%B4%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [性教育专家谈大同校园性欺凌事件](https://www.baidu.com/s?wd=%E6%80%A7%E6%95%99%E8%82%B2%E4%B8%93%E5%AE%B6%E8%B0%88%E5%A4%A7%E5%90%8C%E6%A0%A1%E5%9B%AD%E6%80%A7%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国游泳队显眼包“闯”进韩媒直播](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E6%B3%B3%E9%98%9F%E6%98%BE%E7%9C%BC%E5%8C%85%E2%80%9C%E9%97%AF%E2%80%9D%E8%BF%9B%E9%9F%A9%E5%AA%92%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [习近平考察枣庄石榴种植园](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%80%83%E5%AF%9F%E6%9E%A3%E5%BA%84%E7%9F%B3%E6%A6%B4%E7%A7%8D%E6%A4%8D%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [国企领导称取消周末：工资按月给的](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E7%A7%B0%E5%8F%96%E6%B6%88%E5%91%A8%E6%9C%AB%EF%BC%9A%E5%B7%A5%E8%B5%84%E6%8C%89%E6%9C%88%E7%BB%99%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [菲律宾擅拆中国在黄岩岛的漂浮屏障](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%93%85%E6%8B%86%E4%B8%AD%E5%9B%BD%E5%9C%A8%E9%BB%84%E5%B2%A9%E5%B2%9B%E7%9A%84%E6%BC%82%E6%B5%AE%E5%B1%8F%E9%9A%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [山西:校长是学校保护学生第一责任人](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%3A%E6%A0%A1%E9%95%BF%E6%98%AF%E5%AD%A6%E6%A0%A1%E4%BF%9D%E6%8A%A4%E5%AD%A6%E7%94%9F%E7%AC%AC%E4%B8%80%E8%B4%A3%E4%BB%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [奔跑吧，亚洲](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%EF%BC%8C%E4%BA%9A%E6%B4%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [性教育专家谈大同校园性欺凌事件](https://www.baidu.com/s?wd=%E6%80%A7%E6%95%99%E8%82%B2%E4%B8%93%E5%AE%B6%E8%B0%88%E5%A4%A7%E5%90%8C%E6%A0%A1%E5%9B%AD%E6%80%A7%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国游泳队显眼包“闯”进韩媒直播](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E6%B3%B3%E9%98%9F%E6%98%BE%E7%9C%BC%E5%8C%85%E2%80%9C%E9%97%AF%E2%80%9D%E8%BF%9B%E9%9F%A9%E5%AA%92%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
