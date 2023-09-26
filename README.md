@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 21:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 21:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国乒亚运会男团8连冠](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%94%B7%E5%9B%A28%E8%BF%9E%E5%86%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [孙杨](https://s.weibo.com/weibo?q=%E5%AD%99%E6%9D%A8&t=31&band_rank=7&Refer=top)<br />
 8. [马龙vs朴康贤](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99vs%E6%9C%B4%E5%BA%B7%E8%B4%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [王者项目中国队零封马来队](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E9%A1%B9%E7%9B%AE%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%9B%B6%E5%B0%81%E9%A9%AC%E6%9D%A5%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [国乒男团完胜韩国队](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E5%AE%8C%E8%83%9C%E9%9F%A9%E5%9B%BD%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
