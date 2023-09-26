@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 17:26:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 17:27:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [RAIN被诉涉嫌85亿房产诈骗](https://s.weibo.com/weibo?q=%23RAIN%E8%A2%AB%E8%AF%89%E6%B6%89%E5%AB%8C85%E4%BA%BF%E6%88%BF%E4%BA%A7%E8%AF%88%E9%AA%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [性教育专家谈大同校园性欺凌事件](https://s.weibo.com/weibo?q=%23%E6%80%A7%E6%95%99%E8%82%B2%E4%B8%93%E5%AE%B6%E8%B0%88%E5%A4%A7%E5%90%8C%E6%A0%A1%E5%9B%AD%E6%80%A7%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [张本美和才15岁](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%E6%89%8D15%E5%B2%81&t=31&band_rank=7&Refer=top)<br />
-8. [人民网评大同未成年人欺凌事件](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%A4%A7%E5%90%8C%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [魏大勋WSJ](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8BWSJ&t=31&band_rank=9&Refer=top)<br />
+8. [魏大勋WSJ](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8BWSJ&t=31&band_rank=8&Refer=top)<br />
+9. [人民网评大同未成年人欺凌事件](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%A4%A7%E5%90%8C%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
