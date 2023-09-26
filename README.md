@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 08:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 08:38:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [5999元一顿饭7成是预制菜](https://www.baidu.com/s?wd=5999%E5%85%83%E4%B8%80%E9%A1%BF%E9%A5%AD7%E6%88%90%E6%98%AF%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [朝鲜运动员游西湖：颜值不输明星](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E8%BF%90%E5%8A%A8%E5%91%98%E6%B8%B8%E8%A5%BF%E6%B9%96%EF%BC%9A%E9%A2%9C%E5%80%BC%E4%B8%8D%E8%BE%93%E6%98%8E%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [我的父母染上网瘾了，怎么办](https://www.baidu.com/s?wd=%E6%88%91%E7%9A%84%E7%88%B6%E6%AF%8D%E6%9F%93%E4%B8%8A%E7%BD%91%E7%98%BE%E4%BA%86%EF%BC%8C%E6%80%8E%E4%B9%88%E5%8A%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子潜水嫌不过瘾绑铅球沉入海底](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%BD%9C%E6%B0%B4%E5%AB%8C%E4%B8%8D%E8%BF%87%E7%98%BE%E7%BB%91%E9%93%85%E7%90%83%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子做手术1年暴瘦70斤成九级伤残](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%81%9A%E6%89%8B%E6%9C%AF1%E5%B9%B4%E6%9A%B4%E7%98%A670%E6%96%A4%E6%88%90%E4%B9%9D%E7%BA%A7%E4%BC%A4%E6%AE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [城管被指执法随心所欲 官方辟谣](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E8%A2%AB%E6%8C%87%E6%89%A7%E6%B3%95%E9%9A%8F%E5%BF%83%E6%89%80%E6%AC%B2+%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [5999元一顿饭7成是预制菜](https://www.baidu.com/s?wd=5999%E5%85%83%E4%B8%80%E9%A1%BF%E9%A5%AD7%E6%88%90%E6%98%AF%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [朝鲜运动员游西湖：颜值不输明星](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E8%BF%90%E5%8A%A8%E5%91%98%E6%B8%B8%E8%A5%BF%E6%B9%96%EF%BC%9A%E9%A2%9C%E5%80%BC%E4%B8%8D%E8%BE%93%E6%98%8E%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [我的父母染上网瘾了，怎么办](https://www.baidu.com/s?wd=%E6%88%91%E7%9A%84%E7%88%B6%E6%AF%8D%E6%9F%93%E4%B8%8A%E7%BD%91%E7%98%BE%E4%BA%86%EF%BC%8C%E6%80%8E%E4%B9%88%E5%8A%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子潜水嫌不过瘾绑铅球沉入海底](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%BD%9C%E6%B0%B4%E5%AB%8C%E4%B8%8D%E8%BF%87%E7%98%BE%E7%BB%91%E9%93%85%E7%90%83%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子做手术1年暴瘦70斤成九级伤残](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%81%9A%E6%89%8B%E6%9C%AF1%E5%B9%B4%E6%9A%B4%E7%98%A670%E6%96%A4%E6%88%90%E4%B9%9D%E7%BA%A7%E4%BC%A4%E6%AE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [城管被指执法随心所欲 官方辟谣](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E8%A2%AB%E6%8C%87%E6%89%A7%E6%B3%95%E9%9A%8F%E5%BF%83%E6%89%80%E6%AC%B2+%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
