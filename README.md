@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 12:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 12:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [结婚和一辈子恋爱有什么区别](https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A%E5%92%8C%E4%B8%80%E8%BE%88%E5%AD%90%E6%81%8B%E7%88%B1%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [霍震霆霍启刚霍启山现身亚运游泳赛场](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E9%9C%87%E9%9C%86%E9%9C%8D%E5%90%AF%E5%88%9A%E9%9C%8D%E5%90%AF%E5%B1%B1%E7%8E%B0%E8%BA%AB%E4%BA%9A%E8%BF%90%E6%B8%B8%E6%B3%B3%E8%B5%9B%E5%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [大张伟 抢票](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%BC%A0%E4%BC%9F%20%E6%8A%A2%E7%A5%A8&t=31&band_rank=8&Refer=top)<br />
-9. [黄山人买不到回黄山的票了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%B1%B1%E4%BA%BA%E4%B9%B0%E4%B8%8D%E5%88%B0%E5%9B%9E%E9%BB%84%E5%B1%B1%E7%9A%84%E7%A5%A8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [解除大同大成双语学校校长职务](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E9%99%A4%E5%A4%A7%E5%90%8C%E5%A4%A7%E6%88%90%E5%8F%8C%E8%AF%AD%E5%AD%A6%E6%A0%A1%E6%A0%A1%E9%95%BF%E8%81%8C%E5%8A%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
