@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 20:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 20:20:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [徐必成金牌射手](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%85%E6%88%90%E9%87%91%E7%89%8C%E5%B0%84%E6%89%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [王者荣耀项目](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E9%A1%B9%E7%9B%AE&t=31&band_rank=6&Refer=top)<br />
 7. [樊振东vs安宰贤](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E5%AE%89%E5%AE%B0%E8%B4%A4&t=31&band_rank=7&Refer=top)<br />
-8. [谢娜新综艺](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E6%96%B0%E7%BB%BC%E8%89%BA&t=31&band_rank=8&Refer=top)<br />
-9. [王俊凯又当老板又当翻译](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8F%88%E5%BD%93%E8%80%81%E6%9D%BF%E5%8F%88%E5%BD%93%E7%BF%BB%E8%AF%91%23&t=31&band_rank=9&Refer=top)<br />
+8. [中国队拿下亚运电竞项目首金](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%8B%BF%E4%B8%8B%E4%BA%9A%E8%BF%90%E7%94%B5%E7%AB%9E%E9%A1%B9%E7%9B%AE%E9%A6%96%E9%87%91%23&t=31&band_rank=8&Refer=top)<br />
+9. [谢娜新综艺](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E6%96%B0%E7%BB%BC%E8%89%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
