@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 21:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 21:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王者项目中国队零封马来队](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E9%A1%B9%E7%9B%AE%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%9B%B6%E5%B0%81%E9%A9%AC%E6%9D%A5%E9%98%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [孙杨](https://s.weibo.com/weibo?q=%E5%AD%99%E6%9D%A8&t=31&band_rank=7&Refer=top)<br />
 8. [樊振东vs安宰贤](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E5%AE%89%E5%AE%B0%E8%B4%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国队拿下亚运电竞项目首金](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%8B%BF%E4%B8%8B%E4%BA%9A%E8%BF%90%E7%94%B5%E7%AB%9E%E9%A1%B9%E7%9B%AE%E9%A6%96%E9%87%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [DIOR大秀](https://s.weibo.com/weibo?q=DIOR%E5%A4%A7%E7%A7%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
