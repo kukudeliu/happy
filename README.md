@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 13:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 13:04:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [奔跑吧，亚洲](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%EF%BC%8C%E4%BA%9A%E6%B4%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [官方通报男生遭极端欺辱：校长被免](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%94%9F%E9%81%AD%E6%9E%81%E7%AB%AF%E6%AC%BA%E8%BE%B1%EF%BC%9A%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子想见领导 被3名保安踩在脚下](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%83%B3%E8%A7%81%E9%A2%86%E5%AF%BC+%E8%A2%AB3%E5%90%8D%E4%BF%9D%E5%AE%89%E8%B8%A9%E5%9C%A8%E8%84%9A%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [58岁头婚新郎接亲走红：不愿将就](https://www.baidu.com/s?wd=58%E5%B2%81%E5%A4%B4%E5%A9%9A%E6%96%B0%E9%83%8E%E6%8E%A5%E4%BA%B2%E8%B5%B0%E7%BA%A2%EF%BC%9A%E4%B8%8D%E6%84%BF%E5%B0%86%E5%B0%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张碧晨连续8年为姚贝娜庆冥诞](https://www.baidu.com/s?wd=%E5%BC%A0%E7%A2%A7%E6%99%A8%E8%BF%9E%E7%BB%AD8%E5%B9%B4%E4%B8%BA%E5%A7%9A%E8%B4%9D%E5%A8%9C%E5%BA%86%E5%86%A5%E8%AF%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [妙趣生活节](https://www.baidu.com/s?wd=%E5%A6%99%E8%B6%A3%E7%94%9F%E6%B4%BB%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆游客断崖式下跌？当地回应](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%B8%B8%E5%AE%A2%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [奔跑吧，亚洲](https://www.baidu.com/s?wd=%E5%A5%94%E8%B7%91%E5%90%A7%EF%BC%8C%E4%BA%9A%E6%B4%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [官方通报男生遭极端欺辱：校长被免](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E7%94%9F%E9%81%AD%E6%9E%81%E7%AB%AF%E6%AC%BA%E8%BE%B1%EF%BC%9A%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子想见领导 被3名保安踩在脚下](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%83%B3%E8%A7%81%E9%A2%86%E5%AF%BC+%E8%A2%AB3%E5%90%8D%E4%BF%9D%E5%AE%89%E8%B8%A9%E5%9C%A8%E8%84%9A%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [58岁头婚新郎接亲走红：不愿将就](https://www.baidu.com/s?wd=58%E5%B2%81%E5%A4%B4%E5%A9%9A%E6%96%B0%E9%83%8E%E6%8E%A5%E4%BA%B2%E8%B5%B0%E7%BA%A2%EF%BC%9A%E4%B8%8D%E6%84%BF%E5%B0%86%E5%B0%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张碧晨连续8年为姚贝娜庆冥诞](https://www.baidu.com/s?wd=%E5%BC%A0%E7%A2%A7%E6%99%A8%E8%BF%9E%E7%BB%AD8%E5%B9%B4%E4%B8%BA%E5%A7%9A%E8%B4%9D%E5%A8%9C%E5%BA%86%E5%86%A5%E8%AF%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [妙趣生活节](https://www.baidu.com/s?wd=%E5%A6%99%E8%B6%A3%E7%94%9F%E6%B4%BB%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆游客断崖式下跌？当地回应](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%B8%B8%E5%AE%A2%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
