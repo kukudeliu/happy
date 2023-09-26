@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 22:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 22:30:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [中国队4×100米混接力金牌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F4%C3%97100%E7%B1%B3%E6%B7%B7%E6%8E%A5%E5%8A%9B%E9%87%91%E7%89%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [周深 握不完根本握不完](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%20%E6%8F%A1%E4%B8%8D%E5%AE%8C%E6%A0%B9%E6%9C%AC%E6%8F%A1%E4%B8%8D%E5%AE%8C&t=31&band_rank=6&Refer=top)<br />
 7. [范丞丞怎么也没想到上个综艺还要赔钱](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%80%8E%E4%B9%88%E4%B9%9F%E6%B2%A1%E6%83%B3%E5%88%B0%E4%B8%8A%E4%B8%AA%E7%BB%BC%E8%89%BA%E8%BF%98%E8%A6%81%E8%B5%94%E9%92%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [郑爽被判赔偿投资方6000万元](https://s.weibo.com/weibo?q=%23%E9%83%91%E7%88%BD%E8%A2%AB%E5%88%A4%E8%B5%94%E5%81%BF%E6%8A%95%E8%B5%84%E6%96%B96000%E4%B8%87%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [林高远](https://s.weibo.com/weibo?q=%E6%9E%97%E9%AB%98%E8%BF%9C&t=31&band_rank=9&Refer=top)<br />
+8. [林高远](https://s.weibo.com/weibo?q=%E6%9E%97%E9%AB%98%E8%BF%9C&t=31&band_rank=8&Refer=top)<br />
+9. [郑爽被判赔偿投资方6000万元](https://s.weibo.com/weibo?q=%23%E9%83%91%E7%88%BD%E8%A2%AB%E5%88%A4%E8%B5%94%E5%81%BF%E6%8A%95%E8%B5%84%E6%96%B96000%E4%B8%87%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
