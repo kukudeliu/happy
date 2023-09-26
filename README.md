@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 11:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 11:18:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [霍启刚 亚运会宿舍roomtour](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%90%AF%E5%88%9A%20%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%AE%BF%E8%88%8Droomtour&t=31&band_rank=5&Refer=top)<br />
 6. [这身材谁看了不迷糊](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%BA%AB%E6%9D%90%E8%B0%81%E7%9C%8B%E4%BA%86%E4%B8%8D%E8%BF%B7%E7%B3%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [准女婿是怎么中秋转正的](https://s.weibo.com/weibo?q=%23%E5%87%86%E5%A5%B3%E5%A9%BF%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%AD%E7%A7%8B%E8%BD%AC%E6%AD%A3%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
-8. [离婚排不上号](https://s.weibo.com/weibo?q=%E7%A6%BB%E5%A9%9A%E6%8E%92%E4%B8%8D%E4%B8%8A%E5%8F%B7&t=31&band_rank=8&Refer=top)<br />
-9. [体面之后是何必](https://s.weibo.com/weibo?q=%E4%BD%93%E9%9D%A2%E4%B9%8B%E5%90%8E%E6%98%AF%E4%BD%95%E5%BF%85&t=31&band_rank=9&Refer=top)<br />
+8. [体面之后是何必](https://s.weibo.com/weibo?q=%E4%BD%93%E9%9D%A2%E4%B9%8B%E5%90%8E%E6%98%AF%E4%BD%95%E5%BF%85&t=31&band_rank=8&Refer=top)<br />
+9. [父母染上网瘾了怎么办](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E6%9F%93%E4%B8%8A%E7%BD%91%E7%98%BE%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
