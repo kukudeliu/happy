@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 18:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 18:23:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [被叙利亚第一夫人圈粉了](https://www.baidu.com/s?wd=%E8%A2%AB%E5%8F%99%E5%88%A9%E4%BA%9A%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E5%9C%88%E7%B2%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [外交部回应朝方开放边境问题](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%9C%9D%E6%96%B9%E5%BC%80%E6%94%BE%E8%BE%B9%E5%A2%83%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#早秋漫游指南#](https://www.baidu.com/s?wd=%23%E6%97%A9%E7%A7%8B%E6%BC%AB%E6%B8%B8%E6%8C%87%E5%8D%97%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [10月15日起禁校外培训？系误读](https://www.baidu.com/s?wd=10%E6%9C%8815%E6%97%A5%E8%B5%B7%E7%A6%81%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%EF%BC%9F%E7%B3%BB%E8%AF%AF%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [民政部招养老服务志愿者？假的](https://www.baidu.com/s?wd=%E6%B0%91%E6%94%BF%E9%83%A8%E6%8B%9B%E5%85%BB%E8%80%81%E6%9C%8D%E5%8A%A1%E5%BF%97%E6%84%BF%E8%80%85%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [被叙利亚第一夫人圈粉了](https://www.baidu.com/s?wd=%E8%A2%AB%E5%8F%99%E5%88%A9%E4%BA%9A%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E5%9C%88%E7%B2%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [外交部回应朝方开放边境问题](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%9C%9D%E6%96%B9%E5%BC%80%E6%94%BE%E8%BE%B9%E5%A2%83%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#早秋漫游指南#](https://www.baidu.com/s?wd=%23%E6%97%A9%E7%A7%8B%E6%BC%AB%E6%B8%B8%E6%8C%87%E5%8D%97%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [10月15日起禁校外培训？系误读](https://www.baidu.com/s?wd=10%E6%9C%8815%E6%97%A5%E8%B5%B7%E7%A6%81%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%EF%BC%9F%E7%B3%BB%E8%AF%AF%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [民政部招养老服务志愿者？假的](https://www.baidu.com/s?wd=%E6%B0%91%E6%94%BF%E9%83%A8%E6%8B%9B%E5%85%BB%E8%80%81%E6%9C%8D%E5%8A%A1%E5%BF%97%E6%84%BF%E8%80%85%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
