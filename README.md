@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 10:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 10:33:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [我有一个朋友 不想让它糊的剧](https://s.weibo.com/weibo?q=%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E6%9C%8B%E5%8F%8B%20%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AE%83%E7%B3%8A%E7%9A%84%E5%89%A7&t=31&band_rank=2&Refer=top)<br />
 3. [一起看亚运](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E7%9C%8B%E4%BA%9A%E8%BF%90%23&t=31&band_rank=3&Refer=top)<br />
 4. [调休不如适当增加和延长假期](https://s.weibo.com/weibo?q=%23%E8%B0%83%E4%BC%91%E4%B8%8D%E5%A6%82%E9%80%82%E5%BD%93%E5%A2%9E%E5%8A%A0%E5%92%8C%E5%BB%B6%E9%95%BF%E5%81%87%E6%9C%9F%23&t=31&band_rank=4&Refer=top)<br />
-5. [这身材谁看了不迷糊](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%BA%AB%E6%9D%90%E8%B0%81%E7%9C%8B%E4%BA%86%E4%B8%8D%E8%BF%B7%E7%B3%8A%23&t=31&band_rank=5&Refer=top)<br />
-6. [女子未察觉蛋盒阴燃塞冰箱浓烟四起](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9C%AA%E5%AF%9F%E8%A7%89%E8%9B%8B%E7%9B%92%E9%98%B4%E7%87%83%E5%A1%9E%E5%86%B0%E7%AE%B1%E6%B5%93%E7%83%9F%E5%9B%9B%E8%B5%B7%23&t=31&band_rank=6&Refer=top)<br />
-7. [父母染上网瘾了怎么办](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E6%9F%93%E4%B8%8A%E7%BD%91%E7%98%BE%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%23&t=31&band_rank=7&Refer=top)<br />
-8. [一个饺子进嘴爸爸和女儿都泪崩了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E9%A5%BA%E5%AD%90%E8%BF%9B%E5%98%B4%E7%88%B8%E7%88%B8%E5%92%8C%E5%A5%B3%E5%84%BF%E9%83%BD%E6%B3%AA%E5%B4%A9%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [是慎儿下的毒吗](https://s.weibo.com/weibo?q=%23%E6%98%AF%E6%85%8E%E5%84%BF%E4%B8%8B%E7%9A%84%E6%AF%92%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+5. [是慎儿下的毒吗](https://s.weibo.com/weibo?q=%23%E6%98%AF%E6%85%8E%E5%84%BF%E4%B8%8B%E7%9A%84%E6%AF%92%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
+6. [这身材谁看了不迷糊](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%BA%AB%E6%9D%90%E8%B0%81%E7%9C%8B%E4%BA%86%E4%B8%8D%E8%BF%B7%E7%B3%8A%23&t=31&band_rank=6&Refer=top)<br />
+7. [女子未察觉蛋盒阴燃塞冰箱浓烟四起](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9C%AA%E5%AF%9F%E8%A7%89%E8%9B%8B%E7%9B%92%E9%98%B4%E7%87%83%E5%A1%9E%E5%86%B0%E7%AE%B1%E6%B5%93%E7%83%9F%E5%9B%9B%E8%B5%B7%23&t=31&band_rank=7&Refer=top)<br />
+8. [父母染上网瘾了怎么办](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E6%9F%93%E4%B8%8A%E7%BD%91%E7%98%BE%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%23&t=31&band_rank=8&Refer=top)<br />
+9. [一个饺子进嘴爸爸和女儿都泪崩了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E9%A5%BA%E5%AD%90%E8%BF%9B%E5%98%B4%E7%88%B8%E7%88%B8%E5%92%8C%E5%A5%B3%E5%84%BF%E9%83%BD%E6%B3%AA%E5%B4%A9%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
