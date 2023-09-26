@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 15:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 16:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [害怕马琳的暂停](https://s.weibo.com/weibo?q=%E5%AE%B3%E6%80%95%E9%A9%AC%E7%90%B3%E7%9A%84%E6%9A%82%E5%81%9C&t=31&band_rank=6&Refer=top)<br />
 7. [冯宝宝与张楚岚](https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%AE%9D%E5%AE%9D%E4%B8%8E%E5%BC%A0%E6%A5%9A%E5%B2%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [许光汉要演韩剧了](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%85%89%E6%B1%89%E8%A6%81%E6%BC%94%E9%9F%A9%E5%89%A7%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [孙颖莎3比1早田希娜](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%941%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C&t=31&band_rank=9&Refer=top)<br />
+9. [2.5亿年后所有的美好或都将结束](https://s.weibo.com/weibo?q=%232.5%E4%BA%BF%E5%B9%B4%E5%90%8E%E6%89%80%E6%9C%89%E7%9A%84%E7%BE%8E%E5%A5%BD%E6%88%96%E9%83%BD%E5%B0%86%E7%BB%93%E6%9D%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
