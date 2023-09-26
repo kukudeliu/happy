@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 07:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 07:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [谁家恋综敢这么亲啊](https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E6%81%8B%E7%BB%BC%E6%95%A2%E8%BF%99%E4%B9%88%E4%BA%B2%E5%95%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [4岁宝宝带着炸裂蟑螂灯笼上学去](https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%B8%A6%E7%9D%80%E7%82%B8%E8%A3%82%E8%9F%91%E8%9E%82%E7%81%AF%E7%AC%BC%E4%B8%8A%E5%AD%A6%E5%8E%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [蜜雪冰城涨价](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [住建局回应女子被保安踩脚下](https://s.weibo.com/weibo?q=%23%E4%BD%8F%E5%BB%BA%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%BF%9D%E5%AE%89%E8%B8%A9%E8%84%9A%E4%B8%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [律师建议引入恶意补足年龄制度](https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E5%BB%BA%E8%AE%AE%E5%BC%95%E5%85%A5%E6%81%B6%E6%84%8F%E8%A1%A5%E8%B6%B3%E5%B9%B4%E9%BE%84%E5%88%B6%E5%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
