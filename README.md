@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 20:09:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 20:10:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [妻子患癌多次住院丈夫3次诉离婚获准](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E6%82%A3%E7%99%8C%E5%A4%9A%E6%AC%A1%E4%BD%8F%E9%99%A2%E4%B8%88%E5%A4%AB3%E6%AC%A1%E8%AF%89%E7%A6%BB%E5%A9%9A%E8%8E%B7%E5%87%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [性缘脑比恋爱脑还可怕吗](https://s.weibo.com/weibo?q=%E6%80%A7%E7%BC%98%E8%84%91%E6%AF%94%E6%81%8B%E7%88%B1%E8%84%91%E8%BF%98%E5%8F%AF%E6%80%95%E5%90%97&t=31&band_rank=6&Refer=top)<br />
 7. [王俊凯又当老板又当翻译](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8F%88%E5%BD%93%E8%80%81%E6%9D%BF%E5%8F%88%E5%BD%93%E7%BF%BB%E8%AF%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [王楚钦vs林钟勋](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%9E%97%E9%92%9F%E5%8B%8B&t=31&band_rank=8&Refer=top)<br />
-9. [徐必成金牌射手](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%85%E6%88%90%E9%87%91%E7%89%8C%E5%B0%84%E6%89%8B%23&t=31&band_rank=9&Refer=top)<br />
+8. [徐必成金牌射手](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%85%E6%88%90%E9%87%91%E7%89%8C%E5%B0%84%E6%89%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [王楚钦vs林钟勋](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%9E%97%E9%92%9F%E5%8B%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
