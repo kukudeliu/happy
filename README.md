@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 22:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 22:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国队4×100米混接力金牌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F4%C3%97100%E7%B1%B3%E6%B7%B7%E6%8E%A5%E5%8A%9B%E9%87%91%E7%89%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [范丞丞怎么也没想到上个综艺还要赔钱](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%80%8E%E4%B9%88%E4%B9%9F%E6%B2%A1%E6%83%B3%E5%88%B0%E4%B8%8A%E4%B8%AA%E7%BB%BC%E8%89%BA%E8%BF%98%E8%A6%81%E8%B5%94%E9%92%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [徐必成](https://s.weibo.com/weibo?q=%E5%BE%90%E5%BF%85%E6%88%90&t=31&band_rank=8&Refer=top)<br />
-9. [林高远](https://s.weibo.com/weibo?q=%E6%9E%97%E9%AB%98%E8%BF%9C&t=31&band_rank=9&Refer=top)<br />
+9. [比许幻山还洪世贤的男人出现了](https://s.weibo.com/weibo?q=%E6%AF%94%E8%AE%B8%E5%B9%BB%E5%B1%B1%E8%BF%98%E6%B4%AA%E4%B8%96%E8%B4%A4%E7%9A%84%E7%94%B7%E4%BA%BA%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
