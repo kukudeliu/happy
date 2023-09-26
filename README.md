@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 12:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 12:55:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [马来西亚4岁女童溺亡26岁继兄冷眼旁观](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A4%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%BA%BA%E4%BA%A126%E5%B2%81%E7%BB%A7%E5%85%84%E5%86%B7%E7%9C%BC%E6%97%81%E8%A7%82%23&t=31&band_rank=5&Refer=top)<br />
 6. [霍震霆霍启刚霍启山现身亚运游泳赛场](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E9%9C%87%E9%9C%86%E9%9C%8D%E5%90%AF%E5%88%9A%E9%9C%8D%E5%90%AF%E5%B1%B1%E7%8E%B0%E8%BA%AB%E4%BA%9A%E8%BF%90%E6%B8%B8%E6%B3%B3%E8%B5%9B%E5%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [结婚和一辈子恋爱有什么区别](https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A%E5%92%8C%E4%B8%80%E8%BE%88%E5%AD%90%E6%81%8B%E7%88%B1%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [大张伟 抢票](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%BC%A0%E4%BC%9F%20%E6%8A%A2%E7%A5%A8&t=31&band_rank=8&Refer=top)<br />
-9. [解除大同大成双语学校校长职务](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E9%99%A4%E5%A4%A7%E5%90%8C%E5%A4%A7%E6%88%90%E5%8F%8C%E8%AF%AD%E5%AD%A6%E6%A0%A1%E6%A0%A1%E9%95%BF%E8%81%8C%E5%8A%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [解除大同大成双语学校校长职务](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E9%99%A4%E5%A4%A7%E5%90%8C%E5%A4%A7%E6%88%90%E5%8F%8C%E8%AF%AD%E5%AD%A6%E6%A0%A1%E6%A0%A1%E9%95%BF%E8%81%8C%E5%8A%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [大张伟 抢票](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%BC%A0%E4%BC%9F%20%E6%8A%A2%E7%A5%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
