@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 18:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-26 18:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张本美和 张本智和](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%20%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&t=31&band_rank=6&Refer=top)<br />
 7. [孙颖莎为队友加油撞脸花花](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%BA%E9%98%9F%E5%8F%8B%E5%8A%A0%E6%B2%B9%E6%92%9E%E8%84%B8%E8%8A%B1%E8%8A%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [被叙利亚第一夫人圈粉了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%8F%99%E5%88%A9%E4%BA%9A%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E5%9C%88%E7%B2%89%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [国乒女团横扫日本](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC%23&t=31&band_rank=9&Refer=top)<br />
+9. [RAIN被诉涉嫌85亿房产诈骗](https://s.weibo.com/weibo?q=%23RAIN%E8%A2%AB%E8%AF%89%E6%B6%89%E5%AB%8C85%E4%BA%BF%E6%88%BF%E4%BA%A7%E8%AF%88%E9%AA%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
