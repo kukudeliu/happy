@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 18:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 18:12:01</h4></div>
 
 > 微博  
 
-1. [华为上架1999元手机壳](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B8%8A%E6%9E%B61999%E5%85%83%E6%89%8B%E6%9C%BA%E5%A3%B3%23&t=31&band_rank=1&Refer=top)<br />
+1. [周杰伦上海 二次抢票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B8%8A%E6%B5%B7%20%E4%BA%8C%E6%AC%A1%E6%8A%A2%E7%A5%A8&t=31&band_rank=1&Refer=top)<br />
 2. [郭晶晶霍启刚太好磕了](https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%99%B6%E6%99%B6%E9%9C%8D%E5%90%AF%E5%88%9A%E5%A4%AA%E5%A5%BD%E7%A3%95%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [网络中国节](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BB%9C%E4%B8%AD%E5%9B%BD%E8%8A%82%23&t=31&band_rank=3&Refer=top)<br />
-4. [offer5 8点下班的工作没人做](https://s.weibo.com/weibo?q=offer5%208%E7%82%B9%E4%B8%8B%E7%8F%AD%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%B2%A1%E4%BA%BA%E5%81%9A&t=31&band_rank=4&Refer=top)<br />
+4. [华为上架1999元手机壳](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B8%8A%E6%9E%B61999%E5%85%83%E6%89%8B%E6%9C%BA%E5%A3%B3%23&t=31&band_rank=4&Refer=top)<br />
 5. [从羞于说父亲是兽医到为父亲拍视频](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E7%BE%9E%E4%BA%8E%E8%AF%B4%E7%88%B6%E4%BA%B2%E6%98%AF%E5%85%BD%E5%8C%BB%E5%88%B0%E4%B8%BA%E7%88%B6%E4%BA%B2%E6%8B%8D%E8%A7%86%E9%A2%91%23&t=31&band_rank=5&Refer=top)<br />
-6. [吃一块月饼相当于吃3碗米饭](https://s.weibo.com/weibo?q=%23%E5%90%83%E4%B8%80%E5%9D%97%E6%9C%88%E9%A5%BC%E7%9B%B8%E5%BD%93%E4%BA%8E%E5%90%833%E7%A2%97%E7%B1%B3%E9%A5%AD%23&t=31&band_rank=6&Refer=top)<br />
+6. [offer5 8点下班的工作没人做](https://s.weibo.com/weibo?q=offer5%208%E7%82%B9%E4%B8%8B%E7%8F%AD%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%B2%A1%E4%BA%BA%E5%81%9A&t=31&band_rank=6&Refer=top)<br />
 7. [歼20飞行员亲述逼退外机经历](https://s.weibo.com/weibo?q=%23%E6%AD%BC20%E9%A3%9E%E8%A1%8C%E5%91%98%E4%BA%B2%E8%BF%B0%E9%80%BC%E9%80%80%E5%A4%96%E6%9C%BA%E7%BB%8F%E5%8E%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [无根门没了](https://s.weibo.com/weibo?q=%E6%97%A0%E6%A0%B9%E9%97%A8%E6%B2%A1%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [沈梦辰 我不行我婚嫁了](https://s.weibo.com/weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E6%88%91%E4%B8%8D%E8%A1%8C%E6%88%91%E5%A9%9A%E5%AB%81%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [吃一块月饼相当于吃3碗米饭](https://s.weibo.com/weibo?q=%23%E5%90%83%E4%B8%80%E5%9D%97%E6%9C%88%E9%A5%BC%E7%9B%B8%E5%BD%93%E4%BA%8E%E5%90%833%E7%A2%97%E7%B1%B3%E9%A5%AD%23&t=31&band_rank=8&Refer=top)<br />
+9. [无根门没了](https://s.weibo.com/weibo?q=%E6%97%A0%E6%A0%B9%E9%97%A8%E6%B2%A1%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
