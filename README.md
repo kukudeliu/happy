@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 15:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 15:19:01</h4></div>
 
 > 微博  
 
 1. [沈梦辰 我不行我婚嫁了](https://s.weibo.com/weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E6%88%91%E4%B8%8D%E8%A1%8C%E6%88%91%E5%A9%9A%E5%AB%81%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [CoCo道歉](https://s.weibo.com/weibo?q=%23CoCo%E9%81%93%E6%AD%89%23&t=31&band_rank=2&Refer=top)<br />
+2. [CoCo奶茶道歉](https://s.weibo.com/weibo?q=CoCo%E5%A5%B6%E8%8C%B6%E9%81%93%E6%AD%89&t=31&band_rank=2&Refer=top)<br />
 3. [亚运赛场上这些00后真棒](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA%E4%B8%8A%E8%BF%99%E4%BA%9B00%E5%90%8E%E7%9C%9F%E6%A3%92%23&t=31&band_rank=3&Refer=top)<br />
 4. [赵丽颖申请强制黑粉道歉](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E9%BB%91%E7%B2%89%E9%81%93%E6%AD%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [花西子 公关](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%A5%BF%E5%AD%90%20%E5%85%AC%E5%85%B3&t=31&band_rank=5&Refer=top)<br />
