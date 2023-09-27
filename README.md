@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 09:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 09:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [猫和老鼠中女主人露过一次脸](https://s.weibo.com/weibo?q=%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0%E4%B8%AD%E5%A5%B3%E4%B8%BB%E4%BA%BA%E9%9C%B2%E8%BF%87%E4%B8%80%E6%AC%A1%E8%84%B8&t=31&band_rank=5&Refer=top)<br />
 6. [弟弟觉得夜色尚浅公开了](https://s.weibo.com/weibo?q=%E5%BC%9F%E5%BC%9F%E8%A7%89%E5%BE%97%E5%A4%9C%E8%89%B2%E5%B0%9A%E6%B5%85%E5%85%AC%E5%BC%80%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [幼年版刘嘉玲和梁朝伟](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%B9%B4%E7%89%88%E5%88%98%E5%98%89%E7%8E%B2%E5%92%8C%E6%A2%81%E6%9C%9D%E4%BC%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [仅停4分钟的高铁上消防救人只用了9秒](https://s.weibo.com/weibo?q=%23%E4%BB%85%E5%81%9C4%E5%88%86%E9%92%9F%E7%9A%84%E9%AB%98%E9%93%81%E4%B8%8A%E6%B6%88%E9%98%B2%E6%95%91%E4%BA%BA%E5%8F%AA%E7%94%A8%E4%BA%869%E7%A7%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [英雄联盟S13主题曲](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS13%E4%B8%BB%E9%A2%98%E6%9B%B2%23&t=31&band_rank=9&Refer=top)<br />
+8. [英雄联盟S13主题曲](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS13%E4%B8%BB%E9%A2%98%E6%9B%B2%23&t=31&band_rank=8&Refer=top)<br />
+9. [仅停4分钟的高铁上消防救人只用了9秒](https://s.weibo.com/weibo?q=%23%E4%BB%85%E5%81%9C4%E5%88%86%E9%92%9F%E7%9A%84%E9%AB%98%E9%93%81%E4%B8%8A%E6%B6%88%E9%98%B2%E6%95%91%E4%BA%BA%E5%8F%AA%E7%94%A8%E4%BA%869%E7%A7%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
