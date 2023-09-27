@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 23:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 23:26:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [权志龙疑签约华纳唱片](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E7%96%91%E7%AD%BE%E7%BA%A6%E5%8D%8E%E7%BA%B3%E5%94%B1%E7%89%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [徐嘉余 51.91](https://s.weibo.com/weibo?q=%E5%BE%90%E5%98%89%E4%BD%99%2051.91&t=31&band_rank=7&Refer=top)<br />
 8. [邓紫棋 巡演](https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%20%E5%B7%A1%E6%BC%94&t=31&band_rank=8&Refer=top)<br />
-9. [出轨男卫明提离婚独吞家产](https://s.weibo.com/weibo?q=%23%E5%87%BA%E8%BD%A8%E7%94%B7%E5%8D%AB%E6%98%8E%E6%8F%90%E7%A6%BB%E5%A9%9A%E7%8B%AC%E5%90%9E%E5%AE%B6%E4%BA%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [坚如磐石首映礼好多人啊](https://s.weibo.com/weibo?q=%23%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%E9%A6%96%E6%98%A0%E7%A4%BC%E5%A5%BD%E5%A4%9A%E4%BA%BA%E5%95%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
