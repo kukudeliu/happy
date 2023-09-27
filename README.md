@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 06:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 06:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [卡塔尔球员围攻裁判](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E7%90%83%E5%91%98%E5%9B%B4%E6%94%BB%E8%A3%81%E5%88%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [婆婆1天走丢3次民警熟练送回](https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%861%E5%A4%A9%E8%B5%B0%E4%B8%A23%E6%AC%A1%E6%B0%91%E8%AD%A6%E7%86%9F%E7%BB%83%E9%80%81%E5%9B%9E%23&t=31&band_rank=7&Refer=top)<br />
 8. [姚明急得拍大腿](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%98%8E%E6%80%A5%E5%BE%97%E6%8B%8D%E5%A4%A7%E8%85%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [女业主与写字楼男员工商谈突然被扇耳光](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%9A%E4%B8%BB%E4%B8%8E%E5%86%99%E5%AD%97%E6%A5%BC%E7%94%B7%E5%91%98%E5%B7%A5%E5%95%86%E8%B0%88%E7%AA%81%E7%84%B6%E8%A2%AB%E6%89%87%E8%80%B3%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [这是我认识的国足吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E6%88%91%E8%AE%A4%E8%AF%86%E7%9A%84%E5%9B%BD%E8%B6%B3%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
