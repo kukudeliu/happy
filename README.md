@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 21:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 21:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男足 梦幻开局](https://s.weibo.com/weibo?q=%E7%94%B7%E8%B6%B3%20%E6%A2%A6%E5%B9%BB%E5%BC%80%E5%B1%80&t=31&band_rank=6&Refer=top)<br />
 7. [黄凯连续五年考研上岸清华](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%87%AF%E8%BF%9E%E7%BB%AD%E4%BA%94%E5%B9%B4%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%E6%B8%85%E5%8D%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [古有替父从军 今有替父追星](https://s.weibo.com/weibo?q=%E5%8F%A4%E6%9C%89%E6%9B%BF%E7%88%B6%E4%BB%8E%E5%86%9B%20%E4%BB%8A%E6%9C%89%E6%9B%BF%E7%88%B6%E8%BF%BD%E6%98%9F&t=31&band_rank=8&Refer=top)<br />
-9. [卢昱晓直播 有求必应](https://s.weibo.com/weibo?q=%E5%8D%A2%E6%98%B1%E6%99%93%E7%9B%B4%E6%92%AD%20%E6%9C%89%E6%B1%82%E5%BF%85%E5%BA%94&t=31&band_rank=9&Refer=top)<br />
+9. [谢兴阳 头一次当上男主了](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%85%B4%E9%98%B3%20%E5%A4%B4%E4%B8%80%E6%AC%A1%E5%BD%93%E4%B8%8A%E7%94%B7%E4%B8%BB%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
