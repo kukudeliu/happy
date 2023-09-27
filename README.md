@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 20:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 20:22:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [papi酱 步入中年的前奏](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E6%AD%A5%E5%85%A5%E4%B8%AD%E5%B9%B4%E7%9A%84%E5%89%8D%E5%A5%8F&t=31&band_rank=5&Refer=top)<br />
 6. [导演说刘诗诗演出了3分真7分假](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E8%AF%B4%E5%88%98%E8%AF%97%E8%AF%97%E6%BC%94%E5%87%BA%E4%BA%863%E5%88%86%E7%9C%9F7%E5%88%86%E5%81%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [沈梦辰 我不行我婚嫁了](https://s.weibo.com/weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E6%88%91%E4%B8%8D%E8%A1%8C%E6%88%91%E5%A9%9A%E5%AB%81%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [为什么劝留学生出国要带筷子](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8A%9D%E7%95%99%E5%AD%A6%E7%94%9F%E5%87%BA%E5%9B%BD%E8%A6%81%E5%B8%A6%E7%AD%B7%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子出差前为妻女做2大锅火锅备餐](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%87%BA%E5%B7%AE%E5%89%8D%E4%B8%BA%E5%A6%BB%E5%A5%B3%E5%81%9A2%E5%A4%A7%E9%94%85%E7%81%AB%E9%94%85%E5%A4%87%E9%A4%90%23&t=31&band_rank=9&Refer=top)<br />
+8. [男子出差前为妻女做2大锅火锅备餐](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%87%BA%E5%B7%AE%E5%89%8D%E4%B8%BA%E5%A6%BB%E5%A5%B3%E5%81%9A2%E5%A4%A7%E9%94%85%E7%81%AB%E9%94%85%E5%A4%87%E9%A4%90%23&t=31&band_rank=8&Refer=top)<br />
+9. [为什么劝留学生出国要带筷子](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8A%9D%E7%95%99%E5%AD%A6%E7%94%9F%E5%87%BA%E5%9B%BD%E8%A6%81%E5%B8%A6%E7%AD%B7%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
