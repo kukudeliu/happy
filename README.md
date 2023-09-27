@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 17:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 17:50:01</h4></div>
 
 > 微博  
 
 1. [华为上架1999元手机壳](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B8%8A%E6%9E%B61999%E5%85%83%E6%89%8B%E6%9C%BA%E5%A3%B3%23&t=31&band_rank=1&Refer=top)<br />
 2. [offer5 8点下班的工作没人做](https://s.weibo.com/weibo?q=offer5%208%E7%82%B9%E4%B8%8B%E7%8F%AD%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%B2%A1%E4%BA%BA%E5%81%9A&t=31&band_rank=2&Refer=top)<br />
 3. [网络中国节](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BB%9C%E4%B8%AD%E5%9B%BD%E8%8A%82%23&t=31&band_rank=3&Refer=top)<br />
-4. [晨光文具主播卖铅笔把不贵写脸上](https://s.weibo.com/weibo?q=%23%E6%99%A8%E5%85%89%E6%96%87%E5%85%B7%E4%B8%BB%E6%92%AD%E5%8D%96%E9%93%85%E7%AC%94%E6%8A%8A%E4%B8%8D%E8%B4%B5%E5%86%99%E8%84%B8%E4%B8%8A%23&t=31&band_rank=4&Refer=top)<br />
-5. [CoCo奶茶道歉](https://s.weibo.com/weibo?q=%23CoCo%E5%A5%B6%E8%8C%B6%E9%81%93%E6%AD%89%23&t=31&band_rank=5&Refer=top)<br />
+4. [CoCo奶茶道歉](https://s.weibo.com/weibo?q=%23CoCo%E5%A5%B6%E8%8C%B6%E9%81%93%E6%AD%89%23&t=31&band_rank=4&Refer=top)<br />
+5. [晨光文具主播卖铅笔把不贵写脸上](https://s.weibo.com/weibo?q=%23%E6%99%A8%E5%85%89%E6%96%87%E5%85%B7%E4%B8%BB%E6%92%AD%E5%8D%96%E9%93%85%E7%AC%94%E6%8A%8A%E4%B8%8D%E8%B4%B5%E5%86%99%E8%84%B8%E4%B8%8A%23&t=31&band_rank=5&Refer=top)<br />
 6. [吃一块月饼相当于吃3碗米饭](https://s.weibo.com/weibo?q=%23%E5%90%83%E4%B8%80%E5%9D%97%E6%9C%88%E9%A5%BC%E7%9B%B8%E5%BD%93%E4%BA%8E%E5%90%833%E7%A2%97%E7%B1%B3%E9%A5%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [沈梦辰 我不行我婚嫁了](https://s.weibo.com/weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E6%88%91%E4%B8%8D%E8%A1%8C%E6%88%91%E5%A9%9A%E5%AB%81%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [左彤体操全能金牌](https://s.weibo.com/weibo?q=%23%E5%B7%A6%E5%BD%A4%E4%BD%93%E6%93%8D%E5%85%A8%E8%83%BD%E9%87%91%E7%89%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [张杰亚运金牌](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [无根门没了](https://s.weibo.com/weibo?q=%E6%97%A0%E6%A0%B9%E9%97%A8%E6%B2%A1%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
