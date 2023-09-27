@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 06:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 06:27:02</h4></div>
 
 > 微博  
 
-1. [多家医院关闭产科](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E5%85%B3%E9%97%AD%E4%BA%A7%E7%A7%91%23&t=31&band_rank=1&Refer=top)<br />
-2. [同居生子分手女子起诉每月给1元抚养费](https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%B1%85%E7%94%9F%E5%AD%90%E5%88%86%E6%89%8B%E5%A5%B3%E5%AD%90%E8%B5%B7%E8%AF%89%E6%AF%8F%E6%9C%88%E7%BB%991%E5%85%83%E6%8A%9A%E5%85%BB%E8%B4%B9%23&t=31&band_rank=2&Refer=top)<br />
+1. [同居生子分手女子起诉每月给1元抚养费](https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%B1%85%E7%94%9F%E5%AD%90%E5%88%86%E6%89%8B%E5%A5%B3%E5%AD%90%E8%B5%B7%E8%AF%89%E6%AF%8F%E6%9C%88%E7%BB%991%E5%85%83%E6%8A%9A%E5%85%BB%E8%B4%B9%23&t=31&band_rank=1&Refer=top)<br />
+2. [多家医院关闭产科](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E5%85%B3%E9%97%AD%E4%BA%A7%E7%A7%91%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国造列车获土耳其总统点赞](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%88%97%E8%BD%A6%E8%8E%B7%E5%9C%9F%E8%80%B3%E5%85%B6%E6%80%BB%E7%BB%9F%E7%82%B9%E8%B5%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [母亲去世女子想推迟结婚被判退彩礼](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%E5%A5%B3%E5%AD%90%E6%83%B3%E6%8E%A8%E8%BF%9F%E7%BB%93%E5%A9%9A%E8%A2%AB%E5%88%A4%E9%80%80%E5%BD%A9%E7%A4%BC%23&t=31&band_rank=4&Refer=top)<br />
 5. [张小斐首部主演电视剧收视率破2](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E9%A6%96%E9%83%A8%E4%B8%BB%E6%BC%94%E7%94%B5%E8%A7%86%E5%89%A7%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B42%23&t=31&band_rank=5&Refer=top)<br />
@@ -22,9 +22,9 @@
 3. [被朝鲜驱逐的美国士兵已被美方拘押](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9C%9D%E9%B2%9C%E9%A9%B1%E9%80%90%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%A3%AB%E5%85%B5%E5%B7%B2%E8%A2%AB%E7%BE%8E%E6%96%B9%E6%8B%98%E6%8A%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [奋力谱写中国式现代化浙江新篇章](https://www.baidu.com/s?wd=%E5%A5%8B%E5%8A%9B%E8%B0%B1%E5%86%99%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%B5%99%E6%B1%9F%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [驻韩使馆提醒中国公民：谨慎整容](https://www.baidu.com/s?wd=%E9%A9%BB%E9%9F%A9%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%EF%BC%9A%E8%B0%A8%E6%85%8E%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中国海警回应菲船只非法侵闯黄岩岛](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%8F%B2%E8%88%B9%E5%8F%AA%E9%9D%9E%E6%B3%95%E4%BE%B5%E9%97%AF%E9%BB%84%E5%B2%A9%E5%B2%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [机票燃油附加费将再上调](https://www.baidu.com/s?wd=%E6%9C%BA%E7%A5%A8%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B4%B9%E5%B0%86%E5%86%8D%E4%B8%8A%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国足赢球后奶奶级球迷激动痛哭](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E8%B5%A2%E7%90%83%E5%90%8E%E5%A5%B6%E5%A5%B6%E7%BA%A7%E7%90%83%E8%BF%B7%E6%BF%80%E5%8A%A8%E7%97%9B%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [孙颖莎获胜后日本队员跺脚尖叫](https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%8E%B7%E8%83%9C%E5%90%8E%E6%97%A5%E6%9C%AC%E9%98%9F%E5%91%98%E8%B7%BA%E8%84%9A%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [华为上架1999元手机壳](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%B8%8A%E6%9E%B61999%E5%85%83%E6%89%8B%E6%9C%BA%E5%A3%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [陕西西安、四川绵阳等地发生巨响](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E8%A5%BF%E5%AE%89%E3%80%81%E5%9B%9B%E5%B7%9D%E7%BB%B5%E9%98%B3%E7%AD%89%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B7%A8%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“阳光玫瑰”不安全 是真的吗？](https://www.baidu.com/s?wd=%E2%80%9C%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E2%80%9D%E4%B8%8D%E5%AE%89%E5%85%A8+%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [被朝鲜驱逐的美国士兵已被美方拘押](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9C%9D%E9%B2%9C%E9%A9%B1%E9%80%90%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%A3%AB%E5%85%B5%E5%B7%B2%E8%A2%AB%E7%BE%8E%E6%96%B9%E6%8B%98%E6%8A%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [奋力谱写中国式现代化浙江新篇章](https://www.baidu.com/s?wd=%E5%A5%8B%E5%8A%9B%E8%B0%B1%E5%86%99%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%B5%99%E6%B1%9F%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [驻韩使馆提醒中国公民：谨慎整容](https://www.baidu.com/s?wd=%E9%A9%BB%E9%9F%A9%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%EF%BC%9A%E8%B0%A8%E6%85%8E%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中国海警回应菲船只非法侵闯黄岩岛](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%8F%B2%E8%88%B9%E5%8F%AA%E9%9D%9E%E6%B3%95%E4%BE%B5%E9%97%AF%E9%BB%84%E5%B2%A9%E5%B2%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [机票燃油附加费将再上调](https://www.baidu.com/s?wd=%E6%9C%BA%E7%A5%A8%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B4%B9%E5%B0%86%E5%86%8D%E4%B8%8A%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国足赢球后奶奶级球迷激动痛哭](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E8%B5%A2%E7%90%83%E5%90%8E%E5%A5%B6%E5%A5%B6%E7%BA%A7%E7%90%83%E8%BF%B7%E6%BF%80%E5%8A%A8%E7%97%9B%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [孙颖莎获胜后日本队员跺脚尖叫](https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%8E%B7%E8%83%9C%E5%90%8E%E6%97%A5%E6%9C%AC%E9%98%9F%E5%91%98%E8%B7%BA%E8%84%9A%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [华为上架1999元手机壳](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%B8%8A%E6%9E%B61999%E5%85%83%E6%89%8B%E6%9C%BA%E5%A3%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [陕西西安、四川绵阳等地发生巨响](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E8%A5%BF%E5%AE%89%E3%80%81%E5%9B%9B%E5%B7%9D%E7%BB%B5%E9%98%B3%E7%AD%89%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B7%A8%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“阳光玫瑰”不安全 是真的吗？](https://www.baidu.com/s?wd=%E2%80%9C%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E2%80%9D%E4%B8%8D%E5%AE%89%E5%85%A8+%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
