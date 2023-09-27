@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 01:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 01:27:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [中国造列车获土耳其总统点赞](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%88%97%E8%BD%A6%E8%8E%B7%E5%9C%9F%E8%80%B3%E5%85%B6%E6%80%BB%E7%BB%9F%E7%82%B9%E8%B5%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [卡塔尔球员围攻裁判](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E7%90%83%E5%91%98%E5%9B%B4%E6%94%BB%E8%A3%81%E5%88%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [母亲去世女子想推迟结婚被判退彩礼](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%E5%A5%B3%E5%AD%90%E6%83%B3%E6%8E%A8%E8%BF%9F%E7%BB%93%E5%A9%9A%E8%A2%AB%E5%88%A4%E9%80%80%E5%BD%A9%E7%A4%BC%23&t=31&band_rank=5&Refer=top)<br />
-6. [张小斐首部主演电视剧收视率破2](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E9%A6%96%E9%83%A8%E4%B8%BB%E6%BC%94%E7%94%B5%E8%A7%86%E5%89%A7%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B42%23&t=31&band_rank=6&Refer=top)<br />
-7. [黄凯连续五年考研上岸清华](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%87%AF%E8%BF%9E%E7%BB%AD%E4%BA%94%E5%B9%B4%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%E6%B8%85%E5%8D%8E%23&t=31&band_rank=7&Refer=top)<br />
+6. [黄凯连续五年考研上岸清华](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%87%AF%E8%BF%9E%E7%BB%AD%E4%BA%94%E5%B9%B4%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%E6%B8%85%E5%8D%8E%23&t=31&band_rank=6&Refer=top)<br />
+7. [张小斐首部主演电视剧收视率破2](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E9%A6%96%E9%83%A8%E4%B8%BB%E6%BC%94%E7%94%B5%E8%A7%86%E5%89%A7%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B42%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国男足晋级八强](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [姚明急得拍大腿](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%98%8E%E6%80%A5%E5%BE%97%E6%8B%8D%E5%A4%A7%E8%85%BF%23&t=31&band_rank=9&Refer=top)<br />
 
