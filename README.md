@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 05:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 05:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [驻韩使馆提醒中国公民：谨慎整容](https://www.baidu.com/s?wd=%E9%A9%BB%E9%9F%A9%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%EF%BC%9A%E8%B0%A8%E6%85%8E%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [咸蛋黄还能人造？20粒才9.9元](https://www.baidu.com/s?wd=%E5%92%B8%E8%9B%8B%E9%BB%84%E8%BF%98%E8%83%BD%E4%BA%BA%E9%80%A0%EF%BC%9F20%E7%B2%92%E6%89%8D9.9%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [背了一堆小乌龟的全红婵相当显眼](https://www.baidu.com/s?wd=%E8%83%8C%E4%BA%86%E4%B8%80%E5%A0%86%E5%B0%8F%E4%B9%8C%E9%BE%9F%E7%9A%84%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9B%B8%E5%BD%93%E6%98%BE%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子称发现公司发假月饼后被开除](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%8F%91%E7%8E%B0%E5%85%AC%E5%8F%B8%E5%8F%91%E5%81%87%E6%9C%88%E9%A5%BC%E5%90%8E%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [陕西西安、四川绵阳等地发生巨响](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E8%A5%BF%E5%AE%89%E3%80%81%E5%9B%9B%E5%B7%9D%E7%BB%B5%E9%98%B3%E7%AD%89%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B7%A8%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“阳光玫瑰”不安全 是真的吗？](https://www.baidu.com/s?wd=%E2%80%9C%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E2%80%9D%E4%B8%8D%E5%AE%89%E5%85%A8+%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [驻韩使馆提醒中国公民：谨慎整容](https://www.baidu.com/s?wd=%E9%A9%BB%E9%9F%A9%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%EF%BC%9A%E8%B0%A8%E6%85%8E%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [咸蛋黄还能人造？20粒才9.9元](https://www.baidu.com/s?wd=%E5%92%B8%E8%9B%8B%E9%BB%84%E8%BF%98%E8%83%BD%E4%BA%BA%E9%80%A0%EF%BC%9F20%E7%B2%92%E6%89%8D9.9%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [背了一堆小乌龟的全红婵相当显眼](https://www.baidu.com/s?wd=%E8%83%8C%E4%BA%86%E4%B8%80%E5%A0%86%E5%B0%8F%E4%B9%8C%E9%BE%9F%E7%9A%84%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9B%B8%E5%BD%93%E6%98%BE%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子称发现公司发假月饼后被开除](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%8F%91%E7%8E%B0%E5%85%AC%E5%8F%B8%E5%8F%91%E5%81%87%E6%9C%88%E9%A5%BC%E5%90%8E%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [陕西西安、四川绵阳等地发生巨响](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E8%A5%BF%E5%AE%89%E3%80%81%E5%9B%9B%E5%B7%9D%E7%BB%B5%E9%98%B3%E7%AD%89%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B7%A8%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“阳光玫瑰”不安全 是真的吗？](https://www.baidu.com/s?wd=%E2%80%9C%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E2%80%9D%E4%B8%8D%E5%AE%89%E5%85%A8+%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
