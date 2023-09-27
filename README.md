@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 08:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 08:21:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [蜜雪冰城涨价](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [仅停4分钟的高铁上消防救人只用了9秒](https://s.weibo.com/weibo?q=%23%E4%BB%85%E5%81%9C4%E5%88%86%E9%92%9F%E7%9A%84%E9%AB%98%E9%93%81%E4%B8%8A%E6%B6%88%E9%98%B2%E6%95%91%E4%BA%BA%E5%8F%AA%E7%94%A8%E4%BA%869%E7%A7%92%23&t=31&band_rank=5&Refer=top)<br />
 6. [弟弟觉得夜色尚浅公开了](https://s.weibo.com/weibo?q=%E5%BC%9F%E5%BC%9F%E8%A7%89%E5%BE%97%E5%A4%9C%E8%89%B2%E5%B0%9A%E6%B5%85%E5%85%AC%E5%BC%80%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [谁家恋综敢这么亲啊](https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E6%81%8B%E7%BB%BC%E6%95%A2%E8%BF%99%E4%B9%88%E4%BA%B2%E5%95%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [幼师吃完席拆现场装饰拉回幼儿园](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%B8%88%E5%90%83%E5%AE%8C%E5%B8%AD%E6%8B%86%E7%8E%B0%E5%9C%BA%E8%A3%85%E9%A5%B0%E6%8B%89%E5%9B%9E%E5%B9%BC%E5%84%BF%E5%9B%AD%23&t=31&band_rank=8&Refer=top)<br />
+7. [幼师吃完席拆现场装饰拉回幼儿园](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%B8%88%E5%90%83%E5%AE%8C%E5%B8%AD%E6%8B%86%E7%8E%B0%E5%9C%BA%E8%A3%85%E9%A5%B0%E6%8B%89%E5%9B%9E%E5%B9%BC%E5%84%BF%E5%9B%AD%23&t=31&band_rank=7&Refer=top)<br />
+8. [谁家恋综敢这么亲啊](https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E6%81%8B%E7%BB%BC%E6%95%A2%E8%BF%99%E4%B9%88%E4%BA%B2%E5%95%8A%23&t=31&band_rank=8&Refer=top)<br />
 9. [卫明出轨再添实锤](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%8E%E5%87%BA%E8%BD%A8%E5%86%8D%E6%B7%BB%E5%AE%9E%E9%94%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
