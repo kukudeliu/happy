@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 09:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 09:32:01</h4></div>
 
 > 微博  
 
-1. [上海成功申办奥运会资格系列赛](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%88%90%E5%8A%9F%E7%94%B3%E5%8A%9E%E5%A5%A5%E8%BF%90%E4%BC%9A%E8%B5%84%E6%A0%BC%E7%B3%BB%E5%88%97%E8%B5%9B%23&t=31&band_rank=1&Refer=top)<br />
-2. [幼师吃完席拆现场装饰拉回幼儿园](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%B8%88%E5%90%83%E5%AE%8C%E5%B8%AD%E6%8B%86%E7%8E%B0%E5%9C%BA%E8%A3%85%E9%A5%B0%E6%8B%89%E5%9B%9E%E5%B9%BC%E5%84%BF%E5%9B%AD%23&t=31&band_rank=2&Refer=top)<br />
+1. [幼师吃完席拆现场装饰拉回幼儿园](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%B8%88%E5%90%83%E5%AE%8C%E5%B8%AD%E6%8B%86%E7%8E%B0%E5%9C%BA%E8%A3%85%E9%A5%B0%E6%8B%89%E5%9B%9E%E5%B9%BC%E5%84%BF%E5%9B%AD%23&t=31&band_rank=1&Refer=top)<br />
+2. [上海成功申办奥运会资格系列赛](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%88%90%E5%8A%9F%E7%94%B3%E5%8A%9E%E5%A5%A5%E8%BF%90%E4%BC%9A%E8%B5%84%E6%A0%BC%E7%B3%BB%E5%88%97%E8%B5%9B%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚运赛场闪闪发光的中国00后](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA%E9%97%AA%E9%97%AA%E5%8F%91%E5%85%89%E7%9A%84%E4%B8%AD%E5%9B%BD00%E5%90%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [空气炸锅为什么不火了](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E6%B0%94%E7%82%B8%E9%94%85%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%81%AB%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [韩国球员为输球后拒绝握手道歉](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%90%83%E5%91%98%E4%B8%BA%E8%BE%93%E7%90%83%E5%90%8E%E6%8B%92%E7%BB%9D%E6%8F%A1%E6%89%8B%E9%81%93%E6%AD%89%23&t=31&band_rank=5&Refer=top)<br />
