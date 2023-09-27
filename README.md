@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 22:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 22:53:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [母亲去世女子想推迟结婚被判退彩礼](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%E5%A5%B3%E5%AD%90%E6%83%B3%E6%8E%A8%E8%BF%9F%E7%BB%93%E5%A9%9A%E8%A2%AB%E5%88%A4%E9%80%80%E5%BD%A9%E7%A4%BC%23&t=31&band_rank=6&Refer=top)<br />
 7. [男足主力停赛](https://s.weibo.com/weibo?q=%E7%94%B7%E8%B6%B3%E4%B8%BB%E5%8A%9B%E5%81%9C%E8%B5%9B&t=31&band_rank=7&Refer=top)<br />
 8. [黄凯连续五年考研上岸清华](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%87%AF%E8%BF%9E%E7%BB%AD%E4%BA%94%E5%B9%B4%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%E6%B8%85%E5%8D%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [沈梦辰 我不行我婚嫁了](https://s.weibo.com/weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E6%88%91%E4%B8%8D%E8%A1%8C%E6%88%91%E5%A9%9A%E5%AB%81%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [权志龙疑签约华纳唱片](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E7%96%91%E7%AD%BE%E7%BA%A6%E5%8D%8E%E7%BA%B3%E5%94%B1%E7%89%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
