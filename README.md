@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 07:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 07:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [姚明赢球后笑了](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E8%B5%A2%E7%90%83%E5%90%8E%E7%AC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [今秋将形成中等强度厄尔尼诺事件](https://www.baidu.com/s?wd=%E4%BB%8A%E7%A7%8B%E5%B0%86%E5%BD%A2%E6%88%90%E4%B8%AD%E7%AD%89%E5%BC%BA%E5%BA%A6%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [陕西西安、四川绵阳等地发生巨响](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E8%A5%BF%E5%AE%89%E3%80%81%E5%9B%9B%E5%B7%9D%E7%BB%B5%E9%98%B3%E7%AD%89%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B7%A8%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [咸蛋黄还能人造？20粒才9.9元](https://www.baidu.com/s?wd=%E5%92%B8%E8%9B%8B%E9%BB%84%E8%BF%98%E8%83%BD%E4%BA%BA%E9%80%A0%EF%BC%9F20%E7%B2%92%E6%89%8D9.9%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [华为上架1999元手机壳](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%B8%8A%E6%9E%B61999%E5%85%83%E6%89%8B%E6%9C%BA%E5%A3%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“阳光玫瑰”不安全 是真的吗？](https://www.baidu.com/s?wd=%E2%80%9C%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E2%80%9D%E4%B8%8D%E5%AE%89%E5%85%A8+%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [姚明赢球后笑了](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E8%B5%A2%E7%90%83%E5%90%8E%E7%AC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [今秋将形成中等强度厄尔尼诺事件](https://www.baidu.com/s?wd=%E4%BB%8A%E7%A7%8B%E5%B0%86%E5%BD%A2%E6%88%90%E4%B8%AD%E7%AD%89%E5%BC%BA%E5%BA%A6%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [陕西西安、四川绵阳等地发生巨响](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E8%A5%BF%E5%AE%89%E3%80%81%E5%9B%9B%E5%B7%9D%E7%BB%B5%E9%98%B3%E7%AD%89%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B7%A8%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [咸蛋黄还能人造？20粒才9.9元](https://www.baidu.com/s?wd=%E5%92%B8%E8%9B%8B%E9%BB%84%E8%BF%98%E8%83%BD%E4%BA%BA%E9%80%A0%EF%BC%9F20%E7%B2%92%E6%89%8D9.9%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [华为上架1999元手机壳](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%B8%8A%E6%9E%B61999%E5%85%83%E6%89%8B%E6%9C%BA%E5%A3%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“阳光玫瑰”不安全 是真的吗？](https://www.baidu.com/s?wd=%E2%80%9C%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E2%80%9D%E4%B8%8D%E5%AE%89%E5%85%A8+%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
