@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 21:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 21:26:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [习近平总书记考察浙江纪实](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%80%83%E5%AF%9F%E6%B5%99%E6%B1%9F%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [总书记寄语这些“未来之星”](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%84%E8%AF%AD%E8%BF%99%E4%BA%9B%E2%80%9C%E6%9C%AA%E6%9D%A5%E4%B9%8B%E6%98%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [亚运男足：中国vs卡塔尔](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E7%94%B7%E8%B6%B3%EF%BC%9A%E4%B8%AD%E5%9B%BDvs%E5%8D%A1%E5%A1%94%E5%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [朝鲜决定驱逐非法入境的美国士兵](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%86%B3%E5%AE%9A%E9%A9%B1%E9%80%90%E9%9D%9E%E6%B3%95%E5%85%A5%E5%A2%83%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%A3%AB%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [奋力谱写中国式现代化浙江新篇章](https://www.baidu.com/s?wd=%E5%A5%8B%E5%8A%9B%E8%B0%B1%E5%86%99%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%B5%99%E6%B1%9F%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [习近平总书记考察浙江纪实](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%80%83%E5%AF%9F%E6%B5%99%E6%B1%9F%E7%BA%AA%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [总书记寄语这些“未来之星”](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%84%E8%AF%AD%E8%BF%99%E4%BA%9B%E2%80%9C%E6%9C%AA%E6%9D%A5%E4%B9%8B%E6%98%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [亚运男足：中国vs卡塔尔](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E7%94%B7%E8%B6%B3%EF%BC%9A%E4%B8%AD%E5%9B%BDvs%E5%8D%A1%E5%A1%94%E5%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [朝鲜决定驱逐非法入境的美国士兵](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%86%B3%E5%AE%9A%E9%A9%B1%E9%80%90%E9%9D%9E%E6%B3%95%E5%85%A5%E5%A2%83%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%A3%AB%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [奋力谱写中国式现代化浙江新篇章](https://www.baidu.com/s?wd=%E5%A5%8B%E5%8A%9B%E8%B0%B1%E5%86%99%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%B5%99%E6%B1%9F%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
