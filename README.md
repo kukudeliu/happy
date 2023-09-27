@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 23:02:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 23:03:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [母亲去世女子想推迟结婚被判退彩礼](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%E5%A5%B3%E5%AD%90%E6%83%B3%E6%8E%A8%E8%BF%9F%E7%BB%93%E5%A9%9A%E8%A2%AB%E5%88%A4%E9%80%80%E5%BD%A9%E7%A4%BC%23&t=31&band_rank=4&Refer=top)<br />
 5. [徐嘉余 51.91](https://s.weibo.com/weibo?q=%E5%BE%90%E5%98%89%E4%BD%99%2051.91&t=31&band_rank=5&Refer=top)<br />
 6. [男足主力停赛](https://s.weibo.com/weibo?q=%E7%94%B7%E8%B6%B3%E4%B8%BB%E5%8A%9B%E5%81%9C%E8%B5%9B&t=31&band_rank=6&Refer=top)<br />
-7. [女儿用父亲600块买的整只牛头做火锅](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E7%94%A8%E7%88%B6%E4%BA%B2600%E5%9D%97%E4%B9%B0%E7%9A%84%E6%95%B4%E5%8F%AA%E7%89%9B%E5%A4%B4%E5%81%9A%E7%81%AB%E9%94%85%23&t=31&band_rank=7&Refer=top)<br />
-8. [权志龙疑签约华纳唱片](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E7%96%91%E7%AD%BE%E7%BA%A6%E5%8D%8E%E7%BA%B3%E5%94%B1%E7%89%87%23&t=31&band_rank=8&Refer=top)<br />
+7. [权志龙疑签约华纳唱片](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E7%96%91%E7%AD%BE%E7%BA%A6%E5%8D%8E%E7%BA%B3%E5%94%B1%E7%89%87%23&t=31&band_rank=7&Refer=top)<br />
+8. [女儿用父亲600块买的整只牛头做火锅](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E7%94%A8%E7%88%B6%E4%BA%B2600%E5%9D%97%E4%B9%B0%E7%9A%84%E6%95%B4%E5%8F%AA%E7%89%9B%E5%A4%B4%E5%81%9A%E7%81%AB%E9%94%85%23&t=31&band_rank=8&Refer=top)<br />
 9. [黄凯连续五年考研上岸清华](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%87%AF%E8%BF%9E%E7%BB%AD%E4%BA%94%E5%B9%B4%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%E6%B8%85%E5%8D%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
