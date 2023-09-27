@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 16:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 16:46:01</h4></div>
 
 > 微博  
 
-1. [CoCo奶茶道歉](https://s.weibo.com/weibo?q=%23CoCo%E5%A5%B6%E8%8C%B6%E9%81%93%E6%AD%89%23&t=31&band_rank=1&Refer=top)<br />
-2. [华为上架1999元手机壳](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B8%8A%E6%9E%B61999%E5%85%83%E6%89%8B%E6%9C%BA%E5%A3%B3%23&t=31&band_rank=2&Refer=top)<br />
+1. [华为上架1999元手机壳](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B8%8A%E6%9E%B61999%E5%85%83%E6%89%8B%E6%9C%BA%E5%A3%B3%23&t=31&band_rank=1&Refer=top)<br />
+2. [CoCo奶茶道歉](https://s.weibo.com/weibo?q=%23CoCo%E5%A5%B6%E8%8C%B6%E9%81%93%E6%AD%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [网络中国节](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BB%9C%E4%B8%AD%E5%9B%BD%E8%8A%82%23&t=31&band_rank=3&Refer=top)<br />
 4. [沈梦辰 我不行我婚嫁了](https://s.weibo.com/weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E6%88%91%E4%B8%8D%E8%A1%8C%E6%88%91%E5%A9%9A%E5%AB%81%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [论文太干净了我舍不得碰](https://s.weibo.com/weibo?q=%23%E8%AE%BA%E6%96%87%E5%A4%AA%E5%B9%B2%E5%87%80%E4%BA%86%E6%88%91%E8%88%8D%E4%B8%8D%E5%BE%97%E7%A2%B0%23&t=31&band_rank=5&Refer=top)<br />
