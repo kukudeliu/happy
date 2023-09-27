@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 06:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 06:09:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [驻韩使馆提醒中国公民：谨慎整容](https://www.baidu.com/s?wd=%E9%A9%BB%E9%9F%A9%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%EF%BC%9A%E8%B0%A8%E6%85%8E%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [背了一堆小乌龟的全红婵相当显眼](https://www.baidu.com/s?wd=%E8%83%8C%E4%BA%86%E4%B8%80%E5%A0%86%E5%B0%8F%E4%B9%8C%E9%BE%9F%E7%9A%84%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9B%B8%E5%BD%93%E6%98%BE%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [萌娃夸赞郭晶晶 霍启刚：是我太太](https://www.baidu.com/s?wd=%E8%90%8C%E5%A8%83%E5%A4%B8%E8%B5%9E%E9%83%AD%E6%99%B6%E6%99%B6+%E9%9C%8D%E5%90%AF%E5%88%9A%EF%BC%9A%E6%98%AF%E6%88%91%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国足换血：四分之一球员来自亚运队](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E6%8D%A2%E8%A1%80%EF%BC%9A%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E7%90%83%E5%91%98%E6%9D%A5%E8%87%AA%E4%BA%9A%E8%BF%90%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大陆2027年武力攻打台湾？官方回应](https://www.baidu.com/s?wd=%E5%A4%A7%E9%99%862027%E5%B9%B4%E6%AD%A6%E5%8A%9B%E6%94%BB%E6%89%93%E5%8F%B0%E6%B9%BE%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“阳光玫瑰”不安全 是真的吗？](https://www.baidu.com/s?wd=%E2%80%9C%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E2%80%9D%E4%B8%8D%E5%AE%89%E5%85%A8+%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [驻韩使馆提醒中国公民：谨慎整容](https://www.baidu.com/s?wd=%E9%A9%BB%E9%9F%A9%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%EF%BC%9A%E8%B0%A8%E6%85%8E%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [背了一堆小乌龟的全红婵相当显眼](https://www.baidu.com/s?wd=%E8%83%8C%E4%BA%86%E4%B8%80%E5%A0%86%E5%B0%8F%E4%B9%8C%E9%BE%9F%E7%9A%84%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9B%B8%E5%BD%93%E6%98%BE%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [萌娃夸赞郭晶晶 霍启刚：是我太太](https://www.baidu.com/s?wd=%E8%90%8C%E5%A8%83%E5%A4%B8%E8%B5%9E%E9%83%AD%E6%99%B6%E6%99%B6+%E9%9C%8D%E5%90%AF%E5%88%9A%EF%BC%9A%E6%98%AF%E6%88%91%E5%A4%AA%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国足换血：四分之一球员来自亚运队](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E6%8D%A2%E8%A1%80%EF%BC%9A%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E7%90%83%E5%91%98%E6%9D%A5%E8%87%AA%E4%BA%9A%E8%BF%90%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大陆2027年武力攻打台湾？官方回应](https://www.baidu.com/s?wd=%E5%A4%A7%E9%99%862027%E5%B9%B4%E6%AD%A6%E5%8A%9B%E6%94%BB%E6%89%93%E5%8F%B0%E6%B9%BE%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“阳光玫瑰”不安全 是真的吗？](https://www.baidu.com/s?wd=%E2%80%9C%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E2%80%9D%E4%B8%8D%E5%AE%89%E5%85%A8+%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
