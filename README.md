@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 07:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 07:40:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [房子14亿人住不完不简单等于房产过剩](https://s.weibo.com/weibo?q=%23%E6%88%BF%E5%AD%9014%E4%BA%BF%E4%BA%BA%E4%BD%8F%E4%B8%8D%E5%AE%8C%E4%B8%8D%E7%AE%80%E5%8D%95%E7%AD%89%E4%BA%8E%E6%88%BF%E4%BA%A7%E8%BF%87%E5%89%A9%23&t=31&band_rank=4&Refer=top)<br />
 5. [孙杨直播哭了](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E7%9B%B4%E6%92%AD%E5%93%AD%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [利拉德被交易到雄鹿](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%8B%89%E5%BE%B7%E8%A2%AB%E4%BA%A4%E6%98%93%E5%88%B0%E9%9B%84%E9%B9%BF%23&t=31&band_rank=6&Refer=top)<br />
-7. [母亲去世女子想推迟结婚被判退彩礼](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%E5%A5%B3%E5%AD%90%E6%83%B3%E6%8E%A8%E8%BF%9F%E7%BB%93%E5%A9%9A%E8%A2%AB%E5%88%A4%E9%80%80%E5%BD%A9%E7%A4%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [张小斐首部主演电视剧收视率破2](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E9%A6%96%E9%83%A8%E4%B8%BB%E6%BC%94%E7%94%B5%E8%A7%86%E5%89%A7%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B42%23&t=31&band_rank=8&Refer=top)<br />
+7. [张小斐首部主演电视剧收视率破2](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E9%A6%96%E9%83%A8%E4%B8%BB%E6%BC%94%E7%94%B5%E8%A7%86%E5%89%A7%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B42%23&t=31&band_rank=7&Refer=top)<br />
+8. [母亲去世女子想推迟结婚被判退彩礼](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%E5%A5%B3%E5%AD%90%E6%83%B3%E6%8E%A8%E8%BF%9F%E7%BB%93%E5%A9%9A%E8%A2%AB%E5%88%A4%E9%80%80%E5%BD%A9%E7%A4%BC%23&t=31&band_rank=8&Refer=top)<br />
 9. [卡塔尔球员围攻裁判](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E7%90%83%E5%91%98%E5%9B%B4%E6%94%BB%E8%A3%81%E5%88%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
