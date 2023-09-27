@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 07:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 07:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张雨霏赛后哽咽称第五名的她就是奇迹](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E8%B5%9B%E5%90%8E%E5%93%BD%E5%92%BD%E7%A7%B0%E7%AC%AC%E4%BA%94%E5%90%8D%E7%9A%84%E5%A5%B9%E5%B0%B1%E6%98%AF%E5%A5%87%E8%BF%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [张小斐首部主演电视剧收视率破2](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E9%A6%96%E9%83%A8%E4%B8%BB%E6%BC%94%E7%94%B5%E8%A7%86%E5%89%A7%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B42%23&t=31&band_rank=7&Refer=top)<br />
 8. [利拉德被交易到雄鹿](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%8B%89%E5%BE%B7%E8%A2%AB%E4%BA%A4%E6%98%93%E5%88%B0%E9%9B%84%E9%B9%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [再见CSGO 你好CS2](https://s.weibo.com/weibo?q=%E5%86%8D%E8%A7%81CSGO%20%E4%BD%A0%E5%A5%BDCS2&t=31&band_rank=9&Refer=top)<br />
+9. [花西子 得力](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%A5%BF%E5%AD%90%20%E5%BE%97%E5%8A%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
