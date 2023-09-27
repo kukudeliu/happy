@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 11:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 11:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [胡彦斌问孙怡Melody被求婚的经历](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E9%97%AE%E5%AD%99%E6%80%A1Melody%E8%A2%AB%E6%B1%82%E5%A9%9A%E7%9A%84%E7%BB%8F%E5%8E%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [董宇辉回应周杰伦演唱会门票来源](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%BA%94%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E6%9D%A5%E6%BA%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴王俊凯金智秀G社生图](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%87%91%E6%99%BA%E7%A7%80G%E7%A4%BE%E7%94%9F%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [华晨宇希望通过创作给予他人帮助](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%B8%8C%E6%9C%9B%E9%80%9A%E8%BF%87%E5%88%9B%E4%BD%9C%E7%BB%99%E4%BA%88%E4%BB%96%E4%BA%BA%E5%B8%AE%E5%8A%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [温柔处理打不疼欺凌者](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E6%9F%94%E5%A4%84%E7%90%86%E6%89%93%E4%B8%8D%E7%96%BC%E6%AC%BA%E5%87%8C%E8%80%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
