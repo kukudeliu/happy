@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 01:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 01:59:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [卡塔尔球员围攻裁判](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E7%90%83%E5%91%98%E5%9B%B4%E6%94%BB%E8%A3%81%E5%88%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [中国男足晋级八强](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [黄凯连续五年考研上岸清华](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%87%AF%E8%BF%9E%E7%BB%AD%E4%BA%94%E5%B9%B4%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%E6%B8%85%E5%8D%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [张小斐首部主演电视剧收视率破2](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E9%A6%96%E9%83%A8%E4%B8%BB%E6%BC%94%E7%94%B5%E8%A7%86%E5%89%A7%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B42%23&t=31&band_rank=8&Refer=top)<br />
-9. [五个习惯可能导致腹部长赘肉](https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%AA%E4%B9%A0%E6%83%AF%E5%8F%AF%E8%83%BD%E5%AF%BC%E8%87%B4%E8%85%B9%E9%83%A8%E9%95%BF%E8%B5%98%E8%82%89%23&t=31&band_rank=9&Refer=top)<br />
+8. [五个习惯可能导致腹部长赘肉](https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%AA%E4%B9%A0%E6%83%AF%E5%8F%AF%E8%83%BD%E5%AF%BC%E8%87%B4%E8%85%B9%E9%83%A8%E9%95%BF%E8%B5%98%E8%82%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [张小斐首部主演电视剧收视率破2](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E9%A6%96%E9%83%A8%E4%B8%BB%E6%BC%94%E7%94%B5%E8%A7%86%E5%89%A7%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B42%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [被朝鲜驱逐的美国士兵已被美方拘押](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9C%9D%E9%B2%9C%E9%A9%B1%E9%80%90%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%A3%AB%E5%85%B5%E5%B7%B2%E8%A2%AB%E7%BE%8E%E6%96%B9%E6%8B%98%E6%8A%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [奋力谱写中国式现代化浙江新篇章](https://www.baidu.com/s?wd=%E5%A5%8B%E5%8A%9B%E8%B0%B1%E5%86%99%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%B5%99%E6%B1%9F%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [驻韩使馆提醒中国公民：谨慎整容](https://www.baidu.com/s?wd=%E9%A9%BB%E9%9F%A9%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%EF%BC%9A%E8%B0%A8%E6%85%8E%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [天津渔政执法中与渔船相撞](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E6%B8%94%E6%94%BF%E6%89%A7%E6%B3%95%E4%B8%AD%E4%B8%8E%E6%B8%94%E8%88%B9%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杭师大学生在宿舍阳台看亚运比赛](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B8%88%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%AE%BF%E8%88%8D%E9%98%B3%E5%8F%B0%E7%9C%8B%E4%BA%9A%E8%BF%90%E6%AF%94%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [纳卡油库爆炸事件至少125死](https://www.baidu.com/s?wd=%E7%BA%B3%E5%8D%A1%E6%B2%B9%E5%BA%93%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%E8%87%B3%E5%B0%91125%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [机票燃油附加费将再上调](https://www.baidu.com/s?wd=%E6%9C%BA%E7%A5%A8%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B4%B9%E5%B0%86%E5%86%8D%E4%B8%8A%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [背了一堆小乌龟的全红婵相当显眼](https://www.baidu.com/s?wd=%E8%83%8C%E4%BA%86%E4%B8%80%E5%A0%86%E5%B0%8F%E4%B9%8C%E9%BE%9F%E7%9A%84%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9B%B8%E5%BD%93%E6%98%BE%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：电竞入亚理性看待更重要](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%94%B5%E7%AB%9E%E5%85%A5%E4%BA%9A%E7%90%86%E6%80%A7%E7%9C%8B%E5%BE%85%E6%9B%B4%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“阳光玫瑰”不安全 是真的吗？](https://www.baidu.com/s?wd=%E2%80%9C%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E2%80%9D%E4%B8%8D%E5%AE%89%E5%85%A8+%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [被朝鲜驱逐的美国士兵已被美方拘押](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9C%9D%E9%B2%9C%E9%A9%B1%E9%80%90%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%A3%AB%E5%85%B5%E5%B7%B2%E8%A2%AB%E7%BE%8E%E6%96%B9%E6%8B%98%E6%8A%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [奋力谱写中国式现代化浙江新篇章](https://www.baidu.com/s?wd=%E5%A5%8B%E5%8A%9B%E8%B0%B1%E5%86%99%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%B5%99%E6%B1%9F%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [驻韩使馆提醒中国公民：谨慎整容](https://www.baidu.com/s?wd=%E9%A9%BB%E9%9F%A9%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%EF%BC%9A%E8%B0%A8%E6%85%8E%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [天津渔政执法中与渔船相撞](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E6%B8%94%E6%94%BF%E6%89%A7%E6%B3%95%E4%B8%AD%E4%B8%8E%E6%B8%94%E8%88%B9%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杭师大学生在宿舍阳台看亚运比赛](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B8%88%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%AE%BF%E8%88%8D%E9%98%B3%E5%8F%B0%E7%9C%8B%E4%BA%9A%E8%BF%90%E6%AF%94%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [纳卡油库爆炸事件至少125死](https://www.baidu.com/s?wd=%E7%BA%B3%E5%8D%A1%E6%B2%B9%E5%BA%93%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%E8%87%B3%E5%B0%91125%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [机票燃油附加费将再上调](https://www.baidu.com/s?wd=%E6%9C%BA%E7%A5%A8%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B4%B9%E5%B0%86%E5%86%8D%E4%B8%8A%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [背了一堆小乌龟的全红婵相当显眼](https://www.baidu.com/s?wd=%E8%83%8C%E4%BA%86%E4%B8%80%E5%A0%86%E5%B0%8F%E4%B9%8C%E9%BE%9F%E7%9A%84%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9B%B8%E5%BD%93%E6%98%BE%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：电竞入亚理性看待更重要](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%94%B5%E7%AB%9E%E5%85%A5%E4%BA%9A%E7%90%86%E6%80%A7%E7%9C%8B%E5%BE%85%E6%9B%B4%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“阳光玫瑰”不安全 是真的吗？](https://www.baidu.com/s?wd=%E2%80%9C%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E2%80%9D%E4%B8%8D%E5%AE%89%E5%85%A8+%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
