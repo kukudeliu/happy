@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 12:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 12:39:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [空气炸锅为什么不火了](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E6%B0%94%E7%82%B8%E9%94%85%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%81%AB%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [张智霖袁咏仪儿子ins道歉](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E8%A2%81%E5%92%8F%E4%BB%AA%E5%84%BF%E5%AD%90ins%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [封神集体跳科目一](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E9%9B%86%E4%BD%93%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [CoCo 周边要钱](https://s.weibo.com/weibo?q=CoCo%20%E5%91%A8%E8%BE%B9%E8%A6%81%E9%92%B1&t=31&band_rank=8&Refer=top)<br />
-9. [多地医生降薪](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8C%BB%E7%94%9F%E9%99%8D%E8%96%AA%23&t=31&band_rank=9&Refer=top)<br />
+8. [多地医生降薪](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8C%BB%E7%94%9F%E9%99%8D%E8%96%AA%23&t=31&band_rank=8&Refer=top)<br />
+9. [CoCo 周边要钱](https://s.weibo.com/weibo?q=CoCo%20%E5%91%A8%E8%BE%B9%E8%A6%81%E9%92%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
