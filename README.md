@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 18:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 18:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [offer5 8点下班的工作没人做](https://s.weibo.com/weibo?q=offer5%208%E7%82%B9%E4%B8%8B%E7%8F%AD%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%B2%A1%E4%BA%BA%E5%81%9A&t=31&band_rank=6&Refer=top)<br />
 7. [歼20飞行员亲述逼退外机经历](https://s.weibo.com/weibo?q=%23%E6%AD%BC20%E9%A3%9E%E8%A1%8C%E5%91%98%E4%BA%B2%E8%BF%B0%E9%80%BC%E9%80%80%E5%A4%96%E6%9C%BA%E7%BB%8F%E5%8E%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [王楚钦孙颖莎混双开门红](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E6%B7%B7%E5%8F%8C%E5%BC%80%E9%97%A8%E7%BA%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [无根门没了](https://s.weibo.com/weibo?q=%E6%97%A0%E6%A0%B9%E9%97%A8%E6%B2%A1%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [CoCo奶茶道歉](https://s.weibo.com/weibo?q=%23CoCo%E5%A5%B6%E8%8C%B6%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
