@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 10:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 10:17:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [英雄联盟中国队先下一城](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [上海成功申办奥运会资格系列赛](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%88%90%E5%8A%9F%E7%94%B3%E5%8A%9E%E5%A5%A5%E8%BF%90%E4%BC%9A%E8%B5%84%E6%A0%BC%E7%B3%BB%E5%88%97%E8%B5%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [花花不久就能和大家见面啦](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E4%B8%8D%E4%B9%85%E5%B0%B1%E8%83%BD%E5%92%8C%E5%A4%A7%E5%AE%B6%E8%A7%81%E9%9D%A2%E5%95%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [英雄联盟中国队vs中国澳门队](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E9%98%9Fvs%E4%B8%AD%E5%9B%BD%E6%BE%B3%E9%97%A8%E9%98%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩国球员为输球后拒绝握手道歉](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%90%83%E5%91%98%E4%B8%BA%E8%BE%93%E7%90%83%E5%90%8E%E6%8B%92%E7%BB%9D%E6%8F%A1%E6%89%8B%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+8. [韩国球员为输球后拒绝握手道歉](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%90%83%E5%91%98%E4%B8%BA%E8%BE%93%E7%90%83%E5%90%8E%E6%8B%92%E7%BB%9D%E6%8F%A1%E6%89%8B%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [Newjeans将演唱英雄联盟主题曲](https://s.weibo.com/weibo?q=%23Newjeans%E5%B0%86%E6%BC%94%E5%94%B1%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%BB%E9%A2%98%E6%9B%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
