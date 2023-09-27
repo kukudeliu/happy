@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 21:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 21:13:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [这届00后扛起了大梁](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A00%E5%90%8E%E6%89%9B%E8%B5%B7%E4%BA%86%E5%A4%A7%E6%A2%81%23&t=31&band_rank=3&Refer=top)<br />
 4. [日本阳光玫瑰价格大跌](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [古有替父从军 今有替父追星](https://s.weibo.com/weibo?q=%E5%8F%A4%E6%9C%89%E6%9B%BF%E7%88%B6%E4%BB%8E%E5%86%9B%20%E4%BB%8A%E6%9C%89%E6%9B%BF%E7%88%B6%E8%BF%BD%E6%98%9F&t=31&band_rank=5&Refer=top)<br />
-6. [男足 梦幻开局](https://s.weibo.com/weibo?q=%E7%94%B7%E8%B6%B3%20%E6%A2%A6%E5%B9%BB%E5%BC%80%E5%B1%80&t=31&band_rank=6&Refer=top)<br />
-7. [华晨宇演唱会穿婚纱](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A9%BF%E5%A9%9A%E7%BA%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [沈梦辰 我不行我婚嫁了](https://s.weibo.com/weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E6%88%91%E4%B8%8D%E8%A1%8C%E6%88%91%E5%A9%9A%E5%AB%81%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [导演说刘诗诗演出了3分真7分假](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E8%AF%B4%E5%88%98%E8%AF%97%E8%AF%97%E6%BC%94%E5%87%BA%E4%BA%863%E5%88%86%E7%9C%9F7%E5%88%86%E5%81%87%23&t=31&band_rank=9&Refer=top)<br />
+6. [华晨宇演唱会穿婚纱](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A9%BF%E5%A9%9A%E7%BA%B1%23&t=31&band_rank=6&Refer=top)<br />
+7. [男足 梦幻开局](https://s.weibo.com/weibo?q=%E7%94%B7%E8%B6%B3%20%E6%A2%A6%E5%B9%BB%E5%BC%80%E5%B1%80&t=31&band_rank=7&Refer=top)<br />
+8. [导演说刘诗诗演出了3分真7分假](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E8%AF%B4%E5%88%98%E8%AF%97%E8%AF%97%E6%BC%94%E5%87%BA%E4%BA%863%E5%88%86%E7%9C%9F7%E5%88%86%E5%81%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [沈梦辰 我不行我婚嫁了](https://s.weibo.com/weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E6%88%91%E4%B8%8D%E8%A1%8C%E6%88%91%E5%A9%9A%E5%AB%81%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
