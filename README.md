@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 09:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 09:36:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [韩国球员为输球后拒绝握手道歉](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%90%83%E5%91%98%E4%B8%BA%E8%BE%93%E7%90%83%E5%90%8E%E6%8B%92%E7%BB%9D%E6%8F%A1%E6%89%8B%E9%81%93%E6%AD%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [猫和老鼠中女主人露过一次脸](https://s.weibo.com/weibo?q=%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0%E4%B8%AD%E5%A5%B3%E4%B8%BB%E4%BA%BA%E9%9C%B2%E8%BF%87%E4%B8%80%E6%AC%A1%E8%84%B8&t=31&band_rank=6&Refer=top)<br />
 7. [蜜雪冰城涨价](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [弟弟觉得夜色尚浅公开了](https://s.weibo.com/weibo?q=%E5%BC%9F%E5%BC%9F%E8%A7%89%E5%BE%97%E5%A4%9C%E8%89%B2%E5%B0%9A%E6%B5%85%E5%85%AC%E5%BC%80%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [张智霖袁咏仪儿子ins道歉](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E8%A2%81%E5%92%8F%E4%BB%AA%E5%84%BF%E5%AD%90ins%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+8. [张智霖袁咏仪儿子ins道歉](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E8%A2%81%E5%92%8F%E4%BB%AA%E5%84%BF%E5%AD%90ins%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [弟弟觉得夜色尚浅公开了](https://s.weibo.com/weibo?q=%E5%BC%9F%E5%BC%9F%E8%A7%89%E5%BE%97%E5%A4%9C%E8%89%B2%E5%B0%9A%E6%B5%85%E5%85%AC%E5%BC%80%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
