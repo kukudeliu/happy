@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 13:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-27 13:48:02</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [赵丽颖申请强制黑粉道歉](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E9%BB%91%E7%B2%89%E9%81%93%E6%AD%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚运赛场上这些00后真棒](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA%E4%B8%8A%E8%BF%99%E4%BA%9B00%E5%90%8E%E7%9C%9F%E6%A3%92%23&t=31&band_rank=3&Refer=top)<br />
 4. [吴青峰发文批评演唱会手机海](https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%9D%92%E5%B3%B0%E5%8F%91%E6%96%87%E6%89%B9%E8%AF%84%E6%BC%94%E5%94%B1%E4%BC%9A%E6%89%8B%E6%9C%BA%E6%B5%B7%23&t=31&band_rank=4&Refer=top)<br />
-5. [多地医生降薪](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8C%BB%E7%94%9F%E9%99%8D%E8%96%AA%23&t=31&band_rank=5&Refer=top)<br />
-6. [恋综史上最令人窒息男嘉宾](https://s.weibo.com/weibo?q=%23%E6%81%8B%E7%BB%BC%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BB%A4%E4%BA%BA%E7%AA%92%E6%81%AF%E7%94%B7%E5%98%89%E5%AE%BE%23&t=31&band_rank=6&Refer=top)<br />
+5. [恋综史上最令人窒息男嘉宾](https://s.weibo.com/weibo?q=%23%E6%81%8B%E7%BB%BC%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BB%A4%E4%BA%BA%E7%AA%92%E6%81%AF%E7%94%B7%E5%98%89%E5%AE%BE%23&t=31&band_rank=5&Refer=top)<br />
+6. [多地医生降薪](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8C%BB%E7%94%9F%E9%99%8D%E8%96%AA%23&t=31&band_rank=6&Refer=top)<br />
 7. [空气炸锅为什么不火了](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E6%B0%94%E7%82%B8%E9%94%85%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%81%AB%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [张智霖袁咏仪儿子ins道歉](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E8%A2%81%E5%92%8F%E4%BB%AA%E5%84%BF%E5%AD%90ins%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
 9. [央媒称年龄不应是违法犯罪的挡箭牌](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E5%AA%92%E7%A7%B0%E5%B9%B4%E9%BE%84%E4%B8%8D%E5%BA%94%E6%98%AF%E8%BF%9D%E6%B3%95%E7%8A%AF%E7%BD%AA%E7%9A%84%E6%8C%A1%E7%AE%AD%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
