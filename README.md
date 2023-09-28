@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 18:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 18:35:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 3. [假期高速开堵 网友称9小时没开出省](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E9%AB%98%E9%80%9F%E5%BC%80%E5%A0%B5+%E7%BD%91%E5%8F%8B%E7%A7%B09%E5%B0%8F%E6%97%B6%E6%B2%A1%E5%BC%80%E5%87%BA%E7%9C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [假期出游安全指南](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E5%87%BA%E6%B8%B8%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [柯洁：没有什么时刻比今天更遗憾了](https://www.baidu.com/s?wd=%E6%9F%AF%E6%B4%81%EF%BC%9A%E6%B2%A1%E6%9C%89%E4%BB%80%E4%B9%88%E6%97%B6%E5%88%BB%E6%AF%94%E4%BB%8A%E5%A4%A9%E6%9B%B4%E9%81%97%E6%86%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [河南卫视中秋晚会](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [亚运村拔罐医生：拔不完真的拔不完](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E6%9D%91%E6%8B%94%E7%BD%90%E5%8C%BB%E7%94%9F%EF%BC%9A%E6%8B%94%E4%B8%8D%E5%AE%8C%E7%9C%9F%E7%9A%84%E6%8B%94%E4%B8%8D%E5%AE%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [C919单笔最大订单落地 再卖100架](https://www.baidu.com/s?wd=C919%E5%8D%95%E7%AC%94%E6%9C%80%E5%A4%A7%E8%AE%A2%E5%8D%95%E8%90%BD%E5%9C%B0+%E5%86%8D%E5%8D%96100%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [百度中秋礼遇季](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E4%B8%AD%E7%A7%8B%E7%A4%BC%E9%81%87%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [陕西师大发生命案？警方回应](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%B8%88%E5%A4%A7%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [假期高速开堵 网友称9小时没开出省](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E9%AB%98%E9%80%9F%E5%BC%80%E5%A0%B5+%E7%BD%91%E5%8F%8B%E7%A7%B09%E5%B0%8F%E6%97%B6%E6%B2%A1%E5%BC%80%E5%87%BA%E7%9C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [假期出游安全指南](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E5%87%BA%E6%B8%B8%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [柯洁：没有什么时刻比今天更遗憾了](https://www.baidu.com/s?wd=%E6%9F%AF%E6%B4%81%EF%BC%9A%E6%B2%A1%E6%9C%89%E4%BB%80%E4%B9%88%E6%97%B6%E5%88%BB%E6%AF%94%E4%BB%8A%E5%A4%A9%E6%9B%B4%E9%81%97%E6%86%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [河南卫视中秋晚会](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [亚运村拔罐医生：拔不完真的拔不完](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E6%9D%91%E6%8B%94%E7%BD%90%E5%8C%BB%E7%94%9F%EF%BC%9A%E6%8B%94%E4%B8%8D%E5%AE%8C%E7%9C%9F%E7%9A%84%E6%8B%94%E4%B8%8D%E5%AE%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [C919单笔最大订单落地 再卖100架](https://www.baidu.com/s?wd=C919%E5%8D%95%E7%AC%94%E6%9C%80%E5%A4%A7%E8%AE%A2%E5%8D%95%E8%90%BD%E5%9C%B0+%E5%86%8D%E5%8D%96100%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [百度中秋礼遇季](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E4%B8%AD%E7%A7%8B%E7%A4%BC%E9%81%87%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [陕西师大发生命案？警方回应](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%B8%88%E5%A4%A7%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
