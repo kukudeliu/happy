@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 10:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 10:54:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [英雄联盟中国队vs韩国队](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E9%98%9Fvs%E9%9F%A9%E5%9B%BD%E9%98%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [JDG到底谁在C](https://s.weibo.com/weibo?q=JDG%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8C&t=31&band_rank=5&Refer=top)<br />
 6. [英雄联盟半决赛韩国先下一城](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%8D%8A%E5%86%B3%E8%B5%9B%E9%9F%A9%E5%9B%BD%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23&t=31&band_rank=6&Refer=top)<br />
-7. [6岁零216个月](https://s.weibo.com/weibo?q=6%E5%B2%81%E9%9B%B6216%E4%B8%AA%E6%9C%88&t=31&band_rank=7&Refer=top)<br />
-8. [Zeus单杀Bin](https://s.weibo.com/weibo?q=Zeus%E5%8D%95%E6%9D%80Bin&t=31&band_rank=8&Refer=top)<br />
+7. [Zeus单杀Bin](https://s.weibo.com/weibo?q=Zeus%E5%8D%95%E6%9D%80Bin&t=31&band_rank=7&Refer=top)<br />
+8. [6岁零216个月](https://s.weibo.com/weibo?q=6%E5%B2%81%E9%9B%B6216%E4%B8%AA%E6%9C%88&t=31&band_rank=8&Refer=top)<br />
 9. [90后为何不愿生孩子了](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%84%BF%E7%94%9F%E5%AD%A9%E5%AD%90%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
