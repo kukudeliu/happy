@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 13:02:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 13:03:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [泼天的富贵要到文具界了](https://s.weibo.com/weibo?q=%23%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5%E8%A6%81%E5%88%B0%E6%96%87%E5%85%B7%E7%95%8C%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [二等兵申真谞 出列](https://s.weibo.com/weibo?q=%E4%BA%8C%E7%AD%89%E5%85%B5%E7%94%B3%E7%9C%9F%E8%B0%9E%20%E5%87%BA%E5%88%97&t=31&band_rank=7&Refer=top)<br />
 8. [比恋爱脑更可悲的是清醒的恋爱脑](https://s.weibo.com/weibo?q=%23%E6%AF%94%E6%81%8B%E7%88%B1%E8%84%91%E6%9B%B4%E5%8F%AF%E6%82%B2%E7%9A%84%E6%98%AF%E6%B8%85%E9%86%92%E7%9A%84%E6%81%8B%E7%88%B1%E8%84%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [张杰签售了10个小时](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%AD%BE%E5%94%AE%E4%BA%8610%E4%B8%AA%E5%B0%8F%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [王栎鑫和唐禹哲是同一个经纪人](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E5%92%8C%E5%94%90%E7%A6%B9%E5%93%B2%E6%98%AF%E5%90%8C%E4%B8%80%E4%B8%AA%E7%BB%8F%E7%BA%AA%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
