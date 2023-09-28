@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 22:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 22:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [她俩眼神真的不清白](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BF%A9%E7%9C%BC%E7%A5%9E%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%B8%85%E7%99%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [iPhone改华为手机壳热销](https://s.weibo.com/weibo?q=%23iPhone%E6%94%B9%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E5%A3%B3%E7%83%AD%E9%94%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [她推了西娘娘](https://s.weibo.com/weibo?q=%E5%A5%B9%E6%8E%A8%E4%BA%86%E8%A5%BF%E5%A8%98%E5%A8%98&t=31&band_rank=8&Refer=top)<br />
-9. [晚安 校长](https://s.weibo.com/weibo?q=%E6%99%9A%E5%AE%89%20%E6%A0%A1%E9%95%BF&t=31&band_rank=9&Refer=top)<br />
+9. [舒肤佳 檀健次](https://s.weibo.com/weibo?q=%E8%88%92%E8%82%A4%E4%BD%B3%20%E6%AA%80%E5%81%A5%E6%AC%A1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
