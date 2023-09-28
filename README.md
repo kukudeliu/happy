@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 20:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 20:15:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [韩国选手挑衅遭中国队员专业反击](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%E6%8C%91%E8%A1%85%E9%81%AD%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%91%98%E4%B8%93%E4%B8%9A%E5%8F%8D%E5%87%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [张雨霏第5金](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E7%AC%AC5%E9%87%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [花西子承认助梦大使称号](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E6%89%BF%E8%AE%A4%E5%8A%A9%E6%A2%A6%E5%A4%A7%E4%BD%BF%E7%A7%B0%E5%8F%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [柯洁银牌](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E9%93%B6%E7%89%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [叶诗文时隔9年再夺亚运金牌](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E8%AF%97%E6%96%87%E6%97%B6%E9%9A%949%E5%B9%B4%E5%86%8D%E5%A4%BA%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
+8. [叶诗文时隔9年再夺亚运金牌](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E8%AF%97%E6%96%87%E6%97%B6%E9%9A%949%E5%B9%B4%E5%86%8D%E5%A4%BA%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C%23&t=31&band_rank=8&Refer=top)<br />
+9. [柯洁银牌](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E9%93%B6%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
