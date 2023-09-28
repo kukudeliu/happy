@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 07:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 07:52:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [中秋节快乐](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E8%8A%82%E5%BF%AB%E4%B9%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [别人的是简历马龙的是繁历](https://s.weibo.com/weibo?q=%23%E5%88%AB%E4%BA%BA%E7%9A%84%E6%98%AF%E7%AE%80%E5%8E%86%E9%A9%AC%E9%BE%99%E7%9A%84%E6%98%AF%E7%B9%81%E5%8E%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [许家印父子及多名恒大高管涉案被查](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E7%88%B6%E5%AD%90%E5%8F%8A%E5%A4%9A%E5%90%8D%E6%81%92%E5%A4%A7%E9%AB%98%E7%AE%A1%E6%B6%89%E6%A1%88%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=6&Refer=top)<br />
-7. [两个邓布利多都离世了](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E9%83%BD%E7%A6%BB%E4%B8%96%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [中秋节](https://s.weibo.com/weibo?q=%E4%B8%AD%E7%A7%8B%E8%8A%82&t=31&band_rank=8&Refer=top)<br />
-9. [网约车老爸的1800多次道歉](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%80%81%E7%88%B8%E7%9A%841800%E5%A4%9A%E6%AC%A1%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+7. [霍启刚这么恋爱脑吗](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E8%BF%99%E4%B9%88%E6%81%8B%E7%88%B1%E8%84%91%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
+8. [两个邓布利多都离世了](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E9%83%BD%E7%A6%BB%E4%B8%96%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [中秋节](https://s.weibo.com/weibo?q=%E4%B8%AD%E7%A7%8B%E8%8A%82&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
