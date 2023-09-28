@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 15:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 15:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [俄罗斯考虑效仿中国禁止进口日本水产品](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E8%80%83%E8%99%91%E6%95%88%E4%BB%BF%E4%B8%AD%E5%9B%BD%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [花西子眉笔 自动铅笔](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%A5%BF%E5%AD%90%E7%9C%89%E7%AC%94%20%E8%87%AA%E5%8A%A8%E9%93%85%E7%AC%94&t=31&band_rank=7&Refer=top)<br />
 8. [空降最高title](https://s.weibo.com/weibo?q=%E7%A9%BA%E9%99%8D%E6%9C%80%E9%AB%98title&t=31&band_rank=8&Refer=top)<br />
-9. [解说员恨不得自己上场](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E8%AF%B4%E5%91%98%E6%81%A8%E4%B8%8D%E5%BE%97%E8%87%AA%E5%B7%B1%E4%B8%8A%E5%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [赵丽颖古装群像](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%A4%E8%A3%85%E7%BE%A4%E5%83%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
