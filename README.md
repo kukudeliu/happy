@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 16:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 16:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [老人买房发现卧室下方竟有配电柜](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%B9%B0%E6%88%BF%E5%8F%91%E7%8E%B0%E5%8D%A7%E5%AE%A4%E4%B8%8B%E6%96%B9%E7%AB%9F%E6%9C%89%E9%85%8D%E7%94%B5%E6%9F%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [我放假了](https://s.weibo.com/weibo?q=%E6%88%91%E6%94%BE%E5%81%87%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [花西子眉笔 自动铅笔](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%A5%BF%E5%AD%90%E7%9C%89%E7%AC%94%20%E8%87%AA%E5%8A%A8%E9%93%85%E7%AC%94&t=31&band_rank=8&Refer=top)<br />
-9. [丘索维金娜第4](https://s.weibo.com/weibo?q=%23%E4%B8%98%E7%B4%A2%E7%BB%B4%E9%87%91%E5%A8%9C%E7%AC%AC4%23&t=31&band_rank=9&Refer=top)<br />
+9. [赵丽颖古装群像](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%A4%E8%A3%85%E7%BE%A4%E5%83%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
