@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 22:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 22:14:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [她俩眼神真的不清白](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BF%A9%E7%9C%BC%E7%A5%9E%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%B8%85%E7%99%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [她推了西娘娘](https://s.weibo.com/weibo?q=%E5%A5%B9%E6%8E%A8%E4%BA%86%E8%A5%BF%E5%A8%98%E5%A8%98&t=31&band_rank=7&Refer=top)<br />
 8. [iPhone改华为手机壳热销](https://s.weibo.com/weibo?q=%23iPhone%E6%94%B9%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E5%A3%B3%E7%83%AD%E9%94%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [我们的歌第五季阵容官宣](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8C%E7%AC%AC%E4%BA%94%E5%AD%A3%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [晚安 校长](https://s.weibo.com/weibo?q=%E6%99%9A%E5%AE%89%20%E6%A0%A1%E9%95%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [媒体：许家印可能涉嫌多项罪名](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%AE%B8%E5%AE%B6%E5%8D%B0%E5%8F%AF%E8%83%BD%E6%B6%89%E5%AB%8C%E5%A4%9A%E9%A1%B9%E7%BD%AA%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [《哈利波特》邓布利多饰演者去世](https://www.baidu.com/s?wd=%E3%80%8A%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E3%80%8B%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E9%A5%B0%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国庆假门还没出就亏了3500元](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%81%87%E9%97%A8%E8%BF%98%E6%B2%A1%E5%87%BA%E5%B0%B1%E4%BA%8F%E4%BA%863500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [许家印身家已缩水超90%](https://www.baidu.com/s?wd=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%BA%AB%E5%AE%B6%E5%B7%B2%E7%BC%A9%E6%B0%B4%E8%B6%8590%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [走失25年男孩中秋前夕与家人团聚](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A4%B125%E5%B9%B4%E7%94%B7%E5%AD%A9%E4%B8%AD%E7%A7%8B%E5%89%8D%E5%A4%95%E4%B8%8E%E5%AE%B6%E4%BA%BA%E5%9B%A2%E8%81%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“无糖月饼”真的无糖吗？](https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A0%E7%B3%96%E6%9C%88%E9%A5%BC%E2%80%9D%E7%9C%9F%E7%9A%84%E6%97%A0%E7%B3%96%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [媒体：许家印可能涉嫌多项罪名](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%AE%B8%E5%AE%B6%E5%8D%B0%E5%8F%AF%E8%83%BD%E6%B6%89%E5%AB%8C%E5%A4%9A%E9%A1%B9%E7%BD%AA%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [《哈利波特》邓布利多饰演者去世](https://www.baidu.com/s?wd=%E3%80%8A%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E3%80%8B%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E9%A5%B0%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国庆假门还没出就亏了3500元](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%81%87%E9%97%A8%E8%BF%98%E6%B2%A1%E5%87%BA%E5%B0%B1%E4%BA%8F%E4%BA%863500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [许家印身家已缩水超90%](https://www.baidu.com/s?wd=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%BA%AB%E5%AE%B6%E5%B7%B2%E7%BC%A9%E6%B0%B4%E8%B6%8590%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [走失25年男孩中秋前夕与家人团聚](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A4%B125%E5%B9%B4%E7%94%B7%E5%AD%A9%E4%B8%AD%E7%A7%8B%E5%89%8D%E5%A4%95%E4%B8%8E%E5%AE%B6%E4%BA%BA%E5%9B%A2%E8%81%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“无糖月饼”真的无糖吗？](https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A0%E7%B3%96%E6%9C%88%E9%A5%BC%E2%80%9D%E7%9C%9F%E7%9A%84%E6%97%A0%E7%B3%96%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
