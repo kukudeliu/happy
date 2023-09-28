@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 07:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 07:10:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [网友吐槽假期坐高铁动车像挤地铁](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E5%81%87%E6%9C%9F%E5%9D%90%E9%AB%98%E9%93%81%E5%8A%A8%E8%BD%A6%E5%83%8F%E6%8C%A4%E5%9C%B0%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [《哈利波特》邓布利多饰演者去世](https://www.baidu.com/s?wd=%E3%80%8A%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E3%80%8B%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E9%A5%B0%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国庆假门还没出就亏了3500元](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%81%87%E9%97%A8%E8%BF%98%E6%B2%A1%E5%87%BA%E5%B0%B1%E4%BA%8F%E4%BA%863500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中疾控提醒：月饼虽好莫要贪多](https://www.baidu.com/s?wd=%E4%B8%AD%E7%96%BE%E6%8E%A7%E6%8F%90%E9%86%92%EF%BC%9A%E6%9C%88%E9%A5%BC%E8%99%BD%E5%A5%BD%E8%8E%AB%E8%A6%81%E8%B4%AA%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [亚运村拔罐医生：拔不完真的拔不完](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E6%9D%91%E6%8B%94%E7%BD%90%E5%8C%BB%E7%94%9F%EF%BC%9A%E6%8B%94%E4%B8%8D%E5%AE%8C%E7%9C%9F%E7%9A%84%E6%8B%94%E4%B8%8D%E5%AE%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“无糖月饼”真的无糖吗？](https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A0%E7%B3%96%E6%9C%88%E9%A5%BC%E2%80%9D%E7%9C%9F%E7%9A%84%E6%97%A0%E7%B3%96%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [网友吐槽假期坐高铁动车像挤地铁](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E5%81%87%E6%9C%9F%E5%9D%90%E9%AB%98%E9%93%81%E5%8A%A8%E8%BD%A6%E5%83%8F%E6%8C%A4%E5%9C%B0%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [《哈利波特》邓布利多饰演者去世](https://www.baidu.com/s?wd=%E3%80%8A%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E3%80%8B%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E9%A5%B0%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国庆假门还没出就亏了3500元](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%81%87%E9%97%A8%E8%BF%98%E6%B2%A1%E5%87%BA%E5%B0%B1%E4%BA%8F%E4%BA%863500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中疾控提醒：月饼虽好莫要贪多](https://www.baidu.com/s?wd=%E4%B8%AD%E7%96%BE%E6%8E%A7%E6%8F%90%E9%86%92%EF%BC%9A%E6%9C%88%E9%A5%BC%E8%99%BD%E5%A5%BD%E8%8E%AB%E8%A6%81%E8%B4%AA%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [亚运村拔罐医生：拔不完真的拔不完](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E6%9D%91%E6%8B%94%E7%BD%90%E5%8C%BB%E7%94%9F%EF%BC%9A%E6%8B%94%E4%B8%8D%E5%AE%8C%E7%9C%9F%E7%9A%84%E6%8B%94%E4%B8%8D%E5%AE%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“无糖月饼”真的无糖吗？](https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A0%E7%B3%96%E6%9C%88%E9%A5%BC%E2%80%9D%E7%9C%9F%E7%9A%84%E6%97%A0%E7%B3%96%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
