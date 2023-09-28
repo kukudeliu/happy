@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 16:42:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 16:43:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [北京已达严重拥堵](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B7%B2%E8%BE%BE%E4%B8%A5%E9%87%8D%E6%8B%A5%E5%A0%B5%23&t=31&band_rank=4&Refer=top)<br />
 5. [花西子眉笔 自动铅笔](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%A5%BF%E5%AD%90%E7%9C%89%E7%AC%94%20%E8%87%AA%E5%8A%A8%E9%93%85%E7%AC%94&t=31&band_rank=5&Refer=top)<br />
 6. [丘索维金娜第4](https://s.weibo.com/weibo?q=%23%E4%B8%98%E7%B4%A2%E7%BB%B4%E9%87%91%E5%A8%9C%E7%AC%AC4%23&t=31&band_rank=6&Refer=top)<br />
-7. [柯洁决赛对阵许皓鋐](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5%E8%AE%B8%E7%9A%93%E9%8B%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [我放假了](https://s.weibo.com/weibo?q=%E6%88%91%E6%94%BE%E5%81%87%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [赵丽颖古装群像](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%A4%E8%A3%85%E7%BE%A4%E5%83%8F&t=31&band_rank=9&Refer=top)<br />
+7. [我放假了](https://s.weibo.com/weibo?q=%E6%88%91%E6%94%BE%E5%81%87%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [赵丽颖古装群像](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%A4%E8%A3%85%E7%BE%A4%E5%83%8F&t=31&band_rank=8&Refer=top)<br />
+9. [亚运会的唯一悬念 亚军的争夺](https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%9A%84%E5%94%AF%E4%B8%80%E6%82%AC%E5%BF%B5%20%E4%BA%9A%E5%86%9B%E7%9A%84%E4%BA%89%E5%A4%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
