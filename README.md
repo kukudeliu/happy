@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 11:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 11:45:01</h4></div>
 
 > 微博  
 
-1. [花西子 得力](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%A5%BF%E5%AD%90%20%E5%BE%97%E5%8A%9B&t=31&band_rank=1&Refer=top)<br />
-2. [泼天的富贵要到文具界了](https://s.weibo.com/weibo?q=%23%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5%E8%A6%81%E5%88%B0%E6%96%87%E5%85%B7%E7%95%8C%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [泼天的富贵要到文具界了](https://s.weibo.com/weibo?q=%23%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5%E8%A6%81%E5%88%B0%E6%96%87%E5%85%B7%E7%95%8C%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [花西子 得力](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%A5%BF%E5%AD%90%20%E5%BE%97%E5%8A%9B&t=31&band_rank=2&Refer=top)<br />
 3. [当千里江山图遇上诗画浙江](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%E9%81%87%E4%B8%8A%E8%AF%97%E7%94%BB%E6%B5%99%E6%B1%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [英雄联盟中国队vs韩国队](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E9%98%9Fvs%E9%9F%A9%E5%9B%BD%E9%98%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [得力收拾收拾准备升咖](https://s.weibo.com/weibo?q=%E5%BE%97%E5%8A%9B%E6%94%B6%E6%8B%BE%E6%94%B6%E6%8B%BE%E5%87%86%E5%A4%87%E5%8D%87%E5%92%96&t=31&band_rank=5&Refer=top)<br />
