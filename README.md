@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 13:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 13:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [成都地铁上被误认偷拍男子发文](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%E4%B8%8A%E8%A2%AB%E8%AF%AF%E8%AE%A4%E5%81%B7%E6%8B%8D%E7%94%B7%E5%AD%90%E5%8F%91%E6%96%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [这和躺周杰伦怀里听有什么区别](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%92%8C%E8%BA%BA%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%80%80%E9%87%8C%E5%90%AC%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [比恋爱脑更可悲的是清醒的恋爱脑](https://s.weibo.com/weibo?q=%23%E6%AF%94%E6%81%8B%E7%88%B1%E8%84%91%E6%9B%B4%E5%8F%AF%E6%82%B2%E7%9A%84%E6%98%AF%E6%B8%85%E9%86%92%E7%9A%84%E6%81%8B%E7%88%B1%E8%84%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [泼天的富贵要到文具界了](https://s.weibo.com/weibo?q=%23%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5%E8%A6%81%E5%88%B0%E6%96%87%E5%85%B7%E7%95%8C%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [封神训练营开播](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E8%AE%AD%E7%BB%83%E8%90%A5%E5%BC%80%E6%92%AD%23&t=31&band_rank=9&Refer=top)<br />
+8. [封神训练营开播](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E8%AE%AD%E7%BB%83%E8%90%A5%E5%BC%80%E6%92%AD%23&t=31&band_rank=8&Refer=top)<br />
+9. [泼天的富贵要到文具界了](https://s.weibo.com/weibo?q=%23%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5%E8%A6%81%E5%88%B0%E6%96%87%E5%85%B7%E7%95%8C%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
