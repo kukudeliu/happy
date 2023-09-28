@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 15:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 15:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [柯洁决赛对阵许皓鋐](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5%E8%AE%B8%E7%9A%93%E9%8B%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [卫明被林双公开处刑爽爆了](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%8E%E8%A2%AB%E6%9E%97%E5%8F%8C%E5%85%AC%E5%BC%80%E5%A4%84%E5%88%91%E7%88%BD%E7%88%86%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [赵丽颖古装群像](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%A4%E8%A3%85%E7%BE%A4%E5%83%8F&t=31&band_rank=8&Refer=top)<br />
-9. [俄罗斯考虑效仿中国禁止进口日本水产品](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E8%80%83%E8%99%91%E6%95%88%E4%BB%BF%E4%B8%AD%E5%9B%BD%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [吴昕35岁到40岁的心态变化](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%9535%E5%B2%81%E5%88%B040%E5%B2%81%E7%9A%84%E5%BF%83%E6%80%81%E5%8F%98%E5%8C%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
