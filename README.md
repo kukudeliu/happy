@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 12:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 12:57:01</h4></div>
 
 > 微博  
 
 1. [花西子眉笔 自动铅笔](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%A5%BF%E5%AD%90%E7%9C%89%E7%AC%94%20%E8%87%AA%E5%8A%A8%E9%93%85%E7%AC%94&t=31&band_rank=1&Refer=top)<br />
 2. [得力收拾收拾准备升咖](https://s.weibo.com/weibo?q=%E5%BE%97%E5%8A%9B%E6%94%B6%E6%8B%BE%E6%94%B6%E6%8B%BE%E5%87%86%E5%A4%87%E5%8D%87%E5%92%96&t=31&band_rank=2&Refer=top)<br />
 3. [新疆辟谣游客断崖式下跌](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E8%BE%9F%E8%B0%A3%E6%B8%B8%E5%AE%A2%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=3&Refer=top)<br />
-4. [THE9南京演唱会官宣](https://s.weibo.com/weibo?q=THE9%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3&t=31&band_rank=4&Refer=top)<br />
-5. [成都地铁上被误认偷拍男子发文](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%E4%B8%8A%E8%A2%AB%E8%AF%AF%E8%AE%A4%E5%81%B7%E6%8B%8D%E7%94%B7%E5%AD%90%E5%8F%91%E6%96%87%23&t=31&band_rank=5&Refer=top)<br />
+4. [成都地铁上被误认偷拍男子发文](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%E4%B8%8A%E8%A2%AB%E8%AF%AF%E8%AE%A4%E5%81%B7%E6%8B%8D%E7%94%B7%E5%AD%90%E5%8F%91%E6%96%87%23&t=31&band_rank=4&Refer=top)<br />
+5. [THE9南京演唱会官宣](https://s.weibo.com/weibo?q=THE9%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3&t=31&band_rank=5&Refer=top)<br />
 6. [二等兵申真谞 出列](https://s.weibo.com/weibo?q=%E4%BA%8C%E7%AD%89%E5%85%B5%E7%94%B3%E7%9C%9F%E8%B0%9E%20%E5%87%BA%E5%88%97&t=31&band_rank=6&Refer=top)<br />
 7. [泼天的富贵要到文具界了](https://s.weibo.com/weibo?q=%23%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5%E8%A6%81%E5%88%B0%E6%96%87%E5%85%B7%E7%95%8C%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [张杰签售了10个小时](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%AD%BE%E5%94%AE%E4%BA%8610%E4%B8%AA%E5%B0%8F%E6%97%B6%23&t=31&band_rank=8&Refer=top)<br />
