@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 01:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 02:00:02</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [将开放和包容的理念呈现给世界](https://www.baidu.com/s?wd=%E5%B0%86%E5%BC%80%E6%94%BE%E5%92%8C%E5%8C%85%E5%AE%B9%E7%9A%84%E7%90%86%E5%BF%B5%E5%91%88%E7%8E%B0%E7%BB%99%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网友吐槽假期坐高铁动车像挤地铁](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E5%81%87%E6%9C%9F%E5%9D%90%E9%AB%98%E9%93%81%E5%8A%A8%E8%BD%A6%E5%83%8F%E6%8C%A4%E5%9C%B0%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [《哈利波特》邓布利多饰演者去世](https://www.baidu.com/s?wd=%E3%80%8A%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E3%80%8B%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E9%A5%B0%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [国防部评台湾潜艇下水：螳臂当车](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E8%AF%84%E5%8F%B0%E6%B9%BE%E6%BD%9C%E8%89%87%E4%B8%8B%E6%B0%B4%EF%BC%9A%E8%9E%B3%E8%87%82%E5%BD%93%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国防部回应中美军事联系或开始恢复](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%86%9B%E4%BA%8B%E8%81%94%E7%B3%BB%E6%88%96%E5%BC%80%E5%A7%8B%E6%81%A2%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [粤港澳联合反罪恶 港警拘6400人](https://www.baidu.com/s?wd=%E7%B2%A4%E6%B8%AF%E6%BE%B3%E8%81%94%E5%90%88%E5%8F%8D%E7%BD%AA%E6%81%B6+%E6%B8%AF%E8%AD%A6%E6%8B%986400%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“无糖月饼”真的无糖吗？](https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A0%E7%B3%96%E6%9C%88%E9%A5%BC%E2%80%9D%E7%9C%9F%E7%9A%84%E6%97%A0%E7%B3%96%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [将开放和包容的理念呈现给世界](https://www.baidu.com/s?wd=%E5%B0%86%E5%BC%80%E6%94%BE%E5%92%8C%E5%8C%85%E5%AE%B9%E7%9A%84%E7%90%86%E5%BF%B5%E5%91%88%E7%8E%B0%E7%BB%99%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网友吐槽假期坐高铁动车像挤地铁](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E5%81%87%E6%9C%9F%E5%9D%90%E9%AB%98%E9%93%81%E5%8A%A8%E8%BD%A6%E5%83%8F%E6%8C%A4%E5%9C%B0%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [《哈利波特》邓布利多饰演者去世](https://www.baidu.com/s?wd=%E3%80%8A%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E3%80%8B%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E9%A5%B0%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [国防部评台湾潜艇下水：螳臂当车](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E8%AF%84%E5%8F%B0%E6%B9%BE%E6%BD%9C%E8%89%87%E4%B8%8B%E6%B0%B4%EF%BC%9A%E8%9E%B3%E8%87%82%E5%BD%93%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国防部回应中美军事联系或开始恢复](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%86%9B%E4%BA%8B%E8%81%94%E7%B3%BB%E6%88%96%E5%BC%80%E5%A7%8B%E6%81%A2%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [粤港澳联合反罪恶 港警拘6400人](https://www.baidu.com/s?wd=%E7%B2%A4%E6%B8%AF%E6%BE%B3%E8%81%94%E5%90%88%E5%8F%8D%E7%BD%AA%E6%81%B6+%E6%B8%AF%E8%AD%A6%E6%8B%986400%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“无糖月饼”真的无糖吗？](https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A0%E7%B3%96%E6%9C%88%E9%A5%BC%E2%80%9D%E7%9C%9F%E7%9A%84%E6%97%A0%E7%B3%96%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
