@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 07:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 07:37:01</h4></div>
 
 > 微博  
 
@@ -7,7 +7,7 @@
 3. [杭州亚运赛场燃情瞬间](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA%E7%87%83%E6%83%85%E7%9E%AC%E9%97%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [月饼今年卖不动了](https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%A5%BC%E4%BB%8A%E5%B9%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [中秋节](https://s.weibo.com/weibo?q=%E4%B8%AD%E7%A7%8B%E8%8A%82&t=31&band_rank=5&Refer=top)<br />
-6. [许家印已为儿子设立信托基金](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E5%B7%B2%E4%B8%BA%E5%84%BF%E5%AD%90%E8%AE%BE%E7%AB%8B%E4%BF%A1%E6%89%98%E5%9F%BA%E9%87%91%23&t=31&band_rank=6&Refer=top)<br />
+6. [许家印父子及多名恒大高管涉案被查](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E7%88%B6%E5%AD%90%E5%8F%8A%E5%A4%9A%E5%90%8D%E6%81%92%E5%A4%A7%E9%AB%98%E7%AE%A1%E6%B6%89%E6%A1%88%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [网约车老爸的1800多次道歉](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%80%81%E7%88%B8%E7%9A%841800%E5%A4%9A%E6%AC%A1%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [两个邓布利多都离世了](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E9%83%BD%E7%A6%BB%E4%B8%96%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [水果店8.8元一斤卖榴莲惊动特警](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%9E%9C%E5%BA%978.8%E5%85%83%E4%B8%80%E6%96%A4%E5%8D%96%E6%A6%B4%E8%8E%B2%E6%83%8A%E5%8A%A8%E7%89%B9%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
