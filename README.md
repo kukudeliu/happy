@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 16:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 16:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [花西子眉笔 自动铅笔](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%A5%BF%E5%AD%90%E7%9C%89%E7%AC%94%20%E8%87%AA%E5%8A%A8%E9%93%85%E7%AC%94&t=31&band_rank=6&Refer=top)<br />
 7. [卫明被林双公开处刑爽爆了](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%8E%E8%A2%AB%E6%9E%97%E5%8F%8C%E5%85%AC%E5%BC%80%E5%A4%84%E5%88%91%E7%88%BD%E7%88%86%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [周深想成为林俊杰一样的歌手](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%83%B3%E6%88%90%E4%B8%BA%E6%9E%97%E4%BF%8A%E6%9D%B0%E4%B8%80%E6%A0%B7%E7%9A%84%E6%AD%8C%E6%89%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [吴昕35岁到40岁的心态变化](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%9535%E5%B2%81%E5%88%B040%E5%B2%81%E7%9A%84%E5%BF%83%E6%80%81%E5%8F%98%E5%8C%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [赵丽颖古装群像](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%A4%E8%A3%85%E7%BE%A4%E5%83%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
