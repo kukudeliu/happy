@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 13:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 13:55:01</h4></div>
 
 > 微博  
 
 1. [俄罗斯考虑效仿中国禁止进口日本水产品](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E8%80%83%E8%99%91%E6%95%88%E4%BB%BF%E4%B8%AD%E5%9B%BD%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81%23&t=31&band_rank=1&Refer=top)<br />
-2. [花西子眉笔 自动铅笔](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%A5%BF%E5%AD%90%E7%9C%89%E7%AC%94%20%E8%87%AA%E5%8A%A8%E9%93%85%E7%AC%94&t=31&band_rank=2&Refer=top)<br />
+2. [霸王茶姬 柄图丑](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E6%9F%84%E5%9B%BE%E4%B8%91&t=31&band_rank=2&Refer=top)<br />
 3. [当千里江山图遇上诗画浙江](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%E9%81%87%E4%B8%8A%E8%AF%97%E7%94%BB%E6%B5%99%E6%B1%9F%23&t=31&band_rank=3&Refer=top)<br />
-4. [霸王茶姬 柄图丑](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E6%9F%84%E5%9B%BE%E4%B8%91&t=31&band_rank=4&Refer=top)<br />
+4. [花西子眉笔 自动铅笔](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%A5%BF%E5%AD%90%E7%9C%89%E7%AC%94%20%E8%87%AA%E5%8A%A8%E9%93%85%E7%AC%94&t=31&band_rank=4&Refer=top)<br />
 5. [霸王茶姬 盗墓笔记](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&t=31&band_rank=5&Refer=top)<br />
 6. [这和躺周杰伦怀里听有什么区别](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%92%8C%E8%BA%BA%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%80%80%E9%87%8C%E5%90%AC%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [得力收拾收拾准备升咖](https://s.weibo.com/weibo?q=%E5%BE%97%E5%8A%9B%E6%94%B6%E6%8B%BE%E6%94%B6%E6%8B%BE%E5%87%86%E5%A4%87%E5%8D%87%E5%92%96&t=31&band_rank=7&Refer=top)<br />
 8. [成都地铁上被误认偷拍男子发文](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%E4%B8%8A%E8%A2%AB%E8%AF%AF%E8%AE%A4%E5%81%B7%E6%8B%8D%E7%94%B7%E5%AD%90%E5%8F%91%E6%96%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [比恋爱脑更可悲的是清醒的恋爱脑](https://s.weibo.com/weibo?q=%23%E6%AF%94%E6%81%8B%E7%88%B1%E8%84%91%E6%9B%B4%E5%8F%AF%E6%82%B2%E7%9A%84%E6%98%AF%E6%B8%85%E9%86%92%E7%9A%84%E6%81%8B%E7%88%B1%E8%84%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [THE9南京演唱会官宣](https://s.weibo.com/weibo?q=THE9%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
