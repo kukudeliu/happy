@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 18:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 18:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [扣1复活柯洁](https://s.weibo.com/weibo?q=%E6%89%A31%E5%A4%8D%E6%B4%BB%E6%9F%AF%E6%B4%81&t=31&band_rank=6&Refer=top)<br />
 7. [医护人员万米高空救治心脏骤停乘客](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E4%B8%87%E7%B1%B3%E9%AB%98%E7%A9%BA%E6%95%91%E6%B2%BB%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E4%B9%98%E5%AE%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [柯洁 胜率](https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B4%81%20%E8%83%9C%E7%8E%87&t=31&band_rank=8&Refer=top)<br />
-9. [北京已达严重拥堵](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B7%B2%E8%BE%BE%E4%B8%A5%E9%87%8D%E6%8B%A5%E5%A0%B5%23&t=31&band_rank=9&Refer=top)<br />
+9. [花西子承认助梦大使称号](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E6%89%BF%E8%AE%A4%E5%8A%A9%E6%A2%A6%E5%A4%A7%E4%BD%BF%E7%A7%B0%E5%8F%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
