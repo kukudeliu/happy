@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 18:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 19:00:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [医护人员万米高空救治心脏骤停乘客](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E4%B8%87%E7%B1%B3%E9%AB%98%E7%A9%BA%E6%95%91%E6%B2%BB%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E4%B9%98%E5%AE%A2%23&t=31&band_rank=4&Refer=top)<br />
 5. [我捡的社牛小猴竟是无价之宝](https://s.weibo.com/weibo?q=%23%E6%88%91%E6%8D%A1%E7%9A%84%E7%A4%BE%E7%89%9B%E5%B0%8F%E7%8C%B4%E7%AB%9F%E6%98%AF%E6%97%A0%E4%BB%B7%E4%B9%8B%E5%AE%9D%23&t=31&band_rank=5&Refer=top)<br />
 6. [她推了西娘娘](https://s.weibo.com/weibo?q=%E5%A5%B9%E6%8E%A8%E4%BA%86%E8%A5%BF%E5%A8%98%E5%A8%98&t=31&band_rank=6&Refer=top)<br />
-7. [北京已达严重拥堵](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B7%B2%E8%BE%BE%E4%B8%A5%E9%87%8D%E6%8B%A5%E5%A0%B5%23&t=31&band_rank=7&Refer=top)<br />
-8. [柯洁逆转](https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B4%81%E9%80%86%E8%BD%AC&t=31&band_rank=8&Refer=top)<br />
-9. [得力直播间上架多个79元套装](https://s.weibo.com/weibo?q=%23%E5%BE%97%E5%8A%9B%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B8%8A%E6%9E%B6%E5%A4%9A%E4%B8%AA79%E5%85%83%E5%A5%97%E8%A3%85%23&t=31&band_rank=9&Refer=top)<br />
+7. [96斤护士海姆立克法救回166斤大哥](https://s.weibo.com/weibo?q=%2396%E6%96%A4%E6%8A%A4%E5%A3%AB%E6%B5%B7%E5%A7%86%E7%AB%8B%E5%85%8B%E6%B3%95%E6%95%91%E5%9B%9E166%E6%96%A4%E5%A4%A7%E5%93%A5%23&t=31&band_rank=7&Refer=top)<br />
+8. [北京已达严重拥堵](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B7%B2%E8%BE%BE%E4%B8%A5%E9%87%8D%E6%8B%A5%E5%A0%B5%23&t=31&band_rank=8&Refer=top)<br />
+9. [柯洁逆转](https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B4%81%E9%80%86%E8%BD%AC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
