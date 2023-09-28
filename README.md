@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 12:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 12:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [柯洁亚运会八连胜](https://www.baidu.com/s?wd=%E6%9F%AF%E6%B4%81%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%85%AB%E8%BF%9E%E8%83%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [给客户寄800份月饼竟过期9年](https://www.baidu.com/s?wd=%E7%BB%99%E5%AE%A2%E6%88%B7%E5%AF%84800%E4%BB%BD%E6%9C%88%E9%A5%BC%E7%AB%9F%E8%BF%87%E6%9C%9F9%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [五仁月饼中吃出金戒指？厂家回应](https://www.baidu.com/s?wd=%E4%BA%94%E4%BB%81%E6%9C%88%E9%A5%BC%E4%B8%AD%E5%90%83%E5%87%BA%E9%87%91%E6%88%92%E6%8C%87%EF%BC%9F%E5%8E%82%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泼天的富贵要到文具届了](https://www.baidu.com/s?wd=%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5%E8%A6%81%E5%88%B0%E6%96%87%E5%85%B7%E5%B1%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [驻韩使馆提醒中国公民：谨慎整容](https://www.baidu.com/s?wd=%E9%A9%BB%E9%9F%A9%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%EF%BC%9A%E8%B0%A8%E6%85%8E%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [陕西师大发生命案？警方回应](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%B8%88%E5%A4%A7%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [柯洁亚运会八连胜](https://www.baidu.com/s?wd=%E6%9F%AF%E6%B4%81%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%85%AB%E8%BF%9E%E8%83%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [给客户寄800份月饼竟过期9年](https://www.baidu.com/s?wd=%E7%BB%99%E5%AE%A2%E6%88%B7%E5%AF%84800%E4%BB%BD%E6%9C%88%E9%A5%BC%E7%AB%9F%E8%BF%87%E6%9C%9F9%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [五仁月饼中吃出金戒指？厂家回应](https://www.baidu.com/s?wd=%E4%BA%94%E4%BB%81%E6%9C%88%E9%A5%BC%E4%B8%AD%E5%90%83%E5%87%BA%E9%87%91%E6%88%92%E6%8C%87%EF%BC%9F%E5%8E%82%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泼天的富贵要到文具届了](https://www.baidu.com/s?wd=%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5%E8%A6%81%E5%88%B0%E6%96%87%E5%85%B7%E5%B1%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [驻韩使馆提醒中国公民：谨慎整容](https://www.baidu.com/s?wd=%E9%A9%BB%E9%9F%A9%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%EF%BC%9A%E8%B0%A8%E6%85%8E%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [陕西师大发生命案？警方回应](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%B8%88%E5%A4%A7%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
