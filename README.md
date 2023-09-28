@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 12:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 12:31:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [得力收拾收拾准备升咖](https://s.weibo.com/weibo?q=%E5%BE%97%E5%8A%9B%E6%94%B6%E6%8B%BE%E6%94%B6%E6%8B%BE%E5%87%86%E5%A4%87%E5%8D%87%E5%92%96&t=31&band_rank=2&Refer=top)<br />
 3. [当千里江山图遇上诗画浙江](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%E9%81%87%E4%B8%8A%E8%AF%97%E7%94%BB%E6%B5%99%E6%B1%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [泼天的富贵要到文具界了](https://s.weibo.com/weibo?q=%23%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5%E8%A6%81%E5%88%B0%E6%96%87%E5%85%B7%E7%95%8C%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [大同欺凌事件校方曾建议三年级以上住校](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%90%8C%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6%E6%A0%A1%E6%96%B9%E6%9B%BE%E5%BB%BA%E8%AE%AE%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%BB%A5%E4%B8%8A%E4%BD%8F%E6%A0%A1%23&t=31&band_rank=5&Refer=top)<br />
+5. [二等兵申真谞 出列](https://s.weibo.com/weibo?q=%E4%BA%8C%E7%AD%89%E5%85%B5%E7%94%B3%E7%9C%9F%E8%B0%9E%20%E5%87%BA%E5%88%97&t=31&band_rank=5&Refer=top)<br />
 6. [张杰签售了10个小时](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%AD%BE%E5%94%AE%E4%BA%8610%E4%B8%AA%E5%B0%8F%E6%97%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [二等兵申真谞 出列](https://s.weibo.com/weibo?q=%E4%BA%8C%E7%AD%89%E5%85%B5%E7%94%B3%E7%9C%9F%E8%B0%9E%20%E5%87%BA%E5%88%97&t=31&band_rank=7&Refer=top)<br />
-8. [王栎鑫你是真敢说啊](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E4%BD%A0%E6%98%AF%E7%9C%9F%E6%95%A2%E8%AF%B4%E5%95%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [柯洁冲击金牌](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E5%86%B2%E5%87%BB%E9%87%91%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
+7. [大同欺凌事件校方曾建议三年级以上住校](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%90%8C%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6%E6%A0%A1%E6%96%B9%E6%9B%BE%E5%BB%BA%E8%AE%AE%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%BB%A5%E4%B8%8A%E4%BD%8F%E6%A0%A1%23&t=31&band_rank=7&Refer=top)<br />
+8. [柯洁冲击金牌](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E5%86%B2%E5%87%BB%E9%87%91%E7%89%8C%23&t=31&band_rank=8&Refer=top)<br />
+9. [王栎鑫你是真敢说啊](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E4%BD%A0%E6%98%AF%E7%9C%9F%E6%95%A2%E8%AF%B4%E5%95%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
