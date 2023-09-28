@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 18:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 18:15:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [柯洁逆转](https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B4%81%E9%80%86%E8%BD%AC&t=31&band_rank=5&Refer=top)<br />
 6. [花西子承认助梦大使称号](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E6%89%BF%E8%AE%A4%E5%8A%A9%E6%A2%A6%E5%A4%A7%E4%BD%BF%E7%A7%B0%E5%8F%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [苗寨小伙光荣入伍身上缠满了大红花](https://s.weibo.com/weibo?q=%23%E8%8B%97%E5%AF%A8%E5%B0%8F%E4%BC%99%E5%85%89%E8%8D%A3%E5%85%A5%E4%BC%8D%E8%BA%AB%E4%B8%8A%E7%BC%A0%E6%BB%A1%E4%BA%86%E5%A4%A7%E7%BA%A2%E8%8A%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [扣1复活柯洁](https://s.weibo.com/weibo?q=%E6%89%A31%E5%A4%8D%E6%B4%BB%E6%9F%AF%E6%B4%81&t=31&band_rank=8&Refer=top)<br />
-9. [柯洁 胜率](https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B4%81%20%E8%83%9C%E7%8E%87&t=31&band_rank=9&Refer=top)<br />
+8. [北京已达严重拥堵](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B7%B2%E8%BE%BE%E4%B8%A5%E9%87%8D%E6%8B%A5%E5%A0%B5%23&t=31&band_rank=8&Refer=top)<br />
+9. [扣1复活柯洁](https://s.weibo.com/weibo?q=%E6%89%A31%E5%A4%8D%E6%B4%BB%E6%9F%AF%E6%B4%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
