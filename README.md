@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 08:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 08:51:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [中国造列车获土耳其总统点赞](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%88%97%E8%BD%A6%E8%8E%B7%E5%9C%9F%E8%80%B3%E5%85%B6%E6%80%BB%E7%BB%9F%E7%82%B9%E8%B5%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [泼天的富贵要到文具届了](https://s.weibo.com/weibo?q=%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5%E8%A6%81%E5%88%B0%E6%96%87%E5%85%B7%E5%B1%8A%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [多家医院关闭产科](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E5%85%B3%E9%97%AD%E4%BA%A7%E7%A7%91%23&t=31&band_rank=5&Refer=top)<br />
-6. [同居生子分手女子起诉每月给1元抚养费](https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%B1%85%E7%94%9F%E5%AD%90%E5%88%86%E6%89%8B%E5%A5%B3%E5%AD%90%E8%B5%B7%E8%AF%89%E6%AF%8F%E6%9C%88%E7%BB%991%E5%85%83%E6%8A%9A%E5%85%BB%E8%B4%B9%23&t=31&band_rank=6&Refer=top)<br />
-7. [大同未成年欺凌事件同校家长发声](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%90%8C%E6%9C%AA%E6%88%90%E5%B9%B4%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6%E5%90%8C%E6%A0%A1%E5%AE%B6%E9%95%BF%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
+6. [大同未成年欺凌事件同校家长发声](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%90%8C%E6%9C%AA%E6%88%90%E5%B9%B4%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6%E5%90%8C%E6%A0%A1%E5%AE%B6%E9%95%BF%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
+7. [同居生子分手女子起诉每月给1元抚养费](https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%B1%85%E7%94%9F%E5%AD%90%E5%88%86%E6%89%8B%E5%A5%B3%E5%AD%90%E8%B5%B7%E8%AF%89%E6%AF%8F%E6%9C%88%E7%BB%991%E5%85%83%E6%8A%9A%E5%85%BB%E8%B4%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [再见CSGO 你好CS2](https://s.weibo.com/weibo?q=%E5%86%8D%E8%A7%81CSGO%20%E4%BD%A0%E5%A5%BDCS2&t=31&band_rank=8&Refer=top)<br />
 9. [明天就是中秋国庆假期](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E5%B0%B1%E6%98%AF%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%23&t=31&band_rank=9&Refer=top)<br />
 
