@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 10:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 10:30:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [英雄联盟中国队vs韩国队](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E9%98%9Fvs%E9%9F%A9%E5%9B%BD%E9%98%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [6岁零216个月](https://s.weibo.com/weibo?q=6%E5%B2%81%E9%9B%B6216%E4%B8%AA%E6%9C%88&t=31&band_rank=5&Refer=top)<br />
 6. [英雄联盟半决赛韩国先下一城](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%8D%8A%E5%86%B3%E8%B5%9B%E9%9F%A9%E5%9B%BD%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23&t=31&band_rank=6&Refer=top)<br />
-7. [ELK金克丝一血](https://s.weibo.com/weibo?q=ELK%E9%87%91%E5%85%8B%E4%B8%9D%E4%B8%80%E8%A1%80&t=31&band_rank=7&Refer=top)<br />
-8. [90后为何不愿生孩子了](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%84%BF%E7%94%9F%E5%AD%A9%E5%AD%90%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [孙杨直播哭了](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E7%9B%B4%E6%92%AD%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+7. [逆水寒 开门啊](https://s.weibo.com/weibo?q=%E9%80%86%E6%B0%B4%E5%AF%92%20%E5%BC%80%E9%97%A8%E5%95%8A&t=31&band_rank=7&Refer=top)<br />
+8. [ELK金克丝一血](https://s.weibo.com/weibo?q=ELK%E9%87%91%E5%85%8B%E4%B8%9D%E4%B8%80%E8%A1%80&t=31&band_rank=8&Refer=top)<br />
+9. [90后为何不愿生孩子了](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%84%BF%E7%94%9F%E5%AD%A9%E5%AD%90%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
