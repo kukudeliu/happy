@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 11:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 11:51:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [英雄联盟中国队vs韩国队](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E9%98%9Fvs%E9%9F%A9%E5%9B%BD%E9%98%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [6岁零216个月](https://s.weibo.com/weibo?q=6%E5%B2%81%E9%9B%B6216%E4%B8%AA%E6%9C%88&t=31&band_rank=5&Refer=top)<br />
 6. [大同欺凌事件校方曾建议三年级以上住校](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%90%8C%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6%E6%A0%A1%E6%96%B9%E6%9B%BE%E5%BB%BA%E8%AE%AE%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%BB%A5%E4%B8%8A%E4%BD%8F%E6%A0%A1%23&t=31&band_rank=6&Refer=top)<br />
-7. [花西子 得力](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%A5%BF%E5%AD%90%20%E5%BE%97%E5%8A%9B&t=31&band_rank=7&Refer=top)<br />
-8. [捷豹勇敢飞](https://s.weibo.com/weibo?q=%E6%8D%B7%E8%B1%B9%E5%8B%87%E6%95%A2%E9%A3%9E&t=31&band_rank=8&Refer=top)<br />
+7. [捷豹勇敢飞](https://s.weibo.com/weibo?q=%E6%8D%B7%E8%B1%B9%E5%8B%87%E6%95%A2%E9%A3%9E&t=31&band_rank=7&Refer=top)<br />
+8. [花西子 得力](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%A5%BF%E5%AD%90%20%E5%BE%97%E5%8A%9B&t=31&band_rank=8&Refer=top)<br />
 9. [90后为何不愿生孩子了](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%84%BF%E7%94%9F%E5%AD%A9%E5%AD%90%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
