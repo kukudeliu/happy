@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 23:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 23:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [舒肤佳 檀健次](https://s.weibo.com/weibo?q=%E8%88%92%E8%82%A4%E4%BD%B3%20%E6%AA%80%E5%81%A5%E6%AC%A1&t=31&band_rank=6&Refer=top)<br />
 7. [高速](https://s.weibo.com/weibo?q=%E9%AB%98%E9%80%9F&t=31&band_rank=7&Refer=top)<br />
 8. [奥尼尔称自己是半个中国人](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B0%BC%E5%B0%94%E7%A7%B0%E8%87%AA%E5%B7%B1%E6%98%AF%E5%8D%8A%E4%B8%AA%E4%B8%AD%E5%9B%BD%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [她俩眼神真的不清白](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BF%A9%E7%9C%BC%E7%A5%9E%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%B8%85%E7%99%BD%23&t=31&band_rank=9&Refer=top)<br />
+9. [卢昱晓回应被说普](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AF%B4%E6%99%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
