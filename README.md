@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 14:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 14:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [各地高铁站现状：人头攒动 客流火爆](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%AB%98%E9%93%81%E7%AB%99%E7%8E%B0%E7%8A%B6%EF%BC%9A%E4%BA%BA%E5%A4%B4%E6%94%92%E5%8A%A8+%E5%AE%A2%E6%B5%81%E7%81%AB%E7%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [游客景区晕倒遇40余名医疗专家](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%99%AF%E5%8C%BA%E6%99%95%E5%80%92%E9%81%8740%E4%BD%99%E5%90%8D%E5%8C%BB%E7%96%97%E4%B8%93%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [给客户寄800份月饼竟过期9年](https://www.baidu.com/s?wd=%E7%BB%99%E5%AE%A2%E6%88%B7%E5%AF%84800%E4%BB%BD%E6%9C%88%E9%A5%BC%E7%AB%9F%E8%BF%87%E6%9C%9F9%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被朝鲜驱逐的美国士兵已被美方拘押](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9C%9D%E9%B2%9C%E9%A9%B1%E9%80%90%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%A3%AB%E5%85%B5%E5%B7%B2%E8%A2%AB%E7%BE%8E%E6%96%B9%E6%8B%98%E6%8A%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [因降雪道路结冰 大量旅客滞留喀纳斯](https://www.baidu.com/s?wd=%E5%9B%A0%E9%99%8D%E9%9B%AA%E9%81%93%E8%B7%AF%E7%BB%93%E5%86%B0+%E5%A4%A7%E9%87%8F%E6%97%85%E5%AE%A2%E6%BB%9E%E7%95%99%E5%96%80%E7%BA%B3%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [陕西师大发生命案？警方回应](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%B8%88%E5%A4%A7%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [各地高铁站现状：人头攒动 客流火爆](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%AB%98%E9%93%81%E7%AB%99%E7%8E%B0%E7%8A%B6%EF%BC%9A%E4%BA%BA%E5%A4%B4%E6%94%92%E5%8A%A8+%E5%AE%A2%E6%B5%81%E7%81%AB%E7%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [游客景区晕倒遇40余名医疗专家](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%99%AF%E5%8C%BA%E6%99%95%E5%80%92%E9%81%8740%E4%BD%99%E5%90%8D%E5%8C%BB%E7%96%97%E4%B8%93%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [给客户寄800份月饼竟过期9年](https://www.baidu.com/s?wd=%E7%BB%99%E5%AE%A2%E6%88%B7%E5%AF%84800%E4%BB%BD%E6%9C%88%E9%A5%BC%E7%AB%9F%E8%BF%87%E6%9C%9F9%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被朝鲜驱逐的美国士兵已被美方拘押](https://www.baidu.com/s?wd=%E8%A2%AB%E6%9C%9D%E9%B2%9C%E9%A9%B1%E9%80%90%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%A3%AB%E5%85%B5%E5%B7%B2%E8%A2%AB%E7%BE%8E%E6%96%B9%E6%8B%98%E6%8A%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [因降雪道路结冰 大量旅客滞留喀纳斯](https://www.baidu.com/s?wd=%E5%9B%A0%E9%99%8D%E9%9B%AA%E9%81%93%E8%B7%AF%E7%BB%93%E5%86%B0+%E5%A4%A7%E9%87%8F%E6%97%85%E5%AE%A2%E6%BB%9E%E7%95%99%E5%96%80%E7%BA%B3%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [陕西师大发生命案？警方回应](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%B8%88%E5%A4%A7%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
