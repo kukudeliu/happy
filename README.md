@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 07:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 07:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [中秋节](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%8B%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [月饼今年卖不动了](https://www.baidu.com/s?wd=%E6%9C%88%E9%A5%BC%E4%BB%8A%E5%B9%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国庆假门还没出就亏了3500元](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%81%87%E9%97%A8%E8%BF%98%E6%B2%A1%E5%87%BA%E5%B0%B1%E4%BA%8F%E4%BA%863500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [亚运村拔罐医生：拔不完真的拔不完](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E6%9D%91%E6%8B%94%E7%BD%90%E5%8C%BB%E7%94%9F%EF%BC%9A%E6%8B%94%E4%B8%8D%E5%AE%8C%E7%9C%9F%E7%9A%84%E6%8B%94%E4%B8%8D%E5%AE%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方通报女业主被扇耳光 构成轻微伤](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E4%B8%9A%E4%B8%BB%E8%A2%AB%E6%89%87%E8%80%B3%E5%85%89+%E6%9E%84%E6%88%90%E8%BD%BB%E5%BE%AE%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“无糖月饼”真的无糖吗？](https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A0%E7%B3%96%E6%9C%88%E9%A5%BC%E2%80%9D%E7%9C%9F%E7%9A%84%E6%97%A0%E7%B3%96%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [中秋节](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%8B%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [月饼今年卖不动了](https://www.baidu.com/s?wd=%E6%9C%88%E9%A5%BC%E4%BB%8A%E5%B9%B4%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国庆假门还没出就亏了3500元](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%81%87%E9%97%A8%E8%BF%98%E6%B2%A1%E5%87%BA%E5%B0%B1%E4%BA%8F%E4%BA%863500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [亚运村拔罐医生：拔不完真的拔不完](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E6%9D%91%E6%8B%94%E7%BD%90%E5%8C%BB%E7%94%9F%EF%BC%9A%E6%8B%94%E4%B8%8D%E5%AE%8C%E7%9C%9F%E7%9A%84%E6%8B%94%E4%B8%8D%E5%AE%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方通报女业主被扇耳光 构成轻微伤](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E4%B8%9A%E4%B8%BB%E8%A2%AB%E6%89%87%E8%80%B3%E5%85%89+%E6%9E%84%E6%88%90%E8%BD%BB%E5%BE%AE%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“无糖月饼”真的无糖吗？](https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A0%E7%B3%96%E6%9C%88%E9%A5%BC%E2%80%9D%E7%9C%9F%E7%9A%84%E6%97%A0%E7%B3%96%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
