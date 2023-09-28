@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 13:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 13:06:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [预判他人预判 提前3天出行仍堵路上](https://www.baidu.com/s?wd=%E9%A2%84%E5%88%A4%E4%BB%96%E4%BA%BA%E9%A2%84%E5%88%A4+%E6%8F%90%E5%89%8D3%E5%A4%A9%E5%87%BA%E8%A1%8C%E4%BB%8D%E5%A0%B5%E8%B7%AF%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [叙利亚总统夫人的美女保镖](https://www.baidu.com/s?wd=%E5%8F%99%E5%88%A9%E4%BA%9A%E6%80%BB%E7%BB%9F%E5%A4%AB%E4%BA%BA%E7%9A%84%E7%BE%8E%E5%A5%B3%E4%BF%9D%E9%95%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [站在杭州看未来](https://www.baidu.com/s?wd=%E7%AB%99%E5%9C%A8%E6%9D%AD%E5%B7%9E%E7%9C%8B%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [柯洁亚运会八连胜](https://www.baidu.com/s?wd=%E6%9F%AF%E6%B4%81%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%85%AB%E8%BF%9E%E8%83%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [广电总局治理电视“套娃”收费](https://www.baidu.com/s?wd=%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%B2%BB%E7%90%86%E7%94%B5%E8%A7%86%E2%80%9C%E5%A5%97%E5%A8%83%E2%80%9D%E6%94%B6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [给客户寄800份月饼竟过期9年](https://www.baidu.com/s?wd=%E7%BB%99%E5%AE%A2%E6%88%B7%E5%AF%84800%E4%BB%BD%E6%9C%88%E9%A5%BC%E7%AB%9F%E8%BF%87%E6%9C%9F9%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [报告称近4成职位工资超10000元](https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%E7%A7%B0%E8%BF%914%E6%88%90%E8%81%8C%E4%BD%8D%E5%B7%A5%E8%B5%84%E8%B6%8510000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子垂钓遇鳄鱼 淡定拍视频](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9E%82%E9%92%93%E9%81%87%E9%B3%84%E9%B1%BC+%E6%B7%A1%E5%AE%9A%E6%8B%8D%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [预判他人预判 提前3天出行仍堵路上](https://www.baidu.com/s?wd=%E9%A2%84%E5%88%A4%E4%BB%96%E4%BA%BA%E9%A2%84%E5%88%A4+%E6%8F%90%E5%89%8D3%E5%A4%A9%E5%87%BA%E8%A1%8C%E4%BB%8D%E5%A0%B5%E8%B7%AF%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [叙利亚总统夫人的美女保镖](https://www.baidu.com/s?wd=%E5%8F%99%E5%88%A9%E4%BA%9A%E6%80%BB%E7%BB%9F%E5%A4%AB%E4%BA%BA%E7%9A%84%E7%BE%8E%E5%A5%B3%E4%BF%9D%E9%95%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [站在杭州看未来](https://www.baidu.com/s?wd=%E7%AB%99%E5%9C%A8%E6%9D%AD%E5%B7%9E%E7%9C%8B%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [柯洁亚运会八连胜](https://www.baidu.com/s?wd=%E6%9F%AF%E6%B4%81%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%85%AB%E8%BF%9E%E8%83%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [广电总局治理电视“套娃”收费](https://www.baidu.com/s?wd=%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%B2%BB%E7%90%86%E7%94%B5%E8%A7%86%E2%80%9C%E5%A5%97%E5%A8%83%E2%80%9D%E6%94%B6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [给客户寄800份月饼竟过期9年](https://www.baidu.com/s?wd=%E7%BB%99%E5%AE%A2%E6%88%B7%E5%AF%84800%E4%BB%BD%E6%9C%88%E9%A5%BC%E7%AB%9F%E8%BF%87%E6%9C%9F9%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [报告称近4成职位工资超10000元](https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%E7%A7%B0%E8%BF%914%E6%88%90%E8%81%8C%E4%BD%8D%E5%B7%A5%E8%B5%84%E8%B6%8510000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子垂钓遇鳄鱼 淡定拍视频](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9E%82%E9%92%93%E9%81%87%E9%B3%84%E9%B1%BC+%E6%B7%A1%E5%AE%9A%E6%8B%8D%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
