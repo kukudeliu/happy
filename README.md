@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 22:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 22:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [两个邓布利多都离世了](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E9%83%BD%E7%A6%BB%E4%B8%96%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [她俩眼神真的不清白](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BF%A9%E7%9C%BC%E7%A5%9E%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%B8%85%E7%99%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [iPhone改华为手机壳热销](https://s.weibo.com/weibo?q=%23iPhone%E6%94%B9%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E5%A3%B3%E7%83%AD%E9%94%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [她推了西娘娘](https://s.weibo.com/weibo?q=%E5%A5%B9%E6%8E%A8%E4%BA%86%E8%A5%BF%E5%A8%98%E5%A8%98&t=31&band_rank=9&Refer=top)<br />
+9. [杨幂Angelababy巴黎时装周造型](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82Angelababy%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%E9%80%A0%E5%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
