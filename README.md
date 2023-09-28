@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 09:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 09:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [90后为何不愿生孩子了](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%84%BF%E7%94%9F%E5%AD%A9%E5%AD%90%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [大同未成年欺凌事件同校家长发声](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%90%8C%E6%9C%AA%E6%88%90%E5%B9%B4%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6%E5%90%8C%E6%A0%A1%E5%AE%B6%E9%95%BF%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [给客户寄800份月饼生产日期竟是2014年](https://s.weibo.com/weibo?q=%23%E7%BB%99%E5%AE%A2%E6%88%B7%E5%AF%84800%E4%BB%BD%E6%9C%88%E9%A5%BC%E7%94%9F%E4%BA%A7%E6%97%A5%E6%9C%9F%E7%AB%9F%E6%98%AF2014%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [多家医院关闭产科](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E5%85%B3%E9%97%AD%E4%BA%A7%E7%A7%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [英雄联盟项目半决赛赛程](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E9%A1%B9%E7%9B%AE%E5%8D%8A%E5%86%B3%E8%B5%9B%E8%B5%9B%E7%A8%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
