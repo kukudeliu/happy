@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 17:32:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 17:33:01</h4></div>
 
 > 微博  
 
 1. [柯洁逆转](https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B4%81%E9%80%86%E8%BD%AC&t=31&band_rank=1&Refer=top)<br />
-2. [柯洁银牌](https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B4%81%E9%93%B6%E7%89%8C&t=31&band_rank=2&Refer=top)<br />
+2. [柯洁银牌](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E9%93%B6%E7%89%8C%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国自贸试验区建设十周年](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%87%AA%E8%B4%B8%E8%AF%95%E9%AA%8C%E5%8C%BA%E5%BB%BA%E8%AE%BE%E5%8D%81%E5%91%A8%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [柯洁 胜率](https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B4%81%20%E8%83%9C%E7%8E%87&t=31&band_rank=4&Refer=top)<br />
 5. [堵车](https://s.weibo.com/weibo?q=%E5%A0%B5%E8%BD%A6&t=31&band_rank=5&Refer=top)<br />
