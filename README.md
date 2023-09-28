@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 13:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 13:54:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [站在杭州看未来](https://www.baidu.com/s?wd=%E7%AB%99%E5%9C%A8%E6%9D%AD%E5%B7%9E%E7%9C%8B%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广电总局治理电视“套娃”收费](https://www.baidu.com/s?wd=%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%B2%BB%E7%90%86%E7%94%B5%E8%A7%86%E2%80%9C%E5%A5%97%E5%A8%83%E2%80%9D%E6%94%B6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [报告称近4成职位工资超10000元](https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%E7%A7%B0%E8%BF%914%E6%88%90%E8%81%8C%E4%BD%8D%E5%B7%A5%E8%B5%84%E8%B6%8510000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网友建议淄博烧烤转型 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%BB%BA%E8%AE%AE%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E8%BD%AC%E5%9E%8B+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孙杨直播哭了](https://www.baidu.com/s?wd=%E5%AD%99%E6%9D%A8%E7%9B%B4%E6%92%AD%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [泼天的富贵要到文具届了](https://www.baidu.com/s?wd=%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5%E8%A6%81%E5%88%B0%E6%96%87%E5%85%B7%E5%B1%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友建议淄博烧烤转型 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%BB%BA%E8%AE%AE%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E8%BD%AC%E5%9E%8B+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [陕西师大发生命案？警方回应](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%B8%88%E5%A4%A7%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [站在杭州看未来](https://www.baidu.com/s?wd=%E7%AB%99%E5%9C%A8%E6%9D%AD%E5%B7%9E%E7%9C%8B%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广电总局治理电视“套娃”收费](https://www.baidu.com/s?wd=%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%B2%BB%E7%90%86%E7%94%B5%E8%A7%86%E2%80%9C%E5%A5%97%E5%A8%83%E2%80%9D%E6%94%B6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [报告称近4成职位工资超10000元](https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%E7%A7%B0%E8%BF%914%E6%88%90%E8%81%8C%E4%BD%8D%E5%B7%A5%E8%B5%84%E8%B6%8510000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网友建议淄博烧烤转型 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%BB%BA%E8%AE%AE%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E8%BD%AC%E5%9E%8B+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孙杨直播哭了](https://www.baidu.com/s?wd=%E5%AD%99%E6%9D%A8%E7%9B%B4%E6%92%AD%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [泼天的富贵要到文具届了](https://www.baidu.com/s?wd=%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5%E8%A6%81%E5%88%B0%E6%96%87%E5%85%B7%E5%B1%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友建议淄博烧烤转型 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%BB%BA%E8%AE%AE%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E8%BD%AC%E5%9E%8B+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [陕西师大发生命案？警方回应](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%B8%88%E5%A4%A7%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
