@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 08:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 08:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张雨霏赛后哽咽称第五名的她就是奇迹](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E8%B5%9B%E5%90%8E%E5%93%BD%E5%92%BD%E7%A7%B0%E7%AC%AC%E4%BA%94%E5%90%8D%E7%9A%84%E5%A5%B9%E5%B0%B1%E6%98%AF%E5%A5%87%E8%BF%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [明天就是中秋国庆假期](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E5%B0%B1%E6%98%AF%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [再见CSGO 你好CS2](https://s.weibo.com/weibo?q=%E5%86%8D%E8%A7%81CSGO%20%E4%BD%A0%E5%A5%BDCS2&t=31&band_rank=8&Refer=top)<br />
-9. [利拉德被交易到雄鹿](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%8B%89%E5%BE%B7%E8%A2%AB%E4%BA%A4%E6%98%93%E5%88%B0%E9%9B%84%E9%B9%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [母亲去世女子想推迟结婚被判退彩礼](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%E5%A5%B3%E5%AD%90%E6%83%B3%E6%8E%A8%E8%BF%9F%E7%BB%93%E5%A9%9A%E8%A2%AB%E5%88%A4%E9%80%80%E5%BD%A9%E7%A4%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
