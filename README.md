@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 14:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 14:49:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [站在杭州看未来](https://www.baidu.com/s?wd=%E7%AB%99%E5%9C%A8%E6%9D%AD%E5%B7%9E%E7%9C%8B%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [各地高铁站现状：人头攒动 客流火爆](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%AB%98%E9%93%81%E7%AB%99%E7%8E%B0%E7%8A%B6%EF%BC%9A%E4%BA%BA%E5%A4%B4%E6%94%92%E5%8A%A8+%E5%AE%A2%E6%B5%81%E7%81%AB%E7%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [业主与写字楼员工商谈突然被扇耳光](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E4%B8%8E%E5%86%99%E5%AD%97%E6%A5%BC%E5%91%98%E5%B7%A5%E5%95%86%E8%B0%88%E7%AA%81%E7%84%B6%E8%A2%AB%E6%89%87%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子住亚朵浴室门把手坏掉被困](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BD%8F%E4%BA%9A%E6%9C%B5%E6%B5%B4%E5%AE%A4%E9%97%A8%E6%8A%8A%E6%89%8B%E5%9D%8F%E6%8E%89%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [游客景区晕倒遇40余名医疗专家](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%99%AF%E5%8C%BA%E6%99%95%E5%80%92%E9%81%8740%E4%BD%99%E5%90%8D%E5%8C%BB%E7%96%97%E4%B8%93%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [崔宸曦坚持5点前写完作业去训练](https://www.baidu.com/s?wd=%E5%B4%94%E5%AE%B8%E6%9B%A6%E5%9D%9A%E6%8C%815%E7%82%B9%E5%89%8D%E5%86%99%E5%AE%8C%E4%BD%9C%E4%B8%9A%E5%8E%BB%E8%AE%AD%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生洗澡被偷拍靠脚印找到偷拍男](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%B4%97%E6%BE%A1%E8%A2%AB%E5%81%B7%E6%8B%8D%E9%9D%A0%E8%84%9A%E5%8D%B0%E6%89%BE%E5%88%B0%E5%81%B7%E6%8B%8D%E7%94%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [陕西师大发生命案？警方回应](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%B8%88%E5%A4%A7%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [站在杭州看未来](https://www.baidu.com/s?wd=%E7%AB%99%E5%9C%A8%E6%9D%AD%E5%B7%9E%E7%9C%8B%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [各地高铁站现状：人头攒动 客流火爆](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%AB%98%E9%93%81%E7%AB%99%E7%8E%B0%E7%8A%B6%EF%BC%9A%E4%BA%BA%E5%A4%B4%E6%94%92%E5%8A%A8+%E5%AE%A2%E6%B5%81%E7%81%AB%E7%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [业主与写字楼员工商谈突然被扇耳光](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E4%B8%8E%E5%86%99%E5%AD%97%E6%A5%BC%E5%91%98%E5%B7%A5%E5%95%86%E8%B0%88%E7%AA%81%E7%84%B6%E8%A2%AB%E6%89%87%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子住亚朵浴室门把手坏掉被困](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BD%8F%E4%BA%9A%E6%9C%B5%E6%B5%B4%E5%AE%A4%E9%97%A8%E6%8A%8A%E6%89%8B%E5%9D%8F%E6%8E%89%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [游客景区晕倒遇40余名医疗专家](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%99%AF%E5%8C%BA%E6%99%95%E5%80%92%E9%81%8740%E4%BD%99%E5%90%8D%E5%8C%BB%E7%96%97%E4%B8%93%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [崔宸曦坚持5点前写完作业去训练](https://www.baidu.com/s?wd=%E5%B4%94%E5%AE%B8%E6%9B%A6%E5%9D%9A%E6%8C%815%E7%82%B9%E5%89%8D%E5%86%99%E5%AE%8C%E4%BD%9C%E4%B8%9A%E5%8E%BB%E8%AE%AD%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生洗澡被偷拍靠脚印找到偷拍男](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%B4%97%E6%BE%A1%E8%A2%AB%E5%81%B7%E6%8B%8D%E9%9D%A0%E8%84%9A%E5%8D%B0%E6%89%BE%E5%88%B0%E5%81%B7%E6%8B%8D%E7%94%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [陕西师大发生命案？警方回应](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%B8%88%E5%A4%A7%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
