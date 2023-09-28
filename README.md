@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 12:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 12:24:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [泼天的富贵要到文具界了](https://s.weibo.com/weibo?q=%23%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5%E8%A6%81%E5%88%B0%E6%96%87%E5%85%B7%E7%95%8C%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [大同欺凌事件校方曾建议三年级以上住校](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%90%8C%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6%E6%A0%A1%E6%96%B9%E6%9B%BE%E5%BB%BA%E8%AE%AE%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%BB%A5%E4%B8%8A%E4%BD%8F%E6%A0%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [张杰签售了10个小时](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%AD%BE%E5%94%AE%E4%BA%8610%E4%B8%AA%E5%B0%8F%E6%97%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [王栎鑫你是真敢说啊](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E4%BD%A0%E6%98%AF%E7%9C%9F%E6%95%A2%E8%AF%B4%E5%95%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [二等兵申真谞 出列](https://s.weibo.com/weibo?q=%E4%BA%8C%E7%AD%89%E5%85%B5%E7%94%B3%E7%9C%9F%E8%B0%9E%20%E5%87%BA%E5%88%97&t=31&band_rank=8&Refer=top)<br />
+7. [二等兵申真谞 出列](https://s.weibo.com/weibo?q=%E4%BA%8C%E7%AD%89%E5%85%B5%E7%94%B3%E7%9C%9F%E8%B0%9E%20%E5%87%BA%E5%88%97&t=31&band_rank=7&Refer=top)<br />
+8. [王栎鑫你是真敢说啊](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E4%BD%A0%E6%98%AF%E7%9C%9F%E6%95%A2%E8%AF%B4%E5%95%8A%23&t=31&band_rank=8&Refer=top)<br />
 9. [柯洁冲击金牌](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E5%86%B2%E5%87%BB%E9%87%91%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,8 +23,8 @@
 4. [站在杭州看未来](https://www.baidu.com/s?wd=%E7%AB%99%E5%9C%A8%E6%9D%AD%E5%B7%9E%E7%9C%8B%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男足主帅:有决心战胜韩国队](https://www.baidu.com/s?wd=%E7%94%B7%E8%B6%B3%E4%B8%BB%E5%B8%85%3A%E6%9C%89%E5%86%B3%E5%BF%83%E6%88%98%E8%83%9C%E9%9F%A9%E5%9B%BD%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [给客户寄800份月饼竟过期9年](https://www.baidu.com/s?wd=%E7%BB%99%E5%AE%A2%E6%88%B7%E5%AF%84800%E4%BB%BD%E6%9C%88%E9%A5%BC%E7%AB%9F%E8%BF%87%E6%9C%9F9%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女生洗澡被偷拍靠脚印找到偷拍男](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%B4%97%E6%BE%A1%E8%A2%AB%E5%81%B7%E6%8B%8D%E9%9D%A0%E8%84%9A%E5%8D%B0%E6%89%BE%E5%88%B0%E5%81%B7%E6%8B%8D%E7%94%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一高速多车追尾 有车被撞成废铁](https://www.baidu.com/s?wd=%E4%B8%80%E9%AB%98%E9%80%9F%E5%A4%9A%E8%BD%A6%E8%BF%BD%E5%B0%BE+%E6%9C%89%E8%BD%A6%E8%A2%AB%E6%92%9E%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [一高速多车追尾 有车被撞成废铁](https://www.baidu.com/s?wd=%E4%B8%80%E9%AB%98%E9%80%9F%E5%A4%9A%E8%BD%A6%E8%BF%BD%E5%B0%BE+%E6%9C%89%E8%BD%A6%E8%A2%AB%E6%92%9E%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [泼天的富贵要到文具届了](https://www.baidu.com/s?wd=%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5%E8%A6%81%E5%88%B0%E6%96%87%E5%85%B7%E5%B1%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [按摩淋巴结能排毒？](https://www.baidu.com/s?wd=%E6%8C%89%E6%91%A9%E6%B7%8B%E5%B7%B4%E7%BB%93%E8%83%BD%E6%8E%92%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [站在杭州看未来](https://www.baidu.com/s?wd=%E7%AB%99%E5%9C%A8%E6%9D%AD%E5%B7%9E%E7%9C%8B%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男足主帅:有决心战胜韩国队](https://www.baidu.com/s?wd=%E7%94%B7%E8%B6%B3%E4%B8%BB%E5%B8%85%3A%E6%9C%89%E5%86%B3%E5%BF%83%E6%88%98%E8%83%9C%E9%9F%A9%E5%9B%BD%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [给客户寄800份月饼竟过期9年](https://www.baidu.com/s?wd=%E7%BB%99%E5%AE%A2%E6%88%B7%E5%AF%84800%E4%BB%BD%E6%9C%88%E9%A5%BC%E7%AB%9F%E8%BF%87%E6%9C%9F9%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女生洗澡被偷拍靠脚印找到偷拍男](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%B4%97%E6%BE%A1%E8%A2%AB%E5%81%B7%E6%8B%8D%E9%9D%A0%E8%84%9A%E5%8D%B0%E6%89%BE%E5%88%B0%E5%81%B7%E6%8B%8D%E7%94%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一高速多车追尾 有车被撞成废铁](https://www.baidu.com/s?wd=%E4%B8%80%E9%AB%98%E9%80%9F%E5%A4%9A%E8%BD%A6%E8%BF%BD%E5%B0%BE+%E6%9C%89%E8%BD%A6%E8%A2%AB%E6%92%9E%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [一高速多车追尾 有车被撞成废铁](https://www.baidu.com/s?wd=%E4%B8%80%E9%AB%98%E9%80%9F%E5%A4%9A%E8%BD%A6%E8%BF%BD%E5%B0%BE+%E6%9C%89%E8%BD%A6%E8%A2%AB%E6%92%9E%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [泼天的富贵要到文具届了](https://www.baidu.com/s?wd=%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5%E8%A6%81%E5%88%B0%E6%96%87%E5%85%B7%E5%B1%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [按摩淋巴结能排毒？](https://www.baidu.com/s?wd=%E6%8C%89%E6%91%A9%E6%B7%8B%E5%B7%B4%E7%BB%93%E8%83%BD%E6%8E%92%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
