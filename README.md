@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 12:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 12:28:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [给客户寄800份月饼竟过期9年](https://www.baidu.com/s?wd=%E7%BB%99%E5%AE%A2%E6%88%B7%E5%AF%84800%E4%BB%BD%E6%9C%88%E9%A5%BC%E7%AB%9F%E8%BF%87%E6%9C%9F9%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一高速多车追尾 有车被撞成废铁](https://www.baidu.com/s?wd=%E4%B8%80%E9%AB%98%E9%80%9F%E5%A4%9A%E8%BD%A6%E8%BF%BD%E5%B0%BE+%E6%9C%89%E8%BD%A6%E8%A2%AB%E6%92%9E%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [泼天的富贵要到文具届了](https://www.baidu.com/s?wd=%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5%E8%A6%81%E5%88%B0%E6%96%87%E5%85%B7%E5%B1%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [按摩淋巴结能排毒？](https://www.baidu.com/s?wd=%E6%8C%89%E6%91%A9%E6%B7%8B%E5%B7%B4%E7%BB%93%E8%83%BD%E6%8E%92%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [陕西师大发生命案？警方回应](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%B8%88%E5%A4%A7%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [给客户寄800份月饼竟过期9年](https://www.baidu.com/s?wd=%E7%BB%99%E5%AE%A2%E6%88%B7%E5%AF%84800%E4%BB%BD%E6%9C%88%E9%A5%BC%E7%AB%9F%E8%BF%87%E6%9C%9F9%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一高速多车追尾 有车被撞成废铁](https://www.baidu.com/s?wd=%E4%B8%80%E9%AB%98%E9%80%9F%E5%A4%9A%E8%BD%A6%E8%BF%BD%E5%B0%BE+%E6%9C%89%E8%BD%A6%E8%A2%AB%E6%92%9E%E6%88%90%E5%BA%9F%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [泼天的富贵要到文具届了](https://www.baidu.com/s?wd=%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5%E8%A6%81%E5%88%B0%E6%96%87%E5%85%B7%E5%B1%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [按摩淋巴结能排毒？](https://www.baidu.com/s?wd=%E6%8C%89%E6%91%A9%E6%B7%8B%E5%B7%B4%E7%BB%93%E8%83%BD%E6%8E%92%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [陕西师大发生命案？警方回应](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%B8%88%E5%A4%A7%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
