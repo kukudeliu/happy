@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 16:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 16:25:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [花西子眉笔 自动铅笔](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%A5%BF%E5%AD%90%E7%9C%89%E7%AC%94%20%E8%87%AA%E5%8A%A8%E9%93%85%E7%AC%94&t=31&band_rank=5&Refer=top)<br />
 6. [赵丽颖古装群像](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%A4%E8%A3%85%E7%BE%A4%E5%83%8F&t=31&band_rank=6&Refer=top)<br />
 7. [周深想成为林俊杰一样的歌手](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%83%B3%E6%88%90%E4%B8%BA%E6%9E%97%E4%BF%8A%E6%9D%B0%E4%B8%80%E6%A0%B7%E7%9A%84%E6%AD%8C%E6%89%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [亚运会的唯一悬念 亚军的争夺](https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%9A%84%E5%94%AF%E4%B8%80%E6%82%AC%E5%BF%B5%20%E4%BA%9A%E5%86%9B%E7%9A%84%E4%BA%89%E5%A4%BA&t=31&band_rank=8&Refer=top)<br />
-9. [我放假了](https://s.weibo.com/weibo?q=%E6%88%91%E6%94%BE%E5%81%87%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [我放假了](https://s.weibo.com/weibo?q=%E6%88%91%E6%94%BE%E5%81%87%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [亚运会的唯一悬念 亚军的争夺](https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%9A%84%E5%94%AF%E4%B8%80%E6%82%AC%E5%BF%B5%20%E4%BA%9A%E5%86%9B%E7%9A%84%E4%BA%89%E5%A4%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
