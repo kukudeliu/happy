@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 20:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 20:45:02</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [建设自贸试验区推进高水平对外开放](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E8%87%AA%E8%B4%B8%E8%AF%95%E9%AA%8C%E5%8C%BA%E6%8E%A8%E8%BF%9B%E9%AB%98%E6%B0%B4%E5%B9%B3%E5%AF%B9%E5%A4%96%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [恒大：许家印涉嫌违法犯罪被抓](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%EF%BC%9A%E8%AE%B8%E5%AE%B6%E5%8D%B0%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%E7%8A%AF%E7%BD%AA%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [恒大：许家印已被依法采取强制措施](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%EF%BC%9A%E8%AE%B8%E5%AE%B6%E5%8D%B0%E5%B7%B2%E8%A2%AB%E4%BE%9D%E6%B3%95%E9%87%87%E5%8F%96%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [2023卫视中秋晚会](https://www.baidu.com/s?wd=2023%E5%8D%AB%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [假期出游安全指南](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E5%87%BA%E6%B8%B8%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网友吐槽假期坐高铁动车像挤地铁](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E5%81%87%E6%9C%9F%E5%9D%90%E9%AB%98%E9%93%81%E5%8A%A8%E8%BD%A6%E5%83%8F%E6%8C%A4%E5%9C%B0%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [建设自贸试验区推进高水平对外开放](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E8%87%AA%E8%B4%B8%E8%AF%95%E9%AA%8C%E5%8C%BA%E6%8E%A8%E8%BF%9B%E9%AB%98%E6%B0%B4%E5%B9%B3%E5%AF%B9%E5%A4%96%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [恒大：许家印涉嫌违法犯罪被抓](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%EF%BC%9A%E8%AE%B8%E5%AE%B6%E5%8D%B0%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%E7%8A%AF%E7%BD%AA%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [恒大：许家印已被依法采取强制措施](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%EF%BC%9A%E8%AE%B8%E5%AE%B6%E5%8D%B0%E5%B7%B2%E8%A2%AB%E4%BE%9D%E6%B3%95%E9%87%87%E5%8F%96%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [2023卫视中秋晚会](https://www.baidu.com/s?wd=2023%E5%8D%AB%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [假期出游安全指南](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E5%87%BA%E6%B8%B8%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网友吐槽假期坐高铁动车像挤地铁](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E5%81%87%E6%9C%9F%E5%9D%90%E9%AB%98%E9%93%81%E5%8A%A8%E8%BD%A6%E5%83%8F%E6%8C%A4%E5%9C%B0%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
