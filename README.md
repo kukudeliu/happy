@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 03:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 03:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [许家印已为儿子设立信托基金](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E5%B7%B2%E4%B8%BA%E5%84%BF%E5%AD%90%E8%AE%BE%E7%AB%8B%E4%BF%A1%E6%89%98%E5%9F%BA%E9%87%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [两个邓布利多都离世了](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E9%83%BD%E7%A6%BB%E4%B8%96%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [她俩眼神真的不清白](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BF%A9%E7%9C%BC%E7%A5%9E%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%B8%85%E7%99%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [邓布利多扮演者去世](https://s.weibo.com/weibo?q=%23%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [杨幂Angelababy巴黎时装周造型](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82Angelababy%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%E9%80%A0%E5%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
