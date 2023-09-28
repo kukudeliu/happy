@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 12:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 12:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张杰签售了10个小时](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%AD%BE%E5%94%AE%E4%BA%8610%E4%B8%AA%E5%B0%8F%E6%97%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [大同欺凌事件校方曾建议三年级以上住校](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%90%8C%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6%E6%A0%A1%E6%96%B9%E6%9B%BE%E5%BB%BA%E8%AE%AE%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%BB%A5%E4%B8%8A%E4%BD%8F%E6%A0%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [柯洁冲击金牌](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E5%86%B2%E5%87%BB%E9%87%91%E7%89%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [王栎鑫你是真敢说啊](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E4%BD%A0%E6%98%AF%E7%9C%9F%E6%95%A2%E8%AF%B4%E5%95%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [THE9南京演唱会官宣](https://s.weibo.com/weibo?q=THE9%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
