@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 21:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 21:52:02</h4></div>
 
 > 微博  
 
 1. [邓布利多扮演者去世](https://s.weibo.com/weibo?q=%23%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
 2. [许家印已被依法采取强制措施](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E5%B7%B2%E8%A2%AB%E4%BE%9D%E6%B3%95%E9%87%87%E5%8F%96%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国自贸试验区建设十周年](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%87%AA%E8%B4%B8%E8%AF%95%E9%AA%8C%E5%8C%BA%E5%BB%BA%E8%AE%BE%E5%8D%81%E5%91%A8%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
-4. [两个邓布利多都离世了](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E9%83%BD%E7%A6%BB%E4%B8%96%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [水果店8.8元一斤卖榴莲惊动特警](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%9E%9C%E5%BA%978.8%E5%85%83%E4%B8%80%E6%96%A4%E5%8D%96%E6%A6%B4%E8%8E%B2%E6%83%8A%E5%8A%A8%E7%89%B9%E8%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
-6. [她推了西娘娘](https://s.weibo.com/weibo?q=%E5%A5%B9%E6%8E%A8%E4%BA%86%E8%A5%BF%E5%A8%98%E5%A8%98&t=31&band_rank=6&Refer=top)<br />
-7. [她俩眼神真的不清白](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BF%A9%E7%9C%BC%E7%A5%9E%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%B8%85%E7%99%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨超越去进修演技了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E5%8E%BB%E8%BF%9B%E4%BF%AE%E6%BC%94%E6%8A%80%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [我们的歌第五季阵容官宣](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8C%E7%AC%AC%E4%BA%94%E5%AD%A3%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
+4. [许家印可能涉嫌多项罪名](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E5%8F%AF%E8%83%BD%E6%B6%89%E5%AB%8C%E5%A4%9A%E9%A1%B9%E7%BD%AA%E5%90%8D%23&t=31&band_rank=4&Refer=top)<br />
+5. [两个邓布利多都离世了](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E9%83%BD%E7%A6%BB%E4%B8%96%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
+6. [水果店8.8元一斤卖榴莲惊动特警](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%9E%9C%E5%BA%978.8%E5%85%83%E4%B8%80%E6%96%A4%E5%8D%96%E6%A6%B4%E8%8E%B2%E6%83%8A%E5%8A%A8%E7%89%B9%E8%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
+7. [她推了西娘娘](https://s.weibo.com/weibo?q=%E5%A5%B9%E6%8E%A8%E4%BA%86%E8%A5%BF%E5%A8%98%E5%A8%98&t=31&band_rank=7&Refer=top)<br />
+8. [她俩眼神真的不清白](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BF%A9%E7%9C%BC%E7%A5%9E%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%B8%85%E7%99%BD%23&t=31&band_rank=8&Refer=top)<br />
+9. [杨超越去进修演技了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E5%8E%BB%E8%BF%9B%E4%BF%AE%E6%BC%94%E6%8A%80%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
