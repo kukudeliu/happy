@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 15:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-28 15:20:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [中共中央政治局召开会议](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [游客吐槽国庆机票疯狂跳水](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E5%9B%BD%E5%BA%86%E6%9C%BA%E7%A5%A8%E7%96%AF%E7%8B%82%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [假期高速开堵 网友称9小时没开出省](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E9%AB%98%E9%80%9F%E5%BC%80%E5%A0%B5+%E7%BD%91%E5%8F%8B%E7%A7%B09%E5%B0%8F%E6%97%B6%E6%B2%A1%E5%BC%80%E5%87%BA%E7%9C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [广电总局点赞《狂飙》《三体》](https://www.baidu.com/s?wd=%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E7%82%B9%E8%B5%9E%E3%80%8A%E7%8B%82%E9%A3%99%E3%80%8B%E3%80%8A%E4%B8%89%E4%BD%93%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [站在杭州看未来](https://www.baidu.com/s?wd=%E7%AB%99%E5%9C%A8%E6%9D%AD%E5%B7%9E%E7%9C%8B%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [各地高铁站现状：人头攒动 客流火爆](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%AB%98%E9%93%81%E7%AB%99%E7%8E%B0%E7%8A%B6%EF%BC%9A%E4%BA%BA%E5%A4%B4%E6%94%92%E5%8A%A8+%E5%AE%A2%E6%B5%81%E7%81%AB%E7%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [游客景区晕倒遇40余名医疗专家](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%99%AF%E5%8C%BA%E6%99%95%E5%80%92%E9%81%8740%E4%BD%99%E5%90%8D%E5%8C%BB%E7%96%97%E4%B8%93%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [亚运现场张雨霏扔签名泳帽送观众](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E7%8E%B0%E5%9C%BA%E5%BC%A0%E9%9B%A8%E9%9C%8F%E6%89%94%E7%AD%BE%E5%90%8D%E6%B3%B3%E5%B8%BD%E9%80%81%E8%A7%82%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [叙利亚总统夫人的美女保镖](https://www.baidu.com/s?wd=%E5%8F%99%E5%88%A9%E4%BA%9A%E6%80%BB%E7%BB%9F%E5%A4%AB%E4%BA%BA%E7%9A%84%E7%BE%8E%E5%A5%B3%E4%BF%9D%E9%95%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [游客吐槽国庆机票疯狂跳水](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E5%9B%BD%E5%BA%86%E6%9C%BA%E7%A5%A8%E7%96%AF%E7%8B%82%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [游客景区晕倒遇40余名医疗专家](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%99%AF%E5%8C%BA%E6%99%95%E5%80%92%E9%81%8740%E4%BD%99%E5%90%8D%E5%8C%BB%E7%96%97%E4%B8%93%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [亚运现场张雨霏扔签名泳帽送观众](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E7%8E%B0%E5%9C%BA%E5%BC%A0%E9%9B%A8%E9%9C%8F%E6%89%94%E7%AD%BE%E5%90%8D%E6%B3%B3%E5%B8%BD%E9%80%81%E8%A7%82%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [陕西师大发生命案？警方回应](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%B8%88%E5%A4%A7%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [中共中央政治局召开会议](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [游客吐槽国庆机票疯狂跳水](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E5%9B%BD%E5%BA%86%E6%9C%BA%E7%A5%A8%E7%96%AF%E7%8B%82%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [假期高速开堵 网友称9小时没开出省](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E9%AB%98%E9%80%9F%E5%BC%80%E5%A0%B5+%E7%BD%91%E5%8F%8B%E7%A7%B09%E5%B0%8F%E6%97%B6%E6%B2%A1%E5%BC%80%E5%87%BA%E7%9C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [广电总局点赞《狂飙》《三体》](https://www.baidu.com/s?wd=%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E7%82%B9%E8%B5%9E%E3%80%8A%E7%8B%82%E9%A3%99%E3%80%8B%E3%80%8A%E4%B8%89%E4%BD%93%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [站在杭州看未来](https://www.baidu.com/s?wd=%E7%AB%99%E5%9C%A8%E6%9D%AD%E5%B7%9E%E7%9C%8B%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [各地高铁站现状：人头攒动 客流火爆](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%AB%98%E9%93%81%E7%AB%99%E7%8E%B0%E7%8A%B6%EF%BC%9A%E4%BA%BA%E5%A4%B4%E6%94%92%E5%8A%A8+%E5%AE%A2%E6%B5%81%E7%81%AB%E7%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [游客景区晕倒遇40余名医疗专家](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%99%AF%E5%8C%BA%E6%99%95%E5%80%92%E9%81%8740%E4%BD%99%E5%90%8D%E5%8C%BB%E7%96%97%E4%B8%93%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [亚运现场张雨霏扔签名泳帽送观众](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E7%8E%B0%E5%9C%BA%E5%BC%A0%E9%9B%A8%E9%9C%8F%E6%89%94%E7%AD%BE%E5%90%8D%E6%B3%B3%E5%B8%BD%E9%80%81%E8%A7%82%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [叙利亚总统夫人的美女保镖](https://www.baidu.com/s?wd=%E5%8F%99%E5%88%A9%E4%BA%9A%E6%80%BB%E7%BB%9F%E5%A4%AB%E4%BA%BA%E7%9A%84%E7%BE%8E%E5%A5%B3%E4%BF%9D%E9%95%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [游客吐槽国庆机票疯狂跳水](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E5%9B%BD%E5%BA%86%E6%9C%BA%E7%A5%A8%E7%96%AF%E7%8B%82%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [游客景区晕倒遇40余名医疗专家](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%99%AF%E5%8C%BA%E6%99%95%E5%80%92%E9%81%8740%E4%BD%99%E5%90%8D%E5%8C%BB%E7%96%97%E4%B8%93%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [亚运现场张雨霏扔签名泳帽送观众](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E7%8E%B0%E5%9C%BA%E5%BC%A0%E9%9B%A8%E9%9C%8F%E6%89%94%E7%AD%BE%E5%90%8D%E6%B3%B3%E5%B8%BD%E9%80%81%E8%A7%82%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [陕西师大发生命案？警方回应](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%B8%88%E5%A4%A7%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
