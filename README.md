@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 02:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 02:19:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [邓布利多扮演者去世](https://s.weibo.com/weibo?q=%23%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运赛场燃情瞬间](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA%E7%87%83%E6%83%85%E7%9E%AC%E9%97%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [别人的是简历马龙的是繁历](https://s.weibo.com/weibo?q=%23%E5%88%AB%E4%BA%BA%E7%9A%84%E6%98%AF%E7%AE%80%E5%8E%86%E9%A9%AC%E9%BE%99%E7%9A%84%E6%98%AF%E7%B9%81%E5%8E%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [高速](https://s.weibo.com/weibo?q=%E9%AB%98%E9%80%9F&t=31&band_rank=5&Refer=top)<br />
+5. [两个邓布利多都离世了](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E9%83%BD%E7%A6%BB%E4%B8%96%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [许家印已为儿子设立信托基金](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E5%B7%B2%E4%B8%BA%E5%84%BF%E5%AD%90%E8%AE%BE%E7%AB%8B%E4%BF%A1%E6%89%98%E5%9F%BA%E9%87%91%23&t=31&band_rank=6&Refer=top)<br />
-7. [死亡只不过是下一场精彩的探险而已](https://s.weibo.com/weibo?q=%23%E6%AD%BB%E4%BA%A1%E5%8F%AA%E4%B8%8D%E8%BF%87%E6%98%AF%E4%B8%8B%E4%B8%80%E5%9C%BA%E7%B2%BE%E5%BD%A9%E7%9A%84%E6%8E%A2%E9%99%A9%E8%80%8C%E5%B7%B2%23&t=31&band_rank=7&Refer=top)<br />
-8. [两个邓布利多都离世了](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E9%83%BD%E7%A6%BB%E4%B8%96%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [高速](https://s.weibo.com/weibo?q=%E9%AB%98%E9%80%9F&t=31&band_rank=7&Refer=top)<br />
+8. [死亡只不过是下一场精彩的探险而已](https://s.weibo.com/weibo?q=%23%E6%AD%BB%E4%BA%A1%E5%8F%AA%E4%B8%8D%E8%BF%87%E6%98%AF%E4%B8%8B%E4%B8%80%E5%9C%BA%E7%B2%BE%E5%BD%A9%E7%9A%84%E6%8E%A2%E9%99%A9%E8%80%8C%E5%B7%B2%23&t=31&band_rank=8&Refer=top)<br />
 9. [她俩眼神真的不清白](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BF%A9%E7%9C%BC%E7%A5%9E%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%B8%85%E7%99%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,8 +23,8 @@
 4. [将开放和包容的理念呈现给世界](https://www.baidu.com/s?wd=%E5%B0%86%E5%BC%80%E6%94%BE%E5%92%8C%E5%8C%85%E5%AE%B9%E7%9A%84%E7%90%86%E5%BF%B5%E5%91%88%E7%8E%B0%E7%BB%99%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网友吐槽假期坐高铁动车像挤地铁](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E5%81%87%E6%9C%9F%E5%9D%90%E9%AB%98%E9%93%81%E5%8A%A8%E8%BD%A6%E5%83%8F%E6%8C%A4%E5%9C%B0%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [《哈利波特》邓布利多饰演者去世](https://www.baidu.com/s?wd=%E3%80%8A%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E3%80%8B%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E9%A5%B0%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网友建议淄博烧烤转型 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%BB%BA%E8%AE%AE%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E8%BD%AC%E5%9E%8B+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [工厂疑假期强制加班请假每天扣500](https://www.baidu.com/s?wd=%E5%B7%A5%E5%8E%82%E7%96%91%E5%81%87%E6%9C%9F%E5%BC%BA%E5%88%B6%E5%8A%A0%E7%8F%AD%E8%AF%B7%E5%81%87%E6%AF%8F%E5%A4%A9%E6%89%A3500&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广电总局治理电视“套娃”收费](https://www.baidu.com/s?wd=%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%B2%BB%E7%90%86%E7%94%B5%E8%A7%86%E2%80%9C%E5%A5%97%E5%A8%83%E2%80%9D%E6%94%B6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国庆假门还没出就亏了3500元](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%81%87%E9%97%A8%E8%BF%98%E6%B2%A1%E5%87%BA%E5%B0%B1%E4%BA%8F%E4%BA%863500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“无糖月饼”真的无糖吗？](https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A0%E7%B3%96%E6%9C%88%E9%A5%BC%E2%80%9D%E7%9C%9F%E7%9A%84%E6%97%A0%E7%B3%96%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [将开放和包容的理念呈现给世界](https://www.baidu.com/s?wd=%E5%B0%86%E5%BC%80%E6%94%BE%E5%92%8C%E5%8C%85%E5%AE%B9%E7%9A%84%E7%90%86%E5%BF%B5%E5%91%88%E7%8E%B0%E7%BB%99%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网友吐槽假期坐高铁动车像挤地铁](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E5%81%87%E6%9C%9F%E5%9D%90%E9%AB%98%E9%93%81%E5%8A%A8%E8%BD%A6%E5%83%8F%E6%8C%A4%E5%9C%B0%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [《哈利波特》邓布利多饰演者去世](https://www.baidu.com/s?wd=%E3%80%8A%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E3%80%8B%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E9%A5%B0%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网友建议淄博烧烤转型 官方回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%BB%BA%E8%AE%AE%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E8%BD%AC%E5%9E%8B+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [工厂疑假期强制加班请假每天扣500](https://www.baidu.com/s?wd=%E5%B7%A5%E5%8E%82%E7%96%91%E5%81%87%E6%9C%9F%E5%BC%BA%E5%88%B6%E5%8A%A0%E7%8F%AD%E8%AF%B7%E5%81%87%E6%AF%8F%E5%A4%A9%E6%89%A3500&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广电总局治理电视“套娃”收费](https://www.baidu.com/s?wd=%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%B2%BB%E7%90%86%E7%94%B5%E8%A7%86%E2%80%9C%E5%A5%97%E5%A8%83%E2%80%9D%E6%94%B6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国庆假门还没出就亏了3500元](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%81%87%E9%97%A8%E8%BF%98%E6%B2%A1%E5%87%BA%E5%B0%B1%E4%BA%8F%E4%BA%863500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“无糖月饼”真的无糖吗？](https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A0%E7%B3%96%E6%9C%88%E9%A5%BC%E2%80%9D%E7%9C%9F%E7%9A%84%E6%97%A0%E7%B3%96%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
