@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 00:29:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 00:30:02</h4></div>
 
 > 微博  
 
 1. [红气养人 张小斐好美](https://s.weibo.com/weibo?q=%E7%BA%A2%E6%B0%94%E5%85%BB%E4%BA%BA%20%E5%BC%A0%E5%B0%8F%E6%96%90%E5%A5%BD%E7%BE%8E&t=31&band_rank=1&Refer=top)<br />
-2. [杨幂旗袍 古韵美人](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E6%97%97%E8%A2%8D%20%E5%8F%A4%E9%9F%B5%E7%BE%8E%E4%BA%BA&t=31&band_rank=2&Refer=top)<br />
+2. [封神榜纣王饰演者去世](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E6%A6%9C%E7%BA%A3%E7%8E%8B%E9%A5%B0%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&t=31&band_rank=2&Refer=top)<br />
 3. [月圆中秋夜团圆共此时](https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%9C%86%E4%B8%AD%E7%A7%8B%E5%A4%9C%E5%9B%A2%E5%9C%86%E5%85%B1%E6%AD%A4%E6%97%B6%23&t=31&band_rank=3&Refer=top)<br />
-4. [封神榜纣王饰演者去世](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E6%A6%9C%E7%BA%A3%E7%8E%8B%E9%A5%B0%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&t=31&band_rank=4&Refer=top)<br />
+4. [杨幂旗袍 古韵美人](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E6%97%97%E8%A2%8D%20%E5%8F%A4%E9%9F%B5%E7%BE%8E%E4%BA%BA&t=31&band_rank=4&Refer=top)<br />
 5. [35岁做了近视手术](https://s.weibo.com/weibo?q=35%E5%B2%81%E5%81%9A%E4%BA%86%E8%BF%91%E8%A7%86%E6%89%8B%E6%9C%AF&t=31&band_rank=5&Refer=top)<br />
 6. [周深光亮实时收视第一](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%85%89%E4%BA%AE%E5%AE%9E%E6%97%B6%E6%94%B6%E8%A7%86%E7%AC%AC%E4%B8%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [向云端 跑调](https://s.weibo.com/weibo?q=%E5%90%91%E4%BA%91%E7%AB%AF%20%E8%B7%91%E8%B0%83&t=31&band_rank=7&Refer=top)<br />
