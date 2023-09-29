@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 15:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 15:37:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [亚运健儿国风壁纸](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E5%81%A5%E5%84%BF%E5%9B%BD%E9%A3%8E%E5%A3%81%E7%BA%B8%23&t=31&band_rank=3&Refer=top)<br />
 4. [保研](https://s.weibo.com/weibo?q=%E4%BF%9D%E7%A0%94&t=31&band_rank=4&Refer=top)<br />
 5. [张雨霏无缘亚运七冠王](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E6%97%A0%E7%BC%98%E4%BA%9A%E8%BF%90%E4%B8%83%E5%86%A0%E7%8E%8B%23&t=31&band_rank=5&Refer=top)<br />
-6. [建议大学里的水课都换成这些](https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AD%A6%E9%87%8C%E7%9A%84%E6%B0%B4%E8%AF%BE%E9%83%BD%E6%8D%A2%E6%88%90%E8%BF%99%E4%BA%9B&t=31&band_rank=6&Refer=top)<br />
-7. [彭立勋替补赵礼杰上场](https://s.weibo.com/weibo?q=%23%E5%BD%AD%E7%AB%8B%E5%8B%8B%E6%9B%BF%E8%A1%A5%E8%B5%B5%E7%A4%BC%E6%9D%B0%E4%B8%8A%E5%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
+6. [彭立勋替补赵礼杰上场](https://s.weibo.com/weibo?q=%23%E5%BD%AD%E7%AB%8B%E5%8B%8B%E6%9B%BF%E8%A1%A5%E8%B5%B5%E7%A4%BC%E6%9D%B0%E4%B8%8A%E5%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
+7. [建议大学里的水课都换成这些](https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AD%A6%E9%87%8C%E7%9A%84%E6%B0%B4%E8%AF%BE%E9%83%BD%E6%8D%A2%E6%88%90%E8%BF%99%E4%BA%9B&t=31&band_rank=7&Refer=top)<br />
 8. [冯小刚回应病危传言](https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%B0%8F%E5%88%9A%E5%9B%9E%E5%BA%94%E7%97%85%E5%8D%B1%E4%BC%A0%E8%A8%80%23&t=31&band_rank=8&Refer=top)<br />
 9. [从幼儿园带回来的月饼不要吃](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%B8%A6%E5%9B%9E%E6%9D%A5%E7%9A%84%E6%9C%88%E9%A5%BC%E4%B8%8D%E8%A6%81%E5%90%83%23&t=31&band_rank=9&Refer=top)<br />
 
