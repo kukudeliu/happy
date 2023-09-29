@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 18:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 18:59:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 3. [高速堵车6小时 车友坐地打麻将](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A66%E5%B0%8F%E6%97%B6+%E8%BD%A6%E5%8F%8B%E5%9D%90%E5%9C%B0%E6%89%93%E9%BA%BB%E5%B0%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运遇上中秋 共赴中式浪漫](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E9%81%87%E4%B8%8A%E4%B8%AD%E7%A7%8B+%E5%85%B1%E8%B5%B4%E4%B8%AD%E5%BC%8F%E6%B5%AA%E6%BC%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [韩国教练举错牌：申诉变弃权](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%95%99%E7%BB%83%E4%B8%BE%E9%94%99%E7%89%8C%EF%BC%9A%E7%94%B3%E8%AF%89%E5%8F%98%E5%BC%83%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小伙被父母遗忘高速 车道拦车求助](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%A2%AB%E7%88%B6%E6%AF%8D%E9%81%97%E5%BF%98%E9%AB%98%E9%80%9F+%E8%BD%A6%E9%81%93%E6%8B%A6%E8%BD%A6%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [大学生放假挤地铁电脑被门夹变形](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%94%BE%E5%81%87%E6%8C%A4%E5%9C%B0%E9%93%81%E7%94%B5%E8%84%91%E8%A2%AB%E9%97%A8%E5%A4%B9%E5%8F%98%E5%BD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [各卫视中秋晚会节目单出炉](https://www.baidu.com/s?wd=%E5%90%84%E5%8D%AB%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [原来我们错怪五仁月饼了](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E6%88%91%E4%BB%AC%E9%94%99%E6%80%AA%E4%BA%94%E4%BB%81%E6%9C%88%E9%A5%BC%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“免费月饼”送上门？别信！](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%8D%E8%B4%B9%E6%9C%88%E9%A5%BC%E2%80%9D%E9%80%81%E4%B8%8A%E9%97%A8%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [高速堵车6小时 车友坐地打麻将](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A66%E5%B0%8F%E6%97%B6+%E8%BD%A6%E5%8F%8B%E5%9D%90%E5%9C%B0%E6%89%93%E9%BA%BB%E5%B0%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚运遇上中秋 共赴中式浪漫](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E9%81%87%E4%B8%8A%E4%B8%AD%E7%A7%8B+%E5%85%B1%E8%B5%B4%E4%B8%AD%E5%BC%8F%E6%B5%AA%E6%BC%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [韩国教练举错牌：申诉变弃权](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%95%99%E7%BB%83%E4%B8%BE%E9%94%99%E7%89%8C%EF%BC%9A%E7%94%B3%E8%AF%89%E5%8F%98%E5%BC%83%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小伙被父母遗忘高速 车道拦车求助](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%A2%AB%E7%88%B6%E6%AF%8D%E9%81%97%E5%BF%98%E9%AB%98%E9%80%9F+%E8%BD%A6%E9%81%93%E6%8B%A6%E8%BD%A6%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [大学生放假挤地铁电脑被门夹变形](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%94%BE%E5%81%87%E6%8C%A4%E5%9C%B0%E9%93%81%E7%94%B5%E8%84%91%E8%A2%AB%E9%97%A8%E5%A4%B9%E5%8F%98%E5%BD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [各卫视中秋晚会节目单出炉](https://www.baidu.com/s?wd=%E5%90%84%E5%8D%AB%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [原来我们错怪五仁月饼了](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E6%88%91%E4%BB%AC%E9%94%99%E6%80%AA%E4%BA%94%E4%BB%81%E6%9C%88%E9%A5%BC%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“免费月饼”送上门？别信！](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%8D%E8%B4%B9%E6%9C%88%E9%A5%BC%E2%80%9D%E9%80%81%E4%B8%8A%E9%97%A8%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
