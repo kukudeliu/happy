@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 21:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 21:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [西藏堵车 震撼全家](https://s.weibo.com/weibo?q=%E8%A5%BF%E8%97%8F%E5%A0%B5%E8%BD%A6%20%E9%9C%87%E6%92%BC%E5%85%A8%E5%AE%B6&t=31&band_rank=6&Refer=top)<br />
 7. [时代少年团是压轴吗](https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%98%AF%E5%8E%8B%E8%BD%B4%E5%90%97&t=31&band_rank=7&Refer=top)<br />
 8. [天蝎座疏远一个人的原因](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E8%9D%8E%E5%BA%A7%E7%96%8F%E8%BF%9C%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [央视中秋晚会](https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
+9. [王楚钦小心翼翼试探生气的教练](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%B0%8F%E5%BF%83%E7%BF%BC%E7%BF%BC%E8%AF%95%E6%8E%A2%E7%94%9F%E6%B0%94%E7%9A%84%E6%95%99%E7%BB%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
