@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 18:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 18:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈妍希 遇到会让你内耗的人就赶紧跑吧](https://s.weibo.com/weibo?q=%E9%99%88%E5%A6%8D%E5%B8%8C%20%E9%81%87%E5%88%B0%E4%BC%9A%E8%AE%A9%E4%BD%A0%E5%86%85%E8%80%97%E7%9A%84%E4%BA%BA%E5%B0%B1%E8%B5%B6%E7%B4%A7%E8%B7%91%E5%90%A7&t=31&band_rank=6&Refer=top)<br />
 7. [大熊猫七仔吃上特制中秋大餐](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%B8%83%E4%BB%94%E5%90%83%E4%B8%8A%E7%89%B9%E5%88%B6%E4%B8%AD%E7%A7%8B%E5%A4%A7%E9%A4%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [火光代到了张馨予何捷](https://s.weibo.com/weibo?q=%E7%81%AB%E5%85%89%E4%BB%A3%E5%88%B0%E4%BA%86%E5%BC%A0%E9%A6%A8%E4%BA%88%E4%BD%95%E6%8D%B7&t=31&band_rank=8&Refer=top)<br />
-9. [黄轩 疯批](https://s.weibo.com/weibo?q=%E9%BB%84%E8%BD%A9%20%E7%96%AF%E6%89%B9&t=31&band_rank=9&Refer=top)<br />
+9. [黄轩 好疯](https://s.weibo.com/weibo?q=%E9%BB%84%E8%BD%A9%20%E5%A5%BD%E7%96%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
