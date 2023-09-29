@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 21:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 21:53:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [习近平心中的乡情乡愁](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BF%83%E4%B8%AD%E7%9A%84%E4%B9%A1%E6%83%85%E4%B9%A1%E6%84%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平强调团结就是力量](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E8%B0%83%E5%9B%A2%E7%BB%93%E5%B0%B1%E6%98%AF%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [多台晚会陪你共度中秋](https://www.baidu.com/s?wd=%E5%A4%9A%E5%8F%B0%E6%99%9A%E4%BC%9A%E9%99%AA%E4%BD%A0%E5%85%B1%E5%BA%A6%E4%B8%AD%E7%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [中秋夜上演“超级月亮”](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%8B%E5%A4%9C%E4%B8%8A%E6%BC%94%E2%80%9C%E8%B6%85%E7%BA%A7%E6%9C%88%E4%BA%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [浓情迎中秋](https://www.baidu.com/s?wd=%E6%B5%93%E6%83%85%E8%BF%8E%E4%B8%AD%E7%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [习近平心中的乡情乡愁](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BF%83%E4%B8%AD%E7%9A%84%E4%B9%A1%E6%83%85%E4%B9%A1%E6%84%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平强调团结就是力量](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E8%B0%83%E5%9B%A2%E7%BB%93%E5%B0%B1%E6%98%AF%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [多台晚会陪你共度中秋](https://www.baidu.com/s?wd=%E5%A4%9A%E5%8F%B0%E6%99%9A%E4%BC%9A%E9%99%AA%E4%BD%A0%E5%85%B1%E5%BA%A6%E4%B8%AD%E7%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [中秋夜上演“超级月亮”](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%8B%E5%A4%9C%E4%B8%8A%E6%BC%94%E2%80%9C%E8%B6%85%E7%BA%A7%E6%9C%88%E4%BA%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [浓情迎中秋](https://www.baidu.com/s?wd=%E6%B5%93%E6%83%85%E8%BF%8E%E4%B8%AD%E7%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
