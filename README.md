@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 12:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 12:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [建议大学里的水课都换成这些](https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AD%A6%E9%87%8C%E7%9A%84%E6%B0%B4%E8%AF%BE%E9%83%BD%E6%8D%A2%E6%88%90%E8%BF%99%E4%BA%9B&t=31&band_rank=6&Refer=top)<br />
 7. [汪雪儿抢跳](https://s.weibo.com/weibo?q=%E6%B1%AA%E9%9B%AA%E5%84%BF%E6%8A%A2%E8%B7%B3&t=31&band_rank=7&Refer=top)<br />
 8. [马来西亚选手第一次在中国吃月饼哽咽了](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E9%80%89%E6%89%8B%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%90%83%E6%9C%88%E9%A5%BC%E5%93%BD%E5%92%BD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [央视中秋晚会节目单](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23&t=31&band_rank=9&Refer=top)<br />
+9. [张凌赫 当乞丐也能赚到一座金山](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E5%BD%93%E4%B9%9E%E4%B8%90%E4%B9%9F%E8%83%BD%E8%B5%9A%E5%88%B0%E4%B8%80%E5%BA%A7%E9%87%91%E5%B1%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
