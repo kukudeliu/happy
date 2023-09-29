@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 18:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 18:44:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女孩第一次见穿警服的爸爸开心到飞起](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E7%A9%BF%E8%AD%A6%E6%9C%8D%E7%9A%84%E7%88%B8%E7%88%B8%E5%BC%80%E5%BF%83%E5%88%B0%E9%A3%9E%E8%B5%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [英雄联盟中国队铜牌](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%93%9C%E7%89%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [唐茜靖为杭州亚运会瘦15斤](https://s.weibo.com/weibo?q=%23%E5%94%90%E8%8C%9C%E9%9D%96%E4%B8%BA%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%98%A615%E6%96%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈妍希 遇到会让你内耗的人就赶紧跑吧](https://s.weibo.com/weibo?q=%E9%99%88%E5%A6%8D%E5%B8%8C%20%E9%81%87%E5%88%B0%E4%BC%9A%E8%AE%A9%E4%BD%A0%E5%86%85%E8%80%97%E7%9A%84%E4%BA%BA%E5%B0%B1%E8%B5%B6%E7%B4%A7%E8%B7%91%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
-9. [英雄联盟韩国vs中国台北](https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E9%9F%A9%E5%9B%BDvs%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97&t=31&band_rank=9&Refer=top)<br />
+8. [英雄联盟韩国vs中国台北](https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E9%9F%A9%E5%9B%BDvs%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97&t=31&band_rank=8&Refer=top)<br />
+9. [陈妍希 遇到会让你内耗的人就赶紧跑吧](https://s.weibo.com/weibo?q=%E9%99%88%E5%A6%8D%E5%B8%8C%20%E9%81%87%E5%88%B0%E4%BC%9A%E8%AE%A9%E4%BD%A0%E5%86%85%E8%80%97%E7%9A%84%E4%BA%BA%E5%B0%B1%E8%B5%B6%E7%B4%A7%E8%B7%91%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
