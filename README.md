@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 15:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 15:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [堵车](https://s.weibo.com/weibo?q=%E5%A0%B5%E8%BD%A6&t=31&band_rank=6&Refer=top)<br />
 7. [田曦薇落入山野的玉兔](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E8%90%BD%E5%85%A5%E5%B1%B1%E9%87%8E%E7%9A%84%E7%8E%89%E5%85%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [建议大学里的水课都换成这些](https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AD%A6%E9%87%8C%E7%9A%84%E6%B0%B4%E8%AF%BE%E9%83%BD%E6%8D%A2%E6%88%90%E8%BF%99%E4%BA%9B&t=31&band_rank=8&Refer=top)<br />
-9. [中秋保留节目看兔兔做月饼](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E4%BF%9D%E7%95%99%E8%8A%82%E7%9B%AE%E7%9C%8B%E5%85%94%E5%85%94%E5%81%9A%E6%9C%88%E9%A5%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [英雄联盟季军赛越南队先下一城](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%AD%A3%E5%86%9B%E8%B5%9B%E8%B6%8A%E5%8D%97%E9%98%9F%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
