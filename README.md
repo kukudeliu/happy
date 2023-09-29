@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 20:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 20:09:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [亚运遇上中秋 共赴中式浪漫](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E9%81%87%E4%B8%8A%E4%B8%AD%E7%A7%8B+%E5%85%B1%E8%B5%B4%E4%B8%AD%E5%BC%8F%E6%B5%AA%E6%BC%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [韩国教练举错牌：申诉变弃权](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%95%99%E7%BB%83%E4%B8%BE%E9%94%99%E7%89%8C%EF%BC%9A%E7%94%B3%E8%AF%89%E5%8F%98%E5%BC%83%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高速堵车6小时 车友坐地打麻将](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A66%E5%B0%8F%E6%97%B6+%E8%BD%A6%E5%8F%8B%E5%9D%90%E5%9C%B0%E6%89%93%E9%BA%BB%E5%B0%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [传芯片巨头英伟达遭法国突击搜查](https://www.baidu.com/s?wd=%E4%BC%A0%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%81%AD%E6%B3%95%E5%9B%BD%E7%AA%81%E5%87%BB%E6%90%9C%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [叶诗文特地做了11年前同款指甲](https://www.baidu.com/s?wd=%E5%8F%B6%E8%AF%97%E6%96%87%E7%89%B9%E5%9C%B0%E5%81%9A%E4%BA%8611%E5%B9%B4%E5%89%8D%E5%90%8C%E6%AC%BE%E6%8C%87%E7%94%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [假期火车列车员被挤出“夹子音”](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E7%81%AB%E8%BD%A6%E5%88%97%E8%BD%A6%E5%91%98%E8%A2%AB%E6%8C%A4%E5%87%BA%E2%80%9C%E5%A4%B9%E5%AD%90%E9%9F%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小伙被父母遗忘高速 车道拦车求助](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%A2%AB%E7%88%B6%E6%AF%8D%E9%81%97%E5%BF%98%E9%AB%98%E9%80%9F+%E8%BD%A6%E9%81%93%E6%8B%A6%E8%BD%A6%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“免费月饼”送上门？别信！](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%8D%E8%B4%B9%E6%9C%88%E9%A5%BC%E2%80%9D%E9%80%81%E4%B8%8A%E9%97%A8%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [亚运遇上中秋 共赴中式浪漫](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E9%81%87%E4%B8%8A%E4%B8%AD%E7%A7%8B+%E5%85%B1%E8%B5%B4%E4%B8%AD%E5%BC%8F%E6%B5%AA%E6%BC%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [韩国教练举错牌：申诉变弃权](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%95%99%E7%BB%83%E4%B8%BE%E9%94%99%E7%89%8C%EF%BC%9A%E7%94%B3%E8%AF%89%E5%8F%98%E5%BC%83%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高速堵车6小时 车友坐地打麻将](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A66%E5%B0%8F%E6%97%B6+%E8%BD%A6%E5%8F%8B%E5%9D%90%E5%9C%B0%E6%89%93%E9%BA%BB%E5%B0%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [传芯片巨头英伟达遭法国突击搜查](https://www.baidu.com/s?wd=%E4%BC%A0%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%81%AD%E6%B3%95%E5%9B%BD%E7%AA%81%E5%87%BB%E6%90%9C%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [叶诗文特地做了11年前同款指甲](https://www.baidu.com/s?wd=%E5%8F%B6%E8%AF%97%E6%96%87%E7%89%B9%E5%9C%B0%E5%81%9A%E4%BA%8611%E5%B9%B4%E5%89%8D%E5%90%8C%E6%AC%BE%E6%8C%87%E7%94%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [假期火车列车员被挤出“夹子音”](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E7%81%AB%E8%BD%A6%E5%88%97%E8%BD%A6%E5%91%98%E8%A2%AB%E6%8C%A4%E5%87%BA%E2%80%9C%E5%A4%B9%E5%AD%90%E9%9F%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小伙被父母遗忘高速 车道拦车求助](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%A2%AB%E7%88%B6%E6%AF%8D%E9%81%97%E5%BF%98%E9%AB%98%E9%80%9F+%E8%BD%A6%E9%81%93%E6%8B%A6%E8%BD%A6%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“免费月饼”送上门？别信！](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%8D%E8%B4%B9%E6%9C%88%E9%A5%BC%E2%80%9D%E9%80%81%E4%B8%8A%E9%97%A8%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
