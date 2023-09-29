@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 22:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 22:59:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [浓情迎中秋](https://www.baidu.com/s?wd=%E6%B5%93%E6%83%85%E8%BF%8E%E4%B8%AD%E7%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [黄绮珊中秋唱《向云端》跑调](https://www.baidu.com/s?wd=%E9%BB%84%E7%BB%AE%E7%8F%8A%E4%B8%AD%E7%A7%8B%E5%94%B1%E3%80%8A%E5%90%91%E4%BA%91%E7%AB%AF%E3%80%8B%E8%B7%91%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [重庆一小学装修后学生开始流鼻血](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%B0%8F%E5%AD%A6%E8%A3%85%E4%BF%AE%E5%90%8E%E5%AD%A6%E7%94%9F%E5%BC%80%E5%A7%8B%E6%B5%81%E9%BC%BB%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [堵车之月饼还没提回家就吃完了](https://www.baidu.com/s?wd=%E5%A0%B5%E8%BD%A6%E4%B9%8B%E6%9C%88%E9%A5%BC%E8%BF%98%E6%B2%A1%E6%8F%90%E5%9B%9E%E5%AE%B6%E5%B0%B1%E5%90%83%E5%AE%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高速堵车饿肚子?有人车上带一锅饭菜](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A6%E9%A5%BF%E8%82%9A%E5%AD%90%3F%E6%9C%89%E4%BA%BA%E8%BD%A6%E4%B8%8A%E5%B8%A6%E4%B8%80%E9%94%85%E9%A5%AD%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [长假第一天高速上演“人在囧途”](https://www.baidu.com/s?wd=%E9%95%BF%E5%81%87%E7%AC%AC%E4%B8%80%E5%A4%A9%E9%AB%98%E9%80%9F%E4%B8%8A%E6%BC%94%E2%80%9C%E4%BA%BA%E5%9C%A8%E5%9B%A7%E9%80%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北京六里桥客运站候车大厅人头攒动](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%85%AD%E9%87%8C%E6%A1%A5%E5%AE%A2%E8%BF%90%E7%AB%99%E5%80%99%E8%BD%A6%E5%A4%A7%E5%8E%85%E4%BA%BA%E5%A4%B4%E6%94%92%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [湖北黄石辟谣百洞峡景区有人死亡](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E9%BB%84%E7%9F%B3%E8%BE%9F%E8%B0%A3%E7%99%BE%E6%B4%9E%E5%B3%A1%E6%99%AF%E5%8C%BA%E6%9C%89%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [浓情迎中秋](https://www.baidu.com/s?wd=%E6%B5%93%E6%83%85%E8%BF%8E%E4%B8%AD%E7%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [黄绮珊中秋唱《向云端》跑调](https://www.baidu.com/s?wd=%E9%BB%84%E7%BB%AE%E7%8F%8A%E4%B8%AD%E7%A7%8B%E5%94%B1%E3%80%8A%E5%90%91%E4%BA%91%E7%AB%AF%E3%80%8B%E8%B7%91%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [重庆一小学装修后学生开始流鼻血](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%B0%8F%E5%AD%A6%E8%A3%85%E4%BF%AE%E5%90%8E%E5%AD%A6%E7%94%9F%E5%BC%80%E5%A7%8B%E6%B5%81%E9%BC%BB%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [堵车之月饼还没提回家就吃完了](https://www.baidu.com/s?wd=%E5%A0%B5%E8%BD%A6%E4%B9%8B%E6%9C%88%E9%A5%BC%E8%BF%98%E6%B2%A1%E6%8F%90%E5%9B%9E%E5%AE%B6%E5%B0%B1%E5%90%83%E5%AE%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高速堵车饿肚子?有人车上带一锅饭菜](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A6%E9%A5%BF%E8%82%9A%E5%AD%90%3F%E6%9C%89%E4%BA%BA%E8%BD%A6%E4%B8%8A%E5%B8%A6%E4%B8%80%E9%94%85%E9%A5%AD%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [长假第一天高速上演“人在囧途”](https://www.baidu.com/s?wd=%E9%95%BF%E5%81%87%E7%AC%AC%E4%B8%80%E5%A4%A9%E9%AB%98%E9%80%9F%E4%B8%8A%E6%BC%94%E2%80%9C%E4%BA%BA%E5%9C%A8%E5%9B%A7%E9%80%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北京六里桥客运站候车大厅人头攒动](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%85%AD%E9%87%8C%E6%A1%A5%E5%AE%A2%E8%BF%90%E7%AB%99%E5%80%99%E8%BD%A6%E5%A4%A7%E5%8E%85%E4%BA%BA%E5%A4%B4%E6%94%92%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [湖北黄石辟谣百洞峡景区有人死亡](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E9%BB%84%E7%9F%B3%E8%BE%9F%E8%B0%A3%E7%99%BE%E6%B4%9E%E5%B3%A1%E6%99%AF%E5%8C%BA%E6%9C%89%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
