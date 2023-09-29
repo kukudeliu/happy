@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 14:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-29 14:06:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [亚运健儿国风壁纸](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E5%81%A5%E5%84%BF%E5%9B%BD%E9%A3%8E%E5%A3%81%E7%BA%B8%23&t=31&band_rank=3&Refer=top)<br />
 4. [保研](https://s.weibo.com/weibo?q=%E4%BF%9D%E7%A0%94&t=31&band_rank=4&Refer=top)<br />
 5. [建议大学里的水课都换成这些](https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AD%A6%E9%87%8C%E7%9A%84%E6%B0%B4%E8%AF%BE%E9%83%BD%E6%8D%A2%E6%88%90%E8%BF%99%E4%BA%9B&t=31&band_rank=5&Refer=top)<br />
-6. [堵车](https://s.weibo.com/weibo?q=%E5%A0%B5%E8%BD%A6&t=31&band_rank=6&Refer=top)<br />
-7. [电竞人采访被确诊为张飞](https://s.weibo.com/weibo?q=%23%E7%94%B5%E7%AB%9E%E4%BA%BA%E9%87%87%E8%AE%BF%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%BC%A0%E9%A3%9E%23&t=31&band_rank=7&Refer=top)<br />
+6. [电竞人采访被确诊为张飞](https://s.weibo.com/weibo?q=%23%E7%94%B5%E7%AB%9E%E4%BA%BA%E9%87%87%E8%AE%BF%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%BC%A0%E9%A3%9E%23&t=31&band_rank=6&Refer=top)<br />
+7. [堵车](https://s.weibo.com/weibo?q=%E5%A0%B5%E8%BD%A6&t=31&band_rank=7&Refer=top)<br />
 8. [易烊千玺中秋怀化citywalk](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%B8%AD%E7%A7%8B%E6%80%80%E5%8C%96citywalk%23&t=31&band_rank=8&Refer=top)<br />
 9. [汪顺统一了东亚审美标准](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E9%A1%BA%E7%BB%9F%E4%B8%80%E4%BA%86%E4%B8%9C%E4%BA%9A%E5%AE%A1%E7%BE%8E%E6%A0%87%E5%87%86%23&t=31&band_rank=9&Refer=top)<br />
 
