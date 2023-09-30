@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 02:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 02:14:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [堵车时第一辆在干啥](https://www.baidu.com/s?wd=%E5%A0%B5%E8%BD%A6%E6%97%B6%E7%AC%AC%E4%B8%80%E8%BE%86%E5%9C%A8%E5%B9%B2%E5%95%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这些科技让亚运更“智能”](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E7%A7%91%E6%8A%80%E8%AE%A9%E4%BA%9A%E8%BF%90%E6%9B%B4%E2%80%9C%E6%99%BA%E8%83%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [谢震业百米冠军](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E7%99%BE%E7%B1%B3%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [全红婵回应包上挂满小乌龟](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%9B%9E%E5%BA%94%E5%8C%85%E4%B8%8A%E6%8C%82%E6%BB%A1%E5%B0%8F%E4%B9%8C%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [胡兵你是懂打码的](https://www.baidu.com/s?wd=%E8%83%A1%E5%85%B5%E4%BD%A0%E6%98%AF%E6%87%82%E6%89%93%E7%A0%81%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [有人冒充领导出席教育部联谊活动](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E5%86%92%E5%85%85%E9%A2%86%E5%AF%BC%E5%87%BA%E5%B8%AD%E6%95%99%E8%82%B2%E9%83%A8%E8%81%94%E8%B0%8A%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [游客坐缆车遇打雷停在半空](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9D%90%E7%BC%86%E8%BD%A6%E9%81%87%E6%89%93%E9%9B%B7%E5%81%9C%E5%9C%A8%E5%8D%8A%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [全红婵回应包上挂满小乌龟](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%9B%9E%E5%BA%94%E5%8C%85%E4%B8%8A%E6%8C%82%E6%BB%A1%E5%B0%8F%E4%B9%8C%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国队电竞第二金诞生](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%94%B5%E7%AB%9E%E7%AC%AC%E4%BA%8C%E9%87%91%E8%AF%9E%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [不粘锅有毒致癌不能用？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%B2%98%E9%94%85%E6%9C%89%E6%AF%92%E8%87%B4%E7%99%8C%E4%B8%8D%E8%83%BD%E7%94%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [堵车时第一辆在干啥](https://www.baidu.com/s?wd=%E5%A0%B5%E8%BD%A6%E6%97%B6%E7%AC%AC%E4%B8%80%E8%BE%86%E5%9C%A8%E5%B9%B2%E5%95%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这些科技让亚运更“智能”](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E7%A7%91%E6%8A%80%E8%AE%A9%E4%BA%9A%E8%BF%90%E6%9B%B4%E2%80%9C%E6%99%BA%E8%83%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [谢震业百米冠军](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E7%99%BE%E7%B1%B3%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [全红婵回应包上挂满小乌龟](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%9B%9E%E5%BA%94%E5%8C%85%E4%B8%8A%E6%8C%82%E6%BB%A1%E5%B0%8F%E4%B9%8C%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [胡兵你是懂打码的](https://www.baidu.com/s?wd=%E8%83%A1%E5%85%B5%E4%BD%A0%E6%98%AF%E6%87%82%E6%89%93%E7%A0%81%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [有人冒充领导出席教育部联谊活动](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E5%86%92%E5%85%85%E9%A2%86%E5%AF%BC%E5%87%BA%E5%B8%AD%E6%95%99%E8%82%B2%E9%83%A8%E8%81%94%E8%B0%8A%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [游客坐缆车遇打雷停在半空](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9D%90%E7%BC%86%E8%BD%A6%E9%81%87%E6%89%93%E9%9B%B7%E5%81%9C%E5%9C%A8%E5%8D%8A%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [全红婵回应包上挂满小乌龟](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%9B%9E%E5%BA%94%E5%8C%85%E4%B8%8A%E6%8C%82%E6%BB%A1%E5%B0%8F%E4%B9%8C%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国队电竞第二金诞生](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%94%B5%E7%AB%9E%E7%AC%AC%E4%BA%8C%E9%87%91%E8%AF%9E%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [不粘锅有毒致癌不能用？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%B2%98%E9%94%85%E6%9C%89%E6%AF%92%E8%87%B4%E7%99%8C%E4%B8%8D%E8%83%BD%E7%94%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
