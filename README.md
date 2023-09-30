@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 13:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 13:44:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [高铁因超员触发警报无法发车](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%9B%A0%E8%B6%85%E5%91%98%E8%A7%A6%E5%8F%91%E8%AD%A6%E6%8A%A5%E6%97%A0%E6%B3%95%E5%8F%91%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [38岁知名私募董事长逝世](https://www.baidu.com/s?wd=38%E5%B2%81%E7%9F%A5%E5%90%8D%E7%A7%81%E5%8B%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小狗返乡途中晕车还被猫打了一巴掌](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8B%97%E8%BF%94%E4%B9%A1%E9%80%94%E4%B8%AD%E6%99%95%E8%BD%A6%E8%BF%98%E8%A2%AB%E7%8C%AB%E6%89%93%E4%BA%86%E4%B8%80%E5%B7%B4%E6%8E%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黄金周来了还有人记得淄博吗](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%91%A8%E6%9D%A5%E4%BA%86%E8%BF%98%E6%9C%89%E4%BA%BA%E8%AE%B0%E5%BE%97%E6%B7%84%E5%8D%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小学生为何集体痴迷萝卜刀？](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%B8%BA%E4%BD%95%E9%9B%86%E4%BD%93%E7%97%B4%E8%BF%B7%E8%90%9D%E5%8D%9C%E5%88%80%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [南宁地铁辟谣夜间免费乘车](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E5%9C%B0%E9%93%81%E8%BE%9F%E8%B0%A3%E5%A4%9C%E9%97%B4%E5%85%8D%E8%B4%B9%E4%B9%98%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [高铁因超员触发警报无法发车](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%9B%A0%E8%B6%85%E5%91%98%E8%A7%A6%E5%8F%91%E8%AD%A6%E6%8A%A5%E6%97%A0%E6%B3%95%E5%8F%91%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [38岁知名私募董事长逝世](https://www.baidu.com/s?wd=38%E5%B2%81%E7%9F%A5%E5%90%8D%E7%A7%81%E5%8B%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小狗返乡途中晕车还被猫打了一巴掌](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8B%97%E8%BF%94%E4%B9%A1%E9%80%94%E4%B8%AD%E6%99%95%E8%BD%A6%E8%BF%98%E8%A2%AB%E7%8C%AB%E6%89%93%E4%BA%86%E4%B8%80%E5%B7%B4%E6%8E%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黄金周来了还有人记得淄博吗](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%91%A8%E6%9D%A5%E4%BA%86%E8%BF%98%E6%9C%89%E4%BA%BA%E8%AE%B0%E5%BE%97%E6%B7%84%E5%8D%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小学生为何集体痴迷萝卜刀？](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%B8%BA%E4%BD%95%E9%9B%86%E4%BD%93%E7%97%B4%E8%BF%B7%E8%90%9D%E5%8D%9C%E5%88%80%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [南宁地铁辟谣夜间免费乘车](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E5%9C%B0%E9%93%81%E8%BE%9F%E8%B0%A3%E5%A4%9C%E9%97%B4%E5%85%8D%E8%B4%B9%E4%B9%98%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
