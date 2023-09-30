@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 10:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 10:37:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [封神榜纣王饰演者去世](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E6%A6%9C%E7%BA%A3%E7%8E%8B%E9%A5%B0%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&t=31&band_rank=6&Refer=top)<br />
 7. [黄绮珊为跑调道歉](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%BB%AE%E7%8F%8A%E4%B8%BA%E8%B7%91%E8%B0%83%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [小长假不得连炫八天甄嬛传](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%95%BF%E5%81%87%E4%B8%8D%E5%BE%97%E8%BF%9E%E7%82%AB%E5%85%AB%E5%A4%A9%E7%94%84%E5%AC%9B%E4%BC%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [徐嘉余 两届亚运未尝一败](https://s.weibo.com/weibo?q=%E5%BE%90%E5%98%89%E4%BD%99%20%E4%B8%A4%E5%B1%8A%E4%BA%9A%E8%BF%90%E6%9C%AA%E5%B0%9D%E4%B8%80%E8%B4%A5&t=31&band_rank=9&Refer=top)<br />
+9. [吴艳妮12秒80晋级决赛](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE12%E7%A7%9280%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
