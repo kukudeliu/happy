@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 12:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 12:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女子买票被抢票软件提示多买12站](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%A5%A8%E8%A2%AB%E6%8A%A2%E7%A5%A8%E8%BD%AF%E4%BB%B6%E6%8F%90%E7%A4%BA%E5%A4%9A%E4%B9%B012%E7%AB%99%23&t=31&band_rank=6&Refer=top)<br />
 7. [大学生付餐具费吃完饭将餐具全带走](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%98%E9%A4%90%E5%85%B7%E8%B4%B9%E5%90%83%E5%AE%8C%E9%A5%AD%E5%B0%86%E9%A4%90%E5%85%B7%E5%85%A8%E5%B8%A6%E8%B5%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [你好星期六全员笑脸送国庆祝福](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E5%85%A8%E5%91%98%E7%AC%91%E8%84%B8%E9%80%81%E5%9B%BD%E5%BA%86%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [小长假不得连炫八天甄嬛传](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%95%BF%E5%81%87%E4%B8%8D%E5%BE%97%E8%BF%9E%E7%82%AB%E5%85%AB%E5%A4%A9%E7%94%84%E5%AC%9B%E4%BC%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [吴昕 解决情绪比较有效的就是哭](https://s.weibo.com/weibo?q=%E5%90%B4%E6%98%95%20%E8%A7%A3%E5%86%B3%E6%83%85%E7%BB%AA%E6%AF%94%E8%BE%83%E6%9C%89%E6%95%88%E7%9A%84%E5%B0%B1%E6%98%AF%E5%93%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
