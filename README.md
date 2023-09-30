@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 16:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 16:18:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [为什么觉得假期越休息越累](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A7%89%E5%BE%97%E5%81%87%E6%9C%9F%E8%B6%8A%E4%BC%91%E6%81%AF%E8%B6%8A%E7%B4%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [酸枣仁价格暴涨](https://www.baidu.com/s?wd=%E9%85%B8%E6%9E%A3%E4%BB%81%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄金周来了还有人记得淄博吗](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%91%A8%E6%9D%A5%E4%BA%86%E8%BF%98%E6%9C%89%E4%BA%BA%E8%AE%B0%E5%BE%97%E6%B7%84%E5%8D%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [38岁知名私募董事长逝世](https://www.baidu.com/s?wd=38%E5%B2%81%E7%9F%A5%E5%90%8D%E7%A7%81%E5%8B%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大学生付餐具费吃完饭将餐具带走](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%98%E9%A4%90%E5%85%B7%E8%B4%B9%E5%90%83%E5%AE%8C%E9%A5%AD%E5%B0%86%E9%A4%90%E5%85%B7%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [不粘锅有毒致癌不能用？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%B2%98%E9%94%85%E6%9C%89%E6%AF%92%E8%87%B4%E7%99%8C%E4%B8%8D%E8%83%BD%E7%94%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [为什么觉得假期越休息越累](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A7%89%E5%BE%97%E5%81%87%E6%9C%9F%E8%B6%8A%E4%BC%91%E6%81%AF%E8%B6%8A%E7%B4%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [酸枣仁价格暴涨](https://www.baidu.com/s?wd=%E9%85%B8%E6%9E%A3%E4%BB%81%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄金周来了还有人记得淄博吗](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%91%A8%E6%9D%A5%E4%BA%86%E8%BF%98%E6%9C%89%E4%BA%BA%E8%AE%B0%E5%BE%97%E6%B7%84%E5%8D%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [38岁知名私募董事长逝世](https://www.baidu.com/s?wd=38%E5%B2%81%E7%9F%A5%E5%90%8D%E7%A7%81%E5%8B%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大学生付餐具费吃完饭将餐具带走](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%98%E9%A4%90%E5%85%B7%E8%B4%B9%E5%90%83%E5%AE%8C%E9%A5%AD%E5%B0%86%E9%A4%90%E5%85%B7%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [不粘锅有毒致癌不能用？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%B2%98%E9%94%85%E6%9C%89%E6%AF%92%E8%87%B4%E7%99%8C%E4%B8%8D%E8%83%BD%E7%94%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
