@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 17:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 17:43:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [伊朗男双3比0横扫日本](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%94%B7%E5%8F%8C3%E6%AF%940%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC%23&t=31&band_rank=4&Refer=top)<br />
 5. [梁靖崑林高远止步亚运八强](https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91%E6%9E%97%E9%AB%98%E8%BF%9C%E6%AD%A2%E6%AD%A5%E4%BA%9A%E8%BF%90%E5%85%AB%E5%BC%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [想谈恋爱又不敢走出单身舒适区](https://s.weibo.com/weibo?q=%23%E6%83%B3%E8%B0%88%E6%81%8B%E7%88%B1%E5%8F%88%E4%B8%8D%E6%95%A2%E8%B5%B0%E5%87%BA%E5%8D%95%E8%BA%AB%E8%88%92%E9%80%82%E5%8C%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [胡兵你是懂打码的](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B5%E4%BD%A0%E6%98%AF%E6%87%82%E6%89%93%E7%A0%81%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
-8. [离婚啦单身啦骗骗别人可以](https://s.weibo.com/weibo?q=%23%E7%A6%BB%E5%A9%9A%E5%95%A6%E5%8D%95%E8%BA%AB%E5%95%A6%E9%AA%97%E9%AA%97%E5%88%AB%E4%BA%BA%E5%8F%AF%E4%BB%A5%23&t=31&band_rank=8&Refer=top)<br />
+7. [蜜雪冰城在越南被抗议了](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9C%A8%E8%B6%8A%E5%8D%97%E8%A2%AB%E6%8A%97%E8%AE%AE%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [胡兵你是懂打码的](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B5%E4%BD%A0%E6%98%AF%E6%87%82%E6%89%93%E7%A0%81%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
 9. [原来这才叫休息](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%BF%99%E6%89%8D%E5%8F%AB%E4%BC%91%E6%81%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
