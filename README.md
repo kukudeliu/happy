@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 18:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 18:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [马琳](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%90%B3&t=31&band_rank=6&Refer=top)<br />
 7. [列车进站男童冲向轨道被一把抱回](https://s.weibo.com/weibo?q=%23%E5%88%97%E8%BD%A6%E8%BF%9B%E7%AB%99%E7%94%B7%E7%AB%A5%E5%86%B2%E5%90%91%E8%BD%A8%E9%81%93%E8%A2%AB%E4%B8%80%E6%8A%8A%E6%8A%B1%E5%9B%9E%23&t=31&band_rank=7&Refer=top)<br />
 8. [全红婵陈芋汐双人10米台冠军](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%99%88%E8%8A%8B%E6%B1%90%E5%8F%8C%E4%BA%BA10%E7%B1%B3%E5%8F%B0%E5%86%A0%E5%86%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [大部分人已经见完了此生的最后一面](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E5%B7%B2%E7%BB%8F%E8%A7%81%E5%AE%8C%E4%BA%86%E6%AD%A4%E7%94%9F%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2&t=31&band_rank=9&Refer=top)<br />
+9. [LV老板涉嫌洗钱受到调查](https://s.weibo.com/weibo?q=%23LV%E8%80%81%E6%9D%BF%E6%B6%89%E5%AB%8C%E6%B4%97%E9%92%B1%E5%8F%97%E5%88%B0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
