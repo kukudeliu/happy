@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 10:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 10:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [封神榜纣王饰演者去世](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E6%A6%9C%E7%BA%A3%E7%8E%8B%E9%A5%B0%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&t=31&band_rank=6&Refer=top)<br />
 7. [黄绮珊为跑调道歉](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%BB%AE%E7%8F%8A%E4%B8%BA%E8%B7%91%E8%B0%83%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [三只猫凌晨三点半听我妈打呼噜](https://s.weibo.com/weibo?q=%E4%B8%89%E5%8F%AA%E7%8C%AB%E5%87%8C%E6%99%A8%E4%B8%89%E7%82%B9%E5%8D%8A%E5%90%AC%E6%88%91%E5%A6%88%E6%89%93%E5%91%BC%E5%99%9C&t=31&band_rank=8&Refer=top)<br />
-9. [张小斐张嘉倪到底是在演什么](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E5%BC%A0%E5%98%89%E5%80%AA%E5%88%B0%E5%BA%95%E6%98%AF%E5%9C%A8%E6%BC%94%E4%BB%80%E4%B9%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [女子水果里藏49只昆虫入境被查](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B0%B4%E6%9E%9C%E9%87%8C%E8%97%8F49%E5%8F%AA%E6%98%86%E8%99%AB%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
