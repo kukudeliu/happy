@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 16:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 16:15:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [胡兵你是懂打码的](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B5%E4%BD%A0%E6%98%AF%E6%87%82%E6%89%93%E7%A0%81%E7%9A%84%23&t=31&band_rank=2&Refer=top)<br />
 3. [盛世中华 大美中国](https://s.weibo.com/weibo?q=%23%E7%9B%9B%E4%B8%96%E4%B8%AD%E5%8D%8E%20%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [梁靖崑林高远止步亚运八强](https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91%E6%9E%97%E9%AB%98%E8%BF%9C%E6%AD%A2%E6%AD%A5%E4%BA%9A%E8%BF%90%E5%85%AB%E5%BC%BA%23&t=31&band_rank=4&Refer=top)<br />
-5. [为什么前任4是系列最佳](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%89%8D%E4%BB%BB4%E6%98%AF%E7%B3%BB%E5%88%97%E6%9C%80%E4%BD%B3%23&t=31&band_rank=5&Refer=top)<br />
-6. [大部分人已经见完了此生的最后一面](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E5%B7%B2%E7%BB%8F%E8%A7%81%E5%AE%8C%E4%BA%86%E6%AD%A4%E7%94%9F%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2&t=31&band_rank=6&Refer=top)<br />
+5. [大部分人已经见完了此生的最后一面](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E5%B7%B2%E7%BB%8F%E8%A7%81%E5%AE%8C%E4%BA%86%E6%AD%A4%E7%94%9F%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2&t=31&band_rank=5&Refer=top)<br />
+6. [为什么前任4是系列最佳](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%89%8D%E4%BB%BB4%E6%98%AF%E7%B3%BB%E5%88%97%E6%9C%80%E4%BD%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [亲戚都以为樊振东是我男朋友](https://s.weibo.com/weibo?q=%23%E4%BA%B2%E6%88%9A%E9%83%BD%E4%BB%A5%E4%B8%BA%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%98%AF%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [和平项目中国队晋级总决赛](https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%B9%B3%E9%A1%B9%E7%9B%AE%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%99%8B%E7%BA%A7%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘亦菲对于拍吻戏的回应真的清醒通透](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E5%AF%B9%E4%BA%8E%E6%8B%8D%E5%90%BB%E6%88%8F%E7%9A%84%E5%9B%9E%E5%BA%94%E7%9C%9F%E7%9A%84%E6%B8%85%E9%86%92%E9%80%9A%E9%80%8F&t=31&band_rank=9&Refer=top)<br />
+9. [坚如磐石](https://s.weibo.com/weibo?q=%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
