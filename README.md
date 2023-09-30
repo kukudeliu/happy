@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 05:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 05:09:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [谢震业百米冠军](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E7%99%BE%E7%B1%B3%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [淄博八大局又挤到水泄不通了](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%85%AB%E5%A4%A7%E5%B1%80%E5%8F%88%E6%8C%A4%E5%88%B0%E6%B0%B4%E6%B3%84%E4%B8%8D%E9%80%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [堵车都堵到天路了](https://www.baidu.com/s?wd=%E5%A0%B5%E8%BD%A6%E9%83%BD%E5%A0%B5%E5%88%B0%E5%A4%A9%E8%B7%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全红婵贴墙逃采访](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B4%B4%E5%A2%99%E9%80%83%E9%87%87%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大学生付餐具费吃完饭将餐具带走](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%98%E9%A4%90%E5%85%B7%E8%B4%B9%E5%90%83%E5%AE%8C%E9%A5%AD%E5%B0%86%E9%A4%90%E5%85%B7%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [不粘锅有毒致癌不能用？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%B2%98%E9%94%85%E6%9C%89%E6%AF%92%E8%87%B4%E7%99%8C%E4%B8%8D%E8%83%BD%E7%94%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [谢震业百米冠军](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E7%99%BE%E7%B1%B3%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [淄博八大局又挤到水泄不通了](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%85%AB%E5%A4%A7%E5%B1%80%E5%8F%88%E6%8C%A4%E5%88%B0%E6%B0%B4%E6%B3%84%E4%B8%8D%E9%80%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [堵车都堵到天路了](https://www.baidu.com/s?wd=%E5%A0%B5%E8%BD%A6%E9%83%BD%E5%A0%B5%E5%88%B0%E5%A4%A9%E8%B7%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全红婵贴墙逃采访](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B4%B4%E5%A2%99%E9%80%83%E9%87%87%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大学生付餐具费吃完饭将餐具带走](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%98%E9%A4%90%E5%85%B7%E8%B4%B9%E5%90%83%E5%AE%8C%E9%A5%AD%E5%B0%86%E9%A4%90%E5%85%B7%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [不粘锅有毒致癌不能用？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%B2%98%E9%94%85%E6%9C%89%E6%AF%92%E8%87%B4%E7%99%8C%E4%B8%8D%E8%83%BD%E7%94%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
