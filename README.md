@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 10:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 10:54:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [周放居然是还珠格格的柳红](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%94%BE%E5%B1%85%E7%84%B6%E6%98%AF%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC%E7%9A%84%E6%9F%B3%E7%BA%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [原来这才叫休息](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%BF%99%E6%89%8D%E5%8F%AB%E4%BC%91%E6%81%AF&t=31&band_rank=6&Refer=top)<br />
 7. [吴艳妮12秒80晋级决赛](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE12%E7%A7%9280%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23&t=31&band_rank=7&Refer=top)<br />
-8. [封神榜纣王饰演者去世](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E6%A6%9C%E7%BA%A3%E7%8E%8B%E9%A5%B0%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&t=31&band_rank=8&Refer=top)<br />
-9. [小长假不得连炫八天甄嬛传](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%95%BF%E5%81%87%E4%B8%8D%E5%BE%97%E8%BF%9E%E7%82%AB%E5%85%AB%E5%A4%A9%E7%94%84%E5%AC%9B%E4%BC%A0%23&t=31&band_rank=9&Refer=top)<br />
+8. [小长假不得连炫八天甄嬛传](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%95%BF%E5%81%87%E4%B8%8D%E5%BE%97%E8%BF%9E%E7%82%AB%E5%85%AB%E5%A4%A9%E7%94%84%E5%AC%9B%E4%BC%A0%23&t=31&band_rank=8&Refer=top)<br />
+9. [封神榜纣王饰演者去世](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E6%A6%9C%E7%BA%A3%E7%8E%8B%E9%A5%B0%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
