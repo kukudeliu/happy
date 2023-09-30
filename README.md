@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 23:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 23:24:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [堵车时第一辆在干啥](https://www.baidu.com/s?wd=%E5%A0%B5%E8%BD%A6%E6%97%B6%E7%AC%AC%E4%B8%80%E8%BE%86%E5%9C%A8%E5%B9%B2%E5%95%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这些科技让亚运更“智能”](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E7%A7%91%E6%8A%80%E8%AE%A9%E4%BA%9A%E8%BF%90%E6%9B%B4%E2%80%9C%E6%99%BA%E8%83%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [谢震业百米冠军](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E7%99%BE%E7%B1%B3%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [黄绮珊为跑调道歉](https://www.baidu.com/s?wd=%E9%BB%84%E7%BB%AE%E7%8F%8A%E4%B8%BA%E8%B7%91%E8%B0%83%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [张译 坚如磐石令我拍案叫绝](https://www.baidu.com/s?wd=%E5%BC%A0%E8%AF%91+%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%E4%BB%A4%E6%88%91%E6%8B%8D%E6%A1%88%E5%8F%AB%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [堵车都堵到天路了](https://www.baidu.com/s?wd=%E5%A0%B5%E8%BD%A6%E9%83%BD%E5%A0%B5%E5%88%B0%E5%A4%A9%E8%B7%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [为什么觉得假期越休息越累](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A7%89%E5%BE%97%E5%81%87%E6%9C%9F%E8%B6%8A%E4%BC%91%E6%81%AF%E8%B6%8A%E7%B4%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国组合单手插兜再入1金](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%84%E5%90%88%E5%8D%95%E6%89%8B%E6%8F%92%E5%85%9C%E5%86%8D%E5%85%A51%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张译 坚如磐石令我拍案叫绝](https://www.baidu.com/s?wd=%E5%BC%A0%E8%AF%91+%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%E4%BB%A4%E6%88%91%E6%8B%8D%E6%A1%88%E5%8F%AB%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高铁因超员报警无法发车系假消息](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%9B%A0%E8%B6%85%E5%91%98%E6%8A%A5%E8%AD%A6%E6%97%A0%E6%B3%95%E5%8F%91%E8%BD%A6%E7%B3%BB%E5%81%87%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [堵车时第一辆在干啥](https://www.baidu.com/s?wd=%E5%A0%B5%E8%BD%A6%E6%97%B6%E7%AC%AC%E4%B8%80%E8%BE%86%E5%9C%A8%E5%B9%B2%E5%95%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这些科技让亚运更“智能”](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E7%A7%91%E6%8A%80%E8%AE%A9%E4%BA%9A%E8%BF%90%E6%9B%B4%E2%80%9C%E6%99%BA%E8%83%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [谢震业百米冠军](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E7%99%BE%E7%B1%B3%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [黄绮珊为跑调道歉](https://www.baidu.com/s?wd=%E9%BB%84%E7%BB%AE%E7%8F%8A%E4%B8%BA%E8%B7%91%E8%B0%83%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [张译 坚如磐石令我拍案叫绝](https://www.baidu.com/s?wd=%E5%BC%A0%E8%AF%91+%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%E4%BB%A4%E6%88%91%E6%8B%8D%E6%A1%88%E5%8F%AB%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [堵车都堵到天路了](https://www.baidu.com/s?wd=%E5%A0%B5%E8%BD%A6%E9%83%BD%E5%A0%B5%E5%88%B0%E5%A4%A9%E8%B7%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [为什么觉得假期越休息越累](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A7%89%E5%BE%97%E5%81%87%E6%9C%9F%E8%B6%8A%E4%BC%91%E6%81%AF%E8%B6%8A%E7%B4%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国组合单手插兜再入1金](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%84%E5%90%88%E5%8D%95%E6%89%8B%E6%8F%92%E5%85%9C%E5%86%8D%E5%85%A51%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张译 坚如磐石令我拍案叫绝](https://www.baidu.com/s?wd=%E5%BC%A0%E8%AF%91+%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%E4%BB%A4%E6%88%91%E6%8B%8D%E6%A1%88%E5%8F%AB%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高铁因超员报警无法发车系假消息](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%9B%A0%E8%B6%85%E5%91%98%E6%8A%A5%E8%AD%A6%E6%97%A0%E6%B3%95%E5%8F%91%E8%BD%A6%E7%B3%BB%E5%81%87%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
