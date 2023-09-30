@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 14:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 14:30:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [高铁因超员触发警报无法发车](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%9B%A0%E8%B6%85%E5%91%98%E8%A7%A6%E5%8F%91%E8%AD%A6%E6%8A%A5%E6%97%A0%E6%B3%95%E5%8F%91%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [38岁知名私募董事长逝世](https://www.baidu.com/s?wd=38%E5%B2%81%E7%9F%A5%E5%90%8D%E7%A7%81%E5%8B%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小狗返乡途中晕车还被猫打了一巴掌](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8B%97%E8%BF%94%E4%B9%A1%E9%80%94%E4%B8%AD%E6%99%95%E8%BD%A6%E8%BF%98%E8%A2%AB%E7%8C%AB%E6%89%93%E4%BA%86%E4%B8%80%E5%B7%B4%E6%8E%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [堵车路上有人遛娃有人遛狗](https://www.baidu.com/s?wd=%E5%A0%B5%E8%BD%A6%E8%B7%AF%E4%B8%8A%E6%9C%89%E4%BA%BA%E9%81%9B%E5%A8%83%E6%9C%89%E4%BA%BA%E9%81%9B%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [纽约因极端降雨天气进入紧急状态](https://www.baidu.com/s?wd=%E7%BA%BD%E7%BA%A6%E5%9B%A0%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8%E5%A4%A9%E6%B0%94%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [南宁地铁辟谣夜间免费乘车](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E5%9C%B0%E9%93%81%E8%BE%9F%E8%B0%A3%E5%A4%9C%E9%97%B4%E5%85%8D%E8%B4%B9%E4%B9%98%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [高铁因超员触发警报无法发车](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%9B%A0%E8%B6%85%E5%91%98%E8%A7%A6%E5%8F%91%E8%AD%A6%E6%8A%A5%E6%97%A0%E6%B3%95%E5%8F%91%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [38岁知名私募董事长逝世](https://www.baidu.com/s?wd=38%E5%B2%81%E7%9F%A5%E5%90%8D%E7%A7%81%E5%8B%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小狗返乡途中晕车还被猫打了一巴掌](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8B%97%E8%BF%94%E4%B9%A1%E9%80%94%E4%B8%AD%E6%99%95%E8%BD%A6%E8%BF%98%E8%A2%AB%E7%8C%AB%E6%89%93%E4%BA%86%E4%B8%80%E5%B7%B4%E6%8E%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [堵车路上有人遛娃有人遛狗](https://www.baidu.com/s?wd=%E5%A0%B5%E8%BD%A6%E8%B7%AF%E4%B8%8A%E6%9C%89%E4%BA%BA%E9%81%9B%E5%A8%83%E6%9C%89%E4%BA%BA%E9%81%9B%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [纽约因极端降雨天气进入紧急状态](https://www.baidu.com/s?wd=%E7%BA%BD%E7%BA%A6%E5%9B%A0%E6%9E%81%E7%AB%AF%E9%99%8D%E9%9B%A8%E5%A4%A9%E6%B0%94%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [南宁地铁辟谣夜间免费乘车](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E5%9C%B0%E9%93%81%E8%BE%9F%E8%B0%A3%E5%A4%9C%E9%97%B4%E5%85%8D%E8%B4%B9%E4%B9%98%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
