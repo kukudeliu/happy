@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 11:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 11:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [你好星期六全员笑脸送国庆祝福](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E5%85%A8%E5%91%98%E7%AC%91%E8%84%B8%E9%80%81%E5%9B%BD%E5%BA%86%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子买票被抢票软件提示多买12站](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%A5%A8%E8%A2%AB%E6%8A%A2%E7%A5%A8%E8%BD%AF%E4%BB%B6%E6%8F%90%E7%A4%BA%E5%A4%9A%E4%B9%B012%E7%AB%99%23&t=31&band_rank=7&Refer=top)<br />
 8. [大学生付餐具费吃完饭将餐具全带走](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%98%E9%A4%90%E5%85%B7%E8%B4%B9%E5%90%83%E5%AE%8C%E9%A5%AD%E5%B0%86%E9%A4%90%E5%85%B7%E5%85%A8%E5%B8%A6%E8%B5%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [废文](https://s.weibo.com/weibo?q=%E5%BA%9F%E6%96%87&t=31&band_rank=9&Refer=top)<br />
+9. [封神榜纣王饰演者去世](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E6%A6%9C%E7%BA%A3%E7%8E%8B%E9%A5%B0%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [月满中秋 情满亚运](https://www.baidu.com/s?wd=%E6%9C%88%E6%BB%A1%E4%B8%AD%E7%A7%8B+%E6%83%85%E6%BB%A1%E4%BA%9A%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高铁因超员触发警报无法发车](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%9B%A0%E8%B6%85%E5%91%98%E8%A7%A6%E5%8F%91%E8%AD%A6%E6%8A%A5%E6%97%A0%E6%B3%95%E5%8F%91%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大学生付餐具费吃完饭将餐具带走](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%98%E9%A4%90%E5%85%B7%E8%B4%B9%E5%90%83%E5%AE%8C%E9%A5%AD%E5%B0%86%E9%A4%90%E5%85%B7%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [月饼怎么“吃”才健康？专家释疑](https://www.baidu.com/s?wd=%E6%9C%88%E9%A5%BC%E6%80%8E%E4%B9%88%E2%80%9C%E5%90%83%E2%80%9D%E6%89%8D%E5%81%A5%E5%BA%B7%EF%BC%9F%E4%B8%93%E5%AE%B6%E9%87%8A%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [iPhone16系列机型尺寸曝光](https://www.baidu.com/s?wd=iPhone16%E7%B3%BB%E5%88%97%E6%9C%BA%E5%9E%8B%E5%B0%BA%E5%AF%B8%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [黄金周来了还有人记得淄博吗](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%91%A8%E6%9D%A5%E4%BA%86%E8%BF%98%E6%9C%89%E4%BA%BA%E8%AE%B0%E5%BE%97%E6%B7%84%E5%8D%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [月饼怎么“吃”才健康？专家释疑](https://www.baidu.com/s?wd=%E6%9C%88%E9%A5%BC%E6%80%8E%E4%B9%88%E2%80%9C%E5%90%83%E2%80%9D%E6%89%8D%E5%81%A5%E5%BA%B7%EF%BC%9F%E4%B8%93%E5%AE%B6%E9%87%8A%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [南宁地铁辟谣夜间免费乘车](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E5%9C%B0%E9%93%81%E8%BE%9F%E8%B0%A3%E5%A4%9C%E9%97%B4%E5%85%8D%E8%B4%B9%E4%B9%98%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [月满中秋 情满亚运](https://www.baidu.com/s?wd=%E6%9C%88%E6%BB%A1%E4%B8%AD%E7%A7%8B+%E6%83%85%E6%BB%A1%E4%BA%9A%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高铁因超员触发警报无法发车](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%9B%A0%E8%B6%85%E5%91%98%E8%A7%A6%E5%8F%91%E8%AD%A6%E6%8A%A5%E6%97%A0%E6%B3%95%E5%8F%91%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大学生付餐具费吃完饭将餐具带走](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%98%E9%A4%90%E5%85%B7%E8%B4%B9%E5%90%83%E5%AE%8C%E9%A5%AD%E5%B0%86%E9%A4%90%E5%85%B7%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [月饼怎么“吃”才健康？专家释疑](https://www.baidu.com/s?wd=%E6%9C%88%E9%A5%BC%E6%80%8E%E4%B9%88%E2%80%9C%E5%90%83%E2%80%9D%E6%89%8D%E5%81%A5%E5%BA%B7%EF%BC%9F%E4%B8%93%E5%AE%B6%E9%87%8A%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [iPhone16系列机型尺寸曝光](https://www.baidu.com/s?wd=iPhone16%E7%B3%BB%E5%88%97%E6%9C%BA%E5%9E%8B%E5%B0%BA%E5%AF%B8%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [黄金周来了还有人记得淄博吗](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%91%A8%E6%9D%A5%E4%BA%86%E8%BF%98%E6%9C%89%E4%BA%BA%E8%AE%B0%E5%BE%97%E6%B7%84%E5%8D%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [月饼怎么“吃”才健康？专家释疑](https://www.baidu.com/s?wd=%E6%9C%88%E9%A5%BC%E6%80%8E%E4%B9%88%E2%80%9C%E5%90%83%E2%80%9D%E6%89%8D%E5%81%A5%E5%BA%B7%EF%BC%9F%E4%B8%93%E5%AE%B6%E9%87%8A%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [南宁地铁辟谣夜间免费乘车](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E5%9C%B0%E9%93%81%E8%BE%9F%E8%B0%A3%E5%A4%9C%E9%97%B4%E5%85%8D%E8%B4%B9%E4%B9%98%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
