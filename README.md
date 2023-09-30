@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 02:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 02:29:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [这些科技让亚运更“智能”](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E7%A7%91%E6%8A%80%E8%AE%A9%E4%BA%9A%E8%BF%90%E6%9B%B4%E2%80%9C%E6%99%BA%E8%83%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [谢震业百米冠军](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E7%99%BE%E7%B1%B3%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [全红婵回应包上挂满小乌龟](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%9B%9E%E5%BA%94%E5%8C%85%E4%B8%8A%E6%8C%82%E6%BB%A1%E5%B0%8F%E4%B9%8C%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [列车进站男童冲向轨道被一把抱回](https://www.baidu.com/s?wd=%E5%88%97%E8%BD%A6%E8%BF%9B%E7%AB%99%E7%94%B7%E7%AB%A5%E5%86%B2%E5%90%91%E8%BD%A8%E9%81%93%E8%A2%AB%E4%B8%80%E6%8A%8A%E6%8A%B1%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乌克兰公民可免签证出入俄罗斯](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%85%AC%E6%B0%91%E5%8F%AF%E5%85%8D%E7%AD%BE%E8%AF%81%E5%87%BA%E5%85%A5%E4%BF%84%E7%BD%97%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国队电竞第二金诞生](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%94%B5%E7%AB%9E%E7%AC%AC%E4%BA%8C%E9%87%91%E8%AF%9E%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [不粘锅有毒致癌不能用？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%B2%98%E9%94%85%E6%9C%89%E6%AF%92%E8%87%B4%E7%99%8C%E4%B8%8D%E8%83%BD%E7%94%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [这些科技让亚运更“智能”](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E7%A7%91%E6%8A%80%E8%AE%A9%E4%BA%9A%E8%BF%90%E6%9B%B4%E2%80%9C%E6%99%BA%E8%83%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [谢震业百米冠军](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E7%99%BE%E7%B1%B3%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [全红婵回应包上挂满小乌龟](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%9B%9E%E5%BA%94%E5%8C%85%E4%B8%8A%E6%8C%82%E6%BB%A1%E5%B0%8F%E4%B9%8C%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [列车进站男童冲向轨道被一把抱回](https://www.baidu.com/s?wd=%E5%88%97%E8%BD%A6%E8%BF%9B%E7%AB%99%E7%94%B7%E7%AB%A5%E5%86%B2%E5%90%91%E8%BD%A8%E9%81%93%E8%A2%AB%E4%B8%80%E6%8A%8A%E6%8A%B1%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乌克兰公民可免签证出入俄罗斯](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%85%AC%E6%B0%91%E5%8F%AF%E5%85%8D%E7%AD%BE%E8%AF%81%E5%87%BA%E5%85%A5%E4%BF%84%E7%BD%97%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国队电竞第二金诞生](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%94%B5%E7%AB%9E%E7%AC%AC%E4%BA%8C%E9%87%91%E8%AF%9E%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [不粘锅有毒致癌不能用？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%B2%98%E9%94%85%E6%9C%89%E6%AF%92%E8%87%B4%E7%99%8C%E4%B8%8D%E8%83%BD%E7%94%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
