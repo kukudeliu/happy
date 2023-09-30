@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 13:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 13:51:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [刘亦菲对于拍吻戏的回应真的清醒通透](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E5%AF%B9%E4%BA%8E%E6%8B%8D%E5%90%BB%E6%88%8F%E7%9A%84%E5%9B%9E%E5%BA%94%E7%9C%9F%E7%9A%84%E6%B8%85%E9%86%92%E9%80%9A%E9%80%8F&t=31&band_rank=4&Refer=top)<br />
 5. [12306回应乘客补票被赶下车](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E4%B9%98%E5%AE%A2%E8%A1%A5%E7%A5%A8%E8%A2%AB%E8%B5%B6%E4%B8%8B%E8%BD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [Joker杀疯了](https://s.weibo.com/weibo?q=%23Joker%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [志愿军 不像陈凯歌拍的](https://s.weibo.com/weibo?q=%E5%BF%97%E6%84%BF%E5%86%9B%20%E4%B8%8D%E5%83%8F%E9%99%88%E5%87%AF%E6%AD%8C%E6%8B%8D%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
-8. [杨紫前往巴黎时装周](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%89%8D%E5%BE%80%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [乒乓球](https://s.weibo.com/weibo?q=%E4%B9%92%E4%B9%93%E7%90%83&t=31&band_rank=9&Refer=top)<br />
+7. [杨紫前往巴黎时装周](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%89%8D%E5%BE%80%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23&t=31&band_rank=7&Refer=top)<br />
+8. [周放居然是还珠格格的柳红](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%94%BE%E5%B1%85%E7%84%B6%E6%98%AF%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC%E7%9A%84%E6%9F%B3%E7%BA%A2%23&t=31&band_rank=8&Refer=top)<br />
+9. [志愿军 不像陈凯歌拍的](https://s.weibo.com/weibo?q=%E5%BF%97%E6%84%BF%E5%86%9B%20%E4%B8%8D%E5%83%8F%E9%99%88%E5%87%AF%E6%AD%8C%E6%8B%8D%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
