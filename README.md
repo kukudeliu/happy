@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 21:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 21:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [LV老板涉嫌洗钱受到调查](https://s.weibo.com/weibo?q=%23LV%E8%80%81%E6%9D%BF%E6%B6%89%E5%AB%8C%E6%B4%97%E9%92%B1%E5%8F%97%E5%88%B0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [张小斐演妈是妈演姐是姐](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%E6%BC%94%E5%A6%88%E6%98%AF%E5%A6%88%E6%BC%94%E5%A7%90%E6%98%AF%E5%A7%90&t=31&band_rank=7&Refer=top)<br />
 8. [国乒无缘女双4强](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E6%97%A0%E7%BC%98%E5%A5%B3%E5%8F%8C4%E5%BC%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [孙颖莎收到3个pin](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%94%B6%E5%88%B03%E4%B8%AApin%23&t=31&band_rank=9&Refer=top)<br />
+9. [张译 坚如磐石令我拍案叫绝](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%AF%91%20%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%E4%BB%A4%E6%88%91%E6%8B%8D%E6%A1%88%E5%8F%AB%E7%BB%9D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
