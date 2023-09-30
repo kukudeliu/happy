@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 15:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 15:55:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [50000能改变你的生活吗](https://s.weibo.com/weibo?q=%2350000%E8%83%BD%E6%94%B9%E5%8F%98%E4%BD%A0%E7%9A%84%E7%94%9F%E6%B4%BB%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [梁靖崑林高远止步亚运八强](https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91%E6%9E%97%E9%AB%98%E8%BF%9C%E6%AD%A2%E6%AD%A5%E4%BA%9A%E8%BF%90%E5%85%AB%E5%BC%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [亲戚都以为樊振东是我男朋友](https://s.weibo.com/weibo?q=%23%E4%BA%B2%E6%88%9A%E9%83%BD%E4%BB%A5%E4%B8%BA%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%98%AF%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [刘亦菲对于拍吻戏的回应真的清醒通透](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E5%AF%B9%E4%BA%8E%E6%8B%8D%E5%90%BB%E6%88%8F%E7%9A%84%E5%9B%9E%E5%BA%94%E7%9C%9F%E7%9A%84%E6%B8%85%E9%86%92%E9%80%9A%E9%80%8F&t=31&band_rank=7&Refer=top)<br />
-8. [为什么前任4是系列最佳](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%89%8D%E4%BB%BB4%E6%98%AF%E7%B3%BB%E5%88%97%E6%9C%80%E4%BD%B3%23&t=31&band_rank=8&Refer=top)<br />
+7. [为什么前任4是系列最佳](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%89%8D%E4%BB%BB4%E6%98%AF%E7%B3%BB%E5%88%97%E6%9C%80%E4%BD%B3%23&t=31&band_rank=7&Refer=top)<br />
+8. [刘亦菲对于拍吻戏的回应真的清醒通透](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E5%AF%B9%E4%BA%8E%E6%8B%8D%E5%90%BB%E6%88%8F%E7%9A%84%E5%9B%9E%E5%BA%94%E7%9C%9F%E7%9A%84%E6%B8%85%E9%86%92%E9%80%9A%E9%80%8F&t=31&band_rank=8&Refer=top)<br />
 9. [Joker杀疯了](https://s.weibo.com/weibo?q=%23Joker%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
