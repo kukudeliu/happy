@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 13:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 13:15:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [檀健次央视秋晚封神版本](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E5%A4%AE%E8%A7%86%E7%A7%8B%E6%99%9A%E5%B0%81%E7%A5%9E%E7%89%88%E6%9C%AC&t=31&band_rank=5&Refer=top)<br />
 6. [周放居然是还珠格格的柳红](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%94%BE%E5%B1%85%E7%84%B6%E6%98%AF%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC%E7%9A%84%E6%9F%B3%E7%BA%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩庚我老婆喜欢你十年了](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%BA%9A%E6%88%91%E8%80%81%E5%A9%86%E5%96%9C%E6%AC%A2%E4%BD%A0%E5%8D%81%E5%B9%B4%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [长期吃西红柿真的能变白吗](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%90%83%E8%A5%BF%E7%BA%A2%E6%9F%BF%E7%9C%9F%E7%9A%84%E8%83%BD%E5%8F%98%E7%99%BD%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [大学生付餐具费吃完饭将餐具全带走](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%98%E9%A4%90%E5%85%B7%E8%B4%B9%E5%90%83%E5%AE%8C%E9%A5%AD%E5%B0%86%E9%A4%90%E5%85%B7%E5%85%A8%E5%B8%A6%E8%B5%B0%23&t=31&band_rank=9&Refer=top)<br />
+8. [12306回应乘客补票被赶下车](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E4%B9%98%E5%AE%A2%E8%A1%A5%E7%A5%A8%E8%A2%AB%E8%B5%B6%E4%B8%8B%E8%BD%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [长期吃西红柿真的能变白吗](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%90%83%E8%A5%BF%E7%BA%A2%E6%9F%BF%E7%9C%9F%E7%9A%84%E8%83%BD%E5%8F%98%E7%99%BD%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
