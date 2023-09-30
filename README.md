@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 13:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 13:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [Joker杀疯了](https://s.weibo.com/weibo?q=%23Joker%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [12306回应乘客补票被赶下车](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E4%B9%98%E5%AE%A2%E8%A1%A5%E7%A5%A8%E8%A2%AB%E8%B5%B6%E4%B8%8B%E8%BD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [乒乓球](https://s.weibo.com/weibo?q=%E4%B9%92%E4%B9%93%E7%90%83&t=31&band_rank=7&Refer=top)<br />
-8. [周放居然是还珠格格的柳红](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%94%BE%E5%B1%85%E7%84%B6%E6%98%AF%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC%E7%9A%84%E6%9F%B3%E7%BA%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫前往巴黎时装周](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%89%8D%E5%BE%80%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23&t=31&band_rank=9&Refer=top)<br />
+8. [杨紫前往巴黎时装周](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%89%8D%E5%BE%80%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [周放居然是还珠格格的柳红](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%94%BE%E5%B1%85%E7%84%B6%E6%98%AF%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC%E7%9A%84%E6%9F%B3%E7%BA%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
