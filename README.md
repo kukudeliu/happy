@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 04:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 04:38:01</h4></div>
 
 > 微博  
 
 1. [韩国地铁凌晨五点坐满了人](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%9C%B0%E9%93%81%E5%87%8C%E6%99%A8%E4%BA%94%E7%82%B9%E5%9D%90%E6%BB%A1%E4%BA%86%E4%BA%BA%23&t=31&band_rank=1&Refer=top)<br />
 2. [LV老板涉嫌洗钱受到调查](https://s.weibo.com/weibo?q=%23LV%E8%80%81%E6%9D%BF%E6%B6%89%E5%AB%8C%E6%B4%97%E9%92%B1%E5%8F%97%E5%88%B0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=2&Refer=top)<br />
 3. [盛世中华 大美中国](https://s.weibo.com/weibo?q=%23%E7%9B%9B%E4%B8%96%E4%B8%AD%E5%8D%8E%20%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
-4. [腾讯今年三部破万剧集](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E4%BB%8A%E5%B9%B4%E4%B8%89%E9%83%A8%E7%A0%B4%E4%B8%87%E5%89%A7%E9%9B%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [易烊千玺也去看了坚如磐石](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%B9%9F%E5%8E%BB%E7%9C%8B%E4%BA%86%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%23&t=31&band_rank=5&Refer=top)<br />
+4. [易烊千玺也去看了坚如磐石](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%B9%9F%E5%8E%BB%E7%9C%8B%E4%BA%86%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%23&t=31&band_rank=4&Refer=top)<br />
+5. [腾讯今年三部破万剧集](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E4%BB%8A%E5%B9%B4%E4%B8%89%E9%83%A8%E7%A0%B4%E4%B8%87%E5%89%A7%E9%9B%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [王楚钦孙颖莎混双夺冠](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E6%B7%B7%E5%8F%8C%E5%A4%BA%E5%86%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [苏炳添哭了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%93%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [喜报林双离婚了](https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%8A%A5%E6%9E%97%E5%8F%8C%E7%A6%BB%E5%A9%9A%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
