@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 14:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 14:43:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [50000能改变你的生活吗](https://s.weibo.com/weibo?q=%2350000%E8%83%BD%E6%94%B9%E5%8F%98%E4%BD%A0%E7%9A%84%E7%94%9F%E6%B4%BB%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [Joker杀疯了](https://s.weibo.com/weibo?q=%23Joker%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [亲戚都以为樊振东是我男朋友](https://s.weibo.com/weibo?q=%23%E4%BA%B2%E6%88%9A%E9%83%BD%E4%BB%A5%E4%B8%BA%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%98%AF%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [12306回应乘客补票被赶下车](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E4%B9%98%E5%AE%A2%E8%A1%A5%E7%A5%A8%E8%A2%AB%E8%B5%B6%E4%B8%8B%E8%BD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [周放居然是还珠格格的柳红](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%94%BE%E5%B1%85%E7%84%B6%E6%98%AF%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC%E7%9A%84%E6%9F%B3%E7%BA%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [檀健次央视秋晚封神版本](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E5%A4%AE%E8%A7%86%E7%A7%8B%E6%99%9A%E5%B0%81%E7%A5%9E%E7%89%88%E6%9C%AC&t=31&band_rank=9&Refer=top)<br />
+7. [高铁因超员触发警报无法发车](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%9B%A0%E8%B6%85%E5%91%98%E8%A7%A6%E5%8F%91%E8%AD%A6%E6%8A%A5%E6%97%A0%E6%B3%95%E5%8F%91%E8%BD%A6%23&t=31&band_rank=7&Refer=top)<br />
+8. [12306回应乘客补票被赶下车](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E4%B9%98%E5%AE%A2%E8%A1%A5%E7%A5%A8%E8%A2%AB%E8%B5%B6%E4%B8%8B%E8%BD%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [周放居然是还珠格格的柳红](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%94%BE%E5%B1%85%E7%84%B6%E6%98%AF%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC%E7%9A%84%E6%9F%B3%E7%BA%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
