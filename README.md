@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 05:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 05:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [腾讯今年三部破万剧集](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E4%BB%8A%E5%B9%B4%E4%B8%89%E9%83%A8%E7%A0%B4%E4%B8%87%E5%89%A7%E9%9B%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [苏炳添哭了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%93%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [国乒无缘女双4强](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E6%97%A0%E7%BC%98%E5%A5%B3%E5%8F%8C4%E5%BC%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [喜报林双离婚了](https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%8A%A5%E6%9E%97%E5%8F%8C%E7%A6%BB%E5%A9%9A%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [奥尼尔在球衣上签了科比的名字](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B0%BC%E5%B0%94%E5%9C%A8%E7%90%83%E8%A1%A3%E4%B8%8A%E7%AD%BE%E4%BA%86%E7%A7%91%E6%AF%94%E7%9A%84%E5%90%8D%E5%AD%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
