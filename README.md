@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 03:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 03:32:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [这些科技让亚运更“智能”](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E7%A7%91%E6%8A%80%E8%AE%A9%E4%BA%9A%E8%BF%90%E6%9B%B4%E2%80%9C%E6%99%BA%E8%83%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [谢震业百米冠军](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E7%99%BE%E7%B1%B3%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [堵车都堵到天路了](https://www.baidu.com/s?wd=%E5%A0%B5%E8%BD%A6%E9%83%BD%E5%A0%B5%E5%88%B0%E5%A4%A9%E8%B7%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [国庆机票价格为何突然跳水](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [今年出国游 新中产恨不得掏空积蓄](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%87%BA%E5%9B%BD%E6%B8%B8+%E6%96%B0%E4%B8%AD%E4%BA%A7%E6%81%A8%E4%B8%8D%E5%BE%97%E6%8E%8F%E7%A9%BA%E7%A7%AF%E8%93%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大学生付餐具费吃完饭将餐具带走](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%98%E9%A4%90%E5%85%B7%E8%B4%B9%E5%90%83%E5%AE%8C%E9%A5%AD%E5%B0%86%E9%A4%90%E5%85%B7%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国庆机票价格为何突然跳水](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [不粘锅有毒致癌不能用？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%B2%98%E9%94%85%E6%9C%89%E6%AF%92%E8%87%B4%E7%99%8C%E4%B8%8D%E8%83%BD%E7%94%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [这些科技让亚运更“智能”](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E7%A7%91%E6%8A%80%E8%AE%A9%E4%BA%9A%E8%BF%90%E6%9B%B4%E2%80%9C%E6%99%BA%E8%83%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [谢震业百米冠军](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E7%99%BE%E7%B1%B3%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [堵车都堵到天路了](https://www.baidu.com/s?wd=%E5%A0%B5%E8%BD%A6%E9%83%BD%E5%A0%B5%E5%88%B0%E5%A4%A9%E8%B7%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [国庆机票价格为何突然跳水](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [今年出国游 新中产恨不得掏空积蓄](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%87%BA%E5%9B%BD%E6%B8%B8+%E6%96%B0%E4%B8%AD%E4%BA%A7%E6%81%A8%E4%B8%8D%E5%BE%97%E6%8E%8F%E7%A9%BA%E7%A7%AF%E8%93%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大学生付餐具费吃完饭将餐具带走](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%98%E9%A4%90%E5%85%B7%E8%B4%B9%E5%90%83%E5%AE%8C%E9%A5%AD%E5%B0%86%E9%A4%90%E5%85%B7%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国庆机票价格为何突然跳水](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [不粘锅有毒致癌不能用？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%B2%98%E9%94%85%E6%9C%89%E6%AF%92%E8%87%B4%E7%99%8C%E4%B8%8D%E8%83%BD%E7%94%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
