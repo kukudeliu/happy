@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 05:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 05:49:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [谢震业百米冠军](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E7%99%BE%E7%B1%B3%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [到处都是人从众](https://www.baidu.com/s?wd=%E5%88%B0%E5%A4%84%E9%83%BD%E6%98%AF%E4%BA%BA%E4%BB%8E%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [淄博八大局又挤到水泄不通了](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%85%AB%E5%A4%A7%E5%B1%80%E5%8F%88%E6%8C%A4%E5%88%B0%E6%B0%B4%E6%B3%84%E4%B8%8D%E9%80%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [酸枣仁价格暴涨](https://www.baidu.com/s?wd=%E9%85%B8%E6%9E%A3%E4%BB%81%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国庆机票价格为何突然跳水](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [不粘锅有毒致癌不能用？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%B2%98%E9%94%85%E6%9C%89%E6%AF%92%E8%87%B4%E7%99%8C%E4%B8%8D%E8%83%BD%E7%94%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [谢震业百米冠军](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E7%99%BE%E7%B1%B3%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [到处都是人从众](https://www.baidu.com/s?wd=%E5%88%B0%E5%A4%84%E9%83%BD%E6%98%AF%E4%BA%BA%E4%BB%8E%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [淄博八大局又挤到水泄不通了](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%85%AB%E5%A4%A7%E5%B1%80%E5%8F%88%E6%8C%A4%E5%88%B0%E6%B0%B4%E6%B3%84%E4%B8%8D%E9%80%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [酸枣仁价格暴涨](https://www.baidu.com/s?wd=%E9%85%B8%E6%9E%A3%E4%BB%81%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国庆机票价格为何突然跳水](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [不粘锅有毒致癌不能用？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%B2%98%E9%94%85%E6%9C%89%E6%AF%92%E8%87%B4%E7%99%8C%E4%B8%8D%E8%83%BD%E7%94%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
