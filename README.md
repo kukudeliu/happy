@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 23:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 23:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈梦王艺迪](https://s.weibo.com/weibo?q=%E9%99%88%E6%A2%A6%E7%8E%8B%E8%89%BA%E8%BF%AA&t=31&band_rank=6&Refer=top)<br />
 7. [莎头卫冕](https://s.weibo.com/weibo?q=%E8%8E%8E%E5%A4%B4%E5%8D%AB%E5%86%95&t=31&band_rank=7&Refer=top)<br />
 8. [LV老板涉嫌洗钱受到调查](https://s.weibo.com/weibo?q=%23LV%E8%80%81%E6%9D%BF%E6%B6%89%E5%AB%8C%E6%B4%97%E9%92%B1%E5%8F%97%E5%88%B0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [郑恺苗苗相互治愈](https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E8%8B%97%E8%8B%97%E7%9B%B8%E4%BA%92%E6%B2%BB%E6%84%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [混双颁奖 嗑cp仪式](https://s.weibo.com/weibo?q=%E6%B7%B7%E5%8F%8C%E9%A2%81%E5%A5%96%20%E5%97%91cp%E4%BB%AA%E5%BC%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
