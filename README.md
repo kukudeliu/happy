@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 10:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 10:09:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [“水花消失术”“飞人大战”来了](https://www.baidu.com/s?wd=%E2%80%9C%E6%B0%B4%E8%8A%B1%E6%B6%88%E5%A4%B1%E6%9C%AF%E2%80%9D%E2%80%9C%E9%A3%9E%E4%BA%BA%E5%A4%A7%E6%88%98%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小学生为何集体痴迷萝卜刀？](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%B8%BA%E4%BD%95%E9%9B%86%E4%BD%93%E7%97%B4%E8%BF%B7%E8%90%9D%E5%8D%9C%E5%88%80%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [烈士纪念日](https://www.baidu.com/s?wd=%E7%83%88%E5%A3%AB%E7%BA%AA%E5%BF%B5%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌克兰公民可免签证出入俄罗斯](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%85%AC%E6%B0%91%E5%8F%AF%E5%85%8D%E7%AD%BE%E8%AF%81%E5%87%BA%E5%85%A5%E4%BF%84%E7%BD%97%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [假期人山人海：外滩放眼望去人人人](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%EF%BC%9A%E5%A4%96%E6%BB%A9%E6%94%BE%E7%9C%BC%E6%9C%9B%E5%8E%BB%E4%BA%BA%E4%BA%BA%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [南宁地铁辟谣夜间免费乘车](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E5%9C%B0%E9%93%81%E8%BE%9F%E8%B0%A3%E5%A4%9C%E9%97%B4%E5%85%8D%E8%B4%B9%E4%B9%98%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [“水花消失术”“飞人大战”来了](https://www.baidu.com/s?wd=%E2%80%9C%E6%B0%B4%E8%8A%B1%E6%B6%88%E5%A4%B1%E6%9C%AF%E2%80%9D%E2%80%9C%E9%A3%9E%E4%BA%BA%E5%A4%A7%E6%88%98%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小学生为何集体痴迷萝卜刀？](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%B8%BA%E4%BD%95%E9%9B%86%E4%BD%93%E7%97%B4%E8%BF%B7%E8%90%9D%E5%8D%9C%E5%88%80%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [烈士纪念日](https://www.baidu.com/s?wd=%E7%83%88%E5%A3%AB%E7%BA%AA%E5%BF%B5%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌克兰公民可免签证出入俄罗斯](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%85%AC%E6%B0%91%E5%8F%AF%E5%85%8D%E7%AD%BE%E8%AF%81%E5%87%BA%E5%85%A5%E4%BF%84%E7%BD%97%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [假期人山人海：外滩放眼望去人人人](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%EF%BC%9A%E5%A4%96%E6%BB%A9%E6%94%BE%E7%9C%BC%E6%9C%9B%E5%8E%BB%E4%BA%BA%E4%BA%BA%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [南宁地铁辟谣夜间免费乘车](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E5%9C%B0%E9%93%81%E8%BE%9F%E8%B0%A3%E5%A4%9C%E9%97%B4%E5%85%8D%E8%B4%B9%E4%B9%98%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
