@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 00:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 00:57:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [苏炳添哭了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%93%AD%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [腾讯今年三部破万剧集](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E4%BB%8A%E5%B9%B4%E4%B8%89%E9%83%A8%E7%A0%B4%E4%B8%87%E5%89%A7%E9%9B%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [喜报林双离婚了](https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%8A%A5%E6%9E%97%E5%8F%8C%E7%A6%BB%E5%A9%9A%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [泰国是预制菜的重灾区吧](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%98%AF%E9%A2%84%E5%88%B6%E8%8F%9C%E7%9A%84%E9%87%8D%E7%81%BE%E5%8C%BA%E5%90%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [郑恺苗苗相互治愈](https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E8%8B%97%E8%8B%97%E7%9B%B8%E4%BA%92%E6%B2%BB%E6%84%88%23&t=31&band_rank=9&Refer=top)<br />
+8. [韩国地铁凌晨五点坐满了人](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%9C%B0%E9%93%81%E5%87%8C%E6%99%A8%E4%BA%94%E7%82%B9%E5%9D%90%E6%BB%A1%E4%BA%86%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [泰国是预制菜的重灾区吧](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%98%AF%E9%A2%84%E5%88%B6%E8%8F%9C%E7%9A%84%E9%87%8D%E7%81%BE%E5%8C%BA%E5%90%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
