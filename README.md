@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 21:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 21:58:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [LV老板涉嫌洗钱受到调查](https://s.weibo.com/weibo?q=%23LV%E8%80%81%E6%9D%BF%E6%B6%89%E5%AB%8C%E6%B4%97%E9%92%B1%E5%8F%97%E5%88%B0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=4&Refer=top)<br />
 5. [喜报林双离婚了](https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%8A%A5%E6%9E%97%E5%8F%8C%E7%A6%BB%E5%A9%9A%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨幂高跟鞋不合脚](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E9%AB%98%E8%B7%9F%E9%9E%8B%E4%B8%8D%E5%90%88%E8%84%9A%23&t=31&band_rank=6&Refer=top)<br />
-7. [中国男篮终于得90分了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%BB%88%E4%BA%8E%E5%BE%9790%E5%88%86%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [果果真是妈妈的好女儿](https://s.weibo.com/weibo?q=%23%E6%9E%9C%E6%9E%9C%E7%9C%9F%E6%98%AF%E5%A6%88%E5%A6%88%E7%9A%84%E5%A5%BD%E5%A5%B3%E5%84%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [郑钧五点赶高铁开演唱会](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A7%E4%BA%94%E7%82%B9%E8%B5%B6%E9%AB%98%E9%93%81%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
+7. [郑钧五点赶高铁开演唱会](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A7%E4%BA%94%E7%82%B9%E8%B5%B6%E9%AB%98%E9%93%81%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
+8. [中国男篮终于得90分了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%BB%88%E4%BA%8E%E5%BE%9790%E5%88%86%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [果果真是妈妈的好女儿](https://s.weibo.com/weibo?q=%23%E6%9E%9C%E6%9E%9C%E7%9C%9F%E6%98%AF%E5%A6%88%E5%A6%88%E7%9A%84%E5%A5%BD%E5%A5%B3%E5%84%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
