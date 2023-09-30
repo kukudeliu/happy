@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 11:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 11:45:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [周放居然是还珠格格的柳红](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%94%BE%E5%B1%85%E7%84%B6%E6%98%AF%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC%E7%9A%84%E6%9F%B3%E7%BA%A2%23&t=31&band_rank=2&Refer=top)<br />
 3. [盛世中华 大美中国](https://s.weibo.com/weibo?q=%23%E7%9B%9B%E4%B8%96%E4%B8%AD%E5%8D%8E%20%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [长期吃西红柿真的能变白吗](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%90%83%E8%A5%BF%E7%BA%A2%E6%9F%BF%E7%9C%9F%E7%9A%84%E8%83%BD%E5%8F%98%E7%99%BD%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
-5. [你好星期六全员笑脸送国庆祝福](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E5%85%A8%E5%91%98%E7%AC%91%E8%84%B8%E9%80%81%E5%9B%BD%E5%BA%86%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=5&Refer=top)<br />
-6. [家可以常回 但不能久待](https://s.weibo.com/weibo?q=%E5%AE%B6%E5%8F%AF%E4%BB%A5%E5%B8%B8%E5%9B%9E%20%E4%BD%86%E4%B8%8D%E8%83%BD%E4%B9%85%E5%BE%85&t=31&band_rank=6&Refer=top)<br />
+5. [家可以常回 但不能久待](https://s.weibo.com/weibo?q=%E5%AE%B6%E5%8F%AF%E4%BB%A5%E5%B8%B8%E5%9B%9E%20%E4%BD%86%E4%B8%8D%E8%83%BD%E4%B9%85%E5%BE%85&t=31&band_rank=5&Refer=top)<br />
+6. [你好星期六全员笑脸送国庆祝福](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E5%85%A8%E5%91%98%E7%AC%91%E8%84%B8%E9%80%81%E5%9B%BD%E5%BA%86%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子买票被抢票软件提示多买12站](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%A5%A8%E8%A2%AB%E6%8A%A2%E7%A5%A8%E8%BD%AF%E4%BB%B6%E6%8F%90%E7%A4%BA%E5%A4%9A%E4%B9%B012%E7%AB%99%23&t=31&band_rank=7&Refer=top)<br />
 8. [大学生付餐具费吃完饭将餐具全带走](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%98%E9%A4%90%E5%85%B7%E8%B4%B9%E5%90%83%E5%AE%8C%E9%A5%AD%E5%B0%86%E9%A4%90%E5%85%B7%E5%85%A8%E5%B8%A6%E8%B5%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [小长假不得连炫八天甄嬛传](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%95%BF%E5%81%87%E4%B8%8D%E5%BE%97%E8%BF%9E%E7%82%AB%E5%85%AB%E5%A4%A9%E7%94%84%E5%AC%9B%E4%BC%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [废文](https://s.weibo.com/weibo?q=%E5%BA%9F%E6%96%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
