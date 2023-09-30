@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 17:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 17:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大部分人已经见完了此生的最后一面](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E5%B7%B2%E7%BB%8F%E8%A7%81%E5%AE%8C%E4%BA%86%E6%AD%A4%E7%94%9F%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2&t=31&band_rank=6&Refer=top)<br />
 7. [梁靖崑林高远止步亚运八强](https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91%E6%9E%97%E9%AB%98%E8%BF%9C%E6%AD%A2%E6%AD%A5%E4%BA%9A%E8%BF%90%E5%85%AB%E5%BC%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [蜜雪冰城在越南被抗议了](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9C%A8%E8%B6%8A%E5%8D%97%E8%A2%AB%E6%8A%97%E8%AE%AE%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [张译 坚如磐石令我拍案叫绝](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%AF%91%20%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%E4%BB%A4%E6%88%91%E6%8B%8D%E6%A1%88%E5%8F%AB%E7%BB%9D&t=31&band_rank=9&Refer=top)<br />
+9. [王楚钦4比0林钟勋](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A64%E6%AF%940%E6%9E%97%E9%92%9F%E5%8B%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [今年出国游 新中产恨不得掏空积蓄](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%87%BA%E5%9B%BD%E6%B8%B8+%E6%96%B0%E4%B8%AD%E4%BA%A7%E6%81%A8%E4%B8%8D%E5%BE%97%E6%8E%8F%E7%A9%BA%E7%A7%AF%E8%93%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡兵你是懂打码的](https://www.baidu.com/s?wd=%E8%83%A1%E5%85%B5%E4%BD%A0%E6%98%AF%E6%87%82%E6%89%93%E7%A0%81%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小狗返乡途中晕车还被猫打了一巴掌](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8B%97%E8%BF%94%E4%B9%A1%E9%80%94%E4%B8%AD%E6%99%95%E8%BD%A6%E8%BF%98%E8%A2%AB%E7%8C%AB%E6%89%93%E4%BA%86%E4%B8%80%E5%B7%B4%E6%8E%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老君山坚持7年推出1元午餐](https://www.baidu.com/s?wd=%E8%80%81%E5%90%9B%E5%B1%B1%E5%9D%9A%E6%8C%817%E5%B9%B4%E6%8E%A8%E5%87%BA1%E5%85%83%E5%8D%88%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [LV老板涉嫌洗钱受到调查](https://www.baidu.com/s?wd=LV%E8%80%81%E6%9D%BF%E6%B6%89%E5%AB%8C%E6%B4%97%E9%92%B1%E5%8F%97%E5%88%B0%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高铁因超员报警无法发车系假消息](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%9B%A0%E8%B6%85%E5%91%98%E6%8A%A5%E8%AD%A6%E6%97%A0%E6%B3%95%E5%8F%91%E8%BD%A6%E7%B3%BB%E5%81%87%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [今年出国游 新中产恨不得掏空积蓄](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%87%BA%E5%9B%BD%E6%B8%B8+%E6%96%B0%E4%B8%AD%E4%BA%A7%E6%81%A8%E4%B8%8D%E5%BE%97%E6%8E%8F%E7%A9%BA%E7%A7%AF%E8%93%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡兵你是懂打码的](https://www.baidu.com/s?wd=%E8%83%A1%E5%85%B5%E4%BD%A0%E6%98%AF%E6%87%82%E6%89%93%E7%A0%81%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小狗返乡途中晕车还被猫打了一巴掌](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8B%97%E8%BF%94%E4%B9%A1%E9%80%94%E4%B8%AD%E6%99%95%E8%BD%A6%E8%BF%98%E8%A2%AB%E7%8C%AB%E6%89%93%E4%BA%86%E4%B8%80%E5%B7%B4%E6%8E%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老君山坚持7年推出1元午餐](https://www.baidu.com/s?wd=%E8%80%81%E5%90%9B%E5%B1%B1%E5%9D%9A%E6%8C%817%E5%B9%B4%E6%8E%A8%E5%87%BA1%E5%85%83%E5%8D%88%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [LV老板涉嫌洗钱受到调查](https://www.baidu.com/s?wd=LV%E8%80%81%E6%9D%BF%E6%B6%89%E5%AB%8C%E6%B4%97%E9%92%B1%E5%8F%97%E5%88%B0%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高铁因超员报警无法发车系假消息](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%9B%A0%E8%B6%85%E5%91%98%E6%8A%A5%E8%AD%A6%E6%97%A0%E6%B3%95%E5%8F%91%E8%BD%A6%E7%B3%BB%E5%81%87%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
