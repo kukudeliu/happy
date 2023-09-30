@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 23:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 23:38:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [堵车时第一辆在干啥](https://www.baidu.com/s?wd=%E5%A0%B5%E8%BD%A6%E6%97%B6%E7%AC%AC%E4%B8%80%E8%BE%86%E5%9C%A8%E5%B9%B2%E5%95%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这些科技让亚运更“智能”](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E7%A7%91%E6%8A%80%E8%AE%A9%E4%BA%9A%E8%BF%90%E6%9B%B4%E2%80%9C%E6%99%BA%E8%83%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [谢震业百米冠军](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E7%99%BE%E7%B1%B3%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中国金牌总数已超赛前预测高线](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%91%E7%89%8C%E6%80%BB%E6%95%B0%E5%B7%B2%E8%B6%85%E8%B5%9B%E5%89%8D%E9%A2%84%E6%B5%8B%E9%AB%98%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [朝鲜举重选手破世界纪录夺金](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E4%B8%BE%E9%87%8D%E9%80%89%E6%89%8B%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E5%A4%BA%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“水花消失术”亚运版来了](https://www.baidu.com/s?wd=%E2%80%9C%E6%B0%B4%E8%8A%B1%E6%B6%88%E5%A4%B1%E6%9C%AF%E2%80%9D%E4%BA%9A%E8%BF%90%E7%89%88%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [“水花消失术”亚运版来了](https://www.baidu.com/s?wd=%E2%80%9C%E6%B0%B4%E8%8A%B1%E6%B6%88%E5%A4%B1%E6%9C%AF%E2%80%9D%E4%BA%9A%E8%BF%90%E7%89%88%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩国体操选手尹真星微笑面对失误](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%BD%93%E6%93%8D%E9%80%89%E6%89%8B%E5%B0%B9%E7%9C%9F%E6%98%9F%E5%BE%AE%E7%AC%91%E9%9D%A2%E5%AF%B9%E5%A4%B1%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生1人留守宿舍大扫除过中秋](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F1%E4%BA%BA%E7%95%99%E5%AE%88%E5%AE%BF%E8%88%8D%E5%A4%A7%E6%89%AB%E9%99%A4%E8%BF%87%E4%B8%AD%E7%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高铁因超员报警无法发车系假消息](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%9B%A0%E8%B6%85%E5%91%98%E6%8A%A5%E8%AD%A6%E6%97%A0%E6%B3%95%E5%8F%91%E8%BD%A6%E7%B3%BB%E5%81%87%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [堵车时第一辆在干啥](https://www.baidu.com/s?wd=%E5%A0%B5%E8%BD%A6%E6%97%B6%E7%AC%AC%E4%B8%80%E8%BE%86%E5%9C%A8%E5%B9%B2%E5%95%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这些科技让亚运更“智能”](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E7%A7%91%E6%8A%80%E8%AE%A9%E4%BA%9A%E8%BF%90%E6%9B%B4%E2%80%9C%E6%99%BA%E8%83%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [谢震业百米冠军](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E7%99%BE%E7%B1%B3%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中国金牌总数已超赛前预测高线](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%91%E7%89%8C%E6%80%BB%E6%95%B0%E5%B7%B2%E8%B6%85%E8%B5%9B%E5%89%8D%E9%A2%84%E6%B5%8B%E9%AB%98%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [朝鲜举重选手破世界纪录夺金](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E4%B8%BE%E9%87%8D%E9%80%89%E6%89%8B%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E5%A4%BA%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“水花消失术”亚运版来了](https://www.baidu.com/s?wd=%E2%80%9C%E6%B0%B4%E8%8A%B1%E6%B6%88%E5%A4%B1%E6%9C%AF%E2%80%9D%E4%BA%9A%E8%BF%90%E7%89%88%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [“水花消失术”亚运版来了](https://www.baidu.com/s?wd=%E2%80%9C%E6%B0%B4%E8%8A%B1%E6%B6%88%E5%A4%B1%E6%9C%AF%E2%80%9D%E4%BA%9A%E8%BF%90%E7%89%88%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩国体操选手尹真星微笑面对失误](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%BD%93%E6%93%8D%E9%80%89%E6%89%8B%E5%B0%B9%E7%9C%9F%E6%98%9F%E5%BE%AE%E7%AC%91%E9%9D%A2%E5%AF%B9%E5%A4%B1%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生1人留守宿舍大扫除过中秋](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F1%E4%BA%BA%E7%95%99%E5%AE%88%E5%AE%BF%E8%88%8D%E5%A4%A7%E6%89%AB%E9%99%A4%E8%BF%87%E4%B8%AD%E7%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高铁因超员报警无法发车系假消息](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%9B%A0%E8%B6%85%E5%91%98%E6%8A%A5%E8%AD%A6%E6%97%A0%E6%B3%95%E5%8F%91%E8%BD%A6%E7%B3%BB%E5%81%87%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
