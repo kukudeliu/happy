@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 01:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 01:24:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [全红婵回应包上挂满小乌龟](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%9B%9E%E5%BA%94%E5%8C%85%E4%B8%8A%E6%8C%82%E6%BB%A1%E5%B0%8F%E4%B9%8C%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [苏炳添回应缺席亚运](https://www.baidu.com/s?wd=%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%9B%9E%E5%BA%94%E7%BC%BA%E5%B8%AD%E4%BA%9A%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [淄博八大局又挤到水泄不通了](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%85%AB%E5%A4%A7%E5%B1%80%E5%8F%88%E6%8C%A4%E5%88%B0%E6%B0%B4%E6%B3%84%E4%B8%8D%E9%80%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高铁因超员报警无法发车系假消息](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%9B%A0%E8%B6%85%E5%91%98%E6%8A%A5%E8%AD%A6%E6%97%A0%E6%B3%95%E5%8F%91%E8%BD%A6%E7%B3%BB%E5%81%87%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [不粘锅有毒致癌不能用？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%B2%98%E9%94%85%E6%9C%89%E6%AF%92%E8%87%B4%E7%99%8C%E4%B8%8D%E8%83%BD%E7%94%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [全红婵回应包上挂满小乌龟](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%9B%9E%E5%BA%94%E5%8C%85%E4%B8%8A%E6%8C%82%E6%BB%A1%E5%B0%8F%E4%B9%8C%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [苏炳添回应缺席亚运](https://www.baidu.com/s?wd=%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%9B%9E%E5%BA%94%E7%BC%BA%E5%B8%AD%E4%BA%9A%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [淄博八大局又挤到水泄不通了](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E5%85%AB%E5%A4%A7%E5%B1%80%E5%8F%88%E6%8C%A4%E5%88%B0%E6%B0%B4%E6%B3%84%E4%B8%8D%E9%80%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [高铁因超员报警无法发车系假消息](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%9B%A0%E8%B6%85%E5%91%98%E6%8A%A5%E8%AD%A6%E6%97%A0%E6%B3%95%E5%8F%91%E8%BD%A6%E7%B3%BB%E5%81%87%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [不粘锅有毒致癌不能用？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%B2%98%E9%94%85%E6%9C%89%E6%AF%92%E8%87%B4%E7%99%8C%E4%B8%8D%E8%83%BD%E7%94%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
