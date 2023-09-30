@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 12:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 12:26:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [家可以常回 但不能久待](https://s.weibo.com/weibo?q=%E5%AE%B6%E5%8F%AF%E4%BB%A5%E5%B8%B8%E5%9B%9E%20%E4%BD%86%E4%B8%8D%E8%83%BD%E4%B9%85%E5%BE%85&t=31&band_rank=5&Refer=top)<br />
 6. [大学生付餐具费吃完饭将餐具全带走](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%98%E9%A4%90%E5%85%B7%E8%B4%B9%E5%90%83%E5%AE%8C%E9%A5%AD%E5%B0%86%E9%A4%90%E5%85%B7%E5%85%A8%E5%B8%A6%E8%B5%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子买票被抢票软件提示多买12站](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%A5%A8%E8%A2%AB%E6%8A%A2%E7%A5%A8%E8%BD%AF%E4%BB%B6%E6%8F%90%E7%A4%BA%E5%A4%9A%E4%B9%B012%E7%AB%99%23&t=31&band_rank=7&Refer=top)<br />
-8. [被黄晓明和实习生的共情触动到了](https://s.weibo.com/weibo?q=%E8%A2%AB%E9%BB%84%E6%99%93%E6%98%8E%E5%92%8C%E5%AE%9E%E4%B9%A0%E7%94%9F%E7%9A%84%E5%85%B1%E6%83%85%E8%A7%A6%E5%8A%A8%E5%88%B0%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [患者不遵医嘱过世医生该不该负责](https://s.weibo.com/weibo?q=%23%E6%82%A3%E8%80%85%E4%B8%8D%E9%81%B5%E5%8C%BB%E5%98%B1%E8%BF%87%E4%B8%96%E5%8C%BB%E7%94%9F%E8%AF%A5%E4%B8%8D%E8%AF%A5%E8%B4%9F%E8%B4%A3%23&t=31&band_rank=9&Refer=top)<br />
+8. [患者不遵医嘱过世医生该不该负责](https://s.weibo.com/weibo?q=%23%E6%82%A3%E8%80%85%E4%B8%8D%E9%81%B5%E5%8C%BB%E5%98%B1%E8%BF%87%E4%B8%96%E5%8C%BB%E7%94%9F%E8%AF%A5%E4%B8%8D%E8%AF%A5%E8%B4%9F%E8%B4%A3%23&t=31&band_rank=8&Refer=top)<br />
+9. [被黄晓明和实习生的共情触动到了](https://s.weibo.com/weibo?q=%E8%A2%AB%E9%BB%84%E6%99%93%E6%98%8E%E5%92%8C%E5%AE%9E%E4%B9%A0%E7%94%9F%E7%9A%84%E5%85%B1%E6%83%85%E8%A7%A6%E5%8A%A8%E5%88%B0%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
