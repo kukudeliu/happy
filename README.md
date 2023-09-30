@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 07:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 07:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [腾讯今年三部破万剧集](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E4%BB%8A%E5%B9%B4%E4%B8%89%E9%83%A8%E7%A0%B4%E4%B8%87%E5%89%A7%E9%9B%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [国庆天安门广场升旗仪式](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦孙颖莎混双夺冠](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E6%B7%B7%E5%8F%8C%E5%A4%BA%E5%86%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [苏炳添哭了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [新中国成立74周年](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%AD%E5%9B%BD%E6%88%90%E7%AB%8B74%E5%91%A8%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
+8. [新中国成立74周年](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%AD%E5%9B%BD%E6%88%90%E7%AB%8B74%E5%91%A8%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
+9. [苏炳添哭了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
