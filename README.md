@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 14:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 14:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Joker杀疯了](https://s.weibo.com/weibo?q=%23Joker%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [亲戚都以为樊振东是我男朋友](https://s.weibo.com/weibo?q=%23%E4%BA%B2%E6%88%9A%E9%83%BD%E4%BB%A5%E4%B8%BA%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%98%AF%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [乒乓球](https://s.weibo.com/weibo?q=%E4%B9%92%E4%B9%93%E7%90%83&t=31&band_rank=8&Refer=top)<br />
-9. [12306回应乘客补票被赶下车](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E4%B9%98%E5%AE%A2%E8%A1%A5%E7%A5%A8%E8%A2%AB%E8%B5%B6%E4%B8%8B%E8%BD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [男双](https://s.weibo.com/weibo?q=%E7%94%B7%E5%8F%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
