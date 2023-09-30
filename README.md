@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 22:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-09-30 22:18:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [谢震业百米冠军](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E7%99%BE%E7%B1%B3%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [朝鲜举重选手破世界纪录夺金](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E4%B8%BE%E9%87%8D%E9%80%89%E6%89%8B%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E5%A4%BA%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [全红婵贴墙逃采访](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B4%B4%E5%A2%99%E9%80%83%E9%87%87%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [为什么觉得假期越休息越累](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A7%89%E5%BE%97%E5%81%87%E6%9C%9F%E8%B6%8A%E4%BC%91%E6%81%AF%E8%B6%8A%E7%B4%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广西北海两层高超市垮塌 有人员被埋](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E4%B8%A4%E5%B1%82%E9%AB%98%E8%B6%85%E5%B8%82%E5%9E%AE%E5%A1%8C+%E6%9C%89%E4%BA%BA%E5%91%98%E8%A2%AB%E5%9F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高铁因超员报警无法发车系假消息](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%9B%A0%E8%B6%85%E5%91%98%E6%8A%A5%E8%AD%A6%E6%97%A0%E6%B3%95%E5%8F%91%E8%BD%A6%E7%B3%BB%E5%81%87%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [谢震业百米冠军](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E7%99%BE%E7%B1%B3%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [朝鲜举重选手破世界纪录夺金](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E4%B8%BE%E9%87%8D%E9%80%89%E6%89%8B%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E5%A4%BA%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [全红婵贴墙逃采访](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B4%B4%E5%A2%99%E9%80%83%E9%87%87%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [为什么觉得假期越休息越累](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A7%89%E5%BE%97%E5%81%87%E6%9C%9F%E8%B6%8A%E4%BC%91%E6%81%AF%E8%B6%8A%E7%B4%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广西北海两层高超市垮塌 有人员被埋](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E4%B8%A4%E5%B1%82%E9%AB%98%E8%B6%85%E5%B8%82%E5%9E%AE%E5%A1%8C+%E6%9C%89%E4%BA%BA%E5%91%98%E8%A2%AB%E5%9F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高铁因超员报警无法发车系假消息](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%9B%A0%E8%B6%85%E5%91%98%E6%8A%A5%E8%AD%A6%E6%97%A0%E6%B3%95%E5%8F%91%E8%BD%A6%E7%B3%BB%E5%81%87%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
