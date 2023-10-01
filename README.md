@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 13:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 13:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [5岁女孩池边喂50斤胖锦鲤](https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%B1%A0%E8%BE%B9%E5%96%8250%E6%96%A4%E8%83%96%E9%94%A6%E9%B2%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [倪妮 没挡住但摸摸头](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%20%E6%B2%A1%E6%8C%A1%E4%BD%8F%E4%BD%86%E6%91%B8%E6%91%B8%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
 8. [权志龙离开YG加入华纳](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E7%A6%BB%E5%BC%80YG%E5%8A%A0%E5%85%A5%E5%8D%8E%E7%BA%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [孟晚舟卸任华为轮值董事长](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E6%99%9A%E8%88%9F%E5%8D%B8%E4%BB%BB%E5%8D%8E%E4%B8%BA%E8%BD%AE%E5%80%BC%E8%91%A3%E4%BA%8B%E9%95%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [腿姐](https://s.weibo.com/weibo?q=%E8%85%BF%E5%A7%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
