@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 15:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 15:33:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [有一种自豪叫中国](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E8%87%AA%E8%B1%AA%E5%8F%AB%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [孙颖莎vs申裕斌](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%94%B3%E8%A3%95%E6%96%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [YG的G没有了](https://s.weibo.com/weibo?q=%23YG%E7%9A%84G%E6%B2%A1%E6%9C%89%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [腿姐](https://s.weibo.com/weibo?q=%E8%85%BF%E5%A7%90&t=31&band_rank=6&Refer=top)<br />
-7. [魏大勋 白月光](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8B%20%E7%99%BD%E6%9C%88%E5%85%89&t=31&band_rank=7&Refer=top)<br />
-8. [赵露思10月不进组](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D10%E6%9C%88%E4%B8%8D%E8%BF%9B%E7%BB%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [萝卜刀](https://s.weibo.com/weibo?q=%E8%90%9D%E5%8D%9C%E5%88%80&t=31&band_rank=9&Refer=top)<br />
+6. [韩庚前任4最出圈的台词](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%BA%9A%E5%89%8D%E4%BB%BB4%E6%9C%80%E5%87%BA%E5%9C%88%E7%9A%84%E5%8F%B0%E8%AF%8D%23&t=31&band_rank=6&Refer=top)<br />
+7. [腿姐](https://s.weibo.com/weibo?q=%E8%85%BF%E5%A7%90&t=31&band_rank=7&Refer=top)<br />
+8. [魏大勋 白月光](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8B%20%E7%99%BD%E6%9C%88%E5%85%89&t=31&band_rank=8&Refer=top)<br />
+9. [赵露思10月不进组](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D10%E6%9C%88%E4%B8%8D%E8%BF%9B%E7%BB%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
