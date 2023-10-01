@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 19:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 19:59:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [一场盛会点燃一座城的热情](https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%BA%E7%9B%9B%E4%BC%9A%E7%82%B9%E7%87%83%E4%B8%80%E5%BA%A7%E5%9F%8E%E7%9A%84%E7%83%AD%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [黄山游客被大学生志愿者热情投喂](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BF%97%E6%84%BF%E8%80%85%E7%83%AD%E6%83%85%E6%8A%95%E5%96%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孙颖莎4:0横扫申裕斌晋级决赛](https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E4%3A0%E6%A8%AA%E6%89%AB%E7%94%B3%E8%A3%95%E6%96%8C%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [淄博“退烧”：回不到五一盛况](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E2%80%9C%E9%80%80%E7%83%A7%E2%80%9D%EF%BC%9A%E5%9B%9E%E4%B8%8D%E5%88%B0%E4%BA%94%E4%B8%80%E7%9B%9B%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生手滑误拒浙大保研通知](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%89%8B%E6%BB%91%E8%AF%AF%E6%8B%92%E6%B5%99%E5%A4%A7%E4%BF%9D%E7%A0%94%E9%80%9A%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [警方回应高速多辆车被扎胎：非人为](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E9%80%9F%E5%A4%9A%E8%BE%86%E8%BD%A6%E8%A2%AB%E6%89%8E%E8%83%8E%EF%BC%9A%E9%9D%9E%E4%BA%BA%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [淄博“退烧”：回不到五一盛况](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E2%80%9C%E9%80%80%E7%83%A7%E2%80%9D%EF%BC%9A%E5%9B%9E%E4%B8%8D%E5%88%B0%E4%BA%94%E4%B8%80%E7%9B%9B%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高中经费紧张号召家长捐款系谣言](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E7%BB%8F%E8%B4%B9%E7%B4%A7%E5%BC%A0%E5%8F%B7%E5%8F%AC%E5%AE%B6%E9%95%BF%E6%8D%90%E6%AC%BE%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [一场盛会点燃一座城的热情](https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%BA%E7%9B%9B%E4%BC%9A%E7%82%B9%E7%87%83%E4%B8%80%E5%BA%A7%E5%9F%8E%E7%9A%84%E7%83%AD%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [黄山游客被大学生志愿者热情投喂](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BF%97%E6%84%BF%E8%80%85%E7%83%AD%E6%83%85%E6%8A%95%E5%96%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孙颖莎4:0横扫申裕斌晋级决赛](https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E4%3A0%E6%A8%AA%E6%89%AB%E7%94%B3%E8%A3%95%E6%96%8C%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [淄博“退烧”：回不到五一盛况](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E2%80%9C%E9%80%80%E7%83%A7%E2%80%9D%EF%BC%9A%E5%9B%9E%E4%B8%8D%E5%88%B0%E4%BA%94%E4%B8%80%E7%9B%9B%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生手滑误拒浙大保研通知](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%89%8B%E6%BB%91%E8%AF%AF%E6%8B%92%E6%B5%99%E5%A4%A7%E4%BF%9D%E7%A0%94%E9%80%9A%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [警方回应高速多辆车被扎胎：非人为](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E9%80%9F%E5%A4%9A%E8%BE%86%E8%BD%A6%E8%A2%AB%E6%89%8E%E8%83%8E%EF%BC%9A%E9%9D%9E%E4%BA%BA%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [淄博“退烧”：回不到五一盛况](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E2%80%9C%E9%80%80%E7%83%A7%E2%80%9D%EF%BC%9A%E5%9B%9E%E4%B8%8D%E5%88%B0%E4%BA%94%E4%B8%80%E7%9B%9B%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高中经费紧张号召家长捐款系谣言](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E7%BB%8F%E8%B4%B9%E7%B4%A7%E5%BC%A0%E5%8F%B7%E5%8F%AC%E5%AE%B6%E9%95%BF%E6%8D%90%E6%AC%BE%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
