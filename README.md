@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 07:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 07:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [互相都以为是对方婚礼传统习俗](https://s.weibo.com/weibo?q=%23%E4%BA%92%E7%9B%B8%E9%83%BD%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%AF%B9%E6%96%B9%E5%A9%9A%E7%A4%BC%E4%BC%A0%E7%BB%9F%E4%B9%A0%E4%BF%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [云南跟团游我们经历了什么](https://s.weibo.com/weibo?q=%E4%BA%91%E5%8D%97%E8%B7%9F%E5%9B%A2%E6%B8%B8%E6%88%91%E4%BB%AC%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88&t=31&band_rank=6&Refer=top)<br />
 7. [吴艳妮抢跑](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E6%8A%A2%E8%B7%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [中国队决赛不藏了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%86%B3%E8%B5%9B%E4%B8%8D%E8%97%8F%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [孙女整理爷爷遗物发现备好的嫁妆](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%A5%B3%E6%95%B4%E7%90%86%E7%88%B7%E7%88%B7%E9%81%97%E7%89%A9%E5%8F%91%E7%8E%B0%E5%A4%87%E5%A5%BD%E7%9A%84%E5%AB%81%E5%A6%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [孙女整理爷爷遗物发现备好的嫁妆](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%A5%B3%E6%95%B4%E7%90%86%E7%88%B7%E7%88%B7%E9%81%97%E7%89%A9%E5%8F%91%E7%8E%B0%E5%A4%87%E5%A5%BD%E7%9A%84%E5%AB%81%E5%A6%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [中国队决赛不藏了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%86%B3%E8%B5%9B%E4%B8%8D%E8%97%8F%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
