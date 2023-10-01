@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 15:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 15:57:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [台媒报道杨幂弘扬中华文化](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%8A%A5%E9%81%93%E6%9D%A8%E5%B9%82%E5%BC%98%E6%89%AC%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [YG的G没有了](https://s.weibo.com/weibo?q=%23YG%E7%9A%84G%E6%B2%A1%E6%9C%89%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [腿姐](https://s.weibo.com/weibo?q=%E8%85%BF%E5%A7%90&t=31&band_rank=7&Refer=top)<br />
-8. [有一种自豪叫中国](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E8%87%AA%E8%B1%AA%E5%8F%AB%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=8&Refer=top)<br />
+8. [魏大勋 白月光](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8B%20%E7%99%BD%E6%9C%88%E5%85%89&t=31&band_rank=8&Refer=top)<br />
 9. [孙颖莎vs申裕斌](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%94%B3%E8%A3%95%E6%96%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
