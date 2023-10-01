@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 12:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 12:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [倪妮 没挡住但摸摸头](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%20%E6%B2%A1%E6%8C%A1%E4%BD%8F%E4%BD%86%E6%91%B8%E6%91%B8%E5%A4%B4&t=31&band_rank=6&Refer=top)<br />
 7. [留学时不要乱用emoji](https://s.weibo.com/weibo?q=%E7%95%99%E5%AD%A6%E6%97%B6%E4%B8%8D%E8%A6%81%E4%B9%B1%E7%94%A8emoji&t=31&band_rank=7&Refer=top)<br />
 8. [曾见义勇为的南京胖哥女儿离世](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E7%9A%84%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%E5%A5%B3%E5%84%BF%E7%A6%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [张远输了十六年终于赢了一回](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E8%BE%93%E4%BA%86%E5%8D%81%E5%85%AD%E5%B9%B4%E7%BB%88%E4%BA%8E%E8%B5%A2%E4%BA%86%E4%B8%80%E5%9B%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [国羽女团0比3韩国](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E7%BE%BD%E5%A5%B3%E5%9B%A20%E6%AF%943%E9%9F%A9%E5%9B%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [长城人山人海 网友：3分钟走2步](https://www.baidu.com/s?wd=%E9%95%BF%E5%9F%8E%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7+%E7%BD%91%E5%8F%8B%EF%BC%9A3%E5%88%86%E9%92%9F%E8%B5%B02%E6%AD%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [京哈高速上钉子撒落 数十辆车被扎](https://www.baidu.com/s?wd=%E4%BA%AC%E5%93%88%E9%AB%98%E9%80%9F%E4%B8%8A%E9%92%89%E5%AD%90%E6%92%92%E8%90%BD+%E6%95%B0%E5%8D%81%E8%BE%86%E8%BD%A6%E8%A2%AB%E6%89%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张伟丽把300多斤的奥尼尔一把抱起](https://www.baidu.com/s?wd=%E5%BC%A0%E4%BC%9F%E4%B8%BD%E6%8A%8A300%E5%A4%9A%E6%96%A4%E7%9A%84%E5%A5%A5%E5%B0%BC%E5%B0%94%E4%B8%80%E6%8A%8A%E6%8A%B1%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方回应两老师深夜围殴学生](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%A4%E8%80%81%E5%B8%88%E6%B7%B1%E5%A4%9C%E5%9B%B4%E6%AE%B4%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客称在龙门石窟被挤到怀疑人生](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%A7%B0%E5%9C%A8%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F%E8%A2%AB%E6%8C%A4%E5%88%B0%E6%80%80%E7%96%91%E4%BA%BA%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [头发长会吸收人体很多营养？](https://www.baidu.com/s?wd=%E5%A4%B4%E5%8F%91%E9%95%BF%E4%BC%9A%E5%90%B8%E6%94%B6%E4%BA%BA%E4%BD%93%E5%BE%88%E5%A4%9A%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [长城人山人海 网友：3分钟走2步](https://www.baidu.com/s?wd=%E9%95%BF%E5%9F%8E%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7+%E7%BD%91%E5%8F%8B%EF%BC%9A3%E5%88%86%E9%92%9F%E8%B5%B02%E6%AD%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [京哈高速上钉子撒落 数十辆车被扎](https://www.baidu.com/s?wd=%E4%BA%AC%E5%93%88%E9%AB%98%E9%80%9F%E4%B8%8A%E9%92%89%E5%AD%90%E6%92%92%E8%90%BD+%E6%95%B0%E5%8D%81%E8%BE%86%E8%BD%A6%E8%A2%AB%E6%89%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张伟丽把300多斤的奥尼尔一把抱起](https://www.baidu.com/s?wd=%E5%BC%A0%E4%BC%9F%E4%B8%BD%E6%8A%8A300%E5%A4%9A%E6%96%A4%E7%9A%84%E5%A5%A5%E5%B0%BC%E5%B0%94%E4%B8%80%E6%8A%8A%E6%8A%B1%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方回应两老师深夜围殴学生](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%A4%E8%80%81%E5%B8%88%E6%B7%B1%E5%A4%9C%E5%9B%B4%E6%AE%B4%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客称在龙门石窟被挤到怀疑人生](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%A7%B0%E5%9C%A8%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F%E8%A2%AB%E6%8C%A4%E5%88%B0%E6%80%80%E7%96%91%E4%BA%BA%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [头发长会吸收人体很多营养？](https://www.baidu.com/s?wd=%E5%A4%B4%E5%8F%91%E9%95%BF%E4%BC%9A%E5%90%B8%E6%94%B6%E4%BA%BA%E4%BD%93%E5%BE%88%E5%A4%9A%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
