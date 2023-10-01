@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 20:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 20:34:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [一场盛会点燃一座城的热情](https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%BA%E7%9B%9B%E4%BC%9A%E7%82%B9%E7%87%83%E4%B8%80%E5%BA%A7%E5%9F%8E%E7%9A%84%E7%83%AD%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央视国庆晚会](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E5%9B%BD%E5%BA%86%E6%99%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国足亚运队VS韩国](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E4%BA%9A%E8%BF%90%E9%98%9FVS%E9%9F%A9%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [马斯克与德国外交部吵起来了](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E5%BE%B7%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%90%B5%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [淄博“退烧”：回不到五一盛况](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E2%80%9C%E9%80%80%E7%83%A7%E2%80%9D%EF%BC%9A%E5%9B%9E%E4%B8%8D%E5%88%B0%E4%BA%94%E4%B8%80%E7%9B%9B%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [专家称住便宜酒店的时代可能过去了](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%BD%8F%E4%BE%BF%E5%AE%9C%E9%85%92%E5%BA%97%E7%9A%84%E6%97%B6%E4%BB%A3%E5%8F%AF%E8%83%BD%E8%BF%87%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马斯克与德国外交部吵起来了](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E5%BE%B7%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%90%B5%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高中经费紧张号召家长捐款系谣言](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E7%BB%8F%E8%B4%B9%E7%B4%A7%E5%BC%A0%E5%8F%B7%E5%8F%AC%E5%AE%B6%E9%95%BF%E6%8D%90%E6%AC%BE%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [一场盛会点燃一座城的热情](https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%BA%E7%9B%9B%E4%BC%9A%E7%82%B9%E7%87%83%E4%B8%80%E5%BA%A7%E5%9F%8E%E7%9A%84%E7%83%AD%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央视国庆晚会](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E5%9B%BD%E5%BA%86%E6%99%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国足亚运队VS韩国](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E4%BA%9A%E8%BF%90%E9%98%9FVS%E9%9F%A9%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [马斯克与德国外交部吵起来了](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E5%BE%B7%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%90%B5%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [淄博“退烧”：回不到五一盛况](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E2%80%9C%E9%80%80%E7%83%A7%E2%80%9D%EF%BC%9A%E5%9B%9E%E4%B8%8D%E5%88%B0%E4%BA%94%E4%B8%80%E7%9B%9B%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [专家称住便宜酒店的时代可能过去了](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%BD%8F%E4%BE%BF%E5%AE%9C%E9%85%92%E5%BA%97%E7%9A%84%E6%97%B6%E4%BB%A3%E5%8F%AF%E8%83%BD%E8%BF%87%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马斯克与德国外交部吵起来了](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E5%BE%B7%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%90%B5%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高中经费紧张号召家长捐款系谣言](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E7%BB%8F%E8%B4%B9%E7%B4%A7%E5%BC%A0%E5%8F%B7%E5%8F%AC%E5%AE%B6%E9%95%BF%E6%8D%90%E6%AC%BE%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
