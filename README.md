@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 17:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 17:17:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [台媒报道杨幂弘扬中华文化](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%8A%A5%E9%81%93%E6%9D%A8%E5%B9%82%E5%BC%98%E6%89%AC%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [王艺迪vs早田希娜](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%89%BA%E8%BF%AAvs%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [这是黄晓明还是黄小夫](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E9%BB%84%E6%99%93%E6%98%8E%E8%BF%98%E6%98%AF%E9%BB%84%E5%B0%8F%E5%A4%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [腿姐](https://s.weibo.com/weibo?q=%E8%85%BF%E5%A7%90&t=31&band_rank=8&Refer=top)<br />
-9. [YG的G没有了](https://s.weibo.com/weibo?q=%23YG%E7%9A%84G%E6%B2%A1%E6%9C%89%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [YG的G没有了](https://s.weibo.com/weibo?q=%23YG%E7%9A%84G%E6%B2%A1%E6%9C%89%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [腿姐](https://s.weibo.com/weibo?q=%E8%85%BF%E5%A7%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
