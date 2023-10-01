@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 13:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 13:30:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [大学生骑行230公里回家 耗时38小时](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AA%91%E8%A1%8C230%E5%85%AC%E9%87%8C%E5%9B%9E%E5%AE%B6+%E8%80%97%E6%97%B638%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多地游客提前一天排队等着看升旗](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%B8%B8%E5%AE%A2%E6%8F%90%E5%89%8D%E4%B8%80%E5%A4%A9%E6%8E%92%E9%98%9F%E7%AD%89%E7%9D%80%E7%9C%8B%E5%8D%87%E6%97%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [京哈高速上钉子撒落 数十辆车被扎](https://www.baidu.com/s?wd=%E4%BA%AC%E5%93%88%E9%AB%98%E9%80%9F%E4%B8%8A%E9%92%89%E5%AD%90%E6%92%92%E8%90%BD+%E6%95%B0%E5%8D%81%E8%BE%86%E8%BD%A6%E8%A2%AB%E6%89%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被链球砸骨折的裁判生命体征平稳](https://www.baidu.com/s?wd=%E8%A2%AB%E9%93%BE%E7%90%83%E7%A0%B8%E9%AA%A8%E6%8A%98%E7%9A%84%E8%A3%81%E5%88%A4%E7%94%9F%E5%91%BD%E4%BD%93%E5%BE%81%E5%B9%B3%E7%A8%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [长城人山人海 网友：3分钟走2步](https://www.baidu.com/s?wd=%E9%95%BF%E5%9F%8E%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7+%E7%BD%91%E5%8F%8B%EF%BC%9A3%E5%88%86%E9%92%9F%E8%B5%B02%E6%AD%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [头发长会吸收人体很多营养？](https://www.baidu.com/s?wd=%E5%A4%B4%E5%8F%91%E9%95%BF%E4%BC%9A%E5%90%B8%E6%94%B6%E4%BA%BA%E4%BD%93%E5%BE%88%E5%A4%9A%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [大学生骑行230公里回家 耗时38小时](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AA%91%E8%A1%8C230%E5%85%AC%E9%87%8C%E5%9B%9E%E5%AE%B6+%E8%80%97%E6%97%B638%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多地游客提前一天排队等着看升旗](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%B8%B8%E5%AE%A2%E6%8F%90%E5%89%8D%E4%B8%80%E5%A4%A9%E6%8E%92%E9%98%9F%E7%AD%89%E7%9D%80%E7%9C%8B%E5%8D%87%E6%97%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [京哈高速上钉子撒落 数十辆车被扎](https://www.baidu.com/s?wd=%E4%BA%AC%E5%93%88%E9%AB%98%E9%80%9F%E4%B8%8A%E9%92%89%E5%AD%90%E6%92%92%E8%90%BD+%E6%95%B0%E5%8D%81%E8%BE%86%E8%BD%A6%E8%A2%AB%E6%89%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被链球砸骨折的裁判生命体征平稳](https://www.baidu.com/s?wd=%E8%A2%AB%E9%93%BE%E7%90%83%E7%A0%B8%E9%AA%A8%E6%8A%98%E7%9A%84%E8%A3%81%E5%88%A4%E7%94%9F%E5%91%BD%E4%BD%93%E5%BE%81%E5%B9%B3%E7%A8%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [长城人山人海 网友：3分钟走2步](https://www.baidu.com/s?wd=%E9%95%BF%E5%9F%8E%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7+%E7%BD%91%E5%8F%8B%EF%BC%9A3%E5%88%86%E9%92%9F%E8%B5%B02%E6%AD%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [头发长会吸收人体很多营养？](https://www.baidu.com/s?wd=%E5%A4%B4%E5%8F%91%E9%95%BF%E4%BC%9A%E5%90%B8%E6%94%B6%E4%BA%BA%E4%BD%93%E5%BE%88%E5%A4%9A%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
