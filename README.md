@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 21:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 21:29:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [央视国庆晚会](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E5%9B%BD%E5%BA%86%E6%99%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国足亚运队VS韩国](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E4%BA%9A%E8%BF%90%E9%98%9FVS%E9%9F%A9%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友：泰山南天门真有十万“天兵”](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%EF%BC%9A%E6%B3%B0%E5%B1%B1%E5%8D%97%E5%A4%A9%E9%97%A8%E7%9C%9F%E6%9C%89%E5%8D%81%E4%B8%87%E2%80%9C%E5%A4%A9%E5%85%B5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [拜登发文回应政府再“续命”45天](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E6%94%BF%E5%BA%9C%E5%86%8D%E2%80%9C%E7%BB%AD%E5%91%BD%E2%80%9D45%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [人潮汹涌 重庆如何迎客](https://www.baidu.com/s?wd=%E4%BA%BA%E6%BD%AE%E6%B1%B9%E6%B6%8C+%E9%87%8D%E5%BA%86%E5%A6%82%E4%BD%95%E8%BF%8E%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高中经费紧张号召家长捐款系谣言](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E7%BB%8F%E8%B4%B9%E7%B4%A7%E5%BC%A0%E5%8F%B7%E5%8F%AC%E5%AE%B6%E9%95%BF%E6%8D%90%E6%AC%BE%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [央视国庆晚会](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E5%9B%BD%E5%BA%86%E6%99%9A%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国足亚运队VS韩国](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E4%BA%9A%E8%BF%90%E9%98%9FVS%E9%9F%A9%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友：泰山南天门真有十万“天兵”](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%EF%BC%9A%E6%B3%B0%E5%B1%B1%E5%8D%97%E5%A4%A9%E9%97%A8%E7%9C%9F%E6%9C%89%E5%8D%81%E4%B8%87%E2%80%9C%E5%A4%A9%E5%85%B5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [拜登发文回应政府再“续命”45天](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E6%94%BF%E5%BA%9C%E5%86%8D%E2%80%9C%E7%BB%AD%E5%91%BD%E2%80%9D45%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [人潮汹涌 重庆如何迎客](https://www.baidu.com/s?wd=%E4%BA%BA%E6%BD%AE%E6%B1%B9%E6%B6%8C+%E9%87%8D%E5%BA%86%E5%A6%82%E4%BD%95%E8%BF%8E%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高中经费紧张号召家长捐款系谣言](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E7%BB%8F%E8%B4%B9%E7%B4%A7%E5%BC%A0%E5%8F%B7%E5%8F%AC%E5%AE%B6%E9%95%BF%E6%8D%90%E6%AC%BE%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
