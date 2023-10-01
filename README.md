@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 08:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 08:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [新中国成立74周年](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%AD%E5%9B%BD%E6%88%90%E7%AB%8B74%E5%91%A8%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦孙颖莎混双夺冠](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E6%B7%B7%E5%8F%8C%E5%A4%BA%E5%86%A0%23&t=31&band_rank=7&Refer=top)<br />
 8. [苏炳添哭了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [郑恺苗苗相互治愈](https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E8%8B%97%E8%8B%97%E7%9B%B8%E4%BA%92%E6%B2%BB%E6%84%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [易烊千玺也去看了坚如磐石](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%B9%9F%E5%8E%BB%E7%9C%8B%E4%BA%86%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
