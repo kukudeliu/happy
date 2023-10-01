@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 20:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 20:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [腿姐回应](https://s.weibo.com/weibo?q=%E8%85%BF%E5%A7%90%E5%9B%9E%E5%BA%94&t=31&band_rank=6&Refer=top)<br />
 7. [孙颖莎vs申裕斌](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%94%B3%E8%A3%95%E6%96%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [樊振东王楚钦男双夺金](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%94%B7%E5%8F%8C%E5%A4%BA%E9%87%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [孙颖莎进女单决赛](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%BF%9B%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [国足亚运队vs韩国](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%BA%9A%E8%BF%90%E9%98%9Fvs%E9%9F%A9%E5%9B%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
