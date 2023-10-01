@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 12:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 12:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [倪妮 没挡住但摸摸头](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%20%E6%B2%A1%E6%8C%A1%E4%BD%8F%E4%BD%86%E6%91%B8%E6%91%B8%E5%A4%B4&t=31&band_rank=6&Refer=top)<br />
 7. [曾见义勇为的南京胖哥女儿离世](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E7%9A%84%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%E5%A5%B3%E5%84%BF%E7%A6%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [留学时不要乱用emoji](https://s.weibo.com/weibo?q=%E7%95%99%E5%AD%A6%E6%97%B6%E4%B8%8D%E8%A6%81%E4%B9%B1%E7%94%A8emoji&t=31&band_rank=8&Refer=top)<br />
-9. [国庆节快乐](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E8%8A%82%E5%BF%AB%E4%B9%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [张远输了十六年终于赢了一回](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E8%BE%93%E4%BA%86%E5%8D%81%E5%85%AD%E5%B9%B4%E7%BB%88%E4%BA%8E%E8%B5%A2%E4%BA%86%E4%B8%80%E5%9B%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
