@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 02:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 02:12:01</h4></div>
 
 > 微博  
 
-1. [互相都以为是对方婚礼传统习俗](https://s.weibo.com/weibo?q=%23%E4%BA%92%E7%9B%B8%E9%83%BD%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%AF%B9%E6%96%B9%E5%A9%9A%E7%A4%BC%E4%BC%A0%E7%BB%9F%E4%B9%A0%E4%BF%97%23&t=31&band_rank=1&Refer=top)<br />
-2. [吴艳妮回应抢跑](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9B%9E%E5%BA%94%E6%8A%A2%E8%B7%91%23&t=31&band_rank=2&Refer=top)<br />
+1. [吴艳妮回应抢跑](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9B%9E%E5%BA%94%E6%8A%A2%E8%B7%91%23&t=31&band_rank=1&Refer=top)<br />
+2. [互相都以为是对方婚礼传统习俗](https://s.weibo.com/weibo?q=%23%E4%BA%92%E7%9B%B8%E9%83%BD%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%AF%B9%E6%96%B9%E5%A9%9A%E7%A4%BC%E4%BC%A0%E7%BB%9F%E4%B9%A0%E4%BF%97%23&t=31&band_rank=2&Refer=top)<br />
 3. [有一种自豪叫中国](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E8%87%AA%E8%B1%AA%E5%8F%AB%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [孙艺洲 炫了三个兔头也没想明白](https://s.weibo.com/weibo?q=%E5%AD%99%E8%89%BA%E6%B4%B2%20%E7%82%AB%E4%BA%86%E4%B8%89%E4%B8%AA%E5%85%94%E5%A4%B4%E4%B9%9F%E6%B2%A1%E6%83%B3%E6%98%8E%E7%99%BD&t=31&band_rank=4&Refer=top)<br />
 5. [中国队决赛不藏了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%86%B3%E8%B5%9B%E4%B8%8D%E8%97%8F%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
