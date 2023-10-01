@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 16:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 16:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [这是黄晓明还是黄小夫](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E9%BB%84%E6%99%93%E6%98%8E%E8%BF%98%E6%98%AF%E9%BB%84%E5%B0%8F%E5%A4%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [YG的G没有了](https://s.weibo.com/weibo?q=%23YG%E7%9A%84G%E6%B2%A1%E6%9C%89%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [女单半决赛](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%8D%95%E5%8D%8A%E5%86%B3%E8%B5%9B&t=31&band_rank=8&Refer=top)<br />
-9. [何冰娇强忍眼泪](https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%86%B0%E5%A8%87%E5%BC%BA%E5%BF%8D%E7%9C%BC%E6%B3%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [魏大勋 白月光](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8B%20%E7%99%BD%E6%9C%88%E5%85%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
