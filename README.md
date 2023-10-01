@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 14:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 14:46:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [国庆升旗仪式有多震撼](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F%E6%9C%89%E5%A4%9A%E9%9C%87%E6%92%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大学生骑行230公里回家 耗时38小时](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AA%91%E8%A1%8C230%E5%85%AC%E9%87%8C%E5%9B%9E%E5%AE%B6+%E8%80%97%E6%97%B638%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [游客称在龙门石窟被挤到怀疑人生](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%A7%B0%E5%9C%A8%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F%E8%A2%AB%E6%8C%A4%E5%88%B0%E6%80%80%E7%96%91%E4%BA%BA%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苏炳添哭了](https://www.baidu.com/s?wd=%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [长城人山人海 网友：3分钟走2步](https://www.baidu.com/s?wd=%E9%95%BF%E5%9F%8E%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7+%E7%BD%91%E5%8F%8B%EF%BC%9A3%E5%88%86%E9%92%9F%E8%B5%B02%E6%AD%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [头发长会吸收人体很多营养？](https://www.baidu.com/s?wd=%E5%A4%B4%E5%8F%91%E9%95%BF%E4%BC%9A%E5%90%B8%E6%94%B6%E4%BA%BA%E4%BD%93%E5%BE%88%E5%A4%9A%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [国庆升旗仪式有多震撼](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F%E6%9C%89%E5%A4%9A%E9%9C%87%E6%92%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大学生骑行230公里回家 耗时38小时](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%AA%91%E8%A1%8C230%E5%85%AC%E9%87%8C%E5%9B%9E%E5%AE%B6+%E8%80%97%E6%97%B638%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [游客称在龙门石窟被挤到怀疑人生](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%A7%B0%E5%9C%A8%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F%E8%A2%AB%E6%8C%A4%E5%88%B0%E6%80%80%E7%96%91%E4%BA%BA%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苏炳添哭了](https://www.baidu.com/s?wd=%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [长城人山人海 网友：3分钟走2步](https://www.baidu.com/s?wd=%E9%95%BF%E5%9F%8E%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7+%E7%BD%91%E5%8F%8B%EF%BC%9A3%E5%88%86%E9%92%9F%E8%B5%B02%E6%AD%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [头发长会吸收人体很多营养？](https://www.baidu.com/s?wd=%E5%A4%B4%E5%8F%91%E9%95%BF%E4%BC%9A%E5%90%B8%E6%94%B6%E4%BA%BA%E4%BD%93%E5%BE%88%E5%A4%9A%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
