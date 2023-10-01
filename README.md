@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 16:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-01 16:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [YG的G没有了](https://s.weibo.com/weibo?q=%23YG%E7%9A%84G%E6%B2%A1%E6%9C%89%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [腿姐](https://s.weibo.com/weibo?q=%E8%85%BF%E5%A7%90&t=31&band_rank=7&Refer=top)<br />
 8. [魏大勋 白月光](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8B%20%E7%99%BD%E6%9C%88%E5%85%89&t=31&band_rank=8&Refer=top)<br />
-9. [希望国乒双打失利能引起教练组的重视](https://s.weibo.com/weibo?q=%23%E5%B8%8C%E6%9C%9B%E5%9B%BD%E4%B9%92%E5%8F%8C%E6%89%93%E5%A4%B1%E5%88%A9%E8%83%BD%E5%BC%95%E8%B5%B7%E6%95%99%E7%BB%83%E7%BB%84%E7%9A%84%E9%87%8D%E8%A7%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [女单半决赛](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%8D%95%E5%8D%8A%E5%86%B3%E8%B5%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
