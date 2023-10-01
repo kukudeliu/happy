@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 07:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 07:20:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [孙女整理爷爷遗物发现备好的嫁妆](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%A5%B3%E6%95%B4%E7%90%86%E7%88%B7%E7%88%B7%E9%81%97%E7%89%A9%E5%8F%91%E7%8E%B0%E5%A4%87%E5%A5%BD%E7%9A%84%E5%AB%81%E5%A6%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [中国队决赛不藏了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%86%B3%E8%B5%9B%E4%B8%8D%E8%97%8F%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [马琳](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%90%B3&t=31&band_rank=7&Refer=top)<br />
-8. [孙艺洲 炫了三个兔头也没想明白](https://s.weibo.com/weibo?q=%E5%AD%99%E8%89%BA%E6%B4%B2%20%E7%82%AB%E4%BA%86%E4%B8%89%E4%B8%AA%E5%85%94%E5%A4%B4%E4%B9%9F%E6%B2%A1%E6%83%B3%E6%98%8E%E7%99%BD&t=31&band_rank=8&Refer=top)<br />
-9. [菩提祖师才是孙悟空唯一的师父](https://s.weibo.com/weibo?q=%E8%8F%A9%E6%8F%90%E7%A5%96%E5%B8%88%E6%89%8D%E6%98%AF%E5%AD%99%E6%82%9F%E7%A9%BA%E5%94%AF%E4%B8%80%E7%9A%84%E5%B8%88%E7%88%B6&t=31&band_rank=9&Refer=top)<br />
+8. [菩提祖师才是孙悟空唯一的师父](https://s.weibo.com/weibo?q=%E8%8F%A9%E6%8F%90%E7%A5%96%E5%B8%88%E6%89%8D%E6%98%AF%E5%AD%99%E6%82%9F%E7%A9%BA%E5%94%AF%E4%B8%80%E7%9A%84%E5%B8%88%E7%88%B6&t=31&band_rank=8&Refer=top)<br />
+9. [孙艺洲 炫了三个兔头也没想明白](https://s.weibo.com/weibo?q=%E5%AD%99%E8%89%BA%E6%B4%B2%20%E7%82%AB%E4%BA%86%E4%B8%89%E4%B8%AA%E5%85%94%E5%A4%B4%E4%B9%9F%E6%B2%A1%E6%83%B3%E6%98%8E%E7%99%BD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
