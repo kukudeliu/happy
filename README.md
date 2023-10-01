@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 04:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 04:20:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [有一种自豪叫中国](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E8%87%AA%E8%B1%AA%E5%8F%AB%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [你认为多少岁结婚最合适](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%AE%A4%E4%B8%BA%E5%A4%9A%E5%B0%91%E5%B2%81%E7%BB%93%E5%A9%9A%E6%9C%80%E5%90%88%E9%80%82%23&t=31&band_rank=4&Refer=top)<br />
 5. [中国队决赛不藏了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%86%B3%E8%B5%9B%E4%B8%8D%E8%97%8F%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [一盒月饼下去办公室无人生还](https://s.weibo.com/weibo?q=%E4%B8%80%E7%9B%92%E6%9C%88%E9%A5%BC%E4%B8%8B%E5%8E%BB%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%97%A0%E4%BA%BA%E7%94%9F%E8%BF%98&t=31&band_rank=6&Refer=top)<br />
-7. [吴艳妮抢跑](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E6%8A%A2%E8%B7%91%23&t=31&band_rank=7&Refer=top)<br />
+6. [吴艳妮抢跑](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E6%8A%A2%E8%B7%91%23&t=31&band_rank=6&Refer=top)<br />
+7. [一盒月饼下去办公室无人生还](https://s.weibo.com/weibo?q=%E4%B8%80%E7%9B%92%E6%9C%88%E9%A5%BC%E4%B8%8B%E5%8E%BB%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%97%A0%E4%BA%BA%E7%94%9F%E8%BF%98&t=31&band_rank=7&Refer=top)<br />
 8. [互相都以为是对方婚礼传统习俗](https://s.weibo.com/weibo?q=%23%E4%BA%92%E7%9B%B8%E9%83%BD%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%AF%B9%E6%96%B9%E5%A9%9A%E7%A4%BC%E4%BC%A0%E7%BB%9F%E4%B9%A0%E4%BF%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [家有儿女取景地](https://s.weibo.com/weibo?q=%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E5%8F%96%E6%99%AF%E5%9C%B0&t=31&band_rank=9&Refer=top)<br />
+9. [叶诗文曾为克服瓶颈去清华读书沉淀](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E8%AF%97%E6%96%87%E6%9B%BE%E4%B8%BA%E5%85%8B%E6%9C%8D%E7%93%B6%E9%A2%88%E5%8E%BB%E6%B8%85%E5%8D%8E%E8%AF%BB%E4%B9%A6%E6%B2%89%E6%B7%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
