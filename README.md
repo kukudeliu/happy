@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 16:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 16:18:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [向拼搏致敬 为奋斗喝彩](https://www.baidu.com/s?wd=%E5%90%91%E6%8B%BC%E6%90%8F%E8%87%B4%E6%95%AC+%E4%B8%BA%E5%A5%8B%E6%96%97%E5%96%9D%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [8天长假4场婚礼](https://www.baidu.com/s?wd=8%E5%A4%A9%E9%95%BF%E5%81%874%E5%9C%BA%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子以女性口吻编造公公收礼被拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BB%A5%E5%A5%B3%E6%80%A7%E5%8F%A3%E5%90%BB%E7%BC%96%E9%80%A0%E5%85%AC%E5%85%AC%E6%94%B6%E7%A4%BC%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [西北师大保研资格被收回学生发声](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8C%97%E5%B8%88%E5%A4%A7%E4%BF%9D%E7%A0%94%E8%B5%84%E6%A0%BC%E8%A2%AB%E6%94%B6%E5%9B%9E%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [67岁女子高强度旅游后心衰](https://www.baidu.com/s?wd=67%E5%B2%81%E5%A5%B3%E5%AD%90%E9%AB%98%E5%BC%BA%E5%BA%A6%E6%97%85%E6%B8%B8%E5%90%8E%E5%BF%83%E8%A1%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [新人结婚用20台挖掘机搭拱门桥](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E7%94%A820%E5%8F%B0%E6%8C%96%E6%8E%98%E6%9C%BA%E6%90%AD%E6%8B%B1%E9%97%A8%E6%A1%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西安交警辟谣景区儿童被撞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E6%99%AF%E5%8C%BA%E5%84%BF%E7%AB%A5%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [向拼搏致敬 为奋斗喝彩](https://www.baidu.com/s?wd=%E5%90%91%E6%8B%BC%E6%90%8F%E8%87%B4%E6%95%AC+%E4%B8%BA%E5%A5%8B%E6%96%97%E5%96%9D%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [8天长假4场婚礼](https://www.baidu.com/s?wd=8%E5%A4%A9%E9%95%BF%E5%81%874%E5%9C%BA%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子以女性口吻编造公公收礼被拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BB%A5%E5%A5%B3%E6%80%A7%E5%8F%A3%E5%90%BB%E7%BC%96%E9%80%A0%E5%85%AC%E5%85%AC%E6%94%B6%E7%A4%BC%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [西北师大保研资格被收回学生发声](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8C%97%E5%B8%88%E5%A4%A7%E4%BF%9D%E7%A0%94%E8%B5%84%E6%A0%BC%E8%A2%AB%E6%94%B6%E5%9B%9E%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [67岁女子高强度旅游后心衰](https://www.baidu.com/s?wd=67%E5%B2%81%E5%A5%B3%E5%AD%90%E9%AB%98%E5%BC%BA%E5%BA%A6%E6%97%85%E6%B8%B8%E5%90%8E%E5%BF%83%E8%A1%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [新人结婚用20台挖掘机搭拱门桥](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E7%94%A820%E5%8F%B0%E6%8C%96%E6%8E%98%E6%9C%BA%E6%90%AD%E6%8B%B1%E9%97%A8%E6%A1%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西安交警辟谣景区儿童被撞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E6%99%AF%E5%8C%BA%E5%84%BF%E7%AB%A5%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
