@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 09:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 09:17:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [菩提祖师才是孙悟空唯一的师父](https://s.weibo.com/weibo?q=%E8%8F%A9%E6%8F%90%E7%A5%96%E5%B8%88%E6%89%8D%E6%98%AF%E5%AD%99%E6%82%9F%E7%A9%BA%E5%94%AF%E4%B8%80%E7%9A%84%E5%B8%88%E7%88%B6&t=31&band_rank=5&Refer=top)<br />
 6. [台湾奶茶的价格](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%A5%B6%E8%8C%B6%E7%9A%84%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=6&Refer=top)<br />
 7. [我的i人同事竟然是行走的50万](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84i%E4%BA%BA%E5%90%8C%E4%BA%8B%E7%AB%9F%E7%84%B6%E6%98%AF%E8%A1%8C%E8%B5%B0%E7%9A%8450%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [童瑶替顾佳看到了睡莲真迹](https://s.weibo.com/weibo?q=%23%E7%AB%A5%E7%91%B6%E6%9B%BF%E9%A1%BE%E4%BD%B3%E7%9C%8B%E5%88%B0%E4%BA%86%E7%9D%A1%E8%8E%B2%E7%9C%9F%E8%BF%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [沈腾给范丞丞擦嘴把妆卸了](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E7%BB%99%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%93%A6%E5%98%B4%E6%8A%8A%E5%A6%86%E5%8D%B8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [田嘉瑞新造型](https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%98%89%E7%91%9E%E6%96%B0%E9%80%A0%E5%9E%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [童瑶替顾佳看到了睡莲真迹](https://s.weibo.com/weibo?q=%23%E7%AB%A5%E7%91%B6%E6%9B%BF%E9%A1%BE%E4%BD%B3%E7%9C%8B%E5%88%B0%E4%BA%86%E7%9D%A1%E8%8E%B2%E7%9C%9F%E8%BF%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
