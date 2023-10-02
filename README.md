@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 05:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 05:20:01</h4></div>
 
 > 微博  
 
 1. [秦始皇想不到两千多年后六国子民花钱来拜](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%A7%8B%E7%9A%87%E6%83%B3%E4%B8%8D%E5%88%B0%E4%B8%A4%E5%8D%83%E5%A4%9A%E5%B9%B4%E5%90%8E%E5%85%AD%E5%9B%BD%E5%AD%90%E6%B0%91%E8%8A%B1%E9%92%B1%E6%9D%A5%E6%8B%9C%23&t=31&band_rank=1&Refer=top)<br />
 2. [男子含泪跪地吃生母煮的醪糟蛋](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%AB%E6%B3%AA%E8%B7%AA%E5%9C%B0%E5%90%83%E7%94%9F%E6%AF%8D%E7%85%AE%E7%9A%84%E9%86%AA%E7%B3%9F%E8%9B%8B%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国天眼新发现76颗暗弱的偶发脉冲星](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E6%96%B0%E5%8F%91%E7%8E%B076%E9%A2%97%E6%9A%97%E5%BC%B1%E7%9A%84%E5%81%B6%E5%8F%91%E8%84%89%E5%86%B2%E6%98%9F%23&t=31&band_rank=3&Refer=top)<br />
-4. [林双又捉到出轨男](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%8F%8C%E5%8F%88%E6%8D%89%E5%88%B0%E5%87%BA%E8%BD%A8%E7%94%B7%23&t=31&band_rank=4&Refer=top)<br />
-5. [女子泥鞋放酒店走廊一夜变干净](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B3%A5%E9%9E%8B%E6%94%BE%E9%85%92%E5%BA%97%E8%B5%B0%E5%BB%8A%E4%B8%80%E5%A4%9C%E5%8F%98%E5%B9%B2%E5%87%80%23&t=31&band_rank=5&Refer=top)<br />
+4. [女子泥鞋放酒店走廊一夜变干净](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B3%A5%E9%9E%8B%E6%94%BE%E9%85%92%E5%BA%97%E8%B5%B0%E5%BB%8A%E4%B8%80%E5%A4%9C%E5%8F%98%E5%B9%B2%E5%87%80%23&t=31&band_rank=4&Refer=top)<br />
+5. [林双又捉到出轨男](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%8F%8C%E5%8F%88%E6%8D%89%E5%88%B0%E5%87%BA%E8%BD%A8%E7%94%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [王楚钦冠军](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%86%A0%E5%86%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩国选手杭州跟唱中国国歌](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%E6%9D%AD%E5%B7%9E%E8%B7%9F%E5%94%B1%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%AD%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [自律的人好像真的很扛老](https://s.weibo.com/weibo?q=%E8%87%AA%E5%BE%8B%E7%9A%84%E4%BA%BA%E5%A5%BD%E5%83%8F%E7%9C%9F%E7%9A%84%E5%BE%88%E6%89%9B%E8%80%81&t=31&band_rank=8&Refer=top)<br />
