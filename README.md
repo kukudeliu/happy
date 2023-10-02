@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 10:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 10:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [童瑶替顾佳看到了睡莲真迹](https://s.weibo.com/weibo?q=%23%E7%AB%A5%E7%91%B6%E6%9B%BF%E9%A1%BE%E4%BD%B3%E7%9C%8B%E5%88%B0%E4%BA%86%E7%9D%A1%E8%8E%B2%E7%9C%9F%E8%BF%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [金晨白敬亭2分钟眼神戏](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%99%BD%E6%95%AC%E4%BA%AD2%E5%88%86%E9%92%9F%E7%9C%BC%E7%A5%9E%E6%88%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [台湾奶茶的价格](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%A5%B6%E8%8C%B6%E7%9A%84%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [吴艳妮抢跑后为何还能继续比赛](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E6%8A%A2%E8%B7%91%E5%90%8E%E4%B8%BA%E4%BD%95%E8%BF%98%E8%83%BD%E7%BB%A7%E7%BB%AD%E6%AF%94%E8%B5%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国马术亚运历史首金](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%AC%E6%9C%AF%E4%BA%9A%E8%BF%90%E5%8E%86%E5%8F%B2%E9%A6%96%E9%87%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
