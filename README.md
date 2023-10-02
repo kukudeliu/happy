@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 01:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 01:28:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [韩国选手杭州跟唱中国国歌](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%E6%9D%AD%E5%B7%9E%E8%B7%9F%E5%94%B1%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%AD%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [自律的人好像真的很扛老](https://s.weibo.com/weibo?q=%E8%87%AA%E5%BE%8B%E7%9A%84%E4%BA%BA%E5%A5%BD%E5%83%8F%E7%9C%9F%E7%9A%84%E5%BE%88%E6%89%9B%E8%80%81&t=31&band_rank=5&Refer=top)<br />
 6. [王楚钦冠军](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%86%A0%E5%86%9B%23&t=31&band_rank=6&Refer=top)<br />
-7. [DOTA2中国队夺冠](https://s.weibo.com/weibo?q=%23DOTA2%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%86%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [秦始皇想不到两千多年后六国子民花钱来拜](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%A7%8B%E7%9A%87%E6%83%B3%E4%B8%8D%E5%88%B0%E4%B8%A4%E5%8D%83%E5%A4%9A%E5%B9%B4%E5%90%8E%E5%85%AD%E5%9B%BD%E5%AD%90%E6%B0%91%E8%8A%B1%E9%92%B1%E6%9D%A5%E6%8B%9C%23&t=31&band_rank=8&Refer=top)<br />
+7. [秦始皇想不到两千多年后六国子民花钱来拜](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%A7%8B%E7%9A%87%E6%83%B3%E4%B8%8D%E5%88%B0%E4%B8%A4%E5%8D%83%E5%A4%9A%E5%B9%B4%E5%90%8E%E5%85%AD%E5%9B%BD%E5%AD%90%E6%B0%91%E8%8A%B1%E9%92%B1%E6%9D%A5%E6%8B%9C%23&t=31&band_rank=7&Refer=top)<br />
+8. [DOTA2中国队夺冠](https://s.weibo.com/weibo?q=%23DOTA2%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%86%A0%23&t=31&band_rank=8&Refer=top)<br />
 9. [邓亚萍 王楚钦涨球扛住取胜](https://s.weibo.com/weibo?q=%E9%82%93%E4%BA%9A%E8%90%8D%20%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%B6%A8%E7%90%83%E6%89%9B%E4%BD%8F%E5%8F%96%E8%83%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
