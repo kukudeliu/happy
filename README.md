@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 11:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 11:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [珠帘玉幕阵容官宣](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫将出席GQ盛典](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B0%86%E5%87%BA%E5%B8%ADGQ%E7%9B%9B%E5%85%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [林雨薇夺冠后哭着感谢爸爸](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%9B%A8%E8%96%87%E5%A4%BA%E5%86%A0%E5%90%8E%E5%93%AD%E7%9D%80%E6%84%9F%E8%B0%A2%E7%88%B8%E7%88%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩国人 得让全世界都营起来](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%BA%BA%20%E5%BE%97%E8%AE%A9%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E8%90%A5%E8%B5%B7%E6%9D%A5&t=31&band_rank=9&Refer=top)<br />
+9. [童瑶替顾佳看到了睡莲真迹](https://s.weibo.com/weibo?q=%23%E7%AB%A5%E7%91%B6%E6%9B%BF%E9%A1%BE%E4%BD%B3%E7%9C%8B%E5%88%B0%E4%BA%86%E7%9D%A1%E8%8E%B2%E7%9C%9F%E8%BF%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
