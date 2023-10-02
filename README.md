@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 10:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 10:35:01</h4></div>
 
 > 微博  
 
-1. [吴艳妮抢跑后为何还能继续比赛](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E6%8A%A2%E8%B7%91%E5%90%8E%E4%B8%BA%E4%BD%95%E8%BF%98%E8%83%BD%E7%BB%A7%E7%BB%AD%E6%AF%94%E8%B5%9B%23&t=31&band_rank=1&Refer=top)<br />
-2. [苹果承认iPhone15系列运行温度过高](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%BF%E8%AE%A4iPhone15%E7%B3%BB%E5%88%97%E8%BF%90%E8%A1%8C%E6%B8%A9%E5%BA%A6%E8%BF%87%E9%AB%98%23&t=31&band_rank=2&Refer=top)<br />
+1. [苹果承认iPhone15系列运行温度过高](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%BF%E8%AE%A4iPhone15%E7%B3%BB%E5%88%97%E8%BF%90%E8%A1%8C%E6%B8%A9%E5%BA%A6%E8%BF%87%E9%AB%98%23&t=31&band_rank=1&Refer=top)<br />
+2. [吴艳妮抢跑后为何还能继续比赛](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E6%8A%A2%E8%B7%91%E5%90%8E%E4%B8%BA%E4%BD%95%E8%BF%98%E8%83%BD%E7%BB%A7%E7%BB%AD%E6%AF%94%E8%B5%9B%23&t=31&band_rank=2&Refer=top)<br />
 3. [升中国国旗是亚运健儿对祖国的告白](https://s.weibo.com/weibo?q=%23%E5%8D%87%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%97%97%E6%98%AF%E4%BA%9A%E8%BF%90%E5%81%A5%E5%84%BF%E5%AF%B9%E7%A5%96%E5%9B%BD%E7%9A%84%E5%91%8A%E7%99%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [珠帘玉幕](https://s.weibo.com/weibo?q=%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95&t=31&band_rank=4&Refer=top)<br />
 5. [杨紫将出席GQ盛典](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B0%86%E5%87%BA%E5%B8%ADGQ%E7%9B%9B%E5%85%B8%23&t=31&band_rank=5&Refer=top)<br />
