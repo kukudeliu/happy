@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 18:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 18:36:01</h4></div>
 
 > 微博  
 
 1. [韩国速滑队因过早庆祝错失金牌](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%80%9F%E6%BB%91%E9%98%9F%E5%9B%A0%E8%BF%87%E6%97%A9%E5%BA%86%E7%A5%9D%E9%94%99%E5%A4%B1%E9%87%91%E7%89%8C%23&t=31&band_rank=1&Refer=top)<br />
 2. [王楚钦炸毛](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%82%B8%E6%AF%9B%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会进入后半程](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E8%BF%9B%E5%85%A5%E5%90%8E%E5%8D%8A%E7%A8%8B%23&t=31&band_rank=3&Refer=top)<br />
-4. [世界最高楼迪拜塔点亮五星红旗](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E9%AB%98%E6%A5%BC%E8%BF%AA%E6%8B%9C%E5%A1%94%E7%82%B9%E4%BA%AE%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%23&t=31&band_rank=4&Refer=top)<br />
-5. [肿瘤专家返乡1天义诊10多名乡亲](https://s.weibo.com/weibo?q=%23%E8%82%BF%E7%98%A4%E4%B8%93%E5%AE%B6%E8%BF%94%E4%B9%A11%E5%A4%A9%E4%B9%89%E8%AF%8A10%E5%A4%9A%E5%90%8D%E4%B9%A1%E4%BA%B2%23&t=31&band_rank=5&Refer=top)<br />
+4. [肿瘤专家返乡1天义诊10多名乡亲](https://s.weibo.com/weibo?q=%23%E8%82%BF%E7%98%A4%E4%B8%93%E5%AE%B6%E8%BF%94%E4%B9%A11%E5%A4%A9%E4%B9%89%E8%AF%8A10%E5%A4%9A%E5%90%8D%E4%B9%A1%E4%BA%B2%23&t=31&band_rank=4&Refer=top)<br />
+5. [世界最高楼迪拜塔点亮五星红旗](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E9%AB%98%E6%A5%BC%E8%BF%AA%E6%8B%9C%E5%A1%94%E7%82%B9%E4%BA%AE%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [杰尼斯解体](https://s.weibo.com/weibo?q=%E6%9D%B0%E5%B0%BC%E6%96%AF%E8%A7%A3%E4%BD%93&t=31&band_rank=6&Refer=top)<br />
 7. [孙颖莎赛后称早田希娜很出色](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%B5%9B%E5%90%8E%E7%A7%B0%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%E5%BE%88%E5%87%BA%E8%89%B2%23&t=31&band_rank=7&Refer=top)<br />
 8. [妈妈坚持让女子婚礼随2千](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%9D%9A%E6%8C%81%E8%AE%A9%E5%A5%B3%E5%AD%90%E5%A9%9A%E7%A4%BC%E9%9A%8F2%E5%8D%83%23&t=31&band_rank=8&Refer=top)<br />
