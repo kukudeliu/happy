@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 22:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 22:23:01</h4></div>
 
 > 微博  
 
 1. [王楚钦冠军](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%86%A0%E5%86%9B%23&t=31&band_rank=1&Refer=top)<br />
 2. [王楚钦炸毛](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%82%B8%E6%AF%9B%23&t=31&band_rank=2&Refer=top)<br />
 3. [潮涌杭州看亚运](https://s.weibo.com/weibo?q=%23%E6%BD%AE%E6%B6%8C%E6%9D%AD%E5%B7%9E%E7%9C%8B%E4%BA%9A%E8%BF%90%23&t=31&band_rank=3&Refer=top)<br />
-4. [樊振东3比4王楚钦](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%944%E7%8E%8B%E6%A5%9A%E9%92%A6%23&t=31&band_rank=4&Refer=top)<br />
-5. [樊振东没有微博](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%B2%A1%E6%9C%89%E5%BE%AE%E5%8D%9A&t=31&band_rank=5&Refer=top)<br />
+4. [樊振东没有微博](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%B2%A1%E6%9C%89%E5%BE%AE%E5%8D%9A&t=31&band_rank=4&Refer=top)<br />
+5. [樊振东3比4王楚钦](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%944%E7%8E%8B%E6%A5%9A%E9%92%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [王楚钦采访](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%87%87%E8%AE%BF&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦你为什么要在杭州剪头发](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%BD%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%9C%A8%E6%9D%AD%E5%B7%9E%E5%89%AA%E5%A4%B4%E5%8F%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [许昕解说 好笑](https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%95%E8%A7%A3%E8%AF%B4%20%E5%A5%BD%E7%AC%91&t=31&band_rank=8&Refer=top)<br />
