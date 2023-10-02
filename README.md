@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 10:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 10:20:01</h4></div>
 
 > 微博  
 
 1. [吴艳妮抢跑后为何还能继续比赛](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E6%8A%A2%E8%B7%91%E5%90%8E%E4%B8%BA%E4%BD%95%E8%BF%98%E8%83%BD%E7%BB%A7%E7%BB%AD%E6%AF%94%E8%B5%9B%23&t=31&band_rank=1&Refer=top)<br />
-2. [林雨薇赛后谈吴艳妮抢跑](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%9B%A8%E8%96%87%E8%B5%9B%E5%90%8E%E8%B0%88%E5%90%B4%E8%89%B3%E5%A6%AE%E6%8A%A2%E8%B7%91%23&t=31&band_rank=2&Refer=top)<br />
+2. [苹果承认iPhone15系列运行温度过高](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%BF%E8%AE%A4iPhone15%E7%B3%BB%E5%88%97%E8%BF%90%E8%A1%8C%E6%B8%A9%E5%BA%A6%E8%BF%87%E9%AB%98%23&t=31&band_rank=2&Refer=top)<br />
 3. [有一种自豪叫中国](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E8%87%AA%E8%B1%AA%E5%8F%AB%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
-4. [苹果承认iPhone15系列运行温度过高](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%BF%E8%AE%A4iPhone15%E7%B3%BB%E5%88%97%E8%BF%90%E8%A1%8C%E6%B8%A9%E5%BA%A6%E8%BF%87%E9%AB%98%23&t=31&band_rank=4&Refer=top)<br />
+4. [林雨薇赛后谈吴艳妮抢跑](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%9B%A8%E8%96%87%E8%B5%9B%E5%90%8E%E8%B0%88%E5%90%B4%E8%89%B3%E5%A6%AE%E6%8A%A2%E8%B7%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [吴艳妮回应抢跑](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9B%9E%E5%BA%94%E6%8A%A2%E8%B7%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [童瑶替顾佳看到了睡莲真迹](https://s.weibo.com/weibo?q=%23%E7%AB%A5%E7%91%B6%E6%9B%BF%E9%A1%BE%E4%BD%B3%E7%9C%8B%E5%88%B0%E4%BA%86%E7%9D%A1%E8%8E%B2%E7%9C%9F%E8%BF%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [珠帘玉幕](https://s.weibo.com/weibo?q=%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95&t=31&band_rank=7&Refer=top)<br />
