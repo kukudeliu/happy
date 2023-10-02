@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 20:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 20:07:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [乘风追梦 与国同行](https://www.baidu.com/s?wd=%E4%B9%98%E9%A3%8E%E8%BF%BD%E6%A2%A6+%E4%B8%8E%E5%9B%BD%E5%90%8C%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [请广东人民把份子钱打下来](https://www.baidu.com/s?wd=%E8%AF%B7%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%B0%91%E6%8A%8A%E4%BB%BD%E5%AD%90%E9%92%B1%E6%89%93%E4%B8%8B%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女教师被举报十几次听到理由都想笑](https://www.baidu.com/s?wd=%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%8D%81%E5%87%A0%E6%AC%A1%E5%90%AC%E5%88%B0%E7%90%86%E7%94%B1%E9%83%BD%E6%83%B3%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [埃尔多安怒了：对欧盟已毫无期待](https://www.baidu.com/s?wd=%E5%9F%83%E5%B0%94%E5%A4%9A%E5%AE%89%E6%80%92%E4%BA%86%EF%BC%9A%E5%AF%B9%E6%AC%A7%E7%9B%9F%E5%B7%B2%E6%AF%AB%E6%97%A0%E6%9C%9F%E5%BE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [景点好像有1亿人](https://www.baidu.com/s?wd=%E6%99%AF%E7%82%B9%E5%A5%BD%E5%83%8F%E6%9C%891%E4%BA%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [诺奖得主女儿是两届奥运金牌得主](https://www.baidu.com/s?wd=%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E5%A5%B3%E5%84%BF%E6%98%AF%E4%B8%A4%E5%B1%8A%E5%A5%A5%E8%BF%90%E9%87%91%E7%89%8C%E5%BE%97%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [球迷建议男篮“归化”韩旭](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%BB%BA%E8%AE%AE%E7%94%B7%E7%AF%AE%E2%80%9C%E5%BD%92%E5%8C%96%E2%80%9D%E9%9F%A9%E6%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西安交警辟谣景区儿童被撞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E6%99%AF%E5%8C%BA%E5%84%BF%E7%AB%A5%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [乘风追梦 与国同行](https://www.baidu.com/s?wd=%E4%B9%98%E9%A3%8E%E8%BF%BD%E6%A2%A6+%E4%B8%8E%E5%9B%BD%E5%90%8C%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [请广东人民把份子钱打下来](https://www.baidu.com/s?wd=%E8%AF%B7%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%B0%91%E6%8A%8A%E4%BB%BD%E5%AD%90%E9%92%B1%E6%89%93%E4%B8%8B%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女教师被举报十几次听到理由都想笑](https://www.baidu.com/s?wd=%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%8D%81%E5%87%A0%E6%AC%A1%E5%90%AC%E5%88%B0%E7%90%86%E7%94%B1%E9%83%BD%E6%83%B3%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [埃尔多安怒了：对欧盟已毫无期待](https://www.baidu.com/s?wd=%E5%9F%83%E5%B0%94%E5%A4%9A%E5%AE%89%E6%80%92%E4%BA%86%EF%BC%9A%E5%AF%B9%E6%AC%A7%E7%9B%9F%E5%B7%B2%E6%AF%AB%E6%97%A0%E6%9C%9F%E5%BE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [景点好像有1亿人](https://www.baidu.com/s?wd=%E6%99%AF%E7%82%B9%E5%A5%BD%E5%83%8F%E6%9C%891%E4%BA%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [诺奖得主女儿是两届奥运金牌得主](https://www.baidu.com/s?wd=%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E5%A5%B3%E5%84%BF%E6%98%AF%E4%B8%A4%E5%B1%8A%E5%A5%A5%E8%BF%90%E9%87%91%E7%89%8C%E5%BE%97%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [球迷建议男篮“归化”韩旭](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%BB%BA%E8%AE%AE%E7%94%B7%E7%AF%AE%E2%80%9C%E5%BD%92%E5%8C%96%E2%80%9D%E9%9F%A9%E6%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西安交警辟谣景区儿童被撞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E6%99%AF%E5%8C%BA%E5%84%BF%E7%AB%A5%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
