@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 10:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 10:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨紫将出席GQ盛典](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B0%86%E5%87%BA%E5%B8%ADGQ%E7%9B%9B%E5%85%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [珠帘玉幕](https://s.weibo.com/weibo?q=%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95&t=31&band_rank=7&Refer=top)<br />
 8. [我的i人同事竟然是行走的50万](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84i%E4%BA%BA%E5%90%8C%E4%BA%8B%E7%AB%9F%E7%84%B6%E6%98%AF%E8%A1%8C%E8%B5%B0%E7%9A%8450%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [台湾奶茶的价格](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%A5%B6%E8%8C%B6%E7%9A%84%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [林雨薇夺冠后哭着感谢爸爸](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%9B%A8%E8%96%87%E5%A4%BA%E5%86%A0%E5%90%8E%E5%93%AD%E7%9D%80%E6%84%9F%E8%B0%A2%E7%88%B8%E7%88%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
