@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 17:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 17:09:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [国庆楼市：有楼盘10分钟卖了73亿](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E6%A5%BC%E5%B8%82%EF%BC%9A%E6%9C%89%E6%A5%BC%E7%9B%9810%E5%88%86%E9%92%9F%E5%8D%96%E4%BA%8673%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男生景区实名承认背不出滕王阁序](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%99%AF%E5%8C%BA%E5%AE%9E%E5%90%8D%E6%89%BF%E8%AE%A4%E8%83%8C%E4%B8%8D%E5%87%BA%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [新人结婚用20台挖掘机搭拱门桥](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E7%94%A820%E5%8F%B0%E6%8C%96%E6%8E%98%E6%9C%BA%E6%90%AD%E6%8B%B1%E9%97%A8%E6%A1%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“月薪两万，随不起份子”](https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%88%E8%96%AA%E4%B8%A4%E4%B8%87%EF%BC%8C%E9%9A%8F%E4%B8%8D%E8%B5%B7%E4%BB%BD%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [升旗结束3人草坪熟睡被艰难叫醒](https://www.baidu.com/s?wd=%E5%8D%87%E6%97%97%E7%BB%93%E6%9D%9F3%E4%BA%BA%E8%8D%89%E5%9D%AA%E7%86%9F%E7%9D%A1%E8%A2%AB%E8%89%B0%E9%9A%BE%E5%8F%AB%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西安交警辟谣景区儿童被撞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E6%99%AF%E5%8C%BA%E5%84%BF%E7%AB%A5%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [国庆楼市：有楼盘10分钟卖了73亿](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E6%A5%BC%E5%B8%82%EF%BC%9A%E6%9C%89%E6%A5%BC%E7%9B%9810%E5%88%86%E9%92%9F%E5%8D%96%E4%BA%8673%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男生景区实名承认背不出滕王阁序](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%99%AF%E5%8C%BA%E5%AE%9E%E5%90%8D%E6%89%BF%E8%AE%A4%E8%83%8C%E4%B8%8D%E5%87%BA%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [新人结婚用20台挖掘机搭拱门桥](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E7%94%A820%E5%8F%B0%E6%8C%96%E6%8E%98%E6%9C%BA%E6%90%AD%E6%8B%B1%E9%97%A8%E6%A1%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“月薪两万，随不起份子”](https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%88%E8%96%AA%E4%B8%A4%E4%B8%87%EF%BC%8C%E9%9A%8F%E4%B8%8D%E8%B5%B7%E4%BB%BD%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [升旗结束3人草坪熟睡被艰难叫醒](https://www.baidu.com/s?wd=%E5%8D%87%E6%97%97%E7%BB%93%E6%9D%9F3%E4%BA%BA%E8%8D%89%E5%9D%AA%E7%86%9F%E7%9D%A1%E8%A2%AB%E8%89%B0%E9%9A%BE%E5%8F%AB%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西安交警辟谣景区儿童被撞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E6%99%AF%E5%8C%BA%E5%84%BF%E7%AB%A5%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
