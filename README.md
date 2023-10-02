@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 19:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 20:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王楚钦炸毛](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%82%B8%E6%AF%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [孙颖莎赛后称早田希娜很出色](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%B5%9B%E5%90%8E%E7%A7%B0%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%E5%BE%88%E5%87%BA%E8%89%B2%23&t=31&band_rank=7&Refer=top)<br />
 8. [莲花楼](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC&t=31&band_rank=8&Refer=top)<br />
-9. [田志希申裕斌女双夺冠](https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%BF%97%E5%B8%8C%E7%94%B3%E8%A3%95%E6%96%8C%E5%A5%B3%E5%8F%8C%E5%A4%BA%E5%86%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [亚运会乒乓球男单决赛](https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%8D%95%E5%86%B3%E8%B5%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
