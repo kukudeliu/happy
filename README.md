@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 13:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 13:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [苹果承认iPhone15系列运行温度过高](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%BF%E8%AE%A4iPhone15%E7%B3%BB%E5%88%97%E8%BF%90%E8%A1%8C%E6%B8%A9%E5%BA%A6%E8%BF%87%E9%AB%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [孙颖莎赛后称早田希娜很出色](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%B5%9B%E5%90%8E%E7%A7%B0%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%E5%BE%88%E5%87%BA%E8%89%B2%23&t=31&band_rank=7&Refer=top)<br />
 8. [林一沈月失笑开机路透图](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B8%80%E6%B2%88%E6%9C%88%E5%A4%B1%E7%AC%91%E5%BC%80%E6%9C%BA%E8%B7%AF%E9%80%8F%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [夜色尚浅](https://s.weibo.com/weibo?q=%E5%A4%9C%E8%89%B2%E5%B0%9A%E6%B5%85&t=31&band_rank=9&Refer=top)<br />
+9. [前任4冷知识 戒烟会长胖](https://s.weibo.com/weibo?q=%E5%89%8D%E4%BB%BB4%E5%86%B7%E7%9F%A5%E8%AF%86%20%E6%88%92%E7%83%9F%E4%BC%9A%E9%95%BF%E8%83%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
