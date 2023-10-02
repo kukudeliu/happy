@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 11:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 11:51:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [苹果承认iPhone15系列运行温度过高](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%BF%E8%AE%A4iPhone15%E7%B3%BB%E5%88%97%E8%BF%90%E8%A1%8C%E6%B8%A9%E5%BA%A6%E8%BF%87%E9%AB%98%23&t=31&band_rank=4&Refer=top)<br />
 5. [林雨薇赛后谈吴艳妮抢跑](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%9B%A8%E8%96%87%E8%B5%9B%E5%90%8E%E8%B0%88%E5%90%B4%E8%89%B3%E5%A6%AE%E6%8A%A2%E8%B7%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [天府机场会制裁所有卡点的人](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%BA%9C%E6%9C%BA%E5%9C%BA%E4%BC%9A%E5%88%B6%E8%A3%81%E6%89%80%E6%9C%89%E5%8D%A1%E7%82%B9%E7%9A%84%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
-7. [薛之谦回应滁州演唱会特殊观众](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%9B%9E%E5%BA%94%E6%BB%81%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E7%89%B9%E6%AE%8A%E8%A7%82%E4%BC%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [2023年诺贝尔奖今起公布](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E4%BB%8A%E8%B5%B7%E5%85%AC%E5%B8%83%23&t=31&band_rank=8&Refer=top)<br />
+7. [2023年诺贝尔奖今起公布](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E4%BB%8A%E8%B5%B7%E5%85%AC%E5%B8%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [薛之谦回应滁州演唱会特殊观众](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%9B%9E%E5%BA%94%E6%BB%81%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E7%89%B9%E6%AE%8A%E8%A7%82%E4%BC%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [杨紫将出席GQ盛典](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B0%86%E5%87%BA%E5%B8%ADGQ%E7%9B%9B%E5%85%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
