@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 10:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 11:00:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [林雨薇赛后谈吴艳妮抢跑](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%9B%A8%E8%96%87%E8%B5%9B%E5%90%8E%E8%B0%88%E5%90%B4%E8%89%B3%E5%A6%AE%E6%8A%A2%E8%B7%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [金星评价坚如磐石](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%9F%E8%AF%84%E4%BB%B7%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨紫将出席GQ盛典](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B0%86%E5%87%BA%E5%B8%ADGQ%E7%9B%9B%E5%85%B8%23&t=31&band_rank=6&Refer=top)<br />
-7. [珠帘玉幕](https://s.weibo.com/weibo?q=%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95&t=31&band_rank=7&Refer=top)<br />
+7. [林雨薇夺冠后哭着感谢爸爸](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%9B%A8%E8%96%87%E5%A4%BA%E5%86%A0%E5%90%8E%E5%93%AD%E7%9D%80%E6%84%9F%E8%B0%A2%E7%88%B8%E7%88%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [童瑶替顾佳看到了睡莲真迹](https://s.weibo.com/weibo?q=%23%E7%AB%A5%E7%91%B6%E6%9B%BF%E9%A1%BE%E4%BD%B3%E7%9C%8B%E5%88%B0%E4%BA%86%E7%9D%A1%E8%8E%B2%E7%9C%9F%E8%BF%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [林雨薇夺冠后哭着感谢爸爸](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%9B%A8%E8%96%87%E5%A4%BA%E5%86%A0%E5%90%8E%E5%93%AD%E7%9D%80%E6%84%9F%E8%B0%A2%E7%88%B8%E7%88%B8%23&t=31&band_rank=9&Refer=top)<br />
+9. [珠帘玉幕](https://s.weibo.com/weibo?q=%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
