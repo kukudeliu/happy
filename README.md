@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 21:40:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 21:41:02</h4></div>
 
 > 微博  
 
-1. [樊振东vs王楚钦](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E7%8E%8B%E6%A5%9A%E9%92%A6%23&t=31&band_rank=1&Refer=top)<br />
-2. [王楚钦冠军](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%86%A0%E5%86%9B%23&t=31&band_rank=2&Refer=top)<br />
+1. [王楚钦冠军](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%86%A0%E5%86%9B%23&t=31&band_rank=1&Refer=top)<br />
+2. [樊振东vs王楚钦](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E7%8E%8B%E6%A5%9A%E9%92%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [潮涌杭州看亚运](https://s.weibo.com/weibo?q=%23%E6%BD%AE%E6%B6%8C%E6%9D%AD%E5%B7%9E%E7%9C%8B%E4%BA%9A%E8%BF%90%23&t=31&band_rank=3&Refer=top)<br />
 4. [王楚钦炸毛](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%82%B8%E6%AF%9B%23&t=31&band_rank=4&Refer=top)<br />
 5. [樊振东3比4王楚钦](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%944%E7%8E%8B%E6%A5%9A%E9%92%A6%23&t=31&band_rank=5&Refer=top)<br />
