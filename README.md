@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 09:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 09:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [林雨薇，远离喧嚣的冠军](https://www.baidu.com/s?wd=%E6%9E%97%E9%9B%A8%E8%96%87%EF%BC%8C%E8%BF%9C%E7%A6%BB%E5%96%A7%E5%9A%A3%E7%9A%84%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一家族7人确诊马凡氏综合征](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E6%97%8F7%E4%BA%BA%E7%A1%AE%E8%AF%8A%E9%A9%AC%E5%87%A1%E6%B0%8F%E7%BB%BC%E5%90%88%E5%BE%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [这届亚运会是懂放bgm的](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%98%AF%E6%87%82%E6%94%BEbgm%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方回应高速多辆车被扎胎：非人为](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E9%80%9F%E5%A4%9A%E8%BE%86%E8%BD%A6%E8%A2%AB%E6%89%8E%E8%83%8E%EF%BC%9A%E9%9D%9E%E4%BA%BA%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [和平项目中国队夺得金牌](https://www.baidu.com/s?wd=%E5%92%8C%E5%B9%B3%E9%A1%B9%E7%9B%AE%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%BE%97%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣司机因吐痰引冲突被杀](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%8F%B8%E6%9C%BA%E5%9B%A0%E5%90%90%E7%97%B0%E5%BC%95%E5%86%B2%E7%AA%81%E8%A2%AB%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [林雨薇，远离喧嚣的冠军](https://www.baidu.com/s?wd=%E6%9E%97%E9%9B%A8%E8%96%87%EF%BC%8C%E8%BF%9C%E7%A6%BB%E5%96%A7%E5%9A%A3%E7%9A%84%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一家族7人确诊马凡氏综合征](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E6%97%8F7%E4%BA%BA%E7%A1%AE%E8%AF%8A%E9%A9%AC%E5%87%A1%E6%B0%8F%E7%BB%BC%E5%90%88%E5%BE%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [这届亚运会是懂放bgm的](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%98%AF%E6%87%82%E6%94%BEbgm%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方回应高速多辆车被扎胎：非人为](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E9%80%9F%E5%A4%9A%E8%BE%86%E8%BD%A6%E8%A2%AB%E6%89%8E%E8%83%8E%EF%BC%9A%E9%9D%9E%E4%BA%BA%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [和平项目中国队夺得金牌](https://www.baidu.com/s?wd=%E5%92%8C%E5%B9%B3%E9%A1%B9%E7%9B%AE%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%BE%97%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣司机因吐痰引冲突被杀](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%8F%B8%E6%9C%BA%E5%9B%A0%E5%90%90%E7%97%B0%E5%BC%95%E5%86%B2%E7%AA%81%E8%A2%AB%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
