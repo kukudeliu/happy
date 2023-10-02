@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 16:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 16:55:01</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 
 > 百度  
 
-1. [各界群众欢度国庆](https://www.baidu.com/s?wd=%E5%90%84%E7%95%8C%E7%BE%A4%E4%BC%97%E6%AC%A2%E5%BA%A6%E5%9B%BD%E5%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [总书记这样话奋斗](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E6%A0%B7%E8%AF%9D%E5%A5%8B%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [景点好像有1亿人](https://www.baidu.com/s?wd=%E6%99%AF%E7%82%B9%E5%A5%BD%E5%83%8F%E6%9C%891%E4%BA%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [韩国队提前庆祝被中国台北绝杀](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%98%9F%E6%8F%90%E5%89%8D%E5%BA%86%E7%A5%9D%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E7%BB%9D%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [向拼搏致敬 为奋斗喝彩](https://www.baidu.com/s?wd=%E5%90%91%E6%8B%BC%E6%90%8F%E8%87%B4%E6%95%AC+%E4%B8%BA%E5%A5%8B%E6%96%97%E5%96%9D%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [乘风追梦 与国同行](https://www.baidu.com/s?wd=%E4%B9%98%E9%A3%8E%E8%BF%BD%E6%A2%A6+%E4%B8%8E%E5%9B%BD%E5%90%8C%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [8天长假4场婚礼](https://www.baidu.com/s?wd=8%E5%A4%A9%E9%95%BF%E5%81%874%E5%9C%BA%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [成都一养老中心老人深夜被殴打？](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E5%85%BB%E8%80%81%E4%B8%AD%E5%BF%83%E8%80%81%E4%BA%BA%E6%B7%B1%E5%A4%9C%E8%A2%AB%E6%AE%B4%E6%89%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国庆楼市：有楼盘10分钟卖了73亿](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E6%A5%BC%E5%B8%82%EF%BC%9A%E6%9C%89%E6%A5%BC%E7%9B%9810%E5%88%86%E9%92%9F%E5%8D%96%E4%BA%8673%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,10 +29,10 @@
 
 > 哔哩哔哩  
 
-1. [各界群众欢度国庆](https://www.baidu.com/s?wd=%E5%90%84%E7%95%8C%E7%BE%A4%E4%BC%97%E6%AC%A2%E5%BA%A6%E5%9B%BD%E5%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [总书记这样话奋斗](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E6%A0%B7%E8%AF%9D%E5%A5%8B%E6%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [景点好像有1亿人](https://www.baidu.com/s?wd=%E6%99%AF%E7%82%B9%E5%A5%BD%E5%83%8F%E6%9C%891%E4%BA%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [韩国队提前庆祝被中国台北绝杀](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%98%9F%E6%8F%90%E5%89%8D%E5%BA%86%E7%A5%9D%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E7%BB%9D%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [向拼搏致敬 为奋斗喝彩](https://www.baidu.com/s?wd=%E5%90%91%E6%8B%BC%E6%90%8F%E8%87%B4%E6%95%AC+%E4%B8%BA%E5%A5%8B%E6%96%97%E5%96%9D%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [乘风追梦 与国同行](https://www.baidu.com/s?wd=%E4%B9%98%E9%A3%8E%E8%BF%BD%E6%A2%A6+%E4%B8%8E%E5%9B%BD%E5%90%8C%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [8天长假4场婚礼](https://www.baidu.com/s?wd=8%E5%A4%A9%E9%95%BF%E5%81%874%E5%9C%BA%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [成都一养老中心老人深夜被殴打？](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E5%85%BB%E8%80%81%E4%B8%AD%E5%BF%83%E8%80%81%E4%BA%BA%E6%B7%B1%E5%A4%9C%E8%A2%AB%E6%AE%B4%E6%89%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国庆楼市：有楼盘10分钟卖了73亿](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E6%A5%BC%E5%B8%82%EF%BC%9A%E6%9C%89%E6%A5%BC%E7%9B%9810%E5%88%86%E9%92%9F%E5%8D%96%E4%BA%8673%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
