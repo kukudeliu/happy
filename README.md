@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 23:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 23:37:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [樊振东说可惜但不至于遗憾](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%B4%E5%8F%AF%E6%83%9C%E4%BD%86%E4%B8%8D%E8%87%B3%E4%BA%8E%E9%81%97%E6%86%BE%23&t=31&band_rank=4&Refer=top)<br />
 5. [男子含泪跪地吃生母煮的醪糟蛋](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%AB%E6%B3%AA%E8%B7%AA%E5%9C%B0%E5%90%83%E7%94%9F%E6%AF%8D%E7%85%AE%E7%9A%84%E9%86%AA%E7%B3%9F%E8%9B%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [王楚钦炸毛](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%82%B8%E6%AF%9B%23&t=31&band_rank=6&Refer=top)<br />
-7. [樊振东没有微博](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%B2%A1%E6%9C%89%E5%BE%AE%E5%8D%9A&t=31&band_rank=7&Refer=top)<br />
-8. [自律的人好像真的很扛老](https://s.weibo.com/weibo?q=%E8%87%AA%E5%BE%8B%E7%9A%84%E4%BA%BA%E5%A5%BD%E5%83%8F%E7%9C%9F%E7%9A%84%E5%BE%88%E6%89%9B%E8%80%81&t=31&band_rank=8&Refer=top)<br />
+7. [自律的人好像真的很扛老](https://s.weibo.com/weibo?q=%E8%87%AA%E5%BE%8B%E7%9A%84%E4%BA%BA%E5%A5%BD%E5%83%8F%E7%9C%9F%E7%9A%84%E5%BE%88%E6%89%9B%E8%80%81&t=31&band_rank=7&Refer=top)<br />
+8. [樊振东没有微博](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%B2%A1%E6%9C%89%E5%BE%AE%E5%8D%9A&t=31&band_rank=8&Refer=top)<br />
 9. [王楚钦孙颖莎](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
