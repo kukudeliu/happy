@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 01:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 01:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [DOTA2中国队夺冠](https://s.weibo.com/weibo?q=%23DOTA2%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%86%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦冠军](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%86%A0%E5%86%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [邓亚萍 王楚钦涨球扛住取胜](https://s.weibo.com/weibo?q=%E9%82%93%E4%BA%9A%E8%90%8D%20%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%B6%A8%E7%90%83%E6%89%9B%E4%BD%8F%E5%8F%96%E8%83%9C&t=31&band_rank=8&Refer=top)<br />
-9. [樊振东说可惜但不至于遗憾](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%B4%E5%8F%AF%E6%83%9C%E4%BD%86%E4%B8%8D%E8%87%B3%E4%BA%8E%E9%81%97%E6%86%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [莎头永远不会驼背](https://s.weibo.com/weibo?q=%E8%8E%8E%E5%A4%B4%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E9%A9%BC%E8%83%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
