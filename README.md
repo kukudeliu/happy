@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 00:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 00:02:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [请广东人民把份子钱打下来](https://www.baidu.com/s?wd=%E8%AF%B7%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%B0%91%E6%8A%8A%E4%BB%BD%E5%AD%90%E9%92%B1%E6%89%93%E4%B8%8B%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [突击检查！正赌博公职人员拔腿就跑](https://www.baidu.com/s?wd=%E7%AA%81%E5%87%BB%E6%A3%80%E6%9F%A5%EF%BC%81%E6%AD%A3%E8%B5%8C%E5%8D%9A%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E6%8B%94%E8%85%BF%E5%B0%B1%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国跳水梦之队断层式领先](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B7%B3%E6%B0%B4%E6%A2%A6%E4%B9%8B%E9%98%9F%E6%96%AD%E5%B1%82%E5%BC%8F%E9%A2%86%E5%85%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [洪崖洞人气爆棚 龙门石窟可夜游](https://www.baidu.com/s?wd=%E6%B4%AA%E5%B4%96%E6%B4%9E%E4%BA%BA%E6%B0%94%E7%88%86%E6%A3%9A+%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F%E5%8F%AF%E5%A4%9C%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [#DOTA2中国队夺冠#](https://www.baidu.com/s?wd=%23DOTA2%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%86%A0%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西安交警辟谣景区儿童被撞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E6%99%AF%E5%8C%BA%E5%84%BF%E7%AB%A5%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [请广东人民把份子钱打下来](https://www.baidu.com/s?wd=%E8%AF%B7%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%B0%91%E6%8A%8A%E4%BB%BD%E5%AD%90%E9%92%B1%E6%89%93%E4%B8%8B%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [突击检查！正赌博公职人员拔腿就跑](https://www.baidu.com/s?wd=%E7%AA%81%E5%87%BB%E6%A3%80%E6%9F%A5%EF%BC%81%E6%AD%A3%E8%B5%8C%E5%8D%9A%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E6%8B%94%E8%85%BF%E5%B0%B1%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国跳水梦之队断层式领先](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B7%B3%E6%B0%B4%E6%A2%A6%E4%B9%8B%E9%98%9F%E6%96%AD%E5%B1%82%E5%BC%8F%E9%A2%86%E5%85%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [洪崖洞人气爆棚 龙门石窟可夜游](https://www.baidu.com/s?wd=%E6%B4%AA%E5%B4%96%E6%B4%9E%E4%BA%BA%E6%B0%94%E7%88%86%E6%A3%9A+%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F%E5%8F%AF%E5%A4%9C%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [#DOTA2中国队夺冠#](https://www.baidu.com/s?wd=%23DOTA2%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%86%A0%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西安交警辟谣景区儿童被撞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E6%99%AF%E5%8C%BA%E5%84%BF%E7%AB%A5%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
