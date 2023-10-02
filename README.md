@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 04:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 04:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王楚钦冠军](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%86%A0%E5%86%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩国选手杭州跟唱中国国歌](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%E6%9D%AD%E5%B7%9E%E8%B7%9F%E5%94%B1%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%AD%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [DOTA2中国队夺冠](https://s.weibo.com/weibo?q=%23DOTA2%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%86%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [自律的人好像真的很扛老](https://s.weibo.com/weibo?q=%E8%87%AA%E5%BE%8B%E7%9A%84%E4%BA%BA%E5%A5%BD%E5%83%8F%E7%9C%9F%E7%9A%84%E5%BE%88%E6%89%9B%E8%80%81&t=31&band_rank=9&Refer=top)<br />
+9. [樊振东3比4王楚钦](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%944%E7%8E%8B%E6%A5%9A%E9%92%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
