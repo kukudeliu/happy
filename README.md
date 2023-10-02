@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 19:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 19:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女教师被举报十几次听到理由都想笑](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%8D%81%E5%87%A0%E6%AC%A1%E5%90%AC%E5%88%B0%E7%90%86%E7%94%B1%E9%83%BD%E6%83%B3%E7%AC%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [孙颖莎赛后称早田希娜很出色](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%B5%9B%E5%90%8E%E7%A7%B0%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%E5%BE%88%E5%87%BA%E8%89%B2%23&t=31&band_rank=7&Refer=top)<br />
 8. [莲花楼](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC&t=31&band_rank=8&Refer=top)<br />
-9. [杰尼斯解体](https://s.weibo.com/weibo?q=%E6%9D%B0%E5%B0%BC%E6%96%AF%E8%A7%A3%E4%BD%93&t=31&band_rank=9&Refer=top)<br />
+9. [韩国朝鲜女双争金](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%9C%9D%E9%B2%9C%E5%A5%B3%E5%8F%8C%E4%BA%89%E9%87%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
