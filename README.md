@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 15:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 15:45:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [新人结婚用20台挖掘机搭拱门桥](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E7%94%A820%E5%8F%B0%E6%8C%96%E6%8E%98%E6%9C%BA%E6%90%AD%E6%8B%B1%E9%97%A8%E6%A1%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“月薪两万，随不起份子”](https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%88%E8%96%AA%E4%B8%A4%E4%B8%87%EF%BC%8C%E9%9A%8F%E4%B8%8D%E8%B5%B7%E4%BB%BD%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本一公司推出趴着睡的头枕](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E5%85%AC%E5%8F%B8%E6%8E%A8%E5%87%BA%E8%B6%B4%E7%9D%80%E7%9D%A1%E7%9A%84%E5%A4%B4%E6%9E%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [警方辟谣司机因吐痰引冲突被杀](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%8F%B8%E6%9C%BA%E5%9B%A0%E5%90%90%E7%97%B0%E5%BC%95%E5%86%B2%E7%AA%81%E8%A2%AB%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [西安交警辟谣景区儿童被撞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E6%99%AF%E5%8C%BA%E5%84%BF%E7%AB%A5%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [新人结婚用20台挖掘机搭拱门桥](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E7%94%A820%E5%8F%B0%E6%8C%96%E6%8E%98%E6%9C%BA%E6%90%AD%E6%8B%B1%E9%97%A8%E6%A1%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“月薪两万，随不起份子”](https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%88%E8%96%AA%E4%B8%A4%E4%B8%87%EF%BC%8C%E9%9A%8F%E4%B8%8D%E8%B5%B7%E4%BB%BD%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本一公司推出趴着睡的头枕](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E5%85%AC%E5%8F%B8%E6%8E%A8%E5%87%BA%E8%B6%B4%E7%9D%80%E7%9D%A1%E7%9A%84%E5%A4%B4%E6%9E%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [警方辟谣司机因吐痰引冲突被杀](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%8F%B8%E6%9C%BA%E5%9B%A0%E5%90%90%E7%97%B0%E5%BC%95%E5%86%B2%E7%AA%81%E8%A2%AB%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [西安交警辟谣景区儿童被撞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E6%99%AF%E5%8C%BA%E5%84%BF%E7%AB%A5%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
