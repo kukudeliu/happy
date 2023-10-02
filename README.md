@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 16:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 16:31:01</h4></div>
 
 > 微博  
 
 1. [王楚钦晋级决赛](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B&t=31&band_rank=1&Refer=top)<br />
 2. [杰尼斯解体](https://s.weibo.com/weibo?q=%E6%9D%B0%E5%B0%BC%E6%96%AF%E8%A7%A3%E4%BD%93&t=31&band_rank=2&Refer=top)<br />
-3. [升中国国旗是亚运健儿对祖国的告白](https://s.weibo.com/weibo?q=%23%E5%8D%87%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%97%97%E6%98%AF%E4%BA%9A%E8%BF%90%E5%81%A5%E5%84%BF%E5%AF%B9%E7%A5%96%E5%9B%BD%E7%9A%84%E5%91%8A%E7%99%BD%23&t=31&band_rank=3&Refer=top)<br />
+3. [热烈的中国红是我最爱的颜色](https://s.weibo.com/weibo?q=%23%E7%83%AD%E7%83%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BA%A2%E6%98%AF%E6%88%91%E6%9C%80%E7%88%B1%E7%9A%84%E9%A2%9C%E8%89%B2%23&t=31&band_rank=3&Refer=top)<br />
 4. [妈妈坚持让女子婚礼随2千](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%9D%9A%E6%8C%81%E8%AE%A9%E5%A5%B3%E5%AD%90%E5%A9%9A%E7%A4%BC%E9%9A%8F2%E5%8D%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [李嘉琦 永远不要放弃让自己成长](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%98%89%E7%90%A6%20%E6%B0%B8%E8%BF%9C%E4%B8%8D%E8%A6%81%E6%94%BE%E5%BC%83%E8%AE%A9%E8%87%AA%E5%B7%B1%E6%88%90%E9%95%BF&t=31&band_rank=5&Refer=top)<br />
 6. [王皓](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9A%93&t=31&band_rank=6&Refer=top)<br />
-7. [韩国朝鲜女双争金](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%9C%9D%E9%B2%9C%E5%A5%B3%E5%8F%8C%E4%BA%89%E9%87%91%23&t=31&band_rank=7&Refer=top)<br />
+7. [升中国国旗是亚运健儿对祖国的告白](https://s.weibo.com/weibo?q=%23%E5%8D%87%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%97%97%E6%98%AF%E4%BA%9A%E8%BF%90%E5%81%A5%E5%84%BF%E5%AF%B9%E7%A5%96%E5%9B%BD%E7%9A%84%E5%91%8A%E7%99%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [人人人人人我人人人人人](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E6%88%91%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [王楚钦4比2黄镇廷](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A64%E6%AF%942%E9%BB%84%E9%95%87%E5%BB%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [韩国朝鲜女双争金](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%9C%9D%E9%B2%9C%E5%A5%B3%E5%8F%8C%E4%BA%89%E9%87%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
