@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 20:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 20:12:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [发现了鸡鸣寺的顶流](https://www.baidu.com/s?wd=%E5%8F%91%E7%8E%B0%E4%BA%86%E9%B8%A1%E9%B8%A3%E5%AF%BA%E7%9A%84%E9%A1%B6%E6%B5%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [乘风追梦 与国同行](https://www.baidu.com/s?wd=%E4%B9%98%E9%A3%8E%E8%BF%BD%E6%A2%A6+%E4%B8%8E%E5%9B%BD%E5%90%8C%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [请广东人民把份子钱打下来](https://www.baidu.com/s?wd=%E8%AF%B7%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%B0%91%E6%8A%8A%E4%BB%BD%E5%AD%90%E9%92%B1%E6%89%93%E4%B8%8B%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中国恒大宣布申请复牌](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%81%92%E5%A4%A7%E5%AE%A3%E5%B8%83%E7%94%B3%E8%AF%B7%E5%A4%8D%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女教师被举报十几次听到理由都想笑](https://www.baidu.com/s?wd=%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%8D%81%E5%87%A0%E6%AC%A1%E5%90%AC%E5%88%B0%E7%90%86%E7%94%B1%E9%83%BD%E6%83%B3%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [诺奖得主女儿是两届奥运金牌得主](https://www.baidu.com/s?wd=%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E5%A5%B3%E5%84%BF%E6%98%AF%E4%B8%A4%E5%B1%8A%E5%A5%A5%E8%BF%90%E9%87%91%E7%89%8C%E5%BE%97%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女教师被举报十几次听到理由都想笑](https://www.baidu.com/s?wd=%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%8D%81%E5%87%A0%E6%AC%A1%E5%90%AC%E5%88%B0%E7%90%86%E7%94%B1%E9%83%BD%E6%83%B3%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [安徽一俱乐部飞机坠落 机上有乘客](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%B8%80%E4%BF%B1%E4%B9%90%E9%83%A8%E9%A3%9E%E6%9C%BA%E5%9D%A0%E8%90%BD+%E6%9C%BA%E4%B8%8A%E6%9C%89%E4%B9%98%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [景点好像有1亿人](https://www.baidu.com/s?wd=%E6%99%AF%E7%82%B9%E5%A5%BD%E5%83%8F%E6%9C%891%E4%BA%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西安交警辟谣景区儿童被撞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E6%99%AF%E5%8C%BA%E5%84%BF%E7%AB%A5%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [发现了鸡鸣寺的顶流](https://www.baidu.com/s?wd=%E5%8F%91%E7%8E%B0%E4%BA%86%E9%B8%A1%E9%B8%A3%E5%AF%BA%E7%9A%84%E9%A1%B6%E6%B5%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [乘风追梦 与国同行](https://www.baidu.com/s?wd=%E4%B9%98%E9%A3%8E%E8%BF%BD%E6%A2%A6+%E4%B8%8E%E5%9B%BD%E5%90%8C%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [请广东人民把份子钱打下来](https://www.baidu.com/s?wd=%E8%AF%B7%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%B0%91%E6%8A%8A%E4%BB%BD%E5%AD%90%E9%92%B1%E6%89%93%E4%B8%8B%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中国恒大宣布申请复牌](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%81%92%E5%A4%A7%E5%AE%A3%E5%B8%83%E7%94%B3%E8%AF%B7%E5%A4%8D%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女教师被举报十几次听到理由都想笑](https://www.baidu.com/s?wd=%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%8D%81%E5%87%A0%E6%AC%A1%E5%90%AC%E5%88%B0%E7%90%86%E7%94%B1%E9%83%BD%E6%83%B3%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [诺奖得主女儿是两届奥运金牌得主](https://www.baidu.com/s?wd=%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E5%A5%B3%E5%84%BF%E6%98%AF%E4%B8%A4%E5%B1%8A%E5%A5%A5%E8%BF%90%E9%87%91%E7%89%8C%E5%BE%97%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女教师被举报十几次听到理由都想笑](https://www.baidu.com/s?wd=%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%8D%81%E5%87%A0%E6%AC%A1%E5%90%AC%E5%88%B0%E7%90%86%E7%94%B1%E9%83%BD%E6%83%B3%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [安徽一俱乐部飞机坠落 机上有乘客](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%B8%80%E4%BF%B1%E4%B9%90%E9%83%A8%E9%A3%9E%E6%9C%BA%E5%9D%A0%E8%90%BD+%E6%9C%BA%E4%B8%8A%E6%9C%89%E4%B9%98%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [景点好像有1亿人](https://www.baidu.com/s?wd=%E6%99%AF%E7%82%B9%E5%A5%BD%E5%83%8F%E6%9C%891%E4%BA%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西安交警辟谣景区儿童被撞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E6%99%AF%E5%8C%BA%E5%84%BF%E7%AB%A5%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
