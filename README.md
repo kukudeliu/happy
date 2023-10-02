@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 15:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 15:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [樊振东冲击亚运第三金](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%86%B2%E5%87%BB%E4%BA%9A%E8%BF%90%E7%AC%AC%E4%B8%89%E9%87%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [人人人人人我人人人人人](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E6%88%91%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [雷佳音竟然比孙艺洲小一岁](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E4%BD%B3%E9%9F%B3%E7%AB%9F%E7%84%B6%E6%AF%94%E5%AD%99%E8%89%BA%E6%B4%B2%E5%B0%8F%E4%B8%80%E5%B2%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [丞磊卢昱晓澳门芭莎大片](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8D%A2%E6%98%B1%E6%99%93%E6%BE%B3%E9%97%A8%E8%8A%AD%E8%8E%8E%E5%A4%A7%E7%89%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [获得诺贝尔奖的11位华人](https://s.weibo.com/weibo?q=%E8%8E%B7%E5%BE%97%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E7%9A%8411%E4%BD%8D%E5%8D%8E%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
