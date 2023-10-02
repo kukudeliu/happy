@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 20:40:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 20:41:02</h4></div>
 
 > 微博  
 
-1. [女教师被举报十几次听到理由都想笑](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%8D%81%E5%87%A0%E6%AC%A1%E5%90%AC%E5%88%B0%E7%90%86%E7%94%B1%E9%83%BD%E6%83%B3%E7%AC%91%23&t=31&band_rank=1&Refer=top)<br />
-2. [樊振东vs王楚钦](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E7%8E%8B%E6%A5%9A%E9%92%A6%23&t=31&band_rank=2&Refer=top)<br />
+1. [樊振东vs王楚钦](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E7%8E%8B%E6%A5%9A%E9%92%A6%23&t=31&band_rank=1&Refer=top)<br />
+2. [女教师被举报十几次听到理由都想笑](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%8D%81%E5%87%A0%E6%AC%A1%E5%90%AC%E5%88%B0%E7%90%86%E7%94%B1%E9%83%BD%E6%83%B3%E7%AC%91%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会进入后半程](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E8%BF%9B%E5%85%A5%E5%90%8E%E5%8D%8A%E7%A8%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [王楚钦炸毛](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%82%B8%E6%AF%9B%23&t=31&band_rank=4&Refer=top)<br />
 5. [亚运会乒乓球男单决赛](https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%8D%95%E5%86%B3%E8%B5%9B&t=31&band_rank=5&Refer=top)<br />
