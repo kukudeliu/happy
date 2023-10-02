@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 13:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 13:14:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [升中国国旗是亚运健儿对祖国的告白](https://s.weibo.com/weibo?q=%23%E5%8D%87%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%97%97%E6%98%AF%E4%BA%9A%E8%BF%90%E5%81%A5%E5%84%BF%E5%AF%B9%E7%A5%96%E5%9B%BD%E7%9A%84%E5%91%8A%E7%99%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [皓嫣二搭](https://s.weibo.com/weibo?q=%E7%9A%93%E5%AB%A3%E4%BA%8C%E6%90%AD&t=31&band_rank=4&Refer=top)<br />
 5. [林雨薇说没有吴艳妮她就跑不快](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%9B%A8%E8%96%87%E8%AF%B4%E6%B2%A1%E6%9C%89%E5%90%B4%E8%89%B3%E5%A6%AE%E5%A5%B9%E5%B0%B1%E8%B7%91%E4%B8%8D%E5%BF%AB%23&t=31&band_rank=5&Refer=top)<br />
-6. [孙颖莎赛后称早田希娜很出色](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%B5%9B%E5%90%8E%E7%A7%B0%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%E5%BE%88%E5%87%BA%E8%89%B2%23&t=31&band_rank=6&Refer=top)<br />
-7. [苹果承认iPhone15系列运行温度过高](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%BF%E8%AE%A4iPhone15%E7%B3%BB%E5%88%97%E8%BF%90%E8%A1%8C%E6%B8%A9%E5%BA%A6%E8%BF%87%E9%AB%98%23&t=31&band_rank=7&Refer=top)<br />
+6. [苹果承认iPhone15系列运行温度过高](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%BF%E8%AE%A4iPhone15%E7%B3%BB%E5%88%97%E8%BF%90%E8%A1%8C%E6%B8%A9%E5%BA%A6%E8%BF%87%E9%AB%98%23&t=31&band_rank=6&Refer=top)<br />
+7. [孙颖莎赛后称早田希娜很出色](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%B5%9B%E5%90%8E%E7%A7%B0%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%E5%BE%88%E5%87%BA%E8%89%B2%23&t=31&band_rank=7&Refer=top)<br />
 8. [人人人人人我人人人人人](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E6%88%91%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [前任4冷知识 戒烟会长胖](https://s.weibo.com/weibo?q=%E5%89%8D%E4%BB%BB4%E5%86%B7%E7%9F%A5%E8%AF%86%20%E6%88%92%E7%83%9F%E4%BC%9A%E9%95%BF%E8%83%96&t=31&band_rank=9&Refer=top)<br />
 
