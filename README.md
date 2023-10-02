@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 23:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 23:44:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [请广东人民把份子钱打下来](https://www.baidu.com/s?wd=%E8%AF%B7%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%B0%91%E6%8A%8A%E4%BB%BD%E5%AD%90%E9%92%B1%E6%89%93%E4%B8%8B%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [肿瘤专家回应假期回老家义诊](https://www.baidu.com/s?wd=%E8%82%BF%E7%98%A4%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E5%81%87%E6%9C%9F%E5%9B%9E%E8%80%81%E5%AE%B6%E4%B9%89%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [突击检查！正赌博公职人员拔腿就跑](https://www.baidu.com/s?wd=%E7%AA%81%E5%87%BB%E6%A3%80%E6%9F%A5%EF%BC%81%E6%AD%A3%E8%B5%8C%E5%8D%9A%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E6%8B%94%E8%85%BF%E5%B0%B1%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [假期到底是哪个城市空了](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E5%88%B0%E5%BA%95%E6%98%AF%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%E7%A9%BA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国庆楼市：有楼盘10分钟卖了73亿](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E6%A5%BC%E5%B8%82%EF%BC%9A%E6%9C%89%E6%A5%BC%E7%9B%9810%E5%88%86%E9%92%9F%E5%8D%96%E4%BA%8673%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西安交警辟谣景区儿童被撞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E6%99%AF%E5%8C%BA%E5%84%BF%E7%AB%A5%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [请广东人民把份子钱打下来](https://www.baidu.com/s?wd=%E8%AF%B7%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%B0%91%E6%8A%8A%E4%BB%BD%E5%AD%90%E9%92%B1%E6%89%93%E4%B8%8B%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [肿瘤专家回应假期回老家义诊](https://www.baidu.com/s?wd=%E8%82%BF%E7%98%A4%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E5%81%87%E6%9C%9F%E5%9B%9E%E8%80%81%E5%AE%B6%E4%B9%89%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [突击检查！正赌博公职人员拔腿就跑](https://www.baidu.com/s?wd=%E7%AA%81%E5%87%BB%E6%A3%80%E6%9F%A5%EF%BC%81%E6%AD%A3%E8%B5%8C%E5%8D%9A%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E6%8B%94%E8%85%BF%E5%B0%B1%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [假期到底是哪个城市空了](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E5%88%B0%E5%BA%95%E6%98%AF%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%E7%A9%BA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国庆楼市：有楼盘10分钟卖了73亿](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E6%A5%BC%E5%B8%82%EF%BC%9A%E6%9C%89%E6%A5%BC%E7%9B%9810%E5%88%86%E9%92%9F%E5%8D%96%E4%BA%8673%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西安交警辟谣景区儿童被撞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E6%99%AF%E5%8C%BA%E5%84%BF%E7%AB%A5%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
