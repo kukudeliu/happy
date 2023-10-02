@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 08:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 08:57:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [寺庙禁自带香：劣质香伤师父身体](https://www.baidu.com/s?wd=%E5%AF%BA%E5%BA%99%E7%A6%81%E8%87%AA%E5%B8%A6%E9%A6%99%EF%BC%9A%E5%8A%A3%E8%B4%A8%E9%A6%99%E4%BC%A4%E5%B8%88%E7%88%B6%E8%BA%AB%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子高铁占座不听劝掌掴乘警](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E5%8D%A0%E5%BA%A7%E4%B8%8D%E5%90%AC%E5%8A%9D%E6%8E%8C%E6%8E%B4%E4%B9%98%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [林雨薇，远离喧嚣的冠军](https://www.baidu.com/s?wd=%E6%9E%97%E9%9B%A8%E8%96%87%EF%BC%8C%E8%BF%9C%E7%A6%BB%E5%96%A7%E5%9A%A3%E7%9A%84%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女儿把录警通知书带给牺牲父亲](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E6%8A%8A%E5%BD%95%E8%AD%A6%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%B8%A6%E7%BB%99%E7%89%BA%E7%89%B2%E7%88%B6%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友：泰山南天门真有十万“天兵”](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%EF%BC%9A%E6%B3%B0%E5%B1%B1%E5%8D%97%E5%A4%A9%E9%97%A8%E7%9C%9F%E6%9C%89%E5%8D%81%E4%B8%87%E2%80%9C%E5%A4%A9%E5%85%B5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣司机因吐痰引冲突被杀](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%8F%B8%E6%9C%BA%E5%9B%A0%E5%90%90%E7%97%B0%E5%BC%95%E5%86%B2%E7%AA%81%E8%A2%AB%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [寺庙禁自带香：劣质香伤师父身体](https://www.baidu.com/s?wd=%E5%AF%BA%E5%BA%99%E7%A6%81%E8%87%AA%E5%B8%A6%E9%A6%99%EF%BC%9A%E5%8A%A3%E8%B4%A8%E9%A6%99%E4%BC%A4%E5%B8%88%E7%88%B6%E8%BA%AB%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子高铁占座不听劝掌掴乘警](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E5%8D%A0%E5%BA%A7%E4%B8%8D%E5%90%AC%E5%8A%9D%E6%8E%8C%E6%8E%B4%E4%B9%98%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [林雨薇，远离喧嚣的冠军](https://www.baidu.com/s?wd=%E6%9E%97%E9%9B%A8%E8%96%87%EF%BC%8C%E8%BF%9C%E7%A6%BB%E5%96%A7%E5%9A%A3%E7%9A%84%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女儿把录警通知书带给牺牲父亲](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E6%8A%8A%E5%BD%95%E8%AD%A6%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%B8%A6%E7%BB%99%E7%89%BA%E7%89%B2%E7%88%B6%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友：泰山南天门真有十万“天兵”](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%EF%BC%9A%E6%B3%B0%E5%B1%B1%E5%8D%97%E5%A4%A9%E9%97%A8%E7%9C%9F%E6%9C%89%E5%8D%81%E4%B8%87%E2%80%9C%E5%A4%A9%E5%85%B5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣司机因吐痰引冲突被杀](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%8F%B8%E6%9C%BA%E5%9B%A0%E5%90%90%E7%97%B0%E5%BC%95%E5%86%B2%E7%AA%81%E8%A2%AB%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
