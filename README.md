@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 18:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 18:10:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [韩国队提前庆祝被中国台北绝杀](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%98%9F%E6%8F%90%E5%89%8D%E5%BA%86%E7%A5%9D%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E7%BB%9D%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国庆楼市：有楼盘10分钟卖了73亿](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E6%A5%BC%E5%B8%82%EF%BC%9A%E6%9C%89%E6%A5%BC%E7%9B%9810%E5%88%86%E9%92%9F%E5%8D%96%E4%BA%8673%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [整个假期已经没有快乐可言](https://www.baidu.com/s?wd=%E6%95%B4%E4%B8%AA%E5%81%87%E6%9C%9F%E5%B7%B2%E7%BB%8F%E6%B2%A1%E6%9C%89%E5%BF%AB%E4%B9%90%E5%8F%AF%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方通报女子高铁占座掌掴乘警](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E5%8D%A0%E5%BA%A7%E6%8E%8C%E6%8E%B4%E4%B9%98%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生景区实名承认背不出滕王阁序](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%99%AF%E5%8C%BA%E5%AE%9E%E5%90%8D%E6%89%BF%E8%AE%A4%E8%83%8C%E4%B8%8D%E5%87%BA%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西安交警辟谣景区儿童被撞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E6%99%AF%E5%8C%BA%E5%84%BF%E7%AB%A5%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [韩国队提前庆祝被中国台北绝杀](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%98%9F%E6%8F%90%E5%89%8D%E5%BA%86%E7%A5%9D%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E7%BB%9D%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国庆楼市：有楼盘10分钟卖了73亿](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E6%A5%BC%E5%B8%82%EF%BC%9A%E6%9C%89%E6%A5%BC%E7%9B%9810%E5%88%86%E9%92%9F%E5%8D%96%E4%BA%8673%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [整个假期已经没有快乐可言](https://www.baidu.com/s?wd=%E6%95%B4%E4%B8%AA%E5%81%87%E6%9C%9F%E5%B7%B2%E7%BB%8F%E6%B2%A1%E6%9C%89%E5%BF%AB%E4%B9%90%E5%8F%AF%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方通报女子高铁占座掌掴乘警](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E5%8D%A0%E5%BA%A7%E6%8E%8C%E6%8E%B4%E4%B9%98%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生景区实名承认背不出滕王阁序](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%99%AF%E5%8C%BA%E5%AE%9E%E5%90%8D%E6%89%BF%E8%AE%A4%E8%83%8C%E4%B8%8D%E5%87%BA%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西安交警辟谣景区儿童被撞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E6%99%AF%E5%8C%BA%E5%84%BF%E7%AB%A5%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
