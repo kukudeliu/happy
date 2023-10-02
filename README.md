@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 20:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 20:40:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [樊振东王楚钦单打决赛放简单爱](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8D%95%E6%89%93%E5%86%B3%E8%B5%9B%E6%94%BE%E7%AE%80%E5%8D%95%E7%88%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩国速滑队因过早庆祝错失金牌](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%80%9F%E6%BB%91%E9%98%9F%E5%9B%A0%E8%BF%87%E6%97%A9%E5%BA%86%E7%A5%9D%E9%94%99%E5%A4%B1%E9%87%91%E7%89%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [樊振东王楚钦会师男单决赛](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%BC%9A%E5%B8%88%E7%94%B7%E5%8D%95%E5%86%B3%E8%B5%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [莲花楼](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC&t=31&band_rank=9&Refer=top)<br />
+9. [樊振东晚上减肥时点甜品](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%99%9A%E4%B8%8A%E5%87%8F%E8%82%A5%E6%97%B6%E7%82%B9%E7%94%9C%E5%93%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
