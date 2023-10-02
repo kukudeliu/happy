@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 16:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 16:14:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [韩国队提前庆祝被中国台北绝杀](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%98%9F%E6%8F%90%E5%89%8D%E5%BA%86%E7%A5%9D%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E7%BB%9D%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [向拼搏致敬 为奋斗喝彩](https://www.baidu.com/s?wd=%E5%90%91%E6%8B%BC%E6%90%8F%E8%87%B4%E6%95%AC+%E4%B8%BA%E5%A5%8B%E6%96%97%E5%96%9D%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [8天长假4场婚礼](https://www.baidu.com/s?wd=8%E5%A4%A9%E9%95%BF%E5%81%874%E5%9C%BA%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [新人结婚用20台挖掘机搭拱门桥](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E7%94%A820%E5%8F%B0%E6%8C%96%E6%8E%98%E6%9C%BA%E6%90%AD%E6%8B%B1%E9%97%A8%E6%A1%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [“月薪两万，随不起份子”](https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%88%E8%96%AA%E4%B8%A4%E4%B8%87%EF%BC%8C%E9%9A%8F%E4%B8%8D%E8%B5%B7%E4%BB%BD%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [升旗结束3人草坪熟睡被艰难叫醒](https://www.baidu.com/s?wd=%E5%8D%87%E6%97%97%E7%BB%93%E6%9D%9F3%E4%BA%BA%E8%8D%89%E5%9D%AA%E7%86%9F%E7%9D%A1%E8%A2%AB%E8%89%B0%E9%9A%BE%E5%8F%AB%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子以女性口吻编造公公收礼被拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BB%A5%E5%A5%B3%E6%80%A7%E5%8F%A3%E5%90%BB%E7%BC%96%E9%80%A0%E5%85%AC%E5%85%AC%E6%94%B6%E7%A4%BC%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [西北师大保研资格被收回学生发声](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8C%97%E5%B8%88%E5%A4%A7%E4%BF%9D%E7%A0%94%E8%B5%84%E6%A0%BC%E8%A2%AB%E6%94%B6%E5%9B%9E%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新人结婚用20台挖掘机搭拱门桥](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E7%94%A820%E5%8F%B0%E6%8C%96%E6%8E%98%E6%9C%BA%E6%90%AD%E6%8B%B1%E9%97%A8%E6%A1%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西安交警辟谣景区儿童被撞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E6%99%AF%E5%8C%BA%E5%84%BF%E7%AB%A5%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [韩国队提前庆祝被中国台北绝杀](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%98%9F%E6%8F%90%E5%89%8D%E5%BA%86%E7%A5%9D%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E7%BB%9D%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [向拼搏致敬 为奋斗喝彩](https://www.baidu.com/s?wd=%E5%90%91%E6%8B%BC%E6%90%8F%E8%87%B4%E6%95%AC+%E4%B8%BA%E5%A5%8B%E6%96%97%E5%96%9D%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [8天长假4场婚礼](https://www.baidu.com/s?wd=8%E5%A4%A9%E9%95%BF%E5%81%874%E5%9C%BA%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [新人结婚用20台挖掘机搭拱门桥](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E7%94%A820%E5%8F%B0%E6%8C%96%E6%8E%98%E6%9C%BA%E6%90%AD%E6%8B%B1%E9%97%A8%E6%A1%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [“月薪两万，随不起份子”](https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%88%E8%96%AA%E4%B8%A4%E4%B8%87%EF%BC%8C%E9%9A%8F%E4%B8%8D%E8%B5%B7%E4%BB%BD%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [升旗结束3人草坪熟睡被艰难叫醒](https://www.baidu.com/s?wd=%E5%8D%87%E6%97%97%E7%BB%93%E6%9D%9F3%E4%BA%BA%E8%8D%89%E5%9D%AA%E7%86%9F%E7%9D%A1%E8%A2%AB%E8%89%B0%E9%9A%BE%E5%8F%AB%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子以女性口吻编造公公收礼被拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BB%A5%E5%A5%B3%E6%80%A7%E5%8F%A3%E5%90%BB%E7%BC%96%E9%80%A0%E5%85%AC%E5%85%AC%E6%94%B6%E7%A4%BC%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [西北师大保研资格被收回学生发声](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8C%97%E5%B8%88%E5%A4%A7%E4%BF%9D%E7%A0%94%E8%B5%84%E6%A0%BC%E8%A2%AB%E6%94%B6%E5%9B%9E%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新人结婚用20台挖掘机搭拱门桥](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E7%94%A820%E5%8F%B0%E6%8C%96%E6%8E%98%E6%9C%BA%E6%90%AD%E6%8B%B1%E9%97%A8%E6%A1%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西安交警辟谣景区儿童被撞](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E6%99%AF%E5%8C%BA%E5%84%BF%E7%AB%A5%E8%A2%AB%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
