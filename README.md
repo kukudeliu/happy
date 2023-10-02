@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 16:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-02 17:00:01</h4></div>
 
 > 微博  
 
 1. [杰尼斯解体](https://s.weibo.com/weibo?q=%E6%9D%B0%E5%B0%BC%E6%96%AF%E8%A7%A3%E4%BD%93&t=31&band_rank=1&Refer=top)<br />
-2. [王楚钦晋级决赛](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B&t=31&band_rank=2&Refer=top)<br />
+2. [妈妈坚持让女子婚礼随2千](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%9D%9A%E6%8C%81%E8%AE%A9%E5%A5%B3%E5%AD%90%E5%A9%9A%E7%A4%BC%E9%9A%8F2%E5%8D%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [上下五千年一笔一画写中国](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E4%B8%8B%E4%BA%94%E5%8D%83%E5%B9%B4%E4%B8%80%E7%AC%94%E4%B8%80%E7%94%BB%E5%86%99%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
-4. [妈妈坚持让女子婚礼随2千](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%9D%9A%E6%8C%81%E8%AE%A9%E5%A5%B3%E5%AD%90%E5%A9%9A%E7%A4%BC%E9%9A%8F2%E5%8D%83%23&t=31&band_rank=4&Refer=top)<br />
+4. [王楚钦晋级决赛](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B&t=31&band_rank=4&Refer=top)<br />
 5. [网友p的孙颖莎长发的样子](https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8Bp%E7%9A%84%E5%AD%99%E9%A2%96%E8%8E%8E%E9%95%BF%E5%8F%91%E7%9A%84%E6%A0%B7%E5%AD%90&t=31&band_rank=5&Refer=top)<br />
 6. [人人人人人我人人人人人](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E6%88%91%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩国朝鲜女双争金](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%9C%9D%E9%B2%9C%E5%A5%B3%E5%8F%8C%E4%BA%89%E9%87%91%23&t=31&band_rank=7&Refer=top)<br />
