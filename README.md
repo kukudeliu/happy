@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 17:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 17:06:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [王一博 香奈儿](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E9%A6%99%E5%A5%88%E5%84%BF&t=31&band_rank=4&Refer=top)<br />
 5. [店主因百份佛跳墙订单损失11万](https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E5%9B%A0%E7%99%BE%E4%BB%BD%E4%BD%9B%E8%B7%B3%E5%A2%99%E8%AE%A2%E5%8D%95%E6%8D%9F%E5%A4%B111%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [青云志](https://s.weibo.com/weibo?q=%E9%9D%92%E4%BA%91%E5%BF%97&t=31&band_rank=6&Refer=top)<br />
-7. [樊振东回应国乒开会梗](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%B9%92%E5%BC%80%E4%BC%9A%E6%A2%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [全红婵跳水看呆了外国网友](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E6%B0%B4%E7%9C%8B%E5%91%86%E4%BA%86%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [苏炳添的奥运铜牌来了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E7%9A%84%E5%A5%A5%E8%BF%90%E9%93%9C%E7%89%8C%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+7. [樊振东退赛](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%80%80%E8%B5%9B&t=31&band_rank=7&Refer=top)<br />
+8. [樊振东回应国乒开会梗](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%B9%92%E5%BC%80%E4%BC%9A%E6%A2%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [全红婵跳水看呆了外国网友](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E6%B0%B4%E7%9C%8B%E5%91%86%E4%BA%86%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
