@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 01:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 01:57:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [我P都不敢P成这样](https://s.weibo.com/weibo?q=%23%E6%88%91P%E9%83%BD%E4%B8%8D%E6%95%A2P%E6%88%90%E8%BF%99%E6%A0%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [第一次见男女主恋爱互骗20多集的](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E7%94%B7%E5%A5%B3%E4%B8%BB%E6%81%8B%E7%88%B1%E4%BA%92%E9%AA%9720%E5%A4%9A%E9%9B%86%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [满江红](https://s.weibo.com/weibo?q=%E6%BB%A1%E6%B1%9F%E7%BA%A2&t=31&band_rank=7&Refer=top)<br />
-8. [沉浸式感觉金秋神州绝美风光](https://s.weibo.com/weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%84%9F%E8%A7%89%E9%87%91%E7%A7%8B%E7%A5%9E%E5%B7%9E%E7%BB%9D%E7%BE%8E%E9%A3%8E%E5%85%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [日媒说的2000万中国游客在哪](https://s.weibo.com/weibo?q=%E6%97%A5%E5%AA%92%E8%AF%B4%E7%9A%842000%E4%B8%87%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%93%AA&t=31&band_rank=9&Refer=top)<br />
+8. [日媒说的2000万中国游客在哪](https://s.weibo.com/weibo?q=%E6%97%A5%E5%AA%92%E8%AF%B4%E7%9A%842000%E4%B8%87%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%93%AA&t=31&band_rank=8&Refer=top)<br />
+9. [全红婵跳水看呆了外国网友](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E6%B0%B4%E7%9C%8B%E5%91%86%E4%BA%86%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
