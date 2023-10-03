@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 20:19:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 20:20:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [全红婵跳水看呆了外国网友](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E6%B0%B4%E7%9C%8B%E5%91%86%E4%BA%86%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [全红婵10101010101010截图打卡](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B510101010101010%E6%88%AA%E5%9B%BE%E6%89%93%E5%8D%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [王一博 香奈儿](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E9%A6%99%E5%A5%88%E5%84%BF&t=31&band_rank=7&Refer=top)<br />
-8. [日媒说的2000万中国游客在哪](https://s.weibo.com/weibo?q=%E6%97%A5%E5%AA%92%E8%AF%B4%E7%9A%842000%E4%B8%87%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%93%AA&t=31&band_rank=8&Refer=top)<br />
-9. [张婧仪累了我替你演两集](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E7%B4%AF%E4%BA%86%E6%88%91%E6%9B%BF%E4%BD%A0%E6%BC%94%E4%B8%A4%E9%9B%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [全红婵安慰陈芋汐](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%AE%89%E6%85%B0%E9%99%88%E8%8A%8B%E6%B1%90%23&t=31&band_rank=8&Refer=top)<br />
+9. [日媒说的2000万中国游客在哪](https://s.weibo.com/weibo?q=%E6%97%A5%E5%AA%92%E8%AF%B4%E7%9A%842000%E4%B8%87%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%93%AA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
