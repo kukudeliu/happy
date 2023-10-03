@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 19:00:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 19:01:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [全红婵跳水看呆了外国网友](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E6%B0%B4%E7%9C%8B%E5%91%86%E4%BA%86%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [樊振东退赛](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%80%80%E8%B5%9B&t=31&band_rank=7&Refer=top)<br />
 8. [207C 失误](https://s.weibo.com/weibo?q=207C%20%E5%A4%B1%E8%AF%AF&t=31&band_rank=8&Refer=top)<br />
-9. [国旗掉地面辅警小心捡起放口袋](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%97%97%E6%8E%89%E5%9C%B0%E9%9D%A2%E8%BE%85%E8%AD%A6%E5%B0%8F%E5%BF%83%E6%8D%A1%E8%B5%B7%E6%94%BE%E5%8F%A3%E8%A2%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [全红婵陈芋汐包揽冠亚军](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%99%88%E8%8A%8B%E6%B1%90%E5%8C%85%E6%8F%BD%E5%86%A0%E4%BA%9A%E5%86%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
