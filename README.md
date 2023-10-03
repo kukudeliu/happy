@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 06:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 06:42:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [冷空气为返程“添堵” 多地有雨雪](https://www.baidu.com/s?wd=%E5%86%B7%E7%A9%BA%E6%B0%94%E4%B8%BA%E8%BF%94%E7%A8%8B%E2%80%9C%E6%B7%BB%E5%A0%B5%E2%80%9D+%E5%A4%9A%E5%9C%B0%E6%9C%89%E9%9B%A8%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小伙称因长期抠鼻子感染丹毒](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%A7%B0%E5%9B%A0%E9%95%BF%E6%9C%9F%E6%8A%A0%E9%BC%BB%E5%AD%90%E6%84%9F%E6%9F%93%E4%B8%B9%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国女足3-4日本女足无缘决赛](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B33-4%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本女足赛后集体鞠躬致敬水庆霞](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E8%B5%9B%E5%90%8E%E9%9B%86%E4%BD%93%E9%9E%A0%E8%BA%AC%E8%87%B4%E6%95%AC%E6%B0%B4%E5%BA%86%E9%9C%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：扩大化举报让老师选择躺平](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%89%A9%E5%A4%A7%E5%8C%96%E4%B8%BE%E6%8A%A5%E8%AE%A9%E8%80%81%E5%B8%88%E9%80%89%E6%8B%A9%E8%BA%BA%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都养老机构老人被殴打？不实](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%85%BB%E8%80%81%E6%9C%BA%E6%9E%84%E8%80%81%E4%BA%BA%E8%A2%AB%E6%AE%B4%E6%89%93%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [冷空气为返程“添堵” 多地有雨雪](https://www.baidu.com/s?wd=%E5%86%B7%E7%A9%BA%E6%B0%94%E4%B8%BA%E8%BF%94%E7%A8%8B%E2%80%9C%E6%B7%BB%E5%A0%B5%E2%80%9D+%E5%A4%9A%E5%9C%B0%E6%9C%89%E9%9B%A8%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小伙称因长期抠鼻子感染丹毒](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%A7%B0%E5%9B%A0%E9%95%BF%E6%9C%9F%E6%8A%A0%E9%BC%BB%E5%AD%90%E6%84%9F%E6%9F%93%E4%B8%B9%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国女足3-4日本女足无缘决赛](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B33-4%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本女足赛后集体鞠躬致敬水庆霞](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E8%B5%9B%E5%90%8E%E9%9B%86%E4%BD%93%E9%9E%A0%E8%BA%AC%E8%87%B4%E6%95%AC%E6%B0%B4%E5%BA%86%E9%9C%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：扩大化举报让老师选择躺平](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%89%A9%E5%A4%A7%E5%8C%96%E4%B8%BE%E6%8A%A5%E8%AE%A9%E8%80%81%E5%B8%88%E9%80%89%E6%8B%A9%E8%BA%BA%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都养老机构老人被殴打？不实](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%85%BB%E8%80%81%E6%9C%BA%E6%9E%84%E8%80%81%E4%BA%BA%E8%A2%AB%E6%AE%B4%E6%89%93%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
