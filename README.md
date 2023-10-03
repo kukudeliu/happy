@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 22:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 22:40:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [沉浸式感觉金秋神州绝美风光](https://s.weibo.com/weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%84%9F%E8%A7%89%E9%87%91%E7%A7%8B%E7%A5%9E%E5%B7%9E%E7%BB%9D%E7%BE%8E%E9%A3%8E%E5%85%89%23&t=31&band_rank=3&Refer=top)<br />
 4. [泰国一商场发生枪击案已致3人死亡](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E4%B8%80%E5%95%86%E5%9C%BA%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E6%A1%88%E5%B7%B2%E8%87%B43%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [中国小伙4×100接力冠军](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B0%8F%E4%BC%994%C3%97100%E6%8E%A5%E5%8A%9B%E5%86%A0%E5%86%9B%23&t=31&band_rank=5&Refer=top)<br />
-6. [我P都不敢P成这样](https://s.weibo.com/weibo?q=%23%E6%88%91P%E9%83%BD%E4%B8%8D%E6%95%A2P%E6%88%90%E8%BF%99%E6%A0%B7%23&t=31&band_rank=6&Refer=top)<br />
-7. [全红婵7个10分](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B57%E4%B8%AA10%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
+6. [全红婵7个10分](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B57%E4%B8%AA10%E5%88%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [我P都不敢P成这样](https://s.weibo.com/weibo?q=%23%E6%88%91P%E9%83%BD%E4%B8%8D%E6%95%A2P%E6%88%90%E8%BF%99%E6%A0%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [全红婵跳水看呆了外国网友](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E6%B0%B4%E7%9C%8B%E5%91%86%E4%BA%86%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
 9. [全红婵10101010101010截图打卡](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B510101010101010%E6%88%AA%E5%9B%BE%E6%89%93%E5%8D%A1%23&t=31&band_rank=9&Refer=top)<br />
 
