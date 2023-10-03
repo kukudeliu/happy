@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 08:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 08:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吴昕G社生图](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95G%E7%A4%BE%E7%94%9F%E5%9B%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [坚如磐石为什么争议大](https://s.weibo.com/weibo?q=%23%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%89%E8%AE%AE%E5%A4%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [西安兵马俑酒店](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E5%85%B5%E9%A9%AC%E4%BF%91%E9%85%92%E5%BA%97&t=31&band_rank=8&Refer=top)<br />
-9. [王楚钦炸毛](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%82%B8%E6%AF%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [亚运电竞中国4金1铜收官](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E7%94%B5%E7%AB%9E%E4%B8%AD%E5%9B%BD4%E9%87%911%E9%93%9C%E6%94%B6%E5%AE%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
