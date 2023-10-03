@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 15:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 15:58:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [日媒为何炮制“中国人赴日旅游热”](https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%E4%B8%BA%E4%BD%95%E7%82%AE%E5%88%B6%E2%80%9C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B5%B4%E6%97%A5%E6%97%85%E6%B8%B8%E7%83%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [霍启山：准备奖金犒赏中国香港队](https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%B1%B1%EF%BC%9A%E5%87%86%E5%A4%87%E5%A5%96%E9%87%91%E7%8A%92%E8%B5%8F%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国庆长城上站满了“好汉”](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E9%95%BF%E5%9F%8E%E4%B8%8A%E7%AB%99%E6%BB%A1%E4%BA%86%E2%80%9C%E5%A5%BD%E6%B1%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“租个伴娘，回家结婚”](https://www.baidu.com/s?wd=%E2%80%9C%E7%A7%9F%E4%B8%AA%E4%BC%B4%E5%A8%98%EF%BC%8C%E5%9B%9E%E5%AE%B6%E7%BB%93%E5%A9%9A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [18岁举重女队员流泪回应颜值走红](https://www.baidu.com/s?wd=18%E5%B2%81%E4%B8%BE%E9%87%8D%E5%A5%B3%E9%98%9F%E5%91%98%E6%B5%81%E6%B3%AA%E5%9B%9E%E5%BA%94%E9%A2%9C%E5%80%BC%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这种口罩戴了容易得肺病？假的](https://www.baidu.com/s?wd=%E8%BF%99%E7%A7%8D%E5%8F%A3%E7%BD%A9%E6%88%B4%E4%BA%86%E5%AE%B9%E6%98%93%E5%BE%97%E8%82%BA%E7%97%85%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [日媒为何炮制“中国人赴日旅游热”](https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%E4%B8%BA%E4%BD%95%E7%82%AE%E5%88%B6%E2%80%9C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B5%B4%E6%97%A5%E6%97%85%E6%B8%B8%E7%83%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [霍启山：准备奖金犒赏中国香港队](https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%B1%B1%EF%BC%9A%E5%87%86%E5%A4%87%E5%A5%96%E9%87%91%E7%8A%92%E8%B5%8F%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国庆长城上站满了“好汉”](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E9%95%BF%E5%9F%8E%E4%B8%8A%E7%AB%99%E6%BB%A1%E4%BA%86%E2%80%9C%E5%A5%BD%E6%B1%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“租个伴娘，回家结婚”](https://www.baidu.com/s?wd=%E2%80%9C%E7%A7%9F%E4%B8%AA%E4%BC%B4%E5%A8%98%EF%BC%8C%E5%9B%9E%E5%AE%B6%E7%BB%93%E5%A9%9A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [18岁举重女队员流泪回应颜值走红](https://www.baidu.com/s?wd=18%E5%B2%81%E4%B8%BE%E9%87%8D%E5%A5%B3%E9%98%9F%E5%91%98%E6%B5%81%E6%B3%AA%E5%9B%9E%E5%BA%94%E9%A2%9C%E5%80%BC%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这种口罩戴了容易得肺病？假的](https://www.baidu.com/s?wd=%E8%BF%99%E7%A7%8D%E5%8F%A3%E7%BD%A9%E6%88%B4%E4%BA%86%E5%AE%B9%E6%98%93%E5%BE%97%E8%82%BA%E7%97%85%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
