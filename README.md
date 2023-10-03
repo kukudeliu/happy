@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 18:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 18:22:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [全红婵跳水看呆了外国网友](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E6%B0%B4%E7%9C%8B%E5%91%86%E4%BA%86%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [王一博 香奈儿](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E9%A6%99%E5%A5%88%E5%84%BF&t=31&band_rank=7&Refer=top)<br />
 8. [柯洁两枚银牌](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E4%B8%A4%E6%9E%9A%E9%93%B6%E7%89%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [2024年不宜结婚是真的吗](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E4%B8%8D%E5%AE%9C%E7%BB%93%E5%A9%9A%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [张婧仪累了我替你演两集](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E7%B4%AF%E4%BA%86%E6%88%91%E6%9B%BF%E4%BD%A0%E6%BC%94%E4%B8%A4%E9%9B%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
