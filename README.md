@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 08:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 08:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [坚如磐石为什么争议大](https://s.weibo.com/weibo?q=%23%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%89%E8%AE%AE%E5%A4%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦炸毛](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%82%B8%E6%AF%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [西安兵马俑酒店](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E5%85%B5%E9%A9%AC%E4%BF%91%E9%85%92%E5%BA%97&t=31&band_rank=8&Refer=top)<br />
-9. [放假了大熊猫把皮衣脱下来搭树上晾晾](https://s.weibo.com/weibo?q=%23%E6%94%BE%E5%81%87%E4%BA%86%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%8A%8A%E7%9A%AE%E8%A1%A3%E8%84%B1%E4%B8%8B%E6%9D%A5%E6%90%AD%E6%A0%91%E4%B8%8A%E6%99%BE%E6%99%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [于文文在海底捞社死式唱何必](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E5%9C%A8%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%A4%BE%E6%AD%BB%E5%BC%8F%E5%94%B1%E4%BD%95%E5%BF%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
