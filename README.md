@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 03:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 03:11:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [迷笛发布音乐节乐迷财物被盗公告](https://s.weibo.com/weibo?q=%23%E8%BF%B7%E7%AC%9B%E5%8F%91%E5%B8%83%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B9%90%E8%BF%B7%E8%B4%A2%E7%89%A9%E8%A2%AB%E7%9B%97%E5%85%AC%E5%91%8A%23&t=31&band_rank=5&Refer=top)<br />
 6. [全红婵跳水看呆了外国网友](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E6%B0%B4%E7%9C%8B%E5%91%86%E4%BA%86%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [日媒说的2000万中国游客在哪](https://s.weibo.com/weibo?q=%E6%97%A5%E5%AA%92%E8%AF%B4%E7%9A%842000%E4%B8%87%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%93%AA&t=31&band_rank=7&Refer=top)<br />
-8. [第一次见男女主恋爱互骗20多集的](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E7%94%B7%E5%A5%B3%E4%B8%BB%E6%81%8B%E7%88%B1%E4%BA%92%E9%AA%9720%E5%A4%9A%E9%9B%86%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [满江红](https://s.weibo.com/weibo?q=%E6%BB%A1%E6%B1%9F%E7%BA%A2&t=31&band_rank=9&Refer=top)<br />
+8. [满江红](https://s.weibo.com/weibo?q=%E6%BB%A1%E6%B1%9F%E7%BA%A2&t=31&band_rank=8&Refer=top)<br />
+9. [第一次见男女主恋爱互骗20多集的](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E7%94%B7%E5%A5%B3%E4%B8%BB%E6%81%8B%E7%88%B1%E4%BA%92%E9%AA%9720%E5%A4%9A%E9%9B%86%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
