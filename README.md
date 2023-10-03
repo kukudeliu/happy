@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 00:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 00:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王楚钦说自己世界第一下榜太快](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E4%B8%8B%E6%A6%9C%E5%A4%AA%E5%BF%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [全红婵跳水看呆了外国网友](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E6%B0%B4%E7%9C%8B%E5%91%86%E4%BA%86%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [日媒说的2000万中国游客在哪](https://s.weibo.com/weibo?q=%E6%97%A5%E5%AA%92%E8%AF%B4%E7%9A%842000%E4%B8%87%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%93%AA&t=31&band_rank=8&Refer=top)<br />
-9. [全红婵的采访一般只有三个字](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9A%84%E9%87%87%E8%AE%BF%E4%B8%80%E8%88%AC%E5%8F%AA%E6%9C%89%E4%B8%89%E4%B8%AA%E5%AD%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [泰国曼谷暹罗百丽宫疑发生枪击案](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%9B%BC%E8%B0%B7%E6%9A%B9%E7%BD%97%E7%99%BE%E4%B8%BD%E5%AE%AB%E7%96%91%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [冷空气为返程“添堵” 多地有雨雪](https://www.baidu.com/s?wd=%E5%86%B7%E7%A9%BA%E6%B0%94%E4%B8%BA%E8%BF%94%E7%A8%8B%E2%80%9C%E6%B7%BB%E5%A0%B5%E2%80%9D+%E5%A4%9A%E5%9C%B0%E6%9C%89%E9%9B%A8%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2024是“寡妇年”，不宜结婚？](https://www.baidu.com/s?wd=2024%E6%98%AF%E2%80%9C%E5%AF%A1%E5%A6%87%E5%B9%B4%E2%80%9D%EF%BC%8C%E4%B8%8D%E5%AE%9C%E7%BB%93%E5%A9%9A%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国女足3-4日本女足无缘决赛](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B33-4%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一群余华举起了他们的铁生](https://www.baidu.com/s?wd=%E4%B8%80%E7%BE%A4%E4%BD%99%E5%8D%8E%E4%B8%BE%E8%B5%B7%E4%BA%86%E4%BB%96%E4%BB%AC%E7%9A%84%E9%93%81%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本女足赛后集体鞠躬致敬水庆霞](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E8%B5%9B%E5%90%8E%E9%9B%86%E4%BD%93%E9%9E%A0%E8%BA%AC%E8%87%B4%E6%95%AC%E6%B0%B4%E5%BA%86%E9%9C%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都养老机构老人被殴打？不实](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%85%BB%E8%80%81%E6%9C%BA%E6%9E%84%E8%80%81%E4%BA%BA%E8%A2%AB%E6%AE%B4%E6%89%93%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [冷空气为返程“添堵” 多地有雨雪](https://www.baidu.com/s?wd=%E5%86%B7%E7%A9%BA%E6%B0%94%E4%B8%BA%E8%BF%94%E7%A8%8B%E2%80%9C%E6%B7%BB%E5%A0%B5%E2%80%9D+%E5%A4%9A%E5%9C%B0%E6%9C%89%E9%9B%A8%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2024是“寡妇年”，不宜结婚？](https://www.baidu.com/s?wd=2024%E6%98%AF%E2%80%9C%E5%AF%A1%E5%A6%87%E5%B9%B4%E2%80%9D%EF%BC%8C%E4%B8%8D%E5%AE%9C%E7%BB%93%E5%A9%9A%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国女足3-4日本女足无缘决赛](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B33-4%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一群余华举起了他们的铁生](https://www.baidu.com/s?wd=%E4%B8%80%E7%BE%A4%E4%BD%99%E5%8D%8E%E4%B8%BE%E8%B5%B7%E4%BA%86%E4%BB%96%E4%BB%AC%E7%9A%84%E9%93%81%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本女足赛后集体鞠躬致敬水庆霞](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E8%B5%9B%E5%90%8E%E9%9B%86%E4%BD%93%E9%9E%A0%E8%BA%AC%E8%87%B4%E6%95%AC%E6%B0%B4%E5%BA%86%E9%9C%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都养老机构老人被殴打？不实](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%85%BB%E8%80%81%E6%9C%BA%E6%9E%84%E8%80%81%E4%BA%BA%E8%A2%AB%E6%AE%B4%E6%89%93%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
