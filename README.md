@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 15:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 15:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [跟马龙一架飞机是什么体验](https://s.weibo.com/weibo?q=%23%E8%B7%9F%E9%A9%AC%E9%BE%99%E4%B8%80%E6%9E%B6%E9%A3%9E%E6%9C%BA%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [花少5姐姐好会穿](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%915%E5%A7%90%E5%A7%90%E5%A5%BD%E4%BC%9A%E7%A9%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [网约车司机3个月已经道歉了1800次](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA3%E4%B8%AA%E6%9C%88%E5%B7%B2%E7%BB%8F%E9%81%93%E6%AD%89%E4%BA%861800%E6%AC%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [升血糖能力比糖还厉害的小吃](https://s.weibo.com/weibo?q=%E5%8D%87%E8%A1%80%E7%B3%96%E8%83%BD%E5%8A%9B%E6%AF%94%E7%B3%96%E8%BF%98%E5%8E%89%E5%AE%B3%E7%9A%84%E5%B0%8F%E5%90%83&t=31&band_rank=9&Refer=top)<br />
+9. [霸王茶姬 盗墓笔记](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
