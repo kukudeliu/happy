@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 05:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 05:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [泰国曼谷暹罗百丽宫疑发生枪击案](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%9B%BC%E8%B0%B7%E6%9A%B9%E7%BD%97%E7%99%BE%E4%B8%BD%E5%AE%AB%E7%96%91%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E6%A1%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本女足全队向水庆霞鞠躬](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E5%85%A8%E9%98%9F%E5%90%91%E6%B0%B4%E5%BA%86%E9%9C%9E%E9%9E%A0%E8%BA%AC%23&t=31&band_rank=7&Refer=top)<br />
 8. [全红婵跳水看呆了外国网友](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E6%B0%B4%E7%9C%8B%E5%91%86%E4%BA%86%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [迷笛发布音乐节乐迷财物被盗公告](https://s.weibo.com/weibo?q=%23%E8%BF%B7%E7%AC%9B%E5%8F%91%E5%B8%83%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B9%90%E8%BF%B7%E8%B4%A2%E7%89%A9%E8%A2%AB%E7%9B%97%E5%85%AC%E5%91%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [满江红](https://s.weibo.com/weibo?q=%E6%BB%A1%E6%B1%9F%E7%BA%A2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
