@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 19:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 19:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [全红婵跳水看呆了外国网友](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E6%B0%B4%E7%9C%8B%E5%91%86%E4%BA%86%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [全红婵夺金](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%A4%BA%E9%87%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [王一博 香奈儿](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E9%A6%99%E5%A5%88%E5%84%BF&t=31&band_rank=8&Refer=top)<br />
-9. [我P都不敢P成这样](https://s.weibo.com/weibo?q=%23%E6%88%91P%E9%83%BD%E4%B8%8D%E6%95%A2P%E6%88%90%E8%BF%99%E6%A0%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [大家都知道你高考语文127分了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%9F%A5%E9%81%93%E4%BD%A0%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87127%E5%88%86%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
