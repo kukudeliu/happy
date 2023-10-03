@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 07:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 07:04:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [全红婵10101010101010截图打卡](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B510101010101010%E6%88%AA%E5%9B%BE%E6%89%93%E5%8D%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [日本女足全队向水庆霞鞠躬](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E5%85%A8%E9%98%9F%E5%90%91%E6%B0%B4%E5%BA%86%E9%9C%9E%E9%9E%A0%E8%BA%AC%23&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦说自己世界第一下榜太快](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E4%B8%8B%E6%A6%9C%E5%A4%AA%E5%BF%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [满江红](https://s.weibo.com/weibo?q=%E6%BB%A1%E6%B1%9F%E7%BA%A2&t=31&band_rank=8&Refer=top)<br />
-9. [全红婵跳水看呆了外国网友](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E6%B0%B4%E7%9C%8B%E5%91%86%E4%BA%86%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
+8. [全红婵跳水看呆了外国网友](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E6%B0%B4%E7%9C%8B%E5%91%86%E4%BA%86%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [泰国曼谷暹罗百丽宫疑发生枪击案](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%9B%BC%E8%B0%B7%E6%9A%B9%E7%BD%97%E7%99%BE%E4%B8%BD%E5%AE%AB%E7%96%91%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
