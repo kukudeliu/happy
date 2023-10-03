@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 23:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 23:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国女足3比4惜败日本](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B33%E6%AF%944%E6%83%9C%E8%B4%A5%E6%97%A5%E6%9C%AC&t=31&band_rank=6&Refer=top)<br />
 7. [全红婵10101010101010截图打卡](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B510101010101010%E6%88%AA%E5%9B%BE%E6%89%93%E5%8D%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [全红婵跳水看呆了外国网友](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E6%B0%B4%E7%9C%8B%E5%91%86%E4%BA%86%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [泰国一商场发生枪击案已致3人死亡](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E4%B8%80%E5%95%86%E5%9C%BA%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E6%A1%88%E5%B7%B2%E8%87%B43%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国小伙4×100接力冠军](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B0%8F%E4%BC%994%C3%97100%E6%8E%A5%E5%8A%9B%E5%86%A0%E5%86%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
