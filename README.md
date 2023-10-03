@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 10:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 10:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周冬雨生图 云淡风轻的气质](https://s.weibo.com/weibo?q=%E5%91%A8%E5%86%AC%E9%9B%A8%E7%94%9F%E5%9B%BE%20%E4%BA%91%E6%B7%A1%E9%A3%8E%E8%BD%BB%E7%9A%84%E6%B0%94%E8%B4%A8&t=31&band_rank=6&Refer=top)<br />
 7. [坚如磐石为什么争议大](https://s.weibo.com/weibo?q=%23%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%89%E8%AE%AE%E5%A4%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [亚运电竞中国4金1铜收官](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E7%94%B5%E7%AB%9E%E4%B8%AD%E5%9B%BD4%E9%87%911%E9%93%9C%E6%94%B6%E5%AE%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子含泪跪地吃生母煮的醪糟蛋](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%AB%E6%B3%AA%E8%B7%AA%E5%9C%B0%E5%90%83%E7%94%9F%E6%AF%8D%E7%85%AE%E7%9A%84%E9%86%AA%E7%B3%9F%E8%9B%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [王楚钦冠军](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%86%A0%E5%86%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
