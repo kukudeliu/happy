@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 17:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 17:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [店主因百份佛跳墙订单损失11万](https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E5%9B%A0%E7%99%BE%E4%BB%BD%E4%BD%9B%E8%B7%B3%E5%A2%99%E8%AE%A2%E5%8D%95%E6%8D%9F%E5%A4%B111%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [青云志](https://s.weibo.com/weibo?q=%E9%9D%92%E4%BA%91%E5%BF%97&t=31&band_rank=7&Refer=top)<br />
 8. [日媒炒作中国人赴日旅游热](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%82%92%E4%BD%9C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B5%B4%E6%97%A5%E6%97%85%E6%B8%B8%E7%83%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [樊振东回应国乒开会梗](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%B9%92%E5%BC%80%E4%BC%9A%E6%A2%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [柯洁战胜申旻埈](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E6%88%98%E8%83%9C%E7%94%B3%E6%97%BB%E5%9F%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
