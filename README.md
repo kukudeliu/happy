@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 18:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 18:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [樊振东退赛](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%80%80%E8%B5%9B&t=31&band_rank=6&Refer=top)<br />
 7. [全红婵夺金](https://s.weibo.com/weibo?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%A4%BA%E9%87%91&t=31&band_rank=7&Refer=top)<br />
 8. [王一博 香奈儿](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E9%A6%99%E5%A5%88%E5%84%BF&t=31&band_rank=8&Refer=top)<br />
-9. [柯洁两枚银牌](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E4%B8%A4%E6%9E%9A%E9%93%B6%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [全红婵陈芋汐包揽冠亚军](https://s.weibo.com/weibo?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%99%88%E8%8A%8B%E6%B1%90%E5%8C%85%E6%8F%BD%E5%86%A0%E4%BA%9A%E5%86%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
