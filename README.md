@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 07:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 07:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [美众议院议长麦卡锡被罢免](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E8%AE%AE%E9%95%BF%E9%BA%A6%E5%8D%A1%E9%94%A1%E8%A2%AB%E7%BD%A2%E5%85%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [金马最佳男主角提名](https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A9%AC%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E6%8F%90%E5%90%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [日媒说的2000万中国游客在哪](https://s.weibo.com/weibo?q=%E6%97%A5%E5%AA%92%E8%AF%B4%E7%9A%842000%E4%B8%87%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%93%AA&t=31&band_rank=7&Refer=top)<br />
-8. [这是我见过排量最大的婚车](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E6%88%91%E8%A7%81%E8%BF%87%E6%8E%92%E9%87%8F%E6%9C%80%E5%A4%A7%E7%9A%84%E5%A9%9A%E8%BD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫时装周G社怼脸生图](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%97%B6%E8%A3%85%E5%91%A8G%E7%A4%BE%E6%80%BC%E8%84%B8%E7%94%9F%E5%9B%BE%23&t=31&band_rank=9&Refer=top)<br />
+8. [杨紫时装周G社怼脸生图](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%97%B6%E8%A3%85%E5%91%A8G%E7%A4%BE%E6%80%BC%E8%84%B8%E7%94%9F%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [这是我见过排量最大的婚车](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E6%88%91%E8%A7%81%E8%BF%87%E6%8E%92%E9%87%8F%E6%9C%80%E5%A4%A7%E7%9A%84%E5%A9%9A%E8%BD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
