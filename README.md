@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 18:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 18:11:01</h4></div>
 
 > 微博  
 
-1. [樊振东退赛](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%80%80%E8%B5%9B&t=31&band_rank=1&Refer=top)<br />
-2. [全红婵7个10分](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B57%E4%B8%AA10%E5%88%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [全红婵7个10分](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B57%E4%B8%AA10%E5%88%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [樊振东退赛](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%80%80%E8%B5%9B&t=31&band_rank=2&Refer=top)<br />
 3. [一带一路倡议十周年](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E5%80%A1%E8%AE%AE%E5%8D%81%E5%91%A8%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [王一博 香奈儿](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E9%A6%99%E5%A5%88%E5%84%BF&t=31&band_rank=4&Refer=top)<br />
 5. [新娘回应暂停婚礼救高烧惊厥女孩](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E5%9B%9E%E5%BA%94%E6%9A%82%E5%81%9C%E5%A9%9A%E7%A4%BC%E6%95%91%E9%AB%98%E7%83%A7%E6%83%8A%E5%8E%A5%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=5&Refer=top)<br />
