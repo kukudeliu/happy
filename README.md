@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 09:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 09:44:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [中国风采 闪耀亚运](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A3%8E%E9%87%87+%E9%97%AA%E8%80%80%E4%BA%9A%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [两千多年后六国子民花钱来拜秦始皇](https://www.baidu.com/s?wd=%E4%B8%A4%E5%8D%83%E5%A4%9A%E5%B9%B4%E5%90%8E%E5%85%AD%E5%9B%BD%E5%AD%90%E6%B0%91%E8%8A%B1%E9%92%B1%E6%9D%A5%E6%8B%9C%E7%A7%A6%E5%A7%8B%E7%9A%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子得知母亲去世崩溃交警帮代驾](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BE%97%E7%9F%A5%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%E5%B4%A9%E6%BA%83%E4%BA%A4%E8%AD%A6%E5%B8%AE%E4%BB%A3%E9%A9%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中科院博士辞职开民宿是教育浪费吗](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E8%BE%9E%E8%81%8C%E5%BC%80%E6%B0%91%E5%AE%BF%E6%98%AF%E6%95%99%E8%82%B2%E6%B5%AA%E8%B4%B9%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全国景区最堵前五名是谁](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%99%AF%E5%8C%BA%E6%9C%80%E5%A0%B5%E5%89%8D%E4%BA%94%E5%90%8D%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [成都一养老中心老人深夜被殴打？](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E5%85%BB%E8%80%81%E4%B8%AD%E5%BF%83%E8%80%81%E4%BA%BA%E6%B7%B1%E5%A4%9C%E8%A2%AB%E6%AE%B4%E6%89%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吴艳妮坦然面对抢跑风波：我没事儿](https://www.baidu.com/s?wd=%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9D%A6%E7%84%B6%E9%9D%A2%E5%AF%B9%E6%8A%A2%E8%B7%91%E9%A3%8E%E6%B3%A2%EF%BC%9A%E6%88%91%E6%B2%A1%E4%BA%8B%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这种口罩戴了容易得肺病？假的](https://www.baidu.com/s?wd=%E8%BF%99%E7%A7%8D%E5%8F%A3%E7%BD%A9%E6%88%B4%E4%BA%86%E5%AE%B9%E6%98%93%E5%BE%97%E8%82%BA%E7%97%85%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [中国风采 闪耀亚运](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A3%8E%E9%87%87+%E9%97%AA%E8%80%80%E4%BA%9A%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [两千多年后六国子民花钱来拜秦始皇](https://www.baidu.com/s?wd=%E4%B8%A4%E5%8D%83%E5%A4%9A%E5%B9%B4%E5%90%8E%E5%85%AD%E5%9B%BD%E5%AD%90%E6%B0%91%E8%8A%B1%E9%92%B1%E6%9D%A5%E6%8B%9C%E7%A7%A6%E5%A7%8B%E7%9A%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子得知母亲去世崩溃交警帮代驾](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BE%97%E7%9F%A5%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%E5%B4%A9%E6%BA%83%E4%BA%A4%E8%AD%A6%E5%B8%AE%E4%BB%A3%E9%A9%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中科院博士辞职开民宿是教育浪费吗](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E8%BE%9E%E8%81%8C%E5%BC%80%E6%B0%91%E5%AE%BF%E6%98%AF%E6%95%99%E8%82%B2%E6%B5%AA%E8%B4%B9%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全国景区最堵前五名是谁](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%99%AF%E5%8C%BA%E6%9C%80%E5%A0%B5%E5%89%8D%E4%BA%94%E5%90%8D%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [成都一养老中心老人深夜被殴打？](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E5%85%BB%E8%80%81%E4%B8%AD%E5%BF%83%E8%80%81%E4%BA%BA%E6%B7%B1%E5%A4%9C%E8%A2%AB%E6%AE%B4%E6%89%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吴艳妮坦然面对抢跑风波：我没事儿](https://www.baidu.com/s?wd=%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9D%A6%E7%84%B6%E9%9D%A2%E5%AF%B9%E6%8A%A2%E8%B7%91%E9%A3%8E%E6%B3%A2%EF%BC%9A%E6%88%91%E6%B2%A1%E4%BA%8B%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这种口罩戴了容易得肺病？假的](https://www.baidu.com/s?wd=%E8%BF%99%E7%A7%8D%E5%8F%A3%E7%BD%A9%E6%88%B4%E4%BA%86%E5%AE%B9%E6%98%93%E5%BE%97%E8%82%BA%E7%97%85%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
