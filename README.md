@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 16:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 17:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [樊振东回应国乒开会梗](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%B9%92%E5%BC%80%E4%BC%9A%E6%A2%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [全红婵跳水看呆了外国网友](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E6%B0%B4%E7%9C%8B%E5%91%86%E4%BA%86%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [苏炳添的奥运铜牌来了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E7%9A%84%E5%A5%A5%E8%BF%90%E9%93%9C%E7%89%8C%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [酒店1天11对新人结婚拉满横幅](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%971%E5%A4%A911%E5%AF%B9%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E6%8B%89%E6%BB%A1%E6%A8%AA%E5%B9%85%23&t=31&band_rank=9&Refer=top)<br />
+9. [青云志](https://s.weibo.com/weibo?q=%E9%9D%92%E4%BA%91%E5%BF%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
