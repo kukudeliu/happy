@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 17:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 17:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [陈粒音乐节歌词 口人不眨眼](https://s.weibo.com/weibo?q=%E9%99%88%E7%B2%92%E9%9F%B3%E4%B9%90%E8%8A%82%E6%AD%8C%E8%AF%8D%20%E5%8F%A3%E4%BA%BA%E4%B8%8D%E7%9C%A8%E7%9C%BC&t=31&band_rank=5&Refer=top)<br />
 6. [店主因百份佛跳墙订单损失11万](https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E5%9B%A0%E7%99%BE%E4%BB%BD%E4%BD%9B%E8%B7%B3%E5%A2%99%E8%AE%A2%E5%8D%95%E6%8D%9F%E5%A4%B111%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [日媒炒作中国人赴日旅游热](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%82%92%E4%BD%9C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B5%B4%E6%97%A5%E6%97%85%E6%B8%B8%E7%83%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [黄景瑜打伞亏不了自己一点](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E6%89%93%E4%BC%9E%E4%BA%8F%E4%B8%8D%E4%BA%86%E8%87%AA%E5%B7%B1%E4%B8%80%E7%82%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [路边摊的臭豆腐到底有多脏](https://s.weibo.com/weibo?q=%23%E8%B7%AF%E8%BE%B9%E6%91%8A%E7%9A%84%E8%87%AD%E8%B1%86%E8%85%90%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E8%84%8F%23&t=31&band_rank=9&Refer=top)<br />
+8. [张婧仪累了我替你演两集](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E7%B4%AF%E4%BA%86%E6%88%91%E6%9B%BF%E4%BD%A0%E6%BC%94%E4%B8%A4%E9%9B%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [黄景瑜打伞亏不了自己一点](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E6%89%93%E4%BC%9E%E4%BA%8F%E4%B8%8D%E4%BA%86%E8%87%AA%E5%B7%B1%E4%B8%80%E7%82%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
