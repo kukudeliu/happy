@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 02:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 02:59:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 3. [中国男女队4x100米接力双双夺冠](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%A5%B3%E9%98%9F4x100%E7%B1%B3%E6%8E%A5%E5%8A%9B%E5%8F%8C%E5%8F%8C%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [假期旅游热 祖国山河美](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E6%97%85%E6%B8%B8%E7%83%AD+%E7%A5%96%E5%9B%BD%E5%B1%B1%E6%B2%B3%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [冷空气为返程“添堵” 多地有雨雪](https://www.baidu.com/s?wd=%E5%86%B7%E7%A9%BA%E6%B0%94%E4%B8%BA%E8%BF%94%E7%A8%8B%E2%80%9C%E6%B7%BB%E5%A0%B5%E2%80%9D+%E5%A4%9A%E5%9C%B0%E6%9C%89%E9%9B%A8%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [印度：加拿大须遣返约40名外交官](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%EF%BC%9A%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%A1%BB%E9%81%A3%E8%BF%94%E7%BA%A640%E5%90%8D%E5%A4%96%E4%BA%A4%E5%AE%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [国庆感觉哪里都有一亿人](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E6%84%9F%E8%A7%89%E5%93%AA%E9%87%8C%E9%83%BD%E6%9C%89%E4%B8%80%E4%BA%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国女足3-4日本女足无缘决赛](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B33-4%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小伙称因长期抠鼻子感染丹毒](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%A7%B0%E5%9B%A0%E9%95%BF%E6%9C%9F%E6%8A%A0%E9%BC%BB%E5%AD%90%E6%84%9F%E6%9F%93%E4%B8%B9%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都养老机构老人被殴打？不实](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%85%BB%E8%80%81%E6%9C%BA%E6%9E%84%E8%80%81%E4%BA%BA%E8%A2%AB%E6%AE%B4%E6%89%93%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [中国男女队4x100米接力双双夺冠](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%A5%B3%E9%98%9F4x100%E7%B1%B3%E6%8E%A5%E5%8A%9B%E5%8F%8C%E5%8F%8C%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [假期旅游热 祖国山河美](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E6%97%85%E6%B8%B8%E7%83%AD+%E7%A5%96%E5%9B%BD%E5%B1%B1%E6%B2%B3%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [冷空气为返程“添堵” 多地有雨雪](https://www.baidu.com/s?wd=%E5%86%B7%E7%A9%BA%E6%B0%94%E4%B8%BA%E8%BF%94%E7%A8%8B%E2%80%9C%E6%B7%BB%E5%A0%B5%E2%80%9D+%E5%A4%9A%E5%9C%B0%E6%9C%89%E9%9B%A8%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [印度：加拿大须遣返约40名外交官](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%EF%BC%9A%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%A1%BB%E9%81%A3%E8%BF%94%E7%BA%A640%E5%90%8D%E5%A4%96%E4%BA%A4%E5%AE%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [国庆感觉哪里都有一亿人](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E6%84%9F%E8%A7%89%E5%93%AA%E9%87%8C%E9%83%BD%E6%9C%89%E4%B8%80%E4%BA%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国女足3-4日本女足无缘决赛](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B33-4%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小伙称因长期抠鼻子感染丹毒](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%A7%B0%E5%9B%A0%E9%95%BF%E6%9C%9F%E6%8A%A0%E9%BC%BB%E5%AD%90%E6%84%9F%E6%9F%93%E4%B8%B9%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都养老机构老人被殴打？不实](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%85%BB%E8%80%81%E6%9C%BA%E6%9E%84%E8%80%81%E4%BA%BA%E8%A2%AB%E6%AE%B4%E6%89%93%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
