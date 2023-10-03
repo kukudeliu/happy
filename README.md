@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 20:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-03 20:03:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [全红婵10101010101010截图打卡](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B510101010101010%E6%88%AA%E5%9B%BE%E6%89%93%E5%8D%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [王一博 香奈儿](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E9%A6%99%E5%A5%88%E5%84%BF&t=31&band_rank=7&Refer=top)<br />
 8. [樊振东因伤病退赛](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%9B%A0%E4%BC%A4%E7%97%85%E9%80%80%E8%B5%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [全红婵夺金](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%A4%BA%E9%87%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [日媒说的2000万中国游客在哪](https://s.weibo.com/weibo?q=%E6%97%A5%E5%AA%92%E8%AF%B4%E7%9A%842000%E4%B8%87%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%93%AA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
