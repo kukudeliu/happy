@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 20:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 20:38:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [2023北京文化论坛晚会](https://s.weibo.com/weibo?q=%232023%E5%8C%97%E4%BA%AC%E6%96%87%E5%8C%96%E8%AE%BA%E5%9D%9B%E6%99%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [泰国枪击案死伤中国游客系免签入境](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%9E%AA%E5%87%BB%E6%A1%88%E6%AD%BB%E4%BC%A4%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%B3%BB%E5%85%8D%E7%AD%BE%E5%85%A5%E5%A2%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [研究生三年最好的安排](https://s.weibo.com/weibo?q=%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B8%89%E5%B9%B4%E6%9C%80%E5%A5%BD%E7%9A%84%E5%AE%89%E6%8E%92&t=31&band_rank=5&Refer=top)<br />
-6. [泰国总理致电中国大使道歉](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E8%87%B4%E7%94%B5%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [中国女排vs韩国女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E9%9F%A9%E5%9B%BD%E5%A5%B3%E6%8E%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [莲花楼 断笛](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%20%E6%96%AD%E7%AC%9B&t=31&band_rank=8&Refer=top)<br />
-9. [王春雨女子800米铜牌](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%A5%E9%9B%A8%E5%A5%B3%E5%AD%90800%E7%B1%B3%E9%93%9C%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
+6. [杨昊6个10分](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%98%8A6%E4%B8%AA10%E5%88%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [泰国总理致电中国大使道歉](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E8%87%B4%E7%94%B5%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
+8. [中国女排vs韩国女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E9%9F%A9%E5%9B%BD%E5%A5%B3%E6%8E%92%23&t=31&band_rank=8&Refer=top)<br />
+9. [莲花楼 断笛](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%20%E6%96%AD%E7%AC%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
