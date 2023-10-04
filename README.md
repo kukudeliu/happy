@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 15:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 15:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [新湃传媒 陈情令](https://s.weibo.com/weibo?q=%E6%96%B0%E6%B9%83%E4%BC%A0%E5%AA%92%20%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=5&Refer=top)<br />
 6. [于和伟私底下穿吊带](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%E7%A7%81%E5%BA%95%E4%B8%8B%E7%A9%BF%E5%90%8A%E5%B8%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [直播间卖一个亿能赚多少钱](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E4%B8%80%E4%B8%AA%E4%BA%BF%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [杭州亚运会中国队含金量拉满](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%90%AB%E9%87%91%E9%87%8F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [长月烬明](https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E&t=31&band_rank=9&Refer=top)<br />
+8. [长月烬明](https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E&t=31&band_rank=8&Refer=top)<br />
+9. [周扬青不惯着影响自己心情的人](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E4%B8%8D%E6%83%AF%E7%9D%80%E5%BD%B1%E5%93%8D%E8%87%AA%E5%B7%B1%E5%BF%83%E6%83%85%E7%9A%84%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
