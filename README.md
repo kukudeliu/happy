@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 19:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 19:34:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [“国庆参加完23场婚礼，我破产了”](https://www.baidu.com/s?wd=%E2%80%9C%E5%9B%BD%E5%BA%86%E5%8F%82%E5%8A%A0%E5%AE%8C23%E5%9C%BA%E5%A9%9A%E7%A4%BC%EF%BC%8C%E6%88%91%E7%A0%B4%E4%BA%A7%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [假期返程注意添衣保暖](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E6%B3%A8%E6%84%8F%E6%B7%BB%E8%A1%A3%E4%BF%9D%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国游客遇袭身亡：原计划凌晨回国](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1%EF%BC%9A%E5%8E%9F%E8%AE%A1%E5%88%92%E5%87%8C%E6%99%A8%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [曼联创近40年耻辱纪录](https://www.baidu.com/s?wd=%E6%9B%BC%E8%81%94%E5%88%9B%E8%BF%9140%E5%B9%B4%E8%80%BB%E8%BE%B1%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [景区因游客排队时间长被通报批评](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%A0%E6%B8%B8%E5%AE%A2%E6%8E%92%E9%98%9F%E6%97%B6%E9%97%B4%E9%95%BF%E8%A2%AB%E9%80%9A%E6%8A%A5%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泰枪击案14岁嫌疑人曾扬言直播行凶](https://www.baidu.com/s?wd=%E6%B3%B0%E6%9E%AA%E5%87%BB%E6%A1%8814%E5%B2%81%E5%AB%8C%E7%96%91%E4%BA%BA%E6%9B%BE%E6%89%AC%E8%A8%80%E7%9B%B4%E6%92%AD%E8%A1%8C%E5%87%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [景区因游客排队时间长被通报批评](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%A0%E6%B8%B8%E5%AE%A2%E6%8E%92%E9%98%9F%E6%97%B6%E9%97%B4%E9%95%BF%E8%A2%AB%E9%80%9A%E6%8A%A5%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [泰国北大年府炸弹爆炸致13伤](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%8C%97%E5%A4%A7%E5%B9%B4%E5%BA%9C%E7%82%B8%E5%BC%B9%E7%88%86%E7%82%B8%E8%87%B413%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广州康鹭：30万个踩缝纫机的人生](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%BA%B7%E9%B9%AD%EF%BC%9A30%E4%B8%87%E4%B8%AA%E8%B8%A9%E7%BC%9D%E7%BA%AB%E6%9C%BA%E7%9A%84%E4%BA%BA%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [“国庆参加完23场婚礼，我破产了”](https://www.baidu.com/s?wd=%E2%80%9C%E5%9B%BD%E5%BA%86%E5%8F%82%E5%8A%A0%E5%AE%8C23%E5%9C%BA%E5%A9%9A%E7%A4%BC%EF%BC%8C%E6%88%91%E7%A0%B4%E4%BA%A7%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [假期返程注意添衣保暖](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E6%B3%A8%E6%84%8F%E6%B7%BB%E8%A1%A3%E4%BF%9D%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国游客遇袭身亡：原计划凌晨回国](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1%EF%BC%9A%E5%8E%9F%E8%AE%A1%E5%88%92%E5%87%8C%E6%99%A8%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [曼联创近40年耻辱纪录](https://www.baidu.com/s?wd=%E6%9B%BC%E8%81%94%E5%88%9B%E8%BF%9140%E5%B9%B4%E8%80%BB%E8%BE%B1%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [景区因游客排队时间长被通报批评](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%A0%E6%B8%B8%E5%AE%A2%E6%8E%92%E9%98%9F%E6%97%B6%E9%97%B4%E9%95%BF%E8%A2%AB%E9%80%9A%E6%8A%A5%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泰枪击案14岁嫌疑人曾扬言直播行凶](https://www.baidu.com/s?wd=%E6%B3%B0%E6%9E%AA%E5%87%BB%E6%A1%8814%E5%B2%81%E5%AB%8C%E7%96%91%E4%BA%BA%E6%9B%BE%E6%89%AC%E8%A8%80%E7%9B%B4%E6%92%AD%E8%A1%8C%E5%87%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [景区因游客排队时间长被通报批评](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%A0%E6%B8%B8%E5%AE%A2%E6%8E%92%E9%98%9F%E6%97%B6%E9%97%B4%E9%95%BF%E8%A2%AB%E9%80%9A%E6%8A%A5%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [泰国北大年府炸弹爆炸致13伤](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%8C%97%E5%A4%A7%E5%B9%B4%E5%BA%9C%E7%82%B8%E5%BC%B9%E7%88%86%E7%82%B8%E8%87%B413%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广州康鹭：30万个踩缝纫机的人生](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%BA%B7%E9%B9%AD%EF%BC%9A30%E4%B8%87%E4%B8%AA%E8%B8%A9%E7%BC%9D%E7%BA%AB%E6%9C%BA%E7%9A%84%E4%BA%BA%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
