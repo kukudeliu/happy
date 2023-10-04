@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 07:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 07:04:01</h4></div>
 
 > 微博  
 
-1. [赵继伟道歉](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E9%81%93%E6%AD%89%23&t=31&band_rank=1&Refer=top)<br />
-2. [躺在床上看手机时打开闪光灯](https://s.weibo.com/weibo?q=%E8%BA%BA%E5%9C%A8%E5%BA%8A%E4%B8%8A%E7%9C%8B%E6%89%8B%E6%9C%BA%E6%97%B6%E6%89%93%E5%BC%80%E9%97%AA%E5%85%89%E7%81%AF&t=31&band_rank=2&Refer=top)<br />
+1. [躺在床上看手机时打开闪光灯](https://s.weibo.com/weibo?q=%E8%BA%BA%E5%9C%A8%E5%BA%8A%E4%B8%8A%E7%9C%8B%E6%89%8B%E6%9C%BA%E6%97%B6%E6%89%93%E5%BC%80%E9%97%AA%E5%85%89%E7%81%AF&t=31&band_rank=1&Refer=top)<br />
+2. [赵继伟道歉](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E9%81%93%E6%AD%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会上的数字智能亮点](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%8A%E7%9A%84%E6%95%B0%E5%AD%97%E6%99%BA%E8%83%BD%E4%BA%AE%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [卫明一家人的报应终于来了](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%8E%E4%B8%80%E5%AE%B6%E4%BA%BA%E7%9A%84%E6%8A%A5%E5%BA%94%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子通过WiFi名称跨60公里寻回手机](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%80%9A%E8%BF%87WiFi%E5%90%8D%E7%A7%B0%E8%B7%A860%E5%85%AC%E9%87%8C%E5%AF%BB%E5%9B%9E%E6%89%8B%E6%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [刘玉栋说不会再有男篮做旗手](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%8E%89%E6%A0%8B%E8%AF%B4%E4%B8%8D%E4%BC%9A%E5%86%8D%E6%9C%89%E7%94%B7%E7%AF%AE%E5%81%9A%E6%97%97%E6%89%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [姚明为缺席发布会道歉](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%98%8E%E4%B8%BA%E7%BC%BA%E5%B8%AD%E5%8F%91%E5%B8%83%E4%BC%9A%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
+6. [姚明为缺席发布会道歉](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%98%8E%E4%B8%BA%E7%BC%BA%E5%B8%AD%E5%8F%91%E5%B8%83%E4%BC%9A%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
+7. [刘玉栋说不会再有男篮做旗手](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%8E%89%E6%A0%8B%E8%AF%B4%E4%B8%8D%E4%BC%9A%E5%86%8D%E6%9C%89%E7%94%B7%E7%AF%AE%E5%81%9A%E6%97%97%E6%89%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [南阳警方称目前还未抓到嫌疑人](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B3%E8%AD%A6%E6%96%B9%E7%A7%B0%E7%9B%AE%E5%89%8D%E8%BF%98%E6%9C%AA%E6%8A%93%E5%88%B0%E5%AB%8C%E7%96%91%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [杭州托尼无人敢承认是自己做的](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%89%98%E5%B0%BC%E6%97%A0%E4%BA%BA%E6%95%A2%E6%89%BF%E8%AE%A4%E6%98%AF%E8%87%AA%E5%B7%B1%E5%81%9A%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
