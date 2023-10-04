@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 17:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 17:23:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [大爷被穿短裙女子指责看腿后发飙](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E8%A2%AB%E7%A9%BF%E7%9F%AD%E8%A3%99%E5%A5%B3%E5%AD%90%E6%8C%87%E8%B4%A3%E7%9C%8B%E8%85%BF%E5%90%8E%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网友提前返程1小时开10公里](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8F%90%E5%89%8D%E8%BF%94%E7%A8%8B1%E5%B0%8F%E6%97%B6%E5%BC%8010%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [兵马俑酒店有人付钱不住看看就走](https://www.baidu.com/s?wd=%E5%85%B5%E9%A9%AC%E4%BF%91%E9%85%92%E5%BA%97%E6%9C%89%E4%BA%BA%E4%BB%98%E9%92%B1%E4%B8%8D%E4%BD%8F%E7%9C%8B%E7%9C%8B%E5%B0%B1%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [超强台风小犬来袭 多地迎暴雨](https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E5%B0%8F%E7%8A%AC%E6%9D%A5%E8%A2%AD+%E5%A4%9A%E5%9C%B0%E8%BF%8E%E6%9A%B4%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国游客遇袭身亡：原计划凌晨回国](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1%EF%BC%9A%E5%8E%9F%E8%AE%A1%E5%88%92%E5%87%8C%E6%99%A8%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [大爷被穿短裙女子指责看腿后发飙](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E8%A2%AB%E7%A9%BF%E7%9F%AD%E8%A3%99%E5%A5%B3%E5%AD%90%E6%8C%87%E8%B4%A3%E7%9C%8B%E8%85%BF%E5%90%8E%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网友提前返程1小时开10公里](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8F%90%E5%89%8D%E8%BF%94%E7%A8%8B1%E5%B0%8F%E6%97%B6%E5%BC%8010%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [兵马俑酒店有人付钱不住看看就走](https://www.baidu.com/s?wd=%E5%85%B5%E9%A9%AC%E4%BF%91%E9%85%92%E5%BA%97%E6%9C%89%E4%BA%BA%E4%BB%98%E9%92%B1%E4%B8%8D%E4%BD%8F%E7%9C%8B%E7%9C%8B%E5%B0%B1%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [超强台风小犬来袭 多地迎暴雨](https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E5%B0%8F%E7%8A%AC%E6%9D%A5%E8%A2%AD+%E5%A4%9A%E5%9C%B0%E8%BF%8E%E6%9A%B4%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国游客遇袭身亡：原计划凌晨回国](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1%EF%BC%9A%E5%8E%9F%E8%AE%A1%E5%88%92%E5%87%8C%E6%99%A8%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
