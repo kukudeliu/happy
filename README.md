@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 09:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 09:51:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [弟弟结婚董宇辉回家帮忙成碍眼包](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [物理学诺奖得主将人类带进阿秒时代](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E5%B0%86%E4%BA%BA%E7%B1%BB%E5%B8%A6%E8%BF%9B%E9%98%BF%E7%A7%92%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [姚明双手插兜迎接胜利](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E5%8F%8C%E6%89%8B%E6%8F%92%E5%85%9C%E8%BF%8E%E6%8E%A5%E8%83%9C%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [成都养老机构老人被殴打？不实](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%85%BB%E8%80%81%E6%9C%BA%E6%9E%84%E8%80%81%E4%BA%BA%E8%A2%AB%E6%AE%B4%E6%89%93%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [弟弟结婚董宇辉回家帮忙成碍眼包](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [物理学诺奖得主将人类带进阿秒时代](https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86%E5%AD%A6%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E5%B0%86%E4%BA%BA%E7%B1%BB%E5%B8%A6%E8%BF%9B%E9%98%BF%E7%A7%92%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [姚明双手插兜迎接胜利](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E5%8F%8C%E6%89%8B%E6%8F%92%E5%85%9C%E8%BF%8E%E6%8E%A5%E8%83%9C%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [成都养老机构老人被殴打？不实](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%85%BB%E8%80%81%E6%9C%BA%E6%9E%84%E8%80%81%E4%BA%BA%E8%A2%AB%E6%AE%B4%E6%89%93%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
