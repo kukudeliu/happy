@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 19:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 19:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [泰国总理致电中国大使道歉](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E8%87%B4%E7%94%B5%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [有一种骄傲叫赛场上的中国红](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E9%AA%84%E5%82%B2%E5%8F%AB%E8%B5%9B%E5%9C%BA%E4%B8%8A%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BA%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [莲花楼 断笛](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%20%E6%96%AD%E7%AC%9B&t=31&band_rank=8&Refer=top)<br />
-9. [微信过期文件打开的最简单方法](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E8%BF%87%E6%9C%9F%E6%96%87%E4%BB%B6%E6%89%93%E5%BC%80%E7%9A%84%E6%9C%80%E7%AE%80%E5%8D%95%E6%96%B9%E6%B3%95&t=31&band_rank=9&Refer=top)<br />
+9. [DIOR 迪丽热巴](https://s.weibo.com/weibo?q=DIOR%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
