@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 04:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 04:36:01</h4></div>
 
 > 微博  
 
-1. [女子通过WiFi名称跨60公里寻回手机](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%80%9A%E8%BF%87WiFi%E5%90%8D%E7%A7%B0%E8%B7%A860%E5%85%AC%E9%87%8C%E5%AF%BB%E5%9B%9E%E6%89%8B%E6%9C%BA%23&t=31&band_rank=1&Refer=top)<br />
-2. [躺在床上看手机时打开闪光灯](https://s.weibo.com/weibo?q=%E8%BA%BA%E5%9C%A8%E5%BA%8A%E4%B8%8A%E7%9C%8B%E6%89%8B%E6%9C%BA%E6%97%B6%E6%89%93%E5%BC%80%E9%97%AA%E5%85%89%E7%81%AF&t=31&band_rank=2&Refer=top)<br />
+1. [躺在床上看手机时打开闪光灯](https://s.weibo.com/weibo?q=%E8%BA%BA%E5%9C%A8%E5%BA%8A%E4%B8%8A%E7%9C%8B%E6%89%8B%E6%9C%BA%E6%97%B6%E6%89%93%E5%BC%80%E9%97%AA%E5%85%89%E7%81%AF&t=31&band_rank=1&Refer=top)<br />
+2. [女子通过WiFi名称跨60公里寻回手机](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%80%9A%E8%BF%87WiFi%E5%90%8D%E7%A7%B0%E8%B7%A860%E5%85%AC%E9%87%8C%E5%AF%BB%E5%9B%9E%E6%89%8B%E6%9C%BA%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会上的数字智能亮点](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%8A%E7%9A%84%E6%95%B0%E5%AD%97%E6%99%BA%E8%83%BD%E4%BA%AE%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [赵继伟道歉](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E9%81%93%E6%AD%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [本月你的工资或将多两笔钱](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E6%9C%88%E4%BD%A0%E7%9A%84%E5%B7%A5%E8%B5%84%E6%88%96%E5%B0%86%E5%A4%9A%E4%B8%A4%E7%AC%94%E9%92%B1%23&t=31&band_rank=5&Refer=top)<br />
