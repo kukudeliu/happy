@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 23:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 23:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王楚钦已经痛失本名](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%B7%B2%E7%BB%8F%E7%97%9B%E5%A4%B1%E6%9C%AC%E5%90%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [姚明](https://s.weibo.com/weibo?q=%E5%A7%9A%E6%98%8E&t=31&band_rank=7&Refer=top)<br />
 8. [全红婵最大的对手就是记者](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%9C%80%E5%A4%A7%E7%9A%84%E5%AF%B9%E6%89%8B%E5%B0%B1%E6%98%AF%E8%AE%B0%E8%80%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国男篮不敌菲律宾男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%94%B7%E7%AF%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [苏炳添和奥运奖牌同框](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%92%8C%E5%A5%A5%E8%BF%90%E5%A5%96%E7%89%8C%E5%90%8C%E6%A1%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
