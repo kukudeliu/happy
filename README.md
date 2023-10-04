@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 21:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 21:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南阳警方称目前还未抓到嫌疑人](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B3%E8%AD%A6%E6%96%B9%E7%A7%B0%E7%9B%AE%E5%89%8D%E8%BF%98%E6%9C%AA%E6%8A%93%E5%88%B0%E5%AB%8C%E7%96%91%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨昊10米台金牌](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%98%8A10%E7%B1%B3%E5%8F%B0%E9%87%91%E7%89%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国跳水队十全十美收官](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B7%B3%E6%B0%B4%E9%98%9F%E5%8D%81%E5%85%A8%E5%8D%81%E7%BE%8E%E6%94%B6%E5%AE%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [泰国枪击案死伤中国游客系免签入境](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%9E%AA%E5%87%BB%E6%A1%88%E6%AD%BB%E4%BC%A4%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%B3%BB%E5%85%8D%E7%AD%BE%E5%85%A5%E5%A2%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国男篮vs菲律宾男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%94%B7%E7%AF%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
