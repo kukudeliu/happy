@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 12:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 12:22:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [杭州亚运会中国队含金量拉满](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%90%AB%E9%87%91%E9%87%8F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [魏无羡乙女](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%97%A0%E7%BE%A1%E4%B9%99%E5%A5%B3%23&t=31&band_rank=4&Refer=top)<br />
 5. [直播间卖一个亿能赚多少钱](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E4%B8%80%E4%B8%AA%E4%BA%BF%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1%23&t=31&band_rank=5&Refer=top)<br />
-6. [向佐直播抱女儿违规了](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E7%9B%B4%E6%92%AD%E6%8A%B1%E5%A5%B3%E5%84%BF%E8%BF%9D%E8%A7%84%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [山西发生意外窒息事件7人遇难](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96%E7%AA%92%E6%81%AF%E4%BA%8B%E4%BB%B67%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [周冬雨凭燃冬提名亚太电影大奖](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E5%87%AD%E7%87%83%E5%86%AC%E6%8F%90%E5%90%8D%E4%BA%9A%E5%A4%AA%E7%94%B5%E5%BD%B1%E5%A4%A7%E5%A5%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [被婆婆拒绝的喜糖盒](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A9%86%E5%A9%86%E6%8B%92%E7%BB%9D%E7%9A%84%E5%96%9C%E7%B3%96%E7%9B%92%23&t=31&band_rank=9&Refer=top)<br />
+6. [山西发生意外窒息事件7人遇难](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96%E7%AA%92%E6%81%AF%E4%BA%8B%E4%BB%B67%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=6&Refer=top)<br />
+7. [周冬雨凭燃冬提名亚太电影大奖](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E5%87%AD%E7%87%83%E5%86%AC%E6%8F%90%E5%90%8D%E4%BA%9A%E5%A4%AA%E7%94%B5%E5%BD%B1%E5%A4%A7%E5%A5%96%23&t=31&band_rank=7&Refer=top)<br />
+8. [被婆婆拒绝的喜糖盒](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A9%86%E5%A9%86%E6%8B%92%E7%BB%9D%E7%9A%84%E5%96%9C%E7%B3%96%E7%9B%92%23&t=31&band_rank=8&Refer=top)<br />
+9. [瑞幸和茅台看了都沉默](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%92%8C%E8%8C%85%E5%8F%B0%E7%9C%8B%E4%BA%86%E9%83%BD%E6%B2%89%E9%BB%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [存款特种兵，为4%年利率疯狂](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E7%89%B9%E7%A7%8D%E5%85%B5%EF%BC%8C%E4%B8%BA4%25%E5%B9%B4%E5%88%A9%E7%8E%87%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [硕士孕妇为孩子去香港读大专](https://www.baidu.com/s?wd=%E7%A1%95%E5%A3%AB%E5%AD%95%E5%A6%87%E4%B8%BA%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%A6%99%E6%B8%AF%E8%AF%BB%E5%A4%A7%E4%B8%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山西发生意外窒息事件致7人遇难](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96%E7%AA%92%E6%81%AF%E4%BA%8B%E4%BB%B6%E8%87%B47%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [南阳迷笛大量财物被盗 帐篷都被偷](https://www.baidu.com/s?wd=%E5%8D%97%E9%98%B3%E8%BF%B7%E7%AC%9B%E5%A4%A7%E9%87%8F%E8%B4%A2%E7%89%A9%E8%A2%AB%E7%9B%97+%E5%B8%90%E7%AF%B7%E9%83%BD%E8%A2%AB%E5%81%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [醉驾司机：给你5000通融一下](https://www.baidu.com/s?wd=%E9%86%89%E9%A9%BE%E5%8F%B8%E6%9C%BA%EF%BC%9A%E7%BB%99%E4%BD%A05000%E9%80%9A%E8%9E%8D%E4%B8%80%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [存款特种兵，为4%年利率疯狂](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E7%89%B9%E7%A7%8D%E5%85%B5%EF%BC%8C%E4%B8%BA4%25%E5%B9%B4%E5%88%A9%E7%8E%87%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [硕士孕妇为孩子去香港读大专](https://www.baidu.com/s?wd=%E7%A1%95%E5%A3%AB%E5%AD%95%E5%A6%87%E4%B8%BA%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%A6%99%E6%B8%AF%E8%AF%BB%E5%A4%A7%E4%B8%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山西发生意外窒息事件致7人遇难](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96%E7%AA%92%E6%81%AF%E4%BA%8B%E4%BB%B6%E8%87%B47%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [南阳迷笛大量财物被盗 帐篷都被偷](https://www.baidu.com/s?wd=%E5%8D%97%E9%98%B3%E8%BF%B7%E7%AC%9B%E5%A4%A7%E9%87%8F%E8%B4%A2%E7%89%A9%E8%A2%AB%E7%9B%97+%E5%B8%90%E7%AF%B7%E9%83%BD%E8%A2%AB%E5%81%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [醉驾司机：给你5000通融一下](https://www.baidu.com/s?wd=%E9%86%89%E9%A9%BE%E5%8F%B8%E6%9C%BA%EF%BC%9A%E7%BB%99%E4%BD%A05000%E9%80%9A%E8%9E%8D%E4%B8%80%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
