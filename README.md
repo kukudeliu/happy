@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 16:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 16:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈芋汐说没有全红婵她的水平不会提高](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E8%AF%B4%E6%B2%A1%E6%9C%89%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%A5%B9%E7%9A%84%E6%B0%B4%E5%B9%B3%E4%B8%8D%E4%BC%9A%E6%8F%90%E9%AB%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [张杰回应谢震业](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%9B%9E%E5%BA%94%E8%B0%A2%E9%9C%87%E4%B8%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [新湃传媒 陈情令](https://s.weibo.com/weibo?q=%E6%96%B0%E6%B9%83%E4%BC%A0%E5%AA%92%20%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=8&Refer=top)<br />
-9. [湖南婚车](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%A9%9A%E8%BD%A6&t=31&band_rank=9&Refer=top)<br />
+9. [陈若琳全红婵强将手下无弱兵](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8B%A5%E7%90%B3%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%BC%BA%E5%B0%86%E6%89%8B%E4%B8%8B%E6%97%A0%E5%BC%B1%E5%85%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大爷被穿短裙女子指责看腿后发飙](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E8%A2%AB%E7%A9%BF%E7%9F%AD%E8%A3%99%E5%A5%B3%E5%AD%90%E6%8C%87%E8%B4%A3%E7%9C%8B%E8%85%BF%E5%90%8E%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [兵马俑酒店有人付钱不住看看就走](https://www.baidu.com/s?wd=%E5%85%B5%E9%A9%AC%E4%BF%91%E9%85%92%E5%BA%97%E6%9C%89%E4%BA%BA%E4%BB%98%E9%92%B1%E4%B8%8D%E4%BD%8F%E7%9C%8B%E7%9C%8B%E5%B0%B1%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [第五位诺贝尔物理学奖女性得主诞生](https://www.baidu.com/s?wd=%E7%AC%AC%E4%BA%94%E4%BD%8D%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%E5%A5%B3%E6%80%A7%E5%BE%97%E4%B8%BB%E8%AF%9E%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [特警碰掉游客小吃后重新买了一份](https://www.baidu.com/s?wd=%E7%89%B9%E8%AD%A6%E7%A2%B0%E6%8E%89%E6%B8%B8%E5%AE%A2%E5%B0%8F%E5%90%83%E5%90%8E%E9%87%8D%E6%96%B0%E4%B9%B0%E4%BA%86%E4%B8%80%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大爷被穿短裙女子指责看腿后发飙](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E8%A2%AB%E7%A9%BF%E7%9F%AD%E8%A3%99%E5%A5%B3%E5%AD%90%E6%8C%87%E8%B4%A3%E7%9C%8B%E8%85%BF%E5%90%8E%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [兵马俑酒店有人付钱不住看看就走](https://www.baidu.com/s?wd=%E5%85%B5%E9%A9%AC%E4%BF%91%E9%85%92%E5%BA%97%E6%9C%89%E4%BA%BA%E4%BB%98%E9%92%B1%E4%B8%8D%E4%BD%8F%E7%9C%8B%E7%9C%8B%E5%B0%B1%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [第五位诺贝尔物理学奖女性得主诞生](https://www.baidu.com/s?wd=%E7%AC%AC%E4%BA%94%E4%BD%8D%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%E5%A5%B3%E6%80%A7%E5%BE%97%E4%B8%BB%E8%AF%9E%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [特警碰掉游客小吃后重新买了一份](https://www.baidu.com/s?wd=%E7%89%B9%E8%AD%A6%E7%A2%B0%E6%8E%89%E6%B8%B8%E5%AE%A2%E5%B0%8F%E5%90%83%E5%90%8E%E9%87%8D%E6%96%B0%E4%B9%B0%E4%BA%86%E4%B8%80%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
