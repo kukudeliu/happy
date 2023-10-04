@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 00:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 00:25:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [韩国的歧视真的绝了](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%9A%84%E6%AD%A7%E8%A7%86%E7%9C%9F%E7%9A%84%E7%BB%9D%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [躺在床上看手机时打开闪光灯](https://s.weibo.com/weibo?q=%E8%BA%BA%E5%9C%A8%E5%BA%8A%E4%B8%8A%E7%9C%8B%E6%89%8B%E6%9C%BA%E6%97%B6%E6%89%93%E5%BC%80%E9%97%AA%E5%85%89%E7%81%AF&t=31&band_rank=5&Refer=top)<br />
 6. [本月你的工资或将多两笔钱](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E6%9C%88%E4%BD%A0%E7%9A%84%E5%B7%A5%E8%B5%84%E6%88%96%E5%B0%86%E5%A4%9A%E4%B8%A4%E7%AC%94%E9%92%B1%23&t=31&band_rank=6&Refer=top)<br />
-7. [中国男篮vs菲律宾男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%94%B7%E7%AF%AE%23&t=31&band_rank=7&Refer=top)<br />
-8. [柯佳嬿 内向不必勉强自己外向](https://s.weibo.com/weibo?q=%E6%9F%AF%E4%BD%B3%E5%AC%BF%20%E5%86%85%E5%90%91%E4%B8%8D%E5%BF%85%E5%8B%89%E5%BC%BA%E8%87%AA%E5%B7%B1%E5%A4%96%E5%90%91&t=31&band_rank=8&Refer=top)<br />
+7. [柯佳嬿 内向不必勉强自己外向](https://s.weibo.com/weibo?q=%E6%9F%AF%E4%BD%B3%E5%AC%BF%20%E5%86%85%E5%90%91%E4%B8%8D%E5%BF%85%E5%8B%89%E5%BC%BA%E8%87%AA%E5%B7%B1%E5%A4%96%E5%90%91&t=31&band_rank=7&Refer=top)<br />
+8. [中国男篮vs菲律宾男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%94%B7%E7%AF%AE%23&t=31&band_rank=8&Refer=top)<br />
 9. [王楚钦已经痛失本名](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%B7%B2%E7%BB%8F%E7%97%9B%E5%A4%B1%E6%9C%AC%E5%90%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
