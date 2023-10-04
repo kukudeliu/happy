@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 10:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 10:12:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [中国游客亲历泰国枪击事件](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%BA%B2%E5%8E%86%E6%B3%B0%E5%9B%BD%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [弟弟结婚董宇辉回家帮忙成碍眼包](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [松鼠到死都觉得是自己不够努力](https://s.weibo.com/weibo?q=%E6%9D%BE%E9%BC%A0%E5%88%B0%E6%AD%BB%E9%83%BD%E8%A7%89%E5%BE%97%E6%98%AF%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%A4%9F%E5%8A%AA%E5%8A%9B&t=31&band_rank=7&Refer=top)<br />
-8. [王一博王俊凯张凌赫龚俊看秀生图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%BE%9A%E4%BF%8A%E7%9C%8B%E7%A7%80%E7%94%9F%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [上学时不合群的红利被我吃到了](https://s.weibo.com/weibo?q=%E4%B8%8A%E5%AD%A6%E6%97%B6%E4%B8%8D%E5%90%88%E7%BE%A4%E7%9A%84%E7%BA%A2%E5%88%A9%E8%A2%AB%E6%88%91%E5%90%83%E5%88%B0%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [统计称泰国超过1030万名平民持有枪支](https://s.weibo.com/weibo?q=%23%E7%BB%9F%E8%AE%A1%E7%A7%B0%E6%B3%B0%E5%9B%BD%E8%B6%85%E8%BF%871030%E4%B8%87%E5%90%8D%E5%B9%B3%E6%B0%91%E6%8C%81%E6%9C%89%E6%9E%AA%E6%94%AF%23&t=31&band_rank=8&Refer=top)<br />
+9. [王一博王俊凯张凌赫龚俊看秀生图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%BE%9A%E4%BF%8A%E7%9C%8B%E7%A7%80%E7%94%9F%E5%9B%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
