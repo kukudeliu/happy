@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 10:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 10:42:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [外国人吐槽美国面对华为芯片像疯了一样](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%90%90%E6%A7%BD%E7%BE%8E%E5%9B%BD%E9%9D%A2%E5%AF%B9%E5%8D%8E%E4%B8%BA%E8%8A%AF%E7%89%87%E5%83%8F%E7%96%AF%E4%BA%86%E4%B8%80%E6%A0%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈若琳全红婵](https://s.weibo.com/weibo?q=%E9%99%88%E8%8B%A5%E7%90%B3%E5%85%A8%E7%BA%A2%E5%A9%B5&t=31&band_rank=7&Refer=top)<br />
 8. [弟弟结婚董宇辉回家帮忙成碍眼包](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [统计称泰国超过1030万名平民持有枪支](https://s.weibo.com/weibo?q=%23%E7%BB%9F%E8%AE%A1%E7%A7%B0%E6%B3%B0%E5%9B%BD%E8%B6%85%E8%BF%871030%E4%B8%87%E5%90%8D%E5%B9%B3%E6%B0%91%E6%8C%81%E6%9C%89%E6%9E%AA%E6%94%AF%23&t=31&band_rank=9&Refer=top)<br />
+9. [意外窒息](https://s.weibo.com/weibo?q=%E6%84%8F%E5%A4%96%E7%AA%92%E6%81%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [哈尔滨组团到南京卖房 成交量为零](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E7%BB%84%E5%9B%A2%E5%88%B0%E5%8D%97%E4%BA%AC%E5%8D%96%E6%88%BF+%E6%88%90%E4%BA%A4%E9%87%8F%E4%B8%BA%E9%9B%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [山西发生意外窒息事件致7人遇难](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96%E7%AA%92%E6%81%AF%E4%BA%8B%E4%BB%B6%E8%87%B47%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [向佐直播抱女儿违规了](https://www.baidu.com/s?wd=%E5%90%91%E4%BD%90%E7%9B%B4%E6%92%AD%E6%8A%B1%E5%A5%B3%E5%84%BF%E8%BF%9D%E8%A7%84%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [弟弟结婚董宇辉回家帮忙成碍眼包](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [醉驾司机：给你5000通融一下](https://www.baidu.com/s?wd=%E9%86%89%E9%A9%BE%E5%8F%B8%E6%9C%BA%EF%BC%9A%E7%BB%99%E4%BD%A05000%E9%80%9A%E8%9E%8D%E4%B8%80%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [哈尔滨组团到南京卖房 成交量为零](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E7%BB%84%E5%9B%A2%E5%88%B0%E5%8D%97%E4%BA%AC%E5%8D%96%E6%88%BF+%E6%88%90%E4%BA%A4%E9%87%8F%E4%B8%BA%E9%9B%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [山西发生意外窒息事件致7人遇难](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96%E7%AA%92%E6%81%AF%E4%BA%8B%E4%BB%B6%E8%87%B47%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [向佐直播抱女儿违规了](https://www.baidu.com/s?wd=%E5%90%91%E4%BD%90%E7%9B%B4%E6%92%AD%E6%8A%B1%E5%A5%B3%E5%84%BF%E8%BF%9D%E8%A7%84%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [弟弟结婚董宇辉回家帮忙成碍眼包](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [醉驾司机：给你5000通融一下](https://www.baidu.com/s?wd=%E9%86%89%E9%A9%BE%E5%8F%B8%E6%9C%BA%EF%BC%9A%E7%BB%99%E4%BD%A05000%E9%80%9A%E8%9E%8D%E4%B8%80%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
