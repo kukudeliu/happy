@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 12:12:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 12:13:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [魏无羡乙女](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%97%A0%E7%BE%A1%E4%B9%99%E5%A5%B3%23&t=31&band_rank=5&Refer=top)<br />
 6. [山西发生意外窒息事件7人遇难](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96%E7%AA%92%E6%81%AF%E4%BA%8B%E4%BB%B67%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [直播间卖一个亿能赚多少钱](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E4%B8%80%E4%B8%AA%E4%BA%BF%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [瑞幸和茅台看了都沉默](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%92%8C%E8%8C%85%E5%8F%B0%E7%9C%8B%E4%BA%86%E9%83%BD%E6%B2%89%E9%BB%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [周冬雨凭燃冬提名亚太电影大奖](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E5%87%AD%E7%87%83%E5%86%AC%E6%8F%90%E5%90%8D%E4%BA%9A%E5%A4%AA%E7%94%B5%E5%BD%B1%E5%A4%A7%E5%A5%96%23&t=31&band_rank=9&Refer=top)<br />
+8. [周冬雨凭燃冬提名亚太电影大奖](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E5%87%AD%E7%87%83%E5%86%AC%E6%8F%90%E5%90%8D%E4%BA%9A%E5%A4%AA%E7%94%B5%E5%BD%B1%E5%A4%A7%E5%A5%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [瑞幸和茅台看了都沉默](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%92%8C%E8%8C%85%E5%8F%B0%E7%9C%8B%E4%BA%86%E9%83%BD%E6%B2%89%E9%BB%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
