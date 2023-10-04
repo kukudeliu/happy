@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 20:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 20:59:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [泰国枪击案死伤中国游客系免签入境](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%9E%AA%E5%87%BB%E6%A1%88%E6%AD%BB%E4%BC%A4%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%B3%BB%E5%85%8D%E7%AD%BE%E5%85%A5%E5%A2%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [研究生三年最好的安排](https://s.weibo.com/weibo?q=%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B8%89%E5%B9%B4%E6%9C%80%E5%A5%BD%E7%9A%84%E5%AE%89%E6%8E%92&t=31&band_rank=5&Refer=top)<br />
 6. [南阳警方称目前还未抓到嫌疑人](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B3%E8%AD%A6%E6%96%B9%E7%A7%B0%E7%9B%AE%E5%89%8D%E8%BF%98%E6%9C%AA%E6%8A%93%E5%88%B0%E5%AB%8C%E7%96%91%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [黄晓明抱不完根本抱不完](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%8A%B1%E4%B8%8D%E5%AE%8C%E6%A0%B9%E6%9C%AC%E6%8A%B1%E4%B8%8D%E5%AE%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [中国女排3比0韩国女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E6%AF%940%E9%9F%A9%E5%9B%BD%E5%A5%B3%E6%8E%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [泰国总理致电中国大使道歉](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E8%87%B4%E7%94%B5%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+7. [中国女排3比0韩国女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E6%AF%940%E9%9F%A9%E5%9B%BD%E5%A5%B3%E6%8E%92%23&t=31&band_rank=7&Refer=top)<br />
+8. [黄晓明抱不完根本抱不完](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%8A%B1%E4%B8%8D%E5%AE%8C%E6%A0%B9%E6%9C%AC%E6%8A%B1%E4%B8%8D%E5%AE%8C%23&t=31&band_rank=8&Refer=top)<br />
+9. [中国男篮vs菲律宾男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%94%B7%E7%AF%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [假期返程注意添衣保暖](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E6%B3%A8%E6%84%8F%E6%B7%BB%E8%A1%A3%E4%BF%9D%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杨昊6个10分](https://www.baidu.com/s?wd=%E6%9D%A8%E6%98%8A6%E4%B8%AA10%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [6万人到兵马俑1200人忘带身份证](https://www.baidu.com/s?wd=6%E4%B8%87%E4%BA%BA%E5%88%B0%E5%85%B5%E9%A9%AC%E4%BF%911200%E4%BA%BA%E5%BF%98%E5%B8%A6%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [交警回应街头上演“追击式”碰瓷](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%A1%97%E5%A4%B4%E4%B8%8A%E6%BC%94%E2%80%9C%E8%BF%BD%E5%87%BB%E5%BC%8F%E2%80%9D%E7%A2%B0%E7%93%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [存款特种兵，为4%年利率疯狂](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E7%89%B9%E7%A7%8D%E5%85%B5%EF%BC%8C%E4%B8%BA4%25%E5%B9%B4%E5%88%A9%E7%8E%87%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [存款特种兵，为4%年利率疯狂](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E7%89%B9%E7%A7%8D%E5%85%B5%EF%BC%8C%E4%B8%BA4%25%E5%B9%B4%E5%88%A9%E7%8E%87%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [霍震霆在亚运村为孙子孙女采购](https://www.baidu.com/s?wd=%E9%9C%8D%E9%9C%87%E9%9C%86%E5%9C%A8%E4%BA%9A%E8%BF%90%E6%9D%91%E4%B8%BA%E5%AD%99%E5%AD%90%E5%AD%99%E5%A5%B3%E9%87%87%E8%B4%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [假期返程注意添衣保暖](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E6%B3%A8%E6%84%8F%E6%B7%BB%E8%A1%A3%E4%BF%9D%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杨昊6个10分](https://www.baidu.com/s?wd=%E6%9D%A8%E6%98%8A6%E4%B8%AA10%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [6万人到兵马俑1200人忘带身份证](https://www.baidu.com/s?wd=6%E4%B8%87%E4%BA%BA%E5%88%B0%E5%85%B5%E9%A9%AC%E4%BF%911200%E4%BA%BA%E5%BF%98%E5%B8%A6%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [交警回应街头上演“追击式”碰瓷](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%A1%97%E5%A4%B4%E4%B8%8A%E6%BC%94%E2%80%9C%E8%BF%BD%E5%87%BB%E5%BC%8F%E2%80%9D%E7%A2%B0%E7%93%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [存款特种兵，为4%年利率疯狂](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E7%89%B9%E7%A7%8D%E5%85%B5%EF%BC%8C%E4%B8%BA4%25%E5%B9%B4%E5%88%A9%E7%8E%87%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [存款特种兵，为4%年利率疯狂](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E7%89%B9%E7%A7%8D%E5%85%B5%EF%BC%8C%E4%B8%BA4%25%E5%B9%B4%E5%88%A9%E7%8E%87%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [霍震霆在亚运村为孙子孙女采购](https://www.baidu.com/s?wd=%E9%9C%8D%E9%9C%87%E9%9C%86%E5%9C%A8%E4%BA%9A%E8%BF%90%E6%9D%91%E4%B8%BA%E5%AD%99%E5%AD%90%E5%AD%99%E5%A5%B3%E9%87%87%E8%B4%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
