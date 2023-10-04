@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 08:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 08:38:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [假期旅游热 祖国山河美](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E6%97%85%E6%B8%B8%E7%83%AD+%E7%A5%96%E5%9B%BD%E5%B1%B1%E6%B2%B3%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [致6死！警方通报婚车与环卫车相撞](https://www.baidu.com/s?wd=%E8%87%B46%E6%AD%BB%EF%BC%81%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A9%9A%E8%BD%A6%E4%B8%8E%E7%8E%AF%E5%8D%AB%E8%BD%A6%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大学生将付费餐具带走引热议](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B0%86%E4%BB%98%E8%B4%B9%E9%A4%90%E5%85%B7%E5%B8%A6%E8%B5%B0%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [柯洁两银收场泣不成声](https://www.baidu.com/s?wd=%E6%9F%AF%E6%B4%81%E4%B8%A4%E9%93%B6%E6%94%B6%E5%9C%BA%E6%B3%A3%E4%B8%8D%E6%88%90%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：扩大化举报让老师选择躺平](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%89%A9%E5%A4%A7%E5%8C%96%E4%B8%BE%E6%8A%A5%E8%AE%A9%E8%80%81%E5%B8%88%E9%80%89%E6%8B%A9%E8%BA%BA%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国游客亲历曼谷枪击：非常混乱](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%BA%B2%E5%8E%86%E6%9B%BC%E8%B0%B7%E6%9E%AA%E5%87%BB%EF%BC%9A%E9%9D%9E%E5%B8%B8%E6%B7%B7%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [7岁男孩偷拿钱买萝卜刀被送派出所](https://www.baidu.com/s?wd=7%E5%B2%81%E7%94%B7%E5%AD%A9%E5%81%B7%E6%8B%BF%E9%92%B1%E4%B9%B0%E8%90%9D%E5%8D%9C%E5%88%80%E8%A2%AB%E9%80%81%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都养老机构老人被殴打？不实](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%85%BB%E8%80%81%E6%9C%BA%E6%9E%84%E8%80%81%E4%BA%BA%E8%A2%AB%E6%AE%B4%E6%89%93%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [假期旅游热 祖国山河美](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E6%97%85%E6%B8%B8%E7%83%AD+%E7%A5%96%E5%9B%BD%E5%B1%B1%E6%B2%B3%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [致6死！警方通报婚车与环卫车相撞](https://www.baidu.com/s?wd=%E8%87%B46%E6%AD%BB%EF%BC%81%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A9%9A%E8%BD%A6%E4%B8%8E%E7%8E%AF%E5%8D%AB%E8%BD%A6%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大学生将付费餐具带走引热议](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B0%86%E4%BB%98%E8%B4%B9%E9%A4%90%E5%85%B7%E5%B8%A6%E8%B5%B0%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [柯洁两银收场泣不成声](https://www.baidu.com/s?wd=%E6%9F%AF%E6%B4%81%E4%B8%A4%E9%93%B6%E6%94%B6%E5%9C%BA%E6%B3%A3%E4%B8%8D%E6%88%90%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：扩大化举报让老师选择躺平](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%89%A9%E5%A4%A7%E5%8C%96%E4%B8%BE%E6%8A%A5%E8%AE%A9%E8%80%81%E5%B8%88%E9%80%89%E6%8B%A9%E8%BA%BA%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国游客亲历曼谷枪击：非常混乱](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%BA%B2%E5%8E%86%E6%9B%BC%E8%B0%B7%E6%9E%AA%E5%87%BB%EF%BC%9A%E9%9D%9E%E5%B8%B8%E6%B7%B7%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [7岁男孩偷拿钱买萝卜刀被送派出所](https://www.baidu.com/s?wd=7%E5%B2%81%E7%94%B7%E5%AD%A9%E5%81%B7%E6%8B%BF%E9%92%B1%E4%B9%B0%E8%90%9D%E5%8D%9C%E5%88%80%E8%A2%AB%E9%80%81%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都养老机构老人被殴打？不实](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%85%BB%E8%80%81%E6%9C%BA%E6%9E%84%E8%80%81%E4%BA%BA%E8%A2%AB%E6%AE%B4%E6%89%93%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
