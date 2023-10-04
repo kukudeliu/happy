@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 11:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 11:29:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [向佐直播抱女儿违规了](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E7%9B%B4%E6%92%AD%E6%8A%B1%E5%A5%B3%E5%84%BF%E8%BF%9D%E8%A7%84%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [山西发生意外窒息事件7人遇难](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96%E7%AA%92%E6%81%AF%E4%BA%8B%E4%BB%B67%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [钢铁侠和黑寡妇在2023年10月牺牲](https://s.weibo.com/weibo?q=%E9%92%A2%E9%93%81%E4%BE%A0%E5%92%8C%E9%BB%91%E5%AF%A1%E5%A6%87%E5%9C%A82023%E5%B9%B410%E6%9C%88%E7%89%BA%E7%89%B2&t=31&band_rank=7&Refer=top)<br />
-8. [陈若琳全红婵](https://s.weibo.com/weibo?q=%E9%99%88%E8%8B%A5%E7%90%B3%E5%85%A8%E7%BA%A2%E5%A9%B5&t=31&band_rank=8&Refer=top)<br />
-9. [6旬夫妻吃冰箱冷藏半年豆皮进ICU](https://s.weibo.com/weibo?q=%236%E6%97%AC%E5%A4%AB%E5%A6%BB%E5%90%83%E5%86%B0%E7%AE%B1%E5%86%B7%E8%97%8F%E5%8D%8A%E5%B9%B4%E8%B1%86%E7%9A%AE%E8%BF%9BICU%23&t=31&band_rank=9&Refer=top)<br />
+8. [直播间卖一个亿能赚多少钱](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E4%B8%80%E4%B8%AA%E4%BA%BF%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1%23&t=31&band_rank=8&Refer=top)<br />
+9. [陈若琳全红婵](https://s.weibo.com/weibo?q=%E9%99%88%E8%8B%A5%E7%90%B3%E5%85%A8%E7%BA%A2%E5%A9%B5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
