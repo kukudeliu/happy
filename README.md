@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 00:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 00:57:02</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [男篮发布会赵继伟道歉](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E5%8F%91%E5%B8%83%E4%BC%9A%E8%B5%B5%E7%BB%A7%E4%BC%9F%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [沃野千里展新卷](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E5%8D%83%E9%87%8C%E5%B1%95%E6%96%B0%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男篮遭遇黑色3分钟 姚明脸色铁青](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E9%81%AD%E9%81%87%E9%BB%91%E8%89%B23%E5%88%86%E9%92%9F+%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E9%93%81%E9%9D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [麦卡锡被罢免后自嘲创造历史](https://www.baidu.com/s?wd=%E9%BA%A6%E5%8D%A1%E9%94%A1%E8%A2%AB%E7%BD%A2%E5%85%8D%E5%90%8E%E8%87%AA%E5%98%B2%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [上午拿下亚运金牌 晚上补领奥运金牌](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%88%E6%8B%BF%E4%B8%8B%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C+%E6%99%9A%E4%B8%8A%E8%A1%A5%E9%A2%86%E5%A5%A5%E8%BF%90%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [上午拿下亚运金牌 晚上补领奥运金牌](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%88%E6%8B%BF%E4%B8%8B%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C+%E6%99%9A%E4%B8%8A%E8%A1%A5%E9%A2%86%E5%A5%A5%E8%BF%90%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张艺谋带不动国庆档？](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%B8%A6%E4%B8%8D%E5%8A%A8%E5%9B%BD%E5%BA%86%E6%A1%A3%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [6万人到兵马俑1200人忘带身份证](https://www.baidu.com/s?wd=6%E4%B8%87%E4%BA%BA%E5%88%B0%E5%85%B5%E9%A9%AC%E4%BF%911200%E4%BA%BA%E5%BF%98%E5%B8%A6%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [男篮发布会赵继伟道歉](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E5%8F%91%E5%B8%83%E4%BC%9A%E8%B5%B5%E7%BB%A7%E4%BC%9F%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [沃野千里展新卷](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E5%8D%83%E9%87%8C%E5%B1%95%E6%96%B0%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男篮遭遇黑色3分钟 姚明脸色铁青](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E9%81%AD%E9%81%87%E9%BB%91%E8%89%B23%E5%88%86%E9%92%9F+%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E9%93%81%E9%9D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [麦卡锡被罢免后自嘲创造历史](https://www.baidu.com/s?wd=%E9%BA%A6%E5%8D%A1%E9%94%A1%E8%A2%AB%E7%BD%A2%E5%85%8D%E5%90%8E%E8%87%AA%E5%98%B2%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [上午拿下亚运金牌 晚上补领奥运金牌](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%88%E6%8B%BF%E4%B8%8B%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C+%E6%99%9A%E4%B8%8A%E8%A1%A5%E9%A2%86%E5%A5%A5%E8%BF%90%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [上午拿下亚运金牌 晚上补领奥运金牌](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%88%E6%8B%BF%E4%B8%8B%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C+%E6%99%9A%E4%B8%8A%E8%A1%A5%E9%A2%86%E5%A5%A5%E8%BF%90%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张艺谋带不动国庆档？](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%B8%A6%E4%B8%8D%E5%8A%A8%E5%9B%BD%E5%BA%86%E6%A1%A3%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [6万人到兵马俑1200人忘带身份证](https://www.baidu.com/s?wd=6%E4%B8%87%E4%BA%BA%E5%88%B0%E5%85%B5%E9%A9%AC%E4%BF%911200%E4%BA%BA%E5%BF%98%E5%B8%A6%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
