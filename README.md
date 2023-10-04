@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 16:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 16:14:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [网友提前返程1小时开10公里](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8F%90%E5%89%8D%E8%BF%94%E7%A8%8B1%E5%B0%8F%E6%97%B6%E5%BC%8010%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“数”读假日消费“热”力足](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%B0%E2%80%9D%E8%AF%BB%E5%81%87%E6%97%A5%E6%B6%88%E8%B4%B9%E2%80%9C%E7%83%AD%E2%80%9D%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [返程的后备箱：有人把鸡鸭挂车上](https://www.baidu.com/s?wd=%E8%BF%94%E7%A8%8B%E7%9A%84%E5%90%8E%E5%A4%87%E7%AE%B1%EF%BC%9A%E6%9C%89%E4%BA%BA%E6%8A%8A%E9%B8%A1%E9%B8%AD%E6%8C%82%E8%BD%A6%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [兵马俑酒店有人付钱不住看看就走](https://www.baidu.com/s?wd=%E5%85%B5%E9%A9%AC%E4%BF%91%E9%85%92%E5%BA%97%E6%9C%89%E4%BA%BA%E4%BB%98%E9%92%B1%E4%B8%8D%E4%BD%8F%E7%9C%8B%E7%9C%8B%E5%B0%B1%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“丸子头”葛曼棋终成当家女飞人](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%B8%E5%AD%90%E5%A4%B4%E2%80%9D%E8%91%9B%E6%9B%BC%E6%A3%8B%E7%BB%88%E6%88%90%E5%BD%93%E5%AE%B6%E5%A5%B3%E9%A3%9E%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [兵马俑酒店有人付钱不住看看就走](https://www.baidu.com/s?wd=%E5%85%B5%E9%A9%AC%E4%BF%91%E9%85%92%E5%BA%97%E6%9C%89%E4%BA%BA%E4%BB%98%E9%92%B1%E4%B8%8D%E4%BD%8F%E7%9C%8B%E7%9C%8B%E5%B0%B1%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大爷被穿短裙女子指责看腿后发飙](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E8%A2%AB%E7%A9%BF%E7%9F%AD%E8%A3%99%E5%A5%B3%E5%AD%90%E6%8C%87%E8%B4%A3%E7%9C%8B%E8%85%BF%E5%90%8E%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [特警碰掉游客小吃后重新买了一份](https://www.baidu.com/s?wd=%E7%89%B9%E8%AD%A6%E7%A2%B0%E6%8E%89%E6%B8%B8%E5%AE%A2%E5%B0%8F%E5%90%83%E5%90%8E%E9%87%8D%E6%96%B0%E4%B9%B0%E4%BA%86%E4%B8%80%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [网友提前返程1小时开10公里](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8F%90%E5%89%8D%E8%BF%94%E7%A8%8B1%E5%B0%8F%E6%97%B6%E5%BC%8010%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“数”读假日消费“热”力足](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%B0%E2%80%9D%E8%AF%BB%E5%81%87%E6%97%A5%E6%B6%88%E8%B4%B9%E2%80%9C%E7%83%AD%E2%80%9D%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [返程的后备箱：有人把鸡鸭挂车上](https://www.baidu.com/s?wd=%E8%BF%94%E7%A8%8B%E7%9A%84%E5%90%8E%E5%A4%87%E7%AE%B1%EF%BC%9A%E6%9C%89%E4%BA%BA%E6%8A%8A%E9%B8%A1%E9%B8%AD%E6%8C%82%E8%BD%A6%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [兵马俑酒店有人付钱不住看看就走](https://www.baidu.com/s?wd=%E5%85%B5%E9%A9%AC%E4%BF%91%E9%85%92%E5%BA%97%E6%9C%89%E4%BA%BA%E4%BB%98%E9%92%B1%E4%B8%8D%E4%BD%8F%E7%9C%8B%E7%9C%8B%E5%B0%B1%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“丸子头”葛曼棋终成当家女飞人](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%B8%E5%AD%90%E5%A4%B4%E2%80%9D%E8%91%9B%E6%9B%BC%E6%A3%8B%E7%BB%88%E6%88%90%E5%BD%93%E5%AE%B6%E5%A5%B3%E9%A3%9E%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [兵马俑酒店有人付钱不住看看就走](https://www.baidu.com/s?wd=%E5%85%B5%E9%A9%AC%E4%BF%91%E9%85%92%E5%BA%97%E6%9C%89%E4%BA%BA%E4%BB%98%E9%92%B1%E4%B8%8D%E4%BD%8F%E7%9C%8B%E7%9C%8B%E5%B0%B1%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大爷被穿短裙女子指责看腿后发飙](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E8%A2%AB%E7%A9%BF%E7%9F%AD%E8%A3%99%E5%A5%B3%E5%AD%90%E6%8C%87%E8%B4%A3%E7%9C%8B%E8%85%BF%E5%90%8E%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [特警碰掉游客小吃后重新买了一份](https://www.baidu.com/s?wd=%E7%89%B9%E8%AD%A6%E7%A2%B0%E6%8E%89%E6%B8%B8%E5%AE%A2%E5%B0%8F%E5%90%83%E5%90%8E%E9%87%8D%E6%96%B0%E4%B9%B0%E4%BA%86%E4%B8%80%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
