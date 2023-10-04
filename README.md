@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 23:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 23:44:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [男篮遭遇黑色3分钟 姚明脸色铁青](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E9%81%AD%E9%81%87%E9%BB%91%E8%89%B23%E5%88%86%E9%92%9F+%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E9%93%81%E9%9D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中科院博士开民宿 父亲：书白读了](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%BC%80%E6%B0%91%E5%AE%BF+%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B9%A6%E7%99%BD%E8%AF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张文宏评mRNA疫苗技术获诺奖](https://www.baidu.com/s?wd=%E5%BC%A0%E6%96%87%E5%AE%8F%E8%AF%84mRNA%E7%96%AB%E8%8B%97%E6%8A%80%E6%9C%AF%E8%8E%B7%E8%AF%BA%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [麦卡锡被罢免后自嘲创造历史](https://www.baidu.com/s?wd=%E9%BA%A6%E5%8D%A1%E9%94%A1%E8%A2%AB%E7%BD%A2%E5%85%8D%E5%90%8E%E8%87%AA%E5%98%B2%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [6万人到兵马俑1200人忘带身份证](https://www.baidu.com/s?wd=6%E4%B8%87%E4%BA%BA%E5%88%B0%E5%85%B5%E9%A9%AC%E4%BF%911200%E4%BA%BA%E5%BF%98%E5%B8%A6%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男篮遭遇黑色3分钟 姚明脸色铁青](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E9%81%AD%E9%81%87%E9%BB%91%E8%89%B23%E5%88%86%E9%92%9F+%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E9%93%81%E9%9D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中科院博士开民宿 父亲：书白读了](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%BC%80%E6%B0%91%E5%AE%BF+%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B9%A6%E7%99%BD%E8%AF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张文宏评mRNA疫苗技术获诺奖](https://www.baidu.com/s?wd=%E5%BC%A0%E6%96%87%E5%AE%8F%E8%AF%84mRNA%E7%96%AB%E8%8B%97%E6%8A%80%E6%9C%AF%E8%8E%B7%E8%AF%BA%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [麦卡锡被罢免后自嘲创造历史](https://www.baidu.com/s?wd=%E9%BA%A6%E5%8D%A1%E9%94%A1%E8%A2%AB%E7%BD%A2%E5%85%8D%E5%90%8E%E8%87%AA%E5%98%B2%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [6万人到兵马俑1200人忘带身份证](https://www.baidu.com/s?wd=6%E4%B8%87%E4%BA%BA%E5%88%B0%E5%85%B5%E9%A9%AC%E4%BF%911200%E4%BA%BA%E5%BF%98%E5%B8%A6%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
