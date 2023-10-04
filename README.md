@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 23:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 23:27:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [本月你的工资或将多两笔钱](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E6%9C%88%E4%BD%A0%E7%9A%84%E5%B7%A5%E8%B5%84%E6%88%96%E5%B0%86%E5%A4%9A%E4%B8%A4%E7%AC%94%E9%92%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [姚明](https://s.weibo.com/weibo?q=%E5%A7%9A%E6%98%8E&t=31&band_rank=6&Refer=top)<br />
 7. [韩国的歧视真的绝了](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%9A%84%E6%AD%A7%E8%A7%86%E7%9C%9F%E7%9A%84%E7%BB%9D%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [中国男篮不敌菲律宾男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%94%B7%E7%AF%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [全红婵最大的对手就是记者](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%9C%80%E5%A4%A7%E7%9A%84%E5%AF%B9%E6%89%8B%E5%B0%B1%E6%98%AF%E8%AE%B0%E8%80%85%23&t=31&band_rank=9&Refer=top)<br />
+8. [全红婵最大的对手就是记者](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%9C%80%E5%A4%A7%E7%9A%84%E5%AF%B9%E6%89%8B%E5%B0%B1%E6%98%AF%E8%AE%B0%E8%80%85%23&t=31&band_rank=8&Refer=top)<br />
+9. [中国男篮不敌菲律宾男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%94%B7%E7%AF%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
