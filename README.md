@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 15:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 15:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [DIOR 迪丽热巴](https://s.weibo.com/weibo?q=DIOR%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4&t=31&band_rank=5&Refer=top)<br />
 6. [直播间卖一个亿能赚多少钱](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E4%B8%80%E4%B8%AA%E4%BA%BF%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [新湃传媒 陈情令](https://s.weibo.com/weibo?q=%E6%96%B0%E6%B9%83%E4%BC%A0%E5%AA%92%20%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=7&Refer=top)<br />
-8. [特警碰掉游客小吃后重新买了一份](https://s.weibo.com/weibo?q=%23%E7%89%B9%E8%AD%A6%E7%A2%B0%E6%8E%89%E6%B8%B8%E5%AE%A2%E5%B0%8F%E5%90%83%E5%90%8E%E9%87%8D%E6%96%B0%E4%B9%B0%E4%BA%86%E4%B8%80%E4%BB%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [湖南婚车](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%A9%9A%E8%BD%A6&t=31&band_rank=9&Refer=top)<br />
+8. [湖南婚车](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%A9%9A%E8%BD%A6&t=31&band_rank=8&Refer=top)<br />
+9. [特警碰掉游客小吃后重新买了一份](https://s.weibo.com/weibo?q=%23%E7%89%B9%E8%AD%A6%E7%A2%B0%E6%8E%89%E6%B8%B8%E5%AE%A2%E5%B0%8F%E5%90%83%E5%90%8E%E9%87%8D%E6%96%B0%E4%B9%B0%E4%BA%86%E4%B8%80%E4%BB%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
