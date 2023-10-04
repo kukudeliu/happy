@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 16:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 16:40:02</h4></div>
 
 > 微博  
 
 1. [微信过期文件打开的最简单方法](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E8%BF%87%E6%9C%9F%E6%96%87%E4%BB%B6%E6%89%93%E5%BC%80%E7%9A%84%E6%9C%80%E7%AE%80%E5%8D%95%E6%96%B9%E6%B3%95&t=31&band_rank=1&Refer=top)<br />
 2. [黄晓明因为被嘲笑英文去演了英语老师](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%9B%A0%E4%B8%BA%E8%A2%AB%E5%98%B2%E7%AC%91%E8%8B%B1%E6%96%87%E5%8E%BB%E6%BC%94%E4%BA%86%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%88%23&t=31&band_rank=2&Refer=top)<br />
-3. [DIOR 迪丽热巴](https://s.weibo.com/weibo?q=DIOR%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4&t=31&band_rank=3&Refer=top)<br />
-4. [吸引全红婵只需要一个乌龟玩偶](https://s.weibo.com/weibo?q=%23%E5%90%B8%E5%BC%95%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%8F%AA%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA%E4%B9%8C%E9%BE%9F%E7%8E%A9%E5%81%B6%23&t=31&band_rank=4&Refer=top)<br />
-5. [张杰回应谢震业](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%9B%9E%E5%BA%94%E8%B0%A2%E9%9C%87%E4%B8%9A%23&t=31&band_rank=5&Refer=top)<br />
+3. [亚运赛场上那些努力拼搏的身影](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA%E4%B8%8A%E9%82%A3%E4%BA%9B%E5%8A%AA%E5%8A%9B%E6%8B%BC%E6%90%8F%E7%9A%84%E8%BA%AB%E5%BD%B1%23&t=31&band_rank=3&Refer=top)<br />
+4. [DIOR 迪丽热巴](https://s.weibo.com/weibo?q=DIOR%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4&t=31&band_rank=4&Refer=top)<br />
+5. [吸引全红婵只需要一个乌龟玩偶](https://s.weibo.com/weibo?q=%23%E5%90%B8%E5%BC%95%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%8F%AA%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA%E4%B9%8C%E9%BE%9F%E7%8E%A9%E5%81%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [湖南婚车](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%A9%9A%E8%BD%A6&t=31&band_rank=6&Refer=top)<br />
-7. [石凯音乐节](https://s.weibo.com/weibo?q=%E7%9F%B3%E5%87%AF%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=7&Refer=top)<br />
+7. [张杰回应谢震业](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%9B%9E%E5%BA%94%E8%B0%A2%E9%9C%87%E4%B8%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [新湃传媒 陈情令](https://s.weibo.com/weibo?q=%E6%96%B0%E6%B9%83%E4%BC%A0%E5%AA%92%20%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=8&Refer=top)<br />
-9. [劝君少骂秦始皇](https://s.weibo.com/weibo?q=%E5%8A%9D%E5%90%9B%E5%B0%91%E9%AA%82%E7%A7%A6%E5%A7%8B%E7%9A%87&t=31&band_rank=9&Refer=top)<br />
+9. [石凯音乐节](https://s.weibo.com/weibo?q=%E7%9F%B3%E5%87%AF%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
