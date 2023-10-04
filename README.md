@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 15:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 15:38:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [网友提前返程1小时开10公里](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8F%90%E5%89%8D%E8%BF%94%E7%A8%8B1%E5%B0%8F%E6%97%B6%E5%BC%8010%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“数”读假日消费“热”力足](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%B0%E2%80%9D%E8%AF%BB%E5%81%87%E6%97%A5%E6%B6%88%E8%B4%B9%E2%80%9C%E7%83%AD%E2%80%9D%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [弟弟结婚董宇辉回家帮忙成碍眼包](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [弟弟结婚董宇辉回家帮忙成碍眼包](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [第五位诺贝尔物理学奖女性得主诞生](https://www.baidu.com/s?wd=%E7%AC%AC%E4%BA%94%E4%BD%8D%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%E5%A5%B3%E6%80%A7%E5%BE%97%E4%B8%BB%E8%AF%9E%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [网友提前返程1小时开10公里](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8F%90%E5%89%8D%E8%BF%94%E7%A8%8B1%E5%B0%8F%E6%97%B6%E5%BC%8010%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“数”读假日消费“热”力足](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%B0%E2%80%9D%E8%AF%BB%E5%81%87%E6%97%A5%E6%B6%88%E8%B4%B9%E2%80%9C%E7%83%AD%E2%80%9D%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [弟弟结婚董宇辉回家帮忙成碍眼包](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [弟弟结婚董宇辉回家帮忙成碍眼包](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [第五位诺贝尔物理学奖女性得主诞生](https://www.baidu.com/s?wd=%E7%AC%AC%E4%BA%94%E4%BD%8D%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%E5%A5%B3%E6%80%A7%E5%BE%97%E4%B8%BB%E8%AF%9E%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
