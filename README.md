@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 16:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 16:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [湖南婚车](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%A9%9A%E8%BD%A6&t=31&band_rank=6&Refer=top)<br />
 7. [DIOR 迪丽热巴](https://s.weibo.com/weibo?q=DIOR%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4&t=31&band_rank=7&Refer=top)<br />
 8. [张杰回应谢震业](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%9B%9E%E5%BA%94%E8%B0%A2%E9%9C%87%E4%B8%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [新湃传媒 陈情令](https://s.weibo.com/weibo?q=%E6%96%B0%E6%B9%83%E4%BC%A0%E5%AA%92%20%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=9&Refer=top)<br />
+9. [石凯音乐节](https://s.weibo.com/weibo?q=%E7%9F%B3%E5%87%AF%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
