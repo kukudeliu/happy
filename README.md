@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 21:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 21:28:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [假期返程注意添衣保暖](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E6%B3%A8%E6%84%8F%E6%B7%BB%E8%A1%A3%E4%BF%9D%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杨昊6个10分](https://www.baidu.com/s?wd=%E6%9D%A8%E6%98%8A6%E4%B8%AA10%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [6万人到兵马俑1200人忘带身份证](https://www.baidu.com/s?wd=6%E4%B8%87%E4%BA%BA%E5%88%B0%E5%85%B5%E9%A9%AC%E4%BF%911200%E4%BA%BA%E5%BF%98%E5%B8%A6%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [清华大学刑法学教授：差点被诈骗](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%88%91%E6%B3%95%E5%AD%A6%E6%95%99%E6%8E%88%EF%BC%9A%E5%B7%AE%E7%82%B9%E8%A2%AB%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子晒花生10分钟被鸟吃光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%99%92%E8%8A%B1%E7%94%9F10%E5%88%86%E9%92%9F%E8%A2%AB%E9%B8%9F%E5%90%83%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [据统计泰国每100人中约有15支枪](https://www.baidu.com/s?wd=%E6%8D%AE%E7%BB%9F%E8%AE%A1%E6%B3%B0%E5%9B%BD%E6%AF%8F100%E4%BA%BA%E4%B8%AD%E7%BA%A6%E6%9C%8915%E6%94%AF%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [假期返程注意添衣保暖](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E6%B3%A8%E6%84%8F%E6%B7%BB%E8%A1%A3%E4%BF%9D%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杨昊6个10分](https://www.baidu.com/s?wd=%E6%9D%A8%E6%98%8A6%E4%B8%AA10%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [6万人到兵马俑1200人忘带身份证](https://www.baidu.com/s?wd=6%E4%B8%87%E4%BA%BA%E5%88%B0%E5%85%B5%E9%A9%AC%E4%BF%911200%E4%BA%BA%E5%BF%98%E5%B8%A6%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [清华大学刑法学教授：差点被诈骗](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%88%91%E6%B3%95%E5%AD%A6%E6%95%99%E6%8E%88%EF%BC%9A%E5%B7%AE%E7%82%B9%E8%A2%AB%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子晒花生10分钟被鸟吃光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%99%92%E8%8A%B1%E7%94%9F10%E5%88%86%E9%92%9F%E8%A2%AB%E9%B8%9F%E5%90%83%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [据统计泰国每100人中约有15支枪](https://www.baidu.com/s?wd=%E6%8D%AE%E7%BB%9F%E8%AE%A1%E6%B3%B0%E5%9B%BD%E6%AF%8F100%E4%BA%BA%E4%B8%AD%E7%BA%A6%E6%9C%8915%E6%94%AF%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
