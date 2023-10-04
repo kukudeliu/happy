@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 11:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 11:40:01</h4></div>
 
 > 微博  
 
-1. [烤橘子 慢性咽炎](https://s.weibo.com/weibo?q=%E7%83%A4%E6%A9%98%E5%AD%90%20%E6%85%A2%E6%80%A7%E5%92%BD%E7%82%8E&t=31&band_rank=1&Refer=top)<br />
-2. [DIOR 迪丽热巴](https://s.weibo.com/weibo?q=DIOR%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4&t=31&band_rank=2&Refer=top)<br />
+1. [DIOR 迪丽热巴](https://s.weibo.com/weibo?q=DIOR%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4&t=31&band_rank=1&Refer=top)<br />
+2. [烤橘子 慢性咽炎](https://s.weibo.com/weibo?q=%E7%83%A4%E6%A9%98%E5%AD%90%20%E6%85%A2%E6%80%A7%E5%92%BD%E7%82%8E&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会中国队含金量拉满](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%90%AB%E9%87%91%E9%87%8F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [向佐直播抱女儿违规了](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E7%9B%B4%E6%92%AD%E6%8A%B1%E5%A5%B3%E5%84%BF%E8%BF%9D%E8%A7%84%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [意外窒息](https://s.weibo.com/weibo?q=%E6%84%8F%E5%A4%96%E7%AA%92%E6%81%AF&t=31&band_rank=5&Refer=top)<br />
