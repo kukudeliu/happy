@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 15:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 15:54:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [婚车事故记录仪显示婚车突然变道](https://www.baidu.com/s?wd=%E5%A9%9A%E8%BD%A6%E4%BA%8B%E6%95%85%E8%AE%B0%E5%BD%95%E4%BB%AA%E6%98%BE%E7%A4%BA%E5%A9%9A%E8%BD%A6%E7%AA%81%E7%84%B6%E5%8F%98%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广东人一年能吃掉8亿只鸡](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E4%B8%80%E5%B9%B4%E8%83%BD%E5%90%83%E6%8E%898%E4%BA%BF%E5%8F%AA%E9%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [重庆大雨警察保安游客共撑一把伞](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%A4%A7%E9%9B%A8%E8%AD%A6%E5%AF%9F%E4%BF%9D%E5%AE%89%E6%B8%B8%E5%AE%A2%E5%85%B1%E6%92%91%E4%B8%80%E6%8A%8A%E4%BC%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [婚车事故记录仪显示婚车突然变道](https://www.baidu.com/s?wd=%E5%A9%9A%E8%BD%A6%E4%BA%8B%E6%95%85%E8%AE%B0%E5%BD%95%E4%BB%AA%E6%98%BE%E7%A4%BA%E5%A9%9A%E8%BD%A6%E7%AA%81%E7%84%B6%E5%8F%98%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广东人一年能吃掉8亿只鸡](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E4%B8%80%E5%B9%B4%E8%83%BD%E5%90%83%E6%8E%898%E4%BA%BF%E5%8F%AA%E9%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [重庆大雨警察保安游客共撑一把伞](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%A4%A7%E9%9B%A8%E8%AD%A6%E5%AF%9F%E4%BF%9D%E5%AE%89%E6%B8%B8%E5%AE%A2%E5%85%B1%E6%92%91%E4%B8%80%E6%8A%8A%E4%BC%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
