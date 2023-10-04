@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 09:09:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 09:10:02</h4></div>
 
 > 微博  
 
-1. [弟弟结婚董宇辉回家帮忙成碍眼包](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85%23&t=31&band_rank=1&Refer=top)<br />
-2. [瑞幸和茅台看了都沉默](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%92%8C%E8%8C%85%E5%8F%B0%E7%9C%8B%E4%BA%86%E9%83%BD%E6%B2%89%E9%BB%98%23&t=31&band_rank=2&Refer=top)<br />
+1. [瑞幸和茅台看了都沉默](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%92%8C%E8%8C%85%E5%8F%B0%E7%9C%8B%E4%BA%86%E9%83%BD%E6%B2%89%E9%BB%98%23&t=31&band_rank=1&Refer=top)<br />
+2. [弟弟结婚董宇辉回家帮忙成碍眼包](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85%23&t=31&band_rank=2&Refer=top)<br />
 3. [潮涌杭州看亚运](https://s.weibo.com/weibo?q=%23%E6%BD%AE%E6%B6%8C%E6%9D%AD%E5%B7%9E%E7%9C%8B%E4%BA%9A%E8%BF%90%23&t=31&band_rank=3&Refer=top)<br />
 4. [湖南婚车事故致6死](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%A9%9A%E8%BD%A6%E4%BA%8B%E6%95%85%E8%87%B46%E6%AD%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [向佐直播抱女儿违规了](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E7%9B%B4%E6%92%AD%E6%8A%B1%E5%A5%B3%E5%84%BF%E8%BF%9D%E8%A7%84%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [大学生将付费餐具带走引热议](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B0%86%E4%BB%98%E8%B4%B9%E9%A4%90%E5%85%B7%E5%B8%A6%E8%B5%B0%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [弟弟结婚董宇辉回家帮忙成碍眼包](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩乔生：日本女足实力更胜一筹](https://www.baidu.com/s?wd=%E9%9F%A9%E4%B9%94%E7%94%9F%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E5%AE%9E%E5%8A%9B%E6%9B%B4%E8%83%9C%E4%B8%80%E7%AD%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女孩钻进高铁站台缝隙托举幼童](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%92%BB%E8%BF%9B%E9%AB%98%E9%93%81%E7%AB%99%E5%8F%B0%E7%BC%9D%E9%9A%99%E6%89%98%E4%B8%BE%E5%B9%BC%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本女足赛后集体鞠躬致敬水庆霞](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E8%B5%9B%E5%90%8E%E9%9B%86%E4%BD%93%E9%9E%A0%E8%BA%AC%E8%87%B4%E6%95%AC%E6%B0%B4%E5%BA%86%E9%9C%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都养老机构老人被殴打？不实](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%85%BB%E8%80%81%E6%9C%BA%E6%9E%84%E8%80%81%E4%BA%BA%E8%A2%AB%E6%AE%B4%E6%89%93%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [大学生将付费餐具带走引热议](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B0%86%E4%BB%98%E8%B4%B9%E9%A4%90%E5%85%B7%E5%B8%A6%E8%B5%B0%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [弟弟结婚董宇辉回家帮忙成碍眼包](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩乔生：日本女足实力更胜一筹](https://www.baidu.com/s?wd=%E9%9F%A9%E4%B9%94%E7%94%9F%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E5%AE%9E%E5%8A%9B%E6%9B%B4%E8%83%9C%E4%B8%80%E7%AD%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女孩钻进高铁站台缝隙托举幼童](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%92%BB%E8%BF%9B%E9%AB%98%E9%93%81%E7%AB%99%E5%8F%B0%E7%BC%9D%E9%9A%99%E6%89%98%E4%B8%BE%E5%B9%BC%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本女足赛后集体鞠躬致敬水庆霞](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E8%B5%9B%E5%90%8E%E9%9B%86%E4%BD%93%E9%9E%A0%E8%BA%AC%E8%87%B4%E6%95%AC%E6%B0%B4%E5%BA%86%E9%9C%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都养老机构老人被殴打？不实](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%85%BB%E8%80%81%E6%9C%BA%E6%9E%84%E8%80%81%E4%BA%BA%E8%A2%AB%E6%AE%B4%E6%89%93%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
