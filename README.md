@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 15:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 15:29:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [弟弟结婚董宇辉回家帮忙成碍眼包](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州亚运会发现首例兴奋剂阳性案例](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%8F%91%E7%8E%B0%E9%A6%96%E4%BE%8B%E5%85%B4%E5%A5%8B%E5%89%82%E9%98%B3%E6%80%A7%E6%A1%88%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [据统计泰国每100人中约有15支枪](https://www.baidu.com/s?wd=%E6%8D%AE%E7%BB%9F%E8%AE%A1%E6%B3%B0%E5%9B%BD%E6%AF%8F100%E4%BA%BA%E4%B8%AD%E7%BA%A6%E6%9C%8915%E6%94%AF%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [弟弟结婚董宇辉回家帮忙成碍眼包](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州亚运会发现首例兴奋剂阳性案例](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%8F%91%E7%8E%B0%E9%A6%96%E4%BE%8B%E5%85%B4%E5%A5%8B%E5%89%82%E9%98%B3%E6%80%A7%E6%A1%88%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [据统计泰国每100人中约有15支枪](https://www.baidu.com/s?wd=%E6%8D%AE%E7%BB%9F%E8%AE%A1%E6%B3%B0%E5%9B%BD%E6%AF%8F100%E4%BA%BA%E4%B8%AD%E7%BA%A6%E6%9C%8915%E6%94%AF%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
