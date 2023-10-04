@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 14:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 14:15:01</h4></div>
 
 > 微博  
 
@@ -19,9 +19,9 @@
 
 1. [体育强则中国强](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E5%BC%BA%E5%88%99%E4%B8%AD%E5%9B%BD%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [存款特种兵，为4%年利率疯狂](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E7%89%B9%E7%A7%8D%E5%85%B5%EF%BC%8C%E4%B8%BA4%25%E5%B9%B4%E5%88%A9%E7%8E%87%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [网友提前返程1小时开10公里](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8F%90%E5%89%8D%E8%BF%94%E7%A8%8B1%E5%B0%8F%E6%97%B6%E5%BC%8010%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“数”读假日消费“热”力足](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%B0%E2%80%9D%E8%AF%BB%E5%81%87%E6%97%A5%E6%B6%88%E8%B4%B9%E2%80%9C%E7%83%AD%E2%80%9D%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [戏剧性！美国3号人物突然被罢免了](https://www.baidu.com/s?wd=%E6%88%8F%E5%89%A7%E6%80%A7%EF%BC%81%E7%BE%8E%E5%9B%BD3%E5%8F%B7%E4%BA%BA%E7%89%A9%E7%AA%81%E7%84%B6%E8%A2%AB%E7%BD%A2%E5%85%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [湖南婚车事故致6死 后车记录仪曝光](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%A9%9A%E8%BD%A6%E4%BA%8B%E6%95%85%E8%87%B46%E6%AD%BB+%E5%90%8E%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [弟弟结婚董宇辉回家帮忙成碍眼包](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,9 +31,9 @@
 
 1. [体育强则中国强](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E5%BC%BA%E5%88%99%E4%B8%AD%E5%9B%BD%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [存款特种兵，为4%年利率疯狂](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E7%89%B9%E7%A7%8D%E5%85%B5%EF%BC%8C%E4%B8%BA4%25%E5%B9%B4%E5%88%A9%E7%8E%87%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [网友提前返程1小时开10公里](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8F%90%E5%89%8D%E8%BF%94%E7%A8%8B1%E5%B0%8F%E6%97%B6%E5%BC%8010%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“数”读假日消费“热”力足](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%B0%E2%80%9D%E8%AF%BB%E5%81%87%E6%97%A5%E6%B6%88%E8%B4%B9%E2%80%9C%E7%83%AD%E2%80%9D%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [戏剧性！美国3号人物突然被罢免了](https://www.baidu.com/s?wd=%E6%88%8F%E5%89%A7%E6%80%A7%EF%BC%81%E7%BE%8E%E5%9B%BD3%E5%8F%B7%E4%BA%BA%E7%89%A9%E7%AA%81%E7%84%B6%E8%A2%AB%E7%BD%A2%E5%85%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [湖南婚车事故致6死 后车记录仪曝光](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%A9%9A%E8%BD%A6%E4%BA%8B%E6%95%85%E8%87%B46%E6%AD%BB+%E5%90%8E%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [弟弟结婚董宇辉回家帮忙成碍眼包](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
