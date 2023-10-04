@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 22:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 22:26:01</h4></div>
 
 > 微博  
 
 1. [中国男篮vs菲律宾男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%94%B7%E7%AF%AE%23&t=31&band_rank=1&Refer=top)<br />
 2. [中国男篮不敌菲律宾男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%94%B7%E7%AF%AE%23&t=31&band_rank=2&Refer=top)<br />
 3. [这次科考为何选择卓奥友峰](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%AC%A1%E7%A7%91%E8%80%83%E4%B8%BA%E4%BD%95%E9%80%89%E6%8B%A9%E5%8D%93%E5%A5%A5%E5%8F%8B%E5%B3%B0%23&t=31&band_rank=3&Refer=top)<br />
-4. [男篮一分之差输了](https://s.weibo.com/weibo?q=%E7%94%B7%E7%AF%AE%E4%B8%80%E5%88%86%E4%B9%8B%E5%B7%AE%E8%BE%93%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
-5. [王楚钦已经痛失本名](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%B7%B2%E7%BB%8F%E7%97%9B%E5%A4%B1%E6%9C%AC%E5%90%8D%23&t=31&band_rank=5&Refer=top)<br />
-6. [中国男篮无缘亚运决赛](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%97%A0%E7%BC%98%E4%BA%9A%E8%BF%90%E5%86%B3%E8%B5%9B%23&t=31&band_rank=6&Refer=top)<br />
-7. [姚明](https://s.weibo.com/weibo?q=%E5%A7%9A%E6%98%8E&t=31&band_rank=7&Refer=top)<br />
+4. [王楚钦已经痛失本名](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%B7%B2%E7%BB%8F%E7%97%9B%E5%A4%B1%E6%9C%AC%E5%90%8D%23&t=31&band_rank=4&Refer=top)<br />
+5. [男篮一分之差输了](https://s.weibo.com/weibo?q=%E7%94%B7%E7%AF%AE%E4%B8%80%E5%88%86%E4%B9%8B%E5%B7%AE%E8%BE%93%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
+6. [姚明](https://s.weibo.com/weibo?q=%E5%A7%9A%E6%98%8E&t=31&band_rank=6&Refer=top)<br />
+7. [中国男篮无缘亚运决赛](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%97%A0%E7%BC%98%E4%BA%9A%E8%BF%90%E5%86%B3%E8%B5%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [韩国的歧视真的绝了](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%9A%84%E6%AD%A7%E8%A7%86%E7%9C%9F%E7%9A%84%E7%BB%9D%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [中国男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%23&t=31&band_rank=9&Refer=top)<br />
 
