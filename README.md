@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 17:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 17:59:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [欢度国庆佳节 阔步迈向未来](https://www.baidu.com/s?wd=%E6%AC%A2%E5%BA%A6%E5%9B%BD%E5%BA%86%E4%BD%B3%E8%8A%82+%E9%98%94%E6%AD%A5%E8%BF%88%E5%90%91%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [“大聪明”又堵路上？提前3天还堵](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E8%81%AA%E6%98%8E%E2%80%9D%E5%8F%88%E5%A0%B5%E8%B7%AF%E4%B8%8A%EF%BC%9F%E6%8F%90%E5%89%8D3%E5%A4%A9%E8%BF%98%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [存款特种兵，为4%年利率疯狂](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E7%89%B9%E7%A7%8D%E5%85%B5%EF%BC%8C%E4%B8%BA4%25%E5%B9%B4%E5%88%A9%E7%8E%87%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [三位科学家获2023年诺贝尔化学奖](https://www.baidu.com/s?wd=%E4%B8%89%E4%BD%8D%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%8E%B72023%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [假期返程注意添衣保暖](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E6%B3%A8%E6%84%8F%E6%B7%BB%E8%A1%A3%E4%BF%9D%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国游客遇袭身亡：原计划凌晨回国](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1%EF%BC%9A%E5%8E%9F%E8%AE%A1%E5%88%92%E5%87%8C%E6%99%A8%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大爷被穿短裙女子指责看腿后发飙](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E8%A2%AB%E7%A9%BF%E7%9F%AD%E8%A3%99%E5%A5%B3%E5%AD%90%E6%8C%87%E8%B4%A3%E7%9C%8B%E8%85%BF%E5%90%8E%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [欢度国庆佳节 阔步迈向未来](https://www.baidu.com/s?wd=%E6%AC%A2%E5%BA%A6%E5%9B%BD%E5%BA%86%E4%BD%B3%E8%8A%82+%E9%98%94%E6%AD%A5%E8%BF%88%E5%90%91%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [“大聪明”又堵路上？提前3天还堵](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E8%81%AA%E6%98%8E%E2%80%9D%E5%8F%88%E5%A0%B5%E8%B7%AF%E4%B8%8A%EF%BC%9F%E6%8F%90%E5%89%8D3%E5%A4%A9%E8%BF%98%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [存款特种兵，为4%年利率疯狂](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E7%89%B9%E7%A7%8D%E5%85%B5%EF%BC%8C%E4%B8%BA4%25%E5%B9%B4%E5%88%A9%E7%8E%87%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [三位科学家获2023年诺贝尔化学奖](https://www.baidu.com/s?wd=%E4%B8%89%E4%BD%8D%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%8E%B72023%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [假期返程注意添衣保暖](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E6%B3%A8%E6%84%8F%E6%B7%BB%E8%A1%A3%E4%BF%9D%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国游客遇袭身亡：原计划凌晨回国](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1%EF%BC%9A%E5%8E%9F%E8%AE%A1%E5%88%92%E5%87%8C%E6%99%A8%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大爷被穿短裙女子指责看腿后发飙](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E8%A2%AB%E7%A9%BF%E7%9F%AD%E8%A3%99%E5%A5%B3%E5%AD%90%E6%8C%87%E8%B4%A3%E7%9C%8B%E8%85%BF%E5%90%8E%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
