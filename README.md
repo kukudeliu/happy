@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 12:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 12:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [山西发生意外窒息事件7人遇难](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96%E7%AA%92%E6%81%AF%E4%BA%8B%E4%BB%B67%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [周冬雨凭燃冬提名亚太电影大奖](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E5%87%AD%E7%87%83%E5%86%AC%E6%8F%90%E5%90%8D%E4%BA%9A%E5%A4%AA%E7%94%B5%E5%BD%B1%E5%A4%A7%E5%A5%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [被婆婆拒绝的喜糖盒](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A9%86%E5%A9%86%E6%8B%92%E7%BB%9D%E7%9A%84%E5%96%9C%E7%B3%96%E7%9B%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [瑞幸和茅台看了都沉默](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%92%8C%E8%8C%85%E5%8F%B0%E7%9C%8B%E4%BA%86%E9%83%BD%E6%B2%89%E9%BB%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [全红婵把小乌龟背包送给陈若琳](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%8A%8A%E5%B0%8F%E4%B9%8C%E9%BE%9F%E8%83%8C%E5%8C%85%E9%80%81%E7%BB%99%E9%99%88%E8%8B%A5%E7%90%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
