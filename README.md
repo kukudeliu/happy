@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 19:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 19:44:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [“国庆参加完23场婚礼，我破产了”](https://www.baidu.com/s?wd=%E2%80%9C%E5%9B%BD%E5%BA%86%E5%8F%82%E5%8A%A0%E5%AE%8C23%E5%9C%BA%E5%A9%9A%E7%A4%BC%EF%BC%8C%E6%88%91%E7%A0%B4%E4%BA%A7%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [假期返程注意添衣保暖](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E6%B3%A8%E6%84%8F%E6%B7%BB%E8%A1%A3%E4%BF%9D%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国游客遇袭身亡：原计划凌晨回国](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1%EF%BC%9A%E5%8E%9F%E8%AE%A1%E5%88%92%E5%87%8C%E6%99%A8%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [存款特种兵，为4%年利率疯狂](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E7%89%B9%E7%A7%8D%E5%85%B5%EF%BC%8C%E4%B8%BA4%25%E5%B9%B4%E5%88%A9%E7%8E%87%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [全红婵画了自己最喜欢的小乌龟](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%94%BB%E4%BA%86%E8%87%AA%E5%B7%B1%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E5%B0%8F%E4%B9%8C%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张杰回应谢震业](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9D%B0%E5%9B%9E%E5%BA%94%E8%B0%A2%E9%9C%87%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [交警回应街头上演“追击式”碰瓷](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%A1%97%E5%A4%B4%E4%B8%8A%E6%BC%94%E2%80%9C%E8%BF%BD%E5%87%BB%E5%BC%8F%E2%80%9D%E7%A2%B0%E7%93%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [存款特种兵，为4%年利率疯狂](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E7%89%B9%E7%A7%8D%E5%85%B5%EF%BC%8C%E4%B8%BA4%25%E5%B9%B4%E5%88%A9%E7%8E%87%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [南阳音乐节物品失窃引“地域攻击”](https://www.baidu.com/s?wd=%E5%8D%97%E9%98%B3%E9%9F%B3%E4%B9%90%E8%8A%82%E7%89%A9%E5%93%81%E5%A4%B1%E7%AA%83%E5%BC%95%E2%80%9C%E5%9C%B0%E5%9F%9F%E6%94%BB%E5%87%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [“国庆参加完23场婚礼，我破产了”](https://www.baidu.com/s?wd=%E2%80%9C%E5%9B%BD%E5%BA%86%E5%8F%82%E5%8A%A0%E5%AE%8C23%E5%9C%BA%E5%A9%9A%E7%A4%BC%EF%BC%8C%E6%88%91%E7%A0%B4%E4%BA%A7%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [假期返程注意添衣保暖](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E6%B3%A8%E6%84%8F%E6%B7%BB%E8%A1%A3%E4%BF%9D%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国游客遇袭身亡：原计划凌晨回国](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1%EF%BC%9A%E5%8E%9F%E8%AE%A1%E5%88%92%E5%87%8C%E6%99%A8%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [存款特种兵，为4%年利率疯狂](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E7%89%B9%E7%A7%8D%E5%85%B5%EF%BC%8C%E4%B8%BA4%25%E5%B9%B4%E5%88%A9%E7%8E%87%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [全红婵画了自己最喜欢的小乌龟](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%94%BB%E4%BA%86%E8%87%AA%E5%B7%B1%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E5%B0%8F%E4%B9%8C%E9%BE%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张杰回应谢震业](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9D%B0%E5%9B%9E%E5%BA%94%E8%B0%A2%E9%9C%87%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [交警回应街头上演“追击式”碰瓷](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%A1%97%E5%A4%B4%E4%B8%8A%E6%BC%94%E2%80%9C%E8%BF%BD%E5%87%BB%E5%BC%8F%E2%80%9D%E7%A2%B0%E7%93%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [存款特种兵，为4%年利率疯狂](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E7%89%B9%E7%A7%8D%E5%85%B5%EF%BC%8C%E4%B8%BA4%25%E5%B9%B4%E5%88%A9%E7%8E%87%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [南阳音乐节物品失窃引“地域攻击”](https://www.baidu.com/s?wd=%E5%8D%97%E9%98%B3%E9%9F%B3%E4%B9%90%E8%8A%82%E7%89%A9%E5%93%81%E5%A4%B1%E7%AA%83%E5%BC%95%E2%80%9C%E5%9C%B0%E5%9F%9F%E6%94%BB%E5%87%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
