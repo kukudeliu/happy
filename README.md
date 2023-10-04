@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 00:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 00:52:01</h4></div>
 
 > 微博  
 
-1. [赵继伟道歉](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E9%81%93%E6%AD%89%23&t=31&band_rank=1&Refer=top)<br />
-2. [躺在床上看手机时打开闪光灯](https://s.weibo.com/weibo?q=%E8%BA%BA%E5%9C%A8%E5%BA%8A%E4%B8%8A%E7%9C%8B%E6%89%8B%E6%9C%BA%E6%97%B6%E6%89%93%E5%BC%80%E9%97%AA%E5%85%89%E7%81%AF&t=31&band_rank=2&Refer=top)<br />
+1. [躺在床上看手机时打开闪光灯](https://s.weibo.com/weibo?q=%E8%BA%BA%E5%9C%A8%E5%BA%8A%E4%B8%8A%E7%9C%8B%E6%89%8B%E6%9C%BA%E6%97%B6%E6%89%93%E5%BC%80%E9%97%AA%E5%85%89%E7%81%AF&t=31&band_rank=1&Refer=top)<br />
+2. [赵继伟道歉](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E9%81%93%E6%AD%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [这次科考为何选择卓奥友峰](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%AC%A1%E7%A7%91%E8%80%83%E4%B8%BA%E4%BD%95%E9%80%89%E6%8B%A9%E5%8D%93%E5%A5%A5%E5%8F%8B%E5%B3%B0%23&t=31&band_rank=3&Refer=top)<br />
 4. [姚明为缺席发布会道歉](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%98%8E%E4%B8%BA%E7%BC%BA%E5%B8%AD%E5%8F%91%E5%B8%83%E4%BC%9A%E9%81%93%E6%AD%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [韩国的歧视真的绝了](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%9A%84%E6%AD%A7%E8%A7%86%E7%9C%9F%E7%9A%84%E7%BB%9D%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [本月你的工资或将多两笔钱](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E6%9C%88%E4%BD%A0%E7%9A%84%E5%B7%A5%E8%B5%84%E6%88%96%E5%B0%86%E5%A4%9A%E4%B8%A4%E7%AC%94%E9%92%B1%23&t=31&band_rank=6&Refer=top)<br />
-7. [王楚钦已经痛失本名](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%B7%B2%E7%BB%8F%E7%97%9B%E5%A4%B1%E6%9C%AC%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [卫明一家人的报应终于来了](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%8E%E4%B8%80%E5%AE%B6%E4%BA%BA%E7%9A%84%E6%8A%A5%E5%BA%94%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [卫明一家人的报应终于来了](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%8E%E4%B8%80%E5%AE%B6%E4%BA%BA%E7%9A%84%E6%8A%A5%E5%BA%94%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [王楚钦已经痛失本名](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%B7%B2%E7%BB%8F%E7%97%9B%E5%A4%B1%E6%9C%AC%E5%90%8D%23&t=31&band_rank=8&Refer=top)<br />
 9. [刘玉栋说不会再有男篮做旗手](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%8E%89%E6%A0%8B%E8%AF%B4%E4%B8%8D%E4%BC%9A%E5%86%8D%E6%9C%89%E7%94%B7%E7%AF%AE%E5%81%9A%E6%97%97%E6%89%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
