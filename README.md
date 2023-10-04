@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 17:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 17:12:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [体育强则中国强](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E5%BC%BA%E5%88%99%E4%B8%AD%E5%9B%BD%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [欢度国庆佳节 阔步迈向未来](https://www.baidu.com/s?wd=%E6%AC%A2%E5%BA%A6%E5%9B%BD%E5%BA%86%E4%BD%B3%E8%8A%82+%E9%98%94%E6%AD%A5%E8%BF%88%E5%90%91%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [存款特种兵，为4%年利率疯狂](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E7%89%B9%E7%A7%8D%E5%85%B5%EF%BC%8C%E4%B8%BA4%25%E5%B9%B4%E5%88%A9%E7%8E%87%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [网友提前返程1小时开10公里](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8F%90%E5%89%8D%E8%BF%94%E7%A8%8B1%E5%B0%8F%E6%97%B6%E5%BC%8010%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [假期返程注意添衣保暖](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E6%B3%A8%E6%84%8F%E6%B7%BB%E8%A1%A3%E4%BF%9D%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [体育强则中国强](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E5%BC%BA%E5%88%99%E4%B8%AD%E5%9B%BD%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [欢度国庆佳节 阔步迈向未来](https://www.baidu.com/s?wd=%E6%AC%A2%E5%BA%A6%E5%9B%BD%E5%BA%86%E4%BD%B3%E8%8A%82+%E9%98%94%E6%AD%A5%E8%BF%88%E5%90%91%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [存款特种兵，为4%年利率疯狂](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E7%89%B9%E7%A7%8D%E5%85%B5%EF%BC%8C%E4%B8%BA4%25%E5%B9%B4%E5%88%A9%E7%8E%87%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [网友提前返程1小时开10公里](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8F%90%E5%89%8D%E8%BF%94%E7%A8%8B1%E5%B0%8F%E6%97%B6%E5%BC%8010%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [假期返程注意添衣保暖](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E6%B3%A8%E6%84%8F%E6%B7%BB%E8%A1%A3%E4%BF%9D%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
