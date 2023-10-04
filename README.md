@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 22:12:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 22:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩国的歧视真的绝了](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%9A%84%E6%AD%A7%E8%A7%86%E7%9C%9F%E7%9A%84%E7%BB%9D%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [鲍师傅肉松小贝同口味2个起售](https://s.weibo.com/weibo?q=%23%E9%B2%8D%E5%B8%88%E5%82%85%E8%82%89%E6%9D%BE%E5%B0%8F%E8%B4%9D%E5%90%8C%E5%8F%A3%E5%91%B32%E4%B8%AA%E8%B5%B7%E5%94%AE%23&t=31&band_rank=7&Refer=top)<br />
 8. [本月你的工资或将多两笔钱](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E6%9C%88%E4%BD%A0%E7%9A%84%E5%B7%A5%E8%B5%84%E6%88%96%E5%B0%86%E5%A4%9A%E4%B8%A4%E7%AC%94%E9%92%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [花花眼神逐渐从震惊转变为崇拜](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%8A%B1%E7%9C%BC%E7%A5%9E%E9%80%90%E6%B8%90%E4%BB%8E%E9%9C%87%E6%83%8A%E8%BD%AC%E5%8F%98%E4%B8%BA%E5%B4%87%E6%8B%9C&t=31&band_rank=9&Refer=top)<br />
+9. [男篮一分之差输了](https://s.weibo.com/weibo?q=%E7%94%B7%E7%AF%AE%E4%B8%80%E5%88%86%E4%B9%8B%E5%B7%AE%E8%BE%93%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
