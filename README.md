@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 12:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 12:29:01</h4></div>
 
 > 微博  
 
@@ -18,10 +18,10 @@
 > 百度  
 
 1. [体育强则中国强](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E5%BC%BA%E5%88%99%E4%B8%AD%E5%9B%BD%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [戏剧性！美国3号人物突然被罢免了](https://www.baidu.com/s?wd=%E6%88%8F%E5%89%A7%E6%80%A7%EF%BC%81%E7%BE%8E%E5%9B%BD3%E5%8F%B7%E4%BA%BA%E7%89%A9%E7%AA%81%E7%84%B6%E8%A2%AB%E7%BD%A2%E5%85%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [杭州亚运会发现首例兴奋剂阳性案例](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%8F%91%E7%8E%B0%E9%A6%96%E4%BE%8B%E5%85%B4%E5%A5%8B%E5%89%82%E9%98%B3%E6%80%A7%E6%A1%88%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [存款特种兵，为4%年利率疯狂](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E7%89%B9%E7%A7%8D%E5%85%B5%EF%BC%8C%E4%B8%BA4%25%E5%B9%B4%E5%88%A9%E7%8E%87%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“数”读假日消费“热”力足](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%B0%E2%80%9D%E8%AF%BB%E5%81%87%E6%97%A5%E6%B6%88%E8%B4%B9%E2%80%9C%E7%83%AD%E2%80%9D%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [存款特种兵，为4%年利率疯狂](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E7%89%B9%E7%A7%8D%E5%85%B5%EF%BC%8C%E4%B8%BA4%25%E5%B9%B4%E5%88%A9%E7%8E%87%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [戏剧性！美国3号人物突然被罢免了](https://www.baidu.com/s?wd=%E6%88%8F%E5%89%A7%E6%80%A7%EF%BC%81%E7%BE%8E%E5%9B%BD3%E5%8F%B7%E4%BA%BA%E7%89%A9%E7%AA%81%E7%84%B6%E8%A2%AB%E7%BD%A2%E5%85%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [硕士孕妇为孩子去香港读大专](https://www.baidu.com/s?wd=%E7%A1%95%E5%A3%AB%E5%AD%95%E5%A6%87%E4%B8%BA%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%A6%99%E6%B8%AF%E8%AF%BB%E5%A4%A7%E4%B8%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山西发生意外窒息事件致7人遇难](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96%E7%AA%92%E6%81%AF%E4%BA%8B%E4%BB%B6%E8%87%B47%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [醉驾司机：给你5000通融一下](https://www.baidu.com/s?wd=%E9%86%89%E9%A9%BE%E5%8F%B8%E6%9C%BA%EF%BC%9A%E7%BB%99%E4%BD%A05000%E9%80%9A%E8%9E%8D%E4%B8%80%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,10 +30,10 @@
 > 哔哩哔哩  
 
 1. [体育强则中国强](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E5%BC%BA%E5%88%99%E4%B8%AD%E5%9B%BD%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [戏剧性！美国3号人物突然被罢免了](https://www.baidu.com/s?wd=%E6%88%8F%E5%89%A7%E6%80%A7%EF%BC%81%E7%BE%8E%E5%9B%BD3%E5%8F%B7%E4%BA%BA%E7%89%A9%E7%AA%81%E7%84%B6%E8%A2%AB%E7%BD%A2%E5%85%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [杭州亚运会发现首例兴奋剂阳性案例](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%8F%91%E7%8E%B0%E9%A6%96%E4%BE%8B%E5%85%B4%E5%A5%8B%E5%89%82%E9%98%B3%E6%80%A7%E6%A1%88%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [存款特种兵，为4%年利率疯狂](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E7%89%B9%E7%A7%8D%E5%85%B5%EF%BC%8C%E4%B8%BA4%25%E5%B9%B4%E5%88%A9%E7%8E%87%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“数”读假日消费“热”力足](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%B0%E2%80%9D%E8%AF%BB%E5%81%87%E6%97%A5%E6%B6%88%E8%B4%B9%E2%80%9C%E7%83%AD%E2%80%9D%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [存款特种兵，为4%年利率疯狂](https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E7%89%B9%E7%A7%8D%E5%85%B5%EF%BC%8C%E4%B8%BA4%25%E5%B9%B4%E5%88%A9%E7%8E%87%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [戏剧性！美国3号人物突然被罢免了](https://www.baidu.com/s?wd=%E6%88%8F%E5%89%A7%E6%80%A7%EF%BC%81%E7%BE%8E%E5%9B%BD3%E5%8F%B7%E4%BA%BA%E7%89%A9%E7%AA%81%E7%84%B6%E8%A2%AB%E7%BD%A2%E5%85%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [硕士孕妇为孩子去香港读大专](https://www.baidu.com/s?wd=%E7%A1%95%E5%A3%AB%E5%AD%95%E5%A6%87%E4%B8%BA%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%A6%99%E6%B8%AF%E8%AF%BB%E5%A4%A7%E4%B8%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山西发生意外窒息事件致7人遇难](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96%E7%AA%92%E6%81%AF%E4%BA%8B%E4%BB%B6%E8%87%B47%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [醉驾司机：给你5000通融一下](https://www.baidu.com/s?wd=%E9%86%89%E9%A9%BE%E5%8F%B8%E6%9C%BA%EF%BC%9A%E7%BB%99%E4%BD%A05000%E9%80%9A%E8%9E%8D%E4%B8%80%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
