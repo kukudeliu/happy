@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 23:40:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 23:41:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [这次科考为何选择卓奥友峰](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%AC%A1%E7%A7%91%E8%80%83%E4%B8%BA%E4%BD%95%E9%80%89%E6%8B%A9%E5%8D%93%E5%A5%A5%E5%8F%8B%E5%B3%B0%23&t=31&band_rank=3&Refer=top)<br />
 4. [韩国的歧视真的绝了](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%9A%84%E6%AD%A7%E8%A7%86%E7%9C%9F%E7%9A%84%E7%BB%9D%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [本月你的工资或将多两笔钱](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E6%9C%88%E4%BD%A0%E7%9A%84%E5%B7%A5%E8%B5%84%E6%88%96%E5%B0%86%E5%A4%9A%E4%B8%A4%E7%AC%94%E9%92%B1%23&t=31&band_rank=5&Refer=top)<br />
-6. [王楚钦已经痛失本名](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%B7%B2%E7%BB%8F%E7%97%9B%E5%A4%B1%E6%9C%AC%E5%90%8D%23&t=31&band_rank=6&Refer=top)<br />
-7. [赵继伟道歉](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
+6. [赵继伟道歉](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
+7. [王楚钦已经痛失本名](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%B7%B2%E7%BB%8F%E7%97%9B%E5%A4%B1%E6%9C%AC%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [姚明](https://s.weibo.com/weibo?q=%E5%A7%9A%E6%98%8E&t=31&band_rank=8&Refer=top)<br />
 9. [全红婵最大的对手就是记者](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%9C%80%E5%A4%A7%E7%9A%84%E5%AF%B9%E6%89%8B%E5%B0%B1%E6%98%AF%E8%AE%B0%E8%80%85%23&t=31&band_rank=9&Refer=top)<br />
 
