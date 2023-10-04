@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 14:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 14:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [直播间卖一个亿能赚多少钱](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E4%B8%80%E4%B8%AA%E4%BA%BF%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [五台县7人窒息死亡初判系一氧化碳中毒](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%8F%B0%E5%8E%BF7%E4%BA%BA%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1%E5%88%9D%E5%88%A4%E7%B3%BB%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [被婆婆拒绝的喜糖盒](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A9%86%E5%A9%86%E6%8B%92%E7%BB%9D%E7%9A%84%E5%96%9C%E7%B3%96%E7%9B%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [英雄联盟S13主题曲MV](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS13%E4%B8%BB%E9%A2%98%E6%9B%B2MV%23&t=31&band_rank=9&Refer=top)<br />
+9. [新湃传媒 陈情令](https://s.weibo.com/weibo?q=%E6%96%B0%E6%B9%83%E4%BC%A0%E5%AA%92%20%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [“数”读假日消费“热”力足](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%B0%E2%80%9D%E8%AF%BB%E5%81%87%E6%97%A5%E6%B6%88%E8%B4%B9%E2%80%9C%E7%83%AD%E2%80%9D%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [戏剧性！美国3号人物突然被罢免了](https://www.baidu.com/s?wd=%E6%88%8F%E5%89%A7%E6%80%A7%EF%BC%81%E7%BE%8E%E5%9B%BD3%E5%8F%B7%E4%BA%BA%E7%89%A9%E7%AA%81%E7%84%B6%E8%A2%AB%E7%BD%A2%E5%85%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [湖南婚车事故致6死 后车记录仪曝光](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%A9%9A%E8%BD%A6%E4%BA%8B%E6%95%85%E8%87%B46%E6%AD%BB+%E5%90%8E%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杨颖方回应头像无法更换](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%B4%E5%83%8F%E6%97%A0%E6%B3%95%E6%9B%B4%E6%8D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [弟弟结婚董宇辉回家帮忙成碍眼包](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [“数”读假日消费“热”力足](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%B0%E2%80%9D%E8%AF%BB%E5%81%87%E6%97%A5%E6%B6%88%E8%B4%B9%E2%80%9C%E7%83%AD%E2%80%9D%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [戏剧性！美国3号人物突然被罢免了](https://www.baidu.com/s?wd=%E6%88%8F%E5%89%A7%E6%80%A7%EF%BC%81%E7%BE%8E%E5%9B%BD3%E5%8F%B7%E4%BA%BA%E7%89%A9%E7%AA%81%E7%84%B6%E8%A2%AB%E7%BD%A2%E5%85%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [湖南婚车事故致6死 后车记录仪曝光](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%A9%9A%E8%BD%A6%E4%BA%8B%E6%95%85%E8%87%B46%E6%AD%BB+%E5%90%8E%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杨颖方回应头像无法更换](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%B4%E5%83%8F%E6%97%A0%E6%B3%95%E6%9B%B4%E6%8D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [弟弟结婚董宇辉回家帮忙成碍眼包](https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
