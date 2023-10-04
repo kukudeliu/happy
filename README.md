@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 02:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 02:43:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [沃野千里展新卷](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E5%8D%83%E9%87%8C%E5%B1%95%E6%96%B0%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男篮遭遇黑色3分钟 姚明脸色铁青](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E9%81%AD%E9%81%87%E9%BB%91%E8%89%B23%E5%88%86%E9%92%9F+%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E9%93%81%E9%9D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚明道歉](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [目标13万人，俄罗斯启动秋季征兵](https://www.baidu.com/s?wd=%E7%9B%AE%E6%A0%8713%E4%B8%87%E4%BA%BA%EF%BC%8C%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%AF%E5%8A%A8%E7%A7%8B%E5%AD%A3%E5%BE%81%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [景区因游客排队时间长被通报批评](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%A0%E6%B8%B8%E5%AE%A2%E6%8E%92%E9%98%9F%E6%97%B6%E9%97%B4%E9%95%BF%E8%A2%AB%E9%80%9A%E6%8A%A5%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中科院博士开民宿 父亲：书白读了](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%BC%80%E6%B0%91%E5%AE%BF+%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B9%A6%E7%99%BD%E8%AF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [假期异地外卖最贵一单高达1.1万](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E5%BC%82%E5%9C%B0%E5%A4%96%E5%8D%96%E6%9C%80%E8%B4%B5%E4%B8%80%E5%8D%95%E9%AB%98%E8%BE%BE1.1%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [沃野千里展新卷](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E5%8D%83%E9%87%8C%E5%B1%95%E6%96%B0%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男篮遭遇黑色3分钟 姚明脸色铁青](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E9%81%AD%E9%81%87%E9%BB%91%E8%89%B23%E5%88%86%E9%92%9F+%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E9%93%81%E9%9D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚明道歉](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [目标13万人，俄罗斯启动秋季征兵](https://www.baidu.com/s?wd=%E7%9B%AE%E6%A0%8713%E4%B8%87%E4%BA%BA%EF%BC%8C%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%AF%E5%8A%A8%E7%A7%8B%E5%AD%A3%E5%BE%81%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [景区因游客排队时间长被通报批评](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%A0%E6%B8%B8%E5%AE%A2%E6%8E%92%E9%98%9F%E6%97%B6%E9%97%B4%E9%95%BF%E8%A2%AB%E9%80%9A%E6%8A%A5%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中科院博士开民宿 父亲：书白读了](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%BC%80%E6%B0%91%E5%AE%BF+%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B9%A6%E7%99%BD%E8%AF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [假期异地外卖最贵一单高达1.1万](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E5%BC%82%E5%9C%B0%E5%A4%96%E5%8D%96%E6%9C%80%E8%B4%B5%E4%B8%80%E5%8D%95%E9%AB%98%E8%BE%BE1.1%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
