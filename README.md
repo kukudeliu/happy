@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 20:32:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 20:33:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [黄晓明抱不完根本抱不完](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%8A%B1%E4%B8%8D%E5%AE%8C%E6%A0%B9%E6%9C%AC%E6%8A%B1%E4%B8%8D%E5%AE%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [研究生三年最好的安排](https://s.weibo.com/weibo?q=%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B8%89%E5%B9%B4%E6%9C%80%E5%A5%BD%E7%9A%84%E5%AE%89%E6%8E%92&t=31&band_rank=5&Refer=top)<br />
 6. [泰国总理致电中国大使道歉](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E8%87%B4%E7%94%B5%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [莲花楼 断笛](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%20%E6%96%AD%E7%AC%9B&t=31&band_rank=7&Refer=top)<br />
-8. [中国女排vs韩国女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E9%9F%A9%E5%9B%BD%E5%A5%B3%E6%8E%92%23&t=31&band_rank=8&Refer=top)<br />
+7. [中国女排vs韩国女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E9%9F%A9%E5%9B%BD%E5%A5%B3%E6%8E%92%23&t=31&band_rank=7&Refer=top)<br />
+8. [莲花楼 断笛](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%20%E6%96%AD%E7%AC%9B&t=31&band_rank=8&Refer=top)<br />
 9. [王春雨女子800米铜牌](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%A5%E9%9B%A8%E5%A5%B3%E5%AD%90800%E7%B1%B3%E9%93%9C%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
