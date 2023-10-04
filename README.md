@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 14:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 14:40:01</h4></div>
 
 > 微博  
 
 1. [微信过期文件打开的最简单方法](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E8%BF%87%E6%9C%9F%E6%96%87%E4%BB%B6%E6%89%93%E5%BC%80%E7%9A%84%E6%9C%80%E7%AE%80%E5%8D%95%E6%96%B9%E6%B3%95&t=31&band_rank=1&Refer=top)<br />
-2. [DIOR 迪丽热巴](https://s.weibo.com/weibo?q=DIOR%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4&t=31&band_rank=2&Refer=top)<br />
+2. [湖南婚车事故记录仪显示婚车突然变道](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%A9%9A%E8%BD%A6%E4%BA%8B%E6%95%85%E8%AE%B0%E5%BD%95%E4%BB%AA%E6%98%BE%E7%A4%BA%E5%A9%9A%E8%BD%A6%E7%AA%81%E7%84%B6%E5%8F%98%E9%81%93%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会中国队含金量拉满](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%90%AB%E9%87%91%E9%87%8F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
-4. [新湃传媒 陈情令](https://s.weibo.com/weibo?q=%E6%96%B0%E6%B9%83%E4%BC%A0%E5%AA%92%20%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=4&Refer=top)<br />
-5. [于和伟私底下穿吊带](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%E7%A7%81%E5%BA%95%E4%B8%8B%E7%A9%BF%E5%90%8A%E5%B8%A6%23&t=31&band_rank=5&Refer=top)<br />
-6. [烤橘子 慢性咽炎](https://s.weibo.com/weibo?q=%E7%83%A4%E6%A9%98%E5%AD%90%20%E6%85%A2%E6%80%A7%E5%92%BD%E7%82%8E&t=31&band_rank=6&Refer=top)<br />
-7. [长月烬明](https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E&t=31&band_rank=7&Refer=top)<br />
-8. [直播间卖一个亿能赚多少钱](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E4%B8%80%E4%B8%AA%E4%BA%BF%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [五台县7人窒息死亡初判系一氧化碳中毒](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%8F%B0%E5%8E%BF7%E4%BA%BA%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1%E5%88%9D%E5%88%A4%E7%B3%BB%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92%23&t=31&band_rank=9&Refer=top)<br />
+4. [DIOR 迪丽热巴](https://s.weibo.com/weibo?q=DIOR%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4&t=31&band_rank=4&Refer=top)<br />
+5. [新湃传媒 陈情令](https://s.weibo.com/weibo?q=%E6%96%B0%E6%B9%83%E4%BC%A0%E5%AA%92%20%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=5&Refer=top)<br />
+6. [于和伟私底下穿吊带](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%E7%A7%81%E5%BA%95%E4%B8%8B%E7%A9%BF%E5%90%8A%E5%B8%A6%23&t=31&band_rank=6&Refer=top)<br />
+7. [烤橘子 慢性咽炎](https://s.weibo.com/weibo?q=%E7%83%A4%E6%A9%98%E5%AD%90%20%E6%85%A2%E6%80%A7%E5%92%BD%E7%82%8E&t=31&band_rank=7&Refer=top)<br />
+8. [长月烬明](https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E&t=31&band_rank=8&Refer=top)<br />
+9. [直播间卖一个亿能赚多少钱](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E4%B8%80%E4%B8%AA%E4%BA%BF%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
