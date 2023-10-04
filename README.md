@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 02:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 02:05:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [沃野千里展新卷](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E5%8D%83%E9%87%8C%E5%B1%95%E6%96%B0%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男篮遭遇黑色3分钟 姚明脸色铁青](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E9%81%AD%E9%81%87%E9%BB%91%E8%89%B23%E5%88%86%E9%92%9F+%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E9%93%81%E9%9D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚明道歉](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [枪击案后 在泰中国游客计划提前回国](https://www.baidu.com/s?wd=%E6%9E%AA%E5%87%BB%E6%A1%88%E5%90%8E+%E5%9C%A8%E6%B3%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%AE%A1%E5%88%92%E6%8F%90%E5%89%8D%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [三张图看清陈艺文“水花消失术”](https://www.baidu.com/s?wd=%E4%B8%89%E5%BC%A0%E5%9B%BE%E7%9C%8B%E6%B8%85%E9%99%88%E8%89%BA%E6%96%87%E2%80%9C%E6%B0%B4%E8%8A%B1%E6%B6%88%E5%A4%B1%E6%9C%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“金刚芭比”袁琦琦火出圈](https://www.baidu.com/s?wd=%E2%80%9C%E9%87%91%E5%88%9A%E8%8A%AD%E6%AF%94%E2%80%9D%E8%A2%81%E7%90%A6%E7%90%A6%E7%81%AB%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [沃野千里展新卷](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E5%8D%83%E9%87%8C%E5%B1%95%E6%96%B0%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男篮遭遇黑色3分钟 姚明脸色铁青](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E9%81%AD%E9%81%87%E9%BB%91%E8%89%B23%E5%88%86%E9%92%9F+%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E9%93%81%E9%9D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚明道歉](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [枪击案后 在泰中国游客计划提前回国](https://www.baidu.com/s?wd=%E6%9E%AA%E5%87%BB%E6%A1%88%E5%90%8E+%E5%9C%A8%E6%B3%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%AE%A1%E5%88%92%E6%8F%90%E5%89%8D%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [三张图看清陈艺文“水花消失术”](https://www.baidu.com/s?wd=%E4%B8%89%E5%BC%A0%E5%9B%BE%E7%9C%8B%E6%B8%85%E9%99%88%E8%89%BA%E6%96%87%E2%80%9C%E6%B0%B4%E8%8A%B1%E6%B6%88%E5%A4%B1%E6%9C%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“金刚芭比”袁琦琦火出圈](https://www.baidu.com/s?wd=%E2%80%9C%E9%87%91%E5%88%9A%E8%8A%AD%E6%AF%94%E2%80%9D%E8%A2%81%E7%90%A6%E7%90%A6%E7%81%AB%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
