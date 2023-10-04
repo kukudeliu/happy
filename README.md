@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 13:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 13:54:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“数”读假日消费“热”力足](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%B0%E2%80%9D%E8%AF%BB%E5%81%87%E6%97%A5%E6%B6%88%E8%B4%B9%E2%80%9C%E7%83%AD%E2%80%9D%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [戏剧性！美国3号人物突然被罢免了](https://www.baidu.com/s?wd=%E6%88%8F%E5%89%A7%E6%80%A7%EF%BC%81%E7%BE%8E%E5%9B%BD3%E5%8F%B7%E4%BA%BA%E7%89%A9%E7%AA%81%E7%84%B6%E8%A2%AB%E7%BD%A2%E5%85%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杭州亚运会发现首例兴奋剂阳性案例](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%8F%91%E7%8E%B0%E9%A6%96%E4%BE%8B%E5%85%B4%E5%A5%8B%E5%89%82%E9%98%B3%E6%80%A7%E6%A1%88%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山西发生意外窒息事件致7人遇难](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96%E7%AA%92%E6%81%AF%E4%BA%8B%E4%BB%B6%E8%87%B47%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [湖南婚车事故致6死 后车记录仪曝光](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%A9%9A%E8%BD%A6%E4%BA%8B%E6%95%85%E8%87%B46%E6%AD%BB+%E5%90%8E%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杨颖方回应头像无法更换](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%B4%E5%83%8F%E6%97%A0%E6%B3%95%E6%9B%B4%E6%8D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“数”读假日消费“热”力足](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%B0%E2%80%9D%E8%AF%BB%E5%81%87%E6%97%A5%E6%B6%88%E8%B4%B9%E2%80%9C%E7%83%AD%E2%80%9D%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [戏剧性！美国3号人物突然被罢免了](https://www.baidu.com/s?wd=%E6%88%8F%E5%89%A7%E6%80%A7%EF%BC%81%E7%BE%8E%E5%9B%BD3%E5%8F%B7%E4%BA%BA%E7%89%A9%E7%AA%81%E7%84%B6%E8%A2%AB%E7%BD%A2%E5%85%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杭州亚运会发现首例兴奋剂阳性案例](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%8F%91%E7%8E%B0%E9%A6%96%E4%BE%8B%E5%85%B4%E5%A5%8B%E5%89%82%E9%98%B3%E6%80%A7%E6%A1%88%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山西发生意外窒息事件致7人遇难](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96%E7%AA%92%E6%81%AF%E4%BA%8B%E4%BB%B6%E8%87%B47%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [湖南婚车事故致6死 后车记录仪曝光](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%A9%9A%E8%BD%A6%E4%BA%8B%E6%95%85%E8%87%B46%E6%AD%BB+%E5%90%8E%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杨颖方回应头像无法更换](https://www.baidu.com/s?wd=%E6%9D%A8%E9%A2%96%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%B4%E5%83%8F%E6%97%A0%E6%B3%95%E6%9B%B4%E6%8D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
