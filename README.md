@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 10:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 10:33:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [钢铁侠和黑寡妇在2023年10月牺牲](https://s.weibo.com/weibo?q=%E9%92%A2%E9%93%81%E4%BE%A0%E5%92%8C%E9%BB%91%E5%AF%A1%E5%A6%87%E5%9C%A82023%E5%B9%B410%E6%9C%88%E7%89%BA%E7%89%B2&t=31&band_rank=5&Refer=top)<br />
 6. [外国人吐槽美国面对华为芯片像疯了一样](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%90%90%E6%A7%BD%E7%BE%8E%E5%9B%BD%E9%9D%A2%E5%AF%B9%E5%8D%8E%E4%B8%BA%E8%8A%AF%E7%89%87%E5%83%8F%E7%96%AF%E4%BA%86%E4%B8%80%E6%A0%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [弟弟结婚董宇辉回家帮忙成碍眼包](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85%23&t=31&band_rank=7&Refer=top)<br />
-8. [中国游客亲历泰国枪击事件](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%BA%B2%E5%8E%86%E6%B3%B0%E5%9B%BD%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈若琳全红婵](https://s.weibo.com/weibo?q=%E9%99%88%E8%8B%A5%E7%90%B3%E5%85%A8%E7%BA%A2%E5%A9%B5&t=31&band_rank=9&Refer=top)<br />
+8. [陈若琳全红婵](https://s.weibo.com/weibo?q=%E9%99%88%E8%8B%A5%E7%90%B3%E5%85%A8%E7%BA%A2%E5%A9%B5&t=31&band_rank=8&Refer=top)<br />
+9. [中国游客亲历泰国枪击事件](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%BA%B2%E5%8E%86%E6%B3%B0%E5%9B%BD%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
