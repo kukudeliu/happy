@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 22:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 22:36:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [中国男篮1分惜败菲律宾 无缘决赛](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE1%E5%88%86%E6%83%9C%E8%B4%A5%E8%8F%B2%E5%BE%8B%E5%AE%BE+%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [中国队递补东京奥运接力铜牌](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%80%92%E8%A1%A5%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E6%8E%A5%E5%8A%9B%E9%93%9C%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [沃野千里展新卷](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E5%8D%83%E9%87%8C%E5%B1%95%E6%96%B0%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [“大聪明”又堵路上？提前3天还堵](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E8%81%AA%E6%98%8E%E2%80%9D%E5%8F%88%E5%A0%B5%E8%B7%AF%E4%B8%8A%EF%BC%9F%E6%8F%90%E5%89%8D3%E5%A4%A9%E8%BF%98%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [男篮遭遇黑色3分钟 姚明脸色铁青](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E9%81%AD%E9%81%87%E9%BB%91%E8%89%B23%E5%88%86%E9%92%9F+%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E9%93%81%E9%9D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上午拿下亚运金牌 晚上补领奥运金牌](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%88%E6%8B%BF%E4%B8%8B%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C+%E6%99%9A%E4%B8%8A%E8%A1%A5%E9%A2%86%E5%A5%A5%E8%BF%90%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子晒花生10分钟被鸟吃光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%99%92%E8%8A%B1%E7%94%9F10%E5%88%86%E9%92%9F%E8%A2%AB%E9%B8%9F%E5%90%83%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [6万人到兵马俑1200人忘带身份证](https://www.baidu.com/s?wd=6%E4%B8%87%E4%BA%BA%E5%88%B0%E5%85%B5%E9%A9%AC%E4%BF%911200%E4%BA%BA%E5%BF%98%E5%B8%A6%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [中国男篮1分惜败菲律宾 无缘决赛](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE1%E5%88%86%E6%83%9C%E8%B4%A5%E8%8F%B2%E5%BE%8B%E5%AE%BE+%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [中国队递补东京奥运接力铜牌](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%80%92%E8%A1%A5%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E6%8E%A5%E5%8A%9B%E9%93%9C%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [沃野千里展新卷](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E5%8D%83%E9%87%8C%E5%B1%95%E6%96%B0%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [“大聪明”又堵路上？提前3天还堵](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E8%81%AA%E6%98%8E%E2%80%9D%E5%8F%88%E5%A0%B5%E8%B7%AF%E4%B8%8A%EF%BC%9F%E6%8F%90%E5%89%8D3%E5%A4%A9%E8%BF%98%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [男篮遭遇黑色3分钟 姚明脸色铁青](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E9%81%AD%E9%81%87%E9%BB%91%E8%89%B23%E5%88%86%E9%92%9F+%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E9%93%81%E9%9D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上午拿下亚运金牌 晚上补领奥运金牌](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%88%E6%8B%BF%E4%B8%8B%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C+%E6%99%9A%E4%B8%8A%E8%A1%A5%E9%A2%86%E5%A5%A5%E8%BF%90%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子晒花生10分钟被鸟吃光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%99%92%E8%8A%B1%E7%94%9F10%E5%88%86%E9%92%9F%E8%A2%AB%E9%B8%9F%E5%90%83%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [6万人到兵马俑1200人忘带身份证](https://www.baidu.com/s?wd=6%E4%B8%87%E4%BA%BA%E5%88%B0%E5%85%B5%E9%A9%AC%E4%BF%911200%E4%BA%BA%E5%BF%98%E5%B8%A6%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
