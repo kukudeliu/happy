@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 05:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 05:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [卫明一家人的报应终于来了](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%8E%E4%B8%80%E5%AE%B6%E4%BA%BA%E7%9A%84%E6%8A%A5%E5%BA%94%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦已经痛失本名](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%B7%B2%E7%BB%8F%E7%97%9B%E5%A4%B1%E6%9C%AC%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子通过WiFi名称跨60公里寻回手机](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%80%9A%E8%BF%87WiFi%E5%90%8D%E7%A7%B0%E8%B7%A860%E5%85%AC%E9%87%8C%E5%AF%BB%E5%9B%9E%E6%89%8B%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩国的歧视真的绝了](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%9A%84%E6%AD%A7%E8%A7%86%E7%9C%9F%E7%9A%84%E7%BB%9D%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [姚明为缺席发布会道歉](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%98%8E%E4%B8%BA%E7%BC%BA%E5%B8%AD%E5%8F%91%E5%B8%83%E4%BC%9A%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [男篮遭遇黑色3分钟 姚明脸色铁青](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E9%81%AD%E9%81%87%E9%BB%91%E8%89%B23%E5%88%86%E9%92%9F+%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E9%93%81%E9%9D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [6万人到兵马俑1200人忘带身份证](https://www.baidu.com/s?wd=6%E4%B8%87%E4%BA%BA%E5%88%B0%E5%85%B5%E9%A9%AC%E4%BF%911200%E4%BA%BA%E5%BF%98%E5%B8%A6%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“金刚芭比”袁琦琦火出圈](https://www.baidu.com/s?wd=%E2%80%9C%E9%87%91%E5%88%9A%E8%8A%AD%E6%AF%94%E2%80%9D%E8%A2%81%E7%90%A6%E7%90%A6%E7%81%AB%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [假期异地外卖最贵一单高达1.1万](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E5%BC%82%E5%9C%B0%E5%A4%96%E5%8D%96%E6%9C%80%E8%B4%B5%E4%B8%80%E5%8D%95%E9%AB%98%E8%BE%BE1.1%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上午拿下亚运金牌 晚上补领奥运金牌](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%88%E6%8B%BF%E4%B8%8B%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C+%E6%99%9A%E4%B8%8A%E8%A1%A5%E9%A2%86%E5%A5%A5%E8%BF%90%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男篮遭遇黑色3分钟 姚明脸色铁青](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E9%81%AD%E9%81%87%E9%BB%91%E8%89%B23%E5%88%86%E9%92%9F+%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E9%93%81%E9%9D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [6万人到兵马俑1200人忘带身份证](https://www.baidu.com/s?wd=6%E4%B8%87%E4%BA%BA%E5%88%B0%E5%85%B5%E9%A9%AC%E4%BF%911200%E4%BA%BA%E5%BF%98%E5%B8%A6%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“金刚芭比”袁琦琦火出圈](https://www.baidu.com/s?wd=%E2%80%9C%E9%87%91%E5%88%9A%E8%8A%AD%E6%AF%94%E2%80%9D%E8%A2%81%E7%90%A6%E7%90%A6%E7%81%AB%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [假期异地外卖最贵一单高达1.1万](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E5%BC%82%E5%9C%B0%E5%A4%96%E5%8D%96%E6%9C%80%E8%B4%B5%E4%B8%80%E5%8D%95%E9%AB%98%E8%BE%BE1.1%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上午拿下亚运金牌 晚上补领奥运金牌](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%88%E6%8B%BF%E4%B8%8B%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C+%E6%99%9A%E4%B8%8A%E8%A1%A5%E9%A2%86%E5%A5%A5%E8%BF%90%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
