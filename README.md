@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 16:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 16:04:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“丸子头”葛曼棋终成当家女飞人](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%B8%E5%AD%90%E5%A4%B4%E2%80%9D%E8%91%9B%E6%9B%BC%E6%A3%8B%E7%BB%88%E6%88%90%E5%BD%93%E5%AE%B6%E5%A5%B3%E9%A3%9E%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [返程的后备箱：有人把鸡鸭挂车上](https://www.baidu.com/s?wd=%E8%BF%94%E7%A8%8B%E7%9A%84%E5%90%8E%E5%A4%87%E7%AE%B1%EF%BC%9A%E6%9C%89%E4%BA%BA%E6%8A%8A%E9%B8%A1%E9%B8%AD%E6%8C%82%E8%BD%A6%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [超强台风小犬来袭 多地迎暴雨](https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E5%B0%8F%E7%8A%AC%E6%9D%A5%E8%A2%AD+%E5%A4%9A%E5%9C%B0%E8%BF%8E%E6%9A%B4%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“丸子头”葛曼棋终成当家女飞人](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%B8%E5%AD%90%E5%A4%B4%E2%80%9D%E8%91%9B%E6%9B%BC%E6%A3%8B%E7%BB%88%E6%88%90%E5%BD%93%E5%AE%B6%E5%A5%B3%E9%A3%9E%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [返程的后备箱：有人把鸡鸭挂车上](https://www.baidu.com/s?wd=%E8%BF%94%E7%A8%8B%E7%9A%84%E5%90%8E%E5%A4%87%E7%AE%B1%EF%BC%9A%E6%9C%89%E4%BA%BA%E6%8A%8A%E9%B8%A1%E9%B8%AD%E6%8C%82%E8%BD%A6%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [超强台风小犬来袭 多地迎暴雨](https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E5%B0%8F%E7%8A%AC%E6%9D%A5%E8%A2%AD+%E5%A4%9A%E5%9C%B0%E8%BF%8E%E6%9A%B4%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
