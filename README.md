@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 22:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 22:52:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [中国队递补东京奥运接力铜牌](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%80%92%E8%A1%A5%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E6%8E%A5%E5%8A%9B%E9%93%9C%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [沃野千里展新卷](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E5%8D%83%E9%87%8C%E5%B1%95%E6%96%B0%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男篮遭遇黑色3分钟 姚明脸色铁青](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E9%81%AD%E9%81%87%E9%BB%91%E8%89%B23%E5%88%86%E9%92%9F+%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E9%93%81%E9%9D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [张艺谋带不动国庆档？](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%B8%A6%E4%B8%8D%E5%8A%A8%E5%9B%BD%E5%BA%86%E6%A1%A3%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [亚运前瞻：中国女篮力争卫冕](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E5%89%8D%E7%9E%BB%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%8A%9B%E4%BA%89%E5%8D%AB%E5%86%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苏炳添有奥运奖牌了](https://www.baidu.com/s?wd=%E8%8B%8F%E7%82%B3%E6%B7%BB%E6%9C%89%E5%A5%A5%E8%BF%90%E5%A5%96%E7%89%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中科院博士开民宿 父亲：书白读了](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%BC%80%E6%B0%91%E5%AE%BF+%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B9%A6%E7%99%BD%E8%AF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [上午拿下亚运金牌 晚上补领奥运金牌](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%88%E6%8B%BF%E4%B8%8B%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C+%E6%99%9A%E4%B8%8A%E8%A1%A5%E9%A2%86%E5%A5%A5%E8%BF%90%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子晒花生10分钟被鸟吃光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%99%92%E8%8A%B1%E7%94%9F10%E5%88%86%E9%92%9F%E8%A2%AB%E9%B8%9F%E5%90%83%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [中国队递补东京奥运接力铜牌](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%80%92%E8%A1%A5%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E6%8E%A5%E5%8A%9B%E9%93%9C%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [沃野千里展新卷](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E5%8D%83%E9%87%8C%E5%B1%95%E6%96%B0%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男篮遭遇黑色3分钟 姚明脸色铁青](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E9%81%AD%E9%81%87%E9%BB%91%E8%89%B23%E5%88%86%E9%92%9F+%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E9%93%81%E9%9D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [张艺谋带不动国庆档？](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%B8%A6%E4%B8%8D%E5%8A%A8%E5%9B%BD%E5%BA%86%E6%A1%A3%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [亚运前瞻：中国女篮力争卫冕](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E5%89%8D%E7%9E%BB%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%8A%9B%E4%BA%89%E5%8D%AB%E5%86%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苏炳添有奥运奖牌了](https://www.baidu.com/s?wd=%E8%8B%8F%E7%82%B3%E6%B7%BB%E6%9C%89%E5%A5%A5%E8%BF%90%E5%A5%96%E7%89%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中科院博士开民宿 父亲：书白读了](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%BC%80%E6%B0%91%E5%AE%BF+%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B9%A6%E7%99%BD%E8%AF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [上午拿下亚运金牌 晚上补领奥运金牌](https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%88%E6%8B%BF%E4%B8%8B%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C+%E6%99%9A%E4%B8%8A%E8%A1%A5%E9%A2%86%E5%A5%A5%E8%BF%90%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子晒花生10分钟被鸟吃光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%99%92%E8%8A%B1%E7%94%9F10%E5%88%86%E9%92%9F%E8%A2%AB%E9%B8%9F%E5%90%83%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
