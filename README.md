@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 22:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 22:55:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [姚明](https://s.weibo.com/weibo?q=%E5%A7%9A%E6%98%8E&t=31&band_rank=4&Refer=top)<br />
 5. [王楚钦已经痛失本名](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%B7%B2%E7%BB%8F%E7%97%9B%E5%A4%B1%E6%9C%AC%E5%90%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [韩国的歧视真的绝了](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%9A%84%E6%AD%A7%E8%A7%86%E7%9C%9F%E7%9A%84%E7%BB%9D%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [张镇麟投篮选择](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%95%87%E9%BA%9F%E6%8A%95%E7%AF%AE%E9%80%89%E6%8B%A9%23&t=31&band_rank=7&Refer=top)<br />
-8. [本月你的工资或将多两笔钱](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E6%9C%88%E4%BD%A0%E7%9A%84%E5%B7%A5%E8%B5%84%E6%88%96%E5%B0%86%E5%A4%9A%E4%B8%A4%E7%AC%94%E9%92%B1%23&t=31&band_rank=8&Refer=top)<br />
+7. [本月你的工资或将多两笔钱](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E6%9C%88%E4%BD%A0%E7%9A%84%E5%B7%A5%E8%B5%84%E6%88%96%E5%B0%86%E5%A4%9A%E4%B8%A4%E7%AC%94%E9%92%B1%23&t=31&band_rank=7&Refer=top)<br />
+8. [张镇麟投篮选择](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%95%87%E9%BA%9F%E6%8A%95%E7%AF%AE%E9%80%89%E6%8B%A9%23&t=31&band_rank=8&Refer=top)<br />
 9. [赵继伟两罚不中](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E4%B8%A4%E7%BD%9A%E4%B8%8D%E4%B8%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,8 +22,8 @@
 3. [中国队递补东京奥运接力铜牌](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%80%92%E8%A1%A5%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E6%8E%A5%E5%8A%9B%E9%93%9C%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [沃野千里展新卷](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E5%8D%83%E9%87%8C%E5%B1%95%E6%96%B0%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男篮遭遇黑色3分钟 姚明脸色铁青](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E9%81%AD%E9%81%87%E9%BB%91%E8%89%B23%E5%88%86%E9%92%9F+%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E9%93%81%E9%9D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [景区因游客排队时间长被通报批评](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%A0%E6%B8%B8%E5%AE%A2%E6%8E%92%E9%98%9F%E6%97%B6%E9%97%B4%E9%95%BF%E8%A2%AB%E9%80%9A%E6%8A%A5%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中科院博士开民宿 父亲：书白读了](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%BC%80%E6%B0%91%E5%AE%BF+%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B9%A6%E7%99%BD%E8%AF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中科院博士开民宿 父亲：书白读了](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%BC%80%E6%B0%91%E5%AE%BF+%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B9%A6%E7%99%BD%E8%AF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [景区因游客排队时间长被通报批评](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%A0%E6%B8%B8%E5%AE%A2%E6%8E%92%E9%98%9F%E6%97%B6%E9%97%B4%E9%95%BF%E8%A2%AB%E9%80%9A%E6%8A%A5%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子晒花生10分钟被鸟吃光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%99%92%E8%8A%B1%E7%94%9F10%E5%88%86%E9%92%9F%E8%A2%AB%E9%B8%9F%E5%90%83%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [中国队递补东京奥运接力铜牌](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%80%92%E8%A1%A5%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E6%8E%A5%E5%8A%9B%E9%93%9C%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [沃野千里展新卷](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E5%8D%83%E9%87%8C%E5%B1%95%E6%96%B0%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男篮遭遇黑色3分钟 姚明脸色铁青](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E9%81%AD%E9%81%87%E9%BB%91%E8%89%B23%E5%88%86%E9%92%9F+%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E9%93%81%E9%9D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [景区因游客排队时间长被通报批评](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%A0%E6%B8%B8%E5%AE%A2%E6%8E%92%E9%98%9F%E6%97%B6%E9%97%B4%E9%95%BF%E8%A2%AB%E9%80%9A%E6%8A%A5%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中科院博士开民宿 父亲：书白读了](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%BC%80%E6%B0%91%E5%AE%BF+%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B9%A6%E7%99%BD%E8%AF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中科院博士开民宿 父亲：书白读了](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%BC%80%E6%B0%91%E5%AE%BF+%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B9%A6%E7%99%BD%E8%AF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [景区因游客排队时间长被通报批评](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%A0%E6%B8%B8%E5%AE%A2%E6%8E%92%E9%98%9F%E6%97%B6%E9%97%B4%E9%95%BF%E8%A2%AB%E9%80%9A%E6%8A%A5%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子晒花生10分钟被鸟吃光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%99%92%E8%8A%B1%E7%94%9F10%E5%88%86%E9%92%9F%E8%A2%AB%E9%B8%9F%E5%90%83%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
