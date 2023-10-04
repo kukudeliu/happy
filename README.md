@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 08:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 08:24:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [王一博王俊凯张凌赫龚俊看秀生图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%BE%9A%E4%BF%8A%E7%9C%8B%E7%A7%80%E7%94%9F%E5%9B%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [美众议院议长麦卡锡被罢免](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E8%AE%AE%E9%95%BF%E9%BA%A6%E5%8D%A1%E9%94%A1%E8%A2%AB%E7%BD%A2%E5%85%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [金马最佳男主角提名](https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A9%AC%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E6%8F%90%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [为什么韩国人独爱张家界](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%8B%AC%E7%88%B1%E5%BC%A0%E5%AE%B6%E7%95%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [上学时不合群的红利被我吃到了](https://s.weibo.com/weibo?q=%E4%B8%8A%E5%AD%A6%E6%97%B6%E4%B8%8D%E5%90%88%E7%BE%A4%E7%9A%84%E7%BA%A2%E5%88%A9%E8%A2%AB%E6%88%91%E5%90%83%E5%88%B0%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [向佐直播抱女儿违规了](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E7%9B%B4%E6%92%AD%E6%8A%B1%E5%A5%B3%E5%84%BF%E8%BF%9D%E8%A7%84%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [为什么韩国人独爱张家界](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%8B%AC%E7%88%B1%E5%BC%A0%E5%AE%B6%E7%95%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [中原迷笛音乐节乐迷财物被盗](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8E%9F%E8%BF%B7%E7%AC%9B%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B9%90%E8%BF%B7%E8%B4%A2%E7%89%A9%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [致6死！警方通报婚车与环卫车相撞](https://www.baidu.com/s?wd=%E8%87%B46%E6%AD%BB%EF%BC%81%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A9%9A%E8%BD%A6%E4%B8%8E%E7%8E%AF%E5%8D%AB%E8%BD%A6%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国女足3-4日本女足无缘决赛](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B33-4%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本足协投诉朝鲜：朝鲜球员欲打人](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%B6%B3%E5%8D%8F%E6%8A%95%E8%AF%89%E6%9C%9D%E9%B2%9C%EF%BC%9A%E6%9C%9D%E9%B2%9C%E7%90%83%E5%91%98%E6%AC%B2%E6%89%93%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：扩大化举报让老师选择躺平](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%89%A9%E5%A4%A7%E5%8C%96%E4%B8%BE%E6%8A%A5%E8%AE%A9%E8%80%81%E5%B8%88%E9%80%89%E6%8B%A9%E8%BA%BA%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都养老机构老人被殴打？不实](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%85%BB%E8%80%81%E6%9C%BA%E6%9E%84%E8%80%81%E4%BA%BA%E8%A2%AB%E6%AE%B4%E6%89%93%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [中原迷笛音乐节乐迷财物被盗](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8E%9F%E8%BF%B7%E7%AC%9B%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B9%90%E8%BF%B7%E8%B4%A2%E7%89%A9%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [致6死！警方通报婚车与环卫车相撞](https://www.baidu.com/s?wd=%E8%87%B46%E6%AD%BB%EF%BC%81%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A9%9A%E8%BD%A6%E4%B8%8E%E7%8E%AF%E5%8D%AB%E8%BD%A6%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国女足3-4日本女足无缘决赛](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B33-4%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本足协投诉朝鲜：朝鲜球员欲打人](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%B6%B3%E5%8D%8F%E6%8A%95%E8%AF%89%E6%9C%9D%E9%B2%9C%EF%BC%9A%E6%9C%9D%E9%B2%9C%E7%90%83%E5%91%98%E6%AC%B2%E6%89%93%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：扩大化举报让老师选择躺平](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%89%A9%E5%A4%A7%E5%8C%96%E4%B8%BE%E6%8A%A5%E8%AE%A9%E8%80%81%E5%B8%88%E9%80%89%E6%8B%A9%E8%BA%BA%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都养老机构老人被殴打？不实](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%85%BB%E8%80%81%E6%9C%BA%E6%9E%84%E8%80%81%E4%BA%BA%E8%A2%AB%E6%AE%B4%E6%89%93%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
