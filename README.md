@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 15:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 15:17:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [网友提前返程1小时开10公里](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8F%90%E5%89%8D%E8%BF%94%E7%A8%8B1%E5%B0%8F%E6%97%B6%E5%BC%8010%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“数”读假日消费“热”力足](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%B0%E2%80%9D%E8%AF%BB%E5%81%87%E6%97%A5%E6%B6%88%E8%B4%B9%E2%80%9C%E7%83%AD%E2%80%9D%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [陈清晨贾一凡晋级女双八强](https://www.baidu.com/s?wd=%E9%99%88%E6%B8%85%E6%99%A8%E8%B4%BE%E4%B8%80%E5%87%A1%E6%99%8B%E7%BA%A7%E5%A5%B3%E5%8F%8C%E5%85%AB%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [目标13万人，俄罗斯启动秋季征兵](https://www.baidu.com/s?wd=%E7%9B%AE%E6%A0%8713%E4%B8%87%E4%BA%BA%EF%BC%8C%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%AF%E5%8A%A8%E7%A7%8B%E5%AD%A3%E5%BE%81%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网友开晒国庆返程后备箱](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%BC%80%E6%99%92%E5%9B%BD%E5%BA%86%E8%BF%94%E7%A8%8B%E5%90%8E%E5%A4%87%E7%AE%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [国庆感觉哪里都有一亿人](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E6%84%9F%E8%A7%89%E5%93%AA%E9%87%8C%E9%83%BD%E6%9C%89%E4%B8%80%E4%BA%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [戏剧性！美国3号人物突然被罢免了](https://www.baidu.com/s?wd=%E6%88%8F%E5%89%A7%E6%80%A7%EF%BC%81%E7%BE%8E%E5%9B%BD3%E5%8F%B7%E4%BA%BA%E7%89%A9%E7%AA%81%E7%84%B6%E8%A2%AB%E7%BD%A2%E5%85%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [网友提前返程1小时开10公里](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8F%90%E5%89%8D%E8%BF%94%E7%A8%8B1%E5%B0%8F%E6%97%B6%E5%BC%8010%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“数”读假日消费“热”力足](https://www.baidu.com/s?wd=%E2%80%9C%E6%95%B0%E2%80%9D%E8%AF%BB%E5%81%87%E6%97%A5%E6%B6%88%E8%B4%B9%E2%80%9C%E7%83%AD%E2%80%9D%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [陈清晨贾一凡晋级女双八强](https://www.baidu.com/s?wd=%E9%99%88%E6%B8%85%E6%99%A8%E8%B4%BE%E4%B8%80%E5%87%A1%E6%99%8B%E7%BA%A7%E5%A5%B3%E5%8F%8C%E5%85%AB%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [目标13万人，俄罗斯启动秋季征兵](https://www.baidu.com/s?wd=%E7%9B%AE%E6%A0%8713%E4%B8%87%E4%BA%BA%EF%BC%8C%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%AF%E5%8A%A8%E7%A7%8B%E5%AD%A3%E5%BE%81%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网友开晒国庆返程后备箱](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%BC%80%E6%99%92%E5%9B%BD%E5%BA%86%E8%BF%94%E7%A8%8B%E5%90%8E%E5%A4%87%E7%AE%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [国庆感觉哪里都有一亿人](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E6%84%9F%E8%A7%89%E5%93%AA%E9%87%8C%E9%83%BD%E6%9C%89%E4%B8%80%E4%BA%BF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [戏剧性！美国3号人物突然被罢免了](https://www.baidu.com/s?wd=%E6%88%8F%E5%89%A7%E6%80%A7%EF%BC%81%E7%BE%8E%E5%9B%BD3%E5%8F%B7%E4%BA%BA%E7%89%A9%E7%AA%81%E7%84%B6%E8%A2%AB%E7%BD%A2%E5%85%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山西致7死窒息事故系家庭作坊中毒](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E8%87%B47%E6%AD%BB%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E7%B3%BB%E5%AE%B6%E5%BA%AD%E4%BD%9C%E5%9D%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
