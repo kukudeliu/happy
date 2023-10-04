@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 18:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 18:28:01</h4></div>
 
 > 微博  
 
 1. [本月你的工资或将多两笔钱](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E6%9C%88%E4%BD%A0%E7%9A%84%E5%B7%A5%E8%B5%84%E6%88%96%E5%B0%86%E5%A4%9A%E4%B8%A4%E7%AC%94%E9%92%B1%23&t=31&band_rank=1&Refer=top)<br />
-2. [微信过期文件打开的最简单方法](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E8%BF%87%E6%9C%9F%E6%96%87%E4%BB%B6%E6%89%93%E5%BC%80%E7%9A%84%E6%9C%80%E7%AE%80%E5%8D%95%E6%96%B9%E6%B3%95&t=31&band_rank=2&Refer=top)<br />
+2. [研究生三年最好的安排](https://s.weibo.com/weibo?q=%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B8%89%E5%B9%B4%E6%9C%80%E5%A5%BD%E7%9A%84%E5%AE%89%E6%8E%92&t=31&band_rank=2&Refer=top)<br />
 3. [中国57项世界遗产名单](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD57%E9%A1%B9%E4%B8%96%E7%95%8C%E9%81%97%E4%BA%A7%E5%90%8D%E5%8D%95%23&t=31&band_rank=3&Refer=top)<br />
 4. [小熊猫都学会体操吊环了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%86%8A%E7%8C%AB%E9%83%BD%E5%AD%A6%E4%BC%9A%E4%BD%93%E6%93%8D%E5%90%8A%E7%8E%AF%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [特警碰掉游客小吃后重新买了一份](https://s.weibo.com/weibo?q=%23%E7%89%B9%E8%AD%A6%E7%A2%B0%E6%8E%89%E6%B8%B8%E5%AE%A2%E5%B0%8F%E5%90%83%E5%90%8E%E9%87%8D%E6%96%B0%E4%B9%B0%E4%BA%86%E4%B8%80%E4%BB%BD%23&t=31&band_rank=5&Refer=top)<br />
-6. [研究生三年最好的安排](https://s.weibo.com/weibo?q=%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B8%89%E5%B9%B4%E6%9C%80%E5%A5%BD%E7%9A%84%E5%AE%89%E6%8E%92&t=31&band_rank=6&Refer=top)<br />
+6. [微信过期文件打开的最简单方法](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E8%BF%87%E6%9C%9F%E6%96%87%E4%BB%B6%E6%89%93%E5%BC%80%E7%9A%84%E6%9C%80%E7%AE%80%E5%8D%95%E6%96%B9%E6%B3%95&t=31&band_rank=6&Refer=top)<br />
 7. [有一种骄傲叫赛场上的中国红](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E9%AA%84%E5%82%B2%E5%8F%AB%E8%B5%9B%E5%9C%BA%E4%B8%8A%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BA%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈芋汐说没有全红婵她的水平不会提高](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E8%AF%B4%E6%B2%A1%E6%9C%89%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%A5%B9%E7%9A%84%E6%B0%B4%E5%B9%B3%E4%B8%8D%E4%BC%9A%E6%8F%90%E9%AB%98%23&t=31&band_rank=8&Refer=top)<br />
 9. [DIOR 迪丽热巴](https://s.weibo.com/weibo?q=DIOR%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4&t=31&band_rank=9&Refer=top)<br />
