@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 21:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 21:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [“大聪明”又堵路上？提前3天还堵](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E8%81%AA%E6%98%8E%E2%80%9D%E5%8F%88%E5%A0%B5%E8%B7%AF%E4%B8%8A%EF%BC%9F%E6%8F%90%E5%89%8D3%E5%A4%A9%E8%BF%98%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子晒花生10分钟被鸟吃光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%99%92%E8%8A%B1%E7%94%9F10%E5%88%86%E9%92%9F%E8%A2%AB%E9%B8%9F%E5%90%83%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [6万人到兵马俑1200人忘带身份证](https://www.baidu.com/s?wd=6%E4%B8%87%E4%BA%BA%E5%88%B0%E5%85%B5%E9%A9%AC%E4%BF%911200%E4%BA%BA%E5%BF%98%E5%B8%A6%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广州康鹭：30万个踩缝纫机的人生](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%BA%B7%E9%B9%AD%EF%BC%9A30%E4%B8%87%E4%B8%AA%E8%B8%A9%E7%BC%9D%E7%BA%AB%E6%9C%BA%E7%9A%84%E4%BA%BA%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [鸡鸣寺橘猫成国庆顶流](https://www.baidu.com/s?wd=%E9%B8%A1%E9%B8%A3%E5%AF%BA%E6%A9%98%E7%8C%AB%E6%88%90%E5%9B%BD%E5%BA%86%E9%A1%B6%E6%B5%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [“大聪明”又堵路上？提前3天还堵](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E8%81%AA%E6%98%8E%E2%80%9D%E5%8F%88%E5%A0%B5%E8%B7%AF%E4%B8%8A%EF%BC%9F%E6%8F%90%E5%89%8D3%E5%A4%A9%E8%BF%98%E5%A0%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子晒花生10分钟被鸟吃光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%99%92%E8%8A%B1%E7%94%9F10%E5%88%86%E9%92%9F%E8%A2%AB%E9%B8%9F%E5%90%83%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [6万人到兵马俑1200人忘带身份证](https://www.baidu.com/s?wd=6%E4%B8%87%E4%BA%BA%E5%88%B0%E5%85%B5%E9%A9%AC%E4%BF%911200%E4%BA%BA%E5%BF%98%E5%B8%A6%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广州康鹭：30万个踩缝纫机的人生](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%BA%B7%E9%B9%AD%EF%BC%9A30%E4%B8%87%E4%B8%AA%E8%B8%A9%E7%BC%9D%E7%BA%AB%E6%9C%BA%E7%9A%84%E4%BA%BA%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [鸡鸣寺橘猫成国庆顶流](https://www.baidu.com/s?wd=%E9%B8%A1%E9%B8%A3%E5%AF%BA%E6%A9%98%E7%8C%AB%E6%88%90%E5%9B%BD%E5%BA%86%E9%A1%B6%E6%B5%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
