@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 01:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 01:23:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [男篮遭遇黑色3分钟 姚明脸色铁青](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E9%81%AD%E9%81%87%E9%BB%91%E8%89%B23%E5%88%86%E9%92%9F+%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E9%93%81%E9%9D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子谎称遭性侵在新加坡被判监禁](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B0%8E%E7%A7%B0%E9%81%AD%E6%80%A7%E4%BE%B5%E5%9C%A8%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%A2%AB%E5%88%A4%E7%9B%91%E7%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中科院博士开民宿 父亲：书白读了](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%BC%80%E6%B0%91%E5%AE%BF+%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B9%A6%E7%99%BD%E8%AF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [清华大学刑法学教授：差点被诈骗](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%88%91%E6%B3%95%E5%AD%A6%E6%95%99%E6%8E%88%EF%BC%9A%E5%B7%AE%E7%82%B9%E8%A2%AB%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子晒花生10分钟被鸟吃光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%99%92%E8%8A%B1%E7%94%9F10%E5%88%86%E9%92%9F%E8%A2%AB%E9%B8%9F%E5%90%83%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男篮遭遇黑色3分钟 姚明脸色铁青](https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E9%81%AD%E9%81%87%E9%BB%91%E8%89%B23%E5%88%86%E9%92%9F+%E5%A7%9A%E6%98%8E%E8%84%B8%E8%89%B2%E9%93%81%E9%9D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子谎称遭性侵在新加坡被判监禁](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B0%8E%E7%A7%B0%E9%81%AD%E6%80%A7%E4%BE%B5%E5%9C%A8%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%A2%AB%E5%88%A4%E7%9B%91%E7%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中科院博士开民宿 父亲：书白读了](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%BC%80%E6%B0%91%E5%AE%BF+%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B9%A6%E7%99%BD%E8%AF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [清华大学刑法学教授：差点被诈骗](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%88%91%E6%B3%95%E5%AD%A6%E6%95%99%E6%8E%88%EF%BC%9A%E5%B7%AE%E7%82%B9%E8%A2%AB%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子晒花生10分钟被鸟吃光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%99%92%E8%8A%B1%E7%94%9F10%E5%88%86%E9%92%9F%E8%A2%AB%E9%B8%9F%E5%90%83%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
