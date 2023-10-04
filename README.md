@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 08:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-04 08:23:02</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [走进亚运元宇宙](https://www.baidu.com/s?wd=%E8%B5%B0%E8%BF%9B%E4%BA%9A%E8%BF%90%E5%85%83%E5%AE%87%E5%AE%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [美国众议院罢免麦卡锡议长职务](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%97%E8%AE%AE%E9%99%A2%E7%BD%A2%E5%85%8D%E9%BA%A6%E5%8D%A1%E9%94%A1%E8%AE%AE%E9%95%BF%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [戏剧性！美国3号人物突然被罢免了](https://www.baidu.com/s?wd=%E6%88%8F%E5%89%A7%E6%80%A7%EF%BC%81%E7%BE%8E%E5%9B%BD3%E5%8F%B7%E4%BA%BA%E7%89%A9%E7%AA%81%E7%84%B6%E8%A2%AB%E7%BD%A2%E5%85%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [杭州亚运会发现首例兴奋剂阳性案例](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%8F%91%E7%8E%B0%E9%A6%96%E4%BE%8B%E5%85%B4%E5%A5%8B%E5%89%82%E9%98%B3%E6%80%A7%E6%A1%88%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [假期旅游热 祖国山河美](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E6%97%85%E6%B8%B8%E7%83%AD+%E7%A5%96%E5%9B%BD%E5%B1%B1%E6%B2%B3%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中原迷笛音乐节乐迷财物被盗](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8E%9F%E8%BF%B7%E7%AC%9B%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B9%90%E8%BF%B7%E8%B4%A2%E7%89%A9%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [走进亚运元宇宙](https://www.baidu.com/s?wd=%E8%B5%B0%E8%BF%9B%E4%BA%9A%E8%BF%90%E5%85%83%E5%AE%87%E5%AE%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [美国众议院罢免麦卡锡议长职务](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%97%E8%AE%AE%E9%99%A2%E7%BD%A2%E5%85%8D%E9%BA%A6%E5%8D%A1%E9%94%A1%E8%AE%AE%E9%95%BF%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [戏剧性！美国3号人物突然被罢免了](https://www.baidu.com/s?wd=%E6%88%8F%E5%89%A7%E6%80%A7%EF%BC%81%E7%BE%8E%E5%9B%BD3%E5%8F%B7%E4%BA%BA%E7%89%A9%E7%AA%81%E7%84%B6%E8%A2%AB%E7%BD%A2%E5%85%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [杭州亚运会发现首例兴奋剂阳性案例](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%8F%91%E7%8E%B0%E9%A6%96%E4%BE%8B%E5%85%B4%E5%A5%8B%E5%89%82%E9%98%B3%E6%80%A7%E6%A1%88%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [假期旅游热 祖国山河美](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E6%97%85%E6%B8%B8%E7%83%AD+%E7%A5%96%E5%9B%BD%E5%B1%B1%E6%B2%B3%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中原迷笛音乐节乐迷财物被盗](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8E%9F%E8%BF%B7%E7%AC%9B%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B9%90%E8%BF%B7%E8%B4%A2%E7%89%A9%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
