@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 08:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 08:49:01</h4></div>
 
 > 微博  
 
 1. [导游用激光笔照龙门石窟大佛](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%B8%B8%E7%94%A8%E6%BF%80%E5%85%89%E7%AC%94%E7%85%A7%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F%E5%A4%A7%E4%BD%9B%23&t=31&band_rank=1&Refer=top)<br />
-2. [赵继伟道歉](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E9%81%93%E6%AD%89%23&t=31&band_rank=2&Refer=top)<br />
+2. [提前返程结果1小时开了10公里](https://s.weibo.com/weibo?q=%23%E6%8F%90%E5%89%8D%E8%BF%94%E7%A8%8B%E7%BB%93%E6%9E%9C1%E5%B0%8F%E6%97%B6%E5%BC%80%E4%BA%8610%E5%85%AC%E9%87%8C%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会上的数字智能亮点](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%8A%E7%9A%84%E6%95%B0%E5%AD%97%E6%99%BA%E8%83%BD%E4%BA%AE%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [乔欣说车停不好就把路堵上](https://s.weibo.com/weibo?q=%E4%B9%94%E6%AC%A3%E8%AF%B4%E8%BD%A6%E5%81%9C%E4%B8%8D%E5%A5%BD%E5%B0%B1%E6%8A%8A%E8%B7%AF%E5%A0%B5%E4%B8%8A&t=31&band_rank=4&Refer=top)<br />
 5. [秦岚这状态是喝了点吧](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%BF%99%E7%8A%B6%E6%80%81%E6%98%AF%E5%96%9D%E4%BA%86%E7%82%B9%E5%90%A7%23&t=31&band_rank=5&Refer=top)<br />
-6. [提前返程结果1小时开了10公里](https://s.weibo.com/weibo?q=%23%E6%8F%90%E5%89%8D%E8%BF%94%E7%A8%8B%E7%BB%93%E6%9E%9C1%E5%B0%8F%E6%97%B6%E5%BC%80%E4%BA%8610%E5%85%AC%E9%87%8C%23&t=31&band_rank=6&Refer=top)<br />
-7. [女子通过WiFi名称跨60公里寻回手机](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%80%9A%E8%BF%87WiFi%E5%90%8D%E7%A7%B0%E8%B7%A860%E5%85%AC%E9%87%8C%E5%AF%BB%E5%9B%9E%E6%89%8B%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [张艺兴差点说出EXO](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B7%AE%E7%82%B9%E8%AF%B4%E5%87%BAEXO&t=31&band_rank=8&Refer=top)<br />
+6. [赵继伟道歉](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
+7. [张艺兴差点说出EXO](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B7%AE%E7%82%B9%E8%AF%B4%E5%87%BAEXO&t=31&band_rank=7&Refer=top)<br />
+8. [女子通过WiFi名称跨60公里寻回手机](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%80%9A%E8%BF%87WiFi%E5%90%8D%E7%A7%B0%E8%B7%A860%E5%85%AC%E9%87%8C%E5%AF%BB%E5%9B%9E%E6%89%8B%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [躺在床上看手机时打开闪光灯](https://s.weibo.com/weibo?q=%E8%BA%BA%E5%9C%A8%E5%BA%8A%E4%B8%8A%E7%9C%8B%E6%89%8B%E6%9C%BA%E6%97%B6%E6%89%93%E5%BC%80%E9%97%AA%E5%85%89%E7%81%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,8 +23,8 @@
 4. [沃野千里展新卷](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E5%8D%83%E9%87%8C%E5%B1%95%E6%96%B0%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [婚礼双方亲戚斗殴 新娘被批没教养](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E5%8F%8C%E6%96%B9%E4%BA%B2%E6%88%9A%E6%96%97%E6%AE%B4+%E6%96%B0%E5%A8%98%E8%A2%AB%E6%89%B9%E6%B2%A1%E6%95%99%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚明道歉](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [清华大学刑法学教授：差点被诈骗](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%88%91%E6%B3%95%E5%AD%A6%E6%95%99%E6%8E%88%EF%BC%9A%E5%B7%AE%E7%82%B9%E8%A2%AB%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中科院博士开民宿 父亲：书白读了](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%BC%80%E6%B0%91%E5%AE%BF+%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B9%A6%E7%99%BD%E8%AF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中科院博士开民宿 父亲：书白读了](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%BC%80%E6%B0%91%E5%AE%BF+%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B9%A6%E7%99%BD%E8%AF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [清华大学刑法学教授：差点被诈骗](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%88%91%E6%B3%95%E5%AD%A6%E6%95%99%E6%8E%88%EF%BC%9A%E5%B7%AE%E7%82%B9%E8%A2%AB%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北大国发院辟谣教授推荐股票](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%9B%BD%E5%8F%91%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%95%99%E6%8E%88%E6%8E%A8%E8%8D%90%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [沃野千里展新卷](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E5%8D%83%E9%87%8C%E5%B1%95%E6%96%B0%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [婚礼双方亲戚斗殴 新娘被批没教养](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E5%8F%8C%E6%96%B9%E4%BA%B2%E6%88%9A%E6%96%97%E6%AE%B4+%E6%96%B0%E5%A8%98%E8%A2%AB%E6%89%B9%E6%B2%A1%E6%95%99%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚明道歉](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [清华大学刑法学教授：差点被诈骗](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%88%91%E6%B3%95%E5%AD%A6%E6%95%99%E6%8E%88%EF%BC%9A%E5%B7%AE%E7%82%B9%E8%A2%AB%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中科院博士开民宿 父亲：书白读了](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%BC%80%E6%B0%91%E5%AE%BF+%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B9%A6%E7%99%BD%E8%AF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中科院博士开民宿 父亲：书白读了](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%BC%80%E6%B0%91%E5%AE%BF+%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B9%A6%E7%99%BD%E8%AF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [清华大学刑法学教授：差点被诈骗](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%88%91%E6%B3%95%E5%AD%A6%E6%95%99%E6%8E%88%EF%BC%9A%E5%B7%AE%E7%82%B9%E8%A2%AB%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北大国发院辟谣教授推荐股票](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%9B%BD%E5%8F%91%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%95%99%E6%8E%88%E6%8E%A8%E8%8D%90%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
