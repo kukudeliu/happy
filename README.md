@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 04:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 04:13:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [王思雨绝杀](https://www.baidu.com/s?wd=%E7%8E%8B%E6%80%9D%E9%9B%A8%E7%BB%9D%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李梦好猛](https://www.baidu.com/s?wd=%E6%9D%8E%E6%A2%A6%E5%A5%BD%E7%8C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中原迷笛回应“公告言辞粗鲁”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8E%9F%E8%BF%B7%E7%AC%9B%E5%9B%9E%E5%BA%94%E2%80%9C%E5%85%AC%E5%91%8A%E8%A8%80%E8%BE%9E%E7%B2%97%E9%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黄金价格创新高后大幅跳水](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E5%88%9B%E6%96%B0%E9%AB%98%E5%90%8E%E5%A4%A7%E5%B9%85%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [叙利亚军校遭袭已致66死190伤](https://www.baidu.com/s?wd=%E5%8F%99%E5%88%A9%E4%BA%9A%E5%86%9B%E6%A0%A1%E9%81%AD%E8%A2%AD%E5%B7%B2%E8%87%B466%E6%AD%BB190%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中原迷笛辟谣电缆、20万元被盗](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8E%9F%E8%BF%B7%E7%AC%9B%E8%BE%9F%E8%B0%A3%E7%94%B5%E7%BC%86%E3%80%8120%E4%B8%87%E5%85%83%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [王思雨绝杀](https://www.baidu.com/s?wd=%E7%8E%8B%E6%80%9D%E9%9B%A8%E7%BB%9D%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李梦好猛](https://www.baidu.com/s?wd=%E6%9D%8E%E6%A2%A6%E5%A5%BD%E7%8C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中原迷笛回应“公告言辞粗鲁”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8E%9F%E8%BF%B7%E7%AC%9B%E5%9B%9E%E5%BA%94%E2%80%9C%E5%85%AC%E5%91%8A%E8%A8%80%E8%BE%9E%E7%B2%97%E9%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黄金价格创新高后大幅跳水](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E5%88%9B%E6%96%B0%E9%AB%98%E5%90%8E%E5%A4%A7%E5%B9%85%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [叙利亚军校遭袭已致66死190伤](https://www.baidu.com/s?wd=%E5%8F%99%E5%88%A9%E4%BA%9A%E5%86%9B%E6%A0%A1%E9%81%AD%E8%A2%AD%E5%B7%B2%E8%87%B466%E6%AD%BB190%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中原迷笛辟谣电缆、20万元被盗](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8E%9F%E8%BF%B7%E7%AC%9B%E8%BE%9F%E8%B0%A3%E7%94%B5%E7%BC%86%E3%80%8120%E4%B8%87%E5%85%83%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
