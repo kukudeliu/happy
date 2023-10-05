@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 18:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 18:48:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [林高远王曼昱1比3张本智和早田希娜](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E7%8E%8B%E6%9B%BC%E6%98%B11%E6%AF%943%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%23&t=31&band_rank=4&Refer=top)<br />
 5. [如果感到幸福你就跺ta脚](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E6%84%9F%E5%88%B0%E5%B9%B8%E7%A6%8F%E4%BD%A0%E5%B0%B1%E8%B7%BAta%E8%84%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [张艺兴 UZI](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20UZI&t=31&band_rank=6&Refer=top)<br />
-7. [女孩放弃买钻戒花50万买金条](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E4%B9%B0%E9%92%BB%E6%88%92%E8%8A%B150%E4%B8%87%E4%B9%B0%E9%87%91%E6%9D%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [王楚钦孙颖莎](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E&t=31&band_rank=8&Refer=top)<br />
+7. [王楚钦孙颖莎](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E&t=31&band_rank=7&Refer=top)<br />
+8. [女孩放弃买钻戒花50万买金条](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E4%B9%B0%E9%92%BB%E6%88%92%E8%8A%B150%E4%B8%87%E4%B9%B0%E9%87%91%E6%9D%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [腾讯视频 胆小模式](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%20%E8%83%86%E5%B0%8F%E6%A8%A1%E5%BC%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
