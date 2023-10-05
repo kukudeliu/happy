@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 07:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 07:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [全红婵唯一的炸鱼方式](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%94%AF%E4%B8%80%E7%9A%84%E7%82%B8%E9%B1%BC%E6%96%B9%E5%BC%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [于文文当预言家睡过头了](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E5%BD%93%E9%A2%84%E8%A8%80%E5%AE%B6%E7%9D%A1%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [已归还乐迷身份证79张](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E5%BD%92%E8%BF%98%E4%B9%90%E8%BF%B7%E8%BA%AB%E4%BB%BD%E8%AF%8179%E5%BC%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [一人独享渣男赛道](https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%BA%E7%8B%AC%E4%BA%AB%E6%B8%A3%E7%94%B7%E8%B5%9B%E9%81%93&t=31&band_rank=9&Refer=top)<br />
+9. [因为是INTJ而被HR告知没被录取](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E6%98%AFINTJ%E8%80%8C%E8%A2%ABHR%E5%91%8A%E7%9F%A5%E6%B2%A1%E8%A2%AB%E5%BD%95%E5%8F%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
