@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 14:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 14:49:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [第一次在恋综看到女嘉宾翻白眼](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E6%81%8B%E7%BB%BC%E7%9C%8B%E5%88%B0%E5%A5%B3%E5%98%89%E5%AE%BE%E7%BF%BB%E7%99%BD%E7%9C%BC%23&t=31&band_rank=5&Refer=top)<br />
 6. [乔欣回应停车言论争议](https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%AC%A3%E5%9B%9E%E5%BA%94%E5%81%9C%E8%BD%A6%E8%A8%80%E8%AE%BA%E4%BA%89%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘翔110米跨栏决赛高清影像](https://s.weibo.com/weibo?q=%E5%88%98%E7%BF%94110%E7%B1%B3%E8%B7%A8%E6%A0%8F%E5%86%B3%E8%B5%9B%E9%AB%98%E6%B8%85%E5%BD%B1%E5%83%8F&t=31&band_rank=7&Refer=top)<br />
-8. [秦霄贤喜欢的女生类型变了](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%96%9C%E6%AC%A2%E7%9A%84%E5%A5%B3%E7%94%9F%E7%B1%BB%E5%9E%8B%E5%8F%98%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [女游客四川卧龙邓生沟拍照滑落溺亡](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%9B%9B%E5%B7%9D%E5%8D%A7%E9%BE%99%E9%82%93%E7%94%9F%E6%B2%9F%E6%8B%8D%E7%85%A7%E6%BB%91%E8%90%BD%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [女游客四川卧龙邓生沟拍照滑落溺亡](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%9B%9B%E5%B7%9D%E5%8D%A7%E9%BE%99%E9%82%93%E7%94%9F%E6%B2%9F%E6%8B%8D%E7%85%A7%E6%BB%91%E8%90%BD%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [秦霄贤喜欢的女生类型变了](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%96%9C%E6%AC%A2%E7%9A%84%E5%A5%B3%E7%94%9F%E7%B1%BB%E5%9E%8B%E5%8F%98%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [沃野千里展新卷](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E5%8D%83%E9%87%8C%E5%B1%95%E6%96%B0%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [菲男篮主帅：没派主力只准备了12天](https://www.baidu.com/s?wd=%E8%8F%B2%E7%94%B7%E7%AF%AE%E4%B8%BB%E5%B8%85%EF%BC%9A%E6%B2%A1%E6%B4%BE%E4%B8%BB%E5%8A%9B%E5%8F%AA%E5%87%86%E5%A4%8712%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子刚买完手镯金价就下跌直呼肉痛](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%9A%E4%B9%B0%E5%AE%8C%E6%89%8B%E9%95%AF%E9%87%91%E4%BB%B7%E5%B0%B1%E4%B8%8B%E8%B7%8C%E7%9B%B4%E5%91%BC%E8%82%89%E7%97%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [研一新生入学1个月给导师当伴郎](https://www.baidu.com/s?wd=%E7%A0%94%E4%B8%80%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A61%E4%B8%AA%E6%9C%88%E7%BB%99%E5%AF%BC%E5%B8%88%E5%BD%93%E4%BC%B4%E9%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张艺谋带不动国庆档？](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%B8%A6%E4%B8%8D%E5%8A%A8%E5%9B%BD%E5%BA%86%E6%A1%A3%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [济南一夜市网红秋千断裂坠落](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E4%B8%80%E5%A4%9C%E5%B8%82%E7%BD%91%E7%BA%A2%E7%A7%8B%E5%8D%83%E6%96%AD%E8%A3%82%E5%9D%A0%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [研一新生入学1个月给导师当伴郎](https://www.baidu.com/s?wd=%E7%A0%94%E4%B8%80%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A61%E4%B8%AA%E6%9C%88%E7%BB%99%E5%AF%BC%E5%B8%88%E5%BD%93%E4%BC%B4%E9%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北大国发院辟谣教授推荐股票](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%9B%BD%E5%8F%91%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%95%99%E6%8E%88%E6%8E%A8%E8%8D%90%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [沃野千里展新卷](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E5%8D%83%E9%87%8C%E5%B1%95%E6%96%B0%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [菲男篮主帅：没派主力只准备了12天](https://www.baidu.com/s?wd=%E8%8F%B2%E7%94%B7%E7%AF%AE%E4%B8%BB%E5%B8%85%EF%BC%9A%E6%B2%A1%E6%B4%BE%E4%B8%BB%E5%8A%9B%E5%8F%AA%E5%87%86%E5%A4%8712%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子刚买完手镯金价就下跌直呼肉痛](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%9A%E4%B9%B0%E5%AE%8C%E6%89%8B%E9%95%AF%E9%87%91%E4%BB%B7%E5%B0%B1%E4%B8%8B%E8%B7%8C%E7%9B%B4%E5%91%BC%E8%82%89%E7%97%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [研一新生入学1个月给导师当伴郎](https://www.baidu.com/s?wd=%E7%A0%94%E4%B8%80%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A61%E4%B8%AA%E6%9C%88%E7%BB%99%E5%AF%BC%E5%B8%88%E5%BD%93%E4%BC%B4%E9%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张艺谋带不动国庆档？](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%B8%A6%E4%B8%8D%E5%8A%A8%E5%9B%BD%E5%BA%86%E6%A1%A3%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [济南一夜市网红秋千断裂坠落](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E4%B8%80%E5%A4%9C%E5%B8%82%E7%BD%91%E7%BA%A2%E7%A7%8B%E5%8D%83%E6%96%AD%E8%A3%82%E5%9D%A0%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [研一新生入学1个月给导师当伴郎](https://www.baidu.com/s?wd=%E7%A0%94%E4%B8%80%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A61%E4%B8%AA%E6%9C%88%E7%BB%99%E5%AF%BC%E5%B8%88%E5%BD%93%E4%BC%B4%E9%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北大国发院辟谣教授推荐股票](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%9B%BD%E5%8F%91%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%95%99%E6%8E%88%E6%8E%A8%E8%8D%90%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
