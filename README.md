@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 01:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 01:35:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [徐州一婚礼场地被村民连夜搬空](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%B7%9E%E4%B8%80%E5%A9%9A%E7%A4%BC%E5%9C%BA%E5%9C%B0%E8%A2%AB%E6%9D%91%E6%B0%91%E8%BF%9E%E5%A4%9C%E6%90%AC%E7%A9%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [因为是INTJ而被HR告知没被录取](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E6%98%AFINTJ%E8%80%8C%E8%A2%ABHR%E5%91%8A%E7%9F%A5%E6%B2%A1%E8%A2%AB%E5%BD%95%E5%8F%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国亚运史上首枚男子马拉松金牌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%9A%E8%BF%90%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%9E%9A%E7%94%B7%E5%AD%90%E9%A9%AC%E6%8B%89%E6%9D%BE%E9%87%91%E7%89%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [苏炳添称无法和谢震业做比较](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E7%A7%B0%E6%97%A0%E6%B3%95%E5%92%8C%E8%B0%A2%E9%9C%87%E4%B8%9A%E5%81%9A%E6%AF%94%E8%BE%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [于文文当预言家睡过头了](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E5%BD%93%E9%A2%84%E8%A8%80%E5%AE%B6%E7%9D%A1%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [于文文当预言家睡过头了](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E5%BD%93%E9%A2%84%E8%A8%80%E5%AE%B6%E7%9D%A1%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [苏炳添称无法和谢震业做比较](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E7%A7%B0%E6%97%A0%E6%B3%95%E5%92%8C%E8%B0%A2%E9%9C%87%E4%B8%9A%E5%81%9A%E6%AF%94%E8%BE%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
