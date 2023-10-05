@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 08:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 08:32:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [婚礼双方亲戚斗殴 新娘被批没教养](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E5%8F%8C%E6%96%B9%E4%BA%B2%E6%88%9A%E6%96%97%E6%AE%B4+%E6%96%B0%E5%A8%98%E8%A2%AB%E6%89%B9%E6%B2%A1%E6%95%99%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大爷被穿短裙女子指责看腿后发飙](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E8%A2%AB%E7%A9%BF%E7%9F%AD%E8%A3%99%E5%A5%B3%E5%AD%90%E6%8C%87%E8%B4%A3%E7%9C%8B%E8%85%BF%E5%90%8E%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中科院博士开民宿 父亲：书白读了](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%BC%80%E6%B0%91%E5%AE%BF+%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B9%A6%E7%99%BD%E8%AF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网友提前返程1小时开10公里](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8F%90%E5%89%8D%E8%BF%94%E7%A8%8B1%E5%B0%8F%E6%97%B6%E5%BC%8010%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [姚明道歉](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [婚礼双方亲戚斗殴 新娘被批没教养](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E5%8F%8C%E6%96%B9%E4%BA%B2%E6%88%9A%E6%96%97%E6%AE%B4+%E6%96%B0%E5%A8%98%E8%A2%AB%E6%89%B9%E6%B2%A1%E6%95%99%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大爷被穿短裙女子指责看腿后发飙](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E8%A2%AB%E7%A9%BF%E7%9F%AD%E8%A3%99%E5%A5%B3%E5%AD%90%E6%8C%87%E8%B4%A3%E7%9C%8B%E8%85%BF%E5%90%8E%E5%8F%91%E9%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中科院博士开民宿 父亲：书白读了](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%BC%80%E6%B0%91%E5%AE%BF+%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B9%A6%E7%99%BD%E8%AF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网友提前返程1小时开10公里](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8F%90%E5%89%8D%E8%BF%94%E7%A8%8B1%E5%B0%8F%E6%97%B6%E5%BC%8010%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [姚明道歉](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [举报高速违章1分钟赚3000元？](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%AB%98%E9%80%9F%E8%BF%9D%E7%AB%A01%E5%88%86%E9%92%9F%E8%B5%9A3000%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
