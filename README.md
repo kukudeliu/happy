@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 21:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 21:55:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [看女篮就是爽](https://s.weibo.com/weibo?q=%E7%9C%8B%E5%A5%B3%E7%AF%AE%E5%B0%B1%E6%98%AF%E7%88%BD&t=31&band_rank=5&Refer=top)<br />
 6. [加了新好友先看自己朋友圈](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E4%BA%86%E6%96%B0%E5%A5%BD%E5%8F%8B%E5%85%88%E7%9C%8B%E8%87%AA%E5%B7%B1%E6%9C%8B%E5%8F%8B%E5%9C%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [还得是女篮 还得是中国女人](https://s.weibo.com/weibo?q=%E8%BF%98%E5%BE%97%E6%98%AF%E5%A5%B3%E7%AF%AE%20%E8%BF%98%E5%BE%97%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
-8. [新闻联播新主播王音棋](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E6%96%B0%E4%B8%BB%E6%92%AD%E7%8E%8B%E9%9F%B3%E6%A3%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [王楚钦孙颖莎](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E&t=31&band_rank=9&Refer=top)<br />
+8. [王思雨上篮](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%80%9D%E9%9B%A8%E4%B8%8A%E7%AF%AE&t=31&band_rank=8&Refer=top)<br />
+9. [新闻联播新主播王音棋](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E6%96%B0%E4%B8%BB%E6%92%AD%E7%8E%8B%E9%9F%B3%E6%A3%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
