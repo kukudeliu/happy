@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 13:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 13:36:02</h4></div>
 
 > 微博  
 
-1. [日本海啸](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%B5%B7%E5%95%B8&t=31&band_rank=1&Refer=top)<br />
-2. [全红婵的弹跳没有地心引力](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9A%84%E5%BC%B9%E8%B7%B3%E6%B2%A1%E6%9C%89%E5%9C%B0%E5%BF%83%E5%BC%95%E5%8A%9B%23&t=31&band_rank=2&Refer=top)<br />
+1. [全红婵的弹跳没有地心引力](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9A%84%E5%BC%B9%E8%B7%B3%E6%B2%A1%E6%9C%89%E5%9C%B0%E5%BF%83%E5%BC%95%E5%8A%9B%23&t=31&band_rank=1&Refer=top)<br />
+2. [日本海啸](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%B5%B7%E5%95%B8&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会上的数字智能亮点](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%8A%E7%9A%84%E6%95%B0%E5%AD%97%E6%99%BA%E8%83%BD%E4%BA%AE%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [第一次在恋综看到女嘉宾翻白眼](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E6%81%8B%E7%BB%BC%E7%9C%8B%E5%88%B0%E5%A5%B3%E5%98%89%E5%AE%BE%E7%BF%BB%E7%99%BD%E7%9C%BC%23&t=31&band_rank=4&Refer=top)<br />
 5. [唐嫣拍戏受伤](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E6%8B%8D%E6%88%8F%E5%8F%97%E4%BC%A4%23&t=31&band_rank=5&Refer=top)<br />
