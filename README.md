@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 05:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 05:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [苏炳添称无法和谢震业做比较](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E7%A7%B0%E6%97%A0%E6%B3%95%E5%92%8C%E8%B0%A2%E9%9C%87%E4%B8%9A%E5%81%9A%E6%AF%94%E8%BE%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [李泽锋 轻舟已过万重山](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B3%BD%E9%94%8B%20%E8%BD%BB%E8%88%9F%E5%B7%B2%E8%BF%87%E4%B8%87%E9%87%8D%E5%B1%B1&t=31&band_rank=7&Refer=top)<br />
 8. [已归还乐迷身份证79张](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E5%BD%92%E8%BF%98%E4%B9%90%E8%BF%B7%E8%BA%AB%E4%BB%BD%E8%AF%8179%E5%BC%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [南阳官方通报音乐节盗窃事件](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B3%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%9F%B3%E4%B9%90%E8%8A%82%E7%9B%97%E7%AA%83%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [因为是INTJ而被HR告知没被录取](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E6%98%AFINTJ%E8%80%8C%E8%A2%ABHR%E5%91%8A%E7%9F%A5%E6%B2%A1%E8%A2%AB%E5%BD%95%E5%8F%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
