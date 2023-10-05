@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 02:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 02:59:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [“双节”中国风 浓浓家国情](https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%8C%E8%8A%82%E2%80%9D%E4%B8%AD%E5%9B%BD%E9%A3%8E+%E6%B5%93%E6%B5%93%E5%AE%B6%E5%9B%BD%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [王思雨绝杀](https://www.baidu.com/s?wd=%E7%8E%8B%E6%80%9D%E9%9B%A8%E7%BB%9D%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李梦好猛](https://www.baidu.com/s?wd=%E6%9D%8E%E6%A2%A6%E5%A5%BD%E7%8C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [亚运神曲团队：40人随时关注氛围](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E7%A5%9E%E6%9B%B2%E5%9B%A2%E9%98%9F%EF%BC%9A40%E4%BA%BA%E9%9A%8F%E6%97%B6%E5%85%B3%E6%B3%A8%E6%B0%9B%E5%9B%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [周润发自曝患糖尿病](https://www.baidu.com/s?wd=%E5%91%A8%E6%B6%A6%E5%8F%91%E8%87%AA%E6%9B%9D%E6%82%A3%E7%B3%96%E5%B0%BF%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中原迷笛回应“公告言辞粗鲁”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8E%9F%E8%BF%B7%E7%AC%9B%E5%9B%9E%E5%BA%94%E2%80%9C%E5%85%AC%E5%91%8A%E8%A8%80%E8%BE%9E%E7%B2%97%E9%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子住酒店连续3间房发现摄像头](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BD%8F%E9%85%92%E5%BA%97%E8%BF%9E%E7%BB%AD3%E9%97%B4%E6%88%BF%E5%8F%91%E7%8E%B0%E6%91%84%E5%83%8F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中原迷笛辟谣电缆、20万元被盗](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8E%9F%E8%BF%B7%E7%AC%9B%E8%BE%9F%E8%B0%A3%E7%94%B5%E7%BC%86%E3%80%8120%E4%B8%87%E5%85%83%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [“双节”中国风 浓浓家国情](https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%8C%E8%8A%82%E2%80%9D%E4%B8%AD%E5%9B%BD%E9%A3%8E+%E6%B5%93%E6%B5%93%E5%AE%B6%E5%9B%BD%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [王思雨绝杀](https://www.baidu.com/s?wd=%E7%8E%8B%E6%80%9D%E9%9B%A8%E7%BB%9D%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李梦好猛](https://www.baidu.com/s?wd=%E6%9D%8E%E6%A2%A6%E5%A5%BD%E7%8C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [亚运神曲团队：40人随时关注氛围](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E7%A5%9E%E6%9B%B2%E5%9B%A2%E9%98%9F%EF%BC%9A40%E4%BA%BA%E9%9A%8F%E6%97%B6%E5%85%B3%E6%B3%A8%E6%B0%9B%E5%9B%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [周润发自曝患糖尿病](https://www.baidu.com/s?wd=%E5%91%A8%E6%B6%A6%E5%8F%91%E8%87%AA%E6%9B%9D%E6%82%A3%E7%B3%96%E5%B0%BF%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中原迷笛回应“公告言辞粗鲁”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8E%9F%E8%BF%B7%E7%AC%9B%E5%9B%9E%E5%BA%94%E2%80%9C%E5%85%AC%E5%91%8A%E8%A8%80%E8%BE%9E%E7%B2%97%E9%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子住酒店连续3间房发现摄像头](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BD%8F%E9%85%92%E5%BA%97%E8%BF%9E%E7%BB%AD3%E9%97%B4%E6%88%BF%E5%8F%91%E7%8E%B0%E6%91%84%E5%83%8F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中原迷笛辟谣电缆、20万元被盗](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8E%9F%E8%BF%B7%E7%AC%9B%E8%BE%9F%E8%B0%A3%E7%94%B5%E7%BC%86%E3%80%8120%E4%B8%87%E5%85%83%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
