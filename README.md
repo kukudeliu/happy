@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 11:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 11:24:01</h4></div>
 
 > 微博  
 
-1. [Jennie将常驻综艺公寓404](https://s.weibo.com/weibo?q=%23Jennie%E5%B0%86%E5%B8%B8%E9%A9%BB%E7%BB%BC%E8%89%BA%E5%85%AC%E5%AF%93404%23&t=31&band_rank=1&Refer=top)<br />
-2. [日本海啸](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%B5%B7%E5%95%B8&t=31&band_rank=2&Refer=top)<br />
+1. [日本海啸](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%B5%B7%E5%95%B8&t=31&band_rank=1&Refer=top)<br />
+2. [Jennie将常驻综艺公寓404](https://s.weibo.com/weibo?q=%23Jennie%E5%B0%86%E5%B8%B8%E9%A9%BB%E7%BB%BC%E8%89%BA%E5%85%AC%E5%AF%93404%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会上的数字智能亮点](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%8A%E7%9A%84%E6%95%B0%E5%AD%97%E6%99%BA%E8%83%BD%E4%BA%AE%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [秦霄贤喜欢的女生类型变了](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%96%9C%E6%AC%A2%E7%9A%84%E5%A5%B3%E7%94%9F%E7%B1%BB%E5%9E%8B%E5%8F%98%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [研一男生入学1个月被邀当导师伴郎](https://s.weibo.com/weibo?q=%23%E7%A0%94%E4%B8%80%E7%94%B7%E7%94%9F%E5%85%A5%E5%AD%A61%E4%B8%AA%E6%9C%88%E8%A2%AB%E9%82%80%E5%BD%93%E5%AF%BC%E5%B8%88%E4%BC%B4%E9%83%8E%23&t=31&band_rank=5&Refer=top)<br />
