@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 19:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 19:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [爱情公狱](https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%83%85%E5%85%AC%E7%8B%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [如果感到幸福你就跺ta脚](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E6%84%9F%E5%88%B0%E5%B9%B8%E7%A6%8F%E4%BD%A0%E5%B0%B1%E8%B7%BAta%E8%84%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈雨菲vs金佳恩](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B2vs%E9%87%91%E4%BD%B3%E6%81%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国女篮vs日本女篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AEvs%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%AF%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [日本一企业用人造子宫培育出鲨鱼](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E4%BC%81%E4%B8%9A%E7%94%A8%E4%BA%BA%E9%80%A0%E5%AD%90%E5%AE%AB%E5%9F%B9%E8%82%B2%E5%87%BA%E9%B2%A8%E9%B1%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
