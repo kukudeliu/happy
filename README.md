@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 12:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 12:51:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [第一次在恋综看到女嘉宾翻白眼](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E6%81%8B%E7%BB%BC%E7%9C%8B%E5%88%B0%E5%A5%B3%E5%98%89%E5%AE%BE%E7%BF%BB%E7%99%BD%E7%9C%BC%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会上的数字智能亮点](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%8A%E7%9A%84%E6%95%B0%E5%AD%97%E6%99%BA%E8%83%BD%E4%BA%AE%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [秦霄贤喜欢的女生类型变了](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%96%9C%E6%AC%A2%E7%9A%84%E5%A5%B3%E7%94%9F%E7%B1%BB%E5%9E%8B%E5%8F%98%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [傅园慧当游泳教练了](https://s.weibo.com/weibo?q=%23%E5%82%85%E5%9B%AD%E6%85%A7%E5%BD%93%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [唐嫣拍戏受伤](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E6%8B%8D%E6%88%8F%E5%8F%97%E4%BC%A4%23&t=31&band_rank=6&Refer=top)<br />
+5. [唐嫣拍戏受伤](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E6%8B%8D%E6%88%8F%E5%8F%97%E4%BC%A4%23&t=31&band_rank=5&Refer=top)<br />
+6. [傅园慧当游泳教练了](https://s.weibo.com/weibo?q=%23%E5%82%85%E5%9B%AD%E6%85%A7%E5%BD%93%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [迷笛再回应乐迷财物被盗事件](https://s.weibo.com/weibo?q=%23%E8%BF%B7%E7%AC%9B%E5%86%8D%E5%9B%9E%E5%BA%94%E4%B9%90%E8%BF%B7%E8%B4%A2%E7%89%A9%E8%A2%AB%E7%9B%97%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [Jennie将常驻综艺公寓404](https://s.weibo.com/weibo?q=%23Jennie%E5%B0%86%E5%B8%B8%E9%A9%BB%E7%BB%BC%E8%89%BA%E5%85%AC%E5%AF%93404%23&t=31&band_rank=8&Refer=top)<br />
 9. [医生提醒24小时吃遍一座城不可取](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%9224%E5%B0%8F%E6%97%B6%E5%90%83%E9%81%8D%E4%B8%80%E5%BA%A7%E5%9F%8E%E4%B8%8D%E5%8F%AF%E5%8F%96%23&t=31&band_rank=9&Refer=top)<br />
