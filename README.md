@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 21:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 21:06:01</h4></div>
 
 > 微博  
 
 1. [新闻联播新主播王音棋](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E6%96%B0%E4%B8%BB%E6%92%AD%E7%8E%8B%E9%9F%B3%E6%A3%8B%23&t=31&band_rank=1&Refer=top)<br />
 2. [李梦好猛](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%A2%A6%E5%A5%BD%E7%8C%9B&t=31&band_rank=2&Refer=top)<br />
-3. [中国女篮vs日本女篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AEvs%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%AF%AE%23&t=31&band_rank=3&Refer=top)<br />
-4. [王楚钦孙颖莎](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E&t=31&band_rank=4&Refer=top)<br />
-5. [看女篮就是爽](https://s.weibo.com/weibo?q=%E7%9C%8B%E5%A5%B3%E7%AF%AE%E5%B0%B1%E6%98%AF%E7%88%BD&t=31&band_rank=5&Refer=top)<br />
-6. [爱情公狱](https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%83%85%E5%85%AC%E7%8B%B1%23&t=31&band_rank=6&Refer=top)<br />
-7. [我的国家没参赛我来支持中国队](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%B2%A1%E5%8F%82%E8%B5%9B%E6%88%91%E6%9D%A5%E6%94%AF%E6%8C%81%E4%B8%AD%E5%9B%BD%E9%98%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [于和伟帅死了](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%E5%B8%85%E6%AD%BB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [看坚如磐石 别带小孩](https://s.weibo.com/weibo?q=%E7%9C%8B%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%20%E5%88%AB%E5%B8%A6%E5%B0%8F%E5%AD%A9&t=31&band_rank=9&Refer=top)<br />
+3. [被亚运会的氛围可爱到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%9A%84%E6%B0%9B%E5%9B%B4%E5%8F%AF%E7%88%B1%E5%88%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
+4. [中国女篮vs日本女篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AEvs%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%AF%AE%23&t=31&band_rank=4&Refer=top)<br />
+5. [王楚钦孙颖莎](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E&t=31&band_rank=5&Refer=top)<br />
+6. [看女篮就是爽](https://s.weibo.com/weibo?q=%E7%9C%8B%E5%A5%B3%E7%AF%AE%E5%B0%B1%E6%98%AF%E7%88%BD&t=31&band_rank=6&Refer=top)<br />
+7. [爱情公狱](https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%83%85%E5%85%AC%E7%8B%B1%23&t=31&band_rank=7&Refer=top)<br />
+8. [我的国家没参赛我来支持中国队](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%B2%A1%E5%8F%82%E8%B5%9B%E6%88%91%E6%9D%A5%E6%94%AF%E6%8C%81%E4%B8%AD%E5%9B%BD%E9%98%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [于和伟帅死了](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%E5%B8%85%E6%AD%BB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
