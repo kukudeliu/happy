@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 19:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 19:49:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [退休教师家门口升国旗13年](https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91%E6%95%99%E5%B8%88%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%8D%87%E5%9B%BD%E6%97%9713%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [爱情公狱](https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%83%85%E5%85%AC%E7%8B%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [如果感到幸福你就跺ta脚](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E6%84%9F%E5%88%B0%E5%B9%B8%E7%A6%8F%E4%BD%A0%E5%B0%B1%E8%B7%BAta%E8%84%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=8&Refer=top)<br />
-9. [陈雨菲vs金佳恩](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B2vs%E9%87%91%E4%BD%B3%E6%81%A9%23&t=31&band_rank=9&Refer=top)<br />
+8. [陈雨菲vs金佳恩](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B2vs%E9%87%91%E4%BD%B3%E6%81%A9%23&t=31&band_rank=8&Refer=top)<br />
+9. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
