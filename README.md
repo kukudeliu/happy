@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 07:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 07:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [全红婵唯一的炸鱼方式](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%94%AF%E4%B8%80%E7%9A%84%E7%82%B8%E9%B1%BC%E6%96%B9%E5%BC%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [苏炳添称无法和谢震业做比较](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E7%A7%B0%E6%97%A0%E6%B3%95%E5%92%8C%E8%B0%A2%E9%9C%87%E4%B8%9A%E5%81%9A%E6%AF%94%E8%BE%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [已归还乐迷身份证79张](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E5%BD%92%E8%BF%98%E4%B9%90%E8%BF%B7%E8%BA%AB%E4%BB%BD%E8%AF%8179%E5%BC%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [南阳官方通报音乐节盗窃事件](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B3%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%9F%B3%E4%B9%90%E8%8A%82%E7%9B%97%E7%AA%83%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [游客挖走张掖七彩丹霞景区土壤](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E6%8C%96%E8%B5%B0%E5%BC%A0%E6%8E%96%E4%B8%83%E5%BD%A9%E4%B8%B9%E9%9C%9E%E6%99%AF%E5%8C%BA%E5%9C%9F%E5%A3%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
