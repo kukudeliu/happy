@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 15:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 15:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [乔欣回应停车言论争议](https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%AC%A3%E5%9B%9E%E5%BA%94%E5%81%9C%E8%BD%A6%E8%A8%80%E8%AE%BA%E4%BA%89%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘翔110米跨栏决赛高清影像](https://s.weibo.com/weibo?q=%E5%88%98%E7%BF%94110%E7%B1%B3%E8%B7%A8%E6%A0%8F%E5%86%B3%E8%B5%9B%E9%AB%98%E6%B8%85%E5%BD%B1%E5%83%8F&t=31&band_rank=7&Refer=top)<br />
 8. [女游客四川卧龙邓生沟拍照滑落溺亡](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%9B%9B%E5%B7%9D%E5%8D%A7%E9%BE%99%E9%82%93%E7%94%9F%E6%B2%9F%E6%8B%8D%E7%85%A7%E6%BB%91%E8%90%BD%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [秦霄贤喜欢的女生类型变了](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%96%9C%E6%AC%A2%E7%9A%84%E5%A5%B3%E7%94%9F%E7%B1%BB%E5%9E%8B%E5%8F%98%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [腾讯视频 胆小模式](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%20%E8%83%86%E5%B0%8F%E6%A8%A1%E5%BC%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [女子因顺风车未到目的地崩溃尖叫](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%A0%E9%A1%BA%E9%A3%8E%E8%BD%A6%E6%9C%AA%E5%88%B0%E7%9B%AE%E7%9A%84%E5%9C%B0%E5%B4%A9%E6%BA%83%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子通过WiFi名跨60公里寻回手机](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%80%9A%E8%BF%87WiFi%E5%90%8D%E8%B7%A860%E5%85%AC%E9%87%8C%E5%AF%BB%E5%9B%9E%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子刚买完手镯金价就下跌直呼肉痛](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%9A%E4%B9%B0%E5%AE%8C%E6%89%8B%E9%95%AF%E9%87%91%E4%BB%B7%E5%B0%B1%E4%B8%8B%E8%B7%8C%E7%9B%B4%E5%91%BC%E8%82%89%E7%97%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [保安大叔成大唐不夜城“隐藏彩蛋”](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94%E6%88%90%E5%A4%A7%E5%94%90%E4%B8%8D%E5%A4%9C%E5%9F%8E%E2%80%9C%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [养老院爷爷奶奶给年轻人的“忠告”](https://www.baidu.com/s?wd=%E5%85%BB%E8%80%81%E9%99%A2%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E7%BB%99%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E2%80%9C%E5%BF%A0%E5%91%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子造谣“赤山大桥3人死亡”被拘留](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E2%80%9C%E8%B5%A4%E5%B1%B1%E5%A4%A7%E6%A1%A53%E4%BA%BA%E6%AD%BB%E4%BA%A1%E2%80%9C%E8%A2%AB%E6%8B%98%E7%95%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女子因顺风车未到目的地崩溃尖叫](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%A0%E9%A1%BA%E9%A3%8E%E8%BD%A6%E6%9C%AA%E5%88%B0%E7%9B%AE%E7%9A%84%E5%9C%B0%E5%B4%A9%E6%BA%83%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子通过WiFi名跨60公里寻回手机](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%80%9A%E8%BF%87WiFi%E5%90%8D%E8%B7%A860%E5%85%AC%E9%87%8C%E5%AF%BB%E5%9B%9E%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子刚买完手镯金价就下跌直呼肉痛](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%9A%E4%B9%B0%E5%AE%8C%E6%89%8B%E9%95%AF%E9%87%91%E4%BB%B7%E5%B0%B1%E4%B8%8B%E8%B7%8C%E7%9B%B4%E5%91%BC%E8%82%89%E7%97%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [保安大叔成大唐不夜城“隐藏彩蛋”](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94%E6%88%90%E5%A4%A7%E5%94%90%E4%B8%8D%E5%A4%9C%E5%9F%8E%E2%80%9C%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [养老院爷爷奶奶给年轻人的“忠告”](https://www.baidu.com/s?wd=%E5%85%BB%E8%80%81%E9%99%A2%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E7%BB%99%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E2%80%9C%E5%BF%A0%E5%91%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子造谣“赤山大桥3人死亡”被拘留](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E2%80%9C%E8%B5%A4%E5%B1%B1%E5%A4%A7%E6%A1%A53%E4%BA%BA%E6%AD%BB%E4%BA%A1%E2%80%9C%E8%A2%AB%E6%8B%98%E7%95%99&sa=fyb_news&rsv_dl=fyb_news)<br />
