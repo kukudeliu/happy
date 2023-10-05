@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 12:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 12:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [第一次在恋综看到女嘉宾翻白眼](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E6%81%8B%E7%BB%BC%E7%9C%8B%E5%88%B0%E5%A5%B3%E5%98%89%E5%AE%BE%E7%BF%BB%E7%99%BD%E7%9C%BC%23&t=31&band_rank=6&Refer=top)<br />
 7. [迷笛再回应乐迷财物被盗事件](https://s.weibo.com/weibo?q=%23%E8%BF%B7%E7%AC%9B%E5%86%8D%E5%9B%9E%E5%BA%94%E4%B9%90%E8%BF%B7%E8%B4%A2%E7%89%A9%E8%A2%AB%E7%9B%97%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [研一男生入学1个月被邀当导师伴郎](https://s.weibo.com/weibo?q=%23%E7%A0%94%E4%B8%80%E7%94%B7%E7%94%9F%E5%85%A5%E5%AD%A61%E4%B8%AA%E6%9C%88%E8%A2%AB%E9%82%80%E5%BD%93%E5%AF%BC%E5%B8%88%E4%BC%B4%E9%83%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [医生提醒24小时吃遍一座城不可取](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%9224%E5%B0%8F%E6%97%B6%E5%90%83%E9%81%8D%E4%B8%80%E5%BA%A7%E5%9F%8E%E4%B8%8D%E5%8F%AF%E5%8F%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [迷笛](https://s.weibo.com/weibo?q=%E8%BF%B7%E7%AC%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
