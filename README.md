@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 13:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 13:45:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [杭州亚运会上的数字智能亮点](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%8A%E7%9A%84%E6%95%B0%E5%AD%97%E6%99%BA%E8%83%BD%E4%BA%AE%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [第一次在恋综看到女嘉宾翻白眼](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E6%81%8B%E7%BB%BC%E7%9C%8B%E5%88%B0%E5%A5%B3%E5%98%89%E5%AE%BE%E7%BF%BB%E7%99%BD%E7%9C%BC%23&t=31&band_rank=4&Refer=top)<br />
 5. [闲鱼转卖门票演出结束才可确认收货](https://s.weibo.com/weibo?q=%23%E9%97%B2%E9%B1%BC%E8%BD%AC%E5%8D%96%E9%97%A8%E7%A5%A8%E6%BC%94%E5%87%BA%E7%BB%93%E6%9D%9F%E6%89%8D%E5%8F%AF%E7%A1%AE%E8%AE%A4%E6%94%B6%E8%B4%A7%23&t=31&band_rank=5&Refer=top)<br />
-6. [唐嫣拍戏受伤](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E6%8B%8D%E6%88%8F%E5%8F%97%E4%BC%A4%23&t=31&band_rank=6&Refer=top)<br />
-7. [秦霄贤喜欢的女生类型变了](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%96%9C%E6%AC%A2%E7%9A%84%E5%A5%B3%E7%94%9F%E7%B1%BB%E5%9E%8B%E5%8F%98%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+6. [秦霄贤喜欢的女生类型变了](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%96%9C%E6%AC%A2%E7%9A%84%E5%A5%B3%E7%94%9F%E7%B1%BB%E5%9E%8B%E5%8F%98%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [唐嫣拍戏受伤](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E6%8B%8D%E6%88%8F%E5%8F%97%E4%BC%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [傅园慧当游泳教练了](https://s.weibo.com/weibo?q=%23%E5%82%85%E5%9B%AD%E6%85%A7%E5%BD%93%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [迷笛再回应乐迷财物被盗事件](https://s.weibo.com/weibo?q=%23%E8%BF%B7%E7%AC%9B%E5%86%8D%E5%9B%9E%E5%BA%94%E4%B9%90%E8%BF%B7%E8%B4%A2%E7%89%A9%E8%A2%AB%E7%9B%97%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
