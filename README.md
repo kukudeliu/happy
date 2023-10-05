@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 16:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 16:01:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [傅园慧当游泳教练了](https://www.baidu.com/s?wd=%E5%82%85%E5%9B%AD%E6%85%A7%E5%BD%93%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子因顺风车未到目的地崩溃尖叫](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%A0%E9%A1%BA%E9%A3%8E%E8%BD%A6%E6%9C%AA%E5%88%B0%E7%9B%AE%E7%9A%84%E5%9C%B0%E5%B4%A9%E6%BA%83%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子刚买完手镯金价就下跌直呼肉痛](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%9A%E4%B9%B0%E5%AE%8C%E6%89%8B%E9%95%AF%E9%87%91%E4%BB%B7%E5%B0%B1%E4%B8%8B%E8%B7%8C%E7%9B%B4%E5%91%BC%E8%82%89%E7%97%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子造谣“赤山大桥3人死亡”被拘留](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E2%80%9C%E8%B5%A4%E5%B1%B1%E5%A4%A7%E6%A1%A53%E4%BA%BA%E6%AD%BB%E4%BA%A1%E2%80%9C%E8%A2%AB%E6%8B%98%E7%95%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子造谣“3死交通事故”被拘留](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E2%80%9C3%E6%AD%BB%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E2%80%9D%E8%A2%AB%E6%8B%98%E7%95%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [傅园慧当游泳教练了](https://www.baidu.com/s?wd=%E5%82%85%E5%9B%AD%E6%85%A7%E5%BD%93%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子因顺风车未到目的地崩溃尖叫](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9B%A0%E9%A1%BA%E9%A3%8E%E8%BD%A6%E6%9C%AA%E5%88%B0%E7%9B%AE%E7%9A%84%E5%9C%B0%E5%B4%A9%E6%BA%83%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子刚买完手镯金价就下跌直呼肉痛](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%9A%E4%B9%B0%E5%AE%8C%E6%89%8B%E9%95%AF%E9%87%91%E4%BB%B7%E5%B0%B1%E4%B8%8B%E8%B7%8C%E7%9B%B4%E5%91%BC%E8%82%89%E7%97%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子造谣“赤山大桥3人死亡”被拘留](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E2%80%9C%E8%B5%A4%E5%B1%B1%E5%A4%A7%E6%A1%A53%E4%BA%BA%E6%AD%BB%E4%BA%A1%E2%80%9C%E8%A2%AB%E6%8B%98%E7%95%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子造谣“3死交通事故”被拘留](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E2%80%9C3%E6%AD%BB%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E2%80%9D%E8%A2%AB%E6%8B%98%E7%95%99&sa=fyb_news&rsv_dl=fyb_news)<br />
