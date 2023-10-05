@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 00:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 00:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国女篮冠军](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%86%A0%E5%86%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [苏炳添称无法和谢震业做比较](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E7%A7%B0%E6%97%A0%E6%B3%95%E5%92%8C%E8%B0%A2%E9%9C%87%E4%B8%9A%E5%81%9A%E6%AF%94%E8%BE%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [徐州一婚礼场地被村民连夜搬空](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%B7%9E%E4%B8%80%E5%A9%9A%E7%A4%BC%E5%9C%BA%E5%9C%B0%E8%A2%AB%E6%9D%91%E6%B0%91%E8%BF%9E%E5%A4%9C%E6%90%AC%E7%A9%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [南阳官方通报音乐节盗窃事件](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B3%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%9F%B3%E4%B9%90%E8%8A%82%E7%9B%97%E7%AA%83%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [加了新好友先看自己朋友圈](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E4%BA%86%E6%96%B0%E5%A5%BD%E5%8F%8B%E5%85%88%E7%9C%8B%E8%87%AA%E5%B7%B1%E6%9C%8B%E5%8F%8B%E5%9C%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
