@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 00:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 00:42:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [王思雨绝杀](https://www.baidu.com/s?wd=%E7%8E%8B%E6%80%9D%E9%9B%A8%E7%BB%9D%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李梦好猛](https://www.baidu.com/s?wd=%E6%9D%8E%E6%A2%A6%E5%A5%BD%E7%8C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [叙利亚军校遭袭已致66死190伤](https://www.baidu.com/s?wd=%E5%8F%99%E5%88%A9%E4%BA%9A%E5%86%9B%E6%A0%A1%E9%81%AD%E8%A2%AD%E5%B7%B2%E8%87%B466%E6%AD%BB190%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [周润发自曝患糖尿病](https://www.baidu.com/s?wd=%E5%91%A8%E6%B6%A6%E5%8F%91%E8%87%AA%E6%9B%9D%E6%82%A3%E7%B3%96%E5%B0%BF%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [伊拉克明年起禁止美元现金交易](https://www.baidu.com/s?wd=%E4%BC%8A%E6%8B%89%E5%85%8B%E6%98%8E%E5%B9%B4%E8%B5%B7%E7%A6%81%E6%AD%A2%E7%BE%8E%E5%85%83%E7%8E%B0%E9%87%91%E4%BA%A4%E6%98%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中原迷笛辟谣电缆、20万元被盗](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8E%9F%E8%BF%B7%E7%AC%9B%E8%BE%9F%E8%B0%A3%E7%94%B5%E7%BC%86%E3%80%8120%E4%B8%87%E5%85%83%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [王思雨绝杀](https://www.baidu.com/s?wd=%E7%8E%8B%E6%80%9D%E9%9B%A8%E7%BB%9D%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李梦好猛](https://www.baidu.com/s?wd=%E6%9D%8E%E6%A2%A6%E5%A5%BD%E7%8C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [叙利亚军校遭袭已致66死190伤](https://www.baidu.com/s?wd=%E5%8F%99%E5%88%A9%E4%BA%9A%E5%86%9B%E6%A0%A1%E9%81%AD%E8%A2%AD%E5%B7%B2%E8%87%B466%E6%AD%BB190%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [周润发自曝患糖尿病](https://www.baidu.com/s?wd=%E5%91%A8%E6%B6%A6%E5%8F%91%E8%87%AA%E6%9B%9D%E6%82%A3%E7%B3%96%E5%B0%BF%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [伊拉克明年起禁止美元现金交易](https://www.baidu.com/s?wd=%E4%BC%8A%E6%8B%89%E5%85%8B%E6%98%8E%E5%B9%B4%E8%B5%B7%E7%A6%81%E6%AD%A2%E7%BE%8E%E5%85%83%E7%8E%B0%E9%87%91%E4%BA%A4%E6%98%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中原迷笛辟谣电缆、20万元被盗](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8E%9F%E8%BF%B7%E7%AC%9B%E8%BE%9F%E8%B0%A3%E7%94%B5%E7%BC%86%E3%80%8120%E4%B8%87%E5%85%83%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
