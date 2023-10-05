@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 02:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 03:00:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [徐州一婚礼场地被村民连夜搬空](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%B7%9E%E4%B8%80%E5%A9%9A%E7%A4%BC%E5%9C%BA%E5%9C%B0%E8%A2%AB%E6%9D%91%E6%B0%91%E8%BF%9E%E5%A4%9C%E6%90%AC%E7%A9%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [陈某煽动误导村民拿东西被刑拘](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%9F%90%E7%85%BD%E5%8A%A8%E8%AF%AF%E5%AF%BC%E6%9D%91%E6%B0%91%E6%8B%BF%E4%B8%9C%E8%A5%BF%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [李泽锋 轻舟已过万重山](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B3%BD%E9%94%8B%20%E8%BD%BB%E8%88%9F%E5%B7%B2%E8%BF%87%E4%B8%87%E9%87%8D%E5%B1%B1&t=31&band_rank=7&Refer=top)<br />
-8. [加了新好友先看自己朋友圈](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E4%BA%86%E6%96%B0%E5%A5%BD%E5%8F%8B%E5%85%88%E7%9C%8B%E8%87%AA%E5%B7%B1%E6%9C%8B%E5%8F%8B%E5%9C%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [南阳官方通报音乐节盗窃事件](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B3%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%9F%B3%E4%B9%90%E8%8A%82%E7%9B%97%E7%AA%83%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
+8. [南阳官方通报音乐节盗窃事件](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B3%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%9F%B3%E4%B9%90%E8%8A%82%E7%9B%97%E7%AA%83%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [加了新好友先看自己朋友圈](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E4%BA%86%E6%96%B0%E5%A5%BD%E5%8F%8B%E5%85%88%E7%9C%8B%E8%87%AA%E5%B7%B1%E6%9C%8B%E5%8F%8B%E5%9C%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
