@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 10:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 10:12:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [那一抹“中国红”](https://www.baidu.com/s?wd=%E9%82%A3%E4%B8%80%E6%8A%B9%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%BA%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [假期返程有人400公里开11个小时](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E6%9C%89%E4%BA%BA400%E5%85%AC%E9%87%8C%E5%BC%8011%E4%B8%AA%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [日本启动第二轮核污水排海](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%90%AF%E5%8A%A8%E7%AC%AC%E4%BA%8C%E8%BD%AE%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [足球媒体人评中国男篮：彻底男足化](https://www.baidu.com/s?wd=%E8%B6%B3%E7%90%83%E5%AA%92%E4%BD%93%E4%BA%BA%E8%AF%84%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%EF%BC%9A%E5%BD%BB%E5%BA%95%E7%94%B7%E8%B6%B3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [沃野千里展新卷](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E5%8D%83%E9%87%8C%E5%B1%95%E6%96%B0%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [婚礼双方亲戚斗殴 新娘被批没教养](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E5%8F%8C%E6%96%B9%E4%BA%B2%E6%88%9A%E6%96%97%E6%AE%B4+%E6%96%B0%E5%A8%98%E8%A2%AB%E6%89%B9%E6%B2%A1%E6%95%99%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [那一抹“中国红”](https://www.baidu.com/s?wd=%E9%82%A3%E4%B8%80%E6%8A%B9%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%BA%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [假期返程有人400公里开11个小时](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E6%9C%89%E4%BA%BA400%E5%85%AC%E9%87%8C%E5%BC%8011%E4%B8%AA%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [日本启动第二轮核污水排海](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%90%AF%E5%8A%A8%E7%AC%AC%E4%BA%8C%E8%BD%AE%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [足球媒体人评中国男篮：彻底男足化](https://www.baidu.com/s?wd=%E8%B6%B3%E7%90%83%E5%AA%92%E4%BD%93%E4%BA%BA%E8%AF%84%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%EF%BC%9A%E5%BD%BB%E5%BA%95%E7%94%B7%E8%B6%B3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [沃野千里展新卷](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E5%8D%83%E9%87%8C%E5%B1%95%E6%96%B0%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [婚礼双方亲戚斗殴 新娘被批没教养](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E5%8F%8C%E6%96%B9%E4%BA%B2%E6%88%9A%E6%96%97%E6%AE%B4+%E6%96%B0%E5%A8%98%E8%A2%AB%E6%89%B9%E6%B2%A1%E6%95%99%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
