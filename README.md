@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 14:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 14:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [乔欣回应停车言论争议](https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%AC%A3%E5%9B%9E%E5%BA%94%E5%81%9C%E8%BD%A6%E8%A8%80%E8%AE%BA%E4%BA%89%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [秦霄贤喜欢的女生类型变了](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%96%9C%E6%AC%A2%E7%9A%84%E5%A5%B3%E7%94%9F%E7%B1%BB%E5%9E%8B%E5%8F%98%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [唐嫣拍戏受伤](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E6%8B%8D%E6%88%8F%E5%8F%97%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [李治廷感谢张艺兴还que了贝壳](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%BB%E5%BB%B7%E6%84%9F%E8%B0%A2%E5%BC%A0%E8%89%BA%E5%85%B4%E8%BF%98que%E4%BA%86%E8%B4%9D%E5%A3%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [傅园慧当游泳教练了](https://s.weibo.com/weibo?q=%23%E5%82%85%E5%9B%AD%E6%85%A7%E5%BD%93%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
