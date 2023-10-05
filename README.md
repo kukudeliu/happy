@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 07:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 07:31:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [被亚运会的氛围可爱到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%9A%84%E6%B0%9B%E5%9B%B4%E5%8F%AF%E7%88%B1%E5%88%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [李泽锋 轻舟已过万重山](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B3%BD%E9%94%8B%20%E8%BD%BB%E8%88%9F%E5%B7%B2%E8%BF%87%E4%B8%87%E9%87%8D%E5%B1%B1&t=31&band_rank=4&Refer=top)<br />
 5. [全红婵唯一的炸鱼方式](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%94%AF%E4%B8%80%E7%9A%84%E7%82%B8%E9%B1%BC%E6%96%B9%E5%BC%8F%23&t=31&band_rank=5&Refer=top)<br />
-6. [苏炳添称无法和谢震业做比较](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E7%A7%B0%E6%97%A0%E6%B3%95%E5%92%8C%E8%B0%A2%E9%9C%87%E4%B8%9A%E5%81%9A%E6%AF%94%E8%BE%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [中国队首次摘得亚运攀岩金牌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E6%AC%A1%E6%91%98%E5%BE%97%E4%BA%9A%E8%BF%90%E6%94%80%E5%B2%A9%E9%87%91%E7%89%8C%23&t=31&band_rank=7&Refer=top)<br />
+6. [中国队首次摘得亚运攀岩金牌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E6%AC%A1%E6%91%98%E5%BE%97%E4%BA%9A%E8%BF%90%E6%94%80%E5%B2%A9%E9%87%91%E7%89%8C%23&t=31&band_rank=6&Refer=top)<br />
+7. [苏炳添称无法和谢震业做比较](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E7%A7%B0%E6%97%A0%E6%B3%95%E5%92%8C%E8%B0%A2%E9%9C%87%E4%B8%9A%E5%81%9A%E6%AF%94%E8%BE%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [已归还乐迷身份证79张](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E5%BD%92%E8%BF%98%E4%B9%90%E8%BF%B7%E8%BA%AB%E4%BB%BD%E8%AF%8179%E5%BC%A0%23&t=31&band_rank=8&Refer=top)<br />
 9. [南阳官方通报音乐节盗窃事件](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B3%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%9F%B3%E4%B9%90%E8%8A%82%E7%9B%97%E7%AA%83%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
