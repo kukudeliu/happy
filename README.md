@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 21:02:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 21:03:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [爱情公狱](https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%83%85%E5%85%AC%E7%8B%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [我的国家没参赛我来支持中国队](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%B2%A1%E5%8F%82%E8%B5%9B%E6%88%91%E6%9D%A5%E6%94%AF%E6%8C%81%E4%B8%AD%E5%9B%BD%E9%98%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [于和伟帅死了](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%E5%B8%85%E6%AD%BB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [她跨越山海让约600位患者重见光明](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E8%B7%A8%E8%B6%8A%E5%B1%B1%E6%B5%B7%E8%AE%A9%E7%BA%A6600%E4%BD%8D%E6%82%A3%E8%80%85%E9%87%8D%E8%A7%81%E5%85%89%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
+9. [看坚如磐石 别带小孩](https://s.weibo.com/weibo?q=%E7%9C%8B%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%20%E5%88%AB%E5%B8%A6%E5%B0%8F%E5%AD%A9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
