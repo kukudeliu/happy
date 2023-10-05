@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 19:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 19:09:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [相聚杭州 共享亚运](https://www.baidu.com/s?wd=%E7%9B%B8%E8%81%9A%E6%9D%AD%E5%B7%9E+%E5%85%B1%E4%BA%AB%E4%BA%9A%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [新郎接亲跑错小区差点接走别家新娘](https://www.baidu.com/s?wd=%E6%96%B0%E9%83%8E%E6%8E%A5%E4%BA%B2%E8%B7%91%E9%94%99%E5%B0%8F%E5%8C%BA%E5%B7%AE%E7%82%B9%E6%8E%A5%E8%B5%B0%E5%88%AB%E5%AE%B6%E6%96%B0%E5%A8%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [挪威作家约翰·福瑟获诺贝尔文学奖](https://www.baidu.com/s?wd=%E6%8C%AA%E5%A8%81%E4%BD%9C%E5%AE%B6%E7%BA%A6%E7%BF%B0%C2%B7%E7%A6%8F%E7%91%9F%E8%8E%B7%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [近3600万辆返程车同时在路上](https://www.baidu.com/s?wd=%E8%BF%913600%E4%B8%87%E8%BE%86%E8%BF%94%E7%A8%8B%E8%BD%A6%E5%90%8C%E6%97%B6%E5%9C%A8%E8%B7%AF%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [流动的中国生机勃勃](https://www.baidu.com/s?wd=%E6%B5%81%E5%8A%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%94%9F%E6%9C%BA%E5%8B%83%E5%8B%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [本月工资或将多两笔钱](https://www.baidu.com/s?wd=%E6%9C%AC%E6%9C%88%E5%B7%A5%E8%B5%84%E6%88%96%E5%B0%86%E5%A4%9A%E4%B8%A4%E7%AC%94%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [相聚杭州 共享亚运](https://www.baidu.com/s?wd=%E7%9B%B8%E8%81%9A%E6%9D%AD%E5%B7%9E+%E5%85%B1%E4%BA%AB%E4%BA%9A%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [新郎接亲跑错小区差点接走别家新娘](https://www.baidu.com/s?wd=%E6%96%B0%E9%83%8E%E6%8E%A5%E4%BA%B2%E8%B7%91%E9%94%99%E5%B0%8F%E5%8C%BA%E5%B7%AE%E7%82%B9%E6%8E%A5%E8%B5%B0%E5%88%AB%E5%AE%B6%E6%96%B0%E5%A8%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [挪威作家约翰·福瑟获诺贝尔文学奖](https://www.baidu.com/s?wd=%E6%8C%AA%E5%A8%81%E4%BD%9C%E5%AE%B6%E7%BA%A6%E7%BF%B0%C2%B7%E7%A6%8F%E7%91%9F%E8%8E%B7%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [近3600万辆返程车同时在路上](https://www.baidu.com/s?wd=%E8%BF%913600%E4%B8%87%E8%BE%86%E8%BF%94%E7%A8%8B%E8%BD%A6%E5%90%8C%E6%97%B6%E5%9C%A8%E8%B7%AF%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [流动的中国生机勃勃](https://www.baidu.com/s?wd=%E6%B5%81%E5%8A%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%94%9F%E6%9C%BA%E5%8B%83%E5%8B%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [本月工资或将多两笔钱](https://www.baidu.com/s?wd=%E6%9C%AC%E6%9C%88%E5%B7%A5%E8%B5%84%E6%88%96%E5%B0%86%E5%A4%9A%E4%B8%A4%E7%AC%94%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
