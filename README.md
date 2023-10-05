@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 18:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 18:10:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [本月工资或将多两笔钱](https://www.baidu.com/s?wd=%E6%9C%AC%E6%9C%88%E5%B7%A5%E8%B5%84%E6%88%96%E5%B0%86%E5%A4%9A%E4%B8%A4%E7%AC%94%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体评作家残雪的“热”与“冷”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E4%BD%9C%E5%AE%B6%E6%AE%8B%E9%9B%AA%E7%9A%84%E2%80%9C%E7%83%AD%E2%80%9D%E4%B8%8E%E2%80%9C%E5%86%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [海关截获1.3万余只德州芭切叶蚁](https://www.baidu.com/s?wd=%E6%B5%B7%E5%85%B3%E6%88%AA%E8%8E%B71.3%E4%B8%87%E4%BD%99%E5%8F%AA%E5%BE%B7%E5%B7%9E%E8%8A%AD%E5%88%87%E5%8F%B6%E8%9A%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [傅园慧当游泳教练了](https://www.baidu.com/s?wd=%E5%82%85%E5%9B%AD%E6%85%A7%E5%BD%93%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中亚两国就边界问题“握手言和”](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BA%9A%E4%B8%A4%E5%9B%BD%E5%B0%B1%E8%BE%B9%E7%95%8C%E9%97%AE%E9%A2%98%E2%80%9C%E6%8F%A1%E6%89%8B%E8%A8%80%E5%92%8C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网友发布迷笛假消息被采取措施](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E5%B8%83%E8%BF%B7%E7%AC%9B%E5%81%87%E6%B6%88%E6%81%AF%E8%A2%AB%E9%87%87%E5%8F%96%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [本月工资或将多两笔钱](https://www.baidu.com/s?wd=%E6%9C%AC%E6%9C%88%E5%B7%A5%E8%B5%84%E6%88%96%E5%B0%86%E5%A4%9A%E4%B8%A4%E7%AC%94%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体评作家残雪的“热”与“冷”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E4%BD%9C%E5%AE%B6%E6%AE%8B%E9%9B%AA%E7%9A%84%E2%80%9C%E7%83%AD%E2%80%9D%E4%B8%8E%E2%80%9C%E5%86%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [海关截获1.3万余只德州芭切叶蚁](https://www.baidu.com/s?wd=%E6%B5%B7%E5%85%B3%E6%88%AA%E8%8E%B71.3%E4%B8%87%E4%BD%99%E5%8F%AA%E5%BE%B7%E5%B7%9E%E8%8A%AD%E5%88%87%E5%8F%B6%E8%9A%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [傅园慧当游泳教练了](https://www.baidu.com/s?wd=%E5%82%85%E5%9B%AD%E6%85%A7%E5%BD%93%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中亚两国就边界问题“握手言和”](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BA%9A%E4%B8%A4%E5%9B%BD%E5%B0%B1%E8%BE%B9%E7%95%8C%E9%97%AE%E9%A2%98%E2%80%9C%E6%8F%A1%E6%89%8B%E8%A8%80%E5%92%8C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网友发布迷笛假消息被采取措施](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E5%B8%83%E8%BF%B7%E7%AC%9B%E5%81%87%E6%B6%88%E6%81%AF%E8%A2%AB%E9%87%87%E5%8F%96%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
