@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 20:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 20:22:02</h4></div>
 
 > 微博  
 
@@ -21,9 +21,9 @@
 2. [新闻联播首位90后主播来啦](https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E9%A6%96%E4%BD%8D90%E5%90%8E%E4%B8%BB%E6%92%AD%E6%9D%A5%E5%95%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [近3600万辆返程车同时在路上](https://www.baidu.com/s?wd=%E8%BF%913600%E4%B8%87%E8%BE%86%E8%BF%94%E7%A8%8B%E8%BD%A6%E5%90%8C%E6%97%B6%E5%9C%A8%E8%B7%AF%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [流动的中国生机勃勃](https://www.baidu.com/s?wd=%E6%B5%81%E5%8A%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%94%9F%E6%9C%BA%E5%8B%83%E5%8B%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [日本一火山喷发 海水变成棕褐色](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91+%E6%B5%B7%E6%B0%B4%E5%8F%98%E6%88%90%E6%A3%95%E8%A4%90%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [远房亲戚结婚妈妈让女儿随礼2000](https://www.baidu.com/s?wd=%E8%BF%9C%E6%88%BF%E4%BA%B2%E6%88%9A%E7%BB%93%E5%A9%9A%E5%A6%88%E5%A6%88%E8%AE%A9%E5%A5%B3%E5%84%BF%E9%9A%8F%E7%A4%BC2000&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [著名艺术家陈淑光逝世](https://www.baidu.com/s?wd=%E8%91%97%E5%90%8D%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%99%88%E6%B7%91%E5%85%89%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [著名艺术家陈淑光逝世](https://www.baidu.com/s?wd=%E8%91%97%E5%90%8D%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%99%88%E6%B7%91%E5%85%89%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [日本一火山喷发 海水变成棕褐色](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91+%E6%B5%B7%E6%B0%B4%E5%8F%98%E6%88%90%E6%A3%95%E8%A4%90%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [远房亲戚结婚妈妈让女儿随礼2000](https://www.baidu.com/s?wd=%E8%BF%9C%E6%88%BF%E4%BA%B2%E6%88%9A%E7%BB%93%E5%A9%9A%E5%A6%88%E5%A6%88%E8%AE%A9%E5%A5%B3%E5%84%BF%E9%9A%8F%E7%A4%BC2000&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [本月工资或将多两笔钱](https://www.baidu.com/s?wd=%E6%9C%AC%E6%9C%88%E5%B7%A5%E8%B5%84%E6%88%96%E5%B0%86%E5%A4%9A%E4%B8%A4%E7%AC%94%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网友发布迷笛假消息被采取措施](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E5%B8%83%E8%BF%B7%E7%AC%9B%E5%81%87%E6%B6%88%E6%81%AF%E8%A2%AB%E9%87%87%E5%8F%96%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -33,8 +33,8 @@
 2. [新闻联播首位90后主播来啦](https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E9%A6%96%E4%BD%8D90%E5%90%8E%E4%B8%BB%E6%92%AD%E6%9D%A5%E5%95%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [近3600万辆返程车同时在路上](https://www.baidu.com/s?wd=%E8%BF%913600%E4%B8%87%E8%BE%86%E8%BF%94%E7%A8%8B%E8%BD%A6%E5%90%8C%E6%97%B6%E5%9C%A8%E8%B7%AF%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [流动的中国生机勃勃](https://www.baidu.com/s?wd=%E6%B5%81%E5%8A%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%94%9F%E6%9C%BA%E5%8B%83%E5%8B%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [日本一火山喷发 海水变成棕褐色](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91+%E6%B5%B7%E6%B0%B4%E5%8F%98%E6%88%90%E6%A3%95%E8%A4%90%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [远房亲戚结婚妈妈让女儿随礼2000](https://www.baidu.com/s?wd=%E8%BF%9C%E6%88%BF%E4%BA%B2%E6%88%9A%E7%BB%93%E5%A9%9A%E5%A6%88%E5%A6%88%E8%AE%A9%E5%A5%B3%E5%84%BF%E9%9A%8F%E7%A4%BC2000&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [著名艺术家陈淑光逝世](https://www.baidu.com/s?wd=%E8%91%97%E5%90%8D%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%99%88%E6%B7%91%E5%85%89%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [著名艺术家陈淑光逝世](https://www.baidu.com/s?wd=%E8%91%97%E5%90%8D%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%99%88%E6%B7%91%E5%85%89%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [日本一火山喷发 海水变成棕褐色](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91+%E6%B5%B7%E6%B0%B4%E5%8F%98%E6%88%90%E6%A3%95%E8%A4%90%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [远房亲戚结婚妈妈让女儿随礼2000](https://www.baidu.com/s?wd=%E8%BF%9C%E6%88%BF%E4%BA%B2%E6%88%9A%E7%BB%93%E5%A9%9A%E5%A6%88%E5%A6%88%E8%AE%A9%E5%A5%B3%E5%84%BF%E9%9A%8F%E7%A4%BC2000&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [本月工资或将多两笔钱](https://www.baidu.com/s?wd=%E6%9C%AC%E6%9C%88%E5%B7%A5%E8%B5%84%E6%88%96%E5%B0%86%E5%A4%9A%E4%B8%A4%E7%AC%94%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网友发布迷笛假消息被采取措施](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E5%B8%83%E8%BF%B7%E7%AC%9B%E5%81%87%E6%B6%88%E6%81%AF%E8%A2%AB%E9%87%87%E5%8F%96%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
