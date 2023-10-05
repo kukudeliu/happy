@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 09:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 09:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张艺兴差点说出EXO](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B7%AE%E7%82%B9%E8%AF%B4%E5%87%BAEXO&t=31&band_rank=6&Refer=top)<br />
 7. [赵继伟道歉](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子通过WiFi名称跨60公里寻回手机](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%80%9A%E8%BF%87WiFi%E5%90%8D%E7%A7%B0%E8%B7%A860%E5%85%AC%E9%87%8C%E5%AF%BB%E5%9B%9E%E6%89%8B%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [全红婵展示自己的小乌龟](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%B1%95%E7%A4%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B0%8F%E4%B9%8C%E9%BE%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [迷笛盗窃事件或受短视频误导](https://s.weibo.com/weibo?q=%23%E8%BF%B7%E7%AC%9B%E7%9B%97%E7%AA%83%E4%BA%8B%E4%BB%B6%E6%88%96%E5%8F%97%E7%9F%AD%E8%A7%86%E9%A2%91%E8%AF%AF%E5%AF%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
