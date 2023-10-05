@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 10:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 10:36:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [杭州亚运会上的数字智能亮点](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%8A%E7%9A%84%E6%95%B0%E5%AD%97%E6%99%BA%E8%83%BD%E4%BA%AE%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [秦岚这状态是喝了点吧](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%BF%99%E7%8A%B6%E6%80%81%E6%98%AF%E5%96%9D%E4%BA%86%E7%82%B9%E5%90%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [乔欣说车停不好就把路堵上](https://s.weibo.com/weibo?q=%E4%B9%94%E6%AC%A3%E8%AF%B4%E8%BD%A6%E5%81%9C%E4%B8%8D%E5%A5%BD%E5%B0%B1%E6%8A%8A%E8%B7%AF%E5%A0%B5%E4%B8%8A&t=31&band_rank=5&Refer=top)<br />
-6. [姚瑶进ICU给病人下药](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E7%91%B6%E8%BF%9BICU%E7%BB%99%E7%97%85%E4%BA%BA%E4%B8%8B%E8%8D%AF%23&t=31&band_rank=6&Refer=top)<br />
-7. [张艺兴差点说出EXO](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B7%AE%E7%82%B9%E8%AF%B4%E5%87%BAEXO&t=31&band_rank=7&Refer=top)<br />
+6. [张艺兴差点说出EXO](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B7%AE%E7%82%B9%E8%AF%B4%E5%87%BAEXO&t=31&band_rank=6&Refer=top)<br />
+7. [姚瑶进ICU给病人下药](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E7%91%B6%E8%BF%9BICU%E7%BB%99%E7%97%85%E4%BA%BA%E4%B8%8B%E8%8D%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [返程聪明人](https://s.weibo.com/weibo?q=%E8%BF%94%E7%A8%8B%E8%81%AA%E6%98%8E%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
-9. [迷笛盗窃事件或受短视频误导](https://s.weibo.com/weibo?q=%23%E8%BF%B7%E7%AC%9B%E7%9B%97%E7%AA%83%E4%BA%8B%E4%BB%B6%E6%88%96%E5%8F%97%E7%9F%AD%E8%A7%86%E9%A2%91%E8%AF%AF%E5%AF%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [傅首尔日记主打一个真情实感](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E6%97%A5%E8%AE%B0%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E7%9C%9F%E6%83%85%E5%AE%9E%E6%84%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
