@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 01:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 01:44:01</h4></div>
 
 > 微博  
 
-1. [李泽锋 轻舟已过万重山](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B3%BD%E9%94%8B%20%E8%BD%BB%E8%88%9F%E5%B7%B2%E8%BF%87%E4%B8%87%E9%87%8D%E5%B1%B1&t=31&band_rank=1&Refer=top)<br />
-2. [全红婵唯一的炸鱼方式](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%94%AF%E4%B8%80%E7%9A%84%E7%82%B8%E9%B1%BC%E6%96%B9%E5%BC%8F%23&t=31&band_rank=2&Refer=top)<br />
+1. [全红婵唯一的炸鱼方式](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%94%AF%E4%B8%80%E7%9A%84%E7%82%B8%E9%B1%BC%E6%96%B9%E5%BC%8F%23&t=31&band_rank=1&Refer=top)<br />
+2. [李泽锋 轻舟已过万重山](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B3%BD%E9%94%8B%20%E8%BD%BB%E8%88%9F%E5%B7%B2%E8%BF%87%E4%B8%87%E9%87%8D%E5%B1%B1&t=31&band_rank=2&Refer=top)<br />
 3. [被亚运会的氛围可爱到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%9A%84%E6%B0%9B%E5%9B%B4%E5%8F%AF%E7%88%B1%E5%88%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [于文文当预言家睡过头了](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E5%BD%93%E9%A2%84%E8%A8%80%E5%AE%B6%E7%9D%A1%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [徐州一婚礼场地被村民连夜搬空](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%B7%9E%E4%B8%80%E5%A9%9A%E7%A4%BC%E5%9C%BA%E5%9C%B0%E8%A2%AB%E6%9D%91%E6%B0%91%E8%BF%9E%E5%A4%9C%E6%90%AC%E7%A9%BA%23&t=31&band_rank=5&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [王思雨绝杀](https://www.baidu.com/s?wd=%E7%8E%8B%E6%80%9D%E9%9B%A8%E7%BB%9D%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李梦好猛](https://www.baidu.com/s?wd=%E6%9D%8E%E6%A2%A6%E5%A5%BD%E7%8C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子住酒店连续3间房发现摄像头](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BD%8F%E9%85%92%E5%BA%97%E8%BF%9E%E7%BB%AD3%E9%97%B4%E6%88%BF%E5%8F%91%E7%8E%B0%E6%91%84%E5%83%8F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [周润发自曝患糖尿病](https://www.baidu.com/s?wd=%E5%91%A8%E6%B6%A6%E5%8F%91%E8%87%AA%E6%9B%9D%E6%82%A3%E7%B3%96%E5%B0%BF%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小车卡进货车尾部被拖至服务区](https://www.baidu.com/s?wd=%E5%B0%8F%E8%BD%A6%E5%8D%A1%E8%BF%9B%E8%B4%A7%E8%BD%A6%E5%B0%BE%E9%83%A8%E8%A2%AB%E6%8B%96%E8%87%B3%E6%9C%8D%E5%8A%A1%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中原迷笛辟谣电缆、20万元被盗](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8E%9F%E8%BF%B7%E7%AC%9B%E8%BE%9F%E8%B0%A3%E7%94%B5%E7%BC%86%E3%80%8120%E4%B8%87%E5%85%83%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [王思雨绝杀](https://www.baidu.com/s?wd=%E7%8E%8B%E6%80%9D%E9%9B%A8%E7%BB%9D%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李梦好猛](https://www.baidu.com/s?wd=%E6%9D%8E%E6%A2%A6%E5%A5%BD%E7%8C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子住酒店连续3间房发现摄像头](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BD%8F%E9%85%92%E5%BA%97%E8%BF%9E%E7%BB%AD3%E9%97%B4%E6%88%BF%E5%8F%91%E7%8E%B0%E6%91%84%E5%83%8F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [周润发自曝患糖尿病](https://www.baidu.com/s?wd=%E5%91%A8%E6%B6%A6%E5%8F%91%E8%87%AA%E6%9B%9D%E6%82%A3%E7%B3%96%E5%B0%BF%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小车卡进货车尾部被拖至服务区](https://www.baidu.com/s?wd=%E5%B0%8F%E8%BD%A6%E5%8D%A1%E8%BF%9B%E8%B4%A7%E8%BD%A6%E5%B0%BE%E9%83%A8%E8%A2%AB%E6%8B%96%E8%87%B3%E6%9C%8D%E5%8A%A1%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中原迷笛辟谣电缆、20万元被盗](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8E%9F%E8%BF%B7%E7%AC%9B%E8%BE%9F%E8%B0%A3%E7%94%B5%E7%BC%86%E3%80%8120%E4%B8%87%E5%85%83%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
