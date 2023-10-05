@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 18:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 18:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [林高远王曼昱1比3张本智和早田希娜](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E7%8E%8B%E6%9B%BC%E6%98%B11%E6%AF%943%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [30年前稼穑戳动了谁的童年](https://s.weibo.com/weibo?q=%2330%E5%B9%B4%E5%89%8D%E7%A8%BC%E7%A9%91%E6%88%B3%E5%8A%A8%E4%BA%86%E8%B0%81%E7%9A%84%E7%AB%A5%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [张艺兴 UZI](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20UZI&t=31&band_rank=8&Refer=top)<br />
-9. [女孩放弃买钻戒花50万买金条](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E4%B9%B0%E9%92%BB%E6%88%92%E8%8A%B150%E4%B8%87%E4%B9%B0%E9%87%91%E6%9D%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [退休教师家门口升国旗13年](https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91%E6%95%99%E5%B8%88%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%8D%87%E5%9B%BD%E6%97%9713%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
