@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 10:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 10:52:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [秦岚这状态是喝了点吧](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%BF%99%E7%8A%B6%E6%80%81%E6%98%AF%E5%96%9D%E4%BA%86%E7%82%B9%E5%90%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [乔欣说车停不好就把路堵上](https://s.weibo.com/weibo?q=%E4%B9%94%E6%AC%A3%E8%AF%B4%E8%BD%A6%E5%81%9C%E4%B8%8D%E5%A5%BD%E5%B0%B1%E6%8A%8A%E8%B7%AF%E5%A0%B5%E4%B8%8A&t=31&band_rank=6&Refer=top)<br />
 7. [张艺兴差点说出EXO](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B7%AE%E7%82%B9%E8%AF%B4%E5%87%BAEXO&t=31&band_rank=7&Refer=top)<br />
-8. [返程聪明人](https://s.weibo.com/weibo?q=%E8%BF%94%E7%A8%8B%E8%81%AA%E6%98%8E%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
-9. [姚瑶进ICU给病人下药](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E7%91%B6%E8%BF%9BICU%E7%BB%99%E7%97%85%E4%BA%BA%E4%B8%8B%E8%8D%AF%23&t=31&band_rank=9&Refer=top)<br />
+8. [姚瑶进ICU给病人下药](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E7%91%B6%E8%BF%9BICU%E7%BB%99%E7%97%85%E4%BA%BA%E4%B8%8B%E8%8D%AF%23&t=31&band_rank=8&Refer=top)<br />
+9. [返程聪明人](https://s.weibo.com/weibo?q=%E8%BF%94%E7%A8%8B%E8%81%AA%E6%98%8E%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
