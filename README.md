@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 18:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 18:43:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [快递员配货时盗窃一个面包被拘](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E5%91%98%E9%85%8D%E8%B4%A7%E6%97%B6%E7%9B%97%E7%AA%83%E4%B8%80%E4%B8%AA%E9%9D%A2%E5%8C%85%E8%A2%AB%E6%8B%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [林高远王曼昱1比3张本智和早田希娜](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E7%8E%8B%E6%9B%BC%E6%98%B11%E6%AF%943%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [如果感到幸福你就跺ta脚](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E6%84%9F%E5%88%B0%E5%B9%B8%E7%A6%8F%E4%BD%A0%E5%B0%B1%E8%B7%BAta%E8%84%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [日本一火山喷发](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [张艺兴 UZI](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20UZI&t=31&band_rank=9&Refer=top)<br />
+8. [张艺兴 UZI](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20UZI&t=31&band_rank=8&Refer=top)<br />
+9. [日本一火山喷发](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
