@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 09:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 09:40:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [婚礼双方亲戚斗殴 新娘被批没教养](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E5%8F%8C%E6%96%B9%E4%BA%B2%E6%88%9A%E6%96%97%E6%AE%B4+%E6%96%B0%E5%A8%98%E8%A2%AB%E6%89%B9%E6%B2%A1%E6%95%99%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男孩从卧铺摔下 拍摄者：摔对折了](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E4%BB%8E%E5%8D%A7%E9%93%BA%E6%91%94%E4%B8%8B+%E6%8B%8D%E6%91%84%E8%80%85%EF%BC%9A%E6%91%94%E5%AF%B9%E6%8A%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小车高速出口突然变道致多车相撞](https://www.baidu.com/s?wd=%E5%B0%8F%E8%BD%A6%E9%AB%98%E9%80%9F%E5%87%BA%E5%8F%A3%E7%AA%81%E7%84%B6%E5%8F%98%E9%81%93%E8%87%B4%E5%A4%9A%E8%BD%A6%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [三张图看清陈艺文“水花消失术”](https://www.baidu.com/s?wd=%E4%B8%89%E5%BC%A0%E5%9B%BE%E7%9C%8B%E6%B8%85%E9%99%88%E8%89%BA%E6%96%87%E2%80%9C%E6%B0%B4%E8%8A%B1%E6%B6%88%E5%A4%B1%E6%9C%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [贝克汉姆重提出轨事件](https://www.baidu.com/s?wd=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E9%87%8D%E6%8F%90%E5%87%BA%E8%BD%A8%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北大国发院辟谣教授推荐股票](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%9B%BD%E5%8F%91%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%95%99%E6%8E%88%E6%8E%A8%E8%8D%90%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [婚礼双方亲戚斗殴 新娘被批没教养](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E5%8F%8C%E6%96%B9%E4%BA%B2%E6%88%9A%E6%96%97%E6%AE%B4+%E6%96%B0%E5%A8%98%E8%A2%AB%E6%89%B9%E6%B2%A1%E6%95%99%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男孩从卧铺摔下 拍摄者：摔对折了](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E4%BB%8E%E5%8D%A7%E9%93%BA%E6%91%94%E4%B8%8B+%E6%8B%8D%E6%91%84%E8%80%85%EF%BC%9A%E6%91%94%E5%AF%B9%E6%8A%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小车高速出口突然变道致多车相撞](https://www.baidu.com/s?wd=%E5%B0%8F%E8%BD%A6%E9%AB%98%E9%80%9F%E5%87%BA%E5%8F%A3%E7%AA%81%E7%84%B6%E5%8F%98%E9%81%93%E8%87%B4%E5%A4%9A%E8%BD%A6%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [三张图看清陈艺文“水花消失术”](https://www.baidu.com/s?wd=%E4%B8%89%E5%BC%A0%E5%9B%BE%E7%9C%8B%E6%B8%85%E9%99%88%E8%89%BA%E6%96%87%E2%80%9C%E6%B0%B4%E8%8A%B1%E6%B6%88%E5%A4%B1%E6%9C%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [贝克汉姆重提出轨事件](https://www.baidu.com/s?wd=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E9%87%8D%E6%8F%90%E5%87%BA%E8%BD%A8%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北大国发院辟谣教授推荐股票](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%9B%BD%E5%8F%91%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%95%99%E6%8E%88%E6%8E%A8%E8%8D%90%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
