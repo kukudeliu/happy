@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 18:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 18:45:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [如果感到幸福你就跺ta脚](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E6%84%9F%E5%88%B0%E5%B9%B8%E7%A6%8F%E4%BD%A0%E5%B0%B1%E8%B7%BAta%E8%84%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [张艺兴 UZI](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20UZI&t=31&band_rank=6&Refer=top)<br />
 7. [女孩放弃买钻戒花50万买金条](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E4%B9%B0%E9%92%BB%E6%88%92%E8%8A%B150%E4%B8%87%E4%B9%B0%E9%87%91%E6%9D%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [这是电动车不可承受之重](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E7%94%B5%E5%8A%A8%E8%BD%A6%E4%B8%8D%E5%8F%AF%E6%89%BF%E5%8F%97%E4%B9%8B%E9%87%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [快递员配货时盗窃一个面包被拘](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E5%91%98%E9%85%8D%E8%B4%A7%E6%97%B6%E7%9B%97%E7%AA%83%E4%B8%80%E4%B8%AA%E9%9D%A2%E5%8C%85%E8%A2%AB%E6%8B%98%23&t=31&band_rank=9&Refer=top)<br />
+8. [腾讯视频 胆小模式](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%20%E8%83%86%E5%B0%8F%E6%A8%A1%E5%BC%8F&t=31&band_rank=8&Refer=top)<br />
+9. [泰国枪击案凶手成绩优异沉迷游戏](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%9E%AA%E5%87%BB%E6%A1%88%E5%87%B6%E6%89%8B%E6%88%90%E7%BB%A9%E4%BC%98%E5%BC%82%E6%B2%89%E8%BF%B7%E6%B8%B8%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
