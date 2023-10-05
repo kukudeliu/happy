@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 19:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 19:14:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [本月工资或将多两笔钱](https://www.baidu.com/s?wd=%E6%9C%AC%E6%9C%88%E5%B7%A5%E8%B5%84%E6%88%96%E5%B0%86%E5%A4%9A%E4%B8%A4%E7%AC%94%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子曝丈夫与幼儿园园长开房](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%9B%9D%E4%B8%88%E5%A4%AB%E4%B8%8E%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%9B%AD%E9%95%BF%E5%BC%80%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子住酒店连续3间房发现摄像头](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BD%8F%E9%85%92%E5%BA%97%E8%BF%9E%E7%BB%AD3%E9%97%B4%E6%88%BF%E5%8F%91%E7%8E%B0%E6%91%84%E5%83%8F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [远房亲戚结婚妈妈让女儿随礼2000](https://www.baidu.com/s?wd=%E8%BF%9C%E6%88%BF%E4%BA%B2%E6%88%9A%E7%BB%93%E5%A9%9A%E5%A6%88%E5%A6%88%E8%AE%A9%E5%A5%B3%E5%84%BF%E9%9A%8F%E7%A4%BC2000&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [足球媒体人评中国男篮：彻底男足化](https://www.baidu.com/s?wd=%E8%B6%B3%E7%90%83%E5%AA%92%E4%BD%93%E4%BA%BA%E8%AF%84%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%EF%BC%9A%E5%BD%BB%E5%BA%95%E7%94%B7%E8%B6%B3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网友发布迷笛假消息被采取措施](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E5%B8%83%E8%BF%B7%E7%AC%9B%E5%81%87%E6%B6%88%E6%81%AF%E8%A2%AB%E9%87%87%E5%8F%96%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [本月工资或将多两笔钱](https://www.baidu.com/s?wd=%E6%9C%AC%E6%9C%88%E5%B7%A5%E8%B5%84%E6%88%96%E5%B0%86%E5%A4%9A%E4%B8%A4%E7%AC%94%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子曝丈夫与幼儿园园长开房](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%9B%9D%E4%B8%88%E5%A4%AB%E4%B8%8E%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%9B%AD%E9%95%BF%E5%BC%80%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子住酒店连续3间房发现摄像头](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BD%8F%E9%85%92%E5%BA%97%E8%BF%9E%E7%BB%AD3%E9%97%B4%E6%88%BF%E5%8F%91%E7%8E%B0%E6%91%84%E5%83%8F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [远房亲戚结婚妈妈让女儿随礼2000](https://www.baidu.com/s?wd=%E8%BF%9C%E6%88%BF%E4%BA%B2%E6%88%9A%E7%BB%93%E5%A9%9A%E5%A6%88%E5%A6%88%E8%AE%A9%E5%A5%B3%E5%84%BF%E9%9A%8F%E7%A4%BC2000&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [足球媒体人评中国男篮：彻底男足化](https://www.baidu.com/s?wd=%E8%B6%B3%E7%90%83%E5%AA%92%E4%BD%93%E4%BA%BA%E8%AF%84%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%EF%BC%9A%E5%BD%BB%E5%BA%95%E7%94%B7%E8%B6%B3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网友发布迷笛假消息被采取措施](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E5%B8%83%E8%BF%B7%E7%AC%9B%E5%81%87%E6%B6%88%E6%81%AF%E8%A2%AB%E9%87%87%E5%8F%96%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
