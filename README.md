@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 03:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 03:48:01</h4></div>
 
 > 微博  
 
-1. [于文文当预言家睡过头了](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E5%BD%93%E9%A2%84%E8%A8%80%E5%AE%B6%E7%9D%A1%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [全红婵唯一的炸鱼方式](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%94%AF%E4%B8%80%E7%9A%84%E7%82%B8%E9%B1%BC%E6%96%B9%E5%BC%8F%23&t=31&band_rank=2&Refer=top)<br />
+1. [全红婵唯一的炸鱼方式](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%94%AF%E4%B8%80%E7%9A%84%E7%82%B8%E9%B1%BC%E6%96%B9%E5%BC%8F%23&t=31&band_rank=1&Refer=top)<br />
+2. [于文文当预言家睡过头了](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E5%BD%93%E9%A2%84%E8%A8%80%E5%AE%B6%E7%9D%A1%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [被亚运会的氛围可爱到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%9A%84%E6%B0%9B%E5%9B%B4%E5%8F%AF%E7%88%B1%E5%88%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [徐州一婚礼场地被村民连夜搬空](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%B7%9E%E4%B8%80%E5%A9%9A%E7%A4%BC%E5%9C%BA%E5%9C%B0%E8%A2%AB%E6%9D%91%E6%B0%91%E8%BF%9E%E5%A4%9C%E6%90%AC%E7%A9%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [陈某煽动误导村民拿东西被刑拘](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%9F%90%E7%85%BD%E5%8A%A8%E8%AF%AF%E5%AF%BC%E6%9D%91%E6%B0%91%E6%8B%BF%E4%B8%9C%E8%A5%BF%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=5&Refer=top)<br />
