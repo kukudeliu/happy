@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 07:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 07:55:01</h4></div>
 
 > 微博  
 
-1. [陈某煽动误导村民拿东西被刑拘](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%9F%90%E7%85%BD%E5%8A%A8%E8%AF%AF%E5%AF%BC%E6%9D%91%E6%B0%91%E6%8B%BF%E4%B8%9C%E8%A5%BF%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=1&Refer=top)<br />
-2. [黄景瑜不拍古装的原因](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E4%B8%8D%E6%8B%8D%E5%8F%A4%E8%A3%85%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=2&Refer=top)<br />
+1. [黄景瑜不拍古装的原因](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E4%B8%8D%E6%8B%8D%E5%8F%A4%E8%A3%85%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=1&Refer=top)<br />
+2. [陈某煽动误导村民拿东西被刑拘](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%9F%90%E7%85%BD%E5%8A%A8%E8%AF%AF%E5%AF%BC%E6%9D%91%E6%B0%91%E6%8B%BF%E4%B8%9C%E8%A5%BF%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=2&Refer=top)<br />
 3. [被亚运会的氛围可爱到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%9A%84%E6%B0%9B%E5%9B%B4%E5%8F%AF%E7%88%B1%E5%88%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [李泽锋 轻舟已过万重山](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B3%BD%E9%94%8B%20%E8%BD%BB%E8%88%9F%E5%B7%B2%E8%BF%87%E4%B8%87%E9%87%8D%E5%B1%B1&t=31&band_rank=4&Refer=top)<br />
 5. [徐州一婚礼场地被村民连夜搬空](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%B7%9E%E4%B8%80%E5%A9%9A%E7%A4%BC%E5%9C%BA%E5%9C%B0%E8%A2%AB%E6%9D%91%E6%B0%91%E8%BF%9E%E5%A4%9C%E6%90%AC%E7%A9%BA%23&t=31&band_rank=5&Refer=top)<br />
