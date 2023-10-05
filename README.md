@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 20:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 20:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈雨菲进亚运4强](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B2%E8%BF%9B%E4%BA%9A%E8%BF%904%E5%BC%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [我的国家没参赛我来支持中国队](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%B2%A1%E5%8F%82%E8%B5%9B%E6%88%91%E6%9D%A5%E6%94%AF%E6%8C%81%E4%B8%AD%E5%9B%BD%E9%98%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [林高远王曼昱1比3张本智和早田希娜](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E7%8E%8B%E6%9B%BC%E6%98%B11%E6%AF%943%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [张艺兴 UZI](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20UZI&t=31&band_rank=9&Refer=top)<br />
+9. [日本一企业用人造子宫培育出鲨鱼](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E4%BC%81%E4%B8%9A%E7%94%A8%E4%BA%BA%E9%80%A0%E5%AD%90%E5%AE%AB%E5%9F%B9%E8%82%B2%E5%87%BA%E9%B2%A8%E9%B1%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [近3600万辆返程车同时在路上](https://www.baidu.com/s?wd=%E8%BF%913600%E4%B8%87%E8%BE%86%E8%BF%94%E7%A8%8B%E8%BD%A6%E5%90%8C%E6%97%B6%E5%9C%A8%E8%B7%AF%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [流动的中国生机勃勃](https://www.baidu.com/s?wd=%E6%B5%81%E5%8A%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%94%9F%E6%9C%BA%E5%8B%83%E5%8B%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中日女篮巅峰对决](https://www.baidu.com/s?wd=%E4%B8%AD%E6%97%A5%E5%A5%B3%E7%AF%AE%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [著名艺术家陈淑光逝世](https://www.baidu.com/s?wd=%E8%91%97%E5%90%8D%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%99%88%E6%B7%91%E5%85%89%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [远房亲戚结婚妈妈让女儿随礼2000](https://www.baidu.com/s?wd=%E8%BF%9C%E6%88%BF%E4%BA%B2%E6%88%9A%E7%BB%93%E5%A9%9A%E5%A6%88%E5%A6%88%E8%AE%A9%E5%A5%B3%E5%84%BF%E9%9A%8F%E7%A4%BC2000&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本一火山喷发 海水变成棕褐色](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91+%E6%B5%B7%E6%B0%B4%E5%8F%98%E6%88%90%E6%A3%95%E8%A4%90%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [丢失背包乐迷为南阳发声](https://www.baidu.com/s?wd=%E4%B8%A2%E5%A4%B1%E8%83%8C%E5%8C%85%E4%B9%90%E8%BF%B7%E4%B8%BA%E5%8D%97%E9%98%B3%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [著名艺术家陈淑光逝世](https://www.baidu.com/s?wd=%E8%91%97%E5%90%8D%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%99%88%E6%B7%91%E5%85%89%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [远房亲戚结婚妈妈让女儿随礼2000](https://www.baidu.com/s?wd=%E8%BF%9C%E6%88%BF%E4%BA%B2%E6%88%9A%E7%BB%93%E5%A9%9A%E5%A6%88%E5%A6%88%E8%AE%A9%E5%A5%B3%E5%84%BF%E9%9A%8F%E7%A4%BC2000&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网友发布迷笛假消息被采取措施](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E5%B8%83%E8%BF%B7%E7%AC%9B%E5%81%87%E6%B6%88%E6%81%AF%E8%A2%AB%E9%87%87%E5%8F%96%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [近3600万辆返程车同时在路上](https://www.baidu.com/s?wd=%E8%BF%913600%E4%B8%87%E8%BE%86%E8%BF%94%E7%A8%8B%E8%BD%A6%E5%90%8C%E6%97%B6%E5%9C%A8%E8%B7%AF%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [流动的中国生机勃勃](https://www.baidu.com/s?wd=%E6%B5%81%E5%8A%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%94%9F%E6%9C%BA%E5%8B%83%E5%8B%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中日女篮巅峰对决](https://www.baidu.com/s?wd=%E4%B8%AD%E6%97%A5%E5%A5%B3%E7%AF%AE%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [著名艺术家陈淑光逝世](https://www.baidu.com/s?wd=%E8%91%97%E5%90%8D%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%99%88%E6%B7%91%E5%85%89%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [远房亲戚结婚妈妈让女儿随礼2000](https://www.baidu.com/s?wd=%E8%BF%9C%E6%88%BF%E4%BA%B2%E6%88%9A%E7%BB%93%E5%A9%9A%E5%A6%88%E5%A6%88%E8%AE%A9%E5%A5%B3%E5%84%BF%E9%9A%8F%E7%A4%BC2000&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本一火山喷发 海水变成棕褐色](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91+%E6%B5%B7%E6%B0%B4%E5%8F%98%E6%88%90%E6%A3%95%E8%A4%90%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [丢失背包乐迷为南阳发声](https://www.baidu.com/s?wd=%E4%B8%A2%E5%A4%B1%E8%83%8C%E5%8C%85%E4%B9%90%E8%BF%B7%E4%B8%BA%E5%8D%97%E9%98%B3%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [著名艺术家陈淑光逝世](https://www.baidu.com/s?wd=%E8%91%97%E5%90%8D%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%99%88%E6%B7%91%E5%85%89%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [远房亲戚结婚妈妈让女儿随礼2000](https://www.baidu.com/s?wd=%E8%BF%9C%E6%88%BF%E4%BA%B2%E6%88%9A%E7%BB%93%E5%A9%9A%E5%A6%88%E5%A6%88%E8%AE%A9%E5%A5%B3%E5%84%BF%E9%9A%8F%E7%A4%BC2000&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网友发布迷笛假消息被采取措施](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E5%B8%83%E8%BF%B7%E7%AC%9B%E5%81%87%E6%B6%88%E6%81%AF%E8%A2%AB%E9%87%87%E5%8F%96%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
