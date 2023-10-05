@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 09:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 09:08:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [秦岚这状态是喝了点吧](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%BF%99%E7%8A%B6%E6%80%81%E6%98%AF%E5%96%9D%E4%BA%86%E7%82%B9%E5%90%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [乔欣说车停不好就把路堵上](https://s.weibo.com/weibo?q=%E4%B9%94%E6%AC%A3%E8%AF%B4%E8%BD%A6%E5%81%9C%E4%B8%8D%E5%A5%BD%E5%B0%B1%E6%8A%8A%E8%B7%AF%E5%A0%B5%E4%B8%8A&t=31&band_rank=5&Refer=top)<br />
 6. [张艺兴差点说出EXO](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B7%AE%E7%82%B9%E8%AF%B4%E5%87%BAEXO&t=31&band_rank=6&Refer=top)<br />
-7. [女子通过WiFi名称跨60公里寻回手机](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%80%9A%E8%BF%87WiFi%E5%90%8D%E7%A7%B0%E8%B7%A860%E5%85%AC%E9%87%8C%E5%AF%BB%E5%9B%9E%E6%89%8B%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [迷笛盗窃事件或受短视频误导](https://s.weibo.com/weibo?q=%23%E8%BF%B7%E7%AC%9B%E7%9B%97%E7%AA%83%E4%BA%8B%E4%BB%B6%E6%88%96%E5%8F%97%E7%9F%AD%E8%A7%86%E9%A2%91%E8%AF%AF%E5%AF%BC%23&t=31&band_rank=8&Refer=top)<br />
+7. [迷笛盗窃事件或受短视频误导](https://s.weibo.com/weibo?q=%23%E8%BF%B7%E7%AC%9B%E7%9B%97%E7%AA%83%E4%BA%8B%E4%BB%B6%E6%88%96%E5%8F%97%E7%9F%AD%E8%A7%86%E9%A2%91%E8%AF%AF%E5%AF%BC%23&t=31&band_rank=7&Refer=top)<br />
+8. [女子通过WiFi名称跨60公里寻回手机](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%80%9A%E8%BF%87WiFi%E5%90%8D%E7%A7%B0%E8%B7%A860%E5%85%AC%E9%87%8C%E5%AF%BB%E5%9B%9E%E6%89%8B%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [赵继伟道歉](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [婚礼双方亲戚斗殴 新娘被批没教养](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E5%8F%8C%E6%96%B9%E4%BA%B2%E6%88%9A%E6%96%97%E6%AE%B4+%E6%96%B0%E5%A8%98%E8%A2%AB%E6%89%B9%E6%B2%A1%E6%95%99%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚明道歉](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [6万人到兵马俑1200人忘带身份证](https://www.baidu.com/s?wd=6%E4%B8%87%E4%BA%BA%E5%88%B0%E5%85%B5%E9%A9%AC%E4%BF%911200%E4%BA%BA%E5%BF%98%E5%B8%A6%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [发布会取消又恢复 姚明、赵继伟致歉](https://www.baidu.com/s?wd=%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%96%E6%B6%88%E5%8F%88%E6%81%A2%E5%A4%8D+%E5%A7%9A%E6%98%8E%E3%80%81%E8%B5%B5%E7%BB%A7%E4%BC%9F%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小车高速出口突然变道致多车相撞](https://www.baidu.com/s?wd=%E5%B0%8F%E8%BD%A6%E9%AB%98%E9%80%9F%E5%87%BA%E5%8F%A3%E7%AA%81%E7%84%B6%E5%8F%98%E9%81%93%E8%87%B4%E5%A4%9A%E8%BD%A6%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北大国发院辟谣教授推荐股票](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%9B%BD%E5%8F%91%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%95%99%E6%8E%88%E6%8E%A8%E8%8D%90%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [婚礼双方亲戚斗殴 新娘被批没教养](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E5%8F%8C%E6%96%B9%E4%BA%B2%E6%88%9A%E6%96%97%E6%AE%B4+%E6%96%B0%E5%A8%98%E8%A2%AB%E6%89%B9%E6%B2%A1%E6%95%99%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚明道歉](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [6万人到兵马俑1200人忘带身份证](https://www.baidu.com/s?wd=6%E4%B8%87%E4%BA%BA%E5%88%B0%E5%85%B5%E9%A9%AC%E4%BF%911200%E4%BA%BA%E5%BF%98%E5%B8%A6%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [发布会取消又恢复 姚明、赵继伟致歉](https://www.baidu.com/s?wd=%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%96%E6%B6%88%E5%8F%88%E6%81%A2%E5%A4%8D+%E5%A7%9A%E6%98%8E%E3%80%81%E8%B5%B5%E7%BB%A7%E4%BC%9F%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小车高速出口突然变道致多车相撞](https://www.baidu.com/s?wd=%E5%B0%8F%E8%BD%A6%E9%AB%98%E9%80%9F%E5%87%BA%E5%8F%A3%E7%AA%81%E7%84%B6%E5%8F%98%E9%81%93%E8%87%B4%E5%A4%9A%E8%BD%A6%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北大国发院辟谣教授推荐股票](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%9B%BD%E5%8F%91%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%95%99%E6%8E%88%E6%8E%A8%E8%8D%90%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
