@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 11:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 11:19:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [杭州亚运会上的数字智能亮点](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%8A%E7%9A%84%E6%95%B0%E5%AD%97%E6%99%BA%E8%83%BD%E4%BA%AE%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [秦霄贤喜欢的女生类型变了](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%96%9C%E6%AC%A2%E7%9A%84%E5%A5%B3%E7%94%9F%E7%B1%BB%E5%9E%8B%E5%8F%98%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [日本海啸](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%B5%B7%E5%95%B8&t=31&band_rank=5&Refer=top)<br />
-6. [提前返程结果1小时开了10公里](https://s.weibo.com/weibo?q=%23%E6%8F%90%E5%89%8D%E8%BF%94%E7%A8%8B%E7%BB%93%E6%9E%9C1%E5%B0%8F%E6%97%B6%E5%BC%80%E4%BA%8610%E5%85%AC%E9%87%8C%23&t=31&band_rank=6&Refer=top)<br />
-7. [乔欣说车停不好就把路堵上](https://s.weibo.com/weibo?q=%E4%B9%94%E6%AC%A3%E8%AF%B4%E8%BD%A6%E5%81%9C%E4%B8%8D%E5%A5%BD%E5%B0%B1%E6%8A%8A%E8%B7%AF%E5%A0%B5%E4%B8%8A&t=31&band_rank=7&Refer=top)<br />
+6. [乔欣说车停不好就把路堵上](https://s.weibo.com/weibo?q=%E4%B9%94%E6%AC%A3%E8%AF%B4%E8%BD%A6%E5%81%9C%E4%B8%8D%E5%A5%BD%E5%B0%B1%E6%8A%8A%E8%B7%AF%E5%A0%B5%E4%B8%8A&t=31&band_rank=6&Refer=top)<br />
+7. [提前返程结果1小时开了10公里](https://s.weibo.com/weibo?q=%23%E6%8F%90%E5%89%8D%E8%BF%94%E7%A8%8B%E7%BB%93%E6%9E%9C1%E5%B0%8F%E6%97%B6%E5%BC%80%E4%BA%8610%E5%85%AC%E9%87%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [秦岚这状态是喝了点吧](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%BF%99%E7%8A%B6%E6%80%81%E6%98%AF%E5%96%9D%E4%BA%86%E7%82%B9%E5%90%A7%23&t=31&band_rank=8&Refer=top)<br />
 9. [张艺兴差点说出EXO](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B7%AE%E7%82%B9%E8%AF%B4%E5%87%BAEXO&t=31&band_rank=9&Refer=top)<br />
 
