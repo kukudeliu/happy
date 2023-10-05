@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 18:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 18:41:01</h4></div>
 
 > 微博  
 
 1. [爱情公狱](https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%83%85%E5%85%AC%E7%8B%B1%23&t=31&band_rank=1&Refer=top)<br />
-2. [林高远王曼昱1比3张本智和早田希娜](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E7%8E%8B%E6%9B%BC%E6%98%B11%E6%AF%943%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%23&t=31&band_rank=2&Refer=top)<br />
+2. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会处处都有显眼包](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%A4%84%E5%A4%84%E9%83%BD%E6%9C%89%E6%98%BE%E7%9C%BC%E5%8C%85%23&t=31&band_rank=3&Refer=top)<br />
 4. [这是电动车不可承受之重](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E7%94%B5%E5%8A%A8%E8%BD%A6%E4%B8%8D%E5%8F%AF%E6%89%BF%E5%8F%97%E4%B9%8B%E9%87%8D%23&t=31&band_rank=4&Refer=top)<br />
 5. [快递员配货时盗窃一个面包被拘](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E5%91%98%E9%85%8D%E8%B4%A7%E6%97%B6%E7%9B%97%E7%AA%83%E4%B8%80%E4%B8%AA%E9%9D%A2%E5%8C%85%E8%A2%AB%E6%8B%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [日本一火山喷发](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [如果感到幸福你就跺ta脚](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E6%84%9F%E5%88%B0%E5%B9%B8%E7%A6%8F%E4%BD%A0%E5%B0%B1%E8%B7%BAta%E8%84%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=8&Refer=top)<br />
+8. [林高远王曼昱1比3张本智和早田希娜](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E7%8E%8B%E6%9B%BC%E6%98%B11%E6%AF%943%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%23&t=31&band_rank=8&Refer=top)<br />
 9. [张艺兴 UZI](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20UZI&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
