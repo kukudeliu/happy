@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 18:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 18:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张艺兴 UZI](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20UZI&t=31&band_rank=6&Refer=top)<br />
 7. [女孩放弃买钻戒花50万买金条](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E4%B9%B0%E9%92%BB%E6%88%92%E8%8A%B150%E4%B8%87%E4%B9%B0%E9%87%91%E6%9D%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [腾讯视频 胆小模式](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%20%E8%83%86%E5%B0%8F%E6%A8%A1%E5%BC%8F&t=31&band_rank=8&Refer=top)<br />
-9. [泰国枪击案凶手成绩优异沉迷游戏](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%9E%AA%E5%87%BB%E6%A1%88%E5%87%B6%E6%89%8B%E6%88%90%E7%BB%A9%E4%BC%98%E5%BC%82%E6%B2%89%E8%BF%B7%E6%B8%B8%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [王楚钦孙颖莎](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
