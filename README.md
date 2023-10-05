@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 11:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 11:09:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [中科院博士开民宿 父亲：书白读了](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%BC%80%E6%B0%91%E5%AE%BF+%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B9%A6%E7%99%BD%E8%AF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本发生6.2级地震 官方发海啸预警](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F6.2%E7%BA%A7%E5%9C%B0%E9%9C%87+%E5%AE%98%E6%96%B9%E5%8F%91%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [贝克汉姆重提出轨事件](https://www.baidu.com/s?wd=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E9%87%8D%E6%8F%90%E5%87%BA%E8%BD%A8%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国台北队员等到自己人加油了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E9%98%9F%E5%91%98%E7%AD%89%E5%88%B0%E8%87%AA%E5%B7%B1%E4%BA%BA%E5%8A%A0%E6%B2%B9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [菲律宾发生6.4级地震](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%8F%91%E7%94%9F6.4%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北大国发院辟谣教授推荐股票](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%9B%BD%E5%8F%91%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%95%99%E6%8E%88%E6%8E%A8%E8%8D%90%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [中科院博士开民宿 父亲：书白读了](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%BC%80%E6%B0%91%E5%AE%BF+%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B9%A6%E7%99%BD%E8%AF%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本发生6.2级地震 官方发海啸预警](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F6.2%E7%BA%A7%E5%9C%B0%E9%9C%87+%E5%AE%98%E6%96%B9%E5%8F%91%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [贝克汉姆重提出轨事件](https://www.baidu.com/s?wd=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E9%87%8D%E6%8F%90%E5%87%BA%E8%BD%A8%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国台北队员等到自己人加油了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E9%98%9F%E5%91%98%E7%AD%89%E5%88%B0%E8%87%AA%E5%B7%B1%E4%BA%BA%E5%8A%A0%E6%B2%B9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [菲律宾发生6.4级地震](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%8F%91%E7%94%9F6.4%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北大国发院辟谣教授推荐股票](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%9B%BD%E5%8F%91%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%95%99%E6%8E%88%E6%8E%A8%E8%8D%90%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
