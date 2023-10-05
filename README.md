@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 19:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 19:45:01</h4></div>
 
 > 微博  
 
 1. [王楚钦孙颖莎](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E&t=31&band_rank=1&Refer=top)<br />
-2. [爱情公狱](https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%83%85%E5%85%AC%E7%8B%B1%23&t=31&band_rank=2&Refer=top)<br />
+2. [新闻联播新主播王音棋](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E6%96%B0%E4%B8%BB%E6%92%AD%E7%8E%8B%E9%9F%B3%E6%A3%8B%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会处处都有显眼包](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%A4%84%E5%A4%84%E9%83%BD%E6%9C%89%E6%98%BE%E7%9C%BC%E5%8C%85%23&t=31&band_rank=3&Refer=top)<br />
 4. [30年前稼穑戳动了谁的童年](https://s.weibo.com/weibo?q=%2330%E5%B9%B4%E5%89%8D%E7%A8%BC%E7%A9%91%E6%88%B3%E5%8A%A8%E4%BA%86%E8%B0%81%E7%9A%84%E7%AB%A5%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [退休教师家门口升国旗13年](https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91%E6%95%99%E5%B8%88%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%8D%87%E5%9B%BD%E6%97%9713%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
-6. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=6&Refer=top)<br />
+6. [爱情公狱](https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%83%85%E5%85%AC%E7%8B%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [如果感到幸福你就跺ta脚](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E6%84%9F%E5%88%B0%E5%B9%B8%E7%A6%8F%E4%BD%A0%E5%B0%B1%E8%B7%BAta%E8%84%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [日本一企业用人造子宫培育出鲨鱼](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E4%BC%81%E4%B8%9A%E7%94%A8%E4%BA%BA%E9%80%A0%E5%AD%90%E5%AE%AB%E5%9F%B9%E8%82%B2%E5%87%BA%E9%B2%A8%E9%B1%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [腾讯视频 胆小模式](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%20%E8%83%86%E5%B0%8F%E6%A8%A1%E5%BC%8F&t=31&band_rank=9&Refer=top)<br />
+8. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=8&Refer=top)<br />
+9. [陈雨菲vs金佳恩](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B2vs%E9%87%91%E4%BD%B3%E6%81%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
