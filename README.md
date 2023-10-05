@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 10:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 10:26:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [乔欣说车停不好就把路堵上](https://s.weibo.com/weibo?q=%E4%B9%94%E6%AC%A3%E8%AF%B4%E8%BD%A6%E5%81%9C%E4%B8%8D%E5%A5%BD%E5%B0%B1%E6%8A%8A%E8%B7%AF%E5%A0%B5%E4%B8%8A&t=31&band_rank=6&Refer=top)<br />
 7. [张艺兴差点说出EXO](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B7%AE%E7%82%B9%E8%AF%B4%E5%87%BAEXO&t=31&band_rank=7&Refer=top)<br />
 8. [迷笛盗窃事件或受短视频误导](https://s.weibo.com/weibo?q=%23%E8%BF%B7%E7%AC%9B%E7%9B%97%E7%AA%83%E4%BA%8B%E4%BB%B6%E6%88%96%E5%8F%97%E7%9F%AD%E8%A7%86%E9%A2%91%E8%AF%AF%E5%AF%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [导游用激光笔照龙门石窟大佛](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%B8%B8%E7%94%A8%E6%BF%80%E5%85%89%E7%AC%94%E7%85%A7%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F%E5%A4%A7%E4%BD%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [返程聪明人](https://s.weibo.com/weibo?q=%E8%BF%94%E7%A8%8B%E8%81%AA%E6%98%8E%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
