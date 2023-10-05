@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 20:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 20:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [李梦好猛](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%A2%A6%E5%A5%BD%E7%8C%9B&t=31&band_rank=5&Refer=top)<br />
 6. [爱情公狱](https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%83%85%E5%85%AC%E7%8B%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [我的国家没参赛我来支持中国队](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%B2%A1%E5%8F%82%E8%B5%9B%E6%88%91%E6%9D%A5%E6%94%AF%E6%8C%81%E4%B8%AD%E5%9B%BD%E9%98%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈雨菲进亚运4强](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B2%E8%BF%9B%E4%BA%9A%E8%BF%904%E5%BC%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [于和伟帅死了](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%E5%B8%85%E6%AD%BB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [于和伟帅死了](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%E5%B8%85%E6%AD%BB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [陈雨菲进亚运4强](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B2%E8%BF%9B%E4%BA%9A%E8%BF%904%E5%BC%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
