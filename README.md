@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 08:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 08:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [提前返程结果1小时开了10公里](https://s.weibo.com/weibo?q=%23%E6%8F%90%E5%89%8D%E8%BF%94%E7%A8%8B%E7%BB%93%E6%9E%9C1%E5%B0%8F%E6%97%B6%E5%BC%80%E4%BA%8610%E5%85%AC%E9%87%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子通过WiFi名称跨60公里寻回手机](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%80%9A%E8%BF%87WiFi%E5%90%8D%E7%A7%B0%E8%B7%A860%E5%85%AC%E9%87%8C%E5%AF%BB%E5%9B%9E%E6%89%8B%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [躺在床上看手机时打开闪光灯](https://s.weibo.com/weibo?q=%E8%BA%BA%E5%9C%A8%E5%BA%8A%E4%B8%8A%E7%9C%8B%E6%89%8B%E6%9C%BA%E6%97%B6%E6%89%93%E5%BC%80%E9%97%AA%E5%85%89%E7%81%AF&t=31&band_rank=8&Refer=top)<br />
-9. [黄景瑜说确实很喜欢黄明昊](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E8%AF%B4%E7%A1%AE%E5%AE%9E%E5%BE%88%E5%96%9C%E6%AC%A2%E9%BB%84%E6%98%8E%E6%98%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [张艺兴差点说出EXO](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B7%AE%E7%82%B9%E8%AF%B4%E5%87%BAEXO&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
