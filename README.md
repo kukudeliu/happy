@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 13:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 13:25:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [秦霄贤喜欢的女生类型变了](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%96%9C%E6%AC%A2%E7%9A%84%E5%A5%B3%E7%94%9F%E7%B1%BB%E5%9E%8B%E5%8F%98%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [傅园慧当游泳教练了](https://s.weibo.com/weibo?q=%23%E5%82%85%E5%9B%AD%E6%85%A7%E5%BD%93%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [迷笛再回应乐迷财物被盗事件](https://s.weibo.com/weibo?q=%23%E8%BF%B7%E7%AC%9B%E5%86%8D%E5%9B%9E%E5%BA%94%E4%B9%90%E8%BF%B7%E8%B4%A2%E7%89%A9%E8%A2%AB%E7%9B%97%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [印度一家医院12名婴儿同日死亡](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%AE%B6%E5%8C%BB%E9%99%A212%E5%90%8D%E5%A9%B4%E5%84%BF%E5%90%8C%E6%97%A5%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [乔欣说车停不好就把路堵上](https://s.weibo.com/weibo?q=%E4%B9%94%E6%AC%A3%E8%AF%B4%E8%BD%A6%E5%81%9C%E4%B8%8D%E5%A5%BD%E5%B0%B1%E6%8A%8A%E8%B7%AF%E5%A0%B5%E4%B8%8A&t=31&band_rank=9&Refer=top)<br />
+8. [乔欣说车停不好就把路堵上](https://s.weibo.com/weibo?q=%E4%B9%94%E6%AC%A3%E8%AF%B4%E8%BD%A6%E5%81%9C%E4%B8%8D%E5%A5%BD%E5%B0%B1%E6%8A%8A%E8%B7%AF%E5%A0%B5%E4%B8%8A&t=31&band_rank=8&Refer=top)<br />
+9. [印度一家医院12名婴儿同日死亡](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%AE%B6%E5%8C%BB%E9%99%A212%E5%90%8D%E5%A9%B4%E5%84%BF%E5%90%8C%E6%97%A5%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
