@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 09:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 09:12:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [婚礼双方亲戚斗殴 新娘被批没教养](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E5%8F%8C%E6%96%B9%E4%BA%B2%E6%88%9A%E6%96%97%E6%AE%B4+%E6%96%B0%E5%A8%98%E8%A2%AB%E6%89%B9%E6%B2%A1%E6%95%99%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚明道歉](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [6万人到兵马俑1200人忘带身份证](https://www.baidu.com/s?wd=6%E4%B8%87%E4%BA%BA%E5%88%B0%E5%85%B5%E9%A9%AC%E4%BF%911200%E4%BA%BA%E5%BF%98%E5%B8%A6%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子晒花生10分钟被鸟吃光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%99%92%E8%8A%B1%E7%94%9F10%E5%88%86%E9%92%9F%E8%A2%AB%E9%B8%9F%E5%90%83%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北大国发院辟谣教授推荐股票](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%9B%BD%E5%8F%91%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%95%99%E6%8E%88%E6%8E%A8%E8%8D%90%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [婚礼双方亲戚斗殴 新娘被批没教养](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E5%8F%8C%E6%96%B9%E4%BA%B2%E6%88%9A%E6%96%97%E6%AE%B4+%E6%96%B0%E5%A8%98%E8%A2%AB%E6%89%B9%E6%B2%A1%E6%95%99%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚明道歉](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [6万人到兵马俑1200人忘带身份证](https://www.baidu.com/s?wd=6%E4%B8%87%E4%BA%BA%E5%88%B0%E5%85%B5%E9%A9%AC%E4%BF%911200%E4%BA%BA%E5%BF%98%E5%B8%A6%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [他们是来亚运批发奖牌的吧](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%BA%9A%E8%BF%90%E6%89%B9%E5%8F%91%E5%A5%96%E7%89%8C%E7%9A%84%E5%90%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子晒花生10分钟被鸟吃光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%99%92%E8%8A%B1%E7%94%9F10%E5%88%86%E9%92%9F%E8%A2%AB%E9%B8%9F%E5%90%83%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北大国发院辟谣教授推荐股票](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%9B%BD%E5%8F%91%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%95%99%E6%8E%88%E6%8E%A8%E8%8D%90%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
