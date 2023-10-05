@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 19:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 19:30:01</h4></div>
 
 > 微博  
 
-1. [王楚钦孙颖莎](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E&t=31&band_rank=1&Refer=top)<br />
-2. [2023诺贝尔文学奖揭晓](https://s.weibo.com/weibo?q=%232023%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93%23&t=31&band_rank=2&Refer=top)<br />
+1. [2023诺贝尔文学奖揭晓](https://s.weibo.com/weibo?q=%232023%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93%23&t=31&band_rank=1&Refer=top)<br />
+2. [王楚钦孙颖莎](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会处处都有显眼包](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%A4%84%E5%A4%84%E9%83%BD%E6%9C%89%E6%98%BE%E7%9C%BC%E5%8C%85%23&t=31&band_rank=3&Refer=top)<br />
 4. [30年前稼穑戳动了谁的童年](https://s.weibo.com/weibo?q=%2330%E5%B9%B4%E5%89%8D%E7%A8%BC%E7%A9%91%E6%88%B3%E5%8A%A8%E4%BA%86%E8%B0%81%E7%9A%84%E7%AB%A5%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [退休教师家门口升国旗13年](https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91%E6%95%99%E5%B8%88%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%8D%87%E5%9B%BD%E6%97%9713%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
