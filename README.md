@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 10:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-05 10:44:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [沃野千里展新卷](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E5%8D%83%E9%87%8C%E5%B1%95%E6%96%B0%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [假期返程有人400公里开11个小时](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E6%9C%89%E4%BA%BA400%E5%85%AC%E9%87%8C%E5%BC%8011%E4%B8%AA%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [贝克汉姆重提出轨事件](https://www.baidu.com/s?wd=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E9%87%8D%E6%8F%90%E5%87%BA%E8%BD%A8%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美临时众议长通知佩洛西腾出办公室](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%B4%E6%97%B6%E4%BC%97%E8%AE%AE%E9%95%BF%E9%80%9A%E7%9F%A5%E4%BD%A9%E6%B4%9B%E8%A5%BF%E8%85%BE%E5%87%BA%E5%8A%9E%E5%85%AC%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [三张图看清陈艺文“水花消失术”](https://www.baidu.com/s?wd=%E4%B8%89%E5%BC%A0%E5%9B%BE%E7%9C%8B%E6%B8%85%E9%99%88%E8%89%BA%E6%96%87%E2%80%9C%E6%B0%B4%E8%8A%B1%E6%B6%88%E5%A4%B1%E6%9C%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [姚明道歉](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北大国发院辟谣教授推荐股票](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%9B%BD%E5%8F%91%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%95%99%E6%8E%88%E6%8E%A8%E8%8D%90%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [沃野千里展新卷](https://www.baidu.com/s?wd=%E6%B2%83%E9%87%8E%E5%8D%83%E9%87%8C%E5%B1%95%E6%96%B0%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [假期返程有人400公里开11个小时](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E6%9C%89%E4%BA%BA400%E5%85%AC%E9%87%8C%E5%BC%8011%E4%B8%AA%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [贝克汉姆重提出轨事件](https://www.baidu.com/s?wd=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E9%87%8D%E6%8F%90%E5%87%BA%E8%BD%A8%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美临时众议长通知佩洛西腾出办公室](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%B4%E6%97%B6%E4%BC%97%E8%AE%AE%E9%95%BF%E9%80%9A%E7%9F%A5%E4%BD%A9%E6%B4%9B%E8%A5%BF%E8%85%BE%E5%87%BA%E5%8A%9E%E5%85%AC%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [三张图看清陈艺文“水花消失术”](https://www.baidu.com/s?wd=%E4%B8%89%E5%BC%A0%E5%9B%BE%E7%9C%8B%E6%B8%85%E9%99%88%E8%89%BA%E6%96%87%E2%80%9C%E6%B0%B4%E8%8A%B1%E6%B6%88%E5%A4%B1%E6%9C%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [姚明道歉](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北大国发院辟谣教授推荐股票](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%9B%BD%E5%8F%91%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%95%99%E6%8E%88%E6%8E%A8%E8%8D%90%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
