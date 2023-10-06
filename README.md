@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 12:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 12:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [俄坠机事件遇难者遗体内现手榴弹碎片](https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%9D%A0%E6%9C%BA%E4%BA%8B%E4%BB%B6%E9%81%87%E9%9A%BE%E8%80%85%E9%81%97%E4%BD%93%E5%86%85%E7%8E%B0%E6%89%8B%E6%A6%B4%E5%BC%B9%E7%A2%8E%E7%89%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [上海4岁女童海滩走失父亲发声](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B74%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%B5%B7%E6%BB%A9%E8%B5%B0%E5%A4%B1%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [外媒报道王一博巴黎时装周](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩国选手否认模仿羞辱何冰娇](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%E5%90%A6%E8%AE%A4%E6%A8%A1%E4%BB%BF%E7%BE%9E%E8%BE%B1%E4%BD%95%E5%86%B0%E5%A8%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [8天很短7天很长](https://s.weibo.com/weibo?q=%238%E5%A4%A9%E5%BE%88%E7%9F%AD7%E5%A4%A9%E5%BE%88%E9%95%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
