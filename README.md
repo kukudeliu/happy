@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 13:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 13:26:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [上海4岁女童海滩走失父亲发声](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B74%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%B5%B7%E6%BB%A9%E8%B5%B0%E5%A4%B1%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [8天很短7天很长](https://s.weibo.com/weibo?q=%238%E5%A4%A9%E5%BE%88%E7%9F%AD7%E5%A4%A9%E5%BE%88%E9%95%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [韩素希和车银优一起拍广告了](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%B4%A0%E5%B8%8C%E5%92%8C%E8%BD%A6%E9%93%B6%E4%BC%98%E4%B8%80%E8%B5%B7%E6%8B%8D%E5%B9%BF%E5%91%8A%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [俄坠机事件遇难者遗体内现手榴弹碎片](https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%9D%A0%E6%9C%BA%E4%BA%8B%E4%BB%B6%E9%81%87%E9%9A%BE%E8%80%85%E9%81%97%E4%BD%93%E5%86%85%E7%8E%B0%E6%89%8B%E6%A6%B4%E5%BC%B9%E7%A2%8E%E7%89%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [竹马天降都是你开机](https://s.weibo.com/weibo?q=%23%E7%AB%B9%E9%A9%AC%E5%A4%A9%E9%99%8D%E9%83%BD%E6%98%AF%E4%BD%A0%E5%BC%80%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
+7. [竹马天降都是你开机](https://s.weibo.com/weibo?q=%23%E7%AB%B9%E9%A9%AC%E5%A4%A9%E9%99%8D%E9%83%BD%E6%98%AF%E4%BD%A0%E5%BC%80%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [俄坠机事件遇难者遗体内现手榴弹碎片](https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%9D%A0%E6%9C%BA%E4%BA%8B%E4%BB%B6%E9%81%87%E9%9A%BE%E8%80%85%E9%81%97%E4%BD%93%E5%86%85%E7%8E%B0%E6%89%8B%E6%A6%B4%E5%BC%B9%E7%A2%8E%E7%89%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [Jennie新歌封面是武内直子画的](https://s.weibo.com/weibo?q=%23Jennie%E6%96%B0%E6%AD%8C%E5%B0%81%E9%9D%A2%E6%98%AF%E6%AD%A6%E5%86%85%E7%9B%B4%E5%AD%90%E7%94%BB%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
