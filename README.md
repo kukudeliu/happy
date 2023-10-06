@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 20:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 20:44:01</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [让体育为社会提供强大正能量](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BD%93%E8%82%B2%E4%B8%BA%E7%A4%BE%E4%BC%9A%E6%8F%90%E4%BE%9B%E5%BC%BA%E5%A4%A7%E6%AD%A3%E8%83%BD%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [姚明知道自己被叫做226](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%8F%AB%E5%81%9A226&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [赵睿说抱歉给大家添堵了](https://www.baidu.com/s?wd=%E8%B5%B5%E7%9D%BF%E8%AF%B4%E6%8A%B1%E6%AD%89%E7%BB%99%E5%A4%A7%E5%AE%B6%E6%B7%BB%E5%A0%B5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [小伙说朋友挂了被亲爹举报吸毒](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%AF%B4%E6%9C%8B%E5%8F%8B%E6%8C%82%E4%BA%86%E8%A2%AB%E4%BA%B2%E7%88%B9%E4%B8%BE%E6%8A%A5%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [选手赛出水平 项目展现魅力](https://www.baidu.com/s?wd=%E9%80%89%E6%89%8B%E8%B5%9B%E5%87%BA%E6%B0%B4%E5%B9%B3+%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%8E%B0%E9%AD%85%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [海滩走失女童母亲：已扩大搜索范围](https://www.baidu.com/s?wd=%E6%B5%B7%E6%BB%A9%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%E6%AF%8D%E4%BA%B2%EF%BC%9A%E5%B7%B2%E6%89%A9%E5%A4%A7%E6%90%9C%E7%B4%A2%E8%8C%83%E5%9B%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [民警一拖四救出落水一家四口](https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A6%E4%B8%80%E6%8B%96%E5%9B%9B%E6%95%91%E5%87%BA%E8%90%BD%E6%B0%B4%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子陪领导喝酒醉卧街头 官方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%99%AA%E9%A2%86%E5%AF%BC%E5%96%9D%E9%85%92%E9%86%89%E5%8D%A7%E8%A1%97%E5%A4%B4+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [冠军陈佳鹏回乡 当地奖励十万元](https://www.baidu.com/s?wd=%E5%86%A0%E5%86%9B%E9%99%88%E4%BD%B3%E9%B9%8F%E5%9B%9E%E4%B9%A1+%E5%BD%93%E5%9C%B0%E5%A5%96%E5%8A%B1%E5%8D%81%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子陪领导喝酒醉卧街头 官方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%99%AA%E9%A2%86%E5%AF%BC%E5%96%9D%E9%85%92%E9%86%89%E5%8D%A7%E8%A1%97%E5%A4%B4+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [民警一拖四救出落水一家四口](https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A6%E4%B8%80%E6%8B%96%E5%9B%9B%E6%95%91%E5%87%BA%E8%90%BD%E6%B0%B4%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩国选手否认模仿羞辱何冰娇](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%E5%90%A6%E8%AE%A4%E6%A8%A1%E4%BB%BF%E7%BE%9E%E8%BE%B1%E4%BD%95%E5%86%B0%E5%A8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [婚礼场地被村民搬空?当地:误会](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E5%9C%BA%E5%9C%B0%E8%A2%AB%E6%9D%91%E6%B0%91%E6%90%AC%E7%A9%BA%3F%E5%BD%93%E5%9C%B0%3A%E8%AF%AF%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [让体育为社会提供强大正能量](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BD%93%E8%82%B2%E4%B8%BA%E7%A4%BE%E4%BC%9A%E6%8F%90%E4%BE%9B%E5%BC%BA%E5%A4%A7%E6%AD%A3%E8%83%BD%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [姚明知道自己被叫做226](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%8F%AB%E5%81%9A226&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [赵睿说抱歉给大家添堵了](https://www.baidu.com/s?wd=%E8%B5%B5%E7%9D%BF%E8%AF%B4%E6%8A%B1%E6%AD%89%E7%BB%99%E5%A4%A7%E5%AE%B6%E6%B7%BB%E5%A0%B5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [小伙说朋友挂了被亲爹举报吸毒](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%AF%B4%E6%9C%8B%E5%8F%8B%E6%8C%82%E4%BA%86%E8%A2%AB%E4%BA%B2%E7%88%B9%E4%B8%BE%E6%8A%A5%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [选手赛出水平 项目展现魅力](https://www.baidu.com/s?wd=%E9%80%89%E6%89%8B%E8%B5%9B%E5%87%BA%E6%B0%B4%E5%B9%B3+%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%8E%B0%E9%AD%85%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [海滩走失女童母亲：已扩大搜索范围](https://www.baidu.com/s?wd=%E6%B5%B7%E6%BB%A9%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%E6%AF%8D%E4%BA%B2%EF%BC%9A%E5%B7%B2%E6%89%A9%E5%A4%A7%E6%90%9C%E7%B4%A2%E8%8C%83%E5%9B%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [民警一拖四救出落水一家四口](https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A6%E4%B8%80%E6%8B%96%E5%9B%9B%E6%95%91%E5%87%BA%E8%90%BD%E6%B0%B4%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子陪领导喝酒醉卧街头 官方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%99%AA%E9%A2%86%E5%AF%BC%E5%96%9D%E9%85%92%E9%86%89%E5%8D%A7%E8%A1%97%E5%A4%B4+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [冠军陈佳鹏回乡 当地奖励十万元](https://www.baidu.com/s?wd=%E5%86%A0%E5%86%9B%E9%99%88%E4%BD%B3%E9%B9%8F%E5%9B%9E%E4%B9%A1+%E5%BD%93%E5%9C%B0%E5%A5%96%E5%8A%B1%E5%8D%81%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子陪领导喝酒醉卧街头 官方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%99%AA%E9%A2%86%E5%AF%BC%E5%96%9D%E9%85%92%E9%86%89%E5%8D%A7%E8%A1%97%E5%A4%B4+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [民警一拖四救出落水一家四口](https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A6%E4%B8%80%E6%8B%96%E5%9B%9B%E6%95%91%E5%87%BA%E8%90%BD%E6%B0%B4%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩国选手否认模仿羞辱何冰娇](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%E5%90%A6%E8%AE%A4%E6%A8%A1%E4%BB%BF%E7%BE%9E%E8%BE%B1%E4%BD%95%E5%86%B0%E5%A8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [婚礼场地被村民搬空?当地:误会](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E5%9C%BA%E5%9C%B0%E8%A2%AB%E6%9D%91%E6%B0%91%E6%90%AC%E7%A9%BA%3F%E5%BD%93%E5%9C%B0%3A%E8%AF%AF%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
