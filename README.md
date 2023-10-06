@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 22:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 22:24:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [“双节”中国风 浓浓家国情](https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%8C%E8%8A%82%E2%80%9D%E4%B8%AD%E5%9B%BD%E9%A3%8E+%E6%B5%93%E6%B5%93%E5%AE%B6%E5%9B%BD%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [姚明知道自己被叫做226](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%8F%AB%E5%81%9A226&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子陪领导喝酒醉卧街头 官方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%99%AA%E9%A2%86%E5%AF%BC%E5%96%9D%E9%85%92%E9%86%89%E5%8D%A7%E8%A1%97%E5%A4%B4+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [泰国14岁枪手被转至曼谷精神病院](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD14%E5%B2%81%E6%9E%AA%E6%89%8B%E8%A2%AB%E8%BD%AC%E8%87%B3%E6%9B%BC%E8%B0%B7%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乐园回应“充气城堡倒塌”](https://www.baidu.com/s?wd=%E4%B9%90%E5%9B%AD%E5%9B%9E%E5%BA%94%E2%80%9C%E5%85%85%E6%B0%94%E5%9F%8E%E5%A0%A1%E5%80%92%E5%A1%8C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国女排晋级亚运决赛 与日本争金](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E6%99%8B%E7%BA%A7%E4%BA%9A%E8%BF%90%E5%86%B3%E8%B5%9B+%E4%B8%8E%E6%97%A5%E6%9C%AC%E4%BA%89%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [婚礼场地被村民搬空?当地:误会](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E5%9C%BA%E5%9C%B0%E8%A2%AB%E6%9D%91%E6%B0%91%E6%90%AC%E7%A9%BA%3F%E5%BD%93%E5%9C%B0%3A%E8%AF%AF%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [“双节”中国风 浓浓家国情](https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%8C%E8%8A%82%E2%80%9D%E4%B8%AD%E5%9B%BD%E9%A3%8E+%E6%B5%93%E6%B5%93%E5%AE%B6%E5%9B%BD%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [姚明知道自己被叫做226](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%8F%AB%E5%81%9A226&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子陪领导喝酒醉卧街头 官方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%99%AA%E9%A2%86%E5%AF%BC%E5%96%9D%E9%85%92%E9%86%89%E5%8D%A7%E8%A1%97%E5%A4%B4+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [泰国14岁枪手被转至曼谷精神病院](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD14%E5%B2%81%E6%9E%AA%E6%89%8B%E8%A2%AB%E8%BD%AC%E8%87%B3%E6%9B%BC%E8%B0%B7%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乐园回应“充气城堡倒塌”](https://www.baidu.com/s?wd=%E4%B9%90%E5%9B%AD%E5%9B%9E%E5%BA%94%E2%80%9C%E5%85%85%E6%B0%94%E5%9F%8E%E5%A0%A1%E5%80%92%E5%A1%8C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国女排晋级亚运决赛 与日本争金](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E6%99%8B%E7%BA%A7%E4%BA%9A%E8%BF%90%E5%86%B3%E8%B5%9B+%E4%B8%8E%E6%97%A5%E6%9C%AC%E4%BA%89%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [婚礼场地被村民搬空?当地:误会](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E5%9C%BA%E5%9C%B0%E8%A2%AB%E6%9D%91%E6%B0%91%E6%90%AC%E7%A9%BA%3F%E5%BD%93%E5%9C%B0%3A%E8%AF%AF%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
