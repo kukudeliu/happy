@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 16:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 16:58:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [上海4岁女童海滩走失父亲发声](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B74%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%B5%B7%E6%BB%A9%E8%B5%B0%E5%A4%B1%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [王栎鑫去了趟厕所天都变了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E5%8E%BB%E4%BA%86%E8%B6%9F%E5%8E%95%E6%89%80%E5%A4%A9%E9%83%BD%E5%8F%98%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [日本流水面致892人中毒](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B5%81%E6%B0%B4%E9%9D%A2%E8%87%B4892%E4%BA%BA%E4%B8%AD%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
-7. [经期不能做的6件事](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E6%9C%9F%E4%B8%8D%E8%83%BD%E5%81%9A%E7%9A%846%E4%BB%B6%E4%BA%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [张译的微博好严谨](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E7%9A%84%E5%BE%AE%E5%8D%9A%E5%A5%BD%E4%B8%A5%E8%B0%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [Jennie新歌封面是武内直子画的](https://s.weibo.com/weibo?q=%23Jennie%E6%96%B0%E6%AD%8C%E5%B0%81%E9%9D%A2%E6%98%AF%E6%AD%A6%E5%86%85%E7%9B%B4%E5%AD%90%E7%94%BB%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+7. [上海警方通报4岁女童在海边走失](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A54%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E6%B5%B7%E8%BE%B9%E8%B5%B0%E5%A4%B1%23&t=31&band_rank=7&Refer=top)<br />
+8. [经期不能做的6件事](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E6%9C%9F%E4%B8%8D%E8%83%BD%E5%81%9A%E7%9A%846%E4%BB%B6%E4%BA%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [张译的微博好严谨](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E7%9A%84%E5%BE%AE%E5%8D%9A%E5%A5%BD%E4%B8%A5%E8%B0%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
