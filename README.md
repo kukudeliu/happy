@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 21:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 21:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴 万渣朝凰](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E4%B8%87%E6%B8%A3%E6%9C%9D%E5%87%B0&t=31&band_rank=6&Refer=top)<br />
 7. [金价连续下跌](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%BF%9E%E7%BB%AD%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [黄景瑜 男主没有死](https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%AF%E7%91%9C%20%E7%94%B7%E4%B8%BB%E6%B2%A1%E6%9C%89%E6%AD%BB&t=31&band_rank=8&Refer=top)<br />
-9. [王丽坤戴面具32集终于摘掉了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%BD%E5%9D%A4%E6%88%B4%E9%9D%A2%E5%85%B732%E9%9B%86%E7%BB%88%E4%BA%8E%E6%91%98%E6%8E%89%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [女童走失海滩曾有人被潮水卷走](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E8%B5%B0%E5%A4%B1%E6%B5%B7%E6%BB%A9%E6%9B%BE%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%BD%AE%E6%B0%B4%E5%8D%B7%E8%B5%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
