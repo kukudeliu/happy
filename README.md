@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 16:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 16:30:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [南阳女主持人含泪控诉](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B3%E5%A5%B3%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%90%AB%E6%B3%AA%E6%8E%A7%E8%AF%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [张译的微博好严谨](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E7%9A%84%E5%BE%AE%E5%8D%9A%E5%A5%BD%E4%B8%A5%E8%B0%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [经期不能做的6件事](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E6%9C%9F%E4%B8%8D%E8%83%BD%E5%81%9A%E7%9A%846%E4%BB%B6%E4%BA%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [新疆滤镜下素颜就很能打](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E6%BB%A4%E9%95%9C%E4%B8%8B%E7%B4%A0%E9%A2%9C%E5%B0%B1%E5%BE%88%E8%83%BD%E6%89%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [王牌对王牌](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C&t=31&band_rank=9&Refer=top)<br />
+8. [中国男篮vs中国台北男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E7%94%B7%E7%AF%AE%23&t=31&band_rank=8&Refer=top)<br />
+9. [新疆滤镜下素颜就很能打](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E6%BB%A4%E9%95%9C%E4%B8%8B%E7%B4%A0%E9%A2%9C%E5%B0%B1%E5%BE%88%E8%83%BD%E6%89%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
