@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 02:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 02:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [半夜醒来时不要看时间](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E5%A4%9C%E9%86%92%E6%9D%A5%E6%97%B6%E4%B8%8D%E8%A6%81%E7%9C%8B%E6%97%B6%E9%97%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴 万渣朝凰](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E4%B8%87%E6%B8%A3%E6%9C%9D%E5%87%B0&t=31&band_rank=7&Refer=top)<br />
 8. [井胧说了5遍我要哭了但没哭](https://s.weibo.com/weibo?q=%23%E4%BA%95%E8%83%A7%E8%AF%B4%E4%BA%865%E9%81%8D%E6%88%91%E8%A6%81%E5%93%AD%E4%BA%86%E4%BD%86%E6%B2%A1%E5%93%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [覃海洋 柏林](https://s.weibo.com/weibo?q=%E8%A6%83%E6%B5%B7%E6%B4%8B%20%E6%9F%8F%E6%9E%97&t=31&band_rank=9&Refer=top)<br />
+9. [黄景瑜和网友决战紫禁之巅](https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%AF%E7%91%9C%E5%92%8C%E7%BD%91%E5%8F%8B%E5%86%B3%E6%88%98%E7%B4%AB%E7%A6%81%E4%B9%8B%E5%B7%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
