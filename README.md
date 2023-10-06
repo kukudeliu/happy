@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 04:35:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 04:36:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [老师订10余套演出服用完立马退货](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E8%AE%A210%E4%BD%99%E5%A5%97%E6%BC%94%E5%87%BA%E6%9C%8D%E7%94%A8%E5%AE%8C%E7%AB%8B%E9%A9%AC%E9%80%80%E8%B4%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [女孩买胸贴女店员叠小票保护隐私](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B9%B0%E8%83%B8%E8%B4%B4%E5%A5%B3%E5%BA%97%E5%91%98%E5%8F%A0%E5%B0%8F%E7%A5%A8%E4%BF%9D%E6%8A%A4%E9%9A%90%E7%A7%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴 万渣朝凰](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E4%B8%87%E6%B8%A3%E6%9C%9D%E5%87%B0&t=31&band_rank=7&Refer=top)<br />
-8. [日本海鲜滞销堆积成山](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B5%B7%E9%B2%9C%E6%BB%9E%E9%94%80%E5%A0%86%E7%A7%AF%E6%88%90%E5%B1%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [定闹钟](https://s.weibo.com/weibo?q=%E5%AE%9A%E9%97%B9%E9%92%9F&t=31&band_rank=9&Refer=top)<br />
+8. [定闹钟](https://s.weibo.com/weibo?q=%E5%AE%9A%E9%97%B9%E9%92%9F&t=31&band_rank=8&Refer=top)<br />
+9. [日本海鲜滞销堆积成山](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B5%B7%E9%B2%9C%E6%BB%9E%E9%94%80%E5%A0%86%E7%A7%AF%E6%88%90%E5%B1%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
