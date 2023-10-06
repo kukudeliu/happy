@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 12:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 12:15:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [他们是最好的队友也是最好的对手](https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E9%98%9F%E5%8F%8B%E4%B9%9F%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E5%AF%B9%E6%89%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [Jennie新歌封面是武内直子画的](https://s.weibo.com/weibo?q=%23Jennie%E6%96%B0%E6%AD%8C%E5%B0%81%E9%9D%A2%E6%98%AF%E6%AD%A6%E5%86%85%E7%9B%B4%E5%AD%90%E7%94%BB%E7%9A%84%23&t=31&band_rank=4&Refer=top)<br />
 5. [俄坠机事件遇难者遗体内现手榴弹碎片](https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%9D%A0%E6%9C%BA%E4%BA%8B%E4%BB%B6%E9%81%87%E9%9A%BE%E8%80%85%E9%81%97%E4%BD%93%E5%86%85%E7%8E%B0%E6%89%8B%E6%A6%B4%E5%BC%B9%E7%A2%8E%E7%89%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [提醒两种不要生吃的东西](https://s.weibo.com/weibo?q=%E6%8F%90%E9%86%92%E4%B8%A4%E7%A7%8D%E4%B8%8D%E8%A6%81%E7%94%9F%E5%90%83%E7%9A%84%E4%B8%9C%E8%A5%BF&t=31&band_rank=6&Refer=top)<br />
-7. [外媒报道王一博巴黎时装周](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [韩国选手否认模仿羞辱何冰娇](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%E5%90%A6%E8%AE%A4%E6%A8%A1%E4%BB%BF%E7%BE%9E%E8%BE%B1%E4%BD%95%E5%86%B0%E5%A8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [上海4岁女童海滩走失父亲发声](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B74%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%B5%B7%E6%BB%A9%E8%B5%B0%E5%A4%B1%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
+6. [外媒报道王一博巴黎时装周](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23&t=31&band_rank=6&Refer=top)<br />
+7. [提醒两种不要生吃的东西](https://s.weibo.com/weibo?q=%E6%8F%90%E9%86%92%E4%B8%A4%E7%A7%8D%E4%B8%8D%E8%A6%81%E7%94%9F%E5%90%83%E7%9A%84%E4%B8%9C%E8%A5%BF&t=31&band_rank=7&Refer=top)<br />
+8. [上海4岁女童海滩走失父亲发声](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B74%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%B5%B7%E6%BB%A9%E8%B5%B0%E5%A4%B1%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
+9. [韩国选手否认模仿羞辱何冰娇](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%E5%90%A6%E8%AE%A4%E6%A8%A1%E4%BB%BF%E7%BE%9E%E8%BE%B1%E4%BD%95%E5%86%B0%E5%A8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
