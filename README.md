@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 21:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 21:01:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [返程行李箱满载快乐与爱](https://s.weibo.com/weibo?q=%23%E8%BF%94%E7%A8%8B%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%BB%A1%E8%BD%BD%E5%BF%AB%E4%B9%90%E4%B8%8E%E7%88%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [上海警方通报4岁女童在海边走失](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A54%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E6%B5%B7%E8%BE%B9%E8%B5%B0%E5%A4%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [金价连续下跌](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%BF%9E%E7%BB%AD%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=5&Refer=top)<br />
-6. [王楚钦吸氧](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%90%B8%E6%B0%A7%23&t=31&band_rank=6&Refer=top)<br />
+6. [黄景瑜 男主没有死](https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%AF%E7%91%9C%20%E7%94%B7%E4%B8%BB%E6%B2%A1%E6%9C%89%E6%AD%BB&t=31&band_rank=6&Refer=top)<br />
 7. [上海失踪4岁女童母亲发声](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A4%B1%E8%B8%AA4%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
-8. [王丽坤戴面具32集终于摘掉了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%BD%E5%9D%A4%E6%88%B4%E9%9D%A2%E5%85%B732%E9%9B%86%E7%BB%88%E4%BA%8E%E6%91%98%E6%8E%89%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [他从火光中走来结局](https://s.weibo.com/weibo?q=%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%E7%BB%93%E5%B1%80&t=31&band_rank=9&Refer=top)<br />
+8. [王楚钦吸氧](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%90%B8%E6%B0%A7%23&t=31&band_rank=8&Refer=top)<br />
+9. [王丽坤戴面具32集终于摘掉了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%BD%E5%9D%A4%E6%88%B4%E9%9D%A2%E5%85%B732%E9%9B%86%E7%BB%88%E4%BA%8E%E6%91%98%E6%8E%89%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
