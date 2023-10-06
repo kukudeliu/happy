@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 15:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 15:25:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [日本流水面致892人中毒](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B5%81%E6%B0%B4%E9%9D%A2%E8%87%B4892%E4%BA%BA%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [金世佳被娃求抱承认是自己儿子](https://www.baidu.com/s?wd=%E9%87%91%E4%B8%96%E4%BD%B3%E8%A2%AB%E5%A8%83%E6%B1%82%E6%8A%B1%E6%89%BF%E8%AE%A4%E6%98%AF%E8%87%AA%E5%B7%B1%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [奥运冠军和亚运冠军结婚了](https://www.baidu.com/s?wd=%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E5%92%8C%E4%BA%9A%E8%BF%90%E5%86%A0%E5%86%9B%E7%BB%93%E5%A9%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [诺贝尔的妻子被数学家拐跑？谣言](https://www.baidu.com/s?wd=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%9A%84%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%8B%90%E8%B7%91%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [仰头玩手机可预防颈椎病？不实](https://www.baidu.com/s?wd=%E4%BB%B0%E5%A4%B4%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%8F%AF%E9%A2%84%E9%98%B2%E9%A2%88%E6%A4%8E%E7%97%85%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [日本流水面致892人中毒](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B5%81%E6%B0%B4%E9%9D%A2%E8%87%B4892%E4%BA%BA%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [金世佳被娃求抱承认是自己儿子](https://www.baidu.com/s?wd=%E9%87%91%E4%B8%96%E4%BD%B3%E8%A2%AB%E5%A8%83%E6%B1%82%E6%8A%B1%E6%89%BF%E8%AE%A4%E6%98%AF%E8%87%AA%E5%B7%B1%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [奥运冠军和亚运冠军结婚了](https://www.baidu.com/s?wd=%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E5%92%8C%E4%BA%9A%E8%BF%90%E5%86%A0%E5%86%9B%E7%BB%93%E5%A9%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [诺贝尔的妻子被数学家拐跑？谣言](https://www.baidu.com/s?wd=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%9A%84%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%8B%90%E8%B7%91%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [仰头玩手机可预防颈椎病？不实](https://www.baidu.com/s?wd=%E4%BB%B0%E5%A4%B4%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%8F%AF%E9%A2%84%E9%98%B2%E9%A2%88%E6%A4%8E%E7%97%85%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
