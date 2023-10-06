@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 02:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 02:43:01</h4></div>
 
 > 微博  
 
-1. [他从火光中走来 男主死了](https://s.weibo.com/weibo?q=%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%20%E7%94%B7%E4%B8%BB%E6%AD%BB%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [半夜醒来时不要看时间](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E5%A4%9C%E9%86%92%E6%9D%A5%E6%97%B6%E4%B8%8D%E8%A6%81%E7%9C%8B%E6%97%B6%E9%97%B4%23&t=31&band_rank=2&Refer=top)<br />
+1. [半夜醒来时不要看时间](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E5%A4%9C%E9%86%92%E6%9D%A5%E6%97%B6%E4%B8%8D%E8%A6%81%E7%9C%8B%E6%97%B6%E9%97%B4%23&t=31&band_rank=1&Refer=top)<br />
+2. [他从火光中走来 男主死了](https://s.weibo.com/weibo?q=%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%20%E7%94%B7%E4%B8%BB%E6%AD%BB%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [9招找回节后好状态](https://s.weibo.com/weibo?q=%239%E6%8B%9B%E6%89%BE%E5%9B%9E%E8%8A%82%E5%90%8E%E5%A5%BD%E7%8A%B6%E6%80%81%23&t=31&band_rank=3&Refer=top)<br />
 4. [官方通报已婚女子陪领导喝酒醉卧街头](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%AD%90%E9%99%AA%E9%A2%86%E5%AF%BC%E5%96%9D%E9%85%92%E9%86%89%E5%8D%A7%E8%A1%97%E5%A4%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [定闹钟](https://s.weibo.com/weibo?q=%E5%AE%9A%E9%97%B9%E9%92%9F&t=31&band_rank=5&Refer=top)<br />
