@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 22:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 22:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴 万渣朝凰](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E4%B8%87%E6%B8%A3%E6%9C%9D%E5%87%B0&t=31&band_rank=6&Refer=top)<br />
 7. [老乡鸡](https://s.weibo.com/weibo?q=%E8%80%81%E4%B9%A1%E9%B8%A1&t=31&band_rank=7&Refer=top)<br />
 8. [万渣朝凰](https://s.weibo.com/weibo?q=%E4%B8%87%E6%B8%A3%E6%9C%9D%E5%87%B0&t=31&band_rank=8&Refer=top)<br />
-9. [儿子说朋友挂了被父亲举报吸毒](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E8%AF%B4%E6%9C%8B%E5%8F%8B%E6%8C%82%E4%BA%86%E8%A2%AB%E7%88%B6%E4%BA%B2%E4%B8%BE%E6%8A%A5%E5%90%B8%E6%AF%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [金价连续下跌](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%BF%9E%E7%BB%AD%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
