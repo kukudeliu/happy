@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 08:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 08:19:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [“双节”中国风 浓浓家国情](https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%8C%E8%8A%82%E2%80%9D%E4%B8%AD%E5%9B%BD%E9%A3%8E+%E6%B5%93%E6%B5%93%E5%AE%B6%E5%9B%BD%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中秋国庆假期最后一天](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李梦好猛](https://www.baidu.com/s?wd=%E6%9D%8E%E6%A2%A6%E5%A5%BD%E7%8C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [泰国枪击案凶手成绩优异沉迷游戏](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%9E%AA%E5%87%BB%E6%A1%88%E5%87%B6%E6%89%8B%E6%88%90%E7%BB%A9%E4%BC%98%E5%BC%82%E6%B2%89%E8%BF%B7%E6%B8%B8%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国庆节后机票价格断崖式下跌](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E8%8A%82%E5%90%8E%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [叙利亚军校遭袭已致66死190伤](https://www.baidu.com/s?wd=%E5%8F%99%E5%88%A9%E4%BA%9A%E5%86%9B%E6%A0%A1%E9%81%AD%E8%A2%AD%E5%B7%B2%E8%87%B466%E6%AD%BB190%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中原迷笛辟谣电缆、20万元被盗](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8E%9F%E8%BF%B7%E7%AC%9B%E8%BE%9F%E8%B0%A3%E7%94%B5%E7%BC%86%E3%80%8120%E4%B8%87%E5%85%83%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [“双节”中国风 浓浓家国情](https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%8C%E8%8A%82%E2%80%9D%E4%B8%AD%E5%9B%BD%E9%A3%8E+%E6%B5%93%E6%B5%93%E5%AE%B6%E5%9B%BD%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中秋国庆假期最后一天](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李梦好猛](https://www.baidu.com/s?wd=%E6%9D%8E%E6%A2%A6%E5%A5%BD%E7%8C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [泰国枪击案凶手成绩优异沉迷游戏](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%9E%AA%E5%87%BB%E6%A1%88%E5%87%B6%E6%89%8B%E6%88%90%E7%BB%A9%E4%BC%98%E5%BC%82%E6%B2%89%E8%BF%B7%E6%B8%B8%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国庆节后机票价格断崖式下跌](https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E8%8A%82%E5%90%8E%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [叙利亚军校遭袭已致66死190伤](https://www.baidu.com/s?wd=%E5%8F%99%E5%88%A9%E4%BA%9A%E5%86%9B%E6%A0%A1%E9%81%AD%E8%A2%AD%E5%B7%B2%E8%87%B466%E6%AD%BB190%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中原迷笛辟谣电缆、20万元被盗](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8E%9F%E8%BF%B7%E7%AC%9B%E8%BE%9F%E8%B0%A3%E7%94%B5%E7%BC%86%E3%80%8120%E4%B8%87%E5%85%83%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
