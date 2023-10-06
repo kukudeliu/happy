@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 12:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 12:27:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [杭州亚运会铭刻文化自信](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%93%AD%E5%88%BB%E6%96%87%E5%8C%96%E8%87%AA%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [台风小犬逐渐靠近广东](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%B0%8F%E7%8A%AC%E9%80%90%E6%B8%90%E9%9D%A0%E8%BF%91%E5%B9%BF%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男生带女友回家家人用牙刷扫地板缝](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%B8%A6%E5%A5%B3%E5%8F%8B%E5%9B%9E%E5%AE%B6%E5%AE%B6%E4%BA%BA%E7%94%A8%E7%89%99%E5%88%B7%E6%89%AB%E5%9C%B0%E6%9D%BF%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [普京：曾提议俄罗斯加入北约](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E6%9B%BE%E6%8F%90%E8%AE%AE%E4%BF%84%E7%BD%97%E6%96%AF%E5%8A%A0%E5%85%A5%E5%8C%97%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [四川女篮奖励三巨头每人一套房](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%A5%B3%E7%AF%AE%E5%A5%96%E5%8A%B1%E4%B8%89%E5%B7%A8%E5%A4%B4%E6%AF%8F%E4%BA%BA%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [南京一乐园充气城堡坍塌 多人被埋](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E4%B9%90%E5%9B%AD%E5%85%85%E6%B0%94%E5%9F%8E%E5%A0%A1%E5%9D%8D%E5%A1%8C+%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%9F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [普京：曾提议俄罗斯加入北约](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E6%9B%BE%E6%8F%90%E8%AE%AE%E4%BF%84%E7%BD%97%E6%96%AF%E5%8A%A0%E5%85%A5%E5%8C%97%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [诺贝尔的妻子被数学家拐跑？谣言](https://www.baidu.com/s?wd=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%9A%84%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%8B%90%E8%B7%91%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [杭州亚运会铭刻文化自信](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%93%AD%E5%88%BB%E6%96%87%E5%8C%96%E8%87%AA%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [台风小犬逐渐靠近广东](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%B0%8F%E7%8A%AC%E9%80%90%E6%B8%90%E9%9D%A0%E8%BF%91%E5%B9%BF%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男生带女友回家家人用牙刷扫地板缝](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E5%B8%A6%E5%A5%B3%E5%8F%8B%E5%9B%9E%E5%AE%B6%E5%AE%B6%E4%BA%BA%E7%94%A8%E7%89%99%E5%88%B7%E6%89%AB%E5%9C%B0%E6%9D%BF%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [普京：曾提议俄罗斯加入北约](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E6%9B%BE%E6%8F%90%E8%AE%AE%E4%BF%84%E7%BD%97%E6%96%AF%E5%8A%A0%E5%85%A5%E5%8C%97%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [四川女篮奖励三巨头每人一套房](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%A5%B3%E7%AF%AE%E5%A5%96%E5%8A%B1%E4%B8%89%E5%B7%A8%E5%A4%B4%E6%AF%8F%E4%BA%BA%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [南京一乐园充气城堡坍塌 多人被埋](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E4%B9%90%E5%9B%AD%E5%85%85%E6%B0%94%E5%9F%8E%E5%A0%A1%E5%9D%8D%E5%A1%8C+%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%9F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [普京：曾提议俄罗斯加入北约](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E6%9B%BE%E6%8F%90%E8%AE%AE%E4%BF%84%E7%BD%97%E6%96%AF%E5%8A%A0%E5%85%A5%E5%8C%97%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [诺贝尔的妻子被数学家拐跑？谣言](https://www.baidu.com/s?wd=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%9A%84%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%8B%90%E8%B7%91%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
