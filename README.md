@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 08:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 08:28:01</h4></div>
 
 > 微博  
 
 1. [周润发回应裸捐56亿港币](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B6%A6%E5%8F%91%E5%9B%9E%E5%BA%94%E8%A3%B8%E6%8D%9056%E4%BA%BF%E6%B8%AF%E5%B8%81%23&t=31&band_rank=1&Refer=top)<br />
 2. [黄景瑜不拍古装的原因](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E4%B8%8D%E6%8B%8D%E5%8F%A4%E8%A3%85%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=2&Refer=top)<br />
 3. [被亚运会的氛围可爱到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%9A%84%E6%B0%9B%E5%9B%B4%E5%8F%AF%E7%88%B1%E5%88%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [游客挖走张掖七彩丹霞景区土壤](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E6%8C%96%E8%B5%B0%E5%BC%A0%E6%8E%96%E4%B8%83%E5%BD%A9%E4%B8%B9%E9%9C%9E%E6%99%AF%E5%8C%BA%E5%9C%9F%E5%A3%A4%23&t=31&band_rank=4&Refer=top)<br />
-5. [上海4岁女童海滩走失已超24小时](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B74%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%B5%B7%E6%BB%A9%E8%B5%B0%E5%A4%B1%E5%B7%B2%E8%B6%8524%E5%B0%8F%E6%97%B6%23&t=31&band_rank=5&Refer=top)<br />
+4. [上海4岁女童海滩走失已超24小时](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B74%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%B5%B7%E6%BB%A9%E8%B5%B0%E5%A4%B1%E5%B7%B2%E8%B6%8524%E5%B0%8F%E6%97%B6%23&t=31&band_rank=4&Refer=top)<br />
+5. [游客挖走张掖七彩丹霞景区土壤](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E6%8C%96%E8%B5%B0%E5%BC%A0%E6%8E%96%E4%B8%83%E5%BD%A9%E4%B8%B9%E9%9C%9E%E6%99%AF%E5%8C%BA%E5%9C%9F%E5%A3%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [陈某煽动误导村民拿东西被刑拘](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%9F%90%E7%85%BD%E5%8A%A8%E8%AF%AF%E5%AF%BC%E6%9D%91%E6%B0%91%E6%8B%BF%E4%B8%9C%E8%A5%BF%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [瑞幸要和猫和老鼠联名了吗](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E8%A6%81%E5%92%8C%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0%E8%81%94%E5%90%8D%E4%BA%86%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [李泽锋 轻舟已过万重山](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B3%BD%E9%94%8B%20%E8%BD%BB%E8%88%9F%E5%B7%B2%E8%BF%87%E4%B8%87%E9%87%8D%E5%B1%B1&t=31&band_rank=8&Refer=top)<br />
