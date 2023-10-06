@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 20:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 20:18:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [金价连续下跌](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%BF%9E%E7%BB%AD%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [中国女排vs泰国女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦孙颖莎2比3林诗栋蒯曼](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E2%E6%AF%943%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [贝嫂 我家也是工薪阶层](https://s.weibo.com/weibo?q=%E8%B4%9D%E5%AB%82%20%E6%88%91%E5%AE%B6%E4%B9%9F%E6%98%AF%E5%B7%A5%E8%96%AA%E9%98%B6%E5%B1%82&t=31&band_rank=8&Refer=top)<br />
-9. [他从火光中走来 男主死了](https://s.weibo.com/weibo?q=%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%20%E7%94%B7%E4%B8%BB%E6%AD%BB%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [他从火光中走来 男主死了](https://s.weibo.com/weibo?q=%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%20%E7%94%B7%E4%B8%BB%E6%AD%BB%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [贝嫂 我家也是工薪阶层](https://s.weibo.com/weibo?q=%E8%B4%9D%E5%AB%82%20%E6%88%91%E5%AE%B6%E4%B9%9F%E6%98%AF%E5%B7%A5%E8%96%AA%E9%98%B6%E5%B1%82&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
