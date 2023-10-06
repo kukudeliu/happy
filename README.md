@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 15:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 15:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王牌对王牌](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C&t=31&band_rank=6&Refer=top)<br />
 7. [长相思演唱会要来了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈飞宇首次回应弄丢妖猫传的猫](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E5%BC%84%E4%B8%A2%E5%A6%96%E7%8C%AB%E4%BC%A0%E7%9A%84%E7%8C%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [徐明浩作品将在萨奇画廊展出](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%98%8E%E6%B5%A9%E4%BD%9C%E5%93%81%E5%B0%86%E5%9C%A8%E8%90%A8%E5%A5%87%E7%94%BB%E5%BB%8A%E5%B1%95%E5%87%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [新疆滤镜下素颜就很能打](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E6%BB%A4%E9%95%9C%E4%B8%8B%E7%B4%A0%E9%A2%9C%E5%B0%B1%E5%BE%88%E8%83%BD%E6%89%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
