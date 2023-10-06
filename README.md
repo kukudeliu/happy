@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 11:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 11:31:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [全红婵背了一包玩偶离开杭州](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%83%8C%E4%BA%86%E4%B8%80%E5%8C%85%E7%8E%A9%E5%81%B6%E7%A6%BB%E5%BC%80%E6%9D%AD%E5%B7%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [怎么就6号了](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E5%B0%B16%E5%8F%B7%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [江宁婆婆评南阳盗窃事件](https://s.weibo.com/weibo?q=%E6%B1%9F%E5%AE%81%E5%A9%86%E5%A9%86%E8%AF%84%E5%8D%97%E9%98%B3%E7%9B%97%E7%AA%83%E4%BA%8B%E4%BB%B6&t=31&band_rank=8&Refer=top)<br />
-9. [雅思组合](https://s.weibo.com/weibo?q=%E9%9B%85%E6%80%9D%E7%BB%84%E5%90%88&t=31&band_rank=9&Refer=top)<br />
+9. [王楚钦说孙颖莎是天才](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E5%AD%99%E9%A2%96%E8%8E%8E%E6%98%AF%E5%A4%A9%E6%89%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
