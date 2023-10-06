@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 14:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 14:03:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [警方正全力寻找上海走失女童](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%AD%A3%E5%85%A8%E5%8A%9B%E5%AF%BB%E6%89%BE%E4%B8%8A%E6%B5%B7%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2名干部流出不雅视频被停职](https://www.baidu.com/s?wd=2%E5%90%8D%E5%B9%B2%E9%83%A8%E6%B5%81%E5%87%BA%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南京一乐园充气城堡坍塌 多人被埋](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E4%B9%90%E5%9B%AD%E5%85%85%E6%B0%94%E5%9F%8E%E5%A0%A1%E5%9D%8D%E5%A1%8C+%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%9F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [龙舟比赛看台现吴京同款运动服](https://www.baidu.com/s?wd=%E9%BE%99%E8%88%9F%E6%AF%94%E8%B5%9B%E7%9C%8B%E5%8F%B0%E7%8E%B0%E5%90%B4%E4%BA%AC%E5%90%8C%E6%AC%BE%E8%BF%90%E5%8A%A8%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男孩海边落水超6天 父亲为找人腿走瘸](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%B5%B7%E8%BE%B9%E8%90%BD%E6%B0%B4%E8%B6%856%E5%A4%A9+%E7%88%B6%E4%BA%B2%E4%B8%BA%E6%89%BE%E4%BA%BA%E8%85%BF%E8%B5%B0%E7%98%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [诺贝尔的妻子被数学家拐跑？谣言](https://www.baidu.com/s?wd=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%9A%84%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%8B%90%E8%B7%91%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [警方正全力寻找上海走失女童](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%AD%A3%E5%85%A8%E5%8A%9B%E5%AF%BB%E6%89%BE%E4%B8%8A%E6%B5%B7%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2名干部流出不雅视频被停职](https://www.baidu.com/s?wd=2%E5%90%8D%E5%B9%B2%E9%83%A8%E6%B5%81%E5%87%BA%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南京一乐园充气城堡坍塌 多人被埋](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E4%B9%90%E5%9B%AD%E5%85%85%E6%B0%94%E5%9F%8E%E5%A0%A1%E5%9D%8D%E5%A1%8C+%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%9F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [龙舟比赛看台现吴京同款运动服](https://www.baidu.com/s?wd=%E9%BE%99%E8%88%9F%E6%AF%94%E8%B5%9B%E7%9C%8B%E5%8F%B0%E7%8E%B0%E5%90%B4%E4%BA%AC%E5%90%8C%E6%AC%BE%E8%BF%90%E5%8A%A8%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男孩海边落水超6天 父亲为找人腿走瘸](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%B5%B7%E8%BE%B9%E8%90%BD%E6%B0%B4%E8%B6%856%E5%A4%A9+%E7%88%B6%E4%BA%B2%E4%B8%BA%E6%89%BE%E4%BA%BA%E8%85%BF%E8%B5%B0%E7%98%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [诺贝尔的妻子被数学家拐跑？谣言](https://www.baidu.com/s?wd=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%9A%84%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%8B%90%E8%B7%91%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
