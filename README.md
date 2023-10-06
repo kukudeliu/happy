@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 08:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 09:00:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女子做职业伴娘国庆8天8场婚礼](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%81%9A%E8%81%8C%E4%B8%9A%E4%BC%B4%E5%A8%98%E5%9B%BD%E5%BA%868%E5%A4%A98%E5%9C%BA%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=5&Refer=top)<br />
 6. [李泽锋 轻舟已过万重山](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B3%BD%E9%94%8B%20%E8%BD%BB%E8%88%9F%E5%B7%B2%E8%BF%87%E4%B8%87%E9%87%8D%E5%B1%B1&t=31&band_rank=6&Refer=top)<br />
 7. [瑞幸要和猫和老鼠联名了吗](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E8%A6%81%E5%92%8C%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0%E8%81%94%E5%90%8D%E4%BA%86%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [游客挖走张掖七彩丹霞景区土壤](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E6%8C%96%E8%B5%B0%E5%BC%A0%E6%8E%96%E4%B8%83%E5%BD%A9%E4%B8%B9%E9%9C%9E%E6%99%AF%E5%8C%BA%E5%9C%9F%E5%A3%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [全红婵唯一的炸鱼方式](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%94%AF%E4%B8%80%E7%9A%84%E7%82%B8%E9%B1%BC%E6%96%B9%E5%BC%8F%23&t=31&band_rank=9&Refer=top)<br />
+8. [全红婵唯一的炸鱼方式](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%94%AF%E4%B8%80%E7%9A%84%E7%82%B8%E9%B1%BC%E6%96%B9%E5%BC%8F%23&t=31&band_rank=8&Refer=top)<br />
+9. [游客挖走张掖七彩丹霞景区土壤](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E6%8C%96%E8%B5%B0%E5%BC%A0%E6%8E%96%E4%B8%83%E5%BD%A9%E4%B8%B9%E9%9C%9E%E6%99%AF%E5%8C%BA%E5%9C%9F%E5%A3%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
