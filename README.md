@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 22:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 22:25:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [秋日里的中国大地有多少种色彩](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E6%97%A5%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%9C%B0%E6%9C%89%E5%A4%9A%E5%B0%91%E7%A7%8D%E8%89%B2%E5%BD%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [官方通报已婚女子陪领导喝酒醉卧街头](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%AD%90%E9%99%AA%E9%A2%86%E5%AF%BC%E5%96%9D%E9%85%92%E9%86%89%E5%8D%A7%E8%A1%97%E5%A4%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [上海失踪4岁女童母亲发声](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A4%B1%E8%B8%AA4%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
-6. [儿子说朋友挂了被父亲举报吸毒](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E8%AF%B4%E6%9C%8B%E5%8F%8B%E6%8C%82%E4%BA%86%E8%A2%AB%E7%88%B6%E4%BA%B2%E4%B8%BE%E6%8A%A5%E5%90%B8%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
-7. [老乡鸡](https://s.weibo.com/weibo?q=%E8%80%81%E4%B9%A1%E9%B8%A1&t=31&band_rank=7&Refer=top)<br />
+6. [老乡鸡](https://s.weibo.com/weibo?q=%E8%80%81%E4%B9%A1%E9%B8%A1&t=31&band_rank=6&Refer=top)<br />
+7. [儿子说朋友挂了被父亲举报吸毒](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E8%AF%B4%E6%9C%8B%E5%8F%8B%E6%8C%82%E4%BA%86%E8%A2%AB%E7%88%B6%E4%BA%B2%E4%B8%BE%E6%8A%A5%E5%90%B8%E6%AF%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴 万渣朝凰](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E4%B8%87%E6%B8%A3%E6%9C%9D%E5%87%B0&t=31&band_rank=8&Refer=top)<br />
 9. [黄景瑜和网友决战紫禁之巅](https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%AF%E7%91%9C%E5%92%8C%E7%BD%91%E5%8F%8B%E5%86%B3%E6%88%98%E7%B4%AB%E7%A6%81%E4%B9%8B%E5%B7%85&t=31&band_rank=9&Refer=top)<br />
 
