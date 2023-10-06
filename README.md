@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 08:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 08:14:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [瑞幸要和猫和老鼠联名了吗](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E8%A6%81%E5%92%8C%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0%E8%81%94%E5%90%8D%E4%BA%86%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [李泽锋 轻舟已过万重山](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B3%BD%E9%94%8B%20%E8%BD%BB%E8%88%9F%E5%B7%B2%E8%BF%87%E4%B8%87%E9%87%8D%E5%B1%B1&t=31&band_rank=7&Refer=top)<br />
 8. [徐州一婚礼场地被村民连夜搬空](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%B7%9E%E4%B8%80%E5%A9%9A%E7%A4%BC%E5%9C%BA%E5%9C%B0%E8%A2%AB%E6%9D%91%E6%B0%91%E8%BF%9E%E5%A4%9C%E6%90%AC%E7%A9%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国队首次摘得亚运攀岩金牌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E6%AC%A1%E6%91%98%E5%BE%97%E4%BA%9A%E8%BF%90%E6%94%80%E5%B2%A9%E9%87%91%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [全红婵唯一的炸鱼方式](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%94%AF%E4%B8%80%E7%9A%84%E7%82%B8%E9%B1%BC%E6%96%B9%E5%BC%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
