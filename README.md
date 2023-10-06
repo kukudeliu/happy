@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 13:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 13:58:01</h4></div>
 
 > 微博  
 
-1. [吴京探班 霍思燕泪洒 张艺谋震惊](https://s.weibo.com/weibo?q=%E5%90%B4%E4%BA%AC%E6%8E%A2%E7%8F%AD%20%E9%9C%8D%E6%80%9D%E7%87%95%E6%B3%AA%E6%B4%92%20%E5%BC%A0%E8%89%BA%E8%B0%8B%E9%9C%87%E6%83%8A&t=31&band_rank=1&Refer=top)<br />
-2. [日本流水面致892人中毒](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B5%81%E6%B0%B4%E9%9D%A2%E8%87%B4892%E4%BA%BA%E4%B8%AD%E6%AF%92%23&t=31&band_rank=2&Refer=top)<br />
+1. [日本流水面致892人中毒](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B5%81%E6%B0%B4%E9%9D%A2%E8%87%B4892%E4%BA%BA%E4%B8%AD%E6%AF%92%23&t=31&band_rank=1&Refer=top)<br />
+2. [吴京探班 霍思燕泪洒 张艺谋震惊](https://s.weibo.com/weibo?q=%E5%90%B4%E4%BA%AC%E6%8E%A2%E7%8F%AD%20%E9%9C%8D%E6%80%9D%E7%87%95%E6%B3%AA%E6%B4%92%20%E5%BC%A0%E8%89%BA%E8%B0%8B%E9%9C%87%E6%83%8A&t=31&band_rank=2&Refer=top)<br />
 3. [他们是最好的队友也是最好的对手](https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E9%98%9F%E5%8F%8B%E4%B9%9F%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E5%AF%B9%E6%89%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [上海4岁女童海滩走失父亲发声](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B74%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%B5%B7%E6%BB%A9%E8%B5%B0%E5%A4%B1%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [8天很短7天很长](https://s.weibo.com/weibo?q=%238%E5%A4%A9%E5%BE%88%E7%9F%AD7%E5%A4%A9%E5%BE%88%E9%95%BF%23&t=31&band_rank=5&Refer=top)<br />
