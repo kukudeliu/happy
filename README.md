@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 21:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 21:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [金价连续下跌](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%BF%9E%E7%BB%AD%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [王丽坤戴面具32集终于摘掉了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%BD%E5%9D%A4%E6%88%B4%E9%9D%A2%E5%85%B732%E9%9B%86%E7%BB%88%E4%BA%8E%E6%91%98%E6%8E%89%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [上海失踪4岁女童母亲发声](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A4%B1%E8%B8%AA4%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [王楚钦吸氧](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%90%B8%E6%B0%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [老乡鸡](https://s.weibo.com/weibo?q=%E8%80%81%E4%B9%A1%E9%B8%A1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
