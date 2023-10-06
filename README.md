@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 00:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 00:03:01</h4></div>
 
 > 微博  
 
@@ -18,10 +18,10 @@
 > 百度  
 
 1. [探人类起源 传文明之光](https://www.baidu.com/s?wd=%E6%8E%A2%E4%BA%BA%E7%B1%BB%E8%B5%B7%E6%BA%90+%E4%BC%A0%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [8.26亿人次出游花了7534.3亿元](https://www.baidu.com/s?wd=8.26%E4%BA%BF%E4%BA%BA%E6%AC%A1%E5%87%BA%E6%B8%B8%E8%8A%B1%E4%BA%867534.3%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [小伙说朋友挂了被亲爹举报吸毒](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%AF%B4%E6%9C%8B%E5%8F%8B%E6%8C%82%E4%BA%86%E8%A2%AB%E4%BA%B2%E7%88%B9%E4%B8%BE%E6%8A%A5%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [假期结束！今年法定节假日过完了](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E7%BB%93%E6%9D%9F%EF%BC%81%E4%BB%8A%E5%B9%B4%E6%B3%95%E5%AE%9A%E8%8A%82%E5%81%87%E6%97%A5%E8%BF%87%E5%AE%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [姚明知道自己被叫做226](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%8F%AB%E5%81%9A226&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“双节”中国风 浓浓家国情](https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%8C%E8%8A%82%E2%80%9D%E4%B8%AD%E5%9B%BD%E9%A3%8E+%E6%B5%93%E6%B5%93%E5%AE%B6%E5%9B%BD%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [姚明知道自己被叫做226](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%8F%AB%E5%81%9A226&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [8.26亿人次出游花了7534.3亿元](https://www.baidu.com/s?wd=8.26%E4%BA%BF%E4%BA%BA%E6%AC%A1%E5%87%BA%E6%B8%B8%E8%8A%B1%E4%BA%867534.3%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [法拉第未来：将向贾跃亭交付车辆](https://www.baidu.com/s?wd=%E6%B3%95%E6%8B%89%E7%AC%AC%E6%9C%AA%E6%9D%A5%EF%BC%9A%E5%B0%86%E5%90%91%E8%B4%BE%E8%B7%83%E4%BA%AD%E4%BA%A4%E4%BB%98%E8%BD%A6%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [游客嫌游船贵被骂矮穷矬？重庆通报](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%AB%8C%E6%B8%B8%E8%88%B9%E8%B4%B5%E8%A2%AB%E9%AA%82%E7%9F%AE%E7%A9%B7%E7%9F%AC%EF%BC%9F%E9%87%8D%E5%BA%86%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [老师订10余套演出服用完立马退货](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E8%AE%A210%E4%BD%99%E5%A5%97%E6%BC%94%E5%87%BA%E6%9C%8D%E7%94%A8%E5%AE%8C%E7%AB%8B%E9%A9%AC%E9%80%80%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,10 +30,10 @@
 > 哔哩哔哩  
 
 1. [探人类起源 传文明之光](https://www.baidu.com/s?wd=%E6%8E%A2%E4%BA%BA%E7%B1%BB%E8%B5%B7%E6%BA%90+%E4%BC%A0%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [8.26亿人次出游花了7534.3亿元](https://www.baidu.com/s?wd=8.26%E4%BA%BF%E4%BA%BA%E6%AC%A1%E5%87%BA%E6%B8%B8%E8%8A%B1%E4%BA%867534.3%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [小伙说朋友挂了被亲爹举报吸毒](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%AF%B4%E6%9C%8B%E5%8F%8B%E6%8C%82%E4%BA%86%E8%A2%AB%E4%BA%B2%E7%88%B9%E4%B8%BE%E6%8A%A5%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [假期结束！今年法定节假日过完了](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E7%BB%93%E6%9D%9F%EF%BC%81%E4%BB%8A%E5%B9%B4%E6%B3%95%E5%AE%9A%E8%8A%82%E5%81%87%E6%97%A5%E8%BF%87%E5%AE%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [姚明知道自己被叫做226](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%8F%AB%E5%81%9A226&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“双节”中国风 浓浓家国情](https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%8C%E8%8A%82%E2%80%9D%E4%B8%AD%E5%9B%BD%E9%A3%8E+%E6%B5%93%E6%B5%93%E5%AE%B6%E5%9B%BD%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [姚明知道自己被叫做226](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%8F%AB%E5%81%9A226&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [8.26亿人次出游花了7534.3亿元](https://www.baidu.com/s?wd=8.26%E4%BA%BF%E4%BA%BA%E6%AC%A1%E5%87%BA%E6%B8%B8%E8%8A%B1%E4%BA%867534.3%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [法拉第未来：将向贾跃亭交付车辆](https://www.baidu.com/s?wd=%E6%B3%95%E6%8B%89%E7%AC%AC%E6%9C%AA%E6%9D%A5%EF%BC%9A%E5%B0%86%E5%90%91%E8%B4%BE%E8%B7%83%E4%BA%AD%E4%BA%A4%E4%BB%98%E8%BD%A6%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [游客嫌游船贵被骂矮穷矬？重庆通报](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%AB%8C%E6%B8%B8%E8%88%B9%E8%B4%B5%E8%A2%AB%E9%AA%82%E7%9F%AE%E7%A9%B7%E7%9F%AC%EF%BC%9F%E9%87%8D%E5%BA%86%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [老师订10余套演出服用完立马退货](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E8%AE%A210%E4%BD%99%E5%A5%97%E6%BC%94%E5%87%BA%E6%9C%8D%E7%94%A8%E5%AE%8C%E7%AB%8B%E9%A9%AC%E9%80%80%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
