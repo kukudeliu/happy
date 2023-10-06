@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 17:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 17:17:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国男篮vs中国台北男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E7%94%B7%E7%AF%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本流水面致892人中毒](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B5%81%E6%B0%B4%E9%9D%A2%E8%87%B4892%E4%BA%BA%E4%B8%AD%E6%AF%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [Jennie新歌封面是武内直子画的](https://s.weibo.com/weibo?q=%23Jennie%E6%96%B0%E6%AD%8C%E5%B0%81%E9%9D%A2%E6%98%AF%E6%AD%A6%E5%86%85%E7%9B%B4%E5%AD%90%E7%94%BB%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [经期不能做的6件事](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E6%9C%9F%E4%B8%8D%E8%83%BD%E5%81%9A%E7%9A%846%E4%BB%B6%E4%BA%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国女足7比0胜乌兹别克斯坦队](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B37%E6%AF%940%E8%83%9C%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
