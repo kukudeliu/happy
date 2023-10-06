@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 08:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 08:45:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [中秋国庆假期最后一天](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李梦好猛](https://www.baidu.com/s?wd=%E6%9D%8E%E6%A2%A6%E5%A5%BD%E7%8C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川女篮奖励三巨头每人一套房](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%A5%B3%E7%AF%AE%E5%A5%96%E5%8A%B1%E4%B8%89%E5%B7%A8%E5%A4%B4%E6%AF%8F%E4%BA%BA%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [父母给返程儿子后备箱塞了个菜市场](https://www.baidu.com/s?wd=%E7%88%B6%E6%AF%8D%E7%BB%99%E8%BF%94%E7%A8%8B%E5%84%BF%E5%AD%90%E5%90%8E%E5%A4%87%E7%AE%B1%E5%A1%9E%E4%BA%86%E4%B8%AA%E8%8F%9C%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [著名艺术家陈淑光逝世](https://www.baidu.com/s?wd=%E8%91%97%E5%90%8D%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%99%88%E6%B7%91%E5%85%89%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中原迷笛辟谣电缆、20万元被盗](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8E%9F%E8%BF%B7%E7%AC%9B%E8%BE%9F%E8%B0%A3%E7%94%B5%E7%BC%86%E3%80%8120%E4%B8%87%E5%85%83%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [中秋国庆假期最后一天](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李梦好猛](https://www.baidu.com/s?wd=%E6%9D%8E%E6%A2%A6%E5%A5%BD%E7%8C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川女篮奖励三巨头每人一套房](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%A5%B3%E7%AF%AE%E5%A5%96%E5%8A%B1%E4%B8%89%E5%B7%A8%E5%A4%B4%E6%AF%8F%E4%BA%BA%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [父母给返程儿子后备箱塞了个菜市场](https://www.baidu.com/s?wd=%E7%88%B6%E6%AF%8D%E7%BB%99%E8%BF%94%E7%A8%8B%E5%84%BF%E5%AD%90%E5%90%8E%E5%A4%87%E7%AE%B1%E5%A1%9E%E4%BA%86%E4%B8%AA%E8%8F%9C%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [著名艺术家陈淑光逝世](https://www.baidu.com/s?wd=%E8%91%97%E5%90%8D%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%99%88%E6%B7%91%E5%85%89%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中原迷笛辟谣电缆、20万元被盗](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8E%9F%E8%BF%B7%E7%AC%9B%E8%BE%9F%E8%B0%A3%E7%94%B5%E7%BC%86%E3%80%8120%E4%B8%87%E5%85%83%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
