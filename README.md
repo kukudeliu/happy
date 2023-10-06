@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 18:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-06 18:11:01</h4></div>
 
 > 微博  
 
 1. [上海警方通报4岁女童在海边走失](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A54%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E6%B5%B7%E8%BE%B9%E8%B5%B0%E5%A4%B1%23&t=31&band_rank=1&Refer=top)<br />
 2. [金价连续下跌](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%BF%9E%E7%BB%AD%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=2&Refer=top)<br />
 3. [返程行李箱满载快乐与爱](https://s.weibo.com/weibo?q=%23%E8%BF%94%E7%A8%8B%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%BB%A1%E8%BD%BD%E5%BF%AB%E4%B9%90%E4%B8%8E%E7%88%B1%23&t=31&band_rank=3&Refer=top)<br />
-4. [中国女足队员集体向水庆霞鞠躬](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E9%98%9F%E5%91%98%E9%9B%86%E4%BD%93%E5%90%91%E6%B0%B4%E5%BA%86%E9%9C%9E%E9%9E%A0%E8%BA%AC%23&t=31&band_rank=4&Refer=top)<br />
+4. [中国男篮季军](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%AD%A3%E5%86%9B%23&t=31&band_rank=4&Refer=top)<br />
 5. [王楚钦孙颖莎出战混双](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E5%87%BA%E6%88%98%E6%B7%B7%E5%8F%8C%23&t=31&band_rank=5&Refer=top)<br />
-6. [中国男篮季军](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%AD%A3%E5%86%9B%23&t=31&band_rank=6&Refer=top)<br />
-7. [上海4岁女童海滩走失父亲发声](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B74%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%B5%B7%E6%BB%A9%E8%B5%B0%E5%A4%B1%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
+6. [上海4岁女童海滩走失父亲发声](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B74%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%B5%B7%E6%BB%A9%E8%B5%B0%E5%A4%B1%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
+7. [中国女足队员集体向水庆霞鞠躬](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E9%98%9F%E5%91%98%E9%9B%86%E4%BD%93%E5%90%91%E6%B0%B4%E5%BA%86%E9%9C%9E%E9%9E%A0%E8%BA%AC%23&t=31&band_rank=7&Refer=top)<br />
 8. [南阳女主持人含泪控诉](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B3%E5%A5%B3%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%90%AB%E6%B3%AA%E6%8E%A7%E8%AF%89%23&t=31&band_rank=8&Refer=top)<br />
 9. [上海失踪4岁女童母亲发声](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A4%B1%E8%B8%AA4%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
 
