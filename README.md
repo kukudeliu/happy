@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 17:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 17:51:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [“亚运数字火炬人”有名字了](https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%9A%E8%BF%90%E6%95%B0%E5%AD%97%E7%81%AB%E7%82%AC%E4%BA%BA%E2%80%9D%E6%9C%89%E5%90%8D%E5%AD%97%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杜兆才被双开：靠足球吃足球](https://www.baidu.com/s?wd=%E6%9D%9C%E5%85%86%E6%89%8D%E8%A2%AB%E5%8F%8C%E5%BC%80%EF%BC%9A%E9%9D%A0%E8%B6%B3%E7%90%83%E5%90%83%E8%B6%B3%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚明回应为何换掉杜锋](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%95%E6%8D%A2%E6%8E%89%E6%9D%9C%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [马丽新片水饺皇后开机](https://www.baidu.com/s?wd=%E9%A9%AC%E4%B8%BD%E6%96%B0%E7%89%87%E6%B0%B4%E9%A5%BA%E7%9A%87%E5%90%8E%E5%BC%80%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国内油价预计将迎来大幅下调](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E9%A2%84%E8%AE%A1%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国内油价预计将迎来大幅下调](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E9%A2%84%E8%AE%A1%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家建议推行2.5天休息日](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E6%8E%A8%E8%A1%8C2.5%E5%A4%A9%E4%BC%91%E6%81%AF%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [节后A股试行T+0传闻不属实](https://www.baidu.com/s?wd=%E8%8A%82%E5%90%8EA%E8%82%A1%E8%AF%95%E8%A1%8CT%2B0%E4%BC%A0%E9%97%BB%E4%B8%8D%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [“亚运数字火炬人”有名字了](https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%9A%E8%BF%90%E6%95%B0%E5%AD%97%E7%81%AB%E7%82%AC%E4%BA%BA%E2%80%9D%E6%9C%89%E5%90%8D%E5%AD%97%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杜兆才被双开：靠足球吃足球](https://www.baidu.com/s?wd=%E6%9D%9C%E5%85%86%E6%89%8D%E8%A2%AB%E5%8F%8C%E5%BC%80%EF%BC%9A%E9%9D%A0%E8%B6%B3%E7%90%83%E5%90%83%E8%B6%B3%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚明回应为何换掉杜锋](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%95%E6%8D%A2%E6%8E%89%E6%9D%9C%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [马丽新片水饺皇后开机](https://www.baidu.com/s?wd=%E9%A9%AC%E4%B8%BD%E6%96%B0%E7%89%87%E6%B0%B4%E9%A5%BA%E7%9A%87%E5%90%8E%E5%BC%80%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国内油价预计将迎来大幅下调](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E9%A2%84%E8%AE%A1%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国内油价预计将迎来大幅下调](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E9%A2%84%E8%AE%A1%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家建议推行2.5天休息日](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E6%8E%A8%E8%A1%8C2.5%E5%A4%A9%E4%BC%91%E6%81%AF%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [节后A股试行T+0传闻不属实](https://www.baidu.com/s?wd=%E8%8A%82%E5%90%8EA%E8%82%A1%E8%AF%95%E8%A1%8CT%2B0%E4%BC%A0%E9%97%BB%E4%B8%8D%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
