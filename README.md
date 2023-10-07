@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 22:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 22:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [六安地震](https://s.weibo.com/weibo?q=%E5%85%AD%E5%AE%89%E5%9C%B0%E9%9C%87&t=31&band_rank=6&Refer=top)<br />
 7. [研究证实怀孕会部分重置准妈妈大脑](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E8%AF%81%E5%AE%9E%E6%80%80%E5%AD%95%E4%BC%9A%E9%83%A8%E5%88%86%E9%87%8D%E7%BD%AE%E5%87%86%E5%A6%88%E5%A6%88%E5%A4%A7%E8%84%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [韩国男足夺得亚运冠军](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E8%B6%B3%E5%A4%BA%E5%BE%97%E4%BA%9A%E8%BF%90%E5%86%A0%E5%86%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国女排夺冠](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%A4%BA%E5%86%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈雨菲拼到抽筋](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B2%E6%8B%BC%E5%88%B0%E6%8A%BD%E7%AD%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [中国队200金属于中国象棋](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F200%E9%87%91%E5%B1%9E%E4%BA%8E%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子在澡堂扎猛子头缝11针](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%BE%A1%E5%A0%82%E6%89%8E%E7%8C%9B%E5%AD%90%E5%A4%B4%E7%BC%9D11%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [5名学生私自攀爬玉龙雪山被困](https://www.baidu.com/s?wd=5%E5%90%8D%E5%AD%A6%E7%94%9F%E7%A7%81%E8%87%AA%E6%94%80%E7%88%AC%E7%8E%89%E9%BE%99%E9%9B%AA%E5%B1%B1%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [消息称38岁私募董事长系意外身亡](https://www.baidu.com/s?wd=%E6%B6%88%E6%81%AF%E7%A7%B038%E5%B2%81%E7%A7%81%E5%8B%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E7%B3%BB%E6%84%8F%E5%A4%96%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男孩车上补作业本子被风吹走](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%BD%A6%E4%B8%8A%E8%A1%A5%E4%BD%9C%E4%B8%9A%E6%9C%AC%E5%AD%90%E8%A2%AB%E9%A3%8E%E5%90%B9%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [节后A股试行T+0传闻不属实](https://www.baidu.com/s?wd=%E8%8A%82%E5%90%8EA%E8%82%A1%E8%AF%95%E8%A1%8CT%2B0%E4%BC%A0%E9%97%BB%E4%B8%8D%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [中国队200金属于中国象棋](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F200%E9%87%91%E5%B1%9E%E4%BA%8E%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子在澡堂扎猛子头缝11针](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%BE%A1%E5%A0%82%E6%89%8E%E7%8C%9B%E5%AD%90%E5%A4%B4%E7%BC%9D11%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [5名学生私自攀爬玉龙雪山被困](https://www.baidu.com/s?wd=5%E5%90%8D%E5%AD%A6%E7%94%9F%E7%A7%81%E8%87%AA%E6%94%80%E7%88%AC%E7%8E%89%E9%BE%99%E9%9B%AA%E5%B1%B1%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [消息称38岁私募董事长系意外身亡](https://www.baidu.com/s?wd=%E6%B6%88%E6%81%AF%E7%A7%B038%E5%B2%81%E7%A7%81%E5%8B%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E7%B3%BB%E6%84%8F%E5%A4%96%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男孩车上补作业本子被风吹走](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%BD%A6%E4%B8%8A%E8%A1%A5%E4%BD%9C%E4%B8%9A%E6%9C%AC%E5%AD%90%E8%A2%AB%E9%A3%8E%E5%90%B9%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [节后A股试行T+0传闻不属实](https://www.baidu.com/s?wd=%E8%8A%82%E5%90%8EA%E8%82%A1%E8%AF%95%E8%A1%8CT%2B0%E4%BC%A0%E9%97%BB%E4%B8%8D%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
