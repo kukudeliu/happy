@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 09:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 09:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女孩买胸贴女店员叠小票保护隐私](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B9%B0%E8%83%B8%E8%B4%B4%E5%A5%B3%E5%BA%97%E5%91%98%E5%8F%A0%E5%B0%8F%E7%A5%A8%E4%BF%9D%E6%8A%A4%E9%9A%90%E7%A7%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [不想上班](https://s.weibo.com/weibo?q=%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD&t=31&band_rank=7&Refer=top)<br />
 8. [半夜醒来时不要看时间](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E5%A4%9C%E9%86%92%E6%9D%A5%E6%97%B6%E4%B8%8D%E8%A6%81%E7%9C%8B%E6%97%B6%E9%97%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [南阳给了我体面](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B3%E7%BB%99%E4%BA%86%E6%88%91%E4%BD%93%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈飞宇说魏大勋第一场戏紧张到疯狂喝水](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E8%AF%B4%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%88%8F%E7%B4%A7%E5%BC%A0%E5%88%B0%E7%96%AF%E7%8B%82%E5%96%9D%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
