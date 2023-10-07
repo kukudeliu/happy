@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 23:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 23:24:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [“亚运数字火炬人”有名字了](https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%9A%E8%BF%90%E6%95%B0%E5%AD%97%E7%81%AB%E7%82%AC%E4%BA%BA%E2%80%9D%E6%9C%89%E5%90%8D%E5%AD%97%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国队200金属于中国象棋](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F200%E9%87%91%E5%B1%9E%E4%BA%8E%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被周鸿祎怒喷服务差 同程商旅回应](https://www.baidu.com/s?wd=%E8%A2%AB%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%80%92%E5%96%B7%E6%9C%8D%E5%8A%A1%E5%B7%AE+%E5%90%8C%E7%A8%8B%E5%95%86%E6%97%85%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [5名学生私自攀爬玉龙雪山被困](https://www.baidu.com/s?wd=5%E5%90%8D%E5%AD%A6%E7%94%9F%E7%A7%81%E8%87%AA%E6%94%80%E7%88%AC%E7%8E%89%E9%BE%99%E9%9B%AA%E5%B1%B1%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国女子泰酒店坠亡 疑多次寻死](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%B3%B0%E9%85%92%E5%BA%97%E5%9D%A0%E4%BA%A1+%E7%96%91%E5%A4%9A%E6%AC%A1%E5%AF%BB%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子在澡堂扎猛子头缝11针](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%BE%A1%E5%A0%82%E6%89%8E%E7%8C%9B%E5%AD%90%E5%A4%B4%E7%BC%9D11%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [节后A股试行T+0传闻不属实](https://www.baidu.com/s?wd=%E8%8A%82%E5%90%8EA%E8%82%A1%E8%AF%95%E8%A1%8CT%2B0%E4%BC%A0%E9%97%BB%E4%B8%8D%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [“亚运数字火炬人”有名字了](https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%9A%E8%BF%90%E6%95%B0%E5%AD%97%E7%81%AB%E7%82%AC%E4%BA%BA%E2%80%9D%E6%9C%89%E5%90%8D%E5%AD%97%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国队200金属于中国象棋](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F200%E9%87%91%E5%B1%9E%E4%BA%8E%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被周鸿祎怒喷服务差 同程商旅回应](https://www.baidu.com/s?wd=%E8%A2%AB%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%80%92%E5%96%B7%E6%9C%8D%E5%8A%A1%E5%B7%AE+%E5%90%8C%E7%A8%8B%E5%95%86%E6%97%85%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [5名学生私自攀爬玉龙雪山被困](https://www.baidu.com/s?wd=5%E5%90%8D%E5%AD%A6%E7%94%9F%E7%A7%81%E8%87%AA%E6%94%80%E7%88%AC%E7%8E%89%E9%BE%99%E9%9B%AA%E5%B1%B1%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国女子泰酒店坠亡 疑多次寻死](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%B3%B0%E9%85%92%E5%BA%97%E5%9D%A0%E4%BA%A1+%E7%96%91%E5%A4%9A%E6%AC%A1%E5%AF%BB%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子在澡堂扎猛子头缝11针](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%BE%A1%E5%A0%82%E6%89%8E%E7%8C%9B%E5%AD%90%E5%A4%B4%E7%BC%9D11%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [节后A股试行T+0传闻不属实](https://www.baidu.com/s?wd=%E8%8A%82%E5%90%8EA%E8%82%A1%E8%AF%95%E8%A1%8CT%2B0%E4%BC%A0%E9%97%BB%E4%B8%8D%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
