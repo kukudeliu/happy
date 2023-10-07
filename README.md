@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 13:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 13:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为什么睡觉用zzz表示](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9D%A1%E8%A7%89%E7%94%A8zzz%E8%A1%A8%E7%A4%BA&t=31&band_rank=6&Refer=top)<br />
 7. [Yamy郭颖签约少城时代](https://s.weibo.com/weibo?q=%23Yamy%E9%83%AD%E9%A2%96%E7%AD%BE%E7%BA%A6%E5%B0%91%E5%9F%8E%E6%97%B6%E4%BB%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子花3.5扫共享单车从上海骑到苏州](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B13.5%E6%89%AB%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E4%BB%8E%E4%B8%8A%E6%B5%B7%E9%AA%91%E5%88%B0%E8%8B%8F%E5%B7%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [第一次见女主是癞蛤蟆的](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%A5%B3%E4%B8%BB%E6%98%AF%E7%99%9E%E8%9B%A4%E8%9F%86%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [邓为首部男主剧](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E9%A6%96%E9%83%A8%E7%94%B7%E4%B8%BB%E5%89%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
