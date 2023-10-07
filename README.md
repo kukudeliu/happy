@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 13:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 13:27:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [救援队分析上海4岁女童走失情况](https://s.weibo.com/weibo?q=%23%E6%95%91%E6%8F%B4%E9%98%9F%E5%88%86%E6%9E%90%E4%B8%8A%E6%B5%B74%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%B5%B0%E5%A4%B1%E6%83%85%E5%86%B5%23&t=31&band_rank=5&Refer=top)<br />
 6. [为什么睡觉用zzz表示](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9D%A1%E8%A7%89%E7%94%A8zzz%E8%A1%A8%E7%A4%BA&t=31&band_rank=6&Refer=top)<br />
 7. [女子花3.5扫共享单车从上海骑到苏州](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B13.5%E6%89%AB%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E4%BB%8E%E4%B8%8A%E6%B5%B7%E9%AA%91%E5%88%B0%E8%8B%8F%E5%B7%9E%23&t=31&band_rank=7&Refer=top)<br />
-8. [Yamy郭颖签约少城时代](https://s.weibo.com/weibo?q=%23Yamy%E9%83%AD%E9%A2%96%E7%AD%BE%E7%BA%A6%E5%B0%91%E5%9F%8E%E6%97%B6%E4%BB%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [邓为首部男主剧](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E9%A6%96%E9%83%A8%E7%94%B7%E4%B8%BB%E5%89%A7&t=31&band_rank=9&Refer=top)<br />
+8. [邓为首部男主剧](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E9%A6%96%E9%83%A8%E7%94%B7%E4%B8%BB%E5%89%A7&t=31&band_rank=8&Refer=top)<br />
+9. [Yamy郭颖签约少城时代](https://s.weibo.com/weibo?q=%23Yamy%E9%83%AD%E9%A2%96%E7%AD%BE%E7%BA%A6%E5%B0%91%E5%9F%8E%E6%97%B6%E4%BB%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
