@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 08:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 08:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [8.26亿人次出游花了7534.3亿元](https://www.baidu.com/s?wd=8.26%E4%BA%BF%E4%BA%BA%E6%AC%A1%E5%87%BA%E6%B8%B8%E8%8A%B1%E4%BA%867534.3%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大妈偷走榴莲嫌是生的找店家退钱](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E5%81%B7%E8%B5%B0%E6%A6%B4%E8%8E%B2%E5%AB%8C%E6%98%AF%E7%94%9F%E7%9A%84%E6%89%BE%E5%BA%97%E5%AE%B6%E9%80%80%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女童失联 父亲为何独留孩子在海边？](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E5%A4%B1%E8%81%94+%E7%88%B6%E4%BA%B2%E4%B8%BA%E4%BD%95%E7%8B%AC%E7%95%99%E5%AD%A9%E5%AD%90%E5%9C%A8%E6%B5%B7%E8%BE%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [38岁老师被骗百万仍想和骗子结婚](https://www.baidu.com/s?wd=38%E5%B2%81%E8%80%81%E5%B8%88%E8%A2%AB%E9%AA%97%E7%99%BE%E4%B8%87%E4%BB%8D%E6%83%B3%E5%92%8C%E9%AA%97%E5%AD%90%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [赵睿说抱歉给大家添堵了](https://www.baidu.com/s?wd=%E8%B5%B5%E7%9D%BF%E8%AF%B4%E6%8A%B1%E6%AD%89%E7%BB%99%E5%A4%A7%E5%AE%B6%E6%B7%BB%E5%A0%B5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [婚礼场地被村民搬空?当地:误会](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E5%9C%BA%E5%9C%B0%E8%A2%AB%E6%9D%91%E6%B0%91%E6%90%AC%E7%A9%BA%3F%E5%BD%93%E5%9C%B0%3A%E8%AF%AF%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [8.26亿人次出游花了7534.3亿元](https://www.baidu.com/s?wd=8.26%E4%BA%BF%E4%BA%BA%E6%AC%A1%E5%87%BA%E6%B8%B8%E8%8A%B1%E4%BA%867534.3%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大妈偷走榴莲嫌是生的找店家退钱](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E5%81%B7%E8%B5%B0%E6%A6%B4%E8%8E%B2%E5%AB%8C%E6%98%AF%E7%94%9F%E7%9A%84%E6%89%BE%E5%BA%97%E5%AE%B6%E9%80%80%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女童失联 父亲为何独留孩子在海边？](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E5%A4%B1%E8%81%94+%E7%88%B6%E4%BA%B2%E4%B8%BA%E4%BD%95%E7%8B%AC%E7%95%99%E5%AD%A9%E5%AD%90%E5%9C%A8%E6%B5%B7%E8%BE%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [38岁老师被骗百万仍想和骗子结婚](https://www.baidu.com/s?wd=38%E5%B2%81%E8%80%81%E5%B8%88%E8%A2%AB%E9%AA%97%E7%99%BE%E4%B8%87%E4%BB%8D%E6%83%B3%E5%92%8C%E9%AA%97%E5%AD%90%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [赵睿说抱歉给大家添堵了](https://www.baidu.com/s?wd=%E8%B5%B5%E7%9D%BF%E8%AF%B4%E6%8A%B1%E6%AD%89%E7%BB%99%E5%A4%A7%E5%AE%B6%E6%B7%BB%E5%A0%B5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [婚礼场地被村民搬空?当地:误会](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E5%9C%BA%E5%9C%B0%E8%A2%AB%E6%9D%91%E6%B0%91%E6%90%AC%E7%A9%BA%3F%E5%BD%93%E5%9C%B0%3A%E8%AF%AF%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
