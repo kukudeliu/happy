@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 17:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 17:37:01</h4></div>
 
 > 微博  
 
 1. [花西子审美](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%AE%A1%E7%BE%8E%23&t=31&band_rank=1&Refer=top)<br />
 2. [仅0.4%主播月收入超10万](https://s.weibo.com/weibo?q=%23%E4%BB%850.4%25%E4%B8%BB%E6%92%AD%E6%9C%88%E6%94%B6%E5%85%A5%E8%B6%8510%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
-3. [杭州亚运会明天闭幕](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%98%8E%E5%A4%A9%E9%97%AD%E5%B9%95%23&t=31&band_rank=3&Refer=top)<br />
+3. [杭州亚运已打破15项世界纪录](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E5%B7%B2%E6%89%93%E7%A0%B415%E9%A1%B9%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&t=31&band_rank=3&Refer=top)<br />
 4. [失踪女童母亲曾催丈夫回去找女儿](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%B8%AA%E5%A5%B3%E7%AB%A5%E6%AF%8D%E4%BA%B2%E6%9B%BE%E5%82%AC%E4%B8%88%E5%A4%AB%E5%9B%9E%E5%8E%BB%E6%89%BE%E5%A5%B3%E5%84%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [林高远17比15张本智和](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C17%E6%AF%9415%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [张杰谈签下杨和苏](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%B0%88%E7%AD%BE%E4%B8%8B%E6%9D%A8%E5%92%8C%E8%8B%8F%23&t=31&band_rank=6&Refer=top)<br />
