@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 06:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 06:19:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [“亚运数字火炬人”有名字了](https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%9A%E8%BF%90%E6%95%B0%E5%AD%97%E7%81%AB%E7%82%AC%E4%BA%BA%E2%80%9D%E6%9C%89%E5%90%8D%E5%AD%97%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国象棋夺中国第200金](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B%E5%A4%BA%E4%B8%AD%E5%9B%BD%E7%AC%AC200%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [消息称38岁私募董事长系意外身亡](https://www.baidu.com/s?wd=%E6%B6%88%E6%81%AF%E7%A7%B038%E5%B2%81%E7%A7%81%E5%8B%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E7%B3%BB%E6%84%8F%E5%A4%96%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [5名学生私自攀爬玉龙雪山被困](https://www.baidu.com/s?wd=5%E5%90%8D%E5%AD%A6%E7%94%9F%E7%A7%81%E8%87%AA%E6%94%80%E7%88%AC%E7%8E%89%E9%BE%99%E9%9B%AA%E5%B1%B1%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [沙漠上万棵治沙植物被越野车碾轧](https://www.baidu.com/s?wd=%E6%B2%99%E6%BC%A0%E4%B8%8A%E4%B8%87%E6%A3%B5%E6%B2%BB%E6%B2%99%E6%A4%8D%E7%89%A9%E8%A2%AB%E8%B6%8A%E9%87%8E%E8%BD%A6%E7%A2%BE%E8%BD%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [国内油价预计将迎来大幅下调](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E9%A2%84%E8%AE%A1%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [节后A股试行T+0传闻不属实](https://www.baidu.com/s?wd=%E8%8A%82%E5%90%8EA%E8%82%A1%E8%AF%95%E8%A1%8CT%2B0%E4%BC%A0%E9%97%BB%E4%B8%8D%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [“亚运数字火炬人”有名字了](https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%9A%E8%BF%90%E6%95%B0%E5%AD%97%E7%81%AB%E7%82%AC%E4%BA%BA%E2%80%9D%E6%9C%89%E5%90%8D%E5%AD%97%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国象棋夺中国第200金](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B%E5%A4%BA%E4%B8%AD%E5%9B%BD%E7%AC%AC200%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [消息称38岁私募董事长系意外身亡](https://www.baidu.com/s?wd=%E6%B6%88%E6%81%AF%E7%A7%B038%E5%B2%81%E7%A7%81%E5%8B%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E7%B3%BB%E6%84%8F%E5%A4%96%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [5名学生私自攀爬玉龙雪山被困](https://www.baidu.com/s?wd=5%E5%90%8D%E5%AD%A6%E7%94%9F%E7%A7%81%E8%87%AA%E6%94%80%E7%88%AC%E7%8E%89%E9%BE%99%E9%9B%AA%E5%B1%B1%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [沙漠上万棵治沙植物被越野车碾轧](https://www.baidu.com/s?wd=%E6%B2%99%E6%BC%A0%E4%B8%8A%E4%B8%87%E6%A3%B5%E6%B2%BB%E6%B2%99%E6%A4%8D%E7%89%A9%E8%A2%AB%E8%B6%8A%E9%87%8E%E8%BD%A6%E7%A2%BE%E8%BD%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [国内油价预计将迎来大幅下调](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E9%A2%84%E8%AE%A1%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [节后A股试行T+0传闻不属实](https://www.baidu.com/s?wd=%E8%8A%82%E5%90%8EA%E8%82%A1%E8%AF%95%E8%A1%8CT%2B0%E4%BC%A0%E9%97%BB%E4%B8%8D%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
