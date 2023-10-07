@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 05:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 05:04:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [中国象棋夺中国第200金](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B%E5%A4%BA%E4%B8%AD%E5%9B%BD%E7%AC%AC200%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [沙漠上万棵治沙植物被越野车碾轧](https://www.baidu.com/s?wd=%E6%B2%99%E6%BC%A0%E4%B8%8A%E4%B8%87%E6%A3%B5%E6%B2%BB%E6%B2%99%E6%A4%8D%E7%89%A9%E8%A2%AB%E8%B6%8A%E9%87%8E%E8%BD%A6%E7%A2%BE%E8%BD%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [以色列宣布进入战争状态](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [狗狗们误食月饼集体打吊针](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E4%BB%AC%E8%AF%AF%E9%A3%9F%E6%9C%88%E9%A5%BC%E9%9B%86%E4%BD%93%E6%89%93%E5%90%8A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [消息称38岁私募董事长系意外身亡](https://www.baidu.com/s?wd=%E6%B6%88%E6%81%AF%E7%A7%B038%E5%B2%81%E7%A7%81%E5%8B%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E7%B3%BB%E6%84%8F%E5%A4%96%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [节后A股试行T+0传闻不属实](https://www.baidu.com/s?wd=%E8%8A%82%E5%90%8EA%E8%82%A1%E8%AF%95%E8%A1%8CT%2B0%E4%BC%A0%E9%97%BB%E4%B8%8D%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [中国象棋夺中国第200金](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B%E5%A4%BA%E4%B8%AD%E5%9B%BD%E7%AC%AC200%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [沙漠上万棵治沙植物被越野车碾轧](https://www.baidu.com/s?wd=%E6%B2%99%E6%BC%A0%E4%B8%8A%E4%B8%87%E6%A3%B5%E6%B2%BB%E6%B2%99%E6%A4%8D%E7%89%A9%E8%A2%AB%E8%B6%8A%E9%87%8E%E8%BD%A6%E7%A2%BE%E8%BD%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [以色列宣布进入战争状态](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [狗狗们误食月饼集体打吊针](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E4%BB%AC%E8%AF%AF%E9%A3%9F%E6%9C%88%E9%A5%BC%E9%9B%86%E4%BD%93%E6%89%93%E5%90%8A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [消息称38岁私募董事长系意外身亡](https://www.baidu.com/s?wd=%E6%B6%88%E6%81%AF%E7%A7%B038%E5%B2%81%E7%A7%81%E5%8B%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E7%B3%BB%E6%84%8F%E5%A4%96%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [节后A股试行T+0传闻不属实](https://www.baidu.com/s?wd=%E8%8A%82%E5%90%8EA%E8%82%A1%E8%AF%95%E8%A1%8CT%2B0%E4%BC%A0%E9%97%BB%E4%B8%8D%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
