@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 16:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 16:31:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [张杰谈签下杨和苏](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%B0%88%E7%AD%BE%E4%B8%8B%E6%9D%A8%E5%92%8C%E8%8B%8F%23&t=31&band_rank=5&Refer=top)<br />
 6. [万渣朝凰 8个男主](https://s.weibo.com/weibo?q=%E4%B8%87%E6%B8%A3%E6%9C%9D%E5%87%B0%208%E4%B8%AA%E7%94%B7%E4%B8%BB&t=31&band_rank=6&Refer=top)<br />
 7. [苹果商店现黄色软件伪装成学习软件](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%95%86%E5%BA%97%E7%8E%B0%E9%BB%84%E8%89%B2%E8%BD%AF%E4%BB%B6%E4%BC%AA%E8%A3%85%E6%88%90%E5%AD%A6%E4%B9%A0%E8%BD%AF%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [中国银行原董事长刘连舸被开除党籍](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E5%88%98%E8%BF%9E%E8%88%B8%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [林高远vs张本智和](https://s.weibo.com/weibo?q=%E6%9E%97%E9%AB%98%E8%BF%9Cvs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&t=31&band_rank=9&Refer=top)<br />
+8. [林高远vs张本智和](https://s.weibo.com/weibo?q=%E6%9E%97%E9%AB%98%E8%BF%9Cvs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&t=31&band_rank=8&Refer=top)<br />
+9. [中国银行原董事长刘连舸被开除党籍](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E5%88%98%E8%BF%9E%E8%88%B8%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
