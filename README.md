@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 22:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 22:53:01</h4></div>
 
 > 微博  
 
-1. [丁霞哭了](https://s.weibo.com/weibo?q=%E4%B8%81%E9%9C%9E%E5%93%AD%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [陈雨菲拼到抽筋](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B2%E6%8B%BC%E5%88%B0%E6%8A%BD%E7%AD%8B%23&t=31&band_rank=2&Refer=top)<br />
+1. [陈雨菲拼到抽筋](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B2%E6%8B%BC%E5%88%B0%E6%8A%BD%E7%AD%8B%23&t=31&band_rank=1&Refer=top)<br />
+2. [丁霞哭了](https://s.weibo.com/weibo?q=%E4%B8%81%E9%9C%9E%E5%93%AD%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [推进共建绿色一带一路](https://s.weibo.com/weibo?q=%23%E6%8E%A8%E8%BF%9B%E5%85%B1%E5%BB%BA%E7%BB%BF%E8%89%B2%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [贝嫂谈贝克汉姆出轨](https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%AB%82%E8%B0%88%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E5%87%BA%E8%BD%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [以巴爆发大规模冲突造成严重伤亡](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%B7%B4%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%86%B2%E7%AA%81%E9%80%A0%E6%88%90%E4%B8%A5%E9%87%8D%E4%BC%A4%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
