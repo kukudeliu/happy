@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 06:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 06:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [皮划艇女选手赛后黄体破裂医生紧急救回](https://s.weibo.com/weibo?q=%23%E7%9A%AE%E5%88%92%E8%89%87%E5%A5%B3%E9%80%89%E6%89%8B%E8%B5%9B%E5%90%8E%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82%E5%8C%BB%E7%94%9F%E7%B4%A7%E6%80%A5%E6%95%91%E5%9B%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [班主任自费千元组织学生看电影志愿军](https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%87%AA%E8%B4%B9%E5%8D%83%E5%85%83%E7%BB%84%E7%BB%87%E5%AD%A6%E7%94%9F%E7%9C%8B%E7%94%B5%E5%BD%B1%E5%BF%97%E6%84%BF%E5%86%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [亚运史上第1块霹雳舞金牌](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E5%8F%B2%E4%B8%8A%E7%AC%AC1%E5%9D%97%E9%9C%B9%E9%9B%B3%E8%88%9E%E9%87%91%E7%89%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [迷笛音乐节要反思的不是当地群众](https://s.weibo.com/weibo?q=%23%E8%BF%B7%E7%AC%9B%E9%9F%B3%E4%B9%90%E8%8A%82%E8%A6%81%E5%8F%8D%E6%80%9D%E7%9A%84%E4%B8%8D%E6%98%AF%E5%BD%93%E5%9C%B0%E7%BE%A4%E4%BC%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [研究证实怀孕会部分重置准妈妈大脑](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E8%AF%81%E5%AE%9E%E6%80%80%E5%AD%95%E4%BC%9A%E9%83%A8%E5%88%86%E9%87%8D%E7%BD%AE%E5%87%86%E5%A6%88%E5%A6%88%E5%A4%A7%E8%84%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
