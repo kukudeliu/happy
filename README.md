@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 21:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 21:34:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [以色列当地居民拍下巷战画面](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%BD%93%E5%9C%B0%E5%B1%85%E6%B0%91%E6%8B%8D%E4%B8%8B%E5%B7%B7%E6%88%98%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚明回应为何换掉杜锋](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%95%E6%8D%A2%E6%8E%89%E6%9D%9C%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [消息称38岁私募董事长系意外身亡](https://www.baidu.com/s?wd=%E6%B6%88%E6%81%AF%E7%A7%B038%E5%B2%81%E7%A7%81%E5%8B%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E7%B3%BB%E6%84%8F%E5%A4%96%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [超4亿人次游客夜间出行](https://www.baidu.com/s?wd=%E8%B6%854%E4%BA%BF%E4%BA%BA%E6%AC%A1%E6%B8%B8%E5%AE%A2%E5%A4%9C%E9%97%B4%E5%87%BA%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子趁高速免费最后20秒卡点出站](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B6%81%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E6%9C%80%E5%90%8E20%E7%A7%92%E5%8D%A1%E7%82%B9%E5%87%BA%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [节后A股试行T+0传闻不属实](https://www.baidu.com/s?wd=%E8%8A%82%E5%90%8EA%E8%82%A1%E8%AF%95%E8%A1%8CT%2B0%E4%BC%A0%E9%97%BB%E4%B8%8D%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [以色列当地居民拍下巷战画面](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%BD%93%E5%9C%B0%E5%B1%85%E6%B0%91%E6%8B%8D%E4%B8%8B%E5%B7%B7%E6%88%98%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚明回应为何换掉杜锋](https://www.baidu.com/s?wd=%E5%A7%9A%E6%98%8E%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%95%E6%8D%A2%E6%8E%89%E6%9D%9C%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [消息称38岁私募董事长系意外身亡](https://www.baidu.com/s?wd=%E6%B6%88%E6%81%AF%E7%A7%B038%E5%B2%81%E7%A7%81%E5%8B%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E7%B3%BB%E6%84%8F%E5%A4%96%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [超4亿人次游客夜间出行](https://www.baidu.com/s?wd=%E8%B6%854%E4%BA%BF%E4%BA%BA%E6%AC%A1%E6%B8%B8%E5%AE%A2%E5%A4%9C%E9%97%B4%E5%87%BA%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子趁高速免费最后20秒卡点出站](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B6%81%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E6%9C%80%E5%90%8E20%E7%A7%92%E5%8D%A1%E7%82%B9%E5%87%BA%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [节后A股试行T+0传闻不属实](https://www.baidu.com/s?wd=%E8%8A%82%E5%90%8EA%E8%82%A1%E8%AF%95%E8%A1%8CT%2B0%E4%BC%A0%E9%97%BB%E4%B8%8D%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
