@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 12:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-07 12:58:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [为什么睡觉用zzz表示](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9D%A1%E8%A7%89%E7%94%A8zzz%E8%A1%A8%E7%A4%BA&t=31&band_rank=5&Refer=top)<br />
 6. [美国或在2024年出现大萧条以来最严重崩盘](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%88%96%E5%9C%A82024%E5%B9%B4%E5%87%BA%E7%8E%B0%E5%A4%A7%E8%90%A7%E6%9D%A1%E4%BB%A5%E6%9D%A5%E6%9C%80%E4%B8%A5%E9%87%8D%E5%B4%A9%E7%9B%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈好都开始演妈了](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%BD%E9%83%BD%E5%BC%80%E5%A7%8B%E6%BC%94%E5%A6%88%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈飞宇问东北麻辣烫怎么都是素的](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E9%97%AE%E4%B8%9C%E5%8C%97%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%80%8E%E4%B9%88%E9%83%BD%E6%98%AF%E7%B4%A0%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子花3.5扫共享单车从上海骑到苏州](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B13.5%E6%89%AB%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E4%BB%8E%E4%B8%8A%E6%B5%B7%E9%AA%91%E5%88%B0%E8%8B%8F%E5%B7%9E%23&t=31&band_rank=9&Refer=top)<br />
+8. [女子花3.5扫共享单车从上海骑到苏州](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B13.5%E6%89%AB%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E4%BB%8E%E4%B8%8A%E6%B5%B7%E9%AA%91%E5%88%B0%E8%8B%8F%E5%B7%9E%23&t=31&band_rank=8&Refer=top)<br />
+9. [陈飞宇问东北麻辣烫怎么都是素的](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E9%97%AE%E4%B8%9C%E5%8C%97%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%80%8E%E4%B9%88%E9%83%BD%E6%98%AF%E7%B4%A0%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
