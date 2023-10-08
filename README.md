@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 17:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 17:24:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [边伯贤 抗日神剧](https://s.weibo.com/weibo?q=%E8%BE%B9%E4%BC%AF%E8%B4%A4%20%E6%8A%97%E6%97%A5%E7%A5%9E%E5%89%A7&t=31&band_rank=4&Refer=top)<br />
 5. [马龙外战](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99%E5%A4%96%E6%88%98&t=31&band_rank=5&Refer=top)<br />
 6. [性缘脑](https://s.weibo.com/weibo?q=%E6%80%A7%E7%BC%98%E8%84%91&t=31&band_rank=6&Refer=top)<br />
-7. [蒲熠星终于来对地方了](https://s.weibo.com/weibo?q=%23%E8%92%B2%E7%86%A0%E6%98%9F%E7%BB%88%E4%BA%8E%E6%9D%A5%E5%AF%B9%E5%9C%B0%E6%96%B9%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+7. [狐妖小红娘王权篇](https://s.weibo.com/weibo?q=%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E7%8E%8B%E6%9D%83%E7%AF%87&t=31&band_rank=7&Refer=top)<br />
 8. [拖把兄弟 吸氧兄弟](https://s.weibo.com/weibo?q=%E6%8B%96%E6%8A%8A%E5%85%84%E5%BC%9F%20%E5%90%B8%E6%B0%A7%E5%85%84%E5%BC%9F&t=31&band_rank=8&Refer=top)<br />
 9. [兰州站王楚钦马龙争冠](https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%B7%9E%E7%AB%99%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%A9%AC%E9%BE%99%E4%BA%89%E5%86%A0%23&t=31&band_rank=9&Refer=top)<br />
 
