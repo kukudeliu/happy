@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 12:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 12:15:01</h4></div>
 
 > 微博  
 
 1. [老乡鸡](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B9%A1%E9%B8%A1%23&t=31&band_rank=1&Refer=top)<br />
 2. [性缘脑](https://s.weibo.com/weibo?q=%E6%80%A7%E7%BC%98%E8%84%91&t=31&band_rank=2&Refer=top)<br />
-3. [沉浸式感受古人的秋日浪漫](https://s.weibo.com/weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%84%9F%E5%8F%97%E5%8F%A4%E4%BA%BA%E7%9A%84%E7%A7%8B%E6%97%A5%E6%B5%AA%E6%BC%AB%23&t=31&band_rank=3&Refer=top)<br />
+3. [心心相融爱达未来](https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%BF%83%E7%9B%B8%E8%9E%8D%E7%88%B1%E8%BE%BE%E6%9C%AA%E6%9D%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [4岁女童搜救因外部原因中止](https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%90%9C%E6%95%91%E5%9B%A0%E5%A4%96%E9%83%A8%E5%8E%9F%E5%9B%A0%E4%B8%AD%E6%AD%A2%23&t=31&band_rank=4&Refer=top)<br />
 5. [江歌妈妈直播带货](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [别再把糖色当成离谱剧情保护色](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E6%8A%8A%E7%B3%96%E8%89%B2%E5%BD%93%E6%88%90%E7%A6%BB%E8%B0%B1%E5%89%A7%E6%83%85%E4%BF%9D%E6%8A%A4%E8%89%B2%23&t=31&band_rank=6&Refer=top)<br />
