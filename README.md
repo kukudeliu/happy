@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 11:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 11:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [网曝高校女生被要求抽签进男生宿舍搞卫生](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E9%AB%98%E6%A0%A1%E5%A5%B3%E7%94%9F%E8%A2%AB%E8%A6%81%E6%B1%82%E6%8A%BD%E7%AD%BE%E8%BF%9B%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E6%90%9E%E5%8D%AB%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [在成都失联超半月女子遗体被找到](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%88%90%E9%83%BD%E5%A4%B1%E8%81%94%E8%B6%85%E5%8D%8A%E6%9C%88%E5%A5%B3%E5%AD%90%E9%81%97%E4%BD%93%E8%A2%AB%E6%89%BE%E5%88%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [中方就巴以冲突表态](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%B1%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E8%A1%A8%E6%80%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [高圆圆今天穿的好温柔](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%9C%86%E5%9C%86%E4%BB%8A%E5%A4%A9%E7%A9%BF%E7%9A%84%E5%A5%BD%E6%B8%A9%E6%9F%94%23&t=31&band_rank=9&Refer=top)<br />
+9. [性缘脑](https://s.weibo.com/weibo?q=%E6%80%A7%E7%BC%98%E8%84%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
