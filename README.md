@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 17:56:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [杭州亚运会闭幕式数字火炬人将返场](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%E6%95%B0%E5%AD%97%E7%81%AB%E7%82%AC%E4%BA%BA%E5%B0%86%E8%BF%94%E5%9C%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子帮离世闺蜜照护女儿14年](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%AE%E7%A6%BB%E4%B8%96%E9%97%BA%E8%9C%9C%E7%85%A7%E6%8A%A4%E5%A5%B3%E5%84%BF14%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [李子柒油管粉丝不降反升](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E6%B2%B9%E7%AE%A1%E7%B2%89%E4%B8%9D%E4%B8%8D%E9%99%8D%E5%8F%8D%E5%8D%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [边伯贤 抗日神剧](https://s.weibo.com/weibo?q=%E8%BE%B9%E4%BC%AF%E8%B4%A4%20%E6%8A%97%E6%97%A5%E7%A5%9E%E5%89%A7&t=31&band_rank=7&Refer=top)<br />
-8. [三喜给自己化的妆我要笑死了](https://s.weibo.com/weibo?q=%E4%B8%89%E5%96%9C%E7%BB%99%E8%87%AA%E5%B7%B1%E5%8C%96%E7%9A%84%E5%A6%86%E6%88%91%E8%A6%81%E7%AC%91%E6%AD%BB%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [拖把兄弟 吸氧兄弟](https://s.weibo.com/weibo?q=%E6%8B%96%E6%8A%8A%E5%85%84%E5%BC%9F%20%E5%90%B8%E6%B0%A7%E5%85%84%E5%BC%9F&t=31&band_rank=9&Refer=top)<br />
+7. [是东北菜量大不是东北菜量大](https://s.weibo.com/weibo?q=%23%E6%98%AF%E4%B8%9C%E5%8C%97%E8%8F%9C%E9%87%8F%E5%A4%A7%E4%B8%8D%E6%98%AF%E4%B8%9C%E5%8C%97%E8%8F%9C%E9%87%8F%E5%A4%A7%23&t=31&band_rank=7&Refer=top)<br />
+8. [王者荣耀仍居中国手游收入榜首](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%BB%8D%E5%B1%85%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%B8%B8%E6%94%B6%E5%85%A5%E6%A6%9C%E9%A6%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [男孩偷拿300元民警配合沉浸式教育](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%81%B7%E6%8B%BF300%E5%85%83%E6%B0%91%E8%AD%A6%E9%85%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%95%99%E8%82%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
