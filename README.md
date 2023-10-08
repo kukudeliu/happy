@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 11:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 11:17:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [别再把糖色当成离谱剧情保护色](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E6%8A%8A%E7%B3%96%E8%89%B2%E5%BD%93%E6%88%90%E7%A6%BB%E8%B0%B1%E5%89%A7%E6%83%85%E4%BF%9D%E6%8A%A4%E8%89%B2%23&t=31&band_rank=5&Refer=top)<br />
 6. [巴勒斯坦](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6&t=31&band_rank=6&Refer=top)<br />
 7. [奥特曼婚纱](https://s.weibo.com/weibo?q=%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A9%9A%E7%BA%B1&t=31&band_rank=7&Refer=top)<br />
-8. [蜜雪冰城称将偷餐者绑天桥示众8小时](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E7%A7%B0%E5%B0%86%E5%81%B7%E9%A4%90%E8%80%85%E7%BB%91%E5%A4%A9%E6%A1%A5%E7%A4%BA%E4%BC%978%E5%B0%8F%E6%97%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [网曝高校女生被要求抽签进男生宿舍搞卫生](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E9%AB%98%E6%A0%A1%E5%A5%B3%E7%94%9F%E8%A2%AB%E8%A6%81%E6%B1%82%E6%8A%BD%E7%AD%BE%E8%BF%9B%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E6%90%9E%E5%8D%AB%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [网曝高校女生被要求抽签进男生宿舍搞卫生](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E9%AB%98%E6%A0%A1%E5%A5%B3%E7%94%9F%E8%A2%AB%E8%A6%81%E6%B1%82%E6%8A%BD%E7%AD%BE%E8%BF%9B%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E6%90%9E%E5%8D%AB%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [蜜雪冰城称将偷餐者绑天桥示众8小时](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E7%A7%B0%E5%B0%86%E5%81%B7%E9%A4%90%E8%80%85%E7%BB%91%E5%A4%A9%E6%A1%A5%E7%A4%BA%E4%BC%978%E5%B0%8F%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
