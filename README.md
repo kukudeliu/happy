@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 19:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 19:50:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女子帮离世闺蜜照护女儿14年](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%AE%E7%A6%BB%E4%B8%96%E9%97%BA%E8%9C%9C%E7%85%A7%E6%8A%A4%E5%A5%B3%E5%84%BF14%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [闭幕式旗手谢震业](https://s.weibo.com/weibo?q=%23%E9%97%AD%E5%B9%95%E5%BC%8F%E6%97%97%E6%89%8B%E8%B0%A2%E9%9C%87%E4%B8%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [杭州亚运那些感动瞬间](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E9%82%A3%E4%BA%9B%E6%84%9F%E5%8A%A8%E7%9E%AC%E9%97%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [K435列车命案嫌犯被鉴定为精神病人](https://s.weibo.com/weibo?q=%23K435%E5%88%97%E8%BD%A6%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E8%A2%AB%E9%89%B4%E5%AE%9A%E4%B8%BA%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [第一次在古偶见男主送女主莲花](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E5%8F%A4%E5%81%B6%E8%A7%81%E7%94%B7%E4%B8%BB%E9%80%81%E5%A5%B3%E4%B8%BB%E8%8E%B2%E8%8A%B1%23&t=31&band_rank=9&Refer=top)<br />
+8. [第一次在古偶见男主送女主莲花](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E5%8F%A4%E5%81%B6%E8%A7%81%E7%94%B7%E4%B8%BB%E9%80%81%E5%A5%B3%E4%B8%BB%E8%8E%B2%E8%8A%B1%23&t=31&band_rank=8&Refer=top)<br />
+9. [K435列车命案嫌犯被鉴定为精神病人](https://s.weibo.com/weibo?q=%23K435%E5%88%97%E8%BD%A6%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E8%A2%AB%E9%89%B4%E5%AE%9A%E4%B8%BA%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
