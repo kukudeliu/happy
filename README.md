@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 14:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 14:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [蓝天救援队否认中止搜救4岁女童](https://s.weibo.com/weibo?q=%23%E8%93%9D%E5%A4%A9%E6%95%91%E6%8F%B4%E9%98%9F%E5%90%A6%E8%AE%A4%E4%B8%AD%E6%AD%A2%E6%90%9C%E6%95%914%E5%B2%81%E5%A5%B3%E7%AB%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [老乡鸡](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B9%A1%E9%B8%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [朱一龙为角色增重减重50斤](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E4%B8%BA%E8%A7%92%E8%89%B2%E5%A2%9E%E9%87%8D%E5%87%8F%E9%87%8D50%E6%96%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [别再把糖色当成离谱剧情保护色](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E6%8A%8A%E7%B3%96%E8%89%B2%E5%BD%93%E6%88%90%E7%A6%BB%E8%B0%B1%E5%89%A7%E6%83%85%E4%BF%9D%E6%8A%A4%E8%89%B2%23&t=31&band_rank=9&Refer=top)<br />
+9. [pdf写罪状录](https://s.weibo.com/weibo?q=pdf%E5%86%99%E7%BD%AA%E7%8A%B6%E5%BD%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [中秋国庆假期消费市场活力足](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E6%B4%BB%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [阿富汗地震已致超过1000人死亡](https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%97%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4%E8%B6%85%E8%BF%871000%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [央视网：甜宠剧能不能别太性缘脑？](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%EF%BC%9A%E7%94%9C%E5%AE%A0%E5%89%A7%E8%83%BD%E4%B8%8D%E8%83%BD%E5%88%AB%E5%A4%AA%E6%80%A7%E7%BC%98%E8%84%91%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [江歌妈妈已成立传媒公司](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%B7%B2%E6%88%90%E7%AB%8B%E4%BC%A0%E5%AA%92%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小学回应学生必须掌握流利英语](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1%E6%B5%81%E5%88%A9%E8%8B%B1%E8%AF%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [北京延庆下雪了](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%BB%B6%E5%BA%86%E4%B8%8B%E9%9B%AA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [江歌妈妈已成立传媒公司](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%B7%B2%E6%88%90%E7%AB%8B%E4%BC%A0%E5%AA%92%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [叶菜放冰箱24小时会致癌？](https://www.baidu.com/s?wd=%E5%8F%B6%E8%8F%9C%E6%94%BE%E5%86%B0%E7%AE%B124%E5%B0%8F%E6%97%B6%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [中秋国庆假期消费市场活力足](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E6%B4%BB%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [阿富汗地震已致超过1000人死亡](https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%97%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4%E8%B6%85%E8%BF%871000%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [央视网：甜宠剧能不能别太性缘脑？](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%EF%BC%9A%E7%94%9C%E5%AE%A0%E5%89%A7%E8%83%BD%E4%B8%8D%E8%83%BD%E5%88%AB%E5%A4%AA%E6%80%A7%E7%BC%98%E8%84%91%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [江歌妈妈已成立传媒公司](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%B7%B2%E6%88%90%E7%AB%8B%E4%BC%A0%E5%AA%92%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小学回应学生必须掌握流利英语](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1%E6%B5%81%E5%88%A9%E8%8B%B1%E8%AF%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [北京延庆下雪了](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%BB%B6%E5%BA%86%E4%B8%8B%E9%9B%AA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [江歌妈妈已成立传媒公司](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%B7%B2%E6%88%90%E7%AB%8B%E4%BC%A0%E5%AA%92%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [叶菜放冰箱24小时会致癌？](https://www.baidu.com/s?wd=%E5%8F%B6%E8%8F%9C%E6%94%BE%E5%86%B0%E7%AE%B124%E5%B0%8F%E6%97%B6%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
