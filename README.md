@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 11:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 11:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [网曝高校女生被要求抽签进男生宿舍搞卫生](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E9%AB%98%E6%A0%A1%E5%A5%B3%E7%94%9F%E8%A2%AB%E8%A6%81%E6%B1%82%E6%8A%BD%E7%AD%BE%E8%BF%9B%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E6%90%9E%E5%8D%AB%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [巴勒斯坦](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6&t=31&band_rank=7&Refer=top)<br />
 8. [江歌妈妈直播带货](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [奥特曼婚纱](https://s.weibo.com/weibo?q=%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A9%9A%E7%BA%B1&t=31&band_rank=9&Refer=top)<br />
+9. [我国约2.45亿人患高血压](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%BA%A62.45%E4%BA%BF%E4%BA%BA%E6%82%A3%E9%AB%98%E8%A1%80%E5%8E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
