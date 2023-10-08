@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 16:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 16:08:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [李子柒消失两年还会被偏爱吗](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E6%B6%88%E5%A4%B1%E4%B8%A4%E5%B9%B4%E8%BF%98%E4%BC%9A%E8%A2%AB%E5%81%8F%E7%88%B1%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [王楚钦3比0林高远](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E6%9E%97%E9%AB%98%E8%BF%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [性缘脑](https://s.weibo.com/weibo?q=%E6%80%A7%E7%BC%98%E8%84%91&t=31&band_rank=6&Refer=top)<br />
-7. [三喜给自己化的妆我要笑死了](https://s.weibo.com/weibo?q=%E4%B8%89%E5%96%9C%E7%BB%99%E8%87%AA%E5%B7%B1%E5%8C%96%E7%9A%84%E5%A6%86%E6%88%91%E8%A6%81%E7%AC%91%E6%AD%BB%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [任嘉伦诉网友侵权案将开庭](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E8%AF%89%E7%BD%91%E5%8F%8B%E4%BE%B5%E6%9D%83%E6%A1%88%E5%B0%86%E5%BC%80%E5%BA%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [每天两片烤馒头片拯救了我的胃](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E4%B8%A4%E7%89%87%E7%83%A4%E9%A6%92%E5%A4%B4%E7%89%87%E6%8B%AF%E6%95%91%E4%BA%86%E6%88%91%E7%9A%84%E8%83%83%23&t=31&band_rank=9&Refer=top)<br />
+7. [拖把兄弟 吸氧兄弟](https://s.weibo.com/weibo?q=%E6%8B%96%E6%8A%8A%E5%85%84%E5%BC%9F%20%E5%90%B8%E6%B0%A7%E5%85%84%E5%BC%9F&t=31&band_rank=7&Refer=top)<br />
+8. [三喜给自己化的妆我要笑死了](https://s.weibo.com/weibo?q=%E4%B8%89%E5%96%9C%E7%BB%99%E8%87%AA%E5%B7%B1%E5%8C%96%E7%9A%84%E5%A6%86%E6%88%91%E8%A6%81%E7%AC%91%E6%AD%BB%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [任嘉伦诉网友侵权案将开庭](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E8%AF%89%E7%BD%91%E5%8F%8B%E4%BE%B5%E6%9D%83%E6%A1%88%E5%B0%86%E5%BC%80%E5%BA%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
