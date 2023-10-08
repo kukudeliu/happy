@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 19:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 19:42:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [男孩偷拿300元民警配合沉浸式教育](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%81%B7%E6%8B%BF300%E5%85%83%E6%B0%91%E8%AD%A6%E9%85%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%95%99%E8%82%B2%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子帮离世闺蜜照护女儿14年](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%AE%E7%A6%BB%E4%B8%96%E9%97%BA%E8%9C%9C%E7%85%A7%E6%8A%A4%E5%A5%B3%E5%84%BF14%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [K435列车命案嫌犯被鉴定为精神病人](https://s.weibo.com/weibo?q=%23K435%E5%88%97%E8%BD%A6%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E8%A2%AB%E9%89%B4%E5%AE%9A%E4%B8%BA%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [狐妖小红娘王权篇](https://s.weibo.com/weibo?q=%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E7%8E%8B%E6%9D%83%E7%AF%87&t=31&band_rank=7&Refer=top)<br />
-8. [第一次在古偶见男主送女主莲花](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E5%8F%A4%E5%81%B6%E8%A7%81%E7%94%B7%E4%B8%BB%E9%80%81%E5%A5%B3%E4%B8%BB%E8%8E%B2%E8%8A%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [李子柒消失两年还会被偏爱吗](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E6%B6%88%E5%A4%B1%E4%B8%A4%E5%B9%B4%E8%BF%98%E4%BC%9A%E8%A2%AB%E5%81%8F%E7%88%B1%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+7. [杭州亚运那些感动瞬间](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E9%82%A3%E4%BA%9B%E6%84%9F%E5%8A%A8%E7%9E%AC%E9%97%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [狐妖小红娘王权篇](https://s.weibo.com/weibo?q=%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E7%8E%8B%E6%9D%83%E7%AF%87&t=31&band_rank=8&Refer=top)<br />
+9. [第一次在古偶见男主送女主莲花](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E5%8F%A4%E5%81%B6%E8%A7%81%E7%94%B7%E4%B8%BB%E9%80%81%E5%A5%B3%E4%B8%BB%E8%8E%B2%E8%8A%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [八大关键词盘点加长版“黄金周”](https://www.baidu.com/s?wd=%E5%85%AB%E5%A4%A7%E5%85%B3%E9%94%AE%E8%AF%8D%E7%9B%98%E7%82%B9%E5%8A%A0%E9%95%BF%E7%89%88%E2%80%9C%E9%BB%84%E9%87%91%E5%91%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [韩媒关注：朝鲜用“傀儡”指代韩国](https://www.baidu.com/s?wd=%E9%9F%A9%E5%AA%92%E5%85%B3%E6%B3%A8%EF%BC%9A%E6%9C%9D%E9%B2%9C%E7%94%A8%E2%80%9C%E5%82%80%E5%84%A1%E2%80%9D%E6%8C%87%E4%BB%A3%E9%9F%A9%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [山东通报“两村干部不雅视频事件”](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E9%80%9A%E6%8A%A5%E2%80%9C%E4%B8%A4%E6%9D%91%E5%B9%B2%E9%83%A8%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E4%BA%8B%E4%BB%B6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [航拍地震后的阿富汗：村庄变废墟](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E5%9C%B0%E9%9C%87%E5%90%8E%E7%9A%84%E9%98%BF%E5%AF%8C%E6%B1%97%EF%BC%9A%E6%9D%91%E5%BA%84%E5%8F%98%E5%BA%9F%E5%A2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李子柒油管粉丝不降反升](https://www.baidu.com/s?wd=%E6%9D%8E%E5%AD%90%E6%9F%92%E6%B2%B9%E7%AE%A1%E7%B2%89%E4%B8%9D%E4%B8%8D%E9%99%8D%E5%8F%8D%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [李子柒油管粉丝不降反升](https://www.baidu.com/s?wd=%E6%9D%8E%E5%AD%90%E6%9F%92%E6%B2%B9%E7%AE%A1%E7%B2%89%E4%B8%9D%E4%B8%8D%E9%99%8D%E5%8F%8D%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [骂死大学生被判赔19万 房东作诗参赛](https://www.baidu.com/s?wd=%E9%AA%82%E6%AD%BB%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%88%A4%E8%B5%9419%E4%B8%87+%E6%88%BF%E4%B8%9C%E4%BD%9C%E8%AF%97%E5%8F%82%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [直播女惨死出租屋？造谣者被拘](https://www.baidu.com/s?wd=%E7%9B%B4%E6%92%AD%E5%A5%B3%E6%83%A8%E6%AD%BB%E5%87%BA%E7%A7%9F%E5%B1%8B%EF%BC%9F%E9%80%A0%E8%B0%A3%E8%80%85%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [八大关键词盘点加长版“黄金周”](https://www.baidu.com/s?wd=%E5%85%AB%E5%A4%A7%E5%85%B3%E9%94%AE%E8%AF%8D%E7%9B%98%E7%82%B9%E5%8A%A0%E9%95%BF%E7%89%88%E2%80%9C%E9%BB%84%E9%87%91%E5%91%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [韩媒关注：朝鲜用“傀儡”指代韩国](https://www.baidu.com/s?wd=%E9%9F%A9%E5%AA%92%E5%85%B3%E6%B3%A8%EF%BC%9A%E6%9C%9D%E9%B2%9C%E7%94%A8%E2%80%9C%E5%82%80%E5%84%A1%E2%80%9D%E6%8C%87%E4%BB%A3%E9%9F%A9%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [山东通报“两村干部不雅视频事件”](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E9%80%9A%E6%8A%A5%E2%80%9C%E4%B8%A4%E6%9D%91%E5%B9%B2%E9%83%A8%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E4%BA%8B%E4%BB%B6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [航拍地震后的阿富汗：村庄变废墟](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E5%9C%B0%E9%9C%87%E5%90%8E%E7%9A%84%E9%98%BF%E5%AF%8C%E6%B1%97%EF%BC%9A%E6%9D%91%E5%BA%84%E5%8F%98%E5%BA%9F%E5%A2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李子柒油管粉丝不降反升](https://www.baidu.com/s?wd=%E6%9D%8E%E5%AD%90%E6%9F%92%E6%B2%B9%E7%AE%A1%E7%B2%89%E4%B8%9D%E4%B8%8D%E9%99%8D%E5%8F%8D%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [李子柒油管粉丝不降反升](https://www.baidu.com/s?wd=%E6%9D%8E%E5%AD%90%E6%9F%92%E6%B2%B9%E7%AE%A1%E7%B2%89%E4%B8%9D%E4%B8%8D%E9%99%8D%E5%8F%8D%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [骂死大学生被判赔19万 房东作诗参赛](https://www.baidu.com/s?wd=%E9%AA%82%E6%AD%BB%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%88%A4%E8%B5%9419%E4%B8%87+%E6%88%BF%E4%B8%9C%E4%BD%9C%E8%AF%97%E5%8F%82%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [直播女惨死出租屋？造谣者被拘](https://www.baidu.com/s?wd=%E7%9B%B4%E6%92%AD%E5%A5%B3%E6%83%A8%E6%AD%BB%E5%87%BA%E7%A7%9F%E5%B1%8B%EF%BC%9F%E9%80%A0%E8%B0%A3%E8%80%85%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
