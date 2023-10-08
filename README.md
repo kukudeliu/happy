@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 20:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 20:26:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [埃及一警察向以色列游客开枪致3死](https://s.weibo.com/weibo?q=%23%E5%9F%83%E5%8F%8A%E4%B8%80%E8%AD%A6%E5%AF%9F%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E6%B8%B8%E5%AE%A2%E5%BC%80%E6%9E%AA%E8%87%B43%E6%AD%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [别再把糖色当成离谱剧情保护色](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E6%8A%8A%E7%B3%96%E8%89%B2%E5%BD%93%E6%88%90%E7%A6%BB%E8%B0%B1%E5%89%A7%E6%83%85%E4%BF%9D%E6%8A%A4%E8%89%B2%23&t=31&band_rank=7&Refer=top)<br />
 8. [闭幕式旗手谢震业](https://s.weibo.com/weibo?q=%23%E9%97%AD%E5%B9%95%E5%BC%8F%E6%97%97%E6%89%8B%E8%B0%A2%E9%9C%87%E4%B8%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [狐妖小红娘王权篇](https://s.weibo.com/weibo?q=%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E7%8E%8B%E6%9D%83%E7%AF%87&t=31&band_rank=9&Refer=top)<br />
+9. [李子柒消失两年还会被偏爱吗](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E6%B6%88%E5%A4%B1%E4%B8%A4%E5%B9%B4%E8%BF%98%E4%BC%9A%E8%A2%AB%E5%81%8F%E7%88%B1%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
