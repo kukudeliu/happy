@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 21:26:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 21:27:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [续写亚洲文明新辉煌](https://www.baidu.com/s?wd=%E7%BB%AD%E5%86%99%E4%BA%9A%E6%B4%B2%E6%96%87%E6%98%8E%E6%96%B0%E8%BE%89%E7%85%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [杭州亚运会闭幕式](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [说声再见！杭州亚运会闭幕](https://www.baidu.com/s?wd=%E8%AF%B4%E5%A3%B0%E5%86%8D%E8%A7%81%EF%BC%81%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [谢震业担任中国代表团闭幕式旗手](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E6%8B%85%E4%BB%BB%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E9%97%AD%E5%B9%95%E5%BC%8F%E6%97%97%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [八大关键词盘点加长版“黄金周”](https://www.baidu.com/s?wd=%E5%85%AB%E5%A4%A7%E5%85%B3%E9%94%AE%E8%AF%8D%E7%9B%98%E7%82%B9%E5%8A%A0%E9%95%BF%E7%89%88%E2%80%9C%E9%BB%84%E9%87%91%E5%91%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [孙颖莎4比0陈梦 兰州站夺冠](https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E4%E6%AF%940%E9%99%88%E6%A2%A6+%E5%85%B0%E5%B7%9E%E7%AB%99%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [续写亚洲文明新辉煌](https://www.baidu.com/s?wd=%E7%BB%AD%E5%86%99%E4%BA%9A%E6%B4%B2%E6%96%87%E6%98%8E%E6%96%B0%E8%BE%89%E7%85%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [杭州亚运会闭幕式](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [说声再见！杭州亚运会闭幕](https://www.baidu.com/s?wd=%E8%AF%B4%E5%A3%B0%E5%86%8D%E8%A7%81%EF%BC%81%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [谢震业担任中国代表团闭幕式旗手](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E6%8B%85%E4%BB%BB%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E9%97%AD%E5%B9%95%E5%BC%8F%E6%97%97%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [八大关键词盘点加长版“黄金周”](https://www.baidu.com/s?wd=%E5%85%AB%E5%A4%A7%E5%85%B3%E9%94%AE%E8%AF%8D%E7%9B%98%E7%82%B9%E5%8A%A0%E9%95%BF%E7%89%88%E2%80%9C%E9%BB%84%E9%87%91%E5%91%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [孙颖莎4比0陈梦 兰州站夺冠](https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E4%E6%AF%940%E9%99%88%E6%A2%A6+%E5%85%B0%E5%B7%9E%E7%AB%99%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
