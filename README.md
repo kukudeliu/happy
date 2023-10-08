@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 20:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 20:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [北京下雪](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA&t=31&band_rank=5&Refer=top)<br />
 6. [珠海宣布中小学停课](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E5%AE%A3%E5%B8%83%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%81%9C%E8%AF%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [兰州站王楚钦马龙争冠](https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%B7%9E%E7%AB%99%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%A9%AC%E9%BE%99%E4%BA%89%E5%86%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [别再把糖色当成离谱剧情保护色](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E6%8A%8A%E7%B3%96%E8%89%B2%E5%BD%93%E6%88%90%E7%A6%BB%E8%B0%B1%E5%89%A7%E6%83%85%E4%BF%9D%E6%8A%A4%E8%89%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [埃及一警察向以色列游客开枪致3死](https://s.weibo.com/weibo?q=%23%E5%9F%83%E5%8F%8A%E4%B8%80%E8%AD%A6%E5%AF%9F%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E6%B8%B8%E5%AE%A2%E5%BC%80%E6%9E%AA%E8%87%B43%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
+8. [马龙被左撇子痛击的一生](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%A2%AB%E5%B7%A6%E6%92%87%E5%AD%90%E7%97%9B%E5%87%BB%E7%9A%84%E4%B8%80%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [别再把糖色当成离谱剧情保护色](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E6%8A%8A%E7%B3%96%E8%89%B2%E5%BD%93%E6%88%90%E7%A6%BB%E8%B0%B1%E5%89%A7%E6%83%85%E4%BF%9D%E6%8A%A4%E8%89%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
