@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 06:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 06:49:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [女子吃烤栗子被炸嘴肿得张不开](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E7%83%A4%E6%A0%97%E5%AD%90%E8%A2%AB%E7%82%B8%E5%98%B4%E8%82%BF%E5%BE%97%E5%BC%A0%E4%B8%8D%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [以色列正式向哈马斯宣战](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%AD%A3%E5%BC%8F%E5%90%91%E5%93%88%E9%A9%AC%E6%96%AF%E5%AE%A3%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男孩游泳池溺亡10分钟无人救援](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%B8%B8%E6%B3%B3%E6%B1%A0%E6%BA%BA%E4%BA%A110%E5%88%86%E9%92%9F%E6%97%A0%E4%BA%BA%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生买炸鸡付款一看两百万](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E4%B9%B0%E7%82%B8%E9%B8%A1%E4%BB%98%E6%AC%BE%E4%B8%80%E7%9C%8B%E4%B8%A4%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [海边走失女童爸爸发声：是我大意](https://www.baidu.com/s?wd=%E6%B5%B7%E8%BE%B9%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%E7%88%B8%E7%88%B8%E5%8F%91%E5%A3%B0%EF%BC%9A%E6%98%AF%E6%88%91%E5%A4%A7%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女子吃烤栗子被炸嘴肿得张不开](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E7%83%A4%E6%A0%97%E5%AD%90%E8%A2%AB%E7%82%B8%E5%98%B4%E8%82%BF%E5%BE%97%E5%BC%A0%E4%B8%8D%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [以色列正式向哈马斯宣战](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%AD%A3%E5%BC%8F%E5%90%91%E5%93%88%E9%A9%AC%E6%96%AF%E5%AE%A3%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男孩游泳池溺亡10分钟无人救援](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%B8%B8%E6%B3%B3%E6%B1%A0%E6%BA%BA%E4%BA%A110%E5%88%86%E9%92%9F%E6%97%A0%E4%BA%BA%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生买炸鸡付款一看两百万](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E4%B9%B0%E7%82%B8%E9%B8%A1%E4%BB%98%E6%AC%BE%E4%B8%80%E7%9C%8B%E4%B8%A4%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [海边走失女童爸爸发声：是我大意](https://www.baidu.com/s?wd=%E6%B5%B7%E8%BE%B9%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%E7%88%B8%E7%88%B8%E5%8F%91%E5%A3%B0%EF%BC%9A%E6%98%AF%E6%88%91%E5%A4%A7%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
