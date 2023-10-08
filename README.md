@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 09:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 09:40:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [2023中秋国庆假期盘点](https://www.baidu.com/s?wd=2023%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E7%9B%98%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [巴以冲突升级 双方死亡人数超400](https://www.baidu.com/s?wd=%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%8D%87%E7%BA%A7+%E5%8F%8C%E6%96%B9%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E8%B6%85400&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [巴以冲突升级 双方死亡人数超500](https://www.baidu.com/s?wd=%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%8D%87%E7%BA%A7+%E5%8F%8C%E6%96%B9%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E8%B6%85500&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [走失女童父亲：还有被抱走可能性](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%E7%88%B6%E4%BA%B2%EF%BC%9A%E8%BF%98%E6%9C%89%E8%A2%AB%E6%8A%B1%E8%B5%B0%E5%8F%AF%E8%83%BD%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“亚运数字火炬人”有名字了](https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%9A%E8%BF%90%E6%95%B0%E5%AD%97%E7%81%AB%E7%82%AC%E4%BA%BA%E2%80%9D%E6%9C%89%E5%90%8D%E5%AD%97%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [实拍哈马斯自制滑翔机渗透进以色列](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8B%8D%E5%93%88%E9%A9%AC%E6%96%AF%E8%87%AA%E5%88%B6%E6%BB%91%E7%BF%94%E6%9C%BA%E6%B8%97%E9%80%8F%E8%BF%9B%E4%BB%A5%E8%89%B2%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [2023中秋国庆假期盘点](https://www.baidu.com/s?wd=2023%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E7%9B%98%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [巴以冲突升级 双方死亡人数超400](https://www.baidu.com/s?wd=%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%8D%87%E7%BA%A7+%E5%8F%8C%E6%96%B9%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E8%B6%85400&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [巴以冲突升级 双方死亡人数超500](https://www.baidu.com/s?wd=%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%8D%87%E7%BA%A7+%E5%8F%8C%E6%96%B9%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E8%B6%85500&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [走失女童父亲：还有被抱走可能性](https://www.baidu.com/s?wd=%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%E7%88%B6%E4%BA%B2%EF%BC%9A%E8%BF%98%E6%9C%89%E8%A2%AB%E6%8A%B1%E8%B5%B0%E5%8F%AF%E8%83%BD%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“亚运数字火炬人”有名字了](https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%9A%E8%BF%90%E6%95%B0%E5%AD%97%E7%81%AB%E7%82%AC%E4%BA%BA%E2%80%9D%E6%9C%89%E5%90%8D%E5%AD%97%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [实拍哈马斯自制滑翔机渗透进以色列](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8B%8D%E5%93%88%E9%A9%AC%E6%96%AF%E8%87%AA%E5%88%B6%E6%BB%91%E7%BF%94%E6%9C%BA%E6%B8%97%E9%80%8F%E8%BF%9B%E4%BB%A5%E8%89%B2%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)<br />
