@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 21:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 21:13:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [杭州亚运会高燃时刻大盘点](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB%E5%A4%A7%E7%9B%98%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [王权富贵](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9D%83%E5%AF%8C%E8%B4%B5&t=31&band_rank=4&Refer=top)<br />
 5. [北京下雪](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA&t=31&band_rank=5&Refer=top)<br />
-6. [兰州站王楚钦马龙争冠](https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%B7%9E%E7%AB%99%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%A9%AC%E9%BE%99%E4%BA%89%E5%86%A0%23&t=31&band_rank=6&Refer=top)<br />
-7. [马龙被左撇子痛击的一生](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%A2%AB%E5%B7%A6%E6%92%87%E5%AD%90%E7%97%9B%E5%87%BB%E7%9A%84%E4%B8%80%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
+6. [马龙被左撇子痛击的一生](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%A2%AB%E5%B7%A6%E6%92%87%E5%AD%90%E7%97%9B%E5%87%BB%E7%9A%84%E4%B8%80%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
+7. [杭州亚运正式闭幕](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E6%AD%A3%E5%BC%8F%E9%97%AD%E5%B9%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [珠海宣布中小学停课](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E5%AE%A3%E5%B8%83%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%81%9C%E8%AF%BE%23&t=31&band_rank=8&Refer=top)<br />
 9. [孙颖莎兰州站夺冠](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%85%B0%E5%B7%9E%E7%AB%99%E5%A4%BA%E5%86%A0%23&t=31&band_rank=9&Refer=top)<br />
 
