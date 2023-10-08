@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 20:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 20:10:01</h4></div>
 
 > 微博  
 
-1. [狐妖小红娘王权篇](https://s.weibo.com/weibo?q=%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E7%8E%8B%E6%9D%83%E7%AF%87&t=31&band_rank=1&Refer=top)<br />
-2. [杭州亚运会闭幕式](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%23&t=31&band_rank=2&Refer=top)<br />
+1. [杭州亚运会闭幕式](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%23&t=31&band_rank=1&Refer=top)<br />
+2. [狐妖小红娘王权篇](https://s.weibo.com/weibo?q=%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E7%8E%8B%E6%9D%83%E7%AF%87&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会高燃时刻大盘点](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB%E5%A4%A7%E7%9B%98%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [孙颖莎陈梦27拍相持](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%99%88%E6%A2%A627%E6%8B%8D%E7%9B%B8%E6%8C%81%23&t=31&band_rank=4&Refer=top)<br />
 5. [珠海宣布中小学停课](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E5%AE%A3%E5%B8%83%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%81%9C%E8%AF%BE%23&t=31&band_rank=5&Refer=top)<br />
