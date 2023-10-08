@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 17:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 17:30:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [阿富汗地震已致超过1000人死亡](https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%97%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4%E8%B6%85%E8%BF%871000%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生买炸鸡付款一看两百万](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E4%B9%B0%E7%82%B8%E9%B8%A1%E4%BB%98%E6%AC%BE%E4%B8%80%E7%9C%8B%E4%B8%A4%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [iPhone15Pro多机型价格破发](https://www.baidu.com/s?wd=iPhone15Pro%E5%A4%9A%E6%9C%BA%E5%9E%8B%E4%BB%B7%E6%A0%BC%E7%A0%B4%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京延庆下雪了](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%BB%B6%E5%BA%86%E4%B8%8B%E9%9B%AA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [海底捞开到大学里了](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%BC%80%E5%88%B0%E5%A4%A7%E5%AD%A6%E9%87%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [叶菜放冰箱24小时会致癌？](https://www.baidu.com/s?wd=%E5%8F%B6%E8%8F%9C%E6%94%BE%E5%86%B0%E7%AE%B124%E5%B0%8F%E6%97%B6%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [阿富汗地震已致超过1000人死亡](https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%97%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4%E8%B6%85%E8%BF%871000%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生买炸鸡付款一看两百万](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E4%B9%B0%E7%82%B8%E9%B8%A1%E4%BB%98%E6%AC%BE%E4%B8%80%E7%9C%8B%E4%B8%A4%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [iPhone15Pro多机型价格破发](https://www.baidu.com/s?wd=iPhone15Pro%E5%A4%9A%E6%9C%BA%E5%9E%8B%E4%BB%B7%E6%A0%BC%E7%A0%B4%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京延庆下雪了](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%BB%B6%E5%BA%86%E4%B8%8B%E9%9B%AA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [海底捞开到大学里了](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%BC%80%E5%88%B0%E5%A4%A7%E5%AD%A6%E9%87%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [叶菜放冰箱24小时会致癌？](https://www.baidu.com/s?wd=%E5%8F%B6%E8%8F%9C%E6%94%BE%E5%86%B0%E7%AE%B124%E5%B0%8F%E6%97%B6%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
