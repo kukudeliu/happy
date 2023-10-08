@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 08:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 08:14:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [“亚运数字火炬人”有名字了](https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%9A%E8%BF%90%E6%95%B0%E5%AD%97%E7%81%AB%E7%82%AC%E4%BA%BA%E2%80%9D%E6%9C%89%E5%90%8D%E5%AD%97%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [拜登：对以色列的支持“坚如磐石”](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%EF%BC%9A%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E7%9A%84%E6%94%AF%E6%8C%81%E2%80%9C%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [哈马斯称俘虏以色列少将 照片曝光](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E7%A7%B0%E4%BF%98%E8%99%8F%E4%BB%A5%E8%89%B2%E5%88%97%E5%B0%91%E5%B0%86+%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [5名学生私自攀爬玉龙雪山被困](https://www.baidu.com/s?wd=5%E5%90%8D%E5%AD%A6%E7%94%9F%E7%A7%81%E8%87%AA%E6%94%80%E7%88%AC%E7%8E%89%E9%BE%99%E9%9B%AA%E5%B1%B1%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中秋国庆假期最挤城市排行榜](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E6%9C%80%E6%8C%A4%E5%9F%8E%E5%B8%82%E6%8E%92%E8%A1%8C%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [火锅中吃出瓷砖 重庆立案调查](https://www.baidu.com/s?wd=%E7%81%AB%E9%94%85%E4%B8%AD%E5%90%83%E5%87%BA%E7%93%B7%E7%A0%96+%E9%87%8D%E5%BA%86%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [5名学生私自攀爬玉龙雪山被困](https://www.baidu.com/s?wd=5%E5%90%8D%E5%AD%A6%E7%94%9F%E7%A7%81%E8%87%AA%E6%94%80%E7%88%AC%E7%8E%89%E9%BE%99%E9%9B%AA%E5%B1%B1%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [节后A股试行T+0传闻不属实](https://www.baidu.com/s?wd=%E8%8A%82%E5%90%8EA%E8%82%A1%E8%AF%95%E8%A1%8CT%2B0%E4%BC%A0%E9%97%BB%E4%B8%8D%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [“亚运数字火炬人”有名字了](https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%9A%E8%BF%90%E6%95%B0%E5%AD%97%E7%81%AB%E7%82%AC%E4%BA%BA%E2%80%9D%E6%9C%89%E5%90%8D%E5%AD%97%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [拜登：对以色列的支持“坚如磐石”](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%EF%BC%9A%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E7%9A%84%E6%94%AF%E6%8C%81%E2%80%9C%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [哈马斯称俘虏以色列少将 照片曝光](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E7%A7%B0%E4%BF%98%E8%99%8F%E4%BB%A5%E8%89%B2%E5%88%97%E5%B0%91%E5%B0%86+%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [5名学生私自攀爬玉龙雪山被困](https://www.baidu.com/s?wd=5%E5%90%8D%E5%AD%A6%E7%94%9F%E7%A7%81%E8%87%AA%E6%94%80%E7%88%AC%E7%8E%89%E9%BE%99%E9%9B%AA%E5%B1%B1%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中秋国庆假期最挤城市排行榜](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E6%9C%80%E6%8C%A4%E5%9F%8E%E5%B8%82%E6%8E%92%E8%A1%8C%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [火锅中吃出瓷砖 重庆立案调查](https://www.baidu.com/s?wd=%E7%81%AB%E9%94%85%E4%B8%AD%E5%90%83%E5%87%BA%E7%93%B7%E7%A0%96+%E9%87%8D%E5%BA%86%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [5名学生私自攀爬玉龙雪山被困](https://www.baidu.com/s?wd=5%E5%90%8D%E5%AD%A6%E7%94%9F%E7%A7%81%E8%87%AA%E6%94%80%E7%88%AC%E7%8E%89%E9%BE%99%E9%9B%AA%E5%B1%B1%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [节后A股试行T+0传闻不属实](https://www.baidu.com/s?wd=%E8%8A%82%E5%90%8EA%E8%82%A1%E8%AF%95%E8%A1%8CT%2B0%E4%BC%A0%E9%97%BB%E4%B8%8D%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
