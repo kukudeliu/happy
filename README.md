@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 20:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 20:09:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [杭州亚运会闭幕式](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [谢震业担任中国代表团闭幕式旗手](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E6%8B%85%E4%BB%BB%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E9%97%AD%E5%B9%95%E5%BC%8F%E6%97%97%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [八大关键词盘点加长版“黄金周”](https://www.baidu.com/s?wd=%E5%85%AB%E5%A4%A7%E5%85%B3%E9%94%AE%E8%AF%8D%E7%9B%98%E7%82%B9%E5%8A%A0%E9%95%BF%E7%89%88%E2%80%9C%E9%BB%84%E9%87%91%E5%91%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [韩媒关注：朝鲜用“傀儡”指代韩国](https://www.baidu.com/s?wd=%E9%9F%A9%E5%AA%92%E5%85%B3%E6%B3%A8%EF%BC%9A%E6%9C%9D%E9%B2%9C%E7%94%A8%E2%80%9C%E5%82%80%E5%84%A1%E2%80%9D%E6%8C%87%E4%BB%A3%E9%9F%A9%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [亚运最后一天全场合唱再见](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%E5%85%A8%E5%9C%BA%E5%90%88%E5%94%B1%E5%86%8D%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘清漪：夺金是最好的成人礼](https://www.baidu.com/s?wd=%E5%88%98%E6%B8%85%E6%BC%AA%EF%BC%9A%E5%A4%BA%E9%87%91%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%88%90%E4%BA%BA%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [62刀杀人后伪装自卫 被认定精神障碍](https://www.baidu.com/s?wd=62%E5%88%80%E6%9D%80%E4%BA%BA%E5%90%8E%E4%BC%AA%E8%A3%85%E8%87%AA%E5%8D%AB+%E8%A2%AB%E8%AE%A4%E5%AE%9A%E7%B2%BE%E7%A5%9E%E9%9A%9C%E7%A2%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [山东通报“两村干部不雅视频事件”](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E9%80%9A%E6%8A%A5%E2%80%9C%E4%B8%A4%E6%9D%91%E5%B9%B2%E9%83%A8%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E4%BA%8B%E4%BB%B6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [杭州亚运会闭幕式](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [谢震业担任中国代表团闭幕式旗手](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E6%8B%85%E4%BB%BB%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E9%97%AD%E5%B9%95%E5%BC%8F%E6%97%97%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [八大关键词盘点加长版“黄金周”](https://www.baidu.com/s?wd=%E5%85%AB%E5%A4%A7%E5%85%B3%E9%94%AE%E8%AF%8D%E7%9B%98%E7%82%B9%E5%8A%A0%E9%95%BF%E7%89%88%E2%80%9C%E9%BB%84%E9%87%91%E5%91%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [韩媒关注：朝鲜用“傀儡”指代韩国](https://www.baidu.com/s?wd=%E9%9F%A9%E5%AA%92%E5%85%B3%E6%B3%A8%EF%BC%9A%E6%9C%9D%E9%B2%9C%E7%94%A8%E2%80%9C%E5%82%80%E5%84%A1%E2%80%9D%E6%8C%87%E4%BB%A3%E9%9F%A9%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [亚运最后一天全场合唱再见](https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%E5%85%A8%E5%9C%BA%E5%90%88%E5%94%B1%E5%86%8D%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘清漪：夺金是最好的成人礼](https://www.baidu.com/s?wd=%E5%88%98%E6%B8%85%E6%BC%AA%EF%BC%9A%E5%A4%BA%E9%87%91%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%88%90%E4%BA%BA%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [62刀杀人后伪装自卫 被认定精神障碍](https://www.baidu.com/s?wd=62%E5%88%80%E6%9D%80%E4%BA%BA%E5%90%8E%E4%BC%AA%E8%A3%85%E8%87%AA%E5%8D%AB+%E8%A2%AB%E8%AE%A4%E5%AE%9A%E7%B2%BE%E7%A5%9E%E9%9A%9C%E7%A2%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [山东通报“两村干部不雅视频事件”](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E9%80%9A%E6%8A%A5%E2%80%9C%E4%B8%A4%E6%9D%91%E5%B9%B2%E9%83%A8%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E4%BA%8B%E4%BB%B6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
