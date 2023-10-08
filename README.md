@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 15:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 15:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [性缘脑](https://s.weibo.com/weibo?q=%E6%80%A7%E7%BC%98%E8%84%91&t=31&band_rank=6&Refer=top)<br />
 7. [每天两片烤馒头片拯救了我的胃](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E4%B8%A4%E7%89%87%E7%83%A4%E9%A6%92%E5%A4%B4%E7%89%87%E6%8B%AF%E6%95%91%E4%BA%86%E6%88%91%E7%9A%84%E8%83%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子帮离世闺蜜照护女儿14年](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%AE%E7%A6%BB%E4%B8%96%E9%97%BA%E8%9C%9C%E7%85%A7%E6%8A%A4%E5%A5%B3%E5%84%BF14%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [网传杨紫将出演国色芳华](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%9D%A8%E7%B4%AB%E5%B0%86%E5%87%BA%E6%BC%94%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%23&t=31&band_rank=9&Refer=top)<br />
+9. [李子柒消失两年还会被偏爱吗](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E6%B6%88%E5%A4%B1%E4%B8%A4%E5%B9%B4%E8%BF%98%E4%BC%9A%E8%A2%AB%E5%81%8F%E7%88%B1%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
