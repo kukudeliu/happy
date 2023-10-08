@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 20:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 20:16:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [孙颖莎陈梦27拍相持](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%99%88%E6%A2%A627%E6%8B%8D%E7%9B%B8%E6%8C%81%23&t=31&band_rank=4&Refer=top)<br />
 5. [狐妖小红娘王权篇](https://s.weibo.com/weibo?q=%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E7%8E%8B%E6%9D%83%E7%AF%87&t=31&band_rank=5&Refer=top)<br />
 6. [第一次在古偶见男主送女主莲花](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E5%8F%A4%E5%81%B6%E8%A7%81%E7%94%B7%E4%B8%BB%E9%80%81%E5%A5%B3%E4%B8%BB%E8%8E%B2%E8%8A%B1%23&t=31&band_rank=6&Refer=top)<br />
-7. [闭幕式旗手谢震业](https://s.weibo.com/weibo?q=%23%E9%97%AD%E5%B9%95%E5%BC%8F%E6%97%97%E6%89%8B%E8%B0%A2%E9%9C%87%E4%B8%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [埃及一警察向以色列游客开枪致3死](https://s.weibo.com/weibo?q=%23%E5%9F%83%E5%8F%8A%E4%B8%80%E8%AD%A6%E5%AF%9F%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E6%B8%B8%E5%AE%A2%E5%BC%80%E6%9E%AA%E8%87%B43%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
+7. [埃及一警察向以色列游客开枪致3死](https://s.weibo.com/weibo?q=%23%E5%9F%83%E5%8F%8A%E4%B8%80%E8%AD%A6%E5%AF%9F%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E6%B8%B8%E5%AE%A2%E5%BC%80%E6%9E%AA%E8%87%B43%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
+8. [闭幕式旗手谢震业](https://s.weibo.com/weibo?q=%23%E9%97%AD%E5%B9%95%E5%BC%8F%E6%97%97%E6%89%8B%E8%B0%A2%E9%9C%87%E4%B8%9A%23&t=31&band_rank=8&Refer=top)<br />
 9. [别再把糖色当成离谱剧情保护色](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E6%8A%8A%E7%B3%96%E8%89%B2%E5%BD%93%E6%88%90%E7%A6%BB%E8%B0%B1%E5%89%A7%E6%83%85%E4%BF%9D%E6%8A%A4%E8%89%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
