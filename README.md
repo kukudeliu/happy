@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 13:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 13:05:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [心心相融爱达未来](https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%BF%83%E7%9B%B8%E8%9E%8D%E7%88%B1%E8%BE%BE%E6%9C%AA%E6%9D%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [江歌妈妈直播带货](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [别再把糖色当成离谱剧情保护色](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E6%8A%8A%E7%B3%96%E8%89%B2%E5%BD%93%E6%88%90%E7%A6%BB%E8%B0%B1%E5%89%A7%E6%83%85%E4%BF%9D%E6%8A%A4%E8%89%B2%23&t=31&band_rank=5&Refer=top)<br />
-6. [网曝高校女生被要求抽签进男生宿舍搞卫生](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E9%AB%98%E6%A0%A1%E5%A5%B3%E7%94%9F%E8%A2%AB%E8%A6%81%E6%B1%82%E6%8A%BD%E7%AD%BE%E8%BF%9B%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E6%90%9E%E5%8D%AB%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [李子柒或将复出](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E6%88%96%E5%B0%86%E5%A4%8D%E5%87%BA%23&t=31&band_rank=7&Refer=top)<br />
+6. [李子柒或将复出](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E6%88%96%E5%B0%86%E5%A4%8D%E5%87%BA%23&t=31&band_rank=6&Refer=top)<br />
+7. [网曝高校女生被要求抽签进男生宿舍搞卫生](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E9%AB%98%E6%A0%A1%E5%A5%B3%E7%94%9F%E8%A2%AB%E8%A6%81%E6%B1%82%E6%8A%BD%E7%AD%BE%E8%BF%9B%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E6%90%9E%E5%8D%AB%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [朱一龙为角色增重减重50斤](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E4%B8%BA%E8%A7%92%E8%89%B2%E5%A2%9E%E9%87%8D%E5%87%8F%E9%87%8D50%E6%96%A4%23&t=31&band_rank=8&Refer=top)<br />
 9. [西安重大刑案嫌疑人被抓获](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8A%93%E8%8E%B7%23&t=31&band_rank=9&Refer=top)<br />
 
