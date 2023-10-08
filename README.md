@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 22:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 22:48:02</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [为民族伟大复兴提供坚强思想保证](https://www.baidu.com/s?wd=%E4%B8%BA%E6%B0%91%E6%97%8F%E4%BC%9F%E5%A4%A7%E5%A4%8D%E5%85%B4%E6%8F%90%E4%BE%9B%E5%9D%9A%E5%BC%BA%E6%80%9D%E6%83%B3%E4%BF%9D%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [说声再见！杭州亚运会闭幕](https://www.baidu.com/s?wd=%E8%AF%B4%E5%A3%B0%E5%86%8D%E8%A7%81%EF%BC%81%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [谢震业高举五星红旗入场](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E9%AB%98%E4%B8%BE%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E5%85%A5%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [王楚钦战胜马龙夺冠](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%88%98%E8%83%9C%E9%A9%AC%E9%BE%99%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [杭州亚运会铭刻文化自信](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%93%AD%E5%88%BB%E6%96%87%E5%8C%96%E8%87%AA%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [别让康辉再催啦](https://www.baidu.com/s?wd=%E5%88%AB%E8%AE%A9%E5%BA%B7%E8%BE%89%E5%86%8D%E5%82%AC%E5%95%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [海边走失女童爸爸发声：是我大意](https://www.baidu.com/s?wd=%E6%B5%B7%E8%BE%B9%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%E7%88%B8%E7%88%B8%E5%8F%91%E5%A3%B0%EF%BC%9A%E6%98%AF%E6%88%91%E5%A4%A7%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [为民族伟大复兴提供坚强思想保证](https://www.baidu.com/s?wd=%E4%B8%BA%E6%B0%91%E6%97%8F%E4%BC%9F%E5%A4%A7%E5%A4%8D%E5%85%B4%E6%8F%90%E4%BE%9B%E5%9D%9A%E5%BC%BA%E6%80%9D%E6%83%B3%E4%BF%9D%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [说声再见！杭州亚运会闭幕](https://www.baidu.com/s?wd=%E8%AF%B4%E5%A3%B0%E5%86%8D%E8%A7%81%EF%BC%81%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [谢震业高举五星红旗入场](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E9%AB%98%E4%B8%BE%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E5%85%A5%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [王楚钦战胜马龙夺冠](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%88%98%E8%83%9C%E9%A9%AC%E9%BE%99%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [杭州亚运会铭刻文化自信](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%93%AD%E5%88%BB%E6%96%87%E5%8C%96%E8%87%AA%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [别让康辉再催啦](https://www.baidu.com/s?wd=%E5%88%AB%E8%AE%A9%E5%BA%B7%E8%BE%89%E5%86%8D%E5%82%AC%E5%95%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [海边走失女童爸爸发声：是我大意](https://www.baidu.com/s?wd=%E6%B5%B7%E8%BE%B9%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%E7%88%B8%E7%88%B8%E5%8F%91%E5%A3%B0%EF%BC%9A%E6%98%AF%E6%88%91%E5%A4%A7%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
