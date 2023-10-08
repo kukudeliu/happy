@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 12:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 12:57:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [4岁女童搜救因外部原因中止](https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%90%9C%E6%95%91%E5%9B%A0%E5%A4%96%E9%83%A8%E5%8E%9F%E5%9B%A0%E4%B8%AD%E6%AD%A2%23&t=31&band_rank=4&Refer=top)<br />
 5. [江歌妈妈直播带货](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [别再把糖色当成离谱剧情保护色](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E6%8A%8A%E7%B3%96%E8%89%B2%E5%BD%93%E6%88%90%E7%A6%BB%E8%B0%B1%E5%89%A7%E6%83%85%E4%BF%9D%E6%8A%A4%E8%89%B2%23&t=31&band_rank=6&Refer=top)<br />
-7. [朱一龙为角色增重减重50斤](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E4%B8%BA%E8%A7%92%E8%89%B2%E5%A2%9E%E9%87%8D%E5%87%8F%E9%87%8D50%E6%96%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [李子柒或将复出](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E6%88%96%E5%B0%86%E5%A4%8D%E5%87%BA%23&t=31&band_rank=8&Refer=top)<br />
+7. [李子柒或将复出](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E6%88%96%E5%B0%86%E5%A4%8D%E5%87%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [朱一龙为角色增重减重50斤](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E4%B8%BA%E8%A7%92%E8%89%B2%E5%A2%9E%E9%87%8D%E5%87%8F%E9%87%8D50%E6%96%A4%23&t=31&band_rank=8&Refer=top)<br />
 9. [网曝高校女生被要求抽签进男生宿舍搞卫生](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E9%AB%98%E6%A0%A1%E5%A5%B3%E7%94%9F%E8%A2%AB%E8%A6%81%E6%B1%82%E6%8A%BD%E7%AD%BE%E8%BF%9B%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E6%90%9E%E5%8D%AB%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
