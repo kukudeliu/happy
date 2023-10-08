@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 15:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 15:39:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [性缘脑](https://s.weibo.com/weibo?q=%E6%80%A7%E7%BC%98%E8%84%91&t=31&band_rank=5&Refer=top)<br />
 6. [老乡鸡](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B9%A1%E9%B8%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [每天两片烤馒头片拯救了我的胃](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E4%B8%A4%E7%89%87%E7%83%A4%E9%A6%92%E5%A4%B4%E7%89%87%E6%8B%AF%E6%95%91%E4%BA%86%E6%88%91%E7%9A%84%E8%83%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [蓝天救援队否认中止搜救4岁女童](https://s.weibo.com/weibo?q=%23%E8%93%9D%E5%A4%A9%E6%95%91%E6%8F%B4%E9%98%9F%E5%90%A6%E8%AE%A4%E4%B8%AD%E6%AD%A2%E6%90%9C%E6%95%914%E5%B2%81%E5%A5%B3%E7%AB%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [网传杨紫将出演国色芳华](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%9D%A8%E7%B4%AB%E5%B0%86%E5%87%BA%E6%BC%94%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%23&t=31&band_rank=9&Refer=top)<br />
+8. [网传杨紫将出演国色芳华](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%9D%A8%E7%B4%AB%E5%B0%86%E5%87%BA%E6%BC%94%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%23&t=31&band_rank=8&Refer=top)<br />
+9. [蓝天救援队否认中止搜救4岁女童](https://s.weibo.com/weibo?q=%23%E8%93%9D%E5%A4%A9%E6%95%91%E6%8F%B4%E9%98%9F%E5%90%A6%E8%AE%A4%E4%B8%AD%E6%AD%A2%E6%90%9C%E6%95%914%E5%B2%81%E5%A5%B3%E7%AB%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
