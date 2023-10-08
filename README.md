@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 15:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 15:15:01</h4></div>
 
 > 微博  
 
 1. [孙颖莎vs王曼昱](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E6%9B%BC%E6%98%B1&t=31&band_rank=1&Refer=top)<br />
-2. [江歌妈妈已成立传媒公司](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%B7%B2%E6%88%90%E7%AB%8B%E4%BC%A0%E5%AA%92%E5%85%AC%E5%8F%B8%23&t=31&band_rank=2&Refer=top)<br />
+2. [性缘脑](https://s.weibo.com/weibo?q=%E6%80%A7%E7%BC%98%E8%84%91&t=31&band_rank=2&Refer=top)<br />
 3. [沉浸式感受古人的秋日浪漫](https://s.weibo.com/weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%84%9F%E5%8F%97%E5%8F%A4%E4%BA%BA%E7%9A%84%E7%A7%8B%E6%97%A5%E6%B5%AA%E6%BC%AB%23&t=31&band_rank=3&Refer=top)<br />
-4. [性缘脑](https://s.weibo.com/weibo?q=%E6%80%A7%E7%BC%98%E8%84%91&t=31&band_rank=4&Refer=top)<br />
+4. [江歌妈妈已成立传媒公司](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%B7%B2%E6%88%90%E7%AB%8B%E4%BC%A0%E5%AA%92%E5%85%AC%E5%8F%B8%23&t=31&band_rank=4&Refer=top)<br />
 5. [弄丢涉密文件女孩哭诉要失业民警解困](https://s.weibo.com/weibo?q=%23%E5%BC%84%E4%B8%A2%E6%B6%89%E5%AF%86%E6%96%87%E4%BB%B6%E5%A5%B3%E5%AD%A9%E5%93%AD%E8%AF%89%E8%A6%81%E5%A4%B1%E4%B8%9A%E6%B0%91%E8%AD%A6%E8%A7%A3%E5%9B%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [蓝天救援队否认中止搜救4岁女童](https://s.weibo.com/weibo?q=%23%E8%93%9D%E5%A4%A9%E6%95%91%E6%8F%B4%E9%98%9F%E5%90%A6%E8%AE%A4%E4%B8%AD%E6%AD%A2%E6%90%9C%E6%95%914%E5%B2%81%E5%A5%B3%E7%AB%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [李健 希望大家少经受挫折磨难](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%81%A5%20%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E5%B0%91%E7%BB%8F%E5%8F%97%E6%8C%AB%E6%8A%98%E7%A3%A8%E9%9A%BE&t=31&band_rank=7&Refer=top)<br />
