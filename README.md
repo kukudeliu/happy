@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 21:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 21:47:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [闭幕式日本表演](https://s.weibo.com/weibo?q=%E9%97%AD%E5%B9%95%E5%BC%8F%E6%97%A5%E6%9C%AC%E8%A1%A8%E6%BC%94&t=31&band_rank=5&Refer=top)<br />
 6. [上海走失女童父亲称不能排除被人抱走](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%E7%88%B6%E4%BA%B2%E7%A7%B0%E4%B8%8D%E8%83%BD%E6%8E%92%E9%99%A4%E8%A2%AB%E4%BA%BA%E6%8A%B1%E8%B5%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [北京下雪](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA&t=31&band_rank=7&Refer=top)<br />
-8. [杭州亚运会闭幕式](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [杭州亚运正式闭幕](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E6%AD%A3%E5%BC%8F%E9%97%AD%E5%B9%95%23&t=31&band_rank=9&Refer=top)<br />
+8. [杭州亚运正式闭幕](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E6%AD%A3%E5%BC%8F%E9%97%AD%E5%B9%95%23&t=31&band_rank=8&Refer=top)<br />
+9. [杭州亚运会闭幕式](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
