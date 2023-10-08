@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 17:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 17:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [性缘脑](https://s.weibo.com/weibo?q=%E6%80%A7%E7%BC%98%E8%84%91&t=31&band_rank=6&Refer=top)<br />
 7. [三喜给自己化的妆我要笑死了](https://s.weibo.com/weibo?q=%E4%B8%89%E5%96%9C%E7%BB%99%E8%87%AA%E5%B7%B1%E5%8C%96%E7%9A%84%E5%A6%86%E6%88%91%E8%A6%81%E7%AC%91%E6%AD%BB%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [拖把兄弟 吸氧兄弟](https://s.weibo.com/weibo?q=%E6%8B%96%E6%8A%8A%E5%85%84%E5%BC%9F%20%E5%90%B8%E6%B0%A7%E5%85%84%E5%BC%9F&t=31&band_rank=8&Refer=top)<br />
-9. [弄丢涉密文件女孩哭诉要失业民警解困](https://s.weibo.com/weibo?q=%23%E5%BC%84%E4%B8%A2%E6%B6%89%E5%AF%86%E6%96%87%E4%BB%B6%E5%A5%B3%E5%AD%A9%E5%93%AD%E8%AF%89%E8%A6%81%E5%A4%B1%E4%B8%9A%E6%B0%91%E8%AD%A6%E8%A7%A3%E5%9B%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [女子帮离世闺蜜照护女儿14年](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%AE%E7%A6%BB%E4%B8%96%E9%97%BA%E8%9C%9C%E7%85%A7%E6%8A%A4%E5%A5%B3%E5%84%BF14%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
