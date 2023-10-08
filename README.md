@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 14:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 14:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [蓝天救援队否认中止搜救4岁女童](https://s.weibo.com/weibo?q=%23%E8%93%9D%E5%A4%A9%E6%95%91%E6%8F%B4%E9%98%9F%E5%90%A6%E8%AE%A4%E4%B8%AD%E6%AD%A2%E6%90%9C%E6%95%914%E5%B2%81%E5%A5%B3%E7%AB%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [朱一龙为角色增重减重50斤](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E4%B8%BA%E8%A7%92%E8%89%B2%E5%A2%9E%E9%87%8D%E5%87%8F%E9%87%8D50%E6%96%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [孙颖莎vs王曼昱](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E6%9B%BC%E6%98%B1&t=31&band_rank=8&Refer=top)<br />
-9. [孕期尽量用电气灶做饭或不下厨](https://s.weibo.com/weibo?q=%23%E5%AD%95%E6%9C%9F%E5%B0%BD%E9%87%8F%E7%94%A8%E7%94%B5%E6%B0%94%E7%81%B6%E5%81%9A%E9%A5%AD%E6%88%96%E4%B8%8D%E4%B8%8B%E5%8E%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [别再把糖色当成离谱剧情保护色](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E6%8A%8A%E7%B3%96%E8%89%B2%E5%BD%93%E6%88%90%E7%A6%BB%E8%B0%B1%E5%89%A7%E6%83%85%E4%BF%9D%E6%8A%A4%E8%89%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
