@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 18:40:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 18:41:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以色列中国留学生发声](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [杭州亚运会闭幕式数字火炬人将返场](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%E6%95%B0%E5%AD%97%E7%81%AB%E7%82%AC%E4%BA%BA%E5%B0%86%E8%BF%94%E5%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [狐妖小红娘王权篇](https://s.weibo.com/weibo?q=%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E7%8E%8B%E6%9D%83%E7%AF%87&t=31&band_rank=8&Refer=top)<br />
-9. [是东北菜量大不是东北菜量大](https://s.weibo.com/weibo?q=%23%E6%98%AF%E4%B8%9C%E5%8C%97%E8%8F%9C%E9%87%8F%E5%A4%A7%E4%B8%8D%E6%98%AF%E4%B8%9C%E5%8C%97%E8%8F%9C%E9%87%8F%E5%A4%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [为什么年轻人都反感加班](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%83%BD%E5%8F%8D%E6%84%9F%E5%8A%A0%E7%8F%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
