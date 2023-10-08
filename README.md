@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 11:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 11:05:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [蜜雪冰城称将偷餐者绑天桥示众8小时](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E7%A7%B0%E5%B0%86%E5%81%B7%E9%A4%90%E8%80%85%E7%BB%91%E5%A4%A9%E6%A1%A5%E7%A4%BA%E4%BC%978%E5%B0%8F%E6%97%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [奥特曼婚纱](https://s.weibo.com/weibo?q=%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A9%9A%E7%BA%B1&t=31&band_rank=7&Refer=top)<br />
 8. [终于知道为什么手术线会消失了](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%8B%E6%9C%AF%E7%BA%BF%E4%BC%9A%E6%B6%88%E5%A4%B1%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [你那不叫勇敢叫家里有钱](https://s.weibo.com/weibo?q=%E4%BD%A0%E9%82%A3%E4%B8%8D%E5%8F%AB%E5%8B%87%E6%95%A2%E5%8F%AB%E5%AE%B6%E9%87%8C%E6%9C%89%E9%92%B1&t=31&band_rank=9&Refer=top)<br />
+9. [我国约2.45亿人患高血压](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%BA%A62.45%E4%BA%BF%E4%BA%BA%E6%82%A3%E9%AB%98%E8%A1%80%E5%8E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
