@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 07:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 07:24:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [女子吃烤栗子被炸嘴肿得张不开](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E7%83%A4%E6%A0%97%E5%AD%90%E8%A2%AB%E7%82%B8%E5%98%B4%E8%82%BF%E5%BE%97%E5%BC%A0%E4%B8%8D%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [以色列正式向哈马斯宣战](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%AD%A3%E5%BC%8F%E5%90%91%E5%93%88%E9%A9%AC%E6%96%AF%E5%AE%A3%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男孩游泳池溺亡10分钟无人救援](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%B8%B8%E6%B3%B3%E6%B1%A0%E6%BA%BA%E4%BA%A110%E5%88%86%E9%92%9F%E6%97%A0%E4%BA%BA%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子藏刀列车杀人 相关责任人被追责](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%97%8F%E5%88%80%E5%88%97%E8%BD%A6%E6%9D%80%E4%BA%BA+%E7%9B%B8%E5%85%B3%E8%B4%A3%E4%BB%BB%E4%BA%BA%E8%A2%AB%E8%BF%BD%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中以混血女孩遭哈马斯绑架 商会回应](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BB%A5%E6%B7%B7%E8%A1%80%E5%A5%B3%E5%AD%A9%E9%81%AD%E5%93%88%E9%A9%AC%E6%96%AF%E7%BB%91%E6%9E%B6+%E5%95%86%E4%BC%9A%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女子吃烤栗子被炸嘴肿得张不开](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E7%83%A4%E6%A0%97%E5%AD%90%E8%A2%AB%E7%82%B8%E5%98%B4%E8%82%BF%E5%BE%97%E5%BC%A0%E4%B8%8D%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [以色列正式向哈马斯宣战](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%AD%A3%E5%BC%8F%E5%90%91%E5%93%88%E9%A9%AC%E6%96%AF%E5%AE%A3%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男孩游泳池溺亡10分钟无人救援](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%B8%B8%E6%B3%B3%E6%B1%A0%E6%BA%BA%E4%BA%A110%E5%88%86%E9%92%9F%E6%97%A0%E4%BA%BA%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子藏刀列车杀人 相关责任人被追责](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%97%8F%E5%88%80%E5%88%97%E8%BD%A6%E6%9D%80%E4%BA%BA+%E7%9B%B8%E5%85%B3%E8%B4%A3%E4%BB%BB%E4%BA%BA%E8%A2%AB%E8%BF%BD%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [中以混血女孩遭哈马斯绑架 商会回应](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BB%A5%E6%B7%B7%E8%A1%80%E5%A5%B3%E5%AD%A9%E9%81%AD%E5%93%88%E9%A9%AC%E6%96%AF%E7%BB%91%E6%9E%B6+%E5%95%86%E4%BC%9A%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
