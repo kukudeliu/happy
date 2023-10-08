@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 15:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 15:18:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [弄丢涉密文件女孩哭诉要失业民警解困](https://s.weibo.com/weibo?q=%23%E5%BC%84%E4%B8%A2%E6%B6%89%E5%AF%86%E6%96%87%E4%BB%B6%E5%A5%B3%E5%AD%A9%E5%93%AD%E8%AF%89%E8%A6%81%E5%A4%B1%E4%B8%9A%E6%B0%91%E8%AD%A6%E8%A7%A3%E5%9B%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [李健 希望大家少经受挫折磨难](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%81%A5%20%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E5%B0%91%E7%BB%8F%E5%8F%97%E6%8C%AB%E6%8A%98%E7%A3%A8%E9%9A%BE&t=31&band_rank=5&Refer=top)<br />
 6. [蓝天救援队否认中止搜救4岁女童](https://s.weibo.com/weibo?q=%23%E8%93%9D%E5%A4%A9%E6%95%91%E6%8F%B4%E9%98%9F%E5%90%A6%E8%AE%A4%E4%B8%AD%E6%AD%A2%E6%90%9C%E6%95%914%E5%B2%81%E5%A5%B3%E7%AB%A5%23&t=31&band_rank=6&Refer=top)<br />
-7. [江歌妈妈已成立传媒公司](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%B7%B2%E6%88%90%E7%AB%8B%E4%BC%A0%E5%AA%92%E5%85%AC%E5%8F%B8%23&t=31&band_rank=7&Refer=top)<br />
-8. [老乡鸡](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B9%A1%E9%B8%A1%23&t=31&band_rank=8&Refer=top)<br />
+7. [老乡鸡](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B9%A1%E9%B8%A1%23&t=31&band_rank=7&Refer=top)<br />
+8. [江歌妈妈已成立传媒公司](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%B7%B2%E6%88%90%E7%AB%8B%E4%BC%A0%E5%AA%92%E5%85%AC%E5%8F%B8%23&t=31&band_rank=8&Refer=top)<br />
 9. [pdf写罪状录](https://s.weibo.com/weibo?q=pdf%E5%86%99%E7%BD%AA%E7%8A%B6%E5%BD%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
