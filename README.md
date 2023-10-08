@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 17:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-08 17:50:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [狐妖小红娘王权篇](https://s.weibo.com/weibo?q=%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E7%8E%8B%E6%9D%83%E7%AF%87&t=31&band_rank=2&Refer=top)<br />
 3. [中国航天67岁生日快乐](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A967%E5%B2%81%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%23&t=31&band_rank=3&Refer=top)<br />
 4. [李子柒油管粉丝不降反升](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E6%B2%B9%E7%AE%A1%E7%B2%89%E4%B8%9D%E4%B8%8D%E9%99%8D%E5%8F%8D%E5%8D%87%23&t=31&band_rank=4&Refer=top)<br />
-5. [三喜给自己化的妆我要笑死了](https://s.weibo.com/weibo?q=%E4%B8%89%E5%96%9C%E7%BB%99%E8%87%AA%E5%B7%B1%E5%8C%96%E7%9A%84%E5%A6%86%E6%88%91%E8%A6%81%E7%AC%91%E6%AD%BB%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
-6. [边伯贤 抗日神剧](https://s.weibo.com/weibo?q=%E8%BE%B9%E4%BC%AF%E8%B4%A4%20%E6%8A%97%E6%97%A5%E7%A5%9E%E5%89%A7&t=31&band_rank=6&Refer=top)<br />
+5. [边伯贤 抗日神剧](https://s.weibo.com/weibo?q=%E8%BE%B9%E4%BC%AF%E8%B4%A4%20%E6%8A%97%E6%97%A5%E7%A5%9E%E5%89%A7&t=31&band_rank=5&Refer=top)<br />
+6. [三喜给自己化的妆我要笑死了](https://s.weibo.com/weibo?q=%E4%B8%89%E5%96%9C%E7%BB%99%E8%87%AA%E5%B7%B1%E5%8C%96%E7%9A%84%E5%A6%86%E6%88%91%E8%A6%81%E7%AC%91%E6%AD%BB%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [女子帮离世闺蜜照护女儿14年](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%AE%E7%A6%BB%E4%B8%96%E9%97%BA%E8%9C%9C%E7%85%A7%E6%8A%A4%E5%A5%B3%E5%84%BF14%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [马龙外战](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99%E5%A4%96%E6%88%98&t=31&band_rank=8&Refer=top)<br />
 9. [拖把兄弟 吸氧兄弟](https://s.weibo.com/weibo?q=%E6%8B%96%E6%8A%8A%E5%85%84%E5%BC%9F%20%E5%90%B8%E6%B0%A7%E5%85%84%E5%BC%9F&t=31&band_rank=9&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [K435列车命案嫌犯被鉴定为精神病人](https://www.baidu.com/s?wd=K435%E5%88%97%E8%BD%A6%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E8%A2%AB%E9%89%B4%E5%AE%9A%E4%B8%BA%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生买炸鸡付款一看两百万](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E4%B9%B0%E7%82%B8%E9%B8%A1%E4%BB%98%E6%AC%BE%E4%B8%80%E7%9C%8B%E4%B8%A4%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [iPhone15Pro多机型价格破发](https://www.baidu.com/s?wd=iPhone15Pro%E5%A4%9A%E6%9C%BA%E5%9E%8B%E4%BB%B7%E6%A0%BC%E7%A0%B4%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [阿富汗地震已致超过1000人死亡](https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%97%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4%E8%B6%85%E8%BF%871000%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [在以中国留学生：室友被征兵入伍](https://www.baidu.com/s?wd=%E5%9C%A8%E4%BB%A5%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%EF%BC%9A%E5%AE%A4%E5%8F%8B%E8%A2%AB%E5%BE%81%E5%85%B5%E5%85%A5%E4%BC%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [叶菜放冰箱24小时会致癌？](https://www.baidu.com/s?wd=%E5%8F%B6%E8%8F%9C%E6%94%BE%E5%86%B0%E7%AE%B124%E5%B0%8F%E6%97%B6%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [K435列车命案嫌犯被鉴定为精神病人](https://www.baidu.com/s?wd=K435%E5%88%97%E8%BD%A6%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E8%A2%AB%E9%89%B4%E5%AE%9A%E4%B8%BA%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生买炸鸡付款一看两百万](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E4%B9%B0%E7%82%B8%E9%B8%A1%E4%BB%98%E6%AC%BE%E4%B8%80%E7%9C%8B%E4%B8%A4%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [iPhone15Pro多机型价格破发](https://www.baidu.com/s?wd=iPhone15Pro%E5%A4%9A%E6%9C%BA%E5%9E%8B%E4%BB%B7%E6%A0%BC%E7%A0%B4%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [阿富汗地震已致超过1000人死亡](https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%97%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4%E8%B6%85%E8%BF%871000%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [在以中国留学生：室友被征兵入伍](https://www.baidu.com/s?wd=%E5%9C%A8%E4%BB%A5%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%EF%BC%9A%E5%AE%A4%E5%8F%8B%E8%A2%AB%E5%BE%81%E5%85%B5%E5%85%A5%E4%BC%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [叶菜放冰箱24小时会致癌？](https://www.baidu.com/s?wd=%E5%8F%B6%E8%8F%9C%E6%94%BE%E5%86%B0%E7%AE%B124%E5%B0%8F%E6%97%B6%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
