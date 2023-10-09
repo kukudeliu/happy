@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 03:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 03:20:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [江歌妈妈首场直播带货 涌进10万多人](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E9%A6%96%E5%9C%BA%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7+%E6%B6%8C%E8%BF%9B10%E4%B8%87%E5%A4%9A%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李思思从央视离职](https://www.baidu.com/s?wd=%E6%9D%8E%E6%80%9D%E6%80%9D%E4%BB%8E%E5%A4%AE%E8%A7%86%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大批以色列人乘机回国参战](https://www.baidu.com/s?wd=%E5%A4%A7%E6%89%B9%E4%BB%A5%E8%89%B2%E5%88%97%E4%BA%BA%E4%B9%98%E6%9C%BA%E5%9B%9E%E5%9B%BD%E5%8F%82%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男童在游泳馆溺亡 官方调查](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E5%9C%A8%E6%B8%B8%E6%B3%B3%E9%A6%86%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国称正向以色列附近派遣航母](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%A7%B0%E6%AD%A3%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E9%99%84%E8%BF%91%E6%B4%BE%E9%81%A3%E8%88%AA%E6%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [向嘉兴红十字会捐款可返利?谣言](https://www.baidu.com/s?wd=%E5%90%91%E5%98%89%E5%85%B4%E7%BA%A2%E5%8D%81%E5%AD%97%E4%BC%9A%E6%8D%90%E6%AC%BE%E5%8F%AF%E8%BF%94%E5%88%A9%3F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [江歌妈妈首场直播带货 涌进10万多人](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E9%A6%96%E5%9C%BA%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7+%E6%B6%8C%E8%BF%9B10%E4%B8%87%E5%A4%9A%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李思思从央视离职](https://www.baidu.com/s?wd=%E6%9D%8E%E6%80%9D%E6%80%9D%E4%BB%8E%E5%A4%AE%E8%A7%86%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大批以色列人乘机回国参战](https://www.baidu.com/s?wd=%E5%A4%A7%E6%89%B9%E4%BB%A5%E8%89%B2%E5%88%97%E4%BA%BA%E4%B9%98%E6%9C%BA%E5%9B%9E%E5%9B%BD%E5%8F%82%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男童在游泳馆溺亡 官方调查](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E5%9C%A8%E6%B8%B8%E6%B3%B3%E9%A6%86%E6%BA%BA%E4%BA%A1+%E5%AE%98%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国称正向以色列附近派遣航母](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%A7%B0%E6%AD%A3%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E9%99%84%E8%BF%91%E6%B4%BE%E9%81%A3%E8%88%AA%E6%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [向嘉兴红十字会捐款可返利?谣言](https://www.baidu.com/s?wd=%E5%90%91%E5%98%89%E5%85%B4%E7%BA%A2%E5%8D%81%E5%AD%97%E4%BC%9A%E6%8D%90%E6%AC%BE%E5%8F%AF%E8%BF%94%E5%88%A9%3F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
