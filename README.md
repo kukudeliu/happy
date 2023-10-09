@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 17:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 17:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [侯明昊 智性恋](https://s.weibo.com/weibo?q=%E4%BE%AF%E6%98%8E%E6%98%8A%20%E6%99%BA%E6%80%A7%E6%81%8B&t=31&band_rank=6&Refer=top)<br />
 7. [在以色列华人中至少3人中弹4人失联](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%BB%A5%E8%89%B2%E5%88%97%E5%8D%8E%E4%BA%BA%E4%B8%AD%E8%87%B3%E5%B0%913%E4%BA%BA%E4%B8%AD%E5%BC%B94%E4%BA%BA%E5%A4%B1%E8%81%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [梅西又要来中国了](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%8F%88%E8%A6%81%E6%9D%A5%E4%B8%AD%E5%9B%BD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [PENTAGON五位成员离开CUBE](https://s.weibo.com/weibo?q=%23PENTAGON%E4%BA%94%E4%BD%8D%E6%88%90%E5%91%98%E7%A6%BB%E5%BC%80CUBE%23&t=31&band_rank=9&Refer=top)<br />
+9. [王俊凯任第七届平遥影展特约策展人](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%BB%BB%E7%AC%AC%E4%B8%83%E5%B1%8A%E5%B9%B3%E9%81%A5%E5%BD%B1%E5%B1%95%E7%89%B9%E7%BA%A6%E7%AD%96%E5%B1%95%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
