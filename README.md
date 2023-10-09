@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 12:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 12:13:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [习近平文化思想首次提出](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%87%E5%8C%96%E6%80%9D%E6%83%B3%E9%A6%96%E6%AC%A1%E6%8F%90%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [馆方回应男孩溺亡：救生员不在现场](https://www.baidu.com/s?wd=%E9%A6%86%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%A9%E6%BA%BA%E4%BA%A1%EF%BC%9A%E6%95%91%E7%94%9F%E5%91%98%E4%B8%8D%E5%9C%A8%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [海滩走失女童身上蓝衣为何值得关注](https://www.baidu.com/s?wd=%E6%B5%B7%E6%BB%A9%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%E8%BA%AB%E4%B8%8A%E8%93%9D%E8%A1%A3%E4%B8%BA%E4%BD%95%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [知名潜水员广西潜水失联超30小时](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%BD%9C%E6%B0%B4%E5%91%98%E5%B9%BF%E8%A5%BF%E6%BD%9C%E6%B0%B4%E5%A4%B1%E8%81%94%E8%B6%8530%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [120秒回顾杭州亚运赛场精彩瞬间](https://www.baidu.com/s?wd=120%E7%A7%92%E5%9B%9E%E9%A1%BE%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [33层楼被底楼住户挖出四室一厅](https://www.baidu.com/s?wd=33%E5%B1%82%E6%A5%BC%E8%A2%AB%E5%BA%95%E6%A5%BC%E4%BD%8F%E6%88%B7%E6%8C%96%E5%87%BA%E5%9B%9B%E5%AE%A4%E4%B8%80%E5%8E%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [汪小菲称还爱大S：我不会放下她](https://www.baidu.com/s?wd=%E6%B1%AA%E5%B0%8F%E8%8F%B2%E7%A7%B0%E8%BF%98%E7%88%B1%E5%A4%A7S%EF%BC%9A%E6%88%91%E4%B8%8D%E4%BC%9A%E6%94%BE%E4%B8%8B%E5%A5%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [习近平文化思想首次提出](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%87%E5%8C%96%E6%80%9D%E6%83%B3%E9%A6%96%E6%AC%A1%E6%8F%90%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [馆方回应男孩溺亡：救生员不在现场](https://www.baidu.com/s?wd=%E9%A6%86%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%A9%E6%BA%BA%E4%BA%A1%EF%BC%9A%E6%95%91%E7%94%9F%E5%91%98%E4%B8%8D%E5%9C%A8%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [海滩走失女童身上蓝衣为何值得关注](https://www.baidu.com/s?wd=%E6%B5%B7%E6%BB%A9%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%E8%BA%AB%E4%B8%8A%E8%93%9D%E8%A1%A3%E4%B8%BA%E4%BD%95%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [知名潜水员广西潜水失联超30小时](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%BD%9C%E6%B0%B4%E5%91%98%E5%B9%BF%E8%A5%BF%E6%BD%9C%E6%B0%B4%E5%A4%B1%E8%81%94%E8%B6%8530%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [120秒回顾杭州亚运赛场精彩瞬间](https://www.baidu.com/s?wd=120%E7%A7%92%E5%9B%9E%E9%A1%BE%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [33层楼被底楼住户挖出四室一厅](https://www.baidu.com/s?wd=33%E5%B1%82%E6%A5%BC%E8%A2%AB%E5%BA%95%E6%A5%BC%E4%BD%8F%E6%88%B7%E6%8C%96%E5%87%BA%E5%9B%9B%E5%AE%A4%E4%B8%80%E5%8E%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [汪小菲称还爱大S：我不会放下她](https://www.baidu.com/s?wd=%E6%B1%AA%E5%B0%8F%E8%8F%B2%E7%A7%B0%E8%BF%98%E7%88%B1%E5%A4%A7S%EF%BC%9A%E6%88%91%E4%B8%8D%E4%BC%9A%E6%94%BE%E4%B8%8B%E5%A5%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
