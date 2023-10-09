@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 11:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 11:52:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [女儿一遍遍喊妈妈女子看后连夜赶回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E4%B8%80%E9%81%8D%E9%81%8D%E5%96%8A%E5%A6%88%E5%A6%88%E5%A5%B3%E5%AD%90%E7%9C%8B%E5%90%8E%E8%BF%9E%E5%A4%9C%E8%B5%B6%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [11岁女孩将狗偷走掰断其牙齿舌头](https://www.baidu.com/s?wd=11%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%B0%86%E7%8B%97%E5%81%B7%E8%B5%B0%E6%8E%B0%E6%96%AD%E5%85%B6%E7%89%99%E9%BD%BF%E8%88%8C%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子7岁被拐母亲遭人贩子打死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%907%E5%B2%81%E8%A2%AB%E6%8B%90%E6%AF%8D%E4%BA%B2%E9%81%AD%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [拒绝富士康代工？华为辟谣](https://www.baidu.com/s?wd=%E6%8B%92%E7%BB%9D%E5%AF%8C%E5%A3%AB%E5%BA%B7%E4%BB%A3%E5%B7%A5%EF%BC%9F%E5%8D%8E%E4%B8%BA%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [空心菜是抽筋菜吃完会抽筋？谣言](https://www.baidu.com/s?wd=%E7%A9%BA%E5%BF%83%E8%8F%9C%E6%98%AF%E6%8A%BD%E7%AD%8B%E8%8F%9C%E5%90%83%E5%AE%8C%E4%BC%9A%E6%8A%BD%E7%AD%8B%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女儿一遍遍喊妈妈女子看后连夜赶回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E4%B8%80%E9%81%8D%E9%81%8D%E5%96%8A%E5%A6%88%E5%A6%88%E5%A5%B3%E5%AD%90%E7%9C%8B%E5%90%8E%E8%BF%9E%E5%A4%9C%E8%B5%B6%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [11岁女孩将狗偷走掰断其牙齿舌头](https://www.baidu.com/s?wd=11%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%B0%86%E7%8B%97%E5%81%B7%E8%B5%B0%E6%8E%B0%E6%96%AD%E5%85%B6%E7%89%99%E9%BD%BF%E8%88%8C%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子7岁被拐母亲遭人贩子打死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%907%E5%B2%81%E8%A2%AB%E6%8B%90%E6%AF%8D%E4%BA%B2%E9%81%AD%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [拒绝富士康代工？华为辟谣](https://www.baidu.com/s?wd=%E6%8B%92%E7%BB%9D%E5%AF%8C%E5%A3%AB%E5%BA%B7%E4%BB%A3%E5%B7%A5%EF%BC%9F%E5%8D%8E%E4%B8%BA%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [空心菜是抽筋菜吃完会抽筋？谣言](https://www.baidu.com/s?wd=%E7%A9%BA%E5%BF%83%E8%8F%9C%E6%98%AF%E6%8A%BD%E7%AD%8B%E8%8F%9C%E5%90%83%E5%AE%8C%E4%BC%9A%E6%8A%BD%E7%AD%8B%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
