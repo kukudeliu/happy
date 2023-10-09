@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 11:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 11:58:01</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [习近平文化思想首次提出](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%87%E5%8C%96%E6%80%9D%E6%83%B3%E9%A6%96%E6%AC%A1%E6%8F%90%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [馆方回应男孩溺亡：救生员不在现场](https://www.baidu.com/s?wd=%E9%A6%86%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%A9%E6%BA%BA%E4%BA%A1%EF%BC%9A%E6%95%91%E7%94%9F%E5%91%98%E4%B8%8D%E5%9C%A8%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [女子帮离世闺蜜照护女儿14年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%AE%E7%A6%BB%E4%B8%96%E9%97%BA%E8%9C%9C%E7%85%A7%E6%8A%A4%E5%A5%B3%E5%84%BF14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [海滩走失女童身上蓝衣为何值得关注](https://www.baidu.com/s?wd=%E6%B5%B7%E6%BB%A9%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%E8%BA%AB%E4%B8%8A%E8%93%9D%E8%A1%A3%E4%B8%BA%E4%BD%95%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [120秒回顾杭州亚运赛场精彩瞬间](https://www.baidu.com/s?wd=120%E7%A7%92%E5%9B%9E%E9%A1%BE%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [95.2%的主播月收入5000元以下](https://www.baidu.com/s?wd=95.2%25%E7%9A%84%E4%B8%BB%E6%92%AD%E6%9C%88%E6%94%B6%E5%85%A55000%E5%85%83%E4%BB%A5%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女儿一遍遍喊妈妈女子看后连夜赶回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E4%B8%80%E9%81%8D%E9%81%8D%E5%96%8A%E5%A6%88%E5%A6%88%E5%A5%B3%E5%AD%90%E7%9C%8B%E5%90%8E%E8%BF%9E%E5%A4%9C%E8%B5%B6%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [11岁女孩将狗偷走掰断其牙齿舌头](https://www.baidu.com/s?wd=11%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%B0%86%E7%8B%97%E5%81%B7%E8%B5%B0%E6%8E%B0%E6%96%AD%E5%85%B6%E7%89%99%E9%BD%BF%E8%88%8C%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子7岁被拐母亲遭人贩子打死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%907%E5%B2%81%E8%A2%AB%E6%8B%90%E6%AF%8D%E4%BA%B2%E9%81%AD%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [女儿一遍遍喊妈妈女子看后连夜赶回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E4%B8%80%E9%81%8D%E9%81%8D%E5%96%8A%E5%A6%88%E5%A6%88%E5%A5%B3%E5%AD%90%E7%9C%8B%E5%90%8E%E8%BF%9E%E5%A4%9C%E8%B5%B6%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [11岁女孩将狗偷走掰断其牙齿舌头](https://www.baidu.com/s?wd=11%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%B0%86%E7%8B%97%E5%81%B7%E8%B5%B0%E6%8E%B0%E6%96%AD%E5%85%B6%E7%89%99%E9%BD%BF%E8%88%8C%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子7岁被拐母亲遭人贩子打死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%907%E5%B2%81%E8%A2%AB%E6%8B%90%E6%AF%8D%E4%BA%B2%E9%81%AD%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家建议投入20万亿改善居民收入](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E6%8A%95%E5%85%A520%E4%B8%87%E4%BA%BF%E6%94%B9%E5%96%84%E5%B1%85%E6%B0%91%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [空心菜是抽筋菜吃完会抽筋？谣言](https://www.baidu.com/s?wd=%E7%A9%BA%E5%BF%83%E8%8F%9C%E6%98%AF%E6%8A%BD%E7%AD%8B%E8%8F%9C%E5%90%83%E5%AE%8C%E4%BC%9A%E6%8A%BD%E7%AD%8B%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [习近平文化思想首次提出](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%87%E5%8C%96%E6%80%9D%E6%83%B3%E9%A6%96%E6%AC%A1%E6%8F%90%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [馆方回应男孩溺亡：救生员不在现场](https://www.baidu.com/s?wd=%E9%A6%86%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%A9%E6%BA%BA%E4%BA%A1%EF%BC%9A%E6%95%91%E7%94%9F%E5%91%98%E4%B8%8D%E5%9C%A8%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [女子帮离世闺蜜照护女儿14年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%AE%E7%A6%BB%E4%B8%96%E9%97%BA%E8%9C%9C%E7%85%A7%E6%8A%A4%E5%A5%B3%E5%84%BF14%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [海滩走失女童身上蓝衣为何值得关注](https://www.baidu.com/s?wd=%E6%B5%B7%E6%BB%A9%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%E8%BA%AB%E4%B8%8A%E8%93%9D%E8%A1%A3%E4%B8%BA%E4%BD%95%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [120秒回顾杭州亚运赛场精彩瞬间](https://www.baidu.com/s?wd=120%E7%A7%92%E5%9B%9E%E9%A1%BE%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [95.2%的主播月收入5000元以下](https://www.baidu.com/s?wd=95.2%25%E7%9A%84%E4%B8%BB%E6%92%AD%E6%9C%88%E6%94%B6%E5%85%A55000%E5%85%83%E4%BB%A5%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女儿一遍遍喊妈妈女子看后连夜赶回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E4%B8%80%E9%81%8D%E9%81%8D%E5%96%8A%E5%A6%88%E5%A6%88%E5%A5%B3%E5%AD%90%E7%9C%8B%E5%90%8E%E8%BF%9E%E5%A4%9C%E8%B5%B6%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [11岁女孩将狗偷走掰断其牙齿舌头](https://www.baidu.com/s?wd=11%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%B0%86%E7%8B%97%E5%81%B7%E8%B5%B0%E6%8E%B0%E6%96%AD%E5%85%B6%E7%89%99%E9%BD%BF%E8%88%8C%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子7岁被拐母亲遭人贩子打死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%907%E5%B2%81%E8%A2%AB%E6%8B%90%E6%AF%8D%E4%BA%B2%E9%81%AD%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [女儿一遍遍喊妈妈女子看后连夜赶回](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E4%B8%80%E9%81%8D%E9%81%8D%E5%96%8A%E5%A6%88%E5%A6%88%E5%A5%B3%E5%AD%90%E7%9C%8B%E5%90%8E%E8%BF%9E%E5%A4%9C%E8%B5%B6%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [11岁女孩将狗偷走掰断其牙齿舌头](https://www.baidu.com/s?wd=11%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%B0%86%E7%8B%97%E5%81%B7%E8%B5%B0%E6%8E%B0%E6%96%AD%E5%85%B6%E7%89%99%E9%BD%BF%E8%88%8C%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子7岁被拐母亲遭人贩子打死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%907%E5%B2%81%E8%A2%AB%E6%8B%90%E6%AF%8D%E4%BA%B2%E9%81%AD%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家建议投入20万亿改善居民收入](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E6%8A%95%E5%85%A520%E4%B8%87%E4%BA%BF%E6%94%B9%E5%96%84%E5%B1%85%E6%B0%91%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [空心菜是抽筋菜吃完会抽筋？谣言](https://www.baidu.com/s?wd=%E7%A9%BA%E5%BF%83%E8%8F%9C%E6%98%AF%E6%8A%BD%E7%AD%8B%E8%8F%9C%E5%90%83%E5%AE%8C%E4%BC%9A%E6%8A%BD%E7%AD%8B%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
