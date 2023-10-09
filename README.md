@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 12:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 12:55:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [月薪4000的小镇青年背过万的包](https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA4000%E7%9A%84%E5%B0%8F%E9%95%87%E9%9D%92%E5%B9%B4%E8%83%8C%E8%BF%87%E4%B8%87%E7%9A%84%E5%8C%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [近1000只鸟集体撞向一栋大楼后死亡](https://s.weibo.com/weibo?q=%23%E8%BF%911000%E5%8F%AA%E9%B8%9F%E9%9B%86%E4%BD%93%E6%92%9E%E5%90%91%E4%B8%80%E6%A0%8B%E5%A4%A7%E6%A5%BC%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [很多人发现肿瘤时已经是中晚期](https://s.weibo.com/weibo?q=%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%8F%91%E7%8E%B0%E8%82%BF%E7%98%A4%E6%97%B6%E5%B7%B2%E7%BB%8F%E6%98%AF%E4%B8%AD%E6%99%9A%E6%9C%9F&t=31&band_rank=7&Refer=top)<br />
-8. [李思思从央视离职](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%80%9D%E6%80%9D%E4%BB%8E%E5%A4%AE%E8%A7%86%E7%A6%BB%E8%81%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [爱格停刊](https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%A0%BC%E5%81%9C%E5%88%8A%23&t=31&band_rank=9&Refer=top)<br />
+8. [爱格停刊](https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%A0%BC%E5%81%9C%E5%88%8A%23&t=31&band_rank=8&Refer=top)<br />
+9. [李思思从央视离职](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%80%9D%E6%80%9D%E4%BB%8E%E5%A4%AE%E8%A7%86%E7%A6%BB%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
