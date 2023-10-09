@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 10:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 10:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以色列25岁女学生音乐节上被哈马斯掳走](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%9725%E5%B2%81%E5%A5%B3%E5%AD%A6%E7%94%9F%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B8%8A%E8%A2%AB%E5%93%88%E9%A9%AC%E6%96%AF%E6%8E%B3%E8%B5%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [王权富贵](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9D%83%E5%AF%8C%E8%B4%B5&t=31&band_rank=7&Refer=top)<br />
 8. [网友劝张老板自首](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%8A%9D%E5%BC%A0%E8%80%81%E6%9D%BF%E8%87%AA%E9%A6%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [以色列音乐节遇袭至少260死](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E9%9F%B3%E4%B9%90%E8%8A%82%E9%81%87%E8%A2%AD%E8%87%B3%E5%B0%91260%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [王楚钦 头发长了就马上重新剪](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%20%E5%A4%B4%E5%8F%91%E9%95%BF%E4%BA%86%E5%B0%B1%E9%A9%AC%E4%B8%8A%E9%87%8D%E6%96%B0%E5%89%AA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
