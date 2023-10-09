@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 11:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 11:18:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [视频回顾杭州亚运会暖心瞬间](https://s.weibo.com/weibo?q=%23%E8%A7%86%E9%A2%91%E5%9B%9E%E9%A1%BE%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%9A%96%E5%BF%83%E7%9E%AC%E9%97%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [近1000只鸟集体撞向一栋大楼后死亡](https://s.weibo.com/weibo?q=%23%E8%BF%911000%E5%8F%AA%E9%B8%9F%E9%9B%86%E4%BD%93%E6%92%9E%E5%90%91%E4%B8%80%E6%A0%8B%E5%A4%A7%E6%A5%BC%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [很多人发现肿瘤时已经是中晚期](https://s.weibo.com/weibo?q=%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%8F%91%E7%8E%B0%E8%82%BF%E7%98%A4%E6%97%B6%E5%B7%B2%E7%BB%8F%E6%98%AF%E4%B8%AD%E6%99%9A%E6%9C%9F&t=31&band_rank=5&Refer=top)<br />
-6. [海底捞报名](https://s.weibo.com/weibo?q=%E6%B5%B7%E5%BA%95%E6%8D%9E%E6%8A%A5%E5%90%8D&t=31&band_rank=6&Refer=top)<br />
-7. [以色列25岁女学生音乐节上被哈马斯掳走](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%9725%E5%B2%81%E5%A5%B3%E5%AD%A6%E7%94%9F%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B8%8A%E8%A2%AB%E5%93%88%E9%A9%AC%E6%96%AF%E6%8E%B3%E8%B5%B0%23&t=31&band_rank=7&Refer=top)<br />
+6. [以色列25岁女学生音乐节上被哈马斯掳走](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%9725%E5%B2%81%E5%A5%B3%E5%AD%A6%E7%94%9F%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B8%8A%E8%A2%AB%E5%93%88%E9%A9%AC%E6%96%AF%E6%8E%B3%E8%B5%B0%23&t=31&band_rank=6&Refer=top)<br />
+7. [海底捞报名](https://s.weibo.com/weibo?q=%E6%B5%B7%E5%BA%95%E6%8D%9E%E6%8A%A5%E5%90%8D&t=31&band_rank=7&Refer=top)<br />
 8. [王权富贵](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9D%83%E5%AF%8C%E8%B4%B5&t=31&band_rank=8&Refer=top)<br />
-9. [被浙江的婚宴震惊到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%B5%99%E6%B1%9F%E7%9A%84%E5%A9%9A%E5%AE%B4%E9%9C%87%E6%83%8A%E5%88%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [以色列大使馆](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%A7%E4%BD%BF%E9%A6%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
