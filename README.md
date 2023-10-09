@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 16:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 16:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [蓝盈莹 浣碧最爱的两个男人都在身边了](https://s.weibo.com/weibo?q=%E8%93%9D%E7%9B%88%E8%8E%B9%20%E6%B5%A3%E7%A2%A7%E6%9C%80%E7%88%B1%E7%9A%84%E4%B8%A4%E4%B8%AA%E7%94%B7%E4%BA%BA%E9%83%BD%E5%9C%A8%E8%BA%AB%E8%BE%B9%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [老乡鸡发文道歉](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B9%A1%E9%B8%A1%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [近1000只鸟集体撞向一栋大楼后死亡](https://s.weibo.com/weibo?q=%23%E8%BF%911000%E5%8F%AA%E9%B8%9F%E9%9B%86%E4%BD%93%E6%92%9E%E5%90%91%E4%B8%80%E6%A0%8B%E5%A4%A7%E6%A5%BC%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [狐妖小红娘 中年古偶](https://s.weibo.com/weibo?q=%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%20%E4%B8%AD%E5%B9%B4%E5%8F%A4%E5%81%B6&t=31&band_rank=9&Refer=top)<br />
+9. [老乡鸡免费吃饭的意义](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B9%A1%E9%B8%A1%E5%85%8D%E8%B4%B9%E5%90%83%E9%A5%AD%E7%9A%84%E6%84%8F%E4%B9%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
