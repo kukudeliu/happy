@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 21:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 21:56:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [Angelababy喂范丞丞吃葡萄主打避嫌](https://s.weibo.com/weibo?q=%23Angelababy%E5%96%82%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%90%83%E8%91%A1%E8%90%84%E4%B8%BB%E6%89%93%E9%81%BF%E5%AB%8C%23&t=31&band_rank=2&Refer=top)<br />
 3. [文化赋能以更自信姿态开创未来](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E8%B5%8B%E8%83%BD%E4%BB%A5%E6%9B%B4%E8%87%AA%E4%BF%A1%E5%A7%BF%E6%80%81%E5%BC%80%E5%88%9B%E6%9C%AA%E6%9D%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [张真源 跑男](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%9C%9F%E6%BA%90%20%E8%B7%91%E7%94%B7&t=31&band_rank=4&Refer=top)<br />
-5. [陈奕迅在美吐槽旧金山街头吸毒泛滥](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E5%9C%A8%E7%BE%8E%E5%90%90%E6%A7%BD%E6%97%A7%E9%87%91%E5%B1%B1%E8%A1%97%E5%A4%B4%E5%90%B8%E6%AF%92%E6%B3%9B%E6%BB%A5%23&t=31&band_rank=5&Refer=top)<br />
-6. [Z先生到底是谁](https://s.weibo.com/weibo?q=%23Z%E5%85%88%E7%94%9F%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%23&t=31&band_rank=6&Refer=top)<br />
+5. [Z先生到底是谁](https://s.weibo.com/weibo?q=%23Z%E5%85%88%E7%94%9F%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%23&t=31&band_rank=5&Refer=top)<br />
+6. [陈奕迅在美吐槽旧金山街头吸毒泛滥](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E5%9C%A8%E7%BE%8E%E5%90%90%E6%A7%BD%E6%97%A7%E9%87%91%E5%B1%B1%E8%A1%97%E5%A4%B4%E5%90%B8%E6%AF%92%E6%B3%9B%E6%BB%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [美国同意三星和SK海力士向其中国工厂提供设备](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%90%8C%E6%84%8F%E4%B8%89%E6%98%9F%E5%92%8CSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%90%91%E5%85%B6%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%8E%82%E6%8F%90%E4%BE%9B%E8%AE%BE%E5%A4%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [微信内存从126G到75G](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%86%85%E5%AD%98%E4%BB%8E126G%E5%88%B075G%23&t=31&band_rank=8&Refer=top)<br />
 9. [魏大勋说不会撕下中戏校服上的胶布](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%AF%B4%E4%B8%8D%E4%BC%9A%E6%92%95%E4%B8%8B%E4%B8%AD%E6%88%8F%E6%A0%A1%E6%9C%8D%E4%B8%8A%E7%9A%84%E8%83%B6%E5%B8%83%23&t=31&band_rank=9&Refer=top)<br />
