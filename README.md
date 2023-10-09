@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 10:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 10:57:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以色列25岁女学生音乐节上被哈马斯掳走](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%9725%E5%B2%81%E5%A5%B3%E5%AD%A6%E7%94%9F%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B8%8A%E8%A2%AB%E5%93%88%E9%A9%AC%E6%96%AF%E6%8E%B3%E8%B5%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [被浙江的婚宴震惊到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%B5%99%E6%B1%9F%E7%9A%84%E5%A9%9A%E5%AE%B4%E9%9C%87%E6%83%8A%E5%88%B0%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [妻子过生日丈夫偷偷买回6000元手机](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E4%B8%88%E5%A4%AB%E5%81%B7%E5%81%B7%E4%B9%B0%E5%9B%9E6000%E5%85%83%E6%89%8B%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [以色列大使馆](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%A7%E4%BD%BF%E9%A6%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [网友劝张老板自首](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%8A%9D%E5%BC%A0%E8%80%81%E6%9D%BF%E8%87%AA%E9%A6%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
