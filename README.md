@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 21:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 21:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [微信内存从126G到75G](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%86%85%E5%AD%98%E4%BB%8E126G%E5%88%B075G%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子涉黄打火机发民警手上](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B6%89%E9%BB%84%E6%89%93%E7%81%AB%E6%9C%BA%E5%8F%91%E6%B0%91%E8%AD%A6%E6%89%8B%E4%B8%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [关晓彤微博之夜捂嘴原因](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E6%8D%82%E5%98%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [奚梦瑶晒何猷君的半永久队服皮肤](https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E6%99%92%E4%BD%95%E7%8C%B7%E5%90%9B%E7%9A%84%E5%8D%8A%E6%B0%B8%E4%B9%85%E9%98%9F%E6%9C%8D%E7%9A%AE%E8%82%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [魏大勋说不会撕下中戏校服上的胶布](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%AF%B4%E4%B8%8D%E4%BC%9A%E6%92%95%E4%B8%8B%E4%B8%AD%E6%88%8F%E6%A0%A1%E6%9C%8D%E4%B8%8A%E7%9A%84%E8%83%B6%E5%B8%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
