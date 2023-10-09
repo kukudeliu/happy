@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 14:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 14:42:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [很多人发现肿瘤时已经是中晚期](https://s.weibo.com/weibo?q=%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%8F%91%E7%8E%B0%E8%82%BF%E7%98%A4%E6%97%B6%E5%B7%B2%E7%BB%8F%E6%98%AF%E4%B8%AD%E6%99%9A%E6%9C%9F&t=31&band_rank=5&Refer=top)<br />
 6. [爱格停刊](https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%A0%BC%E5%81%9C%E5%88%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [狐妖小红娘 中年古偶](https://s.weibo.com/weibo?q=%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%20%E4%B8%AD%E5%B9%B4%E5%8F%A4%E5%81%B6&t=31&band_rank=7&Refer=top)<br />
-8. [近1000只鸟集体撞向一栋大楼后死亡](https://s.weibo.com/weibo?q=%23%E8%BF%911000%E5%8F%AA%E9%B8%9F%E9%9B%86%E4%BD%93%E6%92%9E%E5%90%91%E4%B8%80%E6%A0%8B%E5%A4%A7%E6%A5%BC%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [瑞幸 猫和老鼠](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%20%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0&t=31&band_rank=9&Refer=top)<br />
+8. [胡兵因为妈妈意识到人生需要发生一个变革](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B5%E5%9B%A0%E4%B8%BA%E5%A6%88%E5%A6%88%E6%84%8F%E8%AF%86%E5%88%B0%E4%BA%BA%E7%94%9F%E9%9C%80%E8%A6%81%E5%8F%91%E7%94%9F%E4%B8%80%E4%B8%AA%E5%8F%98%E9%9D%A9%23&t=31&band_rank=8&Refer=top)<br />
+9. [近1000只鸟集体撞向一栋大楼后死亡](https://s.weibo.com/weibo?q=%23%E8%BF%911000%E5%8F%AA%E9%B8%9F%E9%9B%86%E4%BD%93%E6%92%9E%E5%90%91%E4%B8%80%E6%A0%8B%E5%A4%A7%E6%A5%BC%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
