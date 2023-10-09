@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 22:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 22:48:01</h4></div>
 
 > 微博  
 
-1. [老两口退休工资1万2被女儿送养老院](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B8%A4%E5%8F%A3%E9%80%80%E4%BC%91%E5%B7%A5%E8%B5%841%E4%B8%872%E8%A2%AB%E5%A5%B3%E5%84%BF%E9%80%81%E5%85%BB%E8%80%81%E9%99%A2%23&t=31&band_rank=1&Refer=top)<br />
-2. [Z先生到底是谁](https://s.weibo.com/weibo?q=%23Z%E5%85%88%E7%94%9F%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%23&t=31&band_rank=2&Refer=top)<br />
+1. [Z先生到底是谁](https://s.weibo.com/weibo?q=%23Z%E5%85%88%E7%94%9F%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%23&t=31&band_rank=1&Refer=top)<br />
+2. [老两口退休工资1万2被女儿送养老院](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B8%A4%E5%8F%A3%E9%80%80%E4%BC%91%E5%B7%A5%E8%B5%841%E4%B8%872%E8%A2%AB%E5%A5%B3%E5%84%BF%E9%80%81%E5%85%BB%E8%80%81%E9%99%A2%23&t=31&band_rank=2&Refer=top)<br />
 3. [文化赋能以更自信姿态开创未来](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E8%B5%8B%E8%83%BD%E4%BB%A5%E6%9B%B4%E8%87%AA%E4%BF%A1%E5%A7%BF%E6%80%81%E5%BC%80%E5%88%9B%E6%9C%AA%E6%9D%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [陈奕迅在美吐槽旧金山街头吸毒泛滥](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E5%9C%A8%E7%BE%8E%E5%90%90%E6%A7%BD%E6%97%A7%E9%87%91%E5%B1%B1%E8%A1%97%E5%A4%B4%E5%90%B8%E6%AF%92%E6%B3%9B%E6%BB%A5%23&t=31&band_rank=4&Refer=top)<br />
 5. [蟹老板的女儿为什么是个抹香鲸](https://s.weibo.com/weibo?q=%E8%9F%B9%E8%80%81%E6%9D%BF%E7%9A%84%E5%A5%B3%E5%84%BF%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E4%B8%AA%E6%8A%B9%E9%A6%99%E9%B2%B8&t=31&band_rank=5&Refer=top)<br />
