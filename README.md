@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 08:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 08:35:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [原来康辉去年就催过了](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%BA%B7%E8%BE%89%E5%8E%BB%E5%B9%B4%E5%B0%B1%E5%82%AC%E8%BF%87%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [以色列音乐节遇袭至少260死](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E9%9F%B3%E4%B9%90%E8%8A%82%E9%81%87%E8%A2%AD%E8%87%B3%E5%B0%91260%E6%AD%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦战胜马龙夺冠](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%88%98%E8%83%9C%E9%A9%AC%E9%BE%99%E5%A4%BA%E5%86%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [男孩游泳池溺亡10分钟无人救援](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E6%B8%B8%E6%B3%B3%E6%B1%A0%E6%BA%BA%E4%BA%A110%E5%88%86%E9%92%9F%E6%97%A0%E4%BA%BA%E6%95%91%E6%8F%B4%23&t=31&band_rank=8&Refer=top)<br />
+8. [白敬亭沙溢家编外人员](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%B2%99%E6%BA%A2%E5%AE%B6%E7%BC%96%E5%A4%96%E4%BA%BA%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
 9. [以色列正式向哈马斯宣战](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%AD%A3%E5%BC%8F%E5%90%91%E5%93%88%E9%A9%AC%E6%96%AF%E5%AE%A3%E6%88%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
