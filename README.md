@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 15:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 15:35:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [被清退的编外人员如何过难关](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%B8%85%E9%80%80%E7%9A%84%E7%BC%96%E5%A4%96%E4%BA%BA%E5%91%98%E5%A6%82%E4%BD%95%E8%BF%87%E9%9A%BE%E5%85%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [狐妖小红娘 中年古偶](https://s.weibo.com/weibo?q=%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%20%E4%B8%AD%E5%B9%B4%E5%8F%A4%E5%81%B6&t=31&band_rank=7&Refer=top)<br />
 8. [月薪4000的小镇青年背过万的包](https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA4000%E7%9A%84%E5%B0%8F%E9%95%87%E9%9D%92%E5%B9%B4%E8%83%8C%E8%BF%87%E4%B8%87%E7%9A%84%E5%8C%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [爱格停刊](https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%A0%BC%E5%81%9C%E5%88%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [郭敬明连续两天发了侯明昊](https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%95%AC%E6%98%8E%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%A4%A9%E5%8F%91%E4%BA%86%E4%BE%AF%E6%98%8E%E6%98%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
