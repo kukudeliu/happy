@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 20:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-09 20:03:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [霍启刚抱着郭晶晶的亚运火炬离开杭州](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E6%8A%B1%E7%9D%80%E9%83%AD%E6%99%B6%E6%99%B6%E7%9A%84%E4%BA%9A%E8%BF%90%E7%81%AB%E7%82%AC%E7%A6%BB%E5%BC%80%E6%9D%AD%E5%B7%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [鲁豫首穿马面裙](https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%B1%AB%E9%A6%96%E7%A9%BF%E9%A9%AC%E9%9D%A2%E8%A3%99%23&t=31&band_rank=7&Refer=top)<br />
 8. [王鹤润演甜妹](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%B6%A6%E6%BC%94%E7%94%9C%E5%A6%B9&t=31&band_rank=8&Refer=top)<br />
-9. [今天这束花必须归我姐](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E8%BF%99%E6%9D%9F%E8%8A%B1%E5%BF%85%E9%A1%BB%E5%BD%92%E6%88%91%E5%A7%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [黄石通报男子当街锤人致死](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%9F%B3%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E9%94%A4%E4%BA%BA%E8%87%B4%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
