@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 18:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 18:39:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [记者深圳街头采访被抢摄像机](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E6%B7%B1%E5%9C%B3%E8%A1%97%E5%A4%B4%E9%87%87%E8%AE%BF%E8%A2%AB%E6%8A%A2%E6%91%84%E5%83%8F%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [用中国传统色打开秋天](https://www.baidu.com/s?wd=%E7%94%A8%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E8%89%B2%E6%89%93%E5%BC%80%E7%A7%8B%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [深圳1800万元彩票大奖无人认领](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B31800%E4%B8%87%E5%85%83%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96%E6%97%A0%E4%BA%BA%E8%AE%A4%E9%A2%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [“脆皮大学生”走红](https://www.baidu.com/s?wd=%E2%80%9C%E8%84%86%E7%9A%AE%E5%A4%A7%E5%AD%A6%E7%94%9F%E2%80%9D%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [1个月接诊1700多名脆皮年轻人](https://www.baidu.com/s?wd=1%E4%B8%AA%E6%9C%88%E6%8E%A5%E8%AF%8A1700%E5%A4%9A%E5%90%8D%E8%84%86%E7%9A%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广州队主力球员月薪仅1万5](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%98%9F%E4%B8%BB%E5%8A%9B%E7%90%83%E5%91%98%E6%9C%88%E8%96%AA%E4%BB%851%E4%B8%875&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [2名中国工人在冲突中丧生？中方回应](https://www.baidu.com/s?wd=2%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%BA%BA%E5%9C%A8%E5%86%B2%E7%AA%81%E4%B8%AD%E4%B8%A7%E7%94%9F%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [“9位数”前局长曾说老实干到退休](https://www.baidu.com/s?wd=%E2%80%9C9%E4%BD%8D%E6%95%B0%E2%80%9D%E5%89%8D%E5%B1%80%E9%95%BF%E6%9B%BE%E8%AF%B4%E8%80%81%E5%AE%9E%E5%B9%B2%E5%88%B0%E9%80%80%E4%BC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家长吐槽被学校要求轮班看晚自习](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E8%A2%AB%E5%AD%A6%E6%A0%A1%E8%A6%81%E6%B1%82%E8%BD%AE%E7%8F%AD%E7%9C%8B%E6%99%9A%E8%87%AA%E4%B9%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [被恒大欠款34亿元？沧州银行:不实](https://www.baidu.com/s?wd=%E8%A2%AB%E6%81%92%E5%A4%A7%E6%AC%A0%E6%AC%BE34%E4%BA%BF%E5%85%83%EF%BC%9F%E6%B2%A7%E5%B7%9E%E9%93%B6%E8%A1%8C%3A%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [记者深圳街头采访被抢摄像机](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E6%B7%B1%E5%9C%B3%E8%A1%97%E5%A4%B4%E9%87%87%E8%AE%BF%E8%A2%AB%E6%8A%A2%E6%91%84%E5%83%8F%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [用中国传统色打开秋天](https://www.baidu.com/s?wd=%E7%94%A8%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E8%89%B2%E6%89%93%E5%BC%80%E7%A7%8B%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [深圳1800万元彩票大奖无人认领](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B31800%E4%B8%87%E5%85%83%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96%E6%97%A0%E4%BA%BA%E8%AE%A4%E9%A2%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [“脆皮大学生”走红](https://www.baidu.com/s?wd=%E2%80%9C%E8%84%86%E7%9A%AE%E5%A4%A7%E5%AD%A6%E7%94%9F%E2%80%9D%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [1个月接诊1700多名脆皮年轻人](https://www.baidu.com/s?wd=1%E4%B8%AA%E6%9C%88%E6%8E%A5%E8%AF%8A1700%E5%A4%9A%E5%90%8D%E8%84%86%E7%9A%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广州队主力球员月薪仅1万5](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%98%9F%E4%B8%BB%E5%8A%9B%E7%90%83%E5%91%98%E6%9C%88%E8%96%AA%E4%BB%851%E4%B8%875&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [2名中国工人在冲突中丧生？中方回应](https://www.baidu.com/s?wd=2%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%BA%BA%E5%9C%A8%E5%86%B2%E7%AA%81%E4%B8%AD%E4%B8%A7%E7%94%9F%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [“9位数”前局长曾说老实干到退休](https://www.baidu.com/s?wd=%E2%80%9C9%E4%BD%8D%E6%95%B0%E2%80%9D%E5%89%8D%E5%B1%80%E9%95%BF%E6%9B%BE%E8%AF%B4%E8%80%81%E5%AE%9E%E5%B9%B2%E5%88%B0%E9%80%80%E4%BC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家长吐槽被学校要求轮班看晚自习](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E8%A2%AB%E5%AD%A6%E6%A0%A1%E8%A6%81%E6%B1%82%E8%BD%AE%E7%8F%AD%E7%9C%8B%E6%99%9A%E8%87%AA%E4%B9%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [被恒大欠款34亿元？沧州银行:不实](https://www.baidu.com/s?wd=%E8%A2%AB%E6%81%92%E5%A4%A7%E6%AC%A0%E6%AC%BE34%E4%BA%BF%E5%85%83%EF%BC%9F%E6%B2%A7%E5%B7%9E%E9%93%B6%E8%A1%8C%3A%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
