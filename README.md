@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 20:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 20:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [欧阳娣娣 创5](https://s.weibo.com/weibo?q=%E6%AC%A7%E9%98%B3%E5%A8%A3%E5%A8%A3%20%E5%88%9B5&t=31&band_rank=6&Refer=top)<br />
 7. [终于搞懂五险一金了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%90%9E%E6%87%82%E4%BA%94%E9%99%A9%E4%B8%80%E9%87%91%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [创5选手撞脸鹿晗关晓彤](https://s.weibo.com/weibo?q=%23%E5%88%9B5%E9%80%89%E6%89%8B%E6%92%9E%E8%84%B8%E9%B9%BF%E6%99%97%E5%85%B3%E6%99%93%E5%BD%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [许昕](https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%95&t=31&band_rank=9&Refer=top)<br />
+9. [9月新增本土新冠死亡病例45例](https://s.weibo.com/weibo?q=%239%E6%9C%88%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%96%B0%E5%86%A0%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B45%E4%BE%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
