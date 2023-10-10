@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 20:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 20:57:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [晚上十一点之前尽量入睡](https://s.weibo.com/weibo?q=%23%E6%99%9A%E4%B8%8A%E5%8D%81%E4%B8%80%E7%82%B9%E4%B9%8B%E5%89%8D%E5%B0%BD%E9%87%8F%E5%85%A5%E7%9D%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [中国公民自愿离开巴以外交部将全力协助](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%87%AA%E6%84%BF%E7%A6%BB%E5%BC%80%E5%B7%B4%E4%BB%A5%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%86%E5%85%A8%E5%8A%9B%E5%8D%8F%E5%8A%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [创5选手撞脸鹿晗关晓彤](https://s.weibo.com/weibo?q=%23%E5%88%9B5%E9%80%89%E6%89%8B%E6%92%9E%E8%84%B8%E9%B9%BF%E6%99%97%E5%85%B3%E6%99%93%E5%BD%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [丰田经销商吼客户买十万的车叫什么叫](https://s.weibo.com/weibo?q=%23%E4%B8%B0%E7%94%B0%E7%BB%8F%E9%94%80%E5%95%86%E5%90%BC%E5%AE%A2%E6%88%B7%E4%B9%B0%E5%8D%81%E4%B8%87%E7%9A%84%E8%BD%A6%E5%8F%AB%E4%BB%80%E4%B9%88%E5%8F%AB%23&t=31&band_rank=8&Refer=top)<br />
+8. [ITZY](https://s.weibo.com/weibo?q=ITZY&t=31&band_rank=8&Refer=top)<br />
 9. [欧阳娣娣 创5](https://s.weibo.com/weibo?q=%E6%AC%A7%E9%98%B3%E5%A8%A3%E5%A8%A3%20%E5%88%9B5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [构建人类命运共同体的重大实践](https://www.baidu.com/s?wd=%E6%9E%84%E5%BB%BA%E4%BA%BA%E7%B1%BB%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E9%87%8D%E5%A4%A7%E5%AE%9E%E8%B7%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [中缅边境难民营疑遭炮击 中方回应](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E9%9A%BE%E6%B0%91%E8%90%A5%E7%96%91%E9%81%AD%E7%82%AE%E5%87%BB+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [油价降了 加满一箱少花3.5元](https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E9%99%8D%E4%BA%86+%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E5%B0%91%E8%8A%B13.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [铁头称要让东方甄选付出惨痛代价](https://www.baidu.com/s?wd=%E9%93%81%E5%A4%B4%E7%A7%B0%E8%A6%81%E8%AE%A9%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E4%BB%98%E5%87%BA%E6%83%A8%E7%97%9B%E4%BB%A3%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [用中国传统色打开秋天](https://www.baidu.com/s?wd=%E7%94%A8%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E8%89%B2%E6%89%93%E5%BC%80%E7%A7%8B%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [深圳1800万元彩票大奖无人认领](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B31800%E4%B8%87%E5%85%83%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96%E6%97%A0%E4%BA%BA%E8%AE%A4%E9%A2%86&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [构建人类命运共同体的重大实践](https://www.baidu.com/s?wd=%E6%9E%84%E5%BB%BA%E4%BA%BA%E7%B1%BB%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E9%87%8D%E5%A4%A7%E5%AE%9E%E8%B7%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [中缅边境难民营疑遭炮击 中方回应](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E9%9A%BE%E6%B0%91%E8%90%A5%E7%96%91%E9%81%AD%E7%82%AE%E5%87%BB+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [油价降了 加满一箱少花3.5元](https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E9%99%8D%E4%BA%86+%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E5%B0%91%E8%8A%B13.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [铁头称要让东方甄选付出惨痛代价](https://www.baidu.com/s?wd=%E9%93%81%E5%A4%B4%E7%A7%B0%E8%A6%81%E8%AE%A9%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E4%BB%98%E5%87%BA%E6%83%A8%E7%97%9B%E4%BB%A3%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [用中国传统色打开秋天](https://www.baidu.com/s?wd=%E7%94%A8%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E8%89%B2%E6%89%93%E5%BC%80%E7%A7%8B%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [深圳1800万元彩票大奖无人认领](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B31800%E4%B8%87%E5%85%83%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96%E6%97%A0%E4%BA%BA%E8%AE%A4%E9%A2%86&sa=fyb_news&rsv_dl=fyb_news)<br />
