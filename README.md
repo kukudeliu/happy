@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 12:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 12:56:01</h4></div>
 
 > 微博  
 
-1. [官方通报北极鲶鱼事件](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top)<br />
-2. [北极鲶鱼爷爷违法违纪所得被收缴](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E7%88%B7%E7%88%B7%E8%BF%9D%E6%B3%95%E8%BF%9D%E7%BA%AA%E6%89%80%E5%BE%97%E8%A2%AB%E6%94%B6%E7%BC%B4%23&t=31&band_rank=2&Refer=top)<br />
+1. [北极鲶鱼爷爷违法违纪所得被收缴](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E7%88%B7%E7%88%B7%E8%BF%9D%E6%B3%95%E8%BF%9D%E7%BA%AA%E6%89%80%E5%BE%97%E8%A2%AB%E6%94%B6%E7%BC%B4%23&t=31&band_rank=1&Refer=top)<br />
+2. [官方通报北极鲶鱼事件](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [用中国传统色打开秋天](https://s.weibo.com/weibo?q=%23%E7%94%A8%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E8%89%B2%E6%89%93%E5%BC%80%E7%A7%8B%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [北极鲶鱼爷爷被开除党籍](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E7%88%B7%E7%88%B7%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23&t=31&band_rank=4&Refer=top)<br />
 5. [黑龙江一小学食堂6名学生吃2盘菜](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%826%E5%90%8D%E5%AD%A6%E7%94%9F%E5%90%832%E7%9B%98%E8%8F%9C%23&t=31&band_rank=5&Refer=top)<br />
