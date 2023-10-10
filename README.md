@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 19:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 20:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [创5选手撞脸鹿晗关晓彤](https://s.weibo.com/weibo?q=%23%E5%88%9B5%E9%80%89%E6%89%8B%E6%92%9E%E8%84%B8%E9%B9%BF%E6%99%97%E5%85%B3%E6%99%93%E5%BD%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [熊猫妈妈带娃主打个情绪稳定](https://s.weibo.com/weibo?q=%23%E7%86%8A%E7%8C%AB%E5%A6%88%E5%A6%88%E5%B8%A6%E5%A8%83%E4%B8%BB%E6%89%93%E4%B8%AA%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [欧阳娣娣 创5](https://s.weibo.com/weibo?q=%E6%AC%A7%E9%98%B3%E5%A8%A3%E5%A8%A3%20%E5%88%9B5&t=31&band_rank=8&Refer=top)<br />
-9. [许昕](https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%95&t=31&band_rank=9&Refer=top)<br />
+9. [中国公民自愿离开巴以外交部将全力协助](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%87%AA%E6%84%BF%E7%A6%BB%E5%BC%80%E5%B7%B4%E4%BB%A5%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%86%E5%85%A8%E5%8A%9B%E5%8D%8F%E5%8A%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
