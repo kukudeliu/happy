@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 12:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 12:50:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [用中国传统色打开秋天](https://s.weibo.com/weibo?q=%23%E7%94%A8%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E8%89%B2%E6%89%93%E5%BC%80%E7%A7%8B%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [北极鲶鱼爷爷违法违纪所得被收缴](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E7%88%B7%E7%88%B7%E8%BF%9D%E6%B3%95%E8%BF%9D%E7%BA%AA%E6%89%80%E5%BE%97%E8%A2%AB%E6%94%B6%E7%BC%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [黑龙江一小学食堂6名学生吃2盘菜](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%826%E5%90%8D%E5%AD%A6%E7%94%9F%E5%90%832%E7%9B%98%E8%8F%9C%23&t=31&band_rank=5&Refer=top)<br />
-6. [冲闯中国总领馆男子被击毙](https://s.weibo.com/weibo?q=%23%E5%86%B2%E9%97%AF%E4%B8%AD%E5%9B%BD%E6%80%BB%E9%A2%86%E9%A6%86%E7%94%B7%E5%AD%90%E8%A2%AB%E5%87%BB%E6%AF%99%23&t=31&band_rank=6&Refer=top)<br />
-7. [余华 希望一直卖版权一直不拍](https://s.weibo.com/weibo?q=%E4%BD%99%E5%8D%8E%20%E5%B8%8C%E6%9C%9B%E4%B8%80%E7%9B%B4%E5%8D%96%E7%89%88%E6%9D%83%E4%B8%80%E7%9B%B4%E4%B8%8D%E6%8B%8D&t=31&band_rank=7&Refer=top)<br />
+6. [余华 希望一直卖版权一直不拍](https://s.weibo.com/weibo?q=%E4%BD%99%E5%8D%8E%20%E5%B8%8C%E6%9C%9B%E4%B8%80%E7%9B%B4%E5%8D%96%E7%89%88%E6%9D%83%E4%B8%80%E7%9B%B4%E4%B8%8D%E6%8B%8D&t=31&band_rank=6&Refer=top)<br />
+7. [冲闯中国总领馆男子被击毙](https://s.weibo.com/weibo?q=%23%E5%86%B2%E9%97%AF%E4%B8%AD%E5%9B%BD%E6%80%BB%E9%A2%86%E9%A6%86%E7%94%B7%E5%AD%90%E8%A2%AB%E5%87%BB%E6%AF%99%23&t=31&band_rank=7&Refer=top)<br />
 8. [上海一女子到以色列度假遇战乱](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%A5%B3%E5%AD%90%E5%88%B0%E4%BB%A5%E8%89%B2%E5%88%97%E5%BA%A6%E5%81%87%E9%81%87%E6%88%98%E4%B9%B1%23&t=31&band_rank=8&Refer=top)<br />
 9. [TFBOYS明天见登十大巅峰单曲](https://s.weibo.com/weibo?q=%23TFBOYS%E6%98%8E%E5%A4%A9%E8%A7%81%E7%99%BB%E5%8D%81%E5%A4%A7%E5%B7%85%E5%B3%B0%E5%8D%95%E6%9B%B2%23&t=31&band_rank=9&Refer=top)<br />
 
