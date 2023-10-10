@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 22:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 22:03:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [谱写中华民族现代文明新华章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E7%8E%B0%E4%BB%A3%E6%96%87%E6%98%8E%E6%96%B0%E5%8D%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [构建人类命运共同体的重大实践](https://www.baidu.com/s?wd=%E6%9E%84%E5%BB%BA%E4%BA%BA%E7%B1%BB%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E9%87%8D%E5%A4%A7%E5%AE%9E%E8%B7%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [国足热身赛2比0击败越南](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E7%83%AD%E8%BA%AB%E8%B5%9B2%E6%AF%940%E5%87%BB%E8%B4%A5%E8%B6%8A%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [铁头称要让东方甄选付出惨痛代价](https://www.baidu.com/s?wd=%E9%93%81%E5%A4%B4%E7%A7%B0%E8%A6%81%E8%AE%A9%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E4%BB%98%E5%87%BA%E6%83%A8%E7%97%9B%E4%BB%A3%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [山海友情 一带一路](https://www.baidu.com/s?wd=%E5%B1%B1%E6%B5%B7%E5%8F%8B%E6%83%85+%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [谱写中华民族现代文明新华章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E7%8E%B0%E4%BB%A3%E6%96%87%E6%98%8E%E6%96%B0%E5%8D%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [构建人类命运共同体的重大实践](https://www.baidu.com/s?wd=%E6%9E%84%E5%BB%BA%E4%BA%BA%E7%B1%BB%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E9%87%8D%E5%A4%A7%E5%AE%9E%E8%B7%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [国足热身赛2比0击败越南](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E7%83%AD%E8%BA%AB%E8%B5%9B2%E6%AF%940%E5%87%BB%E8%B4%A5%E8%B6%8A%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [铁头称要让东方甄选付出惨痛代价](https://www.baidu.com/s?wd=%E9%93%81%E5%A4%B4%E7%A7%B0%E8%A6%81%E8%AE%A9%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E4%BB%98%E5%87%BA%E6%83%A8%E7%97%9B%E4%BB%A3%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [山海友情 一带一路](https://www.baidu.com/s?wd=%E5%B1%B1%E6%B5%B7%E5%8F%8B%E6%83%85+%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
