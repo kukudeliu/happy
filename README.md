@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 08:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 08:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [江歌妈妈直播间来了9万人](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E7%9B%B4%E6%92%AD%E9%97%B4%E6%9D%A5%E4%BA%869%E4%B8%87%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [以色列宣布全面封锁加沙地带](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E5%85%A8%E9%9D%A2%E5%B0%81%E9%94%81%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [哪吒2要来了](https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [夜色尚浅 GQ盛典](https://s.weibo.com/weibo?q=%E5%A4%9C%E8%89%B2%E5%B0%9A%E6%B5%85%20GQ%E7%9B%9B%E5%85%B8&t=31&band_rank=9&Refer=top)<br />
+9. [老两口退休工资1万2被女儿送养老院](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B8%A4%E5%8F%A3%E9%80%80%E4%BC%91%E5%B7%A5%E8%B5%841%E4%B8%872%E8%A2%AB%E5%A5%B3%E5%84%BF%E9%80%81%E5%85%BB%E8%80%81%E9%99%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
