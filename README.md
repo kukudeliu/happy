@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 00:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 00:03:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [网传一中学运动会表演刺杀安倍](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%80%E4%B8%AD%E5%AD%A6%E8%BF%90%E5%8A%A8%E4%BC%9A%E8%A1%A8%E6%BC%94%E5%88%BA%E6%9D%80%E5%AE%89%E5%80%8D%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会微纪录片登场](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BE%AE%E7%BA%AA%E5%BD%95%E7%89%87%E7%99%BB%E5%9C%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [新冠](https://s.weibo.com/weibo?q=%E6%96%B0%E5%86%A0&t=31&band_rank=4&Refer=top)<br />
-5. [华北理工食堂被曝吃出鼠头](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8C%97%E7%90%86%E5%B7%A5%E9%A3%9F%E5%A0%82%E8%A2%AB%E6%9B%9D%E5%90%83%E5%87%BA%E9%BC%A0%E5%A4%B4%23&t=31&band_rank=5&Refer=top)<br />
-6. [张小斐新片尺度](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E6%96%B0%E7%89%87%E5%B0%BA%E5%BA%A6%23&t=31&band_rank=6&Refer=top)<br />
+5. [张小斐新片尺度](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E6%96%B0%E7%89%87%E5%B0%BA%E5%BA%A6%23&t=31&band_rank=5&Refer=top)<br />
+6. [华北理工食堂被曝吃出鼠头](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8C%97%E7%90%86%E5%B7%A5%E9%A3%9F%E5%A0%82%E8%A2%AB%E6%9B%9D%E5%90%83%E5%87%BA%E9%BC%A0%E5%A4%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [seventeen](https://s.weibo.com/weibo?q=seventeen&t=31&band_rank=7&Refer=top)<br />
 8. [韩国不满杭州亚运会表现](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%8D%E6%BB%A1%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E8%A1%A8%E7%8E%B0%23&t=31&band_rank=8&Refer=top)<br />
 9. [52岁瞿颖走秀状态](https://s.weibo.com/weibo?q=%2352%E5%B2%81%E7%9E%BF%E9%A2%96%E8%B5%B0%E7%A7%80%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
