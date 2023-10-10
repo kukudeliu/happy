@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 04:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 04:22:01</h4></div>
 
 > 微博  
 
-1. [seventeen](https://s.weibo.com/weibo?q=seventeen&t=31&band_rank=1&Refer=top)<br />
-2. [韩国不满杭州亚运会表现](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%8D%E6%BB%A1%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E8%A1%A8%E7%8E%B0%23&t=31&band_rank=2&Refer=top)<br />
+1. [韩国不满杭州亚运会表现](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%8D%E6%BB%A1%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E8%A1%A8%E7%8E%B0%23&t=31&band_rank=1&Refer=top)<br />
+2. [seventeen](https://s.weibo.com/weibo?q=seventeen&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会微纪录片登场](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BE%AE%E7%BA%AA%E5%BD%95%E7%89%87%E7%99%BB%E5%9C%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [新冠](https://s.weibo.com/weibo?q=%E6%96%B0%E5%86%A0&t=31&band_rank=4&Refer=top)<br />
 5. [晚上十一点之前尽量入睡](https://s.weibo.com/weibo?q=%23%E6%99%9A%E4%B8%8A%E5%8D%81%E4%B8%80%E7%82%B9%E4%B9%8B%E5%89%8D%E5%B0%BD%E9%87%8F%E5%85%A5%E7%9D%A1%23&t=31&band_rank=5&Refer=top)<br />
