@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 16:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 16:14:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [樊胜美现象 父亲的文化观念](https://s.weibo.com/weibo?q=%E6%A8%8A%E8%83%9C%E7%BE%8E%E7%8E%B0%E8%B1%A1%20%E7%88%B6%E4%BA%B2%E7%9A%84%E6%96%87%E5%8C%96%E8%A7%82%E5%BF%B5&t=31&band_rank=6&Refer=top)<br />
 7. [北极鲶鱼爷爷被开除党籍](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E7%88%B7%E7%88%B7%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [创5路透](https://s.weibo.com/weibo?q=%23%E5%88%9B5%E8%B7%AF%E9%80%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [用中国传统色打开秋天](https://s.weibo.com/weibo?q=%23%E7%94%A8%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E8%89%B2%E6%89%93%E5%BC%80%E7%A7%8B%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [人民网评北极鲶鱼事件](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
