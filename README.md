@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 13:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 13:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [第一次见女主演男主的嫂嫂](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%A5%B3%E4%B8%BB%E6%BC%94%E7%94%B7%E4%B8%BB%E7%9A%84%E5%AB%82%E5%AB%82%23&t=31&band_rank=6&Refer=top)<br />
 7. [黑龙江一小学食堂6名学生吃2盘菜](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%826%E5%90%8D%E5%AD%A6%E7%94%9F%E5%90%832%E7%9B%98%E8%8F%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [江歌妈妈首场直播带货超百万元](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E9%A6%96%E5%9C%BA%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E8%B6%85%E7%99%BE%E4%B8%87%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [上海一女子到以色列度假遇战乱](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%A5%B3%E5%AD%90%E5%88%B0%E4%BB%A5%E8%89%B2%E5%88%97%E5%BA%A6%E5%81%87%E9%81%87%E6%88%98%E4%B9%B1%23&t=31&band_rank=9&Refer=top)<br />
+9. [BABYMONSTER官宣将出道](https://s.weibo.com/weibo?q=%23BABYMONSTER%E5%AE%98%E5%AE%A3%E5%B0%86%E5%87%BA%E9%81%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
