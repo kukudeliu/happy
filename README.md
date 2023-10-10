@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 05:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 05:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [网传一中学运动会表演刺杀安倍](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%80%E4%B8%AD%E5%AD%A6%E8%BF%90%E5%8A%A8%E4%BC%9A%E8%A1%A8%E6%BC%94%E5%88%BA%E6%9D%80%E5%AE%89%E5%80%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [小时候吃的台湾无骨鸡柳去哪了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%97%B6%E5%80%99%E5%90%83%E7%9A%84%E5%8F%B0%E6%B9%BE%E6%97%A0%E9%AA%A8%E9%B8%A1%E6%9F%B3%E5%8E%BB%E5%93%AA%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [52岁瞿颖走秀状态](https://s.weibo.com/weibo?q=%2352%E5%B2%81%E7%9E%BF%E9%A2%96%E8%B5%B0%E7%A7%80%E7%8A%B6%E6%80%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [占美人口3%犹太人操纵七成美国财富](https://s.weibo.com/weibo?q=%23%E5%8D%A0%E7%BE%8E%E4%BA%BA%E5%8F%A33%25%E7%8A%B9%E5%A4%AA%E4%BA%BA%E6%93%8D%E7%BA%B5%E4%B8%83%E6%88%90%E7%BE%8E%E5%9B%BD%E8%B4%A2%E5%AF%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [动车卫生间里居然长了眼](https://s.weibo.com/weibo?q=%23%E5%8A%A8%E8%BD%A6%E5%8D%AB%E7%94%9F%E9%97%B4%E9%87%8C%E5%B1%85%E7%84%B6%E9%95%BF%E4%BA%86%E7%9C%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
