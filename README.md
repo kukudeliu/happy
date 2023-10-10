@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 06:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 06:50:01</h4></div>
 
 > 微博  
 
 1. [韩国不满杭州亚运会表现](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%8D%E6%BB%A1%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E8%A1%A8%E7%8E%B0%23&t=31&band_rank=1&Refer=top)<br />
-2. [seventeen](https://s.weibo.com/weibo?q=seventeen&t=31&band_rank=2&Refer=top)<br />
+2. [晚上十一点之前尽量入睡](https://s.weibo.com/weibo?q=%23%E6%99%9A%E4%B8%8A%E5%8D%81%E4%B8%80%E7%82%B9%E4%B9%8B%E5%89%8D%E5%B0%BD%E9%87%8F%E5%85%A5%E7%9D%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚运会微纪录片登场](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BE%AE%E7%BA%AA%E5%BD%95%E7%89%87%E7%99%BB%E5%9C%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [新冠](https://s.weibo.com/weibo?q=%E6%96%B0%E5%86%A0&t=31&band_rank=4&Refer=top)<br />
-5. [晚上十一点之前尽量入睡](https://s.weibo.com/weibo?q=%23%E6%99%9A%E4%B8%8A%E5%8D%81%E4%B8%80%E7%82%B9%E4%B9%8B%E5%89%8D%E5%B0%BD%E9%87%8F%E5%85%A5%E7%9D%A1%23&t=31&band_rank=5&Refer=top)<br />
+5. [seventeen](https://s.weibo.com/weibo?q=seventeen&t=31&band_rank=5&Refer=top)<br />
 6. [网传一中学运动会表演刺杀安倍](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%80%E4%B8%AD%E5%AD%A6%E8%BF%90%E5%8A%A8%E4%BC%9A%E8%A1%A8%E6%BC%94%E5%88%BA%E6%9D%80%E5%AE%89%E5%80%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [动车卫生间里居然长了眼](https://s.weibo.com/weibo?q=%23%E5%8A%A8%E8%BD%A6%E5%8D%AB%E7%94%9F%E9%97%B4%E9%87%8C%E5%B1%85%E7%84%B6%E9%95%BF%E4%BA%86%E7%9C%BC%23&t=31&band_rank=7&Refer=top)<br />
 8. [52岁瞿颖走秀状态](https://s.weibo.com/weibo?q=%2352%E5%B2%81%E7%9E%BF%E9%A2%96%E8%B5%B0%E7%A7%80%E7%8A%B6%E6%80%81%23&t=31&band_rank=8&Refer=top)<br />
