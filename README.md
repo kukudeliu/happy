@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 00:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 00:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [seventeen](https://s.weibo.com/weibo?q=seventeen&t=31&band_rank=6&Refer=top)<br />
 7. [韩国不满杭州亚运会表现](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%8D%E6%BB%A1%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E8%A1%A8%E7%8E%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [52岁瞿颖走秀状态](https://s.weibo.com/weibo?q=%2352%E5%B2%81%E7%9E%BF%E9%A2%96%E8%B5%B0%E7%A7%80%E7%8A%B6%E6%80%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [华北理工食堂被曝吃出鼠头](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8C%97%E7%90%86%E5%B7%A5%E9%A3%9F%E5%A0%82%E8%A2%AB%E6%9B%9D%E5%90%83%E5%87%BA%E9%BC%A0%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [占美人口3%犹太人操纵七成美国财富](https://s.weibo.com/weibo?q=%23%E5%8D%A0%E7%BE%8E%E4%BA%BA%E5%8F%A33%25%E7%8A%B9%E5%A4%AA%E4%BA%BA%E6%93%8D%E7%BA%B5%E4%B8%83%E6%88%90%E7%BE%8E%E5%9B%BD%E8%B4%A2%E5%AF%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
