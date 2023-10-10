@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 04:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 04:32:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [新冠](https://s.weibo.com/weibo?q=%E6%96%B0%E5%86%A0&t=31&band_rank=4&Refer=top)<br />
 5. [seventeen](https://s.weibo.com/weibo?q=seventeen&t=31&band_rank=5&Refer=top)<br />
 6. [小时候吃的台湾无骨鸡柳去哪了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%97%B6%E5%80%99%E5%90%83%E7%9A%84%E5%8F%B0%E6%B9%BE%E6%97%A0%E9%AA%A8%E9%B8%A1%E6%9F%B3%E5%8E%BB%E5%93%AA%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [网传一中学运动会表演刺杀安倍](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%80%E4%B8%AD%E5%AD%A6%E8%BF%90%E5%8A%A8%E4%BC%9A%E8%A1%A8%E6%BC%94%E5%88%BA%E6%9D%80%E5%AE%89%E5%80%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [以色列军被指在加沙人口稠密区使用白磷弹](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%9B%E8%A2%AB%E6%8C%87%E5%9C%A8%E5%8A%A0%E6%B2%99%E4%BA%BA%E5%8F%A3%E7%A8%A0%E5%AF%86%E5%8C%BA%E4%BD%BF%E7%94%A8%E7%99%BD%E7%A3%B7%E5%BC%B9%23&t=31&band_rank=8&Refer=top)<br />
+7. [以色列军被指在加沙人口稠密区使用白磷弹](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%9B%E8%A2%AB%E6%8C%87%E5%9C%A8%E5%8A%A0%E6%B2%99%E4%BA%BA%E5%8F%A3%E7%A8%A0%E5%AF%86%E5%8C%BA%E4%BD%BF%E7%94%A8%E7%99%BD%E7%A3%B7%E5%BC%B9%23&t=31&band_rank=7&Refer=top)<br />
+8. [网传一中学运动会表演刺杀安倍](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%80%E4%B8%AD%E5%AD%A6%E8%BF%90%E5%8A%A8%E4%BC%9A%E8%A1%A8%E6%BC%94%E5%88%BA%E6%9D%80%E5%AE%89%E5%80%8D%23&t=31&band_rank=8&Refer=top)<br />
 9. [删除微信好友能保留聊天记录](https://s.weibo.com/weibo?q=%23%E5%88%A0%E9%99%A4%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E8%83%BD%E4%BF%9D%E7%95%99%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
