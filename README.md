@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 21:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 21:56:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [9月新增本土新冠死亡病例45例](https://s.weibo.com/weibo?q=%239%E6%9C%88%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%96%B0%E5%86%A0%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B45%E4%BE%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [新冠](https://s.weibo.com/weibo?q=%E6%96%B0%E5%86%A0&t=31&band_rank=5&Refer=top)<br />
 6. [肖战杭州亚运圆梦时刻](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E5%9C%86%E6%A2%A6%E6%97%B6%E5%88%BB%23&t=31&band_rank=6&Refer=top)<br />
-7. [删除微信好友能保留聊天记录](https://s.weibo.com/weibo?q=%23%E5%88%A0%E9%99%A4%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E8%83%BD%E4%BF%9D%E7%95%99%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23&t=31&band_rank=7&Refer=top)<br />
-8. [以色列军被指在加沙人口稠密区使用白磷弹](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%9B%E8%A2%AB%E6%8C%87%E5%9C%A8%E5%8A%A0%E6%B2%99%E4%BA%BA%E5%8F%A3%E7%A8%A0%E5%AF%86%E5%8C%BA%E4%BD%BF%E7%94%A8%E7%99%BD%E7%A3%B7%E5%BC%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [国足2比0复仇越南](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B32%E6%AF%940%E5%A4%8D%E4%BB%87%E8%B6%8A%E5%8D%97%23&t=31&band_rank=9&Refer=top)<br />
+7. [国足2比0复仇越南](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B32%E6%AF%940%E5%A4%8D%E4%BB%87%E8%B6%8A%E5%8D%97%23&t=31&band_rank=7&Refer=top)<br />
+8. [删除微信好友能保留聊天记录](https://s.weibo.com/weibo?q=%23%E5%88%A0%E9%99%A4%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E8%83%BD%E4%BF%9D%E7%95%99%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23&t=31&band_rank=8&Refer=top)<br />
+9. [以色列军被指在加沙人口稠密区使用白磷弹](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%9B%E8%A2%AB%E6%8C%87%E5%9C%A8%E5%8A%A0%E6%B2%99%E4%BA%BA%E5%8F%A3%E7%A8%A0%E5%AF%86%E5%8C%BA%E4%BD%BF%E7%94%A8%E7%99%BD%E7%A3%B7%E5%BC%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
