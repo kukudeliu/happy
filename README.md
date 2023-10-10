@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 17:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 17:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [官方通报北极鲶鱼事件](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [历史上最著名的天津人叫哪吒](https://s.weibo.com/weibo?q=%23%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%91%97%E5%90%8D%E7%9A%84%E5%A4%A9%E6%B4%A5%E4%BA%BA%E5%8F%AB%E5%93%AA%E5%90%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [你吃的油很可能早过期了](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%90%83%E7%9A%84%E6%B2%B9%E5%BE%88%E5%8F%AF%E8%83%BD%E6%97%A9%E8%BF%87%E6%9C%9F%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [北极鲶鱼爷爷违法违纪所得被收缴](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E7%88%B7%E7%88%B7%E8%BF%9D%E6%B3%95%E8%BF%9D%E7%BA%AA%E6%89%80%E5%BE%97%E8%A2%AB%E6%94%B6%E7%BC%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [63岁老人免费体检后多次手术身亡](https://s.weibo.com/weibo?q=%2363%E5%B2%81%E8%80%81%E4%BA%BA%E5%85%8D%E8%B4%B9%E4%BD%93%E6%A3%80%E5%90%8E%E5%A4%9A%E6%AC%A1%E6%89%8B%E6%9C%AF%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
