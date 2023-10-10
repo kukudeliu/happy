@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 09:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 09:25:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [中国申办亚运时的承诺都做到了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B3%E5%8A%9E%E4%BA%9A%E8%BF%90%E6%97%B6%E7%9A%84%E6%89%BF%E8%AF%BA%E9%83%BD%E5%81%9A%E5%88%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [从体制内离职的人现在怎么样了](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E4%BD%93%E5%88%B6%E5%86%85%E7%A6%BB%E8%81%8C%E7%9A%84%E4%BA%BA%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [王楚钦重返男单世界第一](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%87%8D%E8%BF%94%E7%94%B7%E5%8D%95%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23&t=31&band_rank=5&Refer=top)<br />
-6. [陈奕迅在美吐槽旧金山街头吸毒泛滥](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E5%9C%A8%E7%BE%8E%E5%90%90%E6%A7%BD%E6%97%A7%E9%87%91%E5%B1%B1%E8%A1%97%E5%A4%B4%E5%90%B8%E6%AF%92%E6%B3%9B%E6%BB%A5%23&t=31&band_rank=6&Refer=top)<br />
-7. [哪吒2要来了](https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+6. [哪吒2要来了](https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [陈奕迅在美吐槽旧金山街头吸毒泛滥](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E5%9C%A8%E7%BE%8E%E5%90%90%E6%A7%BD%E6%97%A7%E9%87%91%E5%B1%B1%E8%A1%97%E5%A4%B4%E5%90%B8%E6%AF%92%E6%B3%9B%E6%BB%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [王鹤润曾谈和王鹤棣的关系](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%B6%A6%E6%9B%BE%E8%B0%88%E5%92%8C%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%9A%84%E5%85%B3%E7%B3%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [江歌妈妈直播间来了9万人](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E7%9B%B4%E6%92%AD%E9%97%B4%E6%9D%A5%E4%BA%869%E4%B8%87%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
