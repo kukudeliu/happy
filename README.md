@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 07:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 07:40:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [占美人口3%犹太人操纵七成美国财富](https://s.weibo.com/weibo?q=%23%E5%8D%A0%E7%BE%8E%E4%BA%BA%E5%8F%A33%25%E7%8A%B9%E5%A4%AA%E4%BA%BA%E6%93%8D%E7%BA%B5%E4%B8%83%E6%88%90%E7%BE%8E%E5%9B%BD%E8%B4%A2%E5%AF%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [52岁瞿颖走秀状态](https://s.weibo.com/weibo?q=%2352%E5%B2%81%E7%9E%BF%E9%A2%96%E8%B5%B0%E7%A7%80%E7%8A%B6%E6%80%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [家人嫌我买的多巴胺公园凳丑](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E4%BA%BA%E5%AB%8C%E6%88%91%E4%B9%B0%E7%9A%84%E5%A4%9A%E5%B7%B4%E8%83%BA%E5%85%AC%E5%9B%AD%E5%87%B3%E4%B8%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [新冠](https://s.weibo.com/weibo?q=%E6%96%B0%E5%86%A0&t=31&band_rank=8&Refer=top)<br />
-9. [张小斐新片尺度](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E6%96%B0%E7%89%87%E5%B0%BA%E5%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [张小斐新片尺度](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E6%96%B0%E7%89%87%E5%B0%BA%E5%BA%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [檀健次让我感受到了偶像的力量](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E8%AE%A9%E6%88%91%E6%84%9F%E5%8F%97%E5%88%B0%E4%BA%86%E5%81%B6%E5%83%8F%E7%9A%84%E5%8A%9B%E9%87%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [深圳再通报“记者被不当阻拦”](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%86%8D%E9%80%9A%E6%8A%A5%E2%80%9C%E8%AE%B0%E8%80%85%E8%A2%AB%E4%B8%8D%E5%BD%93%E9%98%BB%E6%8B%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [哈马斯威胁处决：“一房换一命”](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E5%A8%81%E8%83%81%E5%A4%84%E5%86%B3%EF%BC%9A%E2%80%9C%E4%B8%80%E6%88%BF%E6%8D%A2%E4%B8%80%E5%91%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [1个月接诊1700多名脆皮年轻人](https://www.baidu.com/s?wd=1%E4%B8%AA%E6%9C%88%E6%8E%A5%E8%AF%8A1700%E5%A4%9A%E5%90%8D%E8%84%86%E7%9A%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [WiFi产生辐射会危害健康?别被骗](https://www.baidu.com/s?wd=WiFi%E4%BA%A7%E7%94%9F%E8%BE%90%E5%B0%84%E4%BC%9A%E5%8D%B1%E5%AE%B3%E5%81%A5%E5%BA%B7%3F%E5%88%AB%E8%A2%AB%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [常喝咖啡会导致卵巢囊肿？](https://www.baidu.com/s?wd=%E5%B8%B8%E5%96%9D%E5%92%96%E5%95%A1%E4%BC%9A%E5%AF%BC%E8%87%B4%E5%8D%B5%E5%B7%A2%E5%9B%8A%E8%82%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [深圳再通报“记者被不当阻拦”](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%86%8D%E9%80%9A%E6%8A%A5%E2%80%9C%E8%AE%B0%E8%80%85%E8%A2%AB%E4%B8%8D%E5%BD%93%E9%98%BB%E6%8B%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [哈马斯威胁处决：“一房换一命”](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E5%A8%81%E8%83%81%E5%A4%84%E5%86%B3%EF%BC%9A%E2%80%9C%E4%B8%80%E6%88%BF%E6%8D%A2%E4%B8%80%E5%91%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [1个月接诊1700多名脆皮年轻人](https://www.baidu.com/s?wd=1%E4%B8%AA%E6%9C%88%E6%8E%A5%E8%AF%8A1700%E5%A4%9A%E5%90%8D%E8%84%86%E7%9A%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [WiFi产生辐射会危害健康?别被骗](https://www.baidu.com/s?wd=WiFi%E4%BA%A7%E7%94%9F%E8%BE%90%E5%B0%84%E4%BC%9A%E5%8D%B1%E5%AE%B3%E5%81%A5%E5%BA%B7%3F%E5%88%AB%E8%A2%AB%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [常喝咖啡会导致卵巢囊肿？](https://www.baidu.com/s?wd=%E5%B8%B8%E5%96%9D%E5%92%96%E5%95%A1%E4%BC%9A%E5%AF%BC%E8%87%B4%E5%8D%B5%E5%B7%A2%E5%9B%8A%E8%82%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
