@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 11:20:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-10 11:21:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [上海一女子到以色列度假遇战乱](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%A5%B3%E5%AD%90%E5%88%B0%E4%BB%A5%E8%89%B2%E5%88%97%E5%BA%A6%E5%81%87%E9%81%87%E6%88%98%E4%B9%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [武打演员孟海去世](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%89%93%E6%BC%94%E5%91%98%E5%AD%9F%E6%B5%B7%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [周也恶女妆造](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E6%81%B6%E5%A5%B3%E5%A6%86%E9%80%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈奕迅成都演唱会连开6场](https://s.weibo.com/weibo?q=%E9%99%88%E5%A5%95%E8%BF%85%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BF%9E%E5%BC%806%E5%9C%BA&t=31&band_rank=9&Refer=top)<br />
+9. [杨鸣担任辽宁益胜总裁兼总教练](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E6%8B%85%E4%BB%BB%E8%BE%BD%E5%AE%81%E7%9B%8A%E8%83%9C%E6%80%BB%E8%A3%81%E5%85%BC%E6%80%BB%E6%95%99%E7%BB%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
