@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 12:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 12:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [每坐1小时平均寿命缩短22分钟](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%9D%901%E5%B0%8F%E6%97%B6%E5%B9%B3%E5%9D%87%E5%AF%BF%E5%91%BD%E7%BC%A9%E7%9F%AD22%E5%88%86%E9%92%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦孙颖莎0比3刘丁硕王添艺](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E0%E6%AF%943%E5%88%98%E4%B8%81%E7%A1%95%E7%8E%8B%E6%B7%BB%E8%89%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [社保卡一定要记得激活](https://s.weibo.com/weibo?q=%23%E7%A4%BE%E4%BF%9D%E5%8D%A1%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AE%B0%E5%BE%97%E6%BF%80%E6%B4%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [iPhone被曝夜间自动关机](https://s.weibo.com/weibo?q=%23iPhone%E8%A2%AB%E6%9B%9D%E5%A4%9C%E9%97%B4%E8%87%AA%E5%8A%A8%E5%85%B3%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [央视镜头里的陈都灵](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E9%99%88%E9%83%BD%E7%81%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
