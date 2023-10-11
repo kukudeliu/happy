@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 13:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 13:50:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [王牌8官宣阵容](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%89%8C8%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9%23&t=31&band_rank=4&Refer=top)<br />
 5. [社保卡一定要记得激活](https://s.weibo.com/weibo?q=%23%E7%A4%BE%E4%BF%9D%E5%8D%A1%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AE%B0%E5%BE%97%E6%BF%80%E6%B4%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [每坐1小时平均寿命缩短22分钟](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%9D%901%E5%B0%8F%E6%97%B6%E5%B9%B3%E5%9D%87%E5%AF%BF%E5%91%BD%E7%BC%A9%E7%9F%AD22%E5%88%86%E9%92%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [张钧甯阮经天 16年前16年后](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%92%A7%E7%94%AF%E9%98%AE%E7%BB%8F%E5%A4%A9%2016%E5%B9%B4%E5%89%8D16%E5%B9%B4%E5%90%8E&t=31&band_rank=7&Refer=top)<br />
-8. [央视镜头里的陈都灵](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E9%99%88%E9%83%BD%E7%81%B5%23&t=31&band_rank=8&Refer=top)<br />
+7. [央视镜头里的陈都灵](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E9%99%88%E9%83%BD%E7%81%B5%23&t=31&band_rank=7&Refer=top)<br />
+8. [张钧甯阮经天 16年前16年后](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%92%A7%E7%94%AF%E9%98%AE%E7%BB%8F%E5%A4%A9%2016%E5%B9%B4%E5%89%8D16%E5%B9%B4%E5%90%8E&t=31&band_rank=8&Refer=top)<br />
 9. [男子买50克金条打成镯子送爱妻](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B050%E5%85%8B%E9%87%91%E6%9D%A1%E6%89%93%E6%88%90%E9%95%AF%E5%AD%90%E9%80%81%E7%88%B1%E5%A6%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
