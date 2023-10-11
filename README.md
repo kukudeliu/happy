@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 16:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 16:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大乔新皮肤](https://s.weibo.com/weibo?q=%E5%A4%A7%E4%B9%94%E6%96%B0%E7%9A%AE%E8%82%A4&t=31&band_rank=6&Refer=top)<br />
 7. [王嘉尔巡演官宣](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%B7%A1%E6%BC%94%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [海底捞回应顾客用锅底煮中药](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E9%A1%BE%E5%AE%A2%E7%94%A8%E9%94%85%E5%BA%95%E7%85%AE%E4%B8%AD%E8%8D%AF%23&t=31&band_rank=8&Refer=top)<br />
-9. [放羊的星星花絮](https://s.weibo.com/weibo?q=%E6%94%BE%E7%BE%8A%E7%9A%84%E6%98%9F%E6%98%9F%E8%8A%B1%E7%B5%AE&t=31&band_rank=9&Refer=top)<br />
+9. [内娱走出国门的美貌](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E8%B5%B0%E5%87%BA%E5%9B%BD%E9%97%A8%E7%9A%84%E7%BE%8E%E8%B2%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
