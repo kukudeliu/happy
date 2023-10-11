@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 18:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 18:06:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [全国网络普法行四川站](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%99%AE%E6%B3%95%E8%A1%8C%E5%9B%9B%E5%B7%9D%E7%AB%99%23&t=31&band_rank=3&Refer=top)<br />
 4. [贾玲缺席王牌8的原因](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E7%BC%BA%E5%B8%AD%E7%8E%8B%E7%89%8C8%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=4&Refer=top)<br />
 5. [双眼皮的大熊猫有多可爱](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E7%9C%BC%E7%9A%AE%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%9C%89%E5%A4%9A%E5%8F%AF%E7%88%B1%23&t=31&band_rank=5&Refer=top)<br />
-6. [外交部回应成蕾案件](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%88%90%E8%95%BE%E6%A1%88%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
+6. [永暑礁医院救下越南右上肢离断渔民](https://s.weibo.com/weibo?q=%23%E6%B0%B8%E6%9A%91%E7%A4%81%E5%8C%BB%E9%99%A2%E6%95%91%E4%B8%8B%E8%B6%8A%E5%8D%97%E5%8F%B3%E4%B8%8A%E8%82%A2%E7%A6%BB%E6%96%AD%E6%B8%94%E6%B0%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [老天奶我求你了 girls help girls](https://s.weibo.com/weibo?q=%E8%80%81%E5%A4%A9%E5%A5%B6%E6%88%91%E6%B1%82%E4%BD%A0%E4%BA%86%20girls%20help%20girls&t=31&band_rank=7&Refer=top)<br />
-8. [优衣库涨薪](https://s.weibo.com/weibo?q=%23%E4%BC%98%E8%A1%A3%E5%BA%93%E6%B6%A8%E8%96%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [永暑礁医院救下越南右上肢离断渔民](https://s.weibo.com/weibo?q=%23%E6%B0%B8%E6%9A%91%E7%A4%81%E5%8C%BB%E9%99%A2%E6%95%91%E4%B8%8B%E8%B6%8A%E5%8D%97%E5%8F%B3%E4%B8%8A%E8%82%A2%E7%A6%BB%E6%96%AD%E6%B8%94%E6%B0%91%23&t=31&band_rank=9&Refer=top)<br />
+8. [外交部回应成蕾案件](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%88%90%E8%95%BE%E6%A1%88%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [优衣库涨薪](https://s.weibo.com/weibo?q=%23%E4%BC%98%E8%A1%A3%E5%BA%93%E6%B6%A8%E8%96%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
