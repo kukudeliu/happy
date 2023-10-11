@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 09:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 09:38:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [谱写中华民族现代文明新华章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E7%8E%B0%E4%BB%A3%E6%96%87%E6%98%8E%E6%96%B0%E5%8D%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [巴以冲突已致双方2100余人死亡](https://www.baidu.com/s?wd=%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%B7%B2%E8%87%B4%E5%8F%8C%E6%96%B92100%E4%BD%99%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [联合国将调查巴以冲突中的战争罪行](https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E5%B0%86%E8%B0%83%E6%9F%A5%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E4%B8%AD%E7%9A%84%E6%88%98%E4%BA%89%E7%BD%AA%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [国企回应被举报向私人账户转账近6亿](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%90%91%E7%A7%81%E4%BA%BA%E8%B4%A6%E6%88%B7%E8%BD%AC%E8%B4%A6%E8%BF%916%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [山海友情 一带一路](https://www.baidu.com/s?wd=%E5%B1%B1%E6%B5%B7%E5%8F%8B%E6%83%85+%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高考最牛钉子户将备战第28次高考](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%9C%80%E7%89%9B%E9%92%89%E5%AD%90%E6%88%B7%E5%B0%86%E5%A4%87%E6%88%98%E7%AC%AC28%E6%AC%A1%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [谱写中华民族现代文明新华章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E7%8E%B0%E4%BB%A3%E6%96%87%E6%98%8E%E6%96%B0%E5%8D%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [巴以冲突已致双方2100余人死亡](https://www.baidu.com/s?wd=%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%B7%B2%E8%87%B4%E5%8F%8C%E6%96%B92100%E4%BD%99%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [联合国将调查巴以冲突中的战争罪行](https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E5%B0%86%E8%B0%83%E6%9F%A5%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E4%B8%AD%E7%9A%84%E6%88%98%E4%BA%89%E7%BD%AA%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [国企回应被举报向私人账户转账近6亿](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%90%91%E7%A7%81%E4%BA%BA%E8%B4%A6%E6%88%B7%E8%BD%AC%E8%B4%A6%E8%BF%916%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [山海友情 一带一路](https://www.baidu.com/s?wd=%E5%B1%B1%E6%B5%B7%E5%8F%8B%E6%83%85+%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高考最牛钉子户将备战第28次高考](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%9C%80%E7%89%9B%E9%92%89%E5%AD%90%E6%88%B7%E5%B0%86%E5%A4%87%E6%88%98%E7%AC%AC28%E6%AC%A1%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
