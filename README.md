@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 11:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 11:16:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [关晓彤爆王牌对王牌游戏内幕](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%88%86%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%E6%B8%B8%E6%88%8F%E5%86%85%E5%B9%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [网友看部剧救了自己的命](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%9C%8B%E9%83%A8%E5%89%A7%E6%95%91%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E5%91%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [在新加坡对护士爆粗口被调查](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%AF%B9%E6%8A%A4%E5%A3%AB%E7%88%86%E7%B2%97%E5%8F%A3%E8%A2%AB%E8%B0%83%E6%9F%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [联合国宣布调查巴以冲突中的战争罪行](https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E5%AE%A3%E5%B8%83%E8%B0%83%E6%9F%A5%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E4%B8%AD%E7%9A%84%E6%88%98%E4%BA%89%E7%BD%AA%E8%A1%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [王牌8没贾玲](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%89%8C8%E6%B2%A1%E8%B4%BE%E7%8E%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
