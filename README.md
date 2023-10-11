@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 04:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 04:09:01</h4></div>
 
 > 微博  
 
@@ -7,7 +7,7 @@
 3. [一带一路一往无前](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E4%B8%80%E5%BE%80%E6%97%A0%E5%89%8D%23&t=31&band_rank=3&Refer=top)<br />
 4. [papi酱 追星有这么严格嘛](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E8%BF%BD%E6%98%9F%E6%9C%89%E8%BF%99%E4%B9%88%E4%B8%A5%E6%A0%BC%E5%98%9B&t=31&band_rank=4&Refer=top)<br />
 5. [男子举报一烟草厂长出轨并生女](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E4%B8%80%E7%83%9F%E8%8D%89%E5%8E%82%E9%95%BF%E5%87%BA%E8%BD%A8%E5%B9%B6%E7%94%9F%E5%A5%B3%23&t=31&band_rank=5&Refer=top)<br />
-6. [以色列议员呼吁使用末日武器](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%AE%AE%E5%91%98%E5%91%BC%E5%90%81%E4%BD%BF%E7%94%A8%E6%9C%AB%E6%97%A5%E6%AD%A6%E5%99%A8%23&t=31&band_rank=6&Refer=top)<br />
+6. [联合国9名人员在以色列空袭中丧生](https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD9%E5%90%8D%E4%BA%BA%E5%91%98%E5%9C%A8%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E8%A2%AD%E4%B8%AD%E4%B8%A7%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [螃蟹把最好吃的部分进化掉了](https://s.weibo.com/weibo?q=%E8%9E%83%E8%9F%B9%E6%8A%8A%E6%9C%80%E5%A5%BD%E5%90%83%E7%9A%84%E9%83%A8%E5%88%86%E8%BF%9B%E5%8C%96%E6%8E%89%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [敬贵妃 她私下就是烟酒都来啊](https://s.weibo.com/weibo?q=%E6%95%AC%E8%B4%B5%E5%A6%83%20%E5%A5%B9%E7%A7%81%E4%B8%8B%E5%B0%B1%E6%98%AF%E7%83%9F%E9%85%92%E9%83%BD%E6%9D%A5%E5%95%8A&t=31&band_rank=8&Refer=top)<br />
 9. [贾玲缺席王牌8的原因](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E7%BC%BA%E5%B8%AD%E7%8E%8B%E7%89%8C8%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
