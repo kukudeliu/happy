@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 14:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 14:11:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [全国网络普法行四川站](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%99%AE%E6%B3%95%E8%A1%8C%E5%9B%9B%E5%B7%9D%E7%AB%99%23&t=31&band_rank=3&Refer=top)<br />
 4. [女研究生养猫反向将自己关进笼子](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E5%85%BB%E7%8C%AB%E5%8F%8D%E5%90%91%E5%B0%86%E8%87%AA%E5%B7%B1%E5%85%B3%E8%BF%9B%E7%AC%BC%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [碧桂园](https://s.weibo.com/weibo?q=%E7%A2%A7%E6%A1%82%E5%9B%AD&t=31&band_rank=5&Refer=top)<br />
-6. [王牌8官宣阵容](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%89%8C8%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9%23&t=31&band_rank=6&Refer=top)<br />
-7. [巴以冲突升级](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%8D%87%E7%BA%A7%23&t=31&band_rank=7&Refer=top)<br />
+6. [巴以冲突升级](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%8D%87%E7%BA%A7%23&t=31&band_rank=6&Refer=top)<br />
+7. [王牌8官宣阵容](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%89%8C8%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [社保卡一定要记得激活](https://s.weibo.com/weibo?q=%23%E7%A4%BE%E4%BF%9D%E5%8D%A1%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AE%B0%E5%BE%97%E6%BF%80%E6%B4%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [男子买50克金条打成镯子送爱妻](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B050%E5%85%8B%E9%87%91%E6%9D%A1%E6%89%93%E6%88%90%E9%95%AF%E5%AD%90%E9%80%81%E7%88%B1%E5%A6%BB%23&t=31&band_rank=9&Refer=top)<br />
 
