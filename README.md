@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 11:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 11:58:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [电影院“分区售票”观众买账吗？](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E9%99%A2%E2%80%9C%E5%88%86%E5%8C%BA%E5%94%AE%E7%A5%A8%E2%80%9D%E8%A7%82%E4%BC%97%E4%B9%B0%E8%B4%A6%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [订婚结束新娘家将彩礼还给新郎](https://www.baidu.com/s?wd=%E8%AE%A2%E5%A9%9A%E7%BB%93%E6%9D%9F%E6%96%B0%E5%A8%98%E5%AE%B6%E5%B0%86%E5%BD%A9%E7%A4%BC%E8%BF%98%E7%BB%99%E6%96%B0%E9%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子创业7次成功后劝年轻人别创业](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%9B%E4%B8%9A7%E6%AC%A1%E6%88%90%E5%8A%9F%E5%90%8E%E5%8A%9D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%88%AB%E5%88%9B%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中学操场化粪池塌陷 有学生掉进坑](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E6%93%8D%E5%9C%BA%E5%8C%96%E7%B2%AA%E6%B1%A0%E5%A1%8C%E9%99%B7+%E6%9C%89%E5%AD%A6%E7%94%9F%E6%8E%89%E8%BF%9B%E5%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子遭女邻居砸门咒骂近一年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%81%AD%E5%A5%B3%E9%82%BB%E5%B1%85%E7%A0%B8%E9%97%A8%E5%92%92%E9%AA%82%E8%BF%91%E4%B8%80%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [常喝咖啡会导致卵巢囊肿？](https://www.baidu.com/s?wd=%E5%B8%B8%E5%96%9D%E5%92%96%E5%95%A1%E4%BC%9A%E5%AF%BC%E8%87%B4%E5%8D%B5%E5%B7%A2%E5%9B%8A%E8%82%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [电影院“分区售票”观众买账吗？](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E9%99%A2%E2%80%9C%E5%88%86%E5%8C%BA%E5%94%AE%E7%A5%A8%E2%80%9D%E8%A7%82%E4%BC%97%E4%B9%B0%E8%B4%A6%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [订婚结束新娘家将彩礼还给新郎](https://www.baidu.com/s?wd=%E8%AE%A2%E5%A9%9A%E7%BB%93%E6%9D%9F%E6%96%B0%E5%A8%98%E5%AE%B6%E5%B0%86%E5%BD%A9%E7%A4%BC%E8%BF%98%E7%BB%99%E6%96%B0%E9%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子创业7次成功后劝年轻人别创业](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%9B%E4%B8%9A7%E6%AC%A1%E6%88%90%E5%8A%9F%E5%90%8E%E5%8A%9D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%88%AB%E5%88%9B%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中学操场化粪池塌陷 有学生掉进坑](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E6%93%8D%E5%9C%BA%E5%8C%96%E7%B2%AA%E6%B1%A0%E5%A1%8C%E9%99%B7+%E6%9C%89%E5%AD%A6%E7%94%9F%E6%8E%89%E8%BF%9B%E5%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子遭女邻居砸门咒骂近一年](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%81%AD%E5%A5%B3%E9%82%BB%E5%B1%85%E7%A0%B8%E9%97%A8%E5%92%92%E9%AA%82%E8%BF%91%E4%B8%80%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [常喝咖啡会导致卵巢囊肿？](https://www.baidu.com/s?wd=%E5%B8%B8%E5%96%9D%E5%92%96%E5%95%A1%E4%BC%9A%E5%AF%BC%E8%87%B4%E5%8D%B5%E5%B7%A2%E5%9B%8A%E8%82%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
