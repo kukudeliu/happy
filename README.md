@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 12:32:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 12:33:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [每坐1小时平均寿命缩短22分钟](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%9D%901%E5%B0%8F%E6%97%B6%E5%B9%B3%E5%9D%87%E5%AF%BF%E5%91%BD%E7%BC%A9%E7%9F%AD22%E5%88%86%E9%92%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [张钧甯阮经天 16年前16年后](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%92%A7%E7%94%AF%E9%98%AE%E7%BB%8F%E5%A4%A9%2016%E5%B9%B4%E5%89%8D16%E5%B9%B4%E5%90%8E&t=31&band_rank=5&Refer=top)<br />
 6. [酒店床上布条的作用](https://s.weibo.com/weibo?q=%E9%85%92%E5%BA%97%E5%BA%8A%E4%B8%8A%E5%B8%83%E6%9D%A1%E7%9A%84%E4%BD%9C%E7%94%A8&t=31&band_rank=6&Refer=top)<br />
-7. [社保卡一定要记得激活](https://s.weibo.com/weibo?q=%23%E7%A4%BE%E4%BF%9D%E5%8D%A1%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AE%B0%E5%BE%97%E6%BF%80%E6%B4%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [iPhone被曝夜间自动关机](https://s.weibo.com/weibo?q=%23iPhone%E8%A2%AB%E6%9B%9D%E5%A4%9C%E9%97%B4%E8%87%AA%E5%8A%A8%E5%85%B3%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
+7. [iPhone被曝夜间自动关机](https://s.weibo.com/weibo?q=%23iPhone%E8%A2%AB%E6%9B%9D%E5%A4%9C%E9%97%B4%E8%87%AA%E5%8A%A8%E5%85%B3%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [社保卡一定要记得激活](https://s.weibo.com/weibo?q=%23%E7%A4%BE%E4%BF%9D%E5%8D%A1%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AE%B0%E5%BE%97%E6%BF%80%E6%B4%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [范丞丞关晓彤二搭演兄妹](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%85%B3%E6%99%93%E5%BD%A4%E4%BA%8C%E6%90%AD%E6%BC%94%E5%85%84%E5%A6%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
