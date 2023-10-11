@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 11:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 11:55:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [社保卡一定要记得激活](https://s.weibo.com/weibo?q=%23%E7%A4%BE%E4%BF%9D%E5%8D%A1%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AE%B0%E5%BE%97%E6%BF%80%E6%B4%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [王牌8没贾玲](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%89%8C8%E6%B2%A1%E8%B4%BE%E7%8E%B2&t=31&band_rank=7&Refer=top)<br />
 8. [国考](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83&t=31&band_rank=8&Refer=top)<br />
-9. [在新加坡对护士爆粗口被调查](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%AF%B9%E6%8A%A4%E5%A3%AB%E7%88%86%E7%B2%97%E5%8F%A3%E8%A2%AB%E8%B0%83%E6%9F%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [每坐1小时平均寿命缩短22分钟](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%9D%901%E5%B0%8F%E6%97%B6%E5%B9%B3%E5%9D%87%E5%AF%BF%E5%91%BD%E7%BC%A9%E7%9F%AD22%E5%88%86%E9%92%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,8 +18,8 @@
 > 百度  
 
 1. [谱写中华民族现代文明新华章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E7%8E%B0%E4%BB%A3%E6%96%87%E6%98%8E%E6%96%B0%E5%8D%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [国企回应被举报向私人账户转账近6亿](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%90%91%E7%A7%81%E4%BA%BA%E8%B4%A6%E6%88%B7%E8%BD%AC%E8%B4%A6%E8%BF%916%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [国台办：“台独”即意味着战争](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%EF%BC%9A%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D%E5%8D%B3%E6%84%8F%E5%91%B3%E7%9D%80%E6%88%98%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [国台办：“台独”即意味着战争](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%EF%BC%9A%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D%E5%8D%B3%E6%84%8F%E5%91%B3%E7%9D%80%E6%88%98%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [国企回应被举报向私人账户转账近6亿](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%90%91%E7%A7%81%E4%BA%BA%E8%B4%A6%E6%88%B7%E8%BD%AC%E8%B4%A6%E8%BF%916%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [山海友情 一带一路](https://www.baidu.com/s?wd=%E5%B1%B1%E6%B5%B7%E5%8F%8B%E6%83%85+%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [电影院“分区售票”观众买账吗？](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E9%99%A2%E2%80%9C%E5%88%86%E5%8C%BA%E5%94%AE%E7%A5%A8%E2%80%9D%E8%A7%82%E4%BC%97%E4%B9%B0%E8%B4%A6%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生运动会表演刺杀安倍 教育局回应](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%BF%90%E5%8A%A8%E4%BC%9A%E8%A1%A8%E6%BC%94%E5%88%BA%E6%9D%80%E5%AE%89%E5%80%8D+%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,8 +30,8 @@
 > 哔哩哔哩  
 
 1. [谱写中华民族现代文明新华章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E7%8E%B0%E4%BB%A3%E6%96%87%E6%98%8E%E6%96%B0%E5%8D%8E%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [国企回应被举报向私人账户转账近6亿](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%90%91%E7%A7%81%E4%BA%BA%E8%B4%A6%E6%88%B7%E8%BD%AC%E8%B4%A6%E8%BF%916%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [国台办：“台独”即意味着战争](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%EF%BC%9A%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D%E5%8D%B3%E6%84%8F%E5%91%B3%E7%9D%80%E6%88%98%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [国台办：“台独”即意味着战争](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%EF%BC%9A%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D%E5%8D%B3%E6%84%8F%E5%91%B3%E7%9D%80%E6%88%98%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [国企回应被举报向私人账户转账近6亿](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%90%91%E7%A7%81%E4%BA%BA%E8%B4%A6%E6%88%B7%E8%BD%AC%E8%B4%A6%E8%BF%916%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [山海友情 一带一路](https://www.baidu.com/s?wd=%E5%B1%B1%E6%B5%B7%E5%8F%8B%E6%83%85+%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [电影院“分区售票”观众买账吗？](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E9%99%A2%E2%80%9C%E5%88%86%E5%8C%BA%E5%94%AE%E7%A5%A8%E2%80%9D%E8%A7%82%E4%BC%97%E4%B9%B0%E8%B4%A6%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生运动会表演刺杀安倍 教育局回应](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%BF%90%E5%8A%A8%E4%BC%9A%E8%A1%A8%E6%BC%94%E5%88%BA%E6%9D%80%E5%AE%89%E5%80%8D+%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
