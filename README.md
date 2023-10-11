@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 00:34:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 00:35:01</h4></div>
 
 > 微博  
 
-1. [螃蟹把最好吃的部分进化掉了](https://s.weibo.com/weibo?q=%E8%9E%83%E8%9F%B9%E6%8A%8A%E6%9C%80%E5%A5%BD%E5%90%83%E7%9A%84%E9%83%A8%E5%88%86%E8%BF%9B%E5%8C%96%E6%8E%89%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [周杰伦演唱会前黄牛集体退票](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E9%BB%84%E7%89%9B%E9%9B%86%E4%BD%93%E9%80%80%E7%A5%A8%23&t=31&band_rank=2&Refer=top)<br />
+1. [周杰伦演唱会前黄牛集体退票](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E9%BB%84%E7%89%9B%E9%9B%86%E4%BD%93%E9%80%80%E7%A5%A8%23&t=31&band_rank=1&Refer=top)<br />
+2. [螃蟹把最好吃的部分进化掉了](https://s.weibo.com/weibo?q=%E8%9E%83%E8%9F%B9%E6%8A%8A%E6%9C%80%E5%A5%BD%E5%90%83%E7%9A%84%E9%83%A8%E5%88%86%E8%BF%9B%E5%8C%96%E6%8E%89%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [高质量发展调研行](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [男子举报一烟草厂长出轨并生女](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E4%B8%80%E7%83%9F%E8%8D%89%E5%8E%82%E9%95%BF%E5%87%BA%E8%BD%A8%E5%B9%B6%E7%94%9F%E5%A5%B3%23&t=31&band_rank=4&Refer=top)<br />
 5. [papi酱 追星有这么严格嘛](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E8%BF%BD%E6%98%9F%E6%9C%89%E8%BF%99%E4%B9%88%E4%B8%A5%E6%A0%BC%E5%98%9B&t=31&band_rank=5&Refer=top)<br />
