@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 21:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 21:46:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [罗翔谈PPT曝光渣男渣女](https://s.weibo.com/weibo?q=%23%E7%BD%97%E7%BF%94%E8%B0%88PPT%E6%9B%9D%E5%85%89%E6%B8%A3%E7%94%B7%E6%B8%A3%E5%A5%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [以色列议员呼吁使用末日武器](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%AE%AE%E5%91%98%E5%91%BC%E5%90%81%E4%BD%BF%E7%94%A8%E6%9C%AB%E6%97%A5%E6%AD%A6%E5%99%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [停止销售41款即开型福利彩票](https://s.weibo.com/weibo?q=%23%E5%81%9C%E6%AD%A2%E9%94%80%E5%94%AE41%E6%AC%BE%E5%8D%B3%E5%BC%80%E5%9E%8B%E7%A6%8F%E5%88%A9%E5%BD%A9%E7%A5%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [王嘉尔金发丸子头造型](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E9%87%91%E5%8F%91%E4%B8%B8%E5%AD%90%E5%A4%B4%E9%80%A0%E5%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘聪演唱会官宣](https://s.weibo.com/weibo?q=%E5%88%98%E8%81%AA%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
