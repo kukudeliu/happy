@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 20:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 20:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以色列议员呼吁使用末日武器](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%AE%AE%E5%91%98%E5%91%BC%E5%90%81%E4%BD%BF%E7%94%A8%E6%9C%AB%E6%97%A5%E6%AD%A6%E5%99%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [网友塞尔维亚街头遇中国警察巡逻](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E8%A1%97%E5%A4%B4%E9%81%87%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%AF%9F%E5%B7%A1%E9%80%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [王俊凯红毯全身镜头](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%BA%A2%E6%AF%AF%E5%85%A8%E8%BA%AB%E9%95%9C%E5%A4%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国马术队巴黎奥运会参赛资格被取消](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%AC%E6%9C%AF%E9%98%9F%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%8F%82%E8%B5%9B%E8%B5%84%E6%A0%BC%E8%A2%AB%E5%8F%96%E6%B6%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [停止销售41款即开型福利彩票](https://s.weibo.com/weibo?q=%23%E5%81%9C%E6%AD%A2%E9%94%80%E5%94%AE41%E6%AC%BE%E5%8D%B3%E5%BC%80%E5%9E%8B%E7%A6%8F%E5%88%A9%E5%BD%A9%E7%A5%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
