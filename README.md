@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 02:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 02:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以色列议员呼吁使用末日武器](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%AE%AE%E5%91%98%E5%91%BC%E5%90%81%E4%BD%BF%E7%94%A8%E6%9C%AB%E6%97%A5%E6%AD%A6%E5%99%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [敬贵妃 她私下就是烟酒都来啊](https://s.weibo.com/weibo?q=%E6%95%AC%E8%B4%B5%E5%A6%83%20%E5%A5%B9%E7%A7%81%E4%B8%8B%E5%B0%B1%E6%98%AF%E7%83%9F%E9%85%92%E9%83%BD%E6%9D%A5%E5%95%8A&t=31&band_rank=7&Refer=top)<br />
 8. [男子举报一烟草厂长出轨并生女](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E4%B8%80%E7%83%9F%E8%8D%89%E5%8E%82%E9%95%BF%E5%87%BA%E8%BD%A8%E5%B9%B6%E7%94%9F%E5%A5%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [白鹿丞磊 朝雪录](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E4%B8%9E%E7%A3%8A%20%E6%9C%9D%E9%9B%AA%E5%BD%95&t=31&band_rank=9&Refer=top)<br />
+9. [贾玲缺席王牌8的原因](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E7%BC%BA%E5%B8%AD%E7%8E%8B%E7%89%8C8%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
