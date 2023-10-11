@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 15:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-11 15:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [巴以冲突升级](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%8D%87%E7%BA%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [放羊的星星花絮](https://s.weibo.com/weibo?q=%E6%94%BE%E7%BE%8A%E7%9A%84%E6%98%9F%E6%98%9F%E8%8A%B1%E7%B5%AE&t=31&band_rank=7&Refer=top)<br />
 8. [作者七月新番去世](https://s.weibo.com/weibo?q=%23%E4%BD%9C%E8%80%85%E4%B8%83%E6%9C%88%E6%96%B0%E7%95%AA%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国网民叫新加坡坡县引发争议](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91%E5%8F%AB%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9D%A1%E5%8E%BF%E5%BC%95%E5%8F%91%E4%BA%89%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [王嘉尔巡演官宣](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%B7%A1%E6%BC%94%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
