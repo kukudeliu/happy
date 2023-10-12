@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 10:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 10:45:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [媒体：指鼠为牛接棒指鼠为鸭](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%8C%87%E9%BC%A0%E4%B8%BA%E7%89%9B%E6%8E%A5%E6%A3%92%E6%8C%87%E9%BC%A0%E4%B8%BA%E9%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [光大集团原董事长李晓鹏被逮捕](https://www.baidu.com/s?wd=%E5%85%89%E5%A4%A7%E9%9B%86%E5%9B%A2%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E6%9D%8E%E6%99%93%E9%B9%8F%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“一带一路”源自中国属于世界](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E2%80%9D%E6%BA%90%E8%87%AA%E4%B8%AD%E5%9B%BD%E5%B1%9E%E4%BA%8E%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [这面包分不清谁是谁的边角料](https://www.baidu.com/s?wd=%E8%BF%99%E9%9D%A2%E5%8C%85%E5%88%86%E4%B8%8D%E6%B8%85%E8%B0%81%E6%98%AF%E8%B0%81%E7%9A%84%E8%BE%B9%E8%A7%92%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [南方电网半年56人主动投案](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E7%94%B5%E7%BD%91%E5%8D%8A%E5%B9%B456%E4%BA%BA%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [英官员访以期间遇空袭警报](https://www.baidu.com/s?wd=%E8%8B%B1%E5%AE%98%E5%91%98%E8%AE%BF%E4%BB%A5%E6%9C%9F%E9%97%B4%E9%81%87%E7%A9%BA%E8%A2%AD%E8%AD%A6%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [以色列总理称将粉碎摧毁哈马斯](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E7%A7%B0%E5%B0%86%E7%B2%89%E7%A2%8E%E6%91%A7%E6%AF%81%E5%93%88%E9%A9%AC%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孙卓被拐案明日宣判 对话孙海洋](https://www.baidu.com/s?wd=%E5%AD%99%E5%8D%93%E8%A2%AB%E6%8B%90%E6%A1%88%E6%98%8E%E6%97%A5%E5%AE%A3%E5%88%A4+%E5%AF%B9%E8%AF%9D%E5%AD%99%E6%B5%B7%E6%B4%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [媒体：指鼠为牛接棒指鼠为鸭](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%8C%87%E9%BC%A0%E4%B8%BA%E7%89%9B%E6%8E%A5%E6%A3%92%E6%8C%87%E9%BC%A0%E4%B8%BA%E9%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [光大集团原董事长李晓鹏被逮捕](https://www.baidu.com/s?wd=%E5%85%89%E5%A4%A7%E9%9B%86%E5%9B%A2%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E6%9D%8E%E6%99%93%E9%B9%8F%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“一带一路”源自中国属于世界](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E2%80%9D%E6%BA%90%E8%87%AA%E4%B8%AD%E5%9B%BD%E5%B1%9E%E4%BA%8E%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [这面包分不清谁是谁的边角料](https://www.baidu.com/s?wd=%E8%BF%99%E9%9D%A2%E5%8C%85%E5%88%86%E4%B8%8D%E6%B8%85%E8%B0%81%E6%98%AF%E8%B0%81%E7%9A%84%E8%BE%B9%E8%A7%92%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [南方电网半年56人主动投案](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E7%94%B5%E7%BD%91%E5%8D%8A%E5%B9%B456%E4%BA%BA%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [英官员访以期间遇空袭警报](https://www.baidu.com/s?wd=%E8%8B%B1%E5%AE%98%E5%91%98%E8%AE%BF%E4%BB%A5%E6%9C%9F%E9%97%B4%E9%81%87%E7%A9%BA%E8%A2%AD%E8%AD%A6%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [以色列总理称将粉碎摧毁哈马斯](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E7%A7%B0%E5%B0%86%E7%B2%89%E7%A2%8E%E6%91%A7%E6%AF%81%E5%93%88%E9%A9%AC%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孙卓被拐案明日宣判 对话孙海洋](https://www.baidu.com/s?wd=%E5%AD%99%E5%8D%93%E8%A2%AB%E6%8B%90%E6%A1%88%E6%98%8E%E6%97%A5%E5%AE%A3%E5%88%A4+%E5%AF%B9%E8%AF%9D%E5%AD%99%E6%B5%B7%E6%B4%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
