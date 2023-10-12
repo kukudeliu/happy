@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 12:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 12:55:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [光大集团原董事长李晓鹏被逮捕](https://www.baidu.com/s?wd=%E5%85%89%E5%A4%A7%E9%9B%86%E5%9B%A2%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E6%9D%8E%E6%99%93%E9%B9%8F%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [壮阔大道10年歌](https://www.baidu.com/s?wd=%E5%A3%AE%E9%98%94%E5%A4%A7%E9%81%9310%E5%B9%B4%E6%AD%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [今年应届生平均招聘月薪10342元](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%BA%94%E5%B1%8A%E7%94%9F%E5%B9%B3%E5%9D%87%E6%8B%9B%E8%81%98%E6%9C%88%E8%96%AA10342%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [贵州一在建铁路隧道爆炸致5人遇难](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E4%B8%80%E5%9C%A8%E5%BB%BA%E9%93%81%E8%B7%AF%E9%9A%A7%E9%81%93%E7%88%86%E7%82%B8%E8%87%B45%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [武大学生举报遭性骚扰 警方已出警](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E9%81%AD%E6%80%A7%E9%AA%9A%E6%89%B0+%E8%AD%A6%E6%96%B9%E5%B7%B2%E5%87%BA%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [街道现满地百元大钞路人笑称不敢捡](https://www.baidu.com/s?wd=%E8%A1%97%E9%81%93%E7%8E%B0%E6%BB%A1%E5%9C%B0%E7%99%BE%E5%85%83%E5%A4%A7%E9%92%9E%E8%B7%AF%E4%BA%BA%E7%AC%91%E7%A7%B0%E4%B8%8D%E6%95%A2%E6%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [亓延军已任公安部党委副书记](https://www.baidu.com/s?wd=%E4%BA%93%E5%BB%B6%E5%86%9B%E5%B7%B2%E4%BB%BB%E5%85%AC%E5%AE%89%E9%83%A8%E5%85%9A%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [贵州一在建铁路隧道爆炸致5人遇难](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E4%B8%80%E5%9C%A8%E5%BB%BA%E9%93%81%E8%B7%AF%E9%9A%A7%E9%81%93%E7%88%86%E7%82%B8%E8%87%B45%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [武大学生举报遭性骚扰 警方已出警](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E9%81%AD%E6%80%A7%E9%AA%9A%E6%89%B0+%E8%AD%A6%E6%96%B9%E5%B7%B2%E5%87%BA%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子造谣小学现校园暴力被拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%B0%8F%E5%AD%A6%E7%8E%B0%E6%A0%A1%E5%9B%AD%E6%9A%B4%E5%8A%9B%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [光大集团原董事长李晓鹏被逮捕](https://www.baidu.com/s?wd=%E5%85%89%E5%A4%A7%E9%9B%86%E5%9B%A2%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E6%9D%8E%E6%99%93%E9%B9%8F%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [壮阔大道10年歌](https://www.baidu.com/s?wd=%E5%A3%AE%E9%98%94%E5%A4%A7%E9%81%9310%E5%B9%B4%E6%AD%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [今年应届生平均招聘月薪10342元](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%BA%94%E5%B1%8A%E7%94%9F%E5%B9%B3%E5%9D%87%E6%8B%9B%E8%81%98%E6%9C%88%E8%96%AA10342%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [贵州一在建铁路隧道爆炸致5人遇难](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E4%B8%80%E5%9C%A8%E5%BB%BA%E9%93%81%E8%B7%AF%E9%9A%A7%E9%81%93%E7%88%86%E7%82%B8%E8%87%B45%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [武大学生举报遭性骚扰 警方已出警](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E9%81%AD%E6%80%A7%E9%AA%9A%E6%89%B0+%E8%AD%A6%E6%96%B9%E5%B7%B2%E5%87%BA%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [街道现满地百元大钞路人笑称不敢捡](https://www.baidu.com/s?wd=%E8%A1%97%E9%81%93%E7%8E%B0%E6%BB%A1%E5%9C%B0%E7%99%BE%E5%85%83%E5%A4%A7%E9%92%9E%E8%B7%AF%E4%BA%BA%E7%AC%91%E7%A7%B0%E4%B8%8D%E6%95%A2%E6%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [亓延军已任公安部党委副书记](https://www.baidu.com/s?wd=%E4%BA%93%E5%BB%B6%E5%86%9B%E5%B7%B2%E4%BB%BB%E5%85%AC%E5%AE%89%E9%83%A8%E5%85%9A%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [贵州一在建铁路隧道爆炸致5人遇难](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E4%B8%80%E5%9C%A8%E5%BB%BA%E9%93%81%E8%B7%AF%E9%9A%A7%E9%81%93%E7%88%86%E7%82%B8%E8%87%B45%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [武大学生举报遭性骚扰 警方已出警](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E9%81%AD%E6%80%A7%E9%AA%9A%E6%89%B0+%E8%AD%A6%E6%96%B9%E5%B7%B2%E5%87%BA%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子造谣小学现校园暴力被拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%B0%8F%E5%AD%A6%E7%8E%B0%E6%A0%A1%E5%9B%AD%E6%9A%B4%E5%8A%9B%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
