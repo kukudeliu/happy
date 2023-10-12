@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 16:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 16:07:01</h4></div>
 
 > 微博  
 
 1. [跑男](https://s.weibo.com/weibo?q=%E8%B7%91%E7%94%B7&t=31&band_rank=1&Refer=top)<br />
 2. [三名中国公民在巴以冲突中遇难](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E4%B8%AD%E9%81%87%E9%9A%BE%23&t=31&band_rank=2&Refer=top)<br />
-3. [这座鲁班桥为何被赞比亚师生点赞](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%BA%A7%E9%B2%81%E7%8F%AD%E6%A1%A5%E4%B8%BA%E4%BD%95%E8%A2%AB%E8%B5%9E%E6%AF%94%E4%BA%9A%E5%B8%88%E7%94%9F%E7%82%B9%E8%B5%9E%23&t=31&band_rank=3&Refer=top)<br />
+3. [在阿根廷采撷多彩风情](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%87%87%E6%92%B7%E5%A4%9A%E5%BD%A9%E9%A3%8E%E6%83%85%23&t=31&band_rank=3&Refer=top)<br />
 4. [高铁上拒绝了宝爹妈的换座后](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E6%8B%92%E7%BB%9D%E4%BA%86%E5%AE%9D%E7%88%B9%E5%A6%88%E7%9A%84%E6%8D%A2%E5%BA%A7%E5%90%8E%23&t=31&band_rank=4&Refer=top)<br />
 5. [郑强回应婚内出轨包养情妇](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%BC%BA%E5%9B%9E%E5%BA%94%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%E5%8C%85%E5%85%BB%E6%83%85%E5%A6%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [靳东 济南大学](https://s.weibo.com/weibo?q=%E9%9D%B3%E4%B8%9C%20%E6%B5%8E%E5%8D%97%E5%A4%A7%E5%AD%A6&t=31&band_rank=6&Refer=top)<br />
