@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 10:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 10:21:01</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [总书记和江西的故事](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%92%8C%E6%B1%9F%E8%A5%BF%E7%9A%84%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [南方电网半年56人主动投案](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E7%94%B5%E7%BD%91%E5%8D%8A%E5%B9%B456%E4%BA%BA%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [淘宝否认主持人李思思开直播](https://www.baidu.com/s?wd=%E6%B7%98%E5%AE%9D%E5%90%A6%E8%AE%A4%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9D%8E%E6%80%9D%E6%80%9D%E5%BC%80%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [光大集团原董事长李晓鹏被逮捕](https://www.baidu.com/s?wd=%E5%85%89%E5%A4%A7%E9%9B%86%E5%9B%A2%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E6%9D%8E%E6%99%93%E9%B9%8F%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“一带一路”源自中国属于世界](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E2%80%9D%E6%BA%90%E8%87%AA%E4%B8%AD%E5%9B%BD%E5%B1%9E%E4%BA%8E%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [这面包分不清谁是谁的边角料](https://www.baidu.com/s?wd=%E8%BF%99%E9%9D%A2%E5%8C%85%E5%88%86%E4%B8%8D%E6%B8%85%E8%B0%81%E6%98%AF%E8%B0%81%E7%9A%84%E8%BE%B9%E8%A7%92%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [光大集团原董事长李晓鹏被逮捕](https://www.baidu.com/s?wd=%E5%85%89%E5%A4%A7%E9%9B%86%E5%9B%A2%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E6%9D%8E%E6%99%93%E9%B9%8F%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [司机否认高速甩客致女乘客身亡](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%90%A6%E8%AE%A4%E9%AB%98%E9%80%9F%E7%94%A9%E5%AE%A2%E8%87%B4%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [以色列否认在加沙使用白磷弹](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%90%A6%E8%AE%A4%E5%9C%A8%E5%8A%A0%E6%B2%99%E4%BD%BF%E7%94%A8%E7%99%BD%E7%A3%B7%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [司机否认高速甩客致女乘客身亡](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%90%A6%E8%AE%A4%E9%AB%98%E9%80%9F%E7%94%A9%E5%AE%A2%E8%87%B4%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [以色列否认在加沙使用白磷弹](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%90%A6%E8%AE%A4%E5%9C%A8%E5%8A%A0%E6%B2%99%E4%BD%BF%E7%94%A8%E7%99%BD%E7%A3%B7%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国男子徒手爬以色列领事馆大楼](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E5%BE%92%E6%89%8B%E7%88%AC%E4%BB%A5%E8%89%B2%E5%88%97%E9%A2%86%E4%BA%8B%E9%A6%86%E5%A4%A7%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子造谣小学现校园暴力被拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%B0%8F%E5%AD%A6%E7%8E%B0%E6%A0%A1%E5%9B%AD%E6%9A%B4%E5%8A%9B%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [总书记和江西的故事](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%92%8C%E6%B1%9F%E8%A5%BF%E7%9A%84%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [南方电网半年56人主动投案](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E7%94%B5%E7%BD%91%E5%8D%8A%E5%B9%B456%E4%BA%BA%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [淘宝否认主持人李思思开直播](https://www.baidu.com/s?wd=%E6%B7%98%E5%AE%9D%E5%90%A6%E8%AE%A4%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9D%8E%E6%80%9D%E6%80%9D%E5%BC%80%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [光大集团原董事长李晓鹏被逮捕](https://www.baidu.com/s?wd=%E5%85%89%E5%A4%A7%E9%9B%86%E5%9B%A2%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E6%9D%8E%E6%99%93%E9%B9%8F%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“一带一路”源自中国属于世界](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E2%80%9D%E6%BA%90%E8%87%AA%E4%B8%AD%E5%9B%BD%E5%B1%9E%E4%BA%8E%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [这面包分不清谁是谁的边角料](https://www.baidu.com/s?wd=%E8%BF%99%E9%9D%A2%E5%8C%85%E5%88%86%E4%B8%8D%E6%B8%85%E8%B0%81%E6%98%AF%E8%B0%81%E7%9A%84%E8%BE%B9%E8%A7%92%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [光大集团原董事长李晓鹏被逮捕](https://www.baidu.com/s?wd=%E5%85%89%E5%A4%A7%E9%9B%86%E5%9B%A2%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E6%9D%8E%E6%99%93%E9%B9%8F%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [司机否认高速甩客致女乘客身亡](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%90%A6%E8%AE%A4%E9%AB%98%E9%80%9F%E7%94%A9%E5%AE%A2%E8%87%B4%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [以色列否认在加沙使用白磷弹](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%90%A6%E8%AE%A4%E5%9C%A8%E5%8A%A0%E6%B2%99%E4%BD%BF%E7%94%A8%E7%99%BD%E7%A3%B7%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [司机否认高速甩客致女乘客身亡](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%90%A6%E8%AE%A4%E9%AB%98%E9%80%9F%E7%94%A9%E5%AE%A2%E8%87%B4%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [以色列否认在加沙使用白磷弹](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%90%A6%E8%AE%A4%E5%9C%A8%E5%8A%A0%E6%B2%99%E4%BD%BF%E7%94%A8%E7%99%BD%E7%A3%B7%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国男子徒手爬以色列领事馆大楼](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E5%BE%92%E6%89%8B%E7%88%AC%E4%BB%A5%E8%89%B2%E5%88%97%E9%A2%86%E4%BA%8B%E9%A6%86%E5%A4%A7%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子造谣小学现校园暴力被拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%B0%8F%E5%AD%A6%E7%8E%B0%E6%A0%A1%E5%9B%AD%E6%9A%B4%E5%8A%9B%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
