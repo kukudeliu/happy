@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 10:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 10:26:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以色列](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [仙台有树开机官宣](https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%8F%B0%E6%9C%89%E6%A0%91%E5%BC%80%E6%9C%BA%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [余华 当当盯上了我的另一部小说](https://s.weibo.com/weibo?q=%E4%BD%99%E5%8D%8E%20%E5%BD%93%E5%BD%93%E7%9B%AF%E4%B8%8A%E4%BA%86%E6%88%91%E7%9A%84%E5%8F%A6%E4%B8%80%E9%83%A8%E5%B0%8F%E8%AF%B4&t=31&band_rank=8&Refer=top)<br />
-9. [过度疲劳的6种表现](https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%BA%A6%E7%96%B2%E5%8A%B3%E7%9A%846%E7%A7%8D%E8%A1%A8%E7%8E%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [为什么年轻人开始讨厌信用卡了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E8%AE%A8%E5%8E%8C%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
