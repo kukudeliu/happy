@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 23:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 23:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张凌赫回应炎症女孩](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%9B%9E%E5%BA%94%E7%82%8E%E7%97%87%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [20岁女生裸辞用76天穷游22个城市](https://s.weibo.com/weibo?q=%2320%E5%B2%81%E5%A5%B3%E7%94%9F%E8%A3%B8%E8%BE%9E%E7%94%A876%E5%A4%A9%E7%A9%B7%E6%B8%B822%E4%B8%AA%E5%9F%8E%E5%B8%82%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国手机的美颜功能到了非洲改了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E7%9A%84%E7%BE%8E%E9%A2%9C%E5%8A%9F%E8%83%BD%E5%88%B0%E4%BA%86%E9%9D%9E%E6%B4%B2%E6%94%B9%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [黄绮珊别唱了我没眼泪了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%BB%AE%E7%8F%8A%E5%88%AB%E5%94%B1%E4%BA%86%E6%88%91%E6%B2%A1%E7%9C%BC%E6%B3%AA%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [被德国面包划伤食道](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%BE%B7%E5%9B%BD%E9%9D%A2%E5%8C%85%E5%88%92%E4%BC%A4%E9%A3%9F%E9%81%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
