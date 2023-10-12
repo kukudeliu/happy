@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 10:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 10:28:01</h4></div>
 
 > 微博  
 
 1. [2023年应届生平均招聘月薪10342元](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%BA%94%E5%B1%8A%E7%94%9F%E5%B9%B3%E5%9D%87%E6%8B%9B%E8%81%98%E6%9C%88%E8%96%AA10342%E5%85%83%23&t=31&band_rank=1&Refer=top)<br />
 2. [产妇拍下产床抓痕引20万妈妈共鸣](https://s.weibo.com/weibo?q=%23%E4%BA%A7%E5%A6%87%E6%8B%8D%E4%B8%8B%E4%BA%A7%E5%BA%8A%E6%8A%93%E7%97%95%E5%BC%9520%E4%B8%87%E5%A6%88%E5%A6%88%E5%85%B1%E9%B8%A3%23&t=31&band_rank=2&Refer=top)<br />
 3. [一带一路一往无前](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E4%B8%80%E5%BE%80%E6%97%A0%E5%89%8D%23&t=31&band_rank=3&Refer=top)<br />
-4. [周杰伦演唱会前黄牛集体退票](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E9%BB%84%E7%89%9B%E9%9B%86%E4%BD%93%E9%80%80%E7%A5%A8%23&t=31&band_rank=4&Refer=top)<br />
-5. [刘暖曦视频号直播4次后被投诉永久禁播](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%9A%96%E6%9B%A6%E8%A7%86%E9%A2%91%E5%8F%B7%E7%9B%B4%E6%92%AD4%E6%AC%A1%E5%90%8E%E8%A2%AB%E6%8A%95%E8%AF%89%E6%B0%B8%E4%B9%85%E7%A6%81%E6%92%AD%23&t=31&band_rank=5&Refer=top)<br />
+4. [刘暖曦视频号直播4次后被投诉永久禁播](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%9A%96%E6%9B%A6%E8%A7%86%E9%A2%91%E5%8F%B7%E7%9B%B4%E6%92%AD4%E6%AC%A1%E5%90%8E%E8%A2%AB%E6%8A%95%E8%AF%89%E6%B0%B8%E4%B9%85%E7%A6%81%E6%92%AD%23&t=31&band_rank=4&Refer=top)<br />
+5. [周杰伦演唱会前黄牛集体退票](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E9%BB%84%E7%89%9B%E9%9B%86%E4%BD%93%E9%80%80%E7%A5%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [以色列](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [仙台有树开机官宣](https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%8F%B0%E6%9C%89%E6%A0%91%E5%BC%80%E6%9C%BA%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [余华 当当盯上了我的另一部小说](https://s.weibo.com/weibo?q=%E4%BD%99%E5%8D%8E%20%E5%BD%93%E5%BD%93%E7%9B%AF%E4%B8%8A%E4%BA%86%E6%88%91%E7%9A%84%E5%8F%A6%E4%B8%80%E9%83%A8%E5%B0%8F%E8%AF%B4&t=31&band_rank=8&Refer=top)<br />
-9. [为什么年轻人开始讨厌信用卡了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E8%AE%A8%E5%8E%8C%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [为什么年轻人开始讨厌信用卡了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E8%AE%A8%E5%8E%8C%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [余华 当当盯上了我的另一部小说](https://s.weibo.com/weibo?q=%E4%BD%99%E5%8D%8E%20%E5%BD%93%E5%BD%93%E7%9B%AF%E4%B8%8A%E4%BA%86%E6%88%91%E7%9A%84%E5%8F%A6%E4%B8%80%E9%83%A8%E5%B0%8F%E8%AF%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
