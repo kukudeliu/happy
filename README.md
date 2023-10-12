@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 09:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 09:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [美国室友试穿中国明朝藩王吉服](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AE%A4%E5%8F%8B%E8%AF%95%E7%A9%BF%E4%B8%AD%E5%9B%BD%E6%98%8E%E6%9C%9D%E8%97%A9%E7%8E%8B%E5%90%89%E6%9C%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [余华 当当盯上了我的另一部小说](https://s.weibo.com/weibo?q=%E4%BD%99%E5%8D%8E%20%E5%BD%93%E5%BD%93%E7%9B%AF%E4%B8%8A%E4%BA%86%E6%88%91%E7%9A%84%E5%8F%A6%E4%B8%80%E9%83%A8%E5%B0%8F%E8%AF%B4&t=31&band_rank=7&Refer=top)<br />
 8. [巴以冲突已致超过2300人死亡](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%B7%B2%E8%87%B4%E8%B6%85%E8%BF%872300%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [北极鲶鱼爷爷退休16年后被捞出](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E7%88%B7%E7%88%B7%E9%80%80%E4%BC%9116%E5%B9%B4%E5%90%8E%E8%A2%AB%E6%8D%9E%E5%87%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [2023年应届生平均招聘月薪10342元](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%BA%94%E5%B1%8A%E7%94%9F%E5%B9%B3%E5%9D%87%E6%8B%9B%E8%81%98%E6%9C%88%E8%96%AA10342%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
