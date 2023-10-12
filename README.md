@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 12:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 12:32:01</h4></div>
 
 > 微博  
 
-1. [李晓鹏被逮捕](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%93%E9%B9%8F%E8%A2%AB%E9%80%AE%E6%8D%95%23&t=31&band_rank=1&Refer=top)<br />
-2. [完颜慧德](https://s.weibo.com/weibo?q=%E5%AE%8C%E9%A2%9C%E6%85%A7%E5%BE%B7&t=31&band_rank=2&Refer=top)<br />
+1. [完颜慧德](https://s.weibo.com/weibo?q=%E5%AE%8C%E9%A2%9C%E6%85%A7%E5%BE%B7&t=31&band_rank=1&Refer=top)<br />
+2. [李晓鹏被逮捕](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%93%E9%B9%8F%E8%A2%AB%E9%80%AE%E6%8D%95%23&t=31&band_rank=2&Refer=top)<br />
 3. [黄河九碗面哪碗让你念念不忘](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B2%B3%E4%B9%9D%E7%A2%97%E9%9D%A2%E5%93%AA%E7%A2%97%E8%AE%A9%E4%BD%A0%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%23&t=31&band_rank=3&Refer=top)<br />
 4. [2023年应届生平均招聘月薪10342元](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%BA%94%E5%B1%8A%E7%94%9F%E5%B9%B3%E5%9D%87%E6%8B%9B%E8%81%98%E6%9C%88%E8%96%AA10342%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [当潦草小狗见到潦草小马](https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%BD%A6%E8%8D%89%E5%B0%8F%E7%8B%97%E8%A7%81%E5%88%B0%E6%BD%A6%E8%8D%89%E5%B0%8F%E9%A9%AC%23&t=31&band_rank=5&Refer=top)<br />
