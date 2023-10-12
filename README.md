@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 10:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 10:52:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [刘暖曦视频号直播4次后被投诉永久禁播](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%9A%96%E6%9B%A6%E8%A7%86%E9%A2%91%E5%8F%B7%E7%9B%B4%E6%92%AD4%E6%AC%A1%E5%90%8E%E8%A2%AB%E6%8A%95%E8%AF%89%E6%B0%B8%E4%B9%85%E7%A6%81%E6%92%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [李晓鹏被逮捕](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%93%E9%B9%8F%E8%A2%AB%E9%80%AE%E6%8D%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [以色列](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [一带一路一往无前](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E4%B8%80%E5%BE%80%E6%97%A0%E5%89%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [周杰伦演唱会前黄牛集体退票](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E9%BB%84%E7%89%9B%E9%9B%86%E4%BD%93%E9%80%80%E7%A5%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [仙台有树开机官宣](https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%8F%B0%E6%9C%89%E6%A0%91%E5%BC%80%E6%9C%BA%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
+7. [周杰伦演唱会前黄牛集体退票](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E9%BB%84%E7%89%9B%E9%9B%86%E4%BD%93%E9%80%80%E7%A5%A8%23&t=31&band_rank=7&Refer=top)<br />
+8. [仙台有树开机官宣](https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%8F%B0%E6%9C%89%E6%A0%91%E5%BC%80%E6%9C%BA%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
+9. [的哥回应网传高速甩客致乘客身亡](https://s.weibo.com/weibo?q=%23%E7%9A%84%E5%93%A5%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%AB%98%E9%80%9F%E7%94%A9%E5%AE%A2%E8%87%B4%E4%B9%98%E5%AE%A2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
