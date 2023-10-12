@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 15:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 15:01:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [警方公开通缉2名缅北电诈集团头目](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%85%AC%E5%BC%80%E9%80%9A%E7%BC%892%E5%90%8D%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E9%9B%86%E5%9B%A2%E5%A4%B4%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国去年出生人口956万 二孩占38.9%](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8E%BB%E5%B9%B4%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3956%E4%B8%87+%E4%BA%8C%E5%AD%A9%E5%8D%A038.9%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广州警方通报乘客裙子现不明液体](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B9%98%E5%AE%A2%E8%A3%99%E5%AD%90%E7%8E%B0%E4%B8%8D%E6%98%8E%E6%B6%B2%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [成都一初中生疑校内身亡 教育局回应](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E5%88%9D%E4%B8%AD%E7%94%9F%E7%96%91%E6%A0%A1%E5%86%85%E8%BA%AB%E4%BA%A1+%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [巴勒斯坦现实版《美丽人生》](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%8E%B0%E5%AE%9E%E7%89%88%E3%80%8A%E7%BE%8E%E4%B8%BD%E4%BA%BA%E7%94%9F%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [霸凌女生亮相校宣传片?校方:不实](https://www.baidu.com/s?wd=%E9%9C%B8%E5%87%8C%E5%A5%B3%E7%94%9F%E4%BA%AE%E7%9B%B8%E6%A0%A1%E5%AE%A3%E4%BC%A0%E7%89%87%3F%E6%A0%A1%E6%96%B9%3A%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [警方公开通缉2名缅北电诈集团头目](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%85%AC%E5%BC%80%E9%80%9A%E7%BC%892%E5%90%8D%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E9%9B%86%E5%9B%A2%E5%A4%B4%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国去年出生人口956万 二孩占38.9%](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8E%BB%E5%B9%B4%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3956%E4%B8%87+%E4%BA%8C%E5%AD%A9%E5%8D%A038.9%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广州警方通报乘客裙子现不明液体](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B9%98%E5%AE%A2%E8%A3%99%E5%AD%90%E7%8E%B0%E4%B8%8D%E6%98%8E%E6%B6%B2%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [成都一初中生疑校内身亡 教育局回应](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E5%88%9D%E4%B8%AD%E7%94%9F%E7%96%91%E6%A0%A1%E5%86%85%E8%BA%AB%E4%BA%A1+%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [巴勒斯坦现实版《美丽人生》](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%8E%B0%E5%AE%9E%E7%89%88%E3%80%8A%E7%BE%8E%E4%B8%BD%E4%BA%BA%E7%94%9F%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [霸凌女生亮相校宣传片?校方:不实](https://www.baidu.com/s?wd=%E9%9C%B8%E5%87%8C%E5%A5%B3%E7%94%9F%E4%BA%AE%E7%9B%B8%E6%A0%A1%E5%AE%A3%E4%BC%A0%E7%89%87%3F%E6%A0%A1%E6%96%B9%3A%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
