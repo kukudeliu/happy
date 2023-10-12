@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 15:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 15:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [全红婵弟弟 鱼啊](https://s.weibo.com/weibo?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%BC%9F%E5%BC%9F%20%E9%B1%BC%E5%95%8A&t=31&band_rank=6&Refer=top)<br />
 7. [雪中悍刀行女主](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E4%B8%AD%E6%82%8D%E5%88%80%E8%A1%8C%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [靳东 济南大学](https://s.weibo.com/weibo?q=%E9%9D%B3%E4%B8%9C%20%E6%B5%8E%E5%8D%97%E5%A4%A7%E5%AD%A6&t=31&band_rank=8&Refer=top)<br />
-9. [杨立新杨玏父子到底谁在撒谎](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%AB%8B%E6%96%B0%E6%9D%A8%E7%8E%8F%E7%88%B6%E5%AD%90%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8%E6%92%92%E8%B0%8E%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈情令版权已到期](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%83%85%E4%BB%A4%E7%89%88%E6%9D%83%E5%B7%B2%E5%88%B0%E6%9C%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
