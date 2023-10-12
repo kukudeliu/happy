@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 01:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 01:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [多名公费师范毕业生未履约被通报](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E5%85%AC%E8%B4%B9%E5%B8%88%E8%8C%83%E6%AF%95%E4%B8%9A%E7%94%9F%E6%9C%AA%E5%B1%A5%E7%BA%A6%E8%A2%AB%E9%80%9A%E6%8A%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [折腰](https://s.weibo.com/weibo?q=%E6%8A%98%E8%85%B0&t=31&band_rank=7&Refer=top)<br />
 8. [韩国济州岛买水果](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%B5%8E%E5%B7%9E%E5%B2%9B%E4%B9%B0%E6%B0%B4%E6%9E%9C&t=31&band_rank=8&Refer=top)<br />
-9. [沈腾说孟子义叫孟子作](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E8%AF%B4%E5%AD%9F%E5%AD%90%E4%B9%89%E5%8F%AB%E5%AD%9F%E5%AD%90%E4%BD%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国手机的美颜功能到了非洲改了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E7%9A%84%E7%BE%8E%E9%A2%9C%E5%8A%9F%E8%83%BD%E5%88%B0%E4%BA%86%E9%9D%9E%E6%B4%B2%E6%94%B9%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
