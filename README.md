@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 10:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 10:36:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [刘暖曦视频号直播4次后被投诉永久禁播](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%9A%96%E6%9B%A6%E8%A7%86%E9%A2%91%E5%8F%B7%E7%9B%B4%E6%92%AD4%E6%AC%A1%E5%90%8E%E8%A2%AB%E6%8A%95%E8%AF%89%E6%B0%B8%E4%B9%85%E7%A6%81%E6%92%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [为什么耳朵里面会长这种痘](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%B3%E6%9C%B5%E9%87%8C%E9%9D%A2%E4%BC%9A%E9%95%BF%E8%BF%99%E7%A7%8D%E7%97%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [以色列](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [周杰伦演唱会前黄牛集体退票](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E9%BB%84%E7%89%9B%E9%9B%86%E4%BD%93%E9%80%80%E7%A5%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [为什么年轻人开始讨厌信用卡了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E8%AE%A8%E5%8E%8C%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [为什么年轻人开始讨厌信用卡了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E8%AE%A8%E5%8E%8C%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [周杰伦演唱会前黄牛集体退票](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E9%BB%84%E7%89%9B%E9%9B%86%E4%BD%93%E9%80%80%E7%A5%A8%23&t=31&band_rank=8&Refer=top)<br />
 9. [仙台有树开机官宣](https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%8F%B0%E6%9C%89%E6%A0%91%E5%BC%80%E6%9C%BA%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
