@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 22:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 22:08:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [以色列空袭叙利亚两座机场](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E8%A2%AD%E5%8F%99%E5%88%A9%E4%BA%9A%E4%B8%A4%E5%BA%A7%E6%9C%BA%E5%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [张嘉倪 爱看狐狸哭](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%98%89%E5%80%AA%20%E7%88%B1%E7%9C%8B%E7%8B%90%E7%8B%B8%E5%93%AD&t=31&band_rank=6&Refer=top)<br />
 7. [20岁女生裸辞用76天穷游22个城市](https://s.weibo.com/weibo?q=%2320%E5%B2%81%E5%A5%B3%E7%94%9F%E8%A3%B8%E8%BE%9E%E7%94%A876%E5%A4%A9%E7%A9%B7%E6%B8%B822%E4%B8%AA%E5%9F%8E%E5%B8%82%23&t=31&band_rank=7&Refer=top)<br />
-8. [珠帘玉幕](https://s.weibo.com/weibo?q=%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95&t=31&band_rank=8&Refer=top)<br />
-9. [女子怀孕5个月被房东知道后退租](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%955%E4%B8%AA%E6%9C%88%E8%A2%AB%E6%88%BF%E4%B8%9C%E7%9F%A5%E9%81%93%E5%90%8E%E9%80%80%E7%A7%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [6男生自助火锅店喝111瓶酸梅汤](https://s.weibo.com/weibo?q=%236%E7%94%B7%E7%94%9F%E8%87%AA%E5%8A%A9%E7%81%AB%E9%94%85%E5%BA%97%E5%96%9D111%E7%93%B6%E9%85%B8%E6%A2%85%E6%B1%A4%23&t=31&band_rank=8&Refer=top)<br />
+9. [刘宇宁直播回应珠帘玉幕选角风波](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95%E9%80%89%E8%A7%92%E9%A3%8E%E6%B3%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
