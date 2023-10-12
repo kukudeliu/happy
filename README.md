@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 10:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 10:14:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [淘宝回应李思思将直播带货](https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%9B%9E%E5%BA%94%E6%9D%8E%E6%80%9D%E6%80%9D%E5%B0%86%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [周杰伦演唱会前黄牛集体退票](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E9%BB%84%E7%89%9B%E9%9B%86%E4%BD%93%E9%80%80%E7%A5%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [以色列](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [过度疲劳的6种表现](https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%BA%A6%E7%96%B2%E5%8A%B3%E7%9A%846%E7%A7%8D%E8%A1%A8%E7%8E%B0%23&t=31&band_rank=7&Refer=top)<br />
-8. [仙台有树开机官宣](https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%8F%B0%E6%9C%89%E6%A0%91%E5%BC%80%E6%9C%BA%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [余华 当当盯上了我的另一部小说](https://s.weibo.com/weibo?q=%E4%BD%99%E5%8D%8E%20%E5%BD%93%E5%BD%93%E7%9B%AF%E4%B8%8A%E4%BA%86%E6%88%91%E7%9A%84%E5%8F%A6%E4%B8%80%E9%83%A8%E5%B0%8F%E8%AF%B4&t=31&band_rank=9&Refer=top)<br />
+7. [仙台有树开机官宣](https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%8F%B0%E6%9C%89%E6%A0%91%E5%BC%80%E6%9C%BA%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
+8. [余华 当当盯上了我的另一部小说](https://s.weibo.com/weibo?q=%E4%BD%99%E5%8D%8E%20%E5%BD%93%E5%BD%93%E7%9B%AF%E4%B8%8A%E4%BA%86%E6%88%91%E7%9A%84%E5%8F%A6%E4%B8%80%E9%83%A8%E5%B0%8F%E8%AF%B4&t=31&band_rank=8&Refer=top)<br />
+9. [过度疲劳的6种表现](https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%BA%A6%E7%96%B2%E5%8A%B3%E7%9A%846%E7%A7%8D%E8%A1%A8%E7%8E%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
