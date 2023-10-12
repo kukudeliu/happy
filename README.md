@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 18:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 18:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [法医守护司法公正的脚步永不停止](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%8C%BB%E5%AE%88%E6%8A%A4%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3%E7%9A%84%E8%84%9A%E6%AD%A5%E6%B0%B8%E4%B8%8D%E5%81%9C%E6%AD%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [郑强回应婚内出轨包养情妇](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%BC%BA%E5%9B%9E%E5%BA%94%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%E5%8C%85%E5%85%BB%E6%83%85%E5%A6%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [嘉兴女护士10秒救下卡喉女子](https://s.weibo.com/weibo?q=%23%E5%98%89%E5%85%B4%E5%A5%B3%E6%8A%A4%E5%A3%AB10%E7%A7%92%E6%95%91%E4%B8%8B%E5%8D%A1%E5%96%89%E5%A5%B3%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [东部战区回应美机过航台海](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%9C%BA%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B5%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子怀孕5个月被房东知道后退租](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%955%E4%B8%AA%E6%9C%88%E8%A2%AB%E6%88%BF%E4%B8%9C%E7%9F%A5%E9%81%93%E5%90%8E%E9%80%80%E7%A7%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [女子怀孕5个月被房东知道后退租](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%955%E4%B8%AA%E6%9C%88%E8%A2%AB%E6%88%BF%E4%B8%9C%E7%9F%A5%E9%81%93%E5%90%8E%E9%80%80%E7%A7%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [东部战区回应美机过航台海](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%9C%BA%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B5%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
