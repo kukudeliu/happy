@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 10:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 10:57:01</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 
 > 百度  
 
-1. [总书记和江西的故事](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%92%8C%E6%B1%9F%E8%A5%BF%E7%9A%84%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [又见长江](https://www.baidu.com/s?wd=%E5%8F%88%E8%A7%81%E9%95%BF%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [媒体：指鼠为牛接棒指鼠为鸭](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%8C%87%E9%BC%A0%E4%B8%BA%E7%89%9B%E6%8E%A5%E6%A3%92%E6%8C%87%E9%BC%A0%E4%B8%BA%E9%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [光大集团原董事长李晓鹏被逮捕](https://www.baidu.com/s?wd=%E5%85%89%E5%A4%A7%E9%9B%86%E5%9B%A2%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E6%9D%8E%E6%99%93%E9%B9%8F%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [“一带一路”源自中国属于世界](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E2%80%9D%E6%BA%90%E8%87%AA%E4%B8%AD%E5%9B%BD%E5%B1%9E%E4%BA%8E%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [壮阔大道10年歌](https://www.baidu.com/s?wd=%E5%A3%AE%E9%98%94%E5%A4%A7%E9%81%9310%E5%B9%B4%E6%AD%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [南方电网半年56人主动投案](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E7%94%B5%E7%BD%91%E5%8D%8A%E5%B9%B456%E4%BA%BA%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [哈马斯称已释放3名被扣押人员](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E7%A7%B0%E5%B7%B2%E9%87%8A%E6%94%BE3%E5%90%8D%E8%A2%AB%E6%89%A3%E6%8A%BC%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [英官员访以期间遇空袭警报](https://www.baidu.com/s?wd=%E8%8B%B1%E5%AE%98%E5%91%98%E8%AE%BF%E4%BB%A5%E6%9C%9F%E9%97%B4%E9%81%87%E7%A9%BA%E8%A2%AD%E8%AD%A6%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,10 +29,10 @@
 
 > 哔哩哔哩  
 
-1. [总书记和江西的故事](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%92%8C%E6%B1%9F%E8%A5%BF%E7%9A%84%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [又见长江](https://www.baidu.com/s?wd=%E5%8F%88%E8%A7%81%E9%95%BF%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [媒体：指鼠为牛接棒指鼠为鸭](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%8C%87%E9%BC%A0%E4%B8%BA%E7%89%9B%E6%8E%A5%E6%A3%92%E6%8C%87%E9%BC%A0%E4%B8%BA%E9%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [光大集团原董事长李晓鹏被逮捕](https://www.baidu.com/s?wd=%E5%85%89%E5%A4%A7%E9%9B%86%E5%9B%A2%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E6%9D%8E%E6%99%93%E9%B9%8F%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [“一带一路”源自中国属于世界](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E2%80%9D%E6%BA%90%E8%87%AA%E4%B8%AD%E5%9B%BD%E5%B1%9E%E4%BA%8E%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [壮阔大道10年歌](https://www.baidu.com/s?wd=%E5%A3%AE%E9%98%94%E5%A4%A7%E9%81%9310%E5%B9%B4%E6%AD%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [南方电网半年56人主动投案](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E7%94%B5%E7%BD%91%E5%8D%8A%E5%B9%B456%E4%BA%BA%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [哈马斯称已释放3名被扣押人员](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E7%A7%B0%E5%B7%B2%E9%87%8A%E6%94%BE3%E5%90%8D%E8%A2%AB%E6%89%A3%E6%8A%BC%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [英官员访以期间遇空袭警报](https://www.baidu.com/s?wd=%E8%8B%B1%E5%AE%98%E5%91%98%E8%AE%BF%E4%BB%A5%E6%9C%9F%E9%97%B4%E9%81%87%E7%A9%BA%E8%A2%AD%E8%AD%A6%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
