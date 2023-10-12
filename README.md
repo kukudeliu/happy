@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 12:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-12 12:35:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [今年应届生平均招聘月薪10342元](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%BA%94%E5%B1%8A%E7%94%9F%E5%B9%B3%E5%9D%87%E6%8B%9B%E8%81%98%E6%9C%88%E8%96%AA10342%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方公开通缉2名缅北电诈集团头目](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%85%AC%E5%BC%80%E9%80%9A%E7%BC%892%E5%90%8D%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E9%9B%86%E5%9B%A2%E5%A4%B4%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“国家队”出手对A股有何影响](https://www.baidu.com/s?wd=%E2%80%9C%E5%9B%BD%E5%AE%B6%E9%98%9F%E2%80%9D%E5%87%BA%E6%89%8B%E5%AF%B9A%E8%82%A1%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [招聘月薪和实际薪资是两回事](https://www.baidu.com/s?wd=%E6%8B%9B%E8%81%98%E6%9C%88%E8%96%AA%E5%92%8C%E5%AE%9E%E9%99%85%E8%96%AA%E8%B5%84%E6%98%AF%E4%B8%A4%E5%9B%9E%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [学校为减负要求学生不带书包回家](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E4%B8%BA%E5%87%8F%E8%B4%9F%E8%A6%81%E6%B1%82%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%B8%A6%E4%B9%A6%E5%8C%85%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子造谣小学现校园暴力被拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%B0%8F%E5%AD%A6%E7%8E%B0%E6%A0%A1%E5%9B%AD%E6%9A%B4%E5%8A%9B%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [今年应届生平均招聘月薪10342元](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%BA%94%E5%B1%8A%E7%94%9F%E5%B9%B3%E5%9D%87%E6%8B%9B%E8%81%98%E6%9C%88%E8%96%AA10342%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方公开通缉2名缅北电诈集团头目](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%85%AC%E5%BC%80%E9%80%9A%E7%BC%892%E5%90%8D%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E9%9B%86%E5%9B%A2%E5%A4%B4%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“国家队”出手对A股有何影响](https://www.baidu.com/s?wd=%E2%80%9C%E5%9B%BD%E5%AE%B6%E9%98%9F%E2%80%9D%E5%87%BA%E6%89%8B%E5%AF%B9A%E8%82%A1%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [招聘月薪和实际薪资是两回事](https://www.baidu.com/s?wd=%E6%8B%9B%E8%81%98%E6%9C%88%E8%96%AA%E5%92%8C%E5%AE%9E%E9%99%85%E8%96%AA%E8%B5%84%E6%98%AF%E4%B8%A4%E5%9B%9E%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [学校为减负要求学生不带书包回家](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E4%B8%BA%E5%87%8F%E8%B4%9F%E8%A6%81%E6%B1%82%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%B8%A6%E4%B9%A6%E5%8C%85%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子造谣小学现校园暴力被拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%B0%8F%E5%AD%A6%E7%8E%B0%E6%A0%A1%E5%9B%AD%E6%9A%B4%E5%8A%9B%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
