@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 12:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 12:19:01</h4></div>
 
 > 微博  
 
-1. [国考](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83&t=31&band_rank=1&Refer=top)<br />
-2. [中方与以色列方通话](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E6%96%B9%E9%80%9A%E8%AF%9D%23&t=31&band_rank=2&Refer=top)<br />
+1. [中方与以色列方通话](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E6%96%B9%E9%80%9A%E8%AF%9D%23&t=31&band_rank=1&Refer=top)<br />
+2. [国考](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83&t=31&band_rank=2&Refer=top)<br />
 3. [航天员向少先队员发出探索星辰大海约定](https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%90%91%E5%B0%91%E5%85%88%E9%98%9F%E5%91%98%E5%8F%91%E5%87%BA%E6%8E%A2%E7%B4%A2%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%E7%BA%A6%E5%AE%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [刘暖曦朋友发声](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%9A%96%E6%9B%A6%E6%9C%8B%E5%8F%8B%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [周五](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94&t=31&band_rank=5&Refer=top)<br />
