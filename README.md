@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 16:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 16:04:02</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [看长江奔腾 感千年文脉](https://www.baidu.com/s?wd=%E7%9C%8B%E9%95%BF%E6%B1%9F%E5%A5%94%E8%85%BE+%E6%84%9F%E5%8D%83%E5%B9%B4%E6%96%87%E8%84%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [京东回应网传刘姓商人涉嫌违法被抓](https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%88%98%E5%A7%93%E5%95%86%E4%BA%BA%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [孙卓符建涛被拐案2被告获刑5年、2年](https://www.baidu.com/s?wd=%E5%AD%99%E5%8D%93%E7%AC%A6%E5%BB%BA%E6%B6%9B%E8%A2%AB%E6%8B%90%E6%A1%882%E8%A2%AB%E5%91%8A%E8%8E%B7%E5%88%915%E5%B9%B4%E3%80%812%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [东方甄选向网红铁头发律师函](https://www.baidu.com/s?wd=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%90%91%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E5%8F%91%E5%BE%8B%E5%B8%88%E5%87%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [农户抢收忙 “丰”景美如画](https://www.baidu.com/s?wd=%E5%86%9C%E6%88%B7%E6%8A%A2%E6%94%B6%E5%BF%99+%E2%80%9C%E4%B8%B0%E2%80%9D%E6%99%AF%E7%BE%8E%E5%A6%82%E7%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子欠债30万法院扣押109双球鞋](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A0%E5%80%BA30%E4%B8%87%E6%B3%95%E9%99%A2%E6%89%A3%E6%8A%BC109%E5%8F%8C%E7%90%83%E9%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [伊拉克民众抗议以军袭击加沙地带](https://www.baidu.com/s?wd=%E4%BC%8A%E6%8B%89%E5%85%8B%E6%B0%91%E4%BC%97%E6%8A%97%E8%AE%AE%E4%BB%A5%E5%86%9B%E8%A2%AD%E5%87%BB%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [看长江奔腾 感千年文脉](https://www.baidu.com/s?wd=%E7%9C%8B%E9%95%BF%E6%B1%9F%E5%A5%94%E8%85%BE+%E6%84%9F%E5%8D%83%E5%B9%B4%E6%96%87%E8%84%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [京东回应网传刘姓商人涉嫌违法被抓](https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%88%98%E5%A7%93%E5%95%86%E4%BA%BA%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [孙卓符建涛被拐案2被告获刑5年、2年](https://www.baidu.com/s?wd=%E5%AD%99%E5%8D%93%E7%AC%A6%E5%BB%BA%E6%B6%9B%E8%A2%AB%E6%8B%90%E6%A1%882%E8%A2%AB%E5%91%8A%E8%8E%B7%E5%88%915%E5%B9%B4%E3%80%812%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [东方甄选向网红铁头发律师函](https://www.baidu.com/s?wd=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%90%91%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E5%8F%91%E5%BE%8B%E5%B8%88%E5%87%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [农户抢收忙 “丰”景美如画](https://www.baidu.com/s?wd=%E5%86%9C%E6%88%B7%E6%8A%A2%E6%94%B6%E5%BF%99+%E2%80%9C%E4%B8%B0%E2%80%9D%E6%99%AF%E7%BE%8E%E5%A6%82%E7%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子欠债30万法院扣押109双球鞋](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A0%E5%80%BA30%E4%B8%87%E6%B3%95%E9%99%A2%E6%89%A3%E6%8A%BC109%E5%8F%8C%E7%90%83%E9%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [伊拉克民众抗议以军袭击加沙地带](https://www.baidu.com/s?wd=%E4%BC%8A%E6%8B%89%E5%85%8B%E6%B0%91%E4%BC%97%E6%8A%97%E8%AE%AE%E4%BB%A5%E5%86%9B%E8%A2%AD%E5%87%BB%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
