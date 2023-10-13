@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 15:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 15:40:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [周五](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94&t=31&band_rank=5&Refer=top)<br />
 6. [美国政府将从13日开始安排撤侨航班](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%86%E4%BB%8E13%E6%97%A5%E5%BC%80%E5%A7%8B%E5%AE%89%E6%8E%92%E6%92%A4%E4%BE%A8%E8%88%AA%E7%8F%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [沈阳通报幼儿园老师逼孩子吃呕吐物](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E9%80%9A%E6%8A%A5%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E9%80%BC%E5%AD%A9%E5%AD%90%E5%90%83%E5%91%95%E5%90%90%E7%89%A9%23&t=31&band_rank=7&Refer=top)<br />
-8. [以色列要求加沙北部上百万人迁移至南部](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%A6%81%E6%B1%82%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8%E4%B8%8A%E7%99%BE%E4%B8%87%E4%BA%BA%E8%BF%81%E7%A7%BB%E8%87%B3%E5%8D%97%E9%83%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [货车运5380只吸血鬼蟹入境被查](https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%A6%E8%BF%905380%E5%8F%AA%E5%90%B8%E8%A1%80%E9%AC%BC%E8%9F%B9%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=9&Refer=top)<br />
+8. [马龙说樊振东王楚钦太依赖我了](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%AF%B4%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%AA%E4%BE%9D%E8%B5%96%E6%88%91%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [以色列要求加沙北部上百万人迁移至南部](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%A6%81%E6%B1%82%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8%E4%B8%8A%E7%99%BE%E4%B8%87%E4%BA%BA%E8%BF%81%E7%A7%BB%E8%87%B3%E5%8D%97%E9%83%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
