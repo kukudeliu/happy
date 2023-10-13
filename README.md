@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 09:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 09:24:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [周五](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94&t=31&band_rank=4&Refer=top)<br />
 5. [菲律宾男篮球员未通过兴奋剂检测](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%94%B7%E7%AF%AE%E7%90%83%E5%91%98%E6%9C%AA%E9%80%9A%E8%BF%87%E5%85%B4%E5%A5%8B%E5%89%82%E6%A3%80%E6%B5%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [中方与以色列方通话](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E6%96%B9%E9%80%9A%E8%AF%9D%23&t=31&band_rank=6&Refer=top)<br />
-7. [中国人和德国人都沉默了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%92%8C%E5%BE%B7%E5%9B%BD%E4%BA%BA%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [疑似哈马斯释放人质画面](https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E5%93%88%E9%A9%AC%E6%96%AF%E9%87%8A%E6%94%BE%E4%BA%BA%E8%B4%A8%E7%94%BB%E9%9D%A2%23&t=31&band_rank=8&Refer=top)<br />
+7. [疑似哈马斯释放人质画面](https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E5%93%88%E9%A9%AC%E6%96%AF%E9%87%8A%E6%94%BE%E4%BA%BA%E8%B4%A8%E7%94%BB%E9%9D%A2%23&t=31&band_rank=7&Refer=top)<br />
+8. [中国人和德国人都沉默了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%92%8C%E5%BE%B7%E5%9B%BD%E4%BA%BA%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [业内揭秘黄牛割肉退周杰伦演唱会门票原因](https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E6%8F%AD%E7%A7%98%E9%BB%84%E7%89%9B%E5%89%B2%E8%82%89%E9%80%80%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
