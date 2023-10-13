@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 07:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 07:28:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [中国新电商大会](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%94%B5%E5%95%86%E5%A4%A7%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [BBC记者在加沙报道时哭泣](https://s.weibo.com/weibo?q=%23BBC%E8%AE%B0%E8%80%85%E5%9C%A8%E5%8A%A0%E6%B2%99%E6%8A%A5%E9%81%93%E6%97%B6%E5%93%AD%E6%B3%A3%23&t=31&band_rank=4&Refer=top)<br />
 5. [孟佳一口气生吃8种辣椒](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E4%BD%B3%E4%B8%80%E5%8F%A3%E6%B0%94%E7%94%9F%E5%90%838%E7%A7%8D%E8%BE%A3%E6%A4%92%23&t=31&band_rank=5&Refer=top)<br />
-6. [社区回应3岁孩子被父亲关车库3天](https://s.weibo.com/weibo?q=%23%E7%A4%BE%E5%8C%BA%E5%9B%9E%E5%BA%943%E5%B2%81%E5%AD%A9%E5%AD%90%E8%A2%AB%E7%88%B6%E4%BA%B2%E5%85%B3%E8%BD%A6%E5%BA%933%E5%A4%A9%23&t=31&band_rank=6&Refer=top)<br />
-7. [刘嘉玲在接受采访梁朝伟在玩手](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%98%89%E7%8E%B2%E5%9C%A8%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF%E6%A2%81%E6%9C%9D%E4%BC%9F%E5%9C%A8%E7%8E%A9%E6%89%8B%23&t=31&band_rank=7&Refer=top)<br />
+6. [刘嘉玲在接受采访梁朝伟在玩手](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%98%89%E7%8E%B2%E5%9C%A8%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF%E6%A2%81%E6%9C%9D%E4%BC%9F%E5%9C%A8%E7%8E%A9%E6%89%8B%23&t=31&band_rank=6&Refer=top)<br />
+7. [社区回应3岁孩子被父亲关车库3天](https://s.weibo.com/weibo?q=%23%E7%A4%BE%E5%8C%BA%E5%9B%9E%E5%BA%943%E5%B2%81%E5%AD%A9%E5%AD%90%E8%A2%AB%E7%88%B6%E4%BA%B2%E5%85%B3%E8%BD%A6%E5%BA%933%E5%A4%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [孙卓母亲驳人贩庭上曾出资养娃言论](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%93%E6%AF%8D%E4%BA%B2%E9%A9%B3%E4%BA%BA%E8%B4%A9%E5%BA%AD%E4%B8%8A%E6%9B%BE%E5%87%BA%E8%B5%84%E5%85%BB%E5%A8%83%E8%A8%80%E8%AE%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [武大肖某某12个月不能评奖评优](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E8%82%96%E6%9F%90%E6%9F%9012%E4%B8%AA%E6%9C%88%E4%B8%8D%E8%83%BD%E8%AF%84%E5%A5%96%E8%AF%84%E4%BC%98%23&t=31&band_rank=9&Refer=top)<br />
 
