@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 14:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 14:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [茅台董事长称白酒有很多很好的科技含量](https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E8%91%A3%E4%BA%8B%E9%95%BF%E7%A7%B0%E7%99%BD%E9%85%92%E6%9C%89%E5%BE%88%E5%A4%9A%E5%BE%88%E5%A5%BD%E7%9A%84%E7%A7%91%E6%8A%80%E5%90%AB%E9%87%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [官员辟谣武大图书馆骚扰事件男生系其儿子](https://s.weibo.com/weibo?q=%23%E5%AE%98%E5%91%98%E8%BE%9F%E8%B0%A3%E6%AD%A6%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E9%AA%9A%E6%89%B0%E4%BA%8B%E4%BB%B6%E7%94%B7%E7%94%9F%E7%B3%BB%E5%85%B6%E5%84%BF%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [IVE空降](https://s.weibo.com/weibo?q=IVE%E7%A9%BA%E9%99%8D&t=31&band_rank=8&Refer=top)<br />
-9. [中方与以色列方通话](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E6%96%B9%E9%80%9A%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈牧驰住在楼梯间大片](https://s.weibo.com/weibo?q=%23%E9%99%88%E7%89%A7%E9%A9%B0%E4%BD%8F%E5%9C%A8%E6%A5%BC%E6%A2%AF%E9%97%B4%E5%A4%A7%E7%89%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
