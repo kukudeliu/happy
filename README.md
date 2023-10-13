@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 14:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 14:43:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [董宇辉 无耻的偶像剧恋爱观](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%20%E6%97%A0%E8%80%BB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%E6%81%8B%E7%88%B1%E8%A7%82&t=31&band_rank=4&Refer=top)<br />
 5. [张栋梁性张力](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A0%8B%E6%A2%81%E6%80%A7%E5%BC%A0%E5%8A%9B%23&t=31&band_rank=5&Refer=top)<br />
 6. [美国政府将从13日开始安排撤侨航班](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%86%E4%BB%8E13%E6%97%A5%E5%BC%80%E5%A7%8B%E5%AE%89%E6%8E%92%E6%92%A4%E4%BE%A8%E8%88%AA%E7%8F%AD%23&t=31&band_rank=6&Refer=top)<br />
-7. [周五](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94&t=31&band_rank=7&Refer=top)<br />
-8. [胡歌饰演张桂梅丈夫](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E9%A5%B0%E6%BC%94%E5%BC%A0%E6%A1%82%E6%A2%85%E4%B8%88%E5%A4%AB%23&t=31&band_rank=8&Refer=top)<br />
+7. [胡歌饰演张桂梅丈夫](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E9%A5%B0%E6%BC%94%E5%BC%A0%E6%A1%82%E6%A2%85%E4%B8%88%E5%A4%AB%23&t=31&band_rank=7&Refer=top)<br />
+8. [周五](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94&t=31&band_rank=8&Refer=top)<br />
 9. [海清造型不提示都知道演的谁](https://s.weibo.com/weibo?q=%E6%B5%B7%E6%B8%85%E9%80%A0%E5%9E%8B%E4%B8%8D%E6%8F%90%E7%A4%BA%E9%83%BD%E7%9F%A5%E9%81%93%E6%BC%94%E7%9A%84%E8%B0%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,9 +22,9 @@
 3. [高校奖学金500元写得像50000元](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%A5%96%E5%AD%A6%E9%87%91500%E5%85%83%E5%86%99%E5%BE%97%E5%83%8F50000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [农户抢收忙 “丰”景美如画](https://www.baidu.com/s?wd=%E5%86%9C%E6%88%B7%E6%8A%A2%E6%94%B6%E5%BF%99+%E2%80%9C%E4%B8%B0%E2%80%9D%E6%99%AF%E7%BE%8E%E5%A6%82%E7%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [2人扰乱周杰伦演唱会秩序被拘](https://www.baidu.com/s?wd=2%E4%BA%BA%E6%89%B0%E4%B9%B1%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A7%A9%E5%BA%8F%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子当街鞭打女子长达8分钟 警方通报](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E9%9E%AD%E6%89%93%E5%A5%B3%E5%AD%90%E9%95%BF%E8%BE%BE8%E5%88%86%E9%92%9F+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子欠债30万法院扣押109双球鞋](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A0%E5%80%BA30%E4%B8%87%E6%B3%95%E9%99%A2%E6%89%A3%E6%8A%BC109%E5%8F%8C%E7%90%83%E9%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哈马斯捞沉船古董炮弹当炸药](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E6%8D%9E%E6%B2%89%E8%88%B9%E5%8F%A4%E8%91%A3%E7%82%AE%E5%BC%B9%E5%BD%93%E7%82%B8%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [在建工地塔吊倒塌砸死6人?不实](https://www.baidu.com/s?wd=%E5%9C%A8%E5%BB%BA%E5%B7%A5%E5%9C%B0%E5%A1%94%E5%90%8A%E5%80%92%E5%A1%8C%E7%A0%B8%E6%AD%BB6%E4%BA%BA%3F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子当街鞭打女子长达8分钟 警方通报](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E9%9E%AD%E6%89%93%E5%A5%B3%E5%AD%90%E9%95%BF%E8%BE%BE8%E5%88%86%E9%92%9F+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子欠债30万法院扣押109双球鞋](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A0%E5%80%BA30%E4%B8%87%E6%B3%95%E9%99%A2%E6%89%A3%E6%8A%BC109%E5%8F%8C%E7%90%83%E9%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东将断崖式降温16℃？假的](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%B0%86%E6%96%AD%E5%B4%96%E5%BC%8F%E9%99%8D%E6%B8%A916%E2%84%83%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [高校奖学金500元写得像50000元](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%A5%96%E5%AD%A6%E9%87%91500%E5%85%83%E5%86%99%E5%BE%97%E5%83%8F50000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [农户抢收忙 “丰”景美如画](https://www.baidu.com/s?wd=%E5%86%9C%E6%88%B7%E6%8A%A2%E6%94%B6%E5%BF%99+%E2%80%9C%E4%B8%B0%E2%80%9D%E6%99%AF%E7%BE%8E%E5%A6%82%E7%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [2人扰乱周杰伦演唱会秩序被拘](https://www.baidu.com/s?wd=2%E4%BA%BA%E6%89%B0%E4%B9%B1%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A7%A9%E5%BA%8F%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子当街鞭打女子长达8分钟 警方通报](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E9%9E%AD%E6%89%93%E5%A5%B3%E5%AD%90%E9%95%BF%E8%BE%BE8%E5%88%86%E9%92%9F+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子欠债30万法院扣押109双球鞋](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A0%E5%80%BA30%E4%B8%87%E6%B3%95%E9%99%A2%E6%89%A3%E6%8A%BC109%E5%8F%8C%E7%90%83%E9%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哈马斯捞沉船古董炮弹当炸药](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E6%8D%9E%E6%B2%89%E8%88%B9%E5%8F%A4%E8%91%A3%E7%82%AE%E5%BC%B9%E5%BD%93%E7%82%B8%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [在建工地塔吊倒塌砸死6人?不实](https://www.baidu.com/s?wd=%E5%9C%A8%E5%BB%BA%E5%B7%A5%E5%9C%B0%E5%A1%94%E5%90%8A%E5%80%92%E5%A1%8C%E7%A0%B8%E6%AD%BB6%E4%BA%BA%3F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子当街鞭打女子长达8分钟 警方通报](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E9%9E%AD%E6%89%93%E5%A5%B3%E5%AD%90%E9%95%BF%E8%BE%BE8%E5%88%86%E9%92%9F+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子欠债30万法院扣押109双球鞋](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A0%E5%80%BA30%E4%B8%87%E6%B3%95%E9%99%A2%E6%89%A3%E6%8A%BC109%E5%8F%8C%E7%90%83%E9%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东将断崖式降温16℃？假的](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%B0%86%E6%96%AD%E5%B4%96%E5%BC%8F%E9%99%8D%E6%B8%A916%E2%84%83%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
