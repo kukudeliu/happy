@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 11:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 11:49:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [12306推出高铁静音车厢](https://www.baidu.com/s?wd=12306%E6%8E%A8%E5%87%BA%E9%AB%98%E9%93%81%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [农户抢收忙 “丰”景美如画](https://www.baidu.com/s?wd=%E5%86%9C%E6%88%B7%E6%8A%A2%E6%94%B6%E5%BF%99+%E2%80%9C%E4%B8%B0%E2%80%9D%E6%99%AF%E7%BE%8E%E5%A6%82%E7%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [冰红茶牛肉面得是什么味](https://www.baidu.com/s?wd=%E5%86%B0%E7%BA%A2%E8%8C%B6%E7%89%9B%E8%82%89%E9%9D%A2%E5%BE%97%E6%98%AF%E4%BB%80%E4%B9%88%E5%91%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [大学物理老师课堂放电像银角大王](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E8%80%81%E5%B8%88%E8%AF%BE%E5%A0%82%E6%94%BE%E7%94%B5%E5%83%8F%E9%93%B6%E8%A7%92%E5%A4%A7%E7%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [碧桂园创始人赴广东工地调研](https://www.baidu.com/s?wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%B5%B4%E5%B9%BF%E4%B8%9C%E5%B7%A5%E5%9C%B0%E8%B0%83%E7%A0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [上了7天班终于周五了](https://www.baidu.com/s?wd=%E4%B8%8A%E4%BA%867%E5%A4%A9%E7%8F%AD%E7%BB%88%E4%BA%8E%E5%91%A8%E4%BA%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普布顿珠、左永祥任四川省副省长](https://www.baidu.com/s?wd=%E6%99%AE%E5%B8%83%E9%A1%BF%E7%8F%A0%E3%80%81%E5%B7%A6%E6%B0%B8%E7%A5%A5%E4%BB%BB%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%89%AF%E7%9C%81%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大学物理老师课堂放电像银角大王](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E8%80%81%E5%B8%88%E8%AF%BE%E5%A0%82%E6%94%BE%E7%94%B5%E5%83%8F%E9%93%B6%E8%A7%92%E5%A4%A7%E7%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东将断崖式降温16℃？假的](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%B0%86%E6%96%AD%E5%B4%96%E5%BC%8F%E9%99%8D%E6%B8%A916%E2%84%83%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [12306推出高铁静音车厢](https://www.baidu.com/s?wd=12306%E6%8E%A8%E5%87%BA%E9%AB%98%E9%93%81%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [农户抢收忙 “丰”景美如画](https://www.baidu.com/s?wd=%E5%86%9C%E6%88%B7%E6%8A%A2%E6%94%B6%E5%BF%99+%E2%80%9C%E4%B8%B0%E2%80%9D%E6%99%AF%E7%BE%8E%E5%A6%82%E7%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [冰红茶牛肉面得是什么味](https://www.baidu.com/s?wd=%E5%86%B0%E7%BA%A2%E8%8C%B6%E7%89%9B%E8%82%89%E9%9D%A2%E5%BE%97%E6%98%AF%E4%BB%80%E4%B9%88%E5%91%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [大学物理老师课堂放电像银角大王](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E8%80%81%E5%B8%88%E8%AF%BE%E5%A0%82%E6%94%BE%E7%94%B5%E5%83%8F%E9%93%B6%E8%A7%92%E5%A4%A7%E7%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [碧桂园创始人赴广东工地调研](https://www.baidu.com/s?wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%B5%B4%E5%B9%BF%E4%B8%9C%E5%B7%A5%E5%9C%B0%E8%B0%83%E7%A0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [上了7天班终于周五了](https://www.baidu.com/s?wd=%E4%B8%8A%E4%BA%867%E5%A4%A9%E7%8F%AD%E7%BB%88%E4%BA%8E%E5%91%A8%E4%BA%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普布顿珠、左永祥任四川省副省长](https://www.baidu.com/s?wd=%E6%99%AE%E5%B8%83%E9%A1%BF%E7%8F%A0%E3%80%81%E5%B7%A6%E6%B0%B8%E7%A5%A5%E4%BB%BB%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%89%AF%E7%9C%81%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大学物理老师课堂放电像银角大王](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E8%80%81%E5%B8%88%E8%AF%BE%E5%A0%82%E6%94%BE%E7%94%B5%E5%83%8F%E9%93%B6%E8%A7%92%E5%A4%A7%E7%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东将断崖式降温16℃？假的](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%B0%86%E6%96%AD%E5%B4%96%E5%BC%8F%E9%99%8D%E6%B8%A916%E2%84%83%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
