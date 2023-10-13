@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 20:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 20:58:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [江河湖海上架起“梦想之桥”](https://www.baidu.com/s?wd=%E6%B1%9F%E6%B2%B3%E6%B9%96%E6%B5%B7%E4%B8%8A%E6%9E%B6%E8%B5%B7%E2%80%9C%E6%A2%A6%E6%83%B3%E4%B9%8B%E6%A1%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [解放思想开拓进取固本兴新](https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E6%80%9D%E6%83%B3%E5%BC%80%E6%8B%93%E8%BF%9B%E5%8F%96%E5%9B%BA%E6%9C%AC%E5%85%B4%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [以色列外交人员家属在华被扎伤](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%96%E4%BA%A4%E4%BA%BA%E5%91%98%E5%AE%B6%E5%B1%9E%E5%9C%A8%E5%8D%8E%E8%A2%AB%E6%89%8E%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [人社局人员拍桌子怒斥群众被清退](https://www.baidu.com/s?wd=%E4%BA%BA%E7%A4%BE%E5%B1%80%E4%BA%BA%E5%91%98%E6%8B%8D%E6%A1%8C%E5%AD%90%E6%80%92%E6%96%A5%E7%BE%A4%E4%BC%97%E8%A2%AB%E6%B8%85%E9%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [丝路交响 山海和鸣](https://www.baidu.com/s?wd=%E4%B8%9D%E8%B7%AF%E4%BA%A4%E5%93%8D+%E5%B1%B1%E6%B5%B7%E5%92%8C%E9%B8%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [江河湖海上架起“梦想之桥”](https://www.baidu.com/s?wd=%E6%B1%9F%E6%B2%B3%E6%B9%96%E6%B5%B7%E4%B8%8A%E6%9E%B6%E8%B5%B7%E2%80%9C%E6%A2%A6%E6%83%B3%E4%B9%8B%E6%A1%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [解放思想开拓进取固本兴新](https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E6%80%9D%E6%83%B3%E5%BC%80%E6%8B%93%E8%BF%9B%E5%8F%96%E5%9B%BA%E6%9C%AC%E5%85%B4%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [以色列外交人员家属在华被扎伤](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%96%E4%BA%A4%E4%BA%BA%E5%91%98%E5%AE%B6%E5%B1%9E%E5%9C%A8%E5%8D%8E%E8%A2%AB%E6%89%8E%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [人社局人员拍桌子怒斥群众被清退](https://www.baidu.com/s?wd=%E4%BA%BA%E7%A4%BE%E5%B1%80%E4%BA%BA%E5%91%98%E6%8B%8D%E6%A1%8C%E5%AD%90%E6%80%92%E6%96%A5%E7%BE%A4%E4%BC%97%E8%A2%AB%E6%B8%85%E9%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [丝路交响 山海和鸣](https://www.baidu.com/s?wd=%E4%B8%9D%E8%B7%AF%E4%BA%A4%E5%93%8D+%E5%B1%B1%E6%B5%B7%E5%92%8C%E9%B8%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
