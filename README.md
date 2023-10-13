@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 18:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 18:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [第一次觉得周五这么难熬](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%89%E5%BE%97%E5%91%A8%E4%BA%94%E8%BF%99%E4%B9%88%E9%9A%BE%E7%86%AC%23&t=31&band_rank=6&Refer=top)<br />
 7. [国考](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83&t=31&band_rank=7&Refer=top)<br />
 8. [我本是高山 女高校训](https://s.weibo.com/weibo?q=%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%20%E5%A5%B3%E9%AB%98%E6%A0%A1%E8%AE%AD&t=31&band_rank=8&Refer=top)<br />
-9. [天官赐福](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F&t=31&band_rank=9&Refer=top)<br />
+9. [五月天成都 二次开抢](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%88%90%E9%83%BD%20%E4%BA%8C%E6%AC%A1%E5%BC%80%E6%8A%A2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
