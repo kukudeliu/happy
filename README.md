@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 09:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 09:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [地球上80亿人只占了这么一小块地方](https://s.weibo.com/weibo?q=%E5%9C%B0%E7%90%83%E4%B8%8A80%E4%BA%BF%E4%BA%BA%E5%8F%AA%E5%8D%A0%E4%BA%86%E8%BF%99%E4%B9%88%E4%B8%80%E5%B0%8F%E5%9D%97%E5%9C%B0%E6%96%B9&t=31&band_rank=6&Refer=top)<br />
 7. [盖被子的顺序会影响保暖效果](https://s.weibo.com/weibo?q=%E7%9B%96%E8%A2%AB%E5%AD%90%E7%9A%84%E9%A1%BA%E5%BA%8F%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%BF%9D%E6%9A%96%E6%95%88%E6%9E%9C&t=31&band_rank=7&Refer=top)<br />
 8. [中国人和德国人都沉默了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%92%8C%E5%BE%B7%E5%9B%BD%E4%BA%BA%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [渐冻人蔡磊希望至少再捐5000万](https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E4%BA%BA%E8%94%A1%E7%A3%8A%E5%B8%8C%E6%9C%9B%E8%87%B3%E5%B0%91%E5%86%8D%E6%8D%905000%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [周杰伦上海演唱会场外氛围](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%BA%E5%A4%96%E6%B0%9B%E5%9B%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
