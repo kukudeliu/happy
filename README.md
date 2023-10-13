@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 13:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 13:08:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [周五](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94&t=31&band_rank=5&Refer=top)<br />
 6. [中方与以色列方通话](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E6%96%B9%E9%80%9A%E8%AF%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [国考](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83&t=31&band_rank=7&Refer=top)<br />
-8. [中国男篮能递补亚运金牌吗](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E8%83%BD%E9%80%92%E8%A1%A5%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=9&Refer=top)<br />
+8. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=8&Refer=top)<br />
+9. [中国男篮能递补亚运金牌吗](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E8%83%BD%E9%80%92%E8%A1%A5%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
