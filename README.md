@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 15:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 15:42:01</h4></div>
 
 > 微博  
 
 1. [京东辟谣刘姓商人被抓](https://s.weibo.com/weibo?q=%E4%BA%AC%E4%B8%9C%E8%BE%9F%E8%B0%A3%E5%88%98%E5%A7%93%E5%95%86%E4%BA%BA%E8%A2%AB%E6%8A%93&t=31&band_rank=1&Refer=top)<br />
-2. [国考](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83&t=31&band_rank=2&Refer=top)<br />
-3. [中国量子计算又刷新世界纪录](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E5%8F%88%E5%88%B7%E6%96%B0%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&t=31&band_rank=3&Refer=top)<br />
+2. [孙海洋哽咽说等了16年零4天的宣判](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%93%BD%E5%92%BD%E8%AF%B4%E7%AD%89%E4%BA%8616%E5%B9%B4%E9%9B%B64%E5%A4%A9%E7%9A%84%E5%AE%A3%E5%88%A4%23&t=31&band_rank=2&Refer=top)<br />
+3. [国考](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83&t=31&band_rank=3&Refer=top)<br />
 4. [董宇辉 无耻的偶像剧恋爱观](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%20%E6%97%A0%E8%80%BB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%E6%81%8B%E7%88%B1%E8%A7%82&t=31&band_rank=4&Refer=top)<br />
 5. [周五](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94&t=31&band_rank=5&Refer=top)<br />
 6. [美国政府将从13日开始安排撤侨航班](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%86%E4%BB%8E13%E6%97%A5%E5%BC%80%E5%A7%8B%E5%AE%89%E6%8E%92%E6%92%A4%E4%BE%A8%E8%88%AA%E7%8F%AD%23&t=31&band_rank=6&Refer=top)<br />
-7. [沈阳通报幼儿园老师逼孩子吃呕吐物](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E9%80%9A%E6%8A%A5%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E9%80%BC%E5%AD%A9%E5%AD%90%E5%90%83%E5%91%95%E5%90%90%E7%89%A9%23&t=31&band_rank=7&Refer=top)<br />
-8. [马龙说樊振东王楚钦太依赖我了](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%AF%B4%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%AA%E4%BE%9D%E8%B5%96%E6%88%91%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [以色列要求加沙北部上百万人迁移至南部](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%A6%81%E6%B1%82%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8%E4%B8%8A%E7%99%BE%E4%B8%87%E4%BA%BA%E8%BF%81%E7%A7%BB%E8%87%B3%E5%8D%97%E9%83%A8%23&t=31&band_rank=9&Refer=top)<br />
+7. [中国量子计算又刷新世界纪录](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E5%8F%88%E5%88%B7%E6%96%B0%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&t=31&band_rank=7&Refer=top)<br />
+8. [沈阳通报幼儿园老师逼孩子吃呕吐物](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E9%80%9A%E6%8A%A5%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E9%80%BC%E5%AD%A9%E5%AD%90%E5%90%83%E5%91%95%E5%90%90%E7%89%A9%23&t=31&band_rank=8&Refer=top)<br />
+9. [马龙说樊振东王楚钦太依赖我了](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%AF%B4%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%AA%E4%BE%9D%E8%B5%96%E6%88%91%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
