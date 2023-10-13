@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 19:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 19:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [成都一学生被同学强迫吸氨气病危](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E5%BC%BA%E8%BF%AB%E5%90%B8%E6%B0%A8%E6%B0%94%E7%97%85%E5%8D%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [她们是凡间奇女子](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BB%AC%E6%98%AF%E5%87%A1%E9%97%B4%E5%A5%87%E5%A5%B3%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [第一次见这么铁面无私的女主](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%BF%99%E4%B9%88%E9%93%81%E9%9D%A2%E6%97%A0%E7%A7%81%E7%9A%84%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [于适 宝诗龙](https://s.weibo.com/weibo?q=%E4%BA%8E%E9%80%82%20%E5%AE%9D%E8%AF%97%E9%BE%99&t=31&band_rank=9&Refer=top)<br />
+9. [银行回应拒为无工作人员办银行卡](https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E5%9B%9E%E5%BA%94%E6%8B%92%E4%B8%BA%E6%97%A0%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%8A%9E%E9%93%B6%E8%A1%8C%E5%8D%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
