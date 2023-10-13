@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 20:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 20:03:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [银行回应拒为无工作人员办银行卡](https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E5%9B%9E%E5%BA%94%E6%8B%92%E4%B8%BA%E6%97%A0%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%8A%9E%E9%93%B6%E8%A1%8C%E5%8D%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [成都一学生被同学强迫吸氨气病危](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E5%BC%BA%E8%BF%AB%E5%90%B8%E6%B0%A8%E6%B0%94%E7%97%85%E5%8D%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [以驻日大使质问日本是什么意思](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E9%A9%BB%E6%97%A5%E5%A4%A7%E4%BD%BF%E8%B4%A8%E9%97%AE%E6%97%A5%E6%9C%AC%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%23&t=31&band_rank=7&Refer=top)<br />
-8. [男子捡手机跟失主打太极民警一招整服](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8D%A1%E6%89%8B%E6%9C%BA%E8%B7%9F%E5%A4%B1%E4%B8%BB%E6%89%93%E5%A4%AA%E6%9E%81%E6%B0%91%E8%AD%A6%E4%B8%80%E6%8B%9B%E6%95%B4%E6%9C%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [孙海洋哭诉结果难以接受将准备上诉](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%93%AD%E8%AF%89%E7%BB%93%E6%9E%9C%E9%9A%BE%E4%BB%A5%E6%8E%A5%E5%8F%97%E5%B0%86%E5%87%86%E5%A4%87%E4%B8%8A%E8%AF%89%23&t=31&band_rank=9&Refer=top)<br />
+8. [孙海洋哭诉结果难以接受将准备上诉](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%93%AD%E8%AF%89%E7%BB%93%E6%9E%9C%E9%9A%BE%E4%BB%A5%E6%8E%A5%E5%8F%97%E5%B0%86%E5%87%86%E5%A4%87%E4%B8%8A%E8%AF%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [于适 宝诗龙](https://s.weibo.com/weibo?q=%E4%BA%8E%E9%80%82%20%E5%AE%9D%E8%AF%97%E9%BE%99&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
