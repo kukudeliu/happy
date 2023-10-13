@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 16:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 16:35:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [卢昱晓回应追鹿晗吴世勋](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E5%9B%9E%E5%BA%94%E8%BF%BD%E9%B9%BF%E6%99%97%E5%90%B4%E4%B8%96%E5%8B%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [董宇辉 无耻的偶像剧恋爱观](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%20%E6%97%A0%E8%80%BB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%E6%81%8B%E7%88%B1%E8%A7%82&t=31&band_rank=5&Refer=top)<br />
 6. [国考](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83&t=31&band_rank=6&Refer=top)<br />
-7. [周五](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94&t=31&band_rank=7&Refer=top)<br />
-8. [辱骂新加坡护士的中国女子认罪道歉](https://s.weibo.com/weibo?q=%23%E8%BE%B1%E9%AA%82%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%8A%A4%E5%A3%AB%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E8%AE%A4%E7%BD%AA%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
+7. [辱骂新加坡护士的中国女子认罪道歉](https://s.weibo.com/weibo?q=%23%E8%BE%B1%E9%AA%82%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%8A%A4%E5%A3%AB%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E8%AE%A4%E7%BD%AA%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
+8. [周五](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94&t=31&band_rank=8&Refer=top)<br />
 9. [京东辟谣刘姓商人被抓](https://s.weibo.com/weibo?q=%E4%BA%AC%E4%B8%9C%E8%BE%9F%E8%B0%A3%E5%88%98%E5%A7%93%E5%95%86%E4%BA%BA%E8%A2%AB%E6%8A%93&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
