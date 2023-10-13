@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 19:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 19:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [第一次觉得周五这么难熬](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%89%E5%BE%97%E5%91%A8%E4%BA%94%E8%BF%99%E4%B9%88%E9%9A%BE%E7%86%AC%23&t=31&band_rank=6&Refer=top)<br />
 7. [5旬大叔用32年守护10万亩青山](https://s.weibo.com/weibo?q=%235%E6%97%AC%E5%A4%A7%E5%8F%94%E7%94%A832%E5%B9%B4%E5%AE%88%E6%8A%A410%E4%B8%87%E4%BA%A9%E9%9D%92%E5%B1%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [于适 宝诗龙](https://s.weibo.com/weibo?q=%E4%BA%8E%E9%80%82%20%E5%AE%9D%E8%AF%97%E9%BE%99&t=31&band_rank=8&Refer=top)<br />
-9. [这居然是TizzyT的歌](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AFTizzyT%E7%9A%84%E6%AD%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [成都一学生被同学强迫吸氨气病危](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E5%BC%BA%E8%BF%AB%E5%90%B8%E6%B0%A8%E6%B0%94%E7%97%85%E5%8D%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
