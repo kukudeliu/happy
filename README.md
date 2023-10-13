@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 10:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 10:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [正当防卫官宣](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BD%93%E9%98%B2%E5%8D%AB%E5%AE%98%E5%AE%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [12306推出静音车厢](https://s.weibo.com/weibo?q=%2312306%E6%8E%A8%E5%87%BA%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [iPhone16Pro或配骁龙X75调制解调器](https://s.weibo.com/weibo?q=%23iPhone16Pro%E6%88%96%E9%85%8D%E9%AA%81%E9%BE%99X75%E8%B0%83%E5%88%B6%E8%A7%A3%E8%B0%83%E5%99%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [孙海洋说人贩子无任何悔意且傲慢](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E8%AF%B4%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%97%A0%E4%BB%BB%E4%BD%95%E6%82%94%E6%84%8F%E4%B8%94%E5%82%B2%E6%85%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [天官赐福套餐](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E5%A5%97%E9%A4%90&t=31&band_rank=9&Refer=top)<br />
+8. [天官赐福套餐](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E5%A5%97%E9%A4%90&t=31&band_rank=8&Refer=top)<br />
+9. [孙海洋说人贩子无任何悔意且傲慢](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E8%AF%B4%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%97%A0%E4%BB%BB%E4%BD%95%E6%82%94%E6%84%8F%E4%B8%94%E5%82%B2%E6%85%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
