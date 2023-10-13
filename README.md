@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 22:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 23:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大闸蟹入侵英国多地](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%97%B8%E8%9F%B9%E5%85%A5%E4%BE%B5%E8%8B%B1%E5%9B%BD%E5%A4%9A%E5%9C%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [王蔷宣布订婚](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%94%B7%E5%AE%A3%E5%B8%83%E8%AE%A2%E5%A9%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [姚政脚筋断了才想起来办社保](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%94%BF%E8%84%9A%E7%AD%8B%E6%96%AD%E4%BA%86%E6%89%8D%E6%83%B3%E8%B5%B7%E6%9D%A5%E5%8A%9E%E7%A4%BE%E4%BF%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩国爆料博主金勇浩去世](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%88%86%E6%96%99%E5%8D%9A%E4%B8%BB%E9%87%91%E5%8B%87%E6%B5%A9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [孙海洋哭诉结果难以接受将准备上诉](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%93%AD%E8%AF%89%E7%BB%93%E6%9E%9C%E9%9A%BE%E4%BB%A5%E6%8E%A5%E5%8F%97%E5%B0%86%E5%87%86%E5%A4%87%E4%B8%8A%E8%AF%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
