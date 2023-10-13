@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 15:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 15:53:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [董宇辉 无耻的偶像剧恋爱观](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%20%E6%97%A0%E8%80%BB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%E6%81%8B%E7%88%B1%E8%A7%82&t=31&band_rank=4&Refer=top)<br />
 5. [卢昱晓回应追鹿晗吴世勋](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E5%9B%9E%E5%BA%94%E8%BF%BD%E9%B9%BF%E6%99%97%E5%90%B4%E4%B8%96%E5%8B%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [国考](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83&t=31&band_rank=6&Refer=top)<br />
-7. [美国政府将从13日开始安排撤侨航班](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%86%E4%BB%8E13%E6%97%A5%E5%BC%80%E5%A7%8B%E5%AE%89%E6%8E%92%E6%92%A4%E4%BE%A8%E8%88%AA%E7%8F%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [孙海洋寻子案一审宣判](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%AF%BB%E5%AD%90%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4%23&t=31&band_rank=8&Refer=top)<br />
+7. [孙海洋寻子案一审宣判](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%AF%BB%E5%AD%90%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4%23&t=31&band_rank=7&Refer=top)<br />
+8. [美国政府将从13日开始安排撤侨航班](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%86%E4%BB%8E13%E6%97%A5%E5%BC%80%E5%A7%8B%E5%AE%89%E6%8E%92%E6%92%A4%E4%BE%A8%E8%88%AA%E7%8F%AD%23&t=31&band_rank=8&Refer=top)<br />
 9. [周五](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
