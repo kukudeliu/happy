@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 09:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 09:27:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [陶韵传千年，瓷路行万里](https://www.baidu.com/s?wd=%E9%99%B6%E9%9F%B5%E4%BC%A0%E5%8D%83%E5%B9%B4%EF%BC%8C%E7%93%B7%E8%B7%AF%E8%A1%8C%E4%B8%87%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [朋友称刘暖曦直播是为了修复心理](https://www.baidu.com/s?wd=%E6%9C%8B%E5%8F%8B%E7%A7%B0%E5%88%98%E6%9A%96%E6%9B%A6%E7%9B%B4%E6%92%AD%E6%98%AF%E4%B8%BA%E4%BA%86%E4%BF%AE%E5%A4%8D%E5%BF%83%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高校奖学金500元写得像50000元](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%A5%96%E5%AD%A6%E9%87%91500%E5%85%83%E5%86%99%E5%BE%97%E5%83%8F50000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [以色列此次战争成本或达68亿美元](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%AD%A4%E6%AC%A1%E6%88%98%E4%BA%89%E6%88%90%E6%9C%AC%E6%88%96%E8%BE%BE68%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [巴总统:反对以色列和哈马斯杀害平民](https://www.baidu.com/s?wd=%E5%B7%B4%E6%80%BB%E7%BB%9F%3A%E5%8F%8D%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E5%92%8C%E5%93%88%E9%A9%AC%E6%96%AF%E6%9D%80%E5%AE%B3%E5%B9%B3%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [以军承认军方未能阻止哈马斯袭击](https://www.baidu.com/s?wd=%E4%BB%A5%E5%86%9B%E6%89%BF%E8%AE%A4%E5%86%9B%E6%96%B9%E6%9C%AA%E8%83%BD%E9%98%BB%E6%AD%A2%E5%93%88%E9%A9%AC%E6%96%AF%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [以色列此次战争成本或达68亿美元](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%AD%A4%E6%AC%A1%E6%88%98%E4%BA%89%E6%88%90%E6%9C%AC%E6%88%96%E8%BE%BE68%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东将断崖式降温16℃？假的](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%B0%86%E6%96%AD%E5%B4%96%E5%BC%8F%E9%99%8D%E6%B8%A916%E2%84%83%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [陶韵传千年，瓷路行万里](https://www.baidu.com/s?wd=%E9%99%B6%E9%9F%B5%E4%BC%A0%E5%8D%83%E5%B9%B4%EF%BC%8C%E7%93%B7%E8%B7%AF%E8%A1%8C%E4%B8%87%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [朋友称刘暖曦直播是为了修复心理](https://www.baidu.com/s?wd=%E6%9C%8B%E5%8F%8B%E7%A7%B0%E5%88%98%E6%9A%96%E6%9B%A6%E7%9B%B4%E6%92%AD%E6%98%AF%E4%B8%BA%E4%BA%86%E4%BF%AE%E5%A4%8D%E5%BF%83%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高校奖学金500元写得像50000元](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%A5%96%E5%AD%A6%E9%87%91500%E5%85%83%E5%86%99%E5%BE%97%E5%83%8F50000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [以色列此次战争成本或达68亿美元](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%AD%A4%E6%AC%A1%E6%88%98%E4%BA%89%E6%88%90%E6%9C%AC%E6%88%96%E8%BE%BE68%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [巴总统:反对以色列和哈马斯杀害平民](https://www.baidu.com/s?wd=%E5%B7%B4%E6%80%BB%E7%BB%9F%3A%E5%8F%8D%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E5%92%8C%E5%93%88%E9%A9%AC%E6%96%AF%E6%9D%80%E5%AE%B3%E5%B9%B3%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [以军承认军方未能阻止哈马斯袭击](https://www.baidu.com/s?wd=%E4%BB%A5%E5%86%9B%E6%89%BF%E8%AE%A4%E5%86%9B%E6%96%B9%E6%9C%AA%E8%83%BD%E9%98%BB%E6%AD%A2%E5%93%88%E9%A9%AC%E6%96%AF%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [以色列此次战争成本或达68亿美元](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%AD%A4%E6%AC%A1%E6%88%98%E4%BA%89%E6%88%90%E6%9C%AC%E6%88%96%E8%BE%BE68%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东将断崖式降温16℃？假的](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%B0%86%E6%96%AD%E5%B4%96%E5%BC%8F%E9%99%8D%E6%B8%A916%E2%84%83%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
