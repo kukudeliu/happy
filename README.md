@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 11:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 11:38:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [12306推出高铁静音车厢](https://www.baidu.com/s?wd=12306%E6%8E%A8%E5%87%BA%E9%AB%98%E9%93%81%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [农户抢收忙 “丰”景美如画](https://www.baidu.com/s?wd=%E5%86%9C%E6%88%B7%E6%8A%A2%E6%94%B6%E5%BF%99+%E2%80%9C%E4%B8%B0%E2%80%9D%E6%99%AF%E7%BE%8E%E5%A6%82%E7%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [冰红茶牛肉面得是什么味](https://www.baidu.com/s?wd=%E5%86%B0%E7%BA%A2%E8%8C%B6%E7%89%9B%E8%82%89%E9%9D%A2%E5%BE%97%E6%98%AF%E4%BB%80%E4%B9%88%E5%91%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [布林肯称哈马斯袭击相当于10次911](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%E7%A7%B0%E5%93%88%E9%A9%AC%E6%96%AF%E8%A2%AD%E5%87%BB%E7%9B%B8%E5%BD%93%E4%BA%8E10%E6%AC%A1911&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [景区辟谣刘伯温故里起火](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E8%BE%9F%E8%B0%A3%E5%88%98%E4%BC%AF%E6%B8%A9%E6%95%85%E9%87%8C%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [上了7天班终于周五了](https://www.baidu.com/s?wd=%E4%B8%8A%E4%BA%867%E5%A4%A9%E7%8F%AD%E7%BB%88%E4%BA%8E%E5%91%A8%E4%BA%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [货车运5380只吸血鬼蟹入境被查](https://www.baidu.com/s?wd=%E8%B4%A7%E8%BD%A6%E8%BF%905380%E5%8F%AA%E5%90%B8%E8%A1%80%E9%AC%BC%E8%9F%B9%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [布林肯称哈马斯袭击相当于10次911](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%E7%A7%B0%E5%93%88%E9%A9%AC%E6%96%AF%E8%A2%AD%E5%87%BB%E7%9B%B8%E5%BD%93%E4%BA%8E10%E6%AC%A1911&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东将断崖式降温16℃？假的](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%B0%86%E6%96%AD%E5%B4%96%E5%BC%8F%E9%99%8D%E6%B8%A916%E2%84%83%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [12306推出高铁静音车厢](https://www.baidu.com/s?wd=12306%E6%8E%A8%E5%87%BA%E9%AB%98%E9%93%81%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [农户抢收忙 “丰”景美如画](https://www.baidu.com/s?wd=%E5%86%9C%E6%88%B7%E6%8A%A2%E6%94%B6%E5%BF%99+%E2%80%9C%E4%B8%B0%E2%80%9D%E6%99%AF%E7%BE%8E%E5%A6%82%E7%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [冰红茶牛肉面得是什么味](https://www.baidu.com/s?wd=%E5%86%B0%E7%BA%A2%E8%8C%B6%E7%89%9B%E8%82%89%E9%9D%A2%E5%BE%97%E6%98%AF%E4%BB%80%E4%B9%88%E5%91%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [布林肯称哈马斯袭击相当于10次911](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%E7%A7%B0%E5%93%88%E9%A9%AC%E6%96%AF%E8%A2%AD%E5%87%BB%E7%9B%B8%E5%BD%93%E4%BA%8E10%E6%AC%A1911&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [景区辟谣刘伯温故里起火](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E8%BE%9F%E8%B0%A3%E5%88%98%E4%BC%AF%E6%B8%A9%E6%95%85%E9%87%8C%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [上了7天班终于周五了](https://www.baidu.com/s?wd=%E4%B8%8A%E4%BA%867%E5%A4%A9%E7%8F%AD%E7%BB%88%E4%BA%8E%E5%91%A8%E4%BA%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [货车运5380只吸血鬼蟹入境被查](https://www.baidu.com/s?wd=%E8%B4%A7%E8%BD%A6%E8%BF%905380%E5%8F%AA%E5%90%B8%E8%A1%80%E9%AC%BC%E8%9F%B9%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [布林肯称哈马斯袭击相当于10次911](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%E7%A7%B0%E5%93%88%E9%A9%AC%E6%96%AF%E8%A2%AD%E5%87%BB%E7%9B%B8%E5%BD%93%E4%BA%8E10%E6%AC%A1911&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东将断崖式降温16℃？假的](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%B0%86%E6%96%AD%E5%B4%96%E5%BC%8F%E9%99%8D%E6%B8%A916%E2%84%83%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
