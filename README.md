@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 16:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 16:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孙海洋寻子案一审宣判](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%AF%BB%E5%AD%90%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [董宇辉 无耻的偶像剧恋爱观](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%20%E6%97%A0%E8%80%BB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%E6%81%8B%E7%88%B1%E8%A7%82&t=31&band_rank=7&Refer=top)<br />
 8. [奶茶杯还能这么用](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E6%9D%AF%E8%BF%98%E8%83%BD%E8%BF%99%E4%B9%88%E7%94%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [甜恋的风终于吹到王子文了](https://s.weibo.com/weibo?q=%23%E7%94%9C%E6%81%8B%E7%9A%84%E9%A3%8E%E7%BB%88%E4%BA%8E%E5%90%B9%E5%88%B0%E7%8E%8B%E5%AD%90%E6%96%87%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [周五](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
