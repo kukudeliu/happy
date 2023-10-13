@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 16:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 16:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [京东辟谣刘姓商人被抓](https://s.weibo.com/weibo?q=%E4%BA%AC%E4%B8%9C%E8%BE%9F%E8%B0%A3%E5%88%98%E5%A7%93%E5%95%86%E4%BA%BA%E8%A2%AB%E6%8A%93&t=31&band_rank=6&Refer=top)<br />
 7. [国考](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83&t=31&band_rank=7&Refer=top)<br />
 8. [美国政府将从13日开始安排撤侨航班](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%86%E4%BB%8E13%E6%97%A5%E5%BC%80%E5%A7%8B%E5%AE%89%E6%8E%92%E6%92%A4%E4%BE%A8%E8%88%AA%E7%8F%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [马龙说樊振东王楚钦太依赖我了](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%AF%B4%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%AA%E4%BE%9D%E8%B5%96%E6%88%91%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [周五](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
