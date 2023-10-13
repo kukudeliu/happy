@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 07:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 07:13:01</h4></div>
 
 > 微博  
 
-1. [BBC记者在加沙报道时哭泣](https://s.weibo.com/weibo?q=%23BBC%E8%AE%B0%E8%80%85%E5%9C%A8%E5%8A%A0%E6%B2%99%E6%8A%A5%E9%81%93%E6%97%B6%E5%93%AD%E6%B3%A3%23&t=31&band_rank=1&Refer=top)<br />
-2. [杨威自曝要终身佩戴呼吸机](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A8%81%E8%87%AA%E6%9B%9D%E8%A6%81%E7%BB%88%E8%BA%AB%E4%BD%A9%E6%88%B4%E5%91%BC%E5%90%B8%E6%9C%BA%23&t=31&band_rank=2&Refer=top)<br />
+1. [杨威自曝要终身佩戴呼吸机](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A8%81%E8%87%AA%E6%9B%9D%E8%A6%81%E7%BB%88%E8%BA%AB%E4%BD%A9%E6%88%B4%E5%91%BC%E5%90%B8%E6%9C%BA%23&t=31&band_rank=1&Refer=top)<br />
+2. [BBC记者在加沙报道时哭泣](https://s.weibo.com/weibo?q=%23BBC%E8%AE%B0%E8%80%85%E5%9C%A8%E5%8A%A0%E6%B2%99%E6%8A%A5%E9%81%93%E6%97%B6%E5%93%AD%E6%B3%A3%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国新电商大会](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%94%B5%E5%95%86%E5%A4%A7%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [10万元存款被银行员工转成理财](https://s.weibo.com/weibo?q=%2310%E4%B8%87%E5%85%83%E5%AD%98%E6%AC%BE%E8%A2%AB%E9%93%B6%E8%A1%8C%E5%91%98%E5%B7%A5%E8%BD%AC%E6%88%90%E7%90%86%E8%B4%A2%23&t=31&band_rank=4&Refer=top)<br />
 5. [孟佳一口气生吃8种辣椒](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E4%BD%B3%E4%B8%80%E5%8F%A3%E6%B0%94%E7%94%9F%E5%90%838%E7%A7%8D%E8%BE%A3%E6%A4%92%23&t=31&band_rank=5&Refer=top)<br />
