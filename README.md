@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 15:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 15:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [周五](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94&t=31&band_rank=5&Refer=top)<br />
 6. [美国政府将从13日开始安排撤侨航班](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%86%E4%BB%8E13%E6%97%A5%E5%BC%80%E5%A7%8B%E5%AE%89%E6%8E%92%E6%92%A4%E4%BE%A8%E8%88%AA%E7%8F%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [以色列要求加沙北部上百万人迁移至南部](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%A6%81%E6%B1%82%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8%E4%B8%8A%E7%99%BE%E4%B8%87%E4%BA%BA%E8%BF%81%E7%A7%BB%E8%87%B3%E5%8D%97%E9%83%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [张栋梁性张力](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A0%8B%E6%A2%81%E6%80%A7%E5%BC%A0%E5%8A%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [海清造型不提示都知道演的谁](https://s.weibo.com/weibo?q=%E6%B5%B7%E6%B8%85%E9%80%A0%E5%9E%8B%E4%B8%8D%E6%8F%90%E7%A4%BA%E9%83%BD%E7%9F%A5%E9%81%93%E6%BC%94%E7%9A%84%E8%B0%81&t=31&band_rank=9&Refer=top)<br />
+8. [沈阳通报幼儿园老师逼孩子吃呕吐物](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E9%80%9A%E6%8A%A5%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E9%80%BC%E5%AD%A9%E5%AD%90%E5%90%83%E5%91%95%E5%90%90%E7%89%A9%23&t=31&band_rank=8&Refer=top)<br />
+9. [张栋梁性张力](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A0%8B%E6%A2%81%E6%80%A7%E5%BC%A0%E5%8A%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
