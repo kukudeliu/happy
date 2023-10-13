@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 10:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 10:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [iPhone16Pro或配骁龙X75调制解调器](https://s.weibo.com/weibo?q=%23iPhone16Pro%E6%88%96%E9%85%8D%E9%AA%81%E9%BE%99X75%E8%B0%83%E5%88%B6%E8%A7%A3%E8%B0%83%E5%99%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [中方与以色列方通话](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E6%96%B9%E9%80%9A%E8%AF%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [菲律宾男篮球员未通过兴奋剂检测](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%94%B7%E7%AF%AE%E7%90%83%E5%91%98%E6%9C%AA%E9%80%9A%E8%BF%87%E5%85%B4%E5%A5%8B%E5%89%82%E6%A3%80%E6%B5%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [盖被子的顺序会影响保暖效果](https://s.weibo.com/weibo?q=%E7%9B%96%E8%A2%AB%E5%AD%90%E7%9A%84%E9%A1%BA%E5%BA%8F%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%BF%9D%E6%9A%96%E6%95%88%E6%9E%9C&t=31&band_rank=9&Refer=top)<br />
+9. [国考](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
