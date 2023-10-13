@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 13:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 13:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国考](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83&t=31&band_rank=6&Refer=top)<br />
 7. [茅台董事长称白酒有很多很好的科技含量](https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E8%91%A3%E4%BA%8B%E9%95%BF%E7%A7%B0%E7%99%BD%E9%85%92%E6%9C%89%E5%BE%88%E5%A4%9A%E5%BE%88%E5%A5%BD%E7%9A%84%E7%A7%91%E6%8A%80%E5%90%AB%E9%87%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [中方与以色列方通话](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E6%96%B9%E9%80%9A%E8%AF%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国男篮能递补亚运金牌吗](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E8%83%BD%E9%80%92%E8%A1%A5%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [IVE空降](https://s.weibo.com/weibo?q=IVE%E7%A9%BA%E9%99%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
