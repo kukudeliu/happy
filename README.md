@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 03:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 03:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [武大肖某某12个月不能评奖评优](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E8%82%96%E6%9F%90%E6%9F%9012%E4%B8%AA%E6%9C%88%E4%B8%8D%E8%83%BD%E8%AF%84%E5%A5%96%E8%AF%84%E4%BC%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [以色列在加沙地带附近集结坦克](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%9C%A8%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E9%99%84%E8%BF%91%E9%9B%86%E7%BB%93%E5%9D%A6%E5%85%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [辛芷蕾花少5回国助理接机认错人](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%8A%B1%E5%B0%915%E5%9B%9E%E5%9B%BD%E5%8A%A9%E7%90%86%E6%8E%A5%E6%9C%BA%E8%AE%A4%E9%94%99%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [图书馆见证了大学生的精神状态](https://s.weibo.com/weibo?q=%E5%9B%BE%E4%B9%A6%E9%A6%86%E8%A7%81%E8%AF%81%E4%BA%86%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81&t=31&band_rank=9&Refer=top)<br />
+9. [本片拍摄无人员伤亡](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E7%89%87%E6%8B%8D%E6%91%84%E6%97%A0%E4%BA%BA%E5%91%98%E4%BC%A4%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
