@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 17:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 17:37:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [卢昱晓回应追鹿晗吴世勋](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E5%9B%9E%E5%BA%94%E8%BF%BD%E9%B9%BF%E6%99%97%E5%90%B4%E4%B8%96%E5%8B%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [国考](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83&t=31&band_rank=6&Refer=top)<br />
 7. [天官赐福](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F&t=31&band_rank=7&Refer=top)<br />
-8. [周五](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94&t=31&band_rank=8&Refer=top)<br />
-9. [董宇辉 无耻的偶像剧恋爱观](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%20%E6%97%A0%E8%80%BB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%E6%81%8B%E7%88%B1%E8%A7%82&t=31&band_rank=9&Refer=top)<br />
+8. [B太 国内外眉笔再测重算单价](https://s.weibo.com/weibo?q=B%E5%A4%AA%20%E5%9B%BD%E5%86%85%E5%A4%96%E7%9C%89%E7%AC%94%E5%86%8D%E6%B5%8B%E9%87%8D%E7%AE%97%E5%8D%95%E4%BB%B7&t=31&band_rank=8&Refer=top)<br />
+9. [周五](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
