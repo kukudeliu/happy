@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 09:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 09:11:02</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [折腰](https://s.weibo.com/weibo?q=%E6%8A%98%E8%85%B0&t=31&band_rank=2&Refer=top)<br />
 3. [荔枝与车厘子的丝路之旅](https://s.weibo.com/weibo?q=%23%E8%8D%94%E6%9E%9D%E4%B8%8E%E8%BD%A6%E5%8E%98%E5%AD%90%E7%9A%84%E4%B8%9D%E8%B7%AF%E4%B9%8B%E6%97%85%23&t=31&band_rank=3&Refer=top)<br />
 4. [中国人和德国人都沉默了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%92%8C%E5%BE%B7%E5%9B%BD%E4%BA%BA%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [业内揭秘黄牛割肉退周杰伦演唱会门票原因](https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E6%8F%AD%E7%A7%98%E9%BB%84%E7%89%9B%E5%89%B2%E8%82%89%E9%80%80%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=5&Refer=top)<br />
+5. [周五](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94&t=31&band_rank=5&Refer=top)<br />
 6. [巴以冲突已致双方超2800人死亡](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%B7%B2%E8%87%B4%E5%8F%8C%E6%96%B9%E8%B6%852800%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [中方与以色列方通话](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E6%96%B9%E9%80%9A%E8%AF%9D%23&t=31&band_rank=7&Refer=top)<br />
-8. [周五](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94&t=31&band_rank=8&Refer=top)<br />
+8. [业内揭秘黄牛割肉退周杰伦演唱会门票原因](https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E6%8F%AD%E7%A7%98%E9%BB%84%E7%89%9B%E5%89%B2%E8%82%89%E9%80%80%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=8&Refer=top)<br />
 9. [跑男特别季大合照](https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E7%89%B9%E5%88%AB%E5%AD%A3%E5%A4%A7%E5%90%88%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
