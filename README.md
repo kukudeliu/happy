@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 11:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 11:40:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [航天员向少先队员发出探索星辰大海约定](https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%90%91%E5%B0%91%E5%85%88%E9%98%9F%E5%91%98%E5%8F%91%E5%87%BA%E6%8E%A2%E7%B4%A2%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%E7%BA%A6%E5%AE%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [周五](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94&t=31&band_rank=4&Refer=top)<br />
 5. [天官赐福套餐](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E5%A5%97%E9%A4%90&t=31&band_rank=5&Refer=top)<br />
-6. [正当防卫官宣](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BD%93%E9%98%B2%E5%8D%AB%E5%AE%98%E5%AE%A3%23&t=31&band_rank=6&Refer=top)<br />
-7. [刘诗雯3比1钱天一](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E9%9B%AF3%E6%AF%941%E9%92%B1%E5%A4%A9%E4%B8%80%23&t=31&band_rank=7&Refer=top)<br />
+6. [刘诗雯3比1钱天一](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E9%9B%AF3%E6%AF%941%E9%92%B1%E5%A4%A9%E4%B8%80%23&t=31&band_rank=6&Refer=top)<br />
+7. [正当防卫官宣](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BD%93%E9%98%B2%E5%8D%AB%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [黄牛确认已无法售卖周杰伦上海演唱会门票](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%89%9B%E7%A1%AE%E8%AE%A4%E5%B7%B2%E6%97%A0%E6%B3%95%E5%94%AE%E5%8D%96%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%23&t=31&band_rank=8&Refer=top)<br />
 9. [孙卓被拐案今日宣判](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%93%E8%A2%AB%E6%8B%90%E6%A1%88%E4%BB%8A%E6%97%A5%E5%AE%A3%E5%88%A4%23&t=31&band_rank=9&Refer=top)<br />
 
