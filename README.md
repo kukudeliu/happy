@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 12:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 12:22:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [2人扰乱周杰伦演唱会秩序被拘](https://www.baidu.com/s?wd=2%E4%BA%BA%E6%89%B0%E4%B9%B1%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A7%A9%E5%BA%8F%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [以色列要求加沙北部上百万人迁移](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E8%A6%81%E6%B1%82%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8%E4%B8%8A%E7%99%BE%E4%B8%87%E4%BA%BA%E8%BF%81%E7%A7%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [副区长辟谣武大性骚扰男生系其儿子](https://www.baidu.com/s?wd=%E5%89%AF%E5%8C%BA%E9%95%BF%E8%BE%9F%E8%B0%A3%E6%AD%A6%E5%A4%A7%E6%80%A7%E9%AA%9A%E6%89%B0%E7%94%B7%E7%94%9F%E7%B3%BB%E5%85%B6%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [碧桂园创始人赴广东工地调研](https://www.baidu.com/s?wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%B5%B4%E5%B9%BF%E4%B8%9C%E5%B7%A5%E5%9C%B0%E8%B0%83%E7%A0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子3年花19万8读了个假博士](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%903%E5%B9%B4%E8%8A%B119%E4%B8%878%E8%AF%BB%E4%BA%86%E4%B8%AA%E5%81%87%E5%8D%9A%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东将断崖式降温16℃？假的](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%B0%86%E6%96%AD%E5%B4%96%E5%BC%8F%E9%99%8D%E6%B8%A916%E2%84%83%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [2人扰乱周杰伦演唱会秩序被拘](https://www.baidu.com/s?wd=2%E4%BA%BA%E6%89%B0%E4%B9%B1%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A7%A9%E5%BA%8F%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [以色列要求加沙北部上百万人迁移](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E8%A6%81%E6%B1%82%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8%E4%B8%8A%E7%99%BE%E4%B8%87%E4%BA%BA%E8%BF%81%E7%A7%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [副区长辟谣武大性骚扰男生系其儿子](https://www.baidu.com/s?wd=%E5%89%AF%E5%8C%BA%E9%95%BF%E8%BE%9F%E8%B0%A3%E6%AD%A6%E5%A4%A7%E6%80%A7%E9%AA%9A%E6%89%B0%E7%94%B7%E7%94%9F%E7%B3%BB%E5%85%B6%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [碧桂园创始人赴广东工地调研](https://www.baidu.com/s?wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%B5%B4%E5%B9%BF%E4%B8%9C%E5%B7%A5%E5%9C%B0%E8%B0%83%E7%A0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子3年花19万8读了个假博士](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%903%E5%B9%B4%E8%8A%B119%E4%B8%878%E8%AF%BB%E4%BA%86%E4%B8%AA%E5%81%87%E5%8D%9A%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东将断崖式降温16℃？假的](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%B0%86%E6%96%AD%E5%B4%96%E5%BC%8F%E9%99%8D%E6%B8%A916%E2%84%83%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
