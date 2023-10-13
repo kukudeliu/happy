@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 22:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-13 22:43:01</h4></div>
 
 > 微博  
 
 1. [杨威自曝要终身佩戴呼吸机](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A8%81%E8%87%AA%E6%9B%9D%E8%A6%81%E7%BB%88%E8%BA%AB%E4%BD%A9%E6%88%B4%E5%91%BC%E5%90%B8%E6%9C%BA%23&t=31&band_rank=1&Refer=top)<br />
-2. [2岁男孩被关3天没吃饭其父亲手机关机](https://s.weibo.com/weibo?q=%232%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%85%B33%E5%A4%A9%E6%B2%A1%E5%90%83%E9%A5%AD%E5%85%B6%E7%88%B6%E4%BA%B2%E6%89%8B%E6%9C%BA%E5%85%B3%E6%9C%BA%23&t=31&band_rank=2&Refer=top)<br />
+2. [大闸蟹入侵英国多地](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%97%B8%E8%9F%B9%E5%85%A5%E4%BE%B5%E8%8B%B1%E5%9B%BD%E5%A4%9A%E5%9C%B0%23&t=31&band_rank=2&Refer=top)<br />
 3. [照片里的青春](https://s.weibo.com/weibo?q=%23%E7%85%A7%E7%89%87%E9%87%8C%E7%9A%84%E9%9D%92%E6%98%A5%23&t=31&band_rank=3&Refer=top)<br />
-4. [大闸蟹入侵英国多地](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%97%B8%E8%9F%B9%E5%85%A5%E4%BE%B5%E8%8B%B1%E5%9B%BD%E5%A4%9A%E5%9C%B0%23&t=31&band_rank=4&Refer=top)<br />
+4. [2岁男孩被关3天没吃饭其父亲手机关机](https://s.weibo.com/weibo?q=%232%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%85%B33%E5%A4%A9%E6%B2%A1%E5%90%83%E9%A5%AD%E5%85%B6%E7%88%B6%E4%BA%B2%E6%89%8B%E6%9C%BA%E5%85%B3%E6%9C%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [姚政脚筋断了才想起来办社保](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%94%BF%E8%84%9A%E7%AD%8B%E6%96%AD%E4%BA%86%E6%89%8D%E6%83%B3%E8%B5%B7%E6%9D%A5%E5%8A%9E%E7%A4%BE%E4%BF%9D%23&t=31&band_rank=5&Refer=top)<br />
 6. [孙海洋哭诉结果难以接受将准备上诉](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%93%AD%E8%AF%89%E7%BB%93%E6%9E%9C%E9%9A%BE%E4%BB%A5%E6%8E%A5%E5%8F%97%E5%B0%86%E5%87%86%E5%A4%87%E4%B8%8A%E8%AF%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩国爆料博主金勇浩去世](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%88%86%E6%96%99%E5%8D%9A%E4%B8%BB%E9%87%91%E5%8B%87%E6%B5%A9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
