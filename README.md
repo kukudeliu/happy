@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 14:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 15:00:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [深圳地铁车厢剧烈抖动 乘客隧道撤离](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E8%BD%A6%E5%8E%A2%E5%89%A7%E7%83%88%E6%8A%96%E5%8A%A8+%E4%B9%98%E5%AE%A2%E9%9A%A7%E9%81%93%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一组数据看“一带一路”十年建设成果](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E2%80%9C%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E2%80%9D%E5%8D%81%E5%B9%B4%E5%BB%BA%E8%AE%BE%E6%88%90%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [直升机迫降稻田引村民围观](https://www.baidu.com/s?wd=%E7%9B%B4%E5%8D%87%E6%9C%BA%E8%BF%AB%E9%99%8D%E7%A8%BB%E7%94%B0%E5%BC%95%E6%9D%91%E6%B0%91%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [班主任家访意外救下一家四口](https://www.baidu.com/s?wd=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%AE%B6%E8%AE%BF%E6%84%8F%E5%A4%96%E6%95%91%E4%B8%8B%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国女游客在厄瓜多尔雪山坠亡](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E9%9B%AA%E5%B1%B1%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张远四公MVP](https://www.baidu.com/s?wd=%E5%BC%A0%E8%BF%9C%E5%9B%9B%E5%85%ACMVP&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国女游客在厄瓜多尔雪山坠亡](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E9%9B%AA%E5%B1%B1%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张远四公MVP](https://www.baidu.com/s?wd=%E5%BC%A0%E8%BF%9C%E5%9B%9B%E5%85%ACMVP&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [陈奕迅澳门演唱会被要求说国语](https://www.baidu.com/s?wd=%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AF%B4%E5%9B%BD%E8%AF%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼和浩特一高校发生投毒案？谣言](https://www.baidu.com/s?wd=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E4%B8%80%E9%AB%98%E6%A0%A1%E5%8F%91%E7%94%9F%E6%8A%95%E6%AF%92%E6%A1%88%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [深圳地铁车厢剧烈抖动 乘客隧道撤离](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E8%BD%A6%E5%8E%A2%E5%89%A7%E7%83%88%E6%8A%96%E5%8A%A8+%E4%B9%98%E5%AE%A2%E9%9A%A7%E9%81%93%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一组数据看“一带一路”十年建设成果](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E2%80%9C%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E2%80%9D%E5%8D%81%E5%B9%B4%E5%BB%BA%E8%AE%BE%E6%88%90%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [直升机迫降稻田引村民围观](https://www.baidu.com/s?wd=%E7%9B%B4%E5%8D%87%E6%9C%BA%E8%BF%AB%E9%99%8D%E7%A8%BB%E7%94%B0%E5%BC%95%E6%9D%91%E6%B0%91%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [班主任家访意外救下一家四口](https://www.baidu.com/s?wd=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%AE%B6%E8%AE%BF%E6%84%8F%E5%A4%96%E6%95%91%E4%B8%8B%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国女游客在厄瓜多尔雪山坠亡](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E9%9B%AA%E5%B1%B1%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张远四公MVP](https://www.baidu.com/s?wd=%E5%BC%A0%E8%BF%9C%E5%9B%9B%E5%85%ACMVP&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国女游客在厄瓜多尔雪山坠亡](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E9%9B%AA%E5%B1%B1%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张远四公MVP](https://www.baidu.com/s?wd=%E5%BC%A0%E8%BF%9C%E5%9B%9B%E5%85%ACMVP&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [陈奕迅澳门演唱会被要求说国语](https://www.baidu.com/s?wd=%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AF%B4%E5%9B%BD%E8%AF%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼和浩特一高校发生投毒案？谣言](https://www.baidu.com/s?wd=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E4%B8%80%E9%AB%98%E6%A0%A1%E5%8F%91%E7%94%9F%E6%8A%95%E6%AF%92%E6%A1%88%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
