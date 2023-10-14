@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 23:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 23:15:01</h4></div>
 
 > 微博  
 
-1. [巴以冲突不断升级面临失控风险](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E4%B8%8D%E6%96%AD%E5%8D%87%E7%BA%A7%E9%9D%A2%E4%B8%B4%E5%A4%B1%E6%8E%A7%E9%A3%8E%E9%99%A9%23&t=31&band_rank=1&Refer=top)<br />
-2. [社保缴15年和25年待遇差别](https://s.weibo.com/weibo?q=%23%E7%A4%BE%E4%BF%9D%E7%BC%B415%E5%B9%B4%E5%92%8C25%E5%B9%B4%E5%BE%85%E9%81%87%E5%B7%AE%E5%88%AB%23&t=31&band_rank=2&Refer=top)<br />
+1. [社保缴15年和25年待遇差别](https://s.weibo.com/weibo?q=%23%E7%A4%BE%E4%BF%9D%E7%BC%B415%E5%B9%B4%E5%92%8C25%E5%B9%B4%E5%BE%85%E9%81%87%E5%B7%AE%E5%88%AB%23&t=31&band_rank=1&Refer=top)<br />
+2. [巴以冲突不断升级面临失控风险](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E4%B8%8D%E6%96%AD%E5%8D%87%E7%BA%A7%E9%9D%A2%E4%B8%B4%E5%A4%B1%E6%8E%A7%E9%A3%8E%E9%99%A9%23&t=31&band_rank=2&Refer=top)<br />
 3. [一带一路有你有我](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E6%9C%89%E4%BD%A0%E6%9C%89%E6%88%91%23&t=31&band_rank=3&Refer=top)<br />
 4. [湖南一技师学院一名女生宿舍内死亡](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E6%8A%80%E5%B8%88%E5%AD%A6%E9%99%A2%E4%B8%80%E5%90%8D%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [赵丽颖檀健次同框](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%AA%80%E5%81%A5%E6%AC%A1%E5%90%8C%E6%A1%86%23&t=31&band_rank=5&Refer=top)<br />
