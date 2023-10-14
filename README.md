@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 05:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 05:44:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [陈奕迅澳门演唱会被要求说国语](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AF%B4%E5%9B%BD%E8%AF%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [巴以冲突](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [苏醒巡演终于唱跳了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E5%B7%A1%E6%BC%94%E7%BB%88%E4%BA%8E%E5%94%B1%E8%B7%B3%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [纪宝贝去世](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%AE%9D%E8%B4%9D%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [张靓颖穿18cm靴子唱跳不带喘](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9D%93%E9%A2%96%E7%A9%BF18cm%E9%9D%B4%E5%AD%90%E5%94%B1%E8%B7%B3%E4%B8%8D%E5%B8%A6%E5%96%98%23&t=31&band_rank=9&Refer=top)<br />
+8. [张靓颖穿18cm靴子唱跳不带喘](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9D%93%E9%A2%96%E7%A9%BF18cm%E9%9D%B4%E5%AD%90%E5%94%B1%E8%B7%B3%E4%B8%8D%E5%B8%A6%E5%96%98%23&t=31&band_rank=8&Refer=top)<br />
+9. [纪宝贝去世](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%AE%9D%E8%B4%9D%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
