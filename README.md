@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 20:09:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 20:10:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [炸糖糕](https://s.weibo.com/weibo?q=%E7%82%B8%E7%B3%96%E7%B3%95&t=31&band_rank=5&Refer=top)<br />
 6. [原来鞋底磨损不均是正常的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%9E%8B%E5%BA%95%E7%A3%A8%E6%8D%9F%E4%B8%8D%E5%9D%87%E6%98%AF%E6%AD%A3%E5%B8%B8%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈楚生 广州](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%20%E5%B9%BF%E5%B7%9E&t=31&band_rank=7&Refer=top)<br />
-8. [陈奕迅澳门演唱会被要求说国语](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AF%B4%E5%9B%BD%E8%AF%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [孩子手洗不干净老师细看心疼](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E6%89%8B%E6%B4%97%E4%B8%8D%E5%B9%B2%E5%87%80%E8%80%81%E5%B8%88%E7%BB%86%E7%9C%8B%E5%BF%83%E7%96%BC%23&t=31&band_rank=9&Refer=top)<br />
+8. [孩子手洗不干净老师细看心疼](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E6%89%8B%E6%B4%97%E4%B8%8D%E5%B9%B2%E5%87%80%E8%80%81%E5%B8%88%E7%BB%86%E7%9C%8B%E5%BF%83%E7%96%BC%23&t=31&band_rank=8&Refer=top)<br />
+9. [陈奕迅澳门演唱会被要求说国语](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AF%B4%E5%9B%BD%E8%AF%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
