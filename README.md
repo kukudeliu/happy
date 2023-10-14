@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 18:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 18:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈奕迅澳门演唱会被要求说国语](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AF%B4%E5%9B%BD%E8%AF%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [广州一妈妈带女儿赴港实现冰雪奇缘梦](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%A6%88%E5%A6%88%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%B5%B4%E6%B8%AF%E5%AE%9E%E7%8E%B0%E5%86%B0%E9%9B%AA%E5%A5%87%E7%BC%98%E6%A2%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [斗鱼 没想过会赢](https://s.weibo.com/weibo?q=%E6%96%97%E9%B1%BC%20%E6%B2%A1%E6%83%B3%E8%BF%87%E4%BC%9A%E8%B5%A2&t=31&band_rank=8&Refer=top)<br />
-9. [以军一次打死打伤7名记者](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E4%B8%80%E6%AC%A1%E6%89%93%E6%AD%BB%E6%89%93%E4%BC%A47%E5%90%8D%E8%AE%B0%E8%80%85%23&t=31&band_rank=9&Refer=top)<br />
+9. [李知恩采访好帅](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%9F%A5%E6%81%A9%E9%87%87%E8%AE%BF%E5%A5%BD%E5%B8%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
