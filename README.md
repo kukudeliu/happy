@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 16:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 16:27:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [深圳地铁车厢剧烈抖动 乘客隧道撤离](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E8%BD%A6%E5%8E%A2%E5%89%A7%E7%83%88%E6%8A%96%E5%8A%A8+%E4%B9%98%E5%AE%A2%E9%9A%A7%E9%81%93%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [把青春华章写在祖国大地上](https://www.baidu.com/s?wd=%E6%8A%8A%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%E5%86%99%E5%9C%A8%E7%A5%96%E5%9B%BD%E5%A4%A7%E5%9C%B0%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [陈奕迅澳门演唱会被要求说国语](https://www.baidu.com/s?wd=%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AF%B4%E5%9B%BD%E8%AF%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [超40万巴勒斯坦人离开加沙的家园](https://www.baidu.com/s?wd=%E8%B6%8540%E4%B8%87%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA%E7%A6%BB%E5%BC%80%E5%8A%A0%E6%B2%99%E7%9A%84%E5%AE%B6%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [加沙居民撤离车队遭空袭已致70死](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%B1%85%E6%B0%91%E6%92%A4%E7%A6%BB%E8%BD%A6%E9%98%9F%E9%81%AD%E7%A9%BA%E8%A2%AD%E5%B7%B2%E8%87%B470%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孙海洋案判后寻子家长晕倒送医](https://www.baidu.com/s?wd=%E5%AD%99%E6%B5%B7%E6%B4%8B%E6%A1%88%E5%88%A4%E5%90%8E%E5%AF%BB%E5%AD%90%E5%AE%B6%E9%95%BF%E6%99%95%E5%80%92%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [17岁少年入室抢劫杀害房东 已被逮捕](https://www.baidu.com/s?wd=17%E5%B2%81%E5%B0%91%E5%B9%B4%E5%85%A5%E5%AE%A4%E6%8A%A2%E5%8A%AB%E6%9D%80%E5%AE%B3%E6%88%BF%E4%B8%9C+%E5%B7%B2%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [超40万巴勒斯坦人离开加沙的家园](https://www.baidu.com/s?wd=%E8%B6%8540%E4%B8%87%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA%E7%A6%BB%E5%BC%80%E5%8A%A0%E6%B2%99%E7%9A%84%E5%AE%B6%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加沙居民撤离车队遭空袭已致70死](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%B1%85%E6%B0%91%E6%92%A4%E7%A6%BB%E8%BD%A6%E9%98%9F%E9%81%AD%E7%A9%BA%E8%A2%AD%E5%B7%B2%E8%87%B470%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼和浩特一高校发生投毒案？谣言](https://www.baidu.com/s?wd=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E4%B8%80%E9%AB%98%E6%A0%A1%E5%8F%91%E7%94%9F%E6%8A%95%E6%AF%92%E6%A1%88%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [深圳地铁车厢剧烈抖动 乘客隧道撤离](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E8%BD%A6%E5%8E%A2%E5%89%A7%E7%83%88%E6%8A%96%E5%8A%A8+%E4%B9%98%E5%AE%A2%E9%9A%A7%E9%81%93%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [把青春华章写在祖国大地上](https://www.baidu.com/s?wd=%E6%8A%8A%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%E5%86%99%E5%9C%A8%E7%A5%96%E5%9B%BD%E5%A4%A7%E5%9C%B0%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [陈奕迅澳门演唱会被要求说国语](https://www.baidu.com/s?wd=%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AF%B4%E5%9B%BD%E8%AF%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [超40万巴勒斯坦人离开加沙的家园](https://www.baidu.com/s?wd=%E8%B6%8540%E4%B8%87%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA%E7%A6%BB%E5%BC%80%E5%8A%A0%E6%B2%99%E7%9A%84%E5%AE%B6%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [加沙居民撤离车队遭空袭已致70死](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%B1%85%E6%B0%91%E6%92%A4%E7%A6%BB%E8%BD%A6%E9%98%9F%E9%81%AD%E7%A9%BA%E8%A2%AD%E5%B7%B2%E8%87%B470%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孙海洋案判后寻子家长晕倒送医](https://www.baidu.com/s?wd=%E5%AD%99%E6%B5%B7%E6%B4%8B%E6%A1%88%E5%88%A4%E5%90%8E%E5%AF%BB%E5%AD%90%E5%AE%B6%E9%95%BF%E6%99%95%E5%80%92%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [17岁少年入室抢劫杀害房东 已被逮捕](https://www.baidu.com/s?wd=17%E5%B2%81%E5%B0%91%E5%B9%B4%E5%85%A5%E5%AE%A4%E6%8A%A2%E5%8A%AB%E6%9D%80%E5%AE%B3%E6%88%BF%E4%B8%9C+%E5%B7%B2%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [超40万巴勒斯坦人离开加沙的家园](https://www.baidu.com/s?wd=%E8%B6%8540%E4%B8%87%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA%E7%A6%BB%E5%BC%80%E5%8A%A0%E6%B2%99%E7%9A%84%E5%AE%B6%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加沙居民撤离车队遭空袭已致70死](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%B1%85%E6%B0%91%E6%92%A4%E7%A6%BB%E8%BD%A6%E9%98%9F%E9%81%AD%E7%A9%BA%E8%A2%AD%E5%B7%B2%E8%87%B470%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼和浩特一高校发生投毒案？谣言](https://www.baidu.com/s?wd=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E4%B8%80%E9%AB%98%E6%A0%A1%E5%8F%91%E7%94%9F%E6%8A%95%E6%AF%92%E6%A1%88%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
