@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 17:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 17:32:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [陈奕迅澳门演唱会被要求说国语](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AF%B4%E5%9B%BD%E8%AF%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [男子误喝防冻液血液成胶冻状离世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%96%9D%E9%98%B2%E5%86%BB%E6%B6%B2%E8%A1%80%E6%B6%B2%E6%88%90%E8%83%B6%E5%86%BB%E7%8A%B6%E7%A6%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [孙女得知聊天框是置顶时爷爷已病逝](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%A5%B3%E5%BE%97%E7%9F%A5%E8%81%8A%E5%A4%A9%E6%A1%86%E6%98%AF%E7%BD%AE%E9%A1%B6%E6%97%B6%E7%88%B7%E7%88%B7%E5%B7%B2%E7%97%85%E9%80%9D%23&t=31&band_rank=7&Refer=top)<br />
-8. [加沙居民撤离车队遭以色列空袭已致70死](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%B1%85%E6%B0%91%E6%92%A4%E7%A6%BB%E8%BD%A6%E9%98%9F%E9%81%AD%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E8%A2%AD%E5%B7%B2%E8%87%B470%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [以色列6天投6000枚炸弹](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%976%E5%A4%A9%E6%8A%956000%E6%9E%9A%E7%82%B8%E5%BC%B9%23&t=31&band_rank=9&Refer=top)<br />
+8. [以色列6天投6000枚炸弹](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%976%E5%A4%A9%E6%8A%956000%E6%9E%9A%E7%82%B8%E5%BC%B9%23&t=31&band_rank=8&Refer=top)<br />
+9. [加沙居民撤离车队遭以色列空袭已致70死](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%B1%85%E6%B0%91%E6%92%A4%E7%A6%BB%E8%BD%A6%E9%98%9F%E9%81%AD%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E8%A2%AD%E5%B7%B2%E8%87%B470%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
