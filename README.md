@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 20:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 20:39:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [纪宝贝去世](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%AE%9D%E8%B4%9D%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [佛山电翰爆火后回应](https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%B1%B1%E7%94%B5%E7%BF%B0%E7%88%86%E7%81%AB%E5%90%8E%E5%9B%9E%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈奕迅澳门演唱会被要求说国语](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AF%B4%E5%9B%BD%E8%AF%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [炸糖糕](https://s.weibo.com/weibo?q=%E7%82%B8%E7%B3%96%E7%B3%95&t=31&band_rank=9&Refer=top)<br />
+9. [赵丽颖檀健次同框](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%AA%80%E5%81%A5%E6%AC%A1%E5%90%8C%E6%A1%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
