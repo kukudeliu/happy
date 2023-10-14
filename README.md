@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 09:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 09:04:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [中国新电商大会](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%94%B5%E5%95%86%E5%A4%A7%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [徐冬冬被压10年的剧播了](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%86%AC%E5%86%AC%E8%A2%AB%E5%8E%8B10%E5%B9%B4%E7%9A%84%E5%89%A7%E6%92%AD%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [多尔衮行宫挂牌1.8亿出售](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B0%94%E8%A1%AE%E8%A1%8C%E5%AE%AB%E6%8C%82%E7%89%8C1.8%E4%BA%BF%E5%87%BA%E5%94%AE%23&t=31&band_rank=5&Refer=top)<br />
-6. [杨威自曝要终身佩戴呼吸机](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A8%81%E8%87%AA%E6%9B%9D%E8%A6%81%E7%BB%88%E8%BA%AB%E4%BD%A9%E6%88%B4%E5%91%BC%E5%90%B8%E6%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [警方通报男子追刺民警被击中身亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E8%BF%BD%E5%88%BA%E6%B0%91%E8%AD%A6%E8%A2%AB%E5%87%BB%E4%B8%AD%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
+6. [警方通报男子追刺民警被击中身亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E8%BF%BD%E5%88%BA%E6%B0%91%E8%AD%A6%E8%A2%AB%E5%87%BB%E4%B8%AD%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
+7. [杨威自曝要终身佩戴呼吸机](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A8%81%E8%87%AA%E6%9B%9D%E8%A6%81%E7%BB%88%E8%BA%AB%E4%BD%A9%E6%88%B4%E5%91%BC%E5%90%B8%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [民间流传缠腰龙缠一圈致命是谣言](https://s.weibo.com/weibo?q=%23%E6%B0%91%E9%97%B4%E6%B5%81%E4%BC%A0%E7%BC%A0%E8%85%B0%E9%BE%99%E7%BC%A0%E4%B8%80%E5%9C%88%E8%87%B4%E5%91%BD%E6%98%AF%E8%B0%A3%E8%A8%80%23&t=31&band_rank=8&Refer=top)<br />
 9. [中方将派特使前往中东](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%86%E6%B4%BE%E7%89%B9%E4%BD%BF%E5%89%8D%E5%BE%80%E4%B8%AD%E4%B8%9C%23&t=31&band_rank=9&Refer=top)<br />
 
