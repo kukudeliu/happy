@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 15:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 15:45:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [曝前央视体育主持人段暄失联](https://www.baidu.com/s?wd=%E6%9B%9D%E5%89%8D%E5%A4%AE%E8%A7%86%E4%BD%93%E8%82%B2%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%AE%B5%E6%9A%84%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [深圳地铁车厢剧烈抖动 乘客隧道撤离](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E8%BD%A6%E5%8E%A2%E5%89%A7%E7%83%88%E6%8A%96%E5%8A%A8+%E4%B9%98%E5%AE%A2%E9%9A%A7%E9%81%93%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一组数据看“一带一路”十年建设成果](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E2%80%9C%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E2%80%9D%E5%8D%81%E5%B9%B4%E5%BB%BA%E8%AE%BE%E6%88%90%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [直升机迫降稻田引村民围观](https://www.baidu.com/s?wd=%E7%9B%B4%E5%8D%87%E6%9C%BA%E8%BF%AB%E9%99%8D%E7%A8%BB%E7%94%B0%E5%BC%95%E6%9D%91%E6%B0%91%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [陈奕迅澳门演唱会被要求说国语](https://www.baidu.com/s?wd=%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AF%B4%E5%9B%BD%E8%AF%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广东中山市全域商品住房不限购](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%AD%E5%B1%B1%E5%B8%82%E5%85%A8%E5%9F%9F%E5%95%86%E5%93%81%E4%BD%8F%E6%88%BF%E4%B8%8D%E9%99%90%E8%B4%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [加沙儿童在巴以冲突中面临危险](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%84%BF%E7%AB%A5%E5%9C%A8%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E4%B8%AD%E9%9D%A2%E4%B8%B4%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美议员批以色列：这是种族清洗](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%AE%E5%91%98%E6%89%B9%E4%BB%A5%E8%89%B2%E5%88%97%EF%BC%9A%E8%BF%99%E6%98%AF%E7%A7%8D%E6%97%8F%E6%B8%85%E6%B4%97&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [曝前央视体育主持人段暄失联](https://www.baidu.com/s?wd=%E6%9B%9D%E5%89%8D%E5%A4%AE%E8%A7%86%E4%BD%93%E8%82%B2%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%AE%B5%E6%9A%84%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [深圳地铁车厢剧烈抖动 乘客隧道撤离](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E8%BD%A6%E5%8E%A2%E5%89%A7%E7%83%88%E6%8A%96%E5%8A%A8+%E4%B9%98%E5%AE%A2%E9%9A%A7%E9%81%93%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一组数据看“一带一路”十年建设成果](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E2%80%9C%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E2%80%9D%E5%8D%81%E5%B9%B4%E5%BB%BA%E8%AE%BE%E6%88%90%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [直升机迫降稻田引村民围观](https://www.baidu.com/s?wd=%E7%9B%B4%E5%8D%87%E6%9C%BA%E8%BF%AB%E9%99%8D%E7%A8%BB%E7%94%B0%E5%BC%95%E6%9D%91%E6%B0%91%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [陈奕迅澳门演唱会被要求说国语](https://www.baidu.com/s?wd=%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AF%B4%E5%9B%BD%E8%AF%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广东中山市全域商品住房不限购](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%AD%E5%B1%B1%E5%B8%82%E5%85%A8%E5%9F%9F%E5%95%86%E5%93%81%E4%BD%8F%E6%88%BF%E4%B8%8D%E9%99%90%E8%B4%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [加沙儿童在巴以冲突中面临危险](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%84%BF%E7%AB%A5%E5%9C%A8%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E4%B8%AD%E9%9D%A2%E4%B8%B4%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美议员批以色列：这是种族清洗](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%AE%E5%91%98%E6%89%B9%E4%BB%A5%E8%89%B2%E5%88%97%EF%BC%9A%E8%BF%99%E6%98%AF%E7%A7%8D%E6%97%8F%E6%B8%85%E6%B4%97&sa=fyb_news&rsv_dl=fyb_news)<br />
