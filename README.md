@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 13:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 13:37:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [国家公务员局对考生发布提醒](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%8A%A1%E5%91%98%E5%B1%80%E5%AF%B9%E8%80%83%E7%94%9F%E5%8F%91%E5%B8%83%E6%8F%90%E9%86%92%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨迪把吴昕拉黑了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E6%8A%8A%E5%90%B4%E6%98%95%E6%8B%89%E9%BB%91%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [佛山电翰](https://s.weibo.com/weibo?q=%E4%BD%9B%E5%B1%B1%E7%94%B5%E7%BF%B0&t=31&band_rank=6&Refer=top)<br />
-7. [徐冬冬被压10年的剧播了](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%86%AC%E5%86%AC%E8%A2%AB%E5%8E%8B10%E5%B9%B4%E7%9A%84%E5%89%A7%E6%92%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [所以不要和陌生人说话才会成为经典](https://s.weibo.com/weibo?q=%23%E6%89%80%E4%BB%A5%E4%B8%8D%E8%A6%81%E5%92%8C%E9%99%8C%E7%94%9F%E4%BA%BA%E8%AF%B4%E8%AF%9D%E6%89%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E7%BB%8F%E5%85%B8%23&t=31&band_rank=8&Refer=top)<br />
+7. [所以不要和陌生人说话才会成为经典](https://s.weibo.com/weibo?q=%23%E6%89%80%E4%BB%A5%E4%B8%8D%E8%A6%81%E5%92%8C%E9%99%8C%E7%94%9F%E4%BA%BA%E8%AF%B4%E8%AF%9D%E6%89%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E7%BB%8F%E5%85%B8%23&t=31&band_rank=7&Refer=top)<br />
+8. [徐冬冬被压10年的剧播了](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%86%AC%E5%86%AC%E8%A2%AB%E5%8E%8B10%E5%B9%B4%E7%9A%84%E5%89%A7%E6%92%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [国产烂片营销为何堪比诈骗](https://s.weibo.com/weibo?q=%E5%9B%BD%E4%BA%A7%E7%83%82%E7%89%87%E8%90%A5%E9%94%80%E4%B8%BA%E4%BD%95%E5%A0%AA%E6%AF%94%E8%AF%88%E9%AA%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
