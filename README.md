@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 21:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 21:34:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [孩子手洗不干净老师细看心疼](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E6%89%8B%E6%B4%97%E4%B8%8D%E5%B9%B2%E5%87%80%E8%80%81%E5%B8%88%E7%BB%86%E7%9C%8B%E5%BF%83%E7%96%BC%23&t=31&band_rank=5&Refer=top)<br />
 6. [纪宝贝去世](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%AE%9D%E8%B4%9D%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [田耕纪首播反响](https://s.weibo.com/weibo?q=%23%E7%94%B0%E8%80%95%E7%BA%AA%E9%A6%96%E6%92%AD%E5%8F%8D%E5%93%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [男子误喝防冻液血液成胶冻状离世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%96%9D%E9%98%B2%E5%86%BB%E6%B6%B2%E8%A1%80%E6%B6%B2%E6%88%90%E8%83%B6%E5%86%BB%E7%8A%B6%E7%A6%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [张凌赫 hi6](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%20hi6&t=31&band_rank=9&Refer=top)<br />
+8. [张凌赫 hi6](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%20hi6&t=31&band_rank=8&Refer=top)<br />
+9. [男子误喝防冻液血液成胶冻状离世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%96%9D%E9%98%B2%E5%86%BB%E6%B6%B2%E8%A1%80%E6%B6%B2%E6%88%90%E8%83%B6%E5%86%BB%E7%8A%B6%E7%A6%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
