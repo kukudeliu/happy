@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 21:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 21:02:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [孩子手洗不干净老师细看心疼](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E6%89%8B%E6%B4%97%E4%B8%8D%E5%B9%B2%E5%87%80%E8%80%81%E5%B8%88%E7%BB%86%E7%9C%8B%E5%BF%83%E7%96%BC%23&t=31&band_rank=2&Refer=top)<br />
 3. [男子误喝防冻液血液成胶冻状离世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%96%9D%E9%98%B2%E5%86%BB%E6%B6%B2%E8%A1%80%E6%B6%B2%E6%88%90%E8%83%B6%E5%86%BB%E7%8A%B6%E7%A6%BB%E4%B8%96%23&t=31&band_rank=3&Refer=top)<br />
 4. [赵丽颖檀健次同框](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%AA%80%E5%81%A5%E6%AC%A1%E5%90%8C%E6%A1%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [陈奕迅澳门演唱会被要求说国语](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AF%B4%E5%9B%BD%E8%AF%AD%23&t=31&band_rank=5&Refer=top)<br />
+5. [鸡蛋是舍不得吃的 牛奶是上次给他们的](https://s.weibo.com/weibo?q=%E9%B8%A1%E8%9B%8B%E6%98%AF%E8%88%8D%E4%B8%8D%E5%BE%97%E5%90%83%E7%9A%84%20%E7%89%9B%E5%A5%B6%E6%98%AF%E4%B8%8A%E6%AC%A1%E7%BB%99%E4%BB%96%E4%BB%AC%E7%9A%84&t=31&band_rank=5&Refer=top)<br />
 6. [纪宝贝去世](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%AE%9D%E8%B4%9D%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [佛山电翰爆火后回应](https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%B1%B1%E7%94%B5%E7%BF%B0%E7%88%86%E7%81%AB%E5%90%8E%E5%9B%9E%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [你们还能认出他是朱一龙吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%AC%E8%BF%98%E8%83%BD%E8%AE%A4%E5%87%BA%E4%BB%96%E6%98%AF%E6%9C%B1%E4%B8%80%E9%BE%99%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [以军称将对加沙地带发起强力进攻](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E7%A7%B0%E5%B0%86%E5%AF%B9%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E5%8F%91%E8%B5%B7%E5%BC%BA%E5%8A%9B%E8%BF%9B%E6%94%BB%23&t=31&band_rank=9&Refer=top)<br />
+7. [陈奕迅澳门演唱会被要求说国语](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AF%B4%E5%9B%BD%E8%AF%AD%23&t=31&band_rank=7&Refer=top)<br />
+8. [佛山电翰爆火后回应](https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%B1%B1%E7%94%B5%E7%BF%B0%E7%88%86%E7%81%AB%E5%90%8E%E5%9B%9E%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
+9. [你们还能认出他是朱一龙吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%AC%E8%BF%98%E8%83%BD%E8%AE%A4%E5%87%BA%E4%BB%96%E6%98%AF%E6%9C%B1%E4%B8%80%E9%BE%99%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
