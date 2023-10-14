@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 18:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 18:01:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [螳螂“大夫”为男子医治脖后瘊子](https://www.baidu.com/s?wd=%E8%9E%B3%E8%9E%82%E2%80%9C%E5%A4%A7%E5%A4%AB%E2%80%9D%E4%B8%BA%E7%94%B7%E5%AD%90%E5%8C%BB%E6%B2%BB%E8%84%96%E5%90%8E%E7%98%8A%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [把青春华章写在祖国大地上](https://www.baidu.com/s?wd=%E6%8A%8A%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%E5%86%99%E5%9C%A8%E7%A5%96%E5%9B%BD%E5%A4%A7%E5%9C%B0%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家属否认致6死婚车事故司机酒驾](https://www.baidu.com/s?wd=%E5%AE%B6%E5%B1%9E%E5%90%A6%E8%AE%A4%E8%87%B46%E6%AD%BB%E5%A9%9A%E8%BD%A6%E4%BA%8B%E6%95%85%E5%8F%B8%E6%9C%BA%E9%85%92%E9%A9%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [“宝马女”母亲称女婿半年家暴7次](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%9D%E9%A9%AC%E5%A5%B3%E2%80%9D%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%A5%B3%E5%A9%BF%E5%8D%8A%E5%B9%B4%E5%AE%B6%E6%9A%B47%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [证监会出台融券政策两条逆周期安排](https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%87%BA%E5%8F%B0%E8%9E%8D%E5%88%B8%E6%94%BF%E7%AD%96%E4%B8%A4%E6%9D%A1%E9%80%86%E5%91%A8%E6%9C%9F%E5%AE%89%E6%8E%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“公募一哥”王亚伟一天内两度发声](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%AC%E5%8B%9F%E4%B8%80%E5%93%A5%E2%80%9D%E7%8E%8B%E4%BA%9A%E4%BC%9F%E4%B8%80%E5%A4%A9%E5%86%85%E4%B8%A4%E5%BA%A6%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [时隔4个月 父女俩都成为大体老师](https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%944%E4%B8%AA%E6%9C%88+%E7%88%B6%E5%A5%B3%E4%BF%A9%E9%83%BD%E6%88%90%E4%B8%BA%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [“宝马女”母亲称女婿半年家暴7次](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%9D%E9%A9%AC%E5%A5%B3%E2%80%9D%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%A5%B3%E5%A9%BF%E5%8D%8A%E5%B9%B4%E5%AE%B6%E6%9A%B47%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [证监会出台融券政策两条逆周期安排](https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%87%BA%E5%8F%B0%E8%9E%8D%E5%88%B8%E6%94%BF%E7%AD%96%E4%B8%A4%E6%9D%A1%E9%80%86%E5%91%A8%E6%9C%9F%E5%AE%89%E6%8E%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼和浩特一高校发生投毒案？谣言](https://www.baidu.com/s?wd=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E4%B8%80%E9%AB%98%E6%A0%A1%E5%8F%91%E7%94%9F%E6%8A%95%E6%AF%92%E6%A1%88%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [螳螂“大夫”为男子医治脖后瘊子](https://www.baidu.com/s?wd=%E8%9E%B3%E8%9E%82%E2%80%9C%E5%A4%A7%E5%A4%AB%E2%80%9D%E4%B8%BA%E7%94%B7%E5%AD%90%E5%8C%BB%E6%B2%BB%E8%84%96%E5%90%8E%E7%98%8A%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [把青春华章写在祖国大地上](https://www.baidu.com/s?wd=%E6%8A%8A%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%E5%86%99%E5%9C%A8%E7%A5%96%E5%9B%BD%E5%A4%A7%E5%9C%B0%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家属否认致6死婚车事故司机酒驾](https://www.baidu.com/s?wd=%E5%AE%B6%E5%B1%9E%E5%90%A6%E8%AE%A4%E8%87%B46%E6%AD%BB%E5%A9%9A%E8%BD%A6%E4%BA%8B%E6%95%85%E5%8F%B8%E6%9C%BA%E9%85%92%E9%A9%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [“宝马女”母亲称女婿半年家暴7次](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%9D%E9%A9%AC%E5%A5%B3%E2%80%9D%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%A5%B3%E5%A9%BF%E5%8D%8A%E5%B9%B4%E5%AE%B6%E6%9A%B47%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [证监会出台融券政策两条逆周期安排](https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%87%BA%E5%8F%B0%E8%9E%8D%E5%88%B8%E6%94%BF%E7%AD%96%E4%B8%A4%E6%9D%A1%E9%80%86%E5%91%A8%E6%9C%9F%E5%AE%89%E6%8E%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“公募一哥”王亚伟一天内两度发声](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%AC%E5%8B%9F%E4%B8%80%E5%93%A5%E2%80%9D%E7%8E%8B%E4%BA%9A%E4%BC%9F%E4%B8%80%E5%A4%A9%E5%86%85%E4%B8%A4%E5%BA%A6%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [时隔4个月 父女俩都成为大体老师](https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%944%E4%B8%AA%E6%9C%88+%E7%88%B6%E5%A5%B3%E4%BF%A9%E9%83%BD%E6%88%90%E4%B8%BA%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [“宝马女”母亲称女婿半年家暴7次](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%9D%E9%A9%AC%E5%A5%B3%E2%80%9D%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%A5%B3%E5%A9%BF%E5%8D%8A%E5%B9%B4%E5%AE%B6%E6%9A%B47%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [证监会出台融券政策两条逆周期安排](https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%87%BA%E5%8F%B0%E8%9E%8D%E5%88%B8%E6%94%BF%E7%AD%96%E4%B8%A4%E6%9D%A1%E9%80%86%E5%91%A8%E6%9C%9F%E5%AE%89%E6%8E%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼和浩特一高校发生投毒案？谣言](https://www.baidu.com/s?wd=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E4%B8%80%E9%AB%98%E6%A0%A1%E5%8F%91%E7%94%9F%E6%8A%95%E6%AF%92%E6%A1%88%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
