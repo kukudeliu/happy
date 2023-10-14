@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 08:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 08:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [BBC记者在加沙报道时哭泣](https://s.weibo.com/weibo?q=%23BBC%E8%AE%B0%E8%80%85%E5%9C%A8%E5%8A%A0%E6%B2%99%E6%8A%A5%E9%81%93%E6%97%B6%E5%93%AD%E6%B3%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [村里开咖啡店 老头半夜起来种地](https://s.weibo.com/weibo?q=%E6%9D%91%E9%87%8C%E5%BC%80%E5%92%96%E5%95%A1%E5%BA%97%20%E8%80%81%E5%A4%B4%E5%8D%8A%E5%A4%9C%E8%B5%B7%E6%9D%A5%E7%A7%8D%E5%9C%B0&t=31&band_rank=7&Refer=top)<br />
 8. [孟佳一口气生吃8种辣椒](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E4%BD%B3%E4%B8%80%E5%8F%A3%E6%B0%94%E7%94%9F%E5%90%838%E7%A7%8D%E8%BE%A3%E6%A4%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [社区回应3岁孩子被父亲关车库3天](https://s.weibo.com/weibo?q=%23%E7%A4%BE%E5%8C%BA%E5%9B%9E%E5%BA%943%E5%B2%81%E5%AD%A9%E5%AD%90%E8%A2%AB%E7%88%B6%E4%BA%B2%E5%85%B3%E8%BD%A6%E5%BA%933%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [浙江一小学发现汉六朝时期聚落遗址](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E5%B0%8F%E5%AD%A6%E5%8F%91%E7%8E%B0%E6%B1%89%E5%85%AD%E6%9C%9D%E6%97%B6%E6%9C%9F%E8%81%9A%E8%90%BD%E9%81%97%E5%9D%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
