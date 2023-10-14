@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 14:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 14:43:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [所以不要和陌生人说话才会成为经典](https://s.weibo.com/weibo?q=%23%E6%89%80%E4%BB%A5%E4%B8%8D%E8%A6%81%E5%92%8C%E9%99%8C%E7%94%9F%E4%BA%BA%E8%AF%B4%E8%AF%9D%E6%89%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E7%BB%8F%E5%85%B8%23&t=31&band_rank=4&Refer=top)<br />
 5. [幼儿园为兔子办婚礼请小朋友吃大席](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%B8%BA%E5%85%94%E5%AD%90%E5%8A%9E%E5%A9%9A%E7%A4%BC%E8%AF%B7%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%90%83%E5%A4%A7%E5%B8%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [美国要求以色列推迟地面进攻](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A6%81%E6%B1%82%E4%BB%A5%E8%89%B2%E5%88%97%E6%8E%A8%E8%BF%9F%E5%9C%B0%E9%9D%A2%E8%BF%9B%E6%94%BB%23&t=31&band_rank=6&Refer=top)<br />
-7. [国家公务员局对考生发布提醒](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%8A%A1%E5%91%98%E5%B1%80%E5%AF%B9%E8%80%83%E7%94%9F%E5%8F%91%E5%B8%83%E6%8F%90%E9%86%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈奕迅澳门演唱会被要求说国语](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AF%B4%E5%9B%BD%E8%AF%AD%23&t=31&band_rank=8&Refer=top)<br />
+7. [陈奕迅澳门演唱会被要求说国语](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AF%B4%E5%9B%BD%E8%AF%AD%23&t=31&band_rank=7&Refer=top)<br />
+8. [国家公务员局对考生发布提醒](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%8A%A1%E5%91%98%E5%B1%80%E5%AF%B9%E8%80%83%E7%94%9F%E5%8F%91%E5%B8%83%E6%8F%90%E9%86%92%23&t=31&band_rank=8&Refer=top)<br />
 9. [张杰把逆战唱成孤勇者](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%8A%8A%E9%80%86%E6%88%98%E5%94%B1%E6%88%90%E5%AD%A4%E5%8B%87%E8%80%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
