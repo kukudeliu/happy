@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 21:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 21:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [纪宝贝去世](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%AE%9D%E8%B4%9D%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子误喝防冻液血液成胶冻状离世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%96%9D%E9%98%B2%E5%86%BB%E6%B6%B2%E8%A1%80%E6%B6%B2%E6%88%90%E8%83%B6%E5%86%BB%E7%8A%B6%E7%A6%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈奕迅澳门演唱会被要求说国语](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AF%B4%E5%9B%BD%E8%AF%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [田耕纪首播反响](https://s.weibo.com/weibo?q=%23%E7%94%B0%E8%80%95%E7%BA%AA%E9%A6%96%E6%92%AD%E5%8F%8D%E5%93%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [周杰伦知道王冰冰用他点奶茶吗](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%9F%A5%E9%81%93%E7%8E%8B%E5%86%B0%E5%86%B0%E7%94%A8%E4%BB%96%E7%82%B9%E5%A5%B6%E8%8C%B6%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
