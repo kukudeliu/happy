@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 20:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 20:16:01</h4></div>
 
 > 微博  
 
-1. [纪宝贝去世](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%AE%9D%E8%B4%9D%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [社保缴15年和25年待遇差别](https://s.weibo.com/weibo?q=%23%E7%A4%BE%E4%BF%9D%E7%BC%B415%E5%B9%B4%E5%92%8C25%E5%B9%B4%E5%BE%85%E9%81%87%E5%B7%AE%E5%88%AB%23&t=31&band_rank=2&Refer=top)<br />
+1. [社保缴15年和25年待遇差别](https://s.weibo.com/weibo?q=%23%E7%A4%BE%E4%BF%9D%E7%BC%B415%E5%B9%B4%E5%92%8C25%E5%B9%B4%E5%BE%85%E9%81%87%E5%B7%AE%E5%88%AB%23&t=31&band_rank=1&Refer=top)<br />
+2. [纪宝贝去世](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%AE%9D%E8%B4%9D%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [青春华章](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%23&t=31&band_rank=3&Refer=top)<br />
 4. [男子误喝防冻液血液成胶冻状离世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%96%9D%E9%98%B2%E5%86%BB%E6%B6%B2%E8%A1%80%E6%B6%B2%E6%88%90%E8%83%B6%E5%86%BB%E7%8A%B6%E7%A6%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [孩子手洗不干净老师细看心疼](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E6%89%8B%E6%B4%97%E4%B8%8D%E5%B9%B2%E5%87%80%E8%80%81%E5%B8%88%E7%BB%86%E7%9C%8B%E5%BF%83%E7%96%BC%23&t=31&band_rank=5&Refer=top)<br />
