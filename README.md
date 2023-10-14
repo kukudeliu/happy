@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 21:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 21:46:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [赵丽颖檀健次同框](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%AA%80%E5%81%A5%E6%AC%A1%E5%90%8C%E6%A1%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [巴以冲突记者手机APP警报响个不停](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E8%AE%B0%E8%80%85%E6%89%8B%E6%9C%BAAPP%E8%AD%A6%E6%8A%A5%E5%93%8D%E4%B8%AA%E4%B8%8D%E5%81%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [纪宝贝去世](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%AE%9D%E8%B4%9D%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [孩子手洗不干净老师细看心疼](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E6%89%8B%E6%B4%97%E4%B8%8D%E5%B9%B2%E5%87%80%E8%80%81%E5%B8%88%E7%BB%86%E7%9C%8B%E5%BF%83%E7%96%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [田耕纪首播反响](https://s.weibo.com/weibo?q=%23%E7%94%B0%E8%80%95%E7%BA%AA%E9%A6%96%E6%92%AD%E5%8F%8D%E5%93%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [张凌赫 hi6](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%20hi6&t=31&band_rank=9&Refer=top)<br />
+7. [田耕纪首播反响](https://s.weibo.com/weibo?q=%23%E7%94%B0%E8%80%95%E7%BA%AA%E9%A6%96%E6%92%AD%E5%8F%8D%E5%93%8D%23&t=31&band_rank=7&Refer=top)<br />
+8. [孩子手洗不干净老师细看心疼](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E6%89%8B%E6%B4%97%E4%B8%8D%E5%B9%B2%E5%87%80%E8%80%81%E5%B8%88%E7%BB%86%E7%9C%8B%E5%BF%83%E7%96%BC%23&t=31&band_rank=8&Refer=top)<br />
+9. [许昕还是太全面了](https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%95%E8%BF%98%E6%98%AF%E5%A4%AA%E5%85%A8%E9%9D%A2%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
