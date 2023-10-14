@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 20:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 20:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [纪宝贝去世](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%AE%9D%E8%B4%9D%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [炸糖糕](https://s.weibo.com/weibo?q=%E7%82%B8%E7%B3%96%E7%B3%95&t=31&band_rank=7&Refer=top)<br />
 8. [陈奕迅澳门演唱会被要求说国语](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AF%B4%E5%9B%BD%E8%AF%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [原来鞋底磨损不均是正常的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%9E%8B%E5%BA%95%E7%A3%A8%E6%8D%9F%E4%B8%8D%E5%9D%87%E6%98%AF%E6%AD%A3%E5%B8%B8%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [佛山电翰爆火后回应](https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%B1%B1%E7%94%B5%E7%BF%B0%E7%88%86%E7%81%AB%E5%90%8E%E5%9B%9E%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [孙女得知聊天框是置顶时爷爷已病逝](https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E5%BE%97%E7%9F%A5%E8%81%8A%E5%A4%A9%E6%A1%86%E6%98%AF%E7%BD%AE%E9%A1%B6%E6%97%B6%E7%88%B7%E7%88%B7%E5%B7%B2%E7%97%85%E9%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [双十一10月24日晚8点开启](https://www.baidu.com/s?wd=%E5%8F%8C%E5%8D%81%E4%B8%8010%E6%9C%8824%E6%97%A5%E6%99%9A8%E7%82%B9%E5%BC%80%E5%90%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [新西兰现任总理承认败选](https://www.baidu.com/s?wd=%E6%96%B0%E8%A5%BF%E5%85%B0%E7%8E%B0%E4%BB%BB%E6%80%BB%E7%90%86%E6%89%BF%E8%AE%A4%E8%B4%A5%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《命中注定我爱你》中的纪宝贝去世](https://www.baidu.com/s?wd=%E3%80%8A%E5%91%BD%E4%B8%AD%E6%B3%A8%E5%AE%9A%E6%88%91%E7%88%B1%E4%BD%A0%E3%80%8B%E4%B8%AD%E7%9A%84%E7%BA%AA%E5%AE%9D%E8%B4%9D%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李玟骨灰月底将下葬](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E9%AA%A8%E7%81%B0%E6%9C%88%E5%BA%95%E5%B0%86%E4%B8%8B%E8%91%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [苏锡常将设立经济特区？不实](https://www.baidu.com/s?wd=%E8%8B%8F%E9%94%A1%E5%B8%B8%E5%B0%86%E8%AE%BE%E7%AB%8B%E7%BB%8F%E6%B5%8E%E7%89%B9%E5%8C%BA%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [孙女得知聊天框是置顶时爷爷已病逝](https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E5%BE%97%E7%9F%A5%E8%81%8A%E5%A4%A9%E6%A1%86%E6%98%AF%E7%BD%AE%E9%A1%B6%E6%97%B6%E7%88%B7%E7%88%B7%E5%B7%B2%E7%97%85%E9%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [双十一10月24日晚8点开启](https://www.baidu.com/s?wd=%E5%8F%8C%E5%8D%81%E4%B8%8010%E6%9C%8824%E6%97%A5%E6%99%9A8%E7%82%B9%E5%BC%80%E5%90%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [新西兰现任总理承认败选](https://www.baidu.com/s?wd=%E6%96%B0%E8%A5%BF%E5%85%B0%E7%8E%B0%E4%BB%BB%E6%80%BB%E7%90%86%E6%89%BF%E8%AE%A4%E8%B4%A5%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《命中注定我爱你》中的纪宝贝去世](https://www.baidu.com/s?wd=%E3%80%8A%E5%91%BD%E4%B8%AD%E6%B3%A8%E5%AE%9A%E6%88%91%E7%88%B1%E4%BD%A0%E3%80%8B%E4%B8%AD%E7%9A%84%E7%BA%AA%E5%AE%9D%E8%B4%9D%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李玟骨灰月底将下葬](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E9%AA%A8%E7%81%B0%E6%9C%88%E5%BA%95%E5%B0%86%E4%B8%8B%E8%91%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [苏锡常将设立经济特区？不实](https://www.baidu.com/s?wd=%E8%8B%8F%E9%94%A1%E5%B8%B8%E5%B0%86%E8%AE%BE%E7%AB%8B%E7%BB%8F%E6%B5%8E%E7%89%B9%E5%8C%BA%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
