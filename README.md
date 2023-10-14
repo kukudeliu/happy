@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 10:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 10:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [杨迪把吴昕拉黑了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E6%8A%8A%E5%90%B4%E6%98%95%E6%8B%89%E9%BB%91%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [孙海洋向寻亲家长道歉](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%90%91%E5%AF%BB%E4%BA%B2%E5%AE%B6%E9%95%BF%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [徐冬冬被压10年的剧播了](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%86%AC%E5%86%AC%E8%A2%AB%E5%8E%8B10%E5%B9%B4%E7%9A%84%E5%89%A7%E6%92%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [学生未按时到校班主任上门救下一家四口](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%9C%AA%E6%8C%89%E6%97%B6%E5%88%B0%E6%A0%A1%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%B8%8A%E9%97%A8%E6%95%91%E4%B8%8B%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [周也 名门贵女](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E5%90%8D%E9%97%A8%E8%B4%B5%E5%A5%B3&t=31&band_rank=9&Refer=top)<br />
+8. [周也 名门贵女](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E5%90%8D%E9%97%A8%E8%B4%B5%E5%A5%B3&t=31&band_rank=8&Refer=top)<br />
+9. [学生未按时到校班主任上门救下一家四口](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%9C%AA%E6%8C%89%E6%97%B6%E5%88%B0%E6%A0%A1%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%B8%8A%E9%97%A8%E6%95%91%E4%B8%8B%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
