@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 19:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 19:52:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [二哈迷路住进警局变成反诈汪](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%93%88%E8%BF%B7%E8%B7%AF%E4%BD%8F%E8%BF%9B%E8%AD%A6%E5%B1%80%E5%8F%98%E6%88%90%E5%8F%8D%E8%AF%88%E6%B1%AA%23&t=31&band_rank=2&Refer=top)<br />
 3. [青春华章](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%23&t=31&band_rank=3&Refer=top)<br />
 4. [社保缴15年和25年待遇差别](https://s.weibo.com/weibo?q=%23%E7%A4%BE%E4%BF%9D%E7%BC%B415%E5%B9%B4%E5%92%8C25%E5%B9%B4%E5%BE%85%E9%81%87%E5%B7%AE%E5%88%AB%23&t=31&band_rank=4&Refer=top)<br />
-5. [男子误喝防冻液血液成胶冻状离世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%96%9D%E9%98%B2%E5%86%BB%E6%B6%B2%E8%A1%80%E6%B6%B2%E6%88%90%E8%83%B6%E5%86%BB%E7%8A%B6%E7%A6%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
-6. [以军一次打死打伤7名记者](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E4%B8%80%E6%AC%A1%E6%89%93%E6%AD%BB%E6%89%93%E4%BC%A47%E5%90%8D%E8%AE%B0%E8%80%85%23&t=31&band_rank=6&Refer=top)<br />
+5. [赶去救人的航班上有人突然需要下机](https://s.weibo.com/weibo?q=%23%E8%B5%B6%E5%8E%BB%E6%95%91%E4%BA%BA%E7%9A%84%E8%88%AA%E7%8F%AD%E4%B8%8A%E6%9C%89%E4%BA%BA%E7%AA%81%E7%84%B6%E9%9C%80%E8%A6%81%E4%B8%8B%E6%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
+6. [男子误喝防冻液血液成胶冻状离世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%96%9D%E9%98%B2%E5%86%BB%E6%B6%B2%E8%A1%80%E6%B6%B2%E6%88%90%E8%83%B6%E5%86%BB%E7%8A%B6%E7%A6%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [广州一妈妈带女儿赴港实现冰雪奇缘梦](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%A6%88%E5%A6%88%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%B5%B4%E6%B8%AF%E5%AE%9E%E7%8E%B0%E5%86%B0%E9%9B%AA%E5%A5%87%E7%BC%98%E6%A2%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [原来鞋底磨损不均是正常的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%9E%8B%E5%BA%95%E7%A3%A8%E6%8D%9F%E4%B8%8D%E5%9D%87%E6%98%AF%E6%AD%A3%E5%B8%B8%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [炸糖糕](https://s.weibo.com/weibo?q=%E7%82%B8%E7%B3%96%E7%B3%95&t=31&band_rank=9&Refer=top)<br />
+8. [以军一次打死打伤7名记者](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E4%B8%80%E6%AC%A1%E6%89%93%E6%AD%BB%E6%89%93%E4%BC%A47%E5%90%8D%E8%AE%B0%E8%80%85%23&t=31&band_rank=8&Refer=top)<br />
+9. [原来鞋底磨损不均是正常的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%9E%8B%E5%BA%95%E7%A3%A8%E6%8D%9F%E4%B8%8D%E5%9D%87%E6%98%AF%E6%AD%A3%E5%B8%B8%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
