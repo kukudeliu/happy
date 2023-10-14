@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 18:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 18:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周杰伦知道王冰冰用他点奶茶吗](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%9F%A5%E9%81%93%E7%8E%8B%E5%86%B0%E5%86%B0%E7%94%A8%E4%BB%96%E7%82%B9%E5%A5%B6%E8%8C%B6%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [孙女得知聊天框是置顶时爷爷已病逝](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%A5%B3%E5%BE%97%E7%9F%A5%E8%81%8A%E5%A4%A9%E6%A1%86%E6%98%AF%E7%BD%AE%E9%A1%B6%E6%97%B6%E7%88%B7%E7%88%B7%E5%B7%B2%E7%97%85%E9%80%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [男子误喝防冻液血液成胶冻状离世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%96%9D%E9%98%B2%E5%86%BB%E6%B6%B2%E8%A1%80%E6%B6%B2%E6%88%90%E8%83%B6%E5%86%BB%E7%8A%B6%E7%A6%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [以色列6天投6000枚炸弹](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%976%E5%A4%A9%E6%8A%956000%E6%9E%9A%E7%82%B8%E5%BC%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [以军一次打死打伤7名记者](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E4%B8%80%E6%AC%A1%E6%89%93%E6%AD%BB%E6%89%93%E4%BC%A47%E5%90%8D%E8%AE%B0%E8%80%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
