@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 18:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 18:07:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [陈奕迅澳门演唱会被要求说国语](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AF%B4%E5%9B%BD%E8%AF%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [广州一妈妈带女儿赴港实现冰雪奇缘梦](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%A6%88%E5%A6%88%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%B5%B4%E6%B8%AF%E5%AE%9E%E7%8E%B0%E5%86%B0%E9%9B%AA%E5%A5%87%E7%BC%98%E6%A2%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [周杰伦知道王冰冰用他点奶茶吗](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%9F%A5%E9%81%93%E7%8E%8B%E5%86%B0%E5%86%B0%E7%94%A8%E4%BB%96%E7%82%B9%E5%A5%B6%E8%8C%B6%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [致敬不穿警服的警察](https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%95%AC%E4%B8%8D%E7%A9%BF%E8%AD%A6%E6%9C%8D%E7%9A%84%E8%AD%A6%E5%AF%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [孙女得知聊天框是置顶时爷爷已病逝](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%A5%B3%E5%BE%97%E7%9F%A5%E8%81%8A%E5%A4%A9%E6%A1%86%E6%98%AF%E7%BD%AE%E9%A1%B6%E6%97%B6%E7%88%B7%E7%88%B7%E5%B7%B2%E7%97%85%E9%80%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子误喝防冻液血液成胶冻状离世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%96%9D%E9%98%B2%E5%86%BB%E6%B6%B2%E8%A1%80%E6%B6%B2%E6%88%90%E8%83%B6%E5%86%BB%E7%8A%B6%E7%A6%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+7. [孙女得知聊天框是置顶时爷爷已病逝](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%A5%B3%E5%BE%97%E7%9F%A5%E8%81%8A%E5%A4%A9%E6%A1%86%E6%98%AF%E7%BD%AE%E9%A1%B6%E6%97%B6%E7%88%B7%E7%88%B7%E5%B7%B2%E7%97%85%E9%80%9D%23&t=31&band_rank=7&Refer=top)<br />
+8. [男子误喝防冻液血液成胶冻状离世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%96%9D%E9%98%B2%E5%86%BB%E6%B6%B2%E8%A1%80%E6%B6%B2%E6%88%90%E8%83%B6%E5%86%BB%E7%8A%B6%E7%A6%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [以色列6天投6000枚炸弹](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%976%E5%A4%A9%E6%8A%956000%E6%9E%9A%E7%82%B8%E5%BC%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
