@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 16:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 16:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国家公务员局对考生发布提醒](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%8A%A1%E5%91%98%E5%B1%80%E5%AF%B9%E8%80%83%E7%94%9F%E5%8F%91%E5%B8%83%E6%8F%90%E9%86%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [美国要求以色列推迟地面进攻](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A6%81%E6%B1%82%E4%BB%A5%E8%89%B2%E5%88%97%E6%8E%A8%E8%BF%9F%E5%9C%B0%E9%9D%A2%E8%BF%9B%E6%94%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [幼儿园为兔子办婚礼请小朋友吃大席](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%B8%BA%E5%85%94%E5%AD%90%E5%8A%9E%E5%A9%9A%E7%A4%BC%E8%AF%B7%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%90%83%E5%A4%A7%E5%B8%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [奶奶出殡前一天](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%87%BA%E6%AE%A1%E5%89%8D%E4%B8%80%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [杨迪把吴昕拉黑了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E6%8A%8A%E5%90%B4%E6%98%95%E6%8B%89%E9%BB%91%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
