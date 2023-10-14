@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 15:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-14 15:12:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [直升机迫降稻田引村民围观](https://www.baidu.com/s?wd=%E7%9B%B4%E5%8D%87%E6%9C%BA%E8%BF%AB%E9%99%8D%E7%A8%BB%E7%94%B0%E5%BC%95%E6%9D%91%E6%B0%91%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [游客天坑内打排球遇丁达尔效应](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%A4%A9%E5%9D%91%E5%86%85%E6%89%93%E6%8E%92%E7%90%83%E9%81%87%E4%B8%81%E8%BE%BE%E5%B0%94%E6%95%88%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [金价走势一波三折 如何有效避险](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B5%B0%E5%8A%BF%E4%B8%80%E6%B3%A2%E4%B8%89%E6%8A%98+%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E9%81%BF%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国女游客在厄瓜多尔雪山坠亡](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E9%9B%AA%E5%B1%B1%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩国执政党宣布领导层集体辞职](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%89%A7%E6%94%BF%E5%85%9A%E5%AE%A3%E5%B8%83%E9%A2%86%E5%AF%BC%E5%B1%82%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼和浩特一高校发生投毒案？谣言](https://www.baidu.com/s?wd=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E4%B8%80%E9%AB%98%E6%A0%A1%E5%8F%91%E7%94%9F%E6%8A%95%E6%AF%92%E6%A1%88%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [直升机迫降稻田引村民围观](https://www.baidu.com/s?wd=%E7%9B%B4%E5%8D%87%E6%9C%BA%E8%BF%AB%E9%99%8D%E7%A8%BB%E7%94%B0%E5%BC%95%E6%9D%91%E6%B0%91%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [游客天坑内打排球遇丁达尔效应](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%A4%A9%E5%9D%91%E5%86%85%E6%89%93%E6%8E%92%E7%90%83%E9%81%87%E4%B8%81%E8%BE%BE%E5%B0%94%E6%95%88%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [金价走势一波三折 如何有效避险](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B5%B0%E5%8A%BF%E4%B8%80%E6%B3%A2%E4%B8%89%E6%8A%98+%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E9%81%BF%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国女游客在厄瓜多尔雪山坠亡](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E9%9B%AA%E5%B1%B1%E5%9D%A0%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩国执政党宣布领导层集体辞职](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%89%A7%E6%94%BF%E5%85%9A%E5%AE%A3%E5%B8%83%E9%A2%86%E5%AF%BC%E5%B1%82%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼和浩特一高校发生投毒案？谣言](https://www.baidu.com/s?wd=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E4%B8%80%E9%AB%98%E6%A0%A1%E5%8F%91%E7%94%9F%E6%8A%95%E6%AF%92%E6%A1%88%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
