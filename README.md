@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 11:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 11:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [巴以冲突已致中国公民4死6伤2失联](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%B7%B2%E8%87%B4%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%914%E6%AD%BB6%E4%BC%A42%E5%A4%B1%E8%81%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [梁朝伟首次提名金鸡奖](https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%9C%9D%E4%BC%9F%E9%A6%96%E6%AC%A1%E6%8F%90%E5%90%8D%E9%87%91%E9%B8%A1%E5%A5%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [这什么节目上来就脱衣服](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BB%80%E4%B9%88%E8%8A%82%E7%9B%AE%E4%B8%8A%E6%9D%A5%E5%B0%B1%E8%84%B1%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [徐娇十岁时的觉悟](https://s.weibo.com/weibo?q=%E5%BE%90%E5%A8%87%E5%8D%81%E5%B2%81%E6%97%B6%E7%9A%84%E8%A7%89%E6%82%9F&t=31&band_rank=9&Refer=top)<br />
+9. [瑞幸要和dior联名了吗](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E8%A6%81%E5%92%8Cdior%E8%81%94%E5%90%8D%E4%BA%86%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
