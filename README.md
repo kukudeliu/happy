@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 22:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 23:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [5000万买的豪宅总能闻到邻居烧菜味](https://s.weibo.com/weibo?q=%235000%E4%B8%87%E4%B9%B0%E7%9A%84%E8%B1%AA%E5%AE%85%E6%80%BB%E8%83%BD%E9%97%BB%E5%88%B0%E9%82%BB%E5%B1%85%E7%83%A7%E8%8F%9C%E5%91%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [李玟骨灰将于10月底下葬](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E9%AA%A8%E7%81%B0%E5%B0%86%E4%BA%8E10%E6%9C%88%E5%BA%95%E4%B8%8B%E8%91%AC%23&t=31&band_rank=7&Refer=top)<br />
 8. [以方宣布断绝与联合国中东问题特使关系](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E6%96%B9%E5%AE%A3%E5%B8%83%E6%96%AD%E7%BB%9D%E4%B8%8E%E8%81%94%E5%90%88%E5%9B%BD%E4%B8%AD%E4%B8%9C%E9%97%AE%E9%A2%98%E7%89%B9%E4%BD%BF%E5%85%B3%E7%B3%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [普京回应美报告鼓吹准备与中俄同时开战](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%8A%A5%E5%91%8A%E9%BC%93%E5%90%B9%E5%87%86%E5%A4%87%E4%B8%8E%E4%B8%AD%E4%BF%84%E5%90%8C%E6%97%B6%E5%BC%80%E6%88%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [赵露思有你在首唱](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%9C%89%E4%BD%A0%E5%9C%A8%E9%A6%96%E5%94%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
