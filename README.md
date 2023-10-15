@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 14:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 14:28:01</h4></div>
 
 > 微博  
 
-1. [夏奶奶去世](https://s.weibo.com/weibo?q=%E5%A4%8F%E5%A5%B6%E5%A5%B6%E5%8E%BB%E4%B8%96&t=31&band_rank=1&Refer=top)<br />
-2. [李佳 牛](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%20%E7%89%9B&t=31&band_rank=2&Refer=top)<br />
+1. [李佳 牛](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%20%E7%89%9B&t=31&band_rank=1&Refer=top)<br />
+2. [夏奶奶去世](https://s.weibo.com/weibo?q=%E5%A4%8F%E5%A5%B6%E5%A5%B6%E5%8E%BB%E4%B8%96&t=31&band_rank=2&Refer=top)<br />
 3. [中国载人航天史上了不起的首次](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%BD%BD%E4%BA%BA%E8%88%AA%E5%A4%A9%E5%8F%B2%E4%B8%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E9%A6%96%E6%AC%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [向佐直播间情绪失控的原因](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E7%9B%B4%E6%92%AD%E9%97%B4%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=4&Refer=top)<br />
 5. [瑞幸要和dior联名了吗](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E8%A6%81%E5%92%8Cdior%E8%81%94%E5%90%8D%E4%BA%86%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
