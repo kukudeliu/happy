@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 21:09:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 21:10:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [乡村爱情13刘能饰演者赵明远去世](https://s.weibo.com/weibo?q=%23%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%8513%E5%88%98%E8%83%BD%E9%A5%B0%E6%BC%94%E8%80%85%E8%B5%B5%E6%98%8E%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [75岁老人攒18万退休金给自己买房](https://s.weibo.com/weibo?q=%2375%E5%B2%81%E8%80%81%E4%BA%BA%E6%94%9218%E4%B8%87%E9%80%80%E4%BC%91%E9%87%91%E7%BB%99%E8%87%AA%E5%B7%B1%E4%B9%B0%E6%88%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [4名小学生发现41年前曾灭绝的甲虫](https://s.weibo.com/weibo?q=%234%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B041%E5%B9%B4%E5%89%8D%E6%9B%BE%E7%81%AD%E7%BB%9D%E7%9A%84%E7%94%B2%E8%99%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [神隐](https://s.weibo.com/weibo?q=%E7%A5%9E%E9%9A%90&t=31&band_rank=8&Refer=top)<br />
-9. [王栎鑫儿子女儿三人共用一张脸](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E5%84%BF%E5%AD%90%E5%A5%B3%E5%84%BF%E4%B8%89%E4%BA%BA%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8%23&t=31&band_rank=9&Refer=top)<br />
+8. [王栎鑫儿子女儿三人共用一张脸](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E5%84%BF%E5%AD%90%E5%A5%B3%E5%84%BF%E4%B8%89%E4%BA%BA%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8%23&t=31&band_rank=8&Refer=top)<br />
+9. [神隐](https://s.weibo.com/weibo?q=%E7%A5%9E%E9%9A%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
