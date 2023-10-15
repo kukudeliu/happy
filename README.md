@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 19:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 19:15:01</h4></div>
 
 > 微博  
 
-1. [乡村爱情13刘能饰演者赵明远去世](https://s.weibo.com/weibo?q=%23%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%8513%E5%88%98%E8%83%BD%E9%A5%B0%E6%BC%94%E8%80%85%E8%B5%B5%E6%98%8E%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
+1. [去年我国结婚人数25至29岁最多](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%B9%B4%E6%88%91%E5%9B%BD%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B025%E8%87%B329%E5%B2%81%E6%9C%80%E5%A4%9A%23&t=31&band_rank=1&Refer=top)<br />
 2. [男子跑全马腿抽筋老人点穴三秒恢复](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B7%91%E5%85%A8%E9%A9%AC%E8%85%BF%E6%8A%BD%E7%AD%8B%E8%80%81%E4%BA%BA%E7%82%B9%E7%A9%B4%E4%B8%89%E7%A7%92%E6%81%A2%E5%A4%8D%23&t=31&band_rank=2&Refer=top)<br />
 3. [农民运动会丰收氛围拉满](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E4%BC%9A%E4%B8%B0%E6%94%B6%E6%B0%9B%E5%9B%B4%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
-4. [去年我国结婚人数25至29岁最多](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%B9%B4%E6%88%91%E5%9B%BD%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B025%E8%87%B329%E5%B2%81%E6%9C%80%E5%A4%9A%23&t=31&band_rank=4&Refer=top)<br />
+4. [乡村爱情13刘能饰演者赵明远去世](https://s.weibo.com/weibo?q=%23%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%8513%E5%88%98%E8%83%BD%E9%A5%B0%E6%BC%94%E8%80%85%E8%B5%B5%E6%98%8E%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子欲轻生被遛狗大哥死死拽住](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%AC%B2%E8%BD%BB%E7%94%9F%E8%A2%AB%E9%81%9B%E7%8B%97%E5%A4%A7%E5%93%A5%E6%AD%BB%E6%AD%BB%E6%8B%BD%E4%BD%8F%23&t=31&band_rank=5&Refer=top)<br />
 6. [以方宣布断绝与联合国中东问题特使关系](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E6%96%B9%E5%AE%A3%E5%B8%83%E6%96%AD%E7%BB%9D%E4%B8%8E%E8%81%94%E5%90%88%E5%9B%BD%E4%B8%AD%E4%B8%9C%E9%97%AE%E9%A2%98%E7%89%B9%E4%BD%BF%E5%85%B3%E7%B3%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [空调安装师傅从天而降救回孩子](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E5%B8%88%E5%82%85%E4%BB%8E%E5%A4%A9%E8%80%8C%E9%99%8D%E6%95%91%E5%9B%9E%E5%AD%A9%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
