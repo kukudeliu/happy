@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 19:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 19:41:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [中国中免：公司董事长李刚去世](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E5%85%8D%EF%BC%9A%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF%E6%9D%8E%E5%88%9A%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体：足协领导班子换届仅孙雯留任](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%B6%B3%E5%8D%8F%E9%A2%86%E5%AF%BC%E7%8F%AD%E5%AD%90%E6%8D%A2%E5%B1%8A%E4%BB%85%E5%AD%99%E9%9B%AF%E7%95%99%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [温州老板寻人：23年前我欠你20万](https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E%E8%80%81%E6%9D%BF%E5%AF%BB%E4%BA%BA%EF%BC%9A23%E5%B9%B4%E5%89%8D%E6%88%91%E6%AC%A0%E4%BD%A020%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子自捆双脚从40米高大桥投河](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E6%8D%86%E5%8F%8C%E8%84%9A%E4%BB%8E40%E7%B1%B3%E9%AB%98%E5%A4%A7%E6%A1%A5%E6%8A%95%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [平遥影展观众大喊退钱](https://www.baidu.com/s?wd=%E5%B9%B3%E9%81%A5%E5%BD%B1%E5%B1%95%E8%A7%82%E4%BC%97%E5%A4%A7%E5%96%8A%E9%80%80%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [银行可以兑换“π币”？假的](https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E5%8F%AF%E4%BB%A5%E5%85%91%E6%8D%A2%E2%80%9C%CF%80%E5%B8%81%E2%80%9D%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [中国中免：公司董事长李刚去世](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E5%85%8D%EF%BC%9A%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF%E6%9D%8E%E5%88%9A%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体：足协领导班子换届仅孙雯留任](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%B6%B3%E5%8D%8F%E9%A2%86%E5%AF%BC%E7%8F%AD%E5%AD%90%E6%8D%A2%E5%B1%8A%E4%BB%85%E5%AD%99%E9%9B%AF%E7%95%99%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [温州老板寻人：23年前我欠你20万](https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E%E8%80%81%E6%9D%BF%E5%AF%BB%E4%BA%BA%EF%BC%9A23%E5%B9%B4%E5%89%8D%E6%88%91%E6%AC%A0%E4%BD%A020%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子自捆双脚从40米高大桥投河](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E6%8D%86%E5%8F%8C%E8%84%9A%E4%BB%8E40%E7%B1%B3%E9%AB%98%E5%A4%A7%E6%A1%A5%E6%8A%95%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [平遥影展观众大喊退钱](https://www.baidu.com/s?wd=%E5%B9%B3%E9%81%A5%E5%BD%B1%E5%B1%95%E8%A7%82%E4%BC%97%E5%A4%A7%E5%96%8A%E9%80%80%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [银行可以兑换“π币”？假的](https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E5%8F%AF%E4%BB%A5%E5%85%91%E6%8D%A2%E2%80%9C%CF%80%E5%B8%81%E2%80%9D%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
