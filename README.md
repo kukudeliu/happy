@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 07:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 07:43:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [15号赢麻了 倒带赢麻了](https://s.weibo.com/weibo?q=15%E5%8F%B7%E8%B5%A2%E9%BA%BB%E4%BA%86%20%E5%80%92%E5%B8%A6%E8%B5%A2%E9%BA%BB%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [为什么领导的头像都是风景照](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%A2%86%E5%AF%BC%E7%9A%84%E5%A4%B4%E5%83%8F%E9%83%BD%E6%98%AF%E9%A3%8E%E6%99%AF%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [官方回应家长质疑拼音o读成喔](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%AE%B6%E9%95%BF%E8%B4%A8%E7%96%91%E6%8B%BC%E9%9F%B3o%E8%AF%BB%E6%88%90%E5%96%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [屠呦呦以身试药实验191次终获成功](https://s.weibo.com/weibo?q=%23%E5%B1%A0%E5%91%A6%E5%91%A6%E4%BB%A5%E8%BA%AB%E8%AF%95%E8%8D%AF%E5%AE%9E%E9%AA%8C191%E6%AC%A1%E7%BB%88%E8%8E%B7%E6%88%90%E5%8A%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [岳云鹏没认出来素颜的孟子义](https://s.weibo.com/weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E6%B2%A1%E8%AE%A4%E5%87%BA%E6%9D%A5%E7%B4%A0%E9%A2%9C%E7%9A%84%E5%AD%9F%E5%AD%90%E4%B9%89%23&t=31&band_rank=9&Refer=top)<br />
+8. [岳云鹏没认出来素颜的孟子义](https://s.weibo.com/weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E6%B2%A1%E8%AE%A4%E5%87%BA%E6%9D%A5%E7%B4%A0%E9%A2%9C%E7%9A%84%E5%AD%9F%E5%AD%90%E4%B9%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [屠呦呦以身试药实验191次终获成功](https://s.weibo.com/weibo?q=%23%E5%B1%A0%E5%91%A6%E5%91%A6%E4%BB%A5%E8%BA%AB%E8%AF%95%E8%8D%AF%E5%AE%9E%E9%AA%8C191%E6%AC%A1%E7%BB%88%E8%8E%B7%E6%88%90%E5%8A%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
