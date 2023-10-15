@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 11:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 11:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [巴以冲突已致中国公民4死6伤2失联](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%B7%B2%E8%87%B4%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%914%E6%AD%BB6%E4%BC%A42%E5%A4%B1%E8%81%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨利伟飞天居然是20年前了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%88%A9%E4%BC%9F%E9%A3%9E%E5%A4%A9%E5%B1%85%E7%84%B6%E6%98%AF20%E5%B9%B4%E5%89%8D%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [关智斌 钢管舞](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%BA%E6%96%8C%20%E9%92%A2%E7%AE%A1%E8%88%9E&t=31&band_rank=8&Refer=top)<br />
-9. [这什么节目上来就脱衣服](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BB%80%E4%B9%88%E8%8A%82%E7%9B%AE%E4%B8%8A%E6%9D%A5%E5%B0%B1%E8%84%B1%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [乌尔善 金鸡奖最佳导演提名](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%20%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94%E6%8F%90%E5%90%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
