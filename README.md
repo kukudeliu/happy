@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 14:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 14:48:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [医生提醒警惕悲秋综合征](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E8%AD%A6%E6%83%95%E6%82%B2%E7%A7%8B%E7%BB%BC%E5%90%88%E5%BE%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让共同发展繁荣之路越走越宽广](https://www.baidu.com/s?wd=%E8%AE%A9%E5%85%B1%E5%90%8C%E5%8F%91%E5%B1%95%E7%B9%81%E8%8D%A3%E4%B9%8B%E8%B7%AF%E8%B6%8A%E8%B5%B0%E8%B6%8A%E5%AE%BD%E5%B9%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [金鸡奖 六亲不认只认作品](https://www.baidu.com/s?wd=%E9%87%91%E9%B8%A1%E5%A5%96+%E5%85%AD%E4%BA%B2%E4%B8%8D%E8%AE%A4%E5%8F%AA%E8%AE%A4%E4%BD%9C%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [国乒深受“饭圈文化”之害](https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E6%B7%B1%E5%8F%97%E2%80%9C%E9%A5%AD%E5%9C%88%E6%96%87%E5%8C%96%E2%80%9D%E4%B9%8B%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子自捆双脚从桥上投河 救援队回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E6%8D%86%E5%8F%8C%E8%84%9A%E4%BB%8E%E6%A1%A5%E4%B8%8A%E6%8A%95%E6%B2%B3+%E6%95%91%E6%8F%B4%E9%98%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“杀猪盘”短信沦为网友发疯工具](https://www.baidu.com/s?wd=%E2%80%9C%E6%9D%80%E7%8C%AA%E7%9B%98%E2%80%9D%E7%9F%AD%E4%BF%A1%E6%B2%A6%E4%B8%BA%E7%BD%91%E5%8F%8B%E5%8F%91%E7%96%AF%E5%B7%A5%E5%85%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [谢震业回应网友夸他会点歌](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E5%A4%B8%E4%BB%96%E4%BC%9A%E7%82%B9%E6%AD%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国乒深受“饭圈文化”之害](https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E6%B7%B1%E5%8F%97%E2%80%9C%E9%A5%AD%E5%9C%88%E6%96%87%E5%8C%96%E2%80%9D%E4%B9%8B%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子自捆双脚从桥上投河 救援队回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E6%8D%86%E5%8F%8C%E8%84%9A%E4%BB%8E%E6%A1%A5%E4%B8%8A%E6%8A%95%E6%B2%B3+%E6%95%91%E6%8F%B4%E9%98%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [客户10万存款被转购理财？](https://www.baidu.com/s?wd=%E5%AE%A2%E6%88%B710%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E8%BD%AC%E8%B4%AD%E7%90%86%E8%B4%A2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [医生提醒警惕悲秋综合征](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E8%AD%A6%E6%83%95%E6%82%B2%E7%A7%8B%E7%BB%BC%E5%90%88%E5%BE%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让共同发展繁荣之路越走越宽广](https://www.baidu.com/s?wd=%E8%AE%A9%E5%85%B1%E5%90%8C%E5%8F%91%E5%B1%95%E7%B9%81%E8%8D%A3%E4%B9%8B%E8%B7%AF%E8%B6%8A%E8%B5%B0%E8%B6%8A%E5%AE%BD%E5%B9%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [金鸡奖 六亲不认只认作品](https://www.baidu.com/s?wd=%E9%87%91%E9%B8%A1%E5%A5%96+%E5%85%AD%E4%BA%B2%E4%B8%8D%E8%AE%A4%E5%8F%AA%E8%AE%A4%E4%BD%9C%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [国乒深受“饭圈文化”之害](https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E6%B7%B1%E5%8F%97%E2%80%9C%E9%A5%AD%E5%9C%88%E6%96%87%E5%8C%96%E2%80%9D%E4%B9%8B%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子自捆双脚从桥上投河 救援队回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E6%8D%86%E5%8F%8C%E8%84%9A%E4%BB%8E%E6%A1%A5%E4%B8%8A%E6%8A%95%E6%B2%B3+%E6%95%91%E6%8F%B4%E9%98%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“杀猪盘”短信沦为网友发疯工具](https://www.baidu.com/s?wd=%E2%80%9C%E6%9D%80%E7%8C%AA%E7%9B%98%E2%80%9D%E7%9F%AD%E4%BF%A1%E6%B2%A6%E4%B8%BA%E7%BD%91%E5%8F%8B%E5%8F%91%E7%96%AF%E5%B7%A5%E5%85%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [谢震业回应网友夸他会点歌](https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%87%E4%B8%9A%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E5%A4%B8%E4%BB%96%E4%BC%9A%E7%82%B9%E6%AD%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国乒深受“饭圈文化”之害](https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E6%B7%B1%E5%8F%97%E2%80%9C%E9%A5%AD%E5%9C%88%E6%96%87%E5%8C%96%E2%80%9D%E4%B9%8B%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子自捆双脚从桥上投河 救援队回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E6%8D%86%E5%8F%8C%E8%84%9A%E4%BB%8E%E6%A1%A5%E4%B8%8A%E6%8A%95%E6%B2%B3+%E6%95%91%E6%8F%B4%E9%98%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [客户10万存款被转购理财？](https://www.baidu.com/s?wd=%E5%AE%A2%E6%88%B710%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E8%BD%AC%E8%B4%AD%E7%90%86%E8%B4%A2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
