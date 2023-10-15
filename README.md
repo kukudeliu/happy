@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 16:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 16:20:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [农民运动会丰收氛围拉满](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E4%BC%9A%E4%B8%B0%E6%94%B6%E6%B0%9B%E5%9B%B4%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [夏奶奶去世](https://s.weibo.com/weibo?q=%E5%A4%8F%E5%A5%B6%E5%A5%B6%E5%8E%BB%E4%B8%96&t=31&band_rank=4&Refer=top)<br />
 5. [贾玲王牌8请假条](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E7%8E%8B%E7%89%8C8%E8%AF%B7%E5%81%87%E6%9D%A1%23&t=31&band_rank=5&Refer=top)<br />
-6. [向佐直播间情绪失控的原因](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E7%9B%B4%E6%92%AD%E9%97%B4%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=6&Refer=top)<br />
-7. [李佳 牛](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%20%E7%89%9B&t=31&band_rank=7&Refer=top)<br />
+6. [李佳 牛](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%20%E7%89%9B&t=31&band_rank=6&Refer=top)<br />
+7. [向佐直播间情绪失控的原因](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E7%9B%B4%E6%92%AD%E9%97%B4%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
 8. [许昕](https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%95&t=31&band_rank=8&Refer=top)<br />
 9. [瑞幸回应与迪奥联名](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%9B%9E%E5%BA%94%E4%B8%8E%E8%BF%AA%E5%A5%A5%E8%81%94%E5%90%8D%23&t=31&band_rank=9&Refer=top)<br />
 
