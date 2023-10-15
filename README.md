@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 03:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 03:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以方宣布断绝与联合国中东问题特使关系](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E6%96%B9%E5%AE%A3%E5%B8%83%E6%96%AD%E7%BB%9D%E4%B8%8E%E8%81%94%E5%90%88%E5%9B%BD%E4%B8%AD%E4%B8%9C%E9%97%AE%E9%A2%98%E7%89%B9%E4%BD%BF%E5%85%B3%E7%B3%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [周杰伦唱了倒带](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%94%B1%E4%BA%86%E5%80%92%E5%B8%A6&t=31&band_rank=7&Refer=top)<br />
 8. [普京回应美报告鼓吹准备与中俄同时开战](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%8A%A5%E5%91%8A%E9%BC%93%E5%90%B9%E5%87%86%E5%A4%87%E4%B8%8E%E4%B8%AD%E4%BF%84%E5%90%8C%E6%97%B6%E5%BC%80%E6%88%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [对体育饭圈化必须亮红牌](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E4%BD%93%E8%82%B2%E9%A5%AD%E5%9C%88%E5%8C%96%E5%BF%85%E9%A1%BB%E4%BA%AE%E7%BA%A2%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [官方回应家长质疑拼音o读成喔](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%AE%B6%E9%95%BF%E8%B4%A8%E7%96%91%E6%8B%BC%E9%9F%B3o%E8%AF%BB%E6%88%90%E5%96%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
