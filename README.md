@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 19:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 19:01:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [《中国即将迁都南阳》系伪书](https://www.baidu.com/s?wd=%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%8D%B3%E5%B0%86%E8%BF%81%E9%83%BD%E5%8D%97%E9%98%B3%E3%80%8B%E7%B3%BB%E4%BC%AA%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“一带一路”倡议硕果累累](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E2%80%9D%E5%80%A1%E8%AE%AE%E7%A1%95%E6%9E%9C%E7%B4%AF%E7%B4%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国中免：公司董事长李刚去世](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E5%85%8D%EF%BC%9A%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF%E6%9D%8E%E5%88%9A%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [以色列发言人称目的是铲除](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E8%A8%80%E4%BA%BA%E7%A7%B0%E7%9B%AE%E7%9A%84%E6%98%AF%E9%93%B2%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [BBC总部被亲巴勒斯坦组织泼红漆](https://www.baidu.com/s?wd=BBC%E6%80%BB%E9%83%A8%E8%A2%AB%E4%BA%B2%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%BB%84%E7%BB%87%E6%B3%BC%E7%BA%A2%E6%BC%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国公民及直系亲属将撤离以色列](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%85%AC%E6%B0%91%E5%8F%8A%E7%9B%B4%E7%B3%BB%E4%BA%B2%E5%B1%9E%E5%B0%86%E6%92%A4%E7%A6%BB%E4%BB%A5%E8%89%B2%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子自捆双脚从40米高大桥投河](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E6%8D%86%E5%8F%8C%E8%84%9A%E4%BB%8E40%E7%B1%B3%E9%AB%98%E5%A4%A7%E6%A1%A5%E6%8A%95%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [以色列发言人称目的是铲除](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E8%A8%80%E4%BA%BA%E7%A7%B0%E7%9B%AE%E7%9A%84%E6%98%AF%E9%93%B2%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [BBC总部被亲巴勒斯坦组织泼红漆](https://www.baidu.com/s?wd=BBC%E6%80%BB%E9%83%A8%E8%A2%AB%E4%BA%B2%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%BB%84%E7%BB%87%E6%B3%BC%E7%BA%A2%E6%BC%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [银行可以兑换“π币”？假的](https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E5%8F%AF%E4%BB%A5%E5%85%91%E6%8D%A2%E2%80%9C%CF%80%E5%B8%81%E2%80%9D%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [《中国即将迁都南阳》系伪书](https://www.baidu.com/s?wd=%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%8D%B3%E5%B0%86%E8%BF%81%E9%83%BD%E5%8D%97%E9%98%B3%E3%80%8B%E7%B3%BB%E4%BC%AA%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“一带一路”倡议硕果累累](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E2%80%9D%E5%80%A1%E8%AE%AE%E7%A1%95%E6%9E%9C%E7%B4%AF%E7%B4%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国中免：公司董事长李刚去世](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E5%85%8D%EF%BC%9A%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF%E6%9D%8E%E5%88%9A%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [以色列发言人称目的是铲除](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E8%A8%80%E4%BA%BA%E7%A7%B0%E7%9B%AE%E7%9A%84%E6%98%AF%E9%93%B2%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [BBC总部被亲巴勒斯坦组织泼红漆](https://www.baidu.com/s?wd=BBC%E6%80%BB%E9%83%A8%E8%A2%AB%E4%BA%B2%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%BB%84%E7%BB%87%E6%B3%BC%E7%BA%A2%E6%BC%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国公民及直系亲属将撤离以色列](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%85%AC%E6%B0%91%E5%8F%8A%E7%9B%B4%E7%B3%BB%E4%BA%B2%E5%B1%9E%E5%B0%86%E6%92%A4%E7%A6%BB%E4%BB%A5%E8%89%B2%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子自捆双脚从40米高大桥投河](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E6%8D%86%E5%8F%8C%E8%84%9A%E4%BB%8E40%E7%B1%B3%E9%AB%98%E5%A4%A7%E6%A1%A5%E6%8A%95%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [以色列发言人称目的是铲除](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E8%A8%80%E4%BA%BA%E7%A7%B0%E7%9B%AE%E7%9A%84%E6%98%AF%E9%93%B2%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [BBC总部被亲巴勒斯坦组织泼红漆](https://www.baidu.com/s?wd=BBC%E6%80%BB%E9%83%A8%E8%A2%AB%E4%BA%B2%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%BB%84%E7%BB%87%E6%B3%BC%E7%BA%A2%E6%BC%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [银行可以兑换“π币”？假的](https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E5%8F%AF%E4%BB%A5%E5%85%91%E6%8D%A2%E2%80%9C%CF%80%E5%B8%81%E2%80%9D%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
