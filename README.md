@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 22:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 22:16:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [七岁儿子在加拿大的中文作业](https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%B2%81%E5%84%BF%E5%AD%90%E5%9C%A8%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%9A%84%E4%B8%AD%E6%96%87%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [普京回应美报告鼓吹准备与中俄同时开战](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%8A%A5%E5%91%8A%E9%BC%93%E5%90%B9%E5%87%86%E5%A4%87%E4%B8%8E%E4%B8%AD%E4%BF%84%E5%90%8C%E6%97%B6%E5%BC%80%E6%88%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [4名小学生发现41年前曾灭绝的甲虫](https://s.weibo.com/weibo?q=%234%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B041%E5%B9%B4%E5%89%8D%E6%9B%BE%E7%81%AD%E7%BB%9D%E7%9A%84%E7%94%B2%E8%99%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [乡村爱情13刘能饰演者赵明远去世](https://s.weibo.com/weibo?q=%23%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%8513%E5%88%98%E8%83%BD%E9%A5%B0%E6%BC%94%E8%80%85%E8%B5%B5%E6%98%8E%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [周杰伦唱了倒带](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%94%B1%E4%BA%86%E5%80%92%E5%B8%A6&t=31&band_rank=9&Refer=top)<br />
+8. [周杰伦唱了倒带](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%94%B1%E4%BA%86%E5%80%92%E5%B8%A6&t=31&band_rank=8&Refer=top)<br />
+9. [乡村爱情13刘能饰演者赵明远去世](https://s.weibo.com/weibo?q=%23%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%8513%E5%88%98%E8%83%BD%E9%A5%B0%E6%BC%94%E8%80%85%E8%B5%B5%E6%98%8E%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
