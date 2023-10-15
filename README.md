@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 13:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 13:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [金鸡奖 掉提名的大热门](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%20%E6%8E%89%E6%8F%90%E5%90%8D%E7%9A%84%E5%A4%A7%E7%83%AD%E9%97%A8&t=31&band_rank=6&Refer=top)<br />
 7. [K5133次旅客列车运行中脱轨](https://s.weibo.com/weibo?q=%23K5133%E6%AC%A1%E6%97%85%E5%AE%A2%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E4%B8%AD%E8%84%B1%E8%BD%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [是姐狗的姐也是姐狗的狗](https://s.weibo.com/weibo?q=%23%E6%98%AF%E5%A7%90%E7%8B%97%E7%9A%84%E5%A7%90%E4%B9%9F%E6%98%AF%E5%A7%90%E7%8B%97%E7%9A%84%E7%8B%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [金鸡奖提名名单](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95&t=31&band_rank=9&Refer=top)<br />
+9. [王牌对王牌](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
