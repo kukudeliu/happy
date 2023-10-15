@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 12:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 12:12:02</h4></div>
 
 > 微博  
 
-1. [K5133次旅客列车运行中脱轨](https://s.weibo.com/weibo?q=%23K5133%E6%AC%A1%E6%97%85%E5%AE%A2%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E4%B8%AD%E8%84%B1%E8%BD%A8%23&t=31&band_rank=1&Refer=top)<br />
-2. [瑞幸要和dior联名了吗](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E8%A6%81%E5%92%8Cdior%E8%81%94%E5%90%8D%E4%BA%86%E5%90%97%23&t=31&band_rank=2&Refer=top)<br />
+1. [瑞幸要和dior联名了吗](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E8%A6%81%E5%92%8Cdior%E8%81%94%E5%90%8D%E4%BA%86%E5%90%97%23&t=31&band_rank=1&Refer=top)<br />
+2. [K5133次旅客列车运行中脱轨](https://s.weibo.com/weibo?q=%23K5133%E6%AC%A1%E6%97%85%E5%AE%A2%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E4%B8%AD%E8%84%B1%E8%BD%A8%23&t=31&band_rank=2&Refer=top)<br />
 3. [一带一路铺就共同发展繁荣之路](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E9%93%BA%E5%B0%B1%E5%85%B1%E5%90%8C%E5%8F%91%E5%B1%95%E7%B9%81%E8%8D%A3%E4%B9%8B%E8%B7%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [向佐直播间情绪失控的原因](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E7%9B%B4%E6%92%AD%E9%97%B4%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=4&Refer=top)<br />
 5. [夏奶奶去世](https://s.weibo.com/weibo?q=%E5%A4%8F%E5%A5%B6%E5%A5%B6%E5%8E%BB%E4%B8%96&t=31&band_rank=5&Refer=top)<br />
