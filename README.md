@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 23:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 23:35:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [15号赢麻了 倒带赢麻了](https://s.weibo.com/weibo?q=15%E5%8F%B7%E8%B5%A2%E9%BA%BB%E4%BA%86%20%E5%80%92%E5%B8%A6%E8%B5%A2%E9%BA%BB%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [米村拌饭](https://s.weibo.com/weibo?q=%E7%B1%B3%E6%9D%91%E6%8B%8C%E9%A5%AD&t=31&band_rank=6&Refer=top)<br />
 7. [以方宣布断绝与联合国中东问题特使关系](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E6%96%B9%E5%AE%A3%E5%B8%83%E6%96%AD%E7%BB%9D%E4%B8%8E%E8%81%94%E5%90%88%E5%9B%BD%E4%B8%AD%E4%B8%9C%E9%97%AE%E9%A2%98%E7%89%B9%E4%BD%BF%E5%85%B3%E7%B3%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [5000万买的豪宅总能闻到邻居烧菜味](https://s.weibo.com/weibo?q=%235000%E4%B8%87%E4%B9%B0%E7%9A%84%E8%B1%AA%E5%AE%85%E6%80%BB%E8%83%BD%E9%97%BB%E5%88%B0%E9%82%BB%E5%B1%85%E7%83%A7%E8%8F%9C%E5%91%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [李玟骨灰将于10月底下葬](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E9%AA%A8%E7%81%B0%E5%B0%86%E4%BA%8E10%E6%9C%88%E5%BA%95%E4%B8%8B%E8%91%AC%23&t=31&band_rank=9&Refer=top)<br />
+8. [官方回应家长质疑拼音o读成喔](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%AE%B6%E9%95%BF%E8%B4%A8%E7%96%91%E6%8B%BC%E9%9F%B3o%E8%AF%BB%E6%88%90%E5%96%94%23&t=31&band_rank=8&Refer=top)<br />
+9. [5000万买的豪宅总能闻到邻居烧菜味](https://s.weibo.com/weibo?q=%235000%E4%B8%87%E4%B9%B0%E7%9A%84%E8%B1%AA%E5%AE%85%E6%80%BB%E8%83%BD%E9%97%BB%E5%88%B0%E9%82%BB%E5%B1%85%E7%83%A7%E8%8F%9C%E5%91%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
