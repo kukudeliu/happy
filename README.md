@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 15:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 16:00:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [向佐直播间情绪失控的原因](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E7%9B%B4%E6%92%AD%E9%97%B4%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [许昕](https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%95&t=31&band_rank=6&Refer=top)<br />
 7. [76岁林子祥和33岁胡夏的友谊](https://s.weibo.com/weibo?q=%2376%E5%B2%81%E6%9E%97%E5%AD%90%E7%A5%A5%E5%92%8C33%E5%B2%81%E8%83%A1%E5%A4%8F%E7%9A%84%E5%8F%8B%E8%B0%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [中国载人航天史上了不起的首次](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%BD%BD%E4%BA%BA%E8%88%AA%E5%A4%A9%E5%8F%B2%E4%B8%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E9%A6%96%E6%AC%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [瑞幸回应与迪奥联名](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%9B%9E%E5%BA%94%E4%B8%8E%E8%BF%AA%E5%A5%A5%E8%81%94%E5%90%8D%23&t=31&band_rank=9&Refer=top)<br />
+8. [瑞幸回应与迪奥联名](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%9B%9E%E5%BA%94%E4%B8%8E%E8%BF%AA%E5%A5%A5%E8%81%94%E5%90%8D%23&t=31&band_rank=8&Refer=top)<br />
+9. [中国将派特使推动巴以停火止战](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B0%86%E6%B4%BE%E7%89%B9%E4%BD%BF%E6%8E%A8%E5%8A%A8%E5%B7%B4%E4%BB%A5%E5%81%9C%E7%81%AB%E6%AD%A2%E6%88%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
