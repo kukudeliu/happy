@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 12:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 12:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [金鸡奖 掉提名的大热门](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%20%E6%8E%89%E6%8F%90%E5%90%8D%E7%9A%84%E5%A4%A7%E7%83%AD%E9%97%A8&t=31&band_rank=6&Refer=top)<br />
 7. [以色列轰炸后的加沙尸横遍野](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%BD%B0%E7%82%B8%E5%90%8E%E7%9A%84%E5%8A%A0%E6%B2%99%E5%B0%B8%E6%A8%AA%E9%81%8D%E9%87%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [金鸡奖提名名单](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95&t=31&band_rank=8&Refer=top)<br />
-9. [巴以冲突已致中国公民4死6伤2失联](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%B7%B2%E8%87%B4%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%914%E6%AD%BB6%E4%BC%A42%E5%A4%B1%E8%81%94%23&t=31&band_rank=9&Refer=top)<br />
+9. [是姐狗的姐也是姐狗的狗](https://s.weibo.com/weibo?q=%23%E6%98%AF%E5%A7%90%E7%8B%97%E7%9A%84%E5%A7%90%E4%B9%9F%E6%98%AF%E5%A7%90%E7%8B%97%E7%9A%84%E7%8B%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
