@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 18:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 18:39:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [农民运动会丰收氛围拉满](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E4%BC%9A%E4%B8%B0%E6%94%B6%E6%B0%9B%E5%9B%B4%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [林俊杰 生生是一个很私人的作品](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E7%94%9F%E7%94%9F%E6%98%AF%E4%B8%80%E4%B8%AA%E5%BE%88%E7%A7%81%E4%BA%BA%E7%9A%84%E4%BD%9C%E5%93%81&t=31&band_rank=4&Refer=top)<br />
 5. [女子欲轻生被遛狗大哥死死拽住](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%AC%B2%E8%BD%BB%E7%94%9F%E8%A2%AB%E9%81%9B%E7%8B%97%E5%A4%A7%E5%93%A5%E6%AD%BB%E6%AD%BB%E6%8B%BD%E4%BD%8F%23&t=31&band_rank=5&Refer=top)<br />
-6. [王栎鑫儿子女儿三人共用一张脸](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E5%84%BF%E5%AD%90%E5%A5%B3%E5%84%BF%E4%B8%89%E4%BA%BA%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8%23&t=31&band_rank=6&Refer=top)<br />
-7. [去年我国结婚人数25至29岁最多](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%B9%B4%E6%88%91%E5%9B%BD%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B025%E8%87%B329%E5%B2%81%E6%9C%80%E5%A4%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [去年中国结婚人数跌破700万对](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E8%B7%8C%E7%A0%B4700%E4%B8%87%E5%AF%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴黄景瑜 二搭](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%BB%84%E6%99%AF%E7%91%9C%20%E4%BA%8C%E6%90%AD&t=31&band_rank=9&Refer=top)<br />
+6. [去年我国结婚人数25至29岁最多](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%B9%B4%E6%88%91%E5%9B%BD%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B025%E8%87%B329%E5%B2%81%E6%9C%80%E5%A4%9A%23&t=31&band_rank=6&Refer=top)<br />
+7. [空调安装师傅从天而降救回孩子](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E5%B8%88%E5%82%85%E4%BB%8E%E5%A4%A9%E8%80%8C%E9%99%8D%E6%95%91%E5%9B%9E%E5%AD%A9%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
+8. [王栎鑫儿子女儿三人共用一张脸](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E5%84%BF%E5%AD%90%E5%A5%B3%E5%84%BF%E4%B8%89%E4%BA%BA%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8%23&t=31&band_rank=8&Refer=top)<br />
+9. [去年中国结婚人数跌破700万对](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E8%B7%8C%E7%A0%B4700%E4%B8%87%E5%AF%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
