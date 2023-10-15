@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 22:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 22:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [4名小学生发现41年前曾灭绝的甲虫](https://s.weibo.com/weibo?q=%234%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B041%E5%B9%B4%E5%89%8D%E6%9B%BE%E7%81%AD%E7%BB%9D%E7%9A%84%E7%94%B2%E8%99%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [胡兵 陈楚生站哥](https://s.weibo.com/weibo?q=%E8%83%A1%E5%85%B5%20%E9%99%88%E6%A5%9A%E7%94%9F%E7%AB%99%E5%93%A5&t=31&band_rank=7&Refer=top)<br />
 8. [乡村爱情13刘能饰演者赵明远去世](https://s.weibo.com/weibo?q=%23%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%8513%E5%88%98%E8%83%BD%E9%A5%B0%E6%BC%94%E8%80%85%E8%B5%B5%E6%98%8E%E8%BF%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [为什么高铁提前三分钟停止检票](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%AB%98%E9%93%81%E6%8F%90%E5%89%8D%E4%B8%89%E5%88%86%E9%92%9F%E5%81%9C%E6%AD%A2%E6%A3%80%E7%A5%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [普京回应美报告鼓吹准备与中俄同时开战](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%8A%A5%E5%91%8A%E9%BC%93%E5%90%B9%E5%87%86%E5%A4%87%E4%B8%8E%E4%B8%AD%E4%BF%84%E5%90%8C%E6%97%B6%E5%BC%80%E6%88%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
