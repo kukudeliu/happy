@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 13:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-15 13:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以色列轰炸后的加沙尸横遍野](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%BD%B0%E7%82%B8%E5%90%8E%E7%9A%84%E5%8A%A0%E6%B2%99%E5%B0%B8%E6%A8%AA%E9%81%8D%E9%87%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [法考主观题](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%83%E4%B8%BB%E8%A7%82%E9%A2%98&t=31&band_rank=7&Refer=top)<br />
 8. [是姐狗的姐也是姐狗的狗](https://s.weibo.com/weibo?q=%23%E6%98%AF%E5%A7%90%E7%8B%97%E7%9A%84%E5%A7%90%E4%B9%9F%E6%98%AF%E5%A7%90%E7%8B%97%E7%9A%84%E7%8B%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [K5133次旅客列车运行中脱轨](https://s.weibo.com/weibo?q=%23K5133%E6%AC%A1%E6%97%85%E5%AE%A2%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E4%B8%AD%E8%84%B1%E8%BD%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [梅西中国行官宣](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
