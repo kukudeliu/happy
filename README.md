@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 08:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 08:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [15号赢麻了 倒带赢麻了](https://s.weibo.com/weibo?q=15%E5%8F%B7%E8%B5%A2%E9%BA%BB%E4%BA%86%20%E5%80%92%E5%B8%A6%E8%B5%A2%E9%BA%BB%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [好多Kpop艺人发了预告](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%A4%9AKpop%E8%89%BA%E4%BA%BA%E5%8F%91%E4%BA%86%E9%A2%84%E5%91%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [加沙地带死伤人数过万](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E6%AD%BB%E4%BC%A4%E4%BA%BA%E6%95%B0%E8%BF%87%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [这是蜜雪冰城的私生子吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E7%9A%84%E7%A7%81%E7%94%9F%E5%AD%90%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [徐穗珍将solo歌手出道](https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%A9%97%E7%8F%8D%E5%B0%86solo%E6%AD%8C%E6%89%8B%E5%87%BA%E9%81%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
