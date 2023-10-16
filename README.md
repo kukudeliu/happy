@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 13:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 13:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周一上班的我太需要这些话](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B8%80%E4%B8%8A%E7%8F%AD%E7%9A%84%E6%88%91%E5%A4%AA%E9%9C%80%E8%A6%81%E8%BF%99%E4%BA%9B%E8%AF%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭假动作钓出两个卧底](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%81%87%E5%8A%A8%E4%BD%9C%E9%92%93%E5%87%BA%E4%B8%A4%E4%B8%AA%E5%8D%A7%E5%BA%95&t=31&band_rank=7&Refer=top)<br />
 8. [美国男子26刀刺死巴勒斯坦裔男孩](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%9026%E5%88%80%E5%88%BA%E6%AD%BB%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E8%A3%94%E7%94%B7%E5%AD%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [为有暗香来](https://s.weibo.com/weibo?q=%E4%B8%BA%E6%9C%89%E6%9A%97%E9%A6%99%E6%9D%A5&t=31&band_rank=9&Refer=top)<br />
+9. [肖战GUCCI大片](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98GUCCI%E5%A4%A7%E7%89%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
