@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 15:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 15:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [肖战GUCCI大片](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98GUCCI%E5%A4%A7%E7%89%87&t=31&band_rank=6&Refer=top)<br />
 7. [不经意却很不卫生的行为](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%BB%8F%E6%84%8F%E5%8D%B4%E5%BE%88%E4%B8%8D%E5%8D%AB%E7%94%9F%E7%9A%84%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [官方回应外国游客无人机撞损文峰塔](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%92%9E%E6%8D%9F%E6%96%87%E5%B3%B0%E5%A1%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴斯维诗活动](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%96%AF%E7%BB%B4%E8%AF%97%E6%B4%BB%E5%8A%A8&t=31&band_rank=9&Refer=top)<br />
+9. [俄罗斯外长拉夫罗夫抵达北京](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E9%95%BF%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
