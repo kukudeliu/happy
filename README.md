@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 18:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 18:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国政府向巴勒斯坦提供紧急人道主义援助](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%90%91%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%8F%90%E4%BE%9B%E7%B4%A7%E6%80%A5%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E6%8F%B4%E5%8A%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [援藏组15年戈壁滩上种200万棵苗木](https://s.weibo.com/weibo?q=%23%E6%8F%B4%E8%97%8F%E7%BB%8415%E5%B9%B4%E6%88%88%E5%A3%81%E6%BB%A9%E4%B8%8A%E7%A7%8D200%E4%B8%87%E6%A3%B5%E8%8B%97%E6%9C%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [尊重式分手](https://s.weibo.com/weibo?q=%E5%B0%8A%E9%87%8D%E5%BC%8F%E5%88%86%E6%89%8B&t=31&band_rank=8&Refer=top)<br />
-9. [我们四个把日子过好比什么都强](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E5%9B%9B%E4%B8%AA%E6%8A%8A%E6%97%A5%E5%AD%90%E8%BF%87%E5%A5%BD%E6%AF%94%E4%BB%80%E4%B9%88%E9%83%BD%E5%BC%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [警方通报女童被狗咬伤](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
