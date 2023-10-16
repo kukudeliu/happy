@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 01:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 01:10:01</h4></div>
 
 > 微博  
 
 1. [为什么粉色要贵这么多](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%B2%89%E8%89%B2%E8%A6%81%E8%B4%B5%E8%BF%99%E4%B9%88%E5%A4%9A&t=31&band_rank=1&Refer=top)<br />
-2. [朱一龙 北大](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%20%E5%8C%97%E5%A4%A7&t=31&band_rank=2&Refer=top)<br />
+2. [人民网评2岁女童被恶犬咬伤](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%842%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%81%B6%E7%8A%AC%E5%92%AC%E4%BC%A4%23&t=31&band_rank=2&Refer=top)<br />
 3. [旧风力发电叶片变草场栅栏能用30年](https://s.weibo.com/weibo?q=%23%E6%97%A7%E9%A3%8E%E5%8A%9B%E5%8F%91%E7%94%B5%E5%8F%B6%E7%89%87%E5%8F%98%E8%8D%89%E5%9C%BA%E6%A0%85%E6%A0%8F%E8%83%BD%E7%94%A830%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [警方已发现咬人黑狗行踪](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%B7%B2%E5%8F%91%E7%8E%B0%E5%92%AC%E4%BA%BA%E9%BB%91%E7%8B%97%E8%A1%8C%E8%B8%AA%23&t=31&band_rank=4&Refer=top)<br />
-5. [人民网评2岁女童被恶犬咬伤](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%842%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%81%B6%E7%8A%AC%E5%92%AC%E4%BC%A4%23&t=31&band_rank=5&Refer=top)<br />
+5. [朱一龙 北大](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%20%E5%8C%97%E5%A4%A7&t=31&band_rank=5&Refer=top)<br />
 6. [为有暗香来 男主是谁](https://s.weibo.com/weibo?q=%E4%B8%BA%E6%9C%89%E6%9A%97%E9%A6%99%E6%9D%A5%20%E7%94%B7%E4%B8%BB%E6%98%AF%E8%B0%81&t=31&band_rank=6&Refer=top)<br />
 7. [守护甜心 抽赏](https://s.weibo.com/weibo?q=%E5%AE%88%E6%8A%A4%E7%94%9C%E5%BF%83%20%E6%8A%BD%E8%B5%8F&t=31&band_rank=7&Refer=top)<br />
 8. [白鹿 这一种快乐无法描写](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E8%BF%99%E4%B8%80%E7%A7%8D%E5%BF%AB%E4%B9%90%E6%97%A0%E6%B3%95%E6%8F%8F%E5%86%99&t=31&band_rank=8&Refer=top)<br />
