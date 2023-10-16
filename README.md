@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 16:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 16:42:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [巴以冲突已致超4200人死亡](https://www.baidu.com/s?wd=%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%B7%B2%E8%87%B4%E8%B6%854200%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [体育局介入调查马拉松选手冲刺被挡](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E5%B1%80%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E9%A9%AC%E6%8B%89%E6%9D%BE%E9%80%89%E6%89%8B%E5%86%B2%E5%88%BA%E8%A2%AB%E6%8C%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [加沙地带近百万巴勒斯坦人流离失所](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E8%BF%91%E7%99%BE%E4%B8%87%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA%E6%B5%81%E7%A6%BB%E5%A4%B1%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [济南女生宿舍内死亡？当地辟谣](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%BD%93%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [河南老君山：网传免门票活动不实](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E8%80%81%E5%90%9B%E5%B1%B1%EF%BC%9A%E7%BD%91%E4%BC%A0%E5%85%8D%E9%97%A8%E7%A5%A8%E6%B4%BB%E5%8A%A8%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [外交部：建议在以中国公民尽快回国](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%BB%BA%E8%AE%AE%E5%9C%A8%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [济南女生宿舍内死亡？当地辟谣](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%BD%93%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [巴以冲突已致超4200人死亡](https://www.baidu.com/s?wd=%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%B7%B2%E8%87%B4%E8%B6%854200%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [体育局介入调查马拉松选手冲刺被挡](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E5%B1%80%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E9%A9%AC%E6%8B%89%E6%9D%BE%E9%80%89%E6%89%8B%E5%86%B2%E5%88%BA%E8%A2%AB%E6%8C%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [加沙地带近百万巴勒斯坦人流离失所](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E8%BF%91%E7%99%BE%E4%B8%87%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA%E6%B5%81%E7%A6%BB%E5%A4%B1%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [济南女生宿舍内死亡？当地辟谣](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%BD%93%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [河南老君山：网传免门票活动不实](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E8%80%81%E5%90%9B%E5%B1%B1%EF%BC%9A%E7%BD%91%E4%BC%A0%E5%85%8D%E9%97%A8%E7%A5%A8%E6%B4%BB%E5%8A%A8%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [外交部：建议在以中国公民尽快回国](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%BB%BA%E8%AE%AE%E5%9C%A8%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [济南女生宿舍内死亡？当地辟谣](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%BD%93%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
