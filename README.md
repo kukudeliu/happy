@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 16:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 16:33:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [2349名缅北电诈嫌犯移交中方](https://www.baidu.com/s?wd=2349%E5%90%8D%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%AB%8C%E7%8A%AF%E7%A7%BB%E4%BA%A4%E4%B8%AD%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [郑州有一条“唐人街”？管理方回应](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%9C%89%E4%B8%80%E6%9D%A1%E2%80%9C%E5%94%90%E4%BA%BA%E8%A1%97%E2%80%9D%EF%BC%9F%E7%AE%A1%E7%90%86%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文明厚植沃土 新风助力振兴](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E5%8E%9A%E6%A4%8D%E6%B2%83%E5%9C%9F+%E6%96%B0%E9%A3%8E%E5%8A%A9%E5%8A%9B%E6%8C%AF%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [成都2岁女童遭烈犬撕咬入院治疗](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD2%E5%B2%81%E5%A5%B3%E7%AB%A5%E9%81%AD%E7%83%88%E7%8A%AC%E6%92%95%E5%92%AC%E5%85%A5%E9%99%A2%E6%B2%BB%E7%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [日本歌手谷村新司去世](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%AD%8C%E6%89%8B%E8%B0%B7%E6%9D%91%E6%96%B0%E5%8F%B8%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [以色列否认“停火允许援助进加沙”](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%90%A6%E8%AE%A4%E2%80%9C%E5%81%9C%E7%81%AB%E5%85%81%E8%AE%B8%E6%8F%B4%E5%8A%A9%E8%BF%9B%E5%8A%A0%E6%B2%99%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [外交部：建议在以中国公民尽快回国](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%BB%BA%E8%AE%AE%E5%9C%A8%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [东三省省会气温集体跌破0度](https://www.baidu.com/s?wd=%E4%B8%9C%E4%B8%89%E7%9C%81%E7%9C%81%E4%BC%9A%E6%B0%94%E6%B8%A9%E9%9B%86%E4%BD%93%E8%B7%8C%E7%A0%B40%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [2349名缅北电诈嫌犯移交中方](https://www.baidu.com/s?wd=2349%E5%90%8D%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%AB%8C%E7%8A%AF%E7%A7%BB%E4%BA%A4%E4%B8%AD%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [郑州有一条“唐人街”？管理方回应](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E6%9C%89%E4%B8%80%E6%9D%A1%E2%80%9C%E5%94%90%E4%BA%BA%E8%A1%97%E2%80%9D%EF%BC%9F%E7%AE%A1%E7%90%86%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文明厚植沃土 新风助力振兴](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E5%8E%9A%E6%A4%8D%E6%B2%83%E5%9C%9F+%E6%96%B0%E9%A3%8E%E5%8A%A9%E5%8A%9B%E6%8C%AF%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [成都2岁女童遭烈犬撕咬入院治疗](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD2%E5%B2%81%E5%A5%B3%E7%AB%A5%E9%81%AD%E7%83%88%E7%8A%AC%E6%92%95%E5%92%AC%E5%85%A5%E9%99%A2%E6%B2%BB%E7%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [日本歌手谷村新司去世](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%AD%8C%E6%89%8B%E8%B0%B7%E6%9D%91%E6%96%B0%E5%8F%B8%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [以色列否认“停火允许援助进加沙”](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%90%A6%E8%AE%A4%E2%80%9C%E5%81%9C%E7%81%AB%E5%85%81%E8%AE%B8%E6%8F%B4%E5%8A%A9%E8%BF%9B%E5%8A%A0%E6%B2%99%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [外交部：建议在以中国公民尽快回国](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%BB%BA%E8%AE%AE%E5%9C%A8%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [东三省省会气温集体跌破0度](https://www.baidu.com/s?wd=%E4%B8%9C%E4%B8%89%E7%9C%81%E7%9C%81%E4%BC%9A%E6%B0%94%E6%B8%A9%E9%9B%86%E4%BD%93%E8%B7%8C%E7%A0%B40%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
