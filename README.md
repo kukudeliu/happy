@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 13:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 13:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周一上班的我太需要这些话](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B8%80%E4%B8%8A%E7%8F%AD%E7%9A%84%E6%88%91%E5%A4%AA%E9%9C%80%E8%A6%81%E8%BF%99%E4%BA%9B%E8%AF%9D&t=31&band_rank=6&Refer=top)<br />
 7. [美国男子26刀刺死巴勒斯坦裔男孩](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%9026%E5%88%80%E5%88%BA%E6%AD%BB%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E8%A3%94%E7%94%B7%E5%AD%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [花儿与少年丝路季官宣](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%E4%B8%9D%E8%B7%AF%E5%AD%A3%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [小米14](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B314&t=31&band_rank=9&Refer=top)<br />
+9. [中方呼吁召开巴以冲突国际和会](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%91%BC%E5%90%81%E5%8F%AC%E5%BC%80%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%9B%BD%E9%99%85%E5%92%8C%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
