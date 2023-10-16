@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 16:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 16:38:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [两大型犬撕咬2岁半女童致严重受伤](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%A4%A7%E5%9E%8B%E7%8A%AC%E6%92%95%E5%92%AC2%E5%B2%81%E5%8D%8A%E5%A5%B3%E7%AB%A5%E8%87%B4%E4%B8%A5%E9%87%8D%E5%8F%97%E4%BC%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [双胞胎先出来的那个不一定是老大](https://s.weibo.com/weibo?q=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%85%88%E5%87%BA%E6%9D%A5%E7%9A%84%E9%82%A3%E4%B8%AA%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%98%AF%E8%80%81%E5%A4%A7&t=31&band_rank=5&Refer=top)<br />
 6. [狗神](https://s.weibo.com/weibo?q=%E7%8B%97%E7%A5%9E&t=31&band_rank=6&Refer=top)<br />
-7. [迪丽热巴秦岚周也美女贴贴](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%A7%A6%E5%B2%9A%E5%91%A8%E4%B9%9F%E7%BE%8E%E5%A5%B3%E8%B4%B4%E8%B4%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [外交部建议在以中国公民尽快回国](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%BB%BA%E8%AE%AE%E5%9C%A8%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=8&Refer=top)<br />
+7. [外交部建议在以中国公民尽快回国](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%BB%BA%E8%AE%AE%E5%9C%A8%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=7&Refer=top)<br />
+8. [迪丽热巴秦岚周也美女贴贴](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%A7%A6%E5%B2%9A%E5%91%A8%E4%B9%9F%E7%BE%8E%E5%A5%B3%E8%B4%B4%E8%B4%B4%23&t=31&band_rank=8&Refer=top)<br />
 9. [派出所回应一幼儿小区内遭未拴绳大狗撕咬](https://s.weibo.com/weibo?q=%23%E6%B4%BE%E5%87%BA%E6%89%80%E5%9B%9E%E5%BA%94%E4%B8%80%E5%B9%BC%E5%84%BF%E5%B0%8F%E5%8C%BA%E5%86%85%E9%81%AD%E6%9C%AA%E6%8B%B4%E7%BB%B3%E5%A4%A7%E7%8B%97%E6%92%95%E5%92%AC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
