@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 19:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 19:14:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [狗主人责任](https://s.weibo.com/weibo?q=%E7%8B%97%E4%B8%BB%E4%BA%BA%E8%B4%A3%E4%BB%BB&t=31&band_rank=4&Refer=top)<br />
 5. [深圳一大楼贴膜防止鸟撞](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A4%A7%E6%A5%BC%E8%B4%B4%E8%86%9C%E9%98%B2%E6%AD%A2%E9%B8%9F%E6%92%9E%23&t=31&band_rank=5&Refer=top)<br />
 6. [中国政府向巴勒斯坦提供紧急人道主义援助](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%90%91%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%8F%90%E4%BE%9B%E7%B4%A7%E6%80%A5%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E6%8F%B4%E5%8A%A9%23&t=31&band_rank=6&Refer=top)<br />
-7. [麻酱拿铁](https://s.weibo.com/weibo?q=%E9%BA%BB%E9%85%B1%E6%8B%BF%E9%93%81&t=31&band_rank=7&Refer=top)<br />
-8. [MiuMiu钻石内裤](https://s.weibo.com/weibo?q=MiuMiu%E9%92%BB%E7%9F%B3%E5%86%85%E8%A3%A4&t=31&band_rank=8&Refer=top)<br />
-9. [街道办已动员数百人寻找肇事烈犬](https://s.weibo.com/weibo?q=%23%E8%A1%97%E9%81%93%E5%8A%9E%E5%B7%B2%E5%8A%A8%E5%91%98%E6%95%B0%E7%99%BE%E4%BA%BA%E5%AF%BB%E6%89%BE%E8%82%87%E4%BA%8B%E7%83%88%E7%8A%AC%23&t=31&band_rank=9&Refer=top)<br />
+7. [学生将军训服洗干净后赠给环卫工人](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%B0%86%E5%86%9B%E8%AE%AD%E6%9C%8D%E6%B4%97%E5%B9%B2%E5%87%80%E5%90%8E%E8%B5%A0%E7%BB%99%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [麻酱拿铁](https://s.weibo.com/weibo?q=%E9%BA%BB%E9%85%B1%E6%8B%BF%E9%93%81&t=31&band_rank=8&Refer=top)<br />
+9. [MiuMiu钻石内裤](https://s.weibo.com/weibo?q=MiuMiu%E9%92%BB%E7%9F%B3%E5%86%85%E8%A3%A4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [2349名缅北电诈嫌犯移交中方](https://www.baidu.com/s?wd=2349%E5%90%8D%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%AB%8C%E7%8A%AF%E7%A7%BB%E4%BA%A4%E4%B8%AD%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文明厚植沃土 新风助力振兴](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E5%8E%9A%E6%A4%8D%E6%B2%83%E5%9C%9F+%E6%96%B0%E9%A3%8E%E5%8A%A9%E5%8A%9B%E6%8C%AF%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [妈妈想陪女儿上大学当上食堂阿姨](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E6%83%B3%E9%99%AA%E5%A5%B3%E5%84%BF%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%BD%93%E4%B8%8A%E9%A3%9F%E5%A0%82%E9%98%BF%E5%A7%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [景区回应男子掐掉千年银杏树叶](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E6%8E%90%E6%8E%89%E5%8D%83%E5%B9%B4%E9%93%B6%E6%9D%8F%E6%A0%91%E5%8F%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [西南大学药学院发生爆炸？不实](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%8D%AF%E5%AD%A6%E9%99%A2%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [外交部：建议在以中国公民尽快回国](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%BB%BA%E8%AE%AE%E5%9C%A8%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [机关大院招女保洁 要求35岁以下](https://www.baidu.com/s?wd=%E6%9C%BA%E5%85%B3%E5%A4%A7%E9%99%A2%E6%8B%9B%E5%A5%B3%E4%BF%9D%E6%B4%81+%E8%A6%81%E6%B1%8235%E5%B2%81%E4%BB%A5%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [景区回应男子掐掉千年银杏树叶](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E6%8E%90%E6%8E%89%E5%8D%83%E5%B9%B4%E9%93%B6%E6%9D%8F%E6%A0%91%E5%8F%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [济南女生宿舍内死亡？当地辟谣](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%BD%93%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [2349名缅北电诈嫌犯移交中方](https://www.baidu.com/s?wd=2349%E5%90%8D%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%AB%8C%E7%8A%AF%E7%A7%BB%E4%BA%A4%E4%B8%AD%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文明厚植沃土 新风助力振兴](https://www.baidu.com/s?wd=%E6%96%87%E6%98%8E%E5%8E%9A%E6%A4%8D%E6%B2%83%E5%9C%9F+%E6%96%B0%E9%A3%8E%E5%8A%A9%E5%8A%9B%E6%8C%AF%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [妈妈想陪女儿上大学当上食堂阿姨](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E6%83%B3%E9%99%AA%E5%A5%B3%E5%84%BF%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%BD%93%E4%B8%8A%E9%A3%9F%E5%A0%82%E9%98%BF%E5%A7%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [景区回应男子掐掉千年银杏树叶](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E6%8E%90%E6%8E%89%E5%8D%83%E5%B9%B4%E9%93%B6%E6%9D%8F%E6%A0%91%E5%8F%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [西南大学药学院发生爆炸？不实](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%8D%AF%E5%AD%A6%E9%99%A2%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [外交部：建议在以中国公民尽快回国](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%BB%BA%E8%AE%AE%E5%9C%A8%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [机关大院招女保洁 要求35岁以下](https://www.baidu.com/s?wd=%E6%9C%BA%E5%85%B3%E5%A4%A7%E9%99%A2%E6%8B%9B%E5%A5%B3%E4%BF%9D%E6%B4%81+%E8%A6%81%E6%B1%8235%E5%B2%81%E4%BB%A5%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [景区回应男子掐掉千年银杏树叶](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E6%8E%90%E6%8E%89%E5%8D%83%E5%B9%B4%E9%93%B6%E6%9D%8F%E6%A0%91%E5%8F%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [济南女生宿舍内死亡？当地辟谣](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%BD%93%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
