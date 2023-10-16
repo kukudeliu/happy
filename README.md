@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 09:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 09:47:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=4&Refer=top)<br />
 5. [徐穗珍将solo歌手出道](https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%A9%97%E7%8F%8D%E5%B0%86solo%E6%AD%8C%E6%89%8B%E5%87%BA%E9%81%93%23&t=31&band_rank=5&Refer=top)<br />
 6. [宋轶真的好懂i人](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%9C%9F%E7%9A%84%E5%A5%BD%E6%87%82i%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [4名小学生发现41年前曾灭绝的甲虫](https://s.weibo.com/weibo?q=%234%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B041%E5%B9%B4%E5%89%8D%E6%9B%BE%E7%81%AD%E7%BB%9D%E7%9A%84%E7%94%B2%E8%99%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [赵丽颖与凤行全新造型](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8E%E5%87%A4%E8%A1%8C%E5%85%A8%E6%96%B0%E9%80%A0%E5%9E%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [在飞机上拍到一半海水一半沙漠](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E6%8B%8D%E5%88%B0%E4%B8%80%E5%8D%8A%E6%B5%B7%E6%B0%B4%E4%B8%80%E5%8D%8A%E6%B2%99%E6%BC%A0%23&t=31&band_rank=9&Refer=top)<br />
+7. [在飞机上拍到一半海水一半沙漠](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E6%8B%8D%E5%88%B0%E4%B8%80%E5%8D%8A%E6%B5%B7%E6%B0%B4%E4%B8%80%E5%8D%8A%E6%B2%99%E6%BC%A0%23&t=31&band_rank=7&Refer=top)<br />
+8. [4名小学生发现41年前曾灭绝的甲虫](https://s.weibo.com/weibo?q=%234%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B041%E5%B9%B4%E5%89%8D%E6%9B%BE%E7%81%AD%E7%BB%9D%E7%9A%84%E7%94%B2%E8%99%AB%23&t=31&band_rank=8&Refer=top)<br />
+9. [赵丽颖与凤行全新造型](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8E%E5%87%A4%E8%A1%8C%E5%85%A8%E6%96%B0%E9%80%A0%E5%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
