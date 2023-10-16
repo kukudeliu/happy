@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 12:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 12:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [美国男子26刀刺死巴勒斯坦裔男孩](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%9026%E5%88%80%E5%88%BA%E6%AD%BB%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E8%A3%94%E7%94%B7%E5%AD%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [花儿与少年丝路季官宣](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%E4%B8%9D%E8%B7%AF%E5%AD%A3%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [小米14](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B314&t=31&band_rank=8&Refer=top)<br />
-9. [陈晓到底跟唐晓天说了什么](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E5%88%B0%E5%BA%95%E8%B7%9F%E5%94%90%E6%99%93%E5%A4%A9%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [周一上班的我太需要这些话](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B8%80%E4%B8%8A%E7%8F%AD%E7%9A%84%E6%88%91%E5%A4%AA%E9%9C%80%E8%A6%81%E8%BF%99%E4%BA%9B%E8%AF%9D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
