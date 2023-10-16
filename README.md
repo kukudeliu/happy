@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 14:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 14:57:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [一带一路倡议来自中国 但惠及世界](https://www.baidu.com/s?wd=%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E5%80%A1%E8%AE%AE%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD+%E4%BD%86%E6%83%A0%E5%8F%8A%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [游客飞无人机撞损文峰塔？景区回应](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E9%A3%9E%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%92%9E%E6%8D%9F%E6%96%87%E5%B3%B0%E5%A1%94%EF%BC%9F%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [拜登：美国可同时支持以色列乌克兰](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%8F%AF%E5%90%8C%E6%97%B6%E6%94%AF%E6%8C%81%E4%BB%A5%E8%89%B2%E5%88%97%E4%B9%8C%E5%85%8B%E5%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [王毅会见俄罗斯外长拉夫罗夫](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%BC%9A%E8%A7%81%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E9%95%BF%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [五谷丰登粮满仓 全国多地秋种忙](https://www.baidu.com/s?wd=%E4%BA%94%E8%B0%B7%E4%B8%B0%E7%99%BB%E7%B2%AE%E6%BB%A1%E4%BB%93+%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E7%A7%8B%E7%A7%8D%E5%BF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子穿离婚快乐T恤大闹婚礼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A9%BF%E7%A6%BB%E5%A9%9A%E5%BF%AB%E4%B9%90T%E6%81%A4%E5%A4%A7%E9%97%B9%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [一带一路倡议来自中国 但惠及世界](https://www.baidu.com/s?wd=%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E5%80%A1%E8%AE%AE%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD+%E4%BD%86%E6%83%A0%E5%8F%8A%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [游客飞无人机撞损文峰塔？景区回应](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E9%A3%9E%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%92%9E%E6%8D%9F%E6%96%87%E5%B3%B0%E5%A1%94%EF%BC%9F%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [拜登：美国可同时支持以色列乌克兰](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%8F%AF%E5%90%8C%E6%97%B6%E6%94%AF%E6%8C%81%E4%BB%A5%E8%89%B2%E5%88%97%E4%B9%8C%E5%85%8B%E5%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [王毅会见俄罗斯外长拉夫罗夫](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%BC%9A%E8%A7%81%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E9%95%BF%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [五谷丰登粮满仓 全国多地秋种忙](https://www.baidu.com/s?wd=%E4%BA%94%E8%B0%B7%E4%B8%B0%E7%99%BB%E7%B2%AE%E6%BB%A1%E4%BB%93+%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E7%A7%8B%E7%A7%8D%E5%BF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子穿离婚快乐T恤大闹婚礼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A9%BF%E7%A6%BB%E5%A9%9A%E5%BF%AB%E4%B9%90T%E6%81%A4%E5%A4%A7%E9%97%B9%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
