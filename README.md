@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 07:20:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 07:21:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [以军称杀死哈马斯情报局局长](https://www.baidu.com/s?wd=%E4%BB%A5%E5%86%9B%E7%A7%B0%E6%9D%80%E6%AD%BB%E5%93%88%E9%A9%AC%E6%96%AF%E6%83%85%E6%8A%A5%E5%B1%80%E5%B1%80%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中方向巴勒斯坦提供人道主义援助](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%90%91%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%8F%90%E4%BE%9B%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E6%8F%B4%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [普京与以色列总理内塔尼亚胡通电话](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E9%80%9A%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [西南大学药学院发生爆炸？不实](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%8D%AF%E5%AD%A6%E9%99%A2%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [警方辟谣大型犬主人被孩子家长砍伤](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A4%A7%E5%9E%8B%E7%8A%AC%E4%B8%BB%E4%BA%BA%E8%A2%AB%E5%AD%A9%E5%AD%90%E5%AE%B6%E9%95%BF%E7%A0%8D%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [以军称杀死哈马斯情报局局长](https://www.baidu.com/s?wd=%E4%BB%A5%E5%86%9B%E7%A7%B0%E6%9D%80%E6%AD%BB%E5%93%88%E9%A9%AC%E6%96%AF%E6%83%85%E6%8A%A5%E5%B1%80%E5%B1%80%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中方向巴勒斯坦提供人道主义援助](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%90%91%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%8F%90%E4%BE%9B%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E6%8F%B4%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [普京与以色列总理内塔尼亚胡通电话](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E9%80%9A%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [西南大学药学院发生爆炸？不实](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%8D%AF%E5%AD%A6%E9%99%A2%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [警方辟谣大型犬主人被孩子家长砍伤](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A4%A7%E5%9E%8B%E7%8A%AC%E4%B8%BB%E4%BA%BA%E8%A2%AB%E5%AD%A9%E5%AD%90%E5%AE%B6%E9%95%BF%E7%A0%8D%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
