@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 07:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 07:56:01</h4></div>
 
 > 微博  
 
 1. [人民网评2岁女童被恶犬咬伤](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%842%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%81%B6%E7%8A%AC%E5%92%AC%E4%BC%A4%23&t=31&band_rank=1&Refer=top)<br />
-2. [为什么粉色要贵这么多](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%B2%89%E8%89%B2%E8%A6%81%E8%B4%B5%E8%BF%99%E4%B9%88%E5%A4%9A&t=31&band_rank=2&Refer=top)<br />
+2. [我国超3亿人遭受慢性疼痛](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%B6%853%E4%BA%BF%E4%BA%BA%E9%81%AD%E5%8F%97%E6%85%A2%E6%80%A7%E7%96%BC%E7%97%9B%23&t=31&band_rank=2&Refer=top)<br />
 3. [沿着一带一路去旅行](https://s.weibo.com/weibo?q=%23%E6%B2%BF%E7%9D%80%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E5%8E%BB%E6%97%85%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
-4. [我国超3亿人遭受慢性疼痛](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%B6%853%E4%BA%BF%E4%BA%BA%E9%81%AD%E5%8F%97%E6%85%A2%E6%80%A7%E7%96%BC%E7%97%9B%23&t=31&band_rank=4&Refer=top)<br />
+4. [为什么粉色要贵这么多](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%B2%89%E8%89%B2%E8%A6%81%E8%B4%B5%E8%BF%99%E4%B9%88%E5%A4%9A&t=31&band_rank=4&Refer=top)<br />
 5. [为有暗香来 男主是谁](https://s.weibo.com/weibo?q=%E4%B8%BA%E6%9C%89%E6%9A%97%E9%A6%99%E6%9D%A5%20%E7%94%B7%E4%B8%BB%E6%98%AF%E8%B0%81&t=31&band_rank=5&Refer=top)<br />
 6. [朱一龙 北大](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%20%E5%8C%97%E5%A4%A7&t=31&band_rank=6&Refer=top)<br />
 7. [强烈的自卑会使人变得非常无礼](https://s.weibo.com/weibo?q=%23%E5%BC%BA%E7%83%88%E7%9A%84%E8%87%AA%E5%8D%91%E4%BC%9A%E4%BD%BF%E4%BA%BA%E5%8F%98%E5%BE%97%E9%9D%9E%E5%B8%B8%E6%97%A0%E7%A4%BC%23&t=31&band_rank=7&Refer=top)<br />
