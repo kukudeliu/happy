@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 08:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 08:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨洋雀斑妆](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E9%9B%80%E6%96%91%E5%A6%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [公办教师调入镇政府30年退休发现没编制](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8A%9E%E6%95%99%E5%B8%88%E8%B0%83%E5%85%A5%E9%95%87%E6%94%BF%E5%BA%9C30%E5%B9%B4%E9%80%80%E4%BC%91%E5%8F%91%E7%8E%B0%E6%B2%A1%E7%BC%96%E5%88%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [岳云鹏没认出来素颜的孟子义](https://s.weibo.com/weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E6%B2%A1%E8%AE%A4%E5%87%BA%E6%9D%A5%E7%B4%A0%E9%A2%9C%E7%9A%84%E5%AD%9F%E5%AD%90%E4%B9%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [官方回应家长质疑拼音o读成喔](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%AE%B6%E9%95%BF%E8%B4%A8%E7%96%91%E6%8B%BC%E9%9F%B3o%E8%AF%BB%E6%88%90%E5%96%94%23&t=31&band_rank=9&Refer=top)<br />
+9. [浙江逆袭王从职高读到麻省理工博士](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E9%80%86%E8%A2%AD%E7%8E%8B%E4%BB%8E%E8%81%8C%E9%AB%98%E8%AF%BB%E5%88%B0%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%8D%9A%E5%A3%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
