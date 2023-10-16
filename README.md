@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 19:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 19:02:01</h4></div>
 
 > 微博  
 
 1. [朱一龙 北大](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%20%E5%8C%97%E5%A4%A7&t=31&band_rank=1&Refer=top)<br />
 2. [少年欲跳桥轻生被无数双手紧抓救回](https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E6%AC%B2%E8%B7%B3%E6%A1%A5%E8%BD%BB%E7%94%9F%E8%A2%AB%E6%97%A0%E6%95%B0%E5%8F%8C%E6%89%8B%E7%B4%A7%E6%8A%93%E6%95%91%E5%9B%9E%23&t=31&band_rank=2&Refer=top)<br />
 3. [牡丹与玫瑰的丝路流芳](https://s.weibo.com/weibo?q=%23%E7%89%A1%E4%B8%B9%E4%B8%8E%E7%8E%AB%E7%91%B0%E7%9A%84%E4%B8%9D%E8%B7%AF%E6%B5%81%E8%8A%B3%23&t=31&band_rank=3&Refer=top)<br />
-4. [麻酱拿铁](https://s.weibo.com/weibo?q=%E9%BA%BB%E9%85%B1%E6%8B%BF%E9%93%81&t=31&band_rank=4&Refer=top)<br />
+4. [狗主人责任](https://s.weibo.com/weibo?q=%E7%8B%97%E4%B8%BB%E4%BA%BA%E8%B4%A3%E4%BB%BB&t=31&band_rank=4&Refer=top)<br />
 5. [深圳一大楼贴膜防止鸟撞](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A4%A7%E6%A5%BC%E8%B4%B4%E8%86%9C%E9%98%B2%E6%AD%A2%E9%B8%9F%E6%92%9E%23&t=31&band_rank=5&Refer=top)<br />
 6. [中国政府向巴勒斯坦提供紧急人道主义援助](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%90%91%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%8F%90%E4%BE%9B%E7%B4%A7%E6%80%A5%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E6%8F%B4%E5%8A%A9%23&t=31&band_rank=6&Refer=top)<br />
-7. [原国旗护卫队护旗手讲座变追星现场](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E6%8A%A4%E6%97%97%E6%89%8B%E8%AE%B2%E5%BA%A7%E5%8F%98%E8%BF%BD%E6%98%9F%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [狗主人责任](https://s.weibo.com/weibo?q=%E7%8B%97%E4%B8%BB%E4%BA%BA%E8%B4%A3%E4%BB%BB&t=31&band_rank=8&Refer=top)<br />
-9. [警方通报女童被狗咬伤](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
+7. [麻酱拿铁](https://s.weibo.com/weibo?q=%E9%BA%BB%E9%85%B1%E6%8B%BF%E9%93%81&t=31&band_rank=7&Refer=top)<br />
+8. [警方通报女童被狗咬伤](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
+9. [博主100元吃遍东北早市被指造假](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB100%E5%85%83%E5%90%83%E9%81%8D%E4%B8%9C%E5%8C%97%E6%97%A9%E5%B8%82%E8%A2%AB%E6%8C%87%E9%80%A0%E5%81%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
