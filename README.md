@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 17:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 17:34:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [我们四个把日子过好比什么都强](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E5%9B%9B%E4%B8%AA%E6%8A%8A%E6%97%A5%E5%AD%90%E8%BF%87%E5%A5%BD%E6%AF%94%E4%BB%80%E4%B9%88%E9%83%BD%E5%BC%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [华为 谢霆锋](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%20%E8%B0%A2%E9%9C%86%E9%94%8B&t=31&band_rank=7&Refer=top)<br />
 8. [长期处于消极思维更易患老年痴呆](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%A4%84%E4%BA%8E%E6%B6%88%E6%9E%81%E6%80%9D%E7%BB%B4%E6%9B%B4%E6%98%93%E6%82%A3%E8%80%81%E5%B9%B4%E7%97%B4%E5%91%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [狗神](https://s.weibo.com/weibo?q=%E7%8B%97%E7%A5%9E&t=31&band_rank=9&Refer=top)<br />
+9. [为何找对象要看脸](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BD%95%E6%89%BE%E5%AF%B9%E8%B1%A1%E8%A6%81%E7%9C%8B%E8%84%B8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
