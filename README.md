@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 10:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 10:02:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [徐穗珍将solo歌手出道](https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%A9%97%E7%8F%8D%E5%B0%86solo%E6%AD%8C%E6%89%8B%E5%87%BA%E9%81%93%23&t=31&band_rank=5&Refer=top)<br />
 6. [拜登称必须彻底消灭哈马斯](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E7%A7%B0%E5%BF%85%E9%A1%BB%E5%BD%BB%E5%BA%95%E6%B6%88%E7%81%AD%E5%93%88%E9%A9%AC%E6%96%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [腾讯认证三部爆款剧集](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%AE%A4%E8%AF%81%E4%B8%89%E9%83%A8%E7%88%86%E6%AC%BE%E5%89%A7%E9%9B%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [宋轶真的好懂i人](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%9C%9F%E7%9A%84%E5%A5%BD%E6%87%82i%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵丽颖与凤行全新造型](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8E%E5%87%A4%E8%A1%8C%E5%85%A8%E6%96%B0%E9%80%A0%E5%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
+8. [支原体肺炎主要症状有2个](https://s.weibo.com/weibo?q=%23%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E4%B8%BB%E8%A6%81%E7%97%87%E7%8A%B6%E6%9C%892%E4%B8%AA%23&t=31&band_rank=8&Refer=top)<br />
+9. [宋轶真的好懂i人](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%9C%9F%E7%9A%84%E5%A5%BD%E6%87%82i%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
