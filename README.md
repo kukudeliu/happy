@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 09:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 09:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵丽颖与凤行全新造型](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8E%E5%87%A4%E8%A1%8C%E5%85%A8%E6%96%B0%E9%80%A0%E5%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [15号赢麻了 倒带赢麻了](https://s.weibo.com/weibo?q=15%E5%8F%B7%E8%B5%A2%E9%BA%BB%E4%BA%86%20%E5%80%92%E5%B8%A6%E8%B5%A2%E9%BA%BB%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [好多Kpop艺人发了预告](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%A4%9AKpop%E8%89%BA%E4%BA%BA%E5%8F%91%E4%BA%86%E9%A2%84%E5%91%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨洋雀斑妆](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E9%9B%80%E6%96%91%E5%A6%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [公办教师调入镇政府30年退休发现没编制](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8A%9E%E6%95%99%E5%B8%88%E8%B0%83%E5%85%A5%E9%95%87%E6%94%BF%E5%BA%9C30%E5%B9%B4%E9%80%80%E4%BC%91%E5%8F%91%E7%8E%B0%E6%B2%A1%E7%BC%96%E5%88%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
