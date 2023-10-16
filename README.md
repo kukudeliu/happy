@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 00:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 00:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白鹿 这一种快乐无法描写](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E8%BF%99%E4%B8%80%E7%A7%8D%E5%BF%AB%E4%B9%90%E6%97%A0%E6%B3%95%E6%8F%8F%E5%86%99&t=31&band_rank=6&Refer=top)<br />
 7. [檀健次 北海蛊王](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%20%E5%8C%97%E6%B5%B7%E8%9B%8A%E7%8E%8B&t=31&band_rank=7&Refer=top)<br />
 8. [中国移动采购120万台华为手机](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8%E9%87%87%E8%B4%AD120%E4%B8%87%E5%8F%B0%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [周筱风官宣恋情](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%AD%B1%E9%A3%8E%E5%AE%98%E5%AE%A3%E6%81%8B%E6%83%85%23&t=31&band_rank=9&Refer=top)<br />
+9. [美籍犹太裔学者称应为巴勒斯坦人哭泣](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%B1%8D%E7%8A%B9%E5%A4%AA%E8%A3%94%E5%AD%A6%E8%80%85%E7%A7%B0%E5%BA%94%E4%B8%BA%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA%E5%93%AD%E6%B3%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
