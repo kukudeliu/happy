@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 16:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 16:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴秦岚周也美女贴贴](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%A7%A6%E5%B2%9A%E5%91%A8%E4%B9%9F%E7%BE%8E%E5%A5%B3%E8%B4%B4%E8%B4%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [懒羊羊在周杰伦演唱会唱了一整晚](https://s.weibo.com/weibo?q=%23%E6%87%92%E7%BE%8A%E7%BE%8A%E5%9C%A8%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%94%B1%E4%BA%86%E4%B8%80%E6%95%B4%E6%99%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [谷村新司去世](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%9D%91%E6%96%B0%E5%8F%B8%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [以军和哈马斯加沙南部临时停火5小时](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E5%92%8C%E5%93%88%E9%A9%AC%E6%96%AF%E5%8A%A0%E6%B2%99%E5%8D%97%E9%83%A8%E4%B8%B4%E6%97%B6%E5%81%9C%E7%81%AB5%E5%B0%8F%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [派出所回应一幼儿小区内遭未拴绳大狗撕咬](https://s.weibo.com/weibo?q=%23%E6%B4%BE%E5%87%BA%E6%89%80%E5%9B%9E%E5%BA%94%E4%B8%80%E5%B9%BC%E5%84%BF%E5%B0%8F%E5%8C%BA%E5%86%85%E9%81%AD%E6%9C%AA%E6%8B%B4%E7%BB%B3%E5%A4%A7%E7%8B%97%E6%92%95%E5%92%AC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
