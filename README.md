@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 07:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 07:43:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [沿着一带一路去旅行](https://s.weibo.com/weibo?q=%23%E6%B2%BF%E7%9D%80%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E5%8E%BB%E6%97%85%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [我国超3亿人遭受慢性疼痛](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%B6%853%E4%BA%BF%E4%BA%BA%E9%81%AD%E5%8F%97%E6%85%A2%E6%80%A7%E7%96%BC%E7%97%9B%23&t=31&band_rank=4&Refer=top)<br />
 5. [为有暗香来 男主是谁](https://s.weibo.com/weibo?q=%E4%B8%BA%E6%9C%89%E6%9A%97%E9%A6%99%E6%9D%A5%20%E7%94%B7%E4%B8%BB%E6%98%AF%E8%B0%81&t=31&band_rank=5&Refer=top)<br />
-6. [强烈的自卑会使人变得非常无礼](https://s.weibo.com/weibo?q=%23%E5%BC%BA%E7%83%88%E7%9A%84%E8%87%AA%E5%8D%91%E4%BC%9A%E4%BD%BF%E4%BA%BA%E5%8F%98%E5%BE%97%E9%9D%9E%E5%B8%B8%E6%97%A0%E7%A4%BC%23&t=31&band_rank=6&Refer=top)<br />
-7. [朱一龙 北大](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%20%E5%8C%97%E5%A4%A7&t=31&band_rank=7&Refer=top)<br />
+6. [朱一龙 北大](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%20%E5%8C%97%E5%A4%A7&t=31&band_rank=6&Refer=top)<br />
+7. [强烈的自卑会使人变得非常无礼](https://s.weibo.com/weibo?q=%23%E5%BC%BA%E7%83%88%E7%9A%84%E8%87%AA%E5%8D%91%E4%BC%9A%E4%BD%BF%E4%BA%BA%E5%8F%98%E5%BE%97%E9%9D%9E%E5%B8%B8%E6%97%A0%E7%A4%BC%23&t=31&band_rank=7&Refer=top)<br />
 8. [檀健次 北海蛊王](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%20%E5%8C%97%E6%B5%B7%E8%9B%8A%E7%8E%8B&t=31&band_rank=8&Refer=top)<br />
 9. [美籍犹太裔学者称应为巴勒斯坦人哭泣](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%B1%8D%E7%8A%B9%E5%A4%AA%E8%A3%94%E5%AD%A6%E8%80%85%E7%A7%B0%E5%BA%94%E4%B8%BA%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA%E5%93%AD%E6%B3%A3%23&t=31&band_rank=9&Refer=top)<br />
 
