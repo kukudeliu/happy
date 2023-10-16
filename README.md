@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 09:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-16 09:34:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [徐穗珍将solo歌手出道](https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%A9%97%E7%8F%8D%E5%B0%86solo%E6%AD%8C%E6%89%8B%E5%87%BA%E9%81%93%23&t=31&band_rank=5&Refer=top)<br />
 6. [4名小学生发现41年前曾灭绝的甲虫](https://s.weibo.com/weibo?q=%234%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B041%E5%B9%B4%E5%89%8D%E6%9B%BE%E7%81%AD%E7%BB%9D%E7%9A%84%E7%94%B2%E8%99%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [在飞机上拍到一半海水一半沙漠](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E6%8B%8D%E5%88%B0%E4%B8%80%E5%8D%8A%E6%B5%B7%E6%B0%B4%E4%B8%80%E5%8D%8A%E6%B2%99%E6%BC%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [赵丽颖与凤行全新造型](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8E%E5%87%A4%E8%A1%8C%E5%85%A8%E6%96%B0%E9%80%A0%E5%9E%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [巴以冲突已致双方超4100人死亡](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%B7%B2%E8%87%B4%E5%8F%8C%E6%96%B9%E8%B6%854100%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [宋轶真的好懂i人](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%9C%9F%E7%9A%84%E5%A5%BD%E6%87%82i%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [赵丽颖与凤行全新造型](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8E%E5%87%A4%E8%A1%8C%E5%85%A8%E6%96%B0%E9%80%A0%E5%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [“窝”了20年的“o”读错了？](https://www.baidu.com/s?wd=%E2%80%9C%E7%AA%9D%E2%80%9D%E4%BA%8620%E5%B9%B4%E7%9A%84%E2%80%9Co%E2%80%9D%E8%AF%BB%E9%94%99%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [公办教师调入镇政府30年退休没编制](https://www.baidu.com/s?wd=%E5%85%AC%E5%8A%9E%E6%95%99%E5%B8%88%E8%B0%83%E5%85%A5%E9%95%87%E6%94%BF%E5%BA%9C30%E5%B9%B4%E9%80%80%E4%BC%91%E6%B2%A1%E7%BC%96%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [拜登：必须彻底消灭哈马斯](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%EF%BC%9A%E5%BF%85%E9%A1%BB%E5%BD%BB%E5%BA%95%E6%B6%88%E7%81%AD%E5%93%88%E9%A9%AC%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [古特雷斯称中东处于深渊边缘](https://www.baidu.com/s?wd=%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF%E7%A7%B0%E4%B8%AD%E4%B8%9C%E5%A4%84%E4%BA%8E%E6%B7%B1%E6%B8%8A%E8%BE%B9%E7%BC%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [以色列人：仍想帮助加沙老朋友](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E4%BA%BA%EF%BC%9A%E4%BB%8D%E6%83%B3%E5%B8%AE%E5%8A%A9%E5%8A%A0%E6%B2%99%E8%80%81%E6%9C%8B%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [大陆军机藏民航下扰台？真相来了](https://www.baidu.com/s?wd=%E5%A4%A7%E9%99%86%E5%86%9B%E6%9C%BA%E8%97%8F%E6%B0%91%E8%88%AA%E4%B8%8B%E6%89%B0%E5%8F%B0%EF%BC%9F%E7%9C%9F%E7%9B%B8%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [“窝”了20年的“o”读错了？](https://www.baidu.com/s?wd=%E2%80%9C%E7%AA%9D%E2%80%9D%E4%BA%8620%E5%B9%B4%E7%9A%84%E2%80%9Co%E2%80%9D%E8%AF%BB%E9%94%99%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [公办教师调入镇政府30年退休没编制](https://www.baidu.com/s?wd=%E5%85%AC%E5%8A%9E%E6%95%99%E5%B8%88%E8%B0%83%E5%85%A5%E9%95%87%E6%94%BF%E5%BA%9C30%E5%B9%B4%E9%80%80%E4%BC%91%E6%B2%A1%E7%BC%96%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [拜登：必须彻底消灭哈马斯](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%EF%BC%9A%E5%BF%85%E9%A1%BB%E5%BD%BB%E5%BA%95%E6%B6%88%E7%81%AD%E5%93%88%E9%A9%AC%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [古特雷斯称中东处于深渊边缘](https://www.baidu.com/s?wd=%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF%E7%A7%B0%E4%B8%AD%E4%B8%9C%E5%A4%84%E4%BA%8E%E6%B7%B1%E6%B8%8A%E8%BE%B9%E7%BC%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [以色列人：仍想帮助加沙老朋友](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E4%BA%BA%EF%BC%9A%E4%BB%8D%E6%83%B3%E5%B8%AE%E5%8A%A9%E5%8A%A0%E6%B2%99%E8%80%81%E6%9C%8B%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [大陆军机藏民航下扰台？真相来了](https://www.baidu.com/s?wd=%E5%A4%A7%E9%99%86%E5%86%9B%E6%9C%BA%E8%97%8F%E6%B0%91%E8%88%AA%E4%B8%8B%E6%89%B0%E5%8F%B0%EF%BC%9F%E7%9C%9F%E7%9B%B8%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
