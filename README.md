@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 07:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 07:54:01</h4></div>
 
 > 微博  
 
 1. [救了个老人是曾经的小学老师](https://s.weibo.com/weibo?q=%23%E6%95%91%E4%BA%86%E4%B8%AA%E8%80%81%E4%BA%BA%E6%98%AF%E6%9B%BE%E7%BB%8F%E7%9A%84%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%23&t=31&band_rank=1&Refer=top)<br />
-2. [莲花楼演唱会 诚意满满](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E6%BC%94%E5%94%B1%E4%BC%9A%20%E8%AF%9A%E6%84%8F%E6%BB%A1%E6%BB%A1&t=31&band_rank=2&Refer=top)<br />
+2. [杨紫长相思演唱会哭了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%95%BF%E7%9B%B8%E6%80%9D%E6%BC%94%E5%94%B1%E4%BC%9A%E5%93%AD%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [丝路之歌一路繁花](https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%B7%AF%E4%B9%8B%E6%AD%8C%E4%B8%80%E8%B7%AF%E7%B9%81%E8%8A%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [长相思晚会 尴尬](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E6%99%9A%E4%BC%9A%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=4&Refer=top)<br />
-5. [普京抵达人民大会堂](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%23&t=31&band_rank=5&Refer=top)<br />
+5. [莲花楼演唱会 诚意满满](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E6%BC%94%E5%94%B1%E4%BC%9A%20%E8%AF%9A%E6%84%8F%E6%BB%A1%E6%BB%A1&t=31&band_rank=5&Refer=top)<br />
 6. [加沙地带一医院遭袭数百人死亡](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E4%B8%80%E5%8C%BB%E9%99%A2%E9%81%AD%E8%A2%AD%E6%95%B0%E7%99%BE%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [巴方称加沙医院遭以军空袭死伤数百人](https://s.weibo.com/weibo?q=%E5%B7%B4%E6%96%B9%E7%A7%B0%E5%8A%A0%E6%B2%99%E5%8C%BB%E9%99%A2%E9%81%AD%E4%BB%A5%E5%86%9B%E7%A9%BA%E8%A2%AD%E6%AD%BB%E4%BC%A4%E6%95%B0%E7%99%BE%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
-8. [扶杨紫的小姐姐撞进了邓为怀里](https://s.weibo.com/weibo?q=%23%E6%89%B6%E6%9D%A8%E7%B4%AB%E7%9A%84%E5%B0%8F%E5%A7%90%E5%A7%90%E6%92%9E%E8%BF%9B%E4%BA%86%E9%82%93%E4%B8%BA%E6%80%80%E9%87%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [167名儿童仍被困在加沙废墟中](https://s.weibo.com/weibo?q=%23167%E5%90%8D%E5%84%BF%E7%AB%A5%E4%BB%8D%E8%A2%AB%E5%9B%B0%E5%9C%A8%E5%8A%A0%E6%B2%99%E5%BA%9F%E5%A2%9F%E4%B8%AD%23&t=31&band_rank=9&Refer=top)<br />
+8. [普京抵达人民大会堂](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%23&t=31&band_rank=8&Refer=top)<br />
+9. [扶杨紫的小姐姐撞进了邓为怀里](https://s.weibo.com/weibo?q=%23%E6%89%B6%E6%9D%A8%E7%B4%AB%E7%9A%84%E5%B0%8F%E5%A7%90%E5%A7%90%E6%92%9E%E8%BF%9B%E4%BA%86%E9%82%93%E4%B8%BA%E6%80%80%E9%87%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
