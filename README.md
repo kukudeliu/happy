@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 01:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 01:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [檀健次摘耳返](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E6%91%98%E8%80%B3%E8%BF%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [联合国称以色列可能构成国际犯罪](https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%B0%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%AF%E8%83%BD%E6%9E%84%E6%88%90%E5%9B%BD%E9%99%85%E7%8A%AF%E7%BD%AA%23&t=31&band_rank=7&Refer=top)<br />
 8. [扶杨紫的小姐姐撞进了邓为怀里](https://s.weibo.com/weibo?q=%23%E6%89%B6%E6%9D%A8%E7%B4%AB%E7%9A%84%E5%B0%8F%E5%A7%90%E5%A7%90%E6%92%9E%E8%BF%9B%E4%BA%86%E9%82%93%E4%B8%BA%E6%80%80%E9%87%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [iPad eSIM](https://s.weibo.com/weibo?q=iPad%20eSIM&t=31&band_rank=9&Refer=top)<br />
+9. [王楚钦比赛也逃不过写论文](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%AF%94%E8%B5%9B%E4%B9%9F%E9%80%83%E4%B8%8D%E8%BF%87%E5%86%99%E8%AE%BA%E6%96%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
