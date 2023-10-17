@@ -1,8 +1,8 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 17:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 17:48:01</h4></div>
 
 > 微博  
 
-1. [咬伤女童罗纳威主人被采取刑事强制措施](https://s.weibo.com/weibo?q=%23%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%BD%97%E7%BA%B3%E5%A8%81%E4%B8%BB%E4%BA%BA%E8%A2%AB%E9%87%87%E5%8F%96%E5%88%91%E4%BA%8B%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD%23&t=31&band_rank=1&Refer=top)<br />
+1. [狗主人被采取刑事强制措施](https://s.weibo.com/weibo?q=%E7%8B%97%E4%B8%BB%E4%BA%BA%E8%A2%AB%E9%87%87%E5%8F%96%E5%88%91%E4%BA%8B%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD&t=31&band_rank=1&Refer=top)<br />
 2. [庆余年2有徐志胜](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B42%E6%9C%89%E5%BE%90%E5%BF%97%E8%83%9C%23&t=31&band_rank=2&Refer=top)<br />
 3. [感悟东方智慧的融会贯通](https://s.weibo.com/weibo?q=%23%E6%84%9F%E6%82%9F%E4%B8%9C%E6%96%B9%E6%99%BA%E6%85%A7%E7%9A%84%E8%9E%8D%E4%BC%9A%E8%B4%AF%E9%80%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [屁股针为什么消失了](https://s.weibo.com/weibo?q=%E5%B1%81%E8%82%A1%E9%92%88%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B6%88%E5%A4%B1%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
