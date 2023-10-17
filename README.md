@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 11:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 11:23:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [中国超3亿人遭受慢性疼痛](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%853%E4%BA%BF%E4%BA%BA%E9%81%AD%E5%8F%97%E6%85%A2%E6%80%A7%E7%96%BC%E7%97%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一组数据带你看大国粮仓](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E5%B8%A6%E4%BD%A0%E7%9C%8B%E5%A4%A7%E5%9B%BD%E7%B2%AE%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [支原体肺炎有后遗症吗？专家回应](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%9C%89%E5%90%8E%E9%81%97%E7%97%87%E5%90%97%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [医生谈被狗咬伤女童伤势：不忍直视](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%88%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E4%BC%A4%E5%8A%BF%EF%BC%9A%E4%B8%8D%E5%BF%8D%E7%9B%B4%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子捆脚跳河 U盘遗书均为造谣](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8D%86%E8%84%9A%E8%B7%B3%E6%B2%B3+U%E7%9B%98%E9%81%97%E4%B9%A6%E5%9D%87%E4%B8%BA%E9%80%A0%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [咬伤女童烈犬不在当地禁养犬名单中](https://www.baidu.com/s?wd=%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%83%88%E7%8A%AC%E4%B8%8D%E5%9C%A8%E5%BD%93%E5%9C%B0%E7%A6%81%E5%85%BB%E7%8A%AC%E5%90%8D%E5%8D%95%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医生谈被狗咬伤女童伤势：不忍直视](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%88%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E4%BC%A4%E5%8A%BF%EF%BC%9A%E4%B8%8D%E5%BF%8D%E7%9B%B4%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [百度世界2023](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E4%B8%96%E7%95%8C2023&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [百度发布全新AI互动式搜索](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E5%8F%91%E5%B8%83%E5%85%A8%E6%96%B0AI%E4%BA%92%E5%8A%A8%E5%BC%8F%E6%90%9C%E7%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [中国超3亿人遭受慢性疼痛](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%853%E4%BA%BF%E4%BA%BA%E9%81%AD%E5%8F%97%E6%85%A2%E6%80%A7%E7%96%BC%E7%97%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一组数据带你看大国粮仓](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E5%B8%A6%E4%BD%A0%E7%9C%8B%E5%A4%A7%E5%9B%BD%E7%B2%AE%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [支原体肺炎有后遗症吗？专家回应](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%9C%89%E5%90%8E%E9%81%97%E7%97%87%E5%90%97%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [医生谈被狗咬伤女童伤势：不忍直视](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%88%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E4%BC%A4%E5%8A%BF%EF%BC%9A%E4%B8%8D%E5%BF%8D%E7%9B%B4%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子捆脚跳河 U盘遗书均为造谣](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8D%86%E8%84%9A%E8%B7%B3%E6%B2%B3+U%E7%9B%98%E9%81%97%E4%B9%A6%E5%9D%87%E4%B8%BA%E9%80%A0%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [咬伤女童烈犬不在当地禁养犬名单中](https://www.baidu.com/s?wd=%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%83%88%E7%8A%AC%E4%B8%8D%E5%9C%A8%E5%BD%93%E5%9C%B0%E7%A6%81%E5%85%BB%E7%8A%AC%E5%90%8D%E5%8D%95%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医生谈被狗咬伤女童伤势：不忍直视](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%88%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E4%BC%A4%E5%8A%BF%EF%BC%9A%E4%B8%8D%E5%BF%8D%E7%9B%B4%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [百度世界2023](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E4%B8%96%E7%95%8C2023&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [百度发布全新AI互动式搜索](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E5%8F%91%E5%B8%83%E5%85%A8%E6%96%B0AI%E4%BA%92%E5%8A%A8%E5%BC%8F%E6%90%9C%E7%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
