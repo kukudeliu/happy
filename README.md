@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 20:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 20:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王栎鑫向张杰吐槽逆战难唱](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E5%90%91%E5%BC%A0%E6%9D%B0%E5%90%90%E6%A7%BD%E9%80%86%E6%88%98%E9%9A%BE%E5%94%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [南航飞机餐发4个馒头1片白菜](https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E9%A3%9E%E6%9C%BA%E9%A4%90%E5%8F%914%E4%B8%AA%E9%A6%92%E5%A4%B41%E7%89%87%E7%99%BD%E8%8F%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [星巴克小杯](https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%B7%B4%E5%85%8B%E5%B0%8F%E6%9D%AF%23&t=31&band_rank=8&Refer=top)<br />
-9. [A股大概率有超越5年一遇级别的牛市](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%A4%A7%E6%A6%82%E7%8E%87%E6%9C%89%E8%B6%85%E8%B6%8A5%E5%B9%B4%E4%B8%80%E9%81%87%E7%BA%A7%E5%88%AB%E7%9A%84%E7%89%9B%E5%B8%82%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国邮政 魔道祖师](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%20%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
