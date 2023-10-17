@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 23:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 23:03:01</h4></div>
 
 > 微博  
 
-1. [长相思演唱会](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=1&Refer=top)<br />
-2. [莲花楼演唱会 诚意满满](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E6%BC%94%E5%94%B1%E4%BC%9A%20%E8%AF%9A%E6%84%8F%E6%BB%A1%E6%BB%A1&t=31&band_rank=2&Refer=top)<br />
+1. [莲花楼演唱会 诚意满满](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E6%BC%94%E5%94%B1%E4%BC%9A%20%E8%AF%9A%E6%84%8F%E6%BB%A1%E6%BB%A1&t=31&band_rank=1&Refer=top)<br />
+2. [长相思演唱会](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=2&Refer=top)<br />
 3. [8组数字看懂一带一路](https://s.weibo.com/weibo?q=%238%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%8B%E6%87%82%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [长相思晚会 尴尬](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E6%99%9A%E4%BC%9A%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=4&Refer=top)<br />
 5. [王楚钦比赛也逃不过写论文](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%AF%94%E8%B5%9B%E4%B9%9F%E9%80%83%E4%B8%8D%E8%BF%87%E5%86%99%E8%AE%BA%E6%96%87%23&t=31&band_rank=5&Refer=top)<br />
