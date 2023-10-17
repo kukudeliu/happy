@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 19:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 19:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [国美电器在广东门店已全部关闭](https://www.baidu.com/s?wd=%E5%9B%BD%E7%BE%8E%E7%94%B5%E5%99%A8%E5%9C%A8%E5%B9%BF%E4%B8%9C%E9%97%A8%E5%BA%97%E5%B7%B2%E5%85%A8%E9%83%A8%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国宾大将追授林徽因建筑学学位](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%BE%E5%A4%A7%E5%B0%86%E8%BF%BD%E6%8E%88%E6%9E%97%E5%BE%BD%E5%9B%A0%E5%BB%BA%E7%AD%91%E5%AD%A6%E5%AD%A6%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨紫琼当选国际奥委会委员](https://www.baidu.com/s?wd=%E6%9D%A8%E7%B4%AB%E7%90%BC%E5%BD%93%E9%80%89%E5%9B%BD%E9%99%85%E5%A5%A5%E5%A7%94%E4%BC%9A%E5%A7%94%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [咬人恶犬是否会被安乐死？警方回应](https://www.baidu.com/s?wd=%E5%92%AC%E4%BA%BA%E6%81%B6%E7%8A%AC%E6%98%AF%E5%90%A6%E4%BC%9A%E8%A2%AB%E5%AE%89%E4%B9%90%E6%AD%BB%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [哈萨克斯坦总统回母校 曾在中国八年](https://www.baidu.com/s?wd=%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6%E6%80%BB%E7%BB%9F%E5%9B%9E%E6%AF%8D%E6%A0%A1+%E6%9B%BE%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%85%AB%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子捆脚跳河 U盘遗书均为造谣](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8D%86%E8%84%9A%E8%B7%B3%E6%B2%B3+U%E7%9B%98%E9%81%97%E4%B9%A6%E5%9D%87%E4%B8%BA%E9%80%A0%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [国美电器在广东门店已全部关闭](https://www.baidu.com/s?wd=%E5%9B%BD%E7%BE%8E%E7%94%B5%E5%99%A8%E5%9C%A8%E5%B9%BF%E4%B8%9C%E9%97%A8%E5%BA%97%E5%B7%B2%E5%85%A8%E9%83%A8%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国宾大将追授林徽因建筑学学位](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%BE%E5%A4%A7%E5%B0%86%E8%BF%BD%E6%8E%88%E6%9E%97%E5%BE%BD%E5%9B%A0%E5%BB%BA%E7%AD%91%E5%AD%A6%E5%AD%A6%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨紫琼当选国际奥委会委员](https://www.baidu.com/s?wd=%E6%9D%A8%E7%B4%AB%E7%90%BC%E5%BD%93%E9%80%89%E5%9B%BD%E9%99%85%E5%A5%A5%E5%A7%94%E4%BC%9A%E5%A7%94%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [咬人恶犬是否会被安乐死？警方回应](https://www.baidu.com/s?wd=%E5%92%AC%E4%BA%BA%E6%81%B6%E7%8A%AC%E6%98%AF%E5%90%A6%E4%BC%9A%E8%A2%AB%E5%AE%89%E4%B9%90%E6%AD%BB%EF%BC%9F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [哈萨克斯坦总统回母校 曾在中国八年](https://www.baidu.com/s?wd=%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6%E6%80%BB%E7%BB%9F%E5%9B%9E%E6%AF%8D%E6%A0%A1+%E6%9B%BE%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%85%AB%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男子捆脚跳河 U盘遗书均为造谣](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8D%86%E8%84%9A%E8%B7%B3%E6%B2%B3+U%E7%9B%98%E9%81%97%E4%B9%A6%E5%9D%87%E4%B8%BA%E9%80%A0%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
