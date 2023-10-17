@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 16:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 16:43:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [屁股针为什么消失了](https://s.weibo.com/weibo?q=%E5%B1%81%E8%82%A1%E9%92%88%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B6%88%E5%A4%B1%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [宋仲基海外试镜全部被淘汰](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BB%B2%E5%9F%BA%E6%B5%B7%E5%A4%96%E8%AF%95%E9%95%9C%E5%85%A8%E9%83%A8%E8%A2%AB%E6%B7%98%E6%B1%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [仲某即将再婚 仲某还是单身](https://s.weibo.com/weibo?q=%E4%BB%B2%E6%9F%90%E5%8D%B3%E5%B0%86%E5%86%8D%E5%A9%9A%20%E4%BB%B2%E6%9F%90%E8%BF%98%E6%98%AF%E5%8D%95%E8%BA%AB&t=31&band_rank=6&Refer=top)<br />
-7. [新疆男孩脱口而出自己是中华民族](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E7%94%B7%E5%AD%A9%E8%84%B1%E5%8F%A3%E8%80%8C%E5%87%BA%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [乞丐情头](https://s.weibo.com/weibo?q=%E4%B9%9E%E4%B8%90%E6%83%85%E5%A4%B4&t=31&band_rank=8&Refer=top)<br />
+7. [李玟本月将在武汉安葬](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E6%9C%AC%E6%9C%88%E5%B0%86%E5%9C%A8%E6%AD%A6%E6%B1%89%E5%AE%89%E8%91%AC%23&t=31&band_rank=7&Refer=top)<br />
+8. [新疆男孩脱口而出自己是中华民族](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E7%94%B7%E5%AD%A9%E8%84%B1%E5%8F%A3%E8%80%8C%E5%87%BA%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%23&t=31&band_rank=8&Refer=top)<br />
 9. [司机路边帮抱婴儿下一秒车被撞飞](https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%9C%BA%E8%B7%AF%E8%BE%B9%E5%B8%AE%E6%8A%B1%E5%A9%B4%E5%84%BF%E4%B8%8B%E4%B8%80%E7%A7%92%E8%BD%A6%E8%A2%AB%E6%92%9E%E9%A3%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
