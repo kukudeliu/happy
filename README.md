@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 08:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 08:07:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [为有暗香来 男主是谁](https://s.weibo.com/weibo?q=%E4%B8%BA%E6%9C%89%E6%9A%97%E9%A6%99%E6%9D%A5%20%E7%94%B7%E4%B8%BB%E6%98%AF%E8%B0%81&t=31&band_rank=5&Refer=top)<br />
 6. [朱一龙 北大](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%20%E5%8C%97%E5%A4%A7&t=31&band_rank=6&Refer=top)<br />
 7. [强烈的自卑会使人变得非常无礼](https://s.weibo.com/weibo?q=%23%E5%BC%BA%E7%83%88%E7%9A%84%E8%87%AA%E5%8D%91%E4%BC%9A%E4%BD%BF%E4%BA%BA%E5%8F%98%E5%BE%97%E9%9D%9E%E5%B8%B8%E6%97%A0%E7%A4%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [檀健次 北海蛊王](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%20%E5%8C%97%E6%B5%B7%E8%9B%8A%E7%8E%8B&t=31&band_rank=8&Refer=top)<br />
+8. [以军称在空袭行动中打死一哈马斯高级领导人](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E7%A7%B0%E5%9C%A8%E7%A9%BA%E8%A2%AD%E8%A1%8C%E5%8A%A8%E4%B8%AD%E6%89%93%E6%AD%BB%E4%B8%80%E5%93%88%E9%A9%AC%E6%96%AF%E9%AB%98%E7%BA%A7%E9%A2%86%E5%AF%BC%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [边伯贤将演唱LOL男团出道单曲](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E5%B0%86%E6%BC%94%E5%94%B1LOL%E7%94%B7%E5%9B%A2%E5%87%BA%E9%81%93%E5%8D%95%E6%9B%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
