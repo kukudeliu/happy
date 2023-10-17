@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 14:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 14:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [这种隔夜水最好别喝](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E9%9A%94%E5%A4%9C%E6%B0%B4%E6%9C%80%E5%A5%BD%E5%88%AB%E5%96%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [高中同学车祸失忆全班守护18年](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%AD%E5%90%8C%E5%AD%A6%E8%BD%A6%E7%A5%B8%E5%A4%B1%E5%BF%86%E5%85%A8%E7%8F%AD%E5%AE%88%E6%8A%A418%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [身份证会被手机消磁吗](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%BC%9A%E8%A2%AB%E6%89%8B%E6%9C%BA%E6%B6%88%E7%A3%81%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [妈妈出门买菜身后跟俩特种兵](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%87%BA%E9%97%A8%E4%B9%B0%E8%8F%9C%E8%BA%AB%E5%90%8E%E8%B7%9F%E4%BF%A9%E7%89%B9%E7%A7%8D%E5%85%B5%23&t=31&band_rank=9&Refer=top)<br />
+9. [朴灿烈吴世勋签约新公司](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E7%81%BF%E7%83%88%E5%90%B4%E4%B8%96%E5%8B%8B%E7%AD%BE%E7%BA%A6%E6%96%B0%E5%85%AC%E5%8F%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
