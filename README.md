@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 21:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-17 21:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [长相思演唱会](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
 7. [南航飞机餐发4个馒头1片白菜](https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E9%A3%9E%E6%9C%BA%E9%A4%90%E5%8F%914%E4%B8%AA%E9%A6%92%E5%A4%B41%E7%89%87%E7%99%BD%E8%8F%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [长相思晚会 尴尬](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E6%99%9A%E4%BC%9A%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=8&Refer=top)<br />
-9. [中国邮政 魔道祖师](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%20%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88&t=31&band_rank=9&Refer=top)<br />
+9. [郭艾伦 我腿完蛋了](https://s.weibo.com/weibo?q=%E9%83%AD%E8%89%BE%E4%BC%A6%20%E6%88%91%E8%85%BF%E5%AE%8C%E8%9B%8B%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
