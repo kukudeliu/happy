@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 08:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 08:30:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [全力以赴保障粮食丰收](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E4%BF%9D%E9%9A%9C%E7%B2%AE%E9%A3%9F%E4%B8%B0%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [宠物协会人士：建议养犬前先考试](https://www.baidu.com/s?wd=%E5%AE%A0%E7%89%A9%E5%8D%8F%E4%BC%9A%E4%BA%BA%E5%A3%AB%EF%BC%9A%E5%BB%BA%E8%AE%AE%E5%85%BB%E7%8A%AC%E5%89%8D%E5%85%88%E8%80%83%E8%AF%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [苹果承认iPhone15存在烧屏问题](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%89%BF%E8%AE%A4iPhone15%E5%AD%98%E5%9C%A8%E7%83%A7%E5%B1%8F%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [咬伤女童的狗打过狂犬疫苗](https://www.baidu.com/s?wd=%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%9A%84%E7%8B%97%E6%89%93%E8%BF%87%E7%8B%82%E7%8A%AC%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子景区单反拍照 遭遇大妈入镜阻拦](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%99%AF%E5%8C%BA%E5%8D%95%E5%8F%8D%E6%8B%8D%E7%85%A7+%E9%81%AD%E9%81%87%E5%A4%A7%E5%A6%88%E5%85%A5%E9%95%9C%E9%98%BB%E6%8B%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小伙爬山晕倒坚持先拜财神再就医](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%88%AC%E5%B1%B1%E6%99%95%E5%80%92%E5%9D%9A%E6%8C%81%E5%85%88%E6%8B%9C%E8%B4%A2%E7%A5%9E%E5%86%8D%E5%B0%B1%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [咬伤女童的狗打过狂犬疫苗](https://www.baidu.com/s?wd=%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%9A%84%E7%8B%97%E6%89%93%E8%BF%87%E7%8B%82%E7%8A%AC%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江苏无锡工厂发生爆燃系谣言](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%97%A0%E9%94%A1%E5%B7%A5%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%87%83%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [全力以赴保障粮食丰收](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E4%BF%9D%E9%9A%9C%E7%B2%AE%E9%A3%9F%E4%B8%B0%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [宠物协会人士：建议养犬前先考试](https://www.baidu.com/s?wd=%E5%AE%A0%E7%89%A9%E5%8D%8F%E4%BC%9A%E4%BA%BA%E5%A3%AB%EF%BC%9A%E5%BB%BA%E8%AE%AE%E5%85%BB%E7%8A%AC%E5%89%8D%E5%85%88%E8%80%83%E8%AF%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [苹果承认iPhone15存在烧屏问题](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%89%BF%E8%AE%A4iPhone15%E5%AD%98%E5%9C%A8%E7%83%A7%E5%B1%8F%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [咬伤女童的狗打过狂犬疫苗](https://www.baidu.com/s?wd=%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%9A%84%E7%8B%97%E6%89%93%E8%BF%87%E7%8B%82%E7%8A%AC%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子景区单反拍照 遭遇大妈入镜阻拦](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%99%AF%E5%8C%BA%E5%8D%95%E5%8F%8D%E6%8B%8D%E7%85%A7+%E9%81%AD%E9%81%87%E5%A4%A7%E5%A6%88%E5%85%A5%E9%95%9C%E9%98%BB%E6%8B%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小伙爬山晕倒坚持先拜财神再就医](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%88%AC%E5%B1%B1%E6%99%95%E5%80%92%E5%9D%9A%E6%8C%81%E5%85%88%E6%8B%9C%E8%B4%A2%E7%A5%9E%E5%86%8D%E5%B0%B1%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [咬伤女童的狗打过狂犬疫苗](https://www.baidu.com/s?wd=%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%9A%84%E7%8B%97%E6%89%93%E8%BF%87%E7%8B%82%E7%8A%AC%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江苏无锡工厂发生爆燃系谣言](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%97%A0%E9%94%A1%E5%B7%A5%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%87%83%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
