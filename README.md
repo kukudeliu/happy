@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 16:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 16:57:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [拜登抵达以色列](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8A%B5%E8%BE%BE%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [福原爱副教授职位或将不保](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E5%89%AF%E6%95%99%E6%8E%88%E8%81%8C%E4%BD%8D%E6%88%96%E5%B0%86%E4%B8%8D%E4%BF%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [生长痛 维生素D](https://s.weibo.com/weibo?q=%E7%94%9F%E9%95%BF%E7%97%9B%20%E7%BB%B4%E7%94%9F%E7%B4%A0D&t=31&band_rank=8&Refer=top)<br />
-9. [陆虎淋过雨要把王栎鑫的伞也撕烂](https://s.weibo.com/weibo?q=%23%E9%99%86%E8%99%8E%E6%B7%8B%E8%BF%87%E9%9B%A8%E8%A6%81%E6%8A%8A%E7%8E%8B%E6%A0%8E%E9%91%AB%E7%9A%84%E4%BC%9E%E4%B9%9F%E6%92%95%E7%83%82%23&t=31&band_rank=9&Refer=top)<br />
+9. [9月份中国从日本进口的水产品归零](https://s.weibo.com/weibo?q=%239%E6%9C%88%E4%BB%BD%E4%B8%AD%E5%9B%BD%E4%BB%8E%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%9A%84%E6%B0%B4%E4%BA%A7%E5%93%81%E5%BD%92%E9%9B%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
