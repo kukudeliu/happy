@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 09:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 09:03:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [丝路之歌一路繁花](https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%B7%AF%E4%B9%8B%E6%AD%8C%E4%B8%80%E8%B7%AF%E7%B9%81%E8%8A%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [长相思晚会 尴尬](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E6%99%9A%E4%BC%9A%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=4&Refer=top)<br />
 5. [救了个老人是曾经的小学老师](https://s.weibo.com/weibo?q=%23%E6%95%91%E4%BA%86%E4%B8%AA%E8%80%81%E4%BA%BA%E6%98%AF%E6%9B%BE%E7%BB%8F%E7%9A%84%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%23&t=31&band_rank=5&Refer=top)<br />
-6. [4万多的钻石内裤在上海也卖不动](https://s.weibo.com/weibo?q=%234%E4%B8%87%E5%A4%9A%E7%9A%84%E9%92%BB%E7%9F%B3%E5%86%85%E8%A3%A4%E5%9C%A8%E4%B8%8A%E6%B5%B7%E4%B9%9F%E5%8D%96%E4%B8%8D%E5%8A%A8%23&t=31&band_rank=6&Refer=top)<br />
-7. [加沙地带一医院遭袭数百人死亡](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E4%B8%80%E5%8C%BB%E9%99%A2%E9%81%AD%E8%A2%AD%E6%95%B0%E7%99%BE%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
+6. [加沙地带一医院遭袭数百人死亡](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E4%B8%80%E5%8C%BB%E9%99%A2%E9%81%AD%E8%A2%AD%E6%95%B0%E7%99%BE%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
+7. [4万多的钻石内裤在上海也卖不动](https://s.weibo.com/weibo?q=%234%E4%B8%87%E5%A4%9A%E7%9A%84%E9%92%BB%E7%9F%B3%E5%86%85%E8%A3%A4%E5%9C%A8%E4%B8%8A%E6%B5%B7%E4%B9%9F%E5%8D%96%E4%B8%8D%E5%8A%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨紫长相思演唱会哭了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%95%BF%E7%9B%B8%E6%80%9D%E6%BC%94%E5%94%B1%E4%BC%9A%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [iOS17.1将修复iPhone15烧屏问题](https://s.weibo.com/weibo?q=%23iOS17.1%E5%B0%86%E4%BF%AE%E5%A4%8DiPhone15%E7%83%A7%E5%B1%8F%E9%97%AE%E9%A2%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [外媒称浸信会医院遭袭已致至少500人死亡](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E6%B5%B8%E4%BF%A1%E4%BC%9A%E5%8C%BB%E9%99%A2%E9%81%AD%E8%A2%AD%E5%B7%B2%E8%87%B4%E8%87%B3%E5%B0%91500%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
