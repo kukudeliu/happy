@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 16:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 16:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [100元吃遍东北早市当事人道歉](https://s.weibo.com/weibo?q=%23100%E5%85%83%E5%90%83%E9%81%8D%E4%B8%9C%E5%8C%97%E6%97%A9%E5%B8%82%E5%BD%93%E4%BA%8B%E4%BA%BA%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [王栎鑫相亲被问急了自嘲情感不顺](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E7%9B%B8%E4%BA%B2%E8%A2%AB%E9%97%AE%E6%80%A5%E4%BA%86%E8%87%AA%E5%98%B2%E6%83%85%E6%84%9F%E4%B8%8D%E9%A1%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [孙俪女儿入了甄嬛的坑](https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E5%A5%B3%E5%84%BF%E5%85%A5%E4%BA%86%E7%94%84%E5%AC%9B%E7%9A%84%E5%9D%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [10000元网购大闸蟹避雷攻略](https://s.weibo.com/weibo?q=%2310000%E5%85%83%E7%BD%91%E8%B4%AD%E5%A4%A7%E9%97%B8%E8%9F%B9%E9%81%BF%E9%9B%B7%E6%94%BB%E7%95%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [周杰伦蔡依林 倒带](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%94%A1%E4%BE%9D%E6%9E%97%20%E5%80%92%E5%B8%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
