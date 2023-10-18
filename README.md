@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 13:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 13:55:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [亚残运会火炬传递19日启动](https://www.baidu.com/s?wd=%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%9219%E6%97%A5%E5%90%AF%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子取快递跌落或瘫痪 驿站连夜搬走](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%96%E5%BF%AB%E9%80%92%E8%B7%8C%E8%90%BD%E6%88%96%E7%98%AB%E7%97%AA+%E9%A9%BF%E7%AB%99%E8%BF%9E%E5%A4%9C%E6%90%AC%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京访华获顶格待遇](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%AE%BF%E5%8D%8E%E8%8E%B7%E9%A1%B6%E6%A0%BC%E5%BE%85%E9%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [加沙遇袭医院在尸体堆中召开发布会](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E9%81%87%E8%A2%AD%E5%8C%BB%E9%99%A2%E5%9C%A8%E5%B0%B8%E4%BD%93%E5%A0%86%E4%B8%AD%E5%8F%AC%E5%BC%80%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国家统计局回应人口数量下降](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80%E5%9B%9E%E5%BA%94%E4%BA%BA%E5%8F%A3%E6%95%B0%E9%87%8F%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [全职妈妈遭“杀猪盘”后跳楼轻生](https://www.baidu.com/s?wd=%E5%85%A8%E8%81%8C%E5%A6%88%E5%A6%88%E9%81%AD%E2%80%9C%E6%9D%80%E7%8C%AA%E7%9B%98%E2%80%9D%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BD%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加沙遇袭医院在尸体堆中召开发布会](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E9%81%87%E8%A2%AD%E5%8C%BB%E9%99%A2%E5%9C%A8%E5%B0%B8%E4%BD%93%E5%A0%86%E4%B8%AD%E5%8F%AC%E5%BC%80%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方否认成都部分小区设打狗队](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%90%A6%E8%AE%A4%E6%88%90%E9%83%BD%E9%83%A8%E5%88%86%E5%B0%8F%E5%8C%BA%E8%AE%BE%E6%89%93%E7%8B%97%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [亚残运会火炬传递19日启动](https://www.baidu.com/s?wd=%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%9219%E6%97%A5%E5%90%AF%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子取快递跌落或瘫痪 驿站连夜搬走](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%96%E5%BF%AB%E9%80%92%E8%B7%8C%E8%90%BD%E6%88%96%E7%98%AB%E7%97%AA+%E9%A9%BF%E7%AB%99%E8%BF%9E%E5%A4%9C%E6%90%AC%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京访华获顶格待遇](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%AE%BF%E5%8D%8E%E8%8E%B7%E9%A1%B6%E6%A0%BC%E5%BE%85%E9%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [加沙遇袭医院在尸体堆中召开发布会](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E9%81%87%E8%A2%AD%E5%8C%BB%E9%99%A2%E5%9C%A8%E5%B0%B8%E4%BD%93%E5%A0%86%E4%B8%AD%E5%8F%AC%E5%BC%80%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国家统计局回应人口数量下降](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80%E5%9B%9E%E5%BA%94%E4%BA%BA%E5%8F%A3%E6%95%B0%E9%87%8F%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [全职妈妈遭“杀猪盘”后跳楼轻生](https://www.baidu.com/s?wd=%E5%85%A8%E8%81%8C%E5%A6%88%E5%A6%88%E9%81%AD%E2%80%9C%E6%9D%80%E7%8C%AA%E7%9B%98%E2%80%9D%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BD%BB%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加沙遇袭医院在尸体堆中召开发布会](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E9%81%87%E8%A2%AD%E5%8C%BB%E9%99%A2%E5%9C%A8%E5%B0%B8%E4%BD%93%E5%A0%86%E4%B8%AD%E5%8F%AC%E5%BC%80%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方否认成都部分小区设打狗队](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%90%A6%E8%AE%A4%E6%88%90%E9%83%BD%E9%83%A8%E5%88%86%E5%B0%8F%E5%8C%BA%E8%AE%BE%E6%89%93%E7%8B%97%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
