@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 02:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 02:56:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [杜华说不想再养NAME了](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%86%8D%E5%85%BBNAME%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [巴总统宣布全国哀悼三天](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E4%B8%89%E5%A4%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [4090显卡全面下架](https://s.weibo.com/weibo?q=%234090%E6%98%BE%E5%8D%A1%E5%85%A8%E9%9D%A2%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [广州地铁禁止恐怖形象进站](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E7%A6%81%E6%AD%A2%E6%81%90%E6%80%96%E5%BD%A2%E8%B1%A1%E8%BF%9B%E7%AB%99%23&t=31&band_rank=8&Refer=top)<br />
+8. [天官赐福 进不去](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%20%E8%BF%9B%E4%B8%8D%E5%8E%BB&t=31&band_rank=8&Refer=top)<br />
 9. [巴以冲突已致双方超4900人死亡](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%B7%B2%E8%87%B4%E5%8F%8C%E6%96%B9%E8%B6%854900%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
