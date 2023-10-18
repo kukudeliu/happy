@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 05:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 05:19:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [EXO变成CEO了](https://s.weibo.com/weibo?q=%23EXO%E5%8F%98%E6%88%90CEO%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [巴总统宣布全国哀悼三天](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E4%B8%89%E5%A4%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [6个多月就出生的巴掌宝宝健康出院](https://s.weibo.com/weibo?q=%236%E4%B8%AA%E5%A4%9A%E6%9C%88%E5%B0%B1%E5%87%BA%E7%94%9F%E7%9A%84%E5%B7%B4%E6%8E%8C%E5%AE%9D%E5%AE%9D%E5%81%A5%E5%BA%B7%E5%87%BA%E9%99%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [4090显卡全面下架](https://s.weibo.com/weibo?q=%234090%E6%98%BE%E5%8D%A1%E5%85%A8%E9%9D%A2%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=8&Refer=top)<br />
+8. [福宝 适当发疯有益身心健康](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%AE%9D%20%E9%80%82%E5%BD%93%E5%8F%91%E7%96%AF%E6%9C%89%E7%9B%8A%E8%BA%AB%E5%BF%83%E5%81%A5%E5%BA%B7&t=31&band_rank=8&Refer=top)<br />
 9. [巴以冲突已致双方超4900人死亡](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%B7%B2%E8%87%B4%E5%8F%8C%E6%96%B9%E8%B6%854900%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
