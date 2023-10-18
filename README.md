@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 09:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 09:20:01</h4></div>
 
 > 微博  
 
-1. [塞尔维亚是中国的铁杆朋友](https://s.weibo.com/weibo?q=%23%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%93%81%E6%9D%86%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=1&Refer=top)<br />
-2. [建议以租代买的物品](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%BB%A5%E7%A7%9F%E4%BB%A3%E4%B9%B0%E7%9A%84%E7%89%A9%E5%93%81%23&t=31&band_rank=2&Refer=top)<br />
+1. [建议以租代买的物品](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%BB%A5%E7%A7%9F%E4%BB%A3%E4%B9%B0%E7%9A%84%E7%89%A9%E5%93%81%23&t=31&band_rank=1&Refer=top)<br />
+2. [塞尔维亚是中国的铁杆朋友](https://s.weibo.com/weibo?q=%23%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%93%81%E6%9D%86%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=2&Refer=top)<br />
 3. [丝路之歌一路繁花](https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%B7%AF%E4%B9%8B%E6%AD%8C%E4%B8%80%E8%B7%AF%E7%B9%81%E8%8A%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [苹果承认iPhone15存在烧屏问题](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%BF%E8%AE%A4iPhone15%E5%AD%98%E5%9C%A8%E7%83%A7%E5%B1%8F%E9%97%AE%E9%A2%98%23&t=31&band_rank=4&Refer=top)<br />
 5. [长相思晚会 尴尬](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E6%99%9A%E4%BC%9A%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=5&Refer=top)<br />
