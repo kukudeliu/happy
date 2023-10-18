@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 11:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 11:22:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [被狗咬女童肾脏一部分坏了 无法恢复](https://www.baidu.com/s?wd=%E8%A2%AB%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E8%82%BE%E8%84%8F%E4%B8%80%E9%83%A8%E5%88%86%E5%9D%8F%E4%BA%86+%E6%97%A0%E6%B3%95%E6%81%A2%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [60箱蜜蜂被指遭人投毒一夜死光](https://www.baidu.com/s?wd=60%E7%AE%B1%E8%9C%9C%E8%9C%82%E8%A2%AB%E6%8C%87%E9%81%AD%E4%BA%BA%E6%8A%95%E6%AF%92%E4%B8%80%E5%A4%9C%E6%AD%BB%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杭州限购松绑背后：楼市量价齐跌](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%99%90%E8%B4%AD%E6%9D%BE%E7%BB%91%E8%83%8C%E5%90%8E%EF%BC%9A%E6%A5%BC%E5%B8%82%E9%87%8F%E4%BB%B7%E9%BD%90%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [深圳保安暴打外卖骑手系谣言](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BF%9D%E5%AE%89%E6%9A%B4%E6%89%93%E5%A4%96%E5%8D%96%E9%AA%91%E6%89%8B%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方否认成都部分小区设打狗队](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%90%A6%E8%AE%A4%E6%88%90%E9%83%BD%E9%83%A8%E5%88%86%E5%B0%8F%E5%8C%BA%E8%AE%BE%E6%89%93%E7%8B%97%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [被狗咬女童肾脏一部分坏了 无法恢复](https://www.baidu.com/s?wd=%E8%A2%AB%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E8%82%BE%E8%84%8F%E4%B8%80%E9%83%A8%E5%88%86%E5%9D%8F%E4%BA%86+%E6%97%A0%E6%B3%95%E6%81%A2%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [60箱蜜蜂被指遭人投毒一夜死光](https://www.baidu.com/s?wd=60%E7%AE%B1%E8%9C%9C%E8%9C%82%E8%A2%AB%E6%8C%87%E9%81%AD%E4%BA%BA%E6%8A%95%E6%AF%92%E4%B8%80%E5%A4%9C%E6%AD%BB%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杭州限购松绑背后：楼市量价齐跌](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%99%90%E8%B4%AD%E6%9D%BE%E7%BB%91%E8%83%8C%E5%90%8E%EF%BC%9A%E6%A5%BC%E5%B8%82%E9%87%8F%E4%BB%B7%E9%BD%90%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [深圳保安暴打外卖骑手系谣言](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BF%9D%E5%AE%89%E6%9A%B4%E6%89%93%E5%A4%96%E5%8D%96%E9%AA%91%E6%89%8B%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方否认成都部分小区设打狗队](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%90%A6%E8%AE%A4%E6%88%90%E9%83%BD%E9%83%A8%E5%88%86%E5%B0%8F%E5%8C%BA%E8%AE%BE%E6%89%93%E7%8B%97%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
