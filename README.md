@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 08:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 08:18:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [长相思晚会 尴尬](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E6%99%9A%E4%BC%9A%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=5&Refer=top)<br />
 6. [加沙地带一医院遭袭数百人死亡](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E4%B8%80%E5%8C%BB%E9%99%A2%E9%81%AD%E8%A2%AD%E6%95%B0%E7%99%BE%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [167名儿童仍被困在加沙废墟中](https://s.weibo.com/weibo?q=%23167%E5%90%8D%E5%84%BF%E7%AB%A5%E4%BB%8D%E8%A2%AB%E5%9B%B0%E5%9C%A8%E5%8A%A0%E6%B2%99%E5%BA%9F%E5%A2%9F%E4%B8%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [扶杨紫的小姐姐撞进了邓为怀里](https://s.weibo.com/weibo?q=%23%E6%89%B6%E6%9D%A8%E7%B4%AB%E7%9A%84%E5%B0%8F%E5%A7%90%E5%A7%90%E6%92%9E%E8%BF%9B%E4%BA%86%E9%82%93%E4%B8%BA%E6%80%80%E9%87%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [苹果承认iPhone15存在烧屏问题](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%BF%E8%AE%A4iPhone15%E5%AD%98%E5%9C%A8%E7%83%A7%E5%B1%8F%E9%97%AE%E9%A2%98%23&t=31&band_rank=9&Refer=top)<br />
+8. [苹果承认iPhone15存在烧屏问题](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%BF%E8%AE%A4iPhone15%E5%AD%98%E5%9C%A8%E7%83%A7%E5%B1%8F%E9%97%AE%E9%A2%98%23&t=31&band_rank=8&Refer=top)<br />
+9. [扶杨紫的小姐姐撞进了邓为怀里](https://s.weibo.com/weibo?q=%23%E6%89%B6%E6%9D%A8%E7%B4%AB%E7%9A%84%E5%B0%8F%E5%A7%90%E5%A7%90%E6%92%9E%E8%BF%9B%E4%BA%86%E9%82%93%E4%B8%BA%E6%80%80%E9%87%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
