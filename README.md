@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 20:02:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 20:03:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [papi酱 老板直播间](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E8%80%81%E6%9D%BF%E7%9B%B4%E6%92%AD%E9%97%B4&t=31&band_rank=6&Refer=top)<br />
 7. [拜登抵达以色列](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8A%B5%E8%BE%BE%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [年轻人开始反向消费了](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8F%8D%E5%90%91%E6%B6%88%E8%B4%B9%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [山东在印尼沼泽地2年建起现代化产业园](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%9C%A8%E5%8D%B0%E5%B0%BC%E6%B2%BC%E6%B3%BD%E5%9C%B02%E5%B9%B4%E5%BB%BA%E8%B5%B7%E7%8E%B0%E4%BB%A3%E5%8C%96%E4%BA%A7%E4%B8%9A%E5%9B%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [国防部回应我战机驱离加拿大侦察机](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%88%91%E6%88%98%E6%9C%BA%E9%A9%B1%E7%A6%BB%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%BE%A6%E5%AF%9F%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
