@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 22:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 22:04:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [EXO变成CEO了](https://s.weibo.com/weibo?q=%23EXO%E5%8F%98%E6%88%90CEO%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [杜华说不想再养NAME了](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%86%8D%E5%85%BBNAME%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [巴总统宣布全国哀悼三天](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E4%B8%89%E5%A4%A9%23&t=31&band_rank=6&Refer=top)<br />
-7. [天官赐福第二季开播](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BC%80%E6%92%AD&t=31&band_rank=7&Refer=top)<br />
-8. [谢怜cv](https://s.weibo.com/weibo?q=%E8%B0%A2%E6%80%9Ccv&t=31&band_rank=8&Refer=top)<br />
+7. [谢怜cv](https://s.weibo.com/weibo?q=%E8%B0%A2%E6%80%9Ccv&t=31&band_rank=7&Refer=top)<br />
+8. [天官赐福第二季开播](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BC%80%E6%92%AD&t=31&band_rank=8&Refer=top)<br />
 9. [南京1912玄武酒吧](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC1912%E7%8E%84%E6%AD%A6%E9%85%92%E5%90%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
