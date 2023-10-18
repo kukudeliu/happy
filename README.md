@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 08:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 08:25:02</h4></div>
 
 > 微博  
 
 1. [塞尔维亚是中国的铁杆朋友](https://s.weibo.com/weibo?q=%23%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%93%81%E6%9D%86%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=1&Refer=top)<br />
-2. [救了个老人是曾经的小学老师](https://s.weibo.com/weibo?q=%23%E6%95%91%E4%BA%86%E4%B8%AA%E8%80%81%E4%BA%BA%E6%98%AF%E6%9B%BE%E7%BB%8F%E7%9A%84%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%23&t=31&band_rank=2&Refer=top)<br />
+2. [苹果承认iPhone15存在烧屏问题](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%BF%E8%AE%A4iPhone15%E5%AD%98%E5%9C%A8%E7%83%A7%E5%B1%8F%E9%97%AE%E9%A2%98%23&t=31&band_rank=2&Refer=top)<br />
 3. [丝路之歌一路繁花](https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%B7%AF%E4%B9%8B%E6%AD%8C%E4%B8%80%E8%B7%AF%E7%B9%81%E8%8A%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [4万多的钻石内裤在上海也卖不动](https://s.weibo.com/weibo?q=%234%E4%B8%87%E5%A4%9A%E7%9A%84%E9%92%BB%E7%9F%B3%E5%86%85%E8%A3%A4%E5%9C%A8%E4%B8%8A%E6%B5%B7%E4%B9%9F%E5%8D%96%E4%B8%8D%E5%8A%A8%23&t=31&band_rank=4&Refer=top)<br />
-5. [苹果承认iPhone15存在烧屏问题](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%BF%E8%AE%A4iPhone15%E5%AD%98%E5%9C%A8%E7%83%A7%E5%B1%8F%E9%97%AE%E9%A2%98%23&t=31&band_rank=5&Refer=top)<br />
+5. [救了个老人是曾经的小学老师](https://s.weibo.com/weibo?q=%23%E6%95%91%E4%BA%86%E4%B8%AA%E8%80%81%E4%BA%BA%E6%98%AF%E6%9B%BE%E7%BB%8F%E7%9A%84%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [加沙地带一医院遭袭数百人死亡](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E4%B8%80%E5%8C%BB%E9%99%A2%E9%81%AD%E8%A2%AD%E6%95%B0%E7%99%BE%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [长相思晚会 尴尬](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E6%99%9A%E4%BC%9A%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=7&Refer=top)<br />
 8. [167名儿童仍被困在加沙废墟中](https://s.weibo.com/weibo?q=%23167%E5%90%8D%E5%84%BF%E7%AB%A5%E4%BB%8D%E8%A2%AB%E5%9B%B0%E5%9C%A8%E5%8A%A0%E6%B2%99%E5%BA%9F%E5%A2%9F%E4%B8%AD%23&t=31&band_rank=8&Refer=top)<br />
