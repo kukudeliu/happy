@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 02:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 02:04:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [范思哲晚宴](https://s.weibo.com/weibo?q=%E8%8C%83%E6%80%9D%E5%93%B2%E6%99%9A%E5%AE%B4&t=31&band_rank=2&Refer=top)<br />
 3. [中国桥梁连着历史和现实的非凡跨越](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%A1%A5%E6%A2%81%E8%BF%9E%E7%9D%80%E5%8E%86%E5%8F%B2%E5%92%8C%E7%8E%B0%E5%AE%9E%E7%9A%84%E9%9D%9E%E5%87%A1%E8%B7%A8%E8%B6%8A%23&t=31&band_rank=3&Refer=top)<br />
 4. [EXO变成CEO了](https://s.weibo.com/weibo?q=%23EXO%E5%8F%98%E6%88%90CEO%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [福宝 适当发疯有益身心健康](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%AE%9D%20%E9%80%82%E5%BD%93%E5%8F%91%E7%96%AF%E6%9C%89%E7%9B%8A%E8%BA%AB%E5%BF%83%E5%81%A5%E5%BA%B7&t=31&band_rank=5&Refer=top)<br />
+5. [杜华说不想再养NAME了](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%86%8D%E5%85%BBNAME%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [巴总统宣布全国哀悼三天](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E4%B8%89%E5%A4%A9%23&t=31&band_rank=6&Refer=top)<br />
-7. [广州地铁禁止恐怖形象进站](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E7%A6%81%E6%AD%A2%E6%81%90%E6%80%96%E5%BD%A2%E8%B1%A1%E8%BF%9B%E7%AB%99%23&t=31&band_rank=7&Refer=top)<br />
-8. [杜华说不想再养NAME了](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%86%8D%E5%85%BBNAME%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [福宝 适当发疯有益身心健康](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%AE%9D%20%E9%80%82%E5%BD%93%E5%8F%91%E7%96%AF%E6%9C%89%E7%9B%8A%E8%BA%AB%E5%BF%83%E5%81%A5%E5%BA%B7&t=31&band_rank=7&Refer=top)<br />
+8. [广州地铁禁止恐怖形象进站](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E7%A6%81%E6%AD%A2%E6%81%90%E6%80%96%E5%BD%A2%E8%B1%A1%E8%BF%9B%E7%AB%99%23&t=31&band_rank=8&Refer=top)<br />
 9. [巴以冲突已致双方超4900人死亡](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%B7%B2%E8%87%B4%E5%8F%8C%E6%96%B9%E8%B6%854900%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
