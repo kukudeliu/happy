@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 16:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 16:13:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [生长痛 维生素D](https://s.weibo.com/weibo?q=%E7%94%9F%E9%95%BF%E7%97%9B%20%E7%BB%B4%E7%94%9F%E7%B4%A0D&t=31&band_rank=2&Refer=top)<br />
 3. [认识一带一路的朋友圈](https://s.weibo.com/weibo?q=%23%E8%AE%A4%E8%AF%86%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [张硕 芒果后期都看不下去了](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%A1%95%20%E8%8A%92%E6%9E%9C%E5%90%8E%E6%9C%9F%E9%83%BD%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
-5. [茅台董秘称员工离职率只有万分之三](https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E8%91%A3%E7%A7%98%E7%A7%B0%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E7%8E%87%E5%8F%AA%E6%9C%89%E4%B8%87%E5%88%86%E4%B9%8B%E4%B8%89%23&t=31&band_rank=5&Refer=top)<br />
-6. [100元吃遍东北早市当事人道歉](https://s.weibo.com/weibo?q=%23100%E5%85%83%E5%90%83%E9%81%8D%E4%B8%9C%E5%8C%97%E6%97%A9%E5%B8%82%E5%BD%93%E4%BA%8B%E4%BA%BA%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [王栎鑫相亲被问急了自嘲情感不顺](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E7%9B%B8%E4%BA%B2%E8%A2%AB%E9%97%AE%E6%80%A5%E4%BA%86%E8%87%AA%E5%98%B2%E6%83%85%E6%84%9F%E4%B8%8D%E9%A1%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [周杰伦蔡依林 倒带](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%94%A1%E4%BE%9D%E6%9E%97%20%E5%80%92%E5%B8%A6&t=31&band_rank=8&Refer=top)<br />
-9. [福原爱副教授职位或将不保](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E5%89%AF%E6%95%99%E6%8E%88%E8%81%8C%E4%BD%8D%E6%88%96%E5%B0%86%E4%B8%8D%E4%BF%9D%23&t=31&band_rank=9&Refer=top)<br />
+5. [100元吃遍东北早市当事人道歉](https://s.weibo.com/weibo?q=%23100%E5%85%83%E5%90%83%E9%81%8D%E4%B8%9C%E5%8C%97%E6%97%A9%E5%B8%82%E5%BD%93%E4%BA%8B%E4%BA%BA%E9%81%93%E6%AD%89%23&t=31&band_rank=5&Refer=top)<br />
+6. [茅台董秘称员工离职率只有万分之三](https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E8%91%A3%E7%A7%98%E7%A7%B0%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E7%8E%87%E5%8F%AA%E6%9C%89%E4%B8%87%E5%88%86%E4%B9%8B%E4%B8%89%23&t=31&band_rank=6&Refer=top)<br />
+7. [周杰伦蔡依林 倒带](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%94%A1%E4%BE%9D%E6%9E%97%20%E5%80%92%E5%B8%A6&t=31&band_rank=7&Refer=top)<br />
+8. [福原爱副教授职位或将不保](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E5%89%AF%E6%95%99%E6%8E%88%E8%81%8C%E4%BD%8D%E6%88%96%E5%B0%86%E4%B8%8D%E4%BF%9D%23&t=31&band_rank=8&Refer=top)<br />
+9. [王栎鑫相亲被问急了自嘲情感不顺](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E7%9B%B8%E4%BA%B2%E8%A2%AB%E9%97%AE%E6%80%A5%E4%BA%86%E8%87%AA%E5%98%B2%E6%83%85%E6%84%9F%E4%B8%8D%E9%A1%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
