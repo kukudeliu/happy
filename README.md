@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 09:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 09:42:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [长相思晚会 尴尬](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E6%99%9A%E4%BC%9A%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=5&Refer=top)<br />
 6. [加沙地带一医院遭袭数百人死亡](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E4%B8%80%E5%8C%BB%E9%99%A2%E9%81%AD%E8%A2%AD%E6%95%B0%E7%99%BE%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [范家兄妹庆余年2再聚首](https://s.weibo.com/weibo?q=%23%E8%8C%83%E5%AE%B6%E5%85%84%E5%A6%B9%E5%BA%86%E4%BD%99%E5%B9%B42%E5%86%8D%E8%81%9A%E9%A6%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [塞尔维亚是中国的铁杆朋友](https://s.weibo.com/weibo?q=%23%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%93%81%E6%9D%86%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
+8. [内马尔受伤](https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E5%8F%97%E4%BC%A4&t=31&band_rank=8&Refer=top)<br />
 9. [外媒称浸信会医院遭袭已致至少500人死亡](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E6%B5%B8%E4%BF%A1%E4%BC%9A%E5%8C%BB%E9%99%A2%E9%81%AD%E8%A2%AD%E5%B7%B2%E8%87%B4%E8%87%B3%E5%B0%91500%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
