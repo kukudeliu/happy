@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 19:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 19:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [年轻人开始反向消费了](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8F%8D%E5%90%91%E6%B6%88%E8%B4%B9%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [拜登抵达以色列](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8A%B5%E8%BE%BE%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [杜华说不想再养NAME了](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%86%8D%E5%85%BBNAME%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [徐明浩 KIKO](https://s.weibo.com/weibo?q=%E5%BE%90%E6%98%8E%E6%B5%A9%20KIKO&t=31&band_rank=9&Refer=top)<br />
+9. [首位航母女舵手如今更飒了](https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%BD%8D%E8%88%AA%E6%AF%8D%E5%A5%B3%E8%88%B5%E6%89%8B%E5%A6%82%E4%BB%8A%E6%9B%B4%E9%A3%92%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
