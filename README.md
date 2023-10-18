@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 14:42:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 14:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子中723万大奖求店主保密](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%AD723%E4%B8%87%E5%A4%A7%E5%A5%96%E6%B1%82%E5%BA%97%E4%B8%BB%E4%BF%9D%E5%AF%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [加沙地带一医院遭袭数百人死亡](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E4%B8%80%E5%8C%BB%E9%99%A2%E9%81%AD%E8%A2%AD%E6%95%B0%E7%99%BE%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [邓紫棋经纪公司再诉灿星文化](https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%86%8D%E8%AF%89%E7%81%BF%E6%98%9F%E6%96%87%E5%8C%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [王思懿 最美潘金莲](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%80%9D%E6%87%BF%20%E6%9C%80%E7%BE%8E%E6%BD%98%E9%87%91%E8%8E%B2&t=31&band_rank=9&Refer=top)<br />
+9. [十个勤天不工作时还会回去种地](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E4%B8%8D%E5%B7%A5%E4%BD%9C%E6%97%B6%E8%BF%98%E4%BC%9A%E5%9B%9E%E5%8E%BB%E7%A7%8D%E5%9C%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
