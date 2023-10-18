@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 07:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 07:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [巴总统宣布全国哀悼三天](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E4%B8%89%E5%A4%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [杜华说不想再养NAME了](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%86%8D%E5%85%BBNAME%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [天官赐福 进不去](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%20%E8%BF%9B%E4%B8%8D%E5%8E%BB&t=31&band_rank=8&Refer=top)<br />
-9. [南京酒吧街醉酒事件附近商户发声](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E9%85%92%E5%90%A7%E8%A1%97%E9%86%89%E9%85%92%E4%BA%8B%E4%BB%B6%E9%99%84%E8%BF%91%E5%95%86%E6%88%B7%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [拜登抵达以色列之际以近加沙边境响起警报](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8A%B5%E8%BE%BE%E4%BB%A5%E8%89%B2%E5%88%97%E4%B9%8B%E9%99%85%E4%BB%A5%E8%BF%91%E5%8A%A0%E6%B2%99%E8%BE%B9%E5%A2%83%E5%93%8D%E8%B5%B7%E8%AD%A6%E6%8A%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
