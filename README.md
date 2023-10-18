@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 07:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 07:20:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [EXO变成CEO了](https://s.weibo.com/weibo?q=%23EXO%E5%8F%98%E6%88%90CEO%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [巴总统宣布全国哀悼三天](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E4%B8%89%E5%A4%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [饮料瓶底为什么用五瓣花凸起形状](https://s.weibo.com/weibo?q=%E9%A5%AE%E6%96%99%E7%93%B6%E5%BA%95%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%A8%E4%BA%94%E7%93%A3%E8%8A%B1%E5%87%B8%E8%B5%B7%E5%BD%A2%E7%8A%B6&t=31&band_rank=7&Refer=top)<br />
-8. [福宝 适当发疯有益身心健康](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%AE%9D%20%E9%80%82%E5%BD%93%E5%8F%91%E7%96%AF%E6%9C%89%E7%9B%8A%E8%BA%AB%E5%BF%83%E5%81%A5%E5%BA%B7&t=31&band_rank=8&Refer=top)<br />
+8. [杜华说不想再养NAME了](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%86%8D%E5%85%BBNAME%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [拜登抵达以色列之际以近加沙边境响起警报](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8A%B5%E8%BE%BE%E4%BB%A5%E8%89%B2%E5%88%97%E4%B9%8B%E9%99%85%E4%BB%A5%E8%BF%91%E5%8A%A0%E6%B2%99%E8%BE%B9%E5%A2%83%E5%93%8D%E8%B5%B7%E8%AD%A6%E6%8A%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
