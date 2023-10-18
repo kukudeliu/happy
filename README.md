@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 14:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 14:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张硕王睡睡买房没写女方名字](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A1%95%E7%8E%8B%E7%9D%A1%E7%9D%A1%E4%B9%B0%E6%88%BF%E6%B2%A1%E5%86%99%E5%A5%B3%E6%96%B9%E5%90%8D%E5%AD%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本人眼中的韩国人的一生](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%B8%80%E7%94%9F&t=31&band_rank=7&Refer=top)<br />
 8. [加沙医院遭袭20小时前孩子们还在做游戏](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%8C%BB%E9%99%A2%E9%81%AD%E8%A2%AD20%E5%B0%8F%E6%97%B6%E5%89%8D%E5%AD%A9%E5%AD%90%E4%BB%AC%E8%BF%98%E5%9C%A8%E5%81%9A%E6%B8%B8%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [王思懿 最美潘金莲](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%80%9D%E6%87%BF%20%E6%9C%80%E7%BE%8E%E6%BD%98%E9%87%91%E8%8E%B2&t=31&band_rank=9&Refer=top)<br />
+9. [男子中723万大奖求店主保密](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%AD723%E4%B8%87%E5%A4%A7%E5%A5%96%E6%B1%82%E5%BA%97%E4%B8%BB%E4%BF%9D%E5%AF%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
