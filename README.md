@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 17:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 17:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [拜登抵达以色列](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8A%B5%E8%BE%BE%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [金鸡奖最佳男配提名 流量与老戏骨](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D%E6%8F%90%E5%90%8D%20%E6%B5%81%E9%87%8F%E4%B8%8E%E8%80%81%E6%88%8F%E9%AA%A8&t=31&band_rank=7&Refer=top)<br />
 8. [苏醒又被陈楚生淘汰了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E5%8F%88%E8%A2%AB%E9%99%88%E6%A5%9A%E7%94%9F%E6%B7%98%E6%B1%B0%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [周杰伦蔡依林 倒带](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%94%A1%E4%BE%9D%E6%9E%97%20%E5%80%92%E5%B8%A6&t=31&band_rank=9&Refer=top)<br />
+9. [9月份中国从日本进口的水产品归零](https://s.weibo.com/weibo?q=%239%E6%9C%88%E4%BB%BD%E4%B8%AD%E5%9B%BD%E4%BB%8E%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%9A%84%E6%B0%B4%E4%BA%A7%E5%93%81%E5%BD%92%E9%9B%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
