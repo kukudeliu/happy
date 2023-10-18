@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 12:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 12:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [加沙地带一医院遭袭数百人死亡](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E4%B8%80%E5%8C%BB%E9%99%A2%E9%81%AD%E8%A2%AD%E6%95%B0%E7%99%BE%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [女生们在迪士尼cos欢天喜地七仙女](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%BB%AC%E5%9C%A8%E8%BF%AA%E5%A3%AB%E5%B0%BCcos%E6%AC%A2%E5%A4%A9%E5%96%9C%E5%9C%B0%E4%B8%83%E4%BB%99%E5%A5%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [同事的PPT也太卷了](https://s.weibo.com/weibo?q=%E5%90%8C%E4%BA%8B%E7%9A%84PPT%E4%B9%9F%E5%A4%AA%E5%8D%B7%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [外媒称浸信会医院遭袭已致至少500人死亡](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E6%B5%B8%E4%BF%A1%E4%BC%9A%E5%8C%BB%E9%99%A2%E9%81%AD%E8%A2%AD%E5%B7%B2%E8%87%B4%E8%87%B3%E5%B0%91500%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [加沙医院遭袭20小时前孩子们还在做游戏](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%8C%BB%E9%99%A2%E9%81%AD%E8%A2%AD20%E5%B0%8F%E6%97%B6%E5%89%8D%E5%AD%A9%E5%AD%90%E4%BB%AC%E8%BF%98%E5%9C%A8%E5%81%9A%E6%B8%B8%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
