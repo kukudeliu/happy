@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 20:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 20:43:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [杜华说不想再养NAME了](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%86%8D%E5%85%BBNAME%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [拜登抵达以色列之际以近加沙边境响起警报](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8A%B5%E8%BE%BE%E4%BB%A5%E8%89%B2%E5%88%97%E4%B9%8B%E9%99%85%E4%BB%A5%E8%BF%91%E5%8A%A0%E6%B2%99%E8%BE%B9%E5%A2%83%E5%93%8D%E8%B5%B7%E8%AD%A6%E6%8A%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [恋5男嘉宾把女嘉宾吼哭了](https://s.weibo.com/weibo?q=%23%E6%81%8B5%E7%94%B7%E5%98%89%E5%AE%BE%E6%8A%8A%E5%A5%B3%E5%98%89%E5%AE%BE%E5%90%BC%E5%93%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [开往秋天的列车能有多惊艳](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%BE%80%E7%A7%8B%E5%A4%A9%E7%9A%84%E5%88%97%E8%BD%A6%E8%83%BD%E6%9C%89%E5%A4%9A%E6%83%8A%E8%89%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [年轻人开始反向消费了](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8F%8D%E5%90%91%E6%B6%88%E8%B4%B9%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [年轻人开始反向消费了](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8F%8D%E5%90%91%E6%B6%88%E8%B4%B9%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [都暻秀新公司名SUSU](https://s.weibo.com/weibo?q=%23%E9%83%BD%E6%9A%BB%E7%A7%80%E6%96%B0%E5%85%AC%E5%8F%B8%E5%90%8DSUSU%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
