@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 09:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-18 09:12:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [长相思晚会 尴尬](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E6%99%9A%E4%BC%9A%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=5&Refer=top)<br />
 6. [加沙地带一医院遭袭数百人死亡](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E4%B8%80%E5%8C%BB%E9%99%A2%E9%81%AD%E8%A2%AD%E6%95%B0%E7%99%BE%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [救了个老人是曾经的小学老师](https://s.weibo.com/weibo?q=%23%E6%95%91%E4%BA%86%E4%B8%AA%E8%80%81%E4%BA%BA%E6%98%AF%E6%9B%BE%E7%BB%8F%E7%9A%84%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨紫长相思演唱会哭了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%95%BF%E7%9B%B8%E6%80%9D%E6%BC%94%E5%94%B1%E4%BC%9A%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+8. [父女俩时隔4个月相继成为大体老师](https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%A5%B3%E4%BF%A9%E6%97%B6%E9%9A%944%E4%B8%AA%E6%9C%88%E7%9B%B8%E7%BB%A7%E6%88%90%E4%B8%BA%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%23&t=31&band_rank=8&Refer=top)<br />
 9. [外媒称浸信会医院遭袭已致至少500人死亡](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E6%B5%B8%E4%BF%A1%E4%BC%9A%E5%8C%BB%E9%99%A2%E9%81%AD%E8%A2%AD%E5%B7%B2%E8%87%B4%E8%87%B3%E5%B0%91500%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
