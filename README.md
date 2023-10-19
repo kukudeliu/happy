@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 18:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 18:46:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [苹果员工被曝涉嫌性侵米哈游职员](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%91%98%E5%B7%A5%E8%A2%AB%E6%9B%9D%E6%B6%89%E5%AB%8C%E6%80%A7%E4%BE%B5%E7%B1%B3%E5%93%88%E6%B8%B8%E8%81%8C%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [折叠男孩今日出院想吃妈妈做的饭](https://s.weibo.com/weibo?q=%23%E6%8A%98%E5%8F%A0%E7%94%B7%E5%AD%A9%E4%BB%8A%E6%97%A5%E5%87%BA%E9%99%A2%E6%83%B3%E5%90%83%E5%A6%88%E5%A6%88%E5%81%9A%E7%9A%84%E9%A5%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [遭绑架网红罗大美遗体疑在红薯窖被找到](https://s.weibo.com/weibo?q=%23%E9%81%AD%E7%BB%91%E6%9E%B6%E7%BD%91%E7%BA%A2%E7%BD%97%E5%A4%A7%E7%BE%8E%E9%81%97%E4%BD%93%E7%96%91%E5%9C%A8%E7%BA%A2%E8%96%AF%E7%AA%96%E8%A2%AB%E6%89%BE%E5%88%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [G2战胜DK](https://s.weibo.com/weibo?q=%23G2%E6%88%98%E8%83%9CDK%23&t=31&band_rank=9&Refer=top)<br />
+9. [14岁男孩口渴误喝百草枯肾衰竭](https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E5%AD%A9%E5%8F%A3%E6%B8%B4%E8%AF%AF%E5%96%9D%E7%99%BE%E8%8D%89%E6%9E%AF%E8%82%BE%E8%A1%B0%E7%AB%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
