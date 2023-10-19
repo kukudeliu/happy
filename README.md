@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 22:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 22:28:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [警方回应两人与火车相撞不幸身亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%A4%E4%BA%BA%E4%B8%8E%E7%81%AB%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [田曦薇公主抱王鹤棣摔跤](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%85%AC%E4%B8%BB%E6%8A%B1%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%91%94%E8%B7%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [毛晓彤在问心中职业细节拉满](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A4%E5%9C%A8%E9%97%AE%E5%BF%83%E4%B8%AD%E8%81%8C%E4%B8%9A%E7%BB%86%E8%8A%82%E6%8B%89%E6%BB%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [芒果TV崩了](https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9CTV%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [3D还原上海女童走失过程](https://s.weibo.com/weibo?q=%233D%E8%BF%98%E5%8E%9F%E4%B8%8A%E6%B5%B7%E5%A5%B3%E7%AB%A5%E8%B5%B0%E5%A4%B1%E8%BF%87%E7%A8%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
