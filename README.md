@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 13:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 13:38:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [上海走失女童案排除刑事案件](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%E6%A1%88%E6%8E%92%E9%99%A4%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [加沙一家18口在空袭中遇难](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E4%B8%80%E5%AE%B618%E5%8F%A3%E5%9C%A8%E7%A9%BA%E8%A2%AD%E4%B8%AD%E9%81%87%E9%9A%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [90后考上公职3个月开始贪污获刑3年](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E8%80%83%E4%B8%8A%E5%85%AC%E8%81%8C3%E4%B8%AA%E6%9C%88%E5%BC%80%E5%A7%8B%E8%B4%AA%E6%B1%A1%E8%8E%B7%E5%88%913%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [库里绝杀](https://s.weibo.com/weibo?q=%E5%BA%93%E9%87%8C%E7%BB%9D%E6%9D%80&t=31&band_rank=8&Refer=top)<br />
-9. [刘琳演的妈好吓人](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%90%B3%E6%BC%94%E7%9A%84%E5%A6%88%E5%A5%BD%E5%90%93%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [刘琳演的妈好吓人](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%90%B3%E6%BC%94%E7%9A%84%E5%A6%88%E5%A5%BD%E5%90%93%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [库里绝杀](https://s.weibo.com/weibo?q=%E5%BA%93%E9%87%8C%E7%BB%9D%E6%9D%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
