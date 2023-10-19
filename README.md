@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 00:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 00:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女孩自制计算器租给同学一天赚20多元](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%87%AA%E5%88%B6%E8%AE%A1%E7%AE%97%E5%99%A8%E7%A7%9F%E7%BB%99%E5%90%8C%E5%AD%A6%E4%B8%80%E5%A4%A9%E8%B5%9A20%E5%A4%9A%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [花海中的迪丽热巴](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%B5%B7%E4%B8%AD%E7%9A%84%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [DK 疯牛病](https://s.weibo.com/weibo?q=DK%20%E7%96%AF%E7%89%9B%E7%97%85&t=31&band_rank=8&Refer=top)<br />
-9. [S13瑞士轮第二轮抽签](https://s.weibo.com/weibo?q=S13%E7%91%9E%E5%A3%AB%E8%BD%AE%E7%AC%AC%E4%BA%8C%E8%BD%AE%E6%8A%BD%E7%AD%BE&t=31&band_rank=9&Refer=top)<br />
+9. [罗大美遇害案3名嫌疑人已落网](https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%A4%A7%E7%BE%8E%E9%81%87%E5%AE%B3%E6%A1%883%E5%90%8D%E5%AB%8C%E7%96%91%E4%BA%BA%E5%B7%B2%E8%90%BD%E7%BD%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
