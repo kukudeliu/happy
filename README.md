@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 22:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 22:33:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [开幕式上，习主席谈“心”](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%95%E5%BC%8F%E4%B8%8A%EF%BC%8C%E4%B9%A0%E4%B8%BB%E5%B8%AD%E8%B0%88%E2%80%9C%E5%BF%83%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [老人带1岁男童回家被恶狗撕咬3分钟](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%B8%A61%E5%B2%81%E7%94%B7%E7%AB%A5%E5%9B%9E%E5%AE%B6%E8%A2%AB%E6%81%B6%E7%8B%97%E6%92%95%E5%92%AC3%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [辽宁公安厅原厅长王大伟贪5.55亿](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E5%85%AC%E5%AE%89%E5%8E%85%E5%8E%9F%E5%8E%85%E9%95%BF%E7%8E%8B%E5%A4%A7%E4%BC%9F%E8%B4%AA5.55%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [辽宁省公安厅连续3任厅长受贿过亿](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E7%9C%81%E5%85%AC%E5%AE%89%E5%8E%85%E8%BF%9E%E7%BB%AD3%E4%BB%BB%E5%8E%85%E9%95%BF%E5%8F%97%E8%B4%BF%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [追风逐日，绿色发展点亮万家灯火](https://www.baidu.com/s?wd=%E8%BF%BD%E9%A3%8E%E9%80%90%E6%97%A5%EF%BC%8C%E7%BB%BF%E8%89%B2%E5%8F%91%E5%B1%95%E7%82%B9%E4%BA%AE%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [14岁男孩凌晨口渴误喝百草枯](https://www.baidu.com/s?wd=14%E5%B2%81%E7%94%B7%E5%AD%A9%E5%87%8C%E6%99%A8%E5%8F%A3%E6%B8%B4%E8%AF%AF%E5%96%9D%E7%99%BE%E8%8D%89%E6%9E%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [开幕式上，习主席谈“心”](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%95%E5%BC%8F%E4%B8%8A%EF%BC%8C%E4%B9%A0%E4%B8%BB%E5%B8%AD%E8%B0%88%E2%80%9C%E5%BF%83%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [老人带1岁男童回家被恶狗撕咬3分钟](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%B8%A61%E5%B2%81%E7%94%B7%E7%AB%A5%E5%9B%9E%E5%AE%B6%E8%A2%AB%E6%81%B6%E7%8B%97%E6%92%95%E5%92%AC3%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [辽宁公安厅原厅长王大伟贪5.55亿](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E5%85%AC%E5%AE%89%E5%8E%85%E5%8E%9F%E5%8E%85%E9%95%BF%E7%8E%8B%E5%A4%A7%E4%BC%9F%E8%B4%AA5.55%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [辽宁省公安厅连续3任厅长受贿过亿](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E7%9C%81%E5%85%AC%E5%AE%89%E5%8E%85%E8%BF%9E%E7%BB%AD3%E4%BB%BB%E5%8E%85%E9%95%BF%E5%8F%97%E8%B4%BF%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [追风逐日，绿色发展点亮万家灯火](https://www.baidu.com/s?wd=%E8%BF%BD%E9%A3%8E%E9%80%90%E6%97%A5%EF%BC%8C%E7%BB%BF%E8%89%B2%E5%8F%91%E5%B1%95%E7%82%B9%E4%BA%AE%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [14岁男孩凌晨口渴误喝百草枯](https://www.baidu.com/s?wd=14%E5%B2%81%E7%94%B7%E5%AD%A9%E5%87%8C%E6%99%A8%E5%8F%A3%E6%B8%B4%E8%AF%AF%E5%96%9D%E7%99%BE%E8%8D%89%E6%9E%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
