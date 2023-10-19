@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 19:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 19:53:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [宝马与出租相撞未发现斗气行为](https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E4%B8%8E%E5%87%BA%E7%A7%9F%E7%9B%B8%E6%92%9E%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%97%E6%B0%94%E8%A1%8C%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济持续恢复向好](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%8C%81%E7%BB%AD%E6%81%A2%E5%A4%8D%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [刘芳菲发文回应离职央视](https://www.baidu.com/s?wd=%E5%88%98%E8%8A%B3%E8%8F%B2%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E7%A6%BB%E8%81%8C%E5%A4%AE%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [学校回应学生骑车逆行被保安殴打](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E9%AA%91%E8%BD%A6%E9%80%86%E8%A1%8C%E8%A2%AB%E4%BF%9D%E5%AE%89%E6%AE%B4%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [14岁男孩凌晨口渴误喝百草枯](https://www.baidu.com/s?wd=14%E5%B2%81%E7%94%B7%E5%AD%A9%E5%87%8C%E6%99%A8%E5%8F%A3%E6%B8%B4%E8%AF%AF%E5%96%9D%E7%99%BE%E8%8D%89%E6%9E%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [独立咖啡店主诉苦被9块9咖啡卷死](https://www.baidu.com/s?wd=%E7%8B%AC%E7%AB%8B%E5%92%96%E5%95%A1%E5%BA%97%E4%B8%BB%E8%AF%89%E8%8B%A6%E8%A2%AB9%E5%9D%979%E5%92%96%E5%95%A1%E5%8D%B7%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [火车撞人致2死 记录仪拍下现场](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E6%92%9E%E4%BA%BA%E8%87%B42%E6%AD%BB+%E8%AE%B0%E5%BD%95%E4%BB%AA%E6%8B%8D%E4%B8%8B%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [学校回应学生骑车逆行被保安殴打](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E9%AA%91%E8%BD%A6%E9%80%86%E8%A1%8C%E8%A2%AB%E4%BF%9D%E5%AE%89%E6%AE%B4%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [14岁男孩凌晨口渴误喝百草枯](https://www.baidu.com/s?wd=14%E5%B2%81%E7%94%B7%E5%AD%A9%E5%87%8C%E6%99%A8%E5%8F%A3%E6%B8%B4%E8%AF%AF%E5%96%9D%E7%99%BE%E8%8D%89%E6%9E%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京等地拟取消教师编制？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%AD%89%E5%9C%B0%E6%8B%9F%E5%8F%96%E6%B6%88%E6%95%99%E5%B8%88%E7%BC%96%E5%88%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [宝马与出租相撞未发现斗气行为](https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E4%B8%8E%E5%87%BA%E7%A7%9F%E7%9B%B8%E6%92%9E%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%97%E6%B0%94%E8%A1%8C%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济持续恢复向好](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%8C%81%E7%BB%AD%E6%81%A2%E5%A4%8D%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [刘芳菲发文回应离职央视](https://www.baidu.com/s?wd=%E5%88%98%E8%8A%B3%E8%8F%B2%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E7%A6%BB%E8%81%8C%E5%A4%AE%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [学校回应学生骑车逆行被保安殴打](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E9%AA%91%E8%BD%A6%E9%80%86%E8%A1%8C%E8%A2%AB%E4%BF%9D%E5%AE%89%E6%AE%B4%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [14岁男孩凌晨口渴误喝百草枯](https://www.baidu.com/s?wd=14%E5%B2%81%E7%94%B7%E5%AD%A9%E5%87%8C%E6%99%A8%E5%8F%A3%E6%B8%B4%E8%AF%AF%E5%96%9D%E7%99%BE%E8%8D%89%E6%9E%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [独立咖啡店主诉苦被9块9咖啡卷死](https://www.baidu.com/s?wd=%E7%8B%AC%E7%AB%8B%E5%92%96%E5%95%A1%E5%BA%97%E4%B8%BB%E8%AF%89%E8%8B%A6%E8%A2%AB9%E5%9D%979%E5%92%96%E5%95%A1%E5%8D%B7%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [火车撞人致2死 记录仪拍下现场](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E6%92%9E%E4%BA%BA%E8%87%B42%E6%AD%BB+%E8%AE%B0%E5%BD%95%E4%BB%AA%E6%8B%8D%E4%B8%8B%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [学校回应学生骑车逆行被保安殴打](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E9%AA%91%E8%BD%A6%E9%80%86%E8%A1%8C%E8%A2%AB%E4%BF%9D%E5%AE%89%E6%AE%B4%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [14岁男孩凌晨口渴误喝百草枯](https://www.baidu.com/s?wd=14%E5%B2%81%E7%94%B7%E5%AD%A9%E5%87%8C%E6%99%A8%E5%8F%A3%E6%B8%B4%E8%AF%AF%E5%96%9D%E7%99%BE%E8%8D%89%E6%9E%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京等地拟取消教师编制？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%AD%89%E5%9C%B0%E6%8B%9F%E5%8F%96%E6%B6%88%E6%95%99%E5%B8%88%E7%BC%96%E5%88%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
