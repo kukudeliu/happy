@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 08:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 08:18:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [饮料瓶底为什么用五瓣花凸起形状](https://s.weibo.com/weibo?q=%E9%A5%AE%E6%96%99%E7%93%B6%E5%BA%95%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%A8%E4%BA%94%E7%93%A3%E8%8A%B1%E5%87%B8%E8%B5%B7%E5%BD%A2%E7%8A%B6&t=31&band_rank=2&Refer=top)<br />
 3. [中国桥梁连着历史和现实的非凡跨越](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%A1%A5%E6%A2%81%E8%BF%9E%E7%9D%80%E5%8E%86%E5%8F%B2%E5%92%8C%E7%8E%B0%E5%AE%9E%E7%9A%84%E9%9D%9E%E5%87%A1%E8%B7%A8%E8%B6%8A%23&t=31&band_rank=3&Refer=top)<br />
 4. [EXO变成CEO了](https://s.weibo.com/weibo?q=%23EXO%E5%8F%98%E6%88%90CEO%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [淘汰再出道 这集我好像看过](https://s.weibo.com/weibo?q=%E6%B7%98%E6%B1%B0%E5%86%8D%E5%87%BA%E9%81%93%20%E8%BF%99%E9%9B%86%E6%88%91%E5%A5%BD%E5%83%8F%E7%9C%8B%E8%BF%87&t=31&band_rank=5&Refer=top)<br />
-6. [巴总统宣布全国哀悼三天](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E4%B8%89%E5%A4%A9%23&t=31&band_rank=6&Refer=top)<br />
+5. [又在看金世佳的手了](https://s.weibo.com/weibo?q=%E5%8F%88%E5%9C%A8%E7%9C%8B%E9%87%91%E4%B8%96%E4%BD%B3%E7%9A%84%E6%89%8B%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
+6. [美国一票反对致安理会未通过巴以问题决议草案](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%A5%A8%E5%8F%8D%E5%AF%B9%E8%87%B4%E5%AE%89%E7%90%86%E4%BC%9A%E6%9C%AA%E9%80%9A%E8%BF%87%E5%B7%B4%E4%BB%A5%E9%97%AE%E9%A2%98%E5%86%B3%E8%AE%AE%E8%8D%89%E6%A1%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [天官赐福 进不去](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%20%E8%BF%9B%E4%B8%8D%E5%8E%BB&t=31&band_rank=7&Refer=top)<br />
-8. [4090显卡全面下架](https://s.weibo.com/weibo?q=%234090%E6%98%BE%E5%8D%A1%E5%85%A8%E9%9D%A2%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [拜登抵达以色列之际以近加沙边境响起警报](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8A%B5%E8%BE%BE%E4%BB%A5%E8%89%B2%E5%88%97%E4%B9%8B%E9%99%85%E4%BB%A5%E8%BF%91%E5%8A%A0%E6%B2%99%E8%BE%B9%E5%A2%83%E5%93%8D%E8%B5%B7%E8%AD%A6%E6%8A%A5%23&t=31&band_rank=9&Refer=top)<br />
+8. [淘汰再出道 这集我好像看过](https://s.weibo.com/weibo?q=%E6%B7%98%E6%B1%B0%E5%86%8D%E5%87%BA%E9%81%93%20%E8%BF%99%E9%9B%86%E6%88%91%E5%A5%BD%E5%83%8F%E7%9C%8B%E8%BF%87&t=31&band_rank=8&Refer=top)<br />
+9. [巴总统宣布全国哀悼三天](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E4%B8%89%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
