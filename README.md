@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 22:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 22:46:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [Bin哥牛啊](https://s.weibo.com/weibo?q=Bin%E5%93%A5%E7%89%9B%E5%95%8A&t=31&band_rank=4&Refer=top)<br />
 5. [警方回应两人与火车相撞不幸身亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%A4%E4%BA%BA%E4%B8%8E%E7%81%AB%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [专家称海滩失踪女童父亲太理想化](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%B5%B7%E6%BB%A9%E5%A4%B1%E8%B8%AA%E5%A5%B3%E7%AB%A5%E7%88%B6%E4%BA%B2%E5%A4%AA%E7%90%86%E6%83%B3%E5%8C%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [田曦薇公主抱王鹤棣摔跤](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%85%AC%E4%B8%BB%E6%8A%B1%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%91%94%E8%B7%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [EDG出列](https://s.weibo.com/weibo?q=EDG%E5%87%BA%E5%88%97&t=31&band_rank=8&Refer=top)<br />
+7. [EDG出列](https://s.weibo.com/weibo?q=EDG%E5%87%BA%E5%88%97&t=31&band_rank=7&Refer=top)<br />
+8. [田曦薇公主抱王鹤棣摔跤](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%85%AC%E4%B8%BB%E6%8A%B1%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%91%94%E8%B7%A4%23&t=31&band_rank=8&Refer=top)<br />
 9. [S13瑞士轮第二轮抽签](https://s.weibo.com/weibo?q=S13%E7%91%9E%E5%A3%AB%E8%BD%AE%E7%AC%AC%E4%BA%8C%E8%BD%AE%E6%8A%BD%E7%AD%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -18,8 +18,8 @@
 > 百度  
 
 1. [开幕式上，习主席谈“心”](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%95%E5%BC%8F%E4%B8%8A%EF%BC%8C%E4%B9%A0%E4%B8%BB%E5%B8%AD%E8%B0%88%E2%80%9C%E5%BF%83%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [辽宁公安厅原厅长王大伟贪5.55亿](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E5%85%AC%E5%AE%89%E5%8E%85%E5%8E%9F%E5%8E%85%E9%95%BF%E7%8E%8B%E5%A4%A7%E4%BC%9F%E8%B4%AA5.55%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [辽宁省公安厅连续3任厅长受贿过亿](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E7%9C%81%E5%85%AC%E5%AE%89%E5%8E%85%E8%BF%9E%E7%BB%AD3%E4%BB%BB%E5%8E%85%E9%95%BF%E5%8F%97%E8%B4%BF%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [辽宁省公安厅连续3任厅长受贿过亿](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E7%9C%81%E5%85%AC%E5%AE%89%E5%8E%85%E8%BF%9E%E7%BB%AD3%E4%BB%BB%E5%8E%85%E9%95%BF%E5%8F%97%E8%B4%BF%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [老人遛狗不牵绳被查抱狗痛哭](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E9%81%9B%E7%8B%97%E4%B8%8D%E7%89%B5%E7%BB%B3%E8%A2%AB%E6%9F%A5%E6%8A%B1%E7%8B%97%E7%97%9B%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [追风逐日，绿色发展点亮万家灯火](https://www.baidu.com/s?wd=%E8%BF%BD%E9%A3%8E%E9%80%90%E6%97%A5%EF%BC%8C%E7%BB%BF%E8%89%B2%E5%8F%91%E5%B1%95%E7%82%B9%E4%BA%AE%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [14岁男孩凌晨口渴误喝百草枯](https://www.baidu.com/s?wd=14%E5%B2%81%E7%94%B7%E5%AD%A9%E5%87%8C%E6%99%A8%E5%8F%A3%E6%B8%B4%E8%AF%AF%E5%96%9D%E7%99%BE%E8%8D%89%E6%9E%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [台积电有望2025年量产2nm芯片](https://www.baidu.com/s?wd=%E5%8F%B0%E7%A7%AF%E7%94%B5%E6%9C%89%E6%9C%9B2025%E5%B9%B4%E9%87%8F%E4%BA%A72nm%E8%8A%AF%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,8 +30,8 @@
 > 哔哩哔哩  
 
 1. [开幕式上，习主席谈“心”](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%95%E5%BC%8F%E4%B8%8A%EF%BC%8C%E4%B9%A0%E4%B8%BB%E5%B8%AD%E8%B0%88%E2%80%9C%E5%BF%83%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [辽宁公安厅原厅长王大伟贪5.55亿](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E5%85%AC%E5%AE%89%E5%8E%85%E5%8E%9F%E5%8E%85%E9%95%BF%E7%8E%8B%E5%A4%A7%E4%BC%9F%E8%B4%AA5.55%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [辽宁省公安厅连续3任厅长受贿过亿](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E7%9C%81%E5%85%AC%E5%AE%89%E5%8E%85%E8%BF%9E%E7%BB%AD3%E4%BB%BB%E5%8E%85%E9%95%BF%E5%8F%97%E8%B4%BF%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [辽宁省公安厅连续3任厅长受贿过亿](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E7%9C%81%E5%85%AC%E5%AE%89%E5%8E%85%E8%BF%9E%E7%BB%AD3%E4%BB%BB%E5%8E%85%E9%95%BF%E5%8F%97%E8%B4%BF%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [老人遛狗不牵绳被查抱狗痛哭](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E9%81%9B%E7%8B%97%E4%B8%8D%E7%89%B5%E7%BB%B3%E8%A2%AB%E6%9F%A5%E6%8A%B1%E7%8B%97%E7%97%9B%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [追风逐日，绿色发展点亮万家灯火](https://www.baidu.com/s?wd=%E8%BF%BD%E9%A3%8E%E9%80%90%E6%97%A5%EF%BC%8C%E7%BB%BF%E8%89%B2%E5%8F%91%E5%B1%95%E7%82%B9%E4%BA%AE%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [14岁男孩凌晨口渴误喝百草枯](https://www.baidu.com/s?wd=14%E5%B2%81%E7%94%B7%E5%AD%A9%E5%87%8C%E6%99%A8%E5%8F%A3%E6%B8%B4%E8%AF%AF%E5%96%9D%E7%99%BE%E8%8D%89%E6%9E%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [台积电有望2025年量产2nm芯片](https://www.baidu.com/s?wd=%E5%8F%B0%E7%A7%AF%E7%94%B5%E6%9C%89%E6%9C%9B2025%E5%B9%B4%E9%87%8F%E4%BA%A72nm%E8%8A%AF%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
