@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 02:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 02:28:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [DK 疯牛病](https://s.weibo.com/weibo?q=DK%20%E7%96%AF%E7%89%9B%E7%97%85&t=31&band_rank=5&Refer=top)<br />
 6. [S13瑞士轮第二轮抽签](https://s.weibo.com/weibo?q=S13%E7%91%9E%E5%A3%AB%E8%BD%AE%E7%AC%AC%E4%BA%8C%E8%BD%AE%E6%8A%BD%E7%AD%BE&t=31&band_rank=6&Refer=top)<br />
 7. [女孩自制计算器租给同学一天赚20多元](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%87%AA%E5%88%B6%E8%AE%A1%E7%AE%97%E5%99%A8%E7%A7%9F%E7%BB%99%E5%90%8C%E5%AD%A6%E4%B8%80%E5%A4%A9%E8%B5%9A20%E5%A4%9A%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [B站申请天官赐福谢怜商标](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E7%94%B3%E8%AF%B7%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E8%B0%A2%E6%80%9C%E5%95%86%E6%A0%87%23&t=31&band_rank=8&Refer=top)<br />
+8. [EDG出列](https://s.weibo.com/weibo?q=EDG%E5%87%BA%E5%88%97&t=31&band_rank=8&Refer=top)<br />
 9. [花海中的迪丽热巴](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%B5%B7%E4%B8%AD%E7%9A%84%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
