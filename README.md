@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 17:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 17:18:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女童父亲行为是否构成犯罪](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E7%88%B6%E4%BA%B2%E8%A1%8C%E4%B8%BA%E6%98%AF%E5%90%A6%E6%9E%84%E6%88%90%E7%8A%AF%E7%BD%AA%23&t=31&band_rank=6&Refer=top)<br />
 7. [屈楚萧也去了封神训练营](https://s.weibo.com/weibo?q=%E5%B1%88%E6%A5%9A%E8%90%A7%E4%B9%9F%E5%8E%BB%E4%BA%86%E5%B0%81%E7%A5%9E%E8%AE%AD%E7%BB%83%E8%90%A5&t=31&band_rank=7&Refer=top)<br />
 8. [前国脚戴琳成老赖被悬赏](https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%9B%BD%E8%84%9A%E6%88%B4%E7%90%B3%E6%88%90%E8%80%81%E8%B5%96%E8%A2%AB%E6%82%AC%E8%B5%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [黄渤周迅新片尺度](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%91%A8%E8%BF%85%E6%96%B0%E7%89%87%E5%B0%BA%E5%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [塞尔维亚总统夫人逛秀水街](https://s.weibo.com/weibo?q=%23%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%80%BB%E7%BB%9F%E5%A4%AB%E4%BA%BA%E9%80%9B%E7%A7%80%E6%B0%B4%E8%A1%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
