@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 16:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 16:44:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [前三季度国民经济持续恢复向好](https://www.baidu.com/s?wd=%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E6%8C%81%E7%BB%AD%E6%81%A2%E5%A4%8D%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [我国在南海千米深海底发现古船遗址](https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E5%8D%83%E7%B1%B3%E6%B7%B1%E6%B5%B7%E5%BA%95%E5%8F%91%E7%8E%B0%E5%8F%A4%E8%88%B9%E9%81%97%E5%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [好莱坞将翻拍《你好李焕英》](https://www.baidu.com/s?wd=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%B0%86%E7%BF%BB%E6%8B%8D%E3%80%8A%E4%BD%A0%E5%A5%BD%E6%9D%8E%E7%84%95%E8%8B%B1%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [成都回应是否禁养罗威纳犬](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E7%A6%81%E5%85%BB%E7%BD%97%E5%A8%81%E7%BA%B3%E7%8A%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国加州州长纽森将率团访华](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E7%BA%BD%E6%A3%AE%E5%B0%86%E7%8E%87%E5%9B%A2%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [专家谈狗咬女童事件：不应搞株连](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E4%BA%8B%E4%BB%B6%EF%BC%9A%E4%B8%8D%E5%BA%94%E6%90%9E%E6%A0%AA%E8%BF%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国大巴在俄侧翻 司机涉嫌超速被抓](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%B7%B4%E5%9C%A8%E4%BF%84%E4%BE%A7%E7%BF%BB+%E5%8F%B8%E6%9C%BA%E6%B6%89%E5%AB%8C%E8%B6%85%E9%80%9F%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [身份证会被手机消磁？真相来了](https://www.baidu.com/s?wd=%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%BC%9A%E8%A2%AB%E6%89%8B%E6%9C%BA%E6%B6%88%E7%A3%81%EF%BC%9F%E7%9C%9F%E7%9B%B8%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [前三季度国民经济持续恢复向好](https://www.baidu.com/s?wd=%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E6%8C%81%E7%BB%AD%E6%81%A2%E5%A4%8D%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [我国在南海千米深海底发现古船遗址](https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E5%8D%83%E7%B1%B3%E6%B7%B1%E6%B5%B7%E5%BA%95%E5%8F%91%E7%8E%B0%E5%8F%A4%E8%88%B9%E9%81%97%E5%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [好莱坞将翻拍《你好李焕英》](https://www.baidu.com/s?wd=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%B0%86%E7%BF%BB%E6%8B%8D%E3%80%8A%E4%BD%A0%E5%A5%BD%E6%9D%8E%E7%84%95%E8%8B%B1%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [成都回应是否禁养罗威纳犬](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E7%A6%81%E5%85%BB%E7%BD%97%E5%A8%81%E7%BA%B3%E7%8A%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国加州州长纽森将率团访华](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E7%BA%BD%E6%A3%AE%E5%B0%86%E7%8E%87%E5%9B%A2%E8%AE%BF%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [专家谈狗咬女童事件：不应搞株连](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%B0%88%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E4%BA%8B%E4%BB%B6%EF%BC%9A%E4%B8%8D%E5%BA%94%E6%90%9E%E6%A0%AA%E8%BF%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国大巴在俄侧翻 司机涉嫌超速被抓](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%B7%B4%E5%9C%A8%E4%BF%84%E4%BE%A7%E7%BF%BB+%E5%8F%B8%E6%9C%BA%E6%B6%89%E5%AB%8C%E8%B6%85%E9%80%9F%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [身份证会被手机消磁？真相来了](https://www.baidu.com/s?wd=%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%BC%9A%E8%A2%AB%E6%89%8B%E6%9C%BA%E6%B6%88%E7%A3%81%EF%BC%9F%E7%9C%9F%E7%9B%B8%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
