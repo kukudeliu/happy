@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 17:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 17:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女童父亲行为是否构成犯罪](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E7%88%B6%E4%BA%B2%E8%A1%8C%E4%B8%BA%E6%98%AF%E5%90%A6%E6%9E%84%E6%88%90%E7%8A%AF%E7%BD%AA%23&t=31&band_rank=6&Refer=top)<br />
 7. [沈腾恭喜华晨宇把贾玲熬走了](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E6%81%AD%E5%96%9C%E5%8D%8E%E6%99%A8%E5%AE%87%E6%8A%8A%E8%B4%BE%E7%8E%B2%E7%86%AC%E8%B5%B0%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [塞尔维亚总统夫人逛秀水街](https://s.weibo.com/weibo?q=%23%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%80%BB%E7%BB%9F%E5%A4%AB%E4%BA%BA%E9%80%9B%E7%A7%80%E6%B0%B4%E8%A1%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [屈楚萧也去了封神训练营](https://s.weibo.com/weibo?q=%E5%B1%88%E6%A5%9A%E8%90%A7%E4%B9%9F%E5%8E%BB%E4%BA%86%E5%B0%81%E7%A5%9E%E8%AE%AD%E7%BB%83%E8%90%A5&t=31&band_rank=9&Refer=top)<br />
+9. [崔胜澈不参与SEVENTEEN此次回归](https://s.weibo.com/weibo?q=%23%E5%B4%94%E8%83%9C%E6%BE%88%E4%B8%8D%E5%8F%82%E4%B8%8ESEVENTEEN%E6%AD%A4%E6%AC%A1%E5%9B%9E%E5%BD%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
