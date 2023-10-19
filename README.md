@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 01:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 01:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [DK 疯牛病](https://s.weibo.com/weibo?q=DK%20%E7%96%AF%E7%89%9B%E7%97%85&t=31&band_rank=6&Refer=top)<br />
 7. [间谍过家家 次子滤镜](https://s.weibo.com/weibo?q=%E9%97%B4%E8%B0%8D%E8%BF%87%E5%AE%B6%E5%AE%B6%20%E6%AC%A1%E5%AD%90%E6%BB%A4%E9%95%9C&t=31&band_rank=7&Refer=top)<br />
 8. [S13瑞士轮第二轮抽签](https://s.weibo.com/weibo?q=S13%E7%91%9E%E5%A3%AB%E8%BD%AE%E7%AC%AC%E4%BA%8C%E8%BD%AE%E6%8A%BD%E7%AD%BE&t=31&band_rank=8&Refer=top)<br />
-9. [Bin哥牛啊](https://s.weibo.com/weibo?q=Bin%E5%93%A5%E7%89%9B%E5%95%8A&t=31&band_rank=9&Refer=top)<br />
+9. [EDG出列](https://s.weibo.com/weibo?q=EDG%E5%87%BA%E5%88%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
