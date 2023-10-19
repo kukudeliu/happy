@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 19:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 19:08:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [14岁男孩口渴误喝百草枯肾衰竭](https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E5%AD%A9%E5%8F%A3%E6%B8%B4%E8%AF%AF%E5%96%9D%E7%99%BE%E8%8D%89%E6%9E%AF%E8%82%BE%E8%A1%B0%E7%AB%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [基建狂魔28天拉入16道岔爆改老火车站](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E5%BB%BA%E7%8B%82%E9%AD%9428%E5%A4%A9%E6%8B%89%E5%85%A516%E9%81%93%E5%B2%94%E7%88%86%E6%94%B9%E8%80%81%E7%81%AB%E8%BD%A6%E7%AB%99%23&t=31&band_rank=7&Refer=top)<br />
 8. [苹果员工被曝涉嫌性侵米哈游职员](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%91%98%E5%B7%A5%E8%A2%AB%E6%9B%9D%E6%B6%89%E5%AB%8C%E6%80%A7%E4%BE%B5%E7%B1%B3%E5%93%88%E6%B8%B8%E8%81%8C%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [遭绑架网红罗大美遗体疑在红薯窖被找到](https://s.weibo.com/weibo?q=%23%E9%81%AD%E7%BB%91%E6%9E%B6%E7%BD%91%E7%BA%A2%E7%BD%97%E5%A4%A7%E7%BE%8E%E9%81%97%E4%BD%93%E7%96%91%E5%9C%A8%E7%BA%A2%E8%96%AF%E7%AA%96%E8%A2%AB%E6%89%BE%E5%88%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [B站申请天官赐福谢怜商标](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E7%94%B3%E8%AF%B7%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E8%B0%A2%E6%80%9C%E5%95%86%E6%A0%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
