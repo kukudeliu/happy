@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 19:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 19:41:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [一带一路的100个故事](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E7%9A%84100%E4%B8%AA%E6%95%85%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [曝韩国L姓顶级演员涉嫌吸毒](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%9F%A9%E5%9B%BDL%E5%A7%93%E9%A1%B6%E7%BA%A7%E6%BC%94%E5%91%98%E6%B6%89%E5%AB%8C%E5%90%B8%E6%AF%92%23&t=31&band_rank=4&Refer=top)<br />
 5. [折叠男孩今日出院想吃妈妈做的饭](https://s.weibo.com/weibo?q=%23%E6%8A%98%E5%8F%A0%E7%94%B7%E5%AD%A9%E4%BB%8A%E6%97%A5%E5%87%BA%E9%99%A2%E6%83%B3%E5%90%83%E5%A6%88%E5%A6%88%E5%81%9A%E7%9A%84%E9%A5%AD%23&t=31&band_rank=5&Refer=top)<br />
-6. [线下那些卖三五百的衣服](https://s.weibo.com/weibo?q=%23%E7%BA%BF%E4%B8%8B%E9%82%A3%E4%BA%9B%E5%8D%96%E4%B8%89%E4%BA%94%E7%99%BE%E7%9A%84%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=6&Refer=top)<br />
-7. [14岁男孩口渴误喝百草枯肾衰竭](https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E5%AD%A9%E5%8F%A3%E6%B8%B4%E8%AF%AF%E5%96%9D%E7%99%BE%E8%8D%89%E6%9E%AF%E8%82%BE%E8%A1%B0%E7%AB%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [DK 疯牛病](https://s.weibo.com/weibo?q=DK%20%E7%96%AF%E7%89%9B%E7%97%85&t=31&band_rank=8&Refer=top)<br />
-9. [WBG战胜NRG](https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CNRG%23&t=31&band_rank=9&Refer=top)<br />
+6. [DK 疯牛病](https://s.weibo.com/weibo?q=DK%20%E7%96%AF%E7%89%9B%E7%97%85&t=31&band_rank=6&Refer=top)<br />
+7. [WBG战胜NRG](https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CNRG%23&t=31&band_rank=7&Refer=top)<br />
+8. [B站申请天官赐福谢怜商标](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E7%94%B3%E8%AF%B7%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E8%B0%A2%E6%80%9C%E5%95%86%E6%A0%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [14岁男孩口渴误喝百草枯肾衰竭](https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E5%AD%A9%E5%8F%A3%E6%B8%B4%E8%AF%AF%E5%96%9D%E7%99%BE%E8%8D%89%E6%9E%AF%E8%82%BE%E8%A1%B0%E7%AB%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
