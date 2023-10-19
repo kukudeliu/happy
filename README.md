@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 23:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 23:14:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [小学被指让学生淋雨参加活动](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%A2%AB%E6%8C%87%E8%AE%A9%E5%AD%A6%E7%94%9F%E6%B7%8B%E9%9B%A8%E5%8F%82%E5%8A%A0%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [绝食24天的李在明将恢复履职](https://www.baidu.com/s?wd=%E7%BB%9D%E9%A3%9F24%E5%A4%A9%E7%9A%84%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B0%86%E6%81%A2%E5%A4%8D%E5%B1%A5%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网购儿童积木现不雅图案](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD%E5%84%BF%E7%AB%A5%E7%A7%AF%E6%9C%A8%E7%8E%B0%E4%B8%8D%E9%9B%85%E5%9B%BE%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [出租车公司回应宝马撞车事故](https://www.baidu.com/s?wd=%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E5%AE%9D%E9%A9%AC%E6%92%9E%E8%BD%A6%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [台积电有望2025年量产2nm芯片](https://www.baidu.com/s?wd=%E5%8F%B0%E7%A7%AF%E7%94%B5%E6%9C%89%E6%9C%9B2025%E5%B9%B4%E9%87%8F%E4%BA%A72nm%E8%8A%AF%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [小学被指让学生淋雨参加活动](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%A2%AB%E6%8C%87%E8%AE%A9%E5%AD%A6%E7%94%9F%E6%B7%8B%E9%9B%A8%E5%8F%82%E5%8A%A0%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [绝食24天的李在明将恢复履职](https://www.baidu.com/s?wd=%E7%BB%9D%E9%A3%9F24%E5%A4%A9%E7%9A%84%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B0%86%E6%81%A2%E5%A4%8D%E5%B1%A5%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网购儿童积木现不雅图案](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD%E5%84%BF%E7%AB%A5%E7%A7%AF%E6%9C%A8%E7%8E%B0%E4%B8%8D%E9%9B%85%E5%9B%BE%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [出租车公司回应宝马撞车事故](https://www.baidu.com/s?wd=%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E5%AE%9D%E9%A9%AC%E6%92%9E%E8%BD%A6%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [台积电有望2025年量产2nm芯片](https://www.baidu.com/s?wd=%E5%8F%B0%E7%A7%AF%E7%94%B5%E6%9C%89%E6%9C%9B2025%E5%B9%B4%E9%87%8F%E4%BA%A72nm%E8%8A%AF%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
