@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 23:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 23:28:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [6张海报回顾一带一路动人故事](https://s.weibo.com/weibo?q=%236%E5%BC%A0%E6%B5%B7%E6%8A%A5%E5%9B%9E%E9%A1%BE%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E5%8A%A8%E4%BA%BA%E6%95%85%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [警方回应两人与火车相撞不幸身亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%A4%E4%BA%BA%E4%B8%8E%E7%81%AB%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [EDG出列](https://s.weibo.com/weibo?q=EDG%E5%87%BA%E5%88%97&t=31&band_rank=5&Refer=top)<br />
-6. [向涵之男装](https://s.weibo.com/weibo?q=%23%E5%90%91%E6%B6%B5%E4%B9%8B%E7%94%B7%E8%A3%85%23&t=31&band_rank=6&Refer=top)<br />
-7. [DK 疯牛病](https://s.weibo.com/weibo?q=DK%20%E7%96%AF%E7%89%9B%E7%97%85&t=31&band_rank=7&Refer=top)<br />
-8. [花海中的迪丽热巴](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%B5%B7%E4%B8%AD%E7%9A%84%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=8&Refer=top)<br />
+6. [DK 疯牛病](https://s.weibo.com/weibo?q=DK%20%E7%96%AF%E7%89%9B%E7%97%85&t=31&band_rank=6&Refer=top)<br />
+7. [花海中的迪丽热巴](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%B5%B7%E4%B8%AD%E7%9A%84%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [向涵之男装](https://s.weibo.com/weibo?q=%23%E5%90%91%E6%B6%B5%E4%B9%8B%E7%94%B7%E8%A3%85%23&t=31&band_rank=8&Refer=top)<br />
 9. [田曦薇公主抱王鹤棣摔跤](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%85%AC%E4%B8%BB%E6%8A%B1%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%91%94%E8%B7%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
