@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 21:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 21:54:01</h4></div>
 
 > 微博  
 
 1. [Bin哥牛啊](https://s.weibo.com/weibo?q=Bin%E5%93%A5%E7%89%9B%E5%95%8A&t=31&band_rank=1&Refer=top)<br />
-2. [G2战胜DK](https://s.weibo.com/weibo?q=%23G2%E6%88%98%E8%83%9CDK%23&t=31&band_rank=2&Refer=top)<br />
+2. [S13瑞士轮第二轮抽签](https://s.weibo.com/weibo?q=S13%E7%91%9E%E5%A3%AB%E8%BD%AE%E7%AC%AC%E4%BA%8C%E8%BD%AE%E6%8A%BD%E7%AD%BE&t=31&band_rank=2&Refer=top)<br />
 3. [6张海报回顾一带一路动人故事](https://s.weibo.com/weibo?q=%236%E5%BC%A0%E6%B5%B7%E6%8A%A5%E5%9B%9E%E9%A1%BE%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E5%8A%A8%E4%BA%BA%E6%95%85%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [警方回应两人与火车相撞不幸身亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%A4%E4%BA%BA%E4%B8%8E%E7%81%AB%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
-5. [芒果TV崩了](https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9CTV%E5%B4%A9%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
-6. [DK 疯牛病](https://s.weibo.com/weibo?q=DK%20%E7%96%AF%E7%89%9B%E7%97%85&t=31&band_rank=6&Refer=top)<br />
-7. [BLG对战KT](https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98KT%23&t=31&band_rank=7&Refer=top)<br />
+5. [G2战胜DK](https://s.weibo.com/weibo?q=%23G2%E6%88%98%E8%83%9CDK%23&t=31&band_rank=5&Refer=top)<br />
+6. [芒果TV崩了](https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9CTV%E5%B4%A9%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+7. [DK 疯牛病](https://s.weibo.com/weibo?q=DK%20%E7%96%AF%E7%89%9B%E7%97%85&t=31&band_rank=7&Refer=top)<br />
 8. [老人带1岁男童回家被恶狗撕咬3分钟](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%B8%A61%E5%B2%81%E7%94%B7%E7%AB%A5%E5%9B%9E%E5%AE%B6%E8%A2%AB%E6%81%B6%E7%8B%97%E6%92%95%E5%92%AC3%E5%88%86%E9%92%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [花海中的迪丽热巴](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%B5%B7%E4%B8%AD%E7%9A%84%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [BLG对战KT](https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98KT%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
