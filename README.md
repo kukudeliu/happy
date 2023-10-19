@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 15:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 15:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [海滩失踪女童遗体找到](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%BB%A9%E5%A4%B1%E8%B8%AA%E5%A5%B3%E7%AB%A5%E9%81%97%E4%BD%93%E6%89%BE%E5%88%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [第一次知道银行卡会到期](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9F%A5%E9%81%93%E9%93%B6%E8%A1%8C%E5%8D%A1%E4%BC%9A%E5%88%B0%E6%9C%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [加沙一家18口在空袭中遇难](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E4%B8%80%E5%AE%B618%E5%8F%A3%E5%9C%A8%E7%A9%BA%E8%A2%AD%E4%B8%AD%E9%81%87%E9%9A%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=9&Refer=top)<br />
+9. [白百何首演古装长剧](https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E9%A6%96%E6%BC%94%E5%8F%A4%E8%A3%85%E9%95%BF%E5%89%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
