@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 12:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 12:05:01</h4></div>
 
 > 微博  
 
-1. [好莱坞翻拍你好李焕英](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%BF%BB%E6%8B%8D%E4%BD%A0%E5%A5%BD%E6%9D%8E%E7%84%95%E8%8B%B1%23&t=31&band_rank=1&Refer=top)<br />
-2. [刘琳演的妈好吓人](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%90%B3%E6%BC%94%E7%9A%84%E5%A6%88%E5%A5%BD%E5%90%93%E4%BA%BA%23&t=31&band_rank=2&Refer=top)<br />
+1. [刘琳演的妈好吓人](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%90%B3%E6%BC%94%E7%9A%84%E5%A6%88%E5%A5%BD%E5%90%93%E4%BA%BA%23&t=31&band_rank=1&Refer=top)<br />
+2. [好莱坞翻拍你好李焕英](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%BF%BB%E6%8B%8D%E4%BD%A0%E5%A5%BD%E6%9D%8E%E7%84%95%E8%8B%B1%23&t=31&band_rank=2&Refer=top)<br />
 3. [这根丝让我们窥见丝路万象](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%A0%B9%E4%B8%9D%E8%AE%A9%E6%88%91%E4%BB%AC%E7%AA%A5%E8%A7%81%E4%B8%9D%E8%B7%AF%E4%B8%87%E8%B1%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [张艺兴将进军好莱坞](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B0%86%E8%BF%9B%E5%86%9B%E5%A5%BD%E8%8E%B1%E5%9D%9E%23&t=31&band_rank=4&Refer=top)<br />
 5. [生气身体的器官变化](https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%B0%94%E8%BA%AB%E4%BD%93%E7%9A%84%E5%99%A8%E5%AE%98%E5%8F%98%E5%8C%96%23&t=31&band_rank=5&Refer=top)<br />
