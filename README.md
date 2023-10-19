@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 11:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 11:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [美国一票反对致安理会未通过巴以问题决议草案](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%A5%A8%E5%8F%8D%E5%AF%B9%E8%87%B4%E5%AE%89%E7%90%86%E4%BC%9A%E6%9C%AA%E9%80%9A%E8%BF%87%E5%B7%B4%E4%BB%A5%E9%97%AE%E9%A2%98%E5%86%B3%E8%AE%AE%E8%8D%89%E6%A1%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [外媒称以色列军队已准备好进入加沙](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%9B%E9%98%9F%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E8%BF%9B%E5%85%A5%E5%8A%A0%E6%B2%99%23&t=31&band_rank=7&Refer=top)<br />
 8. [女团养猪](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%9B%A2%E5%85%BB%E7%8C%AA&t=31&band_rank=8&Refer=top)<br />
-9. [碧桂园回应创始人父女离境传闻](https://s.weibo.com/weibo?q=%23%E7%A2%A7%E6%A1%82%E5%9B%AD%E5%9B%9E%E5%BA%94%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%88%B6%E5%A5%B3%E7%A6%BB%E5%A2%83%E4%BC%A0%E9%97%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [张艺兴将进军好莱坞](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B0%86%E8%BF%9B%E5%86%9B%E5%A5%BD%E8%8E%B1%E5%9D%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
