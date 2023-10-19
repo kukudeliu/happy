@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 09:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 09:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [美国一票反对致安理会未通过巴以问题决议草案](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%A5%A8%E5%8F%8D%E5%AF%B9%E8%87%B4%E5%AE%89%E7%90%86%E4%BC%9A%E6%9C%AA%E9%80%9A%E8%BF%87%E5%B7%B4%E4%BB%A5%E9%97%AE%E9%A2%98%E5%86%B3%E8%AE%AE%E8%8D%89%E6%A1%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [又在看金世佳的手了](https://s.weibo.com/weibo?q=%E5%8F%88%E5%9C%A8%E7%9C%8B%E9%87%91%E4%B8%96%E4%BD%B3%E7%9A%84%E6%89%8B%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [内马尔重伤将手术](https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E9%87%8D%E4%BC%A4%E5%B0%86%E6%89%8B%E6%9C%AF%23&t=31&band_rank=8&Refer=top)<br />
-9. [拜登讲话用911提醒以色列](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E8%AE%B2%E8%AF%9D%E7%94%A8911%E6%8F%90%E9%86%92%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [加沙地带一所学校遭袭](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E4%B8%80%E6%89%80%E5%AD%A6%E6%A0%A1%E9%81%AD%E8%A2%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
