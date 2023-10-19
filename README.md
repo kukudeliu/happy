@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 21:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 21:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [3D还原上海女童走失过程](https://s.weibo.com/weibo?q=%233D%E8%BF%98%E5%8E%9F%E4%B8%8A%E6%B5%B7%E5%A5%B3%E7%AB%A5%E8%B5%B0%E5%A4%B1%E8%BF%87%E7%A8%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [女孩自制计算器租给同学一天赚20多元](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%87%AA%E5%88%B6%E8%AE%A1%E7%AE%97%E5%99%A8%E7%A7%9F%E7%BB%99%E5%90%8C%E5%AD%A6%E4%B8%80%E5%A4%A9%E8%B5%9A20%E5%A4%9A%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [DK 疯牛病](https://s.weibo.com/weibo?q=DK%20%E7%96%AF%E7%89%9B%E7%97%85&t=31&band_rank=8&Refer=top)<br />
-9. [花儿与少年丝路季定档](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%E4%B8%9D%E8%B7%AF%E5%AD%A3%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [BLG对战KT](https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98KT%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
