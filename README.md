@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 03:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 03:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [DK 疯牛病](https://s.weibo.com/weibo?q=DK%20%E7%96%AF%E7%89%9B%E7%97%85&t=31&band_rank=6&Refer=top)<br />
 7. [罗大美遇害案3名嫌疑人已落网](https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%A4%A7%E7%BE%8E%E9%81%87%E5%AE%B3%E6%A1%883%E5%90%8D%E5%AB%8C%E7%96%91%E4%BA%BA%E5%B7%B2%E8%90%BD%E7%BD%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [EDG出列](https://s.weibo.com/weibo?q=EDG%E5%87%BA%E5%88%97&t=31&band_rank=8&Refer=top)<br />
-9. [B站申请天官赐福谢怜商标](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E7%94%B3%E8%AF%B7%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E8%B0%A2%E6%80%9C%E5%95%86%E6%A0%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [花海中的迪丽热巴](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%B5%B7%E4%B8%AD%E7%9A%84%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
