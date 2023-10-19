@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 13:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-19 13:16:01</h4></div>
 
 > 微博  
 
-1. [库里绝杀](https://s.weibo.com/weibo?q=%E5%BA%93%E9%87%8C%E7%BB%9D%E6%9D%80&t=31&band_rank=1&Refer=top)<br />
+1. [53.7%年轻人存款不足10万元](https://s.weibo.com/weibo?q=%2353.7%25%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87%E5%85%83%23&t=31&band_rank=1&Refer=top)<br />
 2. [黄渤周迅新片尺度](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%91%A8%E8%BF%85%E6%96%B0%E7%89%87%E5%B0%BA%E5%BA%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [这根丝让我们窥见丝路万象](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%A0%B9%E4%B8%9D%E8%AE%A9%E6%88%91%E4%BB%AC%E7%AA%A5%E8%A7%81%E4%B8%9D%E8%B7%AF%E4%B8%87%E8%B1%A1%23&t=31&band_rank=3&Refer=top)<br />
-4. [53.7%年轻人存款不足10万元](https://s.weibo.com/weibo?q=%2353.7%25%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
+4. [库里绝杀](https://s.weibo.com/weibo?q=%E5%BA%93%E9%87%8C%E7%BB%9D%E6%9D%80&t=31&band_rank=4&Refer=top)<br />
 5. [刘琳演的妈好吓人](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%90%B3%E6%BC%94%E7%9A%84%E5%A6%88%E5%A5%BD%E5%90%93%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [加沙一家18口在空袭中遇难](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E4%B8%80%E5%AE%B618%E5%8F%A3%E5%9C%A8%E7%A9%BA%E8%A2%AD%E4%B8%AD%E9%81%87%E9%9A%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [美国一票反对致安理会未通过巴以问题决议草案](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%A5%A8%E5%8F%8D%E5%AF%B9%E8%87%B4%E5%AE%89%E7%90%86%E4%BC%9A%E6%9C%AA%E9%80%9A%E8%BF%87%E5%B7%B4%E4%BB%A5%E9%97%AE%E9%A2%98%E5%86%B3%E8%AE%AE%E8%8D%89%E6%A1%88%23&t=31&band_rank=7&Refer=top)<br />
