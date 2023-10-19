@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 07:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 07:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以色列巴勒斯坦冲突](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [G2回应抽中TheShy](https://s.weibo.com/weibo?q=%23G2%E5%9B%9E%E5%BA%94%E6%8A%BD%E4%B8%ADTheShy%23&t=31&band_rank=7&Refer=top)<br />
 8. [6岁女儿教科书式自救与父团聚](https://s.weibo.com/weibo?q=%236%E5%B2%81%E5%A5%B3%E5%84%BF%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E8%87%AA%E6%95%91%E4%B8%8E%E7%88%B6%E5%9B%A2%E8%81%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [警方回应两人与火车相撞不幸身亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%A4%E4%BA%BA%E4%B8%8E%E7%81%AB%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [妈妈用水果举例告诉女儿要开心做自己](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%94%A8%E6%B0%B4%E6%9E%9C%E4%B8%BE%E4%BE%8B%E5%91%8A%E8%AF%89%E5%A5%B3%E5%84%BF%E8%A6%81%E5%BC%80%E5%BF%83%E5%81%9A%E8%87%AA%E5%B7%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
