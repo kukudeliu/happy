@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 06:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 06:34:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [警方公开征集一女网红违法线索](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%85%AC%E5%BC%80%E5%BE%81%E9%9B%86%E4%B8%80%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%BF%9D%E6%B3%95%E7%BA%BF%E7%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生住所旁挖到古墓秒变墓景房](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E4%BD%8F%E6%89%80%E6%97%81%E6%8C%96%E5%88%B0%E5%8F%A4%E5%A2%93%E7%A7%92%E5%8F%98%E5%A2%93%E6%99%AF%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女司机不卸车衣盲开几米后追尾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%8F%B8%E6%9C%BA%E4%B8%8D%E5%8D%B8%E8%BD%A6%E8%A1%A3%E7%9B%B2%E5%BC%80%E5%87%A0%E7%B1%B3%E5%90%8E%E8%BF%BD%E5%B0%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [4岁男童按药店嘱咐服药后中毒](https://www.baidu.com/s?wd=4%E5%B2%81%E7%94%B7%E7%AB%A5%E6%8C%89%E8%8D%AF%E5%BA%97%E5%98%B1%E5%92%90%E6%9C%8D%E8%8D%AF%E5%90%8E%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上海高架“拳王”打晕变道司机](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%AB%98%E6%9E%B6%E2%80%9C%E6%8B%B3%E7%8E%8B%E2%80%9D%E6%89%93%E6%99%95%E5%8F%98%E9%81%93%E5%8F%B8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [补钙吃药就能预防骨质疏松？](https://www.baidu.com/s?wd=%E8%A1%A5%E9%92%99%E5%90%83%E8%8D%AF%E5%B0%B1%E8%83%BD%E9%A2%84%E9%98%B2%E9%AA%A8%E8%B4%A8%E7%96%8F%E6%9D%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [警方公开征集一女网红违法线索](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%85%AC%E5%BC%80%E5%BE%81%E9%9B%86%E4%B8%80%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%BF%9D%E6%B3%95%E7%BA%BF%E7%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生住所旁挖到古墓秒变墓景房](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E4%BD%8F%E6%89%80%E6%97%81%E6%8C%96%E5%88%B0%E5%8F%A4%E5%A2%93%E7%A7%92%E5%8F%98%E5%A2%93%E6%99%AF%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女司机不卸车衣盲开几米后追尾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%8F%B8%E6%9C%BA%E4%B8%8D%E5%8D%B8%E8%BD%A6%E8%A1%A3%E7%9B%B2%E5%BC%80%E5%87%A0%E7%B1%B3%E5%90%8E%E8%BF%BD%E5%B0%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [4岁男童按药店嘱咐服药后中毒](https://www.baidu.com/s?wd=4%E5%B2%81%E7%94%B7%E7%AB%A5%E6%8C%89%E8%8D%AF%E5%BA%97%E5%98%B1%E5%92%90%E6%9C%8D%E8%8D%AF%E5%90%8E%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上海高架“拳王”打晕变道司机](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%AB%98%E6%9E%B6%E2%80%9C%E6%8B%B3%E7%8E%8B%E2%80%9D%E6%89%93%E6%99%95%E5%8F%98%E9%81%93%E5%8F%B8%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [补钙吃药就能预防骨质疏松？](https://www.baidu.com/s?wd=%E8%A1%A5%E9%92%99%E5%90%83%E8%8D%AF%E5%B0%B1%E8%83%BD%E9%A2%84%E9%98%B2%E9%AA%A8%E8%B4%A8%E7%96%8F%E6%9D%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
