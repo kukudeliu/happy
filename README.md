@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 10:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 10:15:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [追风逐日，绿色发展点亮万家灯火](https://www.baidu.com/s?wd=%E8%BF%BD%E9%A3%8E%E9%80%90%E6%97%A5%EF%BC%8C%E7%BB%BF%E8%89%B2%E5%8F%91%E5%B1%95%E7%82%B9%E4%BA%AE%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [离开央视的主持人都去哪了？](https://www.baidu.com/s?wd=%E7%A6%BB%E5%BC%80%E5%A4%AE%E8%A7%86%E7%9A%84%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%83%BD%E5%8E%BB%E5%93%AA%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特斯拉市值蒸发5239亿元](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%915239%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [加沙医院供电不足 医生手机照明缝针](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%8C%BB%E9%99%A2%E4%BE%9B%E7%94%B5%E4%B8%8D%E8%B6%B3+%E5%8C%BB%E7%94%9F%E6%89%8B%E6%9C%BA%E7%85%A7%E6%98%8E%E7%BC%9D%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [A股再战3000点 这次有何不同？](https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E6%88%983000%E7%82%B9+%E8%BF%99%E6%AC%A1%E6%9C%89%E4%BD%95%E4%B8%8D%E5%90%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [A股再战3000点 这次有何不同？](https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E6%88%983000%E7%82%B9+%E8%BF%99%E6%AC%A1%E6%9C%89%E4%BD%95%E4%B8%8D%E5%90%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [撞车出租所属公司称司机已尽力刹车](https://www.baidu.com/s?wd=%E6%92%9E%E8%BD%A6%E5%87%BA%E7%A7%9F%E6%89%80%E5%B1%9E%E5%85%AC%E5%8F%B8%E7%A7%B0%E5%8F%B8%E6%9C%BA%E5%B7%B2%E5%B0%BD%E5%8A%9B%E5%88%B9%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [经常剃光头，头发会变浓密？](https://www.baidu.com/s?wd=%E7%BB%8F%E5%B8%B8%E5%89%83%E5%85%89%E5%A4%B4%EF%BC%8C%E5%A4%B4%E5%8F%91%E4%BC%9A%E5%8F%98%E6%B5%93%E5%AF%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [追风逐日，绿色发展点亮万家灯火](https://www.baidu.com/s?wd=%E8%BF%BD%E9%A3%8E%E9%80%90%E6%97%A5%EF%BC%8C%E7%BB%BF%E8%89%B2%E5%8F%91%E5%B1%95%E7%82%B9%E4%BA%AE%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [离开央视的主持人都去哪了？](https://www.baidu.com/s?wd=%E7%A6%BB%E5%BC%80%E5%A4%AE%E8%A7%86%E7%9A%84%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%83%BD%E5%8E%BB%E5%93%AA%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特斯拉市值蒸发5239亿元](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%915239%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [加沙医院供电不足 医生手机照明缝针](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%8C%BB%E9%99%A2%E4%BE%9B%E7%94%B5%E4%B8%8D%E8%B6%B3+%E5%8C%BB%E7%94%9F%E6%89%8B%E6%9C%BA%E7%85%A7%E6%98%8E%E7%BC%9D%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [A股再战3000点 这次有何不同？](https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E6%88%983000%E7%82%B9+%E8%BF%99%E6%AC%A1%E6%9C%89%E4%BD%95%E4%B8%8D%E5%90%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [A股再战3000点 这次有何不同？](https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E6%88%983000%E7%82%B9+%E8%BF%99%E6%AC%A1%E6%9C%89%E4%BD%95%E4%B8%8D%E5%90%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [撞车出租所属公司称司机已尽力刹车](https://www.baidu.com/s?wd=%E6%92%9E%E8%BD%A6%E5%87%BA%E7%A7%9F%E6%89%80%E5%B1%9E%E5%85%AC%E5%8F%B8%E7%A7%B0%E5%8F%B8%E6%9C%BA%E5%B7%B2%E5%B0%BD%E5%8A%9B%E5%88%B9%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [经常剃光头，头发会变浓密？](https://www.baidu.com/s?wd=%E7%BB%8F%E5%B8%B8%E5%89%83%E5%85%89%E5%A4%B4%EF%BC%8C%E5%A4%B4%E5%8F%91%E4%BC%9A%E5%8F%98%E6%B5%93%E5%AF%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
