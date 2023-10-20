@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 19:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 19:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [哈马斯发言人等60多人被以色列逮捕](https://s.weibo.com/weibo?q=%23%E5%93%88%E9%A9%AC%E6%96%AF%E5%8F%91%E8%A8%80%E4%BA%BA%E7%AD%8960%E5%A4%9A%E4%BA%BA%E8%A2%AB%E4%BB%A5%E8%89%B2%E5%88%97%E9%80%AE%E6%8D%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子险被冲走众人趟水合力救人](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%99%A9%E8%A2%AB%E5%86%B2%E8%B5%B0%E4%BC%97%E4%BA%BA%E8%B6%9F%E6%B0%B4%E5%90%88%E5%8A%9B%E6%95%91%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [巴以冲突](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [女孩花五年时间将男友改造成木村拓哉](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%8A%B1%E4%BA%94%E5%B9%B4%E6%97%B6%E9%97%B4%E5%B0%86%E7%94%B7%E5%8F%8B%E6%94%B9%E9%80%A0%E6%88%90%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [G2说来找TheShy复仇了](https://s.weibo.com/weibo?q=%23G2%E8%AF%B4%E6%9D%A5%E6%89%BETheShy%E5%A4%8D%E4%BB%87%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
