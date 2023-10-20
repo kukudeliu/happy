@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 22:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 22:22:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [韩国政府：愿无条件与朝鲜对话](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%94%BF%E5%BA%9C%EF%BC%9A%E6%84%BF%E6%97%A0%E6%9D%A1%E4%BB%B6%E4%B8%8E%E6%9C%9D%E9%B2%9C%E5%AF%B9%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [两个亚运 同样精彩](https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AA%E4%BA%9A%E8%BF%90+%E5%90%8C%E6%A0%B7%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [老人穿红衣进羊圈被羊顶撞身亡](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%A9%BF%E7%BA%A2%E8%A1%A3%E8%BF%9B%E7%BE%8A%E5%9C%88%E8%A2%AB%E7%BE%8A%E9%A1%B6%E6%92%9E%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [专访俄罗斯总统普京](https://www.baidu.com/s?wd=%E4%B8%93%E8%AE%BF%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E6%99%AE%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子产后跳楼身亡 警方：排除他杀](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1+%E8%AD%A6%E6%96%B9%EF%BC%9A%E6%8E%92%E9%99%A4%E4%BB%96%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [巴勒斯坦总统建议布林肯在约旦买房](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%80%BB%E7%BB%9F%E5%BB%BA%E8%AE%AE%E5%B8%83%E6%9E%97%E8%82%AF%E5%9C%A8%E7%BA%A6%E6%97%A6%E4%B9%B0%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子产后跳楼身亡 警方：排除他杀](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1+%E8%AD%A6%E6%96%B9%EF%BC%9A%E6%8E%92%E9%99%A4%E4%BB%96%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [巴勒斯坦总统建议布林肯在约旦买房](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%80%BB%E7%BB%9F%E5%BB%BA%E8%AE%AE%E5%B8%83%E6%9E%97%E8%82%AF%E5%9C%A8%E7%BA%A6%E6%97%A6%E4%B9%B0%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生住所旁挖到古墓秒变墓景房](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E4%BD%8F%E6%89%80%E6%97%81%E6%8C%96%E5%88%B0%E5%8F%A4%E5%A2%93%E7%A7%92%E5%8F%98%E5%A2%93%E6%99%AF%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [补钙吃药就能预防骨质疏松？](https://www.baidu.com/s?wd=%E8%A1%A5%E9%92%99%E5%90%83%E8%8D%AF%E5%B0%B1%E8%83%BD%E9%A2%84%E9%98%B2%E9%AA%A8%E8%B4%A8%E7%96%8F%E6%9D%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [韩国政府：愿无条件与朝鲜对话](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%94%BF%E5%BA%9C%EF%BC%9A%E6%84%BF%E6%97%A0%E6%9D%A1%E4%BB%B6%E4%B8%8E%E6%9C%9D%E9%B2%9C%E5%AF%B9%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [两个亚运 同样精彩](https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AA%E4%BA%9A%E8%BF%90+%E5%90%8C%E6%A0%B7%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [老人穿红衣进羊圈被羊顶撞身亡](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%A9%BF%E7%BA%A2%E8%A1%A3%E8%BF%9B%E7%BE%8A%E5%9C%88%E8%A2%AB%E7%BE%8A%E9%A1%B6%E6%92%9E%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [专访俄罗斯总统普京](https://www.baidu.com/s?wd=%E4%B8%93%E8%AE%BF%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E6%99%AE%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子产后跳楼身亡 警方：排除他杀](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1+%E8%AD%A6%E6%96%B9%EF%BC%9A%E6%8E%92%E9%99%A4%E4%BB%96%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [巴勒斯坦总统建议布林肯在约旦买房](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%80%BB%E7%BB%9F%E5%BB%BA%E8%AE%AE%E5%B8%83%E6%9E%97%E8%82%AF%E5%9C%A8%E7%BA%A6%E6%97%A6%E4%B9%B0%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子产后跳楼身亡 警方：排除他杀](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1+%E8%AD%A6%E6%96%B9%EF%BC%9A%E6%8E%92%E9%99%A4%E4%BB%96%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [巴勒斯坦总统建议布林肯在约旦买房](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%80%BB%E7%BB%9F%E5%BB%BA%E8%AE%AE%E5%B8%83%E6%9E%97%E8%82%AF%E5%9C%A8%E7%BA%A6%E6%97%A6%E4%B9%B0%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生住所旁挖到古墓秒变墓景房](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E4%BD%8F%E6%89%80%E6%97%81%E6%8C%96%E5%88%B0%E5%8F%A4%E5%A2%93%E7%A7%92%E5%8F%98%E5%A2%93%E6%99%AF%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [补钙吃药就能预防骨质疏松？](https://www.baidu.com/s?wd=%E8%A1%A5%E9%92%99%E5%90%83%E8%8D%AF%E5%B0%B1%E8%83%BD%E9%A2%84%E9%98%B2%E9%AA%A8%E8%B4%A8%E7%96%8F%E6%9D%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
