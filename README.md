@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 03:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 03:19:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [广东通报女子产后跳楼身亡](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [巴以冲突](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [林孝埈](https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%9D%E5%9F%88&t=31&band_rank=8&Refer=top)<br />
-9. [金牛座越来越冷漠的原因](https://s.weibo.com/weibo?q=%E9%87%91%E7%89%9B%E5%BA%A7%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%86%B7%E6%BC%A0%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=9&Refer=top)<br />
+9. [多国以色列使领馆遭到冲击](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E4%BB%A5%E8%89%B2%E5%88%97%E4%BD%BF%E9%A2%86%E9%A6%86%E9%81%AD%E5%88%B0%E5%86%B2%E5%87%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
