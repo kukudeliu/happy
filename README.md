@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 12:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 12:53:02</h4></div>
 
 > 微博  
 
-1. [男子1天取451.8万银行柜员报警](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%901%E5%A4%A9%E5%8F%96451.8%E4%B8%87%E9%93%B6%E8%A1%8C%E6%9F%9C%E5%91%98%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=1&Refer=top)<br />
-2. [情侣住酒店一年后收到亲密视频](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E4%BD%8F%E9%85%92%E5%BA%97%E4%B8%80%E5%B9%B4%E5%90%8E%E6%94%B6%E5%88%B0%E4%BA%B2%E5%AF%86%E8%A7%86%E9%A2%91%23&t=31&band_rank=2&Refer=top)<br />
+1. [情侣住酒店一年后收到亲密视频](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E4%BD%8F%E9%85%92%E5%BA%97%E4%B8%80%E5%B9%B4%E5%90%8E%E6%94%B6%E5%88%B0%E4%BA%B2%E5%AF%86%E8%A7%86%E9%A2%91%23&t=31&band_rank=1&Refer=top)<br />
+2. [男子1天取451.8万银行柜员报警](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%901%E5%A4%A9%E5%8F%96451.8%E4%B8%87%E9%93%B6%E8%A1%8C%E6%9F%9C%E5%91%98%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚残运会火炬传递主题曲MV发布](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E4%B8%BB%E9%A2%98%E6%9B%B2MV%E5%8F%91%E5%B8%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [重庆驱赶处置流浪狗保安被停职](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E9%A9%B1%E8%B5%B6%E5%A4%84%E7%BD%AE%E6%B5%81%E6%B5%AA%E7%8B%97%E4%BF%9D%E5%AE%89%E8%A2%AB%E5%81%9C%E8%81%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [警方回应女子产后疑被婆家逼死](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E7%96%91%E8%A2%AB%E5%A9%86%E5%AE%B6%E9%80%BC%E6%AD%BB%23&t=31&band_rank=5&Refer=top)<br />
