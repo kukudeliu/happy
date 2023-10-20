@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 19:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 19:56:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [韩国政府：愿无条件与朝鲜对话](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%94%BF%E5%BA%9C%EF%BC%9A%E6%84%BF%E6%97%A0%E6%9D%A1%E4%BB%B6%E4%B8%8E%E6%9C%9D%E9%B2%9C%E5%AF%B9%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [官方：逐步减轻参保人门诊费用负担](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E9%80%90%E6%AD%A5%E5%87%8F%E8%BD%BB%E5%8F%82%E4%BF%9D%E4%BA%BA%E9%97%A8%E8%AF%8A%E8%B4%B9%E7%94%A8%E8%B4%9F%E6%8B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [哈马斯发言人等60多人被以色列逮捕](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E5%8F%91%E8%A8%80%E4%BA%BA%E7%AD%8960%E5%A4%9A%E4%BA%BA%E8%A2%AB%E4%BB%A5%E8%89%B2%E5%88%97%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [民警10分钟阻止15万被诈骗](https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A610%E5%88%86%E9%92%9F%E9%98%BB%E6%AD%A215%E4%B8%87%E8%A2%AB%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老人穿红衣进羊圈被羊顶撞身亡](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%A9%BF%E7%BA%A2%E8%A1%A3%E8%BF%9B%E7%BE%8A%E5%9C%88%E8%A2%AB%E7%BE%8A%E9%A1%B6%E6%92%9E%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京一公交司机开车戴耳机？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E5%BC%80%E8%BD%A6%E6%88%B4%E8%80%B3%E6%9C%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [韩国政府：愿无条件与朝鲜对话](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%94%BF%E5%BA%9C%EF%BC%9A%E6%84%BF%E6%97%A0%E6%9D%A1%E4%BB%B6%E4%B8%8E%E6%9C%9D%E9%B2%9C%E5%AF%B9%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [官方：逐步减轻参保人门诊费用负担](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E9%80%90%E6%AD%A5%E5%87%8F%E8%BD%BB%E5%8F%82%E4%BF%9D%E4%BA%BA%E9%97%A8%E8%AF%8A%E8%B4%B9%E7%94%A8%E8%B4%9F%E6%8B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [哈马斯发言人等60多人被以色列逮捕](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E5%8F%91%E8%A8%80%E4%BA%BA%E7%AD%8960%E5%A4%9A%E4%BA%BA%E8%A2%AB%E4%BB%A5%E8%89%B2%E5%88%97%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [民警10分钟阻止15万被诈骗](https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A610%E5%88%86%E9%92%9F%E9%98%BB%E6%AD%A215%E4%B8%87%E8%A2%AB%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老人穿红衣进羊圈被羊顶撞身亡](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%A9%BF%E7%BA%A2%E8%A1%A3%E8%BF%9B%E7%BE%8A%E5%9C%88%E8%A2%AB%E7%BE%8A%E9%A1%B6%E6%92%9E%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京一公交司机开车戴耳机？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E5%BC%80%E8%BD%A6%E6%88%B4%E8%80%B3%E6%9C%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
