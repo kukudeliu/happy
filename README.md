@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 15:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 15:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [情侣住酒店一年后收到亲密视频](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E4%BD%8F%E9%85%92%E5%BA%97%E4%B8%80%E5%B9%B4%E5%90%8E%E6%94%B6%E5%88%B0%E4%BA%B2%E5%AF%86%E8%A7%86%E9%A2%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子1天取451.8万银行柜员报警](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%901%E5%A4%A9%E5%8F%96451.8%E4%B8%87%E9%93%B6%E8%A1%8C%E6%9F%9C%E5%91%98%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [柚子鸡](https://s.weibo.com/weibo?q=%23%E6%9F%9A%E5%AD%90%E9%B8%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [遭绑架杀害网红罗大美好友发声](https://s.weibo.com/weibo?q=%23%E9%81%AD%E7%BB%91%E6%9E%B6%E6%9D%80%E5%AE%B3%E7%BD%91%E7%BA%A2%E7%BD%97%E5%A4%A7%E7%BE%8E%E5%A5%BD%E5%8F%8B%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [青岛啤酒厂工人被曝在原料仓小便](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E5%8E%82%E5%B7%A5%E4%BA%BA%E8%A2%AB%E6%9B%9D%E5%9C%A8%E5%8E%9F%E6%96%99%E4%BB%93%E5%B0%8F%E4%BE%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
