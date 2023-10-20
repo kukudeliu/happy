@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 14:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 14:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女子吐槽高铁一盒葡萄60元仅200克](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E9%AB%98%E9%93%81%E4%B8%80%E7%9B%92%E8%91%A1%E8%90%8460%E5%85%83%E4%BB%85200%E5%85%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [网友乘地铁发现警犬已戴上嘴套](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B9%98%E5%9C%B0%E9%93%81%E5%8F%91%E7%8E%B0%E8%AD%A6%E7%8A%AC%E5%B7%B2%E6%88%B4%E4%B8%8A%E5%98%B4%E5%A5%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [重庆驱赶处置流浪狗保安被停职](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E9%A9%B1%E8%B5%B6%E5%A4%84%E7%BD%AE%E6%B5%81%E6%B5%AA%E7%8B%97%E4%BF%9D%E5%AE%89%E8%A2%AB%E5%81%9C%E8%81%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [5岁娃被压脚50秒30人冲来救援](https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%A8%83%E8%A2%AB%E5%8E%8B%E8%84%9A50%E7%A7%9230%E4%BA%BA%E5%86%B2%E6%9D%A5%E6%95%91%E6%8F%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [韩版以家人之名主演阵容](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%89%88%E4%BB%A5%E5%AE%B6%E4%BA%BA%E4%B9%8B%E5%90%8D%E4%B8%BB%E6%BC%94%E9%98%B5%E5%AE%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
