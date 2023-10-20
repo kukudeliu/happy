@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 22:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 22:42:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [老人穿红衣服进羊圈被羊顶死](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%A9%BF%E7%BA%A2%E8%A1%A3%E6%9C%8D%E8%BF%9B%E7%BE%8A%E5%9C%88%E8%A2%AB%E7%BE%8A%E9%A1%B6%E6%AD%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [王牌对王牌](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C&t=31&band_rank=5&Refer=top)<br />
 6. [巴以冲突](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
-7. [奶奶六年前给我买的金项链](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%85%AD%E5%B9%B4%E5%89%8D%E7%BB%99%E6%88%91%E4%B9%B0%E7%9A%84%E9%87%91%E9%A1%B9%E9%93%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [二手玫瑰冠军](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%89%8B%E7%8E%AB%E7%91%B0%E5%86%A0%E5%86%9B%23&t=31&band_rank=8&Refer=top)<br />
+7. [二手玫瑰冠军](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%89%8B%E7%8E%AB%E7%91%B0%E5%86%A0%E5%86%9B%23&t=31&band_rank=7&Refer=top)<br />
+8. [奶奶六年前给我买的金项链](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%85%AD%E5%B9%B4%E5%89%8D%E7%BB%99%E6%88%91%E4%B9%B0%E7%9A%84%E9%87%91%E9%A1%B9%E9%93%BE%23&t=31&band_rank=8&Refer=top)<br />
 9. [巩皇永远能打](https://s.weibo.com/weibo?q=%23%E5%B7%A9%E7%9A%87%E6%B0%B8%E8%BF%9C%E8%83%BD%E6%89%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
