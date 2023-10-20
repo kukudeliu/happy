@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 09:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 09:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [萧敬腾 恋综](https://s.weibo.com/weibo?q=%E8%90%A7%E6%95%AC%E8%85%BE%20%E6%81%8B%E7%BB%BC&t=31&band_rank=6&Refer=top)<br />
 7. [妈 咱们也要去好莱坞了](https://s.weibo.com/weibo?q=%E5%A6%88%20%E5%92%B1%E4%BB%AC%E4%B9%9F%E8%A6%81%E5%8E%BB%E5%A5%BD%E8%8E%B1%E5%9D%9E%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [妈妈用水果举例告诉女儿要开心做自己](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%94%A8%E6%B0%B4%E6%9E%9C%E4%B8%BE%E4%BE%8B%E5%91%8A%E8%AF%89%E5%A5%B3%E5%84%BF%E8%A6%81%E5%BC%80%E5%BF%83%E5%81%9A%E8%87%AA%E5%B7%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [以色列巴勒斯坦冲突](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%86%B2%E7%AA%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [米哈游曾试图绕过苹果税](https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%93%88%E6%B8%B8%E6%9B%BE%E8%AF%95%E5%9B%BE%E7%BB%95%E8%BF%87%E8%8B%B9%E6%9E%9C%E7%A8%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
