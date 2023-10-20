@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 23:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 23:56:01</h4></div>
 
 > 微博  
 
-1. [成都恶犬偷跑主人曾出门寻找但没找到](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%81%B6%E7%8A%AC%E5%81%B7%E8%B7%91%E4%B8%BB%E4%BA%BA%E6%9B%BE%E5%87%BA%E9%97%A8%E5%AF%BB%E6%89%BE%E4%BD%86%E6%B2%A1%E6%89%BE%E5%88%B0%23&t=31&band_rank=1&Refer=top)<br />
-2. [广东通报女子产后跳楼身亡](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
+1. [广东通报女子产后跳楼身亡](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=1&Refer=top)<br />
+2. [成都恶犬偷跑主人曾出门寻找但没找到](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%81%B6%E7%8A%AC%E5%81%B7%E8%B7%91%E4%B8%BB%E4%BA%BA%E6%9B%BE%E5%87%BA%E9%97%A8%E5%AF%BB%E6%89%BE%E4%BD%86%E6%B2%A1%E6%89%BE%E5%88%B0%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚残运会火炬满满的中国式浪漫](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E6%BB%A1%E6%BB%A1%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB%23&t=31&band_rank=3&Refer=top)<br />
 4. [调停者型人格](https://s.weibo.com/weibo?q=%E8%B0%83%E5%81%9C%E8%80%85%E5%9E%8B%E4%BA%BA%E6%A0%BC&t=31&band_rank=4&Refer=top)<br />
 5. [杭州情侣回应不花钱办一场婚礼](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%83%85%E4%BE%A3%E5%9B%9E%E5%BA%94%E4%B8%8D%E8%8A%B1%E9%92%B1%E5%8A%9E%E4%B8%80%E5%9C%BA%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=5&Refer=top)<br />
