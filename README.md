@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 04:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 04:05:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [为什么阳光玫瑰变便宜也变难吃了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E5%8F%98%E4%BE%BF%E5%AE%9C%E4%B9%9F%E5%8F%98%E9%9A%BE%E5%90%83%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [多国以色列使领馆遭到冲击](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E4%BB%A5%E8%89%B2%E5%88%97%E4%BD%BF%E9%A2%86%E9%A6%86%E9%81%AD%E5%88%B0%E5%86%B2%E5%87%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [广东通报女子产后跳楼身亡](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [林孝埈](https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%9D%E5%9F%88&t=31&band_rank=8&Refer=top)<br />
-9. [巴以冲突](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=9&Refer=top)<br />
+8. [巴以冲突](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=8&Refer=top)<br />
+9. [林孝埈](https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%9D%E5%9F%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
