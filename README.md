@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 11:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 11:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [妈 咱们也要去好莱坞了](https://s.weibo.com/weibo?q=%E5%A6%88%20%E5%92%B1%E4%BB%AC%E4%B9%9F%E8%A6%81%E5%8E%BB%E5%A5%BD%E8%8E%B1%E5%9D%9E%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [遭恶犬咬伤女童仍昏迷](https://s.weibo.com/weibo?q=%23%E9%81%AD%E6%81%B6%E7%8A%AC%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E4%BB%8D%E6%98%8F%E8%BF%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘雅瑟称不是所有流浪狗都是坏狗](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%85%E7%91%9F%E7%A7%B0%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E6%B5%81%E6%B5%AA%E7%8B%97%E9%83%BD%E6%98%AF%E5%9D%8F%E7%8B%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [独居女生家被陌生男差1位试对密码](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%B1%85%E5%A5%B3%E7%94%9F%E5%AE%B6%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%B7%AE1%E4%BD%8D%E8%AF%95%E5%AF%B9%E5%AF%86%E7%A0%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [网友乘地铁发现警犬已戴上嘴套](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B9%98%E5%9C%B0%E9%93%81%E5%8F%91%E7%8E%B0%E8%AD%A6%E7%8A%AC%E5%B7%B2%E6%88%B4%E4%B8%8A%E5%98%B4%E5%A5%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
