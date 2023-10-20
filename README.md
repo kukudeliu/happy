@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 09:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 09:27:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [武汉一未拴绳杜宾犬咬人被没收](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E4%B8%80%E6%9C%AA%E6%8B%B4%E7%BB%B3%E6%9D%9C%E5%AE%BE%E7%8A%AC%E5%92%AC%E4%BA%BA%E8%A2%AB%E6%B2%A1%E6%94%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [23岁姑娘患乳腺癌与不良生活习惯有关](https://s.weibo.com/weibo?q=%2323%E5%B2%81%E5%A7%91%E5%A8%98%E6%82%A3%E4%B9%B3%E8%85%BA%E7%99%8C%E4%B8%8E%E4%B8%8D%E8%89%AF%E7%94%9F%E6%B4%BB%E4%B9%A0%E6%83%AF%E6%9C%89%E5%85%B3%23&t=31&band_rank=5&Refer=top)<br />
 6. [萧敬腾 恋综](https://s.weibo.com/weibo?q=%E8%90%A7%E6%95%AC%E8%85%BE%20%E6%81%8B%E7%BB%BC&t=31&band_rank=6&Refer=top)<br />
-7. [妈妈用水果举例告诉女儿要开心做自己](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%94%A8%E6%B0%B4%E6%9E%9C%E4%B8%BE%E4%BE%8B%E5%91%8A%E8%AF%89%E5%A5%B3%E5%84%BF%E8%A6%81%E5%BC%80%E5%BF%83%E5%81%9A%E8%87%AA%E5%B7%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [妈 咱们也要去好莱坞了](https://s.weibo.com/weibo?q=%E5%A6%88%20%E5%92%B1%E4%BB%AC%E4%B9%9F%E8%A6%81%E5%8E%BB%E5%A5%BD%E8%8E%B1%E5%9D%9E%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+7. [妈 咱们也要去好莱坞了](https://s.weibo.com/weibo?q=%E5%A6%88%20%E5%92%B1%E4%BB%AC%E4%B9%9F%E8%A6%81%E5%8E%BB%E5%A5%BD%E8%8E%B1%E5%9D%9E%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [妈妈用水果举例告诉女儿要开心做自己](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%94%A8%E6%B0%B4%E6%9E%9C%E4%B8%BE%E4%BE%8B%E5%91%8A%E8%AF%89%E5%A5%B3%E5%84%BF%E8%A6%81%E5%BC%80%E5%BF%83%E5%81%9A%E8%87%AA%E5%B7%B1%23&t=31&band_rank=8&Refer=top)<br />
 9. [以色列巴勒斯坦冲突](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%86%B2%E7%AA%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
