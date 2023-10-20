@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 09:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 09:42:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [23岁姑娘患乳腺癌与生活习惯有关](https://www.baidu.com/s?wd=23%E5%B2%81%E5%A7%91%E5%A8%98%E6%82%A3%E4%B9%B3%E8%85%BA%E7%99%8C%E4%B8%8E%E7%94%9F%E6%B4%BB%E4%B9%A0%E6%83%AF%E6%9C%89%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京视察特别军事行动指挥部](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%A7%86%E5%AF%9F%E7%89%B9%E5%88%AB%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E6%8C%87%E6%8C%A5%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [一个医药记者的支原体肺炎笔记](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E5%8C%BB%E8%8D%AF%E8%AE%B0%E8%80%85%E7%9A%84%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E7%AC%94%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国考首个超千人竞争岗位出现](https://www.baidu.com/s?wd=%E5%9B%BD%E8%80%83%E9%A6%96%E4%B8%AA%E8%B6%85%E5%8D%83%E4%BA%BA%E7%AB%9E%E4%BA%89%E5%B2%97%E4%BD%8D%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [经常剃光头，头发会变浓密？](https://www.baidu.com/s?wd=%E7%BB%8F%E5%B8%B8%E5%89%83%E5%85%89%E5%A4%B4%EF%BC%8C%E5%A4%B4%E5%8F%91%E4%BC%9A%E5%8F%98%E6%B5%93%E5%AF%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [23岁姑娘患乳腺癌与生活习惯有关](https://www.baidu.com/s?wd=23%E5%B2%81%E5%A7%91%E5%A8%98%E6%82%A3%E4%B9%B3%E8%85%BA%E7%99%8C%E4%B8%8E%E7%94%9F%E6%B4%BB%E4%B9%A0%E6%83%AF%E6%9C%89%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京视察特别军事行动指挥部](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%A7%86%E5%AF%9F%E7%89%B9%E5%88%AB%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E6%8C%87%E6%8C%A5%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [一个医药记者的支原体肺炎笔记](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E5%8C%BB%E8%8D%AF%E8%AE%B0%E8%80%85%E7%9A%84%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E7%AC%94%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [国考首个超千人竞争岗位出现](https://www.baidu.com/s?wd=%E5%9B%BD%E8%80%83%E9%A6%96%E4%B8%AA%E8%B6%85%E5%8D%83%E4%BA%BA%E7%AB%9E%E4%BA%89%E5%B2%97%E4%BD%8D%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [经常剃光头，头发会变浓密？](https://www.baidu.com/s?wd=%E7%BB%8F%E5%B8%B8%E5%89%83%E5%85%89%E5%A4%B4%EF%BC%8C%E5%A4%B4%E5%8F%91%E4%BC%9A%E5%8F%98%E6%B5%93%E5%AF%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
