@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 00:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 00:17:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [杨迪 可以不喜爱但请别伤害](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%BF%AA%20%E5%8F%AF%E4%BB%A5%E4%B8%8D%E5%96%9C%E7%88%B1%E4%BD%86%E8%AF%B7%E5%88%AB%E4%BC%A4%E5%AE%B3&t=31&band_rank=5&Refer=top)<br />
 6. [调停者型人格](https://s.weibo.com/weibo?q=%E8%B0%83%E5%81%9C%E8%80%85%E5%9E%8B%E4%BA%BA%E6%A0%BC&t=31&band_rank=6&Refer=top)<br />
 7. [巴以冲突](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [时代少年团澳门演唱会的票价](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E7%A5%A8%E4%BB%B7%23&t=31&band_rank=8&Refer=top)<br />
+8. [iPhone的手电筒可以调节亮度](https://s.weibo.com/weibo?q=iPhone%E7%9A%84%E6%89%8B%E7%94%B5%E7%AD%92%E5%8F%AF%E4%BB%A5%E8%B0%83%E8%8A%82%E4%BA%AE%E5%BA%A6&t=31&band_rank=8&Refer=top)<br />
 9. [杭州情侣回应不花钱办一场婚礼](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%83%85%E4%BE%A3%E5%9B%9E%E5%BA%94%E4%B8%8D%E8%8A%B1%E9%92%B1%E5%8A%9E%E4%B8%80%E5%9C%BA%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
