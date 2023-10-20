@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 22:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 22:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [巴以冲突](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [李佳琦双十一预告](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%8F%8C%E5%8D%81%E4%B8%80%E9%A2%84%E5%91%8A&t=31&band_rank=7&Refer=top)<br />
 8. [LPL又是内战](https://s.weibo.com/weibo?q=%23LPL%E5%8F%88%E6%98%AF%E5%86%85%E6%88%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [S13抽签](https://s.weibo.com/weibo?q=S13%E6%8A%BD%E7%AD%BE&t=31&band_rank=9&Refer=top)<br />
+9. [李健海边演唱会直播](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%81%A5%E6%B5%B7%E8%BE%B9%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9B%B4%E6%92%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
