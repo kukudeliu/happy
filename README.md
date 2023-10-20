@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 07:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 07:36:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 > 百度  
 
 1. [勇扛历史重担 把准时代脉搏](https://www.baidu.com/s?wd=%E5%8B%87%E6%89%9B%E5%8E%86%E5%8F%B2%E9%87%8D%E6%8B%85+%E6%8A%8A%E5%87%86%E6%97%B6%E4%BB%A3%E8%84%89%E6%90%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [12306回应200克葡萄售价60元](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94200%E5%85%8B%E8%91%A1%E8%90%84%E5%94%AE%E4%BB%B760%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [宁波一家三口相继患上支原体肺炎](https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E7%9B%B8%E7%BB%A7%E6%82%A3%E4%B8%8A%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [宁波一家三口相继患上支原体肺炎](https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E7%9B%B8%E7%BB%A7%E6%82%A3%E4%B8%8A%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [广西平果企业发生爆炸 已致2死4失联](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%B9%B3%E6%9E%9C%E4%BC%81%E4%B8%9A%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8+%E5%B7%B2%E8%87%B42%E6%AD%BB4%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [两个亚运 同样精彩](https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AA%E4%BA%9A%E8%BF%90+%E5%90%8C%E6%A0%B7%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [区长行贿50万 3个月后任区委书记](https://www.baidu.com/s?wd=%E5%8C%BA%E9%95%BF%E8%A1%8C%E8%B4%BF50%E4%B8%87+3%E4%B8%AA%E6%9C%88%E5%90%8E%E4%BB%BB%E5%8C%BA%E5%A7%94%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国务院取消调整33个罚款事项](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8F%96%E6%B6%88%E8%B0%83%E6%95%B433%E4%B8%AA%E7%BD%9A%E6%AC%BE%E4%BA%8B%E9%A1%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,8 +30,8 @@
 > 哔哩哔哩  
 
 1. [勇扛历史重担 把准时代脉搏](https://www.baidu.com/s?wd=%E5%8B%87%E6%89%9B%E5%8E%86%E5%8F%B2%E9%87%8D%E6%8B%85+%E6%8A%8A%E5%87%86%E6%97%B6%E4%BB%A3%E8%84%89%E6%90%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [12306回应200克葡萄售价60元](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94200%E5%85%8B%E8%91%A1%E8%90%84%E5%94%AE%E4%BB%B760%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [宁波一家三口相继患上支原体肺炎](https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E7%9B%B8%E7%BB%A7%E6%82%A3%E4%B8%8A%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [宁波一家三口相继患上支原体肺炎](https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E7%9B%B8%E7%BB%A7%E6%82%A3%E4%B8%8A%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [广西平果企业发生爆炸 已致2死4失联](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%B9%B3%E6%9E%9C%E4%BC%81%E4%B8%9A%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8+%E5%B7%B2%E8%87%B42%E6%AD%BB4%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [两个亚运 同样精彩](https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AA%E4%BA%9A%E8%BF%90+%E5%90%8C%E6%A0%B7%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [区长行贿50万 3个月后任区委书记](https://www.baidu.com/s?wd=%E5%8C%BA%E9%95%BF%E8%A1%8C%E8%B4%BF50%E4%B8%87+3%E4%B8%AA%E6%9C%88%E5%90%8E%E4%BB%BB%E5%8C%BA%E5%A7%94%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国务院取消调整33个罚款事项](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8F%96%E6%B6%88%E8%B0%83%E6%95%B433%E4%B8%AA%E7%BD%9A%E6%AC%BE%E4%BA%8B%E9%A1%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
