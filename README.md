@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 16:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 16:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李善均方回应吸毒传闻](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%96%84%E5%9D%87%E6%96%B9%E5%9B%9E%E5%BA%94%E5%90%B8%E6%AF%92%E4%BC%A0%E9%97%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [绑架罗大美嫌犯劫财后欲将其卖至缅甸](https://s.weibo.com/weibo?q=%23%E7%BB%91%E6%9E%B6%E7%BD%97%E5%A4%A7%E7%BE%8E%E5%AB%8C%E7%8A%AF%E5%8A%AB%E8%B4%A2%E5%90%8E%E6%AC%B2%E5%B0%86%E5%85%B6%E5%8D%96%E8%87%B3%E7%BC%85%E7%94%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [男子1天取451.8万银行柜员报警](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%901%E5%A4%A9%E5%8F%96451.8%E4%B8%87%E9%93%B6%E8%A1%8C%E6%9F%9C%E5%91%98%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [C9 回溯](https://s.weibo.com/weibo?q=C9%20%E5%9B%9E%E6%BA%AF&t=31&band_rank=9&Refer=top)<br />
+9. [柚子鸡](https://s.weibo.com/weibo?q=%23%E6%9F%9A%E5%AD%90%E9%B8%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
