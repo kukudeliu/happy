@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 18:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 18:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [巴以冲突](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈牧驰ELLEMEN](https://s.weibo.com/weibo?q=%23%E9%99%88%E7%89%A7%E9%A9%B0ELLEMEN%23&t=31&band_rank=7&Refer=top)<br />
 8. [不吃妆造的明星](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%90%83%E5%A6%86%E9%80%A0%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [辛德勒的名单B站评分](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E5%BE%B7%E5%8B%92%E7%9A%84%E5%90%8D%E5%8D%95B%E7%AB%99%E8%AF%84%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [我国流浪猫狗数量近1亿只](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%B5%81%E6%B5%AA%E7%8C%AB%E7%8B%97%E6%95%B0%E9%87%8F%E8%BF%911%E4%BA%BF%E5%8F%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
