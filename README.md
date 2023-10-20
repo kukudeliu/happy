@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 23:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 23:04:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [阿根廷世界杯冠军成员兴奋剂阳性](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E6%88%90%E5%91%98%E5%85%B4%E5%A5%8B%E5%89%82%E9%98%B3%E6%80%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [老人穿红衣服进羊圈被羊顶死](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%A9%BF%E7%BA%A2%E8%A1%A3%E6%9C%8D%E8%BF%9B%E7%BE%8A%E5%9C%88%E8%A2%AB%E7%BE%8A%E9%A1%B6%E6%AD%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [巴以冲突](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
-7. [二手玫瑰冠军](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%89%8B%E7%8E%AB%E7%91%B0%E5%86%A0%E5%86%9B%23&t=31&band_rank=7&Refer=top)<br />
-8. [李健唱了王菲的如愿](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%81%A5%E5%94%B1%E4%BA%86%E7%8E%8B%E8%8F%B2%E7%9A%84%E5%A6%82%E6%84%BF%23&t=31&band_rank=8&Refer=top)<br />
+7. [李健唱了王菲的如愿](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%81%A5%E5%94%B1%E4%BA%86%E7%8E%8B%E8%8F%B2%E7%9A%84%E5%A6%82%E6%84%BF%23&t=31&band_rank=7&Refer=top)<br />
+8. [二手玫瑰冠军](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%89%8B%E7%8E%AB%E7%91%B0%E5%86%A0%E5%86%9B%23&t=31&band_rank=8&Refer=top)<br />
 9. [12306回应200克葡萄售价60元](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94200%E5%85%8B%E8%91%A1%E8%90%84%E5%94%AE%E4%BB%B760%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
