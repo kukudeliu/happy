@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 14:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 14:07:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [神十七船箭组合体转运高燃回顾](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%B8%83%E8%88%B9%E7%AE%AD%E7%BB%84%E5%90%88%E4%BD%93%E8%BD%AC%E8%BF%90%E9%AB%98%E7%87%83%E5%9B%9E%E9%A1%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [河北千亩农田被挖成大坑 村民痛心](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%8D%83%E4%BA%A9%E5%86%9C%E7%94%B0%E8%A2%AB%E6%8C%96%E6%88%90%E5%A4%A7%E5%9D%91+%E6%9D%91%E6%B0%91%E7%97%9B%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方回应女子产后疑被婆家逼死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E7%96%91%E8%A2%AB%E5%A9%86%E5%AE%B6%E9%80%BC%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [专家：房企在拖累各地区的经济](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%88%BF%E4%BC%81%E5%9C%A8%E6%8B%96%E7%B4%AF%E5%90%84%E5%9C%B0%E5%8C%BA%E7%9A%84%E7%BB%8F%E6%B5%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方通报儿童遭开门杀后被公交碾压](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%84%BF%E7%AB%A5%E9%81%AD%E5%BC%80%E9%97%A8%E6%9D%80%E5%90%8E%E8%A2%AB%E5%85%AC%E4%BA%A4%E7%A2%BE%E5%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [内蒙古鄂尔多斯一厂房坍塌致3死8伤](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E9%84%82%E5%B0%94%E5%A4%9A%E6%96%AF%E4%B8%80%E5%8E%82%E6%88%BF%E5%9D%8D%E5%A1%8C%E8%87%B43%E6%AD%BB8%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家：房企在拖累各地区的经济](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%88%BF%E4%BC%81%E5%9C%A8%E6%8B%96%E7%B4%AF%E5%90%84%E5%9C%B0%E5%8C%BA%E7%9A%84%E7%BB%8F%E6%B5%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都警方辟谣被咬女童4大谣言](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%A2%AB%E5%92%AC%E5%A5%B3%E7%AB%A54%E5%A4%A7%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [神十七船箭组合体转运高燃回顾](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E4%B8%83%E8%88%B9%E7%AE%AD%E7%BB%84%E5%90%88%E4%BD%93%E8%BD%AC%E8%BF%90%E9%AB%98%E7%87%83%E5%9B%9E%E9%A1%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [河北千亩农田被挖成大坑 村民痛心](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%8D%83%E4%BA%A9%E5%86%9C%E7%94%B0%E8%A2%AB%E6%8C%96%E6%88%90%E5%A4%A7%E5%9D%91+%E6%9D%91%E6%B0%91%E7%97%9B%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方回应女子产后疑被婆家逼死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E7%96%91%E8%A2%AB%E5%A9%86%E5%AE%B6%E9%80%BC%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [专家：房企在拖累各地区的经济](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%88%BF%E4%BC%81%E5%9C%A8%E6%8B%96%E7%B4%AF%E5%90%84%E5%9C%B0%E5%8C%BA%E7%9A%84%E7%BB%8F%E6%B5%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方通报儿童遭开门杀后被公交碾压](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%84%BF%E7%AB%A5%E9%81%AD%E5%BC%80%E9%97%A8%E6%9D%80%E5%90%8E%E8%A2%AB%E5%85%AC%E4%BA%A4%E7%A2%BE%E5%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [内蒙古鄂尔多斯一厂房坍塌致3死8伤](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E9%84%82%E5%B0%94%E5%A4%9A%E6%96%AF%E4%B8%80%E5%8E%82%E6%88%BF%E5%9D%8D%E5%A1%8C%E8%87%B43%E6%AD%BB8%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家：房企在拖累各地区的经济](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%88%BF%E4%BC%81%E5%9C%A8%E6%8B%96%E7%B4%AF%E5%90%84%E5%9C%B0%E5%8C%BA%E7%9A%84%E7%BB%8F%E6%B5%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都警方辟谣被咬女童4大谣言](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%A2%AB%E5%92%AC%E5%A5%B3%E7%AB%A54%E5%A4%A7%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
