@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 19:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 19:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [巴以冲突](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子险被冲走众人趟水合力救人](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%99%A9%E8%A2%AB%E5%86%B2%E8%B5%B0%E4%BC%97%E4%BA%BA%E8%B6%9F%E6%B0%B4%E5%90%88%E5%8A%9B%E6%95%91%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [哈马斯发言人等60多人被以色列逮捕](https://s.weibo.com/weibo?q=%23%E5%93%88%E9%A9%AC%E6%96%AF%E5%8F%91%E8%A8%80%E4%BA%BA%E7%AD%8960%E5%A4%9A%E4%BA%BA%E8%A2%AB%E4%BB%A5%E8%89%B2%E5%88%97%E9%80%AE%E6%8D%95%23&t=31&band_rank=8&Refer=top)<br />
-9. [不吃妆造的明星](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%90%83%E5%A6%86%E9%80%A0%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [G2说来找TheShy复仇了](https://s.weibo.com/weibo?q=%23G2%E8%AF%B4%E6%9D%A5%E6%89%BETheShy%E5%A4%8D%E4%BB%87%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
