@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 14:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 14:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [甄嬛被幽禁时期的餐饮标准](https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E8%A2%AB%E5%B9%BD%E7%A6%81%E6%97%B6%E6%9C%9F%E7%9A%84%E9%A4%90%E9%A5%AE%E6%A0%87%E5%87%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子吐槽高铁一盒葡萄60元仅200克](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E9%AB%98%E9%93%81%E4%B8%80%E7%9B%92%E8%91%A1%E8%90%8460%E5%85%83%E4%BB%85200%E5%85%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [天津警方通报儿童遭开门杀后被公交碾压死亡](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%84%BF%E7%AB%A5%E9%81%AD%E5%BC%80%E9%97%A8%E6%9D%80%E5%90%8E%E8%A2%AB%E5%85%AC%E4%BA%A4%E7%A2%BE%E5%8E%8B%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [重庆驱赶处置流浪狗保安被停职](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E9%A9%B1%E8%B5%B6%E5%A4%84%E7%BD%AE%E6%B5%81%E6%B5%AA%E7%8B%97%E4%BF%9D%E5%AE%89%E8%A2%AB%E5%81%9C%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [林志颖闭眼复原魔方](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E9%97%AD%E7%9C%BC%E5%A4%8D%E5%8E%9F%E9%AD%94%E6%96%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
