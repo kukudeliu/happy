@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 17:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 17:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [原来张栋梁去年就该来披荆斩棘](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%BC%A0%E6%A0%8B%E6%A2%81%E5%8E%BB%E5%B9%B4%E5%B0%B1%E8%AF%A5%E6%9D%A5%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘亦菲公主头教程](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E5%85%AC%E4%B8%BB%E5%A4%B4%E6%95%99%E7%A8%8B&t=31&band_rank=7&Refer=top)<br />
 8. [华为六周内售出160万部Mate60Pro](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%85%AD%E5%91%A8%E5%86%85%E5%94%AE%E5%87%BA160%E4%B8%87%E9%83%A8Mate60Pro%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子结婚后被村里投票剥夺征地补偿资格](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E5%90%8E%E8%A2%AB%E6%9D%91%E9%87%8C%E6%8A%95%E7%A5%A8%E5%89%A5%E5%A4%BA%E5%BE%81%E5%9C%B0%E8%A1%A5%E5%81%BF%E8%B5%84%E6%A0%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [这是在化妆还是在装修](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E5%9C%A8%E5%8C%96%E5%A6%86%E8%BF%98%E6%98%AF%E5%9C%A8%E8%A3%85%E4%BF%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
