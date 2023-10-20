@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 11:09:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 11:10:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [独居女生家被陌生男差1位试对密码](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%B1%85%E5%A5%B3%E7%94%9F%E5%AE%B6%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%B7%AE1%E4%BD%8D%E8%AF%95%E5%AF%B9%E5%AF%86%E7%A0%81%23&t=31&band_rank=4&Refer=top)<br />
 5. [求职者称第一学历似乎成了污点](https://s.weibo.com/weibo?q=%23%E6%B1%82%E8%81%8C%E8%80%85%E7%A7%B0%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E4%BC%BC%E4%B9%8E%E6%88%90%E4%BA%86%E6%B1%A1%E7%82%B9%23&t=31&band_rank=5&Refer=top)<br />
 6. [丫丫贴秋膘成功](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E8%B4%B4%E7%A7%8B%E8%86%98%E6%88%90%E5%8A%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [我只是犯了全天下朋友都会犯的错](https://s.weibo.com/weibo?q=%E6%88%91%E5%8F%AA%E6%98%AF%E7%8A%AF%E4%BA%86%E5%85%A8%E5%A4%A9%E4%B8%8B%E6%9C%8B%E5%8F%8B%E9%83%BD%E4%BC%9A%E7%8A%AF%E7%9A%84%E9%94%99&t=31&band_rank=7&Refer=top)<br />
-8. [23岁姑娘患乳腺癌与不良生活习惯有关](https://s.weibo.com/weibo?q=%2323%E5%B2%81%E5%A7%91%E5%A8%98%E6%82%A3%E4%B9%B3%E8%85%BA%E7%99%8C%E4%B8%8E%E4%B8%8D%E8%89%AF%E7%94%9F%E6%B4%BB%E4%B9%A0%E6%83%AF%E6%9C%89%E5%85%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [军队文职](https://s.weibo.com/weibo?q=%23%E5%86%9B%E9%98%9F%E6%96%87%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
+7. [军队文职](https://s.weibo.com/weibo?q=%23%E5%86%9B%E9%98%9F%E6%96%87%E8%81%8C%23&t=31&band_rank=7&Refer=top)<br />
+8. [我只是犯了全天下朋友都会犯的错](https://s.weibo.com/weibo?q=%E6%88%91%E5%8F%AA%E6%98%AF%E7%8A%AF%E4%BA%86%E5%85%A8%E5%A4%A9%E4%B8%8B%E6%9C%8B%E5%8F%8B%E9%83%BD%E4%BC%9A%E7%8A%AF%E7%9A%84%E9%94%99&t=31&band_rank=8&Refer=top)<br />
+9. [23岁姑娘患乳腺癌与不良生活习惯有关](https://s.weibo.com/weibo?q=%2323%E5%B2%81%E5%A7%91%E5%A8%98%E6%82%A3%E4%B9%B3%E8%85%BA%E7%99%8C%E4%B8%8E%E4%B8%8D%E8%89%AF%E7%94%9F%E6%B4%BB%E4%B9%A0%E6%83%AF%E6%9C%89%E5%85%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
