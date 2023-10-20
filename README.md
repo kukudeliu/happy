@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 22:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 22:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [巴以冲突](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [二手玫瑰冠军](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%89%8B%E7%8E%AB%E7%91%B0%E5%86%A0%E5%86%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [奶奶六年前给我买的金项链](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%85%AD%E5%B9%B4%E5%89%8D%E7%BB%99%E6%88%91%E4%B9%B0%E7%9A%84%E9%87%91%E9%A1%B9%E9%93%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [巩皇永远能打](https://s.weibo.com/weibo?q=%23%E5%B7%A9%E7%9A%87%E6%B0%B8%E8%BF%9C%E8%83%BD%E6%89%93%23&t=31&band_rank=9&Refer=top)<br />
+9. [青岛啤酒称涉事麦芽已全部封存](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E7%A7%B0%E6%B6%89%E4%BA%8B%E9%BA%A6%E8%8A%BD%E5%B7%B2%E5%85%A8%E9%83%A8%E5%B0%81%E5%AD%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
