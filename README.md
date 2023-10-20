@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 01:01:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 01:02:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [广东通报女子产后跳楼身亡](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [金牛座越来越冷漠的原因](https://s.weibo.com/weibo?q=%E9%87%91%E7%89%9B%E5%BA%A7%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%86%B7%E6%BC%A0%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=7&Refer=top)<br />
 8. [网红张美丽被抓警方征集犯罪线索](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%BC%A0%E7%BE%8E%E4%B8%BD%E8%A2%AB%E6%8A%93%E8%AD%A6%E6%96%B9%E5%BE%81%E9%9B%86%E7%8A%AF%E7%BD%AA%E7%BA%BF%E7%B4%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [调停者型人格](https://s.weibo.com/weibo?q=%E8%B0%83%E5%81%9C%E8%80%85%E5%9E%8B%E4%BA%BA%E6%A0%BC&t=31&band_rank=9&Refer=top)<br />
+9. [巴以冲突](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
