@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 15:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 15:20:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [小狗不觉得自己是在流浪](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E4%B8%8D%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E6%98%AF%E5%9C%A8%E6%B5%81%E6%B5%AA%23&t=31&band_rank=5&Refer=top)<br />
 6. [遭绑架杀害网红罗大美好友发声](https://s.weibo.com/weibo?q=%23%E9%81%AD%E7%BB%91%E6%9E%B6%E6%9D%80%E5%AE%B3%E7%BD%91%E7%BA%A2%E7%BD%97%E5%A4%A7%E7%BE%8E%E5%A5%BD%E5%8F%8B%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [甄嬛被幽禁时期的餐饮标准](https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E8%A2%AB%E5%B9%BD%E7%A6%81%E6%97%B6%E6%9C%9F%E7%9A%84%E9%A4%90%E9%A5%AE%E6%A0%87%E5%87%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [柚子鸡](https://s.weibo.com/weibo?q=%23%E6%9F%9A%E5%AD%90%E9%B8%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子1天取451.8万银行柜员报警](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%901%E5%A4%A9%E5%8F%96451.8%E4%B8%87%E9%93%B6%E8%A1%8C%E6%9F%9C%E5%91%98%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [C9 回溯](https://s.weibo.com/weibo?q=C9%20%E5%9B%9E%E6%BA%AF&t=31&band_rank=8&Refer=top)<br />
+9. [柚子鸡](https://s.weibo.com/weibo?q=%23%E6%9F%9A%E5%AD%90%E9%B8%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
