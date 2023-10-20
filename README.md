@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 10:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 10:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [我只是犯了全天下朋友都会犯的错](https://s.weibo.com/weibo?q=%E6%88%91%E5%8F%AA%E6%98%AF%E7%8A%AF%E4%BA%86%E5%85%A8%E5%A4%A9%E4%B8%8B%E6%9C%8B%E5%8F%8B%E9%83%BD%E4%BC%9A%E7%8A%AF%E7%9A%84%E9%94%99&t=31&band_rank=6&Refer=top)<br />
 7. [丫丫贴秋膘成功](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E8%B4%B4%E7%A7%8B%E8%86%98%E6%88%90%E5%8A%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [23岁姑娘患乳腺癌与不良生活习惯有关](https://s.weibo.com/weibo?q=%2323%E5%B2%81%E5%A7%91%E5%A8%98%E6%82%A3%E4%B9%B3%E8%85%BA%E7%99%8C%E4%B8%8E%E4%B8%8D%E8%89%AF%E7%94%9F%E6%B4%BB%E4%B9%A0%E6%83%AF%E6%9C%89%E5%85%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [重庆高校通报保安抓捕打死流浪狗](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E4%BF%9D%E5%AE%89%E6%8A%93%E6%8D%95%E6%89%93%E6%AD%BB%E6%B5%81%E6%B5%AA%E7%8B%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [王子奇情绪爆发的原因](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E5%A5%87%E6%83%85%E7%BB%AA%E7%88%86%E5%8F%91%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
