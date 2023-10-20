@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 07:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 07:58:01</h4></div>
 
 > 微博  
 
-1. [被狗咬女童家属称每天医药费1万左右](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%AF%8F%E5%A4%A9%E5%8C%BB%E8%8D%AF%E8%B4%B91%E4%B8%87%E5%B7%A6%E5%8F%B3%23&t=31&band_rank=1&Refer=top)<br />
-2. [小慧君胜诉](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%85%A7%E5%90%9B%E8%83%9C%E8%AF%89%23&t=31&band_rank=2&Refer=top)<br />
+1. [小慧君胜诉](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%85%A7%E5%90%9B%E8%83%9C%E8%AF%89%23&t=31&band_rank=1&Refer=top)<br />
+2. [被狗咬女童家属称每天医药费1万左右](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%AF%8F%E5%A4%A9%E5%8C%BB%E8%8D%AF%E8%B4%B91%E4%B8%87%E5%B7%A6%E5%8F%B3%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚残运会火炬满满的中国式浪漫](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E6%BB%A1%E6%BB%A1%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB%23&t=31&band_rank=3&Refer=top)<br />
 4. [为什么阳光玫瑰变便宜也变难吃了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E5%8F%98%E4%BE%BF%E5%AE%9C%E4%B9%9F%E5%8F%98%E9%9A%BE%E5%90%83%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨迪 可以不喜爱但请别伤害](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%BF%AA%20%E5%8F%AF%E4%BB%A5%E4%B8%8D%E5%96%9C%E7%88%B1%E4%BD%86%E8%AF%B7%E5%88%AB%E4%BC%A4%E5%AE%B3&t=31&band_rank=5&Refer=top)<br />
@@ -23,8 +23,8 @@
 4. [两个亚运 同样精彩](https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AA%E4%BA%9A%E8%BF%90+%E5%90%8C%E6%A0%B7%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [区长行贿50万 3个月后任区委书记](https://www.baidu.com/s?wd=%E5%8C%BA%E9%95%BF%E8%A1%8C%E8%B4%BF50%E4%B8%87+3%E4%B8%AA%E6%9C%88%E5%90%8E%E4%BB%BB%E5%8C%BA%E5%A7%94%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杨迪：可以不喜爱但请别伤害](https://www.baidu.com/s?wd=%E6%9D%A8%E8%BF%AA%EF%BC%9A%E5%8F%AF%E4%BB%A5%E4%B8%8D%E5%96%9C%E7%88%B1%E4%BD%86%E8%AF%B7%E5%88%AB%E4%BC%A4%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [宁波一家三口相继患上支原体肺炎](https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E7%9B%B8%E7%BB%A7%E6%82%A3%E4%B8%8A%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女司机不卸车衣盲开几米后追尾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%8F%B8%E6%9C%BA%E4%B8%8D%E5%8D%B8%E8%BD%A6%E8%A1%A3%E7%9B%B2%E5%BC%80%E5%87%A0%E7%B1%B3%E5%90%8E%E8%BF%BD%E5%B0%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女司机不卸车衣盲开几米后追尾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%8F%B8%E6%9C%BA%E4%B8%8D%E5%8D%B8%E8%BD%A6%E8%A1%A3%E7%9B%B2%E5%BC%80%E5%87%A0%E7%B1%B3%E5%90%8E%E8%BF%BD%E5%B0%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宁波一家三口相继患上支原体肺炎](https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E7%9B%B8%E7%BB%A7%E6%82%A3%E4%B8%8A%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [补钙吃药就能预防骨质疏松？](https://www.baidu.com/s?wd=%E8%A1%A5%E9%92%99%E5%90%83%E8%8D%AF%E5%B0%B1%E8%83%BD%E9%A2%84%E9%98%B2%E9%AA%A8%E8%B4%A8%E7%96%8F%E6%9D%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [两个亚运 同样精彩](https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AA%E4%BA%9A%E8%BF%90+%E5%90%8C%E6%A0%B7%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [区长行贿50万 3个月后任区委书记](https://www.baidu.com/s?wd=%E5%8C%BA%E9%95%BF%E8%A1%8C%E8%B4%BF50%E4%B8%87+3%E4%B8%AA%E6%9C%88%E5%90%8E%E4%BB%BB%E5%8C%BA%E5%A7%94%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杨迪：可以不喜爱但请别伤害](https://www.baidu.com/s?wd=%E6%9D%A8%E8%BF%AA%EF%BC%9A%E5%8F%AF%E4%BB%A5%E4%B8%8D%E5%96%9C%E7%88%B1%E4%BD%86%E8%AF%B7%E5%88%AB%E4%BC%A4%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [宁波一家三口相继患上支原体肺炎](https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E7%9B%B8%E7%BB%A7%E6%82%A3%E4%B8%8A%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女司机不卸车衣盲开几米后追尾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%8F%B8%E6%9C%BA%E4%B8%8D%E5%8D%B8%E8%BD%A6%E8%A1%A3%E7%9B%B2%E5%BC%80%E5%87%A0%E7%B1%B3%E5%90%8E%E8%BF%BD%E5%B0%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女司机不卸车衣盲开几米后追尾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%8F%B8%E6%9C%BA%E4%B8%8D%E5%8D%B8%E8%BD%A6%E8%A1%A3%E7%9B%B2%E5%BC%80%E5%87%A0%E7%B1%B3%E5%90%8E%E8%BF%BD%E5%B0%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宁波一家三口相继患上支原体肺炎](https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E7%9B%B8%E7%BB%A7%E6%82%A3%E4%B8%8A%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [补钙吃药就能预防骨质疏松？](https://www.baidu.com/s?wd=%E8%A1%A5%E9%92%99%E5%90%83%E8%8D%AF%E5%B0%B1%E8%83%BD%E9%A2%84%E9%98%B2%E9%AA%A8%E8%B4%A8%E7%96%8F%E6%9D%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
