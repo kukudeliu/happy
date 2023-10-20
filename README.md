@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 23:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 23:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [巴以冲突](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [二手玫瑰冠军](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%89%8B%E7%8E%AB%E7%91%B0%E5%86%A0%E5%86%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [李健唱了王菲的如愿](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%81%A5%E5%94%B1%E4%BA%86%E7%8E%8B%E8%8F%B2%E7%9A%84%E5%A6%82%E6%84%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [老人穿红衣服进羊圈被羊顶死](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%A9%BF%E7%BA%A2%E8%A1%A3%E6%9C%8D%E8%BF%9B%E7%BE%8A%E5%9C%88%E8%A2%AB%E7%BE%8A%E9%A1%B6%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [iPhone的手电筒可以调节亮度](https://s.weibo.com/weibo?q=iPhone%E7%9A%84%E6%89%8B%E7%94%B5%E7%AD%92%E5%8F%AF%E4%BB%A5%E8%B0%83%E8%8A%82%E4%BA%AE%E5%BA%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
