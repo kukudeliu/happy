@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 21:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 21:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [巴以冲突](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [老人穿红衣服进羊圈被羊顶死](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%A9%BF%E7%BA%A2%E8%A1%A3%E6%9C%8D%E8%BF%9B%E7%BE%8A%E5%9C%88%E8%A2%AB%E7%BE%8A%E9%A1%B6%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [S13抽签](https://s.weibo.com/weibo?q=S13%E6%8A%BD%E7%AD%BE&t=31&band_rank=8&Refer=top)<br />
-9. [以色列防长称将很快下达进攻加沙命令](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E9%98%B2%E9%95%BF%E7%A7%B0%E5%B0%86%E5%BE%88%E5%BF%AB%E4%B8%8B%E8%BE%BE%E8%BF%9B%E6%94%BB%E5%8A%A0%E6%B2%99%E5%91%BD%E4%BB%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [LPL又是内战](https://s.weibo.com/weibo?q=%23LPL%E5%8F%88%E6%98%AF%E5%86%85%E6%88%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
