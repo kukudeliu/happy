@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 01:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 01:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为什么阳光玫瑰变便宜也变难吃了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E5%8F%98%E4%BE%BF%E5%AE%9C%E4%B9%9F%E5%8F%98%E9%9A%BE%E5%90%83%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [广东通报女子产后跳楼身亡](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [巴以冲突](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [金牛座越来越冷漠的原因](https://s.weibo.com/weibo?q=%E9%87%91%E7%89%9B%E5%BA%A7%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%86%B7%E6%BC%A0%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=9&Refer=top)<br />
+9. [被狗咬女童家属称每天医药费1万左右](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%AF%8F%E5%A4%A9%E5%8C%BB%E8%8D%AF%E8%B4%B91%E4%B8%87%E5%B7%A6%E5%8F%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
