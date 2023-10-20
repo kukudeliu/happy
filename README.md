@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 20:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 20:44:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [WBG领先一万被翻盘](https://s.weibo.com/weibo?q=%23WBG%E9%A2%86%E5%85%88%E4%B8%80%E4%B8%87%E8%A2%AB%E7%BF%BB%E7%9B%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [巴以冲突](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [无意中看到了外公的网购记录](https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%84%8F%E4%B8%AD%E7%9C%8B%E5%88%B0%E4%BA%86%E5%A4%96%E5%85%AC%E7%9A%84%E7%BD%91%E8%B4%AD%E8%AE%B0%E5%BD%95%23&t=31&band_rank=7&Refer=top)<br />
-8. [小虎](https://s.weibo.com/weibo?q=%E5%B0%8F%E8%99%8E&t=31&band_rank=8&Refer=top)<br />
-9. [颜骏凌巨大失误](https://s.weibo.com/weibo?q=%23%E9%A2%9C%E9%AA%8F%E5%87%8C%E5%B7%A8%E5%A4%A7%E5%A4%B1%E8%AF%AF%23&t=31&band_rank=9&Refer=top)<br />
+8. [颜骏凌巨大失误](https://s.weibo.com/weibo?q=%23%E9%A2%9C%E9%AA%8F%E5%87%8C%E5%B7%A8%E5%A4%A7%E5%A4%B1%E8%AF%AF%23&t=31&band_rank=8&Refer=top)<br />
+9. [小虎](https://s.weibo.com/weibo?q=%E5%B0%8F%E8%99%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
