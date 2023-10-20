@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 12:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 12:19:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [警方回应女子产后疑被婆家逼死](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E7%96%91%E8%A2%AB%E5%A9%86%E5%AE%B6%E9%80%BC%E6%AD%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [小狗不觉得自己是在流浪](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E4%B8%8D%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E6%98%AF%E5%9C%A8%E6%B5%81%E6%B5%AA%23&t=31&band_rank=5&Refer=top)<br />
 6. [军队文职](https://s.weibo.com/weibo?q=%23%E5%86%9B%E9%98%9F%E6%96%87%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
-7. [遭恶犬咬伤女童仍昏迷](https://s.weibo.com/weibo?q=%23%E9%81%AD%E6%81%B6%E7%8A%AC%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E4%BB%8D%E6%98%8F%E8%BF%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [网友乘地铁发现警犬已戴上嘴套](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B9%98%E5%9C%B0%E9%93%81%E5%8F%91%E7%8E%B0%E8%AD%A6%E7%8A%AC%E5%B7%B2%E6%88%B4%E4%B8%8A%E5%98%B4%E5%A5%97%23&t=31&band_rank=8&Refer=top)<br />
+7. [网友乘地铁发现警犬已戴上嘴套](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B9%98%E5%9C%B0%E9%93%81%E5%8F%91%E7%8E%B0%E8%AD%A6%E7%8A%AC%E5%B7%B2%E6%88%B4%E4%B8%8A%E5%98%B4%E5%A5%97%23&t=31&band_rank=7&Refer=top)<br />
+8. [遭恶犬咬伤女童仍昏迷](https://s.weibo.com/weibo?q=%23%E9%81%AD%E6%81%B6%E7%8A%AC%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E4%BB%8D%E6%98%8F%E8%BF%B7%23&t=31&band_rank=8&Refer=top)<br />
 9. [妈 咱们也要去好莱坞了](https://s.weibo.com/weibo?q=%E5%A6%88%20%E5%92%B1%E4%BB%AC%E4%B9%9F%E8%A6%81%E5%8E%BB%E5%A5%BD%E8%8E%B1%E5%9D%9E%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
