@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 22:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 22:05:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [老人穿红衣服进羊圈被羊顶死](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%A9%BF%E7%BA%A2%E8%A1%A3%E6%9C%8D%E8%BF%9B%E7%BE%8A%E5%9C%88%E8%A2%AB%E7%BE%8A%E9%A1%B6%E6%AD%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [巴以冲突](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [李佳琦双十一预告](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%8F%8C%E5%8D%81%E4%B8%80%E9%A2%84%E5%91%8A&t=31&band_rank=7&Refer=top)<br />
-8. [S13抽签](https://s.weibo.com/weibo?q=S13%E6%8A%BD%E7%AD%BE&t=31&band_rank=8&Refer=top)<br />
-9. [LPL又是内战](https://s.weibo.com/weibo?q=%23LPL%E5%8F%88%E6%98%AF%E5%86%85%E6%88%98%23&t=31&band_rank=9&Refer=top)<br />
+8. [LPL又是内战](https://s.weibo.com/weibo?q=%23LPL%E5%8F%88%E6%98%AF%E5%86%85%E6%88%98%23&t=31&band_rank=8&Refer=top)<br />
+9. [S13抽签](https://s.weibo.com/weibo?q=S13%E6%8A%BD%E7%AD%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
