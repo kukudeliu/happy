@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 22:19:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 22:20:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [巴以冲突](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [李佳琦双十一预告](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%8F%8C%E5%8D%81%E4%B8%80%E9%A2%84%E5%91%8A&t=31&band_rank=7&Refer=top)<br />
 8. [奶奶六年前给我买的金项链](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%85%AD%E5%B9%B4%E5%89%8D%E7%BB%99%E6%88%91%E4%B9%B0%E7%9A%84%E9%87%91%E9%A1%B9%E9%93%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [LPL又是内战](https://s.weibo.com/weibo?q=%23LPL%E5%8F%88%E6%98%AF%E5%86%85%E6%88%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [巩皇永远能打](https://s.weibo.com/weibo?q=%23%E5%B7%A9%E7%9A%87%E6%B0%B8%E8%BF%9C%E8%83%BD%E6%89%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
