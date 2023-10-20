@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 09:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-20 09:45:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [武汉一未拴绳杜宾犬咬人被没收](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E4%B8%80%E6%9C%AA%E6%8B%B4%E7%BB%B3%E6%9D%9C%E5%AE%BE%E7%8A%AC%E5%92%AC%E4%BA%BA%E8%A2%AB%E6%B2%A1%E6%94%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [妈 咱们也要去好莱坞了](https://s.weibo.com/weibo?q=%E5%A6%88%20%E5%92%B1%E4%BB%AC%E4%B9%9F%E8%A6%81%E5%8E%BB%E5%A5%BD%E8%8E%B1%E5%9D%9E%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [萧敬腾 恋综](https://s.weibo.com/weibo?q=%E8%90%A7%E6%95%AC%E8%85%BE%20%E6%81%8B%E7%BB%BC&t=31&band_rank=7&Refer=top)<br />
-8. [妈妈用水果举例告诉女儿要开心做自己](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%94%A8%E6%B0%B4%E6%9E%9C%E4%B8%BE%E4%BE%8B%E5%91%8A%E8%AF%89%E5%A5%B3%E5%84%BF%E8%A6%81%E5%BC%80%E5%BF%83%E5%81%9A%E8%87%AA%E5%B7%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [重庆高校通报保安抓捕打死流浪狗](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E4%BF%9D%E5%AE%89%E6%8A%93%E6%8D%95%E6%89%93%E6%AD%BB%E6%B5%81%E6%B5%AA%E7%8B%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [重庆高校通报保安抓捕打死流浪狗](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E4%BF%9D%E5%AE%89%E6%8A%93%E6%8D%95%E6%89%93%E6%AD%BB%E6%B5%81%E6%B5%AA%E7%8B%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [妈妈用水果举例告诉女儿要开心做自己](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%94%A8%E6%B0%B4%E6%9E%9C%E4%B8%BE%E4%BE%8B%E5%91%8A%E8%AF%89%E5%A5%B3%E5%84%BF%E8%A6%81%E5%BC%80%E5%BF%83%E5%81%9A%E8%87%AA%E5%B7%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
