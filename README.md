@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 13:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 13:40:01</h4></div>
 
 > 微博  
 
 1. [青岛啤酒涉事工厂是世界级智慧工厂](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E6%B6%89%E4%BA%8B%E5%B7%A5%E5%8E%82%E6%98%AF%E4%B8%96%E7%95%8C%E7%BA%A7%E6%99%BA%E6%85%A7%E5%B7%A5%E5%8E%82%23&t=31&band_rank=1&Refer=top)<br />
-2. [老师上课没收学生手机被2次锁喉](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E4%B8%8A%E8%AF%BE%E6%B2%A1%E6%94%B6%E5%AD%A6%E7%94%9F%E6%89%8B%E6%9C%BA%E8%A2%AB2%E6%AC%A1%E9%94%81%E5%96%89%23&t=31&band_rank=2&Refer=top)<br />
+2. [大量沙丁鱼涌入日本渔港后集体死亡](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%87%8F%E6%B2%99%E4%B8%81%E9%B1%BC%E6%B6%8C%E5%85%A5%E6%97%A5%E6%9C%AC%E6%B8%94%E6%B8%AF%E5%90%8E%E9%9B%86%E4%BD%93%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [大道之行筑梦丝路](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%81%93%E4%B9%8B%E8%A1%8C%E7%AD%91%E6%A2%A6%E4%B8%9D%E8%B7%AF%23&t=31&band_rank=3&Refer=top)<br />
-4. [大量沙丁鱼涌入日本渔港后集体死亡](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%87%8F%E6%B2%99%E4%B8%81%E9%B1%BC%E6%B6%8C%E5%85%A5%E6%97%A5%E6%9C%AC%E6%B8%94%E6%B8%AF%E5%90%8E%E9%9B%86%E4%BD%93%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
+4. [老师上课没收学生手机被2次锁喉](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E4%B8%8A%E8%AF%BE%E6%B2%A1%E6%94%B6%E5%AD%A6%E7%94%9F%E6%89%8B%E6%9C%BA%E8%A2%AB2%E6%AC%A1%E9%94%81%E5%96%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [李玟安葬现场响起想你的365天](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%AE%89%E8%91%AC%E7%8E%B0%E5%9C%BA%E5%93%8D%E8%B5%B7%E6%83%B3%E4%BD%A0%E7%9A%84365%E5%A4%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [不愧是北大 好歹毒的签到方式](https://s.weibo.com/weibo?q=%E4%B8%8D%E6%84%A7%E6%98%AF%E5%8C%97%E5%A4%A7%20%E5%A5%BD%E6%AD%B9%E6%AF%92%E7%9A%84%E7%AD%BE%E5%88%B0%E6%96%B9%E5%BC%8F&t=31&band_rank=6&Refer=top)<br />
 7. [知情者称视频场地并非青岛啤酒原料仓库](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E8%80%85%E7%A7%B0%E8%A7%86%E9%A2%91%E5%9C%BA%E5%9C%B0%E5%B9%B6%E9%9D%9E%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E5%8E%9F%E6%96%99%E4%BB%93%E5%BA%93%23&t=31&band_rank=7&Refer=top)<br />
