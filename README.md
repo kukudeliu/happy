@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 11:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 11:44:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [三天打两虎！张秀隆被查](https://www.baidu.com/s?wd=%E4%B8%89%E5%A4%A9%E6%89%93%E4%B8%A4%E8%99%8E%EF%BC%81%E5%BC%A0%E7%A7%80%E9%9A%86%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [90后夫妻产下猫叫患儿医院被起诉](https://www.baidu.com/s?wd=90%E5%90%8E%E5%A4%AB%E5%A6%BB%E4%BA%A7%E4%B8%8B%E7%8C%AB%E5%8F%AB%E6%82%A3%E5%84%BF%E5%8C%BB%E9%99%A2%E8%A2%AB%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川达古冰川首次发现荒漠猫](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%BE%BE%E5%8F%A4%E5%86%B0%E5%B7%9D%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B0%E8%8D%92%E6%BC%A0%E7%8C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方公开征集一女网红违法线索](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%85%AC%E5%BC%80%E5%BE%81%E9%9B%86%E4%B8%80%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%BF%9D%E6%B3%95%E7%BA%BF%E7%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生住所旁挖到古墓秒变墓景房](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E4%BD%8F%E6%89%80%E6%97%81%E6%8C%96%E5%88%B0%E5%8F%A4%E5%A2%93%E7%A7%92%E5%8F%98%E5%A2%93%E6%99%AF%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [补钙吃药就能预防骨质疏松？](https://www.baidu.com/s?wd=%E8%A1%A5%E9%92%99%E5%90%83%E8%8D%AF%E5%B0%B1%E8%83%BD%E9%A2%84%E9%98%B2%E9%AA%A8%E8%B4%A8%E7%96%8F%E6%9D%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [三天打两虎！张秀隆被查](https://www.baidu.com/s?wd=%E4%B8%89%E5%A4%A9%E6%89%93%E4%B8%A4%E8%99%8E%EF%BC%81%E5%BC%A0%E7%A7%80%E9%9A%86%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [90后夫妻产下猫叫患儿医院被起诉](https://www.baidu.com/s?wd=90%E5%90%8E%E5%A4%AB%E5%A6%BB%E4%BA%A7%E4%B8%8B%E7%8C%AB%E5%8F%AB%E6%82%A3%E5%84%BF%E5%8C%BB%E9%99%A2%E8%A2%AB%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川达古冰川首次发现荒漠猫](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%BE%BE%E5%8F%A4%E5%86%B0%E5%B7%9D%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B0%E8%8D%92%E6%BC%A0%E7%8C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方公开征集一女网红违法线索](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%85%AC%E5%BC%80%E5%BE%81%E9%9B%86%E4%B8%80%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%BF%9D%E6%B3%95%E7%BA%BF%E7%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生住所旁挖到古墓秒变墓景房](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E4%BD%8F%E6%89%80%E6%97%81%E6%8C%96%E5%88%B0%E5%8F%A4%E5%A2%93%E7%A7%92%E5%8F%98%E5%A2%93%E6%99%AF%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [补钙吃药就能预防骨质疏松？](https://www.baidu.com/s?wd=%E8%A1%A5%E9%92%99%E5%90%83%E8%8D%AF%E5%B0%B1%E8%83%BD%E9%A2%84%E9%98%B2%E9%AA%A8%E8%B4%A8%E7%96%8F%E6%9D%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
