@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 15:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 15:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子1块钱拍下奔驰卖方拒绝发货](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%901%E5%9D%97%E9%92%B1%E6%8B%8D%E4%B8%8B%E5%A5%94%E9%A9%B0%E5%8D%96%E6%96%B9%E6%8B%92%E7%BB%9D%E5%8F%91%E8%B4%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [朱一龙河边的错误表演张力](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E6%B2%B3%E8%BE%B9%E7%9A%84%E9%94%99%E8%AF%AF%E8%A1%A8%E6%BC%94%E5%BC%A0%E5%8A%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [央视追踪四川女童被犬咬伤事件](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%BF%BD%E8%B8%AA%E5%9B%9B%E5%B7%9D%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%8A%AC%E5%92%AC%E4%BC%A4%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵丽颖月桂女神妆](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%9C%88%E6%A1%82%E5%A5%B3%E7%A5%9E%E5%A6%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [河边的错误 河流是更接近真相的](https://s.weibo.com/weibo?q=%E6%B2%B3%E8%BE%B9%E7%9A%84%E9%94%99%E8%AF%AF%20%E6%B2%B3%E6%B5%81%E6%98%AF%E6%9B%B4%E6%8E%A5%E8%BF%91%E7%9C%9F%E7%9B%B8%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
