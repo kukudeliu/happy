@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 20:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 20:08:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [从蓬勃十年到金色十年](https://www.baidu.com/s?wd=%E4%BB%8E%E8%93%AC%E5%8B%83%E5%8D%81%E5%B9%B4%E5%88%B0%E9%87%91%E8%89%B2%E5%8D%81%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [“洗米华”改判加重清洗黑钱罪](https://www.baidu.com/s?wd=%E2%80%9C%E6%B4%97%E7%B1%B3%E5%8D%8E%E2%80%9D%E6%94%B9%E5%88%A4%E5%8A%A0%E9%87%8D%E6%B8%85%E6%B4%97%E9%BB%91%E9%92%B1%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [李玟家人要求调查李玟死因](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E5%AE%B6%E4%BA%BA%E8%A6%81%E6%B1%82%E8%B0%83%E6%9F%A5%E6%9D%8E%E7%8E%9F%E6%AD%BB%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [90后小伙为救人40天减重40斤](https://www.baidu.com/s?wd=90%E5%90%8E%E5%B0%8F%E4%BC%99%E4%B8%BA%E6%95%91%E4%BA%BA40%E5%A4%A9%E5%87%8F%E9%87%8D40%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚残运会开幕式最后一次全要素彩排](https://www.baidu.com/s?wd=%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%85%A8%E8%A6%81%E7%B4%A0%E5%BD%A9%E6%8E%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [20辆卡车通过后 拉法口岸再次关闭](https://www.baidu.com/s?wd=20%E8%BE%86%E5%8D%A1%E8%BD%A6%E9%80%9A%E8%BF%87%E5%90%8E+%E6%8B%89%E6%B3%95%E5%8F%A3%E5%B2%B8%E5%86%8D%E6%AC%A1%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [从蓬勃十年到金色十年](https://www.baidu.com/s?wd=%E4%BB%8E%E8%93%AC%E5%8B%83%E5%8D%81%E5%B9%B4%E5%88%B0%E9%87%91%E8%89%B2%E5%8D%81%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [“洗米华”改判加重清洗黑钱罪](https://www.baidu.com/s?wd=%E2%80%9C%E6%B4%97%E7%B1%B3%E5%8D%8E%E2%80%9D%E6%94%B9%E5%88%A4%E5%8A%A0%E9%87%8D%E6%B8%85%E6%B4%97%E9%BB%91%E9%92%B1%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [李玟家人要求调查李玟死因](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E5%AE%B6%E4%BA%BA%E8%A6%81%E6%B1%82%E8%B0%83%E6%9F%A5%E6%9D%8E%E7%8E%9F%E6%AD%BB%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [90后小伙为救人40天减重40斤](https://www.baidu.com/s?wd=90%E5%90%8E%E5%B0%8F%E4%BC%99%E4%B8%BA%E6%95%91%E4%BA%BA40%E5%A4%A9%E5%87%8F%E9%87%8D40%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚残运会开幕式最后一次全要素彩排](https://www.baidu.com/s?wd=%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%85%A8%E8%A6%81%E7%B4%A0%E5%BD%A9%E6%8E%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [20辆卡车通过后 拉法口岸再次关闭](https://www.baidu.com/s?wd=20%E8%BE%86%E5%8D%A1%E8%BD%A6%E9%80%9A%E8%BF%87%E5%90%8E+%E6%8B%89%E6%B3%95%E5%8F%A3%E5%B2%B8%E5%86%8D%E6%AC%A1%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
