@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 07:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 07:44:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [张韶涵硬刚主办方](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E7%A1%AC%E5%88%9A%E4%B8%BB%E5%8A%9E%E6%96%B9%23&t=31&band_rank=5&Refer=top)<br />
 6. [隐性饥饿正在偷走你的健康](https://s.weibo.com/weibo?q=%23%E9%9A%90%E6%80%A7%E9%A5%A5%E9%A5%BF%E6%AD%A3%E5%9C%A8%E5%81%B7%E8%B5%B0%E4%BD%A0%E7%9A%84%E5%81%A5%E5%BA%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [英国穷小子验DNA证明自己是富豪独子](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%A9%B7%E5%B0%8F%E5%AD%90%E9%AA%8CDNA%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E6%98%AF%E5%AF%8C%E8%B1%AA%E7%8B%AC%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [青岛啤酒风波知情人发声](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E9%A3%8E%E6%B3%A2%E7%9F%A5%E6%83%85%E4%BA%BA%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [博比查尔顿去世](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E6%AF%94%E6%9F%A5%E5%B0%94%E9%A1%BF%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+8. [博比查尔顿去世](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E6%AF%94%E6%9F%A5%E5%B0%94%E9%A1%BF%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [青岛啤酒风波知情人发声](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E9%A3%8E%E6%B3%A2%E7%9F%A5%E6%83%85%E4%BA%BA%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
