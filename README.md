@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 05:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 05:14:01</h4></div>
 
 > 微博  
 
-1. [UFC](https://s.weibo.com/weibo?q=UFC&t=31&band_rank=1&Refer=top)<br />
-2. [医生劝半个多小时不让走救回一条命](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8A%9D%E5%8D%8A%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%E4%B8%8D%E8%AE%A9%E8%B5%B0%E6%95%91%E5%9B%9E%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=2&Refer=top)<br />
+1. [医生劝半个多小时不让走救回一条命](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8A%9D%E5%8D%8A%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%E4%B8%8D%E8%AE%A9%E8%B5%B0%E6%95%91%E5%9B%9E%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=1&Refer=top)<br />
+2. [UFC](https://s.weibo.com/weibo?q=UFC&t=31&band_rank=2&Refer=top)<br />
 3. [建设一个开放包容互联互通共同发展的世界](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%BE%E4%B8%80%E4%B8%AA%E5%BC%80%E6%94%BE%E5%8C%85%E5%AE%B9%E4%BA%92%E8%81%94%E4%BA%92%E9%80%9A%E5%85%B1%E5%90%8C%E5%8F%91%E5%B1%95%E7%9A%84%E4%B8%96%E7%95%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [倪妮河南分妮最近火了](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E6%B2%B3%E5%8D%97%E5%88%86%E5%A6%AE%E6%9C%80%E8%BF%91%E7%81%AB%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [张碧晨 撕裂](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%20%E6%92%95%E8%A3%82&t=31&band_rank=5&Refer=top)<br />
