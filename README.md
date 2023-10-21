@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 17:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 18:00:01</h4></div>
 
 > 微博  
 
 1. [吃播 假吃](https://s.weibo.com/weibo?q=%E5%90%83%E6%92%AD%20%E5%81%87%E5%90%83&t=31&band_rank=1&Refer=top)<br />
 2. [欧阳娣娣海选 淘汰](https://s.weibo.com/weibo?q=%E6%AC%A7%E9%98%B3%E5%A8%A3%E5%A8%A3%E6%B5%B7%E9%80%89%20%E6%B7%98%E6%B1%B0&t=31&band_rank=2&Refer=top)<br />
 3. [这条路使单程通行时间从一周缩至6小时](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%9D%A1%E8%B7%AF%E4%BD%BF%E5%8D%95%E7%A8%8B%E9%80%9A%E8%A1%8C%E6%97%B6%E9%97%B4%E4%BB%8E%E4%B8%80%E5%91%A8%E7%BC%A9%E8%87%B36%E5%B0%8F%E6%97%B6%23&t=31&band_rank=3&Refer=top)<br />
-4. [赵露思 人嘛该翻篇就得翻篇了](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E4%BA%BA%E5%98%9B%E8%AF%A5%E7%BF%BB%E7%AF%87%E5%B0%B1%E5%BE%97%E7%BF%BB%E7%AF%87%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
+4. [颖儿回应被说假吃](https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AF%B4%E5%81%87%E5%90%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [中国医生救下战乱中患肿瘤的非洲女子](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E6%95%91%E4%B8%8B%E6%88%98%E4%B9%B1%E4%B8%AD%E6%82%A3%E8%82%BF%E7%98%A4%E7%9A%84%E9%9D%9E%E6%B4%B2%E5%A5%B3%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
-6. [墨香铜臭](https://s.weibo.com/weibo?q=%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD&t=31&band_rank=6&Refer=top)<br />
+6. [赵露思 人嘛该翻篇就得翻篇了](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E4%BA%BA%E5%98%9B%E8%AF%A5%E7%BF%BB%E7%AF%87%E5%B0%B1%E5%BE%97%E7%BF%BB%E7%AF%87%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [物业师傅救小孩被车撞翻仍爬起追车](https://s.weibo.com/weibo?q=%23%E7%89%A9%E4%B8%9A%E5%B8%88%E5%82%85%E6%95%91%E5%B0%8F%E5%AD%A9%E8%A2%AB%E8%BD%A6%E6%92%9E%E7%BF%BB%E4%BB%8D%E7%88%AC%E8%B5%B7%E8%BF%BD%E8%BD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [八捆线面](https://s.weibo.com/weibo?q=%E5%85%AB%E6%8D%86%E7%BA%BF%E9%9D%A2&t=31&band_rank=8&Refer=top)<br />
-9. [大学生私自取回自己电动车被处分](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A7%81%E8%87%AA%E5%8F%96%E5%9B%9E%E8%87%AA%E5%B7%B1%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%A2%AB%E5%A4%84%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [墨香铜臭](https://s.weibo.com/weibo?q=%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD&t=31&band_rank=8&Refer=top)<br />
+9. [八捆线面](https://s.weibo.com/weibo?q=%E5%85%AB%E6%8D%86%E7%BA%BF%E9%9D%A2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
