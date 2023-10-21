@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 17:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 17:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [墨香铜臭](https://s.weibo.com/weibo?q=%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD&t=31&band_rank=6&Refer=top)<br />
 7. [物业师傅救小孩被车撞翻仍爬起追车](https://s.weibo.com/weibo?q=%23%E7%89%A9%E4%B8%9A%E5%B8%88%E5%82%85%E6%95%91%E5%B0%8F%E5%AD%A9%E8%A2%AB%E8%BD%A6%E6%92%9E%E7%BF%BB%E4%BB%8D%E7%88%AC%E8%B5%B7%E8%BF%BD%E8%BD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [八捆线面](https://s.weibo.com/weibo?q=%E5%85%AB%E6%8D%86%E7%BA%BF%E9%9D%A2&t=31&band_rank=8&Refer=top)<br />
-9. [钟楚曦拍海报偷看张云龙](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E6%8B%8D%E6%B5%B7%E6%8A%A5%E5%81%B7%E7%9C%8B%E5%BC%A0%E4%BA%91%E9%BE%99%23&t=31&band_rank=9&Refer=top)<br />
+9. [大学生私自取回自己电动车被处分](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A7%81%E8%87%AA%E5%8F%96%E5%9B%9E%E8%87%AA%E5%B7%B1%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%A2%AB%E5%A4%84%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
