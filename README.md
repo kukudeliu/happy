@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 16:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 16:12:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [以色列疑做战前最后准备](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E7%96%91%E5%81%9A%E6%88%98%E5%89%8D%E6%9C%80%E5%90%8E%E5%87%86%E5%A4%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大量沙丁鱼涌入日本渔港后集体死亡](https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E6%B2%99%E4%B8%81%E9%B1%BC%E6%B6%8C%E5%85%A5%E6%97%A5%E6%9C%AC%E6%B8%94%E6%B8%AF%E5%90%8E%E9%9B%86%E4%BD%93%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子称老公吃贻贝吐出多颗珍珠](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%80%81%E5%85%AC%E5%90%83%E8%B4%BB%E8%B4%9D%E5%90%90%E5%87%BA%E5%A4%9A%E9%A2%97%E7%8F%8D%E7%8F%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子1块钱拍下奔驰卖方拒绝发货](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%901%E5%9D%97%E9%92%B1%E6%8B%8D%E4%B8%8B%E5%A5%94%E9%A9%B0%E5%8D%96%E6%96%B9%E6%8B%92%E7%BB%9D%E5%8F%91%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老师否认抽学生11个耳光:只扇五六下](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%90%A6%E8%AE%A4%E6%8A%BD%E5%AD%A6%E7%94%9F11%E4%B8%AA%E8%80%B3%E5%85%89%3A%E5%8F%AA%E6%89%87%E4%BA%94%E5%85%AD%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [和田网警辟谣地震致人员伤亡](https://www.baidu.com/s?wd=%E5%92%8C%E7%94%B0%E7%BD%91%E8%AD%A6%E8%BE%9F%E8%B0%A3%E5%9C%B0%E9%9C%87%E8%87%B4%E4%BA%BA%E5%91%98%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [以色列疑做战前最后准备](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E7%96%91%E5%81%9A%E6%88%98%E5%89%8D%E6%9C%80%E5%90%8E%E5%87%86%E5%A4%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大量沙丁鱼涌入日本渔港后集体死亡](https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E6%B2%99%E4%B8%81%E9%B1%BC%E6%B6%8C%E5%85%A5%E6%97%A5%E6%9C%AC%E6%B8%94%E6%B8%AF%E5%90%8E%E9%9B%86%E4%BD%93%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子称老公吃贻贝吐出多颗珍珠](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%80%81%E5%85%AC%E5%90%83%E8%B4%BB%E8%B4%9D%E5%90%90%E5%87%BA%E5%A4%9A%E9%A2%97%E7%8F%8D%E7%8F%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子1块钱拍下奔驰卖方拒绝发货](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%901%E5%9D%97%E9%92%B1%E6%8B%8D%E4%B8%8B%E5%A5%94%E9%A9%B0%E5%8D%96%E6%96%B9%E6%8B%92%E7%BB%9D%E5%8F%91%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老师否认抽学生11个耳光:只扇五六下](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%90%A6%E8%AE%A4%E6%8A%BD%E5%AD%A6%E7%94%9F11%E4%B8%AA%E8%80%B3%E5%85%89%3A%E5%8F%AA%E6%89%87%E4%BA%94%E5%85%AD%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [和田网警辟谣地震致人员伤亡](https://www.baidu.com/s?wd=%E5%92%8C%E7%94%B0%E7%BD%91%E8%AD%A6%E8%BE%9F%E8%B0%A3%E5%9C%B0%E9%9C%87%E8%87%B4%E4%BA%BA%E5%91%98%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
