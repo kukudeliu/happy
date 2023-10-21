@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 09:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 09:45:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [孙灏羽](https://s.weibo.com/weibo?q=%E5%AD%99%E7%81%8F%E7%BE%BD&t=31&band_rank=5&Refer=top)<br />
 6. [巴勒斯坦民众与以色列军警发生冲突](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%B0%91%E4%BC%97%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%9B%E8%AD%A6%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [张铭恩新剧演家仆](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%93%AD%E6%81%A9%E6%96%B0%E5%89%A7%E6%BC%94%E5%AE%B6%E4%BB%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [林孝埈世界杯500米晋级](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E4%B8%96%E7%95%8C%E6%9D%AF500%E7%B1%B3%E6%99%8B%E7%BA%A7%23&t=31&band_rank=8&Refer=top)<br />
+8. [已经彻底当台偶看了](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E7%BB%8F%E5%BD%BB%E5%BA%95%E5%BD%93%E5%8F%B0%E5%81%B6%E7%9C%8B%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [加沙居民早起排队3小时抢面饼](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%B1%85%E6%B0%91%E6%97%A9%E8%B5%B7%E6%8E%92%E9%98%9F3%E5%B0%8F%E6%97%B6%E6%8A%A2%E9%9D%A2%E9%A5%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
