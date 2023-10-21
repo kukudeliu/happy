@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 20:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 20:26:01</h4></div>
 
 > 微博  
 
-1. [马哲孩子 疯子](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%93%B2%E5%AD%A9%E5%AD%90%20%E7%96%AF%E5%AD%90&t=31&band_rank=1&Refer=top)<br />
-2. [河边的错误 看完不走](https://s.weibo.com/weibo?q=%E6%B2%B3%E8%BE%B9%E7%9A%84%E9%94%99%E8%AF%AF%20%E7%9C%8B%E5%AE%8C%E4%B8%8D%E8%B5%B0&t=31&band_rank=2&Refer=top)<br />
+1. [河边的错误 看完不走](https://s.weibo.com/weibo?q=%E6%B2%B3%E8%BE%B9%E7%9A%84%E9%94%99%E8%AF%AF%20%E7%9C%8B%E5%AE%8C%E4%B8%8D%E8%B5%B0&t=31&band_rank=1&Refer=top)<br />
+2. [马哲孩子 疯子](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%93%B2%E5%AD%A9%E5%AD%90%20%E7%96%AF%E5%AD%90&t=31&band_rank=2&Refer=top)<br />
 3. [这条路使单程通行时间从一周缩至6小时](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%9D%A1%E8%B7%AF%E4%BD%BF%E5%8D%95%E7%A8%8B%E9%80%9A%E8%A1%8C%E6%97%B6%E9%97%B4%E4%BB%8E%E4%B8%80%E5%91%A8%E7%BC%A9%E8%87%B36%E5%B0%8F%E6%97%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [李玟家人要求警方调查李玟死因](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%AE%B6%E4%BA%BA%E8%A6%81%E6%B1%82%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5%E6%9D%8E%E7%8E%9F%E6%AD%BB%E5%9B%A0%23&t=31&band_rank=4&Refer=top)<br />
 5. [周杰伦退后 2007年现场](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E9%80%80%E5%90%8E%202007%E5%B9%B4%E7%8E%B0%E5%9C%BA&t=31&band_rank=5&Refer=top)<br />
 6. [墨香铜臭](https://s.weibo.com/weibo?q=%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD&t=31&band_rank=6&Refer=top)<br />
 7. [河边的错误解析](https://s.weibo.com/weibo?q=%E6%B2%B3%E8%BE%B9%E7%9A%84%E9%94%99%E8%AF%AF%E8%A7%A3%E6%9E%90&t=31&band_rank=7&Refer=top)<br />
-8. [于文亮说我走红是因为大家太累了](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E4%BA%AE%E8%AF%B4%E6%88%91%E8%B5%B0%E7%BA%A2%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%A4%A7%E5%AE%B6%E5%A4%AA%E7%B4%AF%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [小米14](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B314&t=31&band_rank=9&Refer=top)<br />
+8. [小米14](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B314&t=31&band_rank=8&Refer=top)<br />
+9. [于文亮说我走红是因为大家太累了](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E4%BA%AE%E8%AF%B4%E6%88%91%E8%B5%B0%E7%BA%A2%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%A4%A7%E5%AE%B6%E5%A4%AA%E7%B4%AF%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
