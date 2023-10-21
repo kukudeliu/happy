@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 00:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 00:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [倪妮河南分妮最近火了](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E6%B2%B3%E5%8D%97%E5%88%86%E5%A6%AE%E6%9C%80%E8%BF%91%E7%81%AB%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [医生劝半个多小时不让走救回一条命](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8A%9D%E5%8D%8A%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%E4%B8%8D%E8%AE%A9%E8%B5%B0%E6%95%91%E5%9B%9E%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [段艺璇被砸](https://s.weibo.com/weibo?q=%23%E6%AE%B5%E8%89%BA%E7%92%87%E8%A2%AB%E7%A0%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [林娜琏MOMO朴志效舞台](https://s.weibo.com/weibo?q=%E6%9E%97%E5%A8%9C%E7%90%8FMOMO%E6%9C%B4%E5%BF%97%E6%95%88%E8%88%9E%E5%8F%B0&t=31&band_rank=9&Refer=top)<br />
+9. [多地对归国留学生开放定向选调](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%AF%B9%E5%BD%92%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%BC%80%E6%94%BE%E5%AE%9A%E5%90%91%E9%80%89%E8%B0%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
