@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 15:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 15:15:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [央视追踪四川女童被犬咬伤事件](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%BF%BD%E8%B8%AA%E5%9B%9B%E5%B7%9D%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%8A%AC%E5%92%AC%E4%BC%A4%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [李玟雕像](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E9%9B%95%E5%83%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [大量沙丁鱼涌入日本渔港后集体死亡](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%87%8F%E6%B2%99%E4%B8%81%E9%B1%BC%E6%B6%8C%E5%85%A5%E6%97%A5%E6%9C%AC%E6%B8%94%E6%B8%AF%E5%90%8E%E9%9B%86%E4%BD%93%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [警犬进校园被大学生围观撸掉毛](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E7%8A%AC%E8%BF%9B%E6%A0%A1%E5%9B%AD%E8%A2%AB%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%B4%E8%A7%82%E6%92%B8%E6%8E%89%E6%AF%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵丽颖月桂女神妆](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%9C%88%E6%A1%82%E5%A5%B3%E7%A5%9E%E5%A6%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [赵丽颖月桂女神妆](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%9C%88%E6%A1%82%E5%A5%B3%E7%A5%9E%E5%A6%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [警犬进校园被大学生围观撸掉毛](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E7%8A%AC%E8%BF%9B%E6%A0%A1%E5%9B%AD%E8%A2%AB%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%B4%E8%A7%82%E6%92%B8%E6%8E%89%E6%AF%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
