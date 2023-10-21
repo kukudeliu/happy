@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 22:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 22:26:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [这就是街舞](https://s.weibo.com/weibo?q=%E8%BF%99%E5%B0%B1%E6%98%AF%E8%A1%97%E8%88%9E&t=31&band_rank=4&Refer=top)<br />
 5. [肺炎支原体感染11月或将迎感染高峰](https://s.weibo.com/weibo?q=%23%E8%82%BA%E7%82%8E%E6%94%AF%E5%8E%9F%E4%BD%93%E6%84%9F%E6%9F%9311%E6%9C%88%E6%88%96%E5%B0%86%E8%BF%8E%E6%84%9F%E6%9F%93%E9%AB%98%E5%B3%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [河边的错误 看完不走](https://s.weibo.com/weibo?q=%E6%B2%B3%E8%BE%B9%E7%9A%84%E9%94%99%E8%AF%AF%20%E7%9C%8B%E5%AE%8C%E4%B8%8D%E8%B5%B0&t=31&band_rank=6&Refer=top)<br />
-7. [隐性饥饿正在偷走你的健康](https://s.weibo.com/weibo?q=%23%E9%9A%90%E6%80%A7%E9%A5%A5%E9%A5%BF%E6%AD%A3%E5%9C%A8%E5%81%B7%E8%B5%B0%E4%BD%A0%E7%9A%84%E5%81%A5%E5%BA%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [AG 上上签](https://s.weibo.com/weibo?q=AG%20%E4%B8%8A%E4%B8%8A%E7%AD%BE&t=31&band_rank=8&Refer=top)<br />
+7. [AG 上上签](https://s.weibo.com/weibo?q=AG%20%E4%B8%8A%E4%B8%8A%E7%AD%BE&t=31&band_rank=7&Refer=top)<br />
+8. [隐性饥饿正在偷走你的健康](https://s.weibo.com/weibo?q=%23%E9%9A%90%E6%80%A7%E9%A5%A5%E9%A5%BF%E6%AD%A3%E5%9C%A8%E5%81%B7%E8%B5%B0%E4%BD%A0%E7%9A%84%E5%81%A5%E5%BA%B7%23&t=31&band_rank=8&Refer=top)<br />
 9. [河边的错误解析](https://s.weibo.com/weibo?q=%E6%B2%B3%E8%BE%B9%E7%9A%84%E9%94%99%E8%AF%AF%E8%A7%A3%E6%9E%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,9 +22,9 @@
 3. [中国作家海漄获2023雨果奖](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%9C%E5%AE%B6%E6%B5%B7%E6%BC%84%E8%8E%B72023%E9%9B%A8%E6%9E%9C%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济新亮点不断涌现](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E4%BA%AE%E7%82%B9%E4%B8%8D%E6%96%AD%E6%B6%8C%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [巴勒斯坦总统连说3遍我们不会离开](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%80%BB%E7%BB%9F%E8%BF%9E%E8%AF%B43%E9%81%8D%E6%88%91%E4%BB%AC%E4%B8%8D%E4%BC%9A%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多国民众游行支持巴勒斯坦人民](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E6%B0%91%E4%BC%97%E6%B8%B8%E8%A1%8C%E6%94%AF%E6%8C%81%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [微信更新聊天消息提示功能](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9B%B4%E6%96%B0%E8%81%8A%E5%A4%A9%E6%B6%88%E6%81%AF%E6%8F%90%E7%A4%BA%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [A股“市场底”还有多远](https://www.baidu.com/s?wd=A%E8%82%A1%E2%80%9C%E5%B8%82%E5%9C%BA%E5%BA%95%E2%80%9D%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [微信更新聊天消息提示功能](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9B%B4%E6%96%B0%E8%81%8A%E5%A4%A9%E6%B6%88%E6%81%AF%E6%8F%90%E7%A4%BA%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [哈马斯宣布释放一对美国母女](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E5%AE%A3%E5%B8%83%E9%87%8A%E6%94%BE%E4%B8%80%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%AF%8D%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [土耳其总统呼吁以色列停止袭击](https://www.baidu.com/s?wd=%E5%9C%9F%E8%80%B3%E5%85%B6%E6%80%BB%E7%BB%9F%E5%91%BC%E5%90%81%E4%BB%A5%E8%89%B2%E5%88%97%E5%81%9C%E6%AD%A2%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣交警执法推倒电动车](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%BA%A4%E8%AD%A6%E6%89%A7%E6%B3%95%E6%8E%A8%E5%80%92%E7%94%B5%E5%8A%A8%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [中国作家海漄获2023雨果奖](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%9C%E5%AE%B6%E6%B5%B7%E6%BC%84%E8%8E%B72023%E9%9B%A8%E6%9E%9C%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济新亮点不断涌现](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E4%BA%AE%E7%82%B9%E4%B8%8D%E6%96%AD%E6%B6%8C%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [巴勒斯坦总统连说3遍我们不会离开](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%80%BB%E7%BB%9F%E8%BF%9E%E8%AF%B43%E9%81%8D%E6%88%91%E4%BB%AC%E4%B8%8D%E4%BC%9A%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多国民众游行支持巴勒斯坦人民](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E6%B0%91%E4%BC%97%E6%B8%B8%E8%A1%8C%E6%94%AF%E6%8C%81%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [微信更新聊天消息提示功能](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9B%B4%E6%96%B0%E8%81%8A%E5%A4%A9%E6%B6%88%E6%81%AF%E6%8F%90%E7%A4%BA%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [A股“市场底”还有多远](https://www.baidu.com/s?wd=A%E8%82%A1%E2%80%9C%E5%B8%82%E5%9C%BA%E5%BA%95%E2%80%9D%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [微信更新聊天消息提示功能](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9B%B4%E6%96%B0%E8%81%8A%E5%A4%A9%E6%B6%88%E6%81%AF%E6%8F%90%E7%A4%BA%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [哈马斯宣布释放一对美国母女](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E5%AE%A3%E5%B8%83%E9%87%8A%E6%94%BE%E4%B8%80%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%AF%8D%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [土耳其总统呼吁以色列停止袭击](https://www.baidu.com/s?wd=%E5%9C%9F%E8%80%B3%E5%85%B6%E6%80%BB%E7%BB%9F%E5%91%BC%E5%90%81%E4%BB%A5%E8%89%B2%E5%88%97%E5%81%9C%E6%AD%A2%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣交警执法推倒电动车](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%BA%A4%E8%AD%A6%E6%89%A7%E6%B3%95%E6%8E%A8%E5%80%92%E7%94%B5%E5%8A%A8%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
