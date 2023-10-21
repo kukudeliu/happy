@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 09:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 09:33:01</h4></div>
 
 > 微博  
 
 1. [网红罗大美遇害案经过](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%BD%97%E5%A4%A7%E7%BE%8E%E9%81%87%E5%AE%B3%E6%A1%88%E7%BB%8F%E8%BF%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [为什么阳光玫瑰变便宜也变难吃了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E5%8F%98%E4%BE%BF%E5%AE%9C%E4%B9%9F%E5%8F%98%E9%9A%BE%E5%90%83%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+2. [小慧君胜诉](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%85%A7%E5%90%9B%E8%83%9C%E8%AF%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [大道之行筑梦丝路](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%81%93%E4%B9%8B%E8%A1%8C%E7%AD%91%E6%A2%A6%E4%B8%9D%E8%B7%AF%23&t=31&band_rank=3&Refer=top)<br />
-4. [小慧君胜诉](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%85%A7%E5%90%9B%E8%83%9C%E8%AF%89%23&t=31&band_rank=4&Refer=top)<br />
+4. [为什么阳光玫瑰变便宜也变难吃了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E5%8F%98%E4%BE%BF%E5%AE%9C%E4%B9%9F%E5%8F%98%E9%9A%BE%E5%90%83%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [孙灏羽](https://s.weibo.com/weibo?q=%E5%AD%99%E7%81%8F%E7%BE%BD&t=31&band_rank=5&Refer=top)<br />
 6. [巴勒斯坦民众与以色列军警发生冲突](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%B0%91%E4%BC%97%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%9B%E8%AD%A6%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [人生大事收视率破1](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B41%23&t=31&band_rank=7&Refer=top)<br />
