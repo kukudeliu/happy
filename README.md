@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 19:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 19:55:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [二狗](https://s.weibo.com/weibo?q=%E4%BA%8C%E7%8B%97&t=31&band_rank=4&Refer=top)<br />
 5. [90后小伙为救人40天减重40斤](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%B0%8F%E4%BC%99%E4%B8%BA%E6%95%91%E4%BA%BA40%E5%A4%A9%E5%87%8F%E9%87%8D40%E6%96%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [墨香铜臭](https://s.weibo.com/weibo?q=%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD&t=31&band_rank=6&Refer=top)<br />
-7. [吃播 假吃](https://s.weibo.com/weibo?q=%E5%90%83%E6%92%AD%20%E5%81%87%E5%90%83&t=31&band_rank=7&Refer=top)<br />
-8. [小米14](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B314&t=31&band_rank=8&Refer=top)<br />
-9. [钟薛高在职员工称已两三月未发工资](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E5%9C%A8%E8%81%8C%E5%91%98%E5%B7%A5%E7%A7%B0%E5%B7%B2%E4%B8%A4%E4%B8%89%E6%9C%88%E6%9C%AA%E5%8F%91%E5%B7%A5%E8%B5%84%23&t=31&band_rank=9&Refer=top)<br />
+7. [于文亮说我走红是因为大家太累了](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E4%BA%AE%E8%AF%B4%E6%88%91%E8%B5%B0%E7%BA%A2%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%A4%A7%E5%AE%B6%E5%A4%AA%E7%B4%AF%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [吃播 假吃](https://s.weibo.com/weibo?q=%E5%90%83%E6%92%AD%20%E5%81%87%E5%90%83&t=31&band_rank=8&Refer=top)<br />
+9. [小米14](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B314&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
