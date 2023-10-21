@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 18:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 18:10:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [大量沙丁鱼涌入日本渔港后集体死亡](https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E6%B2%99%E4%B8%81%E9%B1%BC%E6%B6%8C%E5%85%A5%E6%97%A5%E6%9C%AC%E6%B8%94%E6%B8%AF%E5%90%8E%E9%9B%86%E4%BD%93%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子与男友吵架怒划16万爱马仕包](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8E%E7%94%B7%E5%8F%8B%E5%90%B5%E6%9E%B6%E6%80%92%E5%88%9216%E4%B8%87%E7%88%B1%E9%A9%AC%E4%BB%95%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老师否认抽学生11个耳光:只扇五六下](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%90%A6%E8%AE%A4%E6%8A%BD%E5%AD%A6%E7%94%9F11%E4%B8%AA%E8%80%B3%E5%85%89%3A%E5%8F%AA%E6%89%87%E4%BA%94%E5%85%AD%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子花800元把车吊到楼顶防泡水](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1800%E5%85%83%E6%8A%8A%E8%BD%A6%E5%90%8A%E5%88%B0%E6%A5%BC%E9%A1%B6%E9%98%B2%E6%B3%A1%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家警告未来蚊虫或全年无休](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%AD%A6%E5%91%8A%E6%9C%AA%E6%9D%A5%E8%9A%8A%E8%99%AB%E6%88%96%E5%85%A8%E5%B9%B4%E6%97%A0%E4%BC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [和田网警辟谣地震致人员伤亡](https://www.baidu.com/s?wd=%E5%92%8C%E7%94%B0%E7%BD%91%E8%AD%A6%E8%BE%9F%E8%B0%A3%E5%9C%B0%E9%9C%87%E8%87%B4%E4%BA%BA%E5%91%98%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [大量沙丁鱼涌入日本渔港后集体死亡](https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E6%B2%99%E4%B8%81%E9%B1%BC%E6%B6%8C%E5%85%A5%E6%97%A5%E6%9C%AC%E6%B8%94%E6%B8%AF%E5%90%8E%E9%9B%86%E4%BD%93%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子与男友吵架怒划16万爱马仕包](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8E%E7%94%B7%E5%8F%8B%E5%90%B5%E6%9E%B6%E6%80%92%E5%88%9216%E4%B8%87%E7%88%B1%E9%A9%AC%E4%BB%95%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老师否认抽学生11个耳光:只扇五六下](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%90%A6%E8%AE%A4%E6%8A%BD%E5%AD%A6%E7%94%9F11%E4%B8%AA%E8%80%B3%E5%85%89%3A%E5%8F%AA%E6%89%87%E4%BA%94%E5%85%AD%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子花800元把车吊到楼顶防泡水](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1800%E5%85%83%E6%8A%8A%E8%BD%A6%E5%90%8A%E5%88%B0%E6%A5%BC%E9%A1%B6%E9%98%B2%E6%B3%A1%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家警告未来蚊虫或全年无休](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%AD%A6%E5%91%8A%E6%9C%AA%E6%9D%A5%E8%9A%8A%E8%99%AB%E6%88%96%E5%85%A8%E5%B9%B4%E6%97%A0%E4%BC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [和田网警辟谣地震致人员伤亡](https://www.baidu.com/s?wd=%E5%92%8C%E7%94%B0%E7%BD%91%E8%AD%A6%E8%BE%9F%E8%B0%A3%E5%9C%B0%E9%9C%87%E8%87%B4%E4%BA%BA%E5%91%98%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
