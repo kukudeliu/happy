@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 06:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 06:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [6岁女孩被父亲忘高速服务区冷静求助](https://s.weibo.com/weibo?q=%236%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%88%B6%E4%BA%B2%E5%BF%98%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E5%86%B7%E9%9D%99%E6%B1%82%E5%8A%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [隐性饥饿正在偷走你的健康](https://s.weibo.com/weibo?q=%23%E9%9A%90%E6%80%A7%E9%A5%A5%E9%A5%BF%E6%AD%A3%E5%9C%A8%E5%81%B7%E8%B5%B0%E4%BD%A0%E7%9A%84%E5%81%A5%E5%BA%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [肺炎支原体感染11月或将迎感染高峰](https://s.weibo.com/weibo?q=%23%E8%82%BA%E7%82%8E%E6%94%AF%E5%8E%9F%E4%BD%93%E6%84%9F%E6%9F%9311%E6%9C%88%E6%88%96%E5%B0%86%E8%BF%8E%E6%84%9F%E6%9F%93%E9%AB%98%E5%B3%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [张碧晨 撕裂](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%20%E6%92%95%E8%A3%82&t=31&band_rank=9&Refer=top)<br />
+9. [国务院取消调整33个罚款事项](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8F%96%E6%B6%88%E8%B0%83%E6%95%B433%E4%B8%AA%E7%BD%9A%E6%AC%BE%E4%BA%8B%E9%A1%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
