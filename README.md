@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 18:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 18:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵露思 人嘛该翻篇就得翻篇了](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E4%BA%BA%E5%98%9B%E8%AF%A5%E7%BF%BB%E7%AF%87%E5%B0%B1%E5%BE%97%E7%BF%BB%E7%AF%87%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [物业师傅救小孩被车撞翻仍爬起追车](https://s.weibo.com/weibo?q=%23%E7%89%A9%E4%B8%9A%E5%B8%88%E5%82%85%E6%95%91%E5%B0%8F%E5%AD%A9%E8%A2%AB%E8%BD%A6%E6%92%9E%E7%BF%BB%E4%BB%8D%E7%88%AC%E8%B5%B7%E8%BF%BD%E8%BD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [墨香铜臭](https://s.weibo.com/weibo?q=%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD&t=31&band_rank=8&Refer=top)<br />
-9. [八捆线面](https://s.weibo.com/weibo?q=%E5%85%AB%E6%8D%86%E7%BA%BF%E9%9D%A2&t=31&band_rank=9&Refer=top)<br />
+9. [二狗](https://s.weibo.com/weibo?q=%E4%BA%8C%E7%8B%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
