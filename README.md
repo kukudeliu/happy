@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 15:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 15:46:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [200口井为卢旺达带来清澈饮用水](https://s.weibo.com/weibo?q=%23200%E5%8F%A3%E4%BA%95%E4%B8%BA%E5%8D%A2%E6%97%BA%E8%BE%BE%E5%B8%A6%E6%9D%A5%E6%B8%85%E6%BE%88%E9%A5%AE%E7%94%A8%E6%B0%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [四川泸州坠江宝马车被打捞出水](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%B7%9E%E5%9D%A0%E6%B1%9F%E5%AE%9D%E9%A9%AC%E8%BD%A6%E8%A2%AB%E6%89%93%E6%8D%9E%E5%87%BA%E6%B0%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [青岛啤酒涉事工厂是世界级智慧工厂](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E6%B6%89%E4%BA%8B%E5%B7%A5%E5%8E%82%E6%98%AF%E4%B8%96%E7%95%8C%E7%BA%A7%E6%99%BA%E6%85%A7%E5%B7%A5%E5%8E%82%23&t=31&band_rank=5&Refer=top)<br />
-6. [央视追踪四川女童被犬咬伤事件](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%BF%BD%E8%B8%AA%E5%9B%9B%E5%B7%9D%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%8A%AC%E5%92%AC%E4%BC%A4%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [男子1块钱拍下奔驰卖方拒绝发货](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%901%E5%9D%97%E9%92%B1%E6%8B%8D%E4%B8%8B%E5%A5%94%E9%A9%B0%E5%8D%96%E6%96%B9%E6%8B%92%E7%BB%9D%E5%8F%91%E8%B4%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [朱一龙河边的错误表演张力](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E6%B2%B3%E8%BE%B9%E7%9A%84%E9%94%99%E8%AF%AF%E8%A1%A8%E6%BC%94%E5%BC%A0%E5%8A%9B%23&t=31&band_rank=8&Refer=top)<br />
+6. [男子1块钱拍下奔驰卖方拒绝发货](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%901%E5%9D%97%E9%92%B1%E6%8B%8D%E4%B8%8B%E5%A5%94%E9%A9%B0%E5%8D%96%E6%96%B9%E6%8B%92%E7%BB%9D%E5%8F%91%E8%B4%A7%23&t=31&band_rank=6&Refer=top)<br />
+7. [朱一龙河边的错误表演张力](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E6%B2%B3%E8%BE%B9%E7%9A%84%E9%94%99%E8%AF%AF%E8%A1%A8%E6%BC%94%E5%BC%A0%E5%8A%9B%23&t=31&band_rank=7&Refer=top)<br />
+8. [央视追踪四川女童被犬咬伤事件](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%BF%BD%E8%B8%AA%E5%9B%9B%E5%B7%9D%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%8A%AC%E5%92%AC%E4%BC%A4%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
 9. [赵丽颖月桂女神妆](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%9C%88%E6%A1%82%E5%A5%B3%E7%A5%9E%E5%A6%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
