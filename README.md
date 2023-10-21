@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 07:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 07:18:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [隐性饥饿正在偷走你的健康](https://s.weibo.com/weibo?q=%23%E9%9A%90%E6%80%A7%E9%A5%A5%E9%A5%BF%E6%AD%A3%E5%9C%A8%E5%81%B7%E8%B5%B0%E4%BD%A0%E7%9A%84%E5%81%A5%E5%BA%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [英国穷小子验DNA证明自己是富豪独子](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%A9%B7%E5%B0%8F%E5%AD%90%E9%AA%8CDNA%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E6%98%AF%E5%AF%8C%E8%B1%AA%E7%8B%AC%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [6岁女孩被父亲忘高速服务区冷静求助](https://s.weibo.com/weibo?q=%236%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%88%B6%E4%BA%B2%E5%BF%98%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E5%86%B7%E9%9D%99%E6%B1%82%E5%8A%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [律师称李玟已完成尸检证据已固定](https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E7%A7%B0%E6%9D%8E%E7%8E%9F%E5%B7%B2%E5%AE%8C%E6%88%90%E5%B0%B8%E6%A3%80%E8%AF%81%E6%8D%AE%E5%B7%B2%E5%9B%BA%E5%AE%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [张碧晨 撕裂](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%20%E6%92%95%E8%A3%82&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
