@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 16:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 16:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [张一山智斗切糕大爷](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E6%99%BA%E6%96%97%E5%88%87%E7%B3%95%E5%A4%A7%E7%88%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [四川泸州坠江宝马车被打捞出水](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%B7%9E%E5%9D%A0%E6%B1%9F%E5%AE%9D%E9%A9%AC%E8%BD%A6%E8%A2%AB%E6%89%93%E6%8D%9E%E5%87%BA%E6%B0%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [朱一龙河边的错误表演张力](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E6%B2%B3%E8%BE%B9%E7%9A%84%E9%94%99%E8%AF%AF%E8%A1%A8%E6%BC%94%E5%BC%A0%E5%8A%9B%23&t=31&band_rank=7&Refer=top)<br />
-8. [河边的错误 河流是更接近真相的](https://s.weibo.com/weibo?q=%E6%B2%B3%E8%BE%B9%E7%9A%84%E9%94%99%E8%AF%AF%20%E6%B2%B3%E6%B5%81%E6%98%AF%E6%9B%B4%E6%8E%A5%E8%BF%91%E7%9C%9F%E7%9B%B8%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
-9. [我们讨好型人格 打ok都是okk](https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%AC%E8%AE%A8%E5%A5%BD%E5%9E%8B%E4%BA%BA%E6%A0%BC%20%E6%89%93ok%E9%83%BD%E6%98%AFokk&t=31&band_rank=9&Refer=top)<br />
+8. [我们讨好型人格 打ok都是okk](https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%AC%E8%AE%A8%E5%A5%BD%E5%9E%8B%E4%BA%BA%E6%A0%BC%20%E6%89%93ok%E9%83%BD%E6%98%AFokk&t=31&band_rank=8&Refer=top)<br />
+9. [河边的错误 河流是更接近真相的](https://s.weibo.com/weibo?q=%E6%B2%B3%E8%BE%B9%E7%9A%84%E9%94%99%E8%AF%AF%20%E6%B2%B3%E6%B5%81%E6%98%AF%E6%9B%B4%E6%8E%A5%E8%BF%91%E7%9C%9F%E7%9B%B8%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
