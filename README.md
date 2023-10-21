@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 02:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 02:58:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [巴勒斯坦总统连说3遍我们不会离开](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%80%BB%E7%BB%9F%E8%BF%9E%E8%AF%B43%E9%81%8D%E6%88%91%E4%BB%AC%E4%B8%8D%E4%BC%9A%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [央行行长将明确为国务院组成人员](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E8%A1%8C%E9%95%BF%E5%B0%86%E6%98%8E%E7%A1%AE%E4%B8%BA%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BB%84%E6%88%90%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [埃尔多安：西方沉默恶化加沙局势](https://www.baidu.com/s?wd=%E5%9F%83%E5%B0%94%E5%A4%9A%E5%AE%89%EF%BC%9A%E8%A5%BF%E6%96%B9%E6%B2%89%E9%BB%98%E6%81%B6%E5%8C%96%E5%8A%A0%E6%B2%99%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胖东来一收银员神似倪妮](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B8%80%E6%94%B6%E9%93%B6%E5%91%98%E7%A5%9E%E4%BC%BC%E5%80%AA%E5%A6%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [微信更新聊天消息提示功能](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9B%B4%E6%96%B0%E8%81%8A%E5%A4%A9%E6%B6%88%E6%81%AF%E6%8F%90%E7%A4%BA%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣交警执法推倒电动车](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%BA%A4%E8%AD%A6%E6%89%A7%E6%B3%95%E6%8E%A8%E5%80%92%E7%94%B5%E5%8A%A8%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [巴勒斯坦总统连说3遍我们不会离开](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%80%BB%E7%BB%9F%E8%BF%9E%E8%AF%B43%E9%81%8D%E6%88%91%E4%BB%AC%E4%B8%8D%E4%BC%9A%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [央行行长将明确为国务院组成人员](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E8%A1%8C%E9%95%BF%E5%B0%86%E6%98%8E%E7%A1%AE%E4%B8%BA%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%BB%84%E6%88%90%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [埃尔多安：西方沉默恶化加沙局势](https://www.baidu.com/s?wd=%E5%9F%83%E5%B0%94%E5%A4%9A%E5%AE%89%EF%BC%9A%E8%A5%BF%E6%96%B9%E6%B2%89%E9%BB%98%E6%81%B6%E5%8C%96%E5%8A%A0%E6%B2%99%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胖东来一收银员神似倪妮](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B8%80%E6%94%B6%E9%93%B6%E5%91%98%E7%A5%9E%E4%BC%BC%E5%80%AA%E5%A6%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [微信更新聊天消息提示功能](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9B%B4%E6%96%B0%E8%81%8A%E5%A4%A9%E6%B6%88%E6%81%AF%E6%8F%90%E7%A4%BA%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣交警执法推倒电动车](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%BA%A4%E8%AD%A6%E6%89%A7%E6%B3%95%E6%8E%A8%E5%80%92%E7%94%B5%E5%8A%A8%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
