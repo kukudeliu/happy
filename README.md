@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 10:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 10:15:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [国务院取消调整33个罚款事项](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8F%96%E6%B6%88%E8%B0%83%E6%95%B433%E4%B8%AA%E7%BD%9A%E6%AC%BE%E4%BA%8B%E9%A1%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [外资究竟有没有大规模撤离中国](https://www.baidu.com/s?wd=%E5%A4%96%E8%B5%84%E7%A9%B6%E7%AB%9F%E6%9C%89%E6%B2%A1%E6%9C%89%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%92%A4%E7%A6%BB%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [两个亚运 同样精彩](https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AA%E4%BA%9A%E8%BF%90+%E5%90%8C%E6%A0%B7%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [完整版：央视专访俄罗斯总统普京](https://www.baidu.com/s?wd=%E5%AE%8C%E6%95%B4%E7%89%88%EF%BC%9A%E5%A4%AE%E8%A7%86%E4%B8%93%E8%AE%BF%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E6%99%AE%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [青岛啤酒涉事工厂曾被称为智慧工厂](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E6%B6%89%E4%BA%8B%E5%B7%A5%E5%8E%82%E6%9B%BE%E8%A2%AB%E7%A7%B0%E4%B8%BA%E6%99%BA%E6%85%A7%E5%B7%A5%E5%8E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [90后夫妻产下猫叫患儿医院被起诉](https://www.baidu.com/s?wd=90%E5%90%8E%E5%A4%AB%E5%A6%BB%E4%BA%A7%E4%B8%8B%E7%8C%AB%E5%8F%AB%E6%82%A3%E5%84%BF%E5%8C%BB%E9%99%A2%E8%A2%AB%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [警方公开征集一女网红违法线索](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%85%AC%E5%BC%80%E5%BE%81%E9%9B%86%E4%B8%80%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%BF%9D%E6%B3%95%E7%BA%BF%E7%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [加沙居民早起排队3小时抢面饼](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%B1%85%E6%B0%91%E6%97%A9%E8%B5%B7%E6%8E%92%E9%98%9F3%E5%B0%8F%E6%97%B6%E6%8A%A2%E9%9D%A2%E9%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [国务院取消调整33个罚款事项](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8F%96%E6%B6%88%E8%B0%83%E6%95%B433%E4%B8%AA%E7%BD%9A%E6%AC%BE%E4%BA%8B%E9%A1%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [外资究竟有没有大规模撤离中国](https://www.baidu.com/s?wd=%E5%A4%96%E8%B5%84%E7%A9%B6%E7%AB%9F%E6%9C%89%E6%B2%A1%E6%9C%89%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%92%A4%E7%A6%BB%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [两个亚运 同样精彩](https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AA%E4%BA%9A%E8%BF%90+%E5%90%8C%E6%A0%B7%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [完整版：央视专访俄罗斯总统普京](https://www.baidu.com/s?wd=%E5%AE%8C%E6%95%B4%E7%89%88%EF%BC%9A%E5%A4%AE%E8%A7%86%E4%B8%93%E8%AE%BF%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E6%99%AE%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [青岛啤酒涉事工厂曾被称为智慧工厂](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E6%B6%89%E4%BA%8B%E5%B7%A5%E5%8E%82%E6%9B%BE%E8%A2%AB%E7%A7%B0%E4%B8%BA%E6%99%BA%E6%85%A7%E5%B7%A5%E5%8E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [90后夫妻产下猫叫患儿医院被起诉](https://www.baidu.com/s?wd=90%E5%90%8E%E5%A4%AB%E5%A6%BB%E4%BA%A7%E4%B8%8B%E7%8C%AB%E5%8F%AB%E6%82%A3%E5%84%BF%E5%8C%BB%E9%99%A2%E8%A2%AB%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [警方公开征集一女网红违法线索](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%85%AC%E5%BC%80%E5%BE%81%E9%9B%86%E4%B8%80%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%BF%9D%E6%B3%95%E7%BA%BF%E7%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [加沙居民早起排队3小时抢面饼](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%B1%85%E6%B0%91%E6%97%A9%E8%B5%B7%E6%8E%92%E9%98%9F3%E5%B0%8F%E6%97%B6%E6%8A%A2%E9%9D%A2%E9%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
