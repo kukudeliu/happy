@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 19:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 19:42:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [亚残运会开幕式最后一次全要素彩排](https://www.baidu.com/s?wd=%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%85%A8%E8%A6%81%E7%B4%A0%E5%BD%A9%E6%8E%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [20辆卡车通过后 拉法口岸再次关闭](https://www.baidu.com/s?wd=20%E8%BE%86%E5%8D%A1%E8%BD%A6%E9%80%9A%E8%BF%87%E5%90%8E+%E6%8B%89%E6%B3%95%E5%8F%A3%E5%B2%B8%E5%86%8D%E6%AC%A1%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张雨霏：1万美元奖金要去买新包包](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%A8%E9%9C%8F%EF%BC%9A1%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91%E8%A6%81%E5%8E%BB%E4%B9%B0%E6%96%B0%E5%8C%85%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [万科郁亮：住房需求不会消失](https://www.baidu.com/s?wd=%E4%B8%87%E7%A7%91%E9%83%81%E4%BA%AE%EF%BC%9A%E4%BD%8F%E6%88%BF%E9%9C%80%E6%B1%82%E4%B8%8D%E4%BC%9A%E6%B6%88%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子1块钱拍下奔驰卖方拒绝发货](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%901%E5%9D%97%E9%92%B1%E6%8B%8D%E4%B8%8B%E5%A5%94%E9%A9%B0%E5%8D%96%E6%96%B9%E6%8B%92%E7%BB%9D%E5%8F%91%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子1块钱拍下奔驰卖方拒绝发货](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%901%E5%9D%97%E9%92%B1%E6%8B%8D%E4%B8%8B%E5%A5%94%E9%A9%B0%E5%8D%96%E6%96%B9%E6%8B%92%E7%BB%9D%E5%8F%91%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家警告未来蚊虫或全年无休](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%AD%A6%E5%91%8A%E6%9C%AA%E6%9D%A5%E8%9A%8A%E8%99%AB%E6%88%96%E5%85%A8%E5%B9%B4%E6%97%A0%E4%BC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [和田网警辟谣地震致人员伤亡](https://www.baidu.com/s?wd=%E5%92%8C%E7%94%B0%E7%BD%91%E8%AD%A6%E8%BE%9F%E8%B0%A3%E5%9C%B0%E9%9C%87%E8%87%B4%E4%BA%BA%E5%91%98%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [亚残运会开幕式最后一次全要素彩排](https://www.baidu.com/s?wd=%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%85%A8%E8%A6%81%E7%B4%A0%E5%BD%A9%E6%8E%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [20辆卡车通过后 拉法口岸再次关闭](https://www.baidu.com/s?wd=20%E8%BE%86%E5%8D%A1%E8%BD%A6%E9%80%9A%E8%BF%87%E5%90%8E+%E6%8B%89%E6%B3%95%E5%8F%A3%E5%B2%B8%E5%86%8D%E6%AC%A1%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张雨霏：1万美元奖金要去买新包包](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%A8%E9%9C%8F%EF%BC%9A1%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91%E8%A6%81%E5%8E%BB%E4%B9%B0%E6%96%B0%E5%8C%85%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [万科郁亮：住房需求不会消失](https://www.baidu.com/s?wd=%E4%B8%87%E7%A7%91%E9%83%81%E4%BA%AE%EF%BC%9A%E4%BD%8F%E6%88%BF%E9%9C%80%E6%B1%82%E4%B8%8D%E4%BC%9A%E6%B6%88%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子1块钱拍下奔驰卖方拒绝发货](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%901%E5%9D%97%E9%92%B1%E6%8B%8D%E4%B8%8B%E5%A5%94%E9%A9%B0%E5%8D%96%E6%96%B9%E6%8B%92%E7%BB%9D%E5%8F%91%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子1块钱拍下奔驰卖方拒绝发货](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%901%E5%9D%97%E9%92%B1%E6%8B%8D%E4%B8%8B%E5%A5%94%E9%A9%B0%E5%8D%96%E6%96%B9%E6%8B%92%E7%BB%9D%E5%8F%91%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家警告未来蚊虫或全年无休](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%AD%A6%E5%91%8A%E6%9C%AA%E6%9D%A5%E8%9A%8A%E8%99%AB%E6%88%96%E5%85%A8%E5%B9%B4%E6%97%A0%E4%BC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [和田网警辟谣地震致人员伤亡](https://www.baidu.com/s?wd=%E5%92%8C%E7%94%B0%E7%BD%91%E8%AD%A6%E8%BE%9F%E8%B0%A3%E5%9C%B0%E9%9C%87%E8%87%B4%E4%BA%BA%E5%91%98%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
