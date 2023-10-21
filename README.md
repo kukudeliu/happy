@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 21:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 21:53:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [众人拾柴火焰高 互帮互助走得远](https://www.baidu.com/s?wd=%E4%BC%97%E4%BA%BA%E6%8B%BE%E6%9F%B4%E7%81%AB%E7%84%B0%E9%AB%98+%E4%BA%92%E5%B8%AE%E4%BA%92%E5%8A%A9%E8%B5%B0%E5%BE%97%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [90后小伙为救人40天减重40斤](https://www.baidu.com/s?wd=90%E5%90%8E%E5%B0%8F%E4%BC%99%E4%B8%BA%E6%95%91%E4%BA%BA40%E5%A4%A9%E5%87%8F%E9%87%8D40%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [女子花800元把车吊到楼顶防泡水](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1800%E5%85%83%E6%8A%8A%E8%BD%A6%E5%90%8A%E5%88%B0%E6%A5%BC%E9%A1%B6%E9%98%B2%E6%B3%A1%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [南京胖哥：为离开的女儿好好活着](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%EF%BC%9A%E4%B8%BA%E7%A6%BB%E5%BC%80%E7%9A%84%E5%A5%B3%E5%84%BF%E5%A5%BD%E5%A5%BD%E6%B4%BB%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济新亮点不断涌现](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E4%BA%AE%E7%82%B9%E4%B8%8D%E6%96%AD%E6%B6%8C%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [巴勒斯坦总统连说3遍我们不会离开](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%80%BB%E7%BB%9F%E8%BF%9E%E8%AF%B43%E9%81%8D%E6%88%91%E4%BB%AC%E4%B8%8D%E4%BC%9A%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [众人拾柴火焰高 互帮互助走得远](https://www.baidu.com/s?wd=%E4%BC%97%E4%BA%BA%E6%8B%BE%E6%9F%B4%E7%81%AB%E7%84%B0%E9%AB%98+%E4%BA%92%E5%B8%AE%E4%BA%92%E5%8A%A9%E8%B5%B0%E5%BE%97%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [90后小伙为救人40天减重40斤](https://www.baidu.com/s?wd=90%E5%90%8E%E5%B0%8F%E4%BC%99%E4%B8%BA%E6%95%91%E4%BA%BA40%E5%A4%A9%E5%87%8F%E9%87%8D40%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [女子花800元把车吊到楼顶防泡水](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1800%E5%85%83%E6%8A%8A%E8%BD%A6%E5%90%8A%E5%88%B0%E6%A5%BC%E9%A1%B6%E9%98%B2%E6%B3%A1%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [南京胖哥：为离开的女儿好好活着](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%EF%BC%9A%E4%B8%BA%E7%A6%BB%E5%BC%80%E7%9A%84%E5%A5%B3%E5%84%BF%E5%A5%BD%E5%A5%BD%E6%B4%BB%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济新亮点不断涌现](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E4%BA%AE%E7%82%B9%E4%B8%8D%E6%96%AD%E6%B6%8C%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [巴勒斯坦总统连说3遍我们不会离开](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%80%BB%E7%BB%9F%E8%BF%9E%E8%AF%B43%E9%81%8D%E6%88%91%E4%BB%AC%E4%B8%8D%E4%BC%9A%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
