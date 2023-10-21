@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 20:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 20:01:01</h4></div>
 
 > 微博  
 
 1. [李玟家人要求警方调查李玟死因](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%AE%B6%E4%BA%BA%E8%A6%81%E6%B1%82%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5%E6%9D%8E%E7%8E%9F%E6%AD%BB%E5%9B%A0%23&t=31&band_rank=1&Refer=top)<br />
-2. [欧阳娣娣海选 淘汰](https://s.weibo.com/weibo?q=%E6%AC%A7%E9%98%B3%E5%A8%A3%E5%A8%A3%E6%B5%B7%E9%80%89%20%E6%B7%98%E6%B1%B0&t=31&band_rank=2&Refer=top)<br />
+2. [马哲孩子 疯子](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%93%B2%E5%AD%A9%E5%AD%90%20%E7%96%AF%E5%AD%90&t=31&band_rank=2&Refer=top)<br />
 3. [这条路使单程通行时间从一周缩至6小时](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%9D%A1%E8%B7%AF%E4%BD%BF%E5%8D%95%E7%A8%8B%E9%80%9A%E8%A1%8C%E6%97%B6%E9%97%B4%E4%BB%8E%E4%B8%80%E5%91%A8%E7%BC%A9%E8%87%B36%E5%B0%8F%E6%97%B6%23&t=31&band_rank=3&Refer=top)<br />
-4. [马哲孩子 疯子](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%93%B2%E5%AD%A9%E5%AD%90%20%E7%96%AF%E5%AD%90&t=31&band_rank=4&Refer=top)<br />
+4. [欧阳娣娣海选 淘汰](https://s.weibo.com/weibo?q=%E6%AC%A7%E9%98%B3%E5%A8%A3%E5%A8%A3%E6%B5%B7%E9%80%89%20%E6%B7%98%E6%B1%B0&t=31&band_rank=4&Refer=top)<br />
 5. [90后小伙为救人40天减重40斤](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%B0%8F%E4%BC%99%E4%B8%BA%E6%95%91%E4%BA%BA40%E5%A4%A9%E5%87%8F%E9%87%8D40%E6%96%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [二狗](https://s.weibo.com/weibo?q=%E4%BA%8C%E7%8B%97&t=31&band_rank=6&Refer=top)<br />
 7. [于文亮说我走红是因为大家太累了](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E4%BA%AE%E8%AF%B4%E6%88%91%E8%B5%B0%E7%BA%A2%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%A4%A7%E5%AE%B6%E5%A4%AA%E7%B4%AF%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
