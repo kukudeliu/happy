@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 12:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 12:08:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [二手玫瑰最初化浓妆是因为没分到包子吃](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%89%8B%E7%8E%AB%E7%91%B0%E6%9C%80%E5%88%9D%E5%8C%96%E6%B5%93%E5%A6%86%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%B2%A1%E5%88%86%E5%88%B0%E5%8C%85%E5%AD%90%E5%90%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [大道之行筑梦丝路](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%81%93%E4%B9%8B%E8%A1%8C%E7%AD%91%E6%A2%A6%E4%B8%9D%E8%B7%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [不愧是北大 好歹毒的签到方式](https://s.weibo.com/weibo?q=%E4%B8%8D%E6%84%A7%E6%98%AF%E5%8C%97%E5%A4%A7%20%E5%A5%BD%E6%AD%B9%E6%AF%92%E7%9A%84%E7%AD%BE%E5%88%B0%E6%96%B9%E5%BC%8F&t=31&band_rank=4&Refer=top)<br />
-5. [李玟今日在武汉安葬](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E4%BB%8A%E6%97%A5%E5%9C%A8%E6%AD%A6%E6%B1%89%E5%AE%89%E8%91%AC%23&t=31&band_rank=5&Refer=top)<br />
-6. [河边的错误 片方很有数](https://s.weibo.com/weibo?q=%E6%B2%B3%E8%BE%B9%E7%9A%84%E9%94%99%E8%AF%AF%20%E7%89%87%E6%96%B9%E5%BE%88%E6%9C%89%E6%95%B0&t=31&band_rank=6&Refer=top)<br />
-7. [顾漫骄阳似我完结了](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E6%BC%AB%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E5%AE%8C%E7%BB%93%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [黄牛一人收100带歌迷强闯演唱会](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%89%9B%E4%B8%80%E4%BA%BA%E6%94%B6100%E5%B8%A6%E6%AD%8C%E8%BF%B7%E5%BC%BA%E9%97%AF%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
+5. [黄牛一人收100带歌迷强闯演唱会](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%89%9B%E4%B8%80%E4%BA%BA%E6%94%B6100%E5%B8%A6%E6%AD%8C%E8%BF%B7%E5%BC%BA%E9%97%AF%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=5&Refer=top)<br />
+6. [李玟今日在武汉安葬](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E4%BB%8A%E6%97%A5%E5%9C%A8%E6%AD%A6%E6%B1%89%E5%AE%89%E8%91%AC%23&t=31&band_rank=6&Refer=top)<br />
+7. [河边的错误 片方很有数](https://s.weibo.com/weibo?q=%E6%B2%B3%E8%BE%B9%E7%9A%84%E9%94%99%E8%AF%AF%20%E7%89%87%E6%96%B9%E5%BE%88%E6%9C%89%E6%95%B0&t=31&band_rank=7&Refer=top)<br />
+8. [顾漫骄阳似我完结了](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E6%BC%AB%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E5%AE%8C%E7%BB%93%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [徐志胜说关晓彤不是以前的关晓彤了](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E8%AF%B4%E5%85%B3%E6%99%93%E5%BD%A4%E4%B8%8D%E6%98%AF%E4%BB%A5%E5%89%8D%E7%9A%84%E5%85%B3%E6%99%93%E5%BD%A4%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
