@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 23:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 23:58:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [2023大湾区音乐汇](https://s.weibo.com/weibo?q=%232023%E5%A4%A7%E6%B9%BE%E5%8C%BA%E9%9F%B3%E4%B9%90%E6%B1%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [张韶涵硬刚主办方](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E7%A1%AC%E5%88%9A%E4%B8%BB%E5%8A%9E%E6%96%B9%23&t=31&band_rank=4&Refer=top)<br />
 5. [倪妮河南分妮最近火了](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E6%B2%B3%E5%8D%97%E5%88%86%E5%A6%AE%E6%9C%80%E8%BF%91%E7%81%AB%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [段艺璇被砸](https://s.weibo.com/weibo?q=%23%E6%AE%B5%E8%89%BA%E7%92%87%E8%A2%AB%E7%A0%B8%23&t=31&band_rank=6&Refer=top)<br />
-7. [张碧晨 撕裂](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%20%E6%92%95%E8%A3%82&t=31&band_rank=7&Refer=top)<br />
+6. [张碧晨 撕裂](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%20%E6%92%95%E8%A3%82&t=31&band_rank=6&Refer=top)<br />
+7. [段艺璇被砸](https://s.weibo.com/weibo?q=%23%E6%AE%B5%E8%89%BA%E7%92%87%E8%A2%AB%E7%A0%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [6岁女孩被父亲忘高速服务区冷静求助](https://s.weibo.com/weibo?q=%236%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%88%B6%E4%BA%B2%E5%BF%98%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E5%86%B7%E9%9D%99%E6%B1%82%E5%8A%A9%23&t=31&band_rank=8&Refer=top)<br />
 9. [肺炎支原体感染11月或将迎感染高峰](https://s.weibo.com/weibo?q=%23%E8%82%BA%E7%82%8E%E6%94%AF%E5%8E%9F%E4%BD%93%E6%84%9F%E6%9F%9311%E6%9C%88%E6%88%96%E5%B0%86%E8%BF%8E%E6%84%9F%E6%9F%93%E9%AB%98%E5%B3%B0%23&t=31&band_rank=9&Refer=top)<br />
 
