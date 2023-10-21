@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 22:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 22:09:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [中国作家海漄获2023雨果奖](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%9C%E5%AE%B6%E6%B5%B7%E6%BC%84%E8%8E%B72023%E9%9B%A8%E6%9E%9C%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济新亮点不断涌现](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E4%BA%AE%E7%82%B9%E4%B8%8D%E6%96%AD%E6%B6%8C%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [巴勒斯坦总统连说3遍我们不会离开](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%80%BB%E7%BB%9F%E8%BF%9E%E8%AF%B43%E9%81%8D%E6%88%91%E4%BB%AC%E4%B8%8D%E4%BC%9A%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [法塔赫成员批美拱火巴以冲突](https://www.baidu.com/s?wd=%E6%B3%95%E5%A1%94%E8%B5%AB%E6%88%90%E5%91%98%E6%89%B9%E7%BE%8E%E6%8B%B1%E7%81%AB%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [微信更新聊天消息提示功能](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9B%B4%E6%96%B0%E8%81%8A%E5%A4%A9%E6%B6%88%E6%81%AF%E6%8F%90%E7%A4%BA%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [埃尔多安：西方沉默恶化加沙局势](https://www.baidu.com/s?wd=%E5%9F%83%E5%B0%94%E5%A4%9A%E5%AE%89%EF%BC%9A%E8%A5%BF%E6%96%B9%E6%B2%89%E9%BB%98%E6%81%B6%E5%8C%96%E5%8A%A0%E6%B2%99%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [微信更新聊天消息提示功能](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9B%B4%E6%96%B0%E8%81%8A%E5%A4%A9%E6%B6%88%E6%81%AF%E6%8F%90%E7%A4%BA%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [专家详解支原体肺炎治疗路径](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%AF%A6%E8%A7%A3%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%B2%BB%E7%96%97%E8%B7%AF%E5%BE%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加沙居民早起排队3小时抢面饼](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%B1%85%E6%B0%91%E6%97%A9%E8%B5%B7%E6%8E%92%E9%98%9F3%E5%B0%8F%E6%97%B6%E6%8A%A2%E9%9D%A2%E9%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣交警执法推倒电动车](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%BA%A4%E8%AD%A6%E6%89%A7%E6%B3%95%E6%8E%A8%E5%80%92%E7%94%B5%E5%8A%A8%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [中国作家海漄获2023雨果奖](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%9C%E5%AE%B6%E6%B5%B7%E6%BC%84%E8%8E%B72023%E9%9B%A8%E6%9E%9C%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济新亮点不断涌现](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E4%BA%AE%E7%82%B9%E4%B8%8D%E6%96%AD%E6%B6%8C%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [巴勒斯坦总统连说3遍我们不会离开](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%80%BB%E7%BB%9F%E8%BF%9E%E8%AF%B43%E9%81%8D%E6%88%91%E4%BB%AC%E4%B8%8D%E4%BC%9A%E7%A6%BB%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [法塔赫成员批美拱火巴以冲突](https://www.baidu.com/s?wd=%E6%B3%95%E5%A1%94%E8%B5%AB%E6%88%90%E5%91%98%E6%89%B9%E7%BE%8E%E6%8B%B1%E7%81%AB%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [微信更新聊天消息提示功能](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9B%B4%E6%96%B0%E8%81%8A%E5%A4%A9%E6%B6%88%E6%81%AF%E6%8F%90%E7%A4%BA%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [埃尔多安：西方沉默恶化加沙局势](https://www.baidu.com/s?wd=%E5%9F%83%E5%B0%94%E5%A4%9A%E5%AE%89%EF%BC%9A%E8%A5%BF%E6%96%B9%E6%B2%89%E9%BB%98%E6%81%B6%E5%8C%96%E5%8A%A0%E6%B2%99%E5%B1%80%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [微信更新聊天消息提示功能](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9B%B4%E6%96%B0%E8%81%8A%E5%A4%A9%E6%B6%88%E6%81%AF%E6%8F%90%E7%A4%BA%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [专家详解支原体肺炎治疗路径](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%AF%A6%E8%A7%A3%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%B2%BB%E7%96%97%E8%B7%AF%E5%BE%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加沙居民早起排队3小时抢面饼](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%B1%85%E6%B0%91%E6%97%A9%E8%B5%B7%E6%8E%92%E9%98%9F3%E5%B0%8F%E6%97%B6%E6%8A%A2%E9%9D%A2%E9%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣交警执法推倒电动车](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%BA%A4%E8%AD%A6%E6%89%A7%E6%B3%95%E6%8E%A8%E5%80%92%E7%94%B5%E5%8A%A8%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
