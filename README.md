@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 10:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 10:26:01</h4></div>
 
 > 微博  
 
-1. [小慧君胜诉](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%85%A7%E5%90%9B%E8%83%9C%E8%AF%89%23&t=31&band_rank=1&Refer=top)<br />
-2. [徐志胜说关晓彤不是以前的关晓彤了](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E8%AF%B4%E5%85%B3%E6%99%93%E5%BD%A4%E4%B8%8D%E6%98%AF%E4%BB%A5%E5%89%8D%E7%9A%84%E5%85%B3%E6%99%93%E5%BD%A4%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [徐志胜说关晓彤不是以前的关晓彤了](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E8%AF%B4%E5%85%B3%E6%99%93%E5%BD%A4%E4%B8%8D%E6%98%AF%E4%BB%A5%E5%89%8D%E7%9A%84%E5%85%B3%E6%99%93%E5%BD%A4%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [小慧君胜诉](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%85%A7%E5%90%9B%E8%83%9C%E8%AF%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [大道之行筑梦丝路](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%81%93%E4%B9%8B%E8%A1%8C%E7%AD%91%E6%A2%A6%E4%B8%9D%E8%B7%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [网红罗大美遇害案经过](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%BD%97%E5%A4%A7%E7%BE%8E%E9%81%87%E5%AE%B3%E6%A1%88%E7%BB%8F%E8%BF%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [妇联回应揭阳27岁已婚女子跳楼身亡](https://s.weibo.com/weibo?q=%23%E5%A6%87%E8%81%94%E5%9B%9E%E5%BA%94%E6%8F%AD%E9%98%B327%E5%B2%81%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%AD%90%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
