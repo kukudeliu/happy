@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 22:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-21 22:45:01</h4></div>
 
 > 微博  
 
-1. [张碧晨 撕裂](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%20%E6%92%95%E8%A3%82&t=31&band_rank=1&Refer=top)<br />
-2. [英国穷小子验DNA证明自己是富豪独子](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%A9%B7%E5%B0%8F%E5%AD%90%E9%AA%8CDNA%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E6%98%AF%E5%AF%8C%E8%B1%AA%E7%8B%AC%E5%AD%90%23&t=31&band_rank=2&Refer=top)<br />
+1. [英国穷小子验DNA证明自己是富豪独子](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%A9%B7%E5%B0%8F%E5%AD%90%E9%AA%8CDNA%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E6%98%AF%E5%AF%8C%E8%B1%AA%E7%8B%AC%E5%AD%90%23&t=31&band_rank=1&Refer=top)<br />
+2. [张碧晨 撕裂](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%20%E6%92%95%E8%A3%82&t=31&band_rank=2&Refer=top)<br />
 3. [2023大湾区音乐汇](https://s.weibo.com/weibo?q=%232023%E5%A4%A7%E6%B9%BE%E5%8C%BA%E9%9F%B3%E4%B9%90%E6%B1%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [段艺璇被砸](https://s.weibo.com/weibo?q=%23%E6%AE%B5%E8%89%BA%E7%92%87%E8%A2%AB%E7%A0%B8%23&t=31&band_rank=4&Refer=top)<br />
 5. [这就是街舞](https://s.weibo.com/weibo?q=%E8%BF%99%E5%B0%B1%E6%98%AF%E8%A1%97%E8%88%9E&t=31&band_rank=5&Refer=top)<br />
-6. [肺炎支原体感染11月或将迎感染高峰](https://s.weibo.com/weibo?q=%23%E8%82%BA%E7%82%8E%E6%94%AF%E5%8E%9F%E4%BD%93%E6%84%9F%E6%9F%9311%E6%9C%88%E6%88%96%E5%B0%86%E8%BF%8E%E6%84%9F%E6%9F%93%E9%AB%98%E5%B3%B0%23&t=31&band_rank=6&Refer=top)<br />
-7. [河边的错误 看完不走](https://s.weibo.com/weibo?q=%E6%B2%B3%E8%BE%B9%E7%9A%84%E9%94%99%E8%AF%AF%20%E7%9C%8B%E5%AE%8C%E4%B8%8D%E8%B5%B0&t=31&band_rank=7&Refer=top)<br />
+6. [被陈都灵美到轻声尖叫](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%99%88%E9%83%BD%E7%81%B5%E7%BE%8E%E5%88%B0%E8%BD%BB%E5%A3%B0%E5%B0%96%E5%8F%AB%23&t=31&band_rank=6&Refer=top)<br />
+7. [肺炎支原体感染11月或将迎感染高峰](https://s.weibo.com/weibo?q=%23%E8%82%BA%E7%82%8E%E6%94%AF%E5%8E%9F%E4%BD%93%E6%84%9F%E6%9F%9311%E6%9C%88%E6%88%96%E5%B0%86%E8%BF%8E%E6%84%9F%E6%9F%93%E9%AB%98%E5%B3%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [隐性饥饿正在偷走你的健康](https://s.weibo.com/weibo?q=%23%E9%9A%90%E6%80%A7%E9%A5%A5%E9%A5%BF%E6%AD%A3%E5%9C%A8%E5%81%B7%E8%B5%B0%E4%BD%A0%E7%9A%84%E5%81%A5%E5%BA%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [AG 上上签](https://s.weibo.com/weibo?q=AG%20%E4%B8%8A%E4%B8%8A%E7%AD%BE&t=31&band_rank=9&Refer=top)<br />
+9. [墨香铜臭](https://s.weibo.com/weibo?q=%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
