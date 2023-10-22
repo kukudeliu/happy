@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 16:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 16:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以色列再次空袭叙利亚两座机场](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%8D%E6%AC%A1%E7%A9%BA%E8%A2%AD%E5%8F%99%E5%88%A9%E4%BA%9A%E4%B8%A4%E5%BA%A7%E6%9C%BA%E5%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [支原体肺炎 鲜竹沥](https://s.weibo.com/weibo?q=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%20%E9%B2%9C%E7%AB%B9%E6%B2%A5&t=31&band_rank=7&Refer=top)<br />
 8. [KFC联名JOJO](https://s.weibo.com/weibo?q=%23KFC%E8%81%94%E5%90%8DJOJO%23&t=31&band_rank=8&Refer=top)<br />
-9. [伴郎接到手捧花瞬间奔向女友](https://s.weibo.com/weibo?q=%23%E4%BC%B4%E9%83%8E%E6%8E%A5%E5%88%B0%E6%89%8B%E6%8D%A7%E8%8A%B1%E7%9E%AC%E9%97%B4%E5%A5%94%E5%90%91%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [斗破苍穹](https://s.weibo.com/weibo?q=%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
