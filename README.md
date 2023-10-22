@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 11:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 11:44:02</h4></div>
 
 > 微博  
 
@@ -10,14 +10,14 @@
 6. [佛山电翰式化妆](https://s.weibo.com/weibo?q=%E4%BD%9B%E5%B1%B1%E7%94%B5%E7%BF%B0%E5%BC%8F%E5%8C%96%E5%A6%86&t=31&band_rank=6&Refer=top)<br />
 7. [爷爷奶奶有一千多万还在当保洁](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E6%9C%89%E4%B8%80%E5%8D%83%E5%A4%9A%E4%B8%87%E8%BF%98%E5%9C%A8%E5%BD%93%E4%BF%9D%E6%B4%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [佟丽娅董璇有孩子后的第一次闺蜜旅行](https://s.weibo.com/weibo?q=%23%E4%BD%9F%E4%B8%BD%E5%A8%85%E8%91%A3%E7%92%87%E6%9C%89%E5%AD%A9%E5%AD%90%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%97%BA%E8%9C%9C%E6%97%85%E8%A1%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [老人进店3次研究毛衣织法没被赶](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%BF%9B%E5%BA%973%E6%AC%A1%E7%A0%94%E7%A9%B6%E6%AF%9B%E8%A1%A3%E7%BB%87%E6%B3%95%E6%B2%A1%E8%A2%AB%E8%B5%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [所谓鬼压床不是鬼魂在作怪](https://s.weibo.com/weibo?q=%23%E6%89%80%E8%B0%93%E9%AC%BC%E5%8E%8B%E5%BA%8A%E4%B8%8D%E6%98%AF%E9%AC%BC%E9%AD%82%E5%9C%A8%E4%BD%9C%E6%80%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 
 > 百度  
 
-1. [奔向下一个金色十年](https://www.baidu.com/s?wd=%E5%A5%94%E5%90%91%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%87%91%E8%89%B2%E5%8D%81%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [众人拾柴火焰高 互帮互助走得远](https://www.baidu.com/s?wd=%E4%BC%97%E4%BA%BA%E6%8B%BE%E6%9F%B4%E7%81%AB%E7%84%B0%E9%AB%98+%E4%BA%92%E5%B8%AE%E4%BA%92%E5%8A%A9%E8%B5%B0%E5%BE%97%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [中国足协去年总负债12亿](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%8E%BB%E5%B9%B4%E6%80%BB%E8%B4%9F%E5%80%BA12%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [富士康旗下企业被查](https://www.baidu.com/s?wd=%E5%AF%8C%E5%A3%AB%E5%BA%B7%E6%97%97%E4%B8%8B%E4%BC%81%E4%B8%9A%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济新亮点不断涌现](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E4%BA%AE%E7%82%B9%E4%B8%8D%E6%96%AD%E6%B6%8C%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [奔向下一个金色十年](https://www.baidu.com/s?wd=%E5%A5%94%E5%90%91%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%87%91%E8%89%B2%E5%8D%81%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [众人拾柴火焰高 互帮互助走得远](https://www.baidu.com/s?wd=%E4%BC%97%E4%BA%BA%E6%8B%BE%E6%9F%B4%E7%81%AB%E7%84%B0%E9%AB%98+%E4%BA%92%E5%B8%AE%E4%BA%92%E5%8A%A9%E8%B5%B0%E5%BE%97%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [中国足协去年总负债12亿](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%8E%BB%E5%B9%B4%E6%80%BB%E8%B4%9F%E5%80%BA12%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [富士康旗下企业被查](https://www.baidu.com/s?wd=%E5%AF%8C%E5%A3%AB%E5%BA%B7%E6%97%97%E4%B8%8B%E4%BC%81%E4%B8%9A%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济新亮点不断涌现](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E4%BA%AE%E7%82%B9%E4%B8%8D%E6%96%AD%E6%B6%8C%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
