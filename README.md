@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 13:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 13:31:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [被男友用U型锁打死女子亲属发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%94%B7%E5%8F%8B%E7%94%A8U%E5%9E%8B%E9%94%81%E6%89%93%E6%AD%BB%E5%A5%B3%E5%AD%90%E4%BA%B2%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [爷爷奶奶有一千多万还在当保洁](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E6%9C%89%E4%B8%80%E5%8D%83%E5%A4%9A%E4%B8%87%E8%BF%98%E5%9C%A8%E5%BD%93%E4%BF%9D%E6%B4%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [独子去世离异父母各分走一半骨灰](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%AD%90%E5%8E%BB%E4%B8%96%E7%A6%BB%E5%BC%82%E7%88%B6%E6%AF%8D%E5%90%84%E5%88%86%E8%B5%B0%E4%B8%80%E5%8D%8A%E9%AA%A8%E7%81%B0%23&t=31&band_rank=7&Refer=top)<br />
-8. [兰博基尼被踩车主称不和解](https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E8%A2%AB%E8%B8%A9%E8%BD%A6%E4%B8%BB%E7%A7%B0%E4%B8%8D%E5%92%8C%E8%A7%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [菲船恶意碰瓷](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E8%88%B9%E6%81%B6%E6%84%8F%E7%A2%B0%E7%93%B7%23&t=31&band_rank=9&Refer=top)<br />
+8. [菲船恶意碰瓷](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E8%88%B9%E6%81%B6%E6%84%8F%E7%A2%B0%E7%93%B7%23&t=31&band_rank=8&Refer=top)<br />
+9. [兰博基尼被踩车主称不和解](https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E8%A2%AB%E8%B8%A9%E8%BD%A6%E4%B8%BB%E7%A7%B0%E4%B8%8D%E5%92%8C%E8%A7%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
