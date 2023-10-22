@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 16:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 16:39:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [学校回应男生校内晒秋裤被女生剪烂](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E6%A0%A1%E5%86%85%E6%99%92%E7%A7%8B%E8%A3%A4%E8%A2%AB%E5%A5%B3%E7%94%9F%E5%89%AA%E7%83%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [于文文问微信撤回为什么要留痕迹](https://www.baidu.com/s?wd=%E4%BA%8E%E6%96%87%E6%96%87%E9%97%AE%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%95%99%E7%97%95%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [倪妮“河南分妮”：喜提休假一周](https://www.baidu.com/s?wd=%E5%80%AA%E5%A6%AE%E2%80%9C%E6%B2%B3%E5%8D%97%E5%88%86%E5%A6%AE%E2%80%9D%EF%BC%9A%E5%96%9C%E6%8F%90%E4%BC%91%E5%81%87%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [埃及女子怒喷CNN记者偏袒以色列](https://www.baidu.com/s?wd=%E5%9F%83%E5%8F%8A%E5%A5%B3%E5%AD%90%E6%80%92%E5%96%B7CNN%E8%AE%B0%E8%80%85%E5%81%8F%E8%A2%92%E4%BB%A5%E8%89%B2%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [爷爷奶奶有一千多万还在当保洁](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E6%9C%89%E4%B8%80%E5%8D%83%E5%A4%9A%E4%B8%87%E8%BF%98%E5%9C%A8%E5%BD%93%E4%BF%9D%E6%B4%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣执法人员开车偷红高粱](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%89%A7%E6%B3%95%E4%BA%BA%E5%91%98%E5%BC%80%E8%BD%A6%E5%81%B7%E7%BA%A2%E9%AB%98%E7%B2%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [学校回应男生校内晒秋裤被女生剪烂](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E6%A0%A1%E5%86%85%E6%99%92%E7%A7%8B%E8%A3%A4%E8%A2%AB%E5%A5%B3%E7%94%9F%E5%89%AA%E7%83%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [于文文问微信撤回为什么要留痕迹](https://www.baidu.com/s?wd=%E4%BA%8E%E6%96%87%E6%96%87%E9%97%AE%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%95%99%E7%97%95%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [倪妮“河南分妮”：喜提休假一周](https://www.baidu.com/s?wd=%E5%80%AA%E5%A6%AE%E2%80%9C%E6%B2%B3%E5%8D%97%E5%88%86%E5%A6%AE%E2%80%9D%EF%BC%9A%E5%96%9C%E6%8F%90%E4%BC%91%E5%81%87%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [埃及女子怒喷CNN记者偏袒以色列](https://www.baidu.com/s?wd=%E5%9F%83%E5%8F%8A%E5%A5%B3%E5%AD%90%E6%80%92%E5%96%B7CNN%E8%AE%B0%E8%80%85%E5%81%8F%E8%A2%92%E4%BB%A5%E8%89%B2%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [爷爷奶奶有一千多万还在当保洁](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E6%9C%89%E4%B8%80%E5%8D%83%E5%A4%9A%E4%B8%87%E8%BF%98%E5%9C%A8%E5%BD%93%E4%BF%9D%E6%B4%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣执法人员开车偷红高粱](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%89%A7%E6%B3%95%E4%BA%BA%E5%91%98%E5%BC%80%E8%BD%A6%E5%81%B7%E7%BA%A2%E9%AB%98%E7%B2%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
