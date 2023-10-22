@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 10:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 10:32:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [富士康](https://s.weibo.com/weibo?q=%E5%AF%8C%E5%A3%AB%E5%BA%B7&t=31&band_rank=6&Refer=top)<br />
 7. [佟丽娅董璇有孩子后的第一次闺蜜旅行](https://s.weibo.com/weibo?q=%23%E4%BD%9F%E4%B8%BD%E5%A8%85%E8%91%A3%E7%92%87%E6%9C%89%E5%AD%A9%E5%AD%90%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%97%BA%E8%9C%9C%E6%97%85%E8%A1%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [乌尔善 封神是群像戏](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%20%E5%B0%81%E7%A5%9E%E6%98%AF%E7%BE%A4%E5%83%8F%E6%88%8F&t=31&band_rank=8&Refer=top)<br />
-9. [第一次参加新疆小男生的割礼宴](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%82%E5%8A%A0%E6%96%B0%E7%96%86%E5%B0%8F%E7%94%B7%E7%94%9F%E7%9A%84%E5%89%B2%E7%A4%BC%E5%AE%B4&t=31&band_rank=9&Refer=top)<br />
+9. [老人进店3次研究毛衣织法没被赶](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%BF%9B%E5%BA%973%E6%AC%A1%E7%A0%94%E7%A9%B6%E6%AF%9B%E8%A1%A3%E7%BB%87%E6%B3%95%E6%B2%A1%E8%A2%AB%E8%B5%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
