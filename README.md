@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 12:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 12:55:01</h4></div>
 
 > 微博  
 
-1. [支原体肺炎 鲜竹沥](https://s.weibo.com/weibo?q=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%20%E9%B2%9C%E7%AB%B9%E6%B2%A5&t=31&band_rank=1&Refer=top)<br />
-2. [儿子溺亡16年后爸爸跳河救人牺牲](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E6%BA%BA%E4%BA%A116%E5%B9%B4%E5%90%8E%E7%88%B8%E7%88%B8%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E7%89%BA%E7%89%B2%23&t=31&band_rank=2&Refer=top)<br />
+1. [儿子溺亡16年后爸爸跳河救人牺牲](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E6%BA%BA%E4%BA%A116%E5%B9%B4%E5%90%8E%E7%88%B8%E7%88%B8%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E7%89%BA%E7%89%B2%23&t=31&band_rank=1&Refer=top)<br />
+2. [支原体肺炎 鲜竹沥](https://s.weibo.com/weibo?q=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%20%E9%B2%9C%E7%AB%B9%E6%B2%A5&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚残运会中国队全家福](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A8%E5%AE%B6%E7%A6%8F%23&t=31&band_rank=3&Refer=top)<br />
 4. [她怎么突然就美了](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E6%80%8E%E4%B9%88%E7%AA%81%E7%84%B6%E5%B0%B1%E7%BE%8E%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [兰博基尼被踩车主称不和解](https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E8%A2%AB%E8%B8%A9%E8%BD%A6%E4%B8%BB%E7%A7%B0%E4%B8%8D%E5%92%8C%E8%A7%A3%23&t=31&band_rank=5&Refer=top)<br />
