@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 08:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 08:32:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [医生劝半个多小时不让走救回一条命](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8A%9D%E5%8D%8A%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%E4%B8%8D%E8%AE%A9%E8%B5%B0%E6%95%91%E5%9B%9E%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [27岁了最爱的还是小孩菜](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E4%BA%86%E6%9C%80%E7%88%B1%E7%9A%84%E8%BF%98%E6%98%AF%E5%B0%8F%E5%AD%A9%E8%8F%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [何炅说第一次见黄子韬是19岁](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%AF%B4%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E9%BB%84%E5%AD%90%E9%9F%AC%E6%98%AF19%E5%B2%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [隐性饥饿正在偷走你的健康](https://s.weibo.com/weibo?q=%23%E9%9A%90%E6%80%A7%E9%A5%A5%E9%A5%BF%E6%AD%A3%E5%9C%A8%E5%81%B7%E8%B5%B0%E4%BD%A0%E7%9A%84%E5%81%A5%E5%BA%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [张韶涵硬刚主办方](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E7%A1%AC%E5%88%9A%E4%B8%BB%E5%8A%9E%E6%96%B9%23&t=31&band_rank=9&Refer=top)<br />
+8. [张韶涵硬刚主办方](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E7%A1%AC%E5%88%9A%E4%B8%BB%E5%8A%9E%E6%96%B9%23&t=31&band_rank=8&Refer=top)<br />
+9. [隐性饥饿正在偷走你的健康](https://s.weibo.com/weibo?q=%23%E9%9A%90%E6%80%A7%E9%A5%A5%E9%A5%BF%E6%AD%A3%E5%9C%A8%E5%81%B7%E8%B5%B0%E4%BD%A0%E7%9A%84%E5%81%A5%E5%BA%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
