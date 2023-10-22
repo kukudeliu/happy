@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 12:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 12:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国足协负债12亿](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E8%B4%9F%E5%80%BA12%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [所谓鬼压床不是鬼魂在作怪](https://s.weibo.com/weibo?q=%23%E6%89%80%E8%B0%93%E9%AC%BC%E5%8E%8B%E5%BA%8A%E4%B8%8D%E6%98%AF%E9%AC%BC%E9%AD%82%E5%9C%A8%E4%BD%9C%E6%80%AA%23&t=31&band_rank=7&Refer=top)<br />
 8. [河边的错误 一千个人一亿个哈姆雷特](https://s.weibo.com/weibo?q=%E6%B2%B3%E8%BE%B9%E7%9A%84%E9%94%99%E8%AF%AF%20%E4%B8%80%E5%8D%83%E4%B8%AA%E4%BA%BA%E4%B8%80%E4%BA%BF%E4%B8%AA%E5%93%88%E5%A7%86%E9%9B%B7%E7%89%B9&t=31&band_rank=8&Refer=top)<br />
-9. [佛山电翰式化妆](https://s.weibo.com/weibo?q=%E4%BD%9B%E5%B1%B1%E7%94%B5%E7%BF%B0%E5%BC%8F%E5%8C%96%E5%A6%86&t=31&band_rank=9&Refer=top)<br />
+9. [爷爷奶奶有一千多万还在当保洁](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E6%9C%89%E4%B8%80%E5%8D%83%E5%A4%9A%E4%B8%87%E8%BF%98%E5%9C%A8%E5%BD%93%E4%BF%9D%E6%B4%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
