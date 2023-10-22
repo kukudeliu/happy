@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 00:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 00:58:01</h4></div>
 
 > 微博  
 
 1. [27岁女子长期横向刷牙致牙齿缺损](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A5%B3%E5%AD%90%E9%95%BF%E6%9C%9F%E6%A8%AA%E5%90%91%E5%88%B7%E7%89%99%E8%87%B4%E7%89%99%E9%BD%BF%E7%BC%BA%E6%8D%9F%23&t=31&band_rank=1&Refer=top)<br />
-2. [甘肃酒泉4.7级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%85%92%E6%B3%894.7%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top)<br />
+2. [薛之谦扔戒指](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%89%94%E6%88%92%E6%8C%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [未来15年中国深空探测十大工程](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%9D%A515%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%B7%B1%E7%A9%BA%E6%8E%A2%E6%B5%8B%E5%8D%81%E5%A4%A7%E5%B7%A5%E7%A8%8B%23&t=31&band_rank=3&Refer=top)<br />
-4. [薛之谦扔戒指](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%89%94%E6%88%92%E6%8C%87%23&t=31&band_rank=4&Refer=top)<br />
+4. [甘肃酒泉4.7级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%85%92%E6%B3%894.7%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [乌尔善说封神第二部剪辑已完成](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B0%94%E5%96%84%E8%AF%B4%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%89%AA%E8%BE%91%E5%B7%B2%E5%AE%8C%E6%88%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [可可西里野狼被游客投喂胖成网红](https://s.weibo.com/weibo?q=%23%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E9%87%8E%E7%8B%BC%E8%A2%AB%E6%B8%B8%E5%AE%A2%E6%8A%95%E5%96%82%E8%83%96%E6%88%90%E7%BD%91%E7%BA%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [郭麒麟说我有点儿可怜我爸](https://s.weibo.com/weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E8%AF%B4%E6%88%91%E6%9C%89%E7%82%B9%E5%84%BF%E5%8F%AF%E6%80%9C%E6%88%91%E7%88%B8%23&t=31&band_rank=7&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [花花挣的工资有一大半是委屈费](https://www.baidu.com/s?wd=%E8%8A%B1%E8%8A%B1%E6%8C%A3%E7%9A%84%E5%B7%A5%E8%B5%84%E6%9C%89%E4%B8%80%E5%A4%A7%E5%8D%8A%E6%98%AF%E5%A7%94%E5%B1%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [27岁女子长期横向刷牙致牙齿缺损](https://www.baidu.com/s?wd=27%E5%B2%81%E5%A5%B3%E5%AD%90%E9%95%BF%E6%9C%9F%E6%A8%AA%E5%90%91%E5%88%B7%E7%89%99%E8%87%B4%E7%89%99%E9%BD%BF%E7%BC%BA%E6%8D%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子离婚开庭前强闯幼儿园抱走孩子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%BC%80%E5%BA%AD%E5%89%8D%E5%BC%BA%E9%97%AF%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%8A%B1%E8%B5%B0%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [于文文问微信撤回为什么要留痕迹](https://www.baidu.com/s?wd=%E4%BA%8E%E6%96%87%E6%96%87%E9%97%AE%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%95%99%E7%97%95%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [可可西里一头狼被投喂变胖成网红](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E4%B8%80%E5%A4%B4%E7%8B%BC%E8%A2%AB%E6%8A%95%E5%96%82%E5%8F%98%E8%83%96%E6%88%90%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣执法人员开车偷红高粱](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%89%A7%E6%B3%95%E4%BA%BA%E5%91%98%E5%BC%80%E8%BD%A6%E5%81%B7%E7%BA%A2%E9%AB%98%E7%B2%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [花花挣的工资有一大半是委屈费](https://www.baidu.com/s?wd=%E8%8A%B1%E8%8A%B1%E6%8C%A3%E7%9A%84%E5%B7%A5%E8%B5%84%E6%9C%89%E4%B8%80%E5%A4%A7%E5%8D%8A%E6%98%AF%E5%A7%94%E5%B1%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [27岁女子长期横向刷牙致牙齿缺损](https://www.baidu.com/s?wd=27%E5%B2%81%E5%A5%B3%E5%AD%90%E9%95%BF%E6%9C%9F%E6%A8%AA%E5%90%91%E5%88%B7%E7%89%99%E8%87%B4%E7%89%99%E9%BD%BF%E7%BC%BA%E6%8D%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子离婚开庭前强闯幼儿园抱走孩子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%BC%80%E5%BA%AD%E5%89%8D%E5%BC%BA%E9%97%AF%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%8A%B1%E8%B5%B0%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [于文文问微信撤回为什么要留痕迹](https://www.baidu.com/s?wd=%E4%BA%8E%E6%96%87%E6%96%87%E9%97%AE%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%95%99%E7%97%95%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [可可西里一头狼被投喂变胖成网红](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E4%B8%80%E5%A4%B4%E7%8B%BC%E8%A2%AB%E6%8A%95%E5%96%82%E5%8F%98%E8%83%96%E6%88%90%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣执法人员开车偷红高粱](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%89%A7%E6%B3%95%E4%BA%BA%E5%91%98%E5%BC%80%E8%BD%A6%E5%81%B7%E7%BA%A2%E9%AB%98%E7%B2%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
