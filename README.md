@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 20:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 20:51:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [30岁有十万存款算什么水平](https://s.weibo.com/weibo?q=%2330%E5%B2%81%E6%9C%89%E5%8D%81%E4%B8%87%E5%AD%98%E6%AC%BE%E7%AE%97%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=2&Refer=top)<br />
 3. [揭秘太空菜园的栽培神器](https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E5%A4%AA%E7%A9%BA%E8%8F%9C%E5%9B%AD%E7%9A%84%E6%A0%BD%E5%9F%B9%E7%A5%9E%E5%99%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [周也清水妆](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E6%B8%85%E6%B0%B4%E5%A6%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [WBG掉入瑞士轮生死局](https://s.weibo.com/weibo?q=%23WBG%E6%8E%89%E5%85%A5%E7%91%9E%E5%A3%AB%E8%BD%AE%E7%94%9F%E6%AD%BB%E5%B1%80%23&t=31&band_rank=5&Refer=top)<br />
-6. [于文文问微信撤回为什么要留痕迹](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E9%97%AE%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%95%99%E7%97%95%E8%BF%B9%23&t=31&band_rank=6&Refer=top)<br />
+5. [于文文问微信撤回为什么要留痕迹](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E9%97%AE%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%95%99%E7%97%95%E8%BF%B9%23&t=31&band_rank=5&Refer=top)<br />
+6. [WBG掉入瑞士轮生死局](https://s.weibo.com/weibo?q=%23WBG%E6%8E%89%E5%85%A5%E7%91%9E%E5%A3%AB%E8%BD%AE%E7%94%9F%E6%AD%BB%E5%B1%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [钟楚曦张云龙合拍剧宣](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E5%BC%A0%E4%BA%91%E9%BE%99%E5%90%88%E6%8B%8D%E5%89%A7%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [最贵不到30块的平价美妆单品](https://s.weibo.com/weibo?q=%E6%9C%80%E8%B4%B5%E4%B8%8D%E5%88%B030%E5%9D%97%E7%9A%84%E5%B9%B3%E4%BB%B7%E7%BE%8E%E5%A6%86%E5%8D%95%E5%93%81&t=31&band_rank=8&Refer=top)<br />
 9. [张晚意 致玱玹](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%99%9A%E6%84%8F%20%E8%87%B4%E7%8E%B1%E7%8E%B9&t=31&band_rank=9&Refer=top)<br />
