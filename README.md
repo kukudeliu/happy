@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 15:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 15:42:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [独子去世离异父母各分走一半骨灰](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%AD%90%E5%8E%BB%E4%B8%96%E7%A6%BB%E5%BC%82%E7%88%B6%E6%AF%8D%E5%90%84%E5%88%86%E8%B5%B0%E4%B8%80%E5%8D%8A%E9%AA%A8%E7%81%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [以色列再次空袭叙利亚两座机场](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%8D%E6%AC%A1%E7%A9%BA%E8%A2%AD%E5%8F%99%E5%88%A9%E4%BA%9A%E4%B8%A4%E5%BA%A7%E6%9C%BA%E5%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [支原体肺炎 鲜竹沥](https://s.weibo.com/weibo?q=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%20%E9%B2%9C%E7%AB%B9%E6%B2%A5&t=31&band_rank=7&Refer=top)<br />
-8. [海顿格温去世](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E9%A1%BF%E6%A0%BC%E6%B8%A9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [儿子溺亡16年后爸爸跳河救人牺牲](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E6%BA%BA%E4%BA%A116%E5%B9%B4%E5%90%8E%E7%88%B8%E7%88%B8%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E7%89%BA%E7%89%B2%23&t=31&band_rank=9&Refer=top)<br />
+8. [KFC联名JOJO](https://s.weibo.com/weibo?q=%23KFC%E8%81%94%E5%90%8DJOJO%23&t=31&band_rank=8&Refer=top)<br />
+9. [海顿格温去世](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E9%A1%BF%E6%A0%BC%E6%B8%A9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
