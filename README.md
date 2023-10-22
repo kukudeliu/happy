@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 13:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 13:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [兰博基尼被踩车主称不和解](https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E8%A2%AB%E8%B8%A9%E8%BD%A6%E4%B8%BB%E7%A7%B0%E4%B8%8D%E5%92%8C%E8%A7%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [爷爷奶奶有一千多万还在当保洁](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E6%9C%89%E4%B8%80%E5%8D%83%E5%A4%9A%E4%B8%87%E8%BF%98%E5%9C%A8%E5%BD%93%E4%BF%9D%E6%B4%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [徐志胜就是黄子韬的报应吧](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E5%B0%B1%E6%98%AF%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9A%84%E6%8A%A5%E5%BA%94%E5%90%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国足协负债12亿](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E8%B4%9F%E5%80%BA12%E4%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [独子去世离异父母各分走一半骨灰](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%AD%90%E5%8E%BB%E4%B8%96%E7%A6%BB%E5%BC%82%E7%88%B6%E6%AF%8D%E5%90%84%E5%88%86%E8%B5%B0%E4%B8%80%E5%8D%8A%E9%AA%A8%E7%81%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
