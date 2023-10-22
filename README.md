@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 22:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 22:28:01</h4></div>
 
 > 微博  
 
@@ -18,10 +18,10 @@
 > 百度  
 
 1. [共建一带一路走的是人间正道](https://www.baidu.com/s?wd=%E5%85%B1%E5%BB%BA%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E8%B5%B0%E7%9A%84%E6%98%AF%E4%BA%BA%E9%97%B4%E6%AD%A3%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [外交部回应中国海警拦阻菲律宾船只](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E6%8B%A6%E9%98%BB%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%88%B9%E5%8F%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [妈妈给50万读书钱 19岁儿子全转女友](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E7%BB%9950%E4%B8%87%E8%AF%BB%E4%B9%A6%E9%92%B1+19%E5%B2%81%E5%84%BF%E5%AD%90%E5%85%A8%E8%BD%AC%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [巴勒斯坦代表团比V字手势入场](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%AF%94V%E5%AD%97%E6%89%8B%E5%8A%BF%E5%85%A5%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [同享大健康 共赴新时代](https://www.baidu.com/s?wd=%E5%90%8C%E4%BA%AB%E5%A4%A7%E5%81%A5%E5%BA%B7+%E5%85%B1%E8%B5%B4%E6%96%B0%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [菲律宾船只蓄意挑事现场画面曝光](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%88%B9%E5%8F%AA%E8%93%84%E6%84%8F%E6%8C%91%E4%BA%8B%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [外交部回应中国海警拦阻菲律宾船只](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E6%8B%A6%E9%98%BB%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%88%B9%E5%8F%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [可可西里一头狼被投喂变胖成网红](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E4%B8%80%E5%A4%B4%E7%8B%BC%E8%A2%AB%E6%8A%95%E5%96%82%E5%8F%98%E8%83%96%E6%88%90%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [于文文问微信撤回为什么要留痕迹](https://www.baidu.com/s?wd=%E4%BA%8E%E6%96%87%E6%96%87%E9%97%AE%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%95%99%E7%97%95%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [团伙用26000部手机刷直播间人气](https://www.baidu.com/s?wd=%E5%9B%A2%E4%BC%99%E7%94%A826000%E9%83%A8%E6%89%8B%E6%9C%BA%E5%88%B7%E7%9B%B4%E6%92%AD%E9%97%B4%E4%BA%BA%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,10 +30,10 @@
 > 哔哩哔哩  
 
 1. [共建一带一路走的是人间正道](https://www.baidu.com/s?wd=%E5%85%B1%E5%BB%BA%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E8%B5%B0%E7%9A%84%E6%98%AF%E4%BA%BA%E9%97%B4%E6%AD%A3%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [外交部回应中国海警拦阻菲律宾船只](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E6%8B%A6%E9%98%BB%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%88%B9%E5%8F%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [妈妈给50万读书钱 19岁儿子全转女友](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E7%BB%9950%E4%B8%87%E8%AF%BB%E4%B9%A6%E9%92%B1+19%E5%B2%81%E5%84%BF%E5%AD%90%E5%85%A8%E8%BD%AC%E5%A5%B3%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [巴勒斯坦代表团比V字手势入场](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%AF%94V%E5%AD%97%E6%89%8B%E5%8A%BF%E5%85%A5%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [同享大健康 共赴新时代](https://www.baidu.com/s?wd=%E5%90%8C%E4%BA%AB%E5%A4%A7%E5%81%A5%E5%BA%B7+%E5%85%B1%E8%B5%B4%E6%96%B0%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [菲律宾船只蓄意挑事现场画面曝光](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%88%B9%E5%8F%AA%E8%93%84%E6%84%8F%E6%8C%91%E4%BA%8B%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [外交部回应中国海警拦阻菲律宾船只](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E6%8B%A6%E9%98%BB%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%88%B9%E5%8F%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [可可西里一头狼被投喂变胖成网红](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E4%B8%80%E5%A4%B4%E7%8B%BC%E8%A2%AB%E6%8A%95%E5%96%82%E5%8F%98%E8%83%96%E6%88%90%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [于文文问微信撤回为什么要留痕迹](https://www.baidu.com/s?wd=%E4%BA%8E%E6%96%87%E6%96%87%E9%97%AE%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%95%99%E7%97%95%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [团伙用26000部手机刷直播间人气](https://www.baidu.com/s?wd=%E5%9B%A2%E4%BC%99%E7%94%A826000%E9%83%A8%E6%89%8B%E6%9C%BA%E5%88%B7%E7%9B%B4%E6%92%AD%E9%97%B4%E4%BA%BA%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
