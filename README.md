@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 10:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 10:06:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [她怎么突然就美了](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E6%80%8E%E4%B9%88%E7%AA%81%E7%84%B6%E5%B0%B1%E7%BE%8E%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [依法对富士康旗下企业税务稽查](https://s.weibo.com/weibo?q=%23%E4%BE%9D%E6%B3%95%E5%AF%B9%E5%AF%8C%E5%A3%AB%E5%BA%B7%E6%97%97%E4%B8%8B%E4%BC%81%E4%B8%9A%E7%A8%8E%E5%8A%A1%E7%A8%BD%E6%9F%A5%23&t=31&band_rank=5&Refer=top)<br />
 6. [佟丽娅董璇有孩子后的第一次闺蜜旅行](https://s.weibo.com/weibo?q=%23%E4%BD%9F%E4%B8%BD%E5%A8%85%E8%91%A3%E7%92%87%E6%9C%89%E5%AD%A9%E5%AD%90%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%97%BA%E8%9C%9C%E6%97%85%E8%A1%8C%23&t=31&band_rank=6&Refer=top)<br />
-7. [富士康](https://s.weibo.com/weibo?q=%E5%AF%8C%E5%A3%AB%E5%BA%B7&t=31&band_rank=7&Refer=top)<br />
-8. [爷爷奶奶有一千多万还在当保洁](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E6%9C%89%E4%B8%80%E5%8D%83%E5%A4%9A%E4%B8%87%E8%BF%98%E5%9C%A8%E5%BD%93%E4%BF%9D%E6%B4%81%23&t=31&band_rank=8&Refer=top)<br />
+7. [爷爷奶奶有一千多万还在当保洁](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E6%9C%89%E4%B8%80%E5%8D%83%E5%A4%9A%E4%B8%87%E8%BF%98%E5%9C%A8%E5%BD%93%E4%BF%9D%E6%B4%81%23&t=31&band_rank=7&Refer=top)<br />
+8. [富士康](https://s.weibo.com/weibo?q=%E5%AF%8C%E5%A3%AB%E5%BA%B7&t=31&band_rank=8&Refer=top)<br />
 9. [中国短道速滑2000米混合接力金牌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%912000%E7%B1%B3%E6%B7%B7%E5%90%88%E6%8E%A5%E5%8A%9B%E9%87%91%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
