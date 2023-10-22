@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 22:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 22:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张栋梁的名字被哥哥们玩坏了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A0%8B%E6%A2%81%E7%9A%84%E5%90%8D%E5%AD%97%E8%A2%AB%E5%93%A5%E5%93%A5%E4%BB%AC%E7%8E%A9%E5%9D%8F%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [原来薛之谦戚薇刘维早都认识了](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%9A%E8%96%87%E5%88%98%E7%BB%B4%E6%97%A9%E9%83%BD%E8%AE%A4%E8%AF%86%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [Xiaohu伏地魔](https://s.weibo.com/weibo?q=%23Xiaohu%E4%BC%8F%E5%9C%B0%E9%AD%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [巴以冲突超5800人死亡](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E8%B6%855800%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [丁程鑫秦霄贤去看黄明昊演唱会](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%8E%BB%E7%9C%8B%E9%BB%84%E6%98%8E%E6%98%8A%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
