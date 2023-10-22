@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 11:01:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 11:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [老人进店3次研究毛衣织法没被赶](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%BF%9B%E5%BA%973%E6%AC%A1%E7%A0%94%E7%A9%B6%E6%AF%9B%E8%A1%A3%E7%BB%87%E6%B3%95%E6%B2%A1%E8%A2%AB%E8%B5%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [佟丽娅董璇有孩子后的第一次闺蜜旅行](https://s.weibo.com/weibo?q=%23%E4%BD%9F%E4%B8%BD%E5%A8%85%E8%91%A3%E7%92%87%E6%9C%89%E5%AD%A9%E5%AD%90%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%97%BA%E8%9C%9C%E6%97%85%E8%A1%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [倪妮河南分妮最近火了](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E6%B2%B3%E5%8D%97%E5%88%86%E5%A6%AE%E6%9C%80%E8%BF%91%E7%81%AB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [肿眼泡消肿](https://s.weibo.com/weibo?q=%E8%82%BF%E7%9C%BC%E6%B3%A1%E6%B6%88%E8%82%BF&t=31&band_rank=9&Refer=top)<br />
+9. [如何快速失去所有朋友](https://s.weibo.com/weibo?q=%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E5%A4%B1%E5%8E%BB%E6%89%80%E6%9C%89%E6%9C%8B%E5%8F%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
