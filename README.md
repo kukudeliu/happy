@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 19:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 19:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [于文文问微信撤回为什么要留痕迹](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E9%97%AE%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%95%99%E7%97%95%E8%BF%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [富一代和富二代的认知差距](https://s.weibo.com/weibo?q=%23%E5%AF%8C%E4%B8%80%E4%BB%A3%E5%92%8C%E5%AF%8C%E4%BA%8C%E4%BB%A3%E7%9A%84%E8%AE%A4%E7%9F%A5%E5%B7%AE%E8%B7%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [2万6千部手机刷直播间人气](https://s.weibo.com/weibo?q=%232%E4%B8%876%E5%8D%83%E9%83%A8%E6%89%8B%E6%9C%BA%E5%88%B7%E7%9B%B4%E6%92%AD%E9%97%B4%E4%BA%BA%E6%B0%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [饶雪漫 丁真就是全场最靓的电灯泡](https://s.weibo.com/weibo?q=%E9%A5%B6%E9%9B%AA%E6%BC%AB%20%E4%B8%81%E7%9C%9F%E5%B0%B1%E6%98%AF%E5%85%A8%E5%9C%BA%E6%9C%80%E9%9D%93%E7%9A%84%E7%94%B5%E7%81%AF%E6%B3%A1&t=31&band_rank=9&Refer=top)<br />
+9. [他没任何犹豫徒手拎出喷火煤气罐](https://s.weibo.com/weibo?q=%23%E4%BB%96%E6%B2%A1%E4%BB%BB%E4%BD%95%E7%8A%B9%E8%B1%AB%E5%BE%92%E6%89%8B%E6%8B%8E%E5%87%BA%E5%96%B7%E7%81%AB%E7%85%A4%E6%B0%94%E7%BD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
