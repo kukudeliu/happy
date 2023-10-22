@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 13:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 13:52:02</h4></div>
 
 > 微博  
 
-1. [儿子溺亡16年后爸爸跳河救人牺牲](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E6%BA%BA%E4%BA%A116%E5%B9%B4%E5%90%8E%E7%88%B8%E7%88%B8%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E7%89%BA%E7%89%B2%23&t=31&band_rank=1&Refer=top)<br />
-2. [被男友用U型锁打死女子亲属发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%94%B7%E5%8F%8B%E7%94%A8U%E5%9E%8B%E9%94%81%E6%89%93%E6%AD%BB%E5%A5%B3%E5%AD%90%E4%BA%B2%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=2&Refer=top)<br />
+1. [被男友用U型锁打死女子亲属发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%94%B7%E5%8F%8B%E7%94%A8U%E5%9E%8B%E9%94%81%E6%89%93%E6%AD%BB%E5%A5%B3%E5%AD%90%E4%BA%B2%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=1&Refer=top)<br />
+2. [儿子溺亡16年后爸爸跳河救人牺牲](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E6%BA%BA%E4%BA%A116%E5%B9%B4%E5%90%8E%E7%88%B8%E7%88%B8%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E7%89%BA%E7%89%B2%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚残运会中国队全家福](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A8%E5%AE%B6%E7%A6%8F%23&t=31&band_rank=3&Refer=top)<br />
 4. [她怎么突然就美了](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E6%80%8E%E4%B9%88%E7%AA%81%E7%84%B6%E5%B0%B1%E7%BE%8E%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [独子去世离异父母各分走一半骨灰](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%AD%90%E5%8E%BB%E4%B8%96%E7%A6%BB%E5%BC%82%E7%88%B6%E6%AF%8D%E5%90%84%E5%88%86%E8%B5%B0%E4%B8%80%E5%8D%8A%E9%AA%A8%E7%81%B0%23&t=31&band_rank=5&Refer=top)<br />
