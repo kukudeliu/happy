@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 04:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 04:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [乌尔善说封神第二部剪辑已完成](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B0%94%E5%96%84%E8%AF%B4%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%89%AA%E8%BE%91%E5%B7%B2%E5%AE%8C%E6%88%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [学校里的小狗 随地大小睡](https://s.weibo.com/weibo?q=%E5%AD%A6%E6%A0%A1%E9%87%8C%E7%9A%84%E5%B0%8F%E7%8B%97%20%E9%9A%8F%E5%9C%B0%E5%A4%A7%E5%B0%8F%E7%9D%A1&t=31&band_rank=7&Refer=top)<br />
 8. [于文文问微信撤回为什么要留痕迹](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E9%97%AE%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%95%99%E7%97%95%E8%BF%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [郭麒麟说我有点儿可怜我爸](https://s.weibo.com/weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E8%AF%B4%E6%88%91%E6%9C%89%E7%82%B9%E5%84%BF%E5%8F%AF%E6%80%9C%E6%88%91%E7%88%B8%23&t=31&band_rank=9&Refer=top)<br />
+9. [曾舜晞录综艺带了10套衣服](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%E5%BD%95%E7%BB%BC%E8%89%BA%E5%B8%A6%E4%BA%8610%E5%A5%97%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
