@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 05:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 05:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女子突发腹痛公交司机停车救人](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%AA%81%E5%8F%91%E8%85%B9%E7%97%9B%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E5%81%9C%E8%BD%A6%E6%95%91%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [初中生拉开同学座椅致其后仰摔成重伤](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%AD%E7%94%9F%E6%8B%89%E5%BC%80%E5%90%8C%E5%AD%A6%E5%BA%A7%E6%A4%85%E8%87%B4%E5%85%B6%E5%90%8E%E4%BB%B0%E6%91%94%E6%88%90%E9%87%8D%E4%BC%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [学校里的小狗 随地大小睡](https://s.weibo.com/weibo?q=%E5%AD%A6%E6%A0%A1%E9%87%8C%E7%9A%84%E5%B0%8F%E7%8B%97%20%E9%9A%8F%E5%9C%B0%E5%A4%A7%E5%B0%8F%E7%9D%A1&t=31&band_rank=8&Refer=top)<br />
-9. [乌尔善说封神第二部剪辑已完成](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B0%94%E5%96%84%E8%AF%B4%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%89%AA%E8%BE%91%E5%B7%B2%E5%AE%8C%E6%88%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [于文文问微信撤回为什么要留痕迹](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E9%97%AE%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%95%99%E7%97%95%E8%BF%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
