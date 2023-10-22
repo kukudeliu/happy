@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 07:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 07:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [可可西里野狼被游客投喂胖成网红](https://s.weibo.com/weibo?q=%23%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E9%87%8E%E7%8B%BC%E8%A2%AB%E6%B8%B8%E5%AE%A2%E6%8A%95%E5%96%82%E8%83%96%E6%88%90%E7%BD%91%E7%BA%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [甘肃酒泉4.7级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%85%92%E6%B3%894.7%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子突发腹痛公交司机停车救人](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%AA%81%E5%8F%91%E8%85%B9%E7%97%9B%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E5%81%9C%E8%BD%A6%E6%95%91%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [初中生拉开同学座椅致其后仰摔成重伤](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%AD%E7%94%9F%E6%8B%89%E5%BC%80%E5%90%8C%E5%AD%A6%E5%BA%A7%E6%A4%85%E8%87%B4%E5%85%B6%E5%90%8E%E4%BB%B0%E6%91%94%E6%88%90%E9%87%8D%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [河边的错误票房破9000万](https://s.weibo.com/weibo?q=%E6%B2%B3%E8%BE%B9%E7%9A%84%E9%94%99%E8%AF%AF%E7%A5%A8%E6%88%BF%E7%A0%B49000%E4%B8%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
