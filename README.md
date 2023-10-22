@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 03:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 03:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [学校里的小狗 随地大小睡](https://s.weibo.com/weibo?q=%E5%AD%A6%E6%A0%A1%E9%87%8C%E7%9A%84%E5%B0%8F%E7%8B%97%20%E9%9A%8F%E5%9C%B0%E5%A4%A7%E5%B0%8F%E7%9D%A1&t=31&band_rank=6&Refer=top)<br />
 7. [可可西里野狼被游客投喂胖成网红](https://s.weibo.com/weibo?q=%23%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E9%87%8E%E7%8B%BC%E8%A2%AB%E6%B8%B8%E5%AE%A2%E6%8A%95%E5%96%82%E8%83%96%E6%88%90%E7%BD%91%E7%BA%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [Xiaohu伏地魔](https://s.weibo.com/weibo?q=%23Xiaohu%E4%BC%8F%E5%9C%B0%E9%AD%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [郭麒麟说我有点儿可怜我爸](https://s.weibo.com/weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E8%AF%B4%E6%88%91%E6%9C%89%E7%82%B9%E5%84%BF%E5%8F%AF%E6%80%9C%E6%88%91%E7%88%B8%23&t=31&band_rank=9&Refer=top)<br />
+9. [薛之谦扔戒指](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%89%94%E6%88%92%E6%8C%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
