@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 20:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 20:09:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [杭州亚残运会观赛指南](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E8%A7%82%E8%B5%9B%E6%8C%87%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [团伙用26000部手机刷直播间人气](https://www.baidu.com/s?wd=%E5%9B%A2%E4%BC%99%E7%94%A826000%E9%83%A8%E6%89%8B%E6%9C%BA%E5%88%B7%E7%9B%B4%E6%92%AD%E9%97%B4%E4%BA%BA%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [可可西里一头狼被投喂变胖成网红](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E4%B8%80%E5%A4%B4%E7%8B%BC%E8%A2%AB%E6%8A%95%E5%96%82%E5%8F%98%E8%83%96%E6%88%90%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [116岁老人全年穿单鞋睡觉脚露被外](https://www.baidu.com/s?wd=116%E5%B2%81%E8%80%81%E4%BA%BA%E5%85%A8%E5%B9%B4%E7%A9%BF%E5%8D%95%E9%9E%8B%E7%9D%A1%E8%A7%89%E8%84%9A%E9%9C%B2%E8%A2%AB%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [于文文问微信撤回为什么要留痕迹](https://www.baidu.com/s?wd=%E4%BA%8E%E6%96%87%E6%96%87%E9%97%AE%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%95%99%E7%97%95%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [湖北一中药馆推出中药咖啡](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E4%B8%80%E4%B8%AD%E8%8D%AF%E9%A6%86%E6%8E%A8%E5%87%BA%E4%B8%AD%E8%8D%AF%E5%92%96%E5%95%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [116岁老人全年穿单鞋睡觉脚露被外](https://www.baidu.com/s?wd=116%E5%B2%81%E8%80%81%E4%BA%BA%E5%85%A8%E5%B9%B4%E7%A9%BF%E5%8D%95%E9%9E%8B%E7%9D%A1%E8%A7%89%E8%84%9A%E9%9C%B2%E8%A2%AB%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣执法人员开车偷红高粱](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%89%A7%E6%B3%95%E4%BA%BA%E5%91%98%E5%BC%80%E8%BD%A6%E5%81%B7%E7%BA%A2%E9%AB%98%E7%B2%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [杭州亚残运会观赛指南](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E8%A7%82%E8%B5%9B%E6%8C%87%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [团伙用26000部手机刷直播间人气](https://www.baidu.com/s?wd=%E5%9B%A2%E4%BC%99%E7%94%A826000%E9%83%A8%E6%89%8B%E6%9C%BA%E5%88%B7%E7%9B%B4%E6%92%AD%E9%97%B4%E4%BA%BA%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [可可西里一头狼被投喂变胖成网红](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E4%B8%80%E5%A4%B4%E7%8B%BC%E8%A2%AB%E6%8A%95%E5%96%82%E5%8F%98%E8%83%96%E6%88%90%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [116岁老人全年穿单鞋睡觉脚露被外](https://www.baidu.com/s?wd=116%E5%B2%81%E8%80%81%E4%BA%BA%E5%85%A8%E5%B9%B4%E7%A9%BF%E5%8D%95%E9%9E%8B%E7%9D%A1%E8%A7%89%E8%84%9A%E9%9C%B2%E8%A2%AB%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [于文文问微信撤回为什么要留痕迹](https://www.baidu.com/s?wd=%E4%BA%8E%E6%96%87%E6%96%87%E9%97%AE%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%95%99%E7%97%95%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [湖北一中药馆推出中药咖啡](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E4%B8%80%E4%B8%AD%E8%8D%AF%E9%A6%86%E6%8E%A8%E5%87%BA%E4%B8%AD%E8%8D%AF%E5%92%96%E5%95%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [116岁老人全年穿单鞋睡觉脚露被外](https://www.baidu.com/s?wd=116%E5%B2%81%E8%80%81%E4%BA%BA%E5%85%A8%E5%B9%B4%E7%A9%BF%E5%8D%95%E9%9E%8B%E7%9D%A1%E8%A7%89%E8%84%9A%E9%9C%B2%E8%A2%AB%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣执法人员开车偷红高粱](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%89%A7%E6%B3%95%E4%BA%BA%E5%91%98%E5%BC%80%E8%BD%A6%E5%81%B7%E7%BA%A2%E9%AB%98%E7%B2%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
