@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 19:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 20:00:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [揭秘太空菜园的栽培神器](https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E5%A4%AA%E7%A9%BA%E8%8F%9C%E5%9B%AD%E7%9A%84%E6%A0%BD%E5%9F%B9%E7%A5%9E%E5%99%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [WBG掉入瑞士轮生死局](https://s.weibo.com/weibo?q=%23WBG%E6%8E%89%E5%85%A5%E7%91%9E%E5%A3%AB%E8%BD%AE%E7%94%9F%E6%AD%BB%E5%B1%80%23&t=31&band_rank=4&Refer=top)<br />
 5. [做消防员的妻子甜到爆表](https://s.weibo.com/weibo?q=%23%E5%81%9A%E6%B6%88%E9%98%B2%E5%91%98%E7%9A%84%E5%A6%BB%E5%AD%90%E7%94%9C%E5%88%B0%E7%88%86%E8%A1%A8%23&t=31&band_rank=5&Refer=top)<br />
-6. [于文文问微信撤回为什么要留痕迹](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E9%97%AE%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%95%99%E7%97%95%E8%BF%B9%23&t=31&band_rank=6&Refer=top)<br />
+6. [富士康被查](https://s.weibo.com/weibo?q=%23%E5%AF%8C%E5%A3%AB%E5%BA%B7%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [他没任何犹豫徒手拎出喷火煤气罐](https://s.weibo.com/weibo?q=%23%E4%BB%96%E6%B2%A1%E4%BB%BB%E4%BD%95%E7%8A%B9%E8%B1%AB%E5%BE%92%E6%89%8B%E6%8B%8E%E5%87%BA%E5%96%B7%E7%81%AB%E7%85%A4%E6%B0%94%E7%BD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [WBG 心态崩了](https://s.weibo.com/weibo?q=WBG%20%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [最舍不得删的一张王者截图](https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%88%8D%E4%B8%8D%E5%BE%97%E5%88%A0%E7%9A%84%E4%B8%80%E5%BC%A0%E7%8E%8B%E8%80%85%E6%88%AA%E5%9B%BE%23&t=31&band_rank=9&Refer=top)<br />
+8. [于文文问微信撤回为什么要留痕迹](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E9%97%AE%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%95%99%E7%97%95%E8%BF%B9%23&t=31&band_rank=8&Refer=top)<br />
+9. [WBG 心态崩了](https://s.weibo.com/weibo?q=WBG%20%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
