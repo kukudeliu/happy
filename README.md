@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 17:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 17:14:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [美在中国重点国防军工单位安插眼线](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%87%8D%E7%82%B9%E5%9B%BD%E9%98%B2%E5%86%9B%E5%B7%A5%E5%8D%95%E4%BD%8D%E5%AE%89%E6%8F%92%E7%9C%BC%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [于文文问微信撤回为什么要留痕迹](https://www.baidu.com/s?wd=%E4%BA%8E%E6%96%87%E6%96%87%E9%97%AE%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%95%99%E7%97%95%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [116岁老人全年穿单鞋睡觉脚露被外](https://www.baidu.com/s?wd=116%E5%B2%81%E8%80%81%E4%BA%BA%E5%85%A8%E5%B9%B4%E7%A9%BF%E5%8D%95%E9%9E%8B%E7%9D%A1%E8%A7%89%E8%84%9A%E9%9C%B2%E8%A2%AB%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学校回应男生校内晒秋裤被女生剪烂](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E6%A0%A1%E5%86%85%E6%99%92%E7%A7%8B%E8%A3%A4%E8%A2%AB%E5%A5%B3%E7%94%9F%E5%89%AA%E7%83%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [刘慈欣说人工智能正在取代作家](https://www.baidu.com/s?wd=%E5%88%98%E6%85%88%E6%AC%A3%E8%AF%B4%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%AD%A3%E5%9C%A8%E5%8F%96%E4%BB%A3%E4%BD%9C%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣执法人员开车偷红高粱](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%89%A7%E6%B3%95%E4%BA%BA%E5%91%98%E5%BC%80%E8%BD%A6%E5%81%B7%E7%BA%A2%E9%AB%98%E7%B2%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [美在中国重点国防军工单位安插眼线](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%87%8D%E7%82%B9%E5%9B%BD%E9%98%B2%E5%86%9B%E5%B7%A5%E5%8D%95%E4%BD%8D%E5%AE%89%E6%8F%92%E7%9C%BC%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [于文文问微信撤回为什么要留痕迹](https://www.baidu.com/s?wd=%E4%BA%8E%E6%96%87%E6%96%87%E9%97%AE%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%95%99%E7%97%95%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [116岁老人全年穿单鞋睡觉脚露被外](https://www.baidu.com/s?wd=116%E5%B2%81%E8%80%81%E4%BA%BA%E5%85%A8%E5%B9%B4%E7%A9%BF%E5%8D%95%E9%9E%8B%E7%9D%A1%E8%A7%89%E8%84%9A%E9%9C%B2%E8%A2%AB%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学校回应男生校内晒秋裤被女生剪烂](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E6%A0%A1%E5%86%85%E6%99%92%E7%A7%8B%E8%A3%A4%E8%A2%AB%E5%A5%B3%E7%94%9F%E5%89%AA%E7%83%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [刘慈欣说人工智能正在取代作家](https://www.baidu.com/s?wd=%E5%88%98%E6%85%88%E6%AC%A3%E8%AF%B4%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%AD%A3%E5%9C%A8%E5%8F%96%E4%BB%A3%E4%BD%9C%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣执法人员开车偷红高粱](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%89%A7%E6%B3%95%E4%BA%BA%E5%91%98%E5%BC%80%E8%BD%A6%E5%81%B7%E7%BA%A2%E9%AB%98%E7%B2%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
