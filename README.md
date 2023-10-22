@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 14:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 14:04:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [她怎么突然就美了](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E6%80%8E%E4%B9%88%E7%AA%81%E7%84%B6%E5%B0%B1%E7%BE%8E%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [菲船恶意碰瓷](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E8%88%B9%E6%81%B6%E6%84%8F%E7%A2%B0%E7%93%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [支原体肺炎 鲜竹沥](https://s.weibo.com/weibo?q=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%20%E9%B2%9C%E7%AB%B9%E6%B2%A5&t=31&band_rank=6&Refer=top)<br />
-7. [被男友用U型锁打死女子亲属发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%94%B7%E5%8F%8B%E7%94%A8U%E5%9E%8B%E9%94%81%E6%89%93%E6%AD%BB%E5%A5%B3%E5%AD%90%E4%BA%B2%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
-8. [中国海警披露依法拦阻菲船只详情](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E6%8A%AB%E9%9C%B2%E4%BE%9D%E6%B3%95%E6%8B%A6%E9%98%BB%E8%8F%B2%E8%88%B9%E5%8F%AA%E8%AF%A6%E6%83%85%23&t=31&band_rank=8&Refer=top)<br />
+7. [中国海警披露依法拦阻菲船只详情](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E6%8A%AB%E9%9C%B2%E4%BE%9D%E6%B3%95%E6%8B%A6%E9%98%BB%E8%8F%B2%E8%88%B9%E5%8F%AA%E8%AF%A6%E6%83%85%23&t=31&band_rank=7&Refer=top)<br />
+8. [被男友用U型锁打死女子亲属发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%94%B7%E5%8F%8B%E7%94%A8U%E5%9E%8B%E9%94%81%E6%89%93%E6%AD%BB%E5%A5%B3%E5%AD%90%E4%BA%B2%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
 9. [爷爷奶奶有一千多万还在当保洁](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E6%9C%89%E4%B8%80%E5%8D%83%E5%A4%9A%E4%B8%87%E8%BF%98%E5%9C%A8%E5%BD%93%E4%BF%9D%E6%B4%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [学校回应男生校内晒秋裤被女生剪烂](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E6%A0%A1%E5%86%85%E6%99%92%E7%A7%8B%E8%A3%A4%E8%A2%AB%E5%A5%B3%E7%94%9F%E5%89%AA%E7%83%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [爷爷奶奶有一千多万还在当保洁](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E6%9C%89%E4%B8%80%E5%8D%83%E5%A4%9A%E4%B8%87%E8%BF%98%E5%9C%A8%E5%BD%93%E4%BF%9D%E6%B4%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [90岁大爷去前女友家放火被判缓刑](https://www.baidu.com/s?wd=90%E5%B2%81%E5%A4%A7%E7%88%B7%E5%8E%BB%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%AE%B6%E6%94%BE%E7%81%AB%E8%A2%AB%E5%88%A4%E7%BC%93%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [以军方称将加大对加沙地带打击力度](https://www.baidu.com/s?wd=%E4%BB%A5%E5%86%9B%E6%96%B9%E7%A7%B0%E5%B0%86%E5%8A%A0%E5%A4%A7%E5%AF%B9%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E6%89%93%E5%87%BB%E5%8A%9B%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [埃及女子怒喷CNN记者偏袒以色列](https://www.baidu.com/s?wd=%E5%9F%83%E5%8F%8A%E5%A5%B3%E5%AD%90%E6%80%92%E5%96%B7CNN%E8%AE%B0%E8%80%85%E5%81%8F%E8%A2%92%E4%BB%A5%E8%89%B2%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣交警执法推倒电动车](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%BA%A4%E8%AD%A6%E6%89%A7%E6%B3%95%E6%8E%A8%E5%80%92%E7%94%B5%E5%8A%A8%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [学校回应男生校内晒秋裤被女生剪烂](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E6%A0%A1%E5%86%85%E6%99%92%E7%A7%8B%E8%A3%A4%E8%A2%AB%E5%A5%B3%E7%94%9F%E5%89%AA%E7%83%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [爷爷奶奶有一千多万还在当保洁](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E6%9C%89%E4%B8%80%E5%8D%83%E5%A4%9A%E4%B8%87%E8%BF%98%E5%9C%A8%E5%BD%93%E4%BF%9D%E6%B4%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [90岁大爷去前女友家放火被判缓刑](https://www.baidu.com/s?wd=90%E5%B2%81%E5%A4%A7%E7%88%B7%E5%8E%BB%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%AE%B6%E6%94%BE%E7%81%AB%E8%A2%AB%E5%88%A4%E7%BC%93%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [以军方称将加大对加沙地带打击力度](https://www.baidu.com/s?wd=%E4%BB%A5%E5%86%9B%E6%96%B9%E7%A7%B0%E5%B0%86%E5%8A%A0%E5%A4%A7%E5%AF%B9%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E6%89%93%E5%87%BB%E5%8A%9B%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [埃及女子怒喷CNN记者偏袒以色列](https://www.baidu.com/s?wd=%E5%9F%83%E5%8F%8A%E5%A5%B3%E5%AD%90%E6%80%92%E5%96%B7CNN%E8%AE%B0%E8%80%85%E5%81%8F%E8%A2%92%E4%BB%A5%E8%89%B2%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣交警执法推倒电动车](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%BA%A4%E8%AD%A6%E6%89%A7%E6%B3%95%E6%8E%A8%E5%80%92%E7%94%B5%E5%8A%A8%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
