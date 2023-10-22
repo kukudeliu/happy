@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 07:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 07:23:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [可可西里一头狼被投喂变胖成网红](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E4%B8%80%E5%A4%B4%E7%8B%BC%E8%A2%AB%E6%8A%95%E5%96%82%E5%8F%98%E8%83%96%E6%88%90%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [甘肃酒泉发生4.7级地震](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E9%85%92%E6%B3%89%E5%8F%91%E7%94%9F4.7%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生被抱摔致门牙断裂 男同学拒赔](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%A2%AB%E6%8A%B1%E6%91%94%E8%87%B4%E9%97%A8%E7%89%99%E6%96%AD%E8%A3%82+%E7%94%B7%E5%90%8C%E5%AD%A6%E6%8B%92%E8%B5%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方辟谣执法人员开车偷红高粱](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%89%A7%E6%B3%95%E4%BA%BA%E5%91%98%E5%BC%80%E8%BD%A6%E5%81%B7%E7%BA%A2%E9%AB%98%E7%B2%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子遭楼下老人砸门咒骂1年暴瘦20斤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%81%AD%E6%A5%BC%E4%B8%8B%E8%80%81%E4%BA%BA%E7%A0%B8%E9%97%A8%E5%92%92%E9%AA%821%E5%B9%B4%E6%9A%B4%E7%98%A620%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [可可西里一头狼被投喂变胖成网红](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E4%B8%80%E5%A4%B4%E7%8B%BC%E8%A2%AB%E6%8A%95%E5%96%82%E5%8F%98%E8%83%96%E6%88%90%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [甘肃酒泉发生4.7级地震](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E9%85%92%E6%B3%89%E5%8F%91%E7%94%9F4.7%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女生被抱摔致门牙断裂 男同学拒赔](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%A2%AB%E6%8A%B1%E6%91%94%E8%87%B4%E9%97%A8%E7%89%99%E6%96%AD%E8%A3%82+%E7%94%B7%E5%90%8C%E5%AD%A6%E6%8B%92%E8%B5%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方辟谣执法人员开车偷红高粱](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%89%A7%E6%B3%95%E4%BA%BA%E5%91%98%E5%BC%80%E8%BD%A6%E5%81%B7%E7%BA%A2%E9%AB%98%E7%B2%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子遭楼下老人砸门咒骂1年暴瘦20斤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%81%AD%E6%A5%BC%E4%B8%8B%E8%80%81%E4%BA%BA%E7%A0%B8%E9%97%A8%E5%92%92%E9%AA%821%E5%B9%B4%E6%9A%B4%E7%98%A620%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
