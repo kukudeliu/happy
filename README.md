@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 18:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 18:39:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [杭州亚残运会观赛指南](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E8%A7%82%E8%B5%9B%E6%8C%87%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [医生莲花峰救人爬到一半发现跑错了](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%8E%B2%E8%8A%B1%E5%B3%B0%E6%95%91%E4%BA%BA%E7%88%AC%E5%88%B0%E4%B8%80%E5%8D%8A%E5%8F%91%E7%8E%B0%E8%B7%91%E9%94%99%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [以色列首都爆发集会要求总理下台](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E9%A6%96%E9%83%BD%E7%88%86%E5%8F%91%E9%9B%86%E4%BC%9A%E8%A6%81%E6%B1%82%E6%80%BB%E7%90%86%E4%B8%8B%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [数千游客夜间滞留米仓山 景区回应](https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%83%E6%B8%B8%E5%AE%A2%E5%A4%9C%E9%97%B4%E6%BB%9E%E7%95%99%E7%B1%B3%E4%BB%93%E5%B1%B1+%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [学校回应男生校内晒秋裤被女生剪烂](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E6%A0%A1%E5%86%85%E6%99%92%E7%A7%8B%E8%A3%A4%E8%A2%AB%E5%A5%B3%E7%94%9F%E5%89%AA%E7%83%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [倪妮“河南分妮”：喜提休假一周](https://www.baidu.com/s?wd=%E5%80%AA%E5%A6%AE%E2%80%9C%E6%B2%B3%E5%8D%97%E5%88%86%E5%A6%AE%E2%80%9D%EF%BC%9A%E5%96%9C%E6%8F%90%E4%BC%91%E5%81%87%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣执法人员开车偷红高粱](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%89%A7%E6%B3%95%E4%BA%BA%E5%91%98%E5%BC%80%E8%BD%A6%E5%81%B7%E7%BA%A2%E9%AB%98%E7%B2%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [杭州亚残运会观赛指南](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E8%A7%82%E8%B5%9B%E6%8C%87%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [医生莲花峰救人爬到一半发现跑错了](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%8E%B2%E8%8A%B1%E5%B3%B0%E6%95%91%E4%BA%BA%E7%88%AC%E5%88%B0%E4%B8%80%E5%8D%8A%E5%8F%91%E7%8E%B0%E8%B7%91%E9%94%99%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [以色列首都爆发集会要求总理下台](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E9%A6%96%E9%83%BD%E7%88%86%E5%8F%91%E9%9B%86%E4%BC%9A%E8%A6%81%E6%B1%82%E6%80%BB%E7%90%86%E4%B8%8B%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [数千游客夜间滞留米仓山 景区回应](https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%83%E6%B8%B8%E5%AE%A2%E5%A4%9C%E9%97%B4%E6%BB%9E%E7%95%99%E7%B1%B3%E4%BB%93%E5%B1%B1+%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [学校回应男生校内晒秋裤被女生剪烂](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E6%A0%A1%E5%86%85%E6%99%92%E7%A7%8B%E8%A3%A4%E8%A2%AB%E5%A5%B3%E7%94%9F%E5%89%AA%E7%83%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [倪妮“河南分妮”：喜提休假一周](https://www.baidu.com/s?wd=%E5%80%AA%E5%A6%AE%E2%80%9C%E6%B2%B3%E5%8D%97%E5%88%86%E5%A6%AE%E2%80%9D%EF%BC%9A%E5%96%9C%E6%8F%90%E4%BC%91%E5%81%87%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣执法人员开车偷红高粱](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%89%A7%E6%B3%95%E4%BA%BA%E5%91%98%E5%BC%80%E8%BD%A6%E5%81%B7%E7%BA%A2%E9%AB%98%E7%B2%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
