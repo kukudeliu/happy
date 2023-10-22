@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 12:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 12:39:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [儿子溺亡16年后爸爸跳河救人牺牲](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E6%BA%BA%E4%BA%A116%E5%B9%B4%E5%90%8E%E7%88%B8%E7%88%B8%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E7%89%BA%E7%89%B2%23&t=31&band_rank=5&Refer=top)<br />
 6. [中国足协负债12亿](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E8%B4%9F%E5%80%BA12%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [河边的错误 一千个人一亿个哈姆雷特](https://s.weibo.com/weibo?q=%E6%B2%B3%E8%BE%B9%E7%9A%84%E9%94%99%E8%AF%AF%20%E4%B8%80%E5%8D%83%E4%B8%AA%E4%BA%BA%E4%B8%80%E4%BA%BF%E4%B8%AA%E5%93%88%E5%A7%86%E9%9B%B7%E7%89%B9&t=31&band_rank=7&Refer=top)<br />
-8. [8元一串的巨大里脊肉串](https://s.weibo.com/weibo?q=8%E5%85%83%E4%B8%80%E4%B8%B2%E7%9A%84%E5%B7%A8%E5%A4%A7%E9%87%8C%E8%84%8A%E8%82%89%E4%B8%B2&t=31&band_rank=8&Refer=top)<br />
-9. [所谓鬼压床不是鬼魂在作怪](https://s.weibo.com/weibo?q=%23%E6%89%80%E8%B0%93%E9%AC%BC%E5%8E%8B%E5%BA%8A%E4%B8%8D%E6%98%AF%E9%AC%BC%E9%AD%82%E5%9C%A8%E4%BD%9C%E6%80%AA%23&t=31&band_rank=9&Refer=top)<br />
+8. [所谓鬼压床不是鬼魂在作怪](https://s.weibo.com/weibo?q=%23%E6%89%80%E8%B0%93%E9%AC%BC%E5%8E%8B%E5%BA%8A%E4%B8%8D%E6%98%AF%E9%AC%BC%E9%AD%82%E5%9C%A8%E4%BD%9C%E6%80%AA%23&t=31&band_rank=8&Refer=top)<br />
+9. [8元一串的巨大里脊肉串](https://s.weibo.com/weibo?q=8%E5%85%83%E4%B8%80%E4%B8%B2%E7%9A%84%E5%B7%A8%E5%A4%A7%E9%87%8C%E8%84%8A%E8%82%89%E4%B8%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
