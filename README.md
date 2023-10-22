@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 22:42:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 22:43:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [从此再无坚定选择她的哥哥](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E6%AD%A4%E5%86%8D%E6%97%A0%E5%9D%9A%E5%AE%9A%E9%80%89%E6%8B%A9%E5%A5%B9%E7%9A%84%E5%93%A5%E5%93%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [原来薛之谦戚薇刘维早都认识了](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%9A%E8%96%87%E5%88%98%E7%BB%B4%E6%97%A9%E9%83%BD%E8%AE%A4%E8%AF%86%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [檀健次去了黄明昊演唱会](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%8E%BB%E4%BA%86%E9%BB%84%E6%98%8E%E6%98%8A%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [Xiaohu伏地魔](https://s.weibo.com/weibo?q=%23Xiaohu%E4%BC%8F%E5%9C%B0%E9%AD%94%23&t=31&band_rank=9&Refer=top)<br />
+9. [乌尔善说封神第二部剪辑已完成](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B0%94%E5%96%84%E8%AF%B4%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%89%AA%E8%BE%91%E5%B7%B2%E5%AE%8C%E6%88%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
