@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 13:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 13:12:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [被男友用U型锁打死女子亲属发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%94%B7%E5%8F%8B%E7%94%A8U%E5%9E%8B%E9%94%81%E6%89%93%E6%AD%BB%E5%A5%B3%E5%AD%90%E4%BA%B2%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [爷爷奶奶有一千多万还在当保洁](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E6%9C%89%E4%B8%80%E5%8D%83%E5%A4%9A%E4%B8%87%E8%BF%98%E5%9C%A8%E5%BD%93%E4%BF%9D%E6%B4%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国足协负债12亿](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E8%B4%9F%E5%80%BA12%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [所谓鬼压床不是鬼魂在作怪](https://s.weibo.com/weibo?q=%23%E6%89%80%E8%B0%93%E9%AC%BC%E5%8E%8B%E5%BA%8A%E4%B8%8D%E6%98%AF%E9%AC%BC%E9%AD%82%E5%9C%A8%E4%BD%9C%E6%80%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [徐志胜就是黄子韬的报应吧](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E5%B0%B1%E6%98%AF%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9A%84%E6%8A%A5%E5%BA%94%E5%90%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
