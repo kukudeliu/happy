@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 09:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 09:08:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [27岁了最爱的还是小孩菜](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E4%BA%86%E6%9C%80%E7%88%B1%E7%9A%84%E8%BF%98%E6%98%AF%E5%B0%8F%E5%AD%A9%E8%8F%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [中国短道速滑2000米混合接力金牌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%912000%E7%B1%B3%E6%B7%B7%E5%90%88%E6%8E%A5%E5%8A%9B%E9%87%91%E7%89%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [上高铁后发现爸妈偷塞的榴莲](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E9%AB%98%E9%93%81%E5%90%8E%E5%8F%91%E7%8E%B0%E7%88%B8%E5%A6%88%E5%81%B7%E5%A1%9E%E7%9A%84%E6%A6%B4%E8%8E%B2%23&t=31&band_rank=7&Refer=top)<br />
-8. [医生劝半个多小时不让走救回一条命](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8A%9D%E5%8D%8A%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%E4%B8%8D%E8%AE%A9%E8%B5%B0%E6%95%91%E5%9B%9E%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [依法对富士康旗下企业税务稽查](https://s.weibo.com/weibo?q=%23%E4%BE%9D%E6%B3%95%E5%AF%B9%E5%AF%8C%E5%A3%AB%E5%BA%B7%E6%97%97%E4%B8%8B%E4%BC%81%E4%B8%9A%E7%A8%8E%E5%8A%A1%E7%A8%BD%E6%9F%A5%23&t=31&band_rank=9&Refer=top)<br />
+8. [依法对富士康旗下企业税务稽查](https://s.weibo.com/weibo?q=%23%E4%BE%9D%E6%B3%95%E5%AF%B9%E5%AF%8C%E5%A3%AB%E5%BA%B7%E6%97%97%E4%B8%8B%E4%BC%81%E4%B8%9A%E7%A8%8E%E5%8A%A1%E7%A8%BD%E6%9F%A5%23&t=31&band_rank=8&Refer=top)<br />
+9. [医生劝半个多小时不让走救回一条命](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8A%9D%E5%8D%8A%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%E4%B8%8D%E8%AE%A9%E8%B5%B0%E6%95%91%E5%9B%9E%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
