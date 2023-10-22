@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 11:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-22 11:18:01</h4></div>
 
 > 微博  
 
-1. [佛山电翰式化妆](https://s.weibo.com/weibo?q=%E4%BD%9B%E5%B1%B1%E7%94%B5%E7%BF%B0%E5%BC%8F%E5%8C%96%E5%A6%86&t=31&band_rank=1&Refer=top)<br />
-2. [支原体肺炎 鲜竹沥](https://s.weibo.com/weibo?q=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%20%E9%B2%9C%E7%AB%B9%E6%B2%A5&t=31&band_rank=2&Refer=top)<br />
+1. [支原体肺炎 鲜竹沥](https://s.weibo.com/weibo?q=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%20%E9%B2%9C%E7%AB%B9%E6%B2%A5&t=31&band_rank=1&Refer=top)<br />
+2. [佛山电翰式化妆](https://s.weibo.com/weibo?q=%E4%BD%9B%E5%B1%B1%E7%94%B5%E7%BF%B0%E5%BC%8F%E5%8C%96%E5%A6%86&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚残运会观赛指南](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E8%A7%82%E8%B5%9B%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top)<br />
 4. [她怎么突然就美了](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E6%80%8E%E4%B9%88%E7%AA%81%E7%84%B6%E5%B0%B1%E7%BE%8E%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [爷爷奶奶有一千多万还在当保洁](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E6%9C%89%E4%B8%80%E5%8D%83%E5%A4%9A%E4%B8%87%E8%BF%98%E5%9C%A8%E5%BD%93%E4%BF%9D%E6%B4%81%23&t=31&band_rank=5&Refer=top)<br />
