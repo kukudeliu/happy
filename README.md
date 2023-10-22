@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 07:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 07:45:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [花花挣的工资有一大半是委屈费](https://www.baidu.com/s?wd=%E8%8A%B1%E8%8A%B1%E6%8C%A3%E7%9A%84%E5%B7%A5%E8%B5%84%E6%9C%89%E4%B8%80%E5%A4%A7%E5%8D%8A%E6%98%AF%E5%A7%94%E5%B1%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [甘肃酒泉发生4.7级地震](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E9%85%92%E6%B3%89%E5%8F%91%E7%94%9F4.7%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [可可西里一头狼被投喂变胖成网红](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E4%B8%80%E5%A4%B4%E7%8B%BC%E8%A2%AB%E6%8A%95%E5%96%82%E5%8F%98%E8%83%96%E6%88%90%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生被抱摔致门牙断裂 男同学拒赔](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%A2%AB%E6%8A%B1%E6%91%94%E8%87%B4%E9%97%A8%E7%89%99%E6%96%AD%E8%A3%82+%E7%94%B7%E5%90%8C%E5%AD%A6%E6%8B%92%E8%B5%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [狂犬病潜伏期长达十几年？别信](https://www.baidu.com/s?wd=%E7%8B%82%E7%8A%AC%E7%97%85%E6%BD%9C%E4%BC%8F%E6%9C%9F%E9%95%BF%E8%BE%BE%E5%8D%81%E5%87%A0%E5%B9%B4%EF%BC%9F%E5%88%AB%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [花花挣的工资有一大半是委屈费](https://www.baidu.com/s?wd=%E8%8A%B1%E8%8A%B1%E6%8C%A3%E7%9A%84%E5%B7%A5%E8%B5%84%E6%9C%89%E4%B8%80%E5%A4%A7%E5%8D%8A%E6%98%AF%E5%A7%94%E5%B1%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [甘肃酒泉发生4.7级地震](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E9%85%92%E6%B3%89%E5%8F%91%E7%94%9F4.7%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [可可西里一头狼被投喂变胖成网红](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E4%B8%80%E5%A4%B4%E7%8B%BC%E8%A2%AB%E6%8A%95%E5%96%82%E5%8F%98%E8%83%96%E6%88%90%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女生被抱摔致门牙断裂 男同学拒赔](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%A2%AB%E6%8A%B1%E6%91%94%E8%87%B4%E9%97%A8%E7%89%99%E6%96%AD%E8%A3%82+%E7%94%B7%E5%90%8C%E5%AD%A6%E6%8B%92%E8%B5%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [狂犬病潜伏期长达十几年？别信](https://www.baidu.com/s?wd=%E7%8B%82%E7%8A%AC%E7%97%85%E6%BD%9C%E4%BC%8F%E6%9C%9F%E9%95%BF%E8%BE%BE%E5%8D%81%E5%87%A0%E5%B9%B4%EF%BC%9F%E5%88%AB%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
