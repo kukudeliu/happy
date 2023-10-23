@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 21:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 21:30:01</h4></div>
 
 > 微博  
 
-1. [大发量鲨鱼夹](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%8F%91%E9%87%8F%E9%B2%A8%E9%B1%BC%E5%A4%B9&t=31&band_rank=1&Refer=top)<br />
-2. [成都崇州被狗咬伤女童已转出ICU](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%B4%87%E5%B7%9E%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E5%B7%B2%E8%BD%AC%E5%87%BAICU%23&t=31&band_rank=2&Refer=top)<br />
+1. [成都崇州被狗咬伤女童已转出ICU](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%B4%87%E5%B7%9E%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E5%B7%B2%E8%BD%AC%E5%87%BAICU%23&t=31&band_rank=1&Refer=top)<br />
+2. [大发量鲨鱼夹](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%8F%91%E9%87%8F%E9%B2%A8%E9%B1%BC%E5%A4%B9&t=31&band_rank=2&Refer=top)<br />
 3. [漫天桂花给了亚运年独有的浪漫记忆](https://s.weibo.com/weibo?q=%23%E6%BC%AB%E5%A4%A9%E6%A1%82%E8%8A%B1%E7%BB%99%E4%BA%86%E4%BA%9A%E8%BF%90%E5%B9%B4%E7%8B%AC%E6%9C%89%E7%9A%84%E6%B5%AA%E6%BC%AB%E8%AE%B0%E5%BF%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [老舅居然是哈圈隐藏真学霸](https://s.weibo.com/weibo?q=%23%E8%80%81%E8%88%85%E5%B1%85%E7%84%B6%E6%98%AF%E5%93%88%E5%9C%88%E9%9A%90%E8%97%8F%E7%9C%9F%E5%AD%A6%E9%9C%B8%23&t=31&band_rank=4&Refer=top)<br />
 5. [老人捡花生被卷收割机身亡](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%8D%A1%E8%8A%B1%E7%94%9F%E8%A2%AB%E5%8D%B7%E6%94%B6%E5%89%B2%E6%9C%BA%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
