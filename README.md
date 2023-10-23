@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 18:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 18:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [100只大闸蟹做成的百蟹瀑布](https://s.weibo.com/weibo?q=100%E5%8F%AA%E5%A4%A7%E9%97%B8%E8%9F%B9%E5%81%9A%E6%88%90%E7%9A%84%E7%99%BE%E8%9F%B9%E7%80%91%E5%B8%83&t=31&band_rank=6&Refer=top)<br />
 7. [昏迷50多天24岁产妇遗憾离开人世](https://s.weibo.com/weibo?q=%23%E6%98%8F%E8%BF%B750%E5%A4%9A%E5%A4%A924%E5%B2%81%E4%BA%A7%E5%A6%87%E9%81%97%E6%86%BE%E7%A6%BB%E5%BC%80%E4%BA%BA%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [酱园弄 杀夫案](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%20%E6%9D%80%E5%A4%AB%E6%A1%88&t=31&band_rank=8&Refer=top)<br />
-9. [SEVENTEEN空降第一](https://s.weibo.com/weibo?q=%23SEVENTEEN%E7%A9%BA%E9%99%8D%E7%AC%AC%E4%B8%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [给内娱一点小震撼](https://s.weibo.com/weibo?q=%23%E7%BB%99%E5%86%85%E5%A8%B1%E4%B8%80%E7%82%B9%E5%B0%8F%E9%9C%87%E6%92%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
