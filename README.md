@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 18:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 18:38:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [我们一样 为梦闪亮](https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E4%B8%80%E6%A0%B7+%E4%B8%BA%E6%A2%A6%E9%97%AA%E4%BA%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [金价再度突破600元大关](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E5%BA%A6%E7%AA%81%E7%A0%B4600%E5%85%83%E5%A4%A7%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [影院分区定价 “价高者得”合理吗](https://www.baidu.com/s?wd=%E5%BD%B1%E9%99%A2%E5%88%86%E5%8C%BA%E5%AE%9A%E4%BB%B7+%E2%80%9C%E4%BB%B7%E9%AB%98%E8%80%85%E5%BE%97%E2%80%9D%E5%90%88%E7%90%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [山东一农村老年食堂一顿一块钱](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%86%9C%E6%9D%91%E8%80%81%E5%B9%B4%E9%A3%9F%E5%A0%82%E4%B8%80%E9%A1%BF%E4%B8%80%E5%9D%97%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [加沙孩子腿上写名字以便遇害后识别](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%AD%A9%E5%AD%90%E8%85%BF%E4%B8%8A%E5%86%99%E5%90%8D%E5%AD%97%E4%BB%A5%E4%BE%BF%E9%81%87%E5%AE%B3%E5%90%8E%E8%AF%86%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [加沙孩子腿上写名字以便遇害后识别](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%AD%A9%E5%AD%90%E8%85%BF%E4%B8%8A%E5%86%99%E5%90%8D%E5%AD%97%E4%BB%A5%E4%BE%BF%E9%81%87%E5%AE%B3%E5%90%8E%E8%AF%86%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本将更换驻华大使 意在重新布局?](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%86%E6%9B%B4%E6%8D%A2%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF+%E6%84%8F%E5%9C%A8%E9%87%8D%E6%96%B0%E5%B8%83%E5%B1%80%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“济南地铁施工遇泉眼”系谣言](https://www.baidu.com/s?wd=%E2%80%9C%E6%B5%8E%E5%8D%97%E5%9C%B0%E9%93%81%E6%96%BD%E5%B7%A5%E9%81%87%E6%B3%89%E7%9C%BC%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [我们一样 为梦闪亮](https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E4%B8%80%E6%A0%B7+%E4%B8%BA%E6%A2%A6%E9%97%AA%E4%BA%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [金价再度突破600元大关](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E5%BA%A6%E7%AA%81%E7%A0%B4600%E5%85%83%E5%A4%A7%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [影院分区定价 “价高者得”合理吗](https://www.baidu.com/s?wd=%E5%BD%B1%E9%99%A2%E5%88%86%E5%8C%BA%E5%AE%9A%E4%BB%B7+%E2%80%9C%E4%BB%B7%E9%AB%98%E8%80%85%E5%BE%97%E2%80%9D%E5%90%88%E7%90%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [山东一农村老年食堂一顿一块钱](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%86%9C%E6%9D%91%E8%80%81%E5%B9%B4%E9%A3%9F%E5%A0%82%E4%B8%80%E9%A1%BF%E4%B8%80%E5%9D%97%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [加沙孩子腿上写名字以便遇害后识别](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%AD%A9%E5%AD%90%E8%85%BF%E4%B8%8A%E5%86%99%E5%90%8D%E5%AD%97%E4%BB%A5%E4%BE%BF%E9%81%87%E5%AE%B3%E5%90%8E%E8%AF%86%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [加沙孩子腿上写名字以便遇害后识别](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%AD%A9%E5%AD%90%E8%85%BF%E4%B8%8A%E5%86%99%E5%90%8D%E5%AD%97%E4%BB%A5%E4%BE%BF%E9%81%87%E5%AE%B3%E5%90%8E%E8%AF%86%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本将更换驻华大使 意在重新布局?](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%86%E6%9B%B4%E6%8D%A2%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF+%E6%84%8F%E5%9C%A8%E9%87%8D%E6%96%B0%E5%B8%83%E5%B1%80%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“济南地铁施工遇泉眼”系谣言](https://www.baidu.com/s?wd=%E2%80%9C%E6%B5%8E%E5%8D%97%E5%9C%B0%E9%93%81%E6%96%BD%E5%B7%A5%E9%81%87%E6%B3%89%E7%9C%BC%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
