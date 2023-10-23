@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 17:40:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 17:41:01</h4></div>
 
 > 微博  
 
-1. [SEVENTEEN回归新曲](https://s.weibo.com/weibo?q=SEVENTEEN%E5%9B%9E%E5%BD%92%E6%96%B0%E6%9B%B2&t=31&band_rank=1&Refer=top)<br />
-2. [这3个三角配享太庙](https://s.weibo.com/weibo?q=%23%E8%BF%993%E4%B8%AA%E4%B8%89%E8%A7%92%E9%85%8D%E4%BA%AB%E5%A4%AA%E5%BA%99%23&t=31&band_rank=2&Refer=top)<br />
+1. [这3个三角配享太庙](https://s.weibo.com/weibo?q=%23%E8%BF%993%E4%B8%AA%E4%B8%89%E8%A7%92%E9%85%8D%E4%BA%AB%E5%A4%AA%E5%BA%99%23&t=31&band_rank=1&Refer=top)<br />
+2. [SEVENTEEN回归新曲](https://s.weibo.com/weibo?q=SEVENTEEN%E5%9B%9E%E5%BD%92%E6%96%B0%E6%9B%B2&t=31&band_rank=2&Refer=top)<br />
 3. [长辈的爱值得一场双向奔赴](https://s.weibo.com/weibo?q=%23%E9%95%BF%E8%BE%88%E7%9A%84%E7%88%B1%E5%80%BC%E5%BE%97%E4%B8%80%E5%9C%BA%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [大发量鲨鱼夹](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%8F%91%E9%87%8F%E9%B2%A8%E9%B1%BC%E5%A4%B9&t=31&band_rank=4&Refer=top)<br />
 5. [昏迷50多天24岁产妇遗憾离开人世](https://s.weibo.com/weibo?q=%23%E6%98%8F%E8%BF%B750%E5%A4%9A%E5%A4%A924%E5%B2%81%E4%BA%A7%E5%A6%87%E9%81%97%E6%86%BE%E7%A6%BB%E5%BC%80%E4%BA%BA%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
