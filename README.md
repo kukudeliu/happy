@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 08:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 08:10:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 3. [27岁女子长期横向刷牙致牙齿缺损](https://www.baidu.com/s?wd=27%E5%B2%81%E5%A5%B3%E5%AD%90%E9%95%BF%E6%9C%9F%E6%A8%AA%E5%90%91%E5%88%B7%E7%89%99%E8%87%B4%E7%89%99%E9%BD%BF%E7%BC%BA%E6%8D%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [同享大健康 共赴新时代](https://www.baidu.com/s?wd=%E5%90%8C%E4%BA%AB%E5%A4%A7%E5%81%A5%E5%BA%B7+%E5%85%B1%E8%B5%B4%E6%96%B0%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [吉林市：打击唱衰楼市的不当言论](https://www.baidu.com/s?wd=%E5%90%89%E6%9E%97%E5%B8%82%EF%BC%9A%E6%89%93%E5%87%BB%E5%94%B1%E8%A1%B0%E6%A5%BC%E5%B8%82%E7%9A%84%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [山东一农村老年食堂一顿一块钱](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%86%9C%E6%9D%91%E8%80%81%E5%B9%B4%E9%A3%9F%E5%A0%82%E4%B8%80%E9%A1%BF%E4%B8%80%E5%9D%97%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [青岛啤酒小便门：相关人员已被控制](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E5%B0%8F%E4%BE%BF%E9%97%A8%EF%BC%9A%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%91%98%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [甘肃酒泉发生4.7级地震](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E9%85%92%E6%B3%89%E5%8F%91%E7%94%9F4.7%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [花花挣的工资有一大半是委屈费](https://www.baidu.com/s?wd=%E8%8A%B1%E8%8A%B1%E6%8C%A3%E7%9A%84%E5%B7%A5%E8%B5%84%E6%9C%89%E4%B8%80%E5%A4%A7%E5%8D%8A%E6%98%AF%E5%A7%94%E5%B1%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [狂犬病潜伏期长达十几年？别信](https://www.baidu.com/s?wd=%E7%8B%82%E7%8A%AC%E7%97%85%E6%BD%9C%E4%BC%8F%E6%9C%9F%E9%95%BF%E8%BE%BE%E5%8D%81%E5%87%A0%E5%B9%B4%EF%BC%9F%E5%88%AB%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [27岁女子长期横向刷牙致牙齿缺损](https://www.baidu.com/s?wd=27%E5%B2%81%E5%A5%B3%E5%AD%90%E9%95%BF%E6%9C%9F%E6%A8%AA%E5%90%91%E5%88%B7%E7%89%99%E8%87%B4%E7%89%99%E9%BD%BF%E7%BC%BA%E6%8D%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [同享大健康 共赴新时代](https://www.baidu.com/s?wd=%E5%90%8C%E4%BA%AB%E5%A4%A7%E5%81%A5%E5%BA%B7+%E5%85%B1%E8%B5%B4%E6%96%B0%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [吉林市：打击唱衰楼市的不当言论](https://www.baidu.com/s?wd=%E5%90%89%E6%9E%97%E5%B8%82%EF%BC%9A%E6%89%93%E5%87%BB%E5%94%B1%E8%A1%B0%E6%A5%BC%E5%B8%82%E7%9A%84%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [山东一农村老年食堂一顿一块钱](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%86%9C%E6%9D%91%E8%80%81%E5%B9%B4%E9%A3%9F%E5%A0%82%E4%B8%80%E9%A1%BF%E4%B8%80%E5%9D%97%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [青岛啤酒小便门：相关人员已被控制](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E5%B0%8F%E4%BE%BF%E9%97%A8%EF%BC%9A%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%91%98%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [甘肃酒泉发生4.7级地震](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E9%85%92%E6%B3%89%E5%8F%91%E7%94%9F4.7%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [花花挣的工资有一大半是委屈费](https://www.baidu.com/s?wd=%E8%8A%B1%E8%8A%B1%E6%8C%A3%E7%9A%84%E5%B7%A5%E8%B5%84%E6%9C%89%E4%B8%80%E5%A4%A7%E5%8D%8A%E6%98%AF%E5%A7%94%E5%B1%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [狂犬病潜伏期长达十几年？别信](https://www.baidu.com/s?wd=%E7%8B%82%E7%8A%AC%E7%97%85%E6%BD%9C%E4%BC%8F%E6%9C%9F%E9%95%BF%E8%BE%BE%E5%8D%81%E5%87%A0%E5%B9%B4%EF%BC%9F%E5%88%AB%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
