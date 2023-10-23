@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 18:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 18:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [101岁老人自曝长寿要吃肉吃菜爱干活](https://s.weibo.com/weibo?q=%23101%E5%B2%81%E8%80%81%E4%BA%BA%E8%87%AA%E6%9B%9D%E9%95%BF%E5%AF%BF%E8%A6%81%E5%90%83%E8%82%89%E5%90%83%E8%8F%9C%E7%88%B1%E5%B9%B2%E6%B4%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [100只大闸蟹做成的百蟹瀑布](https://s.weibo.com/weibo?q=100%E5%8F%AA%E5%A4%A7%E9%97%B8%E8%9F%B9%E5%81%9A%E6%88%90%E7%9A%84%E7%99%BE%E8%9F%B9%E7%80%91%E5%B8%83&t=31&band_rank=6&Refer=top)<br />
 7. [女子开理发店28年收费最高只收5元](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BC%80%E7%90%86%E5%8F%91%E5%BA%9728%E5%B9%B4%E6%94%B6%E8%B4%B9%E6%9C%80%E9%AB%98%E5%8F%AA%E6%94%B65%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [金晨的喜欢与不喜欢太明显了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E5%96%9C%E6%AC%A2%E4%B8%8E%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%A4%AA%E6%98%8E%E6%98%BE%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [286斤女生坐高铁二等座引争议](https://s.weibo.com/weibo?q=%23286%E6%96%A4%E5%A5%B3%E7%94%9F%E5%9D%90%E9%AB%98%E9%93%81%E4%BA%8C%E7%AD%89%E5%BA%A7%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
+8. [286斤女生坐高铁二等座引争议](https://s.weibo.com/weibo?q=%23286%E6%96%A4%E5%A5%B3%E7%94%9F%E5%9D%90%E9%AB%98%E9%93%81%E4%BA%8C%E7%AD%89%E5%BA%A7%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
+9. [金晨的喜欢与不喜欢太明显了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E5%96%9C%E6%AC%A2%E4%B8%8E%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%A4%AA%E6%98%8E%E6%98%BE%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
