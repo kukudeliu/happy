@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 17:26:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 17:27:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [林高远 禁赛](https://s.weibo.com/weibo?q=%E6%9E%97%E9%AB%98%E8%BF%9C%20%E7%A6%81%E8%B5%9B&t=31&band_rank=6&Refer=top)<br />
 7. [iPhone15全系价格暴跌](https://s.weibo.com/weibo?q=%23iPhone15%E5%85%A8%E7%B3%BB%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [这就是街舞6官宣队长](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E8%A1%97%E8%88%9E6%E5%AE%98%E5%AE%A3%E9%98%9F%E9%95%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国股市必须守住](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E5%BF%85%E9%A1%BB%E5%AE%88%E4%BD%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [大发量鲨鱼夹](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%8F%91%E9%87%8F%E9%B2%A8%E9%B1%BC%E5%A4%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
