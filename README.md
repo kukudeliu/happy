@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 11:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 11:10:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [国家烟草专卖局原局长凌成兴被查](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E7%83%9F%E8%8D%89%E4%B8%93%E5%8D%96%E5%B1%80%E5%8E%9F%E5%B1%80%E9%95%BF%E5%87%8C%E6%88%90%E5%85%B4%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [初中生拉开同学座椅致其摔成重伤](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E6%8B%89%E5%BC%80%E5%90%8C%E5%AD%A6%E5%BA%A7%E6%A4%85%E8%87%B4%E5%85%B6%E6%91%94%E6%88%90%E9%87%8D%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子带娃路过公园 被3条流浪狗围攻](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A8%83%E8%B7%AF%E8%BF%87%E5%85%AC%E5%9B%AD+%E8%A2%AB3%E6%9D%A1%E6%B5%81%E6%B5%AA%E7%8B%97%E5%9B%B4%E6%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高圆圆去看乐队的夏天演唱会](https://www.baidu.com/s?wd=%E9%AB%98%E5%9C%86%E5%9C%86%E5%8E%BB%E7%9C%8B%E4%B9%90%E9%98%9F%E7%9A%84%E5%A4%8F%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [27岁女子长期横向刷牙致牙齿缺损](https://www.baidu.com/s?wd=27%E5%B2%81%E5%A5%B3%E5%AD%90%E9%95%BF%E6%9C%9F%E6%A8%AA%E5%90%91%E5%88%B7%E7%89%99%E8%87%B4%E7%89%99%E9%BD%BF%E7%BC%BA%E6%8D%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“济南地铁施工遇泉眼”系谣言](https://www.baidu.com/s?wd=%E2%80%9C%E6%B5%8E%E5%8D%97%E5%9C%B0%E9%93%81%E6%96%BD%E5%B7%A5%E9%81%87%E6%B3%89%E7%9C%BC%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [国家烟草专卖局原局长凌成兴被查](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E7%83%9F%E8%8D%89%E4%B8%93%E5%8D%96%E5%B1%80%E5%8E%9F%E5%B1%80%E9%95%BF%E5%87%8C%E6%88%90%E5%85%B4%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [初中生拉开同学座椅致其摔成重伤](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E6%8B%89%E5%BC%80%E5%90%8C%E5%AD%A6%E5%BA%A7%E6%A4%85%E8%87%B4%E5%85%B6%E6%91%94%E6%88%90%E9%87%8D%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子带娃路过公园 被3条流浪狗围攻](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A8%83%E8%B7%AF%E8%BF%87%E5%85%AC%E5%9B%AD+%E8%A2%AB3%E6%9D%A1%E6%B5%81%E6%B5%AA%E7%8B%97%E5%9B%B4%E6%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高圆圆去看乐队的夏天演唱会](https://www.baidu.com/s?wd=%E9%AB%98%E5%9C%86%E5%9C%86%E5%8E%BB%E7%9C%8B%E4%B9%90%E9%98%9F%E7%9A%84%E5%A4%8F%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [27岁女子长期横向刷牙致牙齿缺损](https://www.baidu.com/s?wd=27%E5%B2%81%E5%A5%B3%E5%AD%90%E9%95%BF%E6%9C%9F%E6%A8%AA%E5%90%91%E5%88%B7%E7%89%99%E8%87%B4%E7%89%99%E9%BD%BF%E7%BC%BA%E6%8D%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“济南地铁施工遇泉眼”系谣言](https://www.baidu.com/s?wd=%E2%80%9C%E6%B5%8E%E5%8D%97%E5%9C%B0%E9%93%81%E6%96%BD%E5%B7%A5%E9%81%87%E6%B3%89%E7%9C%BC%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
