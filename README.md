@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 09:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 09:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以军称误击埃及军队哨所](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E7%A7%B0%E8%AF%AF%E5%87%BB%E5%9F%83%E5%8F%8A%E5%86%9B%E9%98%9F%E5%93%A8%E6%89%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [27岁女子长期横向刷牙致牙齿缺损](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A5%B3%E5%AD%90%E9%95%BF%E6%9C%9F%E6%A8%AA%E5%90%91%E5%88%B7%E7%89%99%E8%87%B4%E7%89%99%E9%BD%BF%E7%BC%BA%E6%8D%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [by2爱丫爱丫让青春回来了](https://s.weibo.com/weibo?q=%23by2%E7%88%B1%E4%B8%AB%E7%88%B1%E4%B8%AB%E8%AE%A9%E9%9D%92%E6%98%A5%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [郭麒麟说我有点儿可怜我爸](https://s.weibo.com/weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E8%AF%B4%E6%88%91%E6%9C%89%E7%82%B9%E5%84%BF%E5%8F%AF%E6%80%9C%E6%88%91%E7%88%B8%23&t=31&band_rank=9&Refer=top)<br />
+9. [青岛啤酒视频拍摄者已被警方控制](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E8%A7%86%E9%A2%91%E6%8B%8D%E6%91%84%E8%80%85%E5%B7%B2%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8E%A7%E5%88%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
