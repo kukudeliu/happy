@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 18:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 18:21:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [这3个三角配享太庙](https://s.weibo.com/weibo?q=%23%E8%BF%993%E4%B8%AA%E4%B8%89%E8%A7%92%E9%85%8D%E4%BA%AB%E5%A4%AA%E5%BA%99%23&t=31&band_rank=4&Refer=top)<br />
 5. [大发量鲨鱼夹](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%8F%91%E9%87%8F%E9%B2%A8%E9%B1%BC%E5%A4%B9&t=31&band_rank=5&Refer=top)<br />
 6. [昏迷50多天24岁产妇遗憾离开人世](https://s.weibo.com/weibo?q=%23%E6%98%8F%E8%BF%B750%E5%A4%9A%E5%A4%A924%E5%B2%81%E4%BA%A7%E5%A6%87%E9%81%97%E6%86%BE%E7%A6%BB%E5%BC%80%E4%BA%BA%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [Monster](https://s.weibo.com/weibo?q=Monster&t=31&band_rank=7&Refer=top)<br />
-8. [SEVENTEEN回归新曲](https://s.weibo.com/weibo?q=SEVENTEEN%E5%9B%9E%E5%BD%92%E6%96%B0%E6%9B%B2&t=31&band_rank=8&Refer=top)<br />
-9. [给内娱一点小震撼](https://s.weibo.com/weibo?q=%23%E7%BB%99%E5%86%85%E5%A8%B1%E4%B8%80%E7%82%B9%E5%B0%8F%E9%9C%87%E6%92%BC%23&t=31&band_rank=9&Refer=top)<br />
+7. [7旬老人皮影60年演活孙悟空72变](https://s.weibo.com/weibo?q=%237%E6%97%AC%E8%80%81%E4%BA%BA%E7%9A%AE%E5%BD%B160%E5%B9%B4%E6%BC%94%E6%B4%BB%E5%AD%99%E6%82%9F%E7%A9%BA72%E5%8F%98%23&t=31&band_rank=7&Refer=top)<br />
+8. [Monster](https://s.weibo.com/weibo?q=Monster&t=31&band_rank=8&Refer=top)<br />
+9. [SEVENTEEN回归新曲](https://s.weibo.com/weibo?q=SEVENTEEN%E5%9B%9E%E5%BD%92%E6%96%B0%E6%9B%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
