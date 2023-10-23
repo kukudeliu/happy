@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 19:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 19:39:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [教育局回应著名教师发文意淫同车女乘客](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E8%91%97%E5%90%8D%E6%95%99%E5%B8%88%E5%8F%91%E6%96%87%E6%84%8F%E6%B7%AB%E5%90%8C%E8%BD%A6%E5%A5%B3%E4%B9%98%E5%AE%A2%23&t=31&band_rank=4&Refer=top)<br />
 5. [74岁儿子重阳节晒96岁老妈帮择菜](https://s.weibo.com/weibo?q=%2374%E5%B2%81%E5%84%BF%E5%AD%90%E9%87%8D%E9%98%B3%E8%8A%82%E6%99%9296%E5%B2%81%E8%80%81%E5%A6%88%E5%B8%AE%E6%8B%A9%E8%8F%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [286斤女生坐高铁二等座引争议](https://s.weibo.com/weibo?q=%23286%E6%96%A4%E5%A5%B3%E7%94%9F%E5%9D%90%E9%AB%98%E9%93%81%E4%BA%8C%E7%AD%89%E5%BA%A7%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
-7. [这3个三角配享太庙](https://s.weibo.com/weibo?q=%23%E8%BF%993%E4%B8%AA%E4%B8%89%E8%A7%92%E9%85%8D%E4%BA%AB%E5%A4%AA%E5%BA%99%23&t=31&band_rank=7&Refer=top)<br />
-8. [S13瑞士轮第四轮抽签](https://s.weibo.com/weibo?q=%23S13%E7%91%9E%E5%A3%AB%E8%BD%AE%E7%AC%AC%E5%9B%9B%E8%BD%AE%E6%8A%BD%E7%AD%BE%23&t=31&band_rank=8&Refer=top)<br />
+7. [S13瑞士轮第四轮抽签](https://s.weibo.com/weibo?q=%23S13%E7%91%9E%E5%A3%AB%E8%BD%AE%E7%AC%AC%E5%9B%9B%E8%BD%AE%E6%8A%BD%E7%AD%BE%23&t=31&band_rank=7&Refer=top)<br />
+8. [这3个三角配享太庙](https://s.weibo.com/weibo?q=%23%E8%BF%993%E4%B8%AA%E4%B8%89%E8%A7%92%E9%85%8D%E4%BA%AB%E5%A4%AA%E5%BA%99%23&t=31&band_rank=8&Refer=top)<br />
 9. [金晨的喜欢与不喜欢太明显了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E5%96%9C%E6%AC%A2%E4%B8%8E%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%A4%AA%E6%98%8E%E6%98%BE%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,9 +22,9 @@
 3. [昏迷50多天24岁产妇遗憾离开人世](https://www.baidu.com/s?wd=%E6%98%8F%E8%BF%B750%E5%A4%9A%E5%A4%A924%E5%B2%81%E4%BA%A7%E5%A6%87%E9%81%97%E6%86%BE%E7%A6%BB%E5%BC%80%E4%BA%BA%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [我们一样 为梦闪亮](https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E4%B8%80%E6%A0%B7+%E4%B8%BA%E6%A2%A6%E9%97%AA%E4%BA%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [iPhone15全系价格大崩 完全不用抢](https://www.baidu.com/s?wd=iPhone15%E5%85%A8%E7%B3%BB%E4%BB%B7%E6%A0%BC%E5%A4%A7%E5%B4%A9+%E5%AE%8C%E5%85%A8%E4%B8%8D%E7%94%A8%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [老人疑捡花生被卷入收割机身亡](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%96%91%E6%8D%A1%E8%8A%B1%E7%94%9F%E8%A2%AB%E5%8D%B7%E5%85%A5%E6%94%B6%E5%89%B2%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子纵火伤人 在地窖藏匿2个月被捕](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BA%B5%E7%81%AB%E4%BC%A4%E4%BA%BA+%E5%9C%A8%E5%9C%B0%E7%AA%96%E8%97%8F%E5%8C%BF2%E4%B8%AA%E6%9C%88%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [该不该投喂可可西里的狼？](https://www.baidu.com/s?wd=%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%8A%95%E5%96%82%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E7%9A%84%E7%8B%BC%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子纵火伤人 在地窖藏匿2个月被捕](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BA%B5%E7%81%AB%E4%BC%A4%E4%BA%BA+%E5%9C%A8%E5%9C%B0%E7%AA%96%E8%97%8F%E5%8C%BF2%E4%B8%AA%E6%9C%88%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [老人疑捡花生被卷入收割机身亡](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%96%91%E6%8D%A1%E8%8A%B1%E7%94%9F%E8%A2%AB%E5%8D%B7%E5%85%A5%E6%94%B6%E5%89%B2%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山西太原三车相撞 致2死6伤](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%A4%AA%E5%8E%9F%E4%B8%89%E8%BD%A6%E7%9B%B8%E6%92%9E+%E8%87%B42%E6%AD%BB6%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“济南地铁施工遇泉眼”系谣言](https://www.baidu.com/s?wd=%E2%80%9C%E6%B5%8E%E5%8D%97%E5%9C%B0%E9%93%81%E6%96%BD%E5%B7%A5%E9%81%87%E6%B3%89%E7%9C%BC%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [昏迷50多天24岁产妇遗憾离开人世](https://www.baidu.com/s?wd=%E6%98%8F%E8%BF%B750%E5%A4%9A%E5%A4%A924%E5%B2%81%E4%BA%A7%E5%A6%87%E9%81%97%E6%86%BE%E7%A6%BB%E5%BC%80%E4%BA%BA%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [我们一样 为梦闪亮](https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E4%B8%80%E6%A0%B7+%E4%B8%BA%E6%A2%A6%E9%97%AA%E4%BA%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [iPhone15全系价格大崩 完全不用抢](https://www.baidu.com/s?wd=iPhone15%E5%85%A8%E7%B3%BB%E4%BB%B7%E6%A0%BC%E5%A4%A7%E5%B4%A9+%E5%AE%8C%E5%85%A8%E4%B8%8D%E7%94%A8%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [老人疑捡花生被卷入收割机身亡](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%96%91%E6%8D%A1%E8%8A%B1%E7%94%9F%E8%A2%AB%E5%8D%B7%E5%85%A5%E6%94%B6%E5%89%B2%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子纵火伤人 在地窖藏匿2个月被捕](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BA%B5%E7%81%AB%E4%BC%A4%E4%BA%BA+%E5%9C%A8%E5%9C%B0%E7%AA%96%E8%97%8F%E5%8C%BF2%E4%B8%AA%E6%9C%88%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [该不该投喂可可西里的狼？](https://www.baidu.com/s?wd=%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%8A%95%E5%96%82%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E7%9A%84%E7%8B%BC%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子纵火伤人 在地窖藏匿2个月被捕](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BA%B5%E7%81%AB%E4%BC%A4%E4%BA%BA+%E5%9C%A8%E5%9C%B0%E7%AA%96%E8%97%8F%E5%8C%BF2%E4%B8%AA%E6%9C%88%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [老人疑捡花生被卷入收割机身亡](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%96%91%E6%8D%A1%E8%8A%B1%E7%94%9F%E8%A2%AB%E5%8D%B7%E5%85%A5%E6%94%B6%E5%89%B2%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山西太原三车相撞 致2死6伤](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%A4%AA%E5%8E%9F%E4%B8%89%E8%BD%A6%E7%9B%B8%E6%92%9E+%E8%87%B42%E6%AD%BB6%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“济南地铁施工遇泉眼”系谣言](https://www.baidu.com/s?wd=%E2%80%9C%E6%B5%8E%E5%8D%97%E5%9C%B0%E9%93%81%E6%96%BD%E5%B7%A5%E9%81%87%E6%B3%89%E7%9C%BC%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
