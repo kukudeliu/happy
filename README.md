@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 02:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 02:55:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [肖战深情演绎夜空中最亮的星](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%B7%B1%E6%83%85%E6%BC%94%E7%BB%8E%E5%A4%9C%E7%A9%BA%E4%B8%AD%E6%9C%80%E4%BA%AE%E7%9A%84%E6%98%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [老舅居然是哈圈隐藏真学霸](https://s.weibo.com/weibo?q=%23%E8%80%81%E8%88%85%E5%B1%85%E7%84%B6%E6%98%AF%E5%93%88%E5%9C%88%E9%9A%90%E8%97%8F%E7%9C%9F%E5%AD%A6%E9%9C%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [286斤女生坐高铁二等座引争议](https://s.weibo.com/weibo?q=%23286%E6%96%A4%E5%A5%B3%E7%94%9F%E5%9D%90%E9%AB%98%E9%93%81%E4%BA%8C%E7%AD%89%E5%BA%A7%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
-7. [崇州被狗咬伤女童目前医疗支出近6万元](https://s.weibo.com/weibo?q=%23%E5%B4%87%E5%B7%9E%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%9B%AE%E5%89%8D%E5%8C%BB%E7%96%97%E6%94%AF%E5%87%BA%E8%BF%916%E4%B8%87%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [700万动迁款分给4名子女后无人赡养](https://s.weibo.com/weibo?q=%23700%E4%B8%87%E5%8A%A8%E8%BF%81%E6%AC%BE%E5%88%86%E7%BB%994%E5%90%8D%E5%AD%90%E5%A5%B3%E5%90%8E%E6%97%A0%E4%BA%BA%E8%B5%A1%E5%85%BB%23&t=31&band_rank=8&Refer=top)<br />
+7. [700万动迁款分给4名子女后无人赡养](https://s.weibo.com/weibo?q=%23700%E4%B8%87%E5%8A%A8%E8%BF%81%E6%AC%BE%E5%88%86%E7%BB%994%E5%90%8D%E5%AD%90%E5%A5%B3%E5%90%8E%E6%97%A0%E4%BA%BA%E8%B5%A1%E5%85%BB%23&t=31&band_rank=7&Refer=top)<br />
+8. [崇州被狗咬伤女童目前医疗支出近6万元](https://s.weibo.com/weibo?q=%23%E5%B4%87%E5%B7%9E%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%9B%AE%E5%89%8D%E5%8C%BB%E7%96%97%E6%94%AF%E5%87%BA%E8%BF%916%E4%B8%87%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [被保姆抚养16年的孩子长大照顾保姆](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BF%9D%E5%A7%86%E6%8A%9A%E5%85%BB16%E5%B9%B4%E7%9A%84%E5%AD%A9%E5%AD%90%E9%95%BF%E5%A4%A7%E7%85%A7%E9%A1%BE%E4%BF%9D%E5%A7%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
