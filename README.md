@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 15:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 15:38:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [5.9一瓶的粉底液](https://s.weibo.com/weibo?q=5.9%E4%B8%80%E7%93%B6%E7%9A%84%E7%B2%89%E5%BA%95%E6%B6%B2&t=31&band_rank=2&Refer=top)<br />
 3. [长辈的爱值得一场双向奔赴](https://s.weibo.com/weibo?q=%23%E9%95%BF%E8%BE%88%E7%9A%84%E7%88%B1%E5%80%BC%E5%BE%97%E4%B8%80%E5%9C%BA%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [给内娱一点小震撼](https://s.weibo.com/weibo?q=%23%E7%BB%99%E5%86%85%E5%A8%B1%E4%B8%80%E7%82%B9%E5%B0%8F%E9%9C%87%E6%92%BC%23&t=31&band_rank=4&Refer=top)<br />
-5. [这就是街舞6官宣队长](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E8%A1%97%E8%88%9E6%E5%AE%98%E5%AE%A3%E9%98%9F%E9%95%BF%23&t=31&band_rank=5&Refer=top)<br />
-6. [买1.6万黄金1小时后换款缩水5600](https://s.weibo.com/weibo?q=%23%E4%B9%B01.6%E4%B8%87%E9%BB%84%E9%87%911%E5%B0%8F%E6%97%B6%E5%90%8E%E6%8D%A2%E6%AC%BE%E7%BC%A9%E6%B0%B45600%23&t=31&band_rank=6&Refer=top)<br />
+5. [买1.6万黄金1小时后换款缩水5600](https://s.weibo.com/weibo?q=%23%E4%B9%B01.6%E4%B8%87%E9%BB%84%E9%87%911%E5%B0%8F%E6%97%B6%E5%90%8E%E6%8D%A2%E6%AC%BE%E7%BC%A9%E6%B0%B45600%23&t=31&band_rank=5&Refer=top)<br />
+6. [这就是街舞6官宣队长](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E8%A1%97%E8%88%9E6%E5%AE%98%E5%AE%A3%E9%98%9F%E9%95%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [李佳航 别人总说我接戏乱七八糟的](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E8%88%AA%20%E5%88%AB%E4%BA%BA%E6%80%BB%E8%AF%B4%E6%88%91%E6%8E%A5%E6%88%8F%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
 8. [青岛啤酒事件涉事人员均为外用工](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E4%BA%BA%E5%91%98%E5%9D%87%E4%B8%BA%E5%A4%96%E7%94%A8%E5%B7%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [iPhone15全系价格暴跌](https://s.weibo.com/weibo?q=%23iPhone15%E5%85%A8%E7%B3%BB%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=9&Refer=top)<br />
