@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 00:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 00:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [286斤女生坐高铁二等座引争议](https://s.weibo.com/weibo?q=%23286%E6%96%A4%E5%A5%B3%E7%94%9F%E5%9D%90%E9%AB%98%E9%93%81%E4%BA%8C%E7%AD%89%E5%BA%A7%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [25岁男子坚持4年每天熬夜画CAD](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E7%94%B7%E5%AD%90%E5%9D%9A%E6%8C%814%E5%B9%B4%E6%AF%8F%E5%A4%A9%E7%86%AC%E5%A4%9C%E7%94%BBCAD%23&t=31&band_rank=7&Refer=top)<br />
 8. [崇州被狗咬伤女童目前医疗支出近6万元](https://s.weibo.com/weibo?q=%23%E5%B4%87%E5%B7%9E%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%9B%AE%E5%89%8D%E5%8C%BB%E7%96%97%E6%94%AF%E5%87%BA%E8%BF%916%E4%B8%87%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [深圳机场已恢复正常](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%E5%B7%B2%E6%81%A2%E5%A4%8D%E6%AD%A3%E5%B8%B8%23&t=31&band_rank=9&Refer=top)<br />
+9. [凤凰传奇现场 早读都没这么整齐过](https://s.weibo.com/weibo?q=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E7%8E%B0%E5%9C%BA%20%E6%97%A9%E8%AF%BB%E9%83%BD%E6%B2%A1%E8%BF%99%E4%B9%88%E6%95%B4%E9%BD%90%E8%BF%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
