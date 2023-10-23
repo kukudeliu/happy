@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 18:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 18:05:01</h4></div>
 
 > 微博  
 
 1. [这3个三角配享太庙](https://s.weibo.com/weibo?q=%23%E8%BF%993%E4%B8%AA%E4%B8%89%E8%A7%92%E9%85%8D%E4%BA%AB%E5%A4%AA%E5%BA%99%23&t=31&band_rank=1&Refer=top)<br />
 2. [大发量鲨鱼夹](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%8F%91%E9%87%8F%E9%B2%A8%E9%B1%BC%E5%A4%B9&t=31&band_rank=2&Refer=top)<br />
 3. [长辈的爱值得一场双向奔赴](https://s.weibo.com/weibo?q=%23%E9%95%BF%E8%BE%88%E7%9A%84%E7%88%B1%E5%80%BC%E5%BE%97%E4%B8%80%E5%9C%BA%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23&t=31&band_rank=3&Refer=top)<br />
-4. [昏迷50多天24岁产妇遗憾离开人世](https://s.weibo.com/weibo?q=%23%E6%98%8F%E8%BF%B750%E5%A4%9A%E5%A4%A924%E5%B2%81%E4%BA%A7%E5%A6%87%E9%81%97%E6%86%BE%E7%A6%BB%E5%BC%80%E4%BA%BA%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
+4. [酱园弄 杀夫案](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%20%E6%9D%80%E5%A4%AB%E6%A1%88&t=31&band_rank=4&Refer=top)<br />
 5. [163岁跑马夫妻每天跑步1万米](https://s.weibo.com/weibo?q=%23163%E5%B2%81%E8%B7%91%E9%A9%AC%E5%A4%AB%E5%A6%BB%E6%AF%8F%E5%A4%A9%E8%B7%91%E6%AD%A51%E4%B8%87%E7%B1%B3%23&t=31&band_rank=5&Refer=top)<br />
-6. [酱园弄 杀夫案](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%20%E6%9D%80%E5%A4%AB%E6%A1%88&t=31&band_rank=6&Refer=top)<br />
-7. [教育局回应女孩被锁楼顶喊救命](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%A9%E8%A2%AB%E9%94%81%E6%A5%BC%E9%A1%B6%E5%96%8A%E6%95%91%E5%91%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [Monster](https://s.weibo.com/weibo?q=Monster&t=31&band_rank=8&Refer=top)<br />
-9. [SEVENTEEN回归新曲](https://s.weibo.com/weibo?q=SEVENTEEN%E5%9B%9E%E5%BD%92%E6%96%B0%E6%9B%B2&t=31&band_rank=9&Refer=top)<br />
+6. [昏迷50多天24岁产妇遗憾离开人世](https://s.weibo.com/weibo?q=%23%E6%98%8F%E8%BF%B750%E5%A4%9A%E5%A4%A924%E5%B2%81%E4%BA%A7%E5%A6%87%E9%81%97%E6%86%BE%E7%A6%BB%E5%BC%80%E4%BA%BA%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
+7. [Monster](https://s.weibo.com/weibo?q=Monster&t=31&band_rank=7&Refer=top)<br />
+8. [SEVENTEEN回归新曲](https://s.weibo.com/weibo?q=SEVENTEEN%E5%9B%9E%E5%BD%92%E6%96%B0%E6%9B%B2&t=31&band_rank=8&Refer=top)<br />
+9. [Hybe](https://s.weibo.com/weibo?q=Hybe&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
