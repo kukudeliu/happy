@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 10:36:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 10:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以军就坦克意外击中埃及军事哨所道歉](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E5%B0%B1%E5%9D%A6%E5%85%8B%E6%84%8F%E5%A4%96%E5%87%BB%E4%B8%AD%E5%9F%83%E5%8F%8A%E5%86%9B%E4%BA%8B%E5%93%A8%E6%89%80%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [广东汕头发生5.0级地震](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B1%95%E5%A4%B4%E5%8F%91%E7%94%9F5.0%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [耐克回应实行四天工作制](https://s.weibo.com/weibo?q=%23%E8%80%90%E5%85%8B%E5%9B%9E%E5%BA%94%E5%AE%9E%E8%A1%8C%E5%9B%9B%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [一念花开今晚开播](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E8%8A%B1%E5%BC%80%E4%BB%8A%E6%99%9A%E5%BC%80%E6%92%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [太原发生多人伤亡交通事故](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%8E%9F%E5%8F%91%E7%94%9F%E5%A4%9A%E4%BA%BA%E4%BC%A4%E4%BA%A1%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
