@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 17:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 17:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [Monster](https://s.weibo.com/weibo?q=Monster&t=31&band_rank=5&Refer=top)<br />
 6. [林高远 禁赛](https://s.weibo.com/weibo?q=%E6%9E%97%E9%AB%98%E8%BF%9C%20%E7%A6%81%E8%B5%9B&t=31&band_rank=6&Refer=top)<br />
 7. [昏迷50多天24岁产妇遗憾离开人世](https://s.weibo.com/weibo?q=%23%E6%98%8F%E8%BF%B750%E5%A4%9A%E5%A4%A924%E5%B2%81%E4%BA%A7%E5%A6%87%E9%81%97%E6%86%BE%E7%A6%BB%E5%BC%80%E4%BA%BA%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [Hybe](https://s.weibo.com/weibo?q=Hybe&t=31&band_rank=8&Refer=top)<br />
-9. [5.9一瓶的粉底液](https://s.weibo.com/weibo?q=5.9%E4%B8%80%E7%93%B6%E7%9A%84%E7%B2%89%E5%BA%95%E6%B6%B2&t=31&band_rank=9&Refer=top)<br />
+8. [教育局回应女孩被锁楼顶喊救命](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%A9%E8%A2%AB%E9%94%81%E6%A5%BC%E9%A1%B6%E5%96%8A%E6%95%91%E5%91%BD%23&t=31&band_rank=8&Refer=top)<br />
+9. [Hybe](https://s.weibo.com/weibo?q=Hybe&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
