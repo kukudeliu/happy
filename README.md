@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 20:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 20:23:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [我们一样 为梦闪亮](https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E4%B8%80%E6%A0%B7+%E4%B8%BA%E6%A2%A6%E9%97%AA%E4%BA%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子称被手机自燃烧伤 荣耀回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%A2%AB%E6%89%8B%E6%9C%BA%E8%87%AA%E7%87%83%E7%83%A7%E4%BC%A4+%E8%8D%A3%E8%80%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [加沙居民收到以军传单、音频警告](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%B1%85%E6%B0%91%E6%94%B6%E5%88%B0%E4%BB%A5%E5%86%9B%E4%BC%A0%E5%8D%95%E3%80%81%E9%9F%B3%E9%A2%91%E8%AD%A6%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老人疑捡花生被卷入收割机身亡](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%96%91%E6%8D%A1%E8%8A%B1%E7%94%9F%E8%A2%AB%E5%8D%B7%E5%85%A5%E6%94%B6%E5%89%B2%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [iPhone15全系价格大崩 完全不用抢](https://www.baidu.com/s?wd=iPhone15%E5%85%A8%E7%B3%BB%E4%BB%B7%E6%A0%BC%E5%A4%A7%E5%B4%A9+%E5%AE%8C%E5%85%A8%E4%B8%8D%E7%94%A8%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [教育局回应著名教师发文意淫女乘客](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E8%91%97%E5%90%8D%E6%95%99%E5%B8%88%E5%8F%91%E6%96%87%E6%84%8F%E6%B7%AB%E5%A5%B3%E4%B9%98%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老人疑捡花生被卷入收割机身亡](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%96%91%E6%8D%A1%E8%8A%B1%E7%94%9F%E8%A2%AB%E5%8D%B7%E5%85%A5%E6%94%B6%E5%89%B2%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [生态环境部辟谣开展检查活动](https://www.baidu.com/s?wd=%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83%E9%83%A8%E8%BE%9F%E8%B0%A3%E5%BC%80%E5%B1%95%E6%A3%80%E6%9F%A5%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [我们一样 为梦闪亮](https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E4%B8%80%E6%A0%B7+%E4%B8%BA%E6%A2%A6%E9%97%AA%E4%BA%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子称被手机自燃烧伤 荣耀回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%A2%AB%E6%89%8B%E6%9C%BA%E8%87%AA%E7%87%83%E7%83%A7%E4%BC%A4+%E8%8D%A3%E8%80%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [加沙居民收到以军传单、音频警告](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%B1%85%E6%B0%91%E6%94%B6%E5%88%B0%E4%BB%A5%E5%86%9B%E4%BC%A0%E5%8D%95%E3%80%81%E9%9F%B3%E9%A2%91%E8%AD%A6%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老人疑捡花生被卷入收割机身亡](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%96%91%E6%8D%A1%E8%8A%B1%E7%94%9F%E8%A2%AB%E5%8D%B7%E5%85%A5%E6%94%B6%E5%89%B2%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [iPhone15全系价格大崩 完全不用抢](https://www.baidu.com/s?wd=iPhone15%E5%85%A8%E7%B3%BB%E4%BB%B7%E6%A0%BC%E5%A4%A7%E5%B4%A9+%E5%AE%8C%E5%85%A8%E4%B8%8D%E7%94%A8%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [教育局回应著名教师发文意淫女乘客](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E8%91%97%E5%90%8D%E6%95%99%E5%B8%88%E5%8F%91%E6%96%87%E6%84%8F%E6%B7%AB%E5%A5%B3%E4%B9%98%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老人疑捡花生被卷入收割机身亡](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%96%91%E6%8D%A1%E8%8A%B1%E7%94%9F%E8%A2%AB%E5%8D%B7%E5%85%A5%E6%94%B6%E5%89%B2%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [生态环境部辟谣开展检查活动](https://www.baidu.com/s?wd=%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83%E9%83%A8%E8%BE%9F%E8%B0%A3%E5%BC%80%E5%B1%95%E6%A3%80%E6%9F%A5%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
