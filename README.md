@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 17:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 17:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [买1.6万黄金1小时后换款缩水5600](https://s.weibo.com/weibo?q=%23%E4%B9%B01.6%E4%B8%87%E9%BB%84%E9%87%911%E5%B0%8F%E6%97%B6%E5%90%8E%E6%8D%A2%E6%AC%BE%E7%BC%A9%E6%B0%B45600%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国股市必须守住](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E5%BF%85%E9%A1%BB%E5%AE%88%E4%BD%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [iPhone15全系价格暴跌](https://s.weibo.com/weibo?q=%23iPhone15%E5%85%A8%E7%B3%BB%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [王栎鑫谁还不是个rapper](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E8%B0%81%E8%BF%98%E4%B8%8D%E6%98%AF%E4%B8%AArapper%23&t=31&band_rank=9&Refer=top)<br />
+9. [SEVENTEEN回归](https://s.weibo.com/weibo?q=SEVENTEEN%E5%9B%9E%E5%BD%92&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
