@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 08:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 08:23:02</h4></div>
 
 > 微博  
 
-1. [广东汕头发生5.0级地震](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B1%95%E5%A4%B4%E5%8F%91%E7%94%9F5.0%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [耐克大中华区宣布将实行四天工作制](https://s.weibo.com/weibo?q=%23%E8%80%90%E5%85%8B%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%8C%BA%E5%AE%A3%E5%B8%83%E5%B0%86%E5%AE%9E%E8%A1%8C%E5%9B%9B%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6%23&t=31&band_rank=2&Refer=top)<br />
+1. [耐克大中华区宣布将实行四天工作制](https://s.weibo.com/weibo?q=%23%E8%80%90%E5%85%8B%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%8C%BA%E5%AE%A3%E5%B8%83%E5%B0%86%E5%AE%9E%E8%A1%8C%E5%9B%9B%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6%23&t=31&band_rank=1&Refer=top)<br />
+2. [广东汕头发生5.0级地震](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B1%95%E5%A4%B4%E5%8F%91%E7%94%9F5.0%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚残运会开幕](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%23&t=31&band_rank=3&Refer=top)<br />
 4. [郭麒麟说我有点儿可怜我爸](https://s.weibo.com/weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E8%AF%B4%E6%88%91%E6%9C%89%E7%82%B9%E5%84%BF%E5%8F%AF%E6%80%9C%E6%88%91%E7%88%B8%23&t=31&band_rank=4&Refer=top)<br />
 5. [27岁女子长期横向刷牙致牙齿缺损](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A5%B3%E5%AD%90%E9%95%BF%E6%9C%9F%E6%A8%AA%E5%90%91%E5%88%B7%E7%89%99%E8%87%B4%E7%89%99%E9%BD%BF%E7%BC%BA%E6%8D%9F%23&t=31&band_rank=5&Refer=top)<br />
