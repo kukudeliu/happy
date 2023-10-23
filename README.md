@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 10:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 10:15:01</h4></div>
 
 > 微博  
 
-1. [青岛啤酒视频拍摄者已被警方控制](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E8%A7%86%E9%A2%91%E6%8B%8D%E6%91%84%E8%80%85%E5%B7%B2%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8E%A7%E5%88%B6%23&t=31&band_rank=1&Refer=top)<br />
-2. [兄妹喝奶奶捡回饮料中毒医院怀疑人为投毒](https://s.weibo.com/weibo?q=%23%E5%85%84%E5%A6%B9%E5%96%9D%E5%A5%B6%E5%A5%B6%E6%8D%A1%E5%9B%9E%E9%A5%AE%E6%96%99%E4%B8%AD%E6%AF%92%E5%8C%BB%E9%99%A2%E6%80%80%E7%96%91%E4%BA%BA%E4%B8%BA%E6%8A%95%E6%AF%92%23&t=31&band_rank=2&Refer=top)<br />
+1. [兄妹喝奶奶捡回饮料中毒医院怀疑人为投毒](https://s.weibo.com/weibo?q=%23%E5%85%84%E5%A6%B9%E5%96%9D%E5%A5%B6%E5%A5%B6%E6%8D%A1%E5%9B%9E%E9%A5%AE%E6%96%99%E4%B8%AD%E6%AF%92%E5%8C%BB%E9%99%A2%E6%80%80%E7%96%91%E4%BA%BA%E4%B8%BA%E6%8A%95%E6%AF%92%23&t=31&band_rank=1&Refer=top)<br />
+2. [青岛啤酒视频拍摄者已被警方控制](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E8%A7%86%E9%A2%91%E6%8B%8D%E6%91%84%E8%80%85%E5%B7%B2%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8E%A7%E5%88%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚残运会开幕](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%23&t=31&band_rank=3&Refer=top)<br />
 4. [全昭旻RM下车](https://s.weibo.com/weibo?q=%E5%85%A8%E6%98%AD%E6%97%BBRM%E4%B8%8B%E8%BD%A6&t=31&band_rank=4&Refer=top)<br />
 5. [旅客带核辐射超标1050倍保健石入境](https://s.weibo.com/weibo?q=%23%E6%97%85%E5%AE%A2%E5%B8%A6%E6%A0%B8%E8%BE%90%E5%B0%84%E8%B6%85%E6%A0%871050%E5%80%8D%E4%BF%9D%E5%81%A5%E7%9F%B3%E5%85%A5%E5%A2%83%23&t=31&band_rank=5&Refer=top)<br />
