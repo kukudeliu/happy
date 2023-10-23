@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 17:24:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-23 17:25:02</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [长辈的爱值得一场双向奔赴](https://s.weibo.com/weibo?q=%23%E9%95%BF%E8%BE%88%E7%9A%84%E7%88%B1%E5%80%BC%E5%BE%97%E4%B8%80%E5%9C%BA%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [5.9一瓶的粉底液](https://s.weibo.com/weibo?q=5.9%E4%B8%80%E7%93%B6%E7%9A%84%E7%B2%89%E5%BA%95%E6%B6%B2&t=31&band_rank=4&Refer=top)<br />
 5. [给内娱一点小震撼](https://s.weibo.com/weibo?q=%23%E7%BB%99%E5%86%85%E5%A8%B1%E4%B8%80%E7%82%B9%E5%B0%8F%E9%9C%87%E6%92%BC%23&t=31&band_rank=5&Refer=top)<br />
-6. [iPhone15全系价格暴跌](https://s.weibo.com/weibo?q=%23iPhone15%E5%85%A8%E7%B3%BB%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=6&Refer=top)<br />
-7. [这就是街舞6官宣队长](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E8%A1%97%E8%88%9E6%E5%AE%98%E5%AE%A3%E9%98%9F%E9%95%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [林高远 禁赛](https://s.weibo.com/weibo?q=%E6%9E%97%E9%AB%98%E8%BF%9C%20%E7%A6%81%E8%B5%9B&t=31&band_rank=8&Refer=top)<br />
+6. [林高远 禁赛](https://s.weibo.com/weibo?q=%E6%9E%97%E9%AB%98%E8%BF%9C%20%E7%A6%81%E8%B5%9B&t=31&band_rank=6&Refer=top)<br />
+7. [iPhone15全系价格暴跌](https://s.weibo.com/weibo?q=%23iPhone15%E5%85%A8%E7%B3%BB%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=7&Refer=top)<br />
+8. [这就是街舞6官宣队长](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E8%A1%97%E8%88%9E6%E5%AE%98%E5%AE%A3%E9%98%9F%E9%95%BF%23&t=31&band_rank=8&Refer=top)<br />
 9. [中国股市必须守住](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E5%BF%85%E9%A1%BB%E5%AE%88%E4%BD%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
