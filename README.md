@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 12:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 12:37:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [金世佳毛晓彤吻戏](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%B8%96%E4%BD%B3%E6%AF%9B%E6%99%93%E5%BD%A4%E5%90%BB%E6%88%8F%23&t=31&band_rank=4&Refer=top)<br />
 5. [河南3岁女童独自下楼玩失踪](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%973%E5%B2%81%E5%A5%B3%E7%AB%A5%E7%8B%AC%E8%87%AA%E4%B8%8B%E6%A5%BC%E7%8E%A9%E5%A4%B1%E8%B8%AA%23&t=31&band_rank=5&Refer=top)<br />
 6. [我要逆风去 定档](https://s.weibo.com/weibo?q=%E6%88%91%E8%A6%81%E9%80%86%E9%A3%8E%E5%8E%BB%20%E5%AE%9A%E6%A1%A3&t=31&band_rank=6&Refer=top)<br />
-7. [于正下部剧邀请了周也](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E4%B8%8B%E9%83%A8%E5%89%A7%E9%82%80%E8%AF%B7%E4%BA%86%E5%91%A8%E4%B9%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [恋与制作人 你说公主请抽卡](https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E5%88%B6%E4%BD%9C%E4%BA%BA%20%E4%BD%A0%E8%AF%B4%E5%85%AC%E4%B8%BB%E8%AF%B7%E6%8A%BD%E5%8D%A1&t=31&band_rank=8&Refer=top)<br />
-9. [初一和高三撞班旗高低得合张影](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%80%E5%92%8C%E9%AB%98%E4%B8%89%E6%92%9E%E7%8F%AD%E6%97%97%E9%AB%98%E4%BD%8E%E5%BE%97%E5%90%88%E5%BC%A0%E5%BD%B1%23&t=31&band_rank=9&Refer=top)<br />
+7. [初一和高三撞班旗高低得合张影](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%80%E5%92%8C%E9%AB%98%E4%B8%89%E6%92%9E%E7%8F%AD%E6%97%97%E9%AB%98%E4%BD%8E%E5%BE%97%E5%90%88%E5%BC%A0%E5%BD%B1%23&t=31&band_rank=7&Refer=top)<br />
+8. [于正下部剧邀请了周也](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E4%B8%8B%E9%83%A8%E5%89%A7%E9%82%80%E8%AF%B7%E4%BA%86%E5%91%A8%E4%B9%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [华为澄清将发射1万枚6G移动低轨卫星](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%BE%84%E6%B8%85%E5%B0%86%E5%8F%91%E5%B0%841%E4%B8%87%E6%9E%9A6G%E7%A7%BB%E5%8A%A8%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
