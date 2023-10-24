@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 03:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 03:18:02</h4></div>
 
 > 微博  
 
 1. [李佳琦公司美ONE合同细则曝光](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%85%AC%E5%8F%B8%E7%BE%8EONE%E5%90%88%E5%90%8C%E7%BB%86%E5%88%99%E6%9B%9D%E5%85%89%23&t=31&band_rank=1&Refer=top)<br />
 2. [王志刚被免去科学技术部部长职务](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%97%E5%88%9A%E8%A2%AB%E5%85%8D%E5%8E%BB%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [未成年人网络保护](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BD%91%E7%BB%9C%E4%BF%9D%E6%8A%A4%23&t=31&band_rank=3&Refer=top)<br />
-4. [我国艾滋病患者治疗成功率已超过90%](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%89%BE%E6%BB%8B%E7%97%85%E6%82%A3%E8%80%85%E6%B2%BB%E7%96%97%E6%88%90%E5%8A%9F%E7%8E%87%E5%B7%B2%E8%B6%85%E8%BF%8790%25%23&t=31&band_rank=4&Refer=top)<br />
-5. [美ONE要求品牌保底价否则赔偿200万](https://s.weibo.com/weibo?q=%23%E7%BE%8EONE%E8%A6%81%E6%B1%82%E5%93%81%E7%89%8C%E4%BF%9D%E5%BA%95%E4%BB%B7%E5%90%A6%E5%88%99%E8%B5%94%E5%81%BF200%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
+4. [美ONE要求品牌保底价否则赔偿200万](https://s.weibo.com/weibo?q=%23%E7%BE%8EONE%E8%A6%81%E6%B1%82%E5%93%81%E7%89%8C%E4%BF%9D%E5%BA%95%E4%BB%B7%E5%90%A6%E5%88%99%E8%B5%94%E5%81%BF200%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
+5. [我国艾滋病患者治疗成功率已超过90%](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%89%BE%E6%BB%8B%E7%97%85%E6%82%A3%E8%80%85%E6%B2%BB%E7%96%97%E6%88%90%E5%8A%9F%E7%8E%87%E5%B7%B2%E8%B6%85%E8%BF%8790%25%23&t=31&band_rank=5&Refer=top)<br />
 6. [我国将增发1万亿元国债](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%B0%86%E5%A2%9E%E5%8F%911%E4%B8%87%E4%BA%BF%E5%85%83%E5%9B%BD%E5%80%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭何泓姗二搭爷青回](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BD%95%E6%B3%93%E5%A7%97%E4%BA%8C%E6%90%AD%E7%88%B7%E9%9D%92%E5%9B%9E%23&t=31&band_rank=7&Refer=top)<br />
 8. [双十一 洗发水](https://s.weibo.com/weibo?q=%E5%8F%8C%E5%8D%81%E4%B8%80%20%E6%B4%97%E5%8F%91%E6%B0%B4&t=31&band_rank=8&Refer=top)<br />
