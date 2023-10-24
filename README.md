@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 09:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 09:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [厂家称5.9元粉底液是活动价](https://s.weibo.com/weibo?q=%23%E5%8E%82%E5%AE%B6%E7%A7%B05.9%E5%85%83%E7%B2%89%E5%BA%95%E6%B6%B2%E6%98%AF%E6%B4%BB%E5%8A%A8%E4%BB%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [开学一个多月后儿童精神科爆满](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88%E5%90%8E%E5%84%BF%E7%AB%A5%E7%B2%BE%E7%A5%9E%E7%A7%91%E7%88%86%E6%BB%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [以色列巴勒斯坦冲突](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%86%B2%E7%AA%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子全勤工作1个月发257元工资](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%85%A8%E5%8B%A4%E5%B7%A5%E4%BD%9C1%E4%B8%AA%E6%9C%88%E5%8F%91257%E5%85%83%E5%B7%A5%E8%B5%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [金希澈和自己的婚礼](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%B8%8C%E6%BE%88%E5%92%8C%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
