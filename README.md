@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 13:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 13:37:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [美籍男子抵达香港时行李搜出手枪](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%B1%8D%E7%94%B7%E5%AD%90%E6%8A%B5%E8%BE%BE%E9%A6%99%E6%B8%AF%E6%97%B6%E8%A1%8C%E6%9D%8E%E6%90%9C%E5%87%BA%E6%89%8B%E6%9E%AA%23&t=31&band_rank=4&Refer=top)<br />
 5. [谢娜杨紫新综艺](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%9D%A8%E7%B4%AB%E6%96%B0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [被狗咬伤女童200万捐款争议](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5200%E4%B8%87%E6%8D%90%E6%AC%BE%E4%BA%89%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
-7. [外媒炒作中国6艘舰艇同时现身中东](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%82%92%E4%BD%9C%E4%B8%AD%E5%9B%BD6%E8%89%98%E8%88%B0%E8%89%87%E5%90%8C%E6%97%B6%E7%8E%B0%E8%BA%AB%E4%B8%AD%E4%B8%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [我要逆风去 定档](https://s.weibo.com/weibo?q=%E6%88%91%E8%A6%81%E9%80%86%E9%A3%8E%E5%8E%BB%20%E5%AE%9A%E6%A1%A3&t=31&band_rank=8&Refer=top)<br />
-9. [吉林一小区发生爆炸楼体被炸出大洞](https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E6%A5%BC%E4%BD%93%E8%A2%AB%E7%82%B8%E5%87%BA%E5%A4%A7%E6%B4%9E%23&t=31&band_rank=9&Refer=top)<br />
+7. [疯狂小杨哥回应电商挤压实体经济](https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E7%94%B5%E5%95%86%E6%8C%A4%E5%8E%8B%E5%AE%9E%E4%BD%93%E7%BB%8F%E6%B5%8E%23&t=31&band_rank=7&Refer=top)<br />
+8. [外媒炒作中国6艘舰艇同时现身中东](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%82%92%E4%BD%9C%E4%B8%AD%E5%9B%BD6%E8%89%98%E8%88%B0%E8%89%87%E5%90%8C%E6%97%B6%E7%8E%B0%E8%BA%AB%E4%B8%AD%E4%B8%9C%23&t=31&band_rank=8&Refer=top)<br />
+9. [我要逆风去 定档](https://s.weibo.com/weibo?q=%E6%88%91%E8%A6%81%E9%80%86%E9%A3%8E%E5%8E%BB%20%E5%AE%9A%E6%A1%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
