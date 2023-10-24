@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 20:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 20:59:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [多组数据展现中国经济澎湃动能](https://www.baidu.com/s?wd=%E5%A4%9A%E7%BB%84%E6%95%B0%E6%8D%AE%E5%B1%95%E7%8E%B0%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%BE%8E%E6%B9%83%E5%8A%A8%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [老师曝光教室无窗帘被约谈 校长停职](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%9B%9D%E5%85%89%E6%95%99%E5%AE%A4%E6%97%A0%E7%AA%97%E5%B8%98%E8%A2%AB%E7%BA%A6%E8%B0%88+%E6%A0%A1%E9%95%BF%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李尚福被免去国防部部长职务](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%9B%BD%E9%98%B2%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [哈马斯一高级领导人监狱中身亡](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E4%B8%80%E9%AB%98%E7%BA%A7%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%9B%91%E7%8B%B1%E4%B8%AD%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吴彦祖进店配眼镜 老板娘手足无措](https://www.baidu.com/s?wd=%E5%90%B4%E5%BD%A6%E7%A5%96%E8%BF%9B%E5%BA%97%E9%85%8D%E7%9C%BC%E9%95%9C+%E8%80%81%E6%9D%BF%E5%A8%98%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国大使会见缅甸高层谈打击电诈](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E4%BC%9A%E8%A7%81%E7%BC%85%E7%94%B8%E9%AB%98%E5%B1%82%E8%B0%88%E6%89%93%E5%87%BB%E7%94%B5%E8%AF%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [哈马斯一高级领导人监狱中身亡](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E4%B8%80%E9%AB%98%E7%BA%A7%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%9B%91%E7%8B%B1%E4%B8%AD%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣深圳地铁高架桥现裂缝](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E9%AB%98%E6%9E%B6%E6%A1%A5%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [多组数据展现中国经济澎湃动能](https://www.baidu.com/s?wd=%E5%A4%9A%E7%BB%84%E6%95%B0%E6%8D%AE%E5%B1%95%E7%8E%B0%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%BE%8E%E6%B9%83%E5%8A%A8%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [老师曝光教室无窗帘被约谈 校长停职](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%9B%9D%E5%85%89%E6%95%99%E5%AE%A4%E6%97%A0%E7%AA%97%E5%B8%98%E8%A2%AB%E7%BA%A6%E8%B0%88+%E6%A0%A1%E9%95%BF%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李尚福被免去国防部部长职务](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%9B%BD%E9%98%B2%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [哈马斯一高级领导人监狱中身亡](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E4%B8%80%E9%AB%98%E7%BA%A7%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%9B%91%E7%8B%B1%E4%B8%AD%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吴彦祖进店配眼镜 老板娘手足无措](https://www.baidu.com/s?wd=%E5%90%B4%E5%BD%A6%E7%A5%96%E8%BF%9B%E5%BA%97%E9%85%8D%E7%9C%BC%E9%95%9C+%E8%80%81%E6%9D%BF%E5%A8%98%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国大使会见缅甸高层谈打击电诈](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E4%BC%9A%E8%A7%81%E7%BC%85%E7%94%B8%E9%AB%98%E5%B1%82%E8%B0%88%E6%89%93%E5%87%BB%E7%94%B5%E8%AF%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [哈马斯一高级领导人监狱中身亡](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E4%B8%80%E9%AB%98%E7%BA%A7%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%9B%91%E7%8B%B1%E4%B8%AD%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣深圳地铁高架桥现裂缝](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E9%AB%98%E6%9E%B6%E6%A1%A5%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
