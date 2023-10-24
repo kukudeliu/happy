@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 12:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 12:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [我要逆风去 定档](https://s.weibo.com/weibo?q=%E6%88%91%E8%A6%81%E9%80%86%E9%A3%8E%E5%8E%BB%20%E5%AE%9A%E6%A1%A3&t=31&band_rank=6&Refer=top)<br />
 7. [金世佳毛晓彤吻戏](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%B8%96%E4%BD%B3%E6%AF%9B%E6%99%93%E5%BD%A4%E5%90%BB%E6%88%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [发型也是穿搭的一环](https://s.weibo.com/weibo?q=%23%E5%8F%91%E5%9E%8B%E4%B9%9F%E6%98%AF%E7%A9%BF%E6%90%AD%E7%9A%84%E4%B8%80%E7%8E%AF%23&t=31&band_rank=8&Refer=top)<br />
-9. [恋与制作人 你说公主请抽卡](https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E5%88%B6%E4%BD%9C%E4%BA%BA%20%E4%BD%A0%E8%AF%B4%E5%85%AC%E4%B8%BB%E8%AF%B7%E6%8A%BD%E5%8D%A1&t=31&band_rank=9&Refer=top)<br />
+9. [吉林一小区发生爆炸楼体被炸出大洞](https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E6%A5%BC%E4%BD%93%E8%A2%AB%E7%82%B8%E5%87%BA%E5%A4%A7%E6%B4%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
