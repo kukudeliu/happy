@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 07:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 07:44:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [外媒曝侯孝贤患失智症](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%9B%9D%E4%BE%AF%E5%AD%9D%E8%B4%A4%E6%82%A3%E5%A4%B1%E6%99%BA%E7%97%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [未成年人网络保护](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BD%91%E7%BB%9C%E4%BF%9D%E6%8A%A4%23&t=31&band_rank=3&Refer=top)<br />
 4. [王志刚被免去科学技术部部长职务](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%97%E5%88%9A%E8%A2%AB%E5%85%8D%E5%8E%BB%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1%23&t=31&band_rank=4&Refer=top)<br />
-5. [苹果将举办发布会](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%B0%86%E4%B8%BE%E5%8A%9E%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=5&Refer=top)<br />
-6. [中学老师批改作业写下你是孤儿吗评语](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E6%89%B9%E6%94%B9%E4%BD%9C%E4%B8%9A%E5%86%99%E4%B8%8B%E4%BD%A0%E6%98%AF%E5%AD%A4%E5%84%BF%E5%90%97%E8%AF%84%E8%AF%AD%23&t=31&band_rank=6&Refer=top)<br />
-7. [白敬亭何泓姗二搭爷青回](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BD%95%E6%B3%93%E5%A7%97%E4%BA%8C%E6%90%AD%E7%88%B7%E9%9D%92%E5%9B%9E%23&t=31&band_rank=7&Refer=top)<br />
-8. [克宫回应普京健康出问题说法](https://s.weibo.com/weibo?q=%23%E5%85%8B%E5%AE%AB%E5%9B%9E%E5%BA%94%E6%99%AE%E4%BA%AC%E5%81%A5%E5%BA%B7%E5%87%BA%E9%97%AE%E9%A2%98%E8%AF%B4%E6%B3%95%23&t=31&band_rank=8&Refer=top)<br />
+5. [中学老师批改作业写下你是孤儿吗评语](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E6%89%B9%E6%94%B9%E4%BD%9C%E4%B8%9A%E5%86%99%E4%B8%8B%E4%BD%A0%E6%98%AF%E5%AD%A4%E5%84%BF%E5%90%97%E8%AF%84%E8%AF%AD%23&t=31&band_rank=5&Refer=top)<br />
+6. [苹果将举办发布会](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%B0%86%E4%B8%BE%E5%8A%9E%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
+7. [克宫回应普京健康出问题说法](https://s.weibo.com/weibo?q=%23%E5%85%8B%E5%AE%AB%E5%9B%9E%E5%BA%94%E6%99%AE%E4%BA%AC%E5%81%A5%E5%BA%B7%E5%87%BA%E9%97%AE%E9%A2%98%E8%AF%B4%E6%B3%95%23&t=31&band_rank=7&Refer=top)<br />
+8. [白敬亭何泓姗二搭爷青回](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BD%95%E6%B3%93%E5%A7%97%E4%BA%8C%E6%90%AD%E7%88%B7%E9%9D%92%E5%9B%9E%23&t=31&band_rank=8&Refer=top)<br />
 9. [宝爸口含冰棍给生病宝宝人工降温](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E7%88%B8%E5%8F%A3%E5%90%AB%E5%86%B0%E6%A3%8D%E7%BB%99%E7%94%9F%E7%97%85%E5%AE%9D%E5%AE%9D%E4%BA%BA%E5%B7%A5%E9%99%8D%E6%B8%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
