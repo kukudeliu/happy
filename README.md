@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 01:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 01:02:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [双十一 洗发水](https://s.weibo.com/weibo?q=%E5%8F%8C%E5%8D%81%E4%B8%80%20%E6%B4%97%E5%8F%91%E6%B0%B4&t=31&band_rank=2&Refer=top)<br />
 3. [未成年人网络保护](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BD%91%E7%BB%9C%E4%BF%9D%E6%8A%A4%23&t=31&band_rank=3&Refer=top)<br />
 4. [王志刚被免去科学技术部部长职务](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%97%E5%88%9A%E8%A2%AB%E5%85%8D%E5%8E%BB%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1%23&t=31&band_rank=4&Refer=top)<br />
-5. [王小波是中国最早的程序员之一](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%B0%8F%E6%B3%A2%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%97%A9%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B9%8B%E4%B8%80&t=31&band_rank=5&Refer=top)<br />
-6. [小蛮腰发型](https://s.weibo.com/weibo?q=%E5%B0%8F%E8%9B%AE%E8%85%B0%E5%8F%91%E5%9E%8B&t=31&band_rank=6&Refer=top)<br />
+5. [小蛮腰发型](https://s.weibo.com/weibo?q=%E5%B0%8F%E8%9B%AE%E8%85%B0%E5%8F%91%E5%9E%8B&t=31&band_rank=5&Refer=top)<br />
+6. [王小波是中国最早的程序员之一](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%B0%8F%E6%B3%A2%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%97%A9%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B9%8B%E4%B8%80&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭何泓姗二搭爷青回](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BD%95%E6%B3%93%E5%A7%97%E4%BA%8C%E6%90%AD%E7%88%B7%E9%9D%92%E5%9B%9E%23&t=31&band_rank=7&Refer=top)<br />
 8. [邓为为对手戏演员磨掉棍子的刺](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E4%B8%BA%E5%AF%B9%E6%89%8B%E6%88%8F%E6%BC%94%E5%91%98%E7%A3%A8%E6%8E%89%E6%A3%8D%E5%AD%90%E7%9A%84%E5%88%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [高校食堂干锅虾28一份有61只虾](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%B9%B2%E9%94%85%E8%99%BE28%E4%B8%80%E4%BB%BD%E6%9C%8961%E5%8F%AA%E8%99%BE%23&t=31&band_rank=9&Refer=top)<br />
