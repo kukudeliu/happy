@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 22:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 22:59:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [蓝佛安出任财政部部长](https://www.baidu.com/s?wd=%E8%93%9D%E4%BD%9B%E5%AE%89%E5%87%BA%E4%BB%BB%E8%B4%A2%E6%94%BF%E9%83%A8%E9%83%A8%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [透过数据感受中国经济发展活力](https://www.baidu.com/s?wd=%E9%80%8F%E8%BF%87%E6%95%B0%E6%8D%AE%E6%84%9F%E5%8F%97%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子曝15万存款被农行改成购买](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%9B%9D15%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E5%86%9C%E8%A1%8C%E6%94%B9%E6%88%90%E8%B4%AD%E4%B9%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [日本歌手台上高歌致脑出血离世](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%AD%8C%E6%89%8B%E5%8F%B0%E4%B8%8A%E9%AB%98%E6%AD%8C%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本宣布任命新任驻华和驻美大使](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%E4%BB%BB%E5%91%BD%E6%96%B0%E4%BB%BB%E9%A9%BB%E5%8D%8E%E5%92%8C%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吴彦祖进店配眼镜 老板娘手足无措](https://www.baidu.com/s?wd=%E5%90%B4%E5%BD%A6%E7%A5%96%E8%BF%9B%E5%BA%97%E9%85%8D%E7%9C%BC%E9%95%9C+%E8%80%81%E6%9D%BF%E5%A8%98%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [爱国主义教育法表决通过](https://www.baidu.com/s?wd=%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%A1%A8%E5%86%B3%E9%80%9A%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日本歌手台上高歌致脑出血离世](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%AD%8C%E6%89%8B%E5%8F%B0%E4%B8%8A%E9%AB%98%E6%AD%8C%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子盗窃名贵烟酒车上贴相信公安](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9B%97%E7%AA%83%E5%90%8D%E8%B4%B5%E7%83%9F%E9%85%92%E8%BD%A6%E4%B8%8A%E8%B4%B4%E7%9B%B8%E4%BF%A1%E5%85%AC%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣5名保安强奸1女子](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A35%E5%90%8D%E4%BF%9D%E5%AE%89%E5%BC%BA%E5%A5%B81%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [蓝佛安出任财政部部长](https://www.baidu.com/s?wd=%E8%93%9D%E4%BD%9B%E5%AE%89%E5%87%BA%E4%BB%BB%E8%B4%A2%E6%94%BF%E9%83%A8%E9%83%A8%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [透过数据感受中国经济发展活力](https://www.baidu.com/s?wd=%E9%80%8F%E8%BF%87%E6%95%B0%E6%8D%AE%E6%84%9F%E5%8F%97%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子曝15万存款被农行改成购买](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%9B%9D15%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E5%86%9C%E8%A1%8C%E6%94%B9%E6%88%90%E8%B4%AD%E4%B9%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [日本歌手台上高歌致脑出血离世](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%AD%8C%E6%89%8B%E5%8F%B0%E4%B8%8A%E9%AB%98%E6%AD%8C%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本宣布任命新任驻华和驻美大使](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%E4%BB%BB%E5%91%BD%E6%96%B0%E4%BB%BB%E9%A9%BB%E5%8D%8E%E5%92%8C%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吴彦祖进店配眼镜 老板娘手足无措](https://www.baidu.com/s?wd=%E5%90%B4%E5%BD%A6%E7%A5%96%E8%BF%9B%E5%BA%97%E9%85%8D%E7%9C%BC%E9%95%9C+%E8%80%81%E6%9D%BF%E5%A8%98%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [爱国主义教育法表决通过](https://www.baidu.com/s?wd=%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%A1%A8%E5%86%B3%E9%80%9A%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日本歌手台上高歌致脑出血离世](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%AD%8C%E6%89%8B%E5%8F%B0%E4%B8%8A%E9%AB%98%E6%AD%8C%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子盗窃名贵烟酒车上贴相信公安](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9B%97%E7%AA%83%E5%90%8D%E8%B4%B5%E7%83%9F%E9%85%92%E8%BD%A6%E4%B8%8A%E8%B4%B4%E7%9B%B8%E4%BF%A1%E5%85%AC%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣5名保安强奸1女子](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A35%E5%90%8D%E4%BF%9D%E5%AE%89%E5%BC%BA%E5%A5%B81%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
