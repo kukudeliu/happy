@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 21:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 21:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周迅 把我跟拖垃圾袋一样拖上来](https://s.weibo.com/weibo?q=%E5%91%A8%E8%BF%85%20%E6%8A%8A%E6%88%91%E8%B7%9F%E6%8B%96%E5%9E%83%E5%9C%BE%E8%A2%8B%E4%B8%80%E6%A0%B7%E6%8B%96%E4%B8%8A%E6%9D%A5&t=31&band_rank=6&Refer=top)<br />
 7. [国债](https://s.weibo.com/weibo?q=%E5%9B%BD%E5%80%BA&t=31&band_rank=7&Refer=top)<br />
 8. [高校食堂干锅虾28一份有61只虾](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%B9%B2%E9%94%85%E8%99%BE28%E4%B8%80%E4%BB%BD%E6%9C%8961%E5%8F%AA%E8%99%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [缅北诈骗窝点有老虎当看守](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E8%AF%88%E9%AA%97%E7%AA%9D%E7%82%B9%E6%9C%89%E8%80%81%E8%99%8E%E5%BD%93%E7%9C%8B%E5%AE%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [花知晓腮红](https://s.weibo.com/weibo?q=%E8%8A%B1%E7%9F%A5%E6%99%93%E8%85%AE%E7%BA%A2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
