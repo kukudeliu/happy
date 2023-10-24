@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 19:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 19:18:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [钟睒睒第三次成为中国首富](https://www.baidu.com/s?wd=%E9%92%9F%E7%9D%92%E7%9D%92%E7%AC%AC%E4%B8%89%E6%AC%A1%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [吴彦祖进店配眼镜 老板娘手足无措](https://www.baidu.com/s?wd=%E5%90%B4%E5%BD%A6%E7%A5%96%E8%BF%9B%E5%BA%97%E9%85%8D%E7%9C%BC%E9%95%9C+%E8%80%81%E6%9D%BF%E5%A8%98%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [千人在线看“打鬼子直播” 抖音回应](https://www.baidu.com/s?wd=%E5%8D%83%E4%BA%BA%E5%9C%A8%E7%BA%BF%E7%9C%8B%E2%80%9C%E6%89%93%E9%AC%BC%E5%AD%90%E7%9B%B4%E6%92%AD%E2%80%9D+%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：菲律宾仗着醉意在南海耍酒疯](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%8F%B2%E5%BE%8B%E5%AE%BE%E4%BB%97%E7%9D%80%E9%86%89%E6%84%8F%E5%9C%A8%E5%8D%97%E6%B5%B7%E8%80%8D%E9%85%92%E7%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄称美没能力建设国际新秩序](https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%B0%E7%BE%8E%E6%B2%A1%E8%83%BD%E5%8A%9B%E5%BB%BA%E8%AE%BE%E5%9B%BD%E9%99%85%E6%96%B0%E7%A7%A9%E5%BA%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣深圳地铁高架桥现裂缝](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E9%AB%98%E6%9E%B6%E6%A1%A5%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [钟睒睒第三次成为中国首富](https://www.baidu.com/s?wd=%E9%92%9F%E7%9D%92%E7%9D%92%E7%AC%AC%E4%B8%89%E6%AC%A1%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [吴彦祖进店配眼镜 老板娘手足无措](https://www.baidu.com/s?wd=%E5%90%B4%E5%BD%A6%E7%A5%96%E8%BF%9B%E5%BA%97%E9%85%8D%E7%9C%BC%E9%95%9C+%E8%80%81%E6%9D%BF%E5%A8%98%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [千人在线看“打鬼子直播” 抖音回应](https://www.baidu.com/s?wd=%E5%8D%83%E4%BA%BA%E5%9C%A8%E7%BA%BF%E7%9C%8B%E2%80%9C%E6%89%93%E9%AC%BC%E5%AD%90%E7%9B%B4%E6%92%AD%E2%80%9D+%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：菲律宾仗着醉意在南海耍酒疯](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%8F%B2%E5%BE%8B%E5%AE%BE%E4%BB%97%E7%9D%80%E9%86%89%E6%84%8F%E5%9C%A8%E5%8D%97%E6%B5%B7%E8%80%8D%E9%85%92%E7%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄称美没能力建设国际新秩序](https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%B0%E7%BE%8E%E6%B2%A1%E8%83%BD%E5%8A%9B%E5%BB%BA%E8%AE%BE%E5%9B%BD%E9%99%85%E6%96%B0%E7%A7%A9%E5%BA%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣深圳地铁高架桥现裂缝](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E9%AB%98%E6%9E%B6%E6%A1%A5%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
