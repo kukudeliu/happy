@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 07:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 07:16:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [未成年人网络保护](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BD%91%E7%BB%9C%E4%BF%9D%E6%8A%A4%23&t=31&band_rank=3&Refer=top)<br />
 4. [男子手持铁锹将没拴绳柯基打死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%8B%E6%8C%81%E9%93%81%E9%94%B9%E5%B0%86%E6%B2%A1%E6%8B%B4%E7%BB%B3%E6%9F%AF%E5%9F%BA%E6%89%93%E6%AD%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [白敬亭何泓姗二搭爷青回](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BD%95%E6%B3%93%E5%A7%97%E4%BA%8C%E6%90%AD%E7%88%B7%E9%9D%92%E5%9B%9E%23&t=31&band_rank=5&Refer=top)<br />
-6. [二宫和也退社](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%AE%AB%E5%92%8C%E4%B9%9F%E9%80%80%E7%A4%BE%23&t=31&band_rank=6&Refer=top)<br />
-7. [苹果将举办发布会](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%B0%86%E4%B8%BE%E5%8A%9E%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
-8. [双十一 洗发水](https://s.weibo.com/weibo?q=%E5%8F%8C%E5%8D%81%E4%B8%80%20%E6%B4%97%E5%8F%91%E6%B0%B4&t=31&band_rank=8&Refer=top)<br />
-9. [我国将增发1万亿元国债](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%B0%86%E5%A2%9E%E5%8F%911%E4%B8%87%E4%BA%BF%E5%85%83%E5%9B%BD%E5%80%BA%23&t=31&band_rank=9&Refer=top)<br />
+6. [苹果将举办发布会](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%B0%86%E4%B8%BE%E5%8A%9E%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
+7. [二宫和也退社](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%AE%AB%E5%92%8C%E4%B9%9F%E9%80%80%E7%A4%BE%23&t=31&band_rank=7&Refer=top)<br />
+8. [我国将增发1万亿元国债](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%B0%86%E5%A2%9E%E5%8F%911%E4%B8%87%E4%BA%BF%E5%85%83%E5%9B%BD%E5%80%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [双十一 洗发水](https://s.weibo.com/weibo?q=%E5%8F%8C%E5%8D%81%E4%B8%80%20%E6%B4%97%E5%8F%91%E6%B0%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
