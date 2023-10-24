@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 02:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 02:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高校食堂干锅虾28一份有61只虾](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%B9%B2%E9%94%85%E8%99%BE28%E4%B8%80%E4%BB%BD%E6%9C%8961%E5%8F%AA%E8%99%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [我国将增发1万亿元国债](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%B0%86%E5%A2%9E%E5%8F%911%E4%B8%87%E4%BA%BF%E5%85%83%E5%9B%BD%E5%80%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [白敬亭何泓姗二搭爷青回](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BD%95%E6%B3%93%E5%A7%97%E4%BA%8C%E6%90%AD%E7%88%B7%E9%9D%92%E5%9B%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [花知晓腮红](https://s.weibo.com/weibo?q=%E8%8A%B1%E7%9F%A5%E6%99%93%E8%85%AE%E7%BA%A2&t=31&band_rank=9&Refer=top)<br />
+9. [周迅 狠起来自己都不放过](https://s.weibo.com/weibo?q=%E5%91%A8%E8%BF%85%20%E7%8B%A0%E8%B5%B7%E6%9D%A5%E8%87%AA%E5%B7%B1%E9%83%BD%E4%B8%8D%E6%94%BE%E8%BF%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
