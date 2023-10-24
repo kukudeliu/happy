@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 13:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 13:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [被狗咬伤女童200万捐款争议](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5200%E4%B8%87%E6%8D%90%E6%AC%BE%E4%BA%89%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [我要逆风去 定档](https://s.weibo.com/weibo?q=%E6%88%91%E8%A6%81%E9%80%86%E9%A3%8E%E5%8E%BB%20%E5%AE%9A%E6%A1%A3&t=31&band_rank=7&Refer=top)<br />
 8. [吉林一小区发生爆炸楼体被炸出大洞](https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E6%A5%BC%E4%BD%93%E8%A2%AB%E7%82%B8%E5%87%BA%E5%A4%A7%E6%B4%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [为有暗香来 丫鬟妆造](https://s.weibo.com/weibo?q=%E4%B8%BA%E6%9C%89%E6%9A%97%E9%A6%99%E6%9D%A5%20%E4%B8%AB%E9%AC%9F%E5%A6%86%E9%80%A0&t=31&band_rank=9&Refer=top)<br />
+9. [外媒炒作中国6艘舰艇同时现身中东](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%82%92%E4%BD%9C%E4%B8%AD%E5%9B%BD6%E8%89%98%E8%88%B0%E8%89%87%E5%90%8C%E6%97%B6%E7%8E%B0%E8%BA%AB%E4%B8%AD%E4%B8%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
