@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 15:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 15:31:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [眉笔 消费降级](https://s.weibo.com/weibo?q=%E7%9C%89%E7%AC%94%20%E6%B6%88%E8%B4%B9%E9%99%8D%E7%BA%A7&t=31&band_rank=4&Refer=top)<br />
 5. [迪丽热巴微信名](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BE%AE%E4%BF%A1%E5%90%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [张踩铃 当我生了一个两岁半的老干部](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%B8%A9%E9%93%83%20%E5%BD%93%E6%88%91%E7%94%9F%E4%BA%86%E4%B8%80%E4%B8%AA%E4%B8%A4%E5%B2%81%E5%8D%8A%E7%9A%84%E8%80%81%E5%B9%B2%E9%83%A8&t=31&band_rank=6&Refer=top)<br />
-7. [独自出门失踪3岁女童已找到](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E8%87%AA%E5%87%BA%E9%97%A8%E5%A4%B1%E8%B8%AA3%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%B7%B2%E6%89%BE%E5%88%B0%23&t=31&band_rank=7&Refer=top)<br />
-8. [王毅将访问美国](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E5%B0%86%E8%AE%BF%E9%97%AE%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [π是无限不循环小数的可视化](https://s.weibo.com/weibo?q=%CF%80%E6%98%AF%E6%97%A0%E9%99%90%E4%B8%8D%E5%BE%AA%E7%8E%AF%E5%B0%8F%E6%95%B0%E7%9A%84%E5%8F%AF%E8%A7%86%E5%8C%96&t=31&band_rank=9&Refer=top)<br />
+7. [王毅将访问美国](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E5%B0%86%E8%AE%BF%E9%97%AE%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=7&Refer=top)<br />
+8. [独自出门失踪3岁女童已找到](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E8%87%AA%E5%87%BA%E9%97%A8%E5%A4%B1%E8%B8%AA3%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%B7%B2%E6%89%BE%E5%88%B0%23&t=31&band_rank=8&Refer=top)<br />
+9. [吃药不良习惯 食道损伤](https://s.weibo.com/weibo?q=%E5%90%83%E8%8D%AF%E4%B8%8D%E8%89%AF%E4%B9%A0%E6%83%AF%20%E9%A3%9F%E9%81%93%E6%8D%9F%E4%BC%A4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
