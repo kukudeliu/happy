@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 22:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 22:29:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [多组数据展现中国经济澎湃动能](https://www.baidu.com/s?wd=%E5%A4%9A%E7%BB%84%E6%95%B0%E6%8D%AE%E5%B1%95%E7%8E%B0%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%BE%8E%E6%B9%83%E5%8A%A8%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网传民警上门抓德牧犬 上海通报](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B0%91%E8%AD%A6%E4%B8%8A%E9%97%A8%E6%8A%93%E5%BE%B7%E7%89%A7%E7%8A%AC+%E4%B8%8A%E6%B5%B7%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子曝15万存款被农行改成购买](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%9B%9D15%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E5%86%9C%E8%A1%8C%E6%94%B9%E6%88%90%E8%B4%AD%E4%B9%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [曝马来西亚计划禁止稀土出口](https://www.baidu.com/s?wd=%E6%9B%9D%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%AE%A1%E5%88%92%E7%A6%81%E6%AD%A2%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老师曝光教室无窗帘被约谈 校长停职](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%9B%9D%E5%85%89%E6%95%99%E5%AE%A4%E6%97%A0%E7%AA%97%E5%B8%98%E8%A2%AB%E7%BA%A6%E8%B0%88+%E6%A0%A1%E9%95%BF%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [加州州长访深说想买两辆比亚迪](https://www.baidu.com/s?wd=%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E8%AE%BF%E6%B7%B1%E8%AF%B4%E6%83%B3%E4%B9%B0%E4%B8%A4%E8%BE%86%E6%AF%94%E4%BA%9A%E8%BF%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [水泥外敷治癌？老太花20万后死亡](https://www.baidu.com/s?wd=%E6%B0%B4%E6%B3%A5%E5%A4%96%E6%95%B7%E6%B2%BB%E7%99%8C%EF%BC%9F%E8%80%81%E5%A4%AA%E8%8A%B120%E4%B8%87%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣深圳地铁高架桥现裂缝](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E9%AB%98%E6%9E%B6%E6%A1%A5%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [多组数据展现中国经济澎湃动能](https://www.baidu.com/s?wd=%E5%A4%9A%E7%BB%84%E6%95%B0%E6%8D%AE%E5%B1%95%E7%8E%B0%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%BE%8E%E6%B9%83%E5%8A%A8%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网传民警上门抓德牧犬 上海通报](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B0%91%E8%AD%A6%E4%B8%8A%E9%97%A8%E6%8A%93%E5%BE%B7%E7%89%A7%E7%8A%AC+%E4%B8%8A%E6%B5%B7%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子曝15万存款被农行改成购买](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%9B%9D15%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E5%86%9C%E8%A1%8C%E6%94%B9%E6%88%90%E8%B4%AD%E4%B9%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [曝马来西亚计划禁止稀土出口](https://www.baidu.com/s?wd=%E6%9B%9D%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%AE%A1%E5%88%92%E7%A6%81%E6%AD%A2%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老师曝光教室无窗帘被约谈 校长停职](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%9B%9D%E5%85%89%E6%95%99%E5%AE%A4%E6%97%A0%E7%AA%97%E5%B8%98%E8%A2%AB%E7%BA%A6%E8%B0%88+%E6%A0%A1%E9%95%BF%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [加州州长访深说想买两辆比亚迪](https://www.baidu.com/s?wd=%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E8%AE%BF%E6%B7%B1%E8%AF%B4%E6%83%B3%E4%B9%B0%E4%B8%A4%E8%BE%86%E6%AF%94%E4%BA%9A%E8%BF%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [水泥外敷治癌？老太花20万后死亡](https://www.baidu.com/s?wd=%E6%B0%B4%E6%B3%A5%E5%A4%96%E6%95%B7%E6%B2%BB%E7%99%8C%EF%BC%9F%E8%80%81%E5%A4%AA%E8%8A%B120%E4%B8%87%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣深圳地铁高架桥现裂缝](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E9%AB%98%E6%9E%B6%E6%A1%A5%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
