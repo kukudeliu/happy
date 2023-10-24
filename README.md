@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 17:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 17:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以爱为营](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5&t=31&band_rank=6&Refer=top)<br />
 7. [未成年人网络保护条例公布](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BD%91%E7%BB%9C%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B%E5%85%AC%E5%B8%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [官方通报无窗帘教室校长已被停职](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%97%A0%E7%AA%97%E5%B8%98%E6%95%99%E5%AE%A4%E6%A0%A1%E9%95%BF%E5%B7%B2%E8%A2%AB%E5%81%9C%E8%81%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [眉笔 消费降级](https://s.weibo.com/weibo?q=%E7%9C%89%E7%AC%94%20%E6%B6%88%E8%B4%B9%E9%99%8D%E7%BA%A7&t=31&band_rank=9&Refer=top)<br />
+9. [新郎接亲遇秋收剥完玉米才让进门](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E6%8E%A5%E4%BA%B2%E9%81%87%E7%A7%8B%E6%94%B6%E5%89%A5%E5%AE%8C%E7%8E%89%E7%B1%B3%E6%89%8D%E8%AE%A9%E8%BF%9B%E9%97%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
