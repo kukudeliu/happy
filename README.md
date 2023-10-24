@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 19:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 20:00:01</h4></div>
 
 > 微博  
 
 1. [李尚福被免去国防部部长职务](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%9B%BD%E9%98%B2%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1%23&t=31&band_rank=1&Refer=top)<br />
-2. [秦刚被免去国务委员职务](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%88%9A%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%9B%BD%E5%8A%A1%E5%A7%94%E5%91%98%E8%81%8C%E5%8A%A1%23&t=31&band_rank=2&Refer=top)<br />
+2. [高校食堂干锅虾28一份有61只虾](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%B9%B2%E9%94%85%E8%99%BE28%E4%B8%80%E4%BB%BD%E6%9C%8961%E5%8F%AA%E8%99%BE%23&t=31&band_rank=2&Refer=top)<br />
 3. [成功发射遥感三十九号卫星](https://s.weibo.com/weibo?q=%23%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E9%81%A5%E6%84%9F%E4%B8%89%E5%8D%81%E4%B9%9D%E5%8F%B7%E5%8D%AB%E6%98%9F%23&t=31&band_rank=3&Refer=top)<br />
-4. [李佳琦直播间称从未要求品牌二选一](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E7%A7%B0%E4%BB%8E%E6%9C%AA%E8%A6%81%E6%B1%82%E5%93%81%E7%89%8C%E4%BA%8C%E9%80%89%E4%B8%80%23&t=31&band_rank=4&Refer=top)<br />
-5. [高校食堂干锅虾28一份有61只虾](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%B9%B2%E9%94%85%E8%99%BE28%E4%B8%80%E4%BB%BD%E6%9C%8961%E5%8F%AA%E8%99%BE%23&t=31&band_rank=5&Refer=top)<br />
+4. [秦刚被免去国务委员职务](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%88%9A%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%9B%BD%E5%8A%A1%E5%A7%94%E5%91%98%E8%81%8C%E5%8A%A1%23&t=31&band_rank=4&Refer=top)<br />
+5. [李佳琦直播间称从未要求品牌二选一](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E7%A7%B0%E4%BB%8E%E6%9C%AA%E8%A6%81%E6%B1%82%E5%93%81%E7%89%8C%E4%BA%8C%E9%80%89%E4%B8%80%23&t=31&band_rank=5&Refer=top)<br />
 6. [女子曝15万存款被农行私自改成购买](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9B%9D15%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E5%86%9C%E8%A1%8C%E7%A7%81%E8%87%AA%E6%94%B9%E6%88%90%E8%B4%AD%E4%B9%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [你还喝农夫山泉吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BF%98%E5%96%9D%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [甘肃肃北5.5级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E8%82%83%E5%8C%975.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [名侦探柯南茱蒂声优去世](https://s.weibo.com/weibo?q=%23%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%E8%8C%B1%E8%92%82%E5%A3%B0%E4%BC%98%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+8. [北大团队识别血指纹破36年前命案](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%9B%A2%E9%98%9F%E8%AF%86%E5%88%AB%E8%A1%80%E6%8C%87%E7%BA%B9%E7%A0%B436%E5%B9%B4%E5%89%8D%E5%91%BD%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [甘肃肃北5.5级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E8%82%83%E5%8C%975.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
