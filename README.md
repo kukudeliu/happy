@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 01:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 01:10:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [小蛮腰发型](https://s.weibo.com/weibo?q=%E5%B0%8F%E8%9B%AE%E8%85%B0%E5%8F%91%E5%9E%8B&t=31&band_rank=5&Refer=top)<br />
 6. [王小波是中国最早的程序员之一](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%B0%8F%E6%B3%A2%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%97%A9%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B9%8B%E4%B8%80&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭何泓姗二搭爷青回](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BD%95%E6%B3%93%E5%A7%97%E4%BA%8C%E6%90%AD%E7%88%B7%E9%9D%92%E5%9B%9E%23&t=31&band_rank=7&Refer=top)<br />
-8. [邓为为对手戏演员磨掉棍子的刺](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E4%B8%BA%E5%AF%B9%E6%89%8B%E6%88%8F%E6%BC%94%E5%91%98%E7%A3%A8%E6%8E%89%E6%A3%8D%E5%AD%90%E7%9A%84%E5%88%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [我国将增发1万亿元国债](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%B0%86%E5%A2%9E%E5%8F%911%E4%B8%87%E4%BA%BF%E5%85%83%E5%9B%BD%E5%80%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [我国将增发1万亿元国债](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%B0%86%E5%A2%9E%E5%8F%911%E4%B8%87%E4%BA%BF%E5%85%83%E5%9B%BD%E5%80%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [邓为为对手戏演员磨掉棍子的刺](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E4%B8%BA%E5%AF%B9%E6%89%8B%E6%88%8F%E6%BC%94%E5%91%98%E7%A3%A8%E6%8E%89%E6%A3%8D%E5%AD%90%E7%9A%84%E5%88%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
