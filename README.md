@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 20:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 20:16:01</h4></div>
 
 > 微博  
 
-1. [李尚福被免去国防部部长职务](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%9B%BD%E9%98%B2%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1%23&t=31&band_rank=1&Refer=top)<br />
-2. [秦刚被免去国务委员职务](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%88%9A%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%9B%BD%E5%8A%A1%E5%A7%94%E5%91%98%E8%81%8C%E5%8A%A1%23&t=31&band_rank=2&Refer=top)<br />
+1. [秦刚被免去国务委员职务](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%88%9A%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%9B%BD%E5%8A%A1%E5%A7%94%E5%91%98%E8%81%8C%E5%8A%A1%23&t=31&band_rank=1&Refer=top)<br />
+2. [李尚福被免去国防部部长职务](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%9B%BD%E9%98%B2%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [为自强不息顽强拼搏的他们加油](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E8%87%AA%E5%BC%BA%E4%B8%8D%E6%81%AF%E9%A1%BD%E5%BC%BA%E6%8B%BC%E6%90%8F%E7%9A%84%E4%BB%96%E4%BB%AC%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [李佳琦直播间称从未要求品牌二选一](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E7%A7%B0%E4%BB%8E%E6%9C%AA%E8%A6%81%E6%B1%82%E5%93%81%E7%89%8C%E4%BA%8C%E9%80%89%E4%B8%80%23&t=31&band_rank=4&Refer=top)<br />
 5. [高校食堂干锅虾28一份有61只虾](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%B9%B2%E9%94%85%E8%99%BE28%E4%B8%80%E4%BB%BD%E6%9C%8961%E5%8F%AA%E8%99%BE%23&t=31&band_rank=5&Refer=top)<br />
