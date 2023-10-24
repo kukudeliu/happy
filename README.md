@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 12:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 12:17:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [于正下部剧邀请了周也](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E4%B8%8B%E9%83%A8%E5%89%A7%E9%82%80%E8%AF%B7%E4%BA%86%E5%91%A8%E4%B9%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [初一和高三撞班旗高低得合张影](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%80%E5%92%8C%E9%AB%98%E4%B8%89%E6%92%9E%E7%8F%AD%E6%97%97%E9%AB%98%E4%BD%8E%E5%BE%97%E5%90%88%E5%BC%A0%E5%BD%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [河南3岁女童独自下楼玩失踪](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%973%E5%B2%81%E5%A5%B3%E7%AB%A5%E7%8B%AC%E8%87%AA%E4%B8%8B%E6%A5%BC%E7%8E%A9%E5%A4%B1%E8%B8%AA%23&t=31&band_rank=7&Refer=top)<br />
-8. [上海迪士尼疯狂动物城12月20日开放](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E12%E6%9C%8820%E6%97%A5%E5%BC%80%E6%94%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [2024MSI 成都](https://s.weibo.com/weibo?q=2024MSI%20%E6%88%90%E9%83%BD&t=31&band_rank=9&Refer=top)<br />
+8. [2024MSI 成都](https://s.weibo.com/weibo?q=2024MSI%20%E6%88%90%E9%83%BD&t=31&band_rank=8&Refer=top)<br />
+9. [上海迪士尼疯狂动物城12月20日开放](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E12%E6%9C%8820%E6%97%A5%E5%BC%80%E6%94%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
