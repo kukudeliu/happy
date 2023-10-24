@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 22:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 22:19:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [网传民警上门抓德牧犬 上海通报](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B0%91%E8%AD%A6%E4%B8%8A%E9%97%A8%E6%8A%93%E5%BE%B7%E7%89%A7%E7%8A%AC+%E4%B8%8A%E6%B5%B7%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子曝15万存款被农行改成购买](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%9B%9D15%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E5%86%9C%E8%A1%8C%E6%94%B9%E6%88%90%E8%B4%AD%E4%B9%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美债警报拉响全球资产震荡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%80%BA%E8%AD%A6%E6%8A%A5%E6%8B%89%E5%93%8D%E5%85%A8%E7%90%83%E8%B5%84%E4%BA%A7%E9%9C%87%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老师曝光教室无窗帘被约谈 校长停职](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%9B%9D%E5%85%89%E6%95%99%E5%AE%A4%E6%97%A0%E7%AA%97%E5%B8%98%E8%A2%AB%E7%BA%A6%E8%B0%88+%E6%A0%A1%E9%95%BF%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国大使会见缅甸高层谈打击电诈](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E4%BC%9A%E8%A7%81%E7%BC%85%E7%94%B8%E9%AB%98%E5%B1%82%E8%B0%88%E6%89%93%E5%87%BB%E7%94%B5%E8%AF%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣深圳地铁高架桥现裂缝](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E9%AB%98%E6%9E%B6%E6%A1%A5%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [网传民警上门抓德牧犬 上海通报](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%B0%91%E8%AD%A6%E4%B8%8A%E9%97%A8%E6%8A%93%E5%BE%B7%E7%89%A7%E7%8A%AC+%E4%B8%8A%E6%B5%B7%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子曝15万存款被农行改成购买](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%9B%9D15%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E5%86%9C%E8%A1%8C%E6%94%B9%E6%88%90%E8%B4%AD%E4%B9%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美债警报拉响全球资产震荡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%80%BA%E8%AD%A6%E6%8A%A5%E6%8B%89%E5%93%8D%E5%85%A8%E7%90%83%E8%B5%84%E4%BA%A7%E9%9C%87%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老师曝光教室无窗帘被约谈 校长停职](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%9B%9D%E5%85%89%E6%95%99%E5%AE%A4%E6%97%A0%E7%AA%97%E5%B8%98%E8%A2%AB%E7%BA%A6%E8%B0%88+%E6%A0%A1%E9%95%BF%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国大使会见缅甸高层谈打击电诈](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E4%BC%9A%E8%A7%81%E7%BC%85%E7%94%B8%E9%AB%98%E5%B1%82%E8%B0%88%E6%89%93%E5%87%BB%E7%94%B5%E8%AF%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣深圳地铁高架桥现裂缝](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E9%AB%98%E6%9E%B6%E6%A1%A5%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
