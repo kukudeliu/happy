@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 19:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 19:29:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [你还喝农夫山泉吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BF%98%E5%96%9D%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [新郎接亲遇秋收剥完玉米才让进门](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E6%8E%A5%E4%BA%B2%E9%81%87%E7%A7%8B%E6%94%B6%E5%89%A5%E5%AE%8C%E7%8E%89%E7%B1%B3%E6%89%8D%E8%AE%A9%E8%BF%9B%E9%97%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [名侦探柯南茱蒂声优去世](https://s.weibo.com/weibo?q=%23%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%E8%8C%B1%E8%92%82%E5%A3%B0%E4%BC%98%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [官方通报无窗帘教室校长已被停职](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%97%A0%E7%AA%97%E5%B8%98%E6%95%99%E5%AE%A4%E6%A0%A1%E9%95%BF%E5%B7%B2%E8%A2%AB%E5%81%9C%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [5.9元粉底液日销5万单暴涨100倍](https://s.weibo.com/weibo?q=%235.9%E5%85%83%E7%B2%89%E5%BA%95%E6%B6%B2%E6%97%A5%E9%94%805%E4%B8%87%E5%8D%95%E6%9A%B4%E6%B6%A8100%E5%80%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [女子结婚要求前同事还礼400元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E8%A6%81%E6%B1%82%E5%89%8D%E5%90%8C%E4%BA%8B%E8%BF%98%E7%A4%BC400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [以心相约 为梦闪耀](https://www.baidu.com/s?wd=%E4%BB%A5%E5%BF%83%E7%9B%B8%E7%BA%A6+%E4%B8%BA%E6%A2%A6%E9%97%AA%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [钟睒睒第三次成为中国首富](https://www.baidu.com/s?wd=%E9%92%9F%E7%9D%92%E7%9D%92%E7%AC%AC%E4%B8%89%E6%AC%A1%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [爱国主义教育法表决通过](https://www.baidu.com/s?wd=%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%A1%A8%E5%86%B3%E9%80%9A%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美国司法部勒令特斯拉提供机密文档](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E5%8B%92%E4%BB%A4%E7%89%B9%E6%96%AF%E6%8B%89%E6%8F%90%E4%BE%9B%E6%9C%BA%E5%AF%86%E6%96%87%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吴彦祖进店配眼镜 老板娘手足无措](https://www.baidu.com/s?wd=%E5%90%B4%E5%BD%A6%E7%A5%96%E8%BF%9B%E5%BA%97%E9%85%8D%E7%9C%BC%E9%95%9C+%E8%80%81%E6%9D%BF%E5%A8%98%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [孙卓被拐案申请抗诉被驳回](https://www.baidu.com/s?wd=%E5%AD%99%E5%8D%93%E8%A2%AB%E6%8B%90%E6%A1%88%E7%94%B3%E8%AF%B7%E6%8A%97%E8%AF%89%E8%A2%AB%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [吴彦祖进店配眼镜 老板娘手足无措](https://www.baidu.com/s?wd=%E5%90%B4%E5%BD%A6%E7%A5%96%E8%BF%9B%E5%BA%97%E9%85%8D%E7%9C%BC%E9%95%9C+%E8%80%81%E6%9D%BF%E5%A8%98%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [爱国主义教育法表决通过](https://www.baidu.com/s?wd=%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%A1%A8%E5%86%B3%E9%80%9A%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣深圳地铁高架桥现裂缝](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E9%AB%98%E6%9E%B6%E6%A1%A5%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [女子结婚要求前同事还礼400元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E8%A6%81%E6%B1%82%E5%89%8D%E5%90%8C%E4%BA%8B%E8%BF%98%E7%A4%BC400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [以心相约 为梦闪耀](https://www.baidu.com/s?wd=%E4%BB%A5%E5%BF%83%E7%9B%B8%E7%BA%A6+%E4%B8%BA%E6%A2%A6%E9%97%AA%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [钟睒睒第三次成为中国首富](https://www.baidu.com/s?wd=%E9%92%9F%E7%9D%92%E7%9D%92%E7%AC%AC%E4%B8%89%E6%AC%A1%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [爱国主义教育法表决通过](https://www.baidu.com/s?wd=%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%A1%A8%E5%86%B3%E9%80%9A%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美国司法部勒令特斯拉提供机密文档](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E5%8B%92%E4%BB%A4%E7%89%B9%E6%96%AF%E6%8B%89%E6%8F%90%E4%BE%9B%E6%9C%BA%E5%AF%86%E6%96%87%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吴彦祖进店配眼镜 老板娘手足无措](https://www.baidu.com/s?wd=%E5%90%B4%E5%BD%A6%E7%A5%96%E8%BF%9B%E5%BA%97%E9%85%8D%E7%9C%BC%E9%95%9C+%E8%80%81%E6%9D%BF%E5%A8%98%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [孙卓被拐案申请抗诉被驳回](https://www.baidu.com/s?wd=%E5%AD%99%E5%8D%93%E8%A2%AB%E6%8B%90%E6%A1%88%E7%94%B3%E8%AF%B7%E6%8A%97%E8%AF%89%E8%A2%AB%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [吴彦祖进店配眼镜 老板娘手足无措](https://www.baidu.com/s?wd=%E5%90%B4%E5%BD%A6%E7%A5%96%E8%BF%9B%E5%BA%97%E9%85%8D%E7%9C%BC%E9%95%9C+%E8%80%81%E6%9D%BF%E5%A8%98%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [爱国主义教育法表决通过](https://www.baidu.com/s?wd=%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%A1%A8%E5%86%B3%E9%80%9A%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣深圳地铁高架桥现裂缝](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E9%AB%98%E6%9E%B6%E6%A1%A5%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
