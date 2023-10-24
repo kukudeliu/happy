@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 21:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 21:44:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [多组数据展现中国经济澎湃动能](https://www.baidu.com/s?wd=%E5%A4%9A%E7%BB%84%E6%95%B0%E6%8D%AE%E5%B1%95%E7%8E%B0%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%BE%8E%E6%B9%83%E5%8A%A8%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蓝佛安出任财政部部长](https://www.baidu.com/s?wd=%E8%93%9D%E4%BD%9B%E5%AE%89%E5%87%BA%E4%BB%BB%E8%B4%A2%E6%94%BF%E9%83%A8%E9%83%A8%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老师曝光教室无窗帘被约谈 校长停职](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%9B%9D%E5%85%89%E6%95%99%E5%AE%A4%E6%97%A0%E7%AA%97%E5%B8%98%E8%A2%AB%E7%BA%A6%E8%B0%88+%E6%A0%A1%E9%95%BF%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [吴彦祖进店配眼镜 老板娘手足无措](https://www.baidu.com/s?wd=%E5%90%B4%E5%BD%A6%E7%A5%96%E8%BF%9B%E5%BA%97%E9%85%8D%E7%9C%BC%E9%95%9C+%E8%80%81%E6%9D%BF%E5%A8%98%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子结婚要求前同事还礼400元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E8%A6%81%E6%B1%82%E5%89%8D%E5%90%8C%E4%BA%8B%E8%BF%98%E7%A4%BC400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子盗窃名贵烟酒车上贴相信公安](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9B%97%E7%AA%83%E5%90%8D%E8%B4%B5%E7%83%9F%E9%85%92%E8%BD%A6%E4%B8%8A%E8%B4%B4%E7%9B%B8%E4%BF%A1%E5%85%AC%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [爱国主义教育法表决通过](https://www.baidu.com/s?wd=%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%A1%A8%E5%86%B3%E9%80%9A%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣深圳地铁高架桥现裂缝](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E9%AB%98%E6%9E%B6%E6%A1%A5%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [多组数据展现中国经济澎湃动能](https://www.baidu.com/s?wd=%E5%A4%9A%E7%BB%84%E6%95%B0%E6%8D%AE%E5%B1%95%E7%8E%B0%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%BE%8E%E6%B9%83%E5%8A%A8%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蓝佛安出任财政部部长](https://www.baidu.com/s?wd=%E8%93%9D%E4%BD%9B%E5%AE%89%E5%87%BA%E4%BB%BB%E8%B4%A2%E6%94%BF%E9%83%A8%E9%83%A8%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老师曝光教室无窗帘被约谈 校长停职](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%9B%9D%E5%85%89%E6%95%99%E5%AE%A4%E6%97%A0%E7%AA%97%E5%B8%98%E8%A2%AB%E7%BA%A6%E8%B0%88+%E6%A0%A1%E9%95%BF%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [吴彦祖进店配眼镜 老板娘手足无措](https://www.baidu.com/s?wd=%E5%90%B4%E5%BD%A6%E7%A5%96%E8%BF%9B%E5%BA%97%E9%85%8D%E7%9C%BC%E9%95%9C+%E8%80%81%E6%9D%BF%E5%A8%98%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子结婚要求前同事还礼400元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E8%A6%81%E6%B1%82%E5%89%8D%E5%90%8C%E4%BA%8B%E8%BF%98%E7%A4%BC400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子盗窃名贵烟酒车上贴相信公安](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9B%97%E7%AA%83%E5%90%8D%E8%B4%B5%E7%83%9F%E9%85%92%E8%BD%A6%E4%B8%8A%E8%B4%B4%E7%9B%B8%E4%BF%A1%E5%85%AC%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [爱国主义教育法表决通过](https://www.baidu.com/s?wd=%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%A1%A8%E5%86%B3%E9%80%9A%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣深圳地铁高架桥现裂缝](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E9%AB%98%E6%9E%B6%E6%A1%A5%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
