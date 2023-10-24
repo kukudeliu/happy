@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 23:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 23:43:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [透过数据感受中国经济发展活力](https://www.baidu.com/s?wd=%E9%80%8F%E8%BF%87%E6%95%B0%E6%8D%AE%E6%84%9F%E5%8F%97%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子结婚要求前同事还礼400元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E8%A6%81%E6%B1%82%E5%89%8D%E5%90%8C%E4%BA%8B%E8%BF%98%E7%A4%BC400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本歌手台上高歌致脑出血离世](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%AD%8C%E6%89%8B%E5%8F%B0%E4%B8%8A%E9%AB%98%E6%AD%8C%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [#女童被咬募捐200万争议不断#](https://www.baidu.com/s?wd=%23%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%92%AC%E5%8B%9F%E6%8D%90200%E4%B8%87%E4%BA%89%E8%AE%AE%E4%B8%8D%E6%96%AD%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [航拍达人被野蜂蜇伤身亡 家属发声](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E8%BE%BE%E4%BA%BA%E8%A2%AB%E9%87%8E%E8%9C%82%E8%9C%87%E4%BC%A4%E8%BA%AB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [航拍达人被野蜂蜇伤身亡 家属发声](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E8%BE%BE%E4%BA%BA%E8%A2%AB%E9%87%8E%E8%9C%82%E8%9C%87%E4%BC%A4%E8%BA%AB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝马来西亚计划禁止稀土出口](https://www.baidu.com/s?wd=%E6%9B%9D%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%AE%A1%E5%88%92%E7%A6%81%E6%AD%A2%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣5名保安强奸1女子](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A35%E5%90%8D%E4%BF%9D%E5%AE%89%E5%BC%BA%E5%A5%B81%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [透过数据感受中国经济发展活力](https://www.baidu.com/s?wd=%E9%80%8F%E8%BF%87%E6%95%B0%E6%8D%AE%E6%84%9F%E5%8F%97%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子结婚要求前同事还礼400元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E8%A6%81%E6%B1%82%E5%89%8D%E5%90%8C%E4%BA%8B%E8%BF%98%E7%A4%BC400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本歌手台上高歌致脑出血离世](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%AD%8C%E6%89%8B%E5%8F%B0%E4%B8%8A%E9%AB%98%E6%AD%8C%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [#女童被咬募捐200万争议不断#](https://www.baidu.com/s?wd=%23%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%92%AC%E5%8B%9F%E6%8D%90200%E4%B8%87%E4%BA%89%E8%AE%AE%E4%B8%8D%E6%96%AD%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [航拍达人被野蜂蜇伤身亡 家属发声](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E8%BE%BE%E4%BA%BA%E8%A2%AB%E9%87%8E%E8%9C%82%E8%9C%87%E4%BC%A4%E8%BA%AB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [航拍达人被野蜂蜇伤身亡 家属发声](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E8%BE%BE%E4%BA%BA%E8%A2%AB%E9%87%8E%E8%9C%82%E8%9C%87%E4%BC%A4%E8%BA%AB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝马来西亚计划禁止稀土出口](https://www.baidu.com/s?wd=%E6%9B%9D%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%AE%A1%E5%88%92%E7%A6%81%E6%AD%A2%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣5名保安强奸1女子](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A35%E5%90%8D%E4%BF%9D%E5%AE%89%E5%BC%BA%E5%A5%B81%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
