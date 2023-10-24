@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 09:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 09:42:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [美媒：阿拉斯加数十亿只雪蟹饿死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E6%95%B0%E5%8D%81%E4%BA%BF%E5%8F%AA%E9%9B%AA%E8%9F%B9%E9%A5%BF%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [浓浓敬老情 久久常相伴](https://www.baidu.com/s?wd=%E6%B5%93%E6%B5%93%E6%95%AC%E8%80%81%E6%83%85+%E4%B9%85%E4%B9%85%E5%B8%B8%E7%9B%B8%E4%BC%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [王毅分别同巴以外长通电话](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%88%86%E5%88%AB%E5%90%8C%E5%B7%B4%E4%BB%A5%E5%A4%96%E9%95%BF%E9%80%9A%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [年轻人的魔爪终于伸向了广场舞](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E9%AD%94%E7%88%AA%E7%BB%88%E4%BA%8E%E4%BC%B8%E5%90%91%E4%BA%86%E5%B9%BF%E5%9C%BA%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [开学一个多月后儿童精神科爆满](https://www.baidu.com/s?wd=%E5%BC%80%E5%AD%A6%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88%E5%90%8E%E5%84%BF%E7%AB%A5%E7%B2%BE%E7%A5%9E%E7%A7%91%E7%88%86%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子公交车上连扇男孩耳光](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E8%BF%9E%E6%89%87%E7%94%B7%E5%AD%A9%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胡锡进：股市很诚实 不会装](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E8%82%A1%E5%B8%82%E5%BE%88%E8%AF%9A%E5%AE%9E+%E4%B8%8D%E4%BC%9A%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人的魔爪终于伸向了广场舞](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E9%AD%94%E7%88%AA%E7%BB%88%E4%BA%8E%E4%BC%B8%E5%90%91%E4%BA%86%E5%B9%BF%E5%9C%BA%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [华为辟谣将发射万枚低轨卫星](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%8F%91%E5%B0%84%E4%B8%87%E6%9E%9A%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [美媒：阿拉斯加数十亿只雪蟹饿死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E6%95%B0%E5%8D%81%E4%BA%BF%E5%8F%AA%E9%9B%AA%E8%9F%B9%E9%A5%BF%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [浓浓敬老情 久久常相伴](https://www.baidu.com/s?wd=%E6%B5%93%E6%B5%93%E6%95%AC%E8%80%81%E6%83%85+%E4%B9%85%E4%B9%85%E5%B8%B8%E7%9B%B8%E4%BC%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [王毅分别同巴以外长通电话](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%88%86%E5%88%AB%E5%90%8C%E5%B7%B4%E4%BB%A5%E5%A4%96%E9%95%BF%E9%80%9A%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [年轻人的魔爪终于伸向了广场舞](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E9%AD%94%E7%88%AA%E7%BB%88%E4%BA%8E%E4%BC%B8%E5%90%91%E4%BA%86%E5%B9%BF%E5%9C%BA%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [开学一个多月后儿童精神科爆满](https://www.baidu.com/s?wd=%E5%BC%80%E5%AD%A6%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88%E5%90%8E%E5%84%BF%E7%AB%A5%E7%B2%BE%E7%A5%9E%E7%A7%91%E7%88%86%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子公交车上连扇男孩耳光](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E8%BF%9E%E6%89%87%E7%94%B7%E5%AD%A9%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胡锡进：股市很诚实 不会装](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E8%82%A1%E5%B8%82%E5%BE%88%E8%AF%9A%E5%AE%9E+%E4%B8%8D%E4%BC%9A%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人的魔爪终于伸向了广场舞](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E9%AD%94%E7%88%AA%E7%BB%88%E4%BA%8E%E4%BC%B8%E5%90%91%E4%BA%86%E5%B9%BF%E5%9C%BA%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [华为辟谣将发射万枚低轨卫星](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%8F%91%E5%B0%84%E4%B8%87%E6%9E%9A%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
