@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 13:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 13:53:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 3. [奥巴马就巴以冲突罕见表态](https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%B0%B1%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E7%BD%95%E8%A7%81%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [以心相约 为梦闪耀](https://www.baidu.com/s?wd=%E4%BB%A5%E5%BF%83%E7%9B%B8%E7%BA%A6+%E4%B8%BA%E6%A2%A6%E9%97%AA%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美媒：阿拉斯加数十亿只雪蟹饿死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E6%95%B0%E5%8D%81%E4%BA%BF%E5%8F%AA%E9%9B%AA%E8%9F%B9%E9%A5%BF%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [美国男子抵港时行李中搜出手枪](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E6%8A%B5%E6%B8%AF%E6%97%B6%E8%A1%8C%E6%9D%8E%E4%B8%AD%E6%90%9C%E5%87%BA%E6%89%8B%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美国男子抵达香港时行李搜出手枪](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E6%8A%B5%E8%BE%BE%E9%A6%99%E6%B8%AF%E6%97%B6%E8%A1%8C%E6%9D%8E%E6%90%9C%E5%87%BA%E6%89%8B%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [千人在线看“打鬼子直播” 抖音回应](https://www.baidu.com/s?wd=%E5%8D%83%E4%BA%BA%E5%9C%A8%E7%BA%BF%E7%9C%8B%E2%80%9C%E6%89%93%E9%AC%BC%E5%AD%90%E7%9B%B4%E6%92%AD%E2%80%9D+%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [今天程序员节](https://www.baidu.com/s?wd=%E7%A8%8B%E5%BA%8F%E5%91%98%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [华为辟谣将发射万枚低轨卫星](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%8F%91%E5%B0%84%E4%B8%87%E6%9E%9A%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [奥巴马就巴以冲突罕见表态](https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%B0%B1%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E7%BD%95%E8%A7%81%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [以心相约 为梦闪耀](https://www.baidu.com/s?wd=%E4%BB%A5%E5%BF%83%E7%9B%B8%E7%BA%A6+%E4%B8%BA%E6%A2%A6%E9%97%AA%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美媒：阿拉斯加数十亿只雪蟹饿死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E6%95%B0%E5%8D%81%E4%BA%BF%E5%8F%AA%E9%9B%AA%E8%9F%B9%E9%A5%BF%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [美国男子抵港时行李中搜出手枪](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E6%8A%B5%E6%B8%AF%E6%97%B6%E8%A1%8C%E6%9D%8E%E4%B8%AD%E6%90%9C%E5%87%BA%E6%89%8B%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美国男子抵达香港时行李搜出手枪](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E6%8A%B5%E8%BE%BE%E9%A6%99%E6%B8%AF%E6%97%B6%E8%A1%8C%E6%9D%8E%E6%90%9C%E5%87%BA%E6%89%8B%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [千人在线看“打鬼子直播” 抖音回应](https://www.baidu.com/s?wd=%E5%8D%83%E4%BA%BA%E5%9C%A8%E7%BA%BF%E7%9C%8B%E2%80%9C%E6%89%93%E9%AC%BC%E5%AD%90%E7%9B%B4%E6%92%AD%E2%80%9D+%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [今天程序员节](https://www.baidu.com/s?wd=%E7%A8%8B%E5%BA%8F%E5%91%98%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [华为辟谣将发射万枚低轨卫星](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%8F%91%E5%B0%84%E4%B8%87%E6%9E%9A%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
