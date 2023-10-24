@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 20:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 20:10:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [老师曝光教室无窗帘被约谈 校长停职](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%9B%9D%E5%85%89%E6%95%99%E5%AE%A4%E6%97%A0%E7%AA%97%E5%B8%98%E8%A2%AB%E7%BA%A6%E8%B0%88+%E6%A0%A1%E9%95%BF%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [以心相约 为梦闪耀](https://www.baidu.com/s?wd=%E4%BB%A5%E5%BF%83%E7%9B%B8%E7%BA%A6+%E4%B8%BA%E6%A2%A6%E9%97%AA%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [爱国主义教育法表决通过](https://www.baidu.com/s?wd=%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%A1%A8%E5%86%B3%E9%80%9A%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [李尚福被免去国防部部长职务](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%9B%BD%E9%98%B2%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [秦刚被免去国务委员职务](https://www.baidu.com/s?wd=%E7%A7%A6%E5%88%9A%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%9B%BD%E5%8A%A1%E5%A7%94%E5%91%98%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [秦刚被免去国务委员职务](https://www.baidu.com/s?wd=%E7%A7%A6%E5%88%9A%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%9B%BD%E5%8A%A1%E5%A7%94%E5%91%98%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [李尚福被免去国防部部长职务](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%9B%BD%E9%98%B2%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [曝华为畅享70等4款机型近期发布](https://www.baidu.com/s?wd=%E6%9B%9D%E5%8D%8E%E4%B8%BA%E7%95%85%E4%BA%AB70%E7%AD%894%E6%AC%BE%E6%9C%BA%E5%9E%8B%E8%BF%91%E6%9C%9F%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣深圳地铁高架桥现裂缝](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E9%AB%98%E6%9E%B6%E6%A1%A5%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [老师曝光教室无窗帘被约谈 校长停职](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%9B%9D%E5%85%89%E6%95%99%E5%AE%A4%E6%97%A0%E7%AA%97%E5%B8%98%E8%A2%AB%E7%BA%A6%E8%B0%88+%E6%A0%A1%E9%95%BF%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [以心相约 为梦闪耀](https://www.baidu.com/s?wd=%E4%BB%A5%E5%BF%83%E7%9B%B8%E7%BA%A6+%E4%B8%BA%E6%A2%A6%E9%97%AA%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [爱国主义教育法表决通过](https://www.baidu.com/s?wd=%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%A1%A8%E5%86%B3%E9%80%9A%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [李尚福被免去国防部部长职务](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%9B%BD%E9%98%B2%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [秦刚被免去国务委员职务](https://www.baidu.com/s?wd=%E7%A7%A6%E5%88%9A%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%9B%BD%E5%8A%A1%E5%A7%94%E5%91%98%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [秦刚被免去国务委员职务](https://www.baidu.com/s?wd=%E7%A7%A6%E5%88%9A%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%9B%BD%E5%8A%A1%E5%A7%94%E5%91%98%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [李尚福被免去国防部部长职务](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%9B%BD%E9%98%B2%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [曝华为畅享70等4款机型近期发布](https://www.baidu.com/s?wd=%E6%9B%9D%E5%8D%8E%E4%B8%BA%E7%95%85%E4%BA%AB70%E7%AD%894%E6%AC%BE%E6%9C%BA%E5%9E%8B%E8%BF%91%E6%9C%9F%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣深圳地铁高架桥现裂缝](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E9%AB%98%E6%9E%B6%E6%A1%A5%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
