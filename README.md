@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 14:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 14:14:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [以心相约 为梦闪耀](https://www.baidu.com/s?wd=%E4%BB%A5%E5%BF%83%E7%9B%B8%E7%BA%A6+%E4%B8%BA%E6%A2%A6%E9%97%AA%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [奥巴马就巴以冲突罕见表态](https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%B0%B1%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E7%BD%95%E8%A7%81%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美飞行员试图关闭发动机被制服](https://www.baidu.com/s?wd=%E7%BE%8E%E9%A3%9E%E8%A1%8C%E5%91%98%E8%AF%95%E5%9B%BE%E5%85%B3%E9%97%AD%E5%8F%91%E5%8A%A8%E6%9C%BA%E8%A2%AB%E5%88%B6%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [招传菜员要985本科？海底捞回应](https://www.baidu.com/s?wd=%E6%8B%9B%E4%BC%A0%E8%8F%9C%E5%91%98%E8%A6%81985%E6%9C%AC%E7%A7%91%EF%BC%9F%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [为有暗香来丫鬟妆造被群嘲](https://www.baidu.com/s?wd=%E4%B8%BA%E6%9C%89%E6%9A%97%E9%A6%99%E6%9D%A5%E4%B8%AB%E9%AC%9F%E5%A6%86%E9%80%A0%E8%A2%AB%E7%BE%A4%E5%98%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美国车企罢工人数超4万人](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%BD%A6%E4%BC%81%E7%BD%A2%E5%B7%A5%E4%BA%BA%E6%95%B0%E8%B6%854%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝华为畅享70等4款机型近期发布](https://www.baidu.com/s?wd=%E6%9B%9D%E5%8D%8E%E4%B8%BA%E7%95%85%E4%BA%AB70%E7%AD%894%E6%AC%BE%E6%9C%BA%E5%9E%8B%E8%BF%91%E6%9C%9F%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [华为辟谣将发射万枚低轨卫星](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%8F%91%E5%B0%84%E4%B8%87%E6%9E%9A%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [以心相约 为梦闪耀](https://www.baidu.com/s?wd=%E4%BB%A5%E5%BF%83%E7%9B%B8%E7%BA%A6+%E4%B8%BA%E6%A2%A6%E9%97%AA%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [奥巴马就巴以冲突罕见表态](https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%B0%B1%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E7%BD%95%E8%A7%81%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美飞行员试图关闭发动机被制服](https://www.baidu.com/s?wd=%E7%BE%8E%E9%A3%9E%E8%A1%8C%E5%91%98%E8%AF%95%E5%9B%BE%E5%85%B3%E9%97%AD%E5%8F%91%E5%8A%A8%E6%9C%BA%E8%A2%AB%E5%88%B6%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [招传菜员要985本科？海底捞回应](https://www.baidu.com/s?wd=%E6%8B%9B%E4%BC%A0%E8%8F%9C%E5%91%98%E8%A6%81985%E6%9C%AC%E7%A7%91%EF%BC%9F%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [为有暗香来丫鬟妆造被群嘲](https://www.baidu.com/s?wd=%E4%B8%BA%E6%9C%89%E6%9A%97%E9%A6%99%E6%9D%A5%E4%B8%AB%E9%AC%9F%E5%A6%86%E9%80%A0%E8%A2%AB%E7%BE%A4%E5%98%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美国车企罢工人数超4万人](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%BD%A6%E4%BC%81%E7%BD%A2%E5%B7%A5%E4%BA%BA%E6%95%B0%E8%B6%854%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝华为畅享70等4款机型近期发布](https://www.baidu.com/s?wd=%E6%9B%9D%E5%8D%8E%E4%B8%BA%E7%95%85%E4%BA%AB70%E7%AD%894%E6%AC%BE%E6%9C%BA%E5%9E%8B%E8%BF%91%E6%9C%9F%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [华为辟谣将发射万枚低轨卫星](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%8F%91%E5%B0%84%E4%B8%87%E6%9E%9A%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
