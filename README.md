@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 22:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 22:30:02</h4></div>
 
 > 微博  
 
-1. [李佳琦直播间称从未要求品牌二选一](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E7%A7%B0%E4%BB%8E%E6%9C%AA%E8%A6%81%E6%B1%82%E5%93%81%E7%89%8C%E4%BA%8C%E9%80%89%E4%B8%80%23&t=31&band_rank=1&Refer=top)<br />
-2. [王志刚被免去科学技术部部长职务](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%97%E5%88%9A%E8%A2%AB%E5%85%8D%E5%8E%BB%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1%23&t=31&band_rank=2&Refer=top)<br />
+1. [王志刚被免去科学技术部部长职务](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%97%E5%88%9A%E8%A2%AB%E5%85%8D%E5%8E%BB%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1%23&t=31&band_rank=1&Refer=top)<br />
+2. [李佳琦直播间称从未要求品牌二选一](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E7%A7%B0%E4%BB%8E%E6%9C%AA%E8%A6%81%E6%B1%82%E5%93%81%E7%89%8C%E4%BA%8C%E9%80%89%E4%B8%80%23&t=31&band_rank=2&Refer=top)<br />
 3. [未成年人网络保护](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BD%91%E7%BB%9C%E4%BF%9D%E6%8A%A4%23&t=31&band_rank=3&Refer=top)<br />
 4. [我国将增发1万亿元国债](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%B0%86%E5%A2%9E%E5%8F%911%E4%B8%87%E4%BA%BF%E5%85%83%E5%9B%BD%E5%80%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [花知晓腮红](https://s.weibo.com/weibo?q=%E8%8A%B1%E7%9F%A5%E6%99%93%E8%85%AE%E7%BA%A2&t=31&band_rank=5&Refer=top)<br />
