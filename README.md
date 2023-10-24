@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 20:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 20:04:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [爱国主义教育法表决通过](https://www.baidu.com/s?wd=%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%A1%A8%E5%86%B3%E9%80%9A%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [蓝佛安出任财政部部长](https://www.baidu.com/s?wd=%E8%93%9D%E4%BD%9B%E5%AE%89%E5%87%BA%E4%BB%BB%E8%B4%A2%E6%94%BF%E9%83%A8%E9%83%A8%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [秦刚被免去国务委员职务](https://www.baidu.com/s?wd=%E7%A7%A6%E5%88%9A%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%9B%BD%E5%8A%A1%E5%A7%94%E5%91%98%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [加州州长访深说想买两辆比亚迪](https://www.baidu.com/s?wd=%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E8%AE%BF%E6%B7%B1%E8%AF%B4%E6%83%B3%E4%B9%B0%E4%B8%A4%E8%BE%86%E6%AF%94%E4%BA%9A%E8%BF%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [数十名老人为要回补偿金集体拦路](https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%81%E5%90%8D%E8%80%81%E4%BA%BA%E4%B8%BA%E8%A6%81%E5%9B%9E%E8%A1%A5%E5%81%BF%E9%87%91%E9%9B%86%E4%BD%93%E6%8B%A6%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣深圳地铁高架桥现裂缝](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E9%AB%98%E6%9E%B6%E6%A1%A5%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [爱国主义教育法表决通过](https://www.baidu.com/s?wd=%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%A1%A8%E5%86%B3%E9%80%9A%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [蓝佛安出任财政部部长](https://www.baidu.com/s?wd=%E8%93%9D%E4%BD%9B%E5%AE%89%E5%87%BA%E4%BB%BB%E8%B4%A2%E6%94%BF%E9%83%A8%E9%83%A8%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [秦刚被免去国务委员职务](https://www.baidu.com/s?wd=%E7%A7%A6%E5%88%9A%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%9B%BD%E5%8A%A1%E5%A7%94%E5%91%98%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [加州州长访深说想买两辆比亚迪](https://www.baidu.com/s?wd=%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E8%AE%BF%E6%B7%B1%E8%AF%B4%E6%83%B3%E4%B9%B0%E4%B8%A4%E8%BE%86%E6%AF%94%E4%BA%9A%E8%BF%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [数十名老人为要回补偿金集体拦路](https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%81%E5%90%8D%E8%80%81%E4%BA%BA%E4%B8%BA%E8%A6%81%E5%9B%9E%E8%A1%A5%E5%81%BF%E9%87%91%E9%9B%86%E4%BD%93%E6%8B%A6%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣深圳地铁高架桥现裂缝](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E9%AB%98%E6%9E%B6%E6%A1%A5%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
