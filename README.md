@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 02:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 02:12:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [透过数据感受中国经济发展活力](https://www.baidu.com/s?wd=%E9%80%8F%E8%BF%87%E6%95%B0%E6%8D%AE%E6%84%9F%E5%8F%97%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子结婚要求前同事还礼400元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E8%A6%81%E6%B1%82%E5%89%8D%E5%90%8C%E4%BA%8B%E8%BF%98%E7%A4%BC400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [水泥外敷治癌？老太花20万后死亡](https://www.baidu.com/s?wd=%E6%B0%B4%E6%B3%A5%E5%A4%96%E6%95%B7%E6%B2%BB%E7%99%8C%EF%BC%9F%E8%80%81%E5%A4%AA%E8%8A%B120%E4%B8%87%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国大使会见缅甸高层谈打击电诈](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E4%BC%9A%E8%A7%81%E7%BC%85%E7%94%B8%E9%AB%98%E5%B1%82%E8%B0%88%E6%89%93%E5%87%BB%E7%94%B5%E8%AF%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [千人在线看“打鬼子直播” 抖音回应](https://www.baidu.com/s?wd=%E5%8D%83%E4%BA%BA%E5%9C%A8%E7%BA%BF%E7%9C%8B%E2%80%9C%E6%89%93%E9%AC%BC%E5%AD%90%E7%9B%B4%E6%92%AD%E2%80%9D+%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [千人在线看“打鬼子直播” 抖音回应](https://www.baidu.com/s?wd=%E5%8D%83%E4%BA%BA%E5%9C%A8%E7%BA%BF%E7%9C%8B%E2%80%9C%E6%89%93%E9%AC%BC%E5%AD%90%E7%9B%B4%E6%92%AD%E2%80%9D+%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加州州长访深说想买两辆比亚迪](https://www.baidu.com/s?wd=%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E8%AE%BF%E6%B7%B1%E8%AF%B4%E6%83%B3%E4%B9%B0%E4%B8%A4%E8%BE%86%E6%AF%94%E4%BA%9A%E8%BF%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣5名保安强奸1女子](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A35%E5%90%8D%E4%BF%9D%E5%AE%89%E5%BC%BA%E5%A5%B81%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [透过数据感受中国经济发展活力](https://www.baidu.com/s?wd=%E9%80%8F%E8%BF%87%E6%95%B0%E6%8D%AE%E6%84%9F%E5%8F%97%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子结婚要求前同事还礼400元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E8%A6%81%E6%B1%82%E5%89%8D%E5%90%8C%E4%BA%8B%E8%BF%98%E7%A4%BC400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [水泥外敷治癌？老太花20万后死亡](https://www.baidu.com/s?wd=%E6%B0%B4%E6%B3%A5%E5%A4%96%E6%95%B7%E6%B2%BB%E7%99%8C%EF%BC%9F%E8%80%81%E5%A4%AA%E8%8A%B120%E4%B8%87%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国大使会见缅甸高层谈打击电诈](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E4%BC%9A%E8%A7%81%E7%BC%85%E7%94%B8%E9%AB%98%E5%B1%82%E8%B0%88%E6%89%93%E5%87%BB%E7%94%B5%E8%AF%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [千人在线看“打鬼子直播” 抖音回应](https://www.baidu.com/s?wd=%E5%8D%83%E4%BA%BA%E5%9C%A8%E7%BA%BF%E7%9C%8B%E2%80%9C%E6%89%93%E9%AC%BC%E5%AD%90%E7%9B%B4%E6%92%AD%E2%80%9D+%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [千人在线看“打鬼子直播” 抖音回应](https://www.baidu.com/s?wd=%E5%8D%83%E4%BA%BA%E5%9C%A8%E7%BA%BF%E7%9C%8B%E2%80%9C%E6%89%93%E9%AC%BC%E5%AD%90%E7%9B%B4%E6%92%AD%E2%80%9D+%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加州州长访深说想买两辆比亚迪](https://www.baidu.com/s?wd=%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E8%AE%BF%E6%B7%B1%E8%AF%B4%E6%83%B3%E4%B9%B0%E4%B8%A4%E8%BE%86%E6%AF%94%E4%BA%9A%E8%BF%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣5名保安强奸1女子](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A35%E5%90%8D%E4%BF%9D%E5%AE%89%E5%BC%BA%E5%A5%B81%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
