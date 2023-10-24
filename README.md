@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 19:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 19:17:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [北大团队识别血指纹破36年前命案](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%9B%A2%E9%98%9F%E8%AF%86%E5%88%AB%E8%A1%80%E6%8C%87%E7%BA%B9%E7%A0%B436%E5%B9%B4%E5%89%8D%E5%91%BD%E6%A1%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [你还喝农夫山泉吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BF%98%E5%96%9D%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [新郎接亲遇秋收剥完玉米才让进门](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E6%8E%A5%E4%BA%B2%E9%81%87%E7%A7%8B%E6%94%B6%E5%89%A5%E5%AE%8C%E7%8E%89%E7%B1%B3%E6%89%8D%E8%AE%A9%E8%BF%9B%E9%97%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [官方通报无窗帘教室校长已被停职](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%97%A0%E7%AA%97%E5%B8%98%E6%95%99%E5%AE%A4%E6%A0%A1%E9%95%BF%E5%B7%B2%E8%A2%AB%E5%81%9C%E8%81%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [名侦探柯南茱蒂声优去世](https://s.weibo.com/weibo?q=%23%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%E8%8C%B1%E8%92%82%E5%A3%B0%E4%BC%98%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+8. [名侦探柯南茱蒂声优去世](https://s.weibo.com/weibo?q=%23%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%E8%8C%B1%E8%92%82%E5%A3%B0%E4%BC%98%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [官方通报无窗帘教室校长已被停职](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%97%A0%E7%AA%97%E5%B8%98%E6%95%99%E5%AE%A4%E6%A0%A1%E9%95%BF%E5%B7%B2%E8%A2%AB%E5%81%9C%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
