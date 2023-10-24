@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 21:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 21:14:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [为自强不息顽强拼搏的他们加油](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E8%87%AA%E5%BC%BA%E4%B8%8D%E6%81%AF%E9%A1%BD%E5%BC%BA%E6%8B%BC%E6%90%8F%E7%9A%84%E4%BB%96%E4%BB%AC%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [我国艾滋病患者治疗成功率已超过90%](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%89%BE%E6%BB%8B%E7%97%85%E6%82%A3%E8%80%85%E6%B2%BB%E7%96%97%E6%88%90%E5%8A%9F%E7%8E%87%E5%B7%B2%E8%B6%85%E8%BF%8790%25%23&t=31&band_rank=4&Refer=top)<br />
 5. [高校食堂干锅虾28一份有61只虾](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%B9%B2%E9%94%85%E8%99%BE28%E4%B8%80%E4%BB%BD%E6%9C%8961%E5%8F%AA%E8%99%BE%23&t=31&band_rank=5&Refer=top)<br />
-6. [迪丽热巴微信名](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BE%AE%E4%BF%A1%E5%90%8D%23&t=31&band_rank=6&Refer=top)<br />
-7. [双十一 满减](https://s.weibo.com/weibo?q=%E5%8F%8C%E5%8D%81%E4%B8%80%20%E6%BB%A1%E5%87%8F&t=31&band_rank=7&Refer=top)<br />
+6. [双十一 满减](https://s.weibo.com/weibo?q=%E5%8F%8C%E5%8D%81%E4%B8%80%20%E6%BB%A1%E5%87%8F&t=31&band_rank=6&Refer=top)<br />
+7. [迪丽热巴微信名](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BE%AE%E4%BF%A1%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [缅北诈骗窝点有老虎当看守](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E8%AF%88%E9%AA%97%E7%AA%9D%E7%82%B9%E6%9C%89%E8%80%81%E8%99%8E%E5%BD%93%E7%9C%8B%E5%AE%88%23&t=31&band_rank=8&Refer=top)<br />
 9. [辱骂新加坡护士的女子涉谎报身份](https://s.weibo.com/weibo?q=%23%E8%BE%B1%E9%AA%82%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%8A%A4%E5%A3%AB%E7%9A%84%E5%A5%B3%E5%AD%90%E6%B6%89%E8%B0%8E%E6%8A%A5%E8%BA%AB%E4%BB%BD%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -24,7 +24,7 @@
 5. [老师曝光教室无窗帘被约谈 校长停职](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%9B%9D%E5%85%89%E6%95%99%E5%AE%A4%E6%97%A0%E7%AA%97%E5%B8%98%E8%A2%AB%E7%BA%A6%E8%B0%88+%E6%A0%A1%E9%95%BF%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李尚福被免去国防部部长职务](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%9B%BD%E9%98%B2%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [被京东采销点名控诉 李佳琦方回应](https://www.baidu.com/s?wd=%E8%A2%AB%E4%BA%AC%E4%B8%9C%E9%87%87%E9%94%80%E7%82%B9%E5%90%8D%E6%8E%A7%E8%AF%89+%E6%9D%8E%E4%BD%B3%E7%90%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美债警报拉响全球资产震荡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%80%BA%E8%AD%A6%E6%8A%A5%E6%8B%89%E5%93%8D%E5%85%A8%E7%90%83%E8%B5%84%E4%BA%A7%E9%9C%87%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加州州长访深说想买两辆比亚迪](https://www.baidu.com/s?wd=%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E8%AE%BF%E6%B7%B1%E8%AF%B4%E6%83%B3%E4%B9%B0%E4%B8%A4%E8%BE%86%E6%AF%94%E4%BA%9A%E8%BF%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣深圳地铁高架桥现裂缝](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E9%AB%98%E6%9E%B6%E6%A1%A5%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [老师曝光教室无窗帘被约谈 校长停职](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%9B%9D%E5%85%89%E6%95%99%E5%AE%A4%E6%97%A0%E7%AA%97%E5%B8%98%E8%A2%AB%E7%BA%A6%E8%B0%88+%E6%A0%A1%E9%95%BF%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李尚福被免去国防部部长职务](https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%A2%AB%E5%85%8D%E5%8E%BB%E5%9B%BD%E9%98%B2%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [被京东采销点名控诉 李佳琦方回应](https://www.baidu.com/s?wd=%E8%A2%AB%E4%BA%AC%E4%B8%9C%E9%87%87%E9%94%80%E7%82%B9%E5%90%8D%E6%8E%A7%E8%AF%89+%E6%9D%8E%E4%BD%B3%E7%90%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美债警报拉响全球资产震荡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%80%BA%E8%AD%A6%E6%8A%A5%E6%8B%89%E5%93%8D%E5%85%A8%E7%90%83%E8%B5%84%E4%BA%A7%E9%9C%87%E8%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加州州长访深说想买两辆比亚迪](https://www.baidu.com/s?wd=%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E8%AE%BF%E6%B7%B1%E8%AF%B4%E6%83%B3%E4%B9%B0%E4%B8%A4%E8%BE%86%E6%AF%94%E4%BA%9A%E8%BF%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣深圳地铁高架桥现裂缝](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E9%AB%98%E6%9E%B6%E6%A1%A5%E7%8E%B0%E8%A3%82%E7%BC%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
