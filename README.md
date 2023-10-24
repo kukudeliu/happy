@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 13:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 13:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴快把自己跑yue了](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BF%AB%E6%8A%8A%E8%87%AA%E5%B7%B1%E8%B7%91yue%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [外媒炒作中国6艘舰艇同时现身中东](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%82%92%E4%BD%9C%E4%B8%AD%E5%9B%BD6%E8%89%98%E8%88%B0%E8%89%87%E5%90%8C%E6%97%B6%E7%8E%B0%E8%BA%AB%E4%B8%AD%E4%B8%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [我要逆风去 定档](https://s.weibo.com/weibo?q=%E6%88%91%E8%A6%81%E9%80%86%E9%A3%8E%E5%8E%BB%20%E5%AE%9A%E6%A1%A3&t=31&band_rank=8&Refer=top)<br />
-9. [吉林一小区爆炸致1死16伤](https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B8%E8%87%B41%E6%AD%BB16%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [林心如参加首档综艺](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%83%E5%A6%82%E5%8F%82%E5%8A%A0%E9%A6%96%E6%A1%A3%E7%BB%BC%E8%89%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
