@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 21:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 21:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [双十一 满减](https://s.weibo.com/weibo?q=%E5%8F%8C%E5%8D%81%E4%B8%80%20%E6%BB%A1%E5%87%8F&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴微信名](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BE%AE%E4%BF%A1%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [周迅 把我跟拖垃圾袋一样拖上来](https://s.weibo.com/weibo?q=%E5%91%A8%E8%BF%85%20%E6%8A%8A%E6%88%91%E8%B7%9F%E6%8B%96%E5%9E%83%E5%9C%BE%E8%A2%8B%E4%B8%80%E6%A0%B7%E6%8B%96%E4%B8%8A%E6%9D%A5&t=31&band_rank=8&Refer=top)<br />
-9. [缅北诈骗窝点有老虎当看守](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E8%AF%88%E9%AA%97%E7%AA%9D%E7%82%B9%E6%9C%89%E8%80%81%E8%99%8E%E5%BD%93%E7%9C%8B%E5%AE%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [国债](https://s.weibo.com/weibo?q=%E5%9B%BD%E5%80%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
