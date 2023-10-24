@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 14:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 14:10:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [以心相约 为梦闪耀](https://www.baidu.com/s?wd=%E4%BB%A5%E5%BF%83%E7%9B%B8%E7%BA%A6+%E4%B8%BA%E6%A2%A6%E9%97%AA%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [奥巴马就巴以冲突罕见表态](https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%B0%B1%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E7%BD%95%E8%A7%81%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美飞行员试图关闭发动机被制服](https://www.baidu.com/s?wd=%E7%BE%8E%E9%A3%9E%E8%A1%8C%E5%91%98%E8%AF%95%E5%9B%BE%E5%85%B3%E9%97%AD%E5%8F%91%E5%8A%A8%E6%9C%BA%E8%A2%AB%E5%88%B6%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [为有暗香来丫鬟妆造被群嘲](https://www.baidu.com/s?wd=%E4%B8%BA%E6%9C%89%E6%9A%97%E9%A6%99%E6%9D%A5%E4%B8%AB%E9%AC%9F%E5%A6%86%E9%80%A0%E8%A2%AB%E7%BE%A4%E5%98%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [千人在线看“打鬼子直播” 抖音回应](https://www.baidu.com/s?wd=%E5%8D%83%E4%BA%BA%E5%9C%A8%E7%BA%BF%E7%9C%8B%E2%80%9C%E6%89%93%E9%AC%BC%E5%AD%90%E7%9B%B4%E6%92%AD%E2%80%9D+%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [招传菜员要985本科？海底捞回应](https://www.baidu.com/s?wd=%E6%8B%9B%E4%BC%A0%E8%8F%9C%E5%91%98%E8%A6%81985%E6%9C%AC%E7%A7%91%EF%BC%9F%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [为有暗香来丫鬟妆造被群嘲](https://www.baidu.com/s?wd=%E4%B8%BA%E6%9C%89%E6%9A%97%E9%A6%99%E6%9D%A5%E4%B8%AB%E9%AC%9F%E5%A6%86%E9%80%A0%E8%A2%AB%E7%BE%A4%E5%98%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [华为辟谣将发射万枚低轨卫星](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%8F%91%E5%B0%84%E4%B8%87%E6%9E%9A%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [以心相约 为梦闪耀](https://www.baidu.com/s?wd=%E4%BB%A5%E5%BF%83%E7%9B%B8%E7%BA%A6+%E4%B8%BA%E6%A2%A6%E9%97%AA%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [奥巴马就巴以冲突罕见表态](https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%B0%B1%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E7%BD%95%E8%A7%81%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美飞行员试图关闭发动机被制服](https://www.baidu.com/s?wd=%E7%BE%8E%E9%A3%9E%E8%A1%8C%E5%91%98%E8%AF%95%E5%9B%BE%E5%85%B3%E9%97%AD%E5%8F%91%E5%8A%A8%E6%9C%BA%E8%A2%AB%E5%88%B6%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [为有暗香来丫鬟妆造被群嘲](https://www.baidu.com/s?wd=%E4%B8%BA%E6%9C%89%E6%9A%97%E9%A6%99%E6%9D%A5%E4%B8%AB%E9%AC%9F%E5%A6%86%E9%80%A0%E8%A2%AB%E7%BE%A4%E5%98%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [千人在线看“打鬼子直播” 抖音回应](https://www.baidu.com/s?wd=%E5%8D%83%E4%BA%BA%E5%9C%A8%E7%BA%BF%E7%9C%8B%E2%80%9C%E6%89%93%E9%AC%BC%E5%AD%90%E7%9B%B4%E6%92%AD%E2%80%9D+%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [招传菜员要985本科？海底捞回应](https://www.baidu.com/s?wd=%E6%8B%9B%E4%BC%A0%E8%8F%9C%E5%91%98%E8%A6%81985%E6%9C%AC%E7%A7%91%EF%BC%9F%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [为有暗香来丫鬟妆造被群嘲](https://www.baidu.com/s?wd=%E4%B8%BA%E6%9C%89%E6%9A%97%E9%A6%99%E6%9D%A5%E4%B8%AB%E9%AC%9F%E5%A6%86%E9%80%A0%E8%A2%AB%E7%BE%A4%E5%98%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [华为辟谣将发射万枚低轨卫星](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%8F%91%E5%B0%84%E4%B8%87%E6%9E%9A%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
