@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 11:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 11:07:01</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 
 > 百度  
 
-1. [中国妇女第十三次全国代表大会开幕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E5%85%A8%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%E5%BC%80%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [坚持党对工会的全面领导](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E5%85%9A%E5%AF%B9%E5%B7%A5%E4%BC%9A%E7%9A%84%E5%85%A8%E9%9D%A2%E9%A2%86%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [外媒炒“中国6艘舰艇同时现身中东”](https://www.baidu.com/s?wd=%E5%A4%96%E5%AA%92%E7%82%92%E2%80%9C%E4%B8%AD%E5%9B%BD6%E8%89%98%E8%88%B0%E8%89%87%E5%90%8C%E6%97%B6%E7%8E%B0%E8%BA%AB%E4%B8%AD%E4%B8%9C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [美媒：阿拉斯加数十亿只雪蟹饿死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E6%95%B0%E5%8D%81%E4%BA%BF%E5%8F%AA%E9%9B%AA%E8%9F%B9%E9%A5%BF%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [浓浓敬老情 久久常相伴](https://www.baidu.com/s?wd=%E6%B5%93%E6%B5%93%E6%95%AC%E8%80%81%E6%83%85+%E4%B9%85%E4%B9%85%E5%B8%B8%E7%9B%B8%E4%BC%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [以心相约 为梦闪耀](https://www.baidu.com/s?wd=%E4%BB%A5%E5%BF%83%E7%9B%B8%E7%BA%A6+%E4%B8%BA%E6%A2%A6%E9%97%AA%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [外媒：菲律宾这艘船“末日将至”](https://www.baidu.com/s?wd=%E5%A4%96%E5%AA%92%EF%BC%9A%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%BF%99%E8%89%98%E8%88%B9%E2%80%9C%E6%9C%AB%E6%97%A5%E5%B0%86%E8%87%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被举报“包养情妇”的网红校长露面](https://www.baidu.com/s?wd=%E8%A2%AB%E4%B8%BE%E6%8A%A5%E2%80%9C%E5%8C%85%E5%85%BB%E6%83%85%E5%A6%87%E2%80%9D%E7%9A%84%E7%BD%91%E7%BA%A2%E6%A0%A1%E9%95%BF%E9%9C%B2%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本GDP将跌至第四](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%ACGDP%E5%B0%86%E8%B7%8C%E8%87%B3%E7%AC%AC%E5%9B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,10 +29,10 @@
 
 > 哔哩哔哩  
 
-1. [中国妇女第十三次全国代表大会开幕](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E5%85%A8%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%E5%BC%80%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [坚持党对工会的全面领导](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E5%85%9A%E5%AF%B9%E5%B7%A5%E4%BC%9A%E7%9A%84%E5%85%A8%E9%9D%A2%E9%A2%86%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [外媒炒“中国6艘舰艇同时现身中东”](https://www.baidu.com/s?wd=%E5%A4%96%E5%AA%92%E7%82%92%E2%80%9C%E4%B8%AD%E5%9B%BD6%E8%89%98%E8%88%B0%E8%89%87%E5%90%8C%E6%97%B6%E7%8E%B0%E8%BA%AB%E4%B8%AD%E4%B8%9C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [美媒：阿拉斯加数十亿只雪蟹饿死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E6%95%B0%E5%8D%81%E4%BA%BF%E5%8F%AA%E9%9B%AA%E8%9F%B9%E9%A5%BF%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [浓浓敬老情 久久常相伴](https://www.baidu.com/s?wd=%E6%B5%93%E6%B5%93%E6%95%AC%E8%80%81%E6%83%85+%E4%B9%85%E4%B9%85%E5%B8%B8%E7%9B%B8%E4%BC%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [以心相约 为梦闪耀](https://www.baidu.com/s?wd=%E4%BB%A5%E5%BF%83%E7%9B%B8%E7%BA%A6+%E4%B8%BA%E6%A2%A6%E9%97%AA%E8%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [外媒：菲律宾这艘船“末日将至”](https://www.baidu.com/s?wd=%E5%A4%96%E5%AA%92%EF%BC%9A%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%BF%99%E8%89%98%E8%88%B9%E2%80%9C%E6%9C%AB%E6%97%A5%E5%B0%86%E8%87%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被举报“包养情妇”的网红校长露面](https://www.baidu.com/s?wd=%E8%A2%AB%E4%B8%BE%E6%8A%A5%E2%80%9C%E5%8C%85%E5%85%BB%E6%83%85%E5%A6%87%E2%80%9D%E7%9A%84%E7%BD%91%E7%BA%A2%E6%A0%A1%E9%95%BF%E9%9C%B2%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本GDP将跌至第四](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%ACGDP%E5%B0%86%E8%B7%8C%E8%87%B3%E7%AC%AC%E5%9B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
