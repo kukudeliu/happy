@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 14:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 14:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [林心如参加首档综艺](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%83%E5%A6%82%E5%8F%82%E5%8A%A0%E9%A6%96%E6%A1%A3%E7%BB%BC%E8%89%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [科大讯飞](https://s.weibo.com/weibo?q=%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E&t=31&band_rank=7&Refer=top)<br />
 8. [印尼封禁TikTok电商是一个错误](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%B0%BC%E5%B0%81%E7%A6%81TikTok%E7%94%B5%E5%95%86%E6%98%AF%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%23&t=31&band_rank=8&Refer=top)<br />
-9. [美籍男子抵达香港时行李搜出手枪](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%B1%8D%E7%94%B7%E5%AD%90%E6%8A%B5%E8%BE%BE%E9%A6%99%E6%B8%AF%E6%97%B6%E8%A1%8C%E6%9D%8E%E6%90%9C%E5%87%BA%E6%89%8B%E6%9E%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [π是无限不循环小数的可视化](https://s.weibo.com/weibo?q=%CF%80%E6%98%AF%E6%97%A0%E9%99%90%E4%B8%8D%E5%BE%AA%E7%8E%AF%E5%B0%8F%E6%95%B0%E7%9A%84%E5%8F%AF%E8%A7%86%E5%8C%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
