@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 16:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 16:03:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [眉笔 消费降级](https://s.weibo.com/weibo?q=%E7%9C%89%E7%AC%94%20%E6%B6%88%E8%B4%B9%E9%99%8D%E7%BA%A7&t=31&band_rank=4&Refer=top)<br />
 5. [疯狂小杨哥回应电商挤压实体经济](https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E7%94%B5%E5%95%86%E6%8C%A4%E5%8E%8B%E5%AE%9E%E4%BD%93%E7%BB%8F%E6%B5%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴微信名](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BE%AE%E4%BF%A1%E5%90%8D%23&t=31&band_rank=6&Refer=top)<br />
-7. [花西子](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%A5%BF%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
-8. [爱国主义教育法表决通过自明年元旦起施行](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%A1%A8%E5%86%B3%E9%80%9A%E8%BF%87%E8%87%AA%E6%98%8E%E5%B9%B4%E5%85%83%E6%97%A6%E8%B5%B7%E6%96%BD%E8%A1%8C%23&t=31&band_rank=8&Refer=top)<br />
+7. [爱国主义教育法表决通过自明年元旦起施行](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E6%B3%95%E8%A1%A8%E5%86%B3%E9%80%9A%E8%BF%87%E8%87%AA%E6%98%8E%E5%B9%B4%E5%85%83%E6%97%A6%E8%B5%B7%E6%96%BD%E8%A1%8C%23&t=31&band_rank=7&Refer=top)<br />
+8. [花西子](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%A5%BF%E5%AD%90&t=31&band_rank=8&Refer=top)<br />
 9. [王毅将访问美国](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E5%B0%86%E8%AE%BF%E9%97%AE%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
