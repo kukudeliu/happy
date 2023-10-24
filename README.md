@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 02:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 02:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小蛮腰发型](https://s.weibo.com/weibo?q=%E5%B0%8F%E8%9B%AE%E8%85%B0%E5%8F%91%E5%9E%8B&t=31&band_rank=6&Refer=top)<br />
 7. [我国将增发1万亿元国债](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%B0%86%E5%A2%9E%E5%8F%911%E4%B8%87%E4%BA%BF%E5%85%83%E5%9B%BD%E5%80%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [白敬亭何泓姗二搭爷青回](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BD%95%E6%B3%93%E5%A7%97%E4%BA%8C%E6%90%AD%E7%88%B7%E9%9D%92%E5%9B%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [花知晓腮红](https://s.weibo.com/weibo?q=%E8%8A%B1%E7%9F%A5%E6%99%93%E8%85%AE%E7%BA%A2&t=31&band_rank=9&Refer=top)<br />
+9. [高校食堂干锅虾28一份有61只虾](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%B9%B2%E9%94%85%E8%99%BE28%E4%B8%80%E4%BB%BD%E6%9C%8961%E5%8F%AA%E8%99%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [女子结婚要求前同事还礼400元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E8%A6%81%E6%B1%82%E5%89%8D%E5%90%8C%E4%BA%8B%E8%BF%98%E7%A4%BC400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国大使会见缅甸高层谈打击电诈](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E4%BC%9A%E8%A7%81%E7%BC%85%E7%94%B8%E9%AB%98%E5%B1%82%E8%B0%88%E6%89%93%E5%87%BB%E7%94%B5%E8%AF%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [水泥外敷治癌？老太花20万后死亡](https://www.baidu.com/s?wd=%E6%B0%B4%E6%B3%A5%E5%A4%96%E6%95%B7%E6%B2%BB%E7%99%8C%EF%BC%9F%E8%80%81%E5%A4%AA%E8%8A%B120%E4%B8%87%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [狗狗以多欺少撞飞大鹅](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E4%BB%A5%E5%A4%9A%E6%AC%BA%E5%B0%91%E6%92%9E%E9%A3%9E%E5%A4%A7%E9%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [花12万进国企未成起诉要钱被驳回](https://www.baidu.com/s?wd=%E8%8A%B112%E4%B8%87%E8%BF%9B%E5%9B%BD%E4%BC%81%E6%9C%AA%E6%88%90%E8%B5%B7%E8%AF%89%E8%A6%81%E9%92%B1%E8%A2%AB%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣5名保安强奸1女子](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A35%E5%90%8D%E4%BF%9D%E5%AE%89%E5%BC%BA%E5%A5%B81%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女子结婚要求前同事还礼400元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E8%A6%81%E6%B1%82%E5%89%8D%E5%90%8C%E4%BA%8B%E8%BF%98%E7%A4%BC400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国大使会见缅甸高层谈打击电诈](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E4%BC%9A%E8%A7%81%E7%BC%85%E7%94%B8%E9%AB%98%E5%B1%82%E8%B0%88%E6%89%93%E5%87%BB%E7%94%B5%E8%AF%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [水泥外敷治癌？老太花20万后死亡](https://www.baidu.com/s?wd=%E6%B0%B4%E6%B3%A5%E5%A4%96%E6%95%B7%E6%B2%BB%E7%99%8C%EF%BC%9F%E8%80%81%E5%A4%AA%E8%8A%B120%E4%B8%87%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [狗狗以多欺少撞飞大鹅](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E4%BB%A5%E5%A4%9A%E6%AC%BA%E5%B0%91%E6%92%9E%E9%A3%9E%E5%A4%A7%E9%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [花12万进国企未成起诉要钱被驳回](https://www.baidu.com/s?wd=%E8%8A%B112%E4%B8%87%E8%BF%9B%E5%9B%BD%E4%BC%81%E6%9C%AA%E6%88%90%E8%B5%B7%E8%AF%89%E8%A6%81%E9%92%B1%E8%A2%AB%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣5名保安强奸1女子](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A35%E5%90%8D%E4%BF%9D%E5%AE%89%E5%BC%BA%E5%A5%B81%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
