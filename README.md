@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 23:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 23:51:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [王志刚被免去科学技术部部长职务](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%97%E5%88%9A%E8%A2%AB%E5%85%8D%E5%8E%BB%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E9%83%A8%E9%83%A8%E9%95%BF%E8%81%8C%E5%8A%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [神十七航天员已做好出征准备](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%B8%83%E8%88%AA%E5%A4%A9%E5%91%98%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%87%BA%E5%BE%81%E5%87%86%E5%A4%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [白敬亭何泓姗二搭爷青回](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BD%95%E6%B3%93%E5%A7%97%E4%BA%8C%E6%90%AD%E7%88%B7%E9%9D%92%E5%9B%9E%23&t=31&band_rank=4&Refer=top)<br />
-5. [陕西一交通局拖欠男子770万工程款](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E4%B8%80%E4%BA%A4%E9%80%9A%E5%B1%80%E6%8B%96%E6%AC%A0%E7%94%B7%E5%AD%90770%E4%B8%87%E5%B7%A5%E7%A8%8B%E6%AC%BE%23&t=31&band_rank=5&Refer=top)<br />
-6. [双十一 洗发水](https://s.weibo.com/weibo?q=%E5%8F%8C%E5%8D%81%E4%B8%80%20%E6%B4%97%E5%8F%91%E6%B0%B4&t=31&band_rank=6&Refer=top)<br />
+5. [双十一 洗发水](https://s.weibo.com/weibo?q=%E5%8F%8C%E5%8D%81%E4%B8%80%20%E6%B4%97%E5%8F%91%E6%B0%B4&t=31&band_rank=5&Refer=top)<br />
+6. [陕西一交通局拖欠男子770万工程款](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E4%B8%80%E4%BA%A4%E9%80%9A%E5%B1%80%E6%8B%96%E6%AC%A0%E7%94%B7%E5%AD%90770%E4%B8%87%E5%B7%A5%E7%A8%8B%E6%AC%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [不同身材女生穿同款裙子](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%90%8C%E8%BA%AB%E6%9D%90%E5%A5%B3%E7%94%9F%E7%A9%BF%E5%90%8C%E6%AC%BE%E8%A3%99%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [高校食堂干锅虾28一份有61只虾](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%B9%B2%E9%94%85%E8%99%BE28%E4%B8%80%E4%BB%BD%E6%9C%8961%E5%8F%AA%E8%99%BE%23&t=31&band_rank=8&Refer=top)<br />
 9. [我国将增发1万亿元国债](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%B0%86%E5%A2%9E%E5%8F%911%E4%B8%87%E4%BA%BF%E5%85%83%E5%9B%BD%E5%80%BA%23&t=31&band_rank=9&Refer=top)<br />
