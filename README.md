@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 23:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 23:44:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [神十七航天员已做好出征准备](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%B8%83%E8%88%AA%E5%A4%A9%E5%91%98%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%87%BA%E5%BE%81%E5%87%86%E5%A4%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [全国财政赤字将由38800亿元增加到48800亿元](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E8%B4%A2%E6%94%BF%E8%B5%A4%E5%AD%97%E5%B0%86%E7%94%B138800%E4%BA%BF%E5%85%83%E5%A2%9E%E5%8A%A0%E5%88%B048800%E4%BA%BF%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [白敬亭何泓姗二搭爷青回](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BD%95%E6%B3%93%E5%A7%97%E4%BA%8C%E6%90%AD%E7%88%B7%E9%9D%92%E5%9B%9E%23&t=31&band_rank=5&Refer=top)<br />
-6. [高校食堂干锅虾28一份有61只虾](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%B9%B2%E9%94%85%E8%99%BE28%E4%B8%80%E4%BB%BD%E6%9C%8961%E5%8F%AA%E8%99%BE%23&t=31&band_rank=6&Refer=top)<br />
-7. [陕西一交通局拖欠男子770万工程款](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E4%B8%80%E4%BA%A4%E9%80%9A%E5%B1%80%E6%8B%96%E6%AC%A0%E7%94%B7%E5%AD%90770%E4%B8%87%E5%B7%A5%E7%A8%8B%E6%AC%BE%23&t=31&band_rank=7&Refer=top)<br />
+6. [陕西一交通局拖欠男子770万工程款](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E4%B8%80%E4%BA%A4%E9%80%9A%E5%B1%80%E6%8B%96%E6%AC%A0%E7%94%B7%E5%AD%90770%E4%B8%87%E5%B7%A5%E7%A8%8B%E6%AC%BE%23&t=31&band_rank=6&Refer=top)<br />
+7. [高校食堂干锅虾28一份有61只虾](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%B9%B2%E9%94%85%E8%99%BE28%E4%B8%80%E4%BB%BD%E6%9C%8961%E5%8F%AA%E8%99%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [不同身材女生穿同款裙子](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%90%8C%E8%BA%AB%E6%9D%90%E5%A5%B3%E7%94%9F%E7%A9%BF%E5%90%8C%E6%AC%BE%E8%A3%99%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
 9. [花知晓腮红](https://s.weibo.com/weibo?q=%E8%8A%B1%E7%9F%A5%E6%99%93%E8%85%AE%E7%BA%A2&t=31&band_rank=9&Refer=top)<br />
 
@@ -23,8 +23,8 @@
 4. [透过数据感受中国经济发展活力](https://www.baidu.com/s?wd=%E9%80%8F%E8%BF%87%E6%95%B0%E6%8D%AE%E6%84%9F%E5%8F%97%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子结婚要求前同事还礼400元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E8%A6%81%E6%B1%82%E5%89%8D%E5%90%8C%E4%BA%8B%E8%BF%98%E7%A4%BC400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本歌手台上高歌致脑出血离世](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%AD%8C%E6%89%8B%E5%8F%B0%E4%B8%8A%E9%AB%98%E6%AD%8C%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [航拍达人被野蜂蜇伤身亡 家属发声](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E8%BE%BE%E4%BA%BA%E8%A2%AB%E9%87%8E%E8%9C%82%E8%9C%87%E4%BC%A4%E8%BA%AB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曝马来西亚计划禁止稀土出口](https://www.baidu.com/s?wd=%E6%9B%9D%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%AE%A1%E5%88%92%E7%A6%81%E6%AD%A2%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美国男子抵达香港时行李搜出手枪](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E6%8A%B5%E8%BE%BE%E9%A6%99%E6%B8%AF%E6%97%B6%E8%A1%8C%E6%9D%8E%E6%90%9C%E5%87%BA%E6%89%8B%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [水泥外敷治癌？老太花20万后死亡](https://www.baidu.com/s?wd=%E6%B0%B4%E6%B3%A5%E5%A4%96%E6%95%B7%E6%B2%BB%E7%99%8C%EF%BC%9F%E8%80%81%E5%A4%AA%E8%8A%B120%E4%B8%87%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣5名保安强奸1女子](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A35%E5%90%8D%E4%BF%9D%E5%AE%89%E5%BC%BA%E5%A5%B81%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [透过数据感受中国经济发展活力](https://www.baidu.com/s?wd=%E9%80%8F%E8%BF%87%E6%95%B0%E6%8D%AE%E6%84%9F%E5%8F%97%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子结婚要求前同事还礼400元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E8%A6%81%E6%B1%82%E5%89%8D%E5%90%8C%E4%BA%8B%E8%BF%98%E7%A4%BC400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本歌手台上高歌致脑出血离世](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%AD%8C%E6%89%8B%E5%8F%B0%E4%B8%8A%E9%AB%98%E6%AD%8C%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [航拍达人被野蜂蜇伤身亡 家属发声](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E8%BE%BE%E4%BA%BA%E8%A2%AB%E9%87%8E%E8%9C%82%E8%9C%87%E4%BC%A4%E8%BA%AB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曝马来西亚计划禁止稀土出口](https://www.baidu.com/s?wd=%E6%9B%9D%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%AE%A1%E5%88%92%E7%A6%81%E6%AD%A2%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美国男子抵达香港时行李搜出手枪](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E6%8A%B5%E8%BE%BE%E9%A6%99%E6%B8%AF%E6%97%B6%E8%A1%8C%E6%9D%8E%E6%90%9C%E5%87%BA%E6%89%8B%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [水泥外敷治癌？老太花20万后死亡](https://www.baidu.com/s?wd=%E6%B0%B4%E6%B3%A5%E5%A4%96%E6%95%B7%E6%B2%BB%E7%99%8C%EF%BC%9F%E8%80%81%E5%A4%AA%E8%8A%B120%E4%B8%87%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣5名保安强奸1女子](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A35%E5%90%8D%E4%BF%9D%E5%AE%89%E5%BC%BA%E5%A5%B81%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
