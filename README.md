@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 23:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-24 23:22:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [全国财政赤字将由38800亿元增加到48800亿元](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E8%B4%A2%E6%94%BF%E8%B5%A4%E5%AD%97%E5%B0%86%E7%94%B138800%E4%BA%BF%E5%85%83%E5%A2%9E%E5%8A%A0%E5%88%B048800%E4%BA%BF%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [白敬亭何泓姗二搭爷青回](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BD%95%E6%B3%93%E5%A7%97%E4%BA%8C%E6%90%AD%E7%88%B7%E9%9D%92%E5%9B%9E%23&t=31&band_rank=5&Refer=top)<br />
 6. [花知晓腮红](https://s.weibo.com/weibo?q=%E8%8A%B1%E7%9F%A5%E6%99%93%E8%85%AE%E7%BA%A2&t=31&band_rank=6&Refer=top)<br />
-7. [我国将增发1万亿元国债](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%B0%86%E5%A2%9E%E5%8F%911%E4%B8%87%E4%BA%BF%E5%85%83%E5%9B%BD%E5%80%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [高校食堂干锅虾28一份有61只虾](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%B9%B2%E9%94%85%E8%99%BE28%E4%B8%80%E4%BB%BD%E6%9C%8961%E5%8F%AA%E8%99%BE%23&t=31&band_rank=8&Refer=top)<br />
+7. [高校食堂干锅虾28一份有61只虾](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%B9%B2%E9%94%85%E8%99%BE28%E4%B8%80%E4%BB%BD%E6%9C%8961%E5%8F%AA%E8%99%BE%23&t=31&band_rank=7&Refer=top)<br />
+8. [我国将增发1万亿元国债](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%B0%86%E5%A2%9E%E5%8F%911%E4%B8%87%E4%BA%BF%E5%85%83%E5%9B%BD%E5%80%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [周迅 把我跟拖垃圾袋一样拖上来](https://s.weibo.com/weibo?q=%E5%91%A8%E8%BF%85%20%E6%8A%8A%E6%88%91%E8%B7%9F%E6%8B%96%E5%9E%83%E5%9C%BE%E8%A2%8B%E4%B8%80%E6%A0%B7%E6%8B%96%E4%B8%8A%E6%9D%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
