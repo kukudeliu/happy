@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 06:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 06:17:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女子结婚要求前同事还礼400元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E8%A6%81%E6%B1%82%E5%89%8D%E5%90%8C%E4%BA%8B%E8%BF%98%E7%A4%BC400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [钟睒睒第三次成为中国首富](https://www.baidu.com/s?wd=%E9%92%9F%E7%9D%92%E7%9D%92%E7%AC%AC%E4%B8%89%E6%AC%A1%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老师曝光教室无窗帘被约谈 校长停职](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%9B%9D%E5%85%89%E6%95%99%E5%AE%A4%E6%97%A0%E7%AA%97%E5%B8%98%E8%A2%AB%E7%BA%A6%E8%B0%88+%E6%A0%A1%E9%95%BF%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [樊振东排名重返世界第一](https://www.baidu.com/s?wd=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%8E%92%E5%90%8D%E9%87%8D%E8%BF%94%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吴彦祖进店配眼镜 老板娘手足无措](https://www.baidu.com/s?wd=%E5%90%B4%E5%BD%A6%E7%A5%96%E8%BF%9B%E5%BA%97%E9%85%8D%E7%9C%BC%E9%95%9C+%E8%80%81%E6%9D%BF%E5%A8%98%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣5名保安强奸1女子](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A35%E5%90%8D%E4%BF%9D%E5%AE%89%E5%BC%BA%E5%A5%B81%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女子结婚要求前同事还礼400元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E8%A6%81%E6%B1%82%E5%89%8D%E5%90%8C%E4%BA%8B%E8%BF%98%E7%A4%BC400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [钟睒睒第三次成为中国首富](https://www.baidu.com/s?wd=%E9%92%9F%E7%9D%92%E7%9D%92%E7%AC%AC%E4%B8%89%E6%AC%A1%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老师曝光教室无窗帘被约谈 校长停职](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%9B%9D%E5%85%89%E6%95%99%E5%AE%A4%E6%97%A0%E7%AA%97%E5%B8%98%E8%A2%AB%E7%BA%A6%E8%B0%88+%E6%A0%A1%E9%95%BF%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [樊振东排名重返世界第一](https://www.baidu.com/s?wd=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%8E%92%E5%90%8D%E9%87%8D%E8%BF%94%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吴彦祖进店配眼镜 老板娘手足无措](https://www.baidu.com/s?wd=%E5%90%B4%E5%BD%A6%E7%A5%96%E8%BF%9B%E5%BA%97%E9%85%8D%E7%9C%BC%E9%95%9C+%E8%80%81%E6%9D%BF%E5%A8%98%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣5名保安强奸1女子](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A35%E5%90%8D%E4%BF%9D%E5%AE%89%E5%BC%BA%E5%A5%B81%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
