@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 18:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 18:41:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [中国经济具有巨大韧性和潜力](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%85%B7%E6%9C%89%E5%B7%A8%E5%A4%A7%E9%9F%A7%E6%80%A7%E5%92%8C%E6%BD%9C%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [北京副市长靳伟因医院火灾被问责](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%89%AF%E5%B8%82%E9%95%BF%E9%9D%B3%E4%BC%9F%E5%9B%A0%E5%8C%BB%E9%99%A2%E7%81%AB%E7%81%BE%E8%A2%AB%E9%97%AE%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国考136个岗位遭遇零报考](https://www.baidu.com/s?wd=%E5%9B%BD%E8%80%83136%E4%B8%AA%E5%B2%97%E4%BD%8D%E9%81%AD%E9%81%87%E9%9B%B6%E6%8A%A5%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拜登演讲前忘记流程登台道歉](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%BC%94%E8%AE%B2%E5%89%8D%E5%BF%98%E8%AE%B0%E6%B5%81%E7%A8%8B%E7%99%BB%E5%8F%B0%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [权志龙涉嫌吸毒被立案](https://www.baidu.com/s?wd=%E6%9D%83%E5%BF%97%E9%BE%99%E6%B6%89%E5%AB%8C%E5%90%B8%E6%AF%92%E8%A2%AB%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [百度搭子好物鉴赏](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E6%90%AD%E5%AD%90%E5%A5%BD%E7%89%A9%E9%89%B4%E8%B5%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [杭州辟谣禁止直播带货](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [中国经济具有巨大韧性和潜力](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%85%B7%E6%9C%89%E5%B7%A8%E5%A4%A7%E9%9F%A7%E6%80%A7%E5%92%8C%E6%BD%9C%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [北京副市长靳伟因医院火灾被问责](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%89%AF%E5%B8%82%E9%95%BF%E9%9D%B3%E4%BC%9F%E5%9B%A0%E5%8C%BB%E9%99%A2%E7%81%AB%E7%81%BE%E8%A2%AB%E9%97%AE%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国考136个岗位遭遇零报考](https://www.baidu.com/s?wd=%E5%9B%BD%E8%80%83136%E4%B8%AA%E5%B2%97%E4%BD%8D%E9%81%AD%E9%81%87%E9%9B%B6%E6%8A%A5%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拜登演讲前忘记流程登台道歉](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%BC%94%E8%AE%B2%E5%89%8D%E5%BF%98%E8%AE%B0%E6%B5%81%E7%A8%8B%E7%99%BB%E5%8F%B0%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [权志龙涉嫌吸毒被立案](https://www.baidu.com/s?wd=%E6%9D%83%E5%BF%97%E9%BE%99%E6%B6%89%E5%AB%8C%E5%90%B8%E6%AF%92%E8%A2%AB%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [百度搭子好物鉴赏](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E6%90%AD%E5%AD%90%E5%A5%BD%E7%89%A9%E9%89%B4%E8%B5%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [杭州辟谣禁止直播带货](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
