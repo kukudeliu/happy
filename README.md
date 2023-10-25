@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 14:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 14:52:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [女子当街杀害男子并电话告知其家属](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BD%93%E8%A1%97%E6%9D%80%E5%AE%B3%E7%94%B7%E5%AD%90%E5%B9%B6%E7%94%B5%E8%AF%9D%E5%91%8A%E7%9F%A5%E5%85%B6%E5%AE%B6%E5%B1%9E%23&t=31&band_rank=4&Refer=top)<br />
 5. [上班味](https://s.weibo.com/weibo?q=%E4%B8%8A%E7%8F%AD%E5%91%B3&t=31&band_rank=5&Refer=top)<br />
 6. [徐明浩 瑞幸](https://s.weibo.com/weibo?q=%E5%BE%90%E6%98%8E%E6%B5%A9%20%E7%91%9E%E5%B9%B8&t=31&band_rank=6&Refer=top)<br />
-7. [2024春节放8天假](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%8A%82%E6%94%BE8%E5%A4%A9%E5%81%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [今生簪花 来世漂亮](https://s.weibo.com/weibo?q=%E4%BB%8A%E7%94%9F%E7%B0%AA%E8%8A%B1%20%E6%9D%A5%E4%B8%96%E6%BC%82%E4%BA%AE&t=31&band_rank=8&Refer=top)<br />
+7. [今生簪花 来世漂亮](https://s.weibo.com/weibo?q=%E4%BB%8A%E7%94%9F%E7%B0%AA%E8%8A%B1%20%E6%9D%A5%E4%B8%96%E6%BC%82%E4%BA%AE&t=31&band_rank=7&Refer=top)<br />
+8. [2024春节放8天假](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%8A%82%E6%94%BE8%E5%A4%A9%E5%81%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [王诗晴首次选离婚](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E6%99%B4%E9%A6%96%E6%AC%A1%E9%80%89%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
