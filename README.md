@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 00:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 00:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [土耳其](https://s.weibo.com/weibo?q=%23%E5%9C%9F%E8%80%B3%E5%85%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [倪妮手串](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E6%89%8B%E4%B8%B2%23&t=31&band_rank=7&Refer=top)<br />
 8. [得知春节调休的我](https://s.weibo.com/weibo?q=%23%E5%BE%97%E7%9F%A5%E6%98%A5%E8%8A%82%E8%B0%83%E4%BC%91%E7%9A%84%E6%88%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [成功的羊毛卷 从头顶开始烫中卷](https://s.weibo.com/weibo?q=%E6%88%90%E5%8A%9F%E7%9A%84%E7%BE%8A%E6%AF%9B%E5%8D%B7%20%E4%BB%8E%E5%A4%B4%E9%A1%B6%E5%BC%80%E5%A7%8B%E7%83%AB%E4%B8%AD%E5%8D%B7&t=31&band_rank=9&Refer=top)<br />
+9. [土耳其股指熔断](https://s.weibo.com/weibo?q=%23%E5%9C%9F%E8%80%B3%E5%85%B6%E8%82%A1%E6%8C%87%E7%86%94%E6%96%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
