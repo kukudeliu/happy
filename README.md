@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 13:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 13:09:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [增发1万亿国债释放了什么信号？](https://www.baidu.com/s?wd=%E5%A2%9E%E5%8F%911%E4%B8%87%E4%BA%BF%E5%9B%BD%E5%80%BA%E9%87%8A%E6%94%BE%E4%BA%86%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡锡进：不要辜负国务院的这份苦心](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%BE%9C%E8%B4%9F%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%9A%84%E8%BF%99%E4%BB%BD%E8%8B%A6%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大杨哥怒批李佳琦挟持商家](https://www.baidu.com/s?wd=%E5%A4%A7%E6%9D%A8%E5%93%A5%E6%80%92%E6%89%B9%E6%9D%8E%E4%BD%B3%E7%90%A6%E6%8C%9F%E6%8C%81%E5%95%86%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [发改委：放假安排有5大亮点](https://www.baidu.com/s?wd=%E5%8F%91%E6%94%B9%E5%A7%94%EF%BC%9A%E6%94%BE%E5%81%87%E5%AE%89%E6%8E%92%E6%9C%895%E5%A4%A7%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方回应高速交警深夜拦车粗暴执法](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E9%80%9F%E4%BA%A4%E8%AD%A6%E6%B7%B1%E5%A4%9C%E6%8B%A6%E8%BD%A6%E7%B2%97%E6%9A%B4%E6%89%A7%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [杭州辟谣禁止直播带货](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [增发1万亿国债释放了什么信号？](https://www.baidu.com/s?wd=%E5%A2%9E%E5%8F%911%E4%B8%87%E4%BA%BF%E5%9B%BD%E5%80%BA%E9%87%8A%E6%94%BE%E4%BA%86%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡锡进：不要辜负国务院的这份苦心](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%BE%9C%E8%B4%9F%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%9A%84%E8%BF%99%E4%BB%BD%E8%8B%A6%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大杨哥怒批李佳琦挟持商家](https://www.baidu.com/s?wd=%E5%A4%A7%E6%9D%A8%E5%93%A5%E6%80%92%E6%89%B9%E6%9D%8E%E4%BD%B3%E7%90%A6%E6%8C%9F%E6%8C%81%E5%95%86%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [发改委：放假安排有5大亮点](https://www.baidu.com/s?wd=%E5%8F%91%E6%94%B9%E5%A7%94%EF%BC%9A%E6%94%BE%E5%81%87%E5%AE%89%E6%8E%92%E6%9C%895%E5%A4%A7%E4%BA%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方回应高速交警深夜拦车粗暴执法](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E9%80%9F%E4%BA%A4%E8%AD%A6%E6%B7%B1%E5%A4%9C%E6%8B%A6%E8%BD%A6%E7%B2%97%E6%9A%B4%E6%89%A7%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [杭州辟谣禁止直播带货](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
