@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 19:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 19:24:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [北京长峰医院29死火灾调查报告公布](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%95%BF%E5%B3%B0%E5%8C%BB%E9%99%A229%E6%AD%BB%E7%81%AB%E7%81%BE%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济具有巨大韧性和潜力](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%85%B7%E6%9C%89%E5%B7%A8%E5%A4%A7%E9%9F%A7%E6%80%A7%E5%92%8C%E6%BD%9C%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广东一学校近700名学生集体退学](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A1%E8%BF%91700%E5%90%8D%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E9%80%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [北京副市长靳伟因医院火灾被问责](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%89%AF%E5%B8%82%E9%95%BF%E9%9D%B3%E4%BC%9F%E5%9B%A0%E5%8C%BB%E9%99%A2%E7%81%AB%E7%81%BE%E8%A2%AB%E9%97%AE%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [国考136个岗位遭遇零报考](https://www.baidu.com/s?wd=%E5%9B%BD%E8%80%83136%E4%B8%AA%E5%B2%97%E4%BD%8D%E9%81%AD%E9%81%87%E9%9B%B6%E6%8A%A5%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [轻松筹：女童被狗咬善款全额退回](https://www.baidu.com/s?wd=%E8%BD%BB%E6%9D%BE%E7%AD%B9%EF%BC%9A%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%8B%97%E5%92%AC%E5%96%84%E6%AC%BE%E5%85%A8%E9%A2%9D%E9%80%80%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国批准《枪支议定书》](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%89%B9%E5%87%86%E3%80%8A%E6%9E%AA%E6%94%AF%E8%AE%AE%E5%AE%9A%E4%B9%A6%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [百度搭子好物鉴赏](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E6%90%AD%E5%AD%90%E5%A5%BD%E7%89%A9%E9%89%B4%E8%B5%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [杭州辟谣禁止直播带货](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [北京长峰医院29死火灾调查报告公布](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%95%BF%E5%B3%B0%E5%8C%BB%E9%99%A229%E6%AD%BB%E7%81%AB%E7%81%BE%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济具有巨大韧性和潜力](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%85%B7%E6%9C%89%E5%B7%A8%E5%A4%A7%E9%9F%A7%E6%80%A7%E5%92%8C%E6%BD%9C%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广东一学校近700名学生集体退学](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A1%E8%BF%91700%E5%90%8D%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E9%80%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [北京副市长靳伟因医院火灾被问责](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%89%AF%E5%B8%82%E9%95%BF%E9%9D%B3%E4%BC%9F%E5%9B%A0%E5%8C%BB%E9%99%A2%E7%81%AB%E7%81%BE%E8%A2%AB%E9%97%AE%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [国考136个岗位遭遇零报考](https://www.baidu.com/s?wd=%E5%9B%BD%E8%80%83136%E4%B8%AA%E5%B2%97%E4%BD%8D%E9%81%AD%E9%81%87%E9%9B%B6%E6%8A%A5%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [轻松筹：女童被狗咬善款全额退回](https://www.baidu.com/s?wd=%E8%BD%BB%E6%9D%BE%E7%AD%B9%EF%BC%9A%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%8B%97%E5%92%AC%E5%96%84%E6%AC%BE%E5%85%A8%E9%A2%9D%E9%80%80%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国批准《枪支议定书》](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%89%B9%E5%87%86%E3%80%8A%E6%9E%AA%E6%94%AF%E8%AE%AE%E5%AE%9A%E4%B9%A6%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [百度搭子好物鉴赏](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E6%90%AD%E5%AD%90%E5%A5%BD%E7%89%A9%E9%89%B4%E8%B5%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [杭州辟谣禁止直播带货](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
