@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 15:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 15:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [徐明浩 瑞幸](https://s.weibo.com/weibo?q=%E5%BE%90%E6%98%8E%E6%B5%A9%20%E7%91%9E%E5%B9%B8&t=31&band_rank=6&Refer=top)<br />
 7. [王海称李佳琦卖的和田玉小杨哥也卖过](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B5%B7%E7%A7%B0%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%8D%96%E7%9A%84%E5%92%8C%E7%94%B0%E7%8E%89%E5%B0%8F%E6%9D%A8%E5%93%A5%E4%B9%9F%E5%8D%96%E8%BF%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [2024春节放8天假](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%8A%82%E6%94%BE8%E5%A4%A9%E5%81%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [今生簪花 来世漂亮](https://s.weibo.com/weibo?q=%E4%BB%8A%E7%94%9F%E7%B0%AA%E8%8A%B1%20%E6%9D%A5%E4%B8%96%E6%BC%82%E4%BA%AE&t=31&band_rank=9&Refer=top)<br />
+9. [芒果台的文案到底是谁在写](https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E5%8F%B0%E7%9A%84%E6%96%87%E6%A1%88%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E5%9C%A8%E5%86%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [中国经济具有巨大韧性和潜力](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%85%B7%E6%9C%89%E5%B7%A8%E5%A4%A7%E9%9F%A7%E6%80%A7%E5%92%8C%E6%BD%9C%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#2024除夕要上班#](https://www.baidu.com/s?wd=%232024%E9%99%A4%E5%A4%95%E8%A6%81%E4%B8%8A%E7%8F%AD%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [卢伟冰：小米汽车明年正式发布](https://www.baidu.com/s?wd=%E5%8D%A2%E4%BC%9F%E5%86%B0%EF%BC%9A%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%98%8E%E5%B9%B4%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老人术后体内发现5颗牙和牙套](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%9C%AF%E5%90%8E%E4%BD%93%E5%86%85%E5%8F%91%E7%8E%B05%E9%A2%97%E7%89%99%E5%92%8C%E7%89%99%E5%A5%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子买菜看有老鼠狂啃食鸡腿](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%8F%9C%E7%9C%8B%E6%9C%89%E8%80%81%E9%BC%A0%E7%8B%82%E5%95%83%E9%A3%9F%E9%B8%A1%E8%85%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [导演侯孝贤被曝患失智症退休](https://www.baidu.com/s?wd=%E5%AF%BC%E6%BC%94%E4%BE%AF%E5%AD%9D%E8%B4%A4%E8%A2%AB%E6%9B%9D%E6%82%A3%E5%A4%B1%E6%99%BA%E7%97%87%E9%80%80%E4%BC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老人术后体内发现5颗牙和牙套](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%9C%AF%E5%90%8E%E4%BD%93%E5%86%85%E5%8F%91%E7%8E%B05%E9%A2%97%E7%89%99%E5%92%8C%E7%89%99%E5%A5%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [杭州辟谣禁止直播带货](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [中国经济具有巨大韧性和潜力](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%85%B7%E6%9C%89%E5%B7%A8%E5%A4%A7%E9%9F%A7%E6%80%A7%E5%92%8C%E6%BD%9C%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [#2024除夕要上班#](https://www.baidu.com/s?wd=%232024%E9%99%A4%E5%A4%95%E8%A6%81%E4%B8%8A%E7%8F%AD%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [卢伟冰：小米汽车明年正式发布](https://www.baidu.com/s?wd=%E5%8D%A2%E4%BC%9F%E5%86%B0%EF%BC%9A%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%98%8E%E5%B9%B4%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老人术后体内发现5颗牙和牙套](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%9C%AF%E5%90%8E%E4%BD%93%E5%86%85%E5%8F%91%E7%8E%B05%E9%A2%97%E7%89%99%E5%92%8C%E7%89%99%E5%A5%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子买菜看有老鼠狂啃食鸡腿](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%8F%9C%E7%9C%8B%E6%9C%89%E8%80%81%E9%BC%A0%E7%8B%82%E5%95%83%E9%A3%9F%E9%B8%A1%E8%85%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [导演侯孝贤被曝患失智症退休](https://www.baidu.com/s?wd=%E5%AF%BC%E6%BC%94%E4%BE%AF%E5%AD%9D%E8%B4%A4%E8%A2%AB%E6%9B%9D%E6%82%A3%E5%A4%B1%E6%99%BA%E7%97%87%E9%80%80%E4%BC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老人术后体内发现5颗牙和牙套](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%9C%AF%E5%90%8E%E4%BD%93%E5%86%85%E5%8F%91%E7%8E%B05%E9%A2%97%E7%89%99%E5%92%8C%E7%89%99%E5%A5%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [杭州辟谣禁止直播带货](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
