@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 20:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 20:05:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [未成年人网络保护](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BD%91%E7%BB%9C%E4%BF%9D%E6%8A%A4%23&t=31&band_rank=3&Refer=top)<br />
 4. [李佳琦直播间浴液比其它平台贵超30元](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E6%B5%B4%E6%B6%B2%E6%AF%94%E5%85%B6%E5%AE%83%E5%B9%B3%E5%8F%B0%E8%B4%B5%E8%B6%8530%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [田耕纪结局](https://s.weibo.com/weibo?q=%23%E7%94%B0%E8%80%95%E7%BA%AA%E7%BB%93%E5%B1%80%23&t=31&band_rank=5&Refer=top)<br />
-6. [权志龙曾说绝对不能去检察院第二次](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E6%9B%BE%E8%AF%B4%E7%BB%9D%E5%AF%B9%E4%B8%8D%E8%83%BD%E5%8E%BB%E6%A3%80%E5%AF%9F%E9%99%A2%E7%AC%AC%E4%BA%8C%E6%AC%A1%23&t=31&band_rank=6&Refer=top)<br />
-7. [迪丽热巴浓妆vs淡妆](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B5%93%E5%A6%86vs%E6%B7%A1%E5%A6%86%23&t=31&band_rank=7&Refer=top)<br />
+6. [迪丽热巴浓妆vs淡妆](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B5%93%E5%A6%86vs%E6%B7%A1%E5%A6%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [权志龙曾说绝对不能去检察院第二次](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E6%9B%BE%E8%AF%B4%E7%BB%9D%E5%AF%B9%E4%B8%8D%E8%83%BD%E5%8E%BB%E6%A3%80%E5%AF%9F%E9%99%A2%E7%AC%AC%E4%BA%8C%E6%AC%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [俩主播硬刚卖了2.6亿不下播](https://s.weibo.com/weibo?q=%23%E4%BF%A9%E4%B8%BB%E6%92%AD%E7%A1%AC%E5%88%9A%E5%8D%96%E4%BA%862.6%E4%BA%BF%E4%B8%8D%E4%B8%8B%E6%92%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [广东一学校近700名新生集体退学](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A1%E8%BF%91700%E5%90%8D%E6%96%B0%E7%94%9F%E9%9B%86%E4%BD%93%E9%80%80%E5%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [女生独自做完手术获陌生人安慰落泪](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%8B%AC%E8%87%AA%E5%81%9A%E5%AE%8C%E6%89%8B%E6%9C%AF%E8%8E%B7%E9%99%8C%E7%94%9F%E4%BA%BA%E5%AE%89%E6%85%B0%E8%90%BD%E6%B3%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
