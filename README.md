@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 19:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 19:14:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [俩主播硬刚卖了2.6亿不下播](https://s.weibo.com/weibo?q=%23%E4%BF%A9%E4%B8%BB%E6%92%AD%E7%A1%AC%E5%88%9A%E5%8D%96%E4%BA%862.6%E4%BA%BF%E4%B8%8D%E4%B8%8B%E6%92%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [12岁男孩心疼父母课余时间到饭店帮厨](https://s.weibo.com/weibo?q=%2312%E5%B2%81%E7%94%B7%E5%AD%A9%E5%BF%83%E7%96%BC%E7%88%B6%E6%AF%8D%E8%AF%BE%E4%BD%99%E6%97%B6%E9%97%B4%E5%88%B0%E9%A5%AD%E5%BA%97%E5%B8%AE%E5%8E%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [秦海璐 我结婚了没关系](https://s.weibo.com/weibo?q=%E7%A7%A6%E6%B5%B7%E7%92%90%20%E6%88%91%E7%BB%93%E5%A9%9A%E4%BA%86%E6%B2%A1%E5%85%B3%E7%B3%BB&t=31&band_rank=8&Refer=top)<br />
-9. [徐穗珍回来了](https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%A9%97%E7%8F%8D%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [BIGBANG](https://s.weibo.com/weibo?q=BIGBANG&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
