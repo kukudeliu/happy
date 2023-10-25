@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 10:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 10:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以色列要求古特雷斯辞职](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%A6%81%E6%B1%82%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF%E8%BE%9E%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [中学老师批改作业写下你是孤儿吗评语](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E6%89%B9%E6%94%B9%E4%BD%9C%E4%B8%9A%E5%86%99%E4%B8%8B%E4%BD%A0%E6%98%AF%E5%AD%A4%E5%84%BF%E5%90%97%E8%AF%84%E8%AF%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [王睡睡 人不要不知感恩](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9D%A1%E7%9D%A1%20%E4%BA%BA%E4%B8%8D%E8%A6%81%E4%B8%8D%E7%9F%A5%E6%84%9F%E6%81%A9&t=31&band_rank=8&Refer=top)<br />
-9. [花少5 氛围](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%915%20%E6%B0%9B%E5%9B%B4&t=31&band_rank=9&Refer=top)<br />
+9. [调休](https://s.weibo.com/weibo?q=%E8%B0%83%E4%BC%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
