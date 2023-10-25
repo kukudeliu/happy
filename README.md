@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 13:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 13:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大杨哥质问出身农村不能变有钱吗](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%9D%A8%E5%93%A5%E8%B4%A8%E9%97%AE%E5%87%BA%E8%BA%AB%E5%86%9C%E6%9D%91%E4%B8%8D%E8%83%BD%E5%8F%98%E6%9C%89%E9%92%B1%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [吉林地震](https://s.weibo.com/weibo?q=%E5%90%89%E6%9E%97%E5%9C%B0%E9%9C%87&t=31&band_rank=7&Refer=top)<br />
 8. [国家发改委回应2024年放假安排](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%B9%E5%A7%94%E5%9B%9E%E5%BA%942024%E5%B9%B4%E6%94%BE%E5%81%87%E5%AE%89%E6%8E%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [胡锡进 春节休假延长趋势已摆出](https://s.weibo.com/weibo?q=%E8%83%A1%E9%94%A1%E8%BF%9B%20%E6%98%A5%E8%8A%82%E4%BC%91%E5%81%87%E5%BB%B6%E9%95%BF%E8%B6%8B%E5%8A%BF%E5%B7%B2%E6%91%86%E5%87%BA&t=31&band_rank=9&Refer=top)<br />
+9. [调休是因为不得不调但更人性化更灵活](https://s.weibo.com/weibo?q=%23%E8%B0%83%E4%BC%91%E6%98%AF%E5%9B%A0%E4%B8%BA%E4%B8%8D%E5%BE%97%E4%B8%8D%E8%B0%83%E4%BD%86%E6%9B%B4%E4%BA%BA%E6%80%A7%E5%8C%96%E6%9B%B4%E7%81%B5%E6%B4%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
