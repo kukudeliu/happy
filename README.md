@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 03:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 03:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [BIGBANG五名成员四名涉毒](https://s.weibo.com/weibo?q=%23BIGBANG%E4%BA%94%E5%90%8D%E6%88%90%E5%91%98%E5%9B%9B%E5%90%8D%E6%B6%89%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [俩主播硬刚卖了2.6亿不下播](https://s.weibo.com/weibo?q=%23%E4%BF%A9%E4%B8%BB%E6%92%AD%E7%A1%AC%E5%88%9A%E5%8D%96%E4%BA%862.6%E4%BA%BF%E4%B8%8D%E4%B8%8B%E6%92%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [余华 学会克制你的表达欲](https://s.weibo.com/weibo?q=%E4%BD%99%E5%8D%8E%20%E5%AD%A6%E4%BC%9A%E5%85%8B%E5%88%B6%E4%BD%A0%E7%9A%84%E8%A1%A8%E8%BE%BE%E6%AC%B2&t=31&band_rank=8&Refer=top)<br />
-9. [对南方孩子来说冲击力太大了](https://s.weibo.com/weibo?q=%E5%AF%B9%E5%8D%97%E6%96%B9%E5%AD%A9%E5%AD%90%E6%9D%A5%E8%AF%B4%E5%86%B2%E5%87%BB%E5%8A%9B%E5%A4%AA%E5%A4%A7%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [迪丽热巴浓妆vs淡妆](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B5%93%E5%A6%86vs%E6%B7%A1%E5%A6%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
