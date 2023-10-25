@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 19:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 19:02:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [秦海璐 我结婚了没关系](https://s.weibo.com/weibo?q=%E7%A7%A6%E6%B5%B7%E7%92%90%20%E6%88%91%E7%BB%93%E5%A9%9A%E4%BA%86%E6%B2%A1%E5%85%B3%E7%B3%BB&t=31&band_rank=6&Refer=top)<br />
 7. [俩主播硬刚卖了2.6亿不下播](https://s.weibo.com/weibo?q=%23%E4%BF%A9%E4%B8%BB%E6%92%AD%E7%A1%AC%E5%88%9A%E5%8D%96%E4%BA%862.6%E4%BA%BF%E4%B8%8D%E4%B8%8B%E6%92%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [徐穗珍回来了](https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%A9%97%E7%8F%8D%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [帕梅拉好小一只](https://s.weibo.com/weibo?q=%23%E5%B8%95%E6%A2%85%E6%8B%89%E5%A5%BD%E5%B0%8F%E4%B8%80%E5%8F%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [赵又廷回应夺妻之仇不共戴天](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%8F%88%E5%BB%B7%E5%9B%9E%E5%BA%94%E5%A4%BA%E5%A6%BB%E4%B9%8B%E4%BB%87%E4%B8%8D%E5%85%B1%E6%88%B4%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
