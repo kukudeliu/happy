@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 21:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 21:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [郭麒麟回应胖了](https://s.weibo.com/weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E5%9B%9E%E5%BA%94%E8%83%96%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴浓妆vs淡妆](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B5%93%E5%A6%86vs%E6%B7%A1%E5%A6%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [被咬女童妈妈解释为何筹款](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%92%AC%E5%A5%B3%E7%AB%A5%E5%A6%88%E5%A6%88%E8%A7%A3%E9%87%8A%E4%B8%BA%E4%BD%95%E7%AD%B9%E6%AC%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [BIGBANG最后的正常人居然是太阳](https://s.weibo.com/weibo?q=%23BIGBANG%E6%9C%80%E5%90%8E%E7%9A%84%E6%AD%A3%E5%B8%B8%E4%BA%BA%E5%B1%85%E7%84%B6%E6%98%AF%E5%A4%AA%E9%98%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [俩主播硬刚卖了2.6亿不下播](https://s.weibo.com/weibo?q=%23%E4%BF%A9%E4%B8%BB%E6%92%AD%E7%A1%AC%E5%88%9A%E5%8D%96%E4%BA%862.6%E4%BA%BF%E4%B8%8D%E4%B8%8B%E6%92%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
