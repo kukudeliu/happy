@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 21:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 21:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [被咬女童妈妈解释为何筹款](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%92%AC%E5%A5%B3%E7%AB%A5%E5%A6%88%E5%A6%88%E8%A7%A3%E9%87%8A%E4%B8%BA%E4%BD%95%E7%AD%B9%E6%AC%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [郭麒麟回应胖了](https://s.weibo.com/weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E5%9B%9E%E5%BA%94%E8%83%96%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [潜水员韩颋遗体已被打捞上岸](https://s.weibo.com/weibo?q=%23%E6%BD%9C%E6%B0%B4%E5%91%98%E9%9F%A9%E9%A2%8B%E9%81%97%E4%BD%93%E5%B7%B2%E8%A2%AB%E6%89%93%E6%8D%9E%E4%B8%8A%E5%B2%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [俩主播硬刚卖了2.6亿不下播](https://s.weibo.com/weibo?q=%23%E4%BF%A9%E4%B8%BB%E6%92%AD%E7%A1%AC%E5%88%9A%E5%8D%96%E4%BA%862.6%E4%BA%BF%E4%B8%8D%E4%B8%8B%E6%92%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [在海底捞吃了42万是什么体验](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%90%83%E4%BA%8642%E4%B8%87%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
