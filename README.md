@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 18:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 18:07:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [怎能不陶醉于祖国大美河山](https://s.weibo.com/weibo?q=%23%E6%80%8E%E8%83%BD%E4%B8%8D%E9%99%B6%E9%86%89%E4%BA%8E%E7%A5%96%E5%9B%BD%E5%A4%A7%E7%BE%8E%E6%B2%B3%E5%B1%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [李佳琦直播间浴液比其它平台贵超30元](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E6%B5%B4%E6%B6%B2%E6%AF%94%E5%85%B6%E5%AE%83%E5%B9%B3%E5%8F%B0%E8%B4%B5%E8%B6%8530%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [神六直播连线男孩18年后成央视主播](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%85%AD%E7%9B%B4%E6%92%AD%E8%BF%9E%E7%BA%BF%E7%94%B7%E5%AD%A918%E5%B9%B4%E5%90%8E%E6%88%90%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%92%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [赵又廷回应夺妻之仇不共戴天](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%8F%88%E5%BB%B7%E5%9B%9E%E5%BA%94%E5%A4%BA%E5%A6%BB%E4%B9%8B%E4%BB%87%E4%B8%8D%E5%85%B1%E6%88%B4%E5%A4%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [徐穗珍回来了](https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%A9%97%E7%8F%8D%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [徐穗珍回来了](https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%A9%97%E7%8F%8D%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [赵又廷回应夺妻之仇不共戴天](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%8F%88%E5%BB%B7%E5%9B%9E%E5%BA%94%E5%A4%BA%E5%A6%BB%E4%B9%8B%E4%BB%87%E4%B8%8D%E5%85%B1%E6%88%B4%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
