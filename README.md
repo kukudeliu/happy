@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 21:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 21:15:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [秦岚 消音](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%20%E6%B6%88%E9%9F%B3&t=31&band_rank=2&Refer=top)<br />
 3. [速读未成年人网络保护条例举措](https://s.weibo.com/weibo?q=%23%E9%80%9F%E8%AF%BB%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BD%91%E7%BB%9C%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B%E4%B8%BE%E6%8E%AA%23&t=31&band_rank=3&Refer=top)<br />
 4. [潜水员韩颋遗体已被打捞上岸](https://s.weibo.com/weibo?q=%23%E6%BD%9C%E6%B0%B4%E5%91%98%E9%9F%A9%E9%A2%8B%E9%81%97%E4%BD%93%E5%B7%B2%E8%A2%AB%E6%89%93%E6%8D%9E%E4%B8%8A%E5%B2%B8%23&t=31&band_rank=4&Refer=top)<br />
-5. [被狗咬女童未使用善款将全退回](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E6%9C%AA%E4%BD%BF%E7%94%A8%E5%96%84%E6%AC%BE%E5%B0%86%E5%85%A8%E9%80%80%E5%9B%9E%23&t=31&band_rank=5&Refer=top)<br />
-6. [BIGBANG五名成员四名涉毒](https://s.weibo.com/weibo?q=%23BIGBANG%E4%BA%94%E5%90%8D%E6%88%90%E5%91%98%E5%9B%9B%E5%90%8D%E6%B6%89%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
+5. [BIGBANG五名成员四名涉毒](https://s.weibo.com/weibo?q=%23BIGBANG%E4%BA%94%E5%90%8D%E6%88%90%E5%91%98%E5%9B%9B%E5%90%8D%E6%B6%89%E6%AF%92%23&t=31&band_rank=5&Refer=top)<br />
+6. [被狗咬女童未使用善款将全退回](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E6%9C%AA%E4%BD%BF%E7%94%A8%E5%96%84%E6%AC%BE%E5%B0%86%E5%85%A8%E9%80%80%E5%9B%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [郭麒麟回应胖了](https://s.weibo.com/weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E5%9B%9E%E5%BA%94%E8%83%96%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴浓妆vs淡妆](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B5%93%E5%A6%86vs%E6%B7%A1%E5%A6%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [被咬女童妈妈解释为何筹款](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%92%AC%E5%A5%B3%E7%AB%A5%E5%A6%88%E5%A6%88%E8%A7%A3%E9%87%8A%E4%B8%BA%E4%BD%95%E7%AD%B9%E6%AC%BE%23&t=31&band_rank=9&Refer=top)<br />
