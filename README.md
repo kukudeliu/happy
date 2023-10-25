@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 06:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 06:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [苏有朋林心如综艺合体](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9C%89%E6%9C%8B%E6%9E%97%E5%BF%83%E5%A6%82%E7%BB%BC%E8%89%BA%E5%90%88%E4%BD%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [BIGBANG五名成员四名涉毒](https://s.weibo.com/weibo?q=%23BIGBANG%E4%BA%94%E5%90%8D%E6%88%90%E5%91%98%E5%9B%9B%E5%90%8D%E6%B6%89%E6%AF%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [俩主播硬刚卖了2.6亿不下播](https://s.weibo.com/weibo?q=%23%E4%BF%A9%E4%B8%BB%E6%92%AD%E7%A1%AC%E5%88%9A%E5%8D%96%E4%BA%862.6%E4%BA%BF%E4%B8%8D%E4%B8%8B%E6%92%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [5万元冰箱起火准新娘命丧婚房](https://s.weibo.com/weibo?q=%235%E4%B8%87%E5%85%83%E5%86%B0%E7%AE%B1%E8%B5%B7%E7%81%AB%E5%87%86%E6%96%B0%E5%A8%98%E5%91%BD%E4%B8%A7%E5%A9%9A%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [第一批过年回家的选手已经十月辞职了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E8%BF%87%E5%B9%B4%E5%9B%9E%E5%AE%B6%E7%9A%84%E9%80%89%E6%89%8B%E5%B7%B2%E7%BB%8F%E5%8D%81%E6%9C%88%E8%BE%9E%E8%81%8C%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
