@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 17:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 17:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [律师称李佳琦限价控库存属垄断行为](https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E7%A7%B0%E6%9D%8E%E4%BD%B3%E7%90%A6%E9%99%90%E4%BB%B7%E6%8E%A7%E5%BA%93%E5%AD%98%E5%B1%9E%E5%9E%84%E6%96%AD%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [武汉全城拉响防空警报](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%85%A8%E5%9F%8E%E6%8B%89%E5%93%8D%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [家属证实侯孝贤患阿尔兹海默症](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E8%AF%81%E5%AE%9E%E4%BE%AF%E5%AD%9D%E8%B4%A4%E6%82%A3%E9%98%BF%E5%B0%94%E5%85%B9%E6%B5%B7%E9%BB%98%E7%97%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [邵明明直播哭了](https://s.weibo.com/weibo?q=%23%E9%82%B5%E6%98%8E%E6%98%8E%E7%9B%B4%E6%92%AD%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [揭秘李佳琦与小杨哥商业关联](https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E6%9D%8E%E4%BD%B3%E7%90%A6%E4%B8%8E%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%95%86%E4%B8%9A%E5%85%B3%E8%81%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
