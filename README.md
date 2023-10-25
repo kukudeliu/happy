@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 20:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 20:34:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [为强国建设、民族复兴勇担巾帼使命](https://www.baidu.com/s?wd=%E4%B8%BA%E5%BC%BA%E5%9B%BD%E5%BB%BA%E8%AE%BE%E3%80%81%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4%E5%8B%87%E6%8B%85%E5%B7%BE%E5%B8%BC%E4%BD%BF%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [烈士们的功绩彪炳千秋](https://www.baidu.com/s?wd=%E7%83%88%E5%A3%AB%E4%BB%AC%E7%9A%84%E5%8A%9F%E7%BB%A9%E5%BD%AA%E7%82%B3%E5%8D%83%E7%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [广东一学校近700名学生集体退学](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A1%E8%BF%91700%E5%90%8D%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E9%80%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [轻松筹：女童被狗咬善款全额退回](https://www.baidu.com/s?wd=%E8%BD%BB%E6%9D%BE%E7%AD%B9%EF%BC%9A%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%8B%97%E5%92%AC%E5%96%84%E6%AC%BE%E5%85%A8%E9%A2%9D%E9%80%80%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济具有巨大韧性和潜力](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%85%B7%E6%9C%89%E5%B7%A8%E5%A4%A7%E9%9F%A7%E6%80%A7%E5%92%8C%E6%BD%9C%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [为强国建设、民族复兴勇担巾帼使命](https://www.baidu.com/s?wd=%E4%B8%BA%E5%BC%BA%E5%9B%BD%E5%BB%BA%E8%AE%BE%E3%80%81%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4%E5%8B%87%E6%8B%85%E5%B7%BE%E5%B8%BC%E4%BD%BF%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [烈士们的功绩彪炳千秋](https://www.baidu.com/s?wd=%E7%83%88%E5%A3%AB%E4%BB%AC%E7%9A%84%E5%8A%9F%E7%BB%A9%E5%BD%AA%E7%82%B3%E5%8D%83%E7%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [广东一学校近700名学生集体退学](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A1%E8%BF%91700%E5%90%8D%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E9%80%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [轻松筹：女童被狗咬善款全额退回](https://www.baidu.com/s?wd=%E8%BD%BB%E6%9D%BE%E7%AD%B9%EF%BC%9A%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%8B%97%E5%92%AC%E5%96%84%E6%AC%BE%E5%85%A8%E9%A2%9D%E9%80%80%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济具有巨大韧性和潜力](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%85%B7%E6%9C%89%E5%B7%A8%E5%A4%A7%E9%9F%A7%E6%80%A7%E5%92%8C%E6%BD%9C%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
