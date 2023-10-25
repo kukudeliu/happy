@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 20:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 20:54:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [一图读懂未成年人网络保护条例](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E8%AF%BB%E6%87%82%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BD%91%E7%BB%9C%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [知名潜水员韩颋遗体被打捞上岸](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%BD%9C%E6%B0%B4%E5%91%98%E9%9F%A9%E9%A2%8B%E9%81%97%E4%BD%93%E8%A2%AB%E6%89%93%E6%8D%9E%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子患癌讨770万工程款 交通局：没钱](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%82%A3%E7%99%8C%E8%AE%A8770%E4%B8%87%E5%B7%A5%E7%A8%8B%E6%AC%BE+%E4%BA%A4%E9%80%9A%E5%B1%80%EF%BC%9A%E6%B2%A1%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女生独自做手术获陌生人安慰落泪](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%8B%AC%E8%87%AA%E5%81%9A%E6%89%8B%E6%9C%AF%E8%8E%B7%E9%99%8C%E7%94%9F%E4%BA%BA%E5%AE%89%E6%85%B0%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小伙轻生留遗言“人走债消”](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%BD%BB%E7%94%9F%E7%95%99%E9%81%97%E8%A8%80%E2%80%9C%E4%BA%BA%E8%B5%B0%E5%80%BA%E6%B6%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [百度搭子好物鉴赏](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E6%90%AD%E5%AD%90%E5%A5%BD%E7%89%A9%E9%89%B4%E8%B5%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [杭州辟谣禁止直播带货](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [一图读懂未成年人网络保护条例](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E8%AF%BB%E6%87%82%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BD%91%E7%BB%9C%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [知名潜水员韩颋遗体被打捞上岸](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%BD%9C%E6%B0%B4%E5%91%98%E9%9F%A9%E9%A2%8B%E9%81%97%E4%BD%93%E8%A2%AB%E6%89%93%E6%8D%9E%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子患癌讨770万工程款 交通局：没钱](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%82%A3%E7%99%8C%E8%AE%A8770%E4%B8%87%E5%B7%A5%E7%A8%8B%E6%AC%BE+%E4%BA%A4%E9%80%9A%E5%B1%80%EF%BC%9A%E6%B2%A1%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女生独自做手术获陌生人安慰落泪](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%8B%AC%E8%87%AA%E5%81%9A%E6%89%8B%E6%9C%AF%E8%8E%B7%E9%99%8C%E7%94%9F%E4%BA%BA%E5%AE%89%E6%85%B0%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小伙轻生留遗言“人走债消”](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%BD%BB%E7%94%9F%E7%95%99%E9%81%97%E8%A8%80%E2%80%9C%E4%BA%BA%E8%B5%B0%E5%80%BA%E6%B6%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [百度搭子好物鉴赏](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E6%90%AD%E5%AD%90%E5%A5%BD%E7%89%A9%E9%89%B4%E8%B5%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [杭州辟谣禁止直播带货](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
