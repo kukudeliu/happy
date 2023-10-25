@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 23:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 23:28:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [BIGBANG五名成员四名涉毒](https://s.weibo.com/weibo?q=%23BIGBANG%E4%BA%94%E5%90%8D%E6%88%90%E5%91%98%E5%9B%9B%E5%90%8D%E6%B6%89%E6%AF%92%23&t=31&band_rank=4&Refer=top)<br />
 5. [李冰冰 周也老板](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%86%B0%E5%86%B0%20%E5%91%A8%E4%B9%9F%E8%80%81%E6%9D%BF&t=31&band_rank=5&Refer=top)<br />
 6. [女明星出圈图](https://s.weibo.com/weibo?q=%E5%A5%B3%E6%98%8E%E6%98%9F%E5%87%BA%E5%9C%88%E5%9B%BE&t=31&band_rank=6&Refer=top)<br />
-7. [在海底捞吃了42万是什么体验](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%90%83%E4%BA%8642%E4%B8%87%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [5名工作人员接触到福岛核污染水](https://s.weibo.com/weibo?q=%235%E5%90%8D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8E%A5%E8%A7%A6%E5%88%B0%E7%A6%8F%E5%B2%9B%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%23&t=31&band_rank=8&Refer=top)<br />
+7. [5名工作人员接触到福岛核污染水](https://s.weibo.com/weibo?q=%235%E5%90%8D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8E%A5%E8%A7%A6%E5%88%B0%E7%A6%8F%E5%B2%9B%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [在海底捞吃了42万是什么体验](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%90%83%E4%BA%8642%E4%B8%87%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=8&Refer=top)<br />
 9. [秦始皇陵西墓葬发现罕见6只绵羊羊车](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%A7%8B%E7%9A%87%E9%99%B5%E8%A5%BF%E5%A2%93%E8%91%AC%E5%8F%91%E7%8E%B0%E7%BD%95%E8%A7%816%E5%8F%AA%E7%BB%B5%E7%BE%8A%E7%BE%8A%E8%BD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
