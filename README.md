@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 12:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 12:16:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [国家发改委回应2024年放假安排](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%B9%E5%A7%94%E5%9B%9E%E5%BA%942024%E5%B9%B4%E6%94%BE%E5%81%87%E5%AE%89%E6%8E%92%23&t=31&band_rank=5&Refer=top)<br />
 6. [王海打假李佳琦直播间卖和田玉](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B5%B7%E6%89%93%E5%81%87%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E5%92%8C%E7%94%B0%E7%8E%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [除夕A股正常开市](https://s.weibo.com/weibo?q=%23%E9%99%A4%E5%A4%95A%E8%82%A1%E6%AD%A3%E5%B8%B8%E5%BC%80%E5%B8%82%23&t=31&band_rank=7&Refer=top)<br />
-8. [2024五一休5天前后两周上6天](https://s.weibo.com/weibo?q=%232024%E4%BA%94%E4%B8%80%E4%BC%915%E5%A4%A9%E5%89%8D%E5%90%8E%E4%B8%A4%E5%91%A8%E4%B8%8A6%E5%A4%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [断崖式衰老](https://s.weibo.com/weibo?q=%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81&t=31&band_rank=9&Refer=top)<br />
+8. [断崖式衰老](https://s.weibo.com/weibo?q=%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81&t=31&band_rank=8&Refer=top)<br />
+9. [2024五一休5天前后两周上6天](https://s.weibo.com/weibo?q=%232024%E4%BA%94%E4%B8%80%E4%BC%915%E5%A4%A9%E5%89%8D%E5%90%8E%E4%B8%A4%E5%91%A8%E4%B8%8A6%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
