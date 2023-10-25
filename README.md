@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 22:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 22:19:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [张桂梅当选全国妇联副主席](https://www.baidu.com/s?wd=%E5%BC%A0%E6%A1%82%E6%A2%85%E5%BD%93%E9%80%89%E5%85%A8%E5%9B%BD%E5%A6%87%E8%81%94%E5%89%AF%E4%B8%BB%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [郭麒麟回应胖了](https://www.baidu.com/s?wd=%E9%83%AD%E9%BA%92%E9%BA%9F%E5%9B%9E%E5%BA%94%E8%83%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武汉全城拉响防空警报](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%85%A8%E5%9F%8E%E6%8B%89%E5%93%8D%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小伙轻生留遗言“人走债消”](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%BD%BB%E7%94%9F%E7%95%99%E9%81%97%E8%A8%80%E2%80%9C%E4%BA%BA%E8%B5%B0%E5%80%BA%E6%B6%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [春节假期为何不从除夕开始放？](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%E4%B8%BA%E4%BD%95%E4%B8%8D%E4%BB%8E%E9%99%A4%E5%A4%95%E5%BC%80%E5%A7%8B%E6%94%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [拍X线片会患甲状腺癌？科普来了](https://www.baidu.com/s?wd=%E6%8B%8DX%E7%BA%BF%E7%89%87%E4%BC%9A%E6%82%A3%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%EF%BC%9F%E7%A7%91%E6%99%AE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [张桂梅当选全国妇联副主席](https://www.baidu.com/s?wd=%E5%BC%A0%E6%A1%82%E6%A2%85%E5%BD%93%E9%80%89%E5%85%A8%E5%9B%BD%E5%A6%87%E8%81%94%E5%89%AF%E4%B8%BB%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [郭麒麟回应胖了](https://www.baidu.com/s?wd=%E9%83%AD%E9%BA%92%E9%BA%9F%E5%9B%9E%E5%BA%94%E8%83%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武汉全城拉响防空警报](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%85%A8%E5%9F%8E%E6%8B%89%E5%93%8D%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小伙轻生留遗言“人走债消”](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%BD%BB%E7%94%9F%E7%95%99%E9%81%97%E8%A8%80%E2%80%9C%E4%BA%BA%E8%B5%B0%E5%80%BA%E6%B6%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [春节假期为何不从除夕开始放？](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%E4%B8%BA%E4%BD%95%E4%B8%8D%E4%BB%8E%E9%99%A4%E5%A4%95%E5%BC%80%E5%A7%8B%E6%94%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [拍X线片会患甲状腺癌？科普来了](https://www.baidu.com/s?wd=%E6%8B%8DX%E7%BA%BF%E7%89%87%E4%BC%9A%E6%82%A3%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%EF%BC%9F%E7%A7%91%E6%99%AE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
