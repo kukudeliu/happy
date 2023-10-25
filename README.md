@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 04:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 04:09:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [广东一学校近700名学生集体退学](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A1%E8%BF%91700%E5%90%8D%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E9%80%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女徒弟当街杀害男师父自首 警方回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%BE%92%E5%BC%9F%E5%BD%93%E8%A1%97%E6%9D%80%E5%AE%B3%E7%94%B7%E5%B8%88%E7%88%B6%E8%87%AA%E9%A6%96+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [郭麒麟回应胖了](https://www.baidu.com/s?wd=%E9%83%AD%E9%BA%92%E9%BA%9F%E5%9B%9E%E5%BA%94%E8%83%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [武汉全城拉响防空警报](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%85%A8%E5%9F%8E%E6%8B%89%E5%93%8D%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国批准《枪支议定书》](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%89%B9%E5%87%86%E3%80%8A%E6%9E%AA%E6%94%AF%E8%AE%AE%E5%AE%9A%E4%B9%A6%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [拍X线片会患甲状腺癌？科普来了](https://www.baidu.com/s?wd=%E6%8B%8DX%E7%BA%BF%E7%89%87%E4%BC%9A%E6%82%A3%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%EF%BC%9F%E7%A7%91%E6%99%AE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [广东一学校近700名学生集体退学](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A1%E8%BF%91700%E5%90%8D%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E9%80%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女徒弟当街杀害男师父自首 警方回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%BE%92%E5%BC%9F%E5%BD%93%E8%A1%97%E6%9D%80%E5%AE%B3%E7%94%B7%E5%B8%88%E7%88%B6%E8%87%AA%E9%A6%96+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [郭麒麟回应胖了](https://www.baidu.com/s?wd=%E9%83%AD%E9%BA%92%E9%BA%9F%E5%9B%9E%E5%BA%94%E8%83%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [武汉全城拉响防空警报](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%85%A8%E5%9F%8E%E6%8B%89%E5%93%8D%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国批准《枪支议定书》](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%89%B9%E5%87%86%E3%80%8A%E6%9E%AA%E6%94%AF%E8%AE%AE%E5%AE%9A%E4%B9%A6%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [拍X线片会患甲状腺癌？科普来了](https://www.baidu.com/s?wd=%E6%8B%8DX%E7%BA%BF%E7%89%87%E4%BC%9A%E6%82%A3%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%EF%BC%9F%E7%A7%91%E6%99%AE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
