@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 19:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 19:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [俩主播硬刚卖了2.6亿不下播](https://s.weibo.com/weibo?q=%23%E4%BF%A9%E4%B8%BB%E6%92%AD%E7%A1%AC%E5%88%9A%E5%8D%96%E4%BA%862.6%E4%BA%BF%E4%B8%8D%E4%B8%8B%E6%92%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子花1000元租吊车救下被困流浪猫](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B11000%E5%85%83%E7%A7%9F%E5%90%8A%E8%BD%A6%E6%95%91%E4%B8%8B%E8%A2%AB%E5%9B%B0%E6%B5%81%E6%B5%AA%E7%8C%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [秦海璐 我结婚了没关系](https://s.weibo.com/weibo?q=%E7%A7%A6%E6%B5%B7%E7%92%90%20%E6%88%91%E7%BB%93%E5%A9%9A%E4%BA%86%E6%B2%A1%E5%85%B3%E7%B3%BB&t=31&band_rank=8&Refer=top)<br />
-9. [BIGBANG](https://s.weibo.com/weibo?q=BIGBANG&t=31&band_rank=9&Refer=top)<br />
+9. [被狗咬女童未使用善款将全退回](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E6%9C%AA%E4%BD%BF%E7%94%A8%E5%96%84%E6%AC%BE%E5%B0%86%E5%85%A8%E9%80%80%E5%9B%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
