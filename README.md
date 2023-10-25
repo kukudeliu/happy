@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 23:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 23:38:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [一图读懂未成年人网络保护条例](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E8%AF%BB%E6%87%82%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BD%91%E7%BB%9C%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广东一学校近700名学生集体退学](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A1%E8%BF%91700%E5%90%8D%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E9%80%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女徒弟当街杀害男师父自首 警方回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%BE%92%E5%BC%9F%E5%BD%93%E8%A1%97%E6%9D%80%E5%AE%B3%E7%94%B7%E5%B8%88%E7%88%B6%E8%87%AA%E9%A6%96+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [“奥迪男”将外卖员殴打倒地后离去](https://www.baidu.com/s?wd=%E2%80%9C%E5%A5%A5%E8%BF%AA%E7%94%B7%E2%80%9D%E5%B0%86%E5%A4%96%E5%8D%96%E5%91%98%E6%AE%B4%E6%89%93%E5%80%92%E5%9C%B0%E5%90%8E%E7%A6%BB%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小伙轻生留遗言“人走债消”](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%BD%BB%E7%94%9F%E7%95%99%E9%81%97%E8%A8%80%E2%80%9C%E4%BA%BA%E8%B5%B0%E5%80%BA%E6%B6%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美加州州长：中国越成功世界越成功](https://www.baidu.com/s?wd=%E7%BE%8E%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%B6%8A%E6%88%90%E5%8A%9F%E4%B8%96%E7%95%8C%E8%B6%8A%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [福岛5名工作人员接触到核污染水](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B2%9B5%E5%90%8D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8E%A5%E8%A7%A6%E5%88%B0%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [拍X线片会患甲状腺癌？科普来了](https://www.baidu.com/s?wd=%E6%8B%8DX%E7%BA%BF%E7%89%87%E4%BC%9A%E6%82%A3%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%EF%BC%9F%E7%A7%91%E6%99%AE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [一图读懂未成年人网络保护条例](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E8%AF%BB%E6%87%82%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BD%91%E7%BB%9C%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广东一学校近700名学生集体退学](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A1%E8%BF%91700%E5%90%8D%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E9%80%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女徒弟当街杀害男师父自首 警方回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%BE%92%E5%BC%9F%E5%BD%93%E8%A1%97%E6%9D%80%E5%AE%B3%E7%94%B7%E5%B8%88%E7%88%B6%E8%87%AA%E9%A6%96+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [“奥迪男”将外卖员殴打倒地后离去](https://www.baidu.com/s?wd=%E2%80%9C%E5%A5%A5%E8%BF%AA%E7%94%B7%E2%80%9D%E5%B0%86%E5%A4%96%E5%8D%96%E5%91%98%E6%AE%B4%E6%89%93%E5%80%92%E5%9C%B0%E5%90%8E%E7%A6%BB%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小伙轻生留遗言“人走债消”](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%BD%BB%E7%94%9F%E7%95%99%E9%81%97%E8%A8%80%E2%80%9C%E4%BA%BA%E8%B5%B0%E5%80%BA%E6%B6%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美加州州长：中国越成功世界越成功](https://www.baidu.com/s?wd=%E7%BE%8E%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%B6%8A%E6%88%90%E5%8A%9F%E4%B8%96%E7%95%8C%E8%B6%8A%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [福岛5名工作人员接触到核污染水](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B2%9B5%E5%90%8D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8E%A5%E8%A7%A6%E5%88%B0%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [拍X线片会患甲状腺癌？科普来了](https://www.baidu.com/s?wd=%E6%8B%8DX%E7%BA%BF%E7%89%87%E4%BC%9A%E6%82%A3%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%EF%BC%9F%E7%A7%91%E6%99%AE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
