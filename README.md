@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 10:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 10:52:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [调休](https://s.weibo.com/weibo?q=%E8%B0%83%E4%BC%91&t=31&band_rank=5&Refer=top)<br />
 6. [2024五一休5天前后两周上6天](https://s.weibo.com/weibo?q=%232024%E4%BA%94%E4%B8%80%E4%BC%915%E5%A4%A9%E5%89%8D%E5%90%8E%E4%B8%A4%E5%91%A8%E4%B8%8A6%E5%A4%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [教室反光老师要求安窗帘校长被停职](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%AE%A4%E5%8F%8D%E5%85%89%E8%80%81%E5%B8%88%E8%A6%81%E6%B1%82%E5%AE%89%E7%AA%97%E5%B8%98%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%81%9C%E8%81%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [春节调休](https://s.weibo.com/weibo?q=%E6%98%A5%E8%8A%82%E8%B0%83%E4%BC%91&t=31&band_rank=8&Refer=top)<br />
-9. [专家称龙年春节将形成超级黄金周](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%BE%99%E5%B9%B4%E6%98%A5%E8%8A%82%E5%B0%86%E5%BD%A2%E6%88%90%E8%B6%85%E7%BA%A7%E9%BB%84%E9%87%91%E5%91%A8%23&t=31&band_rank=9&Refer=top)<br />
+8. [专家称龙年春节将形成超级黄金周](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%BE%99%E5%B9%B4%E6%98%A5%E8%8A%82%E5%B0%86%E5%BD%A2%E6%88%90%E8%B6%85%E7%BA%A7%E9%BB%84%E9%87%91%E5%91%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [春节调休](https://s.weibo.com/weibo?q=%E6%98%A5%E8%8A%82%E8%B0%83%E4%BC%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
