@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 07:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 07:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [苏有朋林心如综艺合体](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9C%89%E6%9C%8B%E6%9E%97%E5%BF%83%E5%A6%82%E7%BB%BC%E8%89%BA%E5%90%88%E4%BD%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [BIGBANG五名成员四名涉毒](https://s.weibo.com/weibo?q=%23BIGBANG%E4%BA%94%E5%90%8D%E6%88%90%E5%91%98%E5%9B%9B%E5%90%8D%E6%B6%89%E6%AF%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [第一批过年回家的选手已经十月辞职了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E8%BF%87%E5%B9%B4%E5%9B%9E%E5%AE%B6%E7%9A%84%E9%80%89%E6%89%8B%E5%B7%B2%E7%BB%8F%E5%8D%81%E6%9C%88%E8%BE%9E%E8%81%8C%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [俩主播硬刚卖了2.6亿不下播](https://s.weibo.com/weibo?q=%23%E4%BF%A9%E4%B8%BB%E6%92%AD%E7%A1%AC%E5%88%9A%E5%8D%96%E4%BA%862.6%E4%BA%BF%E4%B8%8D%E4%B8%8B%E6%92%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [奶奶拍身份证照片全家都入镜了](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E6%8B%8D%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%85%A7%E7%89%87%E5%85%A8%E5%AE%B6%E9%83%BD%E5%85%A5%E9%95%9C%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
