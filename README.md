@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 17:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 17:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵又廷回应夺妻之仇不共戴天](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%8F%88%E5%BB%B7%E5%9B%9E%E5%BA%94%E5%A4%BA%E5%A6%BB%E4%B9%8B%E4%BB%87%E4%B8%8D%E5%85%B1%E6%88%B4%E5%A4%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [芒果台的文案到底是谁在写](https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E5%8F%B0%E7%9A%84%E6%96%87%E6%A1%88%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E5%9C%A8%E5%86%99%23&t=31&band_rank=7&Refer=top)<br />
 8. [邵明明直播哭了](https://s.weibo.com/weibo?q=%23%E9%82%B5%E6%98%8E%E6%98%8E%E7%9B%B4%E6%92%AD%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [帕梅拉好小一只](https://s.weibo.com/weibo?q=%23%E5%B8%95%E6%A2%85%E6%8B%89%E5%A5%BD%E5%B0%8F%E4%B8%80%E5%8F%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [靳伟因北京长峰医院重大火灾事故被问责](https://s.weibo.com/weibo?q=%23%E9%9D%B3%E4%BC%9F%E5%9B%A0%E5%8C%97%E4%BA%AC%E9%95%BF%E5%B3%B0%E5%8C%BB%E9%99%A2%E9%87%8D%E5%A4%A7%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E8%A2%AB%E9%97%AE%E8%B4%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
