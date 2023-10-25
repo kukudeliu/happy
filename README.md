@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 23:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 23:50:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [BIGBANG五名成员四名涉毒](https://s.weibo.com/weibo?q=%23BIGBANG%E4%BA%94%E5%90%8D%E6%88%90%E5%91%98%E5%9B%9B%E5%90%8D%E6%B6%89%E6%AF%92%23&t=31&band_rank=4&Refer=top)<br />
 5. [土耳其](https://s.weibo.com/weibo?q=%23%E5%9C%9F%E8%80%B3%E5%85%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [女明星出圈图](https://s.weibo.com/weibo?q=%E5%A5%B3%E6%98%8E%E6%98%9F%E5%87%BA%E5%9C%88%E5%9B%BE&t=31&band_rank=6&Refer=top)<br />
-7. [李冰冰 周也老板](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%86%B0%E5%86%B0%20%E5%91%A8%E4%B9%9F%E8%80%81%E6%9D%BF&t=31&band_rank=7&Refer=top)<br />
-8. [成功的羊毛卷 从头顶开始烫中卷](https://s.weibo.com/weibo?q=%E6%88%90%E5%8A%9F%E7%9A%84%E7%BE%8A%E6%AF%9B%E5%8D%B7%20%E4%BB%8E%E5%A4%B4%E9%A1%B6%E5%BC%80%E5%A7%8B%E7%83%AB%E4%B8%AD%E5%8D%B7&t=31&band_rank=8&Refer=top)<br />
+7. [成功的羊毛卷 从头顶开始烫中卷](https://s.weibo.com/weibo?q=%E6%88%90%E5%8A%9F%E7%9A%84%E7%BE%8A%E6%AF%9B%E5%8D%B7%20%E4%BB%8E%E5%A4%B4%E9%A1%B6%E5%BC%80%E5%A7%8B%E7%83%AB%E4%B8%AD%E5%8D%B7&t=31&band_rank=7&Refer=top)<br />
+8. [李冰冰 周也老板](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%86%B0%E5%86%B0%20%E5%91%A8%E4%B9%9F%E8%80%81%E6%9D%BF&t=31&band_rank=8&Refer=top)<br />
 9. [狼队战胜TTG](https://s.weibo.com/weibo?q=%E7%8B%BC%E9%98%9F%E6%88%98%E8%83%9CTTG&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
