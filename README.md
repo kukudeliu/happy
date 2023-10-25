@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 13:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 13:53:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [2024春节放8天假](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%8A%82%E6%94%BE8%E5%A4%A9%E5%81%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [他认真唱国歌的样子太帅了](https://s.weibo.com/weibo?q=%23%E4%BB%96%E8%AE%A4%E7%9C%9F%E5%94%B1%E5%9B%BD%E6%AD%8C%E7%9A%84%E6%A0%B7%E5%AD%90%E5%A4%AA%E5%B8%85%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [王海打假李佳琦直播间卖和田玉](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B5%B7%E6%89%93%E5%81%87%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E5%92%8C%E7%94%B0%E7%8E%89%23&t=31&band_rank=4&Refer=top)<br />
-5. [徐明浩 瑞幸](https://s.weibo.com/weibo?q=%E5%BE%90%E6%98%8E%E6%B5%A9%20%E7%91%9E%E5%B9%B8&t=31&band_rank=5&Refer=top)<br />
-6. [大杨哥质问出身农村不能变有钱吗](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%9D%A8%E5%93%A5%E8%B4%A8%E9%97%AE%E5%87%BA%E8%BA%AB%E5%86%9C%E6%9D%91%E4%B8%8D%E8%83%BD%E5%8F%98%E6%9C%89%E9%92%B1%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
+5. [大杨哥质问出身农村不能变有钱吗](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%9D%A8%E5%93%A5%E8%B4%A8%E9%97%AE%E5%87%BA%E8%BA%AB%E5%86%9C%E6%9D%91%E4%B8%8D%E8%83%BD%E5%8F%98%E6%9C%89%E9%92%B1%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
+6. [徐明浩 瑞幸](https://s.weibo.com/weibo?q=%E5%BE%90%E6%98%8E%E6%B5%A9%20%E7%91%9E%E5%B9%B8&t=31&band_rank=6&Refer=top)<br />
 7. [调休是因为不得不调但更人性化更灵活](https://s.weibo.com/weibo?q=%23%E8%B0%83%E4%BC%91%E6%98%AF%E5%9B%A0%E4%B8%BA%E4%B8%8D%E5%BE%97%E4%B8%8D%E8%B0%83%E4%BD%86%E6%9B%B4%E4%BA%BA%E6%80%A7%E5%8C%96%E6%9B%B4%E7%81%B5%E6%B4%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [吉林地震](https://s.weibo.com/weibo?q=%E5%90%89%E6%9E%97%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top)<br />
 9. [成毅Queencard跳到六公主了](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85Queencard%E8%B7%B3%E5%88%B0%E5%85%AD%E5%85%AC%E4%B8%BB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
