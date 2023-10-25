@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 02:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 02:42:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [皮肤没问题买几十块婴儿面霜也行](https://s.weibo.com/weibo?q=%23%E7%9A%AE%E8%82%A4%E6%B2%A1%E9%97%AE%E9%A2%98%E4%B9%B0%E5%87%A0%E5%8D%81%E5%9D%97%E5%A9%B4%E5%84%BF%E9%9D%A2%E9%9C%9C%E4%B9%9F%E8%A1%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [女生半年减肥40斤查出重度脂肪肝](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%B9%B4%E5%87%8F%E8%82%A540%E6%96%A4%E6%9F%A5%E5%87%BA%E9%87%8D%E5%BA%A6%E8%84%82%E8%82%AA%E8%82%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [俩主播硬刚卖了2.6亿不下播](https://s.weibo.com/weibo?q=%23%E4%BF%A9%E4%B8%BB%E6%92%AD%E7%A1%AC%E5%88%9A%E5%8D%96%E4%BA%862.6%E4%BA%BF%E4%B8%8D%E4%B8%8B%E6%92%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [第一批过年回家的选手已经十月辞职了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E8%BF%87%E5%B9%B4%E5%9B%9E%E5%AE%B6%E7%9A%84%E9%80%89%E6%89%8B%E5%B7%B2%E7%BB%8F%E5%8D%81%E6%9C%88%E8%BE%9E%E8%81%8C%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [对南方孩子来说冲击力太大了](https://s.weibo.com/weibo?q=%E5%AF%B9%E5%8D%97%E6%96%B9%E5%AD%A9%E5%AD%90%E6%9D%A5%E8%AF%B4%E5%86%B2%E5%87%BB%E5%8A%9B%E5%A4%AA%E5%A4%A7%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [广东一学校近700名学生集体退学](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A1%E8%BF%91700%E5%90%8D%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E9%80%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [两男子心情不好烧56个垃圾桶](https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E5%BF%83%E6%83%85%E4%B8%8D%E5%A5%BD%E7%83%A756%E4%B8%AA%E5%9E%83%E5%9C%BE%E6%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [爱狗人士放学路上追问打狗者女儿](https://www.baidu.com/s?wd=%E7%88%B1%E7%8B%97%E4%BA%BA%E5%A3%AB%E6%94%BE%E5%AD%A6%E8%B7%AF%E4%B8%8A%E8%BF%BD%E9%97%AE%E6%89%93%E7%8B%97%E8%80%85%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [郭麒麟回应胖了](https://www.baidu.com/s?wd=%E9%83%AD%E9%BA%92%E9%BA%9F%E5%9B%9E%E5%BA%94%E8%83%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女徒弟当街杀害男师父自首 警方回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%BE%92%E5%BC%9F%E5%BD%93%E8%A1%97%E6%9D%80%E5%AE%B3%E7%94%B7%E5%B8%88%E7%88%B6%E8%87%AA%E9%A6%96+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [拍X线片会患甲状腺癌？科普来了](https://www.baidu.com/s?wd=%E6%8B%8DX%E7%BA%BF%E7%89%87%E4%BC%9A%E6%82%A3%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%EF%BC%9F%E7%A7%91%E6%99%AE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [广东一学校近700名学生集体退学](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A1%E8%BF%91700%E5%90%8D%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E9%80%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [两男子心情不好烧56个垃圾桶](https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E5%BF%83%E6%83%85%E4%B8%8D%E5%A5%BD%E7%83%A756%E4%B8%AA%E5%9E%83%E5%9C%BE%E6%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [爱狗人士放学路上追问打狗者女儿](https://www.baidu.com/s?wd=%E7%88%B1%E7%8B%97%E4%BA%BA%E5%A3%AB%E6%94%BE%E5%AD%A6%E8%B7%AF%E4%B8%8A%E8%BF%BD%E9%97%AE%E6%89%93%E7%8B%97%E8%80%85%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [郭麒麟回应胖了](https://www.baidu.com/s?wd=%E9%83%AD%E9%BA%92%E9%BA%9F%E5%9B%9E%E5%BA%94%E8%83%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女徒弟当街杀害男师父自首 警方回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%BE%92%E5%BC%9F%E5%BD%93%E8%A1%97%E6%9D%80%E5%AE%B3%E7%94%B7%E5%B8%88%E7%88%B6%E8%87%AA%E9%A6%96+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [拍X线片会患甲状腺癌？科普来了](https://www.baidu.com/s?wd=%E6%8B%8DX%E7%BA%BF%E7%89%87%E4%BC%9A%E6%82%A3%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%EF%BC%9F%E7%A7%91%E6%99%AE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
