@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 04:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 04:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [BIGBANG五名成员四名涉毒](https://s.weibo.com/weibo?q=%23BIGBANG%E4%BA%94%E5%90%8D%E6%88%90%E5%91%98%E5%9B%9B%E5%90%8D%E6%B6%89%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [俩主播硬刚卖了2.6亿不下播](https://s.weibo.com/weibo?q=%23%E4%BF%A9%E4%B8%BB%E6%92%AD%E7%A1%AC%E5%88%9A%E5%8D%96%E4%BA%862.6%E4%BA%BF%E4%B8%8D%E4%B8%8B%E6%92%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [卸妆膏为什么不做成这样](https://s.weibo.com/weibo?q=%E5%8D%B8%E5%A6%86%E8%86%8F%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%81%9A%E6%88%90%E8%BF%99%E6%A0%B7&t=31&band_rank=8&Refer=top)<br />
-9. [2024国考136个岗位无人报名](https://s.weibo.com/weibo?q=%232024%E5%9B%BD%E8%80%83136%E4%B8%AA%E5%B2%97%E4%BD%8D%E6%97%A0%E4%BA%BA%E6%8A%A5%E5%90%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [迪丽热巴浓妆vs淡妆](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B5%93%E5%A6%86vs%E6%B7%A1%E5%A6%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
