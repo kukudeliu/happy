@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 17:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-25 17:52:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [揭秘李佳琦与小杨哥商业关联](https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E6%9D%8E%E4%BD%B3%E7%90%A6%E4%B8%8E%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%95%86%E4%B8%9A%E5%85%B3%E8%81%94%23&t=31&band_rank=4&Refer=top)<br />
 5. [赵又廷回应夺妻之仇不共戴天](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%8F%88%E5%BB%B7%E5%9B%9E%E5%BA%94%E5%A4%BA%E5%A6%BB%E4%B9%8B%E4%BB%87%E4%B8%8D%E5%85%B1%E6%88%B4%E5%A4%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [芒果台的文案到底是谁在写](https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E5%8F%B0%E7%9A%84%E6%96%87%E6%A1%88%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E5%9C%A8%E5%86%99%23&t=31&band_rank=6&Refer=top)<br />
-7. [邵明明直播哭了](https://s.weibo.com/weibo?q=%23%E9%82%B5%E6%98%8E%E6%98%8E%E7%9B%B4%E6%92%AD%E5%93%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [帕梅拉好小一只](https://s.weibo.com/weibo?q=%23%E5%B8%95%E6%A2%85%E6%8B%89%E5%A5%BD%E5%B0%8F%E4%B8%80%E5%8F%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [大杨哥怒批李佳琦挟持商家](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%9D%A8%E5%93%A5%E6%80%92%E6%89%B9%E6%9D%8E%E4%BD%B3%E7%90%A6%E6%8C%9F%E6%8C%81%E5%95%86%E5%AE%B6%23&t=31&band_rank=9&Refer=top)<br />
+7. [因10元工钱工人在车门拖拽工头致地铁延误被拘](https://s.weibo.com/weibo?q=%23%E5%9B%A010%E5%85%83%E5%B7%A5%E9%92%B1%E5%B7%A5%E4%BA%BA%E5%9C%A8%E8%BD%A6%E9%97%A8%E6%8B%96%E6%8B%BD%E5%B7%A5%E5%A4%B4%E8%87%B4%E5%9C%B0%E9%93%81%E5%BB%B6%E8%AF%AF%E8%A2%AB%E6%8B%98%23&t=31&band_rank=7&Refer=top)<br />
+8. [邵明明直播哭了](https://s.weibo.com/weibo?q=%23%E9%82%B5%E6%98%8E%E6%98%8E%E7%9B%B4%E6%92%AD%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [帕梅拉好小一只](https://s.weibo.com/weibo?q=%23%E5%B8%95%E6%A2%85%E6%8B%89%E5%A5%BD%E5%B0%8F%E4%B8%80%E5%8F%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
