@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 15:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 15:17:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [杨紫乔欣重聚综艺](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%B9%94%E6%AC%A3%E9%87%8D%E8%81%9A%E7%BB%BC%E8%89%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [中央财政增发的1万亿元国债怎么用](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E8%B4%A2%E6%94%BF%E5%A2%9E%E5%8F%91%E7%9A%841%E4%B8%87%E4%BA%BF%E5%85%83%E5%9B%BD%E5%80%BA%E6%80%8E%E4%B9%88%E7%94%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [金采源否认吸毒传闻](https://s.weibo.com/weibo?q=%23%E9%87%91%E9%87%87%E6%BA%90%E5%90%A6%E8%AE%A4%E5%90%B8%E6%AF%92%E4%BC%A0%E9%97%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [张颂文去街舞6了](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A2%82%E6%96%87%E5%8E%BB%E8%A1%97%E8%88%9E6%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [大麦称暂未收到梅西中国行开票通知](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BA%A6%E7%A7%B0%E6%9A%82%E6%9C%AA%E6%94%B6%E5%88%B0%E6%A2%85%E8%A5%BF%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%BC%80%E7%A5%A8%E9%80%9A%E7%9F%A5%23&t=31&band_rank=9&Refer=top)<br />
+8. [3岁女童被野猴抓走民警紧急救人](https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E9%87%8E%E7%8C%B4%E6%8A%93%E8%B5%B0%E6%B0%91%E8%AD%A6%E7%B4%A7%E6%80%A5%E6%95%91%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [张颂文去街舞6了](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A2%82%E6%96%87%E5%8E%BB%E8%A1%97%E8%88%9E6%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
