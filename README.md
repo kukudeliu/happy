@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 22:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 22:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张云龙直播不敢看钟楚曦](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%BE%99%E7%9B%B4%E6%92%AD%E4%B8%8D%E6%95%A2%E7%9C%8B%E9%92%9F%E6%A5%9A%E6%9B%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [小米14Pro终结直屏曲屏之争](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B314Pro%E7%BB%88%E7%BB%93%E7%9B%B4%E5%B1%8F%E6%9B%B2%E5%B1%8F%E4%B9%8B%E4%BA%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [赵子豪要结婚了](https://s.weibo.com/weibo?q=%E8%B5%B5%E5%AD%90%E8%B1%AA%E8%A6%81%E7%BB%93%E5%A9%9A%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [刘家昌发长文控诉前妻及儿子](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%B6%E6%98%8C%E5%8F%91%E9%95%BF%E6%96%87%E6%8E%A7%E8%AF%89%E5%89%8D%E5%A6%BB%E5%8F%8A%E5%84%BF%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [THE9 歌单](https://s.weibo.com/weibo?q=THE9%20%E6%AD%8C%E5%8D%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
