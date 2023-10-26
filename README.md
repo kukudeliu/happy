@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 18:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 18:04:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [亚残运会这些瞬间温暖人心](https://www.baidu.com/s?wd=%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E8%BF%99%E4%BA%9B%E7%9E%AC%E9%97%B4%E6%B8%A9%E6%9A%96%E4%BA%BA%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [老师涉嫌性侵10岁女孩被批捕](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%B6%89%E5%AB%8C%E6%80%A7%E4%BE%B510%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%89%B9%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小学生疑遭老师殴打后跳楼身亡](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%96%91%E9%81%AD%E8%80%81%E5%B8%88%E6%AE%B4%E6%89%93%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [捷克导演用直升机狂撒2200万克朗](https://www.baidu.com/s?wd=%E6%8D%B7%E5%85%8B%E5%AF%BC%E6%BC%94%E7%94%A8%E7%9B%B4%E5%8D%87%E6%9C%BA%E7%8B%82%E6%92%922200%E4%B8%87%E5%85%8B%E6%9C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [的哥绕道35公里多赚80致乘客误机](https://www.baidu.com/s?wd=%E7%9A%84%E5%93%A5%E7%BB%95%E9%81%9335%E5%85%AC%E9%87%8C%E5%A4%9A%E8%B5%9A80%E8%87%B4%E4%B9%98%E5%AE%A2%E8%AF%AF%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [买好房来百度甄好房](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E7%94%84%E5%A5%BD%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传成都街头发生枪击不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%88%90%E9%83%BD%E8%A1%97%E5%A4%B4%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [亚残运会这些瞬间温暖人心](https://www.baidu.com/s?wd=%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E8%BF%99%E4%BA%9B%E7%9E%AC%E9%97%B4%E6%B8%A9%E6%9A%96%E4%BA%BA%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [老师涉嫌性侵10岁女孩被批捕](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%B6%89%E5%AB%8C%E6%80%A7%E4%BE%B510%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%89%B9%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小学生疑遭老师殴打后跳楼身亡](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%96%91%E9%81%AD%E8%80%81%E5%B8%88%E6%AE%B4%E6%89%93%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [捷克导演用直升机狂撒2200万克朗](https://www.baidu.com/s?wd=%E6%8D%B7%E5%85%8B%E5%AF%BC%E6%BC%94%E7%94%A8%E7%9B%B4%E5%8D%87%E6%9C%BA%E7%8B%82%E6%92%922200%E4%B8%87%E5%85%8B%E6%9C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [的哥绕道35公里多赚80致乘客误机](https://www.baidu.com/s?wd=%E7%9A%84%E5%93%A5%E7%BB%95%E9%81%9335%E5%85%AC%E9%87%8C%E5%A4%9A%E8%B5%9A80%E8%87%B4%E4%B9%98%E5%AE%A2%E8%AF%AF%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [买好房来百度甄好房](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E7%94%84%E5%A5%BD%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传成都街头发生枪击不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%88%90%E9%83%BD%E8%A1%97%E5%A4%B4%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
