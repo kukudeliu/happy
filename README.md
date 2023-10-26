@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 23:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 23:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张元英甜感野猫妆](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E7%94%9C%E6%84%9F%E9%87%8E%E7%8C%AB%E5%A6%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [小米14Pro纯钛](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B314Pro%E7%BA%AF%E9%92%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [以爱为营](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [襄阳通报小学生坠楼身亡](https://s.weibo.com/weibo?q=%23%E8%A5%84%E9%98%B3%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [直播间开始盯着对方降价了](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E5%BC%80%E5%A7%8B%E7%9B%AF%E7%9D%80%E5%AF%B9%E6%96%B9%E9%99%8D%E4%BB%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
