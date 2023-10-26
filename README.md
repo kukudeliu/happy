@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 05:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 05:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [成都多名出租司机围堵共享电单车](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%A4%9A%E5%90%8D%E5%87%BA%E7%A7%9F%E5%8F%B8%E6%9C%BA%E5%9B%B4%E5%A0%B5%E5%85%B1%E4%BA%AB%E7%94%B5%E5%8D%95%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [拜登下令白宫等地降半旗](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E4%B8%8B%E4%BB%A4%E7%99%BD%E5%AE%AB%E7%AD%89%E5%9C%B0%E9%99%8D%E5%8D%8A%E6%97%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [以色列代表拒绝古特雷斯解释](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E4%BB%A3%E8%A1%A8%E6%8B%92%E7%BB%9D%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF%E8%A7%A3%E9%87%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [花样少男少女作者去世](https://www.baidu.com/s?wd=%E8%8A%B1%E6%A0%B7%E5%B0%91%E7%94%B7%E5%B0%91%E5%A5%B3%E4%BD%9C%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [供水系统崩溃 加沙人被迫喝脏水](https://www.baidu.com/s?wd=%E4%BE%9B%E6%B0%B4%E7%B3%BB%E7%BB%9F%E5%B4%A9%E6%BA%83+%E5%8A%A0%E6%B2%99%E4%BA%BA%E8%A2%AB%E8%BF%AB%E5%96%9D%E8%84%8F%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传成都街头发生枪击不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%88%90%E9%83%BD%E8%A1%97%E5%A4%B4%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [成都多名出租司机围堵共享电单车](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%A4%9A%E5%90%8D%E5%87%BA%E7%A7%9F%E5%8F%B8%E6%9C%BA%E5%9B%B4%E5%A0%B5%E5%85%B1%E4%BA%AB%E7%94%B5%E5%8D%95%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [拜登下令白宫等地降半旗](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E4%B8%8B%E4%BB%A4%E7%99%BD%E5%AE%AB%E7%AD%89%E5%9C%B0%E9%99%8D%E5%8D%8A%E6%97%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [以色列代表拒绝古特雷斯解释](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E4%BB%A3%E8%A1%A8%E6%8B%92%E7%BB%9D%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF%E8%A7%A3%E9%87%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [花样少男少女作者去世](https://www.baidu.com/s?wd=%E8%8A%B1%E6%A0%B7%E5%B0%91%E7%94%B7%E5%B0%91%E5%A5%B3%E4%BD%9C%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [供水系统崩溃 加沙人被迫喝脏水](https://www.baidu.com/s?wd=%E4%BE%9B%E6%B0%B4%E7%B3%BB%E7%BB%9F%E5%B4%A9%E6%BA%83+%E5%8A%A0%E6%B2%99%E4%BA%BA%E8%A2%AB%E8%BF%AB%E5%96%9D%E8%84%8F%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传成都街头发生枪击不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%88%90%E9%83%BD%E8%A1%97%E5%A4%B4%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
