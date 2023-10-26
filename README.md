@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 19:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 19:17:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [长江大学通报不雅视频事件](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B1%9F%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [今天飞天的河南88后诠释了人生不被定义](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E9%A3%9E%E5%A4%A9%E7%9A%84%E6%B2%B3%E5%8D%9788%E5%90%8E%E8%AF%A0%E9%87%8A%E4%BA%86%E4%BA%BA%E7%94%9F%E4%B8%8D%E8%A2%AB%E5%AE%9A%E4%B9%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [辛巴谈李佳琦再陷舆论风波](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E5%B7%B4%E8%B0%88%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%86%8D%E9%99%B7%E8%88%86%E8%AE%BA%E9%A3%8E%E6%B3%A2%23&t=31&band_rank=6&Refer=top)<br />
-7. [田小娟方否认涉毒](https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%B0%8F%E5%A8%9F%E6%96%B9%E5%90%A6%E8%AE%A4%E6%B6%89%E6%AF%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [小虎在干嘛](https://s.weibo.com/weibo?q=%E5%B0%8F%E8%99%8E%E5%9C%A8%E5%B9%B2%E5%98%9B&t=31&band_rank=8&Refer=top)<br />
-9. [警方调查长江大学讲座播放不雅视频](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5%E9%95%BF%E6%B1%9F%E5%A4%A7%E5%AD%A6%E8%AE%B2%E5%BA%A7%E6%92%AD%E6%94%BE%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%23&t=31&band_rank=9&Refer=top)<br />
+7. [女教师20年收养30多名特殊儿童](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%8820%E5%B9%B4%E6%94%B6%E5%85%BB30%E5%A4%9A%E5%90%8D%E7%89%B9%E6%AE%8A%E5%84%BF%E7%AB%A5%23&t=31&band_rank=7&Refer=top)<br />
+8. [田小娟方否认涉毒](https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%B0%8F%E5%A8%9F%E6%96%B9%E5%90%A6%E8%AE%A4%E6%B6%89%E6%AF%92%23&t=31&band_rank=8&Refer=top)<br />
+9. [小虎在干嘛](https://s.weibo.com/weibo?q=%E5%B0%8F%E8%99%8E%E5%9C%A8%E5%B9%B2%E5%98%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
