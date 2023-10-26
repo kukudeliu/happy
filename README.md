@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 20:32:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 20:33:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [上海迪士尼官宣疯狂动物城园区](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%AE%98%E5%AE%A3%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%E5%9B%AD%E5%8C%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [G2看TheShy选剑魔](https://s.weibo.com/weibo?q=G2%E7%9C%8BTheShy%E9%80%89%E5%89%91%E9%AD%94&t=31&band_rank=7&Refer=top)<br />
 8. [张云龙直播不敢看钟楚曦](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%BE%99%E7%9B%B4%E6%92%AD%E4%B8%8D%E6%95%A2%E7%9C%8B%E9%92%9F%E6%A5%9A%E6%9B%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [小米澎湃OS正式发布](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%BE%8E%E6%B9%83OS%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [成都交警辟谣街头发生枪击](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E8%A1%97%E5%A4%B4%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,7 +21,7 @@
 2. [神十六神十七航天员在太空拥抱](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E5%85%AD%E7%A5%9E%E5%8D%81%E4%B8%83%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E5%A4%AA%E7%A9%BA%E6%8B%A5%E6%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [女子带娃拍胸片发现是小孩在操作](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A8%83%E6%8B%8D%E8%83%B8%E7%89%87%E5%8F%91%E7%8E%B0%E6%98%AF%E5%B0%8F%E5%AD%A9%E5%9C%A8%E6%93%8D%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚残运会这些瞬间温暖人心](https://www.baidu.com/s?wd=%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E8%BF%99%E4%BA%9B%E7%9E%AC%E9%97%B4%E6%B8%A9%E6%9A%96%E4%BA%BA%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [小学生遭老师打骂后坠亡？官方通报](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%81%AD%E8%80%81%E5%B8%88%E6%89%93%E9%AA%82%E5%90%8E%E5%9D%A0%E4%BA%A1%EF%BC%9F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [官方称坠亡小学生遭老师打骂无实据](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E7%A7%B0%E5%9D%A0%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%81%AD%E8%80%81%E5%B8%88%E6%89%93%E9%AA%82%E6%97%A0%E5%AE%9E%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“全网最低价”是否涉嫌垄断？](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%A8%E7%BD%91%E6%9C%80%E4%BD%8E%E4%BB%B7%E2%80%9D%E6%98%AF%E5%90%A6%E6%B6%89%E5%AB%8C%E5%9E%84%E6%96%AD%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [捷克导演用直升机狂撒2200万克朗](https://www.baidu.com/s?wd=%E6%8D%B7%E5%85%8B%E5%AF%BC%E6%BC%94%E7%94%A8%E7%9B%B4%E5%8D%87%E6%9C%BA%E7%8B%82%E6%92%922200%E4%B8%87%E5%85%8B%E6%9C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [华北黄淮气温破历史同期极值](https://www.baidu.com/s?wd=%E5%8D%8E%E5%8C%97%E9%BB%84%E6%B7%AE%E6%B0%94%E6%B8%A9%E7%A0%B4%E5%8E%86%E5%8F%B2%E5%90%8C%E6%9C%9F%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [神十六神十七航天员在太空拥抱](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E5%85%AD%E7%A5%9E%E5%8D%81%E4%B8%83%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E5%A4%AA%E7%A9%BA%E6%8B%A5%E6%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [女子带娃拍胸片发现是小孩在操作](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A8%83%E6%8B%8D%E8%83%B8%E7%89%87%E5%8F%91%E7%8E%B0%E6%98%AF%E5%B0%8F%E5%AD%A9%E5%9C%A8%E6%93%8D%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚残运会这些瞬间温暖人心](https://www.baidu.com/s?wd=%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E8%BF%99%E4%BA%9B%E7%9E%AC%E9%97%B4%E6%B8%A9%E6%9A%96%E4%BA%BA%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [小学生遭老师打骂后坠亡？官方通报](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%81%AD%E8%80%81%E5%B8%88%E6%89%93%E9%AA%82%E5%90%8E%E5%9D%A0%E4%BA%A1%EF%BC%9F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [官方称坠亡小学生遭老师打骂无实据](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E7%A7%B0%E5%9D%A0%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%81%AD%E8%80%81%E5%B8%88%E6%89%93%E9%AA%82%E6%97%A0%E5%AE%9E%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“全网最低价”是否涉嫌垄断？](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%A8%E7%BD%91%E6%9C%80%E4%BD%8E%E4%BB%B7%E2%80%9D%E6%98%AF%E5%90%A6%E6%B6%89%E5%AB%8C%E5%9E%84%E6%96%AD%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [捷克导演用直升机狂撒2200万克朗](https://www.baidu.com/s?wd=%E6%8D%B7%E5%85%8B%E5%AF%BC%E6%BC%94%E7%94%A8%E7%9B%B4%E5%8D%87%E6%9C%BA%E7%8B%82%E6%92%922200%E4%B8%87%E5%85%8B%E6%9C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [华北黄淮气温破历史同期极值](https://www.baidu.com/s?wd=%E5%8D%8E%E5%8C%97%E9%BB%84%E6%B7%AE%E6%B0%94%E6%B8%A9%E7%A0%B4%E5%8E%86%E5%8F%B2%E5%90%8C%E6%9C%9F%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
