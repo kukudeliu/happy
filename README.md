@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 16:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 16:55:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [高校反诈讲座现不雅视频](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%8F%8D%E8%AF%88%E8%AE%B2%E5%BA%A7%E7%8E%B0%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国代表当场回应以色列不满](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%BD%93%E5%9C%BA%E5%9B%9E%E5%BA%94%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%8D%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [买好房来百度甄好房](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E7%94%84%E5%A5%BD%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [天津辟谣出现肺吸虫病例](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E5%87%BA%E7%8E%B0%E8%82%BA%E5%90%B8%E8%99%AB%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网传成都街头发生枪击不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%88%90%E9%83%BD%E8%A1%97%E5%A4%B4%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [高校反诈讲座现不雅视频](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%8F%8D%E8%AF%88%E8%AE%B2%E5%BA%A7%E7%8E%B0%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国代表当场回应以色列不满](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%BD%93%E5%9C%BA%E5%9B%9E%E5%BA%94%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%8D%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [买好房来百度甄好房](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E7%94%84%E5%A5%BD%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [天津辟谣出现肺吸虫病例](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E5%87%BA%E7%8E%B0%E8%82%BA%E5%90%B8%E8%99%AB%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网传成都街头发生枪击不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%88%90%E9%83%BD%E8%A1%97%E5%A4%B4%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
