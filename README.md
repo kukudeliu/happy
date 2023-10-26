@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 07:12:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 07:13:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [睡前不洗脸会让皮肤变差吗](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%89%8D%E4%B8%8D%E6%B4%97%E8%84%B8%E4%BC%9A%E8%AE%A9%E7%9A%AE%E8%82%A4%E5%8F%98%E5%B7%AE%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [巴黎世家4千元新发带上海门店已售罄](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B64%E5%8D%83%E5%85%83%E6%96%B0%E5%8F%91%E5%B8%A6%E4%B8%8A%E6%B5%B7%E9%97%A8%E5%BA%97%E5%B7%B2%E5%94%AE%E7%BD%84%23&t=31&band_rank=5&Refer=top)<br />
 6. [海底捞回应140斤女生应聘洗碗工被拒](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94140%E6%96%A4%E5%A5%B3%E7%94%9F%E5%BA%94%E8%81%98%E6%B4%97%E7%A2%97%E5%B7%A5%E8%A2%AB%E6%8B%92%23&t=31&band_rank=6&Refer=top)<br />
-7. [刘家昌发长文控诉前妻及儿子](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%B6%E6%98%8C%E5%8F%91%E9%95%BF%E6%96%87%E6%8E%A7%E8%AF%89%E5%89%8D%E5%A6%BB%E5%8F%8A%E5%84%BF%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [张云龙直播不敢看钟楚曦](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%BE%99%E7%9B%B4%E6%92%AD%E4%B8%8D%E6%95%A2%E7%9C%8B%E9%92%9F%E6%A5%9A%E6%9B%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [陕西发现元稹第二任妻子裴淑墓](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E5%8F%91%E7%8E%B0%E5%85%83%E7%A8%B9%E7%AC%AC%E4%BA%8C%E4%BB%BB%E5%A6%BB%E5%AD%90%E8%A3%B4%E6%B7%91%E5%A2%93%23&t=31&band_rank=9&Refer=top)<br />
+7. [权志龙回应涉嫌吸毒](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%9B%9E%E5%BA%94%E6%B6%89%E5%AB%8C%E5%90%B8%E6%AF%92%23&t=31&band_rank=7&Refer=top)<br />
+8. [刘家昌发长文控诉前妻及儿子](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%B6%E6%98%8C%E5%8F%91%E9%95%BF%E6%96%87%E6%8E%A7%E8%AF%89%E5%89%8D%E5%A6%BB%E5%8F%8A%E5%84%BF%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
+9. [张云龙直播不敢看钟楚曦](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%BE%99%E7%9B%B4%E6%92%AD%E4%B8%8D%E6%95%A2%E7%9C%8B%E9%92%9F%E6%A5%9A%E6%9B%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
