@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 18:43:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 18:44:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [男性朋友送的化妆镜藏了摄像头](https://www.baidu.com/s?wd=%E7%94%B7%E6%80%A7%E6%9C%8B%E5%8F%8B%E9%80%81%E7%9A%84%E5%8C%96%E5%A6%86%E9%95%9C%E8%97%8F%E4%BA%86%E6%91%84%E5%83%8F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [9岁女孩玩蛋仔派对花光家里17万](https://www.baidu.com/s?wd=9%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%8E%A9%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%E8%8A%B1%E5%85%89%E5%AE%B6%E9%87%8C17%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小学生疑遭老师殴打后跳楼身亡](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%96%91%E9%81%AD%E8%80%81%E5%B8%88%E6%AE%B4%E6%89%93%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老师涉嫌性侵10岁女孩被批捕](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%B6%89%E5%AB%8C%E6%80%A7%E4%BE%B510%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%89%B9%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [买好房来百度甄好房](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E7%94%84%E5%A5%BD%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传成都街头发生枪击不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%88%90%E9%83%BD%E8%A1%97%E5%A4%B4%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男性朋友送的化妆镜藏了摄像头](https://www.baidu.com/s?wd=%E7%94%B7%E6%80%A7%E6%9C%8B%E5%8F%8B%E9%80%81%E7%9A%84%E5%8C%96%E5%A6%86%E9%95%9C%E8%97%8F%E4%BA%86%E6%91%84%E5%83%8F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [9岁女孩玩蛋仔派对花光家里17万](https://www.baidu.com/s?wd=9%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%8E%A9%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%E8%8A%B1%E5%85%89%E5%AE%B6%E9%87%8C17%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小学生疑遭老师殴打后跳楼身亡](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%96%91%E9%81%AD%E8%80%81%E5%B8%88%E6%AE%B4%E6%89%93%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老师涉嫌性侵10岁女孩被批捕](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%B6%89%E5%AB%8C%E6%80%A7%E4%BE%B510%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%89%B9%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [买好房来百度甄好房](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E7%94%84%E5%A5%BD%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传成都街头发生枪击不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%88%90%E9%83%BD%E8%A1%97%E5%A4%B4%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
