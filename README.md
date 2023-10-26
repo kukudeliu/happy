@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 11:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 11:11:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [美缅因州枪击事件至少已致22人死亡](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%BC%85%E5%9B%A0%E5%B7%9E%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E8%87%B3%E5%B0%91%E5%B7%B2%E8%87%B422%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [中俄列车大劫案有多可怕](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E5%88%97%E8%BD%A6%E5%A4%A7%E5%8A%AB%E6%A1%88%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [奶奶拍身份证照片全家都入镜了](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E6%8B%8D%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%85%A7%E7%89%87%E5%85%A8%E5%AE%B6%E9%83%BD%E5%85%A5%E9%95%9C%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [数十名俄飞行员险遭剧毒蛋糕团灭](https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%8D%81%E5%90%8D%E4%BF%84%E9%A3%9E%E8%A1%8C%E5%91%98%E9%99%A9%E9%81%AD%E5%89%A7%E6%AF%92%E8%9B%8B%E7%B3%95%E5%9B%A2%E7%81%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [以前咋没发现秦岚这么好笑](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%89%8D%E5%92%8B%E6%B2%A1%E5%8F%91%E7%8E%B0%E7%A7%A6%E5%B2%9A%E8%BF%99%E4%B9%88%E5%A5%BD%E7%AC%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
