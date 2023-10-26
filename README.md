@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 13:24:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 13:25:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [迪丽热巴社交名片酸奶疙瘩](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%A4%BE%E4%BA%A4%E5%90%8D%E7%89%87%E9%85%B8%E5%A5%B6%E7%96%99%E7%98%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [警方回应西南科技大学馄饨阿姨事件](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A5%BF%E5%8D%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%A6%84%E9%A5%A8%E9%98%BF%E5%A7%A8%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [多名专家谈李佳琦是否涉嫌垄断](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E4%B8%93%E5%AE%B6%E8%B0%88%E6%9D%8E%E4%BD%B3%E7%90%A6%E6%98%AF%E5%90%A6%E6%B6%89%E5%AB%8C%E5%9E%84%E6%96%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [莲花楼减肥法](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E5%87%8F%E8%82%A5%E6%B3%95&t=31&band_rank=8&Refer=top)<br />
-9. [中俄列车大劫案有多可怕](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E5%88%97%E8%BD%A6%E5%A4%A7%E5%8A%AB%E6%A1%88%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95%23&t=31&band_rank=9&Refer=top)<br />
+8. [中俄列车大劫案有多可怕](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E5%88%97%E8%BD%A6%E5%A4%A7%E5%8A%AB%E6%A1%88%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95%23&t=31&band_rank=8&Refer=top)<br />
+9. [莲花楼减肥法](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E5%87%8F%E8%82%A5%E6%B3%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
