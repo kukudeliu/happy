@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 20:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 20:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [长江大学通报不雅视频事件](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B1%9F%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [今天飞天的河南88后诠释了人生不被定义](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E9%A3%9E%E5%A4%A9%E7%9A%84%E6%B2%B3%E5%8D%9788%E5%90%8E%E8%AF%A0%E9%87%8A%E4%BA%86%E4%BA%BA%E7%94%9F%E4%B8%8D%E8%A2%AB%E5%AE%9A%E4%B9%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [吃火锅忘记带扎头绳怎么办](https://s.weibo.com/weibo?q=%E5%90%83%E7%81%AB%E9%94%85%E5%BF%98%E8%AE%B0%E5%B8%A6%E6%89%8E%E5%A4%B4%E7%BB%B3%E6%80%8E%E4%B9%88%E5%8A%9E&t=31&band_rank=8&Refer=top)<br />
-9. [G2看TheShy选剑魔](https://s.weibo.com/weibo?q=G2%E7%9C%8BTheShy%E9%80%89%E5%89%91%E9%AD%94&t=31&band_rank=9&Refer=top)<br />
+9. [小米14](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B314&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
