@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 02:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 02:42:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [罗翔 你们睡觉的时候手机关不关](https://s.weibo.com/weibo?q=%E7%BD%97%E7%BF%94%20%E4%BD%A0%E4%BB%AC%E7%9D%A1%E8%A7%89%E7%9A%84%E6%97%B6%E5%80%99%E6%89%8B%E6%9C%BA%E5%85%B3%E4%B8%8D%E5%85%B3&t=31&band_rank=5&Refer=top)<br />
 6. [直播间卖的玉到底是真是假](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E7%9A%84%E7%8E%89%E5%88%B0%E5%BA%95%E6%98%AF%E7%9C%9F%E6%98%AF%E5%81%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [小米14Pro纯钛](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B314Pro%E7%BA%AF%E9%92%9B%23&t=31&band_rank=7&Refer=top)<br />
-8. [张云龙直播不敢看钟楚曦](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%BE%99%E7%9B%B4%E6%92%AD%E4%B8%8D%E6%95%A2%E7%9C%8B%E9%92%9F%E6%A5%9A%E6%9B%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [辛巴谈李佳琦再陷舆论风波](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E5%B7%B4%E8%B0%88%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%86%8D%E9%99%B7%E8%88%86%E8%AE%BA%E9%A3%8E%E6%B3%A2%23&t=31&band_rank=9&Refer=top)<br />
+8. [辛巴谈李佳琦再陷舆论风波](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E5%B7%B4%E8%B0%88%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%86%8D%E9%99%B7%E8%88%86%E8%AE%BA%E9%A3%8E%E6%B3%A2%23&t=31&band_rank=8&Refer=top)<br />
+9. [张云龙直播不敢看钟楚曦](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%BE%99%E7%9B%B4%E6%92%AD%E4%B8%8D%E6%95%A2%E7%9C%8B%E9%92%9F%E6%A5%9A%E6%9B%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
