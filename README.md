@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 13:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 13:29:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [直击神十七发射：赤焰冲出箭日同框](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%A5%9E%E5%8D%81%E4%B8%83%E5%8F%91%E5%B0%84%EF%BC%9A%E8%B5%A4%E7%84%B0%E5%86%B2%E5%87%BA%E7%AE%AD%E6%97%A5%E5%90%8C%E6%A1%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子花15万接手邻居超市被套路](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B115%E4%B8%87%E6%8E%A5%E6%89%8B%E9%82%BB%E5%B1%85%E8%B6%85%E5%B8%82%E8%A2%AB%E5%A5%97%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [奶奶拍身份证照片全家都入镜了](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E6%8B%8D%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%85%A7%E7%89%87%E5%85%A8%E5%AE%B6%E9%83%BD%E5%85%A5%E9%95%9C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李佳琦双十一首日卖出95亿](https://www.baidu.com/s?wd=%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%8F%8C%E5%8D%81%E4%B8%80%E9%A6%96%E6%97%A5%E5%8D%96%E5%87%BA95%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [5万元冰箱起火准新娘命丧婚房](https://www.baidu.com/s?wd=5%E4%B8%87%E5%85%83%E5%86%B0%E7%AE%B1%E8%B5%B7%E7%81%AB%E5%87%86%E6%96%B0%E5%A8%98%E5%91%BD%E4%B8%A7%E5%A9%9A%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣出现肺吸虫病例](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E5%87%BA%E7%8E%B0%E8%82%BA%E5%90%B8%E8%99%AB%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [直击神十七发射：赤焰冲出箭日同框](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%A5%9E%E5%8D%81%E4%B8%83%E5%8F%91%E5%B0%84%EF%BC%9A%E8%B5%A4%E7%84%B0%E5%86%B2%E5%87%BA%E7%AE%AD%E6%97%A5%E5%90%8C%E6%A1%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子花15万接手邻居超市被套路](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B115%E4%B8%87%E6%8E%A5%E6%89%8B%E9%82%BB%E5%B1%85%E8%B6%85%E5%B8%82%E8%A2%AB%E5%A5%97%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [奶奶拍身份证照片全家都入镜了](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E6%8B%8D%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%85%A7%E7%89%87%E5%85%A8%E5%AE%B6%E9%83%BD%E5%85%A5%E9%95%9C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李佳琦双十一首日卖出95亿](https://www.baidu.com/s?wd=%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%8F%8C%E5%8D%81%E4%B8%80%E9%A6%96%E6%97%A5%E5%8D%96%E5%87%BA95%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [5万元冰箱起火准新娘命丧婚房](https://www.baidu.com/s?wd=5%E4%B8%87%E5%85%83%E5%86%B0%E7%AE%B1%E8%B5%B7%E7%81%AB%E5%87%86%E6%96%B0%E5%A8%98%E5%91%BD%E4%B8%A7%E5%A9%9A%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣出现肺吸虫病例](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E5%87%BA%E7%8E%B0%E8%82%BA%E5%90%B8%E8%99%AB%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
