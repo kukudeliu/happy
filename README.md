@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 22:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 22:28:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [小米14Pro纯钛](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B314Pro%E7%BA%AF%E9%92%9B%23&t=31&band_rank=4&Refer=top)<br />
 5. [小米14](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B314&t=31&band_rank=5&Refer=top)<br />
 6. [小米14Pro终结直屏曲屏之争](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B314Pro%E7%BB%88%E7%BB%93%E7%9B%B4%E5%B1%8F%E6%9B%B2%E5%B1%8F%E4%B9%8B%E4%BA%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [小米龙晶玻璃](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%BE%99%E6%99%B6%E7%8E%BB%E7%92%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [张云龙直播不敢看钟楚曦](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%BE%99%E7%9B%B4%E6%92%AD%E4%B8%8D%E6%95%A2%E7%9C%8B%E9%92%9F%E6%A5%9A%E6%9B%A6%23&t=31&band_rank=8&Refer=top)<br />
+7. [张云龙直播不敢看钟楚曦](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%BE%99%E7%9B%B4%E6%92%AD%E4%B8%8D%E6%95%A2%E7%9C%8B%E9%92%9F%E6%A5%9A%E6%9B%A6%23&t=31&band_rank=7&Refer=top)<br />
+8. [小米龙晶玻璃](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%BE%99%E6%99%B6%E7%8E%BB%E7%92%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [女明星的牙贴面](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%98%8E%E6%98%9F%E7%9A%84%E7%89%99%E8%B4%B4%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
