@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 16:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 16:42:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 3. [3岁女童被野猴抓走民警成功救回](https://www.baidu.com/s?wd=3%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E9%87%8E%E7%8C%B4%E6%8A%93%E8%B5%B0%E6%B0%91%E8%AD%A6%E6%88%90%E5%8A%9F%E6%95%91%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚残运会这些瞬间温暖人心](https://www.baidu.com/s?wd=%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E8%BF%99%E4%BA%9B%E7%9E%AC%E9%97%B4%E6%B8%A9%E6%9A%96%E4%BA%BA%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江新林父母昨天才知道儿子成航天员](https://www.baidu.com/s?wd=%E6%B1%9F%E6%96%B0%E6%9E%97%E7%88%B6%E6%AF%8D%E6%98%A8%E5%A4%A9%E6%89%8D%E7%9F%A5%E9%81%93%E5%84%BF%E5%AD%90%E6%88%90%E8%88%AA%E5%A4%A9%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [华北黄淮气温破历史同期极值](https://www.baidu.com/s?wd=%E5%8D%8E%E5%8C%97%E9%BB%84%E6%B7%AE%E6%B0%94%E6%B8%A9%E7%A0%B4%E5%8E%86%E5%8F%B2%E5%90%8C%E6%9C%9F%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高校反诈讲座现不雅视频](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%8F%8D%E8%AF%88%E8%AE%B2%E5%BA%A7%E7%8E%B0%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国代表当场回应以色列不满](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%BD%93%E5%9C%BA%E5%9B%9E%E5%BA%94%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%8D%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [买好房来百度甄好房](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E7%94%84%E5%A5%BD%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣出现肺吸虫病例](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E5%87%BA%E7%8E%B0%E8%82%BA%E5%90%B8%E8%99%AB%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [3岁女童被野猴抓走民警成功救回](https://www.baidu.com/s?wd=3%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E9%87%8E%E7%8C%B4%E6%8A%93%E8%B5%B0%E6%B0%91%E8%AD%A6%E6%88%90%E5%8A%9F%E6%95%91%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚残运会这些瞬间温暖人心](https://www.baidu.com/s?wd=%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E8%BF%99%E4%BA%9B%E7%9E%AC%E9%97%B4%E6%B8%A9%E6%9A%96%E4%BA%BA%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江新林父母昨天才知道儿子成航天员](https://www.baidu.com/s?wd=%E6%B1%9F%E6%96%B0%E6%9E%97%E7%88%B6%E6%AF%8D%E6%98%A8%E5%A4%A9%E6%89%8D%E7%9F%A5%E9%81%93%E5%84%BF%E5%AD%90%E6%88%90%E8%88%AA%E5%A4%A9%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [华北黄淮气温破历史同期极值](https://www.baidu.com/s?wd=%E5%8D%8E%E5%8C%97%E9%BB%84%E6%B7%AE%E6%B0%94%E6%B8%A9%E7%A0%B4%E5%8E%86%E5%8F%B2%E5%90%8C%E6%9C%9F%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高校反诈讲座现不雅视频](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%8F%8D%E8%AF%88%E8%AE%B2%E5%BA%A7%E7%8E%B0%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国代表当场回应以色列不满](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%BD%93%E5%9C%BA%E5%9B%9E%E5%BA%94%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%8D%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [买好房来百度甄好房](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E7%94%84%E5%A5%BD%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣出现肺吸虫病例](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E5%87%BA%E7%8E%B0%E8%82%BA%E5%90%B8%E8%99%AB%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
