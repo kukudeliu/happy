@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 14:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 14:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [医生不建议用的3种护肤品](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E4%B8%8D%E5%BB%BA%E8%AE%AE%E7%94%A8%E7%9A%843%E7%A7%8D%E6%8A%A4%E8%82%A4%E5%93%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [张颂文去街舞6了](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A2%82%E6%96%87%E5%8E%BB%E8%A1%97%E8%88%9E6%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [社保局称工作人员上班闲聊视频内容不实](https://s.weibo.com/weibo?q=%23%E7%A4%BE%E4%BF%9D%E5%B1%80%E7%A7%B0%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E4%B8%8A%E7%8F%AD%E9%97%B2%E8%81%8A%E8%A7%86%E9%A2%91%E5%86%85%E5%AE%B9%E4%B8%8D%E5%AE%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [以军夜间发起一次大规模地面进攻](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E5%A4%9C%E9%97%B4%E5%8F%91%E8%B5%B7%E4%B8%80%E6%AC%A1%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9C%B0%E9%9D%A2%E8%BF%9B%E6%94%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [梦中的那片海](https://s.weibo.com/weibo?q=%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
