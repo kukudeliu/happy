@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 21:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 21:18:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [楼盘开工挂政府部门祝贺条幅](https://www.baidu.com/s?wd=%E6%A5%BC%E7%9B%98%E5%BC%80%E5%B7%A5%E6%8C%82%E6%94%BF%E5%BA%9C%E9%83%A8%E9%97%A8%E7%A5%9D%E8%B4%BA%E6%9D%A1%E5%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚残运会这些瞬间温暖人心](https://www.baidu.com/s?wd=%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E8%BF%99%E4%BA%9B%E7%9E%AC%E9%97%B4%E6%B8%A9%E6%9A%96%E4%BA%BA%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [神十六神十七航天员在太空拥抱](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E5%85%AD%E7%A5%9E%E5%8D%81%E4%B8%83%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E5%A4%AA%E7%A9%BA%E6%8B%A5%E6%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [受害人亲述1996年武校投毒案](https://www.baidu.com/s?wd=%E5%8F%97%E5%AE%B3%E4%BA%BA%E4%BA%B2%E8%BF%B01996%E5%B9%B4%E6%AD%A6%E6%A0%A1%E6%8A%95%E6%AF%92%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [员工将扫帚放锅内洗涮 商家回应](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E5%B0%86%E6%89%AB%E5%B8%9A%E6%94%BE%E9%94%85%E5%86%85%E6%B4%97%E6%B6%AE+%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [东京多处地下水有机氟化物浓度超标](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E5%A4%9A%E5%A4%84%E5%9C%B0%E4%B8%8B%E6%B0%B4%E6%9C%89%E6%9C%BA%E6%B0%9F%E5%8C%96%E7%89%A9%E6%B5%93%E5%BA%A6%E8%B6%85%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [花样少男少女作者去世](https://www.baidu.com/s?wd=%E8%8A%B1%E6%A0%B7%E5%B0%91%E7%94%B7%E5%B0%91%E5%A5%B3%E4%BD%9C%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [80岁刘家昌发文怒骂甄珍](https://www.baidu.com/s?wd=80%E5%B2%81%E5%88%98%E5%AE%B6%E6%98%8C%E5%8F%91%E6%96%87%E6%80%92%E9%AA%82%E7%94%84%E7%8F%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [供水系统崩溃 加沙人被迫喝脏水](https://www.baidu.com/s?wd=%E4%BE%9B%E6%B0%B4%E7%B3%BB%E7%BB%9F%E5%B4%A9%E6%BA%83+%E5%8A%A0%E6%B2%99%E4%BA%BA%E8%A2%AB%E8%BF%AB%E5%96%9D%E8%84%8F%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传成都街头发生枪击不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%88%90%E9%83%BD%E8%A1%97%E5%A4%B4%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [楼盘开工挂政府部门祝贺条幅](https://www.baidu.com/s?wd=%E6%A5%BC%E7%9B%98%E5%BC%80%E5%B7%A5%E6%8C%82%E6%94%BF%E5%BA%9C%E9%83%A8%E9%97%A8%E7%A5%9D%E8%B4%BA%E6%9D%A1%E5%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亚残运会这些瞬间温暖人心](https://www.baidu.com/s?wd=%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E8%BF%99%E4%BA%9B%E7%9E%AC%E9%97%B4%E6%B8%A9%E6%9A%96%E4%BA%BA%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [神十六神十七航天员在太空拥抱](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E5%85%AD%E7%A5%9E%E5%8D%81%E4%B8%83%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E5%A4%AA%E7%A9%BA%E6%8B%A5%E6%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [受害人亲述1996年武校投毒案](https://www.baidu.com/s?wd=%E5%8F%97%E5%AE%B3%E4%BA%BA%E4%BA%B2%E8%BF%B01996%E5%B9%B4%E6%AD%A6%E6%A0%A1%E6%8A%95%E6%AF%92%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [员工将扫帚放锅内洗涮 商家回应](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E5%B0%86%E6%89%AB%E5%B8%9A%E6%94%BE%E9%94%85%E5%86%85%E6%B4%97%E6%B6%AE+%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [东京多处地下水有机氟化物浓度超标](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E5%A4%9A%E5%A4%84%E5%9C%B0%E4%B8%8B%E6%B0%B4%E6%9C%89%E6%9C%BA%E6%B0%9F%E5%8C%96%E7%89%A9%E6%B5%93%E5%BA%A6%E8%B6%85%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [花样少男少女作者去世](https://www.baidu.com/s?wd=%E8%8A%B1%E6%A0%B7%E5%B0%91%E7%94%B7%E5%B0%91%E5%A5%B3%E4%BD%9C%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [80岁刘家昌发文怒骂甄珍](https://www.baidu.com/s?wd=80%E5%B2%81%E5%88%98%E5%AE%B6%E6%98%8C%E5%8F%91%E6%96%87%E6%80%92%E9%AA%82%E7%94%84%E7%8F%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [供水系统崩溃 加沙人被迫喝脏水](https://www.baidu.com/s?wd=%E4%BE%9B%E6%B0%B4%E7%B3%BB%E7%BB%9F%E5%B4%A9%E6%BA%83+%E5%8A%A0%E6%B2%99%E4%BA%BA%E8%A2%AB%E8%BF%AB%E5%96%9D%E8%84%8F%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传成都街头发生枪击不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%88%90%E9%83%BD%E8%A1%97%E5%A4%B4%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
