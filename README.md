@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 05:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 05:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [巴黎世家4千元新发带上海门店已售罄](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B64%E5%8D%83%E5%85%83%E6%96%B0%E5%8F%91%E5%B8%A6%E4%B8%8A%E6%B5%B7%E9%97%A8%E5%BA%97%E5%B7%B2%E5%94%AE%E7%BD%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘家昌发长文控诉前妻及儿子](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%B6%E6%98%8C%E5%8F%91%E9%95%BF%E6%96%87%E6%8E%A7%E8%AF%89%E5%89%8D%E5%A6%BB%E5%8F%8A%E5%84%BF%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [直播间卖的玉到底是真是假](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E7%9A%84%E7%8E%89%E5%88%B0%E5%BA%95%E6%98%AF%E7%9C%9F%E6%98%AF%E5%81%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [小米14Pro纯钛](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B314Pro%E7%BA%AF%E9%92%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [辛巴谈李佳琦再陷舆论风波](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E5%B7%B4%E8%B0%88%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%86%8D%E9%99%B7%E8%88%86%E8%AE%BA%E9%A3%8E%E6%B3%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
