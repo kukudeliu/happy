@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 11:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 11:44:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [数十名俄飞行员险遭剧毒蛋糕团灭](https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%81%E5%90%8D%E4%BF%84%E9%A3%9E%E8%A1%8C%E5%91%98%E9%99%A9%E9%81%AD%E5%89%A7%E6%AF%92%E8%9B%8B%E7%B3%95%E5%9B%A2%E7%81%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李佳琦双十一首日卖出95亿](https://www.baidu.com/s?wd=%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%8F%8C%E5%8D%81%E4%B8%80%E9%A6%96%E6%97%A5%E5%8D%96%E5%87%BA95%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子花15万接手邻居超市被套路](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B115%E4%B8%87%E6%8E%A5%E6%89%8B%E9%82%BB%E5%B1%85%E8%B6%85%E5%B8%82%E8%A2%AB%E5%A5%97%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [成都飞北京一航班遭鸟击返航](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E9%A3%9E%E5%8C%97%E4%BA%AC%E4%B8%80%E8%88%AA%E7%8F%AD%E9%81%AD%E9%B8%9F%E5%87%BB%E8%BF%94%E8%88%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生半年减肥40斤查出重度脂肪肝](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%B9%B4%E5%87%8F%E8%82%A540%E6%96%A4%E6%9F%A5%E5%87%BA%E9%87%8D%E5%BA%A6%E8%84%82%E8%82%AA%E8%82%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [华为辟谣全面接管问界销售体系](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E8%BE%9F%E8%B0%A3%E5%85%A8%E9%9D%A2%E6%8E%A5%E7%AE%A1%E9%97%AE%E7%95%8C%E9%94%80%E5%94%AE%E4%BD%93%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [数十名俄飞行员险遭剧毒蛋糕团灭](https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%81%E5%90%8D%E4%BF%84%E9%A3%9E%E8%A1%8C%E5%91%98%E9%99%A9%E9%81%AD%E5%89%A7%E6%AF%92%E8%9B%8B%E7%B3%95%E5%9B%A2%E7%81%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李佳琦双十一首日卖出95亿](https://www.baidu.com/s?wd=%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%8F%8C%E5%8D%81%E4%B8%80%E9%A6%96%E6%97%A5%E5%8D%96%E5%87%BA95%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子花15万接手邻居超市被套路](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B115%E4%B8%87%E6%8E%A5%E6%89%8B%E9%82%BB%E5%B1%85%E8%B6%85%E5%B8%82%E8%A2%AB%E5%A5%97%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [成都飞北京一航班遭鸟击返航](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E9%A3%9E%E5%8C%97%E4%BA%AC%E4%B8%80%E8%88%AA%E7%8F%AD%E9%81%AD%E9%B8%9F%E5%87%BB%E8%BF%94%E8%88%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生半年减肥40斤查出重度脂肪肝](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%B9%B4%E5%87%8F%E8%82%A540%E6%96%A4%E6%9F%A5%E5%87%BA%E9%87%8D%E5%BA%A6%E8%84%82%E8%82%AA%E8%82%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [华为辟谣全面接管问界销售体系](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E8%BE%9F%E8%B0%A3%E5%85%A8%E9%9D%A2%E6%8E%A5%E7%AE%A1%E9%97%AE%E7%95%8C%E9%94%80%E5%94%AE%E4%BD%93%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
