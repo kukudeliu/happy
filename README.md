@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 20:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 20:07:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [辅导员称播放不雅视频电脑曾借给他人](https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%AF%BC%E5%91%98%E7%A7%B0%E6%92%AD%E6%94%BE%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E7%94%B5%E8%84%91%E6%9B%BE%E5%80%9F%E7%BB%99%E4%BB%96%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [长江大学通报不雅视频事件](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B1%9F%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [G2看TheShy选剑魔](https://s.weibo.com/weibo?q=G2%E7%9C%8BTheShy%E9%80%89%E5%89%91%E9%AD%94&t=31&band_rank=8&Refer=top)<br />
-9. [WBG零封MAD](https://s.weibo.com/weibo?q=%23WBG%E9%9B%B6%E5%B0%81MAD%23&t=31&band_rank=9&Refer=top)<br />
+9. [上海迪士尼官宣疯狂动物城园区](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%AE%98%E5%AE%A3%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%E5%9B%AD%E5%8C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
