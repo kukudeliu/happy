@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 22:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 22:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女明星的牙贴面](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%98%8E%E6%98%9F%E7%9A%84%E7%89%99%E8%B4%B4%E9%9D%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [吃火锅忘记带扎头绳怎么办](https://s.weibo.com/weibo?q=%E5%90%83%E7%81%AB%E9%94%85%E5%BF%98%E8%AE%B0%E5%B8%A6%E6%89%8E%E5%A4%B4%E7%BB%B3%E6%80%8E%E4%B9%88%E5%8A%9E&t=31&band_rank=7&Refer=top)<br />
 8. [陈牧驰此沙拳击比赛打到就医](https://s.weibo.com/weibo?q=%E9%99%88%E7%89%A7%E9%A9%B0%E6%AD%A4%E6%B2%99%E6%8B%B3%E5%87%BB%E6%AF%94%E8%B5%9B%E6%89%93%E5%88%B0%E5%B0%B1%E5%8C%BB&t=31&band_rank=8&Refer=top)<br />
-9. [小米14Pro终结直屏曲屏之争](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B314Pro%E7%BB%88%E7%BB%93%E7%9B%B4%E5%B1%8F%E6%9B%B2%E5%B1%8F%E4%B9%8B%E4%BA%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [海底捞回应140斤女生应聘洗碗工被拒](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94140%E6%96%A4%E5%A5%B3%E7%94%9F%E5%BA%94%E8%81%98%E6%B4%97%E7%A2%97%E5%B7%A5%E8%A2%AB%E6%8B%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
