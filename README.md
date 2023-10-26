@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 22:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 22:17:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [小米14Pro纯钛](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B314Pro%E7%BA%AF%E9%92%9B%23&t=31&band_rank=4&Refer=top)<br />
 5. [小米14](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B314&t=31&band_rank=5&Refer=top)<br />
 6. [小米14Pro终结直屏曲屏之争](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B314Pro%E7%BB%88%E7%BB%93%E7%9B%B4%E5%B1%8F%E6%9B%B2%E5%B1%8F%E4%B9%8B%E4%BA%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [反垄断办回应李佳琦被质疑涉嫌控价](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%9E%84%E6%96%AD%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%A2%AB%E8%B4%A8%E7%96%91%E6%B6%89%E5%AB%8C%E6%8E%A7%E4%BB%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [女明星的牙贴面](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%98%8E%E6%98%9F%E7%9A%84%E7%89%99%E8%B4%B4%E9%9D%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [费翔 小米](https://s.weibo.com/weibo?q=%E8%B4%B9%E7%BF%94%20%E5%B0%8F%E7%B1%B3&t=31&band_rank=9&Refer=top)<br />
+7. [女明星的牙贴面](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%98%8E%E6%98%9F%E7%9A%84%E7%89%99%E8%B4%B4%E9%9D%A2%23&t=31&band_rank=7&Refer=top)<br />
+8. [反垄断办回应李佳琦被质疑涉嫌控价](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%9E%84%E6%96%AD%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%A2%AB%E8%B4%A8%E7%96%91%E6%B6%89%E5%AB%8C%E6%8E%A7%E4%BB%B7%23&t=31&band_rank=8&Refer=top)<br />
+9. [张云龙直播不敢看钟楚曦](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%BE%99%E7%9B%B4%E6%92%AD%E4%B8%8D%E6%95%A2%E7%9C%8B%E9%92%9F%E6%A5%9A%E6%9B%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
