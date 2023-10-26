@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 23:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 23:43:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [罗翔 你们睡觉的时候手机关不关](https://s.weibo.com/weibo?q=%E7%BD%97%E7%BF%94%20%E4%BD%A0%E4%BB%AC%E7%9D%A1%E8%A7%89%E7%9A%84%E6%97%B6%E5%80%99%E6%89%8B%E6%9C%BA%E5%85%B3%E4%B8%8D%E5%85%B3&t=31&band_rank=4&Refer=top)<br />
 5. [花儿与少年开始体现大局观了](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%E5%BC%80%E5%A7%8B%E4%BD%93%E7%8E%B0%E5%A4%A7%E5%B1%80%E8%A7%82%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [张元英甜感野猫妆](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E7%94%9C%E6%84%9F%E9%87%8E%E7%8C%AB%E5%A6%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [襄阳通报小学生坠楼身亡](https://s.weibo.com/weibo?q=%23%E8%A5%84%E9%98%B3%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [小米14Pro纯钛](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B314Pro%E7%BA%AF%E9%92%9B%23&t=31&band_rank=8&Refer=top)<br />
+7. [小米14Pro纯钛](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B314Pro%E7%BA%AF%E9%92%9B%23&t=31&band_rank=7&Refer=top)<br />
+8. [襄阳通报小学生坠楼身亡](https://s.weibo.com/weibo?q=%23%E8%A5%84%E9%98%B3%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [以爱为营](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
