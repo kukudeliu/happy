@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 22:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 22:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小米14](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B314&t=31&band_rank=6&Refer=top)<br />
 7. [张云龙直播不敢看钟楚曦](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%BE%99%E7%9B%B4%E6%92%AD%E4%B8%8D%E6%95%A2%E7%9C%8B%E9%92%9F%E6%A5%9A%E6%9B%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [THE9 歌单](https://s.weibo.com/weibo?q=THE9%20%E6%AD%8C%E5%8D%95&t=31&band_rank=8&Refer=top)<br />
-9. [小米14Pro终结直屏曲屏之争](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B314Pro%E7%BB%88%E7%BB%93%E7%9B%B4%E5%B1%8F%E6%9B%B2%E5%B1%8F%E4%B9%8B%E4%BA%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [农村妮是千万个妈妈的缩影](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E5%A6%AE%E6%98%AF%E5%8D%83%E4%B8%87%E4%B8%AA%E5%A6%88%E5%A6%88%E7%9A%84%E7%BC%A9%E5%BD%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
