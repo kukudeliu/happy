@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 23:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 23:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张元英甜感野猫妆](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E7%94%9C%E6%84%9F%E9%87%8E%E7%8C%AB%E5%A6%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [农村妮是千万个妈妈的缩影](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E5%A6%AE%E6%98%AF%E5%8D%83%E4%B8%87%E4%B8%AA%E5%A6%88%E5%A6%88%E7%9A%84%E7%BC%A9%E5%BD%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [小米14](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B314&t=31&band_rank=8&Refer=top)<br />
-9. [小米14Pro纯钛](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B314Pro%E7%BA%AF%E9%92%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [直播间开始盯着对方降价了](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E5%BC%80%E5%A7%8B%E7%9B%AF%E7%9D%80%E5%AF%B9%E6%96%B9%E9%99%8D%E4%BB%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
