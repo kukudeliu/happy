@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 08:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 08:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [24岁女生去酒吧被保安当未成年拦下](https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%A5%B3%E7%94%9F%E5%8E%BB%E9%85%92%E5%90%A7%E8%A2%AB%E4%BF%9D%E5%AE%89%E5%BD%93%E6%9C%AA%E6%88%90%E5%B9%B4%E6%8B%A6%E4%B8%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [女生半年减肥40斤查出重度脂肪肝](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%B9%B4%E5%87%8F%E8%82%A540%E6%96%A4%E6%9F%A5%E5%87%BA%E9%87%8D%E5%BA%A6%E8%84%82%E8%82%AA%E8%82%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [李沁官宣出演七夜雪](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%AE%98%E5%AE%A3%E5%87%BA%E6%BC%94%E4%B8%83%E5%A4%9C%E9%9B%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [BIGBANG五名成员四名涉毒](https://s.weibo.com/weibo?q=%23BIGBANG%E4%BA%94%E5%90%8D%E6%88%90%E5%91%98%E5%9B%9B%E5%90%8D%E6%B6%89%E6%AF%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [迪丽热巴 当年好奇的问题突然窜入脑海](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E5%BD%93%E5%B9%B4%E5%A5%BD%E5%A5%87%E7%9A%84%E9%97%AE%E9%A2%98%E7%AA%81%E7%84%B6%E7%AA%9C%E5%85%A5%E8%84%91%E6%B5%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
