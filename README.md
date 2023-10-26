@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 09:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-26 09:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [染上毒瘾后外貌的真实变化](https://s.weibo.com/weibo?q=%23%E6%9F%93%E4%B8%8A%E6%AF%92%E7%98%BE%E5%90%8E%E5%A4%96%E8%B2%8C%E7%9A%84%E7%9C%9F%E5%AE%9E%E5%8F%98%E5%8C%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [快递小哥十年做公益被孩子叫熊大叔叔](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E5%8D%81%E5%B9%B4%E5%81%9A%E5%85%AC%E7%9B%8A%E8%A2%AB%E5%AD%A9%E5%AD%90%E5%8F%AB%E7%86%8A%E5%A4%A7%E5%8F%94%E5%8F%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [女生半年减肥40斤查出重度脂肪肝](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%B9%B4%E5%87%8F%E8%82%A540%E6%96%A4%E6%9F%A5%E5%87%BA%E9%87%8D%E5%BA%A6%E8%84%82%E8%82%AA%E8%82%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [李沁官宣出演七夜雪](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%AE%98%E5%AE%A3%E5%87%BA%E6%BC%94%E4%B8%83%E5%A4%9C%E9%9B%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [数十名俄飞行员险遭剧毒蛋糕团灭](https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%8D%81%E5%90%8D%E4%BF%84%E9%A3%9E%E8%A1%8C%E5%91%98%E9%99%A9%E9%81%AD%E5%89%A7%E6%AF%92%E8%9B%8B%E7%B3%95%E5%9B%A2%E7%81%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
