@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 21:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 21:44:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [吴尊友因胰腺癌去世](https://www.baidu.com/s?wd=%E5%90%B4%E5%B0%8A%E5%8F%8B%E5%9B%A0%E8%83%B0%E8%85%BA%E7%99%8C%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [《新闻联播》视频：李克强同志逝世](https://www.baidu.com/s?wd=%E3%80%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E3%80%8B%E8%A7%86%E9%A2%91%EF%BC%9A%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [毕业生穿校服回母校悄悄看老师](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E7%94%9F%E7%A9%BF%E6%A0%A1%E6%9C%8D%E5%9B%9E%E6%AF%8D%E6%A0%A1%E6%82%84%E6%82%84%E7%9C%8B%E8%80%81%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方辟谣医保费不再划入个人账户](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%8C%BB%E4%BF%9D%E8%B4%B9%E4%B8%8D%E5%86%8D%E5%88%92%E5%85%A5%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [脑瘫男孩爬楼梯围观孩子齐喊加油](https://www.baidu.com/s?wd=%E8%84%91%E7%98%AB%E7%94%B7%E5%AD%A9%E7%88%AC%E6%A5%BC%E6%A2%AF%E5%9B%B4%E8%A7%82%E5%AD%A9%E5%AD%90%E9%BD%90%E5%96%8A%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一女童被野猴抓走？假的](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A5%B3%E7%AB%A5%E8%A2%AB%E9%87%8E%E7%8C%B4%E6%8A%93%E8%B5%B0%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [吴尊友因胰腺癌去世](https://www.baidu.com/s?wd=%E5%90%B4%E5%B0%8A%E5%8F%8B%E5%9B%A0%E8%83%B0%E8%85%BA%E7%99%8C%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [《新闻联播》视频：李克强同志逝世](https://www.baidu.com/s?wd=%E3%80%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E3%80%8B%E8%A7%86%E9%A2%91%EF%BC%9A%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [毕业生穿校服回母校悄悄看老师](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E7%94%9F%E7%A9%BF%E6%A0%A1%E6%9C%8D%E5%9B%9E%E6%AF%8D%E6%A0%A1%E6%82%84%E6%82%84%E7%9C%8B%E8%80%81%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方辟谣医保费不再划入个人账户](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%8C%BB%E4%BF%9D%E8%B4%B9%E4%B8%8D%E5%86%8D%E5%88%92%E5%85%A5%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [脑瘫男孩爬楼梯围观孩子齐喊加油](https://www.baidu.com/s?wd=%E8%84%91%E7%98%AB%E7%94%B7%E5%AD%A9%E7%88%AC%E6%A5%BC%E6%A2%AF%E5%9B%B4%E8%A7%82%E5%AD%A9%E5%AD%90%E9%BD%90%E5%96%8A%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一女童被野猴抓走？假的](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A5%B3%E7%AB%A5%E8%A2%AB%E9%87%8E%E7%8C%B4%E6%8A%93%E8%B5%B0%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
