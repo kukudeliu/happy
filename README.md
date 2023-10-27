@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 08:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 08:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以色列巴勒斯坦冲突](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [彩妆爱用物](https://s.weibo.com/weibo?q=%23%E5%BD%A9%E5%A6%86%E7%88%B1%E7%94%A8%E7%89%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [秦岚拍的辛芷蕾](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E6%8B%8D%E7%9A%84%E8%BE%9B%E8%8A%B7%E8%95%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [罗翔 你们睡觉的时候手机关不关](https://s.weibo.com/weibo?q=%E7%BD%97%E7%BF%94%20%E4%BD%A0%E4%BB%AC%E7%9D%A1%E8%A7%89%E7%9A%84%E6%97%B6%E5%80%99%E6%89%8B%E6%9C%BA%E5%85%B3%E4%B8%8D%E5%85%B3&t=31&band_rank=9&Refer=top)<br />
+9. [老人在ICU门口通宵守护脑出血儿子](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%9C%A8ICU%E9%97%A8%E5%8F%A3%E9%80%9A%E5%AE%B5%E5%AE%88%E6%8A%A4%E8%84%91%E5%87%BA%E8%A1%80%E5%84%BF%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
