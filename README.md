@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 07:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 07:42:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [中国外贸展现积极向好变化](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E5%B1%95%E7%8E%B0%E7%A7%AF%E6%9E%81%E5%90%91%E5%A5%BD%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [联合国大会通过巴以问题相关草案](https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BC%9A%E9%80%9A%E8%BF%87%E5%B7%B4%E4%BB%A5%E9%97%AE%E9%A2%98%E7%9B%B8%E5%85%B3%E8%8D%89%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多地已发现“加拿大一枝黄花”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B7%B2%E5%8F%91%E7%8E%B0%E2%80%9C%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%80%E6%9E%9D%E9%BB%84%E8%8A%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [暨南大学81名新生放弃入学资格](https://www.baidu.com/s?wd=%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A681%E5%90%8D%E6%96%B0%E7%94%9F%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%E8%B5%84%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [爸爸将娃举过顶玩耍没接住摔地上](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%B0%86%E5%A8%83%E4%B8%BE%E8%BF%87%E9%A1%B6%E7%8E%A9%E8%80%8D%E6%B2%A1%E6%8E%A5%E4%BD%8F%E6%91%94%E5%9C%B0%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [深圳过山车追尾事故亲历者发声](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E8%BF%87%E5%B1%B1%E8%BD%A6%E8%BF%BD%E5%B0%BE%E4%BA%8B%E6%95%85%E4%BA%B2%E5%8E%86%E8%80%85%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [暨南大学81名新生放弃入学资格](https://www.baidu.com/s?wd=%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A681%E5%90%8D%E6%96%B0%E7%94%9F%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%E8%B5%84%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一女童被野猴抓走？假的](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A5%B3%E7%AB%A5%E8%A2%AB%E9%87%8E%E7%8C%B4%E6%8A%93%E8%B5%B0%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [中国外贸展现积极向好变化](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E5%B1%95%E7%8E%B0%E7%A7%AF%E6%9E%81%E5%90%91%E5%A5%BD%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [联合国大会通过巴以问题相关草案](https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BC%9A%E9%80%9A%E8%BF%87%E5%B7%B4%E4%BB%A5%E9%97%AE%E9%A2%98%E7%9B%B8%E5%85%B3%E8%8D%89%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多地已发现“加拿大一枝黄花”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B7%B2%E5%8F%91%E7%8E%B0%E2%80%9C%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%80%E6%9E%9D%E9%BB%84%E8%8A%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [暨南大学81名新生放弃入学资格](https://www.baidu.com/s?wd=%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A681%E5%90%8D%E6%96%B0%E7%94%9F%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%E8%B5%84%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [爸爸将娃举过顶玩耍没接住摔地上](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%B0%86%E5%A8%83%E4%B8%BE%E8%BF%87%E9%A1%B6%E7%8E%A9%E8%80%8D%E6%B2%A1%E6%8E%A5%E4%BD%8F%E6%91%94%E5%9C%B0%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [深圳过山车追尾事故亲历者发声](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E8%BF%87%E5%B1%B1%E8%BD%A6%E8%BF%BD%E5%B0%BE%E4%BA%8B%E6%95%85%E4%BA%B2%E5%8E%86%E8%80%85%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [暨南大学81名新生放弃入学资格](https://www.baidu.com/s?wd=%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A681%E5%90%8D%E6%96%B0%E7%94%9F%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%E8%B5%84%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一女童被野猴抓走？假的](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A5%B3%E7%AB%A5%E8%A2%AB%E9%87%8E%E7%8C%B4%E6%8A%93%E8%B5%B0%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
