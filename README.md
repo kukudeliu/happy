@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 08:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 08:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [罗翔 你们睡觉的时候手机关不关](https://s.weibo.com/weibo?q=%E7%BD%97%E7%BF%94%20%E4%BD%A0%E4%BB%AC%E7%9D%A1%E8%A7%89%E7%9A%84%E6%97%B6%E5%80%99%E6%89%8B%E6%9C%BA%E5%85%B3%E4%B8%8D%E5%85%B3&t=31&band_rank=6&Refer=top)<br />
 7. [睡前不洗脸会让皮肤变差吗](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%89%8D%E4%B8%8D%E6%B4%97%E8%84%B8%E4%BC%9A%E8%AE%A9%E7%9A%AE%E8%82%A4%E5%8F%98%E5%B7%AE%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [以色列巴勒斯坦冲突](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%86%B2%E7%AA%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [比较冷门却用完真香的国货](https://s.weibo.com/weibo?q=%23%E6%AF%94%E8%BE%83%E5%86%B7%E9%97%A8%E5%8D%B4%E7%94%A8%E5%AE%8C%E7%9C%9F%E9%A6%99%E7%9A%84%E5%9B%BD%E8%B4%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [六旬男子晨跑时一头栽地2女子急抢救](https://s.weibo.com/weibo?q=%23%E5%85%AD%E6%97%AC%E7%94%B7%E5%AD%90%E6%99%A8%E8%B7%91%E6%97%B6%E4%B8%80%E5%A4%B4%E6%A0%BD%E5%9C%B02%E5%A5%B3%E5%AD%90%E6%80%A5%E6%8A%A2%E6%95%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
