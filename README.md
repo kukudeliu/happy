@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 17:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 17:53:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [缅甸](https://s.weibo.com/weibo?q=%E7%BC%85%E7%94%B8&t=31&band_rank=4&Refer=top)<br />
 5. [男子缓刑期间跳江救人获准减刑](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%BC%93%E5%88%91%E6%9C%9F%E9%97%B4%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E8%8E%B7%E5%87%86%E5%87%8F%E5%88%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [苏炳添世界排名消失](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E6%B6%88%E5%A4%B1%23&t=31&band_rank=6&Refer=top)<br />
-7. [外交部呼吁缅甸有关方面尽快停火止战](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%91%BC%E5%90%81%E7%BC%85%E7%94%B8%E6%9C%89%E5%85%B3%E6%96%B9%E9%9D%A2%E5%B0%BD%E5%BF%AB%E5%81%9C%E7%81%AB%E6%AD%A2%E6%88%98%23&t=31&band_rank=7&Refer=top)<br />
-8. [6旬父亲烤地瓜20年供儿子硕士毕业](https://s.weibo.com/weibo?q=%236%E6%97%AC%E7%88%B6%E4%BA%B2%E7%83%A4%E5%9C%B0%E7%93%9C20%E5%B9%B4%E4%BE%9B%E5%84%BF%E5%AD%90%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [以色列要求俄罗斯驱逐哈马斯](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%A6%81%E6%B1%82%E4%BF%84%E7%BD%97%E6%96%AF%E9%A9%B1%E9%80%90%E5%93%88%E9%A9%AC%E6%96%AF%23&t=31&band_rank=9&Refer=top)<br />
+7. [6旬父亲烤地瓜20年供儿子硕士毕业](https://s.weibo.com/weibo?q=%236%E6%97%AC%E7%88%B6%E4%BA%B2%E7%83%A4%E5%9C%B0%E7%93%9C20%E5%B9%B4%E4%BE%9B%E5%84%BF%E5%AD%90%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A%23&t=31&band_rank=7&Refer=top)<br />
+8. [外交部呼吁缅甸有关方面尽快停火止战](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%91%BC%E5%90%81%E7%BC%85%E7%94%B8%E6%9C%89%E5%85%B3%E6%96%B9%E9%9D%A2%E5%B0%BD%E5%BF%AB%E5%81%9C%E7%81%AB%E6%AD%A2%E6%88%98%23&t=31&band_rank=8&Refer=top)<br />
+9. [奶茶店有必要24小时营业吗](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%BA%97%E6%9C%89%E5%BF%85%E8%A6%8124%E5%B0%8F%E6%97%B6%E8%90%A5%E4%B8%9A%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
