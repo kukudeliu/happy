@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 01:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 01:58:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [吴尊友逝世](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E5%8F%8B%E9%80%9D%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [13岁哥哥见新生妹妹紧张到无从下手](https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%93%A5%E5%93%A5%E8%A7%81%E6%96%B0%E7%94%9F%E5%A6%B9%E5%A6%B9%E7%B4%A7%E5%BC%A0%E5%88%B0%E6%97%A0%E4%BB%8E%E4%B8%8B%E6%89%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么拖完地瓷砖有股腥味](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8B%96%E5%AE%8C%E5%9C%B0%E7%93%B7%E7%A0%96%E6%9C%89%E8%82%A1%E8%85%A5%E5%91%B3&t=31&band_rank=7&Refer=top)<br />
-8. [导演马秉煜因病去世](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E9%A9%AC%E7%A7%89%E7%85%9C%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [双十一是不是卖不动了](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E6%98%AF%E4%B8%8D%E6%98%AF%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [双十一是不是卖不动了](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E6%98%AF%E4%B8%8D%E6%98%AF%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [导演马秉煜因病去世](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E9%A9%AC%E7%A7%89%E7%85%9C%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
