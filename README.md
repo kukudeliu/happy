@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 00:01:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 00:02:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [吴尊友逝世](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E5%8F%8B%E9%80%9D%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [中级会计成绩](https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BA%A7%E4%BC%9A%E8%AE%A1%E6%88%90%E7%BB%A9&t=31&band_rank=6&Refer=top)<br />
 7. [双十一是不是卖不动了](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E6%98%AF%E4%B8%8D%E6%98%AF%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [胰腺癌是最内向的癌](https://s.weibo.com/weibo?q=%23%E8%83%B0%E8%85%BA%E7%99%8C%E6%98%AF%E6%9C%80%E5%86%85%E5%90%91%E7%9A%84%E7%99%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [李克强同志逝世](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+8. [李克强同志逝世](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [胰腺癌是最内向的癌](https://s.weibo.com/weibo?q=%23%E8%83%B0%E8%85%BA%E7%99%8C%E6%98%AF%E6%9C%80%E5%86%85%E5%90%91%E7%9A%84%E7%99%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
