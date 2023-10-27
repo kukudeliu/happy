@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 16:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 16:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [印度军队向巴基斯坦开火](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%86%9B%E9%98%9F%E5%90%91%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%BC%80%E7%81%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [缅北多地爆发激烈战事](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E6%BF%80%E7%83%88%E6%88%98%E4%BA%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [苏炳添世界排名消失](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E6%B6%88%E5%A4%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [以色列要求俄罗斯驱逐哈马斯](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%A6%81%E6%B1%82%E4%BF%84%E7%BD%97%E6%96%AF%E9%A9%B1%E9%80%90%E5%93%88%E9%A9%AC%E6%96%AF%23&t=31&band_rank=9&Refer=top)<br />
+9. [外交部呼吁缅甸有关方面尽快停火止战](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%91%BC%E5%90%81%E7%BC%85%E7%94%B8%E6%9C%89%E5%85%B3%E6%96%B9%E9%9D%A2%E5%B0%BD%E5%BF%AB%E5%81%9C%E7%81%AB%E6%AD%A2%E6%88%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
