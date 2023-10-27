@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 14:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 14:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以色列要求俄罗斯驱逐哈马斯](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%A6%81%E6%B1%82%E4%BF%84%E7%BD%97%E6%96%AF%E9%A9%B1%E9%80%90%E5%93%88%E9%A9%AC%E6%96%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [被狗咬伤女童200万捐款已全部退完](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5200%E4%B8%87%E6%8D%90%E6%AC%BE%E5%B7%B2%E5%85%A8%E9%83%A8%E9%80%80%E5%AE%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [约旦王后为巴勒斯坦人发声](https://s.weibo.com/weibo?q=%23%E7%BA%A6%E6%97%A6%E7%8E%8B%E5%90%8E%E4%B8%BA%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [E法护未来](https://s.weibo.com/weibo?q=%23E%E6%B3%95%E6%8A%A4%E6%9C%AA%E6%9D%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [国家医保局辟谣医保费不再划入个人账户](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8C%BB%E4%BF%9D%E5%B1%80%E8%BE%9F%E8%B0%A3%E5%8C%BB%E4%BF%9D%E8%B4%B9%E4%B8%8D%E5%86%8D%E5%88%92%E5%85%A5%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
