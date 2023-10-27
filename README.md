@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 19:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 19:24:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 3. [《新闻联播》](https://www.baidu.com/s?wd=%E3%80%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国外贸稳中有进态势进一步显现](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E7%A8%B3%E4%B8%AD%E6%9C%89%E8%BF%9B%E6%80%81%E5%8A%BF%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%98%BE%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [吴尊友因胰腺癌去世](https://www.baidu.com/s?wd=%E5%90%B4%E5%B0%8A%E5%8F%8B%E5%9B%A0%E8%83%B0%E8%85%BA%E7%99%8C%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [美在叙非法军事基地遭袭](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9C%A8%E5%8F%99%E9%9D%9E%E6%B3%95%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%E9%81%AD%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [理财基因动了 00后囤金也疯狂](https://www.baidu.com/s?wd=%E7%90%86%E8%B4%A2%E5%9F%BA%E5%9B%A0%E5%8A%A8%E4%BA%86+00%E5%90%8E%E5%9B%A4%E9%87%91%E4%B9%9F%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [81岁女董事长被逐出董事会](https://www.baidu.com/s?wd=81%E5%B2%81%E5%A5%B3%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A2%AB%E9%80%90%E5%87%BA%E8%91%A3%E4%BA%8B%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [买好房来百度甄好房](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E7%94%84%E5%A5%BD%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [三亚某餐厅不接待中国人？系旧谣言](https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E6%9F%90%E9%A4%90%E5%8E%85%E4%B8%8D%E6%8E%A5%E5%BE%85%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9F%E7%B3%BB%E6%97%A7%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [《新闻联播》](https://www.baidu.com/s?wd=%E3%80%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国外贸稳中有进态势进一步显现](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E7%A8%B3%E4%B8%AD%E6%9C%89%E8%BF%9B%E6%80%81%E5%8A%BF%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%98%BE%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [吴尊友因胰腺癌去世](https://www.baidu.com/s?wd=%E5%90%B4%E5%B0%8A%E5%8F%8B%E5%9B%A0%E8%83%B0%E8%85%BA%E7%99%8C%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [美在叙非法军事基地遭袭](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9C%A8%E5%8F%99%E9%9D%9E%E6%B3%95%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%E9%81%AD%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [理财基因动了 00后囤金也疯狂](https://www.baidu.com/s?wd=%E7%90%86%E8%B4%A2%E5%9F%BA%E5%9B%A0%E5%8A%A8%E4%BA%86+00%E5%90%8E%E5%9B%A4%E9%87%91%E4%B9%9F%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [81岁女董事长被逐出董事会](https://www.baidu.com/s?wd=81%E5%B2%81%E5%A5%B3%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A2%AB%E9%80%90%E5%87%BA%E8%91%A3%E4%BA%8B%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [买好房来百度甄好房](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E7%94%84%E5%A5%BD%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [三亚某餐厅不接待中国人？系旧谣言](https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E6%9F%90%E9%A4%90%E5%8E%85%E4%B8%8D%E6%8E%A5%E5%BE%85%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9F%E7%B3%BB%E6%97%A7%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
