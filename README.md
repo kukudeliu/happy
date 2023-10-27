@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 20:40:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 20:41:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [印度军队向巴基斯坦开火](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%86%9B%E9%98%9F%E5%90%91%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%BC%80%E7%81%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [胰腺癌一旦发现往往是中晚期](https://s.weibo.com/weibo?q=%23%E8%83%B0%E8%85%BA%E7%99%8C%E4%B8%80%E6%97%A6%E5%8F%91%E7%8E%B0%E5%BE%80%E5%BE%80%E6%98%AF%E4%B8%AD%E6%99%9A%E6%9C%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [双十一是不是卖不动了](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E6%98%AF%E4%B8%8D%E6%98%AF%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [为什么买大闸蟹要用蟹卡](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B9%B0%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%A6%81%E7%94%A8%E8%9F%B9%E5%8D%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [胰腺癌是最内向的癌](https://s.weibo.com/weibo?q=%23%E8%83%B0%E8%85%BA%E7%99%8C%E6%98%AF%E6%9C%80%E5%86%85%E5%90%91%E7%9A%84%E7%99%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
