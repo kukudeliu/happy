@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 08:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 09:00:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [小米14Pro纯钛](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B314Pro%E7%BA%AF%E9%92%9B%23&t=31&band_rank=4&Refer=top)<br />
 5. [小米14Pro终结直屏曲屏之争](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B314Pro%E7%BB%88%E7%BB%93%E7%9B%B4%E5%B1%8F%E6%9B%B2%E5%B1%8F%E4%B9%8B%E4%BA%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [以色列巴勒斯坦冲突](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
-7. [星穹铁道1.4](https://s.weibo.com/weibo?q=%23%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%931.4%23&t=31&band_rank=7&Refer=top)<br />
-8. [晨雾里的婺源古朴如画](https://s.weibo.com/weibo?q=%23%E6%99%A8%E9%9B%BE%E9%87%8C%E7%9A%84%E5%A9%BA%E6%BA%90%E5%8F%A4%E6%9C%B4%E5%A6%82%E7%94%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [G2看TheShy选剑魔](https://s.weibo.com/weibo?q=G2%E7%9C%8BTheShy%E9%80%89%E5%89%91%E9%AD%94&t=31&band_rank=9&Refer=top)<br />
+7. [晨雾里的婺源古朴如画](https://s.weibo.com/weibo?q=%23%E6%99%A8%E9%9B%BE%E9%87%8C%E7%9A%84%E5%A9%BA%E6%BA%90%E5%8F%A4%E6%9C%B4%E5%A6%82%E7%94%BB%23&t=31&band_rank=7&Refer=top)<br />
+8. [货车着火飞奔下高速众人齐心灭火](https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%A6%E7%9D%80%E7%81%AB%E9%A3%9E%E5%A5%94%E4%B8%8B%E9%AB%98%E9%80%9F%E4%BC%97%E4%BA%BA%E9%BD%90%E5%BF%83%E7%81%AD%E7%81%AB%23&t=31&band_rank=8&Refer=top)<br />
+9. [辛巴谈李佳琦再陷舆论风波](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E5%B7%B4%E8%B0%88%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%86%8D%E9%99%B7%E8%88%86%E8%AE%BA%E9%A3%8E%E6%B3%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
