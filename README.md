@@ -1,8 +1,8 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 18:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 18:58:02</h4></div>
 
 > 微博  
 
-1. [李克强同志讣告](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E8%AE%A3%E5%91%8A&t=31&band_rank=1&Refer=top)<br />
+1. [李克强同志讣告](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E8%AE%A3%E5%91%8A%23&t=31&band_rank=1&Refer=top)<br />
 2. [李克强同志逝世](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚残运会有哪些硬核科技](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%23&t=31&band_rank=3&Refer=top)<br />
 4. [吴尊友逝世](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E5%8F%8B%E9%80%9D%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
