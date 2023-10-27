@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 17:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 17:02:02</h4></div>
 
 > 微博  
 
 1. [李克强同志逝世](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [吴尊友逝世](https://s.weibo.com/weibo?q=%E5%90%B4%E5%B0%8A%E5%8F%8B%E9%80%9D%E4%B8%96&t=31&band_rank=2&Refer=top)<br />
+2. [吴尊友逝世](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E5%8F%8B%E9%80%9D%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚残运会有哪些硬核科技](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%23&t=31&band_rank=3&Refer=top)<br />
 4. [缅甸](https://s.weibo.com/weibo?q=%E7%BC%85%E7%94%B8&t=31&band_rank=4&Refer=top)<br />
 5. [拜登下令对叙利亚境内发动空袭](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E4%B8%8B%E4%BB%A4%E5%AF%B9%E5%8F%99%E5%88%A9%E4%BA%9A%E5%A2%83%E5%86%85%E5%8F%91%E5%8A%A8%E7%A9%BA%E8%A2%AD%23&t=31&band_rank=5&Refer=top)<br />
