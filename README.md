@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 17:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 17:12:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [深化区域合作 促进互联互通](https://www.baidu.com/s?wd=%E6%B7%B1%E5%8C%96%E5%8C%BA%E5%9F%9F%E5%90%88%E4%BD%9C+%E4%BF%83%E8%BF%9B%E4%BA%92%E8%81%94%E4%BA%92%E9%80%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中方呼吁停火止战确保中缅边境安全](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%91%BC%E5%90%81%E5%81%9C%E7%81%AB%E6%AD%A2%E6%88%98%E7%A1%AE%E4%BF%9D%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E5%AE%89%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [印巴互相指责对方先开火](https://www.baidu.com/s?wd=%E5%8D%B0%E5%B7%B4%E4%BA%92%E7%9B%B8%E6%8C%87%E8%B4%A3%E5%AF%B9%E6%96%B9%E5%85%88%E5%BC%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [贵州省委办公厅副主任陈丽萍被查](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%A7%94%E5%8A%9E%E5%85%AC%E5%8E%85%E5%89%AF%E4%B8%BB%E4%BB%BB%E9%99%88%E4%B8%BD%E8%90%8D%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [买好房来百度甄好房](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E7%94%84%E5%A5%BD%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [消防员为救人受伤智力回到3岁时](https://www.baidu.com/s?wd=%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%BA%E6%95%91%E4%BA%BA%E5%8F%97%E4%BC%A4%E6%99%BA%E5%8A%9B%E5%9B%9E%E5%88%B03%E5%B2%81%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [理财基因动了 00后囤金也疯狂](https://www.baidu.com/s?wd=%E7%90%86%E8%B4%A2%E5%9F%BA%E5%9B%A0%E5%8A%A8%E4%BA%86+00%E5%90%8E%E5%9B%A4%E9%87%91%E4%B9%9F%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [三亚某餐厅不接待中国人？系旧谣言](https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E6%9F%90%E9%A4%90%E5%8E%85%E4%B8%8D%E6%8E%A5%E5%BE%85%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9F%E7%B3%BB%E6%97%A7%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [深化区域合作 促进互联互通](https://www.baidu.com/s?wd=%E6%B7%B1%E5%8C%96%E5%8C%BA%E5%9F%9F%E5%90%88%E4%BD%9C+%E4%BF%83%E8%BF%9B%E4%BA%92%E8%81%94%E4%BA%92%E9%80%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中方呼吁停火止战确保中缅边境安全](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%91%BC%E5%90%81%E5%81%9C%E7%81%AB%E6%AD%A2%E6%88%98%E7%A1%AE%E4%BF%9D%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E5%AE%89%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [印巴互相指责对方先开火](https://www.baidu.com/s?wd=%E5%8D%B0%E5%B7%B4%E4%BA%92%E7%9B%B8%E6%8C%87%E8%B4%A3%E5%AF%B9%E6%96%B9%E5%85%88%E5%BC%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [贵州省委办公厅副主任陈丽萍被查](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%A7%94%E5%8A%9E%E5%85%AC%E5%8E%85%E5%89%AF%E4%B8%BB%E4%BB%BB%E9%99%88%E4%B8%BD%E8%90%8D%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [买好房来百度甄好房](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E7%94%84%E5%A5%BD%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [消防员为救人受伤智力回到3岁时](https://www.baidu.com/s?wd=%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%BA%E6%95%91%E4%BA%BA%E5%8F%97%E4%BC%A4%E6%99%BA%E5%8A%9B%E5%9B%9E%E5%88%B03%E5%B2%81%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [理财基因动了 00后囤金也疯狂](https://www.baidu.com/s?wd=%E7%90%86%E8%B4%A2%E5%9F%BA%E5%9B%A0%E5%8A%A8%E4%BA%86+00%E5%90%8E%E5%9B%A4%E9%87%91%E4%B9%9F%E7%96%AF%E7%8B%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [三亚某餐厅不接待中国人？系旧谣言](https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E6%9F%90%E9%A4%90%E5%8E%85%E4%B8%8D%E6%8E%A5%E5%BE%85%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9F%E7%B3%BB%E6%97%A7%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
