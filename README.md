@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 08:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-27 08:12:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [权志龙回应涉嫌吸毒](https://www.baidu.com/s?wd=%E6%9D%83%E5%BF%97%E9%BE%99%E5%9B%9E%E5%BA%94%E6%B6%89%E5%AB%8C%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张云龙直播不敢看钟楚曦](https://www.baidu.com/s?wd=%E5%BC%A0%E4%BA%91%E9%BE%99%E7%9B%B4%E6%92%AD%E4%B8%8D%E6%95%A2%E7%9C%8B%E9%92%9F%E6%A5%9A%E6%9B%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [陕西发现元稹第二任妻子裴淑墓](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%8F%91%E7%8E%B0%E5%85%83%E7%A8%B9%E7%AC%AC%E4%BA%8C%E4%BB%BB%E5%A6%BB%E5%AD%90%E8%A3%B4%E6%B7%91%E5%A2%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [农村疑收取每人20元“人口费”](https://www.baidu.com/s?wd=%E5%86%9C%E6%9D%91%E7%96%91%E6%94%B6%E5%8F%96%E6%AF%8F%E4%BA%BA20%E5%85%83%E2%80%9C%E4%BA%BA%E5%8F%A3%E8%B4%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [地铁安检要求乘客喝自带水被索赔](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E5%AE%89%E6%A3%80%E8%A6%81%E6%B1%82%E4%B9%98%E5%AE%A2%E5%96%9D%E8%87%AA%E5%B8%A6%E6%B0%B4%E8%A2%AB%E7%B4%A2%E8%B5%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [职工医保个人账户将取消？重庆辟谣](https://www.baidu.com/s?wd=%E8%81%8C%E5%B7%A5%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7%E5%B0%86%E5%8F%96%E6%B6%88%EF%BC%9F%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [权志龙回应涉嫌吸毒](https://www.baidu.com/s?wd=%E6%9D%83%E5%BF%97%E9%BE%99%E5%9B%9E%E5%BA%94%E6%B6%89%E5%AB%8C%E5%90%B8%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张云龙直播不敢看钟楚曦](https://www.baidu.com/s?wd=%E5%BC%A0%E4%BA%91%E9%BE%99%E7%9B%B4%E6%92%AD%E4%B8%8D%E6%95%A2%E7%9C%8B%E9%92%9F%E6%A5%9A%E6%9B%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [陕西发现元稹第二任妻子裴淑墓](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E5%8F%91%E7%8E%B0%E5%85%83%E7%A8%B9%E7%AC%AC%E4%BA%8C%E4%BB%BB%E5%A6%BB%E5%AD%90%E8%A3%B4%E6%B7%91%E5%A2%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [农村疑收取每人20元“人口费”](https://www.baidu.com/s?wd=%E5%86%9C%E6%9D%91%E7%96%91%E6%94%B6%E5%8F%96%E6%AF%8F%E4%BA%BA20%E5%85%83%E2%80%9C%E4%BA%BA%E5%8F%A3%E8%B4%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [地铁安检要求乘客喝自带水被索赔](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E5%AE%89%E6%A3%80%E8%A6%81%E6%B1%82%E4%B9%98%E5%AE%A2%E5%96%9D%E8%87%AA%E5%B8%A6%E6%B0%B4%E8%A2%AB%E7%B4%A2%E8%B5%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [职工医保个人账户将取消？重庆辟谣](https://www.baidu.com/s?wd=%E8%81%8C%E5%B7%A5%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7%E5%B0%86%E5%8F%96%E6%B6%88%EF%BC%9F%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
