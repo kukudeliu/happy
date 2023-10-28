@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 19:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 19:15:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [舅舅带12岁外甥骑行去拉萨](https://www.baidu.com/s?wd=%E8%88%85%E8%88%85%E5%B8%A612%E5%B2%81%E5%A4%96%E7%94%A5%E9%AA%91%E8%A1%8C%E5%8E%BB%E6%8B%89%E8%90%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [迈巴赫同乘人员殴打行人？警方通报](https://www.baidu.com/s?wd=%E8%BF%88%E5%B7%B4%E8%B5%AB%E5%90%8C%E4%B9%98%E4%BA%BA%E5%91%98%E6%AE%B4%E6%89%93%E8%A1%8C%E4%BA%BA%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [亲历者回忆过山车回滑太快起火花](https://www.baidu.com/s?wd=%E4%BA%B2%E5%8E%86%E8%80%85%E5%9B%9E%E5%BF%86%E8%BF%87%E5%B1%B1%E8%BD%A6%E5%9B%9E%E6%BB%91%E5%A4%AA%E5%BF%AB%E8%B5%B7%E7%81%AB%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [14岁男孩肠道里查出20多颗“珍珠”](https://www.baidu.com/s?wd=14%E5%B2%81%E7%94%B7%E5%AD%A9%E8%82%A0%E9%81%93%E9%87%8C%E6%9F%A5%E5%87%BA20%E5%A4%9A%E9%A2%97%E2%80%9C%E7%8F%8D%E7%8F%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乐夏3热门乐队特别直播](https://www.baidu.com/s?wd=%E4%B9%90%E5%A4%8F3%E7%83%AD%E9%97%A8%E4%B9%90%E9%98%9F%E7%89%B9%E5%88%AB%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽男子娶两个新娘？警方辟谣](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E7%94%B7%E5%AD%90%E5%A8%B6%E4%B8%A4%E4%B8%AA%E6%96%B0%E5%A8%98%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [舅舅带12岁外甥骑行去拉萨](https://www.baidu.com/s?wd=%E8%88%85%E8%88%85%E5%B8%A612%E5%B2%81%E5%A4%96%E7%94%A5%E9%AA%91%E8%A1%8C%E5%8E%BB%E6%8B%89%E8%90%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [迈巴赫同乘人员殴打行人？警方通报](https://www.baidu.com/s?wd=%E8%BF%88%E5%B7%B4%E8%B5%AB%E5%90%8C%E4%B9%98%E4%BA%BA%E5%91%98%E6%AE%B4%E6%89%93%E8%A1%8C%E4%BA%BA%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [亲历者回忆过山车回滑太快起火花](https://www.baidu.com/s?wd=%E4%BA%B2%E5%8E%86%E8%80%85%E5%9B%9E%E5%BF%86%E8%BF%87%E5%B1%B1%E8%BD%A6%E5%9B%9E%E6%BB%91%E5%A4%AA%E5%BF%AB%E8%B5%B7%E7%81%AB%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [14岁男孩肠道里查出20多颗“珍珠”](https://www.baidu.com/s?wd=14%E5%B2%81%E7%94%B7%E5%AD%A9%E8%82%A0%E9%81%93%E9%87%8C%E6%9F%A5%E5%87%BA20%E5%A4%9A%E9%A2%97%E2%80%9C%E7%8F%8D%E7%8F%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乐夏3热门乐队特别直播](https://www.baidu.com/s?wd=%E4%B9%90%E5%A4%8F3%E7%83%AD%E9%97%A8%E4%B9%90%E9%98%9F%E7%89%B9%E5%88%AB%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽男子娶两个新娘？警方辟谣](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E7%94%B7%E5%AD%90%E5%A8%B6%E4%B8%A4%E4%B8%AA%E6%96%B0%E5%A8%98%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
