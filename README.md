@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 15:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 15:16:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [最能预示癌症的20个表现](https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%83%BD%E9%A2%84%E7%A4%BA%E7%99%8C%E7%97%87%E7%9A%8420%E4%B8%AA%E8%A1%A8%E7%8E%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [蛋仔派对](https://s.weibo.com/weibo?q=%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9&t=31&band_rank=5&Refer=top)<br />
 6. [夫妻存款3500元发现多一个0秒退还](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%AD%98%E6%AC%BE3500%E5%85%83%E5%8F%91%E7%8E%B0%E5%A4%9A%E4%B8%80%E4%B8%AA0%E7%A7%92%E9%80%80%E8%BF%98%23&t=31&band_rank=6&Refer=top)<br />
-7. [阴阳师 结局](https://s.weibo.com/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88%20%E7%BB%93%E5%B1%80&t=31&band_rank=7&Refer=top)<br />
-8. [这三种护肤品要拉进黑名单](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%89%E7%A7%8D%E6%8A%A4%E8%82%A4%E5%93%81%E8%A6%81%E6%8B%89%E8%BF%9B%E9%BB%91%E5%90%8D%E5%8D%95%23&t=31&band_rank=8&Refer=top)<br />
+7. [这三种护肤品要拉进黑名单](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%89%E7%A7%8D%E6%8A%A4%E8%82%A4%E5%93%81%E8%A6%81%E6%8B%89%E8%BF%9B%E9%BB%91%E5%90%8D%E5%8D%95%23&t=31&band_rank=7&Refer=top)<br />
+8. [阴阳师 结局](https://s.weibo.com/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88%20%E7%BB%93%E5%B1%80&t=31&band_rank=8&Refer=top)<br />
 9. [家里有装监控的要小心了](https://s.weibo.com/weibo?q=%E5%AE%B6%E9%87%8C%E6%9C%89%E8%A3%85%E7%9B%91%E6%8E%A7%E7%9A%84%E8%A6%81%E5%B0%8F%E5%BF%83%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
