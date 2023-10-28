@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 19:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 19:50:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [外卖小哥取餐时顺手救了场火](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%8F%96%E9%A4%90%E6%97%B6%E9%A1%BA%E6%89%8B%E6%95%91%E4%BA%86%E5%9C%BA%E7%81%AB%23&t=31&band_rank=5&Refer=top)<br />
 6. [太二酸菜鱼大众点评情况说明](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E4%BA%8C%E9%85%B8%E8%8F%9C%E9%B1%BC%E5%A4%A7%E4%BC%97%E7%82%B9%E8%AF%84%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [电脑聊天记录被公司看见](https://s.weibo.com/weibo?q=%E7%94%B5%E8%84%91%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E8%A2%AB%E5%85%AC%E5%8F%B8%E7%9C%8B%E8%A7%81&t=31&band_rank=7&Refer=top)<br />
-8. [T1零封BLG](https://s.weibo.com/weibo?q=%23T1%E9%9B%B6%E5%B0%81BLG%23&t=31&band_rank=8&Refer=top)<br />
-9. [共创之夜](https://s.weibo.com/weibo?q=%E5%85%B1%E5%88%9B%E4%B9%8B%E5%A4%9C&t=31&band_rank=9&Refer=top)<br />
+8. [共创之夜](https://s.weibo.com/weibo?q=%E5%85%B1%E5%88%9B%E4%B9%8B%E5%A4%9C&t=31&band_rank=8&Refer=top)<br />
+9. [T1零封BLG](https://s.weibo.com/weibo?q=%23T1%E9%9B%B6%E5%B0%81BLG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
