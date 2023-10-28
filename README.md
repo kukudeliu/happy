@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 16:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 16:47:01</h4></div>
 
 > 微博  
 
 1. [电脑聊天记录被公司看见](https://s.weibo.com/weibo?q=%E7%94%B5%E8%84%91%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E8%A2%AB%E5%85%AC%E5%8F%B8%E7%9C%8B%E8%A7%81&t=31&band_rank=1&Refer=top)<br />
-2. [网传宿州男子同时娶两个新娘疑似炒作](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%AE%BF%E5%B7%9E%E7%94%B7%E5%AD%90%E5%90%8C%E6%97%B6%E5%A8%B6%E4%B8%A4%E4%B8%AA%E6%96%B0%E5%A8%98%E7%96%91%E4%BC%BC%E7%82%92%E4%BD%9C%23&t=31&band_rank=2&Refer=top)<br />
+2. [NRG战胜G2](https://s.weibo.com/weibo?q=%23NRG%E6%88%98%E8%83%9CG2%23&t=31&band_rank=2&Refer=top)<br />
 3. [3分钟看航天员的训练日常](https://s.weibo.com/weibo?q=%233%E5%88%86%E9%92%9F%E7%9C%8B%E8%88%AA%E5%A4%A9%E5%91%98%E7%9A%84%E8%AE%AD%E7%BB%83%E6%97%A5%E5%B8%B8%23&t=31&band_rank=3&Refer=top)<br />
 4. [告别吴尊友不应只记得三年白头](https://s.weibo.com/weibo?q=%23%E5%91%8A%E5%88%AB%E5%90%B4%E5%B0%8A%E5%8F%8B%E4%B8%8D%E5%BA%94%E5%8F%AA%E8%AE%B0%E5%BE%97%E4%B8%89%E5%B9%B4%E7%99%BD%E5%A4%B4%23&t=31&band_rank=4&Refer=top)<br />
-5. [NRG战胜G2](https://s.weibo.com/weibo?q=%23NRG%E6%88%98%E8%83%9CG2%23&t=31&band_rank=5&Refer=top)<br />
+5. [网传宿州男子同时娶两个新娘疑似炒作](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%AE%BF%E5%B7%9E%E7%94%B7%E5%AD%90%E5%90%8C%E6%97%B6%E5%A8%B6%E4%B8%A4%E4%B8%AA%E6%96%B0%E5%A8%98%E7%96%91%E4%BC%BC%E7%82%92%E4%BD%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [小杨哥被指直播低俗言论比徒弟更甚](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%A2%AB%E6%8C%87%E7%9B%B4%E6%92%AD%E4%BD%8E%E4%BF%97%E8%A8%80%E8%AE%BA%E6%AF%94%E5%BE%92%E5%BC%9F%E6%9B%B4%E7%94%9A%23&t=31&band_rank=6&Refer=top)<br />
-7. [NRG对战G2](https://s.weibo.com/weibo?q=%23NRG%E5%AF%B9%E6%88%98G2%23&t=31&band_rank=7&Refer=top)<br />
-8. [最能预示癌症的20个表现](https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%83%BD%E9%A2%84%E7%A4%BA%E7%99%8C%E7%97%87%E7%9A%8420%E4%B8%AA%E8%A1%A8%E7%8E%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [这三种护肤品要拉进黑名单](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%89%E7%A7%8D%E6%8A%A4%E8%82%A4%E5%93%81%E8%A6%81%E6%8B%89%E8%BF%9B%E9%BB%91%E5%90%8D%E5%8D%95%23&t=31&band_rank=9&Refer=top)<br />
+7. [最能预示癌症的20个表现](https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%83%BD%E9%A2%84%E7%A4%BA%E7%99%8C%E7%97%87%E7%9A%8420%E4%B8%AA%E8%A1%A8%E7%8E%B0%23&t=31&band_rank=7&Refer=top)<br />
+8. [这三种护肤品要拉进黑名单](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%89%E7%A7%8D%E6%8A%A4%E8%82%A4%E5%93%81%E8%A6%81%E6%8B%89%E8%BF%9B%E9%BB%91%E5%90%8D%E5%8D%95%23&t=31&band_rank=8&Refer=top)<br />
+9. [夫妻存款3500元发现多一个0秒退还](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%AD%98%E6%AC%BE3500%E5%85%83%E5%8F%91%E7%8E%B0%E5%A4%9A%E4%B8%80%E4%B8%AA0%E7%A7%92%E9%80%80%E8%BF%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
