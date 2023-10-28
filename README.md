@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 15:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 15:29:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [李克强同志讣告发布](https://www.baidu.com/s?wd=%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E8%AE%A3%E5%91%8A%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生眼中的吴尊友没有一天不在工作](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%90%B4%E5%B0%8A%E5%8F%8B%E6%B2%A1%E6%9C%89%E4%B8%80%E5%A4%A9%E4%B8%8D%E5%9C%A8%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国产冲锋衣也被卡脖子了？](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E5%86%B2%E9%94%8B%E8%A1%A3%E4%B9%9F%E8%A2%AB%E5%8D%A1%E8%84%96%E5%AD%90%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [00后中专生女孩为追星考上上戏](https://www.baidu.com/s?wd=00%E5%90%8E%E4%B8%AD%E4%B8%93%E7%94%9F%E5%A5%B3%E5%AD%A9%E4%B8%BA%E8%BF%BD%E6%98%9F%E8%80%83%E4%B8%8A%E4%B8%8A%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子缓刑期间跳江救人获准减刑](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BC%93%E5%88%91%E6%9C%9F%E9%97%B4%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E8%8E%B7%E5%87%86%E5%87%8F%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽男子娶两个新娘？警方辟谣](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E7%94%B7%E5%AD%90%E5%A8%B6%E4%B8%A4%E4%B8%AA%E6%96%B0%E5%A8%98%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [李克强同志讣告发布](https://www.baidu.com/s?wd=%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E8%AE%A3%E5%91%8A%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生眼中的吴尊友没有一天不在工作](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%90%B4%E5%B0%8A%E5%8F%8B%E6%B2%A1%E6%9C%89%E4%B8%80%E5%A4%A9%E4%B8%8D%E5%9C%A8%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国产冲锋衣也被卡脖子了？](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E5%86%B2%E9%94%8B%E8%A1%A3%E4%B9%9F%E8%A2%AB%E5%8D%A1%E8%84%96%E5%AD%90%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [00后中专生女孩为追星考上上戏](https://www.baidu.com/s?wd=00%E5%90%8E%E4%B8%AD%E4%B8%93%E7%94%9F%E5%A5%B3%E5%AD%A9%E4%B8%BA%E8%BF%BD%E6%98%9F%E8%80%83%E4%B8%8A%E4%B8%8A%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子缓刑期间跳江救人获准减刑](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BC%93%E5%88%91%E6%9C%9F%E9%97%B4%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E8%8E%B7%E5%87%86%E5%87%8F%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽男子娶两个新娘？警方辟谣](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E7%94%B7%E5%AD%90%E5%A8%B6%E4%B8%A4%E4%B8%AA%E6%96%B0%E5%A8%98%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
