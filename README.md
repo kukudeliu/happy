@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 16:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 16:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [最能预示癌症的20个表现](https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%83%BD%E9%A2%84%E7%A4%BA%E7%99%8C%E7%97%87%E7%9A%8420%E4%B8%AA%E8%A1%A8%E7%8E%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [这三种护肤品要拉进黑名单](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%89%E7%A7%8D%E6%8A%A4%E8%82%A4%E5%93%81%E8%A6%81%E6%8B%89%E8%BF%9B%E9%BB%91%E5%90%8D%E5%8D%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [蛋仔派对](https://s.weibo.com/weibo?q=%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9&t=31&band_rank=8&Refer=top)<br />
-9. [夫妻存款3500元发现多一个0秒退还](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%AD%98%E6%AC%BE3500%E5%85%83%E5%8F%91%E7%8E%B0%E5%A4%9A%E4%B8%80%E4%B8%AA0%E7%A7%92%E9%80%80%E8%BF%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [网传宿州男子同时娶两个新娘疑似炒作](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%AE%BF%E5%B7%9E%E7%94%B7%E5%AD%90%E5%90%8C%E6%97%B6%E5%A8%B6%E4%B8%A4%E4%B8%AA%E6%96%B0%E5%A8%98%E7%96%91%E4%BC%BC%E7%82%92%E4%BD%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
