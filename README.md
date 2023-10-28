@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 11:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 11:54:01</h4></div>
 
 > 微博  
 
 1. [游客拍到事发时过山车溜车画面](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E6%8B%8D%E5%88%B0%E4%BA%8B%E5%8F%91%E6%97%B6%E8%BF%87%E5%B1%B1%E8%BD%A6%E6%BA%9C%E8%BD%A6%E7%94%BB%E9%9D%A2%23&t=31&band_rank=1&Refer=top)<br />
-2. [深圳欢乐谷闭园两天](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E9%97%AD%E5%9B%AD%E4%B8%A4%E5%A4%A9%23&t=31&band_rank=2&Refer=top)<br />
+2. [红绿灯的黄30日销售额超5000万](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%8430%E6%97%A5%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%855000%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [3分钟回顾中国航天员出征太空](https://s.weibo.com/weibo?q=%233%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E5%87%BA%E5%BE%81%E5%A4%AA%E7%A9%BA%23&t=31&band_rank=3&Refer=top)<br />
-4. [夫妻存款3500元发现多一个0秒退还](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%AD%98%E6%AC%BE3500%E5%85%83%E5%8F%91%E7%8E%B0%E5%A4%9A%E4%B8%80%E4%B8%AA0%E7%A7%92%E9%80%80%E8%BF%98%23&t=31&band_rank=4&Refer=top)<br />
-5. [红绿灯的黄30日销售额超5000万](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%8430%E6%97%A5%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%855000%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
+4. [深圳欢乐谷闭园两天](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E9%97%AD%E5%9B%AD%E4%B8%A4%E5%A4%A9%23&t=31&band_rank=4&Refer=top)<br />
+5. [夫妻存款3500元发现多一个0秒退还](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%AD%98%E6%AC%BE3500%E5%85%83%E5%8F%91%E7%8E%B0%E5%A4%9A%E4%B8%80%E4%B8%AA0%E7%A7%92%E9%80%80%E8%BF%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [小杨哥被指直播低俗言论比徒弟更甚](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%A2%AB%E6%8C%87%E7%9B%B4%E6%92%AD%E4%BD%8E%E4%BF%97%E8%A8%80%E8%AE%BA%E6%AF%94%E5%BE%92%E5%BC%9F%E6%9B%B4%E7%94%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [学生眼中的吴尊友没有一天不在工作](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%90%B4%E5%B0%8A%E5%8F%8B%E6%B2%A1%E6%9C%89%E4%B8%80%E5%A4%A9%E4%B8%8D%E5%9C%A8%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [以为有蛇偷蛋村民扒开枯枝发现国宝](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E4%B8%BA%E6%9C%89%E8%9B%87%E5%81%B7%E8%9B%8B%E6%9D%91%E6%B0%91%E6%89%92%E5%BC%80%E6%9E%AF%E6%9E%9D%E5%8F%91%E7%8E%B0%E5%9B%BD%E5%AE%9D%23&t=31&band_rank=8&Refer=top)<br />
