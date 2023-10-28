@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 15:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 15:54:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [美国总统拜登会见王毅](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%8B%9C%E7%99%BB%E4%BC%9A%E8%A7%81%E7%8E%8B%E6%AF%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生眼中的吴尊友没有一天不在工作](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%90%B4%E5%B0%8A%E5%8F%8B%E6%B2%A1%E6%9C%89%E4%B8%80%E5%A4%A9%E4%B8%8D%E5%9C%A8%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国产冲锋衣也被卡脖子了？](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E5%86%B2%E9%94%8B%E8%A1%A3%E4%B9%9F%E8%A2%AB%E5%8D%A1%E8%84%96%E5%AD%90%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小杨哥徒弟带货30天销售额超5000万](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E5%B8%A6%E8%B4%A730%E5%A4%A9%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%855000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [武校投毒案嫌犯藏身皮革厂20多年](https://www.baidu.com/s?wd=%E6%AD%A6%E6%A0%A1%E6%8A%95%E6%AF%92%E6%A1%88%E5%AB%8C%E7%8A%AF%E8%97%8F%E8%BA%AB%E7%9A%AE%E9%9D%A9%E5%8E%8220%E5%A4%9A%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽男子娶两个新娘？警方辟谣](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E7%94%B7%E5%AD%90%E5%A8%B6%E4%B8%A4%E4%B8%AA%E6%96%B0%E5%A8%98%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [美国总统拜登会见王毅](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%8B%9C%E7%99%BB%E4%BC%9A%E8%A7%81%E7%8E%8B%E6%AF%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生眼中的吴尊友没有一天不在工作](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%90%B4%E5%B0%8A%E5%8F%8B%E6%B2%A1%E6%9C%89%E4%B8%80%E5%A4%A9%E4%B8%8D%E5%9C%A8%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国产冲锋衣也被卡脖子了？](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E5%86%B2%E9%94%8B%E8%A1%A3%E4%B9%9F%E8%A2%AB%E5%8D%A1%E8%84%96%E5%AD%90%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小杨哥徒弟带货30天销售额超5000万](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E5%B8%A6%E8%B4%A730%E5%A4%A9%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%855000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [武校投毒案嫌犯藏身皮革厂20多年](https://www.baidu.com/s?wd=%E6%AD%A6%E6%A0%A1%E6%8A%95%E6%AF%92%E6%A1%88%E5%AB%8C%E7%8A%AF%E8%97%8F%E8%BA%AB%E7%9A%AE%E9%9D%A9%E5%8E%8220%E5%A4%9A%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽男子娶两个新娘？警方辟谣](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E7%94%B7%E5%AD%90%E5%A8%B6%E4%B8%A4%E4%B8%AA%E6%96%B0%E5%A8%98%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
