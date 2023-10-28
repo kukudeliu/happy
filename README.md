@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 16:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 17:00:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [告别吴尊友不应只记得三年白头](https://s.weibo.com/weibo?q=%23%E5%91%8A%E5%88%AB%E5%90%B4%E5%B0%8A%E5%8F%8B%E4%B8%8D%E5%BA%94%E5%8F%AA%E8%AE%B0%E5%BE%97%E4%B8%89%E5%B9%B4%E7%99%BD%E5%A4%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [美国总统拜登在白宫会见王毅](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%8B%9C%E7%99%BB%E5%9C%A8%E7%99%BD%E5%AE%AB%E4%BC%9A%E8%A7%81%E7%8E%8B%E6%AF%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [网传宿州男子同时娶两个新娘疑似炒作](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%AE%BF%E5%B7%9E%E7%94%B7%E5%AD%90%E5%90%8C%E6%97%B6%E5%A8%B6%E4%B8%A4%E4%B8%AA%E6%96%B0%E5%A8%98%E7%96%91%E4%BC%BC%E7%82%92%E4%BD%9C%23&t=31&band_rank=6&Refer=top)<br />
-7. [小杨哥被指直播低俗言论比徒弟更甚](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%A2%AB%E6%8C%87%E7%9B%B4%E6%92%AD%E4%BD%8E%E4%BF%97%E8%A8%80%E8%AE%BA%E6%AF%94%E5%BE%92%E5%BC%9F%E6%9B%B4%E7%94%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [最能预示癌症的20个表现](https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%83%BD%E9%A2%84%E7%A4%BA%E7%99%8C%E7%97%87%E7%9A%8420%E4%B8%AA%E8%A1%A8%E7%8E%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [这三种护肤品要拉进黑名单](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%89%E7%A7%8D%E6%8A%A4%E8%82%A4%E5%93%81%E8%A6%81%E6%8B%89%E8%BF%9B%E9%BB%91%E5%90%8D%E5%8D%95%23&t=31&band_rank=9&Refer=top)<br />
+7. [被我们寄予厚望的G2](https://s.weibo.com/weibo?q=%E8%A2%AB%E6%88%91%E4%BB%AC%E5%AF%84%E4%BA%88%E5%8E%9A%E6%9C%9B%E7%9A%84G2&t=31&band_rank=7&Refer=top)<br />
+8. [小杨哥被指直播低俗言论比徒弟更甚](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%A2%AB%E6%8C%87%E7%9B%B4%E6%92%AD%E4%BD%8E%E4%BF%97%E8%A8%80%E8%AE%BA%E6%AF%94%E5%BE%92%E5%BC%9F%E6%9B%B4%E7%94%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [最能预示癌症的20个表现](https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%83%BD%E9%A2%84%E7%A4%BA%E7%99%8C%E7%97%87%E7%9A%8420%E4%B8%AA%E8%A1%A8%E7%8E%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
