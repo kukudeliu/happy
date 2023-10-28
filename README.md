@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 10:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 10:38:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [唐登杰任山西省委书记](https://www.baidu.com/s?wd=%E5%94%90%E7%99%BB%E6%9D%B0%E4%BB%BB%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国致18死枪击案凶手已死亡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%87%B418%E6%AD%BB%E6%9E%AA%E5%87%BB%E6%A1%88%E5%87%B6%E6%89%8B%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [联合国大会通过巴以问题相关草案](https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BC%9A%E9%80%9A%E8%BF%87%E5%B7%B4%E4%BB%A5%E9%97%AE%E9%A2%98%E7%9B%B8%E5%85%B3%E8%8D%89%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夫妻存款3500元发现多一个0秒退还](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%AD%98%E6%AC%BE3500%E5%85%83%E5%8F%91%E7%8E%B0%E5%A4%9A%E4%B8%80%E4%B8%AA0%E7%A7%92%E9%80%80%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [以色列代表：联合国不再具有合法性](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E4%BB%A3%E8%A1%A8%EF%BC%9A%E8%81%94%E5%90%88%E5%9B%BD%E4%B8%8D%E5%86%8D%E5%85%B7%E6%9C%89%E5%90%88%E6%B3%95%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [空腹运动减肥效果更好吗？](https://www.baidu.com/s?wd=%E7%A9%BA%E8%85%B9%E8%BF%90%E5%8A%A8%E5%87%8F%E8%82%A5%E6%95%88%E6%9E%9C%E6%9B%B4%E5%A5%BD%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [唐登杰任山西省委书记](https://www.baidu.com/s?wd=%E5%94%90%E7%99%BB%E6%9D%B0%E4%BB%BB%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国致18死枪击案凶手已死亡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%87%B418%E6%AD%BB%E6%9E%AA%E5%87%BB%E6%A1%88%E5%87%B6%E6%89%8B%E5%B7%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [联合国大会通过巴以问题相关草案](https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BC%9A%E9%80%9A%E8%BF%87%E5%B7%B4%E4%BB%A5%E9%97%AE%E9%A2%98%E7%9B%B8%E5%85%B3%E8%8D%89%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夫妻存款3500元发现多一个0秒退还](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%AD%98%E6%AC%BE3500%E5%85%83%E5%8F%91%E7%8E%B0%E5%A4%9A%E4%B8%80%E4%B8%AA0%E7%A7%92%E9%80%80%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [以色列代表：联合国不再具有合法性](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E4%BB%A3%E8%A1%A8%EF%BC%9A%E8%81%94%E5%90%88%E5%9B%BD%E4%B8%8D%E5%86%8D%E5%85%B7%E6%9C%89%E5%90%88%E6%B3%95%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [空腹运动减肥效果更好吗？](https://www.baidu.com/s?wd=%E7%A9%BA%E8%85%B9%E8%BF%90%E5%8A%A8%E5%87%8F%E8%82%A5%E6%95%88%E6%9E%9C%E6%9B%B4%E5%A5%BD%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
