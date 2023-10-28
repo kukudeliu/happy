@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 21:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 21:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [共创之夜](https://s.weibo.com/weibo?q=%E5%85%B1%E5%88%9B%E4%B9%8B%E5%A4%9C&t=31&band_rank=6&Refer=top)<br />
 7. [李克强同志逝世](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [王者荣耀节目单](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=8&Refer=top)<br />
-9. [向世界展示中国青年的青春力量](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%B8%96%E7%95%8C%E5%B1%95%E7%A4%BA%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E7%9A%84%E9%9D%92%E6%98%A5%E5%8A%9B%E9%87%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [太二酸菜鱼大众点评情况说明](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E4%BA%8C%E9%85%B8%E8%8F%9C%E9%B1%BC%E5%A4%A7%E4%BC%97%E7%82%B9%E8%AF%84%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
