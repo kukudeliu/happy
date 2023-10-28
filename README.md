@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 04:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 04:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [巴勒斯坦](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [巨显发量的双麻花辫](https://s.weibo.com/weibo?q=%E5%B7%A8%E6%98%BE%E5%8F%91%E9%87%8F%E7%9A%84%E5%8F%8C%E9%BA%BB%E8%8A%B1%E8%BE%AB&t=31&band_rank=7&Refer=top)<br />
 8. [贝林厄姆世界波](https://s.weibo.com/weibo?q=%23%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E4%B8%96%E7%95%8C%E6%B3%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [粉底前先打一层白色的底](https://s.weibo.com/weibo?q=%E7%B2%89%E5%BA%95%E5%89%8D%E5%85%88%E6%89%93%E4%B8%80%E5%B1%82%E7%99%BD%E8%89%B2%E7%9A%84%E5%BA%95&t=31&band_rank=9&Refer=top)<br />
+9. [李克强同志逝世](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
