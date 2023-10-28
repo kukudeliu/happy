@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 09:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 09:29:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [联合国大会通过巴以问题相关草案](https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BC%9A%E9%80%9A%E8%BF%87%E5%B7%B4%E4%BB%A5%E9%97%AE%E9%A2%98%E7%9B%B8%E5%85%B3%E8%8D%89%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [吴尊友因胰腺癌去世](https://www.baidu.com/s?wd=%E5%90%B4%E5%B0%8A%E5%8F%8B%E5%9B%A0%E8%83%B0%E8%85%BA%E7%99%8C%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [缅北爆发交火 袭击方称是为清剿电诈](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E7%88%86%E5%8F%91%E4%BA%A4%E7%81%AB+%E8%A2%AD%E5%87%BB%E6%96%B9%E7%A7%B0%E6%98%AF%E4%B8%BA%E6%B8%85%E5%89%BF%E7%94%B5%E8%AF%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被吐槽越来越贵 海底捞回应](https://www.baidu.com/s?wd=%E8%A2%AB%E5%90%90%E6%A7%BD%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%B4%B5+%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [过山车碰撞8人受伤 深圳欢乐谷闭园](https://www.baidu.com/s?wd=%E8%BF%87%E5%B1%B1%E8%BD%A6%E7%A2%B0%E6%92%9E8%E4%BA%BA%E5%8F%97%E4%BC%A4+%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E9%97%AD%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一女童被野猴抓走？假的](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A5%B3%E7%AB%A5%E8%A2%AB%E9%87%8E%E7%8C%B4%E6%8A%93%E8%B5%B0%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [联合国大会通过巴以问题相关草案](https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BC%9A%E9%80%9A%E8%BF%87%E5%B7%B4%E4%BB%A5%E9%97%AE%E9%A2%98%E7%9B%B8%E5%85%B3%E8%8D%89%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [吴尊友因胰腺癌去世](https://www.baidu.com/s?wd=%E5%90%B4%E5%B0%8A%E5%8F%8B%E5%9B%A0%E8%83%B0%E8%85%BA%E7%99%8C%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [缅北爆发交火 袭击方称是为清剿电诈](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E7%88%86%E5%8F%91%E4%BA%A4%E7%81%AB+%E8%A2%AD%E5%87%BB%E6%96%B9%E7%A7%B0%E6%98%AF%E4%B8%BA%E6%B8%85%E5%89%BF%E7%94%B5%E8%AF%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被吐槽越来越贵 海底捞回应](https://www.baidu.com/s?wd=%E8%A2%AB%E5%90%90%E6%A7%BD%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%B4%B5+%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [过山车碰撞8人受伤 深圳欢乐谷闭园](https://www.baidu.com/s?wd=%E8%BF%87%E5%B1%B1%E8%BD%A6%E7%A2%B0%E6%92%9E8%E4%BA%BA%E5%8F%97%E4%BC%A4+%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E9%97%AD%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一女童被野猴抓走？假的](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A5%B3%E7%AB%A5%E8%A2%AB%E9%87%8E%E7%8C%B4%E6%8A%93%E8%B5%B0%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
