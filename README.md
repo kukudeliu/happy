@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 18:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 18:58:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [舅舅带12岁外甥骑行去拉萨](https://www.baidu.com/s?wd=%E8%88%85%E8%88%85%E5%B8%A612%E5%B2%81%E5%A4%96%E7%94%A5%E9%AA%91%E8%A1%8C%E5%8E%BB%E6%8B%89%E8%90%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小杨哥换头像：身穿YSL西装](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%8D%A2%E5%A4%B4%E5%83%8F%EF%BC%9A%E8%BA%AB%E7%A9%BFYSL%E8%A5%BF%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [巴勒斯坦代表在联合国哽咽发问](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BB%A3%E8%A1%A8%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E5%93%BD%E5%92%BD%E5%8F%91%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [足球报：女足别再沉溺亚洲杯冠军](https://www.baidu.com/s?wd=%E8%B6%B3%E7%90%83%E6%8A%A5%EF%BC%9A%E5%A5%B3%E8%B6%B3%E5%88%AB%E5%86%8D%E6%B2%89%E6%BA%BA%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小杨哥被指直播低俗言论比徒弟更甚](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%A2%AB%E6%8C%87%E7%9B%B4%E6%92%AD%E4%BD%8E%E4%BF%97%E8%A8%80%E8%AE%BA%E6%AF%94%E5%BE%92%E5%BC%9F%E6%9B%B4%E7%94%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽男子娶两个新娘？警方辟谣](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E7%94%B7%E5%AD%90%E5%A8%B6%E4%B8%A4%E4%B8%AA%E6%96%B0%E5%A8%98%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [舅舅带12岁外甥骑行去拉萨](https://www.baidu.com/s?wd=%E8%88%85%E8%88%85%E5%B8%A612%E5%B2%81%E5%A4%96%E7%94%A5%E9%AA%91%E8%A1%8C%E5%8E%BB%E6%8B%89%E8%90%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小杨哥换头像：身穿YSL西装](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%8D%A2%E5%A4%B4%E5%83%8F%EF%BC%9A%E8%BA%AB%E7%A9%BFYSL%E8%A5%BF%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [巴勒斯坦代表在联合国哽咽发问](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BB%A3%E8%A1%A8%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E5%93%BD%E5%92%BD%E5%8F%91%E9%97%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [足球报：女足别再沉溺亚洲杯冠军](https://www.baidu.com/s?wd=%E8%B6%B3%E7%90%83%E6%8A%A5%EF%BC%9A%E5%A5%B3%E8%B6%B3%E5%88%AB%E5%86%8D%E6%B2%89%E6%BA%BA%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小杨哥被指直播低俗言论比徒弟更甚](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%A2%AB%E6%8C%87%E7%9B%B4%E6%92%AD%E4%BD%8E%E4%BF%97%E8%A8%80%E8%AE%BA%E6%AF%94%E5%BE%92%E5%BC%9F%E6%9B%B4%E7%94%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽男子娶两个新娘？警方辟谣](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E7%94%B7%E5%AD%90%E5%A8%B6%E4%B8%A4%E4%B8%AA%E6%96%B0%E5%A8%98%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
