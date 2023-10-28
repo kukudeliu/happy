@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 10:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 10:19:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [学生眼中的吴尊友没有一天不在工作](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%90%B4%E5%B0%8A%E5%8F%8B%E6%B2%A1%E6%9C%89%E4%B8%80%E5%A4%A9%E4%B8%8D%E5%9C%A8%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [00后中专生女孩为追星考上上戏](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E4%B8%AD%E4%B8%93%E7%94%9F%E5%A5%B3%E5%AD%A9%E4%B8%BA%E8%BF%BD%E6%98%9F%E8%80%83%E4%B8%8A%E4%B8%8A%E6%88%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [以为有蛇偷蛋村民扒开枯枝发现国宝](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E4%B8%BA%E6%9C%89%E8%9B%87%E5%81%B7%E8%9B%8B%E6%9D%91%E6%B0%91%E6%89%92%E5%BC%80%E6%9E%AF%E6%9E%9D%E5%8F%91%E7%8E%B0%E5%9B%BD%E5%AE%9D%23&t=31&band_rank=7&Refer=top)<br />
-8. [叙利亚](https://s.weibo.com/weibo?q=%23%E5%8F%99%E5%88%A9%E4%BA%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [李克强同志遗像](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%81%97%E5%83%8F&t=31&band_rank=9&Refer=top)<br />
+8. [李克强同志遗像](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%81%97%E5%83%8F&t=31&band_rank=8&Refer=top)<br />
+9. [叙利亚](https://s.weibo.com/weibo?q=%23%E5%8F%99%E5%88%A9%E4%BA%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
