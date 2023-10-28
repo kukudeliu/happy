@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 10:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 10:05:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [夫妻存款3500元发现多一个0秒退还](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%AD%98%E6%AC%BE3500%E5%85%83%E5%8F%91%E7%8E%B0%E5%A4%9A%E4%B8%80%E4%B8%AA0%E7%A7%92%E9%80%80%E8%BF%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [学生眼中的吴尊友没有一天不在工作](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%90%B4%E5%B0%8A%E5%8F%8B%E6%B2%A1%E6%9C%89%E4%B8%80%E5%A4%A9%E4%B8%8D%E5%9C%A8%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [以为有蛇偷蛋村民扒开枯枝发现国宝](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E4%B8%BA%E6%9C%89%E8%9B%87%E5%81%B7%E8%9B%8B%E6%9D%91%E6%B0%91%E6%89%92%E5%BC%80%E6%9E%AF%E6%9E%9D%E5%8F%91%E7%8E%B0%E5%9B%BD%E5%AE%9D%23&t=31&band_rank=7&Refer=top)<br />
-8. [多次梦到同一个人](https://s.weibo.com/weibo?q=%E5%A4%9A%E6%AC%A1%E6%A2%A6%E5%88%B0%E5%90%8C%E4%B8%80%E4%B8%AA%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
-9. [李克强同志讣告](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E8%AE%A3%E5%91%8A%23&t=31&band_rank=9&Refer=top)<br />
+8. [红绿灯的黄道歉](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%84%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [多次梦到同一个人](https://s.weibo.com/weibo?q=%E5%A4%9A%E6%AC%A1%E6%A2%A6%E5%88%B0%E5%90%8C%E4%B8%80%E4%B8%AA%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
