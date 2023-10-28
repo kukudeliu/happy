@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 19:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 19:54:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [舅舅带12岁外甥骑行318国道去拉萨](https://s.weibo.com/weibo?q=%23%E8%88%85%E8%88%85%E5%B8%A612%E5%B2%81%E5%A4%96%E7%94%A5%E9%AA%91%E8%A1%8C318%E5%9B%BD%E9%81%93%E5%8E%BB%E6%8B%89%E8%90%A8%23&t=31&band_rank=2&Refer=top)<br />
 3. [亚残运闭幕式中国代表团旗手公布](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%AE%8B%E8%BF%90%E9%97%AD%E5%B9%95%E5%BC%8F%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%97%97%E6%89%8B%E5%85%AC%E5%B8%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [9块9咖啡让独立咖啡店很受伤](https://s.weibo.com/weibo?q=%239%E5%9D%979%E5%92%96%E5%95%A1%E8%AE%A9%E7%8B%AC%E7%AB%8B%E5%92%96%E5%95%A1%E5%BA%97%E5%BE%88%E5%8F%97%E4%BC%A4%23&t=31&band_rank=4&Refer=top)<br />
-5. [外卖小哥取餐时顺手救了场火](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%8F%96%E9%A4%90%E6%97%B6%E9%A1%BA%E6%89%8B%E6%95%91%E4%BA%86%E5%9C%BA%E7%81%AB%23&t=31&band_rank=5&Refer=top)<br />
+5. [交警一把扯下自己领带为驾驶员止血](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E4%B8%80%E6%8A%8A%E6%89%AF%E4%B8%8B%E8%87%AA%E5%B7%B1%E9%A2%86%E5%B8%A6%E4%B8%BA%E9%A9%BE%E9%A9%B6%E5%91%98%E6%AD%A2%E8%A1%80%23&t=31&band_rank=5&Refer=top)<br />
 6. [共创之夜](https://s.weibo.com/weibo?q=%E5%85%B1%E5%88%9B%E4%B9%8B%E5%A4%9C&t=31&band_rank=6&Refer=top)<br />
-7. [交警一把扯下自己领带为驾驶员止血](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E4%B8%80%E6%8A%8A%E6%89%AF%E4%B8%8B%E8%87%AA%E5%B7%B1%E9%A2%86%E5%B8%A6%E4%B8%BA%E9%A9%BE%E9%A9%B6%E5%91%98%E6%AD%A2%E8%A1%80%23&t=31&band_rank=7&Refer=top)<br />
+7. [外卖小哥取餐时顺手救了场火](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%8F%96%E9%A4%90%E6%97%B6%E9%A1%BA%E6%89%8B%E6%95%91%E4%BA%86%E5%9C%BA%E7%81%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [太二酸菜鱼大众点评情况说明](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E4%BA%8C%E9%85%B8%E8%8F%9C%E9%B1%BC%E5%A4%A7%E4%BC%97%E7%82%B9%E8%AF%84%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E%23&t=31&band_rank=8&Refer=top)<br />
 9. [电脑聊天记录被公司看见](https://s.weibo.com/weibo?q=%E7%94%B5%E8%84%91%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E8%A2%AB%E5%85%AC%E5%8F%B8%E7%9C%8B%E8%A7%81&t=31&band_rank=9&Refer=top)<br />
 
