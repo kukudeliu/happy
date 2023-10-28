@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 23:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 23:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [教师全员竞聘上岗](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E5%85%A8%E5%91%98%E7%AB%9E%E8%81%98%E4%B8%8A%E5%B2%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [电脑聊天记录被公司看见](https://s.weibo.com/weibo?q=%E7%94%B5%E8%84%91%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E8%A2%AB%E5%85%AC%E5%8F%B8%E7%9C%8B%E8%A7%81&t=31&band_rank=6&Refer=top)<br />
 7. [张大仙 欢迎来到王者荣耀](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A4%A7%E4%BB%99%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=7&Refer=top)<br />
-8. [李克强同志逝世](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [好吃懒做减肥法](https://s.weibo.com/weibo?q=%E5%A5%BD%E5%90%83%E6%87%92%E5%81%9A%E5%87%8F%E8%82%A5%E6%B3%95&t=31&band_rank=9&Refer=top)<br />
+8. [好吃懒做减肥法](https://s.weibo.com/weibo?q=%E5%A5%BD%E5%90%83%E6%87%92%E5%81%9A%E5%87%8F%E8%82%A5%E6%B3%95&t=31&band_rank=8&Refer=top)<br />
+9. [李克强同志逝世](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
