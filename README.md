@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 23:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 23:38:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [深圳过山车事发前曾连续两天出故障](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E8%BF%87%E5%B1%B1%E8%BD%A6%E4%BA%8B%E5%8F%91%E5%89%8D%E6%9B%BE%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%A4%A9%E5%87%BA%E6%95%85%E9%9A%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [电脑聊天记录被公司看见](https://s.weibo.com/weibo?q=%E7%94%B5%E8%84%91%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E8%A2%AB%E5%85%AC%E5%8F%B8%E7%9C%8B%E8%A7%81&t=31&band_rank=6&Refer=top)<br />
 7. [张大仙 欢迎来到王者荣耀](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A4%A7%E4%BB%99%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=7&Refer=top)<br />
-8. [好吃懒做减肥法](https://s.weibo.com/weibo?q=%E5%A5%BD%E5%90%83%E6%87%92%E5%81%9A%E5%87%8F%E8%82%A5%E6%B3%95&t=31&band_rank=8&Refer=top)<br />
-9. [9块9咖啡让独立咖啡店很受伤](https://s.weibo.com/weibo?q=%239%E5%9D%979%E5%92%96%E5%95%A1%E8%AE%A9%E7%8B%AC%E7%AB%8B%E5%92%96%E5%95%A1%E5%BA%97%E5%BE%88%E5%8F%97%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
+8. [9块9咖啡让独立咖啡店很受伤](https://s.weibo.com/weibo?q=%239%E5%9D%979%E5%92%96%E5%95%A1%E8%AE%A9%E7%8B%AC%E7%AB%8B%E5%92%96%E5%95%A1%E5%BA%97%E5%BE%88%E5%8F%97%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
+9. [好吃懒做减肥法](https://s.weibo.com/weibo?q=%E5%A5%BD%E5%90%83%E6%87%92%E5%81%9A%E5%87%8F%E8%82%A5%E6%B3%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
