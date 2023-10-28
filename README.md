@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 00:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 00:15:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [被生母虐待致残男童仍惦记妈妈](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%94%9F%E6%AF%8D%E8%99%90%E5%BE%85%E8%87%B4%E6%AE%8B%E7%94%B7%E7%AB%A5%E4%BB%8D%E6%83%A6%E8%AE%B0%E5%A6%88%E5%A6%88%23&t=31&band_rank=4&Refer=top)<br />
 5. [巨显发量的双麻花辫](https://s.weibo.com/weibo?q=%E5%B7%A8%E6%98%BE%E5%8F%91%E9%87%8F%E7%9A%84%E5%8F%8C%E9%BA%BB%E8%8A%B1%E8%BE%AB&t=31&band_rank=5&Refer=top)<br />
 6. [巴勒斯坦](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [深圳过山车事发前曾连续两天出故障](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E8%BF%87%E5%B1%B1%E8%BD%A6%E4%BA%8B%E5%8F%91%E5%89%8D%E6%9B%BE%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%A4%A9%E5%87%BA%E6%95%85%E9%9A%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [贝林厄姆世界波](https://s.weibo.com/weibo?q=%23%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E4%B8%96%E7%95%8C%E6%B3%A2%23&t=31&band_rank=8&Refer=top)<br />
+7. [贝林厄姆世界波](https://s.weibo.com/weibo?q=%23%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E4%B8%96%E7%95%8C%E6%B3%A2%23&t=31&band_rank=7&Refer=top)<br />
+8. [深圳过山车事发前曾连续两天出故障](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E8%BF%87%E5%B1%B1%E8%BD%A6%E4%BA%8B%E5%8F%91%E5%89%8D%E6%9B%BE%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%A4%A9%E5%87%BA%E6%95%85%E9%9A%9C%23&t=31&band_rank=8&Refer=top)<br />
 9. [教师全员竞聘上岗](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E5%85%A8%E5%91%98%E7%AB%9E%E8%81%98%E4%B8%8A%E5%B2%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
