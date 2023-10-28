@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 22:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 22:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [13岁女孩戴鲨鱼夹滑倒头皮缝了3针](https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%88%B4%E9%B2%A8%E9%B1%BC%E5%A4%B9%E6%BB%91%E5%80%92%E5%A4%B4%E7%9A%AE%E7%BC%9D%E4%BA%863%E9%92%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [9块9咖啡让独立咖啡店很受伤](https://s.weibo.com/weibo?q=%239%E5%9D%979%E5%92%96%E5%95%A1%E8%AE%A9%E7%8B%AC%E7%AB%8B%E5%92%96%E5%95%A1%E5%BA%97%E5%BE%88%E5%8F%97%E4%BC%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [李克强同志逝世](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [王者荣耀节目单](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=8&Refer=top)<br />
-9. [扁平脸把这个妆半永久在脸上](https://s.weibo.com/weibo?q=%E6%89%81%E5%B9%B3%E8%84%B8%E6%8A%8A%E8%BF%99%E4%B8%AA%E5%A6%86%E5%8D%8A%E6%B0%B8%E4%B9%85%E5%9C%A8%E8%84%B8%E4%B8%8A&t=31&band_rank=9&Refer=top)<br />
+8. [扁平脸把这个妆半永久在脸上](https://s.weibo.com/weibo?q=%E6%89%81%E5%B9%B3%E8%84%B8%E6%8A%8A%E8%BF%99%E4%B8%AA%E5%A6%86%E5%8D%8A%E6%B0%B8%E4%B9%85%E5%9C%A8%E8%84%B8%E4%B8%8A&t=31&band_rank=8&Refer=top)<br />
+9. [王者荣耀节目单](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
