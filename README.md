@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 14:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-28 14:12:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [3分钟回顾中国航天员出征太空](https://s.weibo.com/weibo?q=%233%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E5%87%BA%E5%BE%81%E5%A4%AA%E7%A9%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [最能预示癌症的20个表现](https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%83%BD%E9%A2%84%E7%A4%BA%E7%99%8C%E7%97%87%E7%9A%8420%E4%B8%AA%E8%A1%A8%E7%8E%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [红绿灯的黄30日销售额超5000万](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%8430%E6%97%A5%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%855000%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [家里有装监控的要小心了](https://s.weibo.com/weibo?q=%E5%AE%B6%E9%87%8C%E6%9C%89%E8%A3%85%E7%9B%91%E6%8E%A7%E7%9A%84%E8%A6%81%E5%B0%8F%E5%BF%83%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [阴阳师 结局](https://s.weibo.com/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88%20%E7%BB%93%E5%B1%80&t=31&band_rank=7&Refer=top)<br />
+6. [阴阳师 结局](https://s.weibo.com/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88%20%E7%BB%93%E5%B1%80&t=31&band_rank=6&Refer=top)<br />
+7. [家里有装监控的要小心了](https://s.weibo.com/weibo?q=%E5%AE%B6%E9%87%8C%E6%9C%89%E8%A3%85%E7%9B%91%E6%8E%A7%E7%9A%84%E8%A6%81%E5%B0%8F%E5%BF%83%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [夫妻存款3500元发现多一个0秒退还](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%AD%98%E6%AC%BE3500%E5%85%83%E5%8F%91%E7%8E%B0%E5%A4%9A%E4%B8%80%E4%B8%AA0%E7%A7%92%E9%80%80%E8%BF%98%23&t=31&band_rank=8&Refer=top)<br />
 9. [学生眼中的吴尊友没有一天不在工作](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%90%B4%E5%B0%8A%E5%8F%8B%E6%B2%A1%E6%9C%89%E4%B8%80%E5%A4%A9%E4%B8%8D%E5%9C%A8%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=9&Refer=top)<br />
 
