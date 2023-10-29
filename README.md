@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 21:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 21:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女生去温州同学家发现厕所藏衣柜里](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%8E%BB%E6%B8%A9%E5%B7%9E%E5%90%8C%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%8E%95%E6%89%80%E8%97%8F%E8%A1%A3%E6%9F%9C%E9%87%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [LPL首次四支队伍进八强](https://s.weibo.com/weibo?q=%23LPL%E9%A6%96%E6%AC%A1%E5%9B%9B%E6%94%AF%E9%98%9F%E4%BC%8D%E8%BF%9B%E5%85%AB%E5%BC%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [102岁老人和刚出生玄孙跨世纪对视太有爱](https://s.weibo.com/weibo?q=%23102%E5%B2%81%E8%80%81%E4%BA%BA%E5%92%8C%E5%88%9A%E5%87%BA%E7%94%9F%E7%8E%84%E5%AD%99%E8%B7%A8%E4%B8%96%E7%BA%AA%E5%AF%B9%E8%A7%86%E5%A4%AA%E6%9C%89%E7%88%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [25岁女孩为自己办葬礼请朋友吃席](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%BA%E8%87%AA%E5%B7%B1%E5%8A%9E%E8%91%AC%E7%A4%BC%E8%AF%B7%E6%9C%8B%E5%8F%8B%E5%90%83%E5%B8%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [两个家庭因为一句承诺变成一家人](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E5%AE%B6%E5%BA%AD%E5%9B%A0%E4%B8%BA%E4%B8%80%E5%8F%A5%E6%89%BF%E8%AF%BA%E5%8F%98%E6%88%90%E4%B8%80%E5%AE%B6%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
