@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 18:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 18:15:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [你支持禁止老头乐吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%94%AF%E6%8C%81%E7%A6%81%E6%AD%A2%E8%80%81%E5%A4%B4%E4%B9%90%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [39岁老将目标是第6次征战残奥会](https://s.weibo.com/weibo?q=%2339%E5%B2%81%E8%80%81%E5%B0%86%E7%9B%AE%E6%A0%87%E6%98%AF%E7%AC%AC6%E6%AC%A1%E5%BE%81%E6%88%98%E6%AE%8B%E5%A5%A5%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [大胖媳妇拒绝陪丈母娘住院](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%83%96%E5%AA%B3%E5%A6%87%E6%8B%92%E7%BB%9D%E9%99%AA%E4%B8%88%E6%AF%8D%E5%A8%98%E4%BD%8F%E9%99%A2&t=31&band_rank=8&Refer=top)<br />
-9. [G2对战BLG](https://s.weibo.com/weibo?q=%23G2%E5%AF%B9%E6%88%98BLG%23&t=31&band_rank=9&Refer=top)<br />
+9. [男朋友说当伴娘就默认分手](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E8%AF%B4%E5%BD%93%E4%BC%B4%E5%A8%98%E5%B0%B1%E9%BB%98%E8%AE%A4%E5%88%86%E6%89%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
