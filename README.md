@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 21:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 21:50:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [深圳欢乐谷过山车事故共接诊28人](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E8%BF%87%E5%B1%B1%E8%BD%A6%E4%BA%8B%E6%95%85%E5%85%B1%E6%8E%A5%E8%AF%8A28%E4%BA%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [WBG什么运气](https://s.weibo.com/weibo?q=WBG%E4%BB%80%E4%B9%88%E8%BF%90%E6%B0%94&t=31&band_rank=5&Refer=top)<br />
 6. [王楚钦3比0高承睿](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E9%AB%98%E6%89%BF%E7%9D%BF%23&t=31&band_rank=6&Refer=top)<br />
-7. [KT 地狱副本](https://s.weibo.com/weibo?q=KT%20%E5%9C%B0%E7%8B%B1%E5%89%AF%E6%9C%AC&t=31&band_rank=7&Refer=top)<br />
-8. [女子买生腌蟹食用时发现蟹钳仍在动](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%94%9F%E8%85%8C%E8%9F%B9%E9%A3%9F%E7%94%A8%E6%97%B6%E5%8F%91%E7%8E%B0%E8%9F%B9%E9%92%B3%E4%BB%8D%E5%9C%A8%E5%8A%A8%23&t=31&band_rank=8&Refer=top)<br />
+7. [女子买生腌蟹食用时发现蟹钳仍在动](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%94%9F%E8%85%8C%E8%9F%B9%E9%A3%9F%E7%94%A8%E6%97%B6%E5%8F%91%E7%8E%B0%E8%9F%B9%E9%92%B3%E4%BB%8D%E5%9C%A8%E5%8A%A8%23&t=31&band_rank=7&Refer=top)<br />
+8. [KT 地狱副本](https://s.weibo.com/weibo?q=KT%20%E5%9C%B0%E7%8B%B1%E5%89%AF%E6%9C%AC&t=31&band_rank=8&Refer=top)<br />
 9. [法国赛陈雨菲女单夺冠](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E8%B5%9B%E9%99%88%E9%9B%A8%E8%8F%B2%E5%A5%B3%E5%8D%95%E5%A4%BA%E5%86%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
