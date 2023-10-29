@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 04:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 04:22:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [哈马斯持续向以色列发射大量火箭弹](https://s.weibo.com/weibo?q=%23%E5%93%88%E9%A9%AC%E6%96%AF%E6%8C%81%E7%BB%AD%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%B0%84%E5%A4%A7%E9%87%8F%E7%81%AB%E7%AE%AD%E5%BC%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [白桃星座](https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7&t=31&band_rank=7&Refer=top)<br />
 8. [WBG什么运气](https://s.weibo.com/weibo?q=WBG%E4%BB%80%E4%B9%88%E8%BF%90%E6%B0%94&t=31&band_rank=8&Refer=top)<br />
-9. [孙颖莎 破阵](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%20%E7%A0%B4%E9%98%B5&t=31&band_rank=9&Refer=top)<br />
+9. [被拐走21年的女儿回家了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8B%90%E8%B5%B021%E5%B9%B4%E7%9A%84%E5%A5%B3%E5%84%BF%E5%9B%9E%E5%AE%B6%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
