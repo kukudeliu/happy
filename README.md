@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 10:19:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 10:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [老友记钱德勒扮演者去世](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%8F%8B%E8%AE%B0%E9%92%B1%E5%BE%B7%E5%8B%92%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [巴以冲突已超9200人死亡](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%B7%B2%E8%B6%859200%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [彭斯宣布退出2024总统竞选](https://s.weibo.com/weibo?q=%23%E5%BD%AD%E6%96%AF%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA2024%E6%80%BB%E7%BB%9F%E7%AB%9E%E9%80%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [以色列声称联合国不具有合法性](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%A3%B0%E7%A7%B0%E8%81%94%E5%90%88%E5%9B%BD%E4%B8%8D%E5%85%B7%E6%9C%89%E5%90%88%E6%B3%95%E6%80%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [加沙地带经历迄今为止最严重轰炸](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E7%BB%8F%E5%8E%86%E8%BF%84%E4%BB%8A%E4%B8%BA%E6%AD%A2%E6%9C%80%E4%B8%A5%E9%87%8D%E8%BD%B0%E7%82%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
