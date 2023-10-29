@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 21:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 21:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [WBG什么运气](https://s.weibo.com/weibo?q=WBG%E4%BB%80%E4%B9%88%E8%BF%90%E6%B0%94&t=31&band_rank=5&Refer=top)<br />
 6. [王楚钦3比0高承睿](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E9%AB%98%E6%89%BF%E7%9D%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子买生腌蟹食用时发现蟹钳仍在动](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%94%9F%E8%85%8C%E8%9F%B9%E9%A3%9F%E7%94%A8%E6%97%B6%E5%8F%91%E7%8E%B0%E8%9F%B9%E9%92%B3%E4%BB%8D%E5%9C%A8%E5%8A%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [KT 地狱副本](https://s.weibo.com/weibo?q=KT%20%E5%9C%B0%E7%8B%B1%E5%89%AF%E6%9C%AC&t=31&band_rank=8&Refer=top)<br />
-9. [LPL抽签二段笑](https://s.weibo.com/weibo?q=%23LPL%E6%8A%BD%E7%AD%BE%E4%BA%8C%E6%AE%B5%E7%AC%91%23&t=31&band_rank=9&Refer=top)<br />
+8. [LPL抽签二段笑](https://s.weibo.com/weibo?q=%23LPL%E6%8A%BD%E7%AD%BE%E4%BA%8C%E6%AE%B5%E7%AC%91%23&t=31&band_rank=8&Refer=top)<br />
+9. [KT 地狱副本](https://s.weibo.com/weibo?q=KT%20%E5%9C%B0%E7%8B%B1%E5%89%AF%E6%9C%AC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
