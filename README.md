@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 15:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 15:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男朋友说当伴娘就默认分手](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E8%AF%B4%E5%BD%93%E4%BC%B4%E5%A8%98%E5%B0%B1%E9%BB%98%E8%AE%A4%E5%88%86%E6%89%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [FNC对战WBG](https://s.weibo.com/weibo?q=%23FNC%E5%AF%B9%E6%88%98WBG%23&t=31&band_rank=6&Refer=top)<br />
 7. [老友记钱德勒扮演者去世](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%8F%8B%E8%AE%B0%E9%92%B1%E5%BE%B7%E5%8B%92%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [烈士陵园种红星杨是中国式浪漫](https://s.weibo.com/weibo?q=%23%E7%83%88%E5%A3%AB%E9%99%B5%E5%9B%AD%E7%A7%8D%E7%BA%A2%E6%98%9F%E6%9D%A8%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [没有一个孩子会无缘无故就抑郁了](https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AD%A9%E5%AD%90%E4%BC%9A%E6%97%A0%E7%BC%98%E6%97%A0%E6%95%85%E5%B0%B1%E6%8A%91%E9%83%81%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [没有一个孩子会无缘无故就抑郁了](https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AD%A9%E5%AD%90%E4%BC%9A%E6%97%A0%E7%BC%98%E6%97%A0%E6%95%85%E5%B0%B1%E6%8A%91%E9%83%81%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [厦门居然有不少人住在湖里](https://s.weibo.com/weibo?q=%E5%8E%A6%E9%97%A8%E5%B1%85%E7%84%B6%E6%9C%89%E4%B8%8D%E5%B0%91%E4%BA%BA%E4%BD%8F%E5%9C%A8%E6%B9%96%E9%87%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
