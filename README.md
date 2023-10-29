@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 16:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 16:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [花花肚子上的苹果堆成小山](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E8%82%9A%E5%AD%90%E4%B8%8A%E7%9A%84%E8%8B%B9%E6%9E%9C%E5%A0%86%E6%88%90%E5%B0%8F%E5%B1%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [TheShy十倍输出](https://s.weibo.com/weibo?q=%23TheShy%E5%8D%81%E5%80%8D%E8%BE%93%E5%87%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [男朋友说当伴娘就默认分手](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E8%AF%B4%E5%BD%93%E4%BC%B4%E5%A8%98%E5%B0%B1%E9%BB%98%E8%AE%A4%E5%88%86%E6%89%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [WBG生死战](https://s.weibo.com/weibo?q=%23WBG%E7%94%9F%E6%AD%BB%E6%88%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [WBG 蓝方ban霞](https://s.weibo.com/weibo?q=WBG%20%E8%93%9D%E6%96%B9ban%E9%9C%9E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
