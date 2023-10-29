@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 19:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 19:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国驻美大使馆发紧急提醒](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%91%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [妈妈带锅开车2小时为女儿送排骨](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%B8%A6%E9%94%85%E5%BC%80%E8%BD%A62%E5%B0%8F%E6%97%B6%E4%B8%BA%E5%A5%B3%E5%84%BF%E9%80%81%E6%8E%92%E9%AA%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [BLG战胜G2](https://s.weibo.com/weibo?q=%23BLG%E6%88%98%E8%83%9CG2%23&t=31&band_rank=8&Refer=top)<br />
-9. [女生去温州同学家发现厕所藏衣柜里](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%8E%BB%E6%B8%A9%E5%B7%9E%E5%90%8C%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%8E%95%E6%89%80%E8%97%8F%E8%A1%A3%E6%9F%9C%E9%87%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [女子买生腌蟹食用时发现蟹钳仍在动](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%94%9F%E8%85%8C%E8%9F%B9%E9%A3%9F%E7%94%A8%E6%97%B6%E5%8F%91%E7%8E%B0%E8%9F%B9%E9%92%B3%E4%BB%8D%E5%9C%A8%E5%8A%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
