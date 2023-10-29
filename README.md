@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 12:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 12:55:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [周也恶女这才对味儿嘛](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%E6%81%B6%E5%A5%B3%E8%BF%99%E6%89%8D%E5%AF%B9%E5%91%B3%E5%84%BF%E5%98%9B&t=31&band_rank=2&Refer=top)<br />
 3. [烈士陵园种红星杨是中国式浪漫](https://s.weibo.com/weibo?q=%23%E7%83%88%E5%A3%AB%E9%99%B5%E5%9B%AD%E7%A7%8D%E7%BA%A2%E6%98%9F%E6%9D%A8%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB%23&t=31&band_rank=3&Refer=top)<br />
 4. [男朋友说当伴娘就默认分手](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E8%AF%B4%E5%BD%93%E4%BC%B4%E5%A8%98%E5%B0%B1%E9%BB%98%E8%AE%A4%E5%88%86%E6%89%8B%23&t=31&band_rank=4&Refer=top)<br />
-5. [如何才能睡出一个好看的头型](https://s.weibo.com/weibo?q=%E5%A6%82%E4%BD%95%E6%89%8D%E8%83%BD%E7%9D%A1%E5%87%BA%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%A4%B4%E5%9E%8B&t=31&band_rank=5&Refer=top)<br />
+5. [官方通报公司规定私聊微信罚款100](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%AC%E5%8F%B8%E8%A7%84%E5%AE%9A%E7%A7%81%E8%81%8A%E5%BE%AE%E4%BF%A1%E7%BD%9A%E6%AC%BE100%23&t=31&band_rank=5&Refer=top)<br />
 6. [老友记钱德勒扮演者去世](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%8F%8B%E8%AE%B0%E9%92%B1%E5%BE%B7%E5%8B%92%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [官方通报公司规定私聊微信罚款100](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%AC%E5%8F%B8%E8%A7%84%E5%AE%9A%E7%A7%81%E8%81%8A%E5%BE%AE%E4%BF%A1%E7%BD%9A%E6%AC%BE100%23&t=31&band_rank=7&Refer=top)<br />
+7. [如何才能睡出一个好看的头型](https://s.weibo.com/weibo?q=%E5%A6%82%E4%BD%95%E6%89%8D%E8%83%BD%E7%9D%A1%E5%87%BA%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%A4%B4%E5%9E%8B&t=31&band_rank=7&Refer=top)<br />
 8. [白色橄榄树](https://s.weibo.com/weibo?q=%E7%99%BD%E8%89%B2%E6%A9%84%E6%A6%84%E6%A0%91&t=31&band_rank=8&Refer=top)<br />
 9. [周冬雨同款扎发](https://s.weibo.com/weibo?q=%E5%91%A8%E5%86%AC%E9%9B%A8%E5%90%8C%E6%AC%BE%E6%89%8E%E5%8F%91&t=31&band_rank=9&Refer=top)<br />
 
