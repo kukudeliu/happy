@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 19:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 19:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国驻美大使馆发紧急提醒](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%91%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [杭州一中学午餐上了1000只团脐大闸蟹](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%8D%88%E9%A4%90%E4%B8%8A%E4%BA%861000%E5%8F%AA%E5%9B%A2%E8%84%90%E5%A4%A7%E9%97%B8%E8%9F%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [BLG战胜G2](https://s.weibo.com/weibo?q=%23BLG%E6%88%98%E8%83%9CG2%23&t=31&band_rank=8&Refer=top)<br />
-9. [WBG晋级八强](https://s.weibo.com/weibo?q=%23WBG%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [KT 地狱副本](https://s.weibo.com/weibo?q=KT%20%E5%9C%B0%E7%8B%B1%E5%89%AF%E6%9C%AC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
