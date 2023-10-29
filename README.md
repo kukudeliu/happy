@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 11:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 11:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [老友记钱德勒扮演者去世](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%8F%8B%E8%AE%B0%E9%92%B1%E5%BE%B7%E5%8B%92%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [以大使称以色列目前不打算退出联合国](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%A4%A7%E4%BD%BF%E7%A7%B0%E4%BB%A5%E8%89%B2%E5%88%97%E7%9B%AE%E5%89%8D%E4%B8%8D%E6%89%93%E7%AE%97%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子就餐吃出蟑螂与商家沟通时被气晕](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B0%B1%E9%A4%90%E5%90%83%E5%87%BA%E8%9F%91%E8%9E%82%E4%B8%8E%E5%95%86%E5%AE%B6%E6%B2%9F%E9%80%9A%E6%97%B6%E8%A2%AB%E6%B0%94%E6%99%95%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子为减肥连吃3月胡萝卜变小橘人](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E5%87%8F%E8%82%A5%E8%BF%9E%E5%90%833%E6%9C%88%E8%83%A1%E8%90%9D%E5%8D%9C%E5%8F%98%E5%B0%8F%E6%A9%98%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [彭斯宣布退出2024总统竞选](https://s.weibo.com/weibo?q=%23%E5%BD%AD%E6%96%AF%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA2024%E6%80%BB%E7%BB%9F%E7%AB%9E%E9%80%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
