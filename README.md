@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 10:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 10:56:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [老友记六人组不完整了](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%8F%8B%E8%AE%B0%E5%85%AD%E4%BA%BA%E7%BB%84%E4%B8%8D%E5%AE%8C%E6%95%B4%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [楼上是重点班 楼下是普通班](https://s.weibo.com/weibo?q=%E6%A5%BC%E4%B8%8A%E6%98%AF%E9%87%8D%E7%82%B9%E7%8F%AD%20%E6%A5%BC%E4%B8%8B%E6%98%AF%E6%99%AE%E9%80%9A%E7%8F%AD&t=31&band_rank=5&Refer=top)<br />
 6. [老友记钱德勒扮演者去世](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%8F%8B%E8%AE%B0%E9%92%B1%E5%BE%B7%E5%8B%92%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [巴以冲突已超9200人死亡](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%B7%B2%E8%B6%859200%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [如何才能睡出一个好看的头型](https://s.weibo.com/weibo?q=%E5%A6%82%E4%BD%95%E6%89%8D%E8%83%BD%E7%9D%A1%E5%87%BA%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%A4%B4%E5%9E%8B&t=31&band_rank=8&Refer=top)<br />
+7. [如何才能睡出一个好看的头型](https://s.weibo.com/weibo?q=%E5%A6%82%E4%BD%95%E6%89%8D%E8%83%BD%E7%9D%A1%E5%87%BA%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%A4%B4%E5%9E%8B&t=31&band_rank=7&Refer=top)<br />
+8. [巴以冲突已超9200人死亡](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%B7%B2%E8%B6%859200%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [彭斯宣布退出2024总统竞选](https://s.weibo.com/weibo?q=%23%E5%BD%AD%E6%96%AF%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA2024%E6%80%BB%E7%BB%9F%E7%AB%9E%E9%80%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
