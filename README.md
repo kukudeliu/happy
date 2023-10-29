@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 23:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 23:29:02</h4></div>
 
 > 微博  
 
-1. [中国驻美大使馆发紧急提醒](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%91%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%23&t=31&band_rank=1&Refer=top)<br />
-2. [英国29岁冰球运动员遭冰刀割喉去世](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD29%E5%B2%81%E5%86%B0%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E9%81%AD%E5%86%B0%E5%88%80%E5%89%B2%E5%96%89%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
+1. [英国29岁冰球运动员遭冰刀割喉去世](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD29%E5%B2%81%E5%86%B0%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E9%81%AD%E5%86%B0%E5%88%80%E5%89%B2%E5%96%89%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
+2. [中国驻美大使馆发紧急提醒](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%91%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%23&t=31&band_rank=2&Refer=top)<br />
 3. [杭州亚残运这些画面好戳泪点](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E6%AE%8B%E8%BF%90%E8%BF%99%E4%BA%9B%E7%94%BB%E9%9D%A2%E5%A5%BD%E6%88%B3%E6%B3%AA%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [女子花270元订酒店套房竟有会议室](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B1270%E5%85%83%E8%AE%A2%E9%85%92%E5%BA%97%E5%A5%97%E6%88%BF%E7%AB%9F%E6%9C%89%E4%BC%9A%E8%AE%AE%E5%AE%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [孙颖莎 破阵](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%20%E7%A0%B4%E9%98%B5&t=31&band_rank=5&Refer=top)<br />
