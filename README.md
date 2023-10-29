@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 03:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 03:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [哈马斯持续向以色列发射大量火箭弹](https://s.weibo.com/weibo?q=%23%E5%93%88%E9%A9%AC%E6%96%AF%E6%8C%81%E7%BB%AD%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%B0%84%E5%A4%A7%E9%87%8F%E7%81%AB%E7%AE%AD%E5%BC%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [WBG什么运气](https://s.weibo.com/weibo?q=WBG%E4%BB%80%E4%B9%88%E8%BF%90%E6%B0%94&t=31&band_rank=7&Refer=top)<br />
 8. [白桃星座](https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7&t=31&band_rank=8&Refer=top)<br />
-9. [李克强同志逝世](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [孙颖莎 破阵](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%20%E7%A0%B4%E9%98%B5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
