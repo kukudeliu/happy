@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 09:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 09:39:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [男子砍人未被罚数月后驾车撞死母子2人](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A0%8D%E4%BA%BA%E6%9C%AA%E8%A2%AB%E7%BD%9A%E6%95%B0%E6%9C%88%E5%90%8E%E9%A9%BE%E8%BD%A6%E6%92%9E%E6%AD%BB%E6%AF%8D%E5%AD%902%E4%BA%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子为减肥连吃3月胡萝卜变小橘人](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E5%87%8F%E8%82%A5%E8%BF%9E%E5%90%833%E6%9C%88%E8%83%A1%E8%90%9D%E5%8D%9C%E5%8F%98%E5%B0%8F%E6%A9%98%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [如何做不被女性避雷的广告](https://s.weibo.com/weibo?q=%E5%A6%82%E4%BD%95%E5%81%9A%E4%B8%8D%E8%A2%AB%E5%A5%B3%E6%80%A7%E9%81%BF%E9%9B%B7%E7%9A%84%E5%B9%BF%E5%91%8A&t=31&band_rank=6&Refer=top)<br />
-7. [以色列声称联合国不具有合法性](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%A3%B0%E7%A7%B0%E8%81%94%E5%90%88%E5%9B%BD%E4%B8%8D%E5%85%B7%E6%9C%89%E5%90%88%E6%B3%95%E6%80%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [练八段锦不能不知道的小细节](https://s.weibo.com/weibo?q=%E7%BB%83%E5%85%AB%E6%AE%B5%E9%94%A6%E4%B8%8D%E8%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%B0%8F%E7%BB%86%E8%8A%82&t=31&band_rank=8&Refer=top)<br />
-9. [一根头发居然能吊起14页PPT](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%A0%B9%E5%A4%B4%E5%8F%91%E5%B1%85%E7%84%B6%E8%83%BD%E5%90%8A%E8%B5%B714%E9%A1%B5PPT%23&t=31&band_rank=9&Refer=top)<br />
+7. [谁能想到这是头发而不是蕾丝](https://s.weibo.com/weibo?q=%E8%B0%81%E8%83%BD%E6%83%B3%E5%88%B0%E8%BF%99%E6%98%AF%E5%A4%B4%E5%8F%91%E8%80%8C%E4%B8%8D%E6%98%AF%E8%95%BE%E4%B8%9D&t=31&band_rank=7&Refer=top)<br />
+8. [以色列声称联合国不具有合法性](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%A3%B0%E7%A7%B0%E8%81%94%E5%90%88%E5%9B%BD%E4%B8%8D%E5%85%B7%E6%9C%89%E5%90%88%E6%B3%95%E6%80%A7%23&t=31&band_rank=8&Refer=top)<br />
+9. [练八段锦不能不知道的小细节](https://s.weibo.com/weibo?q=%E7%BB%83%E5%85%AB%E6%AE%B5%E9%94%A6%E4%B8%8D%E8%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%B0%8F%E7%BB%86%E8%8A%82&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
