@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 19:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 19:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女子买生腌蟹食用时发现蟹钳仍在动](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%94%9F%E8%85%8C%E8%9F%B9%E9%A3%9F%E7%94%A8%E6%97%B6%E5%8F%91%E7%8E%B0%E8%9F%B9%E9%92%B3%E4%BB%8D%E5%9C%A8%E5%8A%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [福州市委书记称百姓都用自来水泡茶](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%A7%B0%E7%99%BE%E5%A7%93%E9%83%BD%E7%94%A8%E8%87%AA%E6%9D%A5%E6%B0%B4%E6%B3%A1%E8%8C%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [BLG生死局](https://s.weibo.com/weibo?q=%23BLG%E7%94%9F%E6%AD%BB%E5%B1%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [月亮](https://s.weibo.com/weibo?q=%E6%9C%88%E4%BA%AE&t=31&band_rank=9&Refer=top)<br />
+9. [G2对战BLG](https://s.weibo.com/weibo?q=%23G2%E5%AF%B9%E6%88%98BLG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
