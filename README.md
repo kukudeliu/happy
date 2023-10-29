@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 15:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-29 15:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小虎在干嘛](https://s.weibo.com/weibo?q=%E5%B0%8F%E8%99%8E%E5%9C%A8%E5%B9%B2%E5%98%9B&t=31&band_rank=6&Refer=top)<br />
 7. [老友记钱德勒扮演者去世](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%8F%8B%E8%AE%B0%E9%92%B1%E5%BE%B7%E5%8B%92%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [谁能想到这是头发而不是蕾丝](https://s.weibo.com/weibo?q=%E8%B0%81%E8%83%BD%E6%83%B3%E5%88%B0%E8%BF%99%E6%98%AF%E5%A4%B4%E5%8F%91%E8%80%8C%E4%B8%8D%E6%98%AF%E8%95%BE%E4%B8%9D&t=31&band_rank=8&Refer=top)<br />
-9. [没有一个孩子会无缘无故就抑郁了](https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AD%A9%E5%AD%90%E4%BC%9A%E6%97%A0%E7%BC%98%E6%97%A0%E6%95%85%E5%B0%B1%E6%8A%91%E9%83%81%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [WBG 蓝方ban霞](https://s.weibo.com/weibo?q=WBG%20%E8%93%9D%E6%96%B9ban%E9%9C%9E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
