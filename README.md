@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 15:12:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 15:13:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [媒体:小杨哥们低俗带货赢流量输底线](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%3A%E5%B0%8F%E6%9D%A8%E5%93%A5%E4%BB%AC%E4%BD%8E%E4%BF%97%E5%B8%A6%E8%B4%A7%E8%B5%A2%E6%B5%81%E9%87%8F%E8%BE%93%E5%BA%95%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大一女生搭校园共享电车摔伤身亡](https://www.baidu.com/s?wd=%E5%A4%A7%E4%B8%80%E5%A5%B3%E7%94%9F%E6%90%AD%E6%A0%A1%E5%9B%AD%E5%85%B1%E4%BA%AB%E7%94%B5%E8%BD%A6%E6%91%94%E4%BC%A4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [乌克兰将不再允许俄天然气过境](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%B0%86%E4%B8%8D%E5%86%8D%E5%85%81%E8%AE%B8%E4%BF%84%E5%A4%A9%E7%84%B6%E6%B0%94%E8%BF%87%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [湖北宜昌一派出所所长牺牲](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E4%B8%80%E6%B4%BE%E5%87%BA%E6%89%80%E6%89%80%E9%95%BF%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [官方调查学生屁股被老师打成黑紫色](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%B0%83%E6%9F%A5%E5%AD%A6%E7%94%9F%E5%B1%81%E8%82%A1%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E6%88%90%E9%BB%91%E7%B4%AB%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [全红婵退出国家队？跳水队辟谣](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%80%80%E5%87%BA%E5%9B%BD%E5%AE%B6%E9%98%9F%EF%BC%9F%E8%B7%B3%E6%B0%B4%E9%98%9F%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [媒体:小杨哥们低俗带货赢流量输底线](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%3A%E5%B0%8F%E6%9D%A8%E5%93%A5%E4%BB%AC%E4%BD%8E%E4%BF%97%E5%B8%A6%E8%B4%A7%E8%B5%A2%E6%B5%81%E9%87%8F%E8%BE%93%E5%BA%95%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大一女生搭校园共享电车摔伤身亡](https://www.baidu.com/s?wd=%E5%A4%A7%E4%B8%80%E5%A5%B3%E7%94%9F%E6%90%AD%E6%A0%A1%E5%9B%AD%E5%85%B1%E4%BA%AB%E7%94%B5%E8%BD%A6%E6%91%94%E4%BC%A4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [乌克兰将不再允许俄天然气过境](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%B0%86%E4%B8%8D%E5%86%8D%E5%85%81%E8%AE%B8%E4%BF%84%E5%A4%A9%E7%84%B6%E6%B0%94%E8%BF%87%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [湖北宜昌一派出所所长牺牲](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E4%B8%80%E6%B4%BE%E5%87%BA%E6%89%80%E6%89%80%E9%95%BF%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [官方调查学生屁股被老师打成黑紫色](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%B0%83%E6%9F%A5%E5%AD%A6%E7%94%9F%E5%B1%81%E8%82%A1%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E6%88%90%E9%BB%91%E7%B4%AB%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [全红婵退出国家队？跳水队辟谣](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%80%80%E5%87%BA%E5%9B%BD%E5%AE%B6%E9%98%9F%EF%BC%9F%E8%B7%B3%E6%B0%B4%E9%98%9F%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
