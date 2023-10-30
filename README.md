@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 08:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 08:08:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [这英cos那英](https://www.baidu.com/s?wd=%E8%BF%99%E8%8B%B1cos%E9%82%A3%E8%8B%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子花270订酒店套房竟有会议室](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1270%E8%AE%A2%E9%85%92%E5%BA%97%E5%A5%97%E6%88%BF%E7%AB%9F%E6%9C%89%E4%BC%9A%E8%AE%AE%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [餐具收费大学生付1元直接带走](https://www.baidu.com/s?wd=%E9%A4%90%E5%85%B7%E6%94%B6%E8%B4%B9%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%981%E5%85%83%E7%9B%B4%E6%8E%A5%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [英国冰球运动员遭冰刀割喉不幸离世](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%86%B0%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E9%81%AD%E5%86%B0%E5%88%80%E5%89%B2%E5%96%89%E4%B8%8D%E5%B9%B8%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [养老公寓爆雷 686名老人起诉被驳回](https://www.baidu.com/s?wd=%E5%85%BB%E8%80%81%E5%85%AC%E5%AF%93%E7%88%86%E9%9B%B7+686%E5%90%8D%E8%80%81%E4%BA%BA%E8%B5%B7%E8%AF%89%E8%A2%AB%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多省份辟谣“推行工龄退休”](https://www.baidu.com/s?wd=%E5%A4%9A%E7%9C%81%E4%BB%BD%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%8E%A8%E8%A1%8C%E5%B7%A5%E9%BE%84%E9%80%80%E4%BC%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [这英cos那英](https://www.baidu.com/s?wd=%E8%BF%99%E8%8B%B1cos%E9%82%A3%E8%8B%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子花270订酒店套房竟有会议室](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1270%E8%AE%A2%E9%85%92%E5%BA%97%E5%A5%97%E6%88%BF%E7%AB%9F%E6%9C%89%E4%BC%9A%E8%AE%AE%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [餐具收费大学生付1元直接带走](https://www.baidu.com/s?wd=%E9%A4%90%E5%85%B7%E6%94%B6%E8%B4%B9%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%981%E5%85%83%E7%9B%B4%E6%8E%A5%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [英国冰球运动员遭冰刀割喉不幸离世](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%86%B0%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E9%81%AD%E5%86%B0%E5%88%80%E5%89%B2%E5%96%89%E4%B8%8D%E5%B9%B8%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [养老公寓爆雷 686名老人起诉被驳回](https://www.baidu.com/s?wd=%E5%85%BB%E8%80%81%E5%85%AC%E5%AF%93%E7%88%86%E9%9B%B7+686%E5%90%8D%E8%80%81%E4%BA%BA%E8%B5%B7%E8%AF%89%E8%A2%AB%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多省份辟谣“推行工龄退休”](https://www.baidu.com/s?wd=%E5%A4%9A%E7%9C%81%E4%BB%BD%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%8E%A8%E8%A1%8C%E5%B7%A5%E9%BE%84%E9%80%80%E4%BC%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
