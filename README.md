@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 10:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 10:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [iPhone15价格跳水](https://s.weibo.com/weibo?q=%23iPhone15%E4%BB%B7%E6%A0%BC%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [家里已准备好迎接3名中国人回地球](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%87%8C%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E8%BF%8E%E6%8E%A53%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9B%9E%E5%9C%B0%E7%90%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [英国29岁冰球运动员遭冰刀割喉去世](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD29%E5%B2%81%E5%86%B0%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E9%81%AD%E5%86%B0%E5%88%80%E5%89%B2%E5%96%89%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [加沙地带至少1870人仍被埋在废墟下](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E8%87%B3%E5%B0%911870%E4%BA%BA%E4%BB%8D%E8%A2%AB%E5%9F%8B%E5%9C%A8%E5%BA%9F%E5%A2%9F%E4%B8%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [教育局回应7岁女孩在校被多人霸凌](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%947%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9C%A8%E6%A0%A1%E8%A2%AB%E5%A4%9A%E4%BA%BA%E9%9C%B8%E5%87%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
