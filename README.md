@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 23:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 23:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Kimi晒中国粉丝礼物](https://s.weibo.com/weibo?q=%23Kimi%E6%99%92%E4%B8%AD%E5%9B%BD%E7%B2%89%E4%B8%9D%E7%A4%BC%E7%89%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [这样做真的会显脸小](https://s.weibo.com/weibo?q=%E8%BF%99%E6%A0%B7%E5%81%9A%E7%9C%9F%E7%9A%84%E4%BC%9A%E6%98%BE%E8%84%B8%E5%B0%8F&t=31&band_rank=7&Refer=top)<br />
 8. [业余主播混乱式带货走红网络](https://s.weibo.com/weibo?q=%23%E4%B8%9A%E4%BD%99%E4%B8%BB%E6%92%AD%E6%B7%B7%E4%B9%B1%E5%BC%8F%E5%B8%A6%E8%B4%A7%E8%B5%B0%E7%BA%A2%E7%BD%91%E7%BB%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [金鸡奖开幕式 嘉宾名单](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E5%BC%80%E5%B9%95%E5%BC%8F%20%E5%98%89%E5%AE%BE%E5%90%8D%E5%8D%95&t=31&band_rank=9&Refer=top)<br />
+9. [iPhone13用户换15热情不高](https://s.weibo.com/weibo?q=%23iPhone13%E7%94%A8%E6%88%B7%E6%8D%A215%E7%83%AD%E6%83%85%E4%B8%8D%E9%AB%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
