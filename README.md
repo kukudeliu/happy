@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 20:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 20:24:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [温暖赛会 美好回忆](https://www.baidu.com/s?wd=%E6%B8%A9%E6%9A%96%E8%B5%9B%E4%BC%9A+%E7%BE%8E%E5%A5%BD%E5%9B%9E%E5%BF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [云南边境3所学校因缅甸战事停课](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E8%BE%B9%E5%A2%833%E6%89%80%E5%AD%A6%E6%A0%A1%E5%9B%A0%E7%BC%85%E7%94%B8%E6%88%98%E4%BA%8B%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [央媒：“鼻吸能量棒”该管管了！](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E2%80%9C%E9%BC%BB%E5%90%B8%E8%83%BD%E9%87%8F%E6%A3%92%E2%80%9D%E8%AF%A5%E7%AE%A1%E7%AE%A1%E4%BA%86%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [17岁高中生颈椎后凸堪比47岁](https://www.baidu.com/s?wd=17%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%E9%A2%88%E6%A4%8E%E5%90%8E%E5%87%B8%E5%A0%AA%E6%AF%9447%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女毒贩为逃避刑罚6年生4娃](https://www.baidu.com/s?wd=%E5%A5%B3%E6%AF%92%E8%B4%A9%E4%B8%BA%E9%80%83%E9%81%BF%E5%88%91%E7%BD%9A6%E5%B9%B4%E7%94%9F4%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度富豪主张年轻人每周工作70小时](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%AF%8C%E8%B1%AA%E4%B8%BB%E5%BC%A0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%AF%8F%E5%91%A8%E5%B7%A5%E4%BD%9C70%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湖北一运砂大货车过自建桥时落水](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E4%B8%80%E8%BF%90%E7%A0%82%E5%A4%A7%E8%B4%A7%E8%BD%A6%E8%BF%87%E8%87%AA%E5%BB%BA%E6%A1%A5%E6%97%B6%E8%90%BD%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“保健石”可放心佩戴？](https://www.baidu.com/s?wd=%E2%80%9C%E4%BF%9D%E5%81%A5%E7%9F%B3%E2%80%9D%E5%8F%AF%E6%94%BE%E5%BF%83%E4%BD%A9%E6%88%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [温暖赛会 美好回忆](https://www.baidu.com/s?wd=%E6%B8%A9%E6%9A%96%E8%B5%9B%E4%BC%9A+%E7%BE%8E%E5%A5%BD%E5%9B%9E%E5%BF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [云南边境3所学校因缅甸战事停课](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E8%BE%B9%E5%A2%833%E6%89%80%E5%AD%A6%E6%A0%A1%E5%9B%A0%E7%BC%85%E7%94%B8%E6%88%98%E4%BA%8B%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [央媒：“鼻吸能量棒”该管管了！](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E2%80%9C%E9%BC%BB%E5%90%B8%E8%83%BD%E9%87%8F%E6%A3%92%E2%80%9D%E8%AF%A5%E7%AE%A1%E7%AE%A1%E4%BA%86%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [17岁高中生颈椎后凸堪比47岁](https://www.baidu.com/s?wd=17%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%E9%A2%88%E6%A4%8E%E5%90%8E%E5%87%B8%E5%A0%AA%E6%AF%9447%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女毒贩为逃避刑罚6年生4娃](https://www.baidu.com/s?wd=%E5%A5%B3%E6%AF%92%E8%B4%A9%E4%B8%BA%E9%80%83%E9%81%BF%E5%88%91%E7%BD%9A6%E5%B9%B4%E7%94%9F4%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度富豪主张年轻人每周工作70小时](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%AF%8C%E8%B1%AA%E4%B8%BB%E5%BC%A0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%AF%8F%E5%91%A8%E5%B7%A5%E4%BD%9C70%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湖北一运砂大货车过自建桥时落水](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E4%B8%80%E8%BF%90%E7%A0%82%E5%A4%A7%E8%B4%A7%E8%BD%A6%E8%BF%87%E8%87%AA%E5%BB%BA%E6%A1%A5%E6%97%B6%E8%90%BD%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“保健石”可放心佩戴？](https://www.baidu.com/s?wd=%E2%80%9C%E4%BF%9D%E5%81%A5%E7%9F%B3%E2%80%9D%E5%8F%AF%E6%94%BE%E5%BF%83%E4%BD%A9%E6%88%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
