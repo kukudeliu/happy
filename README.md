@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 07:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 07:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [第一次觉得男女主be不可惜的](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%89%E5%BE%97%E7%94%B7%E5%A5%B3%E4%B8%BBbe%E4%B8%8D%E5%8F%AF%E6%83%9C%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
 6. [你用过夸克吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%94%A8%E8%BF%87%E5%A4%B8%E5%85%8B%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [钟楚曦14秒换了3套衣服](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A614%E7%A7%92%E6%8D%A2%E4%BA%863%E5%A5%97%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [大牌化妆品价格集体跳水看齐国货](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%8C%E5%8C%96%E5%A6%86%E5%93%81%E4%BB%B7%E6%A0%BC%E9%9B%86%E4%BD%93%E8%B7%B3%E6%B0%B4%E7%9C%8B%E9%BD%90%E5%9B%BD%E8%B4%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [侯明昊体面](https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E4%BD%93%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
+8. [侯明昊体面](https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E4%BD%93%E9%9D%A2%23&t=31&band_rank=8&Refer=top)<br />
+9. [孙颖莎光速下班](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%85%89%E9%80%9F%E4%B8%8B%E7%8F%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
