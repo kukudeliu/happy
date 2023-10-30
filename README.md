@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 15:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 15:44:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [推动金融迈向高质量发展](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E9%87%91%E8%9E%8D%E8%BF%88%E5%90%91%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [媒体:小杨哥们低俗带货赢流量输底线](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%3A%E5%B0%8F%E6%9D%A8%E5%93%A5%E4%BB%AC%E4%BD%8E%E4%BF%97%E5%B8%A6%E8%B4%A7%E8%B5%A2%E6%B5%81%E9%87%8F%E8%BE%93%E5%BA%95%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大一女生搭校园共享电车摔伤身亡](https://www.baidu.com/s?wd=%E5%A4%A7%E4%B8%80%E5%A5%B3%E7%94%9F%E6%90%AD%E6%A0%A1%E5%9B%AD%E5%85%B1%E4%BA%AB%E7%94%B5%E8%BD%A6%E6%91%94%E4%BC%A4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [塔斯汀门店管理能力赶不上扩张](https://www.baidu.com/s?wd=%E5%A1%94%E6%96%AF%E6%B1%80%E9%97%A8%E5%BA%97%E7%AE%A1%E7%90%86%E8%83%BD%E5%8A%9B%E8%B5%B6%E4%B8%8D%E4%B8%8A%E6%89%A9%E5%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [我国脑卒中患病总人数超过2800万](https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E8%84%91%E5%8D%92%E4%B8%AD%E6%82%A3%E7%97%85%E6%80%BB%E4%BA%BA%E6%95%B0%E8%B6%85%E8%BF%872800%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度富豪主张年轻人每周工作70小时](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%AF%8C%E8%B1%AA%E4%B8%BB%E5%BC%A0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%AF%8F%E5%91%A8%E5%B7%A5%E4%BD%9C70%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生遭短暂围住拍打视频为何不公开](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E7%9F%AD%E6%9A%82%E5%9B%B4%E4%BD%8F%E6%8B%8D%E6%89%93%E8%A7%86%E9%A2%91%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [全红婵退出国家队？跳水队辟谣](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%80%80%E5%87%BA%E5%9B%BD%E5%AE%B6%E9%98%9F%EF%BC%9F%E8%B7%B3%E6%B0%B4%E9%98%9F%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [推动金融迈向高质量发展](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E9%87%91%E8%9E%8D%E8%BF%88%E5%90%91%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [媒体:小杨哥们低俗带货赢流量输底线](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%3A%E5%B0%8F%E6%9D%A8%E5%93%A5%E4%BB%AC%E4%BD%8E%E4%BF%97%E5%B8%A6%E8%B4%A7%E8%B5%A2%E6%B5%81%E9%87%8F%E8%BE%93%E5%BA%95%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大一女生搭校园共享电车摔伤身亡](https://www.baidu.com/s?wd=%E5%A4%A7%E4%B8%80%E5%A5%B3%E7%94%9F%E6%90%AD%E6%A0%A1%E5%9B%AD%E5%85%B1%E4%BA%AB%E7%94%B5%E8%BD%A6%E6%91%94%E4%BC%A4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [塔斯汀门店管理能力赶不上扩张](https://www.baidu.com/s?wd=%E5%A1%94%E6%96%AF%E6%B1%80%E9%97%A8%E5%BA%97%E7%AE%A1%E7%90%86%E8%83%BD%E5%8A%9B%E8%B5%B6%E4%B8%8D%E4%B8%8A%E6%89%A9%E5%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [我国脑卒中患病总人数超过2800万](https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E8%84%91%E5%8D%92%E4%B8%AD%E6%82%A3%E7%97%85%E6%80%BB%E4%BA%BA%E6%95%B0%E8%B6%85%E8%BF%872800%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度富豪主张年轻人每周工作70小时](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%AF%8C%E8%B1%AA%E4%B8%BB%E5%BC%A0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%AF%8F%E5%91%A8%E5%B7%A5%E4%BD%9C70%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生遭短暂围住拍打视频为何不公开](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%81%AD%E7%9F%AD%E6%9A%82%E5%9B%B4%E4%BD%8F%E6%8B%8D%E6%89%93%E8%A7%86%E9%A2%91%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [全红婵退出国家队？跳水队辟谣](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%80%80%E5%87%BA%E5%9B%BD%E5%AE%B6%E9%98%9F%EF%BC%9F%E8%B7%B3%E6%B0%B4%E9%98%9F%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
