@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 12:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 12:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [华为再次成为中国轻薄笔记本市场第一](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%86%8D%E6%AC%A1%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%BD%BB%E8%96%84%E7%AC%94%E8%AE%B0%E6%9C%AC%E5%B8%82%E5%9C%BA%E7%AC%AC%E4%B8%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [穿越火线 外挂](https://s.weibo.com/weibo?q=%E7%A9%BF%E8%B6%8A%E7%81%AB%E7%BA%BF%20%E5%A4%96%E6%8C%82&t=31&band_rank=7&Refer=top)<br />
 8. [以色列称坚决拒绝停火](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%A7%B0%E5%9D%9A%E5%86%B3%E6%8B%92%E7%BB%9D%E5%81%9C%E7%81%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [陆鸢陆时在一起了](https://s.weibo.com/weibo?q=%23%E9%99%86%E9%B8%A2%E9%99%86%E6%97%B6%E5%9C%A8%E4%B8%80%E8%B5%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈哲远官宣爱奇艺尖叫之夜](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%AE%98%E5%AE%A3%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
