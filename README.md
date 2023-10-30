@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 23:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 23:29:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [夸克被罚款50万](https://www.baidu.com/s?wd=%E5%A4%B8%E5%85%8B%E8%A2%AB%E7%BD%9A%E6%AC%BE50%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [建设航天强国是我们的航天梦](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E8%88%AA%E5%A4%A9%E5%BC%BA%E5%9B%BD%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E8%88%AA%E5%A4%A9%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央媒：“鼻吸能量棒”该管管了！](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E2%80%9C%E9%BC%BB%E5%90%B8%E8%83%BD%E9%87%8F%E6%A3%92%E2%80%9D%E8%AF%A5%E7%AE%A1%E7%AE%A1%E4%BA%86%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [百余名家长蛋仔派对维权涉资超400万](https://www.baidu.com/s?wd=%E7%99%BE%E4%BD%99%E5%90%8D%E5%AE%B6%E9%95%BF%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%E7%BB%B4%E6%9D%83%E6%B6%89%E8%B5%84%E8%B6%85400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [张雪峰回应公司明年2月只上7天班](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%9E%E5%BA%94%E5%85%AC%E5%8F%B8%E6%98%8E%E5%B9%B42%E6%9C%88%E5%8F%AA%E4%B8%8A7%E5%A4%A9%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [武校投毒案受害家属谈失子之痛](https://www.baidu.com/s?wd=%E6%AD%A6%E6%A0%A1%E6%8A%95%E6%AF%92%E6%A1%88%E5%8F%97%E5%AE%B3%E5%AE%B6%E5%B1%9E%E8%B0%88%E5%A4%B1%E5%AD%90%E4%B9%8B%E7%97%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [46名科学家获资助约11亿元](https://www.baidu.com/s?wd=46%E5%90%8D%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%8E%B7%E8%B5%84%E5%8A%A9%E7%BA%A611%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网友裸辞炒股5个月亏损48%](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%A3%B8%E8%BE%9E%E7%82%92%E8%82%A15%E4%B8%AA%E6%9C%88%E4%BA%8F%E6%8D%9F48%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友担心向佐偶遇山寨版向太](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8B%85%E5%BF%83%E5%90%91%E4%BD%90%E5%81%B6%E9%81%87%E5%B1%B1%E5%AF%A8%E7%89%88%E5%90%91%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“保健石”可放心佩戴？](https://www.baidu.com/s?wd=%E2%80%9C%E4%BF%9D%E5%81%A5%E7%9F%B3%E2%80%9D%E5%8F%AF%E6%94%BE%E5%BF%83%E4%BD%A9%E6%88%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [夸克被罚款50万](https://www.baidu.com/s?wd=%E5%A4%B8%E5%85%8B%E8%A2%AB%E7%BD%9A%E6%AC%BE50%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [建设航天强国是我们的航天梦](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E8%88%AA%E5%A4%A9%E5%BC%BA%E5%9B%BD%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E8%88%AA%E5%A4%A9%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央媒：“鼻吸能量棒”该管管了！](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E2%80%9C%E9%BC%BB%E5%90%B8%E8%83%BD%E9%87%8F%E6%A3%92%E2%80%9D%E8%AF%A5%E7%AE%A1%E7%AE%A1%E4%BA%86%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [百余名家长蛋仔派对维权涉资超400万](https://www.baidu.com/s?wd=%E7%99%BE%E4%BD%99%E5%90%8D%E5%AE%B6%E9%95%BF%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%E7%BB%B4%E6%9D%83%E6%B6%89%E8%B5%84%E8%B6%85400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [张雪峰回应公司明年2月只上7天班](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%9E%E5%BA%94%E5%85%AC%E5%8F%B8%E6%98%8E%E5%B9%B42%E6%9C%88%E5%8F%AA%E4%B8%8A7%E5%A4%A9%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [武校投毒案受害家属谈失子之痛](https://www.baidu.com/s?wd=%E6%AD%A6%E6%A0%A1%E6%8A%95%E6%AF%92%E6%A1%88%E5%8F%97%E5%AE%B3%E5%AE%B6%E5%B1%9E%E8%B0%88%E5%A4%B1%E5%AD%90%E4%B9%8B%E7%97%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [46名科学家获资助约11亿元](https://www.baidu.com/s?wd=46%E5%90%8D%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%8E%B7%E8%B5%84%E5%8A%A9%E7%BA%A611%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网友裸辞炒股5个月亏损48%](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%A3%B8%E8%BE%9E%E7%82%92%E8%82%A15%E4%B8%AA%E6%9C%88%E4%BA%8F%E6%8D%9F48%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友担心向佐偶遇山寨版向太](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8B%85%E5%BF%83%E5%90%91%E4%BD%90%E5%81%B6%E9%81%87%E5%B1%B1%E5%AF%A8%E7%89%88%E5%90%91%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“保健石”可放心佩戴？](https://www.baidu.com/s?wd=%E2%80%9C%E4%BF%9D%E5%81%A5%E7%9F%B3%E2%80%9D%E5%8F%AF%E6%94%BE%E5%BF%83%E4%BD%A9%E6%88%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
