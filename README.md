@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 20:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 20:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [郭敬明 又怎么了我的大小姐](https://s.weibo.com/weibo?q=%E9%83%AD%E6%95%AC%E6%98%8E%20%E5%8F%88%E6%80%8E%E4%B9%88%E4%BA%86%E6%88%91%E7%9A%84%E5%A4%A7%E5%B0%8F%E5%A7%90&t=31&band_rank=6&Refer=top)<br />
 7. [秦海璐录完花少瘦了18斤](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%B5%B7%E7%92%90%E5%BD%95%E5%AE%8C%E8%8A%B1%E5%B0%91%E7%98%A6%E4%BA%8618%E6%96%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈若琳被调至北京工作](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8B%A5%E7%90%B3%E8%A2%AB%E8%B0%83%E8%87%B3%E5%8C%97%E4%BA%AC%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [池田纯矢涉嫌参与特殊诈骗被捕](https://s.weibo.com/weibo?q=%23%E6%B1%A0%E7%94%B0%E7%BA%AF%E7%9F%A2%E6%B6%89%E5%AB%8C%E5%8F%82%E4%B8%8E%E7%89%B9%E6%AE%8A%E8%AF%88%E9%AA%97%E8%A2%AB%E6%8D%95%23&t=31&band_rank=9&Refer=top)<br />
+9. [46名科学家获资助约11亿元](https://s.weibo.com/weibo?q=%2346%E5%90%8D%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%8E%B7%E8%B5%84%E5%8A%A9%E7%BA%A611%E4%BA%BF%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
