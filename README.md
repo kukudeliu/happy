@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 08:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 08:42:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [谈恋爱时最不受欢迎的星座](https://s.weibo.com/weibo?q=%E8%B0%88%E6%81%8B%E7%88%B1%E6%97%B6%E6%9C%80%E4%B8%8D%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=4&Refer=top)<br />
 5. [中国驻美大使馆发紧急提醒](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%91%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%23&t=31&band_rank=5&Refer=top)<br />
 6. [加沙地带至少1870人仍被埋在废墟下](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E8%87%B3%E5%B0%911870%E4%BA%BA%E4%BB%8D%E8%A2%AB%E5%9F%8B%E5%9C%A8%E5%BA%9F%E5%A2%9F%E4%B8%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [中国队男子5000米接力冠军](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%94%B7%E5%AD%905000%E7%B1%B3%E6%8E%A5%E5%8A%9B%E5%86%A0%E5%86%9B%23&t=31&band_rank=7&Refer=top)<br />
-8. [餐具收费大学生付1元直接带走](https://s.weibo.com/weibo?q=%23%E9%A4%90%E5%85%B7%E6%94%B6%E8%B4%B9%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%981%E5%85%83%E7%9B%B4%E6%8E%A5%E5%B8%A6%E8%B5%B0%23&t=31&band_rank=8&Refer=top)<br />
+7. [餐具收费大学生付1元直接带走](https://s.weibo.com/weibo?q=%23%E9%A4%90%E5%85%B7%E6%94%B6%E8%B4%B9%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%981%E5%85%83%E7%9B%B4%E6%8E%A5%E5%B8%A6%E8%B5%B0%23&t=31&band_rank=7&Refer=top)<br />
+8. [中国队男子5000米接力冠军](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%94%B7%E5%AD%905000%E7%B1%B3%E6%8E%A5%E5%8A%9B%E5%86%A0%E5%86%9B%23&t=31&band_rank=8&Refer=top)<br />
 9. [哈马斯持续向以色列发射大量火箭弹](https://s.weibo.com/weibo?q=%23%E5%93%88%E9%A9%AC%E6%96%AF%E6%8C%81%E7%BB%AD%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%B0%84%E5%A4%A7%E9%87%8F%E7%81%AB%E7%AE%AD%E5%BC%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
