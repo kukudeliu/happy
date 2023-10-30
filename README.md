@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 18:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 18:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [反垄断办称正调查核实李佳琦被指控价](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%9E%84%E6%96%AD%E5%8A%9E%E7%A7%B0%E6%AD%A3%E8%B0%83%E6%9F%A5%E6%A0%B8%E5%AE%9E%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%A2%AB%E6%8C%87%E6%8E%A7%E4%BB%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国6岁女孩打破魔方世界纪录](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD6%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%89%93%E7%A0%B4%E9%AD%94%E6%96%B9%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [大学生校内乘共享电动车摔伤后身亡](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E4%B9%98%E5%85%B1%E4%BA%AB%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%91%94%E4%BC%A4%E5%90%8E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [字节跳动除夕放假](https://s.weibo.com/weibo?q=%23%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E9%99%A4%E5%A4%95%E6%94%BE%E5%81%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [爸爸哄娃睡觉随手一丢震惊妈妈](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%93%84%E5%A8%83%E7%9D%A1%E8%A7%89%E9%9A%8F%E6%89%8B%E4%B8%80%E4%B8%A2%E9%9C%87%E6%83%8A%E5%A6%88%E5%A6%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
