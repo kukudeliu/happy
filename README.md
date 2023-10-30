@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 09:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 09:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [加沙地带至少1870人仍被埋在废墟下](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E8%87%B3%E5%B0%911870%E4%BA%BA%E4%BB%8D%E8%A2%AB%E5%9F%8B%E5%9C%A8%E5%BA%9F%E5%A2%9F%E4%B8%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [家里已准备好迎接3名中国人回地球](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%87%8C%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E8%BF%8E%E6%8E%A53%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9B%9E%E5%9C%B0%E7%90%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [川A大军给华西救护车让行](https://s.weibo.com/weibo?q=%23%E5%B7%9DA%E5%A4%A7%E5%86%9B%E7%BB%99%E5%8D%8E%E8%A5%BF%E6%95%91%E6%8A%A4%E8%BD%A6%E8%AE%A9%E8%A1%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [哈马斯持续向以色列发射大量火箭弹](https://s.weibo.com/weibo?q=%23%E5%93%88%E9%A9%AC%E6%96%AF%E6%8C%81%E7%BB%AD%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%B0%84%E5%A4%A7%E9%87%8F%E7%81%AB%E7%AE%AD%E5%BC%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [Spirit双冠王](https://s.weibo.com/weibo?q=%23Spirit%E5%8F%8C%E5%86%A0%E7%8E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
