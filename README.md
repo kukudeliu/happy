@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 14:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 14:36:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [家里已准备好迎接3名中国人回地球](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%87%8C%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E8%BF%8E%E6%8E%A53%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9B%9E%E5%9C%B0%E7%90%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [秦岚用手护着迪丽热巴](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%94%A8%E6%89%8B%E6%8A%A4%E7%9D%80%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [疯狂小杨哥定期直播未开播](https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%AE%9A%E6%9C%9F%E7%9B%B4%E6%92%AD%E6%9C%AA%E5%BC%80%E6%92%AD%23&t=31&band_rank=5&Refer=top)<br />
-6. [媒体批小杨哥们低俗带货赢流量输底线](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E6%89%B9%E5%B0%8F%E6%9D%A8%E5%93%A5%E4%BB%AC%E4%BD%8E%E4%BF%97%E5%B8%A6%E8%B4%A7%E8%B5%A2%E6%B5%81%E9%87%8F%E8%BE%93%E5%BA%95%E7%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
-7. [老板谈涨薪时的小心机](https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E8%B0%88%E6%B6%A8%E8%96%AA%E6%97%B6%E7%9A%84%E5%B0%8F%E5%BF%83%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [电影花千骨定档](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E8%8A%B1%E5%8D%83%E9%AA%A8%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [湖南冷水江通报网传7岁女孩遭霸凌](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%86%B7%E6%B0%B4%E6%B1%9F%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A07%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E9%9C%B8%E5%87%8C%23&t=31&band_rank=9&Refer=top)<br />
+6. [老板谈涨薪时的小心机](https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E8%B0%88%E6%B6%A8%E8%96%AA%E6%97%B6%E7%9A%84%E5%B0%8F%E5%BF%83%E6%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
+7. [媒体批小杨哥们低俗带货赢流量输底线](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E6%89%B9%E5%B0%8F%E6%9D%A8%E5%93%A5%E4%BB%AC%E4%BD%8E%E4%BF%97%E5%B8%A6%E8%B4%A7%E8%B5%A2%E6%B5%81%E9%87%8F%E8%BE%93%E5%BA%95%E7%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
+8. [网友裸辞炒股5个月亏损48%](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%A3%B8%E8%BE%9E%E7%82%92%E8%82%A15%E4%B8%AA%E6%9C%88%E4%BA%8F%E6%8D%9F48%25%23&t=31&band_rank=8&Refer=top)<br />
+9. [电影花千骨定档](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E8%8A%B1%E5%8D%83%E9%AA%A8%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
