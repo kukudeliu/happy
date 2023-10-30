@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 05:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 05:35:01</h4></div>
 
 > 微博  
 
-1. [朋友30岁癌症去世生前说他反而很开心](https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B30%E5%B2%81%E7%99%8C%E7%97%87%E5%8E%BB%E4%B8%96%E7%94%9F%E5%89%8D%E8%AF%B4%E4%BB%96%E5%8F%8D%E8%80%8C%E5%BE%88%E5%BC%80%E5%BF%83%23&t=31&band_rank=1&Refer=top)<br />
-2. [金球奖](https://s.weibo.com/weibo?q=%E9%87%91%E7%90%83%E5%A5%96&t=31&band_rank=2&Refer=top)<br />
+1. [金球奖](https://s.weibo.com/weibo?q=%E9%87%91%E7%90%83%E5%A5%96&t=31&band_rank=1&Refer=top)<br />
+2. [朋友30岁癌症去世生前说他反而很开心](https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B30%E5%B2%81%E7%99%8C%E7%97%87%E5%8E%BB%E4%B8%96%E7%94%9F%E5%89%8D%E8%AF%B4%E4%BB%96%E5%8F%8D%E8%80%8C%E5%BE%88%E5%BC%80%E5%BF%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [直击第六届进博会](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%87%BB%E7%AC%AC%E5%85%AD%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [以总理办公室发言人称坚决拒绝停火](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E6%80%BB%E7%90%86%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%8F%91%E8%A8%80%E4%BA%BA%E7%A7%B0%E5%9D%9A%E5%86%B3%E6%8B%92%E7%BB%9D%E5%81%9C%E7%81%AB%23&t=31&band_rank=4&Refer=top)<br />
 5. [第一次觉得男女主be不可惜的](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%89%E5%BE%97%E7%94%B7%E5%A5%B3%E4%B8%BBbe%E4%B8%8D%E5%8F%AF%E6%83%9C%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
