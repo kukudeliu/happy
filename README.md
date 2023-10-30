@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 20:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 20:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [秦海璐录完花少瘦了18斤](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%B5%B7%E7%92%90%E5%BD%95%E5%AE%8C%E8%8A%B1%E5%B0%91%E7%98%A6%E4%BA%8618%E6%96%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [秦岚惹眼的发缝](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E6%83%B9%E7%9C%BC%E7%9A%84%E5%8F%91%E7%BC%9D&t=31&band_rank=7&Refer=top)<br />
 8. [韩庚希望能给女儿安全感](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%BA%9A%E5%B8%8C%E6%9C%9B%E8%83%BD%E7%BB%99%E5%A5%B3%E5%84%BF%E5%AE%89%E5%85%A8%E6%84%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [46名科学家获资助约11亿元](https://s.weibo.com/weibo?q=%2346%E5%90%8D%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%8E%B7%E8%B5%84%E5%8A%A9%E7%BA%A611%E4%BA%BF%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [池田纯矢涉嫌参与特殊诈骗被捕](https://s.weibo.com/weibo?q=%23%E6%B1%A0%E7%94%B0%E7%BA%AF%E7%9F%A2%E6%B6%89%E5%AB%8C%E5%8F%82%E4%B8%8E%E7%89%B9%E6%AE%8A%E8%AF%88%E9%AA%97%E8%A2%AB%E6%8D%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
