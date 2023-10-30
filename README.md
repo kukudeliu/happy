@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 19:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 19:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [中国6岁女孩打破魔方世界纪录](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD6%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%89%93%E7%A0%B4%E9%AD%94%E6%96%B9%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [郭敬明 又怎么了我的大小姐](https://s.weibo.com/weibo?q=%E9%83%AD%E6%95%AC%E6%98%8E%20%E5%8F%88%E6%80%8E%E4%B9%88%E4%BA%86%E6%88%91%E7%9A%84%E5%A4%A7%E5%B0%8F%E5%A7%90&t=31&band_rank=6&Refer=top)<br />
 7. [第一次见国产剧男主穿这么贵的衣服](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%9B%BD%E4%BA%A7%E5%89%A7%E7%94%B7%E4%B8%BB%E7%A9%BF%E8%BF%99%E4%B9%88%E8%B4%B5%E7%9A%84%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [反垄断办称正调查核实李佳琦被指控价](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%9E%84%E6%96%AD%E5%8A%9E%E7%A7%B0%E6%AD%A3%E8%B0%83%E6%9F%A5%E6%A0%B8%E5%AE%9E%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%A2%AB%E6%8C%87%E6%8E%A7%E4%BB%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [苹果中国官方首降价](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E4%B8%AD%E5%9B%BD%E5%AE%98%E6%96%B9%E9%A6%96%E9%99%8D%E4%BB%B7%23&t=31&band_rank=9&Refer=top)<br />
+8. [苹果中国官方首降价](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E4%B8%AD%E5%9B%BD%E5%AE%98%E6%96%B9%E9%A6%96%E9%99%8D%E4%BB%B7%23&t=31&band_rank=8&Refer=top)<br />
+9. [反垄断办称正调查核实李佳琦被指控价](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%9E%84%E6%96%AD%E5%8A%9E%E7%A7%B0%E6%AD%A3%E8%B0%83%E6%9F%A5%E6%A0%B8%E5%AE%9E%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%A2%AB%E6%8C%87%E6%8E%A7%E4%BB%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
