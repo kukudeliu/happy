@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 15:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 15:01:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [中使馆回应G7呼吁撤销对日进口限制](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94G7%E5%91%BC%E5%90%81%E6%92%A4%E9%94%80%E5%AF%B9%E6%97%A5%E8%BF%9B%E5%8F%A3%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [乌克兰将不再允许俄天然气过境](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%B0%86%E4%B8%8D%E5%86%8D%E5%85%81%E8%AE%B8%E4%BF%84%E5%A4%A9%E7%84%B6%E6%B0%94%E8%BF%87%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [牙医实习生花1小时为自己拔智齿](https://www.baidu.com/s?wd=%E7%89%99%E5%8C%BB%E5%AE%9E%E4%B9%A0%E7%94%9F%E8%8A%B11%E5%B0%8F%E6%97%B6%E4%B8%BA%E8%87%AA%E5%B7%B1%E6%8B%94%E6%99%BA%E9%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [喝柠檬水会长结石？](https://www.baidu.com/s?wd=%E5%96%9D%E6%9F%A0%E6%AA%AC%E6%B0%B4%E4%BC%9A%E9%95%BF%E7%BB%93%E7%9F%B3%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [全红婵退出国家队？跳水队辟谣](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%80%80%E5%87%BA%E5%9B%BD%E5%AE%B6%E9%98%9F%EF%BC%9F%E8%B7%B3%E6%B0%B4%E9%98%9F%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [中使馆回应G7呼吁撤销对日进口限制](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94G7%E5%91%BC%E5%90%81%E6%92%A4%E9%94%80%E5%AF%B9%E6%97%A5%E8%BF%9B%E5%8F%A3%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [乌克兰将不再允许俄天然气过境](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%B0%86%E4%B8%8D%E5%86%8D%E5%85%81%E8%AE%B8%E4%BF%84%E5%A4%A9%E7%84%B6%E6%B0%94%E8%BF%87%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [牙医实习生花1小时为自己拔智齿](https://www.baidu.com/s?wd=%E7%89%99%E5%8C%BB%E5%AE%9E%E4%B9%A0%E7%94%9F%E8%8A%B11%E5%B0%8F%E6%97%B6%E4%B8%BA%E8%87%AA%E5%B7%B1%E6%8B%94%E6%99%BA%E9%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [喝柠檬水会长结石？](https://www.baidu.com/s?wd=%E5%96%9D%E6%9F%A0%E6%AA%AC%E6%B0%B4%E4%BC%9A%E9%95%BF%E7%BB%93%E7%9F%B3%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [全红婵退出国家队？跳水队辟谣](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%80%80%E5%87%BA%E5%9B%BD%E5%AE%B6%E9%98%9F%EF%BC%9F%E8%B7%B3%E6%B0%B4%E9%98%9F%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
