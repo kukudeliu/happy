@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 18:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 18:40:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [张又侠：个别国家挑起代理人战争](https://www.baidu.com/s?wd=%E5%BC%A0%E5%8F%88%E4%BE%A0%EF%BC%9A%E4%B8%AA%E5%88%AB%E5%9B%BD%E5%AE%B6%E6%8C%91%E8%B5%B7%E4%BB%A3%E7%90%86%E4%BA%BA%E6%88%98%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [奥运冠军陈若琳拟进京任职](https://www.baidu.com/s?wd=%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E9%99%88%E8%8B%A5%E7%90%B3%E6%8B%9F%E8%BF%9B%E4%BA%AC%E4%BB%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [温暖赛会 美好回忆](https://www.baidu.com/s?wd=%E6%B8%A9%E6%9A%96%E8%B5%9B%E4%BC%9A+%E7%BE%8E%E5%A5%BD%E5%9B%9E%E5%BF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [“尿不湿女孩”回家了](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%BF%E4%B8%8D%E6%B9%BF%E5%A5%B3%E5%AD%A9%E2%80%9D%E5%9B%9E%E5%AE%B6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [云南边境小镇3所学校因缅甸战事停课](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E8%BE%B9%E5%A2%83%E5%B0%8F%E9%95%873%E6%89%80%E5%AD%A6%E6%A0%A1%E5%9B%A0%E7%BC%85%E7%94%B8%E6%88%98%E4%BA%8B%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [牙医实习生花1小时为自己拔智齿](https://www.baidu.com/s?wd=%E7%89%99%E5%8C%BB%E5%AE%9E%E4%B9%A0%E7%94%9F%E8%8A%B11%E5%B0%8F%E6%97%B6%E4%B8%BA%E8%87%AA%E5%B7%B1%E6%8B%94%E6%99%BA%E9%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [TST庭秘密何以“脱罪”](https://www.baidu.com/s?wd=TST%E5%BA%AD%E7%A7%98%E5%AF%86%E4%BD%95%E4%BB%A5%E2%80%9C%E8%84%B1%E7%BD%AA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [17岁高中生颈椎后凸堪比47岁](https://www.baidu.com/s?wd=17%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%E9%A2%88%E6%A4%8E%E5%90%8E%E5%87%B8%E5%A0%AA%E6%AF%9447%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [张又侠：个别国家挑起代理人战争](https://www.baidu.com/s?wd=%E5%BC%A0%E5%8F%88%E4%BE%A0%EF%BC%9A%E4%B8%AA%E5%88%AB%E5%9B%BD%E5%AE%B6%E6%8C%91%E8%B5%B7%E4%BB%A3%E7%90%86%E4%BA%BA%E6%88%98%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [奥运冠军陈若琳拟进京任职](https://www.baidu.com/s?wd=%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E9%99%88%E8%8B%A5%E7%90%B3%E6%8B%9F%E8%BF%9B%E4%BA%AC%E4%BB%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [温暖赛会 美好回忆](https://www.baidu.com/s?wd=%E6%B8%A9%E6%9A%96%E8%B5%9B%E4%BC%9A+%E7%BE%8E%E5%A5%BD%E5%9B%9E%E5%BF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [“尿不湿女孩”回家了](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%BF%E4%B8%8D%E6%B9%BF%E5%A5%B3%E5%AD%A9%E2%80%9D%E5%9B%9E%E5%AE%B6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [云南边境小镇3所学校因缅甸战事停课](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E8%BE%B9%E5%A2%83%E5%B0%8F%E9%95%873%E6%89%80%E5%AD%A6%E6%A0%A1%E5%9B%A0%E7%BC%85%E7%94%B8%E6%88%98%E4%BA%8B%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [牙医实习生花1小时为自己拔智齿](https://www.baidu.com/s?wd=%E7%89%99%E5%8C%BB%E5%AE%9E%E4%B9%A0%E7%94%9F%E8%8A%B11%E5%B0%8F%E6%97%B6%E4%B8%BA%E8%87%AA%E5%B7%B1%E6%8B%94%E6%99%BA%E9%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [TST庭秘密何以“脱罪”](https://www.baidu.com/s?wd=TST%E5%BA%AD%E7%A7%98%E5%AF%86%E4%BD%95%E4%BB%A5%E2%80%9C%E8%84%B1%E7%BD%AA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [17岁高中生颈椎后凸堪比47岁](https://www.baidu.com/s?wd=17%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%E9%A2%88%E6%A4%8E%E5%90%8E%E5%87%B8%E5%A0%AA%E6%AF%9447%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
