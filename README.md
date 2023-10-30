@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 00:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 00:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [胡锡进谈上海万圣节](https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E8%B0%88%E4%B8%8A%E6%B5%B7%E4%B8%87%E5%9C%A3%E8%8A%82%23&t=31&band_rank=6&Refer=top)<br />
 7. [钟楚曦14秒换了3套衣服](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A614%E7%A7%92%E6%8D%A2%E4%BA%863%E5%A5%97%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [iPhone13用户换15热情不高](https://s.weibo.com/weibo?q=%23iPhone13%E7%94%A8%E6%88%B7%E6%8D%A215%E7%83%AD%E6%83%85%E4%B8%8D%E9%AB%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [这样做真的会显脸小](https://s.weibo.com/weibo?q=%E8%BF%99%E6%A0%B7%E5%81%9A%E7%9C%9F%E7%9A%84%E4%BC%9A%E6%98%BE%E8%84%B8%E5%B0%8F&t=31&band_rank=9&Refer=top)<br />
+9. [警方称对权志龙的调查要从下周开始](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E7%A7%B0%E5%AF%B9%E6%9D%83%E5%BF%97%E9%BE%99%E7%9A%84%E8%B0%83%E6%9F%A5%E8%A6%81%E4%BB%8E%E4%B8%8B%E5%91%A8%E5%BC%80%E5%A7%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
