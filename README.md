@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 22:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 22:29:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [建设航天强国是我们的航天梦](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E8%88%AA%E5%A4%A9%E5%BC%BA%E5%9B%BD%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E8%88%AA%E5%A4%A9%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [苹果官方首次宣告iPhone 15系列降价](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%98%E6%96%B9%E9%A6%96%E6%AC%A1%E5%AE%A3%E5%91%8AiPhone+15%E7%B3%BB%E5%88%97%E9%99%8D%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [巴总统：巴以冲突或成全球冲突](https://www.baidu.com/s?wd=%E5%B7%B4%E6%80%BB%E7%BB%9F%EF%BC%9A%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E6%88%96%E6%88%90%E5%85%A8%E7%90%83%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [46名科学家获资助约11亿元](https://www.baidu.com/s?wd=46%E5%90%8D%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%8E%B7%E8%B5%84%E5%8A%A9%E7%BA%A611%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夸克被罚款50万](https://www.baidu.com/s?wd=%E5%A4%B8%E5%85%8B%E8%A2%AB%E7%BD%9A%E6%AC%BE50%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乌克兰将不再允许俄天然气过境](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%B0%86%E4%B8%8D%E5%86%8D%E5%85%81%E8%AE%B8%E4%BF%84%E5%A4%A9%E7%84%B6%E6%B0%94%E8%BF%87%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [朱立伦：一定会做到让台湾安全](https://www.baidu.com/s?wd=%E6%9C%B1%E7%AB%8B%E4%BC%A6%EF%BC%9A%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%81%9A%E5%88%B0%E8%AE%A9%E5%8F%B0%E6%B9%BE%E5%AE%89%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“保健石”可放心佩戴？](https://www.baidu.com/s?wd=%E2%80%9C%E4%BF%9D%E5%81%A5%E7%9F%B3%E2%80%9D%E5%8F%AF%E6%94%BE%E5%BF%83%E4%BD%A9%E6%88%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [建设航天强国是我们的航天梦](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E8%88%AA%E5%A4%A9%E5%BC%BA%E5%9B%BD%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E8%88%AA%E5%A4%A9%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [苹果官方首次宣告iPhone 15系列降价](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%98%E6%96%B9%E9%A6%96%E6%AC%A1%E5%AE%A3%E5%91%8AiPhone+15%E7%B3%BB%E5%88%97%E9%99%8D%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [巴总统：巴以冲突或成全球冲突](https://www.baidu.com/s?wd=%E5%B7%B4%E6%80%BB%E7%BB%9F%EF%BC%9A%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E6%88%96%E6%88%90%E5%85%A8%E7%90%83%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [46名科学家获资助约11亿元](https://www.baidu.com/s?wd=46%E5%90%8D%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%8E%B7%E8%B5%84%E5%8A%A9%E7%BA%A611%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夸克被罚款50万](https://www.baidu.com/s?wd=%E5%A4%B8%E5%85%8B%E8%A2%AB%E7%BD%9A%E6%AC%BE50%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乌克兰将不再允许俄天然气过境](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%B0%86%E4%B8%8D%E5%86%8D%E5%85%81%E8%AE%B8%E4%BF%84%E5%A4%A9%E7%84%B6%E6%B0%94%E8%BF%87%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [朱立伦：一定会做到让台湾安全](https://www.baidu.com/s?wd=%E6%9C%B1%E7%AB%8B%E4%BC%A6%EF%BC%9A%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%81%9A%E5%88%B0%E8%AE%A9%E5%8F%B0%E6%B9%BE%E5%AE%89%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“保健石”可放心佩戴？](https://www.baidu.com/s?wd=%E2%80%9C%E4%BF%9D%E5%81%A5%E7%9F%B3%E2%80%9D%E5%8F%AF%E6%94%BE%E5%BF%83%E4%BD%A9%E6%88%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
