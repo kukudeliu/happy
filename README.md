@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 21:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 21:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [钟楚曦圈内人缘](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E5%9C%88%E5%86%85%E4%BA%BA%E7%BC%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [看见爸爸网购记录后我羞愧了](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E8%A7%81%E7%88%B8%E7%88%B8%E7%BD%91%E8%B4%AD%E8%AE%B0%E5%BD%95%E5%90%8E%E6%88%91%E7%BE%9E%E6%84%A7%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [女毒贩为逃避刑罚6年生4娃](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%AF%92%E8%B4%A9%E4%B8%BA%E9%80%83%E9%81%BF%E5%88%91%E7%BD%9A6%E5%B9%B4%E7%94%9F4%E5%A8%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [吴宣仪根字写错](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%E6%A0%B9%E5%AD%97%E5%86%99%E9%94%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [凯特王妃的发型是怎么做的](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%9A%84%E5%8F%91%E5%9E%8B%E6%98%AF%E6%80%8E%E4%B9%88%E5%81%9A%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+8. [凯特王妃的发型是怎么做的](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%9A%84%E5%8F%91%E5%9E%8B%E6%98%AF%E6%80%8E%E4%B9%88%E5%81%9A%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
+9. [吴宣仪根字写错](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%E6%A0%B9%E5%AD%97%E5%86%99%E9%94%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
