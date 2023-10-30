@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 13:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 13:18:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [租客厕所吊顶发现10万金器竟是赃物](https://s.weibo.com/weibo?q=%23%E7%A7%9F%E5%AE%A2%E5%8E%95%E6%89%80%E5%90%8A%E9%A1%B6%E5%8F%91%E7%8E%B010%E4%B8%87%E9%87%91%E5%99%A8%E7%AB%9F%E6%98%AF%E8%B5%83%E7%89%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [电影花千骨定档](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E8%8A%B1%E5%8D%83%E9%AA%A8%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [媒体批小杨哥们低俗带货赢流量输底线](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E6%89%B9%E5%B0%8F%E6%9D%A8%E5%93%A5%E4%BB%AC%E4%BD%8E%E4%BF%97%E5%B8%A6%E8%B4%A7%E8%B5%A2%E6%B5%81%E9%87%8F%E8%BE%93%E5%BA%95%E7%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [第一批90后已成为中风高发人群](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B990%E5%90%8E%E5%B7%B2%E6%88%90%E4%B8%BA%E4%B8%AD%E9%A3%8E%E9%AB%98%E5%8F%91%E4%BA%BA%E7%BE%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [猫咖内部培训曝光](https://s.weibo.com/weibo?q=%E7%8C%AB%E5%92%96%E5%86%85%E9%83%A8%E5%9F%B9%E8%AE%AD%E6%9B%9D%E5%85%89&t=31&band_rank=9&Refer=top)<br />
+8. [猫咖内部培训曝光](https://s.weibo.com/weibo?q=%E7%8C%AB%E5%92%96%E5%86%85%E9%83%A8%E5%9F%B9%E8%AE%AD%E6%9B%9D%E5%85%89&t=31&band_rank=8&Refer=top)<br />
+9. [第一批90后已成为中风高发人群](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B990%E5%90%8E%E5%B7%B2%E6%88%90%E4%B8%BA%E4%B8%AD%E9%A3%8E%E9%AB%98%E5%8F%91%E4%BA%BA%E7%BE%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
