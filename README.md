@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 10:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 10:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [幼童卡喉脸已发紫护士45秒极速营救](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E7%AB%A5%E5%8D%A1%E5%96%89%E8%84%B8%E5%B7%B2%E5%8F%91%E7%B4%AB%E6%8A%A4%E5%A3%AB45%E7%A7%92%E6%9E%81%E9%80%9F%E8%90%A5%E6%95%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [iPhone15价格跳水](https://s.weibo.com/weibo?q=%23iPhone15%E4%BB%B7%E6%A0%BC%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [家里已准备好迎接3名中国人回地球](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%87%8C%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E8%BF%8E%E6%8E%A53%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9B%9E%E5%9C%B0%E7%90%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [英国29岁冰球运动员遭冰刀割喉去世](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD29%E5%B2%81%E5%86%B0%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E9%81%AD%E5%86%B0%E5%88%80%E5%89%B2%E5%96%89%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [陕西3所大学的3个专业世界第一](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF3%E6%89%80%E5%A4%A7%E5%AD%A6%E7%9A%843%E4%B8%AA%E4%B8%93%E4%B8%9A%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
