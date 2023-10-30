@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 15:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 15:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [科学家警告防晒霜悖论](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%AD%A6%E5%91%8A%E9%98%B2%E6%99%92%E9%9C%9C%E6%82%96%E8%AE%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [网友裸辞炒股5个月亏损48%](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%A3%B8%E8%BE%9E%E7%82%92%E8%82%A15%E4%B8%AA%E6%9C%88%E4%BA%8F%E6%8D%9F48%25%23&t=31&band_rank=6&Refer=top)<br />
 7. [小杨哥徒弟七老板回应小黄带货被指低俗](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E4%B8%83%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E5%B0%8F%E9%BB%84%E5%B8%A6%E8%B4%A7%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [小S许雅钧cos](https://s.weibo.com/weibo?q=%E5%B0%8FS%E8%AE%B8%E9%9B%85%E9%92%A7cos&t=31&band_rank=8&Refer=top)<br />
-9. [淡颜不适合画浓妆](https://s.weibo.com/weibo?q=%E6%B7%A1%E9%A2%9C%E4%B8%8D%E9%80%82%E5%90%88%E7%94%BB%E6%B5%93%E5%A6%86&t=31&band_rank=9&Refer=top)<br />
+8. [淡颜不适合画浓妆](https://s.weibo.com/weibo?q=%E6%B7%A1%E9%A2%9C%E4%B8%8D%E9%80%82%E5%90%88%E7%94%BB%E6%B5%93%E5%A6%86&t=31&band_rank=8&Refer=top)<br />
+9. [全红婵已返京随国家队训练](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%B7%B2%E8%BF%94%E4%BA%AC%E9%9A%8F%E5%9B%BD%E5%AE%B6%E9%98%9F%E8%AE%AD%E7%BB%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
