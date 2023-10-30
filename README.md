@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 00:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 00:39:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [建设航天强国是我们的航天梦](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E8%88%AA%E5%A4%A9%E5%BC%BA%E5%9B%BD%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E8%88%AA%E5%A4%A9%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央媒：“鼻吸能量棒”该管管了！](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E2%80%9C%E9%BC%BB%E5%90%B8%E8%83%BD%E9%87%8F%E6%A3%92%E2%80%9D%E8%AF%A5%E7%AE%A1%E7%AE%A1%E4%BA%86%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被哈马斯绑架的德以双国籍女子已死](https://www.baidu.com/s?wd=%E8%A2%AB%E5%93%88%E9%A9%AC%E6%96%AF%E7%BB%91%E6%9E%B6%E7%9A%84%E5%BE%B7%E4%BB%A5%E5%8F%8C%E5%9B%BD%E7%B1%8D%E5%A5%B3%E5%AD%90%E5%B7%B2%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [百余名家长蛋仔派对维权涉资超400万](https://www.baidu.com/s?wd=%E7%99%BE%E4%BD%99%E5%90%8D%E5%AE%B6%E9%95%BF%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%E7%BB%B4%E6%9D%83%E6%B6%89%E8%B5%84%E8%B6%85400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [农民工车站内把禁带工具砸烂](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E5%B7%A5%E8%BD%A6%E7%AB%99%E5%86%85%E6%8A%8A%E7%A6%81%E5%B8%A6%E5%B7%A5%E5%85%B7%E7%A0%B8%E7%83%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网友担心向佐偶遇山寨版向太](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8B%85%E5%BF%83%E5%90%91%E4%BD%90%E5%81%B6%E9%81%87%E5%B1%B1%E5%AF%A8%E7%89%88%E5%90%91%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [研究表明金星早期或能孕育生命](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E8%A1%A8%E6%98%8E%E9%87%91%E6%98%9F%E6%97%A9%E6%9C%9F%E6%88%96%E8%83%BD%E5%AD%95%E8%82%B2%E7%94%9F%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“保健石”可放心佩戴？](https://www.baidu.com/s?wd=%E2%80%9C%E4%BF%9D%E5%81%A5%E7%9F%B3%E2%80%9D%E5%8F%AF%E6%94%BE%E5%BF%83%E4%BD%A9%E6%88%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [建设航天强国是我们的航天梦](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E8%88%AA%E5%A4%A9%E5%BC%BA%E5%9B%BD%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E8%88%AA%E5%A4%A9%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央媒：“鼻吸能量棒”该管管了！](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E2%80%9C%E9%BC%BB%E5%90%B8%E8%83%BD%E9%87%8F%E6%A3%92%E2%80%9D%E8%AF%A5%E7%AE%A1%E7%AE%A1%E4%BA%86%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被哈马斯绑架的德以双国籍女子已死](https://www.baidu.com/s?wd=%E8%A2%AB%E5%93%88%E9%A9%AC%E6%96%AF%E7%BB%91%E6%9E%B6%E7%9A%84%E5%BE%B7%E4%BB%A5%E5%8F%8C%E5%9B%BD%E7%B1%8D%E5%A5%B3%E5%AD%90%E5%B7%B2%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [百余名家长蛋仔派对维权涉资超400万](https://www.baidu.com/s?wd=%E7%99%BE%E4%BD%99%E5%90%8D%E5%AE%B6%E9%95%BF%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%E7%BB%B4%E6%9D%83%E6%B6%89%E8%B5%84%E8%B6%85400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [农民工车站内把禁带工具砸烂](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E5%B7%A5%E8%BD%A6%E7%AB%99%E5%86%85%E6%8A%8A%E7%A6%81%E5%B8%A6%E5%B7%A5%E5%85%B7%E7%A0%B8%E7%83%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网友担心向佐偶遇山寨版向太](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8B%85%E5%BF%83%E5%90%91%E4%BD%90%E5%81%B6%E9%81%87%E5%B1%B1%E5%AF%A8%E7%89%88%E5%90%91%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [研究表明金星早期或能孕育生命](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E8%A1%A8%E6%98%8E%E9%87%91%E6%98%9F%E6%97%A9%E6%9C%9F%E6%88%96%E8%83%BD%E5%AD%95%E8%82%B2%E7%94%9F%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“保健石”可放心佩戴？](https://www.baidu.com/s?wd=%E2%80%9C%E4%BF%9D%E5%81%A5%E7%9F%B3%E2%80%9D%E5%8F%AF%E6%94%BE%E5%BF%83%E4%BD%A9%E6%88%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
