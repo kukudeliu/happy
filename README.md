@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 07:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 07:39:01</h4></div>
 
 > 微博  
 
 1. [朋友30岁癌症去世生前说他反而很开心](https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B30%E5%B2%81%E7%99%8C%E7%97%87%E5%8E%BB%E4%B8%96%E7%94%9F%E5%89%8D%E8%AF%B4%E4%BB%96%E5%8F%8D%E8%80%8C%E5%BE%88%E5%BC%80%E5%BF%83%23&t=31&band_rank=1&Refer=top)<br />
 2. [梅西获得第八座金球奖](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%8E%B7%E5%BE%97%E7%AC%AC%E5%85%AB%E5%BA%A7%E9%87%91%E7%90%83%E5%A5%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [直击第六届进博会](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%87%BB%E7%AC%AC%E5%85%AD%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [第一次觉得男女主be不可惜的](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%89%E5%BE%97%E7%94%B7%E5%A5%B3%E4%B8%BBbe%E4%B8%8D%E5%8F%AF%E6%83%9C%E7%9A%84%23&t=31&band_rank=4&Refer=top)<br />
-5. [花西子跌出天猫双十一彩妆预售榜前20](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E8%B7%8C%E5%87%BA%E5%A4%A9%E7%8C%AB%E5%8F%8C%E5%8D%81%E4%B8%80%E5%BD%A9%E5%A6%86%E9%A2%84%E5%94%AE%E6%A6%9C%E5%89%8D20%23&t=31&band_rank=5&Refer=top)<br />
+4. [花西子跌出天猫双十一彩妆预售榜前20](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E8%B7%8C%E5%87%BA%E5%A4%A9%E7%8C%AB%E5%8F%8C%E5%8D%81%E4%B8%80%E5%BD%A9%E5%A6%86%E9%A2%84%E5%94%AE%E6%A6%9C%E5%89%8D20%23&t=31&band_rank=4&Refer=top)<br />
+5. [第一次觉得男女主be不可惜的](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%89%E5%BE%97%E7%94%B7%E5%A5%B3%E4%B8%BBbe%E4%B8%8D%E5%8F%AF%E6%83%9C%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
 6. [你用过夸克吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%94%A8%E8%BF%87%E5%A4%B8%E5%85%8B%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [钟楚曦14秒换了3套衣服](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A614%E7%A7%92%E6%8D%A2%E4%BA%863%E5%A5%97%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [大牌化妆品价格集体跳水看齐国货](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%8C%E5%8C%96%E5%A6%86%E5%93%81%E4%BB%B7%E6%A0%BC%E9%9B%86%E4%BD%93%E8%B7%B3%E6%B0%B4%E7%9C%8B%E9%BD%90%E5%9B%BD%E8%B4%A7%23&t=31&band_rank=8&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [梅西第8次获金球奖](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E7%AC%AC8%E6%AC%A1%E8%8E%B7%E9%87%91%E7%90%83%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [苹果官方iPhone以旧换新价格暴涨](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%98%E6%96%B9iPhone%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [被哈马斯绑架的德以双国籍女子已死](https://www.baidu.com/s?wd=%E8%A2%AB%E5%93%88%E9%A9%AC%E6%96%AF%E7%BB%91%E6%9E%B6%E7%9A%84%E5%BE%B7%E4%BB%A5%E5%8F%8C%E5%9B%BD%E7%B1%8D%E5%A5%B3%E5%AD%90%E5%B7%B2%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [原海军副司令在北京香山论坛表态](https://www.baidu.com/s?wd=%E5%8E%9F%E6%B5%B7%E5%86%9B%E5%89%AF%E5%8F%B8%E4%BB%A4%E5%9C%A8%E5%8C%97%E4%BA%AC%E9%A6%99%E5%B1%B1%E8%AE%BA%E5%9D%9B%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子醉驾被查想拿执法记录仪自拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%86%89%E9%A9%BE%E8%A2%AB%E6%9F%A5%E6%83%B3%E6%8B%BF%E6%89%A7%E6%B3%95%E8%AE%B0%E5%BD%95%E4%BB%AA%E8%87%AA%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“保健石”可放心佩戴？](https://www.baidu.com/s?wd=%E2%80%9C%E4%BF%9D%E5%81%A5%E7%9F%B3%E2%80%9D%E5%8F%AF%E6%94%BE%E5%BF%83%E4%BD%A9%E6%88%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [梅西第8次获金球奖](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E7%AC%AC8%E6%AC%A1%E8%8E%B7%E9%87%91%E7%90%83%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [苹果官方iPhone以旧换新价格暴涨](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%98%E6%96%B9iPhone%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [被哈马斯绑架的德以双国籍女子已死](https://www.baidu.com/s?wd=%E8%A2%AB%E5%93%88%E9%A9%AC%E6%96%AF%E7%BB%91%E6%9E%B6%E7%9A%84%E5%BE%B7%E4%BB%A5%E5%8F%8C%E5%9B%BD%E7%B1%8D%E5%A5%B3%E5%AD%90%E5%B7%B2%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [原海军副司令在北京香山论坛表态](https://www.baidu.com/s?wd=%E5%8E%9F%E6%B5%B7%E5%86%9B%E5%89%AF%E5%8F%B8%E4%BB%A4%E5%9C%A8%E5%8C%97%E4%BA%AC%E9%A6%99%E5%B1%B1%E8%AE%BA%E5%9D%9B%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子醉驾被查想拿执法记录仪自拍](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%86%89%E9%A9%BE%E8%A2%AB%E6%9F%A5%E6%83%B3%E6%8B%BF%E6%89%A7%E6%B3%95%E8%AE%B0%E5%BD%95%E4%BB%AA%E8%87%AA%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“保健石”可放心佩戴？](https://www.baidu.com/s?wd=%E2%80%9C%E4%BF%9D%E5%81%A5%E7%9F%B3%E2%80%9D%E5%8F%AF%E6%94%BE%E5%BF%83%E4%BD%A9%E6%88%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
