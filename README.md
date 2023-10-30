@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 21:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-30 21:34:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [云南边境3所学校因缅甸战事停课](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E8%BE%B9%E5%A2%833%E6%89%80%E5%AD%A6%E6%A0%A1%E5%9B%A0%E7%BC%85%E7%94%B8%E6%88%98%E4%BA%8B%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [建设航天强国是我们的航天梦](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E8%88%AA%E5%A4%A9%E5%BC%BA%E5%9B%BD%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E8%88%AA%E5%A4%A9%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [苹果官方首次宣告iPhone 15系列降价](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%98%E6%96%B9%E9%A6%96%E6%AC%A1%E5%AE%A3%E5%91%8AiPhone+15%E7%B3%BB%E5%88%97%E9%99%8D%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [以坦克向疑似民用车辆开火](https://www.baidu.com/s?wd=%E4%BB%A5%E5%9D%A6%E5%85%8B%E5%90%91%E7%96%91%E4%BC%BC%E6%B0%91%E7%94%A8%E8%BD%A6%E8%BE%86%E5%BC%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [北京国安回应王刚受伤情况](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89%E5%9B%9E%E5%BA%94%E7%8E%8B%E5%88%9A%E5%8F%97%E4%BC%A4%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [巴总统：巴以冲突或成全球冲突](https://www.baidu.com/s?wd=%E5%B7%B4%E6%80%BB%E7%BB%9F%EF%BC%9A%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E6%88%96%E6%88%90%E5%85%A8%E7%90%83%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [电影版花千骨定档](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E7%89%88%E8%8A%B1%E5%8D%83%E9%AA%A8%E5%AE%9A%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [研究表明金星早期或能孕育生命](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E8%A1%A8%E6%98%8E%E9%87%91%E6%98%9F%E6%97%A9%E6%9C%9F%E6%88%96%E8%83%BD%E5%AD%95%E8%82%B2%E7%94%9F%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“保健石”可放心佩戴？](https://www.baidu.com/s?wd=%E2%80%9C%E4%BF%9D%E5%81%A5%E7%9F%B3%E2%80%9D%E5%8F%AF%E6%94%BE%E5%BF%83%E4%BD%A9%E6%88%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [云南边境3所学校因缅甸战事停课](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E8%BE%B9%E5%A2%833%E6%89%80%E5%AD%A6%E6%A0%A1%E5%9B%A0%E7%BC%85%E7%94%B8%E6%88%98%E4%BA%8B%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [建设航天强国是我们的航天梦](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E8%88%AA%E5%A4%A9%E5%BC%BA%E5%9B%BD%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E8%88%AA%E5%A4%A9%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [苹果官方首次宣告iPhone 15系列降价](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%98%E6%96%B9%E9%A6%96%E6%AC%A1%E5%AE%A3%E5%91%8AiPhone+15%E7%B3%BB%E5%88%97%E9%99%8D%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [以坦克向疑似民用车辆开火](https://www.baidu.com/s?wd=%E4%BB%A5%E5%9D%A6%E5%85%8B%E5%90%91%E7%96%91%E4%BC%BC%E6%B0%91%E7%94%A8%E8%BD%A6%E8%BE%86%E5%BC%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [北京国安回应王刚受伤情况](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89%E5%9B%9E%E5%BA%94%E7%8E%8B%E5%88%9A%E5%8F%97%E4%BC%A4%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [巴总统：巴以冲突或成全球冲突](https://www.baidu.com/s?wd=%E5%B7%B4%E6%80%BB%E7%BB%9F%EF%BC%9A%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E6%88%96%E6%88%90%E5%85%A8%E7%90%83%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [电影版花千骨定档](https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E7%89%88%E8%8A%B1%E5%8D%83%E9%AA%A8%E5%AE%9A%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [研究表明金星早期或能孕育生命](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E8%A1%A8%E6%98%8E%E9%87%91%E6%98%9F%E6%97%A9%E6%9C%9F%E6%88%96%E8%83%BD%E5%AD%95%E8%82%B2%E7%94%9F%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“保健石”可放心佩戴？](https://www.baidu.com/s?wd=%E2%80%9C%E4%BF%9D%E5%81%A5%E7%9F%B3%E2%80%9D%E5%8F%AF%E6%94%BE%E5%BF%83%E4%BD%A9%E6%88%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
