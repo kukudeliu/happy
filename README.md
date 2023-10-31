@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 18:24:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 18:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李佳琦谈未来两年规划](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%B0%88%E6%9C%AA%E6%9D%A5%E4%B8%A4%E5%B9%B4%E8%A7%84%E5%88%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [90后夫妻深山种出火龙果](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%A4%AB%E5%A6%BB%E6%B7%B1%E5%B1%B1%E7%A7%8D%E5%87%BA%E7%81%AB%E9%BE%99%E6%9E%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [重度抑郁女生被医生建议断亲](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E6%96%AD%E4%BA%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [警方不予公开中学男生被逼吃粪案件](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E4%B8%8D%E4%BA%88%E5%85%AC%E5%BC%80%E4%B8%AD%E5%AD%A6%E7%94%B7%E7%94%9F%E8%A2%AB%E9%80%BC%E5%90%83%E7%B2%AA%E6%A1%88%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [为保护50米齐长城山东花4亿修隧道](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BF%9D%E6%8A%A450%E7%B1%B3%E9%BD%90%E9%95%BF%E5%9F%8E%E5%B1%B1%E4%B8%9C%E8%8A%B14%E4%BA%BF%E4%BF%AE%E9%9A%A7%E9%81%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
