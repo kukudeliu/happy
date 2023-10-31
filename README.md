@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 02:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 02:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [退款](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=6&Refer=top)<br />
 7. [秦岚痛失真名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%97%9B%E5%A4%B1%E7%9C%9F%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [李金铭参加明星到我家错过花少](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%87%91%E9%93%AD%E5%8F%82%E5%8A%A0%E6%98%8E%E6%98%9F%E5%88%B0%E6%88%91%E5%AE%B6%E9%94%99%E8%BF%87%E8%8A%B1%E5%B0%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [八年花了12万网购的感受](https://s.weibo.com/weibo?q=%23%E5%85%AB%E5%B9%B4%E8%8A%B1%E4%BA%8612%E4%B8%87%E7%BD%91%E8%B4%AD%E7%9A%84%E6%84%9F%E5%8F%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [微信新增独立发送按钮](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%A2%9E%E7%8B%AC%E7%AB%8B%E5%8F%91%E9%80%81%E6%8C%89%E9%92%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
