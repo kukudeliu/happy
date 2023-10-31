@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 12:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 12:12:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [外卖漏送米饭被要求191元整单退款](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E6%BC%8F%E9%80%81%E7%B1%B3%E9%A5%AD%E8%A2%AB%E8%A6%81%E6%B1%82191%E5%85%83%E6%95%B4%E5%8D%95%E9%80%80%E6%AC%BE%23&t=31&band_rank=2&Refer=top)<br />
 3. [直击第六届进博会](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%87%BB%E7%AC%AC%E5%85%AD%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [头发夹在耳后显脸小的正确方法](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E5%A4%B9%E5%9C%A8%E8%80%B3%E5%90%8E%E6%98%BE%E8%84%B8%E5%B0%8F%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%96%B9%E6%B3%95&t=31&band_rank=4&Refer=top)<br />
-5. [藏海戏麟改名 藏海传](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E6%88%8F%E9%BA%9F%E6%94%B9%E5%90%8D%20%E8%97%8F%E6%B5%B7%E4%BC%A0&t=31&band_rank=5&Refer=top)<br />
+5. [重度抑郁女生被医生建议断亲](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E6%96%AD%E4%BA%B2%23&t=31&band_rank=5&Refer=top)<br />
 6. [加沙孕妇在无麻醉下接受剖腹产](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%AD%95%E5%A6%87%E5%9C%A8%E6%97%A0%E9%BA%BB%E9%86%89%E4%B8%8B%E6%8E%A5%E5%8F%97%E5%89%96%E8%85%B9%E4%BA%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [花西子跌出天猫双十一彩妆预售榜前20](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E8%B7%8C%E5%87%BA%E5%A4%A9%E7%8C%AB%E5%8F%8C%E5%8D%81%E4%B8%80%E5%BD%A9%E5%A6%86%E9%A2%84%E5%94%AE%E6%A6%9C%E5%89%8D20%23&t=31&band_rank=7&Refer=top)<br />
-8. [朋友30岁癌症去世生前说他反而很开心](https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B30%E5%B2%81%E7%99%8C%E7%97%87%E5%8E%BB%E4%B8%96%E7%94%9F%E5%89%8D%E8%AF%B4%E4%BB%96%E5%8F%8D%E8%80%8C%E5%BE%88%E5%BC%80%E5%BF%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [cos明星上街会被发律师函吗](https://s.weibo.com/weibo?q=%23cos%E6%98%8E%E6%98%9F%E4%B8%8A%E8%A1%97%E4%BC%9A%E8%A2%AB%E5%8F%91%E5%BE%8B%E5%B8%88%E5%87%BD%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+7. [藏海戏麟改名 藏海传](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E6%88%8F%E9%BA%9F%E6%94%B9%E5%90%8D%20%E8%97%8F%E6%B5%B7%E4%BC%A0&t=31&band_rank=7&Refer=top)<br />
+8. [花西子跌出天猫双十一彩妆预售榜前20](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E8%B7%8C%E5%87%BA%E5%A4%A9%E7%8C%AB%E5%8F%8C%E5%8D%81%E4%B8%80%E5%BD%A9%E5%A6%86%E9%A2%84%E5%94%AE%E6%A6%9C%E5%89%8D20%23&t=31&band_rank=8&Refer=top)<br />
+9. [朋友30岁癌症去世生前说他反而很开心](https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B30%E5%B2%81%E7%99%8C%E7%97%87%E5%8E%BB%E4%B8%96%E7%94%9F%E5%89%8D%E8%AF%B4%E4%BB%96%E5%8F%8D%E8%80%8C%E5%BE%88%E5%BC%80%E5%BF%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
