@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 07:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 07:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [退款](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=6&Refer=top)<br />
 7. [赵昭仪一晚上找了秦岚辛芷蕾五次](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%98%AD%E4%BB%AA%E4%B8%80%E6%99%9A%E4%B8%8A%E6%89%BE%E4%BA%86%E7%A7%A6%E5%B2%9A%E8%BE%9B%E8%8A%B7%E8%95%BE%E4%BA%94%E6%AC%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈采尼 乐坛传奇穿我做的衣服重返乐坛](https://s.weibo.com/weibo?q=%E9%99%88%E9%87%87%E5%B0%BC%20%E4%B9%90%E5%9D%9B%E4%BC%A0%E5%A5%87%E7%A9%BF%E6%88%91%E5%81%9A%E7%9A%84%E8%A1%A3%E6%9C%8D%E9%87%8D%E8%BF%94%E4%B9%90%E5%9D%9B&t=31&band_rank=8&Refer=top)<br />
-9. [国考 验证码](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%20%E9%AA%8C%E8%AF%81%E7%A0%81&t=31&band_rank=9&Refer=top)<br />
+9. [国考抢考点](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%E6%8A%A2%E8%80%83%E7%82%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
