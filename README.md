@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 15:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 15:53:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [李佳琦回应最低价争夺](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9B%9E%E5%BA%94%E6%9C%80%E4%BD%8E%E4%BB%B7%E4%BA%89%E5%A4%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [重度抑郁女生被医生建议断亲](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E6%96%AD%E4%BA%B2%23&t=31&band_rank=5&Refer=top)<br />
 6. [头发夹在耳后显脸小的正确方法](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E5%A4%B9%E5%9C%A8%E8%80%B3%E5%90%8E%E6%98%BE%E8%84%B8%E5%B0%8F%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%96%B9%E6%B3%95&t=31&band_rank=6&Refer=top)<br />
-7. [中国籍苹果女程序员在美飙车致男伴死亡](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%B1%8D%E8%8B%B9%E6%9E%9C%E5%A5%B3%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9C%A8%E7%BE%8E%E9%A3%99%E8%BD%A6%E8%87%B4%E7%94%B7%E4%BC%B4%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [浪姐2024拟邀嘉宾](https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%902024%E6%8B%9F%E9%82%80%E5%98%89%E5%AE%BE&t=31&band_rank=8&Refer=top)<br />
+7. [浪姐2024拟邀嘉宾](https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%902024%E6%8B%9F%E9%82%80%E5%98%89%E5%AE%BE&t=31&band_rank=7&Refer=top)<br />
+8. [中国籍苹果女程序员在美飙车致男伴死亡](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%B1%8D%E8%8B%B9%E6%9E%9C%E5%A5%B3%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9C%A8%E7%BE%8E%E9%A3%99%E8%BD%A6%E8%87%B4%E7%94%B7%E4%BC%B4%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [科学家找到癌细胞的生死开关](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%89%BE%E5%88%B0%E7%99%8C%E7%BB%86%E8%83%9E%E7%9A%84%E7%94%9F%E6%AD%BB%E5%BC%80%E5%85%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
