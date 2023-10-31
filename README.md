@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 01:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 01:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [退款](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=6&Refer=top)<br />
 7. [洗发水](https://s.weibo.com/weibo?q=%E6%B4%97%E5%8F%91%E6%B0%B4&t=31&band_rank=7&Refer=top)<br />
 8. [秦岚痛失真名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%97%9B%E5%A4%B1%E7%9C%9F%E5%90%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [她一句谢谢他就红了眼眶](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%B8%80%E5%8F%A5%E8%B0%A2%E8%B0%A2%E4%BB%96%E5%B0%B1%E7%BA%A2%E4%BA%86%E7%9C%BC%E7%9C%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [李金铭参加明星到我家错过花少](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%87%91%E9%93%AD%E5%8F%82%E5%8A%A0%E6%98%8E%E6%98%9F%E5%88%B0%E6%88%91%E5%AE%B6%E9%94%99%E8%BF%87%E8%8A%B1%E5%B0%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
