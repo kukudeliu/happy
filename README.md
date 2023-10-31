@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 11:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 11:09:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [建设航天强国是我们的航天梦](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E8%88%AA%E5%A4%A9%E5%BC%BA%E5%9B%BD%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E8%88%AA%E5%A4%A9%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家称房价大幅下跌老百姓最吃亏](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%88%BF%E4%BB%B7%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C%E8%80%81%E7%99%BE%E5%A7%93%E6%9C%80%E5%90%83%E4%BA%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [廊坊地震](https://www.baidu.com/s?wd=%E5%BB%8A%E5%9D%8A%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [爸爸心情不好被女儿“教育”](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%BF%83%E6%83%85%E4%B8%8D%E5%A5%BD%E8%A2%AB%E5%A5%B3%E5%84%BF%E2%80%9C%E6%95%99%E8%82%B2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胡锡进谈上海万圣节：洋节中国化](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%B0%88%E4%B8%8A%E6%B5%B7%E4%B8%87%E5%9C%A3%E8%8A%82%EF%BC%9A%E6%B4%8B%E8%8A%82%E4%B8%AD%E5%9B%BD%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [瑞丽教体局回应因缅甸战事停课](https://www.baidu.com/s?wd=%E7%91%9E%E4%B8%BD%E6%95%99%E4%BD%93%E5%B1%80%E5%9B%9E%E5%BA%94%E5%9B%A0%E7%BC%85%E7%94%B8%E6%88%98%E4%BA%8B%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [爸爸心情不好被女儿“教育”](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%BF%83%E6%83%85%E4%B8%8D%E5%A5%BD%E8%A2%AB%E5%A5%B3%E5%84%BF%E2%80%9C%E6%95%99%E8%82%B2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣有人贩子迷晕小孩](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E6%9C%89%E4%BA%BA%E8%B4%A9%E5%AD%90%E8%BF%B7%E6%99%95%E5%B0%8F%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [建设航天强国是我们的航天梦](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E8%88%AA%E5%A4%A9%E5%BC%BA%E5%9B%BD%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E8%88%AA%E5%A4%A9%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家称房价大幅下跌老百姓最吃亏](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%88%BF%E4%BB%B7%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C%E8%80%81%E7%99%BE%E5%A7%93%E6%9C%80%E5%90%83%E4%BA%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [廊坊地震](https://www.baidu.com/s?wd=%E5%BB%8A%E5%9D%8A%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [爸爸心情不好被女儿“教育”](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%BF%83%E6%83%85%E4%B8%8D%E5%A5%BD%E8%A2%AB%E5%A5%B3%E5%84%BF%E2%80%9C%E6%95%99%E8%82%B2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胡锡进谈上海万圣节：洋节中国化](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%B0%88%E4%B8%8A%E6%B5%B7%E4%B8%87%E5%9C%A3%E8%8A%82%EF%BC%9A%E6%B4%8B%E8%8A%82%E4%B8%AD%E5%9B%BD%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [瑞丽教体局回应因缅甸战事停课](https://www.baidu.com/s?wd=%E7%91%9E%E4%B8%BD%E6%95%99%E4%BD%93%E5%B1%80%E5%9B%9E%E5%BA%94%E5%9B%A0%E7%BC%85%E7%94%B8%E6%88%98%E4%BA%8B%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [爸爸心情不好被女儿“教育”](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%BF%83%E6%83%85%E4%B8%8D%E5%A5%BD%E8%A2%AB%E5%A5%B3%E5%84%BF%E2%80%9C%E6%95%99%E8%82%B2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣有人贩子迷晕小孩](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E6%9C%89%E4%BA%BA%E8%B4%A9%E5%AD%90%E8%BF%B7%E6%99%95%E5%B0%8F%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
