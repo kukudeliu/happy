@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 23:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 23:49:01</h4></div>
 
 > 微博  
 
-1. [李克强同志遗体11月2日火化](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%9311%E6%9C%882%E6%97%A5%E7%81%AB%E5%8C%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [7款APP全网下架](https://s.weibo.com/weibo?q=%237%E6%AC%BEAPP%E5%85%A8%E7%BD%91%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=2&Refer=top)<br />
+1. [7款APP全网下架](https://s.weibo.com/weibo?q=%237%E6%AC%BEAPP%E5%85%A8%E7%BD%91%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=1&Refer=top)<br />
+2. [微信新增独立发送按钮](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%A2%9E%E7%8B%AC%E7%AB%8B%E5%8F%91%E9%80%81%E6%8C%89%E9%92%AE%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国航天员从1人变成了大家庭](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E4%BB%8E1%E4%BA%BA%E5%8F%98%E6%88%90%E4%BA%86%E5%A4%A7%E5%AE%B6%E5%BA%AD%23&t=31&band_rank=3&Refer=top)<br />
 4. [向佐 我把假向太抓来直播间啦](https://s.weibo.com/weibo?q=%E5%90%91%E4%BD%90%20%E6%88%91%E6%8A%8A%E5%81%87%E5%90%91%E5%A4%AA%E6%8A%93%E6%9D%A5%E7%9B%B4%E6%92%AD%E9%97%B4%E5%95%A6&t=31&band_rank=4&Refer=top)<br />
-5. [微信新增独立发送按钮](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%A2%9E%E7%8B%AC%E7%AB%8B%E5%8F%91%E9%80%81%E6%8C%89%E9%92%AE%23&t=31&band_rank=5&Refer=top)<br />
+5. [秦岚痛失真名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%97%9B%E5%A4%B1%E7%9C%9F%E5%90%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [退款](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=6&Refer=top)<br />
-7. [秦岚痛失真名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%97%9B%E5%A4%B1%E7%9C%9F%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
+7. [李克强同志遗体11月2日火化](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%9311%E6%9C%882%E6%97%A5%E7%81%AB%E5%8C%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [大吉岭茶与无人区玫瑰](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%90%89%E5%B2%AD%E8%8C%B6%E4%B8%8E%E6%97%A0%E4%BA%BA%E5%8C%BA%E7%8E%AB%E7%91%B0&t=31&band_rank=8&Refer=top)<br />
 9. [以色列](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=9&Refer=top)<br />
 
