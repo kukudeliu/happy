@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 21:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 21:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [佛山电翰已出现人传人](https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%B1%B1%E7%94%B5%E7%BF%B0%E5%B7%B2%E5%87%BA%E7%8E%B0%E4%BA%BA%E4%BC%A0%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [24岁男子3颗烂牙一直没治感染大脑](https://s.weibo.com/weibo?q=%2324%E5%B2%81%E7%94%B7%E5%AD%903%E9%A2%97%E7%83%82%E7%89%99%E4%B8%80%E7%9B%B4%E6%B2%A1%E6%B2%BB%E6%84%9F%E6%9F%93%E5%A4%A7%E8%84%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [以爱为营](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5&t=31&band_rank=8&Refer=top)<br />
-9. [官方回应6岁双胞胎打架姐姐摔倒离世](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%946%E5%B2%81%E5%8F%8C%E8%83%9E%E8%83%8E%E6%89%93%E6%9E%B6%E5%A7%90%E5%A7%90%E6%91%94%E5%80%92%E7%A6%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [三部门联合约谈华侨城](https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%83%A8%E9%97%A8%E8%81%94%E5%90%88%E7%BA%A6%E8%B0%88%E5%8D%8E%E4%BE%A8%E5%9F%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
