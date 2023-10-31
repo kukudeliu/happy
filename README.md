@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 08:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 08:19:01</h4></div>
 
 > 微博  
 
 1. [花西子跌出天猫双十一彩妆预售榜前20](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E8%B7%8C%E5%87%BA%E5%A4%A9%E7%8C%AB%E5%8F%8C%E5%8D%81%E4%B8%80%E5%BD%A9%E5%A6%86%E9%A2%84%E5%94%AE%E6%A6%9C%E5%89%8D20%23&t=31&band_rank=1&Refer=top)<br />
-2. [朋友30岁癌症去世生前说他反而很开心](https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B30%E5%B2%81%E7%99%8C%E7%97%87%E5%8E%BB%E4%B8%96%E7%94%9F%E5%89%8D%E8%AF%B4%E4%BB%96%E5%8F%8D%E8%80%8C%E5%BE%88%E5%BC%80%E5%BF%83%23&t=31&band_rank=2&Refer=top)<br />
+2. [苹果发布会](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=2&Refer=top)<br />
 3. [直击第六届进博会](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%87%BB%E7%AC%AC%E5%85%AD%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [苹果发布会](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=4&Refer=top)<br />
+4. [朋友30岁癌症去世生前说他反而很开心](https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B30%E5%B2%81%E7%99%8C%E7%97%87%E5%8E%BB%E4%B8%96%E7%94%9F%E5%89%8D%E8%AF%B4%E4%BB%96%E5%8F%8D%E8%80%8C%E5%BE%88%E5%BC%80%E5%BF%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [第一次觉得男女主be不可惜的](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%89%E5%BE%97%E7%94%B7%E5%A5%B3%E4%B8%BBbe%E4%B8%8D%E5%8F%AF%E6%83%9C%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
 6. [梅西获得第八座金球奖](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%8E%B7%E5%BE%97%E7%AC%AC%E5%85%AB%E5%BA%A7%E9%87%91%E7%90%83%E5%A5%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [夸克](https://s.weibo.com/weibo?q=%E5%A4%B8%E5%85%8B&t=31&band_rank=7&Refer=top)<br />
