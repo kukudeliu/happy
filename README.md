@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 16:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 16:47:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [重度抑郁女生被医生建议断亲](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E6%96%AD%E4%BA%B2%23&t=31&band_rank=4&Refer=top)<br />
 5. [李佳琦回应最低价争夺](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9B%9E%E5%BA%94%E6%9C%80%E4%BD%8E%E4%BB%B7%E4%BA%89%E5%A4%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [浪姐2024拟邀嘉宾](https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%902024%E6%8B%9F%E9%82%80%E5%98%89%E5%AE%BE&t=31&band_rank=6&Refer=top)<br />
-7. [伍佰叫伍佰的原因](https://s.weibo.com/weibo?q=%E4%BC%8D%E4%BD%B0%E5%8F%AB%E4%BC%8D%E4%BD%B0%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=7&Refer=top)<br />
-8. [西贝回应3只蒸饺29元](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%9B%9E%E5%BA%943%E5%8F%AA%E8%92%B8%E9%A5%BA29%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国籍苹果女程序员在美飙车致男伴死亡](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%B1%8D%E8%8B%B9%E6%9E%9C%E5%A5%B3%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9C%A8%E7%BE%8E%E9%A3%99%E8%BD%A6%E8%87%B4%E7%94%B7%E4%BC%B4%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+7. [西贝回应3只蒸饺29元](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%9B%9E%E5%BA%943%E5%8F%AA%E8%92%B8%E9%A5%BA29%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [伍佰叫伍佰的原因](https://s.weibo.com/weibo?q=%E4%BC%8D%E4%BD%B0%E5%8F%AB%E4%BC%8D%E4%BD%B0%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=8&Refer=top)<br />
+9. [王者荣耀](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
