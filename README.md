@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 04:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 04:35:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [官方回应6岁双胞胎打架姐姐摔倒离世](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%946%E5%B2%81%E5%8F%8C%E8%83%9E%E8%83%8E%E6%89%93%E6%9E%B6%E5%A7%90%E5%A7%90%E6%91%94%E5%80%92%E7%A6%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [7款APP全网下架](https://s.weibo.com/weibo?q=%237%E6%AC%BEAPP%E5%85%A8%E7%BD%91%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [伊朗称战争扩大将让以色列彻底毁灭](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%88%98%E4%BA%89%E6%89%A9%E5%A4%A7%E5%B0%86%E8%AE%A9%E4%BB%A5%E8%89%B2%E5%88%97%E5%BD%BB%E5%BA%95%E6%AF%81%E7%81%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [退款](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=8&Refer=top)<br />
-9. [秦岚痛失真名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%97%9B%E5%A4%B1%E7%9C%9F%E5%90%8D%23&t=31&band_rank=9&Refer=top)<br />
+8. [秦岚痛失真名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%97%9B%E5%A4%B1%E7%9C%9F%E5%90%8D%23&t=31&band_rank=8&Refer=top)<br />
+9. [退款](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
