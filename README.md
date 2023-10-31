@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 22:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 22:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [退款](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=6&Refer=top)<br />
 7. [八年花了12万网购的感受](https://s.weibo.com/weibo?q=%23%E5%85%AB%E5%B9%B4%E8%8A%B1%E4%BA%8612%E4%B8%87%E7%BD%91%E8%B4%AD%E7%9A%84%E6%84%9F%E5%8F%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [微信新增独立发送按钮](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%A2%9E%E7%8B%AC%E7%AB%8B%E5%8F%91%E9%80%81%E6%8C%89%E9%92%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [小学女教师离世留遗书称课外工作压力大](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E5%A5%B3%E6%95%99%E5%B8%88%E7%A6%BB%E4%B8%96%E7%95%99%E9%81%97%E4%B9%A6%E7%A7%B0%E8%AF%BE%E5%A4%96%E5%B7%A5%E4%BD%9C%E5%8E%8B%E5%8A%9B%E5%A4%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [以爱为营](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
