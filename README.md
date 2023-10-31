@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 19:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 19:50:02</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [神十六任务圆满成功](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E5%85%AD%E4%BB%BB%E5%8A%A1%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子跳河救人牺牲 政府奖励110万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E7%89%BA%E7%89%B2+%E6%94%BF%E5%BA%9C%E5%A5%96%E5%8A%B1110%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学校回应喷灭火器驱赶卖红薯大爷](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%96%B7%E7%81%AD%E7%81%AB%E5%99%A8%E9%A9%B1%E8%B5%B6%E5%8D%96%E7%BA%A2%E8%96%AF%E5%A4%A7%E7%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [7旬父亲帮女儿发招嫖卡片双双被拘](https://www.baidu.com/s?wd=7%E6%97%AC%E7%88%B6%E4%BA%B2%E5%B8%AE%E5%A5%B3%E5%84%BF%E5%8F%91%E6%8B%9B%E5%AB%96%E5%8D%A1%E7%89%87%E5%8F%8C%E5%8F%8C%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女医生水杯遭投多聚甲醛及尿液](https://www.baidu.com/s?wd=%E5%A5%B3%E5%8C%BB%E7%94%9F%E6%B0%B4%E6%9D%AF%E9%81%AD%E6%8A%95%E5%A4%9A%E8%81%9A%E7%94%B2%E9%86%9B%E5%8F%8A%E5%B0%BF%E6%B6%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全民悦美狂欢季](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E6%82%A6%E7%BE%8E%E7%8B%82%E6%AC%A2%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [小米提货卡0元拿家电？假的](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%8F%90%E8%B4%A7%E5%8D%A10%E5%85%83%E6%8B%BF%E5%AE%B6%E7%94%B5%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [神十六任务圆满成功](https://www.baidu.com/s?wd=%E7%A5%9E%E5%8D%81%E5%85%AD%E4%BB%BB%E5%8A%A1%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子跳河救人牺牲 政府奖励110万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E7%89%BA%E7%89%B2+%E6%94%BF%E5%BA%9C%E5%A5%96%E5%8A%B1110%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学校回应喷灭火器驱赶卖红薯大爷](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%96%B7%E7%81%AD%E7%81%AB%E5%99%A8%E9%A9%B1%E8%B5%B6%E5%8D%96%E7%BA%A2%E8%96%AF%E5%A4%A7%E7%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [7旬父亲帮女儿发招嫖卡片双双被拘](https://www.baidu.com/s?wd=7%E6%97%AC%E7%88%B6%E4%BA%B2%E5%B8%AE%E5%A5%B3%E5%84%BF%E5%8F%91%E6%8B%9B%E5%AB%96%E5%8D%A1%E7%89%87%E5%8F%8C%E5%8F%8C%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女医生水杯遭投多聚甲醛及尿液](https://www.baidu.com/s?wd=%E5%A5%B3%E5%8C%BB%E7%94%9F%E6%B0%B4%E6%9D%AF%E9%81%AD%E6%8A%95%E5%A4%9A%E8%81%9A%E7%94%B2%E9%86%9B%E5%8F%8A%E5%B0%BF%E6%B6%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全民悦美狂欢季](https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E6%82%A6%E7%BE%8E%E7%8B%82%E6%AC%A2%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [小米提货卡0元拿家电？假的](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%8F%90%E8%B4%A7%E5%8D%A10%E5%85%83%E6%8B%BF%E5%AE%B6%E7%94%B5%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
