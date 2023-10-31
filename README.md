@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 08:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 08:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [iPhone16Pro或进一步上调售价](https://s.weibo.com/weibo?q=%23iPhone16Pro%E6%88%96%E8%BF%9B%E4%B8%80%E6%AD%A5%E4%B8%8A%E8%B0%83%E5%94%AE%E4%BB%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [ICU医生发了条朋友圈后结局暖心](https://s.weibo.com/weibo?q=%23ICU%E5%8C%BB%E7%94%9F%E5%8F%91%E4%BA%86%E6%9D%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%90%8E%E7%BB%93%E5%B1%80%E6%9A%96%E5%BF%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [夸克](https://s.weibo.com/weibo?q=%E5%A4%B8%E5%85%8B&t=31&band_rank=8&Refer=top)<br />
-9. [梅西获得第八座金球奖](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%8E%B7%E5%BE%97%E7%AC%AC%E5%85%AB%E5%BA%A7%E9%87%91%E7%90%83%E5%A5%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [钟楚曦14秒换了3套衣服](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A614%E7%A7%92%E6%8D%A2%E4%BA%863%E5%A5%97%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
