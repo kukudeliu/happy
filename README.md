@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 03:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 03:39:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [胰腺癌的早期信号是什么](https://s.weibo.com/weibo?q=%23%E8%83%B0%E8%85%BA%E7%99%8C%E7%9A%84%E6%97%A9%E6%9C%9F%E4%BF%A1%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [秦岚痛失真名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%97%9B%E5%A4%B1%E7%9C%9F%E5%90%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [官方回应6岁双胞胎打架姐姐摔倒离世](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%946%E5%B2%81%E5%8F%8C%E8%83%9E%E8%83%8E%E6%89%93%E6%9E%B6%E5%A7%90%E5%A7%90%E6%91%94%E5%80%92%E7%A6%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [微信新增独立发送按钮](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%A2%9E%E7%8B%AC%E7%AB%8B%E5%8F%91%E9%80%81%E6%8C%89%E9%92%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [退款](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=9&Refer=top)<br />
+8. [退款](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=8&Refer=top)<br />
+9. [微信新增独立发送按钮](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%A2%9E%E7%8B%AC%E7%AB%8B%E5%8F%91%E9%80%81%E6%8C%89%E9%92%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [中方当场回应：这个锅中国不背](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%BD%93%E5%9C%BA%E5%9B%9E%E5%BA%94%EF%BC%9A%E8%BF%99%E4%B8%AA%E9%94%85%E4%B8%AD%E5%9B%BD%E4%B8%8D%E8%83%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国航天“梦之队”再立新功](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E2%80%9C%E6%A2%A6%E4%B9%8B%E9%98%9F%E2%80%9D%E5%86%8D%E7%AB%8B%E6%96%B0%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子跳河救人牺牲 政府奖励110万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E7%89%BA%E7%89%B2+%E6%94%BF%E5%BA%9C%E5%A5%96%E5%8A%B1110%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [黎巴嫩总理：无法保证不卷入战争](https://www.baidu.com/s?wd=%E9%BB%8E%E5%B7%B4%E5%AB%A9%E6%80%BB%E7%90%86%EF%BC%9A%E6%97%A0%E6%B3%95%E4%BF%9D%E8%AF%81%E4%B8%8D%E5%8D%B7%E5%85%A5%E6%88%98%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [24岁男子3颗烂牙没治感染大脑](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%903%E9%A2%97%E7%83%82%E7%89%99%E6%B2%A1%E6%B2%BB%E6%84%9F%E6%9F%93%E5%A4%A7%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [缅北交火是为清剿电诈？专家分析](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E4%BA%A4%E7%81%AB%E6%98%AF%E4%B8%BA%E6%B8%85%E5%89%BF%E7%94%B5%E8%AF%88%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%88%86%E6%9E%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [24岁男子3颗烂牙没治感染大脑](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%903%E9%A2%97%E7%83%82%E7%89%99%E6%B2%A1%E6%B2%BB%E6%84%9F%E6%9F%93%E5%A4%A7%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [缅北交火是为清剿电诈？专家分析](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E4%BA%A4%E7%81%AB%E6%98%AF%E4%B8%BA%E6%B8%85%E5%89%BF%E7%94%B5%E8%AF%88%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%88%86%E6%9E%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老人过世后被发现已与保姆结婚](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E8%BF%87%E4%B8%96%E5%90%8E%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%B7%B2%E4%B8%8E%E4%BF%9D%E5%A7%86%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣男孩足浴店按摩身亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E7%94%B7%E5%AD%A9%E8%B6%B3%E6%B5%B4%E5%BA%97%E6%8C%89%E6%91%A9%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [中方当场回应：这个锅中国不背](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%BD%93%E5%9C%BA%E5%9B%9E%E5%BA%94%EF%BC%9A%E8%BF%99%E4%B8%AA%E9%94%85%E4%B8%AD%E5%9B%BD%E4%B8%8D%E8%83%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国航天“梦之队”再立新功](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E2%80%9C%E6%A2%A6%E4%B9%8B%E9%98%9F%E2%80%9D%E5%86%8D%E7%AB%8B%E6%96%B0%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子跳河救人牺牲 政府奖励110万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E7%89%BA%E7%89%B2+%E6%94%BF%E5%BA%9C%E5%A5%96%E5%8A%B1110%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [黎巴嫩总理：无法保证不卷入战争](https://www.baidu.com/s?wd=%E9%BB%8E%E5%B7%B4%E5%AB%A9%E6%80%BB%E7%90%86%EF%BC%9A%E6%97%A0%E6%B3%95%E4%BF%9D%E8%AF%81%E4%B8%8D%E5%8D%B7%E5%85%A5%E6%88%98%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [24岁男子3颗烂牙没治感染大脑](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%903%E9%A2%97%E7%83%82%E7%89%99%E6%B2%A1%E6%B2%BB%E6%84%9F%E6%9F%93%E5%A4%A7%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [缅北交火是为清剿电诈？专家分析](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E4%BA%A4%E7%81%AB%E6%98%AF%E4%B8%BA%E6%B8%85%E5%89%BF%E7%94%B5%E8%AF%88%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%88%86%E6%9E%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [24岁男子3颗烂牙没治感染大脑](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%903%E9%A2%97%E7%83%82%E7%89%99%E6%B2%A1%E6%B2%BB%E6%84%9F%E6%9F%93%E5%A4%A7%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [缅北交火是为清剿电诈？专家分析](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E4%BA%A4%E7%81%AB%E6%98%AF%E4%B8%BA%E6%B8%85%E5%89%BF%E7%94%B5%E8%AF%88%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%88%86%E6%9E%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老人过世后被发现已与保姆结婚](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E8%BF%87%E4%B8%96%E5%90%8E%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%B7%B2%E4%B8%8E%E4%BF%9D%E5%A7%86%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣男孩足浴店按摩身亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E7%94%B7%E5%AD%A9%E8%B6%B3%E6%B5%B4%E5%BA%97%E6%8C%89%E6%91%A9%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
