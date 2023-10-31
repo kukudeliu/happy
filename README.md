@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 16:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 16:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [浪姐2024拟邀嘉宾](https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%902024%E6%8B%9F%E9%82%80%E5%98%89%E5%AE%BE&t=31&band_rank=6&Refer=top)<br />
 7. [中国籍苹果女程序员在美飙车致男伴死亡](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%B1%8D%E8%8B%B9%E6%9E%9C%E5%A5%B3%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9C%A8%E7%BE%8E%E9%A3%99%E8%BD%A6%E8%87%B4%E7%94%B7%E4%BC%B4%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [科学家找到癌细胞的生死开关](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%89%BE%E5%88%B0%E7%99%8C%E7%BB%86%E8%83%9E%E7%9A%84%E7%94%9F%E6%AD%BB%E5%BC%80%E5%85%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [哈登加盟快船](https://s.weibo.com/weibo?q=%23%E5%93%88%E7%99%BB%E5%8A%A0%E7%9B%9F%E5%BF%AB%E8%88%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [林子烨回击郭敬明](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%90%E7%83%A8%E5%9B%9E%E5%87%BB%E9%83%AD%E6%95%AC%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
