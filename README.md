@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 00:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 00:44:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [男子跳河救人牺牲 政府奖励110万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E7%89%BA%E7%89%B2+%E6%94%BF%E5%BA%9C%E5%A5%96%E5%8A%B1110%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子租劳斯莱斯转卖500万后潜逃](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%9F%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E8%BD%AC%E5%8D%96500%E4%B8%87%E5%90%8E%E6%BD%9C%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [飞天茅台出厂价上调](https://www.baidu.com/s?wd=%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0%E5%87%BA%E5%8E%82%E4%BB%B7%E4%B8%8A%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [24岁男子3颗烂牙没治感染大脑](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%903%E9%A2%97%E7%83%82%E7%89%99%E6%B2%A1%E6%B2%BB%E6%84%9F%E6%9F%93%E5%A4%A7%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [7旬父亲帮女儿发招嫖卡片双双被拘](https://www.baidu.com/s?wd=7%E6%97%AC%E7%88%B6%E4%BA%B2%E5%B8%AE%E5%A5%B3%E5%84%BF%E5%8F%91%E6%8B%9B%E5%AB%96%E5%8D%A1%E7%89%87%E5%8F%8C%E5%8F%8C%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣男孩足浴店按摩身亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E7%94%B7%E5%AD%A9%E8%B6%B3%E6%B5%B4%E5%BA%97%E6%8C%89%E6%91%A9%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男子跳河救人牺牲 政府奖励110万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E7%89%BA%E7%89%B2+%E6%94%BF%E5%BA%9C%E5%A5%96%E5%8A%B1110%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子租劳斯莱斯转卖500万后潜逃](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%9F%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E8%BD%AC%E5%8D%96500%E4%B8%87%E5%90%8E%E6%BD%9C%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [飞天茅台出厂价上调](https://www.baidu.com/s?wd=%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0%E5%87%BA%E5%8E%82%E4%BB%B7%E4%B8%8A%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [24岁男子3颗烂牙没治感染大脑](https://www.baidu.com/s?wd=24%E5%B2%81%E7%94%B7%E5%AD%903%E9%A2%97%E7%83%82%E7%89%99%E6%B2%A1%E6%B2%BB%E6%84%9F%E6%9F%93%E5%A4%A7%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [7旬父亲帮女儿发招嫖卡片双双被拘](https://www.baidu.com/s?wd=7%E6%97%AC%E7%88%B6%E4%BA%B2%E5%B8%AE%E5%A5%B3%E5%84%BF%E5%8F%91%E6%8B%9B%E5%AB%96%E5%8D%A1%E7%89%87%E5%8F%8C%E5%8F%8C%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣男孩足浴店按摩身亡](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E7%94%B7%E5%AD%A9%E8%B6%B3%E6%B5%B4%E5%BA%97%E6%8C%89%E6%91%A9%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
