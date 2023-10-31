@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 03:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 03:40:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [11月起这些新规开始施行](https://s.weibo.com/weibo?q=%2311%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [向佐 我把假向太抓来直播间啦](https://s.weibo.com/weibo?q=%E5%90%91%E4%BD%90%20%E6%88%91%E6%8A%8A%E5%81%87%E5%90%91%E5%A4%AA%E6%8A%93%E6%9D%A5%E7%9B%B4%E6%92%AD%E9%97%B4%E5%95%A6&t=31&band_rank=4&Refer=top)<br />
 5. [胰腺癌的早期信号是什么](https://s.weibo.com/weibo?q=%23%E8%83%B0%E8%85%BA%E7%99%8C%E7%9A%84%E6%97%A9%E6%9C%9F%E4%BF%A1%E5%8F%B7%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=5&Refer=top)<br />
-6. [秦岚痛失真名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%97%9B%E5%A4%B1%E7%9C%9F%E5%90%8D%23&t=31&band_rank=6&Refer=top)<br />
-7. [官方回应6岁双胞胎打架姐姐摔倒离世](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%946%E5%B2%81%E5%8F%8C%E8%83%9E%E8%83%8E%E6%89%93%E6%9E%B6%E5%A7%90%E5%A7%90%E6%91%94%E5%80%92%E7%A6%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [退款](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=8&Refer=top)<br />
+6. [退款](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=6&Refer=top)<br />
+7. [秦岚痛失真名](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%97%9B%E5%A4%B1%E7%9C%9F%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
+8. [官方回应6岁双胞胎打架姐姐摔倒离世](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%946%E5%B2%81%E5%8F%8C%E8%83%9E%E8%83%8E%E6%89%93%E6%9E%B6%E5%A7%90%E5%A7%90%E6%91%94%E5%80%92%E7%A6%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
 9. [微信新增独立发送按钮](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%A2%9E%E7%8B%AC%E7%AB%8B%E5%8F%91%E9%80%81%E6%8C%89%E9%92%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
