@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 09:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 09:37:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [第一次觉得男女主be不可惜的](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%89%E5%BE%97%E7%94%B7%E5%A5%B3%E4%B8%BBbe%E4%B8%8D%E5%8F%AF%E6%83%9C%E7%9A%84%23&t=31&band_rank=4&Refer=top)<br />
 5. [朋友30岁癌症去世生前说他反而很开心](https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B30%E5%B2%81%E7%99%8C%E7%97%87%E5%8E%BB%E4%B8%96%E7%94%9F%E5%89%8D%E8%AF%B4%E4%BB%96%E5%8F%8D%E8%80%8C%E5%BE%88%E5%BC%80%E5%BF%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [巨好吃却最长肉的食物是什么](https://s.weibo.com/weibo?q=%23%E5%B7%A8%E5%A5%BD%E5%90%83%E5%8D%B4%E6%9C%80%E9%95%BF%E8%82%89%E7%9A%84%E9%A3%9F%E7%89%A9%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=6&Refer=top)<br />
-7. [iPhone16Pro或进一步上调售价](https://s.weibo.com/weibo?q=%23iPhone16Pro%E6%88%96%E8%BF%9B%E4%B8%80%E6%AD%A5%E4%B8%8A%E8%B0%83%E5%94%AE%E4%BB%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [花少团真的好爱王安宇](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%9B%A2%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%88%B1%E7%8E%8B%E5%AE%89%E5%AE%87%23&t=31&band_rank=8&Refer=top)<br />
+7. [花少团真的好爱王安宇](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%9B%A2%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%88%B1%E7%8E%8B%E5%AE%89%E5%AE%87%23&t=31&band_rank=7&Refer=top)<br />
+8. [iPhone16Pro或进一步上调售价](https://s.weibo.com/weibo?q=%23iPhone16Pro%E6%88%96%E8%BF%9B%E4%B8%80%E6%AD%A5%E4%B8%8A%E8%B0%83%E5%94%AE%E4%BB%B7%23&t=31&band_rank=8&Refer=top)<br />
 9. [新郎接亲遇最强伴娘天团](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E6%8E%A5%E4%BA%B2%E9%81%87%E6%9C%80%E5%BC%BA%E4%BC%B4%E5%A8%98%E5%A4%A9%E5%9B%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
