@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 17:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 17:25:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [李金铭参加明星到我家错过花少](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%87%91%E9%93%AD%E5%8F%82%E5%8A%A0%E6%98%8E%E6%98%9F%E5%88%B0%E6%88%91%E5%AE%B6%E9%94%99%E8%BF%87%E8%8A%B1%E5%B0%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [头发夹在耳后显脸小的正确方法](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E5%A4%B9%E5%9C%A8%E8%80%B3%E5%90%8E%E6%98%BE%E8%84%B8%E5%B0%8F%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%96%B9%E6%B3%95&t=31&band_rank=6&Refer=top)<br />
 7. [长沙被打破头骨女孩已出院](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E8%A2%AB%E6%89%93%E7%A0%B4%E5%A4%B4%E9%AA%A8%E5%A5%B3%E5%AD%A9%E5%B7%B2%E5%87%BA%E9%99%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [王者荣耀](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=8&Refer=top)<br />
-9. [Karsa疑似参加WBG训练赛](https://s.weibo.com/weibo?q=%23Karsa%E7%96%91%E4%BC%BC%E5%8F%82%E5%8A%A0WBG%E8%AE%AD%E7%BB%83%E8%B5%9B%23&t=31&band_rank=9&Refer=top)<br />
+8. [Karsa疑似参加WBG训练赛](https://s.weibo.com/weibo?q=%23Karsa%E7%96%91%E4%BC%BC%E5%8F%82%E5%8A%A0WBG%E8%AE%AD%E7%BB%83%E8%B5%9B%23&t=31&band_rank=8&Refer=top)<br />
+9. [王者荣耀](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
