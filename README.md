@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 21:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-10-31 21:52:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [7款APP全网下架](https://s.weibo.com/weibo?q=%237%E6%AC%BEAPP%E5%85%A8%E7%BD%91%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [微信新增独立发送按钮](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%A2%9E%E7%8B%AC%E7%AB%8B%E5%8F%91%E9%80%81%E6%8C%89%E9%92%AE%23&t=31&band_rank=5&Refer=top)<br />
 6. [八年花了12万网购的感受](https://s.weibo.com/weibo?q=%23%E5%85%AB%E5%B9%B4%E8%8A%B1%E4%BA%8612%E4%B8%87%E7%BD%91%E8%B4%AD%E7%9A%84%E6%84%9F%E5%8F%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [24岁男子3颗烂牙一直没治感染大脑](https://s.weibo.com/weibo?q=%2324%E5%B2%81%E7%94%B7%E5%AD%903%E9%A2%97%E7%83%82%E7%89%99%E4%B8%80%E7%9B%B4%E6%B2%A1%E6%B2%BB%E6%84%9F%E6%9F%93%E5%A4%A7%E8%84%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [购买失败](https://s.weibo.com/weibo?q=%E8%B4%AD%E4%B9%B0%E5%A4%B1%E8%B4%A5&t=31&band_rank=8&Refer=top)<br />
-9. [佛山电翰已出现人传人](https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%B1%B1%E7%94%B5%E7%BF%B0%E5%B7%B2%E5%87%BA%E7%8E%B0%E4%BA%BA%E4%BC%A0%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+7. [小学女教师离世留遗书称课外工作压力大](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E5%A5%B3%E6%95%99%E5%B8%88%E7%A6%BB%E4%B8%96%E7%95%99%E9%81%97%E4%B9%A6%E7%A7%B0%E8%AF%BE%E5%A4%96%E5%B7%A5%E4%BD%9C%E5%8E%8B%E5%8A%9B%E5%A4%A7%23&t=31&band_rank=7&Refer=top)<br />
+8. [24岁男子3颗烂牙一直没治感染大脑](https://s.weibo.com/weibo?q=%2324%E5%B2%81%E7%94%B7%E5%AD%903%E9%A2%97%E7%83%82%E7%89%99%E4%B8%80%E7%9B%B4%E6%B2%A1%E6%B2%BB%E6%84%9F%E6%9F%93%E5%A4%A7%E8%84%91%23&t=31&band_rank=8&Refer=top)<br />
+9. [购买失败](https://s.weibo.com/weibo?q=%E8%B4%AD%E4%B9%B0%E5%A4%B1%E8%B4%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
