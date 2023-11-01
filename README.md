@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 04:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 04:09:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [水庆霞凌晨刚获奖 晚上就被淘汰](https://www.baidu.com/s?wd=%E6%B0%B4%E5%BA%86%E9%9C%9E%E5%87%8C%E6%99%A8%E5%88%9A%E8%8E%B7%E5%A5%96+%E6%99%9A%E4%B8%8A%E5%B0%B1%E8%A2%AB%E6%B7%98%E6%B1%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [自信从容的中国航天人](https://www.baidu.com/s?wd=%E8%87%AA%E4%BF%A1%E4%BB%8E%E5%AE%B9%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国宣布增兵中东](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%A2%9E%E5%85%B5%E4%B8%AD%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [巴裔美国男子42名亲属在加沙遇难](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A3%94%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%9042%E5%90%8D%E4%BA%B2%E5%B1%9E%E5%9C%A8%E5%8A%A0%E6%B2%99%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [知名百亿私募持仓悉数曝光](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%99%BE%E4%BA%BF%E7%A7%81%E5%8B%9F%E6%8C%81%E4%BB%93%E6%82%89%E6%95%B0%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [楼盘逾期交付还要求房主补差价](https://www.baidu.com/s?wd=%E6%A5%BC%E7%9B%98%E9%80%BE%E6%9C%9F%E4%BA%A4%E4%BB%98%E8%BF%98%E8%A6%81%E6%B1%82%E6%88%BF%E4%B8%BB%E8%A1%A5%E5%B7%AE%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [疑交警追车致2死 官方成立工作组](https://www.baidu.com/s?wd=%E7%96%91%E4%BA%A4%E8%AD%A6%E8%BF%BD%E8%BD%A6%E8%87%B42%E6%AD%BB+%E5%AE%98%E6%96%B9%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E7%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [专家：已出现呼吸道混合感染病例](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%B7%B2%E5%87%BA%E7%8E%B0%E5%91%BC%E5%90%B8%E9%81%93%E6%B7%B7%E5%90%88%E6%84%9F%E6%9F%93%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [千年前的壁画上女孩比了个心](https://www.baidu.com/s?wd=%E5%8D%83%E5%B9%B4%E5%89%8D%E7%9A%84%E5%A3%81%E7%94%BB%E4%B8%8A%E5%A5%B3%E5%AD%A9%E6%AF%94%E4%BA%86%E4%B8%AA%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“北大韦神”被解雇？校方回应](https://www.baidu.com/s?wd=%E2%80%9C%E5%8C%97%E5%A4%A7%E9%9F%A6%E7%A5%9E%E2%80%9D%E8%A2%AB%E8%A7%A3%E9%9B%87%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [水庆霞凌晨刚获奖 晚上就被淘汰](https://www.baidu.com/s?wd=%E6%B0%B4%E5%BA%86%E9%9C%9E%E5%87%8C%E6%99%A8%E5%88%9A%E8%8E%B7%E5%A5%96+%E6%99%9A%E4%B8%8A%E5%B0%B1%E8%A2%AB%E6%B7%98%E6%B1%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [自信从容的中国航天人](https://www.baidu.com/s?wd=%E8%87%AA%E4%BF%A1%E4%BB%8E%E5%AE%B9%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国宣布增兵中东](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%A2%9E%E5%85%B5%E4%B8%AD%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [巴裔美国男子42名亲属在加沙遇难](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A3%94%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%9042%E5%90%8D%E4%BA%B2%E5%B1%9E%E5%9C%A8%E5%8A%A0%E6%B2%99%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [知名百亿私募持仓悉数曝光](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E7%99%BE%E4%BA%BF%E7%A7%81%E5%8B%9F%E6%8C%81%E4%BB%93%E6%82%89%E6%95%B0%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [楼盘逾期交付还要求房主补差价](https://www.baidu.com/s?wd=%E6%A5%BC%E7%9B%98%E9%80%BE%E6%9C%9F%E4%BA%A4%E4%BB%98%E8%BF%98%E8%A6%81%E6%B1%82%E6%88%BF%E4%B8%BB%E8%A1%A5%E5%B7%AE%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [疑交警追车致2死 官方成立工作组](https://www.baidu.com/s?wd=%E7%96%91%E4%BA%A4%E8%AD%A6%E8%BF%BD%E8%BD%A6%E8%87%B42%E6%AD%BB+%E5%AE%98%E6%96%B9%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E7%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [专家：已出现呼吸道混合感染病例](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%B7%B2%E5%87%BA%E7%8E%B0%E5%91%BC%E5%90%B8%E9%81%93%E6%B7%B7%E5%90%88%E6%84%9F%E6%9F%93%E7%97%85%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [千年前的壁画上女孩比了个心](https://www.baidu.com/s?wd=%E5%8D%83%E5%B9%B4%E5%89%8D%E7%9A%84%E5%A3%81%E7%94%BB%E4%B8%8A%E5%A5%B3%E5%AD%A9%E6%AF%94%E4%BA%86%E4%B8%AA%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“北大韦神”被解雇？校方回应](https://www.baidu.com/s?wd=%E2%80%9C%E5%8C%97%E5%A4%A7%E9%9F%A6%E7%A5%9E%E2%80%9D%E8%A2%AB%E8%A7%A3%E9%9B%87%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
