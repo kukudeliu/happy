@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 12:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 12:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以色列](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [人民日报评不该消失的课间10分钟](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E4%B8%8D%E8%AF%A5%E6%B6%88%E5%A4%B1%E7%9A%84%E8%AF%BE%E9%97%B410%E5%88%86%E9%92%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘家昌曝儿子多次被退学](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%B6%E6%98%8C%E6%9B%9D%E5%84%BF%E5%AD%90%E5%A4%9A%E6%AC%A1%E8%A2%AB%E9%80%80%E5%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [傅首尔为老刘重燃生活热情而开心](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E4%B8%BA%E8%80%81%E5%88%98%E9%87%8D%E7%87%83%E7%94%9F%E6%B4%BB%E7%83%AD%E6%83%85%E8%80%8C%E5%BC%80%E5%BF%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [白鹿白月梵星出妆路透](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%99%BD%E6%9C%88%E6%A2%B5%E6%98%9F%E5%87%BA%E5%A6%86%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
