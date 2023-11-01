@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 06:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 06:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [幼童高烧40度公交变救护车3分钟送医](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E7%AB%A5%E9%AB%98%E7%83%A740%E5%BA%A6%E5%85%AC%E4%BA%A4%E5%8F%98%E6%95%91%E6%8A%A4%E8%BD%A63%E5%88%86%E9%92%9F%E9%80%81%E5%8C%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴李慧珍属性大爆发](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%9D%8E%E6%85%A7%E7%8F%8D%E5%B1%9E%E6%80%A7%E5%A4%A7%E7%88%86%E5%8F%91&t=31&band_rank=7&Refer=top)<br />
 8. [美国宣布增兵中东](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%A2%9E%E5%85%B5%E4%B8%AD%E4%B8%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [问路老人和指路女孩时隔4年相聚了](https://s.weibo.com/weibo?q=%23%E9%97%AE%E8%B7%AF%E8%80%81%E4%BA%BA%E5%92%8C%E6%8C%87%E8%B7%AF%E5%A5%B3%E5%AD%A9%E6%97%B6%E9%9A%944%E5%B9%B4%E7%9B%B8%E8%81%9A%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [46%过敏性鼻炎9年内会发展为哮喘](https://s.weibo.com/weibo?q=%2346%25%E8%BF%87%E6%95%8F%E6%80%A7%E9%BC%BB%E7%82%8E9%E5%B9%B4%E5%86%85%E4%BC%9A%E5%8F%91%E5%B1%95%E4%B8%BA%E5%93%AE%E5%96%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
