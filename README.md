@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 10:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 10:08:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男子面试失败骂HR后个人信息被曝光](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%9D%A2%E8%AF%95%E5%A4%B1%E8%B4%A5%E9%AA%82HR%E5%90%8E%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E8%A2%AB%E6%9B%9D%E5%85%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [向佐 我把假向太抓来直播间啦](https://s.weibo.com/weibo?q=%E5%90%91%E4%BD%90%20%E6%88%91%E6%8A%8A%E5%81%87%E5%90%91%E5%A4%AA%E6%8A%93%E6%9D%A5%E7%9B%B4%E6%92%AD%E9%97%B4%E5%95%A6&t=31&band_rank=6&Refer=top)<br />
 7. [以色列](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [人在医院能无知到什么程度](https://s.weibo.com/weibo?q=%E4%BA%BA%E5%9C%A8%E5%8C%BB%E9%99%A2%E8%83%BD%E6%97%A0%E7%9F%A5%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6&t=31&band_rank=8&Refer=top)<br />
-9. [长沙鸣响防空警报](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E9%B8%A3%E5%93%8D%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5%23&t=31&band_rank=9&Refer=top)<br />
+8. [长沙鸣响防空警报](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E9%B8%A3%E5%93%8D%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5%23&t=31&band_rank=8&Refer=top)<br />
+9. [人在医院能无知到什么程度](https://s.weibo.com/weibo?q=%E4%BA%BA%E5%9C%A8%E5%8C%BB%E9%99%A2%E8%83%BD%E6%97%A0%E7%9F%A5%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
