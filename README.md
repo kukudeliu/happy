@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 07:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 07:39:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [教体局通报女教师跳楼轻生事件](https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E9%80%9A%E6%8A%A5%E5%A5%B3%E6%95%99%E5%B8%88%E8%B7%B3%E6%A5%BC%E8%BD%BB%E7%94%9F%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨紫发个正常的朋友圈被80个好友担心](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8F%91%E4%B8%AA%E6%AD%A3%E5%B8%B8%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB80%E4%B8%AA%E5%A5%BD%E5%8F%8B%E6%8B%85%E5%BF%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [樊振东1比3李尚洙](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C1%E6%AF%943%E6%9D%8E%E5%B0%9A%E6%B4%99%23&t=31&band_rank=6&Refer=top)<br />
-7. [幼童高烧40度公交变救护车3分钟送医](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E7%AB%A5%E9%AB%98%E7%83%A740%E5%BA%A6%E5%85%AC%E4%BA%A4%E5%8F%98%E6%95%91%E6%8A%A4%E8%BD%A63%E5%88%86%E9%92%9F%E9%80%81%E5%8C%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [海归博士985硕士求职因本科双非被刷](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BD%92%E5%8D%9A%E5%A3%AB985%E7%A1%95%E5%A3%AB%E6%B1%82%E8%81%8C%E5%9B%A0%E6%9C%AC%E7%A7%91%E5%8F%8C%E9%9D%9E%E8%A2%AB%E5%88%B7%23&t=31&band_rank=8&Refer=top)<br />
+7. [海归博士985硕士求职因本科双非被刷](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BD%92%E5%8D%9A%E5%A3%AB985%E7%A1%95%E5%A3%AB%E6%B1%82%E8%81%8C%E5%9B%A0%E6%9C%AC%E7%A7%91%E5%8F%8C%E9%9D%9E%E8%A2%AB%E5%88%B7%23&t=31&band_rank=7&Refer=top)<br />
+8. [幼童高烧40度公交变救护车3分钟送医](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E7%AB%A5%E9%AB%98%E7%83%A740%E5%BA%A6%E5%85%AC%E4%BA%A4%E5%8F%98%E6%95%91%E6%8A%A4%E8%BD%A63%E5%88%86%E9%92%9F%E9%80%81%E5%8C%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [接了个大单没想到是贾乃亮](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%BA%86%E4%B8%AA%E5%A4%A7%E5%8D%95%E6%B2%A1%E6%83%B3%E5%88%B0%E6%98%AF%E8%B4%BE%E4%B9%83%E4%BA%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
