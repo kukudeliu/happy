@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 13:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 13:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [农民药材遭哄抢大哭：报警后才赶走](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E8%8D%AF%E6%9D%90%E9%81%AD%E5%93%84%E6%8A%A2%E5%A4%A7%E5%93%AD%EF%BC%9A%E6%8A%A5%E8%AD%A6%E5%90%8E%E6%89%8D%E8%B5%B6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘家昌曝儿子多次被退学](https://www.baidu.com/s?wd=%E5%88%98%E5%AE%B6%E6%98%8C%E6%9B%9D%E5%84%BF%E5%AD%90%E5%A4%9A%E6%AC%A1%E8%A2%AB%E9%80%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [50人众筹82年拉菲每人15毫升](https://www.baidu.com/s?wd=50%E4%BA%BA%E4%BC%97%E7%AD%B982%E5%B9%B4%E6%8B%89%E8%8F%B2%E6%AF%8F%E4%BA%BA15%E6%AF%AB%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子面试失败骂HR后个人信息被曝光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%9D%A2%E8%AF%95%E5%A4%B1%E8%B4%A5%E9%AA%82HR%E5%90%8E%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E8%A2%AB%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [安踏更改公司标志](https://www.baidu.com/s?wd=%E5%AE%89%E8%B8%8F%E6%9B%B4%E6%94%B9%E5%85%AC%E5%8F%B8%E6%A0%87%E5%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [猫狗粮被针管投毒？官方辟谣](https://www.baidu.com/s?wd=%E7%8C%AB%E7%8B%97%E7%B2%AE%E8%A2%AB%E9%92%88%E7%AE%A1%E6%8A%95%E6%AF%92%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [农民药材遭哄抢大哭：报警后才赶走](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E8%8D%AF%E6%9D%90%E9%81%AD%E5%93%84%E6%8A%A2%E5%A4%A7%E5%93%AD%EF%BC%9A%E6%8A%A5%E8%AD%A6%E5%90%8E%E6%89%8D%E8%B5%B6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘家昌曝儿子多次被退学](https://www.baidu.com/s?wd=%E5%88%98%E5%AE%B6%E6%98%8C%E6%9B%9D%E5%84%BF%E5%AD%90%E5%A4%9A%E6%AC%A1%E8%A2%AB%E9%80%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [50人众筹82年拉菲每人15毫升](https://www.baidu.com/s?wd=50%E4%BA%BA%E4%BC%97%E7%AD%B982%E5%B9%B4%E6%8B%89%E8%8F%B2%E6%AF%8F%E4%BA%BA15%E6%AF%AB%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子面试失败骂HR后个人信息被曝光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%9D%A2%E8%AF%95%E5%A4%B1%E8%B4%A5%E9%AA%82HR%E5%90%8E%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E8%A2%AB%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [安踏更改公司标志](https://www.baidu.com/s?wd=%E5%AE%89%E8%B8%8F%E6%9B%B4%E6%94%B9%E5%85%AC%E5%8F%B8%E6%A0%87%E5%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [猫狗粮被针管投毒？官方辟谣](https://www.baidu.com/s?wd=%E7%8C%AB%E7%8B%97%E7%B2%AE%E8%A2%AB%E9%92%88%E7%AE%A1%E6%8A%95%E6%AF%92%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
