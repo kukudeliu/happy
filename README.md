@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 06:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 06:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [美国宣布增兵中东](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%A2%9E%E5%85%B5%E4%B8%AD%E4%B8%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [问路老人和指路女孩时隔4年相聚了](https://s.weibo.com/weibo?q=%23%E9%97%AE%E8%B7%AF%E8%80%81%E4%BA%BA%E5%92%8C%E6%8C%87%E8%B7%AF%E5%A5%B3%E5%AD%A9%E6%97%B6%E9%9A%944%E5%B9%B4%E7%9B%B8%E8%81%9A%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [WTT法兰克福冠军赛2023](https://s.weibo.com/weibo?q=%23WTT%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%E5%86%A0%E5%86%9B%E8%B5%9B2023%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴李慧珍属性大爆发](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%9D%8E%E6%85%A7%E7%8F%8D%E5%B1%9E%E6%80%A7%E5%A4%A7%E7%88%86%E5%8F%91&t=31&band_rank=9&Refer=top)<br />
+9. [46%过敏性鼻炎9年内会发展为哮喘](https://s.weibo.com/weibo?q=%2346%25%E8%BF%87%E6%95%8F%E6%80%A7%E9%BC%BB%E7%82%8E9%E5%B9%B4%E5%86%85%E4%BC%9A%E5%8F%91%E5%B1%95%E4%B8%BA%E5%93%AE%E5%96%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [自信从容的中国航天人](https://www.baidu.com/s?wd=%E8%87%AA%E4%BF%A1%E4%BB%8E%E5%AE%B9%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国宣布增兵中东](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%A2%9E%E5%85%B5%E4%B8%AD%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [千年前的壁画上女孩比了个心](https://www.baidu.com/s?wd=%E5%8D%83%E5%B9%B4%E5%89%8D%E7%9A%84%E5%A3%81%E7%94%BB%E4%B8%8A%E5%A5%B3%E5%AD%A9%E6%AF%94%E4%BA%86%E4%B8%AA%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小杨哥直播间被曝也有保价协议](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E7%9B%B4%E6%92%AD%E9%97%B4%E8%A2%AB%E6%9B%9D%E4%B9%9F%E6%9C%89%E4%BF%9D%E4%BB%B7%E5%8D%8F%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [闲鱼回应多地大学生在平台挂学校](https://www.baidu.com/s?wd=%E9%97%B2%E9%B1%BC%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%B9%B3%E5%8F%B0%E6%8C%82%E5%AD%A6%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [闲鱼回应多地大学生在平台挂学校](https://www.baidu.com/s?wd=%E9%97%B2%E9%B1%BC%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%B9%B3%E5%8F%B0%E6%8C%82%E5%AD%A6%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女老师留遗书自杀前一天遭校长批评](https://www.baidu.com/s?wd=%E5%A5%B3%E8%80%81%E5%B8%88%E7%95%99%E9%81%97%E4%B9%A6%E8%87%AA%E6%9D%80%E5%89%8D%E4%B8%80%E5%A4%A9%E9%81%AD%E6%A0%A1%E9%95%BF%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“北大韦神”被解雇？校方回应](https://www.baidu.com/s?wd=%E2%80%9C%E5%8C%97%E5%A4%A7%E9%9F%A6%E7%A5%9E%E2%80%9D%E8%A2%AB%E8%A7%A3%E9%9B%87%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [自信从容的中国航天人](https://www.baidu.com/s?wd=%E8%87%AA%E4%BF%A1%E4%BB%8E%E5%AE%B9%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国宣布增兵中东](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%A2%9E%E5%85%B5%E4%B8%AD%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [千年前的壁画上女孩比了个心](https://www.baidu.com/s?wd=%E5%8D%83%E5%B9%B4%E5%89%8D%E7%9A%84%E5%A3%81%E7%94%BB%E4%B8%8A%E5%A5%B3%E5%AD%A9%E6%AF%94%E4%BA%86%E4%B8%AA%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小杨哥直播间被曝也有保价协议](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E7%9B%B4%E6%92%AD%E9%97%B4%E8%A2%AB%E6%9B%9D%E4%B9%9F%E6%9C%89%E4%BF%9D%E4%BB%B7%E5%8D%8F%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [闲鱼回应多地大学生在平台挂学校](https://www.baidu.com/s?wd=%E9%97%B2%E9%B1%BC%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%B9%B3%E5%8F%B0%E6%8C%82%E5%AD%A6%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [闲鱼回应多地大学生在平台挂学校](https://www.baidu.com/s?wd=%E9%97%B2%E9%B1%BC%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%B9%B3%E5%8F%B0%E6%8C%82%E5%AD%A6%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女老师留遗书自杀前一天遭校长批评](https://www.baidu.com/s?wd=%E5%A5%B3%E8%80%81%E5%B8%88%E7%95%99%E9%81%97%E4%B9%A6%E8%87%AA%E6%9D%80%E5%89%8D%E4%B8%80%E5%A4%A9%E9%81%AD%E6%A0%A1%E9%95%BF%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“北大韦神”被解雇？校方回应](https://www.baidu.com/s?wd=%E2%80%9C%E5%8C%97%E5%A4%A7%E9%9F%A6%E7%A5%9E%E2%80%9D%E8%A2%AB%E8%A7%A3%E9%9B%87%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
