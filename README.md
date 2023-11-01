@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 13:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 13:15:01</h4></div>
 
 > 微博  
 
-1. [这英被父母扫兴了20年](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%8B%B1%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%89%AB%E5%85%B4%E4%BA%8620%E5%B9%B4%23&t=31&band_rank=1&Refer=top)<br />
-2. [00后女老师自杀校方拒绝家属看监控](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E8%80%81%E5%B8%88%E8%87%AA%E6%9D%80%E6%A0%A1%E6%96%B9%E6%8B%92%E7%BB%9D%E5%AE%B6%E5%B1%9E%E7%9C%8B%E7%9B%91%E6%8E%A7%23&t=31&band_rank=2&Refer=top)<br />
+1. [00后女老师自杀校方拒绝家属看监控](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E8%80%81%E5%B8%88%E8%87%AA%E6%9D%80%E6%A0%A1%E6%96%B9%E6%8B%92%E7%BB%9D%E5%AE%B6%E5%B1%9E%E7%9C%8B%E7%9B%91%E6%8E%A7%23&t=31&band_rank=1&Refer=top)<br />
+2. [这英被父母扫兴了20年](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%8B%B1%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%89%AB%E5%85%B4%E4%BA%8620%E5%B9%B4%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023进博会亮点抢先看](https://s.weibo.com/weibo?q=%232023%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%BA%AE%E7%82%B9%E6%8A%A2%E5%85%88%E7%9C%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [迪丽姐热了吧](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E5%A7%90%E7%83%AD%E4%BA%86%E5%90%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [吴承恩作品票房59亿](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%89%BF%E6%81%A9%E4%BD%9C%E5%93%81%E7%A5%A8%E6%88%BF59%E4%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
