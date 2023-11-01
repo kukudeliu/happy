@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 23:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 23:27:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [下一站幸福导演陈慧翎去世](https://s.weibo.com/weibo?q=%23%E4%B8%8B%E4%B8%80%E7%AB%99%E5%B9%B8%E7%A6%8F%E5%AF%BC%E6%BC%94%E9%99%88%E6%85%A7%E7%BF%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [30集的剧前29集是做梦](https://s.weibo.com/weibo?q=%2330%E9%9B%86%E7%9A%84%E5%89%A7%E5%89%8D29%E9%9B%86%E6%98%AF%E5%81%9A%E6%A2%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [富婆为什么会被博士骗](https://s.weibo.com/weibo?q=%E5%AF%8C%E5%A9%86%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E8%A2%AB%E5%8D%9A%E5%A3%AB%E9%AA%97&t=31&band_rank=7&Refer=top)<br />
-8. [于正 下部剧让王星越周也往死里甜](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%20%E4%B8%8B%E9%83%A8%E5%89%A7%E8%AE%A9%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%91%A8%E4%B9%9F%E5%BE%80%E6%AD%BB%E9%87%8C%E7%94%9C&t=31&band_rank=8&Refer=top)<br />
-9. [美国宣布增兵中东](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%A2%9E%E5%85%B5%E4%B8%AD%E4%B8%9C%23&t=31&band_rank=9&Refer=top)<br />
+8. [这英 没有那姐哪来的我](https://s.weibo.com/weibo?q=%E8%BF%99%E8%8B%B1%20%E6%B2%A1%E6%9C%89%E9%82%A3%E5%A7%90%E5%93%AA%E6%9D%A5%E7%9A%84%E6%88%91&t=31&band_rank=8&Refer=top)<br />
+9. [外卖烧烤店直接改名叫炸串店吧](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E7%83%A7%E7%83%A4%E5%BA%97%E7%9B%B4%E6%8E%A5%E6%94%B9%E5%90%8D%E5%8F%AB%E7%82%B8%E4%B8%B2%E5%BA%97%E5%90%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
