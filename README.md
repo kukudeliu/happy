@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 08:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 08:22:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [向佐 我把假向太抓来直播间啦](https://s.weibo.com/weibo?q=%E5%90%91%E4%BD%90%20%E6%88%91%E6%8A%8A%E5%81%87%E5%90%91%E5%A4%AA%E6%8A%93%E6%9D%A5%E7%9B%B4%E6%92%AD%E9%97%B4%E5%95%A6&t=31&band_rank=4&Refer=top)<br />
 5. [茅台涨价20%](https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E6%B6%A8%E4%BB%B720%25%23&t=31&band_rank=5&Refer=top)<br />
 6. [以色列](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [也门胡塞武装称向以色列发起打击](https://s.weibo.com/weibo?q=%23%E4%B9%9F%E9%97%A8%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E7%A7%B0%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E8%B5%B7%E6%89%93%E5%87%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [退款](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=8&Refer=top)<br />
-9. [赵昭仪一晚上找了秦岚辛芷蕾五次](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%98%AD%E4%BB%AA%E4%B8%80%E6%99%9A%E4%B8%8A%E6%89%BE%E4%BA%86%E7%A7%A6%E5%B2%9A%E8%BE%9B%E8%8A%B7%E8%95%BE%E4%BA%94%E6%AC%A1%23&t=31&band_rank=9&Refer=top)<br />
+7. [退款](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=7&Refer=top)<br />
+8. [也门胡塞武装称向以色列发起打击](https://s.weibo.com/weibo?q=%23%E4%B9%9F%E9%97%A8%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E7%A7%B0%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E8%B5%B7%E6%89%93%E5%87%BB%23&t=31&band_rank=8&Refer=top)<br />
+9. [7款APP全网下架](https://s.weibo.com/weibo?q=%237%E6%AC%BEAPP%E5%85%A8%E7%BD%91%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
