@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 02:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 02:02:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [美国宣布增兵中东](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%A2%9E%E5%85%B5%E4%B8%AD%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [世界首款“核能充电宝”上架](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E9%A6%96%E6%AC%BE%E2%80%9C%E6%A0%B8%E8%83%BD%E5%85%85%E7%94%B5%E5%AE%9D%E2%80%9D%E4%B8%8A%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方回应女教师离世：数石榴系谣言](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E6%95%99%E5%B8%88%E7%A6%BB%E4%B8%96%EF%BC%9A%E6%95%B0%E7%9F%B3%E6%A6%B4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [青岛啤酒就小便事件致歉：深感内疚](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E5%B0%B1%E5%B0%8F%E4%BE%BF%E4%BA%8B%E4%BB%B6%E8%87%B4%E6%AD%89%EF%BC%9A%E6%B7%B1%E6%84%9F%E5%86%85%E7%96%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [第二例接受猪心脏移植手术患者去世](https://www.baidu.com/s?wd=%E7%AC%AC%E4%BA%8C%E4%BE%8B%E6%8E%A5%E5%8F%97%E7%8C%AA%E5%BF%83%E8%84%8F%E7%A7%BB%E6%A4%8D%E6%89%8B%E6%9C%AF%E6%82%A3%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“北大韦神”被解雇？校方回应](https://www.baidu.com/s?wd=%E2%80%9C%E5%8C%97%E5%A4%A7%E9%9F%A6%E7%A5%9E%E2%80%9D%E8%A2%AB%E8%A7%A3%E9%9B%87%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [美国宣布增兵中东](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%A2%9E%E5%85%B5%E4%B8%AD%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [世界首款“核能充电宝”上架](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E9%A6%96%E6%AC%BE%E2%80%9C%E6%A0%B8%E8%83%BD%E5%85%85%E7%94%B5%E5%AE%9D%E2%80%9D%E4%B8%8A%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方回应女教师离世：数石榴系谣言](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E6%95%99%E5%B8%88%E7%A6%BB%E4%B8%96%EF%BC%9A%E6%95%B0%E7%9F%B3%E6%A6%B4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [青岛啤酒就小便事件致歉：深感内疚](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E5%B0%B1%E5%B0%8F%E4%BE%BF%E4%BA%8B%E4%BB%B6%E8%87%B4%E6%AD%89%EF%BC%9A%E6%B7%B1%E6%84%9F%E5%86%85%E7%96%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [第二例接受猪心脏移植手术患者去世](https://www.baidu.com/s?wd=%E7%AC%AC%E4%BA%8C%E4%BE%8B%E6%8E%A5%E5%8F%97%E7%8C%AA%E5%BF%83%E8%84%8F%E7%A7%BB%E6%A4%8D%E6%89%8B%E6%9C%AF%E6%82%A3%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“北大韦神”被解雇？校方回应](https://www.baidu.com/s?wd=%E2%80%9C%E5%8C%97%E5%A4%A7%E9%9F%A6%E7%A5%9E%E2%80%9D%E8%A2%AB%E8%A7%A3%E9%9B%87%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
