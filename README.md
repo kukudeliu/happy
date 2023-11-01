@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 09:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 09:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以色列](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [玻利维亚决定与以色列断交](https://s.weibo.com/weibo?q=%23%E7%8E%BB%E5%88%A9%E7%BB%B4%E4%BA%9A%E5%86%B3%E5%AE%9A%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E6%96%AD%E4%BA%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [茅台涨价20%](https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E6%B6%A8%E4%BB%B720%25%23&t=31&band_rank=8&Refer=top)<br />
-9. [退款](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=9&Refer=top)<br />
+9. [人在医院能无知到什么程度](https://s.weibo.com/weibo?q=%E4%BA%BA%E5%9C%A8%E5%8C%BB%E9%99%A2%E8%83%BD%E6%97%A0%E7%9F%A5%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
