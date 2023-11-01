@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 00:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 00:39:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [水庆霞凌晨刚获奖 晚上就被淘汰](https://www.baidu.com/s?wd=%E6%B0%B4%E5%BA%86%E9%9C%9E%E5%87%8C%E6%99%A8%E5%88%9A%E8%8E%B7%E5%A5%96+%E6%99%9A%E4%B8%8A%E5%B0%B1%E8%A2%AB%E6%B7%98%E6%B1%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [自信从容的中国航天人](https://www.baidu.com/s?wd=%E8%87%AA%E4%BF%A1%E4%BB%8E%E5%AE%B9%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国宣布增兵中东](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%A2%9E%E5%85%B5%E4%B8%AD%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [日船非法进中国钓鱼岛领海 中方管控](https://www.baidu.com/s?wd=%E6%97%A5%E8%88%B9%E9%9D%9E%E6%B3%95%E8%BF%9B%E4%B8%AD%E5%9B%BD%E9%92%93%E9%B1%BC%E5%B2%9B%E9%A2%86%E6%B5%B7+%E4%B8%AD%E6%96%B9%E7%AE%A1%E6%8E%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [疑交警追车致2死 官方成立工作组](https://www.baidu.com/s?wd=%E7%96%91%E4%BA%A4%E8%AD%A6%E8%BF%BD%E8%BD%A6%E8%87%B42%E6%AD%BB+%E5%AE%98%E6%96%B9%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E7%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [幼儿园老师磕断小孩牙齿被解聘](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E7%A3%95%E6%96%AD%E5%B0%8F%E5%AD%A9%E7%89%99%E9%BD%BF%E8%A2%AB%E8%A7%A3%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方回应女教师离世：数石榴系谣言](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E6%95%99%E5%B8%88%E7%A6%BB%E4%B8%96%EF%BC%9A%E6%95%B0%E7%9F%B3%E6%A6%B4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [闲鱼回应多地大学生在平台挂学校](https://www.baidu.com/s?wd=%E9%97%B2%E9%B1%BC%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%B9%B3%E5%8F%B0%E6%8C%82%E5%AD%A6%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“北大韦神”被解雇？校方回应](https://www.baidu.com/s?wd=%E2%80%9C%E5%8C%97%E5%A4%A7%E9%9F%A6%E7%A5%9E%E2%80%9D%E8%A2%AB%E8%A7%A3%E9%9B%87%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [水庆霞凌晨刚获奖 晚上就被淘汰](https://www.baidu.com/s?wd=%E6%B0%B4%E5%BA%86%E9%9C%9E%E5%87%8C%E6%99%A8%E5%88%9A%E8%8E%B7%E5%A5%96+%E6%99%9A%E4%B8%8A%E5%B0%B1%E8%A2%AB%E6%B7%98%E6%B1%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [自信从容的中国航天人](https://www.baidu.com/s?wd=%E8%87%AA%E4%BF%A1%E4%BB%8E%E5%AE%B9%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国宣布增兵中东](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%A2%9E%E5%85%B5%E4%B8%AD%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [日船非法进中国钓鱼岛领海 中方管控](https://www.baidu.com/s?wd=%E6%97%A5%E8%88%B9%E9%9D%9E%E6%B3%95%E8%BF%9B%E4%B8%AD%E5%9B%BD%E9%92%93%E9%B1%BC%E5%B2%9B%E9%A2%86%E6%B5%B7+%E4%B8%AD%E6%96%B9%E7%AE%A1%E6%8E%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [疑交警追车致2死 官方成立工作组](https://www.baidu.com/s?wd=%E7%96%91%E4%BA%A4%E8%AD%A6%E8%BF%BD%E8%BD%A6%E8%87%B42%E6%AD%BB+%E5%AE%98%E6%96%B9%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E7%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [幼儿园老师磕断小孩牙齿被解聘](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E7%A3%95%E6%96%AD%E5%B0%8F%E5%AD%A9%E7%89%99%E9%BD%BF%E8%A2%AB%E8%A7%A3%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方回应女教师离世：数石榴系谣言](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E6%95%99%E5%B8%88%E7%A6%BB%E4%B8%96%EF%BC%9A%E6%95%B0%E7%9F%B3%E6%A6%B4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [闲鱼回应多地大学生在平台挂学校](https://www.baidu.com/s?wd=%E9%97%B2%E9%B1%BC%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%B9%B3%E5%8F%B0%E6%8C%82%E5%AD%A6%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“北大韦神”被解雇？校方回应](https://www.baidu.com/s?wd=%E2%80%9C%E5%8C%97%E5%A4%A7%E9%9F%A6%E7%A5%9E%E2%80%9D%E8%A2%AB%E8%A7%A3%E9%9B%87%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
