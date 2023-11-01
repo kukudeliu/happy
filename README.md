@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 20:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 20:49:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [红日初升耀神舟](https://www.baidu.com/s?wd=%E7%BA%A2%E6%97%A5%E5%88%9D%E5%8D%87%E8%80%80%E7%A5%9E%E8%88%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [第二例接受猪心脏移植手术患者去世](https://www.baidu.com/s?wd=%E7%AC%AC%E4%BA%8C%E4%BE%8B%E6%8E%A5%E5%8F%97%E7%8C%AA%E5%BF%83%E8%84%8F%E7%A7%BB%E6%A4%8D%E6%89%8B%E6%9C%AF%E6%82%A3%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [千年前的壁画上女孩比了个心](https://www.baidu.com/s?wd=%E5%8D%83%E5%B9%B4%E5%89%8D%E7%9A%84%E5%A3%81%E7%94%BB%E4%B8%8A%E5%A5%B3%E5%AD%A9%E6%AF%94%E4%BA%86%E4%B8%AA%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [楼盘逾期交付还要求房主补差价](https://www.baidu.com/s?wd=%E6%A5%BC%E7%9B%98%E9%80%BE%E6%9C%9F%E4%BA%A4%E4%BB%98%E8%BF%98%E8%A6%81%E6%B1%82%E6%88%BF%E4%B8%BB%E8%A1%A5%E5%B7%AE%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [峨眉山招聘猴群管理员](https://www.baidu.com/s?wd=%E5%B3%A8%E7%9C%89%E5%B1%B1%E6%8B%9B%E8%81%98%E7%8C%B4%E7%BE%A4%E7%AE%A1%E7%90%86%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [巴裔美国男子42名亲属在加沙遇难](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A3%94%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%9042%E5%90%8D%E4%BA%B2%E5%B1%9E%E5%9C%A8%E5%8A%A0%E6%B2%99%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [世界首款“核能充电宝”上架](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E9%A6%96%E6%AC%BE%E2%80%9C%E6%A0%B8%E8%83%BD%E5%85%85%E7%94%B5%E5%AE%9D%E2%80%9D%E4%B8%8A%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“北大韦神”被解雇？校方回应](https://www.baidu.com/s?wd=%E2%80%9C%E5%8C%97%E5%A4%A7%E9%9F%A6%E7%A5%9E%E2%80%9D%E8%A2%AB%E8%A7%A3%E9%9B%87%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [红日初升耀神舟](https://www.baidu.com/s?wd=%E7%BA%A2%E6%97%A5%E5%88%9D%E5%8D%87%E8%80%80%E7%A5%9E%E8%88%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [第二例接受猪心脏移植手术患者去世](https://www.baidu.com/s?wd=%E7%AC%AC%E4%BA%8C%E4%BE%8B%E6%8E%A5%E5%8F%97%E7%8C%AA%E5%BF%83%E8%84%8F%E7%A7%BB%E6%A4%8D%E6%89%8B%E6%9C%AF%E6%82%A3%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [千年前的壁画上女孩比了个心](https://www.baidu.com/s?wd=%E5%8D%83%E5%B9%B4%E5%89%8D%E7%9A%84%E5%A3%81%E7%94%BB%E4%B8%8A%E5%A5%B3%E5%AD%A9%E6%AF%94%E4%BA%86%E4%B8%AA%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [楼盘逾期交付还要求房主补差价](https://www.baidu.com/s?wd=%E6%A5%BC%E7%9B%98%E9%80%BE%E6%9C%9F%E4%BA%A4%E4%BB%98%E8%BF%98%E8%A6%81%E6%B1%82%E6%88%BF%E4%B8%BB%E8%A1%A5%E5%B7%AE%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [峨眉山招聘猴群管理员](https://www.baidu.com/s?wd=%E5%B3%A8%E7%9C%89%E5%B1%B1%E6%8B%9B%E8%81%98%E7%8C%B4%E7%BE%A4%E7%AE%A1%E7%90%86%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [巴裔美国男子42名亲属在加沙遇难](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A3%94%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%9042%E5%90%8D%E4%BA%B2%E5%B1%9E%E5%9C%A8%E5%8A%A0%E6%B2%99%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [世界首款“核能充电宝”上架](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E9%A6%96%E6%AC%BE%E2%80%9C%E6%A0%B8%E8%83%BD%E5%85%85%E7%94%B5%E5%AE%9D%E2%80%9D%E4%B8%8A%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“北大韦神”被解雇？校方回应](https://www.baidu.com/s?wd=%E2%80%9C%E5%8C%97%E5%A4%A7%E9%9F%A6%E7%A5%9E%E2%80%9D%E8%A2%AB%E8%A7%A3%E9%9B%87%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
