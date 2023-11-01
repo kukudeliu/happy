@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 07:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 07:52:01</h4></div>
 
 > 微博  
 
 1. [海归博士985硕士求职因本科双非被刷](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BD%92%E5%8D%9A%E5%A3%AB985%E7%A1%95%E5%A3%AB%E6%B1%82%E8%81%8C%E5%9B%A0%E6%9C%AC%E7%A7%91%E5%8F%8C%E9%9D%9E%E8%A2%AB%E5%88%B7%23&t=31&band_rank=1&Refer=top)<br />
 2. [反向泡脚 越泡越虚](https://s.weibo.com/weibo?q=%E5%8F%8D%E5%90%91%E6%B3%A1%E8%84%9A%20%E8%B6%8A%E6%B3%A1%E8%B6%8A%E8%99%9A&t=31&band_rank=2&Refer=top)<br />
 3. [6位航天员太空会面瞬间回顾](https://s.weibo.com/weibo?q=%236%E4%BD%8D%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E4%BC%9A%E9%9D%A2%E7%9E%AC%E9%97%B4%E5%9B%9E%E9%A1%BE%23&t=31&band_rank=3&Refer=top)<br />
-4. [教体局通报女教师跳楼轻生事件](https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E9%80%9A%E6%8A%A5%E5%A5%B3%E6%95%99%E5%B8%88%E8%B7%B3%E6%A5%BC%E8%BD%BB%E7%94%9F%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=4&Refer=top)<br />
-5. [杨紫发个正常的朋友圈被80个好友担心](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8F%91%E4%B8%AA%E6%AD%A3%E5%B8%B8%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB80%E4%B8%AA%E5%A5%BD%E5%8F%8B%E6%8B%85%E5%BF%83%23&t=31&band_rank=5&Refer=top)<br />
+4. [杨紫发个正常的朋友圈被80个好友担心](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8F%91%E4%B8%AA%E6%AD%A3%E5%B8%B8%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB80%E4%B8%AA%E5%A5%BD%E5%8F%8B%E6%8B%85%E5%BF%83%23&t=31&band_rank=4&Refer=top)<br />
+5. [教体局通报女教师跳楼轻生事件](https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E9%80%9A%E6%8A%A5%E5%A5%B3%E6%95%99%E5%B8%88%E8%B7%B3%E6%A5%BC%E8%BD%BB%E7%94%9F%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [男生住商场楼梯下超半年无人知晓](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E4%BD%8F%E5%95%86%E5%9C%BA%E6%A5%BC%E6%A2%AF%E4%B8%8B%E8%B6%85%E5%8D%8A%E5%B9%B4%E6%97%A0%E4%BA%BA%E7%9F%A5%E6%99%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [樊振东1比3李尚洙](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C1%E6%AF%943%E6%9D%8E%E5%B0%9A%E6%B4%99%23&t=31&band_rank=7&Refer=top)<br />
 8. [幼童高烧40度公交变救护车3分钟送医](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E7%AB%A5%E9%AB%98%E7%83%A740%E5%BA%A6%E5%85%AC%E4%BA%A4%E5%8F%98%E6%95%91%E6%8A%A4%E8%BD%A63%E5%88%86%E9%92%9F%E9%80%81%E5%8C%BB%23&t=31&band_rank=8&Refer=top)<br />
