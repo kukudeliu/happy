@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 21:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 21:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [于正你好歹毒的心](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%E4%BD%A0%E5%A5%BD%E6%AD%B9%E6%AF%92%E7%9A%84%E5%BF%83&t=31&band_rank=6&Refer=top)<br />
 7. [梅西中国行取消](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%8F%96%E6%B6%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [檀健次 戴比尔斯](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%20%E6%88%B4%E6%AF%94%E5%B0%94%E6%96%AF&t=31&band_rank=8&Refer=top)<br />
-9. [双胞胎为什么要穿得一模一样](https://s.weibo.com/weibo?q=%E5%8F%8C%E8%83%9E%E8%83%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%A9%BF%E5%BE%97%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7&t=31&band_rank=9&Refer=top)<br />
+9. [闲鱼回应多地大学生在平台挂学校](https://s.weibo.com/weibo?q=%23%E9%97%B2%E9%B1%BC%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%B9%B3%E5%8F%B0%E6%8C%82%E5%AD%A6%E6%A0%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
