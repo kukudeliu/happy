@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 09:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 09:44:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [中国航天“梦之队”再立新功](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E2%80%9C%E6%A2%A6%E4%B9%8B%E9%98%9F%E2%80%9D%E5%86%8D%E7%AB%8B%E6%96%B0%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [飞天茅台出厂价上调](https://www.baidu.com/s?wd=%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0%E5%87%BA%E5%8E%82%E4%BB%B7%E4%B8%8A%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [安踏更改公司标志](https://www.baidu.com/s?wd=%E5%AE%89%E8%B8%8F%E6%9B%B4%E6%94%B9%E5%85%AC%E5%8F%B8%E6%A0%87%E5%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子租劳斯莱斯转卖500万后潜逃](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%9F%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E8%BD%AC%E5%8D%96500%E4%B8%87%E5%90%8E%E6%BD%9C%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [智利总统宣布召回驻以色列大使](https://www.baidu.com/s?wd=%E6%99%BA%E5%88%A9%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E5%8F%AC%E5%9B%9E%E9%A9%BB%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%A7%E4%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子戴纸帽维权遭拘案再审被驳回](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%88%B4%E7%BA%B8%E5%B8%BD%E7%BB%B4%E6%9D%83%E9%81%AD%E6%8B%98%E6%A1%88%E5%86%8D%E5%AE%A1%E8%A2%AB%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子租劳斯莱斯转卖500万后潜逃](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%9F%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E8%BD%AC%E5%8D%96500%E4%B8%87%E5%90%8E%E6%BD%9C%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [猫狗粮被针管投毒？官方辟谣](https://www.baidu.com/s?wd=%E7%8C%AB%E7%8B%97%E7%B2%AE%E8%A2%AB%E9%92%88%E7%AE%A1%E6%8A%95%E6%AF%92%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [中国航天“梦之队”再立新功](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E2%80%9C%E6%A2%A6%E4%B9%8B%E9%98%9F%E2%80%9D%E5%86%8D%E7%AB%8B%E6%96%B0%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [飞天茅台出厂价上调](https://www.baidu.com/s?wd=%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0%E5%87%BA%E5%8E%82%E4%BB%B7%E4%B8%8A%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [安踏更改公司标志](https://www.baidu.com/s?wd=%E5%AE%89%E8%B8%8F%E6%9B%B4%E6%94%B9%E5%85%AC%E5%8F%B8%E6%A0%87%E5%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子租劳斯莱斯转卖500万后潜逃](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%9F%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E8%BD%AC%E5%8D%96500%E4%B8%87%E5%90%8E%E6%BD%9C%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [智利总统宣布召回驻以色列大使](https://www.baidu.com/s?wd=%E6%99%BA%E5%88%A9%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E5%8F%AC%E5%9B%9E%E9%A9%BB%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%A7%E4%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子戴纸帽维权遭拘案再审被驳回](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%88%B4%E7%BA%B8%E5%B8%BD%E7%BB%B4%E6%9D%83%E9%81%AD%E6%8B%98%E6%A1%88%E5%86%8D%E5%AE%A1%E8%A2%AB%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子租劳斯莱斯转卖500万后潜逃](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%9F%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E8%BD%AC%E5%8D%96500%E4%B8%87%E5%90%8E%E6%BD%9C%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [猫狗粮被针管投毒？官方辟谣](https://www.baidu.com/s?wd=%E7%8C%AB%E7%8B%97%E7%B2%AE%E8%A2%AB%E9%92%88%E7%AE%A1%E6%8A%95%E6%AF%92%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
