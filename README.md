@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 02:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 02:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [接了个大单没想到是贾乃亮](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%BA%86%E4%B8%AA%E5%A4%A7%E5%8D%95%E6%B2%A1%E6%83%B3%E5%88%B0%E6%98%AF%E8%B4%BE%E4%B9%83%E4%BA%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [男生住商场楼梯下超半年无人知晓](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E4%BD%8F%E5%95%86%E5%9C%BA%E6%A5%BC%E6%A2%AF%E4%B8%8B%E8%B6%85%E5%8D%8A%E5%B9%B4%E6%97%A0%E4%BA%BA%E7%9F%A5%E6%99%93%23&t=31&band_rank=7&Refer=top)<br />
 8. [张栋梁第一次当卧底失败的原因](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A0%8B%E6%A2%81%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%BD%93%E5%8D%A7%E5%BA%95%E5%A4%B1%E8%B4%A5%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴李慧珍属性大爆发](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%9D%8E%E6%85%A7%E7%8F%8D%E5%B1%9E%E6%80%A7%E5%A4%A7%E7%88%86%E5%8F%91&t=31&band_rank=9&Refer=top)<br />
+9. [美国宣布增兵中东](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%A2%9E%E5%85%B5%E4%B8%AD%E4%B8%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
