@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 17:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 17:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杭州出现卖4988元一杯的咖啡](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%87%BA%E7%8E%B0%E5%8D%964988%E5%85%83%E4%B8%80%E6%9D%AF%E7%9A%84%E5%92%96%E5%95%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽姐热了吧](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E5%A7%90%E7%83%AD%E4%BA%86%E5%90%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [朝鲜关闭12个驻外使领馆](https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E5%85%B3%E9%97%AD12%E4%B8%AA%E9%A9%BB%E5%A4%96%E4%BD%BF%E9%A2%86%E9%A6%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [专家说金鸡奖最佳男配角给谁都不奇怪](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%AF%B4%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D%E8%A7%92%E7%BB%99%E8%B0%81%E9%83%BD%E4%B8%8D%E5%A5%87%E6%80%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [时宴终于来了](https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%AE%B4%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [红日初升耀神舟](https://www.baidu.com/s?wd=%E7%BA%A2%E6%97%A5%E5%88%9D%E5%8D%87%E8%80%80%E7%A5%9E%E8%88%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [胡锡进谈教师自杀:形式主义让人疯掉](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%B0%88%E6%95%99%E5%B8%88%E8%87%AA%E6%9D%80%3A%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89%E8%AE%A9%E4%BA%BA%E7%96%AF%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女老师留遗书自杀前一天遭校长批评](https://www.baidu.com/s?wd=%E5%A5%B3%E8%80%81%E5%B8%88%E7%95%99%E9%81%97%E4%B9%A6%E8%87%AA%E6%9D%80%E5%89%8D%E4%B8%80%E5%A4%A9%E9%81%AD%E6%A0%A1%E9%95%BF%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [峨眉山招聘猴群管理员](https://www.baidu.com/s?wd=%E5%B3%A8%E7%9C%89%E5%B1%B1%E6%8B%9B%E8%81%98%E7%8C%B4%E7%BE%A4%E7%AE%A1%E7%90%86%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [成都上千只宠物鹦鹉被人野外放生](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%8A%E5%8D%83%E5%8F%AA%E5%AE%A0%E7%89%A9%E9%B9%A6%E9%B9%89%E8%A2%AB%E4%BA%BA%E9%87%8E%E5%A4%96%E6%94%BE%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [幼儿园老师磕断小孩牙齿被解聘](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E7%A3%95%E6%96%AD%E5%B0%8F%E5%AD%A9%E7%89%99%E9%BD%BF%E8%A2%AB%E8%A7%A3%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [楼盘逾期交付还要求房主补差价](https://www.baidu.com/s?wd=%E6%A5%BC%E7%9B%98%E9%80%BE%E6%9C%9F%E4%BA%A4%E4%BB%98%E8%BF%98%E8%A6%81%E6%B1%82%E6%88%BF%E4%B8%BB%E8%A1%A5%E5%B7%AE%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南一地辟谣发生非洲猪瘟疫情](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E5%9C%B0%E8%BE%9F%E8%B0%A3%E5%8F%91%E7%94%9F%E9%9D%9E%E6%B4%B2%E7%8C%AA%E7%98%9F%E7%96%AB%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [红日初升耀神舟](https://www.baidu.com/s?wd=%E7%BA%A2%E6%97%A5%E5%88%9D%E5%8D%87%E8%80%80%E7%A5%9E%E8%88%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [胡锡进谈教师自杀:形式主义让人疯掉](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%B0%88%E6%95%99%E5%B8%88%E8%87%AA%E6%9D%80%3A%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89%E8%AE%A9%E4%BA%BA%E7%96%AF%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女老师留遗书自杀前一天遭校长批评](https://www.baidu.com/s?wd=%E5%A5%B3%E8%80%81%E5%B8%88%E7%95%99%E9%81%97%E4%B9%A6%E8%87%AA%E6%9D%80%E5%89%8D%E4%B8%80%E5%A4%A9%E9%81%AD%E6%A0%A1%E9%95%BF%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [峨眉山招聘猴群管理员](https://www.baidu.com/s?wd=%E5%B3%A8%E7%9C%89%E5%B1%B1%E6%8B%9B%E8%81%98%E7%8C%B4%E7%BE%A4%E7%AE%A1%E7%90%86%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [成都上千只宠物鹦鹉被人野外放生](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%8A%E5%8D%83%E5%8F%AA%E5%AE%A0%E7%89%A9%E9%B9%A6%E9%B9%89%E8%A2%AB%E4%BA%BA%E9%87%8E%E5%A4%96%E6%94%BE%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [幼儿园老师磕断小孩牙齿被解聘](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E7%A3%95%E6%96%AD%E5%B0%8F%E5%AD%A9%E7%89%99%E9%BD%BF%E8%A2%AB%E8%A7%A3%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [楼盘逾期交付还要求房主补差价](https://www.baidu.com/s?wd=%E6%A5%BC%E7%9B%98%E9%80%BE%E6%9C%9F%E4%BA%A4%E4%BB%98%E8%BF%98%E8%A6%81%E6%B1%82%E6%88%BF%E4%B8%BB%E8%A1%A5%E5%B7%AE%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南一地辟谣发生非洲猪瘟疫情](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E5%9C%B0%E8%BE%9F%E8%B0%A3%E5%8F%91%E7%94%9F%E9%9D%9E%E6%B4%B2%E7%8C%AA%E7%98%9F%E7%96%AB%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
