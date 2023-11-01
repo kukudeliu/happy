@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 15:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 15:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [成都被狗咬女童右肾已保住](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%A2%AB%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E5%8F%B3%E8%82%BE%E5%B7%B2%E4%BF%9D%E4%BD%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [这英被父母扫兴了20年](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%8B%B1%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%89%AB%E5%85%B4%E4%BA%8620%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [儿童掉入污水井两成人施救遇难](https://s.weibo.com/weibo?q=%23%E5%84%BF%E7%AB%A5%E6%8E%89%E5%85%A5%E6%B1%A1%E6%B0%B4%E4%BA%95%E4%B8%A4%E6%88%90%E4%BA%BA%E6%96%BD%E6%95%91%E9%81%87%E9%9A%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [辛芷蕾说我想结婚](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%AF%B4%E6%88%91%E6%83%B3%E7%BB%93%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [王安宇像在rua狗](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E5%83%8F%E5%9C%A8rua%E7%8B%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
