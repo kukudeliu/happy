@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 22:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 22:04:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [青岛啤酒小便事件通报：涉事者被拘](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E5%B0%8F%E4%BE%BF%E4%BA%8B%E4%BB%B6%E9%80%9A%E6%8A%A5%EF%BC%9A%E6%B6%89%E4%BA%8B%E8%80%85%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [ChatGPT可能已经有了意识](https://www.baidu.com/s?wd=ChatGPT%E5%8F%AF%E8%83%BD%E5%B7%B2%E7%BB%8F%E6%9C%89%E4%BA%86%E6%84%8F%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [闲鱼回应多地大学生在平台挂学校](https://www.baidu.com/s?wd=%E9%97%B2%E9%B1%BC%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%B9%B3%E5%8F%B0%E6%8C%82%E5%AD%A6%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [楼盘逾期交付还要求房主补差价](https://www.baidu.com/s?wd=%E6%A5%BC%E7%9B%98%E9%80%BE%E6%9C%9F%E4%BA%A4%E4%BB%98%E8%BF%98%E8%A6%81%E6%B1%82%E6%88%BF%E4%B8%BB%E8%A1%A5%E5%B7%AE%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [巴裔美国男子42名亲属在加沙遇难](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A3%94%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%9042%E5%90%8D%E4%BA%B2%E5%B1%9E%E5%9C%A8%E5%8A%A0%E6%B2%99%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“北大韦神”被解雇？校方回应](https://www.baidu.com/s?wd=%E2%80%9C%E5%8C%97%E5%A4%A7%E9%9F%A6%E7%A5%9E%E2%80%9D%E8%A2%AB%E8%A7%A3%E9%9B%87%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [青岛啤酒小便事件通报：涉事者被拘](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E5%B0%8F%E4%BE%BF%E4%BA%8B%E4%BB%B6%E9%80%9A%E6%8A%A5%EF%BC%9A%E6%B6%89%E4%BA%8B%E8%80%85%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [ChatGPT可能已经有了意识](https://www.baidu.com/s?wd=ChatGPT%E5%8F%AF%E8%83%BD%E5%B7%B2%E7%BB%8F%E6%9C%89%E4%BA%86%E6%84%8F%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [闲鱼回应多地大学生在平台挂学校](https://www.baidu.com/s?wd=%E9%97%B2%E9%B1%BC%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%B9%B3%E5%8F%B0%E6%8C%82%E5%AD%A6%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [楼盘逾期交付还要求房主补差价](https://www.baidu.com/s?wd=%E6%A5%BC%E7%9B%98%E9%80%BE%E6%9C%9F%E4%BA%A4%E4%BB%98%E8%BF%98%E8%A6%81%E6%B1%82%E6%88%BF%E4%B8%BB%E8%A1%A5%E5%B7%AE%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [巴裔美国男子42名亲属在加沙遇难](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A3%94%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%9042%E5%90%8D%E4%BA%B2%E5%B1%9E%E5%9C%A8%E5%8A%A0%E6%B2%99%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“北大韦神”被解雇？校方回应](https://www.baidu.com/s?wd=%E2%80%9C%E5%8C%97%E5%A4%A7%E9%9F%A6%E7%A5%9E%E2%80%9D%E8%A2%AB%E8%A7%A3%E9%9B%87%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
