@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 12:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 12:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女教师辞职拍飞机6年拍几十万张](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E8%BE%9E%E8%81%8C%E6%8B%8D%E9%A3%9E%E6%9C%BA6%E5%B9%B4%E6%8B%8D%E5%87%A0%E5%8D%81%E4%B8%87%E5%BC%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [以色列](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [傅首尔为老刘重燃生活热情而开心](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E4%B8%BA%E8%80%81%E5%88%98%E9%87%8D%E7%87%83%E7%94%9F%E6%B4%BB%E7%83%AD%E6%83%85%E8%80%8C%E5%BC%80%E5%BF%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [向佐 我把假向太抓来直播间啦](https://s.weibo.com/weibo?q=%E5%90%91%E4%BD%90%20%E6%88%91%E6%8A%8A%E5%81%87%E5%90%91%E5%A4%AA%E6%8A%93%E6%9D%A5%E7%9B%B4%E6%92%AD%E9%97%B4%E5%95%A6&t=31&band_rank=9&Refer=top)<br />
+9. [胡先煦喝药干湿分离](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E5%96%9D%E8%8D%AF%E5%B9%B2%E6%B9%BF%E5%88%86%E7%A6%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
