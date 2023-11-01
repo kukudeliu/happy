@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 08:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 08:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以色列](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [茅台涨价20%](https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E6%B6%A8%E4%BB%B720%25%23&t=31&band_rank=7&Refer=top)<br />
 8. [退款](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=8&Refer=top)<br />
-9. [也门胡塞武装称向以色列发起打击](https://s.weibo.com/weibo?q=%23%E4%B9%9F%E9%97%A8%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E7%A7%B0%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E8%B5%B7%E6%89%93%E5%87%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [安踏宣布更改公司标志](https://s.weibo.com/weibo?q=%23%E5%AE%89%E8%B8%8F%E5%AE%A3%E5%B8%83%E6%9B%B4%E6%94%B9%E5%85%AC%E5%8F%B8%E6%A0%87%E5%BF%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
