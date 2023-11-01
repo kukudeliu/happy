@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 21:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 21:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子晒控糖一年身体变化](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%99%92%E6%8E%A7%E7%B3%96%E4%B8%80%E5%B9%B4%E8%BA%AB%E4%BD%93%E5%8F%98%E5%8C%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [于正你好歹毒的心](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%E4%BD%A0%E5%A5%BD%E6%AD%B9%E6%AF%92%E7%9A%84%E5%BF%83&t=31&band_rank=7&Refer=top)<br />
 8. [梅西中国行取消](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%8F%96%E6%B6%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [双胞胎为什么要穿得一模一样](https://s.weibo.com/weibo?q=%E5%8F%8C%E8%83%9E%E8%83%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%A9%BF%E5%BE%97%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7&t=31&band_rank=9&Refer=top)<br />
+9. [杨紫发个正常的朋友圈被80个好友担心](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8F%91%E4%B8%AA%E6%AD%A3%E5%B8%B8%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB80%E4%B8%AA%E5%A5%BD%E5%8F%8B%E6%8B%85%E5%BF%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
