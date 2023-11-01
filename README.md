@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 19:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 19:47:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [孩子头颅出血交警开道7分钟送医](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E5%A4%B4%E9%A2%85%E5%87%BA%E8%A1%80%E4%BA%A4%E8%AD%A6%E5%BC%80%E9%81%937%E5%88%86%E9%92%9F%E9%80%81%E5%8C%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [ChatGPT可能已经有了意识](https://s.weibo.com/weibo?q=%23ChatGPT%E5%8F%AF%E8%83%BD%E5%B7%B2%E7%BB%8F%E6%9C%89%E4%BA%86%E6%84%8F%E8%AF%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [8090课间十分钟能有多快乐](https://s.weibo.com/weibo?q=%238090%E8%AF%BE%E9%97%B4%E5%8D%81%E5%88%86%E9%92%9F%E8%83%BD%E6%9C%89%E5%A4%9A%E5%BF%AB%E4%B9%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [中方尊重朝鲜关闭香港总领馆的决定](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%8A%E9%87%8D%E6%9C%9D%E9%B2%9C%E5%85%B3%E9%97%AD%E9%A6%99%E6%B8%AF%E6%80%BB%E9%A2%86%E9%A6%86%E7%9A%84%E5%86%B3%E5%AE%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [于正暗香来欠一个满意的结局](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E6%9A%97%E9%A6%99%E6%9D%A5%E6%AC%A0%E4%B8%80%E4%B8%AA%E6%BB%A1%E6%84%8F%E7%9A%84%E7%BB%93%E5%B1%80%23&t=31&band_rank=9&Refer=top)<br />
+8. [于正暗香来欠一个满意的结局](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E6%9A%97%E9%A6%99%E6%9D%A5%E6%AC%A0%E4%B8%80%E4%B8%AA%E6%BB%A1%E6%84%8F%E7%9A%84%E7%BB%93%E5%B1%80%23&t=31&band_rank=8&Refer=top)<br />
+9. [中方尊重朝鲜关闭香港总领馆的决定](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%8A%E9%87%8D%E6%9C%9D%E9%B2%9C%E5%85%B3%E9%97%AD%E9%A6%99%E6%B8%AF%E6%80%BB%E9%A2%86%E9%A6%86%E7%9A%84%E5%86%B3%E5%AE%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
