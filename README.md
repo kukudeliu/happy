@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 20:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 20:36:01</h4></div>
 
 > 微博  
 
-1. [男子晒控糖一年身体变化](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%99%92%E6%8E%A7%E7%B3%96%E4%B8%80%E5%B9%B4%E8%BA%AB%E4%BD%93%E5%8F%98%E5%8C%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [接了个大单没想到是贾乃亮](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%BA%86%E4%B8%AA%E5%A4%A7%E5%8D%95%E6%B2%A1%E6%83%B3%E5%88%B0%E6%98%AF%E8%B4%BE%E4%B9%83%E4%BA%AE%23&t=31&band_rank=2&Refer=top)<br />
+1. [青岛啤酒小便工人被行拘](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E5%B0%8F%E4%BE%BF%E5%B7%A5%E4%BA%BA%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=1&Refer=top)<br />
+2. [男子晒控糖一年身体变化](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%99%92%E6%8E%A7%E7%B3%96%E4%B8%80%E5%B9%B4%E8%BA%AB%E4%BD%93%E5%8F%98%E5%8C%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [神十六着陆前和太阳惊艳合影](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E5%85%AD%E7%9D%80%E9%99%86%E5%89%8D%E5%92%8C%E5%A4%AA%E9%98%B3%E6%83%8A%E8%89%B3%E5%90%88%E5%BD%B1%23&t=31&band_rank=3&Refer=top)<br />
-4. [青岛啤酒小便工人被行拘](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E5%B0%8F%E4%BE%BF%E5%B7%A5%E4%BA%BA%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=4&Refer=top)<br />
+4. [接了个大单没想到是贾乃亮](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%BA%86%E4%B8%AA%E5%A4%A7%E5%8D%95%E6%B2%A1%E6%83%B3%E5%88%B0%E6%98%AF%E8%B4%BE%E4%B9%83%E4%BA%AE%23&t=31&band_rank=4&Refer=top)<br />
 5. [梅西中国行取消](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%8F%96%E6%B6%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [ChatGPT可能已经有了意识](https://s.weibo.com/weibo?q=%23ChatGPT%E5%8F%AF%E8%83%BD%E5%B7%B2%E7%BB%8F%E6%9C%89%E4%BA%86%E6%84%8F%E8%AF%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [官方再通报青岛啤酒三厂事件](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%86%8D%E9%80%9A%E6%8A%A5%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E4%B8%89%E5%8E%82%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
