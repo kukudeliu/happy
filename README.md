@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 09:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 09:41:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [中方回应加拿大政府手机禁用微信](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%94%BF%E5%BA%9C%E6%89%8B%E6%9C%BA%E7%A6%81%E7%94%A8%E5%BE%AE%E4%BF%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [以色列](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [人在医院能无知到什么程度](https://s.weibo.com/weibo?q=%E4%BA%BA%E5%9C%A8%E5%8C%BB%E9%99%A2%E8%83%BD%E6%97%A0%E7%9F%A5%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6&t=31&band_rank=7&Refer=top)<br />
-8. [这个锅中国不背](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E9%94%85%E4%B8%AD%E5%9B%BD%E4%B8%8D%E8%83%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子面试失败骂HR后个人信息被曝光](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%9D%A2%E8%AF%95%E5%A4%B1%E8%B4%A5%E9%AA%82HR%E5%90%8E%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E8%A2%AB%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
+8. [男子面试失败骂HR后个人信息被曝光](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%9D%A2%E8%AF%95%E5%A4%B1%E8%B4%A5%E9%AA%82HR%E5%90%8E%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E8%A2%AB%E6%9B%9D%E5%85%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [这个锅中国不背](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E9%94%85%E4%B8%AD%E5%9B%BD%E4%B8%8D%E8%83%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
