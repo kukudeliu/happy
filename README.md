@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 05:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 05:54:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男生住商场楼梯下超半年无人知晓](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E4%BD%8F%E5%95%86%E5%9C%BA%E6%A5%BC%E6%A2%AF%E4%B8%8B%E8%B6%85%E5%8D%8A%E5%B9%B4%E6%97%A0%E4%BA%BA%E7%9F%A5%E6%99%93%23&t=31&band_rank=5&Refer=top)<br />
 6. [美国宣布增兵中东](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%A2%9E%E5%85%B5%E4%B8%AD%E4%B8%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [WTT法兰克福冠军赛2023](https://s.weibo.com/weibo?q=%23WTT%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%E5%86%A0%E5%86%9B%E8%B5%9B2023%23&t=31&band_rank=7&Refer=top)<br />
-8. [接了个大单没想到是贾乃亮](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%BA%86%E4%B8%AA%E5%A4%A7%E5%8D%95%E6%B2%A1%E6%83%B3%E5%88%B0%E6%98%AF%E8%B4%BE%E4%B9%83%E4%BA%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [30集的剧前29集是做梦](https://s.weibo.com/weibo?q=%2330%E9%9B%86%E7%9A%84%E5%89%A7%E5%89%8D29%E9%9B%86%E6%98%AF%E5%81%9A%E6%A2%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [问路老人和指路女孩时隔4年相聚了](https://s.weibo.com/weibo?q=%23%E9%97%AE%E8%B7%AF%E8%80%81%E4%BA%BA%E5%92%8C%E6%8C%87%E8%B7%AF%E5%A5%B3%E5%AD%A9%E6%97%B6%E9%9A%944%E5%B9%B4%E7%9B%B8%E8%81%9A%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [接了个大单没想到是贾乃亮](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%BA%86%E4%B8%AA%E5%A4%A7%E5%8D%95%E6%B2%A1%E6%83%B3%E5%88%B0%E6%98%AF%E8%B4%BE%E4%B9%83%E4%BA%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [美国宣布增兵中东](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%A2%9E%E5%85%B5%E4%B8%AD%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [千年前的壁画上女孩比了个心](https://www.baidu.com/s?wd=%E5%8D%83%E5%B9%B4%E5%89%8D%E7%9A%84%E5%A3%81%E7%94%BB%E4%B8%8A%E5%A5%B3%E5%AD%A9%E6%AF%94%E4%BA%86%E4%B8%AA%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [第二例接受猪心脏移植手术患者去世](https://www.baidu.com/s?wd=%E7%AC%AC%E4%BA%8C%E4%BE%8B%E6%8E%A5%E5%8F%97%E7%8C%AA%E5%BF%83%E8%84%8F%E7%A7%BB%E6%A4%8D%E6%89%8B%E6%9C%AF%E6%82%A3%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [55岁患者住院十余天后输液死亡](https://www.baidu.com/s?wd=55%E5%B2%81%E6%82%A3%E8%80%85%E4%BD%8F%E9%99%A2%E5%8D%81%E4%BD%99%E5%A4%A9%E5%90%8E%E8%BE%93%E6%B6%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [农村只要立火聚餐就要办证?河南通报](https://www.baidu.com/s?wd=%E5%86%9C%E6%9D%91%E5%8F%AA%E8%A6%81%E7%AB%8B%E7%81%AB%E8%81%9A%E9%A4%90%E5%B0%B1%E8%A6%81%E5%8A%9E%E8%AF%81%3F%E6%B2%B3%E5%8D%97%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“北大韦神”被解雇？校方回应](https://www.baidu.com/s?wd=%E2%80%9C%E5%8C%97%E5%A4%A7%E9%9F%A6%E7%A5%9E%E2%80%9D%E8%A2%AB%E8%A7%A3%E9%9B%87%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [美国宣布增兵中东](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%A2%9E%E5%85%B5%E4%B8%AD%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [千年前的壁画上女孩比了个心](https://www.baidu.com/s?wd=%E5%8D%83%E5%B9%B4%E5%89%8D%E7%9A%84%E5%A3%81%E7%94%BB%E4%B8%8A%E5%A5%B3%E5%AD%A9%E6%AF%94%E4%BA%86%E4%B8%AA%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [第二例接受猪心脏移植手术患者去世](https://www.baidu.com/s?wd=%E7%AC%AC%E4%BA%8C%E4%BE%8B%E6%8E%A5%E5%8F%97%E7%8C%AA%E5%BF%83%E8%84%8F%E7%A7%BB%E6%A4%8D%E6%89%8B%E6%9C%AF%E6%82%A3%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [55岁患者住院十余天后输液死亡](https://www.baidu.com/s?wd=55%E5%B2%81%E6%82%A3%E8%80%85%E4%BD%8F%E9%99%A2%E5%8D%81%E4%BD%99%E5%A4%A9%E5%90%8E%E8%BE%93%E6%B6%B2%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [农村只要立火聚餐就要办证?河南通报](https://www.baidu.com/s?wd=%E5%86%9C%E6%9D%91%E5%8F%AA%E8%A6%81%E7%AB%8B%E7%81%AB%E8%81%9A%E9%A4%90%E5%B0%B1%E8%A6%81%E5%8A%9E%E8%AF%81%3F%E6%B2%B3%E5%8D%97%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“北大韦神”被解雇？校方回应](https://www.baidu.com/s?wd=%E2%80%9C%E5%8C%97%E5%A4%A7%E9%9F%A6%E7%A5%9E%E2%80%9D%E8%A2%AB%E8%A7%A3%E9%9B%87%EF%BC%9F%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
