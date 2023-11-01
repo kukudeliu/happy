@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 12:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 12:13:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [吴承恩作品票房59亿](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%89%BF%E6%81%A9%E4%BD%9C%E5%93%81%E7%A5%A8%E6%88%BF59%E4%BA%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [人民日报评不该消失的课间10分钟](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E4%B8%8D%E8%AF%A5%E6%B6%88%E5%A4%B1%E7%9A%84%E8%AF%BE%E9%97%B410%E5%88%86%E9%92%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [女教师辞职拍飞机6年拍几十万张](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E8%BE%9E%E8%81%8C%E6%8B%8D%E9%A3%9E%E6%9C%BA6%E5%B9%B4%E6%8B%8D%E5%87%A0%E5%8D%81%E4%B8%87%E5%BC%A0%23&t=31&band_rank=6&Refer=top)<br />
-7. [傅首尔为老刘重燃生活热情而开心](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E4%B8%BA%E8%80%81%E5%88%98%E9%87%8D%E7%87%83%E7%94%9F%E6%B4%BB%E7%83%AD%E6%83%85%E8%80%8C%E5%BC%80%E5%BF%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [以色列](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=8&Refer=top)<br />
+7. [以色列](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=7&Refer=top)<br />
+8. [傅首尔为老刘重燃生活热情而开心](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E4%B8%BA%E8%80%81%E5%88%98%E9%87%8D%E7%87%83%E7%94%9F%E6%B4%BB%E7%83%AD%E6%83%85%E8%80%8C%E5%BC%80%E5%BF%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [球迷高喊梅西 C罗示意闭嘴](https://s.weibo.com/weibo?q=%E7%90%83%E8%BF%B7%E9%AB%98%E5%96%8A%E6%A2%85%E8%A5%BF%20C%E7%BD%97%E7%A4%BA%E6%84%8F%E9%97%AD%E5%98%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
