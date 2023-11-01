@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 12:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 12:53:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [当地教体局回应小学女教师去世](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E6%95%99%E4%BD%93%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%AD%A6%E5%A5%B3%E6%95%99%E5%B8%88%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [女教师辞职拍飞机6年拍几十万张](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E8%BE%9E%E8%81%8C%E6%8B%8D%E9%A3%9E%E6%9C%BA6%E5%B9%B4%E6%8B%8D%E5%87%A0%E5%8D%81%E4%B8%87%E5%BC%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [以色列](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [人民日报评不该消失的课间10分钟](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E4%B8%8D%E8%AF%A5%E6%B6%88%E5%A4%B1%E7%9A%84%E8%AF%BE%E9%97%B410%E5%88%86%E9%92%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [00后女老师自杀校方拒绝家属看监控](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E8%80%81%E5%B8%88%E8%87%AA%E6%9D%80%E6%A0%A1%E6%96%B9%E6%8B%92%E7%BB%9D%E5%AE%B6%E5%B1%9E%E7%9C%8B%E7%9B%91%E6%8E%A7%23&t=31&band_rank=8&Refer=top)<br />
+7. [00后女老师自杀校方拒绝家属看监控](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E8%80%81%E5%B8%88%E8%87%AA%E6%9D%80%E6%A0%A1%E6%96%B9%E6%8B%92%E7%BB%9D%E5%AE%B6%E5%B1%9E%E7%9C%8B%E7%9B%91%E6%8E%A7%23&t=31&band_rank=7&Refer=top)<br />
+8. [人民日报评不该消失的课间10分钟](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E4%B8%8D%E8%AF%A5%E6%B6%88%E5%A4%B1%E7%9A%84%E8%AF%BE%E9%97%B410%E5%88%86%E9%92%9F%23&t=31&band_rank=8&Refer=top)<br />
 9. [张镇麟](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%95%87%E9%BA%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
