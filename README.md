@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 08:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 08:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以色列](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [也门胡塞武装称向以色列发起打击](https://s.weibo.com/weibo?q=%23%E4%B9%9F%E9%97%A8%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E7%A7%B0%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E8%B5%B7%E6%89%93%E5%87%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [退款](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=8&Refer=top)<br />
-9. [官方回应6岁双胞胎打架姐姐摔倒离世](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%946%E5%B2%81%E5%8F%8C%E8%83%9E%E8%83%8E%E6%89%93%E6%9E%B6%E5%A7%90%E5%A7%90%E6%91%94%E5%80%92%E7%A6%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [7款APP全网下架](https://s.weibo.com/weibo?q=%237%E6%AC%BEAPP%E5%85%A8%E7%BD%91%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
