@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 21:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 21:36:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [全球第二例猪心脏移植患者6周后去世](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%8C%E4%BE%8B%E7%8C%AA%E5%BF%83%E8%84%8F%E7%A7%BB%E6%A4%8D%E6%82%A3%E8%80%856%E5%91%A8%E5%90%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [闲鱼回应多地大学生在平台挂学校](https://s.weibo.com/weibo?q=%23%E9%97%B2%E9%B1%BC%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%B9%B3%E5%8F%B0%E6%8C%82%E5%AD%A6%E6%A0%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [青岛啤酒发布整改情况说明](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E5%8F%91%E5%B8%83%E6%95%B4%E6%94%B9%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [男子晒控糖一年身体变化](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%99%92%E6%8E%A7%E7%B3%96%E4%B8%80%E5%B9%B4%E8%BA%AB%E4%BD%93%E5%8F%98%E5%8C%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [30集的剧前29集是做梦](https://s.weibo.com/weibo?q=%2330%E9%9B%86%E7%9A%84%E5%89%A7%E5%89%8D29%E9%9B%86%E6%98%AF%E5%81%9A%E6%A2%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [30集的剧前29集是做梦](https://s.weibo.com/weibo?q=%2330%E9%9B%86%E7%9A%84%E5%89%A7%E5%89%8D29%E9%9B%86%E6%98%AF%E5%81%9A%E6%A2%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [男子晒控糖一年身体变化](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%99%92%E6%8E%A7%E7%B3%96%E4%B8%80%E5%B9%B4%E8%BA%AB%E4%BD%93%E5%8F%98%E5%8C%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
