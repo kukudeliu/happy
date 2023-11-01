@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 08:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 08:45:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [向佐 我把假向太抓来直播间啦](https://s.weibo.com/weibo?q=%E5%90%91%E4%BD%90%20%E6%88%91%E6%8A%8A%E5%81%87%E5%90%91%E5%A4%AA%E6%8A%93%E6%9D%A5%E7%9B%B4%E6%92%AD%E9%97%B4%E5%95%A6&t=31&band_rank=4&Refer=top)<br />
 5. [玻利维亚决定与以色列断交](https://s.weibo.com/weibo?q=%23%E7%8E%BB%E5%88%A9%E7%BB%B4%E4%BA%9A%E5%86%B3%E5%AE%9A%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E6%96%AD%E4%BA%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [以色列](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [茅台涨价20%](https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E6%B6%A8%E4%BB%B720%25%23&t=31&band_rank=7&Refer=top)<br />
-8. [安踏宣布更改公司标志](https://s.weibo.com/weibo?q=%23%E5%AE%89%E8%B8%8F%E5%AE%A3%E5%B8%83%E6%9B%B4%E6%94%B9%E5%85%AC%E5%8F%B8%E6%A0%87%E5%BF%97%23&t=31&band_rank=8&Refer=top)<br />
+7. [安踏宣布更改公司标志](https://s.weibo.com/weibo?q=%23%E5%AE%89%E8%B8%8F%E5%AE%A3%E5%B8%83%E6%9B%B4%E6%94%B9%E5%85%AC%E5%8F%B8%E6%A0%87%E5%BF%97%23&t=31&band_rank=7&Refer=top)<br />
+8. [茅台涨价20%](https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E6%B6%A8%E4%BB%B720%25%23&t=31&band_rank=8&Refer=top)<br />
 9. [退款](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
