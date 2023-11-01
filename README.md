@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 16:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 16:19:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [安踏回应ANTA是拼音还是英文](https://s.weibo.com/weibo?q=%23%E5%AE%89%E8%B8%8F%E5%9B%9E%E5%BA%94ANTA%E6%98%AF%E6%8B%BC%E9%9F%B3%E8%BF%98%E6%98%AF%E8%8B%B1%E6%96%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [成都被狗咬女童右肾已保住](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%A2%AB%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E5%8F%B3%E8%82%BE%E5%B7%B2%E4%BF%9D%E4%BD%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [这英被父母扫兴了20年](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%8B%B1%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%89%AB%E5%85%B4%E4%BA%8620%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [2023进博会亮点抢先看](https://s.weibo.com/weibo?q=%232023%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%BA%AE%E7%82%B9%E6%8A%A2%E5%85%88%E7%9C%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [曹操偏头痛的原因找到了](https://s.weibo.com/weibo?q=%23%E6%9B%B9%E6%93%8D%E5%81%8F%E5%A4%B4%E7%97%9B%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [曹操偏头痛的原因找到了](https://s.weibo.com/weibo?q=%23%E6%9B%B9%E6%93%8D%E5%81%8F%E5%A4%B4%E7%97%9B%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [儿童掉入污水井两成人施救遇难](https://s.weibo.com/weibo?q=%23%E5%84%BF%E7%AB%A5%E6%8E%89%E5%85%A5%E6%B1%A1%E6%B0%B4%E4%BA%95%E4%B8%A4%E6%88%90%E4%BA%BA%E6%96%BD%E6%95%91%E9%81%87%E9%9A%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,10 +21,10 @@
 2. [朝鲜关闭香港领事馆 中方回应](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%85%B3%E9%97%AD%E9%A6%99%E6%B8%AF%E9%A2%86%E4%BA%8B%E9%A6%86+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [巴勒斯坦儿童向普京求救](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%84%BF%E7%AB%A5%E5%90%91%E6%99%AE%E4%BA%AC%E6%B1%82%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地确保秋粮颗粒归仓](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E7%A1%AE%E4%BF%9D%E7%A7%8B%E7%B2%AE%E9%A2%97%E7%B2%92%E5%BD%92%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [安踏回应ANTA是拼音还是英文](https://www.baidu.com/s?wd=%E5%AE%89%E8%B8%8F%E5%9B%9E%E5%BA%94ANTA%E6%98%AF%E6%8B%BC%E9%9F%B3%E8%BF%98%E6%98%AF%E8%8B%B1%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [胡锡进谈教师自杀:形式主义让人疯掉](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%B0%88%E6%95%99%E5%B8%88%E8%87%AA%E6%9D%80%3A%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89%E8%AE%A9%E4%BA%BA%E7%96%AF%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女老师留遗书自杀前一天遭校长批评](https://www.baidu.com/s?wd=%E5%A5%B3%E8%80%81%E5%B8%88%E7%95%99%E9%81%97%E4%B9%A6%E8%87%AA%E6%9D%80%E5%89%8D%E4%B8%80%E5%A4%A9%E9%81%AD%E6%A0%A1%E9%95%BF%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [这英被父母扫兴了20年](https://www.baidu.com/s?wd=%E8%BF%99%E8%8B%B1%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%89%AB%E5%85%B4%E4%BA%8620%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [上百村民哄抢药材 承包户坐地大哭](https://www.baidu.com/s?wd=%E4%B8%8A%E7%99%BE%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%E8%8D%AF%E6%9D%90+%E6%89%BF%E5%8C%85%E6%88%B7%E5%9D%90%E5%9C%B0%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [安踏回应ANTA是拼音还是英文](https://www.baidu.com/s?wd=%E5%AE%89%E8%B8%8F%E5%9B%9E%E5%BA%94ANTA%E6%98%AF%E6%8B%BC%E9%9F%B3%E8%BF%98%E6%98%AF%E8%8B%B1%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [猫狗粮被针管投毒？官方辟谣](https://www.baidu.com/s?wd=%E7%8C%AB%E7%8B%97%E7%B2%AE%E8%A2%AB%E9%92%88%E7%AE%A1%E6%8A%95%E6%AF%92%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -33,8 +33,8 @@
 2. [朝鲜关闭香港领事馆 中方回应](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%85%B3%E9%97%AD%E9%A6%99%E6%B8%AF%E9%A2%86%E4%BA%8B%E9%A6%86+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [巴勒斯坦儿童向普京求救](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%84%BF%E7%AB%A5%E5%90%91%E6%99%AE%E4%BA%AC%E6%B1%82%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地确保秋粮颗粒归仓](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E7%A1%AE%E4%BF%9D%E7%A7%8B%E7%B2%AE%E9%A2%97%E7%B2%92%E5%BD%92%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [安踏回应ANTA是拼音还是英文](https://www.baidu.com/s?wd=%E5%AE%89%E8%B8%8F%E5%9B%9E%E5%BA%94ANTA%E6%98%AF%E6%8B%BC%E9%9F%B3%E8%BF%98%E6%98%AF%E8%8B%B1%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [胡锡进谈教师自杀:形式主义让人疯掉](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%B0%88%E6%95%99%E5%B8%88%E8%87%AA%E6%9D%80%3A%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89%E8%AE%A9%E4%BA%BA%E7%96%AF%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女老师留遗书自杀前一天遭校长批评](https://www.baidu.com/s?wd=%E5%A5%B3%E8%80%81%E5%B8%88%E7%95%99%E9%81%97%E4%B9%A6%E8%87%AA%E6%9D%80%E5%89%8D%E4%B8%80%E5%A4%A9%E9%81%AD%E6%A0%A1%E9%95%BF%E6%89%B9%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [这英被父母扫兴了20年](https://www.baidu.com/s?wd=%E8%BF%99%E8%8B%B1%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%89%AB%E5%85%B4%E4%BA%8620%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [上百村民哄抢药材 承包户坐地大哭](https://www.baidu.com/s?wd=%E4%B8%8A%E7%99%BE%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%E8%8D%AF%E6%9D%90+%E6%89%BF%E5%8C%85%E6%88%B7%E5%9D%90%E5%9C%B0%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [安踏回应ANTA是拼音还是英文](https://www.baidu.com/s?wd=%E5%AE%89%E8%B8%8F%E5%9B%9E%E5%BA%94ANTA%E6%98%AF%E6%8B%BC%E9%9F%B3%E8%BF%98%E6%98%AF%E8%8B%B1%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [猫狗粮被针管投毒？官方辟谣](https://www.baidu.com/s?wd=%E7%8C%AB%E7%8B%97%E7%B2%AE%E8%A2%AB%E9%92%88%E7%AE%A1%E6%8A%95%E6%AF%92%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
