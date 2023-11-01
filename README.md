@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 16:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 16:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [对不起那英我喜欢这英](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E4%B8%8D%E8%B5%B7%E9%82%A3%E8%8B%B1%E6%88%91%E5%96%9C%E6%AC%A2%E8%BF%99%E8%8B%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [杭州出现卖4988元一杯的咖啡](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%87%BA%E7%8E%B0%E5%8D%964988%E5%85%83%E4%B8%80%E6%9D%AF%E7%9A%84%E5%92%96%E5%95%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [安踏回应ANTA是拼音还是英文](https://s.weibo.com/weibo?q=%23%E5%AE%89%E8%B8%8F%E5%9B%9E%E5%BA%94ANTA%E6%98%AF%E6%8B%BC%E9%9F%B3%E8%BF%98%E6%98%AF%E8%8B%B1%E6%96%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [成都被狗咬女童右肾已保住](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%A2%AB%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E5%8F%B3%E8%82%BE%E5%B7%B2%E4%BF%9D%E4%BD%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [这英被父母扫兴了20年](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%8B%B1%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%89%AB%E5%85%B4%E4%BA%8620%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
