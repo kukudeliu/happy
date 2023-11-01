@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 05:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 05:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [WTT法兰克福冠军赛2023](https://s.weibo.com/weibo?q=%23WTT%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%E5%86%A0%E5%86%9B%E8%B5%9B2023%23&t=31&band_rank=6&Refer=top)<br />
 7. [美国宣布增兵中东](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%A2%9E%E5%85%B5%E4%B8%AD%E4%B8%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [接了个大单没想到是贾乃亮](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%BA%86%E4%B8%AA%E5%A4%A7%E5%8D%95%E6%B2%A1%E6%83%B3%E5%88%B0%E6%98%AF%E8%B4%BE%E4%B9%83%E4%BA%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [46%过敏性鼻炎9年内会发展为哮喘](https://s.weibo.com/weibo?q=%2346%25%E8%BF%87%E6%95%8F%E6%80%A7%E9%BC%BB%E7%82%8E9%E5%B9%B4%E5%86%85%E4%BC%9A%E5%8F%91%E5%B1%95%E4%B8%BA%E5%93%AE%E5%96%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [霉霉 没人比我更了解戏精男](https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%20%E6%B2%A1%E4%BA%BA%E6%AF%94%E6%88%91%E6%9B%B4%E4%BA%86%E8%A7%A3%E6%88%8F%E7%B2%BE%E7%94%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
