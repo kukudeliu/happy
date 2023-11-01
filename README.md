@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 13:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 13:50:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [承包户收割白术遭上百村民哄抢](https://s.weibo.com/weibo?q=%23%E6%89%BF%E5%8C%85%E6%88%B7%E6%94%B6%E5%89%B2%E7%99%BD%E6%9C%AF%E9%81%AD%E4%B8%8A%E7%99%BE%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [安踏回应ANTA是拼音还是英文](https://s.weibo.com/weibo?q=%23%E5%AE%89%E8%B8%8F%E5%9B%9E%E5%BA%94ANTA%E6%98%AF%E6%8B%BC%E9%9F%B3%E8%BF%98%E6%98%AF%E8%8B%B1%E6%96%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [吴承恩作品票房59亿](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%89%BF%E6%81%A9%E4%BD%9C%E5%93%81%E7%A5%A8%E6%88%BF59%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [张镇麟](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%95%87%E9%BA%9F&t=31&band_rank=9&Refer=top)<br />
+9. [秦海璐 不要我觉得](https://s.weibo.com/weibo?q=%E7%A7%A6%E6%B5%B7%E7%92%90%20%E4%B8%8D%E8%A6%81%E6%88%91%E8%A7%89%E5%BE%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
