@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 00:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 00:07:02</h4></div>
 
 > 微博  
 
 1. [教体局通报女教师跳楼轻生事件](https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E9%80%9A%E6%8A%A5%E5%A5%B3%E6%95%99%E5%B8%88%E8%B7%B3%E6%A5%BC%E8%BD%BB%E7%94%9F%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top)<br />
 2. [杨紫发个正常的朋友圈被80个好友担心](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8F%91%E4%B8%AA%E6%AD%A3%E5%B8%B8%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB80%E4%B8%AA%E5%A5%BD%E5%8F%8B%E6%8B%85%E5%BF%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [6位航天员太空会面瞬间回顾](https://s.weibo.com/weibo?q=%236%E4%BD%8D%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E4%BC%9A%E9%9D%A2%E7%9E%AC%E9%97%B4%E5%9B%9E%E9%A1%BE%23&t=31&band_rank=3&Refer=top)<br />
-4. [女教师跳楼自杀家属称发求助后被踢出群](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E8%B7%B3%E6%A5%BC%E8%87%AA%E6%9D%80%E5%AE%B6%E5%B1%9E%E7%A7%B0%E5%8F%91%E6%B1%82%E5%8A%A9%E5%90%8E%E8%A2%AB%E8%B8%A2%E5%87%BA%E7%BE%A4%23&t=31&band_rank=4&Refer=top)<br />
-5. [这英 没有那姐哪来的我](https://s.weibo.com/weibo?q=%E8%BF%99%E8%8B%B1%20%E6%B2%A1%E6%9C%89%E9%82%A3%E5%A7%90%E5%93%AA%E6%9D%A5%E7%9A%84%E6%88%91&t=31&band_rank=5&Refer=top)<br />
+4. [这英 没有那姐哪来的我](https://s.weibo.com/weibo?q=%E8%BF%99%E8%8B%B1%20%E6%B2%A1%E6%9C%89%E9%82%A3%E5%A7%90%E5%93%AA%E6%9D%A5%E7%9A%84%E6%88%91&t=31&band_rank=4&Refer=top)<br />
+5. [女教师跳楼自杀家属称发求助后被踢出群](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E8%B7%B3%E6%A5%BC%E8%87%AA%E6%9D%80%E5%AE%B6%E5%B1%9E%E7%A7%B0%E5%8F%91%E6%B1%82%E5%8A%A9%E5%90%8E%E8%A2%AB%E8%B8%A2%E5%87%BA%E7%BE%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [陈梦 女单](https://s.weibo.com/weibo?q=%E9%99%88%E6%A2%A6%20%E5%A5%B3%E5%8D%95&t=31&band_rank=6&Refer=top)<br />
 7. [下一站幸福导演陈慧翎去世](https://s.weibo.com/weibo?q=%23%E4%B8%8B%E4%B8%80%E7%AB%99%E5%B9%B8%E7%A6%8F%E5%AF%BC%E6%BC%94%E9%99%88%E6%85%A7%E7%BF%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [接了个大单没想到是贾乃亮](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%BA%86%E4%B8%AA%E5%A4%A7%E5%8D%95%E6%B2%A1%E6%83%B3%E5%88%B0%E6%98%AF%E8%B4%BE%E4%B9%83%E4%BA%AE%23&t=31&band_rank=8&Refer=top)<br />
