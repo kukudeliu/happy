@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 22:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 22:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [下一站幸福导演陈慧翎去世](https://s.weibo.com/weibo?q=%23%E4%B8%8B%E4%B8%80%E7%AB%99%E5%B9%B8%E7%A6%8F%E5%AF%BC%E6%BC%94%E9%99%88%E6%85%A7%E7%BF%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [30集的剧前29集是做梦](https://s.weibo.com/weibo?q=%2330%E9%9B%86%E7%9A%84%E5%89%A7%E5%89%8D29%E9%9B%86%E6%98%AF%E5%81%9A%E6%A2%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [闲鱼回应多地大学生在平台挂学校](https://s.weibo.com/weibo?q=%23%E9%97%B2%E9%B1%BC%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%B9%B3%E5%8F%B0%E6%8C%82%E5%AD%A6%E6%A0%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [美国宣布增兵中东](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%A2%9E%E5%85%B5%E4%B8%AD%E4%B8%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [王一博于适 星辰大海双C位](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BA%8E%E9%80%82%20%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%E5%8F%8CC%E4%BD%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
