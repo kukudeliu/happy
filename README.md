@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 13:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 13:16:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [多地回应课间10分钟变课间“圈养”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%9B%9E%E5%BA%94%E8%AF%BE%E9%97%B410%E5%88%86%E9%92%9F%E5%8F%98%E8%AF%BE%E9%97%B4%E2%80%9C%E5%9C%88%E5%85%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [法院双十一最高直降4300万](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E5%8F%8C%E5%8D%81%E4%B8%80%E6%9C%80%E9%AB%98%E7%9B%B4%E9%99%8D4300%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地确保秋粮颗粒归仓](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E7%A1%AE%E4%BF%9D%E7%A7%8B%E7%B2%AE%E9%A2%97%E7%B2%92%E5%BD%92%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [怎么看上海万圣节“中国化”现象](https://www.baidu.com/s?wd=%E6%80%8E%E4%B9%88%E7%9C%8B%E4%B8%8A%E6%B5%B7%E4%B8%87%E5%9C%A3%E8%8A%82%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%8C%96%E2%80%9D%E7%8E%B0%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [农民药材遭哄抢大哭：报警后才赶走](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E8%8D%AF%E6%9D%90%E9%81%AD%E5%93%84%E6%8A%A2%E5%A4%A7%E5%93%AD%EF%BC%9A%E6%8A%A5%E8%AD%A6%E5%90%8E%E6%89%8D%E8%B5%B6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [50人众筹82年拉菲每人15毫升](https://www.baidu.com/s?wd=50%E4%BA%BA%E4%BC%97%E7%AD%B982%E5%B9%B4%E6%8B%89%E8%8F%B2%E6%AF%8F%E4%BA%BA15%E6%AF%AB%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子面试失败骂HR后个人信息被曝光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%9D%A2%E8%AF%95%E5%A4%B1%E8%B4%A5%E9%AA%82HR%E5%90%8E%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E8%A2%AB%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [司机大伯被误认为cos余华](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%A4%A7%E4%BC%AF%E8%A2%AB%E8%AF%AF%E8%AE%A4%E4%B8%BAcos%E4%BD%99%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [多地回应课间10分钟变课间“圈养”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%9B%9E%E5%BA%94%E8%AF%BE%E9%97%B410%E5%88%86%E9%92%9F%E5%8F%98%E8%AF%BE%E9%97%B4%E2%80%9C%E5%9C%88%E5%85%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [法院双十一最高直降4300万](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E5%8F%8C%E5%8D%81%E4%B8%80%E6%9C%80%E9%AB%98%E7%9B%B4%E9%99%8D4300%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地确保秋粮颗粒归仓](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E7%A1%AE%E4%BF%9D%E7%A7%8B%E7%B2%AE%E9%A2%97%E7%B2%92%E5%BD%92%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [怎么看上海万圣节“中国化”现象](https://www.baidu.com/s?wd=%E6%80%8E%E4%B9%88%E7%9C%8B%E4%B8%8A%E6%B5%B7%E4%B8%87%E5%9C%A3%E8%8A%82%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%8C%96%E2%80%9D%E7%8E%B0%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [农民药材遭哄抢大哭：报警后才赶走](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E8%8D%AF%E6%9D%90%E9%81%AD%E5%93%84%E6%8A%A2%E5%A4%A7%E5%93%AD%EF%BC%9A%E6%8A%A5%E8%AD%A6%E5%90%8E%E6%89%8D%E8%B5%B6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [50人众筹82年拉菲每人15毫升](https://www.baidu.com/s?wd=50%E4%BA%BA%E4%BC%97%E7%AD%B982%E5%B9%B4%E6%8B%89%E8%8F%B2%E6%AF%8F%E4%BA%BA15%E6%AF%AB%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子面试失败骂HR后个人信息被曝光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%9D%A2%E8%AF%95%E5%A4%B1%E8%B4%A5%E9%AA%82HR%E5%90%8E%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E8%A2%AB%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [司机大伯被误认为cos余华](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%A4%A7%E4%BC%AF%E8%A2%AB%E8%AF%AF%E8%AE%A4%E4%B8%BAcos%E4%BD%99%E5%8D%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
