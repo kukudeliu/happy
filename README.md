@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 13:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-01 13:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [承包户收割白术遭上百村民哄抢](https://s.weibo.com/weibo?q=%23%E6%89%BF%E5%8C%85%E6%88%B7%E6%94%B6%E5%89%B2%E7%99%BD%E6%9C%AF%E9%81%AD%E4%B8%8A%E7%99%BE%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [安踏回应ANTA是拼音还是英文](https://s.weibo.com/weibo?q=%23%E5%AE%89%E8%B8%8F%E5%9B%9E%E5%BA%94ANTA%E6%98%AF%E6%8B%BC%E9%9F%B3%E8%BF%98%E6%98%AF%E8%8B%B1%E6%96%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [吴承恩作品票房59亿](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%89%BF%E6%81%A9%E4%BD%9C%E5%93%81%E7%A5%A8%E6%88%BF59%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [女教师辞职拍飞机6年拍几十万张](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E8%BE%9E%E8%81%8C%E6%8B%8D%E9%A3%9E%E6%9C%BA6%E5%B9%B4%E6%8B%8D%E5%87%A0%E5%8D%81%E4%B8%87%E5%BC%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [张镇麟](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%95%87%E9%BA%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [各地确保秋粮颗粒归仓](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E7%A1%AE%E4%BF%9D%E7%A7%8B%E7%B2%AE%E9%A2%97%E7%B2%92%E5%BD%92%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [农民药材遭哄抢大哭：报警后才赶走](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E8%8D%AF%E6%9D%90%E9%81%AD%E5%93%84%E6%8A%A2%E5%A4%A7%E5%93%AD%EF%BC%9A%E6%8A%A5%E8%AD%A6%E5%90%8E%E6%89%8D%E8%B5%B6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘家昌曝儿子多次被退学](https://www.baidu.com/s?wd=%E5%88%98%E5%AE%B6%E6%98%8C%E6%9B%9D%E5%84%BF%E5%AD%90%E5%A4%9A%E6%AC%A1%E8%A2%AB%E9%80%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [00后女老师自杀校方拒绝家属看监控](https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E8%80%81%E5%B8%88%E8%87%AA%E6%9D%80%E6%A0%A1%E6%96%B9%E6%8B%92%E7%BB%9D%E5%AE%B6%E5%B1%9E%E7%9C%8B%E7%9B%91%E6%8E%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [安踏更改公司标志](https://www.baidu.com/s?wd=%E5%AE%89%E8%B8%8F%E6%9B%B4%E6%94%B9%E5%85%AC%E5%8F%B8%E6%A0%87%E5%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [安踏回应ANTA是拼音还是英文](https://www.baidu.com/s?wd=%E5%AE%89%E8%B8%8F%E5%9B%9E%E5%BA%94ANTA%E6%98%AF%E6%8B%BC%E9%9F%B3%E8%BF%98%E6%98%AF%E8%8B%B1%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [00后女老师自杀校方拒绝家属看监控](https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E8%80%81%E5%B8%88%E8%87%AA%E6%9D%80%E6%A0%A1%E6%96%B9%E6%8B%92%E7%BB%9D%E5%AE%B6%E5%B1%9E%E7%9C%8B%E7%9B%91%E6%8E%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [猫狗粮被针管投毒？官方辟谣](https://www.baidu.com/s?wd=%E7%8C%AB%E7%8B%97%E7%B2%AE%E8%A2%AB%E9%92%88%E7%AE%A1%E6%8A%95%E6%AF%92%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [各地确保秋粮颗粒归仓](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E7%A1%AE%E4%BF%9D%E7%A7%8B%E7%B2%AE%E9%A2%97%E7%B2%92%E5%BD%92%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [农民药材遭哄抢大哭：报警后才赶走](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E8%8D%AF%E6%9D%90%E9%81%AD%E5%93%84%E6%8A%A2%E5%A4%A7%E5%93%AD%EF%BC%9A%E6%8A%A5%E8%AD%A6%E5%90%8E%E6%89%8D%E8%B5%B6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘家昌曝儿子多次被退学](https://www.baidu.com/s?wd=%E5%88%98%E5%AE%B6%E6%98%8C%E6%9B%9D%E5%84%BF%E5%AD%90%E5%A4%9A%E6%AC%A1%E8%A2%AB%E9%80%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [00后女老师自杀校方拒绝家属看监控](https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E8%80%81%E5%B8%88%E8%87%AA%E6%9D%80%E6%A0%A1%E6%96%B9%E6%8B%92%E7%BB%9D%E5%AE%B6%E5%B1%9E%E7%9C%8B%E7%9B%91%E6%8E%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [安踏更改公司标志](https://www.baidu.com/s?wd=%E5%AE%89%E8%B8%8F%E6%9B%B4%E6%94%B9%E5%85%AC%E5%8F%B8%E6%A0%87%E5%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [安踏回应ANTA是拼音还是英文](https://www.baidu.com/s?wd=%E5%AE%89%E8%B8%8F%E5%9B%9E%E5%BA%94ANTA%E6%98%AF%E6%8B%BC%E9%9F%B3%E8%BF%98%E6%98%AF%E8%8B%B1%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [00后女老师自杀校方拒绝家属看监控](https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E8%80%81%E5%B8%88%E8%87%AA%E6%9D%80%E6%A0%A1%E6%96%B9%E6%8B%92%E7%BB%9D%E5%AE%B6%E5%B1%9E%E7%9C%8B%E7%9B%91%E6%8E%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [猫狗粮被针管投毒？官方辟谣](https://www.baidu.com/s?wd=%E7%8C%AB%E7%8B%97%E7%B2%AE%E8%A2%AB%E9%92%88%E7%AE%A1%E6%8A%95%E6%AF%92%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
