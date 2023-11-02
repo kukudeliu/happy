@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 15:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 15:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [天安门等多地下半旗悼念李克强同志](https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E7%AD%89%E5%A4%9A%E5%9C%B0%E4%B8%8B%E5%8D%8A%E6%97%97%E6%82%BC%E5%BF%B5%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网红主播辛巴抖音账号被封禁](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%B8%BB%E6%92%AD%E8%BE%9B%E5%B7%B4%E6%8A%96%E9%9F%B3%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%E7%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [年轻人逛商场只去B1B2](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%AA%E5%8E%BBB1B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国在安理会的身份变了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%8F%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江省委书记和阿里巴巴新班子座谈](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%92%8C%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%96%B0%E7%8F%AD%E5%AD%90%E5%BA%A7%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华大学取消新闻学专业？假的](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%96%B0%E9%97%BB%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [天安门等多地下半旗悼念李克强同志](https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E7%AD%89%E5%A4%9A%E5%9C%B0%E4%B8%8B%E5%8D%8A%E6%97%97%E6%82%BC%E5%BF%B5%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网红主播辛巴抖音账号被封禁](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%B8%BB%E6%92%AD%E8%BE%9B%E5%B7%B4%E6%8A%96%E9%9F%B3%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%E7%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [年轻人逛商场只去B1B2](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%AA%E5%8E%BBB1B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国在安理会的身份变了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%8F%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江省委书记和阿里巴巴新班子座谈](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%92%8C%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%96%B0%E7%8F%AD%E5%AD%90%E5%BA%A7%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华大学取消新闻学专业？假的](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%96%B0%E9%97%BB%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
