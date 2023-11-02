@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 18:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 18:03:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [国企员工263套房？当地称非个人所有](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E5%91%98%E5%B7%A5263%E5%A5%97%E6%88%BF%EF%BC%9F%E5%BD%93%E5%9C%B0%E7%A7%B0%E9%9D%9E%E4%B8%AA%E4%BA%BA%E6%89%80%E6%9C%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [18岁弟弟被姐姐带去打九价疫苗](https://www.baidu.com/s?wd=18%E5%B2%81%E5%BC%9F%E5%BC%9F%E8%A2%AB%E5%A7%90%E5%A7%90%E5%B8%A6%E5%8E%BB%E6%89%93%E4%B9%9D%E4%BB%B7%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [香港房价暴跌回7年前](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%88%BF%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%9E7%E5%B9%B4%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [湖南一医院发通知：解聘全体员工](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%8C%BB%E9%99%A2%E5%8F%91%E9%80%9A%E7%9F%A5%EF%BC%9A%E8%A7%A3%E8%81%98%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小伙因分手连喝半月白酒变小黄人](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9B%A0%E5%88%86%E6%89%8B%E8%BF%9E%E5%96%9D%E5%8D%8A%E6%9C%88%E7%99%BD%E9%85%92%E5%8F%98%E5%B0%8F%E9%BB%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆公租房不摇号就分房？不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%85%AC%E7%A7%9F%E6%88%BF%E4%B8%8D%E6%91%87%E5%8F%B7%E5%B0%B1%E5%88%86%E6%88%BF%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [国企员工263套房？当地称非个人所有](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E5%91%98%E5%B7%A5263%E5%A5%97%E6%88%BF%EF%BC%9F%E5%BD%93%E5%9C%B0%E7%A7%B0%E9%9D%9E%E4%B8%AA%E4%BA%BA%E6%89%80%E6%9C%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [18岁弟弟被姐姐带去打九价疫苗](https://www.baidu.com/s?wd=18%E5%B2%81%E5%BC%9F%E5%BC%9F%E8%A2%AB%E5%A7%90%E5%A7%90%E5%B8%A6%E5%8E%BB%E6%89%93%E4%B9%9D%E4%BB%B7%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [香港房价暴跌回7年前](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%88%BF%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%9E7%E5%B9%B4%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [湖南一医院发通知：解聘全体员工](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%8C%BB%E9%99%A2%E5%8F%91%E9%80%9A%E7%9F%A5%EF%BC%9A%E8%A7%A3%E8%81%98%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小伙因分手连喝半月白酒变小黄人](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9B%A0%E5%88%86%E6%89%8B%E8%BF%9E%E5%96%9D%E5%8D%8A%E6%9C%88%E7%99%BD%E9%85%92%E5%8F%98%E5%B0%8F%E9%BB%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆公租房不摇号就分房？不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%85%AC%E7%A7%9F%E6%88%BF%E4%B8%8D%E6%91%87%E5%8F%B7%E5%B0%B1%E5%88%86%E6%88%BF%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
