@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 17:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 17:20:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [李克强同志生平照片](https://www.baidu.com/s?wd=%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E7%94%9F%E5%B9%B3%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [11月起多项新规开始执行](https://www.baidu.com/s?wd=11%E6%9C%88%E8%B5%B7%E5%A4%9A%E9%A1%B9%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [媒体：给学生减负也要给教师减负](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BB%99%E5%AD%A6%E7%94%9F%E5%87%8F%E8%B4%9F%E4%B9%9F%E8%A6%81%E7%BB%99%E6%95%99%E5%B8%88%E5%87%8F%E8%B4%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [8岁女孩和41岁妈妈练出同款腹肌](https://www.baidu.com/s?wd=8%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%92%8C41%E5%B2%81%E5%A6%88%E5%A6%88%E7%BB%83%E5%87%BA%E5%90%8C%E6%AC%BE%E8%85%B9%E8%82%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [康师傅冰红茶绿茶涨价？公司回应](https://www.baidu.com/s?wd=%E5%BA%B7%E5%B8%88%E5%82%85%E5%86%B0%E7%BA%A2%E8%8C%B6%E7%BB%BF%E8%8C%B6%E6%B6%A8%E4%BB%B7%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子因高额彩礼退婚 拿钱辞职旅行](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E9%AB%98%E9%A2%9D%E5%BD%A9%E7%A4%BC%E9%80%80%E5%A9%9A+%E6%8B%BF%E9%92%B1%E8%BE%9E%E8%81%8C%E6%97%85%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [18岁弟弟被姐姐带去打九价疫苗](https://www.baidu.com/s?wd=18%E5%B2%81%E5%BC%9F%E5%BC%9F%E8%A2%AB%E5%A7%90%E5%A7%90%E5%B8%A6%E5%8E%BB%E6%89%93%E4%B9%9D%E4%BB%B7%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [年轻人逛商场只去B1B2](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%AA%E5%8E%BBB1B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [985应届硕士应聘吐槽薪资仅3400元](https://www.baidu.com/s?wd=985%E5%BA%94%E5%B1%8A%E7%A1%95%E5%A3%AB%E5%BA%94%E8%81%98%E5%90%90%E6%A7%BD%E8%96%AA%E8%B5%84%E4%BB%853400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆公租房不摇号就分房？不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%85%AC%E7%A7%9F%E6%88%BF%E4%B8%8D%E6%91%87%E5%8F%B7%E5%B0%B1%E5%88%86%E6%88%BF%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [李克强同志生平照片](https://www.baidu.com/s?wd=%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E7%94%9F%E5%B9%B3%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [11月起多项新规开始执行](https://www.baidu.com/s?wd=11%E6%9C%88%E8%B5%B7%E5%A4%9A%E9%A1%B9%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [媒体：给学生减负也要给教师减负](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BB%99%E5%AD%A6%E7%94%9F%E5%87%8F%E8%B4%9F%E4%B9%9F%E8%A6%81%E7%BB%99%E6%95%99%E5%B8%88%E5%87%8F%E8%B4%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [8岁女孩和41岁妈妈练出同款腹肌](https://www.baidu.com/s?wd=8%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%92%8C41%E5%B2%81%E5%A6%88%E5%A6%88%E7%BB%83%E5%87%BA%E5%90%8C%E6%AC%BE%E8%85%B9%E8%82%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [康师傅冰红茶绿茶涨价？公司回应](https://www.baidu.com/s?wd=%E5%BA%B7%E5%B8%88%E5%82%85%E5%86%B0%E7%BA%A2%E8%8C%B6%E7%BB%BF%E8%8C%B6%E6%B6%A8%E4%BB%B7%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子因高额彩礼退婚 拿钱辞职旅行](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E9%AB%98%E9%A2%9D%E5%BD%A9%E7%A4%BC%E9%80%80%E5%A9%9A+%E6%8B%BF%E9%92%B1%E8%BE%9E%E8%81%8C%E6%97%85%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [18岁弟弟被姐姐带去打九价疫苗](https://www.baidu.com/s?wd=18%E5%B2%81%E5%BC%9F%E5%BC%9F%E8%A2%AB%E5%A7%90%E5%A7%90%E5%B8%A6%E5%8E%BB%E6%89%93%E4%B9%9D%E4%BB%B7%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [年轻人逛商场只去B1B2](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%AA%E5%8E%BBB1B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [985应届硕士应聘吐槽薪资仅3400元](https://www.baidu.com/s?wd=985%E5%BA%94%E5%B1%8A%E7%A1%95%E5%A3%AB%E5%BA%94%E8%81%98%E5%90%90%E6%A7%BD%E8%96%AA%E8%B5%84%E4%BB%853400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆公租房不摇号就分房？不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%85%AC%E7%A7%9F%E6%88%BF%E4%B8%8D%E6%91%87%E5%8F%B7%E5%B0%B1%E5%88%86%E6%88%BF%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
