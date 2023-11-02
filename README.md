@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 21:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 21:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [缅方称一中缅边境战略城镇失去控制](https://www.baidu.com/s?wd=%E7%BC%85%E6%96%B9%E7%A7%B0%E4%B8%80%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E6%88%98%E7%95%A5%E5%9F%8E%E9%95%87%E5%A4%B1%E5%8E%BB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [传说中500公里长的加沙地道长啥样](https://www.baidu.com/s?wd=%E4%BC%A0%E8%AF%B4%E4%B8%AD500%E5%85%AC%E9%87%8C%E9%95%BF%E7%9A%84%E5%8A%A0%E6%B2%99%E5%9C%B0%E9%81%93%E9%95%BF%E5%95%A5%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [18岁弟弟被姐姐带去打九价疫苗](https://www.baidu.com/s?wd=18%E5%B2%81%E5%BC%9F%E5%BC%9F%E8%A2%AB%E5%A7%90%E5%A7%90%E5%B8%A6%E5%8E%BB%E6%89%93%E4%B9%9D%E4%BB%B7%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子用儿子微信花110万只为规避执行](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E5%84%BF%E5%AD%90%E5%BE%AE%E4%BF%A1%E8%8A%B1110%E4%B8%87%E5%8F%AA%E4%B8%BA%E8%A7%84%E9%81%BF%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [3D还原“安徽武校投毒案”](https://www.baidu.com/s?wd=3D%E8%BF%98%E5%8E%9F%E2%80%9C%E5%AE%89%E5%BE%BD%E6%AD%A6%E6%A0%A1%E6%8A%95%E6%AF%92%E6%A1%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆公租房不摇号就分房？不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%85%AC%E7%A7%9F%E6%88%BF%E4%B8%8D%E6%91%87%E5%8F%B7%E5%B0%B1%E5%88%86%E6%88%BF%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [缅方称一中缅边境战略城镇失去控制](https://www.baidu.com/s?wd=%E7%BC%85%E6%96%B9%E7%A7%B0%E4%B8%80%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E6%88%98%E7%95%A5%E5%9F%8E%E9%95%87%E5%A4%B1%E5%8E%BB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [传说中500公里长的加沙地道长啥样](https://www.baidu.com/s?wd=%E4%BC%A0%E8%AF%B4%E4%B8%AD500%E5%85%AC%E9%87%8C%E9%95%BF%E7%9A%84%E5%8A%A0%E6%B2%99%E5%9C%B0%E9%81%93%E9%95%BF%E5%95%A5%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [18岁弟弟被姐姐带去打九价疫苗](https://www.baidu.com/s?wd=18%E5%B2%81%E5%BC%9F%E5%BC%9F%E8%A2%AB%E5%A7%90%E5%A7%90%E5%B8%A6%E5%8E%BB%E6%89%93%E4%B9%9D%E4%BB%B7%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子用儿子微信花110万只为规避执行](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E5%84%BF%E5%AD%90%E5%BE%AE%E4%BF%A1%E8%8A%B1110%E4%B8%87%E5%8F%AA%E4%B8%BA%E8%A7%84%E9%81%BF%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [3D还原“安徽武校投毒案”](https://www.baidu.com/s?wd=3D%E8%BF%98%E5%8E%9F%E2%80%9C%E5%AE%89%E5%BE%BD%E6%AD%A6%E6%A0%A1%E6%8A%95%E6%AF%92%E6%A1%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆公租房不摇号就分房？不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%85%AC%E7%A7%9F%E6%88%BF%E4%B8%8D%E6%91%87%E5%8F%B7%E5%B0%B1%E5%88%86%E6%88%BF%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
