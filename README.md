@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 08:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 08:58:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [6位航天员太空会面瞬间回顾](https://s.weibo.com/weibo?q=%236%E4%BD%8D%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E4%BC%9A%E9%9D%A2%E7%9E%AC%E9%97%B4%E5%9B%9E%E9%A1%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [海归博士985硕士求职因本科双非被刷](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BD%92%E5%8D%9A%E5%A3%AB985%E7%A1%95%E5%A3%AB%E6%B1%82%E8%81%8C%E5%9B%A0%E6%9C%AC%E7%A7%91%E5%8F%8C%E9%9D%9E%E8%A2%AB%E5%88%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [男生住商场楼梯下超半年无人知晓](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E4%BD%8F%E5%95%86%E5%9C%BA%E6%A5%BC%E6%A2%AF%E4%B8%8B%E8%B6%85%E5%8D%8A%E5%B9%B4%E6%97%A0%E4%BA%BA%E7%9F%A5%E6%99%93%23&t=31&band_rank=5&Refer=top)<br />
-6. [樊振东1比3李尚洙](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C1%E6%AF%943%E6%9D%8E%E5%B0%9A%E6%B4%99%23&t=31&band_rank=6&Refer=top)<br />
-7. [支原体肺炎防治9个提醒](https://s.weibo.com/weibo?q=%23%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E9%98%B2%E6%B2%BB9%E4%B8%AA%E6%8F%90%E9%86%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [网红低价叫卖学习机实际贵1700元](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E4%BD%8E%E4%BB%B7%E5%8F%AB%E5%8D%96%E5%AD%A6%E4%B9%A0%E6%9C%BA%E5%AE%9E%E9%99%85%E8%B4%B51700%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+6. [网红低价叫卖学习机实际贵1700元](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E4%BD%8E%E4%BB%B7%E5%8F%AB%E5%8D%96%E5%AD%A6%E4%B9%A0%E6%9C%BA%E5%AE%9E%E9%99%85%E8%B4%B51700%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
+7. [樊振东1比3李尚洙](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C1%E6%AF%943%E6%9D%8E%E5%B0%9A%E6%B4%99%23&t=31&band_rank=7&Refer=top)<br />
+8. [支原体肺炎防治9个提醒](https://s.weibo.com/weibo?q=%23%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E9%98%B2%E6%B2%BB9%E4%B8%AA%E6%8F%90%E9%86%92%23&t=31&band_rank=8&Refer=top)<br />
 9. [美国国务卿将再访以色列](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%B0%86%E5%86%8D%E8%AE%BF%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
