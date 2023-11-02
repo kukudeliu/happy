@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 20:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 20:16:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [李克强同志生平](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E7%94%9F%E5%B9%B3%23&t=31&band_rank=2&Refer=top)<br />
 3. [李克强同志生平照片](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E7%94%9F%E5%B9%B3%E7%85%A7%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [3元钱已经买不到饮料了](https://s.weibo.com/weibo?q=%233%E5%85%83%E9%92%B1%E5%B7%B2%E7%BB%8F%E4%B9%B0%E4%B8%8D%E5%88%B0%E9%A5%AE%E6%96%99%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [男子用儿子微信花110万规避执行获刑](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8%E5%84%BF%E5%AD%90%E5%BE%AE%E4%BF%A1%E8%8A%B1110%E4%B8%87%E8%A7%84%E9%81%BF%E6%89%A7%E8%A1%8C%E8%8E%B7%E5%88%91%23&t=31&band_rank=5&Refer=top)<br />
-6. [缅方称一个中缅边境战略城镇失去控制](https://s.weibo.com/weibo?q=%23%E7%BC%85%E6%96%B9%E7%A7%B0%E4%B8%80%E4%B8%AA%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E6%88%98%E7%95%A5%E5%9F%8E%E9%95%87%E5%A4%B1%E5%8E%BB%E6%8E%A7%E5%88%B6%23&t=31&band_rank=6&Refer=top)<br />
+5. [缅方称一个中缅边境战略城镇失去控制](https://s.weibo.com/weibo?q=%23%E7%BC%85%E6%96%B9%E7%A7%B0%E4%B8%80%E4%B8%AA%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E6%88%98%E7%95%A5%E5%9F%8E%E9%95%87%E5%A4%B1%E5%8E%BB%E6%8E%A7%E5%88%B6%23&t=31&band_rank=5&Refer=top)<br />
+6. [男子用儿子微信花110万规避执行获刑](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8%E5%84%BF%E5%AD%90%E5%BE%AE%E4%BF%A1%E8%8A%B1110%E4%B8%87%E8%A7%84%E9%81%BF%E6%89%A7%E8%A1%8C%E8%8E%B7%E5%88%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [4家邻居8年几乎处成1家人](https://s.weibo.com/weibo?q=%234%E5%AE%B6%E9%82%BB%E5%B1%858%E5%B9%B4%E5%87%A0%E4%B9%8E%E5%A4%84%E6%88%901%E5%AE%B6%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [水管工捡到300克黄金上交意外破获盗窃案](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E7%AE%A1%E5%B7%A5%E6%8D%A1%E5%88%B0300%E5%85%8B%E9%BB%84%E9%87%91%E4%B8%8A%E4%BA%A4%E6%84%8F%E5%A4%96%E7%A0%B4%E8%8E%B7%E7%9B%97%E7%AA%83%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
 9. [香港房价暴跌给内地楼市敲响警钟](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%88%BF%E4%BB%B7%E6%9A%B4%E8%B7%8C%E7%BB%99%E5%86%85%E5%9C%B0%E6%A5%BC%E5%B8%82%E6%95%B2%E5%93%8D%E8%AD%A6%E9%92%9F%23&t=31&band_rank=9&Refer=top)<br />
