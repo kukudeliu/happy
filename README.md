@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 21:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 21:55:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [缅方称一中缅边境战略城镇失去控制](https://www.baidu.com/s?wd=%E7%BC%85%E6%96%B9%E7%A7%B0%E4%B8%80%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E6%88%98%E7%95%A5%E5%9F%8E%E9%95%87%E5%A4%B1%E5%8E%BB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [曝蔚来裁员比例最高20% 总裁回应](https://www.baidu.com/s?wd=%E6%9B%9D%E8%94%9A%E6%9D%A5%E8%A3%81%E5%91%98%E6%AF%94%E4%BE%8B%E6%9C%80%E9%AB%9820%25+%E6%80%BB%E8%A3%81%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [8岁女孩和41岁妈妈练出同款腹肌](https://www.baidu.com/s?wd=8%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%92%8C41%E5%B2%81%E5%A6%88%E5%A6%88%E7%BB%83%E5%87%BA%E5%90%8C%E6%AC%BE%E8%85%B9%E8%82%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京撤销禁止核试验相关法案](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%92%A4%E9%94%80%E7%A6%81%E6%AD%A2%E6%A0%B8%E8%AF%95%E9%AA%8C%E7%9B%B8%E5%85%B3%E6%B3%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湖南一医院发通知：解聘全体员工](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%8C%BB%E9%99%A2%E5%8F%91%E9%80%9A%E7%9F%A5%EF%BC%9A%E8%A7%A3%E8%81%98%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆公租房不摇号就分房？不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%85%AC%E7%A7%9F%E6%88%BF%E4%B8%8D%E6%91%87%E5%8F%B7%E5%B0%B1%E5%88%86%E6%88%BF%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [缅方称一中缅边境战略城镇失去控制](https://www.baidu.com/s?wd=%E7%BC%85%E6%96%B9%E7%A7%B0%E4%B8%80%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E6%88%98%E7%95%A5%E5%9F%8E%E9%95%87%E5%A4%B1%E5%8E%BB%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [曝蔚来裁员比例最高20% 总裁回应](https://www.baidu.com/s?wd=%E6%9B%9D%E8%94%9A%E6%9D%A5%E8%A3%81%E5%91%98%E6%AF%94%E4%BE%8B%E6%9C%80%E9%AB%9820%25+%E6%80%BB%E8%A3%81%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [8岁女孩和41岁妈妈练出同款腹肌](https://www.baidu.com/s?wd=8%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%92%8C41%E5%B2%81%E5%A6%88%E5%A6%88%E7%BB%83%E5%87%BA%E5%90%8C%E6%AC%BE%E8%85%B9%E8%82%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京撤销禁止核试验相关法案](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%92%A4%E9%94%80%E7%A6%81%E6%AD%A2%E6%A0%B8%E8%AF%95%E9%AA%8C%E7%9B%B8%E5%85%B3%E6%B3%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湖南一医院发通知：解聘全体员工](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%8C%BB%E9%99%A2%E5%8F%91%E9%80%9A%E7%9F%A5%EF%BC%9A%E8%A7%A3%E8%81%98%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆公租房不摇号就分房？不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%85%AC%E7%A7%9F%E6%88%BF%E4%B8%8D%E6%91%87%E5%8F%B7%E5%B0%B1%E5%88%86%E6%88%BF%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
