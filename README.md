@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 18:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 18:54:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [李克强同志生平](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E7%94%9F%E5%B9%B3%23&t=31&band_rank=2&Refer=top)<br />
 3. [李克强同志生平照片](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E7%94%9F%E5%B9%B3%E7%85%A7%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [女子跳舞被困礁石3小伙手拉手将其救回](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B7%B3%E8%88%9E%E8%A2%AB%E5%9B%B0%E7%A4%81%E7%9F%B33%E5%B0%8F%E4%BC%99%E6%89%8B%E6%8B%89%E6%89%8B%E5%B0%86%E5%85%B6%E6%95%91%E5%9B%9E%23&t=31&band_rank=4&Refer=top)<br />
-5. [这个拥抱一家人等了17年](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E6%8B%A5%E6%8A%B1%E4%B8%80%E5%AE%B6%E4%BA%BA%E7%AD%89%E4%BA%8617%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
+5. [变回孩子的消防员重学说话走路](https://s.weibo.com/weibo?q=%23%E5%8F%98%E5%9B%9E%E5%AD%A9%E5%AD%90%E7%9A%84%E6%B6%88%E9%98%B2%E5%91%98%E9%87%8D%E5%AD%A6%E8%AF%B4%E8%AF%9D%E8%B5%B0%E8%B7%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [WBG晋级S13四强](https://s.weibo.com/weibo?q=%23WBG%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [变回孩子的消防员重学说话走路](https://s.weibo.com/weibo?q=%23%E5%8F%98%E5%9B%9E%E5%AD%A9%E5%AD%90%E7%9A%84%E6%B6%88%E9%98%B2%E5%91%98%E9%87%8D%E5%AD%A6%E8%AF%B4%E8%AF%9D%E8%B5%B0%E8%B7%AF%23&t=31&band_rank=7&Refer=top)<br />
+7. [这个拥抱一家人等了17年](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E6%8B%A5%E6%8A%B1%E4%B8%80%E5%AE%B6%E4%BA%BA%E7%AD%89%E4%BA%8617%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [WBG零封NRG](https://s.weibo.com/weibo?q=%23WBG%E9%9B%B6%E5%B0%81NRG%23&t=31&band_rank=8&Refer=top)<br />
 9. [男子用儿子微信花110万规避执行获刑](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8%E5%84%BF%E5%AD%90%E5%BE%AE%E4%BF%A1%E8%8A%B1110%E4%B8%87%E8%A7%84%E9%81%BF%E6%89%A7%E8%A1%8C%E8%8E%B7%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
 
