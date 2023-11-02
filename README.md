@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 13:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 13:06:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [年轻人逛商场只去B1B2](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%AA%E5%8E%BBB1B2%23&t=31&band_rank=5&Refer=top)<br />
 6. [缅甸](https://s.weibo.com/weibo?q=%E7%BC%85%E7%94%B8&t=31&band_rank=6&Refer=top)<br />
 7. [克莱绝杀](https://s.weibo.com/weibo?q=%23%E5%85%8B%E8%8E%B1%E7%BB%9D%E6%9D%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [中国护照里藏着祖国大好河山](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8A%A4%E7%85%A7%E9%87%8C%E8%97%8F%E7%9D%80%E7%A5%96%E5%9B%BD%E5%A4%A7%E5%A5%BD%E6%B2%B3%E5%B1%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [东部战区回应美加军舰过航台湾海峡](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%8A%A0%E5%86%9B%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [东部战区回应美加军舰过航台湾海峡](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%8A%A0%E5%86%9B%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [林孝埈 精卫](https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%9D%E5%9F%88%20%E7%B2%BE%E5%8D%AB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
