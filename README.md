@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 08:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 08:24:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男生住商场楼梯下超半年无人知晓](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E4%BD%8F%E5%95%86%E5%9C%BA%E6%A5%BC%E6%A2%AF%E4%B8%8B%E8%B6%85%E5%8D%8A%E5%B9%B4%E6%97%A0%E4%BA%BA%E7%9F%A5%E6%99%93%23&t=31&band_rank=5&Refer=top)<br />
 6. [美联储连续两次暂停加息](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E8%BF%9E%E7%BB%AD%E4%B8%A4%E6%AC%A1%E6%9A%82%E5%81%9C%E5%8A%A0%E6%81%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [蒙牛特仑苏保质期内变奶酪](https://s.weibo.com/weibo?q=%23%E8%92%99%E7%89%9B%E7%89%B9%E4%BB%91%E8%8B%8F%E4%BF%9D%E8%B4%A8%E6%9C%9F%E5%86%85%E5%8F%98%E5%A5%B6%E9%85%AA%23&t=31&band_rank=7&Refer=top)<br />
-8. [幼童高烧40度公交变救护车3分钟送医](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E7%AB%A5%E9%AB%98%E7%83%A740%E5%BA%A6%E5%85%AC%E4%BA%A4%E5%8F%98%E6%95%91%E6%8A%A4%E8%BD%A63%E5%88%86%E9%92%9F%E9%80%81%E5%8C%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [47岁派出所所长生前最后一通电话](https://s.weibo.com/weibo?q=%2347%E5%B2%81%E6%B4%BE%E5%87%BA%E6%89%80%E6%89%80%E9%95%BF%E7%94%9F%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
+8. [支原体肺炎防治9个提醒](https://s.weibo.com/weibo?q=%23%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E9%98%B2%E6%B2%BB9%E4%B8%AA%E6%8F%90%E9%86%92%23&t=31&band_rank=8&Refer=top)<br />
+9. [幼童高烧40度公交变救护车3分钟送医](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E7%AB%A5%E9%AB%98%E7%83%A740%E5%BA%A6%E5%85%AC%E4%BA%A4%E5%8F%98%E6%95%91%E6%8A%A4%E8%BD%A63%E5%88%86%E9%92%9F%E9%80%81%E5%8C%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
