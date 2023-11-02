@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 22:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 22:54:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [11月起多项新规开始执行](https://www.baidu.com/s?wd=11%E6%9C%88%E8%B5%B7%E5%A4%9A%E9%A1%B9%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [研究生图书馆复制古籍被收899元](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%A4%8D%E5%88%B6%E5%8F%A4%E7%B1%8D%E8%A2%AB%E6%94%B6899%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女星安吉丽娜·朱莉谴责以色列](https://www.baidu.com/s?wd=%E5%A5%B3%E6%98%9F%E5%AE%89%E5%90%89%E4%B8%BD%E5%A8%9C%C2%B7%E6%9C%B1%E8%8E%89%E8%B0%B4%E8%B4%A3%E4%BB%A5%E8%89%B2%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [富士康：“需补税1800亿”系谣言](https://www.baidu.com/s?wd=%E5%AF%8C%E5%A3%AB%E5%BA%B7%EF%BC%9A%E2%80%9C%E9%9C%80%E8%A1%A5%E7%A8%8E1800%E4%BA%BF%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌克兰承认57万件武器丢失](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%89%BF%E8%AE%A457%E4%B8%87%E4%BB%B6%E6%AD%A6%E5%99%A8%E4%B8%A2%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乌克兰承认57万件武器丢失](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%89%BF%E8%AE%A457%E4%B8%87%E4%BB%B6%E6%AD%A6%E5%99%A8%E4%B8%A2%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人逛商场只去B1B2](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%AA%E5%8E%BBB1B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆公租房不摇号就分房？不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%85%AC%E7%A7%9F%E6%88%BF%E4%B8%8D%E6%91%87%E5%8F%B7%E5%B0%B1%E5%88%86%E6%88%BF%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [11月起多项新规开始执行](https://www.baidu.com/s?wd=11%E6%9C%88%E8%B5%B7%E5%A4%9A%E9%A1%B9%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [研究生图书馆复制古籍被收899元](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%A4%8D%E5%88%B6%E5%8F%A4%E7%B1%8D%E8%A2%AB%E6%94%B6899%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女星安吉丽娜·朱莉谴责以色列](https://www.baidu.com/s?wd=%E5%A5%B3%E6%98%9F%E5%AE%89%E5%90%89%E4%B8%BD%E5%A8%9C%C2%B7%E6%9C%B1%E8%8E%89%E8%B0%B4%E8%B4%A3%E4%BB%A5%E8%89%B2%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [富士康：“需补税1800亿”系谣言](https://www.baidu.com/s?wd=%E5%AF%8C%E5%A3%AB%E5%BA%B7%EF%BC%9A%E2%80%9C%E9%9C%80%E8%A1%A5%E7%A8%8E1800%E4%BA%BF%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌克兰承认57万件武器丢失](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%89%BF%E8%AE%A457%E4%B8%87%E4%BB%B6%E6%AD%A6%E5%99%A8%E4%B8%A2%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乌克兰承认57万件武器丢失](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%89%BF%E8%AE%A457%E4%B8%87%E4%BB%B6%E6%AD%A6%E5%99%A8%E4%B8%A2%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人逛商场只去B1B2](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%AA%E5%8E%BBB1B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆公租房不摇号就分房？不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%85%AC%E7%A7%9F%E6%88%BF%E4%B8%8D%E6%91%87%E5%8F%B7%E5%B0%B1%E5%88%86%E6%88%BF%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
