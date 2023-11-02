@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 11:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 11:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [36岁男子脑死亡捐器官救5人](https://s.weibo.com/weibo?q=%2336%E5%B2%81%E7%94%B7%E5%AD%90%E8%84%91%E6%AD%BB%E4%BA%A1%E6%8D%90%E5%99%A8%E5%AE%98%E6%95%915%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [离世女教师加班数石榴系谣言](https://s.weibo.com/weibo?q=%23%E7%A6%BB%E4%B8%96%E5%A5%B3%E6%95%99%E5%B8%88%E5%8A%A0%E7%8F%AD%E6%95%B0%E7%9F%B3%E6%A6%B4%E7%B3%BB%E8%B0%A3%E8%A8%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [苹果取消AppleWatch应用兼容安卓计划](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%96%E6%B6%88AppleWatch%E5%BA%94%E7%94%A8%E5%85%BC%E5%AE%B9%E5%AE%89%E5%8D%93%E8%AE%A1%E5%88%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [河南淮阳官方回应抢中药事件](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%B7%AE%E9%98%B3%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%8A%A2%E4%B8%AD%E8%8D%AF%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [年轻人逛商场只去B1B2](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%AA%E5%8E%BBB1B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
