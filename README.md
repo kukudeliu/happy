@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 08:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 08:52:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [樊振东1比3李尚洙](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C1%E6%AF%943%E6%9D%8E%E5%B0%9A%E6%B4%99%23&t=31&band_rank=5&Refer=top)<br />
 6. [男生住商场楼梯下超半年无人知晓](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E4%BD%8F%E5%95%86%E5%9C%BA%E6%A5%BC%E6%A2%AF%E4%B8%8B%E8%B6%85%E5%8D%8A%E5%B9%B4%E6%97%A0%E4%BA%BA%E7%9F%A5%E6%99%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [支原体肺炎防治9个提醒](https://s.weibo.com/weibo?q=%23%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E9%98%B2%E6%B2%BB9%E4%B8%AA%E6%8F%90%E9%86%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [约旦召回驻以色列大使](https://s.weibo.com/weibo?q=%23%E7%BA%A6%E6%97%A6%E5%8F%AC%E5%9B%9E%E9%A9%BB%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%A7%E4%BD%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [美联储连续两次暂停加息](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E8%BF%9E%E7%BB%AD%E4%B8%A4%E6%AC%A1%E6%9A%82%E5%81%9C%E5%8A%A0%E6%81%AF%23&t=31&band_rank=9&Refer=top)<br />
+8. [网红低价叫卖学习机实际贵1700元](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E4%BD%8E%E4%BB%B7%E5%8F%AB%E5%8D%96%E5%AD%A6%E4%B9%A0%E6%9C%BA%E5%AE%9E%E9%99%85%E8%B4%B51700%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [约旦召回驻以色列大使](https://s.weibo.com/weibo?q=%23%E7%BA%A6%E6%97%A6%E5%8F%AC%E5%9B%9E%E9%A9%BB%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%A7%E4%BD%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
