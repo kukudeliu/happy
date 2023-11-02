@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 17:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 17:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [湖南一医院解聘全体员工](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E5%8C%BB%E9%99%A2%E8%A7%A3%E8%81%98%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子用儿子微信花110万规避执行获刑](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8%E5%84%BF%E5%AD%90%E5%BE%AE%E4%BF%A1%E8%8A%B1110%E4%B8%87%E8%A7%84%E9%81%BF%E6%89%A7%E8%A1%8C%E8%8E%B7%E5%88%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [18岁弟弟被姐姐带去打九价](https://s.weibo.com/weibo?q=%2318%E5%B2%81%E5%BC%9F%E5%BC%9F%E8%A2%AB%E5%A7%90%E5%A7%90%E5%B8%A6%E5%8E%BB%E6%89%93%E4%B9%9D%E4%BB%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [8岁女孩和41岁妈妈练出同款腹肌](https://s.weibo.com/weibo?q=%238%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%92%8C41%E5%B2%81%E5%A6%88%E5%A6%88%E7%BB%83%E5%87%BA%E5%90%8C%E6%AC%BE%E8%85%B9%E8%82%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [香蕉的茎也可以吃吗](https://s.weibo.com/weibo?q=%E9%A6%99%E8%95%89%E7%9A%84%E8%8C%8E%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%90%83%E5%90%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
