@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 20:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 20:12:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [茅台提价会把年轻人推得更远吗](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E6%8F%90%E4%BB%B7%E4%BC%9A%E6%8A%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%A8%E5%BE%97%E6%9B%B4%E8%BF%9C%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [年轻人逛商场只去B1B2](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%AA%E5%8E%BBB1B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武校投毒案嫌犯妻子：他是好丈夫](https://www.baidu.com/s?wd=%E6%AD%A6%E6%A0%A1%E6%8A%95%E6%AF%92%E6%A1%88%E5%AB%8C%E7%8A%AF%E5%A6%BB%E5%AD%90%EF%BC%9A%E4%BB%96%E6%98%AF%E5%A5%BD%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女孩连续3天被后桌挤压抓头发](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%BF%9E%E7%BB%AD3%E5%A4%A9%E8%A2%AB%E5%90%8E%E6%A1%8C%E6%8C%A4%E5%8E%8B%E6%8A%93%E5%A4%B4%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [赴美失联广东女子遗体疑被发现](https://www.baidu.com/s?wd=%E8%B5%B4%E7%BE%8E%E5%A4%B1%E8%81%94%E5%B9%BF%E4%B8%9C%E5%A5%B3%E5%AD%90%E9%81%97%E4%BD%93%E7%96%91%E8%A2%AB%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆公租房不摇号就分房？不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%85%AC%E7%A7%9F%E6%88%BF%E4%B8%8D%E6%91%87%E5%8F%B7%E5%B0%B1%E5%88%86%E6%88%BF%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [茅台提价会把年轻人推得更远吗](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E6%8F%90%E4%BB%B7%E4%BC%9A%E6%8A%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%A8%E5%BE%97%E6%9B%B4%E8%BF%9C%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [年轻人逛商场只去B1B2](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%AA%E5%8E%BBB1B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武校投毒案嫌犯妻子：他是好丈夫](https://www.baidu.com/s?wd=%E6%AD%A6%E6%A0%A1%E6%8A%95%E6%AF%92%E6%A1%88%E5%AB%8C%E7%8A%AF%E5%A6%BB%E5%AD%90%EF%BC%9A%E4%BB%96%E6%98%AF%E5%A5%BD%E4%B8%88%E5%A4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女孩连续3天被后桌挤压抓头发](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%BF%9E%E7%BB%AD3%E5%A4%A9%E8%A2%AB%E5%90%8E%E6%A1%8C%E6%8C%A4%E5%8E%8B%E6%8A%93%E5%A4%B4%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [赴美失联广东女子遗体疑被发现](https://www.baidu.com/s?wd=%E8%B5%B4%E7%BE%8E%E5%A4%B1%E8%81%94%E5%B9%BF%E4%B8%9C%E5%A5%B3%E5%AD%90%E9%81%97%E4%BD%93%E7%96%91%E8%A2%AB%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆公租房不摇号就分房？不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%85%AC%E7%A7%9F%E6%88%BF%E4%B8%8D%E6%91%87%E5%8F%B7%E5%B0%B1%E5%88%86%E6%88%BF%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
