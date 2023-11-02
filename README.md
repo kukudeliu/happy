@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 11:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 11:49:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [缅甸](https://s.weibo.com/weibo?q=%E7%BC%85%E7%94%B8&t=31&band_rank=4&Refer=top)<br />
 5. [年轻人逛商场只去B1B2](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%AA%E5%8E%BBB1B2%23&t=31&band_rank=5&Refer=top)<br />
 6. [湖北大学保卫处回应情侣与校外人冲突](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E5%A4%A7%E5%AD%A6%E4%BF%9D%E5%8D%AB%E5%A4%84%E5%9B%9E%E5%BA%94%E6%83%85%E4%BE%A3%E4%B8%8E%E6%A0%A1%E5%A4%96%E4%BA%BA%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
-7. [日本开始第3轮核污染水排海](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BC%80%E5%A7%8B%E7%AC%AC3%E8%BD%AE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [36岁男子脑死亡捐器官救5人](https://s.weibo.com/weibo?q=%2336%E5%B2%81%E7%94%B7%E5%AD%90%E8%84%91%E6%AD%BB%E4%BA%A1%E6%8D%90%E5%99%A8%E5%AE%98%E6%95%915%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
+7. [36岁男子脑死亡捐器官救5人](https://s.weibo.com/weibo?q=%2336%E5%B2%81%E7%94%B7%E5%AD%90%E8%84%91%E6%AD%BB%E4%BA%A1%E6%8D%90%E5%99%A8%E5%AE%98%E6%95%915%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [日本开始第3轮核污染水排海](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BC%80%E5%A7%8B%E7%AC%AC3%E8%BD%AE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%23&t=31&band_rank=8&Refer=top)<br />
 9. [离世女教师加班数石榴系谣言](https://s.weibo.com/weibo?q=%23%E7%A6%BB%E4%B8%96%E5%A5%B3%E6%95%99%E5%B8%88%E5%8A%A0%E7%8F%AD%E6%95%B0%E7%9F%B3%E6%A6%B4%E7%B3%BB%E8%B0%A3%E8%A8%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
