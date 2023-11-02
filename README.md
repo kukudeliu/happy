@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 19:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 19:39:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [11月起多项新规开始执行](https://www.baidu.com/s?wd=11%E6%9C%88%E8%B5%B7%E5%A4%9A%E9%A1%B9%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [茅台提价会把年轻人推得更远吗](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E6%8F%90%E4%BB%B7%E4%BC%9A%E6%8A%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%A8%E5%BE%97%E6%9B%B4%E8%BF%9C%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [香港房价暴跌回7年前](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%88%BF%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%9E7%E5%B9%B4%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美加军舰又穿越台湾海峡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%8A%A0%E5%86%9B%E8%88%B0%E5%8F%88%E7%A9%BF%E8%B6%8A%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新华社：把课间十分钟还给孩子](https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%EF%BC%9A%E6%8A%8A%E8%AF%BE%E9%97%B4%E5%8D%81%E5%88%86%E9%92%9F%E8%BF%98%E7%BB%99%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国在安理会的身份变了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%8F%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [985应届硕士应聘吐槽薪资仅3400元](https://www.baidu.com/s?wd=985%E5%BA%94%E5%B1%8A%E7%A1%95%E5%A3%AB%E5%BA%94%E8%81%98%E5%90%90%E6%A7%BD%E8%96%AA%E8%B5%84%E4%BB%853400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆公租房不摇号就分房？不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%85%AC%E7%A7%9F%E6%88%BF%E4%B8%8D%E6%91%87%E5%8F%B7%E5%B0%B1%E5%88%86%E6%88%BF%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [11月起多项新规开始执行](https://www.baidu.com/s?wd=11%E6%9C%88%E8%B5%B7%E5%A4%9A%E9%A1%B9%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [茅台提价会把年轻人推得更远吗](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E6%8F%90%E4%BB%B7%E4%BC%9A%E6%8A%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%A8%E5%BE%97%E6%9B%B4%E8%BF%9C%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [香港房价暴跌回7年前](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%88%BF%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%9E7%E5%B9%B4%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美加军舰又穿越台湾海峡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%8A%A0%E5%86%9B%E8%88%B0%E5%8F%88%E7%A9%BF%E8%B6%8A%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新华社：把课间十分钟还给孩子](https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%EF%BC%9A%E6%8A%8A%E8%AF%BE%E9%97%B4%E5%8D%81%E5%88%86%E9%92%9F%E8%BF%98%E7%BB%99%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国在安理会的身份变了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%8F%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [985应届硕士应聘吐槽薪资仅3400元](https://www.baidu.com/s?wd=985%E5%BA%94%E5%B1%8A%E7%A1%95%E5%A3%AB%E5%BA%94%E8%81%98%E5%90%90%E6%A7%BD%E8%96%AA%E8%B5%84%E4%BB%853400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆公租房不摇号就分房？不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%85%AC%E7%A7%9F%E6%88%BF%E4%B8%8D%E6%91%87%E5%8F%B7%E5%B0%B1%E5%88%86%E6%88%BF%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
