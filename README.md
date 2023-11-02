@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 12:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 12:12:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [年轻人逛商场只去B1B2](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%AA%E5%8E%BBB1B2%23&t=31&band_rank=4&Refer=top)<br />
 5. [缅甸](https://s.weibo.com/weibo?q=%E7%BC%85%E7%94%B8&t=31&band_rank=5&Refer=top)<br />
 6. [福岛第一核电站核废液溅射量超此前估算](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B2%9B%E7%AC%AC%E4%B8%80%E6%A0%B8%E7%94%B5%E7%AB%99%E6%A0%B8%E5%BA%9F%E6%B6%B2%E6%BA%85%E5%B0%84%E9%87%8F%E8%B6%85%E6%AD%A4%E5%89%8D%E4%BC%B0%E7%AE%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [我使馆回应日本第三批核污染水排海](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E7%AC%AC%E4%B8%89%E6%89%B9%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%23&t=31&band_rank=7&Refer=top)<br />
+7. [高校通报贫困生举报助学金名额被挤](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E8%B4%AB%E5%9B%B0%E7%94%9F%E4%B8%BE%E6%8A%A5%E5%8A%A9%E5%AD%A6%E9%87%91%E5%90%8D%E9%A2%9D%E8%A2%AB%E6%8C%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [湖北大学保卫处回应情侣与校外人冲突](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E5%A4%A7%E5%AD%A6%E4%BF%9D%E5%8D%AB%E5%A4%84%E5%9B%9E%E5%BA%94%E6%83%85%E4%BE%A3%E4%B8%8E%E6%A0%A1%E5%A4%96%E4%BA%BA%E5%86%B2%E7%AA%81%23&t=31&band_rank=8&Refer=top)<br />
 9. [36岁男子脑死亡捐器官救5人](https://s.weibo.com/weibo?q=%2336%E5%B2%81%E7%94%B7%E5%AD%90%E8%84%91%E6%AD%BB%E4%BA%A1%E6%8D%90%E5%99%A8%E5%AE%98%E6%95%915%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
