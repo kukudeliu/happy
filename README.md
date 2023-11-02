@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 20:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 20:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [缅方称一个中缅边境战略城镇失去控制](https://s.weibo.com/weibo?q=%23%E7%BC%85%E6%96%B9%E7%A7%B0%E4%B8%80%E4%B8%AA%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E6%88%98%E7%95%A5%E5%9F%8E%E9%95%87%E5%A4%B1%E5%8E%BB%E6%8E%A7%E5%88%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [4家邻居8年几乎处成1家人](https://s.weibo.com/weibo?q=%234%E5%AE%B6%E9%82%BB%E5%B1%858%E5%B9%B4%E5%87%A0%E4%B9%8E%E5%A4%84%E6%88%901%E5%AE%B6%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [水管工捡到300克黄金上交意外破获盗窃案](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E7%AE%A1%E5%B7%A5%E6%8D%A1%E5%88%B0300%E5%85%8B%E9%BB%84%E9%87%91%E4%B8%8A%E4%BA%A4%E6%84%8F%E5%A4%96%E7%A0%B4%E8%8E%B7%E7%9B%97%E7%AA%83%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [WBG晋级S13四强](https://s.weibo.com/weibo?q=%23WBG%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [香港房价暴跌给内地楼市敲响警钟](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%88%BF%E4%BB%B7%E6%9A%B4%E8%B7%8C%E7%BB%99%E5%86%85%E5%9C%B0%E6%A5%BC%E5%B8%82%E6%95%B2%E5%93%8D%E8%AD%A6%E9%92%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
