@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 13:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 13:15:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [湖南一医院发通知：解聘全体员工](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%8C%BB%E9%99%A2%E5%8F%91%E9%80%9A%E7%9F%A5%EF%BC%9A%E8%A7%A3%E8%81%98%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [11月起多项新规开始执行](https://www.baidu.com/s?wd=11%E6%9C%88%E8%B5%B7%E5%A4%9A%E9%A1%B9%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [年轻人“蹭老式”消费：性价比高](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E2%80%9C%E8%B9%AD%E8%80%81%E5%BC%8F%E2%80%9D%E6%B6%88%E8%B4%B9%EF%BC%9A%E6%80%A7%E4%BB%B7%E6%AF%94%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [加沙地带一所医院产科病房遭轰炸](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E4%B8%80%E6%89%80%E5%8C%BB%E9%99%A2%E4%BA%A7%E7%A7%91%E7%97%85%E6%88%BF%E9%81%AD%E8%BD%B0%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国在安理会的身份变了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%8F%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夫妻同床5年 发现丈夫染色体是女性](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%8C%E5%BA%8A5%E5%B9%B4+%E5%8F%91%E7%8E%B0%E4%B8%88%E5%A4%AB%E6%9F%93%E8%89%B2%E4%BD%93%E6%98%AF%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国在安理会的身份变了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%8F%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [夫妻同床5年 发现丈夫染色体是女性](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%8C%E5%BA%8A5%E5%B9%B4+%E5%8F%91%E7%8E%B0%E4%B8%88%E5%A4%AB%E6%9F%93%E8%89%B2%E4%BD%93%E6%98%AF%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教练车掉入水塘致2死1伤 内情曝光](https://www.baidu.com/s?wd=%E6%95%99%E7%BB%83%E8%BD%A6%E6%8E%89%E5%85%A5%E6%B0%B4%E5%A1%98%E8%87%B42%E6%AD%BB1%E4%BC%A4+%E5%86%85%E6%83%85%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华大学取消新闻学专业？假的](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%96%B0%E9%97%BB%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [湖南一医院发通知：解聘全体员工](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%8C%BB%E9%99%A2%E5%8F%91%E9%80%9A%E7%9F%A5%EF%BC%9A%E8%A7%A3%E8%81%98%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [11月起多项新规开始执行](https://www.baidu.com/s?wd=11%E6%9C%88%E8%B5%B7%E5%A4%9A%E9%A1%B9%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [年轻人“蹭老式”消费：性价比高](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E2%80%9C%E8%B9%AD%E8%80%81%E5%BC%8F%E2%80%9D%E6%B6%88%E8%B4%B9%EF%BC%9A%E6%80%A7%E4%BB%B7%E6%AF%94%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [加沙地带一所医院产科病房遭轰炸](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E4%B8%80%E6%89%80%E5%8C%BB%E9%99%A2%E4%BA%A7%E7%A7%91%E7%97%85%E6%88%BF%E9%81%AD%E8%BD%B0%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国在安理会的身份变了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%8F%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夫妻同床5年 发现丈夫染色体是女性](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%8C%E5%BA%8A5%E5%B9%B4+%E5%8F%91%E7%8E%B0%E4%B8%88%E5%A4%AB%E6%9F%93%E8%89%B2%E4%BD%93%E6%98%AF%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国在安理会的身份变了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%8F%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [夫妻同床5年 发现丈夫染色体是女性](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%8C%E5%BA%8A5%E5%B9%B4+%E5%8F%91%E7%8E%B0%E4%B8%88%E5%A4%AB%E6%9F%93%E8%89%B2%E4%BD%93%E6%98%AF%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教练车掉入水塘致2死1伤 内情曝光](https://www.baidu.com/s?wd=%E6%95%99%E7%BB%83%E8%BD%A6%E6%8E%89%E5%85%A5%E6%B0%B4%E5%A1%98%E8%87%B42%E6%AD%BB1%E4%BC%A4+%E5%86%85%E6%83%85%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华大学取消新闻学专业？假的](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%96%B0%E9%97%BB%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
