@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 19:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 19:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [WBG晋级S13四强](https://s.weibo.com/weibo?q=%23WBG%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子跳舞被困礁石3小伙手拉手将其救回](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B7%B3%E8%88%9E%E8%A2%AB%E5%9B%B0%E7%A4%81%E7%9F%B33%E5%B0%8F%E4%BC%99%E6%89%8B%E6%8B%89%E6%89%8B%E5%B0%86%E5%85%B6%E6%95%91%E5%9B%9E%23&t=31&band_rank=7&Refer=top)<br />
 8. [WBG零封NRG](https://s.weibo.com/weibo?q=%23WBG%E9%9B%B6%E5%B0%81NRG%23&t=31&band_rank=8&Refer=top)<br />
-9. [G2居然输给这种队](https://s.weibo.com/weibo?q=G2%E5%B1%85%E7%84%B6%E8%BE%93%E7%BB%99%E8%BF%99%E7%A7%8D%E9%98%9F&t=31&band_rank=9&Refer=top)<br />
+9. [水管工捡到300克黄金上交意外破获盗窃案](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E7%AE%A1%E5%B7%A5%E6%8D%A1%E5%88%B0300%E5%85%8B%E9%BB%84%E9%87%91%E4%B8%8A%E4%BA%A4%E6%84%8F%E5%A4%96%E7%A0%B4%E8%8E%B7%E7%9B%97%E7%AA%83%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
