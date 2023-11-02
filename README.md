@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 15:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 15:05:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [香港房价暴跌给内地楼市敲响警钟](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%88%BF%E4%BB%B7%E6%9A%B4%E8%B7%8C%E7%BB%99%E5%86%85%E5%9C%B0%E6%A5%BC%E5%B8%82%E6%95%B2%E5%93%8D%E8%AD%A6%E9%92%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [卫健委回应医院解聘全体员工](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E5%8C%BB%E9%99%A2%E8%A7%A3%E8%81%98%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [年轻人逛商场只去B1B2](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%AA%E5%8E%BBB1B2%23&t=31&band_rank=7&Refer=top)<br />
-8. [高校通报贫困生举报助学金名额被挤](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E8%B4%AB%E5%9B%B0%E7%94%9F%E4%B8%BE%E6%8A%A5%E5%8A%A9%E5%AD%A6%E9%87%91%E5%90%8D%E9%A2%9D%E8%A2%AB%E6%8C%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [36岁男子脑死亡捐器官救5人](https://s.weibo.com/weibo?q=%2336%E5%B2%81%E7%94%B7%E5%AD%90%E8%84%91%E6%AD%BB%E4%BA%A1%E6%8D%90%E5%99%A8%E5%AE%98%E6%95%915%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [李克强同志遗体在京火化](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%93%E5%9C%A8%E4%BA%AC%E7%81%AB%E5%8C%96&t=31&band_rank=8&Refer=top)<br />
+9. [高校通报贫困生举报助学金名额被挤](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E8%B4%AB%E5%9B%B0%E7%94%9F%E4%B8%BE%E6%8A%A5%E5%8A%A9%E5%AD%A6%E9%87%91%E5%90%8D%E9%A2%9D%E8%A2%AB%E6%8C%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
