@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 19:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 19:43:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [茅台提价会把年轻人推得更远吗](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E6%8F%90%E4%BB%B7%E4%BC%9A%E6%8A%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%A8%E5%BE%97%E6%9B%B4%E8%BF%9C%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [香港房价暴跌回7年前](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%88%BF%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%9E7%E5%B9%B4%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国在安理会的身份变了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%8F%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [985应届硕士应聘吐槽薪资仅3400元](https://www.baidu.com/s?wd=985%E5%BA%94%E5%B1%8A%E7%A1%95%E5%A3%AB%E5%BA%94%E8%81%98%E5%90%90%E6%A7%BD%E8%96%AA%E8%B5%84%E4%BB%853400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩连续3天被后桌挤压抓头发](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%BF%9E%E7%BB%AD3%E5%A4%A9%E8%A2%AB%E5%90%8E%E6%A1%8C%E6%8C%A4%E5%8E%8B%E6%8A%93%E5%A4%B4%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆公租房不摇号就分房？不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%85%AC%E7%A7%9F%E6%88%BF%E4%B8%8D%E6%91%87%E5%8F%B7%E5%B0%B1%E5%88%86%E6%88%BF%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [茅台提价会把年轻人推得更远吗](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E6%8F%90%E4%BB%B7%E4%BC%9A%E6%8A%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%A8%E5%BE%97%E6%9B%B4%E8%BF%9C%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [香港房价暴跌回7年前](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%88%BF%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%9E7%E5%B9%B4%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国在安理会的身份变了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%8F%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [985应届硕士应聘吐槽薪资仅3400元](https://www.baidu.com/s?wd=985%E5%BA%94%E5%B1%8A%E7%A1%95%E5%A3%AB%E5%BA%94%E8%81%98%E5%90%90%E6%A7%BD%E8%96%AA%E8%B5%84%E4%BB%853400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩连续3天被后桌挤压抓头发](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%BF%9E%E7%BB%AD3%E5%A4%A9%E8%A2%AB%E5%90%8E%E6%A1%8C%E6%8C%A4%E5%8E%8B%E6%8A%93%E5%A4%B4%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆公租房不摇号就分房？不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%85%AC%E7%A7%9F%E6%88%BF%E4%B8%8D%E6%91%87%E5%8F%B7%E5%B0%B1%E5%88%86%E6%88%BF%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
