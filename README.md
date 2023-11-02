@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 11:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 11:18:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [年轻人“蹭老式”消费：性价比高](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E2%80%9C%E8%B9%AD%E8%80%81%E5%BC%8F%E2%80%9D%E6%B6%88%E8%B4%B9%EF%BC%9A%E6%80%A7%E4%BB%B7%E6%AF%94%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [夫妻同床5年 发现丈夫染色体是女性](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%8C%E5%BA%8A5%E5%B9%B4+%E5%8F%91%E7%8E%B0%E4%B8%88%E5%A4%AB%E6%9F%93%E8%89%B2%E4%BD%93%E6%98%AF%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国美总部已人去楼空](https://www.baidu.com/s?wd=%E5%9B%BD%E7%BE%8E%E6%80%BB%E9%83%A8%E5%B7%B2%E4%BA%BA%E5%8E%BB%E6%A5%BC%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [秸秆焚烧引发东北空气重污染](https://www.baidu.com/s?wd=%E7%A7%B8%E7%A7%86%E7%84%9A%E7%83%A7%E5%BC%95%E5%8F%91%E4%B8%9C%E5%8C%97%E7%A9%BA%E6%B0%94%E9%87%8D%E6%B1%A1%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子鞋底藏2块金条闯关 步伐沉重露馅](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%9E%8B%E5%BA%95%E8%97%8F2%E5%9D%97%E9%87%91%E6%9D%A1%E9%97%AF%E5%85%B3+%E6%AD%A5%E4%BC%90%E6%B2%89%E9%87%8D%E9%9C%B2%E9%A6%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [轻生女教师曾加班数石榴？假的](https://www.baidu.com/s?wd=%E8%BD%BB%E7%94%9F%E5%A5%B3%E6%95%99%E5%B8%88%E6%9B%BE%E5%8A%A0%E7%8F%AD%E6%95%B0%E7%9F%B3%E6%A6%B4%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [年轻人“蹭老式”消费：性价比高](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E2%80%9C%E8%B9%AD%E8%80%81%E5%BC%8F%E2%80%9D%E6%B6%88%E8%B4%B9%EF%BC%9A%E6%80%A7%E4%BB%B7%E6%AF%94%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [夫妻同床5年 发现丈夫染色体是女性](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%8C%E5%BA%8A5%E5%B9%B4+%E5%8F%91%E7%8E%B0%E4%B8%88%E5%A4%AB%E6%9F%93%E8%89%B2%E4%BD%93%E6%98%AF%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国美总部已人去楼空](https://www.baidu.com/s?wd=%E5%9B%BD%E7%BE%8E%E6%80%BB%E9%83%A8%E5%B7%B2%E4%BA%BA%E5%8E%BB%E6%A5%BC%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [秸秆焚烧引发东北空气重污染](https://www.baidu.com/s?wd=%E7%A7%B8%E7%A7%86%E7%84%9A%E7%83%A7%E5%BC%95%E5%8F%91%E4%B8%9C%E5%8C%97%E7%A9%BA%E6%B0%94%E9%87%8D%E6%B1%A1%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子鞋底藏2块金条闯关 步伐沉重露馅](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%9E%8B%E5%BA%95%E8%97%8F2%E5%9D%97%E9%87%91%E6%9D%A1%E9%97%AF%E5%85%B3+%E6%AD%A5%E4%BC%90%E6%B2%89%E9%87%8D%E9%9C%B2%E9%A6%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [轻生女教师曾加班数石榴？假的](https://www.baidu.com/s?wd=%E8%BD%BB%E7%94%9F%E5%A5%B3%E6%95%99%E5%B8%88%E6%9B%BE%E5%8A%A0%E7%8F%AD%E6%95%B0%E7%9F%B3%E6%A6%B4%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
