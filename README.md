@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 20:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 20:28:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [李克强同志生平照片](https://www.baidu.com/s?wd=%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E7%94%9F%E5%B9%B3%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [11月起多项新规开始执行](https://www.baidu.com/s?wd=11%E6%9C%88%E8%B5%B7%E5%A4%9A%E9%A1%B9%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [茅台提价会把年轻人推得更远吗](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E6%8F%90%E4%BB%B7%E4%BC%9A%E6%8A%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%A8%E5%BE%97%E6%9B%B4%E8%BF%9C%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女足替补队员忘带参赛证延误上场](https://www.baidu.com/s?wd=%E5%A5%B3%E8%B6%B3%E6%9B%BF%E8%A1%A5%E9%98%9F%E5%91%98%E5%BF%98%E5%B8%A6%E5%8F%82%E8%B5%9B%E8%AF%81%E5%BB%B6%E8%AF%AF%E4%B8%8A%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [江苏一副市长被举报与原同事暧昧](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%89%AF%E5%B8%82%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%B8%8E%E5%8E%9F%E5%90%8C%E4%BA%8B%E6%9A%A7%E6%98%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [18岁弟弟被姐姐带去打九价疫苗](https://www.baidu.com/s?wd=18%E5%B2%81%E5%BC%9F%E5%BC%9F%E8%A2%AB%E5%A7%90%E5%A7%90%E5%B8%A6%E5%8E%BB%E6%89%93%E4%B9%9D%E4%BB%B7%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高校情侣与校外人士起冲突大打出手](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%83%85%E4%BE%A3%E4%B8%8E%E6%A0%A1%E5%A4%96%E4%BA%BA%E5%A3%AB%E8%B5%B7%E5%86%B2%E7%AA%81%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医院回应诊断证明盖章需收费1元](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E8%AF%8A%E6%96%AD%E8%AF%81%E6%98%8E%E7%9B%96%E7%AB%A0%E9%9C%80%E6%94%B6%E8%B4%B91%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [江苏一副市长被举报与原同事暧昧](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%89%AF%E5%B8%82%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%B8%8E%E5%8E%9F%E5%90%8C%E4%BA%8B%E6%9A%A7%E6%98%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆公租房不摇号就分房？不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%85%AC%E7%A7%9F%E6%88%BF%E4%B8%8D%E6%91%87%E5%8F%B7%E5%B0%B1%E5%88%86%E6%88%BF%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [李克强同志生平照片](https://www.baidu.com/s?wd=%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E7%94%9F%E5%B9%B3%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [11月起多项新规开始执行](https://www.baidu.com/s?wd=11%E6%9C%88%E8%B5%B7%E5%A4%9A%E9%A1%B9%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [茅台提价会把年轻人推得更远吗](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E6%8F%90%E4%BB%B7%E4%BC%9A%E6%8A%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%A8%E5%BE%97%E6%9B%B4%E8%BF%9C%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女足替补队员忘带参赛证延误上场](https://www.baidu.com/s?wd=%E5%A5%B3%E8%B6%B3%E6%9B%BF%E8%A1%A5%E9%98%9F%E5%91%98%E5%BF%98%E5%B8%A6%E5%8F%82%E8%B5%9B%E8%AF%81%E5%BB%B6%E8%AF%AF%E4%B8%8A%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [江苏一副市长被举报与原同事暧昧](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%89%AF%E5%B8%82%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%B8%8E%E5%8E%9F%E5%90%8C%E4%BA%8B%E6%9A%A7%E6%98%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [18岁弟弟被姐姐带去打九价疫苗](https://www.baidu.com/s?wd=18%E5%B2%81%E5%BC%9F%E5%BC%9F%E8%A2%AB%E5%A7%90%E5%A7%90%E5%B8%A6%E5%8E%BB%E6%89%93%E4%B9%9D%E4%BB%B7%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高校情侣与校外人士起冲突大打出手](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%83%85%E4%BE%A3%E4%B8%8E%E6%A0%A1%E5%A4%96%E4%BA%BA%E5%A3%AB%E8%B5%B7%E5%86%B2%E7%AA%81%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医院回应诊断证明盖章需收费1元](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E8%AF%8A%E6%96%AD%E8%AF%81%E6%98%8E%E7%9B%96%E7%AB%A0%E9%9C%80%E6%94%B6%E8%B4%B91%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [江苏一副市长被举报与原同事暧昧](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%89%AF%E5%B8%82%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%B8%8E%E5%8E%9F%E5%90%8C%E4%BA%8B%E6%9A%A7%E6%98%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆公租房不摇号就分房？不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%85%AC%E7%A7%9F%E6%88%BF%E4%B8%8D%E6%91%87%E5%8F%B7%E5%B0%B1%E5%88%86%E6%88%BF%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
