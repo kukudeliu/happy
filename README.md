@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 10:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 10:22:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [缅甸](https://s.weibo.com/weibo?q=%E7%BC%85%E7%94%B8&t=31&band_rank=5&Refer=top)<br />
 6. [苹果取消AppleWatch应用兼容安卓计划](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%96%E6%B6%88AppleWatch%E5%BA%94%E7%94%A8%E5%85%BC%E5%AE%B9%E5%AE%89%E5%8D%93%E8%AE%A1%E5%88%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [把课间十分钟还给孩子](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E8%AF%BE%E9%97%B4%E5%8D%81%E5%88%86%E9%92%9F%E8%BF%98%E7%BB%99%E5%AD%A9%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [海归博士985硕士求职因本科双非被刷](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BD%92%E5%8D%9A%E5%A3%AB985%E7%A1%95%E5%A3%AB%E6%B1%82%E8%81%8C%E5%9B%A0%E6%9C%AC%E7%A7%91%E5%8F%8C%E9%9D%9E%E8%A2%AB%E5%88%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [日本开始第3轮核污染水排海](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BC%80%E5%A7%8B%E7%AC%AC3%E8%BD%AE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%23&t=31&band_rank=9&Refer=top)<br />
+8. [日本开始第3轮核污染水排海](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BC%80%E5%A7%8B%E7%AC%AC3%E8%BD%AE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%23&t=31&band_rank=8&Refer=top)<br />
+9. [海归博士985硕士求职因本科双非被刷](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BD%92%E5%8D%9A%E5%A3%AB985%E7%A1%95%E5%A3%AB%E6%B1%82%E8%81%8C%E5%9B%A0%E6%9C%AC%E7%A7%91%E5%8F%8C%E9%9D%9E%E8%A2%AB%E5%88%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [男生住商场楼梯下超半年无人知晓](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%BD%8F%E5%95%86%E5%9C%BA%E6%A5%BC%E6%A2%AF%E4%B8%8B%E8%B6%85%E5%8D%8A%E5%B9%B4%E6%97%A0%E4%BA%BA%E7%9F%A5%E6%99%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国美总部已人去楼空](https://www.baidu.com/s?wd=%E5%9B%BD%E7%BE%8E%E6%80%BB%E9%83%A8%E5%B7%B2%E4%BA%BA%E5%8E%BB%E6%A5%BC%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [446万无人认领 6个月后将上缴国库](https://www.baidu.com/s?wd=446%E4%B8%87%E6%97%A0%E4%BA%BA%E8%AE%A4%E9%A2%86+6%E4%B8%AA%E6%9C%88%E5%90%8E%E5%B0%86%E4%B8%8A%E7%BC%B4%E5%9B%BD%E5%BA%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高校情侣与校外人士起冲突大打出手](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%83%85%E4%BE%A3%E4%B8%8E%E6%A0%A1%E5%A4%96%E4%BA%BA%E5%A3%AB%E8%B5%B7%E5%86%B2%E7%AA%81%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人“蹭老式”消费：性价比高](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E2%80%9C%E8%B9%AD%E8%80%81%E5%BC%8F%E2%80%9D%E6%B6%88%E8%B4%B9%EF%BC%9A%E6%80%A7%E4%BB%B7%E6%AF%94%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [轻生女教师曾加班数石榴？假的](https://www.baidu.com/s?wd=%E8%BD%BB%E7%94%9F%E5%A5%B3%E6%95%99%E5%B8%88%E6%9B%BE%E5%8A%A0%E7%8F%AD%E6%95%B0%E7%9F%B3%E6%A6%B4%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男生住商场楼梯下超半年无人知晓](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%BD%8F%E5%95%86%E5%9C%BA%E6%A5%BC%E6%A2%AF%E4%B8%8B%E8%B6%85%E5%8D%8A%E5%B9%B4%E6%97%A0%E4%BA%BA%E7%9F%A5%E6%99%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国美总部已人去楼空](https://www.baidu.com/s?wd=%E5%9B%BD%E7%BE%8E%E6%80%BB%E9%83%A8%E5%B7%B2%E4%BA%BA%E5%8E%BB%E6%A5%BC%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [446万无人认领 6个月后将上缴国库](https://www.baidu.com/s?wd=446%E4%B8%87%E6%97%A0%E4%BA%BA%E8%AE%A4%E9%A2%86+6%E4%B8%AA%E6%9C%88%E5%90%8E%E5%B0%86%E4%B8%8A%E7%BC%B4%E5%9B%BD%E5%BA%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高校情侣与校外人士起冲突大打出手](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%83%85%E4%BE%A3%E4%B8%8E%E6%A0%A1%E5%A4%96%E4%BA%BA%E5%A3%AB%E8%B5%B7%E5%86%B2%E7%AA%81%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人“蹭老式”消费：性价比高](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E2%80%9C%E8%B9%AD%E8%80%81%E5%BC%8F%E2%80%9D%E6%B6%88%E8%B4%B9%EF%BC%9A%E6%80%A7%E4%BB%B7%E6%AF%94%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [轻生女教师曾加班数石榴？假的](https://www.baidu.com/s?wd=%E8%BD%BB%E7%94%9F%E5%A5%B3%E6%95%99%E5%B8%88%E6%9B%BE%E5%8A%A0%E7%8F%AD%E6%95%B0%E7%9F%B3%E6%A6%B4%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
