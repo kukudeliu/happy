@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 16:43:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 16:44:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [媒体：给学生减负也要给教师减负](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BB%99%E5%AD%A6%E7%94%9F%E5%87%8F%E8%B4%9F%E4%B9%9F%E8%A6%81%E7%BB%99%E6%95%99%E5%B8%88%E5%87%8F%E8%B4%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [年轻人逛商场只去B1B2](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%AA%E5%8E%BBB1B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [985应届硕士应聘吐槽薪资仅3400元](https://www.baidu.com/s?wd=985%E5%BA%94%E5%B1%8A%E7%A1%95%E5%A3%AB%E5%BA%94%E8%81%98%E5%90%90%E6%A7%BD%E8%96%AA%E8%B5%84%E4%BB%853400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红主播辛巴抖音账号被封禁](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%B8%BB%E6%92%AD%E8%BE%9B%E5%B7%B4%E6%8A%96%E9%9F%B3%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%E7%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [车停路边疑挡人行道 大爷怒泼泔水](https://www.baidu.com/s?wd=%E8%BD%A6%E5%81%9C%E8%B7%AF%E8%BE%B9%E7%96%91%E6%8C%A1%E4%BA%BA%E8%A1%8C%E9%81%93+%E5%A4%A7%E7%88%B7%E6%80%92%E6%B3%BC%E6%B3%94%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华大学取消新闻学专业？假的](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%96%B0%E9%97%BB%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [媒体：给学生减负也要给教师减负](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BB%99%E5%AD%A6%E7%94%9F%E5%87%8F%E8%B4%9F%E4%B9%9F%E8%A6%81%E7%BB%99%E6%95%99%E5%B8%88%E5%87%8F%E8%B4%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [年轻人逛商场只去B1B2](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%AA%E5%8E%BBB1B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [985应届硕士应聘吐槽薪资仅3400元](https://www.baidu.com/s?wd=985%E5%BA%94%E5%B1%8A%E7%A1%95%E5%A3%AB%E5%BA%94%E8%81%98%E5%90%90%E6%A7%BD%E8%96%AA%E8%B5%84%E4%BB%853400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红主播辛巴抖音账号被封禁](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%B8%BB%E6%92%AD%E8%BE%9B%E5%B7%B4%E6%8A%96%E9%9F%B3%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%E7%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [车停路边疑挡人行道 大爷怒泼泔水](https://www.baidu.com/s?wd=%E8%BD%A6%E5%81%9C%E8%B7%AF%E8%BE%B9%E7%96%91%E6%8C%A1%E4%BA%BA%E8%A1%8C%E9%81%93+%E5%A4%A7%E7%88%B7%E6%80%92%E6%B3%BC%E6%B3%94%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华大学取消新闻学专业？假的](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%96%B0%E9%97%BB%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
