@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 01:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 01:19:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [11月起多项新规开始执行](https://www.baidu.com/s?wd=11%E6%9C%88%E8%B5%B7%E5%A4%9A%E9%A1%B9%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家称彩礼理念不改婚姻制度要崩溃](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%BD%A9%E7%A4%BC%E7%90%86%E5%BF%B5%E4%B8%8D%E6%94%B9%E5%A9%9A%E5%A7%BB%E5%88%B6%E5%BA%A6%E8%A6%81%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [飞了36年空姐最后一班飞行哭着告别](https://www.baidu.com/s?wd=%E9%A3%9E%E4%BA%8636%E5%B9%B4%E7%A9%BA%E5%A7%90%E6%9C%80%E5%90%8E%E4%B8%80%E7%8F%AD%E9%A3%9E%E8%A1%8C%E5%93%AD%E7%9D%80%E5%91%8A%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [央媒：村民抢药材通报淡化违法本质](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E6%9D%91%E6%B0%91%E6%8A%A2%E8%8D%AF%E6%9D%90%E9%80%9A%E6%8A%A5%E6%B7%A1%E5%8C%96%E8%BF%9D%E6%B3%95%E6%9C%AC%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌克兰承认57万件武器丢失](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%89%BF%E8%AE%A457%E4%B8%87%E4%BB%B6%E6%AD%A6%E5%99%A8%E4%B8%A2%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [家长怒斥孩子看病等太久 医院回应](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%80%92%E6%96%A5%E5%AD%A9%E5%AD%90%E7%9C%8B%E7%97%85%E7%AD%89%E5%A4%AA%E4%B9%85+%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [茅台提价会把年轻人推得更远吗](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E6%8F%90%E4%BB%B7%E4%BC%9A%E6%8A%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%A8%E5%BE%97%E6%9B%B4%E8%BF%9C%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川三江口有人非法捕捞？不实](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%89%E6%B1%9F%E5%8F%A3%E6%9C%89%E4%BA%BA%E9%9D%9E%E6%B3%95%E6%8D%95%E6%8D%9E%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [11月起多项新规开始执行](https://www.baidu.com/s?wd=11%E6%9C%88%E8%B5%B7%E5%A4%9A%E9%A1%B9%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家称彩礼理念不改婚姻制度要崩溃](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%BD%A9%E7%A4%BC%E7%90%86%E5%BF%B5%E4%B8%8D%E6%94%B9%E5%A9%9A%E5%A7%BB%E5%88%B6%E5%BA%A6%E8%A6%81%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [飞了36年空姐最后一班飞行哭着告别](https://www.baidu.com/s?wd=%E9%A3%9E%E4%BA%8636%E5%B9%B4%E7%A9%BA%E5%A7%90%E6%9C%80%E5%90%8E%E4%B8%80%E7%8F%AD%E9%A3%9E%E8%A1%8C%E5%93%AD%E7%9D%80%E5%91%8A%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [央媒：村民抢药材通报淡化违法本质](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E6%9D%91%E6%B0%91%E6%8A%A2%E8%8D%AF%E6%9D%90%E9%80%9A%E6%8A%A5%E6%B7%A1%E5%8C%96%E8%BF%9D%E6%B3%95%E6%9C%AC%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌克兰承认57万件武器丢失](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%89%BF%E8%AE%A457%E4%B8%87%E4%BB%B6%E6%AD%A6%E5%99%A8%E4%B8%A2%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [家长怒斥孩子看病等太久 医院回应](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%80%92%E6%96%A5%E5%AD%A9%E5%AD%90%E7%9C%8B%E7%97%85%E7%AD%89%E5%A4%AA%E4%B9%85+%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [茅台提价会把年轻人推得更远吗](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E6%8F%90%E4%BB%B7%E4%BC%9A%E6%8A%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%A8%E5%BE%97%E6%9B%B4%E8%BF%9C%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川三江口有人非法捕捞？不实](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%89%E6%B1%9F%E5%8F%A3%E6%9C%89%E4%BA%BA%E9%9D%9E%E6%B3%95%E6%8D%95%E6%8D%9E%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
