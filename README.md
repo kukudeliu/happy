@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 14:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 14:14:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [警方退赃现场：有成捆现金大金链子](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%80%E8%B5%83%E7%8E%B0%E5%9C%BA%EF%BC%9A%E6%9C%89%E6%88%90%E6%8D%86%E7%8E%B0%E9%87%91%E5%A4%A7%E9%87%91%E9%93%BE%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男演员控诉李佳琦直播间侵犯肖像权](https://www.baidu.com/s?wd=%E7%94%B7%E6%BC%94%E5%91%98%E6%8E%A7%E8%AF%89%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E4%BE%B5%E7%8A%AF%E8%82%96%E5%83%8F%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [浙江省委书记和阿里巴巴新班子座谈](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%92%8C%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%96%B0%E7%8F%AD%E5%AD%90%E5%BA%A7%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [教练车掉入水塘致2死1伤 内情曝光](https://www.baidu.com/s?wd=%E6%95%99%E7%BB%83%E8%BD%A6%E6%8E%89%E5%85%A5%E6%B0%B4%E5%A1%98%E8%87%B42%E6%AD%BB1%E4%BC%A4+%E5%86%85%E6%83%85%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [车停路边疑挡人行道 大爷怒泼泔水](https://www.baidu.com/s?wd=%E8%BD%A6%E5%81%9C%E8%B7%AF%E8%BE%B9%E7%96%91%E6%8C%A1%E4%BA%BA%E8%A1%8C%E9%81%93+%E5%A4%A7%E7%88%B7%E6%80%92%E6%B3%BC%E6%B3%94%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华大学取消新闻学专业？假的](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%96%B0%E9%97%BB%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [警方退赃现场：有成捆现金大金链子](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%80%E8%B5%83%E7%8E%B0%E5%9C%BA%EF%BC%9A%E6%9C%89%E6%88%90%E6%8D%86%E7%8E%B0%E9%87%91%E5%A4%A7%E9%87%91%E9%93%BE%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男演员控诉李佳琦直播间侵犯肖像权](https://www.baidu.com/s?wd=%E7%94%B7%E6%BC%94%E5%91%98%E6%8E%A7%E8%AF%89%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E4%BE%B5%E7%8A%AF%E8%82%96%E5%83%8F%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [浙江省委书记和阿里巴巴新班子座谈](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%92%8C%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%96%B0%E7%8F%AD%E5%AD%90%E5%BA%A7%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [教练车掉入水塘致2死1伤 内情曝光](https://www.baidu.com/s?wd=%E6%95%99%E7%BB%83%E8%BD%A6%E6%8E%89%E5%85%A5%E6%B0%B4%E5%A1%98%E8%87%B42%E6%AD%BB1%E4%BC%A4+%E5%86%85%E6%83%85%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [车停路边疑挡人行道 大爷怒泼泔水](https://www.baidu.com/s?wd=%E8%BD%A6%E5%81%9C%E8%B7%AF%E8%BE%B9%E7%96%91%E6%8C%A1%E4%BA%BA%E8%A1%8C%E9%81%93+%E5%A4%A7%E7%88%B7%E6%80%92%E6%B3%BC%E6%B3%94%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华大学取消新闻学专业？假的](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%96%B0%E9%97%BB%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
