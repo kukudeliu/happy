@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 15:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 15:10:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [康师傅涨价](https://s.weibo.com/weibo?q=%E5%BA%B7%E5%B8%88%E5%82%85%E6%B6%A8%E4%BB%B7&t=31&band_rank=4&Refer=top)<br />
 5. [18岁弟弟被姐姐带去打九价](https://s.weibo.com/weibo?q=%2318%E5%B2%81%E5%BC%9F%E5%BC%9F%E8%A2%AB%E5%A7%90%E5%A7%90%E5%B8%A6%E5%8E%BB%E6%89%93%E4%B9%9D%E4%BB%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [香港房价暴跌给内地楼市敲响警钟](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%88%BF%E4%BB%B7%E6%9A%B4%E8%B7%8C%E7%BB%99%E5%86%85%E5%9C%B0%E6%A5%BC%E5%B8%82%E6%95%B2%E5%93%8D%E8%AD%A6%E9%92%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [湖南一医院解聘全体员工](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E5%8C%BB%E9%99%A2%E8%A7%A3%E8%81%98%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [卫健委回应医院解聘全体员工](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E5%8C%BB%E9%99%A2%E8%A7%A3%E8%81%98%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [年轻人逛商场只去B1B2](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%AA%E5%8E%BBB1B2%23&t=31&band_rank=9&Refer=top)<br />
+7. [李克强同志生平](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E7%94%9F%E5%B9%B3&t=31&band_rank=7&Refer=top)<br />
+8. [湖南一医院解聘全体员工](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E5%8C%BB%E9%99%A2%E8%A7%A3%E8%81%98%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5%23&t=31&band_rank=8&Refer=top)<br />
+9. [卫健委回应医院解聘全体员工](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E5%8C%BB%E9%99%A2%E8%A7%A3%E8%81%98%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
