@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 19:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 19:50:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [李克强同志生平照片](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E7%94%9F%E5%B9%B3%E7%85%A7%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [4家邻居8年几乎处成1家人](https://s.weibo.com/weibo?q=%234%E5%AE%B6%E9%82%BB%E5%B1%858%E5%B9%B4%E5%87%A0%E4%B9%8E%E5%A4%84%E6%88%901%E5%AE%B6%E4%BA%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [水管工捡到300克黄金上交意外破获盗窃案](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E7%AE%A1%E5%B7%A5%E6%8D%A1%E5%88%B0300%E5%85%8B%E9%BB%84%E9%87%91%E4%B8%8A%E4%BA%A4%E6%84%8F%E5%A4%96%E7%A0%B4%E8%8E%B7%E7%9B%97%E7%AA%83%E6%A1%88%23&t=31&band_rank=5&Refer=top)<br />
-6. [男子用儿子微信花110万规避执行获刑](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8%E5%84%BF%E5%AD%90%E5%BE%AE%E4%BF%A1%E8%8A%B1110%E4%B8%87%E8%A7%84%E9%81%BF%E6%89%A7%E8%A1%8C%E8%8E%B7%E5%88%91%23&t=31&band_rank=6&Refer=top)<br />
+6. [3元钱已经买不到饮料了](https://s.weibo.com/weibo?q=%233%E5%85%83%E9%92%B1%E5%B7%B2%E7%BB%8F%E4%B9%B0%E4%B8%8D%E5%88%B0%E9%A5%AE%E6%96%99%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子跳舞被困礁石3小伙手拉手将其救回](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B7%B3%E8%88%9E%E8%A2%AB%E5%9B%B0%E7%A4%81%E7%9F%B33%E5%B0%8F%E4%BC%99%E6%89%8B%E6%8B%89%E6%89%8B%E5%B0%86%E5%85%B6%E6%95%91%E5%9B%9E%23&t=31&band_rank=7&Refer=top)<br />
-8. [3元钱已经买不到饮料了](https://s.weibo.com/weibo?q=%233%E5%85%83%E9%92%B1%E5%B7%B2%E7%BB%8F%E4%B9%B0%E4%B8%8D%E5%88%B0%E9%A5%AE%E6%96%99%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+8. [男子用儿子微信花110万规避执行获刑](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8%E5%84%BF%E5%AD%90%E5%BE%AE%E4%BF%A1%E8%8A%B1110%E4%B8%87%E8%A7%84%E9%81%BF%E6%89%A7%E8%A1%8C%E8%8E%B7%E5%88%91%23&t=31&band_rank=8&Refer=top)<br />
 9. [WBG晋级S13四强](https://s.weibo.com/weibo?q=%23WBG%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
