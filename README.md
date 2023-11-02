@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 19:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 19:19:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [《新闻联播》正播出](https://www.baidu.com/s?wd=%E3%80%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E3%80%8B%E6%AD%A3%E6%92%AD%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [香港房价暴跌回7年前](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%88%BF%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%9E7%E5%B9%B4%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [湖南一医院发通知：解聘全体员工](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%8C%BB%E9%99%A2%E5%8F%91%E9%80%9A%E7%9F%A5%EF%BC%9A%E8%A7%A3%E8%81%98%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [985应届硕士应聘吐槽薪资仅3400元](https://www.baidu.com/s?wd=985%E5%BA%94%E5%B1%8A%E7%A1%95%E5%A3%AB%E5%BA%94%E8%81%98%E5%90%90%E6%A7%BD%E8%96%AA%E8%B5%84%E4%BB%853400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加沙地带一所医院产科病房遭轰炸](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E4%B8%80%E6%89%80%E5%8C%BB%E9%99%A2%E4%BA%A7%E7%A7%91%E7%97%85%E6%88%BF%E9%81%AD%E8%BD%B0%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆公租房不摇号就分房？不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%85%AC%E7%A7%9F%E6%88%BF%E4%B8%8D%E6%91%87%E5%8F%B7%E5%B0%B1%E5%88%86%E6%88%BF%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [《新闻联播》正播出](https://www.baidu.com/s?wd=%E3%80%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E3%80%8B%E6%AD%A3%E6%92%AD%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [香港房价暴跌回7年前](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%88%BF%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%9E7%E5%B9%B4%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [湖南一医院发通知：解聘全体员工](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%8C%BB%E9%99%A2%E5%8F%91%E9%80%9A%E7%9F%A5%EF%BC%9A%E8%A7%A3%E8%81%98%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [985应届硕士应聘吐槽薪资仅3400元](https://www.baidu.com/s?wd=985%E5%BA%94%E5%B1%8A%E7%A1%95%E5%A3%AB%E5%BA%94%E8%81%98%E5%90%90%E6%A7%BD%E8%96%AA%E8%B5%84%E4%BB%853400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加沙地带一所医院产科病房遭轰炸](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E4%B8%80%E6%89%80%E5%8C%BB%E9%99%A2%E4%BA%A7%E7%A7%91%E7%97%85%E6%88%BF%E9%81%AD%E8%BD%B0%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆公租房不摇号就分房？不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%85%AC%E7%A7%9F%E6%88%BF%E4%B8%8D%E6%91%87%E5%8F%B7%E5%B0%B1%E5%88%86%E6%88%BF%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
