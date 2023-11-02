@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 15:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 15:15:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [湖南一医院解聘全体员工 员工发声](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%8C%BB%E9%99%A2%E8%A7%A3%E8%81%98%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5+%E5%91%98%E5%B7%A5%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网红主播辛巴抖音账号被封禁](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%B8%BB%E6%92%AD%E8%BE%9B%E5%B7%B4%E6%8A%96%E9%9F%B3%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%E7%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子被小区闸杆击倒后离世](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%B0%8F%E5%8C%BA%E9%97%B8%E6%9D%86%E5%87%BB%E5%80%92%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [湖南一医院发通知：解聘全体员工](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%8C%BB%E9%99%A2%E5%8F%91%E9%80%9A%E7%9F%A5%EF%BC%9A%E8%A7%A3%E8%81%98%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加沙医生看到女儿躺担架上崩溃](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%8C%BB%E7%94%9F%E7%9C%8B%E5%88%B0%E5%A5%B3%E5%84%BF%E8%BA%BA%E6%8B%85%E6%9E%B6%E4%B8%8A%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华大学取消新闻学专业？假的](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%96%B0%E9%97%BB%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [湖南一医院解聘全体员工 员工发声](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%8C%BB%E9%99%A2%E8%A7%A3%E8%81%98%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5+%E5%91%98%E5%B7%A5%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网红主播辛巴抖音账号被封禁](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%B8%BB%E6%92%AD%E8%BE%9B%E5%B7%B4%E6%8A%96%E9%9F%B3%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%E7%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子被小区闸杆击倒后离世](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%B0%8F%E5%8C%BA%E9%97%B8%E6%9D%86%E5%87%BB%E5%80%92%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [湖南一医院发通知：解聘全体员工](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%8C%BB%E9%99%A2%E5%8F%91%E9%80%9A%E7%9F%A5%EF%BC%9A%E8%A7%A3%E8%81%98%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加沙医生看到女儿躺担架上崩溃](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%8C%BB%E7%94%9F%E7%9C%8B%E5%88%B0%E5%A5%B3%E5%84%BF%E8%BA%BA%E6%8B%85%E6%9E%B6%E4%B8%8A%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华大学取消新闻学专业？假的](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%96%B0%E9%97%BB%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
