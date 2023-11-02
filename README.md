@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 16:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 16:09:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [天安门等多地下半旗悼念李克强同志](https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E7%AD%89%E5%A4%9A%E5%9C%B0%E4%B8%8B%E5%8D%8A%E6%97%97%E6%82%BC%E5%BF%B5%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [年轻人逛商场只去B1B2](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%AA%E5%8E%BBB1B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网红主播辛巴抖音账号被封禁](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%B8%BB%E6%92%AD%E8%BE%9B%E5%B7%B4%E6%8A%96%E9%9F%B3%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%E7%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：中国最希望缅甸稳定](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%B8%8C%E6%9C%9B%E7%BC%85%E7%94%B8%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [夫妻同床5年 发现丈夫染色体是女性](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%8C%E5%BA%8A5%E5%B9%B4+%E5%8F%91%E7%8E%B0%E4%B8%88%E5%A4%AB%E6%9F%93%E8%89%B2%E4%BD%93%E6%98%AF%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华大学取消新闻学专业？假的](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%96%B0%E9%97%BB%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [天安门等多地下半旗悼念李克强同志](https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E7%AD%89%E5%A4%9A%E5%9C%B0%E4%B8%8B%E5%8D%8A%E6%97%97%E6%82%BC%E5%BF%B5%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [年轻人逛商场只去B1B2](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%AA%E5%8E%BBB1B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网红主播辛巴抖音账号被封禁](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%B8%BB%E6%92%AD%E8%BE%9B%E5%B7%B4%E6%8A%96%E9%9F%B3%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%E7%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：中国最希望缅甸稳定](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%B8%8C%E6%9C%9B%E7%BC%85%E7%94%B8%E7%A8%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [夫妻同床5年 发现丈夫染色体是女性](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%8C%E5%BA%8A5%E5%B9%B4+%E5%8F%91%E7%8E%B0%E4%B8%88%E5%A4%AB%E6%9F%93%E8%89%B2%E4%BD%93%E6%98%AF%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华大学取消新闻学专业？假的](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%96%B0%E9%97%BB%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
