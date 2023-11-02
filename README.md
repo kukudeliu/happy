@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 14:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 14:30:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [中国计划开启太阳立体探测时代](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%AE%A1%E5%88%92%E5%BC%80%E5%90%AF%E5%A4%AA%E9%98%B3%E7%AB%8B%E4%BD%93%E6%8E%A2%E6%B5%8B%E6%97%B6%E4%BB%A3%23&t=31&band_rank=3&Refer=top)<br />
 4. [康师傅涨价](https://s.weibo.com/weibo?q=%E5%BA%B7%E5%B8%88%E5%82%85%E6%B6%A8%E4%BB%B7&t=31&band_rank=4&Refer=top)<br />
 5. [年轻人逛商场只去B1B2](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%AA%E5%8E%BBB1B2%23&t=31&band_rank=5&Refer=top)<br />
-6. [卫健委回应医院解聘全体员工](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E5%8C%BB%E9%99%A2%E8%A7%A3%E8%81%98%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5%23&t=31&band_rank=6&Refer=top)<br />
-7. [18岁弟弟被姐姐带去打九价](https://s.weibo.com/weibo?q=%2318%E5%B2%81%E5%BC%9F%E5%BC%9F%E8%A2%AB%E5%A7%90%E5%A7%90%E5%B8%A6%E5%8E%BB%E6%89%93%E4%B9%9D%E4%BB%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [东部战区回应美加军舰过航台湾海峡](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%8A%A0%E5%86%9B%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [湖人终于赢快船了](https://s.weibo.com/weibo?q=%23%E6%B9%96%E4%BA%BA%E7%BB%88%E4%BA%8E%E8%B5%A2%E5%BF%AB%E8%88%B9%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+6. [18岁弟弟被姐姐带去打九价](https://s.weibo.com/weibo?q=%2318%E5%B2%81%E5%BC%9F%E5%BC%9F%E8%A2%AB%E5%A7%90%E5%A7%90%E5%B8%A6%E5%8E%BB%E6%89%93%E4%B9%9D%E4%BB%B7%23&t=31&band_rank=6&Refer=top)<br />
+7. [卫健委回应医院解聘全体员工](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E5%8C%BB%E9%99%A2%E8%A7%A3%E8%81%98%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5%23&t=31&band_rank=7&Refer=top)<br />
+8. [湖人终于赢快船了](https://s.weibo.com/weibo?q=%23%E6%B9%96%E4%BA%BA%E7%BB%88%E4%BA%8E%E8%B5%A2%E5%BF%AB%E8%88%B9%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [东部战区回应美加军舰过航台湾海峡](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%8A%A0%E5%86%9B%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
