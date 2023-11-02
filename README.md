@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 13:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-02 13:04:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [香港特区政府下半旗悼念李克强同志](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E4%B8%8B%E5%8D%8A%E6%97%97%E6%82%BC%E5%BF%B5%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国在安理会的身份变了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%8F%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [夫妻同床5年 发现丈夫染色体是女性](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%8C%E5%BA%8A5%E5%B9%B4+%E5%8F%91%E7%8E%B0%E4%B8%88%E5%A4%AB%E6%9F%93%E8%89%B2%E4%BD%93%E6%98%AF%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苹果客服回应app自动扣费3年](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94app%E8%87%AA%E5%8A%A8%E6%89%A3%E8%B4%B93%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加沙地带一所医院产科病房遭轰炸](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E4%B8%80%E6%89%80%E5%8C%BB%E9%99%A2%E4%BA%A7%E7%A7%91%E7%97%85%E6%88%BF%E9%81%AD%E8%BD%B0%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华大学取消新闻学专业？假的](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%96%B0%E9%97%BB%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [香港特区政府下半旗悼念李克强同志](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E4%B8%8B%E5%8D%8A%E6%97%97%E6%82%BC%E5%BF%B5%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国在安理会的身份变了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%8F%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [夫妻同床5年 发现丈夫染色体是女性](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%8C%E5%BA%8A5%E5%B9%B4+%E5%8F%91%E7%8E%B0%E4%B8%88%E5%A4%AB%E6%9F%93%E8%89%B2%E4%BD%93%E6%98%AF%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苹果客服回应app自动扣费3年](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94app%E8%87%AA%E5%8A%A8%E6%89%A3%E8%B4%B93%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加沙地带一所医院产科病房遭轰炸](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E4%B8%80%E6%89%80%E5%8C%BB%E9%99%A2%E4%BA%A7%E7%A7%91%E7%97%85%E6%88%BF%E9%81%AD%E8%BD%B0%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华大学取消新闻学专业？假的](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%96%B0%E9%97%BB%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
