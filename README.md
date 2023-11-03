@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 00:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 00:15:01</h4></div>
 
 > 微博  
 
 1. [王俊凯问学校门口的大哥还认不认得他](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%97%AE%E5%AD%A6%E6%A0%A1%E9%97%A8%E5%8F%A3%E7%9A%84%E5%A4%A7%E5%93%A5%E8%BF%98%E8%AE%A4%E4%B8%8D%E8%AE%A4%E5%BE%97%E4%BB%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [主持人还没念完李现就走完了](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%BF%98%E6%B2%A1%E5%BF%B5%E5%AE%8C%E6%9D%8E%E7%8E%B0%E5%B0%B1%E8%B5%B0%E5%AE%8C%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+2. [中国大陆合法销售的iPhone15均为中国组装](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%90%88%E6%B3%95%E9%94%80%E5%94%AE%E7%9A%84iPhone15%E5%9D%87%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%BB%84%E8%A3%85%23&t=31&band_rank=2&Refer=top)<br />
 3. [第六届进博会亮点抢先看](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%85%AD%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%BA%AE%E7%82%B9%E6%8A%A2%E5%85%88%E7%9C%8B%23&t=31&band_rank=3&Refer=top)<br />
-4. [中国大陆合法销售的iPhone15均为中国组装](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%90%88%E6%B3%95%E9%94%80%E5%94%AE%E7%9A%84iPhone15%E5%9D%87%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%BB%84%E8%A3%85%23&t=31&band_rank=4&Refer=top)<br />
+4. [主持人还没念完李现就走完了](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%BF%98%E6%B2%A1%E5%BF%B5%E5%AE%8C%E6%9D%8E%E7%8E%B0%E5%B0%B1%E8%B5%B0%E5%AE%8C%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [你敢信这是宋茜生图](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%95%A2%E4%BF%A1%E8%BF%99%E6%98%AF%E5%AE%8B%E8%8C%9C%E7%94%9F%E5%9B%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [6名中国公民在菲被绑架下落不明](https://s.weibo.com/weibo?q=%236%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E8%8F%B2%E8%A2%AB%E7%BB%91%E6%9E%B6%E4%B8%8B%E8%90%BD%E4%B8%8D%E6%98%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫 两套造型](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E4%B8%A4%E5%A5%97%E9%80%A0%E5%9E%8B&t=31&band_rank=7&Refer=top)<br />
