@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 21:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 21:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴花团锦簇复古造型](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%8A%B1%E5%9B%A2%E9%94%A6%E7%B0%87%E5%A4%8D%E5%8F%A4%E9%80%A0%E5%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [以爱为营开播](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%BC%80%E6%92%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [GEN难道只研究了T1](https://s.weibo.com/weibo?q=GEN%E9%9A%BE%E9%81%93%E5%8F%AA%E7%A0%94%E7%A9%B6%E4%BA%86T1&t=31&band_rank=8&Refer=top)<br />
-9. [教育部要求中小学校确保学生课间正常活动](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E8%A6%81%E6%B1%82%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%A0%A1%E7%A1%AE%E4%BF%9D%E5%AD%A6%E7%94%9F%E8%AF%BE%E9%97%B4%E6%AD%A3%E5%B8%B8%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [当地通报合肥一小学生校内死亡](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5%E5%90%88%E8%82%A5%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,7 +23,7 @@
 4. [全球共赴东方之约](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%85%B1%E8%B5%B4%E4%B8%9C%E6%96%B9%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克称终有一日人类将无需工作](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E7%BB%88%E6%9C%89%E4%B8%80%E6%97%A5%E4%BA%BA%E7%B1%BB%E5%B0%86%E6%97%A0%E9%9C%80%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [合肥通报“小学1年级学生校内死亡”](https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E9%80%9A%E6%8A%A5%E2%80%9C%E5%B0%8F%E5%AD%A61%E5%B9%B4%E7%BA%A7%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%AD%BB%E4%BA%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [湾仔码头云吞吃出牙齿状异物](https://www.baidu.com/s?wd=%E6%B9%BE%E4%BB%94%E7%A0%81%E5%A4%B4%E4%BA%91%E5%90%9E%E5%90%83%E5%87%BA%E7%89%99%E9%BD%BF%E7%8A%B6%E5%BC%82%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [《西游记》毗蓝婆菩萨扮演者去世](https://www.baidu.com/s?wd=%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B%E6%AF%97%E8%93%9D%E5%A9%86%E8%8F%A9%E8%90%A8%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全华班BLG3:2险胜韩国GEN](https://www.baidu.com/s?wd=%E5%85%A8%E5%8D%8E%E7%8F%ADBLG3%3A2%E9%99%A9%E8%83%9C%E9%9F%A9%E5%9B%BDGEN&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙岳麓山有人被拐缅甸？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%B2%B3%E9%BA%93%E5%B1%B1%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%8B%90%E7%BC%85%E7%94%B8%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [全球共赴东方之约](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%85%B1%E8%B5%B4%E4%B8%9C%E6%96%B9%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克称终有一日人类将无需工作](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E7%BB%88%E6%9C%89%E4%B8%80%E6%97%A5%E4%BA%BA%E7%B1%BB%E5%B0%86%E6%97%A0%E9%9C%80%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [合肥通报“小学1年级学生校内死亡”](https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E9%80%9A%E6%8A%A5%E2%80%9C%E5%B0%8F%E5%AD%A61%E5%B9%B4%E7%BA%A7%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%AD%BB%E4%BA%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [湾仔码头云吞吃出牙齿状异物](https://www.baidu.com/s?wd=%E6%B9%BE%E4%BB%94%E7%A0%81%E5%A4%B4%E4%BA%91%E5%90%9E%E5%90%83%E5%87%BA%E7%89%99%E9%BD%BF%E7%8A%B6%E5%BC%82%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [《西游记》毗蓝婆菩萨扮演者去世](https://www.baidu.com/s?wd=%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B%E6%AF%97%E8%93%9D%E5%A9%86%E8%8F%A9%E8%90%A8%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全华班BLG3:2险胜韩国GEN](https://www.baidu.com/s?wd=%E5%85%A8%E5%8D%8E%E7%8F%ADBLG3%3A2%E9%99%A9%E8%83%9C%E9%9F%A9%E5%9B%BDGEN&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙岳麓山有人被拐缅甸？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%B2%B3%E9%BA%93%E5%B1%B1%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%8B%90%E7%BC%85%E7%94%B8%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
