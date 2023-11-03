@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 07:24:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 07:25:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [继续实施一带一路科技创新行动计划](https://www.baidu.com/s?wd=%E7%BB%A7%E7%BB%AD%E5%AE%9E%E6%96%BD%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E8%A1%8C%E5%8A%A8%E8%AE%A1%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [央媒：高校助学金不能是笔糊涂账](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E9%AB%98%E6%A0%A1%E5%8A%A9%E5%AD%A6%E9%87%91%E4%B8%8D%E8%83%BD%E6%98%AF%E7%AC%94%E7%B3%8A%E6%B6%82%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [被举报与女子暧昧副市长被免职](https://www.baidu.com/s?wd=%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%B8%8E%E5%A5%B3%E5%AD%90%E6%9A%A7%E6%98%A7%E5%89%AF%E5%B8%82%E9%95%BF%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [黑龙江局地将降大暴雪 或破历史极值](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%B1%80%E5%9C%B0%E5%B0%86%E9%99%8D%E5%A4%A7%E6%9A%B4%E9%9B%AA+%E6%88%96%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全球共赴东方之约](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%85%B1%E8%B5%B4%E4%B8%9C%E6%96%B9%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克称终有一日人类将无需工作](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E7%BB%88%E6%9C%89%E4%B8%80%E6%97%A5%E4%BA%BA%E7%B1%BB%E5%B0%86%E6%97%A0%E9%9C%80%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [继续实施一带一路科技创新行动计划](https://www.baidu.com/s?wd=%E7%BB%A7%E7%BB%AD%E5%AE%9E%E6%96%BD%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E8%A1%8C%E5%8A%A8%E8%AE%A1%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [央媒：高校助学金不能是笔糊涂账](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E9%AB%98%E6%A0%A1%E5%8A%A9%E5%AD%A6%E9%87%91%E4%B8%8D%E8%83%BD%E6%98%AF%E7%AC%94%E7%B3%8A%E6%B6%82%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [被举报与女子暧昧副市长被免职](https://www.baidu.com/s?wd=%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%B8%8E%E5%A5%B3%E5%AD%90%E6%9A%A7%E6%98%A7%E5%89%AF%E5%B8%82%E9%95%BF%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [黑龙江局地将降大暴雪 或破历史极值](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%B1%80%E5%9C%B0%E5%B0%86%E9%99%8D%E5%A4%A7%E6%9A%B4%E9%9B%AA+%E6%88%96%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全球共赴东方之约](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%85%B1%E8%B5%B4%E4%B8%9C%E6%96%B9%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克称终有一日人类将无需工作](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E7%BB%88%E6%9C%89%E4%B8%80%E6%97%A5%E4%BA%BA%E7%B1%BB%E5%B0%86%E6%97%A0%E9%9C%80%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
