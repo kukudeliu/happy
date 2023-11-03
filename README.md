@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 10:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 10:38:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [李克强同志生平](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E7%94%9F%E5%B9%B3%23&t=31&band_rank=2&Refer=top)<br />
 3. [李克强同志生平照片](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E7%94%9F%E5%B9%B3%E7%85%A7%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [李佳琦直播间疑为冲销量未付先送](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E7%96%91%E4%B8%BA%E5%86%B2%E9%94%80%E9%87%8F%E6%9C%AA%E4%BB%98%E5%85%88%E9%80%81%23&t=31&band_rank=4&Refer=top)<br />
-5. [助学金事件当事人称已搬离宿舍](https://s.weibo.com/weibo?q=%23%E5%8A%A9%E5%AD%A6%E9%87%91%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E5%B7%B2%E6%90%AC%E7%A6%BB%E5%AE%BF%E8%88%8D%23&t=31&band_rank=5&Refer=top)<br />
-6. [我爸用20年证明辣条不是垃圾食品](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B8%E7%94%A820%E5%B9%B4%E8%AF%81%E6%98%8E%E8%BE%A3%E6%9D%A1%E4%B8%8D%E6%98%AF%E5%9E%83%E5%9C%BE%E9%A3%9F%E5%93%81%23&t=31&band_rank=6&Refer=top)<br />
+5. [我爸用20年证明辣条不是垃圾食品](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B8%E7%94%A820%E5%B9%B4%E8%AF%81%E6%98%8E%E8%BE%A3%E6%9D%A1%E4%B8%8D%E6%98%AF%E5%9E%83%E5%9C%BE%E9%A3%9F%E5%93%81%23&t=31&band_rank=5&Refer=top)<br />
+6. [助学金事件当事人称已搬离宿舍](https://s.weibo.com/weibo?q=%23%E5%8A%A9%E5%AD%A6%E9%87%91%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E5%B7%B2%E6%90%AC%E7%A6%BB%E5%AE%BF%E8%88%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [举报助学金被挤男生让网友别转钱了](https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E5%8A%A9%E5%AD%A6%E9%87%91%E8%A2%AB%E6%8C%A4%E7%94%B7%E7%94%9F%E8%AE%A9%E7%BD%91%E5%8F%8B%E5%88%AB%E8%BD%AC%E9%92%B1%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [快递小哥迟到可能是遇上了沙尘暴](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E8%BF%9F%E5%88%B0%E5%8F%AF%E8%83%BD%E6%98%AF%E9%81%87%E4%B8%8A%E4%BA%86%E6%B2%99%E5%B0%98%E6%9A%B4%23&t=31&band_rank=8&Refer=top)<br />
 9. [7岁女童体育课猝死9分钟后才做CPR](https://s.weibo.com/weibo?q=%237%E5%B2%81%E5%A5%B3%E7%AB%A5%E4%BD%93%E8%82%B2%E8%AF%BE%E7%8C%9D%E6%AD%BB9%E5%88%86%E9%92%9F%E5%90%8E%E6%89%8D%E5%81%9ACPR%23&t=31&band_rank=9&Refer=top)<br />
