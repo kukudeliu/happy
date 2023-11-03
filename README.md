@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 21:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 21:40:01</h4></div>
 
 > 微博  
 
-1. [BLG战胜GEN](https://s.weibo.com/weibo?q=%23BLG%E6%88%98%E8%83%9CGEN%23&t=31&band_rank=1&Refer=top)<br />
-2. [李思思开口 分不清谁在主持](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%80%9D%E6%80%9D%E5%BC%80%E5%8F%A3%20%E5%88%86%E4%B8%8D%E6%B8%85%E8%B0%81%E5%9C%A8%E4%B8%BB%E6%8C%81&t=31&band_rank=2&Refer=top)<br />
+1. [李思思开口 分不清谁在主持](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%80%9D%E6%80%9D%E5%BC%80%E5%8F%A3%20%E5%88%86%E4%B8%8D%E6%B8%85%E8%B0%81%E5%9C%A8%E4%B8%BB%E6%8C%81&t=31&band_rank=1&Refer=top)<br />
+2. [BLG战胜GEN](https://s.weibo.com/weibo?q=%23BLG%E6%88%98%E8%83%9CGEN%23&t=31&band_rank=2&Refer=top)<br />
 3. [第六届进博会亮点抢先看](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%85%AD%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%BA%AE%E7%82%B9%E6%8A%A2%E5%85%88%E7%9C%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [ELLE内场](https://s.weibo.com/weibo?q=ELLE%E5%86%85%E5%9C%BA&t=31&band_rank=4&Refer=top)<br />
 5. [杨紫 两套造型](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E4%B8%A4%E5%A5%97%E9%80%A0%E5%9E%8B&t=31&band_rank=5&Refer=top)<br />
