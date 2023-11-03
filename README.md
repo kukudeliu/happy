@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 16:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 16:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吉林一民警早市卖菜被人偷走手枪](https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E4%B8%80%E6%B0%91%E8%AD%A6%E6%97%A9%E5%B8%82%E5%8D%96%E8%8F%9C%E8%A2%AB%E4%BA%BA%E5%81%B7%E8%B5%B0%E6%89%8B%E6%9E%AA%23&t=31&band_rank=6&Refer=top)<br />
 7. [王栎鑫亲了陈楚生](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E4%BA%B2%E4%BA%86%E9%99%88%E6%A5%9A%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [娜扎挂脖珍珠裙](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E6%8C%82%E8%84%96%E7%8F%8D%E7%8F%A0%E8%A3%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [南京理工偷偷给贫困生充饭卡](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%81%B7%E5%81%B7%E7%BB%99%E8%B4%AB%E5%9B%B0%E7%94%9F%E5%85%85%E9%A5%AD%E5%8D%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [GEN对战BLG](https://s.weibo.com/weibo?q=%23GEN%E5%AF%B9%E6%88%98BLG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
