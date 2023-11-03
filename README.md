@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 19:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 19:03:01</h4></div>
 
 > 微博  
 
-1. [杨紫 两套造型](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E4%B8%A4%E5%A5%97%E9%80%A0%E5%9E%8B&t=31&band_rank=1&Refer=top)<br />
+1. [迪丽热巴花团锦簇复古造型](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%8A%B1%E5%9B%A2%E9%94%A6%E7%B0%87%E5%A4%8D%E5%8F%A4%E9%80%A0%E5%9E%8B%23&t=31&band_rank=1&Refer=top)<br />
 2. [南京理工偷偷给贫困生充饭卡](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%81%B7%E5%81%B7%E7%BB%99%E8%B4%AB%E5%9B%B0%E7%94%9F%E5%85%85%E9%A5%AD%E5%8D%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [一图剧透2023进博会](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E5%89%A7%E9%80%8F2023%E8%BF%9B%E5%8D%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [ELLE红毯](https://s.weibo.com/weibo?q=ELLE%E7%BA%A2%E6%AF%AF&t=31&band_rank=4&Refer=top)<br />
+4. [杨紫 两套造型](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E4%B8%A4%E5%A5%97%E9%80%A0%E5%9E%8B&t=31&band_rank=4&Refer=top)<br />
 5. [1500岁万椹之母被雷劈数次仍结千斤果](https://s.weibo.com/weibo?q=%231500%E5%B2%81%E4%B8%87%E6%A4%B9%E4%B9%8B%E6%AF%8D%E8%A2%AB%E9%9B%B7%E5%8A%88%E6%95%B0%E6%AC%A1%E4%BB%8D%E7%BB%93%E5%8D%83%E6%96%A4%E6%9E%9C%23&t=31&band_rank=5&Refer=top)<br />
-6. [迪丽热巴花团锦簇复古造型](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%8A%B1%E5%9B%A2%E9%94%A6%E7%B0%87%E5%A4%8D%E5%8F%A4%E9%80%A0%E5%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
+6. [ELLE红毯](https://s.weibo.com/weibo?q=ELLE%E7%BA%A2%E6%AF%AF&t=31&band_rank=6&Refer=top)<br />
 7. [大四男生割皮救母](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%89%B2%E7%9A%AE%E6%95%91%E6%AF%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [没认出来这是李思思](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E8%AE%A4%E5%87%BA%E6%9D%A5%E8%BF%99%E6%98%AF%E6%9D%8E%E6%80%9D%E6%80%9D%23&t=31&band_rank=8&Refer=top)<br />
 9. [又是谁家的少爷逐梦演艺圈了](https://s.weibo.com/weibo?q=%E5%8F%88%E6%98%AF%E8%B0%81%E5%AE%B6%E7%9A%84%E5%B0%91%E7%88%B7%E9%80%90%E6%A2%A6%E6%BC%94%E8%89%BA%E5%9C%88%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
