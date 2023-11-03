@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 10:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 10:20:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [我爸用20年证明辣条不是垃圾食品](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B8%E7%94%A820%E5%B9%B4%E8%AF%81%E6%98%8E%E8%BE%A3%E6%9D%A1%E4%B8%8D%E6%98%AF%E5%9E%83%E5%9C%BE%E9%A3%9F%E5%93%81%23&t=31&band_rank=5&Refer=top)<br />
 6. [举报助学金被挤男生让网友别转钱了](https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E5%8A%A9%E5%AD%A6%E9%87%91%E8%A2%AB%E6%8C%A4%E7%94%B7%E7%94%9F%E8%AE%A9%E7%BD%91%E5%8F%8B%E5%88%AB%E8%BD%AC%E9%92%B1%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子回应退婚用16.8万彩礼辞职旅行](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E9%80%80%E5%A9%9A%E7%94%A816.8%E4%B8%87%E5%BD%A9%E7%A4%BC%E8%BE%9E%E8%81%8C%E6%97%85%E8%A1%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [快递小哥迟到可能是遇上了沙尘暴](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E8%BF%9F%E5%88%B0%E5%8F%AF%E8%83%BD%E6%98%AF%E9%81%87%E4%B8%8A%E4%BA%86%E6%B2%99%E5%B0%98%E6%9A%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [产妇大出血近8000毫升医护抢救7小时](https://s.weibo.com/weibo?q=%23%E4%BA%A7%E5%A6%87%E5%A4%A7%E5%87%BA%E8%A1%80%E8%BF%918000%E6%AF%AB%E5%8D%87%E5%8C%BB%E6%8A%A4%E6%8A%A2%E6%95%917%E5%B0%8F%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
+8. [李佳琦直播间疑为冲销量未付先送](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E7%96%91%E4%B8%BA%E5%86%B2%E9%94%80%E9%87%8F%E6%9C%AA%E4%BB%98%E5%85%88%E9%80%81%23&t=31&band_rank=8&Refer=top)<br />
+9. [快递小哥迟到可能是遇上了沙尘暴](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E8%BF%9F%E5%88%B0%E5%8F%AF%E8%83%BD%E6%98%AF%E9%81%87%E4%B8%8A%E4%BA%86%E6%B2%99%E5%B0%98%E6%9A%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
