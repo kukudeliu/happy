@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 15:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 15:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [咬伤10岁男童阿拉斯加犬已被打死](https://s.weibo.com/weibo?q=%23%E5%92%AC%E4%BC%A410%E5%B2%81%E7%94%B7%E7%AB%A5%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E7%8A%AC%E5%B7%B2%E8%A2%AB%E6%89%93%E6%AD%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [五块九粉底液成分 作弊痕迹](https://s.weibo.com/weibo?q=%E4%BA%94%E5%9D%97%E4%B9%9D%E7%B2%89%E5%BA%95%E6%B6%B2%E6%88%90%E5%88%86%20%E4%BD%9C%E5%BC%8A%E7%97%95%E8%BF%B9&t=31&band_rank=7&Refer=top)<br />
 8. [李佳琦直播间疑为冲销量未付先送](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E7%96%91%E4%B8%BA%E5%86%B2%E9%94%80%E9%87%8F%E6%9C%AA%E4%BB%98%E5%85%88%E9%80%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [我本是高山张桂梅带海清家访](https://s.weibo.com/weibo?q=%23%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E5%BC%A0%E6%A1%82%E6%A2%85%E5%B8%A6%E6%B5%B7%E6%B8%85%E5%AE%B6%E8%AE%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子100万投资电影亏了96万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90100%E4%B8%87%E6%8A%95%E8%B5%84%E7%94%B5%E5%BD%B1%E4%BA%8F%E4%BA%8696%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
