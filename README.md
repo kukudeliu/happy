@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 14:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 14:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李佳琦直播间疑为冲销量未付先送](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E7%96%91%E4%B8%BA%E5%86%B2%E9%94%80%E9%87%8F%E6%9C%AA%E4%BB%98%E5%85%88%E9%80%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [文班亚马太夸张了](https://s.weibo.com/weibo?q=%23%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E5%A4%AA%E5%A4%B8%E5%BC%A0%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [男子100万投资电影亏了96万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90100%E4%B8%87%E6%8A%95%E8%B5%84%E7%94%B5%E5%BD%B1%E4%BA%8F%E4%BA%8696%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [含有肽字的护肤品 智商税](https://s.weibo.com/weibo?q=%E5%90%AB%E6%9C%89%E8%82%BD%E5%AD%97%E7%9A%84%E6%8A%A4%E8%82%A4%E5%93%81%20%E6%99%BA%E5%95%86%E7%A8%8E&t=31&band_rank=9&Refer=top)<br />
+9. [我本是高山张桂梅带海清家访](https://s.weibo.com/weibo?q=%23%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E5%BC%A0%E6%A1%82%E6%A2%85%E5%B8%A6%E6%B5%B7%E6%B8%85%E5%AE%B6%E8%AE%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
