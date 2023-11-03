@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 21:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 21:03:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [ELLE内场](https://s.weibo.com/weibo?q=ELLE%E5%86%85%E5%9C%BA&t=31&band_rank=4&Refer=top)<br />
 5. [以爱为营开播](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%BC%80%E6%92%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [GEN对战BLG](https://s.weibo.com/weibo?q=%23GEN%E5%AF%B9%E6%88%98BLG%23&t=31&band_rank=6&Refer=top)<br />
-7. [一图剧透2023进博会](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E5%89%A7%E9%80%8F2023%E8%BF%9B%E5%8D%9A%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [GEN难道只研究了T1](https://s.weibo.com/weibo?q=GEN%E9%9A%BE%E9%81%93%E5%8F%AA%E7%A0%94%E7%A9%B6%E4%BA%86T1&t=31&band_rank=8&Refer=top)<br />
-9. [多方回应网传合肥一小学生校内死亡](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%90%88%E8%82%A5%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+7. [GEN难道只研究了T1](https://s.weibo.com/weibo?q=GEN%E9%9A%BE%E9%81%93%E5%8F%AA%E7%A0%94%E7%A9%B6%E4%BA%86T1&t=31&band_rank=7&Refer=top)<br />
+8. [多方回应网传合肥一小学生校内死亡](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%90%88%E8%82%A5%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [教育部要求中小学校确保学生课间正常活动](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E8%A6%81%E6%B1%82%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%A0%A1%E7%A1%AE%E4%BF%9D%E5%AD%A6%E7%94%9F%E8%AF%BE%E9%97%B4%E6%AD%A3%E5%B8%B8%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
