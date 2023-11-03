@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 22:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 22:46:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [李思思开口 分不清谁在主持](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%80%9D%E6%80%9D%E5%BC%80%E5%8F%A3%20%E5%88%86%E4%B8%8D%E6%B8%85%E8%B0%81%E5%9C%A8%E4%B8%BB%E6%8C%81&t=31&band_rank=4&Refer=top)<br />
 5. [杨紫 两套造型](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E4%B8%A4%E5%A5%97%E9%80%A0%E5%9E%8B&t=31&band_rank=5&Refer=top)<br />
 6. [ELLE内场](https://s.weibo.com/weibo?q=ELLE%E5%86%85%E5%9C%BA&t=31&band_rank=6&Refer=top)<br />
-7. [迪丽热巴花团锦簇复古造型](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%8A%B1%E5%9B%A2%E9%94%A6%E7%B0%87%E5%A4%8D%E5%8F%A4%E9%80%A0%E5%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [美团宣布除夕放假](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%A2%E5%AE%A3%E5%B8%83%E9%99%A4%E5%A4%95%E6%94%BE%E5%81%87%23&t=31&band_rank=8&Refer=top)<br />
+7. [美团宣布除夕放假](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%A2%E5%AE%A3%E5%B8%83%E9%99%A4%E5%A4%95%E6%94%BE%E5%81%87%23&t=31&band_rank=7&Refer=top)<br />
+8. [迪丽热巴花团锦簇复古造型](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%8A%B1%E5%9B%A2%E9%94%A6%E7%B0%87%E5%A4%8D%E5%8F%A4%E9%80%A0%E5%9E%8B%23&t=31&band_rank=8&Refer=top)<br />
 9. [当地通报合肥一小学生校内死亡](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5%E5%90%88%E8%82%A5%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
