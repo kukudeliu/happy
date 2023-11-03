@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 23:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 23:25:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [黑龙江局地将降大暴雪 或破历史极值](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%B1%80%E5%9C%B0%E5%B0%86%E9%99%8D%E5%A4%A7%E6%9A%B4%E9%9B%AA+%E6%88%96%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全球共赴东方之约](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%85%B1%E8%B5%B4%E4%B8%9C%E6%96%B9%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克称终有一日人类将无需工作](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E7%BB%88%E6%9C%89%E4%B8%80%E6%97%A5%E4%BA%BA%E7%B1%BB%E5%B0%86%E6%97%A0%E9%9C%80%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [合肥通报“小学1年级学生校内死亡”](https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E9%80%9A%E6%8A%A5%E2%80%9C%E5%B0%8F%E5%AD%A61%E5%B9%B4%E7%BA%A7%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%AD%BB%E4%BA%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [南京理工大学偷偷给贫困生充饭卡](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E5%81%B7%E5%81%B7%E7%BB%99%E8%B4%AB%E5%9B%B0%E7%94%9F%E5%85%85%E9%A5%AD%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《西游记》毗蓝婆菩萨扮演者去世](https://www.baidu.com/s?wd=%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B%E6%AF%97%E8%93%9D%E5%A9%86%E8%8F%A9%E8%90%A8%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [今年下半年首个寒潮预警发布](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%AF%92%E6%BD%AE%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [合肥通报“小学1年级学生校内死亡”](https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E9%80%9A%E6%8A%A5%E2%80%9C%E5%B0%8F%E5%AD%A61%E5%B9%B4%E7%BA%A7%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%AD%BB%E4%BA%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [南京理工大学偷偷给贫困生充饭卡](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E5%81%B7%E5%81%B7%E7%BB%99%E8%B4%AB%E5%9B%B0%E7%94%9F%E5%85%85%E9%A5%AD%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙岳麓山有人被拐缅甸？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%B2%B3%E9%BA%93%E5%B1%B1%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%8B%90%E7%BC%85%E7%94%B8%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [黑龙江局地将降大暴雪 或破历史极值](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%B1%80%E5%9C%B0%E5%B0%86%E9%99%8D%E5%A4%A7%E6%9A%B4%E9%9B%AA+%E6%88%96%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全球共赴东方之约](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%85%B1%E8%B5%B4%E4%B8%9C%E6%96%B9%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克称终有一日人类将无需工作](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E7%BB%88%E6%9C%89%E4%B8%80%E6%97%A5%E4%BA%BA%E7%B1%BB%E5%B0%86%E6%97%A0%E9%9C%80%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [合肥通报“小学1年级学生校内死亡”](https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E9%80%9A%E6%8A%A5%E2%80%9C%E5%B0%8F%E5%AD%A61%E5%B9%B4%E7%BA%A7%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%AD%BB%E4%BA%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [南京理工大学偷偷给贫困生充饭卡](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E5%81%B7%E5%81%B7%E7%BB%99%E8%B4%AB%E5%9B%B0%E7%94%9F%E5%85%85%E9%A5%AD%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《西游记》毗蓝婆菩萨扮演者去世](https://www.baidu.com/s?wd=%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B%E6%AF%97%E8%93%9D%E5%A9%86%E8%8F%A9%E8%90%A8%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [今年下半年首个寒潮预警发布](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%AF%92%E6%BD%AE%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [合肥通报“小学1年级学生校内死亡”](https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E9%80%9A%E6%8A%A5%E2%80%9C%E5%B0%8F%E5%AD%A61%E5%B9%B4%E7%BA%A7%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%AD%BB%E4%BA%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [南京理工大学偷偷给贫困生充饭卡](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E5%81%B7%E5%81%B7%E7%BB%99%E8%B4%AB%E5%9B%B0%E7%94%9F%E5%85%85%E9%A5%AD%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙岳麓山有人被拐缅甸？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%B2%B3%E9%BA%93%E5%B1%B1%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%8B%90%E7%BC%85%E7%94%B8%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
