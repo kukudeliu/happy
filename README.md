@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 20:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 20:19:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [赴一场“穿越千年”的青春邀约](https://www.baidu.com/s?wd=%E8%B5%B4%E4%B8%80%E5%9C%BA%E2%80%9C%E7%A9%BF%E8%B6%8A%E5%8D%83%E5%B9%B4%E2%80%9D%E7%9A%84%E9%9D%92%E6%98%A5%E9%82%80%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [海关查获金条72块 价值约4000万](https://www.baidu.com/s?wd=%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B7%E9%87%91%E6%9D%A172%E5%9D%97+%E4%BB%B7%E5%80%BC%E7%BA%A64000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国战机向加军机空域发射照明弹？](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%88%98%E6%9C%BA%E5%90%91%E5%8A%A0%E5%86%9B%E6%9C%BA%E7%A9%BA%E5%9F%9F%E5%8F%91%E5%B0%84%E7%85%A7%E6%98%8E%E5%BC%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [黑龙江局地将降大暴雪 破历史极值](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%B1%80%E5%9C%B0%E5%B0%86%E9%99%8D%E5%A4%A7%E6%9A%B4%E9%9B%AA+%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [研究生图书馆复制古籍被收899元](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%A4%8D%E5%88%B6%E5%8F%A4%E7%B1%8D%E8%A2%AB%E6%94%B6899%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [河北一救护车疑因斗气冲撞电动车](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E6%95%91%E6%8A%A4%E8%BD%A6%E7%96%91%E5%9B%A0%E6%96%97%E6%B0%94%E5%86%B2%E6%92%9E%E7%94%B5%E5%8A%A8%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [黑龙江局地将降大暴雪 破历史极值](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%B1%80%E5%9C%B0%E5%B0%86%E9%99%8D%E5%A4%A7%E6%9A%B4%E9%9B%AA+%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙岳麓山有人被拐缅甸？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%B2%B3%E9%BA%93%E5%B1%B1%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%8B%90%E7%BC%85%E7%94%B8%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [赴一场“穿越千年”的青春邀约](https://www.baidu.com/s?wd=%E8%B5%B4%E4%B8%80%E5%9C%BA%E2%80%9C%E7%A9%BF%E8%B6%8A%E5%8D%83%E5%B9%B4%E2%80%9D%E7%9A%84%E9%9D%92%E6%98%A5%E9%82%80%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [海关查获金条72块 价值约4000万](https://www.baidu.com/s?wd=%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B7%E9%87%91%E6%9D%A172%E5%9D%97+%E4%BB%B7%E5%80%BC%E7%BA%A64000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国战机向加军机空域发射照明弹？](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%88%98%E6%9C%BA%E5%90%91%E5%8A%A0%E5%86%9B%E6%9C%BA%E7%A9%BA%E5%9F%9F%E5%8F%91%E5%B0%84%E7%85%A7%E6%98%8E%E5%BC%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [黑龙江局地将降大暴雪 破历史极值](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%B1%80%E5%9C%B0%E5%B0%86%E9%99%8D%E5%A4%A7%E6%9A%B4%E9%9B%AA+%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [研究生图书馆复制古籍被收899元](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%A4%8D%E5%88%B6%E5%8F%A4%E7%B1%8D%E8%A2%AB%E6%94%B6899%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [河北一救护车疑因斗气冲撞电动车](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E6%95%91%E6%8A%A4%E8%BD%A6%E7%96%91%E5%9B%A0%E6%96%97%E6%B0%94%E5%86%B2%E6%92%9E%E7%94%B5%E5%8A%A8%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [黑龙江局地将降大暴雪 破历史极值](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%B1%80%E5%9C%B0%E5%B0%86%E9%99%8D%E5%A4%A7%E6%9A%B4%E9%9B%AA+%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙岳麓山有人被拐缅甸？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%B2%B3%E9%BA%93%E5%B1%B1%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%8B%90%E7%BC%85%E7%94%B8%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
