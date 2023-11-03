@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 13:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 13:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [文班亚马太夸张了](https://s.weibo.com/weibo?q=%23%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E5%A4%AA%E5%A4%B8%E5%BC%A0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子100万投资电影亏了96万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90100%E4%B8%87%E6%8A%95%E8%B5%84%E7%94%B5%E5%BD%B1%E4%BA%8F%E4%BA%8696%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [含有肽字的护肤品 智商税](https://s.weibo.com/weibo?q=%E5%90%AB%E6%9C%89%E8%82%BD%E5%AD%97%E7%9A%84%E6%8A%A4%E8%82%A4%E5%93%81%20%E6%99%BA%E5%95%86%E7%A8%8E&t=31&band_rank=8&Refer=top)<br />
-9. [助学金事件当事人称已搬离宿舍](https://s.weibo.com/weibo?q=%23%E5%8A%A9%E5%AD%A6%E9%87%91%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E5%B7%B2%E6%90%AC%E7%A6%BB%E5%AE%BF%E8%88%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [巡视组回应天津助学金事件](https://s.weibo.com/weibo?q=%23%E5%B7%A1%E8%A7%86%E7%BB%84%E5%9B%9E%E5%BA%94%E5%A4%A9%E6%B4%A5%E5%8A%A9%E5%AD%A6%E9%87%91%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
