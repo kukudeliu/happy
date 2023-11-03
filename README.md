@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 19:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 19:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [ELLE红毯](https://s.weibo.com/weibo?q=ELLE%E7%BA%A2%E6%AF%AF&t=31&band_rank=6&Refer=top)<br />
 7. [大四男生割皮救母](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%89%B2%E7%9A%AE%E6%95%91%E6%AF%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨紫 两套造型](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E4%B8%A4%E5%A5%97%E9%80%A0%E5%9E%8B&t=31&band_rank=8&Refer=top)<br />
-9. [又是谁家的少爷逐梦演艺圈了](https://s.weibo.com/weibo?q=%E5%8F%88%E6%98%AF%E8%B0%81%E5%AE%B6%E7%9A%84%E5%B0%91%E7%88%B7%E9%80%90%E6%A2%A6%E6%BC%94%E8%89%BA%E5%9C%88%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [刘诗诗 神女逆光而来](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E7%A5%9E%E5%A5%B3%E9%80%86%E5%85%89%E8%80%8C%E6%9D%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
