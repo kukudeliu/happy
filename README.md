@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 00:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 00:08:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [第六届进博会亮点抢先看](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%85%AD%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%BA%AE%E7%82%B9%E6%8A%A2%E5%85%88%E7%9C%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [中国大陆合法销售的iPhone15均为中国组装](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%90%88%E6%B3%95%E9%94%80%E5%94%AE%E7%9A%84iPhone15%E5%9D%87%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%BB%84%E8%A3%85%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨紫 两套造型](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E4%B8%A4%E5%A5%97%E9%80%A0%E5%9E%8B&t=31&band_rank=5&Refer=top)<br />
-6. [ELLE内场](https://s.weibo.com/weibo?q=ELLE%E5%86%85%E5%9C%BA&t=31&band_rank=6&Refer=top)<br />
-7. [李思思开口 分不清谁在主持](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%80%9D%E6%80%9D%E5%BC%80%E5%8F%A3%20%E5%88%86%E4%B8%8D%E6%B8%85%E8%B0%81%E5%9C%A8%E4%B8%BB%E6%8C%81&t=31&band_rank=7&Refer=top)<br />
-8. [6名中国公民在菲被绑架下落不明](https://s.weibo.com/weibo?q=%236%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E8%8F%B2%E8%A2%AB%E7%BB%91%E6%9E%B6%E4%B8%8B%E8%90%BD%E4%B8%8D%E6%98%8E%23&t=31&band_rank=8&Refer=top)<br />
+6. [6名中国公民在菲被绑架下落不明](https://s.weibo.com/weibo?q=%236%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E8%8F%B2%E8%A2%AB%E7%BB%91%E6%9E%B6%E4%B8%8B%E8%90%BD%E4%B8%8D%E6%98%8E%23&t=31&band_rank=6&Refer=top)<br />
+7. [ELLE内场](https://s.weibo.com/weibo?q=ELLE%E5%86%85%E5%9C%BA&t=31&band_rank=7&Refer=top)<br />
+8. [李思思开口 分不清谁在主持](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%80%9D%E6%80%9D%E5%BC%80%E5%8F%A3%20%E5%88%86%E4%B8%8D%E6%B8%85%E8%B0%81%E5%9C%A8%E4%B8%BB%E6%8C%81&t=31&band_rank=8&Refer=top)<br />
 9. [周铁农同志逝世](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%93%81%E5%86%9C%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
