@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 17:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 17:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [GEN对战BLG](https://s.weibo.com/weibo?q=%23GEN%E5%AF%B9%E6%88%98BLG%23&t=31&band_rank=6&Refer=top)<br />
 7. [南京理工偷偷给贫困生充饭卡](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%81%B7%E5%81%B7%E7%BB%99%E8%B4%AB%E5%9B%B0%E7%94%9F%E5%85%85%E9%A5%AD%E5%8D%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [命韵峋环居然发糖了](https://s.weibo.com/weibo?q=%23%E5%91%BD%E9%9F%B5%E5%B3%8B%E7%8E%AF%E5%B1%85%E7%84%B6%E5%8F%91%E7%B3%96%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [女生称被蜜雪老板3岁儿子掀裙子](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%A7%B0%E8%A2%AB%E8%9C%9C%E9%9B%AA%E8%80%81%E6%9D%BF3%E5%B2%81%E5%84%BF%E5%AD%90%E6%8E%80%E8%A3%99%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [周杰伦 过一阵子发个单曲](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E8%BF%87%E4%B8%80%E9%98%B5%E5%AD%90%E5%8F%91%E4%B8%AA%E5%8D%95%E6%9B%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
