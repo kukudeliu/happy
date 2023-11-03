@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 19:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 19:50:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [1500岁万椹之母被雷劈数次仍结千斤果](https://s.weibo.com/weibo?q=%231500%E5%B2%81%E4%B8%87%E6%A4%B9%E4%B9%8B%E6%AF%8D%E8%A2%AB%E9%9B%B7%E5%8A%88%E6%95%B0%E6%AC%A1%E4%BB%8D%E7%BB%93%E5%8D%83%E6%96%A4%E6%9E%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [ELLE红毯](https://s.weibo.com/weibo?q=ELLE%E7%BA%A2%E6%AF%AF&t=31&band_rank=6&Refer=top)<br />
 7. [大四男生割皮救母](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%89%B2%E7%9A%AE%E6%95%91%E6%AF%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨紫 两套造型](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E4%B8%A4%E5%A5%97%E9%80%A0%E5%9E%8B&t=31&band_rank=8&Refer=top)<br />
+8. [没认出来这是李思思](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E8%AE%A4%E5%87%BA%E6%9D%A5%E8%BF%99%E6%98%AF%E6%9D%8E%E6%80%9D%E6%80%9D%23&t=31&band_rank=8&Refer=top)<br />
 9. [GEN对战BLG](https://s.weibo.com/weibo?q=%23GEN%E5%AF%B9%E6%88%98BLG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [中等强度厄尔尼诺事件即将形成](https://www.baidu.com/s?wd=%E4%B8%AD%E7%AD%89%E5%BC%BA%E5%BA%A6%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E4%BA%8B%E4%BB%B6%E5%8D%B3%E5%B0%86%E5%BD%A2%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生吐槽蜜雪店主3岁儿子掀女生裙子](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E5%90%90%E6%A7%BD%E8%9C%9C%E9%9B%AA%E5%BA%97%E4%B8%BB3%E5%B2%81%E5%84%BF%E5%AD%90%E6%8E%80%E5%A5%B3%E7%94%9F%E8%A3%99%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [六问“河南23岁女教师留遗书去世”](https://www.baidu.com/s?wd=%E5%85%AD%E9%97%AE%E2%80%9C%E6%B2%B3%E5%8D%9723%E5%B2%81%E5%A5%B3%E6%95%99%E5%B8%88%E7%95%99%E9%81%97%E4%B9%A6%E5%8E%BB%E4%B8%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《流浪地球3》定档 李雪健吴京回归](https://www.baidu.com/s?wd=%E3%80%8A%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%833%E3%80%8B%E5%AE%9A%E6%A1%A3+%E6%9D%8E%E9%9B%AA%E5%81%A5%E5%90%B4%E4%BA%AC%E5%9B%9E%E5%BD%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [《西游记》毗蓝婆菩萨扮演者去世](https://www.baidu.com/s?wd=%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B%E6%AF%97%E8%93%9D%E5%A9%86%E8%8F%A9%E8%90%A8%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙岳麓山有人被拐缅甸？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%B2%B3%E9%BA%93%E5%B1%B1%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%8B%90%E7%BC%85%E7%94%B8%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [中等强度厄尔尼诺事件即将形成](https://www.baidu.com/s?wd=%E4%B8%AD%E7%AD%89%E5%BC%BA%E5%BA%A6%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E4%BA%8B%E4%BB%B6%E5%8D%B3%E5%B0%86%E5%BD%A2%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学生吐槽蜜雪店主3岁儿子掀女生裙子](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E5%90%90%E6%A7%BD%E8%9C%9C%E9%9B%AA%E5%BA%97%E4%B8%BB3%E5%B2%81%E5%84%BF%E5%AD%90%E6%8E%80%E5%A5%B3%E7%94%9F%E8%A3%99%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [六问“河南23岁女教师留遗书去世”](https://www.baidu.com/s?wd=%E5%85%AD%E9%97%AE%E2%80%9C%E6%B2%B3%E5%8D%9723%E5%B2%81%E5%A5%B3%E6%95%99%E5%B8%88%E7%95%99%E9%81%97%E4%B9%A6%E5%8E%BB%E4%B8%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《流浪地球3》定档 李雪健吴京回归](https://www.baidu.com/s?wd=%E3%80%8A%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%833%E3%80%8B%E5%AE%9A%E6%A1%A3+%E6%9D%8E%E9%9B%AA%E5%81%A5%E5%90%B4%E4%BA%AC%E5%9B%9E%E5%BD%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [《西游记》毗蓝婆菩萨扮演者去世](https://www.baidu.com/s?wd=%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B%E6%AF%97%E8%93%9D%E5%A9%86%E8%8F%A9%E8%90%A8%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙岳麓山有人被拐缅甸？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%B2%B3%E9%BA%93%E5%B1%B1%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%8B%90%E7%BC%85%E7%94%B8%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
