@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 23:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 23:05:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [李思思开口 分不清谁在主持](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%80%9D%E6%80%9D%E5%BC%80%E5%8F%A3%20%E5%88%86%E4%B8%8D%E6%B8%85%E8%B0%81%E5%9C%A8%E4%B8%BB%E6%8C%81&t=31&band_rank=5&Refer=top)<br />
 6. [王俊凯问学校门口的大哥还认不认得他](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%97%AE%E5%AD%A6%E6%A0%A1%E9%97%A8%E5%8F%A3%E7%9A%84%E5%A4%A7%E5%93%A5%E8%BF%98%E8%AE%A4%E4%B8%8D%E8%AE%A4%E5%BE%97%E4%BB%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [ELLE内场](https://s.weibo.com/weibo?q=ELLE%E5%86%85%E5%9C%BA&t=31&band_rank=7&Refer=top)<br />
-8. [美团宣布除夕放假](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%A2%E5%AE%A3%E5%B8%83%E9%99%A4%E5%A4%95%E6%94%BE%E5%81%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [想看韩网热评](https://s.weibo.com/weibo?q=%E6%83%B3%E7%9C%8B%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AF%84&t=31&band_rank=9&Refer=top)<br />
+8. [想看韩网热评](https://s.weibo.com/weibo?q=%E6%83%B3%E7%9C%8B%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AF%84&t=31&band_rank=8&Refer=top)<br />
+9. [美团宣布除夕放假](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%A2%E5%AE%A3%E5%B8%83%E9%99%A4%E5%A4%95%E6%94%BE%E5%81%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
