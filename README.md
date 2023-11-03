@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 23:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 23:58:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [主持人还没念完李现就走完了](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%BF%98%E6%B2%A1%E5%BF%B5%E5%AE%8C%E6%9D%8E%E7%8E%B0%E5%B0%B1%E8%B5%B0%E5%AE%8C%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [第六届进博会亮点抢先看](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%85%AD%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%BA%AE%E7%82%B9%E6%8A%A2%E5%85%88%E7%9C%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [中国大陆合法销售的iPhone15均为中国组装](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%90%88%E6%B3%95%E9%94%80%E5%94%AE%E7%9A%84iPhone15%E5%9D%87%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%BB%84%E8%A3%85%23&t=31&band_rank=4&Refer=top)<br />
-5. [周铁农同志逝世](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%93%81%E5%86%9C%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
-6. [杨紫 两套造型](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E4%B8%A4%E5%A5%97%E9%80%A0%E5%9E%8B&t=31&band_rank=6&Refer=top)<br />
+5. [杨紫 两套造型](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E4%B8%A4%E5%A5%97%E9%80%A0%E5%9E%8B&t=31&band_rank=5&Refer=top)<br />
+6. [周铁农同志逝世](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%93%81%E5%86%9C%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [李思思开口 分不清谁在主持](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%80%9D%E6%80%9D%E5%BC%80%E5%8F%A3%20%E5%88%86%E4%B8%8D%E6%B8%85%E8%B0%81%E5%9C%A8%E4%B8%BB%E6%8C%81&t=31&band_rank=7&Refer=top)<br />
 8. [ELLE内场](https://s.weibo.com/weibo?q=ELLE%E5%86%85%E5%9C%BA&t=31&band_rank=8&Refer=top)<br />
 9. [想看韩网热评](https://s.weibo.com/weibo?q=%E6%83%B3%E7%9C%8B%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AF%84&t=31&band_rank=9&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [马斯克称终有一日人类将无需工作](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E7%BB%88%E6%9C%89%E4%B8%80%E6%97%A5%E4%BA%BA%E7%B1%BB%E5%B0%86%E6%97%A0%E9%9C%80%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女婴被投喂3颗阳光玫瑰致肠梗阻](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A9%B4%E8%A2%AB%E6%8A%95%E5%96%823%E9%A2%97%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E8%87%B4%E8%82%A0%E6%A2%97%E9%98%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [被举报与女子暧昧副市长被免职](https://www.baidu.com/s?wd=%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%B8%8E%E5%A5%B3%E5%AD%90%E6%9A%A7%E6%98%A7%E5%89%AF%E5%B8%82%E9%95%BF%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [南京理工大学偷偷给贫困生充饭卡](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E5%81%B7%E5%81%B7%E7%BB%99%E8%B4%AB%E5%9B%B0%E7%94%9F%E5%85%85%E9%A5%AD%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [合肥通报“小学1年级学生校内死亡”](https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E9%80%9A%E6%8A%A5%E2%80%9C%E5%B0%8F%E5%AD%A61%E5%B9%B4%E7%BA%A7%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%AD%BB%E4%BA%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙岳麓山有人被拐缅甸？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%B2%B3%E9%BA%93%E5%B1%B1%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%8B%90%E7%BC%85%E7%94%B8%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [马斯克称终有一日人类将无需工作](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E7%BB%88%E6%9C%89%E4%B8%80%E6%97%A5%E4%BA%BA%E7%B1%BB%E5%B0%86%E6%97%A0%E9%9C%80%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女婴被投喂3颗阳光玫瑰致肠梗阻](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A9%B4%E8%A2%AB%E6%8A%95%E5%96%823%E9%A2%97%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E8%87%B4%E8%82%A0%E6%A2%97%E9%98%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [被举报与女子暧昧副市长被免职](https://www.baidu.com/s?wd=%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%B8%8E%E5%A5%B3%E5%AD%90%E6%9A%A7%E6%98%A7%E5%89%AF%E5%B8%82%E9%95%BF%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [南京理工大学偷偷给贫困生充饭卡](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E5%81%B7%E5%81%B7%E7%BB%99%E8%B4%AB%E5%9B%B0%E7%94%9F%E5%85%85%E9%A5%AD%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [合肥通报“小学1年级学生校内死亡”](https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E9%80%9A%E6%8A%A5%E2%80%9C%E5%B0%8F%E5%AD%A61%E5%B9%B4%E7%BA%A7%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%AD%BB%E4%BA%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙岳麓山有人被拐缅甸？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%B2%B3%E9%BA%93%E5%B1%B1%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%8B%90%E7%BC%85%E7%94%B8%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
