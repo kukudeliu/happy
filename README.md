@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 21:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 21:33:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [以爱为营开播](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%BC%80%E6%92%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨紫 两套造型](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E4%B8%A4%E5%A5%97%E9%80%A0%E5%9E%8B&t=31&band_rank=6&Refer=top)<br />
 7. [GEN难道只研究了T1](https://s.weibo.com/weibo?q=GEN%E9%9A%BE%E9%81%93%E5%8F%AA%E7%A0%94%E7%A9%B6%E4%BA%86T1&t=31&band_rank=7&Refer=top)<br />
-8. [Bin兰博](https://s.weibo.com/weibo?q=%23Bin%E5%85%B0%E5%8D%9A%23&t=31&band_rank=8&Refer=top)<br />
+8. [迪丽热巴花团锦簇复古造型](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%8A%B1%E5%9B%A2%E9%94%A6%E7%B0%87%E5%A4%8D%E5%8F%A4%E9%80%A0%E5%9E%8B%23&t=31&band_rank=8&Refer=top)<br />
 9. [教育部要求中小学校确保学生课间正常活动](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E8%A6%81%E6%B1%82%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%A0%A1%E7%A1%AE%E4%BF%9D%E5%AD%A6%E7%94%9F%E8%AF%BE%E9%97%B4%E6%AD%A3%E5%B8%B8%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
