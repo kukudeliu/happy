@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 17:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 17:49:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [一图剧透2023进博会](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E5%89%A7%E9%80%8F2023%E8%BF%9B%E5%8D%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [GEN对战BLG](https://s.weibo.com/weibo?q=%23GEN%E5%AF%B9%E6%88%98BLG%23&t=31&band_rank=4&Refer=top)<br />
 5. [又是谁家的少爷逐梦演艺圈了](https://s.weibo.com/weibo?q=%E5%8F%88%E6%98%AF%E8%B0%81%E5%AE%B6%E7%9A%84%E5%B0%91%E7%88%B7%E9%80%90%E6%A2%A6%E6%BC%94%E8%89%BA%E5%9C%88%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
-6. [父亲目睹26岁儿子连救3人牺牲](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%9B%AE%E7%9D%B926%E5%B2%81%E5%84%BF%E5%AD%90%E8%BF%9E%E6%95%913%E4%BA%BA%E7%89%BA%E7%89%B2%23&t=31&band_rank=6&Refer=top)<br />
-7. [南京理工偷偷给贫困生充饭卡](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%81%B7%E5%81%B7%E7%BB%99%E8%B4%AB%E5%9B%B0%E7%94%9F%E5%85%85%E9%A5%AD%E5%8D%A1%23&t=31&band_rank=7&Refer=top)<br />
+6. [GEN难道只研究了T1](https://s.weibo.com/weibo?q=GEN%E9%9A%BE%E9%81%93%E5%8F%AA%E7%A0%94%E7%A9%B6%E4%BA%86T1&t=31&band_rank=6&Refer=top)<br />
+7. [父亲目睹26岁儿子连救3人牺牲](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%9B%AE%E7%9D%B926%E5%B2%81%E5%84%BF%E5%AD%90%E8%BF%9E%E6%95%913%E4%BA%BA%E7%89%BA%E7%89%B2%23&t=31&band_rank=7&Refer=top)<br />
 8. [Bin兰博](https://s.weibo.com/weibo?q=Bin%E5%85%B0%E5%8D%9A&t=31&band_rank=8&Refer=top)<br />
-9. [GEN 主动选红](https://s.weibo.com/weibo?q=GEN%20%E4%B8%BB%E5%8A%A8%E9%80%89%E7%BA%A2&t=31&band_rank=9&Refer=top)<br />
+9. [南京理工偷偷给贫困生充饭卡](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%81%B7%E5%81%B7%E7%BB%99%E8%B4%AB%E5%9B%B0%E7%94%9F%E5%85%85%E9%A5%AD%E5%8D%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
