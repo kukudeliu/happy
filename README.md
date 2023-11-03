@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 22:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 22:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [ELLE内场](https://s.weibo.com/weibo?q=ELLE%E5%86%85%E5%9C%BA&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴花团锦簇复古造型](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%8A%B1%E5%9B%A2%E9%94%A6%E7%B0%87%E5%A4%8D%E5%8F%A4%E9%80%A0%E5%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [当地通报合肥一小学生校内死亡](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5%E5%90%88%E8%82%A5%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [GEN难道只研究了T1](https://s.weibo.com/weibo?q=GEN%E9%9A%BE%E9%81%93%E5%8F%AA%E7%A0%94%E7%A9%B6%E4%BA%86T1&t=31&band_rank=9&Refer=top)<br />
+9. [Chovy 遗憾](https://s.weibo.com/weibo?q=Chovy%20%E9%81%97%E6%86%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
