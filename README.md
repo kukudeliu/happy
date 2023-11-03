@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 20:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 20:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [ELLE风尚大典](https://s.weibo.com/weibo?q=ELLE%E9%A3%8E%E5%B0%9A%E5%A4%A7%E5%85%B8&t=31&band_rank=6&Refer=top)<br />
 7. [刘诗诗 神女逆光而来](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E7%A5%9E%E5%A5%B3%E9%80%86%E5%85%89%E8%80%8C%E6%9D%A5&t=31&band_rank=7&Refer=top)<br />
 8. [教育部要求中小学校确保学生课间正常活动](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E8%A6%81%E6%B1%82%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%A0%A1%E7%A1%AE%E4%BF%9D%E5%AD%A6%E7%94%9F%E8%AF%BE%E9%97%B4%E6%AD%A3%E5%B8%B8%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [六问河南23岁女教师留遗书去世](https://s.weibo.com/weibo?q=%23%E5%85%AD%E9%97%AE%E6%B2%B3%E5%8D%9723%E5%B2%81%E5%A5%B3%E6%95%99%E5%B8%88%E7%95%99%E9%81%97%E4%B9%A6%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [GEN对战BLG](https://s.weibo.com/weibo?q=%23GEN%E5%AF%B9%E6%88%98BLG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
