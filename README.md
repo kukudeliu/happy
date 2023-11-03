@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 07:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 07:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王俊凯问学校门口的大哥还认不认得他](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%97%AE%E5%AD%A6%E6%A0%A1%E9%97%A8%E5%8F%A3%E7%9A%84%E5%A4%A7%E5%93%A5%E8%BF%98%E8%AE%A4%E4%B8%8D%E8%AE%A4%E5%BE%97%E4%BB%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [16个月大女童把自己反锁车内消防员砸窗救出](https://s.weibo.com/weibo?q=%2316%E4%B8%AA%E6%9C%88%E5%A4%A7%E5%A5%B3%E7%AB%A5%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%8F%8D%E9%94%81%E8%BD%A6%E5%86%85%E6%B6%88%E9%98%B2%E5%91%98%E7%A0%B8%E7%AA%97%E6%95%91%E5%87%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国大陆合法销售的iPhone15均为中国组装](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%90%88%E6%B3%95%E9%94%80%E5%94%AE%E7%9A%84iPhone15%E5%9D%87%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%BB%84%E8%A3%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [魏大勋刘昊然李现坐一桌](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%88%98%E6%98%8A%E7%84%B6%E6%9D%8E%E7%8E%B0%E5%9D%90%E4%B8%80%E6%A1%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [一年级老师在班级群用拼音夸学生](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%80%81%E5%B8%88%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E7%94%A8%E6%8B%BC%E9%9F%B3%E5%A4%B8%E5%AD%A6%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
