@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 01:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 01:19:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [中国大陆合法销售的iPhone15均为中国组装](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%90%88%E6%B3%95%E9%94%80%E5%94%AE%E7%9A%84iPhone15%E5%9D%87%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%BB%84%E8%A3%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [主持人还没念完李现就走完了](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%BF%98%E6%B2%A1%E5%BF%B5%E5%AE%8C%E6%9D%8E%E7%8E%B0%E5%B0%B1%E8%B5%B0%E5%AE%8C%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [6名中国公民在菲被绑架下落不明](https://s.weibo.com/weibo?q=%236%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E8%8F%B2%E8%A2%AB%E7%BB%91%E6%9E%B6%E4%B8%8B%E8%90%BD%E4%B8%8D%E6%98%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [旧的羽绒服不要再扔了](https://s.weibo.com/weibo?q=%23%E6%97%A7%E7%9A%84%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8D%E8%A6%81%E5%86%8D%E6%89%94%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [以爱为营 广告好多](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E5%B9%BF%E5%91%8A%E5%A5%BD%E5%A4%9A&t=31&band_rank=9&Refer=top)<br />
+8. [以爱为营 广告好多](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E5%B9%BF%E5%91%8A%E5%A5%BD%E5%A4%9A&t=31&band_rank=8&Refer=top)<br />
+9. [旧的羽绒服不要再扔了](https://s.weibo.com/weibo?q=%23%E6%97%A7%E7%9A%84%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8D%E8%A6%81%E5%86%8D%E6%89%94%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
