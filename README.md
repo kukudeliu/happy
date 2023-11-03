@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 05:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 05:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国大陆合法销售的iPhone15均为中国组装](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%90%88%E6%B3%95%E9%94%80%E5%94%AE%E7%9A%84iPhone15%E5%9D%87%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%BB%84%E8%A3%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [你敢信这是宋茜生图](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%95%A2%E4%BF%A1%E8%BF%99%E6%98%AF%E5%AE%8B%E8%8C%9C%E7%94%9F%E5%9B%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [以爱为营开播](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%BC%80%E6%92%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫 两套造型](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E4%B8%A4%E5%A5%97%E9%80%A0%E5%9E%8B&t=31&band_rank=9&Refer=top)<br />
+9. [旧的羽绒服不要再扔了](https://s.weibo.com/weibo?q=%23%E6%97%A7%E7%9A%84%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8D%E8%A6%81%E5%86%8D%E6%89%94%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
