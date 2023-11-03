@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 12:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 12:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [重庆女生上下班坐14次扶梯获公司补贴](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%A5%B3%E7%94%9F%E4%B8%8A%E4%B8%8B%E7%8F%AD%E5%9D%9014%E6%AC%A1%E6%89%B6%E6%A2%AF%E8%8E%B7%E5%85%AC%E5%8F%B8%E8%A1%A5%E8%B4%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [老人深夜将女婴遗弃在小卖部门口](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%B7%B1%E5%A4%9C%E5%B0%86%E5%A5%B3%E5%A9%B4%E9%81%97%E5%BC%83%E5%9C%A8%E5%B0%8F%E5%8D%96%E9%83%A8%E9%97%A8%E5%8F%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [助学金事件当事人称已搬离宿舍](https://s.weibo.com/weibo?q=%23%E5%8A%A9%E5%AD%A6%E9%87%91%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E5%B7%B2%E6%90%AC%E7%A6%BB%E5%AE%BF%E8%88%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [含有肽字的护肤品 智商税](https://s.weibo.com/weibo?q=%E5%90%AB%E6%9C%89%E8%82%BD%E5%AD%97%E7%9A%84%E6%8A%A4%E8%82%A4%E5%93%81%20%E6%99%BA%E5%95%86%E7%A8%8E&t=31&band_rank=9&Refer=top)<br />
+9. [男子100万投资电影亏了96万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90100%E4%B8%87%E6%8A%95%E8%B5%84%E7%94%B5%E5%BD%B1%E4%BA%8F%E4%BA%8696%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
