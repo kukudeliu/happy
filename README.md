@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 04:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 04:32:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [王俊凯问学校门口的大哥还认不认得他](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%97%AE%E5%AD%A6%E6%A0%A1%E9%97%A8%E5%8F%A3%E7%9A%84%E5%A4%A7%E5%93%A5%E8%BF%98%E8%AE%A4%E4%B8%8D%E8%AE%A4%E5%BE%97%E4%BB%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [同事说我的工位像三室一厅](https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E8%AF%B4%E6%88%91%E7%9A%84%E5%B7%A5%E4%BD%8D%E5%83%8F%E4%B8%89%E5%AE%A4%E4%B8%80%E5%8E%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [以爱为营开播](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%BC%80%E6%92%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [当红流量今年剧中的原声台词](https://s.weibo.com/weibo?q=%E5%BD%93%E7%BA%A2%E6%B5%81%E9%87%8F%E4%BB%8A%E5%B9%B4%E5%89%A7%E4%B8%AD%E7%9A%84%E5%8E%9F%E5%A3%B0%E5%8F%B0%E8%AF%8D&t=31&band_rank=8&Refer=top)<br />
-9. [中国大陆合法销售的iPhone15均为中国组装](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%90%88%E6%B3%95%E9%94%80%E5%94%AE%E7%9A%84iPhone15%E5%9D%87%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%BB%84%E8%A3%85%23&t=31&band_rank=9&Refer=top)<br />
+8. [中国大陆合法销售的iPhone15均为中国组装](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%90%88%E6%B3%95%E9%94%80%E5%94%AE%E7%9A%84iPhone15%E5%9D%87%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%BB%84%E8%A3%85%23&t=31&band_rank=8&Refer=top)<br />
+9. [当红流量今年剧中的原声台词](https://s.weibo.com/weibo?q=%E5%BD%93%E7%BA%A2%E6%B5%81%E9%87%8F%E4%BB%8A%E5%B9%B4%E5%89%A7%E4%B8%AD%E7%9A%84%E5%8E%9F%E5%A3%B0%E5%8F%B0%E8%AF%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
