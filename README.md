@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 17:56:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [一图剧透2023进博会](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E5%89%A7%E9%80%8F2023%E8%BF%9B%E5%8D%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [让领导知道你干了很多活的秘诀](https://s.weibo.com/weibo?q=%E8%AE%A9%E9%A2%86%E5%AF%BC%E7%9F%A5%E9%81%93%E4%BD%A0%E5%B9%B2%E4%BA%86%E5%BE%88%E5%A4%9A%E6%B4%BB%E7%9A%84%E7%A7%98%E8%AF%80&t=31&band_rank=4&Refer=top)<br />
 5. [考研在即大四男生割皮救母](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%9C%A8%E5%8D%B3%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%89%B2%E7%9A%AE%E6%95%91%E6%AF%8D%23&t=31&band_rank=5&Refer=top)<br />
-6. [GEN难道只研究了T1](https://s.weibo.com/weibo?q=GEN%E9%9A%BE%E9%81%93%E5%8F%AA%E7%A0%94%E7%A9%B6%E4%BA%86T1&t=31&band_rank=6&Refer=top)<br />
-7. [又是谁家的少爷逐梦演艺圈了](https://s.weibo.com/weibo?q=%E5%8F%88%E6%98%AF%E8%B0%81%E5%AE%B6%E7%9A%84%E5%B0%91%E7%88%B7%E9%80%90%E6%A2%A6%E6%BC%94%E8%89%BA%E5%9C%88%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+6. [又是谁家的少爷逐梦演艺圈了](https://s.weibo.com/weibo?q=%E5%8F%88%E6%98%AF%E8%B0%81%E5%AE%B6%E7%9A%84%E5%B0%91%E7%88%B7%E9%80%90%E6%A2%A6%E6%BC%94%E8%89%BA%E5%9C%88%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+7. [GEN难道只研究了T1](https://s.weibo.com/weibo?q=GEN%E9%9A%BE%E9%81%93%E5%8F%AA%E7%A0%94%E7%A9%B6%E4%BA%86T1&t=31&band_rank=7&Refer=top)<br />
 8. [GEN对战BLG](https://s.weibo.com/weibo?q=%23GEN%E5%AF%B9%E6%88%98BLG%23&t=31&band_rank=8&Refer=top)<br />
 9. [父亲目睹26岁儿子连救3人牺牲](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%9B%AE%E7%9D%B926%E5%B2%81%E5%84%BF%E5%AD%90%E8%BF%9E%E6%95%913%E4%BA%BA%E7%89%BA%E7%89%B2%23&t=31&band_rank=9&Refer=top)<br />
 
