@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 23:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 23:27:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨紫 两套造型](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E4%B8%A4%E5%A5%97%E9%80%A0%E5%9E%8B&t=31&band_rank=6&Refer=top)<br />
 7. [李思思开口 分不清谁在主持](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%80%9D%E6%80%9D%E5%BC%80%E5%8F%A3%20%E5%88%86%E4%B8%8D%E6%B8%85%E8%B0%81%E5%9C%A8%E4%B8%BB%E6%8C%81&t=31&band_rank=7&Refer=top)<br />
 8. [想看韩网热评](https://s.weibo.com/weibo?q=%E6%83%B3%E7%9C%8B%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AF%84&t=31&band_rank=8&Refer=top)<br />
-9. [ELLE内场](https://s.weibo.com/weibo?q=ELLE%E5%86%85%E5%9C%BA&t=31&band_rank=9&Refer=top)<br />
+9. [中国大陆合法销售的iPhone15均为中国组装](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%90%88%E6%B3%95%E9%94%80%E5%94%AE%E7%9A%84iPhone15%E5%9D%87%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%BB%84%E8%A3%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
