@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 21:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 21:01:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [习近平向第五届中美友城大会致信](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E7%AC%AC%E4%BA%94%E5%B1%8A%E4%B8%AD%E7%BE%8E%E5%8F%8B%E5%9F%8E%E5%A4%A7%E4%BC%9A%E8%87%B4%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [央媒：高校助学金不能是笔糊涂账](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E9%AB%98%E6%A0%A1%E5%8A%A9%E5%AD%A6%E9%87%91%E4%B8%8D%E8%83%BD%E6%98%AF%E7%AC%94%E7%B3%8A%E6%B6%82%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [教育部回应课间10分钟被约束问题](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E8%AF%BE%E9%97%B410%E5%88%86%E9%92%9F%E8%A2%AB%E7%BA%A6%E6%9D%9F%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [桂林航空疑停航 市政府已成立专班](https://www.baidu.com/s?wd=%E6%A1%82%E6%9E%97%E8%88%AA%E7%A9%BA%E7%96%91%E5%81%9C%E8%88%AA+%E5%B8%82%E6%94%BF%E5%BA%9C%E5%B7%B2%E6%88%90%E7%AB%8B%E4%B8%93%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [赴一场“穿越千年”的青春邀约](https://www.baidu.com/s?wd=%E8%B5%B4%E4%B8%80%E5%9C%BA%E2%80%9C%E7%A9%BF%E8%B6%8A%E5%8D%83%E5%B9%B4%E2%80%9D%E7%9A%84%E9%9D%92%E6%98%A5%E9%82%80%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [黑龙江局地将降大暴雪 或破历史极值](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%B1%80%E5%9C%B0%E5%B0%86%E9%99%8D%E5%A4%A7%E6%9A%B4%E9%9B%AA+%E6%88%96%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [习近平向第五届中美友城大会致信](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E7%AC%AC%E4%BA%94%E5%B1%8A%E4%B8%AD%E7%BE%8E%E5%8F%8B%E5%9F%8E%E5%A4%A7%E4%BC%9A%E8%87%B4%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [央媒：高校助学金不能是笔糊涂账](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E9%AB%98%E6%A0%A1%E5%8A%A9%E5%AD%A6%E9%87%91%E4%B8%8D%E8%83%BD%E6%98%AF%E7%AC%94%E7%B3%8A%E6%B6%82%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [教育部回应课间10分钟被约束问题](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E8%AF%BE%E9%97%B410%E5%88%86%E9%92%9F%E8%A2%AB%E7%BA%A6%E6%9D%9F%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [桂林航空疑停航 市政府已成立专班](https://www.baidu.com/s?wd=%E6%A1%82%E6%9E%97%E8%88%AA%E7%A9%BA%E7%96%91%E5%81%9C%E8%88%AA+%E5%B8%82%E6%94%BF%E5%BA%9C%E5%B7%B2%E6%88%90%E7%AB%8B%E4%B8%93%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [赴一场“穿越千年”的青春邀约](https://www.baidu.com/s?wd=%E8%B5%B4%E4%B8%80%E5%9C%BA%E2%80%9C%E7%A9%BF%E8%B6%8A%E5%8D%83%E5%B9%B4%E2%80%9D%E7%9A%84%E9%9D%92%E6%98%A5%E9%82%80%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [黑龙江局地将降大暴雪 或破历史极值](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%B1%80%E5%9C%B0%E5%B0%86%E9%99%8D%E5%A4%A7%E6%9A%B4%E9%9B%AA+%E6%88%96%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
