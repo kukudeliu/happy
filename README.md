@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 02:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 02:26:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [王俊凯问学校门口的大哥还认不认得他](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%97%AE%E5%AD%A6%E6%A0%A1%E9%97%A8%E5%8F%A3%E7%9A%84%E5%A4%A7%E5%93%A5%E8%BF%98%E8%AE%A4%E4%B8%8D%E8%AE%A4%E5%BE%97%E4%BB%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [第六届进博会亮点抢先看](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%85%AD%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%BA%AE%E7%82%B9%E6%8A%A2%E5%85%88%E7%9C%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [中国大陆合法销售的iPhone15均为中国组装](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%90%88%E6%B3%95%E9%94%80%E5%94%AE%E7%9A%84iPhone15%E5%9D%87%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%BB%84%E8%A3%85%23&t=31&band_rank=4&Refer=top)<br />
-5. [周杰伦 你最好说话算话](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E4%BD%A0%E6%9C%80%E5%A5%BD%E8%AF%B4%E8%AF%9D%E7%AE%97%E8%AF%9D&t=31&band_rank=5&Refer=top)<br />
+5. [原来你妈妈是冠军啊](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E5%A6%88%E5%A6%88%E6%98%AF%E5%86%A0%E5%86%9B%E5%95%8A%23&t=31&band_rank=5&Refer=top)<br />
 6. [穿越火线 开挂](https://s.weibo.com/weibo?q=%E7%A9%BF%E8%B6%8A%E7%81%AB%E7%BA%BF%20%E5%BC%80%E6%8C%82&t=31&band_rank=6&Refer=top)<br />
-7. [原来你妈妈是冠军啊](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E5%A6%88%E5%A6%88%E6%98%AF%E5%86%A0%E5%86%9B%E5%95%8A%23&t=31&band_rank=7&Refer=top)<br />
+7. [周杰伦 你最好说话算话](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E4%BD%A0%E6%9C%80%E5%A5%BD%E8%AF%B4%E8%AF%9D%E7%AE%97%E8%AF%9D&t=31&band_rank=7&Refer=top)<br />
 8. [以爱为营 广告好多](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E5%B9%BF%E5%91%8A%E5%A5%BD%E5%A4%9A&t=31&band_rank=8&Refer=top)<br />
-9. [6名中国公民在菲被绑架下落不明](https://s.weibo.com/weibo?q=%236%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E8%8F%B2%E8%A2%AB%E7%BB%91%E6%9E%B6%E4%B8%8B%E8%90%BD%E4%B8%8D%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
+9. [Bin说到做到](https://s.weibo.com/weibo?q=Bin%E8%AF%B4%E5%88%B0%E5%81%9A%E5%88%B0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
