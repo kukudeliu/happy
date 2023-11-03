@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 19:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-03 19:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [ELLE红毯](https://s.weibo.com/weibo?q=ELLE%E7%BA%A2%E6%AF%AF&t=31&band_rank=6&Refer=top)<br />
 7. [大四男生割皮救母](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%89%B2%E7%9A%AE%E6%95%91%E6%AF%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [没认出来这是李思思](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E8%AE%A4%E5%87%BA%E6%9D%A5%E8%BF%99%E6%98%AF%E6%9D%8E%E6%80%9D%E6%80%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [教育部要求中小学校确保学生课间正常活动](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E8%A6%81%E6%B1%82%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%A0%A1%E7%A1%AE%E4%BF%9D%E5%AD%A6%E7%94%9F%E8%AF%BE%E9%97%B4%E6%AD%A3%E5%B8%B8%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [又是谁家的少爷逐梦演艺圈了](https://s.weibo.com/weibo?q=%E5%8F%88%E6%98%AF%E8%B0%81%E5%AE%B6%E7%9A%84%E5%B0%91%E7%88%B7%E9%80%90%E6%A2%A6%E6%BC%94%E8%89%BA%E5%9C%88%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
