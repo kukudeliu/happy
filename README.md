@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 01:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 01:39:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [从乡村消费增速感受活力中国](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B9%A1%E6%9D%91%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%80%9F%E6%84%9F%E5%8F%97%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [18岁女生“洗剪吹”后大哭](https://www.baidu.com/s?wd=18%E5%B2%81%E5%A5%B3%E7%94%9F%E2%80%9C%E6%B4%97%E5%89%AA%E5%90%B9%E2%80%9D%E5%90%8E%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [5架波音飞机在俄罗斯被扣](https://www.baidu.com/s?wd=5%E6%9E%B6%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA%E5%9C%A8%E4%BF%84%E7%BD%97%E6%96%AF%E8%A2%AB%E6%89%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小城之春女主韦伟去世 享年101岁](https://www.baidu.com/s?wd=%E5%B0%8F%E5%9F%8E%E4%B9%8B%E6%98%A5%E5%A5%B3%E4%B8%BB%E9%9F%A6%E4%BC%9F%E5%8E%BB%E4%B8%96+%E4%BA%AB%E5%B9%B4101%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [今年已有40个“老虎”落马](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%B7%B2%E6%9C%8940%E4%B8%AA%E2%80%9C%E8%80%81%E8%99%8E%E2%80%9D%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [市民借用住建局厕所遭拒？官方道歉](https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E5%80%9F%E7%94%A8%E4%BD%8F%E5%BB%BA%E5%B1%80%E5%8E%95%E6%89%80%E9%81%AD%E6%8B%92%EF%BC%9F%E5%AE%98%E6%96%B9%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东地震市民抱孩子到街上避险](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87%E5%B8%82%E6%B0%91%E6%8A%B1%E5%AD%A9%E5%AD%90%E5%88%B0%E8%A1%97%E4%B8%8A%E9%81%BF%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [从乡村消费增速感受活力中国](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B9%A1%E6%9D%91%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%80%9F%E6%84%9F%E5%8F%97%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [18岁女生“洗剪吹”后大哭](https://www.baidu.com/s?wd=18%E5%B2%81%E5%A5%B3%E7%94%9F%E2%80%9C%E6%B4%97%E5%89%AA%E5%90%B9%E2%80%9D%E5%90%8E%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [5架波音飞机在俄罗斯被扣](https://www.baidu.com/s?wd=5%E6%9E%B6%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA%E5%9C%A8%E4%BF%84%E7%BD%97%E6%96%AF%E8%A2%AB%E6%89%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小城之春女主韦伟去世 享年101岁](https://www.baidu.com/s?wd=%E5%B0%8F%E5%9F%8E%E4%B9%8B%E6%98%A5%E5%A5%B3%E4%B8%BB%E9%9F%A6%E4%BC%9F%E5%8E%BB%E4%B8%96+%E4%BA%AB%E5%B9%B4101%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [今年已有40个“老虎”落马](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%B7%B2%E6%9C%8940%E4%B8%AA%E2%80%9C%E8%80%81%E8%99%8E%E2%80%9D%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [市民借用住建局厕所遭拒？官方道歉](https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E5%80%9F%E7%94%A8%E4%BD%8F%E5%BB%BA%E5%B1%80%E5%8E%95%E6%89%80%E9%81%AD%E6%8B%92%EF%BC%9F%E5%AE%98%E6%96%B9%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东地震市民抱孩子到街上避险](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87%E5%B8%82%E6%B0%91%E6%8A%B1%E5%AD%A9%E5%AD%90%E5%88%B0%E8%A1%97%E4%B8%8A%E9%81%BF%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
