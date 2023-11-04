@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 18:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 18:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宋亚轩买游戏账号被骗钱](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E4%B9%B0%E6%B8%B8%E6%88%8F%E8%B4%A6%E5%8F%B7%E8%A2%AB%E9%AA%97%E9%92%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [难看](https://s.weibo.com/weibo?q=%E9%9A%BE%E7%9C%8B&t=31&band_rank=7&Refer=top)<br />
 8. [大连人降级](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E4%BA%BA%E9%99%8D%E7%BA%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴换手机壳庆祝入住大床房](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8D%A2%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%BA%86%E7%A5%9D%E5%85%A5%E4%BD%8F%E5%A4%A7%E5%BA%8A%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [郑书意目睹男友出轨](https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B9%A6%E6%84%8F%E7%9B%AE%E7%9D%B9%E7%94%B7%E5%8F%8B%E5%87%BA%E8%BD%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
