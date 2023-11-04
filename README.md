@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 19:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 19:22:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [宁波一小区物业自治3年分红200万](https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%89%A9%E4%B8%9A%E8%87%AA%E6%B2%BB3%E5%B9%B4%E5%88%86%E7%BA%A2200%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [联合国称缅北数百人越境逃入中国](https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%B0%E7%BC%85%E5%8C%97%E6%95%B0%E7%99%BE%E4%BA%BA%E8%B6%8A%E5%A2%83%E9%80%83%E5%85%A5%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [快递车侧翻公交司机乘客掀车救人](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E8%BD%A6%E4%BE%A7%E7%BF%BB%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E4%B9%98%E5%AE%A2%E6%8E%80%E8%BD%A6%E6%95%91%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [JDG拿到赛点](https://s.weibo.com/weibo?q=%23JDG%E6%8B%BF%E5%88%B0%E8%B5%9B%E7%82%B9%23&t=31&band_rank=8&Refer=top)<br />
+8. [JDG晋级S13四强](https://s.weibo.com/weibo?q=%23JDG%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [JDG对战KT](https://s.weibo.com/weibo?q=%23JDG%E5%AF%B9%E6%88%98KT%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
