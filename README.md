@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 14:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 14:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [原来时宴是雪姨和陆振华生的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%97%B6%E5%AE%B4%E6%98%AF%E9%9B%AA%E5%A7%A8%E5%92%8C%E9%99%86%E6%8C%AF%E5%8D%8E%E7%94%9F%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
 7. [11个月大婴儿吃柚子窒息医护3分钟赶到急救](https://s.weibo.com/weibo?q=%2311%E4%B8%AA%E6%9C%88%E5%A4%A7%E5%A9%B4%E5%84%BF%E5%90%83%E6%9F%9A%E5%AD%90%E7%AA%92%E6%81%AF%E5%8C%BB%E6%8A%A43%E5%88%86%E9%92%9F%E8%B5%B6%E5%88%B0%E6%80%A5%E6%95%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [辛芷蕾吃酸奶疙瘩像被人打了一样](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%90%83%E9%85%B8%E5%A5%B6%E7%96%99%E7%98%A9%E5%83%8F%E8%A2%AB%E4%BA%BA%E6%89%93%E4%BA%86%E4%B8%80%E6%A0%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [谢娜说杨紫瘦得脱相了](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E8%AF%B4%E6%9D%A8%E7%B4%AB%E7%98%A6%E5%BE%97%E8%84%B1%E7%9B%B8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [网红铁头向东方甄选道歉](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E5%90%91%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
