@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 07:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 07:30:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [18岁女生“洗剪吹”后大哭](https://www.baidu.com/s?wd=18%E5%B2%81%E5%A5%B3%E7%94%9F%E2%80%9C%E6%B4%97%E5%89%AA%E5%90%B9%E2%80%9D%E5%90%8E%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [5架波音飞机在俄罗斯被扣](https://www.baidu.com/s?wd=5%E6%9E%B6%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA%E5%9C%A8%E4%BF%84%E7%BD%97%E6%96%AF%E8%A2%AB%E6%89%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子酒后憋尿摔倒致膀胱破裂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%85%92%E5%90%8E%E6%86%8B%E5%B0%BF%E6%91%94%E5%80%92%E8%87%B4%E8%86%80%E8%83%B1%E7%A0%B4%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [合肥一高中宿舍睡觉不许关门](https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E4%B8%80%E9%AB%98%E4%B8%AD%E5%AE%BF%E8%88%8D%E7%9D%A1%E8%A7%89%E4%B8%8D%E8%AE%B8%E5%85%B3%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小男孩被午托班男老师当街追打](https://www.baidu.com/s?wd=%E5%B0%8F%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%8D%88%E6%89%98%E7%8F%AD%E7%94%B7%E8%80%81%E5%B8%88%E5%BD%93%E8%A1%97%E8%BF%BD%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [18岁女生“洗剪吹”后大哭](https://www.baidu.com/s?wd=18%E5%B2%81%E5%A5%B3%E7%94%9F%E2%80%9C%E6%B4%97%E5%89%AA%E5%90%B9%E2%80%9D%E5%90%8E%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [5架波音飞机在俄罗斯被扣](https://www.baidu.com/s?wd=5%E6%9E%B6%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA%E5%9C%A8%E4%BF%84%E7%BD%97%E6%96%AF%E8%A2%AB%E6%89%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子酒后憋尿摔倒致膀胱破裂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%85%92%E5%90%8E%E6%86%8B%E5%B0%BF%E6%91%94%E5%80%92%E8%87%B4%E8%86%80%E8%83%B1%E7%A0%B4%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [合肥一高中宿舍睡觉不许关门](https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E4%B8%80%E9%AB%98%E4%B8%AD%E5%AE%BF%E8%88%8D%E7%9D%A1%E8%A7%89%E4%B8%8D%E8%AE%B8%E5%85%B3%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小男孩被午托班男老师当街追打](https://www.baidu.com/s?wd=%E5%B0%8F%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%8D%88%E6%89%98%E7%8F%AD%E7%94%B7%E8%80%81%E5%B8%88%E5%BD%93%E8%A1%97%E8%BF%BD%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
