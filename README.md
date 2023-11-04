@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 02:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 02:49:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [硬卧车厢吃饭吃出满汉全席的气势](https://www.baidu.com/s?wd=%E7%A1%AC%E5%8D%A7%E8%BD%A6%E5%8E%A2%E5%90%83%E9%A5%AD%E5%90%83%E5%87%BA%E6%BB%A1%E6%B1%89%E5%85%A8%E5%B8%AD%E7%9A%84%E6%B0%94%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从乡村消费增速感受活力中国](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B9%A1%E6%9D%91%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%80%9F%E6%84%9F%E5%8F%97%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [18岁女生“洗剪吹”后大哭](https://www.baidu.com/s?wd=18%E5%B2%81%E5%A5%B3%E7%94%9F%E2%80%9C%E6%B4%97%E5%89%AA%E5%90%B9%E2%80%9D%E5%90%8E%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [5架波音飞机在俄罗斯被扣](https://www.baidu.com/s?wd=5%E6%9E%B6%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA%E5%9C%A8%E4%BF%84%E7%BD%97%E6%96%AF%E8%A2%AB%E6%89%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子酒后憋尿摔倒致膀胱破裂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%85%92%E5%90%8E%E6%86%8B%E5%B0%BF%E6%91%94%E5%80%92%E8%87%B4%E8%86%80%E8%83%B1%E7%A0%B4%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杜锋故意损坏辽篮主场LED屏幕](https://www.baidu.com/s?wd=%E6%9D%9C%E9%94%8B%E6%95%85%E6%84%8F%E6%8D%9F%E5%9D%8F%E8%BE%BD%E7%AF%AE%E4%B8%BB%E5%9C%BALED%E5%B1%8F%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [市民借用住建局厕所遭拒？官方道歉](https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E5%80%9F%E7%94%A8%E4%BD%8F%E5%BB%BA%E5%B1%80%E5%8E%95%E6%89%80%E9%81%AD%E6%8B%92%EF%BC%9F%E5%AE%98%E6%96%B9%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [5架波音飞机在俄罗斯被扣](https://www.baidu.com/s?wd=5%E6%9E%B6%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA%E5%9C%A8%E4%BF%84%E7%BD%97%E6%96%AF%E8%A2%AB%E6%89%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大连、青岛海上马拉松组委会被处罚](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E3%80%81%E9%9D%92%E5%B2%9B%E6%B5%B7%E4%B8%8A%E9%A9%AC%E6%8B%89%E6%9D%BE%E7%BB%84%E5%A7%94%E4%BC%9A%E8%A2%AB%E5%A4%84%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [硬卧车厢吃饭吃出满汉全席的气势](https://www.baidu.com/s?wd=%E7%A1%AC%E5%8D%A7%E8%BD%A6%E5%8E%A2%E5%90%83%E9%A5%AD%E5%90%83%E5%87%BA%E6%BB%A1%E6%B1%89%E5%85%A8%E5%B8%AD%E7%9A%84%E6%B0%94%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从乡村消费增速感受活力中国](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B9%A1%E6%9D%91%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%80%9F%E6%84%9F%E5%8F%97%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [18岁女生“洗剪吹”后大哭](https://www.baidu.com/s?wd=18%E5%B2%81%E5%A5%B3%E7%94%9F%E2%80%9C%E6%B4%97%E5%89%AA%E5%90%B9%E2%80%9D%E5%90%8E%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [5架波音飞机在俄罗斯被扣](https://www.baidu.com/s?wd=5%E6%9E%B6%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA%E5%9C%A8%E4%BF%84%E7%BD%97%E6%96%AF%E8%A2%AB%E6%89%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子酒后憋尿摔倒致膀胱破裂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%85%92%E5%90%8E%E6%86%8B%E5%B0%BF%E6%91%94%E5%80%92%E8%87%B4%E8%86%80%E8%83%B1%E7%A0%B4%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杜锋故意损坏辽篮主场LED屏幕](https://www.baidu.com/s?wd=%E6%9D%9C%E9%94%8B%E6%95%85%E6%84%8F%E6%8D%9F%E5%9D%8F%E8%BE%BD%E7%AF%AE%E4%B8%BB%E5%9C%BALED%E5%B1%8F%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [市民借用住建局厕所遭拒？官方道歉](https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E5%80%9F%E7%94%A8%E4%BD%8F%E5%BB%BA%E5%B1%80%E5%8E%95%E6%89%80%E9%81%AD%E6%8B%92%EF%BC%9F%E5%AE%98%E6%96%B9%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [5架波音飞机在俄罗斯被扣](https://www.baidu.com/s?wd=5%E6%9E%B6%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA%E5%9C%A8%E4%BF%84%E7%BD%97%E6%96%AF%E8%A2%AB%E6%89%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大连、青岛海上马拉松组委会被处罚](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E3%80%81%E9%9D%92%E5%B2%9B%E6%B5%B7%E4%B8%8A%E9%A9%AC%E6%8B%89%E6%9D%BE%E7%BB%84%E5%A7%94%E4%BC%9A%E8%A2%AB%E5%A4%84%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
