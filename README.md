@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 09:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 09:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩网评宋茜近况](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E8%AF%84%E5%AE%8B%E8%8C%9C%E8%BF%91%E5%86%B5%23&t=31&band_rank=6&Refer=top)<br />
 7. [军队文职 网站崩了](https://s.weibo.com/weibo?q=%E5%86%9B%E9%98%9F%E6%96%87%E8%81%8C%20%E7%BD%91%E7%AB%99%E5%B4%A9%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [黄晓明被说油的那阵赶上沈腾上网了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E8%A2%AB%E8%AF%B4%E6%B2%B9%E7%9A%84%E9%82%A3%E9%98%B5%E8%B5%B6%E4%B8%8A%E6%B2%88%E8%85%BE%E4%B8%8A%E7%BD%91%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [原来你妈妈是冠军啊](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E5%A6%88%E5%A6%88%E6%98%AF%E5%86%A0%E5%86%9B%E5%95%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [银行回应取600存款要花800开证明](https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E5%9B%9E%E5%BA%94%E5%8F%96600%E5%AD%98%E6%AC%BE%E8%A6%81%E8%8A%B1800%E5%BC%80%E8%AF%81%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
