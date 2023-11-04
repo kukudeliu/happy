@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 08:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 08:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李善均毛发检测阴性](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%96%84%E5%9D%87%E6%AF%9B%E5%8F%91%E6%A3%80%E6%B5%8B%E9%98%B4%E6%80%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [王俊凯问学校门口的大哥还认不认得他](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%97%AE%E5%AD%A6%E6%A0%A1%E9%97%A8%E5%8F%A3%E7%9A%84%E5%A4%A7%E5%93%A5%E8%BF%98%E8%AE%A4%E4%B8%8D%E8%AE%A4%E5%BE%97%E4%BB%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [你敢信这是宋茜生图](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%95%A2%E4%BF%A1%E8%BF%99%E6%98%AF%E5%AE%8B%E8%8C%9C%E7%94%9F%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [范丞丞 王牌现在都这么疯吗](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%20%E7%8E%8B%E7%89%8C%E7%8E%B0%E5%9C%A8%E9%83%BD%E8%BF%99%E4%B9%88%E7%96%AF%E5%90%97&t=31&band_rank=9&Refer=top)<br />
+9. [军队文职 网站崩了](https://s.weibo.com/weibo?q=%E5%86%9B%E9%98%9F%E6%96%87%E8%81%8C%20%E7%BD%91%E7%AB%99%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
