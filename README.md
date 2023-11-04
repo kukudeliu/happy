@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 22:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 22:51:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [压力给到LNG](https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0LNG%23&t=31&band_rank=4&Refer=top)<br />
 5. [沈腾扶杨幂下楼梯](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E6%89%B6%E6%9D%A8%E5%B9%82%E4%B8%8B%E6%A5%BC%E6%A2%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [T1 压力](https://s.weibo.com/weibo?q=T1%20%E5%8E%8B%E5%8A%9B&t=31&band_rank=6&Refer=top)<br />
-7. [她的十八岁和我一样安静和痛苦吗](https://s.weibo.com/weibo?q=%E5%A5%B9%E7%9A%84%E5%8D%81%E5%85%AB%E5%B2%81%E5%92%8C%E6%88%91%E4%B8%80%E6%A0%B7%E5%AE%89%E9%9D%99%E5%92%8C%E7%97%9B%E8%8B%A6%E5%90%97&t=31&band_rank=7&Refer=top)<br />
-8. [外卖1400元牛杂汤提供非法服务系不实信息](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%961400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%8F%90%E4%BE%9B%E9%9D%9E%E6%B3%95%E6%9C%8D%E5%8A%A1%E7%B3%BB%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF%23&t=31&band_rank=8&Refer=top)<br />
-9. [进击的巨人](https://s.weibo.com/weibo?q=%E8%BF%9B%E5%87%BB%E7%9A%84%E5%B7%A8%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
+7. [进击的巨人](https://s.weibo.com/weibo?q=%E8%BF%9B%E5%87%BB%E7%9A%84%E5%B7%A8%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
+8. [她的十八岁和我一样安静和痛苦吗](https://s.weibo.com/weibo?q=%E5%A5%B9%E7%9A%84%E5%8D%81%E5%85%AB%E5%B2%81%E5%92%8C%E6%88%91%E4%B8%80%E6%A0%B7%E5%AE%89%E9%9D%99%E5%92%8C%E7%97%9B%E8%8B%A6%E5%90%97&t=31&band_rank=8&Refer=top)<br />
+9. [外卖1400元牛杂汤提供非法服务系不实信息](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%961400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%8F%90%E4%BE%9B%E9%9D%9E%E6%B3%95%E6%9C%8D%E5%8A%A1%E7%B3%BB%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
