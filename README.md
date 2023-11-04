@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 15:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 15:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [辛芷蕾吃酸奶疙瘩像被人打了一样](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%90%83%E9%85%B8%E5%A5%B6%E7%96%99%E7%98%A9%E5%83%8F%E8%A2%AB%E4%BA%BA%E6%89%93%E4%BA%86%E4%B8%80%E6%A0%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [吴彤是抓住了闫妮的什么把柄吗](https://s.weibo.com/weibo?q=%E5%90%B4%E5%BD%A4%E6%98%AF%E6%8A%93%E4%BD%8F%E4%BA%86%E9%97%AB%E5%A6%AE%E7%9A%84%E4%BB%80%E4%B9%88%E6%8A%8A%E6%9F%84%E5%90%97&t=31&band_rank=7&Refer=top)<br />
 8. [怀化一校车侧翻坠下山坡](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%8C%96%E4%B8%80%E6%A0%A1%E8%BD%A6%E4%BE%A7%E7%BF%BB%E5%9D%A0%E4%B8%8B%E5%B1%B1%E5%9D%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [缅甸内战最新情况](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E5%86%85%E6%88%98%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5%23&t=31&band_rank=9&Refer=top)<br />
+9. [EDG被重庆粉丝包围](https://s.weibo.com/weibo?q=%23EDG%E8%A2%AB%E9%87%8D%E5%BA%86%E7%B2%89%E4%B8%9D%E5%8C%85%E5%9B%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
