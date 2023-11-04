@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 12:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 12:05:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [难看](https://s.weibo.com/weibo?q=%E9%9A%BE%E7%9C%8B&t=31&band_rank=4&Refer=top)<br />
 5. [谢娜说杨紫瘦得脱相了](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E8%AF%B4%E6%9D%A8%E7%B4%AB%E7%98%A6%E5%BE%97%E8%84%B1%E7%9B%B8%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [猪肉直接放酱油中泡2天](https://s.weibo.com/weibo?q=%E7%8C%AA%E8%82%89%E7%9B%B4%E6%8E%A5%E6%94%BE%E9%85%B1%E6%B2%B9%E4%B8%AD%E6%B3%A12%E5%A4%A9&t=31&band_rank=6&Refer=top)<br />
-7. [时宴的车不载有男朋友的女人](https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%AE%B4%E7%9A%84%E8%BD%A6%E4%B8%8D%E8%BD%BD%E6%9C%89%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%9A%84%E5%A5%B3%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [黄晓明用AI换杨迪脸给黄明昊打电话](https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%93%E6%98%8E%E7%94%A8AI%E6%8D%A2%E6%9D%A8%E8%BF%AA%E8%84%B8%E7%BB%99%E9%BB%84%E6%98%8E%E6%98%8A%E6%89%93%E7%94%B5%E8%AF%9D&t=31&band_rank=8&Refer=top)<br />
+7. [黄晓明用AI换杨迪脸给黄明昊打电话](https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%93%E6%98%8E%E7%94%A8AI%E6%8D%A2%E6%9D%A8%E8%BF%AA%E8%84%B8%E7%BB%99%E9%BB%84%E6%98%8E%E6%98%8A%E6%89%93%E7%94%B5%E8%AF%9D&t=31&band_rank=7&Refer=top)<br />
+8. [时宴的车不载有男朋友的女人](https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%AE%B4%E7%9A%84%E8%BD%A6%E4%B8%8D%E8%BD%BD%E6%9C%89%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%9A%84%E5%A5%B3%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [丫丫最近一直都在笑](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E6%9C%80%E8%BF%91%E4%B8%80%E7%9B%B4%E9%83%BD%E5%9C%A8%E7%AC%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
