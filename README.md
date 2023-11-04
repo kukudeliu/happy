@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 05:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 05:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [18岁女生“洗剪吹”后大哭](https://www.baidu.com/s?wd=18%E5%B2%81%E5%A5%B3%E7%94%9F%E2%80%9C%E6%B4%97%E5%89%AA%E5%90%B9%E2%80%9D%E5%90%8E%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [5架波音飞机在俄罗斯被扣](https://www.baidu.com/s?wd=5%E6%9E%B6%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA%E5%9C%A8%E4%BF%84%E7%BD%97%E6%96%AF%E8%A2%AB%E6%89%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子车祸后就医体内发现金属异物](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BD%A6%E7%A5%B8%E5%90%8E%E5%B0%B1%E5%8C%BB%E4%BD%93%E5%86%85%E5%8F%91%E7%8E%B0%E9%87%91%E5%B1%9E%E5%BC%82%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广东地震市民抱孩子到街上避险](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87%E5%B8%82%E6%B0%91%E6%8A%B1%E5%AD%A9%E5%AD%90%E5%88%B0%E8%A1%97%E4%B8%8A%E9%81%BF%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王俊凯问校门口的大哥还认不认得他](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%97%AE%E6%A0%A1%E9%97%A8%E5%8F%A3%E7%9A%84%E5%A4%A7%E5%93%A5%E8%BF%98%E8%AE%A4%E4%B8%8D%E8%AE%A4%E5%BE%97%E4%BB%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [18岁女生“洗剪吹”后大哭](https://www.baidu.com/s?wd=18%E5%B2%81%E5%A5%B3%E7%94%9F%E2%80%9C%E6%B4%97%E5%89%AA%E5%90%B9%E2%80%9D%E5%90%8E%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [5架波音飞机在俄罗斯被扣](https://www.baidu.com/s?wd=5%E6%9E%B6%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA%E5%9C%A8%E4%BF%84%E7%BD%97%E6%96%AF%E8%A2%AB%E6%89%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子车祸后就医体内发现金属异物](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BD%A6%E7%A5%B8%E5%90%8E%E5%B0%B1%E5%8C%BB%E4%BD%93%E5%86%85%E5%8F%91%E7%8E%B0%E9%87%91%E5%B1%9E%E5%BC%82%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广东地震市民抱孩子到街上避险](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87%E5%B8%82%E6%B0%91%E6%8A%B1%E5%AD%A9%E5%AD%90%E5%88%B0%E8%A1%97%E4%B8%8A%E9%81%BF%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王俊凯问校门口的大哥还认不认得他](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%97%AE%E6%A0%A1%E9%97%A8%E5%8F%A3%E7%9A%84%E5%A4%A7%E5%93%A5%E8%BF%98%E8%AE%A4%E4%B8%8D%E8%AE%A4%E5%BE%97%E4%BB%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
