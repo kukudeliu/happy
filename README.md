@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 10:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 10:38:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [父亲目睹儿子连救3人牺牲](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E7%9B%AE%E7%9D%B9%E5%84%BF%E5%AD%90%E8%BF%9E%E6%95%913%E4%BA%BA%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全球共赴东方之约](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%85%B1%E8%B5%B4%E4%B8%9C%E6%96%B9%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [取已故亲人600元存款花800元开证明](https://www.baidu.com/s?wd=%E5%8F%96%E5%B7%B2%E6%95%85%E4%BA%B2%E4%BA%BA600%E5%85%83%E5%AD%98%E6%AC%BE%E8%8A%B1800%E5%85%83%E5%BC%80%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [全村唯一拥有电话手表的小狗](https://www.baidu.com/s?wd=%E5%85%A8%E6%9D%91%E5%94%AF%E4%B8%80%E6%8B%A5%E6%9C%89%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E7%9A%84%E5%B0%8F%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小伙在自家厕所里建海洋馆隐居6年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%8E%95%E6%89%80%E9%87%8C%E5%BB%BA%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%9A%90%E5%B1%856%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [小伙在自家厕所里建海洋馆隐居6年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%8E%95%E6%89%80%E9%87%8C%E5%BB%BA%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%9A%90%E5%B1%856%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [全村唯一拥有电话手表的小狗](https://www.baidu.com/s?wd=%E5%85%A8%E6%9D%91%E5%94%AF%E4%B8%80%E6%8B%A5%E6%9C%89%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E7%9A%84%E5%B0%8F%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [外卖深夜千元牛杂汤疑为非法服务](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E6%B7%B1%E5%A4%9C%E5%8D%83%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E7%96%91%E4%B8%BA%E9%9D%9E%E6%B3%95%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天然气爆炸致多人死亡？谣言！](https://www.baidu.com/s?wd=%E5%A4%A9%E7%84%B6%E6%B0%94%E7%88%86%E7%82%B8%E8%87%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E8%B0%A3%E8%A8%80%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [父亲目睹儿子连救3人牺牲](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E7%9B%AE%E7%9D%B9%E5%84%BF%E5%AD%90%E8%BF%9E%E6%95%913%E4%BA%BA%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全球共赴东方之约](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%85%B1%E8%B5%B4%E4%B8%9C%E6%96%B9%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [取已故亲人600元存款花800元开证明](https://www.baidu.com/s?wd=%E5%8F%96%E5%B7%B2%E6%95%85%E4%BA%B2%E4%BA%BA600%E5%85%83%E5%AD%98%E6%AC%BE%E8%8A%B1800%E5%85%83%E5%BC%80%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [全村唯一拥有电话手表的小狗](https://www.baidu.com/s?wd=%E5%85%A8%E6%9D%91%E5%94%AF%E4%B8%80%E6%8B%A5%E6%9C%89%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E7%9A%84%E5%B0%8F%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小伙在自家厕所里建海洋馆隐居6年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%8E%95%E6%89%80%E9%87%8C%E5%BB%BA%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%9A%90%E5%B1%856%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [小伙在自家厕所里建海洋馆隐居6年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%8E%95%E6%89%80%E9%87%8C%E5%BB%BA%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%9A%90%E5%B1%856%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [全村唯一拥有电话手表的小狗](https://www.baidu.com/s?wd=%E5%85%A8%E6%9D%91%E5%94%AF%E4%B8%80%E6%8B%A5%E6%9C%89%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E7%9A%84%E5%B0%8F%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [外卖深夜千元牛杂汤疑为非法服务](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E6%B7%B1%E5%A4%9C%E5%8D%83%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E7%96%91%E4%B8%BA%E9%9D%9E%E6%B3%95%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天然气爆炸致多人死亡？谣言！](https://www.baidu.com/s?wd=%E5%A4%A9%E7%84%B6%E6%B0%94%E7%88%86%E7%82%B8%E8%87%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E8%B0%A3%E8%A8%80%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
