@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 22:12:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 22:14:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [压力给到LNG](https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0LNG%23&t=31&band_rank=4&Refer=top)<br />
 5. [外卖1400元牛杂汤提供非法服务系不实信息](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%961400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%8F%90%E4%BE%9B%E9%9D%9E%E6%B3%95%E6%9C%8D%E5%8A%A1%E7%B3%BB%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [沈腾扶杨幂下楼梯](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E6%89%B6%E6%9D%A8%E5%B9%82%E4%B8%8B%E6%A5%BC%E6%A2%AF%23&t=31&band_rank=6&Refer=top)<br />
-7. [北大宿舍聊天 婚姻残酷真相](https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E5%AE%BF%E8%88%8D%E8%81%8A%E5%A4%A9%20%E5%A9%9A%E5%A7%BB%E6%AE%8B%E9%85%B7%E7%9C%9F%E7%9B%B8&t=31&band_rank=7&Refer=top)<br />
-8. [李佳航来解说决赛吧](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E8%88%AA%E6%9D%A5%E8%A7%A3%E8%AF%B4%E5%86%B3%E8%B5%9B%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
+7. [李佳航来解说决赛吧](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E8%88%AA%E6%9D%A5%E8%A7%A3%E8%AF%B4%E5%86%B3%E8%B5%9B%E5%90%A7&t=31&band_rank=7&Refer=top)<br />
+8. [北大宿舍聊天 婚姻残酷真相](https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E5%AE%BF%E8%88%8D%E8%81%8A%E5%A4%A9%20%E5%A9%9A%E5%A7%BB%E6%AE%8B%E9%85%B7%E7%9C%9F%E7%9B%B8&t=31&band_rank=8&Refer=top)<br />
 9. [T1 压力](https://s.weibo.com/weibo?q=T1%20%E5%8E%8B%E5%8A%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,8 +23,8 @@
 4. [从乡村消费增速感受活力中国](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B9%A1%E6%9D%91%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%80%9F%E6%84%9F%E5%8F%97%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [硬卧车厢吃饭吃出满汉全席的气势](https://www.baidu.com/s?wd=%E7%A1%AC%E5%8D%A7%E8%BD%A6%E5%8E%A2%E5%90%83%E9%A5%AD%E5%90%83%E5%87%BA%E6%BB%A1%E6%B1%89%E5%85%A8%E5%B8%AD%E7%9A%84%E6%B0%94%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [18岁女生“洗剪吹”后大哭](https://www.baidu.com/s?wd=18%E5%B2%81%E5%A5%B3%E7%94%9F%E2%80%9C%E6%B4%97%E5%89%AA%E5%90%B9%E2%80%9D%E5%90%8E%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [宁波一小区物业自治3年分红200万](https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%89%A9%E4%B8%9A%E8%87%AA%E6%B2%BB3%E5%B9%B4%E5%88%86%E7%BA%A2200%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子夜扛垃圾桶狂飙牵出盗窃团伙](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%9C%E6%89%9B%E5%9E%83%E5%9C%BE%E6%A1%B6%E7%8B%82%E9%A3%99%E7%89%B5%E5%87%BA%E7%9B%97%E7%AA%83%E5%9B%A2%E4%BC%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广东地震市民抱孩子到街上避险](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87%E5%B8%82%E6%B0%91%E6%8A%B1%E5%AD%A9%E5%AD%90%E5%88%B0%E8%A1%97%E4%B8%8A%E9%81%BF%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [煤矿火化遗体瞒报事故36人被问责](https://www.baidu.com/s?wd=%E7%85%A4%E7%9F%BF%E7%81%AB%E5%8C%96%E9%81%97%E4%BD%93%E7%9E%92%E6%8A%A5%E4%BA%8B%E6%95%8536%E4%BA%BA%E8%A2%AB%E9%97%AE%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [从乡村消费增速感受活力中国](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B9%A1%E6%9D%91%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%80%9F%E6%84%9F%E5%8F%97%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [硬卧车厢吃饭吃出满汉全席的气势](https://www.baidu.com/s?wd=%E7%A1%AC%E5%8D%A7%E8%BD%A6%E5%8E%A2%E5%90%83%E9%A5%AD%E5%90%83%E5%87%BA%E6%BB%A1%E6%B1%89%E5%85%A8%E5%B8%AD%E7%9A%84%E6%B0%94%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [18岁女生“洗剪吹”后大哭](https://www.baidu.com/s?wd=18%E5%B2%81%E5%A5%B3%E7%94%9F%E2%80%9C%E6%B4%97%E5%89%AA%E5%90%B9%E2%80%9D%E5%90%8E%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [宁波一小区物业自治3年分红200万](https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%89%A9%E4%B8%9A%E8%87%AA%E6%B2%BB3%E5%B9%B4%E5%88%86%E7%BA%A2200%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子夜扛垃圾桶狂飙牵出盗窃团伙](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%9C%E6%89%9B%E5%9E%83%E5%9C%BE%E6%A1%B6%E7%8B%82%E9%A3%99%E7%89%B5%E5%87%BA%E7%9B%97%E7%AA%83%E5%9B%A2%E4%BC%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广东地震市民抱孩子到街上避险](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87%E5%B8%82%E6%B0%91%E6%8A%B1%E5%AD%A9%E5%AD%90%E5%88%B0%E8%A1%97%E4%B8%8A%E9%81%BF%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [煤矿火化遗体瞒报事故36人被问责](https://www.baidu.com/s?wd=%E7%85%A4%E7%9F%BF%E7%81%AB%E5%8C%96%E9%81%97%E4%BD%93%E7%9E%92%E6%8A%A5%E4%BA%8B%E6%95%8536%E4%BA%BA%E8%A2%AB%E9%97%AE%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
