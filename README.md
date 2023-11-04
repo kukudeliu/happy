@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 23:35:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 23:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [福建男篮浙江男篮赛后冲突](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E7%94%B7%E7%AF%AE%E6%B5%99%E6%B1%9F%E7%94%B7%E7%AF%AE%E8%B5%9B%E5%90%8E%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [进击的巨人](https://s.weibo.com/weibo?q=%E8%BF%9B%E5%87%BB%E7%9A%84%E5%B7%A8%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
 8. [莎头](https://s.weibo.com/weibo?q=%E8%8E%8E%E5%A4%B4&t=31&band_rank=8&Refer=top)<br />
-9. [T1 压力](https://s.weibo.com/weibo?q=T1%20%E5%8E%8B%E5%8A%9B&t=31&band_rank=9&Refer=top)<br />
+9. [王楚钦2比4林昀儒](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A62%E6%AF%944%E6%9E%97%E6%98%80%E5%84%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
