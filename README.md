@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 17:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 17:55:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [联合国称缅北数百人越境逃入中国](https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%B0%E7%BC%85%E5%8C%97%E6%95%B0%E7%99%BE%E4%BA%BA%E8%B6%8A%E5%A2%83%E9%80%83%E5%85%A5%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=4&Refer=top)<br />
 5. [宋亚轩买游戏账号被骗钱](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E4%B9%B0%E6%B8%B8%E6%88%8F%E8%B4%A6%E5%8F%B7%E8%A2%AB%E9%AA%97%E9%92%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [难看](https://s.weibo.com/weibo?q=%E9%9A%BE%E7%9C%8B&t=31&band_rank=6&Refer=top)<br />
-7. [郑书意目睹男友出轨](https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B9%A6%E6%84%8F%E7%9B%AE%E7%9D%B9%E7%94%B7%E5%8F%8B%E5%87%BA%E8%BD%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [大连人降级](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E4%BA%BA%E9%99%8D%E7%BA%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [上市公司5995万存款不见了](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B85995%E4%B8%87%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%A7%81%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+7. [大连人降级](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E4%BA%BA%E9%99%8D%E7%BA%A7%23&t=31&band_rank=7&Refer=top)<br />
+8. [郑书意目睹男友出轨](https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B9%A6%E6%84%8F%E7%9B%AE%E7%9D%B9%E7%94%B7%E5%8F%8B%E5%87%BA%E8%BD%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [迪丽热巴换手机壳庆祝入住大床房](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8D%A2%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%BA%86%E7%A5%9D%E5%85%A5%E4%BD%8F%E5%A4%A7%E5%BA%8A%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
