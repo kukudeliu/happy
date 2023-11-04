@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 01:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 01:57:01</h4></div>
 
 > 微博  
 
-1. [熬夜可能让你不知不觉比别人更胖](https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E5%8F%AF%E8%83%BD%E8%AE%A9%E4%BD%A0%E4%B8%8D%E7%9F%A5%E4%B8%8D%E8%A7%89%E6%AF%94%E5%88%AB%E4%BA%BA%E6%9B%B4%E8%83%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [孙颖莎](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E&t=31&band_rank=2&Refer=top)<br />
+1. [孙颖莎](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E&t=31&band_rank=1&Refer=top)<br />
+2. [熬夜可能让你不知不觉比别人更胖](https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E5%8F%AF%E8%83%BD%E8%AE%A9%E4%BD%A0%E4%B8%8D%E7%9F%A5%E4%B8%8D%E8%A7%89%E6%AF%94%E5%88%AB%E4%BA%BA%E6%9B%B4%E8%83%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [让看电视更简单消费不套娃](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E7%9C%8B%E7%94%B5%E8%A7%86%E6%9B%B4%E7%AE%80%E5%8D%95%E6%B6%88%E8%B4%B9%E4%B8%8D%E5%A5%97%E5%A8%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [林心如说紫薇演得好浮夸](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%83%E5%A6%82%E8%AF%B4%E7%B4%AB%E8%96%87%E6%BC%94%E5%BE%97%E5%A5%BD%E6%B5%AE%E5%A4%B8%23&t=31&band_rank=4&Refer=top)<br />
 5. [进击的巨人](https://s.weibo.com/weibo?q=%E8%BF%9B%E5%87%BB%E7%9A%84%E5%B7%A8%E4%BA%BA&t=31&band_rank=5&Refer=top)<br />
