@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 11:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 12:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [猪肉直接放酱油中泡2天](https://s.weibo.com/weibo?q=%E7%8C%AA%E8%82%89%E7%9B%B4%E6%8E%A5%E6%94%BE%E9%85%B1%E6%B2%B9%E4%B8%AD%E6%B3%A12%E5%A4%A9&t=31&band_rank=6&Refer=top)<br />
 7. [丫丫最近一直都在笑](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E6%9C%80%E8%BF%91%E4%B8%80%E7%9B%B4%E9%83%BD%E5%9C%A8%E7%AC%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [黄晓明用AI换杨迪脸给黄明昊打电话](https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%93%E6%98%8E%E7%94%A8AI%E6%8D%A2%E6%9D%A8%E8%BF%AA%E8%84%B8%E7%BB%99%E9%BB%84%E6%98%8E%E6%98%8A%E6%89%93%E7%94%B5%E8%AF%9D&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴孔雀半开屏](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%AD%94%E9%9B%80%E5%8D%8A%E5%BC%80%E5%B1%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [韩网评宋茜近况](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E8%AF%84%E5%AE%8B%E8%8C%9C%E8%BF%91%E5%86%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
