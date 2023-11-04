@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 23:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 23:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [福建男篮浙江男篮赛后冲突](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E7%94%B7%E7%AF%AE%E6%B5%99%E6%B1%9F%E7%94%B7%E7%AF%AE%E8%B5%9B%E5%90%8E%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [T1 压力](https://s.weibo.com/weibo?q=T1%20%E5%8E%8B%E5%8A%9B&t=31&band_rank=7&Refer=top)<br />
 8. [她的十八岁和我一样安静和痛苦吗](https://s.weibo.com/weibo?q=%E5%A5%B9%E7%9A%84%E5%8D%81%E5%85%AB%E5%B2%81%E5%92%8C%E6%88%91%E4%B8%80%E6%A0%B7%E5%AE%89%E9%9D%99%E5%92%8C%E7%97%9B%E8%8B%A6%E5%90%97&t=31&band_rank=8&Refer=top)<br />
-9. [沈腾扶杨幂下楼梯](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E6%89%B6%E6%9D%A8%E5%B9%82%E4%B8%8B%E6%A5%BC%E6%A2%AF%23&t=31&band_rank=9&Refer=top)<br />
+9. [这期的梦想改造家给我看气了](https://s.weibo.com/weibo?q=%E8%BF%99%E6%9C%9F%E7%9A%84%E6%A2%A6%E6%83%B3%E6%94%B9%E9%80%A0%E5%AE%B6%E7%BB%99%E6%88%91%E7%9C%8B%E6%B0%94%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
