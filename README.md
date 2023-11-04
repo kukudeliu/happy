@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 10:32:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 10:33:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩网评宋茜近况](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E8%AF%84%E5%AE%8B%E8%8C%9C%E8%BF%91%E5%86%B5%23&t=31&band_rank=6&Refer=top)<br />
 7. [黄晓明被说油的那阵赶上沈腾上网了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E8%A2%AB%E8%AF%B4%E6%B2%B9%E7%9A%84%E9%82%A3%E9%98%B5%E8%B5%B6%E4%B8%8A%E6%B2%88%E8%85%BE%E4%B8%8A%E7%BD%91%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [银行回应取600存款要花800开证明](https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E5%9B%9E%E5%BA%94%E5%8F%96600%E5%AD%98%E6%AC%BE%E8%A6%81%E8%8A%B1800%E5%BC%80%E8%AF%81%E6%98%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [外卖深夜1400元牛杂汤疑为非法服务](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E7%96%91%E4%B8%BA%E9%9D%9E%E6%B3%95%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [小伙在自家厕所里建海洋馆隐居6年](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%8E%95%E6%89%80%E9%87%8C%E5%BB%BA%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%9A%90%E5%B1%856%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
