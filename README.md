@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 16:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 16:57:02</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [金融工作怎么干？梳理新部署](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E5%B7%A5%E4%BD%9C%E6%80%8E%E4%B9%88%E5%B9%B2%EF%BC%9F%E6%A2%B3%E7%90%86%E6%96%B0%E9%83%A8%E7%BD%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [官方：年底实现全国范围开机看直播](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E5%B9%B4%E5%BA%95%E5%AE%9E%E7%8E%B0%E5%85%A8%E5%9B%BD%E8%8C%83%E5%9B%B4%E5%BC%80%E6%9C%BA%E7%9C%8B%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [爸妈看电视才知女儿是战地记者](https://www.baidu.com/s?wd=%E7%88%B8%E5%A6%88%E7%9C%8B%E7%94%B5%E8%A7%86%E6%89%8D%E7%9F%A5%E5%A5%B3%E5%84%BF%E6%98%AF%E6%88%98%E5%9C%B0%E8%AE%B0%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [香港女生发“港独”言论被判入狱](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A5%B3%E7%94%9F%E5%8F%91%E2%80%9C%E6%B8%AF%E7%8B%AC%E2%80%9D%E8%A8%80%E8%AE%BA%E8%A2%AB%E5%88%A4%E5%85%A5%E7%8B%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“进博老友”再度相约](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%9B%E5%8D%9A%E8%80%81%E5%8F%8B%E2%80%9D%E5%86%8D%E5%BA%A6%E7%9B%B8%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女童上幼儿园19天8天没有早饭](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E4%B8%8A%E5%B9%BC%E5%84%BF%E5%9B%AD19%E5%A4%A98%E5%A4%A9%E6%B2%A1%E6%9C%89%E6%97%A9%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [金融工作怎么干？梳理新部署](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E5%B7%A5%E4%BD%9C%E6%80%8E%E4%B9%88%E5%B9%B2%EF%BC%9F%E6%A2%B3%E7%90%86%E6%96%B0%E9%83%A8%E7%BD%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [官方：年底实现全国范围开机看直播](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E5%B9%B4%E5%BA%95%E5%AE%9E%E7%8E%B0%E5%85%A8%E5%9B%BD%E8%8C%83%E5%9B%B4%E5%BC%80%E6%9C%BA%E7%9C%8B%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [爸妈看电视才知女儿是战地记者](https://www.baidu.com/s?wd=%E7%88%B8%E5%A6%88%E7%9C%8B%E7%94%B5%E8%A7%86%E6%89%8D%E7%9F%A5%E5%A5%B3%E5%84%BF%E6%98%AF%E6%88%98%E5%9C%B0%E8%AE%B0%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [香港女生发“港独”言论被判入狱](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A5%B3%E7%94%9F%E5%8F%91%E2%80%9C%E6%B8%AF%E7%8B%AC%E2%80%9D%E8%A8%80%E8%AE%BA%E8%A2%AB%E5%88%A4%E5%85%A5%E7%8B%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“进博老友”再度相约](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%9B%E5%8D%9A%E8%80%81%E5%8F%8B%E2%80%9D%E5%86%8D%E5%BA%A6%E7%9B%B8%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女童上幼儿园19天8天没有早饭](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E4%B8%8A%E5%B9%BC%E5%84%BF%E5%9B%AD19%E5%A4%A98%E5%A4%A9%E6%B2%A1%E6%9C%89%E6%97%A9%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
