@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 14:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 14:55:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [香港女生发“港独”言论被判入狱](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A5%B3%E7%94%9F%E5%8F%91%E2%80%9C%E6%B8%AF%E7%8B%AC%E2%80%9D%E8%A8%80%E8%AE%BA%E8%A2%AB%E5%88%A4%E5%85%A5%E7%8B%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“进博老友”再度相约](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%9B%E5%8D%9A%E8%80%81%E5%8F%8B%E2%80%9D%E5%86%8D%E5%BA%A6%E7%9B%B8%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [47岁女子为逃避刑罚多次掐点怀孕](https://www.baidu.com/s?wd=47%E5%B2%81%E5%A5%B3%E5%AD%90%E4%B8%BA%E9%80%83%E9%81%BF%E5%88%91%E7%BD%9A%E5%A4%9A%E6%AC%A1%E6%8E%90%E7%82%B9%E6%80%80%E5%AD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [加沙孩子被迫喝平时驴都不喝的水](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%AD%A9%E5%AD%90%E8%A2%AB%E8%BF%AB%E5%96%9D%E5%B9%B3%E6%97%B6%E9%A9%B4%E9%83%BD%E4%B8%8D%E5%96%9D%E7%9A%84%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小伙在自家厕所里建海洋馆隐居6年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%8E%95%E6%89%80%E9%87%8C%E5%BB%BA%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%9A%90%E5%B1%856%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [小伙在自家厕所里建海洋馆隐居6年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%8E%95%E6%89%80%E9%87%8C%E5%BB%BA%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%9A%90%E5%B1%856%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [加沙孩子被迫喝平时驴都不喝的水](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%AD%A9%E5%AD%90%E8%A2%AB%E8%BF%AB%E5%96%9D%E5%B9%B3%E6%97%B6%E9%A9%B4%E9%83%BD%E4%B8%8D%E5%96%9D%E7%9A%84%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [取已故亲人600元存款花800元开证明](https://www.baidu.com/s?wd=%E5%8F%96%E5%B7%B2%E6%95%85%E4%BA%B2%E4%BA%BA600%E5%85%83%E5%AD%98%E6%AC%BE%E8%8A%B1800%E5%85%83%E5%BC%80%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣河南农户高粱被村民抢收](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B2%B3%E5%8D%97%E5%86%9C%E6%88%B7%E9%AB%98%E7%B2%B1%E8%A2%AB%E6%9D%91%E6%B0%91%E6%8A%A2%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [香港女生发“港独”言论被判入狱](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A5%B3%E7%94%9F%E5%8F%91%E2%80%9C%E6%B8%AF%E7%8B%AC%E2%80%9D%E8%A8%80%E8%AE%BA%E8%A2%AB%E5%88%A4%E5%85%A5%E7%8B%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“进博老友”再度相约](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%9B%E5%8D%9A%E8%80%81%E5%8F%8B%E2%80%9D%E5%86%8D%E5%BA%A6%E7%9B%B8%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [47岁女子为逃避刑罚多次掐点怀孕](https://www.baidu.com/s?wd=47%E5%B2%81%E5%A5%B3%E5%AD%90%E4%B8%BA%E9%80%83%E9%81%BF%E5%88%91%E7%BD%9A%E5%A4%9A%E6%AC%A1%E6%8E%90%E7%82%B9%E6%80%80%E5%AD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [加沙孩子被迫喝平时驴都不喝的水](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%AD%A9%E5%AD%90%E8%A2%AB%E8%BF%AB%E5%96%9D%E5%B9%B3%E6%97%B6%E9%A9%B4%E9%83%BD%E4%B8%8D%E5%96%9D%E7%9A%84%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小伙在自家厕所里建海洋馆隐居6年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%8E%95%E6%89%80%E9%87%8C%E5%BB%BA%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%9A%90%E5%B1%856%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [小伙在自家厕所里建海洋馆隐居6年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%8E%95%E6%89%80%E9%87%8C%E5%BB%BA%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%9A%90%E5%B1%856%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [加沙孩子被迫喝平时驴都不喝的水](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%AD%A9%E5%AD%90%E8%A2%AB%E8%BF%AB%E5%96%9D%E5%B9%B3%E6%97%B6%E9%A9%B4%E9%83%BD%E4%B8%8D%E5%96%9D%E7%9A%84%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [取已故亲人600元存款花800元开证明](https://www.baidu.com/s?wd=%E5%8F%96%E5%B7%B2%E6%95%85%E4%BA%B2%E4%BA%BA600%E5%85%83%E5%AD%98%E6%AC%BE%E8%8A%B1800%E5%85%83%E5%BC%80%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣河南农户高粱被村民抢收](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B2%B3%E5%8D%97%E5%86%9C%E6%88%B7%E9%AB%98%E7%B2%B1%E8%A2%AB%E6%9D%91%E6%B0%91%E6%8A%A2%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
