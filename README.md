@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 18:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 18:10:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [专属秋天的多巴胺配色](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%B1%9E%E7%A7%8B%E5%A4%A9%E7%9A%84%E5%A4%9A%E5%B7%B4%E8%83%BA%E9%85%8D%E8%89%B2%23&t=31&band_rank=3&Refer=top)<br />
 4. [联合国称缅北数百人越境逃入中国](https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%B0%E7%BC%85%E5%8C%97%E6%95%B0%E7%99%BE%E4%BA%BA%E8%B6%8A%E5%A2%83%E9%80%83%E5%85%A5%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=4&Refer=top)<br />
 5. [宋亚轩买游戏账号被骗钱](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E4%B9%B0%E6%B8%B8%E6%88%8F%E8%B4%A6%E5%8F%B7%E8%A2%AB%E9%AA%97%E9%92%B1%23&t=31&band_rank=5&Refer=top)<br />
-6. [难看](https://s.weibo.com/weibo?q=%E9%9A%BE%E7%9C%8B&t=31&band_rank=6&Refer=top)<br />
+6. [西湖里来了50多只小鷿鷈](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%B9%96%E9%87%8C%E6%9D%A5%E4%BA%8650%E5%A4%9A%E5%8F%AA%E5%B0%8F%E9%B7%BF%E9%B7%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [快递车侧翻公交司机乘客掀车救人](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E8%BD%A6%E4%BE%A7%E7%BF%BB%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E4%B9%98%E5%AE%A2%E6%8E%80%E8%BD%A6%E6%95%91%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [大连人降级](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E4%BA%BA%E9%99%8D%E7%BA%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [郑书意目睹男友出轨](https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B9%A6%E6%84%8F%E7%9B%AE%E7%9D%B9%E7%94%B7%E5%8F%8B%E5%87%BA%E8%BD%A8%23&t=31&band_rank=9&Refer=top)<br />
+8. [难看](https://s.weibo.com/weibo?q=%E9%9A%BE%E7%9C%8B&t=31&band_rank=8&Refer=top)<br />
+9. [大连人降级](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E4%BA%BA%E9%99%8D%E7%BA%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [女童上幼儿园19天8天没有早饭](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E4%B8%8A%E5%B9%BC%E5%84%BF%E5%9B%AD19%E5%A4%A98%E5%A4%A9%E6%B2%A1%E6%9C%89%E6%97%A9%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [巴基斯坦空军基地遭袭击](https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E9%81%AD%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [克罗地亚外长试图亲吻德国女外长](https://www.baidu.com/s?wd=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E5%A4%96%E9%95%BF%E8%AF%95%E5%9B%BE%E4%BA%B2%E5%90%BB%E5%BE%B7%E5%9B%BD%E5%A5%B3%E5%A4%96%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方：年底实现全国范围开机看直播](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E5%B9%B4%E5%BA%95%E5%AE%9E%E7%8E%B0%E5%85%A8%E5%9B%BD%E8%8C%83%E5%9B%B4%E5%BC%80%E6%9C%BA%E7%9C%8B%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [泽连斯基下周将访问以色列](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%8B%E5%91%A8%E5%B0%86%E8%AE%BF%E9%97%AE%E4%BB%A5%E8%89%B2%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣河南农户高粱被村民抢收](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B2%B3%E5%8D%97%E5%86%9C%E6%88%B7%E9%AB%98%E7%B2%B1%E8%A2%AB%E6%9D%91%E6%B0%91%E6%8A%A2%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女童上幼儿园19天8天没有早饭](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E4%B8%8A%E5%B9%BC%E5%84%BF%E5%9B%AD19%E5%A4%A98%E5%A4%A9%E6%B2%A1%E6%9C%89%E6%97%A9%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [巴基斯坦空军基地遭袭击](https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E9%81%AD%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [克罗地亚外长试图亲吻德国女外长](https://www.baidu.com/s?wd=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E5%A4%96%E9%95%BF%E8%AF%95%E5%9B%BE%E4%BA%B2%E5%90%BB%E5%BE%B7%E5%9B%BD%E5%A5%B3%E5%A4%96%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方：年底实现全国范围开机看直播](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E5%B9%B4%E5%BA%95%E5%AE%9E%E7%8E%B0%E5%85%A8%E5%9B%BD%E8%8C%83%E5%9B%B4%E5%BC%80%E6%9C%BA%E7%9C%8B%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [泽连斯基下周将访问以色列](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%8B%E5%91%A8%E5%B0%86%E8%AE%BF%E9%97%AE%E4%BB%A5%E8%89%B2%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣河南农户高粱被村民抢收](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B2%B3%E5%8D%97%E5%86%9C%E6%88%B7%E9%AB%98%E7%B2%B1%E8%A2%AB%E6%9D%91%E6%B0%91%E6%8A%A2%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
