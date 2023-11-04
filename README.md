@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 19:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 19:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [西湖里来了50多只小鷿鷈](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%B9%96%E9%87%8C%E6%9D%A5%E4%BA%8650%E5%A4%9A%E5%8F%AA%E5%B0%8F%E9%B7%BF%E9%B7%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [炮车立功](https://s.weibo.com/weibo?q=%23%E7%82%AE%E8%BD%A6%E7%AB%8B%E5%8A%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [宁波一小区物业自治3年分红200万](https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%89%A9%E4%B8%9A%E8%87%AA%E6%B2%BB3%E5%B9%B4%E5%88%86%E7%BA%A2200%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [尼泊尔6.4级地震](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%B3%8A%E5%B0%946.4%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [尺帝太c了](https://s.weibo.com/weibo?q=%E5%B0%BA%E5%B8%9D%E5%A4%AAc%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [尺帝太c了](https://s.weibo.com/weibo?q=%E5%B0%BA%E5%B8%9D%E5%A4%AAc%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [尼泊尔6.4级地震](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%B3%8A%E5%B0%946.4%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
