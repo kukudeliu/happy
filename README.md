@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 12:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 12:46:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [难看](https://s.weibo.com/weibo?q=%E9%9A%BE%E7%9C%8B&t=31&band_rank=4&Refer=top)<br />
 5. [谢娜说杨紫瘦得脱相了](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E8%AF%B4%E6%9D%A8%E7%B4%AB%E7%98%A6%E5%BE%97%E8%84%B1%E7%9B%B8%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [黄晓明用AI换杨迪脸给黄明昊打电话](https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%93%E6%98%8E%E7%94%A8AI%E6%8D%A2%E6%9D%A8%E8%BF%AA%E8%84%B8%E7%BB%99%E9%BB%84%E6%98%8E%E6%98%8A%E6%89%93%E7%94%B5%E8%AF%9D&t=31&band_rank=6&Refer=top)<br />
-7. [何炅问丁程鑫弟弟能不在地上吗](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E9%97%AE%E4%B8%81%E7%A8%8B%E9%91%AB%E5%BC%9F%E5%BC%9F%E8%83%BD%E4%B8%8D%E5%9C%A8%E5%9C%B0%E4%B8%8A%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [杜锋故意损坏辽篮主场LED屏幕](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E9%94%8B%E6%95%85%E6%84%8F%E6%8D%9F%E5%9D%8F%E8%BE%BD%E7%AF%AE%E4%B8%BB%E5%9C%BALED%E5%B1%8F%E5%B9%95%23&t=31&band_rank=8&Refer=top)<br />
+7. [杜锋故意损坏辽篮主场LED屏幕](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E9%94%8B%E6%95%85%E6%84%8F%E6%8D%9F%E5%9D%8F%E8%BE%BD%E7%AF%AE%E4%B8%BB%E5%9C%BALED%E5%B1%8F%E5%B9%95%23&t=31&band_rank=7&Refer=top)<br />
+8. [何炅问丁程鑫弟弟能不在地上吗](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E9%97%AE%E4%B8%81%E7%A8%8B%E9%91%AB%E5%BC%9F%E5%BC%9F%E8%83%BD%E4%B8%8D%E5%9C%A8%E5%9C%B0%E4%B8%8A%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [盘点河南多地哄抢事件通报](https://s.weibo.com/weibo?q=%23%E7%9B%98%E7%82%B9%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%93%84%E6%8A%A2%E4%BA%8B%E4%BB%B6%E9%80%9A%E6%8A%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
