@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 19:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 19:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [JDG晋级S13四强](https://s.weibo.com/weibo?q=%23JDG%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [快递车侧翻公交司机乘客掀车救人](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E8%BD%A6%E4%BE%A7%E7%BF%BB%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E4%B9%98%E5%AE%A2%E6%8E%80%E8%BD%A6%E6%95%91%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [尺帝太c了](https://s.weibo.com/weibo?q=%E5%B0%BA%E5%B8%9D%E5%A4%AAc%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [JDG醒了](https://s.weibo.com/weibo?q=%23JDG%E9%86%92%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [T1 压力](https://s.weibo.com/weibo?q=T1%20%E5%8E%8B%E5%8A%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
