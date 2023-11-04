@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 18:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 18:16:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [专属秋天的多巴胺配色](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%B1%9E%E7%A7%8B%E5%A4%A9%E7%9A%84%E5%A4%9A%E5%B7%B4%E8%83%BA%E9%85%8D%E8%89%B2%23&t=31&band_rank=3&Refer=top)<br />
 4. [北大宿舍聊天 婚姻残酷真相](https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E5%AE%BF%E8%88%8D%E8%81%8A%E5%A4%A9%20%E5%A9%9A%E5%A7%BB%E6%AE%8B%E9%85%B7%E7%9C%9F%E7%9B%B8&t=31&band_rank=4&Refer=top)<br />
 5. [西湖里来了50多只小鷿鷈](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%B9%96%E9%87%8C%E6%9D%A5%E4%BA%8650%E5%A4%9A%E5%8F%AA%E5%B0%8F%E9%B7%BF%E9%B7%88%23&t=31&band_rank=5&Refer=top)<br />
-6. [宋亚轩买游戏账号被骗钱](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E4%B9%B0%E6%B8%B8%E6%88%8F%E8%B4%A6%E5%8F%B7%E8%A2%AB%E9%AA%97%E9%92%B1%23&t=31&band_rank=6&Refer=top)<br />
+6. [难看](https://s.weibo.com/weibo?q=%E9%9A%BE%E7%9C%8B&t=31&band_rank=6&Refer=top)<br />
 7. [快递车侧翻公交司机乘客掀车救人](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E8%BD%A6%E4%BE%A7%E7%BF%BB%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E4%B9%98%E5%AE%A2%E6%8E%80%E8%BD%A6%E6%95%91%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [难看](https://s.weibo.com/weibo?q=%E9%9A%BE%E7%9C%8B&t=31&band_rank=8&Refer=top)<br />
+8. [宋亚轩买游戏账号被骗钱](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E4%B9%B0%E6%B8%B8%E6%88%8F%E8%B4%A6%E5%8F%B7%E8%A2%AB%E9%AA%97%E9%92%B1%23&t=31&band_rank=8&Refer=top)<br />
 9. [大连人降级](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E4%BA%BA%E9%99%8D%E7%BA%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
