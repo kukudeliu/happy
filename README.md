@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 13:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 13:20:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [原来时宴是雪姨和陆振华生的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%97%B6%E5%AE%B4%E6%98%AF%E9%9B%AA%E5%A7%A8%E5%92%8C%E9%99%86%E6%8C%AF%E5%8D%8E%E7%94%9F%E7%9A%84&t=31&band_rank=2&Refer=top)<br />
 3. [深秋时节的诗情画意](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E7%A7%8B%E6%97%B6%E8%8A%82%E7%9A%84%E8%AF%97%E6%83%85%E7%94%BB%E6%84%8F%23&t=31&band_rank=3&Refer=top)<br />
 4. [难看](https://s.weibo.com/weibo?q=%E9%9A%BE%E7%9C%8B&t=31&band_rank=4&Refer=top)<br />
-5. [谢娜说杨紫瘦得脱相了](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E8%AF%B4%E6%9D%A8%E7%B4%AB%E7%98%A6%E5%BE%97%E8%84%B1%E7%9B%B8%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [加沙孩子被迫喝平时驴都不喝的水](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%AD%A9%E5%AD%90%E8%A2%AB%E8%BF%AB%E5%96%9D%E5%B9%B3%E6%97%B6%E9%A9%B4%E9%83%BD%E4%B8%8D%E5%96%9D%E7%9A%84%E6%B0%B4%23&t=31&band_rank=6&Refer=top)<br />
+5. [加沙孩子被迫喝平时驴都不喝的水](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%AD%A9%E5%AD%90%E8%A2%AB%E8%BF%AB%E5%96%9D%E5%B9%B3%E6%97%B6%E9%A9%B4%E9%83%BD%E4%B8%8D%E5%96%9D%E7%9A%84%E6%B0%B4%23&t=31&band_rank=5&Refer=top)<br />
+6. [谢娜说杨紫瘦得脱相了](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E8%AF%B4%E6%9D%A8%E7%B4%AB%E7%98%A6%E5%BE%97%E8%84%B1%E7%9B%B8%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [官方回应昆明2名环卫工在垃圾站身亡](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%86%E6%98%8E2%E5%90%8D%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%9C%A8%E5%9E%83%E5%9C%BE%E7%AB%99%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [黄晓明用AI换杨迪脸给黄明昊打电话](https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%93%E6%98%8E%E7%94%A8AI%E6%8D%A2%E6%9D%A8%E8%BF%AA%E8%84%B8%E7%BB%99%E9%BB%84%E6%98%8E%E6%98%8A%E6%89%93%E7%94%B5%E8%AF%9D&t=31&band_rank=8&Refer=top)<br />
+8. [网红铁头向东方甄选道歉](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E5%90%91%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
 9. [为避免致癌使用不粘锅注意这8点](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E9%81%BF%E5%85%8D%E8%87%B4%E7%99%8C%E4%BD%BF%E7%94%A8%E4%B8%8D%E7%B2%98%E9%94%85%E6%B3%A8%E6%84%8F%E8%BF%998%E7%82%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
