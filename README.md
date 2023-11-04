@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 23:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 23:24:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [硬卧车厢吃饭吃出满汉全席的气势](https://www.baidu.com/s?wd=%E7%A1%AC%E5%8D%A7%E8%BD%A6%E5%8E%A2%E5%90%83%E9%A5%AD%E5%90%83%E5%87%BA%E6%BB%A1%E6%B1%89%E5%85%A8%E5%B8%AD%E7%9A%84%E6%B0%94%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从乡村消费增速感受活力中国](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B9%A1%E6%9D%91%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%80%9F%E6%84%9F%E5%8F%97%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [18岁女生“洗剪吹”后大哭](https://www.baidu.com/s?wd=18%E5%B2%81%E5%A5%B3%E7%94%9F%E2%80%9C%E6%B4%97%E5%89%AA%E5%90%B9%E2%80%9D%E5%90%8E%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子全麻术后被好友轮流拿喇叭叫醒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%A8%E9%BA%BB%E6%9C%AF%E5%90%8E%E8%A2%AB%E5%A5%BD%E5%8F%8B%E8%BD%AE%E6%B5%81%E6%8B%BF%E5%96%87%E5%8F%AD%E5%8F%AB%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杭州天空现链状不明飞行物](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A4%A9%E7%A9%BA%E7%8E%B0%E9%93%BE%E7%8A%B6%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [迪丽热巴ELLE盛典造型引争议](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4ELLE%E7%9B%9B%E5%85%B8%E9%80%A0%E5%9E%8B%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [广东地震市民抱孩子到街上避险](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87%E5%B8%82%E6%B0%91%E6%8A%B1%E5%AD%A9%E5%AD%90%E5%88%B0%E8%A1%97%E4%B8%8A%E9%81%BF%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子全麻术后被好友轮流拿喇叭叫醒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%A8%E9%BA%BB%E6%9C%AF%E5%90%8E%E8%A2%AB%E5%A5%BD%E5%8F%8B%E8%BD%AE%E6%B5%81%E6%8B%BF%E5%96%87%E5%8F%AD%E5%8F%AB%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [助学金争议当事人要求处罚相关人员](https://www.baidu.com/s?wd=%E5%8A%A9%E5%AD%A6%E9%87%91%E4%BA%89%E8%AE%AE%E5%BD%93%E4%BA%8B%E4%BA%BA%E8%A6%81%E6%B1%82%E5%A4%84%E7%BD%9A%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [硬卧车厢吃饭吃出满汉全席的气势](https://www.baidu.com/s?wd=%E7%A1%AC%E5%8D%A7%E8%BD%A6%E5%8E%A2%E5%90%83%E9%A5%AD%E5%90%83%E5%87%BA%E6%BB%A1%E6%B1%89%E5%85%A8%E5%B8%AD%E7%9A%84%E6%B0%94%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从乡村消费增速感受活力中国](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B9%A1%E6%9D%91%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%80%9F%E6%84%9F%E5%8F%97%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [18岁女生“洗剪吹”后大哭](https://www.baidu.com/s?wd=18%E5%B2%81%E5%A5%B3%E7%94%9F%E2%80%9C%E6%B4%97%E5%89%AA%E5%90%B9%E2%80%9D%E5%90%8E%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子全麻术后被好友轮流拿喇叭叫醒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%A8%E9%BA%BB%E6%9C%AF%E5%90%8E%E8%A2%AB%E5%A5%BD%E5%8F%8B%E8%BD%AE%E6%B5%81%E6%8B%BF%E5%96%87%E5%8F%AD%E5%8F%AB%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杭州天空现链状不明飞行物](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A4%A9%E7%A9%BA%E7%8E%B0%E9%93%BE%E7%8A%B6%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [迪丽热巴ELLE盛典造型引争议](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4ELLE%E7%9B%9B%E5%85%B8%E9%80%A0%E5%9E%8B%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [广东地震市民抱孩子到街上避险](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87%E5%B8%82%E6%B0%91%E6%8A%B1%E5%AD%A9%E5%AD%90%E5%88%B0%E8%A1%97%E4%B8%8A%E9%81%BF%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子全麻术后被好友轮流拿喇叭叫醒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%A8%E9%BA%BB%E6%9C%AF%E5%90%8E%E8%A2%AB%E5%A5%BD%E5%8F%8B%E8%BD%AE%E6%B5%81%E6%8B%BF%E5%96%87%E5%8F%AD%E5%8F%AB%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [助学金争议当事人要求处罚相关人员](https://www.baidu.com/s?wd=%E5%8A%A9%E5%AD%A6%E9%87%91%E4%BA%89%E8%AE%AE%E5%BD%93%E4%BA%8B%E4%BA%BA%E8%A6%81%E6%B1%82%E5%A4%84%E7%BD%9A%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
