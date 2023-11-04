@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 18:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 18:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [难看](https://s.weibo.com/weibo?q=%E9%9A%BE%E7%9C%8B&t=31&band_rank=6&Refer=top)<br />
 7. [快递车侧翻公交司机乘客掀车救人](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E8%BD%A6%E4%BE%A7%E7%BF%BB%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E4%B9%98%E5%AE%A2%E6%8E%80%E8%BD%A6%E6%95%91%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [秦岚辛芷蕾随地大小吵](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%BE%9B%E8%8A%B7%E8%95%BE%E9%9A%8F%E5%9C%B0%E5%A4%A7%E5%B0%8F%E5%90%B5%23&t=31&band_rank=8&Refer=top)<br />
-9. [JDG醒了](https://s.weibo.com/weibo?q=%23JDG%E9%86%92%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [彩带下的杨幂](https://s.weibo.com/weibo?q=%23%E5%BD%A9%E5%B8%A6%E4%B8%8B%E7%9A%84%E6%9D%A8%E5%B9%82%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
