@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 20:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 20:05:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [专属秋天的多巴胺配色](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%B1%9E%E7%A7%8B%E5%A4%A9%E7%9A%84%E5%A4%9A%E5%B7%B4%E8%83%BA%E9%85%8D%E8%89%B2%23&t=31&band_rank=3&Refer=top)<br />
 4. [T1 压力](https://s.weibo.com/weibo?q=T1%20%E5%8E%8B%E5%8A%9B&t=31&band_rank=4&Refer=top)<br />
 5. [炮车立功](https://s.weibo.com/weibo?q=%23%E7%82%AE%E8%BD%A6%E7%AB%8B%E5%8A%9F%23&t=31&band_rank=5&Refer=top)<br />
-6. [尺帝太c了](https://s.weibo.com/weibo?q=%E5%B0%BA%E5%B8%9D%E5%A4%AAc%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [联合国称缅北数百人越境逃入中国](https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%B0%E7%BC%85%E5%8C%97%E6%95%B0%E7%99%BE%E4%BA%BA%E8%B6%8A%E5%A2%83%E9%80%83%E5%85%A5%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [JDG晋级S13四强](https://s.weibo.com/weibo?q=%23JDG%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [北大宿舍聊天 婚姻残酷真相](https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E5%AE%BF%E8%88%8D%E8%81%8A%E5%A4%A9%20%E5%A9%9A%E5%A7%BB%E6%AE%8B%E9%85%B7%E7%9C%9F%E7%9B%B8&t=31&band_rank=9&Refer=top)<br />
+6. [联合国称缅北数百人越境逃入中国](https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%B0%E7%BC%85%E5%8C%97%E6%95%B0%E7%99%BE%E4%BA%BA%E8%B6%8A%E5%A2%83%E9%80%83%E5%85%A5%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
+7. [尺帝太c了](https://s.weibo.com/weibo?q=%E5%B0%BA%E5%B8%9D%E5%A4%AAc%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [尼泊尔6.4级地震](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%B3%8A%E5%B0%946.4%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [JDG晋级S13四强](https://s.weibo.com/weibo?q=%23JDG%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
