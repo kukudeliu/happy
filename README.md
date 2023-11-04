@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 10:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 10:51:01</h4></div>
 
 > 微博  
 
-1. [猪肉直接放酱油中泡2天](https://s.weibo.com/weibo?q=%E7%8C%AA%E8%82%89%E7%9B%B4%E6%8E%A5%E6%94%BE%E9%85%B1%E6%B2%B9%E4%B8%AD%E6%B3%A12%E5%A4%A9&t=31&band_rank=1&Refer=top)<br />
-2. [时宴的车不载有男朋友的女人](https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%AE%B4%E7%9A%84%E8%BD%A6%E4%B8%8D%E8%BD%BD%E6%9C%89%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%9A%84%E5%A5%B3%E4%BA%BA%23&t=31&band_rank=2&Refer=top)<br />
+1. [时宴的车不载有男朋友的女人](https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%AE%B4%E7%9A%84%E8%BD%A6%E4%B8%8D%E8%BD%BD%E6%9C%89%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%9A%84%E5%A5%B3%E4%BA%BA%23&t=31&band_rank=1&Refer=top)<br />
+2. [丫丫最近一直都在笑](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E6%9C%80%E8%BF%91%E4%B8%80%E7%9B%B4%E9%83%BD%E5%9C%A8%E7%AC%91%23&t=31&band_rank=2&Refer=top)<br />
 3. [第六届进博会亮点抢先看](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%85%AD%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%BA%AE%E7%82%B9%E6%8A%A2%E5%85%88%E7%9C%8B%23&t=31&band_rank=3&Refer=top)<br />
-4. [谢娜说杨紫瘦得脱相了](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E8%AF%B4%E6%9D%A8%E7%B4%AB%E7%98%A6%E5%BE%97%E8%84%B1%E7%9B%B8%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [丫丫最近一直都在笑](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E6%9C%80%E8%BF%91%E4%B8%80%E7%9B%B4%E9%83%BD%E5%9C%A8%E7%AC%91%23&t=31&band_rank=5&Refer=top)<br />
+4. [猪肉直接放酱油中泡2天](https://s.weibo.com/weibo?q=%E7%8C%AA%E8%82%89%E7%9B%B4%E6%8E%A5%E6%94%BE%E9%85%B1%E6%B2%B9%E4%B8%AD%E6%B3%A12%E5%A4%A9&t=31&band_rank=4&Refer=top)<br />
+5. [谢娜说杨紫瘦得脱相了](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E8%AF%B4%E6%9D%A8%E7%B4%AB%E7%98%A6%E5%BE%97%E8%84%B1%E7%9B%B8%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [黄晓明被说油的那阵赶上沈腾上网了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E8%A2%AB%E8%AF%B4%E6%B2%B9%E7%9A%84%E9%82%A3%E9%98%B5%E8%B5%B6%E4%B8%8A%E6%B2%88%E8%85%BE%E4%B8%8A%E7%BD%91%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩网评宋茜近况](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E8%AF%84%E5%AE%8B%E8%8C%9C%E8%BF%91%E5%86%B5%23&t=31&band_rank=7&Refer=top)<br />
 8. [煤矿隐瞒事故违法转运火化遗体问责36人](https://s.weibo.com/weibo?q=%23%E7%85%A4%E7%9F%BF%E9%9A%90%E7%9E%92%E4%BA%8B%E6%95%85%E8%BF%9D%E6%B3%95%E8%BD%AC%E8%BF%90%E7%81%AB%E5%8C%96%E9%81%97%E4%BD%93%E9%97%AE%E8%B4%A336%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
