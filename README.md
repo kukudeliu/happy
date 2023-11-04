@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 16:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 16:58:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [难看](https://s.weibo.com/weibo?q=%E9%9A%BE%E7%9C%8B&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴换手机壳庆祝入住大床房](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8D%A2%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%BA%86%E7%A5%9D%E5%85%A5%E4%BD%8F%E5%A4%A7%E5%BA%8A%E6%88%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [上市公司5995万存款不见了](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B85995%E4%B8%87%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%A7%81%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [孙颖莎 淋雨一直走](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%20%E6%B7%8B%E9%9B%A8%E4%B8%80%E7%9B%B4%E8%B5%B0&t=31&band_rank=8&Refer=top)<br />
-9. [女童上幼儿园19天8天没有早饭](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E4%B8%8A%E5%B9%BC%E5%84%BF%E5%9B%AD19%E5%A4%A98%E5%A4%A9%E6%B2%A1%E6%9C%89%E6%97%A9%E9%A5%AD%23&t=31&band_rank=9&Refer=top)<br />
+8. [女童上幼儿园19天8天没有早饭](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E4%B8%8A%E5%B9%BC%E5%84%BF%E5%9B%AD19%E5%A4%A98%E5%A4%A9%E6%B2%A1%E6%9C%89%E6%97%A9%E9%A5%AD%23&t=31&band_rank=8&Refer=top)<br />
+9. [孙颖莎 淋雨一直走](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%20%E6%B7%8B%E9%9B%A8%E4%B8%80%E7%9B%B4%E8%B5%B0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
