@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 08:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 08:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [陈若琳骑电车载全红婵被举报没头盔](https://www.baidu.com/s?wd=%E9%99%88%E8%8B%A5%E7%90%B3%E9%AA%91%E7%94%B5%E8%BD%A6%E8%BD%BD%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%A2%AB%E4%B8%BE%E6%8A%A5%E6%B2%A1%E5%A4%B4%E7%9B%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [迪丽热巴ELLE盛典造型引争议](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4ELLE%E7%9B%9B%E5%85%B8%E9%80%A0%E5%9E%8B%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王俊凯问校门口的大哥还认不认得他](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%97%AE%E6%A0%A1%E9%97%A8%E5%8F%A3%E7%9A%84%E5%A4%A7%E5%93%A5%E8%BF%98%E8%AE%A4%E4%B8%8D%E8%AE%A4%E5%BE%97%E4%BB%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [央媒：高校助学金不能是笔糊涂账](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E9%AB%98%E6%A0%A1%E5%8A%A9%E5%AD%A6%E9%87%91%E4%B8%8D%E8%83%BD%E6%98%AF%E7%AC%94%E7%B3%8A%E6%B6%82%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女婴被投喂3颗阳光玫瑰致肠梗阻](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A9%B4%E8%A2%AB%E6%8A%95%E5%96%823%E9%A2%97%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E8%87%B4%E8%82%A0%E6%A2%97%E9%98%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙岳麓山有人被拐缅甸？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%B2%B3%E9%BA%93%E5%B1%B1%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%8B%90%E7%BC%85%E7%94%B8%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [陈若琳骑电车载全红婵被举报没头盔](https://www.baidu.com/s?wd=%E9%99%88%E8%8B%A5%E7%90%B3%E9%AA%91%E7%94%B5%E8%BD%A6%E8%BD%BD%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%A2%AB%E4%B8%BE%E6%8A%A5%E6%B2%A1%E5%A4%B4%E7%9B%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [迪丽热巴ELLE盛典造型引争议](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4ELLE%E7%9B%9B%E5%85%B8%E9%80%A0%E5%9E%8B%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王俊凯问校门口的大哥还认不认得他](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%97%AE%E6%A0%A1%E9%97%A8%E5%8F%A3%E7%9A%84%E5%A4%A7%E5%93%A5%E8%BF%98%E8%AE%A4%E4%B8%8D%E8%AE%A4%E5%BE%97%E4%BB%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [央媒：高校助学金不能是笔糊涂账](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E9%AB%98%E6%A0%A1%E5%8A%A9%E5%AD%A6%E9%87%91%E4%B8%8D%E8%83%BD%E6%98%AF%E7%AC%94%E7%B3%8A%E6%B6%82%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女婴被投喂3颗阳光玫瑰致肠梗阻](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A9%B4%E8%A2%AB%E6%8A%95%E5%96%823%E9%A2%97%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E8%87%B4%E8%82%A0%E6%A2%97%E9%98%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙岳麓山有人被拐缅甸？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%B2%B3%E9%BA%93%E5%B1%B1%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%8B%90%E7%BC%85%E7%94%B8%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
