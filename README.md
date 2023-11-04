@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 23:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 23:09:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [深秋时节的诗情画意](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E7%A7%8B%E6%97%B6%E8%8A%82%E7%9A%84%E8%AF%97%E6%83%85%E7%94%BB%E6%84%8F%23&t=31&band_rank=3&Refer=top)<br />
 4. [压力给到LNG](https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0LNG%23&t=31&band_rank=4&Refer=top)<br />
 5. [进击的巨人](https://s.weibo.com/weibo?q=%E8%BF%9B%E5%87%BB%E7%9A%84%E5%B7%A8%E4%BA%BA&t=31&band_rank=5&Refer=top)<br />
-6. [T1 压力](https://s.weibo.com/weibo?q=T1%20%E5%8E%8B%E5%8A%9B&t=31&band_rank=6&Refer=top)<br />
-7. [福建男篮浙江男篮赛后冲突](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E7%94%B7%E7%AF%AE%E6%B5%99%E6%B1%9F%E7%94%B7%E7%AF%AE%E8%B5%9B%E5%90%8E%E5%86%B2%E7%AA%81%23&t=31&band_rank=7&Refer=top)<br />
+6. [福建男篮浙江男篮赛后冲突](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E7%94%B7%E7%AF%AE%E6%B5%99%E6%B1%9F%E7%94%B7%E7%AF%AE%E8%B5%9B%E5%90%8E%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top)<br />
+7. [T1 压力](https://s.weibo.com/weibo?q=T1%20%E5%8E%8B%E5%8A%9B&t=31&band_rank=7&Refer=top)<br />
 8. [她的十八岁和我一样安静和痛苦吗](https://s.weibo.com/weibo?q=%E5%A5%B9%E7%9A%84%E5%8D%81%E5%85%AB%E5%B2%81%E5%92%8C%E6%88%91%E4%B8%80%E6%A0%B7%E5%AE%89%E9%9D%99%E5%92%8C%E7%97%9B%E8%8B%A6%E5%90%97&t=31&band_rank=8&Refer=top)<br />
 9. [沈腾扶杨幂下楼梯](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E6%89%B6%E6%9D%A8%E5%B9%82%E4%B8%8B%E6%A5%BC%E6%A2%AF%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -22,9 +22,9 @@
 3. [硬卧车厢吃饭吃出满汉全席的气势](https://www.baidu.com/s?wd=%E7%A1%AC%E5%8D%A7%E8%BD%A6%E5%8E%A2%E5%90%83%E9%A5%AD%E5%90%83%E5%87%BA%E6%BB%A1%E6%B1%89%E5%85%A8%E5%B8%AD%E7%9A%84%E6%B0%94%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从乡村消费增速感受活力中国](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B9%A1%E6%9D%91%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%80%9F%E6%84%9F%E5%8F%97%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [18岁女生“洗剪吹”后大哭](https://www.baidu.com/s?wd=18%E5%B2%81%E5%A5%B3%E7%94%9F%E2%80%9C%E6%B4%97%E5%89%AA%E5%90%B9%E2%80%9D%E5%90%8E%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [入秋以来首个暴雪橙色预警发布](https://www.baidu.com/s?wd=%E5%85%A5%E7%A7%8B%E4%BB%A5%E6%9D%A5%E9%A6%96%E4%B8%AA%E6%9A%B4%E9%9B%AA%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杭州天空现链状不明飞行物](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A4%A9%E7%A9%BA%E7%8E%B0%E9%93%BE%E7%8A%B6%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被要求加3万彩礼退婚当事人回应恶评](https://www.baidu.com/s?wd=%E8%A2%AB%E8%A6%81%E6%B1%82%E5%8A%A03%E4%B8%87%E5%BD%A9%E7%A4%BC%E9%80%80%E5%A9%9A%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%81%B6%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子酒后憋尿摔倒致膀胱破裂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%85%92%E5%90%8E%E6%86%8B%E5%B0%BF%E6%91%94%E5%80%92%E8%87%B4%E8%86%80%E8%83%B1%E7%A0%B4%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [今年已有40个“老虎”落马](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%B7%B2%E6%9C%8940%E4%B8%AA%E2%80%9C%E8%80%81%E8%99%8E%E2%80%9D%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杭州天空现链状不明飞行物](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A4%A9%E7%A9%BA%E7%8E%B0%E9%93%BE%E7%8A%B6%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [硬卧车厢吃饭吃出满汉全席的气势](https://www.baidu.com/s?wd=%E7%A1%AC%E5%8D%A7%E8%BD%A6%E5%8E%A2%E5%90%83%E9%A5%AD%E5%90%83%E5%87%BA%E6%BB%A1%E6%B1%89%E5%85%A8%E5%B8%AD%E7%9A%84%E6%B0%94%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从乡村消费增速感受活力中国](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B9%A1%E6%9D%91%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%80%9F%E6%84%9F%E5%8F%97%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [18岁女生“洗剪吹”后大哭](https://www.baidu.com/s?wd=18%E5%B2%81%E5%A5%B3%E7%94%9F%E2%80%9C%E6%B4%97%E5%89%AA%E5%90%B9%E2%80%9D%E5%90%8E%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [入秋以来首个暴雪橙色预警发布](https://www.baidu.com/s?wd=%E5%85%A5%E7%A7%8B%E4%BB%A5%E6%9D%A5%E9%A6%96%E4%B8%AA%E6%9A%B4%E9%9B%AA%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杭州天空现链状不明飞行物](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A4%A9%E7%A9%BA%E7%8E%B0%E9%93%BE%E7%8A%B6%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被要求加3万彩礼退婚当事人回应恶评](https://www.baidu.com/s?wd=%E8%A2%AB%E8%A6%81%E6%B1%82%E5%8A%A03%E4%B8%87%E5%BD%A9%E7%A4%BC%E9%80%80%E5%A9%9A%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%81%B6%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子酒后憋尿摔倒致膀胱破裂](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%85%92%E5%90%8E%E6%86%8B%E5%B0%BF%E6%91%94%E5%80%92%E8%87%B4%E8%86%80%E8%83%B1%E7%A0%B4%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [今年已有40个“老虎”落马](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%B7%B2%E6%9C%8940%E4%B8%AA%E2%80%9C%E8%80%81%E8%99%8E%E2%80%9D%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杭州天空现链状不明飞行物](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A4%A9%E7%A9%BA%E7%8E%B0%E9%93%BE%E7%8A%B6%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
