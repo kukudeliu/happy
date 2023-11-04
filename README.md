@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 05:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 05:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [进击的巨人](https://s.weibo.com/weibo?q=%E8%BF%9B%E5%87%BB%E7%9A%84%E5%B7%A8%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
 7. [王曼昱 医疗暂停](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%20%E5%8C%BB%E7%96%97%E6%9A%82%E5%81%9C&t=31&band_rank=7&Refer=top)<br />
 8. [孙颖莎vs王艺迪](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E8%89%BA%E8%BF%AA&t=31&band_rank=8&Refer=top)<br />
-9. [世界冠军不可怕 谁不四强谁尴尬](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E4%B8%8D%E5%8F%AF%E6%80%95%20%E8%B0%81%E4%B8%8D%E5%9B%9B%E5%BC%BA%E8%B0%81%E5%B0%B4%E5%B0%AC&t=31&band_rank=9&Refer=top)<br />
+9. [林昀儒没想到自己能赢](https://s.weibo.com/weibo?q=%E6%9E%97%E6%98%80%E5%84%92%E6%B2%A1%E6%83%B3%E5%88%B0%E8%87%AA%E5%B7%B1%E8%83%BD%E8%B5%A2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
