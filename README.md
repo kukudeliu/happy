@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 11:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 11:46:01</h4></div>
 
 > 微博  
 
@@ -20,7 +20,7 @@
 1. [继续实施一带一路科技创新行动计划](https://www.baidu.com/s?wd=%E7%BB%A7%E7%BB%AD%E5%AE%9E%E6%96%BD%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E8%A1%8C%E5%8A%A8%E8%AE%A1%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [取已故亲人600元存款花800元开证明](https://www.baidu.com/s?wd=%E5%8F%96%E5%B7%B2%E6%95%85%E4%BA%B2%E4%BA%BA600%E5%85%83%E5%AD%98%E6%AC%BE%E8%8A%B1800%E5%85%83%E5%BC%80%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [学生称被蜜雪冰城店主3岁儿子骚扰](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%A7%B0%E8%A2%AB%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%BA%97%E4%B8%BB3%E5%B2%81%E5%84%BF%E5%AD%90%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [全球共赴东方之约](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%85%B1%E8%B5%B4%E4%B8%9C%E6%96%B9%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [“进博老友”再度相约](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%9B%E5%8D%9A%E8%80%81%E5%8F%8B%E2%80%9D%E5%86%8D%E5%BA%A6%E7%9B%B8%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [小伙在自家厕所里建海洋馆隐居6年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%8E%95%E6%89%80%E9%87%8C%E5%BB%BA%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%9A%90%E5%B1%856%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [昆明两名环卫工人在垃圾站身亡](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E4%B8%A4%E5%90%8D%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%E5%9C%A8%E5%9E%83%E5%9C%BE%E7%AB%99%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [桂林航空疑停航 市政府已成立专班](https://www.baidu.com/s?wd=%E6%A1%82%E6%9E%97%E8%88%AA%E7%A9%BA%E7%96%91%E5%81%9C%E8%88%AA+%E5%B8%82%E6%94%BF%E5%BA%9C%E5%B7%B2%E6%88%90%E7%AB%8B%E4%B8%93%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -32,7 +32,7 @@
 1. [继续实施一带一路科技创新行动计划](https://www.baidu.com/s?wd=%E7%BB%A7%E7%BB%AD%E5%AE%9E%E6%96%BD%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E8%A1%8C%E5%8A%A8%E8%AE%A1%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [取已故亲人600元存款花800元开证明](https://www.baidu.com/s?wd=%E5%8F%96%E5%B7%B2%E6%95%85%E4%BA%B2%E4%BA%BA600%E5%85%83%E5%AD%98%E6%AC%BE%E8%8A%B1800%E5%85%83%E5%BC%80%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [学生称被蜜雪冰城店主3岁儿子骚扰](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%A7%B0%E8%A2%AB%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%BA%97%E4%B8%BB3%E5%B2%81%E5%84%BF%E5%AD%90%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [全球共赴东方之约](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%85%B1%E8%B5%B4%E4%B8%9C%E6%96%B9%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [“进博老友”再度相约](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%9B%E5%8D%9A%E8%80%81%E5%8F%8B%E2%80%9D%E5%86%8D%E5%BA%A6%E7%9B%B8%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [小伙在自家厕所里建海洋馆隐居6年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%8E%95%E6%89%80%E9%87%8C%E5%BB%BA%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%9A%90%E5%B1%856%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [昆明两名环卫工人在垃圾站身亡](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E4%B8%A4%E5%90%8D%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%E5%9C%A8%E5%9E%83%E5%9C%BE%E7%AB%99%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [桂林航空疑停航 市政府已成立专班](https://www.baidu.com/s?wd=%E6%A1%82%E6%9E%97%E8%88%AA%E7%A9%BA%E7%96%91%E5%81%9C%E8%88%AA+%E5%B8%82%E6%94%BF%E5%BA%9C%E5%B7%B2%E6%88%90%E7%AB%8B%E4%B8%93%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
