@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 17:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 17:46:02</h4></div>
 
 > 微博  
 
 1. [北大宿舍聊天 婚姻残酷真相](https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E5%AE%BF%E8%88%8D%E8%81%8A%E5%A4%A9%20%E5%A9%9A%E5%A7%BB%E6%AE%8B%E9%85%B7%E7%9C%9F%E7%9B%B8&t=31&band_rank=1&Refer=top)<br />
 2. [宋亚轩买游戏账号被骗钱](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E4%B9%B0%E6%B8%B8%E6%88%8F%E8%B4%A6%E5%8F%B7%E8%A2%AB%E9%AA%97%E9%92%B1%23&t=31&band_rank=2&Refer=top)<br />
 3. [专属秋天的多巴胺配色](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%B1%9E%E7%A7%8B%E5%A4%A9%E7%9A%84%E5%A4%9A%E5%B7%B4%E8%83%BA%E9%85%8D%E8%89%B2%23&t=31&band_rank=3&Refer=top)<br />
-4. [郑书意目睹男友出轨](https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B9%A6%E6%84%8F%E7%9B%AE%E7%9D%B9%E7%94%B7%E5%8F%8B%E5%87%BA%E8%BD%A8%23&t=31&band_rank=4&Refer=top)<br />
-5. [难看](https://s.weibo.com/weibo?q=%E9%9A%BE%E7%9C%8B&t=31&band_rank=5&Refer=top)<br />
+4. [难看](https://s.weibo.com/weibo?q=%E9%9A%BE%E7%9C%8B&t=31&band_rank=4&Refer=top)<br />
+5. [郑书意目睹男友出轨](https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B9%A6%E6%84%8F%E7%9B%AE%E7%9D%B9%E7%94%B7%E5%8F%8B%E5%87%BA%E8%BD%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [上市公司5995万存款不见了](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B85995%E4%B8%87%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%A7%81%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴换手机壳庆祝入住大床房](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8D%A2%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%BA%86%E7%A5%9D%E5%85%A5%E4%BD%8F%E5%A4%A7%E5%BA%8A%E6%88%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [大连人](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%BF%9E%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [金融工作怎么干？梳理新部署](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E5%B7%A5%E4%BD%9C%E6%80%8E%E4%B9%88%E5%B9%B2%EF%BC%9F%E6%A2%B3%E7%90%86%E6%96%B0%E9%83%A8%E7%BD%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平多次阐明中国扩大开放的决心](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%9A%E6%AC%A1%E9%98%90%E6%98%8E%E4%B8%AD%E5%9B%BD%E6%89%A9%E5%A4%A7%E5%BC%80%E6%94%BE%E7%9A%84%E5%86%B3%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [爸妈看电视才知女儿是战地记者](https://www.baidu.com/s?wd=%E7%88%B8%E5%A6%88%E7%9C%8B%E7%94%B5%E8%A7%86%E6%89%8D%E7%9F%A5%E5%A5%B3%E5%84%BF%E6%98%AF%E6%88%98%E5%9C%B0%E8%AE%B0%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [上市公司5995万存款不见了](https://www.baidu.com/s?wd=%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B85995%E4%B8%87%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%A7%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [不断开创新时代金融工作新局面](https://www.baidu.com/s?wd=%E4%B8%8D%E6%96%AD%E5%BC%80%E5%88%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E9%87%91%E8%9E%8D%E5%B7%A5%E4%BD%9C%E6%96%B0%E5%B1%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [金融工作怎么干？梳理新部署](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E5%B7%A5%E4%BD%9C%E6%80%8E%E4%B9%88%E5%B9%B2%EF%BC%9F%E6%A2%B3%E7%90%86%E6%96%B0%E9%83%A8%E7%BD%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平多次阐明中国扩大开放的决心](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%9A%E6%AC%A1%E9%98%90%E6%98%8E%E4%B8%AD%E5%9B%BD%E6%89%A9%E5%A4%A7%E5%BC%80%E6%94%BE%E7%9A%84%E5%86%B3%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [爸妈看电视才知女儿是战地记者](https://www.baidu.com/s?wd=%E7%88%B8%E5%A6%88%E7%9C%8B%E7%94%B5%E8%A7%86%E6%89%8D%E7%9F%A5%E5%A5%B3%E5%84%BF%E6%98%AF%E6%88%98%E5%9C%B0%E8%AE%B0%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [上市公司5995万存款不见了](https://www.baidu.com/s?wd=%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B85995%E4%B8%87%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%A7%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [不断开创新时代金融工作新局面](https://www.baidu.com/s?wd=%E4%B8%8D%E6%96%AD%E5%BC%80%E5%88%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E9%87%91%E8%9E%8D%E5%B7%A5%E4%BD%9C%E6%96%B0%E5%B1%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
