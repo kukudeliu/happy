@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 11:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 11:38:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [学生称被蜜雪冰城店主3岁儿子骚扰](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%A7%B0%E8%A2%AB%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%BA%97%E4%B8%BB3%E5%B2%81%E5%84%BF%E5%AD%90%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全球共赴东方之约](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%85%B1%E8%B5%B4%E4%B8%9C%E6%96%B9%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [小伙在自家厕所里建海洋馆隐居6年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%8E%95%E6%89%80%E9%87%8C%E5%BB%BA%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%9A%90%E5%B1%856%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [全村唯一拥有电话手表的小狗](https://www.baidu.com/s?wd=%E5%85%A8%E6%9D%91%E5%94%AF%E4%B8%80%E6%8B%A5%E6%9C%89%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E7%9A%84%E5%B0%8F%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广东4个世仇村解除百年不通婚旧约](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C4%E4%B8%AA%E4%B8%96%E4%BB%87%E6%9D%91%E8%A7%A3%E9%99%A4%E7%99%BE%E5%B9%B4%E4%B8%8D%E9%80%9A%E5%A9%9A%E6%97%A7%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [昆明两名环卫工人在垃圾站身亡](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E4%B8%A4%E5%90%8D%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%E5%9C%A8%E5%9E%83%E5%9C%BE%E7%AB%99%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [昆明两名环卫工人在垃圾站身亡](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E4%B8%A4%E5%90%8D%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%E5%9C%A8%E5%9E%83%E5%9C%BE%E7%AB%99%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [全村唯一拥有电话手表的小狗](https://www.baidu.com/s?wd=%E5%85%A8%E6%9D%91%E5%94%AF%E4%B8%80%E6%8B%A5%E6%9C%89%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E7%9A%84%E5%B0%8F%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东4个世仇村解除百年不通婚旧约](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C4%E4%B8%AA%E4%B8%96%E4%BB%87%E6%9D%91%E8%A7%A3%E9%99%A4%E7%99%BE%E5%B9%B4%E4%B8%8D%E9%80%9A%E5%A9%9A%E6%97%A7%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天然气爆炸致多人死亡？谣言！](https://www.baidu.com/s?wd=%E5%A4%A9%E7%84%B6%E6%B0%94%E7%88%86%E7%82%B8%E8%87%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E8%B0%A3%E8%A8%80%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [学生称被蜜雪冰城店主3岁儿子骚扰](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%A7%B0%E8%A2%AB%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%BA%97%E4%B8%BB3%E5%B2%81%E5%84%BF%E5%AD%90%E9%AA%9A%E6%89%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全球共赴东方之约](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%85%B1%E8%B5%B4%E4%B8%9C%E6%96%B9%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [小伙在自家厕所里建海洋馆隐居6年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%8E%95%E6%89%80%E9%87%8C%E5%BB%BA%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%9A%90%E5%B1%856%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [全村唯一拥有电话手表的小狗](https://www.baidu.com/s?wd=%E5%85%A8%E6%9D%91%E5%94%AF%E4%B8%80%E6%8B%A5%E6%9C%89%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E7%9A%84%E5%B0%8F%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广东4个世仇村解除百年不通婚旧约](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C4%E4%B8%AA%E4%B8%96%E4%BB%87%E6%9D%91%E8%A7%A3%E9%99%A4%E7%99%BE%E5%B9%B4%E4%B8%8D%E9%80%9A%E5%A9%9A%E6%97%A7%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [昆明两名环卫工人在垃圾站身亡](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E4%B8%A4%E5%90%8D%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%E5%9C%A8%E5%9E%83%E5%9C%BE%E7%AB%99%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [昆明两名环卫工人在垃圾站身亡](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E4%B8%A4%E5%90%8D%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%E5%9C%A8%E5%9E%83%E5%9C%BE%E7%AB%99%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [全村唯一拥有电话手表的小狗](https://www.baidu.com/s?wd=%E5%85%A8%E6%9D%91%E5%94%AF%E4%B8%80%E6%8B%A5%E6%9C%89%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E7%9A%84%E5%B0%8F%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东4个世仇村解除百年不通婚旧约](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C4%E4%B8%AA%E4%B8%96%E4%BB%87%E6%9D%91%E8%A7%A3%E9%99%A4%E7%99%BE%E5%B9%B4%E4%B8%8D%E9%80%9A%E5%A9%9A%E6%97%A7%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天然气爆炸致多人死亡？谣言！](https://www.baidu.com/s?wd=%E5%A4%A9%E7%84%B6%E6%B0%94%E7%88%86%E7%82%B8%E8%87%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E8%B0%A3%E8%A8%80%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
