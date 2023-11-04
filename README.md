@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 02:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 02:04:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [林心如说紫薇演得好浮夸](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%83%E5%A6%82%E8%AF%B4%E7%B4%AB%E8%96%87%E6%BC%94%E5%BE%97%E5%A5%BD%E6%B5%AE%E5%A4%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [李佳琦公司招商专员收好处费超百万](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%85%AC%E5%8F%B8%E6%8B%9B%E5%95%86%E4%B8%93%E5%91%98%E6%94%B6%E5%A5%BD%E5%A4%84%E8%B4%B9%E8%B6%85%E7%99%BE%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦2比4林昀儒](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A62%E6%AF%944%E6%9E%97%E6%98%80%E5%84%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [谷爱凌官宣参赛世界杯崇礼站](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%AE%98%E5%AE%A3%E5%8F%82%E8%B5%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B4%87%E7%A4%BC%E7%AB%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [世界冠军不可怕 谁不四强谁尴尬](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E4%B8%8D%E5%8F%AF%E6%80%95%20%E8%B0%81%E4%B8%8D%E5%9B%9B%E5%BC%BA%E8%B0%81%E5%B0%B4%E5%B0%AC&t=31&band_rank=9&Refer=top)<br />
+8. [世界冠军不可怕 谁不四强谁尴尬](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E4%B8%8D%E5%8F%AF%E6%80%95%20%E8%B0%81%E4%B8%8D%E5%9B%9B%E5%BC%BA%E8%B0%81%E5%B0%B4%E5%B0%AC&t=31&band_rank=8&Refer=top)<br />
+9. [谷爱凌官宣参赛世界杯崇礼站](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%AE%98%E5%AE%A3%E5%8F%82%E8%B5%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B4%87%E7%A4%BC%E7%AB%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
