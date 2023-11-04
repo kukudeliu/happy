@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 10:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 10:16:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [丫丫最近一直都在笑](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E6%9C%80%E8%BF%91%E4%B8%80%E7%9B%B4%E9%83%BD%E5%9C%A8%E7%AC%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [韩网评宋茜近况](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E8%AF%84%E5%AE%8B%E8%8C%9C%E8%BF%91%E5%86%B5%23&t=31&band_rank=6&Refer=top)<br />
 7. [猪肉直接放酱油中泡2天](https://s.weibo.com/weibo?q=%E7%8C%AA%E8%82%89%E7%9B%B4%E6%8E%A5%E6%94%BE%E9%85%B1%E6%B2%B9%E4%B8%AD%E6%B3%A12%E5%A4%A9&t=31&band_rank=7&Refer=top)<br />
-8. [小伙在自家厕所里建海洋馆隐居6年](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%8E%95%E6%89%80%E9%87%8C%E5%BB%BA%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%9A%90%E5%B1%856%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [黄晓明被说油的那阵赶上沈腾上网了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E8%A2%AB%E8%AF%B4%E6%B2%B9%E7%9A%84%E9%82%A3%E9%98%B5%E8%B5%B6%E4%B8%8A%E6%B2%88%E8%85%BE%E4%B8%8A%E7%BD%91%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [黄晓明被说油的那阵赶上沈腾上网了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E8%A2%AB%E8%AF%B4%E6%B2%B9%E7%9A%84%E9%82%A3%E9%98%B5%E8%B5%B6%E4%B8%8A%E6%B2%88%E8%85%BE%E4%B8%8A%E7%BD%91%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [小伙在自家厕所里建海洋馆隐居6年](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%8E%95%E6%89%80%E9%87%8C%E5%BB%BA%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%9A%90%E5%B1%856%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
