@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 22:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 22:58:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [从乡村消费增速感受活力中国](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B9%A1%E6%9D%91%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%80%9F%E6%84%9F%E5%8F%97%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [18岁女生“洗剪吹”后大哭](https://www.baidu.com/s?wd=18%E5%B2%81%E5%A5%B3%E7%94%9F%E2%80%9C%E6%B4%97%E5%89%AA%E5%90%B9%E2%80%9D%E5%90%8E%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [外卖深夜千元牛杂汤疑为非法服务](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E6%B7%B1%E5%A4%9C%E5%8D%83%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E7%96%91%E4%B8%BA%E9%9D%9E%E6%B3%95%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美方证实已在以色列部署特种部队](https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%E8%AF%81%E5%AE%9E%E5%B7%B2%E5%9C%A8%E4%BB%A5%E8%89%B2%E5%88%97%E9%83%A8%E7%BD%B2%E7%89%B9%E7%A7%8D%E9%83%A8%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州天空现链状不明飞行物](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A4%A9%E7%A9%BA%E7%8E%B0%E9%93%BE%E7%8A%B6%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杭州天空现链状不明飞行物](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A4%A9%E7%A9%BA%E7%8E%B0%E9%93%BE%E7%8A%B6%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小伙在自家厕所里建海洋馆隐居6年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%8E%95%E6%89%80%E9%87%8C%E5%BB%BA%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%9A%90%E5%B1%856%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [从乡村消费增速感受活力中国](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B9%A1%E6%9D%91%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%80%9F%E6%84%9F%E5%8F%97%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [18岁女生“洗剪吹”后大哭](https://www.baidu.com/s?wd=18%E5%B2%81%E5%A5%B3%E7%94%9F%E2%80%9C%E6%B4%97%E5%89%AA%E5%90%B9%E2%80%9D%E5%90%8E%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [外卖深夜千元牛杂汤疑为非法服务](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E6%B7%B1%E5%A4%9C%E5%8D%83%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E7%96%91%E4%B8%BA%E9%9D%9E%E6%B3%95%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美方证实已在以色列部署特种部队](https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%E8%AF%81%E5%AE%9E%E5%B7%B2%E5%9C%A8%E4%BB%A5%E8%89%B2%E5%88%97%E9%83%A8%E7%BD%B2%E7%89%B9%E7%A7%8D%E9%83%A8%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州天空现链状不明飞行物](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A4%A9%E7%A9%BA%E7%8E%B0%E9%93%BE%E7%8A%B6%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杭州天空现链状不明飞行物](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A4%A9%E7%A9%BA%E7%8E%B0%E9%93%BE%E7%8A%B6%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小伙在自家厕所里建海洋馆隐居6年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%8E%95%E6%89%80%E9%87%8C%E5%BB%BA%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%9A%90%E5%B1%856%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
