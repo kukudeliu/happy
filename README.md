@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 02:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 02:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [世界冠军不可怕 谁不四强谁尴尬](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E4%B8%8D%E5%8F%AF%E6%80%95%20%E8%B0%81%E4%B8%8D%E5%9B%9B%E5%BC%BA%E8%B0%81%E5%B0%B4%E5%B0%AC&t=31&band_rank=6&Refer=top)<br />
 7. [林心如说紫薇演得好浮夸](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%83%E5%A6%82%E8%AF%B4%E7%B4%AB%E8%96%87%E6%BC%94%E5%BE%97%E5%A5%BD%E6%B5%AE%E5%A4%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [王楚钦2比4林昀儒](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A62%E6%AF%944%E6%9E%97%E6%98%80%E5%84%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [海苔咪来微博了](https://s.weibo.com/weibo?q=%E6%B5%B7%E8%8B%94%E5%92%AA%E6%9D%A5%E5%BE%AE%E5%8D%9A%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [T1 压力](https://s.weibo.com/weibo?q=T1%20%E5%8E%8B%E5%8A%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
