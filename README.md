@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 14:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 14:41:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [难看](https://s.weibo.com/weibo?q=%E9%9A%BE%E7%9C%8B&t=31&band_rank=4&Refer=top)<br />
 5. [迪丽热巴换手机壳庆祝入住大床房](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8D%A2%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%BA%86%E7%A5%9D%E5%85%A5%E4%BD%8F%E5%A4%A7%E5%BA%8A%E6%88%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [吴彤是抓住了闫妮的什么把柄吗](https://s.weibo.com/weibo?q=%E5%90%B4%E5%BD%A4%E6%98%AF%E6%8A%93%E4%BD%8F%E4%BA%86%E9%97%AB%E5%A6%AE%E7%9A%84%E4%BB%80%E4%B9%88%E6%8A%8A%E6%9F%84%E5%90%97&t=31&band_rank=6&Refer=top)<br />
-7. [辛芷蕾吃酸奶疙瘩像被人打了一样](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%90%83%E9%85%B8%E5%A5%B6%E7%96%99%E7%98%A9%E5%83%8F%E8%A2%AB%E4%BA%BA%E6%89%93%E4%BA%86%E4%B8%80%E6%A0%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [原来时宴是雪姨和陆振华生的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%97%B6%E5%AE%B4%E6%98%AF%E9%9B%AA%E5%A7%A8%E5%92%8C%E9%99%86%E6%8C%AF%E5%8D%8E%E7%94%9F%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
+7. [原来时宴是雪姨和陆振华生的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%97%B6%E5%AE%B4%E6%98%AF%E9%9B%AA%E5%A7%A8%E5%92%8C%E9%99%86%E6%8C%AF%E5%8D%8E%E7%94%9F%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
+8. [辛芷蕾吃酸奶疙瘩像被人打了一样](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%90%83%E9%85%B8%E5%A5%B6%E7%96%99%E7%98%A9%E5%83%8F%E8%A2%AB%E4%BA%BA%E6%89%93%E4%BA%86%E4%B8%80%E6%A0%B7%23&t=31&band_rank=8&Refer=top)<br />
 9. [11个月大婴儿吃柚子窒息医护3分钟赶到急救](https://s.weibo.com/weibo?q=%2311%E4%B8%AA%E6%9C%88%E5%A4%A7%E5%A9%B4%E5%84%BF%E5%90%83%E6%9F%9A%E5%AD%90%E7%AA%92%E6%81%AF%E5%8C%BB%E6%8A%A43%E5%88%86%E9%92%9F%E8%B5%B6%E5%88%B0%E6%80%A5%E6%95%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
