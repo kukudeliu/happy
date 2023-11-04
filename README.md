@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 17:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 17:30:01</h4></div>
 
 > 微博  
 
 1. [北大宿舍聊天 婚姻残酷真相](https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E5%AE%BF%E8%88%8D%E8%81%8A%E5%A4%A9%20%E5%A9%9A%E5%A7%BB%E6%AE%8B%E9%85%B7%E7%9C%9F%E7%9B%B8&t=31&band_rank=1&Refer=top)<br />
 2. [宋亚轩买游戏账号被骗钱](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E4%B9%B0%E6%B8%B8%E6%88%8F%E8%B4%A6%E5%8F%B7%E8%A2%AB%E9%AA%97%E9%92%B1%23&t=31&band_rank=2&Refer=top)<br />
-3. [郑书意目睹男友出轨](https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B9%A6%E6%84%8F%E7%9B%AE%E7%9D%B9%E7%94%B7%E5%8F%8B%E5%87%BA%E8%BD%A8%23&t=31&band_rank=3&Refer=top)<br />
-4. [难看](https://s.weibo.com/weibo?q=%E9%9A%BE%E7%9C%8B&t=31&band_rank=4&Refer=top)<br />
-5. [上市公司5995万存款不见了](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B85995%E4%B8%87%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%A7%81%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [迪丽热巴换手机壳庆祝入住大床房](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8D%A2%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%BA%86%E7%A5%9D%E5%85%A5%E4%BD%8F%E5%A4%A7%E5%BA%8A%E6%88%BF%23&t=31&band_rank=6&Refer=top)<br />
-7. [让看电视更简单消费不套娃](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E7%9C%8B%E7%94%B5%E8%A7%86%E6%9B%B4%E7%AE%80%E5%8D%95%E6%B6%88%E8%B4%B9%E4%B8%8D%E5%A5%97%E5%A8%83%23&t=31&band_rank=7&Refer=top)<br />
+3. [专属秋天的多巴胺配色](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%B1%9E%E7%A7%8B%E5%A4%A9%E7%9A%84%E5%A4%9A%E5%B7%B4%E8%83%BA%E9%85%8D%E8%89%B2%23&t=31&band_rank=3&Refer=top)<br />
+4. [郑书意目睹男友出轨](https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B9%A6%E6%84%8F%E7%9B%AE%E7%9D%B9%E7%94%B7%E5%8F%8B%E5%87%BA%E8%BD%A8%23&t=31&band_rank=4&Refer=top)<br />
+5. [难看](https://s.weibo.com/weibo?q=%E9%9A%BE%E7%9C%8B&t=31&band_rank=5&Refer=top)<br />
+6. [上市公司5995万存款不见了](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B85995%E4%B8%87%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%A7%81%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [迪丽热巴换手机壳庆祝入住大床房](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8D%A2%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%BA%86%E7%A5%9D%E5%85%A5%E4%BD%8F%E5%A4%A7%E5%BA%8A%E6%88%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [女童上幼儿园19天8天没有早饭](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E4%B8%8A%E5%B9%BC%E5%84%BF%E5%9B%AD19%E5%A4%A98%E5%A4%A9%E6%B2%A1%E6%9C%89%E6%97%A9%E9%A5%AD%23&t=31&band_rank=8&Refer=top)<br />
 9. [杨紫 导演都是这么骗人的](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E5%AF%BC%E6%BC%94%E9%83%BD%E6%98%AF%E8%BF%99%E4%B9%88%E9%AA%97%E4%BA%BA%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
@@ -22,8 +22,8 @@
 3. [上市公司5995万存款不见了](https://www.baidu.com/s?wd=%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B85995%E4%B8%87%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%A7%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“进博老友”再度相约](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%9B%E5%8D%9A%E8%80%81%E5%8F%8B%E2%80%9D%E5%86%8D%E5%BA%A6%E7%9B%B8%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女童上幼儿园19天8天没有早饭](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E4%B8%8A%E5%B9%BC%E5%84%BF%E5%9B%AD19%E5%A4%A98%E5%A4%A9%E6%B2%A1%E6%9C%89%E6%97%A9%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [香港女生发“港独”言论被判入狱](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A5%B3%E7%94%9F%E5%8F%91%E2%80%9C%E6%B8%AF%E7%8B%AC%E2%80%9D%E8%A8%80%E8%AE%BA%E8%A2%AB%E5%88%A4%E5%85%A5%E7%8B%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小伙在自家厕所里建海洋馆隐居6年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%8E%95%E6%89%80%E9%87%8C%E5%BB%BA%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%9A%90%E5%B1%856%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [小伙在自家厕所里建海洋馆隐居6年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%8E%95%E6%89%80%E9%87%8C%E5%BB%BA%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%9A%90%E5%B1%856%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [香港女生发“港独”言论被判入狱](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A5%B3%E7%94%9F%E5%8F%91%E2%80%9C%E6%B8%AF%E7%8B%AC%E2%80%9D%E8%A8%80%E8%AE%BA%E8%A2%AB%E5%88%A4%E5%85%A5%E7%8B%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [官方回应要求小学生戴头盔上下学](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A6%81%E6%B1%82%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%88%B4%E5%A4%B4%E7%9B%94%E4%B8%8A%E4%B8%8B%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣河南农户高粱被村民抢收](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B2%B3%E5%8D%97%E5%86%9C%E6%88%B7%E9%AB%98%E7%B2%B1%E8%A2%AB%E6%9D%91%E6%B0%91%E6%8A%A2%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [上市公司5995万存款不见了](https://www.baidu.com/s?wd=%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B85995%E4%B8%87%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%A7%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“进博老友”再度相约](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%9B%E5%8D%9A%E8%80%81%E5%8F%8B%E2%80%9D%E5%86%8D%E5%BA%A6%E7%9B%B8%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女童上幼儿园19天8天没有早饭](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E4%B8%8A%E5%B9%BC%E5%84%BF%E5%9B%AD19%E5%A4%A98%E5%A4%A9%E6%B2%A1%E6%9C%89%E6%97%A9%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [香港女生发“港独”言论被判入狱](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A5%B3%E7%94%9F%E5%8F%91%E2%80%9C%E6%B8%AF%E7%8B%AC%E2%80%9D%E8%A8%80%E8%AE%BA%E8%A2%AB%E5%88%A4%E5%85%A5%E7%8B%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小伙在自家厕所里建海洋馆隐居6年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%8E%95%E6%89%80%E9%87%8C%E5%BB%BA%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%9A%90%E5%B1%856%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [小伙在自家厕所里建海洋馆隐居6年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%A8%E8%87%AA%E5%AE%B6%E5%8E%95%E6%89%80%E9%87%8C%E5%BB%BA%E6%B5%B7%E6%B4%8B%E9%A6%86%E9%9A%90%E5%B1%856%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [香港女生发“港独”言论被判入狱](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A5%B3%E7%94%9F%E5%8F%91%E2%80%9C%E6%B8%AF%E7%8B%AC%E2%80%9D%E8%A8%80%E8%AE%BA%E8%A2%AB%E5%88%A4%E5%85%A5%E7%8B%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [官方回应要求小学生戴头盔上下学](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A6%81%E6%B1%82%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%88%B4%E5%A4%B4%E7%9B%94%E4%B8%8A%E4%B8%8B%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣河南农户高粱被村民抢收](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B2%B3%E5%8D%97%E5%86%9C%E6%88%B7%E9%AB%98%E7%B2%B1%E8%A2%AB%E6%9D%91%E6%B0%91%E6%8A%A2%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
