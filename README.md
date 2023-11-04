@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 22:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 22:29:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [硬卧车厢吃饭吃出满汉全席的气势](https://www.baidu.com/s?wd=%E7%A1%AC%E5%8D%A7%E8%BD%A6%E5%8E%A2%E5%90%83%E9%A5%AD%E5%90%83%E5%87%BA%E6%BB%A1%E6%B1%89%E5%85%A8%E5%B8%AD%E7%9A%84%E6%B0%94%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从乡村消费增速感受活力中国](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B9%A1%E6%9D%91%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%80%9F%E6%84%9F%E5%8F%97%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [18岁女生“洗剪吹”后大哭](https://www.baidu.com/s?wd=18%E5%B2%81%E5%A5%B3%E7%94%9F%E2%80%9C%E6%B4%97%E5%89%AA%E5%90%B9%E2%80%9D%E5%90%8E%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [奶奶给去世13年老伴过生日](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E7%BB%99%E5%8E%BB%E4%B8%9613%E5%B9%B4%E8%80%81%E4%BC%B4%E8%BF%87%E7%94%9F%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [《老友记》五人组泪别“钱德勒”](https://www.baidu.com/s?wd=%E3%80%8A%E8%80%81%E5%8F%8B%E8%AE%B0%E3%80%8B%E4%BA%94%E4%BA%BA%E7%BB%84%E6%B3%AA%E5%88%AB%E2%80%9C%E9%92%B1%E5%BE%B7%E5%8B%92%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [蜜雪冰城回应店员歧视大专生](https://www.baidu.com/s?wd=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E5%BA%97%E5%91%98%E6%AD%A7%E8%A7%86%E5%A4%A7%E4%B8%93%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [广东一医院鼓励先收后退患者红包](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%8C%BB%E9%99%A2%E9%BC%93%E5%8A%B1%E5%85%88%E6%94%B6%E5%90%8E%E9%80%80%E6%82%A3%E8%80%85%E7%BA%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [蜜雪冰城回应店员歧视大专生](https://www.baidu.com/s?wd=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E5%BA%97%E5%91%98%E6%AD%A7%E8%A7%86%E5%A4%A7%E4%B8%93%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [《老友记》五人组泪别“钱德勒”](https://www.baidu.com/s?wd=%E3%80%8A%E8%80%81%E5%8F%8B%E8%AE%B0%E3%80%8B%E4%BA%94%E4%BA%BA%E7%BB%84%E6%B3%AA%E5%88%AB%E2%80%9C%E9%92%B1%E5%BE%B7%E5%8B%92%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [硬卧车厢吃饭吃出满汉全席的气势](https://www.baidu.com/s?wd=%E7%A1%AC%E5%8D%A7%E8%BD%A6%E5%8E%A2%E5%90%83%E9%A5%AD%E5%90%83%E5%87%BA%E6%BB%A1%E6%B1%89%E5%85%A8%E5%B8%AD%E7%9A%84%E6%B0%94%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从乡村消费增速感受活力中国](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B9%A1%E6%9D%91%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%80%9F%E6%84%9F%E5%8F%97%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [18岁女生“洗剪吹”后大哭](https://www.baidu.com/s?wd=18%E5%B2%81%E5%A5%B3%E7%94%9F%E2%80%9C%E6%B4%97%E5%89%AA%E5%90%B9%E2%80%9D%E5%90%8E%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [奶奶给去世13年老伴过生日](https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E7%BB%99%E5%8E%BB%E4%B8%9613%E5%B9%B4%E8%80%81%E4%BC%B4%E8%BF%87%E7%94%9F%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [《老友记》五人组泪别“钱德勒”](https://www.baidu.com/s?wd=%E3%80%8A%E8%80%81%E5%8F%8B%E8%AE%B0%E3%80%8B%E4%BA%94%E4%BA%BA%E7%BB%84%E6%B3%AA%E5%88%AB%E2%80%9C%E9%92%B1%E5%BE%B7%E5%8B%92%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [蜜雪冰城回应店员歧视大专生](https://www.baidu.com/s?wd=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E5%BA%97%E5%91%98%E6%AD%A7%E8%A7%86%E5%A4%A7%E4%B8%93%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [广东一医院鼓励先收后退患者红包](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%8C%BB%E9%99%A2%E9%BC%93%E5%8A%B1%E5%85%88%E6%94%B6%E5%90%8E%E9%80%80%E6%82%A3%E8%80%85%E7%BA%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [蜜雪冰城回应店员歧视大专生](https://www.baidu.com/s?wd=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E5%BA%97%E5%91%98%E6%AD%A7%E8%A7%86%E5%A4%A7%E4%B8%93%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [《老友记》五人组泪别“钱德勒”](https://www.baidu.com/s?wd=%E3%80%8A%E8%80%81%E5%8F%8B%E8%AE%B0%E3%80%8B%E4%BA%94%E4%BA%BA%E7%BB%84%E6%B3%AA%E5%88%AB%E2%80%9C%E9%92%B1%E5%BE%B7%E5%8B%92%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
