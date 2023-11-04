@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 14:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-04 14:01:01</h4></div>
 
 > 微博  
 
 1. [香港女生涉网上发布港独言论被判入狱2个月](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A5%B3%E7%94%9F%E6%B6%89%E7%BD%91%E4%B8%8A%E5%8F%91%E5%B8%83%E6%B8%AF%E7%8B%AC%E8%A8%80%E8%AE%BA%E8%A2%AB%E5%88%A4%E5%85%A5%E7%8B%B12%E4%B8%AA%E6%9C%88%23&t=31&band_rank=1&Refer=top)<br />
 2. [加沙孩子被迫喝平时驴都不喝的水](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%AD%A9%E5%AD%90%E8%A2%AB%E8%BF%AB%E5%96%9D%E5%B9%B3%E6%97%B6%E9%A9%B4%E9%83%BD%E4%B8%8D%E5%96%9D%E7%9A%84%E6%B0%B4%23&t=31&band_rank=2&Refer=top)<br />
-3. [深秋时节的诗情画意](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E7%A7%8B%E6%97%B6%E8%8A%82%E7%9A%84%E8%AF%97%E6%83%85%E7%94%BB%E6%84%8F%23&t=31&band_rank=3&Refer=top)<br />
+3. [让看电视更简单消费不套娃](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E7%9C%8B%E7%94%B5%E8%A7%86%E6%9B%B4%E7%AE%80%E5%8D%95%E6%B6%88%E8%B4%B9%E4%B8%8D%E5%A5%97%E5%A8%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [难看](https://s.weibo.com/weibo?q=%E9%9A%BE%E7%9C%8B&t=31&band_rank=4&Refer=top)<br />
 5. [吴彤是抓住了闫妮的什么把柄吗](https://s.weibo.com/weibo?q=%E5%90%B4%E5%BD%A4%E6%98%AF%E6%8A%93%E4%BD%8F%E4%BA%86%E9%97%AB%E5%A6%AE%E7%9A%84%E4%BB%80%E4%B9%88%E6%8A%8A%E6%9F%84%E5%90%97&t=31&band_rank=5&Refer=top)<br />
 6. [原来时宴是雪姨和陆振华生的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%97%B6%E5%AE%B4%E6%98%AF%E9%9B%AA%E5%A7%A8%E5%92%8C%E9%99%86%E6%8C%AF%E5%8D%8E%E7%94%9F%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
 7. [11个月大婴儿吃柚子窒息医护3分钟赶到急救](https://s.weibo.com/weibo?q=%2311%E4%B8%AA%E6%9C%88%E5%A4%A7%E5%A9%B4%E5%84%BF%E5%90%83%E6%9F%9A%E5%AD%90%E7%AA%92%E6%81%AF%E5%8C%BB%E6%8A%A43%E5%88%86%E9%92%9F%E8%B5%B6%E5%88%B0%E6%80%A5%E6%95%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [谢娜说杨紫瘦得脱相了](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E8%AF%B4%E6%9D%A8%E7%B4%AB%E7%98%A6%E5%BE%97%E8%84%B1%E7%9B%B8%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [网红铁头向东方甄选道歉](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E5%90%91%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [深秋时节的诗情画意](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E7%A7%8B%E6%97%B6%E8%8A%82%E7%9A%84%E8%AF%97%E6%83%85%E7%94%BB%E6%84%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
