@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 04:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 04:05:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [世界冠军不可怕 谁不四强谁尴尬](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E4%B8%8D%E5%8F%AF%E6%80%95%20%E8%B0%81%E4%B8%8D%E5%9B%9B%E5%BC%BA%E8%B0%81%E5%B0%B4%E5%B0%AC&t=31&band_rank=6&Refer=top)<br />
 7. [T1 压力](https://s.weibo.com/weibo?q=T1%20%E5%8E%8B%E5%8A%9B&t=31&band_rank=7&Refer=top)<br />
 8. [海苔咪来微博了](https://s.weibo.com/weibo?q=%E6%B5%B7%E8%8B%94%E5%92%AA%E6%9D%A5%E5%BE%AE%E5%8D%9A%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [多特vs拜仁](https://s.weibo.com/weibo?q=%E5%A4%9A%E7%89%B9vs%E6%8B%9C%E4%BB%81&t=31&band_rank=9&Refer=top)<br />
+9. [所有刷单都是诈骗还有人不知道](https://s.weibo.com/weibo?q=%23%E6%89%80%E6%9C%89%E5%88%B7%E5%8D%95%E9%83%BD%E6%98%AF%E8%AF%88%E9%AA%97%E8%BF%98%E6%9C%89%E4%BA%BA%E4%B8%8D%E7%9F%A5%E9%81%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
