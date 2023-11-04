@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 00:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 00:14:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [18岁女生“洗剪吹”后大哭](https://www.baidu.com/s?wd=18%E5%B2%81%E5%A5%B3%E7%94%9F%E2%80%9C%E6%B4%97%E5%89%AA%E5%90%B9%E2%80%9D%E5%90%8E%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子全麻术后被好友轮流拿喇叭叫醒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%A8%E9%BA%BB%E6%9C%AF%E5%90%8E%E8%A2%AB%E5%A5%BD%E5%8F%8B%E8%BD%AE%E6%B5%81%E6%8B%BF%E5%96%87%E5%8F%AD%E5%8F%AB%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [合肥一高中宿舍睡觉不许关门](https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E4%B8%80%E9%AB%98%E4%B8%AD%E5%AE%BF%E8%88%8D%E7%9D%A1%E8%A7%89%E4%B8%8D%E8%AE%B8%E5%85%B3%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [外卖深夜千元牛杂汤疑为非法服务](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E6%B7%B1%E5%A4%9C%E5%8D%83%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E7%96%91%E4%B8%BA%E9%9D%9E%E6%B3%95%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [被要求加3万彩礼退婚当事人回应恶评](https://www.baidu.com/s?wd=%E8%A2%AB%E8%A6%81%E6%B1%82%E5%8A%A03%E4%B8%87%E5%BD%A9%E7%A4%BC%E9%80%80%E5%A9%9A%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%81%B6%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [18岁女生“洗剪吹”后大哭](https://www.baidu.com/s?wd=18%E5%B2%81%E5%A5%B3%E7%94%9F%E2%80%9C%E6%B4%97%E5%89%AA%E5%90%B9%E2%80%9D%E5%90%8E%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子全麻术后被好友轮流拿喇叭叫醒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%A8%E9%BA%BB%E6%9C%AF%E5%90%8E%E8%A2%AB%E5%A5%BD%E5%8F%8B%E8%BD%AE%E6%B5%81%E6%8B%BF%E5%96%87%E5%8F%AD%E5%8F%AB%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [合肥一高中宿舍睡觉不许关门](https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E4%B8%80%E9%AB%98%E4%B8%AD%E5%AE%BF%E8%88%8D%E7%9D%A1%E8%A7%89%E4%B8%8D%E8%AE%B8%E5%85%B3%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [外卖深夜千元牛杂汤疑为非法服务](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E6%B7%B1%E5%A4%9C%E5%8D%83%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E7%96%91%E4%B8%BA%E9%9D%9E%E6%B3%95%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [被要求加3万彩礼退婚当事人回应恶评](https://www.baidu.com/s?wd=%E8%A2%AB%E8%A6%81%E6%B1%82%E5%8A%A03%E4%B8%87%E5%BD%A9%E7%A4%BC%E9%80%80%E5%A9%9A%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%81%B6%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
