@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 23:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 23:38:01</h4></div>
 
 > 微博  
 
 1. [救救gala](https://s.weibo.com/weibo?q=%E6%95%91%E6%95%91gala&t=31&band_rank=1&Refer=top)<br />
 2. [内娱可以吃一辈子的剧](https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E5%8F%AF%E4%BB%A5%E5%90%83%E4%B8%80%E8%BE%88%E5%AD%90%E7%9A%84%E5%89%A7&t=31&band_rank=2&Refer=top)<br />
 3. [揭秘进博会网红巴基斯坦盐灯](https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E8%BF%9B%E5%8D%9A%E4%BC%9A%E7%BD%91%E7%BA%A2%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%9B%90%E7%81%AF%23&t=31&band_rank=3&Refer=top)<br />
-4. [林昀儒WTT男单夺冠](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%98%80%E5%84%92WTT%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0%23&t=31&band_rank=4&Refer=top)<br />
-5. [马龙1比4林昀儒](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%991%E6%AF%944%E6%9E%97%E6%98%80%E5%84%92%23&t=31&band_rank=5&Refer=top)<br />
+4. [马龙1比4林昀儒](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%991%E6%AF%944%E6%9E%97%E6%98%80%E5%84%92%23&t=31&band_rank=4&Refer=top)<br />
+5. [林昀儒WTT男单夺冠](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%98%80%E5%84%92WTT%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [日本网民称福原爱被宠坏了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%A7%B0%E7%A6%8F%E5%8E%9F%E7%88%B1%E8%A2%AB%E5%AE%A0%E5%9D%8F%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [北京供暖](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%BE%9B%E6%9A%96&t=31&band_rank=7&Refer=top)<br />
 8. [马龙飞身救球](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E9%A3%9E%E8%BA%AB%E6%95%91%E7%90%83%23&t=31&band_rank=8&Refer=top)<br />
