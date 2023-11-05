@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 10:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 10:26:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [买8只大闸蟹老板给我寄了个蒸笼](https://s.weibo.com/weibo?q=%23%E4%B9%B08%E5%8F%AA%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%80%81%E6%9D%BF%E7%BB%99%E6%88%91%E5%AF%84%E4%BA%86%E4%B8%AA%E8%92%B8%E7%AC%BC%23&t=31&band_rank=6&Refer=top)<br />
 7. [LNG对战T1 比分预测](https://s.weibo.com/weibo?q=LNG%E5%AF%B9%E6%88%98T1%20%E6%AF%94%E5%88%86%E9%A2%84%E6%B5%8B&t=31&band_rank=7&Refer=top)<br />
 8. [李佳琦公司回应员工收百万好处费](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E5%91%98%E5%B7%A5%E6%94%B6%E7%99%BE%E4%B8%87%E5%A5%BD%E5%A4%84%E8%B4%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [作家周涛突发心梗去世](https://s.weibo.com/weibo?q=%23%E4%BD%9C%E5%AE%B6%E5%91%A8%E6%B6%9B%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [要久久爱首支预告](https://s.weibo.com/weibo?q=%23%E8%A6%81%E4%B9%85%E4%B9%85%E7%88%B1%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
