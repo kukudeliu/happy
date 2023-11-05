@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 12:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 12:16:01</h4></div>
 
 > 微博  
 
 1. [肺部CT报告中有些字眼可能是癌](https://s.weibo.com/weibo?q=%23%E8%82%BA%E9%83%A8CT%E6%8A%A5%E5%91%8A%E4%B8%AD%E6%9C%89%E4%BA%9B%E5%AD%97%E7%9C%BC%E5%8F%AF%E8%83%BD%E6%98%AF%E7%99%8C%23&t=31&band_rank=1&Refer=top)<br />
-2. [李佳航 意难平](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E8%88%AA%20%E6%84%8F%E9%9A%BE%E5%B9%B3&t=31&band_rank=2&Refer=top)<br />
+2. [五月天 抢票](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%20%E6%8A%A2%E7%A5%A8&t=31&band_rank=2&Refer=top)<br />
 3. [63年前的今天中国人有了自己的导弹](https://s.weibo.com/weibo?q=%2363%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BB%8A%E5%A4%A9%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%89%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=3&Refer=top)<br />
-4. [五月天 抢票](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%20%E6%8A%A2%E7%A5%A8&t=31&band_rank=4&Refer=top)<br />
+4. [李佳航 意难平](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E8%88%AA%20%E6%84%8F%E9%9A%BE%E5%B9%B3&t=31&band_rank=4&Refer=top)<br />
 5. [李善均承认吸毒](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%96%84%E5%9D%87%E6%89%BF%E8%AE%A4%E5%90%B8%E6%AF%92%23&t=31&band_rank=5&Refer=top)<br />
 6. [关晓彤生日被整蛊](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%94%9F%E6%97%A5%E8%A2%AB%E6%95%B4%E8%9B%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖战给李健演唱会送花篮](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%BB%99%E6%9D%8E%E5%81%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%81%E8%8A%B1%E7%AF%AE%23&t=31&band_rank=7&Refer=top)<br />
