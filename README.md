@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 18:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 18:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Scout 精忠报国](https://s.weibo.com/weibo?q=Scout%20%E7%B2%BE%E5%BF%A0%E6%8A%A5%E5%9B%BD&t=31&band_rank=6&Refer=top)<br />
 7. [女孩提蛋糕找消防员一起过18岁生日](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%8F%90%E8%9B%8B%E7%B3%95%E6%89%BE%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%80%E8%B5%B7%E8%BF%8718%E5%B2%81%E7%94%9F%E6%97%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [LNG醒醒](https://s.weibo.com/weibo?q=%23LNG%E9%86%92%E9%86%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [导演答应白鹿不用大灯](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E7%AD%94%E5%BA%94%E7%99%BD%E9%B9%BF%E4%B8%8D%E7%94%A8%E5%A4%A7%E7%81%AF%23&t=31&band_rank=9&Refer=top)<br />
+9. [Tarzan 皇子](https://s.weibo.com/weibo?q=Tarzan%20%E7%9A%87%E5%AD%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
