@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 02:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 02:38:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [县民政局局长违规操办婚事被免职](https://www.baidu.com/s?wd=%E5%8E%BF%E6%B0%91%E6%94%BF%E5%B1%80%E5%B1%80%E9%95%BF%E8%BF%9D%E8%A7%84%E6%93%8D%E5%8A%9E%E5%A9%9A%E4%BA%8B%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [菲主播遭入室枪杀 总统下令彻查](https://www.baidu.com/s?wd=%E8%8F%B2%E4%B8%BB%E6%92%AD%E9%81%AD%E5%85%A5%E5%AE%A4%E6%9E%AA%E6%9D%80+%E6%80%BB%E7%BB%9F%E4%B8%8B%E4%BB%A4%E5%BD%BB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [加沙每10分钟就有一儿童死亡](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E6%AF%8F10%E5%88%86%E9%92%9F%E5%B0%B1%E6%9C%89%E4%B8%80%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女孩身上6个伤疤同寻人启事一致](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%BA%AB%E4%B8%8A6%E4%B8%AA%E4%BC%A4%E7%96%A4%E5%90%8C%E5%AF%BB%E4%BA%BA%E5%90%AF%E4%BA%8B%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [疑因打车价格与司机争执 女子跳车](https://www.baidu.com/s?wd=%E7%96%91%E5%9B%A0%E6%89%93%E8%BD%A6%E4%BB%B7%E6%A0%BC%E4%B8%8E%E5%8F%B8%E6%9C%BA%E4%BA%89%E6%89%A7+%E5%A5%B3%E5%AD%90%E8%B7%B3%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传外卖员年龄上限45岁系谣言](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%A4%96%E5%8D%96%E5%91%98%E5%B9%B4%E9%BE%84%E4%B8%8A%E9%99%9045%E5%B2%81%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [县民政局局长违规操办婚事被免职](https://www.baidu.com/s?wd=%E5%8E%BF%E6%B0%91%E6%94%BF%E5%B1%80%E5%B1%80%E9%95%BF%E8%BF%9D%E8%A7%84%E6%93%8D%E5%8A%9E%E5%A9%9A%E4%BA%8B%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [菲主播遭入室枪杀 总统下令彻查](https://www.baidu.com/s?wd=%E8%8F%B2%E4%B8%BB%E6%92%AD%E9%81%AD%E5%85%A5%E5%AE%A4%E6%9E%AA%E6%9D%80+%E6%80%BB%E7%BB%9F%E4%B8%8B%E4%BB%A4%E5%BD%BB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [加沙每10分钟就有一儿童死亡](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E6%AF%8F10%E5%88%86%E9%92%9F%E5%B0%B1%E6%9C%89%E4%B8%80%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女孩身上6个伤疤同寻人启事一致](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%BA%AB%E4%B8%8A6%E4%B8%AA%E4%BC%A4%E7%96%A4%E5%90%8C%E5%AF%BB%E4%BA%BA%E5%90%AF%E4%BA%8B%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [疑因打车价格与司机争执 女子跳车](https://www.baidu.com/s?wd=%E7%96%91%E5%9B%A0%E6%89%93%E8%BD%A6%E4%BB%B7%E6%A0%BC%E4%B8%8E%E5%8F%B8%E6%9C%BA%E4%BA%89%E6%89%A7+%E5%A5%B3%E5%AD%90%E8%B7%B3%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传外卖员年龄上限45岁系谣言](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%A4%96%E5%8D%96%E5%91%98%E5%B9%B4%E9%BE%84%E4%B8%8A%E9%99%9045%E5%B2%81%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
