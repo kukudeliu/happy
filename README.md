@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 19:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 19:52:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [经济大省“挑大梁”提信心](https://www.baidu.com/s?wd=%E7%BB%8F%E6%B5%8E%E5%A4%A7%E7%9C%81%E2%80%9C%E6%8C%91%E5%A4%A7%E6%A2%81%E2%80%9D%E6%8F%90%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李显龙哽咽了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%98%BE%E9%BE%99%E5%93%BD%E5%92%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [月薪五千借钱给儿子买万元电脑](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA%E4%BA%94%E5%8D%83%E5%80%9F%E9%92%B1%E7%BB%99%E5%84%BF%E5%AD%90%E4%B9%B0%E4%B8%87%E5%85%83%E7%94%B5%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [干部商人围坐“诈金花”？官方调查](https://www.baidu.com/s?wd=%E5%B9%B2%E9%83%A8%E5%95%86%E4%BA%BA%E5%9B%B4%E5%9D%90%E2%80%9C%E8%AF%88%E9%87%91%E8%8A%B1%E2%80%9D%EF%BC%9F%E5%AE%98%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [父亲接儿子心梗通知以为是电诈](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E6%8E%A5%E5%84%BF%E5%AD%90%E5%BF%83%E6%A2%97%E9%80%9A%E7%9F%A5%E4%BB%A5%E4%B8%BA%E6%98%AF%E7%94%B5%E8%AF%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [T1零封LNG晋级S13四强](https://www.baidu.com/s?wd=T1%E9%9B%B6%E5%B0%81LNG%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [经济大省“挑大梁”提信心](https://www.baidu.com/s?wd=%E7%BB%8F%E6%B5%8E%E5%A4%A7%E7%9C%81%E2%80%9C%E6%8C%91%E5%A4%A7%E6%A2%81%E2%80%9D%E6%8F%90%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李显龙哽咽了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%98%BE%E9%BE%99%E5%93%BD%E5%92%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [月薪五千借钱给儿子买万元电脑](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA%E4%BA%94%E5%8D%83%E5%80%9F%E9%92%B1%E7%BB%99%E5%84%BF%E5%AD%90%E4%B9%B0%E4%B8%87%E5%85%83%E7%94%B5%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [干部商人围坐“诈金花”？官方调查](https://www.baidu.com/s?wd=%E5%B9%B2%E9%83%A8%E5%95%86%E4%BA%BA%E5%9B%B4%E5%9D%90%E2%80%9C%E8%AF%88%E9%87%91%E8%8A%B1%E2%80%9D%EF%BC%9F%E5%AE%98%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [父亲接儿子心梗通知以为是电诈](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E6%8E%A5%E5%84%BF%E5%AD%90%E5%BF%83%E6%A2%97%E9%80%9A%E7%9F%A5%E4%BB%A5%E4%B8%BA%E6%98%AF%E7%94%B5%E8%AF%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [T1零封LNG晋级S13四强](https://www.baidu.com/s?wd=T1%E9%9B%B6%E5%B0%81LNG%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
