@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 11:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 11:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [五月天 抢票](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%20%E6%8A%A2%E7%A5%A8&t=31&band_rank=6&Refer=top)<br />
 7. [买8只大闸蟹老板给我寄了个蒸笼](https://s.weibo.com/weibo?q=%23%E4%B9%B08%E5%8F%AA%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%80%81%E6%9D%BF%E7%BB%99%E6%88%91%E5%AF%84%E4%BA%86%E4%B8%AA%E8%92%B8%E7%AC%BC%23&t=31&band_rank=7&Refer=top)<br />
 8. [要久久爱](https://s.weibo.com/weibo?q=%E8%A6%81%E4%B9%85%E4%B9%85%E7%88%B1&t=31&band_rank=8&Refer=top)<br />
-9. [东北这次强降雪下到发紫](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E8%BF%99%E6%AC%A1%E5%BC%BA%E9%99%8D%E9%9B%AA%E4%B8%8B%E5%88%B0%E5%8F%91%E7%B4%AB%23&t=31&band_rank=9&Refer=top)<br />
+9. [美媒曝布林肯将敦促以色列暂停袭击](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E6%9B%9D%E5%B8%83%E6%9E%97%E8%82%AF%E5%B0%86%E6%95%A6%E4%BF%83%E4%BB%A5%E8%89%B2%E5%88%97%E6%9A%82%E5%81%9C%E8%A2%AD%E5%87%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
