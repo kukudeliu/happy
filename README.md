@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 20:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 20:02:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [gala哭了](https://s.weibo.com/weibo?q=gala%E5%93%AD%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [进博会创意产品抢先看](https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%88%9B%E6%84%8F%E4%BA%A7%E5%93%81%E6%8A%A2%E5%85%88%E7%9C%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [T1晋级S13四强](https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=4&Refer=top)<br />
-5. [祖孙四代做呱嗒200多年口味不变](https://s.weibo.com/weibo?q=%23%E7%A5%96%E5%AD%99%E5%9B%9B%E4%BB%A3%E5%81%9A%E5%91%B1%E5%97%92200%E5%A4%9A%E5%B9%B4%E5%8F%A3%E5%91%B3%E4%B8%8D%E5%8F%98%23&t=31&band_rank=5&Refer=top)<br />
-6. [RNG能不能把gala卡回来](https://s.weibo.com/weibo?q=%23RNG%E8%83%BD%E4%B8%8D%E8%83%BD%E6%8A%8Agala%E5%8D%A1%E5%9B%9E%E6%9D%A5%23&t=31&band_rank=6&Refer=top)<br />
-7. [浙江一中学校长办公室变肠胃外科](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%8F%98%E8%82%A0%E8%83%83%E5%A4%96%E7%A7%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [皇马替樊振东发了Vlog](https://s.weibo.com/weibo?q=%E7%9A%87%E9%A9%AC%E6%9B%BF%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E4%BA%86Vlog&t=31&band_rank=8&Refer=top)<br />
-9. [宁王](https://s.weibo.com/weibo?q=%E5%AE%81%E7%8E%8B&t=31&band_rank=9&Refer=top)<br />
+5. [RNG能不能把gala卡回来](https://s.weibo.com/weibo?q=%23RNG%E8%83%BD%E4%B8%8D%E8%83%BD%E6%8A%8Agala%E5%8D%A1%E5%9B%9E%E6%9D%A5%23&t=31&band_rank=5&Refer=top)<br />
+6. [皇马替樊振东发了Vlog](https://s.weibo.com/weibo?q=%E7%9A%87%E9%A9%AC%E6%9B%BF%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E4%BA%86Vlog&t=31&band_rank=6&Refer=top)<br />
+7. [宁王](https://s.weibo.com/weibo?q=%E5%AE%81%E7%8E%8B&t=31&band_rank=7&Refer=top)<br />
+8. [Tarzan 皇子](https://s.weibo.com/weibo?q=Tarzan%20%E7%9A%87%E5%AD%90&t=31&band_rank=8&Refer=top)<br />
+9. [人机局](https://s.weibo.com/weibo?q=%E4%BA%BA%E6%9C%BA%E5%B1%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
