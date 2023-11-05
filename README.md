@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 18:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 18:25:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [一个进口产品浓度超高的地方在中国](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E8%BF%9B%E5%8F%A3%E4%BA%A7%E5%93%81%E6%B5%93%E5%BA%A6%E8%B6%85%E9%AB%98%E7%9A%84%E5%9C%B0%E6%96%B9%E5%9C%A8%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [Scout 精忠报国](https://s.weibo.com/weibo?q=Scout%20%E7%B2%BE%E5%BF%A0%E6%8A%A5%E5%9B%BD&t=31&band_rank=4&Refer=top)<br />
 5. [浙江一中学校长办公室变肠胃外科](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%8F%98%E8%82%A0%E8%83%83%E5%A4%96%E7%A7%91%23&t=31&band_rank=5&Refer=top)<br />
-6. [LNG醒醒](https://s.weibo.com/weibo?q=%23LNG%E9%86%92%E9%86%92%23&t=31&band_rank=6&Refer=top)<br />
+6. [T1晋级S13四强](https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [孕妇坐夜车清晨地铁晕倒警民合力施救](https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E5%9D%90%E5%A4%9C%E8%BD%A6%E6%B8%85%E6%99%A8%E5%9C%B0%E9%93%81%E6%99%95%E5%80%92%E8%AD%A6%E6%B0%91%E5%90%88%E5%8A%9B%E6%96%BD%E6%95%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [Tarzan 皇子](https://s.weibo.com/weibo?q=Tarzan%20%E7%9A%87%E5%AD%90&t=31&band_rank=8&Refer=top)<br />
-9. [管泽元预测](https://s.weibo.com/weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83%E9%A2%84%E6%B5%8B&t=31&band_rank=9&Refer=top)<br />
+8. [LNG醒醒](https://s.weibo.com/weibo?q=%23LNG%E9%86%92%E9%86%92%23&t=31&band_rank=8&Refer=top)<br />
+9. [Tarzan 皇子](https://s.weibo.com/weibo?q=Tarzan%20%E7%9A%87%E5%AD%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
