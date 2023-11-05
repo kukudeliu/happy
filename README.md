@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 23:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 23:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [马龙1比4林昀儒](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%991%E6%AF%944%E6%9E%97%E6%98%80%E5%84%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [北京供暖](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%BE%9B%E6%9A%96&t=31&band_rank=7&Refer=top)<br />
 8. [gala哭了](https://s.weibo.com/weibo?q=gala%E5%93%AD%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [RNG能不能把gala卡回来](https://s.weibo.com/weibo?q=%23RNG%E8%83%BD%E4%B8%8D%E8%83%BD%E6%8A%8Agala%E5%8D%A1%E5%9B%9E%E6%9D%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [小胖激动到流鼻血](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%83%96%E6%BF%80%E5%8A%A8%E5%88%B0%E6%B5%81%E9%BC%BB%E8%A1%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
