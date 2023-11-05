@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 10:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 10:14:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [从乡村消费增速感受活力中国](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B9%A1%E6%9D%91%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%80%9F%E6%84%9F%E5%8F%97%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子理发后扫付款码离开又取消支付](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%90%86%E5%8F%91%E5%90%8E%E6%89%AB%E4%BB%98%E6%AC%BE%E7%A0%81%E7%A6%BB%E5%BC%80%E5%8F%88%E5%8F%96%E6%B6%88%E6%94%AF%E4%BB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [作家周涛突发心梗去世](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E5%91%A8%E6%B6%9B%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [塞尔维亚安全情报局局长辞职](https://www.baidu.com/s?wd=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E5%AE%89%E5%85%A8%E6%83%85%E6%8A%A5%E5%B1%80%E5%B1%80%E9%95%BF%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [几内亚宣布关闭该国边境](https://www.baidu.com/s?wd=%E5%87%A0%E5%86%85%E4%BA%9A%E5%AE%A3%E5%B8%83%E5%85%B3%E9%97%AD%E8%AF%A5%E5%9B%BD%E8%BE%B9%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [摩托车骑手撞上钢管致粉碎性骨折](https://www.baidu.com/s?wd=%E6%91%A9%E6%89%98%E8%BD%A6%E9%AA%91%E6%89%8B%E6%92%9E%E4%B8%8A%E9%92%A2%E7%AE%A1%E8%87%B4%E7%B2%89%E7%A2%8E%E6%80%A7%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国公民在菲被绑架 知情人披露细节](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E8%8F%B2%E8%A2%AB%E7%BB%91%E6%9E%B6+%E7%9F%A5%E6%83%85%E4%BA%BA%E6%8A%AB%E9%9C%B2%E7%BB%86%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [从乡村消费增速感受活力中国](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B9%A1%E6%9D%91%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%80%9F%E6%84%9F%E5%8F%97%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子理发后扫付款码离开又取消支付](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%90%86%E5%8F%91%E5%90%8E%E6%89%AB%E4%BB%98%E6%AC%BE%E7%A0%81%E7%A6%BB%E5%BC%80%E5%8F%88%E5%8F%96%E6%B6%88%E6%94%AF%E4%BB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [作家周涛突发心梗去世](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E5%91%A8%E6%B6%9B%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [塞尔维亚安全情报局局长辞职](https://www.baidu.com/s?wd=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E5%AE%89%E5%85%A8%E6%83%85%E6%8A%A5%E5%B1%80%E5%B1%80%E9%95%BF%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [几内亚宣布关闭该国边境](https://www.baidu.com/s?wd=%E5%87%A0%E5%86%85%E4%BA%9A%E5%AE%A3%E5%B8%83%E5%85%B3%E9%97%AD%E8%AF%A5%E5%9B%BD%E8%BE%B9%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [摩托车骑手撞上钢管致粉碎性骨折](https://www.baidu.com/s?wd=%E6%91%A9%E6%89%98%E8%BD%A6%E9%AA%91%E6%89%8B%E6%92%9E%E4%B8%8A%E9%92%A2%E7%AE%A1%E8%87%B4%E7%B2%89%E7%A2%8E%E6%80%A7%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国公民在菲被绑架 知情人披露细节](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E8%8F%B2%E8%A2%AB%E7%BB%91%E6%9E%B6+%E7%9F%A5%E6%83%85%E4%BA%BA%E6%8A%AB%E9%9C%B2%E7%BB%86%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
