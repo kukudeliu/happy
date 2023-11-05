@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 22:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 22:28:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女孩身上6个伤疤同寻人启事一致](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%BA%AB%E4%B8%8A6%E4%B8%AA%E4%BC%A4%E7%96%A4%E5%90%8C%E5%AF%BB%E4%BA%BA%E5%90%AF%E4%BA%8B%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李显龙哽咽了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%98%BE%E9%BE%99%E5%93%BD%E5%92%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [摩托车骑手撞上钢管致粉碎性骨折](https://www.baidu.com/s?wd=%E6%91%A9%E6%89%98%E8%BD%A6%E9%AA%91%E6%89%8B%E6%92%9E%E4%B8%8A%E9%92%A2%E7%AE%A1%E8%87%B4%E7%B2%89%E7%A2%8E%E6%80%A7%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [县民政局局长违规操办婚事被免职](https://www.baidu.com/s?wd=%E5%8E%BF%E6%B0%91%E6%94%BF%E5%B1%80%E5%B1%80%E9%95%BF%E8%BF%9D%E8%A7%84%E6%93%8D%E5%8A%9E%E5%A9%9A%E4%BA%8B%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [手握800亿 美的为什么去香港？](https://www.baidu.com/s?wd=%E6%89%8B%E6%8F%A1800%E4%BA%BF+%E7%BE%8E%E7%9A%84%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8E%BB%E9%A6%99%E6%B8%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女孩身上6个伤疤同寻人启事一致](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%BA%AB%E4%B8%8A6%E4%B8%AA%E4%BC%A4%E7%96%A4%E5%90%8C%E5%AF%BB%E4%BA%BA%E5%90%AF%E4%BA%8B%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李显龙哽咽了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%98%BE%E9%BE%99%E5%93%BD%E5%92%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [摩托车骑手撞上钢管致粉碎性骨折](https://www.baidu.com/s?wd=%E6%91%A9%E6%89%98%E8%BD%A6%E9%AA%91%E6%89%8B%E6%92%9E%E4%B8%8A%E9%92%A2%E7%AE%A1%E8%87%B4%E7%B2%89%E7%A2%8E%E6%80%A7%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [县民政局局长违规操办婚事被免职](https://www.baidu.com/s?wd=%E5%8E%BF%E6%B0%91%E6%94%BF%E5%B1%80%E5%B1%80%E9%95%BF%E8%BF%9D%E8%A7%84%E6%93%8D%E5%8A%9E%E5%A9%9A%E4%BA%8B%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [手握800亿 美的为什么去香港？](https://www.baidu.com/s?wd=%E6%89%8B%E6%8F%A1800%E4%BA%BF+%E7%BE%8E%E7%9A%84%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8E%BB%E9%A6%99%E6%B8%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
