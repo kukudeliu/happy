@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 22:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 22:26:01</h4></div>
 
 > 微博  
 
-1. [救救gala](https://s.weibo.com/weibo?q=%E6%95%91%E6%95%91gala&t=31&band_rank=1&Refer=top)<br />
-2. [内娱可以吃一辈子的剧](https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E5%8F%AF%E4%BB%A5%E5%90%83%E4%B8%80%E8%BE%88%E5%AD%90%E7%9A%84%E5%89%A7&t=31&band_rank=2&Refer=top)<br />
+1. [内娱可以吃一辈子的剧](https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E5%8F%AF%E4%BB%A5%E5%90%83%E4%B8%80%E8%BE%88%E5%AD%90%E7%9A%84%E5%89%A7&t=31&band_rank=1&Refer=top)<br />
+2. [救救gala](https://s.weibo.com/weibo?q=%E6%95%91%E6%95%91gala&t=31&band_rank=2&Refer=top)<br />
 3. [揭秘进博会网红巴基斯坦盐灯](https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E8%BF%9B%E5%8D%9A%E4%BC%9A%E7%BD%91%E7%BA%A2%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%9B%90%E7%81%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [小胖激动到流鼻血](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%83%96%E6%BF%80%E5%8A%A8%E5%88%B0%E6%B5%81%E9%BC%BB%E8%A1%80%23&t=31&band_rank=4&Refer=top)<br />
 5. [Cat 顶级辅助](https://s.weibo.com/weibo?q=Cat%20%E9%A1%B6%E7%BA%A7%E8%BE%85%E5%8A%A9&t=31&band_rank=5&Refer=top)<br />
