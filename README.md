@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 03:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 03:04:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [T1晋级S13四强](https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [gala哭了](https://s.weibo.com/weibo?q=gala%E5%93%AD%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [RNG能不能把gala卡回来](https://s.weibo.com/weibo?q=%23RNG%E8%83%BD%E4%B8%8D%E8%83%BD%E6%8A%8Agala%E5%8D%A1%E5%9B%9E%E6%9D%A5%23&t=31&band_rank=6&Refer=top)<br />
-7. [Tarzan 皇子](https://s.weibo.com/weibo?q=Tarzan%20%E7%9A%87%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
-8. [披荆斩棘](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98&t=31&band_rank=8&Refer=top)<br />
+7. [披荆斩棘](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98&t=31&band_rank=7&Refer=top)<br />
+8. [Tarzan 皇子](https://s.weibo.com/weibo?q=Tarzan%20%E7%9A%87%E5%AD%90&t=31&band_rank=8&Refer=top)<br />
 9. [日本网民称福原爱被宠坏了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%A7%B0%E7%A6%8F%E5%8E%9F%E7%88%B1%E8%A2%AB%E5%AE%A0%E5%9D%8F%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,8 +23,8 @@
 4. [共“进”向未来 “博”出新精彩](https://www.baidu.com/s?wd=%E5%85%B1%E2%80%9C%E8%BF%9B%E2%80%9D%E5%90%91%E6%9C%AA%E6%9D%A5+%E2%80%9C%E5%8D%9A%E2%80%9D%E5%87%BA%E6%96%B0%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [县民政局局长违规操办婚事被免职](https://www.baidu.com/s?wd=%E5%8E%BF%E6%B0%91%E6%94%BF%E5%B1%80%E5%B1%80%E9%95%BF%E8%BF%9D%E8%A7%84%E6%93%8D%E5%8A%9E%E5%A9%9A%E4%BA%8B%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [月薪五千借钱给儿子买万元电脑](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA%E4%BA%94%E5%8D%83%E5%80%9F%E9%92%B1%E7%BB%99%E5%84%BF%E5%AD%90%E4%B9%B0%E4%B8%87%E5%85%83%E7%94%B5%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [干部商人围坐“诈金花”？官方调查](https://www.baidu.com/s?wd=%E5%B9%B2%E9%83%A8%E5%95%86%E4%BA%BA%E5%9B%B4%E5%9D%90%E2%80%9C%E8%AF%88%E9%87%91%E8%8A%B1%E2%80%9D%EF%BC%9F%E5%AE%98%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女孩身上6个伤疤同寻人启事一致](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%BA%AB%E4%B8%8A6%E4%B8%AA%E4%BC%A4%E7%96%A4%E5%90%8C%E5%AF%BB%E4%BA%BA%E5%90%AF%E4%BA%8B%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [吉林一医院上空有大量飞鸟盘旋](https://www.baidu.com/s?wd=%E5%90%89%E6%9E%97%E4%B8%80%E5%8C%BB%E9%99%A2%E4%B8%8A%E7%A9%BA%E6%9C%89%E5%A4%A7%E9%87%8F%E9%A3%9E%E9%B8%9F%E7%9B%98%E6%97%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李显龙哽咽了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%98%BE%E9%BE%99%E5%93%BD%E5%92%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传外卖员年龄上限45岁系谣言](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%A4%96%E5%8D%96%E5%91%98%E5%B9%B4%E9%BE%84%E4%B8%8A%E9%99%9045%E5%B2%81%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [共“进”向未来 “博”出新精彩](https://www.baidu.com/s?wd=%E5%85%B1%E2%80%9C%E8%BF%9B%E2%80%9D%E5%90%91%E6%9C%AA%E6%9D%A5+%E2%80%9C%E5%8D%9A%E2%80%9D%E5%87%BA%E6%96%B0%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [县民政局局长违规操办婚事被免职](https://www.baidu.com/s?wd=%E5%8E%BF%E6%B0%91%E6%94%BF%E5%B1%80%E5%B1%80%E9%95%BF%E8%BF%9D%E8%A7%84%E6%93%8D%E5%8A%9E%E5%A9%9A%E4%BA%8B%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [月薪五千借钱给儿子买万元电脑](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA%E4%BA%94%E5%8D%83%E5%80%9F%E9%92%B1%E7%BB%99%E5%84%BF%E5%AD%90%E4%B9%B0%E4%B8%87%E5%85%83%E7%94%B5%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [干部商人围坐“诈金花”？官方调查](https://www.baidu.com/s?wd=%E5%B9%B2%E9%83%A8%E5%95%86%E4%BA%BA%E5%9B%B4%E5%9D%90%E2%80%9C%E8%AF%88%E9%87%91%E8%8A%B1%E2%80%9D%EF%BC%9F%E5%AE%98%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女孩身上6个伤疤同寻人启事一致](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%BA%AB%E4%B8%8A6%E4%B8%AA%E4%BC%A4%E7%96%A4%E5%90%8C%E5%AF%BB%E4%BA%BA%E5%90%AF%E4%BA%8B%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [吉林一医院上空有大量飞鸟盘旋](https://www.baidu.com/s?wd=%E5%90%89%E6%9E%97%E4%B8%80%E5%8C%BB%E9%99%A2%E4%B8%8A%E7%A9%BA%E6%9C%89%E5%A4%A7%E9%87%8F%E9%A3%9E%E9%B8%9F%E7%9B%98%E6%97%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李显龙哽咽了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%98%BE%E9%BE%99%E5%93%BD%E5%92%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传外卖员年龄上限45岁系谣言](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%A4%96%E5%8D%96%E5%91%98%E5%B9%B4%E9%BE%84%E4%B8%8A%E9%99%9045%E5%B2%81%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
