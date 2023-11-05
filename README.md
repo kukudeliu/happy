@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 21:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 21:44:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [女子骑车到桥上将孩子推下河](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AA%91%E8%BD%A6%E5%88%B0%E6%A1%A5%E4%B8%8A%E5%B0%86%E5%AD%A9%E5%AD%90%E6%8E%A8%E4%B8%8B%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共“进”向未来 “博”出新精彩](https://www.baidu.com/s?wd=%E5%85%B1%E2%80%9C%E8%BF%9B%E2%80%9D%E5%90%91%E6%9C%AA%E6%9D%A5+%E2%80%9C%E5%8D%9A%E2%80%9D%E5%87%BA%E6%96%B0%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女孩身上6个伤疤同寻人启事一致](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%BA%AB%E4%B8%8A6%E4%B8%AA%E4%BC%A4%E7%96%A4%E5%90%8C%E5%AF%BB%E4%BA%BA%E5%90%AF%E4%BA%8B%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [疑因打车价格与司机争执 女子跳车](https://www.baidu.com/s?wd=%E7%96%91%E5%9B%A0%E6%89%93%E8%BD%A6%E4%BB%B7%E6%A0%BC%E4%B8%8E%E5%8F%B8%E6%9C%BA%E4%BA%89%E6%89%A7+%E5%A5%B3%E5%AD%90%E8%B7%B3%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [浙江建投原董事长沈德法主动投案](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%BB%BA%E6%8A%95%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E6%B2%88%E5%BE%B7%E6%B3%95%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [骗子准确说出信息大学生被骗350万](https://www.baidu.com/s?wd=%E9%AA%97%E5%AD%90%E5%87%86%E7%A1%AE%E8%AF%B4%E5%87%BA%E4%BF%A1%E6%81%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AA%97350%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [月薪五千借钱给儿子买万元电脑](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA%E4%BA%94%E5%8D%83%E5%80%9F%E9%92%B1%E7%BB%99%E5%84%BF%E5%AD%90%E4%B9%B0%E4%B8%87%E5%85%83%E7%94%B5%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加沙每10分钟就有一儿童死亡](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E6%AF%8F10%E5%88%86%E9%92%9F%E5%B0%B1%E6%9C%89%E4%B8%80%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [女子骑车到桥上将孩子推下河](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AA%91%E8%BD%A6%E5%88%B0%E6%A1%A5%E4%B8%8A%E5%B0%86%E5%AD%A9%E5%AD%90%E6%8E%A8%E4%B8%8B%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共“进”向未来 “博”出新精彩](https://www.baidu.com/s?wd=%E5%85%B1%E2%80%9C%E8%BF%9B%E2%80%9D%E5%90%91%E6%9C%AA%E6%9D%A5+%E2%80%9C%E5%8D%9A%E2%80%9D%E5%87%BA%E6%96%B0%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女孩身上6个伤疤同寻人启事一致](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%BA%AB%E4%B8%8A6%E4%B8%AA%E4%BC%A4%E7%96%A4%E5%90%8C%E5%AF%BB%E4%BA%BA%E5%90%AF%E4%BA%8B%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [疑因打车价格与司机争执 女子跳车](https://www.baidu.com/s?wd=%E7%96%91%E5%9B%A0%E6%89%93%E8%BD%A6%E4%BB%B7%E6%A0%BC%E4%B8%8E%E5%8F%B8%E6%9C%BA%E4%BA%89%E6%89%A7+%E5%A5%B3%E5%AD%90%E8%B7%B3%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [浙江建投原董事长沈德法主动投案](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%BB%BA%E6%8A%95%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E6%B2%88%E5%BE%B7%E6%B3%95%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [骗子准确说出信息大学生被骗350万](https://www.baidu.com/s?wd=%E9%AA%97%E5%AD%90%E5%87%86%E7%A1%AE%E8%AF%B4%E5%87%BA%E4%BF%A1%E6%81%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AA%97350%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [月薪五千借钱给儿子买万元电脑](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA%E4%BA%94%E5%8D%83%E5%80%9F%E9%92%B1%E7%BB%99%E5%84%BF%E5%AD%90%E4%B9%B0%E4%B8%87%E5%85%83%E7%94%B5%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加沙每10分钟就有一儿童死亡](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E6%AF%8F10%E5%88%86%E9%92%9F%E5%B0%B1%E6%9C%89%E4%B8%80%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
