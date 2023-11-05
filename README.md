@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 07:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 07:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [日本网民称福原爱被宠坏了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%A7%B0%E7%A6%8F%E5%8E%9F%E7%88%B1%E8%A2%AB%E5%AE%A0%E5%9D%8F%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [奥巴马称没有谁的手是干净的](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E7%A7%B0%E6%B2%A1%E6%9C%89%E8%B0%81%E7%9A%84%E6%89%8B%E6%98%AF%E5%B9%B2%E5%87%80%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [救救gala](https://s.weibo.com/weibo?q=%E6%95%91%E6%95%91gala&t=31&band_rank=7&Refer=top)<br />
-8. [北京11月6日零时点火试运行启动供暖](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC11%E6%9C%886%E6%97%A5%E9%9B%B6%E6%97%B6%E7%82%B9%E7%81%AB%E8%AF%95%E8%BF%90%E8%A1%8C%E5%90%AF%E5%8A%A8%E4%BE%9B%E6%9A%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [哈尔滨初雪](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E5%88%9D%E9%9B%AA&t=31&band_rank=9&Refer=top)<br />
+8. [哈尔滨初雪](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E5%88%9D%E9%9B%AA&t=31&band_rank=8&Refer=top)<br />
+9. [北京11月6日零时点火试运行启动供暖](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC11%E6%9C%886%E6%97%A5%E9%9B%B6%E6%97%B6%E7%82%B9%E7%81%AB%E8%AF%95%E8%BF%90%E8%A1%8C%E5%90%AF%E5%8A%A8%E4%BE%9B%E6%9A%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
