@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 19:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 19:56:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [祖孙四代做呱嗒200多年口味不变](https://s.weibo.com/weibo?q=%23%E7%A5%96%E5%AD%99%E5%9B%9B%E4%BB%A3%E5%81%9A%E5%91%B1%E5%97%92200%E5%A4%9A%E5%B9%B4%E5%8F%A3%E5%91%B3%E4%B8%8D%E5%8F%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [RNG能不能把gala卡回来](https://s.weibo.com/weibo?q=%23RNG%E8%83%BD%E4%B8%8D%E8%83%BD%E6%8A%8Agala%E5%8D%A1%E5%9B%9E%E6%9D%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [浙江一中学校长办公室变肠胃外科](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%8F%98%E8%82%A0%E8%83%83%E5%A4%96%E7%A7%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [皇马替樊振东发了Vlog](https://s.weibo.com/weibo?q=%E7%9A%87%E9%A9%AC%E6%9B%BF%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E4%BA%86Vlog&t=31&band_rank=8&Refer=top)<br />
-9. [宁王](https://s.weibo.com/weibo?q=%E5%AE%81%E7%8E%8B&t=31&band_rank=9&Refer=top)<br />
+8. [宁王](https://s.weibo.com/weibo?q=%E5%AE%81%E7%8E%8B&t=31&band_rank=8&Refer=top)<br />
+9. [皇马替樊振东发了Vlog](https://s.weibo.com/weibo?q=%E7%9A%87%E9%A9%AC%E6%9B%BF%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E4%BA%86Vlog&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
