@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 00:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 00:04:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [共“进”向未来 “博”出新精彩](https://www.baidu.com/s?wd=%E5%85%B1%E2%80%9C%E8%BF%9B%E2%80%9D%E5%90%91%E6%9C%AA%E6%9D%A5+%E2%80%9C%E5%8D%9A%E2%80%9D%E5%87%BA%E6%96%B0%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [县民政局局长违规操办婚事被免职](https://www.baidu.com/s?wd=%E5%8E%BF%E6%B0%91%E6%94%BF%E5%B1%80%E5%B1%80%E9%95%BF%E8%BF%9D%E8%A7%84%E6%93%8D%E5%8A%9E%E5%A9%9A%E4%BA%8B%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [奥巴马谈巴以冲突](https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%B0%88%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [何小鹏喊话“不知道他急什么”](https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%96%8A%E8%AF%9D%E2%80%9C%E4%B8%8D%E7%9F%A5%E9%81%93%E4%BB%96%E6%80%A5%E4%BB%80%E4%B9%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生晒合影被盗图造谣:评论不堪入目](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%99%92%E5%90%88%E5%BD%B1%E8%A2%AB%E7%9B%97%E5%9B%BE%E9%80%A0%E8%B0%A3%3A%E8%AF%84%E8%AE%BA%E4%B8%8D%E5%A0%AA%E5%85%A5%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [疑因打车价格与司机争执 女子跳车](https://www.baidu.com/s?wd=%E7%96%91%E5%9B%A0%E6%89%93%E8%BD%A6%E4%BB%B7%E6%A0%BC%E4%B8%8E%E5%8F%B8%E6%9C%BA%E4%BA%89%E6%89%A7+%E5%A5%B3%E5%AD%90%E8%B7%B3%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩身上6个伤疤同寻人启事一致](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%BA%AB%E4%B8%8A6%E4%B8%AA%E4%BC%A4%E7%96%A4%E5%90%8C%E5%AF%BB%E4%BA%BA%E5%90%AF%E4%BA%8B%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [共“进”向未来 “博”出新精彩](https://www.baidu.com/s?wd=%E5%85%B1%E2%80%9C%E8%BF%9B%E2%80%9D%E5%90%91%E6%9C%AA%E6%9D%A5+%E2%80%9C%E5%8D%9A%E2%80%9D%E5%87%BA%E6%96%B0%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [县民政局局长违规操办婚事被免职](https://www.baidu.com/s?wd=%E5%8E%BF%E6%B0%91%E6%94%BF%E5%B1%80%E5%B1%80%E9%95%BF%E8%BF%9D%E8%A7%84%E6%93%8D%E5%8A%9E%E5%A9%9A%E4%BA%8B%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [奥巴马谈巴以冲突](https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%B0%88%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [何小鹏喊话“不知道他急什么”](https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%96%8A%E8%AF%9D%E2%80%9C%E4%B8%8D%E7%9F%A5%E9%81%93%E4%BB%96%E6%80%A5%E4%BB%80%E4%B9%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生晒合影被盗图造谣:评论不堪入目](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%99%92%E5%90%88%E5%BD%B1%E8%A2%AB%E7%9B%97%E5%9B%BE%E9%80%A0%E8%B0%A3%3A%E8%AF%84%E8%AE%BA%E4%B8%8D%E5%A0%AA%E5%85%A5%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [疑因打车价格与司机争执 女子跳车](https://www.baidu.com/s?wd=%E7%96%91%E5%9B%A0%E6%89%93%E8%BD%A6%E4%BB%B7%E6%A0%BC%E4%B8%8E%E5%8F%B8%E6%9C%BA%E4%BA%89%E6%89%A7+%E5%A5%B3%E5%AD%90%E8%B7%B3%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩身上6个伤疤同寻人启事一致](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%BA%AB%E4%B8%8A6%E4%B8%AA%E4%BC%A4%E7%96%A4%E5%90%8C%E5%AF%BB%E4%BA%BA%E5%90%AF%E4%BA%8B%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
