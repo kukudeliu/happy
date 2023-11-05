@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 22:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 22:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以色列部长声称可对加沙投核弹](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E9%83%A8%E9%95%BF%E5%A3%B0%E7%A7%B0%E5%8F%AF%E5%AF%B9%E5%8A%A0%E6%B2%99%E6%8A%95%E6%A0%B8%E5%BC%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [gala哭了](https://s.weibo.com/weibo?q=gala%E5%93%AD%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [Cat 顶级辅助](https://s.weibo.com/weibo?q=Cat%20%E9%A1%B6%E7%BA%A7%E8%BE%85%E5%8A%A9&t=31&band_rank=8&Refer=top)<br />
-9. [刘昊然回应一部手机用五六年](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E5%9B%9E%E5%BA%94%E4%B8%80%E9%83%A8%E6%89%8B%E6%9C%BA%E7%94%A8%E4%BA%94%E5%85%AD%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [王艺迪4比0王曼昱](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%89%BA%E8%BF%AA4%E6%AF%940%E7%8E%8B%E6%9B%BC%E6%98%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [男子称因脸太方应聘多家工厂被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E5%9B%A0%E8%84%B8%E5%A4%AA%E6%96%B9%E5%BA%94%E8%81%98%E5%A4%9A%E5%AE%B6%E5%B7%A5%E5%8E%82%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [布林肯会见巴勒斯坦总统阿巴斯](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%E4%BC%9A%E8%A7%81%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%80%BB%E7%BB%9F%E9%98%BF%E5%B7%B4%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [货车轮胎打气时爆炸 3人被弹飞](https://www.baidu.com/s?wd=%E8%B4%A7%E8%BD%A6%E8%BD%AE%E8%83%8E%E6%89%93%E6%B0%94%E6%97%B6%E7%88%86%E7%82%B8+3%E4%BA%BA%E8%A2%AB%E5%BC%B9%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曝美欧乌已商讨与俄“和谈条件”](https://www.baidu.com/s?wd=%E6%9B%9D%E7%BE%8E%E6%AC%A7%E4%B9%8C%E5%B7%B2%E5%95%86%E8%AE%A8%E4%B8%8E%E4%BF%84%E2%80%9C%E5%92%8C%E8%B0%88%E6%9D%A1%E4%BB%B6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩身上6个伤疤同寻人启事一致](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%BA%AB%E4%B8%8A6%E4%B8%AA%E4%BC%A4%E7%96%A4%E5%90%8C%E5%AF%BB%E4%BA%BA%E5%90%AF%E4%BA%8B%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男子称因脸太方应聘多家工厂被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E5%9B%A0%E8%84%B8%E5%A4%AA%E6%96%B9%E5%BA%94%E8%81%98%E5%A4%9A%E5%AE%B6%E5%B7%A5%E5%8E%82%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [布林肯会见巴勒斯坦总统阿巴斯](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%E4%BC%9A%E8%A7%81%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%80%BB%E7%BB%9F%E9%98%BF%E5%B7%B4%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [货车轮胎打气时爆炸 3人被弹飞](https://www.baidu.com/s?wd=%E8%B4%A7%E8%BD%A6%E8%BD%AE%E8%83%8E%E6%89%93%E6%B0%94%E6%97%B6%E7%88%86%E7%82%B8+3%E4%BA%BA%E8%A2%AB%E5%BC%B9%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曝美欧乌已商讨与俄“和谈条件”](https://www.baidu.com/s?wd=%E6%9B%9D%E7%BE%8E%E6%AC%A7%E4%B9%8C%E5%B7%B2%E5%95%86%E8%AE%A8%E4%B8%8E%E4%BF%84%E2%80%9C%E5%92%8C%E8%B0%88%E6%9D%A1%E4%BB%B6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩身上6个伤疤同寻人启事一致](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%BA%AB%E4%B8%8A6%E4%B8%AA%E4%BC%A4%E7%96%A4%E5%90%8C%E5%AF%BB%E4%BA%BA%E5%90%AF%E4%BA%8B%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
