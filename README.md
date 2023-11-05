@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 23:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 23:20:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [救救gala](https://s.weibo.com/weibo?q=%E6%95%91%E6%95%91gala&t=31&band_rank=2&Refer=top)<br />
 3. [揭秘进博会网红巴基斯坦盐灯](https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E8%BF%9B%E5%8D%9A%E4%BC%9A%E7%BD%91%E7%BA%A2%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%9B%90%E7%81%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [日本网民称福原爱被宠坏了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%A7%B0%E7%A6%8F%E5%8E%9F%E7%88%B1%E8%A2%AB%E5%AE%A0%E5%9D%8F%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [北京供暖](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%BE%9B%E6%9A%96&t=31&band_rank=5&Refer=top)<br />
-6. [gala哭了](https://s.weibo.com/weibo?q=gala%E5%93%AD%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [小胖激动到流鼻血](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%83%96%E6%BF%80%E5%8A%A8%E5%88%B0%E6%B5%81%E9%BC%BB%E8%A1%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [RNG能不能把gala卡回来](https://s.weibo.com/weibo?q=%23RNG%E8%83%BD%E4%B8%8D%E8%83%BD%E6%8A%8Agala%E5%8D%A1%E5%9B%9E%E6%9D%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [T1晋级S13四强](https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=9&Refer=top)<br />
+5. [马龙飞身救球](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E9%A3%9E%E8%BA%AB%E6%95%91%E7%90%83%23&t=31&band_rank=5&Refer=top)<br />
+6. [北京供暖](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%BE%9B%E6%9A%96&t=31&band_rank=6&Refer=top)<br />
+7. [马龙1比4林昀儒](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%991%E6%AF%944%E6%9E%97%E6%98%80%E5%84%92%23&t=31&band_rank=7&Refer=top)<br />
+8. [gala哭了](https://s.weibo.com/weibo?q=gala%E5%93%AD%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [小胖激动到流鼻血](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%83%96%E6%BF%80%E5%8A%A8%E5%88%B0%E6%B5%81%E9%BC%BB%E8%A1%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
