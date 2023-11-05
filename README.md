@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 12:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 12:34:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [进博会成功举办五届 有这些变化](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E6%88%90%E5%8A%9F%E4%B8%BE%E5%8A%9E%E4%BA%94%E5%B1%8A+%E6%9C%89%E8%BF%99%E4%BA%9B%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [东北这次强降雪下到发紫](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E8%BF%99%E6%AC%A1%E5%BC%BA%E9%99%8D%E9%9B%AA%E4%B8%8B%E5%88%B0%E5%8F%91%E7%B4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [摩托车骑手撞上钢管致粉碎性骨折](https://www.baidu.com/s?wd=%E6%91%A9%E6%89%98%E8%BD%A6%E9%AA%91%E6%89%8B%E6%92%9E%E4%B8%8A%E9%92%A2%E7%AE%A1%E8%87%B4%E7%B2%89%E7%A2%8E%E6%80%A7%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国公民在菲被绑架 知情人披露细节](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E8%8F%B2%E8%A2%AB%E7%BB%91%E6%9E%B6+%E7%9F%A5%E6%83%85%E4%BA%BA%E6%8A%AB%E9%9C%B2%E7%BB%86%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红一笑倾城停更76天后复更](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%B8%80%E7%AC%91%E5%80%BE%E5%9F%8E%E5%81%9C%E6%9B%B476%E5%A4%A9%E5%90%8E%E5%A4%8D%E6%9B%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [几内亚宣布关闭该国边境](https://www.baidu.com/s?wd=%E5%87%A0%E5%86%85%E4%BA%9A%E5%AE%A3%E5%B8%83%E5%85%B3%E9%97%AD%E8%AF%A5%E5%9B%BD%E8%BE%B9%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [作家周涛突发心梗去世](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E5%91%A8%E6%B6%9B%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [进博会成功举办五届 有这些变化](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E6%88%90%E5%8A%9F%E4%B8%BE%E5%8A%9E%E4%BA%94%E5%B1%8A+%E6%9C%89%E8%BF%99%E4%BA%9B%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [东北这次强降雪下到发紫](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E8%BF%99%E6%AC%A1%E5%BC%BA%E9%99%8D%E9%9B%AA%E4%B8%8B%E5%88%B0%E5%8F%91%E7%B4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [摩托车骑手撞上钢管致粉碎性骨折](https://www.baidu.com/s?wd=%E6%91%A9%E6%89%98%E8%BD%A6%E9%AA%91%E6%89%8B%E6%92%9E%E4%B8%8A%E9%92%A2%E7%AE%A1%E8%87%B4%E7%B2%89%E7%A2%8E%E6%80%A7%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国公民在菲被绑架 知情人披露细节](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E8%8F%B2%E8%A2%AB%E7%BB%91%E6%9E%B6+%E7%9F%A5%E6%83%85%E4%BA%BA%E6%8A%AB%E9%9C%B2%E7%BB%86%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红一笑倾城停更76天后复更](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%B8%80%E7%AC%91%E5%80%BE%E5%9F%8E%E5%81%9C%E6%9B%B476%E5%A4%A9%E5%90%8E%E5%A4%8D%E6%9B%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [几内亚宣布关闭该国边境](https://www.baidu.com/s?wd=%E5%87%A0%E5%86%85%E4%BA%9A%E5%AE%A3%E5%B8%83%E5%85%B3%E9%97%AD%E8%AF%A5%E5%9B%BD%E8%BE%B9%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [作家周涛突发心梗去世](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E5%91%A8%E6%B6%9B%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
