@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 11:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 11:27:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [刘涛解释妈祖为什么会说英语](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E8%A7%A3%E9%87%8A%E5%A6%88%E7%A5%96%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E8%AF%B4%E8%8B%B1%E8%AF%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [中央气象台连发4个预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E8%BF%9E%E5%8F%914%E4%B8%AA%E9%A2%84%E8%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [买8只大闸蟹老板给我寄了个蒸笼](https://s.weibo.com/weibo?q=%23%E4%B9%B08%E5%8F%AA%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%80%81%E6%9D%BF%E7%BB%99%E6%88%91%E5%AF%84%E4%BA%86%E4%B8%AA%E8%92%B8%E7%AC%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [要久久爱](https://s.weibo.com/weibo?q=%E8%A6%81%E4%B9%85%E4%B9%85%E7%88%B1&t=31&band_rank=8&Refer=top)<br />
-9. [睡眠不好等于在身体内养毒](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E4%B8%8D%E5%A5%BD%E7%AD%89%E4%BA%8E%E5%9C%A8%E8%BA%AB%E4%BD%93%E5%86%85%E5%85%BB%E6%AF%92%23&t=31&band_rank=9&Refer=top)<br />
+8. [睡眠不好等于在身体内养毒](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E4%B8%8D%E5%A5%BD%E7%AD%89%E4%BA%8E%E5%9C%A8%E8%BA%AB%E4%BD%93%E5%86%85%E5%85%BB%E6%AF%92%23&t=31&band_rank=8&Refer=top)<br />
+9. [要久久爱](https://s.weibo.com/weibo?q=%E8%A6%81%E4%B9%85%E4%B9%85%E7%88%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
