@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 18:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 18:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Tarzan 皇子](https://s.weibo.com/weibo?q=Tarzan%20%E7%9A%87%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
 7. [浙江一中学校长办公室变肠胃外科](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%8F%98%E8%82%A0%E8%83%83%E5%A4%96%E7%A7%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [骗子准确说出信息大学生被骗350万](https://s.weibo.com/weibo?q=%23%E9%AA%97%E5%AD%90%E5%87%86%E7%A1%AE%E8%AF%B4%E5%87%BA%E4%BF%A1%E6%81%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AA%97350%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [管泽元预测](https://s.weibo.com/weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83%E9%A2%84%E6%B5%8B&t=31&band_rank=9&Refer=top)<br />
+9. [人机局](https://s.weibo.com/weibo?q=%E4%BA%BA%E6%9C%BA%E5%B1%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
