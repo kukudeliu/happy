@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 15:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 15:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以色列](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [肺部CT报告中有些字眼可能是癌](https://s.weibo.com/weibo?q=%23%E8%82%BA%E9%83%A8CT%E6%8A%A5%E5%91%8A%E4%B8%AD%E6%9C%89%E4%BA%9B%E5%AD%97%E7%9C%BC%E5%8F%AF%E8%83%BD%E6%98%AF%E7%99%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [俞灏明被说丑悲伤离场](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E7%81%8F%E6%98%8E%E8%A2%AB%E8%AF%B4%E4%B8%91%E6%82%B2%E4%BC%A4%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩国的婴儿车里都是小狗](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%9A%84%E5%A9%B4%E5%84%BF%E8%BD%A6%E9%87%8C%E9%83%BD%E6%98%AF%E5%B0%8F%E7%8B%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [骗子准确说出信息大学生被骗350万](https://s.weibo.com/weibo?q=%23%E9%AA%97%E5%AD%90%E5%87%86%E7%A1%AE%E8%AF%B4%E5%87%BA%E4%BF%A1%E6%81%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AA%97350%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
