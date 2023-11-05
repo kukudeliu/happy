@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 11:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 11:45:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [李善均承认吸毒](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%96%84%E5%9D%87%E6%89%BF%E8%AE%A4%E5%90%B8%E6%AF%92%23&t=31&band_rank=2&Refer=top)<br />
 3. [一个进口产品浓度超高的地方在中国](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E8%BF%9B%E5%8F%A3%E4%BA%A7%E5%93%81%E6%B5%93%E5%BA%A6%E8%B6%85%E9%AB%98%E7%9A%84%E5%9C%B0%E6%96%B9%E5%9C%A8%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [李佳航 意难平](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E8%88%AA%20%E6%84%8F%E9%9A%BE%E5%B9%B3&t=31&band_rank=4&Refer=top)<br />
-5. [关晓彤生日被整蛊](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%94%9F%E6%97%A5%E8%A2%AB%E6%95%B4%E8%9B%8A%23&t=31&band_rank=5&Refer=top)<br />
-6. [肺部CT报告中有些字眼可能是癌](https://s.weibo.com/weibo?q=%23%E8%82%BA%E9%83%A8CT%E6%8A%A5%E5%91%8A%E4%B8%AD%E6%9C%89%E4%BA%9B%E5%AD%97%E7%9C%BC%E5%8F%AF%E8%83%BD%E6%98%AF%E7%99%8C%23&t=31&band_rank=6&Refer=top)<br />
+5. [肺部CT报告中有些字眼可能是癌](https://s.weibo.com/weibo?q=%23%E8%82%BA%E9%83%A8CT%E6%8A%A5%E5%91%8A%E4%B8%AD%E6%9C%89%E4%BA%9B%E5%AD%97%E7%9C%BC%E5%8F%AF%E8%83%BD%E6%98%AF%E7%99%8C%23&t=31&band_rank=5&Refer=top)<br />
+6. [关晓彤生日被整蛊](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%94%9F%E6%97%A5%E8%A2%AB%E6%95%B4%E8%9B%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘涛解释妈祖为什么会说英语](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E8%A7%A3%E9%87%8A%E5%A6%88%E7%A5%96%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E8%AF%B4%E8%8B%B1%E8%AF%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [睡眠不好等于在身体内养毒](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E4%B8%8D%E5%A5%BD%E7%AD%89%E4%BA%8E%E5%9C%A8%E8%BA%AB%E4%BD%93%E5%86%85%E5%85%BB%E6%AF%92%23&t=31&band_rank=8&Refer=top)<br />
 9. [中央气象台连发4个预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E8%BF%9E%E5%8F%914%E4%B8%AA%E9%A2%84%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
