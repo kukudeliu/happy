@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 08:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 08:40:01</h4></div>
 
 > 微博  
 
 1. [超市老板猥亵14岁小女孩被行拘9日](https://s.weibo.com/weibo?q=%23%E8%B6%85%E5%B8%82%E8%80%81%E6%9D%BF%E7%8C%A5%E4%BA%B514%E5%B2%81%E5%B0%8F%E5%A5%B3%E5%AD%A9%E8%A2%AB%E8%A1%8C%E6%8B%989%E6%97%A5%23&t=31&band_rank=1&Refer=top)<br />
 2. [东北这次强降雪下到发紫](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E8%BF%99%E6%AC%A1%E5%BC%BA%E9%99%8D%E9%9B%AA%E4%B8%8B%E5%88%B0%E5%8F%91%E7%B4%AB%23&t=31&band_rank=2&Refer=top)<br />
 3. [让看电视更简单消费不套娃](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E7%9C%8B%E7%94%B5%E8%A7%86%E6%9B%B4%E7%AE%80%E5%8D%95%E6%B6%88%E8%B4%B9%E4%B8%8D%E5%A5%97%E5%A8%83%23&t=31&band_rank=3&Refer=top)<br />
-4. [作家周涛突发心梗去世](https://s.weibo.com/weibo?q=%23%E4%BD%9C%E5%AE%B6%E5%91%A8%E6%B6%9B%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
-5. [关晓彤生日被整蛊](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%94%9F%E6%97%A5%E8%A2%AB%E6%95%B4%E8%9B%8A%23&t=31&band_rank=5&Refer=top)<br />
+4. [关晓彤生日被整蛊](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%94%9F%E6%97%A5%E8%A2%AB%E6%95%B4%E8%9B%8A%23&t=31&band_rank=4&Refer=top)<br />
+5. [作家周涛突发心梗去世](https://s.weibo.com/weibo?q=%23%E4%BD%9C%E5%AE%B6%E5%91%A8%E6%B6%9B%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [女子全麻术后被好友轮流拿喇叭叫醒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%85%A8%E9%BA%BB%E6%9C%AF%E5%90%8E%E8%A2%AB%E5%A5%BD%E5%8F%8B%E8%BD%AE%E6%B5%81%E6%8B%BF%E5%96%87%E5%8F%AD%E5%8F%AB%E9%86%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [艾伦三笠 最后一吻](https://s.weibo.com/weibo?q=%E8%89%BE%E4%BC%A6%E4%B8%89%E7%AC%A0%20%E6%9C%80%E5%90%8E%E4%B8%80%E5%90%BB&t=31&band_rank=7&Refer=top)<br />
 8. [孙颖莎](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E&t=31&band_rank=8&Refer=top)<br />
