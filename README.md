@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 00:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 00:33:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [揭秘进博会网红巴基斯坦盐灯](https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E8%BF%9B%E5%8D%9A%E4%BC%9A%E7%BD%91%E7%BA%A2%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%9B%90%E7%81%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [日本网民称福原爱被宠坏了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%A7%B0%E7%A6%8F%E5%8E%9F%E7%88%B1%E8%A2%AB%E5%AE%A0%E5%9D%8F%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [gala哭了](https://s.weibo.com/weibo?q=gala%E5%93%AD%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
-6. [林昀儒WTT男单夺冠](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%98%80%E5%84%92WTT%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0%23&t=31&band_rank=6&Refer=top)<br />
-7. [RNG能不能把gala卡回来](https://s.weibo.com/weibo?q=%23RNG%E8%83%BD%E4%B8%8D%E8%83%BD%E6%8A%8Agala%E5%8D%A1%E5%9B%9E%E6%9D%A5%23&t=31&band_rank=7&Refer=top)<br />
+6. [RNG能不能把gala卡回来](https://s.weibo.com/weibo?q=%23RNG%E8%83%BD%E4%B8%8D%E8%83%BD%E6%8A%8Agala%E5%8D%A1%E5%9B%9E%E6%9D%A5%23&t=31&band_rank=6&Refer=top)<br />
+7. [林昀儒WTT男单夺冠](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%98%80%E5%84%92WTT%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0%23&t=31&band_rank=7&Refer=top)<br />
 8. [马龙1比4林昀儒](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%991%E6%AF%944%E6%9E%97%E6%98%80%E5%84%92%23&t=31&band_rank=8&Refer=top)<br />
 9. [T1晋级S13四强](https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -24,7 +24,7 @@
 5. [县民政局局长违规操办婚事被免职](https://www.baidu.com/s?wd=%E5%8E%BF%E6%B0%91%E6%94%BF%E5%B1%80%E5%B1%80%E9%95%BF%E8%BF%9D%E8%A7%84%E6%93%8D%E5%8A%9E%E5%A9%9A%E4%BA%8B%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [接连三震正常吗？广东地震台回应](https://www.baidu.com/s?wd=%E6%8E%A5%E8%BF%9E%E4%B8%89%E9%9C%87%E6%AD%A3%E5%B8%B8%E5%90%97%EF%BC%9F%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87%E5%8F%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [奥巴马谈巴以冲突](https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%B0%88%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [货车轮胎打气时爆炸 3人被弹飞](https://www.baidu.com/s?wd=%E8%B4%A7%E8%BD%A6%E8%BD%AE%E8%83%8E%E6%89%93%E6%B0%94%E6%97%B6%E7%88%86%E7%82%B8+3%E4%BA%BA%E8%A2%AB%E5%BC%B9%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [月薪五千借钱给儿子买万元电脑](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA%E4%BA%94%E5%8D%83%E5%80%9F%E9%92%B1%E7%BB%99%E5%84%BF%E5%AD%90%E4%B9%B0%E4%B8%87%E5%85%83%E7%94%B5%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传外卖员年龄上限45岁系谣言](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%A4%96%E5%8D%96%E5%91%98%E5%B9%B4%E9%BE%84%E4%B8%8A%E9%99%9045%E5%B2%81%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [县民政局局长违规操办婚事被免职](https://www.baidu.com/s?wd=%E5%8E%BF%E6%B0%91%E6%94%BF%E5%B1%80%E5%B1%80%E9%95%BF%E8%BF%9D%E8%A7%84%E6%93%8D%E5%8A%9E%E5%A9%9A%E4%BA%8B%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [接连三震正常吗？广东地震台回应](https://www.baidu.com/s?wd=%E6%8E%A5%E8%BF%9E%E4%B8%89%E9%9C%87%E6%AD%A3%E5%B8%B8%E5%90%97%EF%BC%9F%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87%E5%8F%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [奥巴马谈巴以冲突](https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%B0%88%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [货车轮胎打气时爆炸 3人被弹飞](https://www.baidu.com/s?wd=%E8%B4%A7%E8%BD%A6%E8%BD%AE%E8%83%8E%E6%89%93%E6%B0%94%E6%97%B6%E7%88%86%E7%82%B8+3%E4%BA%BA%E8%A2%AB%E5%BC%B9%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [月薪五千借钱给儿子买万元电脑](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA%E4%BA%94%E5%8D%83%E5%80%9F%E9%92%B1%E7%BB%99%E5%84%BF%E5%AD%90%E4%B9%B0%E4%B8%87%E5%85%83%E7%94%B5%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传外卖员年龄上限45岁系谣言](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%A4%96%E5%8D%96%E5%91%98%E5%B9%B4%E9%BE%84%E4%B8%8A%E9%99%9045%E5%B2%81%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
