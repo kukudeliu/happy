@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 17:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 17:09:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [福原爱或面临2年以上有期徒刑](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E6%88%96%E9%9D%A2%E4%B8%B42%E5%B9%B4%E4%BB%A5%E4%B8%8A%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [Tarzan 皇子](https://s.weibo.com/weibo?q=Tarzan%20%E7%9A%87%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
 7. [江歌妈妈一句话概括拯救嫌疑人](https://s.weibo.com/weibo?q=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%A6%82%E6%8B%AC%E6%8B%AF%E6%95%91%E5%AB%8C%E7%96%91%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
-8. [谁家接吻戴墨镜啊](https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E6%8E%A5%E5%90%BB%E6%88%B4%E5%A2%A8%E9%95%9C%E5%95%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [辅助机器人](https://s.weibo.com/weibo?q=%E8%BE%85%E5%8A%A9%E6%9C%BA%E5%99%A8%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
+8. [辅助机器人](https://s.weibo.com/weibo?q=%E8%BE%85%E5%8A%A9%E6%9C%BA%E5%99%A8%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
+9. [谁家接吻戴墨镜啊](https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E6%8E%A5%E5%90%BB%E6%88%B4%E5%A2%A8%E9%95%9C%E5%95%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
