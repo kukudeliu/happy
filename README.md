@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 09:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 09:44:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [毛毛姐称直播间手机被调包成模型机](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%AF%9B%E5%A7%90%E7%A7%B0%E7%9B%B4%E6%92%AD%E9%97%B4%E6%89%8B%E6%9C%BA%E8%A2%AB%E8%B0%83%E5%8C%85%E6%88%90%E6%A8%A1%E5%9E%8B%E6%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [李佳琦公司回应员工收百万好处费](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E5%91%98%E5%B7%A5%E6%94%B6%E7%99%BE%E4%B8%87%E5%A5%BD%E5%A4%84%E8%B4%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [作家周涛突发心梗去世](https://s.weibo.com/weibo?q=%23%E4%BD%9C%E5%AE%B6%E5%91%A8%E6%B6%9B%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [艾伦三笠 最后一吻](https://s.weibo.com/weibo?q=%E8%89%BE%E4%BC%A6%E4%B8%89%E7%AC%A0%20%E6%9C%80%E5%90%8E%E4%B8%80%E5%90%BB&t=31&band_rank=8&Refer=top)<br />
-9. [中央气象台连发4个预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E8%BF%9E%E5%8F%914%E4%B8%AA%E9%A2%84%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [中央气象台连发4个预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E8%BF%9E%E5%8F%914%E4%B8%AA%E9%A2%84%E8%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [艾伦三笠 最后一吻](https://s.weibo.com/weibo?q=%E8%89%BE%E4%BC%A6%E4%B8%89%E7%AC%A0%20%E6%9C%80%E5%90%8E%E4%B8%80%E5%90%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [教育面临四大新挑战](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%9D%A2%E4%B8%B4%E5%9B%9B%E5%A4%A7%E6%96%B0%E6%8C%91%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [作家周涛突发心梗去世](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E5%91%A8%E6%B6%9B%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [报道巴以冲突的女记者陈慧慧将回撤](https://www.baidu.com/s?wd=%E6%8A%A5%E9%81%93%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E7%9A%84%E5%A5%B3%E8%AE%B0%E8%80%85%E9%99%88%E6%85%A7%E6%85%A7%E5%B0%86%E5%9B%9E%E6%92%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被狗咬伤男童已出ICU：耳朵缺一块](https://www.baidu.com/s?wd=%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E7%94%B7%E7%AB%A5%E5%B7%B2%E5%87%BAICU%EF%BC%9A%E8%80%B3%E6%9C%B5%E7%BC%BA%E4%B8%80%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子全麻术后被好友轮流拿喇叭叫醒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%A8%E9%BA%BB%E6%9C%AF%E5%90%8E%E8%A2%AB%E5%A5%BD%E5%8F%8B%E8%BD%AE%E6%B5%81%E6%8B%BF%E5%96%87%E5%8F%AD%E5%8F%AB%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [教育面临四大新挑战](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%9D%A2%E4%B8%B4%E5%9B%9B%E5%A4%A7%E6%96%B0%E6%8C%91%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [作家周涛突发心梗去世](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E5%91%A8%E6%B6%9B%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [报道巴以冲突的女记者陈慧慧将回撤](https://www.baidu.com/s?wd=%E6%8A%A5%E9%81%93%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E7%9A%84%E5%A5%B3%E8%AE%B0%E8%80%85%E9%99%88%E6%85%A7%E6%85%A7%E5%B0%86%E5%9B%9E%E6%92%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被狗咬伤男童已出ICU：耳朵缺一块](https://www.baidu.com/s?wd=%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E7%94%B7%E7%AB%A5%E5%B7%B2%E5%87%BAICU%EF%BC%9A%E8%80%B3%E6%9C%B5%E7%BC%BA%E4%B8%80%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子全麻术后被好友轮流拿喇叭叫醒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%A8%E9%BA%BB%E6%9C%AF%E5%90%8E%E8%A2%AB%E5%A5%BD%E5%8F%8B%E8%BD%AE%E6%B5%81%E6%8B%BF%E5%96%87%E5%8F%AD%E5%8F%AB%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
