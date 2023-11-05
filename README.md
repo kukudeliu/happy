@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 18:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 18:52:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [T1零封LNG晋级S13四强](https://www.baidu.com/s?wd=T1%E9%9B%B6%E5%B0%81LNG%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [骗子准确说出信息大学生被骗350万](https://www.baidu.com/s?wd=%E9%AA%97%E5%AD%90%E5%87%86%E7%A1%AE%E8%AF%B4%E5%87%BA%E4%BF%A1%E6%81%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AA%97350%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [浙江一校长办公室变肠胃外科](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E6%A0%A1%E9%95%BF%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%8F%98%E8%82%A0%E8%83%83%E5%A4%96%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [打工人职场头像学](https://www.baidu.com/s?wd=%E6%89%93%E5%B7%A5%E4%BA%BA%E8%81%8C%E5%9C%BA%E5%A4%B4%E5%83%8F%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吉林一医院上空有大量飞鸟盘旋](https://www.baidu.com/s?wd=%E5%90%89%E6%9E%97%E4%B8%80%E5%8C%BB%E9%99%A2%E4%B8%8A%E7%A9%BA%E6%9C%89%E5%A4%A7%E9%87%8F%E9%A3%9E%E9%B8%9F%E7%9B%98%E6%97%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [T1零封LNG晋级S13四强](https://www.baidu.com/s?wd=T1%E9%9B%B6%E5%B0%81LNG%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [骗子准确说出信息大学生被骗350万](https://www.baidu.com/s?wd=%E9%AA%97%E5%AD%90%E5%87%86%E7%A1%AE%E8%AF%B4%E5%87%BA%E4%BF%A1%E6%81%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AA%97350%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [浙江一校长办公室变肠胃外科](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E6%A0%A1%E9%95%BF%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%8F%98%E8%82%A0%E8%83%83%E5%A4%96%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [打工人职场头像学](https://www.baidu.com/s?wd=%E6%89%93%E5%B7%A5%E4%BA%BA%E8%81%8C%E5%9C%BA%E5%A4%B4%E5%83%8F%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吉林一医院上空有大量飞鸟盘旋](https://www.baidu.com/s?wd=%E5%90%89%E6%9E%97%E4%B8%80%E5%8C%BB%E9%99%A2%E4%B8%8A%E7%A9%BA%E6%9C%89%E5%A4%A7%E9%87%8F%E9%A3%9E%E9%B8%9F%E7%9B%98%E6%97%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
