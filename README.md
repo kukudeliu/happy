@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 13:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 13:04:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [货车轮胎打气时爆炸 3人被弹飞](https://www.baidu.com/s?wd=%E8%B4%A7%E8%BD%A6%E8%BD%AE%E8%83%8E%E6%89%93%E6%B0%94%E6%97%B6%E7%88%86%E7%82%B8+3%E4%BA%BA%E8%A2%AB%E5%BC%B9%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东北这次强降雪下到发紫](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E8%BF%99%E6%AC%A1%E5%BC%BA%E9%99%8D%E9%9B%AA%E4%B8%8B%E5%88%B0%E5%8F%91%E7%B4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [3元以下的饮料要消失了？](https://www.baidu.com/s?wd=3%E5%85%83%E4%BB%A5%E4%B8%8B%E7%9A%84%E9%A5%AE%E6%96%99%E8%A6%81%E6%B6%88%E5%A4%B1%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红一笑倾城停更76天后复更](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%B8%80%E7%AC%91%E5%80%BE%E5%9F%8E%E5%81%9C%E6%9B%B476%E5%A4%A9%E5%90%8E%E5%A4%8D%E6%9B%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [关晓彤生日被整蛊](https://www.baidu.com/s?wd=%E5%85%B3%E6%99%93%E5%BD%A4%E7%94%9F%E6%97%A5%E8%A2%AB%E6%95%B4%E8%9B%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [货车轮胎打气时爆炸 3人被弹飞](https://www.baidu.com/s?wd=%E8%B4%A7%E8%BD%A6%E8%BD%AE%E8%83%8E%E6%89%93%E6%B0%94%E6%97%B6%E7%88%86%E7%82%B8+3%E4%BA%BA%E8%A2%AB%E5%BC%B9%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东北这次强降雪下到发紫](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E8%BF%99%E6%AC%A1%E5%BC%BA%E9%99%8D%E9%9B%AA%E4%B8%8B%E5%88%B0%E5%8F%91%E7%B4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [3元以下的饮料要消失了？](https://www.baidu.com/s?wd=3%E5%85%83%E4%BB%A5%E4%B8%8B%E7%9A%84%E9%A5%AE%E6%96%99%E8%A6%81%E6%B6%88%E5%A4%B1%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红一笑倾城停更76天后复更](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%B8%80%E7%AC%91%E5%80%BE%E5%9F%8E%E5%81%9C%E6%9B%B476%E5%A4%A9%E5%90%8E%E5%A4%8D%E6%9B%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [关晓彤生日被整蛊](https://www.baidu.com/s?wd=%E5%85%B3%E6%99%93%E5%BD%A4%E7%94%9F%E6%97%A5%E8%A2%AB%E6%95%B4%E8%9B%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
