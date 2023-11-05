@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 21:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 21:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘昊然回应一部手机用五六年](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E5%9B%9E%E5%BA%94%E4%B8%80%E9%83%A8%E6%89%8B%E6%9C%BA%E7%94%A8%E4%BA%94%E5%85%AD%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [Tarzan 皇子](https://s.weibo.com/weibo?q=Tarzan%20%E7%9A%87%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
 8. [RNG能不能把gala卡回来](https://s.weibo.com/weibo?q=%23RNG%E8%83%BD%E4%B8%8D%E8%83%BD%E6%8A%8Agala%E5%8D%A1%E5%9B%9E%E6%9D%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩国将禁止股票卖空直到明年6月](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%B0%86%E7%A6%81%E6%AD%A2%E8%82%A1%E7%A5%A8%E5%8D%96%E7%A9%BA%E7%9B%B4%E5%88%B0%E6%98%8E%E5%B9%B46%E6%9C%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [以爱为营正片vs路透](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E6%AD%A3%E7%89%87vs%E8%B7%AF%E9%80%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
