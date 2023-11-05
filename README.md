@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 00:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 00:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [gala哭了](https://s.weibo.com/weibo?q=gala%E5%93%AD%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [RNG能不能把gala卡回来](https://s.weibo.com/weibo?q=%23RNG%E8%83%BD%E4%B8%8D%E8%83%BD%E6%8A%8Agala%E5%8D%A1%E5%9B%9E%E6%9D%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [马龙1比4林昀儒](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%991%E6%AF%944%E6%9E%97%E6%98%80%E5%84%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [北京供暖](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%BE%9B%E6%9A%96&t=31&band_rank=9&Refer=top)<br />
+9. [T1晋级S13四强](https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
