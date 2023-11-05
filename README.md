@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 03:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 03:44:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [县民政局局长违规操办婚事被免职](https://www.baidu.com/s?wd=%E5%8E%BF%E6%B0%91%E6%94%BF%E5%B1%80%E5%B1%80%E9%95%BF%E8%BF%9D%E8%A7%84%E6%93%8D%E5%8A%9E%E5%A9%9A%E4%BA%8B%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [骗子准确说出信息大学生被骗350万](https://www.baidu.com/s?wd=%E9%AA%97%E5%AD%90%E5%87%86%E7%A1%AE%E8%AF%B4%E5%87%BA%E4%BF%A1%E6%81%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AA%97350%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黑龙江一市因暴雪停课停工停产](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%B8%82%E5%9B%A0%E6%9A%B4%E9%9B%AA%E5%81%9C%E8%AF%BE%E5%81%9C%E5%B7%A5%E5%81%9C%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [过山车立柱大幅晃动？广州长隆回应](https://www.baidu.com/s?wd=%E8%BF%87%E5%B1%B1%E8%BD%A6%E7%AB%8B%E6%9F%B1%E5%A4%A7%E5%B9%85%E6%99%83%E5%8A%A8%EF%BC%9F%E5%B9%BF%E5%B7%9E%E9%95%BF%E9%9A%86%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩身上6个伤疤同寻人启事一致](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%BA%AB%E4%B8%8A6%E4%B8%AA%E4%BC%A4%E7%96%A4%E5%90%8C%E5%AF%BB%E4%BA%BA%E5%90%AF%E4%BA%8B%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传外卖员年龄上限45岁系谣言](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%A4%96%E5%8D%96%E5%91%98%E5%B9%B4%E9%BE%84%E4%B8%8A%E9%99%9045%E5%B2%81%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [县民政局局长违规操办婚事被免职](https://www.baidu.com/s?wd=%E5%8E%BF%E6%B0%91%E6%94%BF%E5%B1%80%E5%B1%80%E9%95%BF%E8%BF%9D%E8%A7%84%E6%93%8D%E5%8A%9E%E5%A9%9A%E4%BA%8B%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [骗子准确说出信息大学生被骗350万](https://www.baidu.com/s?wd=%E9%AA%97%E5%AD%90%E5%87%86%E7%A1%AE%E8%AF%B4%E5%87%BA%E4%BF%A1%E6%81%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AA%97350%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黑龙江一市因暴雪停课停工停产](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%B8%82%E5%9B%A0%E6%9A%B4%E9%9B%AA%E5%81%9C%E8%AF%BE%E5%81%9C%E5%B7%A5%E5%81%9C%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [过山车立柱大幅晃动？广州长隆回应](https://www.baidu.com/s?wd=%E8%BF%87%E5%B1%B1%E8%BD%A6%E7%AB%8B%E6%9F%B1%E5%A4%A7%E5%B9%85%E6%99%83%E5%8A%A8%EF%BC%9F%E5%B9%BF%E5%B7%9E%E9%95%BF%E9%9A%86%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩身上6个伤疤同寻人启事一致](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%BA%AB%E4%B8%8A6%E4%B8%AA%E4%BC%A4%E7%96%A4%E5%90%8C%E5%AF%BB%E4%BA%BA%E5%90%AF%E4%BA%8B%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传外卖员年龄上限45岁系谣言](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%A4%96%E5%8D%96%E5%91%98%E5%B9%B4%E9%BE%84%E4%B8%8A%E9%99%9045%E5%B2%81%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
