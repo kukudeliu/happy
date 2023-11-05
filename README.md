@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 14:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 14:59:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [进博会成功举办五届 有这些变化](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E6%88%90%E5%8A%9F%E4%B8%BE%E5%8A%9E%E4%BA%94%E5%B1%8A+%E6%9C%89%E8%BF%99%E4%BA%9B%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [顾客套中3只大鹅 老板耍赖装晕倒](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%A5%97%E4%B8%AD3%E5%8F%AA%E5%A4%A7%E9%B9%85+%E8%80%81%E6%9D%BF%E8%80%8D%E8%B5%96%E8%A3%85%E6%99%95%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [台黑帮头目向好友炫枪时将自己打死](https://www.baidu.com/s?wd=%E5%8F%B0%E9%BB%91%E5%B8%AE%E5%A4%B4%E7%9B%AE%E5%90%91%E5%A5%BD%E5%8F%8B%E7%82%AB%E6%9E%AA%E6%97%B6%E5%B0%86%E8%87%AA%E5%B7%B1%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [乌克兰全境拉响防空警报](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%85%A8%E5%A2%83%E6%8B%89%E5%93%8D%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [3元以下的饮料要消失了？](https://www.baidu.com/s?wd=3%E5%85%83%E4%BB%A5%E4%B8%8B%E7%9A%84%E9%A5%AE%E6%96%99%E8%A6%81%E6%B6%88%E5%A4%B1%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国公民在菲被绑架 知情人披露细节](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E8%8F%B2%E8%A2%AB%E7%BB%91%E6%9E%B6+%E7%9F%A5%E6%83%85%E4%BA%BA%E6%8A%AB%E9%9C%B2%E7%BB%86%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [酒店回应女子3000元服装被保洁撕碎](https://www.baidu.com/s?wd=%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%903000%E5%85%83%E6%9C%8D%E8%A3%85%E8%A2%AB%E4%BF%9D%E6%B4%81%E6%92%95%E7%A2%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [进博会成功举办五届 有这些变化](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E6%88%90%E5%8A%9F%E4%B8%BE%E5%8A%9E%E4%BA%94%E5%B1%8A+%E6%9C%89%E8%BF%99%E4%BA%9B%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [顾客套中3只大鹅 老板耍赖装晕倒](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%A5%97%E4%B8%AD3%E5%8F%AA%E5%A4%A7%E9%B9%85+%E8%80%81%E6%9D%BF%E8%80%8D%E8%B5%96%E8%A3%85%E6%99%95%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [台黑帮头目向好友炫枪时将自己打死](https://www.baidu.com/s?wd=%E5%8F%B0%E9%BB%91%E5%B8%AE%E5%A4%B4%E7%9B%AE%E5%90%91%E5%A5%BD%E5%8F%8B%E7%82%AB%E6%9E%AA%E6%97%B6%E5%B0%86%E8%87%AA%E5%B7%B1%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [乌克兰全境拉响防空警报](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%85%A8%E5%A2%83%E6%8B%89%E5%93%8D%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [3元以下的饮料要消失了？](https://www.baidu.com/s?wd=3%E5%85%83%E4%BB%A5%E4%B8%8B%E7%9A%84%E9%A5%AE%E6%96%99%E8%A6%81%E6%B6%88%E5%A4%B1%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国公民在菲被绑架 知情人披露细节](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E8%8F%B2%E8%A2%AB%E7%BB%91%E6%9E%B6+%E7%9F%A5%E6%83%85%E4%BA%BA%E6%8A%AB%E9%9C%B2%E7%BB%86%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [酒店回应女子3000元服装被保洁撕碎](https://www.baidu.com/s?wd=%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%903000%E5%85%83%E6%9C%8D%E8%A3%85%E8%A2%AB%E4%BF%9D%E6%B4%81%E6%92%95%E7%A2%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
