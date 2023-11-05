@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 04:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 04:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [日本网民称福原爱被宠坏了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%A7%B0%E7%A6%8F%E5%8E%9F%E7%88%B1%E8%A2%AB%E5%AE%A0%E5%9D%8F%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [以色列部长声称可对加沙投核弹](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E9%83%A8%E9%95%BF%E5%A3%B0%E7%A7%B0%E5%8F%AF%E5%AF%B9%E5%8A%A0%E6%B2%99%E6%8A%95%E6%A0%B8%E5%BC%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [gala哭了](https://s.weibo.com/weibo?q=gala%E5%93%AD%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [Tarzan 皇子](https://s.weibo.com/weibo?q=Tarzan%20%E7%9A%87%E5%AD%90&t=31&band_rank=9&Refer=top)<br />
+9. [RNG能不能把gala卡回来](https://s.weibo.com/weibo?q=%23RNG%E8%83%BD%E4%B8%8D%E8%83%BD%E6%8A%8Agala%E5%8D%A1%E5%9B%9E%E6%9D%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
