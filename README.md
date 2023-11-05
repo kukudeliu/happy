@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 16:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 16:48:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [LNG对战T1](https://s.weibo.com/weibo?q=%23LNG%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=2&Refer=top)<br />
 3. [一个进口产品浓度超高的地方在中国](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E8%BF%9B%E5%8F%A3%E4%BA%A7%E5%93%81%E6%B5%93%E5%BA%A6%E8%B6%85%E9%AB%98%E7%9A%84%E5%9C%B0%E6%96%B9%E5%9C%A8%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [福原爱或面临2年以上有期徒刑](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E6%88%96%E9%9D%A2%E4%B8%B42%E5%B9%B4%E4%BB%A5%E4%B8%8A%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91%23&t=31&band_rank=4&Refer=top)<br />
-5. [江歌妈妈一句话概括拯救嫌疑人](https://s.weibo.com/weibo?q=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%A6%82%E6%8B%AC%E6%8B%AF%E6%95%91%E5%AB%8C%E7%96%91%E4%BA%BA&t=31&band_rank=5&Refer=top)<br />
-6. [T1粉丝在场馆外撒盐给T1祈祷](https://s.weibo.com/weibo?q=T1%E7%B2%89%E4%B8%9D%E5%9C%A8%E5%9C%BA%E9%A6%86%E5%A4%96%E6%92%92%E7%9B%90%E7%BB%99T1%E7%A5%88%E7%A5%B7&t=31&band_rank=6&Refer=top)<br />
-7. [南京暴雨 萧敬腾从不失手](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%20%E8%90%A7%E6%95%AC%E8%85%BE%E4%BB%8E%E4%B8%8D%E5%A4%B1%E6%89%8B&t=31&band_rank=7&Refer=top)<br />
-8. [谁家接吻戴墨镜啊](https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E6%8E%A5%E5%90%BB%E6%88%B4%E5%A2%A8%E9%95%9C%E5%95%8A%23&t=31&band_rank=8&Refer=top)<br />
+5. [T1粉丝在场馆外撒盐给T1祈祷](https://s.weibo.com/weibo?q=T1%E7%B2%89%E4%B8%9D%E5%9C%A8%E5%9C%BA%E9%A6%86%E5%A4%96%E6%92%92%E7%9B%90%E7%BB%99T1%E7%A5%88%E7%A5%B7&t=31&band_rank=5&Refer=top)<br />
+6. [江歌妈妈一句话概括拯救嫌疑人](https://s.weibo.com/weibo?q=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%A6%82%E6%8B%AC%E6%8B%AF%E6%95%91%E5%AB%8C%E7%96%91%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
+7. [谁家接吻戴墨镜啊](https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E6%8E%A5%E5%90%BB%E6%88%B4%E5%A2%A8%E9%95%9C%E5%95%8A%23&t=31&band_rank=7&Refer=top)<br />
+8. [南京暴雨 萧敬腾从不失手](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%20%E8%90%A7%E6%95%AC%E8%85%BE%E4%BB%8E%E4%B8%8D%E5%A4%B1%E6%89%8B&t=31&band_rank=8&Refer=top)<br />
 9. [官方通报公职人员猥亵女孩行拘9天](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%AD%A9%E8%A1%8C%E6%8B%989%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
