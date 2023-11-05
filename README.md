@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 09:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 09:34:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [教育面临四大新挑战](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%9D%A2%E4%B8%B4%E5%9B%9B%E5%A4%A7%E6%96%B0%E6%8C%91%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [作家周涛突发心梗去世](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E5%91%A8%E6%B6%9B%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [报道巴以冲突的女记者陈慧慧将回撤](https://www.baidu.com/s?wd=%E6%8A%A5%E9%81%93%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E7%9A%84%E5%A5%B3%E8%AE%B0%E8%80%85%E9%99%88%E6%85%A7%E6%85%A7%E5%B0%86%E5%9B%9E%E6%92%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [记者采访疑遭警察抢手机 当地回应](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E7%96%91%E9%81%AD%E8%AD%A6%E5%AF%9F%E6%8A%A2%E6%89%8B%E6%9C%BA+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [被狗咬伤男童已出ICU：耳朵缺一块](https://www.baidu.com/s?wd=%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E7%94%B7%E7%AB%A5%E5%B7%B2%E5%87%BAICU%EF%BC%9A%E8%80%B3%E6%9C%B5%E7%BC%BA%E4%B8%80%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [教育面临四大新挑战](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%9D%A2%E4%B8%B4%E5%9B%9B%E5%A4%A7%E6%96%B0%E6%8C%91%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [作家周涛突发心梗去世](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E5%91%A8%E6%B6%9B%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [报道巴以冲突的女记者陈慧慧将回撤](https://www.baidu.com/s?wd=%E6%8A%A5%E9%81%93%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E7%9A%84%E5%A5%B3%E8%AE%B0%E8%80%85%E9%99%88%E6%85%A7%E6%85%A7%E5%B0%86%E5%9B%9E%E6%92%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [记者采访疑遭警察抢手机 当地回应](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E7%96%91%E9%81%AD%E8%AD%A6%E5%AF%9F%E6%8A%A2%E6%89%8B%E6%9C%BA+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [被狗咬伤男童已出ICU：耳朵缺一块](https://www.baidu.com/s?wd=%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E7%94%B7%E7%AB%A5%E5%B7%B2%E5%87%BAICU%EF%BC%9A%E8%80%B3%E6%9C%B5%E7%BC%BA%E4%B8%80%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
