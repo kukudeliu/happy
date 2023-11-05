@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 15:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 15:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [顾客套中3只大鹅 老板耍赖装晕倒](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%A5%97%E4%B8%AD3%E5%8F%AA%E5%A4%A7%E9%B9%85+%E8%80%81%E6%9D%BF%E8%80%8D%E8%B5%96%E8%A3%85%E6%99%95%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [台黑帮头目向好友炫枪时将自己打死](https://www.baidu.com/s?wd=%E5%8F%B0%E9%BB%91%E5%B8%AE%E5%A4%B4%E7%9B%AE%E5%90%91%E5%A5%BD%E5%8F%8B%E7%82%AB%E6%9E%AA%E6%97%B6%E5%B0%86%E8%87%AA%E5%B7%B1%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [3元以下的饮料要消失了？](https://www.baidu.com/s?wd=3%E5%85%83%E4%BB%A5%E4%B8%8B%E7%9A%84%E9%A5%AE%E6%96%99%E8%A6%81%E6%B6%88%E5%A4%B1%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子天桥上拍东方明珠塔被阻拦](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%A9%E6%A1%A5%E4%B8%8A%E6%8B%8D%E4%B8%9C%E6%96%B9%E6%98%8E%E7%8F%A0%E5%A1%94%E8%A2%AB%E9%98%BB%E6%8B%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [作家周涛突发心梗去世](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E5%91%A8%E6%B6%9B%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [顾客套中3只大鹅 老板耍赖装晕倒](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%A5%97%E4%B8%AD3%E5%8F%AA%E5%A4%A7%E9%B9%85+%E8%80%81%E6%9D%BF%E8%80%8D%E8%B5%96%E8%A3%85%E6%99%95%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [台黑帮头目向好友炫枪时将自己打死](https://www.baidu.com/s?wd=%E5%8F%B0%E9%BB%91%E5%B8%AE%E5%A4%B4%E7%9B%AE%E5%90%91%E5%A5%BD%E5%8F%8B%E7%82%AB%E6%9E%AA%E6%97%B6%E5%B0%86%E8%87%AA%E5%B7%B1%E6%89%93%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [3元以下的饮料要消失了？](https://www.baidu.com/s?wd=3%E5%85%83%E4%BB%A5%E4%B8%8B%E7%9A%84%E9%A5%AE%E6%96%99%E8%A6%81%E6%B6%88%E5%A4%B1%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子天桥上拍东方明珠塔被阻拦](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%A9%E6%A1%A5%E4%B8%8A%E6%8B%8D%E4%B8%9C%E6%96%B9%E6%98%8E%E7%8F%A0%E5%A1%94%E8%A2%AB%E9%98%BB%E6%8B%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [作家周涛突发心梗去世](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E5%91%A8%E6%B6%9B%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
