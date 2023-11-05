@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 17:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 17:51:01</h4></div>
 
 > 微博  
 
-1. [救救gala](https://s.weibo.com/weibo?q=%E6%95%91%E6%95%91gala&t=31&band_rank=1&Refer=top)<br />
-2. [LNG对战T1](https://s.weibo.com/weibo?q=%23LNG%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=2&Refer=top)<br />
+1. [LNG对战T1](https://s.weibo.com/weibo?q=%23LNG%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=1&Refer=top)<br />
+2. [救救gala](https://s.weibo.com/weibo?q=%E6%95%91%E6%95%91gala&t=31&band_rank=2&Refer=top)<br />
 3. [一个进口产品浓度超高的地方在中国](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E8%BF%9B%E5%8F%A3%E4%BA%A7%E5%93%81%E6%B5%93%E5%BA%A6%E8%B6%85%E9%AB%98%E7%9A%84%E5%9C%B0%E6%96%B9%E5%9C%A8%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [Scout 精忠报国](https://s.weibo.com/weibo?q=Scout%20%E7%B2%BE%E5%BF%A0%E6%8A%A5%E5%9B%BD&t=31&band_rank=4&Refer=top)<br />
-5. [Tarzan 皇子](https://s.weibo.com/weibo?q=Tarzan%20%E7%9A%87%E5%AD%90&t=31&band_rank=5&Refer=top)<br />
-6. [管泽元预测](https://s.weibo.com/weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83%E9%A2%84%E6%B5%8B&t=31&band_rank=6&Refer=top)<br />
-7. [骗子准确说出信息大学生被骗350万](https://s.weibo.com/weibo?q=%23%E9%AA%97%E5%AD%90%E5%87%86%E7%A1%AE%E8%AF%B4%E5%87%BA%E4%BF%A1%E6%81%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AA%97350%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
+5. [骗子准确说出信息大学生被骗350万](https://s.weibo.com/weibo?q=%23%E9%AA%97%E5%AD%90%E5%87%86%E7%A1%AE%E8%AF%B4%E5%87%BA%E4%BF%A1%E6%81%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AA%97350%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
+6. [Tarzan 皇子](https://s.weibo.com/weibo?q=Tarzan%20%E7%9A%87%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
+7. [管泽元预测](https://s.weibo.com/weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83%E9%A2%84%E6%B5%8B&t=31&band_rank=7&Refer=top)<br />
 8. [导演答应白鹿不用大灯](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E7%AD%94%E5%BA%94%E7%99%BD%E9%B9%BF%E4%B8%8D%E7%94%A8%E5%A4%A7%E7%81%AF%23&t=31&band_rank=8&Refer=top)<br />
 9. [辅助机器人](https://s.weibo.com/weibo?q=%E8%BE%85%E5%8A%A9%E6%9C%BA%E5%99%A8%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
