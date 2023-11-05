@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 09:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 09:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李佳琦公司回应员工收百万好处费](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E5%91%98%E5%B7%A5%E6%94%B6%E7%99%BE%E4%B8%87%E5%A5%BD%E5%A4%84%E8%B4%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [作家周涛突发心梗去世](https://s.weibo.com/weibo?q=%23%E4%BD%9C%E5%AE%B6%E5%91%A8%E6%B6%9B%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [尼泊尔地震已致157人死亡](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4157%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [艾伦三笠 最后一吻](https://s.weibo.com/weibo?q=%E8%89%BE%E4%BC%A6%E4%B8%89%E7%AC%A0%20%E6%9C%80%E5%90%8E%E4%B8%80%E5%90%BB&t=31&band_rank=9&Refer=top)<br />
+9. [女子全麻术后被好友轮流拿喇叭叫醒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%85%A8%E9%BA%BB%E6%9C%AF%E5%90%8E%E8%A2%AB%E5%A5%BD%E5%8F%8B%E8%BD%AE%E6%B5%81%E6%8B%BF%E5%96%87%E5%8F%AD%E5%8F%AB%E9%86%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
