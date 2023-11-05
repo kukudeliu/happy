@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 08:36:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 08:37:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [作家周涛突发心梗去世](https://s.weibo.com/weibo?q=%23%E4%BD%9C%E5%AE%B6%E5%91%A8%E6%B6%9B%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [关晓彤生日被整蛊](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%94%9F%E6%97%A5%E8%A2%AB%E6%95%B4%E8%9B%8A%23&t=31&band_rank=5&Refer=top)<br />
 6. [女子全麻术后被好友轮流拿喇叭叫醒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%85%A8%E9%BA%BB%E6%9C%AF%E5%90%8E%E8%A2%AB%E5%A5%BD%E5%8F%8B%E8%BD%AE%E6%B5%81%E6%8B%BF%E5%96%87%E5%8F%AD%E5%8F%AB%E9%86%92%23&t=31&band_rank=6&Refer=top)<br />
-7. [孙颖莎](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E&t=31&band_rank=7&Refer=top)<br />
-8. [李佳琦公司招商专员收好处费超百万](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%85%AC%E5%8F%B8%E6%8B%9B%E5%95%86%E4%B8%93%E5%91%98%E6%94%B6%E5%A5%BD%E5%A4%84%E8%B4%B9%E8%B6%85%E7%99%BE%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [林心如说紫薇演得好浮夸](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%83%E5%A6%82%E8%AF%B4%E7%B4%AB%E8%96%87%E6%BC%94%E5%BE%97%E5%A5%BD%E6%B5%AE%E5%A4%B8%23&t=31&band_rank=9&Refer=top)<br />
+7. [艾伦三笠 最后一吻](https://s.weibo.com/weibo?q=%E8%89%BE%E4%BC%A6%E4%B8%89%E7%AC%A0%20%E6%9C%80%E5%90%8E%E4%B8%80%E5%90%BB&t=31&band_rank=7&Refer=top)<br />
+8. [孙颖莎](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E&t=31&band_rank=8&Refer=top)<br />
+9. [李佳琦公司招商专员收好处费超百万](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%85%AC%E5%8F%B8%E6%8B%9B%E5%95%86%E4%B8%93%E5%91%98%E6%94%B6%E5%A5%BD%E5%A4%84%E8%B4%B9%E8%B6%85%E7%99%BE%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
