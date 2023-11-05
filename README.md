@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 17:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 17:57:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [Scout 精忠报国](https://s.weibo.com/weibo?q=Scout%20%E7%B2%BE%E5%BF%A0%E6%8A%A5%E5%9B%BD&t=31&band_rank=4&Refer=top)<br />
 5. [导演答应白鹿不用大灯](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E7%AD%94%E5%BA%94%E7%99%BD%E9%B9%BF%E4%B8%8D%E7%94%A8%E5%A4%A7%E7%81%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [骗子准确说出信息大学生被骗350万](https://s.weibo.com/weibo?q=%23%E9%AA%97%E5%AD%90%E5%87%86%E7%A1%AE%E8%AF%B4%E5%87%BA%E4%BF%A1%E6%81%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AA%97350%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [管泽元预测](https://s.weibo.com/weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83%E9%A2%84%E6%B5%8B&t=31&band_rank=7&Refer=top)<br />
-8. [Tarzan 皇子](https://s.weibo.com/weibo?q=Tarzan%20%E7%9A%87%E5%AD%90&t=31&band_rank=8&Refer=top)<br />
-9. [辅助机器人](https://s.weibo.com/weibo?q=%E8%BE%85%E5%8A%A9%E6%9C%BA%E5%99%A8%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
+7. [孕妇坐夜车清晨地铁晕倒警民合力施救](https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E5%9D%90%E5%A4%9C%E8%BD%A6%E6%B8%85%E6%99%A8%E5%9C%B0%E9%93%81%E6%99%95%E5%80%92%E8%AD%A6%E6%B0%91%E5%90%88%E5%8A%9B%E6%96%BD%E6%95%91%23&t=31&band_rank=7&Refer=top)<br />
+8. [女孩提蛋糕找消防员一起过18岁生日](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%8F%90%E8%9B%8B%E7%B3%95%E6%89%BE%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%80%E8%B5%B7%E8%BF%8718%E5%B2%81%E7%94%9F%E6%97%A5%23&t=31&band_rank=8&Refer=top)<br />
+9. [浙江一中学校长办公室变肠胃外科](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%8F%98%E8%82%A0%E8%83%83%E5%A4%96%E7%A7%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
