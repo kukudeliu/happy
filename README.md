@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 00:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 00:24:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [男子称因脸太方应聘多家工厂被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E5%9B%A0%E8%84%B8%E5%A4%AA%E6%96%B9%E5%BA%94%E8%81%98%E5%A4%9A%E5%AE%B6%E5%B7%A5%E5%8E%82%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共“进”向未来 “博”出新精彩](https://www.baidu.com/s?wd=%E5%85%B1%E2%80%9C%E8%BF%9B%E2%80%9D%E5%90%91%E6%9C%AA%E6%9D%A5+%E2%80%9C%E5%8D%9A%E2%80%9D%E5%87%BA%E6%96%B0%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [县民政局局长违规操办婚事被免职](https://www.baidu.com/s?wd=%E5%8E%BF%E6%B0%91%E6%94%BF%E5%B1%80%E5%B1%80%E9%95%BF%E8%BF%9D%E8%A7%84%E6%93%8D%E5%8A%9E%E5%A9%9A%E4%BA%8B%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [Faker赛后忍不住笑了](https://www.baidu.com/s?wd=Faker%E8%B5%9B%E5%90%8E%E5%BF%8D%E4%B8%8D%E4%BD%8F%E7%AC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [俄新型战略核潜艇试射弹道导弹](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B0%E5%9E%8B%E6%88%98%E7%95%A5%E6%A0%B8%E6%BD%9C%E8%89%87%E8%AF%95%E5%B0%84%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [奥巴马谈巴以冲突](https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%B0%88%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [蜜雪冰城门店经理猥亵女员工被拘](https://www.baidu.com/s?wd=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E9%97%A8%E5%BA%97%E7%BB%8F%E7%90%86%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%91%98%E5%B7%A5%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [毛毛姐称直播间手机被调包成模型机](https://www.baidu.com/s?wd=%E6%AF%9B%E6%AF%9B%E5%A7%90%E7%A7%B0%E7%9B%B4%E6%92%AD%E9%97%B4%E6%89%8B%E6%9C%BA%E8%A2%AB%E8%B0%83%E5%8C%85%E6%88%90%E6%A8%A1%E5%9E%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传外卖员年龄上限45岁系谣言](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%A4%96%E5%8D%96%E5%91%98%E5%B9%B4%E9%BE%84%E4%B8%8A%E9%99%9045%E5%B2%81%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [男子称因脸太方应聘多家工厂被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E5%9B%A0%E8%84%B8%E5%A4%AA%E6%96%B9%E5%BA%94%E8%81%98%E5%A4%9A%E5%AE%B6%E5%B7%A5%E5%8E%82%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共“进”向未来 “博”出新精彩](https://www.baidu.com/s?wd=%E5%85%B1%E2%80%9C%E8%BF%9B%E2%80%9D%E5%90%91%E6%9C%AA%E6%9D%A5+%E2%80%9C%E5%8D%9A%E2%80%9D%E5%87%BA%E6%96%B0%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [县民政局局长违规操办婚事被免职](https://www.baidu.com/s?wd=%E5%8E%BF%E6%B0%91%E6%94%BF%E5%B1%80%E5%B1%80%E9%95%BF%E8%BF%9D%E8%A7%84%E6%93%8D%E5%8A%9E%E5%A9%9A%E4%BA%8B%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [Faker赛后忍不住笑了](https://www.baidu.com/s?wd=Faker%E8%B5%9B%E5%90%8E%E5%BF%8D%E4%B8%8D%E4%BD%8F%E7%AC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [俄新型战略核潜艇试射弹道导弹](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B0%E5%9E%8B%E6%88%98%E7%95%A5%E6%A0%B8%E6%BD%9C%E8%89%87%E8%AF%95%E5%B0%84%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [奥巴马谈巴以冲突](https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%B0%88%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [蜜雪冰城门店经理猥亵女员工被拘](https://www.baidu.com/s?wd=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E9%97%A8%E5%BA%97%E7%BB%8F%E7%90%86%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%91%98%E5%B7%A5%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [毛毛姐称直播间手机被调包成模型机](https://www.baidu.com/s?wd=%E6%AF%9B%E6%AF%9B%E5%A7%90%E7%A7%B0%E7%9B%B4%E6%92%AD%E9%97%B4%E6%89%8B%E6%9C%BA%E8%A2%AB%E8%B0%83%E5%8C%85%E6%88%90%E6%A8%A1%E5%9E%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传外卖员年龄上限45岁系谣言](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%A4%96%E5%8D%96%E5%91%98%E5%B9%B4%E9%BE%84%E4%B8%8A%E9%99%9045%E5%B2%81%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
