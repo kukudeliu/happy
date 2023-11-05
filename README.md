@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 10:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 10:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [东北这次强降雪下到发紫](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E8%BF%99%E6%AC%A1%E5%BC%BA%E9%99%8D%E9%9B%AA%E4%B8%8B%E5%88%B0%E5%8F%91%E7%B4%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [要久久爱](https://s.weibo.com/weibo?q=%E8%A6%81%E4%B9%85%E4%B9%85%E7%88%B1&t=31&band_rank=7&Refer=top)<br />
 8. [五月天 抢票](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%20%E6%8A%A2%E7%A5%A8&t=31&band_rank=8&Refer=top)<br />
-9. [LNG对战T1 比分预测](https://s.weibo.com/weibo?q=LNG%E5%AF%B9%E6%88%98T1%20%E6%AF%94%E5%88%86%E9%A2%84%E6%B5%8B&t=31&band_rank=9&Refer=top)<br />
+9. [李善均承认吸毒](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%96%84%E5%9D%87%E6%89%BF%E8%AE%A4%E5%90%B8%E6%AF%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
