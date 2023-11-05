@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 10:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 10:24:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女子理发后扫付款码离开又取消支付](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%90%86%E5%8F%91%E5%90%8E%E6%89%AB%E4%BB%98%E6%AC%BE%E7%A0%81%E7%A6%BB%E5%BC%80%E5%8F%88%E5%8F%96%E6%B6%88%E6%94%AF%E4%BB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [作家周涛突发心梗去世](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E5%91%A8%E6%B6%9B%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [关晓彤生日被整蛊](https://www.baidu.com/s?wd=%E5%85%B3%E6%99%93%E5%BD%A4%E7%94%9F%E6%97%A5%E8%A2%AB%E6%95%B4%E8%9B%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子跑步成瘾留女儿在车内数小时](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%91%E6%AD%A5%E6%88%90%E7%98%BE%E7%95%99%E5%A5%B3%E5%84%BF%E5%9C%A8%E8%BD%A6%E5%86%85%E6%95%B0%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [物业回应高楼电梯损坏业主爬楼](https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E5%9B%9E%E5%BA%94%E9%AB%98%E6%A5%BC%E7%94%B5%E6%A2%AF%E6%8D%9F%E5%9D%8F%E4%B8%9A%E4%B8%BB%E7%88%AC%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女子理发后扫付款码离开又取消支付](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%90%86%E5%8F%91%E5%90%8E%E6%89%AB%E4%BB%98%E6%AC%BE%E7%A0%81%E7%A6%BB%E5%BC%80%E5%8F%88%E5%8F%96%E6%B6%88%E6%94%AF%E4%BB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [作家周涛突发心梗去世](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E5%91%A8%E6%B6%9B%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [关晓彤生日被整蛊](https://www.baidu.com/s?wd=%E5%85%B3%E6%99%93%E5%BD%A4%E7%94%9F%E6%97%A5%E8%A2%AB%E6%95%B4%E8%9B%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子跑步成瘾留女儿在车内数小时](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%91%E6%AD%A5%E6%88%90%E7%98%BE%E7%95%99%E5%A5%B3%E5%84%BF%E5%9C%A8%E8%BD%A6%E5%86%85%E6%95%B0%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [物业回应高楼电梯损坏业主爬楼](https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E5%9B%9E%E5%BA%94%E9%AB%98%E6%A5%BC%E7%94%B5%E6%A2%AF%E6%8D%9F%E5%9D%8F%E4%B8%9A%E4%B8%BB%E7%88%AC%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
