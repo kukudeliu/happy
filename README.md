@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 00:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 00:13:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [男子称因脸太方应聘多家工厂被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E5%9B%A0%E8%84%B8%E5%A4%AA%E6%96%B9%E5%BA%94%E8%81%98%E5%A4%9A%E5%AE%B6%E5%B7%A5%E5%8E%82%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共“进”向未来 “博”出新精彩](https://www.baidu.com/s?wd=%E5%85%B1%E2%80%9C%E8%BF%9B%E2%80%9D%E5%90%91%E6%9C%AA%E6%9D%A5+%E2%80%9C%E5%8D%9A%E2%80%9D%E5%87%BA%E6%96%B0%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [县民政局局长违规操办婚事被免职](https://www.baidu.com/s?wd=%E5%8E%BF%E6%B0%91%E6%94%BF%E5%B1%80%E5%B1%80%E9%95%BF%E8%BF%9D%E8%A7%84%E6%93%8D%E5%8A%9E%E5%A9%9A%E4%BA%8B%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [奥巴马谈巴以冲突](https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%B0%88%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [加沙每10分钟就有一儿童死亡](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E6%AF%8F10%E5%88%86%E9%92%9F%E5%B0%B1%E6%9C%89%E4%B8%80%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [加沙每10分钟就有一儿童死亡](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E6%AF%8F10%E5%88%86%E9%92%9F%E5%B0%B1%E6%9C%89%E4%B8%80%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [奥巴马谈巴以冲突](https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%B0%88%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女孩身上6个伤疤同寻人启事一致](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%BA%AB%E4%B8%8A6%E4%B8%AA%E4%BC%A4%E7%96%A4%E5%90%8C%E5%AF%BB%E4%BA%BA%E5%90%AF%E4%BA%8B%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [男子称因脸太方应聘多家工厂被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E5%9B%A0%E8%84%B8%E5%A4%AA%E6%96%B9%E5%BA%94%E8%81%98%E5%A4%9A%E5%AE%B6%E5%B7%A5%E5%8E%82%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共“进”向未来 “博”出新精彩](https://www.baidu.com/s?wd=%E5%85%B1%E2%80%9C%E8%BF%9B%E2%80%9D%E5%90%91%E6%9C%AA%E6%9D%A5+%E2%80%9C%E5%8D%9A%E2%80%9D%E5%87%BA%E6%96%B0%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [县民政局局长违规操办婚事被免职](https://www.baidu.com/s?wd=%E5%8E%BF%E6%B0%91%E6%94%BF%E5%B1%80%E5%B1%80%E9%95%BF%E8%BF%9D%E8%A7%84%E6%93%8D%E5%8A%9E%E5%A9%9A%E4%BA%8B%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [奥巴马谈巴以冲突](https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%B0%88%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [加沙每10分钟就有一儿童死亡](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E6%AF%8F10%E5%88%86%E9%92%9F%E5%B0%B1%E6%9C%89%E4%B8%80%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [加沙每10分钟就有一儿童死亡](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E6%AF%8F10%E5%88%86%E9%92%9F%E5%B0%B1%E6%9C%89%E4%B8%80%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [奥巴马谈巴以冲突](https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%B0%88%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女孩身上6个伤疤同寻人启事一致](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%BA%AB%E4%B8%8A6%E4%B8%AA%E4%BC%A4%E7%96%A4%E5%90%8C%E5%AF%BB%E4%BA%BA%E5%90%AF%E4%BA%8B%E4%B8%80%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
