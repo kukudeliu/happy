@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 10:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 10:46:02</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [关晓彤生日被整蛊](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%94%9F%E6%97%A5%E8%A2%AB%E6%95%B4%E8%9B%8A%23&t=31&band_rank=2&Refer=top)<br />
 3. [让看电视更简单消费不套娃](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E7%9C%8B%E7%94%B5%E8%A7%86%E6%9B%B4%E7%AE%80%E5%8D%95%E6%B6%88%E8%B4%B9%E4%B8%8D%E5%A5%97%E5%A8%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [中央气象台连发4个预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E8%BF%9E%E5%8F%914%E4%B8%AA%E9%A2%84%E8%AD%A6%23&t=31&band_rank=4&Refer=top)<br />
-5. [买8只大闸蟹老板给我寄了个蒸笼](https://s.weibo.com/weibo?q=%23%E4%B9%B08%E5%8F%AA%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%80%81%E6%9D%BF%E7%BB%99%E6%88%91%E5%AF%84%E4%BA%86%E4%B8%AA%E8%92%B8%E7%AC%BC%23&t=31&band_rank=5&Refer=top)<br />
-6. [李善均承认吸毒](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%96%84%E5%9D%87%E6%89%BF%E8%AE%A4%E5%90%B8%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
-7. [东北这次强降雪下到发紫](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E8%BF%99%E6%AC%A1%E5%BC%BA%E9%99%8D%E9%9B%AA%E4%B8%8B%E5%88%B0%E5%8F%91%E7%B4%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [要久久爱](https://s.weibo.com/weibo?q=%E8%A6%81%E4%B9%85%E4%B9%85%E7%88%B1&t=31&band_rank=8&Refer=top)<br />
+5. [李善均承认吸毒](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%96%84%E5%9D%87%E6%89%BF%E8%AE%A4%E5%90%B8%E6%AF%92%23&t=31&band_rank=5&Refer=top)<br />
+6. [买8只大闸蟹老板给我寄了个蒸笼](https://s.weibo.com/weibo?q=%23%E4%B9%B08%E5%8F%AA%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%80%81%E6%9D%BF%E7%BB%99%E6%88%91%E5%AF%84%E4%BA%86%E4%B8%AA%E8%92%B8%E7%AC%BC%23&t=31&band_rank=6&Refer=top)<br />
+7. [要久久爱](https://s.weibo.com/weibo?q=%E8%A6%81%E4%B9%85%E4%B9%85%E7%88%B1&t=31&band_rank=7&Refer=top)<br />
+8. [东北这次强降雪下到发紫](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E8%BF%99%E6%AC%A1%E5%BC%BA%E9%99%8D%E9%9B%AA%E4%B8%8B%E5%88%B0%E5%8F%91%E7%B4%AB%23&t=31&band_rank=8&Refer=top)<br />
 9. [五月天 抢票](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%20%E6%8A%A2%E7%A5%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
