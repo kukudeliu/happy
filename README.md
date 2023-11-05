@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 05:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 05:18:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [县民政局局长违规操办婚事被免职](https://www.baidu.com/s?wd=%E5%8E%BF%E6%B0%91%E6%94%BF%E5%B1%80%E5%B1%80%E9%95%BF%E8%BF%9D%E8%A7%84%E6%93%8D%E5%8A%9E%E5%A9%9A%E4%BA%8B%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黑龙江一市因暴雪停课停工停产](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%B8%82%E5%9B%A0%E6%9A%B4%E9%9B%AA%E5%81%9C%E8%AF%BE%E5%81%9C%E5%B7%A5%E5%81%9C%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [撸黄金遇“杀猪盘”有家庭负债百万](https://www.baidu.com/s?wd=%E6%92%B8%E9%BB%84%E9%87%91%E9%81%87%E2%80%9C%E6%9D%80%E7%8C%AA%E7%9B%98%E2%80%9D%E6%9C%89%E5%AE%B6%E5%BA%AD%E8%B4%9F%E5%80%BA%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [骗子准确说出信息大学生被骗350万](https://www.baidu.com/s?wd=%E9%AA%97%E5%AD%90%E5%87%86%E7%A1%AE%E8%AF%B4%E5%87%BA%E4%BF%A1%E6%81%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AA%97350%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [东北这次强降雪下到发紫](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E8%BF%99%E6%AC%A1%E5%BC%BA%E9%99%8D%E9%9B%AA%E4%B8%8B%E5%88%B0%E5%8F%91%E7%B4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传外卖员年龄上限45岁系谣言](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%A4%96%E5%8D%96%E5%91%98%E5%B9%B4%E9%BE%84%E4%B8%8A%E9%99%9045%E5%B2%81%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [县民政局局长违规操办婚事被免职](https://www.baidu.com/s?wd=%E5%8E%BF%E6%B0%91%E6%94%BF%E5%B1%80%E5%B1%80%E9%95%BF%E8%BF%9D%E8%A7%84%E6%93%8D%E5%8A%9E%E5%A9%9A%E4%BA%8B%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黑龙江一市因暴雪停课停工停产](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%B8%82%E5%9B%A0%E6%9A%B4%E9%9B%AA%E5%81%9C%E8%AF%BE%E5%81%9C%E5%B7%A5%E5%81%9C%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [撸黄金遇“杀猪盘”有家庭负债百万](https://www.baidu.com/s?wd=%E6%92%B8%E9%BB%84%E9%87%91%E9%81%87%E2%80%9C%E6%9D%80%E7%8C%AA%E7%9B%98%E2%80%9D%E6%9C%89%E5%AE%B6%E5%BA%AD%E8%B4%9F%E5%80%BA%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [骗子准确说出信息大学生被骗350万](https://www.baidu.com/s?wd=%E9%AA%97%E5%AD%90%E5%87%86%E7%A1%AE%E8%AF%B4%E5%87%BA%E4%BF%A1%E6%81%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AA%97350%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [东北这次强降雪下到发紫](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E8%BF%99%E6%AC%A1%E5%BC%BA%E9%99%8D%E9%9B%AA%E4%B8%8B%E5%88%B0%E5%8F%91%E7%B4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传外卖员年龄上限45岁系谣言](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%A4%96%E5%8D%96%E5%91%98%E5%B9%B4%E9%BE%84%E4%B8%8A%E9%99%9045%E5%B2%81%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
