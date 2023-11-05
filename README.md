@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 22:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 22:21:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [小胖激动到流鼻血](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%83%96%E6%BF%80%E5%8A%A8%E5%88%B0%E6%B5%81%E9%BC%BB%E8%A1%80%23&t=31&band_rank=4&Refer=top)<br />
 5. [Cat 顶级辅助](https://s.weibo.com/weibo?q=Cat%20%E9%A1%B6%E7%BA%A7%E8%BE%85%E5%8A%A9&t=31&band_rank=5&Refer=top)<br />
 6. [以色列部长声称可对加沙投核弹](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E9%83%A8%E9%95%BF%E5%A3%B0%E7%A7%B0%E5%8F%AF%E5%AF%B9%E5%8A%A0%E6%B2%99%E6%8A%95%E6%A0%B8%E5%BC%B9%23&t=31&band_rank=6&Refer=top)<br />
-7. [王艺迪4比0王曼昱](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%89%BA%E8%BF%AA4%E6%AF%940%E7%8E%8B%E6%9B%BC%E6%98%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [gala哭了](https://s.weibo.com/weibo?q=gala%E5%93%AD%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+7. [gala哭了](https://s.weibo.com/weibo?q=gala%E5%93%AD%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [王艺迪4比0王曼昱](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%89%BA%E8%BF%AA4%E6%AF%940%E7%8E%8B%E6%9B%BC%E6%98%B1%23&t=31&band_rank=8&Refer=top)<br />
 9. [刘昊然回应一部手机用五六年](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E5%9B%9E%E5%BA%94%E4%B8%80%E9%83%A8%E6%89%8B%E6%9C%BA%E7%94%A8%E4%BA%94%E5%85%AD%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
