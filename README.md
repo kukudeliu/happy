@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 05:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 05:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以色列部长声称可对加沙投核弹](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E9%83%A8%E9%95%BF%E5%A3%B0%E7%A7%B0%E5%8F%AF%E5%AF%B9%E5%8A%A0%E6%B2%99%E6%8A%95%E6%A0%B8%E5%BC%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [马龙1比4林昀儒](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%991%E6%AF%944%E6%9E%97%E6%98%80%E5%84%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [gala哭了](https://s.weibo.com/weibo?q=gala%E5%93%AD%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [T1晋级S13四强](https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [北京11月6日零时点火试运行启动供暖](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC11%E6%9C%886%E6%97%A5%E9%9B%B6%E6%97%B6%E7%82%B9%E7%81%AB%E8%AF%95%E8%BF%90%E8%A1%8C%E5%90%AF%E5%8A%A8%E4%BE%9B%E6%9A%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [县民政局局长违规操办婚事被免职](https://www.baidu.com/s?wd=%E5%8E%BF%E6%B0%91%E6%94%BF%E5%B1%80%E5%B1%80%E9%95%BF%E8%BF%9D%E8%A7%84%E6%93%8D%E5%8A%9E%E5%A9%9A%E4%BA%8B%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黑龙江一市因暴雪停课停工停产](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%B8%82%E5%9B%A0%E6%9A%B4%E9%9B%AA%E5%81%9C%E8%AF%BE%E5%81%9C%E5%B7%A5%E5%81%9C%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广东揭阳多车碰撞致1死9伤](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%8F%AD%E9%98%B3%E5%A4%9A%E8%BD%A6%E7%A2%B0%E6%92%9E%E8%87%B41%E6%AD%BB9%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李显龙哽咽了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%98%BE%E9%BE%99%E5%93%BD%E5%92%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国战地女记者陈慧慧成功撤离](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%88%98%E5%9C%B0%E5%A5%B3%E8%AE%B0%E8%80%85%E9%99%88%E6%85%A7%E6%85%A7%E6%88%90%E5%8A%9F%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传外卖员年龄上限45岁系谣言](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%A4%96%E5%8D%96%E5%91%98%E5%B9%B4%E9%BE%84%E4%B8%8A%E9%99%9045%E5%B2%81%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [县民政局局长违规操办婚事被免职](https://www.baidu.com/s?wd=%E5%8E%BF%E6%B0%91%E6%94%BF%E5%B1%80%E5%B1%80%E9%95%BF%E8%BF%9D%E8%A7%84%E6%93%8D%E5%8A%9E%E5%A9%9A%E4%BA%8B%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黑龙江一市因暴雪停课停工停产](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%B8%82%E5%9B%A0%E6%9A%B4%E9%9B%AA%E5%81%9C%E8%AF%BE%E5%81%9C%E5%B7%A5%E5%81%9C%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广东揭阳多车碰撞致1死9伤](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%8F%AD%E9%98%B3%E5%A4%9A%E8%BD%A6%E7%A2%B0%E6%92%9E%E8%87%B41%E6%AD%BB9%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李显龙哽咽了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%98%BE%E9%BE%99%E5%93%BD%E5%92%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国战地女记者陈慧慧成功撤离](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%88%98%E5%9C%B0%E5%A5%B3%E8%AE%B0%E8%80%85%E9%99%88%E6%85%A7%E6%85%A7%E6%88%90%E5%8A%9F%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传外卖员年龄上限45岁系谣言](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%A4%96%E5%8D%96%E5%91%98%E5%B9%B4%E9%BE%84%E4%B8%8A%E9%99%9045%E5%B2%81%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
