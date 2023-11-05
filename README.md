@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 18:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 18:54:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Tarzan 皇子](https://s.weibo.com/weibo?q=Tarzan%20%E7%9A%87%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
 7. [浙江一中学校长办公室变肠胃外科](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%8F%98%E8%82%A0%E8%83%83%E5%A4%96%E7%A7%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [福原爱或面临2年以上有期徒刑](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E6%88%96%E9%9D%A2%E4%B8%B42%E5%B9%B4%E4%BB%A5%E4%B8%8A%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [LNG醒醒](https://s.weibo.com/weibo?q=%23LNG%E9%86%92%E9%86%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [管泽元预测](https://s.weibo.com/weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83%E9%A2%84%E6%B5%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [T1零封LNG晋级S13四强](https://www.baidu.com/s?wd=T1%E9%9B%B6%E5%B0%81LNG%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [骗子准确说出信息大学生被骗350万](https://www.baidu.com/s?wd=%E9%AA%97%E5%AD%90%E5%87%86%E7%A1%AE%E8%AF%B4%E5%87%BA%E4%BF%A1%E6%81%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AA%97350%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [浙江一校长办公室变肠胃外科](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E6%A0%A1%E9%95%BF%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%8F%98%E8%82%A0%E8%83%83%E5%A4%96%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吉林一医院上空有大量飞鸟盘旋](https://www.baidu.com/s?wd=%E5%90%89%E6%9E%97%E4%B8%80%E5%8C%BB%E9%99%A2%E4%B8%8A%E7%A9%BA%E6%9C%89%E5%A4%A7%E9%87%8F%E9%A3%9E%E9%B8%9F%E7%9B%98%E6%97%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [顾客套中3只大鹅 老板耍赖装晕倒](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%A5%97%E4%B8%AD3%E5%8F%AA%E5%A4%A7%E9%B9%85+%E8%80%81%E6%9D%BF%E8%80%8D%E8%B5%96%E8%A3%85%E6%99%95%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [T1零封LNG晋级S13四强](https://www.baidu.com/s?wd=T1%E9%9B%B6%E5%B0%81LNG%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [骗子准确说出信息大学生被骗350万](https://www.baidu.com/s?wd=%E9%AA%97%E5%AD%90%E5%87%86%E7%A1%AE%E8%AF%B4%E5%87%BA%E4%BF%A1%E6%81%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AA%97350%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [浙江一校长办公室变肠胃外科](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E6%A0%A1%E9%95%BF%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%8F%98%E8%82%A0%E8%83%83%E5%A4%96%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吉林一医院上空有大量飞鸟盘旋](https://www.baidu.com/s?wd=%E5%90%89%E6%9E%97%E4%B8%80%E5%8C%BB%E9%99%A2%E4%B8%8A%E7%A9%BA%E6%9C%89%E5%A4%A7%E9%87%8F%E9%A3%9E%E9%B8%9F%E7%9B%98%E6%97%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [顾客套中3只大鹅 老板耍赖装晕倒](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%A5%97%E4%B8%AD3%E5%8F%AA%E5%A4%A7%E9%B9%85+%E8%80%81%E6%9D%BF%E8%80%8D%E8%B5%96%E8%A3%85%E6%99%95%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网传低价代缴采暖费？别信！](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E4%BD%8E%E4%BB%B7%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%EF%BC%9F%E5%88%AB%E4%BF%A1%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
