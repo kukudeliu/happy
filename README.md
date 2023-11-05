@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 10:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 10:04:01</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [中国开放的大门只会越开越大](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%94%BE%E7%9A%84%E5%A4%A7%E9%97%A8%E5%8F%AA%E4%BC%9A%E8%B6%8A%E5%BC%80%E8%B6%8A%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [东北这次强降雪下到发紫](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E8%BF%99%E6%AC%A1%E5%BC%BA%E9%99%8D%E9%9B%AA%E4%B8%8B%E5%88%B0%E5%8F%91%E7%B4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [女子理发后扫付款码离开又取消支付](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%90%86%E5%8F%91%E5%90%8E%E6%89%AB%E4%BB%98%E6%AC%BE%E7%A0%81%E7%A6%BB%E5%BC%80%E5%8F%88%E5%8F%96%E6%B6%88%E6%94%AF%E4%BB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [“影帝贪官”将父母骗去捡废品种菜](https://www.baidu.com/s?wd=%E2%80%9C%E5%BD%B1%E5%B8%9D%E8%B4%AA%E5%AE%98%E2%80%9D%E5%B0%86%E7%88%B6%E6%AF%8D%E9%AA%97%E5%8E%BB%E6%8D%A1%E5%BA%9F%E5%93%81%E7%A7%8D%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从乡村消费增速感受活力中国](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B9%A1%E6%9D%91%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%80%9F%E6%84%9F%E5%8F%97%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [教育面临四大新挑战](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%9D%A2%E4%B8%B4%E5%9B%9B%E5%A4%A7%E6%96%B0%E6%8C%91%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [女子理发后扫付款码离开又取消支付](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%90%86%E5%8F%91%E5%90%8E%E6%89%AB%E4%BB%98%E6%AC%BE%E7%A0%81%E7%A6%BB%E5%BC%80%E5%8F%88%E5%8F%96%E6%B6%88%E6%94%AF%E4%BB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [作家周涛突发心梗去世](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E5%91%A8%E6%B6%9B%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [“影帝贪官”将父母骗去捡废品种菜](https://www.baidu.com/s?wd=%E2%80%9C%E5%BD%B1%E5%B8%9D%E8%B4%AA%E5%AE%98%E2%80%9D%E5%B0%86%E7%88%B6%E6%AF%8D%E9%AA%97%E5%8E%BB%E6%8D%A1%E5%BA%9F%E5%93%81%E7%A7%8D%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌克兰全境拉响防空警报](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%85%A8%E5%A2%83%E6%8B%89%E5%93%8D%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乌克兰全境拉响防空警报](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%85%A8%E5%A2%83%E6%8B%89%E5%93%8D%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [报道巴以冲突的女记者陈慧慧将回撤](https://www.baidu.com/s?wd=%E6%8A%A5%E9%81%93%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E7%9A%84%E5%A5%B3%E8%AE%B0%E8%80%85%E9%99%88%E6%85%A7%E6%85%A7%E5%B0%86%E5%9B%9E%E6%92%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [中国开放的大门只会越开越大](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%94%BE%E7%9A%84%E5%A4%A7%E9%97%A8%E5%8F%AA%E4%BC%9A%E8%B6%8A%E5%BC%80%E8%B6%8A%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [东北这次强降雪下到发紫](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E8%BF%99%E6%AC%A1%E5%BC%BA%E9%99%8D%E9%9B%AA%E4%B8%8B%E5%88%B0%E5%8F%91%E7%B4%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [女子理发后扫付款码离开又取消支付](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%90%86%E5%8F%91%E5%90%8E%E6%89%AB%E4%BB%98%E6%AC%BE%E7%A0%81%E7%A6%BB%E5%BC%80%E5%8F%88%E5%8F%96%E6%B6%88%E6%94%AF%E4%BB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [“影帝贪官”将父母骗去捡废品种菜](https://www.baidu.com/s?wd=%E2%80%9C%E5%BD%B1%E5%B8%9D%E8%B4%AA%E5%AE%98%E2%80%9D%E5%B0%86%E7%88%B6%E6%AF%8D%E9%AA%97%E5%8E%BB%E6%8D%A1%E5%BA%9F%E5%93%81%E7%A7%8D%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从乡村消费增速感受活力中国](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B9%A1%E6%9D%91%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%80%9F%E6%84%9F%E5%8F%97%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [教育面临四大新挑战](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%9D%A2%E4%B8%B4%E5%9B%9B%E5%A4%A7%E6%96%B0%E6%8C%91%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [女子理发后扫付款码离开又取消支付](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%90%86%E5%8F%91%E5%90%8E%E6%89%AB%E4%BB%98%E6%AC%BE%E7%A0%81%E7%A6%BB%E5%BC%80%E5%8F%88%E5%8F%96%E6%B6%88%E6%94%AF%E4%BB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [作家周涛突发心梗去世](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E5%91%A8%E6%B6%9B%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [“影帝贪官”将父母骗去捡废品种菜](https://www.baidu.com/s?wd=%E2%80%9C%E5%BD%B1%E5%B8%9D%E8%B4%AA%E5%AE%98%E2%80%9D%E5%B0%86%E7%88%B6%E6%AF%8D%E9%AA%97%E5%8E%BB%E6%8D%A1%E5%BA%9F%E5%93%81%E7%A7%8D%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌克兰全境拉响防空警报](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%85%A8%E5%A2%83%E6%8B%89%E5%93%8D%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乌克兰全境拉响防空警报](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%85%A8%E5%A2%83%E6%8B%89%E5%93%8D%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [报道巴以冲突的女记者陈慧慧将回撤](https://www.baidu.com/s?wd=%E6%8A%A5%E9%81%93%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E7%9A%84%E5%A5%B3%E8%AE%B0%E8%80%85%E9%99%88%E6%85%A7%E6%85%A7%E5%B0%86%E5%9B%9E%E6%92%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣深夜1400元牛杂汤服务](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E6%9C%8D%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
