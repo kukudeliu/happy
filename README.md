@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 12:06:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-05 12:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [关晓彤生日被整蛊](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%94%9F%E6%97%A5%E8%A2%AB%E6%95%B4%E8%9B%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘涛解释妈祖为什么会说英语](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E8%A7%A3%E9%87%8A%E5%A6%88%E7%A5%96%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E8%AF%B4%E8%8B%B1%E8%AF%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [因为魏大勋买了大勋花](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%B9%B0%E4%BA%86%E5%A4%A7%E5%8B%8B%E8%8A%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [睡眠不好等于在身体内养毒](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E4%B8%8D%E5%A5%BD%E7%AD%89%E4%BA%8E%E5%9C%A8%E8%BA%AB%E4%BD%93%E5%86%85%E5%85%BB%E6%AF%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [肖战给李健演唱会送花篮](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%BB%99%E6%9D%8E%E5%81%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%81%E8%8A%B1%E7%AF%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
