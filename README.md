@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 19:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 19:11:01</h4></div>
 
 > 微博  
 
 1. [宁安如梦 空降](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E7%A9%BA%E9%99%8D&t=31&band_rank=1&Refer=top)<br />
-2. [替同学挡8刀的她成了人民警察](https://s.weibo.com/weibo?q=%23%E6%9B%BF%E5%90%8C%E5%AD%A6%E6%8C%A18%E5%88%80%E7%9A%84%E5%A5%B9%E6%88%90%E4%BA%86%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F%23&t=31&band_rank=2&Refer=top)<br />
+2. [东北朋友送给全国的第一场雪](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E6%9C%8B%E5%8F%8B%E9%80%81%E7%BB%99%E5%85%A8%E5%9B%BD%E7%9A%84%E7%AC%AC%E4%B8%80%E5%9C%BA%E9%9B%AA%23&t=31&band_rank=2&Refer=top)<br />
 3. [相约乌镇峰会](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E7%BA%A6%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [薛之谦 我卖货就这脾气](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E6%88%91%E5%8D%96%E8%B4%A7%E5%B0%B1%E8%BF%99%E8%84%BE%E6%B0%94&t=31&band_rank=4&Refer=top)<br />
-5. [东北朋友送给全国的第一场雪](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E6%9C%8B%E5%8F%8B%E9%80%81%E7%BB%99%E5%85%A8%E5%9B%BD%E7%9A%84%E7%AC%AC%E4%B8%80%E5%9C%BA%E9%9B%AA%23&t=31&band_rank=5&Refer=top)<br />
+5. [替同学挡8刀的她成了人民警察](https://s.weibo.com/weibo?q=%23%E6%9B%BF%E5%90%8C%E5%AD%A6%E6%8C%A18%E5%88%80%E7%9A%84%E5%A5%B9%E6%88%90%E4%BA%86%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [张亮为了天天24小时不关机](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%AE%E4%B8%BA%E4%BA%86%E5%A4%A9%E5%A4%A924%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%85%B3%E6%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [女大学生肚子大被搓澡阿姨救了一命](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%82%9A%E5%AD%90%E5%A4%A7%E8%A2%AB%E6%90%93%E6%BE%A1%E9%98%BF%E5%A7%A8%E6%95%91%E4%BA%86%E4%B8%80%E5%91%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [权志龙馒化](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E9%A6%92%E5%8C%96%23&t=31&band_rank=8&Refer=top)<br />
