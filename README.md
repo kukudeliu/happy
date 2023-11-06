@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 17:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南京鼓楼医院一处吊顶坍塌1人轻伤](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E9%BC%93%E6%A5%BC%E5%8C%BB%E9%99%A2%E4%B8%80%E5%A4%84%E5%90%8A%E9%A1%B6%E5%9D%8D%E5%A1%8C1%E4%BA%BA%E8%BD%BB%E4%BC%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [张艺谋说张小斐转型很成功](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%AF%B4%E5%BC%A0%E5%B0%8F%E6%96%90%E8%BD%AC%E5%9E%8B%E5%BE%88%E6%88%90%E5%8A%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [何炅 自卑的人该怎么治愈自己](https://s.weibo.com/weibo?q=%E4%BD%95%E7%82%85%20%E8%87%AA%E5%8D%91%E7%9A%84%E4%BA%BA%E8%AF%A5%E6%80%8E%E4%B9%88%E6%B2%BB%E6%84%88%E8%87%AA%E5%B7%B1&t=31&band_rank=8&Refer=top)<br />
-9. [上海5元一根的辣条](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B75%E5%85%83%E4%B8%80%E6%A0%B9%E7%9A%84%E8%BE%A3%E6%9D%A1&t=31&band_rank=9&Refer=top)<br />
+9. [消防员忍臭到干呕将黄鼠狼抓捕放生](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E5%BF%8D%E8%87%AD%E5%88%B0%E5%B9%B2%E5%91%95%E5%B0%86%E9%BB%84%E9%BC%A0%E7%8B%BC%E6%8A%93%E6%8D%95%E6%94%BE%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
