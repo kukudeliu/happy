@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 21:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 21:08:01</h4></div>
 
 > 微博  
 
 1. [权志龙笑着笑着就结束调查了](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E7%AC%91%E7%9D%80%E7%AC%91%E7%9D%80%E5%B0%B1%E7%BB%93%E6%9D%9F%E8%B0%83%E6%9F%A5%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
 2. [医院院长倒卖出生证明每张赚6万](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%80%92%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E%E6%AF%8F%E5%BC%A0%E8%B5%9A6%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
-3. [为什么iPhone只有P大写](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88iPhone%E5%8F%AA%E6%9C%89P%E5%A4%A7%E5%86%99&t=31&band_rank=3&Refer=top)<br />
-4. [薛之谦 我卖货就这脾气](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E6%88%91%E5%8D%96%E8%B4%A7%E5%B0%B1%E8%BF%99%E8%84%BE%E6%B0%94&t=31&band_rank=4&Refer=top)<br />
-5. [终于知道秦岚为什么叫朵拉](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E7%A7%A6%E5%B2%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E6%9C%B5%E6%8B%89&t=31&band_rank=5&Refer=top)<br />
-6. [宁安如梦 空降](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E7%A9%BA%E9%99%8D&t=31&band_rank=6&Refer=top)<br />
-7. [相约乌镇峰会](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E7%BA%A6%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
+3. [进博N维看](https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8D%9AN%E7%BB%B4%E7%9C%8B%23&t=31&band_rank=3&Refer=top)<br />
+4. [为什么iPhone只有P大写](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88iPhone%E5%8F%AA%E6%9C%89P%E5%A4%A7%E5%86%99&t=31&band_rank=4&Refer=top)<br />
+5. [薛之谦 我卖货就这脾气](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E6%88%91%E5%8D%96%E8%B4%A7%E5%B0%B1%E8%BF%99%E8%84%BE%E6%B0%94&t=31&band_rank=5&Refer=top)<br />
+6. [终于知道秦岚为什么叫朵拉](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E7%A7%A6%E5%B2%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E6%9C%B5%E6%8B%89&t=31&band_rank=6&Refer=top)<br />
+7. [宁安如梦 空降](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E7%A9%BA%E9%99%8D&t=31&band_rank=7&Refer=top)<br />
 8. [东北暴雪](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E6%9A%B4%E9%9B%AA%23&t=31&band_rank=8&Refer=top)<br />
 9. [陈楚生直播](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%E7%9B%B4%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
 
@@ -18,10 +18,10 @@
 > 百度  
 
 1. [“四叶草”的开放协奏曲](https://www.baidu.com/s?wd=%E2%80%9C%E5%9B%9B%E5%8F%B6%E8%8D%89%E2%80%9D%E7%9A%84%E5%BC%80%E6%94%BE%E5%8D%8F%E5%A5%8F%E6%9B%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [南方室友第一次见东北大雪激动撒欢](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%AE%A4%E5%8F%8B%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E4%B8%9C%E5%8C%97%E5%A4%A7%E9%9B%AA%E6%BF%80%E5%8A%A8%E6%92%92%E6%AC%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [医院院长倒卖出生证明每张赚6万](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%80%92%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E%E6%AF%8F%E5%BC%A0%E8%B5%9A6%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [深圳国资委提出支持万科具体措施](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9B%BD%E8%B5%84%E5%A7%94%E6%8F%90%E5%87%BA%E6%94%AF%E6%8C%81%E4%B8%87%E7%A7%91%E5%85%B7%E4%BD%93%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [乌镇十年闪耀数字之光](https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E5%8D%81%E5%B9%B4%E9%97%AA%E8%80%80%E6%95%B0%E5%AD%97%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [医院院长倒卖出生证明每张赚6万](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%80%92%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E%E6%AF%8F%E5%BC%A0%E8%B5%9A6%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [南方室友第一次见东北大雪激动撒欢](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%AE%A4%E5%8F%8B%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E4%B8%9C%E5%8C%97%E5%A4%A7%E9%9B%AA%E6%BF%80%E5%8A%A8%E6%92%92%E6%AC%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [妈妈用床单为儿子缝十多套古装](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E7%94%A8%E5%BA%8A%E5%8D%95%E4%B8%BA%E5%84%BF%E5%AD%90%E7%BC%9D%E5%8D%81%E5%A4%9A%E5%A5%97%E5%8F%A4%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京参加明年总统选举？克宫回应](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%8F%82%E5%8A%A0%E6%98%8E%E5%B9%B4%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%EF%BC%9F%E5%85%8B%E5%AE%AB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [媒体评“小学生走路也要戴头盔”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E2%80%9C%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%B5%B0%E8%B7%AF%E4%B9%9F%E8%A6%81%E6%88%B4%E5%A4%B4%E7%9B%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,10 +30,10 @@
 > 哔哩哔哩  
 
 1. [“四叶草”的开放协奏曲](https://www.baidu.com/s?wd=%E2%80%9C%E5%9B%9B%E5%8F%B6%E8%8D%89%E2%80%9D%E7%9A%84%E5%BC%80%E6%94%BE%E5%8D%8F%E5%A5%8F%E6%9B%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [南方室友第一次见东北大雪激动撒欢](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%AE%A4%E5%8F%8B%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E4%B8%9C%E5%8C%97%E5%A4%A7%E9%9B%AA%E6%BF%80%E5%8A%A8%E6%92%92%E6%AC%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [医院院长倒卖出生证明每张赚6万](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%80%92%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E%E6%AF%8F%E5%BC%A0%E8%B5%9A6%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [深圳国资委提出支持万科具体措施](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9B%BD%E8%B5%84%E5%A7%94%E6%8F%90%E5%87%BA%E6%94%AF%E6%8C%81%E4%B8%87%E7%A7%91%E5%85%B7%E4%BD%93%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [乌镇十年闪耀数字之光](https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E5%8D%81%E5%B9%B4%E9%97%AA%E8%80%80%E6%95%B0%E5%AD%97%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [医院院长倒卖出生证明每张赚6万](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%80%92%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E%E6%AF%8F%E5%BC%A0%E8%B5%9A6%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [南方室友第一次见东北大雪激动撒欢](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%AE%A4%E5%8F%8B%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E4%B8%9C%E5%8C%97%E5%A4%A7%E9%9B%AA%E6%BF%80%E5%8A%A8%E6%92%92%E6%AC%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [妈妈用床单为儿子缝十多套古装](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E7%94%A8%E5%BA%8A%E5%8D%95%E4%B8%BA%E5%84%BF%E5%AD%90%E7%BC%9D%E5%8D%81%E5%A4%9A%E5%A5%97%E5%8F%A4%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京参加明年总统选举？克宫回应](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%8F%82%E5%8A%A0%E6%98%8E%E5%B9%B4%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%EF%BC%9F%E5%85%8B%E5%AE%AB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [媒体评“小学生走路也要戴头盔”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E2%80%9C%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%B5%B0%E8%B7%AF%E4%B9%9F%E8%A6%81%E6%88%B4%E5%A4%B4%E7%9B%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
