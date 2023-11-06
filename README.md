@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 10:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 10:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [披荆斩棘成团名单](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95&t=31&band_rank=6&Refer=top)<br />
 7. [当事人称学校已告知助学金事件调查结果](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E5%AD%A6%E6%A0%A1%E5%B7%B2%E5%91%8A%E7%9F%A5%E5%8A%A9%E5%AD%A6%E9%87%91%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [29岁女教练因一张娃娃脸火出圈](https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%A5%B3%E6%95%99%E7%BB%83%E5%9B%A0%E4%B8%80%E5%BC%A0%E5%A8%83%E5%A8%83%E8%84%B8%E7%81%AB%E5%87%BA%E5%9C%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [钟楚曦侯雯元下腰抱海报](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E4%BE%AF%E9%9B%AF%E5%85%83%E4%B8%8B%E8%85%B0%E6%8A%B1%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [奔跑吧](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
