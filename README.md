@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 20:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 20:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宁安如梦 空降](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E7%A9%BA%E9%99%8D&t=31&band_rank=6&Refer=top)<br />
 7. [陈楚生直播](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%E7%9B%B4%E6%92%AD&t=31&band_rank=7&Refer=top)<br />
 8. [终于知道秦岚为什么叫朵拉](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E7%A7%A6%E5%B2%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E6%9C%B5%E6%8B%89&t=31&band_rank=8&Refer=top)<br />
-9. [孙颖莎退出WTT太原站单打](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E9%80%80%E5%87%BAWTT%E5%A4%AA%E5%8E%9F%E7%AB%99%E5%8D%95%E6%89%93&t=31&band_rank=9&Refer=top)<br />
+9. [东北暴雪](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E6%9A%B4%E9%9B%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
