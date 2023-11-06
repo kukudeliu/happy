@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 18:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 18:09:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [乌镇十年闪耀数字之光](https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E5%8D%81%E5%B9%B4%E9%97%AA%E8%80%80%E6%95%B0%E5%AD%97%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [海底捞回应面试时问隐私问题](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E9%9D%A2%E8%AF%95%E6%97%B6%E9%97%AE%E9%9A%90%E7%A7%81%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [替同学挡8刀的女孩成了人民警察](https://www.baidu.com/s?wd=%E6%9B%BF%E5%90%8C%E5%AD%A6%E6%8C%A18%E5%88%80%E7%9A%84%E5%A5%B3%E5%AD%A9%E6%88%90%E4%BA%86%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [抢人！万亿城市也绷不住了](https://www.baidu.com/s?wd=%E6%8A%A2%E4%BA%BA%EF%BC%81%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E4%B9%9F%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [斗鱼方面证实CEO陈少杰失联已近3周](https://www.baidu.com/s?wd=%E6%96%97%E9%B1%BC%E6%96%B9%E9%9D%A2%E8%AF%81%E5%AE%9ECEO%E9%99%88%E5%B0%91%E6%9D%B0%E5%A4%B1%E8%81%94%E5%B7%B2%E8%BF%913%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [知情人称茅台已开展全国稳价措施](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E8%8C%85%E5%8F%B0%E5%B7%B2%E5%BC%80%E5%B1%95%E5%85%A8%E5%9B%BD%E7%A8%B3%E4%BB%B7%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [抢人！万亿城市也绷不住了](https://www.baidu.com/s?wd=%E6%8A%A2%E4%BA%BA%EF%BC%81%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E4%B9%9F%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清淡饮食等于吃素？](https://www.baidu.com/s?wd=%E6%B8%85%E6%B7%A1%E9%A5%AE%E9%A3%9F%E7%AD%89%E4%BA%8E%E5%90%83%E7%B4%A0%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [乌镇十年闪耀数字之光](https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E5%8D%81%E5%B9%B4%E9%97%AA%E8%80%80%E6%95%B0%E5%AD%97%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [海底捞回应面试时问隐私问题](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E9%9D%A2%E8%AF%95%E6%97%B6%E9%97%AE%E9%9A%90%E7%A7%81%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [替同学挡8刀的女孩成了人民警察](https://www.baidu.com/s?wd=%E6%9B%BF%E5%90%8C%E5%AD%A6%E6%8C%A18%E5%88%80%E7%9A%84%E5%A5%B3%E5%AD%A9%E6%88%90%E4%BA%86%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [抢人！万亿城市也绷不住了](https://www.baidu.com/s?wd=%E6%8A%A2%E4%BA%BA%EF%BC%81%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E4%B9%9F%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [斗鱼方面证实CEO陈少杰失联已近3周](https://www.baidu.com/s?wd=%E6%96%97%E9%B1%BC%E6%96%B9%E9%9D%A2%E8%AF%81%E5%AE%9ECEO%E9%99%88%E5%B0%91%E6%9D%B0%E5%A4%B1%E8%81%94%E5%B7%B2%E8%BF%913%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [知情人称茅台已开展全国稳价措施](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E8%8C%85%E5%8F%B0%E5%B7%B2%E5%BC%80%E5%B1%95%E5%85%A8%E5%9B%BD%E7%A8%B3%E4%BB%B7%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [抢人！万亿城市也绷不住了](https://www.baidu.com/s?wd=%E6%8A%A2%E4%BA%BA%EF%BC%81%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E4%B9%9F%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清淡饮食等于吃素？](https://www.baidu.com/s?wd=%E6%B8%85%E6%B7%A1%E9%A5%AE%E9%A3%9F%E7%AD%89%E4%BA%8E%E5%90%83%E7%B4%A0%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
