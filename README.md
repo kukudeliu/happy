@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 09:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 09:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨紫李现 国色芳华](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%20%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E&t=31&band_rank=6&Refer=top)<br />
 7. [请回答1988开播八周年](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%9B%9E%E7%AD%941988%E5%BC%80%E6%92%AD%E5%85%AB%E5%91%A8%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=8&Refer=top)<br />
-9. [研究发现血型与疾病的发生有相关性](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E8%A1%80%E5%9E%8B%E4%B8%8E%E7%96%BE%E7%97%85%E7%9A%84%E5%8F%91%E7%94%9F%E6%9C%89%E7%9B%B8%E5%85%B3%E6%80%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [奥巴马称没有谁的手是干净的](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E7%A7%B0%E6%B2%A1%E6%9C%89%E8%B0%81%E7%9A%84%E6%89%8B%E6%98%AF%E5%B9%B2%E5%87%80%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
