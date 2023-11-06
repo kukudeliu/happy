@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 03:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 03:32:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [进博会到底有多好逛](https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A5%BD%E9%80%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [突然理解为什么姜涛是顶流了](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A7%9C%E6%B6%9B%E6%98%AF%E9%A1%B6%E6%B5%81%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [医院院长倒卖出生证明每张赚6万](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%80%92%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E%E6%AF%8F%E5%BC%A0%E8%B5%9A6%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [新疆多地出现罕见红色极光](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E7%BD%95%E8%A7%81%E7%BA%A2%E8%89%B2%E6%9E%81%E5%85%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [权志龙笑着笑着就结束调查了](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E7%AC%91%E7%9D%80%E7%AC%91%E7%9D%80%E5%B0%B1%E7%BB%93%E6%9D%9F%E8%B0%83%E6%9F%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+6. [权志龙笑着笑着就结束调查了](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E7%AC%91%E7%9D%80%E7%AC%91%E7%9D%80%E5%B0%B1%E7%BB%93%E6%9D%9F%E8%B0%83%E6%9F%A5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [新疆多地出现罕见红色极光](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E7%BD%95%E8%A7%81%E7%BA%A2%E8%89%B2%E6%9E%81%E5%85%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [景甜 脸在江山在](https://s.weibo.com/weibo?q=%E6%99%AF%E7%94%9C%20%E8%84%B8%E5%9C%A8%E6%B1%9F%E5%B1%B1%E5%9C%A8&t=31&band_rank=8&Refer=top)<br />
 9. [不一定斩男 百分百斩女](https://s.weibo.com/weibo?q=%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%96%A9%E7%94%B7%20%E7%99%BE%E5%88%86%E7%99%BE%E6%96%A9%E5%A5%B3&t=31&band_rank=9&Refer=top)<br />
 
