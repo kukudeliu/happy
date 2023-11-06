@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 17:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 17:41:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [相约乌镇峰会](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E7%BA%A6%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [迪丽热巴张馨予 美女的旁边还是美女](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%A0%E9%A6%A8%E4%BA%88%20%E7%BE%8E%E5%A5%B3%E7%9A%84%E6%97%81%E8%BE%B9%E8%BF%98%E6%98%AF%E7%BE%8E%E5%A5%B3&t=31&band_rank=4&Refer=top)<br />
 5. [上海5元一根的辣条](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B75%E5%85%83%E4%B8%80%E6%A0%B9%E7%9A%84%E8%BE%A3%E6%9D%A1&t=31&band_rank=5&Refer=top)<br />
-6. [替同学挡8刀的她成了人民警察](https://s.weibo.com/weibo?q=%23%E6%9B%BF%E5%90%8C%E5%AD%A6%E6%8C%A18%E5%88%80%E7%9A%84%E5%A5%B9%E6%88%90%E4%BA%86%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [李现的左右脸是复制粘贴的吧](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E7%9A%84%E5%B7%A6%E5%8F%B3%E8%84%B8%E6%98%AF%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E7%9A%84%E5%90%A7&t=31&band_rank=7&Refer=top)<br />
-8. [女将星](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%B0%86%E6%98%9F&t=31&band_rank=8&Refer=top)<br />
+6. [李现的左右脸是复制粘贴的吧](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E7%9A%84%E5%B7%A6%E5%8F%B3%E8%84%B8%E6%98%AF%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E7%9A%84%E5%90%A7&t=31&band_rank=6&Refer=top)<br />
+7. [替同学挡8刀的她成了人民警察](https://s.weibo.com/weibo?q=%23%E6%9B%BF%E5%90%8C%E5%AD%A6%E6%8C%A18%E5%88%80%E7%9A%84%E5%A5%B9%E6%88%90%E4%BA%86%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F%23&t=31&band_rank=7&Refer=top)<br />
+8. [奔跑吧生态篇官宣阵容](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E7%94%9F%E6%80%81%E7%AF%87%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
 9. [斗鱼证实CEO陈少杰失联](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E8%AF%81%E5%AE%9ECEO%E9%99%88%E5%B0%91%E6%9D%B0%E5%A4%B1%E8%81%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
