@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 17:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 17:19:01</h4></div>
 
 > 微博  
 
-1. [万科](https://s.weibo.com/weibo?q=%E4%B8%87%E7%A7%91&t=31&band_rank=1&Refer=top)<br />
+1. [泉州小区发生爆燃致1死3伤](https://s.weibo.com/weibo?q=%E6%B3%89%E5%B7%9E%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%87%83%E8%87%B41%E6%AD%BB3%E4%BC%A4&t=31&band_rank=1&Refer=top)<br />
 2. [权志龙药检呈阴性](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E8%8D%AF%E6%A3%80%E5%91%88%E9%98%B4%E6%80%A7%23&t=31&band_rank=2&Refer=top)<br />
 3. [相约乌镇峰会](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E7%BA%A6%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [迪丽热巴张馨予 美女的旁边还是美女](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%A0%E9%A6%A8%E4%BA%88%20%E7%BE%8E%E5%A5%B3%E7%9A%84%E6%97%81%E8%BE%B9%E8%BF%98%E6%98%AF%E7%BE%8E%E5%A5%B3&t=31&band_rank=4&Refer=top)<br />
-5. [泉州小区发生爆燃致1死3伤](https://s.weibo.com/weibo?q=%E6%B3%89%E5%B7%9E%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%87%83%E8%87%B41%E6%AD%BB3%E4%BC%A4&t=31&band_rank=5&Refer=top)<br />
+5. [万科](https://s.weibo.com/weibo?q=%E4%B8%87%E7%A7%91&t=31&band_rank=5&Refer=top)<br />
 6. [替同学挡8刀的她成了人民警察](https://s.weibo.com/weibo?q=%23%E6%9B%BF%E5%90%8C%E5%AD%A6%E6%8C%A18%E5%88%80%E7%9A%84%E5%A5%B9%E6%88%90%E4%BA%86%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [何炅 自卑的人该怎么治愈自己](https://s.weibo.com/weibo?q=%E4%BD%95%E7%82%85%20%E8%87%AA%E5%8D%91%E7%9A%84%E4%BA%BA%E8%AF%A5%E6%80%8E%E4%B9%88%E6%B2%BB%E6%84%88%E8%87%AA%E5%B7%B1&t=31&band_rank=7&Refer=top)<br />
 8. [女将星](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%B0%86%E6%98%9F&t=31&band_rank=8&Refer=top)<br />
@@ -23,8 +23,8 @@
 4. [乌镇十年闪耀数字之光](https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E5%8D%81%E5%B9%B4%E9%97%AA%E8%80%80%E6%95%B0%E5%AD%97%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [郑州一鸵鸟街头狂奔 交警追几十公里](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E4%B8%80%E9%B8%B5%E9%B8%9F%E8%A1%97%E5%A4%B4%E7%8B%82%E5%A5%94+%E4%BA%A4%E8%AD%A6%E8%BF%BD%E5%87%A0%E5%8D%81%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [威海一轿车坠海3人遇难](https://www.baidu.com/s?wd=%E5%A8%81%E6%B5%B7%E4%B8%80%E8%BD%BF%E8%BD%A6%E5%9D%A0%E6%B5%B73%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [清华教授：35岁考虑养老已经晚了](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%EF%BC%9A35%E5%B2%81%E8%80%83%E8%99%91%E5%85%BB%E8%80%81%E5%B7%B2%E7%BB%8F%E6%99%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [29岁女教练因一张娃娃脸火出圈](https://www.baidu.com/s?wd=29%E5%B2%81%E5%A5%B3%E6%95%99%E7%BB%83%E5%9B%A0%E4%B8%80%E5%BC%A0%E5%A8%83%E5%A8%83%E8%84%B8%E7%81%AB%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [阿巴斯告诉布林肯：必须立即停火](https://www.baidu.com/s?wd=%E9%98%BF%E5%B7%B4%E6%96%AF%E5%91%8A%E8%AF%89%E5%B8%83%E6%9E%97%E8%82%AF%EF%BC%9A%E5%BF%85%E9%A1%BB%E7%AB%8B%E5%8D%B3%E5%81%9C%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [以军发言人：以军已全面包围加沙城](https://www.baidu.com/s?wd=%E4%BB%A5%E5%86%9B%E5%8F%91%E8%A8%80%E4%BA%BA%EF%BC%9A%E4%BB%A5%E5%86%9B%E5%B7%B2%E5%85%A8%E9%9D%A2%E5%8C%85%E5%9B%B4%E5%8A%A0%E6%B2%99%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清淡饮食等于吃素？](https://www.baidu.com/s?wd=%E6%B8%85%E6%B7%A1%E9%A5%AE%E9%A3%9F%E7%AD%89%E4%BA%8E%E5%90%83%E7%B4%A0%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [乌镇十年闪耀数字之光](https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E5%8D%81%E5%B9%B4%E9%97%AA%E8%80%80%E6%95%B0%E5%AD%97%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [郑州一鸵鸟街头狂奔 交警追几十公里](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E4%B8%80%E9%B8%B5%E9%B8%9F%E8%A1%97%E5%A4%B4%E7%8B%82%E5%A5%94+%E4%BA%A4%E8%AD%A6%E8%BF%BD%E5%87%A0%E5%8D%81%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [威海一轿车坠海3人遇难](https://www.baidu.com/s?wd=%E5%A8%81%E6%B5%B7%E4%B8%80%E8%BD%BF%E8%BD%A6%E5%9D%A0%E6%B5%B73%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [清华教授：35岁考虑养老已经晚了](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%EF%BC%9A35%E5%B2%81%E8%80%83%E8%99%91%E5%85%BB%E8%80%81%E5%B7%B2%E7%BB%8F%E6%99%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [29岁女教练因一张娃娃脸火出圈](https://www.baidu.com/s?wd=29%E5%B2%81%E5%A5%B3%E6%95%99%E7%BB%83%E5%9B%A0%E4%B8%80%E5%BC%A0%E5%A8%83%E5%A8%83%E8%84%B8%E7%81%AB%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [阿巴斯告诉布林肯：必须立即停火](https://www.baidu.com/s?wd=%E9%98%BF%E5%B7%B4%E6%96%AF%E5%91%8A%E8%AF%89%E5%B8%83%E6%9E%97%E8%82%AF%EF%BC%9A%E5%BF%85%E9%A1%BB%E7%AB%8B%E5%8D%B3%E5%81%9C%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [以军发言人：以军已全面包围加沙城](https://www.baidu.com/s?wd=%E4%BB%A5%E5%86%9B%E5%8F%91%E8%A8%80%E4%BA%BA%EF%BC%9A%E4%BB%A5%E5%86%9B%E5%B7%B2%E5%85%A8%E9%9D%A2%E5%8C%85%E5%9B%B4%E5%8A%A0%E6%B2%99%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清淡饮食等于吃素？](https://www.baidu.com/s?wd=%E6%B8%85%E6%B7%A1%E9%A5%AE%E9%A3%9F%E7%AD%89%E4%BA%8E%E5%90%83%E7%B4%A0%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
