@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 04:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 05:00:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [北上广很难有花束般的恋爱](https://s.weibo.com/weibo?q=%E5%8C%97%E4%B8%8A%E5%B9%BF%E5%BE%88%E9%9A%BE%E6%9C%89%E8%8A%B1%E6%9D%9F%E8%88%AC%E7%9A%84%E6%81%8B%E7%88%B1&t=31&band_rank=5&Refer=top)<br />
 6. [新疆多地出现罕见红色极光](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E7%BD%95%E8%A7%81%E7%BA%A2%E8%89%B2%E6%9E%81%E5%85%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [景甜 脸在江山在](https://s.weibo.com/weibo?q=%E6%99%AF%E7%94%9C%20%E8%84%B8%E5%9C%A8%E6%B1%9F%E5%B1%B1%E5%9C%A8&t=31&band_rank=7&Refer=top)<br />
-8. [不一定斩男 百分百斩女](https://s.weibo.com/weibo?q=%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%96%A9%E7%94%B7%20%E7%99%BE%E5%88%86%E7%99%BE%E6%96%A9%E5%A5%B3&t=31&band_rank=8&Refer=top)<br />
-9. [权志龙笑着笑着就结束调查了](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E7%AC%91%E7%9D%80%E7%AC%91%E7%9D%80%E5%B0%B1%E7%BB%93%E6%9D%9F%E8%B0%83%E6%9F%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [权志龙笑着笑着就结束调查了](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E7%AC%91%E7%9D%80%E7%AC%91%E7%9D%80%E5%B0%B1%E7%BB%93%E6%9D%9F%E8%B0%83%E6%9F%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [不一定斩男 百分百斩女](https://s.weibo.com/weibo?q=%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%96%A9%E7%94%B7%20%E7%99%BE%E5%88%86%E7%99%BE%E6%96%A9%E5%A5%B3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
