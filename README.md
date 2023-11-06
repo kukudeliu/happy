@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 21:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 21:21:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [用着8000块电脑的贫困生](https://s.weibo.com/weibo?q=%E7%94%A8%E7%9D%808000%E5%9D%97%E7%94%B5%E8%84%91%E7%9A%84%E8%B4%AB%E5%9B%B0%E7%94%9F&t=31&band_rank=4&Refer=top)<br />
 5. [为什么iPhone只有P大写](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88iPhone%E5%8F%AA%E6%9C%89P%E5%A4%A7%E5%86%99&t=31&band_rank=5&Refer=top)<br />
 6. [突然理解为什么姜涛是顶流了](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A7%9C%E6%B6%9B%E6%98%AF%E9%A1%B6%E6%B5%81%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [薛之谦 我卖货就这脾气](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E6%88%91%E5%8D%96%E8%B4%A7%E5%B0%B1%E8%BF%99%E8%84%BE%E6%B0%94&t=31&band_rank=7&Refer=top)<br />
-8. [东北暴雪](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E6%9A%B4%E9%9B%AA%23&t=31&band_rank=8&Refer=top)<br />
+7. [东北暴雪](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E6%9A%B4%E9%9B%AA%23&t=31&band_rank=7&Refer=top)<br />
+8. [薛之谦 我卖货就这脾气](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E6%88%91%E5%8D%96%E8%B4%A7%E5%B0%B1%E8%BF%99%E8%84%BE%E6%B0%94&t=31&band_rank=8&Refer=top)<br />
 9. [宁安如梦 空降](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E7%A9%BA%E9%99%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
