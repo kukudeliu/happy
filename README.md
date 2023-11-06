@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 20:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 20:10:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [普京参加明年总统选举？克宫回应](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%8F%82%E5%8A%A0%E6%98%8E%E5%B9%B4%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%EF%BC%9F%E5%85%8B%E5%AE%AB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [清华教授：35岁考虑养老已经晚了](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%EF%BC%9A35%E5%B2%81%E8%80%83%E8%99%91%E5%85%BB%E8%80%81%E5%B7%B2%E7%BB%8F%E6%99%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [上海5元一根的辣条](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B75%E5%85%83%E4%B8%80%E6%A0%B9%E7%9A%84%E8%BE%A3%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黑龙江漠河再现绚丽北极光](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%BC%A0%E6%B2%B3%E5%86%8D%E7%8E%B0%E7%BB%9A%E4%B8%BD%E5%8C%97%E6%9E%81%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国女足先后已有三人公开表达不满](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E5%85%88%E5%90%8E%E5%B7%B2%E6%9C%89%E4%B8%89%E4%BA%BA%E5%85%AC%E5%BC%80%E8%A1%A8%E8%BE%BE%E4%B8%8D%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些中日友好医院的传言是假的](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%AD%E6%97%A5%E5%8F%8B%E5%A5%BD%E5%8C%BB%E9%99%A2%E7%9A%84%E4%BC%A0%E8%A8%80%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [普京参加明年总统选举？克宫回应](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%8F%82%E5%8A%A0%E6%98%8E%E5%B9%B4%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%EF%BC%9F%E5%85%8B%E5%AE%AB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [清华教授：35岁考虑养老已经晚了](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%EF%BC%9A35%E5%B2%81%E8%80%83%E8%99%91%E5%85%BB%E8%80%81%E5%B7%B2%E7%BB%8F%E6%99%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [上海5元一根的辣条](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B75%E5%85%83%E4%B8%80%E6%A0%B9%E7%9A%84%E8%BE%A3%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黑龙江漠河再现绚丽北极光](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%BC%A0%E6%B2%B3%E5%86%8D%E7%8E%B0%E7%BB%9A%E4%B8%BD%E5%8C%97%E6%9E%81%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国女足先后已有三人公开表达不满](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E5%85%88%E5%90%8E%E5%B7%B2%E6%9C%89%E4%B8%89%E4%BA%BA%E5%85%AC%E5%BC%80%E8%A1%A8%E8%BE%BE%E4%B8%8D%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些中日友好医院的传言是假的](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%AD%E6%97%A5%E5%8F%8B%E5%A5%BD%E5%8C%BB%E9%99%A2%E7%9A%84%E4%BC%A0%E8%A8%80%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
