@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 18:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 18:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张亮为了天天24小时不关机](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%AE%E4%B8%BA%E4%BA%86%E5%A4%A9%E5%A4%A924%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%85%B3%E6%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [东北朋友送给全国的第一场雪](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E6%9C%8B%E5%8F%8B%E9%80%81%E7%BB%99%E5%85%A8%E5%9B%BD%E7%9A%84%E7%AC%AC%E4%B8%80%E5%9C%BA%E9%9B%AA%23&t=31&band_rank=7&Refer=top)<br />
 8. [权志龙馒化](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E9%A6%92%E5%8C%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴张馨予 美女的旁边还是美女](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%A0%E9%A6%A8%E4%BA%88%20%E7%BE%8E%E5%A5%B3%E7%9A%84%E6%97%81%E8%BE%B9%E8%BF%98%E6%98%AF%E7%BE%8E%E5%A5%B3&t=31&band_rank=9&Refer=top)<br />
+9. [芒果的纯元回来了](https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%E7%9A%84%E7%BA%AF%E5%85%83%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
