@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 16:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 16:25:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [2023世界互联网大会乌镇峰会](https://s.weibo.com/weibo?q=%232023%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [何炅 自卑的人该怎么治愈自己](https://s.weibo.com/weibo?q=%E4%BD%95%E7%82%85%20%E8%87%AA%E5%8D%91%E7%9A%84%E4%BA%BA%E8%AF%A5%E6%80%8E%E4%B9%88%E6%B2%BB%E6%84%88%E8%87%AA%E5%B7%B1&t=31&band_rank=4&Refer=top)<br />
 5. [黄海波放下了吗](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B5%B7%E6%B3%A2%E6%94%BE%E4%B8%8B%E4%BA%86%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
-6. [斗鱼证实CEO陈少杰失联](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E8%AF%81%E5%AE%9ECEO%E9%99%88%E5%B0%91%E6%9D%B0%E5%A4%B1%E8%81%94%23&t=31&band_rank=6&Refer=top)<br />
-7. [权志龙调查现场说走着瞧吧](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E8%B0%83%E6%9F%A5%E7%8E%B0%E5%9C%BA%E8%AF%B4%E8%B5%B0%E7%9D%80%E7%9E%A7%E5%90%A7%23&t=31&band_rank=7&Refer=top)<br />
+6. [权志龙调查现场说走着瞧吧](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E8%B0%83%E6%9F%A5%E7%8E%B0%E5%9C%BA%E8%AF%B4%E8%B5%B0%E7%9D%80%E7%9E%A7%E5%90%A7%23&t=31&band_rank=6&Refer=top)<br />
+7. [斗鱼证实CEO陈少杰失联](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E8%AF%81%E5%AE%9ECEO%E9%99%88%E5%B0%91%E6%9D%B0%E5%A4%B1%E8%81%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [李现的左右脸是复制粘贴的吧](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E7%9A%84%E5%B7%A6%E5%8F%B3%E8%84%B8%E6%98%AF%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E7%9A%84%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
 9. [女生称生病拒绝周末无偿加班被辞退](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%A7%B0%E7%94%9F%E7%97%85%E6%8B%92%E7%BB%9D%E5%91%A8%E6%9C%AB%E6%97%A0%E5%81%BF%E5%8A%A0%E7%8F%AD%E8%A2%AB%E8%BE%9E%E9%80%80%23&t=31&band_rank=9&Refer=top)<br />
 
