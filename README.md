@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 11:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 11:14:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [张钧甯谈断崖式分手](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%A7%E7%94%AF%E8%B0%88%E6%96%AD%E5%B4%96%E5%BC%8F%E5%88%86%E6%89%8B%23&t=31&band_rank=2&Refer=top)<br />
 3. [第一届全国学青会开幕式](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%AD%A6%E9%9D%92%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%23&t=31&band_rank=3&Refer=top)<br />
 4. [陈楚生 披荆斩棘总冠军](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%20%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%80%BB%E5%86%A0%E5%86%9B&t=31&band_rank=4&Refer=top)<br />
-5. [钟楚曦侯雯元下腰抱海报](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E4%BE%AF%E9%9B%AF%E5%85%83%E4%B8%8B%E8%85%B0%E6%8A%B1%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=5&Refer=top)<br />
-6. [杨紫小夭新造型](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B0%8F%E5%A4%AD%E6%96%B0%E9%80%A0%E5%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
+5. [杨紫小夭新造型](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B0%8F%E5%A4%AD%E6%96%B0%E9%80%A0%E5%9E%8B%23&t=31&band_rank=5&Refer=top)<br />
+6. [钟楚曦侯雯元下腰抱海报](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E4%BE%AF%E9%9B%AF%E5%85%83%E4%B8%8B%E8%85%B0%E6%8A%B1%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [奔跑吧](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=31&band_rank=7&Refer=top)<br />
 8. [29岁女教练因一张娃娃脸火出圈](https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%A5%B3%E6%95%99%E7%BB%83%E5%9B%A0%E4%B8%80%E5%BC%A0%E5%A8%83%E5%A8%83%E8%84%B8%E7%81%AB%E5%87%BA%E5%9C%88%23&t=31&band_rank=8&Refer=top)<br />
 9. [台湾黑老大向好友炫枪将自己打死](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%BB%91%E8%80%81%E5%A4%A7%E5%90%91%E5%A5%BD%E5%8F%8B%E7%82%AB%E6%9E%AA%E5%B0%86%E8%87%AA%E5%B7%B1%E6%89%93%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
@@ -23,8 +23,8 @@
 4. [共“进”向未来 “博”出新精彩](https://www.baidu.com/s?wd=%E5%85%B1%E2%80%9C%E8%BF%9B%E2%80%9D%E5%90%91%E6%9C%AA%E6%9D%A5+%E2%80%9C%E5%8D%9A%E2%80%9D%E5%87%BA%E6%96%B0%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [哈尔滨主城区停课 客运站全线停运](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%BB%E5%9F%8E%E5%8C%BA%E5%81%9C%E8%AF%BE+%E5%AE%A2%E8%BF%90%E7%AB%99%E5%85%A8%E7%BA%BF%E5%81%9C%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [菜还没上筷子先花了两元](https://www.baidu.com/s?wd=%E8%8F%9C%E8%BF%98%E6%B2%A1%E4%B8%8A%E7%AD%B7%E5%AD%90%E5%85%88%E8%8A%B1%E4%BA%86%E4%B8%A4%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [羽绒服销售爆火：价格上涨](https://www.baidu.com/s?wd=%E7%BE%BD%E7%BB%92%E6%9C%8D%E9%94%80%E5%94%AE%E7%88%86%E7%81%AB%EF%BC%9A%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子被孩子气哭哭着给母亲打电话](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%AD%A9%E5%AD%90%E6%B0%94%E5%93%AD%E5%93%AD%E7%9D%80%E7%BB%99%E6%AF%8D%E4%BA%B2%E6%89%93%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子被孩子气哭哭着给母亲打电话](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%AD%A9%E5%AD%90%E6%B0%94%E5%93%AD%E5%93%AD%E7%9D%80%E7%BB%99%E6%AF%8D%E4%BA%B2%E6%89%93%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [羽绒服销售爆火：价格上涨](https://www.baidu.com/s?wd=%E7%BE%BD%E7%BB%92%E6%9C%8D%E9%94%80%E5%94%AE%E7%88%86%E7%81%AB%EF%BC%9A%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清淡饮食等于吃素？](https://www.baidu.com/s?wd=%E6%B8%85%E6%B7%A1%E9%A5%AE%E9%A3%9F%E7%AD%89%E4%BA%8E%E5%90%83%E7%B4%A0%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [共“进”向未来 “博”出新精彩](https://www.baidu.com/s?wd=%E5%85%B1%E2%80%9C%E8%BF%9B%E2%80%9D%E5%90%91%E6%9C%AA%E6%9D%A5+%E2%80%9C%E5%8D%9A%E2%80%9D%E5%87%BA%E6%96%B0%E7%B2%BE%E5%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [哈尔滨主城区停课 客运站全线停运](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%BB%E5%9F%8E%E5%8C%BA%E5%81%9C%E8%AF%BE+%E5%AE%A2%E8%BF%90%E7%AB%99%E5%85%A8%E7%BA%BF%E5%81%9C%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [菜还没上筷子先花了两元](https://www.baidu.com/s?wd=%E8%8F%9C%E8%BF%98%E6%B2%A1%E4%B8%8A%E7%AD%B7%E5%AD%90%E5%85%88%E8%8A%B1%E4%BA%86%E4%B8%A4%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [羽绒服销售爆火：价格上涨](https://www.baidu.com/s?wd=%E7%BE%BD%E7%BB%92%E6%9C%8D%E9%94%80%E5%94%AE%E7%88%86%E7%81%AB%EF%BC%9A%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子被孩子气哭哭着给母亲打电话](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%AD%A9%E5%AD%90%E6%B0%94%E5%93%AD%E5%93%AD%E7%9D%80%E7%BB%99%E6%AF%8D%E4%BA%B2%E6%89%93%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子被孩子气哭哭着给母亲打电话](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%AD%A9%E5%AD%90%E6%B0%94%E5%93%AD%E5%93%AD%E7%9D%80%E7%BB%99%E6%AF%8D%E4%BA%B2%E6%89%93%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [羽绒服销售爆火：价格上涨](https://www.baidu.com/s?wd=%E7%BE%BD%E7%BB%92%E6%9C%8D%E9%94%80%E5%94%AE%E7%88%86%E7%81%AB%EF%BC%9A%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清淡饮食等于吃素？](https://www.baidu.com/s?wd=%E6%B8%85%E6%B7%A1%E9%A5%AE%E9%A3%9F%E7%AD%89%E4%BA%8E%E5%90%83%E7%B4%A0%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
