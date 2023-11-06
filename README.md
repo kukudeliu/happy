@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 21:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 21:47:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [东北暴雪](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E6%9A%B4%E9%9B%AA%23&t=31&band_rank=6&Refer=top)<br />
 7. [宁安如梦 空降](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E7%A9%BA%E9%99%8D&t=31&band_rank=7&Refer=top)<br />
 8. [薛之谦 我卖货就这脾气](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E6%88%91%E5%8D%96%E8%B4%A7%E5%B0%B1%E8%BF%99%E8%84%BE%E6%B0%94&t=31&band_rank=8&Refer=top)<br />
-9. [用着8000块电脑的贫困生](https://s.weibo.com/weibo?q=%E7%94%A8%E7%9D%808000%E5%9D%97%E7%94%B5%E8%84%91%E7%9A%84%E8%B4%AB%E5%9B%B0%E7%94%9F&t=31&band_rank=9&Refer=top)<br />
+9. [卫健委通报医院贩卖出生证及婴儿](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E9%80%9A%E6%8A%A5%E5%8C%BB%E9%99%A2%E8%B4%A9%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81%E5%8F%8A%E5%A9%B4%E5%84%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
