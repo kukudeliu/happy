@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 16:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 16:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [斗鱼证实CEO陈少杰失联](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E8%AF%81%E5%AE%9ECEO%E9%99%88%E5%B0%91%E6%9D%B0%E5%A4%B1%E8%81%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [人均1700只给你吃鸡](https://s.weibo.com/weibo?q=%E4%BA%BA%E5%9D%871700%E5%8F%AA%E7%BB%99%E4%BD%A0%E5%90%83%E9%B8%A1&t=31&band_rank=7&Refer=top)<br />
 8. [父子俩5.2元购入95号汽油6.7元售出](https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%AD%90%E4%BF%A95.2%E5%85%83%E8%B4%AD%E5%85%A595%E5%8F%B7%E6%B1%BD%E6%B2%B96.7%E5%85%83%E5%94%AE%E5%87%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [金莎说好男人是不在市场上流通的](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E8%AF%B4%E5%A5%BD%E7%94%B7%E4%BA%BA%E6%98%AF%E4%B8%8D%E5%9C%A8%E5%B8%82%E5%9C%BA%E4%B8%8A%E6%B5%81%E9%80%9A%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [女生称生病拒绝周末无偿加班被辞退](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%A7%B0%E7%94%9F%E7%97%85%E6%8B%92%E7%BB%9D%E5%91%A8%E6%9C%AB%E6%97%A0%E5%81%BF%E5%8A%A0%E7%8F%AD%E8%A2%AB%E8%BE%9E%E9%80%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
