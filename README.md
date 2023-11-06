@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 01:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 01:29:02</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [乌镇十年闪耀数字之光](https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E5%8D%81%E5%B9%B4%E9%97%AA%E8%80%80%E6%95%B0%E5%AD%97%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国足球的“12岁退役”现象](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E7%9A%84%E2%80%9C12%E5%B2%81%E9%80%80%E5%BD%B9%E2%80%9D%E7%8E%B0%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [抢人！万亿城市也绷不住了](https://www.baidu.com/s?wd=%E6%8A%A2%E4%BA%BA%EF%BC%81%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E4%B9%9F%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [普京参加明年总统选举？克宫回应](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%8F%82%E5%8A%A0%E6%98%8E%E5%B9%B4%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%EF%BC%9F%E5%85%8B%E5%AE%AB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [台媒证实唐禹哲求婚女友成功](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E8%AF%81%E5%AE%9E%E5%94%90%E7%A6%B9%E5%93%B2%E6%B1%82%E5%A9%9A%E5%A5%B3%E5%8F%8B%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [何立峰将访问美国](https://www.baidu.com/s?wd=%E4%BD%95%E7%AB%8B%E5%B3%B0%E5%B0%86%E8%AE%BF%E9%97%AE%E7%BE%8E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [兰州有学校发生伤人事件？假的](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E6%9C%89%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [乌镇十年闪耀数字之光](https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E5%8D%81%E5%B9%B4%E9%97%AA%E8%80%80%E6%95%B0%E5%AD%97%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国足球的“12岁退役”现象](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E7%9A%84%E2%80%9C12%E5%B2%81%E9%80%80%E5%BD%B9%E2%80%9D%E7%8E%B0%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [抢人！万亿城市也绷不住了](https://www.baidu.com/s?wd=%E6%8A%A2%E4%BA%BA%EF%BC%81%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E4%B9%9F%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [普京参加明年总统选举？克宫回应](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%8F%82%E5%8A%A0%E6%98%8E%E5%B9%B4%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%EF%BC%9F%E5%85%8B%E5%AE%AB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [台媒证实唐禹哲求婚女友成功](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E8%AF%81%E5%AE%9E%E5%94%90%E7%A6%B9%E5%93%B2%E6%B1%82%E5%A9%9A%E5%A5%B3%E5%8F%8B%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [何立峰将访问美国](https://www.baidu.com/s?wd=%E4%BD%95%E7%AB%8B%E5%B3%B0%E5%B0%86%E8%AE%BF%E9%97%AE%E7%BE%8E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [兰州有学校发生伤人事件？假的](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E6%9C%89%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
