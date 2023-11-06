@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 19:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 20:00:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孙颖莎退出WTT太原站单打](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E9%80%80%E5%87%BAWTT%E5%A4%AA%E5%8E%9F%E7%AB%99%E5%8D%95%E6%89%93&t=31&band_rank=6&Refer=top)<br />
 7. [替同学挡8刀的她成了人民警察](https://s.weibo.com/weibo?q=%23%E6%9B%BF%E5%90%8C%E5%AD%A6%E6%8C%A18%E5%88%80%E7%9A%84%E5%A5%B9%E6%88%90%E4%BA%86%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [东北暴雪](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E6%9A%B4%E9%9B%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [权志龙馒化](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E9%A6%92%E5%8C%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [住持称与女主播发生关系后被敲诈](https://s.weibo.com/weibo?q=%23%E4%BD%8F%E6%8C%81%E7%A7%B0%E4%B8%8E%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E5%90%8E%E8%A2%AB%E6%95%B2%E8%AF%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
