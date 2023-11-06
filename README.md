@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 14:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 14:07:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [2023世界互联网大会乌镇峰会](https://s.weibo.com/weibo?q=%232023%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [天津助学金事件调查结果](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%8A%A9%E5%AD%A6%E9%87%91%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=31&band_rank=4&Refer=top)<br />
 5. [蜂花护发素 洗衣服](https://s.weibo.com/weibo?q=%E8%9C%82%E8%8A%B1%E6%8A%A4%E5%8F%91%E7%B4%A0%20%E6%B4%97%E8%A1%A3%E6%9C%8D&t=31&band_rank=5&Refer=top)<br />
-6. [魏大勋明侦合照被截半个身子](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%98%8E%E4%BE%A6%E5%90%88%E7%85%A7%E8%A2%AB%E6%88%AA%E5%8D%8A%E4%B8%AA%E8%BA%AB%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
-7. [陈楚生 披荆斩棘总冠军](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%20%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%80%BB%E5%86%A0%E5%86%9B&t=31&band_rank=7&Refer=top)<br />
-8. [暴雪下的哈尔滨](https://s.weibo.com/weibo?q=%E6%9A%B4%E9%9B%AA%E4%B8%8B%E7%9A%84%E5%93%88%E5%B0%94%E6%BB%A8&t=31&band_rank=8&Refer=top)<br />
+6. [暴雪下的哈尔滨](https://s.weibo.com/weibo?q=%E6%9A%B4%E9%9B%AA%E4%B8%8B%E7%9A%84%E5%93%88%E5%B0%94%E6%BB%A8&t=31&band_rank=6&Refer=top)<br />
+7. [魏大勋明侦合照被截半个身子](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%98%8E%E4%BE%A6%E5%90%88%E7%85%A7%E8%A2%AB%E6%88%AA%E5%8D%8A%E4%B8%AA%E8%BA%AB%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
+8. [陈楚生 披荆斩棘总冠军](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%20%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%80%BB%E5%86%A0%E5%86%9B&t=31&band_rank=8&Refer=top)<br />
 9. [花少5王安宇胡先煦 心眼子](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%915%E7%8E%8B%E5%AE%89%E5%AE%87%E8%83%A1%E5%85%88%E7%85%A6%20%E5%BF%83%E7%9C%BC%E5%AD%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
