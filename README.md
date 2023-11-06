@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 21:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 21:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宁安如梦 空降](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E7%A9%BA%E9%99%8D&t=31&band_rank=6&Refer=top)<br />
 7. [突然理解为什么姜涛是顶流了](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A7%9C%E6%B6%9B%E6%98%AF%E9%A1%B6%E6%B5%81%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [东北暴雪](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E6%9A%B4%E9%9B%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [相约乌镇峰会](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E7%BA%A6%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [终于知道秦岚为什么叫朵拉](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E7%A7%A6%E5%B2%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E6%9C%B5%E6%8B%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
