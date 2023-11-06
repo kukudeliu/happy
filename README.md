@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 17:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 17:57:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [相约乌镇峰会](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E7%BA%A6%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [迪丽热巴张馨予 美女的旁边还是美女](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%A0%E9%A6%A8%E4%BA%88%20%E7%BE%8E%E5%A5%B3%E7%9A%84%E6%97%81%E8%BE%B9%E8%BF%98%E6%98%AF%E7%BE%8E%E5%A5%B3&t=31&band_rank=4&Refer=top)<br />
 5. [泉州小区发生爆燃致1死3伤](https://s.weibo.com/weibo?q=%23%E6%B3%89%E5%B7%9E%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%87%83%E8%87%B41%E6%AD%BB3%E4%BC%A4%23&t=31&band_rank=5&Refer=top)<br />
-6. [南京鼓楼医院一处吊顶坍塌1人轻伤](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E9%BC%93%E6%A5%BC%E5%8C%BB%E9%99%A2%E4%B8%80%E5%A4%84%E5%90%8A%E9%A1%B6%E5%9D%8D%E5%A1%8C1%E4%BA%BA%E8%BD%BB%E4%BC%A4%23&t=31&band_rank=6&Refer=top)<br />
-7. [张艺谋说张小斐转型很成功](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%AF%B4%E5%BC%A0%E5%B0%8F%E6%96%90%E8%BD%AC%E5%9E%8B%E5%BE%88%E6%88%90%E5%8A%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [何炅 自卑的人该怎么治愈自己](https://s.weibo.com/weibo?q=%E4%BD%95%E7%82%85%20%E8%87%AA%E5%8D%91%E7%9A%84%E4%BA%BA%E8%AF%A5%E6%80%8E%E4%B9%88%E6%B2%BB%E6%84%88%E8%87%AA%E5%B7%B1&t=31&band_rank=8&Refer=top)<br />
-9. [消防员忍臭到干呕将黄鼠狼抓捕放生](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E5%BF%8D%E8%87%AD%E5%88%B0%E5%B9%B2%E5%91%95%E5%B0%86%E9%BB%84%E9%BC%A0%E7%8B%BC%E6%8A%93%E6%8D%95%E6%94%BE%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
+6. [消防员忍臭到干呕将黄鼠狼抓捕放生](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E5%BF%8D%E8%87%AD%E5%88%B0%E5%B9%B2%E5%91%95%E5%B0%86%E9%BB%84%E9%BC%A0%E7%8B%BC%E6%8A%93%E6%8D%95%E6%94%BE%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
+7. [小猫假装有主人老板假装有客人](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%81%87%E8%A3%85%E6%9C%89%E4%B8%BB%E4%BA%BA%E8%80%81%E6%9D%BF%E5%81%87%E8%A3%85%E6%9C%89%E5%AE%A2%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [南京鼓楼医院一处吊顶坍塌1人轻伤](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E9%BC%93%E6%A5%BC%E5%8C%BB%E9%99%A2%E4%B8%80%E5%A4%84%E5%90%8A%E9%A1%B6%E5%9D%8D%E5%A1%8C1%E4%BA%BA%E8%BD%BB%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
+9. [张艺谋说张小斐转型很成功](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%AF%B4%E5%BC%A0%E5%B0%8F%E6%96%90%E8%BD%AC%E5%9E%8B%E5%BE%88%E6%88%90%E5%8A%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
