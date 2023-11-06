@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 17:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 17:12:01</h4></div>
 
 > 微博  
 
 1. [权志龙药检呈阴性](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E8%8D%AF%E6%A3%80%E5%91%88%E9%98%B4%E6%80%A7%23&t=31&band_rank=1&Refer=top)<br />
 2. [万科](https://s.weibo.com/weibo?q=%E4%B8%87%E7%A7%91&t=31&band_rank=2&Refer=top)<br />
-3. [进博N维看](https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8D%9AN%E7%BB%B4%E7%9C%8B%23&t=31&band_rank=3&Refer=top)<br />
+3. [相约乌镇峰会](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E7%BA%A6%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [迪丽热巴张馨予 美女的旁边还是美女](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%A0%E9%A6%A8%E4%BA%88%20%E7%BE%8E%E5%A5%B3%E7%9A%84%E6%97%81%E8%BE%B9%E8%BF%98%E6%98%AF%E7%BE%8E%E5%A5%B3&t=31&band_rank=4&Refer=top)<br />
 5. [泉州小区发生爆燃致1死3伤](https://s.weibo.com/weibo?q=%E6%B3%89%E5%B7%9E%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%87%83%E8%87%B41%E6%AD%BB3%E4%BC%A4&t=31&band_rank=5&Refer=top)<br />
 6. [替同学挡8刀的她成了人民警察](https://s.weibo.com/weibo?q=%23%E6%9B%BF%E5%90%8C%E5%AD%A6%E6%8C%A18%E5%88%80%E7%9A%84%E5%A5%B9%E6%88%90%E4%BA%86%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F%23&t=31&band_rank=6&Refer=top)<br />
