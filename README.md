@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 07:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 07:17:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [新疆多地出现罕见红色极光](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E7%BD%95%E8%A7%81%E7%BA%A2%E8%89%B2%E6%9E%81%E5%85%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [北上广很难有花束般的恋爱](https://s.weibo.com/weibo?q=%E5%8C%97%E4%B8%8A%E5%B9%BF%E5%BE%88%E9%9A%BE%E6%9C%89%E8%8A%B1%E6%9D%9F%E8%88%AC%E7%9A%84%E6%81%8B%E7%88%B1&t=31&band_rank=6&Refer=top)<br />
 7. [突然理解为什么姜涛是顶流了](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A7%9C%E6%B6%9B%E6%98%AF%E9%A1%B6%E6%B5%81%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [热刺1比4切尔西](https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%88%BA1%E6%AF%944%E5%88%87%E5%B0%94%E8%A5%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [苹果这台3w块的电脑怎么样](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E8%BF%99%E5%8F%B03w%E5%9D%97%E7%9A%84%E7%94%B5%E8%84%91%E6%80%8E%E4%B9%88%E6%A0%B7&t=31&band_rank=9&Refer=top)<br />
+8. [苹果这台3w块的电脑怎么样](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E8%BF%99%E5%8F%B03w%E5%9D%97%E7%9A%84%E7%94%B5%E8%84%91%E6%80%8E%E4%B9%88%E6%A0%B7&t=31&band_rank=8&Refer=top)<br />
+9. [热刺1比4切尔西](https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%88%BA1%E6%AF%944%E5%88%87%E5%B0%94%E8%A5%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
