@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 11:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 11:29:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [媒体评“小学生走路也要戴头盔”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E2%80%9C%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%B5%B0%E8%B7%AF%E4%B9%9F%E8%A6%81%E6%88%B4%E5%A4%B4%E7%9B%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [菜还没上筷子先花了两元](https://www.baidu.com/s?wd=%E8%8F%9C%E8%BF%98%E6%B2%A1%E4%B8%8A%E7%AD%B7%E5%AD%90%E5%85%88%E8%8A%B1%E4%BA%86%E4%B8%A4%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [研究发现血型与疾病发生有相关性](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E8%A1%80%E5%9E%8B%E4%B8%8E%E7%96%BE%E7%97%85%E5%8F%91%E7%94%9F%E6%9C%89%E7%9B%B8%E5%85%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [奥巴马谈巴以冲突](https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%B0%88%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [羽绒服销售爆火：价格上涨](https://www.baidu.com/s?wd=%E7%BE%BD%E7%BB%92%E6%9C%8D%E9%94%80%E5%94%AE%E7%88%86%E7%81%AB%EF%BC%9A%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清淡饮食等于吃素？](https://www.baidu.com/s?wd=%E6%B8%85%E6%B7%A1%E9%A5%AE%E9%A3%9F%E7%AD%89%E4%BA%8E%E5%90%83%E7%B4%A0%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [媒体评“小学生走路也要戴头盔”](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E2%80%9C%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%B5%B0%E8%B7%AF%E4%B9%9F%E8%A6%81%E6%88%B4%E5%A4%B4%E7%9B%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [菜还没上筷子先花了两元](https://www.baidu.com/s?wd=%E8%8F%9C%E8%BF%98%E6%B2%A1%E4%B8%8A%E7%AD%B7%E5%AD%90%E5%85%88%E8%8A%B1%E4%BA%86%E4%B8%A4%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [研究发现血型与疾病发生有相关性](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E8%A1%80%E5%9E%8B%E4%B8%8E%E7%96%BE%E7%97%85%E5%8F%91%E7%94%9F%E6%9C%89%E7%9B%B8%E5%85%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [奥巴马谈巴以冲突](https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%B0%88%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [羽绒服销售爆火：价格上涨](https://www.baidu.com/s?wd=%E7%BE%BD%E7%BB%92%E6%9C%8D%E9%94%80%E5%94%AE%E7%88%86%E7%81%AB%EF%BC%9A%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清淡饮食等于吃素？](https://www.baidu.com/s?wd=%E6%B8%85%E6%B7%A1%E9%A5%AE%E9%A3%9F%E7%AD%89%E4%BA%8E%E5%90%83%E7%B4%A0%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
