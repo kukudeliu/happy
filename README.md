@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 23:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 23:04:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [球馆坍塌 家长哭喊“我儿子在里面”](https://www.baidu.com/s?wd=%E7%90%83%E9%A6%86%E5%9D%8D%E5%A1%8C+%E5%AE%B6%E9%95%BF%E5%93%AD%E5%96%8A%E2%80%9C%E6%88%91%E5%84%BF%E5%AD%90%E5%9C%A8%E9%87%8C%E9%9D%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [妈妈用床单为儿子缝十多套古装](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E7%94%A8%E5%BA%8A%E5%8D%95%E4%B8%BA%E5%84%BF%E5%AD%90%E7%BC%9D%E5%8D%81%E5%A4%9A%E5%A5%97%E5%8F%A4%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [以计划永久占领加沙？中方回应](https://www.baidu.com/s?wd=%E4%BB%A5%E8%AE%A1%E5%88%92%E6%B0%B8%E4%B9%85%E5%8D%A0%E9%A2%86%E5%8A%A0%E6%B2%99%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [记者直击东北暴雪 因雪太大没去成](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E7%9B%B4%E5%87%BB%E4%B8%9C%E5%8C%97%E6%9A%B4%E9%9B%AA+%E5%9B%A0%E9%9B%AA%E5%A4%AA%E5%A4%A7%E6%B2%A1%E5%8E%BB%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [抢人！万亿城市也绷不住了](https://www.baidu.com/s?wd=%E6%8A%A2%E4%BA%BA%EF%BC%81%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E4%B9%9F%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些中日友好医院的传言是假的](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%AD%E6%97%A5%E5%8F%8B%E5%A5%BD%E5%8C%BB%E9%99%A2%E7%9A%84%E4%BC%A0%E8%A8%80%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [球馆坍塌 家长哭喊“我儿子在里面”](https://www.baidu.com/s?wd=%E7%90%83%E9%A6%86%E5%9D%8D%E5%A1%8C+%E5%AE%B6%E9%95%BF%E5%93%AD%E5%96%8A%E2%80%9C%E6%88%91%E5%84%BF%E5%AD%90%E5%9C%A8%E9%87%8C%E9%9D%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [妈妈用床单为儿子缝十多套古装](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E7%94%A8%E5%BA%8A%E5%8D%95%E4%B8%BA%E5%84%BF%E5%AD%90%E7%BC%9D%E5%8D%81%E5%A4%9A%E5%A5%97%E5%8F%A4%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [以计划永久占领加沙？中方回应](https://www.baidu.com/s?wd=%E4%BB%A5%E8%AE%A1%E5%88%92%E6%B0%B8%E4%B9%85%E5%8D%A0%E9%A2%86%E5%8A%A0%E6%B2%99%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [记者直击东北暴雪 因雪太大没去成](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E7%9B%B4%E5%87%BB%E4%B8%9C%E5%8C%97%E6%9A%B4%E9%9B%AA+%E5%9B%A0%E9%9B%AA%E5%A4%AA%E5%A4%A7%E6%B2%A1%E5%8E%BB%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [抢人！万亿城市也绷不住了](https://www.baidu.com/s?wd=%E6%8A%A2%E4%BA%BA%EF%BC%81%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E4%B9%9F%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些中日友好医院的传言是假的](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%AD%E6%97%A5%E5%8F%8B%E5%A5%BD%E5%8C%BB%E9%99%A2%E7%9A%84%E4%BC%A0%E8%A8%80%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
