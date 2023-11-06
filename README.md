@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 14:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 14:27:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [蜂花护发素 洗衣服](https://s.weibo.com/weibo?q=%E8%9C%82%E8%8A%B1%E6%8A%A4%E5%8F%91%E7%B4%A0%20%E6%B4%97%E8%A1%A3%E6%9C%8D&t=31&band_rank=5&Refer=top)<br />
 6. [斗鱼证实CEO陈少杰失联](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E8%AF%81%E5%AE%9ECEO%E9%99%88%E5%B0%91%E6%9D%B0%E5%A4%B1%E8%81%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [替同学挡8刀的她成了人民警察](https://s.weibo.com/weibo?q=%23%E6%9B%BF%E5%90%8C%E5%AD%A6%E6%8C%A18%E5%88%80%E7%9A%84%E5%A5%B9%E6%88%90%E4%BA%86%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [暴雪下的哈尔滨](https://s.weibo.com/weibo?q=%E6%9A%B4%E9%9B%AA%E4%B8%8B%E7%9A%84%E5%93%88%E5%B0%94%E6%BB%A8&t=31&band_rank=8&Refer=top)<br />
-9. [陈楚生 披荆斩棘总冠军](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%20%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%80%BB%E5%86%A0%E5%86%9B&t=31&band_rank=9&Refer=top)<br />
+8. [陈楚生 披荆斩棘总冠军](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%20%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%80%BB%E5%86%A0%E5%86%9B&t=31&band_rank=8&Refer=top)<br />
+9. [暴雪下的哈尔滨](https://s.weibo.com/weibo?q=%E6%9A%B4%E9%9B%AA%E4%B8%8B%E7%9A%84%E5%93%88%E5%B0%94%E6%BB%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
