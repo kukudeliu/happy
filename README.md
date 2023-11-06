@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 07:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 07:45:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [医院院长倒卖出生证明每张赚6万](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%80%92%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E%E6%AF%8F%E5%BC%A0%E8%B5%9A6%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [进博会到底有多好逛](https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A5%BD%E9%80%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [主持人大赛治好了我的精神内耗](https://s.weibo.com/weibo?q=%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%A4%A7%E8%B5%9B%E6%B2%BB%E5%A5%BD%E4%BA%86%E6%88%91%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%85%E8%80%97&t=31&band_rank=4&Refer=top)<br />
-5. [新疆多地出现罕见红色极光](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E7%BD%95%E8%A7%81%E7%BA%A2%E8%89%B2%E6%9E%81%E5%85%89%23&t=31&band_rank=5&Refer=top)<br />
-6. [佳木斯坍塌体育馆所属俱乐部负责人已被控制](https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%86%E6%89%80%E5%B1%9E%E4%BF%B1%E4%B9%90%E9%83%A8%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6%23&t=31&band_rank=6&Refer=top)<br />
+5. [佳木斯坍塌体育馆所属俱乐部负责人已被控制](https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%86%E6%89%80%E5%B1%9E%E4%BF%B1%E4%B9%90%E9%83%A8%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6%23&t=31&band_rank=5&Refer=top)<br />
+6. [新疆多地出现罕见红色极光](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E7%BD%95%E8%A7%81%E7%BA%A2%E8%89%B2%E6%9E%81%E5%85%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [突然理解为什么姜涛是顶流了](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A7%9C%E6%B6%9B%E6%98%AF%E9%A1%B6%E6%B5%81%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [北上广很难有花束般的恋爱](https://s.weibo.com/weibo?q=%E5%8C%97%E4%B8%8A%E5%B9%BF%E5%BE%88%E9%9A%BE%E6%9C%89%E8%8A%B1%E6%9D%9F%E8%88%AC%E7%9A%84%E6%81%8B%E7%88%B1&t=31&band_rank=8&Refer=top)<br />
 9. [权志龙笑着笑着就结束调查了](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E7%AC%91%E7%9D%80%E7%AC%91%E7%9D%80%E5%B0%B1%E7%BB%93%E6%9D%9F%E8%B0%83%E6%9F%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
