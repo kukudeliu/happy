@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 01:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 01:04:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [深圳国资委提出支持万科具体措施](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9B%BD%E8%B5%84%E5%A7%94%E6%8F%90%E5%87%BA%E6%94%AF%E6%8C%81%E4%B8%87%E7%A7%91%E5%85%B7%E4%BD%93%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [乌镇十年闪耀数字之光](https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E5%8D%81%E5%B9%B4%E9%97%AA%E8%80%80%E6%95%B0%E5%AD%97%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国足球的“12岁退役”现象](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E7%9A%84%E2%80%9C12%E5%B2%81%E9%80%80%E5%BD%B9%E2%80%9D%E7%8E%B0%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [普京参加明年总统选举？克宫回应](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%8F%82%E5%8A%A0%E6%98%8E%E5%B9%B4%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%EF%BC%9F%E5%85%8B%E5%AE%AB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [以计划永久占领加沙？中方回应](https://www.baidu.com/s?wd=%E4%BB%A5%E8%AE%A1%E5%88%92%E6%B0%B8%E4%B9%85%E5%8D%A0%E9%A2%86%E5%8A%A0%E6%B2%99%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄罗斯人组团到黑龙江取快递](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%BA%BA%E7%BB%84%E5%9B%A2%E5%88%B0%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%96%E5%BF%AB%E9%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [以计划永久占领加沙？中方回应](https://www.baidu.com/s?wd=%E4%BB%A5%E8%AE%A1%E5%88%92%E6%B0%B8%E4%B9%85%E5%8D%A0%E9%A2%86%E5%8A%A0%E6%B2%99%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [南京鼓楼医院吊顶坍塌致1伤](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E9%BC%93%E6%A5%BC%E5%8C%BB%E9%99%A2%E5%90%8A%E9%A1%B6%E5%9D%8D%E5%A1%8C%E8%87%B41%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [黑龙江列车脱轨调查结果公布](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [兰州有学校发生伤人事件？假的](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E6%9C%89%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [深圳国资委提出支持万科具体措施](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9B%BD%E8%B5%84%E5%A7%94%E6%8F%90%E5%87%BA%E6%94%AF%E6%8C%81%E4%B8%87%E7%A7%91%E5%85%B7%E4%BD%93%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [乌镇十年闪耀数字之光](https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E5%8D%81%E5%B9%B4%E9%97%AA%E8%80%80%E6%95%B0%E5%AD%97%E4%B9%8B%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国足球的“12岁退役”现象](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E7%9A%84%E2%80%9C12%E5%B2%81%E9%80%80%E5%BD%B9%E2%80%9D%E7%8E%B0%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [普京参加明年总统选举？克宫回应](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%8F%82%E5%8A%A0%E6%98%8E%E5%B9%B4%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%EF%BC%9F%E5%85%8B%E5%AE%AB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [以计划永久占领加沙？中方回应](https://www.baidu.com/s?wd=%E4%BB%A5%E8%AE%A1%E5%88%92%E6%B0%B8%E4%B9%85%E5%8D%A0%E9%A2%86%E5%8A%A0%E6%B2%99%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄罗斯人组团到黑龙江取快递](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%BA%BA%E7%BB%84%E5%9B%A2%E5%88%B0%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%96%E5%BF%AB%E9%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [以计划永久占领加沙？中方回应](https://www.baidu.com/s?wd=%E4%BB%A5%E8%AE%A1%E5%88%92%E6%B0%B8%E4%B9%85%E5%8D%A0%E9%A2%86%E5%8A%A0%E6%B2%99%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [南京鼓楼医院吊顶坍塌致1伤](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E9%BC%93%E6%A5%BC%E5%8C%BB%E9%99%A2%E5%90%8A%E9%A1%B6%E5%9D%8D%E5%A1%8C%E8%87%B41%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [黑龙江列车脱轨调查结果公布](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [兰州有学校发生伤人事件？假的](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E6%9C%89%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
