@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 07:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 08:00:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [台湾黑老大向好友炫枪将自己打死](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%BB%91%E8%80%81%E5%A4%A7%E5%90%91%E5%A5%BD%E5%8F%8B%E7%82%AB%E6%9E%AA%E5%B0%86%E8%87%AA%E5%B7%B1%E6%89%93%E6%AD%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [内娱可以吃一辈子的剧](https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E5%8F%AF%E4%BB%A5%E5%90%83%E4%B8%80%E8%BE%88%E5%AD%90%E7%9A%84%E5%89%A7&t=31&band_rank=5&Refer=top)<br />
 6. [奥巴马称没有谁的手是干净的](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E7%A7%B0%E6%B2%A1%E6%9C%89%E8%B0%81%E7%9A%84%E6%89%8B%E6%98%AF%E5%B9%B2%E5%87%80%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
-7. [张钧甯阮经天她在闹他在冷笑](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%A7%E7%94%AF%E9%98%AE%E7%BB%8F%E5%A4%A9%E5%A5%B9%E5%9C%A8%E9%97%B9%E4%BB%96%E5%9C%A8%E5%86%B7%E7%AC%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [哈尔滨初雪](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E5%88%9D%E9%9B%AA&t=31&band_rank=8&Refer=top)<br />
+7. [哈尔滨初雪](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E5%88%9D%E9%9B%AA&t=31&band_rank=7&Refer=top)<br />
+8. [张钧甯阮经天她在闹他在冷笑](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%A7%E7%94%AF%E9%98%AE%E7%BB%8F%E5%A4%A9%E5%A5%B9%E5%9C%A8%E9%97%B9%E4%BB%96%E5%9C%A8%E5%86%B7%E7%AC%91%23&t=31&band_rank=8&Refer=top)<br />
 9. [研究发现血型与疾病的发生有相关性](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E8%A1%80%E5%9E%8B%E4%B8%8E%E7%96%BE%E7%97%85%E7%9A%84%E5%8F%91%E7%94%9F%E6%9C%89%E7%9B%B8%E5%85%B3%E6%80%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
