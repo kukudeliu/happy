@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 12:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 12:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张钧甯谈断崖式分手](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%A7%E7%94%AF%E8%B0%88%E6%96%AD%E5%B4%96%E5%BC%8F%E5%88%86%E6%89%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [蜂花护发素 洗衣服](https://s.weibo.com/weibo?q=%E8%9C%82%E8%8A%B1%E6%8A%A4%E5%8F%91%E7%B4%A0%20%E6%B4%97%E8%A1%A3%E6%9C%8D&t=31&band_rank=7&Refer=top)<br />
 8. [芒果招商会拟邀阵容](https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%E6%8B%9B%E5%95%86%E4%BC%9A%E6%8B%9F%E9%82%80%E9%98%B5%E5%AE%B9&t=31&band_rank=8&Refer=top)<br />
-9. [小学生被请家长妈妈一来全校激动](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%AF%B7%E5%AE%B6%E9%95%BF%E5%A6%88%E5%A6%88%E4%B8%80%E6%9D%A5%E5%85%A8%E6%A0%A1%E6%BF%80%E5%8A%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [柯南动画 离谱](https://s.weibo.com/weibo?q=%E6%9F%AF%E5%8D%97%E5%8A%A8%E7%94%BB%20%E7%A6%BB%E8%B0%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
