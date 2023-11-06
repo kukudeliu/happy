@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 01:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 01:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [景甜 脸在江山在](https://s.weibo.com/weibo?q=%E6%99%AF%E7%94%9C%20%E8%84%B8%E5%9C%A8%E6%B1%9F%E5%B1%B1%E5%9C%A8&t=31&band_rank=6&Refer=top)<br />
 7. [突然理解为什么姜涛是顶流了](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A7%9C%E6%B6%9B%E6%98%AF%E9%A1%B6%E6%B5%81%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [女生为考研戴电击闹钟电破皮都没醒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B8%BA%E8%80%83%E7%A0%94%E6%88%B4%E7%94%B5%E5%87%BB%E9%97%B9%E9%92%9F%E7%94%B5%E7%A0%B4%E7%9A%AE%E9%83%BD%E6%B2%A1%E9%86%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [马龙WTT外网的评论](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99WTT%E5%A4%96%E7%BD%91%E7%9A%84%E8%AF%84%E8%AE%BA&t=31&band_rank=9&Refer=top)<br />
+9. [新疆多地出现罕见红色极光](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E7%BD%95%E8%A7%81%E7%BA%A2%E8%89%B2%E6%9E%81%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
