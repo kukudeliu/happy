@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 13:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 13:36:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [父子俩5.2元购入95号汽油6.7元售出](https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%AD%90%E4%BF%A95.2%E5%85%83%E8%B4%AD%E5%85%A595%E5%8F%B7%E6%B1%BD%E6%B2%B96.7%E5%85%83%E5%94%AE%E5%87%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [花少5王安宇胡先煦 心眼子](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%915%E7%8E%8B%E5%AE%89%E5%AE%87%E8%83%A1%E5%85%88%E7%85%A6%20%E5%BF%83%E7%9C%BC%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
 7. [陈楚生 披荆斩棘总冠军](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%20%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%80%BB%E5%86%A0%E5%86%9B&t=31&band_rank=7&Refer=top)<br />
-8. [第一届全国学青会开幕式](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%AD%A6%E9%9D%92%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%23&t=31&band_rank=8&Refer=top)<br />
+8. [张钧甯谈断崖式分手](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%A7%E7%94%AF%E8%B0%88%E6%96%AD%E5%B4%96%E5%BC%8F%E5%88%86%E6%89%8B%23&t=31&band_rank=8&Refer=top)<br />
 9. [科学家发现地球正在漏气](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%9C%B0%E7%90%83%E6%AD%A3%E5%9C%A8%E6%BC%8F%E6%B0%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
