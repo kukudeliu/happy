@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 00:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 00:11:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [央行：持续提升房贷利率市场化程度](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E6%8C%81%E7%BB%AD%E6%8F%90%E5%8D%87%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E5%B8%82%E5%9C%BA%E5%8C%96%E7%A8%8B%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [以计划永久占领加沙？中方回应](https://www.baidu.com/s?wd=%E4%BB%A5%E8%AE%A1%E5%88%92%E6%B0%B8%E4%B9%85%E5%8D%A0%E9%A2%86%E5%8A%A0%E6%B2%99%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [陈楚生被曝获披荆斩棘总冠军](https://www.baidu.com/s?wd=%E9%99%88%E6%A5%9A%E7%94%9F%E8%A2%AB%E6%9B%9D%E8%8E%B7%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%80%BB%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这些中日友好医院的传言是假的](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%AD%E6%97%A5%E5%8F%8B%E5%A5%BD%E5%8C%BB%E9%99%A2%E7%9A%84%E4%BC%A0%E8%A8%80%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [兰州有学校发生伤人事件？假的](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E6%9C%89%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [央行：持续提升房贷利率市场化程度](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E6%8C%81%E7%BB%AD%E6%8F%90%E5%8D%87%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E5%B8%82%E5%9C%BA%E5%8C%96%E7%A8%8B%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [以计划永久占领加沙？中方回应](https://www.baidu.com/s?wd=%E4%BB%A5%E8%AE%A1%E5%88%92%E6%B0%B8%E4%B9%85%E5%8D%A0%E9%A2%86%E5%8A%A0%E6%B2%99%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [陈楚生被曝获披荆斩棘总冠军](https://www.baidu.com/s?wd=%E9%99%88%E6%A5%9A%E7%94%9F%E8%A2%AB%E6%9B%9D%E8%8E%B7%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%80%BB%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这些中日友好医院的传言是假的](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%AD%E6%97%A5%E5%8F%8B%E5%A5%BD%E5%8C%BB%E9%99%A2%E7%9A%84%E4%BC%A0%E8%A8%80%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [兰州有学校发生伤人事件？假的](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E6%9C%89%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
