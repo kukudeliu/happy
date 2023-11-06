@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 12:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 12:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [柯南动画 离谱](https://s.weibo.com/weibo?q=%E6%9F%AF%E5%8D%97%E5%8A%A8%E7%94%BB%20%E7%A6%BB%E8%B0%B1&t=31&band_rank=6&Refer=top)<br />
 7. [童瑶这个妆容灵感是孙悟空吗](https://s.weibo.com/weibo?q=%E7%AB%A5%E7%91%B6%E8%BF%99%E4%B8%AA%E5%A6%86%E5%AE%B9%E7%81%B5%E6%84%9F%E6%98%AF%E5%AD%99%E6%82%9F%E7%A9%BA%E5%90%97&t=31&band_rank=7&Refer=top)<br />
 8. [唐嫣 综艺判官](https://s.weibo.com/weibo?q=%E5%94%90%E5%AB%A3%20%E7%BB%BC%E8%89%BA%E5%88%A4%E5%AE%98&t=31&band_rank=8&Refer=top)<br />
-9. [曝钢铁侠和美队同意回归漫威](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%92%A2%E9%93%81%E4%BE%A0%E5%92%8C%E7%BE%8E%E9%98%9F%E5%90%8C%E6%84%8F%E5%9B%9E%E5%BD%92%E6%BC%AB%E5%A8%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [杨紫小夭新造型](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B0%8F%E5%A4%AD%E6%96%B0%E9%80%A0%E5%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
