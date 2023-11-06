@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 19:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 19:19:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张亮为了天天24小时不关机](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%AE%E4%B8%BA%E4%BA%86%E5%A4%A9%E5%A4%A924%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%85%B3%E6%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [替同学挡8刀的她成了人民警察](https://s.weibo.com/weibo?q=%23%E6%9B%BF%E5%90%8C%E5%AD%A6%E6%8C%A18%E5%88%80%E7%9A%84%E5%A5%B9%E6%88%90%E4%BA%86%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [权志龙馒化](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E9%A6%92%E5%8C%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [芒果的纯元回来了](https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%E7%9A%84%E7%BA%AF%E5%85%83%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [孙颖莎退出WTT太原站单打](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E9%80%80%E5%87%BAWTT%E5%A4%AA%E5%8E%9F%E7%AB%99%E5%8D%95%E6%89%93&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [福原爱将面临牢狱之灾？本人回应](https://www.baidu.com/s?wd=%E7%A6%8F%E5%8E%9F%E7%88%B1%E5%B0%86%E9%9D%A2%E4%B8%B4%E7%89%A2%E7%8B%B1%E4%B9%8B%E7%81%BE%EF%BC%9F%E6%9C%AC%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上海5元一根的辣条](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B75%E5%85%83%E4%B8%80%E6%A0%B9%E7%9A%84%E8%BE%A3%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [抢人！万亿城市也绷不住了](https://www.baidu.com/s?wd=%E6%8A%A2%E4%BA%BA%EF%BC%81%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E4%B9%9F%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马龙飞身救球](https://www.baidu.com/s?wd=%E9%A9%AC%E9%BE%99%E9%A3%9E%E8%BA%AB%E6%95%91%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美驻华大使：不寻求与中国脱钩](https://www.baidu.com/s?wd=%E7%BE%8E%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%EF%BC%9A%E4%B8%8D%E5%AF%BB%E6%B1%82%E4%B8%8E%E4%B8%AD%E5%9B%BD%E8%84%B1%E9%92%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些中日友好医院的传言是假的](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%AD%E6%97%A5%E5%8F%8B%E5%A5%BD%E5%8C%BB%E9%99%A2%E7%9A%84%E4%BC%A0%E8%A8%80%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [福原爱将面临牢狱之灾？本人回应](https://www.baidu.com/s?wd=%E7%A6%8F%E5%8E%9F%E7%88%B1%E5%B0%86%E9%9D%A2%E4%B8%B4%E7%89%A2%E7%8B%B1%E4%B9%8B%E7%81%BE%EF%BC%9F%E6%9C%AC%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上海5元一根的辣条](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B75%E5%85%83%E4%B8%80%E6%A0%B9%E7%9A%84%E8%BE%A3%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [抢人！万亿城市也绷不住了](https://www.baidu.com/s?wd=%E6%8A%A2%E4%BA%BA%EF%BC%81%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E4%B9%9F%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马龙飞身救球](https://www.baidu.com/s?wd=%E9%A9%AC%E9%BE%99%E9%A3%9E%E8%BA%AB%E6%95%91%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美驻华大使：不寻求与中国脱钩](https://www.baidu.com/s?wd=%E7%BE%8E%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%EF%BC%9A%E4%B8%8D%E5%AF%BB%E6%B1%82%E4%B8%8E%E4%B8%AD%E5%9B%BD%E8%84%B1%E9%92%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些中日友好医院的传言是假的](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%AD%E6%97%A5%E5%8F%8B%E5%A5%BD%E5%8C%BB%E9%99%A2%E7%9A%84%E4%BC%A0%E8%A8%80%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
