@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 10:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 10:01:01</h4></div>
 
 > 微博  
 
 1. [陈楚生 披荆斩棘总冠军](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%20%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%80%BB%E5%86%A0%E5%86%9B&t=31&band_rank=1&Refer=top)<br />
 2. [台湾黑老大向好友炫枪将自己打死](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%BB%91%E8%80%81%E5%A4%A7%E5%90%91%E5%A5%BD%E5%8F%8B%E7%82%AB%E6%9E%AA%E5%B0%86%E8%87%AA%E5%B7%B1%E6%89%93%E6%AD%BB%23&t=31&band_rank=2&Refer=top)<br />
 3. [第一届全国学青会开幕式](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%AD%A6%E9%9D%92%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%23&t=31&band_rank=3&Refer=top)<br />
-4. [东北局地特大暴雪](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%B1%80%E5%9C%B0%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%AA%23&t=31&band_rank=4&Refer=top)<br />
-5. [披荆斩棘成团名单](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95&t=31&band_rank=5&Refer=top)<br />
+4. [披荆斩棘成团名单](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95&t=31&band_rank=4&Refer=top)<br />
+5. [东北局地特大暴雪](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%B1%80%E5%9C%B0%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%AA%23&t=31&band_rank=5&Refer=top)<br />
 6. [俞灏明 没成团](https://s.weibo.com/weibo?q=%E4%BF%9E%E7%81%8F%E6%98%8E%20%E6%B2%A1%E6%88%90%E5%9B%A2&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫李现 国色芳华](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%20%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E&t=31&band_rank=7&Refer=top)<br />
 8. [请回答1988开播八周年](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%9B%9E%E7%AD%941988%E5%BC%80%E6%92%AD%E5%85%AB%E5%91%A8%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
