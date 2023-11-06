@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 19:20:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 19:21:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [东北朋友送给全国的第一场雪](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E6%9C%8B%E5%8F%8B%E9%80%81%E7%BB%99%E5%85%A8%E5%9B%BD%E7%9A%84%E7%AC%AC%E4%B8%80%E5%9C%BA%E9%9B%AA%23&t=31&band_rank=5&Refer=top)<br />
 6. [张亮为了天天24小时不关机](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%AE%E4%B8%BA%E4%BA%86%E5%A4%A9%E5%A4%A924%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%85%B3%E6%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [替同学挡8刀的她成了人民警察](https://s.weibo.com/weibo?q=%23%E6%9B%BF%E5%90%8C%E5%AD%A6%E6%8C%A18%E5%88%80%E7%9A%84%E5%A5%B9%E6%88%90%E4%BA%86%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [权志龙馒化](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E9%A6%92%E5%8C%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [孙颖莎退出WTT太原站单打](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E9%80%80%E5%87%BAWTT%E5%A4%AA%E5%8E%9F%E7%AB%99%E5%8D%95%E6%89%93&t=31&band_rank=9&Refer=top)<br />
+8. [孙颖莎退出WTT太原站单打](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E9%80%80%E5%87%BAWTT%E5%A4%AA%E5%8E%9F%E7%AB%99%E5%8D%95%E6%89%93&t=31&band_rank=8&Refer=top)<br />
+9. [权志龙馒化](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E9%A6%92%E5%8C%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
