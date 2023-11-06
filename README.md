@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 21:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 21:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [东北暴雪](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E6%9A%B4%E9%9B%AA%23&t=31&band_rank=6&Refer=top)<br />
 7. [突然理解为什么姜涛是顶流了](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A7%9C%E6%B6%9B%E6%98%AF%E9%A1%B6%E6%B5%81%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [宁安如梦 空降](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E7%A9%BA%E9%99%8D&t=31&band_rank=8&Refer=top)<br />
-9. [薛之谦 我卖货就这脾气](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E6%88%91%E5%8D%96%E8%B4%A7%E5%B0%B1%E8%BF%99%E8%84%BE%E6%B0%94&t=31&band_rank=9&Refer=top)<br />
+9. [女生为考研戴电击闹钟电破皮都没醒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B8%BA%E8%80%83%E7%A0%94%E6%88%B4%E7%94%B5%E5%87%BB%E9%97%B9%E9%92%9F%E7%94%B5%E7%A0%B4%E7%9A%AE%E9%83%BD%E6%B2%A1%E9%86%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
