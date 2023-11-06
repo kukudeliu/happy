@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 15:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 15:30:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [父子俩5.2元购入95号汽油6.7元售出](https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%AD%90%E4%BF%A95.2%E5%85%83%E8%B4%AD%E5%85%A595%E5%8F%B7%E6%B1%BD%E6%B2%B96.7%E5%85%83%E5%94%AE%E5%87%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [金莎说好男人是不在市场上流通的](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E8%AF%B4%E5%A5%BD%E7%94%B7%E4%BA%BA%E6%98%AF%E4%B8%8D%E5%9C%A8%E5%B8%82%E5%9C%BA%E4%B8%8A%E6%B5%81%E9%80%9A%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [泫雅签约金晓钟经纪公司](https://s.weibo.com/weibo?q=%23%E6%B3%AB%E9%9B%85%E7%AD%BE%E7%BA%A6%E9%87%91%E6%99%93%E9%92%9F%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%23&t=31&band_rank=7&Refer=top)<br />
-8. [天津助学金当事人不认可调查结果](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%8A%A9%E5%AD%A6%E9%87%91%E5%BD%93%E4%BA%8B%E4%BA%BA%E4%B8%8D%E8%AE%A4%E5%8F%AF%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [女将星](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%B0%86%E6%98%9F&t=31&band_rank=9&Refer=top)<br />
+8. [女将星](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%B0%86%E6%98%9F&t=31&band_rank=8&Refer=top)<br />
+9. [天津助学金当事人不认可调查结果](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%8A%A9%E5%AD%A6%E9%87%91%E5%BD%93%E4%BA%8B%E4%BA%BA%E4%B8%8D%E8%AE%A4%E5%8F%AF%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
