@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 16:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 16:49:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [郑州一鸵鸟街头狂奔 交警追几十公里](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E4%B8%80%E9%B8%B5%E9%B8%9F%E8%A1%97%E5%A4%B4%E7%8B%82%E5%A5%94+%E4%BA%A4%E8%AD%A6%E8%BF%BD%E5%87%A0%E5%8D%81%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [清华教授：35岁考虑养老已经晚了](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%EF%BC%9A35%E5%B2%81%E8%80%83%E8%99%91%E5%85%BB%E8%80%81%E5%B7%B2%E7%BB%8F%E6%99%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [抢人！万亿城市也绷不住了](https://www.baidu.com/s?wd=%E6%8A%A2%E4%BA%BA%EF%BC%81%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E4%B9%9F%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [研究发现血型与疾病发生有相关性](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E8%A1%80%E5%9E%8B%E4%B8%8E%E7%96%BE%E7%97%85%E5%8F%91%E7%94%9F%E6%9C%89%E7%9B%B8%E5%85%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [疯狂小杨哥在李佳琦地盘翻车](https://www.baidu.com/s?wd=%E7%96%AF%E7%8B%82%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9C%A8%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9C%B0%E7%9B%98%E7%BF%BB%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清淡饮食等于吃素？](https://www.baidu.com/s?wd=%E6%B8%85%E6%B7%A1%E9%A5%AE%E9%A3%9F%E7%AD%89%E4%BA%8E%E5%90%83%E7%B4%A0%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [郑州一鸵鸟街头狂奔 交警追几十公里](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E4%B8%80%E9%B8%B5%E9%B8%9F%E8%A1%97%E5%A4%B4%E7%8B%82%E5%A5%94+%E4%BA%A4%E8%AD%A6%E8%BF%BD%E5%87%A0%E5%8D%81%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [清华教授：35岁考虑养老已经晚了](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%EF%BC%9A35%E5%B2%81%E8%80%83%E8%99%91%E5%85%BB%E8%80%81%E5%B7%B2%E7%BB%8F%E6%99%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [抢人！万亿城市也绷不住了](https://www.baidu.com/s?wd=%E6%8A%A2%E4%BA%BA%EF%BC%81%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E4%B9%9F%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [研究发现血型与疾病发生有相关性](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E8%A1%80%E5%9E%8B%E4%B8%8E%E7%96%BE%E7%97%85%E5%8F%91%E7%94%9F%E6%9C%89%E7%9B%B8%E5%85%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [疯狂小杨哥在李佳琦地盘翻车](https://www.baidu.com/s?wd=%E7%96%AF%E7%8B%82%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9C%A8%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9C%B0%E7%9B%98%E7%BF%BB%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清淡饮食等于吃素？](https://www.baidu.com/s?wd=%E6%B8%85%E6%B7%A1%E9%A5%AE%E9%A3%9F%E7%AD%89%E4%BA%8E%E5%90%83%E7%B4%A0%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
