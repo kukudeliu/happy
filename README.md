@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 21:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 21:18:02</h4></div>
 
 > 微博  
 
 1. [权志龙笑着笑着就结束调查了](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E7%AC%91%E7%9D%80%E7%AC%91%E7%9D%80%E5%B0%B1%E7%BB%93%E6%9D%9F%E8%B0%83%E6%9F%A5%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
 2. [医院院长倒卖出生证明每张赚6万](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%80%92%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E%E6%AF%8F%E5%BC%A0%E8%B5%9A6%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [进博会到底有多好逛](https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A5%BD%E9%80%9B%23&t=31&band_rank=3&Refer=top)<br />
-4. [为什么iPhone只有P大写](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88iPhone%E5%8F%AA%E6%9C%89P%E5%A4%A7%E5%86%99&t=31&band_rank=4&Refer=top)<br />
-5. [突然理解为什么姜涛是顶流了](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A7%9C%E6%B6%9B%E6%98%AF%E9%A1%B6%E6%B5%81%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [薛之谦 我卖货就这脾气](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E6%88%91%E5%8D%96%E8%B4%A7%E5%B0%B1%E8%BF%99%E8%84%BE%E6%B0%94&t=31&band_rank=6&Refer=top)<br />
-7. [东北暴雪](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E6%9A%B4%E9%9B%AA%23&t=31&band_rank=7&Refer=top)<br />
-8. [用着8000块电脑的贫困生](https://s.weibo.com/weibo?q=%E7%94%A8%E7%9D%808000%E5%9D%97%E7%94%B5%E8%84%91%E7%9A%84%E8%B4%AB%E5%9B%B0%E7%94%9F&t=31&band_rank=8&Refer=top)<br />
+4. [用着8000块电脑的贫困生](https://s.weibo.com/weibo?q=%E7%94%A8%E7%9D%808000%E5%9D%97%E7%94%B5%E8%84%91%E7%9A%84%E8%B4%AB%E5%9B%B0%E7%94%9F&t=31&band_rank=4&Refer=top)<br />
+5. [为什么iPhone只有P大写](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88iPhone%E5%8F%AA%E6%9C%89P%E5%A4%A7%E5%86%99&t=31&band_rank=5&Refer=top)<br />
+6. [突然理解为什么姜涛是顶流了](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A7%9C%E6%B6%9B%E6%98%AF%E9%A1%B6%E6%B5%81%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [薛之谦 我卖货就这脾气](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E6%88%91%E5%8D%96%E8%B4%A7%E5%B0%B1%E8%BF%99%E8%84%BE%E6%B0%94&t=31&band_rank=7&Refer=top)<br />
+8. [东北暴雪](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E6%9A%B4%E9%9B%AA%23&t=31&band_rank=8&Refer=top)<br />
 9. [宁安如梦 空降](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E7%A9%BA%E9%99%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [中国足球的“12岁退役”现象](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E7%9A%84%E2%80%9C12%E5%B2%81%E9%80%80%E5%BD%B9%E2%80%9D%E7%8E%B0%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [妈妈用床单为儿子缝十多套古装](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E7%94%A8%E5%BA%8A%E5%8D%95%E4%B8%BA%E5%84%BF%E5%AD%90%E7%BC%9D%E5%8D%81%E5%A4%9A%E5%A5%97%E5%8F%A4%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京参加明年总统选举？克宫回应](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%8F%82%E5%8A%A0%E6%98%8E%E5%B9%B4%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%EF%BC%9F%E5%85%8B%E5%AE%AB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [上海5元一根的辣条](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B75%E5%85%83%E4%B8%80%E6%A0%B9%E7%9A%84%E8%BE%A3%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [清华教授：35岁考虑养老已经晚了](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%EF%BC%9A35%E5%B2%81%E8%80%83%E8%99%91%E5%85%BB%E8%80%81%E5%B7%B2%E7%BB%8F%E6%99%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些中日友好医院的传言是假的](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%AD%E6%97%A5%E5%8F%8B%E5%A5%BD%E5%8C%BB%E9%99%A2%E7%9A%84%E4%BC%A0%E8%A8%80%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [中国足球的“12岁退役”现象](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E7%9A%84%E2%80%9C12%E5%B2%81%E9%80%80%E5%BD%B9%E2%80%9D%E7%8E%B0%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [妈妈用床单为儿子缝十多套古装](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E7%94%A8%E5%BA%8A%E5%8D%95%E4%B8%BA%E5%84%BF%E5%AD%90%E7%BC%9D%E5%8D%81%E5%A4%9A%E5%A5%97%E5%8F%A4%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京参加明年总统选举？克宫回应](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%8F%82%E5%8A%A0%E6%98%8E%E5%B9%B4%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%EF%BC%9F%E5%85%8B%E5%AE%AB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [上海5元一根的辣条](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B75%E5%85%83%E4%B8%80%E6%A0%B9%E7%9A%84%E8%BE%A3%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [清华教授：35岁考虑养老已经晚了](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%EF%BC%9A35%E5%B2%81%E8%80%83%E8%99%91%E5%85%BB%E8%80%81%E5%B7%B2%E7%BB%8F%E6%99%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些中日友好医院的传言是假的](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%AD%E6%97%A5%E5%8F%8B%E5%A5%BD%E5%8C%BB%E9%99%A2%E7%9A%84%E4%BC%A0%E8%A8%80%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
