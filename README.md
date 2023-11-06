@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 15:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 15:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [金莎说好男人是不在市场上流通的](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E8%AF%B4%E5%A5%BD%E7%94%B7%E4%BA%BA%E6%98%AF%E4%B8%8D%E5%9C%A8%E5%B8%82%E5%9C%BA%E4%B8%8A%E6%B5%81%E9%80%9A%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [天津助学金当事人不认可调查结果](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%8A%A9%E5%AD%A6%E9%87%91%E5%BD%93%E4%BA%8B%E4%BA%BA%E4%B8%8D%E8%AE%A4%E5%8F%AF%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [泫雅签约金晓钟经纪公司](https://s.weibo.com/weibo?q=%23%E6%B3%AB%E9%9B%85%E7%AD%BE%E7%BA%A6%E9%87%91%E6%99%93%E9%92%9F%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [人均1700只给你吃鸡](https://s.weibo.com/weibo?q=%E4%BA%BA%E5%9D%871700%E5%8F%AA%E7%BB%99%E4%BD%A0%E5%90%83%E9%B8%A1&t=31&band_rank=9&Refer=top)<br />
+9. [女将星](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%B0%86%E6%98%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
