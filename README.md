@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 19:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 19:22:01</h4></div>
 
 > 微博  
 
-1. [宁安如梦 空降](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E7%A9%BA%E9%99%8D&t=31&band_rank=1&Refer=top)<br />
-2. [女大学生肚子大被搓澡阿姨救了一命](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%82%9A%E5%AD%90%E5%A4%A7%E8%A2%AB%E6%90%93%E6%BE%A1%E9%98%BF%E5%A7%A8%E6%95%91%E4%BA%86%E4%B8%80%E5%91%BD%23&t=31&band_rank=2&Refer=top)<br />
+1. [女大学生肚子大被搓澡阿姨救了一命](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%82%9A%E5%AD%90%E5%A4%A7%E8%A2%AB%E6%90%93%E6%BE%A1%E9%98%BF%E5%A7%A8%E6%95%91%E4%BA%86%E4%B8%80%E5%91%BD%23&t=31&band_rank=1&Refer=top)<br />
+2. [宁安如梦 空降](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E7%A9%BA%E9%99%8D&t=31&band_rank=2&Refer=top)<br />
 3. [相约乌镇峰会](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E7%BA%A6%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [薛之谦 我卖货就这脾气](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E6%88%91%E5%8D%96%E8%B4%A7%E5%B0%B1%E8%BF%99%E8%84%BE%E6%B0%94&t=31&band_rank=4&Refer=top)<br />
 5. [东北朋友送给全国的第一场雪](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E6%9C%8B%E5%8F%8B%E9%80%81%E7%BB%99%E5%85%A8%E5%9B%BD%E7%9A%84%E7%AC%AC%E4%B8%80%E5%9C%BA%E9%9B%AA%23&t=31&band_rank=5&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [福原爱将面临牢狱之灾？本人回应](https://www.baidu.com/s?wd=%E7%A6%8F%E5%8E%9F%E7%88%B1%E5%B0%86%E9%9D%A2%E4%B8%B4%E7%89%A2%E7%8B%B1%E4%B9%8B%E7%81%BE%EF%BC%9F%E6%9C%AC%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上海5元一根的辣条](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B75%E5%85%83%E4%B8%80%E6%A0%B9%E7%9A%84%E8%BE%A3%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [抢人！万亿城市也绷不住了](https://www.baidu.com/s?wd=%E6%8A%A2%E4%BA%BA%EF%BC%81%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E4%B9%9F%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美驻华大使：不寻求与中国脱钩](https://www.baidu.com/s?wd=%E7%BE%8E%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%EF%BC%9A%E4%B8%8D%E5%AF%BB%E6%B1%82%E4%B8%8E%E4%B8%AD%E5%9B%BD%E8%84%B1%E9%92%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [替同学挡8刀的女孩成了人民警察](https://www.baidu.com/s?wd=%E6%9B%BF%E5%90%8C%E5%AD%A6%E6%8C%A18%E5%88%80%E7%9A%84%E5%A5%B3%E5%AD%A9%E6%88%90%E4%BA%86%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些中日友好医院的传言是假的](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%AD%E6%97%A5%E5%8F%8B%E5%A5%BD%E5%8C%BB%E9%99%A2%E7%9A%84%E4%BC%A0%E8%A8%80%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [福原爱将面临牢狱之灾？本人回应](https://www.baidu.com/s?wd=%E7%A6%8F%E5%8E%9F%E7%88%B1%E5%B0%86%E9%9D%A2%E4%B8%B4%E7%89%A2%E7%8B%B1%E4%B9%8B%E7%81%BE%EF%BC%9F%E6%9C%AC%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上海5元一根的辣条](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B75%E5%85%83%E4%B8%80%E6%A0%B9%E7%9A%84%E8%BE%A3%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [抢人！万亿城市也绷不住了](https://www.baidu.com/s?wd=%E6%8A%A2%E4%BA%BA%EF%BC%81%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E4%B9%9F%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美驻华大使：不寻求与中国脱钩](https://www.baidu.com/s?wd=%E7%BE%8E%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%EF%BC%9A%E4%B8%8D%E5%AF%BB%E6%B1%82%E4%B8%8E%E4%B8%AD%E5%9B%BD%E8%84%B1%E9%92%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [替同学挡8刀的女孩成了人民警察](https://www.baidu.com/s?wd=%E6%9B%BF%E5%90%8C%E5%AD%A6%E6%8C%A18%E5%88%80%E7%9A%84%E5%A5%B3%E5%AD%A9%E6%88%90%E4%BA%86%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些中日友好医院的传言是假的](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%AD%E6%97%A5%E5%8F%8B%E5%A5%BD%E5%8C%BB%E9%99%A2%E7%9A%84%E4%BC%A0%E8%A8%80%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
