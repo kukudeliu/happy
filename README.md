@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 20:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 20:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孙颖莎退出WTT太原站单打](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E9%80%80%E5%87%BAWTT%E5%A4%AA%E5%8E%9F%E7%AB%99%E5%8D%95%E6%89%93&t=31&band_rank=6&Refer=top)<br />
 7. [吉娜 玲娜贝儿真人版](https://s.weibo.com/weibo?q=%E5%90%89%E5%A8%9C%20%E7%8E%B2%E5%A8%9C%E8%B4%9D%E5%84%BF%E7%9C%9F%E4%BA%BA%E7%89%88&t=31&band_rank=7&Refer=top)<br />
 8. [东北暴雪](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E6%9A%B4%E9%9B%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [谁家男主一脚把女主踹河里啊](https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E7%94%B7%E4%B8%BB%E4%B8%80%E8%84%9A%E6%8A%8A%E5%A5%B3%E4%B8%BB%E8%B8%B9%E6%B2%B3%E9%87%8C%E5%95%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [医院院长倒卖出生证明每张赚6万](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%80%92%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E%E6%AF%8F%E5%BC%A0%E8%B5%9A6%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
