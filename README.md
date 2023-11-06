@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 20:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-06 20:53:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [薛之谦 我卖货就这脾气](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E6%88%91%E5%8D%96%E8%B4%A7%E5%B0%B1%E8%BF%99%E8%84%BE%E6%B0%94&t=31&band_rank=4&Refer=top)<br />
 5. [为什么iPhone只有P大写](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88iPhone%E5%8F%AA%E6%9C%89P%E5%A4%A7%E5%86%99&t=31&band_rank=5&Refer=top)<br />
 6. [宁安如梦 空降](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E7%A9%BA%E9%99%8D&t=31&band_rank=6&Refer=top)<br />
-7. [陈楚生直播](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%E7%9B%B4%E6%92%AD&t=31&band_rank=7&Refer=top)<br />
-8. [终于知道秦岚为什么叫朵拉](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E7%A7%A6%E5%B2%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E6%9C%B5%E6%8B%89&t=31&band_rank=8&Refer=top)<br />
+7. [终于知道秦岚为什么叫朵拉](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E7%A7%A6%E5%B2%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E6%9C%B5%E6%8B%89&t=31&band_rank=7&Refer=top)<br />
+8. [易烊千玺到达慕尼黑](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%88%B0%E8%BE%BE%E6%85%95%E5%B0%BC%E9%BB%91%23&t=31&band_rank=8&Refer=top)<br />
 9. [东北暴雪](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E6%9A%B4%E9%9B%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
