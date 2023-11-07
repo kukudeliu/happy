@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 07:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 07:14:02</h4></div>
 
 > 微博  
 
 1. [妈妈用生理盐水帮宝宝冲洗鼻腔](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E7%94%A8%E7%94%9F%E7%90%86%E7%9B%90%E6%B0%B4%E5%B8%AE%E5%AE%9D%E5%AE%9D%E5%86%B2%E6%B4%97%E9%BC%BB%E8%85%94&t=31&band_rank=1&Refer=top)<br />
-2. [广西沙滩走失6岁女童家长发声](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%B2%99%E6%BB%A9%E8%B5%B0%E5%A4%B16%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%AE%B6%E9%95%BF%E5%8F%91%E5%A3%B0%23&t=31&band_rank=2&Refer=top)<br />
+2. [今日立冬](https://s.weibo.com/weibo?q=%E4%BB%8A%E6%97%A5%E7%AB%8B%E5%86%AC&t=31&band_rank=2&Refer=top)<br />
 3. [乌镇网事](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%95%87%E7%BD%91%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [与主播发生关系住持被停职](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E4%B8%BB%E6%92%AD%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E4%BD%8F%E6%8C%81%E8%A2%AB%E5%81%9C%E8%81%8C%23&t=31&band_rank=4&Refer=top)<br />
-5. [今日立冬](https://s.weibo.com/weibo?q=%E4%BB%8A%E6%97%A5%E7%AB%8B%E5%86%AC&t=31&band_rank=5&Refer=top)<br />
+5. [广西沙滩走失6岁女童家长发声](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%B2%99%E6%BB%A9%E8%B5%B0%E5%A4%B16%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%AE%B6%E9%95%BF%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [张踩铃 别让孩子成为情绪的宣泄口](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%B8%A9%E9%93%83%20%E5%88%AB%E8%AE%A9%E5%AD%A9%E5%AD%90%E6%88%90%E4%B8%BA%E6%83%85%E7%BB%AA%E7%9A%84%E5%AE%A3%E6%B3%84%E5%8F%A3&t=31&band_rank=6&Refer=top)<br />
-7. [3胞胎一起上学弟弟1人背负了所有](https://s.weibo.com/weibo?q=%233%E8%83%9E%E8%83%8E%E4%B8%80%E8%B5%B7%E4%B8%8A%E5%AD%A6%E5%BC%9F%E5%BC%9F1%E4%BA%BA%E8%83%8C%E8%B4%9F%E4%BA%86%E6%89%80%E6%9C%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [当以爱为营女主换成张元英](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A5%B3%E4%B8%BB%E6%8D%A2%E6%88%90%E5%BC%A0%E5%85%83%E8%8B%B1%23&t=31&band_rank=8&Refer=top)<br />
+7. [当以爱为营女主换成张元英](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A5%B3%E4%B8%BB%E6%8D%A2%E6%88%90%E5%BC%A0%E5%85%83%E8%8B%B1%23&t=31&band_rank=7&Refer=top)<br />
+8. [3胞胎一起上学弟弟1人背负了所有](https://s.weibo.com/weibo?q=%233%E8%83%9E%E8%83%8E%E4%B8%80%E8%B5%B7%E4%B8%8A%E5%AD%A6%E5%BC%9F%E5%BC%9F1%E4%BA%BA%E8%83%8C%E8%B4%9F%E4%BA%86%E6%89%80%E6%9C%89%23&t=31&band_rank=8&Refer=top)<br />
 9. [东北大学生正式确诊为华妃](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%8D%8E%E5%A6%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
