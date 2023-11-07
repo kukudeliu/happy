@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 20:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 20:21:01</h4></div>
 
 > 微博  
 
-1. [宁安如梦空降](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%A9%BA%E9%99%8D%23&t=31&band_rank=1&Refer=top)<br />
-2. [中山二院](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2&t=31&band_rank=2&Refer=top)<br />
+1. [中山二院](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2&t=31&band_rank=1&Refer=top)<br />
+2. [宁安如梦空降](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%A9%BA%E9%99%8D%23&t=31&band_rank=2&Refer=top)<br />
 3. [AI眼中的中国](https://s.weibo.com/weibo?q=%23AI%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [蒋勤勤 认定吴磊是我儿子了](https://s.weibo.com/weibo?q=%E8%92%8B%E5%8B%A4%E5%8B%A4%20%E8%AE%A4%E5%AE%9A%E5%90%B4%E7%A3%8A%E6%98%AF%E6%88%91%E5%84%BF%E5%AD%90%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=5&Refer=top)<br />
