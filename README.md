@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 12:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 12:04:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [佳木斯坍塌体育馆3人遇难](https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%863%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [节奏大师回归](https://s.weibo.com/weibo?q=%E8%8A%82%E5%A5%8F%E5%A4%A7%E5%B8%88%E5%9B%9E%E5%BD%92&t=31&band_rank=6&Refer=top)<br />
 7. [Tarzan向队友道歉](https://s.weibo.com/weibo?q=%23Tarzan%E5%90%91%E9%98%9F%E5%8F%8B%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [ZZxinqing](https://s.weibo.com/weibo?q=ZZxinqing&t=31&band_rank=8&Refer=top)<br />
-9. [华晨宇申请强制黑粉道歉](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E9%BB%91%E7%B2%89%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+8. [华晨宇申请强制黑粉道歉](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E9%BB%91%E7%B2%89%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [ZZxinqing](https://s.weibo.com/weibo?q=ZZxinqing&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
