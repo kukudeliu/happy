@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 22:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 22:08:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [白鹿张凌赫好会亲](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%A5%BD%E4%BC%9A%E4%BA%B2%23&t=31&band_rank=4&Refer=top)<br />
 5. [东北大学生正式确诊为华妃](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%8D%8E%E5%A6%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [姜雪宁和嫋嫋境遇好像](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E9%9B%AA%E5%AE%81%E5%92%8C%E5%AB%8B%E5%AB%8B%E5%A2%83%E9%81%87%E5%A5%BD%E5%83%8F%23&t=31&band_rank=6&Refer=top)<br />
-7. [奔跑吧](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=31&band_rank=7&Refer=top)<br />
+7. [为了省一块钱花了两千多](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BA%86%E7%9C%81%E4%B8%80%E5%9D%97%E9%92%B1%E8%8A%B1%E4%BA%86%E4%B8%A4%E5%8D%83%E5%A4%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [宁安如梦空降](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%A9%BA%E9%99%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [为了省一块钱花了两千多](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BA%86%E7%9C%81%E4%B8%80%E5%9D%97%E9%92%B1%E8%8A%B1%E4%BA%86%E4%B8%A4%E5%8D%83%E5%A4%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [奔跑吧](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
