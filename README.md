@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 15:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 15:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朱丹说叫错人名是心魔](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%B9%E8%AF%B4%E5%8F%AB%E9%94%99%E4%BA%BA%E5%90%8D%E6%98%AF%E5%BF%83%E9%AD%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [半滴血检2小时内可查出早期癌症](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E6%BB%B4%E8%A1%80%E6%A3%802%E5%B0%8F%E6%97%B6%E5%86%85%E5%8F%AF%E6%9F%A5%E5%87%BA%E6%97%A9%E6%9C%9F%E7%99%8C%E7%97%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [甄嬛出轨是我听到最荒谬的笑话](https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E5%87%BA%E8%BD%A8%E6%98%AF%E6%88%91%E5%90%AC%E5%88%B0%E6%9C%80%E8%8D%92%E8%B0%AC%E7%9A%84%E7%AC%91%E8%AF%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [轨是昨天出的 人是今天没的](https://s.weibo.com/weibo?q=%E8%BD%A8%E6%98%AF%E6%98%A8%E5%A4%A9%E5%87%BA%E7%9A%84%20%E4%BA%BA%E6%98%AF%E4%BB%8A%E5%A4%A9%E6%B2%A1%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+9. [35岁女子在香港做泥瓦工月入10万](https://s.weibo.com/weibo?q=%2335%E5%B2%81%E5%A5%B3%E5%AD%90%E5%9C%A8%E9%A6%99%E6%B8%AF%E5%81%9A%E6%B3%A5%E7%93%A6%E5%B7%A5%E6%9C%88%E5%85%A510%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
