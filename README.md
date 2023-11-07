@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 13:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 13:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [轨是昨天出的 人是今天没的](https://s.weibo.com/weibo?q=%E8%BD%A8%E6%98%AF%E6%98%A8%E5%A4%A9%E5%87%BA%E7%9A%84%20%E4%BA%BA%E6%98%AF%E4%BB%8A%E5%A4%A9%E6%B2%A1%E7%9A%84&t=31&band_rank=5&Refer=top)<br />
 6. [华晨宇申请强制黑粉道歉](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E9%BB%91%E7%B2%89%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [节奏大师回归](https://s.weibo.com/weibo?q=%E8%8A%82%E5%A5%8F%E5%A4%A7%E5%B8%88%E5%9B%9E%E5%BD%92&t=31&band_rank=7&Refer=top)<br />
-8. [张新成姓张也性张](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E5%A7%93%E5%BC%A0%E4%B9%9F%E6%80%A7%E5%BC%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [哈工大学生去上课像登机](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8E%BB%E4%B8%8A%E8%AF%BE%E5%83%8F%E7%99%BB%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [哈工大学生去上课像登机](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8E%BB%E4%B8%8A%E8%AF%BE%E5%83%8F%E7%99%BB%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [张新成姓张也性张](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E5%A7%93%E5%BC%A0%E4%B9%9F%E6%80%A7%E5%BC%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
