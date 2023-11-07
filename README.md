@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 11:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 11:04:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [90后夫妻7年存100万每月靠利息生活](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%A4%AB%E5%A6%BB7%E5%B9%B4%E5%AD%98100%E4%B8%87%E6%AF%8F%E6%9C%88%E9%9D%A0%E5%88%A9%E6%81%AF%E7%94%9F%E6%B4%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子转售父母生前处方药被判贩毒罪](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BD%AC%E5%94%AE%E7%88%B6%E6%AF%8D%E7%94%9F%E5%89%8D%E5%A4%84%E6%96%B9%E8%8D%AF%E8%A2%AB%E5%88%A4%E8%B4%A9%E6%AF%92%E7%BD%AA%23&t=31&band_rank=7&Refer=top)<br />
 8. [中戏教授点评张小斐演技](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%88%8F%E6%95%99%E6%8E%88%E7%82%B9%E8%AF%84%E5%BC%A0%E5%B0%8F%E6%96%90%E6%BC%94%E6%8A%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [进博会到底有多好逛](https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A5%BD%E9%80%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [王嘉尔的童年女神是杨紫](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%98%89%E5%B0%94%E7%9A%84%E7%AB%A5%E5%B9%B4%E5%A5%B3%E7%A5%9E%E6%98%AF%E6%9D%A8%E7%B4%AB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
