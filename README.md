@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 08:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 08:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [男子办移民材料 向境外传14份情报](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8A%9E%E7%A7%BB%E6%B0%91%E6%9D%90%E6%96%99+%E5%90%91%E5%A2%83%E5%A4%96%E4%BC%A014%E4%BB%BD%E6%83%85%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [缅北4岁半男童被炮弹炸伤来中国治疗](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%974%E5%B2%81%E5%8D%8A%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%82%AE%E5%BC%B9%E7%82%B8%E4%BC%A4%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%B2%BB%E7%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [郑州鸵鸟出逃大结局 主人现身致歉](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E9%B8%B5%E9%B8%9F%E5%87%BA%E9%80%83%E5%A4%A7%E7%BB%93%E5%B1%80+%E4%B8%BB%E4%BA%BA%E7%8E%B0%E8%BA%AB%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泉州一小区发生疑似闪爆 致1死3伤](https://www.baidu.com/s?wd=%E6%B3%89%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%96%91%E4%BC%BC%E9%97%AA%E7%88%86+%E8%87%B41%E6%AD%BB3%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [妈妈用床单为儿子缝十多套古装](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E7%94%A8%E5%BA%8A%E5%8D%95%E4%B8%BA%E5%84%BF%E5%AD%90%E7%BC%9D%E5%8D%81%E5%A4%9A%E5%A5%97%E5%8F%A4%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [兰州有学校发生伤人事件？假的](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E6%9C%89%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男子办移民材料 向境外传14份情报](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8A%9E%E7%A7%BB%E6%B0%91%E6%9D%90%E6%96%99+%E5%90%91%E5%A2%83%E5%A4%96%E4%BC%A014%E4%BB%BD%E6%83%85%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [缅北4岁半男童被炮弹炸伤来中国治疗](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%974%E5%B2%81%E5%8D%8A%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%82%AE%E5%BC%B9%E7%82%B8%E4%BC%A4%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%B2%BB%E7%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [郑州鸵鸟出逃大结局 主人现身致歉](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E9%B8%B5%E9%B8%9F%E5%87%BA%E9%80%83%E5%A4%A7%E7%BB%93%E5%B1%80+%E4%B8%BB%E4%BA%BA%E7%8E%B0%E8%BA%AB%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泉州一小区发生疑似闪爆 致1死3伤](https://www.baidu.com/s?wd=%E6%B3%89%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%96%91%E4%BC%BC%E9%97%AA%E7%88%86+%E8%87%B41%E6%AD%BB3%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [妈妈用床单为儿子缝十多套古装](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E7%94%A8%E5%BA%8A%E5%8D%95%E4%B8%BA%E5%84%BF%E5%AD%90%E7%BC%9D%E5%8D%81%E5%A4%9A%E5%A5%97%E5%8F%A4%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [兰州有学校发生伤人事件？假的](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E6%9C%89%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
