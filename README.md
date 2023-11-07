@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 00:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 00:15:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [打工罢了 不必太上头](https://s.weibo.com/weibo?q=%E6%89%93%E5%B7%A5%E7%BD%A2%E4%BA%86%20%E4%B8%8D%E5%BF%85%E5%A4%AA%E4%B8%8A%E5%A4%B4&t=31&band_rank=6&Refer=top)<br />
 7. [导师回应网传乳腺外科团队多人患癌](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E5%B8%88%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E4%B9%B3%E8%85%BA%E5%A4%96%E7%A7%91%E5%9B%A2%E9%98%9F%E5%A4%9A%E4%BA%BA%E6%82%A3%E7%99%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [卫健委回应网传中山二附院多名学生患癌](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%84%E9%99%A2%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E6%82%A3%E7%99%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [姜雪宁和嫋嫋境遇好像](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E9%9B%AA%E5%AE%81%E5%92%8C%E5%AB%8B%E5%AB%8B%E5%A2%83%E9%81%87%E5%A5%BD%E5%83%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [随机抓一名女大学生改造成爱豆](https://s.weibo.com/weibo?q=%E9%9A%8F%E6%9C%BA%E6%8A%93%E4%B8%80%E5%90%8D%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%94%B9%E9%80%A0%E6%88%90%E7%88%B1%E8%B1%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
