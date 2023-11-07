@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 08:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 08:10:01</h4></div>
 
 > 微博  
 
 1. [佳木斯坍塌体育馆3人遇难](https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%863%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top)<br />
 2. [医院院长倒卖出生证明每张赚6万](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%80%92%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E%E6%AF%8F%E5%BC%A0%E8%B5%9A6%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [进博会到底有多好逛](https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A5%BD%E9%80%9B%23&t=31&band_rank=3&Refer=top)<br />
-4. [原来淋巴肉是不能吃的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B7%8B%E5%B7%B4%E8%82%89%E6%98%AF%E4%B8%8D%E8%83%BD%E5%90%83%E7%9A%84%23&t=31&band_rank=4&Refer=top)<br />
-5. [佳木斯坍塌体育馆所属俱乐部负责人已被控制](https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%86%E6%89%80%E5%B1%9E%E4%BF%B1%E4%B9%90%E9%83%A8%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6%23&t=31&band_rank=5&Refer=top)<br />
+4. [佳木斯坍塌体育馆所属俱乐部负责人已被控制](https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%86%E6%89%80%E5%B1%9E%E4%BF%B1%E4%B9%90%E9%83%A8%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6%23&t=31&band_rank=4&Refer=top)<br />
+5. [原来淋巴肉是不能吃的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B7%8B%E5%B7%B4%E8%82%89%E6%98%AF%E4%B8%8D%E8%83%BD%E5%90%83%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
 6. [节奏大师回归](https://s.weibo.com/weibo?q=%E8%8A%82%E5%A5%8F%E5%A4%A7%E5%B8%88%E5%9B%9E%E5%BD%92&t=31&band_rank=6&Refer=top)<br />
 7. [主持人大赛治好了我的精神内耗](https://s.weibo.com/weibo?q=%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%A4%A7%E8%B5%9B%E6%B2%BB%E5%A5%BD%E4%BA%86%E6%88%91%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%85%E8%80%97&t=31&band_rank=7&Refer=top)<br />
 8. [突然理解为什么姜涛是顶流了](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A7%9C%E6%B6%9B%E6%98%AF%E9%A1%B6%E6%B5%81%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
