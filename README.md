@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 19:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 19:43:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [乌镇峰会：十年回首再出发](https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%EF%BC%9A%E5%8D%81%E5%B9%B4%E5%9B%9E%E9%A6%96%E5%86%8D%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [医院公开贩卖婴儿出生证 卫健委通报](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%85%AC%E5%BC%80%E8%B4%A9%E5%8D%96%E5%A9%B4%E5%84%BF%E5%87%BA%E7%94%9F%E8%AF%81+%E5%8D%AB%E5%81%A5%E5%A7%94%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [主人称郑州鸵鸟高架奔跑因思妻心切](https://www.baidu.com/s?wd=%E4%B8%BB%E4%BA%BA%E7%A7%B0%E9%83%91%E5%B7%9E%E9%B8%B5%E9%B8%9F%E9%AB%98%E6%9E%B6%E5%A5%94%E8%B7%91%E5%9B%A0%E6%80%9D%E5%A6%BB%E5%BF%83%E5%88%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [体育馆坍塌后逃出男生又返回救同学](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E5%90%8E%E9%80%83%E5%87%BA%E7%94%B7%E7%94%9F%E5%8F%88%E8%BF%94%E5%9B%9E%E6%95%91%E5%90%8C%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [进博会为全球化作出重要贡献](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%B8%BA%E5%85%A8%E7%90%83%E5%8C%96%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E8%B4%A1%E7%8C%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [董明珠首次回应孟羽童离职](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E5%AD%9F%E7%BE%BD%E7%AB%A5%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [乌镇峰会：十年回首再出发](https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%EF%BC%9A%E5%8D%81%E5%B9%B4%E5%9B%9E%E9%A6%96%E5%86%8D%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [医院公开贩卖婴儿出生证 卫健委通报](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%85%AC%E5%BC%80%E8%B4%A9%E5%8D%96%E5%A9%B4%E5%84%BF%E5%87%BA%E7%94%9F%E8%AF%81+%E5%8D%AB%E5%81%A5%E5%A7%94%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [主人称郑州鸵鸟高架奔跑因思妻心切](https://www.baidu.com/s?wd=%E4%B8%BB%E4%BA%BA%E7%A7%B0%E9%83%91%E5%B7%9E%E9%B8%B5%E9%B8%9F%E9%AB%98%E6%9E%B6%E5%A5%94%E8%B7%91%E5%9B%A0%E6%80%9D%E5%A6%BB%E5%BF%83%E5%88%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [体育馆坍塌后逃出男生又返回救同学](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E5%90%8E%E9%80%83%E5%87%BA%E7%94%B7%E7%94%9F%E5%8F%88%E8%BF%94%E5%9B%9E%E6%95%91%E5%90%8C%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [进博会为全球化作出重要贡献](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%B8%BA%E5%85%A8%E7%90%83%E5%8C%96%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E8%B4%A1%E7%8C%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [董明珠首次回应孟羽童离职](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E5%AD%9F%E7%BE%BD%E7%AB%A5%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
