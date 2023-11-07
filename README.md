@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 17:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 17:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朱丹说叫错人名是心魔](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%B9%E8%AF%B4%E5%8F%AB%E9%94%99%E4%BA%BA%E5%90%8D%E6%98%AF%E5%BF%83%E9%AD%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [轨是昨天出的 人是今天没的](https://s.weibo.com/weibo?q=%E8%BD%A8%E6%98%AF%E6%98%A8%E5%A4%A9%E5%87%BA%E7%9A%84%20%E4%BA%BA%E6%98%AF%E4%BB%8A%E5%A4%A9%E6%B2%A1%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
 8. [广西6岁女孩沙滩走失遗体被发现](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF6%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%B2%99%E6%BB%A9%E8%B5%B0%E5%A4%B1%E9%81%97%E4%BD%93%E8%A2%AB%E5%8F%91%E7%8E%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [金莎男友为追她给她做了100多道菜](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%E4%B8%BA%E8%BF%BD%E5%A5%B9%E7%BB%99%E5%A5%B9%E5%81%9A%E4%BA%86100%E5%A4%9A%E9%81%93%E8%8F%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
