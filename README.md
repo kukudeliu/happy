@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 12:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 12:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [淄博烧烤从业者现在都怎么样了](https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E4%BB%8E%E4%B8%9A%E8%80%85%E7%8E%B0%E5%9C%A8%E9%83%BD%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [节奏大师回归](https://s.weibo.com/weibo?q=%E8%8A%82%E5%A5%8F%E5%A4%A7%E5%B8%88%E5%9B%9E%E5%BD%92&t=31&band_rank=7&Refer=top)<br />
 8. [与凤行 江苏卫视](https://s.weibo.com/weibo?q=%E4%B8%8E%E5%87%A4%E8%A1%8C%20%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&t=31&band_rank=8&Refer=top)<br />
-9. [Tarzan向队友道歉](https://s.weibo.com/weibo?q=%23Tarzan%E5%90%91%E9%98%9F%E5%8F%8B%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [湖北4岁半女童遭杀害家属发声](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%974%E5%B2%81%E5%8D%8A%E5%A5%B3%E7%AB%A5%E9%81%AD%E6%9D%80%E5%AE%B3%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
