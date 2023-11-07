@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 23:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 23:47:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [打工罢了 不必太上头](https://s.weibo.com/weibo?q=%E6%89%93%E5%B7%A5%E7%BD%A2%E4%BA%86%20%E4%B8%8D%E5%BF%85%E5%A4%AA%E4%B8%8A%E5%A4%B4&t=31&band_rank=5&Refer=top)<br />
 6. [第一次见放了6集男主叫不出女主名字的](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E6%94%BE%E4%BA%866%E9%9B%86%E7%94%B7%E4%B8%BB%E5%8F%AB%E4%B8%8D%E5%87%BA%E5%A5%B3%E4%B8%BB%E5%90%8D%E5%AD%97%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [宁安如梦空降](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%A9%BA%E9%99%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [孤注一掷最终票房38.48亿](https://s.weibo.com/weibo?q=%23%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E6%9C%80%E7%BB%88%E7%A5%A8%E6%88%BF38.48%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
+8. [以爱为营微博开分8.7](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%BE%AE%E5%8D%9A%E5%BC%80%E5%88%868.7%23&t=31&band_rank=8&Refer=top)<br />
 9. [姜雪宁和嫋嫋境遇好像](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E9%9B%AA%E5%AE%81%E5%92%8C%E5%AB%8B%E5%AB%8B%E5%A2%83%E9%81%87%E5%A5%BD%E5%83%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
