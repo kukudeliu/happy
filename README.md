@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 18:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 18:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [官方通报医院被举报贩卖出生证及婴儿](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8C%BB%E9%99%A2%E8%A2%AB%E4%B8%BE%E6%8A%A5%E8%B4%A9%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81%E5%8F%8A%E5%A9%B4%E5%84%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [爱奇艺用白鹿对打白鹿](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%94%A8%E7%99%BD%E9%B9%BF%E5%AF%B9%E6%89%93%E7%99%BD%E9%B9%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [金莎男友是山东蓝翔出来的吗](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%E6%98%AF%E5%B1%B1%E4%B8%9C%E8%93%9D%E7%BF%94%E5%87%BA%E6%9D%A5%E7%9A%84%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [宁安如梦](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6&t=31&band_rank=9&Refer=top)<br />
+9. [2人跳入冰冷湖水合救落水者](https://s.weibo.com/weibo?q=%232%E4%BA%BA%E8%B7%B3%E5%85%A5%E5%86%B0%E5%86%B7%E6%B9%96%E6%B0%B4%E5%90%88%E6%95%91%E8%90%BD%E6%B0%B4%E8%80%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
