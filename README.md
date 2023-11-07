@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 22:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 22:20:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [姜雪宁和嫋嫋境遇好像](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E9%9B%AA%E5%AE%81%E5%92%8C%E5%AB%8B%E5%AB%8B%E5%A2%83%E9%81%87%E5%A5%BD%E5%83%8F%23&t=31&band_rank=5&Refer=top)<br />
 6. [白鹿张凌赫好会亲](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%A5%BD%E4%BC%9A%E4%BA%B2%23&t=31&band_rank=6&Refer=top)<br />
 7. [宁安如梦空降](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%A9%BA%E9%99%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [小鹏](https://s.weibo.com/weibo?q=%E5%B0%8F%E9%B9%8F&t=31&band_rank=8&Refer=top)<br />
-9. [为了省一块钱花了两千多](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BA%86%E7%9C%81%E4%B8%80%E5%9D%97%E9%92%B1%E8%8A%B1%E4%BA%86%E4%B8%A4%E5%8D%83%E5%A4%9A%23&t=31&band_rank=9&Refer=top)<br />
+8. [导师回应网传乳腺外科团队多人患癌](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E5%B8%88%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E4%B9%B3%E8%85%BA%E5%A4%96%E7%A7%91%E5%9B%A2%E9%98%9F%E5%A4%9A%E4%BA%BA%E6%82%A3%E7%99%8C%23&t=31&band_rank=8&Refer=top)<br />
+9. [小鹏](https://s.weibo.com/weibo?q=%E5%B0%8F%E9%B9%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
