@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 17:56:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [AI眼中的中国](https://s.weibo.com/weibo?q=%23AI%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [中山二院辟谣乳腺外科团队学生患癌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E8%BE%9F%E8%B0%A3%E4%B9%B3%E8%85%BA%E5%A4%96%E7%A7%91%E5%9B%A2%E9%98%9F%E5%AD%A6%E7%94%9F%E6%82%A3%E7%99%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [爱奇艺用白鹿对打白鹿](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%94%A8%E7%99%BD%E9%B9%BF%E5%AF%B9%E6%89%93%E7%99%BD%E9%B9%BF%23&t=31&band_rank=5&Refer=top)<br />
-6. [比砒霜还毒900倍的致癌物](https://s.weibo.com/weibo?q=%23%E6%AF%94%E7%A0%92%E9%9C%9C%E8%BF%98%E6%AF%92900%E5%80%8D%E7%9A%84%E8%87%B4%E7%99%8C%E7%89%A9%23&t=31&band_rank=6&Refer=top)<br />
+6. [樊振东孙颖莎顶峰相见](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%AD%99%E9%A2%96%E8%8E%8E%E9%A1%B6%E5%B3%B0%E7%9B%B8%E8%A7%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [宁安如梦](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6&t=31&band_rank=7&Refer=top)<br />
-8. [杨幂谈原生家庭的缺失](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E8%B0%88%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%E7%9A%84%E7%BC%BA%E5%A4%B1&t=31&band_rank=8&Refer=top)<br />
-9. [与女主播发生关系住持当选省政协委员](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E4%BD%8F%E6%8C%81%E5%BD%93%E9%80%89%E7%9C%81%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
+8. [比砒霜还毒900倍的致癌物](https://s.weibo.com/weibo?q=%23%E6%AF%94%E7%A0%92%E9%9C%9C%E8%BF%98%E6%AF%92900%E5%80%8D%E7%9A%84%E8%87%B4%E7%99%8C%E7%89%A9%23&t=31&band_rank=8&Refer=top)<br />
+9. [在西湖偶遇渐变橘色晚霞](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E8%A5%BF%E6%B9%96%E5%81%B6%E9%81%87%E6%B8%90%E5%8F%98%E6%A9%98%E8%89%B2%E6%99%9A%E9%9C%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
