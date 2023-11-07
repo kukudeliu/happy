@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 09:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 09:09:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [东南大学被财政部点名通报](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%A2%AB%E8%B4%A2%E6%94%BF%E9%83%A8%E7%82%B9%E5%90%8D%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [法院将2名未成年人纳入限高名单公告](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E5%B0%862%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BA%B3%E5%85%A5%E9%99%90%E9%AB%98%E5%90%8D%E5%8D%95%E5%85%AC%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [缅北4岁半男童被炮弹炸伤来中国治疗](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%974%E5%B2%81%E5%8D%8A%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%82%AE%E5%BC%B9%E7%82%B8%E4%BC%A4%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%B2%BB%E7%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [兰州有学校发生伤人事件？假的](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E6%9C%89%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [深圳供电局辟谣只录取海归硕士](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BE%9B%E7%94%B5%E5%B1%80%E8%BE%9F%E8%B0%A3%E5%8F%AA%E5%BD%95%E5%8F%96%E6%B5%B7%E5%BD%92%E7%A1%95%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [东南大学被财政部点名通报](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%A2%AB%E8%B4%A2%E6%94%BF%E9%83%A8%E7%82%B9%E5%90%8D%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [法院将2名未成年人纳入限高名单公告](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E5%B0%862%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BA%B3%E5%85%A5%E9%99%90%E9%AB%98%E5%90%8D%E5%8D%95%E5%85%AC%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [缅北4岁半男童被炮弹炸伤来中国治疗](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%974%E5%B2%81%E5%8D%8A%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%82%AE%E5%BC%B9%E7%82%B8%E4%BC%A4%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%B2%BB%E7%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [兰州有学校发生伤人事件？假的](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E6%9C%89%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [深圳供电局辟谣只录取海归硕士](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BE%9B%E7%94%B5%E5%B1%80%E8%BE%9F%E8%B0%A3%E5%8F%AA%E5%BD%95%E5%8F%96%E6%B5%B7%E5%BD%92%E7%A1%95%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
