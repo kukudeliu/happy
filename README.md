@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 19:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 19:52:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [老人捡到4只丹顶鹤以为是山羊](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%8D%A1%E5%88%B04%E5%8F%AA%E4%B8%B9%E9%A1%B6%E9%B9%A4%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%B1%B1%E7%BE%8A%23&t=31&band_rank=5&Refer=top)<br />
 6. [爱奇艺用白鹿对打白鹿](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%94%A8%E7%99%BD%E9%B9%BF%E5%AF%B9%E6%89%93%E7%99%BD%E9%B9%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [樊振东孙颖莎顶峰相见](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%AD%99%E9%A2%96%E8%8E%8E%E9%A1%B6%E5%B3%B0%E7%9B%B8%E8%A7%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [中山二院辟谣乳腺外科团队学生患癌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E8%BE%9F%E8%B0%A3%E4%B9%B3%E8%85%BA%E5%A4%96%E7%A7%91%E5%9B%A2%E9%98%9F%E5%AD%A6%E7%94%9F%E6%82%A3%E7%99%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [宁安如梦](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6&t=31&band_rank=9&Refer=top)<br />
+8. [他就拿刀子戳了几下 朱丹就这么仰望](https://s.weibo.com/weibo?q=%E4%BB%96%E5%B0%B1%E6%8B%BF%E5%88%80%E5%AD%90%E6%88%B3%E4%BA%86%E5%87%A0%E4%B8%8B%20%E6%9C%B1%E4%B8%B9%E5%B0%B1%E8%BF%99%E4%B9%88%E4%BB%B0%E6%9C%9B&t=31&band_rank=8&Refer=top)<br />
+9. [中山二院辟谣乳腺外科团队学生患癌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E8%BE%9F%E8%B0%A3%E4%B9%B3%E8%85%BA%E5%A4%96%E7%A7%91%E5%9B%A2%E9%98%9F%E5%AD%A6%E7%94%9F%E6%82%A3%E7%99%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
