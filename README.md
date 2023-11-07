@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 20:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 20:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为了省一块钱花了两千多](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BA%86%E7%9C%81%E4%B8%80%E5%9D%97%E9%92%B1%E8%8A%B1%E4%BA%86%E4%B8%A4%E5%8D%83%E5%A4%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [老人捡到4只丹顶鹤以为是山羊](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%8D%A1%E5%88%B04%E5%8F%AA%E4%B8%B9%E9%A1%B6%E9%B9%A4%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%B1%B1%E7%BE%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [四川雅安一油罐车爆燃引燃两货车](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%9B%85%E5%AE%89%E4%B8%80%E6%B2%B9%E7%BD%90%E8%BD%A6%E7%88%86%E7%87%83%E5%BC%95%E7%87%83%E4%B8%A4%E8%B4%A7%E8%BD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [爱奇艺用白鹿对打白鹿](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%94%A8%E7%99%BD%E9%B9%BF%E5%AF%B9%E6%89%93%E7%99%BD%E9%B9%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [宁安如梦](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [与女主播发生关系寺庙住持被停职](https://www.baidu.com/s?wd=%E4%B8%8E%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E5%AF%BA%E5%BA%99%E4%BD%8F%E6%8C%81%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [志愿者讲述卧底襄阳健桥医院经历](https://www.baidu.com/s?wd=%E5%BF%97%E6%84%BF%E8%80%85%E8%AE%B2%E8%BF%B0%E5%8D%A7%E5%BA%95%E8%A5%84%E9%98%B3%E5%81%A5%E6%A1%A5%E5%8C%BB%E9%99%A2%E7%BB%8F%E5%8E%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川一油罐车爆炸燃烧 已致2死2伤](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%B2%B9%E7%BD%90%E8%BD%A6%E7%88%86%E7%82%B8%E7%87%83%E7%83%A7+%E5%B7%B2%E8%87%B42%E6%AD%BB2%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哈尔滨：大雪中的索菲亚教堂](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%EF%BC%9A%E5%A4%A7%E9%9B%AA%E4%B8%AD%E7%9A%84%E7%B4%A2%E8%8F%B2%E4%BA%9A%E6%95%99%E5%A0%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [南方女生穿泳装在雪地里“游泳”](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%A5%B3%E7%94%9F%E7%A9%BF%E6%B3%B3%E8%A3%85%E5%9C%A8%E9%9B%AA%E5%9C%B0%E9%87%8C%E2%80%9C%E6%B8%B8%E6%B3%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳供电局辟谣只录取海归硕士](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BE%9B%E7%94%B5%E5%B1%80%E8%BE%9F%E8%B0%A3%E5%8F%AA%E5%BD%95%E5%8F%96%E6%B5%B7%E5%BD%92%E7%A1%95%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [与女主播发生关系寺庙住持被停职](https://www.baidu.com/s?wd=%E4%B8%8E%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E5%AF%BA%E5%BA%99%E4%BD%8F%E6%8C%81%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [志愿者讲述卧底襄阳健桥医院经历](https://www.baidu.com/s?wd=%E5%BF%97%E6%84%BF%E8%80%85%E8%AE%B2%E8%BF%B0%E5%8D%A7%E5%BA%95%E8%A5%84%E9%98%B3%E5%81%A5%E6%A1%A5%E5%8C%BB%E9%99%A2%E7%BB%8F%E5%8E%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川一油罐车爆炸燃烧 已致2死2伤](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%B2%B9%E7%BD%90%E8%BD%A6%E7%88%86%E7%82%B8%E7%87%83%E7%83%A7+%E5%B7%B2%E8%87%B42%E6%AD%BB2%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哈尔滨：大雪中的索菲亚教堂](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%EF%BC%9A%E5%A4%A7%E9%9B%AA%E4%B8%AD%E7%9A%84%E7%B4%A2%E8%8F%B2%E4%BA%9A%E6%95%99%E5%A0%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [南方女生穿泳装在雪地里“游泳”](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%A5%B3%E7%94%9F%E7%A9%BF%E6%B3%B3%E8%A3%85%E5%9C%A8%E9%9B%AA%E5%9C%B0%E9%87%8C%E2%80%9C%E6%B8%B8%E6%B3%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳供电局辟谣只录取海归硕士](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BE%9B%E7%94%B5%E5%B1%80%E8%BE%9F%E8%B0%A3%E5%8F%AA%E5%BD%95%E5%8F%96%E6%B5%B7%E5%BD%92%E7%A1%95%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
