@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 20:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 20:32:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [蒋勤勤 认定吴磊是我儿子了](https://s.weibo.com/weibo?q=%E8%92%8B%E5%8B%A4%E5%8B%A4%20%E8%AE%A4%E5%AE%9A%E5%90%B4%E7%A3%8A%E6%98%AF%E6%88%91%E5%84%BF%E5%AD%90%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=5&Refer=top)<br />
 6. [为了省一块钱花了两千多](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BA%86%E7%9C%81%E4%B8%80%E5%9D%97%E9%92%B1%E8%8A%B1%E4%BA%86%E4%B8%A4%E5%8D%83%E5%A4%9A%23&t=31&band_rank=6&Refer=top)<br />
-7. [老人捡到4只丹顶鹤以为是山羊](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%8D%A1%E5%88%B04%E5%8F%AA%E4%B8%B9%E9%A1%B6%E9%B9%A4%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%B1%B1%E7%BE%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [四川雅安一油罐车爆燃引燃两货车](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%9B%85%E5%AE%89%E4%B8%80%E6%B2%B9%E7%BD%90%E8%BD%A6%E7%88%86%E7%87%83%E5%BC%95%E7%87%83%E4%B8%A4%E8%B4%A7%E8%BD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [第一次见放了6集男主叫不出女主名字的](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E6%94%BE%E4%BA%866%E9%9B%86%E7%94%B7%E4%B8%BB%E5%8F%AB%E4%B8%8D%E5%87%BA%E5%A5%B3%E4%B8%BB%E5%90%8D%E5%AD%97%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+7. [第一次见放了6集男主叫不出女主名字的](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E6%94%BE%E4%BA%866%E9%9B%86%E7%94%B7%E4%B8%BB%E5%8F%AB%E4%B8%8D%E5%87%BA%E5%A5%B3%E4%B8%BB%E5%90%8D%E5%AD%97%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
+8. [老人捡到4只丹顶鹤以为是山羊](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%8D%A1%E5%88%B04%E5%8F%AA%E4%B8%B9%E9%A1%B6%E9%B9%A4%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%B1%B1%E7%BE%8A%23&t=31&band_rank=8&Refer=top)<br />
+9. [四川雅安一油罐车爆燃引燃两货车](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%9B%85%E5%AE%89%E4%B8%80%E6%B2%B9%E7%BD%90%E8%BD%A6%E7%88%86%E7%87%83%E5%BC%95%E7%87%83%E4%B8%A4%E8%B4%A7%E8%BD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
