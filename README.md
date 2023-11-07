@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 07:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 07:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宁安如梦 歹毒运镜](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E6%AD%B9%E6%AF%92%E8%BF%90%E9%95%9C&t=31&band_rank=6&Refer=top)<br />
 7. [当以爱为营女主换成张元英](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A5%B3%E4%B8%BB%E6%8D%A2%E6%88%90%E5%BC%A0%E5%85%83%E8%8B%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [张踩铃 别让孩子成为情绪的宣泄口](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%B8%A9%E9%93%83%20%E5%88%AB%E8%AE%A9%E5%AD%A9%E5%AD%90%E6%88%90%E4%B8%BA%E6%83%85%E7%BB%AA%E7%9A%84%E5%AE%A3%E6%B3%84%E5%8F%A3&t=31&band_rank=8&Refer=top)<br />
-9. [广西沙滩走失6岁女童家长发声](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%B2%99%E6%BB%A9%E8%B5%B0%E5%A4%B16%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%AE%B6%E9%95%BF%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [新疆地震](https://s.weibo.com/weibo?q=%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
