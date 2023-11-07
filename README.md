@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 23:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 23:48:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [促进创新成果更多惠及各国人民](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E5%88%9B%E6%96%B0%E6%88%90%E6%9E%9C%E6%9B%B4%E5%A4%9A%E6%83%A0%E5%8F%8A%E5%90%84%E5%9B%BD%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [90后月光族在间谍指导下考上公务员](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%88%E5%85%89%E6%97%8F%E5%9C%A8%E9%97%B4%E8%B0%8D%E6%8C%87%E5%AF%BC%E4%B8%8B%E8%80%83%E4%B8%8A%E5%85%AC%E5%8A%A1%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东北大学生正式确诊为华妃](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%8D%8E%E5%A6%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [学生宿舍内死亡 学校：亚硝酸盐中毒](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E6%AD%BB%E4%BA%A1+%E5%AD%A6%E6%A0%A1%EF%BC%9A%E4%BA%9A%E7%A1%9D%E9%85%B8%E7%9B%90%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医生群里问工资被院长胞兄威胁](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E7%BE%A4%E9%87%8C%E9%97%AE%E5%B7%A5%E8%B5%84%E8%A2%AB%E9%99%A2%E9%95%BF%E8%83%9E%E5%85%84%E5%A8%81%E8%83%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医生群里问工资被院长胞兄威胁](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E7%BE%A4%E9%87%8C%E9%97%AE%E5%B7%A5%E8%B5%84%E8%A2%AB%E9%99%A2%E9%95%BF%E8%83%9E%E5%85%84%E5%A8%81%E8%83%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [刘强东老家水龙头忘关 网友联系京东](https://www.baidu.com/s?wd=%E5%88%98%E5%BC%BA%E4%B8%9C%E8%80%81%E5%AE%B6%E6%B0%B4%E9%BE%99%E5%A4%B4%E5%BF%98%E5%85%B3+%E7%BD%91%E5%8F%8B%E8%81%94%E7%B3%BB%E4%BA%AC%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [23人感染H7N9死亡？医院辟谣](https://www.baidu.com/s?wd=23%E4%BA%BA%E6%84%9F%E6%9F%93H7N9%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%8C%BB%E9%99%A2%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [促进创新成果更多惠及各国人民](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E5%88%9B%E6%96%B0%E6%88%90%E6%9E%9C%E6%9B%B4%E5%A4%9A%E6%83%A0%E5%8F%8A%E5%90%84%E5%9B%BD%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [90后月光族在间谍指导下考上公务员](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%88%E5%85%89%E6%97%8F%E5%9C%A8%E9%97%B4%E8%B0%8D%E6%8C%87%E5%AF%BC%E4%B8%8B%E8%80%83%E4%B8%8A%E5%85%AC%E5%8A%A1%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东北大学生正式确诊为华妃](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%8D%8E%E5%A6%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [学生宿舍内死亡 学校：亚硝酸盐中毒](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E6%AD%BB%E4%BA%A1+%E5%AD%A6%E6%A0%A1%EF%BC%9A%E4%BA%9A%E7%A1%9D%E9%85%B8%E7%9B%90%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医生群里问工资被院长胞兄威胁](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E7%BE%A4%E9%87%8C%E9%97%AE%E5%B7%A5%E8%B5%84%E8%A2%AB%E9%99%A2%E9%95%BF%E8%83%9E%E5%85%84%E5%A8%81%E8%83%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医生群里问工资被院长胞兄威胁](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E7%BE%A4%E9%87%8C%E9%97%AE%E5%B7%A5%E8%B5%84%E8%A2%AB%E9%99%A2%E9%95%BF%E8%83%9E%E5%85%84%E5%A8%81%E8%83%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [刘强东老家水龙头忘关 网友联系京东](https://www.baidu.com/s?wd=%E5%88%98%E5%BC%BA%E4%B8%9C%E8%80%81%E5%AE%B6%E6%B0%B4%E9%BE%99%E5%A4%B4%E5%BF%98%E5%85%B3+%E7%BD%91%E5%8F%8B%E8%81%94%E7%B3%BB%E4%BA%AC%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [23人感染H7N9死亡？医院辟谣](https://www.baidu.com/s?wd=23%E4%BA%BA%E6%84%9F%E6%9F%93H7N9%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%8C%BB%E9%99%A2%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
