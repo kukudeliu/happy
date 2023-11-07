@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 19:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 19:38:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [董明珠首次回应孟羽童离职](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E5%AD%9F%E7%BE%BD%E7%AB%A5%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [断头路无指示牌致多车出事故](https://www.baidu.com/s?wd=%E6%96%AD%E5%A4%B4%E8%B7%AF%E6%97%A0%E6%8C%87%E7%A4%BA%E7%89%8C%E8%87%B4%E5%A4%9A%E8%BD%A6%E5%87%BA%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [与女主播发生关系寺庙住持被停职](https://www.baidu.com/s?wd=%E4%B8%8E%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E5%AF%BA%E5%BA%99%E4%BD%8F%E6%8C%81%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [南方女生穿泳装在雪地里“游泳”](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%A5%B3%E7%94%9F%E7%A9%BF%E6%B3%B3%E8%A3%85%E5%9C%A8%E9%9B%AA%E5%9C%B0%E9%87%8C%E2%80%9C%E6%B8%B8%E6%B3%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乌军总司令助手生日当天被炸死](https://www.baidu.com/s?wd=%E4%B9%8C%E5%86%9B%E6%80%BB%E5%8F%B8%E4%BB%A4%E5%8A%A9%E6%89%8B%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E8%A2%AB%E7%82%B8%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳供电局辟谣只录取海归硕士](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BE%9B%E7%94%B5%E5%B1%80%E8%BE%9F%E8%B0%A3%E5%8F%AA%E5%BD%95%E5%8F%96%E6%B5%B7%E5%BD%92%E7%A1%95%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [董明珠首次回应孟羽童离职](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E5%AD%9F%E7%BE%BD%E7%AB%A5%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [断头路无指示牌致多车出事故](https://www.baidu.com/s?wd=%E6%96%AD%E5%A4%B4%E8%B7%AF%E6%97%A0%E6%8C%87%E7%A4%BA%E7%89%8C%E8%87%B4%E5%A4%9A%E8%BD%A6%E5%87%BA%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [与女主播发生关系寺庙住持被停职](https://www.baidu.com/s?wd=%E4%B8%8E%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E5%AF%BA%E5%BA%99%E4%BD%8F%E6%8C%81%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [南方女生穿泳装在雪地里“游泳”](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%A5%B3%E7%94%9F%E7%A9%BF%E6%B3%B3%E8%A3%85%E5%9C%A8%E9%9B%AA%E5%9C%B0%E9%87%8C%E2%80%9C%E6%B8%B8%E6%B3%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乌军总司令助手生日当天被炸死](https://www.baidu.com/s?wd=%E4%B9%8C%E5%86%9B%E6%80%BB%E5%8F%B8%E4%BB%A4%E5%8A%A9%E6%89%8B%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E8%A2%AB%E7%82%B8%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳供电局辟谣只录取海归硕士](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BE%9B%E7%94%B5%E5%B1%80%E8%BE%9F%E8%B0%A3%E5%8F%AA%E5%BD%95%E5%8F%96%E6%B5%B7%E5%BD%92%E7%A1%95%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
