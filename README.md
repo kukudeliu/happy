@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 07:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 07:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [广西沙滩走失6岁女童家长发声](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%B2%99%E6%BB%A9%E8%B5%B0%E5%A4%B16%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%AE%B6%E9%95%BF%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [当以爱为营女主换成张元英](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A5%B3%E4%B8%BB%E6%8D%A2%E6%88%90%E5%BC%A0%E5%85%83%E8%8B%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [3胞胎一起上学弟弟1人背负了所有](https://s.weibo.com/weibo?q=%233%E8%83%9E%E8%83%8E%E4%B8%80%E8%B5%B7%E4%B8%8A%E5%AD%A6%E5%BC%9F%E5%BC%9F1%E4%BA%BA%E8%83%8C%E8%B4%9F%E4%BA%86%E6%89%80%E6%9C%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [东北大学生正式确诊为华妃](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%8D%8E%E5%A6%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [别高估一年别低估十年](https://s.weibo.com/weibo?q=%E5%88%AB%E9%AB%98%E4%BC%B0%E4%B8%80%E5%B9%B4%E5%88%AB%E4%BD%8E%E4%BC%B0%E5%8D%81%E5%B9%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
