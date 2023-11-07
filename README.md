@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 12:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 12:49:01</h4></div>
 
 > 微博  
 
-1. [果郡王口碑一夜逆转](https://s.weibo.com/weibo?q=%E6%9E%9C%E9%83%A1%E7%8E%8B%E5%8F%A3%E7%A2%91%E4%B8%80%E5%A4%9C%E9%80%86%E8%BD%AC&t=31&band_rank=1&Refer=top)<br />
-2. [淄博烧烤从业者现在都怎么样了](https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E4%BB%8E%E4%B8%9A%E8%80%85%E7%8E%B0%E5%9C%A8%E9%83%BD%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [淄博烧烤从业者现在都怎么样了](https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E4%BB%8E%E4%B8%9A%E8%80%85%E7%8E%B0%E5%9C%A8%E9%83%BD%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [果郡王口碑一夜逆转](https://s.weibo.com/weibo?q=%E6%9E%9C%E9%83%A1%E7%8E%8B%E5%8F%A3%E7%A2%91%E4%B8%80%E5%A4%9C%E9%80%86%E8%BD%AC&t=31&band_rank=2&Refer=top)<br />
 3. [2023年世界互联网大会乌镇峰会](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [轨是昨天出的 人是今天没的](https://s.weibo.com/weibo?q=%E8%BD%A8%E6%98%AF%E6%98%A8%E5%A4%A9%E5%87%BA%E7%9A%84%20%E4%BA%BA%E6%98%AF%E4%BB%8A%E5%A4%A9%E6%B2%A1%E7%9A%84&t=31&band_rank=4&Refer=top)<br />
 5. [警方检方回应网传4岁半女童遭杀害](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E6%A3%80%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A04%E5%B2%81%E5%8D%8A%E5%A5%B3%E7%AB%A5%E9%81%AD%E6%9D%80%E5%AE%B3%23&t=31&band_rank=5&Refer=top)<br />
