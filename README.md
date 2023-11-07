@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 12:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 13:00:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [华晨宇申请强制黑粉道歉](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E9%BB%91%E7%B2%89%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [节奏大师回归](https://s.weibo.com/weibo?q=%E8%8A%82%E5%A5%8F%E5%A4%A7%E5%B8%88%E5%9B%9E%E5%BD%92&t=31&band_rank=7&Refer=top)<br />
 8. [湖北4岁半女童遭杀害家属发声](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%974%E5%B2%81%E5%8D%8A%E5%A5%B3%E7%AB%A5%E9%81%AD%E6%9D%80%E5%AE%B3%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [张新成姓张也性张](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E5%A7%93%E5%BC%A0%E4%B9%9F%E6%80%A7%E5%BC%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [人民网评院长贩卖婴儿出生证明](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E9%99%A2%E9%95%BF%E8%B4%A9%E5%8D%96%E5%A9%B4%E5%84%BF%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
