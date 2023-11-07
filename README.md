@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 16:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 16:56:01</h4></div>
 
 > 微博  
 
 1. [与女主播发生关系住持当选省政协委员](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E4%BD%8F%E6%8C%81%E5%BD%93%E9%80%89%E7%9C%81%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%23&t=31&band_rank=1&Refer=top)<br />
-2. [宁安如梦](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6&t=31&band_rank=2&Refer=top)<br />
+2. [中山二院辟谣乳腺外科团队学生患癌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E8%BE%9F%E8%B0%A3%E4%B9%B3%E8%85%BA%E5%A4%96%E7%A7%91%E5%9B%A2%E9%98%9F%E5%AD%A6%E7%94%9F%E6%82%A3%E7%99%8C%23&t=31&band_rank=2&Refer=top)<br />
 3. [AI眼中的中国](https://s.weibo.com/weibo?q=%23AI%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
-4. [中山二院辟谣乳腺外科团队学生患癌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E8%BE%9F%E8%B0%A3%E4%B9%B3%E8%85%BA%E5%A4%96%E7%A7%91%E5%9B%A2%E9%98%9F%E5%AD%A6%E7%94%9F%E6%82%A3%E7%99%8C%23&t=31&band_rank=4&Refer=top)<br />
+4. [宁安如梦](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6&t=31&band_rank=4&Refer=top)<br />
 5. [比砒霜还毒900倍的致癌物](https://s.weibo.com/weibo?q=%23%E6%AF%94%E7%A0%92%E9%9C%9C%E8%BF%98%E6%AF%92900%E5%80%8D%E7%9A%84%E8%87%B4%E7%99%8C%E7%89%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [朱丹说叫错人名是心魔](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%B9%E8%AF%B4%E5%8F%AB%E9%94%99%E4%BA%BA%E5%90%8D%E6%98%AF%E5%BF%83%E9%AD%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [轨是昨天出的 人是今天没的](https://s.weibo.com/weibo?q=%E8%BD%A8%E6%98%AF%E6%98%A8%E5%A4%A9%E5%87%BA%E7%9A%84%20%E4%BA%BA%E6%98%AF%E4%BB%8A%E5%A4%A9%E6%B2%A1%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
