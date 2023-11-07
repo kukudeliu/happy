@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 16:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 16:28:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [乌镇峰会：十年回首再出发](https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%EF%BC%9A%E5%8D%81%E5%B9%B4%E5%9B%9E%E9%A6%96%E5%86%8D%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [坍塌体育馆俱乐部负责人被警方控制](https://www.baidu.com/s?wd=%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%86%E4%BF%B1%E4%B9%90%E9%83%A8%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [佳木斯坍塌体育馆负责人被警方控制](https://www.baidu.com/s?wd=%E4%BD%B3%E6%9C%A8%E6%96%AF%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%86%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [传中山二院学生集体患癌？院方辟谣](https://www.baidu.com/s?wd=%E4%BC%A0%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E6%82%A3%E7%99%8C%EF%BC%9F%E9%99%A2%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [进博会为全球化作出重要贡献](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%B8%BA%E5%85%A8%E7%90%83%E5%8C%96%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E8%B4%A1%E7%8C%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [河南多人贷款买房被银行办了消费贷](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E4%BA%BA%E8%B4%B7%E6%AC%BE%E4%B9%B0%E6%88%BF%E8%A2%AB%E9%93%B6%E8%A1%8C%E5%8A%9E%E4%BA%86%E6%B6%88%E8%B4%B9%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [乌镇峰会：十年回首再出发](https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%EF%BC%9A%E5%8D%81%E5%B9%B4%E5%9B%9E%E9%A6%96%E5%86%8D%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [坍塌体育馆俱乐部负责人被警方控制](https://www.baidu.com/s?wd=%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%86%E4%BF%B1%E4%B9%90%E9%83%A8%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [佳木斯坍塌体育馆负责人被警方控制](https://www.baidu.com/s?wd=%E4%BD%B3%E6%9C%A8%E6%96%AF%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%86%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8E%A7%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [传中山二院学生集体患癌？院方辟谣](https://www.baidu.com/s?wd=%E4%BC%A0%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E6%82%A3%E7%99%8C%EF%BC%9F%E9%99%A2%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [进博会为全球化作出重要贡献](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%B8%BA%E5%85%A8%E7%90%83%E5%8C%96%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E8%B4%A1%E7%8C%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [河南多人贷款买房被银行办了消费贷](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E4%BA%BA%E8%B4%B7%E6%AC%BE%E4%B9%B0%E6%88%BF%E8%A2%AB%E9%93%B6%E8%A1%8C%E5%8A%9E%E4%BA%86%E6%B6%88%E8%B4%B9%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
