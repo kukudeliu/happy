@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 18:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 18:54:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [董明珠首次回应孟羽童离职](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E5%AD%9F%E7%BE%BD%E7%AB%A5%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [与女主播发生关系寺庙住持被停职](https://www.baidu.com/s?wd=%E4%B8%8E%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E5%AF%BA%E5%BA%99%E4%BD%8F%E6%8C%81%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [刘强东老家水龙头忘关 网友联系京东](https://www.baidu.com/s?wd=%E5%88%98%E5%BC%BA%E4%B8%9C%E8%80%81%E5%AE%B6%E6%B0%B4%E9%BE%99%E5%A4%B4%E5%BF%98%E5%85%B3+%E7%BD%91%E5%8F%8B%E8%81%94%E7%B3%BB%E4%BA%AC%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [两年全国至少新增10座国道收费站](https://www.baidu.com/s?wd=%E4%B8%A4%E5%B9%B4%E5%85%A8%E5%9B%BD%E8%87%B3%E5%B0%91%E6%96%B0%E5%A2%9E10%E5%BA%A7%E5%9B%BD%E9%81%93%E6%94%B6%E8%B4%B9%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杰克逊帽子戏法](https://www.baidu.com/s?wd=%E6%9D%B0%E5%85%8B%E9%80%8A%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳供电局辟谣只录取海归硕士](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BE%9B%E7%94%B5%E5%B1%80%E8%BE%9F%E8%B0%A3%E5%8F%AA%E5%BD%95%E5%8F%96%E6%B5%B7%E5%BD%92%E7%A1%95%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [董明珠首次回应孟羽童离职](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E5%AD%9F%E7%BE%BD%E7%AB%A5%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [与女主播发生关系寺庙住持被停职](https://www.baidu.com/s?wd=%E4%B8%8E%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E5%AF%BA%E5%BA%99%E4%BD%8F%E6%8C%81%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [刘强东老家水龙头忘关 网友联系京东](https://www.baidu.com/s?wd=%E5%88%98%E5%BC%BA%E4%B8%9C%E8%80%81%E5%AE%B6%E6%B0%B4%E9%BE%99%E5%A4%B4%E5%BF%98%E5%85%B3+%E7%BD%91%E5%8F%8B%E8%81%94%E7%B3%BB%E4%BA%AC%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [两年全国至少新增10座国道收费站](https://www.baidu.com/s?wd=%E4%B8%A4%E5%B9%B4%E5%85%A8%E5%9B%BD%E8%87%B3%E5%B0%91%E6%96%B0%E5%A2%9E10%E5%BA%A7%E5%9B%BD%E9%81%93%E6%94%B6%E8%B4%B9%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杰克逊帽子戏法](https://www.baidu.com/s?wd=%E6%9D%B0%E5%85%8B%E9%80%8A%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳供电局辟谣只录取海归硕士](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BE%9B%E7%94%B5%E5%B1%80%E8%BE%9F%E8%B0%A3%E5%8F%AA%E5%BD%95%E5%8F%96%E6%B5%B7%E5%BD%92%E7%A1%95%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
