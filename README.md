@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 00:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 00:34:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [促进创新成果更多惠及各国人民](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E5%88%9B%E6%96%B0%E6%88%90%E6%9E%9C%E6%9B%B4%E5%A4%9A%E6%83%A0%E5%8F%8A%E5%90%84%E5%9B%BD%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [90后月光族在间谍指导下考上公务员](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%88%E5%85%89%E6%97%8F%E5%9C%A8%E9%97%B4%E8%B0%8D%E6%8C%87%E5%AF%BC%E4%B8%8B%E8%80%83%E4%B8%8A%E5%85%AC%E5%8A%A1%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东北大学生正式确诊为华妃](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%8D%8E%E5%A6%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子尾随女子向其撒尿 警方介入调查](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B0%BE%E9%9A%8F%E5%A5%B3%E5%AD%90%E5%90%91%E5%85%B6%E6%92%92%E5%B0%BF+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [断头路无指示牌致多车出事故](https://www.baidu.com/s?wd=%E6%96%AD%E5%A4%B4%E8%B7%AF%E6%97%A0%E6%8C%87%E7%A4%BA%E7%89%8C%E8%87%B4%E5%A4%9A%E8%BD%A6%E5%87%BA%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大叔重学走路后拿90多个长跑奖牌](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E9%87%8D%E5%AD%A6%E8%B5%B0%E8%B7%AF%E5%90%8E%E6%8B%BF90%E5%A4%9A%E4%B8%AA%E9%95%BF%E8%B7%91%E5%A5%96%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [四川一油罐车爆炸燃烧 已致2死2伤](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%B2%B9%E7%BD%90%E8%BD%A6%E7%88%86%E7%82%B8%E7%87%83%E7%83%A7+%E5%B7%B2%E8%87%B42%E6%AD%BB2%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [23人感染H7N9死亡？医院辟谣](https://www.baidu.com/s?wd=23%E4%BA%BA%E6%84%9F%E6%9F%93H7N9%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%8C%BB%E9%99%A2%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [促进创新成果更多惠及各国人民](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E5%88%9B%E6%96%B0%E6%88%90%E6%9E%9C%E6%9B%B4%E5%A4%9A%E6%83%A0%E5%8F%8A%E5%90%84%E5%9B%BD%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [90后月光族在间谍指导下考上公务员](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%88%E5%85%89%E6%97%8F%E5%9C%A8%E9%97%B4%E8%B0%8D%E6%8C%87%E5%AF%BC%E4%B8%8B%E8%80%83%E4%B8%8A%E5%85%AC%E5%8A%A1%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东北大学生正式确诊为华妃](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%8D%8E%E5%A6%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子尾随女子向其撒尿 警方介入调查](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B0%BE%E9%9A%8F%E5%A5%B3%E5%AD%90%E5%90%91%E5%85%B6%E6%92%92%E5%B0%BF+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [断头路无指示牌致多车出事故](https://www.baidu.com/s?wd=%E6%96%AD%E5%A4%B4%E8%B7%AF%E6%97%A0%E6%8C%87%E7%A4%BA%E7%89%8C%E8%87%B4%E5%A4%9A%E8%BD%A6%E5%87%BA%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大叔重学走路后拿90多个长跑奖牌](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E9%87%8D%E5%AD%A6%E8%B5%B0%E8%B7%AF%E5%90%8E%E6%8B%BF90%E5%A4%9A%E4%B8%AA%E9%95%BF%E8%B7%91%E5%A5%96%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [四川一油罐车爆炸燃烧 已致2死2伤](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%B2%B9%E7%BD%90%E8%BD%A6%E7%88%86%E7%82%B8%E7%87%83%E7%83%A7+%E5%B7%B2%E8%87%B42%E6%AD%BB2%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [23人感染H7N9死亡？医院辟谣](https://www.baidu.com/s?wd=23%E4%BA%BA%E6%84%9F%E6%9F%93H7N9%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%8C%BB%E9%99%A2%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
