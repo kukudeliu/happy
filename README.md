@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 20:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 20:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为了省一块钱花了两千多](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BA%86%E7%9C%81%E4%B8%80%E5%9D%97%E9%92%B1%E8%8A%B1%E4%BA%86%E4%B8%A4%E5%8D%83%E5%A4%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [老人捡到4只丹顶鹤以为是山羊](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%8D%A1%E5%88%B04%E5%8F%AA%E4%B8%B9%E9%A1%B6%E9%B9%A4%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%B1%B1%E7%BE%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [四川雅安一油罐车爆燃引燃两货车](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%9B%85%E5%AE%89%E4%B8%80%E6%B2%B9%E7%BD%90%E8%BD%A6%E7%88%86%E7%87%83%E5%BC%95%E7%87%83%E4%B8%A4%E8%B4%A7%E8%BD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [爱奇艺用白鹿对打白鹿](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%94%A8%E7%99%BD%E9%B9%BF%E5%AF%B9%E6%89%93%E7%99%BD%E9%B9%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [宁安如梦](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
