@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 01:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 01:19:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [哈尔滨变成了“哈尔波特”](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%8F%98%E6%88%90%E4%BA%86%E2%80%9C%E5%93%88%E5%B0%94%E6%B3%A2%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [促进创新成果更多惠及各国人民](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E5%88%9B%E6%96%B0%E6%88%90%E6%9E%9C%E6%9B%B4%E5%A4%9A%E6%83%A0%E5%8F%8A%E5%90%84%E5%9B%BD%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [90后月光族在间谍指导下考上公务员](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%88%E5%85%89%E6%97%8F%E5%9C%A8%E9%97%B4%E8%B0%8D%E6%8C%87%E5%AF%BC%E4%B8%8B%E8%80%83%E4%B8%8A%E5%85%AC%E5%8A%A1%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [志愿者讲述卧底襄阳健桥医院经历](https://www.baidu.com/s?wd=%E5%BF%97%E6%84%BF%E8%80%85%E8%AE%B2%E8%BF%B0%E5%8D%A7%E5%BA%95%E8%A5%84%E9%98%B3%E5%81%A5%E6%A1%A5%E5%8C%BB%E9%99%A2%E7%BB%8F%E5%8E%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [被“出租”的残疾证](https://www.baidu.com/s?wd=%E8%A2%AB%E2%80%9C%E5%87%BA%E7%A7%9F%E2%80%9D%E7%9A%84%E6%AE%8B%E7%96%BE%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [刘强东老家水龙头忘关 网友联系京东](https://www.baidu.com/s?wd=%E5%88%98%E5%BC%BA%E4%B8%9C%E8%80%81%E5%AE%B6%E6%B0%B4%E9%BE%99%E5%A4%B4%E5%BF%98%E5%85%B3+%E7%BD%91%E5%8F%8B%E8%81%94%E7%B3%BB%E4%BA%AC%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [体育馆遇难者好友：最好的朋友走了](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E9%A6%86%E9%81%87%E9%9A%BE%E8%80%85%E5%A5%BD%E5%8F%8B%EF%BC%9A%E6%9C%80%E5%A5%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%E8%B5%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [刘强东老家水龙头忘关 网友联系京东](https://www.baidu.com/s?wd=%E5%88%98%E5%BC%BA%E4%B8%9C%E8%80%81%E5%AE%B6%E6%B0%B4%E9%BE%99%E5%A4%B4%E5%BF%98%E5%85%B3+%E7%BD%91%E5%8F%8B%E8%81%94%E7%B3%BB%E4%BA%AC%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [90后夫妻存100万靠利息生活](https://www.baidu.com/s?wd=90%E5%90%8E%E5%A4%AB%E5%A6%BB%E5%AD%98100%E4%B8%87%E9%9D%A0%E5%88%A9%E6%81%AF%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [23人感染H7N9死亡？医院辟谣](https://www.baidu.com/s?wd=23%E4%BA%BA%E6%84%9F%E6%9F%93H7N9%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%8C%BB%E9%99%A2%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [哈尔滨变成了“哈尔波特”](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%8F%98%E6%88%90%E4%BA%86%E2%80%9C%E5%93%88%E5%B0%94%E6%B3%A2%E7%89%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [促进创新成果更多惠及各国人民](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E5%88%9B%E6%96%B0%E6%88%90%E6%9E%9C%E6%9B%B4%E5%A4%9A%E6%83%A0%E5%8F%8A%E5%90%84%E5%9B%BD%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [90后月光族在间谍指导下考上公务员](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%88%E5%85%89%E6%97%8F%E5%9C%A8%E9%97%B4%E8%B0%8D%E6%8C%87%E5%AF%BC%E4%B8%8B%E8%80%83%E4%B8%8A%E5%85%AC%E5%8A%A1%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [志愿者讲述卧底襄阳健桥医院经历](https://www.baidu.com/s?wd=%E5%BF%97%E6%84%BF%E8%80%85%E8%AE%B2%E8%BF%B0%E5%8D%A7%E5%BA%95%E8%A5%84%E9%98%B3%E5%81%A5%E6%A1%A5%E5%8C%BB%E9%99%A2%E7%BB%8F%E5%8E%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [被“出租”的残疾证](https://www.baidu.com/s?wd=%E8%A2%AB%E2%80%9C%E5%87%BA%E7%A7%9F%E2%80%9D%E7%9A%84%E6%AE%8B%E7%96%BE%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [刘强东老家水龙头忘关 网友联系京东](https://www.baidu.com/s?wd=%E5%88%98%E5%BC%BA%E4%B8%9C%E8%80%81%E5%AE%B6%E6%B0%B4%E9%BE%99%E5%A4%B4%E5%BF%98%E5%85%B3+%E7%BD%91%E5%8F%8B%E8%81%94%E7%B3%BB%E4%BA%AC%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [体育馆遇难者好友：最好的朋友走了](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E9%A6%86%E9%81%87%E9%9A%BE%E8%80%85%E5%A5%BD%E5%8F%8B%EF%BC%9A%E6%9C%80%E5%A5%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%E8%B5%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [刘强东老家水龙头忘关 网友联系京东](https://www.baidu.com/s?wd=%E5%88%98%E5%BC%BA%E4%B8%9C%E8%80%81%E5%AE%B6%E6%B0%B4%E9%BE%99%E5%A4%B4%E5%BF%98%E5%85%B3+%E7%BD%91%E5%8F%8B%E8%81%94%E7%B3%BB%E4%BA%AC%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [90后夫妻存100万靠利息生活](https://www.baidu.com/s?wd=90%E5%90%8E%E5%A4%AB%E5%A6%BB%E5%AD%98100%E4%B8%87%E9%9D%A0%E5%88%A9%E6%81%AF%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [23人感染H7N9死亡？医院辟谣](https://www.baidu.com/s?wd=23%E4%BA%BA%E6%84%9F%E6%9F%93H7N9%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%8C%BB%E9%99%A2%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
