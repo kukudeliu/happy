@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 07:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 07:35:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [开放的中国 生机勃勃](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E7%9A%84%E4%B8%AD%E5%9B%BD+%E7%94%9F%E6%9C%BA%E5%8B%83%E5%8B%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [医院公开贩卖婴儿出生证 卫健委通报](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%85%AC%E5%BC%80%E8%B4%A9%E5%8D%96%E5%A9%B4%E5%84%BF%E5%87%BA%E7%94%9F%E8%AF%81+%E5%8D%AB%E5%81%A5%E5%A7%94%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [医院通报“乳腺外科团队多人患癌”](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E9%80%9A%E6%8A%A5%E2%80%9C%E4%B9%B3%E8%85%BA%E5%A4%96%E7%A7%91%E5%9B%A2%E9%98%9F%E5%A4%9A%E4%BA%BA%E6%82%A3%E7%99%8C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [90后月光族在间谍指导下考上公务员](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%88%E5%85%89%E6%97%8F%E5%9C%A8%E9%97%B4%E8%B0%8D%E6%8C%87%E5%AF%BC%E4%B8%8B%E8%80%83%E4%B8%8A%E5%85%AC%E5%8A%A1%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [促进创新成果更多惠及各国人民](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E5%88%9B%E6%96%B0%E6%88%90%E6%9E%9C%E6%9B%B4%E5%A4%9A%E6%83%A0%E5%8F%8A%E5%90%84%E5%9B%BD%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [新疆克州凌晨连发6起地震 最高5.4级](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%85%8B%E5%B7%9E%E5%87%8C%E6%99%A8%E8%BF%9E%E5%8F%916%E8%B5%B7%E5%9C%B0%E9%9C%87+%E6%9C%80%E9%AB%985.4%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [开放的中国 生机勃勃](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E7%9A%84%E4%B8%AD%E5%9B%BD+%E7%94%9F%E6%9C%BA%E5%8B%83%E5%8B%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [医院公开贩卖婴儿出生证 卫健委通报](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%85%AC%E5%BC%80%E8%B4%A9%E5%8D%96%E5%A9%B4%E5%84%BF%E5%87%BA%E7%94%9F%E8%AF%81+%E5%8D%AB%E5%81%A5%E5%A7%94%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [医院通报“乳腺外科团队多人患癌”](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E9%80%9A%E6%8A%A5%E2%80%9C%E4%B9%B3%E8%85%BA%E5%A4%96%E7%A7%91%E5%9B%A2%E9%98%9F%E5%A4%9A%E4%BA%BA%E6%82%A3%E7%99%8C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [90后月光族在间谍指导下考上公务员](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%88%E5%85%89%E6%97%8F%E5%9C%A8%E9%97%B4%E8%B0%8D%E6%8C%87%E5%AF%BC%E4%B8%8B%E8%80%83%E4%B8%8A%E5%85%AC%E5%8A%A1%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [促进创新成果更多惠及各国人民](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E5%88%9B%E6%96%B0%E6%88%90%E6%9E%9C%E6%9B%B4%E5%A4%9A%E6%83%A0%E5%8F%8A%E5%90%84%E5%9B%BD%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [新疆克州凌晨连发6起地震 最高5.4级](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%85%8B%E5%B7%9E%E5%87%8C%E6%99%A8%E8%BF%9E%E5%8F%916%E8%B5%B7%E5%9C%B0%E9%9C%87+%E6%9C%80%E9%AB%985.4%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
