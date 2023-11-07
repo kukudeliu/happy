@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 16:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 16:45:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [AI眼中的中国](https://s.weibo.com/weibo?q=%23AI%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [比砒霜还毒900倍的致癌物](https://s.weibo.com/weibo?q=%23%E6%AF%94%E7%A0%92%E9%9C%9C%E8%BF%98%E6%AF%92900%E5%80%8D%E7%9A%84%E8%87%B4%E7%99%8C%E7%89%A9%23&t=31&band_rank=4&Refer=top)<br />
 5. [朱丹说叫错人名是心魔](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%B9%E8%AF%B4%E5%8F%AB%E9%94%99%E4%BA%BA%E5%90%8D%E6%98%AF%E5%BF%83%E9%AD%94%23&t=31&band_rank=5&Refer=top)<br />
-6. [轨是昨天出的 人是今天没的](https://s.weibo.com/weibo?q=%E8%BD%A8%E6%98%AF%E6%98%A8%E5%A4%A9%E5%87%BA%E7%9A%84%20%E4%BA%BA%E6%98%AF%E4%BB%8A%E5%A4%A9%E6%B2%A1%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
+6. [中山二院辟谣乳腺外科团队学生患癌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E8%BE%9F%E8%B0%A3%E4%B9%B3%E8%85%BA%E5%A4%96%E7%A7%91%E5%9B%A2%E9%98%9F%E5%AD%A6%E7%94%9F%E6%82%A3%E7%99%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [金莎男友为追她给她做了100多道菜](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%E4%B8%BA%E8%BF%BD%E5%A5%B9%E7%BB%99%E5%A5%B9%E5%81%9A%E4%BA%86100%E5%A4%9A%E9%81%93%E8%8F%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [广西6岁女孩沙滩走失遗体被发现](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF6%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%B2%99%E6%BB%A9%E8%B5%B0%E5%A4%B1%E9%81%97%E4%BD%93%E8%A2%AB%E5%8F%91%E7%8E%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [35岁女子在香港做泥瓦工月入10万](https://s.weibo.com/weibo?q=%2335%E5%B2%81%E5%A5%B3%E5%AD%90%E5%9C%A8%E9%A6%99%E6%B8%AF%E5%81%9A%E6%B3%A5%E7%93%A6%E5%B7%A5%E6%9C%88%E5%85%A510%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [轨是昨天出的 人是今天没的](https://s.weibo.com/weibo?q=%E8%BD%A8%E6%98%AF%E6%98%A8%E5%A4%A9%E5%87%BA%E7%9A%84%20%E4%BA%BA%E6%98%AF%E4%BB%8A%E5%A4%A9%E6%B2%A1%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
+9. [广西6岁女孩沙滩走失遗体被发现](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF6%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%B2%99%E6%BB%A9%E8%B5%B0%E5%A4%B1%E9%81%97%E4%BD%93%E8%A2%AB%E5%8F%91%E7%8E%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
