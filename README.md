@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 16:26:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 16:27:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [轨是昨天出的 人是今天没的](https://s.weibo.com/weibo?q=%E8%BD%A8%E6%98%AF%E6%98%A8%E5%A4%A9%E5%87%BA%E7%9A%84%20%E4%BA%BA%E6%98%AF%E4%BB%8A%E5%A4%A9%E6%B2%A1%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
 7. [35岁女子在香港做泥瓦工月入10万](https://s.weibo.com/weibo?q=%2335%E5%B2%81%E5%A5%B3%E5%AD%90%E5%9C%A8%E9%A6%99%E6%B8%AF%E5%81%9A%E6%B3%A5%E7%93%A6%E5%B7%A5%E6%9C%88%E5%85%A510%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [甄嬛出轨是我听到最荒谬的笑话](https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E5%87%BA%E8%BD%A8%E6%98%AF%E6%88%91%E5%90%AC%E5%88%B0%E6%9C%80%E8%8D%92%E8%B0%AC%E7%9A%84%E7%AC%91%E8%AF%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [警方回应男子冻死街头](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E5%86%BB%E6%AD%BB%E8%A1%97%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [淄博烧烤从业者现在都怎么样了](https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E4%BB%8E%E4%B8%9A%E8%80%85%E7%8E%B0%E5%9C%A8%E9%83%BD%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
