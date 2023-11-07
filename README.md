@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 11:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 11:45:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [节奏大师回归](https://s.weibo.com/weibo?q=%E8%8A%82%E5%A5%8F%E5%A4%A7%E5%B8%88%E5%9B%9E%E5%BD%92&t=31&band_rank=4&Refer=top)<br />
 5. [警方检方回应网传4岁半女童遭杀害](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E6%A3%80%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A04%E5%B2%81%E5%8D%8A%E5%A5%B3%E7%AB%A5%E9%81%AD%E6%9D%80%E5%AE%B3%23&t=31&band_rank=5&Refer=top)<br />
 6. [肖战 宝诗龙](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E5%AE%9D%E8%AF%97%E9%BE%99&t=31&band_rank=6&Refer=top)<br />
-7. [景甜找对了审美 许凯回到了正轨](https://s.weibo.com/weibo?q=%E6%99%AF%E7%94%9C%E6%89%BE%E5%AF%B9%E4%BA%86%E5%AE%A1%E7%BE%8E%20%E8%AE%B8%E5%87%AF%E5%9B%9E%E5%88%B0%E4%BA%86%E6%AD%A3%E8%BD%A8&t=31&band_rank=7&Refer=top)<br />
-8. [轨是昨天出的 人是今天没的](https://s.weibo.com/weibo?q=%E8%BD%A8%E6%98%AF%E6%98%A8%E5%A4%A9%E5%87%BA%E7%9A%84%20%E4%BA%BA%E6%98%AF%E4%BB%8A%E5%A4%A9%E6%B2%A1%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
-9. [ZZxinqing](https://s.weibo.com/weibo?q=ZZxinqing&t=31&band_rank=9&Refer=top)<br />
+7. [轨是昨天出的 人是今天没的](https://s.weibo.com/weibo?q=%E8%BD%A8%E6%98%AF%E6%98%A8%E5%A4%A9%E5%87%BA%E7%9A%84%20%E4%BA%BA%E6%98%AF%E4%BB%8A%E5%A4%A9%E6%B2%A1%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
+8. [ZZxinqing](https://s.weibo.com/weibo?q=ZZxinqing&t=31&band_rank=8&Refer=top)<br />
+9. [景甜找对了审美 许凯回到了正轨](https://s.weibo.com/weibo?q=%E6%99%AF%E7%94%9C%E6%89%BE%E5%AF%B9%E4%BA%86%E5%AE%A1%E7%BE%8E%20%E8%AE%B8%E5%87%AF%E5%9B%9E%E5%88%B0%E4%BA%86%E6%AD%A3%E8%BD%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
