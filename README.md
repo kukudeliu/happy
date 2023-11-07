@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 14:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-07 14:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [河南多人贷款买房被银行办了消费贷](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E4%BA%BA%E8%B4%B7%E6%AC%BE%E4%B9%B0%E6%88%BF%E8%A2%AB%E9%93%B6%E8%A1%8C%E5%8A%9E%E4%BA%86%E6%B6%88%E8%B4%B9%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [#建议取消龙门架上面的射灯#](https://www.baidu.com/s?wd=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E9%BE%99%E9%97%A8%E6%9E%B6%E4%B8%8A%E9%9D%A2%E7%9A%84%E5%B0%84%E7%81%AF%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [果郡王口碑一夜逆转](https://www.baidu.com/s?wd=%E6%9E%9C%E9%83%A1%E7%8E%8B%E5%8F%A3%E7%A2%91%E4%B8%80%E5%A4%9C%E9%80%86%E8%BD%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度多地空气污染新德里小学停课](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%A4%9A%E5%9C%B0%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93%E6%96%B0%E5%BE%B7%E9%87%8C%E5%B0%8F%E5%AD%A6%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中戏教授点评张小斐演技](https://www.baidu.com/s?wd=%E4%B8%AD%E6%88%8F%E6%95%99%E6%8E%88%E7%82%B9%E8%AF%84%E5%BC%A0%E5%B0%8F%E6%96%90%E6%BC%94%E6%8A%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳供电局辟谣只录取海归硕士](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BE%9B%E7%94%B5%E5%B1%80%E8%BE%9F%E8%B0%A3%E5%8F%AA%E5%BD%95%E5%8F%96%E6%B5%B7%E5%BD%92%E7%A1%95%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [河南多人贷款买房被银行办了消费贷](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E4%BA%BA%E8%B4%B7%E6%AC%BE%E4%B9%B0%E6%88%BF%E8%A2%AB%E9%93%B6%E8%A1%8C%E5%8A%9E%E4%BA%86%E6%B6%88%E8%B4%B9%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [#建议取消龙门架上面的射灯#](https://www.baidu.com/s?wd=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E9%BE%99%E9%97%A8%E6%9E%B6%E4%B8%8A%E9%9D%A2%E7%9A%84%E5%B0%84%E7%81%AF%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [果郡王口碑一夜逆转](https://www.baidu.com/s?wd=%E6%9E%9C%E9%83%A1%E7%8E%8B%E5%8F%A3%E7%A2%91%E4%B8%80%E5%A4%9C%E9%80%86%E8%BD%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度多地空气污染新德里小学停课](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%A4%9A%E5%9C%B0%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93%E6%96%B0%E5%BE%B7%E9%87%8C%E5%B0%8F%E5%AD%A6%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中戏教授点评张小斐演技](https://www.baidu.com/s?wd=%E4%B8%AD%E6%88%8F%E6%95%99%E6%8E%88%E7%82%B9%E8%AF%84%E5%BC%A0%E5%B0%8F%E6%96%90%E6%BC%94%E6%8A%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳供电局辟谣只录取海归硕士](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%BE%9B%E7%94%B5%E5%B1%80%E8%BE%9F%E8%B0%A3%E5%8F%AA%E5%BD%95%E5%8F%96%E6%B5%B7%E5%BD%92%E7%A1%95%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
