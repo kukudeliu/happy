@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 03:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 03:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [系统Bug？南航多航线机票低至10元](https://www.baidu.com/s?wd=%E7%B3%BB%E7%BB%9FBug%EF%BC%9F%E5%8D%97%E8%88%AA%E5%A4%9A%E8%88%AA%E7%BA%BF%E6%9C%BA%E7%A5%A8%E4%BD%8E%E8%87%B310%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [这么多年了 唐僧还是这窝囊劲儿](https://www.baidu.com/s?wd=%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B9%B4%E4%BA%86+%E5%94%90%E5%83%A7%E8%BF%98%E6%98%AF%E8%BF%99%E7%AA%9D%E5%9B%8A%E5%8A%B2%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [仲尼溺亡 妻子卡琳娜掩面而泣](https://www.baidu.com/s?wd=%E4%BB%B2%E5%B0%BC%E6%BA%BA%E4%BA%A1+%E5%A6%BB%E5%AD%90%E5%8D%A1%E7%90%B3%E5%A8%9C%E6%8E%A9%E9%9D%A2%E8%80%8C%E6%B3%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“吗喽”占领了年轻人的生活圈](https://www.baidu.com/s?wd=%E2%80%9C%E5%90%97%E5%96%BD%E2%80%9D%E5%8D%A0%E9%A2%86%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [白宫就内塔尼亚胡言论发警告](https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E5%B0%B1%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E8%A8%80%E8%AE%BA%E5%8F%91%E8%AD%A6%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [喝酒防寒、吃高热量食物暖身？](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E9%98%B2%E5%AF%92%E3%80%81%E5%90%83%E9%AB%98%E7%83%AD%E9%87%8F%E9%A3%9F%E7%89%A9%E6%9A%96%E8%BA%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [系统Bug？南航多航线机票低至10元](https://www.baidu.com/s?wd=%E7%B3%BB%E7%BB%9FBug%EF%BC%9F%E5%8D%97%E8%88%AA%E5%A4%9A%E8%88%AA%E7%BA%BF%E6%9C%BA%E7%A5%A8%E4%BD%8E%E8%87%B310%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [这么多年了 唐僧还是这窝囊劲儿](https://www.baidu.com/s?wd=%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B9%B4%E4%BA%86+%E5%94%90%E5%83%A7%E8%BF%98%E6%98%AF%E8%BF%99%E7%AA%9D%E5%9B%8A%E5%8A%B2%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [仲尼溺亡 妻子卡琳娜掩面而泣](https://www.baidu.com/s?wd=%E4%BB%B2%E5%B0%BC%E6%BA%BA%E4%BA%A1+%E5%A6%BB%E5%AD%90%E5%8D%A1%E7%90%B3%E5%A8%9C%E6%8E%A9%E9%9D%A2%E8%80%8C%E6%B3%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“吗喽”占领了年轻人的生活圈](https://www.baidu.com/s?wd=%E2%80%9C%E5%90%97%E5%96%BD%E2%80%9D%E5%8D%A0%E9%A2%86%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [白宫就内塔尼亚胡言论发警告](https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E5%B0%B1%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E8%A8%80%E8%AE%BA%E5%8F%91%E8%AD%A6%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [喝酒防寒、吃高热量食物暖身？](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E9%98%B2%E5%AF%92%E3%80%81%E5%90%83%E9%AB%98%E7%83%AD%E9%87%8F%E9%A3%9F%E7%89%A9%E6%9A%96%E8%BA%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
