@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 11:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 11:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [金莎男友 大学生勇闯娱乐圈](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%20%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8B%87%E9%97%AF%E5%A8%B1%E4%B9%90%E5%9C%88&t=31&band_rank=6&Refer=top)<br />
 7. [宁安如梦 歹毒运镜](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E6%AD%B9%E6%AF%92%E8%BF%90%E9%95%9C&t=31&band_rank=7&Refer=top)<br />
 8. [立冬吃饺子](https://s.weibo.com/weibo?q=%23%E7%AB%8B%E5%86%AC%E5%90%83%E9%A5%BA%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘亦菲于适配音迪士尼新片星愿](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%BA%8E%E9%80%82%E9%85%8D%E9%9F%B3%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%96%B0%E7%89%87%E6%98%9F%E6%84%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [90后公务员泄密获刑](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%85%AC%E5%8A%A1%E5%91%98%E6%B3%84%E5%AF%86%E8%8E%B7%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
