@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 14:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 14:04:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [中山二院通报“乳腺外科多人患癌”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E9%80%9A%E6%8A%A5%E2%80%9C%E4%B9%B3%E8%85%BA%E5%A4%96%E7%A7%91%E5%A4%9A%E4%BA%BA%E6%82%A3%E7%99%8C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [落马干部发条短信获700万感谢费](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%B9%B2%E9%83%A8%E5%8F%91%E6%9D%A1%E7%9F%AD%E4%BF%A1%E8%8E%B7700%E4%B8%87%E6%84%9F%E8%B0%A2%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [扬州女子捂死女儿后跳楼？当地回应](https://www.baidu.com/s?wd=%E6%89%AC%E5%B7%9E%E5%A5%B3%E5%AD%90%E6%8D%82%E6%AD%BB%E5%A5%B3%E5%84%BF%E5%90%8E%E8%B7%B3%E6%A5%BC%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [央视曝光网店爆款背后水军](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BD%91%E5%BA%97%E7%88%86%E6%AC%BE%E8%83%8C%E5%90%8E%E6%B0%B4%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [渐冻症小伙两根手指写了本小说](https://www.baidu.com/s?wd=%E6%B8%90%E5%86%BB%E7%97%87%E5%B0%8F%E4%BC%99%E4%B8%A4%E6%A0%B9%E6%89%8B%E6%8C%87%E5%86%99%E4%BA%86%E6%9C%AC%E5%B0%8F%E8%AF%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣渝北车祸两死一伤](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E6%B8%9D%E5%8C%97%E8%BD%A6%E7%A5%B8%E4%B8%A4%E6%AD%BB%E4%B8%80%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [中山二院通报“乳腺外科多人患癌”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E9%80%9A%E6%8A%A5%E2%80%9C%E4%B9%B3%E8%85%BA%E5%A4%96%E7%A7%91%E5%A4%9A%E4%BA%BA%E6%82%A3%E7%99%8C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [落马干部发条短信获700万感谢费](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%B9%B2%E9%83%A8%E5%8F%91%E6%9D%A1%E7%9F%AD%E4%BF%A1%E8%8E%B7700%E4%B8%87%E6%84%9F%E8%B0%A2%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [扬州女子捂死女儿后跳楼？当地回应](https://www.baidu.com/s?wd=%E6%89%AC%E5%B7%9E%E5%A5%B3%E5%AD%90%E6%8D%82%E6%AD%BB%E5%A5%B3%E5%84%BF%E5%90%8E%E8%B7%B3%E6%A5%BC%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [央视曝光网店爆款背后水军](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BD%91%E5%BA%97%E7%88%86%E6%AC%BE%E8%83%8C%E5%90%8E%E6%B0%B4%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [渐冻症小伙两根手指写了本小说](https://www.baidu.com/s?wd=%E6%B8%90%E5%86%BB%E7%97%87%E5%B0%8F%E4%BC%99%E4%B8%A4%E6%A0%B9%E6%89%8B%E6%8C%87%E5%86%99%E4%BA%86%E6%9C%AC%E5%B0%8F%E8%AF%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣渝北车祸两死一伤](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E6%B8%9D%E5%8C%97%E8%BD%A6%E7%A5%B8%E4%B8%A4%E6%AD%BB%E4%B8%80%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
