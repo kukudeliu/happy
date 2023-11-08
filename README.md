@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 11:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 11:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [姜珮瑶 明媚的美](https://s.weibo.com/weibo?q=%E5%A7%9C%E7%8F%AE%E7%91%B6%20%E6%98%8E%E5%AA%9A%E7%9A%84%E7%BE%8E&t=31&band_rank=6&Refer=top)<br />
 7. [宁安如梦 歹毒运镜](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E6%AD%B9%E6%AF%92%E8%BF%90%E9%95%9C&t=31&band_rank=7&Refer=top)<br />
 8. [刘亦菲于适配音迪士尼新片星愿](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%BA%8E%E9%80%82%E9%85%8D%E9%9F%B3%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%96%B0%E7%89%87%E6%98%9F%E6%84%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [教资成绩](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E6%88%90%E7%BB%A9&t=31&band_rank=9&Refer=top)<br />
+9. [立冬吃饺子](https://s.weibo.com/weibo?q=%23%E7%AB%8B%E5%86%AC%E5%90%83%E9%A5%BA%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
