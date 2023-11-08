@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 23:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 23:11:01</h4></div>
 
 > 微博  
 
-1. [一名34岁中国男性在巴厘岛遇难](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%90%8D34%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%80%A7%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top)<br />
-2. [仲尼在巴厘岛遇难](https://s.weibo.com/weibo?q=%23%E4%BB%B2%E5%B0%BC%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E9%81%87%E9%9A%BE%23&t=31&band_rank=2&Refer=top)<br />
+1. [仲尼在巴厘岛遇难](https://s.weibo.com/weibo?q=%23%E4%BB%B2%E5%B0%BC%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top)<br />
+2. [瑞幸 罗翔](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%20%E7%BD%97%E7%BF%94&t=31&band_rank=2&Refer=top)<br />
 3. [2023世界互联网大会乌镇峰会](https://s.weibo.com/weibo?q=%232023%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [瑞幸 罗翔](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%20%E7%BD%97%E7%BF%94&t=31&band_rank=4&Refer=top)<br />
-5. [中山二院癌症患者黄某家属发声](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E9%BB%84%E6%9F%90%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
+4. [中山二院癌症患者黄某家属发声](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E9%BB%84%E6%9F%90%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
+5. [一名34岁中国男性在巴厘岛遇难](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%90%8D34%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%80%A7%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E9%81%87%E9%9A%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [南航](https://s.weibo.com/weibo?q=%E5%8D%97%E8%88%AA&t=31&band_rank=6&Refer=top)<br />
 7. [花少5第一次真正的矛盾来了](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%915%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%9F%9B%E7%9B%BE%E6%9D%A5%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [中山二院人士回应乳腺肿瘤实验室已拆除](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94%E4%B9%B3%E8%85%BA%E8%82%BF%E7%98%A4%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%B7%B2%E6%8B%86%E9%99%A4%23&t=31&band_rank=8&Refer=top)<br />
