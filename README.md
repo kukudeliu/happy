@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 00:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 00:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [系统Bug？南航多航线机票低至10元](https://www.baidu.com/s?wd=%E7%B3%BB%E7%BB%9FBug%EF%BC%9F%E5%8D%97%E8%88%AA%E5%A4%9A%E8%88%AA%E7%BA%BF%E6%9C%BA%E7%A5%A8%E4%BD%8E%E8%87%B310%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网红仲尼系生日当天溺亡](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%BB%B2%E5%B0%BC%E7%B3%BB%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [仲尼溺亡 妻子卡琳娜掩面而泣](https://www.baidu.com/s?wd=%E4%BB%B2%E5%B0%BC%E6%BA%BA%E4%BA%A1+%E5%A6%BB%E5%AD%90%E5%8D%A1%E7%90%B3%E5%A8%9C%E6%8E%A9%E9%9D%A2%E8%80%8C%E6%B3%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中山二院疑云：有无男性乳腺癌患者](https://www.baidu.com/s?wd=%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%96%91%E4%BA%91%EF%BC%9A%E6%9C%89%E6%97%A0%E7%94%B7%E6%80%A7%E4%B9%B3%E8%85%BA%E7%99%8C%E6%82%A3%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印尼班达海7.1级地震或引发局地海啸](https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC%E7%8F%AD%E8%BE%BE%E6%B5%B77.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%88%96%E5%BC%95%E5%8F%91%E5%B1%80%E5%9C%B0%E6%B5%B7%E5%95%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [喝酒防寒、吃高热量食物暖身？](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E9%98%B2%E5%AF%92%E3%80%81%E5%90%83%E9%AB%98%E7%83%AD%E9%87%8F%E9%A3%9F%E7%89%A9%E6%9A%96%E8%BA%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [系统Bug？南航多航线机票低至10元](https://www.baidu.com/s?wd=%E7%B3%BB%E7%BB%9FBug%EF%BC%9F%E5%8D%97%E8%88%AA%E5%A4%9A%E8%88%AA%E7%BA%BF%E6%9C%BA%E7%A5%A8%E4%BD%8E%E8%87%B310%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网红仲尼系生日当天溺亡](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%BB%B2%E5%B0%BC%E7%B3%BB%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [仲尼溺亡 妻子卡琳娜掩面而泣](https://www.baidu.com/s?wd=%E4%BB%B2%E5%B0%BC%E6%BA%BA%E4%BA%A1+%E5%A6%BB%E5%AD%90%E5%8D%A1%E7%90%B3%E5%A8%9C%E6%8E%A9%E9%9D%A2%E8%80%8C%E6%B3%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中山二院疑云：有无男性乳腺癌患者](https://www.baidu.com/s?wd=%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%96%91%E4%BA%91%EF%BC%9A%E6%9C%89%E6%97%A0%E7%94%B7%E6%80%A7%E4%B9%B3%E8%85%BA%E7%99%8C%E6%82%A3%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印尼班达海7.1级地震或引发局地海啸](https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC%E7%8F%AD%E8%BE%BE%E6%B5%B77.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%88%96%E5%BC%95%E5%8F%91%E5%B1%80%E5%9C%B0%E6%B5%B7%E5%95%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [喝酒防寒、吃高热量食物暖身？](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E9%98%B2%E5%AF%92%E3%80%81%E5%90%83%E9%AB%98%E7%83%AD%E9%87%8F%E9%A3%9F%E7%89%A9%E6%9A%96%E8%BA%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
