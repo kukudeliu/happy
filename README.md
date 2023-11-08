@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 21:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 21:16:01</h4></div>
 
 > 微博  
 
 1. [一名34岁中国男性在巴厘岛遇难](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%90%8D34%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%80%A7%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top)<br />
 2. [中山二院癌症患者黄某家属发声](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E9%BB%84%E6%9F%90%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=2&Refer=top)<br />
 3. [乌镇网事](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%95%87%E7%BD%91%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
-4. [刘恺威肘击颖儿](https://s.weibo.com/weibo?q=%E5%88%98%E6%81%BA%E5%A8%81%E8%82%98%E5%87%BB%E9%A2%96%E5%84%BF&t=31&band_rank=4&Refer=top)<br />
-5. [揭露三鹿毒奶粉的记者现在怎么样了](https://s.weibo.com/weibo?q=%E6%8F%AD%E9%9C%B2%E4%B8%89%E9%B9%BF%E6%AF%92%E5%A5%B6%E7%B2%89%E7%9A%84%E8%AE%B0%E8%80%85%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
+4. [揭露三鹿毒奶粉的记者现在怎么样了](https://s.weibo.com/weibo?q=%E6%8F%AD%E9%9C%B2%E4%B8%89%E9%B9%BF%E6%AF%92%E5%A5%B6%E7%B2%89%E7%9A%84%E8%AE%B0%E8%80%85%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
+5. [刘恺威肘击颖儿](https://s.weibo.com/weibo?q=%E5%88%98%E6%81%BA%E5%A8%81%E8%82%98%E5%87%BB%E9%A2%96%E5%84%BF&t=31&band_rank=5&Refer=top)<br />
 6. [花少5第一次真正的矛盾来了](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%915%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%9F%9B%E7%9B%BE%E6%9D%A5%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [papi酱又出rap了](https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E5%8F%88%E5%87%BArap%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [王安宇 内耗](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%20%E5%86%85%E8%80%97&t=31&band_rank=8&Refer=top)<br />
