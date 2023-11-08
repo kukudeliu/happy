@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 21:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 21:57:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 > 百度  
 
 1. [习近平倡导构建网络空间命运共同体](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%80%A1%E5%AF%BC%E6%9E%84%E5%BB%BA%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [#卡琳娜老公仲尼在巴厘岛溺亡#](https://www.baidu.com/s?wd=%23%E4%BB%B2%E5%B0%BC%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E6%BA%BA%E4%BA%A1%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [医院回应涉癌实验室拆除：消防检查](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%B6%89%E7%99%8C%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%8B%86%E9%99%A4%EF%BC%9A%E6%B6%88%E9%98%B2%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [医院回应涉癌实验室拆除：消防检查](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%B6%89%E7%99%8C%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%8B%86%E9%99%A4%EF%BC%9A%E6%B6%88%E9%98%B2%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [#卡琳娜老公仲尼在巴厘岛溺亡#](https://www.baidu.com/s?wd=%23%E4%BB%B2%E5%B0%BC%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E6%BA%BA%E4%BA%A1%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共赴十年之约](https://www.baidu.com/s?wd=%E5%85%B1%E8%B5%B4%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [金融监管“一把手”重磅发声](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E2%80%9C%E4%B8%80%E6%8A%8A%E6%89%8B%E2%80%9D%E9%87%8D%E7%A3%85%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [106岁开国少将文击逝世](https://www.baidu.com/s?wd=106%E5%B2%81%E5%BC%80%E5%9B%BD%E5%B0%91%E5%B0%86%E6%96%87%E5%87%BB%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,8 +30,8 @@
 > 哔哩哔哩  
 
 1. [习近平倡导构建网络空间命运共同体](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%80%A1%E5%AF%BC%E6%9E%84%E5%BB%BA%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [#卡琳娜老公仲尼在巴厘岛溺亡#](https://www.baidu.com/s?wd=%23%E4%BB%B2%E5%B0%BC%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E6%BA%BA%E4%BA%A1%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [医院回应涉癌实验室拆除：消防检查](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%B6%89%E7%99%8C%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%8B%86%E9%99%A4%EF%BC%9A%E6%B6%88%E9%98%B2%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [医院回应涉癌实验室拆除：消防检查](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%B6%89%E7%99%8C%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%8B%86%E9%99%A4%EF%BC%9A%E6%B6%88%E9%98%B2%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [#卡琳娜老公仲尼在巴厘岛溺亡#](https://www.baidu.com/s?wd=%23%E4%BB%B2%E5%B0%BC%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E6%BA%BA%E4%BA%A1%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共赴十年之约](https://www.baidu.com/s?wd=%E5%85%B1%E8%B5%B4%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [金融监管“一把手”重磅发声](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E2%80%9C%E4%B8%80%E6%8A%8A%E6%89%8B%E2%80%9D%E9%87%8D%E7%A3%85%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [106岁开国少将文击逝世](https://www.baidu.com/s?wd=106%E5%B2%81%E5%BC%80%E5%9B%BD%E5%B0%91%E5%B0%86%E6%96%87%E5%87%BB%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
