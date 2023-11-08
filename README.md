@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 23:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 23:05:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [#卡琳娜老公仲尼在巴厘岛溺亡#](https://www.baidu.com/s?wd=%23%E4%BB%B2%E5%B0%BC%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E6%BA%BA%E4%BA%A1%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共赴十年之约](https://www.baidu.com/s?wd=%E5%85%B1%E8%B5%B4%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [系统Bug？南航多航线机票低至10元](https://www.baidu.com/s?wd=%E7%B3%BB%E7%BB%9FBug%EF%BC%9F%E5%8D%97%E8%88%AA%E5%A4%9A%E8%88%AA%E7%BA%BF%E6%9C%BA%E7%A5%A8%E4%BD%8E%E8%87%B310%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [两架运-20向尼泊尔运送救援物资](https://www.baidu.com/s?wd=%E4%B8%A4%E6%9E%B6%E8%BF%90-20%E5%90%91%E5%B0%BC%E6%B3%8A%E5%B0%94%E8%BF%90%E9%80%81%E6%95%91%E6%8F%B4%E7%89%A9%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [106岁开国少将文击逝世](https://www.baidu.com/s?wd=106%E5%B2%81%E5%BC%80%E5%9B%BD%E5%B0%91%E5%B0%86%E6%96%87%E5%87%BB%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [106岁开国少将文击逝世](https://www.baidu.com/s?wd=106%E5%B2%81%E5%BC%80%E5%9B%BD%E5%B0%91%E5%B0%86%E6%96%87%E5%87%BB%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [学生看演唱会被导员要求删朋友圈](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%AF%BC%E5%91%98%E8%A6%81%E6%B1%82%E5%88%A0%E6%9C%8B%E5%8F%8B%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网红仲尼系生日当天溺亡](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%BB%B2%E5%B0%BC%E7%B3%BB%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [冀X车牌进京无需进京证？假的](https://www.baidu.com/s?wd=%E5%86%80X%E8%BD%A6%E7%89%8C%E8%BF%9B%E4%BA%AC%E6%97%A0%E9%9C%80%E8%BF%9B%E4%BA%AC%E8%AF%81%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [#卡琳娜老公仲尼在巴厘岛溺亡#](https://www.baidu.com/s?wd=%23%E4%BB%B2%E5%B0%BC%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E6%BA%BA%E4%BA%A1%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共赴十年之约](https://www.baidu.com/s?wd=%E5%85%B1%E8%B5%B4%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [系统Bug？南航多航线机票低至10元](https://www.baidu.com/s?wd=%E7%B3%BB%E7%BB%9FBug%EF%BC%9F%E5%8D%97%E8%88%AA%E5%A4%9A%E8%88%AA%E7%BA%BF%E6%9C%BA%E7%A5%A8%E4%BD%8E%E8%87%B310%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [两架运-20向尼泊尔运送救援物资](https://www.baidu.com/s?wd=%E4%B8%A4%E6%9E%B6%E8%BF%90-20%E5%90%91%E5%B0%BC%E6%B3%8A%E5%B0%94%E8%BF%90%E9%80%81%E6%95%91%E6%8F%B4%E7%89%A9%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [106岁开国少将文击逝世](https://www.baidu.com/s?wd=106%E5%B2%81%E5%BC%80%E5%9B%BD%E5%B0%91%E5%B0%86%E6%96%87%E5%87%BB%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [106岁开国少将文击逝世](https://www.baidu.com/s?wd=106%E5%B2%81%E5%BC%80%E5%9B%BD%E5%B0%91%E5%B0%86%E6%96%87%E5%87%BB%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [学生看演唱会被导员要求删朋友圈](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%AF%BC%E5%91%98%E8%A6%81%E6%B1%82%E5%88%A0%E6%9C%8B%E5%8F%8B%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网红仲尼系生日当天溺亡](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%BB%B2%E5%B0%BC%E7%B3%BB%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [冀X车牌进京无需进京证？假的](https://www.baidu.com/s?wd=%E5%86%80X%E8%BD%A6%E7%89%8C%E8%BF%9B%E4%BA%AC%E6%97%A0%E9%9C%80%E8%BF%9B%E4%BA%AC%E8%AF%81%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
