@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 18:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 18:56:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [中山二院癌症患者黄某家属发声](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E9%BB%84%E6%9F%90%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [东北爸爸有多配合女儿玩雪](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E7%88%B8%E7%88%B8%E6%9C%89%E5%A4%9A%E9%85%8D%E5%90%88%E5%A5%B3%E5%84%BF%E7%8E%A9%E9%9B%AA%23&t=31&band_rank=5&Refer=top)<br />
 6. [花少5第一次真正的矛盾来了](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%915%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%9F%9B%E7%9B%BE%E6%9D%A5%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [大学生偶遇周鸿祎当场投简历](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%81%B6%E9%81%87%E5%91%A8%E9%B8%BF%E7%A5%8E%E5%BD%93%E5%9C%BA%E6%8A%95%E7%AE%80%E5%8E%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [美香 回国](https://s.weibo.com/weibo?q=%E7%BE%8E%E9%A6%99%20%E5%9B%9E%E5%9B%BD&t=31&band_rank=8&Refer=top)<br />
-9. [孟羽童在职曾发65篇非格力产品内容](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%BD%E7%AB%A5%E5%9C%A8%E8%81%8C%E6%9B%BE%E5%8F%9165%E7%AF%87%E9%9D%9E%E6%A0%BC%E5%8A%9B%E4%BA%A7%E5%93%81%E5%86%85%E5%AE%B9%23&t=31&band_rank=9&Refer=top)<br />
+7. [美香 回国](https://s.weibo.com/weibo?q=%E7%BE%8E%E9%A6%99%20%E5%9B%9E%E5%9B%BD&t=31&band_rank=7&Refer=top)<br />
+8. [孟羽童在职曾发65篇非格力产品内容](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%BD%E7%AB%A5%E5%9C%A8%E8%81%8C%E6%9B%BE%E5%8F%9165%E7%AF%87%E9%9D%9E%E6%A0%BC%E5%8A%9B%E4%BA%A7%E5%93%81%E5%86%85%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
+9. [金莎问她是不是长了一张很容易受伤的脸](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E9%97%AE%E5%A5%B9%E6%98%AF%E4%B8%8D%E6%98%AF%E9%95%BF%E4%BA%86%E4%B8%80%E5%BC%A0%E5%BE%88%E5%AE%B9%E6%98%93%E5%8F%97%E4%BC%A4%E7%9A%84%E8%84%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
