@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 12:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 12:15:01</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [开放的中国 生机勃勃](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E7%9A%84%E4%B8%AD%E5%9B%BD+%E7%94%9F%E6%9C%BA%E5%8B%83%E5%8B%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [中山二院通报“乳腺外科多人患癌”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E9%80%9A%E6%8A%A5%E2%80%9C%E4%B9%B3%E8%85%BA%E5%A4%96%E7%A7%91%E5%A4%9A%E4%BA%BA%E6%82%A3%E7%99%8C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [泽连斯基拒绝战时搞总统选举](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%92%E7%BB%9D%E6%88%98%E6%97%B6%E6%90%9E%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [哈尔滨大妈雪地干洗呢子大衣](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%A4%A7%E5%A6%88%E9%9B%AA%E5%9C%B0%E5%B9%B2%E6%B4%97%E5%91%A2%E5%AD%90%E5%A4%A7%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [促进创新成果更多惠及各国人民](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E5%88%9B%E6%96%B0%E6%88%90%E6%9E%9C%E6%9B%B4%E5%A4%9A%E6%83%A0%E5%8F%8A%E5%90%84%E5%9B%BD%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女生研究方向太冷门花了2年造仪器](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E5%A4%AA%E5%86%B7%E9%97%A8%E8%8A%B1%E4%BA%862%E5%B9%B4%E9%80%A0%E4%BB%AA%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [将睡眠延长至8小时对身心的变化](https://www.baidu.com/s?wd=%E5%B0%86%E7%9D%A1%E7%9C%A0%E5%BB%B6%E9%95%BF%E8%87%B38%E5%B0%8F%E6%97%B6%E5%AF%B9%E8%BA%AB%E5%BF%83%E7%9A%84%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [空乘患癌去世被认定宇宙辐射工伤](https://www.baidu.com/s?wd=%E7%A9%BA%E4%B9%98%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E8%A2%AB%E8%AE%A4%E5%AE%9A%E5%AE%87%E5%AE%99%E8%BE%90%E5%B0%84%E5%B7%A5%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哈尔滨大妈雪地干洗呢子大衣](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%A4%A7%E5%A6%88%E9%9B%AA%E5%9C%B0%E5%B9%B2%E6%B4%97%E5%91%A2%E5%AD%90%E5%A4%A7%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [安徽7岁女童被恶犬撕咬致毁容](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD7%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%81%B6%E7%8A%AC%E6%92%95%E5%92%AC%E8%87%B4%E6%AF%81%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣渝北车祸两死一伤](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E6%B8%9D%E5%8C%97%E8%BD%A6%E7%A5%B8%E4%B8%A4%E6%AD%BB%E4%B8%80%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [开放的中国 生机勃勃](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E7%9A%84%E4%B8%AD%E5%9B%BD+%E7%94%9F%E6%9C%BA%E5%8B%83%E5%8B%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [中山二院通报“乳腺外科多人患癌”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E9%80%9A%E6%8A%A5%E2%80%9C%E4%B9%B3%E8%85%BA%E5%A4%96%E7%A7%91%E5%A4%9A%E4%BA%BA%E6%82%A3%E7%99%8C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [泽连斯基拒绝战时搞总统选举](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%92%E7%BB%9D%E6%88%98%E6%97%B6%E6%90%9E%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [哈尔滨大妈雪地干洗呢子大衣](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%A4%A7%E5%A6%88%E9%9B%AA%E5%9C%B0%E5%B9%B2%E6%B4%97%E5%91%A2%E5%AD%90%E5%A4%A7%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [促进创新成果更多惠及各国人民](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E5%88%9B%E6%96%B0%E6%88%90%E6%9E%9C%E6%9B%B4%E5%A4%9A%E6%83%A0%E5%8F%8A%E5%90%84%E5%9B%BD%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女生研究方向太冷门花了2年造仪器](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E5%A4%AA%E5%86%B7%E9%97%A8%E8%8A%B1%E4%BA%862%E5%B9%B4%E9%80%A0%E4%BB%AA%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [将睡眠延长至8小时对身心的变化](https://www.baidu.com/s?wd=%E5%B0%86%E7%9D%A1%E7%9C%A0%E5%BB%B6%E9%95%BF%E8%87%B38%E5%B0%8F%E6%97%B6%E5%AF%B9%E8%BA%AB%E5%BF%83%E7%9A%84%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [空乘患癌去世被认定宇宙辐射工伤](https://www.baidu.com/s?wd=%E7%A9%BA%E4%B9%98%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E8%A2%AB%E8%AE%A4%E5%AE%9A%E5%AE%87%E5%AE%99%E8%BE%90%E5%B0%84%E5%B7%A5%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哈尔滨大妈雪地干洗呢子大衣](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%A4%A7%E5%A6%88%E9%9B%AA%E5%9C%B0%E5%B9%B2%E6%B4%97%E5%91%A2%E5%AD%90%E5%A4%A7%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [安徽7岁女童被恶犬撕咬致毁容](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD7%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%81%B6%E7%8A%AC%E6%92%95%E5%92%AC%E8%87%B4%E6%AF%81%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣渝北车祸两死一伤](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E6%B8%9D%E5%8C%97%E8%BD%A6%E7%A5%B8%E4%B8%A4%E6%AD%BB%E4%B8%80%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
