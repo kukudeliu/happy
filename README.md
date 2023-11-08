@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 00:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 00:18:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [酒店讲述仲尼巴厘岛遇难细节](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E8%AE%B2%E8%BF%B0%E4%BB%B2%E5%B0%BC%E5%B7%B4%E5%8E%98%E5%B2%9B%E9%81%87%E9%9A%BE%E7%BB%86%E8%8A%82%23&t=31&band_rank=4&Refer=top)<br />
 5. [青簪行彭冠英补拍](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%B0%AA%E8%A1%8C%E5%BD%AD%E5%86%A0%E8%8B%B1%E8%A1%A5%E6%8B%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [中山二院癌症患者黄某家属发声](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E9%BB%84%E6%9F%90%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
-7. [河南新乡警方通报两女子浑身是血倒在街头](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%B0%E4%B9%A1%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%A4%E5%A5%B3%E5%AD%90%E6%B5%91%E8%BA%AB%E6%98%AF%E8%A1%80%E5%80%92%E5%9C%A8%E8%A1%97%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [中山二院人士回应乳腺肿瘤实验室已拆除](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94%E4%B9%B3%E8%85%BA%E8%82%BF%E7%98%A4%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%B7%B2%E6%8B%86%E9%99%A4%23&t=31&band_rank=8&Refer=top)<br />
+7. [中山二院人士回应乳腺肿瘤实验室已拆除](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94%E4%B9%B3%E8%85%BA%E8%82%BF%E7%98%A4%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%B7%B2%E6%8B%86%E9%99%A4%23&t=31&band_rank=7&Refer=top)<br />
+8. [河南新乡警方通报两女子浑身是血倒在街头](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%B0%E4%B9%A1%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%A4%E5%A5%B3%E5%AD%90%E6%B5%91%E8%BA%AB%E6%98%AF%E8%A1%80%E5%80%92%E5%9C%A8%E8%A1%97%E5%A4%B4%23&t=31&band_rank=8&Refer=top)<br />
 9. [网传扬州一女子捂死女儿后跳楼](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%89%AC%E5%B7%9E%E4%B8%80%E5%A5%B3%E5%AD%90%E6%8D%82%E6%AD%BB%E5%A5%B3%E5%84%BF%E5%90%8E%E8%B7%B3%E6%A5%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
