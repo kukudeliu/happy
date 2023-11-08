@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 10:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 10:49:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [教资成绩](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E6%88%90%E7%BB%A9&t=31&band_rank=6&Refer=top)<br />
 7. [中山二院苏士成正常坐诊](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E8%8B%8F%E5%A3%AB%E6%88%90%E6%AD%A3%E5%B8%B8%E5%9D%90%E8%AF%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [宁安如梦 歹毒运镜](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E6%AD%B9%E6%AF%92%E8%BF%90%E9%95%9C&t=31&band_rank=8&Refer=top)<br />
-9. [立冬吃饺子](https://s.weibo.com/weibo?q=%23%E7%AB%8B%E5%86%AC%E5%90%83%E9%A5%BA%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [14岁女儿被打父亲悬赏1万找打人者](https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%A5%B3%E5%84%BF%E8%A2%AB%E6%89%93%E7%88%B6%E4%BA%B2%E6%82%AC%E8%B5%8F1%E4%B8%87%E6%89%BE%E6%89%93%E4%BA%BA%E8%80%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
