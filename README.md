@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 00:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 00:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [青簪行彭冠英补拍](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%B0%AA%E8%A1%8C%E5%BD%AD%E5%86%A0%E8%8B%B1%E8%A1%A5%E6%8B%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [ChatGPT崩了](https://s.weibo.com/weibo?q=ChatGPT%E5%B4%A9%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [龙 你今天吃了20个饺子](https://s.weibo.com/weibo?q=%E9%BE%99%20%E4%BD%A0%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BA%8620%E4%B8%AA%E9%A5%BA%E5%AD%90&t=31&band_rank=8&Refer=top)<br />
-9. [Somi希望IOI在MAMA合体](https://s.weibo.com/weibo?q=%23Somi%E5%B8%8C%E6%9C%9BIOI%E5%9C%A8MAMA%E5%90%88%E4%BD%93%23&t=31&band_rank=9&Refer=top)<br />
+9. [花少5第一次真正的矛盾来了](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%915%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%9F%9B%E7%9B%BE%E6%9D%A5%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
