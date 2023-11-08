@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 12:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 12:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [关晓彤被整蛊 眼泪当下酒菜](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E8%A2%AB%E6%95%B4%E8%9B%8A%20%E7%9C%BC%E6%B3%AA%E5%BD%93%E4%B8%8B%E9%85%92%E8%8F%9C&t=31&band_rank=6&Refer=top)<br />
 7. [金莎男友 大学生勇闯娱乐圈](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%20%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8B%87%E9%97%AF%E5%A8%B1%E4%B9%90%E5%9C%88&t=31&band_rank=7&Refer=top)<br />
 8. [董明珠称孟羽童兼职接广告不合规](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E5%AD%9F%E7%BE%BD%E7%AB%A5%E5%85%BC%E8%81%8C%E6%8E%A5%E5%B9%BF%E5%91%8A%E4%B8%8D%E5%90%88%E8%A7%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [姜珮瑶 明媚的美](https://s.weibo.com/weibo?q=%E5%A7%9C%E7%8F%AE%E7%91%B6%20%E6%98%8E%E5%AA%9A%E7%9A%84%E7%BE%8E&t=31&band_rank=9&Refer=top)<br />
+9. [中山二院称欢迎第三方机构评估调查](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%A7%B0%E6%AC%A2%E8%BF%8E%E7%AC%AC%E4%B8%89%E6%96%B9%E6%9C%BA%E6%9E%84%E8%AF%84%E4%BC%B0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
