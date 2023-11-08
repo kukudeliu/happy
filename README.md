@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 07:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 07:13:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [医院回应涉癌实验室拆除：消防检查](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%B6%89%E7%99%8C%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%8B%86%E9%99%A4%EF%BC%9A%E6%B6%88%E9%98%B2%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [#卡琳娜老公仲尼在巴厘岛溺亡#](https://www.baidu.com/s?wd=%23%E4%BB%B2%E5%B0%BC%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E6%BA%BA%E4%BA%A1%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共赴十年之约](https://www.baidu.com/s?wd=%E5%85%B1%E8%B5%B4%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [系统Bug？南航多航线机票低至10元](https://www.baidu.com/s?wd=%E7%B3%BB%E7%BB%9FBug%EF%BC%9F%E5%8D%97%E8%88%AA%E5%A4%9A%E8%88%AA%E7%BA%BF%E6%9C%BA%E7%A5%A8%E4%BD%8E%E8%87%B310%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [南航客服回应机票低至10元](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E6%9C%BA%E7%A5%A8%E4%BD%8E%E8%87%B310%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [仲尼溺亡 妻子卡琳娜掩面而泣](https://www.baidu.com/s?wd=%E4%BB%B2%E5%B0%BC%E6%BA%BA%E4%BA%A1+%E5%A6%BB%E5%AD%90%E5%8D%A1%E7%90%B3%E5%A8%9C%E6%8E%A9%E9%9D%A2%E8%80%8C%E6%B3%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“吗喽”占领了年轻人的生活圈](https://www.baidu.com/s?wd=%E2%80%9C%E5%90%97%E5%96%BD%E2%80%9D%E5%8D%A0%E9%A2%86%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [这么多年了 唐僧还是这窝囊劲儿](https://www.baidu.com/s?wd=%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B9%B4%E4%BA%86+%E5%94%90%E5%83%A7%E8%BF%98%E6%98%AF%E8%BF%99%E7%AA%9D%E5%9B%8A%E5%8A%B2%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [医院回应涉癌实验室拆除：消防检查](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%B6%89%E7%99%8C%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%8B%86%E9%99%A4%EF%BC%9A%E6%B6%88%E9%98%B2%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [#卡琳娜老公仲尼在巴厘岛溺亡#](https://www.baidu.com/s?wd=%23%E4%BB%B2%E5%B0%BC%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E6%BA%BA%E4%BA%A1%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共赴十年之约](https://www.baidu.com/s?wd=%E5%85%B1%E8%B5%B4%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [系统Bug？南航多航线机票低至10元](https://www.baidu.com/s?wd=%E7%B3%BB%E7%BB%9FBug%EF%BC%9F%E5%8D%97%E8%88%AA%E5%A4%9A%E8%88%AA%E7%BA%BF%E6%9C%BA%E7%A5%A8%E4%BD%8E%E8%87%B310%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [南航客服回应机票低至10元](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E6%9C%BA%E7%A5%A8%E4%BD%8E%E8%87%B310%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [仲尼溺亡 妻子卡琳娜掩面而泣](https://www.baidu.com/s?wd=%E4%BB%B2%E5%B0%BC%E6%BA%BA%E4%BA%A1+%E5%A6%BB%E5%AD%90%E5%8D%A1%E7%90%B3%E5%A8%9C%E6%8E%A9%E9%9D%A2%E8%80%8C%E6%B3%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“吗喽”占领了年轻人的生活圈](https://www.baidu.com/s?wd=%E2%80%9C%E5%90%97%E5%96%BD%E2%80%9D%E5%8D%A0%E9%A2%86%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [这么多年了 唐僧还是这窝囊劲儿](https://www.baidu.com/s?wd=%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B9%B4%E4%BA%86+%E5%94%90%E5%83%A7%E8%BF%98%E6%98%AF%E8%BF%99%E7%AA%9D%E5%9B%8A%E5%8A%B2%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
