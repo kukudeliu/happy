@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 19:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 19:53:02</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [让互联网更好造福世界各国人民](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%92%E8%81%94%E7%BD%91%E6%9B%B4%E5%A5%BD%E9%80%A0%E7%A6%8F%E4%B8%96%E7%95%8C%E5%90%84%E5%9B%BD%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [中美领导人将在美会谈？中方回应](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B0%86%E5%9C%A8%E7%BE%8E%E4%BC%9A%E8%B0%88%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [金融监管“一把手”重磅发声](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E2%80%9C%E4%B8%80%E6%8A%8A%E6%89%8B%E2%80%9D%E9%87%8D%E7%A3%85%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [中山二院癌症患者确诊隔天被踢出群](https://www.baidu.com/s?wd=%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E7%A1%AE%E8%AF%8A%E9%9A%94%E5%A4%A9%E8%A2%AB%E8%B8%A2%E5%87%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [进博会达成合作意向近600项](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E8%BE%BE%E6%88%90%E5%90%88%E4%BD%9C%E6%84%8F%E5%90%91%E8%BF%91600%E9%A1%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [哈师大黑天鹅已被冻湖上两天](https://www.baidu.com/s?wd=%E5%93%88%E5%B8%88%E5%A4%A7%E9%BB%91%E5%A4%A9%E9%B9%85%E5%B7%B2%E8%A2%AB%E5%86%BB%E6%B9%96%E4%B8%8A%E4%B8%A4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [让互联网更好造福世界各国人民](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%92%E8%81%94%E7%BD%91%E6%9B%B4%E5%A5%BD%E9%80%A0%E7%A6%8F%E4%B8%96%E7%95%8C%E5%90%84%E5%9B%BD%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [中美领导人将在美会谈？中方回应](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B0%86%E5%9C%A8%E7%BE%8E%E4%BC%9A%E8%B0%88%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [金融监管“一把手”重磅发声](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E2%80%9C%E4%B8%80%E6%8A%8A%E6%89%8B%E2%80%9D%E9%87%8D%E7%A3%85%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [中山二院癌症患者确诊隔天被踢出群](https://www.baidu.com/s?wd=%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E7%A1%AE%E8%AF%8A%E9%9A%94%E5%A4%A9%E8%A2%AB%E8%B8%A2%E5%87%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [进博会达成合作意向近600项](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E8%BE%BE%E6%88%90%E5%90%88%E4%BD%9C%E6%84%8F%E5%90%91%E8%BF%91600%E9%A1%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [哈师大黑天鹅已被冻湖上两天](https://www.baidu.com/s?wd=%E5%93%88%E5%B8%88%E5%A4%A7%E9%BB%91%E5%A4%A9%E9%B9%85%E5%B7%B2%E8%A2%AB%E5%86%BB%E6%B9%96%E4%B8%8A%E4%B8%A4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
