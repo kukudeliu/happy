@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 13:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 13:15:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [炎亚纶被公诉](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E8%A2%AB%E5%85%AC%E8%AF%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [董明珠称孟羽童兼职接广告不合规](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E5%AD%9F%E7%BE%BD%E7%AB%A5%E5%85%BC%E8%81%8C%E6%8E%A5%E5%B9%BF%E5%91%8A%E4%B8%8D%E5%90%88%E8%A7%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [秦海璐拍的迪丽热巴](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%B5%B7%E7%92%90%E6%8B%8D%E7%9A%84%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [警惕让你悄悄变丑的坏习惯](https://s.weibo.com/weibo?q=%E8%AD%A6%E6%83%95%E8%AE%A9%E4%BD%A0%E6%82%84%E6%82%84%E5%8F%98%E4%B8%91%E7%9A%84%E5%9D%8F%E4%B9%A0%E6%83%AF&t=31&band_rank=8&Refer=top)<br />
-9. [MAMA阵容](https://s.weibo.com/weibo?q=MAMA%E9%98%B5%E5%AE%B9&t=31&band_rank=9&Refer=top)<br />
+8. [中山二院癌症患者黄某家属发声](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E9%BB%84%E6%9F%90%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
+9. [警惕让你悄悄变丑的坏习惯](https://s.weibo.com/weibo?q=%E8%AD%A6%E6%83%95%E8%AE%A9%E4%BD%A0%E6%82%84%E6%82%84%E5%8F%98%E4%B8%91%E7%9A%84%E5%9D%8F%E4%B9%A0%E6%83%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
