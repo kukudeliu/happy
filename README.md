@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 06:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 06:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [仲尼昨天生日](https://s.weibo.com/weibo?q=%E4%BB%B2%E5%B0%BC%E6%98%A8%E5%A4%A9%E7%94%9F%E6%97%A5&t=31&band_rank=6&Refer=top)<br />
 7. [瑞幸 罗翔](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%20%E7%BD%97%E7%BF%94&t=31&band_rank=7&Refer=top)<br />
 8. [花少后期多剪一秒就露馅了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%90%8E%E6%9C%9F%E5%A4%9A%E5%89%AA%E4%B8%80%E7%A7%92%E5%B0%B1%E9%9C%B2%E9%A6%85%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [龙 你今天吃了20个饺子](https://s.weibo.com/weibo?q=%E9%BE%99%20%E4%BD%A0%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BA%8620%E4%B8%AA%E9%A5%BA%E5%AD%90&t=31&band_rank=9&Refer=top)<br />
+9. [ChatGPT崩了](https://s.weibo.com/weibo?q=ChatGPT%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
