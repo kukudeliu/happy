@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 02:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 02:14:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [乌镇网事](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%95%87%E7%BD%91%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [中山二院人士回应乳腺肿瘤实验室已拆除](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94%E4%B9%B3%E8%85%BA%E8%82%BF%E7%98%A4%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%B7%B2%E6%8B%86%E9%99%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [龙 你今天吃了20个饺子](https://s.weibo.com/weibo?q=%E9%BE%99%20%E4%BD%A0%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BA%8620%E4%B8%AA%E9%A5%BA%E5%AD%90&t=31&band_rank=5&Refer=top)<br />
-6. [ChatGPT崩了](https://s.weibo.com/weibo?q=ChatGPT%E5%B4%A9%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [瑞幸 罗翔](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%20%E7%BD%97%E7%BF%94&t=31&band_rank=7&Refer=top)<br />
+6. [瑞幸 罗翔](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%20%E7%BD%97%E7%BF%94&t=31&band_rank=6&Refer=top)<br />
+7. [ChatGPT崩了](https://s.weibo.com/weibo?q=ChatGPT%E5%B4%A9%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [青簪行彭冠英补拍](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%B0%AA%E8%A1%8C%E5%BD%AD%E5%86%A0%E8%8B%B1%E8%A1%A5%E6%8B%8D%23&t=31&band_rank=8&Refer=top)<br />
 9. [显脸小这么化](https://s.weibo.com/weibo?q=%E6%98%BE%E8%84%B8%E5%B0%8F%E8%BF%99%E4%B9%88%E5%8C%96&t=31&band_rank=9&Refer=top)<br />
 
@@ -22,8 +22,8 @@
 3. [#卡琳娜老公仲尼在巴厘岛溺亡#](https://www.baidu.com/s?wd=%23%E4%BB%B2%E5%B0%BC%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E6%BA%BA%E4%BA%A1%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共赴十年之约](https://www.baidu.com/s?wd=%E5%85%B1%E8%B5%B4%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [系统Bug？南航多航线机票低至10元](https://www.baidu.com/s?wd=%E7%B3%BB%E7%BB%9FBug%EF%BC%9F%E5%8D%97%E8%88%AA%E5%A4%9A%E8%88%AA%E7%BA%BF%E6%9C%BA%E7%A5%A8%E4%BD%8E%E8%87%B310%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [“吗喽”占领了年轻人的生活圈](https://www.baidu.com/s?wd=%E2%80%9C%E5%90%97%E5%96%BD%E2%80%9D%E5%8D%A0%E9%A2%86%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [姆巴佩：输球很艰难](https://www.baidu.com/s?wd=%E5%A7%86%E5%B7%B4%E4%BD%A9%EF%BC%9A%E8%BE%93%E7%90%83%E5%BE%88%E8%89%B0%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国平安否认收购碧桂园](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%89%E5%90%A6%E8%AE%A4%E6%94%B6%E8%B4%AD%E7%A2%A7%E6%A1%82%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [“吗喽”占领了年轻人的生活圈](https://www.baidu.com/s?wd=%E2%80%9C%E5%90%97%E5%96%BD%E2%80%9D%E5%8D%A0%E9%A2%86%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [仲尼溺亡 妻子卡琳娜掩面而泣](https://www.baidu.com/s?wd=%E4%BB%B2%E5%B0%BC%E6%BA%BA%E4%BA%A1+%E5%A6%BB%E5%AD%90%E5%8D%A1%E7%90%B3%E5%A8%9C%E6%8E%A9%E9%9D%A2%E8%80%8C%E6%B3%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [喝酒防寒、吃高热量食物暖身？](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E9%98%B2%E5%AF%92%E3%80%81%E5%90%83%E9%AB%98%E7%83%AD%E9%87%8F%E9%A3%9F%E7%89%A9%E6%9A%96%E8%BA%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [#卡琳娜老公仲尼在巴厘岛溺亡#](https://www.baidu.com/s?wd=%23%E4%BB%B2%E5%B0%BC%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E6%BA%BA%E4%BA%A1%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共赴十年之约](https://www.baidu.com/s?wd=%E5%85%B1%E8%B5%B4%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [系统Bug？南航多航线机票低至10元](https://www.baidu.com/s?wd=%E7%B3%BB%E7%BB%9FBug%EF%BC%9F%E5%8D%97%E8%88%AA%E5%A4%9A%E8%88%AA%E7%BA%BF%E6%9C%BA%E7%A5%A8%E4%BD%8E%E8%87%B310%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [“吗喽”占领了年轻人的生活圈](https://www.baidu.com/s?wd=%E2%80%9C%E5%90%97%E5%96%BD%E2%80%9D%E5%8D%A0%E9%A2%86%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [姆巴佩：输球很艰难](https://www.baidu.com/s?wd=%E5%A7%86%E5%B7%B4%E4%BD%A9%EF%BC%9A%E8%BE%93%E7%90%83%E5%BE%88%E8%89%B0%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国平安否认收购碧桂园](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%89%E5%90%A6%E8%AE%A4%E6%94%B6%E8%B4%AD%E7%A2%A7%E6%A1%82%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [“吗喽”占领了年轻人的生活圈](https://www.baidu.com/s?wd=%E2%80%9C%E5%90%97%E5%96%BD%E2%80%9D%E5%8D%A0%E9%A2%86%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [仲尼溺亡 妻子卡琳娜掩面而泣](https://www.baidu.com/s?wd=%E4%BB%B2%E5%B0%BC%E6%BA%BA%E4%BA%A1+%E5%A6%BB%E5%AD%90%E5%8D%A1%E7%90%B3%E5%A8%9C%E6%8E%A9%E9%9D%A2%E8%80%8C%E6%B3%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [喝酒防寒、吃高热量食物暖身？](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E9%98%B2%E5%AF%92%E3%80%81%E5%90%83%E9%AB%98%E7%83%AD%E9%87%8F%E9%A3%9F%E7%89%A9%E6%9A%96%E8%BA%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
