@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 10:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 10:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [教资面试](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95&t=31&band_rank=6&Refer=top)<br />
 7. [宁安如梦 歹毒运镜](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E6%AD%B9%E6%AF%92%E8%BF%90%E9%95%9C&t=31&band_rank=7&Refer=top)<br />
 8. [立冬吃饺子](https://s.weibo.com/weibo?q=%23%E7%AB%8B%E5%86%AC%E5%90%83%E9%A5%BA%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [女生研究方向太冷门花了2年造仪器](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E5%A4%AA%E5%86%B7%E9%97%A8%E8%8A%B1%E4%BA%862%E5%B9%B4%E9%80%A0%E4%BB%AA%E5%99%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [原神4.2](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E4.2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
