@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 14:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 15:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陆家嘴](https://s.weibo.com/weibo?q=%E9%99%86%E5%AE%B6%E5%98%B4&t=31&band_rank=6&Refer=top)<br />
 7. [乳腺癌 男性](https://s.weibo.com/weibo?q=%E4%B9%B3%E8%85%BA%E7%99%8C%20%E7%94%B7%E6%80%A7&t=31&band_rank=7&Refer=top)<br />
 8. [胰腺癌为什么被称为癌中之王](https://s.weibo.com/weibo?q=%23%E8%83%B0%E8%85%BA%E7%99%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A2%AB%E7%A7%B0%E4%B8%BA%E7%99%8C%E4%B8%AD%E4%B9%8B%E7%8E%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩国空乘患癌去世被认定宇宙辐射工伤](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%A9%BA%E4%B9%98%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E8%A2%AB%E8%AE%A4%E5%AE%9A%E5%AE%87%E5%AE%99%E8%BE%90%E5%B0%84%E5%B7%A5%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [她赢了赌约 他占了便宜](https://s.weibo.com/weibo?q=%E5%A5%B9%E8%B5%A2%E4%BA%86%E8%B5%8C%E7%BA%A6%20%E4%BB%96%E5%8D%A0%E4%BA%86%E4%BE%BF%E5%AE%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
