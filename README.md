@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 20:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 20:56:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [乌镇网事](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%95%87%E7%BD%91%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [刘恺威肘击颖儿](https://s.weibo.com/weibo?q=%E5%88%98%E6%81%BA%E5%A8%81%E8%82%98%E5%87%BB%E9%A2%96%E5%84%BF&t=31&band_rank=4&Refer=top)<br />
 5. [揭露三鹿毒奶粉的记者现在怎么样了](https://s.weibo.com/weibo?q=%E6%8F%AD%E9%9C%B2%E4%B8%89%E9%B9%BF%E6%AF%92%E5%A5%B6%E7%B2%89%E7%9A%84%E8%AE%B0%E8%80%85%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
-6. [美香 回国](https://s.weibo.com/weibo?q=%E7%BE%8E%E9%A6%99%20%E5%9B%9E%E5%9B%BD&t=31&band_rank=6&Refer=top)<br />
-7. [papi酱又出rap了](https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E5%8F%88%E5%87%BArap%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+6. [papi酱又出rap了](https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E5%8F%88%E5%87%BArap%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [美香 回国](https://s.weibo.com/weibo?q=%E7%BE%8E%E9%A6%99%20%E5%9B%9E%E5%9B%BD&t=31&band_rank=7&Refer=top)<br />
 8. [无期迷途 删角色](https://s.weibo.com/weibo?q=%E6%97%A0%E6%9C%9F%E8%BF%B7%E9%80%94%20%E5%88%A0%E8%A7%92%E8%89%B2&t=31&band_rank=8&Refer=top)<br />
-9. [爷爷用私房钱圆了奶奶公主梦](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E7%94%A8%E7%A7%81%E6%88%BF%E9%92%B1%E5%9C%86%E4%BA%86%E5%A5%B6%E5%A5%B6%E5%85%AC%E4%B8%BB%E6%A2%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [王安宇 内耗](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%20%E5%86%85%E8%80%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
