@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 10:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 10:52:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [将睡眠时间延长至8小时对身心的变化](https://s.weibo.com/weibo?q=%E5%B0%86%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%97%B4%E5%BB%B6%E9%95%BF%E8%87%B38%E5%B0%8F%E6%97%B6%E5%AF%B9%E8%BA%AB%E5%BF%83%E7%9A%84%E5%8F%98%E5%8C%96&t=31&band_rank=2&Refer=top)<br />
 3. [乌镇网事](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%95%87%E7%BD%91%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [金莎男友 大学生勇闯娱乐圈](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%20%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8B%87%E9%97%AF%E5%A8%B1%E4%B9%90%E5%9C%88&t=31&band_rank=4&Refer=top)<br />
-5. [姜珮瑶 明媚的美](https://s.weibo.com/weibo?q=%E5%A7%9C%E7%8F%AE%E7%91%B6%20%E6%98%8E%E5%AA%9A%E7%9A%84%E7%BE%8E&t=31&band_rank=5&Refer=top)<br />
-6. [中山二院苏士成正常坐诊](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E8%8B%8F%E5%A3%AB%E6%88%90%E6%AD%A3%E5%B8%B8%E5%9D%90%E8%AF%8A%23&t=31&band_rank=6&Refer=top)<br />
+5. [中山二院苏士成正常坐诊](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E8%8B%8F%E5%A3%AB%E6%88%90%E6%AD%A3%E5%B8%B8%E5%9D%90%E8%AF%8A%23&t=31&band_rank=5&Refer=top)<br />
+6. [姜珮瑶 明媚的美](https://s.weibo.com/weibo?q=%E5%A7%9C%E7%8F%AE%E7%91%B6%20%E6%98%8E%E5%AA%9A%E7%9A%84%E7%BE%8E&t=31&band_rank=6&Refer=top)<br />
 7. [教资成绩](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E6%88%90%E7%BB%A9&t=31&band_rank=7&Refer=top)<br />
 8. [14岁女儿被打父亲悬赏1万找打人者](https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%A5%B3%E5%84%BF%E8%A2%AB%E6%89%93%E7%88%B6%E4%BA%B2%E6%82%AC%E8%B5%8F1%E4%B8%87%E6%89%BE%E6%89%93%E4%BA%BA%E8%80%85%23&t=31&band_rank=8&Refer=top)<br />
 9. [宁安如梦 歹毒运镜](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E6%AD%B9%E6%AF%92%E8%BF%90%E9%95%9C&t=31&band_rank=9&Refer=top)<br />
