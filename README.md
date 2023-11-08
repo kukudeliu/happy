@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 08:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 08:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [与主播发生关系住持被停职](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E4%B8%BB%E6%92%AD%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E4%BD%8F%E6%8C%81%E8%A2%AB%E5%81%9C%E8%81%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [立冬吃饺子](https://s.weibo.com/weibo?q=%23%E7%AB%8B%E5%86%AC%E5%90%83%E9%A5%BA%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [妈妈用生理盐水帮宝宝冲洗鼻腔](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E7%94%A8%E7%94%9F%E7%90%86%E7%9B%90%E6%B0%B4%E5%B8%AE%E5%AE%9D%E5%AE%9D%E5%86%B2%E6%B4%97%E9%BC%BB%E8%85%94&t=31&band_rank=7&Refer=top)<br />
-8. [新疆地震](https://s.weibo.com/weibo?q=%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top)<br />
-9. [当以爱为营女主换成张元英](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A5%B3%E4%B8%BB%E6%8D%A2%E6%88%90%E5%BC%A0%E5%85%83%E8%8B%B1%23&t=31&band_rank=9&Refer=top)<br />
+8. [将睡眠时间延长至8小时对身心的变化](https://s.weibo.com/weibo?q=%E5%B0%86%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%97%B4%E5%BB%B6%E9%95%BF%E8%87%B38%E5%B0%8F%E6%97%B6%E5%AF%B9%E8%BA%AB%E5%BF%83%E7%9A%84%E5%8F%98%E5%8C%96&t=31&band_rank=8&Refer=top)<br />
+9. [新疆地震](https://s.weibo.com/weibo?q=%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
