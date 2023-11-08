@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 12:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 12:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [溺亡女医生遗书称被丈夫长期注射麻醉剂](https://s.weibo.com/weibo?q=%23%E6%BA%BA%E4%BA%A1%E5%A5%B3%E5%8C%BB%E7%94%9F%E9%81%97%E4%B9%A6%E7%A7%B0%E8%A2%AB%E4%B8%88%E5%A4%AB%E9%95%BF%E6%9C%9F%E6%B3%A8%E5%B0%84%E9%BA%BB%E9%86%89%E5%89%82%23&t=31&band_rank=6&Refer=top)<br />
 7. [中山二院苏士成正常坐诊](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E8%8B%8F%E5%A3%AB%E6%88%90%E6%AD%A3%E5%B8%B8%E5%9D%90%E8%AF%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [金莎男友 大学生勇闯娱乐圈](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%20%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8B%87%E9%97%AF%E5%A8%B1%E4%B9%90%E5%9C%88&t=31&band_rank=8&Refer=top)<br />
-9. [姜珮瑶 明媚的美](https://s.weibo.com/weibo?q=%E5%A7%9C%E7%8F%AE%E7%91%B6%20%E6%98%8E%E5%AA%9A%E7%9A%84%E7%BE%8E&t=31&band_rank=9&Refer=top)<br />
+9. [宁安如梦 歹毒运镜](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E6%AD%B9%E6%AF%92%E8%BF%90%E9%95%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
