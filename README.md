@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 16:35:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 16:36:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [丈夫举报妻子出轨国企领导 两次流产](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E4%B8%BE%E6%8A%A5%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC+%E4%B8%A4%E6%AC%A1%E6%B5%81%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [释永信到访Meta、苹果和谷歌](https://www.baidu.com/s?wd=%E9%87%8A%E6%B0%B8%E4%BF%A1%E5%88%B0%E8%AE%BFMeta%E3%80%81%E8%8B%B9%E6%9E%9C%E5%92%8C%E8%B0%B7%E6%AD%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#度晓晓开了国内首个数字人淘宝店#](https://www.baidu.com/s?wd=%23%E5%BA%A6%E6%99%93%E6%99%93%E5%BC%80%E4%BA%86%E5%9B%BD%E5%86%85%E9%A6%96%E4%B8%AA%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B7%98%E5%AE%9D%E5%BA%97%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆辟谣渝北车祸两死一伤](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E6%B8%9D%E5%8C%97%E8%BD%A6%E7%A5%B8%E4%B8%A4%E6%AD%BB%E4%B8%80%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [落马干部发条短信获700万感谢费](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%B9%B2%E9%83%A8%E5%8F%91%E6%9D%A1%E7%9F%AD%E4%BF%A1%E8%8E%B7700%E4%B8%87%E6%84%9F%E8%B0%A2%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [丈夫举报妻子出轨国企领导 两次流产](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E4%B8%BE%E6%8A%A5%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC+%E4%B8%A4%E6%AC%A1%E6%B5%81%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [释永信到访Meta、苹果和谷歌](https://www.baidu.com/s?wd=%E9%87%8A%E6%B0%B8%E4%BF%A1%E5%88%B0%E8%AE%BFMeta%E3%80%81%E8%8B%B9%E6%9E%9C%E5%92%8C%E8%B0%B7%E6%AD%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#度晓晓开了国内首个数字人淘宝店#](https://www.baidu.com/s?wd=%23%E5%BA%A6%E6%99%93%E6%99%93%E5%BC%80%E4%BA%86%E5%9B%BD%E5%86%85%E9%A6%96%E4%B8%AA%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B7%98%E5%AE%9D%E5%BA%97%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆辟谣渝北车祸两死一伤](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E6%B8%9D%E5%8C%97%E8%BD%A6%E7%A5%B8%E4%B8%A4%E6%AD%BB%E4%B8%80%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [落马干部发条短信获700万感谢费](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%B9%B2%E9%83%A8%E5%8F%91%E6%9D%A1%E7%9F%AD%E4%BF%A1%E8%8E%B7700%E4%B8%87%E6%84%9F%E8%B0%A2%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
