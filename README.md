@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 05:12:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 05:13:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [中山二院人士回应乳腺肿瘤实验室已拆除](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94%E4%B9%B3%E8%85%BA%E8%82%BF%E7%98%A4%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%B7%B2%E6%8B%86%E9%99%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [青簪行彭冠英补拍](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%B0%AA%E8%A1%8C%E5%BD%AD%E5%86%A0%E8%8B%B1%E8%A1%A5%E6%8B%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [ChatGPT崩了](https://s.weibo.com/weibo?q=ChatGPT%E5%B4%A9%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [瑞幸 罗翔](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%20%E7%BD%97%E7%BF%94&t=31&band_rank=8&Refer=top)<br />
-9. [龙 你今天吃了20个饺子](https://s.weibo.com/weibo?q=%E9%BE%99%20%E4%BD%A0%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BA%8620%E4%B8%AA%E9%A5%BA%E5%AD%90&t=31&band_rank=9&Refer=top)<br />
+8. [艾伦 谢谢你替我围上围巾](https://s.weibo.com/weibo?q=%E8%89%BE%E4%BC%A6%20%E8%B0%A2%E8%B0%A2%E4%BD%A0%E6%9B%BF%E6%88%91%E5%9B%B4%E4%B8%8A%E5%9B%B4%E5%B7%BE&t=31&band_rank=8&Refer=top)<br />
+9. [瑞幸 罗翔](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%20%E7%BD%97%E7%BF%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
