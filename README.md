@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 11:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 11:10:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [金莎男友 大学生勇闯娱乐圈](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%20%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8B%87%E9%97%AF%E5%A8%B1%E4%B9%90%E5%9C%88&t=31&band_rank=5&Refer=top)<br />
 6. [姜珮瑶 明媚的美](https://s.weibo.com/weibo?q=%E5%A7%9C%E7%8F%AE%E7%91%B6%20%E6%98%8E%E5%AA%9A%E7%9A%84%E7%BE%8E&t=31&band_rank=6&Refer=top)<br />
 7. [刘亦菲于适配音迪士尼新片星愿](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%BA%8E%E9%80%82%E9%85%8D%E9%9F%B3%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%96%B0%E7%89%87%E6%98%9F%E6%84%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [14岁女儿被打父亲悬赏1万找打人者](https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%A5%B3%E5%84%BF%E8%A2%AB%E6%89%93%E7%88%B6%E4%BA%B2%E6%82%AC%E8%B5%8F1%E4%B8%87%E6%89%BE%E6%89%93%E4%BA%BA%E8%80%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [宁安如梦 歹毒运镜](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E6%AD%B9%E6%AF%92%E8%BF%90%E9%95%9C&t=31&band_rank=9&Refer=top)<br />
+8. [宁安如梦 歹毒运镜](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E6%AD%B9%E6%AF%92%E8%BF%90%E9%95%9C&t=31&band_rank=8&Refer=top)<br />
+9. [14岁女儿被打父亲悬赏1万找打人者](https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%A5%B3%E5%84%BF%E8%A2%AB%E6%89%93%E7%88%B6%E4%BA%B2%E6%82%AC%E8%B5%8F1%E4%B8%87%E6%89%BE%E6%89%93%E4%BA%BA%E8%80%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
