@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 14:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 14:53:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [孟羽童在职曾发65篇非格力产品内容](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%BD%E7%AB%A5%E5%9C%A8%E8%81%8C%E6%9B%BE%E5%8F%9165%E7%AF%87%E9%9D%9E%E6%A0%BC%E5%8A%9B%E4%BA%A7%E5%93%81%E5%86%85%E5%AE%B9%23&t=31&band_rank=5&Refer=top)<br />
 6. [陆家嘴](https://s.weibo.com/weibo?q=%E9%99%86%E5%AE%B6%E5%98%B4&t=31&band_rank=6&Refer=top)<br />
 7. [胰腺癌为什么被称为癌中之王](https://s.weibo.com/weibo?q=%23%E8%83%B0%E8%85%BA%E7%99%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A2%AB%E7%A7%B0%E4%B8%BA%E7%99%8C%E4%B8%AD%E4%B9%8B%E7%8E%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [韩国空乘患癌去世被认定宇宙辐射工伤](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%A9%BA%E4%B9%98%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E8%A2%AB%E8%AE%A4%E5%AE%9A%E5%AE%87%E5%AE%99%E8%BE%90%E5%B0%84%E5%B7%A5%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [中山二院癌症患者家属称确实被踢出群聊](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E5%AE%B6%E5%B1%9E%E7%A7%B0%E7%A1%AE%E5%AE%9E%E8%A2%AB%E8%B8%A2%E5%87%BA%E7%BE%A4%E8%81%8A%23&t=31&band_rank=9&Refer=top)<br />
+8. [乳腺癌 男性](https://s.weibo.com/weibo?q=%E4%B9%B3%E8%85%BA%E7%99%8C%20%E7%94%B7%E6%80%A7&t=31&band_rank=8&Refer=top)<br />
+9. [韩国空乘患癌去世被认定宇宙辐射工伤](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%A9%BA%E4%B9%98%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E8%A2%AB%E8%AE%A4%E5%AE%9A%E5%AE%87%E5%AE%99%E8%BE%90%E5%B0%84%E5%B7%A5%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
