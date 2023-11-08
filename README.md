@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 12:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 12:04:01</h4></div>
 
 > 微博  
 
 1. [90后公务员泄密获刑](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%85%AC%E5%8A%A1%E5%91%98%E6%B3%84%E5%AF%86%E8%8E%B7%E5%88%91%23&t=31&band_rank=1&Refer=top)<br />
 2. [中山二院通报](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E9%80%9A%E6%8A%A5%23&t=31&band_rank=2&Refer=top)<br />
 3. [乌镇网事](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%95%87%E7%BD%91%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
-4. [中山二院苏士成正常坐诊](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E8%8B%8F%E5%A3%AB%E6%88%90%E6%AD%A3%E5%B8%B8%E5%9D%90%E8%AF%8A%23&t=31&band_rank=4&Refer=top)<br />
-5. [溺亡女医生遗书称被丈夫长期注射麻醉剂](https://s.weibo.com/weibo?q=%23%E6%BA%BA%E4%BA%A1%E5%A5%B3%E5%8C%BB%E7%94%9F%E9%81%97%E4%B9%A6%E7%A7%B0%E8%A2%AB%E4%B8%88%E5%A4%AB%E9%95%BF%E6%9C%9F%E6%B3%A8%E5%B0%84%E9%BA%BB%E9%86%89%E5%89%82%23&t=31&band_rank=5&Refer=top)<br />
+4. [溺亡女医生遗书称被丈夫长期注射麻醉剂](https://s.weibo.com/weibo?q=%23%E6%BA%BA%E4%BA%A1%E5%A5%B3%E5%8C%BB%E7%94%9F%E9%81%97%E4%B9%A6%E7%A7%B0%E8%A2%AB%E4%B8%88%E5%A4%AB%E9%95%BF%E6%9C%9F%E6%B3%A8%E5%B0%84%E9%BA%BB%E9%86%89%E5%89%82%23&t=31&band_rank=4&Refer=top)<br />
+5. [中山二院苏士成正常坐诊](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E8%8B%8F%E5%A3%AB%E6%88%90%E6%AD%A3%E5%B8%B8%E5%9D%90%E8%AF%8A%23&t=31&band_rank=5&Refer=top)<br />
 6. [关晓彤被整蛊 眼泪当下酒菜](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E8%A2%AB%E6%95%B4%E8%9B%8A%20%E7%9C%BC%E6%B3%AA%E5%BD%93%E4%B8%8B%E9%85%92%E8%8F%9C&t=31&band_rank=6&Refer=top)<br />
 7. [金莎男友 大学生勇闯娱乐圈](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%20%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8B%87%E9%97%AF%E5%A8%B1%E4%B9%90%E5%9C%88&t=31&band_rank=7&Refer=top)<br />
 8. [董明珠称孟羽童兼职接广告不合规](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E5%AD%9F%E7%BE%BD%E7%AB%A5%E5%85%BC%E8%81%8C%E6%8E%A5%E5%B9%BF%E5%91%8A%E4%B8%8D%E5%90%88%E8%A7%84%23&t=31&band_rank=8&Refer=top)<br />
