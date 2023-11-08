@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 13:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 13:38:01</h4></div>
 
 > 微博  
 
 1. [中山二院癌症患者黄某家属发声](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E9%BB%84%E6%9F%90%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=1&Refer=top)<br />
-2. [中山二院通报](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E9%80%9A%E6%8A%A5%23&t=31&band_rank=2&Refer=top)<br />
+2. [成都地铁3号线打人男子被行拘](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF%E6%89%93%E4%BA%BA%E7%94%B7%E5%AD%90%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=2&Refer=top)<br />
 3. [进博会场馆四叶草背后的奥秘](https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%9C%BA%E9%A6%86%E5%9B%9B%E5%8F%B6%E8%8D%89%E8%83%8C%E5%90%8E%E7%9A%84%E5%A5%A5%E7%A7%98%23&t=31&band_rank=3&Refer=top)<br />
-4. [成都地铁3号线打人男子被行拘](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF%E6%89%93%E4%BA%BA%E7%94%B7%E5%AD%90%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=4&Refer=top)<br />
+4. [中山二院通报](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E9%80%9A%E6%8A%A5%23&t=31&band_rank=4&Refer=top)<br />
 5. [成都地铁三号线打人](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%E4%B8%89%E5%8F%B7%E7%BA%BF%E6%89%93%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [90后公务员泄密获刑](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%85%AC%E5%8A%A1%E5%91%98%E6%B3%84%E5%AF%86%E8%8E%B7%E5%88%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [炎亚纶被公诉](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E8%A2%AB%E5%85%AC%E8%AF%89%23&t=31&band_rank=7&Refer=top)<br />
