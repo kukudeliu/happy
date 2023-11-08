@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 11:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 11:32:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女生研究方向太冷门花了2年造仪器](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E5%A4%AA%E5%86%B7%E9%97%A8%E8%8A%B1%E4%BA%862%E5%B9%B4%E9%80%A0%E4%BB%AA%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [将睡眠延长至8小时对身心的变化](https://www.baidu.com/s?wd=%E5%B0%86%E7%9D%A1%E7%9C%A0%E5%BB%B6%E9%95%BF%E8%87%B38%E5%B0%8F%E6%97%B6%E5%AF%B9%E8%BA%AB%E5%BF%83%E7%9A%84%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [空乘患癌去世被认定宇宙辐射工伤](https://www.baidu.com/s?wd=%E7%A9%BA%E4%B9%98%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E8%A2%AB%E8%AE%A4%E5%AE%9A%E5%AE%87%E5%AE%99%E8%BE%90%E5%B0%84%E5%B7%A5%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙江多地出现大量臭屁虫](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%87%AD%E5%B1%81%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [夫妻变卖房东3.6万元家电只愿赔3千](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%8F%98%E5%8D%96%E6%88%BF%E4%B8%9C3.6%E4%B8%87%E5%85%83%E5%AE%B6%E7%94%B5%E5%8F%AA%E6%84%BF%E8%B5%943%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣渝北车祸两死一伤](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E6%B8%9D%E5%8C%97%E8%BD%A6%E7%A5%B8%E4%B8%A4%E6%AD%BB%E4%B8%80%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女生研究方向太冷门花了2年造仪器](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E5%A4%AA%E5%86%B7%E9%97%A8%E8%8A%B1%E4%BA%862%E5%B9%B4%E9%80%A0%E4%BB%AA%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [将睡眠延长至8小时对身心的变化](https://www.baidu.com/s?wd=%E5%B0%86%E7%9D%A1%E7%9C%A0%E5%BB%B6%E9%95%BF%E8%87%B38%E5%B0%8F%E6%97%B6%E5%AF%B9%E8%BA%AB%E5%BF%83%E7%9A%84%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [空乘患癌去世被认定宇宙辐射工伤](https://www.baidu.com/s?wd=%E7%A9%BA%E4%B9%98%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E8%A2%AB%E8%AE%A4%E5%AE%9A%E5%AE%87%E5%AE%99%E8%BE%90%E5%B0%84%E5%B7%A5%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙江多地出现大量臭屁虫](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%87%AD%E5%B1%81%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [夫妻变卖房东3.6万元家电只愿赔3千](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%8F%98%E5%8D%96%E6%88%BF%E4%B8%9C3.6%E4%B8%87%E5%85%83%E5%AE%B6%E7%94%B5%E5%8F%AA%E6%84%BF%E8%B5%943%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣渝北车祸两死一伤](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E6%B8%9D%E5%8C%97%E8%BD%A6%E7%A5%B8%E4%B8%A4%E6%AD%BB%E4%B8%80%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
