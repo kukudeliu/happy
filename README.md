@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 20:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 20:47:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [刘恺威肘击颖儿](https://s.weibo.com/weibo?q=%E5%88%98%E6%81%BA%E5%A8%81%E8%82%98%E5%87%BB%E9%A2%96%E5%84%BF&t=31&band_rank=4&Refer=top)<br />
 5. [美香 回国](https://s.weibo.com/weibo?q=%E7%BE%8E%E9%A6%99%20%E5%9B%9E%E5%9B%BD&t=31&band_rank=5&Refer=top)<br />
 6. [无期迷途 删角色](https://s.weibo.com/weibo?q=%E6%97%A0%E6%9C%9F%E8%BF%B7%E9%80%94%20%E5%88%A0%E8%A7%92%E8%89%B2&t=31&band_rank=6&Refer=top)<br />
-7. [爷爷用私房钱圆了奶奶公主梦](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E7%94%A8%E7%A7%81%E6%88%BF%E9%92%B1%E5%9C%86%E4%BA%86%E5%A5%B6%E5%A5%B6%E5%85%AC%E4%B8%BB%E6%A2%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [孟羽童在职曾发65篇非格力产品内容](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%BD%E7%AB%A5%E5%9C%A8%E8%81%8C%E6%9B%BE%E5%8F%9165%E7%AF%87%E9%9D%9E%E6%A0%BC%E5%8A%9B%E4%BA%A7%E5%93%81%E5%86%85%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [癫公癫婆 使不完的牛劲](https://s.weibo.com/weibo?q=%E7%99%AB%E5%85%AC%E7%99%AB%E5%A9%86%20%E4%BD%BF%E4%B8%8D%E5%AE%8C%E7%9A%84%E7%89%9B%E5%8A%B2&t=31&band_rank=9&Refer=top)<br />
+7. [papi酱又出rap了](https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E5%8F%88%E5%87%BArap%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [爷爷用私房钱圆了奶奶公主梦](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E7%94%A8%E7%A7%81%E6%88%BF%E9%92%B1%E5%9C%86%E4%BA%86%E5%A5%B6%E5%A5%B6%E5%85%AC%E4%B8%BB%E6%A2%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [孟羽童在职曾发65篇非格力产品内容](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%BD%E7%AB%A5%E5%9C%A8%E8%81%8C%E6%9B%BE%E5%8F%9165%E7%AF%87%E9%9D%9E%E6%A0%BC%E5%8A%9B%E4%BA%A7%E5%93%81%E5%86%85%E5%AE%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
