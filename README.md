@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 20:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 20:39:02</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [进博会达成合作意向近600项](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E8%BE%BE%E6%88%90%E5%90%88%E4%BD%9C%E6%84%8F%E5%90%91%E8%BF%91600%E9%A1%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“吗喽”占领了年轻人的生活圈](https://www.baidu.com/s?wd=%E2%80%9C%E5%90%97%E5%96%BD%E2%80%9D%E5%8D%A0%E9%A2%86%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中山二院癌症患者确诊隔天被踢出群](https://www.baidu.com/s?wd=%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E7%A1%AE%E8%AF%8A%E9%9A%94%E5%A4%A9%E8%A2%AB%E8%B8%A2%E5%87%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [两架运-20向尼泊尔运送救援物资](https://www.baidu.com/s?wd=%E4%B8%A4%E6%9E%B6%E8%BF%90-20%E5%90%91%E5%B0%BC%E6%B3%8A%E5%B0%94%E8%BF%90%E9%80%81%E6%95%91%E6%8F%B4%E7%89%A9%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [王自如称没看过格力给的工资条](https://www.baidu.com/s?wd=%E7%8E%8B%E8%87%AA%E5%A6%82%E7%A7%B0%E6%B2%A1%E7%9C%8B%E8%BF%87%E6%A0%BC%E5%8A%9B%E7%BB%99%E7%9A%84%E5%B7%A5%E8%B5%84%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [真知计划](https://www.baidu.com/s?wd=%E7%9C%9F%E7%9F%A5%E8%AE%A1%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [冀X车牌进京无需进京证？假的](https://www.baidu.com/s?wd=%E5%86%80X%E8%BD%A6%E7%89%8C%E8%BF%9B%E4%BA%AC%E6%97%A0%E9%9C%80%E8%BF%9B%E4%BA%AC%E8%AF%81%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [进博会达成合作意向近600项](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E8%BE%BE%E6%88%90%E5%90%88%E4%BD%9C%E6%84%8F%E5%90%91%E8%BF%91600%E9%A1%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“吗喽”占领了年轻人的生活圈](https://www.baidu.com/s?wd=%E2%80%9C%E5%90%97%E5%96%BD%E2%80%9D%E5%8D%A0%E9%A2%86%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中山二院癌症患者确诊隔天被踢出群](https://www.baidu.com/s?wd=%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E7%A1%AE%E8%AF%8A%E9%9A%94%E5%A4%A9%E8%A2%AB%E8%B8%A2%E5%87%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [两架运-20向尼泊尔运送救援物资](https://www.baidu.com/s?wd=%E4%B8%A4%E6%9E%B6%E8%BF%90-20%E5%90%91%E5%B0%BC%E6%B3%8A%E5%B0%94%E8%BF%90%E9%80%81%E6%95%91%E6%8F%B4%E7%89%A9%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [王自如称没看过格力给的工资条](https://www.baidu.com/s?wd=%E7%8E%8B%E8%87%AA%E5%A6%82%E7%A7%B0%E6%B2%A1%E7%9C%8B%E8%BF%87%E6%A0%BC%E5%8A%9B%E7%BB%99%E7%9A%84%E5%B7%A5%E8%B5%84%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [真知计划](https://www.baidu.com/s?wd=%E7%9C%9F%E7%9F%A5%E8%AE%A1%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [冀X车牌进京无需进京证？假的](https://www.baidu.com/s?wd=%E5%86%80X%E8%BD%A6%E7%89%8C%E8%BF%9B%E4%BA%AC%E6%97%A0%E9%9C%80%E8%BF%9B%E4%BA%AC%E8%AF%81%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
