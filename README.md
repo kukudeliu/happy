@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 10:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 10:39:01</h4></div>
 
 > 微博  
 
@@ -21,10 +21,10 @@
 2. [中山二院通报“乳腺外科多人患癌”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E9%80%9A%E6%8A%A5%E2%80%9C%E4%B9%B3%E8%85%BA%E5%A4%96%E7%A7%91%E5%A4%9A%E4%BA%BA%E6%82%A3%E7%99%8C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [泽连斯基拒绝战时搞总统选举](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%92%E7%BB%9D%E6%88%98%E6%97%B6%E6%90%9E%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [促进创新成果更多惠及各国人民](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E5%88%9B%E6%96%B0%E6%88%90%E6%9E%9C%E6%9B%B4%E5%A4%9A%E6%83%A0%E5%8F%8A%E5%90%84%E5%9B%BD%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [消息人士否认巴勒斯坦总统车队遇袭](https://www.baidu.com/s?wd=%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E5%90%A6%E8%AE%A4%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%80%BB%E7%BB%9F%E8%BD%A6%E9%98%9F%E9%81%87%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [女生研究方向太冷门花了2年造仪器](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E5%A4%AA%E5%86%B7%E9%97%A8%E8%8A%B1%E4%BA%862%E5%B9%B4%E9%80%A0%E4%BB%AA%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙江多地出现大量臭屁虫](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%87%AD%E5%B1%81%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [哈工大回应学生上课像登机](https://www.baidu.com/s?wd=%E5%93%88%E5%B7%A5%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%B8%8A%E8%AF%BE%E5%83%8F%E7%99%BB%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生研究方向太冷门花了2年造仪器](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E5%A4%AA%E5%86%B7%E9%97%A8%E8%8A%B1%E4%BA%862%E5%B9%B4%E9%80%A0%E4%BB%AA%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [空乘患癌去世被认定宇宙辐射工伤](https://www.baidu.com/s?wd=%E7%A9%BA%E4%B9%98%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E8%A2%AB%E8%AE%A4%E5%AE%9A%E5%AE%87%E5%AE%99%E8%BE%90%E5%B0%84%E5%B7%A5%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣渝北车祸两死一伤](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E6%B8%9D%E5%8C%97%E8%BD%A6%E7%A5%B8%E4%B8%A4%E6%AD%BB%E4%B8%80%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -33,8 +33,8 @@
 2. [中山二院通报“乳腺外科多人患癌”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E9%80%9A%E6%8A%A5%E2%80%9C%E4%B9%B3%E8%85%BA%E5%A4%96%E7%A7%91%E5%A4%9A%E4%BA%BA%E6%82%A3%E7%99%8C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [泽连斯基拒绝战时搞总统选举](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%92%E7%BB%9D%E6%88%98%E6%97%B6%E6%90%9E%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [促进创新成果更多惠及各国人民](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E5%88%9B%E6%96%B0%E6%88%90%E6%9E%9C%E6%9B%B4%E5%A4%9A%E6%83%A0%E5%8F%8A%E5%90%84%E5%9B%BD%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [消息人士否认巴勒斯坦总统车队遇袭](https://www.baidu.com/s?wd=%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E5%90%A6%E8%AE%A4%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%80%BB%E7%BB%9F%E8%BD%A6%E9%98%9F%E9%81%87%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [女生研究方向太冷门花了2年造仪器](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E5%A4%AA%E5%86%B7%E9%97%A8%E8%8A%B1%E4%BA%862%E5%B9%B4%E9%80%A0%E4%BB%AA%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙江多地出现大量臭屁虫](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%87%AD%E5%B1%81%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [哈工大回应学生上课像登机](https://www.baidu.com/s?wd=%E5%93%88%E5%B7%A5%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%B8%8A%E8%AF%BE%E5%83%8F%E7%99%BB%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生研究方向太冷门花了2年造仪器](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E5%A4%AA%E5%86%B7%E9%97%A8%E8%8A%B1%E4%BA%862%E5%B9%B4%E9%80%A0%E4%BB%AA%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [空乘患癌去世被认定宇宙辐射工伤](https://www.baidu.com/s?wd=%E7%A9%BA%E4%B9%98%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E8%A2%AB%E8%AE%A4%E5%AE%9A%E5%AE%87%E5%AE%99%E8%BE%90%E5%B0%84%E5%B7%A5%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣渝北车祸两死一伤](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E6%B8%9D%E5%8C%97%E8%BD%A6%E7%A5%B8%E4%B8%A4%E6%AD%BB%E4%B8%80%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
