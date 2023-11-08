@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 09:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 09:25:01</h4></div>
 
 > 微博  
 
 1. [中山二院通报](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E9%80%9A%E6%8A%A5%23&t=31&band_rank=1&Refer=top)<br />
 2. [将睡眠时间延长至8小时对身心的变化](https://s.weibo.com/weibo?q=%E5%B0%86%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%97%B4%E5%BB%B6%E9%95%BF%E8%87%B38%E5%B0%8F%E6%97%B6%E5%AF%B9%E8%BA%AB%E5%BF%83%E7%9A%84%E5%8F%98%E5%8C%96&t=31&band_rank=2&Refer=top)<br />
 3. [乌镇网事](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%95%87%E7%BD%91%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
-4. [宁安如梦 歹毒运镜](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E6%AD%B9%E6%AF%92%E8%BF%90%E9%95%9C&t=31&band_rank=4&Refer=top)<br />
-5. [金莎男友 大学生勇闯娱乐圈](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%20%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8B%87%E9%97%AF%E5%A8%B1%E4%B9%90%E5%9C%88&t=31&band_rank=5&Refer=top)<br />
+4. [金莎男友 大学生勇闯娱乐圈](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%20%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8B%87%E9%97%AF%E5%A8%B1%E4%B9%90%E5%9C%88&t=31&band_rank=4&Refer=top)<br />
+5. [宁安如梦 歹毒运镜](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E6%AD%B9%E6%AF%92%E8%BF%90%E9%95%9C&t=31&band_rank=5&Refer=top)<br />
 6. [立冬吃饺子](https://s.weibo.com/weibo?q=%23%E7%AB%8B%E5%86%AC%E5%90%83%E9%A5%BA%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [今日立冬](https://s.weibo.com/weibo?q=%E4%BB%8A%E6%97%A5%E7%AB%8B%E5%86%AC&t=31&band_rank=7&Refer=top)<br />
 8. [与主播发生关系住持被停职](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E4%B8%BB%E6%92%AD%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E4%BD%8F%E6%8C%81%E8%A2%AB%E5%81%9C%E8%81%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [妈妈用生理盐水帮宝宝冲洗鼻腔](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E7%94%A8%E7%94%9F%E7%90%86%E7%9B%90%E6%B0%B4%E5%B8%AE%E5%AE%9D%E5%AE%9D%E5%86%B2%E6%B4%97%E9%BC%BB%E8%85%94&t=31&band_rank=9&Refer=top)<br />
+9. [女生研究方向太冷门花了2年造仪器](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E5%A4%AA%E5%86%B7%E9%97%A8%E8%8A%B1%E4%BA%862%E5%B9%B4%E9%80%A0%E4%BB%AA%E5%99%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
