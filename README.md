@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 11:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 11:52:01</h4></div>
 
 > 微博  
 
-1. [中山二院通报](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E9%80%9A%E6%8A%A5%23&t=31&band_rank=1&Refer=top)<br />
-2. [90后公务员泄密获刑](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%85%AC%E5%8A%A1%E5%91%98%E6%B3%84%E5%AF%86%E8%8E%B7%E5%88%91%23&t=31&band_rank=2&Refer=top)<br />
+1. [90后公务员泄密获刑](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%85%AC%E5%8A%A1%E5%91%98%E6%B3%84%E5%AF%86%E8%8E%B7%E5%88%91%23&t=31&band_rank=1&Refer=top)<br />
+2. [中山二院通报](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E9%80%9A%E6%8A%A5%23&t=31&band_rank=2&Refer=top)<br />
 3. [乌镇网事](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%95%87%E7%BD%91%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [中山二院苏士成正常坐诊](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E8%8B%8F%E5%A3%AB%E6%88%90%E6%AD%A3%E5%B8%B8%E5%9D%90%E8%AF%8A%23&t=31&band_rank=4&Refer=top)<br />
 5. [溺亡女医生遗书称被丈夫长期注射麻醉剂](https://s.weibo.com/weibo?q=%23%E6%BA%BA%E4%BA%A1%E5%A5%B3%E5%8C%BB%E7%94%9F%E9%81%97%E4%B9%A6%E7%A7%B0%E8%A2%AB%E4%B8%88%E5%A4%AB%E9%95%BF%E6%9C%9F%E6%B3%A8%E5%B0%84%E9%BA%BB%E9%86%89%E5%89%82%23&t=31&band_rank=5&Refer=top)<br />
