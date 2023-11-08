@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 12:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 12:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中山二院称欢迎第三方机构评估调查](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%A7%B0%E6%AC%A2%E8%BF%8E%E7%AC%AC%E4%B8%89%E6%96%B9%E6%9C%BA%E6%9E%84%E8%AF%84%E4%BC%B0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [中山二院苏士成正常坐诊](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E8%8B%8F%E5%A3%AB%E6%88%90%E6%AD%A3%E5%B8%B8%E5%9D%90%E8%AF%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [宁安如梦 歹毒运镜](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E6%AD%B9%E6%AF%92%E8%BF%90%E9%95%9C&t=31&band_rank=8&Refer=top)<br />
-9. [姜珮瑶 明媚的美](https://s.weibo.com/weibo?q=%E5%A7%9C%E7%8F%AE%E7%91%B6%20%E6%98%8E%E5%AA%9A%E7%9A%84%E7%BE%8E&t=31&band_rank=9&Refer=top)<br />
+9. [何猷君 听老婆话会发达](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E5%90%AC%E8%80%81%E5%A9%86%E8%AF%9D%E4%BC%9A%E5%8F%91%E8%BE%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
