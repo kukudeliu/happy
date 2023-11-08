@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 13:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 13:06:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [警惕让你悄悄变丑的坏习惯](https://s.weibo.com/weibo?q=%E8%AD%A6%E6%83%95%E8%AE%A9%E4%BD%A0%E6%82%84%E6%82%84%E5%8F%98%E4%B8%91%E7%9A%84%E5%9D%8F%E4%B9%A0%E6%83%AF&t=31&band_rank=6&Refer=top)<br />
 7. [中山二院称欢迎第三方机构评估调查](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%A7%B0%E6%AC%A2%E8%BF%8E%E7%AC%AC%E4%B8%89%E6%96%B9%E6%9C%BA%E6%9E%84%E8%AF%84%E4%BC%B0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [MAMA阵容](https://s.weibo.com/weibo?q=MAMA%E9%98%B5%E5%AE%B9&t=31&band_rank=8&Refer=top)<br />
-9. [金莎男友 大学生勇闯娱乐圈](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%20%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8B%87%E9%97%AF%E5%A8%B1%E4%B9%90%E5%9C%88&t=31&band_rank=9&Refer=top)<br />
+9. [庄时利和谈胰腺癌](https://s.weibo.com/weibo?q=%E5%BA%84%E6%97%B6%E5%88%A9%E5%92%8C%E8%B0%88%E8%83%B0%E8%85%BA%E7%99%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
