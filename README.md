@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 00:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 00:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [花少5第一次真正的矛盾来了](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%915%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%9F%9B%E7%9B%BE%E6%9D%A5%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [酒店讲述仲尼巴厘岛遇难细节](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E8%AE%B2%E8%BF%B0%E4%BB%B2%E5%B0%BC%E5%B7%B4%E5%8E%98%E5%B2%9B%E9%81%87%E9%9A%BE%E7%BB%86%E8%8A%82%23&t=31&band_rank=7&Refer=top)<br />
 8. [ChatGPT崩了](https://s.weibo.com/weibo?q=ChatGPT%E5%B4%A9%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [河南新乡警方通报两女子浑身是血倒在街头](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%B0%E4%B9%A1%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%A4%E5%A5%B3%E5%AD%90%E6%B5%91%E8%BA%AB%E6%98%AF%E8%A1%80%E5%80%92%E5%9C%A8%E8%A1%97%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘恺威肘击颖儿](https://s.weibo.com/weibo?q=%E5%88%98%E6%81%BA%E5%A8%81%E8%82%98%E5%87%BB%E9%A2%96%E5%84%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
