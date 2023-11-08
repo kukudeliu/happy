@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 14:06:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 14:07:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中山二院通报](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E9%80%9A%E6%8A%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [董明珠称孟羽童兼职接广告不合规](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E5%AD%9F%E7%BE%BD%E7%AB%A5%E5%85%BC%E8%81%8C%E6%8E%A5%E5%B9%BF%E5%91%8A%E4%B8%8D%E5%90%88%E8%A7%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [90后公务员泄密获刑](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%85%AC%E5%8A%A1%E5%91%98%E6%B3%84%E5%AF%86%E8%8E%B7%E5%88%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [炎亚纶被公诉](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E8%A2%AB%E5%85%AC%E8%AF%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [秦海璐肠绞痛痛到脸都白了](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%B5%B7%E7%92%90%E8%82%A0%E7%BB%9E%E7%97%9B%E7%97%9B%E5%88%B0%E8%84%B8%E9%83%BD%E7%99%BD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
