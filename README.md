@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 20:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 20:53:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [进博会达成合作意向近600项](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E8%BE%BE%E6%88%90%E5%90%88%E4%BD%9C%E6%84%8F%E5%90%91%E8%BF%91600%E9%A1%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“吗喽”占领了年轻人的生活圈](https://www.baidu.com/s?wd=%E2%80%9C%E5%90%97%E5%96%BD%E2%80%9D%E5%8D%A0%E9%A2%86%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [年轻人把五星级酒店当食堂](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%8A%E4%BA%94%E6%98%9F%E7%BA%A7%E9%85%92%E5%BA%97%E5%BD%93%E9%A3%9F%E5%A0%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中山二院癌症患者确诊隔天被踢出群](https://www.baidu.com/s?wd=%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E7%A1%AE%E8%AF%8A%E9%9A%94%E5%A4%A9%E8%A2%AB%E8%B8%A2%E5%87%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [106岁开国少将文击逝世](https://www.baidu.com/s?wd=106%E5%B2%81%E5%BC%80%E5%9B%BD%E5%B0%91%E5%B0%86%E6%96%87%E5%87%BB%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [真知计划](https://www.baidu.com/s?wd=%E7%9C%9F%E7%9F%A5%E8%AE%A1%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [冀X车牌进京无需进京证？假的](https://www.baidu.com/s?wd=%E5%86%80X%E8%BD%A6%E7%89%8C%E8%BF%9B%E4%BA%AC%E6%97%A0%E9%9C%80%E8%BF%9B%E4%BA%AC%E8%AF%81%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [进博会达成合作意向近600项](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E8%BE%BE%E6%88%90%E5%90%88%E4%BD%9C%E6%84%8F%E5%90%91%E8%BF%91600%E9%A1%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“吗喽”占领了年轻人的生活圈](https://www.baidu.com/s?wd=%E2%80%9C%E5%90%97%E5%96%BD%E2%80%9D%E5%8D%A0%E9%A2%86%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [年轻人把五星级酒店当食堂](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%8A%E4%BA%94%E6%98%9F%E7%BA%A7%E9%85%92%E5%BA%97%E5%BD%93%E9%A3%9F%E5%A0%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中山二院癌症患者确诊隔天被踢出群](https://www.baidu.com/s?wd=%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E7%A1%AE%E8%AF%8A%E9%9A%94%E5%A4%A9%E8%A2%AB%E8%B8%A2%E5%87%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [106岁开国少将文击逝世](https://www.baidu.com/s?wd=106%E5%B2%81%E5%BC%80%E5%9B%BD%E5%B0%91%E5%B0%86%E6%96%87%E5%87%BB%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [真知计划](https://www.baidu.com/s?wd=%E7%9C%9F%E7%9F%A5%E8%AE%A1%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [冀X车牌进京无需进京证？假的](https://www.baidu.com/s?wd=%E5%86%80X%E8%BD%A6%E7%89%8C%E8%BF%9B%E4%BA%AC%E6%97%A0%E9%9C%80%E8%BF%9B%E4%BA%AC%E8%AF%81%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
