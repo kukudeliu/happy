@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 13:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 13:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [哈尔滨大妈雪地干洗呢子大衣](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%A4%A7%E5%A6%88%E9%9B%AA%E5%9C%B0%E5%B9%B2%E6%B4%97%E5%91%A2%E5%AD%90%E5%A4%A7%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [扬州女子捂死女儿后跳楼？当地回应](https://www.baidu.com/s?wd=%E6%89%AC%E5%B7%9E%E5%A5%B3%E5%AD%90%E6%8D%82%E6%AD%BB%E5%A5%B3%E5%84%BF%E5%90%8E%E8%B7%B3%E6%A5%BC%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [安徽7岁女童被恶犬撕咬致毁容](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD7%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%81%B6%E7%8A%AC%E6%92%95%E5%92%AC%E8%87%B4%E6%AF%81%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙江多地出现大量臭屁虫](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%87%AD%E5%B1%81%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [将睡眠延长至8小时对身心的变化](https://www.baidu.com/s?wd=%E5%B0%86%E7%9D%A1%E7%9C%A0%E5%BB%B6%E9%95%BF%E8%87%B38%E5%B0%8F%E6%97%B6%E5%AF%B9%E8%BA%AB%E5%BF%83%E7%9A%84%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣渝北车祸两死一伤](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E6%B8%9D%E5%8C%97%E8%BD%A6%E7%A5%B8%E4%B8%A4%E6%AD%BB%E4%B8%80%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [哈尔滨大妈雪地干洗呢子大衣](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%A4%A7%E5%A6%88%E9%9B%AA%E5%9C%B0%E5%B9%B2%E6%B4%97%E5%91%A2%E5%AD%90%E5%A4%A7%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [扬州女子捂死女儿后跳楼？当地回应](https://www.baidu.com/s?wd=%E6%89%AC%E5%B7%9E%E5%A5%B3%E5%AD%90%E6%8D%82%E6%AD%BB%E5%A5%B3%E5%84%BF%E5%90%8E%E8%B7%B3%E6%A5%BC%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [安徽7岁女童被恶犬撕咬致毁容](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD7%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%81%B6%E7%8A%AC%E6%92%95%E5%92%AC%E8%87%B4%E6%AF%81%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙江多地出现大量臭屁虫](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%87%AD%E5%B1%81%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [将睡眠延长至8小时对身心的变化](https://www.baidu.com/s?wd=%E5%B0%86%E7%9D%A1%E7%9C%A0%E5%BB%B6%E9%95%BF%E8%87%B38%E5%B0%8F%E6%97%B6%E5%AF%B9%E8%BA%AB%E5%BF%83%E7%9A%84%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣渝北车祸两死一伤](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E6%B8%9D%E5%8C%97%E8%BD%A6%E7%A5%B8%E4%B8%A4%E6%AD%BB%E4%B8%80%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
