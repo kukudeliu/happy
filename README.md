@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 00:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 00:05:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [系统Bug？南航多航线机票低至10元](https://www.baidu.com/s?wd=%E7%B3%BB%E7%BB%9FBug%EF%BC%9F%E5%8D%97%E8%88%AA%E5%A4%9A%E8%88%AA%E7%BA%BF%E6%9C%BA%E7%A5%A8%E4%BD%8E%E8%87%B310%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网红仲尼系生日当天溺亡](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%BB%B2%E5%B0%BC%E7%B3%BB%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [仲尼溺亡 妻子卡琳娜掩面而泣](https://www.baidu.com/s?wd=%E4%BB%B2%E5%B0%BC%E6%BA%BA%E4%BA%A1+%E5%A6%BB%E5%AD%90%E5%8D%A1%E7%90%B3%E5%A8%9C%E6%8E%A9%E9%9D%A2%E8%80%8C%E6%B3%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夫妻变卖房东3.6万元家电只愿赔3千](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%8F%98%E5%8D%96%E6%88%BF%E4%B8%9C3.6%E4%B8%87%E5%85%83%E5%AE%B6%E7%94%B5%E5%8F%AA%E6%84%BF%E8%B5%943%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [渐冻症小伙两根手指写了本小说](https://www.baidu.com/s?wd=%E6%B8%90%E5%86%BB%E7%97%87%E5%B0%8F%E4%BC%99%E4%B8%A4%E6%A0%B9%E6%89%8B%E6%8C%87%E5%86%99%E4%BA%86%E6%9C%AC%E5%B0%8F%E8%AF%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [喝酒防寒、吃高热量食物暖身？](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E9%98%B2%E5%AF%92%E3%80%81%E5%90%83%E9%AB%98%E7%83%AD%E9%87%8F%E9%A3%9F%E7%89%A9%E6%9A%96%E8%BA%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [系统Bug？南航多航线机票低至10元](https://www.baidu.com/s?wd=%E7%B3%BB%E7%BB%9FBug%EF%BC%9F%E5%8D%97%E8%88%AA%E5%A4%9A%E8%88%AA%E7%BA%BF%E6%9C%BA%E7%A5%A8%E4%BD%8E%E8%87%B310%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网红仲尼系生日当天溺亡](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%BB%B2%E5%B0%BC%E7%B3%BB%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [仲尼溺亡 妻子卡琳娜掩面而泣](https://www.baidu.com/s?wd=%E4%BB%B2%E5%B0%BC%E6%BA%BA%E4%BA%A1+%E5%A6%BB%E5%AD%90%E5%8D%A1%E7%90%B3%E5%A8%9C%E6%8E%A9%E9%9D%A2%E8%80%8C%E6%B3%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夫妻变卖房东3.6万元家电只愿赔3千](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%8F%98%E5%8D%96%E6%88%BF%E4%B8%9C3.6%E4%B8%87%E5%85%83%E5%AE%B6%E7%94%B5%E5%8F%AA%E6%84%BF%E8%B5%943%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [渐冻症小伙两根手指写了本小说](https://www.baidu.com/s?wd=%E6%B8%90%E5%86%BB%E7%97%87%E5%B0%8F%E4%BC%99%E4%B8%A4%E6%A0%B9%E6%89%8B%E6%8C%87%E5%86%99%E4%BA%86%E6%9C%AC%E5%B0%8F%E8%AF%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [喝酒防寒、吃高热量食物暖身？](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E9%98%B2%E5%AF%92%E3%80%81%E5%90%83%E9%AB%98%E7%83%AD%E9%87%8F%E9%A3%9F%E7%89%A9%E6%9A%96%E8%BA%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
