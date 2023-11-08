@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 17:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 17:14:02</h4></div>
 
 > 微博  
 
-1. [中山二院癌症患者黄某家属发声](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E9%BB%84%E6%9F%90%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=1&Refer=top)<br />
-2. [陆家嘴](https://s.weibo.com/weibo?q=%E9%99%86%E5%AE%B6%E5%98%B4&t=31&band_rank=2&Refer=top)<br />
+1. [陆家嘴](https://s.weibo.com/weibo?q=%E9%99%86%E5%AE%B6%E5%98%B4&t=31&band_rank=1&Refer=top)<br />
+2. [中山二院癌症患者黄某家属发声](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E9%BB%84%E6%9F%90%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=2&Refer=top)<br />
 3. [元宇宙体验2023金融街论坛年会](https://s.weibo.com/weibo?q=%23%E5%85%83%E5%AE%87%E5%AE%99%E4%BD%93%E9%AA%8C2023%E9%87%91%E8%9E%8D%E8%A1%97%E8%AE%BA%E5%9D%9B%E5%B9%B4%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [陆家嘴公司买到毒地索赔100亿元](https://s.weibo.com/weibo?q=%23%E9%99%86%E5%AE%B6%E5%98%B4%E5%85%AC%E5%8F%B8%E4%B9%B0%E5%88%B0%E6%AF%92%E5%9C%B0%E7%B4%A2%E8%B5%94100%E4%BA%BF%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [白鹿台词 燕临你疯了](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E5%8F%B0%E8%AF%8D%20%E7%87%95%E4%B8%B4%E4%BD%A0%E7%96%AF%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
