@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 13:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 13:04:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [哈尔滨大妈雪地干洗呢子大衣](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%A4%A7%E5%A6%88%E9%9B%AA%E5%9C%B0%E5%B9%B2%E6%B4%97%E5%91%A2%E5%AD%90%E5%A4%A7%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [进博会持续释放中国市场吸引力](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E6%8C%81%E7%BB%AD%E9%87%8A%E6%94%BE%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%90%B8%E5%BC%95%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [四川凉山明年多休16天](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E6%98%8E%E5%B9%B4%E5%A4%9A%E4%BC%9116%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [安徽7岁女童被恶犬撕咬致毁容](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD7%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%81%B6%E7%8A%AC%E6%92%95%E5%92%AC%E8%87%B4%E6%AF%81%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [扬州女子捂死女儿后跳楼？当地回应](https://www.baidu.com/s?wd=%E6%89%AC%E5%B7%9E%E5%A5%B3%E5%AD%90%E6%8D%82%E6%AD%BB%E5%A5%B3%E5%84%BF%E5%90%8E%E8%B7%B3%E6%A5%BC%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [将睡眠延长至8小时对身心的变化](https://www.baidu.com/s?wd=%E5%B0%86%E7%9D%A1%E7%9C%A0%E5%BB%B6%E9%95%BF%E8%87%B38%E5%B0%8F%E6%97%B6%E5%AF%B9%E8%BA%AB%E5%BF%83%E7%9A%84%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [扬州女子捂死女儿后跳楼？当地回应](https://www.baidu.com/s?wd=%E6%89%AC%E5%B7%9E%E5%A5%B3%E5%AD%90%E6%8D%82%E6%AD%BB%E5%A5%B3%E5%84%BF%E5%90%8E%E8%B7%B3%E6%A5%BC%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [安徽7岁女童被恶犬撕咬致毁容](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD7%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%81%B6%E7%8A%AC%E6%92%95%E5%92%AC%E8%87%B4%E6%AF%81%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [空乘患癌去世被认定宇宙辐射工伤](https://www.baidu.com/s?wd=%E7%A9%BA%E4%B9%98%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E8%A2%AB%E8%AE%A4%E5%AE%9A%E5%AE%87%E5%AE%99%E8%BE%90%E5%B0%84%E5%B7%A5%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣渝北车祸两死一伤](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E6%B8%9D%E5%8C%97%E8%BD%A6%E7%A5%B8%E4%B8%A4%E6%AD%BB%E4%B8%80%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [哈尔滨大妈雪地干洗呢子大衣](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%A4%A7%E5%A6%88%E9%9B%AA%E5%9C%B0%E5%B9%B2%E6%B4%97%E5%91%A2%E5%AD%90%E5%A4%A7%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [进博会持续释放中国市场吸引力](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E6%8C%81%E7%BB%AD%E9%87%8A%E6%94%BE%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%90%B8%E5%BC%95%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [四川凉山明年多休16天](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E6%98%8E%E5%B9%B4%E5%A4%9A%E4%BC%9116%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [安徽7岁女童被恶犬撕咬致毁容](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD7%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%81%B6%E7%8A%AC%E6%92%95%E5%92%AC%E8%87%B4%E6%AF%81%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [扬州女子捂死女儿后跳楼？当地回应](https://www.baidu.com/s?wd=%E6%89%AC%E5%B7%9E%E5%A5%B3%E5%AD%90%E6%8D%82%E6%AD%BB%E5%A5%B3%E5%84%BF%E5%90%8E%E8%B7%B3%E6%A5%BC%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [将睡眠延长至8小时对身心的变化](https://www.baidu.com/s?wd=%E5%B0%86%E7%9D%A1%E7%9C%A0%E5%BB%B6%E9%95%BF%E8%87%B38%E5%B0%8F%E6%97%B6%E5%AF%B9%E8%BA%AB%E5%BF%83%E7%9A%84%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [扬州女子捂死女儿后跳楼？当地回应](https://www.baidu.com/s?wd=%E6%89%AC%E5%B7%9E%E5%A5%B3%E5%AD%90%E6%8D%82%E6%AD%BB%E5%A5%B3%E5%84%BF%E5%90%8E%E8%B7%B3%E6%A5%BC%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [安徽7岁女童被恶犬撕咬致毁容](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD7%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%81%B6%E7%8A%AC%E6%92%95%E5%92%AC%E8%87%B4%E6%AF%81%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [空乘患癌去世被认定宇宙辐射工伤](https://www.baidu.com/s?wd=%E7%A9%BA%E4%B9%98%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E8%A2%AB%E8%AE%A4%E5%AE%9A%E5%AE%87%E5%AE%99%E8%BE%90%E5%B0%84%E5%B7%A5%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣渝北车祸两死一伤](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E6%B8%9D%E5%8C%97%E8%BD%A6%E7%A5%B8%E4%B8%A4%E6%AD%BB%E4%B8%80%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
