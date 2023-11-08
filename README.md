@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 16:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-08 16:42:02</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [中美领导人将在美会谈？中方回应](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B0%86%E5%9C%A8%E7%BE%8E%E4%BC%9A%E8%B0%88%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [成都欢乐谷“唐僧”走红](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E6%AC%A2%E4%B9%90%E8%B0%B7%E2%80%9C%E5%94%90%E5%83%A7%E2%80%9D%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [进博会达成合作意向近600项](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E8%BE%BE%E6%88%90%E5%90%88%E4%BD%9C%E6%84%8F%E5%90%91%E8%BF%91600%E9%A1%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [哈尔滨暴雪高校学生公寓墙体开裂](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E6%9A%B4%E9%9B%AA%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E5%85%AC%E5%AF%93%E5%A2%99%E4%BD%93%E5%BC%80%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [哈师大黑天鹅已被冻湖上两天](https://www.baidu.com/s?wd=%E5%93%88%E5%B8%88%E5%A4%A7%E9%BB%91%E5%A4%A9%E9%B9%85%E5%B7%B2%E8%A2%AB%E5%86%BB%E6%B9%96%E4%B8%8A%E4%B8%A4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [释永信到访Meta、苹果和谷歌](https://www.baidu.com/s?wd=%E9%87%8A%E6%B0%B8%E4%BF%A1%E5%88%B0%E8%AE%BFMeta%E3%80%81%E8%8B%B9%E6%9E%9C%E5%92%8C%E8%B0%B7%E6%AD%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [落马干部发条短信获700万感谢费](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%B9%B2%E9%83%A8%E5%8F%91%E6%9D%A1%E7%9F%AD%E4%BF%A1%E8%8E%B7700%E4%B8%87%E6%84%9F%E8%B0%A2%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#度晓晓开了国内首个数字人淘宝店#](https://www.baidu.com/s?wd=%23%E5%BA%A6%E6%99%93%E6%99%93%E5%BC%80%E4%BA%86%E5%9B%BD%E5%86%85%E9%A6%96%E4%B8%AA%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B7%98%E5%AE%9D%E5%BA%97%23&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [中美领导人将在美会谈？中方回应](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B0%86%E5%9C%A8%E7%BE%8E%E4%BC%9A%E8%B0%88%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [成都欢乐谷“唐僧”走红](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E6%AC%A2%E4%B9%90%E8%B0%B7%E2%80%9C%E5%94%90%E5%83%A7%E2%80%9D%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [进博会达成合作意向近600项](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E8%BE%BE%E6%88%90%E5%90%88%E4%BD%9C%E6%84%8F%E5%90%91%E8%BF%91600%E9%A1%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [哈尔滨暴雪高校学生公寓墙体开裂](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E6%9A%B4%E9%9B%AA%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E5%85%AC%E5%AF%93%E5%A2%99%E4%BD%93%E5%BC%80%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [哈师大黑天鹅已被冻湖上两天](https://www.baidu.com/s?wd=%E5%93%88%E5%B8%88%E5%A4%A7%E9%BB%91%E5%A4%A9%E9%B9%85%E5%B7%B2%E8%A2%AB%E5%86%BB%E6%B9%96%E4%B8%8A%E4%B8%A4%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [释永信到访Meta、苹果和谷歌](https://www.baidu.com/s?wd=%E9%87%8A%E6%B0%B8%E4%BF%A1%E5%88%B0%E8%AE%BFMeta%E3%80%81%E8%8B%B9%E6%9E%9C%E5%92%8C%E8%B0%B7%E6%AD%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [落马干部发条短信获700万感谢费](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%B9%B2%E9%83%A8%E5%8F%91%E6%9D%A1%E7%9F%AD%E4%BF%A1%E8%8E%B7700%E4%B8%87%E6%84%9F%E8%B0%A2%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#度晓晓开了国内首个数字人淘宝店#](https://www.baidu.com/s?wd=%23%E5%BA%A6%E6%99%93%E6%99%93%E5%BC%80%E4%BA%86%E5%9B%BD%E5%86%85%E9%A6%96%E4%B8%AA%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B7%98%E5%AE%9D%E5%BA%97%23&sa=fyb_news&rsv_dl=fyb_news)<br />
