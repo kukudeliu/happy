@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 12:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 12:36:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [秦海璐一句话误伤迪丽热巴](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%B5%B7%E7%92%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AF%AF%E4%BC%A4%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [时宴沙发吻](https://s.weibo.com/weibo?q=%E6%97%B6%E5%AE%B4%E6%B2%99%E5%8F%91%E5%90%BB&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦VS徐瑛彬](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6VS%E5%BE%90%E7%91%9B%E5%BD%AC&t=31&band_rank=7&Refer=top)<br />
-8. [胡先煦 我们太男性视角了](https://s.weibo.com/weibo?q=%E8%83%A1%E5%85%88%E7%85%A6%20%E6%88%91%E4%BB%AC%E5%A4%AA%E7%94%B7%E6%80%A7%E8%A7%86%E8%A7%92%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [中山二院致癌事件三大疑问](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E8%87%B4%E7%99%8C%E4%BA%8B%E4%BB%B6%E4%B8%89%E5%A4%A7%E7%96%91%E9%97%AE%23&t=31&band_rank=9&Refer=top)<br />
+8. [以爱为营 秀才和一笑倾城](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E7%A7%80%E6%89%8D%E5%92%8C%E4%B8%80%E7%AC%91%E5%80%BE%E5%9F%8E&t=31&band_rank=8&Refer=top)<br />
+9. [领助学金学生看演唱会被要求删朋友圈](https://s.weibo.com/weibo?q=%23%E9%A2%86%E5%8A%A9%E5%AD%A6%E9%87%91%E5%AD%A6%E7%94%9F%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E8%A6%81%E6%B1%82%E5%88%A0%E6%9C%8B%E5%8F%8B%E5%9C%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
