@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 22:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 22:15:02</h4></div>
 
 > 微博  
 
 1. [金莎说把我的恋爱脑炖了吧](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E8%AF%B4%E6%8A%8A%E6%88%91%E7%9A%84%E6%81%8B%E7%88%B1%E8%84%91%E7%82%96%E4%BA%86%E5%90%A7%23&t=31&band_rank=1&Refer=top)<br />
-2. [中国公民暂勿前往缅北](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E7%BC%85%E5%8C%97%23&t=31&band_rank=2&Refer=top)<br />
+2. [张家界涉事正新鸡排加盟店已被查封](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%B6%89%E4%BA%8B%E6%AD%A3%E6%96%B0%E9%B8%A1%E6%8E%92%E5%8A%A0%E7%9B%9F%E5%BA%97%E5%B7%B2%E8%A2%AB%E6%9F%A5%E5%B0%81%23&t=31&band_rank=2&Refer=top)<br />
 3. [乌镇网事](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%95%87%E7%BD%91%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [邓为 DIOR](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%20DIOR&t=31&band_rank=4&Refer=top)<br />
-5. [张家界涉事正新鸡排加盟店已被查封](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%B6%89%E4%BA%8B%E6%AD%A3%E6%96%B0%E9%B8%A1%E6%8E%92%E5%8A%A0%E7%9B%9F%E5%BA%97%E5%B7%B2%E8%A2%AB%E6%9F%A5%E5%B0%81%23&t=31&band_rank=5&Refer=top)<br />
+5. [中国公民暂勿前往缅北](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E7%BC%85%E5%8C%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [小奇迹一家平安到家](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A5%87%E8%BF%B9%E4%B8%80%E5%AE%B6%E5%B9%B3%E5%AE%89%E5%88%B0%E5%AE%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [一中国女子在日本街头被杀害](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A1%97%E5%A4%B4%E8%A2%AB%E6%9D%80%E5%AE%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [宁安如梦 台词难受](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E5%8F%B0%E8%AF%8D%E9%9A%BE%E5%8F%97&t=31&band_rank=8&Refer=top)<br />
