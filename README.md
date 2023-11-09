@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 18:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 18:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [圈里人都知道刘宇宁回家过年的场景了](https://s.weibo.com/weibo?q=%E5%9C%88%E9%87%8C%E4%BA%BA%E9%83%BD%E7%9F%A5%E9%81%93%E5%88%98%E5%AE%87%E5%AE%81%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E7%9A%84%E5%9C%BA%E6%99%AF%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [霸王茶姬 三品管](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E4%B8%89%E5%93%81%E7%AE%A1&t=31&band_rank=7&Refer=top)<br />
 8. [南京胖哥称父亲查出患食道癌](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%E7%A7%B0%E7%88%B6%E4%BA%B2%E6%9F%A5%E5%87%BA%E6%82%A3%E9%A3%9F%E9%81%93%E7%99%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [李雪琴吻戏](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%90%BB%E6%88%8F&t=31&band_rank=9&Refer=top)<br />
+9. [00后给父母买大件反赚两千元](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E7%BB%99%E7%88%B6%E6%AF%8D%E4%B9%B0%E5%A4%A7%E4%BB%B6%E5%8F%8D%E8%B5%9A%E4%B8%A4%E5%8D%83%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
