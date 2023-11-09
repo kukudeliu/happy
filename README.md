@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 15:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 15:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以爱为营 小蛋糕之神](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E5%B0%8F%E8%9B%8B%E7%B3%95%E4%B9%8B%E7%A5%9E&t=31&band_rank=6&Refer=top)<br />
 7. [海滩红旗区](https://s.weibo.com/weibo?q=%E6%B5%B7%E6%BB%A9%E7%BA%A2%E6%97%97%E5%8C%BA&t=31&band_rank=7&Refer=top)<br />
 8. [我独自尖叫 海璐姐好会驯](https://s.weibo.com/weibo?q=%E6%88%91%E7%8B%AC%E8%87%AA%E5%B0%96%E5%8F%AB%20%E6%B5%B7%E7%92%90%E5%A7%90%E5%A5%BD%E4%BC%9A%E9%A9%AF&t=31&band_rank=8&Refer=top)<br />
-9. [张远一个人编舞 六个人丢脸](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%BF%9C%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%BC%96%E8%88%9E%20%E5%85%AD%E4%B8%AA%E4%BA%BA%E4%B8%A2%E8%84%B8&t=31&band_rank=9&Refer=top)<br />
+9. [陈楚生 地狱笑话](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%20%E5%9C%B0%E7%8B%B1%E7%AC%91%E8%AF%9D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
