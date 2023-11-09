@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 13:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 13:03:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [海滩红旗区](https://s.weibo.com/weibo?q=%E6%B5%B7%E6%BB%A9%E7%BA%A2%E6%97%97%E5%8C%BA&t=31&band_rank=4&Refer=top)<br />
 5. [赵露思范思哲全球品牌代言人](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%8C%83%E6%80%9D%E5%93%B2%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [大S回应小S复出演戏](https://s.weibo.com/weibo?q=%23%E5%A4%A7S%E5%9B%9E%E5%BA%94%E5%B0%8FS%E5%A4%8D%E5%87%BA%E6%BC%94%E6%88%8F%23&t=31&band_rank=6&Refer=top)<br />
-7. [这萧剑晴儿还能认出吗](https://s.weibo.com/weibo?q=%E8%BF%99%E8%90%A7%E5%89%91%E6%99%B4%E5%84%BF%E8%BF%98%E8%83%BD%E8%AE%A4%E5%87%BA%E5%90%97&t=31&band_rank=7&Refer=top)<br />
-8. [秦海璐一句话误伤迪丽热巴](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%B5%B7%E7%92%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AF%AF%E4%BC%A4%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [王楚钦2比3徐瑛彬](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A62%E6%AF%943%E5%BE%90%E7%91%9B%E5%BD%AC%23&t=31&band_rank=9&Refer=top)<br />
+7. [秦海璐一句话误伤迪丽热巴](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%B5%B7%E7%92%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AF%AF%E4%BC%A4%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [这萧剑晴儿还能认出吗](https://s.weibo.com/weibo?q=%E8%BF%99%E8%90%A7%E5%89%91%E6%99%B4%E5%84%BF%E8%BF%98%E8%83%BD%E8%AE%A4%E5%87%BA%E5%90%97&t=31&band_rank=8&Refer=top)<br />
+9. [协和医生 中山二院事件大概率不了了之](https://s.weibo.com/weibo?q=%E5%8D%8F%E5%92%8C%E5%8C%BB%E7%94%9F%20%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E4%BA%8B%E4%BB%B6%E5%A4%A7%E6%A6%82%E7%8E%87%E4%B8%8D%E4%BA%86%E4%BA%86%E4%B9%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
