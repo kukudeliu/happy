@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 10:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 10:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [梨形身材才是基因彩票](https://s.weibo.com/weibo?q=%E6%A2%A8%E5%BD%A2%E8%BA%AB%E6%9D%90%E6%89%8D%E6%98%AF%E5%9F%BA%E5%9B%A0%E5%BD%A9%E7%A5%A8&t=31&band_rank=6&Refer=top)<br />
 7. [刘媛媛曾6小时带货超1亿元](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AA%9B%E5%AA%9B%E6%9B%BE6%E5%B0%8F%E6%97%B6%E5%B8%A6%E8%B4%A7%E8%B6%851%E4%BA%BF%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [广州一劳斯莱斯年审时被拉爆缸](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E5%B9%B4%E5%AE%A1%E6%97%B6%E8%A2%AB%E6%8B%89%E7%88%86%E7%BC%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘些宁宁安如梦状态](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%9B%E5%AE%81%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [皇马放弃姆巴佩](https://s.weibo.com/weibo?q=%E7%9A%87%E9%A9%AC%E6%94%BE%E5%BC%83%E5%A7%86%E5%B7%B4%E4%BD%A9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
