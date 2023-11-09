@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 12:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 12:34:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [这萧剑晴儿还能认出吗](https://s.weibo.com/weibo?q=%E8%BF%99%E8%90%A7%E5%89%91%E6%99%B4%E5%84%BF%E8%BF%98%E8%83%BD%E8%AE%A4%E5%87%BA%E5%90%97&t=31&band_rank=4&Refer=top)<br />
 5. [秦海璐一句话误伤迪丽热巴](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%B5%B7%E7%92%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AF%AF%E4%BC%A4%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [时宴沙发吻](https://s.weibo.com/weibo?q=%E6%97%B6%E5%AE%B4%E6%B2%99%E5%8F%91%E5%90%BB&t=31&band_rank=6&Refer=top)<br />
-7. [卡琳娜讲述仲尼溺水时刻](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E7%90%B3%E5%A8%9C%E8%AE%B2%E8%BF%B0%E4%BB%B2%E5%B0%BC%E6%BA%BA%E6%B0%B4%E6%97%B6%E5%88%BB%23&t=31&band_rank=7&Refer=top)<br />
+7. [王楚钦VS徐瑛彬](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6VS%E5%BE%90%E7%91%9B%E5%BD%AC&t=31&band_rank=7&Refer=top)<br />
 8. [中山二院致癌事件三大疑问](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E8%87%B4%E7%99%8C%E4%BA%8B%E4%BB%B6%E4%B8%89%E5%A4%A7%E7%96%91%E9%97%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [王楚钦VS徐瑛彬](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6VS%E5%BE%90%E7%91%9B%E5%BD%AC&t=31&band_rank=9&Refer=top)<br />
+9. [胡先煦 我们太男性视角了](https://s.weibo.com/weibo?q=%E8%83%A1%E5%85%88%E7%85%A6%20%E6%88%91%E4%BB%AC%E5%A4%AA%E7%94%B7%E6%80%A7%E8%A7%86%E8%A7%92%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
