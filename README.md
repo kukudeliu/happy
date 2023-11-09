@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 22:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 22:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小奇迹一家平安到家](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A5%87%E8%BF%B9%E4%B8%80%E5%AE%B6%E5%B9%B3%E5%AE%89%E5%88%B0%E5%AE%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [宁安如梦 台词难受](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E5%8F%B0%E8%AF%8D%E9%9A%BE%E5%8F%97&t=31&band_rank=7&Refer=top)<br />
 8. [央视独家披露河南42死火灾现场视频](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%8B%AC%E5%AE%B6%E6%8A%AB%E9%9C%B2%E6%B2%B3%E5%8D%9742%E6%AD%BB%E7%81%AB%E7%81%BE%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [华为发布首款纯电轿车智界S7](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E7%BA%AF%E7%94%B5%E8%BD%BF%E8%BD%A6%E6%99%BA%E7%95%8CS7%23&t=31&band_rank=9&Refer=top)<br />
+9. [一中国女子在日本街头被杀害](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A1%97%E5%A4%B4%E8%A2%AB%E6%9D%80%E5%AE%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
