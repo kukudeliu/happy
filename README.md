@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 08:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 08:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [心动的offer选手首次回应年入300万](https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84offer%E9%80%89%E6%89%8B%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E5%B9%B4%E5%85%A5300%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [家长劝孩子不要学生物的原因](https://s.weibo.com/weibo?q=%E5%AE%B6%E9%95%BF%E5%8A%9D%E5%AD%A9%E5%AD%90%E4%B8%8D%E8%A6%81%E5%AD%A6%E7%94%9F%E7%89%A9%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=7&Refer=top)<br />
 8. [靳东再回应假靳东事件](https://s.weibo.com/weibo?q=%23%E9%9D%B3%E4%B8%9C%E5%86%8D%E5%9B%9E%E5%BA%94%E5%81%87%E9%9D%B3%E4%B8%9C%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [花少后期多剪一秒就露馅了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%90%8E%E6%9C%9F%E5%A4%9A%E5%89%AA%E4%B8%80%E7%A7%92%E5%B0%B1%E9%9C%B2%E9%A6%85%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [真正的狂徒 温实初](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%8B%82%E5%BE%92%20%E6%B8%A9%E5%AE%9E%E5%88%9D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
