@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 16:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 16:55:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [十年，梦想与网络互联](https://www.baidu.com/s?wd=%E5%8D%81%E5%B9%B4%EF%BC%8C%E6%A2%A6%E6%83%B3%E4%B8%8E%E7%BD%91%E7%BB%9C%E4%BA%92%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [中国科协就中山二院3人患癌发声](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%8D%8F%E5%B0%B1%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A23%E4%BA%BA%E6%82%A3%E7%99%8C%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [中科协：彻查实验室安全刻不容缓](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E5%8D%8F%EF%BC%9A%E5%BD%BB%E6%9F%A5%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%AE%89%E5%85%A8%E5%88%BB%E4%B8%8D%E5%AE%B9%E7%BC%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [助学金事件当事人回应花3000元租房](https://www.baidu.com/s?wd=%E5%8A%A9%E5%AD%A6%E9%87%91%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E8%8A%B13000%E5%85%83%E7%A7%9F%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [乌镇时间共话“网”事](https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E6%97%B6%E9%97%B4%E5%85%B1%E8%AF%9D%E2%80%9C%E7%BD%91%E2%80%9D%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [继女儿离世后 南京胖哥父亲查出癌症](https://www.baidu.com/s?wd=%E7%BB%A7%E5%A5%B3%E5%84%BF%E7%A6%BB%E4%B8%96%E5%90%8E+%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%E7%88%B6%E4%BA%B2%E6%9F%A5%E5%87%BA%E7%99%8C%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [十年，梦想与网络互联](https://www.baidu.com/s?wd=%E5%8D%81%E5%B9%B4%EF%BC%8C%E6%A2%A6%E6%83%B3%E4%B8%8E%E7%BD%91%E7%BB%9C%E4%BA%92%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [中国科协就中山二院3人患癌发声](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%8D%8F%E5%B0%B1%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A23%E4%BA%BA%E6%82%A3%E7%99%8C%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [中科协：彻查实验室安全刻不容缓](https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%91%E5%8D%8F%EF%BC%9A%E5%BD%BB%E6%9F%A5%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%AE%89%E5%85%A8%E5%88%BB%E4%B8%8D%E5%AE%B9%E7%BC%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [助学金事件当事人回应花3000元租房](https://www.baidu.com/s?wd=%E5%8A%A9%E5%AD%A6%E9%87%91%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E8%8A%B13000%E5%85%83%E7%A7%9F%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [乌镇时间共话“网”事](https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E6%97%B6%E9%97%B4%E5%85%B1%E8%AF%9D%E2%80%9C%E7%BD%91%E2%80%9D%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [继女儿离世后 南京胖哥父亲查出癌症](https://www.baidu.com/s?wd=%E7%BB%A7%E5%A5%B3%E5%84%BF%E7%A6%BB%E4%B8%96%E5%90%8E+%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%E7%88%B6%E4%BA%B2%E6%9F%A5%E5%87%BA%E7%99%8C%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
