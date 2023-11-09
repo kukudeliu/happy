@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 23:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 23:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [邓为 DIOR](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%20DIOR&t=31&band_rank=6&Refer=top)<br />
 7. [张家界涉事正新鸡排加盟店已被查封](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%B6%89%E4%BA%8B%E6%AD%A3%E6%96%B0%E9%B8%A1%E6%8E%92%E5%8A%A0%E7%9B%9F%E5%BA%97%E5%B7%B2%E8%A2%AB%E6%9F%A5%E5%B0%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [小奇迹一家平安到家](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A5%87%E8%BF%B9%E4%B8%80%E5%AE%B6%E5%B9%B3%E5%AE%89%E5%88%B0%E5%AE%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [花3000块就吃了一碗粉条](https://s.weibo.com/weibo?q=%23%E8%8A%B13000%E5%9D%97%E5%B0%B1%E5%90%83%E4%BA%86%E4%B8%80%E7%A2%97%E7%B2%89%E6%9D%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [把秦岚美到尖叫的图发出来了](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E7%A7%A6%E5%B2%9A%E7%BE%8E%E5%88%B0%E5%B0%96%E5%8F%AB%E7%9A%84%E5%9B%BE%E5%8F%91%E5%87%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
