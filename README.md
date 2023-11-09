@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 21:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 21:09:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [乌镇时间共话“网”事](https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E6%97%B6%E9%97%B4%E5%85%B1%E8%AF%9D%E2%80%9C%E7%BD%91%E2%80%9D%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [小学食堂吃出鼠头？教育局：系兔头](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E9%BC%A0%E5%A4%B4%EF%BC%9F%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E7%B3%BB%E5%85%94%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [林瑞阳、张庭夫妇复出直播被封](https://www.baidu.com/s?wd=%E6%9E%97%E7%91%9E%E9%98%B3%E3%80%81%E5%BC%A0%E5%BA%AD%E5%A4%AB%E5%A6%87%E5%A4%8D%E5%87%BA%E7%9B%B4%E6%92%AD%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [詹姆斯：我们被伤病弄得非常疲惫](https://www.baidu.com/s?wd=%E8%A9%B9%E5%A7%86%E6%96%AF%EF%BC%9A%E6%88%91%E4%BB%AC%E8%A2%AB%E4%BC%A4%E7%97%85%E5%BC%84%E5%BE%97%E9%9D%9E%E5%B8%B8%E7%96%B2%E6%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [危化品罐车泄漏 村民连夜撤离](https://www.baidu.com/s?wd=%E5%8D%B1%E5%8C%96%E5%93%81%E7%BD%90%E8%BD%A6%E6%B3%84%E6%BC%8F+%E6%9D%91%E6%B0%91%E8%BF%9E%E5%A4%9C%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [海边约90%溺水是因为离岸流](https://www.baidu.com/s?wd=%E6%B5%B7%E8%BE%B9%E7%BA%A690%25%E6%BA%BA%E6%B0%B4%E6%98%AF%E5%9B%A0%E4%B8%BA%E7%A6%BB%E5%B2%B8%E6%B5%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩在小区遇绑架脱险？警方辟谣](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%B0%8F%E5%8C%BA%E9%81%87%E7%BB%91%E6%9E%B6%E8%84%B1%E9%99%A9%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [乌镇时间共话“网”事](https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E6%97%B6%E9%97%B4%E5%85%B1%E8%AF%9D%E2%80%9C%E7%BD%91%E2%80%9D%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [小学食堂吃出鼠头？教育局：系兔头](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E9%BC%A0%E5%A4%B4%EF%BC%9F%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E7%B3%BB%E5%85%94%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [林瑞阳、张庭夫妇复出直播被封](https://www.baidu.com/s?wd=%E6%9E%97%E7%91%9E%E9%98%B3%E3%80%81%E5%BC%A0%E5%BA%AD%E5%A4%AB%E5%A6%87%E5%A4%8D%E5%87%BA%E7%9B%B4%E6%92%AD%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [詹姆斯：我们被伤病弄得非常疲惫](https://www.baidu.com/s?wd=%E8%A9%B9%E5%A7%86%E6%96%AF%EF%BC%9A%E6%88%91%E4%BB%AC%E8%A2%AB%E4%BC%A4%E7%97%85%E5%BC%84%E5%BE%97%E9%9D%9E%E5%B8%B8%E7%96%B2%E6%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [危化品罐车泄漏 村民连夜撤离](https://www.baidu.com/s?wd=%E5%8D%B1%E5%8C%96%E5%93%81%E7%BD%90%E8%BD%A6%E6%B3%84%E6%BC%8F+%E6%9D%91%E6%B0%91%E8%BF%9E%E5%A4%9C%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [海边约90%溺水是因为离岸流](https://www.baidu.com/s?wd=%E6%B5%B7%E8%BE%B9%E7%BA%A690%25%E6%BA%BA%E6%B0%B4%E6%98%AF%E5%9B%A0%E4%B8%BA%E7%A6%BB%E5%B2%B8%E6%B5%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩在小区遇绑架脱险？警方辟谣](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%B0%8F%E5%8C%BA%E9%81%87%E7%BB%91%E6%9E%B6%E8%84%B1%E9%99%A9%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
