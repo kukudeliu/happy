@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 08:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 08:54:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [乌镇网事](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%95%87%E7%BD%91%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [睡前陪孩子聊废话 坚持半年变化惊人](https://s.weibo.com/weibo?q=%E7%9D%A1%E5%89%8D%E9%99%AA%E5%AD%A9%E5%AD%90%E8%81%8A%E5%BA%9F%E8%AF%9D%20%E5%9D%9A%E6%8C%81%E5%8D%8A%E5%B9%B4%E5%8F%98%E5%8C%96%E6%83%8A%E4%BA%BA&t=31&band_rank=4&Refer=top)<br />
 5. [市民曝网红刘媛媛涉虚假宣传](https://s.weibo.com/weibo?q=%23%E5%B8%82%E6%B0%91%E6%9B%9D%E7%BD%91%E7%BA%A2%E5%88%98%E5%AA%9B%E5%AA%9B%E6%B6%89%E8%99%9A%E5%81%87%E5%AE%A3%E4%BC%A0%23&t=31&band_rank=5&Refer=top)<br />
-6. [何猷君像是来打假的](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E5%83%8F%E6%98%AF%E6%9D%A5%E6%89%93%E5%81%87%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
-7. [TFBOYS方称十周年戒指事件为造谣](https://s.weibo.com/weibo?q=%23TFBOYS%E6%96%B9%E7%A7%B0%E5%8D%81%E5%91%A8%E5%B9%B4%E6%88%92%E6%8C%87%E4%BA%8B%E4%BB%B6%E4%B8%BA%E9%80%A0%E8%B0%A3%23&t=31&band_rank=7&Refer=top)<br />
+6. [TFBOYS方称十周年戒指事件为造谣](https://s.weibo.com/weibo?q=%23TFBOYS%E6%96%B9%E7%A7%B0%E5%8D%81%E5%91%A8%E5%B9%B4%E6%88%92%E6%8C%87%E4%BA%8B%E4%BB%B6%E4%B8%BA%E9%80%A0%E8%B0%A3%23&t=31&band_rank=6&Refer=top)<br />
+7. [何猷君像是来打假的](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E5%83%8F%E6%98%AF%E6%9D%A5%E6%89%93%E5%81%87%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [坍塌体育馆开发商是当地建设局退休干部](https://s.weibo.com/weibo?q=%23%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%86%E5%BC%80%E5%8F%91%E5%95%86%E6%98%AF%E5%BD%93%E5%9C%B0%E5%BB%BA%E8%AE%BE%E5%B1%80%E9%80%80%E4%BC%91%E5%B9%B2%E9%83%A8%23&t=31&band_rank=8&Refer=top)<br />
 9. [心动的offer选手首次回应年入300万](https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84offer%E9%80%89%E6%89%8B%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E5%B9%B4%E5%85%A5300%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -24,7 +24,7 @@
 5. [业内人士解读中山二院多人患癌](https://www.baidu.com/s?wd=%E4%B8%9A%E5%86%85%E4%BA%BA%E5%A3%AB%E8%A7%A3%E8%AF%BB%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E5%A4%9A%E4%BA%BA%E6%82%A3%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国内首次发现23个长新冠标志物](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B023%E4%B8%AA%E9%95%BF%E6%96%B0%E5%86%A0%E6%A0%87%E5%BF%97%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [香港精英家庭正生产“做题家”](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%B2%BE%E8%8B%B1%E5%AE%B6%E5%BA%AD%E6%AD%A3%E7%94%9F%E4%BA%A7%E2%80%9C%E5%81%9A%E9%A2%98%E5%AE%B6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“吗喽”占领了年轻人的生活圈](https://www.baidu.com/s?wd=%E2%80%9C%E5%90%97%E5%96%BD%E2%80%9D%E5%8D%A0%E9%A2%86%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [OpenAI发生严重故障](https://www.baidu.com/s?wd=OpenAI%E5%8F%91%E7%94%9F%E4%B8%A5%E9%87%8D%E6%95%85%E9%9A%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [喝酒防寒、吃高热量食物暖身？](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E9%98%B2%E5%AF%92%E3%80%81%E5%90%83%E9%AB%98%E7%83%AD%E9%87%8F%E9%A3%9F%E7%89%A9%E6%9A%96%E8%BA%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [业内人士解读中山二院多人患癌](https://www.baidu.com/s?wd=%E4%B8%9A%E5%86%85%E4%BA%BA%E5%A3%AB%E8%A7%A3%E8%AF%BB%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E5%A4%9A%E4%BA%BA%E6%82%A3%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国内首次发现23个长新冠标志物](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B023%E4%B8%AA%E9%95%BF%E6%96%B0%E5%86%A0%E6%A0%87%E5%BF%97%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [香港精英家庭正生产“做题家”](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%B2%BE%E8%8B%B1%E5%AE%B6%E5%BA%AD%E6%AD%A3%E7%94%9F%E4%BA%A7%E2%80%9C%E5%81%9A%E9%A2%98%E5%AE%B6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“吗喽”占领了年轻人的生活圈](https://www.baidu.com/s?wd=%E2%80%9C%E5%90%97%E5%96%BD%E2%80%9D%E5%8D%A0%E9%A2%86%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [OpenAI发生严重故障](https://www.baidu.com/s?wd=OpenAI%E5%8F%91%E7%94%9F%E4%B8%A5%E9%87%8D%E6%95%85%E9%9A%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [喝酒防寒、吃高热量食物暖身？](https://www.baidu.com/s?wd=%E5%96%9D%E9%85%92%E9%98%B2%E5%AF%92%E3%80%81%E5%90%83%E9%AB%98%E7%83%AD%E9%87%8F%E9%A3%9F%E7%89%A9%E6%9A%96%E8%BA%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
