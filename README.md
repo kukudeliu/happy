@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 18:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 18:54:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [2023世界互联网大会乌镇峰会](https://s.weibo.com/weibo?q=%232023%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [一中国女子在日本街头被杀害](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A1%97%E5%A4%B4%E8%A2%AB%E6%9D%80%E5%AE%B3%23&t=31&band_rank=4&Refer=top)<br />
 5. [00后给父母买大件反赚两千元](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E7%BB%99%E7%88%B6%E6%AF%8D%E4%B9%B0%E5%A4%A7%E4%BB%B6%E5%8F%8D%E8%B5%9A%E4%B8%A4%E5%8D%83%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
-6. [邓为 DIOR](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%20DIOR&t=31&band_rank=6&Refer=top)<br />
+6. [吴京自己人 有瓜他真说](https://s.weibo.com/weibo?q=%E5%90%B4%E4%BA%AC%E8%87%AA%E5%B7%B1%E4%BA%BA%20%E6%9C%89%E7%93%9C%E4%BB%96%E7%9C%9F%E8%AF%B4&t=31&band_rank=6&Refer=top)<br />
 7. [房东奶奶把租客当孙女照顾](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E5%A5%B6%E5%A5%B6%E6%8A%8A%E7%A7%9F%E5%AE%A2%E5%BD%93%E5%AD%99%E5%A5%B3%E7%85%A7%E9%A1%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [吴京自己人 有瓜他真说](https://s.weibo.com/weibo?q=%E5%90%B4%E4%BA%AC%E8%87%AA%E5%B7%B1%E4%BA%BA%20%E6%9C%89%E7%93%9C%E4%BB%96%E7%9C%9F%E8%AF%B4&t=31&band_rank=8&Refer=top)<br />
+8. [邓为 DIOR](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%20DIOR&t=31&band_rank=8&Refer=top)<br />
 9. [李雪琴吻戏](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%90%BB%E6%88%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
