@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 22:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 22:52:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [小奇迹一家平安到家](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A5%87%E8%BF%B9%E4%B8%80%E5%AE%B6%E5%B9%B3%E5%AE%89%E5%88%B0%E5%AE%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [一中国女子在日本街头被杀害](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A1%97%E5%A4%B4%E8%A2%AB%E6%9D%80%E5%AE%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [花3000块就吃了一碗粉条](https://s.weibo.com/weibo?q=%23%E8%8A%B13000%E5%9D%97%E5%B0%B1%E5%90%83%E4%BA%86%E4%B8%80%E7%A2%97%E7%B2%89%E6%9D%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [中国公民暂勿前往缅北](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E7%BC%85%E5%8C%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [宁安如梦 台词难受](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E5%8F%B0%E8%AF%8D%E9%9A%BE%E5%8F%97&t=31&band_rank=9&Refer=top)<br />
+8. [宁安如梦 台词难受](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E5%8F%B0%E8%AF%8D%E9%9A%BE%E5%8F%97&t=31&band_rank=8&Refer=top)<br />
+9. [中国公民暂勿前往缅北](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E7%BC%85%E5%8C%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [哈马斯代表团将访北京？外交部回应](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%B0%86%E8%AE%BF%E5%8C%97%E4%BA%AC%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [海航飞机上放生日歌引争议](https://www.baidu.com/s?wd=%E6%B5%B7%E8%88%AA%E9%A3%9E%E6%9C%BA%E4%B8%8A%E6%94%BE%E7%94%9F%E6%97%A5%E6%AD%8C%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [泽连斯基：我希望让狗来管理世界](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%88%91%E5%B8%8C%E6%9C%9B%E8%AE%A9%E7%8B%97%E6%9D%A5%E7%AE%A1%E7%90%86%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [毕加索名画拍出1.39亿美元](https://www.baidu.com/s?wd=%E6%AF%95%E5%8A%A0%E7%B4%A2%E5%90%8D%E7%94%BB%E6%8B%8D%E5%87%BA1.39%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方通报深圳一广场发生砍人事件](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%B9%BF%E5%9C%BA%E5%8F%91%E7%94%9F%E7%A0%8D%E4%BA%BA%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩在小区遇绑架脱险？警方辟谣](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%B0%8F%E5%8C%BA%E9%81%87%E7%BB%91%E6%9E%B6%E8%84%B1%E9%99%A9%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [哈马斯代表团将访北京？外交部回应](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%B0%86%E8%AE%BF%E5%8C%97%E4%BA%AC%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [海航飞机上放生日歌引争议](https://www.baidu.com/s?wd=%E6%B5%B7%E8%88%AA%E9%A3%9E%E6%9C%BA%E4%B8%8A%E6%94%BE%E7%94%9F%E6%97%A5%E6%AD%8C%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [泽连斯基：我希望让狗来管理世界](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%88%91%E5%B8%8C%E6%9C%9B%E8%AE%A9%E7%8B%97%E6%9D%A5%E7%AE%A1%E7%90%86%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [毕加索名画拍出1.39亿美元](https://www.baidu.com/s?wd=%E6%AF%95%E5%8A%A0%E7%B4%A2%E5%90%8D%E7%94%BB%E6%8B%8D%E5%87%BA1.39%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方通报深圳一广场发生砍人事件](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%B9%BF%E5%9C%BA%E5%8F%91%E7%94%9F%E7%A0%8D%E4%BA%BA%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩在小区遇绑架脱险？警方辟谣](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%B0%8F%E5%8C%BA%E9%81%87%E7%BB%91%E6%9E%B6%E8%84%B1%E9%99%A9%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
