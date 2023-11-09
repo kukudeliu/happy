@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 16:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 16:22:01</h4></div>
 
 > 微博  
 
-1. [离岸流](https://s.weibo.com/weibo?q=%E7%A6%BB%E5%B2%B8%E6%B5%81&t=31&band_rank=1&Refer=top)<br />
-2. [霸王茶姬 三品管](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E4%B8%89%E5%93%81%E7%AE%A1&t=31&band_rank=2&Refer=top)<br />
+1. [霸王茶姬 三品管](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E4%B8%89%E5%93%81%E7%AE%A1&t=31&band_rank=1&Refer=top)<br />
+2. [离岸流](https://s.weibo.com/weibo?q=%E7%A6%BB%E5%B2%B8%E6%B5%81&t=31&band_rank=2&Refer=top)<br />
 3. [2023世界互联网大会乌镇峰会](https://s.weibo.com/weibo?q=%232023%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [内娱改造最成功的两位男艺人](https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E6%94%B9%E9%80%A0%E6%9C%80%E6%88%90%E5%8A%9F%E7%9A%84%E4%B8%A4%E4%BD%8D%E7%94%B7%E8%89%BA%E4%BA%BA&t=31&band_rank=4&Refer=top)<br />
 5. [迪丽热巴 INFJ](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20INFJ&t=31&band_rank=5&Refer=top)<br />
