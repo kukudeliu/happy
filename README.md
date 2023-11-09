@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 07:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 07:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大连市监局通报B太曝光鬼秤案件](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E5%B8%82%E7%9B%91%E5%B1%80%E9%80%9A%E6%8A%A5B%E5%A4%AA%E6%9B%9D%E5%85%89%E9%AC%BC%E7%A7%A4%E6%A1%88%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [央行回应取消跨行提现手续费](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E5%9B%9E%E5%BA%94%E5%8F%96%E6%B6%88%E8%B7%A8%E8%A1%8C%E6%8F%90%E7%8E%B0%E6%89%8B%E7%BB%AD%E8%B4%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈楚生在尺度和分寸间选择了尺寸](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E5%9C%A8%E5%B0%BA%E5%BA%A6%E5%92%8C%E5%88%86%E5%AF%B8%E9%97%B4%E9%80%89%E6%8B%A9%E4%BA%86%E5%B0%BA%E5%AF%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [美香一家抵达成都](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%A6%99%E4%B8%80%E5%AE%B6%E6%8A%B5%E8%BE%BE%E6%88%90%E9%83%BD%23&t=31&band_rank=9&Refer=top)<br />
+9. [中山二院一患癌医生去年已发现肿瘤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E4%B8%80%E6%82%A3%E7%99%8C%E5%8C%BB%E7%94%9F%E5%8E%BB%E5%B9%B4%E5%B7%B2%E5%8F%91%E7%8E%B0%E8%82%BF%E7%98%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [探访苏州“毒地” 有居民称房价暴跌](https://www.baidu.com/s?wd=%E6%8E%A2%E8%AE%BF%E8%8B%8F%E5%B7%9E%E2%80%9C%E6%AF%92%E5%9C%B0%E2%80%9D+%E6%9C%89%E5%B1%85%E6%B0%91%E7%A7%B0%E6%88%BF%E4%BB%B7%E6%9A%B4%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [今年双11变“静悄悄”了吗](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E5%8F%98%E2%80%9C%E9%9D%99%E6%82%84%E6%82%84%E2%80%9D%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [林瑞阳、张庭夫妇复出直播被封](https://www.baidu.com/s?wd=%E6%9E%97%E7%91%9E%E9%98%B3%E3%80%81%E5%BC%A0%E5%BA%AD%E5%A4%AB%E5%A6%87%E5%A4%8D%E5%87%BA%E7%9B%B4%E6%92%AD%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [谁在炮制中国平安的“鬼故事”](https://www.baidu.com/s?wd=%E8%B0%81%E5%9C%A8%E7%82%AE%E5%88%B6%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%89%E7%9A%84%E2%80%9C%E9%AC%BC%E6%95%85%E4%BA%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小学食堂吃出鼠头？教育局：系兔头](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E9%BC%A0%E5%A4%B4%EF%BC%9F%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E7%B3%BB%E5%85%94%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩在小区遇绑架脱险？警方辟谣](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%B0%8F%E5%8C%BA%E9%81%87%E7%BB%91%E6%9E%B6%E8%84%B1%E9%99%A9%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [探访苏州“毒地” 有居民称房价暴跌](https://www.baidu.com/s?wd=%E6%8E%A2%E8%AE%BF%E8%8B%8F%E5%B7%9E%E2%80%9C%E6%AF%92%E5%9C%B0%E2%80%9D+%E6%9C%89%E5%B1%85%E6%B0%91%E7%A7%B0%E6%88%BF%E4%BB%B7%E6%9A%B4%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [今年双11变“静悄悄”了吗](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E5%8F%98%E2%80%9C%E9%9D%99%E6%82%84%E6%82%84%E2%80%9D%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [林瑞阳、张庭夫妇复出直播被封](https://www.baidu.com/s?wd=%E6%9E%97%E7%91%9E%E9%98%B3%E3%80%81%E5%BC%A0%E5%BA%AD%E5%A4%AB%E5%A6%87%E5%A4%8D%E5%87%BA%E7%9B%B4%E6%92%AD%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [谁在炮制中国平安的“鬼故事”](https://www.baidu.com/s?wd=%E8%B0%81%E5%9C%A8%E7%82%AE%E5%88%B6%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%89%E7%9A%84%E2%80%9C%E9%AC%BC%E6%95%85%E4%BA%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小学食堂吃出鼠头？教育局：系兔头](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E9%BC%A0%E5%A4%B4%EF%BC%9F%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E7%B3%BB%E5%85%94%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩在小区遇绑架脱险？警方辟谣](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%B0%8F%E5%8C%BA%E9%81%87%E7%BB%91%E6%9E%B6%E8%84%B1%E9%99%A9%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
