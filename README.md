@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 16:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 16:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国科协就中山二院3人患癌发声](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%8D%8F%E5%B0%B1%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A23%E4%BA%BA%E6%82%A3%E7%99%8C%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴 INFJ](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20INFJ&t=31&band_rank=7&Refer=top)<br />
 8. [中山二院](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2&t=31&band_rank=8&Refer=top)<br />
-9. [以爱为营 小蛋糕之神](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E5%B0%8F%E8%9B%8B%E7%B3%95%E4%B9%8B%E7%A5%9E&t=31&band_rank=9&Refer=top)<br />
+9. [为何乳腺癌更偏爱职业女性](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E4%B9%B3%E8%85%BA%E7%99%8C%E6%9B%B4%E5%81%8F%E7%88%B1%E8%81%8C%E4%B8%9A%E5%A5%B3%E6%80%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
