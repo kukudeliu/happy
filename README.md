@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 21:35:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 21:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [华为发布首款纯电轿车智界S7](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E7%BA%AF%E7%94%B5%E8%BD%BF%E8%BD%A6%E6%99%BA%E7%95%8CS7%23&t=31&band_rank=6&Refer=top)<br />
 7. [王安宇胡先煦 夫妻相处范本](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E8%83%A1%E5%85%88%E7%85%A6%20%E5%A4%AB%E5%A6%BB%E7%9B%B8%E5%A4%84%E8%8C%83%E6%9C%AC&t=31&band_rank=7&Refer=top)<br />
 8. [央视独家披露河南42死火灾现场视频](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%8B%AC%E5%AE%B6%E6%8A%AB%E9%9C%B2%E6%B2%B3%E5%8D%9742%E6%AD%BB%E7%81%AB%E7%81%BE%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [李雪琴吻戏](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%90%BB%E6%88%8F&t=31&band_rank=9&Refer=top)<br />
+9. [宁安如梦爱奇艺热度值破9500](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%88%B1%E5%A5%87%E8%89%BA%E7%83%AD%E5%BA%A6%E5%80%BC%E7%A0%B49500%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
