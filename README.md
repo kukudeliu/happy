@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 18:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 18:17:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [中国公民暂勿前往缅北](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E7%BC%85%E5%8C%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [房东奶奶把租客当孙女照顾](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E5%A5%B6%E5%A5%B6%E6%8A%8A%E7%A7%9F%E5%AE%A2%E5%BD%93%E5%AD%99%E5%A5%B3%E7%85%A7%E9%A1%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [圈里人都知道刘宇宁回家过年的场景了](https://s.weibo.com/weibo?q=%E5%9C%88%E9%87%8C%E4%BA%BA%E9%83%BD%E7%9F%A5%E9%81%93%E5%88%98%E5%AE%87%E5%AE%81%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E7%9A%84%E5%9C%BA%E6%99%AF%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [2岁萌娃凌晨徘徊街头一群人接力照看](https://s.weibo.com/weibo?q=%232%E5%B2%81%E8%90%8C%E5%A8%83%E5%87%8C%E6%99%A8%E5%BE%98%E5%BE%8A%E8%A1%97%E5%A4%B4%E4%B8%80%E7%BE%A4%E4%BA%BA%E6%8E%A5%E5%8A%9B%E7%85%A7%E7%9C%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [霸王茶姬 三品管](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E4%B8%89%E5%93%81%E7%AE%A1&t=31&band_rank=8&Refer=top)<br />
-9. [南京胖哥称父亲查出患食道癌](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%E7%A7%B0%E7%88%B6%E4%BA%B2%E6%9F%A5%E5%87%BA%E6%82%A3%E9%A3%9F%E9%81%93%E7%99%8C%23&t=31&band_rank=9&Refer=top)<br />
+7. [霸王茶姬 三品管](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E4%B8%89%E5%93%81%E7%AE%A1&t=31&band_rank=7&Refer=top)<br />
+8. [南京胖哥称父亲查出患食道癌](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%E7%A7%B0%E7%88%B6%E4%BA%B2%E6%9F%A5%E5%87%BA%E6%82%A3%E9%A3%9F%E9%81%93%E7%99%8C%23&t=31&band_rank=8&Refer=top)<br />
+9. [李雪琴吻戏](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%90%BB%E6%88%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
