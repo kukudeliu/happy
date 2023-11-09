@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 04:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 04:22:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [哈马斯代表团将访北京？外交部回应](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%B0%86%E8%AE%BF%E5%8C%97%E4%BA%AC%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [危化品罐车泄漏 村民连夜撤离](https://www.baidu.com/s?wd=%E5%8D%B1%E5%8C%96%E5%93%81%E7%BD%90%E8%BD%A6%E6%B3%84%E6%BC%8F+%E6%9D%91%E6%B0%91%E8%BF%9E%E5%A4%9C%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国海警舰艇编队在钓鱼岛领海巡航](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E8%88%B0%E8%89%87%E7%BC%96%E9%98%9F%E5%9C%A8%E9%92%93%E9%B1%BC%E5%B2%9B%E9%A2%86%E6%B5%B7%E5%B7%A1%E8%88%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [林瑞阳、张庭夫妇复出直播被封](https://www.baidu.com/s?wd=%E6%9E%97%E7%91%9E%E9%98%B3%E3%80%81%E5%BC%A0%E5%BA%AD%E5%A4%AB%E5%A6%87%E5%A4%8D%E5%87%BA%E7%9B%B4%E6%92%AD%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [泽连斯基：我希望让狗来管理世界](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%88%91%E5%B8%8C%E6%9C%9B%E8%AE%A9%E7%8B%97%E6%9D%A5%E7%AE%A1%E7%90%86%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩在小区遇绑架脱险？警方辟谣](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%B0%8F%E5%8C%BA%E9%81%87%E7%BB%91%E6%9E%B6%E8%84%B1%E9%99%A9%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [哈马斯代表团将访北京？外交部回应](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%B0%86%E8%AE%BF%E5%8C%97%E4%BA%AC%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [危化品罐车泄漏 村民连夜撤离](https://www.baidu.com/s?wd=%E5%8D%B1%E5%8C%96%E5%93%81%E7%BD%90%E8%BD%A6%E6%B3%84%E6%BC%8F+%E6%9D%91%E6%B0%91%E8%BF%9E%E5%A4%9C%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国海警舰艇编队在钓鱼岛领海巡航](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E8%88%B0%E8%89%87%E7%BC%96%E9%98%9F%E5%9C%A8%E9%92%93%E9%B1%BC%E5%B2%9B%E9%A2%86%E6%B5%B7%E5%B7%A1%E8%88%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [林瑞阳、张庭夫妇复出直播被封](https://www.baidu.com/s?wd=%E6%9E%97%E7%91%9E%E9%98%B3%E3%80%81%E5%BC%A0%E5%BA%AD%E5%A4%AB%E5%A6%87%E5%A4%8D%E5%87%BA%E7%9B%B4%E6%92%AD%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [泽连斯基：我希望让狗来管理世界](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%88%91%E5%B8%8C%E6%9C%9B%E8%AE%A9%E7%8B%97%E6%9D%A5%E7%AE%A1%E7%90%86%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩在小区遇绑架脱险？警方辟谣](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%B0%8F%E5%8C%BA%E9%81%87%E7%BB%91%E6%9E%B6%E8%84%B1%E9%99%A9%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
