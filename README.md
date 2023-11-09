@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 10:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 10:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [何猷君像是来打假的](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E5%83%8F%E6%98%AF%E6%9D%A5%E6%89%93%E5%81%87%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [TFBOYS方称十周年戒指事件为造谣](https://s.weibo.com/weibo?q=%23TFBOYS%E6%96%B9%E7%A7%B0%E5%8D%81%E5%91%A8%E5%B9%B4%E6%88%92%E6%8C%87%E4%BA%8B%E4%BB%B6%E4%B8%BA%E9%80%A0%E8%B0%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [00后被领导辱骂后起诉获赔100元](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E8%A2%AB%E9%A2%86%E5%AF%BC%E8%BE%B1%E9%AA%82%E5%90%8E%E8%B5%B7%E8%AF%89%E8%8E%B7%E8%B5%94100%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [美香一家启程回家](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%A6%99%E4%B8%80%E5%AE%B6%E5%90%AF%E7%A8%8B%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [广州一劳斯莱斯年审时被拉爆缸](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E5%B9%B4%E5%AE%A1%E6%97%B6%E8%A2%AB%E6%8B%89%E7%88%86%E7%BC%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
