@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 23:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 23:41:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [江宏杰与炎亚纶经纪人签约](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E5%AE%8F%E6%9D%B0%E4%B8%8E%E7%82%8E%E4%BA%9A%E7%BA%B6%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%AD%BE%E7%BA%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [以爱为营提档](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E6%8F%90%E6%A1%A3&t=31&band_rank=6&Refer=top)<br />
 7. [小奇迹一家平安到家](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A5%87%E8%BF%B9%E4%B8%80%E5%AE%B6%E5%B9%B3%E5%AE%89%E5%88%B0%E5%AE%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [邓为 DIOR](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%20DIOR&t=31&band_rank=8&Refer=top)<br />
-9. [美香一家抵达成都](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%A6%99%E4%B8%80%E5%AE%B6%E6%8A%B5%E8%BE%BE%E6%88%90%E9%83%BD%23&t=31&band_rank=9&Refer=top)<br />
+8. [美香一家抵达成都](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%A6%99%E4%B8%80%E5%AE%B6%E6%8A%B5%E8%BE%BE%E6%88%90%E9%83%BD%23&t=31&band_rank=8&Refer=top)<br />
+9. [邓为 DIOR](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%20DIOR&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
