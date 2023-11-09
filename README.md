@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 20:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 20:17:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [小学食堂吃出鼠头？教育局：系兔头](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E9%BC%A0%E5%A4%B4%EF%BC%9F%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E7%B3%BB%E5%85%94%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [河南安阳致42死火灾事故监控曝光](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%AE%89%E9%98%B3%E8%87%B442%E6%AD%BB%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [乌镇时间共话“网”事](https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E6%97%B6%E9%97%B4%E5%85%B1%E8%AF%9D%E2%80%9C%E7%BD%91%E2%80%9D%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男子办公区遭野猪撕咬 缝100多针](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8A%9E%E5%85%AC%E5%8C%BA%E9%81%AD%E9%87%8E%E7%8C%AA%E6%92%95%E5%92%AC+%E7%BC%9D100%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [中国女子在日本街头被杀害 2人在逃](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A1%97%E5%A4%B4%E8%A2%AB%E6%9D%80%E5%AE%B3+2%E4%BA%BA%E5%9C%A8%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [泽连斯基：我希望让狗来管理世界](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%88%91%E5%B8%8C%E6%9C%9B%E8%AE%A9%E7%8B%97%E6%9D%A5%E7%AE%A1%E7%90%86%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南航称超低机票全部有效](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E7%A7%B0%E8%B6%85%E4%BD%8E%E6%9C%BA%E7%A5%A8%E5%85%A8%E9%83%A8%E6%9C%89%E6%95%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [悬赏找打人者事件3人已被抓](https://www.baidu.com/s?wd=%E6%82%AC%E8%B5%8F%E6%89%BE%E6%89%93%E4%BA%BA%E8%80%85%E4%BA%8B%E4%BB%B63%E4%BA%BA%E5%B7%B2%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [小学食堂吃出鼠头？教育局：系兔头](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E9%BC%A0%E5%A4%B4%EF%BC%9F%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E7%B3%BB%E5%85%94%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [河南安阳致42死火灾事故监控曝光](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%AE%89%E9%98%B3%E8%87%B442%E6%AD%BB%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [乌镇时间共话“网”事](https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E6%97%B6%E9%97%B4%E5%85%B1%E8%AF%9D%E2%80%9C%E7%BD%91%E2%80%9D%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男子办公区遭野猪撕咬 缝100多针](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8A%9E%E5%85%AC%E5%8C%BA%E9%81%AD%E9%87%8E%E7%8C%AA%E6%92%95%E5%92%AC+%E7%BC%9D100%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [中国女子在日本街头被杀害 2人在逃](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A1%97%E5%A4%B4%E8%A2%AB%E6%9D%80%E5%AE%B3+2%E4%BA%BA%E5%9C%A8%E9%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [泽连斯基：我希望让狗来管理世界](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%88%91%E5%B8%8C%E6%9C%9B%E8%AE%A9%E7%8B%97%E6%9D%A5%E7%AE%A1%E7%90%86%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南航称超低机票全部有效](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E7%A7%B0%E8%B6%85%E4%BD%8E%E6%9C%BA%E7%A5%A8%E5%85%A8%E9%83%A8%E6%9C%89%E6%95%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [悬赏找打人者事件3人已被抓](https://www.baidu.com/s?wd=%E6%82%AC%E8%B5%8F%E6%89%BE%E6%89%93%E4%BA%BA%E8%80%85%E4%BA%8B%E4%BB%B63%E4%BA%BA%E5%B7%B2%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
