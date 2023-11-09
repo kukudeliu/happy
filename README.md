@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 12:09:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 12:10:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王楚钦VS徐瑛彬](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6VS%E5%BE%90%E7%91%9B%E5%BD%AC&t=31&band_rank=6&Refer=top)<br />
 7. [装修才是当代年轻人最好的医丑](https://s.weibo.com/weibo?q=%E8%A3%85%E4%BF%AE%E6%89%8D%E6%98%AF%E5%BD%93%E4%BB%A3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8C%BB%E4%B8%91&t=31&band_rank=7&Refer=top)<br />
 8. [开国少将文击逝世](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%9B%BD%E5%B0%91%E5%B0%86%E6%96%87%E5%87%BB%E9%80%9D%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [以爱为营处处吻](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A4%84%E5%A4%84%E5%90%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [赵露思范思哲全球品牌代言人](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%8C%83%E6%80%9D%E5%93%B2%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
