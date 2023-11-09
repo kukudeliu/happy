@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 19:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 19:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [遗失手机飞了1300多公里被成功找回](https://s.weibo.com/weibo?q=%23%E9%81%97%E5%A4%B1%E6%89%8B%E6%9C%BA%E9%A3%9E%E4%BA%861300%E5%A4%9A%E5%85%AC%E9%87%8C%E8%A2%AB%E6%88%90%E5%8A%9F%E6%89%BE%E5%9B%9E%23&t=31&band_rank=5&Refer=top)<br />
 6. [邓为 DIOR](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%20DIOR&t=31&band_rank=6&Refer=top)<br />
 7. [房东奶奶把租客当孙女照顾](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E5%A5%B6%E5%A5%B6%E6%8A%8A%E7%A7%9F%E5%AE%A2%E5%BD%93%E5%AD%99%E5%A5%B3%E7%85%A7%E9%A1%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [一中国女子在日本街头被杀害](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A1%97%E5%A4%B4%E8%A2%AB%E6%9D%80%E5%AE%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [佳木斯体育馆坍塌事故正调查取证](https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%AD%A3%E8%B0%83%E6%9F%A5%E5%8F%96%E8%AF%81%23&t=31&band_rank=9&Refer=top)<br />
+8. [佳木斯体育馆坍塌事故正调查取证](https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%AD%A3%E8%B0%83%E6%9F%A5%E5%8F%96%E8%AF%81%23&t=31&band_rank=8&Refer=top)<br />
+9. [一中国女子在日本街头被杀害](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A1%97%E5%A4%B4%E8%A2%AB%E6%9D%80%E5%AE%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
