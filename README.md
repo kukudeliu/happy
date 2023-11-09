@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 15:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 15:09:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [海边约90%溺水是因为离岸流](https://www.baidu.com/s?wd=%E6%B5%B7%E8%BE%B9%E7%BA%A690%25%E6%BA%BA%E6%B0%B4%E6%98%AF%E5%9B%A0%E4%B8%BA%E7%A6%BB%E5%B2%B8%E6%B5%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李雪健何以“封神”](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E5%81%A5%E4%BD%95%E4%BB%A5%E2%80%9C%E5%B0%81%E7%A5%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男人消费力首次超过宠物狗](https://www.baidu.com/s?wd=%E7%94%B7%E4%BA%BA%E6%B6%88%E8%B4%B9%E5%8A%9B%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E5%AE%A0%E7%89%A9%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [何猷君像是来打假的](https://www.baidu.com/s?wd=%E4%BD%95%E7%8C%B7%E5%90%9B%E5%83%8F%E6%98%AF%E6%9D%A5%E6%89%93%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小伙离职后驻岛当起水獭铲屎官](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%A6%BB%E8%81%8C%E5%90%8E%E9%A9%BB%E5%B2%9B%E5%BD%93%E8%B5%B7%E6%B0%B4%E7%8D%AD%E9%93%B2%E5%B1%8E%E5%AE%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [苏打水能调节身体酸碱平衡？](https://www.baidu.com/s?wd=%E8%8B%8F%E6%89%93%E6%B0%B4%E8%83%BD%E8%B0%83%E8%8A%82%E8%BA%AB%E4%BD%93%E9%85%B8%E7%A2%B1%E5%B9%B3%E8%A1%A1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [海边约90%溺水是因为离岸流](https://www.baidu.com/s?wd=%E6%B5%B7%E8%BE%B9%E7%BA%A690%25%E6%BA%BA%E6%B0%B4%E6%98%AF%E5%9B%A0%E4%B8%BA%E7%A6%BB%E5%B2%B8%E6%B5%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李雪健何以“封神”](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E5%81%A5%E4%BD%95%E4%BB%A5%E2%80%9C%E5%B0%81%E7%A5%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男人消费力首次超过宠物狗](https://www.baidu.com/s?wd=%E7%94%B7%E4%BA%BA%E6%B6%88%E8%B4%B9%E5%8A%9B%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E5%AE%A0%E7%89%A9%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [何猷君像是来打假的](https://www.baidu.com/s?wd=%E4%BD%95%E7%8C%B7%E5%90%9B%E5%83%8F%E6%98%AF%E6%9D%A5%E6%89%93%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小伙离职后驻岛当起水獭铲屎官](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%A6%BB%E8%81%8C%E5%90%8E%E9%A9%BB%E5%B2%9B%E5%BD%93%E8%B5%B7%E6%B0%B4%E7%8D%AD%E9%93%B2%E5%B1%8E%E5%AE%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [苏打水能调节身体酸碱平衡？](https://www.baidu.com/s?wd=%E8%8B%8F%E6%89%93%E6%B0%B4%E8%83%BD%E8%B0%83%E8%8A%82%E8%BA%AB%E4%BD%93%E9%85%B8%E7%A2%B1%E5%B9%B3%E8%A1%A1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
