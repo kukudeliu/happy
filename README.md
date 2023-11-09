@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 09:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 09:42:02</h4></div>
 
 > 微博  
 
 1. [梨形身材才是基因彩票](https://s.weibo.com/weibo?q=%E6%A2%A8%E5%BD%A2%E8%BA%AB%E6%9D%90%E6%89%8D%E6%98%AF%E5%9F%BA%E5%9B%A0%E5%BD%A9%E7%A5%A8&t=31&band_rank=1&Refer=top)<br />
 2. [市民曝网红刘媛媛涉虚假宣传](https://s.weibo.com/weibo?q=%23%E5%B8%82%E6%B0%91%E6%9B%9D%E7%BD%91%E7%BA%A2%E5%88%98%E5%AA%9B%E5%AA%9B%E6%B6%89%E8%99%9A%E5%81%87%E5%AE%A3%E4%BC%A0%23&t=31&band_rank=2&Refer=top)<br />
 3. [乌镇网事](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%95%87%E7%BD%91%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
-4. [仲尼遇难现场妻子卡琳娜掩面而泣](https://s.weibo.com/weibo?q=%23%E4%BB%B2%E5%B0%BC%E9%81%87%E9%9A%BE%E7%8E%B0%E5%9C%BA%E5%A6%BB%E5%AD%90%E5%8D%A1%E7%90%B3%E5%A8%9C%E6%8E%A9%E9%9D%A2%E8%80%8C%E6%B3%A3%23&t=31&band_rank=4&Refer=top)<br />
-5. [睡前陪孩子聊废话 坚持半年变化惊人](https://s.weibo.com/weibo?q=%E7%9D%A1%E5%89%8D%E9%99%AA%E5%AD%A9%E5%AD%90%E8%81%8A%E5%BA%9F%E8%AF%9D%20%E5%9D%9A%E6%8C%81%E5%8D%8A%E5%B9%B4%E5%8F%98%E5%8C%96%E6%83%8A%E4%BA%BA&t=31&band_rank=5&Refer=top)<br />
+4. [睡前陪孩子聊废话 坚持半年变化惊人](https://s.weibo.com/weibo?q=%E7%9D%A1%E5%89%8D%E9%99%AA%E5%AD%A9%E5%AD%90%E8%81%8A%E5%BA%9F%E8%AF%9D%20%E5%9D%9A%E6%8C%81%E5%8D%8A%E5%B9%B4%E5%8F%98%E5%8C%96%E6%83%8A%E4%BA%BA&t=31&band_rank=4&Refer=top)<br />
+5. [仲尼遇难现场妻子卡琳娜掩面而泣](https://s.weibo.com/weibo?q=%23%E4%BB%B2%E5%B0%BC%E9%81%87%E9%9A%BE%E7%8E%B0%E5%9C%BA%E5%A6%BB%E5%AD%90%E5%8D%A1%E7%90%B3%E5%A8%9C%E6%8E%A9%E9%9D%A2%E8%80%8C%E6%B3%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [何猷君像是来打假的](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E5%83%8F%E6%98%AF%E6%9D%A5%E6%89%93%E5%81%87%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [TFBOYS方称十周年戒指事件为造谣](https://s.weibo.com/weibo?q=%23TFBOYS%E6%96%B9%E7%A7%B0%E5%8D%81%E5%91%A8%E5%B9%B4%E6%88%92%E6%8C%87%E4%BA%8B%E4%BB%B6%E4%B8%BA%E9%80%A0%E8%B0%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [特斯拉涨价](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=8&Refer=top)<br />
