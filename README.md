@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 15:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-09 15:15:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [外交部：中国公民暂勿前往缅北](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E7%BC%85%E5%8C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李雪健何以“封神”](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E5%81%A5%E4%BD%95%E4%BB%A5%E2%80%9C%E5%B0%81%E7%A5%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男人消费力首次超过宠物狗](https://www.baidu.com/s?wd=%E7%94%B7%E4%BA%BA%E6%B6%88%E8%B4%B9%E5%8A%9B%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E5%AE%A0%E7%89%A9%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小伙离职后驻岛当起水獭铲屎官](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%A6%BB%E8%81%8C%E5%90%8E%E9%A9%BB%E5%B2%9B%E5%BD%93%E8%B5%B7%E6%B0%B4%E7%8D%AD%E9%93%B2%E5%B1%8E%E5%AE%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [市民曝网红刘媛媛涉虚假宣传](https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E6%9B%9D%E7%BD%91%E7%BA%A2%E5%88%98%E5%AA%9B%E5%AA%9B%E6%B6%89%E8%99%9A%E5%81%87%E5%AE%A3%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [苏打水能调节身体酸碱平衡？](https://www.baidu.com/s?wd=%E8%8B%8F%E6%89%93%E6%B0%B4%E8%83%BD%E8%B0%83%E8%8A%82%E8%BA%AB%E4%BD%93%E9%85%B8%E7%A2%B1%E5%B9%B3%E8%A1%A1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [外交部：中国公民暂勿前往缅北](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E7%BC%85%E5%8C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李雪健何以“封神”](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E5%81%A5%E4%BD%95%E4%BB%A5%E2%80%9C%E5%B0%81%E7%A5%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男人消费力首次超过宠物狗](https://www.baidu.com/s?wd=%E7%94%B7%E4%BA%BA%E6%B6%88%E8%B4%B9%E5%8A%9B%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E5%AE%A0%E7%89%A9%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小伙离职后驻岛当起水獭铲屎官](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%A6%BB%E8%81%8C%E5%90%8E%E9%A9%BB%E5%B2%9B%E5%BD%93%E8%B5%B7%E6%B0%B4%E7%8D%AD%E9%93%B2%E5%B1%8E%E5%AE%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [市民曝网红刘媛媛涉虚假宣传](https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E6%9B%9D%E7%BD%91%E7%BA%A2%E5%88%98%E5%AA%9B%E5%AA%9B%E6%B6%89%E8%99%9A%E5%81%87%E5%AE%A3%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [苏打水能调节身体酸碱平衡？](https://www.baidu.com/s?wd=%E8%8B%8F%E6%89%93%E6%B0%B4%E8%83%BD%E8%B0%83%E8%8A%82%E8%BA%AB%E4%BD%93%E9%85%B8%E7%A2%B1%E5%B9%B3%E8%A1%A1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
