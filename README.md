@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 21:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 21:31:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [丞磊这不挺会唱的](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E8%BF%99%E4%B8%8D%E6%8C%BA%E4%BC%9A%E5%94%B1%E7%9A%84%23&t=31&band_rank=4&Refer=top)<br />
 5. [父母每月寄10斤日用品给00后儿子](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E6%AF%8F%E6%9C%88%E5%AF%8410%E6%96%A4%E6%97%A5%E7%94%A8%E5%93%81%E7%BB%9900%E5%90%8E%E5%84%BF%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [双11惊喜夜](https://s.weibo.com/weibo?q=%E5%8F%8C11%E6%83%8A%E5%96%9C%E5%A4%9C&t=31&band_rank=6&Refer=top)<br />
-7. [70秒速览进博会精彩瞬间](https://s.weibo.com/weibo?q=%2370%E7%A7%92%E9%80%9F%E8%A7%88%E8%BF%9B%E5%8D%9A%E4%BC%9A%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [中美元首旧金山会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%97%A7%E9%87%91%E5%B1%B1%E4%BC%9A%E6%99%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [一点点](https://s.weibo.com/weibo?q=%E4%B8%80%E7%82%B9%E7%82%B9&t=31&band_rank=9&Refer=top)<br />
+7. [中美元首旧金山会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%97%A7%E9%87%91%E5%B1%B1%E4%BC%9A%E6%99%A4%23&t=31&band_rank=7&Refer=top)<br />
+8. [一点点](https://s.weibo.com/weibo?q=%E4%B8%80%E7%82%B9%E7%82%B9&t=31&band_rank=8&Refer=top)<br />
+9. [嗓子哑以为是感冒结果是肺癌](https://s.weibo.com/weibo?q=%23%E5%97%93%E5%AD%90%E5%93%91%E4%BB%A5%E4%B8%BA%E6%98%AF%E6%84%9F%E5%86%92%E7%BB%93%E6%9E%9C%E6%98%AF%E8%82%BA%E7%99%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
