@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 15:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 15:32:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [水谷隼沉迷炒股亏了东京一套房](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E8%B0%B7%E9%9A%BC%E6%B2%89%E8%BF%B7%E7%82%92%E8%82%A1%E4%BA%8F%E4%BA%86%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%A5%97%E6%88%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [aespa空降](https://s.weibo.com/weibo?q=aespa%E7%A9%BA%E9%99%8D&t=31&band_rank=7&Refer=top)<br />
 8. [国内唯一满级女教练滑雪场身亡](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%94%AF%E4%B8%80%E6%BB%A1%E7%BA%A7%E5%A5%B3%E6%95%99%E7%BB%83%E6%BB%91%E9%9B%AA%E5%9C%BA%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [电影二十二片中老人已全部去世](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E4%BA%8C%E5%8D%81%E4%BA%8C%E7%89%87%E4%B8%AD%E8%80%81%E4%BA%BA%E5%B7%B2%E5%85%A8%E9%83%A8%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [戚薇曝李承铉成团往事](https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E6%9B%9D%E6%9D%8E%E6%89%BF%E9%93%89%E6%88%90%E5%9B%A2%E5%BE%80%E4%BA%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
