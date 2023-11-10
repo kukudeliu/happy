@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 22:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 22:10:01</h4></div>
 
 > 微博  
 
-1. [谢娜 我回家了](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E6%88%91%E5%9B%9E%E5%AE%B6%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [宋茜 梦回Victoria](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%20%E6%A2%A6%E5%9B%9EVictoria&t=31&band_rank=2&Refer=top)<br />
+1. [宋茜 梦回Victoria](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%20%E6%A2%A6%E5%9B%9EVictoria&t=31&band_rank=1&Refer=top)<br />
+2. [谢娜 我回家了](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E6%88%91%E5%9B%9E%E5%AE%B6%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [乌镇网事](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%95%87%E7%BD%91%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [中美元首旧金山会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%97%A7%E9%87%91%E5%B1%B1%E4%BC%9A%E6%99%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [还得是凤凰传奇](https://s.weibo.com/weibo?q=%E8%BF%98%E5%BE%97%E6%98%AF%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87&t=31&band_rank=5&Refer=top)<br />
