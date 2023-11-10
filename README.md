@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 20:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 20:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [预制蛋](https://s.weibo.com/weibo?q=%E9%A2%84%E5%88%B6%E8%9B%8B&t=31&band_rank=5&Refer=top)<br />
 6. [三胞胎妈妈子宫壁仅1.2毫米](https://s.weibo.com/weibo?q=%E4%B8%89%E8%83%9E%E8%83%8E%E5%A6%88%E5%A6%88%E5%AD%90%E5%AE%AB%E5%A3%81%E4%BB%851.2%E6%AF%AB%E7%B1%B3&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫李现 二搭](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%20%E4%BA%8C%E6%90%AD&t=31&band_rank=7&Refer=top)<br />
-8. [何炅谢娜同台主持](https://s.weibo.com/weibo?q=%E4%BD%95%E7%82%85%E8%B0%A2%E5%A8%9C%E5%90%8C%E5%8F%B0%E4%B8%BB%E6%8C%81&t=31&band_rank=8&Refer=top)<br />
-9. [一点点](https://s.weibo.com/weibo?q=%E4%B8%80%E7%82%B9%E7%82%B9&t=31&band_rank=9&Refer=top)<br />
+8. [一点点](https://s.weibo.com/weibo?q=%E4%B8%80%E7%82%B9%E7%82%B9&t=31&band_rank=8&Refer=top)<br />
+9. [嗓子哑以为是感冒结果是肺癌](https://s.weibo.com/weibo?q=%23%E5%97%93%E5%AD%90%E5%93%91%E4%BB%A5%E4%B8%BA%E6%98%AF%E6%84%9F%E5%86%92%E7%BB%93%E6%9E%9C%E6%98%AF%E8%82%BA%E7%99%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
