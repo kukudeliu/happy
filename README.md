@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 19:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 19:30:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [权志龙除头发外全身脱毛](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E9%99%A4%E5%A4%B4%E5%8F%91%E5%A4%96%E5%85%A8%E8%BA%AB%E8%84%B1%E6%AF%9B%23&t=31&band_rank=4&Refer=top)<br />
 5. [新疆农户给苹果做B超测冰糖心](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%86%9C%E6%88%B7%E7%BB%99%E8%8B%B9%E6%9E%9C%E5%81%9AB%E8%B6%85%E6%B5%8B%E5%86%B0%E7%B3%96%E5%BF%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [一点点](https://s.weibo.com/weibo?q=%E4%B8%80%E7%82%B9%E7%82%B9&t=31&band_rank=6&Refer=top)<br />
-7. [重庆高校保安大叔在石墩上作画](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E9%AB%98%E6%A0%A1%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94%E5%9C%A8%E7%9F%B3%E5%A2%A9%E4%B8%8A%E4%BD%9C%E7%94%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨紫李现 二搭](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%20%E4%BA%8C%E6%90%AD&t=31&band_rank=8&Refer=top)<br />
-9. [双11惊喜夜](https://s.weibo.com/weibo?q=%E5%8F%8C11%E6%83%8A%E5%96%9C%E5%A4%9C&t=31&band_rank=9&Refer=top)<br />
+7. [杨紫李现 二搭](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%20%E4%BA%8C%E6%90%AD&t=31&band_rank=7&Refer=top)<br />
+8. [双11惊喜夜](https://s.weibo.com/weibo?q=%E5%8F%8C11%E6%83%8A%E5%96%9C%E5%A4%9C&t=31&band_rank=8&Refer=top)<br />
+9. [嗓子哑以为是感冒结果是肺癌](https://s.weibo.com/weibo?q=%23%E5%97%93%E5%AD%90%E5%93%91%E4%BB%A5%E4%B8%BA%E6%98%AF%E6%84%9F%E5%86%92%E7%BB%93%E6%9E%9C%E6%98%AF%E8%82%BA%E7%99%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
