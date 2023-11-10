@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 16:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 16:27:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [陈楚生首位双料冠军](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E9%A6%96%E4%BD%8D%E5%8F%8C%E6%96%99%E5%86%A0%E5%86%9B%23&t=31&band_rank=5&Refer=top)<br />
 6. [佳木斯体育馆坍塌11人被采取强制措施](https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C11%E4%BA%BA%E8%A2%AB%E9%87%87%E5%8F%96%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [当事人回应在李佳琦直播间买到空瓶化妆品](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E5%9C%A8%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B9%B0%E5%88%B0%E7%A9%BA%E7%93%B6%E5%8C%96%E5%A6%86%E5%93%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [花楼 卸任](https://s.weibo.com/weibo?q=%E8%8A%B1%E6%A5%BC%20%E5%8D%B8%E4%BB%BB&t=31&band_rank=8&Refer=top)<br />
-9. [贾乃亮帮员工要谭松韵签名照](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E5%B8%AE%E5%91%98%E5%B7%A5%E8%A6%81%E8%B0%AD%E6%9D%BE%E9%9F%B5%E7%AD%BE%E5%90%8D%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
+8. [杨紫李现 二搭](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%20%E4%BA%8C%E6%90%AD&t=31&band_rank=8&Refer=top)<br />
+9. [花楼 卸任](https://s.weibo.com/weibo?q=%E8%8A%B1%E6%A5%BC%20%E5%8D%B8%E4%BB%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
