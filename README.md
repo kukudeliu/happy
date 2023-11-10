@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 06:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 06:39:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [开放中国的全球魅力](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%85%A8%E7%90%83%E9%AD%85%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [孙德顺受贿近10亿细节：不收现金](https://www.baidu.com/s?wd=%E5%AD%99%E5%BE%B7%E9%A1%BA%E5%8F%97%E8%B4%BF%E8%BF%9110%E4%BA%BF%E7%BB%86%E8%8A%82%EF%BC%9A%E4%B8%8D%E6%94%B6%E7%8E%B0%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [周冬雨金鸡奖照念手稿引争议](https://www.baidu.com/s?wd=%E5%91%A8%E5%86%AC%E9%9B%A8%E9%87%91%E9%B8%A1%E5%A5%96%E7%85%A7%E5%BF%B5%E6%89%8B%E7%A8%BF%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [食品厂员工将食品原料当“床垫”](https://www.baidu.com/s?wd=%E9%A3%9F%E5%93%81%E5%8E%82%E5%91%98%E5%B7%A5%E5%B0%86%E9%A3%9F%E5%93%81%E5%8E%9F%E6%96%99%E5%BD%93%E2%80%9C%E5%BA%8A%E5%9E%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生占16个座并殴打同学 校方回应](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%A016%E4%B8%AA%E5%BA%A7%E5%B9%B6%E6%AE%B4%E6%89%93%E5%90%8C%E5%AD%A6+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [一点点否认倒闭](https://www.baidu.com/s?wd=%E4%B8%80%E7%82%B9%E7%82%B9%E5%90%A6%E8%AE%A4%E5%80%92%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [食品厂员工将食品原料当“床垫”](https://www.baidu.com/s?wd=%E9%A3%9F%E5%93%81%E5%8E%82%E5%91%98%E5%B7%A5%E5%B0%86%E9%A3%9F%E5%93%81%E5%8E%9F%E6%96%99%E5%BD%93%E2%80%9C%E5%BA%8A%E5%9E%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [23省44城自来水检出致癌物？](https://www.baidu.com/s?wd=23%E7%9C%8144%E5%9F%8E%E8%87%AA%E6%9D%A5%E6%B0%B4%E6%A3%80%E5%87%BA%E8%87%B4%E7%99%8C%E7%89%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [开放中国的全球魅力](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%85%A8%E7%90%83%E9%AD%85%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [孙德顺受贿近10亿细节：不收现金](https://www.baidu.com/s?wd=%E5%AD%99%E5%BE%B7%E9%A1%BA%E5%8F%97%E8%B4%BF%E8%BF%9110%E4%BA%BF%E7%BB%86%E8%8A%82%EF%BC%9A%E4%B8%8D%E6%94%B6%E7%8E%B0%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [周冬雨金鸡奖照念手稿引争议](https://www.baidu.com/s?wd=%E5%91%A8%E5%86%AC%E9%9B%A8%E9%87%91%E9%B8%A1%E5%A5%96%E7%85%A7%E5%BF%B5%E6%89%8B%E7%A8%BF%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [食品厂员工将食品原料当“床垫”](https://www.baidu.com/s?wd=%E9%A3%9F%E5%93%81%E5%8E%82%E5%91%98%E5%B7%A5%E5%B0%86%E9%A3%9F%E5%93%81%E5%8E%9F%E6%96%99%E5%BD%93%E2%80%9C%E5%BA%8A%E5%9E%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生占16个座并殴打同学 校方回应](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%A016%E4%B8%AA%E5%BA%A7%E5%B9%B6%E6%AE%B4%E6%89%93%E5%90%8C%E5%AD%A6+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [一点点否认倒闭](https://www.baidu.com/s?wd=%E4%B8%80%E7%82%B9%E7%82%B9%E5%90%A6%E8%AE%A4%E5%80%92%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [食品厂员工将食品原料当“床垫”](https://www.baidu.com/s?wd=%E9%A3%9F%E5%93%81%E5%8E%82%E5%91%98%E5%B7%A5%E5%B0%86%E9%A3%9F%E5%93%81%E5%8E%9F%E6%96%99%E5%BD%93%E2%80%9C%E5%BA%8A%E5%9E%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [23省44城自来水检出致癌物？](https://www.baidu.com/s?wd=23%E7%9C%8144%E5%9F%8E%E8%87%AA%E6%9D%A5%E6%B0%B4%E6%A3%80%E5%87%BA%E8%87%B4%E7%99%8C%E7%89%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
