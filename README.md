@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 12:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 12:38:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [aespa回归](https://s.weibo.com/weibo?q=aespa%E5%9B%9E%E5%BD%92&t=31&band_rank=5&Refer=top)<br />
 6. [宋亚轩玩八小时手机都不回沈腾微信](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%8E%A9%E5%85%AB%E5%B0%8F%E6%97%B6%E6%89%8B%E6%9C%BA%E9%83%BD%E4%B8%8D%E5%9B%9E%E6%B2%88%E8%85%BE%E5%BE%AE%E4%BF%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [苏醒晒0713聊天记录](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E6%99%920713%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23&t=31&band_rank=7&Refer=top)<br />
-8. [少爷和我杀青](https://s.weibo.com/weibo?q=%23%E5%B0%91%E7%88%B7%E5%92%8C%E6%88%91%E6%9D%80%E9%9D%92%23&t=31&band_rank=8&Refer=top)<br />
+8. [关于我老婆总是想杀我这件小事](https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E6%88%91%E8%80%81%E5%A9%86%E6%80%BB%E6%98%AF%E6%83%B3%E6%9D%80%E6%88%91%E8%BF%99%E4%BB%B6%E5%B0%8F%E4%BA%8B%23&t=31&band_rank=8&Refer=top)<br />
 9. [美国首次发现吸血鬼病毒](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B0%E5%90%B8%E8%A1%80%E9%AC%BC%E7%97%85%E6%AF%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,8 +23,8 @@
 4. [进博之“道”](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%B9%8B%E2%80%9C%E9%81%93%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [吴艳妮：真抢跑了又怎么了？](https://www.baidu.com/s?wd=%E5%90%B4%E8%89%B3%E5%A6%AE%EF%BC%9A%E7%9C%9F%E6%8A%A2%E8%B7%91%E4%BA%86%E5%8F%88%E6%80%8E%E4%B9%88%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [狗头萝莉被嫌弃的半生](https://www.baidu.com/s?wd=%E7%8B%97%E5%A4%B4%E8%90%9D%E8%8E%89%E8%A2%AB%E5%AB%8C%E5%BC%83%E7%9A%84%E5%8D%8A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [新疆出现罕见全红色极光](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%87%BA%E7%8E%B0%E7%BD%95%E8%A7%81%E5%85%A8%E7%BA%A2%E8%89%B2%E6%9E%81%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：KTV衰退的趋势肉眼可见](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9AKTV%E8%A1%B0%E9%80%80%E7%9A%84%E8%B6%8B%E5%8A%BF%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：KTV衰退的趋势肉眼可见](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9AKTV%E8%A1%B0%E9%80%80%E7%9A%84%E8%B6%8B%E5%8A%BF%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新疆出现罕见全红色极光](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%87%BA%E7%8E%B0%E7%BD%95%E8%A7%81%E5%85%A8%E7%BA%A2%E8%89%B2%E6%9E%81%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳持刀伤人事件仍有逃犯？谣言](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%E4%BB%8D%E6%9C%89%E9%80%83%E7%8A%AF%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [进博之“道”](https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%B9%8B%E2%80%9C%E9%81%93%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [吴艳妮：真抢跑了又怎么了？](https://www.baidu.com/s?wd=%E5%90%B4%E8%89%B3%E5%A6%AE%EF%BC%9A%E7%9C%9F%E6%8A%A2%E8%B7%91%E4%BA%86%E5%8F%88%E6%80%8E%E4%B9%88%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [狗头萝莉被嫌弃的半生](https://www.baidu.com/s?wd=%E7%8B%97%E5%A4%B4%E8%90%9D%E8%8E%89%E8%A2%AB%E5%AB%8C%E5%BC%83%E7%9A%84%E5%8D%8A%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [新疆出现罕见全红色极光](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%87%BA%E7%8E%B0%E7%BD%95%E8%A7%81%E5%85%A8%E7%BA%A2%E8%89%B2%E6%9E%81%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：KTV衰退的趋势肉眼可见](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9AKTV%E8%A1%B0%E9%80%80%E7%9A%84%E8%B6%8B%E5%8A%BF%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：KTV衰退的趋势肉眼可见](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9AKTV%E8%A1%B0%E9%80%80%E7%9A%84%E8%B6%8B%E5%8A%BF%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新疆出现罕见全红色极光](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%87%BA%E7%8E%B0%E7%BD%95%E8%A7%81%E5%85%A8%E7%BA%A2%E8%89%B2%E6%9E%81%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳持刀伤人事件仍有逃犯？谣言](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%E4%BB%8D%E6%9C%89%E9%80%83%E7%8A%AF%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
