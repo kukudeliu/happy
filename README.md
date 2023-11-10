@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 20:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 20:26:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [权志龙除头发外全身脱毛](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E9%99%A4%E5%A4%B4%E5%8F%91%E5%A4%96%E5%85%A8%E8%BA%AB%E8%84%B1%E6%AF%9B%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨紫李现 二搭](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%20%E4%BA%8C%E6%90%AD&t=31&band_rank=5&Refer=top)<br />
 6. [一点点](https://s.weibo.com/weibo?q=%E4%B8%80%E7%82%B9%E7%82%B9&t=31&band_rank=6&Refer=top)<br />
-7. [对着周华健唱我喜欢你](https://s.weibo.com/weibo?q=%E5%AF%B9%E7%9D%80%E5%91%A8%E5%8D%8E%E5%81%A5%E5%94%B1%E6%88%91%E5%96%9C%E6%AC%A2%E4%BD%A0&t=31&band_rank=7&Refer=top)<br />
+7. [刀剑如梦 还得是周华健](https://s.weibo.com/weibo?q=%E5%88%80%E5%89%91%E5%A6%82%E6%A2%A6%20%E8%BF%98%E5%BE%97%E6%98%AF%E5%91%A8%E5%8D%8E%E5%81%A5&t=31&band_rank=7&Refer=top)<br />
 8. [王楚钦孙颖莎3比0梁靖崑钱天一](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%940%E6%A2%81%E9%9D%96%E5%B4%91%E9%92%B1%E5%A4%A9%E4%B8%80%23&t=31&band_rank=8&Refer=top)<br />
 9. [民警凭1条短信认出30年前命案逃犯](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%87%AD1%E6%9D%A1%E7%9F%AD%E4%BF%A1%E8%AE%A4%E5%87%BA30%E5%B9%B4%E5%89%8D%E5%91%BD%E6%A1%88%E9%80%83%E7%8A%AF%23&t=31&band_rank=9&Refer=top)<br />
 
