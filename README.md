@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 11:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 11:36:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [想亲就亲啊还要打什么赌](https://s.weibo.com/weibo?q=%23%E6%83%B3%E4%BA%B2%E5%B0%B1%E4%BA%B2%E5%95%8A%E8%BF%98%E8%A6%81%E6%89%93%E4%BB%80%E4%B9%88%E8%B5%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子在李佳琦直播间买到空瓶雅诗兰黛](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B9%B0%E5%88%B0%E7%A9%BA%E7%93%B6%E9%9B%85%E8%AF%97%E5%85%B0%E9%BB%9B%23&t=31&band_rank=5&Refer=top)<br />
 6. [宋亚轩玩八小时手机都不回沈腾微信](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%8E%A9%E5%85%AB%E5%B0%8F%E6%97%B6%E6%89%8B%E6%9C%BA%E9%83%BD%E4%B8%8D%E5%9B%9E%E6%B2%88%E8%85%BE%E5%BE%AE%E4%BF%A1%23&t=31&band_rank=6&Refer=top)<br />
-7. [美国首次发现吸血鬼病毒](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B0%E5%90%B8%E8%A1%80%E9%AC%BC%E7%97%85%E6%AF%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [流行病学研究中山二院患癌率](https://s.weibo.com/weibo?q=%E6%B5%81%E8%A1%8C%E7%97%85%E5%AD%A6%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E6%82%A3%E7%99%8C%E7%8E%87&t=31&band_rank=8&Refer=top)<br />
+7. [流行病学研究中山二院患癌率](https://s.weibo.com/weibo?q=%E6%B5%81%E8%A1%8C%E7%97%85%E5%AD%A6%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E6%82%A3%E7%99%8C%E7%8E%87&t=31&band_rank=7&Refer=top)<br />
+8. [美国首次发现吸血鬼病毒](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B0%E5%90%B8%E8%A1%80%E9%AC%BC%E7%97%85%E6%AF%92%23&t=31&band_rank=8&Refer=top)<br />
 9. [丫丫在吃和玩之间选择了吃](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%9C%A8%E5%90%83%E5%92%8C%E7%8E%A9%E4%B9%8B%E9%97%B4%E9%80%89%E6%8B%A9%E4%BA%86%E5%90%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
