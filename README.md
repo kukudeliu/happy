@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 08:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 08:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [苏钢集团回应被指卖毒地](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%92%A2%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%8D%96%E6%AF%92%E5%9C%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈楚生在尺度和分寸间选择了尺寸](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E5%9C%A8%E5%B0%BA%E5%BA%A6%E5%92%8C%E5%88%86%E5%AF%B8%E9%97%B4%E9%80%89%E6%8B%A9%E4%BA%86%E5%B0%BA%E5%AF%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [巨大压力下的小学老师生存现状](https://s.weibo.com/weibo?q=%23%E5%B7%A8%E5%A4%A7%E5%8E%8B%E5%8A%9B%E4%B8%8B%E7%9A%84%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E7%94%9F%E5%AD%98%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [综艺纣王](https://s.weibo.com/weibo?q=%E7%BB%BC%E8%89%BA%E7%BA%A3%E7%8E%8B&t=31&band_rank=9&Refer=top)<br />
+9. [美香一家刚回国就被排队投喂](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%A6%99%E4%B8%80%E5%AE%B6%E5%88%9A%E5%9B%9E%E5%9B%BD%E5%B0%B1%E8%A2%AB%E6%8E%92%E9%98%9F%E6%8A%95%E5%96%82%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
