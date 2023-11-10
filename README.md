@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 17:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 17:37:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [吴艳妮说我真抢跑了又怎么了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E8%AF%B4%E6%88%91%E7%9C%9F%E6%8A%A2%E8%B7%91%E4%BA%86%E5%8F%88%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [林志颖披荆斩棘总成绩冠军](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%80%BB%E6%88%90%E7%BB%A9%E5%86%A0%E5%86%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [教育部公示8所新大学](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%85%AC%E7%A4%BA8%E6%89%80%E6%96%B0%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈楚生首位双料冠军](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E9%A6%96%E4%BD%8D%E5%8F%8C%E6%96%99%E5%86%A0%E5%86%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [娜扎 颠婆敲木鱼](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%20%E9%A2%A0%E5%A9%86%E6%95%B2%E6%9C%A8%E9%B1%BC&t=31&band_rank=9&Refer=top)<br />
+8. [2023爱奇艺尖叫之夜](https://s.weibo.com/weibo?q=%232023%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=8&Refer=top)<br />
+9. [陈楚生首位双料冠军](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E9%A6%96%E4%BD%8D%E5%8F%8C%E6%96%99%E5%86%A0%E5%86%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
