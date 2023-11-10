@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 21:00:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 21:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以爱为营 断更](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E6%96%AD%E6%9B%B4&t=31&band_rank=6&Refer=top)<br />
 7. [一点点](https://s.weibo.com/weibo?q=%E4%B8%80%E7%82%B9%E7%82%B9&t=31&band_rank=7&Refer=top)<br />
 8. [嗓子哑以为是感冒结果是肺癌](https://s.weibo.com/weibo?q=%23%E5%97%93%E5%AD%90%E5%93%91%E4%BB%A5%E4%B8%BA%E6%98%AF%E6%84%9F%E5%86%92%E7%BB%93%E6%9E%9C%E6%98%AF%E8%82%BA%E7%99%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [王楚钦孙颖莎3比0梁靖崑钱天一](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%940%E6%A2%81%E9%9D%96%E5%B4%91%E9%92%B1%E5%A4%A9%E4%B8%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [阿维塔](https://s.weibo.com/weibo?q=%E9%98%BF%E7%BB%B4%E5%A1%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
