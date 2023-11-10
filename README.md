@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 09:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 09:41:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [我国首次发现23个长新冠标志物](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B023%E4%B8%AA%E9%95%BF%E6%96%B0%E5%86%A0%E6%A0%87%E5%BF%97%E7%89%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [papi酱孙怡仿佛看的不是同一段素材](https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E5%AD%99%E6%80%A1%E4%BB%BF%E4%BD%9B%E7%9C%8B%E7%9A%84%E4%B8%8D%E6%98%AF%E5%90%8C%E4%B8%80%E6%AE%B5%E7%B4%A0%E6%9D%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [苏钢集团回应被指卖毒地](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%92%A2%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%8D%96%E6%AF%92%E5%9C%B0%23&t=31&band_rank=7&Refer=top)<br />
-8. [印度和巴基斯坦再次交火](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%92%8C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%86%8D%E6%AC%A1%E4%BA%A4%E7%81%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [想亲就亲啊还要打什么赌](https://s.weibo.com/weibo?q=%23%E6%83%B3%E4%BA%B2%E5%B0%B1%E4%BA%B2%E5%95%8A%E8%BF%98%E8%A6%81%E6%89%93%E4%BB%80%E4%B9%88%E8%B5%8C%23&t=31&band_rank=9&Refer=top)<br />
+8. [想亲就亲啊还要打什么赌](https://s.weibo.com/weibo?q=%23%E6%83%B3%E4%BA%B2%E5%B0%B1%E4%BA%B2%E5%95%8A%E8%BF%98%E8%A6%81%E6%89%93%E4%BB%80%E4%B9%88%E8%B5%8C%23&t=31&band_rank=8&Refer=top)<br />
+9. [印度和巴基斯坦再次交火](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%92%8C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%86%8D%E6%AC%A1%E4%BA%A4%E7%81%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
