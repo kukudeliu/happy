@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 08:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 08:18:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [“火焰蓝”的这组数字 拉满安全感](https://www.baidu.com/s?wd=%E2%80%9C%E7%81%AB%E7%84%B0%E8%93%9D%E2%80%9D%E7%9A%84%E8%BF%99%E7%BB%84%E6%95%B0%E5%AD%97+%E6%8B%89%E6%BB%A1%E5%AE%89%E5%85%A8%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [探访苏州“毒地” 有居民称房价暴跌](https://www.baidu.com/s?wd=%E6%8E%A2%E8%AE%BF%E8%8B%8F%E5%B7%9E%E2%80%9C%E6%AF%92%E5%9C%B0%E2%80%9D+%E6%9C%89%E5%B1%85%E6%B0%91%E7%A7%B0%E6%88%BF%E4%BB%B7%E6%9A%B4%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [今年双11变“静悄悄”了吗](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E5%8F%98%E2%80%9C%E9%9D%99%E6%82%84%E6%82%84%E2%80%9D%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [林瑞阳、张庭夫妇复出直播被封](https://www.baidu.com/s?wd=%E6%9E%97%E7%91%9E%E9%98%B3%E3%80%81%E5%BC%A0%E5%BA%AD%E5%A4%AB%E5%A6%87%E5%A4%8D%E5%87%BA%E7%9B%B4%E6%92%AD%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泽连斯基：我希望让狗来管理世界](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%88%91%E5%B8%8C%E6%9C%9B%E8%AE%A9%E7%8B%97%E6%9D%A5%E7%AE%A1%E7%90%86%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：KTV衰退的趋势肉眼可见](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9AKTV%E8%A1%B0%E9%80%80%E7%9A%84%E8%B6%8B%E5%8A%BF%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [林瑞阳、张庭夫妇复出直播被封](https://www.baidu.com/s?wd=%E6%9E%97%E7%91%9E%E9%98%B3%E3%80%81%E5%BC%A0%E5%BA%AD%E5%A4%AB%E5%A6%87%E5%A4%8D%E5%87%BA%E7%9B%B4%E6%92%AD%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳持刀伤人事件仍有逃犯？谣言](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%E4%BB%8D%E6%9C%89%E9%80%83%E7%8A%AF%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [“火焰蓝”的这组数字 拉满安全感](https://www.baidu.com/s?wd=%E2%80%9C%E7%81%AB%E7%84%B0%E8%93%9D%E2%80%9D%E7%9A%84%E8%BF%99%E7%BB%84%E6%95%B0%E5%AD%97+%E6%8B%89%E6%BB%A1%E5%AE%89%E5%85%A8%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [探访苏州“毒地” 有居民称房价暴跌](https://www.baidu.com/s?wd=%E6%8E%A2%E8%AE%BF%E8%8B%8F%E5%B7%9E%E2%80%9C%E6%AF%92%E5%9C%B0%E2%80%9D+%E6%9C%89%E5%B1%85%E6%B0%91%E7%A7%B0%E6%88%BF%E4%BB%B7%E6%9A%B4%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [今年双11变“静悄悄”了吗](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E5%8F%98%E2%80%9C%E9%9D%99%E6%82%84%E6%82%84%E2%80%9D%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [林瑞阳、张庭夫妇复出直播被封](https://www.baidu.com/s?wd=%E6%9E%97%E7%91%9E%E9%98%B3%E3%80%81%E5%BC%A0%E5%BA%AD%E5%A4%AB%E5%A6%87%E5%A4%8D%E5%87%BA%E7%9B%B4%E6%92%AD%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泽连斯基：我希望让狗来管理世界](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%88%91%E5%B8%8C%E6%9C%9B%E8%AE%A9%E7%8B%97%E6%9D%A5%E7%AE%A1%E7%90%86%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：KTV衰退的趋势肉眼可见](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9AKTV%E8%A1%B0%E9%80%80%E7%9A%84%E8%B6%8B%E5%8A%BF%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [林瑞阳、张庭夫妇复出直播被封](https://www.baidu.com/s?wd=%E6%9E%97%E7%91%9E%E9%98%B3%E3%80%81%E5%BC%A0%E5%BA%AD%E5%A4%AB%E5%A6%87%E5%A4%8D%E5%87%BA%E7%9B%B4%E6%92%AD%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳持刀伤人事件仍有逃犯？谣言](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%E4%BB%8D%E6%9C%89%E9%80%83%E7%8A%AF%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
