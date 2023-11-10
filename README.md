@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 11:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 11:49:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [宋亚轩玩八小时手机都不回沈腾微信](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%8E%A9%E5%85%AB%E5%B0%8F%E6%97%B6%E6%89%8B%E6%9C%BA%E9%83%BD%E4%B8%8D%E5%9B%9E%E6%B2%88%E8%85%BE%E5%BE%AE%E4%BF%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [想亲就亲啊还要打什么赌](https://s.weibo.com/weibo?q=%23%E6%83%B3%E4%BA%B2%E5%B0%B1%E4%BA%B2%E5%95%8A%E8%BF%98%E8%A6%81%E6%89%93%E4%BB%80%E4%B9%88%E8%B5%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [医生提醒不要皮肤一干就敷面膜](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E4%B8%8D%E8%A6%81%E7%9A%AE%E8%82%A4%E4%B8%80%E5%B9%B2%E5%B0%B1%E6%95%B7%E9%9D%A2%E8%86%9C%23&t=31&band_rank=6&Refer=top)<br />
-7. [流行病学研究中山二院患癌率](https://s.weibo.com/weibo?q=%E6%B5%81%E8%A1%8C%E7%97%85%E5%AD%A6%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E6%82%A3%E7%99%8C%E7%8E%87&t=31&band_rank=7&Refer=top)<br />
-8. [乳腺癌已为全球第一大癌](https://s.weibo.com/weibo?q=%23%E4%B9%B3%E8%85%BA%E7%99%8C%E5%B7%B2%E4%B8%BA%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%99%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [披荆斩棘3总决赛](https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%983%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=9&Refer=top)<br />
+7. [披荆斩棘3总决赛](https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%983%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=7&Refer=top)<br />
+8. [流行病学研究中山二院患癌率](https://s.weibo.com/weibo?q=%E6%B5%81%E8%A1%8C%E7%97%85%E5%AD%A6%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E6%82%A3%E7%99%8C%E7%8E%87&t=31&band_rank=8&Refer=top)<br />
+9. [乳腺癌已为全球第一大癌](https://s.weibo.com/weibo?q=%23%E4%B9%B3%E8%85%BA%E7%99%8C%E5%B7%B2%E4%B8%BA%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%99%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
