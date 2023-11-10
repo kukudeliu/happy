@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 22:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 22:23:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [中美元首旧金山会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%97%A7%E9%87%91%E5%B1%B1%E4%BC%9A%E6%99%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [关晓彤 主持](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%20%E4%B8%BB%E6%8C%81&t=31&band_rank=5&Refer=top)<br />
 6. [谢娜 我回家了](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E6%88%91%E5%9B%9E%E5%AE%B6%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [蔡国庆唱易烊千玺的My boo](https://s.weibo.com/weibo?q=%E8%94%A1%E5%9B%BD%E5%BA%86%E5%94%B1%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%9A%84My%20boo&t=31&band_rank=7&Refer=top)<br />
-8. [女生深夜约会9楼爬窗坠下被卡身亡](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%B7%B1%E5%A4%9C%E7%BA%A6%E4%BC%9A9%E6%A5%BC%E7%88%AC%E7%AA%97%E5%9D%A0%E4%B8%8B%E8%A2%AB%E5%8D%A1%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [父母每月寄10斤日用品给00后儿子](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E6%AF%8F%E6%9C%88%E5%AF%8410%E6%96%A4%E6%97%A5%E7%94%A8%E5%93%81%E7%BB%9900%E5%90%8E%E5%84%BF%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+7. [姐姐真漂亮](https://s.weibo.com/weibo?q=%E5%A7%90%E5%A7%90%E7%9C%9F%E6%BC%82%E4%BA%AE&t=31&band_rank=7&Refer=top)<br />
+8. [父母每月寄10斤日用品给00后儿子](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E6%AF%8F%E6%9C%88%E5%AF%8410%E6%96%A4%E6%97%A5%E7%94%A8%E5%93%81%E7%BB%9900%E5%90%8E%E5%84%BF%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
+9. [女生深夜约会9楼爬窗坠下被卡身亡](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%B7%B1%E5%A4%9C%E7%BA%A6%E4%BC%9A9%E6%A5%BC%E7%88%AC%E7%AA%97%E5%9D%A0%E4%B8%8B%E8%A2%AB%E5%8D%A1%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
