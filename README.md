@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 14:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 14:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国内唯一满级女教练滑雪场身亡](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%94%AF%E4%B8%80%E6%BB%A1%E7%BA%A7%E5%A5%B3%E6%95%99%E7%BB%83%E6%BB%91%E9%9B%AA%E5%9C%BA%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦孙颖莎横扫进四强](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E6%A8%AA%E6%89%AB%E8%BF%9B%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [微信支付与三大运营商条码支付互联互通](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E4%B8%8E%E4%B8%89%E5%A4%A7%E8%BF%90%E8%90%A5%E5%95%86%E6%9D%A1%E7%A0%81%E6%94%AF%E4%BB%98%E4%BA%92%E8%81%94%E4%BA%92%E9%80%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [披荆斩棘成团名单](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95&t=31&band_rank=9&Refer=top)<br />
+9. [佳木斯体育馆坍塌11人被采取强制措施](https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C11%E4%BA%BA%E8%A2%AB%E9%87%87%E5%8F%96%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
