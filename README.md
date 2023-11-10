@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 01:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 01:18:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [开放中国的全球魅力](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%85%A8%E7%90%83%E9%AD%85%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [孙德顺受贿近10亿细节：不收现金](https://www.baidu.com/s?wd=%E5%AD%99%E5%BE%B7%E9%A1%BA%E5%8F%97%E8%B4%BF%E8%BF%9110%E4%BA%BF%E7%BB%86%E8%8A%82%EF%BC%9A%E4%B8%8D%E6%94%B6%E7%8E%B0%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [民警1条短信认出30年前命案逃犯](https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A61%E6%9D%A1%E7%9F%AD%E4%BF%A1%E8%AE%A4%E5%87%BA30%E5%B9%B4%E5%89%8D%E5%91%BD%E6%A1%88%E9%80%83%E7%8A%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [林志颖披荆斩棘总成绩冠军](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E9%A2%96%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%80%BB%E6%88%90%E7%BB%A9%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一点点否认倒闭](https://www.baidu.com/s?wd=%E4%B8%80%E7%82%B9%E7%82%B9%E5%90%A6%E8%AE%A4%E5%80%92%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [一点点否认倒闭](https://www.baidu.com/s?wd=%E4%B8%80%E7%82%B9%E7%82%B9%E5%90%A6%E8%AE%A4%E5%80%92%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生占16个座并殴打同学 校方回应](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%A016%E4%B8%AA%E5%BA%A7%E5%B9%B6%E6%AE%B4%E6%89%93%E5%90%8C%E5%AD%A6+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [23省44城自来水检出致癌物？](https://www.baidu.com/s?wd=23%E7%9C%8144%E5%9F%8E%E8%87%AA%E6%9D%A5%E6%B0%B4%E6%A3%80%E5%87%BA%E8%87%B4%E7%99%8C%E7%89%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [开放中国的全球魅力](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%85%A8%E7%90%83%E9%AD%85%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [孙德顺受贿近10亿细节：不收现金](https://www.baidu.com/s?wd=%E5%AD%99%E5%BE%B7%E9%A1%BA%E5%8F%97%E8%B4%BF%E8%BF%9110%E4%BA%BF%E7%BB%86%E8%8A%82%EF%BC%9A%E4%B8%8D%E6%94%B6%E7%8E%B0%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [民警1条短信认出30年前命案逃犯](https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A61%E6%9D%A1%E7%9F%AD%E4%BF%A1%E8%AE%A4%E5%87%BA30%E5%B9%B4%E5%89%8D%E5%91%BD%E6%A1%88%E9%80%83%E7%8A%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [林志颖披荆斩棘总成绩冠军](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E9%A2%96%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%80%BB%E6%88%90%E7%BB%A9%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一点点否认倒闭](https://www.baidu.com/s?wd=%E4%B8%80%E7%82%B9%E7%82%B9%E5%90%A6%E8%AE%A4%E5%80%92%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [一点点否认倒闭](https://www.baidu.com/s?wd=%E4%B8%80%E7%82%B9%E7%82%B9%E5%90%A6%E8%AE%A4%E5%80%92%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生占16个座并殴打同学 校方回应](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8D%A016%E4%B8%AA%E5%BA%A7%E5%B9%B6%E6%AE%B4%E6%89%93%E5%90%8C%E5%AD%A6+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [23省44城自来水检出致癌物？](https://www.baidu.com/s?wd=23%E7%9C%8144%E5%9F%8E%E8%87%AA%E6%9D%A5%E6%B0%B4%E6%A3%80%E5%87%BA%E8%87%B4%E7%99%8C%E7%89%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
