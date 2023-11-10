@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 07:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 07:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [父母每月寄10斤日用品给00后儿子](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E6%AF%8F%E6%9C%88%E5%AF%8410%E6%96%A4%E6%97%A5%E7%94%A8%E5%93%81%E7%BB%9900%E5%90%8E%E5%84%BF%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [9位乳腺癌患者自述早期症状](https://s.weibo.com/weibo?q=%239%E4%BD%8D%E4%B9%B3%E8%85%BA%E7%99%8C%E6%82%A3%E8%80%85%E8%87%AA%E8%BF%B0%E6%97%A9%E6%9C%9F%E7%97%87%E7%8A%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [秦岚辛芷蕾是官宣的意思吗](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%98%AF%E5%AE%98%E5%AE%A3%E7%9A%84%E6%84%8F%E6%80%9D%E5%90%97&t=31&band_rank=8&Refer=top)<br />
-9. [西安下雪](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E4%B8%8B%E9%9B%AA&t=31&band_rank=9&Refer=top)<br />
+9. [迪丽热巴凌晨4点未发出的信息](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%87%8C%E6%99%A84%E7%82%B9%E6%9C%AA%E5%8F%91%E5%87%BA%E7%9A%84%E4%BF%A1%E6%81%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
