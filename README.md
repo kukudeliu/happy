@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 02:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 02:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [萧亚轩回来了](https://s.weibo.com/weibo?q=%E8%90%A7%E4%BA%9A%E8%BD%A9%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [父母每月寄10斤日用品给00后儿子](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E6%AF%8F%E6%9C%88%E5%AF%8410%E6%96%A4%E6%97%A5%E7%94%A8%E5%93%81%E7%BB%9900%E5%90%8E%E5%84%BF%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [9位乳腺癌患者自述早期症状](https://s.weibo.com/weibo?q=%239%E4%BD%8D%E4%B9%B3%E8%85%BA%E7%99%8C%E6%82%A3%E8%80%85%E8%87%AA%E8%BF%B0%E6%97%A9%E6%9C%9F%E7%97%87%E7%8A%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [老人烤红薯摊被撞翻一群人涌了上来](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%83%A4%E7%BA%A2%E8%96%AF%E6%91%8A%E8%A2%AB%E6%92%9E%E7%BF%BB%E4%B8%80%E7%BE%A4%E4%BA%BA%E6%B6%8C%E4%BA%86%E4%B8%8A%E6%9D%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [大连涉事小吃街疑因B太打假拉闸关灯](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E6%B6%89%E4%BA%8B%E5%B0%8F%E5%90%83%E8%A1%97%E7%96%91%E5%9B%A0B%E5%A4%AA%E6%89%93%E5%81%87%E6%8B%89%E9%97%B8%E5%85%B3%E7%81%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
