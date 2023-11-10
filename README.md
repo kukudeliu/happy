@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 16:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 16:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [花楼 卸任](https://s.weibo.com/weibo?q=%E8%8A%B1%E6%A5%BC%20%E5%8D%B8%E4%BB%BB&t=31&band_rank=6&Refer=top)<br />
 7. [当事人回应在李佳琦直播间买到空瓶化妆品](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E5%9C%A8%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B9%B0%E5%88%B0%E7%A9%BA%E7%93%B6%E5%8C%96%E5%A6%86%E5%93%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [aespa空降](https://s.weibo.com/weibo?q=aespa%E7%A9%BA%E9%99%8D&t=31&band_rank=8&Refer=top)<br />
-9. [戚薇曝李承铉成团往事](https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E6%9B%9D%E6%9D%8E%E6%89%BF%E9%93%89%E6%88%90%E5%9B%A2%E5%BE%80%E4%BA%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [白鹿张凌赫亲完导演还不喊咔](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%BA%B2%E5%AE%8C%E5%AF%BC%E6%BC%94%E8%BF%98%E4%B8%8D%E5%96%8A%E5%92%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
