@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 23:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 23:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [谢娜 我回家了](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E6%88%91%E5%9B%9E%E5%AE%B6%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴凌晨4点未发出的信息](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%87%8C%E6%99%A84%E7%82%B9%E6%9C%AA%E5%8F%91%E5%87%BA%E7%9A%84%E4%BF%A1%E6%81%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [山东下雪](https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E4%B8%8B%E9%9B%AA&t=31&band_rank=8&Refer=top)<br />
-9. [父母每月寄10斤日用品给00后儿子](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E6%AF%8F%E6%9C%88%E5%AF%8410%E6%96%A4%E6%97%A5%E7%94%A8%E5%93%81%E7%BB%9900%E5%90%8E%E5%84%BF%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [老人烤红薯摊被撞翻一群人涌了上来](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%83%A4%E7%BA%A2%E8%96%AF%E6%91%8A%E8%A2%AB%E6%92%9E%E7%BF%BB%E4%B8%80%E7%BE%A4%E4%BA%BA%E6%B6%8C%E4%BA%86%E4%B8%8A%E6%9D%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
