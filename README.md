@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 13:02:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 13:03:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [nobody原来是nobody cares](https://s.weibo.com/weibo?q=nobody%E5%8E%9F%E6%9D%A5%E6%98%AFnobody%20cares&t=31&band_rank=5&Refer=top)<br />
 6. [aespa回归](https://s.weibo.com/weibo?q=aespa%E5%9B%9E%E5%BD%92&t=31&band_rank=6&Refer=top)<br />
 7. [宋亚轩玩八小时手机都不回沈腾微信](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%8E%A9%E5%85%AB%E5%B0%8F%E6%97%B6%E6%89%8B%E6%9C%BA%E9%83%BD%E4%B8%8D%E5%9B%9E%E6%B2%88%E8%85%BE%E5%BE%AE%E4%BF%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [苏醒晒0713聊天记录](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E6%99%920713%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23&t=31&band_rank=8&Refer=top)<br />
+8. [披荆斩棘成团名单](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95&t=31&band_rank=8&Refer=top)<br />
 9. [美国首次发现吸血鬼病毒](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B0%E5%90%B8%E8%A1%80%E9%AC%BC%E7%97%85%E6%AF%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
