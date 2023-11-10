@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 05:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 05:46:01</h4></div>
 
 > 微博  
 
-1. [何炅不许任何一个夹子出现在他面前](https://s.weibo.com/weibo?q=%E4%BD%95%E7%82%85%E4%B8%8D%E8%AE%B8%E4%BB%BB%E4%BD%95%E4%B8%80%E4%B8%AA%E5%A4%B9%E5%AD%90%E5%87%BA%E7%8E%B0%E5%9C%A8%E4%BB%96%E9%9D%A2%E5%89%8D&t=31&band_rank=1&Refer=top)<br />
-2. [易烊千玺 限定玫瑰](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E9%99%90%E5%AE%9A%E7%8E%AB%E7%91%B0&t=31&band_rank=2&Refer=top)<br />
+1. [易烊千玺 限定玫瑰](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E9%99%90%E5%AE%9A%E7%8E%AB%E7%91%B0&t=31&band_rank=1&Refer=top)<br />
+2. [何炅不许任何一个夹子出现在他面前](https://s.weibo.com/weibo?q=%E4%BD%95%E7%82%85%E4%B8%8D%E8%AE%B8%E4%BB%BB%E4%BD%95%E4%B8%80%E4%B8%AA%E5%A4%B9%E5%AD%90%E5%87%BA%E7%8E%B0%E5%9C%A8%E4%BB%96%E9%9D%A2%E5%89%8D&t=31&band_rank=2&Refer=top)<br />
 3. [70秒速览进博会精彩瞬间](https://s.weibo.com/weibo?q=%2370%E7%A7%92%E9%80%9F%E8%A7%88%E8%BF%9B%E5%8D%9A%E4%BC%9A%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [父母每月寄10斤日用品给00后儿子](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E6%AF%8F%E6%9C%88%E5%AF%8410%E6%96%A4%E6%97%A5%E7%94%A8%E5%93%81%E7%BB%9900%E5%90%8E%E5%84%BF%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [9位乳腺癌患者自述早期症状](https://s.weibo.com/weibo?q=%239%E4%BD%8D%E4%B9%B3%E8%85%BA%E7%99%8C%E6%82%A3%E8%80%85%E8%87%AA%E8%BF%B0%E6%97%A9%E6%9C%9F%E7%97%87%E7%8A%B6%23&t=31&band_rank=5&Refer=top)<br />
