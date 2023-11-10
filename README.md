@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 14:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 14:41:01</h4></div>
 
 > 微博  
 
 1. [佳木斯体育馆坍塌11人被采取强制措施](https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C11%E4%BA%BA%E8%A2%AB%E9%87%87%E5%8F%96%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD%23&t=31&band_rank=1&Refer=top)<br />
-2. [电影二十二片中老人已全部去世](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E4%BA%8C%E5%8D%81%E4%BA%8C%E7%89%87%E4%B8%AD%E8%80%81%E4%BA%BA%E5%B7%B2%E5%85%A8%E9%83%A8%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
+2. [林志颖披荆斩棘总成绩冠军](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%80%BB%E6%88%90%E7%BB%A9%E5%86%A0%E5%86%9B%23&t=31&band_rank=2&Refer=top)<br />
 3. [未成年人网络素养提升片来啦](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BD%91%E7%BB%9C%E7%B4%A0%E5%85%BB%E6%8F%90%E5%8D%87%E7%89%87%E6%9D%A5%E5%95%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [吴艳妮说我真抢跑了又怎么了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E8%AF%B4%E6%88%91%E7%9C%9F%E6%8A%A2%E8%B7%91%E4%BA%86%E5%8F%88%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [林志颖披荆斩棘总成绩冠军](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%80%BB%E6%88%90%E7%BB%A9%E5%86%A0%E5%86%9B%23&t=31&band_rank=5&Refer=top)<br />
+5. [电影二十二片中老人已全部去世](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E4%BA%8C%E5%8D%81%E4%BA%8C%E7%89%87%E4%B8%AD%E8%80%81%E4%BA%BA%E5%B7%B2%E5%85%A8%E9%83%A8%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [苏州百亿毒地几乎成空城](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E7%99%BE%E4%BA%BF%E6%AF%92%E5%9C%B0%E5%87%A0%E4%B9%8E%E6%88%90%E7%A9%BA%E5%9F%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [国内唯一满级女教练滑雪场身亡](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%94%AF%E4%B8%80%E6%BB%A1%E7%BA%A7%E5%A5%B3%E6%95%99%E7%BB%83%E6%BB%91%E9%9B%AA%E5%9C%BA%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [aespa回归](https://s.weibo.com/weibo?q=aespa%E5%9B%9E%E5%BD%92&t=31&band_rank=8&Refer=top)<br />
