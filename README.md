@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 15:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 15:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [aespa空降](https://s.weibo.com/weibo?q=aespa%E7%A9%BA%E9%99%8D&t=31&band_rank=6&Refer=top)<br />
 7. [电影二十二片中老人已全部去世](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E4%BA%8C%E5%8D%81%E4%BA%8C%E7%89%87%E4%B8%AD%E8%80%81%E4%BA%BA%E5%B7%B2%E5%85%A8%E9%83%A8%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [国内唯一满级女教练滑雪场身亡](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%94%AF%E4%B8%80%E6%BB%A1%E7%BA%A7%E5%A5%B3%E6%95%99%E7%BB%83%E6%BB%91%E9%9B%AA%E5%9C%BA%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [张栋梁披荆斩棘逆天改命](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A0%8B%E6%A2%81%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E9%80%86%E5%A4%A9%E6%94%B9%E5%91%BD%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈楚生首位双料冠军](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E9%A6%96%E4%BD%8D%E5%8F%8C%E6%96%99%E5%86%A0%E5%86%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
