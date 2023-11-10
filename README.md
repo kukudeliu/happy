@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 22:26:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 22:27:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [中美元首旧金山会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%97%A7%E9%87%91%E5%B1%B1%E4%BC%9A%E6%99%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [关晓彤 主持](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%20%E4%B8%BB%E6%8C%81&t=31&band_rank=5&Refer=top)<br />
 6. [谢娜 我回家了](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E6%88%91%E5%9B%9E%E5%AE%B6%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [姐姐真漂亮](https://s.weibo.com/weibo?q=%E5%A7%90%E5%A7%90%E7%9C%9F%E6%BC%82%E4%BA%AE&t=31&band_rank=7&Refer=top)<br />
-8. [河南下雪](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%8B%E9%9B%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [贵州一公职人员驾车撞死一对中年夫妇](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E4%B8%80%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E9%A9%BE%E8%BD%A6%E6%92%9E%E6%AD%BB%E4%B8%80%E5%AF%B9%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%87%23&t=31&band_rank=9&Refer=top)<br />
+7. [杨紫李现 二搭](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%20%E4%BA%8C%E6%90%AD&t=31&band_rank=7&Refer=top)<br />
+8. [贵州一公职人员驾车撞死一对中年夫妇](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E4%B8%80%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E9%A9%BE%E8%BD%A6%E6%92%9E%E6%AD%BB%E4%B8%80%E5%AF%B9%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [河南下雪](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%8B%E9%9B%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
