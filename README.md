@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 21:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-10 21:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [丞磊这不挺会唱的](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E8%BF%99%E4%B8%8D%E6%8C%BA%E4%BC%9A%E5%94%B1%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [双11惊喜夜](https://s.weibo.com/weibo?q=%E5%8F%8C11%E6%83%8A%E5%96%9C%E5%A4%9C&t=31&band_rank=7&Refer=top)<br />
 8. [一点点](https://s.weibo.com/weibo?q=%E4%B8%80%E7%82%B9%E7%82%B9&t=31&band_rank=8&Refer=top)<br />
-9. [嗓子哑以为是感冒结果是肺癌](https://s.weibo.com/weibo?q=%23%E5%97%93%E5%AD%90%E5%93%91%E4%BB%A5%E4%B8%BA%E6%98%AF%E6%84%9F%E5%86%92%E7%BB%93%E6%9E%9C%E6%98%AF%E8%82%BA%E7%99%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [中美元首旧金山会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%97%A7%E9%87%91%E5%B1%B1%E4%BC%9A%E6%99%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
