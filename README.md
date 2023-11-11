@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 05:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 05:57:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [江山如画](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E5%B1%B1%E5%A6%82%E7%94%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [14岁女儿连夜报警称父母被骗卖房](https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%A5%B3%E5%84%BF%E8%BF%9E%E5%A4%9C%E6%8A%A5%E8%AD%A6%E7%A7%B0%E7%88%B6%E6%AF%8D%E8%A2%AB%E9%AA%97%E5%8D%96%E6%88%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [妈妈顺产有多苦](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E9%A1%BA%E4%BA%A7%E6%9C%89%E5%A4%9A%E8%8B%A6%23&t=31&band_rank=5&Refer=top)<br />
-6. [女生皮肤超好的总结](https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E7%9A%AE%E8%82%A4%E8%B6%85%E5%A5%BD%E7%9A%84%E6%80%BB%E7%BB%93&t=31&band_rank=6&Refer=top)<br />
-7. [WBG战胜BLG](https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CBLG%23&t=31&band_rank=7&Refer=top)<br />
+6. [WBG战胜BLG](https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CBLG%23&t=31&band_rank=6&Refer=top)<br />
+7. [女生皮肤超好的总结](https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E7%9A%AE%E8%82%A4%E8%B6%85%E5%A5%BD%E7%9A%84%E6%80%BB%E7%BB%93&t=31&band_rank=7&Refer=top)<br />
 8. [老伯举报公园砍掉七棵树获奖2000元](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%AF%E4%B8%BE%E6%8A%A5%E5%85%AC%E5%9B%AD%E7%A0%8D%E6%8E%89%E4%B8%83%E6%A3%B5%E6%A0%91%E8%8E%B7%E5%A5%962000%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [情绪稳定是男人最好的医美](https://s.weibo.com/weibo?q=%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E6%98%AF%E7%94%B7%E4%BA%BA%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8C%BB%E7%BE%8E&t=31&band_rank=9&Refer=top)<br />
 
