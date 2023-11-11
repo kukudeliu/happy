@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 20:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 20:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [上限冠军下限亚军](https://s.weibo.com/weibo?q=%E4%B8%8A%E9%99%90%E5%86%A0%E5%86%9B%E4%B8%8B%E9%99%90%E4%BA%9A%E5%86%9B&t=31&band_rank=6&Refer=top)<br />
 7. [iG官宣新阵容](https://s.weibo.com/weibo?q=iG%E5%AE%98%E5%AE%A3%E6%96%B0%E9%98%B5%E5%AE%B9&t=31&band_rank=7&Refer=top)<br />
 8. [张杰用女儿的名字命名麦克风](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%94%A8%E5%A5%B3%E5%84%BF%E7%9A%84%E5%90%8D%E5%AD%97%E5%91%BD%E5%90%8D%E9%BA%A6%E5%85%8B%E9%A3%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [80后父亲放弃百万年薪做陪读宝爸](https://s.weibo.com/weibo?q=%2380%E5%90%8E%E7%88%B6%E4%BA%B2%E6%94%BE%E5%BC%83%E7%99%BE%E4%B8%87%E5%B9%B4%E8%96%AA%E5%81%9A%E9%99%AA%E8%AF%BB%E5%AE%9D%E7%88%B8%23&t=31&band_rank=9&Refer=top)<br />
+9. [全华班](https://s.weibo.com/weibo?q=%E5%85%A8%E5%8D%8E%E7%8F%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
