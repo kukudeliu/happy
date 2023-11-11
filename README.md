@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 08:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 08:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [9位乳腺癌患者自述早期症状](https://s.weibo.com/weibo?q=%239%E4%BD%8D%E4%B9%B3%E8%85%BA%E7%99%8C%E6%82%A3%E8%80%85%E8%87%AA%E8%BF%B0%E6%97%A9%E6%9C%9F%E7%97%87%E7%8A%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [宋茜 梦回Victoria](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%20%E6%A2%A6%E5%9B%9EVictoria&t=31&band_rank=7&Refer=top)<br />
 8. [父母每月寄10斤日用品给00后儿子](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E6%AF%8F%E6%9C%88%E5%AF%8410%E6%96%A4%E6%97%A5%E7%94%A8%E5%93%81%E7%BB%9900%E5%90%8E%E5%84%BF%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [妈妈为省钱背冰箱坐20小时火车回家](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%B8%BA%E7%9C%81%E9%92%B1%E8%83%8C%E5%86%B0%E7%AE%B1%E5%9D%9020%E5%B0%8F%E6%97%B6%E7%81%AB%E8%BD%A6%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [迪丽热巴凌晨4点未发出的信息](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%87%8C%E6%99%A84%E7%82%B9%E6%9C%AA%E5%8F%91%E5%87%BA%E7%9A%84%E4%BF%A1%E6%81%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
