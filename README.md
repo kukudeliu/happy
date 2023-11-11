@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 16:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 16:25:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [中国自贸区先锋十年](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%87%AA%E8%B4%B8%E5%8C%BA%E5%85%88%E9%94%8B%E5%8D%81%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [小学校长9年强奸猥亵22名学生](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E6%A0%A1%E9%95%BF9%E5%B9%B4%E5%BC%BA%E5%A5%B8%E7%8C%A5%E4%BA%B522%E5%90%8D%E5%AD%A6%E7%94%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [秦岚什么时候偷偷举得铁](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%81%B7%E5%81%B7%E4%B8%BE%E5%BE%97%E9%93%81%23&t=31&band_rank=5&Refer=top)<br />
-6. [WBG对战BLG](https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98BLG%23&t=31&band_rank=6&Refer=top)<br />
-7. [宋茜出道前素颜参加综艺](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E5%87%BA%E9%81%93%E5%89%8D%E7%B4%A0%E9%A2%9C%E5%8F%82%E5%8A%A0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=7&Refer=top)<br />
+6. [宋茜出道前素颜参加综艺](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E5%87%BA%E9%81%93%E5%89%8D%E7%B4%A0%E9%A2%9C%E5%8F%82%E5%8A%A0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=6&Refer=top)<br />
+7. [WBG对战BLG](https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98BLG%23&t=31&band_rank=7&Refer=top)<br />
 8. [网红于文亮直播喊话一起圈钱](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E4%BA%8E%E6%96%87%E4%BA%AE%E7%9B%B4%E6%92%AD%E5%96%8A%E8%AF%9D%E4%B8%80%E8%B5%B7%E5%9C%88%E9%92%B1%23&t=31&band_rank=8&Refer=top)<br />
 9. [老师因误会学生当全班面鞠躬道歉](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%9B%A0%E8%AF%AF%E4%BC%9A%E5%AD%A6%E7%94%9F%E5%BD%93%E5%85%A8%E7%8F%AD%E9%9D%A2%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
