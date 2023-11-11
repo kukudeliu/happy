@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 22:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 22:33:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [羽绒服](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%BB%92%E6%9C%8D&t=31&band_rank=5&Refer=top)<br />
 6. [你好星期六下周有林俊杰](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%B8%8B%E5%91%A8%E6%9C%89%E6%9E%97%E4%BF%8A%E6%9D%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [张杰用女儿的名字命名麦克风](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%94%A8%E5%A5%B3%E5%84%BF%E7%9A%84%E5%90%8D%E5%AD%97%E5%91%BD%E5%90%8D%E9%BA%A6%E5%85%8B%E9%A3%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [ON群访哭了](https://s.weibo.com/weibo?q=%23ON%E7%BE%A4%E8%AE%BF%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+8. [张艺兴说去国外见了吴世勋](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%AF%B4%E5%8E%BB%E5%9B%BD%E5%A4%96%E8%A7%81%E4%BA%86%E5%90%B4%E4%B8%96%E5%8B%8B%23&t=31&band_rank=8&Refer=top)<br />
 9. [老师为学生买药摔伤学生到病房读感谢信](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E4%B8%BA%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%8D%AF%E6%91%94%E4%BC%A4%E5%AD%A6%E7%94%9F%E5%88%B0%E7%97%85%E6%88%BF%E8%AF%BB%E6%84%9F%E8%B0%A2%E4%BF%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
