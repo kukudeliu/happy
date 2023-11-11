@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 21:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 21:16:01</h4></div>
 
 > 微博  
 
 1. [WBG战胜BLG](https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CBLG%23&t=31&band_rank=1&Refer=top)<br />
-2. [WBG晋级S13总决赛](https://s.weibo.com/weibo?q=%23WBG%E6%99%8B%E7%BA%A7S13%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=2&Refer=top)<br />
+2. [TheShy生日礼物](https://s.weibo.com/weibo?q=TheShy%E7%94%9F%E6%97%A5%E7%A4%BC%E7%89%A9&t=31&band_rank=2&Refer=top)<br />
 3. [一声声我是中国空军安全感拉满](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%A3%B0%E5%A3%B0%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%A9%BA%E5%86%9B%E5%AE%89%E5%85%A8%E6%84%9F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
-4. [TheShy生日礼物](https://s.weibo.com/weibo?q=TheShy%E7%94%9F%E6%97%A5%E7%A4%BC%E7%89%A9&t=31&band_rank=4&Refer=top)<br />
+4. [WBG晋级S13总决赛](https://s.weibo.com/weibo?q=%23WBG%E6%99%8B%E7%BA%A7S13%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=4&Refer=top)<br />
 5. [全华班](https://s.weibo.com/weibo?q=%E5%85%A8%E5%8D%8E%E7%8F%AD&t=31&band_rank=5&Refer=top)<br />
 6. [张杰用女儿的名字命名麦克风](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%94%A8%E5%A5%B3%E5%84%BF%E7%9A%84%E5%90%8D%E5%AD%97%E5%91%BD%E5%90%8D%E9%BA%A6%E5%85%8B%E9%A3%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [计划有变 准备夺冠](https://s.weibo.com/weibo?q=%E8%AE%A1%E5%88%92%E6%9C%89%E5%8F%98%20%E5%87%86%E5%A4%87%E5%A4%BA%E5%86%A0&t=31&band_rank=7&Refer=top)<br />
