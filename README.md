@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 16:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 16:12:01</h4></div>
 
 > 微博  
 
-1. [小学校长9年强奸猥亵22名学生](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E6%A0%A1%E9%95%BF9%E5%B9%B4%E5%BC%BA%E5%A5%B8%E7%8C%A5%E4%BA%B522%E5%90%8D%E5%AD%A6%E7%94%9F%23&t=31&band_rank=1&Refer=top)<br />
-2. [国色芳华官宣杨紫李现](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E5%AE%98%E5%AE%A3%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%23&t=31&band_rank=2&Refer=top)<br />
+1. [国色芳华官宣杨紫李现](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E5%AE%98%E5%AE%A3%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%23&t=31&band_rank=1&Refer=top)<br />
+2. [小学校长9年强奸猥亵22名学生](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E6%A0%A1%E9%95%BF9%E5%B9%B4%E5%BC%BA%E5%A5%B8%E7%8C%A5%E4%BA%B522%E5%90%8D%E5%AD%A6%E7%94%9F%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国自贸区先锋十年](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%87%AA%E8%B4%B8%E5%8C%BA%E5%85%88%E9%94%8B%E5%8D%81%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [老人反对装电梯建好又想用被全楼拒绝](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8F%8D%E5%AF%B9%E8%A3%85%E7%94%B5%E6%A2%AF%E5%BB%BA%E5%A5%BD%E5%8F%88%E6%83%B3%E7%94%A8%E8%A2%AB%E5%85%A8%E6%A5%BC%E6%8B%92%E7%BB%9D%23&t=31&band_rank=4&Refer=top)<br />
 5. [秦岚什么时候偷偷举得铁](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%81%B7%E5%81%B7%E4%B8%BE%E5%BE%97%E9%93%81%23&t=31&band_rank=5&Refer=top)<br />
