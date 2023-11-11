@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 16:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 16:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宋茜出道前素颜参加综艺](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E5%87%BA%E9%81%93%E5%89%8D%E7%B4%A0%E9%A2%9C%E5%8F%82%E5%8A%A0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [WBG对战BLG](https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98BLG%23&t=31&band_rank=7&Refer=top)<br />
 8. [网红于文亮直播喊话一起圈钱](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E4%BA%8E%E6%96%87%E4%BA%AE%E7%9B%B4%E6%92%AD%E5%96%8A%E8%AF%9D%E4%B8%80%E8%B5%B7%E5%9C%88%E9%92%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [老师因误会学生当全班面鞠躬道歉](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%9B%A0%E8%AF%AF%E4%BC%9A%E5%AD%A6%E7%94%9F%E5%BD%93%E5%85%A8%E7%8F%AD%E9%9D%A2%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [女子麦当劳吃出异物被店员备注辱骂](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%90%83%E5%87%BA%E5%BC%82%E7%89%A9%E8%A2%AB%E5%BA%97%E5%91%98%E5%A4%87%E6%B3%A8%E8%BE%B1%E9%AA%82%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
