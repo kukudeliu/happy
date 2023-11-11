@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 11:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 11:18:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [广东省卫健委主任朱宏主动投案](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%8D%AB%E5%81%A5%E5%A7%94%E4%B8%BB%E4%BB%BB%E6%9C%B1%E5%AE%8F%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [儿童抑郁症门诊零点之后](https://www.baidu.com/s?wd=%E5%84%BF%E7%AB%A5%E6%8A%91%E9%83%81%E7%97%87%E9%97%A8%E8%AF%8A%E9%9B%B6%E7%82%B9%E4%B9%8B%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [豪掷48亿拿地的杭州SKP停工了](https://www.baidu.com/s?wd=%E8%B1%AA%E6%8E%B748%E4%BA%BF%E6%8B%BF%E5%9C%B0%E7%9A%84%E6%9D%AD%E5%B7%9ESKP%E5%81%9C%E5%B7%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“催收巨头”永雄集团复工在即？](https://www.baidu.com/s?wd=%E2%80%9C%E5%82%AC%E6%94%B6%E5%B7%A8%E5%A4%B4%E2%80%9D%E6%B0%B8%E9%9B%84%E9%9B%86%E5%9B%A2%E5%A4%8D%E5%B7%A5%E5%9C%A8%E5%8D%B3%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [顶级教练殒命滑雪场 男友称会发详情](https://www.baidu.com/s?wd=%E9%A1%B6%E7%BA%A7%E6%95%99%E7%BB%83%E6%AE%92%E5%91%BD%E6%BB%91%E9%9B%AA%E5%9C%BA+%E7%94%B7%E5%8F%8B%E7%A7%B0%E4%BC%9A%E5%8F%91%E8%AF%A6%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天冷穿得少容易变胖？](https://www.baidu.com/s?wd=%E5%A4%A9%E5%86%B7%E7%A9%BF%E5%BE%97%E5%B0%91%E5%AE%B9%E6%98%93%E5%8F%98%E8%83%96%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [广东省卫健委主任朱宏主动投案](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%8D%AB%E5%81%A5%E5%A7%94%E4%B8%BB%E4%BB%BB%E6%9C%B1%E5%AE%8F%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [儿童抑郁症门诊零点之后](https://www.baidu.com/s?wd=%E5%84%BF%E7%AB%A5%E6%8A%91%E9%83%81%E7%97%87%E9%97%A8%E8%AF%8A%E9%9B%B6%E7%82%B9%E4%B9%8B%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [豪掷48亿拿地的杭州SKP停工了](https://www.baidu.com/s?wd=%E8%B1%AA%E6%8E%B748%E4%BA%BF%E6%8B%BF%E5%9C%B0%E7%9A%84%E6%9D%AD%E5%B7%9ESKP%E5%81%9C%E5%B7%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“催收巨头”永雄集团复工在即？](https://www.baidu.com/s?wd=%E2%80%9C%E5%82%AC%E6%94%B6%E5%B7%A8%E5%A4%B4%E2%80%9D%E6%B0%B8%E9%9B%84%E9%9B%86%E5%9B%A2%E5%A4%8D%E5%B7%A5%E5%9C%A8%E5%8D%B3%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [顶级教练殒命滑雪场 男友称会发详情](https://www.baidu.com/s?wd=%E9%A1%B6%E7%BA%A7%E6%95%99%E7%BB%83%E6%AE%92%E5%91%BD%E6%BB%91%E9%9B%AA%E5%9C%BA+%E7%94%B7%E5%8F%8B%E7%A7%B0%E4%BC%9A%E5%8F%91%E8%AF%A6%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天冷穿得少容易变胖？](https://www.baidu.com/s?wd=%E5%A4%A9%E5%86%B7%E7%A9%BF%E5%BE%97%E5%B0%91%E5%AE%B9%E6%98%93%E5%8F%98%E8%83%96%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
