@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 13:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 13:48:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [奚梦瑶硬核提醒何猷君少吃甜食](https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E7%A1%AC%E6%A0%B8%E6%8F%90%E9%86%92%E4%BD%95%E7%8C%B7%E5%90%9B%E5%B0%91%E5%90%83%E7%94%9C%E9%A3%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [王鹤棣以爱为营直播忘关麦](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E7%9B%B4%E6%92%AD%E5%BF%98%E5%85%B3%E9%BA%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [许晴名下工作室等被执行624万](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%99%B4%E5%90%8D%E4%B8%8B%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%AD%89%E8%A2%AB%E6%89%A7%E8%A1%8C624%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [最好在睡前4小时吃完最后一餐](https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%A5%BD%E5%9C%A8%E7%9D%A1%E5%89%8D4%E5%B0%8F%E6%97%B6%E5%90%83%E5%AE%8C%E6%9C%80%E5%90%8E%E4%B8%80%E9%A4%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [沈腾 江苏也不太好混](https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E6%B1%9F%E8%8B%8F%E4%B9%9F%E4%B8%8D%E5%A4%AA%E5%A5%BD%E6%B7%B7&t=31&band_rank=8&Refer=top)<br />
-9. [张踩铃婆婆说法国奶酪大多都长毛](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%B8%A9%E9%93%83%E5%A9%86%E5%A9%86%E8%AF%B4%E6%B3%95%E5%9B%BD%E5%A5%B6%E9%85%AA%E5%A4%A7%E5%A4%9A%E9%83%BD%E9%95%BF%E6%AF%9B%23&t=31&band_rank=9&Refer=top)<br />
+7. [田小娟LIZ金玟庭合作新歌](https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%B0%8F%E5%A8%9FLIZ%E9%87%91%E7%8E%9F%E5%BA%AD%E5%90%88%E4%BD%9C%E6%96%B0%E6%AD%8C%23&t=31&band_rank=7&Refer=top)<br />
+8. [最好在睡前4小时吃完最后一餐](https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%A5%BD%E5%9C%A8%E7%9D%A1%E5%89%8D4%E5%B0%8F%E6%97%B6%E5%90%83%E5%AE%8C%E6%9C%80%E5%90%8E%E4%B8%80%E9%A4%90%23&t=31&band_rank=8&Refer=top)<br />
+9. [日本明治牛奶检出兽药残留](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%98%8E%E6%B2%BB%E7%89%9B%E5%A5%B6%E6%A3%80%E5%87%BA%E5%85%BD%E8%8D%AF%E6%AE%8B%E7%95%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
