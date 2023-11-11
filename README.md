@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 21:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 21:35:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [迪丽热巴是下一季花少导演](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%98%AF%E4%B8%8B%E4%B8%80%E5%AD%A3%E8%8A%B1%E5%B0%91%E5%AF%BC%E6%BC%94%23&t=31&band_rank=4&Refer=top)<br />
 5. [TheShy生日礼物](https://s.weibo.com/weibo?q=TheShy%E7%94%9F%E6%97%A5%E7%A4%BC%E7%89%A9&t=31&band_rank=5&Refer=top)<br />
 6. [韩国女歌手Nahee去世](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A5%B3%E6%AD%8C%E6%89%8BNahee%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [WBG晋级S13总决赛](https://s.weibo.com/weibo?q=%23WBG%E6%99%8B%E7%BA%A7S13%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=7&Refer=top)<br />
-8. [全华班](https://s.weibo.com/weibo?q=%E5%85%A8%E5%8D%8E%E7%8F%AD&t=31&band_rank=8&Refer=top)<br />
+7. [藏海女主](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E5%A5%B3%E4%B8%BB&t=31&band_rank=7&Refer=top)<br />
+8. [WBG晋级S13总决赛](https://s.weibo.com/weibo?q=%23WBG%E6%99%8B%E7%BA%A7S13%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=8&Refer=top)<br />
 9. [林诗栋蒯曼3比1王楚钦孙颖莎](https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC3%E6%AF%941%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
