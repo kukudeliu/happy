@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 21:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 21:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [计划有变 准备夺冠](https://s.weibo.com/weibo?q=%E8%AE%A1%E5%88%92%E6%9C%89%E5%8F%98%20%E5%87%86%E5%A4%87%E5%A4%BA%E5%86%A0&t=31&band_rank=6&Refer=top)<br />
 7. [ON怎么OFF了](https://s.weibo.com/weibo?q=%23ON%E6%80%8E%E4%B9%88OFF%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [林诗栋蒯曼3比1王楚钦孙颖莎](https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC3%E6%AF%941%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [上限冠军下限亚军](https://s.weibo.com/weibo?q=%E4%B8%8A%E9%99%90%E5%86%A0%E5%86%9B%E4%B8%8B%E9%99%90%E4%BA%9A%E5%86%9B&t=31&band_rank=9&Refer=top)<br />
+9. [迪丽热巴是下一季花少导演](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%98%AF%E4%B8%8B%E4%B8%80%E5%AD%A3%E8%8A%B1%E5%B0%91%E5%AF%BC%E6%BC%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
