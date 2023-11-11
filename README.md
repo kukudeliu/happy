@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 00:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 00:05:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [张艺兴说去国外见了吴世勋](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%AF%B4%E5%8E%BB%E5%9B%BD%E5%A4%96%E8%A7%81%E4%BA%86%E5%90%B4%E4%B8%96%E5%8B%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [羽绒服](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%BB%92%E6%9C%8D&t=31&band_rank=6&Refer=top)<br />
 7. [14岁女儿连夜报警称父母被骗卖房](https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%A5%B3%E5%84%BF%E8%BF%9E%E5%A4%9C%E6%8A%A5%E8%AD%A6%E7%A7%B0%E7%88%B6%E6%AF%8D%E8%A2%AB%E9%AA%97%E5%8D%96%E6%88%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [国色芳华 大女主剧](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%20%E5%A4%A7%E5%A5%B3%E4%B8%BB%E5%89%A7&t=31&band_rank=8&Refer=top)<br />
-9. [陈楚生 莫干山音乐节](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%20%E8%8E%AB%E5%B9%B2%E5%B1%B1%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=9&Refer=top)<br />
+8. [陈楚生 莫干山音乐节](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%20%E8%8E%AB%E5%B9%B2%E5%B1%B1%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=8&Refer=top)<br />
+9. [国色芳华 大女主剧](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%20%E5%A4%A7%E5%A5%B3%E4%B8%BB%E5%89%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
