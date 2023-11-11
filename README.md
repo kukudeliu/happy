@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 16:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 16:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [秦岚什么时候偷偷举得铁](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%81%B7%E5%81%B7%E4%B8%BE%E5%BE%97%E9%93%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [网红于文亮直播喊话一起圈钱](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E4%BA%8E%E6%96%87%E4%BA%AE%E7%9B%B4%E6%92%AD%E5%96%8A%E8%AF%9D%E4%B8%80%E8%B5%B7%E5%9C%88%E9%92%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [TheShy兰博单杀Bin](https://s.weibo.com/weibo?q=%23TheShy%E5%85%B0%E5%8D%9A%E5%8D%95%E6%9D%80Bin%23&t=31&band_rank=8&Refer=top)<br />
-9. [TheShy和Bin都带过李佳航玩游戏](https://s.weibo.com/weibo?q=%23TheShy%E5%92%8CBin%E9%83%BD%E5%B8%A6%E8%BF%87%E6%9D%8E%E4%BD%B3%E8%88%AA%E7%8E%A9%E6%B8%B8%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [WBG半决赛先下一城](https://s.weibo.com/weibo?q=%23WBG%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
