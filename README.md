@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 22:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 22:36:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [国色芳华 大女主剧](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%20%E5%A4%A7%E5%A5%B3%E4%B8%BB%E5%89%A7&t=31&band_rank=2&Refer=top)<br />
 3. [一声声我是中国空军安全感拉满](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%A3%B0%E5%A3%B0%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%A9%BA%E5%86%9B%E5%AE%89%E5%85%A8%E6%84%9F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [张艺兴说去国外见了吴世勋](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%AF%B4%E5%8E%BB%E5%9B%BD%E5%A4%96%E8%A7%81%E4%BA%86%E5%90%B4%E4%B8%96%E5%8B%8B%23&t=31&band_rank=4&Refer=top)<br />
-5. [刘亦菲 阿布扎比](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94&t=31&band_rank=5&Refer=top)<br />
-6. [羽绒服](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%BB%92%E6%9C%8D&t=31&band_rank=6&Refer=top)<br />
+5. [羽绒服](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%BB%92%E6%9C%8D&t=31&band_rank=5&Refer=top)<br />
+6. [刘亦菲 阿布扎比](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94&t=31&band_rank=6&Refer=top)<br />
 7. [你好星期六下周有林俊杰](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%B8%8B%E5%91%A8%E6%9C%89%E6%9E%97%E4%BF%8A%E6%9D%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [张杰用女儿的名字命名麦克风](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%94%A8%E5%A5%B3%E5%84%BF%E7%9A%84%E5%90%8D%E5%AD%97%E5%91%BD%E5%90%8D%E9%BA%A6%E5%85%8B%E9%A3%8E%23&t=31&band_rank=8&Refer=top)<br />
 9. [老师为学生买药摔伤学生到病房读感谢信](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E4%B8%BA%E5%AD%A6%E7%94%9F%E4%B9%B0%E8%8D%AF%E6%91%94%E4%BC%A4%E5%AD%A6%E7%94%9F%E5%88%B0%E7%97%85%E6%88%BF%E8%AF%BB%E6%84%9F%E8%B0%A2%E4%BF%A1%23&t=31&band_rank=9&Refer=top)<br />
