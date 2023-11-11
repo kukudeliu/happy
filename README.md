@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 22:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 22:17:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [国色芳华 大女主剧](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%20%E5%A4%A7%E5%A5%B3%E4%B8%BB%E5%89%A7&t=31&band_rank=2&Refer=top)<br />
 3. [一声声我是中国空军安全感拉满](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%A3%B0%E5%A3%B0%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%A9%BA%E5%86%9B%E5%AE%89%E5%85%A8%E6%84%9F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [张杰用女儿的名字命名麦克风](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%94%A8%E5%A5%B3%E5%84%BF%E7%9A%84%E5%90%8D%E5%AD%97%E5%91%BD%E5%90%8D%E9%BA%A6%E5%85%8B%E9%A3%8E%23&t=31&band_rank=4&Refer=top)<br />
-5. [迪丽热巴是下一季花少导演](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%98%AF%E4%B8%8B%E4%B8%80%E5%AD%A3%E8%8A%B1%E5%B0%91%E5%AF%BC%E6%BC%94%23&t=31&band_rank=5&Refer=top)<br />
-6. [文俊辉紧急撤回一个徐明浩](https://s.weibo.com/weibo?q=%23%E6%96%87%E4%BF%8A%E8%BE%89%E7%B4%A7%E6%80%A5%E6%92%A4%E5%9B%9E%E4%B8%80%E4%B8%AA%E5%BE%90%E6%98%8E%E6%B5%A9%23&t=31&band_rank=6&Refer=top)<br />
-7. [张艺兴演唱会](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
+5. [刘亦菲 阿布扎比](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94&t=31&band_rank=5&Refer=top)<br />
+6. [迪丽热巴是下一季花少导演](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%98%AF%E4%B8%8B%E4%B8%80%E5%AD%A3%E8%8A%B1%E5%B0%91%E5%AF%BC%E6%BC%94%23&t=31&band_rank=6&Refer=top)<br />
+7. [文俊辉紧急撤回一个徐明浩](https://s.weibo.com/weibo?q=%23%E6%96%87%E4%BF%8A%E8%BE%89%E7%B4%A7%E6%80%A5%E6%92%A4%E5%9B%9E%E4%B8%80%E4%B8%AA%E5%BE%90%E6%98%8E%E6%B5%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [T1 作业好抄](https://s.weibo.com/weibo?q=T1%20%E4%BD%9C%E4%B8%9A%E5%A5%BD%E6%8A%84&t=31&band_rank=8&Refer=top)<br />
-9. [莎头 健康涨球](https://s.weibo.com/weibo?q=%E8%8E%8E%E5%A4%B4%20%E5%81%A5%E5%BA%B7%E6%B6%A8%E7%90%83&t=31&band_rank=9&Refer=top)<br />
+9. [TheShy生日礼物](https://s.weibo.com/weibo?q=TheShy%E7%94%9F%E6%97%A5%E7%A4%BC%E7%89%A9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
