@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 20:42:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 20:43:02</h4></div>
 
 > 微博  
 
 1. [WBG战胜BLG](https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CBLG%23&t=31&band_rank=1&Refer=top)<br />
-2. [WBG对战BLG](https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98BLG%23&t=31&band_rank=2&Refer=top)<br />
+2. [WBG晋级S13总决赛](https://s.weibo.com/weibo?q=%23WBG%E6%99%8B%E7%BA%A7S13%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=2&Refer=top)<br />
 3. [江山如画](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E5%B1%B1%E5%A6%82%E7%94%BB%23&t=31&band_rank=3&Refer=top)<br />
-4. [WBG晋级S13总决赛](https://s.weibo.com/weibo?q=%23WBG%E6%99%8B%E7%BA%A7S13%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=4&Refer=top)<br />
+4. [WBG对战BLG](https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98BLG%23&t=31&band_rank=4&Refer=top)<br />
 5. [iG官宣新阵容](https://s.weibo.com/weibo?q=iG%E5%AE%98%E5%AE%A3%E6%96%B0%E9%98%B5%E5%AE%B9&t=31&band_rank=5&Refer=top)<br />
 6. [TheShy生日礼物](https://s.weibo.com/weibo?q=TheShy%E7%94%9F%E6%97%A5%E7%A4%BC%E7%89%A9&t=31&band_rank=6&Refer=top)<br />
-7. [计划有变 准备夺冠](https://s.weibo.com/weibo?q=%E8%AE%A1%E5%88%92%E6%9C%89%E5%8F%98%20%E5%87%86%E5%A4%87%E5%A4%BA%E5%86%A0&t=31&band_rank=7&Refer=top)<br />
-8. [张杰用女儿的名字命名麦克风](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%94%A8%E5%A5%B3%E5%84%BF%E7%9A%84%E5%90%8D%E5%AD%97%E5%91%BD%E5%90%8D%E9%BA%A6%E5%85%8B%E9%A3%8E%23&t=31&band_rank=8&Refer=top)<br />
+7. [bin看家英雄找回手感](https://s.weibo.com/weibo?q=bin%E7%9C%8B%E5%AE%B6%E8%8B%B1%E9%9B%84%E6%89%BE%E5%9B%9E%E6%89%8B%E6%84%9F&t=31&band_rank=7&Refer=top)<br />
+8. [计划有变 准备夺冠](https://s.weibo.com/weibo?q=%E8%AE%A1%E5%88%92%E6%9C%89%E5%8F%98%20%E5%87%86%E5%A4%87%E5%A4%BA%E5%86%A0&t=31&band_rank=8&Refer=top)<br />
 9. [80后父亲放弃百万年薪做陪读宝爸](https://s.weibo.com/weibo?q=%2380%E5%90%8E%E7%88%B6%E4%BA%B2%E6%94%BE%E5%BC%83%E7%99%BE%E4%B8%87%E5%B9%B4%E8%96%AA%E5%81%9A%E9%99%AA%E8%AF%BB%E5%AE%9D%E7%88%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
