@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 19:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 19:27:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男孩用书帮女孩遮阳光不料遇高手](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%94%A8%E4%B9%A6%E5%B8%AE%E5%A5%B3%E5%AD%A9%E9%81%AE%E9%98%B3%E5%85%89%E4%B8%8D%E6%96%99%E9%81%87%E9%AB%98%E6%89%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴是下一季花少导演](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%98%AF%E4%B8%8B%E4%B8%80%E5%AD%A3%E8%8A%B1%E5%B0%91%E5%AF%BC%E6%BC%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子心脏骤停遇医生5秒火速抢救](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E9%81%87%E5%8C%BB%E7%94%9F5%E7%A7%92%E7%81%AB%E9%80%9F%E6%8A%A2%E6%95%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [大侦探下一季众多老玩家回归](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BE%A6%E6%8E%A2%E4%B8%8B%E4%B8%80%E5%AD%A3%E4%BC%97%E5%A4%9A%E8%80%81%E7%8E%A9%E5%AE%B6%E5%9B%9E%E5%BD%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [歌手确认重启](https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E7%A1%AE%E8%AE%A4%E9%87%8D%E5%90%AF%23&t=31&band_rank=9&Refer=top)<br />
+8. [iG官宣新阵容](https://s.weibo.com/weibo?q=iG%E5%AE%98%E5%AE%A3%E6%96%B0%E9%98%B5%E5%AE%B9&t=31&band_rank=8&Refer=top)<br />
+9. [大侦探下一季众多老玩家回归](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BE%A6%E6%8E%A2%E4%B8%8B%E4%B8%80%E5%AD%A3%E4%BC%97%E5%A4%9A%E8%80%81%E7%8E%A9%E5%AE%B6%E5%9B%9E%E5%BD%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
