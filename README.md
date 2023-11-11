@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 12:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 12:28:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [B太 破解大连海鲜餐厅加工店鬼秤](https://s.weibo.com/weibo?q=B%E5%A4%AA%20%E7%A0%B4%E8%A7%A3%E5%A4%A7%E8%BF%9E%E6%B5%B7%E9%B2%9C%E9%A4%90%E5%8E%85%E5%8A%A0%E5%B7%A5%E5%BA%97%E9%AC%BC%E7%A7%A4&t=31&band_rank=5&Refer=top)<br />
 6. [你好星期六这把高端局](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E8%BF%99%E6%8A%8A%E9%AB%98%E7%AB%AF%E5%B1%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [水龙吟](https://s.weibo.com/weibo?q=%E6%B0%B4%E9%BE%99%E5%90%9F&t=31&band_rank=7&Refer=top)<br />
-8. [易烊千玺 限定玫瑰](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E9%99%90%E5%AE%9A%E7%8E%AB%E7%91%B0&t=31&band_rank=8&Refer=top)<br />
-9. [大学生招嫖被骗1500报警自首](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%9B%E5%AB%96%E8%A2%AB%E9%AA%971500%E6%8A%A5%E8%AD%A6%E8%87%AA%E9%A6%96%23&t=31&band_rank=9&Refer=top)<br />
+8. [大学生招嫖被骗1500报警自首](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%9B%E5%AB%96%E8%A2%AB%E9%AA%971500%E6%8A%A5%E8%AD%A6%E8%87%AA%E9%A6%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [易烊千玺 限定玫瑰](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E9%99%90%E5%AE%9A%E7%8E%AB%E7%91%B0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
