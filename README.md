@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 02:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 02:51:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [多地中小学高校寒假时间出炉](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E9%AB%98%E6%A0%A1%E5%AF%92%E5%81%87%E6%97%B6%E9%97%B4%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [市民驾车与野猪相撞 被判全责](https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E9%A9%BE%E8%BD%A6%E4%B8%8E%E9%87%8E%E7%8C%AA%E7%9B%B8%E6%92%9E+%E8%A2%AB%E5%88%A4%E5%85%A8%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网红于文亮塌房了么](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%BA%8E%E6%96%87%E4%BA%AE%E5%A1%8C%E6%88%BF%E4%BA%86%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国家一级导演车径行去世](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E5%AF%BC%E6%BC%94%E8%BD%A6%E5%BE%84%E8%A1%8C%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [长沙一女子洗澡洗出个鸟病](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%A5%B3%E5%AD%90%E6%B4%97%E6%BE%A1%E6%B4%97%E5%87%BA%E4%B8%AA%E9%B8%9F%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [生猪饲养周期用34种抗生素？](https://www.baidu.com/s?wd=%E7%94%9F%E7%8C%AA%E9%A5%B2%E5%85%BB%E5%91%A8%E6%9C%9F%E7%94%A834%E7%A7%8D%E6%8A%97%E7%94%9F%E7%B4%A0%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [多地中小学高校寒假时间出炉](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E9%AB%98%E6%A0%A1%E5%AF%92%E5%81%87%E6%97%B6%E9%97%B4%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [市民驾车与野猪相撞 被判全责](https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E9%A9%BE%E8%BD%A6%E4%B8%8E%E9%87%8E%E7%8C%AA%E7%9B%B8%E6%92%9E+%E8%A2%AB%E5%88%A4%E5%85%A8%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网红于文亮塌房了么](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%BA%8E%E6%96%87%E4%BA%AE%E5%A1%8C%E6%88%BF%E4%BA%86%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国家一级导演车径行去世](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E5%AF%BC%E6%BC%94%E8%BD%A6%E5%BE%84%E8%A1%8C%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [长沙一女子洗澡洗出个鸟病](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%A5%B3%E5%AD%90%E6%B4%97%E6%BE%A1%E6%B4%97%E5%87%BA%E4%B8%AA%E9%B8%9F%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [生猪饲养周期用34种抗生素？](https://www.baidu.com/s?wd=%E7%94%9F%E7%8C%AA%E9%A5%B2%E5%85%BB%E5%91%A8%E6%9C%9F%E7%94%A834%E7%A7%8D%E6%8A%97%E7%94%9F%E7%B4%A0%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
