@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 19:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 19:19:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [老虎出没 村民喂狗发现只剩狗头](https://www.baidu.com/s?wd=%E8%80%81%E8%99%8E%E5%87%BA%E6%B2%A1+%E6%9D%91%E6%B0%91%E5%96%82%E7%8B%97%E5%8F%91%E7%8E%B0%E5%8F%AA%E5%89%A9%E7%8B%97%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [长沙一女子洗澡洗出个鸟病](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%A5%B3%E5%AD%90%E6%B4%97%E6%BE%A1%E6%B4%97%E5%87%BA%E4%B8%AA%E9%B8%9F%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老人反对装电梯建好又想用被拒绝](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8F%8D%E5%AF%B9%E8%A3%85%E7%94%B5%E6%A2%AF%E5%BB%BA%E5%A5%BD%E5%8F%88%E6%83%B3%E7%94%A8%E8%A2%AB%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黄潜2球员战以色列球队拒绝默哀](https://www.baidu.com/s?wd=%E9%BB%84%E6%BD%9C2%E7%90%83%E5%91%98%E6%88%98%E4%BB%A5%E8%89%B2%E5%88%97%E7%90%83%E9%98%9F%E6%8B%92%E7%BB%9D%E9%BB%98%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医生溺亡留遗书控诉丈夫 丈夫发声](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E6%BA%BA%E4%BA%A1%E7%95%99%E9%81%97%E4%B9%A6%E6%8E%A7%E8%AF%89%E4%B8%88%E5%A4%AB+%E4%B8%88%E5%A4%AB%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一小学食堂出现鼠头系谣言](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%87%BA%E7%8E%B0%E9%BC%A0%E5%A4%B4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [老虎出没 村民喂狗发现只剩狗头](https://www.baidu.com/s?wd=%E8%80%81%E8%99%8E%E5%87%BA%E6%B2%A1+%E6%9D%91%E6%B0%91%E5%96%82%E7%8B%97%E5%8F%91%E7%8E%B0%E5%8F%AA%E5%89%A9%E7%8B%97%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [长沙一女子洗澡洗出个鸟病](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%A5%B3%E5%AD%90%E6%B4%97%E6%BE%A1%E6%B4%97%E5%87%BA%E4%B8%AA%E9%B8%9F%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老人反对装电梯建好又想用被拒绝](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8F%8D%E5%AF%B9%E8%A3%85%E7%94%B5%E6%A2%AF%E5%BB%BA%E5%A5%BD%E5%8F%88%E6%83%B3%E7%94%A8%E8%A2%AB%E6%8B%92%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黄潜2球员战以色列球队拒绝默哀](https://www.baidu.com/s?wd=%E9%BB%84%E6%BD%9C2%E7%90%83%E5%91%98%E6%88%98%E4%BB%A5%E8%89%B2%E5%88%97%E7%90%83%E9%98%9F%E6%8B%92%E7%BB%9D%E9%BB%98%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医生溺亡留遗书控诉丈夫 丈夫发声](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E6%BA%BA%E4%BA%A1%E7%95%99%E9%81%97%E4%B9%A6%E6%8E%A7%E8%AF%89%E4%B8%88%E5%A4%AB+%E4%B8%88%E5%A4%AB%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一小学食堂出现鼠头系谣言](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%87%BA%E7%8E%B0%E9%BC%A0%E5%A4%B4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
