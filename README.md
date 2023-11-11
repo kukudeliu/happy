@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 18:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 18:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男枪上单 今夕是何年](https://s.weibo.com/weibo?q=%E7%94%B7%E6%9E%AA%E4%B8%8A%E5%8D%95%20%E4%BB%8A%E5%A4%95%E6%98%AF%E4%BD%95%E5%B9%B4&t=31&band_rank=6&Refer=top)<br />
 7. [男子心脏骤停遇医生5秒火速抢救](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E9%81%87%E5%8C%BB%E7%94%9F5%E7%A7%92%E7%81%AB%E9%80%9F%E6%8A%A2%E6%95%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [WBG拿到赛点](https://s.weibo.com/weibo?q=WBG%E6%8B%BF%E5%88%B0%E8%B5%9B%E7%82%B9&t=31&band_rank=8&Refer=top)<br />
-9. [TheShy实力倒退五年](https://s.weibo.com/weibo?q=%23TheShy%E5%AE%9E%E5%8A%9B%E5%80%92%E9%80%80%E4%BA%94%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [T1 作业好抄](https://s.weibo.com/weibo?q=T1%20%E4%BD%9C%E4%B8%9A%E5%A5%BD%E6%8A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
