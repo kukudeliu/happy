@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 07:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 07:47:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [父亲开17.5米长货车接女儿拉1个行李箱](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%BC%8017.5%E7%B1%B3%E9%95%BF%E8%B4%A7%E8%BD%A6%E6%8E%A5%E5%A5%B3%E5%84%BF%E6%8B%891%E4%B8%AA%E8%A1%8C%E6%9D%8E%E7%AE%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [关晓彤王牌控诉华晨宇](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E7%8E%8B%E7%89%8C%E6%8E%A7%E8%AF%89%E5%8D%8E%E6%99%A8%E5%AE%87&t=31&band_rank=6&Refer=top)<br />
 7. [老伯举报公园砍掉七棵树获奖2000元](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%AF%E4%B8%BE%E6%8A%A5%E5%85%AC%E5%9B%AD%E7%A0%8D%E6%8E%89%E4%B8%83%E6%A3%B5%E6%A0%91%E8%8E%B7%E5%A5%962000%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [小学校长9年强奸猥亵22学生被执行死刑](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E6%A0%A1%E9%95%BF9%E5%B9%B4%E5%BC%BA%E5%A5%B8%E7%8C%A5%E4%BA%B522%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [国色芳华 大女主剧](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%20%E5%A4%A7%E5%A5%B3%E4%B8%BB%E5%89%A7&t=31&band_rank=9&Refer=top)<br />
+8. [国色芳华 大女主剧](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%20%E5%A4%A7%E5%A5%B3%E4%B8%BB%E5%89%A7&t=31&band_rank=8&Refer=top)<br />
+9. [张艺兴说去国外见了吴世勋](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%AF%B4%E5%8E%BB%E5%9B%BD%E5%A4%96%E8%A7%81%E4%BA%86%E5%90%B4%E4%B8%96%E5%8B%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
