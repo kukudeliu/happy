@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 00:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 00:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张艺兴说去国外见了吴世勋](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%AF%B4%E5%8E%BB%E5%9B%BD%E5%A4%96%E8%A7%81%E4%BA%86%E5%90%B4%E4%B8%96%E5%8B%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [羽绒服](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%BB%92%E6%9C%8D&t=31&band_rank=7&Refer=top)<br />
 8. [女生皮肤超好的总结](https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E7%9A%AE%E8%82%A4%E8%B6%85%E5%A5%BD%E7%9A%84%E6%80%BB%E7%BB%93&t=31&band_rank=8&Refer=top)<br />
-9. [陈楚生 莫干山音乐节](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%20%E8%8E%AB%E5%B9%B2%E5%B1%B1%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=9&Refer=top)<br />
+9. [情绪稳定是男人最好的医美](https://s.weibo.com/weibo?q=%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E6%98%AF%E7%94%B7%E4%BA%BA%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8C%BB%E7%BE%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [向共和国的蓝天卫士致敬](https://www.baidu.com/s?wd=%E5%90%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%9A%84%E8%93%9D%E5%A4%A9%E5%8D%AB%E5%A3%AB%E8%87%B4%E6%95%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多地中小学高校寒假时间出炉](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E9%AB%98%E6%A0%A1%E5%AF%92%E5%81%87%E6%97%B6%E9%97%B4%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [新一轮中美经贸会谈时间达10小时](https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%80%E8%BD%AE%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E4%BC%9A%E8%B0%88%E6%97%B6%E9%97%B4%E8%BE%BE10%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [住建部：认房不认贷起到积极效果](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7%E8%B5%B7%E5%88%B0%E7%A7%AF%E6%9E%81%E6%95%88%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医生溺亡留遗书控诉丈夫 丈夫发声](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E6%BA%BA%E4%BA%A1%E7%95%99%E9%81%97%E4%B9%A6%E6%8E%A7%E8%AF%89%E4%B8%88%E5%A4%AB+%E4%B8%88%E5%A4%AB%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子冬天穿短袖 让丈夫买衣服反被打](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%86%AC%E5%A4%A9%E7%A9%BF%E7%9F%AD%E8%A2%96+%E8%AE%A9%E4%B8%88%E5%A4%AB%E4%B9%B0%E8%A1%A3%E6%9C%8D%E5%8F%8D%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [长沙一女子洗澡洗出个鸟病](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%A5%B3%E5%AD%90%E6%B4%97%E6%BE%A1%E6%B4%97%E5%87%BA%E4%B8%AA%E9%B8%9F%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [生猪饲养周期用34种抗生素？](https://www.baidu.com/s?wd=%E7%94%9F%E7%8C%AA%E9%A5%B2%E5%85%BB%E5%91%A8%E6%9C%9F%E7%94%A834%E7%A7%8D%E6%8A%97%E7%94%9F%E7%B4%A0%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [向共和国的蓝天卫士致敬](https://www.baidu.com/s?wd=%E5%90%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%9A%84%E8%93%9D%E5%A4%A9%E5%8D%AB%E5%A3%AB%E8%87%B4%E6%95%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多地中小学高校寒假时间出炉](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E9%AB%98%E6%A0%A1%E5%AF%92%E5%81%87%E6%97%B6%E9%97%B4%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [新一轮中美经贸会谈时间达10小时](https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%80%E8%BD%AE%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E4%BC%9A%E8%B0%88%E6%97%B6%E9%97%B4%E8%BE%BE10%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [住建部：认房不认贷起到积极效果](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7%E8%B5%B7%E5%88%B0%E7%A7%AF%E6%9E%81%E6%95%88%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医生溺亡留遗书控诉丈夫 丈夫发声](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E6%BA%BA%E4%BA%A1%E7%95%99%E9%81%97%E4%B9%A6%E6%8E%A7%E8%AF%89%E4%B8%88%E5%A4%AB+%E4%B8%88%E5%A4%AB%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子冬天穿短袖 让丈夫买衣服反被打](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%86%AC%E5%A4%A9%E7%A9%BF%E7%9F%AD%E8%A2%96+%E8%AE%A9%E4%B8%88%E5%A4%AB%E4%B9%B0%E8%A1%A3%E6%9C%8D%E5%8F%8D%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [长沙一女子洗澡洗出个鸟病](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%A5%B3%E5%AD%90%E6%B4%97%E6%BE%A1%E6%B4%97%E5%87%BA%E4%B8%AA%E9%B8%9F%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [生猪饲养周期用34种抗生素？](https://www.baidu.com/s?wd=%E7%94%9F%E7%8C%AA%E9%A5%B2%E5%85%BB%E5%91%A8%E6%9C%9F%E7%94%A834%E7%A7%8D%E6%8A%97%E7%94%9F%E7%B4%A0%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
