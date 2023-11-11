@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 14:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 14:02:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [日本明治牛奶检出兽药残留](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%98%8E%E6%B2%BB%E7%89%9B%E5%A5%B6%E6%A3%80%E5%87%BA%E5%85%BD%E8%8D%AF%E6%AE%8B%E7%95%99%23&t=31&band_rank=5&Refer=top)<br />
 6. [奚梦瑶硬核提醒何猷君少吃甜食](https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E7%A1%AC%E6%A0%B8%E6%8F%90%E9%86%92%E4%BD%95%E7%8C%B7%E5%90%9B%E5%B0%91%E5%90%83%E7%94%9C%E9%A3%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [王鹤棣以爱为营直播忘关麦](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E7%9B%B4%E6%92%AD%E5%BF%98%E5%85%B3%E9%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [田小娟LIZ金玟庭合作新歌](https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%B0%8F%E5%A8%9FLIZ%E9%87%91%E7%8E%9F%E5%BA%AD%E5%90%88%E4%BD%9C%E6%96%B0%E6%AD%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [价值70万头发被盗民警48小时追回](https://s.weibo.com/weibo?q=%23%E4%BB%B7%E5%80%BC70%E4%B8%87%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%9B%97%E6%B0%91%E8%AD%A648%E5%B0%8F%E6%97%B6%E8%BF%BD%E5%9B%9E%23&t=31&band_rank=9&Refer=top)<br />
+8. [价值70万头发被盗民警48小时追回](https://s.weibo.com/weibo?q=%23%E4%BB%B7%E5%80%BC70%E4%B8%87%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%9B%97%E6%B0%91%E8%AD%A648%E5%B0%8F%E6%97%B6%E8%BF%BD%E5%9B%9E%23&t=31&band_rank=8&Refer=top)<br />
+9. [田小娟LIZ金玟庭合作新歌](https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%B0%8F%E5%A8%9FLIZ%E9%87%91%E7%8E%9F%E5%BA%AD%E5%90%88%E4%BD%9C%E6%96%B0%E6%AD%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
