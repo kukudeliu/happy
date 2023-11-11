@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 13:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 13:25:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [王鹤棣以爱为营直播忘关麦](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E7%9B%B4%E6%92%AD%E5%BF%98%E5%85%B3%E9%BA%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [奚梦瑶硬核提醒何猷君少吃甜食](https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E7%A1%AC%E6%A0%B8%E6%8F%90%E9%86%92%E4%BD%95%E7%8C%B7%E5%90%9B%E5%B0%91%E5%90%83%E7%94%9C%E9%A3%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [沈腾 江苏也不太好混](https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E6%B1%9F%E8%8B%8F%E4%B9%9F%E4%B8%8D%E5%A4%AA%E5%A5%BD%E6%B7%B7&t=31&band_rank=7&Refer=top)<br />
-8. [钟南山称近期将有新冠感染小高峰](https://s.weibo.com/weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E7%A7%B0%E8%BF%91%E6%9C%9F%E5%B0%86%E6%9C%89%E6%96%B0%E5%86%A0%E6%84%9F%E6%9F%93%E5%B0%8F%E9%AB%98%E5%B3%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [男生梦中被室友叫醒先懵后感动](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%A2%A6%E4%B8%AD%E8%A2%AB%E5%AE%A4%E5%8F%8B%E5%8F%AB%E9%86%92%E5%85%88%E6%87%B5%E5%90%8E%E6%84%9F%E5%8A%A8%23&t=31&band_rank=9&Refer=top)<br />
+8. [男生梦中被室友叫醒先懵后感动](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%A2%A6%E4%B8%AD%E8%A2%AB%E5%AE%A4%E5%8F%8B%E5%8F%AB%E9%86%92%E5%85%88%E6%87%B5%E5%90%8E%E6%84%9F%E5%8A%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [钟南山称近期将有新冠感染小高峰](https://s.weibo.com/weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E7%A7%B0%E8%BF%91%E6%9C%9F%E5%B0%86%E6%9C%89%E6%96%B0%E5%86%A0%E6%84%9F%E6%9F%93%E5%B0%8F%E9%AB%98%E5%B3%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
