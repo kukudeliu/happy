@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 17:56:01</h4></div>
 
 > 微博  
 
 1. [WBG对战BLG](https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98BLG%23&t=31&band_rank=1&Refer=top)<br />
-2. [国色芳华官宣杨紫李现](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E5%AE%98%E5%AE%A3%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%23&t=31&band_rank=2&Refer=top)<br />
+2. [男孩用书帮女孩遮阳光不料遇高手](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%94%A8%E4%B9%A6%E5%B8%AE%E5%A5%B3%E5%AD%A9%E9%81%AE%E9%98%B3%E5%85%89%E4%B8%8D%E6%96%99%E9%81%87%E9%AB%98%E6%89%8B%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国自贸区先锋十年](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%87%AA%E8%B4%B8%E5%8C%BA%E5%85%88%E9%94%8B%E5%8D%81%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
-4. [魏大勋一眼认出李叔同印章](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%9D%8E%E5%8F%94%E5%90%8C%E5%8D%B0%E7%AB%A0%23&t=31&band_rank=4&Refer=top)<br />
-5. [归国四子演唱会号召力](https://s.weibo.com/weibo?q=%23%E5%BD%92%E5%9B%BD%E5%9B%9B%E5%AD%90%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%B7%E5%8F%AC%E5%8A%9B%23&t=31&band_rank=5&Refer=top)<br />
-6. [男孩用书帮女孩遮阳光不料遇高手](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%94%A8%E4%B9%A6%E5%B8%AE%E5%A5%B3%E5%AD%A9%E9%81%AE%E9%98%B3%E5%85%89%E4%B8%8D%E6%96%99%E9%81%87%E9%AB%98%E6%89%8B%23&t=31&band_rank=6&Refer=top)<br />
+4. [国色芳华官宣杨紫李现](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E5%AE%98%E5%AE%A3%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%23&t=31&band_rank=4&Refer=top)<br />
+5. [魏大勋一眼认出李叔同印章](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E6%9D%8E%E5%8F%94%E5%90%8C%E5%8D%B0%E7%AB%A0%23&t=31&band_rank=5&Refer=top)<br />
+6. [归国四子演唱会号召力](https://s.weibo.com/weibo?q=%23%E5%BD%92%E5%9B%BD%E5%9B%9B%E5%AD%90%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%B7%E5%8F%AC%E5%8A%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [小虎 幽默](https://s.weibo.com/weibo?q=%E5%B0%8F%E8%99%8E%20%E5%B9%BD%E9%BB%98&t=31&band_rank=7&Refer=top)<br />
 8. [哈佛硕士应聘事业单位合同工](https://s.weibo.com/weibo?q=%23%E5%93%88%E4%BD%9B%E7%A1%95%E5%A3%AB%E5%BA%94%E8%81%98%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%90%88%E5%90%8C%E5%B7%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [TheShy实力倒退五年](https://s.weibo.com/weibo?q=%23TheShy%E5%AE%9E%E5%8A%9B%E5%80%92%E9%80%80%E4%BA%94%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子心脏骤停遇医生5秒火速抢救](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E9%81%87%E5%8C%BB%E7%94%9F5%E7%A7%92%E7%81%AB%E9%80%9F%E6%8A%A2%E6%95%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
