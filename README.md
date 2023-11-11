@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 08:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 08:02:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [提前放假到明年4月1日？公司回应](https://www.baidu.com/s?wd=%E6%8F%90%E5%89%8D%E6%94%BE%E5%81%87%E5%88%B0%E6%98%8E%E5%B9%B44%E6%9C%881%E6%97%A5%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [钟南山：预测近期有新冠感染小高峰](https://www.baidu.com/s?wd=%E9%92%9F%E5%8D%97%E5%B1%B1%EF%BC%9A%E9%A2%84%E6%B5%8B%E8%BF%91%E6%9C%9F%E6%9C%89%E6%96%B0%E5%86%A0%E6%84%9F%E6%9F%93%E5%B0%8F%E9%AB%98%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [16个城市取消土地限价意味着什么](https://www.baidu.com/s?wd=16%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%8F%96%E6%B6%88%E5%9C%9F%E5%9C%B0%E9%99%90%E4%BB%B7%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [周冬雨金鸡奖照念手稿引争议](https://www.baidu.com/s?wd=%E5%91%A8%E5%86%AC%E9%9B%A8%E9%87%91%E9%B8%A1%E5%A5%96%E7%85%A7%E5%BF%B5%E6%89%8B%E7%A8%BF%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生没开朋友圈被HR质疑性格封闭](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%B2%A1%E5%BC%80%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%ABHR%E8%B4%A8%E7%96%91%E6%80%A7%E6%A0%BC%E5%B0%81%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [23省44城自来水检出致癌物？](https://www.baidu.com/s?wd=23%E7%9C%8144%E5%9F%8E%E8%87%AA%E6%9D%A5%E6%B0%B4%E6%A3%80%E5%87%BA%E8%87%B4%E7%99%8C%E7%89%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [提前放假到明年4月1日？公司回应](https://www.baidu.com/s?wd=%E6%8F%90%E5%89%8D%E6%94%BE%E5%81%87%E5%88%B0%E6%98%8E%E5%B9%B44%E6%9C%881%E6%97%A5%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [钟南山：预测近期有新冠感染小高峰](https://www.baidu.com/s?wd=%E9%92%9F%E5%8D%97%E5%B1%B1%EF%BC%9A%E9%A2%84%E6%B5%8B%E8%BF%91%E6%9C%9F%E6%9C%89%E6%96%B0%E5%86%A0%E6%84%9F%E6%9F%93%E5%B0%8F%E9%AB%98%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [16个城市取消土地限价意味着什么](https://www.baidu.com/s?wd=16%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%8F%96%E6%B6%88%E5%9C%9F%E5%9C%B0%E9%99%90%E4%BB%B7%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [周冬雨金鸡奖照念手稿引争议](https://www.baidu.com/s?wd=%E5%91%A8%E5%86%AC%E9%9B%A8%E9%87%91%E9%B8%A1%E5%A5%96%E7%85%A7%E5%BF%B5%E6%89%8B%E7%A8%BF%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生没开朋友圈被HR质疑性格封闭](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%B2%A1%E5%BC%80%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%ABHR%E8%B4%A8%E7%96%91%E6%80%A7%E6%A0%BC%E5%B0%81%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [23省44城自来水检出致癌物？](https://www.baidu.com/s?wd=23%E7%9C%8144%E5%9F%8E%E8%87%AA%E6%9D%A5%E6%B0%B4%E6%A3%80%E5%87%BA%E8%87%B4%E7%99%8C%E7%89%A9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
