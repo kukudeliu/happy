@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 19:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 19:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [WBG对战BLG](https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98BLG%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子心脏骤停遇医生5秒火速抢救](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E9%81%87%E5%8C%BB%E7%94%9F5%E7%A7%92%E7%81%AB%E9%80%9F%E6%8A%A2%E6%95%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [不是羽绒服买不起是军大衣更有性价比](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%98%AF%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B9%B0%E4%B8%8D%E8%B5%B7%E6%98%AF%E5%86%9B%E5%A4%A7%E8%A1%A3%E6%9B%B4%E6%9C%89%E6%80%A7%E4%BB%B7%E6%AF%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [歌手确认重启](https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E7%A1%AE%E8%AE%A4%E9%87%8D%E5%90%AF%23&t=31&band_rank=9&Refer=top)<br />
+9. [大侦探下一季众多老玩家回归](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BE%A6%E6%8E%A2%E4%B8%8B%E4%B8%80%E5%AD%A3%E4%BC%97%E5%A4%9A%E8%80%81%E7%8E%A9%E5%AE%B6%E5%9B%9E%E5%BD%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
