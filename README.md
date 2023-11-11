@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 07:19:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 07:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [老伯举报公园砍掉七棵树获奖2000元](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%AF%E4%B8%BE%E6%8A%A5%E5%85%AC%E5%9B%AD%E7%A0%8D%E6%8E%89%E4%B8%83%E6%A3%B5%E6%A0%91%E8%8E%B7%E5%A5%962000%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [妈妈顺产有多苦](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E9%A1%BA%E4%BA%A7%E6%9C%89%E5%A4%9A%E8%8B%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [情绪稳定是男人最好的医美](https://s.weibo.com/weibo?q=%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E6%98%AF%E7%94%B7%E4%BA%BA%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8C%BB%E7%BE%8E&t=31&band_rank=8&Refer=top)<br />
-9. [国色芳华 大女主剧](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%20%E5%A4%A7%E5%A5%B3%E4%B8%BB%E5%89%A7&t=31&band_rank=9&Refer=top)<br />
+9. [温州永嘉民房坍塌已致3人遇难](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E6%B0%B8%E5%98%89%E6%B0%91%E6%88%BF%E5%9D%8D%E5%A1%8C%E5%B7%B2%E8%87%B43%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
