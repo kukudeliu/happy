@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 14:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 14:26:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [大学生招嫖被骗1500报警自首](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%9B%E5%AB%96%E8%A2%AB%E9%AA%971500%E6%8A%A5%E8%AD%A6%E8%87%AA%E9%A6%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [价值70万头发被盗民警48小时追回](https://s.weibo.com/weibo?q=%23%E4%BB%B7%E5%80%BC70%E4%B8%87%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%9B%97%E6%B0%91%E8%AD%A648%E5%B0%8F%E6%97%B6%E8%BF%BD%E5%9B%9E%23&t=31&band_rank=5&Refer=top)<br />
 6. [日本明治牛奶检出兽药残留](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%98%8E%E6%B2%BB%E7%89%9B%E5%A5%B6%E6%A3%80%E5%87%BA%E5%85%BD%E8%8D%AF%E6%AE%8B%E7%95%99%23&t=31&band_rank=6&Refer=top)<br />
-7. [赞多遗憾退赛](https://s.weibo.com/weibo?q=%23%E8%B5%9E%E5%A4%9A%E9%81%97%E6%86%BE%E9%80%80%E8%B5%9B%23&t=31&band_rank=7&Refer=top)<br />
-8. [奚梦瑶硬核提醒何猷君少吃甜食](https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E7%A1%AC%E6%A0%B8%E6%8F%90%E9%86%92%E4%BD%95%E7%8C%B7%E5%90%9B%E5%B0%91%E5%90%83%E7%94%9C%E9%A3%9F%23&t=31&band_rank=8&Refer=top)<br />
+7. [奚梦瑶硬核提醒何猷君少吃甜食](https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E7%A1%AC%E6%A0%B8%E6%8F%90%E9%86%92%E4%BD%95%E7%8C%B7%E5%90%9B%E5%B0%91%E5%90%83%E7%94%9C%E9%A3%9F%23&t=31&band_rank=7&Refer=top)<br />
+8. [赞多遗憾退赛](https://s.weibo.com/weibo?q=%23%E8%B5%9E%E5%A4%9A%E9%81%97%E6%86%BE%E9%80%80%E8%B5%9B%23&t=31&band_rank=8&Refer=top)<br />
 9. [李现任敏对手戏](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E4%BB%BB%E6%95%8F%E5%AF%B9%E6%89%8B%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
