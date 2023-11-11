@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 14:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-11 14:45:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [价值70万头发被盗民警48小时追回](https://s.weibo.com/weibo?q=%23%E4%BB%B7%E5%80%BC70%E4%B8%87%E5%A4%B4%E5%8F%91%E8%A2%AB%E7%9B%97%E6%B0%91%E8%AD%A648%E5%B0%8F%E6%97%B6%E8%BF%BD%E5%9B%9E%23&t=31&band_rank=5&Refer=top)<br />
 6. [谁家女主小说还原度这么高](https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E5%A5%B3%E4%B8%BB%E5%B0%8F%E8%AF%B4%E8%BF%98%E5%8E%9F%E5%BA%A6%E8%BF%99%E4%B9%88%E9%AB%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [李现任敏对手戏](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E4%BB%BB%E6%95%8F%E5%AF%B9%E6%89%8B%E6%88%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [日本明治牛奶检出兽药残留](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%98%8E%E6%B2%BB%E7%89%9B%E5%A5%B6%E6%A3%80%E5%87%BA%E5%85%BD%E8%8D%AF%E6%AE%8B%E7%95%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [宋茜出道前素颜参加综艺](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E5%87%BA%E9%81%93%E5%89%8D%E7%B4%A0%E9%A2%9C%E5%8F%82%E5%8A%A0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [宋茜出道前素颜参加综艺](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E5%87%BA%E9%81%93%E5%89%8D%E7%B4%A0%E9%A2%9C%E5%8F%82%E5%8A%A0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [日本明治牛奶检出兽药残留](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%98%8E%E6%B2%BB%E7%89%9B%E5%A5%B6%E6%A3%80%E5%87%BA%E5%85%BD%E8%8D%AF%E6%AE%8B%E7%95%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
