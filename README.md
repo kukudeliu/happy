@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 15:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 15:28:01</h4></div>
 
 > 微博  
 
-1. [官方通报B太遭遇鬼秤事件](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5B%E5%A4%AA%E9%81%AD%E9%81%87%E9%AC%BC%E7%A7%A4%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top)<br />
-2. [今年双十一冷清的原因找到了](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%8F%8C%E5%8D%81%E4%B8%80%E5%86%B7%E6%B8%85%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [今年双十一冷清的原因找到了](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%8F%8C%E5%8D%81%E4%B8%80%E5%86%B7%E6%B8%85%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [官方通报B太遭遇鬼秤事件](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5B%E5%A4%AA%E9%81%AD%E9%81%87%E9%AC%BC%E7%A7%A4%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023加油壁纸](https://s.weibo.com/weibo?q=%232023%E5%8A%A0%E6%B2%B9%E5%A3%81%E7%BA%B8%23&t=31&band_rank=3&Refer=top)<br />
 4. [男生电梯内戴面具举玩具刀吓坏住户](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%94%B5%E6%A2%AF%E5%86%85%E6%88%B4%E9%9D%A2%E5%85%B7%E4%B8%BE%E7%8E%A9%E5%85%B7%E5%88%80%E5%90%93%E5%9D%8F%E4%BD%8F%E6%88%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [姑娘为返款边流血边踩椭圆机](https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E4%B8%BA%E8%BF%94%E6%AC%BE%E8%BE%B9%E6%B5%81%E8%A1%80%E8%BE%B9%E8%B8%A9%E6%A4%AD%E5%9C%86%E6%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
