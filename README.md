@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 08:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 08:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [十多年的网购老炮都沉默了](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%A4%9A%E5%B9%B4%E7%9A%84%E7%BD%91%E8%B4%AD%E8%80%81%E7%82%AE%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [皮肤科专家提醒药膏护肤不靠谱](https://s.weibo.com/weibo?q=%23%E7%9A%AE%E8%82%A4%E7%A7%91%E4%B8%93%E5%AE%B6%E6%8F%90%E9%86%92%E8%8D%AF%E8%86%8F%E6%8A%A4%E8%82%A4%E4%B8%8D%E9%9D%A0%E8%B0%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [关晓彤王牌控诉华晨宇](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E7%8E%8B%E7%89%8C%E6%8E%A7%E8%AF%89%E5%8D%8E%E6%99%A8%E5%AE%87&t=31&band_rank=8&Refer=top)<br />
-9. [张艺兴说去国外见了吴世勋](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%AF%B4%E5%8E%BB%E5%9B%BD%E5%A4%96%E8%A7%81%E4%BA%86%E5%90%B4%E4%B8%96%E5%8B%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [国色芳华 大女主剧](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%20%E5%A4%A7%E5%A5%B3%E4%B8%BB%E5%89%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
