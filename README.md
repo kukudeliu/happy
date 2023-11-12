@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 17:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 17:03:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [歌手2024 踢馆名单](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B2024%20%E8%B8%A2%E9%A6%86%E5%90%8D%E5%8D%95&t=31&band_rank=4&Refer=top)<br />
 5. [今年双十一冷清的原因找到了](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%8F%8C%E5%8D%81%E4%B8%80%E5%86%B7%E6%B8%85%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [T1半决赛先下一城](https://s.weibo.com/weibo?q=%23T1%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23&t=31&band_rank=6&Refer=top)<br />
-7. [369别玩兰博了](https://s.weibo.com/weibo?q=369%E5%88%AB%E7%8E%A9%E5%85%B0%E5%8D%9A%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+7. [Ruler和Faker第100次对决](https://s.weibo.com/weibo?q=%23Ruler%E5%92%8CFaker%E7%AC%AC100%E6%AC%A1%E5%AF%B9%E5%86%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [网友称应聘蜜雪冰城被嫌26岁太大](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%BA%94%E8%81%98%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A2%AB%E5%AB%8C26%E5%B2%81%E5%A4%AA%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
 9. [日媒批福原爱生活奢侈逃亡中国](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%89%B9%E7%A6%8F%E5%8E%9F%E7%88%B1%E7%94%9F%E6%B4%BB%E5%A5%A2%E4%BE%88%E9%80%83%E4%BA%A1%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=9&Refer=top)<br />
 
