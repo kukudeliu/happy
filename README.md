@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 22:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 22:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [红米发文道歉](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%B1%B3%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [张译马面裙](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E9%A9%AC%E9%9D%A2%E8%A3%99%23&t=31&band_rank=7&Refer=top)<br />
 8. [宁安如梦连更](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E8%BF%9E%E6%9B%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [官方通报企业家被约谈后坠楼身亡](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%BC%81%E4%B8%9A%E5%AE%B6%E8%A2%AB%E7%BA%A6%E8%B0%88%E5%90%8E%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈乔恩 和身边的朋友渐行渐远](https://s.weibo.com/weibo?q=%E9%99%88%E4%B9%94%E6%81%A9%20%E5%92%8C%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
