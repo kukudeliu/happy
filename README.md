@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 00:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 00:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [爱奇艺回复白鹿](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%9B%9E%E5%A4%8D%E7%99%BD%E9%B9%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [张译马面裙](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E9%A9%AC%E9%9D%A2%E8%A3%99%23&t=31&band_rank=7&Refer=top)<br />
 8. [米勒预测WBG零封T1](https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%8B%92%E9%A2%84%E6%B5%8BWBG%E9%9B%B6%E5%B0%81T1%23&t=31&band_rank=8&Refer=top)<br />
-9. [王子璇也是追星女](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E4%B9%9F%E6%98%AF%E8%BF%BD%E6%98%9F%E5%A5%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈乔恩 和身边的朋友渐行渐远](https://s.weibo.com/weibo?q=%E9%99%88%E4%B9%94%E6%81%A9%20%E5%92%8C%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
