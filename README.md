@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 19:36:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 19:37:01</h4></div>
 
 > 微博  
 
 1. [T1晋级S13总决赛](https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S13%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=1&Refer=top)<br />
 2. [房东将父亲种的30斤菜分享给百名租客](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E5%B0%86%E7%88%B6%E4%BA%B2%E7%A7%8D%E7%9A%8430%E6%96%A4%E8%8F%9C%E5%88%86%E4%BA%AB%E7%BB%99%E7%99%BE%E5%90%8D%E7%A7%9F%E5%AE%A2%23&t=31&band_rank=2&Refer=top)<br />
 3. [双11当天全国揽收快递6.39亿件](https://s.weibo.com/weibo?q=%23%E5%8F%8C11%E5%BD%93%E5%A4%A9%E5%85%A8%E5%9B%BD%E6%8F%BD%E6%94%B6%E5%BF%AB%E9%80%926.39%E4%BA%BF%E4%BB%B6%23&t=31&band_rank=3&Refer=top)<br />
-4. [JDG BP](https://s.weibo.com/weibo?q=JDG%20BP&t=31&band_rank=4&Refer=top)<br />
+4. [JDG对战T1](https://s.weibo.com/weibo?q=%23JDG%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=4&Refer=top)<br />
 5. [受伤小狗获好心人送医取名立冬](https://s.weibo.com/weibo?q=%23%E5%8F%97%E4%BC%A4%E5%B0%8F%E7%8B%97%E8%8E%B7%E5%A5%BD%E5%BF%83%E4%BA%BA%E9%80%81%E5%8C%BB%E5%8F%96%E5%90%8D%E7%AB%8B%E5%86%AC%23&t=31&band_rank=5&Refer=top)<br />
-6. [JDG对战T1](https://s.weibo.com/weibo?q=%23JDG%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=6&Refer=top)<br />
+6. [JDG BP](https://s.weibo.com/weibo?q=JDG%20BP&t=31&band_rank=6&Refer=top)<br />
 7. [7旬学生为百岁乡村老师过生日](https://s.weibo.com/weibo?q=%237%E6%97%AC%E5%AD%A6%E7%94%9F%E4%B8%BA%E7%99%BE%E5%B2%81%E4%B9%A1%E6%9D%91%E8%80%81%E5%B8%88%E8%BF%87%E7%94%9F%E6%97%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [冰岛宣布进入紧急状态](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=8&Refer=top)<br />
 9. [导播在干嘛](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%92%AD%E5%9C%A8%E5%B9%B2%E5%98%9B%23&t=31&band_rank=9&Refer=top)<br />
