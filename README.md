@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 02:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 02:33:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [阿里回应多款应用崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广西一高校书记信箱正对摄像头](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E9%AB%98%E6%A0%A1%E4%B9%A6%E8%AE%B0%E4%BF%A1%E7%AE%B1%E6%AD%A3%E5%AF%B9%E6%91%84%E5%83%8F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日媒批福原爱生活奢侈逃亡中国](https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%E6%89%B9%E7%A6%8F%E5%8E%9F%E7%88%B1%E7%94%9F%E6%B4%BB%E5%A5%A2%E4%BE%88%E9%80%83%E4%BA%A1%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [民房坍塌4名遇难者均为维修工人](https://www.baidu.com/s?wd=%E6%B0%91%E6%88%BF%E5%9D%8D%E5%A1%8C4%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E5%9D%87%E4%B8%BA%E7%BB%B4%E4%BF%AE%E5%B7%A5%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李佳琦双十一收入超250亿](https://www.baidu.com/s?wd=%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%8F%8C%E5%8D%81%E4%B8%80%E6%94%B6%E5%85%A5%E8%B6%85250%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [的哥猥亵女乘客视频实为摆拍](https://www.baidu.com/s?wd=%E7%9A%84%E5%93%A5%E7%8C%A5%E4%BA%B5%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%A7%86%E9%A2%91%E5%AE%9E%E4%B8%BA%E6%91%86%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [阿里回应多款应用崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广西一高校书记信箱正对摄像头](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E9%AB%98%E6%A0%A1%E4%B9%A6%E8%AE%B0%E4%BF%A1%E7%AE%B1%E6%AD%A3%E5%AF%B9%E6%91%84%E5%83%8F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日媒批福原爱生活奢侈逃亡中国](https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%E6%89%B9%E7%A6%8F%E5%8E%9F%E7%88%B1%E7%94%9F%E6%B4%BB%E5%A5%A2%E4%BE%88%E9%80%83%E4%BA%A1%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [民房坍塌4名遇难者均为维修工人](https://www.baidu.com/s?wd=%E6%B0%91%E6%88%BF%E5%9D%8D%E5%A1%8C4%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E5%9D%87%E4%B8%BA%E7%BB%B4%E4%BF%AE%E5%B7%A5%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李佳琦双十一收入超250亿](https://www.baidu.com/s?wd=%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%8F%8C%E5%8D%81%E4%B8%80%E6%94%B6%E5%85%A5%E8%B6%85250%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [的哥猥亵女乘客视频实为摆拍](https://www.baidu.com/s?wd=%E7%9A%84%E5%93%A5%E7%8C%A5%E4%BA%B5%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%A7%86%E9%A2%91%E5%AE%9E%E4%B8%BA%E6%91%86%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
