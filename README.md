@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 13:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 13:06:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [奶茶店主故意加违禁药致女子中毒](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%BA%97%E4%B8%BB%E6%95%85%E6%84%8F%E5%8A%A0%E8%BF%9D%E7%A6%81%E8%8D%AF%E8%87%B4%E5%A5%B3%E5%AD%90%E4%B8%AD%E6%AF%92%23&t=31&band_rank=4&Refer=top)<br />
 5. [健身杀死了我的自卑](https://s.weibo.com/weibo?q=%E5%81%A5%E8%BA%AB%E6%9D%80%E6%AD%BB%E4%BA%86%E6%88%91%E7%9A%84%E8%87%AA%E5%8D%91&t=31&band_rank=5&Refer=top)<br />
 6. [黄子韬因身体不适取消广州场演唱会](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9B%A0%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E5%8F%96%E6%B6%88%E5%B9%BF%E5%B7%9E%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
-7. [乌布雷车祸](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B8%83%E9%9B%B7%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=7&Refer=top)<br />
-8. [广西一面包车与货车碰撞致6死1伤](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E4%B8%80%E9%9D%A2%E5%8C%85%E8%BD%A6%E4%B8%8E%E8%B4%A7%E8%BD%A6%E7%A2%B0%E6%92%9E%E8%87%B46%E6%AD%BB1%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
+7. [广西一面包车与货车碰撞致6死1伤](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E4%B8%80%E9%9D%A2%E5%8C%85%E8%BD%A6%E4%B8%8E%E8%B4%A7%E8%BD%A6%E7%A2%B0%E6%92%9E%E8%87%B46%E6%AD%BB1%E4%BC%A4%23&t=31&band_rank=7&Refer=top)<br />
+8. [乌布雷车祸](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B8%83%E9%9B%B7%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=8&Refer=top)<br />
 9. [白鹿妆造](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E5%A6%86%E9%80%A0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
