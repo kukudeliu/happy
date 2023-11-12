@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 10:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 10:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [郑恺说很对不起苗苗](https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E8%AF%B4%E5%BE%88%E5%AF%B9%E4%B8%8D%E8%B5%B7%E8%8B%97%E8%8B%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [一觉醒来双十一结束了](https://s.weibo.com/weibo?q=%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E5%8F%8C%E5%8D%81%E4%B8%80%E7%BB%93%E6%9D%9F%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [韩女拍照](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%A5%B3%E6%8B%8D%E7%85%A7&t=31&band_rank=8&Refer=top)<br />
-9. [Bin 迟早冠军是我的](https://s.weibo.com/weibo?q=Bin%20%E8%BF%9F%E6%97%A9%E5%86%A0%E5%86%9B%E6%98%AF%E6%88%91%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+9. [张艺兴演唱会伴舞回应背带裤造型](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BC%B4%E8%88%9E%E5%9B%9E%E5%BA%94%E8%83%8C%E5%B8%A6%E8%A3%A4%E9%80%A0%E5%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
