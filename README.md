@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 15:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 16:00:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [小学食堂吃出鼠头？官方:为兔头唇部](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E9%BC%A0%E5%A4%B4%EF%BC%9F%E5%AE%98%E6%96%B9%3A%E4%B8%BA%E5%85%94%E5%A4%B4%E5%94%87%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [尘封27年的命案因孩子一句话破了](https://www.baidu.com/s?wd=%E5%B0%98%E5%B0%8127%E5%B9%B4%E7%9A%84%E5%91%BD%E6%A1%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%A0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大闸蟹跌出“白菜价”](https://www.baidu.com/s?wd=%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%B7%8C%E5%87%BA%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [爸爸喝醉把儿子落地铁急坏大学生](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%96%9D%E9%86%89%E6%8A%8A%E5%84%BF%E5%AD%90%E8%90%BD%E5%9C%B0%E9%93%81%E6%80%A5%E5%9D%8F%E5%A4%A7%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子申请强执12万获赔1600只鹅](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%B3%E8%AF%B7%E5%BC%BA%E6%89%A712%E4%B8%87%E8%8E%B7%E8%B5%941600%E5%8F%AA%E9%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州金沙洲工地挖破燃气管道？](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%87%91%E6%B2%99%E6%B4%B2%E5%B7%A5%E5%9C%B0%E6%8C%96%E7%A0%B4%E7%87%83%E6%B0%94%E7%AE%A1%E9%81%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [小学食堂吃出鼠头？官方:为兔头唇部](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E9%BC%A0%E5%A4%B4%EF%BC%9F%E5%AE%98%E6%96%B9%3A%E4%B8%BA%E5%85%94%E5%A4%B4%E5%94%87%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [尘封27年的命案因孩子一句话破了](https://www.baidu.com/s?wd=%E5%B0%98%E5%B0%8127%E5%B9%B4%E7%9A%84%E5%91%BD%E6%A1%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%A0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大闸蟹跌出“白菜价”](https://www.baidu.com/s?wd=%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%B7%8C%E5%87%BA%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [爸爸喝醉把儿子落地铁急坏大学生](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%96%9D%E9%86%89%E6%8A%8A%E5%84%BF%E5%AD%90%E8%90%BD%E5%9C%B0%E9%93%81%E6%80%A5%E5%9D%8F%E5%A4%A7%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子申请强执12万获赔1600只鹅](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%B3%E8%AF%B7%E5%BC%BA%E6%89%A712%E4%B8%87%E8%8E%B7%E8%B5%941600%E5%8F%AA%E9%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州金沙洲工地挖破燃气管道？](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%87%91%E6%B2%99%E6%B4%B2%E5%B7%A5%E5%9C%B0%E6%8C%96%E7%A0%B4%E7%87%83%E6%B0%94%E7%AE%A1%E9%81%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
