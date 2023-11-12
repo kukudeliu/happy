@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 13:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 13:32:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [奶茶店主故意加违禁药致女子中毒](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%BA%97%E4%B8%BB%E6%95%85%E6%84%8F%E5%8A%A0%E8%BF%9D%E7%A6%81%E8%8D%AF%E8%87%B4%E5%A5%B3%E5%AD%90%E4%B8%AD%E6%AF%92%23&t=31&band_rank=5&Refer=top)<br />
 6. [原来海棠朵朵是辛芷蕾本色出演](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%B5%B7%E6%A3%A0%E6%9C%B5%E6%9C%B5%E6%98%AF%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%9C%AC%E8%89%B2%E5%87%BA%E6%BC%94&t=31&band_rank=6&Refer=top)<br />
 7. [广西一面包车与货车碰撞致6死1伤](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E4%B8%80%E9%9D%A2%E5%8C%85%E8%BD%A6%E4%B8%8E%E8%B4%A7%E8%BD%A6%E7%A2%B0%E6%92%9E%E8%87%B46%E6%AD%BB1%E4%BC%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [黄子韬因身体不适取消广州场演唱会](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9B%A0%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E5%8F%96%E6%B6%88%E5%B9%BF%E5%B7%9E%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [宁安如梦白鹿吻戏吻到缺氧](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%99%BD%E9%B9%BF%E5%90%BB%E6%88%8F%E5%90%BB%E5%88%B0%E7%BC%BA%E6%B0%A7%23&t=31&band_rank=9&Refer=top)<br />
+8. [丁程鑫小时候掉进过沸水锅](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E5%B0%8F%E6%97%B6%E5%80%99%E6%8E%89%E8%BF%9B%E8%BF%87%E6%B2%B8%E6%B0%B4%E9%94%85%23&t=31&band_rank=8&Refer=top)<br />
+9. [黄子韬因身体不适取消广州场演唱会](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9B%A0%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E5%8F%96%E6%B6%88%E5%B9%BF%E5%B7%9E%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
