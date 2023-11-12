@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 17:35:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 17:36:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [今年双十一冷清的原因找到了](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%8F%8C%E5%8D%81%E4%B8%80%E5%86%B7%E6%B8%85%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [真正致癌的是这3种鱼](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%AD%A3%E8%87%B4%E7%99%8C%E7%9A%84%E6%98%AF%E8%BF%993%E7%A7%8D%E9%B1%BC&t=31&band_rank=7&Refer=top)<br />
 8. [十年前30万买的海景房现在8万卖不掉](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B9%B4%E5%89%8D30%E4%B8%87%E4%B9%B0%E7%9A%84%E6%B5%B7%E6%99%AF%E6%88%BF%E7%8E%B0%E5%9C%A88%E4%B8%87%E5%8D%96%E4%B8%8D%E6%8E%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [T1半决赛先下一城](https://s.weibo.com/weibo?q=%23T1%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23&t=31&band_rank=9&Refer=top)<br />
+9. [最真实的男主给女主喂药](https://s.weibo.com/weibo?q=%23%E6%9C%80%E7%9C%9F%E5%AE%9E%E7%9A%84%E7%94%B7%E4%B8%BB%E7%BB%99%E5%A5%B3%E4%B8%BB%E5%96%82%E8%8D%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
