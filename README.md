@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 22:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 22:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [爱奇艺回复白鹿](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%9B%9E%E5%A4%8D%E7%99%BD%E9%B9%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [儿媳为带公婆吃自助撒谎只要10元](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AA%B3%E4%B8%BA%E5%B8%A6%E5%85%AC%E5%A9%86%E5%90%83%E8%87%AA%E5%8A%A9%E6%92%92%E8%B0%8E%E5%8F%AA%E8%A6%8110%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [张凌赫说下一部一定是现偶](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%AF%B4%E4%B8%8B%E4%B8%80%E9%83%A8%E4%B8%80%E5%AE%9A%E6%98%AF%E7%8E%B0%E5%81%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [张译马面裙](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E9%A9%AC%E9%9D%A2%E8%A3%99%23&t=31&band_rank=9&Refer=top)<br />
+9. [红米发文道歉](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%B1%B3%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
