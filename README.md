@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 19:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 19:49:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [飞虎队记忆](https://www.baidu.com/s?wd=%E9%A3%9E%E8%99%8E%E9%98%9F%E8%AE%B0%E5%BF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大闸蟹跌出“白菜价”](https://www.baidu.com/s?wd=%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%B7%8C%E5%87%BA%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [阿里全系产品崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%85%A8%E7%B3%BB%E4%BA%A7%E5%93%81%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [你的双十一快递可能被烧了](https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E5%8F%8C%E5%8D%81%E4%B8%80%E5%BF%AB%E9%80%92%E5%8F%AF%E8%83%BD%E8%A2%AB%E7%83%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日媒批福原爱生活奢侈逃亡中国](https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%E6%89%B9%E7%A6%8F%E5%8E%9F%E7%88%B1%E7%94%9F%E6%B4%BB%E5%A5%A2%E4%BE%88%E9%80%83%E4%BA%A1%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日媒批福原爱生活奢侈逃亡中国](https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%E6%89%B9%E7%A6%8F%E5%8E%9F%E7%88%B1%E7%94%9F%E6%B4%BB%E5%A5%A2%E4%BE%88%E9%80%83%E4%BA%A1%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张译拒签《狂飙》实体书](https://www.baidu.com/s?wd=%E5%BC%A0%E8%AF%91%E6%8B%92%E7%AD%BE%E3%80%8A%E7%8B%82%E9%A3%99%E3%80%8B%E5%AE%9E%E4%BD%93%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州金沙洲工地挖破燃气管道？](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%87%91%E6%B2%99%E6%B4%B2%E5%B7%A5%E5%9C%B0%E6%8C%96%E7%A0%B4%E7%87%83%E6%B0%94%E7%AE%A1%E9%81%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [飞虎队记忆](https://www.baidu.com/s?wd=%E9%A3%9E%E8%99%8E%E9%98%9F%E8%AE%B0%E5%BF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大闸蟹跌出“白菜价”](https://www.baidu.com/s?wd=%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%B7%8C%E5%87%BA%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [阿里全系产品崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%85%A8%E7%B3%BB%E4%BA%A7%E5%93%81%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [你的双十一快递可能被烧了](https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E5%8F%8C%E5%8D%81%E4%B8%80%E5%BF%AB%E9%80%92%E5%8F%AF%E8%83%BD%E8%A2%AB%E7%83%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日媒批福原爱生活奢侈逃亡中国](https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%E6%89%B9%E7%A6%8F%E5%8E%9F%E7%88%B1%E7%94%9F%E6%B4%BB%E5%A5%A2%E4%BE%88%E9%80%83%E4%BA%A1%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日媒批福原爱生活奢侈逃亡中国](https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%E6%89%B9%E7%A6%8F%E5%8E%9F%E7%88%B1%E7%94%9F%E6%B4%BB%E5%A5%A2%E4%BE%88%E9%80%83%E4%BA%A1%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张译拒签《狂飙》实体书](https://www.baidu.com/s?wd=%E5%BC%A0%E8%AF%91%E6%8B%92%E7%AD%BE%E3%80%8A%E7%8B%82%E9%A3%99%E3%80%8B%E5%AE%9E%E4%BD%93%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州金沙洲工地挖破燃气管道？](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%87%91%E6%B2%99%E6%B4%B2%E5%B7%A5%E5%9C%B0%E6%8C%96%E7%A0%B4%E7%87%83%E6%B0%94%E7%AE%A1%E9%81%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
