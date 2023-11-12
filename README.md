@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 10:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 10:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张艺兴演唱会伴舞回应背带裤造型](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BC%B4%E8%88%9E%E5%9B%9E%E5%BA%94%E8%83%8C%E5%B8%A6%E8%A3%A4%E9%80%A0%E5%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [一觉醒来双十一结束了](https://s.weibo.com/weibo?q=%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E5%8F%8C%E5%8D%81%E4%B8%80%E7%BB%93%E6%9D%9F%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [有些癌症筛查无用甚至有害](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%9B%E7%99%8C%E7%97%87%E7%AD%9B%E6%9F%A5%E6%97%A0%E7%94%A8%E7%94%9A%E8%87%B3%E6%9C%89%E5%AE%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [骗子骗29万后良心发现返168元红包](https://s.weibo.com/weibo?q=%23%E9%AA%97%E5%AD%90%E9%AA%9729%E4%B8%87%E5%90%8E%E8%89%AF%E5%BF%83%E5%8F%91%E7%8E%B0%E8%BF%94168%E5%85%83%E7%BA%A2%E5%8C%85%23&t=31&band_rank=9&Refer=top)<br />
+9. [黄子韬因身体不适取消广州场演唱会](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9B%A0%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E5%8F%96%E6%B6%88%E5%B9%BF%E5%B7%9E%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
