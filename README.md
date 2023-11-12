@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 16:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 16:22:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [JDG对战T1](https://s.weibo.com/weibo?q=%23JDG%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=4&Refer=top)<br />
 5. [真正致癌的是这3种鱼](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%AD%A3%E8%87%B4%E7%99%8C%E7%9A%84%E6%98%AF%E8%BF%993%E7%A7%8D%E9%B1%BC&t=31&band_rank=5&Refer=top)<br />
 6. [日媒批福原爱生活奢侈逃亡中国](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%89%B9%E7%A6%8F%E5%8E%9F%E7%88%B1%E7%94%9F%E6%B4%BB%E5%A5%A2%E4%BE%88%E9%80%83%E4%BA%A1%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
-7. [官方通报B太遭遇鬼秤事件](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5B%E5%A4%AA%E9%81%AD%E9%81%87%E9%AC%BC%E7%A7%A4%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [爸爸喝醉把儿子落地铁急坏大学生](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%96%9D%E9%86%89%E6%8A%8A%E5%84%BF%E5%AD%90%E8%90%BD%E5%9C%B0%E9%93%81%E6%80%A5%E5%9D%8F%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [安卓版本与鸿蒙不再兼容](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%8D%93%E7%89%88%E6%9C%AC%E4%B8%8E%E9%B8%BF%E8%92%99%E4%B8%8D%E5%86%8D%E5%85%BC%E5%AE%B9%23&t=31&band_rank=9&Refer=top)<br />
+7. [何炅用嘴型提示白鹿歌名](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E7%94%A8%E5%98%B4%E5%9E%8B%E6%8F%90%E7%A4%BA%E7%99%BD%E9%B9%BF%E6%AD%8C%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
+8. [官方通报B太遭遇鬼秤事件](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5B%E5%A4%AA%E9%81%AD%E9%81%87%E9%AC%BC%E7%A7%A4%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [爸爸喝醉把儿子落地铁急坏大学生](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%96%9D%E9%86%89%E6%8A%8A%E5%84%BF%E5%AD%90%E8%90%BD%E5%9C%B0%E9%93%81%E6%80%A5%E5%9D%8F%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
