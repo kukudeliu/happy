@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 19:24:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 19:25:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [受伤小狗获好心人送医取名立冬](https://s.weibo.com/weibo?q=%23%E5%8F%97%E4%BC%A4%E5%B0%8F%E7%8B%97%E8%8E%B7%E5%A5%BD%E5%BF%83%E4%BA%BA%E9%80%81%E5%8C%BB%E5%8F%96%E5%90%8D%E7%AB%8B%E5%86%AC%23&t=31&band_rank=5&Refer=top)<br />
 6. [JDG对战T1](https://s.weibo.com/weibo?q=%23JDG%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=6&Refer=top)<br />
 7. [7旬学生为百岁乡村老师过生日](https://s.weibo.com/weibo?q=%237%E6%97%AC%E5%AD%A6%E7%94%9F%E4%B8%BA%E7%99%BE%E5%B2%81%E4%B9%A1%E6%9D%91%E8%80%81%E5%B8%88%E8%BF%87%E7%94%9F%E6%97%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [张译马面裙](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E9%A9%AC%E9%9D%A2%E8%A3%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [JDG BP](https://s.weibo.com/weibo?q=JDG%20BP&t=31&band_rank=9&Refer=top)<br />
+8. [JDG BP](https://s.weibo.com/weibo?q=JDG%20BP&t=31&band_rank=8&Refer=top)<br />
+9. [张译马面裙](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E9%A9%AC%E9%9D%A2%E8%A3%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
