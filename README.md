@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 20:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 20:55:01</h4></div>
 
 > 微博  
 
 1. [冰岛宣布进入紧急状态](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=1&Refer=top)<br />
-2. [T1晋级S13总决赛](https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S13%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=2&Refer=top)<br />
+2. [张译马面裙](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E9%A9%AC%E9%9D%A2%E8%A3%99%23&t=31&band_rank=2&Refer=top)<br />
 3. [高铁列车过站自带特效](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%88%97%E8%BD%A6%E8%BF%87%E7%AB%99%E8%87%AA%E5%B8%A6%E7%89%B9%E6%95%88%23&t=31&band_rank=3&Refer=top)<br />
-4. [WBG赢了血赚输了不亏](https://s.weibo.com/weibo?q=WBG%E8%B5%A2%E4%BA%86%E8%A1%80%E8%B5%9A%E8%BE%93%E4%BA%86%E4%B8%8D%E4%BA%8F&t=31&band_rank=4&Refer=top)<br />
-5. [红米发文道歉](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%B1%B3%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23&t=31&band_rank=5&Refer=top)<br />
-6. [张译马面裙](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E9%A9%AC%E9%9D%A2%E8%A3%99%23&t=31&band_rank=6&Refer=top)<br />
+4. [T1晋级S13总决赛](https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S13%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=4&Refer=top)<br />
+5. [WBG赢了血赚输了不亏](https://s.weibo.com/weibo?q=WBG%E8%B5%A2%E4%BA%86%E8%A1%80%E8%B5%9A%E8%BE%93%E4%BA%86%E4%B8%8D%E4%BA%8F&t=31&band_rank=5&Refer=top)<br />
+6. [红米发文道歉](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%B1%B3%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [MISSING哭了](https://s.weibo.com/weibo?q=%23MISSING%E5%93%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [WBG决赛对战T1](https://s.weibo.com/weibo?q=%23WBG%E5%86%B3%E8%B5%9B%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=8&Refer=top)<br />
 9. [Knight 隐身](https://s.weibo.com/weibo?q=Knight%20%E9%9A%90%E8%BA%AB&t=31&band_rank=9&Refer=top)<br />
@@ -21,7 +21,7 @@
 2. [警方通缉缅北电诈头目明学昌等4人](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E7%BC%89%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E6%98%8E%E5%AD%A6%E6%98%8C%E7%AD%894%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [冰岛进入紧急状态 火山或几天内喷发](https://www.baidu.com/s?wd=%E5%86%B0%E5%B2%9B%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81+%E7%81%AB%E5%B1%B1%E6%88%96%E5%87%A0%E5%A4%A9%E5%86%85%E5%96%B7%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [飞虎队记忆](https://www.baidu.com/s?wd=%E9%A3%9E%E8%99%8E%E9%98%9F%E8%AE%B0%E5%BF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [阿里云回应故障致多款应用崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E4%BA%91%E5%9B%9E%E5%BA%94%E6%95%85%E9%9A%9C%E8%87%B4%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [阿里回应多款应用崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李佳琦双十一收入超250亿](https://www.baidu.com/s?wd=%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%8F%8C%E5%8D%81%E4%B8%80%E6%94%B6%E5%85%A5%E8%B6%85250%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张译拒签《狂飙》实体书](https://www.baidu.com/s?wd=%E5%BC%A0%E8%AF%91%E6%8B%92%E7%AD%BE%E3%80%8A%E7%8B%82%E9%A3%99%E3%80%8B%E5%AE%9E%E4%BD%93%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网友发视频称乘客带着小猫坐地铁](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E8%A7%86%E9%A2%91%E7%A7%B0%E4%B9%98%E5%AE%A2%E5%B8%A6%E7%9D%80%E5%B0%8F%E7%8C%AB%E5%9D%90%E5%9C%B0%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [警方通缉缅北电诈头目明学昌等4人](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E7%BC%89%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E6%98%8E%E5%AD%A6%E6%98%8C%E7%AD%894%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [冰岛进入紧急状态 火山或几天内喷发](https://www.baidu.com/s?wd=%E5%86%B0%E5%B2%9B%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81+%E7%81%AB%E5%B1%B1%E6%88%96%E5%87%A0%E5%A4%A9%E5%86%85%E5%96%B7%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [飞虎队记忆](https://www.baidu.com/s?wd=%E9%A3%9E%E8%99%8E%E9%98%9F%E8%AE%B0%E5%BF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [阿里云回应故障致多款应用崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E4%BA%91%E5%9B%9E%E5%BA%94%E6%95%85%E9%9A%9C%E8%87%B4%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [阿里回应多款应用崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李佳琦双十一收入超250亿](https://www.baidu.com/s?wd=%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%8F%8C%E5%8D%81%E4%B8%80%E6%94%B6%E5%85%A5%E8%B6%85250%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张译拒签《狂飙》实体书](https://www.baidu.com/s?wd=%E5%BC%A0%E8%AF%91%E6%8B%92%E7%AD%BE%E3%80%8A%E7%8B%82%E9%A3%99%E3%80%8B%E5%AE%9E%E4%BD%93%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [网友发视频称乘客带着小猫坐地铁](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E8%A7%86%E9%A2%91%E7%A7%B0%E4%B9%98%E5%AE%A2%E5%B8%A6%E7%9D%80%E5%B0%8F%E7%8C%AB%E5%9D%90%E5%9C%B0%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
