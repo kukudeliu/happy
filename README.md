@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 22:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 22:05:01</h4></div>
 
 > 微博  
 
 1. [冰岛宣布进入紧急状态](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=1&Refer=top)<br />
 2. [多国爆发床虱危机](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E5%BA%8A%E8%99%B1%E5%8D%B1%E6%9C%BA%23&t=31&band_rank=2&Refer=top)<br />
-3. [高铁列车过站自带特效](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%88%97%E8%BD%A6%E8%BF%87%E7%AB%99%E8%87%AA%E5%B8%A6%E7%89%B9%E6%95%88%23&t=31&band_rank=3&Refer=top)<br />
+3. [张译马面裙](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E9%A9%AC%E9%9D%A2%E8%A3%99%23&t=31&band_rank=3&Refer=top)<br />
 4. [T1晋级S13总决赛](https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S13%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=4&Refer=top)<br />
 5. [WBG赢了血赚输了不亏](https://s.weibo.com/weibo?q=WBG%E8%B5%A2%E4%BA%86%E8%A1%80%E8%B5%9A%E8%BE%93%E4%BA%86%E4%B8%8D%E4%BA%8F&t=31&band_rank=5&Refer=top)<br />
 6. [红米发文道歉](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%B1%B3%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [张译马面裙](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E9%A9%AC%E9%9D%A2%E8%A3%99%23&t=31&band_rank=7&Refer=top)<br />
+7. [陈乔恩 和身边的朋友渐行渐远](https://s.weibo.com/weibo?q=%E9%99%88%E4%B9%94%E6%81%A9%20%E5%92%8C%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%9C&t=31&band_rank=7&Refer=top)<br />
 8. [宁安如梦连更](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E8%BF%9E%E6%9B%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈乔恩 和身边的朋友渐行渐远](https://s.weibo.com/weibo?q=%E9%99%88%E4%B9%94%E6%81%A9%20%E5%92%8C%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%9C&t=31&band_rank=9&Refer=top)<br />
+9. [高铁列车过站自带特效](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%88%97%E8%BD%A6%E8%BF%87%E7%AB%99%E8%87%AA%E5%B8%A6%E7%89%B9%E6%95%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
