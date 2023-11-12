@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 08:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 08:34:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [携手重建家园](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E9%87%8D%E5%BB%BA%E5%AE%B6%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [多国爆发床虱危机](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E5%BA%8A%E8%99%B1%E5%8D%B1%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [海口一镇长开会怒砸水瓶？当地回应](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8F%A3%E4%B8%80%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [温州民房坍塌致3死 领导周一曾去夜查](https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E%E6%B0%91%E6%88%BF%E5%9D%8D%E5%A1%8C%E8%87%B43%E6%AD%BB+%E9%A2%86%E5%AF%BC%E5%91%A8%E4%B8%80%E6%9B%BE%E5%8E%BB%E5%A4%9C%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [向共和国的蓝天卫士致敬](https://www.baidu.com/s?wd=%E5%90%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%9A%84%E8%93%9D%E5%A4%A9%E5%8D%AB%E5%A3%AB%E8%87%B4%E6%95%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多地中小学高校寒假时间出炉](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E9%AB%98%E6%A0%A1%E5%AF%92%E5%81%87%E6%97%B6%E9%97%B4%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [携手重建家园](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E9%87%8D%E5%BB%BA%E5%AE%B6%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [多国爆发床虱危机](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E5%BA%8A%E8%99%B1%E5%8D%B1%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [海口一镇长开会怒砸水瓶？当地回应](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8F%A3%E4%B8%80%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [温州民房坍塌致3死 领导周一曾去夜查](https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E%E6%B0%91%E6%88%BF%E5%9D%8D%E5%A1%8C%E8%87%B43%E6%AD%BB+%E9%A2%86%E5%AF%BC%E5%91%A8%E4%B8%80%E6%9B%BE%E5%8E%BB%E5%A4%9C%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [向共和国的蓝天卫士致敬](https://www.baidu.com/s?wd=%E5%90%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%9A%84%E8%93%9D%E5%A4%A9%E5%8D%AB%E5%A3%AB%E8%87%B4%E6%95%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多地中小学高校寒假时间出炉](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E9%AB%98%E6%A0%A1%E5%AF%92%E5%81%87%E6%97%B6%E9%97%B4%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
