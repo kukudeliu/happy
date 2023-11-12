@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 16:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 16:34:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [多端发力迎接年终消费旺季](https://www.baidu.com/s?wd=%E5%A4%9A%E7%AB%AF%E5%8F%91%E5%8A%9B%E8%BF%8E%E6%8E%A5%E5%B9%B4%E7%BB%88%E6%B6%88%E8%B4%B9%E6%97%BA%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大闸蟹跌出“白菜价”](https://www.baidu.com/s?wd=%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%B7%8C%E5%87%BA%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [尘封27年的命案因孩子一句话破了](https://www.baidu.com/s?wd=%E5%B0%98%E5%B0%8127%E5%B9%B4%E7%9A%84%E5%91%BD%E6%A1%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%A0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [民进党高官被曝聚众淫乱](https://www.baidu.com/s?wd=%E6%B0%91%E8%BF%9B%E5%85%9A%E9%AB%98%E5%AE%98%E8%A2%AB%E6%9B%9D%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医学生堆心脏大脑等器官造型雪人](https://www.baidu.com/s?wd=%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%A0%86%E5%BF%83%E8%84%8F%E5%A4%A7%E8%84%91%E7%AD%89%E5%99%A8%E5%AE%98%E9%80%A0%E5%9E%8B%E9%9B%AA%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [民房坍塌4名遇难者均为维修工人](https://www.baidu.com/s?wd=%E6%B0%91%E6%88%BF%E5%9D%8D%E5%A1%8C4%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E5%9D%87%E4%B8%BA%E7%BB%B4%E4%BF%AE%E5%B7%A5%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [民进党高官被曝聚众淫乱](https://www.baidu.com/s?wd=%E6%B0%91%E8%BF%9B%E5%85%9A%E9%AB%98%E5%AE%98%E8%A2%AB%E6%9B%9D%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州金沙洲工地挖破燃气管道？](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%87%91%E6%B2%99%E6%B4%B2%E5%B7%A5%E5%9C%B0%E6%8C%96%E7%A0%B4%E7%87%83%E6%B0%94%E7%AE%A1%E9%81%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [多端发力迎接年终消费旺季](https://www.baidu.com/s?wd=%E5%A4%9A%E7%AB%AF%E5%8F%91%E5%8A%9B%E8%BF%8E%E6%8E%A5%E5%B9%B4%E7%BB%88%E6%B6%88%E8%B4%B9%E6%97%BA%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大闸蟹跌出“白菜价”](https://www.baidu.com/s?wd=%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%B7%8C%E5%87%BA%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [尘封27年的命案因孩子一句话破了](https://www.baidu.com/s?wd=%E5%B0%98%E5%B0%8127%E5%B9%B4%E7%9A%84%E5%91%BD%E6%A1%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%A0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [民进党高官被曝聚众淫乱](https://www.baidu.com/s?wd=%E6%B0%91%E8%BF%9B%E5%85%9A%E9%AB%98%E5%AE%98%E8%A2%AB%E6%9B%9D%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医学生堆心脏大脑等器官造型雪人](https://www.baidu.com/s?wd=%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%A0%86%E5%BF%83%E8%84%8F%E5%A4%A7%E8%84%91%E7%AD%89%E5%99%A8%E5%AE%98%E9%80%A0%E5%9E%8B%E9%9B%AA%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [民房坍塌4名遇难者均为维修工人](https://www.baidu.com/s?wd=%E6%B0%91%E6%88%BF%E5%9D%8D%E5%A1%8C4%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E5%9D%87%E4%B8%BA%E7%BB%B4%E4%BF%AE%E5%B7%A5%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [民进党高官被曝聚众淫乱](https://www.baidu.com/s?wd=%E6%B0%91%E8%BF%9B%E5%85%9A%E9%AB%98%E5%AE%98%E8%A2%AB%E6%9B%9D%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州金沙洲工地挖破燃气管道？](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%87%91%E6%B2%99%E6%B4%B2%E5%B7%A5%E5%9C%B0%E6%8C%96%E7%A0%B4%E7%87%83%E6%B0%94%E7%AE%A1%E9%81%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
