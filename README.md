@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 20:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 20:23:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [冰岛宣布进入紧急状态](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=4&Refer=top)<br />
 5. [张译马面裙](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E9%A9%AC%E9%9D%A2%E8%A3%99%23&t=31&band_rank=5&Refer=top)<br />
 6. [压力给到WBG](https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0WBG%23&t=31&band_rank=6&Refer=top)<br />
-7. [Kanavi在干嘛](https://s.weibo.com/weibo?q=%23Kanavi%E5%9C%A8%E5%B9%B2%E5%98%9B%23&t=31&band_rank=7&Refer=top)<br />
-8. [快进到相信TheShy](https://s.weibo.com/weibo?q=%E5%BF%AB%E8%BF%9B%E5%88%B0%E7%9B%B8%E4%BF%A1TheShy&t=31&band_rank=8&Refer=top)<br />
+7. [快进到相信TheShy](https://s.weibo.com/weibo?q=%E5%BF%AB%E8%BF%9B%E5%88%B0%E7%9B%B8%E4%BF%A1TheShy&t=31&band_rank=7&Refer=top)<br />
+8. [Kanavi在干嘛](https://s.weibo.com/weibo?q=%23Kanavi%E5%9C%A8%E5%B9%B2%E5%98%9B%23&t=31&band_rank=8&Refer=top)<br />
 9. [梁靖崑男单冠军](https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
