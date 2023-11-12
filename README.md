@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 04:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 04:19:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [冰岛进入紧急状态 火山或几天内喷发](https://www.baidu.com/s?wd=%E5%86%B0%E5%B2%9B%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81+%E7%81%AB%E5%B1%B1%E6%88%96%E5%87%A0%E5%A4%A9%E5%86%85%E5%96%B7%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国十年“网事”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%B9%B4%E2%80%9C%E7%BD%91%E4%BA%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [阿里回应多款应用崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [网友发视频称乘客带着小猫坐地铁](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E8%A7%86%E9%A2%91%E7%A7%B0%E4%B9%98%E5%AE%A2%E5%B8%A6%E7%9D%80%E5%B0%8F%E7%8C%AB%E5%9D%90%E5%9C%B0%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [张译拒签《狂飙》实体书](https://www.baidu.com/s?wd=%E5%BC%A0%E8%AF%91%E6%8B%92%E7%AD%BE%E3%80%8A%E7%8B%82%E9%A3%99%E3%80%8B%E5%AE%9E%E4%BD%93%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大闸蟹跌出“白菜价”](https://www.baidu.com/s?wd=%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%B7%8C%E5%87%BA%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张译拒签《狂飙》实体书](https://www.baidu.com/s?wd=%E5%BC%A0%E8%AF%91%E6%8B%92%E7%AD%BE%E3%80%8A%E7%8B%82%E9%A3%99%E3%80%8B%E5%AE%9E%E4%BD%93%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日媒批福原爱生活奢侈逃亡中国](https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%E6%89%B9%E7%A6%8F%E5%8E%9F%E7%88%B1%E7%94%9F%E6%B4%BB%E5%A5%A2%E4%BE%88%E9%80%83%E4%BA%A1%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [的哥猥亵女乘客视频实为摆拍](https://www.baidu.com/s?wd=%E7%9A%84%E5%93%A5%E7%8C%A5%E4%BA%B5%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%A7%86%E9%A2%91%E5%AE%9E%E4%B8%BA%E6%91%86%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [冰岛进入紧急状态 火山或几天内喷发](https://www.baidu.com/s?wd=%E5%86%B0%E5%B2%9B%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81+%E7%81%AB%E5%B1%B1%E6%88%96%E5%87%A0%E5%A4%A9%E5%86%85%E5%96%B7%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国十年“网事”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%B9%B4%E2%80%9C%E7%BD%91%E4%BA%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [阿里回应多款应用崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [网友发视频称乘客带着小猫坐地铁](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%91%E8%A7%86%E9%A2%91%E7%A7%B0%E4%B9%98%E5%AE%A2%E5%B8%A6%E7%9D%80%E5%B0%8F%E7%8C%AB%E5%9D%90%E5%9C%B0%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [张译拒签《狂飙》实体书](https://www.baidu.com/s?wd=%E5%BC%A0%E8%AF%91%E6%8B%92%E7%AD%BE%E3%80%8A%E7%8B%82%E9%A3%99%E3%80%8B%E5%AE%9E%E4%BD%93%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大闸蟹跌出“白菜价”](https://www.baidu.com/s?wd=%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%B7%8C%E5%87%BA%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张译拒签《狂飙》实体书](https://www.baidu.com/s?wd=%E5%BC%A0%E8%AF%91%E6%8B%92%E7%AD%BE%E3%80%8A%E7%8B%82%E9%A3%99%E3%80%8B%E5%AE%9E%E4%BD%93%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日媒批福原爱生活奢侈逃亡中国](https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%E6%89%B9%E7%A6%8F%E5%8E%9F%E7%88%B1%E7%94%9F%E6%B4%BB%E5%A5%A2%E4%BE%88%E9%80%83%E4%BA%A1%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [的哥猥亵女乘客视频实为摆拍](https://www.baidu.com/s?wd=%E7%9A%84%E5%93%A5%E7%8C%A5%E4%BA%B5%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%A7%86%E9%A2%91%E5%AE%9E%E4%B8%BA%E6%91%86%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
