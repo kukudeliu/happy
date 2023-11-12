@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 00:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 00:14:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [冰岛进入紧急状态 火山或几天内喷发](https://www.baidu.com/s?wd=%E5%86%B0%E5%B2%9B%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81+%E7%81%AB%E5%B1%B1%E6%88%96%E5%87%A0%E5%A4%A9%E5%86%85%E5%96%B7%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国十年“网事”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%B9%B4%E2%80%9C%E7%BD%91%E4%BA%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [阿里回应多款应用崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [职校被举报克扣学生巨额实习报酬](https://www.baidu.com/s?wd=%E8%81%8C%E6%A0%A1%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%85%8B%E6%89%A3%E5%AD%A6%E7%94%9F%E5%B7%A8%E9%A2%9D%E5%AE%9E%E4%B9%A0%E6%8A%A5%E9%85%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大妈买海鱼红烧后半夜发绿光](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E4%B9%B0%E6%B5%B7%E9%B1%BC%E7%BA%A2%E7%83%A7%E5%90%8E%E5%8D%8A%E5%A4%9C%E5%8F%91%E7%BB%BF%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [大妈买海鱼红烧后半夜发绿光](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E4%B9%B0%E6%B5%B7%E9%B1%BC%E7%BA%A2%E7%83%A7%E5%90%8E%E5%8D%8A%E5%A4%9C%E5%8F%91%E7%BB%BF%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [职校被举报克扣学生巨额实习报酬](https://www.baidu.com/s?wd=%E8%81%8C%E6%A0%A1%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%85%8B%E6%89%A3%E5%AD%A6%E7%94%9F%E5%B7%A8%E9%A2%9D%E5%AE%9E%E4%B9%A0%E6%8A%A5%E9%85%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [尘封27年的命案因孩子一句话破了](https://www.baidu.com/s?wd=%E5%B0%98%E5%B0%8127%E5%B9%B4%E7%9A%84%E5%91%BD%E6%A1%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%A0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [的哥猥亵女乘客视频实为摆拍](https://www.baidu.com/s?wd=%E7%9A%84%E5%93%A5%E7%8C%A5%E4%BA%B5%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%A7%86%E9%A2%91%E5%AE%9E%E4%B8%BA%E6%91%86%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [冰岛进入紧急状态 火山或几天内喷发](https://www.baidu.com/s?wd=%E5%86%B0%E5%B2%9B%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81+%E7%81%AB%E5%B1%B1%E6%88%96%E5%87%A0%E5%A4%A9%E5%86%85%E5%96%B7%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国十年“网事”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%B9%B4%E2%80%9C%E7%BD%91%E4%BA%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [阿里回应多款应用崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [职校被举报克扣学生巨额实习报酬](https://www.baidu.com/s?wd=%E8%81%8C%E6%A0%A1%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%85%8B%E6%89%A3%E5%AD%A6%E7%94%9F%E5%B7%A8%E9%A2%9D%E5%AE%9E%E4%B9%A0%E6%8A%A5%E9%85%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大妈买海鱼红烧后半夜发绿光](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E4%B9%B0%E6%B5%B7%E9%B1%BC%E7%BA%A2%E7%83%A7%E5%90%8E%E5%8D%8A%E5%A4%9C%E5%8F%91%E7%BB%BF%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [大妈买海鱼红烧后半夜发绿光](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E4%B9%B0%E6%B5%B7%E9%B1%BC%E7%BA%A2%E7%83%A7%E5%90%8E%E5%8D%8A%E5%A4%9C%E5%8F%91%E7%BB%BF%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [职校被举报克扣学生巨额实习报酬](https://www.baidu.com/s?wd=%E8%81%8C%E6%A0%A1%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%85%8B%E6%89%A3%E5%AD%A6%E7%94%9F%E5%B7%A8%E9%A2%9D%E5%AE%9E%E4%B9%A0%E6%8A%A5%E9%85%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [尘封27年的命案因孩子一句话破了](https://www.baidu.com/s?wd=%E5%B0%98%E5%B0%8127%E5%B9%B4%E7%9A%84%E5%91%BD%E6%A1%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%A0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [的哥猥亵女乘客视频实为摆拍](https://www.baidu.com/s?wd=%E7%9A%84%E5%93%A5%E7%8C%A5%E4%BA%B5%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%A7%86%E9%A2%91%E5%AE%9E%E4%B8%BA%E6%91%86%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
