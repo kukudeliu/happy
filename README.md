@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 14:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 14:44:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [姑娘为返款边流血边踩椭圆机](https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E4%B8%BA%E8%BF%94%E6%AC%BE%E8%BE%B9%E6%B5%81%E8%A1%80%E8%BE%B9%E8%B8%A9%E6%A4%AD%E5%9C%86%E6%9C%BA%23&t=31&band_rank=2&Refer=top)<br />
 3. [神十七乘组的首个天宫Vlog](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%B8%83%E4%B9%98%E7%BB%84%E7%9A%84%E9%A6%96%E4%B8%AA%E5%A4%A9%E5%AE%ABVlog%23&t=31&band_rank=3&Refer=top)<br />
 4. [湖北一医院贩卖出生证6人被批捕](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E4%B8%80%E5%8C%BB%E9%99%A2%E8%B4%A9%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%816%E4%BA%BA%E8%A2%AB%E6%89%B9%E6%8D%95%23&t=31&band_rank=4&Refer=top)<br />
-5. [油性痘痘肌不建议凉水洗脸](https://s.weibo.com/weibo?q=%23%E6%B2%B9%E6%80%A7%E7%97%98%E7%97%98%E8%82%8C%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%87%89%E6%B0%B4%E6%B4%97%E8%84%B8%23&t=31&band_rank=5&Refer=top)<br />
-6. [丞磊叫卢昱晓晓晓](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8F%AB%E5%8D%A2%E6%98%B1%E6%99%93%E6%99%93%E6%99%93%23&t=31&band_rank=6&Refer=top)<br />
+5. [丞磊叫卢昱晓晓晓](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8F%AB%E5%8D%A2%E6%98%B1%E6%99%93%E6%99%93%E6%99%93%23&t=31&band_rank=5&Refer=top)<br />
+6. [油性痘痘肌不建议凉水洗脸](https://s.weibo.com/weibo?q=%23%E6%B2%B9%E6%80%A7%E7%97%98%E7%97%98%E8%82%8C%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%87%89%E6%B0%B4%E6%B4%97%E8%84%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [健身杀死了我的自卑](https://s.weibo.com/weibo?q=%E5%81%A5%E8%BA%AB%E6%9D%80%E6%AD%BB%E4%BA%86%E6%88%91%E7%9A%84%E8%87%AA%E5%8D%91&t=31&band_rank=7&Refer=top)<br />
 8. [男生电梯内戴面具举玩具刀吓坏住户](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%94%B5%E6%A2%AF%E5%86%85%E6%88%B4%E9%9D%A2%E5%85%B7%E4%B8%BE%E7%8E%A9%E5%85%B7%E5%88%80%E5%90%93%E5%9D%8F%E4%BD%8F%E6%88%B7%23&t=31&band_rank=8&Refer=top)<br />
 9. [丁程鑫小时候掉进过沸水锅](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E5%B0%8F%E6%97%B6%E5%80%99%E6%8E%89%E8%BF%9B%E8%BF%87%E6%B2%B8%E6%B0%B4%E9%94%85%23&t=31&band_rank=9&Refer=top)<br />
@@ -23,8 +23,8 @@
 4. [多端发力迎接年终消费旺季](https://www.baidu.com/s?wd=%E5%A4%9A%E7%AB%AF%E5%8F%91%E5%8A%9B%E8%BF%8E%E6%8E%A5%E5%B9%B4%E7%BB%88%E6%B6%88%E8%B4%B9%E6%97%BA%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [小学食堂吃出鼠头？官方:为兔头唇部](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E9%BC%A0%E5%A4%B4%EF%BC%9F%E5%AE%98%E6%96%B9%3A%E4%B8%BA%E5%85%94%E5%A4%B4%E5%94%87%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国一特斯拉突发自燃](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%89%B9%E6%96%AF%E6%8B%89%E7%AA%81%E5%8F%91%E8%87%AA%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [德瓦梅纳比赛中突发心脏病离世](https://www.baidu.com/s?wd=%E5%BE%B7%E7%93%A6%E6%A2%85%E7%BA%B3%E6%AF%94%E8%B5%9B%E4%B8%AD%E7%AA%81%E5%8F%91%E5%BF%83%E8%84%8F%E7%97%85%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子偷窃后网络销赃买主竟是失主](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E7%AA%83%E5%90%8E%E7%BD%91%E7%BB%9C%E9%94%80%E8%B5%83%E4%B9%B0%E4%B8%BB%E7%AB%9F%E6%98%AF%E5%A4%B1%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [双十一广东消费者稳居第一](https://www.baidu.com/s?wd=%E5%8F%8C%E5%8D%81%E4%B8%80%E5%B9%BF%E4%B8%9C%E6%B6%88%E8%B4%B9%E8%80%85%E7%A8%B3%E5%B1%85%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [德瓦梅纳比赛中突发心脏病离世](https://www.baidu.com/s?wd=%E5%BE%B7%E7%93%A6%E6%A2%85%E7%BA%B3%E6%AF%94%E8%B5%9B%E4%B8%AD%E7%AA%81%E5%8F%91%E5%BF%83%E8%84%8F%E7%97%85%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州金沙洲工地挖破燃气管道？](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%87%91%E6%B2%99%E6%B4%B2%E5%B7%A5%E5%9C%B0%E6%8C%96%E7%A0%B4%E7%87%83%E6%B0%94%E7%AE%A1%E9%81%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [多端发力迎接年终消费旺季](https://www.baidu.com/s?wd=%E5%A4%9A%E7%AB%AF%E5%8F%91%E5%8A%9B%E8%BF%8E%E6%8E%A5%E5%B9%B4%E7%BB%88%E6%B6%88%E8%B4%B9%E6%97%BA%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [小学食堂吃出鼠头？官方:为兔头唇部](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E9%BC%A0%E5%A4%B4%EF%BC%9F%E5%AE%98%E6%96%B9%3A%E4%B8%BA%E5%85%94%E5%A4%B4%E5%94%87%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国一特斯拉突发自燃](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%89%B9%E6%96%AF%E6%8B%89%E7%AA%81%E5%8F%91%E8%87%AA%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [德瓦梅纳比赛中突发心脏病离世](https://www.baidu.com/s?wd=%E5%BE%B7%E7%93%A6%E6%A2%85%E7%BA%B3%E6%AF%94%E8%B5%9B%E4%B8%AD%E7%AA%81%E5%8F%91%E5%BF%83%E8%84%8F%E7%97%85%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子偷窃后网络销赃买主竟是失主](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E7%AA%83%E5%90%8E%E7%BD%91%E7%BB%9C%E9%94%80%E8%B5%83%E4%B9%B0%E4%B8%BB%E7%AB%9F%E6%98%AF%E5%A4%B1%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [双十一广东消费者稳居第一](https://www.baidu.com/s?wd=%E5%8F%8C%E5%8D%81%E4%B8%80%E5%B9%BF%E4%B8%9C%E6%B6%88%E8%B4%B9%E8%80%85%E7%A8%B3%E5%B1%85%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [德瓦梅纳比赛中突发心脏病离世](https://www.baidu.com/s?wd=%E5%BE%B7%E7%93%A6%E6%A2%85%E7%BA%B3%E6%AF%94%E8%B5%9B%E4%B8%AD%E7%AA%81%E5%8F%91%E5%BF%83%E8%84%8F%E7%97%85%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州金沙洲工地挖破燃气管道？](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%87%91%E6%B2%99%E6%B4%B2%E5%B7%A5%E5%9C%B0%E6%8C%96%E7%A0%B4%E7%87%83%E6%B0%94%E7%AE%A1%E9%81%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
