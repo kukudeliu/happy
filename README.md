@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 16:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 16:01:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [官方通报B太遭遇鬼秤事件](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5B%E5%A4%AA%E9%81%AD%E9%81%87%E9%AC%BC%E7%A7%A4%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [JDG对战T1 比分预测](https://s.weibo.com/weibo?q=JDG%E5%AF%B9%E6%88%98T1%20%E6%AF%94%E5%88%86%E9%A2%84%E6%B5%8B&t=31&band_rank=6&Refer=top)<br />
 7. [黄子韬因身体不适取消广州场演唱会](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9B%A0%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E5%8F%96%E6%B6%88%E5%B9%BF%E5%B7%9E%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [男生电梯内戴面具举玩具刀吓坏住户](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%94%B5%E6%A2%AF%E5%86%85%E6%88%B4%E9%9D%A2%E5%85%B7%E4%B8%BE%E7%8E%A9%E5%85%B7%E5%88%80%E5%90%93%E5%9D%8F%E4%BD%8F%E6%88%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [爸爸喝醉把儿子落地铁急坏大学生](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%96%9D%E9%86%89%E6%8A%8A%E5%84%BF%E5%AD%90%E8%90%BD%E5%9C%B0%E9%93%81%E6%80%A5%E5%9D%8F%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [日媒批福原爱生活奢侈逃亡中国](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%89%B9%E7%A6%8F%E5%8E%9F%E7%88%B1%E7%94%9F%E6%B4%BB%E5%A5%A2%E4%BE%88%E9%80%83%E4%BA%A1%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=8&Refer=top)<br />
+9. [男生电梯内戴面具举玩具刀吓坏住户](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%94%B5%E6%A2%AF%E5%86%85%E6%88%B4%E9%9D%A2%E5%85%B7%E4%B8%BE%E7%8E%A9%E5%85%B7%E5%88%80%E5%90%93%E5%9D%8F%E4%BD%8F%E6%88%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
