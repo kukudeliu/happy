@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 15:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 15:51:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [JDG对战T1 比分预测](https://s.weibo.com/weibo?q=JDG%E5%AF%B9%E6%88%98T1%20%E6%AF%94%E5%88%86%E9%A2%84%E6%B5%8B&t=31&band_rank=5&Refer=top)<br />
 6. [黄子韬因身体不适取消广州场演唱会](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9B%A0%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E5%8F%96%E6%B6%88%E5%B9%BF%E5%B7%9E%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [男生电梯内戴面具举玩具刀吓坏住户](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%94%B5%E6%A2%AF%E5%86%85%E6%88%B4%E9%9D%A2%E5%85%B7%E4%B8%BE%E7%8E%A9%E5%85%B7%E5%88%80%E5%90%93%E5%9D%8F%E4%BD%8F%E6%88%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [功能性美甲](https://s.weibo.com/weibo?q=%E5%8A%9F%E8%83%BD%E6%80%A7%E7%BE%8E%E7%94%B2&t=31&band_rank=8&Refer=top)<br />
-9. [姑娘为返款边流血边踩椭圆机](https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E4%B8%BA%E8%BF%94%E6%AC%BE%E8%BE%B9%E6%B5%81%E8%A1%80%E8%BE%B9%E8%B8%A9%E6%A4%AD%E5%9C%86%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [歌手2024 踢馆名单](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B2024%20%E8%B8%A2%E9%A6%86%E5%90%8D%E5%8D%95&t=31&band_rank=8&Refer=top)<br />
+9. [功能性美甲](https://s.weibo.com/weibo?q=%E5%8A%9F%E8%83%BD%E6%80%A7%E7%BE%8E%E7%94%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
