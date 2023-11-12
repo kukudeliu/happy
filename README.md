@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 12:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 12:52:01</h4></div>
 
 > 微博  
 
-1. [奶茶店主故意加违禁药致女子中毒](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%BA%97%E4%B8%BB%E6%95%85%E6%84%8F%E5%8A%A0%E8%BF%9D%E7%A6%81%E8%8D%AF%E8%87%B4%E5%A5%B3%E5%AD%90%E4%B8%AD%E6%AF%92%23&t=31&band_rank=1&Refer=top)<br />
-2. [官方通报B太遭遇鬼秤事件](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5B%E5%A4%AA%E9%81%AD%E9%81%87%E9%AC%BC%E7%A7%A4%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top)<br />
+1. [官方通报B太遭遇鬼秤事件](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5B%E5%A4%AA%E9%81%AD%E9%81%87%E9%AC%BC%E7%A7%A4%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top)<br />
+2. [奶茶店主故意加违禁药致女子中毒](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%BA%97%E4%B8%BB%E6%95%85%E6%84%8F%E5%8A%A0%E8%BF%9D%E7%A6%81%E8%8D%AF%E8%87%B4%E5%A5%B3%E5%AD%90%E4%B8%AD%E6%AF%92%23&t=31&band_rank=2&Refer=top)<br />
 3. [神十七乘组的首个天宫Vlog](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%B8%83%E4%B9%98%E7%BB%84%E7%9A%84%E9%A6%96%E4%B8%AA%E5%A4%A9%E5%AE%ABVlog%23&t=31&band_rank=3&Refer=top)<br />
 4. [姑娘为返款边流血边踩椭圆机](https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E4%B8%BA%E8%BF%94%E6%AC%BE%E8%BE%B9%E6%B5%81%E8%A1%80%E8%BE%B9%E8%B8%A9%E6%A4%AD%E5%9C%86%E6%9C%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [黄子韬因身体不适取消广州场演唱会](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9B%A0%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E5%8F%96%E6%B6%88%E5%B9%BF%E5%B7%9E%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=5&Refer=top)<br />
-6. [乌布雷车祸](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B8%83%E9%9B%B7%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=6&Refer=top)<br />
-7. [原来海棠朵朵是辛芷蕾本色出演](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%B5%B7%E6%A3%A0%E6%9C%B5%E6%9C%B5%E6%98%AF%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%9C%AC%E8%89%B2%E5%87%BA%E6%BC%94&t=31&band_rank=7&Refer=top)<br />
-8. [公开通缉缅北电诈犯罪集团重要头目](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%BC%80%E9%80%9A%E7%BC%89%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E9%87%8D%E8%A6%81%E5%A4%B4%E7%9B%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [健身杀死了我的自卑](https://s.weibo.com/weibo?q=%E5%81%A5%E8%BA%AB%E6%9D%80%E6%AD%BB%E4%BA%86%E6%88%91%E7%9A%84%E8%87%AA%E5%8D%91&t=31&band_rank=9&Refer=top)<br />
+6. [原来海棠朵朵是辛芷蕾本色出演](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%B5%B7%E6%A3%A0%E6%9C%B5%E6%9C%B5%E6%98%AF%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%9C%AC%E8%89%B2%E5%87%BA%E6%BC%94&t=31&band_rank=6&Refer=top)<br />
+7. [乌布雷车祸](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B8%83%E9%9B%B7%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=7&Refer=top)<br />
+8. [健身杀死了我的自卑](https://s.weibo.com/weibo?q=%E5%81%A5%E8%BA%AB%E6%9D%80%E6%AD%BB%E4%BA%86%E6%88%91%E7%9A%84%E8%87%AA%E5%8D%91&t=31&band_rank=8&Refer=top)<br />
+9. [公开通缉缅北电诈犯罪集团重要头目](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%BC%80%E9%80%9A%E7%BC%89%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E9%87%8D%E8%A6%81%E5%A4%B4%E7%9B%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
