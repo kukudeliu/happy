@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 14:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 14:18:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [健身杀死了我的自卑](https://s.weibo.com/weibo?q=%E5%81%A5%E8%BA%AB%E6%9D%80%E6%AD%BB%E4%BA%86%E6%88%91%E7%9A%84%E8%87%AA%E5%8D%91&t=31&band_rank=5&Refer=top)<br />
 6. [丞磊叫卢昱晓晓晓](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8F%AB%E5%8D%A2%E6%98%B1%E6%99%93%E6%99%93%E6%99%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [丁程鑫小时候掉进过沸水锅](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E5%B0%8F%E6%97%B6%E5%80%99%E6%8E%89%E8%BF%9B%E8%BF%87%E6%B2%B8%E6%B0%B4%E9%94%85%23&t=31&band_rank=7&Refer=top)<br />
-8. [宁安如梦白鹿吻戏吻到缺氧](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%99%BD%E9%B9%BF%E5%90%BB%E6%88%8F%E5%90%BB%E5%88%B0%E7%BC%BA%E6%B0%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [油性痘痘肌不建议凉水洗脸](https://s.weibo.com/weibo?q=%23%E6%B2%B9%E6%80%A7%E7%97%98%E7%97%98%E8%82%8C%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%87%89%E6%B0%B4%E6%B4%97%E8%84%B8%23&t=31&band_rank=9&Refer=top)<br />
+8. [油性痘痘肌不建议凉水洗脸](https://s.weibo.com/weibo?q=%23%E6%B2%B9%E6%80%A7%E7%97%98%E7%97%98%E8%82%8C%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%87%89%E6%B0%B4%E6%B4%97%E8%84%B8%23&t=31&band_rank=8&Refer=top)<br />
+9. [宁安如梦白鹿吻戏吻到缺氧](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%99%BD%E9%B9%BF%E5%90%BB%E6%88%8F%E5%90%BB%E5%88%B0%E7%BC%BA%E6%B0%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
