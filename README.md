@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 16:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 16:13:01</h4></div>
 
 > 微博  
 
 1. [今年双十一冷清的原因找到了](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%8F%8C%E5%8D%81%E4%B8%80%E5%86%B7%E6%B8%85%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
 2. [歌手2024 踢馆名单](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B2024%20%E8%B8%A2%E9%A6%86%E5%90%8D%E5%8D%95&t=31&band_rank=2&Refer=top)<br />
 3. [2023加油壁纸](https://s.weibo.com/weibo?q=%232023%E5%8A%A0%E6%B2%B9%E5%A3%81%E7%BA%B8%23&t=31&band_rank=3&Refer=top)<br />
-4. [真正致癌的是这3种鱼](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%AD%A3%E8%87%B4%E7%99%8C%E7%9A%84%E6%98%AF%E8%BF%993%E7%A7%8D%E9%B1%BC&t=31&band_rank=4&Refer=top)<br />
-5. [JDG对战T1](https://s.weibo.com/weibo?q=%23JDG%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=5&Refer=top)<br />
+4. [JDG对战T1](https://s.weibo.com/weibo?q=%23JDG%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=4&Refer=top)<br />
+5. [真正致癌的是这3种鱼](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%AD%A3%E8%87%B4%E7%99%8C%E7%9A%84%E6%98%AF%E8%BF%993%E7%A7%8D%E9%B1%BC&t=31&band_rank=5&Refer=top)<br />
 6. [日媒批福原爱生活奢侈逃亡中国](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%89%B9%E7%A6%8F%E5%8E%9F%E7%88%B1%E7%94%9F%E6%B4%BB%E5%A5%A2%E4%BE%88%E9%80%83%E4%BA%A1%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [官方通报B太遭遇鬼秤事件](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5B%E5%A4%AA%E9%81%AD%E9%81%87%E9%AC%BC%E7%A7%A4%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [爸爸喝醉把儿子落地铁急坏大学生](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%96%9D%E9%86%89%E6%8A%8A%E5%84%BF%E5%AD%90%E8%90%BD%E5%9C%B0%E9%93%81%E6%80%A5%E5%9D%8F%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
