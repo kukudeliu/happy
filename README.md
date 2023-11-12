@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 18:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 18:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [JDG对战T1](https://s.weibo.com/weibo?q=%23JDG%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=5&Refer=top)<br />
 6. [金莎孙丞潇曾救下被家暴女孩](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%AD%99%E4%B8%9E%E6%BD%87%E6%9B%BE%E6%95%91%E4%B8%8B%E8%A2%AB%E5%AE%B6%E6%9A%B4%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [受伤小狗获好心人送医取名立冬](https://s.weibo.com/weibo?q=%23%E5%8F%97%E4%BC%A4%E5%B0%8F%E7%8B%97%E8%8E%B7%E5%A5%BD%E5%BF%83%E4%BA%BA%E9%80%81%E5%8C%BB%E5%8F%96%E5%90%8D%E7%AB%8B%E5%86%AC%23&t=31&band_rank=7&Refer=top)<br />
-8. [网友称应聘蜜雪冰城被嫌26岁太大](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%BA%94%E8%81%98%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A2%AB%E5%AB%8C26%E5%B2%81%E5%A4%AA%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [菲警方正确认6具遗体是否为被绑架中国人](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E8%AD%A6%E6%96%B9%E6%AD%A3%E7%A1%AE%E8%AE%A46%E5%85%B7%E9%81%97%E4%BD%93%E6%98%AF%E5%90%A6%E4%B8%BA%E8%A2%AB%E7%BB%91%E6%9E%B6%E4%B8%AD%E5%9B%BD%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [菲警方正确认6具遗体是否为被绑架中国人](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E8%AD%A6%E6%96%B9%E6%AD%A3%E7%A1%AE%E8%AE%A46%E5%85%B7%E9%81%97%E4%BD%93%E6%98%AF%E5%90%A6%E4%B8%BA%E8%A2%AB%E7%BB%91%E6%9E%B6%E4%B8%AD%E5%9B%BD%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [网友称应聘蜜雪冰城被嫌26岁太大](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%BA%94%E8%81%98%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A2%AB%E5%AB%8C26%E5%B2%81%E5%A4%AA%E5%A4%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
