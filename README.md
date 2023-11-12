@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 20:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 20:37:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [WBG决赛对战T1](https://s.weibo.com/weibo?q=%23WBG%E5%86%B3%E8%B5%9B%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=4&Refer=top)<br />
 5. [张译马面裙](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E9%A9%AC%E9%9D%A2%E8%A3%99%23&t=31&band_rank=5&Refer=top)<br />
 6. [快进到相信TheShy](https://s.weibo.com/weibo?q=%E5%BF%AB%E8%BF%9B%E5%88%B0%E7%9B%B8%E4%BF%A1TheShy&t=31&band_rank=6&Refer=top)<br />
-7. [压力给到WBG](https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0WBG%23&t=31&band_rank=7&Refer=top)<br />
-8. [Knight 隐身](https://s.weibo.com/weibo?q=Knight%20%E9%9A%90%E8%BA%AB&t=31&band_rank=8&Refer=top)<br />
-9. [MISSING哭了](https://s.weibo.com/weibo?q=%23MISSING%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+7. [Knight 隐身](https://s.weibo.com/weibo?q=Knight%20%E9%9A%90%E8%BA%AB&t=31&band_rank=7&Refer=top)<br />
+8. [WBG赢了血赚输了不亏](https://s.weibo.com/weibo?q=WBG%E8%B5%A2%E4%BA%86%E8%A1%80%E8%B5%9A%E8%BE%93%E4%BA%86%E4%B8%8D%E4%BA%8F&t=31&band_rank=8&Refer=top)<br />
+9. [压力给到WBG](https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0WBG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
