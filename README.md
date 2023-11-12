@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 17:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 17:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [网友称应聘蜜雪冰城被嫌26岁太大](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%BA%94%E8%81%98%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A2%AB%E5%AB%8C26%E5%B2%81%E5%A4%AA%E5%A4%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [真正致癌的是这3种鱼](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%AD%A3%E8%87%B4%E7%99%8C%E7%9A%84%E6%98%AF%E8%BF%993%E7%A7%8D%E9%B1%BC&t=31&band_rank=7&Refer=top)<br />
 8. [T1半决赛先下一城](https://s.weibo.com/weibo?q=%23T1%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [日媒批福原爱生活奢侈逃亡中国](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%89%B9%E7%A6%8F%E5%8E%9F%E7%88%B1%E7%94%9F%E6%B4%BB%E5%A5%A2%E4%BE%88%E9%80%83%E4%BA%A1%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=9&Refer=top)<br />
+9. [十年前30万买的海景房现在8万卖不掉](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B9%B4%E5%89%8D30%E4%B8%87%E4%B9%B0%E7%9A%84%E6%B5%B7%E6%99%AF%E6%88%BF%E7%8E%B0%E5%9C%A88%E4%B8%87%E5%8D%96%E4%B8%8D%E6%8E%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
