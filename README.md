@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 06:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 06:50:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [雪天8大健康提醒](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E5%A4%A98%E5%A4%A7%E5%81%A5%E5%BA%B7%E6%8F%90%E9%86%92%23&t=31&band_rank=3&Refer=top)<br />
 4. [浙江一大妈买海鱼红烧后半夜发绿光](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E5%A4%A7%E5%A6%88%E4%B9%B0%E6%B5%B7%E9%B1%BC%E7%BA%A2%E7%83%A7%E5%90%8E%E5%8D%8A%E5%A4%9C%E5%8F%91%E7%BB%BF%E5%85%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [2女生捡到3千现金后报警交还](https://s.weibo.com/weibo?q=%232%E5%A5%B3%E7%94%9F%E6%8D%A1%E5%88%B03%E5%8D%83%E7%8E%B0%E9%87%91%E5%90%8E%E6%8A%A5%E8%AD%A6%E4%BA%A4%E8%BF%98%23&t=31&band_rank=5&Refer=top)<br />
-6. [冰岛宣布进入紧急状态](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=6&Refer=top)<br />
-7. [多国爆发床虱危机](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E5%BA%8A%E8%99%B1%E5%8D%B1%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
+6. [多国爆发床虱危机](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E5%BA%8A%E8%99%B1%E5%8D%B1%E6%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
+7. [冰岛宣布进入紧急状态](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [爱奇艺回复白鹿](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%9B%9E%E5%A4%8D%E7%99%BD%E9%B9%BF%23&t=31&band_rank=8&Refer=top)<br />
 9. [官方通报企业家被约谈后坠楼身亡](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%BC%81%E4%B8%9A%E5%AE%B6%E8%A2%AB%E7%BA%A6%E8%B0%88%E5%90%8E%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -24,7 +24,7 @@
 5. [阿里回应多款应用崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大妈买海鱼红烧后半夜发绿光](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E4%B9%B0%E6%B5%B7%E9%B1%BC%E7%BA%A2%E7%83%A7%E5%90%8E%E5%8D%8A%E5%A4%9C%E5%8F%91%E7%BB%BF%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张译拒签《狂飙》实体书](https://www.baidu.com/s?wd=%E5%BC%A0%E8%AF%91%E6%8B%92%E7%AD%BE%E3%80%8A%E7%8B%82%E9%A3%99%E3%80%8B%E5%AE%9E%E4%BD%93%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大闸蟹跌出“白菜价”](https://www.baidu.com/s?wd=%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%B7%8C%E5%87%BA%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李佳琦双十一收入超250亿](https://www.baidu.com/s?wd=%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%8F%8C%E5%8D%81%E4%B8%80%E6%94%B6%E5%85%A5%E8%B6%85250%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [的哥猥亵女乘客视频实为摆拍](https://www.baidu.com/s?wd=%E7%9A%84%E5%93%A5%E7%8C%A5%E4%BA%B5%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%A7%86%E9%A2%91%E5%AE%9E%E4%B8%BA%E6%91%86%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [阿里回应多款应用崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大妈买海鱼红烧后半夜发绿光](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E4%B9%B0%E6%B5%B7%E9%B1%BC%E7%BA%A2%E7%83%A7%E5%90%8E%E5%8D%8A%E5%A4%9C%E5%8F%91%E7%BB%BF%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张译拒签《狂飙》实体书](https://www.baidu.com/s?wd=%E5%BC%A0%E8%AF%91%E6%8B%92%E7%AD%BE%E3%80%8A%E7%8B%82%E9%A3%99%E3%80%8B%E5%AE%9E%E4%BD%93%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大闸蟹跌出“白菜价”](https://www.baidu.com/s?wd=%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%B7%8C%E5%87%BA%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李佳琦双十一收入超250亿](https://www.baidu.com/s?wd=%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%8F%8C%E5%8D%81%E4%B8%80%E6%94%B6%E5%85%A5%E8%B6%85250%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [的哥猥亵女乘客视频实为摆拍](https://www.baidu.com/s?wd=%E7%9A%84%E5%93%A5%E7%8C%A5%E4%BA%B5%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%A7%86%E9%A2%91%E5%AE%9E%E4%B8%BA%E6%91%86%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
