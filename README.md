@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 14:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 14:56:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [神十七乘组的首个天宫Vlog](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%B8%83%E4%B9%98%E7%BB%84%E7%9A%84%E9%A6%96%E4%B8%AA%E5%A4%A9%E5%AE%ABVlog%23&t=31&band_rank=3&Refer=top)<br />
 4. [男生电梯内戴面具举玩具刀吓坏住户](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%94%B5%E6%A2%AF%E5%86%85%E6%88%B4%E9%9D%A2%E5%85%B7%E4%B8%BE%E7%8E%A9%E5%85%B7%E5%88%80%E5%90%93%E5%9D%8F%E4%BD%8F%E6%88%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [丞磊叫卢昱晓晓晓](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8F%AB%E5%8D%A2%E6%98%B1%E6%99%93%E6%99%93%E6%99%93%23&t=31&band_rank=5&Refer=top)<br />
-6. [湖北一医院贩卖出生证6人被批捕](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E4%B8%80%E5%8C%BB%E9%99%A2%E8%B4%A9%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%816%E4%BA%BA%E8%A2%AB%E6%89%B9%E6%8D%95%23&t=31&band_rank=6&Refer=top)<br />
-7. [油性痘痘肌不建议凉水洗脸](https://s.weibo.com/weibo?q=%23%E6%B2%B9%E6%80%A7%E7%97%98%E7%97%98%E8%82%8C%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%87%89%E6%B0%B4%E6%B4%97%E8%84%B8%23&t=31&band_rank=7&Refer=top)<br />
-8. [今年双十一冷清的原因找到了](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%8F%8C%E5%8D%81%E4%B8%80%E5%86%B7%E6%B8%85%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+6. [今年双十一冷清的原因找到了](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%8F%8C%E5%8D%81%E4%B8%80%E5%86%B7%E6%B8%85%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [湖北一医院贩卖出生证6人被批捕](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E4%B8%80%E5%8C%BB%E9%99%A2%E8%B4%A9%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%816%E4%BA%BA%E8%A2%AB%E6%89%B9%E6%8D%95%23&t=31&band_rank=7&Refer=top)<br />
+8. [油性痘痘肌不建议凉水洗脸](https://s.weibo.com/weibo?q=%23%E6%B2%B9%E6%80%A7%E7%97%98%E7%97%98%E8%82%8C%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%87%89%E6%B0%B4%E6%B4%97%E8%84%B8%23&t=31&band_rank=8&Refer=top)<br />
 9. [健身杀死了我的自卑](https://s.weibo.com/weibo?q=%E5%81%A5%E8%BA%AB%E6%9D%80%E6%AD%BB%E4%BA%86%E6%88%91%E7%9A%84%E8%87%AA%E5%8D%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
