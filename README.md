@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 15:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 15:04:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [携手重建家园](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E9%87%8D%E5%BB%BA%E5%AE%B6%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [今年“双十一”冷清的原因找到了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E2%80%9C%E5%8F%8C%E5%8D%81%E4%B8%80%E2%80%9D%E5%86%B7%E6%B8%85%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [低价硝烟下天猫京东公布双11成绩](https://www.baidu.com/s?wd=%E4%BD%8E%E4%BB%B7%E7%A1%9D%E7%83%9F%E4%B8%8B%E5%A4%A9%E7%8C%AB%E4%BA%AC%E4%B8%9C%E5%85%AC%E5%B8%83%E5%8F%8C11%E6%88%90%E7%BB%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [湖北一医院贩卖出生证6人被批捕](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E4%B8%80%E5%8C%BB%E9%99%A2%E8%B4%A9%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%816%E4%BA%BA%E8%A2%AB%E6%89%B9%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多端发力迎接年终消费旺季](https://www.baidu.com/s?wd=%E5%A4%9A%E7%AB%AF%E5%8F%91%E5%8A%9B%E8%BF%8E%E6%8E%A5%E5%B9%B4%E7%BB%88%E6%B6%88%E8%B4%B9%E6%97%BA%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [小学食堂吃出鼠头？官方:为兔头唇部](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E9%BC%A0%E5%A4%B4%EF%BC%9F%E5%AE%98%E6%96%B9%3A%E4%B8%BA%E5%85%94%E5%A4%B4%E5%94%87%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大闸蟹跌出“白菜价”](https://www.baidu.com/s?wd=%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%B7%8C%E5%87%BA%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大批中国公民滞留俄罗斯？官方回应](https://www.baidu.com/s?wd=%E5%A4%A7%E6%89%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%BB%9E%E7%95%99%E4%BF%84%E7%BD%97%E6%96%AF%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子杀人逃深山 养8只恶犬防身](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E4%BA%BA%E9%80%83%E6%B7%B1%E5%B1%B1+%E5%85%BB8%E5%8F%AA%E6%81%B6%E7%8A%AC%E9%98%B2%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高通与铱星取消合作](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9A%E4%B8%8E%E9%93%B1%E6%98%9F%E5%8F%96%E6%B6%88%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大批中国公民滞留俄罗斯？官方回应](https://www.baidu.com/s?wd=%E5%A4%A7%E6%89%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%BB%9E%E7%95%99%E4%BF%84%E7%BD%97%E6%96%AF%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州金沙洲工地挖破燃气管道？](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%87%91%E6%B2%99%E6%B4%B2%E5%B7%A5%E5%9C%B0%E6%8C%96%E7%A0%B4%E7%87%83%E6%B0%94%E7%AE%A1%E9%81%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [携手重建家园](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E9%87%8D%E5%BB%BA%E5%AE%B6%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [今年“双十一”冷清的原因找到了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E2%80%9C%E5%8F%8C%E5%8D%81%E4%B8%80%E2%80%9D%E5%86%B7%E6%B8%85%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [低价硝烟下天猫京东公布双11成绩](https://www.baidu.com/s?wd=%E4%BD%8E%E4%BB%B7%E7%A1%9D%E7%83%9F%E4%B8%8B%E5%A4%A9%E7%8C%AB%E4%BA%AC%E4%B8%9C%E5%85%AC%E5%B8%83%E5%8F%8C11%E6%88%90%E7%BB%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [湖北一医院贩卖出生证6人被批捕](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E4%B8%80%E5%8C%BB%E9%99%A2%E8%B4%A9%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%816%E4%BA%BA%E8%A2%AB%E6%89%B9%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多端发力迎接年终消费旺季](https://www.baidu.com/s?wd=%E5%A4%9A%E7%AB%AF%E5%8F%91%E5%8A%9B%E8%BF%8E%E6%8E%A5%E5%B9%B4%E7%BB%88%E6%B6%88%E8%B4%B9%E6%97%BA%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [小学食堂吃出鼠头？官方:为兔头唇部](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E9%BC%A0%E5%A4%B4%EF%BC%9F%E5%AE%98%E6%96%B9%3A%E4%B8%BA%E5%85%94%E5%A4%B4%E5%94%87%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大闸蟹跌出“白菜价”](https://www.baidu.com/s?wd=%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%B7%8C%E5%87%BA%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大批中国公民滞留俄罗斯？官方回应](https://www.baidu.com/s?wd=%E5%A4%A7%E6%89%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%BB%9E%E7%95%99%E4%BF%84%E7%BD%97%E6%96%AF%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子杀人逃深山 养8只恶犬防身](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E4%BA%BA%E9%80%83%E6%B7%B1%E5%B1%B1+%E5%85%BB8%E5%8F%AA%E6%81%B6%E7%8A%AC%E9%98%B2%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高通与铱星取消合作](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9A%E4%B8%8E%E9%93%B1%E6%98%9F%E5%8F%96%E6%B6%88%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大批中国公民滞留俄罗斯？官方回应](https://www.baidu.com/s?wd=%E5%A4%A7%E6%89%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%BB%9E%E7%95%99%E4%BF%84%E7%BD%97%E6%96%AF%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州金沙洲工地挖破燃气管道？](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%87%91%E6%B2%99%E6%B4%B2%E5%B7%A5%E5%9C%B0%E6%8C%96%E7%A0%B4%E7%87%83%E6%B0%94%E7%AE%A1%E9%81%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
