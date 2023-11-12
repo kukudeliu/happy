@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 10:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 10:08:01</h4></div>
 
 > 微博  
 
-1. [四个人凑不出半个恋爱脑](https://s.weibo.com/weibo?q=%E5%9B%9B%E4%B8%AA%E4%BA%BA%E5%87%91%E4%B8%8D%E5%87%BA%E5%8D%8A%E4%B8%AA%E6%81%8B%E7%88%B1%E8%84%91&t=31&band_rank=1&Refer=top)<br />
-2. [民警怒斥缅北没抓到你是吧](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E6%80%92%E6%96%A5%E7%BC%85%E5%8C%97%E6%B2%A1%E6%8A%93%E5%88%B0%E4%BD%A0%E6%98%AF%E5%90%A7%23&t=31&band_rank=2&Refer=top)<br />
+1. [民警怒斥缅北没抓到你是吧](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E6%80%92%E6%96%A5%E7%BC%85%E5%8C%97%E6%B2%A1%E6%8A%93%E5%88%B0%E4%BD%A0%E6%98%AF%E5%90%A7%23&t=31&band_rank=1&Refer=top)<br />
+2. [四个人凑不出半个恋爱脑](https://s.weibo.com/weibo?q=%E5%9B%9B%E4%B8%AA%E4%BA%BA%E5%87%91%E4%B8%8D%E5%87%BA%E5%8D%8A%E4%B8%AA%E6%81%8B%E7%88%B1%E8%84%91&t=31&band_rank=2&Refer=top)<br />
 3. [江山如画](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E5%B1%B1%E5%A6%82%E7%94%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [裸门](https://s.weibo.com/weibo?q=%E8%A3%B8%E9%97%A8&t=31&band_rank=4&Refer=top)<br />
 5. [金莎回应恋情争议](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%9B%9E%E5%BA%94%E6%81%8B%E6%83%85%E4%BA%89%E8%AE%AE%23&t=31&band_rank=5&Refer=top)<br />
