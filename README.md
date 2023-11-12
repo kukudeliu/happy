@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 16:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 16:20:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [多端发力迎接年终消费旺季](https://www.baidu.com/s?wd=%E5%A4%9A%E7%AB%AF%E5%8F%91%E5%8A%9B%E8%BF%8E%E6%8E%A5%E5%B9%B4%E7%BB%88%E6%B6%88%E8%B4%B9%E6%97%BA%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大闸蟹跌出“白菜价”](https://www.baidu.com/s?wd=%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%B7%8C%E5%87%BA%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [尘封27年的命案因孩子一句话破了](https://www.baidu.com/s?wd=%E5%B0%98%E5%B0%8127%E5%B9%B4%E7%9A%84%E5%91%BD%E6%A1%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%A0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [民进党高官被曝聚众淫乱](https://www.baidu.com/s?wd=%E6%B0%91%E8%BF%9B%E5%85%9A%E9%AB%98%E5%AE%98%E8%A2%AB%E6%9B%9D%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大批中国公民滞留俄罗斯？官方回应](https://www.baidu.com/s?wd=%E5%A4%A7%E6%89%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%BB%9E%E7%95%99%E4%BF%84%E7%BD%97%E6%96%AF%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大批中国公民滞留俄罗斯？官方回应](https://www.baidu.com/s?wd=%E5%A4%A7%E6%89%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%BB%9E%E7%95%99%E4%BF%84%E7%BD%97%E6%96%AF%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [民进党高官被曝聚众淫乱](https://www.baidu.com/s?wd=%E6%B0%91%E8%BF%9B%E5%85%9A%E9%AB%98%E5%AE%98%E8%A2%AB%E6%9B%9D%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州金沙洲工地挖破燃气管道？](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%87%91%E6%B2%99%E6%B4%B2%E5%B7%A5%E5%9C%B0%E6%8C%96%E7%A0%B4%E7%87%83%E6%B0%94%E7%AE%A1%E9%81%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [多端发力迎接年终消费旺季](https://www.baidu.com/s?wd=%E5%A4%9A%E7%AB%AF%E5%8F%91%E5%8A%9B%E8%BF%8E%E6%8E%A5%E5%B9%B4%E7%BB%88%E6%B6%88%E8%B4%B9%E6%97%BA%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大闸蟹跌出“白菜价”](https://www.baidu.com/s?wd=%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%B7%8C%E5%87%BA%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [尘封27年的命案因孩子一句话破了](https://www.baidu.com/s?wd=%E5%B0%98%E5%B0%8127%E5%B9%B4%E7%9A%84%E5%91%BD%E6%A1%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%A0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [民进党高官被曝聚众淫乱](https://www.baidu.com/s?wd=%E6%B0%91%E8%BF%9B%E5%85%9A%E9%AB%98%E5%AE%98%E8%A2%AB%E6%9B%9D%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大批中国公民滞留俄罗斯？官方回应](https://www.baidu.com/s?wd=%E5%A4%A7%E6%89%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%BB%9E%E7%95%99%E4%BF%84%E7%BD%97%E6%96%AF%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大批中国公民滞留俄罗斯？官方回应](https://www.baidu.com/s?wd=%E5%A4%A7%E6%89%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%BB%9E%E7%95%99%E4%BF%84%E7%BD%97%E6%96%AF%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [民进党高官被曝聚众淫乱](https://www.baidu.com/s?wd=%E6%B0%91%E8%BF%9B%E5%85%9A%E9%AB%98%E5%AE%98%E8%A2%AB%E6%9B%9D%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州金沙洲工地挖破燃气管道？](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%87%91%E6%B2%99%E6%B4%B2%E5%B7%A5%E5%9C%B0%E6%8C%96%E7%A0%B4%E7%87%83%E6%B0%94%E7%AE%A1%E9%81%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
