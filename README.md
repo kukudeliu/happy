@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 20:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 20:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [压力给到WBG](https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0WBG%23&t=31&band_rank=6&Refer=top)<br />
 7. [快进到相信TheShy](https://s.weibo.com/weibo?q=%E5%BF%AB%E8%BF%9B%E5%88%B0%E7%9B%B8%E4%BF%A1TheShy&t=31&band_rank=7&Refer=top)<br />
 8. [Knight 隐身](https://s.weibo.com/weibo?q=Knight%20%E9%9A%90%E8%BA%AB&t=31&band_rank=8&Refer=top)<br />
-9. [Kanavi在干嘛](https://s.weibo.com/weibo?q=%23Kanavi%E5%9C%A8%E5%B9%B2%E5%98%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [白鹿催宁安如梦加更](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%82%AC%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E5%8A%A0%E6%9B%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
