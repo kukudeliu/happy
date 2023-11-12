@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 12:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 12:32:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [神十七乘组的首个天宫Vlog](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%B8%83%E4%B9%98%E7%BB%84%E7%9A%84%E9%A6%96%E4%B8%AA%E5%A4%A9%E5%AE%ABVlog%23&t=31&band_rank=3&Refer=top)<br />
 4. [公开通缉缅北电诈犯罪集团重要头目](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%BC%80%E9%80%9A%E7%BC%89%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E9%87%8D%E8%A6%81%E5%A4%B4%E7%9B%AE%23&t=31&band_rank=4&Refer=top)<br />
 5. [原来海棠朵朵是辛芷蕾本色出演](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%B5%B7%E6%A3%A0%E6%9C%B5%E6%9C%B5%E6%98%AF%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%9C%AC%E8%89%B2%E5%87%BA%E6%BC%94&t=31&band_rank=5&Refer=top)<br />
-6. [黄子韬因身体不适取消广州场演唱会](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9B%A0%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E5%8F%96%E6%B6%88%E5%B9%BF%E5%B7%9E%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
-7. [乌布雷车祸](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B8%83%E9%9B%B7%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=7&Refer=top)<br />
-8. [顾客吐槽火锅店6元一份娃娃菜仅4片](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BD%E7%81%AB%E9%94%85%E5%BA%976%E5%85%83%E4%B8%80%E4%BB%BD%E5%A8%83%E5%A8%83%E8%8F%9C%E4%BB%854%E7%89%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [金莎回应恋情争议](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%9B%9E%E5%BA%94%E6%81%8B%E6%83%85%E4%BA%89%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
+6. [乌布雷车祸](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B8%83%E9%9B%B7%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=6&Refer=top)<br />
+7. [黄子韬因身体不适取消广州场演唱会](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9B%A0%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E5%8F%96%E6%B6%88%E5%B9%BF%E5%B7%9E%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
+8. [金莎回应恋情争议](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%9B%9E%E5%BA%94%E6%81%8B%E6%83%85%E4%BA%89%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
+9. [顾客吐槽火锅店6元一份娃娃菜仅4片](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BD%E7%81%AB%E9%94%85%E5%BA%976%E5%85%83%E4%B8%80%E4%BB%BD%E5%A8%83%E5%A8%83%E8%8F%9C%E4%BB%854%E7%89%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
