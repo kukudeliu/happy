@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 14:02:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 14:03:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [健身杀死了我的自卑](https://s.weibo.com/weibo?q=%E5%81%A5%E8%BA%AB%E6%9D%80%E6%AD%BB%E4%BA%86%E6%88%91%E7%9A%84%E8%87%AA%E5%8D%91&t=31&band_rank=5&Refer=top)<br />
 6. [丁程鑫小时候掉进过沸水锅](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E5%B0%8F%E6%97%B6%E5%80%99%E6%8E%89%E8%BF%9B%E8%BF%87%E6%B2%B8%E6%B0%B4%E9%94%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [宁安如梦白鹿吻戏吻到缺氧](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%99%BD%E9%B9%BF%E5%90%BB%E6%88%8F%E5%90%BB%E5%88%B0%E7%BC%BA%E6%B0%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [奶茶店主故意加违禁药致女子中毒](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%BA%97%E4%B8%BB%E6%95%85%E6%84%8F%E5%8A%A0%E8%BF%9D%E7%A6%81%E8%8D%AF%E8%87%B4%E5%A5%B3%E5%AD%90%E4%B8%AD%E6%AF%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [油性痘痘肌不建议凉水洗脸](https://s.weibo.com/weibo?q=%23%E6%B2%B9%E6%80%A7%E7%97%98%E7%97%98%E8%82%8C%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%87%89%E6%B0%B4%E6%B4%97%E8%84%B8%23&t=31&band_rank=9&Refer=top)<br />
+8. [油性痘痘肌不建议凉水洗脸](https://s.weibo.com/weibo?q=%23%E6%B2%B9%E6%80%A7%E7%97%98%E7%97%98%E8%82%8C%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%87%89%E6%B0%B4%E6%B4%97%E8%84%B8%23&t=31&band_rank=8&Refer=top)<br />
+9. [奶茶店主故意加违禁药致女子中毒](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%BA%97%E4%B8%BB%E6%95%85%E6%84%8F%E5%8A%A0%E8%BF%9D%E7%A6%81%E8%8D%AF%E8%87%B4%E5%A5%B3%E5%AD%90%E4%B8%AD%E6%AF%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [小学食堂吃出鼠头？官方:为兔头唇部](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E9%BC%A0%E5%A4%B4%EF%BC%9F%E5%AE%98%E6%96%B9%3A%E4%B8%BA%E5%85%94%E5%A4%B4%E5%94%87%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多端发力迎接年终消费旺季](https://www.baidu.com/s?wd=%E5%A4%9A%E7%AB%AF%E5%8F%91%E5%8A%9B%E8%BF%8E%E6%8E%A5%E5%B9%B4%E7%BB%88%E6%B6%88%E8%B4%B9%E6%97%BA%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子遇查酒驾要交警说王子请吹一下](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%81%87%E6%9F%A5%E9%85%92%E9%A9%BE%E8%A6%81%E4%BA%A4%E8%AD%A6%E8%AF%B4%E7%8E%8B%E5%AD%90%E8%AF%B7%E5%90%B9%E4%B8%80%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [德瓦梅纳比赛中突发心脏病离世](https://www.baidu.com/s?wd=%E5%BE%B7%E7%93%A6%E6%A2%85%E7%BA%B3%E6%AF%94%E8%B5%9B%E4%B8%AD%E7%AA%81%E5%8F%91%E5%BF%83%E8%84%8F%E7%97%85%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子杀人逃深山 养8只恶犬防身](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E4%BA%BA%E9%80%83%E6%B7%B1%E5%B1%B1+%E5%85%BB8%E5%8F%AA%E6%81%B6%E7%8A%AC%E9%98%B2%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高通与铱星取消合作](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9A%E4%B8%8E%E9%93%B1%E6%98%9F%E5%8F%96%E6%B6%88%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子杀人逃深山 养8只恶犬防身](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E4%BA%BA%E9%80%83%E6%B7%B1%E5%B1%B1+%E5%85%BB8%E5%8F%AA%E6%81%B6%E7%8A%AC%E9%98%B2%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [德瓦梅纳比赛中突发心脏病离世](https://www.baidu.com/s?wd=%E5%BE%B7%E7%93%A6%E6%A2%85%E7%BA%B3%E6%AF%94%E8%B5%9B%E4%B8%AD%E7%AA%81%E5%8F%91%E5%BF%83%E8%84%8F%E7%97%85%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子偷窃后网络销赃买主竟是失主](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E7%AA%83%E5%90%8E%E7%BD%91%E7%BB%9C%E9%94%80%E8%B5%83%E4%B9%B0%E4%B8%BB%E7%AB%9F%E6%98%AF%E5%A4%B1%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州金沙洲工地挖破燃气管道？](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%87%91%E6%B2%99%E6%B4%B2%E5%B7%A5%E5%9C%B0%E6%8C%96%E7%A0%B4%E7%87%83%E6%B0%94%E7%AE%A1%E9%81%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [小学食堂吃出鼠头？官方:为兔头唇部](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E9%BC%A0%E5%A4%B4%EF%BC%9F%E5%AE%98%E6%96%B9%3A%E4%B8%BA%E5%85%94%E5%A4%B4%E5%94%87%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多端发力迎接年终消费旺季](https://www.baidu.com/s?wd=%E5%A4%9A%E7%AB%AF%E5%8F%91%E5%8A%9B%E8%BF%8E%E6%8E%A5%E5%B9%B4%E7%BB%88%E6%B6%88%E8%B4%B9%E6%97%BA%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子遇查酒驾要交警说王子请吹一下](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%81%87%E6%9F%A5%E9%85%92%E9%A9%BE%E8%A6%81%E4%BA%A4%E8%AD%A6%E8%AF%B4%E7%8E%8B%E5%AD%90%E8%AF%B7%E5%90%B9%E4%B8%80%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [德瓦梅纳比赛中突发心脏病离世](https://www.baidu.com/s?wd=%E5%BE%B7%E7%93%A6%E6%A2%85%E7%BA%B3%E6%AF%94%E8%B5%9B%E4%B8%AD%E7%AA%81%E5%8F%91%E5%BF%83%E8%84%8F%E7%97%85%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子杀人逃深山 养8只恶犬防身](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E4%BA%BA%E9%80%83%E6%B7%B1%E5%B1%B1+%E5%85%BB8%E5%8F%AA%E6%81%B6%E7%8A%AC%E9%98%B2%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高通与铱星取消合作](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9A%E4%B8%8E%E9%93%B1%E6%98%9F%E5%8F%96%E6%B6%88%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子杀人逃深山 养8只恶犬防身](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E4%BA%BA%E9%80%83%E6%B7%B1%E5%B1%B1+%E5%85%BB8%E5%8F%AA%E6%81%B6%E7%8A%AC%E9%98%B2%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [德瓦梅纳比赛中突发心脏病离世](https://www.baidu.com/s?wd=%E5%BE%B7%E7%93%A6%E6%A2%85%E7%BA%B3%E6%AF%94%E8%B5%9B%E4%B8%AD%E7%AA%81%E5%8F%91%E5%BF%83%E8%84%8F%E7%97%85%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子偷窃后网络销赃买主竟是失主](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E7%AA%83%E5%90%8E%E7%BD%91%E7%BB%9C%E9%94%80%E8%B5%83%E4%B9%B0%E4%B8%BB%E7%AB%9F%E6%98%AF%E5%A4%B1%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州金沙洲工地挖破燃气管道？](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%87%91%E6%B2%99%E6%B4%B2%E5%B7%A5%E5%9C%B0%E6%8C%96%E7%A0%B4%E7%87%83%E6%B0%94%E7%AE%A1%E9%81%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
