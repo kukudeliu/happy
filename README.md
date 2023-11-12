@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 13:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 13:14:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [多端发力迎接年终消费旺季](https://www.baidu.com/s?wd=%E5%A4%9A%E7%AB%AF%E5%8F%91%E5%8A%9B%E8%BF%8E%E6%8E%A5%E5%B9%B4%E7%BB%88%E6%B6%88%E8%B4%B9%E6%97%BA%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子遇查酒驾要交警说王子请吹一下](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%81%87%E6%9F%A5%E9%85%92%E9%A9%BE%E8%A6%81%E4%BA%A4%E8%AD%A6%E8%AF%B4%E7%8E%8B%E5%AD%90%E8%AF%B7%E5%90%B9%E4%B8%80%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [低价硝烟下天猫京东公布双11成绩](https://www.baidu.com/s?wd=%E4%BD%8E%E4%BB%B7%E7%A1%9D%E7%83%9F%E4%B8%8B%E5%A4%A9%E7%8C%AB%E4%BA%AC%E4%B8%9C%E5%85%AC%E5%B8%83%E5%8F%8C11%E6%88%90%E7%BB%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [四个人凑不出半个恋爱脑](https://www.baidu.com/s?wd=%E5%9B%9B%E4%B8%AA%E4%BA%BA%E5%87%91%E4%B8%8D%E5%87%BA%E5%8D%8A%E4%B8%AA%E6%81%8B%E7%88%B1%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张艺兴演唱会伴舞服装引热议](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BC%B4%E8%88%9E%E6%9C%8D%E8%A3%85%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [老人深山走失30小时被警犬找到](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%B7%B1%E5%B1%B1%E8%B5%B0%E5%A4%B130%E5%B0%8F%E6%97%B6%E8%A2%AB%E8%AD%A6%E7%8A%AC%E6%89%BE%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医生4次冲进火海救出3人](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F4%E6%AC%A1%E5%86%B2%E8%BF%9B%E7%81%AB%E6%B5%B7%E6%95%91%E5%87%BA3%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州金沙洲工地挖破燃气管道？](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%87%91%E6%B2%99%E6%B4%B2%E5%B7%A5%E5%9C%B0%E6%8C%96%E7%A0%B4%E7%87%83%E6%B0%94%E7%AE%A1%E9%81%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [多端发力迎接年终消费旺季](https://www.baidu.com/s?wd=%E5%A4%9A%E7%AB%AF%E5%8F%91%E5%8A%9B%E8%BF%8E%E6%8E%A5%E5%B9%B4%E7%BB%88%E6%B6%88%E8%B4%B9%E6%97%BA%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子遇查酒驾要交警说王子请吹一下](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%81%87%E6%9F%A5%E9%85%92%E9%A9%BE%E8%A6%81%E4%BA%A4%E8%AD%A6%E8%AF%B4%E7%8E%8B%E5%AD%90%E8%AF%B7%E5%90%B9%E4%B8%80%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [低价硝烟下天猫京东公布双11成绩](https://www.baidu.com/s?wd=%E4%BD%8E%E4%BB%B7%E7%A1%9D%E7%83%9F%E4%B8%8B%E5%A4%A9%E7%8C%AB%E4%BA%AC%E4%B8%9C%E5%85%AC%E5%B8%83%E5%8F%8C11%E6%88%90%E7%BB%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [四个人凑不出半个恋爱脑](https://www.baidu.com/s?wd=%E5%9B%9B%E4%B8%AA%E4%BA%BA%E5%87%91%E4%B8%8D%E5%87%BA%E5%8D%8A%E4%B8%AA%E6%81%8B%E7%88%B1%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张艺兴演唱会伴舞服装引热议](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BC%B4%E8%88%9E%E6%9C%8D%E8%A3%85%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [老人深山走失30小时被警犬找到](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%B7%B1%E5%B1%B1%E8%B5%B0%E5%A4%B130%E5%B0%8F%E6%97%B6%E8%A2%AB%E8%AD%A6%E7%8A%AC%E6%89%BE%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医生4次冲进火海救出3人](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F4%E6%AC%A1%E5%86%B2%E8%BF%9B%E7%81%AB%E6%B5%B7%E6%95%91%E5%87%BA3%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州金沙洲工地挖破燃气管道？](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%87%91%E6%B2%99%E6%B4%B2%E5%B7%A5%E5%9C%B0%E6%8C%96%E7%A0%B4%E7%87%83%E6%B0%94%E7%AE%A1%E9%81%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
