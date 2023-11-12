@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 15:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 15:34:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男生电梯内戴面具举玩具刀吓坏住户](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%94%B5%E6%A2%AF%E5%86%85%E6%88%B4%E9%9D%A2%E5%85%B7%E4%B8%BE%E7%8E%A9%E5%85%B7%E5%88%80%E5%90%93%E5%9D%8F%E4%BD%8F%E6%88%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [姑娘为返款边流血边踩椭圆机](https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E4%B8%BA%E8%BF%94%E6%AC%BE%E8%BE%B9%E6%B5%81%E8%A1%80%E8%BE%B9%E8%B8%A9%E6%A4%AD%E5%9C%86%E6%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [功能性美甲](https://s.weibo.com/weibo?q=%E5%8A%9F%E8%83%BD%E6%80%A7%E7%BE%8E%E7%94%B2&t=31&band_rank=7&Refer=top)<br />
-8. [丞磊叫卢昱晓晓晓](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8F%AB%E5%8D%A2%E6%98%B1%E6%99%93%E6%99%93%E6%99%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [黄子韬因身体不适取消广州场演唱会](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9B%A0%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E5%8F%96%E6%B6%88%E5%B9%BF%E5%B7%9E%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
+8. [黄子韬因身体不适取消广州场演唱会](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9B%A0%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E5%8F%96%E6%B6%88%E5%B9%BF%E5%B7%9E%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [丞磊叫卢昱晓晓晓](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8F%AB%E5%8D%A2%E6%98%B1%E6%99%93%E6%99%93%E6%99%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [小学食堂吃出鼠头？官方:为兔头唇部](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E9%BC%A0%E5%A4%B4%EF%BC%9F%E5%AE%98%E6%96%B9%3A%E4%B8%BA%E5%85%94%E5%A4%B4%E5%94%87%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [尘封27年的命案因孩子一句话破了](https://www.baidu.com/s?wd=%E5%B0%98%E5%B0%8127%E5%B9%B4%E7%9A%84%E5%91%BD%E6%A1%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%A0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大闸蟹跌出“白菜价”](https://www.baidu.com/s?wd=%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%B7%8C%E5%87%BA%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子杀人逃深山 养8只恶犬防身](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E4%BA%BA%E9%80%83%E6%B7%B1%E5%B1%B1+%E5%85%BB8%E5%8F%AA%E6%81%B6%E7%8A%AC%E9%98%B2%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [英国首相谴责“亲哈马斯者”](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E8%B0%B4%E8%B4%A3%E2%80%9C%E4%BA%B2%E5%93%88%E9%A9%AC%E6%96%AF%E8%80%85%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州金沙洲工地挖破燃气管道？](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%87%91%E6%B2%99%E6%B4%B2%E5%B7%A5%E5%9C%B0%E6%8C%96%E7%A0%B4%E7%87%83%E6%B0%94%E7%AE%A1%E9%81%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [小学食堂吃出鼠头？官方:为兔头唇部](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%90%83%E5%87%BA%E9%BC%A0%E5%A4%B4%EF%BC%9F%E5%AE%98%E6%96%B9%3A%E4%B8%BA%E5%85%94%E5%A4%B4%E5%94%87%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [尘封27年的命案因孩子一句话破了](https://www.baidu.com/s?wd=%E5%B0%98%E5%B0%8127%E5%B9%B4%E7%9A%84%E5%91%BD%E6%A1%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%A0%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大闸蟹跌出“白菜价”](https://www.baidu.com/s?wd=%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%B7%8C%E5%87%BA%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子杀人逃深山 养8只恶犬防身](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E4%BA%BA%E9%80%83%E6%B7%B1%E5%B1%B1+%E5%85%BB8%E5%8F%AA%E6%81%B6%E7%8A%AC%E9%98%B2%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [英国首相谴责“亲哈马斯者”](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E8%B0%B4%E8%B4%A3%E2%80%9C%E4%BA%B2%E5%93%88%E9%A9%AC%E6%96%AF%E8%80%85%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州金沙洲工地挖破燃气管道？](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%87%91%E6%B2%99%E6%B4%B2%E5%B7%A5%E5%9C%B0%E6%8C%96%E7%A0%B4%E7%87%83%E6%B0%94%E7%AE%A1%E9%81%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
