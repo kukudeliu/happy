@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 22:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 22:25:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [高铁列车过站自带特效](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%88%97%E8%BD%A6%E8%BF%87%E7%AB%99%E8%87%AA%E5%B8%A6%E7%89%B9%E6%95%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [T1晋级S13总决赛](https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S13%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=4&Refer=top)<br />
 5. [陈乔恩 和身边的朋友渐行渐远](https://s.weibo.com/weibo?q=%E9%99%88%E4%B9%94%E6%81%A9%20%E5%92%8C%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%9C&t=31&band_rank=5&Refer=top)<br />
-6. [红米发文道歉](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%B1%B3%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [WBG赢了血赚输了不亏](https://s.weibo.com/weibo?q=WBG%E8%B5%A2%E4%BA%86%E8%A1%80%E8%B5%9A%E8%BE%93%E4%BA%86%E4%B8%8D%E4%BA%8F&t=31&band_rank=7&Refer=top)<br />
+6. [WBG赢了血赚输了不亏](https://s.weibo.com/weibo?q=WBG%E8%B5%A2%E4%BA%86%E8%A1%80%E8%B5%9A%E8%BE%93%E4%BA%86%E4%B8%8D%E4%BA%8F&t=31&band_rank=6&Refer=top)<br />
+7. [红米发文道歉](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%B1%B3%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [张译马面裙](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E9%A9%AC%E9%9D%A2%E8%A3%99%23&t=31&band_rank=8&Refer=top)<br />
 9. [儿媳为带公婆吃自助撒谎只要10元](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AA%B3%E4%B8%BA%E5%B8%A6%E5%85%AC%E5%A9%86%E5%90%83%E8%87%AA%E5%8A%A9%E6%92%92%E8%B0%8E%E5%8F%AA%E8%A6%8110%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
