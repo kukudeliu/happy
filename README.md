@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 20:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 20:30:01</h4></div>
 
 > 微博  
 
 1. [T1晋级S13总决赛](https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S13%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=1&Refer=top)<br />
-2. [WBG决赛对战T1](https://s.weibo.com/weibo?q=%23WBG%E5%86%B3%E8%B5%9B%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=2&Refer=top)<br />
+2. [冰岛宣布进入紧急状态](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=2&Refer=top)<br />
 3. [双11当天全国揽收快递6.39亿件](https://s.weibo.com/weibo?q=%23%E5%8F%8C11%E5%BD%93%E5%A4%A9%E5%85%A8%E5%9B%BD%E6%8F%BD%E6%94%B6%E5%BF%AB%E9%80%926.39%E4%BA%BF%E4%BB%B6%23&t=31&band_rank=3&Refer=top)<br />
-4. [冰岛宣布进入紧急状态](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=4&Refer=top)<br />
+4. [WBG决赛对战T1](https://s.weibo.com/weibo?q=%23WBG%E5%86%B3%E8%B5%9B%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=4&Refer=top)<br />
 5. [张译马面裙](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E9%A9%AC%E9%9D%A2%E8%A3%99%23&t=31&band_rank=5&Refer=top)<br />
 6. [压力给到WBG](https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0WBG%23&t=31&band_rank=6&Refer=top)<br />
 7. [快进到相信TheShy](https://s.weibo.com/weibo?q=%E5%BF%AB%E8%BF%9B%E5%88%B0%E7%9B%B8%E4%BF%A1TheShy&t=31&band_rank=7&Refer=top)<br />
