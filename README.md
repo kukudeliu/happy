@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 17:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 17:14:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [大闸蟹跌出“白菜价”](https://www.baidu.com/s?wd=%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%B7%8C%E5%87%BA%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [在菲被绑架的6名中国人遗体疑被发现](https://www.baidu.com/s?wd=%E5%9C%A8%E8%8F%B2%E8%A2%AB%E7%BB%91%E6%9E%B6%E7%9A%846%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%81%97%E4%BD%93%E7%96%91%E8%A2%AB%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [民进党高官被曝聚众淫乱](https://www.baidu.com/s?wd=%E6%B0%91%E8%BF%9B%E5%85%9A%E9%AB%98%E5%AE%98%E8%A2%AB%E6%9B%9D%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医学生堆心脏大脑等器官造型雪人](https://www.baidu.com/s?wd=%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%A0%86%E5%BF%83%E8%84%8F%E5%A4%A7%E8%84%91%E7%AD%89%E5%99%A8%E5%AE%98%E9%80%A0%E5%9E%8B%E9%9B%AA%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子申请强执12万获赔1600只鹅](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%B3%E8%AF%B7%E5%BC%BA%E6%89%A712%E4%B8%87%E8%8E%B7%E8%B5%941600%E5%8F%AA%E9%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州金沙洲工地挖破燃气管道？](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%87%91%E6%B2%99%E6%B4%B2%E5%B7%A5%E5%9C%B0%E6%8C%96%E7%A0%B4%E7%87%83%E6%B0%94%E7%AE%A1%E9%81%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [大闸蟹跌出“白菜价”](https://www.baidu.com/s?wd=%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%B7%8C%E5%87%BA%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [在菲被绑架的6名中国人遗体疑被发现](https://www.baidu.com/s?wd=%E5%9C%A8%E8%8F%B2%E8%A2%AB%E7%BB%91%E6%9E%B6%E7%9A%846%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%81%97%E4%BD%93%E7%96%91%E8%A2%AB%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [民进党高官被曝聚众淫乱](https://www.baidu.com/s?wd=%E6%B0%91%E8%BF%9B%E5%85%9A%E9%AB%98%E5%AE%98%E8%A2%AB%E6%9B%9D%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医学生堆心脏大脑等器官造型雪人](https://www.baidu.com/s?wd=%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%A0%86%E5%BF%83%E8%84%8F%E5%A4%A7%E8%84%91%E7%AD%89%E5%99%A8%E5%AE%98%E9%80%A0%E5%9E%8B%E9%9B%AA%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子申请强执12万获赔1600只鹅](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%B3%E8%AF%B7%E5%BC%BA%E6%89%A712%E4%B8%87%E8%8E%B7%E8%B5%941600%E5%8F%AA%E9%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州金沙洲工地挖破燃气管道？](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E9%87%91%E6%B2%99%E6%B4%B2%E5%B7%A5%E5%9C%B0%E6%8C%96%E7%A0%B4%E7%87%83%E6%B0%94%E7%AE%A1%E9%81%93%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
