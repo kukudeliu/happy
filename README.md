@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 09:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-12 09:32:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [民警怒斥缅北没抓到你是吧](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E6%80%92%E6%96%A5%E7%BC%85%E5%8C%97%E6%B2%A1%E6%8A%93%E5%88%B0%E4%BD%A0%E6%98%AF%E5%90%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [校长强奸猥亵22名学生事发学校已撤并](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E9%95%BF%E5%BC%BA%E5%A5%B8%E7%8C%A5%E4%BA%B522%E5%90%8D%E5%AD%A6%E7%94%9F%E4%BA%8B%E5%8F%91%E5%AD%A6%E6%A0%A1%E5%B7%B2%E6%92%A4%E5%B9%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [闲置太久的皮衣就不要穿了](https://s.weibo.com/weibo?q=%23%E9%97%B2%E7%BD%AE%E5%A4%AA%E4%B9%85%E7%9A%84%E7%9A%AE%E8%A1%A3%E5%B0%B1%E4%B8%8D%E8%A6%81%E7%A9%BF%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [14岁女儿连夜报警称父母被骗卖房](https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%A5%B3%E5%84%BF%E8%BF%9E%E5%A4%9C%E6%8A%A5%E8%AD%A6%E7%A7%B0%E7%88%B6%E6%AF%8D%E8%A2%AB%E9%AA%97%E5%8D%96%E6%88%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [父亲开17.5米长货车接女儿拉1个行李箱](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%BC%8017.5%E7%B1%B3%E9%95%BF%E8%B4%A7%E8%BD%A6%E6%8E%A5%E5%A5%B3%E5%84%BF%E6%8B%891%E4%B8%AA%E8%A1%8C%E6%9D%8E%E7%AE%B1%23&t=31&band_rank=9&Refer=top)<br />
+8. [裸门](https://s.weibo.com/weibo?q=%E8%A3%B8%E9%97%A8&t=31&band_rank=8&Refer=top)<br />
+9. [14岁女儿连夜报警称父母被骗卖房](https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%A5%B3%E5%84%BF%E8%BF%9E%E5%A4%9C%E6%8A%A5%E8%AD%A6%E7%A7%B0%E7%88%B6%E6%AF%8D%E8%A2%AB%E9%AA%97%E5%8D%96%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
