@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 18:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 18:18:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [双十一快递包裹坐上高铁了](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E5%BF%AB%E9%80%92%E5%8C%85%E8%A3%B9%E5%9D%90%E4%B8%8A%E9%AB%98%E9%93%81%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [1020事件](https://s.weibo.com/weibo?q=1020%E4%BA%8B%E4%BB%B6&t=31&band_rank=4&Refer=top)<br />
 5. [11岁男生用编程讲历史获全国一等奖](https://s.weibo.com/weibo?q=%2311%E5%B2%81%E7%94%B7%E7%94%9F%E7%94%A8%E7%BC%96%E7%A8%8B%E8%AE%B2%E5%8E%86%E5%8F%B2%E8%8E%B7%E5%85%A8%E5%9B%BD%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=5&Refer=top)<br />
-6. [被正式确诊为衣领综合征](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E8%A1%A3%E9%A2%86%E7%BB%BC%E5%90%88%E5%BE%81%23&t=31&band_rank=6&Refer=top)<br />
+6. [加沙北部所有医院均停止服务](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8%E6%89%80%E6%9C%89%E5%8C%BB%E9%99%A2%E5%9D%87%E5%81%9C%E6%AD%A2%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [秋天的九寨沟是色彩的交点](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%98%AF%E8%89%B2%E5%BD%A9%E7%9A%84%E4%BA%A4%E7%82%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [如果WBG夺冠我就](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9CWBG%E5%A4%BA%E5%86%A0%E6%88%91%E5%B0%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [李佳琦的双11相当于打工人10万年](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9A%84%E5%8F%8C11%E7%9B%B8%E5%BD%93%E4%BA%8E%E6%89%93%E5%B7%A5%E4%BA%BA10%E4%B8%87%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
+8. [李佳琦的双11相当于打工人10万年](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9A%84%E5%8F%8C11%E7%9B%B8%E5%BD%93%E4%BA%8E%E6%89%93%E5%B7%A5%E4%BA%BA10%E4%B8%87%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
+9. [如果WBG夺冠我就](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9CWBG%E5%A4%BA%E5%86%A0%E6%88%91%E5%B0%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [官方回应原区长在湖上餐厅落水溺亡](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8E%9F%E5%8C%BA%E9%95%BF%E5%9C%A8%E6%B9%96%E4%B8%8A%E9%A4%90%E5%8E%85%E8%90%BD%E6%B0%B4%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [阿里回应多款应用崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [NASA拍到地球“凝视幽灵”地貌](https://www.baidu.com/s?wd=NASA%E6%8B%8D%E5%88%B0%E5%9C%B0%E7%90%83%E2%80%9C%E5%87%9D%E8%A7%86%E5%B9%BD%E7%81%B5%E2%80%9D%E5%9C%B0%E8%B2%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [官方回应原区长在湖上餐厅落水溺亡](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8E%9F%E5%8C%BA%E9%95%BF%E5%9C%A8%E6%B9%96%E4%B8%8A%E9%A4%90%E5%8E%85%E8%90%BD%E6%B0%B4%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [阿里回应多款应用崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [NASA拍到地球“凝视幽灵”地貌](https://www.baidu.com/s?wd=NASA%E6%8B%8D%E5%88%B0%E5%9C%B0%E7%90%83%E2%80%9C%E5%87%9D%E8%A7%86%E5%B9%BD%E7%81%B5%E2%80%9D%E5%9C%B0%E8%B2%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
