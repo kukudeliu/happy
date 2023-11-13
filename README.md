@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 13:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 13:21:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [54岁教授吃饭太认真带火冷门专业](https://www.baidu.com/s?wd=54%E5%B2%81%E6%95%99%E6%8E%88%E5%90%83%E9%A5%AD%E5%A4%AA%E8%AE%A4%E7%9C%9F%E5%B8%A6%E7%81%AB%E5%86%B7%E9%97%A8%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [当一位博士生成为主播](https://www.baidu.com/s?wd=%E5%BD%93%E4%B8%80%E4%BD%8D%E5%8D%9A%E5%A3%AB%E7%94%9F%E6%88%90%E4%B8%BA%E4%B8%BB%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国银河证券澄清合并重组传闻](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%93%B6%E6%B2%B3%E8%AF%81%E5%88%B8%E6%BE%84%E6%B8%85%E5%90%88%E5%B9%B6%E9%87%8D%E7%BB%84%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李佳琦团队否认双11收入250亿](https://www.baidu.com/s?wd=%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9B%A2%E9%98%9F%E5%90%A6%E8%AE%A4%E5%8F%8C11%E6%94%B6%E5%85%A5250%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [54岁教授吃饭太认真带火冷门专业](https://www.baidu.com/s?wd=54%E5%B2%81%E6%95%99%E6%8E%88%E5%90%83%E9%A5%AD%E5%A4%AA%E8%AE%A4%E7%9C%9F%E5%B8%A6%E7%81%AB%E5%86%B7%E9%97%A8%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [当一位博士生成为主播](https://www.baidu.com/s?wd=%E5%BD%93%E4%B8%80%E4%BD%8D%E5%8D%9A%E5%A3%AB%E7%94%9F%E6%88%90%E4%B8%BA%E4%B8%BB%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国银河证券澄清合并重组传闻](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%93%B6%E6%B2%B3%E8%AF%81%E5%88%B8%E6%BE%84%E6%B8%85%E5%90%88%E5%B9%B6%E9%87%8D%E7%BB%84%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [李佳琦团队否认双11收入250亿](https://www.baidu.com/s?wd=%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9B%A2%E9%98%9F%E5%90%A6%E8%AE%A4%E5%8F%8C11%E6%94%B6%E5%85%A5250%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
