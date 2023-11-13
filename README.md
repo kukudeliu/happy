@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 03:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 03:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [网友吐槽政务大厅全天工作6个小时](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E4%B8%AA%E5%B0%8F%E6%97%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [南航白菜价机票尴尬了谁](https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E7%99%BD%E8%8F%9C%E4%BB%B7%E6%9C%BA%E7%A5%A8%E5%B0%B4%E5%B0%AC%E4%BA%86%E8%B0%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [柳智敏打歌时发现衣服上有针](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E6%89%93%E6%AD%8C%E6%97%B6%E5%8F%91%E7%8E%B0%E8%A1%A3%E6%9C%8D%E4%B8%8A%E6%9C%89%E9%92%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [iPhone15双11最后两小时降价](https://s.weibo.com/weibo?q=%23iPhone15%E5%8F%8C11%E6%9C%80%E5%90%8E%E4%B8%A4%E5%B0%8F%E6%97%B6%E9%99%8D%E4%BB%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [4岁娃凌晨街头挨冻代驾小哥果断调头](https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A8%83%E5%87%8C%E6%99%A8%E8%A1%97%E5%A4%B4%E6%8C%A8%E5%86%BB%E4%BB%A3%E9%A9%BE%E5%B0%8F%E5%93%A5%E6%9E%9C%E6%96%AD%E8%B0%83%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
