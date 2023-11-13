@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 07:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 07:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [苹果公司将禁止摇一摇跳转广告](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%86%E7%A6%81%E6%AD%A2%E6%91%87%E4%B8%80%E6%91%87%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [4岁娃凌晨街头挨冻代驾小哥果断调头](https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A8%83%E5%87%8C%E6%99%A8%E8%A1%97%E5%A4%B4%E6%8C%A8%E5%86%BB%E4%BB%A3%E9%A9%BE%E5%B0%8F%E5%93%A5%E6%9E%9C%E6%96%AD%E8%B0%83%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [雪莉生前纪录片完整版公开](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E8%8E%89%E7%94%9F%E5%89%8D%E7%BA%AA%E5%BD%95%E7%89%87%E5%AE%8C%E6%95%B4%E7%89%88%E5%85%AC%E5%BC%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [妻子被推出产房丈夫献花并深情亲吻](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%8E%A8%E5%87%BA%E4%BA%A7%E6%88%BF%E4%B8%88%E5%A4%AB%E7%8C%AE%E8%8A%B1%E5%B9%B6%E6%B7%B1%E6%83%85%E4%BA%B2%E5%90%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [防胃癌这5种要少吃不吃](https://s.weibo.com/weibo?q=%23%E9%98%B2%E8%83%83%E7%99%8C%E8%BF%995%E7%A7%8D%E8%A6%81%E5%B0%91%E5%90%83%E4%B8%8D%E5%90%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
