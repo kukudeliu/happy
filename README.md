@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 00:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 00:24:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [女生失业被妈妈雇佣当司机 日薪20元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%A4%B1%E4%B8%9A%E8%A2%AB%E5%A6%88%E5%A6%88%E9%9B%87%E4%BD%A3%E5%BD%93%E5%8F%B8%E6%9C%BA+%E6%97%A5%E8%96%AA20%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [向“新”而行折射中国经济新活力](https://www.baidu.com/s?wd=%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E8%80%8C%E8%A1%8C%E6%8A%98%E5%B0%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [交个朋友回应副总裁涉嫌违法](https://www.baidu.com/s?wd=%E4%BA%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B%E5%9B%9E%E5%BA%94%E5%89%AF%E6%80%BB%E8%A3%81%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [湖南一苗寨附近起火 木房被烧](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E8%8B%97%E5%AF%A8%E9%99%84%E8%BF%91%E8%B5%B7%E7%81%AB+%E6%9C%A8%E6%88%BF%E8%A2%AB%E7%83%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙江千亿富豪遭实名举报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%8D%83%E4%BA%BF%E5%AF%8C%E8%B1%AA%E9%81%AD%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [官方回应铲车将垃圾推进长江](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%93%B2%E8%BD%A6%E5%B0%86%E5%9E%83%E5%9C%BE%E6%8E%A8%E8%BF%9B%E9%95%BF%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [斗破苍穹首部电影定档](https://www.baidu.com/s?wd=%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9%E9%A6%96%E9%83%A8%E7%94%B5%E5%BD%B1%E5%AE%9A%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“强砍槐树”事件谁该为损失买单](https://www.baidu.com/s?wd=%E2%80%9C%E5%BC%BA%E7%A0%8D%E6%A7%90%E6%A0%91%E2%80%9D%E4%BA%8B%E4%BB%B6%E8%B0%81%E8%AF%A5%E4%B8%BA%E6%8D%9F%E5%A4%B1%E4%B9%B0%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [女生失业被妈妈雇佣当司机 日薪20元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%A4%B1%E4%B8%9A%E8%A2%AB%E5%A6%88%E5%A6%88%E9%9B%87%E4%BD%A3%E5%BD%93%E5%8F%B8%E6%9C%BA+%E6%97%A5%E8%96%AA20%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [向“新”而行折射中国经济新活力](https://www.baidu.com/s?wd=%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E8%80%8C%E8%A1%8C%E6%8A%98%E5%B0%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [交个朋友回应副总裁涉嫌违法](https://www.baidu.com/s?wd=%E4%BA%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B%E5%9B%9E%E5%BA%94%E5%89%AF%E6%80%BB%E8%A3%81%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [湖南一苗寨附近起火 木房被烧](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E8%8B%97%E5%AF%A8%E9%99%84%E8%BF%91%E8%B5%B7%E7%81%AB+%E6%9C%A8%E6%88%BF%E8%A2%AB%E7%83%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙江千亿富豪遭实名举报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%8D%83%E4%BA%BF%E5%AF%8C%E8%B1%AA%E9%81%AD%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [官方回应铲车将垃圾推进长江](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%93%B2%E8%BD%A6%E5%B0%86%E5%9E%83%E5%9C%BE%E6%8E%A8%E8%BF%9B%E9%95%BF%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [斗破苍穹首部电影定档](https://www.baidu.com/s?wd=%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9%E9%A6%96%E9%83%A8%E7%94%B5%E5%BD%B1%E5%AE%9A%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“强砍槐树”事件谁该为损失买单](https://www.baidu.com/s?wd=%E2%80%9C%E5%BC%BA%E7%A0%8D%E6%A7%90%E6%A0%91%E2%80%9D%E4%BA%8B%E4%BB%B6%E8%B0%81%E8%AF%A5%E4%B8%BA%E6%8D%9F%E5%A4%B1%E4%B9%B0%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
