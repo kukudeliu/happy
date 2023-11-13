@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 19:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 19:25:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [双十一快递包裹坐上高铁了](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E5%BF%AB%E9%80%92%E5%8C%85%E8%A3%B9%E5%9D%90%E4%B8%8A%E9%AB%98%E9%93%81%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [雪莉生前纪录片完整版公开](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E8%8E%89%E7%94%9F%E5%89%8D%E7%BA%AA%E5%BD%95%E7%89%87%E5%AE%8C%E6%95%B4%E7%89%88%E5%85%AC%E5%BC%80%23&t=31&band_rank=4&Refer=top)<br />
 5. [瘫痪妈妈摔倒孩子多次尝试扶上轮椅](https://s.weibo.com/weibo?q=%23%E7%98%AB%E7%97%AA%E5%A6%88%E5%A6%88%E6%91%94%E5%80%92%E5%AD%A9%E5%AD%90%E5%A4%9A%E6%AC%A1%E5%B0%9D%E8%AF%95%E6%89%B6%E4%B8%8A%E8%BD%AE%E6%A4%85%23&t=31&band_rank=5&Refer=top)<br />
-6. [阿奇霉素对病毒感染是无效的](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0%E5%AF%B9%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E6%98%AF%E6%97%A0%E6%95%88%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
+6. [肯德基崩了](https://s.weibo.com/weibo?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B4%A9%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [秋天的九寨沟是色彩的交点](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%98%AF%E8%89%B2%E5%BD%A9%E7%9A%84%E4%BA%A4%E7%82%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [肯德基崩了](https://s.weibo.com/weibo?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B4%A9%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+8. [阿奇霉素对病毒感染是无效的](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0%E5%AF%B9%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E6%98%AF%E6%97%A0%E6%95%88%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
 9. [加沙北部所有医院均停止服务](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8%E6%89%80%E6%9C%89%E5%8C%BB%E9%99%A2%E5%9D%87%E5%81%9C%E6%AD%A2%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
