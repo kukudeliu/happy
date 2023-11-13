@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 19:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 19:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [何猷君 小金土豆](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E5%B0%8F%E9%87%91%E5%9C%9F%E8%B1%86&t=31&band_rank=6&Refer=top)<br />
 7. [秋天的九寨沟是色彩的交点](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%98%AF%E8%89%B2%E5%BD%A9%E7%9A%84%E4%BA%A4%E7%82%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈楚生发文告别披荆斩棘](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [肯德基崩了](https://s.weibo.com/weibo?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [英前首相卡梅伦被任命为外交大臣](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%89%8D%E9%A6%96%E7%9B%B8%E5%8D%A1%E6%A2%85%E4%BC%A6%E8%A2%AB%E4%BB%BB%E5%91%BD%E4%B8%BA%E5%A4%96%E4%BA%A4%E5%A4%A7%E8%87%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,7 +21,7 @@
 2. [多国爆发臭虫危机 民众不敢去电影院](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E8%87%AD%E8%99%AB%E5%8D%B1%E6%9C%BA+%E6%B0%91%E4%BC%97%E4%B8%8D%E6%95%A2%E5%8E%BB%E7%94%B5%E5%BD%B1%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [江苏：课间10分钟“清空教室”](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%EF%BC%9A%E8%AF%BE%E9%97%B410%E5%88%86%E9%92%9F%E2%80%9C%E6%B8%85%E7%A9%BA%E6%95%99%E5%AE%A4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国秋粮收获过九成半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%87%E4%B9%9D%E6%88%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [多家银行存款利率下调](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E4%B8%8B%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [200亿短剧生意 越土越暴利](https://www.baidu.com/s?wd=200%E4%BA%BF%E7%9F%AD%E5%89%A7%E7%94%9F%E6%84%8F+%E8%B6%8A%E5%9C%9F%E8%B6%8A%E6%9A%B4%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [智能手机或将于2050年退场](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E6%88%96%E5%B0%86%E4%BA%8E2050%E5%B9%B4%E9%80%80%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [多国爆发臭虫危机 民众不敢去电影院](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E8%87%AD%E8%99%AB%E5%8D%B1%E6%9C%BA+%E6%B0%91%E4%BC%97%E4%B8%8D%E6%95%A2%E5%8E%BB%E7%94%B5%E5%BD%B1%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [江苏：课间10分钟“清空教室”](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%EF%BC%9A%E8%AF%BE%E9%97%B410%E5%88%86%E9%92%9F%E2%80%9C%E6%B8%85%E7%A9%BA%E6%95%99%E5%AE%A4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国秋粮收获过九成半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%87%E4%B9%9D%E6%88%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [多家银行存款利率下调](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E4%B8%8B%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [200亿短剧生意 越土越暴利](https://www.baidu.com/s?wd=200%E4%BA%BF%E7%9F%AD%E5%89%A7%E7%94%9F%E6%84%8F+%E8%B6%8A%E5%9C%9F%E8%B6%8A%E6%9A%B4%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [智能手机或将于2050年退场](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E6%88%96%E5%B0%86%E4%BA%8E2050%E5%B9%B4%E9%80%80%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
