@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 02:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 02:39:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [智能手机或将于2050年退场](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E6%88%96%E5%B0%86%E4%BA%8E2050%E5%B9%B4%E9%80%80%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [清华女博士毕业做占星师月入3万](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%81%9A%E5%8D%A0%E6%98%9F%E5%B8%88%E6%9C%88%E5%85%A53%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙江千亿富豪遭实名举报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%8D%83%E4%BA%BF%E5%AF%8C%E8%B1%AA%E9%81%AD%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [平台回应“评论区有人疑贩卖儿童”](https://www.baidu.com/s?wd=%E5%B9%B3%E5%8F%B0%E5%9B%9E%E5%BA%94%E2%80%9C%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%9C%89%E4%BA%BA%E7%96%91%E8%B4%A9%E5%8D%96%E5%84%BF%E7%AB%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [智能手机或将于2050年退场](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E6%88%96%E5%B0%86%E4%BA%8E2050%E5%B9%B4%E9%80%80%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [清华女博士毕业做占星师月入3万](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%81%9A%E5%8D%A0%E6%98%9F%E5%B8%88%E6%9C%88%E5%85%A53%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙江千亿富豪遭实名举报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%8D%83%E4%BA%BF%E5%AF%8C%E8%B1%AA%E9%81%AD%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [平台回应“评论区有人疑贩卖儿童”](https://www.baidu.com/s?wd=%E5%B9%B3%E5%8F%B0%E5%9B%9E%E5%BA%94%E2%80%9C%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%9C%89%E4%BA%BA%E7%96%91%E8%B4%A9%E5%8D%96%E5%84%BF%E7%AB%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
