@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 19:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 19:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [加沙北部所有医院均停止服务](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8%E6%89%80%E6%9C%89%E5%8C%BB%E9%99%A2%E5%9D%87%E5%81%9C%E6%AD%A2%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [秋天的九寨沟是色彩的交点](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%98%AF%E8%89%B2%E5%BD%A9%E7%9A%84%E4%BA%A4%E7%82%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [阿奇霉素对病毒感染是无效的](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0%E5%AF%B9%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E6%98%AF%E6%97%A0%E6%95%88%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [虞书欣温峥嵘永夜星河二搭](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B3%E4%BA%8C%E6%90%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [以爱为营豆瓣评分4.8分](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%864.8%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [江苏：课间10分钟“清空教室”](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%EF%BC%9A%E8%AF%BE%E9%97%B410%E5%88%86%E9%92%9F%E2%80%9C%E6%B8%85%E7%A9%BA%E6%95%99%E5%AE%A4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国秋粮收获过九成半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%87%E4%B9%9D%E6%88%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多家银行存款利率下调](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E4%B8%8B%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [李佳琦的双11相当于打工人10万年](https://www.baidu.com/s?wd=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9A%84%E5%8F%8C11%E7%9B%B8%E5%BD%93%E4%BA%8E%E6%89%93%E5%B7%A5%E4%BA%BA10%E4%B8%87%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多国爆发臭虫危机 民众不敢去电影院](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E8%87%AD%E8%99%AB%E5%8D%B1%E6%9C%BA+%E6%B0%91%E4%BC%97%E4%B8%8D%E6%95%A2%E5%8E%BB%E7%94%B5%E5%BD%B1%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [智能手机或将于2050年退场](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E6%88%96%E5%B0%86%E4%BA%8E2050%E5%B9%B4%E9%80%80%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [多国爆发臭虫危机 民众不敢去电影院](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E8%87%AD%E8%99%AB%E5%8D%B1%E6%9C%BA+%E6%B0%91%E4%BC%97%E4%B8%8D%E6%95%A2%E5%8E%BB%E7%94%B5%E5%BD%B1%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [智能手机或将于2050年退场](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E6%88%96%E5%B0%86%E4%BA%8E2050%E5%B9%B4%E9%80%80%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [54岁教授吃饭太认真带火冷门专业](https://www.baidu.com/s?wd=54%E5%B2%81%E6%95%99%E6%8E%88%E5%90%83%E9%A5%AD%E5%A4%AA%E8%AE%A4%E7%9C%9F%E5%B8%A6%E7%81%AB%E5%86%B7%E9%97%A8%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [江苏：课间10分钟“清空教室”](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%EF%BC%9A%E8%AF%BE%E9%97%B410%E5%88%86%E9%92%9F%E2%80%9C%E6%B8%85%E7%A9%BA%E6%95%99%E5%AE%A4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国秋粮收获过九成半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%87%E4%B9%9D%E6%88%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多家银行存款利率下调](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E4%B8%8B%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [李佳琦的双11相当于打工人10万年](https://www.baidu.com/s?wd=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9A%84%E5%8F%8C11%E7%9B%B8%E5%BD%93%E4%BA%8E%E6%89%93%E5%B7%A5%E4%BA%BA10%E4%B8%87%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多国爆发臭虫危机 民众不敢去电影院](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E8%87%AD%E8%99%AB%E5%8D%B1%E6%9C%BA+%E6%B0%91%E4%BC%97%E4%B8%8D%E6%95%A2%E5%8E%BB%E7%94%B5%E5%BD%B1%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [智能手机或将于2050年退场](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E6%88%96%E5%B0%86%E4%BA%8E2050%E5%B9%B4%E9%80%80%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [多国爆发臭虫危机 民众不敢去电影院](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E8%87%AD%E8%99%AB%E5%8D%B1%E6%9C%BA+%E6%B0%91%E4%BC%97%E4%B8%8D%E6%95%A2%E5%8E%BB%E7%94%B5%E5%BD%B1%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [智能手机或将于2050年退场](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E6%88%96%E5%B0%86%E4%BA%8E2050%E5%B9%B4%E9%80%80%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [54岁教授吃饭太认真带火冷门专业](https://www.baidu.com/s?wd=54%E5%B2%81%E6%95%99%E6%8E%88%E5%90%83%E9%A5%AD%E5%A4%AA%E8%AE%A4%E7%9C%9F%E5%B8%A6%E7%81%AB%E5%86%B7%E9%97%A8%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
