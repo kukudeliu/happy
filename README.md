@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 19:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 19:35:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [瘫痪妈妈摔倒孩子多次尝试扶上轮椅](https://s.weibo.com/weibo?q=%23%E7%98%AB%E7%97%AA%E5%A6%88%E5%A6%88%E6%91%94%E5%80%92%E5%AD%A9%E5%AD%90%E5%A4%9A%E6%AC%A1%E5%B0%9D%E8%AF%95%E6%89%B6%E4%B8%8A%E8%BD%AE%E6%A4%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [肯德基崩了](https://s.weibo.com/weibo?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B4%A9%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [秋天的九寨沟是色彩的交点](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%98%AF%E8%89%B2%E5%BD%A9%E7%9A%84%E4%BA%A4%E7%82%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [阿奇霉素对病毒感染是无效的](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0%E5%AF%B9%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E6%98%AF%E6%97%A0%E6%95%88%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [英前首相卡梅伦被任命为外交大臣](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%89%8D%E9%A6%96%E7%9B%B8%E5%8D%A1%E6%A2%85%E4%BC%A6%E8%A2%AB%E4%BB%BB%E5%91%BD%E4%B8%BA%E5%A4%96%E4%BA%A4%E5%A4%A7%E8%87%A3%23&t=31&band_rank=9&Refer=top)<br />
+8. [英前首相卡梅伦被任命为外交大臣](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%89%8D%E9%A6%96%E7%9B%B8%E5%8D%A1%E6%A2%85%E4%BC%A6%E8%A2%AB%E4%BB%BB%E5%91%BD%E4%B8%BA%E5%A4%96%E4%BA%A4%E5%A4%A7%E8%87%A3%23&t=31&band_rank=8&Refer=top)<br />
+9. [陈楚生发文告别披荆斩棘](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
