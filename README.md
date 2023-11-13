@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 10:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 10:26:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [雪天8大健康提醒](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E5%A4%A98%E5%A4%A7%E5%81%A5%E5%BA%B7%E6%8F%90%E9%86%92%23&t=31&band_rank=3&Refer=top)<br />
 4. [爸爸通过监控显摆生日吃12个菜](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E9%80%9A%E8%BF%87%E7%9B%91%E6%8E%A7%E6%98%BE%E6%91%86%E7%94%9F%E6%97%A5%E5%90%8312%E4%B8%AA%E8%8F%9C%23&t=31&band_rank=4&Refer=top)<br />
 5. [韩国中小学也开始流行萝卜刀](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%AD%E5%B0%8F%E5%AD%A6%E4%B9%9F%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E8%90%9D%E5%8D%9C%E5%88%80%23&t=31&band_rank=5&Refer=top)<br />
-6. [洗完头发后要立马吹干吗](https://s.weibo.com/weibo?q=%E6%B4%97%E5%AE%8C%E5%A4%B4%E5%8F%91%E5%90%8E%E8%A6%81%E7%AB%8B%E9%A9%AC%E5%90%B9%E5%B9%B2%E5%90%97&t=31&band_rank=6&Refer=top)<br />
-7. [广西大学回应院长信箱对着摄像头](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E9%99%A2%E9%95%BF%E4%BF%A1%E7%AE%B1%E5%AF%B9%E7%9D%80%E6%91%84%E5%83%8F%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
+6. [广西大学回应院长信箱对着摄像头](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E9%99%A2%E9%95%BF%E4%BF%A1%E7%AE%B1%E5%AF%B9%E7%9D%80%E6%91%84%E5%83%8F%E5%A4%B4%23&t=31&band_rank=6&Refer=top)<br />
+7. [洗完头发后要立马吹干吗](https://s.weibo.com/weibo?q=%E6%B4%97%E5%AE%8C%E5%A4%B4%E5%8F%91%E5%90%8E%E8%A6%81%E7%AB%8B%E9%A9%AC%E5%90%B9%E5%B9%B2%E5%90%97&t=31&band_rank=7&Refer=top)<br />
 8. [李佳琦双11首日销售额占比降到四分之一](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%8F%8C11%E9%A6%96%E6%97%A5%E9%94%80%E5%94%AE%E9%A2%9D%E5%8D%A0%E6%AF%94%E9%99%8D%E5%88%B0%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%23&t=31&band_rank=8&Refer=top)<br />
 9. [1名中国人被越南判处死刑](https://s.weibo.com/weibo?q=%231%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%B6%8A%E5%8D%97%E5%88%A4%E5%A4%84%E6%AD%BB%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
 
