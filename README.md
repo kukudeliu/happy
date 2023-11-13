@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 20:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 20:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [罐车气体泄漏男子关阀门时意外发生](https://s.weibo.com/weibo?q=%23%E7%BD%90%E8%BD%A6%E6%B0%94%E4%BD%93%E6%B3%84%E6%BC%8F%E7%94%B7%E5%AD%90%E5%85%B3%E9%98%80%E9%97%A8%E6%97%B6%E6%84%8F%E5%A4%96%E5%8F%91%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [卧床休息是养肝的最好方法](https://s.weibo.com/weibo?q=%23%E5%8D%A7%E5%BA%8A%E4%BC%91%E6%81%AF%E6%98%AF%E5%85%BB%E8%82%9D%E7%9A%84%E6%9C%80%E5%A5%BD%E6%96%B9%E6%B3%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [女生最无声的炫富是什么](https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E6%9C%80%E6%97%A0%E5%A3%B0%E7%9A%84%E7%82%AB%E5%AF%8C%E6%98%AF%E4%BB%80%E4%B9%88&t=31&band_rank=8&Refer=top)<br />
-9. [英前首相卡梅伦被任命为外交大臣](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%89%8D%E9%A6%96%E7%9B%B8%E5%8D%A1%E6%A2%85%E4%BC%A6%E8%A2%AB%E4%BB%BB%E5%91%BD%E4%B8%BA%E5%A4%96%E4%BA%A4%E5%A4%A7%E8%87%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [肯豆超短羽绒服](https://s.weibo.com/weibo?q=%E8%82%AF%E8%B1%86%E8%B6%85%E7%9F%AD%E7%BE%BD%E7%BB%92%E6%9C%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [开放是世界繁荣发展的必由之路](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E6%98%AF%E4%B8%96%E7%95%8C%E7%B9%81%E8%8D%A3%E5%8F%91%E5%B1%95%E7%9A%84%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [200亿短剧生意 越土越暴利](https://www.baidu.com/s?wd=200%E4%BA%BF%E7%9F%AD%E5%89%A7%E7%94%9F%E6%84%8F+%E8%B6%8A%E5%9C%9F%E8%B6%8A%E6%9A%B4%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [55个品牌被移出中华老字号](https://www.baidu.com/s?wd=55%E4%B8%AA%E5%93%81%E7%89%8C%E8%A2%AB%E7%A7%BB%E5%87%BA%E4%B8%AD%E5%8D%8E%E8%80%81%E5%AD%97%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [江苏：课间10分钟“清空教室”](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%EF%BC%9A%E8%AF%BE%E9%97%B410%E5%88%86%E9%92%9F%E2%80%9C%E6%B8%85%E7%A9%BA%E6%95%99%E5%AE%A4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国秋粮收获过九成半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%87%E4%B9%9D%E6%88%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [55个品牌被移出中华老字号](https://www.baidu.com/s?wd=55%E4%B8%AA%E5%93%81%E7%89%8C%E8%A2%AB%E7%A7%BB%E5%87%BA%E4%B8%AD%E5%8D%8E%E8%80%81%E5%AD%97%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [山东一学校学生集体上吐下泻?](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [交个朋友回应副总裁涉嫌违法](https://www.baidu.com/s?wd=%E4%BA%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B%E5%9B%9E%E5%BA%94%E5%89%AF%E6%80%BB%E8%A3%81%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [山东一学校学生集体上吐下泻?](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [交个朋友回应副总裁涉嫌违法](https://www.baidu.com/s?wd=%E4%BA%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B%E5%9B%9E%E5%BA%94%E5%89%AF%E6%80%BB%E8%A3%81%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [父亲65岁生日儿子通过监控送祝福](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B265%E5%B2%81%E7%94%9F%E6%97%A5%E5%84%BF%E5%AD%90%E9%80%9A%E8%BF%87%E7%9B%91%E6%8E%A7%E9%80%81%E7%A5%9D%E7%A6%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [开放是世界繁荣发展的必由之路](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E6%98%AF%E4%B8%96%E7%95%8C%E7%B9%81%E8%8D%A3%E5%8F%91%E5%B1%95%E7%9A%84%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [200亿短剧生意 越土越暴利](https://www.baidu.com/s?wd=200%E4%BA%BF%E7%9F%AD%E5%89%A7%E7%94%9F%E6%84%8F+%E8%B6%8A%E5%9C%9F%E8%B6%8A%E6%9A%B4%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [55个品牌被移出中华老字号](https://www.baidu.com/s?wd=55%E4%B8%AA%E5%93%81%E7%89%8C%E8%A2%AB%E7%A7%BB%E5%87%BA%E4%B8%AD%E5%8D%8E%E8%80%81%E5%AD%97%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [江苏：课间10分钟“清空教室”](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%EF%BC%9A%E8%AF%BE%E9%97%B410%E5%88%86%E9%92%9F%E2%80%9C%E6%B8%85%E7%A9%BA%E6%95%99%E5%AE%A4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国秋粮收获过九成半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%87%E4%B9%9D%E6%88%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [55个品牌被移出中华老字号](https://www.baidu.com/s?wd=55%E4%B8%AA%E5%93%81%E7%89%8C%E8%A2%AB%E7%A7%BB%E5%87%BA%E4%B8%AD%E5%8D%8E%E8%80%81%E5%AD%97%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [山东一学校学生集体上吐下泻?](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [交个朋友回应副总裁涉嫌违法](https://www.baidu.com/s?wd=%E4%BA%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B%E5%9B%9E%E5%BA%94%E5%89%AF%E6%80%BB%E8%A3%81%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [山东一学校学生集体上吐下泻?](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [交个朋友回应副总裁涉嫌违法](https://www.baidu.com/s?wd=%E4%BA%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B%E5%9B%9E%E5%BA%94%E5%89%AF%E6%80%BB%E8%A3%81%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [父亲65岁生日儿子通过监控送祝福](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B265%E5%B2%81%E7%94%9F%E6%97%A5%E5%84%BF%E5%AD%90%E9%80%9A%E8%BF%87%E7%9B%91%E6%8E%A7%E9%80%81%E7%A5%9D%E7%A6%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
