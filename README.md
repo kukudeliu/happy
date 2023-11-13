@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 19:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 19:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [何猷君 小金土豆](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E5%B0%8F%E9%87%91%E5%9C%9F%E8%B1%86&t=31&band_rank=6&Refer=top)<br />
 7. [秋天的九寨沟是色彩的交点](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%98%AF%E8%89%B2%E5%BD%A9%E7%9A%84%E4%BA%A4%E7%82%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈楚生发文告别披荆斩棘](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [英前首相卡梅伦被任命为外交大臣](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%89%8D%E9%A6%96%E7%9B%B8%E5%8D%A1%E6%A2%85%E4%BC%A6%E8%A2%AB%E4%BB%BB%E5%91%BD%E4%B8%BA%E5%A4%96%E4%BA%A4%E5%A4%A7%E8%87%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [缅北电诈头目明学昌年轻时惯于偷抢](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E6%98%8E%E5%AD%A6%E6%98%8C%E5%B9%B4%E8%BD%BB%E6%97%B6%E6%83%AF%E4%BA%8E%E5%81%B7%E6%8A%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
