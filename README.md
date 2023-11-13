@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 08:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 08:31:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [雪天8大健康提醒](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E5%A4%A98%E5%A4%A7%E5%81%A5%E5%BA%B7%E6%8F%90%E9%86%92%23&t=31&band_rank=3&Refer=top)<br />
 4. [1名中国人被越南判处死刑](https://s.weibo.com/weibo?q=%231%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%B6%8A%E5%8D%97%E5%88%A4%E5%A4%84%E6%AD%BB%E5%88%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [Faker拒绝做弱爆动作](https://s.weibo.com/weibo?q=%23Faker%E6%8B%92%E7%BB%9D%E5%81%9A%E5%BC%B1%E7%88%86%E5%8A%A8%E4%BD%9C%23&t=31&band_rank=5&Refer=top)<br />
-6. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=6&Refer=top)<br />
-7. [冰岛24小时内1400次地震](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B24%E5%B0%8F%E6%97%B6%E5%86%851400%E6%AC%A1%E5%9C%B0%E9%9C%87%23&t=31&band_rank=7&Refer=top)<br />
+6. [冰岛24小时内1400次地震](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B24%E5%B0%8F%E6%97%B6%E5%86%851400%E6%AC%A1%E5%9C%B0%E9%9C%87%23&t=31&band_rank=6&Refer=top)<br />
+7. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=7&Refer=top)<br />
 8. [冰岛宣布进入紧急状态](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=8&Refer=top)<br />
 9. [浙江一大妈买海鱼红烧后半夜发绿光](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E5%A4%A7%E5%A6%88%E4%B9%B0%E6%B5%B7%E9%B1%BC%E7%BA%A2%E7%83%A7%E5%90%8E%E5%8D%8A%E5%A4%9C%E5%8F%91%E7%BB%BF%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
 
