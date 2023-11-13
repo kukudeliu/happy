@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 00:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 00:44:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [手把手教你跨省看病怎么走医保](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E8%B7%A8%E7%9C%81%E7%9C%8B%E7%97%85%E6%80%8E%E4%B9%88%E8%B5%B0%E5%8C%BB%E4%BF%9D%23&t=31&band_rank=3&Refer=top)<br />
 4. [在何猷君身上看到了生理性喜欢的样子](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%BD%95%E7%8C%B7%E5%90%9B%E8%BA%AB%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BA%86%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [网友吐槽政务大厅全天工作6个小时](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E4%B8%AA%E5%B0%8F%E6%97%B6%23&t=31&band_rank=5&Refer=top)<br />
-6. [柳智敏打歌时发现衣服上有针](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E6%89%93%E6%AD%8C%E6%97%B6%E5%8F%91%E7%8E%B0%E8%A1%A3%E6%9C%8D%E4%B8%8A%E6%9C%89%E9%92%88%23&t=31&band_rank=6&Refer=top)<br />
-7. [苹果公司将禁止摇一摇跳转广告](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%86%E7%A6%81%E6%AD%A2%E6%91%87%E4%B8%80%E6%91%87%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%23&t=31&band_rank=7&Refer=top)<br />
+6. [苹果公司将禁止摇一摇跳转广告](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%86%E7%A6%81%E6%AD%A2%E6%91%87%E4%B8%80%E6%91%87%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%23&t=31&band_rank=6&Refer=top)<br />
+7. [柳智敏打歌时发现衣服上有针](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E6%89%93%E6%AD%8C%E6%97%B6%E5%8F%91%E7%8E%B0%E8%A1%A3%E6%9C%8D%E4%B8%8A%E6%9C%89%E9%92%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [这是烤冷面那我吃的是什么](https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E7%83%A4%E5%86%B7%E9%9D%A2%E9%82%A3%E6%88%91%E5%90%83%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88&t=31&band_rank=8&Refer=top)<br />
 9. [绝迹](https://s.weibo.com/weibo?q=%E7%BB%9D%E8%BF%B9&t=31&band_rank=9&Refer=top)<br />
 
@@ -22,9 +22,9 @@
 3. [女生失业被妈妈雇佣当司机 日薪20元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%A4%B1%E4%B8%9A%E8%A2%AB%E5%A6%88%E5%A6%88%E9%9B%87%E4%BD%A3%E5%BD%93%E5%8F%B8%E6%9C%BA+%E6%97%A5%E8%96%AA20%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [向“新”而行折射中国经济新活力](https://www.baidu.com/s?wd=%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E8%80%8C%E8%A1%8C%E6%8A%98%E5%B0%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [河北一罐车疑气体泄漏车顶直接爆开](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E7%BD%90%E8%BD%A6%E7%96%91%E6%B0%94%E4%BD%93%E6%B3%84%E6%BC%8F%E8%BD%A6%E9%A1%B6%E7%9B%B4%E6%8E%A5%E7%88%86%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [双11涉诈快递在派出所院里摆一地](https://www.baidu.com/s?wd=%E5%8F%8C11%E6%B6%89%E8%AF%88%E5%BF%AB%E9%80%92%E5%9C%A8%E6%B4%BE%E5%87%BA%E6%89%80%E9%99%A2%E9%87%8C%E6%91%86%E4%B8%80%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [央行上海总部谈下调存量房贷](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E4%B8%8A%E6%B5%B7%E6%80%BB%E9%83%A8%E8%B0%88%E4%B8%8B%E8%B0%83%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美军在叙利亚基地遭15枚火箭弹袭击](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%9C%A8%E5%8F%99%E5%88%A9%E4%BA%9A%E5%9F%BA%E5%9C%B0%E9%81%AD15%E6%9E%9A%E7%81%AB%E7%AE%AD%E5%BC%B9%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [河南南阳一火车起火？多方回应](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%8D%97%E9%98%B3%E4%B8%80%E7%81%AB%E8%BD%A6%E8%B5%B7%E7%81%AB%EF%BC%9F%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小男孩拼尽全力扶瘫痪妈妈上轮椅](https://www.baidu.com/s?wd=%E5%B0%8F%E7%94%B7%E5%AD%A9%E6%8B%BC%E5%B0%BD%E5%85%A8%E5%8A%9B%E6%89%B6%E7%98%AB%E7%97%AA%E5%A6%88%E5%A6%88%E4%B8%8A%E8%BD%AE%E6%A4%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [女生失业被妈妈雇佣当司机 日薪20元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%A4%B1%E4%B8%9A%E8%A2%AB%E5%A6%88%E5%A6%88%E9%9B%87%E4%BD%A3%E5%BD%93%E5%8F%B8%E6%9C%BA+%E6%97%A5%E8%96%AA20%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [向“新”而行折射中国经济新活力](https://www.baidu.com/s?wd=%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E8%80%8C%E8%A1%8C%E6%8A%98%E5%B0%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [河北一罐车疑气体泄漏车顶直接爆开](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E7%BD%90%E8%BD%A6%E7%96%91%E6%B0%94%E4%BD%93%E6%B3%84%E6%BC%8F%E8%BD%A6%E9%A1%B6%E7%9B%B4%E6%8E%A5%E7%88%86%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [双11涉诈快递在派出所院里摆一地](https://www.baidu.com/s?wd=%E5%8F%8C11%E6%B6%89%E8%AF%88%E5%BF%AB%E9%80%92%E5%9C%A8%E6%B4%BE%E5%87%BA%E6%89%80%E9%99%A2%E9%87%8C%E6%91%86%E4%B8%80%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [央行上海总部谈下调存量房贷](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E4%B8%8A%E6%B5%B7%E6%80%BB%E9%83%A8%E8%B0%88%E4%B8%8B%E8%B0%83%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美军在叙利亚基地遭15枚火箭弹袭击](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%9C%A8%E5%8F%99%E5%88%A9%E4%BA%9A%E5%9F%BA%E5%9C%B0%E9%81%AD15%E6%9E%9A%E7%81%AB%E7%AE%AD%E5%BC%B9%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [河南南阳一火车起火？多方回应](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%8D%97%E9%98%B3%E4%B8%80%E7%81%AB%E8%BD%A6%E8%B5%B7%E7%81%AB%EF%BC%9F%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小男孩拼尽全力扶瘫痪妈妈上轮椅](https://www.baidu.com/s?wd=%E5%B0%8F%E7%94%B7%E5%AD%A9%E6%8B%BC%E5%B0%BD%E5%85%A8%E5%8A%9B%E6%89%B6%E7%98%AB%E7%97%AA%E5%A6%88%E5%A6%88%E4%B8%8A%E8%BD%AE%E6%A4%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
