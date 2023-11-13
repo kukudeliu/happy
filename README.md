@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 09:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 09:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [1名中国人被越南判处死刑](https://s.weibo.com/weibo?q=%231%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%B6%8A%E5%8D%97%E5%88%A4%E5%A4%84%E6%AD%BB%E5%88%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [南方气温将再下一个台阶](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E6%B0%94%E6%B8%A9%E5%B0%86%E5%86%8D%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8F%B0%E9%98%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [Faker拒绝做弱爆动作](https://s.weibo.com/weibo?q=%23Faker%E6%8B%92%E7%BB%9D%E5%81%9A%E5%BC%B1%E7%88%86%E5%8A%A8%E4%BD%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=9&Refer=top)<br />
+9. [T1晋级S13总决赛](https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S13%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
