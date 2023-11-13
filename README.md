@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 12:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 12:24:01</h4></div>
 
 > 微博  
 
-1. [李佳琦团队回应双11收入250亿](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9B%A2%E9%98%9F%E5%9B%9E%E5%BA%94%E5%8F%8C11%E6%94%B6%E5%85%A5250%E4%BA%BF%23&t=31&band_rank=1&Refer=top)<br />
-2. [日本部分居民血检异常](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%83%A8%E5%88%86%E5%B1%85%E6%B0%91%E8%A1%80%E6%A3%80%E5%BC%82%E5%B8%B8%23&t=31&band_rank=2&Refer=top)<br />
+1. [日本部分居民血检异常](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%83%A8%E5%88%86%E5%B1%85%E6%B0%91%E8%A1%80%E6%A3%80%E5%BC%82%E5%B8%B8%23&t=31&band_rank=1&Refer=top)<br />
+2. [李佳琦团队回应双11收入250亿](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9B%A2%E9%98%9F%E5%9B%9E%E5%BA%94%E5%8F%8C11%E6%94%B6%E5%85%A5250%E4%BA%BF%23&t=31&band_rank=2&Refer=top)<br />
 3. [雪龙2号遇落难外国渔船一整个打包救下](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E9%BE%992%E5%8F%B7%E9%81%87%E8%90%BD%E9%9A%BE%E5%A4%96%E5%9B%BD%E6%B8%94%E8%88%B9%E4%B8%80%E6%95%B4%E4%B8%AA%E6%89%93%E5%8C%85%E6%95%91%E4%B8%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [熊雪被开除党籍](https://s.weibo.com/weibo?q=%23%E7%86%8A%E9%9B%AA%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23&t=31&band_rank=4&Refer=top)<br />
 5. [缅北电诈头目录制忏悔视频](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E5%BD%95%E5%88%B6%E5%BF%8F%E6%82%94%E8%A7%86%E9%A2%91%23&t=31&band_rank=5&Refer=top)<br />
