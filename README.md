@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 10:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 10:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩国中小学也开始流行萝卜刀](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%AD%E5%B0%8F%E5%AD%A6%E4%B9%9F%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E8%90%9D%E5%8D%9C%E5%88%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [1名中国人被越南判处死刑](https://s.weibo.com/weibo?q=%231%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%B6%8A%E5%8D%97%E5%88%A4%E5%A4%84%E6%AD%BB%E5%88%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [Faker拒绝做弱爆动作](https://s.weibo.com/weibo?q=%23Faker%E6%8B%92%E7%BB%9D%E5%81%9A%E5%BC%B1%E7%88%86%E5%8A%A8%E4%BD%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [cityline崩了](https://s.weibo.com/weibo?q=cityline%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [广西大学回应院长信箱对着摄像头](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E9%99%A2%E9%95%BF%E4%BF%A1%E7%AE%B1%E5%AF%B9%E7%9D%80%E6%91%84%E5%83%8F%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
