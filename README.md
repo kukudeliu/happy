@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 00:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 00:58:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [在何猷君身上看到了生理性喜欢的样子](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%BD%95%E7%8C%B7%E5%90%9B%E8%BA%AB%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BA%86%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [网友吐槽政务大厅全天工作6个小时](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E4%B8%AA%E5%B0%8F%E6%97%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [苹果公司将禁止摇一摇跳转广告](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%86%E7%A6%81%E6%AD%A2%E6%91%87%E4%B8%80%E6%91%87%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%23&t=31&band_rank=6&Refer=top)<br />
-7. [柳智敏打歌时发现衣服上有针](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E6%89%93%E6%AD%8C%E6%97%B6%E5%8F%91%E7%8E%B0%E8%A1%A3%E6%9C%8D%E4%B8%8A%E6%9C%89%E9%92%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [这是烤冷面那我吃的是什么](https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E7%83%A4%E5%86%B7%E9%9D%A2%E9%82%A3%E6%88%91%E5%90%83%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88&t=31&band_rank=8&Refer=top)<br />
+7. [这是烤冷面那我吃的是什么](https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E7%83%A4%E5%86%B7%E9%9D%A2%E9%82%A3%E6%88%91%E5%90%83%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88&t=31&band_rank=7&Refer=top)<br />
+8. [柳智敏打歌时发现衣服上有针](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E6%89%93%E6%AD%8C%E6%97%B6%E5%8F%91%E7%8E%B0%E8%A1%A3%E6%9C%8D%E4%B8%8A%E6%9C%89%E9%92%88%23&t=31&band_rank=8&Refer=top)<br />
 9. [绝迹](https://s.weibo.com/weibo?q=%E7%BB%9D%E8%BF%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [游客打车遇e人司机：公举请上车](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%89%93%E8%BD%A6%E9%81%87e%E4%BA%BA%E5%8F%B8%E6%9C%BA%EF%BC%9A%E5%85%AC%E4%B8%BE%E8%AF%B7%E4%B8%8A%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [200亿短剧生意 越土越暴利](https://www.baidu.com/s?wd=200%E4%BA%BF%E7%9F%AD%E5%89%A7%E7%94%9F%E6%84%8F+%E8%B6%8A%E5%9C%9F%E8%B6%8A%E6%9A%B4%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子玉米地死亡 警方：酒后冻死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%8E%89%E7%B1%B3%E5%9C%B0%E6%AD%BB%E4%BA%A1+%E8%AD%A6%E6%96%B9%EF%BC%9A%E9%85%92%E5%90%8E%E5%86%BB%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [德善和狗焕现实也be了](https://www.baidu.com/s?wd=%E5%BE%B7%E5%96%84%E5%92%8C%E7%8B%97%E7%84%95%E7%8E%B0%E5%AE%9E%E4%B9%9Fbe%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [游客打车遇e人司机：公举请上车](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%89%93%E8%BD%A6%E9%81%87e%E4%BA%BA%E5%8F%B8%E6%9C%BA%EF%BC%9A%E5%85%AC%E4%B8%BE%E8%AF%B7%E4%B8%8A%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [200亿短剧生意 越土越暴利](https://www.baidu.com/s?wd=200%E4%BA%BF%E7%9F%AD%E5%89%A7%E7%94%9F%E6%84%8F+%E8%B6%8A%E5%9C%9F%E8%B6%8A%E6%9A%B4%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子玉米地死亡 警方：酒后冻死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%8E%89%E7%B1%B3%E5%9C%B0%E6%AD%BB%E4%BA%A1+%E8%AD%A6%E6%96%B9%EF%BC%9A%E9%85%92%E5%90%8E%E5%86%BB%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [德善和狗焕现实也be了](https://www.baidu.com/s?wd=%E5%BE%B7%E5%96%84%E5%92%8C%E7%8B%97%E7%84%95%E7%8E%B0%E5%AE%9E%E4%B9%9Fbe%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
