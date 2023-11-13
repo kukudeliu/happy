@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 03:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 03:18:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [河南南阳一火车起火？多方回应](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%8D%97%E9%98%B3%E4%B8%80%E7%81%AB%E8%BD%A6%E8%B5%B7%E7%81%AB%EF%BC%9F%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小男孩拼尽全力扶瘫痪妈妈上轮椅](https://www.baidu.com/s?wd=%E5%B0%8F%E7%94%B7%E5%AD%A9%E6%8B%BC%E5%B0%BD%E5%85%A8%E5%8A%9B%E6%89%B6%E7%98%AB%E7%97%AA%E5%A6%88%E5%A6%88%E4%B8%8A%E8%BD%AE%E6%A4%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙江千亿富豪遭实名举报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%8D%83%E4%BA%BF%E5%AF%8C%E8%B1%AA%E9%81%AD%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [清华女博士毕业做占星师月入3万](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%81%9A%E5%8D%A0%E6%98%9F%E5%B8%88%E6%9C%88%E5%85%A53%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [河南南阳一火车起火？多方回应](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%8D%97%E9%98%B3%E4%B8%80%E7%81%AB%E8%BD%A6%E8%B5%B7%E7%81%AB%EF%BC%9F%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小男孩拼尽全力扶瘫痪妈妈上轮椅](https://www.baidu.com/s?wd=%E5%B0%8F%E7%94%B7%E5%AD%A9%E6%8B%BC%E5%B0%BD%E5%85%A8%E5%8A%9B%E6%89%B6%E7%98%AB%E7%97%AA%E5%A6%88%E5%A6%88%E4%B8%8A%E8%BD%AE%E6%A4%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙江千亿富豪遭实名举报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%8D%83%E4%BA%BF%E5%AF%8C%E8%B1%AA%E9%81%AD%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [清华女博士毕业做占星师月入3万](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%81%9A%E5%8D%A0%E6%98%9F%E5%B8%88%E6%9C%88%E5%85%A53%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
