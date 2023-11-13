@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 11:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 11:33:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [爸爸通过监控显摆生日吃12个菜](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E9%80%9A%E8%BF%87%E7%9B%91%E6%8E%A7%E6%98%BE%E6%91%86%E7%94%9F%E6%97%A5%E5%90%8312%E4%B8%AA%E8%8F%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [54岁教授吃饭太认真带火冷门专业](https://s.weibo.com/weibo?q=%2354%E5%B2%81%E6%95%99%E6%8E%88%E5%90%83%E9%A5%AD%E5%A4%AA%E8%AE%A4%E7%9C%9F%E5%B8%A6%E7%81%AB%E5%86%B7%E9%97%A8%E4%B8%93%E4%B8%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [我来甘露寺只做一件事](https://s.weibo.com/weibo?q=%23%E6%88%91%E6%9D%A5%E7%94%98%E9%9C%B2%E5%AF%BA%E5%8F%AA%E5%81%9A%E4%B8%80%E4%BB%B6%E4%BA%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [奔跑吧生态篇官宣](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E7%94%9F%E6%80%81%E7%AF%87%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [你能接受恋人有亲密恐惧症吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E6%81%8B%E4%BA%BA%E6%9C%89%E4%BA%B2%E5%AF%86%E6%81%90%E6%83%A7%E7%97%87%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [你能接受恋人有亲密恐惧症吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E6%81%8B%E4%BA%BA%E6%9C%89%E4%BA%B2%E5%AF%86%E6%81%90%E6%83%A7%E7%97%87%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [奔跑吧生态篇官宣](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E7%94%9F%E6%80%81%E7%AF%87%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
