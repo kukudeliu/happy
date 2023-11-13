@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 16:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 16:07:01</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 
 > 百度  
 
-1. [深情的牵挂](https://www.baidu.com/s?wd=%E6%B7%B1%E6%83%85%E7%9A%84%E7%89%B5%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [开放是世界繁荣发展的必由之路](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E6%98%AF%E4%B8%96%E7%95%8C%E7%B9%81%E8%8D%A3%E5%8F%91%E5%B1%95%E7%9A%84%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [缅北四大家族成员喊话家人放中国人](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E6%88%90%E5%91%98%E5%96%8A%E8%AF%9D%E5%AE%B6%E4%BA%BA%E6%94%BE%E4%B8%AD%E5%9B%BD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [感受中美经贸合作的真实脉动](https://www.baidu.com/s?wd=%E6%84%9F%E5%8F%97%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C%E7%9A%84%E7%9C%9F%E5%AE%9E%E8%84%89%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [全国秋粮收获过九成半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%87%E4%B9%9D%E6%88%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [官方回应原区长在湖上餐厅落水溺亡](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8E%9F%E5%8C%BA%E9%95%BF%E5%9C%A8%E6%B9%96%E4%B8%8A%E9%A4%90%E5%8E%85%E8%90%BD%E6%B0%B4%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多国爆发臭虫危机 民众不敢去电影院](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E8%87%AD%E8%99%AB%E5%8D%B1%E6%9C%BA+%E6%B0%91%E4%BC%97%E4%B8%8D%E6%95%A2%E5%8E%BB%E7%94%B5%E5%BD%B1%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [德善和狗焕现实也be了](https://www.baidu.com/s?wd=%E5%BE%B7%E5%96%84%E5%92%8C%E7%8B%97%E7%84%95%E7%8E%B0%E5%AE%9E%E4%B9%9Fbe%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,10 +29,10 @@
 
 > 哔哩哔哩  
 
-1. [深情的牵挂](https://www.baidu.com/s?wd=%E6%B7%B1%E6%83%85%E7%9A%84%E7%89%B5%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [开放是世界繁荣发展的必由之路](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E6%98%AF%E4%B8%96%E7%95%8C%E7%B9%81%E8%8D%A3%E5%8F%91%E5%B1%95%E7%9A%84%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [缅北四大家族成员喊话家人放中国人](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E6%88%90%E5%91%98%E5%96%8A%E8%AF%9D%E5%AE%B6%E4%BA%BA%E6%94%BE%E4%B8%AD%E5%9B%BD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [感受中美经贸合作的真实脉动](https://www.baidu.com/s?wd=%E6%84%9F%E5%8F%97%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C%E7%9A%84%E7%9C%9F%E5%AE%9E%E8%84%89%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [全国秋粮收获过九成半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%87%E4%B9%9D%E6%88%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [官方回应原区长在湖上餐厅落水溺亡](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8E%9F%E5%8C%BA%E9%95%BF%E5%9C%A8%E6%B9%96%E4%B8%8A%E9%A4%90%E5%8E%85%E8%90%BD%E6%B0%B4%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多国爆发臭虫危机 民众不敢去电影院](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E8%87%AD%E8%99%AB%E5%8D%B1%E6%9C%BA+%E6%B0%91%E4%BC%97%E4%B8%8D%E6%95%A2%E5%8E%BB%E7%94%B5%E5%BD%B1%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [德善和狗焕现实也be了](https://www.baidu.com/s?wd=%E5%BE%B7%E5%96%84%E5%92%8C%E7%8B%97%E7%84%95%E7%8E%B0%E5%AE%9E%E4%B9%9Fbe%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
