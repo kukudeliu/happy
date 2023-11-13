@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 21:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 21:48:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [55个品牌被移出中华老字号](https://s.weibo.com/weibo?q=%2355%E4%B8%AA%E5%93%81%E7%89%8C%E8%A2%AB%E7%A7%BB%E5%87%BA%E4%B8%AD%E5%8D%8E%E8%80%81%E5%AD%97%E5%8F%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [爱奇艺尖叫之夜完整版名单](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%AE%8C%E6%95%B4%E7%89%88%E5%90%8D%E5%8D%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [iPhone15双11最后两小时降价](https://s.weibo.com/weibo?q=%23iPhone15%E5%8F%8C11%E6%9C%80%E5%90%8E%E4%B8%A4%E5%B0%8F%E6%97%B6%E9%99%8D%E4%BB%B7%23&t=31&band_rank=6&Refer=top)<br />
-7. [清华女博士毕业做占星师月入3万](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%81%9A%E5%8D%A0%E6%98%9F%E5%B8%88%E6%9C%88%E5%85%A53%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [宁安如梦歹毒运镜加一](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E6%AD%B9%E6%AF%92%E8%BF%90%E9%95%9C%E5%8A%A0%E4%B8%80%23&t=31&band_rank=8&Refer=top)<br />
+7. [宁安如梦歹毒运镜加一](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E6%AD%B9%E6%AF%92%E8%BF%90%E9%95%9C%E5%8A%A0%E4%B8%80%23&t=31&band_rank=7&Refer=top)<br />
+8. [清华女博士毕业做占星师月入3万](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%81%9A%E5%8D%A0%E6%98%9F%E5%B8%88%E6%9C%88%E5%85%A53%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [喜欢上班的有福了](https://s.weibo.com/weibo?q=%E5%96%9C%E6%AC%A2%E4%B8%8A%E7%8F%AD%E7%9A%84%E6%9C%89%E7%A6%8F%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
