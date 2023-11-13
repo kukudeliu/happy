@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 14:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 14:43:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大冰笑话](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%86%B0%E7%AC%91%E8%AF%9D&t=31&band_rank=6&Refer=top)<br />
 7. [为什么哭久了会一抽一抽的](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%93%AD%E4%B9%85%E4%BA%86%E4%BC%9A%E4%B8%80%E6%8A%BD%E4%B8%80%E6%8A%BD%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
 8. [爸爸通过监控显摆生日吃12个菜](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E9%80%9A%E8%BF%87%E7%9B%91%E6%8E%A7%E6%98%BE%E6%91%86%E7%94%9F%E6%97%A5%E5%90%8312%E4%B8%AA%E8%8F%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [冰岛频繁地震导致大地出现裂痕](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B%E9%A2%91%E7%B9%81%E5%9C%B0%E9%9C%87%E5%AF%BC%E8%87%B4%E5%A4%A7%E5%9C%B0%E5%87%BA%E7%8E%B0%E8%A3%82%E7%97%95%23&t=31&band_rank=9&Refer=top)<br />
+9. [韩国警方承认没有权志龙吸毒物证](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%AD%A6%E6%96%B9%E6%89%BF%E8%AE%A4%E6%B2%A1%E6%9C%89%E6%9D%83%E5%BF%97%E9%BE%99%E5%90%B8%E6%AF%92%E7%89%A9%E8%AF%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
