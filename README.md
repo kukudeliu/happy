@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 08:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 09:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Faker拒绝做弱爆动作](https://s.weibo.com/weibo?q=%23Faker%E6%8B%92%E7%BB%9D%E5%81%9A%E5%BC%B1%E7%88%86%E5%8A%A8%E4%BD%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [冰岛24小时内1400次地震](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B24%E5%B0%8F%E6%97%B6%E5%86%851400%E6%AC%A1%E5%9C%B0%E9%9C%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=8&Refer=top)<br />
-9. [冰岛宣布进入紧急状态](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [T1晋级S13总决赛](https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S13%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
