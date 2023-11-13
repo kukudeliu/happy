@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 18:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 18:09:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [多国爆发臭虫危机 民众不敢去电影院](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E8%87%AD%E8%99%AB%E5%8D%B1%E6%9C%BA+%E6%B0%91%E4%BC%97%E4%B8%8D%E6%95%A2%E5%8E%BB%E7%94%B5%E5%BD%B1%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国秋粮收获过九成半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%87%E4%B9%9D%E6%88%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [官方回应原区长在湖上餐厅落水溺亡](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8E%9F%E5%8C%BA%E9%95%BF%E5%9C%A8%E6%B9%96%E4%B8%8A%E9%A4%90%E5%8E%85%E8%90%BD%E6%B0%B4%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [54岁教授吃饭太认真带火冷门专业](https://www.baidu.com/s?wd=54%E5%B2%81%E6%95%99%E6%8E%88%E5%90%83%E9%A5%AD%E5%A4%AA%E8%AE%A4%E7%9C%9F%E5%B8%A6%E7%81%AB%E5%86%B7%E9%97%A8%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张译拒签《狂飙》实体书](https://www.baidu.com/s?wd=%E5%BC%A0%E8%AF%91%E6%8B%92%E7%AD%BE%E3%80%8A%E7%8B%82%E9%A3%99%E3%80%8B%E5%AE%9E%E4%BD%93%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [外交部：反对以竞争定义中美关系](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%8F%8D%E5%AF%B9%E4%BB%A5%E7%AB%9E%E4%BA%89%E5%AE%9A%E4%B9%89%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [阿里回应多款应用崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [多国爆发臭虫危机 民众不敢去电影院](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E8%87%AD%E8%99%AB%E5%8D%B1%E6%9C%BA+%E6%B0%91%E4%BC%97%E4%B8%8D%E6%95%A2%E5%8E%BB%E7%94%B5%E5%BD%B1%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国秋粮收获过九成半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%87%E4%B9%9D%E6%88%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [官方回应原区长在湖上餐厅落水溺亡](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8E%9F%E5%8C%BA%E9%95%BF%E5%9C%A8%E6%B9%96%E4%B8%8A%E9%A4%90%E5%8E%85%E8%90%BD%E6%B0%B4%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [54岁教授吃饭太认真带火冷门专业](https://www.baidu.com/s?wd=54%E5%B2%81%E6%95%99%E6%8E%88%E5%90%83%E9%A5%AD%E5%A4%AA%E8%AE%A4%E7%9C%9F%E5%B8%A6%E7%81%AB%E5%86%B7%E9%97%A8%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张译拒签《狂飙》实体书](https://www.baidu.com/s?wd=%E5%BC%A0%E8%AF%91%E6%8B%92%E7%AD%BE%E3%80%8A%E7%8B%82%E9%A3%99%E3%80%8B%E5%AE%9E%E4%BD%93%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [外交部：反对以竞争定义中美关系](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%8F%8D%E5%AF%B9%E4%BB%A5%E7%AB%9E%E4%BA%89%E5%AE%9A%E4%B9%89%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [阿里回应多款应用崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
