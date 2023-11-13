@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 18:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 18:37:01</h4></div>
 
 > 微博  
 
 1. [肯德基崩了](https://s.weibo.com/weibo?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B4%A9%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
 2. [瘫痪妈妈摔倒孩子多次尝试扶上轮椅](https://s.weibo.com/weibo?q=%23%E7%98%AB%E7%97%AA%E5%A6%88%E5%A6%88%E6%91%94%E5%80%92%E5%AD%A9%E5%AD%90%E5%A4%9A%E6%AC%A1%E5%B0%9D%E8%AF%95%E6%89%B6%E4%B8%8A%E8%BD%AE%E6%A4%85%23&t=31&band_rank=2&Refer=top)<br />
 3. [双十一快递包裹坐上高铁了](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E5%BF%AB%E9%80%92%E5%8C%85%E8%A3%B9%E5%9D%90%E4%B8%8A%E9%AB%98%E9%93%81%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [李佳琦的双11相当于打工人10万年](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9A%84%E5%8F%8C11%E7%9B%B8%E5%BD%93%E4%BA%8E%E6%89%93%E5%B7%A5%E4%BA%BA10%E4%B8%87%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
+4. [以爱为营豆瓣评分4.8分](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%864.8%E5%88%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [11岁男生用编程讲历史获全国一等奖](https://s.weibo.com/weibo?q=%2311%E5%B2%81%E7%94%B7%E7%94%9F%E7%94%A8%E7%BC%96%E7%A8%8B%E8%AE%B2%E5%8E%86%E5%8F%B2%E8%8E%B7%E5%85%A8%E5%9B%BD%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=5&Refer=top)<br />
-6. [加沙北部所有医院均停止服务](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8%E6%89%80%E6%9C%89%E5%8C%BB%E9%99%A2%E5%9D%87%E5%81%9C%E6%AD%A2%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=6&Refer=top)<br />
+6. [李佳琦的双11相当于打工人10万年](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9A%84%E5%8F%8C11%E7%9B%B8%E5%BD%93%E4%BA%8E%E6%89%93%E5%B7%A5%E4%BA%BA10%E4%B8%87%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [秋天的九寨沟是色彩的交点](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%98%AF%E8%89%B2%E5%BD%A9%E7%9A%84%E4%BA%A4%E7%82%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [1020事件](https://s.weibo.com/weibo?q=1020%E4%BA%8B%E4%BB%B6&t=31&band_rank=8&Refer=top)<br />
-9. [以爱为营豆瓣评分4.8分](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%864.8%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [加沙北部所有医院均停止服务](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8%E6%89%80%E6%9C%89%E5%8C%BB%E9%99%A2%E5%9D%87%E5%81%9C%E6%AD%A2%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
