@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 18:12:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 18:13:02</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [瘫痪妈妈摔倒孩子多次尝试扶上轮椅](https://s.weibo.com/weibo?q=%23%E7%98%AB%E7%97%AA%E5%A6%88%E5%A6%88%E6%91%94%E5%80%92%E5%AD%A9%E5%AD%90%E5%A4%9A%E6%AC%A1%E5%B0%9D%E8%AF%95%E6%89%B6%E4%B8%8A%E8%BD%AE%E6%A4%85%23&t=31&band_rank=2&Refer=top)<br />
 3. [双十一快递包裹坐上高铁了](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E5%BF%AB%E9%80%92%E5%8C%85%E8%A3%B9%E5%9D%90%E4%B8%8A%E9%AB%98%E9%93%81%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [1020事件](https://s.weibo.com/weibo?q=1020%E4%BA%8B%E4%BB%B6&t=31&band_rank=4&Refer=top)<br />
-5. [秋天的九寨沟是色彩的交点](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%98%AF%E8%89%B2%E5%BD%A9%E7%9A%84%E4%BA%A4%E7%82%B9%23&t=31&band_rank=5&Refer=top)<br />
+5. [11岁男生用编程讲历史获全国一等奖](https://s.weibo.com/weibo?q=%2311%E5%B2%81%E7%94%B7%E7%94%9F%E7%94%A8%E7%BC%96%E7%A8%8B%E8%AE%B2%E5%8E%86%E5%8F%B2%E8%8E%B7%E5%85%A8%E5%9B%BD%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [被正式确诊为衣领综合征](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E8%A1%A3%E9%A2%86%E7%BB%BC%E5%90%88%E5%BE%81%23&t=31&band_rank=6&Refer=top)<br />
-7. [11岁男生用编程讲历史获全国一等奖](https://s.weibo.com/weibo?q=%2311%E5%B2%81%E7%94%B7%E7%94%9F%E7%94%A8%E7%BC%96%E7%A8%8B%E8%AE%B2%E5%8E%86%E5%8F%B2%E8%8E%B7%E5%85%A8%E5%9B%BD%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=7&Refer=top)<br />
+7. [秋天的九寨沟是色彩的交点](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%98%AF%E8%89%B2%E5%BD%A9%E7%9A%84%E4%BA%A4%E7%82%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [如果WBG夺冠我就](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9CWBG%E5%A4%BA%E5%86%A0%E6%88%91%E5%B0%B1%23&t=31&band_rank=8&Refer=top)<br />
 9. [李佳琦的双11相当于打工人10万年](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9A%84%E5%8F%8C11%E7%9B%B8%E5%BD%93%E4%BA%8E%E6%89%93%E5%B7%A5%E4%BA%BA10%E4%B8%87%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
 
