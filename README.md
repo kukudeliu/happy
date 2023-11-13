@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 18:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 18:39:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [11岁男生用编程讲历史获全国一等奖](https://s.weibo.com/weibo?q=%2311%E5%B2%81%E7%94%B7%E7%94%9F%E7%94%A8%E7%BC%96%E7%A8%8B%E8%AE%B2%E5%8E%86%E5%8F%B2%E8%8E%B7%E5%85%A8%E5%9B%BD%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [加沙北部所有医院均停止服务](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8%E6%89%80%E6%9C%89%E5%8C%BB%E9%99%A2%E5%9D%87%E5%81%9C%E6%AD%A2%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [秋天的九寨沟是色彩的交点](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%98%AF%E8%89%B2%E5%BD%A9%E7%9A%84%E4%BA%A4%E7%82%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [以爱为营豆瓣评分4.8分](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%864.8%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
+8. [加沙居民带刚出生几个小时婴儿逃亡](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%B1%85%E6%B0%91%E5%B8%A6%E5%88%9A%E5%87%BA%E7%94%9F%E5%87%A0%E4%B8%AA%E5%B0%8F%E6%97%B6%E5%A9%B4%E5%84%BF%E9%80%83%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [1020事件](https://s.weibo.com/weibo?q=1020%E4%BA%8B%E4%BB%B6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
