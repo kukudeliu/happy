@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 14:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 14:22:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [54岁教授吃饭太认真带火冷门专业](https://www.baidu.com/s?wd=54%E5%B2%81%E6%95%99%E6%8E%88%E5%90%83%E9%A5%AD%E5%A4%AA%E8%AE%A4%E7%9C%9F%E5%B8%A6%E7%81%AB%E5%86%B7%E9%97%A8%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [电诈头目明学昌家族工地挖出尸体](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E6%98%8E%E5%AD%A6%E6%98%8C%E5%AE%B6%E6%97%8F%E5%B7%A5%E5%9C%B0%E6%8C%96%E5%87%BA%E5%B0%B8%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南方气温将再下一个台阶](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E6%B0%94%E6%B8%A9%E5%B0%86%E5%86%8D%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8F%B0%E9%98%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [当一位博士生成为主播](https://www.baidu.com/s?wd=%E5%BD%93%E4%B8%80%E4%BD%8D%E5%8D%9A%E5%A3%AB%E7%94%9F%E6%88%90%E4%B8%BA%E4%B8%BB%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [泉州洛江区原区长就餐时落水身亡](https://www.baidu.com/s?wd=%E6%B3%89%E5%B7%9E%E6%B4%9B%E6%B1%9F%E5%8C%BA%E5%8E%9F%E5%8C%BA%E9%95%BF%E5%B0%B1%E9%A4%90%E6%97%B6%E8%90%BD%E6%B0%B4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [李佳琦团队否认双11收入250亿](https://www.baidu.com/s?wd=%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9B%A2%E9%98%9F%E5%90%A6%E8%AE%A4%E5%8F%8C11%E6%94%B6%E5%85%A5250%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [54岁教授吃饭太认真带火冷门专业](https://www.baidu.com/s?wd=54%E5%B2%81%E6%95%99%E6%8E%88%E5%90%83%E9%A5%AD%E5%A4%AA%E8%AE%A4%E7%9C%9F%E5%B8%A6%E7%81%AB%E5%86%B7%E9%97%A8%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [电诈头目明学昌家族工地挖出尸体](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E6%98%8E%E5%AD%A6%E6%98%8C%E5%AE%B6%E6%97%8F%E5%B7%A5%E5%9C%B0%E6%8C%96%E5%87%BA%E5%B0%B8%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南方气温将再下一个台阶](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E6%B0%94%E6%B8%A9%E5%B0%86%E5%86%8D%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8F%B0%E9%98%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [当一位博士生成为主播](https://www.baidu.com/s?wd=%E5%BD%93%E4%B8%80%E4%BD%8D%E5%8D%9A%E5%A3%AB%E7%94%9F%E6%88%90%E4%B8%BA%E4%B8%BB%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [泉州洛江区原区长就餐时落水身亡](https://www.baidu.com/s?wd=%E6%B3%89%E5%B7%9E%E6%B4%9B%E6%B1%9F%E5%8C%BA%E5%8E%9F%E5%8C%BA%E9%95%BF%E5%B0%B1%E9%A4%90%E6%97%B6%E8%90%BD%E6%B0%B4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [李佳琦团队否认双11收入250亿](https://www.baidu.com/s?wd=%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9B%A2%E9%98%9F%E5%90%A6%E8%AE%A4%E5%8F%8C11%E6%94%B6%E5%85%A5250%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
