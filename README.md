@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 14:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 14:50:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [女子失业被妈妈雇佣当司机日薪20](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%B1%E4%B8%9A%E8%A2%AB%E5%A6%88%E5%A6%88%E9%9B%87%E4%BD%A3%E5%BD%93%E5%8F%B8%E6%9C%BA%E6%97%A5%E8%96%AA20%23&t=31&band_rank=4&Refer=top)<br />
 5. [马面裙配大衣](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%9D%A2%E8%A3%99%E9%85%8D%E5%A4%A7%E8%A1%A3&t=31&band_rank=5&Refer=top)<br />
 6. [韩国警方承认没有权志龙吸毒物证](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%AD%A6%E6%96%B9%E6%89%BF%E8%AE%A4%E6%B2%A1%E6%9C%89%E6%9D%83%E5%BF%97%E9%BE%99%E5%90%B8%E6%AF%92%E7%89%A9%E8%AF%81%23&t=31&band_rank=6&Refer=top)<br />
-7. [大冰笑话](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%86%B0%E7%AC%91%E8%AF%9D&t=31&band_rank=7&Refer=top)<br />
-8. [被正式确诊为衣领综合征](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E8%A1%A3%E9%A2%86%E7%BB%BC%E5%90%88%E5%BE%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [为什么哭久了会一抽一抽的](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%93%AD%E4%B9%85%E4%BA%86%E4%BC%9A%E4%B8%80%E6%8A%BD%E4%B8%80%E6%8A%BD%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+7. [被正式确诊为衣领综合征](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E8%A1%A3%E9%A2%86%E7%BB%BC%E5%90%88%E5%BE%81%23&t=31&band_rank=7&Refer=top)<br />
+8. [大冰笑话](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%86%B0%E7%AC%91%E8%AF%9D&t=31&band_rank=8&Refer=top)<br />
+9. [陈奕迅认识李荣浩也是靠朋友拉群](https://s.weibo.com/weibo?q=%E9%99%88%E5%A5%95%E8%BF%85%E8%AE%A4%E8%AF%86%E6%9D%8E%E8%8D%A3%E6%B5%A9%E4%B9%9F%E6%98%AF%E9%9D%A0%E6%9C%8B%E5%8F%8B%E6%8B%89%E7%BE%A4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
