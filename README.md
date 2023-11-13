@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 14:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 14:11:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [冰岛频繁地震导致大地出现裂痕](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B%E9%A2%91%E7%B9%81%E5%9C%B0%E9%9C%87%E5%AF%BC%E8%87%B4%E5%A4%A7%E5%9C%B0%E5%87%BA%E7%8E%B0%E8%A3%82%E7%97%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [每天1包方便面身体会发生什么变化](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A91%E5%8C%85%E6%96%B9%E4%BE%BF%E9%9D%A2%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么哭久了会一抽一抽的](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%93%AD%E4%B9%85%E4%BA%86%E4%BC%9A%E4%B8%80%E6%8A%BD%E4%B8%80%E6%8A%BD%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
-8. [资生堂红腰子价格大跳水](https://s.weibo.com/weibo?q=%23%E8%B5%84%E7%94%9F%E5%A0%82%E7%BA%A2%E8%85%B0%E5%AD%90%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [李佳琦团队称250亿收入纯属捏造](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9B%A2%E9%98%9F%E7%A7%B0250%E4%BA%BF%E6%94%B6%E5%85%A5%E7%BA%AF%E5%B1%9E%E6%8D%8F%E9%80%A0%23&t=31&band_rank=9&Refer=top)<br />
+8. [李佳琦团队称250亿收入纯属捏造](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9B%A2%E9%98%9F%E7%A7%B0250%E4%BA%BF%E6%94%B6%E5%85%A5%E7%BA%AF%E5%B1%9E%E6%8D%8F%E9%80%A0%23&t=31&band_rank=8&Refer=top)<br />
+9. [资生堂红腰子价格大跳水](https://s.weibo.com/weibo?q=%23%E8%B5%84%E7%94%9F%E5%A0%82%E7%BA%A2%E8%85%B0%E5%AD%90%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
