@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 16:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 16:22:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [扣扣搜搜地花了很多钱](https://s.weibo.com/weibo?q=%E6%89%A3%E6%89%A3%E6%90%9C%E6%90%9C%E5%9C%B0%E8%8A%B1%E4%BA%86%E5%BE%88%E5%A4%9A%E9%92%B1&t=31&band_rank=4&Refer=top)<br />
 5. [双十一全网消费11386亿元](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E5%85%A8%E7%BD%91%E6%B6%88%E8%B4%B911386%E4%BA%BF%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [电诈头目明学昌家族工地发现两具尸体](https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E6%98%8E%E5%AD%A6%E6%98%8C%E5%AE%B6%E6%97%8F%E5%B7%A5%E5%9C%B0%E5%8F%91%E7%8E%B0%E4%B8%A4%E5%85%B7%E5%B0%B8%E4%BD%93%23&t=31&band_rank=6&Refer=top)<br />
-7. [冬天最狠减肥法](https://s.weibo.com/weibo?q=%E5%86%AC%E5%A4%A9%E6%9C%80%E7%8B%A0%E5%87%8F%E8%82%A5%E6%B3%95&t=31&band_rank=7&Refer=top)<br />
-8. [国家卫健委新闻发布会](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [古人寿命虽短却没有35岁的概念](https://s.weibo.com/weibo?q=%E5%8F%A4%E4%BA%BA%E5%AF%BF%E5%91%BD%E8%99%BD%E7%9F%AD%E5%8D%B4%E6%B2%A1%E6%9C%8935%E5%B2%81%E7%9A%84%E6%A6%82%E5%BF%B5&t=31&band_rank=9&Refer=top)<br />
+7. [国家卫健委新闻发布会](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
+8. [冬天最狠减肥法](https://s.weibo.com/weibo?q=%E5%86%AC%E5%A4%A9%E6%9C%80%E7%8B%A0%E5%87%8F%E8%82%A5%E6%B3%95&t=31&band_rank=8&Refer=top)<br />
+9. [景甜一声哥哥把许凯叫懵了](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E4%B8%80%E5%A3%B0%E5%93%A5%E5%93%A5%E6%8A%8A%E8%AE%B8%E5%87%AF%E5%8F%AB%E6%87%B5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
