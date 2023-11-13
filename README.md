@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 00:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 00:01:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [苹果公司将禁止摇一摇跳转广告](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%86%E7%A6%81%E6%AD%A2%E6%91%87%E4%B8%80%E6%91%87%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%23&t=31&band_rank=4&Refer=top)<br />
 5. [网友吐槽政务大厅全天工作6个小时](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E4%B8%AA%E5%B0%8F%E6%97%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [柳智敏打歌时发现衣服上有针](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E6%89%93%E6%AD%8C%E6%97%B6%E5%8F%91%E7%8E%B0%E8%A1%A3%E6%9C%8D%E4%B8%8A%E6%9C%89%E9%92%88%23&t=31&band_rank=6&Refer=top)<br />
-7. [山东74名学生腹泻呕吐采样为诺如病毒](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C74%E5%90%8D%E5%AD%A6%E7%94%9F%E8%85%B9%E6%B3%BB%E5%91%95%E5%90%90%E9%87%87%E6%A0%B7%E4%B8%BA%E8%AF%BA%E5%A6%82%E7%97%85%E6%AF%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [在何猷君身上看到了生理性喜欢的样子](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%BD%95%E7%8C%B7%E5%90%9B%E8%BA%AB%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BA%86%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
+7. [在何猷君身上看到了生理性喜欢的样子](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%BD%95%E7%8C%B7%E5%90%9B%E8%BA%AB%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BA%86%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
+8. [山东74名学生腹泻呕吐采样为诺如病毒](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C74%E5%90%8D%E5%AD%A6%E7%94%9F%E8%85%B9%E6%B3%BB%E5%91%95%E5%90%90%E9%87%87%E6%A0%B7%E4%B8%BA%E8%AF%BA%E5%A6%82%E7%97%85%E6%AF%92%23&t=31&band_rank=8&Refer=top)<br />
 9. [iPhone15双11最后两小时降价](https://s.weibo.com/weibo?q=%23iPhone15%E5%8F%8C11%E6%9C%80%E5%90%8E%E4%B8%A4%E5%B0%8F%E6%97%B6%E9%99%8D%E4%BB%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
