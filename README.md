@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 00:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 00:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [苹果公司将禁止摇一摇跳转广告](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%86%E7%A6%81%E6%AD%A2%E6%91%87%E4%B8%80%E6%91%87%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [柳智敏打歌时发现衣服上有针](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E6%89%93%E6%AD%8C%E6%97%B6%E5%8F%91%E7%8E%B0%E8%A1%A3%E6%9C%8D%E4%B8%8A%E6%9C%89%E9%92%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [绝迹](https://s.weibo.com/weibo?q=%E7%BB%9D%E8%BF%B9&t=31&band_rank=8&Refer=top)<br />
-9. [山东74名学生腹泻呕吐采样为诺如病毒](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C74%E5%90%8D%E5%AD%A6%E7%94%9F%E8%85%B9%E6%B3%BB%E5%91%95%E5%90%90%E9%87%87%E6%A0%B7%E4%B8%BA%E8%AF%BA%E5%A6%82%E7%97%85%E6%AF%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [这是烤冷面那我吃的是什么](https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E7%83%A4%E5%86%B7%E9%9D%A2%E9%82%A3%E6%88%91%E5%90%83%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [官方回应铲车将垃圾推进长江](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%93%B2%E8%BD%A6%E5%B0%86%E5%9E%83%E5%9C%BE%E6%8E%A8%E8%BF%9B%E9%95%BF%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [斗破苍穹首部电影定档](https://www.baidu.com/s?wd=%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9%E9%A6%96%E9%83%A8%E7%94%B5%E5%BD%B1%E5%AE%9A%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙江千亿富豪遭实名举报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%8D%83%E4%BA%BF%E5%AF%8C%E8%B1%AA%E9%81%AD%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山东安丘通报74名中学生恶心呕吐](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%AE%89%E4%B8%98%E9%80%9A%E6%8A%A574%E5%90%8D%E4%B8%AD%E5%AD%A6%E7%94%9F%E6%81%B6%E5%BF%83%E5%91%95%E5%90%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [官方回应铲车将垃圾推进长江](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%93%B2%E8%BD%A6%E5%B0%86%E5%9E%83%E5%9C%BE%E6%8E%A8%E8%BF%9B%E9%95%BF%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [斗破苍穹首部电影定档](https://www.baidu.com/s?wd=%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9%E9%A6%96%E9%83%A8%E7%94%B5%E5%BD%B1%E5%AE%9A%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙江千亿富豪遭实名举报](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%8D%83%E4%BA%BF%E5%AF%8C%E8%B1%AA%E9%81%AD%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山东安丘通报74名中学生恶心呕吐](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%AE%89%E4%B8%98%E9%80%9A%E6%8A%A574%E5%90%8D%E4%B8%AD%E5%AD%A6%E7%94%9F%E6%81%B6%E5%BF%83%E5%91%95%E5%90%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
