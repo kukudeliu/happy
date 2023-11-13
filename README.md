@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 21:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 21:32:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [为亚太稳定繁荣作出更多贡献](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%9A%E5%A4%AA%E7%A8%B3%E5%AE%9A%E7%B9%81%E8%8D%A3%E4%BD%9C%E5%87%BA%E6%9B%B4%E5%A4%9A%E8%B4%A1%E7%8C%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [开放是世界繁荣发展的必由之路](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E6%98%AF%E4%B8%96%E7%95%8C%E7%B9%81%E8%8D%A3%E5%8F%91%E5%B1%95%E7%9A%84%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [55个品牌被移出中华老字号](https://www.baidu.com/s?wd=55%E4%B8%AA%E5%93%81%E7%89%8C%E8%A2%AB%E7%A7%BB%E5%87%BA%E4%B8%AD%E5%8D%8E%E8%80%81%E5%AD%97%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [江苏：课间10分钟“清空教室”](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%EF%BC%9A%E8%AF%BE%E9%97%B410%E5%88%86%E9%92%9F%E2%80%9C%E6%B8%85%E7%A9%BA%E6%95%99%E5%AE%A4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国秋粮收获过九成半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%87%E4%B9%9D%E6%88%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [为亚太稳定繁荣作出更多贡献](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%9A%E5%A4%AA%E7%A8%B3%E5%AE%9A%E7%B9%81%E8%8D%A3%E4%BD%9C%E5%87%BA%E6%9B%B4%E5%A4%9A%E8%B4%A1%E7%8C%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [开放是世界繁荣发展的必由之路](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E6%98%AF%E4%B8%96%E7%95%8C%E7%B9%81%E8%8D%A3%E5%8F%91%E5%B1%95%E7%9A%84%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [55个品牌被移出中华老字号](https://www.baidu.com/s?wd=55%E4%B8%AA%E5%93%81%E7%89%8C%E8%A2%AB%E7%A7%BB%E5%87%BA%E4%B8%AD%E5%8D%8E%E8%80%81%E5%AD%97%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [江苏：课间10分钟“清空教室”](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%EF%BC%9A%E8%AF%BE%E9%97%B410%E5%88%86%E9%92%9F%E2%80%9C%E6%B8%85%E7%A9%BA%E6%95%99%E5%AE%A4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国秋粮收获过九成半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%87%E4%B9%9D%E6%88%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
