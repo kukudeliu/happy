@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 17:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 17:08:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [中国千万净资产家庭达211万户](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8D%83%E4%B8%87%E5%87%80%E8%B5%84%E4%BA%A7%E5%AE%B6%E5%BA%AD%E8%BE%BE211%E4%B8%87%E6%88%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [扣扣搜搜地花了很多钱](https://s.weibo.com/weibo?q=%E6%89%A3%E6%89%A3%E6%90%9C%E6%90%9C%E5%9C%B0%E8%8A%B1%E4%BA%86%E5%BE%88%E5%A4%9A%E9%92%B1&t=31&band_rank=5&Refer=top)<br />
 6. [国家卫健委新闻发布会](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
-7. [双十一全网消费11386亿元](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E5%85%A8%E7%BD%91%E6%B6%88%E8%B4%B911386%E4%BA%BF%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [缅北电诈劝降视频出镜3人已被控制](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%8A%9D%E9%99%8D%E8%A7%86%E9%A2%91%E5%87%BA%E9%95%9C3%E4%BA%BA%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6%23&t=31&band_rank=8&Refer=top)<br />
+7. [缅北电诈劝降视频出镜3人已被控制](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%8A%9D%E9%99%8D%E8%A7%86%E9%A2%91%E5%87%BA%E9%95%9C3%E4%BA%BA%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6%23&t=31&band_rank=7&Refer=top)<br />
+8. [双十一全网消费11386亿元](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E5%85%A8%E7%BD%91%E6%B6%88%E8%B4%B911386%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [匪我思存薅着一家虐](https://s.weibo.com/weibo?q=%23%E5%8C%AA%E6%88%91%E6%80%9D%E5%AD%98%E8%96%85%E7%9D%80%E4%B8%80%E5%AE%B6%E8%99%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
