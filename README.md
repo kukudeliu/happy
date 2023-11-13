@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 06:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 06:20:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [苹果公司将禁止摇一摇跳转广告](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%86%E7%A6%81%E6%AD%A2%E6%91%87%E4%B8%80%E6%91%87%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%23&t=31&band_rank=5&Refer=top)<br />
 6. [妻子被推出产房丈夫献花并深情亲吻](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%8E%A8%E5%87%BA%E4%BA%A7%E6%88%BF%E4%B8%88%E5%A4%AB%E7%8C%AE%E8%8A%B1%E5%B9%B6%E6%B7%B1%E6%83%85%E4%BA%B2%E5%90%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [雪莉生前纪录片完整版公开](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E8%8E%89%E7%94%9F%E5%89%8D%E7%BA%AA%E5%BD%95%E7%89%87%E5%AE%8C%E6%95%B4%E7%89%88%E5%85%AC%E5%BC%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [55个品牌被移出中华老字号](https://s.weibo.com/weibo?q=%2355%E4%B8%AA%E5%93%81%E7%89%8C%E8%A2%AB%E7%A7%BB%E5%87%BA%E4%B8%AD%E5%8D%8E%E8%80%81%E5%AD%97%E5%8F%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [南航白菜价机票尴尬了谁](https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E7%99%BD%E8%8F%9C%E4%BB%B7%E6%9C%BA%E7%A5%A8%E5%B0%B4%E5%B0%AC%E4%BA%86%E8%B0%81%23&t=31&band_rank=9&Refer=top)<br />
+8. [南航白菜价机票尴尬了谁](https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E7%99%BD%E8%8F%9C%E4%BB%B7%E6%9C%BA%E7%A5%A8%E5%B0%B4%E5%B0%AC%E4%BA%86%E8%B0%81%23&t=31&band_rank=8&Refer=top)<br />
+9. [55个品牌被移出中华老字号](https://s.weibo.com/weibo?q=%2355%E4%B8%AA%E5%93%81%E7%89%8C%E8%A2%AB%E7%A7%BB%E5%87%BA%E4%B8%AD%E5%8D%8E%E8%80%81%E5%AD%97%E5%8F%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
