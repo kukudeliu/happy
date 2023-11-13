@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 13:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 13:14:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [每天1包方便面身体会发生什么变化](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A91%E5%8C%85%E6%96%B9%E4%BE%BF%E9%9D%A2%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [消费降级](https://s.weibo.com/weibo?q=%E6%B6%88%E8%B4%B9%E9%99%8D%E7%BA%A7&t=31&band_rank=5&Refer=top)<br />
 6. [熊雪被开除党籍](https://s.weibo.com/weibo?q=%23%E7%86%8A%E9%9B%AA%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23&t=31&band_rank=6&Refer=top)<br />
-7. [为什么哭久了会一抽一抽的](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%93%AD%E4%B9%85%E4%BA%86%E4%BC%9A%E4%B8%80%E6%8A%BD%E4%B8%80%E6%8A%BD%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
-8. [红白歌会名单](https://s.weibo.com/weibo?q=%E7%BA%A2%E7%99%BD%E6%AD%8C%E4%BC%9A%E5%90%8D%E5%8D%95&t=31&band_rank=8&Refer=top)<br />
+7. [资生堂红腰子价格大跳水](https://s.weibo.com/weibo?q=%23%E8%B5%84%E7%94%9F%E5%A0%82%E7%BA%A2%E8%85%B0%E5%AD%90%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [为什么哭久了会一抽一抽的](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%93%AD%E4%B9%85%E4%BA%86%E4%BC%9A%E4%B8%80%E6%8A%BD%E4%B8%80%E6%8A%BD%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
 9. [我来甘露寺只做一件事](https://s.weibo.com/weibo?q=%23%E6%88%91%E6%9D%A5%E7%94%98%E9%9C%B2%E5%AF%BA%E5%8F%AA%E5%81%9A%E4%B8%80%E4%BB%B6%E4%BA%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
