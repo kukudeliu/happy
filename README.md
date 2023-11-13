@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 19:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 19:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [加沙北部所有医院均停止服务](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8%E6%89%80%E6%9C%89%E5%8C%BB%E9%99%A2%E5%9D%87%E5%81%9C%E6%AD%A2%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [秋天的九寨沟是色彩的交点](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%98%AF%E8%89%B2%E5%BD%A9%E7%9A%84%E4%BA%A4%E7%82%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [阿奇霉素对病毒感染是无效的](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0%E5%AF%B9%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E6%98%AF%E6%97%A0%E6%95%88%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [虞书欣温峥嵘永夜星河二搭](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B3%E4%BA%8C%E6%90%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [以爱为营豆瓣评分4.8分](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%864.8%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
