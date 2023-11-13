@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 13:06:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 13:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [熊雪被开除党籍](https://s.weibo.com/weibo?q=%23%E7%86%8A%E9%9B%AA%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [红白歌会名单](https://s.weibo.com/weibo?q=%E7%BA%A2%E7%99%BD%E6%AD%8C%E4%BC%9A%E5%90%8D%E5%8D%95&t=31&band_rank=7&Refer=top)<br />
 8. [我来甘露寺只做一件事](https://s.weibo.com/weibo?q=%23%E6%88%91%E6%9D%A5%E7%94%98%E9%9C%B2%E5%AF%BA%E5%8F%AA%E5%81%9A%E4%B8%80%E4%BB%B6%E4%BA%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [李佳琦团队称250亿收入纯属捏造](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9B%A2%E9%98%9F%E7%A7%B0250%E4%BA%BF%E6%94%B6%E5%85%A5%E7%BA%AF%E5%B1%9E%E6%8D%8F%E9%80%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [为什么哭久了会一抽一抽的](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%93%AD%E4%B9%85%E4%BA%86%E4%BC%9A%E4%B8%80%E6%8A%BD%E4%B8%80%E6%8A%BD%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
