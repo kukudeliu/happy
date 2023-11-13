@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 17:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 17:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国家卫健委新闻发布会](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [缅北电诈劝降视频出镜3人已被控制](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%8A%9D%E9%99%8D%E8%A7%86%E9%A2%91%E5%87%BA%E9%95%9C3%E4%BA%BA%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [双十一全网消费11386亿元](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E5%85%A8%E7%BD%91%E6%B6%88%E8%B4%B911386%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [匪我思存薅着一家虐](https://s.weibo.com/weibo?q=%23%E5%8C%AA%E6%88%91%E6%80%9D%E5%AD%98%E8%96%85%E7%9D%80%E4%B8%80%E5%AE%B6%E8%99%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [如果WBG夺冠我就](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9CWBG%E5%A4%BA%E5%86%A0%E6%88%91%E5%B0%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,10 +21,10 @@
 2. [胡润：中国千万净资产家庭达211万户](https://www.baidu.com/s?wd=%E8%83%A1%E6%B6%A6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8D%83%E4%B8%87%E5%87%80%E8%B5%84%E4%BA%A7%E5%AE%B6%E5%BA%AD%E8%BE%BE211%E4%B8%87%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [多国爆发臭虫危机 民众不敢去电影院](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E8%87%AD%E8%99%AB%E5%8D%B1%E6%9C%BA+%E6%B0%91%E4%BC%97%E4%B8%8D%E6%95%A2%E5%8E%BB%E7%94%B5%E5%BD%B1%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国秋粮收获过九成半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%87%E4%B9%9D%E6%88%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [外交部：反对以竞争定义中美关系](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%8F%8D%E5%AF%B9%E4%BB%A5%E7%AB%9E%E4%BA%89%E5%AE%9A%E4%B9%89%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [官方回应原区长在湖上餐厅落水溺亡](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8E%9F%E5%8C%BA%E9%95%BF%E5%9C%A8%E6%B9%96%E4%B8%8A%E9%A4%90%E5%8E%85%E8%90%BD%E6%B0%B4%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家称建保障房能实现共同富裕](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%BB%BA%E4%BF%9D%E9%9A%9C%E6%88%BF%E8%83%BD%E5%AE%9E%E7%8E%B0%E5%85%B1%E5%90%8C%E5%AF%8C%E8%A3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哈登亮相快船主场未获热烈欢呼](https://www.baidu.com/s?wd=%E5%93%88%E7%99%BB%E4%BA%AE%E7%9B%B8%E5%BF%AB%E8%88%B9%E4%B8%BB%E5%9C%BA%E6%9C%AA%E8%8E%B7%E7%83%AD%E7%83%88%E6%AC%A2%E5%91%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [54岁教授吃饭太认真带火冷门专业](https://www.baidu.com/s?wd=54%E5%B2%81%E6%95%99%E6%8E%88%E5%90%83%E9%A5%AD%E5%A4%AA%E8%AE%A4%E7%9C%9F%E5%B8%A6%E7%81%AB%E5%86%B7%E9%97%A8%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -33,8 +33,8 @@
 2. [胡润：中国千万净资产家庭达211万户](https://www.baidu.com/s?wd=%E8%83%A1%E6%B6%A6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8D%83%E4%B8%87%E5%87%80%E8%B5%84%E4%BA%A7%E5%AE%B6%E5%BA%AD%E8%BE%BE211%E4%B8%87%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [多国爆发臭虫危机 民众不敢去电影院](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E8%87%AD%E8%99%AB%E5%8D%B1%E6%9C%BA+%E6%B0%91%E4%BC%97%E4%B8%8D%E6%95%A2%E5%8E%BB%E7%94%B5%E5%BD%B1%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国秋粮收获过九成半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%87%E4%B9%9D%E6%88%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [外交部：反对以竞争定义中美关系](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%8F%8D%E5%AF%B9%E4%BB%A5%E7%AB%9E%E4%BA%89%E5%AE%9A%E4%B9%89%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [官方回应原区长在湖上餐厅落水溺亡](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8E%9F%E5%8C%BA%E9%95%BF%E5%9C%A8%E6%B9%96%E4%B8%8A%E9%A4%90%E5%8E%85%E8%90%BD%E6%B0%B4%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家称建保障房能实现共同富裕](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%BB%BA%E4%BF%9D%E9%9A%9C%E6%88%BF%E8%83%BD%E5%AE%9E%E7%8E%B0%E5%85%B1%E5%90%8C%E5%AF%8C%E8%A3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哈登亮相快船主场未获热烈欢呼](https://www.baidu.com/s?wd=%E5%93%88%E7%99%BB%E4%BA%AE%E7%9B%B8%E5%BF%AB%E8%88%B9%E4%B8%BB%E5%9C%BA%E6%9C%AA%E8%8E%B7%E7%83%AD%E7%83%88%E6%AC%A2%E5%91%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [54岁教授吃饭太认真带火冷门专业](https://www.baidu.com/s?wd=54%E5%B2%81%E6%95%99%E6%8E%88%E5%90%83%E9%A5%AD%E5%A4%AA%E8%AE%A4%E7%9C%9F%E5%B8%A6%E7%81%AB%E5%86%B7%E9%97%A8%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
