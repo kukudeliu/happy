@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 22:12:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 22:13:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [爱奇艺尖叫之夜完整版名单](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%AE%8C%E6%95%B4%E7%89%88%E5%90%8D%E5%8D%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [iPhone15双11最后两小时降价](https://s.weibo.com/weibo?q=%23iPhone15%E5%8F%8C11%E6%9C%80%E5%90%8E%E4%B8%A4%E5%B0%8F%E6%97%B6%E9%99%8D%E4%BB%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [宁安如梦团综定档](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E5%9B%A2%E7%BB%BC%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [清华女博士毕业做占星师月入3万](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%81%9A%E5%8D%A0%E6%98%9F%E5%B8%88%E6%9C%88%E5%85%A53%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [苹果公司将禁止摇一摇跳转广告](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%86%E7%A6%81%E6%AD%A2%E6%91%87%E4%B8%80%E6%91%87%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%23&t=31&band_rank=9&Refer=top)<br />
+8. [苹果公司将禁止摇一摇跳转广告](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%86%E7%A6%81%E6%AD%A2%E6%91%87%E4%B8%80%E6%91%87%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%23&t=31&band_rank=8&Refer=top)<br />
+9. [清华女博士毕业做占星师月入3万](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%81%9A%E5%8D%A0%E6%98%9F%E5%B8%88%E6%9C%88%E5%85%A53%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
