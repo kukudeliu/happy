@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 12:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 12:12:02</h4></div>
 
 > 微博  
 
 1. [李佳琦团队回应双11收入250亿](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9B%A2%E9%98%9F%E5%9B%9E%E5%BA%94%E5%8F%8C11%E6%94%B6%E5%85%A5250%E4%BA%BF%23&t=31&band_rank=1&Refer=top)<br />
 2. [熊雪被开除党籍](https://s.weibo.com/weibo?q=%23%E7%86%8A%E9%9B%AA%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23&t=31&band_rank=2&Refer=top)<br />
 3. [雪天8大健康提醒](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E5%A4%A98%E5%A4%A7%E5%81%A5%E5%BA%B7%E6%8F%90%E9%86%92%23&t=31&band_rank=3&Refer=top)<br />
-4. [缅北电诈头目录制忏悔视频](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E5%BD%95%E5%88%B6%E5%BF%8F%E6%82%94%E8%A7%86%E9%A2%91%23&t=31&band_rank=4&Refer=top)<br />
-5. [日本部分居民血检异常](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%83%A8%E5%88%86%E5%B1%85%E6%B0%91%E8%A1%80%E6%A3%80%E5%BC%82%E5%B8%B8%23&t=31&band_rank=5&Refer=top)<br />
+4. [日本部分居民血检异常](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%83%A8%E5%88%86%E5%B1%85%E6%B0%91%E8%A1%80%E6%A3%80%E5%BC%82%E5%B8%B8%23&t=31&band_rank=4&Refer=top)<br />
+5. [缅北电诈头目录制忏悔视频](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E5%BD%95%E5%88%B6%E5%BF%8F%E6%82%94%E8%A7%86%E9%A2%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [缅甸果敢四大家族成员称将杜绝电诈](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E6%9E%9C%E6%95%A2%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E6%88%90%E5%91%98%E7%A7%B0%E5%B0%86%E6%9D%9C%E7%BB%9D%E7%94%B5%E8%AF%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [你能接受恋人有亲密恐惧症吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E6%81%8B%E4%BA%BA%E6%9C%89%E4%BA%B2%E5%AF%86%E6%81%90%E6%83%A7%E7%97%87%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [消费降级](https://s.weibo.com/weibo?q=%E6%B6%88%E8%B4%B9%E9%99%8D%E7%BA%A7&t=31&band_rank=8&Refer=top)<br />
