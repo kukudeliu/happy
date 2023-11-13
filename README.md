@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 10:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 10:38:02</h4></div>
 
 > 微博  
 
 1. [李佳琦双十一收入超250亿](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%8F%8C%E5%8D%81%E4%B8%80%E6%94%B6%E5%85%A5%E8%B6%85250%E4%BA%BF%23&t=31&band_rank=1&Refer=top)<br />
-2. [爸爸通过监控显摆生日吃12个菜](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E9%80%9A%E8%BF%87%E7%9B%91%E6%8E%A7%E6%98%BE%E6%91%86%E7%94%9F%E6%97%A5%E5%90%8312%E4%B8%AA%E8%8F%9C%23&t=31&band_rank=2&Refer=top)<br />
+2. [李佳琦团队回应双11收入250亿](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9B%A2%E9%98%9F%E5%9B%9E%E5%BA%94%E5%8F%8C11%E6%94%B6%E5%85%A5250%E4%BA%BF%23&t=31&band_rank=2&Refer=top)<br />
 3. [雪天8大健康提醒](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E5%A4%A98%E5%A4%A7%E5%81%A5%E5%BA%B7%E6%8F%90%E9%86%92%23&t=31&band_rank=3&Refer=top)<br />
-4. [李佳琦团队回应双11收入250亿](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9B%A2%E9%98%9F%E5%9B%9E%E5%BA%94%E5%8F%8C11%E6%94%B6%E5%85%A5250%E4%BA%BF%23&t=31&band_rank=4&Refer=top)<br />
+4. [爸爸通过监控显摆生日吃12个菜](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E9%80%9A%E8%BF%87%E7%9B%91%E6%8E%A7%E6%98%BE%E6%91%86%E7%94%9F%E6%97%A5%E5%90%8312%E4%B8%AA%E8%8F%9C%23&t=31&band_rank=4&Refer=top)<br />
 5. [我来甘露寺只做一件事](https://s.weibo.com/weibo?q=%23%E6%88%91%E6%9D%A5%E7%94%98%E9%9C%B2%E5%AF%BA%E5%8F%AA%E5%81%9A%E4%B8%80%E4%BB%B6%E4%BA%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [缅甸果敢四大家族成员称将杜绝电诈](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E6%9E%9C%E6%95%A2%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E6%88%90%E5%91%98%E7%A7%B0%E5%B0%86%E6%9D%9C%E7%BB%9D%E7%94%B5%E8%AF%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [54岁教授吃饭太认真带火冷门专业](https://s.weibo.com/weibo?q=%2354%E5%B2%81%E6%95%99%E6%8E%88%E5%90%83%E9%A5%AD%E5%A4%AA%E8%AE%A4%E7%9C%9F%E5%B8%A6%E7%81%AB%E5%86%B7%E9%97%A8%E4%B8%93%E4%B8%9A%23&t=31&band_rank=7&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [阿里回应多款应用崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本大阪府部分居民血检异常](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%98%AA%E5%BA%9C%E9%83%A8%E5%88%86%E5%B1%85%E6%B0%91%E8%A1%80%E6%A3%80%E5%BC%82%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老凤祥周大生十几名员工互殴](https://www.baidu.com/s?wd=%E8%80%81%E5%87%A4%E7%A5%A5%E5%91%A8%E5%A4%A7%E7%94%9F%E5%8D%81%E5%87%A0%E5%90%8D%E5%91%98%E5%B7%A5%E4%BA%92%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [缅北四大家族魏超仁之子录忏悔视频](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E9%AD%8F%E8%B6%85%E4%BB%81%E4%B9%8B%E5%AD%90%E5%BD%95%E5%BF%8F%E6%82%94%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [法国总理参加抗议反犹主义游行](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E6%80%BB%E7%90%86%E5%8F%82%E5%8A%A0%E6%8A%97%E8%AE%AE%E5%8F%8D%E7%8A%B9%E4%B8%BB%E4%B9%89%E6%B8%B8%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中国银河证券澄清合并重组传闻](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%93%B6%E6%B2%B3%E8%AF%81%E5%88%B8%E6%BE%84%E6%B8%85%E5%90%88%E5%B9%B6%E9%87%8D%E7%BB%84%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [阿里回应多款应用崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本大阪府部分居民血检异常](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%98%AA%E5%BA%9C%E9%83%A8%E5%88%86%E5%B1%85%E6%B0%91%E8%A1%80%E6%A3%80%E5%BC%82%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老凤祥周大生十几名员工互殴](https://www.baidu.com/s?wd=%E8%80%81%E5%87%A4%E7%A5%A5%E5%91%A8%E5%A4%A7%E7%94%9F%E5%8D%81%E5%87%A0%E5%90%8D%E5%91%98%E5%B7%A5%E4%BA%92%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [缅北四大家族魏超仁之子录忏悔视频](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E9%AD%8F%E8%B6%85%E4%BB%81%E4%B9%8B%E5%AD%90%E5%BD%95%E5%BF%8F%E6%82%94%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [法国总理参加抗议反犹主义游行](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E6%80%BB%E7%90%86%E5%8F%82%E5%8A%A0%E6%8A%97%E8%AE%AE%E5%8F%8D%E7%8A%B9%E4%B8%BB%E4%B9%89%E6%B8%B8%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中国银河证券澄清合并重组传闻](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%93%B6%E6%B2%B3%E8%AF%81%E5%88%B8%E6%BE%84%E6%B8%85%E5%90%88%E5%B9%B6%E9%87%8D%E7%BB%84%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
