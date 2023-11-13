@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 18:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 18:24:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [全国秋粮收获过九成半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%87%E4%B9%9D%E6%88%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [坠亡企业家父亲：他没经过大风大浪](https://www.baidu.com/s?wd=%E5%9D%A0%E4%BA%A1%E4%BC%81%E4%B8%9A%E5%AE%B6%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%BB%96%E6%B2%A1%E7%BB%8F%E8%BF%87%E5%A4%A7%E9%A3%8E%E5%A4%A7%E6%B5%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [智能手机或将于2050年退场](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E6%88%96%E5%B0%86%E4%BA%8E2050%E5%B9%B4%E9%80%80%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方回应原区长在湖上餐厅落水溺亡](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8E%9F%E5%8C%BA%E9%95%BF%E5%9C%A8%E6%B9%96%E4%B8%8A%E9%A4%90%E5%8E%85%E8%90%BD%E6%B0%B4%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [职校被举报克扣学生巨额实习报酬](https://www.baidu.com/s?wd=%E8%81%8C%E6%A0%A1%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%85%8B%E6%89%A3%E5%AD%A6%E7%94%9F%E5%B7%A8%E9%A2%9D%E5%AE%9E%E4%B9%A0%E6%8A%A5%E9%85%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [缅北明家4人被中方通缉 揭家族势力](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E6%98%8E%E5%AE%B64%E4%BA%BA%E8%A2%AB%E4%B8%AD%E6%96%B9%E9%80%9A%E7%BC%89+%E6%8F%AD%E5%AE%B6%E6%97%8F%E5%8A%BF%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [全国秋粮收获过九成半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%87%E4%B9%9D%E6%88%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [坠亡企业家父亲：他没经过大风大浪](https://www.baidu.com/s?wd=%E5%9D%A0%E4%BA%A1%E4%BC%81%E4%B8%9A%E5%AE%B6%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%BB%96%E6%B2%A1%E7%BB%8F%E8%BF%87%E5%A4%A7%E9%A3%8E%E5%A4%A7%E6%B5%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [智能手机或将于2050年退场](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E6%88%96%E5%B0%86%E4%BA%8E2050%E5%B9%B4%E9%80%80%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方回应原区长在湖上餐厅落水溺亡](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8E%9F%E5%8C%BA%E9%95%BF%E5%9C%A8%E6%B9%96%E4%B8%8A%E9%A4%90%E5%8E%85%E8%90%BD%E6%B0%B4%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [职校被举报克扣学生巨额实习报酬](https://www.baidu.com/s?wd=%E8%81%8C%E6%A0%A1%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%85%8B%E6%89%A3%E5%AD%A6%E7%94%9F%E5%B7%A8%E9%A2%9D%E5%AE%9E%E4%B9%A0%E6%8A%A5%E9%85%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [缅北明家4人被中方通缉 揭家族势力](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E6%98%8E%E5%AE%B64%E4%BA%BA%E8%A2%AB%E4%B8%AD%E6%96%B9%E9%80%9A%E7%BC%89+%E6%8F%AD%E5%AE%B6%E6%97%8F%E5%8A%BF%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
