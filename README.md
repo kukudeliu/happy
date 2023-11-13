@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 20:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 20:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [清华女博士毕业做占星师月入3万](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%81%9A%E5%8D%A0%E6%98%9F%E5%B8%88%E6%9C%88%E5%85%A53%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [卧床休息是养肝的最好方法](https://s.weibo.com/weibo?q=%23%E5%8D%A7%E5%BA%8A%E4%BC%91%E6%81%AF%E6%98%AF%E5%85%BB%E8%82%9D%E7%9A%84%E6%9C%80%E5%A5%BD%E6%96%B9%E6%B3%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [女生最无声的炫富是什么](https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E6%9C%80%E6%97%A0%E5%A3%B0%E7%9A%84%E7%82%AB%E5%AF%8C%E6%98%AF%E4%BB%80%E4%B9%88&t=31&band_rank=8&Refer=top)<br />
-9. [肯豆超短羽绒服](https://s.weibo.com/weibo?q=%E8%82%AF%E8%B1%86%E8%B6%85%E7%9F%AD%E7%BE%BD%E7%BB%92%E6%9C%8D&t=31&band_rank=9&Refer=top)<br />
+9. [iPhone15双11最后两小时降价](https://s.weibo.com/weibo?q=%23iPhone15%E5%8F%8C11%E6%9C%80%E5%90%8E%E4%B8%A4%E5%B0%8F%E6%97%B6%E9%99%8D%E4%BB%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
