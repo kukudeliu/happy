@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 22:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 22:18:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [雪莉生前纪录片完整版公开](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E8%8E%89%E7%94%9F%E5%89%8D%E7%BA%AA%E5%BD%95%E7%89%87%E5%AE%8C%E6%95%B4%E7%89%88%E5%85%AC%E5%BC%80%23&t=31&band_rank=2&Refer=top)<br />
 3. [手把手教你跨省看病怎么走医保](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E8%B7%A8%E7%9C%81%E7%9C%8B%E7%97%85%E6%80%8E%E4%B9%88%E8%B5%B0%E5%8C%BB%E4%BF%9D%23&t=31&band_rank=3&Refer=top)<br />
 4. [何猷君 小金土豆](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E5%B0%8F%E9%87%91%E5%9C%9F%E8%B1%86&t=31&band_rank=4&Refer=top)<br />
-5. [爱奇艺尖叫之夜完整版名单](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%AE%8C%E6%95%B4%E7%89%88%E5%90%8D%E5%8D%95%23&t=31&band_rank=5&Refer=top)<br />
-6. [春晚导演 汗流浃背了](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E5%AF%BC%E6%BC%94%20%E6%B1%97%E6%B5%81%E6%B5%83%E8%83%8C%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [苹果公司将禁止摇一摇跳转广告](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%86%E7%A6%81%E6%AD%A2%E6%91%87%E4%B8%80%E6%91%87%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%23&t=31&band_rank=7&Refer=top)<br />
+5. [春晚导演 汗流浃背了](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E5%AF%BC%E6%BC%94%20%E6%B1%97%E6%B5%81%E6%B5%83%E8%83%8C%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
+6. [苹果公司将禁止摇一摇跳转广告](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%86%E7%A6%81%E6%AD%A2%E6%91%87%E4%B8%80%E6%91%87%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%23&t=31&band_rank=6&Refer=top)<br />
+7. [爱奇艺尖叫之夜完整版名单](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%AE%8C%E6%95%B4%E7%89%88%E5%90%8D%E5%8D%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [iPhone15双11最后两小时降价](https://s.weibo.com/weibo?q=%23iPhone15%E5%8F%8C11%E6%9C%80%E5%90%8E%E4%B8%A4%E5%B0%8F%E6%97%B6%E9%99%8D%E4%BB%B7%23&t=31&band_rank=8&Refer=top)<br />
 9. [宁安如梦团综定档](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E5%9B%A2%E7%BB%BC%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=9&Refer=top)<br />
 
