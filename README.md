@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 18:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 18:30:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [坠亡企业家父亲：他没经过大风大浪](https://www.baidu.com/s?wd=%E5%9D%A0%E4%BA%A1%E4%BC%81%E4%B8%9A%E5%AE%B6%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%BB%96%E6%B2%A1%E7%BB%8F%E8%BF%87%E5%A4%A7%E9%A3%8E%E5%A4%A7%E6%B5%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [公安部就电诈惩戒办法公开征求意见](https://www.baidu.com/s?wd=%E5%85%AC%E5%AE%89%E9%83%A8%E5%B0%B1%E7%94%B5%E8%AF%88%E6%83%A9%E6%88%92%E5%8A%9E%E6%B3%95%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [智能手机或将于2050年退场](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E6%88%96%E5%B0%86%E4%BA%8E2050%E5%B9%B4%E9%80%80%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [200亿短剧生意 越土越暴利](https://www.baidu.com/s?wd=200%E4%BA%BF%E7%9F%AD%E5%89%A7%E7%94%9F%E6%84%8F+%E8%B6%8A%E5%9C%9F%E8%B6%8A%E6%9A%B4%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [坠亡企业家父亲：他没经过大风大浪](https://www.baidu.com/s?wd=%E5%9D%A0%E4%BA%A1%E4%BC%81%E4%B8%9A%E5%AE%B6%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%BB%96%E6%B2%A1%E7%BB%8F%E8%BF%87%E5%A4%A7%E9%A3%8E%E5%A4%A7%E6%B5%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [公安部就电诈惩戒办法公开征求意见](https://www.baidu.com/s?wd=%E5%85%AC%E5%AE%89%E9%83%A8%E5%B0%B1%E7%94%B5%E8%AF%88%E6%83%A9%E6%88%92%E5%8A%9E%E6%B3%95%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [智能手机或将于2050年退场](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E6%88%96%E5%B0%86%E4%BA%8E2050%E5%B9%B4%E9%80%80%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [200亿短剧生意 越土越暴利](https://www.baidu.com/s?wd=200%E4%BA%BF%E7%9F%AD%E5%89%A7%E7%94%9F%E6%84%8F+%E8%B6%8A%E5%9C%9F%E8%B6%8A%E6%9A%B4%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
