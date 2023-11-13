@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 02:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 02:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [网友吐槽政务大厅全天工作6个小时](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E4%B8%AA%E5%B0%8F%E6%97%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [柳智敏打歌时发现衣服上有针](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E6%89%93%E6%AD%8C%E6%97%B6%E5%8F%91%E7%8E%B0%E8%A1%A3%E6%9C%8D%E4%B8%8A%E6%9C%89%E9%92%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [iPhone15双11最后两小时降价](https://s.weibo.com/weibo?q=%23iPhone15%E5%8F%8C11%E6%9C%80%E5%90%8E%E4%B8%A4%E5%B0%8F%E6%97%B6%E9%99%8D%E4%BB%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [宁安如梦歹毒运镜加一](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E6%AD%B9%E6%AF%92%E8%BF%90%E9%95%9C%E5%8A%A0%E4%B8%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [这是烤冷面那我吃的是什么](https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E7%83%A4%E5%86%B7%E9%9D%A2%E9%82%A3%E6%88%91%E5%90%83%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [女生失业被妈妈雇佣当司机 日薪20元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%A4%B1%E4%B8%9A%E8%A2%AB%E5%A6%88%E5%A6%88%E9%9B%87%E4%BD%A3%E5%BD%93%E5%8F%B8%E6%9C%BA+%E6%97%A5%E8%96%AA20%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [向“新”而行折射中国经济新活力](https://www.baidu.com/s?wd=%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E8%80%8C%E8%A1%8C%E6%8A%98%E5%B0%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小男孩拼尽全力扶瘫痪妈妈上轮椅](https://www.baidu.com/s?wd=%E5%B0%8F%E7%94%B7%E5%AD%A9%E6%8B%BC%E5%B0%BD%E5%85%A8%E5%8A%9B%E6%89%B6%E7%98%AB%E7%97%AA%E5%A6%88%E5%A6%88%E4%B8%8A%E8%BD%AE%E6%A4%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [清华女博士毕业做占星师月入3万](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%81%9A%E5%8D%A0%E6%98%9F%E5%B8%88%E6%9C%88%E5%85%A53%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [游客打车遇e人司机：公举请上车](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%89%93%E8%BD%A6%E9%81%87e%E4%BA%BA%E5%8F%B8%E6%9C%BA%EF%BC%9A%E5%85%AC%E4%B8%BE%E8%AF%B7%E4%B8%8A%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [清华女博士毕业做占星师月入3万](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%81%9A%E5%8D%A0%E6%98%9F%E5%B8%88%E6%9C%88%E5%85%A53%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [冰岛频繁地震导致大地出现裂痕](https://www.baidu.com/s?wd=%E5%86%B0%E5%B2%9B%E9%A2%91%E7%B9%81%E5%9C%B0%E9%9C%87%E5%AF%BC%E8%87%B4%E5%A4%A7%E5%9C%B0%E5%87%BA%E7%8E%B0%E8%A3%82%E7%97%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [德善和狗焕现实也be了](https://www.baidu.com/s?wd=%E5%BE%B7%E5%96%84%E5%92%8C%E7%8B%97%E7%84%95%E7%8E%B0%E5%AE%9E%E4%B9%9Fbe%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [女生失业被妈妈雇佣当司机 日薪20元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%A4%B1%E4%B8%9A%E8%A2%AB%E5%A6%88%E5%A6%88%E9%9B%87%E4%BD%A3%E5%BD%93%E5%8F%B8%E6%9C%BA+%E6%97%A5%E8%96%AA20%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [向“新”而行折射中国经济新活力](https://www.baidu.com/s?wd=%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E8%80%8C%E8%A1%8C%E6%8A%98%E5%B0%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小男孩拼尽全力扶瘫痪妈妈上轮椅](https://www.baidu.com/s?wd=%E5%B0%8F%E7%94%B7%E5%AD%A9%E6%8B%BC%E5%B0%BD%E5%85%A8%E5%8A%9B%E6%89%B6%E7%98%AB%E7%97%AA%E5%A6%88%E5%A6%88%E4%B8%8A%E8%BD%AE%E6%A4%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [清华女博士毕业做占星师月入3万](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%81%9A%E5%8D%A0%E6%98%9F%E5%B8%88%E6%9C%88%E5%85%A53%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [游客打车遇e人司机：公举请上车](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%89%93%E8%BD%A6%E9%81%87e%E4%BA%BA%E5%8F%B8%E6%9C%BA%EF%BC%9A%E5%85%AC%E4%B8%BE%E8%AF%B7%E4%B8%8A%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [清华女博士毕业做占星师月入3万](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%81%9A%E5%8D%A0%E6%98%9F%E5%B8%88%E6%9C%88%E5%85%A53%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [冰岛频繁地震导致大地出现裂痕](https://www.baidu.com/s?wd=%E5%86%B0%E5%B2%9B%E9%A2%91%E7%B9%81%E5%9C%B0%E9%9C%87%E5%AF%BC%E8%87%B4%E5%A4%A7%E5%9C%B0%E5%87%BA%E7%8E%B0%E8%A3%82%E7%97%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [德善和狗焕现实也be了](https://www.baidu.com/s?wd=%E5%BE%B7%E5%96%84%E5%92%8C%E7%8B%97%E7%84%95%E7%8E%B0%E5%AE%9E%E4%B9%9Fbe%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
