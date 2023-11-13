@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 15:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 15:17:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [日本部分居民血检异常](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%83%A8%E5%88%86%E5%B1%85%E6%B0%91%E8%A1%80%E6%A3%80%E5%BC%82%E5%B8%B8%23&t=31&band_rank=4&Refer=top)<br />
 5. [被正式确诊为衣领综合征](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E8%A1%A3%E9%A2%86%E7%BB%BC%E5%90%88%E5%BE%81%23&t=31&band_rank=5&Refer=top)<br />
 6. [韩国警方承认没有权志龙吸毒物证](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%AD%A6%E6%96%B9%E6%89%BF%E8%AE%A4%E6%B2%A1%E6%9C%89%E6%9D%83%E5%BF%97%E9%BE%99%E5%90%B8%E6%AF%92%E7%89%A9%E8%AF%81%23&t=31&band_rank=6&Refer=top)<br />
-7. [马面裙配大衣](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%9D%A2%E8%A3%99%E9%85%8D%E5%A4%A7%E8%A1%A3&t=31&band_rank=7&Refer=top)<br />
-8. [冬天最狠减肥法](https://s.weibo.com/weibo?q=%E5%86%AC%E5%A4%A9%E6%9C%80%E7%8B%A0%E5%87%8F%E8%82%A5%E6%B3%95&t=31&band_rank=8&Refer=top)<br />
-9. [时代少年团新歌的制作人是小鬼](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%96%B0%E6%AD%8C%E7%9A%84%E5%88%B6%E4%BD%9C%E4%BA%BA%E6%98%AF%E5%B0%8F%E9%AC%BC%23&t=31&band_rank=9&Refer=top)<br />
+7. [时代少年团新歌的制作人是小鬼](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%96%B0%E6%AD%8C%E7%9A%84%E5%88%B6%E4%BD%9C%E4%BA%BA%E6%98%AF%E5%B0%8F%E9%AC%BC%23&t=31&band_rank=7&Refer=top)<br />
+8. [马面裙配大衣](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%9D%A2%E8%A3%99%E9%85%8D%E5%A4%A7%E8%A1%A3&t=31&band_rank=8&Refer=top)<br />
+9. [冬天最狠减肥法](https://s.weibo.com/weibo?q=%E5%86%AC%E5%A4%A9%E6%9C%80%E7%8B%A0%E5%87%8F%E8%82%A5%E6%B3%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
