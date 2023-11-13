@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 06:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 06:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多国爆发臭虫危机 民众不敢去电影院](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E8%87%AD%E8%99%AB%E5%8D%B1%E6%9C%BA+%E6%B0%91%E4%BC%97%E4%B8%8D%E6%95%A2%E5%8E%BB%E7%94%B5%E5%BD%B1%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [智能手机或将于2050年退场](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E6%88%96%E5%B0%86%E4%BA%8E2050%E5%B9%B4%E9%80%80%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子玉米地死亡 警方：酒后冻死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%8E%89%E7%B1%B3%E5%9C%B0%E6%AD%BB%E4%BA%A1+%E8%AD%A6%E6%96%B9%EF%BC%9A%E9%85%92%E5%90%8E%E5%86%BB%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [冰岛频繁地震导致大地出现裂痕](https://www.baidu.com/s?wd=%E5%86%B0%E5%B2%9B%E9%A2%91%E7%B9%81%E5%9C%B0%E9%9C%87%E5%AF%BC%E8%87%B4%E5%A4%A7%E5%9C%B0%E5%87%BA%E7%8E%B0%E8%A3%82%E7%97%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [16岁少女患十余种病体重22斤](https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E6%82%A3%E5%8D%81%E4%BD%99%E7%A7%8D%E7%97%85%E4%BD%93%E9%87%8D22%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多国爆发臭虫危机 民众不敢去电影院](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E8%87%AD%E8%99%AB%E5%8D%B1%E6%9C%BA+%E6%B0%91%E4%BC%97%E4%B8%8D%E6%95%A2%E5%8E%BB%E7%94%B5%E5%BD%B1%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [智能手机或将于2050年退场](https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E6%88%96%E5%B0%86%E4%BA%8E2050%E5%B9%B4%E9%80%80%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子玉米地死亡 警方：酒后冻死](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%8E%89%E7%B1%B3%E5%9C%B0%E6%AD%BB%E4%BA%A1+%E8%AD%A6%E6%96%B9%EF%BC%9A%E9%85%92%E5%90%8E%E5%86%BB%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [冰岛频繁地震导致大地出现裂痕](https://www.baidu.com/s?wd=%E5%86%B0%E5%B2%9B%E9%A2%91%E7%B9%81%E5%9C%B0%E9%9C%87%E5%AF%BC%E8%87%B4%E5%A4%A7%E5%9C%B0%E5%87%BA%E7%8E%B0%E8%A3%82%E7%97%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
