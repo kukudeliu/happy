@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 09:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 09:26:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [阿里回应多款应用崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老凤祥周大生十几名员工互殴](https://www.baidu.com/s?wd=%E8%80%81%E5%87%A4%E7%A5%A5%E5%91%A8%E5%A4%A7%E7%94%9F%E5%8D%81%E5%87%A0%E5%90%8D%E5%91%98%E5%B7%A5%E4%BA%92%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国中小学开始流行萝卜刀](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E8%90%9D%E5%8D%9C%E5%88%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [刘銮雄：并未对许家印生气](https://www.baidu.com/s?wd=%E5%88%98%E9%8A%AE%E9%9B%84%EF%BC%9A%E5%B9%B6%E6%9C%AA%E5%AF%B9%E8%AE%B8%E5%AE%B6%E5%8D%B0%E7%94%9F%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本大阪府部分居民血检异常](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%98%AA%E5%BA%9C%E9%83%A8%E5%88%86%E5%B1%85%E6%B0%91%E8%A1%80%E6%A3%80%E5%BC%82%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中国银河证券澄清合并重组传闻](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%93%B6%E6%B2%B3%E8%AF%81%E5%88%B8%E6%BE%84%E6%B8%85%E5%90%88%E5%B9%B6%E9%87%8D%E7%BB%84%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [阿里回应多款应用崩了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老凤祥周大生十几名员工互殴](https://www.baidu.com/s?wd=%E8%80%81%E5%87%A4%E7%A5%A5%E5%91%A8%E5%A4%A7%E7%94%9F%E5%8D%81%E5%87%A0%E5%90%8D%E5%91%98%E5%B7%A5%E4%BA%92%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国中小学开始流行萝卜刀](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E8%90%9D%E5%8D%9C%E5%88%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [刘銮雄：并未对许家印生气](https://www.baidu.com/s?wd=%E5%88%98%E9%8A%AE%E9%9B%84%EF%BC%9A%E5%B9%B6%E6%9C%AA%E5%AF%B9%E8%AE%B8%E5%AE%B6%E5%8D%B0%E7%94%9F%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本大阪府部分居民血检异常](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%98%AA%E5%BA%9C%E9%83%A8%E5%88%86%E5%B1%85%E6%B0%91%E8%A1%80%E6%A3%80%E5%BC%82%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中国银河证券澄清合并重组传闻](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%93%B6%E6%B2%B3%E8%AF%81%E5%88%B8%E6%BE%84%E6%B8%85%E5%90%88%E5%B9%B6%E9%87%8D%E7%BB%84%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
