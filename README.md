@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 16:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-13 16:44:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [开放是世界繁荣发展的必由之路](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E6%98%AF%E4%B8%96%E7%95%8C%E7%B9%81%E8%8D%A3%E5%8F%91%E5%B1%95%E7%9A%84%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [缅北四大家族成员喊话家人放中国人](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E6%88%90%E5%91%98%E5%96%8A%E8%AF%9D%E5%AE%B6%E4%BA%BA%E6%94%BE%E4%B8%AD%E5%9B%BD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [胡润：中国千万净资产家庭达211万户](https://www.baidu.com/s?wd=%E8%83%A1%E6%B6%A6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8D%83%E4%B8%87%E5%87%80%E8%B5%84%E4%BA%A7%E5%AE%B6%E5%BA%AD%E8%BE%BE211%E4%B8%87%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [胡润：中国千万净资产家庭达211万户](https://www.baidu.com/s?wd=%E8%83%A1%E6%B6%A6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8D%83%E4%B8%87%E5%87%80%E8%B5%84%E4%BA%A7%E5%AE%B6%E5%BA%AD%E8%BE%BE211%E4%B8%87%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [多国爆发臭虫危机 民众不敢去电影院](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E8%87%AD%E8%99%AB%E5%8D%B1%E6%9C%BA+%E6%B0%91%E4%BC%97%E4%B8%8D%E6%95%A2%E5%8E%BB%E7%94%B5%E5%BD%B1%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国秋粮收获过九成半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%87%E4%B9%9D%E6%88%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [外交部：反对以竞争定义中美关系](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%8F%8D%E5%AF%B9%E4%BB%A5%E7%AB%9E%E4%BA%89%E5%AE%9A%E4%B9%89%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多国爆发臭虫危机 民众不敢去电影院](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E8%87%AD%E8%99%AB%E5%8D%B1%E6%9C%BA+%E6%B0%91%E4%BC%97%E4%B8%8D%E6%95%A2%E5%8E%BB%E7%94%B5%E5%BD%B1%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [缅北四大家族成员喊话家人放中国人](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E6%88%90%E5%91%98%E5%96%8A%E8%AF%9D%E5%AE%B6%E4%BA%BA%E6%94%BE%E4%B8%AD%E5%9B%BD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [当一位博士生成为主播](https://www.baidu.com/s?wd=%E5%BD%93%E4%B8%80%E4%BD%8D%E5%8D%9A%E5%A3%AB%E7%94%9F%E6%88%90%E4%B8%BA%E4%B8%BB%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [开放是世界繁荣发展的必由之路](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E6%98%AF%E4%B8%96%E7%95%8C%E7%B9%81%E8%8D%A3%E5%8F%91%E5%B1%95%E7%9A%84%E5%BF%85%E7%94%B1%E4%B9%8B%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [缅北四大家族成员喊话家人放中国人](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E6%88%90%E5%91%98%E5%96%8A%E8%AF%9D%E5%AE%B6%E4%BA%BA%E6%94%BE%E4%B8%AD%E5%9B%BD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [胡润：中国千万净资产家庭达211万户](https://www.baidu.com/s?wd=%E8%83%A1%E6%B6%A6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8D%83%E4%B8%87%E5%87%80%E8%B5%84%E4%BA%A7%E5%AE%B6%E5%BA%AD%E8%BE%BE211%E4%B8%87%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [胡润：中国千万净资产家庭达211万户](https://www.baidu.com/s?wd=%E8%83%A1%E6%B6%A6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8D%83%E4%B8%87%E5%87%80%E8%B5%84%E4%BA%A7%E5%AE%B6%E5%BA%AD%E8%BE%BE211%E4%B8%87%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [多国爆发臭虫危机 民众不敢去电影院](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E8%87%AD%E8%99%AB%E5%8D%B1%E6%9C%BA+%E6%B0%91%E4%BC%97%E4%B8%8D%E6%95%A2%E5%8E%BB%E7%94%B5%E5%BD%B1%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国秋粮收获过九成半](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%87%E4%B9%9D%E6%88%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [外交部：反对以竞争定义中美关系](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%8F%8D%E5%AF%B9%E4%BB%A5%E7%AB%9E%E4%BA%89%E5%AE%9A%E4%B9%89%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多国爆发臭虫危机 民众不敢去电影院](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E8%87%AD%E8%99%AB%E5%8D%B1%E6%9C%BA+%E6%B0%91%E4%BC%97%E4%B8%8D%E6%95%A2%E5%8E%BB%E7%94%B5%E5%BD%B1%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [镇长开会时怒砸水瓶 官方通报](https://www.baidu.com/s?wd=%E9%95%87%E9%95%BF%E5%BC%80%E4%BC%9A%E6%97%B6%E6%80%92%E7%A0%B8%E6%B0%B4%E7%93%B6+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [缅北四大家族成员喊话家人放中国人](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E6%88%90%E5%91%98%E5%96%8A%E8%AF%9D%E5%AE%B6%E4%BA%BA%E6%94%BE%E4%B8%AD%E5%9B%BD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [当一位博士生成为主播](https://www.baidu.com/s?wd=%E5%BD%93%E4%B8%80%E4%BD%8D%E5%8D%9A%E5%A3%AB%E7%94%9F%E6%88%90%E4%B8%BA%E4%B8%BB%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
