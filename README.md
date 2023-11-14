@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 18:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 18:24:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [医院招护士要求硕士博士 院方回应](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E6%8B%9B%E6%8A%A4%E5%A3%AB%E8%A6%81%E6%B1%82%E7%A1%95%E5%A3%AB%E5%8D%9A%E5%A3%AB+%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [筑牢中国粮食安全“压舱石”](https://www.baidu.com/s?wd=%E7%AD%91%E7%89%A2%E4%B8%AD%E5%9B%BD%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E2%80%9C%E5%8E%8B%E8%88%B1%E7%9F%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [四川一村蹲地用餐罚20元 当地回应](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%9D%91%E8%B9%B2%E5%9C%B0%E7%94%A8%E9%A4%90%E7%BD%9A20%E5%85%83+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [“光腿神器”被嘲“现代刑具”](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%E2%80%9D%E8%A2%AB%E5%98%B2%E2%80%9C%E7%8E%B0%E4%BB%A3%E5%88%91%E5%85%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [苏小玎为随地小便行为道歉](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B0%8F%E7%8E%8E%E4%B8%BA%E9%9A%8F%E5%9C%B0%E5%B0%8F%E4%BE%BF%E8%A1%8C%E4%B8%BA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [香港一导盲犬在商场内晕倒去世](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E4%B8%80%E5%AF%BC%E7%9B%B2%E7%8A%AC%E5%9C%A8%E5%95%86%E5%9C%BA%E5%86%85%E6%99%95%E5%80%92%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [苏小玎为随地小便行为道歉](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B0%8F%E7%8E%8E%E4%B8%BA%E9%9A%8F%E5%9C%B0%E5%B0%8F%E4%BE%BF%E8%A1%8C%E4%B8%BA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子为保护室友被砍伤 室友家属回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BA%E4%BF%9D%E6%8A%A4%E5%AE%A4%E5%8F%8B%E8%A2%AB%E7%A0%8D%E4%BC%A4+%E5%AE%A4%E5%8F%8B%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“光腿神器”被嘲“现代刑具”](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%E2%80%9D%E8%A2%AB%E5%98%B2%E2%80%9C%E7%8E%B0%E4%BB%A3%E5%88%91%E5%85%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [湘西苗寨发生火灾？当地回应](https://www.baidu.com/s?wd=%E6%B9%98%E8%A5%BF%E8%8B%97%E5%AF%A8%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [医院招护士要求硕士博士 院方回应](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E6%8B%9B%E6%8A%A4%E5%A3%AB%E8%A6%81%E6%B1%82%E7%A1%95%E5%A3%AB%E5%8D%9A%E5%A3%AB+%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [筑牢中国粮食安全“压舱石”](https://www.baidu.com/s?wd=%E7%AD%91%E7%89%A2%E4%B8%AD%E5%9B%BD%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E2%80%9C%E5%8E%8B%E8%88%B1%E7%9F%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [四川一村蹲地用餐罚20元 当地回应](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%9D%91%E8%B9%B2%E5%9C%B0%E7%94%A8%E9%A4%90%E7%BD%9A20%E5%85%83+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [“光腿神器”被嘲“现代刑具”](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%E2%80%9D%E8%A2%AB%E5%98%B2%E2%80%9C%E7%8E%B0%E4%BB%A3%E5%88%91%E5%85%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [苏小玎为随地小便行为道歉](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B0%8F%E7%8E%8E%E4%B8%BA%E9%9A%8F%E5%9C%B0%E5%B0%8F%E4%BE%BF%E8%A1%8C%E4%B8%BA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [香港一导盲犬在商场内晕倒去世](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E4%B8%80%E5%AF%BC%E7%9B%B2%E7%8A%AC%E5%9C%A8%E5%95%86%E5%9C%BA%E5%86%85%E6%99%95%E5%80%92%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [苏小玎为随地小便行为道歉](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B0%8F%E7%8E%8E%E4%B8%BA%E9%9A%8F%E5%9C%B0%E5%B0%8F%E4%BE%BF%E8%A1%8C%E4%B8%BA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子为保护室友被砍伤 室友家属回应](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BA%E4%BF%9D%E6%8A%A4%E5%AE%A4%E5%8F%8B%E8%A2%AB%E7%A0%8D%E4%BC%A4+%E5%AE%A4%E5%8F%8B%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“光腿神器”被嘲“现代刑具”](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%E2%80%9D%E8%A2%AB%E5%98%B2%E2%80%9C%E7%8E%B0%E4%BB%A3%E5%88%91%E5%85%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [湘西苗寨发生火灾？当地回应](https://www.baidu.com/s?wd=%E6%B9%98%E8%A5%BF%E8%8B%97%E5%AF%A8%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
