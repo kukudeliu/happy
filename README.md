@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 14:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 14:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [金莎不想在婚礼上唱星月神话](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E4%B8%8D%E6%83%B3%E5%9C%A8%E5%A9%9A%E7%A4%BC%E4%B8%8A%E5%94%B1%E6%98%9F%E6%9C%88%E7%A5%9E%E8%AF%9D&t=31&band_rank=6&Refer=top)<br />
 7. [秦海璐鼓励迪丽热巴](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%B5%B7%E7%92%90%E9%BC%93%E5%8A%B1%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [光腿神器的危害有多大](https://s.weibo.com/weibo?q=%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7&t=31&band_rank=8&Refer=top)<br />
-9. [B太大连鬼秤破解实锤](https://s.weibo.com/weibo?q=B%E5%A4%AA%E5%A4%A7%E8%BF%9E%E9%AC%BC%E7%A7%A4%E7%A0%B4%E8%A7%A3%E5%AE%9E%E9%94%A4&t=31&band_rank=9&Refer=top)<br />
+9. [网友吐槽麦当劳牛奶1杯23元](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E9%BA%A6%E5%BD%93%E5%8A%B3%E7%89%9B%E5%A5%B61%E6%9D%AF23%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
