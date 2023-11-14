@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 01:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 01:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [花花呼呼大睡弟弟疯狂营业](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%91%BC%E5%91%BC%E5%A4%A7%E7%9D%A1%E5%BC%9F%E5%BC%9F%E7%96%AF%E7%8B%82%E8%90%A5%E4%B8%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [感染幽门螺杆菌胃癌风险或翻倍](https://s.weibo.com/weibo?q=%23%E6%84%9F%E6%9F%93%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E8%83%83%E7%99%8C%E9%A3%8E%E9%99%A9%E6%88%96%E7%BF%BB%E5%80%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [够了 老子心疼罐罐](https://s.weibo.com/weibo?q=%E5%A4%9F%E4%BA%86%20%E8%80%81%E5%AD%90%E5%BF%83%E7%96%BC%E7%BD%90%E7%BD%90&t=31&band_rank=8&Refer=top)<br />
-9. [酮症酸中毒症](https://s.weibo.com/weibo?q=%23%E9%85%AE%E7%97%87%E9%85%B8%E4%B8%AD%E6%AF%92%E7%97%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子突然倒地2身着藏装姑娘跪地救人](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%AA%81%E7%84%B6%E5%80%92%E5%9C%B02%E8%BA%AB%E7%9D%80%E8%97%8F%E8%A3%85%E5%A7%91%E5%A8%98%E8%B7%AA%E5%9C%B0%E6%95%91%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
