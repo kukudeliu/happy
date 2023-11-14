@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 18:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 18:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [联合国总部降半旗](https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E6%80%BB%E9%83%A8%E9%99%8D%E5%8D%8A%E6%97%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [两位唐氏孩子妈妈用20年互相治愈](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BD%8D%E5%94%90%E6%B0%8F%E5%AD%A9%E5%AD%90%E5%A6%88%E5%A6%88%E7%94%A820%E5%B9%B4%E4%BA%92%E7%9B%B8%E6%B2%BB%E6%84%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [快乐小赵 去世](https://s.weibo.com/weibo?q=%E5%BF%AB%E4%B9%90%E5%B0%8F%E8%B5%B5%20%E5%8E%BB%E4%B8%96&t=31&band_rank=8&Refer=top)<br />
-9. [三明治定妆法](https://s.weibo.com/weibo?q=%E4%B8%89%E6%98%8E%E6%B2%BB%E5%AE%9A%E5%A6%86%E6%B3%95&t=31&band_rank=9&Refer=top)<br />
+9. [何猷君 小家庭永远高于大家庭](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E5%B0%8F%E5%AE%B6%E5%BA%AD%E6%B0%B8%E8%BF%9C%E9%AB%98%E4%BA%8E%E5%A4%A7%E5%AE%B6%E5%BA%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
