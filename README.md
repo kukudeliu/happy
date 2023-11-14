@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 09:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 09:29:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [在东北 一切笨的东西都会被吃掉](https://www.baidu.com/s?wd=%E5%9C%A8%E4%B8%9C%E5%8C%97+%E4%B8%80%E5%88%87%E7%AC%A8%E7%9A%84%E4%B8%9C%E8%A5%BF%E9%83%BD%E4%BC%9A%E8%A2%AB%E5%90%83%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [床虱危机为何席卷全球](https://www.baidu.com/s?wd=%E5%BA%8A%E8%99%B1%E5%8D%B1%E6%9C%BA%E4%B8%BA%E4%BD%95%E5%B8%AD%E5%8D%B7%E5%85%A8%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南航白菜价机票尴尬了谁](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E7%99%BD%E8%8F%9C%E4%BB%B7%E6%9C%BA%E7%A5%A8%E5%B0%B4%E5%B0%AC%E4%BA%86%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子吐槽领导被诉遭索赔1万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%90%E6%A7%BD%E9%A2%86%E5%AF%BC%E8%A2%AB%E8%AF%89%E9%81%AD%E7%B4%A2%E8%B5%941%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国安部部长陈一新首次出访](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E9%83%A8%E9%83%A8%E9%95%BF%E9%99%88%E4%B8%80%E6%96%B0%E9%A6%96%E6%AC%A1%E5%87%BA%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [在东北 一切笨的东西都会被吃掉](https://www.baidu.com/s?wd=%E5%9C%A8%E4%B8%9C%E5%8C%97+%E4%B8%80%E5%88%87%E7%AC%A8%E7%9A%84%E4%B8%9C%E8%A5%BF%E9%83%BD%E4%BC%9A%E8%A2%AB%E5%90%83%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [床虱危机为何席卷全球](https://www.baidu.com/s?wd=%E5%BA%8A%E8%99%B1%E5%8D%B1%E6%9C%BA%E4%B8%BA%E4%BD%95%E5%B8%AD%E5%8D%B7%E5%85%A8%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南航白菜价机票尴尬了谁](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E7%99%BD%E8%8F%9C%E4%BB%B7%E6%9C%BA%E7%A5%A8%E5%B0%B4%E5%B0%AC%E4%BA%86%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子吐槽领导被诉遭索赔1万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%90%E6%A7%BD%E9%A2%86%E5%AF%BC%E8%A2%AB%E8%AF%89%E9%81%AD%E7%B4%A2%E8%B5%941%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国安部部长陈一新首次出访](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E9%83%A8%E9%83%A8%E9%95%BF%E9%99%88%E4%B8%80%E6%96%B0%E9%A6%96%E6%AC%A1%E5%87%BA%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
