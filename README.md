@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 08:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 09:00:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [在何猷君身上看到了生理性喜欢的样子](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%BD%95%E7%8C%B7%E5%90%9B%E8%BA%AB%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BA%86%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [苹果公司将禁止摇一摇跳转广告](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%86%E7%A6%81%E6%AD%A2%E6%91%87%E4%B8%80%E6%91%87%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘诗诗刘宇宁 你好星期六](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%88%98%E5%AE%87%E5%AE%81%20%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD&t=31&band_rank=7&Refer=top)<br />
-8. [官方通报职校克扣学生巨额实习报酬](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%81%8C%E6%A0%A1%E5%85%8B%E6%89%A3%E5%AD%A6%E7%94%9F%E5%B7%A8%E9%A2%9D%E5%AE%9E%E4%B9%A0%E6%8A%A5%E9%85%AC%23&t=31&band_rank=8&Refer=top)<br />
-9. [谁在资助缅北果敢同盟军](https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%9C%A8%E8%B5%84%E5%8A%A9%E7%BC%85%E5%8C%97%E6%9E%9C%E6%95%A2%E5%90%8C%E7%9B%9F%E5%86%9B%23&t=31&band_rank=9&Refer=top)<br />
+8. [谁在资助缅北果敢同盟军](https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%9C%A8%E8%B5%84%E5%8A%A9%E7%BC%85%E5%8C%97%E6%9E%9C%E6%95%A2%E5%90%8C%E7%9B%9F%E5%86%9B%23&t=31&band_rank=8&Refer=top)<br />
+9. [官方通报职校克扣学生巨额实习报酬](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%81%8C%E6%A0%A1%E5%85%8B%E6%89%A3%E5%AD%A6%E7%94%9F%E5%B7%A8%E9%A2%9D%E5%AE%9E%E4%B9%A0%E6%8A%A5%E9%85%AC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
