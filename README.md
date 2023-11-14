@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 15:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 15:08:01</h4></div>
 
 > 微博  
 
-1. [沙特小哥认出迪丽热巴](https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E5%B0%8F%E5%93%A5%E8%AE%A4%E5%87%BA%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=1&Refer=top)<br />
-2. [快乐小赵 去世](https://s.weibo.com/weibo?q=%E5%BF%AB%E4%B9%90%E5%B0%8F%E8%B5%B5%20%E5%8E%BB%E4%B8%96&t=31&band_rank=2&Refer=top)<br />
+1. [快乐小赵 去世](https://s.weibo.com/weibo?q=%E5%BF%AB%E4%B9%90%E5%B0%8F%E8%B5%B5%20%E5%8E%BB%E4%B8%96&t=31&band_rank=1&Refer=top)<br />
+2. [沙特小哥认出迪丽热巴](https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E5%B0%8F%E5%93%A5%E8%AE%A4%E5%87%BA%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=2&Refer=top)<br />
 3. [重返巴厘岛通往旧金山](https://s.weibo.com/weibo?q=%23%E9%87%8D%E8%BF%94%E5%B7%B4%E5%8E%98%E5%B2%9B%E9%80%9A%E5%BE%80%E6%97%A7%E9%87%91%E5%B1%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [酱园弄 杨幂](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%20%E6%9D%A8%E5%B9%82&t=31&band_rank=4&Refer=top)<br />
 5. [贾乃亮双11总销售额超13.6亿](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E5%8F%8C11%E6%80%BB%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%8513.6%E4%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
