@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 07:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 07:39:01</h4></div>
 
 > 微博  
 
 1. [华人华侨在旧金山组成欢迎人群](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%BA%BA%E5%8D%8E%E4%BE%A8%E5%9C%A8%E6%97%A7%E9%87%91%E5%B1%B1%E7%BB%84%E6%88%90%E6%AC%A2%E8%BF%8E%E4%BA%BA%E7%BE%A4%23&t=31&band_rank=1&Refer=top)<br />
 2. [中美元首会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=2&Refer=top)<br />
-3. [中欧班列跑出亮眼成绩单](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%AC%A7%E7%8F%AD%E5%88%97%E8%B7%91%E5%87%BA%E4%BA%AE%E7%9C%BC%E6%88%90%E7%BB%A9%E5%8D%95%23&t=31&band_rank=3&Refer=top)<br />
+3. [网购了件大衣穿上变成座山雕](https://s.weibo.com/weibo?q=%E7%BD%91%E8%B4%AD%E4%BA%86%E4%BB%B6%E5%A4%A7%E8%A1%A3%E7%A9%BF%E4%B8%8A%E5%8F%98%E6%88%90%E5%BA%A7%E5%B1%B1%E9%9B%95&t=31&band_rank=3&Refer=top)<br />
 4. [董明珠 王自如](https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%20%E7%8E%8B%E8%87%AA%E5%A6%82&t=31&band_rank=4&Refer=top)<br />
-5. [网购了件大衣穿上变成座山雕](https://s.weibo.com/weibo?q=%E7%BD%91%E8%B4%AD%E4%BA%86%E4%BB%B6%E5%A4%A7%E8%A1%A3%E7%A9%BF%E4%B8%8A%E5%8F%98%E6%88%90%E5%BA%A7%E5%B1%B1%E9%9B%95&t=31&band_rank=5&Refer=top)<br />
-6. [糖尿病前期无明显症状极易被忽视](https://s.weibo.com/weibo?q=%23%E7%B3%96%E5%B0%BF%E7%97%85%E5%89%8D%E6%9C%9F%E6%97%A0%E6%98%8E%E6%98%BE%E7%97%87%E7%8A%B6%E6%9E%81%E6%98%93%E8%A2%AB%E5%BF%BD%E8%A7%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [黑龙江五常市政务大厅整改](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BA%94%E5%B8%B8%E5%B8%82%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E6%95%B4%E6%94%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [花花呼呼大睡弟弟疯狂营业](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%91%BC%E5%91%BC%E5%A4%A7%E7%9D%A1%E5%BC%9F%E5%BC%9F%E7%96%AF%E7%8B%82%E8%90%A5%E4%B8%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [中美元首旧金山会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%97%A7%E9%87%91%E5%B1%B1%E4%BC%9A%E6%99%A4%23&t=31&band_rank=9&Refer=top)<br />
+5. [糖尿病前期无明显症状极易被忽视](https://s.weibo.com/weibo?q=%23%E7%B3%96%E5%B0%BF%E7%97%85%E5%89%8D%E6%9C%9F%E6%97%A0%E6%98%8E%E6%98%BE%E7%97%87%E7%8A%B6%E6%9E%81%E6%98%93%E8%A2%AB%E5%BF%BD%E8%A7%86%23&t=31&band_rank=5&Refer=top)<br />
+6. [黑龙江五常市政务大厅整改](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BA%94%E5%B8%B8%E5%B8%82%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E6%95%B4%E6%94%B9%23&t=31&band_rank=6&Refer=top)<br />
+7. [花花呼呼大睡弟弟疯狂营业](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%91%BC%E5%91%BC%E5%A4%A7%E7%9D%A1%E5%BC%9F%E5%BC%9F%E7%96%AF%E7%8B%82%E8%90%A5%E4%B8%9A%23&t=31&band_rank=7&Refer=top)<br />
+8. [中美元首旧金山会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%97%A7%E9%87%91%E5%B1%B1%E4%BC%9A%E6%99%A4%23&t=31&band_rank=8&Refer=top)<br />
+9. [男子突然倒地2身着藏装姑娘跪地救人](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%AA%81%E7%84%B6%E5%80%92%E5%9C%B02%E8%BA%AB%E7%9D%80%E8%97%8F%E8%A3%85%E5%A7%91%E5%A8%98%E8%B7%AA%E5%9C%B0%E6%95%91%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
