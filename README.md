@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 10:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 10:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [苹果公司将禁止摇一摇跳转广告](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%86%E7%A6%81%E6%AD%A2%E6%91%87%E4%B8%80%E6%91%87%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [网友吐槽政务大厅全天工作6个小时](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E4%B8%AA%E5%B0%8F%E6%97%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [玉骨遥的美是如何拍出来的](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E7%9A%84%E7%BE%8E%E6%98%AF%E5%A6%82%E4%BD%95%E6%8B%8D%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [谁在资助缅北果敢同盟军](https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%9C%A8%E8%B5%84%E5%8A%A9%E7%BC%85%E5%8C%97%E6%9E%9C%E6%95%A2%E5%90%8C%E7%9B%9F%E5%86%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [十个勤天 去年今日](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%20%E5%8E%BB%E5%B9%B4%E4%BB%8A%E6%97%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
