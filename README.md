@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 20:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 20:26:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [朝着构建亚太命运共同体不断迈进](https://s.weibo.com/weibo?q=%23%E6%9C%9D%E7%9D%80%E6%9E%84%E5%BB%BA%E4%BA%9A%E5%A4%AA%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%E4%B8%8D%E6%96%AD%E8%BF%88%E8%BF%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [孙颖莎虽迟但到](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%99%BD%E8%BF%9F%E4%BD%86%E5%88%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [竞燃之夜](https://s.weibo.com/weibo?q=%E7%AB%9E%E7%87%83%E4%B9%8B%E5%A4%9C&t=31&band_rank=5&Refer=top)<br />
-6. [斯嘉丽回应黑寡妇回归](https://s.weibo.com/weibo?q=%23%E6%96%AF%E5%98%89%E4%B8%BD%E5%9B%9E%E5%BA%94%E9%BB%91%E5%AF%A1%E5%A6%87%E5%9B%9E%E5%BD%92%23&t=31&band_rank=6&Refer=top)<br />
-7. [Knight获得微博年度瞩目运动员](https://s.weibo.com/weibo?q=%23Knight%E8%8E%B7%E5%BE%97%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E7%9E%A9%E7%9B%AE%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=7&Refer=top)<br />
-8. [RedVelvet34分钟KillingVoice](https://s.weibo.com/weibo?q=RedVelvet34%E5%88%86%E9%92%9FKillingVoice&t=31&band_rank=8&Refer=top)<br />
+6. [吴艳妮目标进入世界前八](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E7%9B%AE%E6%A0%87%E8%BF%9B%E5%85%A5%E4%B8%96%E7%95%8C%E5%89%8D%E5%85%AB%23&t=31&band_rank=6&Refer=top)<br />
+7. [斯嘉丽回应黑寡妇回归](https://s.weibo.com/weibo?q=%23%E6%96%AF%E5%98%89%E4%B8%BD%E5%9B%9E%E5%BA%94%E9%BB%91%E5%AF%A1%E5%A6%87%E5%9B%9E%E5%BD%92%23&t=31&band_rank=7&Refer=top)<br />
+8. [Knight获得微博年度瞩目运动员](https://s.weibo.com/weibo?q=%23Knight%E8%8E%B7%E5%BE%97%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E7%9E%A9%E7%9B%AE%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
 9. [竞燃之夜红毯](https://s.weibo.com/weibo?q=%23%E7%AB%9E%E7%87%83%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
