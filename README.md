@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 04:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 04:25:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [中欧班列跑出亮眼成绩单](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%AC%A7%E7%8F%AD%E5%88%97%E8%B7%91%E5%87%BA%E4%BA%AE%E7%9C%BC%E6%88%90%E7%BB%A9%E5%8D%95%23&t=31&band_rank=3&Refer=top)<br />
 4. [董明珠 王自如](https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%20%E7%8E%8B%E8%87%AA%E5%A6%82&t=31&band_rank=4&Refer=top)<br />
 5. [男子突然倒地2身着藏装姑娘跪地救人](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%AA%81%E7%84%B6%E5%80%92%E5%9C%B02%E8%BA%AB%E7%9D%80%E8%97%8F%E8%A3%85%E5%A7%91%E5%A8%98%E8%B7%AA%E5%9C%B0%E6%95%91%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [王自如采访](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%87%AA%E5%A6%82%E9%87%87%E8%AE%BF&t=31&band_rank=6&Refer=top)<br />
-7. [1700元的林清轩香水下架](https://s.weibo.com/weibo?q=%231700%E5%85%83%E7%9A%84%E6%9E%97%E6%B8%85%E8%BD%A9%E9%A6%99%E6%B0%B4%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [花花呼呼大睡弟弟疯狂营业](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%91%BC%E5%91%BC%E5%A4%A7%E7%9D%A1%E5%BC%9F%E5%BC%9F%E7%96%AF%E7%8B%82%E8%90%A5%E4%B8%9A%23&t=31&band_rank=8&Refer=top)<br />
+6. [1700元的林清轩香水下架](https://s.weibo.com/weibo?q=%231700%E5%85%83%E7%9A%84%E6%9E%97%E6%B8%85%E8%BD%A9%E9%A6%99%E6%B0%B4%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=6&Refer=top)<br />
+7. [花花呼呼大睡弟弟疯狂营业](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%91%BC%E5%91%BC%E5%A4%A7%E7%9D%A1%E5%BC%9F%E5%BC%9F%E7%96%AF%E7%8B%82%E8%90%A5%E4%B8%9A%23&t=31&band_rank=7&Refer=top)<br />
+8. [王自如采访](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%87%AA%E5%A6%82%E9%87%87%E8%AE%BF&t=31&band_rank=8&Refer=top)<br />
 9. [张遮姜雪宁第一世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%81%AE%E5%A7%9C%E9%9B%AA%E5%AE%81%E7%AC%AC%E4%B8%80%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
