@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 10:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 10:04:02</h4></div>
 
 > 微博  
 
-1. [七宗罪PDF当事人方某已去世](https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%AE%97%E7%BD%AAPDF%E5%BD%93%E4%BA%8B%E4%BA%BA%E6%96%B9%E6%9F%90%E5%B7%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [叶剑英元帅夫人吴博逝世](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E5%89%91%E8%8B%B1%E5%85%83%E5%B8%85%E5%A4%AB%E4%BA%BA%E5%90%B4%E5%8D%9A%E9%80%9D%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
+1. [叶剑英元帅夫人吴博逝世](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E5%89%91%E8%8B%B1%E5%85%83%E5%B8%85%E5%A4%AB%E4%BA%BA%E5%90%B4%E5%8D%9A%E9%80%9D%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
+2. [七宗罪PDF当事人方某已去世](https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%AE%97%E7%BD%AAPDF%E5%BD%93%E4%BA%8B%E4%BA%BA%E6%96%B9%E6%9F%90%E5%B7%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [聚焦中国经济圆桌会](https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9C%86%E6%A1%8C%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [网友吐槽政务大厅全天工作6个小时](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E4%B8%AA%E5%B0%8F%E6%97%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [在何猷君身上看到了生理性喜欢的样子](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%BD%95%E7%8C%B7%E5%90%9B%E8%BA%AB%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BA%86%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [知情人称缅北电诈成员劝降视频属实](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E6%88%90%E5%91%98%E5%8A%9D%E9%99%8D%E8%A7%86%E9%A2%91%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [在东北 一切笨的东西都会被吃掉](https://www.baidu.com/s?wd=%E5%9C%A8%E4%B8%9C%E5%8C%97+%E4%B8%80%E5%88%87%E7%AC%A8%E7%9A%84%E4%B8%9C%E8%A5%BF%E9%83%BD%E4%BC%9A%E8%A2%AB%E5%90%83%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南航白菜价机票尴尬了谁](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E7%99%BD%E8%8F%9C%E4%BB%B7%E6%9C%BA%E7%A5%A8%E5%B0%B4%E5%B0%AC%E4%BA%86%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [床虱危机为何席卷全球](https://www.baidu.com/s?wd=%E5%BA%8A%E8%99%B1%E5%8D%B1%E6%9C%BA%E4%B8%BA%E4%BD%95%E5%B8%AD%E5%8D%B7%E5%85%A8%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“抢药材”村民：打过招呼能叫抢？](https://www.baidu.com/s?wd=%E2%80%9C%E6%8A%A2%E8%8D%AF%E6%9D%90%E2%80%9D%E6%9D%91%E6%B0%91%EF%BC%9A%E6%89%93%E8%BF%87%E6%8B%9B%E5%91%BC%E8%83%BD%E5%8F%AB%E6%8A%A2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [知情人称缅北电诈成员劝降视频属实](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E6%88%90%E5%91%98%E5%8A%9D%E9%99%8D%E8%A7%86%E9%A2%91%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [在东北 一切笨的东西都会被吃掉](https://www.baidu.com/s?wd=%E5%9C%A8%E4%B8%9C%E5%8C%97+%E4%B8%80%E5%88%87%E7%AC%A8%E7%9A%84%E4%B8%9C%E8%A5%BF%E9%83%BD%E4%BC%9A%E8%A2%AB%E5%90%83%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南航白菜价机票尴尬了谁](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E7%99%BD%E8%8F%9C%E4%BB%B7%E6%9C%BA%E7%A5%A8%E5%B0%B4%E5%B0%AC%E4%BA%86%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [床虱危机为何席卷全球](https://www.baidu.com/s?wd=%E5%BA%8A%E8%99%B1%E5%8D%B1%E6%9C%BA%E4%B8%BA%E4%BD%95%E5%B8%AD%E5%8D%B7%E5%85%A8%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“抢药材”村民：打过招呼能叫抢？](https://www.baidu.com/s?wd=%E2%80%9C%E6%8A%A2%E8%8D%AF%E6%9D%90%E2%80%9D%E6%9D%91%E6%B0%91%EF%BC%9A%E6%89%93%E8%BF%87%E6%8B%9B%E5%91%BC%E8%83%BD%E5%8F%AB%E6%8A%A2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
