@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 19:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 19:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [联合国总部降半旗](https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E6%80%BB%E9%83%A8%E9%99%8D%E5%8D%8A%E6%97%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [何猷君 小家庭永远高于大家庭](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E5%B0%8F%E5%AE%B6%E5%BA%AD%E6%B0%B8%E8%BF%9C%E9%AB%98%E4%BA%8E%E5%A4%A7%E5%AE%B6%E5%BA%AD&t=31&band_rank=7&Refer=top)<br />
 8. [孙颖莎什么时候出现](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%87%BA%E7%8E%B0&t=31&band_rank=8&Refer=top)<br />
-9. [快乐小赵 去世](https://s.weibo.com/weibo?q=%E5%BF%AB%E4%B9%90%E5%B0%8F%E8%B5%B5%20%E5%8E%BB%E4%B8%96&t=31&band_rank=9&Refer=top)<br />
+9. [邓为仙台有树手指擦血](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E4%BB%99%E5%8F%B0%E6%9C%89%E6%A0%91%E6%89%8B%E6%8C%87%E6%93%A6%E8%A1%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [学校回应招保安要硕士学位](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E6%8B%9B%E4%BF%9D%E5%AE%89%E8%A6%81%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [母婴店双十一因设置错误变0元购](https://www.baidu.com/s?wd=%E6%AF%8D%E5%A9%B4%E5%BA%97%E5%8F%8C%E5%8D%81%E4%B8%80%E5%9B%A0%E8%AE%BE%E7%BD%AE%E9%94%99%E8%AF%AF%E5%8F%980%E5%85%83%E8%B4%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“光腿神器”被嘲“现代刑具”](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%E2%80%9D%E8%A2%AB%E5%98%B2%E2%80%9C%E7%8E%B0%E4%BB%A3%E5%88%91%E5%85%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [29岁网红“快乐小赵”去世](https://www.baidu.com/s?wd=29%E5%B2%81%E7%BD%91%E7%BA%A2%E2%80%9C%E5%BF%AB%E4%B9%90%E5%B0%8F%E8%B5%B5%E2%80%9D%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [邝肖卿成为中国女首富](https://www.baidu.com/s?wd=%E9%82%9D%E8%82%96%E5%8D%BF%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [学校回应招保安要硕士学位](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E6%8B%9B%E4%BF%9D%E5%AE%89%E8%A6%81%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [母婴店双十一因设置错误变0元购](https://www.baidu.com/s?wd=%E6%AF%8D%E5%A9%B4%E5%BA%97%E5%8F%8C%E5%8D%81%E4%B8%80%E5%9B%A0%E8%AE%BE%E7%BD%AE%E9%94%99%E8%AF%AF%E5%8F%980%E5%85%83%E8%B4%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“光腿神器”被嘲“现代刑具”](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%E2%80%9D%E8%A2%AB%E5%98%B2%E2%80%9C%E7%8E%B0%E4%BB%A3%E5%88%91%E5%85%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [29岁网红“快乐小赵”去世](https://www.baidu.com/s?wd=29%E5%B2%81%E7%BD%91%E7%BA%A2%E2%80%9C%E5%BF%AB%E4%B9%90%E5%B0%8F%E8%B5%B5%E2%80%9D%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [邝肖卿成为中国女首富](https://www.baidu.com/s?wd=%E9%82%9D%E8%82%96%E5%8D%BF%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
