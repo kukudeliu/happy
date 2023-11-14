@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 20:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 20:11:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [联合国降半旗默哀在加沙遇难工作人员](https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E9%99%8D%E5%8D%8A%E6%97%97%E9%BB%98%E5%93%80%E5%9C%A8%E5%8A%A0%E6%B2%99%E9%81%87%E9%9A%BE%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [TheShy获微博年度瞩目运动员](https://s.weibo.com/weibo?q=%23TheShy%E8%8E%B7%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E7%9E%A9%E7%9B%AE%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [Fly唱歌一诺九尾的反应](https://s.weibo.com/weibo?q=%23Fly%E5%94%B1%E6%AD%8C%E4%B8%80%E8%AF%BA%E4%B9%9D%E5%B0%BE%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [渐冻人蔡磊激动试用人工喉](https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E4%BA%BA%E8%94%A1%E7%A3%8A%E6%BF%80%E5%8A%A8%E8%AF%95%E7%94%A8%E4%BA%BA%E5%B7%A5%E5%96%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [中美元首会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
