@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 17:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 17:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [联合国总部降半旗](https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E6%80%BB%E9%83%A8%E9%99%8D%E5%8D%8A%E6%97%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [孙怡被老刘傅首尔虐到哭](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E8%A2%AB%E8%80%81%E5%88%98%E5%82%85%E9%A6%96%E5%B0%94%E8%99%90%E5%88%B0%E5%93%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘诗雯红毯生图](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E9%9B%AF%E7%BA%A2%E6%AF%AF%E7%94%9F%E5%9B%BE&t=31&band_rank=8&Refer=top)<br />
-9. [四川一地规定不叠被子罚10元](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%9C%B0%E8%A7%84%E5%AE%9A%E4%B8%8D%E5%8F%A0%E8%A2%AB%E5%AD%90%E7%BD%9A10%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [渐冻人蔡磊激动试用人工喉](https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E4%BA%BA%E8%94%A1%E7%A3%8A%E6%BF%80%E5%8A%A8%E8%AF%95%E7%94%A8%E4%BA%BA%E5%B7%A5%E5%96%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
