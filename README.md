@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 15:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 15:52:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [老人在短视频里演恶婆婆 月赚4万](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%9C%A8%E7%9F%AD%E8%A7%86%E9%A2%91%E9%87%8C%E6%BC%94%E6%81%B6%E5%A9%86%E5%A9%86+%E6%9C%88%E8%B5%9A4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [朝着构建亚太命运共同体迈进](https://www.baidu.com/s?wd=%E6%9C%9D%E7%9D%80%E6%9E%84%E5%BB%BA%E4%BA%9A%E5%A4%AA%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%E8%BF%88%E8%BF%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [四川凉山一村：蹲地用餐罚20元](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E4%B8%80%E6%9D%91%EF%BC%9A%E8%B9%B2%E5%9C%B0%E7%94%A8%E9%A4%90%E7%BD%9A20%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [老师将学生拽进厕所拳打脚踢](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%B0%86%E5%AD%A6%E7%94%9F%E6%8B%BD%E8%BF%9B%E5%8E%95%E6%89%80%E6%8B%B3%E6%89%93%E8%84%9A%E8%B8%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [邝肖卿成为中国女首富](https://www.baidu.com/s?wd=%E9%82%9D%E8%82%96%E5%8D%BF%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [继萝卜刀后 又有毒玩具风靡校园](https://www.baidu.com/s?wd=%E7%BB%A7%E8%90%9D%E5%8D%9C%E5%88%80%E5%90%8E+%E5%8F%88%E6%9C%89%E6%AF%92%E7%8E%A9%E5%85%B7%E9%A3%8E%E9%9D%A1%E6%A0%A1%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [邝肖卿成为中国女首富](https://www.baidu.com/s?wd=%E9%82%9D%E8%82%96%E5%8D%BF%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [继萝卜刀后 又有毒玩具风靡校园](https://www.baidu.com/s?wd=%E7%BB%A7%E8%90%9D%E5%8D%9C%E5%88%80%E5%90%8E+%E5%8F%88%E6%9C%89%E6%AF%92%E7%8E%A9%E5%85%B7%E9%A3%8E%E9%9D%A1%E6%A0%A1%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [贾乃亮双11销售额超13.6亿](https://www.baidu.com/s?wd=%E8%B4%BE%E4%B9%83%E4%BA%AE%E5%8F%8C11%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%8513.6%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公交司机救助乘客被开除系谣言](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E6%95%91%E5%8A%A9%E4%B9%98%E5%AE%A2%E8%A2%AB%E5%BC%80%E9%99%A4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [老人在短视频里演恶婆婆 月赚4万](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%9C%A8%E7%9F%AD%E8%A7%86%E9%A2%91%E9%87%8C%E6%BC%94%E6%81%B6%E5%A9%86%E5%A9%86+%E6%9C%88%E8%B5%9A4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [朝着构建亚太命运共同体迈进](https://www.baidu.com/s?wd=%E6%9C%9D%E7%9D%80%E6%9E%84%E5%BB%BA%E4%BA%9A%E5%A4%AA%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%E8%BF%88%E8%BF%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [四川凉山一村：蹲地用餐罚20元](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E4%B8%80%E6%9D%91%EF%BC%9A%E8%B9%B2%E5%9C%B0%E7%94%A8%E9%A4%90%E7%BD%9A20%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [老师将学生拽进厕所拳打脚踢](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%B0%86%E5%AD%A6%E7%94%9F%E6%8B%BD%E8%BF%9B%E5%8E%95%E6%89%80%E6%8B%B3%E6%89%93%E8%84%9A%E8%B8%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [邝肖卿成为中国女首富](https://www.baidu.com/s?wd=%E9%82%9D%E8%82%96%E5%8D%BF%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [继萝卜刀后 又有毒玩具风靡校园](https://www.baidu.com/s?wd=%E7%BB%A7%E8%90%9D%E5%8D%9C%E5%88%80%E5%90%8E+%E5%8F%88%E6%9C%89%E6%AF%92%E7%8E%A9%E5%85%B7%E9%A3%8E%E9%9D%A1%E6%A0%A1%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [邝肖卿成为中国女首富](https://www.baidu.com/s?wd=%E9%82%9D%E8%82%96%E5%8D%BF%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [继萝卜刀后 又有毒玩具风靡校园](https://www.baidu.com/s?wd=%E7%BB%A7%E8%90%9D%E5%8D%9C%E5%88%80%E5%90%8E+%E5%8F%88%E6%9C%89%E6%AF%92%E7%8E%A9%E5%85%B7%E9%A3%8E%E9%9D%A1%E6%A0%A1%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [贾乃亮双11销售额超13.6亿](https://www.baidu.com/s?wd=%E8%B4%BE%E4%B9%83%E4%BA%AE%E5%8F%8C11%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%8513.6%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公交司机救助乘客被开除系谣言](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E6%95%91%E5%8A%A9%E4%B9%98%E5%AE%A2%E8%A2%AB%E5%BC%80%E9%99%A4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
