@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 23:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 23:10:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [董明珠 王自如](https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%20%E7%8E%8B%E8%87%AA%E5%A6%82&t=31&band_rank=4&Refer=top)<br />
 5. [燕临 我哭死](https://s.weibo.com/weibo?q=%E7%87%95%E4%B8%B4%20%E6%88%91%E5%93%AD%E6%AD%BB&t=31&band_rank=5&Refer=top)<br />
 6. [有人自林中坠落](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E8%87%AA%E6%9E%97%E4%B8%AD%E5%9D%A0%E8%90%BD%23&t=31&band_rank=6&Refer=top)<br />
-7. [孙颖莎出现时全场的反应](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%87%BA%E7%8E%B0%E6%97%B6%E5%85%A8%E5%9C%BA%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈思诚段奕宏李晨拖张译进迪厅](https://s.weibo.com/weibo?q=%E9%99%88%E6%80%9D%E8%AF%9A%E6%AE%B5%E5%A5%95%E5%AE%8F%E6%9D%8E%E6%99%A8%E6%8B%96%E5%BC%A0%E8%AF%91%E8%BF%9B%E8%BF%AA%E5%8E%85&t=31&band_rank=8&Refer=top)<br />
+7. [陈思诚段奕宏李晨拖张译进迪厅](https://s.weibo.com/weibo?q=%E9%99%88%E6%80%9D%E8%AF%9A%E6%AE%B5%E5%A5%95%E5%AE%8F%E6%9D%8E%E6%99%A8%E6%8B%96%E5%BC%A0%E8%AF%91%E8%BF%9B%E8%BF%AA%E5%8E%85&t=31&band_rank=7&Refer=top)<br />
+8. [孙颖莎出现时全场的反应](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%87%BA%E7%8E%B0%E6%97%B6%E5%85%A8%E5%9C%BA%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
 9. [酮症酸中毒症](https://s.weibo.com/weibo?q=%23%E9%85%AE%E7%97%87%E9%85%B8%E4%B8%AD%E6%AF%92%E7%97%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
