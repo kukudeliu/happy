@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 18:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 18:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [联合国总部降半旗](https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E6%80%BB%E9%83%A8%E9%99%8D%E5%8D%8A%E6%97%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [凌晨5点车灯一开照出2只大熊猫](https://s.weibo.com/weibo?q=%23%E5%87%8C%E6%99%A85%E7%82%B9%E8%BD%A6%E7%81%AF%E4%B8%80%E5%BC%80%E7%85%A7%E5%87%BA2%E5%8F%AA%E5%A4%A7%E7%86%8A%E7%8C%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [快乐小赵 去世](https://s.weibo.com/weibo?q=%E5%BF%AB%E4%B9%90%E5%B0%8F%E8%B5%B5%20%E5%8E%BB%E4%B8%96&t=31&band_rank=8&Refer=top)<br />
-9. [369赛后发文](https://s.weibo.com/weibo?q=369%E8%B5%9B%E5%90%8E%E5%8F%91%E6%96%87&t=31&band_rank=9&Refer=top)<br />
+9. [三明治定妆法](https://s.weibo.com/weibo?q=%E4%B8%89%E6%98%8E%E6%B2%BB%E5%AE%9A%E5%A6%86%E6%B3%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
