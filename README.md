@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 15:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 15:22:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [老人在短视频里演恶婆婆 月赚4万](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%9C%A8%E7%9F%AD%E8%A7%86%E9%A2%91%E9%87%8C%E6%BC%94%E6%81%B6%E5%A9%86%E5%A9%86+%E6%9C%88%E8%B5%9A4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [向“新”而行折射中国经济新活力](https://www.baidu.com/s?wd=%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E8%80%8C%E8%A1%8C%E6%8A%98%E5%B0%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [农妇疑生十个孩子 当地：有智力障碍](https://www.baidu.com/s?wd=%E5%86%9C%E5%A6%87%E7%96%91%E7%94%9F%E5%8D%81%E4%B8%AA%E5%AD%A9%E5%AD%90+%E5%BD%93%E5%9C%B0%EF%BC%9A%E6%9C%89%E6%99%BA%E5%8A%9B%E9%9A%9C%E7%A2%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [成都崇州被狗咬伤女童已出院](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%B4%87%E5%B7%9E%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E5%B7%B2%E5%87%BA%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [四川凉山一村：蹲地用餐罚20元](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E4%B8%80%E6%9D%91%EF%BC%9A%E8%B9%B2%E5%9C%B0%E7%94%A8%E9%A4%90%E7%BD%9A20%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [政务大厅全天工作6小时 官方整改](https://www.baidu.com/s?wd=%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E5%B0%8F%E6%97%B6+%E5%AE%98%E6%96%B9%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [四川凉山一村：蹲地用餐罚20元](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E4%B8%80%E6%9D%91%EF%BC%9A%E8%B9%B2%E5%9C%B0%E7%94%A8%E9%A4%90%E7%BD%9A20%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [政务大厅全天工作6小时 官方整改](https://www.baidu.com/s?wd=%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E5%B0%8F%E6%97%B6+%E5%AE%98%E6%96%B9%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老师将学生拽进厕所拳打脚踢](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%B0%86%E5%AD%A6%E7%94%9F%E6%8B%BD%E8%BF%9B%E5%8E%95%E6%89%80%E6%8B%B3%E6%89%93%E8%84%9A%E8%B8%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公交司机救助乘客被开除系谣言](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E6%95%91%E5%8A%A9%E4%B9%98%E5%AE%A2%E8%A2%AB%E5%BC%80%E9%99%A4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [老人在短视频里演恶婆婆 月赚4万](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%9C%A8%E7%9F%AD%E8%A7%86%E9%A2%91%E9%87%8C%E6%BC%94%E6%81%B6%E5%A9%86%E5%A9%86+%E6%9C%88%E8%B5%9A4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [向“新”而行折射中国经济新活力](https://www.baidu.com/s?wd=%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E8%80%8C%E8%A1%8C%E6%8A%98%E5%B0%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [农妇疑生十个孩子 当地：有智力障碍](https://www.baidu.com/s?wd=%E5%86%9C%E5%A6%87%E7%96%91%E7%94%9F%E5%8D%81%E4%B8%AA%E5%AD%A9%E5%AD%90+%E5%BD%93%E5%9C%B0%EF%BC%9A%E6%9C%89%E6%99%BA%E5%8A%9B%E9%9A%9C%E7%A2%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [成都崇州被狗咬伤女童已出院](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%B4%87%E5%B7%9E%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E5%B7%B2%E5%87%BA%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [四川凉山一村：蹲地用餐罚20元](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E4%B8%80%E6%9D%91%EF%BC%9A%E8%B9%B2%E5%9C%B0%E7%94%A8%E9%A4%90%E7%BD%9A20%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [政务大厅全天工作6小时 官方整改](https://www.baidu.com/s?wd=%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E5%B0%8F%E6%97%B6+%E5%AE%98%E6%96%B9%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [四川凉山一村：蹲地用餐罚20元](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E4%B8%80%E6%9D%91%EF%BC%9A%E8%B9%B2%E5%9C%B0%E7%94%A8%E9%A4%90%E7%BD%9A20%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [政务大厅全天工作6小时 官方整改](https://www.baidu.com/s?wd=%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E5%B0%8F%E6%97%B6+%E5%AE%98%E6%96%B9%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老师将学生拽进厕所拳打脚踢](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%B0%86%E5%AD%A6%E7%94%9F%E6%8B%BD%E8%BF%9B%E5%8E%95%E6%89%80%E6%8B%B3%E6%89%93%E8%84%9A%E8%B8%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公交司机救助乘客被开除系谣言](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E6%95%91%E5%8A%A9%E4%B9%98%E5%AE%A2%E8%A2%AB%E5%BC%80%E9%99%A4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
