@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 09:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 09:22:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 > 百度  
 
 1. [为亚太稳定繁荣作出更多贡献](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%9A%E5%A4%AA%E7%A8%B3%E5%AE%9A%E7%B9%81%E8%8D%A3%E4%BD%9C%E5%87%BA%E6%9B%B4%E5%A4%9A%E8%B4%A1%E7%8C%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [网友吐槽政务大厅全天工作6个小时](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E4%B8%AA%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [猪肉价格大降超40%](https://www.baidu.com/s?wd=%E7%8C%AA%E8%82%89%E4%BB%B7%E6%A0%BC%E5%A4%A7%E9%99%8D%E8%B6%8540%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [猪肉价格大降超40%](https://www.baidu.com/s?wd=%E7%8C%AA%E8%82%89%E4%BB%B7%E6%A0%BC%E5%A4%A7%E9%99%8D%E8%B6%8540%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [网友吐槽政务大厅全天工作6个小时](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E4%B8%AA%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [向“新”而行折射中国经济新活力](https://www.baidu.com/s?wd=%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E8%80%8C%E8%A1%8C%E6%8A%98%E5%B0%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [床虱危机为何席卷全球](https://www.baidu.com/s?wd=%E5%BA%8A%E8%99%B1%E5%8D%B1%E6%9C%BA%E4%B8%BA%E4%BD%95%E5%B8%AD%E5%8D%B7%E5%85%A8%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [在东北 一切笨的东西都会被吃掉](https://www.baidu.com/s?wd=%E5%9C%A8%E4%B8%9C%E5%8C%97+%E4%B8%80%E5%88%87%E7%AC%A8%E7%9A%84%E4%B8%9C%E8%A5%BF%E9%83%BD%E4%BC%9A%E8%A2%AB%E5%90%83%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [在东北 一切笨的东西都会被吃掉](https://www.baidu.com/s?wd=%E5%9C%A8%E4%B8%9C%E5%8C%97+%E4%B8%80%E5%88%87%E7%AC%A8%E7%9A%84%E4%B8%9C%E8%A5%BF%E9%83%BD%E4%BC%9A%E8%A2%AB%E5%90%83%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [床虱危机为何席卷全球](https://www.baidu.com/s?wd=%E5%BA%8A%E8%99%B1%E5%8D%B1%E6%9C%BA%E4%B8%BA%E4%BD%95%E5%B8%AD%E5%8D%B7%E5%85%A8%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南航白菜价机票尴尬了谁](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E7%99%BD%E8%8F%9C%E4%BB%B7%E6%9C%BA%E7%A5%A8%E5%B0%B4%E5%B0%AC%E4%BA%86%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [国安部部长陈一新首次出访](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E9%83%A8%E9%83%A8%E9%95%BF%E9%99%88%E4%B8%80%E6%96%B0%E9%A6%96%E6%AC%A1%E5%87%BA%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,11 +30,11 @@
 > 哔哩哔哩  
 
 1. [为亚太稳定繁荣作出更多贡献](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%9A%E5%A4%AA%E7%A8%B3%E5%AE%9A%E7%B9%81%E8%8D%A3%E4%BD%9C%E5%87%BA%E6%9B%B4%E5%A4%9A%E8%B4%A1%E7%8C%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [网友吐槽政务大厅全天工作6个小时](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E4%B8%AA%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [猪肉价格大降超40%](https://www.baidu.com/s?wd=%E7%8C%AA%E8%82%89%E4%BB%B7%E6%A0%BC%E5%A4%A7%E9%99%8D%E8%B6%8540%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [猪肉价格大降超40%](https://www.baidu.com/s?wd=%E7%8C%AA%E8%82%89%E4%BB%B7%E6%A0%BC%E5%A4%A7%E9%99%8D%E8%B6%8540%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [网友吐槽政务大厅全天工作6个小时](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E4%B8%AA%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [向“新”而行折射中国经济新活力](https://www.baidu.com/s?wd=%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E8%80%8C%E8%A1%8C%E6%8A%98%E5%B0%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [床虱危机为何席卷全球](https://www.baidu.com/s?wd=%E5%BA%8A%E8%99%B1%E5%8D%B1%E6%9C%BA%E4%B8%BA%E4%BD%95%E5%B8%AD%E5%8D%B7%E5%85%A8%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [在东北 一切笨的东西都会被吃掉](https://www.baidu.com/s?wd=%E5%9C%A8%E4%B8%9C%E5%8C%97+%E4%B8%80%E5%88%87%E7%AC%A8%E7%9A%84%E4%B8%9C%E8%A5%BF%E9%83%BD%E4%BC%9A%E8%A2%AB%E5%90%83%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [在东北 一切笨的东西都会被吃掉](https://www.baidu.com/s?wd=%E5%9C%A8%E4%B8%9C%E5%8C%97+%E4%B8%80%E5%88%87%E7%AC%A8%E7%9A%84%E4%B8%9C%E8%A5%BF%E9%83%BD%E4%BC%9A%E8%A2%AB%E5%90%83%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [床虱危机为何席卷全球](https://www.baidu.com/s?wd=%E5%BA%8A%E8%99%B1%E5%8D%B1%E6%9C%BA%E4%B8%BA%E4%BD%95%E5%B8%AD%E5%8D%B7%E5%85%A8%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南航白菜价机票尴尬了谁](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E7%99%BD%E8%8F%9C%E4%BB%B7%E6%9C%BA%E7%A5%A8%E5%B0%B4%E5%B0%AC%E4%BA%86%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [国安部部长陈一新首次出访](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E9%83%A8%E9%83%A8%E9%95%BF%E9%99%88%E4%B8%80%E6%96%B0%E9%A6%96%E6%AC%A1%E5%87%BA%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
