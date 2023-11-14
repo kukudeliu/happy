@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 13:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 13:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [100家银行证实花呗上征信不影响房贷](https://s.weibo.com/weibo?q=%23100%E5%AE%B6%E9%93%B6%E8%A1%8C%E8%AF%81%E5%AE%9E%E8%8A%B1%E5%91%97%E4%B8%8A%E5%BE%81%E4%BF%A1%E4%B8%8D%E5%BD%B1%E5%93%8D%E6%88%BF%E8%B4%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [光腿神器的危害有多大](https://s.weibo.com/weibo?q=%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7&t=31&band_rank=7&Refer=top)<br />
 8. [成都被狗咬伤女童已出院](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E5%B7%B2%E5%87%BA%E9%99%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [两所高校官宣共用一扇校门](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E6%89%80%E9%AB%98%E6%A0%A1%E5%AE%98%E5%AE%A3%E5%85%B1%E7%94%A8%E4%B8%80%E6%89%87%E6%A0%A1%E9%97%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [欧刚因支持WBG被T1赶出办公室](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E5%88%9A%E5%9B%A0%E6%94%AF%E6%8C%81WBG%E8%A2%ABT1%E8%B5%B6%E5%87%BA%E5%8A%9E%E5%85%AC%E5%AE%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
