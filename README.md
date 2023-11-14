@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 16:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 16:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [网易向国家市场监管总局举报雀巢](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%98%93%E5%90%91%E5%9B%BD%E5%AE%B6%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E6%80%BB%E5%B1%80%E4%B8%BE%E6%8A%A5%E9%9B%80%E5%B7%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [四川一地规定不叠被子罚10元](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%9C%B0%E8%A7%84%E5%AE%9A%E4%B8%8D%E5%8F%A0%E8%A2%AB%E5%AD%90%E7%BD%9A10%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [酱园弄 杨幂](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%20%E6%9D%A8%E5%B9%82&t=31&band_rank=8&Refer=top)<br />
-9. [纯享版歼10C飞行表演大片](https://s.weibo.com/weibo?q=%23%E7%BA%AF%E4%BA%AB%E7%89%88%E6%AD%BC10C%E9%A3%9E%E8%A1%8C%E8%A1%A8%E6%BC%94%E5%A4%A7%E7%89%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [法老的宠妃 再会亦不忘却往生](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%81%E7%9A%84%E5%AE%A0%E5%A6%83%20%E5%86%8D%E4%BC%9A%E4%BA%A6%E4%B8%8D%E5%BF%98%E5%8D%B4%E5%BE%80%E7%94%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [29岁网红“快乐小赵”去世](https://www.baidu.com/s?wd=29%E5%B2%81%E7%BD%91%E7%BA%A2%E2%80%9C%E5%BF%AB%E4%B9%90%E5%B0%8F%E8%B5%B5%E2%80%9D%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“光腿神器”被嘲“现代刑具”](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%E2%80%9D%E8%A2%AB%E5%98%B2%E2%80%9C%E7%8E%B0%E4%BB%A3%E5%88%91%E5%85%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [苏小玎为随地小便行为道歉](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B0%8F%E7%8E%8E%E4%B8%BA%E9%9A%8F%E5%9C%B0%E5%B0%8F%E4%BE%BF%E8%A1%8C%E4%B8%BA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [公交司机救助乘客被开除系谣言](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E6%95%91%E5%8A%A9%E4%B9%98%E5%AE%A2%E8%A2%AB%E5%BC%80%E9%99%A4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [黄日华向村超球员鞠躬致歉](https://www.baidu.com/s?wd=%E9%BB%84%E6%97%A5%E5%8D%8E%E5%90%91%E6%9D%91%E8%B6%85%E7%90%83%E5%91%98%E9%9E%A0%E8%BA%AC%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [29岁网红“快乐小赵”去世](https://www.baidu.com/s?wd=29%E5%B2%81%E7%BD%91%E7%BA%A2%E2%80%9C%E5%BF%AB%E4%B9%90%E5%B0%8F%E8%B5%B5%E2%80%9D%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“光腿神器”被嘲“现代刑具”](https://www.baidu.com/s?wd=%E2%80%9C%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%E2%80%9D%E8%A2%AB%E5%98%B2%E2%80%9C%E7%8E%B0%E4%BB%A3%E5%88%91%E5%85%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [苏小玎为随地小便行为道歉](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B0%8F%E7%8E%8E%E4%B8%BA%E9%9A%8F%E5%9C%B0%E5%B0%8F%E4%BE%BF%E8%A1%8C%E4%B8%BA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [公交司机救助乘客被开除系谣言](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E6%95%91%E5%8A%A9%E4%B9%98%E5%AE%A2%E8%A2%AB%E5%BC%80%E9%99%A4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [黄日华向村超球员鞠躬致歉](https://www.baidu.com/s?wd=%E9%BB%84%E6%97%A5%E5%8D%8E%E5%90%91%E6%9D%91%E8%B6%85%E7%90%83%E5%91%98%E9%9E%A0%E8%BA%AC%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
