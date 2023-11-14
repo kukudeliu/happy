@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 12:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 12:34:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [赵丽颖雪祭司神女妆](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%9B%AA%E7%A5%AD%E5%8F%B8%E7%A5%9E%E5%A5%B3%E5%A6%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [两所高校官宣共用一扇校门](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E6%89%80%E9%AB%98%E6%A0%A1%E5%AE%98%E5%AE%A3%E5%85%B1%E7%94%A8%E4%B8%80%E6%89%87%E6%A0%A1%E9%97%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [光腿神器的危害有多大](https://s.weibo.com/weibo?q=%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7&t=31&band_rank=6&Refer=top)<br />
-7. [商丘妇幼保健院保健科原科长被判8年](https://s.weibo.com/weibo?q=%23%E5%95%86%E4%B8%98%E5%A6%87%E5%B9%BC%E4%BF%9D%E5%81%A5%E9%99%A2%E4%BF%9D%E5%81%A5%E7%A7%91%E5%8E%9F%E7%A7%91%E9%95%BF%E8%A2%AB%E5%88%A48%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [B太大连鬼秤破解实锤](https://s.weibo.com/weibo?q=B%E5%A4%AA%E5%A4%A7%E8%BF%9E%E9%AC%BC%E7%A7%A4%E7%A0%B4%E8%A7%A3%E5%AE%9E%E9%94%A4&t=31&band_rank=8&Refer=top)<br />
+7. [B太大连鬼秤破解实锤](https://s.weibo.com/weibo?q=B%E5%A4%AA%E5%A4%A7%E8%BF%9E%E9%AC%BC%E7%A7%A4%E7%A0%B4%E8%A7%A3%E5%AE%9E%E9%94%A4&t=31&band_rank=7&Refer=top)<br />
+8. [商丘妇幼保健院保健科原科长被判8年](https://s.weibo.com/weibo?q=%23%E5%95%86%E4%B8%98%E5%A6%87%E5%B9%BC%E4%BF%9D%E5%81%A5%E9%99%A2%E4%BF%9D%E5%81%A5%E7%A7%91%E5%8E%9F%E7%A7%91%E9%95%BF%E8%A2%AB%E5%88%A48%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
 9. [姜雪宁 姐宝女](https://s.weibo.com/weibo?q=%E5%A7%9C%E9%9B%AA%E5%AE%81%20%E5%A7%90%E5%AE%9D%E5%A5%B3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [为亚太稳定繁荣作出更多贡献](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%9A%E5%A4%AA%E7%A8%B3%E5%AE%9A%E7%B9%81%E8%8D%A3%E4%BD%9C%E5%87%BA%E6%9B%B4%E5%A4%9A%E8%B4%A1%E7%8C%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [4885份出生证失窃 时任科长被判8年](https://www.baidu.com/s?wd=4885%E4%BB%BD%E5%87%BA%E7%94%9F%E8%AF%81%E5%A4%B1%E7%AA%83+%E6%97%B6%E4%BB%BB%E7%A7%91%E9%95%BF%E8%A2%AB%E5%88%A48%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [官方回应网传国企领导别车逼停游客](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E5%88%AB%E8%BD%A6%E9%80%BC%E5%81%9C%E6%B8%B8%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [两所高校官宣共用一扇校门](https://www.baidu.com/s?wd=%E4%B8%A4%E6%89%80%E9%AB%98%E6%A0%A1%E5%AE%98%E5%AE%A3%E5%85%B1%E7%94%A8%E4%B8%80%E6%89%87%E6%A0%A1%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [向“新”而行折射中国经济新活力](https://www.baidu.com/s?wd=%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E8%80%8C%E8%A1%8C%E6%8A%98%E5%B0%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [花千万请外援 这还是群众性运动？](https://www.baidu.com/s?wd=%E8%8A%B1%E5%8D%83%E4%B8%87%E8%AF%B7%E5%A4%96%E6%8F%B4+%E8%BF%99%E8%BF%98%E6%98%AF%E7%BE%A4%E4%BC%97%E6%80%A7%E8%BF%90%E5%8A%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [为亚太稳定繁荣作出更多贡献](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%9A%E5%A4%AA%E7%A8%B3%E5%AE%9A%E7%B9%81%E8%8D%A3%E4%BD%9C%E5%87%BA%E6%9B%B4%E5%A4%9A%E8%B4%A1%E7%8C%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [4885份出生证失窃 时任科长被判8年](https://www.baidu.com/s?wd=4885%E4%BB%BD%E5%87%BA%E7%94%9F%E8%AF%81%E5%A4%B1%E7%AA%83+%E6%97%B6%E4%BB%BB%E7%A7%91%E9%95%BF%E8%A2%AB%E5%88%A48%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [官方回应网传国企领导别车逼停游客](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E5%88%AB%E8%BD%A6%E9%80%BC%E5%81%9C%E6%B8%B8%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [两所高校官宣共用一扇校门](https://www.baidu.com/s?wd=%E4%B8%A4%E6%89%80%E9%AB%98%E6%A0%A1%E5%AE%98%E5%AE%A3%E5%85%B1%E7%94%A8%E4%B8%80%E6%89%87%E6%A0%A1%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [向“新”而行折射中国经济新活力](https://www.baidu.com/s?wd=%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E8%80%8C%E8%A1%8C%E6%8A%98%E5%B0%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [花千万请外援 这还是群众性运动？](https://www.baidu.com/s?wd=%E8%8A%B1%E5%8D%83%E4%B8%87%E8%AF%B7%E5%A4%96%E6%8F%B4+%E8%BF%99%E8%BF%98%E6%98%AF%E7%BE%A4%E4%BC%97%E6%80%A7%E8%BF%90%E5%8A%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
