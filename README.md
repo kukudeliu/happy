@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 12:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 12:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [商丘妇幼保健院保健科原科长被判8年](https://s.weibo.com/weibo?q=%23%E5%95%86%E4%B8%98%E5%A6%87%E5%B9%BC%E4%BF%9D%E5%81%A5%E9%99%A2%E4%BF%9D%E5%81%A5%E7%A7%91%E5%8E%9F%E7%A7%91%E9%95%BF%E8%A2%AB%E5%88%A48%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [光腿神器的危害有多大](https://s.weibo.com/weibo?q=%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7&t=31&band_rank=7&Refer=top)<br />
 8. [姜雪宁 姐宝女](https://s.weibo.com/weibo?q=%E5%A7%9C%E9%9B%AA%E5%AE%81%20%E5%A7%90%E5%AE%9D%E5%A5%B3&t=31&band_rank=8&Refer=top)<br />
-9. [KPOP炸裂周边 成员脸面膜](https://s.weibo.com/weibo?q=KPOP%E7%82%B8%E8%A3%82%E5%91%A8%E8%BE%B9%20%E6%88%90%E5%91%98%E8%84%B8%E9%9D%A2%E8%86%9C&t=31&band_rank=9&Refer=top)<br />
+9. [叶剑英元帅夫人吴博逝世](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E5%89%91%E8%8B%B1%E5%85%83%E5%B8%85%E5%A4%AB%E4%BA%BA%E5%90%B4%E5%8D%9A%E9%80%9D%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
