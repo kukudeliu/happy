@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 16:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 16:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [网易向国家市场监管总局举报雀巢](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%98%93%E5%90%91%E5%9B%BD%E5%AE%B6%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E6%80%BB%E5%B1%80%E4%B8%BE%E6%8A%A5%E9%9B%80%E5%B7%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [爱奇艺尖叫之夜第一波嘉宾名单](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%AC%AC%E4%B8%80%E6%B3%A2%E5%98%89%E5%AE%BE%E5%90%8D%E5%8D%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [四川一地规定不叠被子罚10元](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%9C%B0%E8%A7%84%E5%AE%9A%E4%B8%8D%E5%8F%A0%E8%A2%AB%E5%AD%90%E7%BD%9A10%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [酱园弄 杨幂](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%20%E6%9D%A8%E5%B9%82&t=31&band_rank=9&Refer=top)<br />
+9. [法老的宠妃 再会亦不忘却往生](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%81%E7%9A%84%E5%AE%A0%E5%A6%83%20%E5%86%8D%E4%BC%9A%E4%BA%A6%E4%B8%8D%E5%BF%98%E5%8D%B4%E5%BE%80%E7%94%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
