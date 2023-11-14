@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 02:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 02:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [1700元的林清轩香水下架](https://s.weibo.com/weibo?q=%231700%E5%85%83%E7%9A%84%E6%9E%97%E6%B8%85%E8%BD%A9%E9%A6%99%E6%B0%B4%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [男子突然倒地2身着藏装姑娘跪地救人](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%AA%81%E7%84%B6%E5%80%92%E5%9C%B02%E8%BA%AB%E7%9D%80%E8%97%8F%E8%A3%85%E5%A7%91%E5%A8%98%E8%B7%AA%E5%9C%B0%E6%95%91%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [王自如采访](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%87%AA%E5%A6%82%E9%87%87%E8%AE%BF&t=31&band_rank=7&Refer=top)<br />
-8. [谁家发烧用冻鱼退烧](https://s.weibo.com/weibo?q=%E8%B0%81%E5%AE%B6%E5%8F%91%E7%83%A7%E7%94%A8%E5%86%BB%E9%B1%BC%E9%80%80%E7%83%A7&t=31&band_rank=8&Refer=top)<br />
-9. [够了 老子心疼罐罐](https://s.weibo.com/weibo?q=%E5%A4%9F%E4%BA%86%20%E8%80%81%E5%AD%90%E5%BF%83%E7%96%BC%E7%BD%90%E7%BD%90&t=31&band_rank=9&Refer=top)<br />
+8. [够了 老子心疼罐罐](https://s.weibo.com/weibo?q=%E5%A4%9F%E4%BA%86%20%E8%80%81%E5%AD%90%E5%BF%83%E7%96%BC%E7%BD%90%E7%BD%90&t=31&band_rank=8&Refer=top)<br />
+9. [谁家发烧用冻鱼退烧](https://s.weibo.com/weibo?q=%E8%B0%81%E5%AE%B6%E5%8F%91%E7%83%A7%E7%94%A8%E5%86%BB%E9%B1%BC%E9%80%80%E7%83%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
