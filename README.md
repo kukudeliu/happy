@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 00:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 00:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [感染幽门螺杆菌胃癌风险或翻倍](https://s.weibo.com/weibo?q=%23%E6%84%9F%E6%9F%93%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E8%83%83%E7%99%8C%E9%A3%8E%E9%99%A9%E6%88%96%E7%BF%BB%E5%80%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [谁家发烧用冻鱼退烧](https://s.weibo.com/weibo?q=%E8%B0%81%E5%AE%B6%E5%8F%91%E7%83%A7%E7%94%A8%E5%86%BB%E9%B1%BC%E9%80%80%E7%83%A7&t=31&band_rank=7&Refer=top)<br />
 8. [够了 老子心疼罐罐](https://s.weibo.com/weibo?q=%E5%A4%9F%E4%BA%86%20%E8%80%81%E5%AD%90%E5%BF%83%E7%96%BC%E7%BD%90%E7%BD%90&t=31&band_rank=8&Refer=top)<br />
-9. [陈思诚段奕宏李晨拖张译进迪厅](https://s.weibo.com/weibo?q=%E9%99%88%E6%80%9D%E8%AF%9A%E6%AE%B5%E5%A5%95%E5%AE%8F%E6%9D%8E%E6%99%A8%E6%8B%96%E5%BC%A0%E8%AF%91%E8%BF%9B%E8%BF%AA%E5%8E%85&t=31&band_rank=9&Refer=top)<br />
+9. [酮症酸中毒症](https://s.weibo.com/weibo?q=%23%E9%85%AE%E7%97%87%E9%85%B8%E4%B8%AD%E6%AF%92%E7%97%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
