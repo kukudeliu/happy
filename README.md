@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 10:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 10:02:01</h4></div>
 
 > 微博  
 
-1. [网友吐槽政务大厅全天工作6个小时](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E4%B8%AA%E5%B0%8F%E6%97%B6%23&t=31&band_rank=1&Refer=top)<br />
-2. [七宗罪PDF当事人方某已去世](https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%AE%97%E7%BD%AAPDF%E5%BD%93%E4%BA%8B%E4%BA%BA%E6%96%B9%E6%9F%90%E5%B7%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
+1. [七宗罪PDF当事人方某已去世](https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%AE%97%E7%BD%AAPDF%E5%BD%93%E4%BA%8B%E4%BA%BA%E6%96%B9%E6%9F%90%E5%B7%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
+2. [网友吐槽政务大厅全天工作6个小时](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E4%B8%AA%E5%B0%8F%E6%97%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [聚焦中国经济圆桌会](https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9C%86%E6%A1%8C%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [叶剑英元帅夫人吴博逝世](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E5%89%91%E8%8B%B1%E5%85%83%E5%B8%85%E5%A4%AB%E4%BA%BA%E5%90%B4%E5%8D%9A%E9%80%9D%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [在何猷君身上看到了生理性喜欢的样子](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%BD%95%E7%8C%B7%E5%90%9B%E8%BA%AB%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BA%86%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
