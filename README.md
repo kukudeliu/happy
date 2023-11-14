@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 00:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 00:49:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [花花呼呼大睡弟弟疯狂营业](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%91%BC%E5%91%BC%E5%A4%A7%E7%9D%A1%E5%BC%9F%E5%BC%9F%E7%96%AF%E7%8B%82%E8%90%A5%E4%B8%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [酮症酸中毒症](https://s.weibo.com/weibo?q=%23%E9%85%AE%E7%97%87%E9%85%B8%E4%B8%AD%E6%AF%92%E7%97%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈思诚段奕宏李晨拖张译进迪厅](https://s.weibo.com/weibo?q=%E9%99%88%E6%80%9D%E8%AF%9A%E6%AE%B5%E5%A5%95%E5%AE%8F%E6%9D%8E%E6%99%A8%E6%8B%96%E5%BC%A0%E8%AF%91%E8%BF%9B%E8%BF%AA%E5%8E%85&t=31&band_rank=8&Refer=top)<br />
-9. [以爱为营预告](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E9%A2%84%E5%91%8A&t=31&band_rank=9&Refer=top)<br />
+9. [够了 老子心疼罐罐](https://s.weibo.com/weibo?q=%E5%A4%9F%E4%BA%86%20%E8%80%81%E5%AD%90%E5%BF%83%E7%96%BC%E7%BD%90%E7%BD%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
