@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 16:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 16:03:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 > 百度  
 
 1. [时时放心不下的牵挂](https://www.baidu.com/s?wd=%E6%97%B6%E6%97%B6%E6%94%BE%E5%BF%83%E4%B8%8D%E4%B8%8B%E7%9A%84%E7%89%B5%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [信用卡还款 工行等多家银行出新规](https://www.baidu.com/s?wd=%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%BF%98%E6%AC%BE+%E5%B7%A5%E8%A1%8C%E7%AD%89%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%87%BA%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [老人在短视频里演恶婆婆 月赚4万](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%9C%A8%E7%9F%AD%E8%A7%86%E9%A2%91%E9%87%8C%E6%BC%94%E6%81%B6%E5%A9%86%E5%A9%86+%E6%9C%88%E8%B5%9A4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [中国公民已于日前全部安全离开加沙](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B7%B2%E4%BA%8E%E6%97%A5%E5%89%8D%E5%85%A8%E9%83%A8%E5%AE%89%E5%85%A8%E7%A6%BB%E5%BC%80%E5%8A%A0%E6%B2%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [信用卡还款 工行等多家银行出新规](https://www.baidu.com/s?wd=%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%BF%98%E6%AC%BE+%E5%B7%A5%E8%A1%8C%E7%AD%89%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%87%BA%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [朝着构建亚太命运共同体迈进](https://www.baidu.com/s?wd=%E6%9C%9D%E7%9D%80%E6%9E%84%E5%BB%BA%E4%BA%9A%E5%A4%AA%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%E8%BF%88%E8%BF%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [四川凉山一村：蹲地用餐罚20元](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E4%B8%80%E6%9D%91%EF%BC%9A%E8%B9%B2%E5%9C%B0%E7%94%A8%E9%A4%90%E7%BD%9A20%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [29岁网红“快乐小赵”去世](https://www.baidu.com/s?wd=29%E5%B2%81%E7%BD%91%E7%BA%A2%E2%80%9C%E5%BF%AB%E4%B9%90%E5%B0%8F%E8%B5%B5%E2%80%9D%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,8 +30,8 @@
 > 哔哩哔哩  
 
 1. [时时放心不下的牵挂](https://www.baidu.com/s?wd=%E6%97%B6%E6%97%B6%E6%94%BE%E5%BF%83%E4%B8%8D%E4%B8%8B%E7%9A%84%E7%89%B5%E6%8C%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [信用卡还款 工行等多家银行出新规](https://www.baidu.com/s?wd=%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%BF%98%E6%AC%BE+%E5%B7%A5%E8%A1%8C%E7%AD%89%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%87%BA%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [老人在短视频里演恶婆婆 月赚4万](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%9C%A8%E7%9F%AD%E8%A7%86%E9%A2%91%E9%87%8C%E6%BC%94%E6%81%B6%E5%A9%86%E5%A9%86+%E6%9C%88%E8%B5%9A4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [中国公民已于日前全部安全离开加沙](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B7%B2%E4%BA%8E%E6%97%A5%E5%89%8D%E5%85%A8%E9%83%A8%E5%AE%89%E5%85%A8%E7%A6%BB%E5%BC%80%E5%8A%A0%E6%B2%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [信用卡还款 工行等多家银行出新规](https://www.baidu.com/s?wd=%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%BF%98%E6%AC%BE+%E5%B7%A5%E8%A1%8C%E7%AD%89%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%87%BA%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [朝着构建亚太命运共同体迈进](https://www.baidu.com/s?wd=%E6%9C%9D%E7%9D%80%E6%9E%84%E5%BB%BA%E4%BA%9A%E5%A4%AA%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%E8%BF%88%E8%BF%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [四川凉山一村：蹲地用餐罚20元](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E4%B8%80%E6%9D%91%EF%BC%9A%E8%B9%B2%E5%9C%B0%E7%94%A8%E9%A4%90%E7%BD%9A20%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [29岁网红“快乐小赵”去世](https://www.baidu.com/s?wd=29%E5%B2%81%E7%BD%91%E7%BA%A2%E2%80%9C%E5%BF%AB%E4%B9%90%E5%B0%8F%E8%B5%B5%E2%80%9D%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
