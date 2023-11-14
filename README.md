@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 16:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 16:14:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [朝着构建亚太命运共同体迈进](https://www.baidu.com/s?wd=%E6%9C%9D%E7%9D%80%E6%9E%84%E5%BB%BA%E4%BA%9A%E5%A4%AA%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%E8%BF%88%E8%BF%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [四川凉山一村：蹲地用餐罚20元](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E4%B8%80%E6%9D%91%EF%BC%9A%E8%B9%B2%E5%9C%B0%E7%94%A8%E9%A4%90%E7%BD%9A20%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [29岁网红“快乐小赵”去世](https://www.baidu.com/s?wd=29%E5%B2%81%E7%BD%91%E7%BA%A2%E2%80%9C%E5%BF%AB%E4%B9%90%E5%B0%8F%E8%B5%B5%E2%80%9D%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [吉林浮桥案再审:依然指控修桥者有罪](https://www.baidu.com/s?wd=%E5%90%89%E6%9E%97%E6%B5%AE%E6%A1%A5%E6%A1%88%E5%86%8D%E5%AE%A1%3A%E4%BE%9D%E7%84%B6%E6%8C%87%E6%8E%A7%E4%BF%AE%E6%A1%A5%E8%80%85%E6%9C%89%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女教练意外身亡 滑雪跟拍摄影引争议](https://www.baidu.com/s?wd=%E5%A5%B3%E6%95%99%E7%BB%83%E6%84%8F%E5%A4%96%E8%BA%AB%E4%BA%A1+%E6%BB%91%E9%9B%AA%E8%B7%9F%E6%8B%8D%E6%91%84%E5%BD%B1%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [贾乃亮双11销售额超13.6亿](https://www.baidu.com/s?wd=%E8%B4%BE%E4%B9%83%E4%BA%AE%E5%8F%8C11%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%8513.6%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [邝肖卿成为中国女首富](https://www.baidu.com/s?wd=%E9%82%9D%E8%82%96%E5%8D%BF%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公交司机救助乘客被开除系谣言](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E6%95%91%E5%8A%A9%E4%B9%98%E5%AE%A2%E8%A2%AB%E5%BC%80%E9%99%A4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [朝着构建亚太命运共同体迈进](https://www.baidu.com/s?wd=%E6%9C%9D%E7%9D%80%E6%9E%84%E5%BB%BA%E4%BA%9A%E5%A4%AA%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%E8%BF%88%E8%BF%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [四川凉山一村：蹲地用餐罚20元](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E4%B8%80%E6%9D%91%EF%BC%9A%E8%B9%B2%E5%9C%B0%E7%94%A8%E9%A4%90%E7%BD%9A20%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [29岁网红“快乐小赵”去世](https://www.baidu.com/s?wd=29%E5%B2%81%E7%BD%91%E7%BA%A2%E2%80%9C%E5%BF%AB%E4%B9%90%E5%B0%8F%E8%B5%B5%E2%80%9D%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [吉林浮桥案再审:依然指控修桥者有罪](https://www.baidu.com/s?wd=%E5%90%89%E6%9E%97%E6%B5%AE%E6%A1%A5%E6%A1%88%E5%86%8D%E5%AE%A1%3A%E4%BE%9D%E7%84%B6%E6%8C%87%E6%8E%A7%E4%BF%AE%E6%A1%A5%E8%80%85%E6%9C%89%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女教练意外身亡 滑雪跟拍摄影引争议](https://www.baidu.com/s?wd=%E5%A5%B3%E6%95%99%E7%BB%83%E6%84%8F%E5%A4%96%E8%BA%AB%E4%BA%A1+%E6%BB%91%E9%9B%AA%E8%B7%9F%E6%8B%8D%E6%91%84%E5%BD%B1%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [贾乃亮双11销售额超13.6亿](https://www.baidu.com/s?wd=%E8%B4%BE%E4%B9%83%E4%BA%AE%E5%8F%8C11%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%8513.6%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [邝肖卿成为中国女首富](https://www.baidu.com/s?wd=%E9%82%9D%E8%82%96%E5%8D%BF%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公交司机救助乘客被开除系谣言](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E6%95%91%E5%8A%A9%E4%B9%98%E5%AE%A2%E8%A2%AB%E5%BC%80%E9%99%A4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
