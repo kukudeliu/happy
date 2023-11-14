@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 10:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 10:09:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [知情人称缅北电诈成员劝降视频属实](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E6%88%90%E5%91%98%E5%8A%9D%E9%99%8D%E8%A7%86%E9%A2%91%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [在东北 一切笨的东西都会被吃掉](https://www.baidu.com/s?wd=%E5%9C%A8%E4%B8%9C%E5%8C%97+%E4%B8%80%E5%88%87%E7%AC%A8%E7%9A%84%E4%B8%9C%E8%A5%BF%E9%83%BD%E4%BC%9A%E8%A2%AB%E5%90%83%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南航白菜价机票尴尬了谁](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E7%99%BD%E8%8F%9C%E4%BB%B7%E6%9C%BA%E7%A5%A8%E5%B0%B4%E5%B0%AC%E4%BA%86%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“抢药材”村民：打过招呼能叫抢？](https://www.baidu.com/s?wd=%E2%80%9C%E6%8A%A2%E8%8D%AF%E6%9D%90%E2%80%9D%E6%9D%91%E6%B0%91%EF%BC%9A%E6%89%93%E8%BF%87%E6%8B%9B%E5%91%BC%E8%83%BD%E5%8F%AB%E6%8A%A2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上海一咖啡店推出6200元一杯咖啡](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%92%96%E5%95%A1%E5%BA%97%E6%8E%A8%E5%87%BA6200%E5%85%83%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [知情人称缅北电诈成员劝降视频属实](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E6%88%90%E5%91%98%E5%8A%9D%E9%99%8D%E8%A7%86%E9%A2%91%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [在东北 一切笨的东西都会被吃掉](https://www.baidu.com/s?wd=%E5%9C%A8%E4%B8%9C%E5%8C%97+%E4%B8%80%E5%88%87%E7%AC%A8%E7%9A%84%E4%B8%9C%E8%A5%BF%E9%83%BD%E4%BC%9A%E8%A2%AB%E5%90%83%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南航白菜价机票尴尬了谁](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E7%99%BD%E8%8F%9C%E4%BB%B7%E6%9C%BA%E7%A5%A8%E5%B0%B4%E5%B0%AC%E4%BA%86%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“抢药材”村民：打过招呼能叫抢？](https://www.baidu.com/s?wd=%E2%80%9C%E6%8A%A2%E8%8D%AF%E6%9D%90%E2%80%9D%E6%9D%91%E6%B0%91%EF%BC%9A%E6%89%93%E8%BF%87%E6%8B%9B%E5%91%BC%E8%83%BD%E5%8F%AB%E6%8A%A2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上海一咖啡店推出6200元一杯咖啡](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%92%96%E5%95%A1%E5%BA%97%E6%8E%A8%E5%87%BA6200%E5%85%83%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
