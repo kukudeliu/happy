@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 20:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 20:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [斯嘉丽回应黑寡妇回归](https://s.weibo.com/weibo?q=%23%E6%96%AF%E5%98%89%E4%B8%BD%E5%9B%9E%E5%BA%94%E9%BB%91%E5%AF%A1%E5%A6%87%E5%9B%9E%E5%BD%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [Knight获得微博年度瞩目运动员](https://s.weibo.com/weibo?q=%23Knight%E8%8E%B7%E5%BE%97%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E7%9E%A9%E7%9B%AE%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [RedVelvet34分钟KillingVoice](https://s.weibo.com/weibo?q=RedVelvet34%E5%88%86%E9%92%9FKillingVoice&t=31&band_rank=8&Refer=top)<br />
-9. [TheShy获微博年度瞩目运动员](https://s.weibo.com/weibo?q=%23TheShy%E8%8E%B7%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E7%9E%A9%E7%9B%AE%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [Fly唱歌一诺九尾的反应](https://s.weibo.com/weibo?q=%23Fly%E5%94%B1%E6%AD%8C%E4%B8%80%E8%AF%BA%E4%B9%9D%E5%B0%BE%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
