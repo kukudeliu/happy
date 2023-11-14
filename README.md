@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 07:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 07:32:01</h4></div>
 
 > 微博  
 
-1. [中美元首会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=1&Refer=top)<br />
-2. [华人华侨在旧金山组成欢迎人群](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%BA%BA%E5%8D%8E%E4%BE%A8%E5%9C%A8%E6%97%A7%E9%87%91%E5%B1%B1%E7%BB%84%E6%88%90%E6%AC%A2%E8%BF%8E%E4%BA%BA%E7%BE%A4%23&t=31&band_rank=2&Refer=top)<br />
+1. [华人华侨在旧金山组成欢迎人群](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%BA%BA%E5%8D%8E%E4%BE%A8%E5%9C%A8%E6%97%A7%E9%87%91%E5%B1%B1%E7%BB%84%E6%88%90%E6%AC%A2%E8%BF%8E%E4%BA%BA%E7%BE%A4%23&t=31&band_rank=1&Refer=top)<br />
+2. [中美元首会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=2&Refer=top)<br />
 3. [中欧班列跑出亮眼成绩单](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%AC%A7%E7%8F%AD%E5%88%97%E8%B7%91%E5%87%BA%E4%BA%AE%E7%9C%BC%E6%88%90%E7%BB%A9%E5%8D%95%23&t=31&band_rank=3&Refer=top)<br />
 4. [董明珠 王自如](https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%20%E7%8E%8B%E8%87%AA%E5%A6%82&t=31&band_rank=4&Refer=top)<br />
 5. [糖尿病前期无明显症状极易被忽视](https://s.weibo.com/weibo?q=%23%E7%B3%96%E5%B0%BF%E7%97%85%E5%89%8D%E6%9C%9F%E6%97%A0%E6%98%8E%E6%98%BE%E7%97%87%E7%8A%B6%E6%9E%81%E6%98%93%E8%A2%AB%E5%BF%BD%E8%A7%86%23&t=31&band_rank=5&Refer=top)<br />
