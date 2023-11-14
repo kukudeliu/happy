@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 22:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 22:10:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [燕临 我哭死](https://s.weibo.com/weibo?q=%E7%87%95%E4%B8%B4%20%E6%88%91%E5%93%AD%E6%AD%BB&t=31&band_rank=4&Refer=top)<br />
 5. [以爱为营预告](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E9%A2%84%E5%91%8A&t=31&band_rank=5&Refer=top)<br />
 6. [JackeyLove和孙杨合照](https://s.weibo.com/weibo?q=%23JackeyLove%E5%92%8C%E5%AD%99%E6%9D%A8%E5%90%88%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [赵丽颖谈首当监制感受](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%B0%88%E9%A6%96%E5%BD%93%E7%9B%91%E5%88%B6%E6%84%9F%E5%8F%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [魏大勋录制大侦探9](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%BD%95%E5%88%B6%E5%A4%A7%E4%BE%A6%E6%8E%A29%23&t=31&band_rank=8&Refer=top)<br />
-9. [王自如 罗永浩](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%87%AA%E5%A6%82%20%E7%BD%97%E6%B0%B8%E6%B5%A9&t=31&band_rank=9&Refer=top)<br />
+7. [魏大勋录制大侦探9](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%BD%95%E5%88%B6%E5%A4%A7%E4%BE%A6%E6%8E%A29%23&t=31&band_rank=7&Refer=top)<br />
+8. [赵丽颖谈首当监制感受](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%B0%88%E9%A6%96%E5%BD%93%E7%9B%91%E5%88%B6%E6%84%9F%E5%8F%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [娜扎电梯生图](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%94%B5%E6%A2%AF%E7%94%9F%E5%9B%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
