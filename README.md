@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 00:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 00:16:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [中国古人的审美有多绝](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BA%BA%E7%9A%84%E5%AE%A1%E7%BE%8E%E6%9C%89%E5%A4%9A%E7%BB%9D%23&t=31&band_rank=3&Refer=top)<br />
 4. [董明珠 王自如](https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%20%E7%8E%8B%E8%87%AA%E5%A6%82&t=31&band_rank=4&Refer=top)<br />
 5. [感染幽门螺杆菌胃癌风险或翻倍](https://s.weibo.com/weibo?q=%23%E6%84%9F%E6%9F%93%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E8%83%83%E7%99%8C%E9%A3%8E%E9%99%A9%E6%88%96%E7%BF%BB%E5%80%8D%23&t=31&band_rank=5&Refer=top)<br />
-6. [燕临 我哭死](https://s.weibo.com/weibo?q=%E7%87%95%E4%B8%B4%20%E6%88%91%E5%93%AD%E6%AD%BB&t=31&band_rank=6&Refer=top)<br />
-7. [陈思诚段奕宏李晨拖张译进迪厅](https://s.weibo.com/weibo?q=%E9%99%88%E6%80%9D%E8%AF%9A%E6%AE%B5%E5%A5%95%E5%AE%8F%E6%9D%8E%E6%99%A8%E6%8B%96%E5%BC%A0%E8%AF%91%E8%BF%9B%E8%BF%AA%E5%8E%85&t=31&band_rank=7&Refer=top)<br />
+6. [陈思诚段奕宏李晨拖张译进迪厅](https://s.weibo.com/weibo?q=%E9%99%88%E6%80%9D%E8%AF%9A%E6%AE%B5%E5%A5%95%E5%AE%8F%E6%9D%8E%E6%99%A8%E6%8B%96%E5%BC%A0%E8%AF%91%E8%BF%9B%E8%BF%AA%E5%8E%85&t=31&band_rank=6&Refer=top)<br />
+7. [燕临 我哭死](https://s.weibo.com/weibo?q=%E7%87%95%E4%B8%B4%20%E6%88%91%E5%93%AD%E6%AD%BB&t=31&band_rank=7&Refer=top)<br />
 8. [酮症酸中毒症](https://s.weibo.com/weibo?q=%23%E9%85%AE%E7%97%87%E9%85%B8%E4%B8%AD%E6%AF%92%E7%97%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [以爱为营预告](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E9%A2%84%E5%91%8A&t=31&band_rank=9&Refer=top)<br />
 
