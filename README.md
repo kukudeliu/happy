@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 14:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 14:22:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [为亚太稳定繁荣作出更多贡献](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%9A%E5%A4%AA%E7%A8%B3%E5%AE%9A%E7%B9%81%E8%8D%A3%E4%BD%9C%E5%87%BA%E6%9B%B4%E5%A4%9A%E8%B4%A1%E7%8C%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [邝肖卿成为中国女首富](https://www.baidu.com/s?wd=%E9%82%9D%E8%82%96%E5%8D%BF%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [政务大厅全天工作6小时 官方整改](https://www.baidu.com/s?wd=%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E5%B0%8F%E6%97%B6+%E5%AE%98%E6%96%B9%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [老人在短视频里演恶婆婆 月赚4万](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%9C%A8%E7%9F%AD%E8%A7%86%E9%A2%91%E9%87%8C%E6%BC%94%E6%81%B6%E5%A9%86%E5%A9%86+%E6%9C%88%E8%B5%9A4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [向“新”而行折射中国经济新活力](https://www.baidu.com/s?wd=%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E8%80%8C%E8%A1%8C%E6%8A%98%E5%B0%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [农妇疑生十个孩子 当地：有智力障碍](https://www.baidu.com/s?wd=%E5%86%9C%E5%A6%87%E7%96%91%E7%94%9F%E5%8D%81%E4%B8%AA%E5%AD%A9%E5%AD%90+%E5%BD%93%E5%9C%B0%EF%BC%9A%E6%9C%89%E6%99%BA%E5%8A%9B%E9%9A%9C%E7%A2%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [继萝卜刀后 又有毒玩具风靡校园](https://www.baidu.com/s?wd=%E7%BB%A7%E8%90%9D%E5%8D%9C%E5%88%80%E5%90%8E+%E5%8F%88%E6%9C%89%E6%AF%92%E7%8E%A9%E5%85%B7%E9%A3%8E%E9%9D%A1%E6%A0%A1%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [黄晓明晒与父母及小海绵合照](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E6%99%92%E4%B8%8E%E7%88%B6%E6%AF%8D%E5%8F%8A%E5%B0%8F%E6%B5%B7%E7%BB%B5%E5%90%88%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [政务大厅全天工作6小时 官方整改](https://www.baidu.com/s?wd=%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E5%B0%8F%E6%97%B6+%E5%AE%98%E6%96%B9%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [邝肖卿成为中国女首富](https://www.baidu.com/s?wd=%E9%82%9D%E8%82%96%E5%8D%BF%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [黄晓明晒与父母及小海绵合照](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E6%99%92%E4%B8%8E%E7%88%B6%E6%AF%8D%E5%8F%8A%E5%B0%8F%E6%B5%B7%E7%BB%B5%E5%90%88%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公交司机救助乘客被开除系谣言](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E6%95%91%E5%8A%A9%E4%B9%98%E5%AE%A2%E8%A2%AB%E5%BC%80%E9%99%A4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [为亚太稳定繁荣作出更多贡献](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%9A%E5%A4%AA%E7%A8%B3%E5%AE%9A%E7%B9%81%E8%8D%A3%E4%BD%9C%E5%87%BA%E6%9B%B4%E5%A4%9A%E8%B4%A1%E7%8C%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [邝肖卿成为中国女首富](https://www.baidu.com/s?wd=%E9%82%9D%E8%82%96%E5%8D%BF%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [政务大厅全天工作6小时 官方整改](https://www.baidu.com/s?wd=%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E5%B0%8F%E6%97%B6+%E5%AE%98%E6%96%B9%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [老人在短视频里演恶婆婆 月赚4万](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%9C%A8%E7%9F%AD%E8%A7%86%E9%A2%91%E9%87%8C%E6%BC%94%E6%81%B6%E5%A9%86%E5%A9%86+%E6%9C%88%E8%B5%9A4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [向“新”而行折射中国经济新活力](https://www.baidu.com/s?wd=%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E8%80%8C%E8%A1%8C%E6%8A%98%E5%B0%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [农妇疑生十个孩子 当地：有智力障碍](https://www.baidu.com/s?wd=%E5%86%9C%E5%A6%87%E7%96%91%E7%94%9F%E5%8D%81%E4%B8%AA%E5%AD%A9%E5%AD%90+%E5%BD%93%E5%9C%B0%EF%BC%9A%E6%9C%89%E6%99%BA%E5%8A%9B%E9%9A%9C%E7%A2%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [继萝卜刀后 又有毒玩具风靡校园](https://www.baidu.com/s?wd=%E7%BB%A7%E8%90%9D%E5%8D%9C%E5%88%80%E5%90%8E+%E5%8F%88%E6%9C%89%E6%AF%92%E7%8E%A9%E5%85%B7%E9%A3%8E%E9%9D%A1%E6%A0%A1%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [黄晓明晒与父母及小海绵合照](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E6%99%92%E4%B8%8E%E7%88%B6%E6%AF%8D%E5%8F%8A%E5%B0%8F%E6%B5%B7%E7%BB%B5%E5%90%88%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [政务大厅全天工作6小时 官方整改](https://www.baidu.com/s?wd=%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E5%B0%8F%E6%97%B6+%E5%AE%98%E6%96%B9%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [邝肖卿成为中国女首富](https://www.baidu.com/s?wd=%E9%82%9D%E8%82%96%E5%8D%BF%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [黄晓明晒与父母及小海绵合照](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E6%99%92%E4%B8%8E%E7%88%B6%E6%AF%8D%E5%8F%8A%E5%B0%8F%E6%B5%B7%E7%BB%B5%E5%90%88%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公交司机救助乘客被开除系谣言](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E6%95%91%E5%8A%A9%E4%B9%98%E5%AE%A2%E8%A2%AB%E5%BC%80%E9%99%A4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
