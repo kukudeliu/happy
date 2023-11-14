@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 10:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 10:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [在何猷君身上看到了生理性喜欢的样子](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%BD%95%E7%8C%B7%E5%90%9B%E8%BA%AB%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BA%86%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [23岁女生工地当包工头](https://s.weibo.com/weibo?q=%2323%E5%B2%81%E5%A5%B3%E7%94%9F%E5%B7%A5%E5%9C%B0%E5%BD%93%E5%8C%85%E5%B7%A5%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [十个勤天 去年今日](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%20%E5%8E%BB%E5%B9%B4%E4%BB%8A%E6%97%A5&t=31&band_rank=8&Refer=top)<br />
-9. [苹果公司将禁止摇一摇跳转广告](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%86%E7%A6%81%E6%AD%A2%E6%91%87%E4%B8%80%E6%91%87%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [缅甸电诈园区](https://s.weibo.com/weibo?q=%E7%BC%85%E7%94%B8%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [黄晓明晒与父母及小海绵合照](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E6%99%92%E4%B8%8E%E7%88%B6%E6%AF%8D%E5%8F%8A%E5%B0%8F%E6%B5%B7%E7%BB%B5%E5%90%88%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [谁在资助缅北果敢同盟军](https://www.baidu.com/s?wd=%E8%B0%81%E5%9C%A8%E8%B5%84%E5%8A%A9%E7%BC%85%E5%8C%97%E6%9E%9C%E6%95%A2%E5%90%8C%E7%9B%9F%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子做饭时发现天然气燃烧变绿色](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%9A%E9%A5%AD%E6%97%B6%E5%8F%91%E7%8E%B0%E5%A4%A9%E7%84%B6%E6%B0%94%E7%87%83%E7%83%A7%E5%8F%98%E7%BB%BF%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方辟谣司法所所长殴打群众](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%8F%B8%E6%B3%95%E6%89%80%E6%89%80%E9%95%BF%E6%AE%B4%E6%89%93%E7%BE%A4%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [黄晓明晒与父母及小海绵合照](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E6%99%92%E4%B8%8E%E7%88%B6%E6%AF%8D%E5%8F%8A%E5%B0%8F%E6%B5%B7%E7%BB%B5%E5%90%88%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [谁在资助缅北果敢同盟军](https://www.baidu.com/s?wd=%E8%B0%81%E5%9C%A8%E8%B5%84%E5%8A%A9%E7%BC%85%E5%8C%97%E6%9E%9C%E6%95%A2%E5%90%8C%E7%9B%9F%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子做饭时发现天然气燃烧变绿色](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%9A%E9%A5%AD%E6%97%B6%E5%8F%91%E7%8E%B0%E5%A4%A9%E7%84%B6%E6%B0%94%E7%87%83%E7%83%A7%E5%8F%98%E7%BB%BF%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [女乘客购票默认上铺？12306回应](https://www.baidu.com/s?wd=%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%B4%AD%E7%A5%A8%E9%BB%98%E8%AE%A4%E4%B8%8A%E9%93%BA%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方辟谣司法所所长殴打群众](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%8F%B8%E6%B3%95%E6%89%80%E6%89%80%E9%95%BF%E6%AE%B4%E6%89%93%E7%BE%A4%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
