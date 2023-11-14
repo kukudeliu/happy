@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 04:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 04:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王自如采访](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%87%AA%E5%A6%82%E9%87%87%E8%AE%BF&t=31&band_rank=6&Refer=top)<br />
 7. [1700元的林清轩香水下架](https://s.weibo.com/weibo?q=%231700%E5%85%83%E7%9A%84%E6%9E%97%E6%B8%85%E8%BD%A9%E9%A6%99%E6%B0%B4%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [花花呼呼大睡弟弟疯狂营业](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%91%BC%E5%91%BC%E5%A4%A7%E7%9D%A1%E5%BC%9F%E5%BC%9F%E7%96%AF%E7%8B%82%E8%90%A5%E4%B8%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [谁家发烧用冻鱼退烧](https://s.weibo.com/weibo?q=%E8%B0%81%E5%AE%B6%E5%8F%91%E7%83%A7%E7%94%A8%E5%86%BB%E9%B1%BC%E9%80%80%E7%83%A7&t=31&band_rank=9&Refer=top)<br />
+9. [张遮姜雪宁第一世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%81%AE%E5%A7%9C%E9%9B%AA%E5%AE%81%E7%AC%AC%E4%B8%80%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
