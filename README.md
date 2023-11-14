@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 15:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 15:11:01</h4></div>
 
 > 微博  
 
 1. [快乐小赵 去世](https://s.weibo.com/weibo?q=%E5%BF%AB%E4%B9%90%E5%B0%8F%E8%B5%B5%20%E5%8E%BB%E4%B8%96&t=31&band_rank=1&Refer=top)<br />
 2. [沙特小哥认出迪丽热巴](https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E5%B0%8F%E5%93%A5%E8%AE%A4%E5%87%BA%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=2&Refer=top)<br />
-3. [贾乃亮双11总销售额超13.6亿](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E5%8F%8C11%E6%80%BB%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%8513.6%E4%BA%BF%23&t=31&band_rank=3&Refer=top)<br />
+3. [中国22项农业文化遗产图鉴](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD22%E9%A1%B9%E5%86%9C%E4%B8%9A%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%E5%9B%BE%E9%89%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [酱园弄 杨幂](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%20%E6%9D%A8%E5%B9%82&t=31&band_rank=4&Refer=top)<br />
-5. [美甲好贵](https://s.weibo.com/weibo?q=%E7%BE%8E%E7%94%B2%E5%A5%BD%E8%B4%B5&t=31&band_rank=5&Refer=top)<br />
-6. [黄日华踢人](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%97%A5%E5%8D%8E%E8%B8%A2%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [重返巴厘岛通往旧金山](https://s.weibo.com/weibo?q=%23%E9%87%8D%E8%BF%94%E5%B7%B4%E5%8E%98%E5%B2%9B%E9%80%9A%E5%BE%80%E6%97%A7%E9%87%91%E5%B1%B1%23&t=31&band_rank=7&Refer=top)<br />
+5. [贾乃亮双11总销售额超13.6亿](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E5%8F%8C11%E6%80%BB%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%8513.6%E4%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
+6. [美甲好贵](https://s.weibo.com/weibo?q=%E7%BE%8E%E7%94%B2%E5%A5%BD%E8%B4%B5&t=31&band_rank=6&Refer=top)<br />
+7. [黄日华踢人](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%97%A5%E5%8D%8E%E8%B8%A2%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [当地回应网传长春一农妇生育十个孩子](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%95%BF%E6%98%A5%E4%B8%80%E5%86%9C%E5%A6%87%E7%94%9F%E8%82%B2%E5%8D%81%E4%B8%AA%E5%AD%A9%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
 9. [网友吐槽麦当劳牛奶1杯23元](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E9%BA%A6%E5%BD%93%E5%8A%B3%E7%89%9B%E5%A5%B61%E6%9D%AF23%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
