@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 08:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 08:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘诗诗刘宇宁 你好星期六](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%88%98%E5%AE%87%E5%AE%81%20%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD&t=31&band_rank=6&Refer=top)<br />
 7. [苹果公司将禁止摇一摇跳转广告](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%86%E7%A6%81%E6%AD%A2%E6%91%87%E4%B8%80%E6%91%87%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [印度小伙来中国看望18年前的救命恩人](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%B0%8F%E4%BC%99%E6%9D%A5%E4%B8%AD%E5%9B%BD%E7%9C%8B%E6%9C%9B18%E5%B9%B4%E5%89%8D%E7%9A%84%E6%95%91%E5%91%BD%E6%81%A9%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [防胃癌这5种要少吃不吃](https://s.weibo.com/weibo?q=%23%E9%98%B2%E8%83%83%E7%99%8C%E8%BF%995%E7%A7%8D%E8%A6%81%E5%B0%91%E5%90%83%E4%B8%8D%E5%90%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [知情人证实缅北电诈成员劝降视频属实](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E8%AF%81%E5%AE%9E%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E6%88%90%E5%91%98%E5%8A%9D%E9%99%8D%E8%A7%86%E9%A2%91%E5%B1%9E%E5%AE%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
