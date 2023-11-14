@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 14:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 14:38:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [农妇疑生十个孩子 当地：有智力障碍](https://www.baidu.com/s?wd=%E5%86%9C%E5%A6%87%E7%96%91%E7%94%9F%E5%8D%81%E4%B8%AA%E5%AD%A9%E5%AD%90+%E5%BD%93%E5%9C%B0%EF%BC%9A%E6%9C%89%E6%99%BA%E5%8A%9B%E9%9A%9C%E7%A2%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [继萝卜刀后 又有毒玩具风靡校园](https://www.baidu.com/s?wd=%E7%BB%A7%E8%90%9D%E5%8D%9C%E5%88%80%E5%90%8E+%E5%8F%88%E6%9C%89%E6%AF%92%E7%8E%A9%E5%85%B7%E9%A3%8E%E9%9D%A1%E6%A0%A1%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网易公开举报雀巢](https://www.baidu.com/s?wd=%E7%BD%91%E6%98%93%E5%85%AC%E5%BC%80%E4%B8%BE%E6%8A%A5%E9%9B%80%E5%B7%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [前首相卡梅伦突然复出轰动英国](https://www.baidu.com/s?wd=%E5%89%8D%E9%A6%96%E7%9B%B8%E5%8D%A1%E6%A2%85%E4%BC%A6%E7%AA%81%E7%84%B6%E5%A4%8D%E5%87%BA%E8%BD%B0%E5%8A%A8%E8%8B%B1%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子做饭时发现天然气燃烧变绿色](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%9A%E9%A5%AD%E6%97%B6%E5%8F%91%E7%8E%B0%E5%A4%A9%E7%84%B6%E6%B0%94%E7%87%83%E7%83%A7%E5%8F%98%E7%BB%BF%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公交司机救助乘客被开除系谣言](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E6%95%91%E5%8A%A9%E4%B9%98%E5%AE%A2%E8%A2%AB%E5%BC%80%E9%99%A4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [农妇疑生十个孩子 当地：有智力障碍](https://www.baidu.com/s?wd=%E5%86%9C%E5%A6%87%E7%96%91%E7%94%9F%E5%8D%81%E4%B8%AA%E5%AD%A9%E5%AD%90+%E5%BD%93%E5%9C%B0%EF%BC%9A%E6%9C%89%E6%99%BA%E5%8A%9B%E9%9A%9C%E7%A2%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [继萝卜刀后 又有毒玩具风靡校园](https://www.baidu.com/s?wd=%E7%BB%A7%E8%90%9D%E5%8D%9C%E5%88%80%E5%90%8E+%E5%8F%88%E6%9C%89%E6%AF%92%E7%8E%A9%E5%85%B7%E9%A3%8E%E9%9D%A1%E6%A0%A1%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网易公开举报雀巢](https://www.baidu.com/s?wd=%E7%BD%91%E6%98%93%E5%85%AC%E5%BC%80%E4%B8%BE%E6%8A%A5%E9%9B%80%E5%B7%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [前首相卡梅伦突然复出轰动英国](https://www.baidu.com/s?wd=%E5%89%8D%E9%A6%96%E7%9B%B8%E5%8D%A1%E6%A2%85%E4%BC%A6%E7%AA%81%E7%84%B6%E5%A4%8D%E5%87%BA%E8%BD%B0%E5%8A%A8%E8%8B%B1%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子做饭时发现天然气燃烧变绿色](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%9A%E9%A5%AD%E6%97%B6%E5%8F%91%E7%8E%B0%E5%A4%A9%E7%84%B6%E6%B0%94%E7%87%83%E7%83%A7%E5%8F%98%E7%BB%BF%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公交司机救助乘客被开除系谣言](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E6%95%91%E5%8A%A9%E4%B9%98%E5%AE%A2%E8%A2%AB%E5%BC%80%E9%99%A4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
