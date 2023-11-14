@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 19:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 19:08:01</h4></div>
 
 > 微博  
 
-1. [张翰回应油腻](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%9B%9E%E5%BA%94%E6%B2%B9%E8%85%BB%23&t=31&band_rank=1&Refer=top)<br />
+1. [竞燃之夜](https://s.weibo.com/weibo?q=%E7%AB%9E%E7%87%83%E4%B9%8B%E5%A4%9C&t=31&band_rank=1&Refer=top)<br />
 2. [渐冻人蔡磊激动试用人工喉](https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E4%BA%BA%E8%94%A1%E7%A3%8A%E6%BF%80%E5%8A%A8%E8%AF%95%E7%94%A8%E4%BA%BA%E5%B7%A5%E5%96%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [朝着构建亚太命运共同体不断迈进](https://s.weibo.com/weibo?q=%23%E6%9C%9D%E7%9D%80%E6%9E%84%E5%BB%BA%E4%BA%9A%E5%A4%AA%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%E4%B8%8D%E6%96%AD%E8%BF%88%E8%BF%9B%23&t=31&band_rank=3&Refer=top)<br />
-4. [竞燃之夜](https://s.weibo.com/weibo?q=%E7%AB%9E%E7%87%83%E4%B9%8B%E5%A4%9C&t=31&band_rank=4&Refer=top)<br />
+4. [张翰回应油腻](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%9B%9E%E5%BA%94%E6%B2%B9%E8%85%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [凌晨5点车灯一开照出2只大熊猫](https://s.weibo.com/weibo?q=%23%E5%87%8C%E6%99%A85%E7%82%B9%E8%BD%A6%E7%81%AF%E4%B8%80%E5%BC%80%E7%85%A7%E5%87%BA2%E5%8F%AA%E5%A4%A7%E7%86%8A%E7%8C%AB%23&t=31&band_rank=5&Refer=top)<br />
 6. [联合国总部降半旗](https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E6%80%BB%E9%83%A8%E9%99%8D%E5%8D%8A%E6%97%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [两位唐氏孩子妈妈用20年互相治愈](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BD%8D%E5%94%90%E6%B0%8F%E5%AD%A9%E5%AD%90%E5%A6%88%E5%A6%88%E7%94%A820%E5%B9%B4%E4%BA%92%E7%9B%B8%E6%B2%BB%E6%84%88%23&t=31&band_rank=7&Refer=top)<br />
