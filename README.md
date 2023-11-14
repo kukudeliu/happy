@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 21:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 21:30:01</h4></div>
 
 > 微博  
 
 1. [中美元首会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=1&Refer=top)<br />
 2. [孙颖莎出现时全场的反应](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%87%BA%E7%8E%B0%E6%97%B6%E5%85%A8%E5%9C%BA%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=2&Refer=top)<br />
-3. [JackeyLove和孙杨合照](https://s.weibo.com/weibo?q=%23JackeyLove%E5%92%8C%E5%AD%99%E6%9D%A8%E5%90%88%E7%85%A7%23&t=31&band_rank=3&Refer=top)<br />
+3. [中国古人的审美有多绝](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BA%BA%E7%9A%84%E5%AE%A1%E7%BE%8E%E6%9C%89%E5%A4%9A%E7%BB%9D%23&t=31&band_rank=3&Refer=top)<br />
 4. [燕临 我哭死](https://s.weibo.com/weibo?q=%E7%87%95%E4%B8%B4%20%E6%88%91%E5%93%AD%E6%AD%BB&t=31&band_rank=4&Refer=top)<br />
-5. [赵丽颖谈首当监制感受](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%B0%88%E9%A6%96%E5%BD%93%E7%9B%91%E5%88%B6%E6%84%9F%E5%8F%97%23&t=31&band_rank=5&Refer=top)<br />
-6. [孙颖莎虽迟但到](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%99%BD%E8%BF%9F%E4%BD%86%E5%88%B0%23&t=31&band_rank=6&Refer=top)<br />
-7. [以爱为营预告](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E9%A2%84%E5%91%8A&t=31&band_rank=7&Refer=top)<br />
+5. [JackeyLove和孙杨合照](https://s.weibo.com/weibo?q=%23JackeyLove%E5%92%8C%E5%AD%99%E6%9D%A8%E5%90%88%E7%85%A7%23&t=31&band_rank=5&Refer=top)<br />
+6. [赵丽颖谈首当监制感受](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%B0%88%E9%A6%96%E5%BD%93%E7%9B%91%E5%88%B6%E6%84%9F%E5%8F%97%23&t=31&band_rank=6&Refer=top)<br />
+7. [孙颖莎虽迟但到](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%99%BD%E8%BF%9F%E4%BD%86%E5%88%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [魏大勋录制大侦探9](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%BD%95%E5%88%B6%E5%A4%A7%E4%BE%A6%E6%8E%A29%23&t=31&band_rank=8&Refer=top)<br />
-9. [竞燃之夜](https://s.weibo.com/weibo?q=%E7%AB%9E%E7%87%83%E4%B9%8B%E5%A4%9C&t=31&band_rank=9&Refer=top)<br />
+9. [以爱为营预告](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E9%A2%84%E5%91%8A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
