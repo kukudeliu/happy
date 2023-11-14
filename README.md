@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 08:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-14 08:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南航白菜价机票尴尬了谁](https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E7%99%BD%E8%8F%9C%E4%BB%B7%E6%9C%BA%E7%A5%A8%E5%B0%B4%E5%B0%AC%E4%BA%86%E8%B0%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [苹果公司将禁止摇一摇跳转广告](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%86%E7%A6%81%E6%AD%A2%E6%91%87%E4%B8%80%E6%91%87%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [知情人证实缅北电诈成员劝降视频属实](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E8%AF%81%E5%AE%9E%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E6%88%90%E5%91%98%E5%8A%9D%E9%99%8D%E8%A7%86%E9%A2%91%E5%B1%9E%E5%AE%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [印度小伙来中国看望18年前的救命恩人](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%B0%8F%E4%BC%99%E6%9D%A5%E4%B8%AD%E5%9B%BD%E7%9C%8B%E6%9C%9B18%E5%B9%B4%E5%89%8D%E7%9A%84%E6%95%91%E5%91%BD%E6%81%A9%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [官方通报职校克扣学生巨额实习报酬](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%81%8C%E6%A0%A1%E5%85%8B%E6%89%A3%E5%AD%A6%E7%94%9F%E5%B7%A8%E9%A2%9D%E5%AE%9E%E4%B9%A0%E6%8A%A5%E9%85%AC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
