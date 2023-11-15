@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 13:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 13:10:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [中美元首会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=2&Refer=top)<br />
 3. [关于APEC的知识点](https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8EAPEC%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [肖战 爱奇艺尖叫之夜](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C&t=31&band_rank=4&Refer=top)<br />
-5. [头发到底多久洗一次好](https://s.weibo.com/weibo?q=%23%E5%A4%B4%E5%8F%91%E5%88%B0%E5%BA%95%E5%A4%9A%E4%B9%85%E6%B4%97%E4%B8%80%E6%AC%A1%E5%A5%BD%23&t=31&band_rank=5&Refer=top)<br />
-6. [陈采尼分析迪丽热巴红毯造型](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%87%87%E5%B0%BC%E5%88%86%E6%9E%90%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
+5. [陈采尼分析迪丽热巴红毯造型](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%87%87%E5%B0%BC%E5%88%86%E6%9E%90%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23&t=31&band_rank=5&Refer=top)<br />
+6. [头发到底多久洗一次好](https://s.weibo.com/weibo?q=%23%E5%A4%B4%E5%8F%91%E5%88%B0%E5%BA%95%E5%A4%9A%E4%B9%85%E6%B4%97%E4%B8%80%E6%AC%A1%E5%A5%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [周杰伦预告12月新单曲](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E9%A2%84%E5%91%8A12%E6%9C%88%E6%96%B0%E5%8D%95%E6%9B%B2%23&t=31&band_rank=7&Refer=top)<br />
 8. [快乐老友记](https://s.weibo.com/weibo?q=%E5%BF%AB%E4%B9%90%E8%80%81%E5%8F%8B%E8%AE%B0&t=31&band_rank=8&Refer=top)<br />
-9. [勇士森林狼冲突](https://s.weibo.com/weibo?q=%23%E5%8B%87%E5%A3%AB%E6%A3%AE%E6%9E%97%E7%8B%BC%E5%86%B2%E7%AA%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [阴阳师 非还是欧](https://s.weibo.com/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88%20%E9%9D%9E%E8%BF%98%E6%98%AF%E6%AC%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
