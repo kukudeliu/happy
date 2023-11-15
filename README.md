@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 22:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 22:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小杨哥演唱会成本超3000万](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%90%E6%9C%AC%E8%B6%853000%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [宁安如梦女三](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E5%A5%B3%E4%B8%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [辛芷蕾人设还没立就崩了](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E4%BA%BA%E8%AE%BE%E8%BF%98%E6%B2%A1%E7%AB%8B%E5%B0%B1%E5%B4%A9%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [有种丑叫做腺样体面容](https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%A7%8D%E4%B8%91%E5%8F%AB%E5%81%9A%E8%85%BA%E6%A0%B7%E4%BD%93%E9%9D%A2%E5%AE%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [麦当劳回应牛奶一杯23元](https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%9B%9E%E5%BA%94%E7%89%9B%E5%A5%B6%E4%B8%80%E6%9D%AF23%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
