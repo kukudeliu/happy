@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 16:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 16:45:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [abandon不是第一名了](https://www.baidu.com/s?wd=abandon%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E5%90%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [厦门一10元自助餐厅被查](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E4%B8%8010%E5%85%83%E8%87%AA%E5%8A%A9%E9%A4%90%E5%8E%85%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [癌症发病年轻化？国家癌症中心回应](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E5%8F%91%E7%97%85%E5%B9%B4%E8%BD%BB%E5%8C%96%EF%BC%9F%E5%9B%BD%E5%AE%B6%E7%99%8C%E7%97%87%E4%B8%AD%E5%BF%83%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [6旬教授教室表演手指俯卧撑](https://www.baidu.com/s?wd=6%E6%97%AC%E6%95%99%E6%8E%88%E6%95%99%E5%AE%A4%E8%A1%A8%E6%BC%94%E6%89%8B%E6%8C%87%E4%BF%AF%E5%8D%A7%E6%92%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教体局通报学校校服被质疑像寿衣](https://www.baidu.com/s?wd=%E6%95%99%E4%BD%93%E5%B1%80%E9%80%9A%E6%8A%A5%E5%AD%A6%E6%A0%A1%E6%A0%A1%E6%9C%8D%E8%A2%AB%E8%B4%A8%E7%96%91%E5%83%8F%E5%AF%BF%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼市辟谣网传医保统筹截止日期](https://www.baidu.com/s?wd=%E5%91%BC%E5%B8%82%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [abandon不是第一名了](https://www.baidu.com/s?wd=abandon%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E5%90%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [厦门一10元自助餐厅被查](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E4%B8%8010%E5%85%83%E8%87%AA%E5%8A%A9%E9%A4%90%E5%8E%85%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [癌症发病年轻化？国家癌症中心回应](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E5%8F%91%E7%97%85%E5%B9%B4%E8%BD%BB%E5%8C%96%EF%BC%9F%E5%9B%BD%E5%AE%B6%E7%99%8C%E7%97%87%E4%B8%AD%E5%BF%83%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [6旬教授教室表演手指俯卧撑](https://www.baidu.com/s?wd=6%E6%97%AC%E6%95%99%E6%8E%88%E6%95%99%E5%AE%A4%E8%A1%A8%E6%BC%94%E6%89%8B%E6%8C%87%E4%BF%AF%E5%8D%A7%E6%92%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教体局通报学校校服被质疑像寿衣](https://www.baidu.com/s?wd=%E6%95%99%E4%BD%93%E5%B1%80%E9%80%9A%E6%8A%A5%E5%AD%A6%E6%A0%A1%E6%A0%A1%E6%9C%8D%E8%A2%AB%E8%B4%A8%E7%96%91%E5%83%8F%E5%AF%BF%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼市辟谣网传医保统筹截止日期](https://www.baidu.com/s?wd=%E5%91%BC%E5%B8%82%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
