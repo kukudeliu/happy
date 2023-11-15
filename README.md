@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 08:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 08:35:01</h4></div>
 
 > 微博  
 
 1. [华人华侨在旧金山组成欢迎人群](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%BA%BA%E5%8D%8E%E4%BE%A8%E5%9C%A8%E6%97%A7%E9%87%91%E5%B1%B1%E7%BB%84%E6%88%90%E6%AC%A2%E8%BF%8E%E4%BA%BA%E7%BE%A4%23&t=31&band_rank=1&Refer=top)<br />
 2. [中美元首会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=2&Refer=top)<br />
-3. [思维框架看为什么中美之间要交流](https://s.weibo.com/weibo?q=%23%E6%80%9D%E7%BB%B4%E6%A1%86%E6%9E%B6%E7%9C%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E7%BE%8E%E4%B9%8B%E9%97%B4%E8%A6%81%E4%BA%A4%E6%B5%81%23&t=31&band_rank=3&Refer=top)<br />
+3. [感受中美民意暖流](https://s.weibo.com/weibo?q=%23%E6%84%9F%E5%8F%97%E4%B8%AD%E7%BE%8E%E6%B0%91%E6%84%8F%E6%9A%96%E6%B5%81%23&t=31&band_rank=3&Refer=top)<br />
 4. [网购了件大衣穿上变成座山雕](https://s.weibo.com/weibo?q=%E7%BD%91%E8%B4%AD%E4%BA%86%E4%BB%B6%E5%A4%A7%E8%A1%A3%E7%A9%BF%E4%B8%8A%E5%8F%98%E6%88%90%E5%BA%A7%E5%B1%B1%E9%9B%95&t=31&band_rank=4&Refer=top)<br />
 5. [糖尿病前期无明显症状极易被忽视](https://s.weibo.com/weibo?q=%23%E7%B3%96%E5%B0%BF%E7%97%85%E5%89%8D%E6%9C%9F%E6%97%A0%E6%98%8E%E6%98%BE%E7%97%87%E7%8A%B6%E6%9E%81%E6%98%93%E8%A2%AB%E5%BF%BD%E8%A7%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [花花呼呼大睡弟弟疯狂营业](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%91%BC%E5%91%BC%E5%A4%A7%E7%9D%A1%E5%BC%9F%E5%BC%9F%E7%96%AF%E7%8B%82%E8%90%A5%E4%B8%9A%23&t=31&band_rank=6&Refer=top)<br />
