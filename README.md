@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 16:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 16:25:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [abandon不是第一名了](https://www.baidu.com/s?wd=abandon%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E5%90%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [对以军事行动持何立场？外交部回应](https://www.baidu.com/s?wd=%E5%AF%B9%E4%BB%A5%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E6%8C%81%E4%BD%95%E7%AB%8B%E5%9C%BA%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [癌症发病年轻化？国家癌症中心回应](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E5%8F%91%E7%97%85%E5%B9%B4%E8%BD%BB%E5%8C%96%EF%BC%9F%E5%9B%BD%E5%AE%B6%E7%99%8C%E7%97%87%E4%B8%AD%E5%BF%83%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [经纪人回应明星给电诈家族成员庆生](https://www.baidu.com/s?wd=%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%98%8E%E6%98%9F%E7%BB%99%E7%94%B5%E8%AF%88%E5%AE%B6%E6%97%8F%E6%88%90%E5%91%98%E5%BA%86%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [厦门一10元自助餐厅被查](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E4%B8%8010%E5%85%83%E8%87%AA%E5%8A%A9%E9%A4%90%E5%8E%85%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼市辟谣网传医保统筹截止日期](https://www.baidu.com/s?wd=%E5%91%BC%E5%B8%82%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [abandon不是第一名了](https://www.baidu.com/s?wd=abandon%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E5%90%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [对以军事行动持何立场？外交部回应](https://www.baidu.com/s?wd=%E5%AF%B9%E4%BB%A5%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E6%8C%81%E4%BD%95%E7%AB%8B%E5%9C%BA%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [癌症发病年轻化？国家癌症中心回应](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E5%8F%91%E7%97%85%E5%B9%B4%E8%BD%BB%E5%8C%96%EF%BC%9F%E5%9B%BD%E5%AE%B6%E7%99%8C%E7%97%87%E4%B8%AD%E5%BF%83%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [经纪人回应明星给电诈家族成员庆生](https://www.baidu.com/s?wd=%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%98%8E%E6%98%9F%E7%BB%99%E7%94%B5%E8%AF%88%E5%AE%B6%E6%97%8F%E6%88%90%E5%91%98%E5%BA%86%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [厦门一10元自助餐厅被查](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E4%B8%8010%E5%85%83%E8%87%AA%E5%8A%A9%E9%A4%90%E5%8E%85%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼市辟谣网传医保统筹截止日期](https://www.baidu.com/s?wd=%E5%91%BC%E5%B8%82%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
