@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 20:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 20:55:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [习近平和美国友人的故事](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E7%BE%8E%E5%9B%BD%E5%8F%8B%E4%BA%BA%E7%9A%84%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平时隔六年再访美国](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%97%B6%E9%9A%94%E5%85%AD%E5%B9%B4%E5%86%8D%E8%AE%BF%E7%BE%8E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [中美元首会晤预计时长3到4小时](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E9%A2%84%E8%AE%A1%E6%97%B6%E9%95%BF3%E5%88%B04%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [“顺其自然”25年捐款1577万](https://www.baidu.com/s?wd=%E2%80%9C%E9%A1%BA%E5%85%B6%E8%87%AA%E7%84%B6%E2%80%9D25%E5%B9%B4%E6%8D%90%E6%AC%BE1577%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [推动构建亚太命运共同体](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E6%9E%84%E5%BB%BA%E4%BA%9A%E5%A4%AA%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [习近平和美国友人的故事](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E7%BE%8E%E5%9B%BD%E5%8F%8B%E4%BA%BA%E7%9A%84%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平时隔六年再访美国](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%97%B6%E9%9A%94%E5%85%AD%E5%B9%B4%E5%86%8D%E8%AE%BF%E7%BE%8E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [中美元首会晤预计时长3到4小时](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E9%A2%84%E8%AE%A1%E6%97%B6%E9%95%BF3%E5%88%B04%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [“顺其自然”25年捐款1577万](https://www.baidu.com/s?wd=%E2%80%9C%E9%A1%BA%E5%85%B6%E8%87%AA%E7%84%B6%E2%80%9D25%E5%B9%B4%E6%8D%90%E6%AC%BE1577%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [推动构建亚太命运共同体](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E6%9E%84%E5%BB%BA%E4%BA%9A%E5%A4%AA%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
