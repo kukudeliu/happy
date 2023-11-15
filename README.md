@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 18:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 18:05:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [abandon不是第一名了](https://www.baidu.com/s?wd=abandon%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E5%90%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [拜登：正在努力改善中美关系](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%EF%BC%9A%E6%AD%A3%E5%9C%A8%E5%8A%AA%E5%8A%9B%E6%94%B9%E5%96%84%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [罗翔回应面容苍老头发全白](https://www.baidu.com/s?wd=%E7%BD%97%E7%BF%94%E5%9B%9E%E5%BA%94%E9%9D%A2%E5%AE%B9%E8%8B%8D%E8%80%81%E5%A4%B4%E5%8F%91%E5%85%A8%E7%99%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [厦门一10元自助餐厅被查](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E4%B8%8010%E5%85%83%E8%87%AA%E5%8A%A9%E9%A4%90%E5%8E%85%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [四川的百年柿子瀑布又红了](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%9A%84%E7%99%BE%E5%B9%B4%E6%9F%BF%E5%AD%90%E7%80%91%E5%B8%83%E5%8F%88%E7%BA%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼市辟谣网传医保统筹截止日期](https://www.baidu.com/s?wd=%E5%91%BC%E5%B8%82%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [abandon不是第一名了](https://www.baidu.com/s?wd=abandon%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E5%90%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [拜登：正在努力改善中美关系](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%EF%BC%9A%E6%AD%A3%E5%9C%A8%E5%8A%AA%E5%8A%9B%E6%94%B9%E5%96%84%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [罗翔回应面容苍老头发全白](https://www.baidu.com/s?wd=%E7%BD%97%E7%BF%94%E5%9B%9E%E5%BA%94%E9%9D%A2%E5%AE%B9%E8%8B%8D%E8%80%81%E5%A4%B4%E5%8F%91%E5%85%A8%E7%99%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [厦门一10元自助餐厅被查](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E4%B8%8010%E5%85%83%E8%87%AA%E5%8A%A9%E9%A4%90%E5%8E%85%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [四川的百年柿子瀑布又红了](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%9A%84%E7%99%BE%E5%B9%B4%E6%9F%BF%E5%AD%90%E7%80%91%E5%B8%83%E5%8F%88%E7%BA%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼市辟谣网传医保统筹截止日期](https://www.baidu.com/s?wd=%E5%91%BC%E5%B8%82%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
