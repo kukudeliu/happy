@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 16:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 16:16:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白敬亭宋轶都去尖叫之夜](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E9%83%BD%E5%8E%BB%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴 花少其实是变形计吧](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E8%8A%B1%E5%B0%91%E5%85%B6%E5%AE%9E%E6%98%AF%E5%8F%98%E5%BD%A2%E8%AE%A1%E5%90%A7&t=31&band_rank=7&Refer=top)<br />
 8. [快乐老友记定档每周五](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E4%B9%90%E8%80%81%E5%8F%8B%E8%AE%B0%E5%AE%9A%E6%A1%A3%E6%AF%8F%E5%91%A8%E4%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [S13决赛媒体日](https://s.weibo.com/weibo?q=%23S13%E5%86%B3%E8%B5%9B%E5%AA%92%E4%BD%93%E6%97%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [久坐可能导致死臀综合征](https://s.weibo.com/weibo?q=%23%E4%B9%85%E5%9D%90%E5%8F%AF%E8%83%BD%E5%AF%BC%E8%87%B4%E6%AD%BB%E8%87%80%E7%BB%BC%E5%90%88%E5%BE%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
