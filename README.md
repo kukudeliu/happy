@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 08:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 08:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [糖尿病前期无明显症状极易被忽视](https://s.weibo.com/weibo?q=%23%E7%B3%96%E5%B0%BF%E7%97%85%E5%89%8D%E6%9C%9F%E6%97%A0%E6%98%8E%E6%98%BE%E7%97%87%E7%8A%B6%E6%9E%81%E6%98%93%E8%A2%AB%E5%BF%BD%E8%A7%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [中美元首旧金山会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%97%A7%E9%87%91%E5%B1%B1%E4%BC%9A%E6%99%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [两位唐氏孩子妈妈用20年互相治愈](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BD%8D%E5%94%90%E6%B0%8F%E5%AD%A9%E5%AD%90%E5%A6%88%E5%A6%88%E7%94%A820%E5%B9%B4%E4%BA%92%E7%9B%B8%E6%B2%BB%E6%84%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子突然倒地2身着藏装姑娘跪地救人](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%AA%81%E7%84%B6%E5%80%92%E5%9C%B02%E8%BA%AB%E7%9D%80%E8%97%8F%E8%A3%85%E5%A7%91%E5%A8%98%E8%B7%AA%E5%9C%B0%E6%95%91%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [1700元的林清轩香水下架](https://s.weibo.com/weibo?q=%231700%E5%85%83%E7%9A%84%E6%9E%97%E6%B8%85%E8%BD%A9%E9%A6%99%E6%B0%B4%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
