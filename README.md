@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 08:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 08:31:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [思维框架看为什么中美之间要交流](https://s.weibo.com/weibo?q=%23%E6%80%9D%E7%BB%B4%E6%A1%86%E6%9E%B6%E7%9C%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E7%BE%8E%E4%B9%8B%E9%97%B4%E8%A6%81%E4%BA%A4%E6%B5%81%23&t=31&band_rank=3&Refer=top)<br />
 4. [韩国人评东北大学生现状](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%AF%84%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%8E%B0%E7%8A%B6&t=31&band_rank=4&Refer=top)<br />
 5. [网购了件大衣穿上变成座山雕](https://s.weibo.com/weibo?q=%E7%BD%91%E8%B4%AD%E4%BA%86%E4%BB%B6%E5%A4%A7%E8%A1%A3%E7%A9%BF%E4%B8%8A%E5%8F%98%E6%88%90%E5%BA%A7%E5%B1%B1%E9%9B%95&t=31&band_rank=5&Refer=top)<br />
-6. [糖尿病前期无明显症状极易被忽视](https://s.weibo.com/weibo?q=%23%E7%B3%96%E5%B0%BF%E7%97%85%E5%89%8D%E6%9C%9F%E6%97%A0%E6%98%8E%E6%98%BE%E7%97%87%E7%8A%B6%E6%9E%81%E6%98%93%E8%A2%AB%E5%BF%BD%E8%A7%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [花花呼呼大睡弟弟疯狂营业](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%91%BC%E5%91%BC%E5%A4%A7%E7%9D%A1%E5%BC%9F%E5%BC%9F%E7%96%AF%E7%8B%82%E8%90%A5%E4%B8%9A%23&t=31&band_rank=7&Refer=top)<br />
+6. [花花呼呼大睡弟弟疯狂营业](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%91%BC%E5%91%BC%E5%A4%A7%E7%9D%A1%E5%BC%9F%E5%BC%9F%E7%96%AF%E7%8B%82%E8%90%A5%E4%B8%9A%23&t=31&band_rank=6&Refer=top)<br />
+7. [糖尿病前期无明显症状极易被忽视](https://s.weibo.com/weibo?q=%23%E7%B3%96%E5%B0%BF%E7%97%85%E5%89%8D%E6%9C%9F%E6%97%A0%E6%98%8E%E6%98%BE%E7%97%87%E7%8A%B6%E6%9E%81%E6%98%93%E8%A2%AB%E5%BF%BD%E8%A7%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [两位唐氏孩子妈妈用20年互相治愈](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BD%8D%E5%94%90%E6%B0%8F%E5%AD%A9%E5%AD%90%E5%A6%88%E5%A6%88%E7%94%A820%E5%B9%B4%E4%BA%92%E7%9B%B8%E6%B2%BB%E6%84%88%23&t=31&band_rank=8&Refer=top)<br />
 9. [中美元首旧金山会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%97%A7%E9%87%91%E5%B1%B1%E4%BC%9A%E6%99%A4%23&t=31&band_rank=9&Refer=top)<br />
 
