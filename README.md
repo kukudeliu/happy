@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 06:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 06:59:02</h4></div>
 
 > 微博  
 
 1. [中美元首会晤结束](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E7%BB%93%E6%9D%9F%23&t=31&band_rank=1&Refer=top)<br />
 2. [这个地球容得下中美两国](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E5%9C%B0%E7%90%83%E5%AE%B9%E5%BE%97%E4%B8%8B%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%23&t=31&band_rank=2&Refer=top)<br />
 3. [共同构建亚太命运共同体](https://s.weibo.com/weibo?q=%23%E5%85%B1%E5%90%8C%E6%9E%84%E5%BB%BA%E4%BA%9A%E5%A4%AA%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%23&t=31&band_rank=3&Refer=top)<br />
-4. [中美元首会晤现场](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=4&Refer=top)<br />
-5. [中美各自的成功是彼此的机遇](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%90%84%E8%87%AA%E7%9A%84%E6%88%90%E5%8A%9F%E6%98%AF%E5%BD%BC%E6%AD%A4%E7%9A%84%E6%9C%BA%E9%81%87%23&t=31&band_rank=5&Refer=top)<br />
+4. [中美各自的成功是彼此的机遇](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%90%84%E8%87%AA%E7%9A%84%E6%88%90%E5%8A%9F%E6%98%AF%E5%BD%BC%E6%AD%A4%E7%9A%84%E6%9C%BA%E9%81%87%23&t=31&band_rank=4&Refer=top)<br />
+5. [中美元首会晤现场](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [31岁儿子全职陪护智力2岁妈妈](https://s.weibo.com/weibo?q=%2331%E5%B2%81%E5%84%BF%E5%AD%90%E5%85%A8%E8%81%8C%E9%99%AA%E6%8A%A4%E6%99%BA%E5%8A%9B2%E5%B2%81%E5%A6%88%E5%A6%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [中美元首时隔1年再次面对面会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%97%B6%E9%9A%941%E5%B9%B4%E5%86%8D%E6%AC%A1%E9%9D%A2%E5%AF%B9%E9%9D%A2%E4%BC%9A%E6%99%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [小杨哥演唱会成本超3000万](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%90%E6%9C%AC%E8%B6%853000%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
