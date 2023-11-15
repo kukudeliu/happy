@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 13:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 13:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周杰伦预告12月新单曲](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E9%A2%84%E5%91%8A12%E6%9C%88%E6%96%B0%E5%8D%95%E6%9B%B2%23&t=31&band_rank=6&Refer=top)<br />
 7. [快乐老友记](https://s.weibo.com/weibo?q=%E5%BF%AB%E4%B9%90%E8%80%81%E5%8F%8B%E8%AE%B0&t=31&band_rank=7&Refer=top)<br />
 8. [爱奇艺尖叫之夜第二波阵容](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%AC%AC%E4%BA%8C%E6%B3%A2%E9%98%B5%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [大闸蟹跌破10元](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%B7%8C%E7%A0%B410%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [勇士森林狼冲突](https://s.weibo.com/weibo?q=%23%E5%8B%87%E5%A3%AB%E6%A3%AE%E6%9E%97%E7%8B%BC%E5%86%B2%E7%AA%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
