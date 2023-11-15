@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 02:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 02:11:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [旧金山会晤将启希望中美相向而行](https://s.weibo.com/weibo?q=%23%E6%97%A7%E9%87%91%E5%B1%B1%E4%BC%9A%E6%99%A4%E5%B0%86%E5%90%AF%E5%B8%8C%E6%9C%9B%E4%B8%AD%E7%BE%8E%E7%9B%B8%E5%90%91%E8%80%8C%E8%A1%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [她居然可以自己做马面裙](https://s.weibo.com/weibo?q=%E5%A5%B9%E5%B1%85%E7%84%B6%E5%8F%AF%E4%BB%A5%E8%87%AA%E5%B7%B1%E5%81%9A%E9%A9%AC%E9%9D%A2%E8%A3%99&t=31&band_rank=7&Refer=top)<br />
 8. [大约40%的癌症可以避免](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%BA%A640%25%E7%9A%84%E7%99%8C%E7%97%87%E5%8F%AF%E4%BB%A5%E9%81%BF%E5%85%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [ENHYPEN新专预告](https://s.weibo.com/weibo?q=ENHYPEN%E6%96%B0%E4%B8%93%E9%A2%84%E5%91%8A&t=31&band_rank=9&Refer=top)<br />
+9. [31岁儿子全职陪护智力2岁妈妈](https://s.weibo.com/weibo?q=%2331%E5%B2%81%E5%84%BF%E5%AD%90%E5%85%A8%E8%81%8C%E9%99%AA%E6%8A%A4%E6%99%BA%E5%8A%9B2%E5%B2%81%E5%A6%88%E5%A6%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
