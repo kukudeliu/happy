@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 09:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 09:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [网购了件大衣穿上变成座山雕](https://s.weibo.com/weibo?q=%E7%BD%91%E8%B4%AD%E4%BA%86%E4%BB%B6%E5%A4%A7%E8%A1%A3%E7%A9%BF%E4%B8%8A%E5%8F%98%E6%88%90%E5%BA%A7%E5%B1%B1%E9%9B%95&t=31&band_rank=6&Refer=top)<br />
 7. [中美元首会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [Uzi与Doinb将在S13决赛现场解说](https://s.weibo.com/weibo?q=%23Uzi%E4%B8%8EDoinb%E5%B0%86%E5%9C%A8S13%E5%86%B3%E8%B5%9B%E7%8E%B0%E5%9C%BA%E8%A7%A3%E8%AF%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [糖尿病前期无明显症状极易被忽视](https://s.weibo.com/weibo?q=%23%E7%B3%96%E5%B0%BF%E7%97%85%E5%89%8D%E6%9C%9F%E6%97%A0%E6%98%8E%E6%98%BE%E7%97%87%E7%8A%B6%E6%9E%81%E6%98%93%E8%A2%AB%E5%BF%BD%E8%A7%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [谢危终于发疯了](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8D%B1%E7%BB%88%E4%BA%8E%E5%8F%91%E7%96%AF%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
