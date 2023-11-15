@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 17:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 17:11:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [WBG 选边](https://s.weibo.com/weibo?q=WBG%20%E9%80%89%E8%BE%B9&t=31&band_rank=5&Refer=top)<br />
 6. [何猷君 肯定要办婚礼](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E8%82%AF%E5%AE%9A%E8%A6%81%E5%8A%9E%E5%A9%9A%E7%A4%BC&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭宋轶都去尖叫之夜](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E9%83%BD%E5%8E%BB%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [吴昕互不打扰的家庭关系](https://s.weibo.com/weibo?q=%E5%90%B4%E6%98%95%E4%BA%92%E4%B8%8D%E6%89%93%E6%89%B0%E7%9A%84%E5%AE%B6%E5%BA%AD%E5%85%B3%E7%B3%BB&t=31&band_rank=8&Refer=top)<br />
-9. [租房过一辈子可以吗](https://s.weibo.com/weibo?q=%23%E7%A7%9F%E6%88%BF%E8%BF%87%E4%B8%80%E8%BE%88%E5%AD%90%E5%8F%AF%E4%BB%A5%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [租房过一辈子可以吗](https://s.weibo.com/weibo?q=%23%E7%A7%9F%E6%88%BF%E8%BF%87%E4%B8%80%E8%BE%88%E5%AD%90%E5%8F%AF%E4%BB%A5%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [吴昕互不打扰的家庭关系](https://s.weibo.com/weibo?q=%E5%90%B4%E6%98%95%E4%BA%92%E4%B8%8D%E6%89%93%E6%89%B0%E7%9A%84%E5%AE%B6%E5%BA%AD%E5%85%B3%E7%B3%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [abandon不是第一名了](https://www.baidu.com/s?wd=abandon%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E5%90%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [厦门一10元自助餐厅被查](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E4%B8%8010%E5%85%83%E8%87%AA%E5%8A%A9%E9%A4%90%E5%8E%85%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [癌症发病年轻化？国家癌症中心回应](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E5%8F%91%E7%97%85%E5%B9%B4%E8%BD%BB%E5%8C%96%EF%BC%9F%E5%9B%BD%E5%AE%B6%E7%99%8C%E7%97%87%E4%B8%AD%E5%BF%83%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [教体局通报学校校服被质疑像寿衣](https://www.baidu.com/s?wd=%E6%95%99%E4%BD%93%E5%B1%80%E9%80%9A%E6%8A%A5%E5%AD%A6%E6%A0%A1%E6%A0%A1%E6%9C%8D%E8%A2%AB%E8%B4%A8%E7%96%91%E5%83%8F%E5%AF%BF%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [拜登：正在努力改善中美关系](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%EF%BC%9A%E6%AD%A3%E5%9C%A8%E5%8A%AA%E5%8A%9B%E6%94%B9%E5%96%84%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼市辟谣网传医保统筹截止日期](https://www.baidu.com/s?wd=%E5%91%BC%E5%B8%82%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [abandon不是第一名了](https://www.baidu.com/s?wd=abandon%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E5%90%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [厦门一10元自助餐厅被查](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E4%B8%8010%E5%85%83%E8%87%AA%E5%8A%A9%E9%A4%90%E5%8E%85%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [癌症发病年轻化？国家癌症中心回应](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E5%8F%91%E7%97%85%E5%B9%B4%E8%BD%BB%E5%8C%96%EF%BC%9F%E5%9B%BD%E5%AE%B6%E7%99%8C%E7%97%87%E4%B8%AD%E5%BF%83%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [教体局通报学校校服被质疑像寿衣](https://www.baidu.com/s?wd=%E6%95%99%E4%BD%93%E5%B1%80%E9%80%9A%E6%8A%A5%E5%AD%A6%E6%A0%A1%E6%A0%A1%E6%9C%8D%E8%A2%AB%E8%B4%A8%E7%96%91%E5%83%8F%E5%AF%BF%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [拜登：正在努力改善中美关系](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%EF%BC%9A%E6%AD%A3%E5%9C%A8%E5%8A%AA%E5%8A%9B%E6%94%B9%E5%96%84%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼市辟谣网传医保统筹截止日期](https://www.baidu.com/s?wd=%E5%91%BC%E5%B8%82%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
