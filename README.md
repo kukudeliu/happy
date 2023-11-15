@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 11:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 11:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [森林狼vs勇士](https://s.weibo.com/weibo?q=%23%E6%A3%AE%E6%9E%97%E7%8B%BCvs%E5%8B%87%E5%A3%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [程潇朱正廷翻跳亚超主题曲](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E6%9C%B1%E6%AD%A3%E5%BB%B7%E7%BF%BB%E8%B7%B3%E4%BA%9A%E8%B6%85%E4%B8%BB%E9%A2%98%E6%9B%B2%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘德华巡演官宣](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E5%B7%A1%E6%BC%94%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [易胖体质可能是减出来的](https://s.weibo.com/weibo?q=%23%E6%98%93%E8%83%96%E4%BD%93%E8%B4%A8%E5%8F%AF%E8%83%BD%E6%98%AF%E5%87%8F%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [武大教授硬核方式教年轻人反内卷](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E6%95%99%E6%8E%88%E7%A1%AC%E6%A0%B8%E6%96%B9%E5%BC%8F%E6%95%99%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%8D%E5%86%85%E5%8D%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
