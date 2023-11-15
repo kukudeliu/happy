@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 16:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 16:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吴昕互不打扰的家庭关系](https://s.weibo.com/weibo?q=%E5%90%B4%E6%98%95%E4%BA%92%E4%B8%8D%E6%89%93%E6%89%B0%E7%9A%84%E5%AE%B6%E5%BA%AD%E5%85%B3%E7%B3%BB&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭宋轶都去尖叫之夜](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E9%83%BD%E5%8E%BB%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [研究称两岁之前的记忆或可永久恢复](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E4%B8%A4%E5%B2%81%E4%B9%8B%E5%89%8D%E7%9A%84%E8%AE%B0%E5%BF%86%E6%88%96%E5%8F%AF%E6%B0%B8%E4%B9%85%E6%81%A2%E5%A4%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴 花少其实是变形计吧](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E8%8A%B1%E5%B0%91%E5%85%B6%E5%AE%9E%E6%98%AF%E5%8F%98%E5%BD%A2%E8%AE%A1%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
+9. [租房过一辈子可以吗](https://s.weibo.com/weibo?q=%23%E7%A7%9F%E6%88%BF%E8%BF%87%E4%B8%80%E8%BE%88%E5%AD%90%E5%8F%AF%E4%BB%A5%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
