@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 17:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 17:19:01</h4></div>
 
 > 微博  
 
 1. [中美元首会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=1&Refer=top)<br />
-2. [研究称两岁之前的记忆或可永久恢复](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E4%B8%A4%E5%B2%81%E4%B9%8B%E5%89%8D%E7%9A%84%E8%AE%B0%E5%BF%86%E6%88%96%E5%8F%AF%E6%B0%B8%E4%B9%85%E6%81%A2%E5%A4%8D%23&t=31&band_rank=2&Refer=top)<br />
+2. [25岁大学生变脑瘫儿53岁父亲不离不弃](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8F%98%E8%84%91%E7%98%AB%E5%84%BF53%E5%B2%81%E7%88%B6%E4%BA%B2%E4%B8%8D%E7%A6%BB%E4%B8%8D%E5%BC%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [共同构建亚太命运共同体](https://s.weibo.com/weibo?q=%23%E5%85%B1%E5%90%8C%E6%9E%84%E5%BB%BA%E4%BA%9A%E5%A4%AA%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%23&t=31&band_rank=3&Refer=top)<br />
 4. [WBG 选边](https://s.weibo.com/weibo?q=WBG%20%E9%80%89%E8%BE%B9&t=31&band_rank=4&Refer=top)<br />
 5. [小米汽车](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=5&Refer=top)<br />
 6. [何猷君 肯定要办婚礼](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E8%82%AF%E5%AE%9A%E8%A6%81%E5%8A%9E%E5%A9%9A%E7%A4%BC&t=31&band_rank=6&Refer=top)<br />
 7. [租房过一辈子可以吗](https://s.weibo.com/weibo?q=%23%E7%A7%9F%E6%88%BF%E8%BF%87%E4%B8%80%E8%BE%88%E5%AD%90%E5%8F%AF%E4%BB%A5%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [白敬亭宋轶都去尖叫之夜](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E9%83%BD%E5%8E%BB%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [吴昕互不打扰的家庭关系](https://s.weibo.com/weibo?q=%E5%90%B4%E6%98%95%E4%BA%92%E4%B8%8D%E6%89%93%E6%89%B0%E7%9A%84%E5%AE%B6%E5%BA%AD%E5%85%B3%E7%B3%BB&t=31&band_rank=9&Refer=top)<br />
+8. [研究称两岁之前的记忆或可永久恢复](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E4%B8%A4%E5%B2%81%E4%B9%8B%E5%89%8D%E7%9A%84%E8%AE%B0%E5%BF%86%E6%88%96%E5%8F%AF%E6%B0%B8%E4%B9%85%E6%81%A2%E5%A4%8D%23&t=31&band_rank=8&Refer=top)<br />
+9. [白敬亭宋轶都去尖叫之夜](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E9%83%BD%E5%8E%BB%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
