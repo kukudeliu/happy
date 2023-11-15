@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 15:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 15:20:01</h4></div>
 
 > 微博  
 
 1. [中美元首会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=1&Refer=top)<br />
-2. [运动员遭冰刀割喉身亡一男子被捕](https://s.weibo.com/weibo?q=%23%E8%BF%90%E5%8A%A8%E5%91%98%E9%81%AD%E5%86%B0%E5%88%80%E5%89%B2%E5%96%89%E8%BA%AB%E4%BA%A1%E4%B8%80%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8D%95%23&t=31&band_rank=2&Refer=top)<br />
+2. [迪丽热巴 花少其实是变形计吧](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E8%8A%B1%E5%B0%91%E5%85%B6%E5%AE%9E%E6%98%AF%E5%8F%98%E5%BD%A2%E8%AE%A1%E5%90%A7&t=31&band_rank=2&Refer=top)<br />
 3. [关于APEC的知识点](https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8EAPEC%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [abandon不是第一名了](https://s.weibo.com/weibo?q=%23abandon%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E5%90%8D%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [何猷君 肯定要办婚礼](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E8%82%AF%E5%AE%9A%E8%A6%81%E5%8A%9E%E5%A9%9A%E7%A4%BC&t=31&band_rank=5&Refer=top)<br />
