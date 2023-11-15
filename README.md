@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 05:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 05:51:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中美元首旧金山会晤正式开始](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%97%A7%E9%87%91%E5%B1%B1%E4%BC%9A%E6%99%A4%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [31岁儿子全职陪护智力2岁妈妈](https://s.weibo.com/weibo?q=%2331%E5%B2%81%E5%84%BF%E5%AD%90%E5%85%A8%E8%81%8C%E9%99%AA%E6%8A%A4%E6%99%BA%E5%8A%9B2%E5%B2%81%E5%A6%88%E5%A6%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [中美元首会晤现场](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [大约40%的癌症可以避免](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%BA%A640%25%E7%9A%84%E7%99%8C%E7%97%87%E5%8F%AF%E4%BB%A5%E9%81%BF%E5%85%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [小杨哥演唱会成本超3000万](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%90%E6%9C%AC%E8%B6%853000%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
