@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 16:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 16:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴 花少其实是变形计吧](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E8%8A%B1%E5%B0%91%E5%85%B6%E5%AE%9E%E6%98%AF%E5%8F%98%E5%BD%A2%E8%AE%A1%E5%90%A7&t=31&band_rank=6&Refer=top)<br />
 7. [快乐老友记定档每周五](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E4%B9%90%E8%80%81%E5%8F%8B%E8%AE%B0%E5%AE%9A%E6%A1%A3%E6%AF%8F%E5%91%A8%E4%BA%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [S13决赛媒体日](https://s.weibo.com/weibo?q=%23S13%E5%86%B3%E8%B5%9B%E5%AA%92%E4%BD%93%E6%97%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈奕迅演唱会](https://s.weibo.com/weibo?q=%E9%99%88%E5%A5%95%E8%BF%85%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
+9. [YG回应BABYMONSTER成员退队](https://s.weibo.com/weibo?q=%23YG%E5%9B%9E%E5%BA%94BABYMONSTER%E6%88%90%E5%91%98%E9%80%80%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
