@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 15:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 15:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈奕迅演唱会](https://s.weibo.com/weibo?q=%E9%99%88%E5%A5%95%E8%BF%85%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴 花少其实是变形计吧](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E8%8A%B1%E5%B0%91%E5%85%B6%E5%AE%9E%E6%98%AF%E5%8F%98%E5%BD%A2%E8%AE%A1%E5%90%A7&t=31&band_rank=7&Refer=top)<br />
 8. [YG回应BABYMONSTER成员退队](https://s.weibo.com/weibo?q=%23YG%E5%9B%9E%E5%BA%94BABYMONSTER%E6%88%90%E5%91%98%E9%80%80%E9%98%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [abandon不是第一名了](https://s.weibo.com/weibo?q=%23abandon%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E5%90%8D%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [缉毒警为了卧底10天减重25斤](https://s.weibo.com/weibo?q=%23%E7%BC%89%E6%AF%92%E8%AD%A6%E4%B8%BA%E4%BA%86%E5%8D%A7%E5%BA%9510%E5%A4%A9%E5%87%8F%E9%87%8D25%E6%96%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
