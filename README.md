@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 21:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 21:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [海底捞回应试点调整份量和价格](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E8%AF%95%E7%82%B9%E8%B0%83%E6%95%B4%E4%BB%BD%E9%87%8F%E5%92%8C%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=6&Refer=top)<br />
 7. [宁安如梦女三](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E5%A5%B3%E4%B8%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [辛芷蕾人设还没立就崩了](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E4%BA%BA%E8%AE%BE%E8%BF%98%E6%B2%A1%E7%AB%8B%E5%B0%B1%E5%B4%A9%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [野生大熊猫5天4次同一地点喝水](https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%94%9F%E5%A4%A7%E7%86%8A%E7%8C%AB5%E5%A4%A94%E6%AC%A1%E5%90%8C%E4%B8%80%E5%9C%B0%E7%82%B9%E5%96%9D%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [麦当劳回应牛奶一杯23元](https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%9B%9E%E5%BA%94%E7%89%9B%E5%A5%B6%E4%B8%80%E6%9D%AF23%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
