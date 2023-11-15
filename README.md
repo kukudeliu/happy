@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 13:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 13:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [缉毒警为了卧底10天减重25斤](https://s.weibo.com/weibo?q=%23%E7%BC%89%E6%AF%92%E8%AD%A6%E4%B8%BA%E4%BA%86%E5%8D%A7%E5%BA%9510%E5%A4%A9%E5%87%8F%E9%87%8D25%E6%96%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [家有儿女 清醒小女孩](https://s.weibo.com/weibo?q=%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%20%E6%B8%85%E9%86%92%E5%B0%8F%E5%A5%B3%E5%AD%A9&t=31&band_rank=7&Refer=top)<br />
 8. [头发到底多久洗一次好](https://s.weibo.com/weibo?q=%23%E5%A4%B4%E5%8F%91%E5%88%B0%E5%BA%95%E5%A4%9A%E4%B9%85%E6%B4%97%E4%B8%80%E6%AC%A1%E5%A5%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [周杰伦预告12月新单曲](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E9%A2%84%E5%91%8A12%E6%9C%88%E6%96%B0%E5%8D%95%E6%9B%B2%23&t=31&band_rank=9&Refer=top)<br />
+9. [伊能静万茜居然是闺蜜](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E4%B8%87%E8%8C%9C%E5%B1%85%E7%84%B6%E6%98%AF%E9%97%BA%E8%9C%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
