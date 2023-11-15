@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 22:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 22:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大约40%的癌症可以避免](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%BA%A640%25%E7%9A%84%E7%99%8C%E7%97%87%E5%8F%AF%E4%BB%A5%E9%81%BF%E5%85%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [小杨哥演唱会成本超3000万](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%90%E6%9C%AC%E8%B6%853000%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [何炅见证了多少人的成长](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%A7%81%E8%AF%81%E4%BA%86%E5%A4%9A%E5%B0%91%E4%BA%BA%E7%9A%84%E6%88%90%E9%95%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [辛芷蕾人设还没立就崩了](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E4%BA%BA%E8%AE%BE%E8%BF%98%E6%B2%A1%E7%AB%8B%E5%B0%B1%E5%B4%A9%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [罗翔 不要带有知识的优越感](https://s.weibo.com/weibo?q=%E7%BD%97%E7%BF%94%20%E4%B8%8D%E8%A6%81%E5%B8%A6%E6%9C%89%E7%9F%A5%E8%AF%86%E7%9A%84%E4%BC%98%E8%B6%8A%E6%84%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
