@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 17:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 17:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [何猷君 肯定要办婚礼](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E8%82%AF%E5%AE%9A%E8%A6%81%E5%8A%9E%E5%A9%9A%E7%A4%BC&t=31&band_rank=6&Refer=top)<br />
 7. [王一博 爱奇艺尖叫之夜](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C&t=31&band_rank=7&Refer=top)<br />
 8. [白敬亭宋轶都去尖叫之夜](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E9%83%BD%E5%8E%BB%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [租房过一辈子可以吗](https://s.weibo.com/weibo?q=%23%E7%A7%9F%E6%88%BF%E8%BF%87%E4%B8%80%E8%BE%88%E5%AD%90%E5%8F%AF%E4%BB%A5%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [玫瑰故事](https://s.weibo.com/weibo?q=%E7%8E%AB%E7%91%B0%E6%95%85%E4%BA%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
