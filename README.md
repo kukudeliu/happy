@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 23:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 23:42:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [原来迪丽热巴一直是素颜](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%80%E7%9B%B4%E6%98%AF%E7%B4%A0%E9%A2%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [罗翔 不要带有知识的优越感](https://s.weibo.com/weibo?q=%E7%BD%97%E7%BF%94%20%E4%B8%8D%E8%A6%81%E5%B8%A6%E6%9C%89%E7%9F%A5%E8%AF%86%E7%9A%84%E4%BC%98%E8%B6%8A%E6%84%9F&t=31&band_rank=6&Refer=top)<br />
 7. [小杨哥演唱会成本超3000万](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%90%E6%9C%AC%E8%B6%853000%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [顺其自然25年捐款1577万](https://s.weibo.com/weibo?q=%23%E9%A1%BA%E5%85%B6%E8%87%AA%E7%84%B625%E5%B9%B4%E6%8D%90%E6%AC%BE1577%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [白鹿张凌赫交杯吃饭团](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%BA%A4%E6%9D%AF%E5%90%83%E9%A5%AD%E5%9B%A2%23&t=31&band_rank=9&Refer=top)<br />
+8. [白鹿张凌赫交杯吃饭团](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%BA%A4%E6%9D%AF%E5%90%83%E9%A5%AD%E5%9B%A2%23&t=31&band_rank=8&Refer=top)<br />
+9. [安小鸟拔舌妆](https://s.weibo.com/weibo?q=%E5%AE%89%E5%B0%8F%E9%B8%9F%E6%8B%94%E8%88%8C%E5%A6%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
