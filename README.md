@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 17:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 17:05:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [习近平抵达美国旧金山](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平和美国友人的故事](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E7%BE%8E%E5%9B%BD%E5%8F%8B%E4%BA%BA%E7%9A%84%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [习近平步出舱门 美方多位高官迎接](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%AD%A5%E5%87%BA%E8%88%B1%E9%97%A8+%E7%BE%8E%E6%96%B9%E5%A4%9A%E4%BD%8D%E9%AB%98%E5%AE%98%E8%BF%8E%E6%8E%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [华人华侨在旧金山组成欢迎人群](https://www.baidu.com/s?wd=%E5%8D%8E%E4%BA%BA%E5%8D%8E%E4%BE%A8%E5%9C%A8%E6%97%A7%E9%87%91%E5%B1%B1%E7%BB%84%E6%88%90%E6%AC%A2%E8%BF%8E%E4%BA%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [推动构建亚太命运共同体](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E6%9E%84%E5%BB%BA%E4%BA%9A%E5%A4%AA%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [习近平抵达美国旧金山](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平和美国友人的故事](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E7%BE%8E%E5%9B%BD%E5%8F%8B%E4%BA%BA%E7%9A%84%E6%95%85%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [习近平步出舱门 美方多位高官迎接](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%AD%A5%E5%87%BA%E8%88%B1%E9%97%A8+%E7%BE%8E%E6%96%B9%E5%A4%9A%E4%BD%8D%E9%AB%98%E5%AE%98%E8%BF%8E%E6%8E%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [华人华侨在旧金山组成欢迎人群](https://www.baidu.com/s?wd=%E5%8D%8E%E4%BA%BA%E5%8D%8E%E4%BE%A8%E5%9C%A8%E6%97%A7%E9%87%91%E5%B1%B1%E7%BB%84%E6%88%90%E6%AC%A2%E8%BF%8E%E4%BA%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [推动构建亚太命运共同体](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E6%9E%84%E5%BB%BA%E4%BA%9A%E5%A4%AA%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
