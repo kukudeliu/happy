@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 23:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 23:25:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [小杨哥演唱会成本超3000万](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%90%E6%9C%AC%E8%B6%853000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美加州市长：我们把中国当兄弟](https://www.baidu.com/s?wd=%E7%BE%8E%E5%8A%A0%E5%B7%9E%E5%B8%82%E9%95%BF%EF%BC%9A%E6%88%91%E4%BB%AC%E6%8A%8A%E4%B8%AD%E5%9B%BD%E5%BD%93%E5%85%84%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [游客新疆偶遇狼群淡定拍照](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%96%B0%E7%96%86%E5%81%B6%E9%81%87%E7%8B%BC%E7%BE%A4%E6%B7%A1%E5%AE%9A%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [百名公办教师在民校任教?官方通报](https://www.baidu.com/s?wd=%E7%99%BE%E5%90%8D%E5%85%AC%E5%8A%9E%E6%95%99%E5%B8%88%E5%9C%A8%E6%B0%91%E6%A0%A1%E4%BB%BB%E6%95%99%3F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上海顶流学区房价格跌回6年前](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%A1%B6%E6%B5%81%E5%AD%A6%E5%8C%BA%E6%88%BF%E4%BB%B7%E6%A0%BC%E8%B7%8C%E5%9B%9E6%E5%B9%B4%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [205国道宿淮收费站被拆系谣言](https://www.baidu.com/s?wd=205%E5%9B%BD%E9%81%93%E5%AE%BF%E6%B7%AE%E6%94%B6%E8%B4%B9%E7%AB%99%E8%A2%AB%E6%8B%86%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [小杨哥演唱会成本超3000万](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%90%E6%9C%AC%E8%B6%853000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美加州市长：我们把中国当兄弟](https://www.baidu.com/s?wd=%E7%BE%8E%E5%8A%A0%E5%B7%9E%E5%B8%82%E9%95%BF%EF%BC%9A%E6%88%91%E4%BB%AC%E6%8A%8A%E4%B8%AD%E5%9B%BD%E5%BD%93%E5%85%84%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [游客新疆偶遇狼群淡定拍照](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%96%B0%E7%96%86%E5%81%B6%E9%81%87%E7%8B%BC%E7%BE%A4%E6%B7%A1%E5%AE%9A%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [百名公办教师在民校任教?官方通报](https://www.baidu.com/s?wd=%E7%99%BE%E5%90%8D%E5%85%AC%E5%8A%9E%E6%95%99%E5%B8%88%E5%9C%A8%E6%B0%91%E6%A0%A1%E4%BB%BB%E6%95%99%3F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上海顶流学区房价格跌回6年前](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%A1%B6%E6%B5%81%E5%AD%A6%E5%8C%BA%E6%88%BF%E4%BB%B7%E6%A0%BC%E8%B7%8C%E5%9B%9E6%E5%B9%B4%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [205国道宿淮收费站被拆系谣言](https://www.baidu.com/s?wd=205%E5%9B%BD%E9%81%93%E5%AE%BF%E6%B7%AE%E6%94%B6%E8%B4%B9%E7%AB%99%E8%A2%AB%E6%8B%86%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
