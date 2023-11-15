@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 19:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 19:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [WBG 选边](https://s.weibo.com/weibo?q=WBG%20%E9%80%89%E8%BE%B9&t=31&band_rank=6&Refer=top)<br />
 7. [四川的百年柿子瀑布又红了](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E7%9A%84%E7%99%BE%E5%B9%B4%E6%9F%BF%E5%AD%90%E7%80%91%E5%B8%83%E5%8F%88%E7%BA%A2%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [韩孝周大钟奖视后](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AD%9D%E5%91%A8%E5%A4%A7%E9%92%9F%E5%A5%96%E8%A7%86%E5%90%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [何猷君 肯定要办婚礼](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E8%82%AF%E5%AE%9A%E8%A6%81%E5%8A%9E%E5%A9%9A%E7%A4%BC&t=31&band_rank=9&Refer=top)<br />
+9. [医生提醒逍遥丸不要自行乱服](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E9%80%8D%E9%81%A5%E4%B8%B8%E4%B8%8D%E8%A6%81%E8%87%AA%E8%A1%8C%E4%B9%B1%E6%9C%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [中美元首会晤预计时长3到4小时](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E9%A2%84%E8%AE%A1%E6%97%B6%E9%95%BF3%E5%88%B04%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [推动构建亚太命运共同体](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E6%9E%84%E5%BB%BA%E4%BA%9A%E5%A4%AA%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“顺其自然”25年捐款1577万](https://www.baidu.com/s?wd=%E2%80%9C%E9%A1%BA%E5%85%B6%E8%87%AA%E7%84%B6%E2%80%9D25%E5%B9%B4%E6%8D%90%E6%AC%BE1577%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [四川的百年柿子瀑布又红了](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%9A%84%E7%99%BE%E5%B9%B4%E6%9F%BF%E5%AD%90%E7%80%91%E5%B8%83%E5%8F%88%E7%BA%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [罗翔回应面容苍老头发全白](https://www.baidu.com/s?wd=%E7%BD%97%E7%BF%94%E5%9B%9E%E5%BA%94%E9%9D%A2%E5%AE%B9%E8%8B%8D%E8%80%81%E5%A4%B4%E5%8F%91%E5%85%A8%E7%99%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张译跳舞没有技巧全是感情](https://www.baidu.com/s?wd=%E5%BC%A0%E8%AF%91%E8%B7%B3%E8%88%9E%E6%B2%A1%E6%9C%89%E6%8A%80%E5%B7%A7%E5%85%A8%E6%98%AF%E6%84%9F%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美国首都20万人上街声援以色列](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A6%96%E9%83%BD20%E4%B8%87%E4%BA%BA%E4%B8%8A%E8%A1%97%E5%A3%B0%E6%8F%B4%E4%BB%A5%E8%89%B2%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [旧金山全城“大扫除”迎接APEC](https://www.baidu.com/s?wd=%E6%97%A7%E9%87%91%E5%B1%B1%E5%85%A8%E5%9F%8E%E2%80%9C%E5%A4%A7%E6%89%AB%E9%99%A4%E2%80%9D%E8%BF%8E%E6%8E%A5APEC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医院不按政府指导价收费被罚11万](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E4%B8%8D%E6%8C%89%E6%94%BF%E5%BA%9C%E6%8C%87%E5%AF%BC%E4%BB%B7%E6%94%B6%E8%B4%B9%E8%A2%AB%E7%BD%9A11%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼市辟谣网传医保统筹截止日期](https://www.baidu.com/s?wd=%E5%91%BC%E5%B8%82%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [中美元首会晤预计时长3到4小时](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E9%A2%84%E8%AE%A1%E6%97%B6%E9%95%BF3%E5%88%B04%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [推动构建亚太命运共同体](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E6%9E%84%E5%BB%BA%E4%BA%9A%E5%A4%AA%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“顺其自然”25年捐款1577万](https://www.baidu.com/s?wd=%E2%80%9C%E9%A1%BA%E5%85%B6%E8%87%AA%E7%84%B6%E2%80%9D25%E5%B9%B4%E6%8D%90%E6%AC%BE1577%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [四川的百年柿子瀑布又红了](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%9A%84%E7%99%BE%E5%B9%B4%E6%9F%BF%E5%AD%90%E7%80%91%E5%B8%83%E5%8F%88%E7%BA%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [罗翔回应面容苍老头发全白](https://www.baidu.com/s?wd=%E7%BD%97%E7%BF%94%E5%9B%9E%E5%BA%94%E9%9D%A2%E5%AE%B9%E8%8B%8D%E8%80%81%E5%A4%B4%E5%8F%91%E5%85%A8%E7%99%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张译跳舞没有技巧全是感情](https://www.baidu.com/s?wd=%E5%BC%A0%E8%AF%91%E8%B7%B3%E8%88%9E%E6%B2%A1%E6%9C%89%E6%8A%80%E5%B7%A7%E5%85%A8%E6%98%AF%E6%84%9F%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美国首都20万人上街声援以色列](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A6%96%E9%83%BD20%E4%B8%87%E4%BA%BA%E4%B8%8A%E8%A1%97%E5%A3%B0%E6%8F%B4%E4%BB%A5%E8%89%B2%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [旧金山全城“大扫除”迎接APEC](https://www.baidu.com/s?wd=%E6%97%A7%E9%87%91%E5%B1%B1%E5%85%A8%E5%9F%8E%E2%80%9C%E5%A4%A7%E6%89%AB%E9%99%A4%E2%80%9D%E8%BF%8E%E6%8E%A5APEC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医院不按政府指导价收费被罚11万](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E4%B8%8D%E6%8C%89%E6%94%BF%E5%BA%9C%E6%8C%87%E5%AF%BC%E4%BB%B7%E6%94%B6%E8%B4%B9%E8%A2%AB%E7%BD%9A11%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼市辟谣网传医保统筹截止日期](https://www.baidu.com/s?wd=%E5%91%BC%E5%B8%82%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
