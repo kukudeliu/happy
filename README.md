@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 22:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 22:30:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [共创共享亚太和世界更加美好的未来](https://s.weibo.com/weibo?q=%23%E5%85%B1%E5%88%9B%E5%85%B1%E4%BA%AB%E4%BA%9A%E5%A4%AA%E5%92%8C%E4%B8%96%E7%95%8C%E6%9B%B4%E5%8A%A0%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%9C%AA%E6%9D%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [原来迪丽热巴一直是素颜](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%80%E7%9B%B4%E6%98%AF%E7%B4%A0%E9%A2%9C%23&t=31&band_rank=4&Refer=top)<br />
 5. [农妇手指受伤被转到私立医院术后身亡](https://s.weibo.com/weibo?q=%23%E5%86%9C%E5%A6%87%E6%89%8B%E6%8C%87%E5%8F%97%E4%BC%A4%E8%A2%AB%E8%BD%AC%E5%88%B0%E7%A7%81%E7%AB%8B%E5%8C%BB%E9%99%A2%E6%9C%AF%E5%90%8E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
-6. [小杨哥演唱会成本超3000万](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%90%E6%9C%AC%E8%B6%853000%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [辛芷蕾人设还没立就崩了](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E4%BA%BA%E8%AE%BE%E8%BF%98%E6%B2%A1%E7%AB%8B%E5%B0%B1%E5%B4%A9%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+6. [辛芷蕾人设还没立就崩了](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E4%BA%BA%E8%AE%BE%E8%BF%98%E6%B2%A1%E7%AB%8B%E5%B0%B1%E5%B4%A9%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [小杨哥演唱会成本超3000万](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%90%E6%9C%AC%E8%B6%853000%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [三浦德子去世](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%B5%A6%E5%BE%B7%E5%AD%90%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
 9. [何炅见证了多少人的成长](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%A7%81%E8%AF%81%E4%BA%86%E5%A4%9A%E5%B0%91%E4%BA%BA%E7%9A%84%E6%88%90%E9%95%BF%23&t=31&band_rank=9&Refer=top)<br />
 
