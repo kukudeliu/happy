@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 20:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 20:20:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [“顺其自然”25年捐款1577万](https://www.baidu.com/s?wd=%E2%80%9C%E9%A1%BA%E5%85%B6%E8%87%AA%E7%84%B6%E2%80%9D25%E5%B9%B4%E6%8D%90%E6%AC%BE1577%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [推动构建亚太命运共同体](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E6%9E%84%E5%BB%BA%E4%BA%9A%E5%A4%AA%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [小杨哥演唱会成本超3000万](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%90%E6%9C%AC%E8%B6%853000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [校方回应男生往公用洗衣机丢大便](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E5%BE%80%E5%85%AC%E7%94%A8%E6%B4%97%E8%A1%A3%E6%9C%BA%E4%B8%A2%E5%A4%A7%E4%BE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [专治不开心？“逍遥丸”突然火了](https://www.baidu.com/s?wd=%E4%B8%93%E6%B2%BB%E4%B8%8D%E5%BC%80%E5%BF%83%EF%BC%9F%E2%80%9C%E9%80%8D%E9%81%A5%E4%B8%B8%E2%80%9D%E7%AA%81%E7%84%B6%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：预制菜搅动餐饮业](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%A2%84%E5%88%B6%E8%8F%9C%E6%90%85%E5%8A%A8%E9%A4%90%E9%A5%AE%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [国家统计局回应CPI下降](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80%E5%9B%9E%E5%BA%94CPI%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [台媒：蓝白合成局 18日公布正副人选](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%EF%BC%9A%E8%93%9D%E7%99%BD%E5%90%88%E6%88%90%E5%B1%80+18%E6%97%A5%E5%85%AC%E5%B8%83%E6%AD%A3%E5%89%AF%E4%BA%BA%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子手指受伤被转至私立医院后身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%89%8B%E6%8C%87%E5%8F%97%E4%BC%A4%E8%A2%AB%E8%BD%AC%E8%87%B3%E7%A7%81%E7%AB%8B%E5%8C%BB%E9%99%A2%E5%90%8E%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼市辟谣网传医保统筹截止日期](https://www.baidu.com/s?wd=%E5%91%BC%E5%B8%82%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [“顺其自然”25年捐款1577万](https://www.baidu.com/s?wd=%E2%80%9C%E9%A1%BA%E5%85%B6%E8%87%AA%E7%84%B6%E2%80%9D25%E5%B9%B4%E6%8D%90%E6%AC%BE1577%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [推动构建亚太命运共同体](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E6%9E%84%E5%BB%BA%E4%BA%9A%E5%A4%AA%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [小杨哥演唱会成本超3000万](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%90%E6%9C%AC%E8%B6%853000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [校方回应男生往公用洗衣机丢大便](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E5%BE%80%E5%85%AC%E7%94%A8%E6%B4%97%E8%A1%A3%E6%9C%BA%E4%B8%A2%E5%A4%A7%E4%BE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [专治不开心？“逍遥丸”突然火了](https://www.baidu.com/s?wd=%E4%B8%93%E6%B2%BB%E4%B8%8D%E5%BC%80%E5%BF%83%EF%BC%9F%E2%80%9C%E9%80%8D%E9%81%A5%E4%B8%B8%E2%80%9D%E7%AA%81%E7%84%B6%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：预制菜搅动餐饮业](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%A2%84%E5%88%B6%E8%8F%9C%E6%90%85%E5%8A%A8%E9%A4%90%E9%A5%AE%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [国家统计局回应CPI下降](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80%E5%9B%9E%E5%BA%94CPI%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [台媒：蓝白合成局 18日公布正副人选](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%EF%BC%9A%E8%93%9D%E7%99%BD%E5%90%88%E6%88%90%E5%B1%80+18%E6%97%A5%E5%85%AC%E5%B8%83%E6%AD%A3%E5%89%AF%E4%BA%BA%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子手指受伤被转至私立医院后身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%89%8B%E6%8C%87%E5%8F%97%E4%BC%A4%E8%A2%AB%E8%BD%AC%E8%87%B3%E7%A7%81%E7%AB%8B%E5%8C%BB%E9%99%A2%E5%90%8E%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼市辟谣网传医保统筹截止日期](https://www.baidu.com/s?wd=%E5%91%BC%E5%B8%82%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
