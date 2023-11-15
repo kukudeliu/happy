@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 18:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 18:36:01</h4></div>
 
 > 微博  
 
 1. [中美元首会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=1&Refer=top)<br />
-2. [考研生为提神冬夜路灯下备战](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E7%94%9F%E4%B8%BA%E6%8F%90%E7%A5%9E%E5%86%AC%E5%A4%9C%E8%B7%AF%E7%81%AF%E4%B8%8B%E5%A4%87%E6%88%98%23&t=31&band_rank=2&Refer=top)<br />
+2. [顺其自然25年捐款1577万](https://s.weibo.com/weibo?q=%23%E9%A1%BA%E5%85%B6%E8%87%AA%E7%84%B625%E5%B9%B4%E6%8D%90%E6%AC%BE1577%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [共同构建亚太命运共同体](https://s.weibo.com/weibo?q=%23%E5%85%B1%E5%90%8C%E6%9E%84%E5%BB%BA%E4%BA%9A%E5%A4%AA%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%23&t=31&band_rank=3&Refer=top)<br />
 4. [麦当劳回应牛奶一杯23元](https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%9B%9E%E5%BA%94%E7%89%9B%E5%A5%B6%E4%B8%80%E6%9D%AF23%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
-5. [顺其自然25年捐款1577万](https://s.weibo.com/weibo?q=%23%E9%A1%BA%E5%85%B6%E8%87%AA%E7%84%B625%E5%B9%B4%E6%8D%90%E6%AC%BE1577%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
+5. [考研生为提神冬夜路灯下备战](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E7%94%9F%E4%B8%BA%E6%8F%90%E7%A5%9E%E5%86%AC%E5%A4%9C%E8%B7%AF%E7%81%AF%E4%B8%8B%E5%A4%87%E6%88%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [WBG 选边](https://s.weibo.com/weibo?q=WBG%20%E9%80%89%E8%BE%B9&t=31&band_rank=6&Refer=top)<br />
 7. [四川的百年柿子瀑布又红了](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E7%9A%84%E7%99%BE%E5%B9%B4%E6%9F%BF%E5%AD%90%E7%80%91%E5%B8%83%E5%8F%88%E7%BA%A2%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [Crisp说这里是T1的终点](https://s.weibo.com/weibo?q=%23Crisp%E8%AF%B4%E8%BF%99%E9%87%8C%E6%98%AFT1%E7%9A%84%E7%BB%88%E7%82%B9%23&t=31&band_rank=8&Refer=top)<br />
