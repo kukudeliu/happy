@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 16:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 16:40:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [abandon不是第一名了](https://www.baidu.com/s?wd=abandon%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E5%90%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [厦门一10元自助餐厅被查](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E4%B8%8010%E5%85%83%E8%87%AA%E5%8A%A9%E9%A4%90%E5%8E%85%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [癌症发病年轻化？国家癌症中心回应](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E5%8F%91%E7%97%85%E5%B9%B4%E8%BD%BB%E5%8C%96%EF%BC%9F%E5%9B%BD%E5%AE%B6%E7%99%8C%E7%97%87%E4%B8%AD%E5%BF%83%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [问界M5追尾 知情人称开了辅助驾驶](https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8CM5%E8%BF%BD%E5%B0%BE+%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%BC%80%E4%BA%86%E8%BE%85%E5%8A%A9%E9%A9%BE%E9%A9%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：王自如让全网打工人自愧不如](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%8E%8B%E8%87%AA%E5%A6%82%E8%AE%A9%E5%85%A8%E7%BD%91%E6%89%93%E5%B7%A5%E4%BA%BA%E8%87%AA%E6%84%A7%E4%B8%8D%E5%A6%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼市辟谣网传医保统筹截止日期](https://www.baidu.com/s?wd=%E5%91%BC%E5%B8%82%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [abandon不是第一名了](https://www.baidu.com/s?wd=abandon%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E5%90%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [厦门一10元自助餐厅被查](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E4%B8%8010%E5%85%83%E8%87%AA%E5%8A%A9%E9%A4%90%E5%8E%85%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [癌症发病年轻化？国家癌症中心回应](https://www.baidu.com/s?wd=%E7%99%8C%E7%97%87%E5%8F%91%E7%97%85%E5%B9%B4%E8%BD%BB%E5%8C%96%EF%BC%9F%E5%9B%BD%E5%AE%B6%E7%99%8C%E7%97%87%E4%B8%AD%E5%BF%83%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [问界M5追尾 知情人称开了辅助驾驶](https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8CM5%E8%BF%BD%E5%B0%BE+%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%BC%80%E4%BA%86%E8%BE%85%E5%8A%A9%E9%A9%BE%E9%A9%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：王自如让全网打工人自愧不如](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%8E%8B%E8%87%AA%E5%A6%82%E8%AE%A9%E5%85%A8%E7%BD%91%E6%89%93%E5%B7%A5%E4%BA%BA%E8%87%AA%E6%84%A7%E4%B8%8D%E5%A6%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼市辟谣网传医保统筹截止日期](https://www.baidu.com/s?wd=%E5%91%BC%E5%B8%82%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
