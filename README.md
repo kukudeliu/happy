@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 14:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 14:45:01</h4></div>
 
 > 微博  
 
 1. [中美元首会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=1&Refer=top)<br />
-2. [abandon不是第一名了](https://s.weibo.com/weibo?q=%23abandon%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E5%90%8D%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+2. [慢阻肺早期咳嗽咳痰症状极易被忽视](https://s.weibo.com/weibo?q=%23%E6%85%A2%E9%98%BB%E8%82%BA%E6%97%A9%E6%9C%9F%E5%92%B3%E5%97%BD%E5%92%B3%E7%97%B0%E7%97%87%E7%8A%B6%E6%9E%81%E6%98%93%E8%A2%AB%E5%BF%BD%E8%A7%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [关于APEC的知识点](https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8EAPEC%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
-4. [何猷君 肯定要办婚礼](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E8%82%AF%E5%AE%9A%E8%A6%81%E5%8A%9E%E5%A9%9A%E7%A4%BC&t=31&band_rank=4&Refer=top)<br />
-5. [YG回应BABYMONSTER成员退队](https://s.weibo.com/weibo?q=%23YG%E5%9B%9E%E5%BA%94BABYMONSTER%E6%88%90%E5%91%98%E9%80%80%E9%98%9F%23&t=31&band_rank=5&Refer=top)<br />
+4. [abandon不是第一名了](https://s.weibo.com/weibo?q=%23abandon%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E5%90%8D%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
+5. [何猷君 肯定要办婚礼](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E8%82%AF%E5%AE%9A%E8%A6%81%E5%8A%9E%E5%A9%9A%E7%A4%BC&t=31&band_rank=5&Refer=top)<br />
 6. [缉毒警为了卧底10天减重25斤](https://s.weibo.com/weibo?q=%23%E7%BC%89%E6%AF%92%E8%AD%A6%E4%B8%BA%E4%BA%86%E5%8D%A7%E5%BA%9510%E5%A4%A9%E5%87%8F%E9%87%8D25%E6%96%A4%23&t=31&band_rank=6&Refer=top)<br />
-7. [快手上的农村女性](https://s.weibo.com/weibo?q=%E5%BF%AB%E6%89%8B%E4%B8%8A%E7%9A%84%E5%86%9C%E6%9D%91%E5%A5%B3%E6%80%A7&t=31&band_rank=7&Refer=top)<br />
-8. [陈采尼分析迪丽热巴红毯造型](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%87%87%E5%B0%BC%E5%88%86%E6%9E%90%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [伊能静万茜居然是闺蜜](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E4%B8%87%E8%8C%9C%E5%B1%85%E7%84%B6%E6%98%AF%E9%97%BA%E8%9C%9C%23&t=31&band_rank=9&Refer=top)<br />
+7. [YG回应BABYMONSTER成员退队](https://s.weibo.com/weibo?q=%23YG%E5%9B%9E%E5%BA%94BABYMONSTER%E6%88%90%E5%91%98%E9%80%80%E9%98%9F%23&t=31&band_rank=7&Refer=top)<br />
+8. [快手上的农村女性](https://s.weibo.com/weibo?q=%E5%BF%AB%E6%89%8B%E4%B8%8A%E7%9A%84%E5%86%9C%E6%9D%91%E5%A5%B3%E6%80%A7&t=31&band_rank=8&Refer=top)<br />
+9. [陈采尼分析迪丽热巴红毯造型](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%87%87%E5%B0%BC%E5%88%86%E6%9E%90%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
