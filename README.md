@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 22:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-15 22:45:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [小杨哥演唱会成本超3000万](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%90%E6%9C%AC%E8%B6%853000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [湖南省委书记到烂尾楼暗访](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%88%B0%E7%83%82%E5%B0%BE%E6%A5%BC%E6%9A%97%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美加州市长：我们把中国当兄弟](https://www.baidu.com/s?wd=%E7%BE%8E%E5%8A%A0%E5%B7%9E%E5%B8%82%E9%95%BF%EF%BC%9A%E6%88%91%E4%BB%AC%E6%8A%8A%E4%B8%AD%E5%9B%BD%E5%BD%93%E5%85%84%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国公民免签又增一地](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%85%8D%E7%AD%BE%E5%8F%88%E5%A2%9E%E4%B8%80%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [海底捞回应试点调整份量和价格](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E8%AF%95%E7%82%B9%E8%B0%83%E6%95%B4%E4%BB%BD%E9%87%8F%E5%92%8C%E4%BB%B7%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [205国道宿淮收费站被拆系谣言](https://www.baidu.com/s?wd=205%E5%9B%BD%E9%81%93%E5%AE%BF%E6%B7%AE%E6%94%B6%E8%B4%B9%E7%AB%99%E8%A2%AB%E6%8B%86%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [小杨哥演唱会成本超3000万](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%90%E6%9C%AC%E8%B6%853000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [湖南省委书记到烂尾楼暗访](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%88%B0%E7%83%82%E5%B0%BE%E6%A5%BC%E6%9A%97%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美加州市长：我们把中国当兄弟](https://www.baidu.com/s?wd=%E7%BE%8E%E5%8A%A0%E5%B7%9E%E5%B8%82%E9%95%BF%EF%BC%9A%E6%88%91%E4%BB%AC%E6%8A%8A%E4%B8%AD%E5%9B%BD%E5%BD%93%E5%85%84%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国公民免签又增一地](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%85%8D%E7%AD%BE%E5%8F%88%E5%A2%9E%E4%B8%80%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [海底捞回应试点调整份量和价格](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E8%AF%95%E7%82%B9%E8%B0%83%E6%95%B4%E4%BB%BD%E9%87%8F%E5%92%8C%E4%BB%B7%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [205国道宿淮收费站被拆系谣言](https://www.baidu.com/s?wd=205%E5%9B%BD%E9%81%93%E5%AE%BF%E6%B7%AE%E6%94%B6%E8%B4%B9%E7%AB%99%E8%A2%AB%E6%8B%86%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
