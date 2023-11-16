@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 17:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 17:42:02</h4></div>
 
 > 微博  
 
 1. [愿邀请5万名美国青少年来华交流学习](https://s.weibo.com/weibo?q=%23%E6%84%BF%E9%82%80%E8%AF%B75%E4%B8%87%E5%90%8D%E7%BE%8E%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E6%9D%A5%E5%8D%8E%E4%BA%A4%E6%B5%81%E5%AD%A6%E4%B9%A0%23&t=31&band_rank=1&Refer=top)<br />
-2. [中美元首一起看38年前的照片](https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%B8%80%E8%B5%B7%E7%9C%8B38%E5%B9%B4%E5%89%8D%E7%9A%84%E7%85%A7%E7%89%87&t=31&band_rank=2&Refer=top)<br />
+2. [中美元首一起看38年前的照片](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%B8%80%E8%B5%B7%E7%9C%8B38%E5%B9%B4%E5%89%8D%E7%9A%84%E7%85%A7%E7%89%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [一篇面向全美各界发表的演讲](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AF%87%E9%9D%A2%E5%90%91%E5%85%A8%E7%BE%8E%E5%90%84%E7%95%8C%E5%8F%91%E8%A1%A8%E7%9A%84%E6%BC%94%E8%AE%B2%23&t=31&band_rank=3&Refer=top)<br />
 4. [拜登重申不支持台湾独立](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%87%8D%E7%94%B3%E4%B8%8D%E6%94%AF%E6%8C%81%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [拜登指着红旗车说beautiful](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8C%87%E7%9D%80%E7%BA%A2%E6%97%97%E8%BD%A6%E8%AF%B4beautiful%23&t=31&band_rank=5&Refer=top)<br />
