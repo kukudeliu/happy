@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 17:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 18:00:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [幼儿园小女孩800米跑3分11秒](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%B0%8F%E5%A5%B3%E5%AD%A9800%E7%B1%B3%E8%B7%913%E5%88%8611%E7%A7%92%23&t=31&band_rank=5&Refer=top)<br />
 6. [拜登指着红旗车说beautiful](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8C%87%E7%9D%80%E7%BA%A2%E6%97%97%E8%BD%A6%E8%AF%B4beautiful%23&t=31&band_rank=6&Refer=top)<br />
 7. [河南推出胡辣汤奶茶还送油条](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%8E%A8%E5%87%BA%E8%83%A1%E8%BE%A3%E6%B1%A4%E5%A5%B6%E8%8C%B6%E8%BF%98%E9%80%81%E6%B2%B9%E6%9D%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [2千元丢失报警在冰箱找到老人自责落泪](https://s.weibo.com/weibo?q=%232%E5%8D%83%E5%85%83%E4%B8%A2%E5%A4%B1%E6%8A%A5%E8%AD%A6%E5%9C%A8%E5%86%B0%E7%AE%B1%E6%89%BE%E5%88%B0%E8%80%81%E4%BA%BA%E8%87%AA%E8%B4%A3%E8%90%BD%E6%B3%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [愿邀请5万名美国青少年来华交流学习](https://s.weibo.com/weibo?q=%23%E6%84%BF%E9%82%80%E8%AF%B75%E4%B8%87%E5%90%8D%E7%BE%8E%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E6%9D%A5%E5%8D%8E%E4%BA%A4%E6%B5%81%E5%AD%A6%E4%B9%A0%23&t=31&band_rank=9&Refer=top)<br />
+8. [愿邀请5万名美国青少年来华交流学习](https://s.weibo.com/weibo?q=%23%E6%84%BF%E9%82%80%E8%AF%B75%E4%B8%87%E5%90%8D%E7%BE%8E%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E6%9D%A5%E5%8D%8E%E4%BA%A4%E6%B5%81%E5%AD%A6%E4%B9%A0%23&t=31&band_rank=8&Refer=top)<br />
+9. [女童就医途中病情加剧交警疾驰开道送医](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E5%B0%B1%E5%8C%BB%E9%80%94%E4%B8%AD%E7%97%85%E6%83%85%E5%8A%A0%E5%89%A7%E4%BA%A4%E8%AD%A6%E7%96%BE%E9%A9%B0%E5%BC%80%E9%81%93%E9%80%81%E5%8C%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
