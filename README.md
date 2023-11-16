@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 22:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 22:39:02</h4></div>
 
 > 微博  
 
 1. [明国平等三名缅北电诈头目被缉拿归案](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%9B%BD%E5%B9%B3%E7%AD%89%E4%B8%89%E5%90%8D%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E8%A2%AB%E7%BC%89%E6%8B%BF%E5%BD%92%E6%A1%88%23&t=31&band_rank=1&Refer=top)<br />
 2. [拜登指着红旗车说beautiful](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8C%87%E7%9D%80%E7%BA%A2%E6%97%97%E8%BD%A6%E8%AF%B4beautiful%23&t=31&band_rank=2&Refer=top)<br />
 3. [时隔8年再次向美国人民发表的演讲](https://s.weibo.com/weibo?q=%23%E6%97%B6%E9%9A%948%E5%B9%B4%E5%86%8D%E6%AC%A1%E5%90%91%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%8F%91%E8%A1%A8%E7%9A%84%E6%BC%94%E8%AE%B2%23&t=31&band_rank=3&Refer=top)<br />
-4. [武磊铲射破门](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E7%A3%8A%E9%93%B2%E5%B0%84%E7%A0%B4%E9%97%A8%23&t=31&band_rank=4&Refer=top)<br />
+4. [不好意思开口但被民警秒懂](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%E5%BC%80%E5%8F%A3%E4%BD%86%E8%A2%AB%E6%B0%91%E8%AD%A6%E7%A7%92%E6%87%82%23&t=31&band_rank=4&Refer=top)<br />
 5. [中美元首会晤意义重大](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E6%84%8F%E4%B9%89%E9%87%8D%E5%A4%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [国足vs泰国](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E6%B3%B0%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
-7. [韦世豪妙传](https://s.weibo.com/weibo?q=%23%E9%9F%A6%E4%B8%96%E8%B1%AA%E5%A6%99%E4%BC%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [不好意思开口但被民警秒懂](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%E5%BC%80%E5%8F%A3%E4%BD%86%E8%A2%AB%E6%B0%91%E8%AD%A6%E7%A7%92%E6%87%82%23&t=31&band_rank=8&Refer=top)<br />
+7. [武磊铲射破门](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E7%A3%8A%E9%93%B2%E5%B0%84%E7%A0%B4%E9%97%A8%23&t=31&band_rank=7&Refer=top)<br />
+8. [韦世豪妙传](https://s.weibo.com/weibo?q=%23%E9%9F%A6%E4%B8%96%E8%B1%AA%E5%A6%99%E4%BC%A0%23&t=31&band_rank=8&Refer=top)<br />
 9. [银行称顺其自然汇款人是位女士](https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E7%A7%B0%E9%A1%BA%E5%85%B6%E8%87%AA%E7%84%B6%E6%B1%87%E6%AC%BE%E4%BA%BA%E6%98%AF%E4%BD%8D%E5%A5%B3%E5%A3%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,8 +23,8 @@
 4. [中美元首会晤达成20多项共识](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E8%BE%BE%E6%88%9020%E5%A4%9A%E9%A1%B9%E5%85%B1%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [媒体：缅北电诈头目明学昌自杀死亡](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E6%98%8E%E5%AD%A6%E6%98%8C%E8%87%AA%E6%9D%80%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [习近平就山西26死火灾事故作指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%B1%E5%B1%B1%E8%A5%BF26%E6%AD%BB%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BD%9C%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [看到38年前老照片 中美元首都笑了](https://www.baidu.com/s?wd=%E7%9C%8B%E5%88%B038%E5%B9%B4%E5%89%8D%E8%80%81%E7%85%A7%E7%89%87+%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%83%BD%E7%AC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [记者问谈得如何？拜登竖起大拇指](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E9%97%AE%E8%B0%88%E5%BE%97%E5%A6%82%E4%BD%95%EF%BC%9F%E6%8B%9C%E7%99%BB%E7%AB%96%E8%B5%B7%E5%A4%A7%E6%8B%87%E6%8C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国足2-1逆转泰国 世预赛开门红](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B32-1%E9%80%86%E8%BD%AC%E6%B3%B0%E5%9B%BD+%E4%B8%96%E9%A2%84%E8%B5%9B%E5%BC%80%E9%97%A8%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [看到38年前老照片 中美元首都笑了](https://www.baidu.com/s?wd=%E7%9C%8B%E5%88%B038%E5%B9%B4%E5%89%8D%E8%80%81%E7%85%A7%E7%89%87+%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%83%BD%E7%AC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [支原体肺炎可自行服头孢治疗？](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E5%8F%AF%E8%87%AA%E8%A1%8C%E6%9C%8D%E5%A4%B4%E5%AD%A2%E6%B2%BB%E7%96%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [中美元首会晤达成20多项共识](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E8%BE%BE%E6%88%9020%E5%A4%9A%E9%A1%B9%E5%85%B1%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [媒体：缅北电诈头目明学昌自杀死亡](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E6%98%8E%E5%AD%A6%E6%98%8C%E8%87%AA%E6%9D%80%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [习近平就山西26死火灾事故作指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%B1%E5%B1%B1%E8%A5%BF26%E6%AD%BB%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BD%9C%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [看到38年前老照片 中美元首都笑了](https://www.baidu.com/s?wd=%E7%9C%8B%E5%88%B038%E5%B9%B4%E5%89%8D%E8%80%81%E7%85%A7%E7%89%87+%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%83%BD%E7%AC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [记者问谈得如何？拜登竖起大拇指](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E9%97%AE%E8%B0%88%E5%BE%97%E5%A6%82%E4%BD%95%EF%BC%9F%E6%8B%9C%E7%99%BB%E7%AB%96%E8%B5%B7%E5%A4%A7%E6%8B%87%E6%8C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国足2-1逆转泰国 世预赛开门红](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B32-1%E9%80%86%E8%BD%AC%E6%B3%B0%E5%9B%BD+%E4%B8%96%E9%A2%84%E8%B5%9B%E5%BC%80%E9%97%A8%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [看到38年前老照片 中美元首都笑了](https://www.baidu.com/s?wd=%E7%9C%8B%E5%88%B038%E5%B9%B4%E5%89%8D%E8%80%81%E7%85%A7%E7%89%87+%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%83%BD%E7%AC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [支原体肺炎可自行服头孢治疗？](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E5%8F%AF%E8%87%AA%E8%A1%8C%E6%9C%8D%E5%A4%B4%E5%AD%A2%E6%B2%BB%E7%96%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
