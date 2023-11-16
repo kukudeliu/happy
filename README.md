@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 16:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 16:28:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [拜登指着红旗车说beautiful](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8C%87%E7%9D%80%E7%BA%A2%E6%97%97%E8%BD%A6%E8%AF%B4beautiful%23&t=31&band_rank=2&Refer=top)<br />
 3. [一篇面向全美各界发表的演讲](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AF%87%E9%9D%A2%E5%90%91%E5%85%A8%E7%BE%8E%E5%90%84%E7%95%8C%E5%8F%91%E8%A1%A8%E7%9A%84%E6%BC%94%E8%AE%B2%23&t=31&band_rank=3&Refer=top)<br />
 4. [韩国高考数学第一题](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%80%E9%A2%98&t=31&band_rank=4&Refer=top)<br />
-5. [幼儿园小女孩800米跑3分11秒](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%B0%8F%E5%A5%B3%E5%AD%A9800%E7%B1%B3%E8%B7%913%E5%88%8611%E7%A7%92%23&t=31&band_rank=5&Refer=top)<br />
-6. [愿邀请5万名美国青少年来华交流学习](https://s.weibo.com/weibo?q=%23%E6%84%BF%E9%82%80%E8%AF%B75%E4%B8%87%E5%90%8D%E7%BE%8E%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E6%9D%A5%E5%8D%8E%E4%BA%A4%E6%B5%81%E5%AD%A6%E4%B9%A0%23&t=31&band_rank=6&Refer=top)<br />
-7. [在暴雪时分集数变更](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%9A%B4%E9%9B%AA%E6%97%B6%E5%88%86%E9%9B%86%E6%95%B0%E5%8F%98%E6%9B%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [檀健次首部现偶男主](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E9%A6%96%E9%83%A8%E7%8E%B0%E5%81%B6%E7%94%B7%E4%B8%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国终将统一也必然统一](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BB%88%E5%B0%86%E7%BB%9F%E4%B8%80%E4%B9%9F%E5%BF%85%E7%84%B6%E7%BB%9F%E4%B8%80%23&t=31&band_rank=9&Refer=top)<br />
+5. [拜登重申不支持台湾独立](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%87%8D%E7%94%B3%E4%B8%8D%E6%94%AF%E6%8C%81%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B%23&t=31&band_rank=5&Refer=top)<br />
+6. [幼儿园小女孩800米跑3分11秒](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%B0%8F%E5%A5%B3%E5%AD%A9800%E7%B1%B3%E8%B7%913%E5%88%8611%E7%A7%92%23&t=31&band_rank=6&Refer=top)<br />
+7. [愿邀请5万名美国青少年来华交流学习](https://s.weibo.com/weibo?q=%23%E6%84%BF%E9%82%80%E8%AF%B75%E4%B8%87%E5%90%8D%E7%BE%8E%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E6%9D%A5%E5%8D%8E%E4%BA%A4%E6%B5%81%E5%AD%A6%E4%B9%A0%23&t=31&band_rank=7&Refer=top)<br />
+8. [在暴雪时分集数变更](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%9A%B4%E9%9B%AA%E6%97%B6%E5%88%86%E9%9B%86%E6%95%B0%E5%8F%98%E6%9B%B4%23&t=31&band_rank=8&Refer=top)<br />
+9. [檀健次首部现偶男主](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E9%A6%96%E9%83%A8%E7%8E%B0%E5%81%B6%E7%94%B7%E4%B8%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
