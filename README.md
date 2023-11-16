@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 19:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 19:53:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [一篇面向全美各界发表的演讲](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AF%87%E9%9D%A2%E5%90%91%E5%85%A8%E7%BE%8E%E5%90%84%E7%95%8C%E5%8F%91%E8%A1%A8%E7%9A%84%E6%BC%94%E8%AE%B2%23&t=31&band_rank=3&Refer=top)<br />
 4. [不好意思开口但被民警秒懂](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%E5%BC%80%E5%8F%A3%E4%BD%86%E8%A2%AB%E6%B0%91%E8%AD%A6%E7%A7%92%E6%87%82%23&t=31&band_rank=4&Refer=top)<br />
 5. [银行称顺其自然汇款人是位女士](https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E7%A7%B0%E9%A1%BA%E5%85%B6%E8%87%AA%E7%84%B6%E6%B1%87%E6%AC%BE%E4%BA%BA%E6%98%AF%E4%BD%8D%E5%A5%B3%E5%A3%AB%23&t=31&band_rank=5&Refer=top)<br />
-6. [中美元首一起看38年前的照片](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%B8%80%E8%B5%B7%E7%9C%8B38%E5%B9%B4%E5%89%8D%E7%9A%84%E7%85%A7%E7%89%87%23&t=31&band_rank=6&Refer=top)<br />
+6. [愿邀请5万名美国青少年来华交流学习](https://s.weibo.com/weibo?q=%23%E6%84%BF%E9%82%80%E8%AF%B75%E4%B8%87%E5%90%8D%E7%BE%8E%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E6%9D%A5%E5%8D%8E%E4%BA%A4%E6%B5%81%E5%AD%A6%E4%B9%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [5岁女孩霸气拦警车救生病老爷爷](https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%9C%B8%E6%B0%94%E6%8B%A6%E8%AD%A6%E8%BD%A6%E6%95%91%E7%94%9F%E7%97%85%E8%80%81%E7%88%B7%E7%88%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [愿邀请5万名美国青少年来华交流学习](https://s.weibo.com/weibo?q=%23%E6%84%BF%E9%82%80%E8%AF%B75%E4%B8%87%E5%90%8D%E7%BE%8E%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E6%9D%A5%E5%8D%8E%E4%BA%A4%E6%B5%81%E5%AD%A6%E4%B9%A0%23&t=31&band_rank=8&Refer=top)<br />
+8. [中美元首一起看38年前的照片](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%B8%80%E8%B5%B7%E7%9C%8B38%E5%B9%B4%E5%89%8D%E7%9A%84%E7%85%A7%E7%89%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [中国终将统一也必然统一](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BB%88%E5%B0%86%E7%BB%9F%E4%B8%80%E4%B9%9F%E5%BF%85%E7%84%B6%E7%BB%9F%E4%B8%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
