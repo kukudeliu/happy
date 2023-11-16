@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 18:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 18:24:01</h4></div>
 
 > 微博  
 
 1. [中美元首一起看38年前的照片](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%B8%80%E8%B5%B7%E7%9C%8B38%E5%B9%B4%E5%89%8D%E7%9A%84%E7%85%A7%E7%89%87%23&t=31&band_rank=1&Refer=top)<br />
 2. [女童就医途中病情加剧交警疾驰开道送医](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E5%B0%B1%E5%8C%BB%E9%80%94%E4%B8%AD%E7%97%85%E6%83%85%E5%8A%A0%E5%89%A7%E4%BA%A4%E8%AD%A6%E7%96%BE%E9%A9%B0%E5%BC%80%E9%81%93%E9%80%81%E5%8C%BB%23&t=31&band_rank=2&Refer=top)<br />
 3. [一篇面向全美各界发表的演讲](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AF%87%E9%9D%A2%E5%90%91%E5%85%A8%E7%BE%8E%E5%90%84%E7%95%8C%E5%8F%91%E8%A1%A8%E7%9A%84%E6%BC%94%E8%AE%B2%23&t=31&band_rank=3&Refer=top)<br />
-4. [拜登重申不支持台湾独立](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%87%8D%E7%94%B3%E4%B8%8D%E6%94%AF%E6%8C%81%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B%23&t=31&band_rank=4&Refer=top)<br />
-5. [5岁女孩霸气拦警车救生病老爷爷](https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%9C%B8%E6%B0%94%E6%8B%A6%E8%AD%A6%E8%BD%A6%E6%95%91%E7%94%9F%E7%97%85%E8%80%81%E7%88%B7%E7%88%B7%23&t=31&band_rank=5&Refer=top)<br />
-6. [中国女排首次夺得世界冠军42周年](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E9%A6%96%E6%AC%A1%E5%A4%BA%E5%BE%97%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B42%E5%91%A8%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
-7. [幼儿园小女孩800米跑3分11秒](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%B0%8F%E5%A5%B3%E5%AD%A9800%E7%B1%B3%E8%B7%913%E5%88%8611%E7%A7%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [拜登指着红旗车说beautiful](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8C%87%E7%9D%80%E7%BA%A2%E6%97%97%E8%BD%A6%E8%AF%B4beautiful%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国终将统一也必然统一](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BB%88%E5%B0%86%E7%BB%9F%E4%B8%80%E4%B9%9F%E5%BF%85%E7%84%B6%E7%BB%9F%E4%B8%80%23&t=31&band_rank=9&Refer=top)<br />
+4. [中国女排首次夺得世界冠军42周年](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E9%A6%96%E6%AC%A1%E5%A4%BA%E5%BE%97%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B42%E5%91%A8%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
+5. [幼儿园小女孩800米跑3分11秒](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%B0%8F%E5%A5%B3%E5%AD%A9800%E7%B1%B3%E8%B7%913%E5%88%8611%E7%A7%92%23&t=31&band_rank=5&Refer=top)<br />
+6. [拜登重申不支持台湾独立](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%87%8D%E7%94%B3%E4%B8%8D%E6%94%AF%E6%8C%81%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B%23&t=31&band_rank=6&Refer=top)<br />
+7. [拜登指着红旗车说beautiful](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8C%87%E7%9D%80%E7%BA%A2%E6%97%97%E8%BD%A6%E8%AF%B4beautiful%23&t=31&band_rank=7&Refer=top)<br />
+8. [中国终将统一也必然统一](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BB%88%E5%B0%86%E7%BB%9F%E4%B8%80%E4%B9%9F%E5%BF%85%E7%84%B6%E7%BB%9F%E4%B8%80%23&t=31&band_rank=8&Refer=top)<br />
+9. [愿邀请5万名美国青少年来华交流学习](https://s.weibo.com/weibo?q=%23%E6%84%BF%E9%82%80%E8%AF%B75%E4%B8%87%E5%90%8D%E7%BE%8E%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E6%9D%A5%E5%8D%8E%E4%BA%A4%E6%B5%81%E5%AD%A6%E4%B9%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [记者问谈得如何？拜登竖起大拇指](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E9%97%AE%E8%B0%88%E5%BE%97%E5%A6%82%E4%BD%95%EF%BC%9F%E6%8B%9C%E7%99%BB%E7%AB%96%E8%B5%B7%E5%A4%A7%E6%8B%87%E6%8C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [习近平：美国不要干涉中国内政](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%8D%E8%A6%81%E5%B9%B2%E6%B6%89%E4%B8%AD%E5%9B%BD%E5%86%85%E6%94%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [拜登指着红旗车说beautiful](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%8C%87%E7%9D%80%E7%BA%A2%E6%97%97%E8%BD%A6%E8%AF%B4beautiful&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [59岁母亲因女儿30多岁未嫁患抑郁症](https://www.baidu.com/s?wd=59%E5%B2%81%E6%AF%8D%E4%BA%B2%E5%9B%A0%E5%A5%B3%E5%84%BF30%E5%A4%9A%E5%B2%81%E6%9C%AA%E5%AB%81%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [猪肉价格下降成CPI下跌主要原因](https://www.baidu.com/s?wd=%E7%8C%AA%E8%82%89%E4%BB%B7%E6%A0%BC%E4%B8%8B%E9%99%8D%E6%88%90CPI%E4%B8%8B%E8%B7%8C%E4%B8%BB%E8%A6%81%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [记者问谈得如何？拜登竖起大拇指](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E9%97%AE%E8%B0%88%E5%BE%97%E5%A6%82%E4%BD%95%EF%BC%9F%E6%8B%9C%E7%99%BB%E7%AB%96%E8%B5%B7%E5%A4%A7%E6%8B%87%E6%8C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [习近平：美国不要干涉中国内政](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%8D%E8%A6%81%E5%B9%B2%E6%B6%89%E4%B8%AD%E5%9B%BD%E5%86%85%E6%94%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [拜登指着红旗车说beautiful](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%8C%87%E7%9D%80%E7%BA%A2%E6%97%97%E8%BD%A6%E8%AF%B4beautiful&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [59岁母亲因女儿30多岁未嫁患抑郁症](https://www.baidu.com/s?wd=59%E5%B2%81%E6%AF%8D%E4%BA%B2%E5%9B%A0%E5%A5%B3%E5%84%BF30%E5%A4%9A%E5%B2%81%E6%9C%AA%E5%AB%81%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [猪肉价格下降成CPI下跌主要原因](https://www.baidu.com/s?wd=%E7%8C%AA%E8%82%89%E4%BB%B7%E6%A0%BC%E4%B8%8B%E9%99%8D%E6%88%90CPI%E4%B8%8B%E8%B7%8C%E4%B8%BB%E8%A6%81%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
