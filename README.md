@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 14:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 14:22:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [看到38年前老照片 中美元首都笑了](https://www.baidu.com/s?wd=%E7%9C%8B%E5%88%B038%E5%B9%B4%E5%89%8D%E8%80%81%E7%85%A7%E7%89%87+%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%83%BD%E7%AC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [拜登指着红旗车说beautiful](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%8C%87%E7%9D%80%E7%BA%A2%E6%97%97%E8%BD%A6%E8%AF%B4beautiful&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中美元首会晤:推动恢复两军高层沟通](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%3A%E6%8E%A8%E5%8A%A8%E6%81%A2%E5%A4%8D%E4%B8%A4%E5%86%9B%E9%AB%98%E5%B1%82%E6%B2%9F%E9%80%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆辟谣秀山火车站拆除传闻](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E7%A7%80%E5%B1%B1%E7%81%AB%E8%BD%A6%E7%AB%99%E6%8B%86%E9%99%A4%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [山西农大辟谣发生杀人藏尸案](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%86%9C%E5%A4%A7%E8%BE%9F%E8%B0%A3%E5%8F%91%E7%94%9F%E6%9D%80%E4%BA%BA%E8%97%8F%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [看到38年前老照片 中美元首都笑了](https://www.baidu.com/s?wd=%E7%9C%8B%E5%88%B038%E5%B9%B4%E5%89%8D%E8%80%81%E7%85%A7%E7%89%87+%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%83%BD%E7%AC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [拜登指着红旗车说beautiful](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E6%8C%87%E7%9D%80%E7%BA%A2%E6%97%97%E8%BD%A6%E8%AF%B4beautiful&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中美元首会晤:推动恢复两军高层沟通](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%3A%E6%8E%A8%E5%8A%A8%E6%81%A2%E5%A4%8D%E4%B8%A4%E5%86%9B%E9%AB%98%E5%B1%82%E6%B2%9F%E9%80%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆辟谣秀山火车站拆除传闻](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E7%A7%80%E5%B1%B1%E7%81%AB%E8%BD%A6%E7%AB%99%E6%8B%86%E9%99%A4%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [山西农大辟谣发生杀人藏尸案](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%86%9C%E5%A4%A7%E8%BE%9F%E8%B0%A3%E5%8F%91%E7%94%9F%E6%9D%80%E4%BA%BA%E8%97%8F%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
