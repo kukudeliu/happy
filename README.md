@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 13:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 13:08:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [拜登指着红旗车说beautiful](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8C%87%E7%9D%80%E7%BA%A2%E6%97%97%E8%BD%A6%E8%AF%B4beautiful%23&t=31&band_rank=4&Refer=top)<br />
 5. [檀健次首部现偶男主](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E9%A6%96%E9%83%A8%E7%8E%B0%E5%81%B6%E7%94%B7%E4%B8%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [中美元首相互道别](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E7%9B%B8%E4%BA%92%E9%81%93%E5%88%AB%23&t=31&band_rank=6&Refer=top)<br />
-7. [这个地球容得下中美两国](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E5%9C%B0%E7%90%83%E5%AE%B9%E5%BE%97%E4%B8%8B%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [抖音测试付费短视频](https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E6%B5%8B%E8%AF%95%E4%BB%98%E8%B4%B9%E7%9F%AD%E8%A7%86%E9%A2%91%23&t=31&band_rank=8&Refer=top)<br />
+7. [抖音测试付费短视频](https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E6%B5%8B%E8%AF%95%E4%BB%98%E8%B4%B9%E7%9F%AD%E8%A7%86%E9%A2%91%23&t=31&band_rank=7&Refer=top)<br />
+8. [这个地球容得下中美两国](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E5%9C%B0%E7%90%83%E5%AE%B9%E5%BE%97%E4%B8%8B%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%23&t=31&band_rank=8&Refer=top)<br />
 9. [要增加中美两国直航航班](https://s.weibo.com/weibo?q=%23%E8%A6%81%E5%A2%9E%E5%8A%A0%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E7%9B%B4%E8%88%AA%E8%88%AA%E7%8F%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
