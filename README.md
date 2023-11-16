@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 08:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 08:56:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [习近平同拜登举行中美元首会晤](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%8B%9C%E7%99%BB%E4%B8%BE%E8%A1%8C%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [习近平：美方应停止武装台湾](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E7%BE%8E%E6%96%B9%E5%BA%94%E5%81%9C%E6%AD%A2%E6%AD%A6%E8%A3%85%E5%8F%B0%E6%B9%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [习近平同拜登道别](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%8B%9C%E7%99%BB%E9%81%93%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [中美元首相互道别](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E7%9B%B8%E4%BA%92%E9%81%93%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中美元首会晤的开场白里谈了什么](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E7%9A%84%E5%BC%80%E5%9C%BA%E7%99%BD%E9%87%8C%E8%B0%88%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [习近平同拜登散步交谈](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%8B%9C%E7%99%BB%E6%95%A3%E6%AD%A5%E4%BA%A4%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [习近平：这个地球容得下中美两国](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E8%BF%99%E4%B8%AA%E5%9C%B0%E7%90%83%E5%AE%B9%E5%BE%97%E4%B8%8B%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [习近平同拜登举行中美元首会晤](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%8B%9C%E7%99%BB%E4%B8%BE%E8%A1%8C%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [习近平：美方应停止武装台湾](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E7%BE%8E%E6%96%B9%E5%BA%94%E5%81%9C%E6%AD%A2%E6%AD%A6%E8%A3%85%E5%8F%B0%E6%B9%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [习近平同拜登道别](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%8B%9C%E7%99%BB%E9%81%93%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [中美元首相互道别](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E7%9B%B8%E4%BA%92%E9%81%93%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中美元首会晤的开场白里谈了什么](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E7%9A%84%E5%BC%80%E5%9C%BA%E7%99%BD%E9%87%8C%E8%B0%88%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [习近平同拜登散步交谈](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%8B%9C%E7%99%BB%E6%95%A3%E6%AD%A5%E4%BA%A4%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [习近平：这个地球容得下中美两国](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E8%BF%99%E4%B8%AA%E5%9C%B0%E7%90%83%E5%AE%B9%E5%BE%97%E4%B8%8B%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
