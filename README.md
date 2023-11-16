@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 21:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 21:07:01</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 
 > 百度  
 
-1. [习近平：中美关系希望在人民](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E5%B8%8C%E6%9C%9B%E5%9C%A8%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [一篇面向全美各界发表的演讲](https://www.baidu.com/s?wd=%E4%B8%80%E7%AF%87%E9%9D%A2%E5%90%91%E5%85%A8%E7%BE%8E%E5%90%84%E7%95%8C%E5%8F%91%E8%A1%A8%E7%9A%84%E6%BC%94%E8%AE%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [中美元首会晤需要关注的5个信号](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E9%9C%80%E8%A6%81%E5%85%B3%E6%B3%A8%E7%9A%845%E4%B8%AA%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [习近平获赠金州勇士队球衣](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%8E%B7%E8%B5%A0%E9%87%91%E5%B7%9E%E5%8B%87%E5%A3%AB%E9%98%9F%E7%90%83%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [书写亚太合作新篇章](https://www.baidu.com/s?wd=%E4%B9%A6%E5%86%99%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [中美元首会晤达成20多项共识](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E8%BE%BE%E6%88%9020%E5%A4%9A%E9%A1%B9%E5%85%B1%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [习近平就山西26死火灾事故作指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%B1%E5%B1%B1%E8%A5%BF26%E6%AD%BB%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BD%9C%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [明国平、明菊兰、明珍珍被移交中方](https://www.baidu.com/s?wd=%E6%98%8E%E5%9B%BD%E5%B9%B3%E3%80%81%E6%98%8E%E8%8F%8A%E5%85%B0%E3%80%81%E6%98%8E%E7%8F%8D%E7%8F%8D%E8%A2%AB%E7%A7%BB%E4%BA%A4%E4%B8%AD%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [记者问谈得如何？拜登竖起大拇指](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E9%97%AE%E8%B0%88%E5%BE%97%E5%A6%82%E4%BD%95%EF%BC%9F%E6%8B%9C%E7%99%BB%E7%AB%96%E8%B5%B7%E5%A4%A7%E6%8B%87%E6%8C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,10 +29,10 @@
 
 > 哔哩哔哩  
 
-1. [习近平：中美关系希望在人民](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E5%B8%8C%E6%9C%9B%E5%9C%A8%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [一篇面向全美各界发表的演讲](https://www.baidu.com/s?wd=%E4%B8%80%E7%AF%87%E9%9D%A2%E5%90%91%E5%85%A8%E7%BE%8E%E5%90%84%E7%95%8C%E5%8F%91%E8%A1%A8%E7%9A%84%E6%BC%94%E8%AE%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [中美元首会晤需要关注的5个信号](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E9%9C%80%E8%A6%81%E5%85%B3%E6%B3%A8%E7%9A%845%E4%B8%AA%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [习近平获赠金州勇士队球衣](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%8E%B7%E8%B5%A0%E9%87%91%E5%B7%9E%E5%8B%87%E5%A3%AB%E9%98%9F%E7%90%83%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [书写亚太合作新篇章](https://www.baidu.com/s?wd=%E4%B9%A6%E5%86%99%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [中美元首会晤达成20多项共识](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E8%BE%BE%E6%88%9020%E5%A4%9A%E9%A1%B9%E5%85%B1%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [习近平就山西26死火灾事故作指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%B1%E5%B1%B1%E8%A5%BF26%E6%AD%BB%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BD%9C%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [明国平、明菊兰、明珍珍被移交中方](https://www.baidu.com/s?wd=%E6%98%8E%E5%9B%BD%E5%B9%B3%E3%80%81%E6%98%8E%E8%8F%8A%E5%85%B0%E3%80%81%E6%98%8E%E7%8F%8D%E7%8F%8D%E8%A2%AB%E7%A7%BB%E4%BA%A4%E4%B8%AD%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [记者问谈得如何？拜登竖起大拇指](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E9%97%AE%E8%B0%88%E5%BE%97%E5%A6%82%E4%BD%95%EF%BC%9F%E6%8B%9C%E7%99%BB%E7%AB%96%E8%B5%B7%E5%A4%A7%E6%8B%87%E6%8C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
