@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 10:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 10:17:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [中美元首会晤结束](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E7%BB%93%E6%9D%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [加沙长时间暂时停火决议美国弃权票](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E9%95%BF%E6%97%B6%E9%97%B4%E6%9A%82%E6%97%B6%E5%81%9C%E7%81%AB%E5%86%B3%E8%AE%AE%E7%BE%8E%E5%9B%BD%E5%BC%83%E6%9D%83%E7%A5%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [SMTOWN将推出英国男团](https://s.weibo.com/weibo?q=%23SMTOWN%E5%B0%86%E6%8E%A8%E5%87%BA%E8%8B%B1%E5%9B%BD%E7%94%B7%E5%9B%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [要增加中美两国直航航班](https://s.weibo.com/weibo?q=%23%E8%A6%81%E5%A2%9E%E5%8A%A0%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E7%9B%B4%E8%88%AA%E8%88%AA%E7%8F%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [中美元首散步交谈](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%95%A3%E6%AD%A5%E4%BA%A4%E8%B0%88%23&t=31&band_rank=9&Refer=top)<br />
+8. [中美元首散步交谈](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%95%A3%E6%AD%A5%E4%BA%A4%E8%B0%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [要增加中美两国直航航班](https://s.weibo.com/weibo?q=%23%E8%A6%81%E5%A2%9E%E5%8A%A0%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E7%9B%B4%E8%88%AA%E8%88%AA%E7%8F%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
