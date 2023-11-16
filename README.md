@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 22:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 22:59:01</h4></div>
 
 > 微博  
 
-1. [明国平等三名缅北电诈头目被缉拿归案](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%9B%BD%E5%B9%B3%E7%AD%89%E4%B8%89%E5%90%8D%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E8%A2%AB%E7%BC%89%E6%8B%BF%E5%BD%92%E6%A1%88%23&t=31&band_rank=1&Refer=top)<br />
+1. [中国男足2比1战胜泰国队](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B32%E6%AF%941%E6%88%98%E8%83%9C%E6%B3%B0%E5%9B%BD%E9%98%9F%23&t=31&band_rank=1&Refer=top)<br />
 2. [拜登指着红旗车说beautiful](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8C%87%E7%9D%80%E7%BA%A2%E6%97%97%E8%BD%A6%E8%AF%B4beautiful%23&t=31&band_rank=2&Refer=top)<br />
 3. [时隔8年再次向美国人民发表的演讲](https://s.weibo.com/weibo?q=%23%E6%97%B6%E9%9A%948%E5%B9%B4%E5%86%8D%E6%AC%A1%E5%90%91%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%8F%91%E8%A1%A8%E7%9A%84%E6%BC%94%E8%AE%B2%23&t=31&band_rank=3&Refer=top)<br />
-4. [中国男足2比1战胜泰国队](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B32%E6%AF%941%E6%88%98%E8%83%9C%E6%B3%B0%E5%9B%BD%E9%98%9F%23&t=31&band_rank=4&Refer=top)<br />
+4. [明国平等三名缅北电诈头目被缉拿归案](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%9B%BD%E5%B9%B3%E7%AD%89%E4%B8%89%E5%90%8D%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E8%A2%AB%E7%BC%89%E6%8B%BF%E5%BD%92%E6%A1%88%23&t=31&band_rank=4&Refer=top)<br />
 5. [中美元首会晤意义重大](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E6%84%8F%E4%B9%89%E9%87%8D%E5%A4%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [国足vs泰国](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E6%B3%B0%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [不好意思开口但被民警秒懂](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%E5%BC%80%E5%8F%A3%E4%BD%86%E8%A2%AB%E6%B0%91%E8%AD%A6%E7%A7%92%E6%87%82%23&t=31&band_rank=7&Refer=top)<br />
