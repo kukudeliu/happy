@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 20:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 20:29:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [拜登指着红旗车说beautiful](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8C%87%E7%9D%80%E7%BA%A2%E6%97%97%E8%BD%A6%E8%AF%B4beautiful%23&t=31&band_rank=2&Refer=top)<br />
 3. [一篇面向全美各界发表的演讲](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AF%87%E9%9D%A2%E5%90%91%E5%85%A8%E7%BE%8E%E5%90%84%E7%95%8C%E5%8F%91%E8%A1%A8%E7%9A%84%E6%BC%94%E8%AE%B2%23&t=31&band_rank=3&Refer=top)<br />
 4. [不好意思开口但被民警秒懂](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%E5%BC%80%E5%8F%A3%E4%BD%86%E8%A2%AB%E6%B0%91%E8%AD%A6%E7%A7%92%E6%87%82%23&t=31&band_rank=4&Refer=top)<br />
-5. [银行称顺其自然汇款人是位女士](https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E7%A7%B0%E9%A1%BA%E5%85%B6%E8%87%AA%E7%84%B6%E6%B1%87%E6%AC%BE%E4%BA%BA%E6%98%AF%E4%BD%8D%E5%A5%B3%E5%A3%AB%23&t=31&band_rank=5&Refer=top)<br />
-6. [探班隔离中的美香一家](https://s.weibo.com/weibo?q=%23%E6%8E%A2%E7%8F%AD%E9%9A%94%E7%A6%BB%E4%B8%AD%E7%9A%84%E7%BE%8E%E9%A6%99%E4%B8%80%E5%AE%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [幼儿园小女孩800米跑3分11秒](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%B0%8F%E5%A5%B3%E5%AD%A9800%E7%B1%B3%E8%B7%913%E5%88%8611%E7%A7%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [愿邀请5万名美国青少年来华交流学习](https://s.weibo.com/weibo?q=%23%E6%84%BF%E9%82%80%E8%AF%B75%E4%B8%87%E5%90%8D%E7%BE%8E%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E6%9D%A5%E5%8D%8E%E4%BA%A4%E6%B5%81%E5%AD%A6%E4%B9%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [中美元首一起看38年前的照片](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%B8%80%E8%B5%B7%E7%9C%8B38%E5%B9%B4%E5%89%8D%E7%9A%84%E7%85%A7%E7%89%87%23&t=31&band_rank=9&Refer=top)<br />
+5. [蛇皮腿是怎么一回事](https://s.weibo.com/weibo?q=%E8%9B%87%E7%9A%AE%E8%85%BF%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E5%9B%9E%E4%BA%8B&t=31&band_rank=5&Refer=top)<br />
+6. [银行称顺其自然汇款人是位女士](https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E7%A7%B0%E9%A1%BA%E5%85%B6%E8%87%AA%E7%84%B6%E6%B1%87%E6%AC%BE%E4%BA%BA%E6%98%AF%E4%BD%8D%E5%A5%B3%E5%A3%AB%23&t=31&band_rank=6&Refer=top)<br />
+7. [探班隔离中的美香一家](https://s.weibo.com/weibo?q=%23%E6%8E%A2%E7%8F%AD%E9%9A%94%E7%A6%BB%E4%B8%AD%E7%9A%84%E7%BE%8E%E9%A6%99%E4%B8%80%E5%AE%B6%23&t=31&band_rank=7&Refer=top)<br />
+8. [幼儿园小女孩800米跑3分11秒](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%B0%8F%E5%A5%B3%E5%AD%A9800%E7%B1%B3%E8%B7%913%E5%88%8611%E7%A7%92%23&t=31&band_rank=8&Refer=top)<br />
+9. [愿邀请5万名美国青少年来华交流学习](https://s.weibo.com/weibo?q=%23%E6%84%BF%E9%82%80%E8%AF%B75%E4%B8%87%E5%90%8D%E7%BE%8E%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E6%9D%A5%E5%8D%8E%E4%BA%A4%E6%B5%81%E5%AD%A6%E4%B9%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
