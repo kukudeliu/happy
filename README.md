@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 22:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-16 22:22:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [武磊铲射破门](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E7%A3%8A%E9%93%B2%E5%B0%84%E7%A0%B4%E9%97%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [中美元首会晤意义重大](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E6%84%8F%E4%B9%89%E9%87%8D%E5%A4%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [国足vs泰国](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E6%B3%B0%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
-7. [缅北电诈集团3头目被移交我公安机关](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E9%9B%86%E5%9B%A23%E5%A4%B4%E7%9B%AE%E8%A2%AB%E7%A7%BB%E4%BA%A4%E6%88%91%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%23&t=31&band_rank=7&Refer=top)<br />
-8. [不好意思开口但被民警秒懂](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%E5%BC%80%E5%8F%A3%E4%BD%86%E8%A2%AB%E6%B0%91%E8%AD%A6%E7%A7%92%E6%87%82%23&t=31&band_rank=8&Refer=top)<br />
+7. [不好意思开口但被民警秒懂](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%E5%BC%80%E5%8F%A3%E4%BD%86%E8%A2%AB%E6%B0%91%E8%AD%A6%E7%A7%92%E6%87%82%23&t=31&band_rank=7&Refer=top)<br />
+8. [缅北电诈集团3头目被移交我公安机关](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E9%9B%86%E5%9B%A23%E5%A4%B4%E7%9B%AE%E8%A2%AB%E7%A7%BB%E4%BA%A4%E6%88%91%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%23&t=31&band_rank=8&Refer=top)<br />
 9. [韦世豪妙传](https://s.weibo.com/weibo?q=%23%E9%9F%A6%E4%B8%96%E8%B1%AA%E5%A6%99%E4%BC%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
