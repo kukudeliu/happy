@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 05:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 05:06:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [多名80后正厅履新 有人15岁进中科大](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D80%E5%90%8E%E6%AD%A3%E5%8E%85%E5%B1%A5%E6%96%B0+%E6%9C%89%E4%BA%BA15%E5%B2%81%E8%BF%9B%E4%B8%AD%E7%A7%91%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让“旧金山愿景”变实景](https://www.baidu.com/s?wd=%E8%AE%A9%E2%80%9C%E6%97%A7%E9%87%91%E5%B1%B1%E6%84%BF%E6%99%AF%E2%80%9D%E5%8F%98%E5%AE%9E%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [肺炎支原体感染愈后多吃白色食物](https://www.baidu.com/s?wd=%E8%82%BA%E7%82%8E%E6%94%AF%E5%8E%9F%E4%BD%93%E6%84%9F%E6%9F%93%E6%84%88%E5%90%8E%E5%A4%9A%E5%90%83%E7%99%BD%E8%89%B2%E9%A3%9F%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [拜登为迟到1小时道歉：去打电话了](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E4%B8%BA%E8%BF%9F%E5%88%B01%E5%B0%8F%E6%97%B6%E9%81%93%E6%AD%89%EF%BC%9A%E5%8E%BB%E6%89%93%E7%94%B5%E8%AF%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [“电话手表兑换卡”现新骗局](https://www.baidu.com/s?wd=%E2%80%9C%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E5%85%91%E6%8D%A2%E5%8D%A1%E2%80%9D%E7%8E%B0%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [川菜成为全国第一大菜系](https://www.baidu.com/s?wd=%E5%B7%9D%E8%8F%9C%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%8F%9C%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [“电话手表兑换卡”现新骗局](https://www.baidu.com/s?wd=%E2%80%9C%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E5%85%91%E6%8D%A2%E5%8D%A1%E2%80%9D%E7%8E%B0%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [川菜成为全国第一大菜系](https://www.baidu.com/s?wd=%E5%B7%9D%E8%8F%9C%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%8F%9C%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [17岁少年照顾脑瘫同学近5年](https://www.baidu.com/s?wd=17%E5%B2%81%E5%B0%91%E5%B9%B4%E7%85%A7%E9%A1%BE%E8%84%91%E7%98%AB%E5%90%8C%E5%AD%A6%E8%BF%915%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [消炎药就是抗生素？大不相同](https://www.baidu.com/s?wd=%E6%B6%88%E7%82%8E%E8%8D%AF%E5%B0%B1%E6%98%AF%E6%8A%97%E7%94%9F%E7%B4%A0%EF%BC%9F%E5%A4%A7%E4%B8%8D%E7%9B%B8%E5%90%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [多名80后正厅履新 有人15岁进中科大](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D80%E5%90%8E%E6%AD%A3%E5%8E%85%E5%B1%A5%E6%96%B0+%E6%9C%89%E4%BA%BA15%E5%B2%81%E8%BF%9B%E4%B8%AD%E7%A7%91%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让“旧金山愿景”变实景](https://www.baidu.com/s?wd=%E8%AE%A9%E2%80%9C%E6%97%A7%E9%87%91%E5%B1%B1%E6%84%BF%E6%99%AF%E2%80%9D%E5%8F%98%E5%AE%9E%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [肺炎支原体感染愈后多吃白色食物](https://www.baidu.com/s?wd=%E8%82%BA%E7%82%8E%E6%94%AF%E5%8E%9F%E4%BD%93%E6%84%9F%E6%9F%93%E6%84%88%E5%90%8E%E5%A4%9A%E5%90%83%E7%99%BD%E8%89%B2%E9%A3%9F%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [拜登为迟到1小时道歉：去打电话了](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E4%B8%BA%E8%BF%9F%E5%88%B01%E5%B0%8F%E6%97%B6%E9%81%93%E6%AD%89%EF%BC%9A%E5%8E%BB%E6%89%93%E7%94%B5%E8%AF%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [“电话手表兑换卡”现新骗局](https://www.baidu.com/s?wd=%E2%80%9C%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E5%85%91%E6%8D%A2%E5%8D%A1%E2%80%9D%E7%8E%B0%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [川菜成为全国第一大菜系](https://www.baidu.com/s?wd=%E5%B7%9D%E8%8F%9C%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%8F%9C%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [“电话手表兑换卡”现新骗局](https://www.baidu.com/s?wd=%E2%80%9C%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E5%85%91%E6%8D%A2%E5%8D%A1%E2%80%9D%E7%8E%B0%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [川菜成为全国第一大菜系](https://www.baidu.com/s?wd=%E5%B7%9D%E8%8F%9C%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%8F%9C%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [17岁少年照顾脑瘫同学近5年](https://www.baidu.com/s?wd=17%E5%B2%81%E5%B0%91%E5%B9%B4%E7%85%A7%E9%A1%BE%E8%84%91%E7%98%AB%E5%90%8C%E5%AD%A6%E8%BF%915%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [消炎药就是抗生素？大不相同](https://www.baidu.com/s?wd=%E6%B6%88%E7%82%8E%E8%8D%AF%E5%B0%B1%E6%98%AF%E6%8A%97%E7%94%9F%E7%B4%A0%EF%BC%9F%E5%A4%A7%E4%B8%8D%E7%9B%B8%E5%90%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
