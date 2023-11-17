@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 03:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 03:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘亦菲 油画公主](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E6%B2%B9%E7%94%BB%E5%85%AC%E4%B8%BB&t=31&band_rank=6&Refer=top)<br />
 7. [五月天舞台 提词器](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E8%88%9E%E5%8F%B0%20%E6%8F%90%E8%AF%8D%E5%99%A8&t=31&band_rank=7&Refer=top)<br />
 8. [刘雅瑟 这是我演过最美的角色](https://s.weibo.com/weibo?q=%E5%88%98%E9%9B%85%E7%91%9F%20%E8%BF%99%E6%98%AF%E6%88%91%E6%BC%94%E8%BF%87%E6%9C%80%E7%BE%8E%E7%9A%84%E8%A7%92%E8%89%B2&t=31&band_rank=8&Refer=top)<br />
-9. [龚俊剧里是怎么忍住不摸的](https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%89%A7%E9%87%8C%E6%98%AF%E6%80%8E%E4%B9%88%E5%BF%8D%E4%BD%8F%E4%B8%8D%E6%91%B8%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [罗英子被抓](https://s.weibo.com/weibo?q=%23%E7%BD%97%E8%8B%B1%E5%AD%90%E8%A2%AB%E6%8A%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
