@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 20:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 20:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [EDG 接AD](https://s.weibo.com/weibo?q=EDG%20%E6%8E%A5AD&t=31&band_rank=6&Refer=top)<br />
 7. [关晓彤敦煌飞天妆](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%95%A6%E7%85%8C%E9%A3%9E%E5%A4%A9%E5%A6%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [陶勇感谢杨幂支持视障人群](https://s.weibo.com/weibo?q=%23%E9%99%B6%E5%8B%87%E6%84%9F%E8%B0%A2%E6%9D%A8%E5%B9%82%E6%94%AF%E6%8C%81%E8%A7%86%E9%9A%9C%E4%BA%BA%E7%BE%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [鹿晗 客服小张新歌听起来](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%20%E5%AE%A2%E6%9C%8D%E5%B0%8F%E5%BC%A0%E6%96%B0%E6%AD%8C%E5%90%AC%E8%B5%B7%E6%9D%A5&t=31&band_rank=9&Refer=top)<br />
+9. [刘亦菲张靓颖周深于适同框](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BC%A0%E9%9D%93%E9%A2%96%E5%91%A8%E6%B7%B1%E4%BA%8E%E9%80%82%E5%90%8C%E6%A1%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
