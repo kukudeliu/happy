@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 15:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 15:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [赓续友谊的相聚](https://s.weibo.com/weibo?q=%23%E8%B5%93%E7%BB%AD%E5%8F%8B%E8%B0%8A%E7%9A%84%E7%9B%B8%E8%81%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [沪上阿姨 回收](https://s.weibo.com/weibo?q=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%20%E5%9B%9E%E6%94%B6&t=31&band_rank=6&Refer=top)<br />
 7. [优酷11月片单](https://s.weibo.com/weibo?q=%E4%BC%98%E9%85%B711%E6%9C%88%E7%89%87%E5%8D%95&t=31&band_rank=7&Refer=top)<br />
-8. [昨天爆改金希澈今天回到李二牛](https://s.weibo.com/weibo?q=%23%E6%98%A8%E5%A4%A9%E7%88%86%E6%94%B9%E9%87%91%E5%B8%8C%E6%BE%88%E4%BB%8A%E5%A4%A9%E5%9B%9E%E5%88%B0%E6%9D%8E%E4%BA%8C%E7%89%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [王昭君 美少女战士](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%98%AD%E5%90%9B%20%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%98%E5%A3%AB&t=31&band_rank=9&Refer=top)<br />
+8. [王昭君 美少女战士](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%98%AD%E5%90%9B%20%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%98%E5%A3%AB&t=31&band_rank=8&Refer=top)<br />
+9. [昨天爆改金希澈今天回到李二牛](https://s.weibo.com/weibo?q=%23%E6%98%A8%E5%A4%A9%E7%88%86%E6%94%B9%E9%87%91%E5%B8%8C%E6%BE%88%E4%BB%8A%E5%A4%A9%E5%9B%9E%E5%88%B0%E6%9D%8E%E4%BA%8C%E7%89%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
