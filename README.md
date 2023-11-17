@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 09:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 10:00:01</h4></div>
 
 > 微博  
 
 1. [欢迎继续投资中国深耕中国](https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%BB%A7%E7%BB%AD%E6%8A%95%E8%B5%84%E4%B8%AD%E5%9B%BD%E6%B7%B1%E8%80%95%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=1&Refer=top)<br />
-2. [时隔8年再次向美国人民发表的演讲](https://s.weibo.com/weibo?q=%23%E6%97%B6%E9%9A%948%E5%B9%B4%E5%86%8D%E6%AC%A1%E5%90%91%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%8F%91%E8%A1%A8%E7%9A%84%E6%BC%94%E8%AE%B2%23&t=31&band_rank=2&Refer=top)<br />
+2. [澳门官方暖心回应萌娃唱七子之歌](https://s.weibo.com/weibo?q=%23%E6%BE%B3%E9%97%A8%E5%AE%98%E6%96%B9%E6%9A%96%E5%BF%83%E5%9B%9E%E5%BA%94%E8%90%8C%E5%A8%83%E5%94%B1%E4%B8%83%E5%AD%90%E4%B9%8B%E6%AD%8C%23&t=31&band_rank=2&Refer=top)<br />
 3. [一个选择三项原则五根支柱](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E9%80%89%E6%8B%A9%E4%B8%89%E9%A1%B9%E5%8E%9F%E5%88%99%E4%BA%94%E6%A0%B9%E6%94%AF%E6%9F%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [梅西锁喉](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E9%94%81%E5%96%89&t=31&band_rank=4&Refer=top)<br />
 5. [打造合作共赢的开放型亚太经济](https://s.weibo.com/weibo?q=%23%E6%89%93%E9%80%A0%E5%90%88%E4%BD%9C%E5%85%B1%E8%B5%A2%E7%9A%84%E5%BC%80%E6%94%BE%E5%9E%8B%E4%BA%9A%E5%A4%AA%E7%BB%8F%E6%B5%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [刘亦菲迪士尼公主出场](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%85%AC%E4%B8%BB%E5%87%BA%E5%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [阿根廷乌拉圭冲突](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B9%8C%E6%8B%89%E5%9C%AD%E5%86%B2%E7%AA%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [谢娜睡前给张杰语音说爱你](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E7%9D%A1%E5%89%8D%E7%BB%99%E5%BC%A0%E6%9D%B0%E8%AF%AD%E9%9F%B3%E8%AF%B4%E7%88%B1%E4%BD%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [怪不得古天乐后来不跳舞了](https://s.weibo.com/weibo?q=%E6%80%AA%E4%B8%8D%E5%BE%97%E5%8F%A4%E5%A4%A9%E4%B9%90%E5%90%8E%E6%9D%A5%E4%B8%8D%E8%B7%B3%E8%88%9E%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [时隔8年再次向美国人民发表的演讲](https://s.weibo.com/weibo?q=%23%E6%97%B6%E9%9A%948%E5%B9%B4%E5%86%8D%E6%AC%A1%E5%90%91%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%8F%91%E8%A1%A8%E7%9A%84%E6%BC%94%E8%AE%B2%23&t=31&band_rank=8&Refer=top)<br />
+9. [谢娜睡前给张杰语音说爱你](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E7%9D%A1%E5%89%8D%E7%BB%99%E5%BC%A0%E6%9D%B0%E8%AF%AD%E9%9F%B3%E8%AF%B4%E7%88%B1%E4%BD%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
