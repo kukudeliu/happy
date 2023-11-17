@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 10:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 10:52:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [阿根廷0比2乌拉圭](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B70%E6%AF%942%E4%B9%8C%E6%8B%89%E5%9C%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [打造合作共赢的开放型亚太经济](https://s.weibo.com/weibo?q=%23%E6%89%93%E9%80%A0%E5%90%88%E4%BD%9C%E5%85%B1%E8%B5%A2%E7%9A%84%E5%BC%80%E6%94%BE%E5%9E%8B%E4%BA%9A%E5%A4%AA%E7%BB%8F%E6%B5%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [中缅边境发生地震](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [怪不得古天乐后来不跳舞了](https://s.weibo.com/weibo?q=%E6%80%AA%E4%B8%8D%E5%BE%97%E5%8F%A4%E5%A4%A9%E4%B9%90%E5%90%8E%E6%9D%A5%E4%B8%8D%E8%B7%B3%E8%88%9E%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [谢娜回语音的是老龚不是老公](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E5%9B%9E%E8%AF%AD%E9%9F%B3%E7%9A%84%E6%98%AF%E8%80%81%E9%BE%9A%E4%B8%8D%E6%98%AF%E8%80%81%E5%85%AC&t=31&band_rank=8&Refer=top)<br />
+7. [谢娜回语音的是老龚不是老公](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E5%9B%9E%E8%AF%AD%E9%9F%B3%E7%9A%84%E6%98%AF%E8%80%81%E9%BE%9A%E4%B8%8D%E6%98%AF%E8%80%81%E5%85%AC&t=31&band_rank=7&Refer=top)<br />
+8. [怪不得古天乐后来不跳舞了](https://s.weibo.com/weibo?q=%E6%80%AA%E4%B8%8D%E5%BE%97%E5%8F%A4%E5%A4%A9%E4%B9%90%E5%90%8E%E6%9D%A5%E4%B8%8D%E8%B7%B3%E8%88%9E%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [丫丫晒太阳吃果果](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E6%99%92%E5%A4%AA%E9%98%B3%E5%90%83%E6%9E%9C%E6%9E%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
