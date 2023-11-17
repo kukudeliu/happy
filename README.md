@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 10:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 10:11:01</h4></div>
 
 > 微博  
 
 1. [欢迎继续投资中国深耕中国](https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%BB%A7%E7%BB%AD%E6%8A%95%E8%B5%84%E4%B8%AD%E5%9B%BD%E6%B7%B1%E8%80%95%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=1&Refer=top)<br />
 2. [中缅边境发生地震](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top)<br />
-3. [可持续发展是解决当前全球性问题的金钥匙](https://s.weibo.com/weibo?q=%23%E5%8F%AF%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95%E6%98%AF%E8%A7%A3%E5%86%B3%E5%BD%93%E5%89%8D%E5%85%A8%E7%90%83%E6%80%A7%E9%97%AE%E9%A2%98%E7%9A%84%E9%87%91%E9%92%A5%E5%8C%99%23&t=31&band_rank=3&Refer=top)<br />
+3. [一个选择三项原则五根支柱](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E9%80%89%E6%8B%A9%E4%B8%89%E9%A1%B9%E5%8E%9F%E5%88%99%E4%BA%94%E6%A0%B9%E6%94%AF%E6%9F%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [谢娜睡前给张杰语音说爱你](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E7%9D%A1%E5%89%8D%E7%BB%99%E5%BC%A0%E6%9D%B0%E8%AF%AD%E9%9F%B3%E8%AF%B4%E7%88%B1%E4%BD%A0%23&t=31&band_rank=4&Refer=top)<br />
 5. [打造合作共赢的开放型亚太经济](https://s.weibo.com/weibo?q=%23%E6%89%93%E9%80%A0%E5%90%88%E4%BD%9C%E5%85%B1%E8%B5%A2%E7%9A%84%E5%BC%80%E6%94%BE%E5%9E%8B%E4%BA%9A%E5%A4%AA%E7%BB%8F%E6%B5%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [刘亦菲迪士尼公主出场](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%85%AC%E4%B8%BB%E5%87%BA%E5%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
