@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 22:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 22:11:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [美国仍计划向台湾卖武器？中方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BB%8D%E8%AE%A1%E5%88%92%E5%90%91%E5%8F%B0%E6%B9%BE%E5%8D%96%E6%AD%A6%E5%99%A8%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [30多岁销售员住车上省6000元房租](https://www.baidu.com/s?wd=30%E5%A4%9A%E5%B2%81%E9%94%80%E5%94%AE%E5%91%98%E4%BD%8F%E8%BD%A6%E4%B8%8A%E7%9C%816000%E5%85%83%E6%88%BF%E7%A7%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [川菜成为全国第一大菜系](https://www.baidu.com/s?wd=%E5%B7%9D%E8%8F%9C%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%8F%9C%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国过境免签政策国家扩展至54国](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%BF%87%E5%A2%83%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%E5%9B%BD%E5%AE%B6%E6%89%A9%E5%B1%95%E8%87%B354%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [消炎药就是抗生素？大不相同](https://www.baidu.com/s?wd=%E6%B6%88%E7%82%8E%E8%8D%AF%E5%B0%B1%E6%98%AF%E6%8A%97%E7%94%9F%E7%B4%A0%EF%BC%9F%E5%A4%A7%E4%B8%8D%E7%9B%B8%E5%90%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [美国仍计划向台湾卖武器？中方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BB%8D%E8%AE%A1%E5%88%92%E5%90%91%E5%8F%B0%E6%B9%BE%E5%8D%96%E6%AD%A6%E5%99%A8%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [30多岁销售员住车上省6000元房租](https://www.baidu.com/s?wd=30%E5%A4%9A%E5%B2%81%E9%94%80%E5%94%AE%E5%91%98%E4%BD%8F%E8%BD%A6%E4%B8%8A%E7%9C%816000%E5%85%83%E6%88%BF%E7%A7%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [川菜成为全国第一大菜系](https://www.baidu.com/s?wd=%E5%B7%9D%E8%8F%9C%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%8F%9C%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [中国过境免签政策国家扩展至54国](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%BF%87%E5%A2%83%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%E5%9B%BD%E5%AE%B6%E6%89%A9%E5%B1%95%E8%87%B354%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [消炎药就是抗生素？大不相同](https://www.baidu.com/s?wd=%E6%B6%88%E7%82%8E%E8%8D%AF%E5%B0%B1%E6%98%AF%E6%8A%97%E7%94%9F%E7%B4%A0%EF%BC%9F%E5%A4%A7%E4%B8%8D%E7%9B%B8%E5%90%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
