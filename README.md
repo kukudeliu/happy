@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 09:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 09:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘亦菲迪士尼公主出场](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%85%AC%E4%B8%BB%E5%87%BA%E5%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [王安宇把秦海璐整不会了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E6%8A%8A%E7%A7%A6%E6%B5%B7%E7%92%90%E6%95%B4%E4%B8%8D%E4%BC%9A%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [爱奇艺尖叫之夜红毯阵容](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF%E9%98%B5%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [谢娜睡前给张杰语音说爱你](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E7%9D%A1%E5%89%8D%E7%BB%99%E5%BC%A0%E6%9D%B0%E8%AF%AD%E9%9F%B3%E8%AF%B4%E7%88%B1%E4%BD%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [梅西锁喉](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E9%94%81%E5%96%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
