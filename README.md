@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 16:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 16:11:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [习近平在APEC工商领导人峰会演讲](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E6%BC%94%E8%AE%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平会见日本首相岸田文雄](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E5%B2%B8%E7%94%B0%E6%96%87%E9%9B%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [美国仍计划向台湾卖武器？中方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BB%8D%E8%AE%A1%E5%88%92%E5%90%91%E5%8F%B0%E6%B9%BE%E5%8D%96%E6%AD%A6%E5%99%A8%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [山西火灾事故13人被采取强制措施](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%8513%E4%BA%BA%E8%A2%AB%E9%87%87%E5%8F%96%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [拉紧人民的纽带 增进人心的沟通](https://www.baidu.com/s?wd=%E6%8B%89%E7%B4%A7%E4%BA%BA%E6%B0%91%E7%9A%84%E7%BA%BD%E5%B8%A6+%E5%A2%9E%E8%BF%9B%E4%BA%BA%E5%BF%83%E7%9A%84%E6%B2%9F%E9%80%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [习近平在APEC工商领导人峰会演讲](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E6%BC%94%E8%AE%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平会见日本首相岸田文雄](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E5%B2%B8%E7%94%B0%E6%96%87%E9%9B%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [美国仍计划向台湾卖武器？中方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BB%8D%E8%AE%A1%E5%88%92%E5%90%91%E5%8F%B0%E6%B9%BE%E5%8D%96%E6%AD%A6%E5%99%A8%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [山西火灾事故13人被采取强制措施](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%8513%E4%BA%BA%E8%A2%AB%E9%87%87%E5%8F%96%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [拉紧人民的纽带 增进人心的沟通](https://www.baidu.com/s?wd=%E6%8B%89%E7%B4%A7%E4%BA%BA%E6%B0%91%E7%9A%84%E7%BA%BD%E5%B8%A6+%E5%A2%9E%E8%BF%9B%E4%BA%BA%E5%BF%83%E7%9A%84%E6%B2%9F%E9%80%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
