@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 20:06:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 20:07:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [陶勇感谢杨幂支持视障人群](https://s.weibo.com/weibo?q=%23%E9%99%B6%E5%8B%87%E6%84%9F%E8%B0%A2%E6%9D%A8%E5%B9%82%E6%94%AF%E6%8C%81%E8%A7%86%E9%9A%9C%E4%BA%BA%E7%BE%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [EDG 接AD](https://s.weibo.com/weibo?q=EDG%20%E6%8E%A5AD&t=31&band_rank=5&Refer=top)<br />
 6. [成龙是龙皮 娜扎是扎啤](https://s.weibo.com/weibo?q=%E6%88%90%E9%BE%99%E6%98%AF%E9%BE%99%E7%9A%AE%20%E5%A8%9C%E6%89%8E%E6%98%AF%E6%89%8E%E5%95%A4&t=31&band_rank=6&Refer=top)<br />
-7. [蒲熠星 跟大家分享一件失败的事情](https://s.weibo.com/weibo?q=%E8%92%B2%E7%86%A0%E6%98%9F%20%E8%B7%9F%E5%A4%A7%E5%AE%B6%E5%88%86%E4%BA%AB%E4%B8%80%E4%BB%B6%E5%A4%B1%E8%B4%A5%E7%9A%84%E4%BA%8B%E6%83%85&t=31&band_rank=7&Refer=top)<br />
-8. [关晓彤敦煌飞天妆](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%95%A6%E7%85%8C%E9%A3%9E%E5%A4%A9%E5%A6%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [川菜成为全国第一大菜系](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E8%8F%9C%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%8F%9C%E7%B3%BB%23&t=31&band_rank=9&Refer=top)<br />
+7. [关晓彤敦煌飞天妆](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%95%A6%E7%85%8C%E9%A3%9E%E5%A4%A9%E5%A6%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [蒲熠星 跟大家分享一件失败的事情](https://s.weibo.com/weibo?q=%E8%92%B2%E7%86%A0%E6%98%9F%20%E8%B7%9F%E5%A4%A7%E5%AE%B6%E5%88%86%E4%BA%AB%E4%B8%80%E4%BB%B6%E5%A4%B1%E8%B4%A5%E7%9A%84%E4%BA%8B%E6%83%85&t=31&band_rank=8&Refer=top)<br />
+9. [肺炎支原体感染愈后多吃白色食物](https://s.weibo.com/weibo?q=%23%E8%82%BA%E7%82%8E%E6%94%AF%E5%8E%9F%E4%BD%93%E6%84%9F%E6%9F%93%E6%84%88%E5%90%8E%E5%A4%9A%E5%90%83%E7%99%BD%E8%89%B2%E9%A3%9F%E7%89%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
