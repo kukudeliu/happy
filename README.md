@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 07:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 07:23:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [亚太合作新的时代之问](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E6%96%B0%E7%9A%84%E6%97%B6%E4%BB%A3%E4%B9%8B%E9%97%AE%23&t=31&band_rank=3&Refer=top)<br />
 4. [羽生结弦离婚原因](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E7%A6%BB%E5%A9%9A%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=4&Refer=top)<br />
 5. [佘诗曼 给内娱一些女王震撼](https://s.weibo.com/weibo?q=%E4%BD%98%E8%AF%97%E6%9B%BC%20%E7%BB%99%E5%86%85%E5%A8%B1%E4%B8%80%E4%BA%9B%E5%A5%B3%E7%8E%8B%E9%9C%87%E6%92%BC&t=31&band_rank=5&Refer=top)<br />
-6. [80后首富或为山东39岁的他](https://s.weibo.com/weibo?q=%2380%E5%90%8E%E9%A6%96%E5%AF%8C%E6%88%96%E4%B8%BA%E5%B1%B1%E4%B8%9C39%E5%B2%81%E7%9A%84%E4%BB%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [缅北电诈集团首犯明学昌畏罪自杀](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E9%9B%86%E5%9B%A2%E9%A6%96%E7%8A%AF%E6%98%8E%E5%AD%A6%E6%98%8C%E7%95%8F%E7%BD%AA%E8%87%AA%E6%9D%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [五月天嘉宾 14号观众](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%98%89%E5%AE%BE%2014%E5%8F%B7%E8%A7%82%E4%BC%97&t=31&band_rank=8&Refer=top)<br />
-9. [一到冬天为什么中西医都建议吃羊肉](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%88%B0%E5%86%AC%E5%A4%A9%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E8%A5%BF%E5%8C%BB%E9%83%BD%E5%BB%BA%E8%AE%AE%E5%90%83%E7%BE%8A%E8%82%89%23&t=31&band_rank=9&Refer=top)<br />
+6. [缅北电诈集团首犯明学昌畏罪自杀](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E9%9B%86%E5%9B%A2%E9%A6%96%E7%8A%AF%E6%98%8E%E5%AD%A6%E6%98%8C%E7%95%8F%E7%BD%AA%E8%87%AA%E6%9D%80%23&t=31&band_rank=6&Refer=top)<br />
+7. [五月天嘉宾 14号观众](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%98%89%E5%AE%BE%2014%E5%8F%B7%E8%A7%82%E4%BC%97&t=31&band_rank=7&Refer=top)<br />
+8. [一到冬天为什么中西医都建议吃羊肉](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%88%B0%E5%86%AC%E5%A4%A9%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E8%A5%BF%E5%8C%BB%E9%83%BD%E5%BB%BA%E8%AE%AE%E5%90%83%E7%BE%8A%E8%82%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [80后首富或为山东39岁的他](https://s.weibo.com/weibo?q=%2380%E5%90%8E%E9%A6%96%E5%AF%8C%E6%88%96%E4%B8%BA%E5%B1%B1%E4%B8%9C39%E5%B2%81%E7%9A%84%E4%BB%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
