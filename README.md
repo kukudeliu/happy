@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 18:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 18:44:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [共同家园](https://www.baidu.com/s?wd=%E5%85%B1%E5%90%8C%E5%AE%B6%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [拜登为迟到1小时道歉：去打电话了](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E4%B8%BA%E8%BF%9F%E5%88%B01%E5%B0%8F%E6%97%B6%E9%81%93%E6%AD%89%EF%BC%9A%E5%8E%BB%E6%89%93%E7%94%B5%E8%AF%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [缅甸四大家族头目白所成出逃时被拦](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E5%A4%B4%E7%9B%AE%E7%99%BD%E6%89%80%E6%88%90%E5%87%BA%E9%80%83%E6%97%B6%E8%A2%AB%E6%8B%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [这届打工人流行上夜校](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E6%89%93%E5%B7%A5%E4%BA%BA%E6%B5%81%E8%A1%8C%E4%B8%8A%E5%A4%9C%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [吕梁市长向火灾遇难者家属致歉](https://www.baidu.com/s?wd=%E5%90%95%E6%A2%81%E5%B8%82%E9%95%BF%E5%90%91%E7%81%AB%E7%81%BE%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#每个人都能成为自己的高山#](https://www.baidu.com/s?wd=%23%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E8%83%BD%E6%88%90%E4%B8%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%AB%98%E5%B1%B1%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣山东幼儿园女童遭猥亵](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%B1%B1%E4%B8%9C%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A5%B3%E7%AB%A5%E9%81%AD%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [共同家园](https://www.baidu.com/s?wd=%E5%85%B1%E5%90%8C%E5%AE%B6%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [拜登为迟到1小时道歉：去打电话了](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E4%B8%BA%E8%BF%9F%E5%88%B01%E5%B0%8F%E6%97%B6%E9%81%93%E6%AD%89%EF%BC%9A%E5%8E%BB%E6%89%93%E7%94%B5%E8%AF%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [缅甸四大家族头目白所成出逃时被拦](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E5%A4%B4%E7%9B%AE%E7%99%BD%E6%89%80%E6%88%90%E5%87%BA%E9%80%83%E6%97%B6%E8%A2%AB%E6%8B%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [这届打工人流行上夜校](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E6%89%93%E5%B7%A5%E4%BA%BA%E6%B5%81%E8%A1%8C%E4%B8%8A%E5%A4%9C%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [吕梁市长向火灾遇难者家属致歉](https://www.baidu.com/s?wd=%E5%90%95%E6%A2%81%E5%B8%82%E9%95%BF%E5%90%91%E7%81%AB%E7%81%BE%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#每个人都能成为自己的高山#](https://www.baidu.com/s?wd=%23%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E8%83%BD%E6%88%90%E4%B8%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%AB%98%E5%B1%B1%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣山东幼儿园女童遭猥亵](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%B1%B1%E4%B8%9C%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A5%B3%E7%AB%A5%E9%81%AD%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
