@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 17:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 17:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [沪上阿姨 回收](https://s.weibo.com/weibo?q=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%20%E5%9B%9E%E6%94%B6&t=31&band_rank=6&Refer=top)<br />
 7. [张靓颖迪士尼公主造型](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9D%93%E9%A2%96%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%85%AC%E4%B8%BB%E9%80%A0%E5%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [周迅 我又上桌了](https://s.weibo.com/weibo?q=%E5%91%A8%E8%BF%85%20%E6%88%91%E5%8F%88%E4%B8%8A%E6%A1%8C%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [沪上阿姨回应回收免单券](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E5%9B%9E%E6%94%B6%E5%85%8D%E5%8D%95%E5%88%B8%23&t=31&band_rank=9&Refer=top)<br />
+9. [龚俊钟楚曦电梯图好有感觉](https://s.weibo.com/weibo?q=%E9%BE%9A%E4%BF%8A%E9%92%9F%E6%A5%9A%E6%9B%A6%E7%94%B5%E6%A2%AF%E5%9B%BE%E5%A5%BD%E6%9C%89%E6%84%9F%E8%A7%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
