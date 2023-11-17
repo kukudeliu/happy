@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 14:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 14:27:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [可持续发展是解决当前全球性问题的金钥匙](https://s.weibo.com/weibo?q=%23%E5%8F%AF%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95%E6%98%AF%E8%A7%A3%E5%86%B3%E5%BD%93%E5%89%8D%E5%85%A8%E7%90%83%E6%80%A7%E9%97%AE%E9%A2%98%E7%9A%84%E9%87%91%E9%92%A5%E5%8C%99%23&t=31&band_rank=3&Refer=top)<br />
 4. [沪上阿姨 回收](https://s.weibo.com/weibo?q=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%20%E5%9B%9E%E6%94%B6&t=31&band_rank=4&Refer=top)<br />
 5. [打造合作共赢的开放型亚太经济](https://s.weibo.com/weibo?q=%23%E6%89%93%E9%80%A0%E5%90%88%E4%BD%9C%E5%85%B1%E8%B5%A2%E7%9A%84%E5%BC%80%E6%94%BE%E5%9E%8B%E4%BA%9A%E5%A4%AA%E7%BB%8F%E6%B5%8E%23&t=31&band_rank=5&Refer=top)<br />
-6. [昨天爆改金希澈今天回到李二牛](https://s.weibo.com/weibo?q=%23%E6%98%A8%E5%A4%A9%E7%88%86%E6%94%B9%E9%87%91%E5%B8%8C%E6%BE%88%E4%BB%8A%E5%A4%A9%E5%9B%9E%E5%88%B0%E6%9D%8E%E4%BA%8C%E7%89%9B%23&t=31&band_rank=6&Refer=top)<br />
-7. [暴雪宣布与网易停止合作一周年](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E5%AE%A3%E5%B8%83%E4%B8%8E%E7%BD%91%E6%98%93%E5%81%9C%E6%AD%A2%E5%90%88%E4%BD%9C%E4%B8%80%E5%91%A8%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [Lia将缺席ITZY回归与巡演](https://s.weibo.com/weibo?q=Lia%E5%B0%86%E7%BC%BA%E5%B8%ADITZY%E5%9B%9E%E5%BD%92%E4%B8%8E%E5%B7%A1%E6%BC%94&t=31&band_rank=8&Refer=top)<br />
-9. [赵露思刘宇宁开机路透](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%88%98%E5%AE%87%E5%AE%81%E5%BC%80%E6%9C%BA%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
+6. [暴雪宣布与网易停止合作一周年](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E5%AE%A3%E5%B8%83%E4%B8%8E%E7%BD%91%E6%98%93%E5%81%9C%E6%AD%A2%E5%90%88%E4%BD%9C%E4%B8%80%E5%91%A8%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
+7. [昨天爆改金希澈今天回到李二牛](https://s.weibo.com/weibo?q=%23%E6%98%A8%E5%A4%A9%E7%88%86%E6%94%B9%E9%87%91%E5%B8%8C%E6%BE%88%E4%BB%8A%E5%A4%A9%E5%9B%9E%E5%88%B0%E6%9D%8E%E4%BA%8C%E7%89%9B%23&t=31&band_rank=7&Refer=top)<br />
+8. [赵露思刘宇宁开机路透](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%88%98%E5%AE%87%E5%AE%81%E5%BC%80%E6%9C%BA%E8%B7%AF%E9%80%8F%23&t=31&band_rank=8&Refer=top)<br />
+9. [Lia将缺席ITZY回归与巡演](https://s.weibo.com/weibo?q=Lia%E5%B0%86%E7%BC%BA%E5%B8%ADITZY%E5%9B%9E%E5%BD%92%E4%B8%8E%E5%B7%A1%E6%BC%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
