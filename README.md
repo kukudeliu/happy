@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 21:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 21:34:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [泽连斯基：乌方已夺取黑海主动权](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E4%B9%8C%E6%96%B9%E5%B7%B2%E5%A4%BA%E5%8F%96%E9%BB%91%E6%B5%B7%E4%B8%BB%E5%8A%A8%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [30多岁销售员住车上省6000元房租](https://www.baidu.com/s?wd=30%E5%A4%9A%E5%B2%81%E9%94%80%E5%94%AE%E5%91%98%E4%BD%8F%E8%BD%A6%E4%B8%8A%E7%9C%816000%E5%85%83%E6%88%BF%E7%A7%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [川菜成为全国第一大菜系](https://www.baidu.com/s?wd=%E5%B7%9D%E8%8F%9C%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%8F%9C%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [松下直播拉踩飞利浦博朗被罚](https://www.baidu.com/s?wd=%E6%9D%BE%E4%B8%8B%E7%9B%B4%E6%92%AD%E6%8B%89%E8%B8%A9%E9%A3%9E%E5%88%A9%E6%B5%A6%E5%8D%9A%E6%9C%97%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [法国录得24.4万名家暴受害者](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%BD%95%E5%BE%9724.4%E4%B8%87%E5%90%8D%E5%AE%B6%E6%9A%B4%E5%8F%97%E5%AE%B3%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [泽连斯基：乌方已夺取黑海主动权](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E4%B9%8C%E6%96%B9%E5%B7%B2%E5%A4%BA%E5%8F%96%E9%BB%91%E6%B5%B7%E4%B8%BB%E5%8A%A8%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [30多岁销售员住车上省6000元房租](https://www.baidu.com/s?wd=30%E5%A4%9A%E5%B2%81%E9%94%80%E5%94%AE%E5%91%98%E4%BD%8F%E8%BD%A6%E4%B8%8A%E7%9C%816000%E5%85%83%E6%88%BF%E7%A7%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [川菜成为全国第一大菜系](https://www.baidu.com/s?wd=%E5%B7%9D%E8%8F%9C%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%8F%9C%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [松下直播拉踩飞利浦博朗被罚](https://www.baidu.com/s?wd=%E6%9D%BE%E4%B8%8B%E7%9B%B4%E6%92%AD%E6%8B%89%E8%B8%A9%E9%A3%9E%E5%88%A9%E6%B5%A6%E5%8D%9A%E6%9C%97%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [法国录得24.4万名家暴受害者](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%BD%95%E5%BE%9724.4%E4%B8%87%E5%90%8D%E5%AE%B6%E6%9A%B4%E5%8F%97%E5%AE%B3%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
