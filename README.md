@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 11:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 11:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白宫称欢迎大熊猫重返美国](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E7%A7%B0%E6%AC%A2%E8%BF%8E%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%87%8D%E8%BF%94%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [中缅边境发生地震](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [林一沈月新剧演情侣](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B8%80%E6%B2%88%E6%9C%88%E6%96%B0%E5%89%A7%E6%BC%94%E6%83%85%E4%BE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [丫丫晒太阳吃果果](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E6%99%92%E5%A4%AA%E9%98%B3%E5%90%83%E6%9E%9C%E6%9E%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [傅首尔 老刘](https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%20%E8%80%81%E5%88%98&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
