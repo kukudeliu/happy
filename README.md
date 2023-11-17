@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 06:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 06:46:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [80后首富或为山东39岁的他](https://s.weibo.com/weibo?q=%2380%E5%90%8E%E9%A6%96%E5%AF%8C%E6%88%96%E4%B8%BA%E5%B1%B1%E4%B8%9C39%E5%B2%81%E7%9A%84%E4%BB%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [一到冬天为什么中西医都建议吃羊肉](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%88%B0%E5%86%AC%E5%A4%A9%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E8%A5%BF%E5%8C%BB%E9%83%BD%E5%BB%BA%E8%AE%AE%E5%90%83%E7%BE%8A%E8%82%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘亦菲 油画公主](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E6%B2%B9%E7%94%BB%E5%85%AC%E4%B8%BB&t=31&band_rank=8&Refer=top)<br />
-9. [龚俊剧里是怎么忍住不摸的](https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%89%A7%E9%87%8C%E6%98%AF%E6%80%8E%E4%B9%88%E5%BF%8D%E4%BD%8F%E4%B8%8D%E6%91%B8%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [奚梦瑶教何猷君人情世故](https://s.weibo.com/weibo?q=%E5%A5%9A%E6%A2%A6%E7%91%B6%E6%95%99%E4%BD%95%E7%8C%B7%E5%90%9B%E4%BA%BA%E6%83%85%E4%B8%96%E6%95%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
