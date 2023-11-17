@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 19:16:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 19:17:02</h4></div>
 
 > 微博  
 
 1. [赓续友谊的相聚](https://s.weibo.com/weibo?q=%23%E8%B5%93%E7%BB%AD%E5%8F%8B%E8%B0%8A%E7%9A%84%E7%9B%B8%E8%81%9A%23&t=31&band_rank=1&Refer=top)<br />
-2. [17岁少年照顾脑瘫同学近5年](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%B0%91%E5%B9%B4%E7%85%A7%E9%A1%BE%E8%84%91%E7%98%AB%E5%90%8C%E5%AD%A6%E8%BF%915%E5%B9%B4%23&t=31&band_rank=2&Refer=top)<br />
+2. [鲁J1533警你做得好事藏不住了](https://s.weibo.com/weibo?q=%23%E9%B2%81J1533%E8%AD%A6%E4%BD%A0%E5%81%9A%E5%BE%97%E5%A5%BD%E4%BA%8B%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023年电影总票房突破500亿元](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E7%94%B5%E5%BD%B1%E6%80%BB%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B4500%E4%BA%BF%E5%85%83%23&t=31&band_rank=3&Refer=top)<br />
-4. [鲁J1533警你做得好事藏不住了](https://s.weibo.com/weibo?q=%23%E9%B2%81J1533%E8%AD%A6%E4%BD%A0%E5%81%9A%E5%BE%97%E5%A5%BD%E4%BA%8B%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
+4. [17岁少年照顾脑瘫同学近5年](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%B0%91%E5%B9%B4%E7%85%A7%E9%A1%BE%E8%84%91%E7%98%AB%E5%90%8C%E5%AD%A6%E8%BF%915%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [中日关系正处于承前启后的关键时期](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E6%AD%A3%E5%A4%84%E4%BA%8E%E6%89%BF%E5%89%8D%E5%90%AF%E5%90%8E%E7%9A%84%E5%85%B3%E9%94%AE%E6%97%B6%E6%9C%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [川菜成为全国第一大菜系](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E8%8F%9C%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%8F%9C%E7%B3%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [49岁环卫大姐与国外友人交流无障碍](https://s.weibo.com/weibo?q=%2349%E5%B2%81%E7%8E%AF%E5%8D%AB%E5%A4%A7%E5%A7%90%E4%B8%8E%E5%9B%BD%E5%A4%96%E5%8F%8B%E4%BA%BA%E4%BA%A4%E6%B5%81%E6%97%A0%E9%9A%9C%E7%A2%8D%23&t=31&band_rank=7&Refer=top)<br />
