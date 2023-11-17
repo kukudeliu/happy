@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 20:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 20:09:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [4名缅北电诈头目为何2人是中国籍](https://www.baidu.com/s?wd=4%E5%90%8D%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E4%B8%BA%E4%BD%952%E4%BA%BA%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%B1%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共同家园](https://www.baidu.com/s?wd=%E5%85%B1%E5%90%8C%E5%AE%B6%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [拜登为迟到1小时道歉：去打电话了](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E4%B8%BA%E8%BF%9F%E5%88%B01%E5%B0%8F%E6%97%B6%E9%81%93%E6%AD%89%EF%BC%9A%E5%8E%BB%E6%89%93%E7%94%B5%E8%AF%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [川菜成为全国第一大菜系](https://www.baidu.com/s?wd=%E5%B7%9D%E8%8F%9C%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%8F%9C%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [30多岁销售员住车上省6000元房租](https://www.baidu.com/s?wd=30%E5%A4%9A%E5%B2%81%E9%94%80%E5%94%AE%E5%91%98%E4%BD%8F%E8%BD%A6%E4%B8%8A%E7%9C%816000%E5%85%83%E6%88%BF%E7%A7%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [30多岁销售员住车上省6000元房租](https://www.baidu.com/s?wd=30%E5%A4%9A%E5%B2%81%E9%94%80%E5%94%AE%E5%91%98%E4%BD%8F%E8%BD%A6%E4%B8%8A%E7%9C%816000%E5%85%83%E6%88%BF%E7%A7%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [上官正义曝光医院灰产谈判现场](https://www.baidu.com/s?wd=%E4%B8%8A%E5%AE%98%E6%AD%A3%E4%B9%89%E6%9B%9D%E5%85%89%E5%8C%BB%E9%99%A2%E7%81%B0%E4%BA%A7%E8%B0%88%E5%88%A4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [教育部回应汉语拼音o读法](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3o%E8%AF%BB%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣山东幼儿园女童遭猥亵](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%B1%B1%E4%B8%9C%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A5%B3%E7%AB%A5%E9%81%AD%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [4名缅北电诈头目为何2人是中国籍](https://www.baidu.com/s?wd=4%E5%90%8D%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E4%B8%BA%E4%BD%952%E4%BA%BA%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%B1%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [共同家园](https://www.baidu.com/s?wd=%E5%85%B1%E5%90%8C%E5%AE%B6%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [拜登为迟到1小时道歉：去打电话了](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E4%B8%BA%E8%BF%9F%E5%88%B01%E5%B0%8F%E6%97%B6%E9%81%93%E6%AD%89%EF%BC%9A%E5%8E%BB%E6%89%93%E7%94%B5%E8%AF%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [川菜成为全国第一大菜系](https://www.baidu.com/s?wd=%E5%B7%9D%E8%8F%9C%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%8F%9C%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [30多岁销售员住车上省6000元房租](https://www.baidu.com/s?wd=30%E5%A4%9A%E5%B2%81%E9%94%80%E5%94%AE%E5%91%98%E4%BD%8F%E8%BD%A6%E4%B8%8A%E7%9C%816000%E5%85%83%E6%88%BF%E7%A7%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [30多岁销售员住车上省6000元房租](https://www.baidu.com/s?wd=30%E5%A4%9A%E5%B2%81%E9%94%80%E5%94%AE%E5%91%98%E4%BD%8F%E8%BD%A6%E4%B8%8A%E7%9C%816000%E5%85%83%E6%88%BF%E7%A7%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [上官正义曝光医院灰产谈判现场](https://www.baidu.com/s?wd=%E4%B8%8A%E5%AE%98%E6%AD%A3%E4%B9%89%E6%9B%9D%E5%85%89%E5%8C%BB%E9%99%A2%E7%81%B0%E4%BA%A7%E8%B0%88%E5%88%A4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [教育部回应汉语拼音o读法](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3o%E8%AF%BB%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣山东幼儿园女童遭猥亵](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%B1%B1%E4%B8%9C%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A5%B3%E7%AB%A5%E9%81%AD%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
