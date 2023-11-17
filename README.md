@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 17:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 17:44:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [共同家园](https://www.baidu.com/s?wd=%E5%85%B1%E5%90%8C%E5%AE%B6%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [拜登为迟到1小时道歉：去打电话了](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E4%B8%BA%E8%BF%9F%E5%88%B01%E5%B0%8F%E6%97%B6%E9%81%93%E6%AD%89%EF%BC%9A%E5%8E%BB%E6%89%93%E7%94%B5%E8%AF%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [缅甸四大家族头目白所成出逃时被拦](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E5%A4%B4%E7%9B%AE%E7%99%BD%E6%89%80%E6%88%90%E5%87%BA%E9%80%83%E6%97%B6%E8%A2%AB%E6%8B%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女孩肝癌晚期医护提前为其过生日](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%82%9D%E7%99%8C%E6%99%9A%E6%9C%9F%E5%8C%BB%E6%8A%A4%E6%8F%90%E5%89%8D%E4%B8%BA%E5%85%B6%E8%BF%87%E7%94%9F%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [蓝白合后赵少康劝郭台铭见好就收](https://www.baidu.com/s?wd=%E8%93%9D%E7%99%BD%E5%90%88%E5%90%8E%E8%B5%B5%E5%B0%91%E5%BA%B7%E5%8A%9D%E9%83%AD%E5%8F%B0%E9%93%AD%E8%A7%81%E5%A5%BD%E5%B0%B1%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#每个人都能成为自己的高山#](https://www.baidu.com/s?wd=%23%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E8%83%BD%E6%88%90%E4%B8%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%AB%98%E5%B1%B1%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣山东幼儿园女童遭猥亵](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%B1%B1%E4%B8%9C%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A5%B3%E7%AB%A5%E9%81%AD%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [共同家园](https://www.baidu.com/s?wd=%E5%85%B1%E5%90%8C%E5%AE%B6%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [拜登为迟到1小时道歉：去打电话了](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E4%B8%BA%E8%BF%9F%E5%88%B01%E5%B0%8F%E6%97%B6%E9%81%93%E6%AD%89%EF%BC%9A%E5%8E%BB%E6%89%93%E7%94%B5%E8%AF%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [缅甸四大家族头目白所成出逃时被拦](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E5%A4%B4%E7%9B%AE%E7%99%BD%E6%89%80%E6%88%90%E5%87%BA%E9%80%83%E6%97%B6%E8%A2%AB%E6%8B%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女孩肝癌晚期医护提前为其过生日](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%82%9D%E7%99%8C%E6%99%9A%E6%9C%9F%E5%8C%BB%E6%8A%A4%E6%8F%90%E5%89%8D%E4%B8%BA%E5%85%B6%E8%BF%87%E7%94%9F%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [蓝白合后赵少康劝郭台铭见好就收](https://www.baidu.com/s?wd=%E8%93%9D%E7%99%BD%E5%90%88%E5%90%8E%E8%B5%B5%E5%B0%91%E5%BA%B7%E5%8A%9D%E9%83%AD%E5%8F%B0%E9%93%AD%E8%A7%81%E5%A5%BD%E5%B0%B1%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#每个人都能成为自己的高山#](https://www.baidu.com/s?wd=%23%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E8%83%BD%E6%88%90%E4%B8%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%AB%98%E5%B1%B1%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣山东幼儿园女童遭猥亵](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%B1%B1%E4%B8%9C%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A5%B3%E7%AB%A5%E9%81%AD%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
