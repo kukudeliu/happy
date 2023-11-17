@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 09:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 09:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘亦菲迪士尼公主出场](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%85%AC%E4%B8%BB%E5%87%BA%E5%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [海底捞个别门店试点调整份量和价格](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E4%B8%AA%E5%88%AB%E9%97%A8%E5%BA%97%E8%AF%95%E7%82%B9%E8%B0%83%E6%95%B4%E4%BB%BD%E9%87%8F%E5%92%8C%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=7&Refer=top)<br />
 8. [王安宇把秦海璐整不会了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E6%8A%8A%E7%A7%A6%E6%B5%B7%E7%92%90%E6%95%B4%E4%B8%8D%E4%BC%9A%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [阿根廷vs乌拉圭](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E4%B9%8C%E6%8B%89%E5%9C%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [阿根廷乌拉圭冲突](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B9%8C%E6%8B%89%E5%9C%AD%E5%86%B2%E7%AA%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
