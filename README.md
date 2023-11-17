@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 19:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 20:01:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [17岁少年照顾脑瘫同学近5年](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%B0%91%E5%B9%B4%E7%85%A7%E9%A1%BE%E8%84%91%E7%98%AB%E5%90%8C%E5%AD%A6%E8%BF%915%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [EDG 接AD](https://s.weibo.com/weibo?q=EDG%20%E6%8E%A5AD&t=31&band_rank=6&Refer=top)<br />
 7. [49岁环卫大姐与国外友人交流无障碍](https://s.weibo.com/weibo?q=%2349%E5%B2%81%E7%8E%AF%E5%8D%AB%E5%A4%A7%E5%A7%90%E4%B8%8E%E5%9B%BD%E5%A4%96%E5%8F%8B%E4%BA%BA%E4%BA%A4%E6%B5%81%E6%97%A0%E9%9A%9C%E7%A2%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [蒲熠星 跟大家分享一件失败的事情](https://s.weibo.com/weibo?q=%E8%92%B2%E7%86%A0%E6%98%9F%20%E8%B7%9F%E5%A4%A7%E5%AE%B6%E5%88%86%E4%BA%AB%E4%B8%80%E4%BB%B6%E5%A4%B1%E8%B4%A5%E7%9A%84%E4%BA%8B%E6%83%85&t=31&band_rank=8&Refer=top)<br />
-9. [成龙是龙皮 娜扎是扎啤](https://s.weibo.com/weibo?q=%E6%88%90%E9%BE%99%E6%98%AF%E9%BE%99%E7%9A%AE%20%E5%A8%9C%E6%89%8E%E6%98%AF%E6%89%8E%E5%95%A4&t=31&band_rank=9&Refer=top)<br />
+8. [成龙是龙皮 娜扎是扎啤](https://s.weibo.com/weibo?q=%E6%88%90%E9%BE%99%E6%98%AF%E9%BE%99%E7%9A%AE%20%E5%A8%9C%E6%89%8E%E6%98%AF%E6%89%8E%E5%95%A4&t=31&band_rank=8&Refer=top)<br />
+9. [蒲熠星 跟大家分享一件失败的事情](https://s.weibo.com/weibo?q=%E8%92%B2%E7%86%A0%E6%98%9F%20%E8%B7%9F%E5%A4%A7%E5%AE%B6%E5%88%86%E4%BA%AB%E4%B8%80%E4%BB%B6%E5%A4%B1%E8%B4%A5%E7%9A%84%E4%BA%8B%E6%83%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [拜登为迟到1小时道歉：去打电话了](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E4%B8%BA%E8%BF%9F%E5%88%B01%E5%B0%8F%E6%97%B6%E9%81%93%E6%AD%89%EF%BC%9A%E5%8E%BB%E6%89%93%E7%94%B5%E8%AF%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [吕梁市长向火灾遇难者家属致歉](https://www.baidu.com/s?wd=%E5%90%95%E6%A2%81%E5%B8%82%E9%95%BF%E5%90%91%E7%81%AB%E7%81%BE%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [川菜成为全国第一大菜系](https://www.baidu.com/s?wd=%E5%B7%9D%E8%8F%9C%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%8F%9C%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国仍计划向台湾卖武器？中方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BB%8D%E8%AE%A1%E5%88%92%E5%90%91%E5%8F%B0%E6%B9%BE%E5%8D%96%E6%AD%A6%E5%99%A8%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教育部回应汉语拼音o读法](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3o%E8%AF%BB%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣山东幼儿园女童遭猥亵](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%B1%B1%E4%B8%9C%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A5%B3%E7%AB%A5%E9%81%AD%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [拜登为迟到1小时道歉：去打电话了](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E4%B8%BA%E8%BF%9F%E5%88%B01%E5%B0%8F%E6%97%B6%E9%81%93%E6%AD%89%EF%BC%9A%E5%8E%BB%E6%89%93%E7%94%B5%E8%AF%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [吕梁市长向火灾遇难者家属致歉](https://www.baidu.com/s?wd=%E5%90%95%E6%A2%81%E5%B8%82%E9%95%BF%E5%90%91%E7%81%AB%E7%81%BE%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [川菜成为全国第一大菜系](https://www.baidu.com/s?wd=%E5%B7%9D%E8%8F%9C%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%8F%9C%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国仍计划向台湾卖武器？中方回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BB%8D%E8%AE%A1%E5%88%92%E5%90%91%E5%8F%B0%E6%B9%BE%E5%8D%96%E6%AD%A6%E5%99%A8%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教育部回应汉语拼音o读法](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3o%E8%AF%BB%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣山东幼儿园女童遭猥亵](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%B1%B1%E4%B8%9C%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A5%B3%E7%AB%A5%E9%81%AD%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
