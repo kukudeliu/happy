@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 15:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 15:49:01</h4></div>
 
 > 微博  
 
 1. [打造合作共赢的开放型亚太经济](https://s.weibo.com/weibo?q=%23%E6%89%93%E9%80%A0%E5%90%88%E4%BD%9C%E5%85%B1%E8%B5%A2%E7%9A%84%E5%BC%80%E6%94%BE%E5%9E%8B%E4%BA%9A%E5%A4%AA%E7%BB%8F%E6%B5%8E%23&t=31&band_rank=1&Refer=top)<br />
 2. [24岁女孩肝癌晚期医护提前为其过生日](https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%82%9D%E7%99%8C%E6%99%9A%E6%9C%9F%E5%8C%BB%E6%8A%A4%E6%8F%90%E5%89%8D%E4%B8%BA%E5%85%B6%E8%BF%87%E7%94%9F%E6%97%A5%23&t=31&band_rank=2&Refer=top)<br />
-3. [可持续发展是解决当前全球性问题的金钥匙](https://s.weibo.com/weibo?q=%23%E5%8F%AF%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95%E6%98%AF%E8%A7%A3%E5%86%B3%E5%BD%93%E5%89%8D%E5%85%A8%E7%90%83%E6%80%A7%E9%97%AE%E9%A2%98%E7%9A%84%E9%87%91%E9%92%A5%E5%8C%99%23&t=31&band_rank=3&Refer=top)<br />
+3. [神十七乘组拍的蔚蓝地球](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%B8%83%E4%B9%98%E7%BB%84%E6%8B%8D%E7%9A%84%E8%94%9A%E8%93%9D%E5%9C%B0%E7%90%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [考公的风还是吹到了电视剧里](https://s.weibo.com/weibo?q=%E8%80%83%E5%85%AC%E7%9A%84%E9%A3%8E%E8%BF%98%E6%98%AF%E5%90%B9%E5%88%B0%E4%BA%86%E7%94%B5%E8%A7%86%E5%89%A7%E9%87%8C&t=31&band_rank=4&Refer=top)<br />
 5. [赓续友谊的相聚](https://s.weibo.com/weibo?q=%23%E8%B5%93%E7%BB%AD%E5%8F%8B%E8%B0%8A%E7%9A%84%E7%9B%B8%E8%81%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [沪上阿姨 回收](https://s.weibo.com/weibo?q=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%20%E5%9B%9E%E6%94%B6&t=31&band_rank=6&Refer=top)<br />
