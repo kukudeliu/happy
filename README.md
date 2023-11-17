@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 10:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 10:02:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [梅西锁喉](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E9%94%81%E5%96%89&t=31&band_rank=4&Refer=top)<br />
 5. [打造合作共赢的开放型亚太经济](https://s.weibo.com/weibo?q=%23%E6%89%93%E9%80%A0%E5%90%88%E4%BD%9C%E5%85%B1%E8%B5%A2%E7%9A%84%E5%BC%80%E6%94%BE%E5%9E%8B%E4%BA%9A%E5%A4%AA%E7%BB%8F%E6%B5%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [刘亦菲迪士尼公主出场](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%85%AC%E4%B8%BB%E5%87%BA%E5%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [阿根廷乌拉圭冲突](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B9%8C%E6%8B%89%E5%9C%AD%E5%86%B2%E7%AA%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [时隔8年再次向美国人民发表的演讲](https://s.weibo.com/weibo?q=%23%E6%97%B6%E9%9A%948%E5%B9%B4%E5%86%8D%E6%AC%A1%E5%90%91%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%8F%91%E8%A1%A8%E7%9A%84%E6%BC%94%E8%AE%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [谢娜睡前给张杰语音说爱你](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E7%9D%A1%E5%89%8D%E7%BB%99%E5%BC%A0%E6%9D%B0%E8%AF%AD%E9%9F%B3%E8%AF%B4%E7%88%B1%E4%BD%A0%23&t=31&band_rank=9&Refer=top)<br />
+7. [谢娜睡前给张杰语音说爱你](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E7%9D%A1%E5%89%8D%E7%BB%99%E5%BC%A0%E6%9D%B0%E8%AF%AD%E9%9F%B3%E8%AF%B4%E7%88%B1%E4%BD%A0%23&t=31&band_rank=7&Refer=top)<br />
+8. [阿根廷乌拉圭冲突](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B9%8C%E6%8B%89%E5%9C%AD%E5%86%B2%E7%AA%81%23&t=31&band_rank=8&Refer=top)<br />
+9. [怪不得古天乐后来不跳舞了](https://s.weibo.com/weibo?q=%E6%80%AA%E4%B8%8D%E5%BE%97%E5%8F%A4%E5%A4%A9%E4%B9%90%E5%90%8E%E6%9D%A5%E4%B8%8D%E8%B7%B3%E8%88%9E%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
