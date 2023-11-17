@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 14:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 14:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘亦菲配音迪士尼星愿](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E9%85%8D%E9%9F%B3%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%98%9F%E6%84%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [昨天爆改金希澈今天回到李二牛](https://s.weibo.com/weibo?q=%23%E6%98%A8%E5%A4%A9%E7%88%86%E6%94%B9%E9%87%91%E5%B8%8C%E6%BE%88%E4%BB%8A%E5%A4%A9%E5%9B%9E%E5%88%B0%E6%9D%8E%E4%BA%8C%E7%89%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [考公的风还是吹到了电视剧里](https://s.weibo.com/weibo?q=%E8%80%83%E5%85%AC%E7%9A%84%E9%A3%8E%E8%BF%98%E6%98%AF%E5%90%B9%E5%88%B0%E4%BA%86%E7%94%B5%E8%A7%86%E5%89%A7%E9%87%8C&t=31&band_rank=8&Refer=top)<br />
-9. [暴雪宣布与网易停止合作一周年](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E5%AE%A3%E5%B8%83%E4%B8%8E%E7%BD%91%E6%98%93%E5%81%9C%E6%AD%A2%E5%90%88%E4%BD%9C%E4%B8%80%E5%91%A8%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [赵露思刘宇宁开机路透](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%88%98%E5%AE%87%E5%AE%81%E5%BC%80%E6%9C%BA%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
