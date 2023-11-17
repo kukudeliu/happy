@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 22:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 22:49:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [五月天感谢马思纯绿色出行去看演唱会](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%84%9F%E8%B0%A2%E9%A9%AC%E6%80%9D%E7%BA%AF%E7%BB%BF%E8%89%B2%E5%87%BA%E8%A1%8C%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [龚俊剧里是怎么忍住不摸的](https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%89%A7%E9%87%8C%E6%98%AF%E6%80%8E%E4%B9%88%E5%BF%8D%E4%BD%8F%E4%B8%8D%E6%91%B8%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [当老外第一次吃螺蛳粉](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%80%81%E5%A4%96%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%83%E8%9E%BA%E8%9B%B3%E7%B2%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [电影红猪](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E7%BA%A2%E7%8C%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [张遮 面包哥](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%81%AE%20%E9%9D%A2%E5%8C%85%E5%93%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
