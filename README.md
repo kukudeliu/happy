@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 10:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-17 10:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中缅边境发生地震](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [怪不得古天乐后来不跳舞了](https://s.weibo.com/weibo?q=%E6%80%AA%E4%B8%8D%E5%BE%97%E5%8F%A4%E5%A4%A9%E4%B9%90%E5%90%8E%E6%9D%A5%E4%B8%8D%E8%B7%B3%E8%88%9E%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [澳门官方暖心回应萌娃唱七子之歌](https://s.weibo.com/weibo?q=%23%E6%BE%B3%E9%97%A8%E5%AE%98%E6%96%B9%E6%9A%96%E5%BF%83%E5%9B%9E%E5%BA%94%E8%90%8C%E5%A8%83%E5%94%B1%E4%B8%83%E5%AD%90%E4%B9%8B%E6%AD%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [谢娜睡前给张杰语音说爱你](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E7%9D%A1%E5%89%8D%E7%BB%99%E5%BC%A0%E6%9D%B0%E8%AF%AD%E9%9F%B3%E8%AF%B4%E7%88%B1%E4%BD%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘亦菲迪士尼公主出场](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%85%AC%E4%B8%BB%E5%87%BA%E5%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
