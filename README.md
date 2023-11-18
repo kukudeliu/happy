@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 23:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 23:39:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [人的舌头为什么能喷出水](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%9A%84%E8%88%8C%E5%A4%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%96%B7%E5%87%BA%E6%B0%B4&t=31&band_rank=5&Refer=top)<br />
 6. [房东的猫从众筹到万人演唱会用了7年](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E7%9A%84%E7%8C%AB%E4%BB%8E%E4%BC%97%E7%AD%B9%E5%88%B0%E4%B8%87%E4%BA%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E7%94%A8%E4%BA%867%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [马斯克祝贺SpaceX公司团队](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A5%9D%E8%B4%BASpaceX%E5%85%AC%E5%8F%B8%E5%9B%A2%E9%98%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [张晚意一集气死一个主任](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E4%B8%80%E9%9B%86%E6%B0%94%E6%AD%BB%E4%B8%80%E4%B8%AA%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [张遮姜雪宁争执分手](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%81%AE%E5%A7%9C%E9%9B%AA%E5%AE%81%E4%BA%89%E6%89%A7%E5%88%86%E6%89%8B%23&t=31&band_rank=9&Refer=top)<br />
+8. [张遮姜雪宁争执分手](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%81%AE%E5%A7%9C%E9%9B%AA%E5%AE%81%E4%BA%89%E6%89%A7%E5%88%86%E6%89%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [张晚意一集气死一个主任](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E4%B8%80%E9%9B%86%E6%B0%94%E6%AD%BB%E4%B8%80%E4%B8%AA%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [网友呼吁婚假延长至15天 深圳回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%91%BC%E5%90%81%E5%A9%9A%E5%81%87%E5%BB%B6%E9%95%BF%E8%87%B315%E5%A4%A9+%E6%B7%B1%E5%9C%B3%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从西雅图到旧金山](https://www.baidu.com/s?wd=%E4%BB%8E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%88%B0%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女童横店当童漂4个月赚250元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E6%A8%AA%E5%BA%97%E5%BD%93%E7%AB%A5%E6%BC%824%E4%B8%AA%E6%9C%88%E8%B5%9A250%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [日机构统计羽生结弦年收入至少4400万](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%BA%E6%9E%84%E7%BB%9F%E8%AE%A1%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%B9%B4%E6%94%B6%E5%85%A5%E8%87%B3%E5%B0%914400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [汶川地震微笑女孩结婚](https://www.baidu.com/s?wd=%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%BE%AE%E7%AC%91%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [摇滚书记被查 曾自弹自唱《传奇》](https://www.baidu.com/s?wd=%E6%91%87%E6%BB%9A%E4%B9%A6%E8%AE%B0%E8%A2%AB%E6%9F%A5+%E6%9B%BE%E8%87%AA%E5%BC%B9%E8%87%AA%E5%94%B1%E3%80%8A%E4%BC%A0%E5%A5%87%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [青岛：全市范围内可租房落户](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%EF%BC%9A%E5%85%A8%E5%B8%82%E8%8C%83%E5%9B%B4%E5%86%85%E5%8F%AF%E7%A7%9F%E6%88%BF%E8%90%BD%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [网友呼吁婚假延长至15天 深圳回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%91%BC%E5%90%81%E5%A9%9A%E5%81%87%E5%BB%B6%E9%95%BF%E8%87%B315%E5%A4%A9+%E6%B7%B1%E5%9C%B3%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从西雅图到旧金山](https://www.baidu.com/s?wd=%E4%BB%8E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%88%B0%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女童横店当童漂4个月赚250元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E6%A8%AA%E5%BA%97%E5%BD%93%E7%AB%A5%E6%BC%824%E4%B8%AA%E6%9C%88%E8%B5%9A250%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [日机构统计羽生结弦年收入至少4400万](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%BA%E6%9E%84%E7%BB%9F%E8%AE%A1%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%B9%B4%E6%94%B6%E5%85%A5%E8%87%B3%E5%B0%914400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [汶川地震微笑女孩结婚](https://www.baidu.com/s?wd=%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%BE%AE%E7%AC%91%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [摇滚书记被查 曾自弹自唱《传奇》](https://www.baidu.com/s?wd=%E6%91%87%E6%BB%9A%E4%B9%A6%E8%AE%B0%E8%A2%AB%E6%9F%A5+%E6%9B%BE%E8%87%AA%E5%BC%B9%E8%87%AA%E5%94%B1%E3%80%8A%E4%BC%A0%E5%A5%87%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [青岛：全市范围内可租房落户](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%EF%BC%9A%E5%85%A8%E5%B8%82%E8%8C%83%E5%9B%B4%E5%86%85%E5%8F%AF%E7%A7%9F%E6%88%BF%E8%90%BD%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
