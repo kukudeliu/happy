@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 20:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 20:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [金子涵 断层第一退团](https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%20%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%E9%80%80%E5%9B%A2&t=31&band_rank=6&Refer=top)<br />
 7. [奔跑吧](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=31&band_rank=7&Refer=top)<br />
 8. [SpaceX星舰第二次试飞](https://s.weibo.com/weibo?q=%23SpaceX%E6%98%9F%E8%88%B0%E7%AC%AC%E4%BA%8C%E6%AC%A1%E8%AF%95%E9%A3%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [金韩彬iKON世纪同台](https://s.weibo.com/weibo?q=%23%E9%87%91%E9%9F%A9%E5%BD%ACiKON%E4%B8%96%E7%BA%AA%E5%90%8C%E5%8F%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [毕雯珺签售会亲自检票](https://s.weibo.com/weibo?q=%23%E6%AF%95%E9%9B%AF%E7%8F%BA%E7%AD%BE%E5%94%AE%E4%BC%9A%E4%BA%B2%E8%87%AA%E6%A3%80%E7%A5%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
