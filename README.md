@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 18:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 18:52:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [习近平多场活动传递鲜明信息](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%9A%E5%9C%BA%E6%B4%BB%E5%8A%A8%E4%BC%A0%E9%80%92%E9%B2%9C%E6%98%8E%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [摇滚书记被查 曾自弹自唱《传奇》](https://www.baidu.com/s?wd=%E6%91%87%E6%BB%9A%E4%B9%A6%E8%AE%B0%E8%A2%AB%E6%9F%A5+%E6%9B%BE%E8%87%AA%E5%BC%B9%E8%87%AA%E5%94%B1%E3%80%8A%E4%BC%A0%E5%A5%87%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [泪目！儿子记录妈妈患癌三年的变化](https://www.baidu.com/s?wd=%E6%B3%AA%E7%9B%AE%EF%BC%81%E5%84%BF%E5%AD%90%E8%AE%B0%E5%BD%95%E5%A6%88%E5%A6%88%E6%82%A3%E7%99%8C%E4%B8%89%E5%B9%B4%E7%9A%84%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [浙江一小学挖出汉六朝聚落遗址](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%B0%8F%E5%AD%A6%E6%8C%96%E5%87%BA%E6%B1%89%E5%85%AD%E6%9C%9D%E8%81%9A%E8%90%BD%E9%81%97%E5%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [下一个“中国”，还是中国](https://www.baidu.com/s?wd=%E4%B8%8B%E4%B8%80%E4%B8%AA%E2%80%9C%E4%B8%AD%E5%9B%BD%E2%80%9D%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [泪目！儿子记录妈妈患癌三年的变化](https://www.baidu.com/s?wd=%E6%B3%AA%E7%9B%AE%EF%BC%81%E5%84%BF%E5%AD%90%E8%AE%B0%E5%BD%95%E5%A6%88%E5%A6%88%E6%82%A3%E7%99%8C%E4%B8%89%E5%B9%B4%E7%9A%84%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [孕妇火锅店食指被切断 店长回应](https://www.baidu.com/s?wd=%E5%AD%95%E5%A6%87%E7%81%AB%E9%94%85%E5%BA%97%E9%A3%9F%E6%8C%87%E8%A2%AB%E5%88%87%E6%96%AD+%E5%BA%97%E9%95%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [孕妇火锅店食指被切断 店长回应](https://www.baidu.com/s?wd=%E5%AD%95%E5%A6%87%E7%81%AB%E9%94%85%E5%BA%97%E9%A3%9F%E6%8C%87%E8%A2%AB%E5%88%87%E6%96%AD+%E5%BA%97%E9%95%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日机构统计羽生结弦年收入至少4400万](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%BA%E6%9E%84%E7%BB%9F%E8%AE%A1%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%B9%B4%E6%94%B6%E5%85%A5%E8%87%B3%E5%B0%914400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆要修新机场？此鸡非彼机](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%A6%81%E4%BF%AE%E6%96%B0%E6%9C%BA%E5%9C%BA%EF%BC%9F%E6%AD%A4%E9%B8%A1%E9%9D%9E%E5%BD%BC%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日机构统计羽生结弦年收入至少4400万](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%BA%E6%9E%84%E7%BB%9F%E8%AE%A1%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%B9%B4%E6%94%B6%E5%85%A5%E8%87%B3%E5%B0%914400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河南百亩菊花种植户称被群众偷摘](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E7%99%BE%E4%BA%A9%E8%8F%8A%E8%8A%B1%E7%A7%8D%E6%A4%8D%E6%88%B7%E7%A7%B0%E8%A2%AB%E7%BE%A4%E4%BC%97%E5%81%B7%E6%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [欧美人不吃转基因食品？假的](https://www.baidu.com/s?wd=%E6%AC%A7%E7%BE%8E%E4%BA%BA%E4%B8%8D%E5%90%83%E8%BD%AC%E5%9F%BA%E5%9B%A0%E9%A3%9F%E5%93%81%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [习近平多场活动传递鲜明信息](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%9A%E5%9C%BA%E6%B4%BB%E5%8A%A8%E4%BC%A0%E9%80%92%E9%B2%9C%E6%98%8E%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [摇滚书记被查 曾自弹自唱《传奇》](https://www.baidu.com/s?wd=%E6%91%87%E6%BB%9A%E4%B9%A6%E8%AE%B0%E8%A2%AB%E6%9F%A5+%E6%9B%BE%E8%87%AA%E5%BC%B9%E8%87%AA%E5%94%B1%E3%80%8A%E4%BC%A0%E5%A5%87%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [泪目！儿子记录妈妈患癌三年的变化](https://www.baidu.com/s?wd=%E6%B3%AA%E7%9B%AE%EF%BC%81%E5%84%BF%E5%AD%90%E8%AE%B0%E5%BD%95%E5%A6%88%E5%A6%88%E6%82%A3%E7%99%8C%E4%B8%89%E5%B9%B4%E7%9A%84%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [浙江一小学挖出汉六朝聚落遗址](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%B0%8F%E5%AD%A6%E6%8C%96%E5%87%BA%E6%B1%89%E5%85%AD%E6%9C%9D%E8%81%9A%E8%90%BD%E9%81%97%E5%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [下一个“中国”，还是中国](https://www.baidu.com/s?wd=%E4%B8%8B%E4%B8%80%E4%B8%AA%E2%80%9C%E4%B8%AD%E5%9B%BD%E2%80%9D%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [泪目！儿子记录妈妈患癌三年的变化](https://www.baidu.com/s?wd=%E6%B3%AA%E7%9B%AE%EF%BC%81%E5%84%BF%E5%AD%90%E8%AE%B0%E5%BD%95%E5%A6%88%E5%A6%88%E6%82%A3%E7%99%8C%E4%B8%89%E5%B9%B4%E7%9A%84%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [孕妇火锅店食指被切断 店长回应](https://www.baidu.com/s?wd=%E5%AD%95%E5%A6%87%E7%81%AB%E9%94%85%E5%BA%97%E9%A3%9F%E6%8C%87%E8%A2%AB%E5%88%87%E6%96%AD+%E5%BA%97%E9%95%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [孕妇火锅店食指被切断 店长回应](https://www.baidu.com/s?wd=%E5%AD%95%E5%A6%87%E7%81%AB%E9%94%85%E5%BA%97%E9%A3%9F%E6%8C%87%E8%A2%AB%E5%88%87%E6%96%AD+%E5%BA%97%E9%95%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日机构统计羽生结弦年收入至少4400万](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%BA%E6%9E%84%E7%BB%9F%E8%AE%A1%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%B9%B4%E6%94%B6%E5%85%A5%E8%87%B3%E5%B0%914400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆要修新机场？此鸡非彼机](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%A6%81%E4%BF%AE%E6%96%B0%E6%9C%BA%E5%9C%BA%EF%BC%9F%E6%AD%A4%E9%B8%A1%E9%9D%9E%E5%BD%BC%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日机构统计羽生结弦年收入至少4400万](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%BA%E6%9E%84%E7%BB%9F%E8%AE%A1%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%B9%B4%E6%94%B6%E5%85%A5%E8%87%B3%E5%B0%914400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河南百亩菊花种植户称被群众偷摘](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E7%99%BE%E4%BA%A9%E8%8F%8A%E8%8A%B1%E7%A7%8D%E6%A4%8D%E6%88%B7%E7%A7%B0%E8%A2%AB%E7%BE%A4%E4%BC%97%E5%81%B7%E6%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [欧美人不吃转基因食品？假的](https://www.baidu.com/s?wd=%E6%AC%A7%E7%BE%8E%E4%BA%BA%E4%B8%8D%E5%90%83%E8%BD%AC%E5%9F%BA%E5%9B%A0%E9%A3%9F%E5%93%81%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
