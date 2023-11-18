@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 16:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 16:27:01</h4></div>
 
 > 微博  
 
 1. [APEC第30次领导人非正式会议闭幕](https://s.weibo.com/weibo?q=%23APEC%E7%AC%AC30%E6%AC%A1%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE%E9%97%AD%E5%B9%95%23&t=31&band_rank=1&Refer=top)<br />
 2. [林高远王艺迪获混团世界杯资格](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E7%8E%8B%E8%89%BA%E8%BF%AA%E8%8E%B7%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%84%E6%A0%BC%23&t=31&band_rank=2&Refer=top)<br />
-3. [跨越大洋的相聚](https://s.weibo.com/weibo?q=%23%E8%B7%A8%E8%B6%8A%E5%A4%A7%E6%B4%8B%E7%9A%84%E7%9B%B8%E8%81%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [同一天领证我还没办仪式他都离了](https://s.weibo.com/weibo?q=%E5%90%8C%E4%B8%80%E5%A4%A9%E9%A2%86%E8%AF%81%E6%88%91%E8%BF%98%E6%B2%A1%E5%8A%9E%E4%BB%AA%E5%BC%8F%E4%BB%96%E9%83%BD%E7%A6%BB%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
-5. [蓝盈莹 浣碧回来了](https://s.weibo.com/weibo?q=%E8%93%9D%E7%9B%88%E8%8E%B9%20%E6%B5%A3%E7%A2%A7%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
+3. [税二 比我的偏头痛还偏](https://s.weibo.com/weibo?q=%E7%A8%8E%E4%BA%8C%20%E6%AF%94%E6%88%91%E7%9A%84%E5%81%8F%E5%A4%B4%E7%97%9B%E8%BF%98%E5%81%8F&t=31&band_rank=3&Refer=top)<br />
+4. [蓝盈莹 浣碧回来了](https://s.weibo.com/weibo?q=%E8%93%9D%E7%9B%88%E8%8E%B9%20%E6%B5%A3%E7%A2%A7%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
+5. [同一天领证我还没办仪式他都离了](https://s.weibo.com/weibo?q=%E5%90%8C%E4%B8%80%E5%A4%A9%E9%A2%86%E8%AF%81%E6%88%91%E8%BF%98%E6%B2%A1%E5%8A%9E%E4%BB%AA%E5%BC%8F%E4%BB%96%E9%83%BD%E7%A6%BB%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [霸王茶姬 免单](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E5%85%8D%E5%8D%95&t=31&band_rank=6&Refer=top)<br />
 7. [宋亚轩刘耀文合唱对视](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%88%98%E8%80%80%E6%96%87%E5%90%88%E5%94%B1%E5%AF%B9%E8%A7%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [这还是陈楚生吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%BF%98%E6%98%AF%E9%99%88%E6%A5%9A%E7%94%9F%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
