@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 21:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 21:22:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [从西雅图到旧金山](https://www.baidu.com/s?wd=%E4%BB%8E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%88%B0%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [汶川地震微笑女孩结婚](https://www.baidu.com/s?wd=%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%BE%AE%E7%AC%91%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男演员带货被质疑割韭菜](https://www.baidu.com/s?wd=%E7%94%B7%E6%BC%94%E5%91%98%E5%B8%A6%E8%B4%A7%E8%A2%AB%E8%B4%A8%E7%96%91%E5%89%B2%E9%9F%AD%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [168种药品进入今年医保谈判竞价环节](https://www.baidu.com/s?wd=168%E7%A7%8D%E8%8D%AF%E5%93%81%E8%BF%9B%E5%85%A5%E4%BB%8A%E5%B9%B4%E5%8C%BB%E4%BF%9D%E8%B0%88%E5%88%A4%E7%AB%9E%E4%BB%B7%E7%8E%AF%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家属称老人已去世民警多看一眼救回](https://www.baidu.com/s?wd=%E5%AE%B6%E5%B1%9E%E7%A7%B0%E8%80%81%E4%BA%BA%E5%B7%B2%E5%8E%BB%E4%B8%96%E6%B0%91%E8%AD%A6%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%95%91%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [从西雅图到旧金山](https://www.baidu.com/s?wd=%E4%BB%8E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%88%B0%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [汶川地震微笑女孩结婚](https://www.baidu.com/s?wd=%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%BE%AE%E7%AC%91%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男演员带货被质疑割韭菜](https://www.baidu.com/s?wd=%E7%94%B7%E6%BC%94%E5%91%98%E5%B8%A6%E8%B4%A7%E8%A2%AB%E8%B4%A8%E7%96%91%E5%89%B2%E9%9F%AD%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [168种药品进入今年医保谈判竞价环节](https://www.baidu.com/s?wd=168%E7%A7%8D%E8%8D%AF%E5%93%81%E8%BF%9B%E5%85%A5%E4%BB%8A%E5%B9%B4%E5%8C%BB%E4%BF%9D%E8%B0%88%E5%88%A4%E7%AB%9E%E4%BB%B7%E7%8E%AF%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家属称老人已去世民警多看一眼救回](https://www.baidu.com/s?wd=%E5%AE%B6%E5%B1%9E%E7%A7%B0%E8%80%81%E4%BA%BA%E5%B7%B2%E5%8E%BB%E4%B8%96%E6%B0%91%E8%AD%A6%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%95%91%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
