@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 22:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 22:19:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [为什么得甲状腺癌的年轻人越来越多了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%97%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国一直是亚太合作重要的贡献者](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%80%E7%9B%B4%E6%98%AF%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E9%87%8D%E8%A6%81%E7%9A%84%E8%B4%A1%E7%8C%AE%E8%80%85%23&t=31&band_rank=3&Refer=top)<br />
 4. [马斯克SpaceX星舰发射失败](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%98%9F%E8%88%B0%E5%8F%91%E5%B0%84%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=4&Refer=top)<br />
-5. [金子涵 断层第一退团](https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%20%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%E9%80%80%E5%9B%A2&t=31&band_rank=5&Refer=top)<br />
-6. [鲁迅孙子自称90%刷视频10%看书](https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%E8%87%AA%E7%A7%B090%25%E5%88%B7%E8%A7%86%E9%A2%9110%25%E7%9C%8B%E4%B9%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [你好星期六下周有马丽赵露思](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%B8%8B%E5%91%A8%E6%9C%89%E9%A9%AC%E4%B8%BD%E8%B5%B5%E9%9C%B2%E6%80%9D%23&t=31&band_rank=7&Refer=top)<br />
-8. [老干妈被年轻人抛弃了吗](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B9%B2%E5%A6%88%E8%A2%AB%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%9B%E5%BC%83%E4%BA%86%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [奔跑吧](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
+5. [房东的猫从众筹到万人演唱会用了7年](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E7%9A%84%E7%8C%AB%E4%BB%8E%E4%BC%97%E7%AD%B9%E5%88%B0%E4%B8%87%E4%BA%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E7%94%A8%E4%BA%867%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
+6. [金子涵 断层第一退团](https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%20%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%E9%80%80%E5%9B%A2&t=31&band_rank=6&Refer=top)<br />
+7. [鲁迅孙子自称90%刷视频10%看书](https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%E8%87%AA%E7%A7%B090%25%E5%88%B7%E8%A7%86%E9%A2%9110%25%E7%9C%8B%E4%B9%A6%23&t=31&band_rank=7&Refer=top)<br />
+8. [你好星期六下周有马丽赵露思](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%B8%8B%E5%91%A8%E6%9C%89%E9%A9%AC%E4%B8%BD%E8%B5%B5%E9%9C%B2%E6%80%9D%23&t=31&band_rank=8&Refer=top)<br />
+9. [老干妈被年轻人抛弃了吗](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B9%B2%E5%A6%88%E8%A2%AB%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%9B%E5%BC%83%E4%BA%86%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [鲁迅孙子：我看书刷视频比例一九开](https://www.baidu.com/s?wd=%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%EF%BC%9A%E6%88%91%E7%9C%8B%E4%B9%A6%E5%88%B7%E8%A7%86%E9%A2%91%E6%AF%94%E4%BE%8B%E4%B8%80%E4%B9%9D%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从西雅图到旧金山](https://www.baidu.com/s?wd=%E4%BB%8E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%88%B0%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [店员将顾客吃剩的小料倒回小料区](https://www.baidu.com/s?wd=%E5%BA%97%E5%91%98%E5%B0%86%E9%A1%BE%E5%AE%A2%E5%90%83%E5%89%A9%E7%9A%84%E5%B0%8F%E6%96%99%E5%80%92%E5%9B%9E%E5%B0%8F%E6%96%99%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [媒体曝苹果等暂停在X上投广告](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E6%9B%9D%E8%8B%B9%E6%9E%9C%E7%AD%89%E6%9A%82%E5%81%9C%E5%9C%A8X%E4%B8%8A%E6%8A%95%E5%B9%BF%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [重庆火锅店后厨老鼠吃豆芽 官方通报](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E7%81%AB%E9%94%85%E5%BA%97%E5%90%8E%E5%8E%A8%E8%80%81%E9%BC%A0%E5%90%83%E8%B1%86%E8%8A%BD+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [汶川地震微笑女孩结婚](https://www.baidu.com/s?wd=%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%BE%AE%E7%AC%91%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [摇滚书记被查 曾自弹自唱《传奇》](https://www.baidu.com/s?wd=%E6%91%87%E6%BB%9A%E4%B9%A6%E8%AE%B0%E8%A2%AB%E6%9F%A5+%E6%9B%BE%E8%87%AA%E5%BC%B9%E8%87%AA%E5%94%B1%E3%80%8A%E4%BC%A0%E5%A5%87%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [鲁迅孙子：我看书刷视频比例一九开](https://www.baidu.com/s?wd=%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%EF%BC%9A%E6%88%91%E7%9C%8B%E4%B9%A6%E5%88%B7%E8%A7%86%E9%A2%91%E6%AF%94%E4%BE%8B%E4%B8%80%E4%B9%9D%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从西雅图到旧金山](https://www.baidu.com/s?wd=%E4%BB%8E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%88%B0%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [店员将顾客吃剩的小料倒回小料区](https://www.baidu.com/s?wd=%E5%BA%97%E5%91%98%E5%B0%86%E9%A1%BE%E5%AE%A2%E5%90%83%E5%89%A9%E7%9A%84%E5%B0%8F%E6%96%99%E5%80%92%E5%9B%9E%E5%B0%8F%E6%96%99%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [媒体曝苹果等暂停在X上投广告](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E6%9B%9D%E8%8B%B9%E6%9E%9C%E7%AD%89%E6%9A%82%E5%81%9C%E5%9C%A8X%E4%B8%8A%E6%8A%95%E5%B9%BF%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [重庆火锅店后厨老鼠吃豆芽 官方通报](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E7%81%AB%E9%94%85%E5%BA%97%E5%90%8E%E5%8E%A8%E8%80%81%E9%BC%A0%E5%90%83%E8%B1%86%E8%8A%BD+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [汶川地震微笑女孩结婚](https://www.baidu.com/s?wd=%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%BE%AE%E7%AC%91%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [摇滚书记被查 曾自弹自唱《传奇》](https://www.baidu.com/s?wd=%E6%91%87%E6%BB%9A%E4%B9%A6%E8%AE%B0%E8%A2%AB%E6%9F%A5+%E6%9B%BE%E8%87%AA%E5%BC%B9%E8%87%AA%E5%94%B1%E3%80%8A%E4%BC%A0%E5%A5%87%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
