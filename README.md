@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 04:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 04:51:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [胡夏请来了那些年一起追过的沈佳宜](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%A4%8F%E8%AF%B7%E6%9D%A5%E4%BA%86%E9%82%A3%E4%BA%9B%E5%B9%B4%E4%B8%80%E8%B5%B7%E8%BF%BD%E8%BF%87%E7%9A%84%E6%B2%88%E4%BD%B3%E5%AE%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [鲁迅孙子自称90%刷视频10%看书](https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%E8%87%AA%E7%A7%B090%25%E5%88%B7%E8%A7%86%E9%A2%9110%25%E7%9C%8B%E4%B9%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [秦岚声带受损其实自己很沮丧](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E5%A3%B0%E5%B8%A6%E5%8F%97%E6%8D%9F%E5%85%B6%E5%AE%9E%E8%87%AA%E5%B7%B1%E5%BE%88%E6%B2%AE%E4%B8%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [房东的猫从众筹到万人演唱会用了7年](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E7%9A%84%E7%8C%AB%E4%BB%8E%E4%BC%97%E7%AD%B9%E5%88%B0%E4%B8%87%E4%BA%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E7%94%A8%E4%BA%867%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [SpaceX称被迫触发星舰的自毁功能](https://s.weibo.com/weibo?q=%23SpaceX%E7%A7%B0%E8%A2%AB%E8%BF%AB%E8%A7%A6%E5%8F%91%E6%98%9F%E8%88%B0%E7%9A%84%E8%87%AA%E6%AF%81%E5%8A%9F%E8%83%BD%23&t=31&band_rank=9&Refer=top)<br />
+8. [SpaceX称被迫触发星舰的自毁功能](https://s.weibo.com/weibo?q=%23SpaceX%E7%A7%B0%E8%A2%AB%E8%BF%AB%E8%A7%A6%E5%8F%91%E6%98%9F%E8%88%B0%E7%9A%84%E8%87%AA%E6%AF%81%E5%8A%9F%E8%83%BD%23&t=31&band_rank=8&Refer=top)<br />
+9. [房东的猫从众筹到万人演唱会用了7年](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E7%9A%84%E7%8C%AB%E4%BB%8E%E4%BC%97%E7%AD%B9%E5%88%B0%E4%B8%87%E4%BA%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E7%94%A8%E4%BA%867%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
