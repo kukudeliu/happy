@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 10:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 10:50:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [亚太合作新的时代之问](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E6%96%B0%E7%9A%84%E6%97%B6%E4%BB%A3%E4%B9%8B%E9%97%AE%23&t=31&band_rank=3&Refer=top)<br />
 4. [日机构统计羽生结弦年收入至少4400万](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%BA%E6%9E%84%E7%BB%9F%E8%AE%A1%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%B9%B4%E6%94%B6%E5%85%A5%E8%87%B3%E5%B0%914400%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [陈雨菲vs安洗莹](https://s.weibo.com/weibo?q=%E9%99%88%E9%9B%A8%E8%8F%B2vs%E5%AE%89%E6%B4%97%E8%8E%B9&t=31&band_rank=5&Refer=top)<br />
-6. [OpenAI人事巨震](https://s.weibo.com/weibo?q=%23OpenAI%E4%BA%BA%E4%BA%8B%E5%B7%A8%E9%9C%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [谢可寅珠帘玉幕开机生图](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8F%AF%E5%AF%85%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95%E5%BC%80%E6%9C%BA%E7%94%9F%E5%9B%BE%23&t=31&band_rank=7&Refer=top)<br />
+6. [谢可寅珠帘玉幕开机生图](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8F%AF%E5%AF%85%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95%E5%BC%80%E6%9C%BA%E7%94%9F%E5%9B%BE%23&t=31&band_rank=6&Refer=top)<br />
+7. [OpenAI人事巨震](https://s.weibo.com/weibo?q=%23OpenAI%E4%BA%BA%E4%BA%8B%E5%B7%A8%E9%9C%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [五月天演唱会 粉丝整活](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%20%E7%B2%89%E4%B8%9D%E6%95%B4%E6%B4%BB&t=31&band_rank=8&Refer=top)<br />
 9. [ChatGPT创始人奥特曼回应被解职](https://s.weibo.com/weibo?q=%23ChatGPT%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%A7%A3%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
 
