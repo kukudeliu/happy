@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 09:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 09:41:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [拜登发言时看布林肯眼色](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%8F%91%E8%A8%80%E6%97%B6%E7%9C%8B%E5%B8%83%E6%9E%97%E8%82%AF%E7%9C%BC%E8%89%B2%23&t=31&band_rank=5&Refer=top)<br />
 6. [敷完面膜该不该洗脸](https://s.weibo.com/weibo?q=%23%E6%95%B7%E5%AE%8C%E9%9D%A2%E8%86%9C%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%B4%97%E8%84%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [ChatGPT创始人奥特曼离开OpenAI](https://s.weibo.com/weibo?q=%23ChatGPT%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%A6%BB%E5%BC%80OpenAI%23&t=31&band_rank=7&Refer=top)<br />
-8. [全红婵代言的女装品牌被吐槽丑](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%BB%A3%E8%A8%80%E7%9A%84%E5%A5%B3%E8%A3%85%E5%93%81%E7%89%8C%E8%A2%AB%E5%90%90%E6%A7%BD%E4%B8%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [姆巴佩说金球奖是梅西应得的](https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%AF%B4%E9%87%91%E7%90%83%E5%A5%96%E6%98%AF%E6%A2%85%E8%A5%BF%E5%BA%94%E5%BE%97%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+8. [姆巴佩说金球奖是梅西应得的](https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%AF%B4%E9%87%91%E7%90%83%E5%A5%96%E6%98%AF%E6%A2%85%E8%A5%BF%E5%BA%94%E5%BE%97%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
+9. [全红婵代言的女装品牌被吐槽丑](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%BB%A3%E8%A8%80%E7%9A%84%E5%A5%B3%E8%A3%85%E5%93%81%E7%89%8C%E8%A2%AB%E5%90%90%E6%A7%BD%E4%B8%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
