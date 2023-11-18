@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 01:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 01:22:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [从西雅图到旧金山](https://www.baidu.com/s?wd=%E4%BB%8E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%88%B0%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女童横店当童漂4个月赚250元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E6%A8%AA%E5%BA%97%E5%BD%93%E7%AB%A5%E6%BC%824%E4%B8%AA%E6%9C%88%E8%B5%9A250%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大姐爬完香山就献血地铁内虚脱](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A7%90%E7%88%AC%E5%AE%8C%E9%A6%99%E5%B1%B1%E5%B0%B1%E7%8C%AE%E8%A1%80%E5%9C%B0%E9%93%81%E5%86%85%E8%99%9A%E8%84%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [刺伤霸凌者获判无罪少年申请国赔](https://www.baidu.com/s?wd=%E5%88%BA%E4%BC%A4%E9%9C%B8%E5%87%8C%E8%80%85%E8%8E%B7%E5%88%A4%E6%97%A0%E7%BD%AA%E5%B0%91%E5%B9%B4%E7%94%B3%E8%AF%B7%E5%9B%BD%E8%B5%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [鲁迅孙子：我看书刷视频比例一九开](https://www.baidu.com/s?wd=%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%EF%BC%9A%E6%88%91%E7%9C%8B%E4%B9%A6%E5%88%B7%E8%A7%86%E9%A2%91%E6%AF%94%E4%BE%8B%E4%B8%80%E4%B9%9D%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [鲁迅孙子：我看书刷视频比例一九开](https://www.baidu.com/s?wd=%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%EF%BC%9A%E6%88%91%E7%9C%8B%E4%B9%A6%E5%88%B7%E8%A7%86%E9%A2%91%E6%AF%94%E4%BE%8B%E4%B8%80%E4%B9%9D%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [从西雅图到旧金山](https://www.baidu.com/s?wd=%E4%BB%8E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%88%B0%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女童横店当童漂4个月赚250元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E6%A8%AA%E5%BA%97%E5%BD%93%E7%AB%A5%E6%BC%824%E4%B8%AA%E6%9C%88%E8%B5%9A250%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大姐爬完香山就献血地铁内虚脱](https://www.baidu.com/s?wd=%E5%A4%A7%E5%A7%90%E7%88%AC%E5%AE%8C%E9%A6%99%E5%B1%B1%E5%B0%B1%E7%8C%AE%E8%A1%80%E5%9C%B0%E9%93%81%E5%86%85%E8%99%9A%E8%84%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [刺伤霸凌者获判无罪少年申请国赔](https://www.baidu.com/s?wd=%E5%88%BA%E4%BC%A4%E9%9C%B8%E5%87%8C%E8%80%85%E8%8E%B7%E5%88%A4%E6%97%A0%E7%BD%AA%E5%B0%91%E5%B9%B4%E7%94%B3%E8%AF%B7%E5%9B%BD%E8%B5%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [鲁迅孙子：我看书刷视频比例一九开](https://www.baidu.com/s?wd=%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%EF%BC%9A%E6%88%91%E7%9C%8B%E4%B9%A6%E5%88%B7%E8%A7%86%E9%A2%91%E6%AF%94%E4%BE%8B%E4%B8%80%E4%B9%9D%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [鲁迅孙子：我看书刷视频比例一九开](https://www.baidu.com/s?wd=%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%EF%BC%9A%E6%88%91%E7%9C%8B%E4%B9%A6%E5%88%B7%E8%A7%86%E9%A2%91%E6%AF%94%E4%BE%8B%E4%B8%80%E4%B9%9D%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
