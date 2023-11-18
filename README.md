@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 19:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 19:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大米爆](https://s.weibo.com/weibo?q=%E5%A4%A7%E7%B1%B3%E7%88%86&t=31&band_rank=6&Refer=top)<br />
 7. [食冰癖在缺铁者中非常常见](https://s.weibo.com/weibo?q=%E9%A3%9F%E5%86%B0%E7%99%96%E5%9C%A8%E7%BC%BA%E9%93%81%E8%80%85%E4%B8%AD%E9%9D%9E%E5%B8%B8%E5%B8%B8%E8%A7%81&t=31&band_rank=7&Refer=top)<br />
 8. [李现和张杰击掌](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E5%92%8C%E5%BC%A0%E6%9D%B0%E5%87%BB%E6%8E%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [这位市委书记一口气做了13个引体向上](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BD%8D%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E4%B8%80%E5%8F%A3%E6%B0%94%E5%81%9A%E4%BA%8613%E4%B8%AA%E5%BC%95%E4%BD%93%E5%90%91%E4%B8%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [丁程鑫在演唱会上哭了](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
