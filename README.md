@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 22:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 23:00:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [人的舌头为什么能喷出水](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%9A%84%E8%88%8C%E5%A4%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%96%B7%E5%87%BA%E6%B0%B4&t=31&band_rank=5&Refer=top)<br />
 6. [SpaceX称被迫触发星舰的自毁功能](https://s.weibo.com/weibo?q=%23SpaceX%E7%A7%B0%E8%A2%AB%E8%BF%AB%E8%A7%A6%E5%8F%91%E6%98%9F%E8%88%B0%E7%9A%84%E8%87%AA%E6%AF%81%E5%8A%9F%E8%83%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [张晚意一集气死一个主任](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E4%B8%80%E9%9B%86%E6%B0%94%E6%AD%BB%E4%B8%80%E4%B8%AA%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [金子涵 断层第一退团](https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%20%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%E9%80%80%E5%9B%A2&t=31&band_rank=8&Refer=top)<br />
-9. [文俊辉丁程鑫泼水游戏看呆我](https://s.weibo.com/weibo?q=%23%E6%96%87%E4%BF%8A%E8%BE%89%E4%B8%81%E7%A8%8B%E9%91%AB%E6%B3%BC%E6%B0%B4%E6%B8%B8%E6%88%8F%E7%9C%8B%E5%91%86%E6%88%91%23&t=31&band_rank=9&Refer=top)<br />
+8. [文俊辉丁程鑫泼水游戏看呆我](https://s.weibo.com/weibo?q=%23%E6%96%87%E4%BF%8A%E8%BE%89%E4%B8%81%E7%A8%8B%E9%91%AB%E6%B3%BC%E6%B0%B4%E6%B8%B8%E6%88%8F%E7%9C%8B%E5%91%86%E6%88%91%23&t=31&band_rank=8&Refer=top)<br />
+9. [金子涵 断层第一退团](https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%20%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%E9%80%80%E5%9B%A2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
