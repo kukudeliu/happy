@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 18:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 18:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [林诗栋](https://s.weibo.com/weibo?q=%E6%9E%97%E8%AF%97%E6%A0%8B&t=31&band_rank=6&Refer=top)<br />
 7. [00后民警一周收到3面锦旗开心比耶](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E6%B0%91%E8%AD%A6%E4%B8%80%E5%91%A8%E6%94%B6%E5%88%B03%E9%9D%A2%E9%94%A6%E6%97%97%E5%BC%80%E5%BF%83%E6%AF%94%E8%80%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [蓝盈莹 浣碧回来了](https://s.weibo.com/weibo?q=%E8%93%9D%E7%9B%88%E8%8E%B9%20%E6%B5%A3%E7%A2%A7%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [羽生结弦 无法保护女方](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%20%E6%97%A0%E6%B3%95%E4%BF%9D%E6%8A%A4%E5%A5%B3%E6%96%B9&t=31&band_rank=9&Refer=top)<br />
+9. [李现和张杰击掌](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E5%92%8C%E5%BC%A0%E6%9D%B0%E5%87%BB%E6%8E%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
