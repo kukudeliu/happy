@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 13:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 13:41:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [习近平在APEC领导人会议上的讲话](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%9A%E8%AE%AE%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [中日关系，最近出现三个微妙变化](https://www.baidu.com/s?wd=%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%EF%BC%8C%E6%9C%80%E8%BF%91%E5%87%BA%E7%8E%B0%E4%B8%89%E4%B8%AA%E5%BE%AE%E5%A6%99%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [川菜成为全国第一大菜系](https://www.baidu.com/s?wd=%E5%B7%9D%E8%8F%9C%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%8F%9C%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [韩国从2027年开始禁食狗肉](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%BB%8E2027%E5%B9%B4%E5%BC%80%E5%A7%8B%E7%A6%81%E9%A3%9F%E7%8B%97%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国持续深化与APEC经济体经贸合作](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8C%81%E7%BB%AD%E6%B7%B1%E5%8C%96%E4%B8%8EAPEC%E7%BB%8F%E6%B5%8E%E4%BD%93%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国“霸总”爽剧在海外杀疯了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E9%9C%B8%E6%80%BB%E2%80%9D%E7%88%BD%E5%89%A7%E5%9C%A8%E6%B5%B7%E5%A4%96%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国前总统卡特夫妇接受临终关怀](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%E5%8D%A1%E7%89%B9%E5%A4%AB%E5%A6%87%E6%8E%A5%E5%8F%97%E4%B8%B4%E7%BB%88%E5%85%B3%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [习近平在APEC领导人会议上的讲话](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%9A%E8%AE%AE%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [中日关系，最近出现三个微妙变化](https://www.baidu.com/s?wd=%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%EF%BC%8C%E6%9C%80%E8%BF%91%E5%87%BA%E7%8E%B0%E4%B8%89%E4%B8%AA%E5%BE%AE%E5%A6%99%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [川菜成为全国第一大菜系](https://www.baidu.com/s?wd=%E5%B7%9D%E8%8F%9C%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%8F%9C%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [韩国从2027年开始禁食狗肉](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%BB%8E2027%E5%B9%B4%E5%BC%80%E5%A7%8B%E7%A6%81%E9%A3%9F%E7%8B%97%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国持续深化与APEC经济体经贸合作](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8C%81%E7%BB%AD%E6%B7%B1%E5%8C%96%E4%B8%8EAPEC%E7%BB%8F%E6%B5%8E%E4%BD%93%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国“霸总”爽剧在海外杀疯了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E9%9C%B8%E6%80%BB%E2%80%9D%E7%88%BD%E5%89%A7%E5%9C%A8%E6%B5%B7%E5%A4%96%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国前总统卡特夫妇接受临终关怀](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%E5%8D%A1%E7%89%B9%E5%A4%AB%E5%A6%87%E6%8E%A5%E5%8F%97%E4%B8%B4%E7%BB%88%E5%85%B3%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
