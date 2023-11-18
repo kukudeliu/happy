@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 00:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 00:54:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [女子网购等一年既不发货也不退款](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD%E7%AD%89%E4%B8%80%E5%B9%B4%E6%97%A2%E4%B8%8D%E5%8F%91%E8%B4%A7%E4%B9%9F%E4%B8%8D%E9%80%80%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从西雅图到旧金山](https://www.baidu.com/s?wd=%E4%BB%8E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%88%B0%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女童横店当童漂4个月赚250元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E6%A8%AA%E5%BA%97%E5%BD%93%E7%AB%A5%E6%BC%824%E4%B8%AA%E6%9C%88%E8%B5%9A250%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [青岛：全市范围内可租房落户](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%EF%BC%9A%E5%85%A8%E5%B8%82%E8%8C%83%E5%9B%B4%E5%86%85%E5%8F%AF%E7%A7%9F%E6%88%BF%E8%90%BD%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州保姆过失致2岁幼童坠亡案宣判](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BF%9D%E5%A7%86%E8%BF%87%E5%A4%B1%E8%87%B42%E5%B2%81%E5%B9%BC%E7%AB%A5%E5%9D%A0%E4%BA%A1%E6%A1%88%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [摇滚书记被查 曾自弹自唱《传奇》](https://www.baidu.com/s?wd=%E6%91%87%E6%BB%9A%E4%B9%A6%E8%AE%B0%E8%A2%AB%E6%9F%A5+%E6%9B%BE%E8%87%AA%E5%BC%B9%E8%87%AA%E5%94%B1%E3%80%8A%E4%BC%A0%E5%A5%87%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [汶川地震微笑女孩结婚](https://www.baidu.com/s?wd=%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%BE%AE%E7%AC%91%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [女子网购等一年既不发货也不退款](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD%E7%AD%89%E4%B8%80%E5%B9%B4%E6%97%A2%E4%B8%8D%E5%8F%91%E8%B4%A7%E4%B9%9F%E4%B8%8D%E9%80%80%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从西雅图到旧金山](https://www.baidu.com/s?wd=%E4%BB%8E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%88%B0%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女童横店当童漂4个月赚250元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E6%A8%AA%E5%BA%97%E5%BD%93%E7%AB%A5%E6%BC%824%E4%B8%AA%E6%9C%88%E8%B5%9A250%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [青岛：全市范围内可租房落户](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%EF%BC%9A%E5%85%A8%E5%B8%82%E8%8C%83%E5%9B%B4%E5%86%85%E5%8F%AF%E7%A7%9F%E6%88%BF%E8%90%BD%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州保姆过失致2岁幼童坠亡案宣判](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BF%9D%E5%A7%86%E8%BF%87%E5%A4%B1%E8%87%B42%E5%B2%81%E5%B9%BC%E7%AB%A5%E5%9D%A0%E4%BA%A1%E6%A1%88%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [摇滚书记被查 曾自弹自唱《传奇》](https://www.baidu.com/s?wd=%E6%91%87%E6%BB%9A%E4%B9%A6%E8%AE%B0%E8%A2%AB%E6%9F%A5+%E6%9B%BE%E8%87%AA%E5%BC%B9%E8%87%AA%E5%94%B1%E3%80%8A%E4%BC%A0%E5%A5%87%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [汶川地震微笑女孩结婚](https://www.baidu.com/s?wd=%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%BE%AE%E7%AC%91%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
