@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 09:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 09:30:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女子体验网红千层漏摔成九级伤残](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BD%93%E9%AA%8C%E7%BD%91%E7%BA%A2%E5%8D%83%E5%B1%82%E6%BC%8F%E6%91%94%E6%88%90%E4%B9%9D%E7%BA%A7%E4%BC%A4%E6%AE%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [全红婵代言的女装品牌被吐槽丑](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%BB%A3%E8%A8%80%E7%9A%84%E5%A5%B3%E8%A3%85%E5%93%81%E7%89%8C%E8%A2%AB%E5%90%90%E6%A7%BD%E4%B8%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [同宿舍6女生拒绝内卷全员保研](https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%AE%BF%E8%88%8D6%E5%A5%B3%E7%94%9F%E6%8B%92%E7%BB%9D%E5%86%85%E5%8D%B7%E5%85%A8%E5%91%98%E4%BF%9D%E7%A0%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [ChatGPT创始人奥特曼离开OpenAI](https://s.weibo.com/weibo?q=%23ChatGPT%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%A6%BB%E5%BC%80OpenAI%23&t=31&band_rank=8&Refer=top)<br />
-9. [拜登发言时看布林肯眼色](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%8F%91%E8%A8%80%E6%97%B6%E7%9C%8B%E5%B8%83%E6%9E%97%E8%82%AF%E7%9C%BC%E8%89%B2%23&t=31&band_rank=9&Refer=top)<br />
+8. [拜登发言时看布林肯眼色](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%8F%91%E8%A8%80%E6%97%B6%E7%9C%8B%E5%B8%83%E6%9E%97%E8%82%AF%E7%9C%BC%E8%89%B2%23&t=31&band_rank=8&Refer=top)<br />
+9. [敷完面膜该不该洗脸](https://s.weibo.com/weibo?q=%23%E6%95%B7%E5%AE%8C%E9%9D%A2%E8%86%9C%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%B4%97%E8%84%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
