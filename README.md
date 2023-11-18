@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 14:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 14:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [时代少年团演唱会](https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
 7. [现在的演唱会已经进化这样了](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E8%BF%99%E6%A0%B7%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [鹿晗给黄子韬送花篮](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%BB%99%E9%BB%84%E5%AD%90%E9%9F%AC%E9%80%81%E8%8A%B1%E7%AF%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [iG获得最帅冠军皮肤奖](https://s.weibo.com/weibo?q=%23iG%E8%8E%B7%E5%BE%97%E6%9C%80%E5%B8%85%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4%E5%A5%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [甄嬛传主创重聚](https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E4%BC%A0%E4%B8%BB%E5%88%9B%E9%87%8D%E8%81%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
