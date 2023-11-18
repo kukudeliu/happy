@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 17:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 17:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张晚意把自闭症诠释的很传神](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E6%8A%8A%E8%87%AA%E9%97%AD%E7%97%87%E8%AF%A0%E9%87%8A%E7%9A%84%E5%BE%88%E4%BC%A0%E7%A5%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [蓝盈莹 浣碧回来了](https://s.weibo.com/weibo?q=%E8%93%9D%E7%9B%88%E8%8E%B9%20%E6%B5%A3%E7%A2%A7%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [这还是陈楚生吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%BF%98%E6%98%AF%E9%99%88%E6%A5%9A%E7%94%9F%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [税二 比我的偏头痛还偏](https://s.weibo.com/weibo?q=%E7%A8%8E%E4%BA%8C%20%E6%AF%94%E6%88%91%E7%9A%84%E5%81%8F%E5%A4%B4%E7%97%9B%E8%BF%98%E5%81%8F&t=31&band_rank=9&Refer=top)<br />
+9. [挚友是会切镜头的](https://s.weibo.com/weibo?q=%E6%8C%9A%E5%8F%8B%E6%98%AF%E4%BC%9A%E5%88%87%E9%95%9C%E5%A4%B4%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
