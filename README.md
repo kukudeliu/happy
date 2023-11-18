@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 12:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 12:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [你好星期六](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD&t=31&band_rank=6&Refer=top)<br />
 7. [关晓彤陶喆合照](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E9%99%B6%E5%96%86%E5%90%88%E7%85%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [睡前涂唇膏效果更佳](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%89%8D%E6%B6%82%E5%94%87%E8%86%8F%E6%95%88%E6%9E%9C%E6%9B%B4%E4%BD%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [奔跑吧生态篇今晚开播](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E7%94%9F%E6%80%81%E7%AF%87%E4%BB%8A%E6%99%9A%E5%BC%80%E6%92%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [霸王茶姬 免单](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E5%85%8D%E5%8D%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
