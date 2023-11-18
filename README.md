@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 00:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 00:13:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [为什么得甲状腺癌的年轻人越来越多了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%97%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国一直是亚太合作重要的贡献者](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%80%E7%9B%B4%E6%98%AF%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E9%87%8D%E8%A6%81%E7%9A%84%E8%B4%A1%E7%8C%AE%E8%80%85%23&t=31&band_rank=3&Refer=top)<br />
 4. [秦岚声带受损其实自己很沮丧](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E5%A3%B0%E5%B8%A6%E5%8F%97%E6%8D%9F%E5%85%B6%E5%AE%9E%E8%87%AA%E5%B7%B1%E5%BE%88%E6%B2%AE%E4%B8%A7%23&t=31&band_rank=4&Refer=top)<br />
-5. [宁安如梦编剧](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%BC%96%E5%89%A7&t=31&band_rank=5&Refer=top)<br />
-6. [听说去澳门只需要带两根手指头](https://s.weibo.com/weibo?q=%E5%90%AC%E8%AF%B4%E5%8E%BB%E6%BE%B3%E9%97%A8%E5%8F%AA%E9%9C%80%E8%A6%81%E5%B8%A6%E4%B8%A4%E6%A0%B9%E6%89%8B%E6%8C%87%E5%A4%B4&t=31&band_rank=6&Refer=top)<br />
+5. [听说去澳门只需要带两根手指头](https://s.weibo.com/weibo?q=%E5%90%AC%E8%AF%B4%E5%8E%BB%E6%BE%B3%E9%97%A8%E5%8F%AA%E9%9C%80%E8%A6%81%E5%B8%A6%E4%B8%A4%E6%A0%B9%E6%89%8B%E6%8C%87%E5%A4%B4&t=31&band_rank=5&Refer=top)<br />
+6. [宁安如梦编剧](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%BC%96%E5%89%A7&t=31&band_rank=6&Refer=top)<br />
 7. [房东的猫从众筹到万人演唱会用了7年](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E7%9A%84%E7%8C%AB%E4%BB%8E%E4%BC%97%E7%AD%B9%E5%88%B0%E4%B8%87%E4%BA%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E7%94%A8%E4%BA%867%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [王鹤棣看了不得高兴死](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%9C%8B%E4%BA%86%E4%B8%8D%E5%BE%97%E9%AB%98%E5%85%B4%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [马斯克祝贺SpaceX公司团队](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A5%9D%E8%B4%BASpaceX%E5%85%AC%E5%8F%B8%E5%9B%A2%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
