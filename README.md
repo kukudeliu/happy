@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 11:19:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 11:20:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [同一天领证我还没办仪式他都离了](https://s.weibo.com/weibo?q=%E5%90%8C%E4%B8%80%E5%A4%A9%E9%A2%86%E8%AF%81%E6%88%91%E8%BF%98%E6%B2%A1%E5%8A%9E%E4%BB%AA%E5%BC%8F%E4%BB%96%E9%83%BD%E7%A6%BB%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [霉霉 真封神](https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%20%E7%9C%9F%E5%B0%81%E7%A5%9E&t=31&band_rank=5&Refer=top)<br />
 6. [奔跑吧生态篇今晚开播](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E7%94%9F%E6%80%81%E7%AF%87%E4%BB%8A%E6%99%9A%E5%BC%80%E6%92%AD%23&t=31&band_rank=6&Refer=top)<br />
-7. [陈雨菲力克安洗莹](https://s.weibo.com/weibo?q=%E9%99%88%E9%9B%A8%E8%8F%B2%E5%8A%9B%E5%85%8B%E5%AE%89%E6%B4%97%E8%8E%B9&t=31&band_rank=7&Refer=top)<br />
-8. [徐斯到手的结婚证飞了](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%96%AF%E5%88%B0%E6%89%8B%E7%9A%84%E7%BB%93%E5%A9%9A%E8%AF%81%E9%A3%9E%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [徐斯到手的结婚证飞了](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%96%AF%E5%88%B0%E6%89%8B%E7%9A%84%E7%BB%93%E5%A9%9A%E8%AF%81%E9%A3%9E%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [陈雨菲力克安洗莹](https://s.weibo.com/weibo?q=%E9%99%88%E9%9B%A8%E8%8F%B2%E5%8A%9B%E5%85%8B%E5%AE%89%E6%B4%97%E8%8E%B9&t=31&band_rank=8&Refer=top)<br />
 9. [谢可寅珠帘玉幕开机生图](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8F%AF%E5%AF%85%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95%E5%BC%80%E6%9C%BA%E7%94%9F%E5%9B%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
