@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 10:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 10:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [敖子逸 有没有生发的草](https://s.weibo.com/weibo?q=%E6%95%96%E5%AD%90%E9%80%B8%20%E6%9C%89%E6%B2%A1%E6%9C%89%E7%94%9F%E5%8F%91%E7%9A%84%E8%8D%89&t=31&band_rank=6&Refer=top)<br />
 7. [敷完面膜该不该洗脸](https://s.weibo.com/weibo?q=%23%E6%95%B7%E5%AE%8C%E9%9D%A2%E8%86%9C%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%B4%97%E8%84%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [拜登发言时看布林肯眼色](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%8F%91%E8%A8%80%E6%97%B6%E7%9C%8B%E5%B8%83%E6%9E%97%E8%82%AF%E7%9C%BC%E8%89%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [168种药品进入今年医保谈判竞价环节](https://s.weibo.com/weibo?q=%23168%E7%A7%8D%E8%8D%AF%E5%93%81%E8%BF%9B%E5%85%A5%E4%BB%8A%E5%B9%B4%E5%8C%BB%E4%BF%9D%E8%B0%88%E5%88%A4%E7%AB%9E%E4%BB%B7%E7%8E%AF%E8%8A%82%23&t=31&band_rank=9&Refer=top)<br />
+9. [OpenAI人事巨震](https://s.weibo.com/weibo?q=%23OpenAI%E4%BA%BA%E4%BA%8B%E5%B7%A8%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
