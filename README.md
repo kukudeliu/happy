@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 01:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 01:04:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [秦岚声带受损其实自己很沮丧](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E5%A3%B0%E5%B8%A6%E5%8F%97%E6%8D%9F%E5%85%B6%E5%AE%9E%E8%87%AA%E5%B7%B1%E5%BE%88%E6%B2%AE%E4%B8%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [听说去澳门只需要带两根手指头](https://s.weibo.com/weibo?q=%E5%90%AC%E8%AF%B4%E5%8E%BB%E6%BE%B3%E9%97%A8%E5%8F%AA%E9%9C%80%E8%A6%81%E5%B8%A6%E4%B8%A4%E6%A0%B9%E6%89%8B%E6%8C%87%E5%A4%B4&t=31&band_rank=5&Refer=top)<br />
 6. [宁安如梦编剧](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%BC%96%E5%89%A7&t=31&band_rank=6&Refer=top)<br />
-7. [金子涵 断层第一退团](https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%20%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%E9%80%80%E5%9B%A2&t=31&band_rank=7&Refer=top)<br />
-8. [房东的猫从众筹到万人演唱会用了7年](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E7%9A%84%E7%8C%AB%E4%BB%8E%E4%BC%97%E7%AD%B9%E5%88%B0%E4%B8%87%E4%BA%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E7%94%A8%E4%BA%867%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
+7. [房东的猫从众筹到万人演唱会用了7年](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E7%9A%84%E7%8C%AB%E4%BB%8E%E4%BC%97%E7%AD%B9%E5%88%B0%E4%B8%87%E4%BA%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E7%94%A8%E4%BA%867%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [金子涵 断层第一退团](https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%20%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%E9%80%80%E5%9B%A2&t=31&band_rank=8&Refer=top)<br />
 9. [鲁迅孙子自称90%刷视频10%看书](https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%E8%87%AA%E7%A7%B090%25%E5%88%B7%E8%A7%86%E9%A2%9110%25%E7%9C%8B%E4%B9%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
