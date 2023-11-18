@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 23:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 23:21:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [人的舌头为什么能喷出水](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%9A%84%E8%88%8C%E5%A4%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%96%B7%E5%87%BA%E6%B0%B4&t=31&band_rank=5&Refer=top)<br />
 6. [房东的猫从众筹到万人演唱会用了7年](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E7%9A%84%E7%8C%AB%E4%BB%8E%E4%BC%97%E7%AD%B9%E5%88%B0%E4%B8%87%E4%BA%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E7%94%A8%E4%BA%867%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [张晚意一集气死一个主任](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E4%B8%80%E9%9B%86%E6%B0%94%E6%AD%BB%E4%B8%80%E4%B8%AA%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [cp30](https://s.weibo.com/weibo?q=%23cp30%23&t=31&band_rank=8&Refer=top)<br />
-9. [马斯克祝贺SpaceX公司团队](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A5%9D%E8%B4%BASpaceX%E5%85%AC%E5%8F%B8%E5%9B%A2%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [马斯克祝贺SpaceX公司团队](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A5%9D%E8%B4%BASpaceX%E5%85%AC%E5%8F%B8%E5%9B%A2%E9%98%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [cp30](https://s.weibo.com/weibo?q=%23cp30%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
