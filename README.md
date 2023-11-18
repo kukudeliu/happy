@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 16:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 16:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [现在的演唱会已经进化这样了](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E8%BF%99%E6%A0%B7%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [蓝盈莹 浣碧回来了](https://s.weibo.com/weibo?q=%E8%93%9D%E7%9B%88%E8%8E%B9%20%E6%B5%A3%E7%A2%A7%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [奥运冠军管晨辰再回应变胖](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E7%AE%A1%E6%99%A8%E8%BE%B0%E5%86%8D%E5%9B%9E%E5%BA%94%E5%8F%98%E8%83%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [全红婵给黄子韬演唱会送花篮](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%BB%99%E9%BB%84%E5%AD%90%E9%9F%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%81%E8%8A%B1%E7%AF%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [税务师 算不清根本算不清](https://s.weibo.com/weibo?q=%E7%A8%8E%E5%8A%A1%E5%B8%88%20%E7%AE%97%E4%B8%8D%E6%B8%85%E6%A0%B9%E6%9C%AC%E7%AE%97%E4%B8%8D%E6%B8%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
