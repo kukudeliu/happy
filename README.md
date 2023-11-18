@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 22:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 22:31:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [习近平结束中美元首会晤回到北京](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%93%E6%9D%9F%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%9B%9E%E5%88%B0%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [浙江一小学挖出汉六朝聚落遗址](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%B0%8F%E5%AD%A6%E6%8C%96%E5%87%BA%E6%B1%89%E5%85%AD%E6%9C%9D%E8%81%9A%E8%90%BD%E9%81%97%E5%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [鲁迅孙子：我看书刷视频比例一九开](https://www.baidu.com/s?wd=%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%EF%BC%9A%E6%88%91%E7%9C%8B%E4%B9%A6%E5%88%B7%E8%A7%86%E9%A2%91%E6%AF%94%E4%BE%8B%E4%B8%80%E4%B9%9D%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [泰国公主用中文接受采访](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%85%AC%E4%B8%BB%E7%94%A8%E4%B8%AD%E6%96%87%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [网友呼吁婚假延长至15天 深圳回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%91%BC%E5%90%81%E5%A9%9A%E5%81%87%E5%BB%B6%E9%95%BF%E8%87%B315%E5%A4%A9+%E6%B7%B1%E5%9C%B3%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从西雅图到旧金山](https://www.baidu.com/s?wd=%E4%BB%8E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%88%B0%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [店员将顾客吃剩的小料倒回小料区](https://www.baidu.com/s?wd=%E5%BA%97%E5%91%98%E5%B0%86%E9%A1%BE%E5%AE%A2%E5%90%83%E5%89%A9%E7%9A%84%E5%B0%8F%E6%96%99%E5%80%92%E5%9B%9E%E5%B0%8F%E6%96%99%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [汶川地震微笑女孩结婚](https://www.baidu.com/s?wd=%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%BE%AE%E7%AC%91%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [克宫：希望普京再次竞选总统](https://www.baidu.com/s?wd=%E5%85%8B%E5%AE%AB%EF%BC%9A%E5%B8%8C%E6%9C%9B%E6%99%AE%E4%BA%AC%E5%86%8D%E6%AC%A1%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [鲁迅孙子：我看书刷视频比例一九开](https://www.baidu.com/s?wd=%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%EF%BC%9A%E6%88%91%E7%9C%8B%E4%B9%A6%E5%88%B7%E8%A7%86%E9%A2%91%E6%AF%94%E4%BE%8B%E4%B8%80%E4%B9%9D%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [汶川地震微笑女孩结婚](https://www.baidu.com/s?wd=%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%BE%AE%E7%AC%91%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [克宫：希望普京再次竞选总统](https://www.baidu.com/s?wd=%E5%85%8B%E5%AE%AB%EF%BC%9A%E5%B8%8C%E6%9C%9B%E6%99%AE%E4%BA%AC%E5%86%8D%E6%AC%A1%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [习近平结束中美元首会晤回到北京](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%93%E6%9D%9F%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%9B%9E%E5%88%B0%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [浙江一小学挖出汉六朝聚落遗址](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%B0%8F%E5%AD%A6%E6%8C%96%E5%87%BA%E6%B1%89%E5%85%AD%E6%9C%9D%E8%81%9A%E8%90%BD%E9%81%97%E5%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [鲁迅孙子：我看书刷视频比例一九开](https://www.baidu.com/s?wd=%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%EF%BC%9A%E6%88%91%E7%9C%8B%E4%B9%A6%E5%88%B7%E8%A7%86%E9%A2%91%E6%AF%94%E4%BE%8B%E4%B8%80%E4%B9%9D%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [泰国公主用中文接受采访](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%85%AC%E4%B8%BB%E7%94%A8%E4%B8%AD%E6%96%87%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [网友呼吁婚假延长至15天 深圳回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%91%BC%E5%90%81%E5%A9%9A%E5%81%87%E5%BB%B6%E9%95%BF%E8%87%B315%E5%A4%A9+%E6%B7%B1%E5%9C%B3%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从西雅图到旧金山](https://www.baidu.com/s?wd=%E4%BB%8E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%88%B0%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [店员将顾客吃剩的小料倒回小料区](https://www.baidu.com/s?wd=%E5%BA%97%E5%91%98%E5%B0%86%E9%A1%BE%E5%AE%A2%E5%90%83%E5%89%A9%E7%9A%84%E5%B0%8F%E6%96%99%E5%80%92%E5%9B%9E%E5%B0%8F%E6%96%99%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [汶川地震微笑女孩结婚](https://www.baidu.com/s?wd=%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%BE%AE%E7%AC%91%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [克宫：希望普京再次竞选总统](https://www.baidu.com/s?wd=%E5%85%8B%E5%AE%AB%EF%BC%9A%E5%B8%8C%E6%9C%9B%E6%99%AE%E4%BA%AC%E5%86%8D%E6%AC%A1%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [鲁迅孙子：我看书刷视频比例一九开](https://www.baidu.com/s?wd=%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%EF%BC%9A%E6%88%91%E7%9C%8B%E4%B9%A6%E5%88%B7%E8%A7%86%E9%A2%91%E6%AF%94%E4%BE%8B%E4%B8%80%E4%B9%9D%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [汶川地震微笑女孩结婚](https://www.baidu.com/s?wd=%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%BE%AE%E7%AC%91%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [克宫：希望普京再次竞选总统](https://www.baidu.com/s?wd=%E5%85%8B%E5%AE%AB%EF%BC%9A%E5%B8%8C%E6%9C%9B%E6%99%AE%E4%BA%AC%E5%86%8D%E6%AC%A1%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
