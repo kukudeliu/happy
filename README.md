@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 23:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 23:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [房东的猫从众筹到万人演唱会用了7年](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E7%9A%84%E7%8C%AB%E4%BB%8E%E4%BC%97%E7%AD%B9%E5%88%B0%E4%B8%87%E4%BA%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E7%94%A8%E4%BA%867%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [马斯克祝贺SpaceX公司团队](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A5%9D%E8%B4%BASpaceX%E5%85%AC%E5%8F%B8%E5%9B%A2%E9%98%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [张晚意一集气死一个主任](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E4%B8%80%E9%9B%86%E6%B0%94%E6%AD%BB%E4%B8%80%E4%B8%AA%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [金子涵 断层第一退团](https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%20%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%E9%80%80%E5%9B%A2&t=31&band_rank=9&Refer=top)<br />
+9. [吴世勋说中文不烫嘴](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%B8%96%E5%8B%8B%E8%AF%B4%E4%B8%AD%E6%96%87%E4%B8%8D%E7%83%AB%E5%98%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [从西雅图到旧金山](https://www.baidu.com/s?wd=%E4%BB%8E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%88%B0%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [店员将顾客吃剩的小料倒回小料区](https://www.baidu.com/s?wd=%E5%BA%97%E5%91%98%E5%B0%86%E9%A1%BE%E5%AE%A2%E5%90%83%E5%89%A9%E7%9A%84%E5%B0%8F%E6%96%99%E5%80%92%E5%9B%9E%E5%B0%8F%E6%96%99%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女童横店当童漂4个月赚250元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E6%A8%AA%E5%BA%97%E5%BD%93%E7%AB%A5%E6%BC%824%E4%B8%AA%E6%9C%88%E8%B5%9A250%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [重庆火锅店后厨老鼠吃豆芽 官方通报](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E7%81%AB%E9%94%85%E5%BA%97%E5%90%8E%E5%8E%A8%E8%80%81%E9%BC%A0%E5%90%83%E8%B1%86%E8%8A%BD+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州保姆过失致2岁幼童坠亡案宣判](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BF%9D%E5%A7%86%E8%BF%87%E5%A4%B1%E8%87%B42%E5%B2%81%E5%B9%BC%E7%AB%A5%E5%9D%A0%E4%BA%A1%E6%A1%88%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杭州保姆过失致2岁幼童坠亡案宣判](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BF%9D%E5%A7%86%E8%BF%87%E5%A4%B1%E8%87%B42%E5%B2%81%E5%B9%BC%E7%AB%A5%E5%9D%A0%E4%BA%A1%E6%A1%88%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子骗好友200万 每月买彩票全输光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AA%97%E5%A5%BD%E5%8F%8B200%E4%B8%87+%E6%AF%8F%E6%9C%88%E4%B9%B0%E5%BD%A9%E7%A5%A8%E5%85%A8%E8%BE%93%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [从西雅图到旧金山](https://www.baidu.com/s?wd=%E4%BB%8E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%88%B0%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [店员将顾客吃剩的小料倒回小料区](https://www.baidu.com/s?wd=%E5%BA%97%E5%91%98%E5%B0%86%E9%A1%BE%E5%AE%A2%E5%90%83%E5%89%A9%E7%9A%84%E5%B0%8F%E6%96%99%E5%80%92%E5%9B%9E%E5%B0%8F%E6%96%99%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女童横店当童漂4个月赚250元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E6%A8%AA%E5%BA%97%E5%BD%93%E7%AB%A5%E6%BC%824%E4%B8%AA%E6%9C%88%E8%B5%9A250%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [重庆火锅店后厨老鼠吃豆芽 官方通报](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E7%81%AB%E9%94%85%E5%BA%97%E5%90%8E%E5%8E%A8%E8%80%81%E9%BC%A0%E5%90%83%E8%B1%86%E8%8A%BD+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州保姆过失致2岁幼童坠亡案宣判](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BF%9D%E5%A7%86%E8%BF%87%E5%A4%B1%E8%87%B42%E5%B2%81%E5%B9%BC%E7%AB%A5%E5%9D%A0%E4%BA%A1%E6%A1%88%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杭州保姆过失致2岁幼童坠亡案宣判](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BF%9D%E5%A7%86%E8%BF%87%E5%A4%B1%E8%87%B42%E5%B2%81%E5%B9%BC%E7%AB%A5%E5%9D%A0%E4%BA%A1%E6%A1%88%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子骗好友200万 每月买彩票全输光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AA%97%E5%A5%BD%E5%8F%8B200%E4%B8%87+%E6%AF%8F%E6%9C%88%E4%B9%B0%E5%BD%A9%E7%A5%A8%E5%85%A8%E8%BE%93%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
