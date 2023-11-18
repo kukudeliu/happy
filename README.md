@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 15:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 15:49:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [中国“霸总”爽剧在海外杀疯了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E9%9C%B8%E6%80%BB%E2%80%9D%E7%88%BD%E5%89%A7%E5%9C%A8%E6%B5%B7%E5%A4%96%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“中国第一高楼”苦等新主人](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%AB%98%E6%A5%BC%E2%80%9D%E8%8B%A6%E7%AD%89%E6%96%B0%E4%B8%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美国前总统卡特夫妇接受临终关怀](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%E5%8D%A1%E7%89%B9%E5%A4%AB%E5%A6%87%E6%8E%A5%E5%8F%97%E4%B8%B4%E7%BB%88%E5%85%B3%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吞剑表演大型失误现场](https://www.baidu.com/s?wd=%E5%90%9E%E5%89%91%E8%A1%A8%E6%BC%94%E5%A4%A7%E5%9E%8B%E5%A4%B1%E8%AF%AF%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王栎鑫带呼吸机上节目](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%8E%E9%91%AB%E5%B8%A6%E5%91%BC%E5%90%B8%E6%9C%BA%E4%B8%8A%E8%8A%82%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆要修新机场？此鸡非彼机](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%A6%81%E4%BF%AE%E6%96%B0%E6%9C%BA%E5%9C%BA%EF%BC%9F%E6%AD%A4%E9%B8%A1%E9%9D%9E%E5%BD%BC%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [中国“霸总”爽剧在海外杀疯了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E9%9C%B8%E6%80%BB%E2%80%9D%E7%88%BD%E5%89%A7%E5%9C%A8%E6%B5%B7%E5%A4%96%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“中国第一高楼”苦等新主人](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%AB%98%E6%A5%BC%E2%80%9D%E8%8B%A6%E7%AD%89%E6%96%B0%E4%B8%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美国前总统卡特夫妇接受临终关怀](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%E5%8D%A1%E7%89%B9%E5%A4%AB%E5%A6%87%E6%8E%A5%E5%8F%97%E4%B8%B4%E7%BB%88%E5%85%B3%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吞剑表演大型失误现场](https://www.baidu.com/s?wd=%E5%90%9E%E5%89%91%E8%A1%A8%E6%BC%94%E5%A4%A7%E5%9E%8B%E5%A4%B1%E8%AF%AF%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王栎鑫带呼吸机上节目](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%8E%E9%91%AB%E5%B8%A6%E5%91%BC%E5%90%B8%E6%9C%BA%E4%B8%8A%E8%8A%82%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆要修新机场？此鸡非彼机](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%A6%81%E4%BF%AE%E6%96%B0%E6%9C%BA%E5%9C%BA%EF%BC%9F%E6%AD%A4%E9%B8%A1%E9%9D%9E%E5%BD%BC%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
