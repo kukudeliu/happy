@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 21:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 21:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [你好星期六下周有马丽赵露思](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%B8%8B%E5%91%A8%E6%9C%89%E9%A9%AC%E4%B8%BD%E8%B5%B5%E9%9C%B2%E6%80%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [奔跑吧](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=31&band_rank=7&Refer=top)<br />
 8. [老干妈被年轻人抛弃了吗](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B9%B2%E5%A6%88%E8%A2%AB%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%9B%E5%BC%83%E4%BA%86%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [为什么得甲状腺癌的年轻人越来越多了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%97%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [马斯克SpaceX星舰发射失败](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%98%9F%E8%88%B0%E5%8F%91%E5%B0%84%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
