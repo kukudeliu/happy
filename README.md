@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 03:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 03:09:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [金子涵 断层第一退团](https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%20%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%E9%80%80%E5%9B%A2&t=31&band_rank=5&Refer=top)<br />
 6. [人的舌头为什么能喷出水](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%9A%84%E8%88%8C%E5%A4%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%96%B7%E5%87%BA%E6%B0%B4&t=31&band_rank=6&Refer=top)<br />
 7. [宁安如梦编剧](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%BC%96%E5%89%A7&t=31&band_rank=7&Refer=top)<br />
-8. [房东的猫演唱会嘉宾是马頔](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E7%9A%84%E7%8C%AB%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%E6%98%AF%E9%A9%AC%E9%A0%94%23&t=31&band_rank=8&Refer=top)<br />
+8. [房东的猫从众筹到万人演唱会用了7年](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E7%9A%84%E7%8C%AB%E4%BB%8E%E4%BC%97%E7%AD%B9%E5%88%B0%E4%B8%87%E4%BA%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E7%94%A8%E4%BA%867%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
 9. [鲁迅孙子自称90%刷视频10%看书](https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%E8%87%AA%E7%A7%B090%25%E5%88%B7%E8%A7%86%E9%A2%9110%25%E7%9C%8B%E4%B9%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
