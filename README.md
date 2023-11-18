@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 17:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 17:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [严浩翔哭了](https://s.weibo.com/weibo?q=%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%93%AD%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [张晚意把自闭症诠释的很传神](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E6%8A%8A%E8%87%AA%E9%97%AD%E7%97%87%E8%AF%A0%E9%87%8A%E7%9A%84%E5%BE%88%E4%BC%A0%E7%A5%9E%23&t=31&band_rank=7&Refer=top)<br />
 8. [蓝盈莹 浣碧回来了](https://s.weibo.com/weibo?q=%E8%93%9D%E7%9B%88%E8%8E%B9%20%E6%B5%A3%E7%A2%A7%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [马嘉祺风皇开大](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E9%A3%8E%E7%9A%87%E5%BC%80%E5%A4%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [这还是陈楚生吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%BF%98%E6%98%AF%E9%99%88%E6%A5%9A%E7%94%9F%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [青岛：全市范围内可租房落户](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%EF%BC%9A%E5%85%A8%E5%B8%82%E8%8C%83%E5%9B%B4%E5%86%85%E5%8F%AF%E7%A7%9F%E6%88%BF%E8%90%BD%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [下一个“中国”，还是中国](https://www.baidu.com/s?wd=%E4%B8%8B%E4%B8%80%E4%B8%AA%E2%80%9C%E4%B8%AD%E5%9B%BD%E2%80%9D%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [京津冀及周边将迎区域性重污染](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E5%8F%8A%E5%91%A8%E8%BE%B9%E5%B0%86%E8%BF%8E%E5%8C%BA%E5%9F%9F%E6%80%A7%E9%87%8D%E6%B1%A1%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [泪目！儿子记录妈妈患癌三年的变化](https://www.baidu.com/s?wd=%E6%B3%AA%E7%9B%AE%EF%BC%81%E5%84%BF%E5%AD%90%E8%AE%B0%E5%BD%95%E5%A6%88%E5%A6%88%E6%82%A3%E7%99%8C%E4%B8%89%E5%B9%B4%E7%9A%84%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [全红婵代言国货女装被嘲 客服回应](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%BB%A3%E8%A8%80%E5%9B%BD%E8%B4%A7%E5%A5%B3%E8%A3%85%E8%A2%AB%E5%98%B2+%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：中韩战四万张门票一天售空](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%AD%E9%9F%A9%E6%88%98%E5%9B%9B%E4%B8%87%E5%BC%A0%E9%97%A8%E7%A5%A8%E4%B8%80%E5%A4%A9%E5%94%AE%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [全红婵代言国货女装被嘲 客服回应](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%BB%A3%E8%A8%80%E5%9B%BD%E8%B4%A7%E5%A5%B3%E8%A3%85%E8%A2%AB%E5%98%B2+%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [泪目！儿子记录妈妈患癌三年的变化](https://www.baidu.com/s?wd=%E6%B3%AA%E7%9B%AE%EF%BC%81%E5%84%BF%E5%AD%90%E8%AE%B0%E5%BD%95%E5%A6%88%E5%A6%88%E6%82%A3%E7%99%8C%E4%B8%89%E5%B9%B4%E7%9A%84%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家属称老人已去世民警多看一眼救回](https://www.baidu.com/s?wd=%E5%AE%B6%E5%B1%9E%E7%A7%B0%E8%80%81%E4%BA%BA%E5%B7%B2%E5%8E%BB%E4%B8%96%E6%B0%91%E8%AD%A6%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%95%91%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆要修新机场？此鸡非彼机](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%A6%81%E4%BF%AE%E6%96%B0%E6%9C%BA%E5%9C%BA%EF%BC%9F%E6%AD%A4%E9%B8%A1%E9%9D%9E%E5%BD%BC%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [青岛：全市范围内可租房落户](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%EF%BC%9A%E5%85%A8%E5%B8%82%E8%8C%83%E5%9B%B4%E5%86%85%E5%8F%AF%E7%A7%9F%E6%88%BF%E8%90%BD%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [下一个“中国”，还是中国](https://www.baidu.com/s?wd=%E4%B8%8B%E4%B8%80%E4%B8%AA%E2%80%9C%E4%B8%AD%E5%9B%BD%E2%80%9D%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [京津冀及周边将迎区域性重污染](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E5%8F%8A%E5%91%A8%E8%BE%B9%E5%B0%86%E8%BF%8E%E5%8C%BA%E5%9F%9F%E6%80%A7%E9%87%8D%E6%B1%A1%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [泪目！儿子记录妈妈患癌三年的变化](https://www.baidu.com/s?wd=%E6%B3%AA%E7%9B%AE%EF%BC%81%E5%84%BF%E5%AD%90%E8%AE%B0%E5%BD%95%E5%A6%88%E5%A6%88%E6%82%A3%E7%99%8C%E4%B8%89%E5%B9%B4%E7%9A%84%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [全红婵代言国货女装被嘲 客服回应](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%BB%A3%E8%A8%80%E5%9B%BD%E8%B4%A7%E5%A5%B3%E8%A3%85%E8%A2%AB%E5%98%B2+%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：中韩战四万张门票一天售空](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%AD%E9%9F%A9%E6%88%98%E5%9B%9B%E4%B8%87%E5%BC%A0%E9%97%A8%E7%A5%A8%E4%B8%80%E5%A4%A9%E5%94%AE%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [全红婵代言国货女装被嘲 客服回应](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%BB%A3%E8%A8%80%E5%9B%BD%E8%B4%A7%E5%A5%B3%E8%A3%85%E8%A2%AB%E5%98%B2+%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [泪目！儿子记录妈妈患癌三年的变化](https://www.baidu.com/s?wd=%E6%B3%AA%E7%9B%AE%EF%BC%81%E5%84%BF%E5%AD%90%E8%AE%B0%E5%BD%95%E5%A6%88%E5%A6%88%E6%82%A3%E7%99%8C%E4%B8%89%E5%B9%B4%E7%9A%84%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家属称老人已去世民警多看一眼救回](https://www.baidu.com/s?wd=%E5%AE%B6%E5%B1%9E%E7%A7%B0%E8%80%81%E4%BA%BA%E5%B7%B2%E5%8E%BB%E4%B8%96%E6%B0%91%E8%AD%A6%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%95%91%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆要修新机场？此鸡非彼机](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%A6%81%E4%BF%AE%E6%96%B0%E6%9C%BA%E5%9C%BA%EF%BC%9F%E6%AD%A4%E9%B8%A1%E9%9D%9E%E5%BD%BC%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
