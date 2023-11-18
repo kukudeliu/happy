@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 17:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 17:59:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [00后民警一周收到3面锦旗开心比耶](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E6%B0%91%E8%AD%A6%E4%B8%80%E5%91%A8%E6%94%B6%E5%88%B03%E9%9D%A2%E9%94%A6%E6%97%97%E5%BC%80%E5%BF%83%E6%AF%94%E8%80%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [哥哥去世1年11岁妹妹也患同样病](https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E5%8E%BB%E4%B8%961%E5%B9%B411%E5%B2%81%E5%A6%B9%E5%A6%B9%E4%B9%9F%E6%82%A3%E5%90%8C%E6%A0%B7%E7%97%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [浙江企业把员工名字嵌在了卫星上](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%BC%81%E4%B8%9A%E6%8A%8A%E5%91%98%E5%B7%A5%E5%90%8D%E5%AD%97%E5%B5%8C%E5%9C%A8%E4%BA%86%E5%8D%AB%E6%98%9F%E4%B8%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [林高远王艺迪获混团世界杯资格](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E7%8E%8B%E8%89%BA%E8%BF%AA%E8%8E%B7%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%84%E6%A0%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [马嘉祺苗疆少年](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E8%8B%97%E7%96%86%E5%B0%91%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
+8. [马嘉祺苗疆少年](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E8%8B%97%E7%96%86%E5%B0%91%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
+9. [蓝盈莹 浣碧回来了](https://s.weibo.com/weibo?q=%E8%93%9D%E7%9B%88%E8%8E%B9%20%E6%B5%A3%E7%A2%A7%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
