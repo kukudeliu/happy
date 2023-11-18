@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 14:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 14:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [中国“霸总”爽剧在海外杀疯了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E9%9C%B8%E6%80%BB%E2%80%9D%E7%88%BD%E5%89%A7%E5%9C%A8%E6%B5%B7%E5%A4%96%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [吞剑表演大型失误现场](https://www.baidu.com/s?wd=%E5%90%9E%E5%89%91%E8%A1%A8%E6%BC%94%E5%A4%A7%E5%9E%8B%E5%A4%B1%E8%AF%AF%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“中国第一高楼”苦等新主人](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%AB%98%E6%A5%BC%E2%80%9D%E8%8B%A6%E7%AD%89%E6%96%B0%E4%B8%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [坐高铁一天4城4碗粉](https://www.baidu.com/s?wd=%E5%9D%90%E9%AB%98%E9%93%81%E4%B8%80%E5%A4%A94%E5%9F%8E4%E7%A2%97%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [19辆货车高速飙车时速超140公里](https://www.baidu.com/s?wd=19%E8%BE%86%E8%B4%A7%E8%BD%A6%E9%AB%98%E9%80%9F%E9%A3%99%E8%BD%A6%E6%97%B6%E9%80%9F%E8%B6%85140%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆要修新机场？此鸡非彼机](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%A6%81%E4%BF%AE%E6%96%B0%E6%9C%BA%E5%9C%BA%EF%BC%9F%E6%AD%A4%E9%B8%A1%E9%9D%9E%E5%BD%BC%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [中国“霸总”爽剧在海外杀疯了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E9%9C%B8%E6%80%BB%E2%80%9D%E7%88%BD%E5%89%A7%E5%9C%A8%E6%B5%B7%E5%A4%96%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [吞剑表演大型失误现场](https://www.baidu.com/s?wd=%E5%90%9E%E5%89%91%E8%A1%A8%E6%BC%94%E5%A4%A7%E5%9E%8B%E5%A4%B1%E8%AF%AF%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“中国第一高楼”苦等新主人](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%AB%98%E6%A5%BC%E2%80%9D%E8%8B%A6%E7%AD%89%E6%96%B0%E4%B8%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [坐高铁一天4城4碗粉](https://www.baidu.com/s?wd=%E5%9D%90%E9%AB%98%E9%93%81%E4%B8%80%E5%A4%A94%E5%9F%8E4%E7%A2%97%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [19辆货车高速飙车时速超140公里](https://www.baidu.com/s?wd=19%E8%BE%86%E8%B4%A7%E8%BD%A6%E9%AB%98%E9%80%9F%E9%A3%99%E8%BD%A6%E6%97%B6%E9%80%9F%E8%B6%85140%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆要修新机场？此鸡非彼机](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%A6%81%E4%BF%AE%E6%96%B0%E6%9C%BA%E5%9C%BA%EF%BC%9F%E6%AD%A4%E9%B8%A1%E9%9D%9E%E5%BD%BC%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
