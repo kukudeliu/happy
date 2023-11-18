@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 12:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 12:10:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [各地警方齐聚临沧分拣中心](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E8%AD%A6%E6%96%B9%E9%BD%90%E8%81%9A%E4%B8%B4%E6%B2%A7%E5%88%86%E6%8B%A3%E4%B8%AD%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [40万从缅甸赎回男子埋怨为何搞我回来](https://www.baidu.com/s?wd=40%E4%B8%87%E4%BB%8E%E7%BC%85%E7%94%B8%E8%B5%8E%E5%9B%9E%E7%94%B7%E5%AD%90%E5%9F%8B%E6%80%A8%E4%B8%BA%E4%BD%95%E6%90%9E%E6%88%91%E5%9B%9E%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [律师回应18岁父亲有个4岁儿子](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E5%9B%9E%E5%BA%9418%E5%B2%81%E7%88%B6%E4%BA%B2%E6%9C%89%E4%B8%AA4%E5%B2%81%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [同宿舍6女生拒绝内卷全员保研](https://www.baidu.com/s?wd=%E5%90%8C%E5%AE%BF%E8%88%8D6%E5%A5%B3%E7%94%9F%E6%8B%92%E7%BB%9D%E5%86%85%E5%8D%B7%E5%85%A8%E5%91%98%E4%BF%9D%E7%A0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [短时间内震惊我两次](https://www.baidu.com/s?wd=%E7%9F%AD%E6%97%B6%E9%97%B4%E5%86%85%E9%9C%87%E6%83%8A%E6%88%91%E4%B8%A4%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [宝马车主称回局里说话？警方通报](https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E8%BD%A6%E4%B8%BB%E7%A7%B0%E5%9B%9E%E5%B1%80%E9%87%8C%E8%AF%B4%E8%AF%9D%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [各地警方齐聚临沧分拣中心](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E8%AD%A6%E6%96%B9%E9%BD%90%E8%81%9A%E4%B8%B4%E6%B2%A7%E5%88%86%E6%8B%A3%E4%B8%AD%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [40万从缅甸赎回男子埋怨为何搞我回来](https://www.baidu.com/s?wd=40%E4%B8%87%E4%BB%8E%E7%BC%85%E7%94%B8%E8%B5%8E%E5%9B%9E%E7%94%B7%E5%AD%90%E5%9F%8B%E6%80%A8%E4%B8%BA%E4%BD%95%E6%90%9E%E6%88%91%E5%9B%9E%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [律师回应18岁父亲有个4岁儿子](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E5%9B%9E%E5%BA%9418%E5%B2%81%E7%88%B6%E4%BA%B2%E6%9C%89%E4%B8%AA4%E5%B2%81%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [同宿舍6女生拒绝内卷全员保研](https://www.baidu.com/s?wd=%E5%90%8C%E5%AE%BF%E8%88%8D6%E5%A5%B3%E7%94%9F%E6%8B%92%E7%BB%9D%E5%86%85%E5%8D%B7%E5%85%A8%E5%91%98%E4%BF%9D%E7%A0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [短时间内震惊我两次](https://www.baidu.com/s?wd=%E7%9F%AD%E6%97%B6%E9%97%B4%E5%86%85%E9%9C%87%E6%83%8A%E6%88%91%E4%B8%A4%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [宝马车主称回局里说话？警方通报](https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E8%BD%A6%E4%B8%BB%E7%A7%B0%E5%9B%9E%E5%B1%80%E9%87%8C%E8%AF%B4%E8%AF%9D%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
