@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 19:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 19:06:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [2023年亚太经合组织领导人旧金山宣言](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%BA%9A%E5%A4%AA%E7%BB%8F%E5%90%88%E7%BB%84%E7%BB%87%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%97%A7%E9%87%91%E5%B1%B1%E5%AE%A3%E8%A8%80%23&t=31&band_rank=3&Refer=top)<br />
 4. [金子涵 断层第一退团](https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%20%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%E9%80%80%E5%9B%A2&t=31&band_rank=4&Refer=top)<br />
 5. [家长带孩子修平翘起的石板](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%B8%A6%E5%AD%A9%E5%AD%90%E4%BF%AE%E5%B9%B3%E7%BF%98%E8%B5%B7%E7%9A%84%E7%9F%B3%E6%9D%BF%23&t=31&band_rank=5&Refer=top)<br />
-6. [丁程鑫在演唱会上哭了](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%93%AD%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+6. [李现和张杰击掌](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E5%92%8C%E5%BC%A0%E6%9D%B0%E5%87%BB%E6%8E%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [00后民警一周收到3面锦旗开心比耶](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E6%B0%91%E8%AD%A6%E4%B8%80%E5%91%A8%E6%94%B6%E5%88%B03%E9%9D%A2%E9%94%A6%E6%97%97%E5%BC%80%E5%BF%83%E6%AF%94%E8%80%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [李现和张杰击掌](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E5%92%8C%E5%BC%A0%E6%9D%B0%E5%87%BB%E6%8E%8C%23&t=31&band_rank=8&Refer=top)<br />
+8. [丁程鑫在演唱会上哭了](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [林诗栋](https://s.weibo.com/weibo?q=%E6%9E%97%E8%AF%97%E6%A0%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
