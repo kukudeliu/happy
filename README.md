@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 11:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 11:15:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [律师回应18岁父亲有个4岁儿子](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E5%9B%9E%E5%BA%9418%E5%B2%81%E7%88%B6%E4%BA%B2%E6%9C%89%E4%B8%AA4%E5%B2%81%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子体验网红千层漏摔成九级伤残](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BD%93%E9%AA%8C%E7%BD%91%E7%BA%A2%E5%8D%83%E5%B1%82%E6%BC%8F%E6%91%94%E6%88%90%E4%B9%9D%E7%BA%A7%E4%BC%A4%E6%AE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [四川省城市联赛爆发大规模冲突](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%9F%8E%E5%B8%82%E8%81%94%E8%B5%9B%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [消炎药就是抗生素？大不相同](https://www.baidu.com/s?wd=%E6%B6%88%E7%82%8E%E8%8D%AF%E5%B0%B1%E6%98%AF%E6%8A%97%E7%94%9F%E7%B4%A0%EF%BC%9F%E5%A4%A7%E4%B8%8D%E7%9B%B8%E5%90%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [宝马车主称回局里说话？警方通报](https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E8%BD%A6%E4%B8%BB%E7%A7%B0%E5%9B%9E%E5%B1%80%E9%87%8C%E8%AF%B4%E8%AF%9D%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [律师回应18岁父亲有个4岁儿子](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E5%9B%9E%E5%BA%9418%E5%B2%81%E7%88%B6%E4%BA%B2%E6%9C%89%E4%B8%AA4%E5%B2%81%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子体验网红千层漏摔成九级伤残](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BD%93%E9%AA%8C%E7%BD%91%E7%BA%A2%E5%8D%83%E5%B1%82%E6%BC%8F%E6%91%94%E6%88%90%E4%B9%9D%E7%BA%A7%E4%BC%A4%E6%AE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [四川省城市联赛爆发大规模冲突](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%9F%8E%E5%B8%82%E8%81%94%E8%B5%9B%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [消炎药就是抗生素？大不相同](https://www.baidu.com/s?wd=%E6%B6%88%E7%82%8E%E8%8D%AF%E5%B0%B1%E6%98%AF%E6%8A%97%E7%94%9F%E7%B4%A0%EF%BC%9F%E5%A4%A7%E4%B8%8D%E7%9B%B8%E5%90%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [宝马车主称回局里说话？警方通报](https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E8%BD%A6%E4%B8%BB%E7%A7%B0%E5%9B%9E%E5%B1%80%E9%87%8C%E8%AF%B4%E8%AF%9D%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
