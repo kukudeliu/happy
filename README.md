@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 02:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 02:58:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女童横店当童漂4个月赚250元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E6%A8%AA%E5%BA%97%E5%BD%93%E7%AB%A5%E6%BC%824%E4%B8%AA%E6%9C%88%E8%B5%9A250%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [餐厅被曝用福寿螺做饭？店方回应](https://www.baidu.com/s?wd=%E9%A4%90%E5%8E%85%E8%A2%AB%E6%9B%9D%E7%94%A8%E7%A6%8F%E5%AF%BF%E8%9E%BA%E5%81%9A%E9%A5%AD%EF%BC%9F%E5%BA%97%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男演员带货被质疑割韭菜](https://www.baidu.com/s?wd=%E7%94%B7%E6%BC%94%E5%91%98%E5%B8%A6%E8%B4%A7%E8%A2%AB%E8%B4%A8%E7%96%91%E5%89%B2%E9%9F%AD%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国前总统卡特夫妇接受临终关怀](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%E5%8D%A1%E7%89%B9%E5%A4%AB%E5%A6%87%E6%8E%A5%E5%8F%97%E4%B8%B4%E7%BB%88%E5%85%B3%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女童横店当童漂4个月赚250元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E6%A8%AA%E5%BA%97%E5%BD%93%E7%AB%A5%E6%BC%824%E4%B8%AA%E6%9C%88%E8%B5%9A250%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [餐厅被曝用福寿螺做饭？店方回应](https://www.baidu.com/s?wd=%E9%A4%90%E5%8E%85%E8%A2%AB%E6%9B%9D%E7%94%A8%E7%A6%8F%E5%AF%BF%E8%9E%BA%E5%81%9A%E9%A5%AD%EF%BC%9F%E5%BA%97%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男演员带货被质疑割韭菜](https://www.baidu.com/s?wd=%E7%94%B7%E6%BC%94%E5%91%98%E5%B8%A6%E8%B4%A7%E8%A2%AB%E8%B4%A8%E7%96%91%E5%89%B2%E9%9F%AD%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国前总统卡特夫妇接受临终关怀](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%E5%8D%A1%E7%89%B9%E5%A4%AB%E5%A6%87%E6%8E%A5%E5%8F%97%E4%B8%B4%E7%BB%88%E5%85%B3%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
