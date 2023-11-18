@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 16:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 16:58:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [金子涵 断层第一退团](https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%20%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%E9%80%80%E5%9B%A2&t=31&band_rank=4&Refer=top)<br />
 5. [严浩翔哭了](https://s.weibo.com/weibo?q=%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%93%AD%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [羽生结弦 无法保护女方](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%20%E6%97%A0%E6%B3%95%E4%BF%9D%E6%8A%A4%E5%A5%B3%E6%96%B9&t=31&band_rank=6&Refer=top)<br />
-7. [税二 比我的偏头痛还偏](https://s.weibo.com/weibo?q=%E7%A8%8E%E4%BA%8C%20%E6%AF%94%E6%88%91%E7%9A%84%E5%81%8F%E5%A4%B4%E7%97%9B%E8%BF%98%E5%81%8F&t=31&band_rank=7&Refer=top)<br />
-8. [蓝盈莹 浣碧回来了](https://s.weibo.com/weibo?q=%E8%93%9D%E7%9B%88%E8%8E%B9%20%E6%B5%A3%E7%A2%A7%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [张晚意把自闭症诠释的很传神](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E6%8A%8A%E8%87%AA%E9%97%AD%E7%97%87%E8%AF%A0%E9%87%8A%E7%9A%84%E5%BE%88%E4%BC%A0%E7%A5%9E%23&t=31&band_rank=9&Refer=top)<br />
+7. [蓝盈莹 浣碧回来了](https://s.weibo.com/weibo?q=%E8%93%9D%E7%9B%88%E8%8E%B9%20%E6%B5%A3%E7%A2%A7%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [张晚意把自闭症诠释的很传神](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E6%8A%8A%E8%87%AA%E9%97%AD%E7%97%87%E8%AF%A0%E9%87%8A%E7%9A%84%E5%BE%88%E4%BC%A0%E7%A5%9E%23&t=31&band_rank=8&Refer=top)<br />
+9. [这还是陈楚生吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%BF%98%E6%98%AF%E9%99%88%E6%A5%9A%E7%94%9F%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
