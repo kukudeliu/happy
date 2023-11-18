@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 19:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 19:26:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大米爆](https://s.weibo.com/weibo?q=%E5%A4%A7%E7%B1%B3%E7%88%86&t=31&band_rank=6&Refer=top)<br />
 7. [食冰癖在缺铁者中非常常见](https://s.weibo.com/weibo?q=%E9%A3%9F%E5%86%B0%E7%99%96%E5%9C%A8%E7%BC%BA%E9%93%81%E8%80%85%E4%B8%AD%E9%9D%9E%E5%B8%B8%E5%B8%B8%E8%A7%81&t=31&band_rank=7&Refer=top)<br />
 8. [李现和张杰击掌](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E5%92%8C%E5%BC%A0%E6%9D%B0%E5%87%BB%E6%8E%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [丁程鑫在演唱会上哭了](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [林诗栋](https://s.weibo.com/weibo?q=%E6%9E%97%E8%AF%97%E6%A0%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
