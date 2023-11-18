@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 19:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 19:59:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 3. [儿子考取公务员 局长设宴收礼被处分](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%80%83%E5%8F%96%E5%85%AC%E5%8A%A1%E5%91%98+%E5%B1%80%E9%95%BF%E8%AE%BE%E5%AE%B4%E6%94%B6%E7%A4%BC%E8%A2%AB%E5%A4%84%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [下一个“中国”，还是中国](https://www.baidu.com/s?wd=%E4%B8%8B%E4%B8%80%E4%B8%AA%E2%80%9C%E4%B8%AD%E5%9B%BD%E2%80%9D%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [鲁迅孙子：我看书刷视频比例一九开](https://www.baidu.com/s?wd=%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%EF%BC%9A%E6%88%91%E7%9C%8B%E4%B9%A6%E5%88%B7%E8%A7%86%E9%A2%91%E6%AF%94%E4%BE%8B%E4%B8%80%E4%B9%9D%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [耕地被盗采砂石挖出足球场大坑](https://www.baidu.com/s?wd=%E8%80%95%E5%9C%B0%E8%A2%AB%E7%9B%97%E9%87%87%E7%A0%82%E7%9F%B3%E6%8C%96%E5%87%BA%E8%B6%B3%E7%90%83%E5%9C%BA%E5%A4%A7%E5%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [日机构统计羽生结弦年收入至少4400万](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%BA%E6%9E%84%E7%BB%9F%E8%AE%A1%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%B9%B4%E6%94%B6%E5%85%A5%E8%87%B3%E5%B0%914400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [乌军方通报“重大胜利” 俄方发声](https://www.baidu.com/s?wd=%E4%B9%8C%E5%86%9B%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E9%87%8D%E5%A4%A7%E8%83%9C%E5%88%A9%E2%80%9D+%E4%BF%84%E6%96%B9%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [今晚狮子座流星雨迎来极大](https://www.baidu.com/s?wd=%E4%BB%8A%E6%99%9A%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [欧美人不吃转基因食品？假的](https://www.baidu.com/s?wd=%E6%AC%A7%E7%BE%8E%E4%BA%BA%E4%B8%8D%E5%90%83%E8%BD%AC%E5%9F%BA%E5%9B%A0%E9%A3%9F%E5%93%81%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [儿子考取公务员 局长设宴收礼被处分](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%80%83%E5%8F%96%E5%85%AC%E5%8A%A1%E5%91%98+%E5%B1%80%E9%95%BF%E8%AE%BE%E5%AE%B4%E6%94%B6%E7%A4%BC%E8%A2%AB%E5%A4%84%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [下一个“中国”，还是中国](https://www.baidu.com/s?wd=%E4%B8%8B%E4%B8%80%E4%B8%AA%E2%80%9C%E4%B8%AD%E5%9B%BD%E2%80%9D%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [鲁迅孙子：我看书刷视频比例一九开](https://www.baidu.com/s?wd=%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%EF%BC%9A%E6%88%91%E7%9C%8B%E4%B9%A6%E5%88%B7%E8%A7%86%E9%A2%91%E6%AF%94%E4%BE%8B%E4%B8%80%E4%B9%9D%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [耕地被盗采砂石挖出足球场大坑](https://www.baidu.com/s?wd=%E8%80%95%E5%9C%B0%E8%A2%AB%E7%9B%97%E9%87%87%E7%A0%82%E7%9F%B3%E6%8C%96%E5%87%BA%E8%B6%B3%E7%90%83%E5%9C%BA%E5%A4%A7%E5%9D%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [日机构统计羽生结弦年收入至少4400万](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%BA%E6%9E%84%E7%BB%9F%E8%AE%A1%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%B9%B4%E6%94%B6%E5%85%A5%E8%87%B3%E5%B0%914400%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [乌军方通报“重大胜利” 俄方发声](https://www.baidu.com/s?wd=%E4%B9%8C%E5%86%9B%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E9%87%8D%E5%A4%A7%E8%83%9C%E5%88%A9%E2%80%9D+%E4%BF%84%E6%96%B9%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [今晚狮子座流星雨迎来极大](https://www.baidu.com/s?wd=%E4%BB%8A%E6%99%9A%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [欧美人不吃转基因食品？假的](https://www.baidu.com/s?wd=%E6%AC%A7%E7%BE%8E%E4%BA%BA%E4%B8%8D%E5%90%83%E8%BD%AC%E5%9F%BA%E5%9B%A0%E9%A3%9F%E5%93%81%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
