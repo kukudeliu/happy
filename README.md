@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 22:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 22:38:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [马斯克SpaceX星舰发射失败](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%98%9F%E8%88%B0%E5%8F%91%E5%B0%84%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=5&Refer=top)<br />
 6. [人的舌头为什么能喷出水](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%9A%84%E8%88%8C%E5%A4%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%96%B7%E5%87%BA%E6%B0%B4&t=31&band_rank=6&Refer=top)<br />
 7. [金子涵 断层第一退团](https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%20%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%E9%80%80%E5%9B%A2&t=31&band_rank=7&Refer=top)<br />
-8. [林俊杰演唱会开到了hi6](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%80%E5%88%B0%E4%BA%86hi6%23&t=31&band_rank=8&Refer=top)<br />
-9. [鲁迅孙子自称90%刷视频10%看书](https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%E8%87%AA%E7%A7%B090%25%E5%88%B7%E8%A7%86%E9%A2%9110%25%E7%9C%8B%E4%B9%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [鲁迅孙子自称90%刷视频10%看书](https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%E8%87%AA%E7%A7%B090%25%E5%88%B7%E8%A7%86%E9%A2%9110%25%E7%9C%8B%E4%B9%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [想借一个充电宝却收到100元](https://s.weibo.com/weibo?q=%23%E6%83%B3%E5%80%9F%E4%B8%80%E4%B8%AA%E5%85%85%E7%94%B5%E5%AE%9D%E5%8D%B4%E6%94%B6%E5%88%B0100%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [店员将顾客吃剩的小料倒回小料区](https://www.baidu.com/s?wd=%E5%BA%97%E5%91%98%E5%B0%86%E9%A1%BE%E5%AE%A2%E5%90%83%E5%89%A9%E7%9A%84%E5%B0%8F%E6%96%99%E5%80%92%E5%9B%9E%E5%B0%8F%E6%96%99%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [鲁迅孙子：我看书刷视频比例一九开](https://www.baidu.com/s?wd=%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%EF%BC%9A%E6%88%91%E7%9C%8B%E4%B9%A6%E5%88%B7%E8%A7%86%E9%A2%91%E6%AF%94%E4%BE%8B%E4%B8%80%E4%B9%9D%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [超200名球迷凌晨机场接机国足](https://www.baidu.com/s?wd=%E8%B6%85200%E5%90%8D%E7%90%83%E8%BF%B7%E5%87%8C%E6%99%A8%E6%9C%BA%E5%9C%BA%E6%8E%A5%E6%9C%BA%E5%9B%BD%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [让路拜登车队?岸田文雄见尹锡悦迟到](https://www.baidu.com/s?wd=%E8%AE%A9%E8%B7%AF%E6%8B%9C%E7%99%BB%E8%BD%A6%E9%98%9F%3F%E5%B2%B8%E7%94%B0%E6%96%87%E9%9B%84%E8%A7%81%E5%B0%B9%E9%94%A1%E6%82%A6%E8%BF%9F%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [店员将顾客吃剩的小料倒回小料区](https://www.baidu.com/s?wd=%E5%BA%97%E5%91%98%E5%B0%86%E9%A1%BE%E5%AE%A2%E5%90%83%E5%89%A9%E7%9A%84%E5%B0%8F%E6%96%99%E5%80%92%E5%9B%9E%E5%B0%8F%E6%96%99%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [鲁迅孙子：我看书刷视频比例一九开](https://www.baidu.com/s?wd=%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%EF%BC%9A%E6%88%91%E7%9C%8B%E4%B9%A6%E5%88%B7%E8%A7%86%E9%A2%91%E6%AF%94%E4%BE%8B%E4%B8%80%E4%B9%9D%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [超200名球迷凌晨机场接机国足](https://www.baidu.com/s?wd=%E8%B6%85200%E5%90%8D%E7%90%83%E8%BF%B7%E5%87%8C%E6%99%A8%E6%9C%BA%E5%9C%BA%E6%8E%A5%E6%9C%BA%E5%9B%BD%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [让路拜登车队?岸田文雄见尹锡悦迟到](https://www.baidu.com/s?wd=%E8%AE%A9%E8%B7%AF%E6%8B%9C%E7%99%BB%E8%BD%A6%E9%98%9F%3F%E5%B2%B8%E7%94%B0%E6%96%87%E9%9B%84%E8%A7%81%E5%B0%B9%E9%94%A1%E6%82%A6%E8%BF%9F%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
