@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 23:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 23:30:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [店员将顾客吃剩的小料倒回小料区](https://www.baidu.com/s?wd=%E5%BA%97%E5%91%98%E5%B0%86%E9%A1%BE%E5%AE%A2%E5%90%83%E5%89%A9%E7%9A%84%E5%B0%8F%E6%96%99%E5%80%92%E5%9B%9E%E5%B0%8F%E6%96%99%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女童横店当童漂4个月赚250元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E6%A8%AA%E5%BA%97%E5%BD%93%E7%AB%A5%E6%BC%824%E4%B8%AA%E6%9C%88%E8%B5%9A250%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杭州保姆过失致2岁幼童坠亡案宣判](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BF%9D%E5%A7%86%E8%BF%87%E5%A4%B1%E8%87%B42%E5%B2%81%E5%B9%BC%E7%AB%A5%E5%9D%A0%E4%BA%A1%E6%A1%88%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子骗好友200万 每月买彩票全输光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AA%97%E5%A5%BD%E5%8F%8B200%E4%B8%87+%E6%AF%8F%E6%9C%88%E4%B9%B0%E5%BD%A9%E7%A5%A8%E5%85%A8%E8%BE%93%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [店员将顾客吃剩的小料倒回小料区](https://www.baidu.com/s?wd=%E5%BA%97%E5%91%98%E5%B0%86%E9%A1%BE%E5%AE%A2%E5%90%83%E5%89%A9%E7%9A%84%E5%B0%8F%E6%96%99%E5%80%92%E5%9B%9E%E5%B0%8F%E6%96%99%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女童横店当童漂4个月赚250元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E6%A8%AA%E5%BA%97%E5%BD%93%E7%AB%A5%E6%BC%824%E4%B8%AA%E6%9C%88%E8%B5%9A250%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杭州保姆过失致2岁幼童坠亡案宣判](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BF%9D%E5%A7%86%E8%BF%87%E5%A4%B1%E8%87%B42%E5%B2%81%E5%B9%BC%E7%AB%A5%E5%9D%A0%E4%BA%A1%E6%A1%88%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子骗好友200万 每月买彩票全输光](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AA%97%E5%A5%BD%E5%8F%8B200%E4%B8%87+%E6%AF%8F%E6%9C%88%E4%B9%B0%E5%BD%A9%E7%A5%A8%E5%85%A8%E8%BE%93%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
