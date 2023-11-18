@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 08:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 08:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [佘诗曼 给内娱一些女王震撼](https://s.weibo.com/weibo?q=%E4%BD%98%E8%AF%97%E6%9B%BC%20%E7%BB%99%E5%86%85%E5%A8%B1%E4%B8%80%E4%BA%9B%E5%A5%B3%E7%8E%8B%E9%9C%87%E6%92%BC&t=31&band_rank=6&Refer=top)<br />
 7. [家属称老人已去世民警多看一眼救回](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E7%A7%B0%E8%80%81%E4%BA%BA%E5%B7%B2%E5%8E%BB%E4%B8%96%E6%B0%91%E8%AD%A6%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%95%91%E5%9B%9E%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘亦菲看到胡军的表情](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E7%9C%8B%E5%88%B0%E8%83%A1%E5%86%9B%E7%9A%84%E8%A1%A8%E6%83%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [羽生结弦离婚原因](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E7%A6%BB%E5%A9%9A%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [ChatGPT创始人奥特曼离开OpenAI](https://s.weibo.com/weibo?q=%23ChatGPT%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%A6%BB%E5%BC%80OpenAI%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
