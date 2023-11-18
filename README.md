@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 04:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 04:38:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [从西雅图到旧金山](https://www.baidu.com/s?wd=%E4%BB%8E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%88%B0%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女童横店当童漂4个月赚250元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E6%A8%AA%E5%BA%97%E5%BD%93%E7%AB%A5%E6%BC%824%E4%B8%AA%E6%9C%88%E8%B5%9A250%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子带娃坐车遇满员 强行要他人让座](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A8%83%E5%9D%90%E8%BD%A6%E9%81%87%E6%BB%A1%E5%91%98+%E5%BC%BA%E8%A1%8C%E8%A6%81%E4%BB%96%E4%BA%BA%E8%AE%A9%E5%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌军方通报“重大胜利” 俄方发声](https://www.baidu.com/s?wd=%E4%B9%8C%E5%86%9B%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E9%87%8D%E5%A4%A7%E8%83%9C%E5%88%A9%E2%80%9D+%E4%BF%84%E6%96%B9%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乌军方通报“重大胜利” 俄方发声](https://www.baidu.com/s?wd=%E4%B9%8C%E5%86%9B%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E9%87%8D%E5%A4%A7%E8%83%9C%E5%88%A9%E2%80%9D+%E4%BF%84%E6%96%B9%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全红婵代言国货女装被嘲 客服回应](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%BB%A3%E8%A8%80%E5%9B%BD%E8%B4%A7%E5%A5%B3%E8%A3%85%E8%A2%AB%E5%98%B2+%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [从西雅图到旧金山](https://www.baidu.com/s?wd=%E4%BB%8E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%88%B0%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女童横店当童漂4个月赚250元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E6%A8%AA%E5%BA%97%E5%BD%93%E7%AB%A5%E6%BC%824%E4%B8%AA%E6%9C%88%E8%B5%9A250%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多地幼儿园大面积关停](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子带娃坐车遇满员 强行要他人让座](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A8%83%E5%9D%90%E8%BD%A6%E9%81%87%E6%BB%A1%E5%91%98+%E5%BC%BA%E8%A1%8C%E8%A6%81%E4%BB%96%E4%BA%BA%E8%AE%A9%E5%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌军方通报“重大胜利” 俄方发声](https://www.baidu.com/s?wd=%E4%B9%8C%E5%86%9B%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E9%87%8D%E5%A4%A7%E8%83%9C%E5%88%A9%E2%80%9D+%E4%BF%84%E6%96%B9%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乌军方通报“重大胜利” 俄方发声](https://www.baidu.com/s?wd=%E4%B9%8C%E5%86%9B%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E9%87%8D%E5%A4%A7%E8%83%9C%E5%88%A9%E2%80%9D+%E4%BF%84%E6%96%B9%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全红婵代言国货女装被嘲 客服回应](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%BB%A3%E8%A8%80%E5%9B%BD%E8%B4%A7%E5%A5%B3%E8%A3%85%E8%A2%AB%E5%98%B2+%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
