@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 16:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 16:24:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [蓝盈莹 浣碧回来了](https://s.weibo.com/weibo?q=%E8%93%9D%E7%9B%88%E8%8E%B9%20%E6%B5%A3%E7%A2%A7%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [霸王茶姬 免单](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E5%85%8D%E5%8D%95&t=31&band_rank=6&Refer=top)<br />
 7. [宋亚轩刘耀文合唱对视](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%88%98%E8%80%80%E6%96%87%E5%90%88%E5%94%B1%E5%AF%B9%E8%A7%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [奥运冠军管晨辰再回应变胖](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E7%AE%A1%E6%99%A8%E8%BE%B0%E5%86%8D%E5%9B%9E%E5%BA%94%E5%8F%98%E8%83%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [这还是陈楚生吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%BF%98%E6%98%AF%E9%99%88%E6%A5%9A%E7%94%9F%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [这还是陈楚生吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%BF%98%E6%98%AF%E9%99%88%E6%A5%9A%E7%94%9F%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [奥运冠军管晨辰再回应变胖](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E7%AE%A1%E6%99%A8%E8%BE%B0%E5%86%8D%E5%9B%9E%E5%BA%94%E5%8F%98%E8%83%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
