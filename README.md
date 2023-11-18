@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 21:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 21:55:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [中国一直是亚太合作重要的贡献者](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%80%E7%9B%B4%E6%98%AF%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E9%87%8D%E8%A6%81%E7%9A%84%E8%B4%A1%E7%8C%AE%E8%80%85%23&t=31&band_rank=3&Refer=top)<br />
 4. [马斯克SpaceX星舰发射失败](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%98%9F%E8%88%B0%E5%8F%91%E5%B0%84%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=4&Refer=top)<br />
 5. [鲁迅孙子自称90%刷视频10%看书](https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%E8%87%AA%E7%A7%B090%25%E5%88%B7%E8%A7%86%E9%A2%9110%25%E7%9C%8B%E4%B9%A6%23&t=31&band_rank=5&Refer=top)<br />
-6. [APEC第30次领导人非正式会议闭幕](https://s.weibo.com/weibo?q=%23APEC%E7%AC%AC30%E6%AC%A1%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE%E9%97%AD%E5%B9%95%23&t=31&band_rank=6&Refer=top)<br />
-7. [金子涵 断层第一退团](https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%20%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%E9%80%80%E5%9B%A2&t=31&band_rank=7&Refer=top)<br />
-8. [你好星期六下周有马丽赵露思](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%B8%8B%E5%91%A8%E6%9C%89%E9%A9%AC%E4%B8%BD%E8%B5%B5%E9%9C%B2%E6%80%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [奔跑吧](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
+6. [金子涵 断层第一退团](https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%20%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%E9%80%80%E5%9B%A2&t=31&band_rank=6&Refer=top)<br />
+7. [你好星期六下周有马丽赵露思](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%B8%8B%E5%91%A8%E6%9C%89%E9%A9%AC%E4%B8%BD%E8%B5%B5%E9%9C%B2%E6%80%9D%23&t=31&band_rank=7&Refer=top)<br />
+8. [奔跑吧](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
+9. [老干妈被年轻人抛弃了吗](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B9%B2%E5%A6%88%E8%A2%AB%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%9B%E5%BC%83%E4%BA%86%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
