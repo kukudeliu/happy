@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 08:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 09:00:01</h4></div>
 
 > 微博  
 
@@ -18,10 +18,10 @@
 > 百度  
 
 1. [习近平出席APEC领导人非正式会议](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%ADAPEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [中方回应日方要求取消日本食品禁令](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%96%B9%E8%A6%81%E6%B1%82%E5%8F%96%E6%B6%88%E6%97%A5%E6%9C%AC%E9%A3%9F%E5%93%81%E7%A6%81%E4%BB%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [ChatGPT之父被解雇 董事长随后辞职](https://www.baidu.com/s?wd=ChatGPT%E4%B9%8B%E7%88%B6%E8%A2%AB%E8%A7%A3%E9%9B%87+%E8%91%A3%E4%BA%8B%E9%95%BF%E9%9A%8F%E5%90%8E%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [多名80后正厅履新 有人15岁进中科大](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D80%E5%90%8E%E6%AD%A3%E5%8E%85%E5%B1%A5%E6%96%B0+%E6%9C%89%E4%BA%BA15%E5%B2%81%E8%BF%9B%E4%B8%AD%E7%A7%91%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让“旧金山愿景”变实景](https://www.baidu.com/s?wd=%E8%AE%A9%E2%80%9C%E6%97%A7%E9%87%91%E5%B1%B1%E6%84%BF%E6%99%AF%E2%80%9D%E5%8F%98%E5%AE%9E%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [OpenAI罢免CEO奥特曼](https://www.baidu.com/s?wd=OpenAI%E7%BD%A2%E5%85%8DCEO%E5%A5%A5%E7%89%B9%E6%9B%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [各地警方齐聚临沧分拣中心](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E8%AD%A6%E6%96%B9%E9%BD%90%E8%81%9A%E4%B8%B4%E6%B2%A7%E5%88%86%E6%8B%A3%E4%B8%AD%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“电话手表兑换卡”现新骗局](https://www.baidu.com/s?wd=%E2%80%9C%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E5%85%91%E6%8D%A2%E5%8D%A1%E2%80%9D%E7%8E%B0%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [川菜成为全国第一大菜系](https://www.baidu.com/s?wd=%E5%B7%9D%E8%8F%9C%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%8F%9C%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [17岁少年照顾脑瘫同学近5年](https://www.baidu.com/s?wd=17%E5%B2%81%E5%B0%91%E5%B9%B4%E7%85%A7%E9%A1%BE%E8%84%91%E7%98%AB%E5%90%8C%E5%AD%A6%E8%BF%915%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,10 +30,10 @@
 > 哔哩哔哩  
 
 1. [习近平出席APEC领导人非正式会议](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%ADAPEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [中方回应日方要求取消日本食品禁令](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%96%B9%E8%A6%81%E6%B1%82%E5%8F%96%E6%B6%88%E6%97%A5%E6%9C%AC%E9%A3%9F%E5%93%81%E7%A6%81%E4%BB%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [ChatGPT之父被解雇 董事长随后辞职](https://www.baidu.com/s?wd=ChatGPT%E4%B9%8B%E7%88%B6%E8%A2%AB%E8%A7%A3%E9%9B%87+%E8%91%A3%E4%BA%8B%E9%95%BF%E9%9A%8F%E5%90%8E%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [多名80后正厅履新 有人15岁进中科大](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D80%E5%90%8E%E6%AD%A3%E5%8E%85%E5%B1%A5%E6%96%B0+%E6%9C%89%E4%BA%BA15%E5%B2%81%E8%BF%9B%E4%B8%AD%E7%A7%91%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让“旧金山愿景”变实景](https://www.baidu.com/s?wd=%E8%AE%A9%E2%80%9C%E6%97%A7%E9%87%91%E5%B1%B1%E6%84%BF%E6%99%AF%E2%80%9D%E5%8F%98%E5%AE%9E%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [OpenAI罢免CEO奥特曼](https://www.baidu.com/s?wd=OpenAI%E7%BD%A2%E5%85%8DCEO%E5%A5%A5%E7%89%B9%E6%9B%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [各地警方齐聚临沧分拣中心](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E8%AD%A6%E6%96%B9%E9%BD%90%E8%81%9A%E4%B8%B4%E6%B2%A7%E5%88%86%E6%8B%A3%E4%B8%AD%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“电话手表兑换卡”现新骗局](https://www.baidu.com/s?wd=%E2%80%9C%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E5%85%91%E6%8D%A2%E5%8D%A1%E2%80%9D%E7%8E%B0%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [川菜成为全国第一大菜系](https://www.baidu.com/s?wd=%E5%B7%9D%E8%8F%9C%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%8F%9C%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [17岁少年照顾脑瘫同学近5年](https://www.baidu.com/s?wd=17%E5%B2%81%E5%B0%91%E5%B9%B4%E7%85%A7%E9%A1%BE%E8%84%91%E7%98%AB%E5%90%8C%E5%AD%A6%E8%BF%915%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
