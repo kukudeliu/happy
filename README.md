@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 14:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 14:04:01</h4></div>
 
 > 微博  
 
-1. [2023APEC](https://s.weibo.com/weibo?q=%232023APEC%23&t=31&band_rank=1&Refer=top)<br />
-2. [APEC第30次领导人非正式会议闭幕](https://s.weibo.com/weibo?q=%23APEC%E7%AC%AC30%E6%AC%A1%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE%E9%97%AD%E5%B9%95%23&t=31&band_rank=2&Refer=top)<br />
+1. [APEC第30次领导人非正式会议闭幕](https://s.weibo.com/weibo?q=%23APEC%E7%AC%AC30%E6%AC%A1%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE%E9%97%AD%E5%B9%95%23&t=31&band_rank=1&Refer=top)<br />
+2. [2023APEC](https://s.weibo.com/weibo?q=%232023APEC%23&t=31&band_rank=2&Refer=top)<br />
 3. [跨越大洋的相聚](https://s.weibo.com/weibo?q=%23%E8%B7%A8%E8%B6%8A%E5%A4%A7%E6%B4%8B%E7%9A%84%E7%9B%B8%E8%81%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [霸王茶姬 免单](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E5%85%8D%E5%8D%95&t=31&band_rank=4&Refer=top)<br />
 5. [同一天领证我还没办仪式他都离了](https://s.weibo.com/weibo?q=%E5%90%8C%E4%B8%80%E5%A4%A9%E9%A2%86%E8%AF%81%E6%88%91%E8%BF%98%E6%B2%A1%E5%8A%9E%E4%BB%AA%E5%BC%8F%E4%BB%96%E9%83%BD%E7%A6%BB%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
