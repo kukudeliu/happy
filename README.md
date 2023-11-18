@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 12:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-18 12:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [税务师 算不清根本算不清](https://s.weibo.com/weibo?q=%E7%A8%8E%E5%8A%A1%E5%B8%88%20%E7%AE%97%E4%B8%8D%E6%B8%85%E6%A0%B9%E6%9C%AC%E7%AE%97%E4%B8%8D%E6%B8%85&t=31&band_rank=6&Refer=top)<br />
 7. [回来吧我的虎大将军](https://s.weibo.com/weibo?q=%E5%9B%9E%E6%9D%A5%E5%90%A7%E6%88%91%E7%9A%84%E8%99%8E%E5%A4%A7%E5%B0%86%E5%86%9B&t=31&band_rank=7&Refer=top)<br />
 8. [霉霉 真封神](https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%20%E7%9C%9F%E5%B0%81%E7%A5%9E&t=31&band_rank=8&Refer=top)<br />
-9. [睡前涂唇膏效果更佳](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%89%8D%E6%B6%82%E5%94%87%E8%86%8F%E6%95%88%E6%9E%9C%E6%9B%B4%E4%BD%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [新闻女王 没一个好惹](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E6%B2%A1%E4%B8%80%E4%B8%AA%E5%A5%BD%E6%83%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
