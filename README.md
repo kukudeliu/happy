@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 14:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 14:58:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [这件彩陶盆有5000年前黄河边跳舞画面](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BB%B6%E5%BD%A9%E9%99%B6%E7%9B%86%E6%9C%895000%E5%B9%B4%E5%89%8D%E9%BB%84%E6%B2%B3%E8%BE%B9%E8%B7%B3%E8%88%9E%E7%94%BB%E9%9D%A2%23&t=31&band_rank=3&Refer=top)<br />
 4. [32岁女子9年花费近27万吃海底捞](https://s.weibo.com/weibo?q=%2332%E5%B2%81%E5%A5%B3%E5%AD%909%E5%B9%B4%E8%8A%B1%E8%B4%B9%E8%BF%9127%E4%B8%87%E5%90%83%E6%B5%B7%E5%BA%95%E6%8D%9E%23&t=31&band_rank=4&Refer=top)<br />
 5. [6岁女孩在横店当童漂4个月赚250元](https://s.weibo.com/weibo?q=%236%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9C%A8%E6%A8%AA%E5%BA%97%E5%BD%93%E7%AB%A5%E6%BC%824%E4%B8%AA%E6%9C%88%E8%B5%9A250%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
-6. [权志龙毛发鉴定结果为阴性](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E6%AF%9B%E5%8F%91%E9%89%B4%E5%AE%9A%E7%BB%93%E6%9E%9C%E4%B8%BA%E9%98%B4%E6%80%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [男子丢失30万手机女子捡到以为老年机](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%A2%E5%A4%B130%E4%B8%87%E6%89%8B%E6%9C%BA%E5%A5%B3%E5%AD%90%E6%8D%A1%E5%88%B0%E4%BB%A5%E4%B8%BA%E8%80%81%E5%B9%B4%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
+6. [男子丢失30万手机女子捡到以为老年机](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%A2%E5%A4%B130%E4%B8%87%E6%89%8B%E6%9C%BA%E5%A5%B3%E5%AD%90%E6%8D%A1%E5%88%B0%E4%BB%A5%E4%B8%BA%E8%80%81%E5%B9%B4%E6%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
+7. [WBG 我们每个人都有不得不赢的理由](https://s.weibo.com/weibo?q=WBG%20%E6%88%91%E4%BB%AC%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%9C%89%E4%B8%8D%E5%BE%97%E4%B8%8D%E8%B5%A2%E7%9A%84%E7%90%86%E7%94%B1&t=31&band_rank=7&Refer=top)<br />
 8. [柳岩 不是我不懂搭配](https://s.weibo.com/weibo?q=%E6%9F%B3%E5%B2%A9%20%E4%B8%8D%E6%98%AF%E6%88%91%E4%B8%8D%E6%87%82%E6%90%AD%E9%85%8D&t=31&band_rank=8&Refer=top)<br />
-9. [WBG 我们每个人都有不得不赢的理由](https://s.weibo.com/weibo?q=WBG%20%E6%88%91%E4%BB%AC%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%9C%89%E4%B8%8D%E5%BE%97%E4%B8%8D%E8%B5%A2%E7%9A%84%E7%90%86%E7%94%B1&t=31&band_rank=9&Refer=top)<br />
+9. [警方提醒捡到这种卡速销毁](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E6%8F%90%E9%86%92%E6%8D%A1%E5%88%B0%E8%BF%99%E7%A7%8D%E5%8D%A1%E9%80%9F%E9%94%80%E6%AF%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
