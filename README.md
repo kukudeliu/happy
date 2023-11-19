@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 13:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 13:39:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [一图看懂如何防治冬季呼吸道疾病](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%E5%A6%82%E4%BD%95%E9%98%B2%E6%B2%BB%E5%86%AC%E5%AD%A3%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [顾客用纸巾擦拭铜锅边缘擦出颜色](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E7%94%A8%E7%BA%B8%E5%B7%BE%E6%93%A6%E6%8B%AD%E9%93%9C%E9%94%85%E8%BE%B9%E7%BC%98%E6%93%A6%E5%87%BA%E9%A2%9C%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子丢失30万手机 民警急速寻回](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%A2%E5%A4%B130%E4%B8%87%E6%89%8B%E6%9C%BA+%E6%B0%91%E8%AD%A6%E6%80%A5%E9%80%9F%E5%AF%BB%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [原来普通话是河北方言](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E6%99%AE%E9%80%9A%E8%AF%9D%E6%98%AF%E6%B2%B3%E5%8C%97%E6%96%B9%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子吸食有毒电子烟后行为怪异](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%B8%E9%A3%9F%E6%9C%89%E6%AF%92%E7%94%B5%E5%AD%90%E7%83%9F%E5%90%8E%E8%A1%8C%E4%B8%BA%E6%80%AA%E5%BC%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [周润发参加港珠澳大桥香港段半马](https://www.baidu.com/s?wd=%E5%91%A8%E6%B6%A6%E5%8F%91%E5%8F%82%E5%8A%A0%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A1%A5%E9%A6%99%E6%B8%AF%E6%AE%B5%E5%8D%8A%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [一图看懂如何防治冬季呼吸道疾病](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%E5%A6%82%E4%BD%95%E9%98%B2%E6%B2%BB%E5%86%AC%E5%AD%A3%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [顾客用纸巾擦拭铜锅边缘擦出颜色](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E7%94%A8%E7%BA%B8%E5%B7%BE%E6%93%A6%E6%8B%AD%E9%93%9C%E9%94%85%E8%BE%B9%E7%BC%98%E6%93%A6%E5%87%BA%E9%A2%9C%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子丢失30万手机 民警急速寻回](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%A2%E5%A4%B130%E4%B8%87%E6%89%8B%E6%9C%BA+%E6%B0%91%E8%AD%A6%E6%80%A5%E9%80%9F%E5%AF%BB%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [原来普通话是河北方言](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E6%99%AE%E9%80%9A%E8%AF%9D%E6%98%AF%E6%B2%B3%E5%8C%97%E6%96%B9%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子吸食有毒电子烟后行为怪异](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%B8%E9%A3%9F%E6%9C%89%E6%AF%92%E7%94%B5%E5%AD%90%E7%83%9F%E5%90%8E%E8%A1%8C%E4%B8%BA%E6%80%AA%E5%BC%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [周润发参加港珠澳大桥香港段半马](https://www.baidu.com/s?wd=%E5%91%A8%E6%B6%A6%E5%8F%91%E5%8F%82%E5%8A%A0%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A1%A5%E9%A6%99%E6%B8%AF%E6%AE%B5%E5%8D%8A%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
