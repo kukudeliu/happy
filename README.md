@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 19:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 19:36:02</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [下一个中国还是中国](https://s.weibo.com/weibo?q=%23%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E8%BF%98%E6%98%AF%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [Faker四冠登神](https://s.weibo.com/weibo?q=%23Faker%E5%9B%9B%E5%86%A0%E7%99%BB%E7%A5%9E%23&t=31&band_rank=4&Refer=top)<br />
 5. [00后送00后锦旗可以有多炸裂](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E9%80%8100%E5%90%8E%E9%94%A6%E6%97%97%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E7%82%B8%E8%A3%82%23&t=31&band_rank=5&Refer=top)<br />
-6. [BLG 已放假](https://s.weibo.com/weibo?q=BLG%20%E5%B7%B2%E6%94%BE%E5%81%87&t=31&band_rank=6&Refer=top)<br />
+6. [EDG剧本](https://s.weibo.com/weibo?q=EDG%E5%89%A7%E6%9C%AC&t=31&band_rank=6&Refer=top)<br />
 7. [西安街头热卖的两种美食不能一起吃](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E8%A1%97%E5%A4%B4%E7%83%AD%E5%8D%96%E7%9A%84%E4%B8%A4%E7%A7%8D%E7%BE%8E%E9%A3%9F%E4%B8%8D%E8%83%BD%E4%B8%80%E8%B5%B7%E5%90%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [EDG剧本](https://s.weibo.com/weibo?q=EDG%E5%89%A7%E6%9C%AC&t=31&band_rank=8&Refer=top)<br />
+8. [BLG 已放假](https://s.weibo.com/weibo?q=BLG%20%E5%B7%B2%E6%94%BE%E5%81%87&t=31&band_rank=8&Refer=top)<br />
 9. [Faker S13数据](https://s.weibo.com/weibo?q=Faker%20S13%E6%95%B0%E6%8D%AE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
