@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 00:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 00:42:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [恩静大小姐](https://s.weibo.com/weibo?q=%E6%81%A9%E9%9D%99%E5%A4%A7%E5%B0%8F%E5%A7%90&t=31&band_rank=5&Refer=top)<br />
 6. [T1战胜WBG](https://s.weibo.com/weibo?q=%23T1%E6%88%98%E8%83%9CWBG%23&t=31&band_rank=6&Refer=top)<br />
 7. [郭艾伦吐槽以爱为营剧情](https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E5%90%90%E6%A7%BD%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%89%A7%E6%83%85%23&t=31&band_rank=7&Refer=top)<br />
-8. [白桃星座](https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7&t=31&band_rank=8&Refer=top)<br />
-9. [大张伟 只有无聊的人才在比较](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%BC%A0%E4%BC%9F%20%E5%8F%AA%E6%9C%89%E6%97%A0%E8%81%8A%E7%9A%84%E4%BA%BA%E6%89%8D%E5%9C%A8%E6%AF%94%E8%BE%83&t=31&band_rank=9&Refer=top)<br />
+8. [大张伟 只有无聊的人才在比较](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%BC%A0%E4%BC%9F%20%E5%8F%AA%E6%9C%89%E6%97%A0%E8%81%8A%E7%9A%84%E4%BA%BA%E6%89%8D%E5%9C%A8%E6%AF%94%E8%BE%83&t=31&band_rank=8&Refer=top)<br />
+9. [白桃星座](https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
