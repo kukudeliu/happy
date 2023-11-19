@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 01:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 01:33:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [因螺蛳粉里没有螺蛳 男子要求退钱](https://www.baidu.com/s?wd=%E5%9B%A0%E8%9E%BA%E8%9B%B3%E7%B2%89%E9%87%8C%E6%B2%A1%E6%9C%89%E8%9E%BA%E8%9B%B3+%E7%94%B7%E5%AD%90%E8%A6%81%E6%B1%82%E9%80%80%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [江西抚州一多层楼房垮塌 当地通报](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E6%8A%9A%E5%B7%9E%E4%B8%80%E5%A4%9A%E5%B1%82%E6%A5%BC%E6%88%BF%E5%9E%AE%E5%A1%8C+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [江西抚州一多层楼房垮塌 当地通报](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E6%8A%9A%E5%B7%9E%E4%B8%80%E5%A4%9A%E5%B1%82%E6%A5%BC%E6%88%BF%E5%9E%AE%E5%A1%8C+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [阿里辟谣“裁员25000人”](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%A3%81%E5%91%9825000%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [因螺蛳粉里没有螺蛳 男子要求退钱](https://www.baidu.com/s?wd=%E5%9B%A0%E8%9E%BA%E8%9B%B3%E7%B2%89%E9%87%8C%E6%B2%A1%E6%9C%89%E8%9E%BA%E8%9B%B3+%E7%94%B7%E5%AD%90%E8%A6%81%E6%B1%82%E9%80%80%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [江西抚州一多层楼房垮塌 当地通报](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E6%8A%9A%E5%B7%9E%E4%B8%80%E5%A4%9A%E5%B1%82%E6%A5%BC%E6%88%BF%E5%9E%AE%E5%A1%8C+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [江西抚州一多层楼房垮塌 当地通报](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E6%8A%9A%E5%B7%9E%E4%B8%80%E5%A4%9A%E5%B1%82%E6%A5%BC%E6%88%BF%E5%9E%AE%E5%A1%8C+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [阿里辟谣“裁员25000人”](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%A3%81%E5%91%9825000%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
