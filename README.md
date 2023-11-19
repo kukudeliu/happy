@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 11:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 11:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女子花1.8万买衣服一年不发货不退款](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B11.8%E4%B8%87%E4%B9%B0%E8%A1%A3%E6%9C%8D%E4%B8%80%E5%B9%B4%E4%B8%8D%E5%8F%91%E8%B4%A7%E4%B8%8D%E9%80%80%E6%AC%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [花花等谭爷爷一起下班](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E7%AD%89%E8%B0%AD%E7%88%B7%E7%88%B7%E4%B8%80%E8%B5%B7%E4%B8%8B%E7%8F%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [纣王 姬发想要我的逆子](https://s.weibo.com/weibo?q=%E7%BA%A3%E7%8E%8B%20%E5%A7%AC%E5%8F%91%E6%83%B3%E8%A6%81%E6%88%91%E7%9A%84%E9%80%86%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
-8. [粉笔模考](https://s.weibo.com/weibo?q=%23%E7%B2%89%E7%AC%94%E6%A8%A1%E8%80%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [沙溢 范丞丞这两天将改变尼莫一生](https://s.weibo.com/weibo?q=%E6%B2%99%E6%BA%A2%20%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%BF%99%E4%B8%A4%E5%A4%A9%E5%B0%86%E6%94%B9%E5%8F%98%E5%B0%BC%E8%8E%AB%E4%B8%80%E7%94%9F&t=31&band_rank=9&Refer=top)<br />
+8. [沙溢 范丞丞这两天将改变尼莫一生](https://s.weibo.com/weibo?q=%E6%B2%99%E6%BA%A2%20%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%BF%99%E4%B8%A4%E5%A4%A9%E5%B0%86%E6%94%B9%E5%8F%98%E5%B0%BC%E8%8E%AB%E4%B8%80%E7%94%9F&t=31&band_rank=8&Refer=top)<br />
+9. [粉笔模考](https://s.weibo.com/weibo?q=%23%E7%B2%89%E7%AC%94%E6%A8%A1%E8%80%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
