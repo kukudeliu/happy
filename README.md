@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 19:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 19:26:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Faker S13数据](https://s.weibo.com/weibo?q=Faker%20S13%E6%95%B0%E6%8D%AE&t=31&band_rank=6&Refer=top)<br />
 7. [残疾大哥请吃面小伙悄悄把钱塞相框里](https://s.weibo.com/weibo?q=%23%E6%AE%8B%E7%96%BE%E5%A4%A7%E5%93%A5%E8%AF%B7%E5%90%83%E9%9D%A2%E5%B0%8F%E4%BC%99%E6%82%84%E6%82%84%E6%8A%8A%E9%92%B1%E5%A1%9E%E7%9B%B8%E6%A1%86%E9%87%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [六公主回应我本是高山争议](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E5%9B%9E%E5%BA%94%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E4%BA%89%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [李佳航 赢了网吧包宿](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E8%88%AA%20%E8%B5%A2%E4%BA%86%E7%BD%91%E5%90%A7%E5%8C%85%E5%AE%BF&t=31&band_rank=9&Refer=top)<br />
+9. [BLG 已放假](https://s.weibo.com/weibo?q=BLG%20%E5%B7%B2%E6%94%BE%E5%81%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
