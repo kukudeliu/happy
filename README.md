@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 00:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 00:39:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [27岁研究生离世前一天发文感恩感谢](https://www.baidu.com/s?wd=27%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [Faker年收入超4000万元](https://www.baidu.com/s?wd=Faker%E5%B9%B4%E6%94%B6%E5%85%A5%E8%B6%854000%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [警方曝光40名滞留境外涉诈人员照片](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%9B%9D%E5%85%8940%E5%90%8D%E6%BB%9E%E7%95%99%E5%A2%83%E5%A4%96%E6%B6%89%E8%AF%88%E4%BA%BA%E5%91%98%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [警方曝光40名滞留境外涉诈人员照片](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%9B%9D%E5%85%8940%E5%90%8D%E6%BB%9E%E7%95%99%E5%A2%83%E5%A4%96%E6%B6%89%E8%AF%88%E4%BA%BA%E5%91%98%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [Faker年收入超4000万元](https://www.baidu.com/s?wd=Faker%E5%B9%B4%E6%94%B6%E5%85%A5%E8%B6%854000%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [冲锋衣销量猛涨](https://www.baidu.com/s?wd=%E5%86%B2%E9%94%8B%E8%A1%A3%E9%94%80%E9%87%8F%E7%8C%9B%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [阿里辟谣“裁员25000人”](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%A3%81%E5%91%9825000%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [27岁研究生离世前一天发文感恩感谢](https://www.baidu.com/s?wd=27%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [Faker年收入超4000万元](https://www.baidu.com/s?wd=Faker%E5%B9%B4%E6%94%B6%E5%85%A5%E8%B6%854000%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [警方曝光40名滞留境外涉诈人员照片](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%9B%9D%E5%85%8940%E5%90%8D%E6%BB%9E%E7%95%99%E5%A2%83%E5%A4%96%E6%B6%89%E8%AF%88%E4%BA%BA%E5%91%98%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [警方曝光40名滞留境外涉诈人员照片](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%9B%9D%E5%85%8940%E5%90%8D%E6%BB%9E%E7%95%99%E5%A2%83%E5%A4%96%E6%B6%89%E8%AF%88%E4%BA%BA%E5%91%98%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [Faker年收入超4000万元](https://www.baidu.com/s?wd=Faker%E5%B9%B4%E6%94%B6%E5%85%A5%E8%B6%854000%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [冲锋衣销量猛涨](https://www.baidu.com/s?wd=%E5%86%B2%E9%94%8B%E8%A1%A3%E9%94%80%E9%87%8F%E7%8C%9B%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [阿里辟谣“裁员25000人”](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%A3%81%E5%91%9825000%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
