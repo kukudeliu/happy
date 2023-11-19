@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 18:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 18:03:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [携手共促亚太高质量增长](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E5%85%B1%E4%BF%83%E4%BA%9A%E5%A4%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [看到这7个人报警最高奖励30万元](https://www.baidu.com/s?wd=%E7%9C%8B%E5%88%B0%E8%BF%997%E4%B8%AA%E4%BA%BA%E6%8A%A5%E8%AD%A6%E6%9C%80%E9%AB%98%E5%A5%96%E5%8A%B130%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [31省份2022年平均工资公布](https://www.baidu.com/s?wd=31%E7%9C%81%E4%BB%BD2022%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [六公主回应我本是高山争议](https://www.baidu.com/s?wd=%E5%85%AD%E5%85%AC%E4%B8%BB%E5%9B%9E%E5%BA%94%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多措并举保障今冬明春供暖季](https://www.baidu.com/s?wd=%E5%A4%9A%E6%8E%AA%E5%B9%B6%E4%B8%BE%E4%BF%9D%E9%9A%9C%E4%BB%8A%E5%86%AC%E6%98%8E%E6%98%A5%E4%BE%9B%E6%9A%96%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [携手共促亚太高质量增长](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E5%85%B1%E4%BF%83%E4%BA%9A%E5%A4%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [看到这7个人报警最高奖励30万元](https://www.baidu.com/s?wd=%E7%9C%8B%E5%88%B0%E8%BF%997%E4%B8%AA%E4%BA%BA%E6%8A%A5%E8%AD%A6%E6%9C%80%E9%AB%98%E5%A5%96%E5%8A%B130%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [31省份2022年平均工资公布](https://www.baidu.com/s?wd=31%E7%9C%81%E4%BB%BD2022%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [六公主回应我本是高山争议](https://www.baidu.com/s?wd=%E5%85%AD%E5%85%AC%E4%B8%BB%E5%9B%9E%E5%BA%94%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多措并举保障今冬明春供暖季](https://www.baidu.com/s?wd=%E5%A4%9A%E6%8E%AA%E5%B9%B6%E4%B8%BE%E4%BF%9D%E9%9A%9C%E4%BB%8A%E5%86%AC%E6%98%8E%E6%98%A5%E4%BE%9B%E6%9A%96%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
