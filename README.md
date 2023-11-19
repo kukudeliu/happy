@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 17:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 17:57:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [T1先下一城](https://s.weibo.com/weibo?q=%23T1%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23&t=31&band_rank=2&Refer=top)<br />
 3. [下一个中国还是中国](https://s.weibo.com/weibo?q=%23%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E8%BF%98%E6%98%AF%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [六公主回应我本是高山争议](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E5%9B%9E%E5%BA%94%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E4%BA%89%E8%AE%AE%23&t=31&band_rank=4&Refer=top)<br />
-5. [李佳航 赢了网吧包宿](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E8%88%AA%20%E8%B5%A2%E4%BA%86%E7%BD%91%E5%90%A7%E5%8C%85%E5%AE%BF&t=31&band_rank=5&Refer=top)<br />
-6. [时代少年团 女团舞](https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%20%E5%A5%B3%E5%9B%A2%E8%88%9E&t=31&band_rank=6&Refer=top)<br />
-7. [00后送00后锦旗可以有多炸裂](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E9%80%8100%E5%90%8E%E9%94%A6%E6%97%97%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E7%82%B8%E8%A3%82%23&t=31&band_rank=7&Refer=top)<br />
-8. [英雄联盟单曲PARANOIA](https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%8D%95%E6%9B%B2PARANOIA&t=31&band_rank=8&Refer=top)<br />
-9. [S13总决赛 比分预测](https://s.weibo.com/weibo?q=S13%E6%80%BB%E5%86%B3%E8%B5%9B%20%E6%AF%94%E5%88%86%E9%A2%84%E6%B5%8B&t=31&band_rank=9&Refer=top)<br />
+5. [00后送00后锦旗可以有多炸裂](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E9%80%8100%E5%90%8E%E9%94%A6%E6%97%97%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E7%82%B8%E8%A3%82%23&t=31&band_rank=5&Refer=top)<br />
+6. [李佳航 赢了网吧包宿](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E8%88%AA%20%E8%B5%A2%E4%BA%86%E7%BD%91%E5%90%A7%E5%8C%85%E5%AE%BF&t=31&band_rank=6&Refer=top)<br />
+7. [跳河勇救3人的山东小伙是军人](https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%B2%B3%E5%8B%87%E6%95%913%E4%BA%BA%E7%9A%84%E5%B1%B1%E4%B8%9C%E5%B0%8F%E4%BC%99%E6%98%AF%E5%86%9B%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [时代少年团 女团舞](https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%20%E5%A5%B3%E5%9B%A2%E8%88%9E&t=31&band_rank=8&Refer=top)<br />
+9. [英雄联盟单曲PARANOIA](https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%8D%95%E6%9B%B2PARANOIA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
