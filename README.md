@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 10:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 10:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [妈妈照着夸孩子100句念孩子学习劲头十足](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%85%A7%E7%9D%80%E5%A4%B8%E5%AD%A9%E5%AD%90100%E5%8F%A5%E5%BF%B5%E5%AD%A9%E5%AD%90%E5%AD%A6%E4%B9%A0%E5%8A%B2%E5%A4%B4%E5%8D%81%E8%B6%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [瘦瘦笔减肥 副作用](https://s.weibo.com/weibo?q=%E7%98%A6%E7%98%A6%E7%AC%94%E5%87%8F%E8%82%A5%20%E5%89%AF%E4%BD%9C%E7%94%A8&t=31&band_rank=7&Refer=top)<br />
 8. [房东的猫演唱会妆造](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E7%9A%84%E7%8C%AB%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A6%86%E9%80%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子带9盒白糕到派出所放下就走](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%A69%E7%9B%92%E7%99%BD%E7%B3%95%E5%88%B0%E6%B4%BE%E5%87%BA%E6%89%80%E6%94%BE%E4%B8%8B%E5%B0%B1%E8%B5%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [李晨 这是生态篇不是心态篇](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%99%A8%20%E8%BF%99%E6%98%AF%E7%94%9F%E6%80%81%E7%AF%87%E4%B8%8D%E6%98%AF%E5%BF%83%E6%80%81%E7%AF%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
