@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 01:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 01:39:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [27岁研究生离世前一天发文感恩感谢](https://www.baidu.com/s?wd=27%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中药材价格狂飙按下暂停键](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E6%9D%90%E4%BB%B7%E6%A0%BC%E7%8B%82%E9%A3%99%E6%8C%89%E4%B8%8B%E6%9A%82%E5%81%9C%E9%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [亏764亿的蔚来汽车会不会倒闭](https://www.baidu.com/s?wd=%E4%BA%8F764%E4%BA%BF%E7%9A%84%E8%94%9A%E6%9D%A5%E6%B1%BD%E8%BD%A6%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%80%92%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [金融圈炸锅！百亿私募卷钱跑路？](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E5%9C%88%E7%82%B8%E9%94%85%EF%BC%81%E7%99%BE%E4%BA%BF%E7%A7%81%E5%8B%9F%E5%8D%B7%E9%92%B1%E8%B7%91%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [亏764亿的蔚来汽车会不会倒闭](https://www.baidu.com/s?wd=%E4%BA%8F764%E4%BA%BF%E7%9A%84%E8%94%9A%E6%9D%A5%E6%B1%BD%E8%BD%A6%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%80%92%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [金融圈炸锅！百亿私募卷钱跑路？](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E5%9C%88%E7%82%B8%E9%94%85%EF%BC%81%E7%99%BE%E4%BA%BF%E7%A7%81%E5%8B%9F%E5%8D%B7%E9%92%B1%E8%B7%91%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [冲锋衣销量猛涨](https://www.baidu.com/s?wd=%E5%86%B2%E9%94%8B%E8%A1%A3%E9%94%80%E9%87%8F%E7%8C%9B%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [阿里辟谣“裁员25000人”](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%A3%81%E5%91%9825000%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [27岁研究生离世前一天发文感恩感谢](https://www.baidu.com/s?wd=27%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中药材价格狂飙按下暂停键](https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E6%9D%90%E4%BB%B7%E6%A0%BC%E7%8B%82%E9%A3%99%E6%8C%89%E4%B8%8B%E6%9A%82%E5%81%9C%E9%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [亏764亿的蔚来汽车会不会倒闭](https://www.baidu.com/s?wd=%E4%BA%8F764%E4%BA%BF%E7%9A%84%E8%94%9A%E6%9D%A5%E6%B1%BD%E8%BD%A6%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%80%92%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [金融圈炸锅！百亿私募卷钱跑路？](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E5%9C%88%E7%82%B8%E9%94%85%EF%BC%81%E7%99%BE%E4%BA%BF%E7%A7%81%E5%8B%9F%E5%8D%B7%E9%92%B1%E8%B7%91%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [亏764亿的蔚来汽车会不会倒闭](https://www.baidu.com/s?wd=%E4%BA%8F764%E4%BA%BF%E7%9A%84%E8%94%9A%E6%9D%A5%E6%B1%BD%E8%BD%A6%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%80%92%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [金融圈炸锅！百亿私募卷钱跑路？](https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E5%9C%88%E7%82%B8%E9%94%85%EF%BC%81%E7%99%BE%E4%BA%BF%E7%A7%81%E5%8B%9F%E5%8D%B7%E9%92%B1%E8%B7%91%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [冲锋衣销量猛涨](https://www.baidu.com/s?wd=%E5%86%B2%E9%94%8B%E8%A1%A3%E9%94%80%E9%87%8F%E7%8C%9B%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [阿里辟谣“裁员25000人”](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%A3%81%E5%91%9825000%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
