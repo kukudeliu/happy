@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 15:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 15:35:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [江西抚州一多层楼房垮塌 有人员被困](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E6%8A%9A%E5%B7%9E%E4%B8%80%E5%A4%9A%E5%B1%82%E6%A5%BC%E6%88%BF%E5%9E%AE%E5%A1%8C+%E6%9C%89%E4%BA%BA%E5%91%98%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子9年花费近27万吃海底捞](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%909%E5%B9%B4%E8%8A%B1%E8%B4%B9%E8%BF%9127%E4%B8%87%E5%90%83%E6%B5%B7%E5%BA%95%E6%8D%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川考古发现：确认苏东坡家族墓地](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%80%83%E5%8F%A4%E5%8F%91%E7%8E%B0%EF%BC%9A%E7%A1%AE%E8%AE%A4%E8%8B%8F%E4%B8%9C%E5%9D%A1%E5%AE%B6%E6%97%8F%E5%A2%93%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [程序员失恋后1年花10万买刮刮乐](https://www.baidu.com/s?wd=%E7%A8%8B%E5%BA%8F%E5%91%98%E5%A4%B1%E6%81%8B%E5%90%8E1%E5%B9%B4%E8%8A%B110%E4%B8%87%E4%B9%B0%E5%88%AE%E5%88%AE%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡歌刘涛争论用完的手纸是否带走](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%88%98%E6%B6%9B%E4%BA%89%E8%AE%BA%E7%94%A8%E5%AE%8C%E7%9A%84%E6%89%8B%E7%BA%B8%E6%98%AF%E5%90%A6%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一学校出现校园欺凌？假的](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%87%BA%E7%8E%B0%E6%A0%A1%E5%9B%AD%E6%AC%BA%E5%87%8C%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [江西抚州一多层楼房垮塌 有人员被困](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E6%8A%9A%E5%B7%9E%E4%B8%80%E5%A4%9A%E5%B1%82%E6%A5%BC%E6%88%BF%E5%9E%AE%E5%A1%8C+%E6%9C%89%E4%BA%BA%E5%91%98%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子9年花费近27万吃海底捞](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%909%E5%B9%B4%E8%8A%B1%E8%B4%B9%E8%BF%9127%E4%B8%87%E5%90%83%E6%B5%B7%E5%BA%95%E6%8D%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川考古发现：确认苏东坡家族墓地](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%80%83%E5%8F%A4%E5%8F%91%E7%8E%B0%EF%BC%9A%E7%A1%AE%E8%AE%A4%E8%8B%8F%E4%B8%9C%E5%9D%A1%E5%AE%B6%E6%97%8F%E5%A2%93%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [程序员失恋后1年花10万买刮刮乐](https://www.baidu.com/s?wd=%E7%A8%8B%E5%BA%8F%E5%91%98%E5%A4%B1%E6%81%8B%E5%90%8E1%E5%B9%B4%E8%8A%B110%E4%B8%87%E4%B9%B0%E5%88%AE%E5%88%AE%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡歌刘涛争论用完的手纸是否带走](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%88%98%E6%B6%9B%E4%BA%89%E8%AE%BA%E7%94%A8%E5%AE%8C%E7%9A%84%E6%89%8B%E7%BA%B8%E6%98%AF%E5%90%A6%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一学校出现校园欺凌？假的](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%87%BA%E7%8E%B0%E6%A0%A1%E5%9B%AD%E6%AC%BA%E5%87%8C%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
