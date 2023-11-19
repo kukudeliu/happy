@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 19:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 19:56:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Zeus获FMVP](https://s.weibo.com/weibo?q=%23Zeus%E8%8E%B7FMVP%23&t=31&band_rank=6&Refer=top)<br />
 7. [残疾大哥请吃面小伙悄悄把钱塞相框里](https://s.weibo.com/weibo?q=%23%E6%AE%8B%E7%96%BE%E5%A4%A7%E5%93%A5%E8%AF%B7%E5%90%83%E9%9D%A2%E5%B0%8F%E4%BC%99%E6%82%84%E6%82%84%E6%8A%8A%E9%92%B1%E5%A1%9E%E7%9B%B8%E6%A1%86%E9%87%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [六公主回应我本是高山争议](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E5%9B%9E%E5%BA%94%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E4%BA%89%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [EDG剧本](https://s.weibo.com/weibo?q=EDG%E5%89%A7%E6%9C%AC&t=31&band_rank=9&Refer=top)<br />
+9. [TheShy 一血率](https://s.weibo.com/weibo?q=TheShy%20%E4%B8%80%E8%A1%80%E7%8E%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
