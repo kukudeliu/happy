@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 13:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 13:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [纣王 姬发想要我的逆子](https://s.weibo.com/weibo?q=%E7%BA%A3%E7%8E%8B%20%E5%A7%AC%E5%8F%91%E6%83%B3%E8%A6%81%E6%88%91%E7%9A%84%E9%80%86%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
 7. [WBG 我们每个人都有不得不赢的理由](https://s.weibo.com/weibo?q=WBG%20%E6%88%91%E4%BB%AC%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%9C%89%E4%B8%8D%E5%BE%97%E4%B8%8D%E8%B5%A2%E7%9A%84%E7%90%86%E7%94%B1&t=31&band_rank=7&Refer=top)<br />
 8. [税务师 计算器快按冒烟了](https://s.weibo.com/weibo?q=%E7%A8%8E%E5%8A%A1%E5%B8%88%20%E8%AE%A1%E7%AE%97%E5%99%A8%E5%BF%AB%E6%8C%89%E5%86%92%E7%83%9F%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [中国渔船在日本海域倾覆致5人失踪](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%B5%B7%E5%9F%9F%E5%80%BE%E8%A6%86%E8%87%B45%E4%BA%BA%E5%A4%B1%E8%B8%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [女子花1.8万买衣服一年不发货不退款](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B11.8%E4%B8%87%E4%B9%B0%E8%A1%A3%E6%9C%8D%E4%B8%80%E5%B9%B4%E4%B8%8D%E5%8F%91%E8%B4%A7%E4%B8%8D%E9%80%80%E6%AC%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
