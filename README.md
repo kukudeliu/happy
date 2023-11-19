@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 08:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 08:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [胡夏请来了那些年一起追过的沈佳宜](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%A4%8F%E8%AF%B7%E6%9D%A5%E4%BA%86%E9%82%A3%E4%BA%9B%E5%B9%B4%E4%B8%80%E8%B5%B7%E8%BF%BD%E8%BF%87%E7%9A%84%E6%B2%88%E4%BD%B3%E5%AE%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [班上唯一认真听课的同学被抓走了](https://s.weibo.com/weibo?q=%E7%8F%AD%E4%B8%8A%E5%94%AF%E4%B8%80%E8%AE%A4%E7%9C%9F%E5%90%AC%E8%AF%BE%E7%9A%84%E5%90%8C%E5%AD%A6%E8%A2%AB%E6%8A%93%E8%B5%B0%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [听说去澳门只需要带两根手指头](https://s.weibo.com/weibo?q=%E5%90%AC%E8%AF%B4%E5%8E%BB%E6%BE%B3%E9%97%A8%E5%8F%AA%E9%9C%80%E8%A6%81%E5%B8%A6%E4%B8%A4%E6%A0%B9%E6%89%8B%E6%8C%87%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
-8. [法国14比0直布罗陀](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD14%E6%AF%940%E7%9B%B4%E5%B8%83%E7%BD%97%E9%99%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [鲁迅孙子自称90%刷视频10%看书](https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%E8%87%AA%E7%A7%B090%25%E5%88%B7%E8%A7%86%E9%A2%9110%25%E7%9C%8B%E4%B9%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [鲁迅孙子自称90%刷视频10%看书](https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%E8%87%AA%E7%A7%B090%25%E5%88%B7%E8%A7%86%E9%A2%9110%25%E7%9C%8B%E4%B9%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [法国14比0直布罗陀](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD14%E6%AF%940%E7%9B%B4%E5%B8%83%E7%BD%97%E9%99%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
