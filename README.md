@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 19:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 19:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Zeus获FMVP](https://s.weibo.com/weibo?q=%23Zeus%E8%8E%B7FMVP%23&t=31&band_rank=6&Refer=top)<br />
 7. [残疾大哥请吃面小伙悄悄把钱塞相框里](https://s.weibo.com/weibo?q=%23%E6%AE%8B%E7%96%BE%E5%A4%A7%E5%93%A5%E8%AF%B7%E5%90%83%E9%9D%A2%E5%B0%8F%E4%BC%99%E6%82%84%E6%82%84%E6%8A%8A%E9%92%B1%E5%A1%9E%E7%9B%B8%E6%A1%86%E9%87%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [EDG剧本](https://s.weibo.com/weibo?q=EDG%E5%89%A7%E6%9C%AC&t=31&band_rank=8&Refer=top)<br />
-9. [BLG 已放假](https://s.weibo.com/weibo?q=BLG%20%E5%B7%B2%E6%94%BE%E5%81%87&t=31&band_rank=9&Refer=top)<br />
+9. [Faker S13数据](https://s.weibo.com/weibo?q=Faker%20S13%E6%95%B0%E6%8D%AE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [多措并举保障今冬明春供暖季](https://www.baidu.com/s?wd=%E5%A4%9A%E6%8E%AA%E5%B9%B6%E4%B8%BE%E4%BF%9D%E9%9A%9C%E4%BB%8A%E5%86%AC%E6%98%8E%E6%98%A5%E4%BE%9B%E6%9A%96%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [秦岚 情绪稳定的东北粮仓](https://www.baidu.com/s?wd=%E7%A7%A6%E5%B2%9A+%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E4%B8%9C%E5%8C%97%E7%B2%AE%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子偷功德箱的钱称菩萨给我比了OK](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E5%8A%9F%E5%BE%B7%E7%AE%B1%E7%9A%84%E9%92%B1%E7%A7%B0%E8%8F%A9%E8%90%A8%E7%BB%99%E6%88%91%E6%AF%94%E4%BA%86OK&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [燃油车在中国彻底没戏了？](https://www.baidu.com/s?wd=%E7%87%83%E6%B2%B9%E8%BD%A6%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%BD%BB%E5%BA%95%E6%B2%A1%E6%88%8F%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国手机年出口量比巅峰期少5亿部](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%B9%B4%E5%87%BA%E5%8F%A3%E9%87%8F%E6%AF%94%E5%B7%85%E5%B3%B0%E6%9C%9F%E5%B0%915%E4%BA%BF%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子偷功德箱的钱称菩萨给我比了OK](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E5%8A%9F%E5%BE%B7%E7%AE%B1%E7%9A%84%E9%92%B1%E7%A7%B0%E8%8F%A9%E8%90%A8%E7%BB%99%E6%88%91%E6%AF%94%E4%BA%86OK&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣青岛发生打人事件](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%9D%92%E5%B2%9B%E5%8F%91%E7%94%9F%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [多措并举保障今冬明春供暖季](https://www.baidu.com/s?wd=%E5%A4%9A%E6%8E%AA%E5%B9%B6%E4%B8%BE%E4%BF%9D%E9%9A%9C%E4%BB%8A%E5%86%AC%E6%98%8E%E6%98%A5%E4%BE%9B%E6%9A%96%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [秦岚 情绪稳定的东北粮仓](https://www.baidu.com/s?wd=%E7%A7%A6%E5%B2%9A+%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E4%B8%9C%E5%8C%97%E7%B2%AE%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子偷功德箱的钱称菩萨给我比了OK](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E5%8A%9F%E5%BE%B7%E7%AE%B1%E7%9A%84%E9%92%B1%E7%A7%B0%E8%8F%A9%E8%90%A8%E7%BB%99%E6%88%91%E6%AF%94%E4%BA%86OK&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [燃油车在中国彻底没戏了？](https://www.baidu.com/s?wd=%E7%87%83%E6%B2%B9%E8%BD%A6%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%BD%BB%E5%BA%95%E6%B2%A1%E6%88%8F%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国手机年出口量比巅峰期少5亿部](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%B9%B4%E5%87%BA%E5%8F%A3%E9%87%8F%E6%AF%94%E5%B7%85%E5%B3%B0%E6%9C%9F%E5%B0%915%E4%BA%BF%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子偷功德箱的钱称菩萨给我比了OK](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E5%8A%9F%E5%BE%B7%E7%AE%B1%E7%9A%84%E9%92%B1%E7%A7%B0%E8%8F%A9%E8%90%A8%E7%BB%99%E6%88%91%E6%AF%94%E4%BA%86OK&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣青岛发生打人事件](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%9D%92%E5%B2%9B%E5%8F%91%E7%94%9F%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
