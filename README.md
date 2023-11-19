@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 18:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 18:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [S13总决赛 比分预测](https://s.weibo.com/weibo?q=S13%E6%80%BB%E5%86%B3%E8%B5%9B%20%E6%AF%94%E5%88%86%E9%A2%84%E6%B5%8B&t=31&band_rank=6&Refer=top)<br />
 7. [残疾大哥请吃面小伙悄悄把钱塞相框里](https://s.weibo.com/weibo?q=%23%E6%AE%8B%E7%96%BE%E5%A4%A7%E5%93%A5%E8%AF%B7%E5%90%83%E9%9D%A2%E5%B0%8F%E4%BC%99%E6%82%84%E6%82%84%E6%8A%8A%E9%92%B1%E5%A1%9E%E7%9B%B8%E6%A1%86%E9%87%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [别被零封](https://s.weibo.com/weibo?q=%E5%88%AB%E8%A2%AB%E9%9B%B6%E5%B0%81&t=31&band_rank=8&Refer=top)<br />
-9. [张桂梅老师学生评价我本是高山](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%80%81%E5%B8%88%E5%AD%A6%E7%94%9F%E8%AF%84%E4%BB%B7%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%23&t=31&band_rank=9&Refer=top)<br />
+9. [郭艾伦吐槽以爱为营剧情](https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E5%90%90%E6%A7%BD%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%89%A7%E6%83%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
