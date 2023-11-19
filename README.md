@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 18:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 18:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李佳航 赢了网吧包宿](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E8%88%AA%20%E8%B5%A2%E4%BA%86%E7%BD%91%E5%90%A7%E5%8C%85%E5%AE%BF&t=31&band_rank=6&Refer=top)<br />
 7. [残疾大哥请吃面小伙悄悄把钱塞相框里](https://s.weibo.com/weibo?q=%23%E6%AE%8B%E7%96%BE%E5%A4%A7%E5%93%A5%E8%AF%B7%E5%90%83%E9%9D%A2%E5%B0%8F%E4%BC%99%E6%82%84%E6%82%84%E6%8A%8A%E9%92%B1%E5%A1%9E%E7%9B%B8%E6%A1%86%E9%87%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [英雄联盟单曲PARANOIA](https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%8D%95%E6%9B%B2PARANOIA&t=31&band_rank=8&Refer=top)<br />
-9. [张杰喝多了在地上蛙泳](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%96%9D%E5%A4%9A%E4%BA%86%E5%9C%A8%E5%9C%B0%E4%B8%8A%E8%9B%99%E6%B3%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [S13总决赛 比分预测](https://s.weibo.com/weibo?q=S13%E6%80%BB%E5%86%B3%E8%B5%9B%20%E6%AF%94%E5%88%86%E9%A2%84%E6%B5%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
