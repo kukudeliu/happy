@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 11:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 11:26:01</h4></div>
 
 > 微博  
 
@@ -19,9 +19,9 @@
 
 1. [打造亚太下一个黄金三十年](https://www.baidu.com/s?wd=%E6%89%93%E9%80%A0%E4%BA%9A%E5%A4%AA%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%BB%84%E9%87%91%E4%B8%89%E5%8D%81%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [火灾2天后 山西省委集体观看教育片](https://www.baidu.com/s?wd=%E7%81%AB%E7%81%BE2%E5%A4%A9%E5%90%8E+%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A7%94%E9%9B%86%E4%BD%93%E8%A7%82%E7%9C%8B%E6%95%99%E8%82%B2%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [人一生在厕所时间累计超过1.5年](https://www.baidu.com/s?wd=%E4%BA%BA%E4%B8%80%E7%94%9F%E5%9C%A8%E5%8E%95%E6%89%80%E6%97%B6%E9%97%B4%E7%B4%AF%E8%AE%A1%E8%B6%85%E8%BF%871.5%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [每年体检38岁男子确诊“癌王”晚期](https://www.baidu.com/s?wd=%E6%AF%8F%E5%B9%B4%E4%BD%93%E6%A3%8038%E5%B2%81%E7%94%B7%E5%AD%90%E7%A1%AE%E8%AF%8A%E2%80%9C%E7%99%8C%E7%8E%8B%E2%80%9D%E6%99%9A%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一图看懂如何防治冬季呼吸道疾病](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%E5%A6%82%E4%BD%95%E9%98%B2%E6%B2%BB%E5%86%AC%E5%AD%A3%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [每年体检38岁男子确诊“癌王”晚期](https://www.baidu.com/s?wd=%E6%AF%8F%E5%B9%B4%E4%BD%93%E6%A3%8038%E5%B2%81%E7%94%B7%E5%AD%90%E7%A1%AE%E8%AF%8A%E2%80%9C%E7%99%8C%E7%8E%8B%E2%80%9D%E6%99%9A%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [东北公交车内下雪乘客淡定乘坐](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%86%85%E4%B8%8B%E9%9B%AA%E4%B9%98%E5%AE%A2%E6%B7%A1%E5%AE%9A%E4%B9%98%E5%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [研究生夸大杜撰个人事迹 被留校察看](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%A4%B8%E5%A4%A7%E6%9D%9C%E6%92%B0%E4%B8%AA%E4%BA%BA%E4%BA%8B%E8%BF%B9+%E8%A2%AB%E7%95%99%E6%A0%A1%E5%AF%9F%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女童横店当童漂4个月赚250元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E6%A8%AA%E5%BA%97%E5%BD%93%E7%AB%A5%E6%BC%824%E4%B8%AA%E6%9C%88%E8%B5%9A250%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [原来普通话是河北方言](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E6%99%AE%E9%80%9A%E8%AF%9D%E6%98%AF%E6%B2%B3%E5%8C%97%E6%96%B9%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,9 +31,9 @@
 
 1. [打造亚太下一个黄金三十年](https://www.baidu.com/s?wd=%E6%89%93%E9%80%A0%E4%BA%9A%E5%A4%AA%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%BB%84%E9%87%91%E4%B8%89%E5%8D%81%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [火灾2天后 山西省委集体观看教育片](https://www.baidu.com/s?wd=%E7%81%AB%E7%81%BE2%E5%A4%A9%E5%90%8E+%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A7%94%E9%9B%86%E4%BD%93%E8%A7%82%E7%9C%8B%E6%95%99%E8%82%B2%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [人一生在厕所时间累计超过1.5年](https://www.baidu.com/s?wd=%E4%BA%BA%E4%B8%80%E7%94%9F%E5%9C%A8%E5%8E%95%E6%89%80%E6%97%B6%E9%97%B4%E7%B4%AF%E8%AE%A1%E8%B6%85%E8%BF%871.5%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [每年体检38岁男子确诊“癌王”晚期](https://www.baidu.com/s?wd=%E6%AF%8F%E5%B9%B4%E4%BD%93%E6%A3%8038%E5%B2%81%E7%94%B7%E5%AD%90%E7%A1%AE%E8%AF%8A%E2%80%9C%E7%99%8C%E7%8E%8B%E2%80%9D%E6%99%9A%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一图看懂如何防治冬季呼吸道疾病](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%E5%A6%82%E4%BD%95%E9%98%B2%E6%B2%BB%E5%86%AC%E5%AD%A3%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [每年体检38岁男子确诊“癌王”晚期](https://www.baidu.com/s?wd=%E6%AF%8F%E5%B9%B4%E4%BD%93%E6%A3%8038%E5%B2%81%E7%94%B7%E5%AD%90%E7%A1%AE%E8%AF%8A%E2%80%9C%E7%99%8C%E7%8E%8B%E2%80%9D%E6%99%9A%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [东北公交车内下雪乘客淡定乘坐](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%86%85%E4%B8%8B%E9%9B%AA%E4%B9%98%E5%AE%A2%E6%B7%A1%E5%AE%9A%E4%B9%98%E5%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [研究生夸大杜撰个人事迹 被留校察看](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%A4%B8%E5%A4%A7%E6%9D%9C%E6%92%B0%E4%B8%AA%E4%BA%BA%E4%BA%8B%E8%BF%B9+%E8%A2%AB%E7%95%99%E6%A0%A1%E5%AF%9F%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女童横店当童漂4个月赚250元](https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E6%A8%AA%E5%BA%97%E5%BD%93%E7%AB%A5%E6%BC%824%E4%B8%AA%E6%9C%88%E8%B5%9A250%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [原来普通话是河北方言](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E6%99%AE%E9%80%9A%E8%AF%9D%E6%98%AF%E6%B2%B3%E5%8C%97%E6%96%B9%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
