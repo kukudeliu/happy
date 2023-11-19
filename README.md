@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 01:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 01:24:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [27岁研究生离世前一天发文感恩感谢](https://www.baidu.com/s?wd=27%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [一座县城的“编外困局”](https://www.baidu.com/s?wd=%E4%B8%80%E5%BA%A7%E5%8E%BF%E5%9F%8E%E7%9A%84%E2%80%9C%E7%BC%96%E5%A4%96%E5%9B%B0%E5%B1%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [学校期中给3000名学生发甘蔗鲤鱼](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E6%9C%9F%E4%B8%AD%E7%BB%993000%E5%90%8D%E5%AD%A6%E7%94%9F%E5%8F%91%E7%94%98%E8%94%97%E9%B2%A4%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [警方提醒捡到这样的卡速销毁](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%8F%90%E9%86%92%E6%8D%A1%E5%88%B0%E8%BF%99%E6%A0%B7%E7%9A%84%E5%8D%A1%E9%80%9F%E9%94%80%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [收费了20年 陕西国道两个收费站被拆](https://www.baidu.com/s?wd=%E6%94%B6%E8%B4%B9%E4%BA%8620%E5%B9%B4+%E9%99%95%E8%A5%BF%E5%9B%BD%E9%81%93%E4%B8%A4%E4%B8%AA%E6%94%B6%E8%B4%B9%E7%AB%99%E8%A2%AB%E6%8B%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [阿里辟谣“裁员25000人”](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%A3%81%E5%91%9825000%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [27岁研究生离世前一天发文感恩感谢](https://www.baidu.com/s?wd=27%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [一座县城的“编外困局”](https://www.baidu.com/s?wd=%E4%B8%80%E5%BA%A7%E5%8E%BF%E5%9F%8E%E7%9A%84%E2%80%9C%E7%BC%96%E5%A4%96%E5%9B%B0%E5%B1%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [学校期中给3000名学生发甘蔗鲤鱼](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E6%9C%9F%E4%B8%AD%E7%BB%993000%E5%90%8D%E5%AD%A6%E7%94%9F%E5%8F%91%E7%94%98%E8%94%97%E9%B2%A4%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [警方提醒捡到这样的卡速销毁](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%8F%90%E9%86%92%E6%8D%A1%E5%88%B0%E8%BF%99%E6%A0%B7%E7%9A%84%E5%8D%A1%E9%80%9F%E9%94%80%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [收费了20年 陕西国道两个收费站被拆](https://www.baidu.com/s?wd=%E6%94%B6%E8%B4%B9%E4%BA%8620%E5%B9%B4+%E9%99%95%E8%A5%BF%E5%9B%BD%E9%81%93%E4%B8%A4%E4%B8%AA%E6%94%B6%E8%B4%B9%E7%AB%99%E8%A2%AB%E6%8B%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [阿里辟谣“裁员25000人”](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%A3%81%E5%91%9825000%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
