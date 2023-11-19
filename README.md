@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 21:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 21:02:01</h4></div>
 
 > 微博  
 
@@ -18,10 +18,10 @@
 > 百度  
 
 1. [携手共促亚太高质量增长](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E5%85%B1%E4%BF%83%E4%BA%9A%E5%A4%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [去年中国初婚人数低于1100万](https://www.baidu.com/s?wd=%E5%8E%BB%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%88%9D%E5%A9%9A%E4%BA%BA%E6%95%B0%E4%BD%8E%E4%BA%8E1100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [S13总决赛T1横扫WBG登顶](https://www.baidu.com/s?wd=S13%E6%80%BB%E5%86%B3%E8%B5%9BT1%E6%A8%AA%E6%89%ABWBG%E7%99%BB%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [S13总决赛T1横扫WBG登顶](https://www.baidu.com/s?wd=S13%E6%80%BB%E5%86%B3%E8%B5%9BT1%E6%A8%AA%E6%89%ABWBG%E7%99%BB%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [网传张桂梅学生评价我本是高山](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%BC%A0%E6%A1%82%E6%A2%85%E5%AD%A6%E7%94%9F%E8%AF%84%E4%BB%B7%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多措并举保障今冬明春供暖季](https://www.baidu.com/s?wd=%E5%A4%9A%E6%8E%AA%E5%B9%B6%E4%B8%BE%E4%BF%9D%E9%9A%9C%E4%BB%8A%E5%86%AC%E6%98%8E%E6%98%A5%E4%BE%9B%E6%9A%96%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [网传张桂梅学生评价我本是高山](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%BC%A0%E6%A1%82%E6%A2%85%E5%AD%A6%E7%94%9F%E8%AF%84%E4%BB%B7%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [天津助学金事件当事人称已申请休学](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%8A%A9%E5%AD%A6%E9%87%91%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E5%B7%B2%E7%94%B3%E8%AF%B7%E4%BC%91%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国手机年出口量比巅峰期少5亿部](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%B9%B4%E5%87%BA%E5%8F%A3%E9%87%8F%E6%AF%94%E5%B7%85%E5%B3%B0%E6%9C%9F%E5%B0%915%E4%BA%BF%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [警方曝光40名滞留境外涉诈人员照片](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%9B%9D%E5%85%8940%E5%90%8D%E6%BB%9E%E7%95%99%E5%A2%83%E5%A4%96%E6%B6%89%E8%AF%88%E4%BA%BA%E5%91%98%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [内蒙网友互换特产开1700公里送活羊](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E7%BD%91%E5%8F%8B%E4%BA%92%E6%8D%A2%E7%89%B9%E4%BA%A7%E5%BC%801700%E5%85%AC%E9%87%8C%E9%80%81%E6%B4%BB%E7%BE%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,10 +30,10 @@
 > 哔哩哔哩  
 
 1. [携手共促亚太高质量增长](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E5%85%B1%E4%BF%83%E4%BA%9A%E5%A4%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [去年中国初婚人数低于1100万](https://www.baidu.com/s?wd=%E5%8E%BB%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%88%9D%E5%A9%9A%E4%BA%BA%E6%95%B0%E4%BD%8E%E4%BA%8E1100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [S13总决赛T1横扫WBG登顶](https://www.baidu.com/s?wd=S13%E6%80%BB%E5%86%B3%E8%B5%9BT1%E6%A8%AA%E6%89%ABWBG%E7%99%BB%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [S13总决赛T1横扫WBG登顶](https://www.baidu.com/s?wd=S13%E6%80%BB%E5%86%B3%E8%B5%9BT1%E6%A8%AA%E6%89%ABWBG%E7%99%BB%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [网传张桂梅学生评价我本是高山](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%BC%A0%E6%A1%82%E6%A2%85%E5%AD%A6%E7%94%9F%E8%AF%84%E4%BB%B7%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多措并举保障今冬明春供暖季](https://www.baidu.com/s?wd=%E5%A4%9A%E6%8E%AA%E5%B9%B6%E4%B8%BE%E4%BF%9D%E9%9A%9C%E4%BB%8A%E5%86%AC%E6%98%8E%E6%98%A5%E4%BE%9B%E6%9A%96%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [网传张桂梅学生评价我本是高山](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%BC%A0%E6%A1%82%E6%A2%85%E5%AD%A6%E7%94%9F%E8%AF%84%E4%BB%B7%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [天津助学金事件当事人称已申请休学](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%8A%A9%E5%AD%A6%E9%87%91%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E5%B7%B2%E7%94%B3%E8%AF%B7%E4%BC%91%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国手机年出口量比巅峰期少5亿部](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%B9%B4%E5%87%BA%E5%8F%A3%E9%87%8F%E6%AF%94%E5%B7%85%E5%B3%B0%E6%9C%9F%E5%B0%915%E4%BA%BF%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [警方曝光40名滞留境外涉诈人员照片](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%9B%9D%E5%85%8940%E5%90%8D%E6%BB%9E%E7%95%99%E5%A2%83%E5%A4%96%E6%B6%89%E8%AF%88%E4%BA%BA%E5%91%98%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [内蒙网友互换特产开1700公里送活羊](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E7%BD%91%E5%8F%8B%E4%BA%92%E6%8D%A2%E7%89%B9%E4%BA%A7%E5%BC%801700%E5%85%AC%E9%87%8C%E9%80%81%E6%B4%BB%E7%BE%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
