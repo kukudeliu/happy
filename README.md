@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 16:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 16:39:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [六公主回应我本是高山争议](https://www.baidu.com/s?wd=%E5%85%AD%E5%85%AC%E4%B8%BB%E5%9B%9E%E5%BA%94%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多措并举保障今冬明春供暖季](https://www.baidu.com/s?wd=%E5%A4%9A%E6%8E%AA%E5%B9%B6%E4%B8%BE%E4%BF%9D%E9%9A%9C%E4%BB%8A%E5%86%AC%E6%98%8E%E6%98%A5%E4%BE%9B%E6%9A%96%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [6岁女孩在横店当童漂4个月赚250元](https://www.baidu.com/s?wd=6%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9C%A8%E6%A8%AA%E5%BA%97%E5%BD%93%E7%AB%A5%E6%BC%824%E4%B8%AA%E6%9C%88%E8%B5%9A250%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [曾被中国逮捕的2个间谍闹内讧了](https://www.baidu.com/s?wd=%E6%9B%BE%E8%A2%AB%E4%B8%AD%E5%9B%BD%E9%80%AE%E6%8D%95%E7%9A%842%E4%B8%AA%E9%97%B4%E8%B0%8D%E9%97%B9%E5%86%85%E8%AE%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [火灾2天后 山西省委集体观看教育片](https://www.baidu.com/s?wd=%E7%81%AB%E7%81%BE2%E5%A4%A9%E5%90%8E+%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A7%94%E9%9B%86%E4%BD%93%E8%A7%82%E7%9C%8B%E6%95%99%E8%82%B2%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子丢30万手机女子捡到以为老年机](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%A230%E4%B8%87%E6%89%8B%E6%9C%BA%E5%A5%B3%E5%AD%90%E6%8D%A1%E5%88%B0%E4%BB%A5%E4%B8%BA%E8%80%81%E5%B9%B4%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [燃油车在中国彻底没戏了？](https://www.baidu.com/s?wd=%E7%87%83%E6%B2%B9%E8%BD%A6%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%BD%BB%E5%BA%95%E6%B2%A1%E6%88%8F%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [曾被中国逮捕的2个间谍闹内讧了](https://www.baidu.com/s?wd=%E6%9B%BE%E8%A2%AB%E4%B8%AD%E5%9B%BD%E9%80%AE%E6%8D%95%E7%9A%842%E4%B8%AA%E9%97%B4%E8%B0%8D%E9%97%B9%E5%86%85%E8%AE%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [英雄联盟S13总决赛](https://www.baidu.com/s?wd=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS13%E6%80%BB%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一学校出现校园欺凌？假的](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%87%BA%E7%8E%B0%E6%A0%A1%E5%9B%AD%E6%AC%BA%E5%87%8C%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [六公主回应我本是高山争议](https://www.baidu.com/s?wd=%E5%85%AD%E5%85%AC%E4%B8%BB%E5%9B%9E%E5%BA%94%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多措并举保障今冬明春供暖季](https://www.baidu.com/s?wd=%E5%A4%9A%E6%8E%AA%E5%B9%B6%E4%B8%BE%E4%BF%9D%E9%9A%9C%E4%BB%8A%E5%86%AC%E6%98%8E%E6%98%A5%E4%BE%9B%E6%9A%96%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [6岁女孩在横店当童漂4个月赚250元](https://www.baidu.com/s?wd=6%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9C%A8%E6%A8%AA%E5%BA%97%E5%BD%93%E7%AB%A5%E6%BC%824%E4%B8%AA%E6%9C%88%E8%B5%9A250%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [曾被中国逮捕的2个间谍闹内讧了](https://www.baidu.com/s?wd=%E6%9B%BE%E8%A2%AB%E4%B8%AD%E5%9B%BD%E9%80%AE%E6%8D%95%E7%9A%842%E4%B8%AA%E9%97%B4%E8%B0%8D%E9%97%B9%E5%86%85%E8%AE%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [火灾2天后 山西省委集体观看教育片](https://www.baidu.com/s?wd=%E7%81%AB%E7%81%BE2%E5%A4%A9%E5%90%8E+%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A7%94%E9%9B%86%E4%BD%93%E8%A7%82%E7%9C%8B%E6%95%99%E8%82%B2%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子丢30万手机女子捡到以为老年机](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%A230%E4%B8%87%E6%89%8B%E6%9C%BA%E5%A5%B3%E5%AD%90%E6%8D%A1%E5%88%B0%E4%BB%A5%E4%B8%BA%E8%80%81%E5%B9%B4%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [燃油车在中国彻底没戏了？](https://www.baidu.com/s?wd=%E7%87%83%E6%B2%B9%E8%BD%A6%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%BD%BB%E5%BA%95%E6%B2%A1%E6%88%8F%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [曾被中国逮捕的2个间谍闹内讧了](https://www.baidu.com/s?wd=%E6%9B%BE%E8%A2%AB%E4%B8%AD%E5%9B%BD%E9%80%AE%E6%8D%95%E7%9A%842%E4%B8%AA%E9%97%B4%E8%B0%8D%E9%97%B9%E5%86%85%E8%AE%A7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [英雄联盟S13总决赛](https://www.baidu.com/s?wd=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS13%E6%80%BB%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一学校出现校园欺凌？假的](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%87%BA%E7%8E%B0%E6%A0%A1%E5%9B%AD%E6%AC%BA%E5%87%8C%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
