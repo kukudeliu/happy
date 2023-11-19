@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 06:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 06:39:01</h4></div>
 
 > 微博  
 
 1. [吴迪飞退圈](https://s.weibo.com/weibo?q=%E5%90%B4%E8%BF%AA%E9%A3%9E%E9%80%80%E5%9C%88&t=31&band_rank=1&Refer=top)<br />
-2. [终于有只搞事业不谈恋爱的剧了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E5%8F%AA%E6%90%9E%E4%BA%8B%E4%B8%9A%E4%B8%8D%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%E5%89%A7%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+2. [27岁研究生离世前一天发文感恩感谢](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2%23&t=31&band_rank=2&Refer=top)<br />
 3. [诗词藏着中国山水间的绝美景致](https://s.weibo.com/weibo?q=%23%E8%AF%97%E8%AF%8D%E8%97%8F%E7%9D%80%E4%B8%AD%E5%9B%BD%E5%B1%B1%E6%B0%B4%E9%97%B4%E7%9A%84%E7%BB%9D%E7%BE%8E%E6%99%AF%E8%87%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [内娱史上最炸裂的6分32秒谈话](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%82%B8%E8%A3%82%E7%9A%846%E5%88%8632%E7%A7%92%E8%B0%88%E8%AF%9D%23&t=31&band_rank=4&Refer=top)<br />
-5. [27岁研究生离世前一天发文感恩感谢](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2%23&t=31&band_rank=5&Refer=top)<br />
+5. [终于有只搞事业不谈恋爱的剧了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E5%8F%AA%E6%90%9E%E4%BA%8B%E4%B8%9A%E4%B8%8D%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%E5%89%A7%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [去年我国初婚人数低于1100万](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%B9%B4%E6%88%91%E5%9B%BD%E5%88%9D%E5%A9%9A%E4%BA%BA%E6%95%B0%E4%BD%8E%E4%BA%8E1100%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [郭艾伦吐槽以爱为营剧情](https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E5%90%90%E6%A7%BD%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%89%A7%E6%83%85%23&t=31&band_rank=7&Refer=top)<br />
 8. [捡了一只混15种基因的小狗](https://s.weibo.com/weibo?q=%E6%8D%A1%E4%BA%86%E4%B8%80%E5%8F%AA%E6%B7%B715%E7%A7%8D%E5%9F%BA%E5%9B%A0%E7%9A%84%E5%B0%8F%E7%8B%97&t=31&band_rank=8&Refer=top)<br />
@@ -23,8 +23,8 @@
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [冲锋衣销量猛涨](https://www.baidu.com/s?wd=%E5%86%B2%E9%94%8B%E8%A1%A3%E9%94%80%E9%87%8F%E7%8C%9B%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [燃油车在中国彻底没戏了？](https://www.baidu.com/s?wd=%E7%87%83%E6%B2%B9%E8%BD%A6%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%BD%BB%E5%BA%95%E6%B2%A1%E6%88%8F%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子丢30万手机女子捡到以为老年机](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%A230%E4%B8%87%E6%89%8B%E6%9C%BA%E5%A5%B3%E5%AD%90%E6%8D%A1%E5%88%B0%E4%BB%A5%E4%B8%BA%E8%80%81%E5%B9%B4%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [冲锋衣销量猛涨](https://www.baidu.com/s?wd=%E5%86%B2%E9%94%8B%E8%A1%A3%E9%94%80%E9%87%8F%E7%8C%9B%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [阿里辟谣“裁员25000人”](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%A3%81%E5%91%9825000%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [冲锋衣销量猛涨](https://www.baidu.com/s?wd=%E5%86%B2%E9%94%8B%E8%A1%A3%E9%94%80%E9%87%8F%E7%8C%9B%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [燃油车在中国彻底没戏了？](https://www.baidu.com/s?wd=%E7%87%83%E6%B2%B9%E8%BD%A6%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%BD%BB%E5%BA%95%E6%B2%A1%E6%88%8F%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子丢30万手机女子捡到以为老年机](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%A230%E4%B8%87%E6%89%8B%E6%9C%BA%E5%A5%B3%E5%AD%90%E6%8D%A1%E5%88%B0%E4%BB%A5%E4%B8%BA%E8%80%81%E5%B9%B4%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [冲锋衣销量猛涨](https://www.baidu.com/s?wd=%E5%86%B2%E9%94%8B%E8%A1%A3%E9%94%80%E9%87%8F%E7%8C%9B%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [阿里辟谣“裁员25000人”](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%A3%81%E5%91%9825000%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
