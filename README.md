@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 09:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 09:28:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女子花1.8万买衣服一年不发货不退款](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B11.8%E4%B8%87%E4%B9%B0%E8%A1%A3%E6%9C%8D%E4%B8%80%E5%B9%B4%E4%B8%8D%E5%8F%91%E8%B4%A7%E4%B8%8D%E9%80%80%E6%AC%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [胡夏请来了那些年一起追过的沈佳宜](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%A4%8F%E8%AF%B7%E6%9D%A5%E4%BA%86%E9%82%A3%E4%BA%9B%E5%B9%B4%E4%B8%80%E8%B5%B7%E8%BF%BD%E8%BF%87%E7%9A%84%E6%B2%88%E4%BD%B3%E5%AE%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [鲁迅孙子自称90%刷视频10%看书](https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%BF%85%E5%AD%99%E5%AD%90%E8%87%AA%E7%A7%B090%25%E5%88%B7%E8%A7%86%E9%A2%9110%25%E7%9C%8B%E4%B9%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [班上唯一认真听课的同学被抓走了](https://s.weibo.com/weibo?q=%E7%8F%AD%E4%B8%8A%E5%94%AF%E4%B8%80%E8%AE%A4%E7%9C%9F%E5%90%AC%E8%AF%BE%E7%9A%84%E5%90%8C%E5%AD%A6%E8%A2%AB%E6%8A%93%E8%B5%B0%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [女子带9盒白糕到派出所放下就走](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%A69%E7%9B%92%E7%99%BD%E7%B3%95%E5%88%B0%E6%B4%BE%E5%87%BA%E6%89%80%E6%94%BE%E4%B8%8B%E5%B0%B1%E8%B5%B0%23&t=31&band_rank=9&Refer=top)<br />
+8. [女子带9盒白糕到派出所放下就走](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%A69%E7%9B%92%E7%99%BD%E7%B3%95%E5%88%B0%E6%B4%BE%E5%87%BA%E6%89%80%E6%94%BE%E4%B8%8B%E5%B0%B1%E8%B5%B0%23&t=31&band_rank=8&Refer=top)<br />
+9. [班上唯一认真听课的同学被抓走了](https://s.weibo.com/weibo?q=%E7%8F%AD%E4%B8%8A%E5%94%AF%E4%B8%80%E8%AE%A4%E7%9C%9F%E5%90%AC%E8%AF%BE%E7%9A%84%E5%90%8C%E5%AD%A6%E8%A2%AB%E6%8A%93%E8%B5%B0%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
