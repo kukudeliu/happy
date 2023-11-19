@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 01:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 01:04:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [27岁研究生离世前一天发文感恩感谢](https://www.baidu.com/s?wd=27%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子在钱塘江边撒网捕鱼被潮水卷走](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E9%92%B1%E5%A1%98%E6%B1%9F%E8%BE%B9%E6%92%92%E7%BD%91%E6%8D%95%E9%B1%BC%E8%A2%AB%E6%BD%AE%E6%B0%B4%E5%8D%B7%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [17城土地出让重回“价高者得”](https://www.baidu.com/s?wd=17%E5%9F%8E%E5%9C%9F%E5%9C%B0%E5%87%BA%E8%AE%A9%E9%87%8D%E5%9B%9E%E2%80%9C%E4%BB%B7%E9%AB%98%E8%80%85%E5%BE%97%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄罗斯加大对乌克兰的空中攻势](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%8A%A0%E5%A4%A7%E5%AF%B9%E4%B9%8C%E5%85%8B%E5%85%B0%E7%9A%84%E7%A9%BA%E4%B8%AD%E6%94%BB%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [年轻人为何爱上老年消费](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E7%88%B1%E4%B8%8A%E8%80%81%E5%B9%B4%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [燃油车在中国彻底没戏了？](https://www.baidu.com/s?wd=%E7%87%83%E6%B2%B9%E8%BD%A6%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%BD%BB%E5%BA%95%E6%B2%A1%E6%88%8F%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [青岛官宣：租房即可落户](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E5%AE%98%E5%AE%A3%EF%BC%9A%E7%A7%9F%E6%88%BF%E5%8D%B3%E5%8F%AF%E8%90%BD%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [阿里辟谣“裁员25000人”](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%A3%81%E5%91%9825000%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [27岁研究生离世前一天发文感恩感谢](https://www.baidu.com/s?wd=27%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子在钱塘江边撒网捕鱼被潮水卷走](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E9%92%B1%E5%A1%98%E6%B1%9F%E8%BE%B9%E6%92%92%E7%BD%91%E6%8D%95%E9%B1%BC%E8%A2%AB%E6%BD%AE%E6%B0%B4%E5%8D%B7%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [17城土地出让重回“价高者得”](https://www.baidu.com/s?wd=17%E5%9F%8E%E5%9C%9F%E5%9C%B0%E5%87%BA%E8%AE%A9%E9%87%8D%E5%9B%9E%E2%80%9C%E4%BB%B7%E9%AB%98%E8%80%85%E5%BE%97%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄罗斯加大对乌克兰的空中攻势](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%8A%A0%E5%A4%A7%E5%AF%B9%E4%B9%8C%E5%85%8B%E5%85%B0%E7%9A%84%E7%A9%BA%E4%B8%AD%E6%94%BB%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [年轻人为何爱上老年消费](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E7%88%B1%E4%B8%8A%E8%80%81%E5%B9%B4%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [燃油车在中国彻底没戏了？](https://www.baidu.com/s?wd=%E7%87%83%E6%B2%B9%E8%BD%A6%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%BD%BB%E5%BA%95%E6%B2%A1%E6%88%8F%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [青岛官宣：租房即可落户](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E5%AE%98%E5%AE%A3%EF%BC%9A%E7%A7%9F%E6%88%BF%E5%8D%B3%E5%8F%AF%E8%90%BD%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [阿里辟谣“裁员25000人”](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%A3%81%E5%91%9825000%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
