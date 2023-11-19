@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 03:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 03:43:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [终于有只搞事业不谈恋爱的剧了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E5%8F%AA%E6%90%9E%E4%BA%8B%E4%B8%9A%E4%B8%8D%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%E5%89%A7%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [27岁研究生离世前一天发文感恩感谢](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [郭艾伦吐槽以爱为营剧情](https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E5%90%90%E6%A7%BD%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%89%A7%E6%83%85%23&t=31&band_rank=7&Refer=top)<br />
-8. [T1夺冠](https://s.weibo.com/weibo?q=%23T1%E5%A4%BA%E5%86%A0%23&t=31&band_rank=8&Refer=top)<br />
+8. [TheShy回应是否退役](https://s.weibo.com/weibo?q=%23TheShy%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E9%80%80%E5%BD%B9%23&t=31&band_rank=8&Refer=top)<br />
 9. [恩静大小姐](https://s.weibo.com/weibo?q=%E6%81%A9%E9%9D%99%E5%A4%A7%E5%B0%8F%E5%A7%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
