@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 00:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 00:14:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [27岁研究生离世前一天发文感恩感谢](https://www.baidu.com/s?wd=27%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [航拍冰雪大世界采冰现场 冰块如方糖](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E9%87%87%E5%86%B0%E7%8E%B0%E5%9C%BA+%E5%86%B0%E5%9D%97%E5%A6%82%E6%96%B9%E7%B3%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [微信群里留遗嘱有效吗？法院这样判](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%BE%A4%E9%87%8C%E7%95%99%E9%81%97%E5%98%B1%E6%9C%89%E6%95%88%E5%90%97%EF%BC%9F%E6%B3%95%E9%99%A2%E8%BF%99%E6%A0%B7%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [多家银行陆续下调存款利率](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E9%99%86%E7%BB%AD%E4%B8%8B%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [因螺蛳粉里没有螺蛳 男子要求退钱](https://www.baidu.com/s?wd=%E5%9B%A0%E8%9E%BA%E8%9B%B3%E7%B2%89%E9%87%8C%E6%B2%A1%E6%9C%89%E8%9E%BA%E8%9B%B3+%E7%94%B7%E5%AD%90%E8%A6%81%E6%B1%82%E9%80%80%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [阿里辟谣“裁员25000人”](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%A3%81%E5%91%9825000%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [27岁研究生离世前一天发文感恩感谢](https://www.baidu.com/s?wd=27%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [航拍冰雪大世界采冰现场 冰块如方糖](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E9%87%87%E5%86%B0%E7%8E%B0%E5%9C%BA+%E5%86%B0%E5%9D%97%E5%A6%82%E6%96%B9%E7%B3%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [微信群里留遗嘱有效吗？法院这样判](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%BE%A4%E9%87%8C%E7%95%99%E9%81%97%E5%98%B1%E6%9C%89%E6%95%88%E5%90%97%EF%BC%9F%E6%B3%95%E9%99%A2%E8%BF%99%E6%A0%B7%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [多家银行陆续下调存款利率](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E9%99%86%E7%BB%AD%E4%B8%8B%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [因螺蛳粉里没有螺蛳 男子要求退钱](https://www.baidu.com/s?wd=%E5%9B%A0%E8%9E%BA%E8%9B%B3%E7%B2%89%E9%87%8C%E6%B2%A1%E6%9C%89%E8%9E%BA%E8%9B%B3+%E7%94%B7%E5%AD%90%E8%A6%81%E6%B1%82%E9%80%80%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [阿里辟谣“裁员25000人”](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%A3%81%E5%91%9825000%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
