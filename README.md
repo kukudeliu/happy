@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 03:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 03:10:01</h4></div>
 
 > 微博  
 
-1. [吴迪飞退圈](https://s.weibo.com/weibo?q=%E5%90%B4%E8%BF%AA%E9%A3%9E%E9%80%80%E5%9C%88&t=31&band_rank=1&Refer=top)<br />
-2. [去年我国初婚人数低于1100万](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%B9%B4%E6%88%91%E5%9B%BD%E5%88%9D%E5%A9%9A%E4%BA%BA%E6%95%B0%E4%BD%8E%E4%BA%8E1100%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
+1. [去年我国初婚人数低于1100万](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%B9%B4%E6%88%91%E5%9B%BD%E5%88%9D%E5%A9%9A%E4%BA%BA%E6%95%B0%E4%BD%8E%E4%BA%8E1100%E4%B8%87%23&t=31&band_rank=1&Refer=top)<br />
+2. [吴迪飞退圈](https://s.weibo.com/weibo?q=%E5%90%B4%E8%BF%AA%E9%A3%9E%E9%80%80%E5%9C%88&t=31&band_rank=2&Refer=top)<br />
 3. [诗词藏着中国山水间的绝美景致](https://s.weibo.com/weibo?q=%23%E8%AF%97%E8%AF%8D%E8%97%8F%E7%9D%80%E4%B8%AD%E5%9B%BD%E5%B1%B1%E6%B0%B4%E9%97%B4%E7%9A%84%E7%BB%9D%E7%BE%8E%E6%99%AF%E8%87%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [终于有只搞事业不谈恋爱的剧了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E5%8F%AA%E6%90%9E%E4%BA%8B%E4%B8%9A%E4%B8%8D%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%E5%89%A7%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [T1战胜WBG](https://s.weibo.com/weibo?q=%23T1%E6%88%98%E8%83%9CWBG%23&t=31&band_rank=5&Refer=top)<br />
