@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 13:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 13:34:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [金靖 上海的冬天就像谢危](https://s.weibo.com/weibo?q=%E9%87%91%E9%9D%96%20%E4%B8%8A%E6%B5%B7%E7%9A%84%E5%86%AC%E5%A4%A9%E5%B0%B1%E5%83%8F%E8%B0%A2%E5%8D%B1&t=31&band_rank=5&Refer=top)<br />
 6. [纣王 姬发想要我的逆子](https://s.weibo.com/weibo?q=%E7%BA%A3%E7%8E%8B%20%E5%A7%AC%E5%8F%91%E6%83%B3%E8%A6%81%E6%88%91%E7%9A%84%E9%80%86%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
 7. [WBG 我们每个人都有不得不赢的理由](https://s.weibo.com/weibo?q=WBG%20%E6%88%91%E4%BB%AC%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%9C%89%E4%B8%8D%E5%BE%97%E4%B8%8D%E8%B5%A2%E7%9A%84%E7%90%86%E7%94%B1&t=31&band_rank=7&Refer=top)<br />
-8. [网红夫妇回应售楼处维权被抢手机](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%A4%AB%E5%A6%87%E5%9B%9E%E5%BA%94%E5%94%AE%E6%A5%BC%E5%A4%84%E7%BB%B4%E6%9D%83%E8%A2%AB%E6%8A%A2%E6%89%8B%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [税务师 计算器快按冒烟了](https://s.weibo.com/weibo?q=%E7%A8%8E%E5%8A%A1%E5%B8%88%20%E8%AE%A1%E7%AE%97%E5%99%A8%E5%BF%AB%E6%8C%89%E5%86%92%E7%83%9F%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [税务师 计算器快按冒烟了](https://s.weibo.com/weibo?q=%E7%A8%8E%E5%8A%A1%E5%B8%88%20%E8%AE%A1%E7%AE%97%E5%99%A8%E5%BF%AB%E6%8C%89%E5%86%92%E7%83%9F%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [网红夫妇回应售楼处维权被抢手机](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%A4%AB%E5%A6%87%E5%9B%9E%E5%BA%94%E5%94%AE%E6%A5%BC%E5%A4%84%E7%BB%B4%E6%9D%83%E8%A2%AB%E6%8A%A2%E6%89%8B%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [一图看懂如何防治冬季呼吸道疾病](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%E5%A6%82%E4%BD%95%E9%98%B2%E6%B2%BB%E5%86%AC%E5%AD%A3%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [顾客用纸巾擦拭铜锅边缘擦出颜色](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E7%94%A8%E7%BA%B8%E5%B7%BE%E6%93%A6%E6%8B%AD%E9%93%9C%E9%94%85%E8%BE%B9%E7%BC%98%E6%93%A6%E5%87%BA%E9%A2%9C%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子丢失30万手机 民警急速寻回](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%A2%E5%A4%B130%E4%B8%87%E6%89%8B%E6%9C%BA+%E6%B0%91%E8%AD%A6%E6%80%A5%E9%80%9F%E5%AF%BB%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杜兰特转发自己13年前社媒](https://www.baidu.com/s?wd=%E6%9D%9C%E5%85%B0%E7%89%B9%E8%BD%AC%E5%8F%91%E8%87%AA%E5%B7%B113%E5%B9%B4%E5%89%8D%E7%A4%BE%E5%AA%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [原来普通话是河北方言](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E6%99%AE%E9%80%9A%E8%AF%9D%E6%98%AF%E6%B2%B3%E5%8C%97%E6%96%B9%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [原来普通话是河北方言](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E6%99%AE%E9%80%9A%E8%AF%9D%E6%98%AF%E6%B2%B3%E5%8C%97%E6%96%B9%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周润发参加港珠澳大桥香港段半马](https://www.baidu.com/s?wd=%E5%91%A8%E6%B6%A6%E5%8F%91%E5%8F%82%E5%8A%A0%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A1%A5%E9%A6%99%E6%B8%AF%E6%AE%B5%E5%8D%8A%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [一图看懂如何防治冬季呼吸道疾病](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%E5%A6%82%E4%BD%95%E9%98%B2%E6%B2%BB%E5%86%AC%E5%AD%A3%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [顾客用纸巾擦拭铜锅边缘擦出颜色](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E7%94%A8%E7%BA%B8%E5%B7%BE%E6%93%A6%E6%8B%AD%E9%93%9C%E9%94%85%E8%BE%B9%E7%BC%98%E6%93%A6%E5%87%BA%E9%A2%9C%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子丢失30万手机 民警急速寻回](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%A2%E5%A4%B130%E4%B8%87%E6%89%8B%E6%9C%BA+%E6%B0%91%E8%AD%A6%E6%80%A5%E9%80%9F%E5%AF%BB%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杜兰特转发自己13年前社媒](https://www.baidu.com/s?wd=%E6%9D%9C%E5%85%B0%E7%89%B9%E8%BD%AC%E5%8F%91%E8%87%AA%E5%B7%B113%E5%B9%B4%E5%89%8D%E7%A4%BE%E5%AA%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [原来普通话是河北方言](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E6%99%AE%E9%80%9A%E8%AF%9D%E6%98%AF%E6%B2%B3%E5%8C%97%E6%96%B9%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [原来普通话是河北方言](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E6%99%AE%E9%80%9A%E8%AF%9D%E6%98%AF%E6%B2%B3%E5%8C%97%E6%96%B9%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周润发参加港珠澳大桥香港段半马](https://www.baidu.com/s?wd=%E5%91%A8%E6%B6%A6%E5%8F%91%E5%8F%82%E5%8A%A0%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A1%A5%E9%A6%99%E6%B8%AF%E6%AE%B5%E5%8D%8A%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳停发失业保险金？官方辟谣](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%81%9C%E5%8F%91%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9%E9%87%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
