@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 22:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 22:18:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [TheShy回应是否退役](https://s.weibo.com/weibo?q=%23TheShy%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E9%80%80%E5%BD%B9%23&t=31&band_rank=5&Refer=top)<br />
 6. [张桂梅老师学生评价我本是高山](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%A1%82%E6%A2%85%E8%80%81%E5%B8%88%E5%AD%A6%E7%94%9F%E8%AF%84%E4%BB%B7%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1&t=31&band_rank=6&Refer=top)<br />
 7. [郭艾伦吐槽以爱为营剧情](https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E5%90%90%E6%A7%BD%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%89%A7%E6%83%85%23&t=31&band_rank=7&Refer=top)<br />
-8. [张遮母亲](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%81%AE%E6%AF%8D%E4%BA%B2&t=31&band_rank=8&Refer=top)<br />
-9. [张桂梅读我本是高山观众祝福](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%AF%BB%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E8%A7%82%E4%BC%97%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=9&Refer=top)<br />
+8. [张桂梅读我本是高山观众祝福](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%AF%BB%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E8%A7%82%E4%BC%97%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=8&Refer=top)<br />
+9. [张遮母亲](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%81%AE%E6%AF%8D%E4%BA%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
