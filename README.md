@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 22:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 22:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陆虎 你不需要让全世界都满意](https://s.weibo.com/weibo?q=%E9%99%86%E8%99%8E%20%E4%BD%A0%E4%B8%8D%E9%9C%80%E8%A6%81%E8%AE%A9%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E6%BB%A1%E6%84%8F&t=31&band_rank=6&Refer=top)<br />
 7. [张桂梅读我本是高山观众祝福](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%AF%BB%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E8%A7%82%E4%BC%97%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [MBTI拖延程度排名](https://s.weibo.com/weibo?q=%23MBTI%E6%8B%96%E5%BB%B6%E7%A8%8B%E5%BA%A6%E6%8E%92%E5%90%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [声生不息3路透](https://s.weibo.com/weibo?q=%23%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF3%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [白鹿张凌赫宁安如梦热度破万](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
