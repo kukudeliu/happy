@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 21:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 21:13:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [诗词藏着中国山水间的绝美景致](https://s.weibo.com/weibo?q=%23%E8%AF%97%E8%AF%8D%E8%97%8F%E7%9D%80%E4%B8%AD%E5%9B%BD%E5%B1%B1%E6%B0%B4%E9%97%B4%E7%9A%84%E7%BB%9D%E7%BE%8E%E6%99%AF%E8%87%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [李佳航少喝点](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E8%88%AA%E5%B0%91%E5%96%9D%E7%82%B9%23&t=31&band_rank=4&Refer=top)<br />
 5. [六公主回应我本是高山争议](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E5%9B%9E%E5%BA%94%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E4%BA%89%E8%AE%AE%23&t=31&band_rank=5&Refer=top)<br />
-6. [Faker四冠登神](https://s.weibo.com/weibo?q=%23Faker%E5%9B%9B%E5%86%A0%E7%99%BB%E7%A5%9E%23&t=31&band_rank=6&Refer=top)<br />
-7. [白鹿张凌赫宁安如梦热度破万](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
+6. [白鹿张凌赫宁安如梦热度破万](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
+7. [Faker四冠登神](https://s.weibo.com/weibo?q=%23Faker%E5%9B%9B%E5%86%A0%E7%99%BB%E7%A5%9E%23&t=31&band_rank=7&Refer=top)<br />
 8. [郭艾伦吐槽以爱为营剧情](https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E5%90%90%E6%A7%BD%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%89%A7%E6%83%85%23&t=31&band_rank=8&Refer=top)<br />
 9. [TVB台庆](https://s.weibo.com/weibo?q=TVB%E5%8F%B0%E5%BA%86&t=31&band_rank=9&Refer=top)<br />
 
@@ -24,7 +24,7 @@
 5. [天津助学金事件当事人称已申请休学](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%8A%A9%E5%AD%A6%E9%87%91%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E5%B7%B2%E7%94%B3%E8%AF%B7%E4%BC%91%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子在钱塘江边撒网捕鱼被潮水卷走](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E9%92%B1%E5%A1%98%E6%B1%9F%E8%BE%B9%E6%92%92%E7%BD%91%E6%8D%95%E9%B1%BC%E8%A2%AB%E6%BD%AE%E6%B0%B4%E5%8D%B7%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [秦岚:嗓子坏了其实我挺沮丧的](https://www.baidu.com/s?wd=%E7%A7%A6%E5%B2%9A%3A%E5%97%93%E5%AD%90%E5%9D%8F%E4%BA%86%E5%85%B6%E5%AE%9E%E6%88%91%E6%8C%BA%E6%B2%AE%E4%B8%A7%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [郭富城参加赛车发生意外](https://www.baidu.com/s?wd=%E9%83%AD%E5%AF%8C%E5%9F%8E%E5%8F%82%E5%8A%A0%E8%B5%9B%E8%BD%A6%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣青岛发生打人事件](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%9D%92%E5%B2%9B%E5%8F%91%E7%94%9F%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [天津助学金事件当事人称已申请休学](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E5%8A%A9%E5%AD%A6%E9%87%91%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E5%B7%B2%E7%94%B3%E8%AF%B7%E4%BC%91%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子在钱塘江边撒网捕鱼被潮水卷走](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E9%92%B1%E5%A1%98%E6%B1%9F%E8%BE%B9%E6%92%92%E7%BD%91%E6%8D%95%E9%B1%BC%E8%A2%AB%E6%BD%AE%E6%B0%B4%E5%8D%B7%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [秦岚:嗓子坏了其实我挺沮丧的](https://www.baidu.com/s?wd=%E7%A7%A6%E5%B2%9A%3A%E5%97%93%E5%AD%90%E5%9D%8F%E4%BA%86%E5%85%B6%E5%AE%9E%E6%88%91%E6%8C%BA%E6%B2%AE%E4%B8%A7%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [郭富城参加赛车发生意外](https://www.baidu.com/s?wd=%E9%83%AD%E5%AF%8C%E5%9F%8E%E5%8F%82%E5%8A%A0%E8%B5%9B%E8%BD%A6%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣青岛发生打人事件](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%9D%92%E5%B2%9B%E5%8F%91%E7%94%9F%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
