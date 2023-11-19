@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 20:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 20:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白鹿张凌赫宁安如梦热度破万](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [Zeus获FMVP](https://s.weibo.com/weibo?q=%23Zeus%E8%8E%B7FMVP%23&t=31&band_rank=7&Refer=top)<br />
 8. [郭艾伦吐槽以爱为营剧情](https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E5%90%90%E6%A7%BD%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%89%A7%E6%83%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [下一个中国还是中国](https://s.weibo.com/weibo?q=%23%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E8%BF%98%E6%98%AF%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=9&Refer=top)<br />
+9. [中方将沟通协调推动巴以冲突降温](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%86%E6%B2%9F%E9%80%9A%E5%8D%8F%E8%B0%83%E6%8E%A8%E5%8A%A8%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E9%99%8D%E6%B8%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
