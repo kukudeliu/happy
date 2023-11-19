@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 10:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 10:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [秦岚声带受损其实自己很沮丧](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E5%A3%B0%E5%B8%A6%E5%8F%97%E6%8D%9F%E5%85%B6%E5%AE%9E%E8%87%AA%E5%B7%B1%E5%BE%88%E6%B2%AE%E4%B8%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [瘦瘦笔减肥 副作用](https://s.weibo.com/weibo?q=%E7%98%A6%E7%98%A6%E7%AC%94%E5%87%8F%E8%82%A5%20%E5%89%AF%E4%BD%9C%E7%94%A8&t=31&band_rank=7&Refer=top)<br />
 8. [王栎鑫 笑到下巴脱臼](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A0%8E%E9%91%AB%20%E7%AC%91%E5%88%B0%E4%B8%8B%E5%B7%B4%E8%84%B1%E8%87%BC&t=31&band_rank=8&Refer=top)<br />
-9. [胡夏请来了那些年一起追过的沈佳宜](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%A4%8F%E8%AF%B7%E6%9D%A5%E4%BA%86%E9%82%A3%E4%BA%9B%E5%B9%B4%E4%B8%80%E8%B5%B7%E8%BF%BD%E8%BF%87%E7%9A%84%E6%B2%88%E4%BD%B3%E5%AE%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [房东的猫演唱会妆造](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E7%9A%84%E7%8C%AB%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A6%86%E9%80%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
