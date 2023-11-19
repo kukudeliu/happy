@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 21:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 21:11:02</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [携手共促亚太高质量增长](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E5%85%B1%E4%BF%83%E4%BA%9A%E5%A4%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平主席的“旧金山时间”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E7%9A%84%E2%80%9C%E6%97%A7%E9%87%91%E5%B1%B1%E6%97%B6%E9%97%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [S13总决赛T1横扫WBG登顶](https://www.baidu.com/s?wd=S13%E6%80%BB%E5%86%B3%E8%B5%9BT1%E6%A8%AA%E6%89%ABWBG%E7%99%BB%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [网传张桂梅学生评价我本是高山](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%BC%A0%E6%A1%82%E6%A2%85%E5%AD%A6%E7%94%9F%E8%AF%84%E4%BB%B7%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多措并举保障今冬明春供暖季](https://www.baidu.com/s?wd=%E5%A4%9A%E6%8E%AA%E5%B9%B6%E4%B8%BE%E4%BF%9D%E9%9A%9C%E4%BB%8A%E5%86%AC%E6%98%8E%E6%98%A5%E4%BE%9B%E6%9A%96%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [携手共促亚太高质量增长](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E5%85%B1%E4%BF%83%E4%BA%9A%E5%A4%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平主席的“旧金山时间”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E7%9A%84%E2%80%9C%E6%97%A7%E9%87%91%E5%B1%B1%E6%97%B6%E9%97%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [S13总决赛T1横扫WBG登顶](https://www.baidu.com/s?wd=S13%E6%80%BB%E5%86%B3%E8%B5%9BT1%E6%A8%AA%E6%89%ABWBG%E7%99%BB%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [网传张桂梅学生评价我本是高山](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%BC%A0%E6%A1%82%E6%A2%85%E5%AD%A6%E7%94%9F%E8%AF%84%E4%BB%B7%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多措并举保障今冬明春供暖季](https://www.baidu.com/s?wd=%E5%A4%9A%E6%8E%AA%E5%B9%B6%E4%B8%BE%E4%BF%9D%E9%9A%9C%E4%BB%8A%E5%86%AC%E6%98%8E%E6%98%A5%E4%BE%9B%E6%9A%96%E5%AD%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
