@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 09:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 09:07:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [习近平结束中美元首会晤回到北京](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%93%E6%9D%9F%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%9B%9E%E5%88%B0%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [火灾2天后 山西省委集体观看教育片](https://www.baidu.com/s?wd=%E7%81%AB%E7%81%BE2%E5%A4%A9%E5%90%8E+%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A7%94%E9%9B%86%E4%BD%93%E8%A7%82%E7%9C%8B%E6%95%99%E8%82%B2%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [青岛官宣：租房即可落户](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E5%AE%98%E5%AE%A3%EF%BC%9A%E7%A7%9F%E6%88%BF%E5%8D%B3%E5%8F%AF%E8%90%BD%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [人一生在厕所时间累计超过1.5年](https://www.baidu.com/s?wd=%E4%BA%BA%E4%B8%80%E7%94%9F%E5%9C%A8%E5%8E%95%E6%89%80%E6%97%B6%E9%97%B4%E7%B4%AF%E8%AE%A1%E8%B6%85%E8%BF%871.5%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从西雅图到旧金山](https://www.baidu.com/s?wd=%E4%BB%8E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%88%B0%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [微信群里留遗嘱有效吗？法院这样判](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%BE%A4%E9%87%8C%E7%95%99%E9%81%97%E5%98%B1%E6%9C%89%E6%95%88%E5%90%97%EF%BC%9F%E6%B3%95%E9%99%A2%E8%BF%99%E6%A0%B7%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [习近平结束中美元首会晤回到北京](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%93%E6%9D%9F%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%9B%9E%E5%88%B0%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [火灾2天后 山西省委集体观看教育片](https://www.baidu.com/s?wd=%E7%81%AB%E7%81%BE2%E5%A4%A9%E5%90%8E+%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A7%94%E9%9B%86%E4%BD%93%E8%A7%82%E7%9C%8B%E6%95%99%E8%82%B2%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [青岛官宣：租房即可落户](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E5%AE%98%E5%AE%A3%EF%BC%9A%E7%A7%9F%E6%88%BF%E5%8D%B3%E5%8F%AF%E8%90%BD%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [人一生在厕所时间累计超过1.5年](https://www.baidu.com/s?wd=%E4%BA%BA%E4%B8%80%E7%94%9F%E5%9C%A8%E5%8E%95%E6%89%80%E6%97%B6%E9%97%B4%E7%B4%AF%E8%AE%A1%E8%B6%85%E8%BF%871.5%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从西雅图到旧金山](https://www.baidu.com/s?wd=%E4%BB%8E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%88%B0%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [微信群里留遗嘱有效吗？法院这样判](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%BE%A4%E9%87%8C%E7%95%99%E9%81%97%E5%98%B1%E6%9C%89%E6%95%88%E5%90%97%EF%BC%9F%E6%B3%95%E9%99%A2%E8%BF%99%E6%A0%B7%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
