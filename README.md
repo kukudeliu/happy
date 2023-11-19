@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 22:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 22:14:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [年轻人为何爱上老年消费](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E7%88%B1%E4%B8%8A%E8%80%81%E5%B9%B4%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本出现含近似大麻成分软糖](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%87%BA%E7%8E%B0%E5%90%AB%E8%BF%91%E4%BC%BC%E5%A4%A7%E9%BA%BB%E6%88%90%E5%88%86%E8%BD%AF%E7%B3%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [内蒙网友互换特产开1700公里送活羊](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E7%BD%91%E5%8F%8B%E4%BA%92%E6%8D%A2%E7%89%B9%E4%BA%A7%E5%BC%801700%E5%85%AC%E9%87%8C%E9%80%81%E6%B4%BB%E7%BE%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [警方曝光40名滞留境外涉诈人员照片](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%9B%9D%E5%85%8940%E5%90%8D%E6%BB%9E%E7%95%99%E5%A2%83%E5%A4%96%E6%B6%89%E8%AF%88%E4%BA%BA%E5%91%98%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本出现含近似大麻成分软糖](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%87%BA%E7%8E%B0%E5%90%AB%E8%BF%91%E4%BC%BC%E5%A4%A7%E9%BA%BB%E6%88%90%E5%88%86%E8%BD%AF%E7%B3%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣青岛发生打人事件](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%9D%92%E5%B2%9B%E5%8F%91%E7%94%9F%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [年轻人为何爱上老年消费](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E7%88%B1%E4%B8%8A%E8%80%81%E5%B9%B4%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本出现含近似大麻成分软糖](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%87%BA%E7%8E%B0%E5%90%AB%E8%BF%91%E4%BC%BC%E5%A4%A7%E9%BA%BB%E6%88%90%E5%88%86%E8%BD%AF%E7%B3%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [内蒙网友互换特产开1700公里送活羊](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E7%BD%91%E5%8F%8B%E4%BA%92%E6%8D%A2%E7%89%B9%E4%BA%A7%E5%BC%801700%E5%85%AC%E9%87%8C%E9%80%81%E6%B4%BB%E7%BE%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [警方曝光40名滞留境外涉诈人员照片](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%9B%9D%E5%85%8940%E5%90%8D%E6%BB%9E%E7%95%99%E5%A2%83%E5%A4%96%E6%B6%89%E8%AF%88%E4%BA%BA%E5%91%98%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本出现含近似大麻成分软糖](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%87%BA%E7%8E%B0%E5%90%AB%E8%BF%91%E4%BC%BC%E5%A4%A7%E9%BA%BB%E6%88%90%E5%88%86%E8%BD%AF%E7%B3%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣青岛发生打人事件](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%9D%92%E5%B2%9B%E5%8F%91%E7%94%9F%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
