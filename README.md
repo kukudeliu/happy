@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 21:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 21:32:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [六公主回应我本是高山争议](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E5%9B%9E%E5%BA%94%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E4%BA%89%E8%AE%AE%23&t=31&band_rank=5&Refer=top)<br />
 6. [WBG发文告别S13](https://s.weibo.com/weibo?q=WBG%E5%8F%91%E6%96%87%E5%91%8A%E5%88%ABS13&t=31&band_rank=6&Refer=top)<br />
 7. [张桂梅老师学生评价我本是高山](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%80%81%E5%B8%88%E5%AD%A6%E7%94%9F%E8%AF%84%E4%BB%B7%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [郭艾伦吐槽以爱为营剧情](https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E5%90%90%E6%A7%BD%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%89%A7%E6%83%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [白鹿张凌赫宁安如梦热度破万](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [白鹿张凌赫宁安如梦热度破万](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [郭艾伦吐槽以爱为营剧情](https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E5%90%90%E6%A7%BD%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%89%A7%E6%83%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
