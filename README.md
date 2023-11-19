@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 08:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 08:50:01</h4></div>
 
 > 微博  
 
@@ -18,10 +18,10 @@
 > 百度  
 
 1. [习近平结束中美元首会晤回到北京](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%93%E6%9D%9F%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%9B%9E%E5%88%B0%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [火灾2天后 山西省委集体观看教育片](https://www.baidu.com/s?wd=%E7%81%AB%E7%81%BE2%E5%A4%A9%E5%90%8E+%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A7%94%E9%9B%86%E4%BD%93%E8%A7%82%E7%9C%8B%E6%95%99%E8%82%B2%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [微信群里留遗嘱有效吗？法院这样判](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%BE%A4%E9%87%8C%E7%95%99%E9%81%97%E5%98%B1%E6%9C%89%E6%95%88%E5%90%97%EF%BC%9F%E6%B3%95%E9%99%A2%E8%BF%99%E6%A0%B7%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [青岛官宣：租房即可落户](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E5%AE%98%E5%AE%A3%EF%BC%9A%E7%A7%9F%E6%88%BF%E5%8D%B3%E5%8F%AF%E8%90%BD%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [火灾2天后 山西省委集体观看教育片](https://www.baidu.com/s?wd=%E7%81%AB%E7%81%BE2%E5%A4%A9%E5%90%8E+%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A7%94%E9%9B%86%E4%BD%93%E8%A7%82%E7%9C%8B%E6%95%99%E8%82%B2%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从西雅图到旧金山](https://www.baidu.com/s?wd=%E4%BB%8E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%88%B0%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [听障男生操场上手语告白听障女生](https://www.baidu.com/s?wd=%E5%90%AC%E9%9A%9C%E7%94%B7%E7%94%9F%E6%93%8D%E5%9C%BA%E4%B8%8A%E6%89%8B%E8%AF%AD%E5%91%8A%E7%99%BD%E5%90%AC%E9%9A%9C%E5%A5%B3%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [微信群里留遗嘱有效吗？法院这样判](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%BE%A4%E9%87%8C%E7%95%99%E9%81%97%E5%98%B1%E6%9C%89%E6%95%88%E5%90%97%EF%BC%9F%E6%B3%95%E9%99%A2%E8%BF%99%E6%A0%B7%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [原来普通话是河北方言](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E6%99%AE%E9%80%9A%E8%AF%9D%E6%98%AF%E6%B2%B3%E5%8C%97%E6%96%B9%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [汶川地震微笑女孩结婚](https://www.baidu.com/s?wd=%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%BE%AE%E7%AC%91%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [这剧成今年港剧最大的一匹黑马](https://www.baidu.com/s?wd=%E8%BF%99%E5%89%A7%E6%88%90%E4%BB%8A%E5%B9%B4%E6%B8%AF%E5%89%A7%E6%9C%80%E5%A4%A7%E7%9A%84%E4%B8%80%E5%8C%B9%E9%BB%91%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,10 +30,10 @@
 > 哔哩哔哩  
 
 1. [习近平结束中美元首会晤回到北京](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%93%E6%9D%9F%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%9B%9E%E5%88%B0%E5%8C%97%E4%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [火灾2天后 山西省委集体观看教育片](https://www.baidu.com/s?wd=%E7%81%AB%E7%81%BE2%E5%A4%A9%E5%90%8E+%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A7%94%E9%9B%86%E4%BD%93%E8%A7%82%E7%9C%8B%E6%95%99%E8%82%B2%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [微信群里留遗嘱有效吗？法院这样判](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%BE%A4%E9%87%8C%E7%95%99%E9%81%97%E5%98%B1%E6%9C%89%E6%95%88%E5%90%97%EF%BC%9F%E6%B3%95%E9%99%A2%E8%BF%99%E6%A0%B7%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [青岛官宣：租房即可落户](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E5%AE%98%E5%AE%A3%EF%BC%9A%E7%A7%9F%E6%88%BF%E5%8D%B3%E5%8F%AF%E8%90%BD%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [火灾2天后 山西省委集体观看教育片](https://www.baidu.com/s?wd=%E7%81%AB%E7%81%BE2%E5%A4%A9%E5%90%8E+%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A7%94%E9%9B%86%E4%BD%93%E8%A7%82%E7%9C%8B%E6%95%99%E8%82%B2%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从西雅图到旧金山](https://www.baidu.com/s?wd=%E4%BB%8E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%88%B0%E6%97%A7%E9%87%91%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [听障男生操场上手语告白听障女生](https://www.baidu.com/s?wd=%E5%90%AC%E9%9A%9C%E7%94%B7%E7%94%9F%E6%93%8D%E5%9C%BA%E4%B8%8A%E6%89%8B%E8%AF%AD%E5%91%8A%E7%99%BD%E5%90%AC%E9%9A%9C%E5%A5%B3%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [微信群里留遗嘱有效吗？法院这样判](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%BE%A4%E9%87%8C%E7%95%99%E9%81%97%E5%98%B1%E6%9C%89%E6%95%88%E5%90%97%EF%BC%9F%E6%B3%95%E9%99%A2%E8%BF%99%E6%A0%B7%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [原来普通话是河北方言](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E6%99%AE%E9%80%9A%E8%AF%9D%E6%98%AF%E6%B2%B3%E5%8C%97%E6%96%B9%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [汶川地震微笑女孩结婚](https://www.baidu.com/s?wd=%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%BE%AE%E7%AC%91%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [这剧成今年港剧最大的一匹黑马](https://www.baidu.com/s?wd=%E8%BF%99%E5%89%A7%E6%88%90%E4%BB%8A%E5%B9%B4%E6%B8%AF%E5%89%A7%E6%9C%80%E5%A4%A7%E7%9A%84%E4%B8%80%E5%8C%B9%E9%BB%91%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
