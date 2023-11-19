@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 10:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 10:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [花花等谭爷爷一起下班](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E7%AD%89%E8%B0%AD%E7%88%B7%E7%88%B7%E4%B8%80%E8%B5%B7%E4%B8%8B%E7%8F%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈楚生这棍子好像只认识陆虎](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%E8%BF%99%E6%A3%8D%E5%AD%90%E5%A5%BD%E5%83%8F%E5%8F%AA%E8%AE%A4%E8%AF%86%E9%99%86%E8%99%8E&t=31&band_rank=7&Refer=top)<br />
 8. [妈妈照着夸孩子100句念孩子学习劲头十足](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%85%A7%E7%9D%80%E5%A4%B8%E5%AD%A9%E5%AD%90100%E5%8F%A5%E5%BF%B5%E5%AD%A9%E5%AD%90%E5%AD%A6%E4%B9%A0%E5%8A%B2%E5%A4%B4%E5%8D%81%E8%B6%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [李晨 这是生态篇不是心态篇](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%99%A8%20%E8%BF%99%E6%98%AF%E7%94%9F%E6%80%81%E7%AF%87%E4%B8%8D%E6%98%AF%E5%BF%83%E6%80%81%E7%AF%87&t=31&band_rank=9&Refer=top)<br />
+9. [瘦瘦笔减肥 副作用](https://s.weibo.com/weibo?q=%E7%98%A6%E7%98%A6%E7%AC%94%E5%87%8F%E8%82%A5%20%E5%89%AF%E4%BD%9C%E7%94%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
