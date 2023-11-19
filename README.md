@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 12:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-19 12:51:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [WBG 我们每个人都有不得不赢的理由](https://s.weibo.com/weibo?q=WBG%20%E6%88%91%E4%BB%AC%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%9C%89%E4%B8%8D%E5%BE%97%E4%B8%8D%E8%B5%A2%E7%9A%84%E7%90%86%E7%94%B1&t=31&band_rank=6&Refer=top)<br />
 7. [纣王 姬发想要我的逆子](https://s.weibo.com/weibo?q=%E7%BA%A3%E7%8E%8B%20%E5%A7%AC%E5%8F%91%E6%83%B3%E8%A6%81%E6%88%91%E7%9A%84%E9%80%86%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
 8. [女子花1.8万买衣服一年不发货不退款](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B11.8%E4%B8%87%E4%B9%B0%E8%A1%A3%E6%9C%8D%E4%B8%80%E5%B9%B4%E4%B8%8D%E5%8F%91%E8%B4%A7%E4%B8%8D%E9%80%80%E6%AC%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [时代少年团首场团体舞台穿搭](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E9%A6%96%E5%9C%BA%E5%9B%A2%E4%BD%93%E8%88%9E%E5%8F%B0%E7%A9%BF%E6%90%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [网红夫妇回应售楼处维权被抢手机](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%A4%AB%E5%A6%87%E5%9B%9E%E5%BA%94%E5%94%AE%E6%A5%BC%E5%A4%84%E7%BB%B4%E6%9D%83%E8%A2%AB%E6%8A%A2%E6%89%8B%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
