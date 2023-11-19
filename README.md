@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 05:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 05:39:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [内娱史上最炸裂的6分32秒谈话](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%82%B8%E8%A3%82%E7%9A%846%E5%88%8632%E7%A7%92%E8%B0%88%E8%AF%9D%23&t=31&band_rank=4&Refer=top)<br />
 5. [去年我国初婚人数低于1100万](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%B9%B4%E6%88%91%E5%9B%BD%E5%88%9D%E5%A9%9A%E4%BA%BA%E6%95%B0%E4%BD%8E%E4%BA%8E1100%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [27岁研究生离世前一天发文感恩感谢](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2%23&t=31&band_rank=6&Refer=top)<br />
-7. [郭艾伦吐槽以爱为营剧情](https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E5%90%90%E6%A7%BD%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%89%A7%E6%83%85%23&t=31&band_rank=7&Refer=top)<br />
-8. [T1战胜WBG](https://s.weibo.com/weibo?q=%23T1%E6%88%98%E8%83%9CWBG%23&t=31&band_rank=8&Refer=top)<br />
+7. [T1战胜WBG](https://s.weibo.com/weibo?q=%23T1%E6%88%98%E8%83%9CWBG%23&t=31&band_rank=7&Refer=top)<br />
+8. [郭艾伦吐槽以爱为营剧情](https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E5%90%90%E6%A7%BD%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%89%A7%E6%83%85%23&t=31&band_rank=8&Refer=top)<br />
 9. [T1夺冠](https://s.weibo.com/weibo?q=%23T1%E5%A4%BA%E5%86%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,8 +23,8 @@
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [亏764亿的蔚来汽车会不会倒闭](https://www.baidu.com/s?wd=%E4%BA%8F764%E4%BA%BF%E7%9A%84%E8%94%9A%E6%9D%A5%E6%B1%BD%E8%BD%A6%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%80%92%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子丢30万手机女子捡到以为老年机](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%A230%E4%B8%87%E6%89%8B%E6%9C%BA%E5%A5%B3%E5%AD%90%E6%8D%A1%E5%88%B0%E4%BB%A5%E4%B8%BA%E8%80%81%E5%B9%B4%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [埃尔多安称以总理“末日即将来临”](https://www.baidu.com/s?wd=%E5%9F%83%E5%B0%94%E5%A4%9A%E5%AE%89%E7%A7%B0%E4%BB%A5%E6%80%BB%E7%90%86%E2%80%9C%E6%9C%AB%E6%97%A5%E5%8D%B3%E5%B0%86%E6%9D%A5%E4%B8%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡歌刘涛争论用完的手纸是否带走](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%88%98%E6%B6%9B%E4%BA%89%E8%AE%BA%E7%94%A8%E5%AE%8C%E7%9A%84%E6%89%8B%E7%BA%B8%E6%98%AF%E5%90%A6%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [阿里辟谣“裁员25000人”](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%A3%81%E5%91%9825000%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [亏764亿的蔚来汽车会不会倒闭](https://www.baidu.com/s?wd=%E4%BA%8F764%E4%BA%BF%E7%9A%84%E8%94%9A%E6%9D%A5%E6%B1%BD%E8%BD%A6%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%80%92%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [遍地都是韩国人 张家界有被“孝”到](https://www.baidu.com/s?wd=%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA+%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%9C%89%E8%A2%AB%E2%80%9C%E5%AD%9D%E2%80%9D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子丢30万手机女子捡到以为老年机](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%A230%E4%B8%87%E6%89%8B%E6%9C%BA%E5%A5%B3%E5%AD%90%E6%8D%A1%E5%88%B0%E4%BB%A5%E4%B8%BA%E8%80%81%E5%B9%B4%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [埃尔多安称以总理“末日即将来临”](https://www.baidu.com/s?wd=%E5%9F%83%E5%B0%94%E5%A4%9A%E5%AE%89%E7%A7%B0%E4%BB%A5%E6%80%BB%E7%90%86%E2%80%9C%E6%9C%AB%E6%97%A5%E5%8D%B3%E5%B0%86%E6%9D%A5%E4%B8%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡歌刘涛争论用完的手纸是否带走](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%88%98%E6%B6%9B%E4%BA%89%E8%AE%BA%E7%94%A8%E5%AE%8C%E7%9A%84%E6%89%8B%E7%BA%B8%E6%98%AF%E5%90%A6%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [阿里辟谣“裁员25000人”](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%A3%81%E5%91%9825000%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
