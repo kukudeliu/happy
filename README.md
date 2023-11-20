@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 03:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 03:01:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [妻子生日女儿吃薯片吃出金手链给妈妈](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E7%94%9F%E6%97%A5%E5%A5%B3%E5%84%BF%E5%90%83%E8%96%AF%E7%89%87%E5%90%83%E5%87%BA%E9%87%91%E6%89%8B%E9%93%BE%E7%BB%99%E5%A6%88%E5%A6%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [Faker拥有一栋大楼](https://s.weibo.com/weibo?q=%23Faker%E6%8B%A5%E6%9C%89%E4%B8%80%E6%A0%8B%E5%A4%A7%E6%A5%BC%23&t=31&band_rank=7&Refer=top)<br />
 8. [20省人口自然增长率为负](https://s.weibo.com/weibo?q=%2320%E7%9C%81%E4%BA%BA%E5%8F%A3%E8%87%AA%E7%84%B6%E5%A2%9E%E9%95%BF%E7%8E%87%E4%B8%BA%E8%B4%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [田柾国 舞台](https://s.weibo.com/weibo?q=%E7%94%B0%E6%9F%BE%E5%9B%BD%20%E8%88%9E%E5%8F%B0&t=31&band_rank=9&Refer=top)<br />
+9. [媒体评张桂梅原型电影引争议](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E5%BC%A0%E6%A1%82%E6%A2%85%E5%8E%9F%E5%9E%8B%E7%94%B5%E5%BD%B1%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
