@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 15:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 15:55:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [黄子韬原价2368内场票降至262元](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8E%9F%E4%BB%B72368%E5%86%85%E5%9C%BA%E7%A5%A8%E9%99%8D%E8%87%B3262%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [乌尔善取关](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%E5%8F%96%E5%85%B3&t=31&band_rank=5&Refer=top)<br />
 6. [甄嬛传官微 我怎么不知道](https://s.weibo.com/weibo?q=%E7%94%84%E5%AC%9B%E4%BC%A0%E5%AE%98%E5%BE%AE%20%E6%88%91%E6%80%8E%E4%B9%88%E4%B8%8D%E7%9F%A5%E9%81%93&t=31&band_rank=6&Refer=top)<br />
-7. [男子100多万买林肯称被客服嘲讽](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90100%E5%A4%9A%E4%B8%87%E4%B9%B0%E6%9E%97%E8%82%AF%E7%A7%B0%E8%A2%AB%E5%AE%A2%E6%9C%8D%E5%98%B2%E8%AE%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [Letme回归RNG](https://s.weibo.com/weibo?q=%23Letme%E5%9B%9E%E5%BD%92RNG%23&t=31&band_rank=8&Refer=top)<br />
+7. [Letme回归RNG](https://s.weibo.com/weibo?q=%23Letme%E5%9B%9E%E5%BD%92RNG%23&t=31&band_rank=7&Refer=top)<br />
+8. [男子100多万买林肯称被客服嘲讽](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90100%E5%A4%9A%E4%B8%87%E4%B9%B0%E6%9E%97%E8%82%AF%E7%A7%B0%E8%A2%AB%E5%AE%A2%E6%9C%8D%E5%98%B2%E8%AE%BD%23&t=31&band_rank=8&Refer=top)<br />
 9. [腹泻以为是胃病结果是心梗](https://s.weibo.com/weibo?q=%23%E8%85%B9%E6%B3%BB%E4%BB%A5%E4%B8%BA%E6%98%AF%E8%83%83%E7%97%85%E7%BB%93%E6%9E%9C%E6%98%AF%E5%BF%83%E6%A2%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
