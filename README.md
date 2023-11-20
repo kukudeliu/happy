@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 12:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 12:08:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [金莎回应签约孙丞潇](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%9B%9E%E5%BA%94%E7%AD%BE%E7%BA%A6%E5%AD%99%E4%B8%9E%E6%BD%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [霸王茶姬口令](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%8F%A3%E4%BB%A4&t=31&band_rank=5&Refer=top)<br />
 6. [BLACKPINK两名成员与YG签订组合约](https://s.weibo.com/weibo?q=%23BLACKPINK%E4%B8%A4%E5%90%8D%E6%88%90%E5%91%98%E4%B8%8EYG%E7%AD%BE%E8%AE%A2%E7%BB%84%E5%90%88%E7%BA%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [以爱为营女主三观](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A5%B3%E4%B8%BB%E4%B8%89%E8%A7%82&t=31&band_rank=7&Refer=top)<br />
+7. [我本是高山 网吧](https://s.weibo.com/weibo?q=%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%20%E7%BD%91%E5%90%A7&t=31&band_rank=7&Refer=top)<br />
 8. [韩国总统祝贺T1夺冠](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%A5%9D%E8%B4%BAT1%E5%A4%BA%E5%86%A0&t=31&band_rank=8&Refer=top)<br />
 9. [我使馆回应加方否认康明凯等间谍活动](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94%E5%8A%A0%E6%96%B9%E5%90%A6%E8%AE%A4%E5%BA%B7%E6%98%8E%E5%87%AF%E7%AD%89%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=9&Refer=top)<br />
 
