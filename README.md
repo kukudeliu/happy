@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 09:16:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 09:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [CPA 还不出成绩](https://s.weibo.com/weibo?q=CPA%20%E8%BF%98%E4%B8%8D%E5%87%BA%E6%88%90%E7%BB%A9&t=31&band_rank=6&Refer=top)<br />
 7. [飞夺泸定桥被搬到竞综了](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E5%A4%BA%E6%B3%B8%E5%AE%9A%E6%A1%A5%E8%A2%AB%E6%90%AC%E5%88%B0%E7%AB%9E%E7%BB%BC%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [广州地铁](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81&t=31&band_rank=8&Refer=top)<br />
-9. [适合扁头低颅顶的贵气发型](https://s.weibo.com/weibo?q=%E9%80%82%E5%90%88%E6%89%81%E5%A4%B4%E4%BD%8E%E9%A2%85%E9%A1%B6%E7%9A%84%E8%B4%B5%E6%B0%94%E5%8F%91%E5%9E%8B&t=31&band_rank=9&Refer=top)<br />
+9. [宁安如梦魔改张遮](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E9%AD%94%E6%94%B9%E5%BC%A0%E9%81%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
