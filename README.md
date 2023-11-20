@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 17:36:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 17:37:02</h4></div>
 
 > 微博  
 
 1. [于蕾 央视春晚总导演](https://s.weibo.com/weibo?q=%E4%BA%8E%E8%95%BE%20%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E6%80%BB%E5%AF%BC%E6%BC%94&t=31&band_rank=1&Refer=top)<br />
 2. [B站通报人肉开盒案例](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E9%80%9A%E6%8A%A5%E4%BA%BA%E8%82%89%E5%BC%80%E7%9B%92%E6%A1%88%E4%BE%8B%23&t=31&band_rank=2&Refer=top)<br />
 3. [文物里的长江](https://s.weibo.com/weibo?q=%23%E6%96%87%E7%89%A9%E9%87%8C%E7%9A%84%E9%95%BF%E6%B1%9F%23&t=31&band_rank=3&Refer=top)<br />
-4. [黄子韬原价2368内场票降至262元](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8E%9F%E4%BB%B72368%E5%86%85%E5%9C%BA%E7%A5%A8%E9%99%8D%E8%87%B3262%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
-5. [人民文娱评以爱为营](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%23&t=31&band_rank=5&Refer=top)<br />
-6. [0713能不能上春晚](https://s.weibo.com/weibo?q=0713%E8%83%BD%E4%B8%8D%E8%83%BD%E4%B8%8A%E6%98%A5%E6%99%9A&t=31&band_rank=6&Refer=top)<br />
+4. [0713能不能上春晚](https://s.weibo.com/weibo?q=0713%E8%83%BD%E4%B8%8D%E8%83%BD%E4%B8%8A%E6%98%A5%E6%99%9A&t=31&band_rank=4&Refer=top)<br />
+5. [黄子韬原价2368内场票降至262元](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8E%9F%E4%BB%B72368%E5%86%85%E5%9C%BA%E7%A5%A8%E9%99%8D%E8%87%B3262%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
+6. [人民文娱评以爱为营](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [乌尔善取关](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%E5%8F%96%E5%85%B3&t=31&band_rank=7&Refer=top)<br />
 8. [Letme回归RNG](https://s.weibo.com/weibo?q=%23Letme%E5%9B%9E%E5%BD%92RNG%23&t=31&band_rank=8&Refer=top)<br />
 9. [大学生实习连续五晚通宵直播后猝死](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%BF%9E%E7%BB%AD%E4%BA%94%E6%99%9A%E9%80%9A%E5%AE%B5%E7%9B%B4%E6%92%AD%E5%90%8E%E7%8C%9D%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
