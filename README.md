@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 06:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 06:11:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [头发别耳后如何显脸小](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E5%88%AB%E8%80%B3%E5%90%8E%E5%A6%82%E4%BD%95%E6%98%BE%E8%84%B8%E5%B0%8F&t=31&band_rank=6&Refer=top)<br />
 7. [媒体评张桂梅原型电影引争议](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E5%BC%A0%E6%A1%82%E6%A2%85%E5%8E%9F%E5%9E%8B%E7%94%B5%E5%BD%B1%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=7&Refer=top)<br />
 8. [男子长期健身后食用蛋白粉查出肾虚](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%95%BF%E6%9C%9F%E5%81%A5%E8%BA%AB%E5%90%8E%E9%A3%9F%E7%94%A8%E8%9B%8B%E7%99%BD%E7%B2%89%E6%9F%A5%E5%87%BA%E8%82%BE%E8%99%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [20省人口自然增长率为负](https://s.weibo.com/weibo?q=%2320%E7%9C%81%E4%BA%BA%E5%8F%A3%E8%87%AA%E7%84%B6%E5%A2%9E%E9%95%BF%E7%8E%87%E4%B8%BA%E8%B4%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [教育局回应中学因财政困难向学生收200元](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E5%9B%A0%E8%B4%A2%E6%94%BF%E5%9B%B0%E9%9A%BE%E5%90%91%E5%AD%A6%E7%94%9F%E6%94%B6200%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
