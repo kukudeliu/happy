@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 15:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 15:50:01</h4></div>
 
 > 微博  
 
 1. [人民文娱评以爱为营](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%23&t=31&band_rank=1&Refer=top)<br />
 2. [张东健妻子被曝偷税漏税](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%9C%E5%81%A5%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%9B%9D%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23&t=31&band_rank=2&Refer=top)<br />
-3. [全球九大候鸟迁飞区四个经过我国](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E4%B9%9D%E5%A4%A7%E5%80%99%E9%B8%9F%E8%BF%81%E9%A3%9E%E5%8C%BA%E5%9B%9B%E4%B8%AA%E7%BB%8F%E8%BF%87%E6%88%91%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
+3. [未来每栋楼都是个光伏充电站](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%9D%A5%E6%AF%8F%E6%A0%8B%E6%A5%BC%E9%83%BD%E6%98%AF%E4%B8%AA%E5%85%89%E4%BC%8F%E5%85%85%E7%94%B5%E7%AB%99%23&t=31&band_rank=3&Refer=top)<br />
 4. [黄子韬原价2368内场票降至262元](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8E%9F%E4%BB%B72368%E5%86%85%E5%9C%BA%E7%A5%A8%E9%99%8D%E8%87%B3262%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [乌尔善取关](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%E5%8F%96%E5%85%B3&t=31&band_rank=5&Refer=top)<br />
 6. [甄嬛传官微 我怎么不知道](https://s.weibo.com/weibo?q=%E7%94%84%E5%AC%9B%E4%BC%A0%E5%AE%98%E5%BE%AE%20%E6%88%91%E6%80%8E%E4%B9%88%E4%B8%8D%E7%9F%A5%E9%81%93&t=31&band_rank=6&Refer=top)<br />
 7. [男子100多万买林肯称被客服嘲讽](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90100%E5%A4%9A%E4%B8%87%E4%B9%B0%E6%9E%97%E8%82%AF%E7%A7%B0%E8%A2%AB%E5%AE%A2%E6%9C%8D%E5%98%B2%E8%AE%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [腹泻以为是胃病结果是心梗](https://s.weibo.com/weibo?q=%23%E8%85%B9%E6%B3%BB%E4%BB%A5%E4%B8%BA%E6%98%AF%E8%83%83%E7%97%85%E7%BB%93%E6%9E%9C%E6%98%AF%E5%BF%83%E6%A2%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [30岁董宇辉撞脸2000岁长信宫灯](https://s.weibo.com/weibo?q=%2330%E5%B2%81%E8%91%A3%E5%AE%87%E8%BE%89%E6%92%9E%E8%84%B82000%E5%B2%81%E9%95%BF%E4%BF%A1%E5%AE%AB%E7%81%AF%23&t=31&band_rank=9&Refer=top)<br />
+8. [全球九大候鸟迁飞区四个经过我国](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E4%B9%9D%E5%A4%A7%E5%80%99%E9%B8%9F%E8%BF%81%E9%A3%9E%E5%8C%BA%E5%9B%9B%E4%B8%AA%E7%BB%8F%E8%BF%87%E6%88%91%E5%9B%BD%23&t=31&band_rank=8&Refer=top)<br />
+9. [腹泻以为是胃病结果是心梗](https://s.weibo.com/weibo?q=%23%E8%85%B9%E6%B3%BB%E4%BB%A5%E4%B8%BA%E6%98%AF%E8%83%83%E7%97%85%E7%BB%93%E6%9E%9C%E6%98%AF%E5%BF%83%E6%A2%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [大国工程彰显中国力量](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%BD%E5%B7%A5%E7%A8%8B%E5%BD%B0%E6%98%BE%E4%B8%AD%E5%9B%BD%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州新东方遭网红举报后停止办学](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E6%96%B0%E4%B8%9C%E6%96%B9%E9%81%AD%E7%BD%91%E7%BA%A2%E4%B8%BE%E6%8A%A5%E5%90%8E%E5%81%9C%E6%AD%A2%E5%8A%9E%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大学生连续5晚通宵直播后猝死](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%9E%E7%BB%AD5%E6%99%9A%E9%80%9A%E5%AE%B5%E7%9B%B4%E6%92%AD%E5%90%8E%E7%8C%9D%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [转基因种子公示期满月 商用在即](https://www.baidu.com/s?wd=%E8%BD%AC%E5%9F%BA%E5%9B%A0%E7%A7%8D%E5%AD%90%E5%85%AC%E7%A4%BA%E6%9C%9F%E6%BB%A1%E6%9C%88+%E5%95%86%E7%94%A8%E5%9C%A8%E5%8D%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [三桌人打蛋糕仗饭店包间糊满奶油](https://www.baidu.com/s?wd=%E4%B8%89%E6%A1%8C%E4%BA%BA%E6%89%93%E8%9B%8B%E7%B3%95%E4%BB%97%E9%A5%AD%E5%BA%97%E5%8C%85%E9%97%B4%E7%B3%8A%E6%BB%A1%E5%A5%B6%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [三桌人打蛋糕仗饭店包间糊满奶油](https://www.baidu.com/s?wd=%E4%B8%89%E6%A1%8C%E4%BA%BA%E6%89%93%E8%9B%8B%E7%B3%95%E4%BB%97%E9%A5%AD%E5%BA%97%E5%8C%85%E9%97%B4%E7%B3%8A%E6%BB%A1%E5%A5%B6%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [32个月女童疑注射阿奇霉素后死亡](https://www.baidu.com/s?wd=32%E4%B8%AA%E6%9C%88%E5%A5%B3%E7%AB%A5%E7%96%91%E6%B3%A8%E5%B0%84%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [甄嬛传将放出完整版？](https://www.baidu.com/s?wd=%E7%94%84%E5%AC%9B%E4%BC%A0%E5%B0%86%E6%94%BE%E5%87%BA%E5%AE%8C%E6%95%B4%E7%89%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [大国工程彰显中国力量](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%BD%E5%B7%A5%E7%A8%8B%E5%BD%B0%E6%98%BE%E4%B8%AD%E5%9B%BD%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州新东方遭网红举报后停止办学](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E6%96%B0%E4%B8%9C%E6%96%B9%E9%81%AD%E7%BD%91%E7%BA%A2%E4%B8%BE%E6%8A%A5%E5%90%8E%E5%81%9C%E6%AD%A2%E5%8A%9E%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大学生连续5晚通宵直播后猝死](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%9E%E7%BB%AD5%E6%99%9A%E9%80%9A%E5%AE%B5%E7%9B%B4%E6%92%AD%E5%90%8E%E7%8C%9D%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [转基因种子公示期满月 商用在即](https://www.baidu.com/s?wd=%E8%BD%AC%E5%9F%BA%E5%9B%A0%E7%A7%8D%E5%AD%90%E5%85%AC%E7%A4%BA%E6%9C%9F%E6%BB%A1%E6%9C%88+%E5%95%86%E7%94%A8%E5%9C%A8%E5%8D%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [三桌人打蛋糕仗饭店包间糊满奶油](https://www.baidu.com/s?wd=%E4%B8%89%E6%A1%8C%E4%BA%BA%E6%89%93%E8%9B%8B%E7%B3%95%E4%BB%97%E9%A5%AD%E5%BA%97%E5%8C%85%E9%97%B4%E7%B3%8A%E6%BB%A1%E5%A5%B6%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [三桌人打蛋糕仗饭店包间糊满奶油](https://www.baidu.com/s?wd=%E4%B8%89%E6%A1%8C%E4%BA%BA%E6%89%93%E8%9B%8B%E7%B3%95%E4%BB%97%E9%A5%AD%E5%BA%97%E5%8C%85%E9%97%B4%E7%B3%8A%E6%BB%A1%E5%A5%B6%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [32个月女童疑注射阿奇霉素后死亡](https://www.baidu.com/s?wd=32%E4%B8%AA%E6%9C%88%E5%A5%B3%E7%AB%A5%E7%96%91%E6%B3%A8%E5%B0%84%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0%E5%90%8E%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [甄嬛传将放出完整版？](https://www.baidu.com/s?wd=%E7%94%84%E5%AC%9B%E4%BC%A0%E5%B0%86%E6%94%BE%E5%87%BA%E5%AE%8C%E6%95%B4%E7%89%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
