@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 17:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 17:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Letme回归RNG](https://s.weibo.com/weibo?q=%23Letme%E5%9B%9E%E5%BD%92RNG%23&t=31&band_rank=6&Refer=top)<br />
 7. [乌尔善取关](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%E5%8F%96%E5%85%B3&t=31&band_rank=7&Refer=top)<br />
 8. [0713能不能上春晚](https://s.weibo.com/weibo?q=0713%E8%83%BD%E4%B8%8D%E8%83%BD%E4%B8%8A%E6%98%A5%E6%99%9A&t=31&band_rank=8&Refer=top)<br />
-9. [Letme 教练](https://s.weibo.com/weibo?q=Letme%20%E6%95%99%E7%BB%83&t=31&band_rank=9&Refer=top)<br />
+9. [大学生实习连续五晚通宵直播后猝死](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%BF%9E%E7%BB%AD%E4%BA%94%E6%99%9A%E9%80%9A%E5%AE%B5%E7%9B%B4%E6%92%AD%E5%90%8E%E7%8C%9D%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
