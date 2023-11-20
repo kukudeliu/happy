@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 10:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 10:48:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [BLACKPINK两名成员与YG签订组合约](https://s.weibo.com/weibo?q=%23BLACKPINK%E4%B8%A4%E5%90%8D%E6%88%90%E5%91%98%E4%B8%8EYG%E7%AD%BE%E8%AE%A2%E7%BB%84%E5%90%88%E7%BA%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [河南联通被曝强迫用户更换光猫](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E8%81%94%E9%80%9A%E8%A2%AB%E6%9B%9D%E5%BC%BA%E8%BF%AB%E7%94%A8%E6%88%B7%E6%9B%B4%E6%8D%A2%E5%85%89%E7%8C%AB%23&t=31&band_rank=5&Refer=top)<br />
 6. [加拿大间谍内讧](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%97%B4%E8%B0%8D%E5%86%85%E8%AE%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [新闻女王海王社死现场](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E6%B5%B7%E7%8E%8B%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [男子偷5300被发现还回去2500](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%B75300%E8%A2%AB%E5%8F%91%E7%8E%B0%E8%BF%98%E5%9B%9E%E5%8E%BB2500%23&t=31&band_rank=8&Refer=top)<br />
+7. [男子偷5300被发现还回去2500](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%B75300%E8%A2%AB%E5%8F%91%E7%8E%B0%E8%BF%98%E5%9B%9E%E5%8E%BB2500%23&t=31&band_rank=7&Refer=top)<br />
+8. [新闻女王海王社死现场](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E6%B5%B7%E7%8E%8B%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [Ning点评WBG教练](https://s.weibo.com/weibo?q=%23Ning%E7%82%B9%E8%AF%84WBG%E6%95%99%E7%BB%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
