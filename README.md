@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 21:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 21:52:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [头发别耳后如何显脸小](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E5%88%AB%E8%80%B3%E5%90%8E%E5%A6%82%E4%BD%95%E6%98%BE%E8%84%B8%E5%B0%8F&t=31&band_rank=4&Refer=top)<br />
 5. [韩媒说国足从未出现过巨星](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E8%AF%B4%E5%9B%BD%E8%B6%B3%E4%BB%8E%E6%9C%AA%E5%87%BA%E7%8E%B0%E8%BF%87%E5%B7%A8%E6%98%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [Faker拥有一栋大楼](https://s.weibo.com/weibo?q=%23Faker%E6%8B%A5%E6%9C%89%E4%B8%80%E6%A0%8B%E5%A4%A7%E6%A5%BC%23&t=31&band_rank=6&Refer=top)<br />
-7. [B站通报人肉开盒案例](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E9%80%9A%E6%8A%A5%E4%BA%BA%E8%82%89%E5%BC%80%E7%9B%92%E6%A1%88%E4%BE%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [吴世勋 杂志](https://s.weibo.com/weibo?q=%E5%90%B4%E4%B8%96%E5%8B%8B%20%E6%9D%82%E5%BF%97&t=31&band_rank=8&Refer=top)<br />
-9. [吴千语和施伯雄在一起的原因](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%8D%83%E8%AF%AD%E5%92%8C%E6%96%BD%E4%BC%AF%E9%9B%84%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
+7. [吴千语和施伯雄在一起的原因](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%8D%83%E8%AF%AD%E5%92%8C%E6%96%BD%E4%BC%AF%E9%9B%84%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
+8. [B站通报人肉开盒案例](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E9%80%9A%E6%8A%A5%E4%BA%BA%E8%82%89%E5%BC%80%E7%9B%92%E6%A1%88%E4%BE%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [吴世勋 杂志](https://s.weibo.com/weibo?q=%E5%90%B4%E4%B8%96%E5%8B%8B%20%E6%9D%82%E5%BF%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
