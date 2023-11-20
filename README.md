@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 18:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 18:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [于蕾 央视春晚总导演](https://s.weibo.com/weibo?q=%E4%BA%8E%E8%95%BE%20%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E6%80%BB%E5%AF%BC%E6%BC%94&t=31&band_rank=6&Refer=top)<br />
 7. [黄子韬原价2368内场票降至262元](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8E%9F%E4%BB%B72368%E5%86%85%E5%9C%BA%E7%A5%A8%E9%99%8D%E8%87%B3262%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [0713能不能上春晚](https://s.weibo.com/weibo?q=0713%E8%83%BD%E4%B8%8D%E8%83%BD%E4%B8%8A%E6%98%A5%E6%99%9A&t=31&band_rank=8&Refer=top)<br />
-9. [警犬山中搜索归来眼睛发炎取出草籽](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E7%8A%AC%E5%B1%B1%E4%B8%AD%E6%90%9C%E7%B4%A2%E5%BD%92%E6%9D%A5%E7%9C%BC%E7%9D%9B%E5%8F%91%E7%82%8E%E5%8F%96%E5%87%BA%E8%8D%89%E7%B1%BD%23&t=31&band_rank=9&Refer=top)<br />
+9. [乌尔善取关](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%E5%8F%96%E5%85%B3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
