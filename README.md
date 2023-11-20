@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 07:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 07:43:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [顾客扫码点餐法院判商家赔5000](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E6%89%AB%E7%A0%81%E7%82%B9%E9%A4%90%E6%B3%95%E9%99%A2%E5%88%A4%E5%95%86%E5%AE%B6%E8%B5%945000%23&t=31&band_rank=2&Refer=top)<br />
 3. [小朋友给00后民警送甜甜的锦旗](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%BB%9900%E5%90%8E%E6%B0%91%E8%AD%A6%E9%80%81%E7%94%9C%E7%94%9C%E7%9A%84%E9%94%A6%E6%97%97%23&t=31&band_rank=3&Refer=top)<br />
 4. [黑龙江一女童疑注射阿奇霉素后死亡](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%A5%B3%E7%AB%A5%E7%96%91%E6%B3%A8%E5%B0%84%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
-5. [教育局回应中学因财政困难向学生收200元](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E5%9B%A0%E8%B4%A2%E6%94%BF%E5%9B%B0%E9%9A%BE%E5%90%91%E5%AD%A6%E7%94%9F%E6%94%B6200%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
-6. [准新郎结婚前一天跳河救落水儿童](https://s.weibo.com/weibo?q=%23%E5%87%86%E6%96%B0%E9%83%8E%E7%BB%93%E5%A9%9A%E5%89%8D%E4%B8%80%E5%A4%A9%E8%B7%B3%E6%B2%B3%E6%95%91%E8%90%BD%E6%B0%B4%E5%84%BF%E7%AB%A5%23&t=31&band_rank=6&Refer=top)<br />
+5. [准新郎结婚前一天跳河救落水儿童](https://s.weibo.com/weibo?q=%23%E5%87%86%E6%96%B0%E9%83%8E%E7%BB%93%E5%A9%9A%E5%89%8D%E4%B8%80%E5%A4%A9%E8%B7%B3%E6%B2%B3%E6%95%91%E8%90%BD%E6%B0%B4%E5%84%BF%E7%AB%A5%23&t=31&band_rank=5&Refer=top)<br />
+6. [教育局回应中学因财政困难向学生收200元](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E5%9B%A0%E8%B4%A2%E6%94%BF%E5%9B%B0%E9%9A%BE%E5%90%91%E5%AD%A6%E7%94%9F%E6%94%B6200%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [头发别耳后如何显脸小](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E5%88%AB%E8%80%B3%E5%90%8E%E5%A6%82%E4%BD%95%E6%98%BE%E8%84%B8%E5%B0%8F&t=31&band_rank=7&Refer=top)<br />
 8. [关晓彤檀健次方否认有偿录祝福](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%AA%80%E5%81%A5%E6%AC%A1%E6%96%B9%E5%90%A6%E8%AE%A4%E6%9C%89%E5%81%BF%E5%BD%95%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=8&Refer=top)<br />
 9. [你们怎么说服刘诗诗干这事儿的](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BB%AC%E6%80%8E%E4%B9%88%E8%AF%B4%E6%9C%8D%E5%88%98%E8%AF%97%E8%AF%97%E5%B9%B2%E8%BF%99%E4%BA%8B%E5%84%BF%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
