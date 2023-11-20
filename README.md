@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 22:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 22:34:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [中国电商助力非洲民众奔向美好生活](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%95%86%E5%8A%A9%E5%8A%9B%E9%9D%9E%E6%B4%B2%E6%B0%91%E4%BC%97%E5%A5%94%E5%90%91%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [曝明星祝福视频高端定制5位数起步](https://www.baidu.com/s?wd=%E6%9B%9D%E6%98%8E%E6%98%9F%E7%A5%9D%E7%A6%8F%E8%A7%86%E9%A2%91%E9%AB%98%E7%AB%AF%E5%AE%9A%E5%88%B65%E4%BD%8D%E6%95%B0%E8%B5%B7%E6%AD%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [华为相关人士回应鸿蒙将不兼容安卓](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94%E9%B8%BF%E8%92%99%E5%B0%86%E4%B8%8D%E5%85%BC%E5%AE%B9%E5%AE%89%E5%8D%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [90后女子守号仅花10元中987万](https://www.baidu.com/s?wd=90%E5%90%8E%E5%A5%B3%E5%AD%90%E5%AE%88%E5%8F%B7%E4%BB%85%E8%8A%B110%E5%85%83%E4%B8%AD987%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [部分艺术类专业不再组织专业考试](https://www.baidu.com/s?wd=%E9%83%A8%E5%88%86%E8%89%BA%E6%9C%AF%E7%B1%BB%E4%B8%93%E4%B8%9A%E4%B8%8D%E5%86%8D%E7%BB%84%E7%BB%87%E4%B8%93%E4%B8%9A%E8%80%83%E8%AF%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [外交部回应美批准日本购买战斧导弹](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%89%B9%E5%87%86%E6%97%A5%E6%9C%AC%E8%B4%AD%E4%B9%B0%E6%88%98%E6%96%A7%E5%AF%BC%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [90后女子守号仅花10元中987万](https://www.baidu.com/s?wd=90%E5%90%8E%E5%A5%B3%E5%AD%90%E5%AE%88%E5%8F%B7%E4%BB%85%E8%8A%B110%E5%85%83%E4%B8%AD987%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [乐山警方辟谣两学生被迷晕带走](https://www.baidu.com/s?wd=%E4%B9%90%E5%B1%B1%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%A4%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%BF%B7%E6%99%95%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [中国电商助力非洲民众奔向美好生活](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%95%86%E5%8A%A9%E5%8A%9B%E9%9D%9E%E6%B4%B2%E6%B0%91%E4%BC%97%E5%A5%94%E5%90%91%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [曝明星祝福视频高端定制5位数起步](https://www.baidu.com/s?wd=%E6%9B%9D%E6%98%8E%E6%98%9F%E7%A5%9D%E7%A6%8F%E8%A7%86%E9%A2%91%E9%AB%98%E7%AB%AF%E5%AE%9A%E5%88%B65%E4%BD%8D%E6%95%B0%E8%B5%B7%E6%AD%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [华为相关人士回应鸿蒙将不兼容安卓](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94%E9%B8%BF%E8%92%99%E5%B0%86%E4%B8%8D%E5%85%BC%E5%AE%B9%E5%AE%89%E5%8D%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [90后女子守号仅花10元中987万](https://www.baidu.com/s?wd=90%E5%90%8E%E5%A5%B3%E5%AD%90%E5%AE%88%E5%8F%B7%E4%BB%85%E8%8A%B110%E5%85%83%E4%B8%AD987%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [部分艺术类专业不再组织专业考试](https://www.baidu.com/s?wd=%E9%83%A8%E5%88%86%E8%89%BA%E6%9C%AF%E7%B1%BB%E4%B8%93%E4%B8%9A%E4%B8%8D%E5%86%8D%E7%BB%84%E7%BB%87%E4%B8%93%E4%B8%9A%E8%80%83%E8%AF%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [外交部回应美批准日本购买战斧导弹](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%89%B9%E5%87%86%E6%97%A5%E6%9C%AC%E8%B4%AD%E4%B9%B0%E6%88%98%E6%96%A7%E5%AF%BC%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [90后女子守号仅花10元中987万](https://www.baidu.com/s?wd=90%E5%90%8E%E5%A5%B3%E5%AD%90%E5%AE%88%E5%8F%B7%E4%BB%85%E8%8A%B110%E5%85%83%E4%B8%AD987%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [乐山警方辟谣两学生被迷晕带走](https://www.baidu.com/s?wd=%E4%B9%90%E5%B1%B1%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%A4%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%BF%B7%E6%99%95%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
