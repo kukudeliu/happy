@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 23:29:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 23:30:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [蛋仔派对被大量投诉套路未成年充值](https://s.weibo.com/weibo?q=%23%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%E8%A2%AB%E5%A4%A7%E9%87%8F%E6%8A%95%E8%AF%89%E5%A5%97%E8%B7%AF%E6%9C%AA%E6%88%90%E5%B9%B4%E5%85%85%E5%80%BC%23&t=31&band_rank=6&Refer=top)<br />
 7. [李相夷绝笔](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%9B%B8%E5%A4%B7%E7%BB%9D%E7%AC%94&t=31&band_rank=7&Refer=top)<br />
 8. [金世正认为女团没实力不重要](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%B8%96%E6%AD%A3%E8%AE%A4%E4%B8%BA%E5%A5%B3%E5%9B%A2%E6%B2%A1%E5%AE%9E%E5%8A%9B%E4%B8%8D%E9%87%8D%E8%A6%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [关晓彤檀健次方否认有偿录祝福](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%AA%80%E5%81%A5%E6%AC%A1%E6%96%B9%E5%90%A6%E8%AE%A4%E6%9C%89%E5%81%BF%E5%BD%95%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [教育局回应中学因财政困难向学生收200元](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E5%9B%A0%E8%B4%A2%E6%94%BF%E5%9B%B0%E9%9A%BE%E5%90%91%E5%AD%A6%E7%94%9F%E6%94%B6200%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
