@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 21:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 21:04:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [B站通报人肉开盒案例](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E9%80%9A%E6%8A%A5%E4%BA%BA%E8%82%89%E5%BC%80%E7%9B%92%E6%A1%88%E4%BE%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [何猷君 能不能叫我小金薯条](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E8%83%BD%E4%B8%8D%E8%83%BD%E5%8F%AB%E6%88%91%E5%B0%8F%E9%87%91%E8%96%AF%E6%9D%A1&t=31&band_rank=7&Refer=top)<br />
 8. [人民文娱评以爱为营](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [专家称人民币12月可能进入正式升值通道](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%BA%BA%E6%B0%91%E5%B8%8112%E6%9C%88%E5%8F%AF%E8%83%BD%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E5%8D%87%E5%80%BC%E9%80%9A%E9%81%93%23&t=31&band_rank=9&Refer=top)<br />
+9. [大学生实习连续五晚通宵直播后猝死](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%BF%9E%E7%BB%AD%E4%BA%94%E6%99%9A%E9%80%9A%E5%AE%B5%E7%9B%B4%E6%92%AD%E5%90%8E%E7%8C%9D%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [大国工程彰显中国力量](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%BD%E5%B7%A5%E7%A8%8B%E5%BD%B0%E6%98%BE%E4%B8%AD%E5%9B%BD%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [副省长降为科员9年后二次被查](https://www.baidu.com/s?wd=%E5%89%AF%E7%9C%81%E9%95%BF%E9%99%8D%E4%B8%BA%E7%A7%91%E5%91%989%E5%B9%B4%E5%90%8E%E4%BA%8C%E6%AC%A1%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [农场推一晚8888元“猪景房”](https://www.baidu.com/s?wd=%E5%86%9C%E5%9C%BA%E6%8E%A8%E4%B8%80%E6%99%9A8888%E5%85%83%E2%80%9C%E7%8C%AA%E6%99%AF%E6%88%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [天降拘捕令儿子急砸门保住母亲21万](https://www.baidu.com/s?wd=%E5%A4%A9%E9%99%8D%E6%8B%98%E6%8D%95%E4%BB%A4%E5%84%BF%E5%AD%90%E6%80%A5%E7%A0%B8%E9%97%A8%E4%BF%9D%E4%BD%8F%E6%AF%8D%E4%BA%B221%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩媒：中国客场不好踢](https://www.baidu.com/s?wd=%E9%9F%A9%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%AE%A2%E5%9C%BA%E4%B8%8D%E5%A5%BD%E8%B8%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [寿衣店开小区旁遭业主堵门反对](https://www.baidu.com/s?wd=%E5%AF%BF%E8%A1%A3%E5%BA%97%E5%BC%80%E5%B0%8F%E5%8C%BA%E6%97%81%E9%81%AD%E4%B8%9A%E4%B8%BB%E5%A0%B5%E9%97%A8%E5%8F%8D%E5%AF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生扮女装进女寝被电晕？学校回应](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%89%AE%E5%A5%B3%E8%A3%85%E8%BF%9B%E5%A5%B3%E5%AF%9D%E8%A2%AB%E7%94%B5%E6%99%95%EF%BC%9F%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [乐山警方辟谣两学生被迷晕带走](https://www.baidu.com/s?wd=%E4%B9%90%E5%B1%B1%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%A4%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%BF%B7%E6%99%95%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [大国工程彰显中国力量](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%BD%E5%B7%A5%E7%A8%8B%E5%BD%B0%E6%98%BE%E4%B8%AD%E5%9B%BD%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [副省长降为科员9年后二次被查](https://www.baidu.com/s?wd=%E5%89%AF%E7%9C%81%E9%95%BF%E9%99%8D%E4%B8%BA%E7%A7%91%E5%91%989%E5%B9%B4%E5%90%8E%E4%BA%8C%E6%AC%A1%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [农场推一晚8888元“猪景房”](https://www.baidu.com/s?wd=%E5%86%9C%E5%9C%BA%E6%8E%A8%E4%B8%80%E6%99%9A8888%E5%85%83%E2%80%9C%E7%8C%AA%E6%99%AF%E6%88%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [天降拘捕令儿子急砸门保住母亲21万](https://www.baidu.com/s?wd=%E5%A4%A9%E9%99%8D%E6%8B%98%E6%8D%95%E4%BB%A4%E5%84%BF%E5%AD%90%E6%80%A5%E7%A0%B8%E9%97%A8%E4%BF%9D%E4%BD%8F%E6%AF%8D%E4%BA%B221%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩媒：中国客场不好踢](https://www.baidu.com/s?wd=%E9%9F%A9%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%AE%A2%E5%9C%BA%E4%B8%8D%E5%A5%BD%E8%B8%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [寿衣店开小区旁遭业主堵门反对](https://www.baidu.com/s?wd=%E5%AF%BF%E8%A1%A3%E5%BA%97%E5%BC%80%E5%B0%8F%E5%8C%BA%E6%97%81%E9%81%AD%E4%B8%9A%E4%B8%BB%E5%A0%B5%E9%97%A8%E5%8F%8D%E5%AF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生扮女装进女寝被电晕？学校回应](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%89%AE%E5%A5%B3%E8%A3%85%E8%BF%9B%E5%A5%B3%E5%AF%9D%E8%A2%AB%E7%94%B5%E6%99%95%EF%BC%9F%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [乐山警方辟谣两学生被迷晕带走](https://www.baidu.com/s?wd=%E4%B9%90%E5%B1%B1%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%A4%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%BF%B7%E6%99%95%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
