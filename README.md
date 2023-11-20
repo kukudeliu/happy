@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 07:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 07:45:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [黑龙江一女童疑注射阿奇霉素后死亡](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%A5%B3%E7%AB%A5%E7%96%91%E6%B3%A8%E5%B0%84%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [准新郎结婚前一天跳河救落水儿童](https://s.weibo.com/weibo?q=%23%E5%87%86%E6%96%B0%E9%83%8E%E7%BB%93%E5%A9%9A%E5%89%8D%E4%B8%80%E5%A4%A9%E8%B7%B3%E6%B2%B3%E6%95%91%E8%90%BD%E6%B0%B4%E5%84%BF%E7%AB%A5%23&t=31&band_rank=5&Refer=top)<br />
 6. [教育局回应中学因财政困难向学生收200元](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E5%9B%A0%E8%B4%A2%E6%94%BF%E5%9B%B0%E9%9A%BE%E5%90%91%E5%AD%A6%E7%94%9F%E6%94%B6200%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [头发别耳后如何显脸小](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E5%88%AB%E8%80%B3%E5%90%8E%E5%A6%82%E4%BD%95%E6%98%BE%E8%84%B8%E5%B0%8F&t=31&band_rank=7&Refer=top)<br />
-8. [你们怎么说服刘诗诗干这事儿的](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BB%AC%E6%80%8E%E4%B9%88%E8%AF%B4%E6%9C%8D%E5%88%98%E8%AF%97%E8%AF%97%E5%B9%B2%E8%BF%99%E4%BA%8B%E5%84%BF%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
-9. [关晓彤檀健次方否认有偿录祝福](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%AA%80%E5%81%A5%E6%AC%A1%E6%96%B9%E5%90%A6%E8%AE%A4%E6%9C%89%E5%81%BF%E5%BD%95%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=9&Refer=top)<br />
+7. [你们怎么说服刘诗诗干这事儿的](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BB%AC%E6%80%8E%E4%B9%88%E8%AF%B4%E6%9C%8D%E5%88%98%E8%AF%97%E8%AF%97%E5%B9%B2%E8%BF%99%E4%BA%8B%E5%84%BF%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
+8. [头发别耳后如何显脸小](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E5%88%AB%E8%80%B3%E5%90%8E%E5%A6%82%E4%BD%95%E6%98%BE%E8%84%B8%E5%B0%8F&t=31&band_rank=8&Refer=top)<br />
+9. [小时候流行的屁股针为什么消失了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%97%B6%E5%80%99%E6%B5%81%E8%A1%8C%E7%9A%84%E5%B1%81%E8%82%A1%E9%92%88%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B6%88%E5%A4%B1%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
