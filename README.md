@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 00:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 00:07:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [电视家 跑路](https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%AE%B6%20%E8%B7%91%E8%B7%AF&t=31&band_rank=4&Refer=top)<br />
 5. [男子长期健身后食用蛋白粉查出肾虚](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%95%BF%E6%9C%9F%E5%81%A5%E8%BA%AB%E5%90%8E%E9%A3%9F%E7%94%A8%E8%9B%8B%E7%99%BD%E7%B2%89%E6%9F%A5%E5%87%BA%E8%82%BE%E8%99%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [李相夷绝笔](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%9B%B8%E5%A4%B7%E7%BB%9D%E7%AC%94&t=31&band_rank=6&Refer=top)<br />
-7. [蛋仔派对被大量投诉套路未成年充值](https://s.weibo.com/weibo?q=%23%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%E8%A2%AB%E5%A4%A7%E9%87%8F%E6%8A%95%E8%AF%89%E5%A5%97%E8%B7%AF%E6%9C%AA%E6%88%90%E5%B9%B4%E5%85%85%E5%80%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [B站通报人肉开盒案例](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E9%80%9A%E6%8A%A5%E4%BA%BA%E8%82%89%E5%BC%80%E7%9B%92%E6%A1%88%E4%BE%8B%23&t=31&band_rank=8&Refer=top)<br />
+7. [B站通报人肉开盒案例](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E9%80%9A%E6%8A%A5%E4%BA%BA%E8%82%89%E5%BC%80%E7%9B%92%E6%A1%88%E4%BE%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [蛋仔派对被大量投诉套路未成年充值](https://s.weibo.com/weibo?q=%23%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%E8%A2%AB%E5%A4%A7%E9%87%8F%E6%8A%95%E8%AF%89%E5%A5%97%E8%B7%AF%E6%9C%AA%E6%88%90%E5%B9%B4%E5%85%85%E5%80%BC%23&t=31&band_rank=8&Refer=top)<br />
 9. [果敢电诈二代正接管家族黑色产业](https://s.weibo.com/weibo?q=%23%E6%9E%9C%E6%95%A2%E7%94%B5%E8%AF%88%E4%BA%8C%E4%BB%A3%E6%AD%A3%E6%8E%A5%E7%AE%A1%E5%AE%B6%E6%97%8F%E9%BB%91%E8%89%B2%E4%BA%A7%E4%B8%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
