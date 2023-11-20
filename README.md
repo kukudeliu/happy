@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 08:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 08:03:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [27岁研究生离世前一天发文感恩感谢](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2%23&t=31&band_rank=2&Refer=top)<br />
 3. [诗词藏着中国山水间的绝美景致](https://s.weibo.com/weibo?q=%23%E8%AF%97%E8%AF%8D%E8%97%8F%E7%9D%80%E4%B8%AD%E5%9B%BD%E5%B1%B1%E6%B0%B4%E9%97%B4%E7%9A%84%E7%BB%9D%E7%BE%8E%E6%99%AF%E8%87%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [Ning点评WBG教练](https://s.weibo.com/weibo?q=%23Ning%E7%82%B9%E8%AF%84WBG%E6%95%99%E7%BB%83%23&t=31&band_rank=4&Refer=top)<br />
-5. [被家长会上爸爸高情商发言圈粉了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E7%88%B8%E7%88%B8%E9%AB%98%E6%83%85%E5%95%86%E5%8F%91%E8%A8%80%E5%9C%88%E7%B2%89%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
+5. [适合扁头低颅顶的贵气发型](https://s.weibo.com/weibo?q=%E9%80%82%E5%90%88%E6%89%81%E5%A4%B4%E4%BD%8E%E9%A2%85%E9%A1%B6%E7%9A%84%E8%B4%B5%E6%B0%94%E5%8F%91%E5%9E%8B&t=31&band_rank=5&Refer=top)<br />
 6. [去年我国初婚人数低于1100万](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%B9%B4%E6%88%91%E5%9B%BD%E5%88%9D%E5%A9%9A%E4%BA%BA%E6%95%B0%E4%BD%8E%E4%BA%8E1100%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [国考准考证](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%E5%87%86%E8%80%83%E8%AF%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [快乐老友记](https://s.weibo.com/weibo?q=%E5%BF%AB%E4%B9%90%E8%80%81%E5%8F%8B%E8%AE%B0&t=31&band_rank=8&Refer=top)<br />
-9. [郭艾伦吐槽以爱为营剧情](https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E5%90%90%E6%A7%BD%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%89%A7%E6%83%85%23&t=31&band_rank=9&Refer=top)<br />
+7. [加维重伤](https://s.weibo.com/weibo?q=%E5%8A%A0%E7%BB%B4%E9%87%8D%E4%BC%A4&t=31&band_rank=7&Refer=top)<br />
+8. [被家长会上爸爸高情商发言圈粉了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E7%88%B8%E7%88%B8%E9%AB%98%E6%83%85%E5%95%86%E5%8F%91%E8%A8%80%E5%9C%88%E7%B2%89%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [国考准考证](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%E5%87%86%E8%80%83%E8%AF%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
