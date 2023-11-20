@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 17:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 17:29:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [于蕾再度拟任央视春晚总导演](https://www.baidu.com/s?wd=%E4%BA%8E%E8%95%BE%E5%86%8D%E5%BA%A6%E6%8B%9F%E4%BB%BB%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E6%80%BB%E5%AF%BC%E6%BC%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [艺考文化课成绩门槛提高](https://www.baidu.com/s?wd=%E8%89%BA%E8%80%83%E6%96%87%E5%8C%96%E8%AF%BE%E6%88%90%E7%BB%A9%E9%97%A8%E6%A7%9B%E6%8F%90%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家建议鼓励生育刺激消费](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E9%BC%93%E5%8A%B1%E7%94%9F%E8%82%B2%E5%88%BA%E6%BF%80%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大学生连续5晚通宵直播后猝死](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%9E%E7%BB%AD5%E6%99%9A%E9%80%9A%E5%AE%B5%E7%9B%B4%E6%92%AD%E5%90%8E%E7%8C%9D%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [三桌人打蛋糕仗饭店包间糊满奶油](https://www.baidu.com/s?wd=%E4%B8%89%E6%A1%8C%E4%BA%BA%E6%89%93%E8%9B%8B%E7%B3%95%E4%BB%97%E9%A5%AD%E5%BA%97%E5%8C%85%E9%97%B4%E7%B3%8A%E6%BB%A1%E5%A5%B6%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [外卖员为彩礼加班累死系谣言](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%91%98%E4%B8%BA%E5%BD%A9%E7%A4%BC%E5%8A%A0%E7%8F%AD%E7%B4%AF%E6%AD%BB%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [于蕾再度拟任央视春晚总导演](https://www.baidu.com/s?wd=%E4%BA%8E%E8%95%BE%E5%86%8D%E5%BA%A6%E6%8B%9F%E4%BB%BB%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E6%80%BB%E5%AF%BC%E6%BC%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [艺考文化课成绩门槛提高](https://www.baidu.com/s?wd=%E8%89%BA%E8%80%83%E6%96%87%E5%8C%96%E8%AF%BE%E6%88%90%E7%BB%A9%E9%97%A8%E6%A7%9B%E6%8F%90%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家建议鼓励生育刺激消费](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E9%BC%93%E5%8A%B1%E7%94%9F%E8%82%B2%E5%88%BA%E6%BF%80%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大学生连续5晚通宵直播后猝死](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%9E%E7%BB%AD5%E6%99%9A%E9%80%9A%E5%AE%B5%E7%9B%B4%E6%92%AD%E5%90%8E%E7%8C%9D%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [三桌人打蛋糕仗饭店包间糊满奶油](https://www.baidu.com/s?wd=%E4%B8%89%E6%A1%8C%E4%BA%BA%E6%89%93%E8%9B%8B%E7%B3%95%E4%BB%97%E9%A5%AD%E5%BA%97%E5%8C%85%E9%97%B4%E7%B3%8A%E6%BB%A1%E5%A5%B6%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [外卖员为彩礼加班累死系谣言](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%91%98%E4%B8%BA%E5%BD%A9%E7%A4%BC%E5%8A%A0%E7%8F%AD%E7%B4%AF%E6%AD%BB%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
