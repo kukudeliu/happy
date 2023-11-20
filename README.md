@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 09:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 09:02:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [美国前第一夫人罗莎琳卡特去世](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%89%8D%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E7%BD%97%E8%8E%8E%E7%90%B3%E5%8D%A1%E7%89%B9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [CPA 还不出成绩](https://s.weibo.com/weibo?q=CPA%20%E8%BF%98%E4%B8%8D%E5%87%BA%E6%88%90%E7%BB%A9&t=31&band_rank=6&Refer=top)<br />
 7. [广州地铁](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81&t=31&band_rank=7&Refer=top)<br />
-8. [前三季度我国569万对新人登记结婚](https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E6%88%91%E5%9B%BD569%E4%B8%87%E5%AF%B9%E6%96%B0%E4%BA%BA%E7%99%BB%E8%AE%B0%E7%BB%93%E5%A9%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [适合扁头低颅顶的贵气发型](https://s.weibo.com/weibo?q=%E9%80%82%E5%90%88%E6%89%81%E5%A4%B4%E4%BD%8E%E9%A2%85%E9%A1%B6%E7%9A%84%E8%B4%B5%E6%B0%94%E5%8F%91%E5%9E%8B&t=31&band_rank=9&Refer=top)<br />
+8. [适合扁头低颅顶的贵气发型](https://s.weibo.com/weibo?q=%E9%80%82%E5%90%88%E6%89%81%E5%A4%B4%E4%BD%8E%E9%A2%85%E9%A1%B6%E7%9A%84%E8%B4%B5%E6%B0%94%E5%8F%91%E5%9E%8B&t=31&band_rank=8&Refer=top)<br />
+9. [前三季度我国569万对新人登记结婚](https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E6%88%91%E5%9B%BD569%E4%B8%87%E5%AF%B9%E6%96%B0%E4%BA%BA%E7%99%BB%E8%AE%B0%E7%BB%93%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
