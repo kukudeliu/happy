@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 09:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 09:14:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [美国前第一夫人罗莎琳卡特去世](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%89%8D%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E7%BD%97%E8%8E%8E%E7%90%B3%E5%8D%A1%E7%89%B9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [CPA 还不出成绩](https://s.weibo.com/weibo?q=CPA%20%E8%BF%98%E4%B8%8D%E5%87%BA%E6%88%90%E7%BB%A9&t=31&band_rank=6&Refer=top)<br />
 7. [飞夺泸定桥被搬到竞综了](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E5%A4%BA%E6%B3%B8%E5%AE%9A%E6%A1%A5%E8%A2%AB%E6%90%AC%E5%88%B0%E7%AB%9E%E7%BB%BC%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [适合扁头低颅顶的贵气发型](https://s.weibo.com/weibo?q=%E9%80%82%E5%90%88%E6%89%81%E5%A4%B4%E4%BD%8E%E9%A2%85%E9%A1%B6%E7%9A%84%E8%B4%B5%E6%B0%94%E5%8F%91%E5%9E%8B&t=31&band_rank=8&Refer=top)<br />
-9. [广州地铁](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81&t=31&band_rank=9&Refer=top)<br />
+8. [广州地铁](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81&t=31&band_rank=8&Refer=top)<br />
+9. [适合扁头低颅顶的贵气发型](https://s.weibo.com/weibo?q=%E9%80%82%E5%90%88%E6%89%81%E5%A4%B4%E4%BD%8E%E9%A2%85%E9%A1%B6%E7%9A%84%E8%B4%B5%E6%B0%94%E5%8F%91%E5%9E%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男乘客拍打女列车员臀部被拘10日](https://www.baidu.com/s?wd=%E7%94%B7%E4%B9%98%E5%AE%A2%E6%8B%8D%E6%89%93%E5%A5%B3%E5%88%97%E8%BD%A6%E5%91%98%E8%87%80%E9%83%A8%E8%A2%AB%E6%8B%9810%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [莫迪AI合成跳舞视频疯传](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AAAI%E5%90%88%E6%88%90%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91%E7%96%AF%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红夫妇售楼处要账被打 警方回应](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%A4%AB%E5%A6%87%E5%94%AE%E6%A5%BC%E5%A4%84%E8%A6%81%E8%B4%A6%E8%A2%AB%E6%89%93+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [霉霉演唱会超千人中暑一女粉猝死](https://www.baidu.com/s?wd=%E9%9C%89%E9%9C%89%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B6%85%E5%8D%83%E4%BA%BA%E4%B8%AD%E6%9A%91%E4%B8%80%E5%A5%B3%E7%B2%89%E7%8C%9D%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [导盲犬带主人吃火锅迷路](https://www.baidu.com/s?wd=%E5%AF%BC%E7%9B%B2%E7%8A%AC%E5%B8%A6%E4%B8%BB%E4%BA%BA%E5%90%83%E7%81%AB%E9%94%85%E8%BF%B7%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [阿里辟谣“裁员25000人”](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%A3%81%E5%91%9825000%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男乘客拍打女列车员臀部被拘10日](https://www.baidu.com/s?wd=%E7%94%B7%E4%B9%98%E5%AE%A2%E6%8B%8D%E6%89%93%E5%A5%B3%E5%88%97%E8%BD%A6%E5%91%98%E8%87%80%E9%83%A8%E8%A2%AB%E6%8B%9810%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [莫迪AI合成跳舞视频疯传](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AAAI%E5%90%88%E6%88%90%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91%E7%96%AF%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红夫妇售楼处要账被打 警方回应](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%A4%AB%E5%A6%87%E5%94%AE%E6%A5%BC%E5%A4%84%E8%A6%81%E8%B4%A6%E8%A2%AB%E6%89%93+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [霉霉演唱会超千人中暑一女粉猝死](https://www.baidu.com/s?wd=%E9%9C%89%E9%9C%89%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B6%85%E5%8D%83%E4%BA%BA%E4%B8%AD%E6%9A%91%E4%B8%80%E5%A5%B3%E7%B2%89%E7%8C%9D%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [导盲犬带主人吃火锅迷路](https://www.baidu.com/s?wd=%E5%AF%BC%E7%9B%B2%E7%8A%AC%E5%B8%A6%E4%B8%BB%E4%BA%BA%E5%90%83%E7%81%AB%E9%94%85%E8%BF%B7%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [阿里辟谣“裁员25000人”](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%A3%81%E5%91%9825000%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
