@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 13:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 13:57:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [甄嬛传将放完整版](https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E4%BC%A0%E5%B0%86%E6%94%BE%E5%AE%8C%E6%95%B4%E7%89%88%23&t=31&band_rank=2&Refer=top)<br />
 3. [全球九大候鸟迁飞区四个经过我国](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E4%B9%9D%E5%A4%A7%E5%80%99%E9%B8%9F%E8%BF%81%E9%A3%9E%E5%8C%BA%E5%9B%9B%E4%B8%AA%E7%BB%8F%E8%BF%87%E6%88%91%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [想取关某一个人但是又怕太明显](https://s.weibo.com/weibo?q=%23%E6%83%B3%E5%8F%96%E5%85%B3%E6%9F%90%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%BD%86%E6%98%AF%E5%8F%88%E6%80%95%E5%A4%AA%E6%98%8E%E6%98%BE%23&t=31&band_rank=4&Refer=top)<br />
-5. [金莎回应签约孙丞潇](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%9B%9E%E5%BA%94%E7%AD%BE%E7%BA%A6%E5%AD%99%E4%B8%9E%E6%BD%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [雷军](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B&t=31&band_rank=6&Refer=top)<br />
+5. [雷军](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B&t=31&band_rank=5&Refer=top)<br />
+6. [金莎回应签约孙丞潇](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%9B%9E%E5%BA%94%E7%AD%BE%E7%BA%A6%E5%AD%99%E4%B8%9E%E6%BD%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [以爱为营女主三观](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A5%B3%E4%B8%BB%E4%B8%89%E8%A7%82&t=31&band_rank=7&Refer=top)<br />
 8. [专家称不论开放几胎人口都会萎缩](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E8%AE%BA%E5%BC%80%E6%94%BE%E5%87%A0%E8%83%8E%E4%BA%BA%E5%8F%A3%E9%83%BD%E4%BC%9A%E8%90%8E%E7%BC%A9%23&t=31&band_rank=8&Refer=top)<br />
 9. [日本核污水第三轮排海今日结束](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E7%AC%AC%E4%B8%89%E8%BD%AE%E6%8E%92%E6%B5%B7%E4%BB%8A%E6%97%A5%E7%BB%93%E6%9D%9F%23&t=31&band_rank=9&Refer=top)<br />
