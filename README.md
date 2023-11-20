@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 07:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 07:59:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [27岁研究生离世前一天发文感恩感谢](https://www.baidu.com/s?wd=27%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [网红夫妇售楼处要账被打 警方回应](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%A4%AB%E5%A6%87%E5%94%AE%E6%A5%BC%E5%A4%84%E8%A6%81%E8%B4%A6%E8%A2%AB%E6%89%93+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [最佳睡眠时长真的是8小时？](https://www.baidu.com/s?wd=%E6%9C%80%E4%BD%B3%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%95%BF%E7%9C%9F%E7%9A%84%E6%98%AF8%E5%B0%8F%E6%97%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [最佳睡眠时长真的是8小时？](https://www.baidu.com/s?wd=%E6%9C%80%E4%BD%B3%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%95%BF%E7%9C%9F%E7%9A%84%E6%98%AF8%E5%B0%8F%E6%97%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网红夫妇售楼处要账被打 警方回应](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%A4%AB%E5%A6%87%E5%94%AE%E6%A5%BC%E5%A4%84%E8%A6%81%E8%B4%A6%E8%A2%AB%E6%89%93+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [导盲犬带主人吃火锅迷路](https://www.baidu.com/s?wd=%E5%AF%BC%E7%9B%B2%E7%8A%AC%E5%B8%A6%E4%B8%BB%E4%BA%BA%E5%90%83%E7%81%AB%E9%94%85%E8%BF%B7%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [阿里辟谣“裁员25000人”](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%A3%81%E5%91%9825000%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [27岁研究生离世前一天发文感恩感谢](https://www.baidu.com/s?wd=27%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长会上“学渣”爸爸发言有格局](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E2%80%9C%E5%AD%A6%E6%B8%A3%E2%80%9D%E7%88%B8%E7%88%B8%E5%8F%91%E8%A8%80%E6%9C%89%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [网红夫妇售楼处要账被打 警方回应](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%A4%AB%E5%A6%87%E5%94%AE%E6%A5%BC%E5%A4%84%E8%A6%81%E8%B4%A6%E8%A2%AB%E6%89%93+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [最佳睡眠时长真的是8小时？](https://www.baidu.com/s?wd=%E6%9C%80%E4%BD%B3%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%95%BF%E7%9C%9F%E7%9A%84%E6%98%AF8%E5%B0%8F%E6%97%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [最佳睡眠时长真的是8小时？](https://www.baidu.com/s?wd=%E6%9C%80%E4%BD%B3%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%95%BF%E7%9C%9F%E7%9A%84%E6%98%AF8%E5%B0%8F%E6%97%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网红夫妇售楼处要账被打 警方回应](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%A4%AB%E5%A6%87%E5%94%AE%E6%A5%BC%E5%A4%84%E8%A6%81%E8%B4%A6%E8%A2%AB%E6%89%93+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [导盲犬带主人吃火锅迷路](https://www.baidu.com/s?wd=%E5%AF%BC%E7%9B%B2%E7%8A%AC%E5%B8%A6%E4%B8%BB%E4%BA%BA%E5%90%83%E7%81%AB%E9%94%85%E8%BF%B7%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [阿里辟谣“裁员25000人”](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%A3%81%E5%91%9825000%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
