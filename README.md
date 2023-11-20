@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 17:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 17:05:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [文物里的长江](https://s.weibo.com/weibo?q=%23%E6%96%87%E7%89%A9%E9%87%8C%E7%9A%84%E9%95%BF%E6%B1%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [Letme回归RNG](https://s.weibo.com/weibo?q=%23Letme%E5%9B%9E%E5%BD%92RNG%23&t=31&band_rank=4&Refer=top)<br />
 5. [乌尔善取关](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%E5%8F%96%E5%85%B3&t=31&band_rank=5&Refer=top)<br />
-6. [黄子韬原价2368内场票降至262元](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8E%9F%E4%BB%B72368%E5%86%85%E5%9C%BA%E7%A5%A8%E9%99%8D%E8%87%B3262%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [B站通报人肉开盒案例](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E9%80%9A%E6%8A%A5%E4%BA%BA%E8%82%89%E5%BC%80%E7%9B%92%E6%A1%88%E4%BE%8B%23&t=31&band_rank=7&Refer=top)<br />
+6. [B站通报人肉开盒案例](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E9%80%9A%E6%8A%A5%E4%BA%BA%E8%82%89%E5%BC%80%E7%9B%92%E6%A1%88%E4%BE%8B%23&t=31&band_rank=6&Refer=top)<br />
+7. [黄子韬原价2368内场票降至262元](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8E%9F%E4%BB%B72368%E5%86%85%E5%9C%BA%E7%A5%A8%E9%99%8D%E8%87%B3262%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [张东健妻子被曝偷税漏税](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%9C%E5%81%A5%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%9B%9D%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23&t=31&band_rank=8&Refer=top)<br />
 9. [水庆霞下课](https://s.weibo.com/weibo?q=%E6%B0%B4%E5%BA%86%E9%9C%9E%E4%B8%8B%E8%AF%BE&t=31&band_rank=9&Refer=top)<br />
 
