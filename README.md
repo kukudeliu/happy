@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 07:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 07:36:01</h4></div>
 
 > 微博  
 
-1. [黑龙江一女童疑注射阿奇霉素后死亡](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%A5%B3%E7%AB%A5%E7%96%91%E6%B3%A8%E5%B0%84%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=1&Refer=top)<br />
-2. [妻子生日女儿吃薯片吃出金手链给妈妈](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E7%94%9F%E6%97%A5%E5%A5%B3%E5%84%BF%E5%90%83%E8%96%AF%E7%89%87%E5%90%83%E5%87%BA%E9%87%91%E6%89%8B%E9%93%BE%E7%BB%99%E5%A6%88%E5%A6%88%23&t=31&band_rank=2&Refer=top)<br />
+1. [妻子生日女儿吃薯片吃出金手链给妈妈](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E7%94%9F%E6%97%A5%E5%A5%B3%E5%84%BF%E5%90%83%E8%96%AF%E7%89%87%E5%90%83%E5%87%BA%E9%87%91%E6%89%8B%E9%93%BE%E7%BB%99%E5%A6%88%E5%A6%88%23&t=31&band_rank=1&Refer=top)<br />
+2. [黑龙江一女童疑注射阿奇霉素后死亡](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%A5%B3%E7%AB%A5%E7%96%91%E6%B3%A8%E5%B0%84%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [小朋友给00后民警送甜甜的锦旗](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%BB%9900%E5%90%8E%E6%B0%91%E8%AD%A6%E9%80%81%E7%94%9C%E7%94%9C%E7%9A%84%E9%94%A6%E6%97%97%23&t=31&band_rank=3&Refer=top)<br />
 4. [顾客扫码点餐法院判商家赔5000](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E6%89%AB%E7%A0%81%E7%82%B9%E9%A4%90%E6%B3%95%E9%99%A2%E5%88%A4%E5%95%86%E5%AE%B6%E8%B5%945000%23&t=31&band_rank=4&Refer=top)<br />
 5. [教育局回应中学因财政困难向学生收200元](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E5%9B%A0%E8%B4%A2%E6%94%BF%E5%9B%B0%E9%9A%BE%E5%90%91%E5%AD%A6%E7%94%9F%E6%94%B6200%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
