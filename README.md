@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 16:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 16:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [黄子韬原价2368内场票降至262元](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8E%9F%E4%BB%B72368%E5%86%85%E5%9C%BA%E7%A5%A8%E9%99%8D%E8%87%B3262%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [乌尔善取关](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%E5%8F%96%E5%85%B3&t=31&band_rank=6&Refer=top)<br />
 7. [甄嬛传官微 我怎么不知道](https://s.weibo.com/weibo?q=%E7%94%84%E5%AC%9B%E4%BC%A0%E5%AE%98%E5%BE%AE%20%E6%88%91%E6%80%8E%E4%B9%88%E4%B8%8D%E7%9F%A5%E9%81%93&t=31&band_rank=7&Refer=top)<br />
-8. [未来每栋楼都是个光伏充电站](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%9D%A5%E6%AF%8F%E6%A0%8B%E6%A5%BC%E9%83%BD%E6%98%AF%E4%B8%AA%E5%85%89%E4%BC%8F%E5%85%85%E7%94%B5%E7%AB%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子100多万买林肯称被客服嘲讽](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90100%E5%A4%9A%E4%B8%87%E4%B9%B0%E6%9E%97%E8%82%AF%E7%A7%B0%E8%A2%AB%E5%AE%A2%E6%9C%8D%E5%98%B2%E8%AE%BD%23&t=31&band_rank=9&Refer=top)<br />
+8. [男子100多万买林肯称被客服嘲讽](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90100%E5%A4%9A%E4%B8%87%E4%B9%B0%E6%9E%97%E8%82%AF%E7%A7%B0%E8%A2%AB%E5%AE%A2%E6%9C%8D%E5%98%B2%E8%AE%BD%23&t=31&band_rank=8&Refer=top)<br />
+9. [摩托车骑手追尾小汽车坠湖身亡](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%89%98%E8%BD%A6%E9%AA%91%E6%89%8B%E8%BF%BD%E5%B0%BE%E5%B0%8F%E6%B1%BD%E8%BD%A6%E5%9D%A0%E6%B9%96%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
