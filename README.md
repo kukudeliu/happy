@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 10:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 10:01:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [27岁研究生离世前一天发文感恩感谢](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [Ning点评WBG教练](https://s.weibo.com/weibo?q=%23Ning%E7%82%B9%E8%AF%84WBG%E6%95%99%E7%BB%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫李现国色芳华开始置景了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E5%BC%80%E5%A7%8B%E7%BD%AE%E6%99%AF%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [曺圭贤遇袭击负伤](https://s.weibo.com/weibo?q=%23%E6%9B%BA%E5%9C%AD%E8%B4%A4%E9%81%87%E8%A2%AD%E5%87%BB%E8%B4%9F%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [宁安如梦魔改张遮](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E9%AD%94%E6%94%B9%E5%BC%A0%E9%81%AE%23&t=31&band_rank=9&Refer=top)<br />
+8. [宁安如梦魔改张遮](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E9%AD%94%E6%94%B9%E5%BC%A0%E9%81%AE%23&t=31&band_rank=8&Refer=top)<br />
+9. [CPA 还不出成绩](https://s.weibo.com/weibo?q=CPA%20%E8%BF%98%E4%B8%8D%E5%87%BA%E6%88%90%E7%BB%A9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
