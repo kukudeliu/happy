@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 19:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 19:11:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [何猷君 能不能叫我小金薯条](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E8%83%BD%E4%B8%8D%E8%83%BD%E5%8F%AB%E6%88%91%E5%B0%8F%E9%87%91%E8%96%AF%E6%9D%A1&t=31&band_rank=4&Refer=top)<br />
 5. [渔民误捕300斤大海龟后果断放生](https://s.weibo.com/weibo?q=%23%E6%B8%94%E6%B0%91%E8%AF%AF%E6%8D%95300%E6%96%A4%E5%A4%A7%E6%B5%B7%E9%BE%9F%E5%90%8E%E6%9E%9C%E6%96%AD%E6%94%BE%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [大学生实习连续五晚通宵直播后猝死](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%BF%9E%E7%BB%AD%E4%BA%94%E6%99%9A%E9%80%9A%E5%AE%B5%E7%9B%B4%E6%92%AD%E5%90%8E%E7%8C%9D%E6%AD%BB%23&t=31&band_rank=6&Refer=top)<br />
-7. [B站通报人肉开盒案例](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E9%80%9A%E6%8A%A5%E4%BA%BA%E8%82%89%E5%BC%80%E7%9B%92%E6%A1%88%E4%BE%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [秦岚辛芷蕾 我俩真没法收场了](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E6%88%91%E4%BF%A9%E7%9C%9F%E6%B2%A1%E6%B3%95%E6%94%B6%E5%9C%BA%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [4位高中同学连续四年资助去世同学家庭](https://s.weibo.com/weibo?q=%234%E4%BD%8D%E9%AB%98%E4%B8%AD%E5%90%8C%E5%AD%A6%E8%BF%9E%E7%BB%AD%E5%9B%9B%E5%B9%B4%E8%B5%84%E5%8A%A9%E5%8E%BB%E4%B8%96%E5%90%8C%E5%AD%A6%E5%AE%B6%E5%BA%AD%23&t=31&band_rank=9&Refer=top)<br />
+7. [4位高中同学连续四年资助去世同学家庭](https://s.weibo.com/weibo?q=%234%E4%BD%8D%E9%AB%98%E4%B8%AD%E5%90%8C%E5%AD%A6%E8%BF%9E%E7%BB%AD%E5%9B%9B%E5%B9%B4%E8%B5%84%E5%8A%A9%E5%8E%BB%E4%B8%96%E5%90%8C%E5%AD%A6%E5%AE%B6%E5%BA%AD%23&t=31&band_rank=7&Refer=top)<br />
+8. [B站通报人肉开盒案例](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E9%80%9A%E6%8A%A5%E4%BA%BA%E8%82%89%E5%BC%80%E7%9B%92%E6%A1%88%E4%BE%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [贺峻霖获中传奖学金](https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E8%8E%B7%E4%B8%AD%E4%BC%A0%E5%A5%96%E5%AD%A6%E9%87%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
