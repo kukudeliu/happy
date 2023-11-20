@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 18:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 18:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [B站通报人肉开盒案例](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E9%80%9A%E6%8A%A5%E4%BA%BA%E8%82%89%E5%BC%80%E7%9B%92%E6%A1%88%E4%BE%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [老人欲加投资群被3人包围教反诈](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%AC%B2%E5%8A%A0%E6%8A%95%E8%B5%84%E7%BE%A4%E8%A2%AB3%E4%BA%BA%E5%8C%85%E5%9B%B4%E6%95%99%E5%8F%8D%E8%AF%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [于蕾 央视春晚总导演](https://s.weibo.com/weibo?q=%E4%BA%8E%E8%95%BE%20%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E6%80%BB%E5%AF%BC%E6%BC%94&t=31&band_rank=8&Refer=top)<br />
-9. [乌尔善取关](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%E5%8F%96%E5%85%B3&t=31&band_rank=9&Refer=top)<br />
+9. [秦岚辛芷蕾 我俩真没法收场了](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E6%88%91%E4%BF%A9%E7%9C%9F%E6%B2%A1%E6%B3%95%E6%94%B6%E5%9C%BA%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
