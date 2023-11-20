@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 03:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 03:26:01</h4></div>
 
 > 微博  
 
-1. [黑龙江一女童疑注射阿奇霉素后死亡](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%A5%B3%E7%AB%A5%E7%96%91%E6%B3%A8%E5%B0%84%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=1&Refer=top)<br />
-2. [顾客扫码点餐法院判商家赔5000](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E6%89%AB%E7%A0%81%E7%82%B9%E9%A4%90%E6%B3%95%E9%99%A2%E5%88%A4%E5%95%86%E5%AE%B6%E8%B5%945000%23&t=31&band_rank=2&Refer=top)<br />
+1. [顾客扫码点餐法院判商家赔5000](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E6%89%AB%E7%A0%81%E7%82%B9%E9%A4%90%E6%B3%95%E9%99%A2%E5%88%A4%E5%95%86%E5%AE%B6%E8%B5%945000%23&t=31&band_rank=1&Refer=top)<br />
+2. [黑龙江一女童疑注射阿奇霉素后死亡](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%A5%B3%E7%AB%A5%E7%96%91%E6%B3%A8%E5%B0%84%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [小朋友给00后民警送甜甜的锦旗](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%BB%9900%E5%90%8E%E6%B0%91%E8%AD%A6%E9%80%81%E7%94%9C%E7%94%9C%E7%9A%84%E9%94%A6%E6%97%97%23&t=31&band_rank=3&Refer=top)<br />
 4. [头发别耳后如何显脸小](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E5%88%AB%E8%80%B3%E5%90%8E%E5%A6%82%E4%BD%95%E6%98%BE%E8%84%B8%E5%B0%8F&t=31&band_rank=4&Refer=top)<br />
 5. [媒体评张桂梅原型电影引争议](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E5%BC%A0%E6%A1%82%E6%A2%85%E5%8E%9F%E5%9E%8B%E7%94%B5%E5%BD%B1%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=5&Refer=top)<br />
