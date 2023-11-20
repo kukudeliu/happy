@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 20:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 20:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [B站通报人肉开盒案例](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E9%80%9A%E6%8A%A5%E4%BA%BA%E8%82%89%E5%BC%80%E7%9B%92%E6%A1%88%E4%BE%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [乌尔善取关](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%E5%8F%96%E5%85%B3&t=31&band_rank=7&Refer=top)<br />
 8. [大学生实习连续五晚通宵直播后猝死](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%BF%9E%E7%BB%AD%E4%BA%94%E6%99%9A%E9%80%9A%E5%AE%B5%E7%9B%B4%E6%92%AD%E5%90%8E%E7%8C%9D%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [黑龙江一平房突发火灾7人遇难](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%B9%B3%E6%88%BF%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE7%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [4位高中同学连续四年资助去世同学家庭](https://s.weibo.com/weibo?q=%234%E4%BD%8D%E9%AB%98%E4%B8%AD%E5%90%8C%E5%AD%A6%E8%BF%9E%E7%BB%AD%E5%9B%9B%E5%B9%B4%E8%B5%84%E5%8A%A9%E5%8E%BB%E4%B8%96%E5%90%8C%E5%AD%A6%E5%AE%B6%E5%BA%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
