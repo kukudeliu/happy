@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 11:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 11:17:01</h4></div>
 
 > 微博  
 
 1. [以爱为营女主三观](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A5%B3%E4%B8%BB%E4%B8%89%E8%A7%82&t=31&band_rank=1&Refer=top)<br />
-2. [韩国总统祝贺T1夺冠](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%A5%9D%E8%B4%BAT1%E5%A4%BA%E5%86%A0&t=31&band_rank=2&Refer=top)<br />
+2. [霸王茶姬口令](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%8F%A3%E4%BB%A4&t=31&band_rank=2&Refer=top)<br />
 3. [诗词藏着中国山水间的绝美景致](https://s.weibo.com/weibo?q=%23%E8%AF%97%E8%AF%8D%E8%97%8F%E7%9D%80%E4%B8%AD%E5%9B%BD%E5%B1%B1%E6%B0%B4%E9%97%B4%E7%9A%84%E7%BB%9D%E7%BE%8E%E6%99%AF%E8%87%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [BLACKPINK两名成员与YG签订组合约](https://s.weibo.com/weibo?q=%23BLACKPINK%E4%B8%A4%E5%90%8D%E6%88%90%E5%91%98%E4%B8%8EYG%E7%AD%BE%E8%AE%A2%E7%BB%84%E5%90%88%E7%BA%A6%23&t=31&band_rank=4&Refer=top)<br />
-5. [霸王茶姬口令](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%8F%A3%E4%BB%A4&t=31&band_rank=5&Refer=top)<br />
+5. [韩国总统祝贺T1夺冠](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%A5%9D%E8%B4%BAT1%E5%A4%BA%E5%86%A0&t=31&band_rank=5&Refer=top)<br />
 6. [以爱为营 降智](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E9%99%8D%E6%99%BA&t=31&band_rank=6&Refer=top)<br />
 7. [男子偷5300被发现还回去2500](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%B75300%E8%A2%AB%E5%8F%91%E7%8E%B0%E8%BF%98%E5%9B%9E%E5%8E%BB2500%23&t=31&band_rank=7&Refer=top)<br />
-8. [加拿大间谍内讧](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%97%B4%E8%B0%8D%E5%86%85%E8%AE%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [电子刊颠婆](https://s.weibo.com/weibo?q=%E7%94%B5%E5%AD%90%E5%88%8A%E9%A2%A0%E5%A9%86&t=31&band_rank=9&Refer=top)<br />
+8. [电子刊颠婆](https://s.weibo.com/weibo?q=%E7%94%B5%E5%AD%90%E5%88%8A%E9%A2%A0%E5%A9%86&t=31&band_rank=8&Refer=top)<br />
+9. [加拿大间谍内讧](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%97%B4%E8%B0%8D%E5%86%85%E8%AE%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
