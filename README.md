@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 15:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 15:45:01</h4></div>
 
 > 微博  
 
@@ -20,7 +20,7 @@
 1. [把舵中美关系 领航亚太合作](https://www.baidu.com/s?wd=%E6%8A%8A%E8%88%B5%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB+%E9%A2%86%E8%88%AA%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [乌尔善取关封神所有演员](https://www.baidu.com/s?wd=%E4%B9%8C%E5%B0%94%E5%96%84%E5%8F%96%E5%85%B3%E5%B0%81%E7%A5%9E%E6%89%80%E6%9C%89%E6%BC%94%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [多地叫停“安全教育平台”打卡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%8F%AB%E5%81%9C%E2%80%9C%E5%AE%89%E5%85%A8%E6%95%99%E8%82%B2%E5%B9%B3%E5%8F%B0%E2%80%9D%E6%89%93%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [别让“扫码”成负担](https://www.baidu.com/s?wd=%E5%88%AB%E8%AE%A9%E2%80%9C%E6%89%AB%E7%A0%81%E2%80%9D%E6%88%90%E8%B4%9F%E6%8B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [大国工程彰显中国力量](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%BD%E5%B7%A5%E7%A8%8B%E5%BD%B0%E6%98%BE%E4%B8%AD%E5%9B%BD%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州新东方遭网红举报后停止办学](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E6%96%B0%E4%B8%9C%E6%96%B9%E9%81%AD%E7%BD%91%E7%BA%A2%E4%B8%BE%E6%8A%A5%E5%90%8E%E5%81%9C%E6%AD%A2%E5%8A%9E%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大学生连续5晚通宵直播后猝死](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%9E%E7%BB%AD5%E6%99%9A%E9%80%9A%E5%AE%B5%E7%9B%B4%E6%92%AD%E5%90%8E%E7%8C%9D%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [转基因种子公示期满月 商用在即](https://www.baidu.com/s?wd=%E8%BD%AC%E5%9F%BA%E5%9B%A0%E7%A7%8D%E5%AD%90%E5%85%AC%E7%A4%BA%E6%9C%9F%E6%BB%A1%E6%9C%88+%E5%95%86%E7%94%A8%E5%9C%A8%E5%8D%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -32,7 +32,7 @@
 1. [把舵中美关系 领航亚太合作](https://www.baidu.com/s?wd=%E6%8A%8A%E8%88%B5%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB+%E9%A2%86%E8%88%AA%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [乌尔善取关封神所有演员](https://www.baidu.com/s?wd=%E4%B9%8C%E5%B0%94%E5%96%84%E5%8F%96%E5%85%B3%E5%B0%81%E7%A5%9E%E6%89%80%E6%9C%89%E6%BC%94%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [多地叫停“安全教育平台”打卡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%8F%AB%E5%81%9C%E2%80%9C%E5%AE%89%E5%85%A8%E6%95%99%E8%82%B2%E5%B9%B3%E5%8F%B0%E2%80%9D%E6%89%93%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [别让“扫码”成负担](https://www.baidu.com/s?wd=%E5%88%AB%E8%AE%A9%E2%80%9C%E6%89%AB%E7%A0%81%E2%80%9D%E6%88%90%E8%B4%9F%E6%8B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [大国工程彰显中国力量](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%BD%E5%B7%A5%E7%A8%8B%E5%BD%B0%E6%98%BE%E4%B8%AD%E5%9B%BD%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州新东方遭网红举报后停止办学](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E6%96%B0%E4%B8%9C%E6%96%B9%E9%81%AD%E7%BD%91%E7%BA%A2%E4%B8%BE%E6%8A%A5%E5%90%8E%E5%81%9C%E6%AD%A2%E5%8A%9E%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大学生连续5晚通宵直播后猝死](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%9E%E7%BB%AD5%E6%99%9A%E9%80%9A%E5%AE%B5%E7%9B%B4%E6%92%AD%E5%90%8E%E7%8C%9D%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [转基因种子公示期满月 商用在即](https://www.baidu.com/s?wd=%E8%BD%AC%E5%9F%BA%E5%9B%A0%E7%A7%8D%E5%AD%90%E5%85%AC%E7%A4%BA%E6%9C%9F%E6%BB%A1%E6%9C%88+%E5%95%86%E7%94%A8%E5%9C%A8%E5%8D%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
