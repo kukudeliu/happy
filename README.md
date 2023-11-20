@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 10:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 10:58:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [BLACKPINK两名成员与YG签订组合约](https://s.weibo.com/weibo?q=%23BLACKPINK%E4%B8%A4%E5%90%8D%E6%88%90%E5%91%98%E4%B8%8EYG%E7%AD%BE%E8%AE%A2%E7%BB%84%E5%90%88%E7%BA%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [河南联通被曝强迫用户更换光猫](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E8%81%94%E9%80%9A%E8%A2%AB%E6%9B%9D%E5%BC%BA%E8%BF%AB%E7%94%A8%E6%88%B7%E6%9B%B4%E6%8D%A2%E5%85%89%E7%8C%AB%23&t=31&band_rank=5&Refer=top)<br />
 6. [加拿大间谍内讧](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%97%B4%E8%B0%8D%E5%86%85%E8%AE%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [韩国顶级明星涉嫌偷税漏税](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%A1%B6%E7%BA%A7%E6%98%8E%E6%98%9F%E6%B6%89%E5%AB%8C%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [以爱为营 降智](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E9%99%8D%E6%99%BA&t=31&band_rank=8&Refer=top)<br />
+7. [以爱为营 降智](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E9%99%8D%E6%99%BA&t=31&band_rank=7&Refer=top)<br />
+8. [韩国顶级明星涉嫌偷税漏税](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%A1%B6%E7%BA%A7%E6%98%8E%E6%98%9F%E6%B6%89%E5%AB%8C%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23&t=31&band_rank=8&Refer=top)<br />
 9. [新闻女王海王社死现场](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E6%B5%B7%E7%8E%8B%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
