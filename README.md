@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 02:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 02:34:02</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [专家：人民币或进入正式升值通道](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%BA%BA%E6%B0%91%E5%B8%81%E6%88%96%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E5%8D%87%E5%80%BC%E9%80%9A%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国电商助力非洲民众奔向美好生活](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%95%86%E5%8A%A9%E5%8A%9B%E9%9D%9E%E6%B4%B2%E6%B0%91%E4%BC%97%E5%A5%94%E5%90%91%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [副省长降为科员9年后二次被查](https://www.baidu.com/s?wd=%E5%89%AF%E7%9C%81%E9%95%BF%E9%99%8D%E4%B8%BA%E7%A7%91%E5%91%989%E5%B9%B4%E5%90%8E%E4%BA%8C%E6%AC%A1%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [警方通报一学校职工酒驾致1死2伤](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E5%AD%A6%E6%A0%A1%E8%81%8C%E5%B7%A5%E9%85%92%E9%A9%BE%E8%87%B41%E6%AD%BB2%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中沙央行签署双边本币互换协议](https://www.baidu.com/s?wd=%E4%B8%AD%E6%B2%99%E5%A4%AE%E8%A1%8C%E7%AD%BE%E7%BD%B2%E5%8F%8C%E8%BE%B9%E6%9C%AC%E5%B8%81%E4%BA%92%E6%8D%A2%E5%8D%8F%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [国防部回应中澳军舰东海相遇](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E6%BE%B3%E5%86%9B%E8%88%B0%E4%B8%9C%E6%B5%B7%E7%9B%B8%E9%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [老人误将万元现金与辣椒一同售出](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E8%AF%AF%E5%B0%86%E4%B8%87%E5%85%83%E7%8E%B0%E9%87%91%E4%B8%8E%E8%BE%A3%E6%A4%92%E4%B8%80%E5%90%8C%E5%94%AE%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [90后女子守号仅花10元中987万](https://www.baidu.com/s?wd=90%E5%90%8E%E5%A5%B3%E5%AD%90%E5%AE%88%E5%8F%B7%E4%BB%85%E8%8A%B110%E5%85%83%E4%B8%AD987%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [乐山警方辟谣两学生被迷晕带走](https://www.baidu.com/s?wd=%E4%B9%90%E5%B1%B1%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%A4%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%BF%B7%E6%99%95%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [专家：人民币或进入正式升值通道](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%BA%BA%E6%B0%91%E5%B8%81%E6%88%96%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E5%8D%87%E5%80%BC%E9%80%9A%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国电商助力非洲民众奔向美好生活](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%95%86%E5%8A%A9%E5%8A%9B%E9%9D%9E%E6%B4%B2%E6%B0%91%E4%BC%97%E5%A5%94%E5%90%91%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [副省长降为科员9年后二次被查](https://www.baidu.com/s?wd=%E5%89%AF%E7%9C%81%E9%95%BF%E9%99%8D%E4%B8%BA%E7%A7%91%E5%91%989%E5%B9%B4%E5%90%8E%E4%BA%8C%E6%AC%A1%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [警方通报一学校职工酒驾致1死2伤](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E5%AD%A6%E6%A0%A1%E8%81%8C%E5%B7%A5%E9%85%92%E9%A9%BE%E8%87%B41%E6%AD%BB2%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中沙央行签署双边本币互换协议](https://www.baidu.com/s?wd=%E4%B8%AD%E6%B2%99%E5%A4%AE%E8%A1%8C%E7%AD%BE%E7%BD%B2%E5%8F%8C%E8%BE%B9%E6%9C%AC%E5%B8%81%E4%BA%92%E6%8D%A2%E5%8D%8F%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [国防部回应中澳军舰东海相遇](https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E6%BE%B3%E5%86%9B%E8%88%B0%E4%B8%9C%E6%B5%B7%E7%9B%B8%E9%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [老人误将万元现金与辣椒一同售出](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E8%AF%AF%E5%B0%86%E4%B8%87%E5%85%83%E7%8E%B0%E9%87%91%E4%B8%8E%E8%BE%A3%E6%A4%92%E4%B8%80%E5%90%8C%E5%94%AE%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [90后女子守号仅花10元中987万](https://www.baidu.com/s?wd=90%E5%90%8E%E5%A5%B3%E5%AD%90%E5%AE%88%E5%8F%B7%E4%BB%85%E8%8A%B110%E5%85%83%E4%B8%AD987%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [乐山警方辟谣两学生被迷晕带走](https://www.baidu.com/s?wd=%E4%B9%90%E5%B1%B1%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%A4%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%BF%B7%E6%99%95%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
