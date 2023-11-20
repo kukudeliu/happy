@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 15:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 15:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [想取关某一个人但是又怕太明显](https://s.weibo.com/weibo?q=%23%E6%83%B3%E5%8F%96%E5%85%B3%E6%9F%90%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%BD%86%E6%98%AF%E5%8F%88%E6%80%95%E5%A4%AA%E6%98%8E%E6%98%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [雷军](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B&t=31&band_rank=7&Refer=top)<br />
 8. [腹泻以为是胃病结果是心梗](https://s.weibo.com/weibo?q=%23%E8%85%B9%E6%B3%BB%E4%BB%A5%E4%B8%BA%E6%98%AF%E8%83%83%E7%97%85%E7%BB%93%E6%9E%9C%E6%98%AF%E5%BF%83%E6%A2%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [累计超2.3万吨核污水流入大海](https://s.weibo.com/weibo?q=%23%E7%B4%AF%E8%AE%A1%E8%B6%852.3%E4%B8%87%E5%90%A8%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%B5%81%E5%85%A5%E5%A4%A7%E6%B5%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子100多万买林肯称被客服嘲讽](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90100%E5%A4%9A%E4%B8%87%E4%B9%B0%E6%9E%97%E8%82%AF%E7%A7%B0%E8%A2%AB%E5%AE%A2%E6%9C%8D%E5%98%B2%E8%AE%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
