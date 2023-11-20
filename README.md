@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 13:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 13:49:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [想取关某一个人但是又怕太明显](https://s.weibo.com/weibo?q=%23%E6%83%B3%E5%8F%96%E5%85%B3%E6%9F%90%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%BD%86%E6%98%AF%E5%8F%88%E6%80%95%E5%A4%AA%E6%98%8E%E6%98%BE%23&t=31&band_rank=4&Refer=top)<br />
 5. [金莎回应签约孙丞潇](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%9B%9E%E5%BA%94%E7%AD%BE%E7%BA%A6%E5%AD%99%E4%B8%9E%E6%BD%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [我本是高山 网吧](https://s.weibo.com/weibo?q=%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%20%E7%BD%91%E5%90%A7&t=31&band_rank=6&Refer=top)<br />
-7. [专家称不论开放几胎人口都会萎缩](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E8%AE%BA%E5%BC%80%E6%94%BE%E5%87%A0%E8%83%8E%E4%BA%BA%E5%8F%A3%E9%83%BD%E4%BC%9A%E8%90%8E%E7%BC%A9%23&t=31&band_rank=7&Refer=top)<br />
-8. [雷军](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B&t=31&band_rank=8&Refer=top)<br />
+7. [雷军](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B&t=31&band_rank=7&Refer=top)<br />
+8. [专家称不论开放几胎人口都会萎缩](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E8%AE%BA%E5%BC%80%E6%94%BE%E5%87%A0%E8%83%8E%E4%BA%BA%E5%8F%A3%E9%83%BD%E4%BC%9A%E8%90%8E%E7%BC%A9%23&t=31&band_rank=8&Refer=top)<br />
 9. [日本核污水第三轮排海今日结束](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E7%AC%AC%E4%B8%89%E8%BD%AE%E6%8E%92%E6%B5%B7%E4%BB%8A%E6%97%A5%E7%BB%93%E6%9D%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [马斯克的星舰内部竟是六层豪宅](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E6%98%9F%E8%88%B0%E5%86%85%E9%83%A8%E7%AB%9F%E6%98%AF%E5%85%AD%E5%B1%82%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女骑手超车被弹飞坠湖身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E9%AA%91%E6%89%8B%E8%B6%85%E8%BD%A6%E8%A2%AB%E5%BC%B9%E9%A3%9E%E5%9D%A0%E6%B9%96%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杭州新东方遭网红举报后停止办学](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E6%96%B0%E4%B8%9C%E6%96%B9%E9%81%AD%E7%BD%91%E7%BA%A2%E4%B8%BE%E6%8A%A5%E5%90%8E%E5%81%9C%E6%AD%A2%E5%8A%9E%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [福建两地：有滞留缅北人员立即报备](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%A4%E5%9C%B0%EF%BC%9A%E6%9C%89%E6%BB%9E%E7%95%99%E7%BC%85%E5%8C%97%E4%BA%BA%E5%91%98%E7%AB%8B%E5%8D%B3%E6%8A%A5%E5%A4%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河南一超市开业次日地面塌出大洞](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E8%B6%85%E5%B8%82%E5%BC%80%E4%B8%9A%E6%AC%A1%E6%97%A5%E5%9C%B0%E9%9D%A2%E5%A1%8C%E5%87%BA%E5%A4%A7%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [300多斤大葱卖不到40块？系虚构](https://www.baidu.com/s?wd=300%E5%A4%9A%E6%96%A4%E5%A4%A7%E8%91%B1%E5%8D%96%E4%B8%8D%E5%88%B040%E5%9D%97%EF%BC%9F%E7%B3%BB%E8%99%9A%E6%9E%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [马斯克的星舰内部竟是六层豪宅](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E6%98%9F%E8%88%B0%E5%86%85%E9%83%A8%E7%AB%9F%E6%98%AF%E5%85%AD%E5%B1%82%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女骑手超车被弹飞坠湖身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E9%AA%91%E6%89%8B%E8%B6%85%E8%BD%A6%E8%A2%AB%E5%BC%B9%E9%A3%9E%E5%9D%A0%E6%B9%96%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杭州新东方遭网红举报后停止办学](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E6%96%B0%E4%B8%9C%E6%96%B9%E9%81%AD%E7%BD%91%E7%BA%A2%E4%B8%BE%E6%8A%A5%E5%90%8E%E5%81%9C%E6%AD%A2%E5%8A%9E%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [福建两地：有滞留缅北人员立即报备](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%A4%E5%9C%B0%EF%BC%9A%E6%9C%89%E6%BB%9E%E7%95%99%E7%BC%85%E5%8C%97%E4%BA%BA%E5%91%98%E7%AB%8B%E5%8D%B3%E6%8A%A5%E5%A4%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河南一超市开业次日地面塌出大洞](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E8%B6%85%E5%B8%82%E5%BC%80%E4%B8%9A%E6%AC%A1%E6%97%A5%E5%9C%B0%E9%9D%A2%E5%A1%8C%E5%87%BA%E5%A4%A7%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [300多斤大葱卖不到40块？系虚构](https://www.baidu.com/s?wd=300%E5%A4%9A%E6%96%A4%E5%A4%A7%E8%91%B1%E5%8D%96%E4%B8%8D%E5%88%B040%E5%9D%97%EF%BC%9F%E7%B3%BB%E8%99%9A%E6%9E%84&sa=fyb_news&rsv_dl=fyb_news)<br />
