@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 23:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 23:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [果敢电诈二代正接管家族黑色产业](https://s.weibo.com/weibo?q=%23%E6%9E%9C%E6%95%A2%E7%94%B5%E8%AF%88%E4%BA%8C%E4%BB%A3%E6%AD%A3%E6%8E%A5%E7%AE%A1%E5%AE%B6%E6%97%8F%E9%BB%91%E8%89%B2%E4%BA%A7%E4%B8%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [蛋仔派对被大量投诉套路未成年充值](https://s.weibo.com/weibo?q=%23%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%E8%A2%AB%E5%A4%A7%E9%87%8F%E6%8A%95%E8%AF%89%E5%A5%97%E8%B7%AF%E6%9C%AA%E6%88%90%E5%B9%B4%E5%85%85%E5%80%BC%23&t=31&band_rank=7&Refer=top)<br />
 8. [李相夷绝笔](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%9B%B8%E5%A4%B7%E7%BB%9D%E7%AC%94&t=31&band_rank=8&Refer=top)<br />
-9. [金世正认为女团没实力不重要](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%B8%96%E6%AD%A3%E8%AE%A4%E4%B8%BA%E5%A5%B3%E5%9B%A2%E6%B2%A1%E5%AE%9E%E5%8A%9B%E4%B8%8D%E9%87%8D%E8%A6%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [B站通报人肉开盒案例](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E9%80%9A%E6%8A%A5%E4%BA%BA%E8%82%89%E5%BC%80%E7%9B%92%E6%A1%88%E4%BE%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
