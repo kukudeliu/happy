@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 09:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 09:56:01</h4></div>
 
 > 微博  
 
-1. [加拿大间谍内讧](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%97%B4%E8%B0%8D%E5%86%85%E8%AE%A7%23&t=31&band_rank=1&Refer=top)<br />
-2. [曺圭贤遇袭击负伤](https://s.weibo.com/weibo?q=%23%E6%9B%BA%E5%9C%AD%E8%B4%A4%E9%81%87%E8%A2%AD%E5%87%BB%E8%B4%9F%E4%BC%A4%23&t=31&band_rank=2&Refer=top)<br />
+1. [韩国顶级明星涉嫌偷税漏税](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%A1%B6%E7%BA%A7%E6%98%8E%E6%98%9F%E6%B6%89%E5%AB%8C%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23&t=31&band_rank=1&Refer=top)<br />
+2. [加拿大间谍内讧](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%97%B4%E8%B0%8D%E5%86%85%E8%AE%A7%23&t=31&band_rank=2&Refer=top)<br />
 3. [诗词藏着中国山水间的绝美景致](https://s.weibo.com/weibo?q=%23%E8%AF%97%E8%AF%8D%E8%97%8F%E7%9D%80%E4%B8%AD%E5%9B%BD%E5%B1%B1%E6%B0%B4%E9%97%B4%E7%9A%84%E7%BB%9D%E7%BE%8E%E6%99%AF%E8%87%B4%23&t=31&band_rank=3&Refer=top)<br />
-4. [韩国顶级明星涉嫌偷税漏税](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%A1%B6%E7%BA%A7%E6%98%8E%E6%98%9F%E6%B6%89%E5%AB%8C%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23&t=31&band_rank=4&Refer=top)<br />
+4. [曺圭贤遇袭击负伤](https://s.weibo.com/weibo?q=%23%E6%9B%BA%E5%9C%AD%E8%B4%A4%E9%81%87%E8%A2%AD%E5%87%BB%E8%B4%9F%E4%BC%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [河南联通被曝强迫用户更换光猫](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E8%81%94%E9%80%9A%E8%A2%AB%E6%9B%9D%E5%BC%BA%E8%BF%AB%E7%94%A8%E6%88%B7%E6%9B%B4%E6%8D%A2%E5%85%89%E7%8C%AB%23&t=31&band_rank=5&Refer=top)<br />
 6. [27岁研究生离世前一天发文感恩感谢](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [Ning点评WBG教练](https://s.weibo.com/weibo?q=%23Ning%E7%82%B9%E8%AF%84WBG%E6%95%99%E7%BB%83%23&t=31&band_rank=7&Refer=top)<br />
