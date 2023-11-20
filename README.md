@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 16:36:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 16:37:01</h4></div>
 
 > 微博  
 
-1. [Letme回归RNG](https://s.weibo.com/weibo?q=%23Letme%E5%9B%9E%E5%BD%92RNG%23&t=31&band_rank=1&Refer=top)<br />
-2. [人民文娱评以爱为营](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%23&t=31&band_rank=2&Refer=top)<br />
+1. [人民文娱评以爱为营](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%23&t=31&band_rank=1&Refer=top)<br />
+2. [Letme回归RNG](https://s.weibo.com/weibo?q=%23Letme%E5%9B%9E%E5%BD%92RNG%23&t=31&band_rank=2&Refer=top)<br />
 3. [运20再赴韩国接运烈士遗骸归国](https://s.weibo.com/weibo?q=%23%E8%BF%9020%E5%86%8D%E8%B5%B4%E9%9F%A9%E5%9B%BD%E6%8E%A5%E8%BF%90%E7%83%88%E5%A3%AB%E9%81%97%E9%AA%B8%E5%BD%92%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
-4. [张东健妻子被曝偷税漏税](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%9C%E5%81%A5%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%9B%9D%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23&t=31&band_rank=4&Refer=top)<br />
-5. [黄子韬原价2368内场票降至262元](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8E%9F%E4%BB%B72368%E5%86%85%E5%9C%BA%E7%A5%A8%E9%99%8D%E8%87%B3262%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
+4. [黄子韬原价2368内场票降至262元](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8E%9F%E4%BB%B72368%E5%86%85%E5%9C%BA%E7%A5%A8%E9%99%8D%E8%87%B3262%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
+5. [张东健妻子被曝偷税漏税](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%9C%E5%81%A5%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%9B%9D%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [乌尔善取关](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%E5%8F%96%E5%85%B3&t=31&band_rank=6&Refer=top)<br />
 7. [于蕾 央视春晚总导演](https://s.weibo.com/weibo?q=%E4%BA%8E%E8%95%BE%20%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E6%80%BB%E5%AF%BC%E6%BC%94&t=31&band_rank=7&Refer=top)<br />
 8. [水庆霞下课](https://s.weibo.com/weibo?q=%E6%B0%B4%E5%BA%86%E9%9C%9E%E4%B8%8B%E8%AF%BE&t=31&band_rank=8&Refer=top)<br />
