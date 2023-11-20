@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 07:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 07:58:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [中国电商助力非洲民众奔向美好生活](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%95%86%E5%8A%A9%E5%8A%9B%E9%9D%9E%E6%B4%B2%E6%B0%91%E4%BC%97%E5%A5%94%E5%90%91%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中学因财政困难向每位学生收费200元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%9B%A0%E8%B4%A2%E6%94%BF%E5%9B%B0%E9%9A%BE%E5%90%91%E6%AF%8F%E4%BD%8D%E5%AD%A6%E7%94%9F%E6%94%B6%E8%B4%B9200%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [永辉超市被强制执行1007万元](https://www.baidu.com/s?wd=%E6%B0%B8%E8%BE%89%E8%B6%85%E5%B8%82%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C1007%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [西安民警卧底揪出跑分团伙抓9人](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E6%B0%91%E8%AD%A6%E5%8D%A7%E5%BA%95%E6%8F%AA%E5%87%BA%E8%B7%91%E5%88%86%E5%9B%A2%E4%BC%99%E6%8A%939%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：阿里改革已无退路](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%98%BF%E9%87%8C%E6%94%B9%E9%9D%A9%E5%B7%B2%E6%97%A0%E9%80%80%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：阿里改革已无退路](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%98%BF%E9%87%8C%E6%94%B9%E9%9D%A9%E5%B7%B2%E6%97%A0%E9%80%80%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家：人民币或进入正式升值通道](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%BA%BA%E6%B0%91%E5%B8%81%E6%88%96%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E5%8D%87%E5%80%BC%E9%80%9A%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [乐山警方辟谣两学生被迷晕带走](https://www.baidu.com/s?wd=%E4%B9%90%E5%B1%B1%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%A4%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%BF%B7%E6%99%95%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [中国电商助力非洲民众奔向美好生活](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%95%86%E5%8A%A9%E5%8A%9B%E9%9D%9E%E6%B4%B2%E6%B0%91%E4%BC%97%E5%A5%94%E5%90%91%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中学因财政困难向每位学生收费200元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%9B%A0%E8%B4%A2%E6%94%BF%E5%9B%B0%E9%9A%BE%E5%90%91%E6%AF%8F%E4%BD%8D%E5%AD%A6%E7%94%9F%E6%94%B6%E8%B4%B9200%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [永辉超市被强制执行1007万元](https://www.baidu.com/s?wd=%E6%B0%B8%E8%BE%89%E8%B6%85%E5%B8%82%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C1007%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [西安民警卧底揪出跑分团伙抓9人](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E6%B0%91%E8%AD%A6%E5%8D%A7%E5%BA%95%E6%8F%AA%E5%87%BA%E8%B7%91%E5%88%86%E5%9B%A2%E4%BC%99%E6%8A%939%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：阿里改革已无退路](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%98%BF%E9%87%8C%E6%94%B9%E9%9D%A9%E5%B7%B2%E6%97%A0%E9%80%80%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：阿里改革已无退路](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%98%BF%E9%87%8C%E6%94%B9%E9%9D%A9%E5%B7%B2%E6%97%A0%E9%80%80%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家：人民币或进入正式升值通道](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%BA%BA%E6%B0%91%E5%B8%81%E6%88%96%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E5%8D%87%E5%80%BC%E9%80%9A%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [乐山警方辟谣两学生被迷晕带走](https://www.baidu.com/s?wd=%E4%B9%90%E5%B1%B1%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%A4%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%BF%B7%E6%99%95%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
