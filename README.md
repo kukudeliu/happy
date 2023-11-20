@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 18:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 18:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [B站通报人肉开盒案例](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E9%80%9A%E6%8A%A5%E4%BA%BA%E8%82%89%E5%BC%80%E7%9B%92%E6%A1%88%E4%BE%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [于蕾 央视春晚总导演](https://s.weibo.com/weibo?q=%E4%BA%8E%E8%95%BE%20%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E6%80%BB%E5%AF%BC%E6%BC%94&t=31&band_rank=7&Refer=top)<br />
 8. [乌尔善取关](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%E5%8F%96%E5%85%B3&t=31&band_rank=8&Refer=top)<br />
-9. [0713能不能上春晚](https://s.weibo.com/weibo?q=0713%E8%83%BD%E4%B8%8D%E8%83%BD%E4%B8%8A%E6%98%A5%E6%99%9A&t=31&band_rank=9&Refer=top)<br />
+9. [女孩裙摆夹电梯受困被剪掉后爽朗大笑](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%A3%99%E6%91%86%E5%A4%B9%E7%94%B5%E6%A2%AF%E5%8F%97%E5%9B%B0%E8%A2%AB%E5%89%AA%E6%8E%89%E5%90%8E%E7%88%BD%E6%9C%97%E5%A4%A7%E7%AC%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
