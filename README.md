@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 17:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [黄子韬原价2368内场票降至262元](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8E%9F%E4%BB%B72368%E5%86%85%E5%9C%BA%E7%A5%A8%E9%99%8D%E8%87%B3262%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [0713能不能上春晚](https://s.weibo.com/weibo?q=0713%E8%83%BD%E4%B8%8D%E8%83%BD%E4%B8%8A%E6%98%A5%E6%99%9A&t=31&band_rank=6&Refer=top)<br />
 7. [人民文娱评以爱为营](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [乌尔善取关](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%B0%94%E5%96%84%E5%8F%96%E5%85%B3&t=31&band_rank=8&Refer=top)<br />
-9. [Letme回归RNG](https://s.weibo.com/weibo?q=%23Letme%E5%9B%9E%E5%BD%92RNG%23&t=31&band_rank=9&Refer=top)<br />
+8. [天降拘捕令儿子急砸门保住母亲21万](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E9%99%8D%E6%8B%98%E6%8D%95%E4%BB%A4%E5%84%BF%E5%AD%90%E6%80%A5%E7%A0%B8%E9%97%A8%E4%BF%9D%E4%BD%8F%E6%AF%8D%E4%BA%B221%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [渔民误捕300斤大海龟后果断放生](https://s.weibo.com/weibo?q=%23%E6%B8%94%E6%B0%91%E8%AF%AF%E6%8D%95300%E6%96%A4%E5%A4%A7%E6%B5%B7%E9%BE%9F%E5%90%8E%E6%9E%9C%E6%96%AD%E6%94%BE%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
