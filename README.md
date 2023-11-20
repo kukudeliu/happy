@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 15:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 15:22:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [张东健妻子被曝偷税漏税](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%9C%E5%81%A5%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%9B%9D%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23&t=31&band_rank=4&Refer=top)<br />
 5. [人民文娱评以爱为营](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%23&t=31&band_rank=5&Refer=top)<br />
 6. [甄嬛传官微 我怎么不知道](https://s.weibo.com/weibo?q=%E7%94%84%E5%AC%9B%E4%BC%A0%E5%AE%98%E5%BE%AE%20%E6%88%91%E6%80%8E%E4%B9%88%E4%B8%8D%E7%9F%A5%E9%81%93&t=31&band_rank=6&Refer=top)<br />
-7. [想取关某一个人但是又怕太明显](https://s.weibo.com/weibo?q=%23%E6%83%B3%E5%8F%96%E5%85%B3%E6%9F%90%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%BD%86%E6%98%AF%E5%8F%88%E6%80%95%E5%A4%AA%E6%98%8E%E6%98%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [男子100多万买林肯称被客服嘲讽](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90100%E5%A4%9A%E4%B8%87%E4%B9%B0%E6%9E%97%E8%82%AF%E7%A7%B0%E8%A2%AB%E5%AE%A2%E6%9C%8D%E5%98%B2%E8%AE%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [腹泻以为是胃病结果是心梗](https://s.weibo.com/weibo?q=%23%E8%85%B9%E6%B3%BB%E4%BB%A5%E4%B8%BA%E6%98%AF%E8%83%83%E7%97%85%E7%BB%93%E6%9E%9C%E6%98%AF%E5%BF%83%E6%A2%97%23&t=31&band_rank=9&Refer=top)<br />
+7. [男子100多万买林肯称被客服嘲讽](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90100%E5%A4%9A%E4%B8%87%E4%B9%B0%E6%9E%97%E8%82%AF%E7%A7%B0%E8%A2%AB%E5%AE%A2%E6%9C%8D%E5%98%B2%E8%AE%BD%23&t=31&band_rank=7&Refer=top)<br />
+8. [腹泻以为是胃病结果是心梗](https://s.weibo.com/weibo?q=%23%E8%85%B9%E6%B3%BB%E4%BB%A5%E4%B8%BA%E6%98%AF%E8%83%83%E7%97%85%E7%BB%93%E6%9E%9C%E6%98%AF%E5%BF%83%E6%A2%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [雷军](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [别让“扫码”成负担](https://www.baidu.com/s?wd=%E5%88%AB%E8%AE%A9%E2%80%9C%E6%89%AB%E7%A0%81%E2%80%9D%E6%88%90%E8%B4%9F%E6%8B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州新东方遭网红举报后停止办学](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E6%96%B0%E4%B8%9C%E6%96%B9%E9%81%AD%E7%BD%91%E7%BA%A2%E4%B8%BE%E6%8A%A5%E5%90%8E%E5%81%9C%E6%AD%A2%E5%8A%9E%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大学生连续5晚通宵直播后猝死](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%9E%E7%BB%AD5%E6%99%9A%E9%80%9A%E5%AE%B5%E7%9B%B4%E6%92%AD%E5%90%8E%E7%8C%9D%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [三桌人打蛋糕仗饭店包间糊满奶油](https://www.baidu.com/s?wd=%E4%B8%89%E6%A1%8C%E4%BA%BA%E6%89%93%E8%9B%8B%E7%B3%95%E4%BB%97%E9%A5%AD%E5%BA%97%E5%8C%85%E9%97%B4%E7%B3%8A%E6%BB%A1%E5%A5%B6%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [刘诗诗举牌宣传一念关山](https://www.baidu.com/s?wd=%E5%88%98%E8%AF%97%E8%AF%97%E4%B8%BE%E7%89%8C%E5%AE%A3%E4%BC%A0%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张东健妻子被曝偷税漏税](https://www.baidu.com/s?wd=%E5%BC%A0%E4%B8%9C%E5%81%A5%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%9B%9D%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [三桌人打蛋糕仗饭店包间糊满奶油](https://www.baidu.com/s?wd=%E4%B8%89%E6%A1%8C%E4%BA%BA%E6%89%93%E8%9B%8B%E7%B3%95%E4%BB%97%E9%A5%AD%E5%BA%97%E5%8C%85%E9%97%B4%E7%B3%8A%E6%BB%A1%E5%A5%B6%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [甄嬛传将放出完整版？](https://www.baidu.com/s?wd=%E7%94%84%E5%AC%9B%E4%BC%A0%E5%B0%86%E6%94%BE%E5%87%BA%E5%AE%8C%E6%95%B4%E7%89%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [别让“扫码”成负担](https://www.baidu.com/s?wd=%E5%88%AB%E8%AE%A9%E2%80%9C%E6%89%AB%E7%A0%81%E2%80%9D%E6%88%90%E8%B4%9F%E6%8B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州新东方遭网红举报后停止办学](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E6%96%B0%E4%B8%9C%E6%96%B9%E9%81%AD%E7%BD%91%E7%BA%A2%E4%B8%BE%E6%8A%A5%E5%90%8E%E5%81%9C%E6%AD%A2%E5%8A%9E%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大学生连续5晚通宵直播后猝死](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%9E%E7%BB%AD5%E6%99%9A%E9%80%9A%E5%AE%B5%E7%9B%B4%E6%92%AD%E5%90%8E%E7%8C%9D%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [三桌人打蛋糕仗饭店包间糊满奶油](https://www.baidu.com/s?wd=%E4%B8%89%E6%A1%8C%E4%BA%BA%E6%89%93%E8%9B%8B%E7%B3%95%E4%BB%97%E9%A5%AD%E5%BA%97%E5%8C%85%E9%97%B4%E7%B3%8A%E6%BB%A1%E5%A5%B6%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [刘诗诗举牌宣传一念关山](https://www.baidu.com/s?wd=%E5%88%98%E8%AF%97%E8%AF%97%E4%B8%BE%E7%89%8C%E5%AE%A3%E4%BC%A0%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张东健妻子被曝偷税漏税](https://www.baidu.com/s?wd=%E5%BC%A0%E4%B8%9C%E5%81%A5%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%9B%9D%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [三桌人打蛋糕仗饭店包间糊满奶油](https://www.baidu.com/s?wd=%E4%B8%89%E6%A1%8C%E4%BA%BA%E6%89%93%E8%9B%8B%E7%B3%95%E4%BB%97%E9%A5%AD%E5%BA%97%E5%8C%85%E9%97%B4%E7%B3%8A%E6%BB%A1%E5%A5%B6%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [甄嬛传将放出完整版？](https://www.baidu.com/s?wd=%E7%94%84%E5%AC%9B%E4%BC%A0%E5%B0%86%E6%94%BE%E5%87%BA%E5%AE%8C%E6%95%B4%E7%89%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
