@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 13:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 13:24:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [别让“扫码”成负担](https://www.baidu.com/s?wd=%E5%88%AB%E8%AE%A9%E2%80%9C%E6%89%AB%E7%A0%81%E2%80%9D%E6%88%90%E8%B4%9F%E6%8B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克的星舰内部竟是六层豪宅](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E6%98%9F%E8%88%B0%E5%86%85%E9%83%A8%E7%AB%9F%E6%98%AF%E5%85%AD%E5%B1%82%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女骑手超车被弹飞坠湖身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E9%AA%91%E6%89%8B%E8%B6%85%E8%BD%A6%E8%A2%AB%E5%BC%B9%E9%A3%9E%E5%9D%A0%E6%B9%96%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [退休6年后，柏华冰被查](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%916%E5%B9%B4%E5%90%8E%EF%BC%8C%E6%9F%8F%E5%8D%8E%E5%86%B0%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男乘客拍打女列车员臀部被拘10日](https://www.baidu.com/s?wd=%E7%94%B7%E4%B9%98%E5%AE%A2%E6%8B%8D%E6%89%93%E5%A5%B3%E5%88%97%E8%BD%A6%E5%91%98%E8%87%80%E9%83%A8%E8%A2%AB%E6%8B%9810%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [寒潮将至局地气温零下24度](https://www.baidu.com/s?wd=%E5%AF%92%E6%BD%AE%E5%B0%86%E8%87%B3%E5%B1%80%E5%9C%B0%E6%B0%94%E6%B8%A9%E9%9B%B6%E4%B8%8B24%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [退休6年后，柏华冰被查](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%916%E5%B9%B4%E5%90%8E%EF%BC%8C%E6%9F%8F%E5%8D%8E%E5%86%B0%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [300多斤大葱卖不到40块？系虚构](https://www.baidu.com/s?wd=300%E5%A4%9A%E6%96%A4%E5%A4%A7%E8%91%B1%E5%8D%96%E4%B8%8D%E5%88%B040%E5%9D%97%EF%BC%9F%E7%B3%BB%E8%99%9A%E6%9E%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [别让“扫码”成负担](https://www.baidu.com/s?wd=%E5%88%AB%E8%AE%A9%E2%80%9C%E6%89%AB%E7%A0%81%E2%80%9D%E6%88%90%E8%B4%9F%E6%8B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克的星舰内部竟是六层豪宅](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E6%98%9F%E8%88%B0%E5%86%85%E9%83%A8%E7%AB%9F%E6%98%AF%E5%85%AD%E5%B1%82%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女骑手超车被弹飞坠湖身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E9%AA%91%E6%89%8B%E8%B6%85%E8%BD%A6%E8%A2%AB%E5%BC%B9%E9%A3%9E%E5%9D%A0%E6%B9%96%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [退休6年后，柏华冰被查](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%916%E5%B9%B4%E5%90%8E%EF%BC%8C%E6%9F%8F%E5%8D%8E%E5%86%B0%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男乘客拍打女列车员臀部被拘10日](https://www.baidu.com/s?wd=%E7%94%B7%E4%B9%98%E5%AE%A2%E6%8B%8D%E6%89%93%E5%A5%B3%E5%88%97%E8%BD%A6%E5%91%98%E8%87%80%E9%83%A8%E8%A2%AB%E6%8B%9810%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [寒潮将至局地气温零下24度](https://www.baidu.com/s?wd=%E5%AF%92%E6%BD%AE%E5%B0%86%E8%87%B3%E5%B1%80%E5%9C%B0%E6%B0%94%E6%B8%A9%E9%9B%B6%E4%B8%8B24%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [退休6年后，柏华冰被查](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%916%E5%B9%B4%E5%90%8E%EF%BC%8C%E6%9F%8F%E5%8D%8E%E5%86%B0%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [300多斤大葱卖不到40块？系虚构](https://www.baidu.com/s?wd=300%E5%A4%9A%E6%96%A4%E5%A4%A7%E8%91%B1%E5%8D%96%E4%B8%8D%E5%88%B040%E5%9D%97%EF%BC%9F%E7%B3%BB%E8%99%9A%E6%9E%84&sa=fyb_news&rsv_dl=fyb_news)<br />
