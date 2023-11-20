@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 09:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 09:18:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [Ning点评WBG教练](https://s.weibo.com/weibo?q=%23Ning%E7%82%B9%E8%AF%84WBG%E6%95%99%E7%BB%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [美国前第一夫人罗莎琳卡特去世](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%89%8D%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E7%BD%97%E8%8E%8E%E7%90%B3%E5%8D%A1%E7%89%B9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [CPA 还不出成绩](https://s.weibo.com/weibo?q=CPA%20%E8%BF%98%E4%B8%8D%E5%87%BA%E6%88%90%E7%BB%A9&t=31&band_rank=6&Refer=top)<br />
-7. [飞夺泸定桥被搬到竞综了](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E5%A4%BA%E6%B3%B8%E5%AE%9A%E6%A1%A5%E8%A2%AB%E6%90%AC%E5%88%B0%E7%AB%9E%E7%BB%BC%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [广州地铁](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81&t=31&band_rank=8&Refer=top)<br />
+7. [广州地铁](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81&t=31&band_rank=7&Refer=top)<br />
+8. [飞夺泸定桥被搬到竞综了](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E5%A4%BA%E6%B3%B8%E5%AE%9A%E6%A1%A5%E8%A2%AB%E6%90%AC%E5%88%B0%E7%AB%9E%E7%BB%BC%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [宁安如梦魔改张遮](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E9%AD%94%E6%94%B9%E5%BC%A0%E9%81%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
