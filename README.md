@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 14:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 14:14:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [别让“扫码”成负担](https://www.baidu.com/s?wd=%E5%88%AB%E8%AE%A9%E2%80%9C%E6%89%AB%E7%A0%81%E2%80%9D%E6%88%90%E8%B4%9F%E6%8B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克的星舰内部竟是六层豪宅](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E6%98%9F%E8%88%B0%E5%86%85%E9%83%A8%E7%AB%9F%E6%98%AF%E5%85%AD%E5%B1%82%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女骑手超车被弹飞坠湖身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E9%AA%91%E6%89%8B%E8%B6%85%E8%BD%A6%E8%A2%AB%E5%BC%B9%E9%A3%9E%E5%9D%A0%E6%B9%96%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杭州新东方遭网红举报后停止办学](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E6%96%B0%E4%B8%9C%E6%96%B9%E9%81%AD%E7%BD%91%E7%BA%A2%E4%B8%BE%E6%8A%A5%E5%90%8E%E5%81%9C%E6%AD%A2%E5%8A%9E%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生扮女装进女寝被电晕？学校回应](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%89%AE%E5%A5%B3%E8%A3%85%E8%BF%9B%E5%A5%B3%E5%AF%9D%E8%A2%AB%E7%94%B5%E6%99%95%EF%BC%9F%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男生扮女装进女寝被电晕？学校回应](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%89%AE%E5%A5%B3%E8%A3%85%E8%BF%9B%E5%A5%B3%E5%AF%9D%E8%A2%AB%E7%94%B5%E6%99%95%EF%BC%9F%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [三桌人打蛋糕仗饭店包间糊满奶油](https://www.baidu.com/s?wd=%E4%B8%89%E6%A1%8C%E4%BA%BA%E6%89%93%E8%9B%8B%E7%B3%95%E4%BB%97%E9%A5%AD%E5%BA%97%E5%8C%85%E9%97%B4%E7%B3%8A%E6%BB%A1%E5%A5%B6%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [300多斤大葱卖不到40块？系虚构](https://www.baidu.com/s?wd=300%E5%A4%9A%E6%96%A4%E5%A4%A7%E8%91%B1%E5%8D%96%E4%B8%8D%E5%88%B040%E5%9D%97%EF%BC%9F%E7%B3%BB%E8%99%9A%E6%9E%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [别让“扫码”成负担](https://www.baidu.com/s?wd=%E5%88%AB%E8%AE%A9%E2%80%9C%E6%89%AB%E7%A0%81%E2%80%9D%E6%88%90%E8%B4%9F%E6%8B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克的星舰内部竟是六层豪宅](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E6%98%9F%E8%88%B0%E5%86%85%E9%83%A8%E7%AB%9F%E6%98%AF%E5%85%AD%E5%B1%82%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女骑手超车被弹飞坠湖身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E9%AA%91%E6%89%8B%E8%B6%85%E8%BD%A6%E8%A2%AB%E5%BC%B9%E9%A3%9E%E5%9D%A0%E6%B9%96%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杭州新东方遭网红举报后停止办学](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E6%96%B0%E4%B8%9C%E6%96%B9%E9%81%AD%E7%BD%91%E7%BA%A2%E4%B8%BE%E6%8A%A5%E5%90%8E%E5%81%9C%E6%AD%A2%E5%8A%9E%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生扮女装进女寝被电晕？学校回应](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%89%AE%E5%A5%B3%E8%A3%85%E8%BF%9B%E5%A5%B3%E5%AF%9D%E8%A2%AB%E7%94%B5%E6%99%95%EF%BC%9F%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男生扮女装进女寝被电晕？学校回应](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%89%AE%E5%A5%B3%E8%A3%85%E8%BF%9B%E5%A5%B3%E5%AF%9D%E8%A2%AB%E7%94%B5%E6%99%95%EF%BC%9F%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [三桌人打蛋糕仗饭店包间糊满奶油](https://www.baidu.com/s?wd=%E4%B8%89%E6%A1%8C%E4%BA%BA%E6%89%93%E8%9B%8B%E7%B3%95%E4%BB%97%E9%A5%AD%E5%BA%97%E5%8C%85%E9%97%B4%E7%B3%8A%E6%BB%A1%E5%A5%B6%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [300多斤大葱卖不到40块？系虚构](https://www.baidu.com/s?wd=300%E5%A4%9A%E6%96%A4%E5%A4%A7%E8%91%B1%E5%8D%96%E4%B8%8D%E5%88%B040%E5%9D%97%EF%BC%9F%E7%B3%BB%E8%99%9A%E6%9E%84&sa=fyb_news&rsv_dl=fyb_news)<br />
