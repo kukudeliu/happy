@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 15:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 15:16:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [张东健妻子被曝偷税漏税](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%9C%E5%81%A5%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%9B%9D%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23&t=31&band_rank=4&Refer=top)<br />
 5. [人民文娱评以爱为营](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%23&t=31&band_rank=5&Refer=top)<br />
 6. [想取关某一个人但是又怕太明显](https://s.weibo.com/weibo?q=%23%E6%83%B3%E5%8F%96%E5%85%B3%E6%9F%90%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%BD%86%E6%98%AF%E5%8F%88%E6%80%95%E5%A4%AA%E6%98%8E%E6%98%BE%23&t=31&band_rank=6&Refer=top)<br />
-7. [雷军](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B&t=31&band_rank=7&Refer=top)<br />
-8. [腹泻以为是胃病结果是心梗](https://s.weibo.com/weibo?q=%23%E8%85%B9%E6%B3%BB%E4%BB%A5%E4%B8%BA%E6%98%AF%E8%83%83%E7%97%85%E7%BB%93%E6%9E%9C%E6%98%AF%E5%BF%83%E6%A2%97%23&t=31&band_rank=8&Refer=top)<br />
+7. [腹泻以为是胃病结果是心梗](https://s.weibo.com/weibo?q=%23%E8%85%B9%E6%B3%BB%E4%BB%A5%E4%B8%BA%E6%98%AF%E8%83%83%E7%97%85%E7%BB%93%E6%9E%9C%E6%98%AF%E5%BF%83%E6%A2%97%23&t=31&band_rank=7&Refer=top)<br />
+8. [雷军](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B&t=31&band_rank=8&Refer=top)<br />
 9. [男子100多万买林肯称被客服嘲讽](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90100%E5%A4%9A%E4%B8%87%E4%B9%B0%E6%9E%97%E8%82%AF%E7%A7%B0%E8%A2%AB%E5%AE%A2%E6%9C%8D%E5%98%B2%E8%AE%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
