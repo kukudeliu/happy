@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 06:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 06:19:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [副省长降为科员9年后二次被查](https://www.baidu.com/s?wd=%E5%89%AF%E7%9C%81%E9%95%BF%E9%99%8D%E4%B8%BA%E7%A7%91%E5%91%989%E5%B9%B4%E5%90%8E%E4%BA%8C%E6%AC%A1%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体：阿里改革已无退路](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%98%BF%E9%87%8C%E6%94%B9%E9%9D%A9%E5%B7%B2%E6%97%A0%E9%80%80%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [600亿医药巨头董事长接受调查](https://www.baidu.com/s?wd=600%E4%BA%BF%E5%8C%BB%E8%8D%AF%E5%B7%A8%E5%A4%B4%E8%91%A3%E4%BA%8B%E9%95%BF%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [天降拘捕令儿子急砸门保住母亲21万](https://www.baidu.com/s?wd=%E5%A4%A9%E9%99%8D%E6%8B%98%E6%8D%95%E4%BB%A4%E5%84%BF%E5%AD%90%E6%80%A5%E7%A0%B8%E9%97%A8%E4%BF%9D%E4%BD%8F%E6%AF%8D%E4%BA%B221%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [人民日报评扫码成生活必选项](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%89%AB%E7%A0%81%E6%88%90%E7%94%9F%E6%B4%BB%E5%BF%85%E9%80%89%E9%A1%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [乐山警方辟谣两学生被迷晕带走](https://www.baidu.com/s?wd=%E4%B9%90%E5%B1%B1%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%A4%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%BF%B7%E6%99%95%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [副省长降为科员9年后二次被查](https://www.baidu.com/s?wd=%E5%89%AF%E7%9C%81%E9%95%BF%E9%99%8D%E4%B8%BA%E7%A7%91%E5%91%989%E5%B9%B4%E5%90%8E%E4%BA%8C%E6%AC%A1%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体：阿里改革已无退路](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E9%98%BF%E9%87%8C%E6%94%B9%E9%9D%A9%E5%B7%B2%E6%97%A0%E9%80%80%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [600亿医药巨头董事长接受调查](https://www.baidu.com/s?wd=600%E4%BA%BF%E5%8C%BB%E8%8D%AF%E5%B7%A8%E5%A4%B4%E8%91%A3%E4%BA%8B%E9%95%BF%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [天降拘捕令儿子急砸门保住母亲21万](https://www.baidu.com/s?wd=%E5%A4%A9%E9%99%8D%E6%8B%98%E6%8D%95%E4%BB%A4%E5%84%BF%E5%AD%90%E6%80%A5%E7%A0%B8%E9%97%A8%E4%BF%9D%E4%BD%8F%E6%AF%8D%E4%BA%B221%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [人民日报评扫码成生活必选项](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%89%AB%E7%A0%81%E6%88%90%E7%94%9F%E6%B4%BB%E5%BF%85%E9%80%89%E9%A1%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [乐山警方辟谣两学生被迷晕带走](https://www.baidu.com/s?wd=%E4%B9%90%E5%B1%B1%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%A4%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%BF%B7%E6%99%95%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
