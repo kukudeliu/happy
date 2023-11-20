@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 02:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 02:27:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [关晓彤檀健次方否认有偿录祝福](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%AA%80%E5%81%A5%E6%AC%A1%E6%96%B9%E5%90%A6%E8%AE%A4%E6%9C%89%E5%81%BF%E5%BD%95%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=5&Refer=top)<br />
 6. [Faker拥有一栋大楼](https://s.weibo.com/weibo?q=%23Faker%E6%8B%A5%E6%9C%89%E4%B8%80%E6%A0%8B%E5%A4%A7%E6%A5%BC%23&t=31&band_rank=6&Refer=top)<br />
 7. [妻子生日女儿吃薯片吃出金手链给妈妈](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E7%94%9F%E6%97%A5%E5%A5%B3%E5%84%BF%E5%90%83%E8%96%AF%E7%89%87%E5%90%83%E5%87%BA%E9%87%91%E6%89%8B%E9%93%BE%E7%BB%99%E5%A6%88%E5%A6%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [B站通报人肉开盒案例](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E9%80%9A%E6%8A%A5%E4%BA%BA%E8%82%89%E5%BC%80%E7%9B%92%E6%A1%88%E4%BE%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [快乐老友记天台直播](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E4%B9%90%E8%80%81%E5%8F%8B%E8%AE%B0%E5%A4%A9%E5%8F%B0%E7%9B%B4%E6%92%AD%23&t=31&band_rank=9&Refer=top)<br />
+8. [快乐老友记天台直播](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E4%B9%90%E8%80%81%E5%8F%8B%E8%AE%B0%E5%A4%A9%E5%8F%B0%E7%9B%B4%E6%92%AD%23&t=31&band_rank=8&Refer=top)<br />
+9. [B站通报人肉开盒案例](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E9%80%9A%E6%8A%A5%E4%BA%BA%E8%82%89%E5%BC%80%E7%9B%92%E6%A1%88%E4%BE%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
