@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 00:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 00:06:01</h4></div>
 
 > 微博  
 
 1. [头发别耳后如何显脸小](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E5%88%AB%E8%80%B3%E5%90%8E%E5%A6%82%E4%BD%95%E6%98%BE%E8%84%B8%E5%B0%8F&t=31&band_rank=1&Refer=top)<br />
-2. [电视家 跑路](https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%AE%B6%20%E8%B7%91%E8%B7%AF&t=31&band_rank=2&Refer=top)<br />
+2. [教育局回应中学因财政困难向学生收200元](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E5%9B%A0%E8%B4%A2%E6%94%BF%E5%9B%B0%E9%9A%BE%E5%90%91%E5%AD%A6%E7%94%9F%E6%94%B6200%E5%85%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [小朋友给00后民警送甜甜的锦旗](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%BB%9900%E5%90%8E%E6%B0%91%E8%AD%A6%E9%80%81%E7%94%9C%E7%94%9C%E7%9A%84%E9%94%A6%E6%97%97%23&t=31&band_rank=3&Refer=top)<br />
-4. [教育局回应中学因财政困难向学生收200元](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E5%9B%A0%E8%B4%A2%E6%94%BF%E5%9B%B0%E9%9A%BE%E5%90%91%E5%AD%A6%E7%94%9F%E6%94%B6200%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
+4. [电视家 跑路](https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%AE%B6%20%E8%B7%91%E8%B7%AF&t=31&band_rank=4&Refer=top)<br />
 5. [男子长期健身后食用蛋白粉查出肾虚](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%95%BF%E6%9C%9F%E5%81%A5%E8%BA%AB%E5%90%8E%E9%A3%9F%E7%94%A8%E8%9B%8B%E7%99%BD%E7%B2%89%E6%9F%A5%E5%87%BA%E8%82%BE%E8%99%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [李相夷绝笔](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%9B%B8%E5%A4%B7%E7%BB%9D%E7%AC%94&t=31&band_rank=6&Refer=top)<br />
 7. [蛋仔派对被大量投诉套路未成年充值](https://s.weibo.com/weibo?q=%23%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%E8%A2%AB%E5%A4%A7%E9%87%8F%E6%8A%95%E8%AF%89%E5%A5%97%E8%B7%AF%E6%9C%AA%E6%88%90%E5%B9%B4%E5%85%85%E5%80%BC%23&t=31&band_rank=7&Refer=top)<br />
