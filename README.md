@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 12:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-20 12:15:01</h4></div>
 
 > 微博  
 
@@ -20,7 +20,7 @@
 1. [习近平主席的“旧金山时间”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E7%9A%84%E2%80%9C%E6%97%A7%E9%87%91%E5%B1%B1%E6%97%B6%E9%97%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [阿根廷版特朗普赢得大选](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%89%88%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A2%E5%BE%97%E5%A4%A7%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [多地叫停“安全教育平台”打卡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%8F%AB%E5%81%9C%E2%80%9C%E5%AE%89%E5%85%A8%E6%95%99%E8%82%B2%E5%B9%B3%E5%8F%B0%E2%80%9D%E6%89%93%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [别让“扫码”成负担](https://www.baidu.com/s?wd=%E5%88%AB%E8%AE%A9%E2%80%9C%E6%89%AB%E7%A0%81%E2%80%9D%E6%88%90%E8%B4%9F%E6%8B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克的星舰内部竟是六层豪宅](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E6%98%9F%E8%88%B0%E5%86%85%E9%83%A8%E7%AB%9F%E6%98%AF%E5%85%AD%E5%B1%82%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [退休6年后，柏华冰被查](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%916%E5%B9%B4%E5%90%8E%EF%BC%8C%E6%9F%8F%E5%8D%8E%E5%86%B0%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [霉霉演唱会超千人中暑一女粉猝死](https://www.baidu.com/s?wd=%E9%9C%89%E9%9C%89%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B6%85%E5%8D%83%E4%BA%BA%E4%B8%AD%E6%9A%91%E4%B8%80%E5%A5%B3%E7%B2%89%E7%8C%9D%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -32,7 +32,7 @@
 1. [习近平主席的“旧金山时间”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E7%9A%84%E2%80%9C%E6%97%A7%E9%87%91%E5%B1%B1%E6%97%B6%E9%97%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [阿根廷版特朗普赢得大选](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%89%88%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A2%E5%BE%97%E5%A4%A7%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [多地叫停“安全教育平台”打卡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%8F%AB%E5%81%9C%E2%80%9C%E5%AE%89%E5%85%A8%E6%95%99%E8%82%B2%E5%B9%B3%E5%8F%B0%E2%80%9D%E6%89%93%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [这个冬天暖和了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%9A%96%E5%92%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [别让“扫码”成负担](https://www.baidu.com/s?wd=%E5%88%AB%E8%AE%A9%E2%80%9C%E6%89%AB%E7%A0%81%E2%80%9D%E6%88%90%E8%B4%9F%E6%8B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马斯克的星舰内部竟是六层豪宅](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E6%98%9F%E8%88%B0%E5%86%85%E9%83%A8%E7%AB%9F%E6%98%AF%E5%85%AD%E5%B1%82%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [退休6年后，柏华冰被查](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%916%E5%B9%B4%E5%90%8E%EF%BC%8C%E6%9F%8F%E5%8D%8E%E5%86%B0%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [霉霉演唱会超千人中暑一女粉猝死](https://www.baidu.com/s?wd=%E9%9C%89%E9%9C%89%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B6%85%E5%8D%83%E4%BA%BA%E4%B8%AD%E6%9A%91%E4%B8%80%E5%A5%B3%E7%B2%89%E7%8C%9D%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
