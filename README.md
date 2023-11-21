@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 20:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 20:53:01</h4></div>
 
 > 微博  
 
 1. [国足vs韩国](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E9%9F%A9%E5%9B%BD%23&t=31&band_rank=1&Refer=top)<br />
 2. [斗鱼CEO被逮捕](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BCCEO%E8%A2%AB%E9%80%AE%E6%8D%95%23&t=31&band_rank=2&Refer=top)<br />
-3. [孙兴慜首次攻破国足大门](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%85%B4%E6%85%9C%E9%A6%96%E6%AC%A1%E6%94%BB%E7%A0%B4%E5%9B%BD%E8%B6%B3%E5%A4%A7%E9%97%A8%23&t=31&band_rank=3&Refer=top)<br />
-4. [高嘌呤食物排行榜](https://s.weibo.com/weibo?q=%E9%AB%98%E5%98%8C%E5%91%A4%E9%A3%9F%E7%89%A9%E6%8E%92%E8%A1%8C%E6%A6%9C&t=31&band_rank=4&Refer=top)<br />
-5. [裁判](https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4&t=31&band_rank=5&Refer=top)<br />
-6. [怎么就点球了](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E5%B0%B1%E7%82%B9%E7%90%83%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [没有VAR](https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89VAR&t=31&band_rank=7&Refer=top)<br />
-8. [辛芷蕾说最近的事对王安宇很不公平](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%AF%B4%E6%9C%80%E8%BF%91%E7%9A%84%E4%BA%8B%E5%AF%B9%E7%8E%8B%E5%AE%89%E5%AE%87%E5%BE%88%E4%B8%8D%E5%85%AC%E5%B9%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [非遗苏绣绣出的星河太震撼](https://s.weibo.com/weibo?q=%23%E9%9D%9E%E9%81%97%E8%8B%8F%E7%BB%A3%E7%BB%A3%E5%87%BA%E7%9A%84%E6%98%9F%E6%B2%B3%E5%A4%AA%E9%9C%87%E6%92%BC%23&t=31&band_rank=9&Refer=top)<br />
+3. [英雄回家](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
+4. [孙兴慜首次攻破国足大门](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%85%B4%E6%85%9C%E9%A6%96%E6%AC%A1%E6%94%BB%E7%A0%B4%E5%9B%BD%E8%B6%B3%E5%A4%A7%E9%97%A8%23&t=31&band_rank=4&Refer=top)<br />
+5. [高嘌呤食物排行榜](https://s.weibo.com/weibo?q=%E9%AB%98%E5%98%8C%E5%91%A4%E9%A3%9F%E7%89%A9%E6%8E%92%E8%A1%8C%E6%A6%9C&t=31&band_rank=5&Refer=top)<br />
+6. [裁判](https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4&t=31&band_rank=6&Refer=top)<br />
+7. [怎么就点球了](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E5%B0%B1%E7%82%B9%E7%90%83%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [没有VAR](https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89VAR&t=31&band_rank=8&Refer=top)<br />
+9. [辛芷蕾说最近的事对王安宇很不公平](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%AF%B4%E6%9C%80%E8%BF%91%E7%9A%84%E4%BA%8B%E5%AF%B9%E7%8E%8B%E5%AE%89%E5%AE%87%E5%BE%88%E4%B8%8D%E5%85%AC%E5%B9%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
