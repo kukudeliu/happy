@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 15:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 15:46:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [傅首尔两万多张照片被老刘格式化了](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E4%B8%A4%E4%B8%87%E5%A4%9A%E5%BC%A0%E7%85%A7%E7%89%87%E8%A2%AB%E8%80%81%E5%88%98%E6%A0%BC%E5%BC%8F%E5%8C%96%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [2023尖叫之夜全阵容](https://s.weibo.com/weibo?q=%232023%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%85%A8%E9%98%B5%E5%AE%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [难哄就别哄了](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%E5%B0%B1%E5%88%AB%E5%93%84%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [山川同念英雄回家](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%B7%9D%E5%90%8C%E5%BF%B5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子买3千斤滞销白菜让人免费取](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B03%E5%8D%83%E6%96%A4%E6%BB%9E%E9%94%80%E7%99%BD%E8%8F%9C%E8%AE%A9%E4%BA%BA%E5%85%8D%E8%B4%B9%E5%8F%96%23&t=31&band_rank=9&Refer=top)<br />
+8. [男子买3千斤滞销白菜让人免费取](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B03%E5%8D%83%E6%96%A4%E6%BB%9E%E9%94%80%E7%99%BD%E8%8F%9C%E8%AE%A9%E4%BA%BA%E5%85%8D%E8%B4%B9%E5%8F%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [张桂梅说一直支撑自己的是信仰](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%AF%B4%E4%B8%80%E7%9B%B4%E6%94%AF%E6%92%91%E8%87%AA%E5%B7%B1%E7%9A%84%E6%98%AF%E4%BF%A1%E4%BB%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
