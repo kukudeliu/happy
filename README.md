@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 23:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 23:09:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [医院儿科人满为患 家长自备椅子输液](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%84%BF%E7%A7%91%E4%BA%BA%E6%BB%A1%E4%B8%BA%E6%82%A3+%E5%AE%B6%E9%95%BF%E8%87%AA%E5%A4%87%E6%A4%85%E5%AD%90%E8%BE%93%E6%B6%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [运-20起飞 接英雄回家](https://www.baidu.com/s?wd=%E8%BF%90-20%E8%B5%B7%E9%A3%9E+%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [孙兴慜进球后做出闭嘴庆祝动作](https://www.baidu.com/s?wd=%E5%AD%99%E5%85%B4%E6%85%9C%E8%BF%9B%E7%90%83%E5%90%8E%E5%81%9A%E5%87%BA%E9%97%AD%E5%98%B4%E5%BA%86%E7%A5%9D%E5%8A%A8%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [网购超长预售期引发吐槽](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD%E8%B6%85%E9%95%BF%E9%A2%84%E5%94%AE%E6%9C%9F%E5%BC%95%E5%8F%91%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [电诈基地卧虎山庄里的“生意经”](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E5%9F%BA%E5%9C%B0%E5%8D%A7%E8%99%8E%E5%B1%B1%E5%BA%84%E9%87%8C%E7%9A%84%E2%80%9C%E7%94%9F%E6%84%8F%E7%BB%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [明星送祝福已明码标价形成产业链](https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E9%80%81%E7%A5%9D%E7%A6%8F%E5%B7%B2%E6%98%8E%E7%A0%81%E6%A0%87%E4%BB%B7%E5%BD%A2%E6%88%90%E4%BA%A7%E4%B8%9A%E9%93%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [国家铁路局约谈厦深铁路公司](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E9%93%81%E8%B7%AF%E5%B1%80%E7%BA%A6%E8%B0%88%E5%8E%A6%E6%B7%B1%E9%93%81%E8%B7%AF%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网购超长预售期引发吐槽](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD%E8%B6%85%E9%95%BF%E9%A2%84%E5%94%AE%E6%9C%9F%E5%BC%95%E5%8F%91%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小时候流行的屁股针为什么消失了](https://www.baidu.com/s?wd=%E5%B0%8F%E6%97%B6%E5%80%99%E6%B5%81%E8%A1%8C%E7%9A%84%E5%B1%81%E8%82%A1%E9%92%88%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B6%88%E5%A4%B1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东移动下架4G套餐消息不实](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8%E4%B8%8B%E6%9E%B64G%E5%A5%97%E9%A4%90%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [医院儿科人满为患 家长自备椅子输液](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%84%BF%E7%A7%91%E4%BA%BA%E6%BB%A1%E4%B8%BA%E6%82%A3+%E5%AE%B6%E9%95%BF%E8%87%AA%E5%A4%87%E6%A4%85%E5%AD%90%E8%BE%93%E6%B6%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [运-20起飞 接英雄回家](https://www.baidu.com/s?wd=%E8%BF%90-20%E8%B5%B7%E9%A3%9E+%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [孙兴慜进球后做出闭嘴庆祝动作](https://www.baidu.com/s?wd=%E5%AD%99%E5%85%B4%E6%85%9C%E8%BF%9B%E7%90%83%E5%90%8E%E5%81%9A%E5%87%BA%E9%97%AD%E5%98%B4%E5%BA%86%E7%A5%9D%E5%8A%A8%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [网购超长预售期引发吐槽](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD%E8%B6%85%E9%95%BF%E9%A2%84%E5%94%AE%E6%9C%9F%E5%BC%95%E5%8F%91%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [电诈基地卧虎山庄里的“生意经”](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E5%9F%BA%E5%9C%B0%E5%8D%A7%E8%99%8E%E5%B1%B1%E5%BA%84%E9%87%8C%E7%9A%84%E2%80%9C%E7%94%9F%E6%84%8F%E7%BB%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [明星送祝福已明码标价形成产业链](https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E9%80%81%E7%A5%9D%E7%A6%8F%E5%B7%B2%E6%98%8E%E7%A0%81%E6%A0%87%E4%BB%B7%E5%BD%A2%E6%88%90%E4%BA%A7%E4%B8%9A%E9%93%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [国家铁路局约谈厦深铁路公司](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E9%93%81%E8%B7%AF%E5%B1%80%E7%BA%A6%E8%B0%88%E5%8E%A6%E6%B7%B1%E9%93%81%E8%B7%AF%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网购超长预售期引发吐槽](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD%E8%B6%85%E9%95%BF%E9%A2%84%E5%94%AE%E6%9C%9F%E5%BC%95%E5%8F%91%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小时候流行的屁股针为什么消失了](https://www.baidu.com/s?wd=%E5%B0%8F%E6%97%B6%E5%80%99%E6%B5%81%E8%A1%8C%E7%9A%84%E5%B1%81%E8%82%A1%E9%92%88%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B6%88%E5%A4%B1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东移动下架4G套餐消息不实](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8%E4%B8%8B%E6%9E%B64G%E5%A5%97%E9%A4%90%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
