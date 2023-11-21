@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 14:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 14:57:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [北斗系统今后全球民航通用](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%97%E7%B3%BB%E7%BB%9F%E4%BB%8A%E5%90%8E%E5%85%A8%E7%90%83%E6%B0%91%E8%88%AA%E9%80%9A%E7%94%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [难哄就别哄了](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%E5%B0%B1%E5%88%AB%E5%93%84%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [难怪秦海璐情绪这么稳定](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E7%A7%A6%E6%B5%B7%E7%92%90%E6%83%85%E7%BB%AA%E8%BF%99%E4%B9%88%E7%A8%B3%E5%AE%9A%23&t=31&band_rank=5&Refer=top)<br />
-6. [张桂梅说一直支撑自己的是信仰](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%AF%B4%E4%B8%80%E7%9B%B4%E6%94%AF%E6%92%91%E8%87%AA%E5%B7%B1%E7%9A%84%E6%98%AF%E4%BF%A1%E4%BB%B0%23&t=31&band_rank=6&Refer=top)<br />
-7. [麻省理工一中国博士生突然身亡](https://s.weibo.com/weibo?q=%23%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%8D%9A%E5%A3%AB%E7%94%9F%E7%AA%81%E7%84%B6%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
+6. [麻省理工一中国博士生突然身亡](https://s.weibo.com/weibo?q=%23%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%8D%9A%E5%A3%AB%E7%94%9F%E7%AA%81%E7%84%B6%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
+7. [张桂梅说一直支撑自己的是信仰](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%AF%B4%E4%B8%80%E7%9B%B4%E6%94%AF%E6%92%91%E8%87%AA%E5%B7%B1%E7%9A%84%E6%98%AF%E4%BF%A1%E4%BB%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [权志龙指甲检查阴性](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E6%8C%87%E7%94%B2%E6%A3%80%E6%9F%A5%E9%98%B4%E6%80%A7%23&t=31&band_rank=8&Refer=top)<br />
 9. [男子买3千斤滞销白菜让人免费取](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B03%E5%8D%83%E6%96%A4%E6%BB%9E%E9%94%80%E7%99%BD%E8%8F%9C%E8%AE%A9%E4%BA%BA%E5%85%8D%E8%B4%B9%E5%8F%96%23&t=31&band_rank=9&Refer=top)<br />
 
