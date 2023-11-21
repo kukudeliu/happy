@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 13:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 13:19:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [六成求职者呼吁破除第一学历限制](https://www.baidu.com/s?wd=%E5%85%AD%E6%88%90%E6%B1%82%E8%81%8C%E8%80%85%E5%91%BC%E5%90%81%E7%A0%B4%E9%99%A4%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国麻省理工一名中国博士生身亡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [巡视组刚走 李文祖就被拿下了](https://www.baidu.com/s?wd=%E5%B7%A1%E8%A7%86%E7%BB%84%E5%88%9A%E8%B5%B0+%E6%9D%8E%E6%96%87%E7%A5%96%E5%B0%B1%E8%A2%AB%E6%8B%BF%E4%B8%8B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [周口联通称被辞员工故意抹黑](https://www.baidu.com/s?wd=%E5%91%A8%E5%8F%A3%E8%81%94%E9%80%9A%E7%A7%B0%E8%A2%AB%E8%BE%9E%E5%91%98%E5%B7%A5%E6%95%85%E6%84%8F%E6%8A%B9%E9%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [特斯拉一个月内四次涨价](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%80%E4%B8%AA%E6%9C%88%E5%86%85%E5%9B%9B%E6%AC%A1%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西辟谣飞鸟盘旋是地震前兆](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E8%BE%9F%E8%B0%A3%E9%A3%9E%E9%B8%9F%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [六成求职者呼吁破除第一学历限制](https://www.baidu.com/s?wd=%E5%85%AD%E6%88%90%E6%B1%82%E8%81%8C%E8%80%85%E5%91%BC%E5%90%81%E7%A0%B4%E9%99%A4%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国麻省理工一名中国博士生身亡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [巡视组刚走 李文祖就被拿下了](https://www.baidu.com/s?wd=%E5%B7%A1%E8%A7%86%E7%BB%84%E5%88%9A%E8%B5%B0+%E6%9D%8E%E6%96%87%E7%A5%96%E5%B0%B1%E8%A2%AB%E6%8B%BF%E4%B8%8B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [周口联通称被辞员工故意抹黑](https://www.baidu.com/s?wd=%E5%91%A8%E5%8F%A3%E8%81%94%E9%80%9A%E7%A7%B0%E8%A2%AB%E8%BE%9E%E5%91%98%E5%B7%A5%E6%95%85%E6%84%8F%E6%8A%B9%E9%BB%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [特斯拉一个月内四次涨价](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%80%E4%B8%AA%E6%9C%88%E5%86%85%E5%9B%9B%E6%AC%A1%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西辟谣飞鸟盘旋是地震前兆](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E8%BE%9F%E8%B0%A3%E9%A3%9E%E9%B8%9F%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86&sa=fyb_news&rsv_dl=fyb_news)<br />
