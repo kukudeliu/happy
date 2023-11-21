@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 07:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 07:30:02</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [英雄回家](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [巴宝莉赚不到我一分钱](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%AE%9D%E8%8E%89%E8%B5%9A%E4%B8%8D%E5%88%B0%E6%88%91%E4%B8%80%E5%88%86%E9%92%B1&t=31&band_rank=4&Refer=top)<br />
 5. [合胞病毒](https://s.weibo.com/weibo?q=%E5%90%88%E8%83%9E%E7%97%85%E6%AF%92&t=31&band_rank=5&Refer=top)<br />
-6. [高嘌呤食物排行榜](https://s.weibo.com/weibo?q=%E9%AB%98%E5%98%8C%E5%91%A4%E9%A3%9F%E7%89%A9%E6%8E%92%E8%A1%8C%E6%A6%9C&t=31&band_rank=6&Refer=top)<br />
+6. [孙兴慜跑向中国球迷看台庆祝](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%85%B4%E6%85%9C%E8%B7%91%E5%90%91%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E7%9C%8B%E5%8F%B0%E5%BA%86%E7%A5%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [小雪](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%9B%AA%23&t=31&band_rank=7&Refer=top)<br />
-8. [孙兴慜跑向中国球迷看台庆祝](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%85%B4%E6%85%9C%E8%B7%91%E5%90%91%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E7%9C%8B%E5%8F%B0%E5%BA%86%E7%A5%9D%23&t=31&band_rank=8&Refer=top)<br />
+8. [高嘌呤食物排行榜](https://s.weibo.com/weibo?q=%E9%AB%98%E5%98%8C%E5%91%A4%E9%A3%9F%E7%89%A9%E6%8E%92%E8%A1%8C%E6%A6%9C&t=31&band_rank=8&Refer=top)<br />
 9. [白鹿王星越牵手 张凌赫belike](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E7%8E%8B%E6%98%9F%E8%B6%8A%E7%89%B5%E6%89%8B%20%E5%BC%A0%E5%87%8C%E8%B5%ABbelike&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
