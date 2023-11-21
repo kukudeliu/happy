@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 09:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 09:56:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [落马“老虎”曾突击提拔32名女干部](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E2%80%9C%E8%80%81%E8%99%8E%E2%80%9D%E6%9B%BE%E7%AA%81%E5%87%BB%E6%8F%90%E6%8B%9432%E5%90%8D%E5%A5%B3%E5%B9%B2%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大小S感谢司法还她们清白](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E6%84%9F%E8%B0%A2%E5%8F%B8%E6%B3%95%E8%BF%98%E5%A5%B9%E4%BB%AC%E6%B8%85%E7%99%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [可可西里管理处回应胡歌刘涛争论](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E7%AE%A1%E7%90%86%E5%A4%84%E5%9B%9E%E5%BA%94%E8%83%A1%E6%AD%8C%E5%88%98%E6%B6%9B%E4%BA%89%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乐山警方辟谣两学生被迷晕带走](https://www.baidu.com/s?wd=%E4%B9%90%E5%B1%B1%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%A4%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%BF%B7%E6%99%95%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广西辟谣飞鸟盘旋是地震前兆](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E8%BE%9F%E8%B0%A3%E9%A3%9E%E9%B8%9F%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [落马“老虎”曾突击提拔32名女干部](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E2%80%9C%E8%80%81%E8%99%8E%E2%80%9D%E6%9B%BE%E7%AA%81%E5%87%BB%E6%8F%90%E6%8B%9432%E5%90%8D%E5%A5%B3%E5%B9%B2%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大小S感谢司法还她们清白](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E6%84%9F%E8%B0%A2%E5%8F%B8%E6%B3%95%E8%BF%98%E5%A5%B9%E4%BB%AC%E6%B8%85%E7%99%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [可可西里管理处回应胡歌刘涛争论](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E7%AE%A1%E7%90%86%E5%A4%84%E5%9B%9E%E5%BA%94%E8%83%A1%E6%AD%8C%E5%88%98%E6%B6%9B%E4%BA%89%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乐山警方辟谣两学生被迷晕带走](https://www.baidu.com/s?wd=%E4%B9%90%E5%B1%B1%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%A4%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%BF%B7%E6%99%95%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广西辟谣飞鸟盘旋是地震前兆](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E8%BE%9F%E8%B0%A3%E9%A3%9E%E9%B8%9F%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86&sa=fyb_news&rsv_dl=fyb_news)<br />
