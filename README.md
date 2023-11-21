@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 21:00:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 21:01:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [孙兴慜首次攻破国足大门](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%85%B4%E6%85%9C%E9%A6%96%E6%AC%A1%E6%94%BB%E7%A0%B4%E5%9B%BD%E8%B6%B3%E5%A4%A7%E9%97%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [裁判](https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4&t=31&band_rank=5&Refer=top)<br />
 6. [高嘌呤食物排行榜](https://s.weibo.com/weibo?q=%E9%AB%98%E5%98%8C%E5%91%A4%E9%A3%9F%E7%89%A9%E6%8E%92%E8%A1%8C%E6%A6%9C&t=31&band_rank=6&Refer=top)<br />
-7. [怎么就点球了](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E5%B0%B1%E7%82%B9%E7%90%83%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [国足半场0比2韩国](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E5%8D%8A%E5%9C%BA0%E6%AF%942%E9%9F%A9%E5%9B%BD%23&t=31&band_rank=8&Refer=top)<br />
+7. [国足半场0比2韩国](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E5%8D%8A%E5%9C%BA0%E6%AF%942%E9%9F%A9%E5%9B%BD%23&t=31&band_rank=7&Refer=top)<br />
+8. [怎么就点球了](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E5%B0%B1%E7%82%B9%E7%90%83%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [没有VAR](https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89VAR&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
