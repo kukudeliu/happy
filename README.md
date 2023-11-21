@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 19:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 19:13:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [傅首尔两万多张照片被老刘格式化了](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E4%B8%A4%E4%B8%87%E5%A4%9A%E5%BC%A0%E7%85%A7%E7%89%87%E8%A2%AB%E8%80%81%E5%88%98%E6%A0%BC%E5%BC%8F%E5%8C%96%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [辅警吃饭一眼锁定嫌疑人](https://s.weibo.com/weibo?q=%23%E8%BE%85%E8%AD%A6%E5%90%83%E9%A5%AD%E4%B8%80%E7%9C%BC%E9%94%81%E5%AE%9A%E5%AB%8C%E7%96%91%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [李晨去体综了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%A8%E5%8E%BB%E4%BD%93%E7%BB%BC%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [男子昏迷获救后家属抱甘蔗塞警车](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%98%8F%E8%BF%B7%E8%8E%B7%E6%95%91%E5%90%8E%E5%AE%B6%E5%B1%9E%E6%8A%B1%E7%94%98%E8%94%97%E5%A1%9E%E8%AD%A6%E8%BD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [国足首发](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E9%A6%96%E5%8F%91&t=31&band_rank=8&Refer=top)<br />
-9. [白敬亭工作室辟谣](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3&t=31&band_rank=9&Refer=top)<br />
+7. [国足首发](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E9%A6%96%E5%8F%91&t=31&band_rank=7&Refer=top)<br />
+8. [白敬亭工作室辟谣](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3&t=31&band_rank=8&Refer=top)<br />
+9. [韦世豪4号](https://s.weibo.com/weibo?q=%E9%9F%A6%E4%B8%96%E8%B1%AA4%E5%8F%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
