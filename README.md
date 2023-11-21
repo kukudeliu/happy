@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 19:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 19:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [LGD 五个癫子](https://s.weibo.com/weibo?q=LGD%20%E4%BA%94%E4%B8%AA%E7%99%AB%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
 7. [辅警吃饭一眼锁定嫌疑人](https://s.weibo.com/weibo?q=%23%E8%BE%85%E8%AD%A6%E5%90%83%E9%A5%AD%E4%B8%80%E7%9C%BC%E9%94%81%E5%AE%9A%E5%AB%8C%E7%96%91%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [白敬亭工作室辟谣](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3&t=31&band_rank=8&Refer=top)<br />
-9. [李晨去体综了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%A8%E5%8E%BB%E4%BD%93%E7%BB%BC%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [傅首尔 再也没有人会这样对我了](https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%20%E5%86%8D%E4%B9%9F%E6%B2%A1%E6%9C%89%E4%BA%BA%E4%BC%9A%E8%BF%99%E6%A0%B7%E5%AF%B9%E6%88%91%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
