@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 22:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 22:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吴世勋视频通话](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%B8%96%E5%8B%8B%E8%A7%86%E9%A2%91%E9%80%9A%E8%AF%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [幼师将孩子小冰手放进自己衣服里](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%B8%88%E5%B0%86%E5%AD%A9%E5%AD%90%E5%B0%8F%E5%86%B0%E6%89%8B%E6%94%BE%E8%BF%9B%E8%87%AA%E5%B7%B1%E8%A1%A3%E6%9C%8D%E9%87%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [裁判](https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4&t=31&band_rank=8&Refer=top)<br />
-9. [热刺球衣](https://s.weibo.com/weibo?q=%E7%83%AD%E5%88%BA%E7%90%83%E8%A1%A3&t=31&band_rank=9&Refer=top)<br />
+9. [冲绳](https://s.weibo.com/weibo?q=%E5%86%B2%E7%BB%B3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
