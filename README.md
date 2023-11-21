@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 08:29:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 08:30:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [大熊猫再次强调不要拿拍蒜的刀切苹果](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%86%8D%E6%AC%A1%E5%BC%BA%E8%B0%83%E4%B8%8D%E8%A6%81%E6%8B%BF%E6%8B%8D%E8%92%9C%E7%9A%84%E5%88%80%E5%88%87%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [妻子生日女儿吃薯片吃出金手链给妈妈](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E7%94%9F%E6%97%A5%E5%A5%B3%E5%84%BF%E5%90%83%E8%96%AF%E7%89%87%E5%90%83%E5%87%BA%E9%87%91%E6%89%8B%E9%93%BE%E7%BB%99%E5%A6%88%E5%A6%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [小时候流行的屁股针为什么消失了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%97%B6%E5%80%99%E6%B5%81%E8%A1%8C%E7%9A%84%E5%B1%81%E8%82%A1%E9%92%88%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B6%88%E5%A4%B1%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [黑龙江一女童疑注射阿奇霉素后死亡](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%A5%B3%E7%AB%A5%E7%96%91%E6%B3%A8%E5%B0%84%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [杜华原来你淘汰玩真的](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E5%8E%9F%E6%9D%A5%E4%BD%A0%E6%B7%98%E6%B1%B0%E7%8E%A9%E7%9C%9F%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+8. [杜华原来你淘汰玩真的](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E5%8E%9F%E6%9D%A5%E4%BD%A0%E6%B7%98%E6%B1%B0%E7%8E%A9%E7%9C%9F%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
+9. [黑龙江一女童疑注射阿奇霉素后死亡](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%A5%B3%E7%AB%A5%E7%96%91%E6%B3%A8%E5%B0%84%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
