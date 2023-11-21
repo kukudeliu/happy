@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 23:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 23:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [5岁男孩发现5亿年前古生物化石](https://s.weibo.com/weibo?q=%235%E5%B2%81%E7%94%B7%E5%AD%A9%E5%8F%91%E7%8E%B05%E4%BA%BF%E5%B9%B4%E5%89%8D%E5%8F%A4%E7%94%9F%E7%89%A9%E5%8C%96%E7%9F%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [朝鲜向日通报计划第三次试射卫星](https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E5%90%91%E6%97%A5%E9%80%9A%E6%8A%A5%E8%AE%A1%E5%88%92%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%AF%95%E5%B0%84%E5%8D%AB%E6%98%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [斗鱼CEO被逮捕](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BCCEO%E8%A2%AB%E9%80%AE%E6%8D%95%23&t=31&band_rank=8&Refer=top)<br />
-9. [孙燕姿 开始懂了](https://s.weibo.com/weibo?q=%E5%AD%99%E7%87%95%E5%A7%BF%20%E5%BC%80%E5%A7%8B%E6%87%82%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [巴宝莉赚不到我一分钱](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%AE%9D%E8%8E%89%E8%B5%9A%E4%B8%8D%E5%88%B0%E6%88%91%E4%B8%80%E5%88%86%E9%92%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
