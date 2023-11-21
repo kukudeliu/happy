@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 22:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 22:32:01</h4></div>
 
 > 微博  
 
 1. [国足0比3不敌韩国](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B30%E6%AF%943%E4%B8%8D%E6%95%8C%E9%9F%A9%E5%9B%BD&t=31&band_rank=1&Refer=top)<br />
 2. [裁判](https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4&t=31&band_rank=2&Refer=top)<br />
 3. [小鸟好像飞进了国画里的柿子树](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B8%9F%E5%A5%BD%E5%83%8F%E9%A3%9E%E8%BF%9B%E4%BA%86%E5%9B%BD%E7%94%BB%E9%87%8C%E7%9A%84%E6%9F%BF%E5%AD%90%E6%A0%91%23&t=31&band_rank=3&Refer=top)<br />
-4. [斗鱼CEO被逮捕](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BCCEO%E8%A2%AB%E9%80%AE%E6%8D%95%23&t=31&band_rank=4&Refer=top)<br />
-5. [吴世勋视频通话](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%B8%96%E5%8B%8B%E8%A7%86%E9%A2%91%E9%80%9A%E8%AF%9D%23&t=31&band_rank=5&Refer=top)<br />
+4. [吴世勋视频通话](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%B8%96%E5%8B%8B%E8%A7%86%E9%A2%91%E9%80%9A%E8%AF%9D%23&t=31&band_rank=4&Refer=top)<br />
+5. [斗鱼CEO被逮捕](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BCCEO%E8%A2%AB%E9%80%AE%E6%8D%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [跑男元老只剩李晨和郑恺了](https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E5%85%83%E8%80%81%E5%8F%AA%E5%89%A9%E6%9D%8E%E6%99%A8%E5%92%8C%E9%83%91%E6%81%BA%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [幼师将孩子小冰手放进自己衣服里](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%B8%88%E5%B0%86%E5%AD%A9%E5%AD%90%E5%B0%8F%E5%86%B0%E6%89%8B%E6%94%BE%E8%BF%9B%E8%87%AA%E5%B7%B1%E8%A1%A3%E6%9C%8D%E9%87%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [高嘌呤食物排行榜](https://s.weibo.com/weibo?q=%E9%AB%98%E5%98%8C%E5%91%A4%E9%A3%9F%E7%89%A9%E6%8E%92%E8%A1%8C%E6%A6%9C&t=31&band_rank=8&Refer=top)<br />
