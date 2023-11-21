@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 19:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 19:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国足vs韩国](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E9%9F%A9%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [辅警吃饭一眼锁定嫌疑人](https://s.weibo.com/weibo?q=%23%E8%BE%85%E8%AD%A6%E5%90%83%E9%A5%AD%E4%B8%80%E7%9C%BC%E9%94%81%E5%AE%9A%E5%AB%8C%E7%96%91%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [白敬亭工作室辟谣](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3&t=31&band_rank=8&Refer=top)<br />
-9. [李晨去体综了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%A8%E5%8E%BB%E4%BD%93%E7%BB%BC%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [李荣浩杭州嘉宾 陈奕迅](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%9D%AD%E5%B7%9E%E5%98%89%E5%AE%BE%20%E9%99%88%E5%A5%95%E8%BF%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
