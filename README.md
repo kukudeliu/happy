@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 18:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 18:07:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [油价四连降 加满一箱将少花13.5元](https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E5%9B%9B%E8%BF%9E%E9%99%8D+%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E5%B0%86%E5%B0%91%E8%8A%B113.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [阿黛尔承认与经纪人结婚](https://www.baidu.com/s?wd=%E9%98%BF%E9%BB%9B%E5%B0%94%E6%89%BF%E8%AE%A4%E4%B8%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [深圳一女子买菜遇到“辣椒刺客”](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%8F%9C%E9%81%87%E5%88%B0%E2%80%9C%E8%BE%A3%E6%A4%92%E5%88%BA%E5%AE%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [宁波飞济州岛仅需9元](https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E9%A3%9E%E6%B5%8E%E5%B7%9E%E5%B2%9B%E4%BB%85%E9%9C%809%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [傅首尔两万多张照片被老刘格式化了](https://www.baidu.com/s?wd=%E5%82%85%E9%A6%96%E5%B0%94%E4%B8%A4%E4%B8%87%E5%A4%9A%E5%BC%A0%E7%85%A7%E7%89%87%E8%A2%AB%E8%80%81%E5%88%98%E6%A0%BC%E5%BC%8F%E5%8C%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西警方辟谣娱乐城碎尸案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A8%B1%E4%B9%90%E5%9F%8E%E7%A2%8E%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [油价四连降 加满一箱将少花13.5元](https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E5%9B%9B%E8%BF%9E%E9%99%8D+%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E5%B0%86%E5%B0%91%E8%8A%B113.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [阿黛尔承认与经纪人结婚](https://www.baidu.com/s?wd=%E9%98%BF%E9%BB%9B%E5%B0%94%E6%89%BF%E8%AE%A4%E4%B8%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [深圳一女子买菜遇到“辣椒刺客”](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%8F%9C%E9%81%87%E5%88%B0%E2%80%9C%E8%BE%A3%E6%A4%92%E5%88%BA%E5%AE%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [宁波飞济州岛仅需9元](https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E9%A3%9E%E6%B5%8E%E5%B7%9E%E5%B2%9B%E4%BB%85%E9%9C%809%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [傅首尔两万多张照片被老刘格式化了](https://www.baidu.com/s?wd=%E5%82%85%E9%A6%96%E5%B0%94%E4%B8%A4%E4%B8%87%E5%A4%9A%E5%BC%A0%E7%85%A7%E7%89%87%E8%A2%AB%E8%80%81%E5%88%98%E6%A0%BC%E5%BC%8F%E5%8C%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西警方辟谣娱乐城碎尸案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A8%B1%E4%B9%90%E5%9F%8E%E7%A2%8E%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
