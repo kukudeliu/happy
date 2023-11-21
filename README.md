@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 15:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 15:30:01</h4></div>
 
 > 微博  
 
 1. [白敬亭工作室辟谣](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3&t=31&band_rank=1&Refer=top)<br />
-2. [麻省理工一中国博士生突然身亡](https://s.weibo.com/weibo?q=%23%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%8D%9A%E5%A3%AB%E7%94%9F%E7%AA%81%E7%84%B6%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
+2. [王鹤棣深夜送王彦霖夫妻去医院](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%B7%B1%E5%A4%9C%E9%80%81%E7%8E%8B%E5%BD%A6%E9%9C%96%E5%A4%AB%E5%A6%BB%E5%8E%BB%E5%8C%BB%E9%99%A2%23&t=31&band_rank=2&Refer=top)<br />
 3. [北斗系统今后全球民航通用](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%97%E7%B3%BB%E7%BB%9F%E4%BB%8A%E5%90%8E%E5%85%A8%E7%90%83%E6%B0%91%E8%88%AA%E9%80%9A%E7%94%A8%23&t=31&band_rank=3&Refer=top)<br />
-4. [王鹤棣深夜送王彦霖夫妻去医院](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%B7%B1%E5%A4%9C%E9%80%81%E7%8E%8B%E5%BD%A6%E9%9C%96%E5%A4%AB%E5%A6%BB%E5%8E%BB%E5%8C%BB%E9%99%A2%23&t=31&band_rank=4&Refer=top)<br />
+4. [麻省理工一中国博士生突然身亡](https://s.weibo.com/weibo?q=%23%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%8D%9A%E5%A3%AB%E7%94%9F%E7%AA%81%E7%84%B6%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [难哄就别哄了](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%E5%B0%B1%E5%88%AB%E5%93%84%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [难怪秦海璐情绪这么稳定](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E7%A7%A6%E6%B5%B7%E7%92%90%E6%83%85%E7%BB%AA%E8%BF%99%E4%B9%88%E7%A8%B3%E5%AE%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子买3千斤滞销白菜让人免费取](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B03%E5%8D%83%E6%96%A4%E6%BB%9E%E9%94%80%E7%99%BD%E8%8F%9C%E8%AE%A9%E4%BA%BA%E5%85%8D%E8%B4%B9%E5%8F%96%23&t=31&band_rank=7&Refer=top)<br />
