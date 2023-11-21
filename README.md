@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 10:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 10:12:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [40岁的霍启山](https://s.weibo.com/weibo?q=40%E5%B2%81%E7%9A%84%E9%9C%8D%E5%90%AF%E5%B1%B1&t=31&band_rank=4&Refer=top)<br />
 5. [大熊猫再次强调不要拿拍蒜的刀切苹果](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%86%8D%E6%AC%A1%E5%BC%BA%E8%B0%83%E4%B8%8D%E8%A6%81%E6%8B%BF%E6%8B%8D%E8%92%9C%E7%9A%84%E5%88%80%E5%88%87%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [CPA 等成绩](https://s.weibo.com/weibo?q=CPA%20%E7%AD%89%E6%88%90%E7%BB%A9&t=31&band_rank=6&Refer=top)<br />
-7. [小杨哥演唱会免费门票被2000元叫卖](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E5%85%8D%E8%B4%B9%E9%97%A8%E7%A5%A8%E8%A2%AB2000%E5%85%83%E5%8F%AB%E5%8D%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [小时候流行的屁股针为什么消失了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%97%B6%E5%80%99%E6%B5%81%E8%A1%8C%E7%9A%84%E5%B1%81%E8%82%A1%E9%92%88%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B6%88%E5%A4%B1%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [小时候流行的屁股针为什么消失了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%97%B6%E5%80%99%E6%B5%81%E8%A1%8C%E7%9A%84%E5%B1%81%E8%82%A1%E9%92%88%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B6%88%E5%A4%B1%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [小杨哥演唱会免费门票被2000元叫卖](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E5%85%8D%E8%B4%B9%E9%97%A8%E7%A5%A8%E8%A2%AB2000%E5%85%83%E5%8F%AB%E5%8D%96%23&t=31&band_rank=8&Refer=top)<br />
 9. [张桂梅说一直支撑自己的是信仰](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%AF%B4%E4%B8%80%E7%9B%B4%E6%94%AF%E6%92%91%E8%87%AA%E5%B7%B1%E7%9A%84%E6%98%AF%E4%BF%A1%E4%BB%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
