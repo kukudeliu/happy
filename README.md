@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 10:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 10:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大熊猫再次强调不要拿拍蒜的刀切苹果](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%86%8D%E6%AC%A1%E5%BC%BA%E8%B0%83%E4%B8%8D%E8%A6%81%E6%8B%BF%E6%8B%8D%E8%92%9C%E7%9A%84%E5%88%80%E5%88%87%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [CPA 等成绩](https://s.weibo.com/weibo?q=CPA%20%E7%AD%89%E6%88%90%E7%BB%A9&t=31&band_rank=7&Refer=top)<br />
 8. [张桂梅说一直支撑自己的是信仰](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%AF%B4%E4%B8%80%E7%9B%B4%E6%94%AF%E6%92%91%E8%87%AA%E5%B7%B1%E7%9A%84%E6%98%AF%E4%BF%A1%E4%BB%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [霸王茶姬 免单](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E5%85%8D%E5%8D%95&t=31&band_rank=9&Refer=top)<br />
+9. [准新郎结婚前一天跳河救落水儿童](https://s.weibo.com/weibo?q=%23%E5%87%86%E6%96%B0%E9%83%8E%E7%BB%93%E5%A9%9A%E5%89%8D%E4%B8%80%E5%A4%A9%E8%B7%B3%E6%B2%B3%E6%95%91%E8%90%BD%E6%B0%B4%E5%84%BF%E7%AB%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
