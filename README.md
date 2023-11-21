@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 00:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 00:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [巴宝莉赚不到我一分钱](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%AE%9D%E8%8E%89%E8%B5%9A%E4%B8%8D%E5%88%B0%E6%88%91%E4%B8%80%E5%88%86%E9%92%B1&t=31&band_rank=6&Refer=top)<br />
 7. [高嘌呤食物排行榜](https://s.weibo.com/weibo?q=%E9%AB%98%E5%98%8C%E5%91%A4%E9%A3%9F%E7%89%A9%E6%8E%92%E8%A1%8C%E6%A6%9C&t=31&band_rank=7&Refer=top)<br />
 8. [孙燕姿 开始懂了](https://s.weibo.com/weibo?q=%E5%AD%99%E7%87%95%E5%A7%BF%20%E5%BC%80%E5%A7%8B%E6%87%82%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [小鸟好像飞进了国画里的柿子树](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B8%9F%E5%A5%BD%E5%83%8F%E9%A3%9E%E8%BF%9B%E4%BA%86%E5%9B%BD%E7%94%BB%E9%87%8C%E7%9A%84%E6%9F%BF%E5%AD%90%E6%A0%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [朝鲜向日通报计划第三次试射卫星](https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E5%90%91%E6%97%A5%E9%80%9A%E6%8A%A5%E8%AE%A1%E5%88%92%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%AF%95%E5%B0%84%E5%8D%AB%E6%98%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
