@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 00:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 00:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [5岁男孩发现5亿年前古生物化石](https://s.weibo.com/weibo?q=%235%E5%B2%81%E7%94%B7%E5%AD%A9%E5%8F%91%E7%8E%B05%E4%BA%BF%E5%B9%B4%E5%89%8D%E5%8F%A4%E7%94%9F%E7%89%A9%E5%8C%96%E7%9F%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [孙燕姿 开始懂了](https://s.weibo.com/weibo?q=%E5%AD%99%E7%87%95%E5%A7%BF%20%E5%BC%80%E5%A7%8B%E6%87%82%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [吴世勋视频通话](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%B8%96%E5%8B%8B%E8%A7%86%E9%A2%91%E9%80%9A%E8%AF%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [国足尽力了](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E5%B0%BD%E5%8A%9B%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [傅首尔 再也没有人会这样对我了](https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%20%E5%86%8D%E4%B9%9F%E6%B2%A1%E6%9C%89%E4%BA%BA%E4%BC%9A%E8%BF%99%E6%A0%B7%E5%AF%B9%E6%88%91%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [医院儿科人满为患 家长自备椅子输液](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%84%BF%E7%A7%91%E4%BA%BA%E6%BB%A1%E4%B8%BA%E6%82%A3+%E5%AE%B6%E9%95%BF%E8%87%AA%E5%A4%87%E6%A4%85%E5%AD%90%E8%BE%93%E6%B6%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [运-20起飞 接英雄回家](https://www.baidu.com/s?wd=%E8%BF%90-20%E8%B5%B7%E9%A3%9E+%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国足主帅：我们缠斗了90分钟](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%B8%85%EF%BC%9A%E6%88%91%E4%BB%AC%E7%BC%A0%E6%96%97%E4%BA%8690%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小熊猫外逃3个月景区悬赏5000元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%86%8A%E7%8C%AB%E5%A4%96%E9%80%833%E4%B8%AA%E6%9C%88%E6%99%AF%E5%8C%BA%E6%82%AC%E8%B5%8F5000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [iPhone“信号病”难治](https://www.baidu.com/s?wd=iPhone%E2%80%9C%E4%BF%A1%E5%8F%B7%E7%97%85%E2%80%9D%E9%9A%BE%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [于文亮妈妈发声](https://www.baidu.com/s?wd=%E4%BA%8E%E6%96%87%E4%BA%AE%E5%A6%88%E5%A6%88%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [iPhone“信号病”难治](https://www.baidu.com/s?wd=iPhone%E2%80%9C%E4%BF%A1%E5%8F%B7%E7%97%85%E2%80%9D%E9%9A%BE%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [于文亮妈妈发声](https://www.baidu.com/s?wd=%E4%BA%8E%E6%96%87%E4%BA%AE%E5%A6%88%E5%A6%88%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [阿根廷将停止与中国合作？中方回应](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%B0%86%E5%81%9C%E6%AD%A2%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%90%88%E4%BD%9C%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东移动下架4G套餐消息不实](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8%E4%B8%8B%E6%9E%B64G%E5%A5%97%E9%A4%90%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [医院儿科人满为患 家长自备椅子输液](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%84%BF%E7%A7%91%E4%BA%BA%E6%BB%A1%E4%B8%BA%E6%82%A3+%E5%AE%B6%E9%95%BF%E8%87%AA%E5%A4%87%E6%A4%85%E5%AD%90%E8%BE%93%E6%B6%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [运-20起飞 接英雄回家](https://www.baidu.com/s?wd=%E8%BF%90-20%E8%B5%B7%E9%A3%9E+%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国足主帅：我们缠斗了90分钟](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%B8%85%EF%BC%9A%E6%88%91%E4%BB%AC%E7%BC%A0%E6%96%97%E4%BA%8690%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小熊猫外逃3个月景区悬赏5000元](https://www.baidu.com/s?wd=%E5%B0%8F%E7%86%8A%E7%8C%AB%E5%A4%96%E9%80%833%E4%B8%AA%E6%9C%88%E6%99%AF%E5%8C%BA%E6%82%AC%E8%B5%8F5000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [iPhone“信号病”难治](https://www.baidu.com/s?wd=iPhone%E2%80%9C%E4%BF%A1%E5%8F%B7%E7%97%85%E2%80%9D%E9%9A%BE%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [于文亮妈妈发声](https://www.baidu.com/s?wd=%E4%BA%8E%E6%96%87%E4%BA%AE%E5%A6%88%E5%A6%88%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [iPhone“信号病”难治](https://www.baidu.com/s?wd=iPhone%E2%80%9C%E4%BF%A1%E5%8F%B7%E7%97%85%E2%80%9D%E9%9A%BE%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [于文亮妈妈发声](https://www.baidu.com/s?wd=%E4%BA%8E%E6%96%87%E4%BA%AE%E5%A6%88%E5%A6%88%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [阿根廷将停止与中国合作？中方回应](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%B0%86%E5%81%9C%E6%AD%A2%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%90%88%E4%BD%9C%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东移动下架4G套餐消息不实](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8%E4%B8%8B%E6%9E%B64G%E5%A5%97%E9%A4%90%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
