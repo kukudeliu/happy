@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 13:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 13:01:01</h4></div>
 
 > 微博  
 
-1. [难哄就别哄了](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%E5%B0%B1%E5%88%AB%E5%93%84%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [白敬亭工作室辟谣](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3&t=31&band_rank=2&Refer=top)<br />
+1. [白敬亭工作室辟谣](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3&t=31&band_rank=1&Refer=top)<br />
+2. [难哄就别哄了](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%E5%B0%B1%E5%88%AB%E5%93%84%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [运20将再赴韩国接运烈士遗骸回国](https://s.weibo.com/weibo?q=%23%E8%BF%9020%E5%B0%86%E5%86%8D%E8%B5%B4%E9%9F%A9%E5%9B%BD%E6%8E%A5%E8%BF%90%E7%83%88%E5%A3%AB%E9%81%97%E9%AA%B8%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [缅北累计向中方移交3.1万名电诈嫌疑人](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%B4%AF%E8%AE%A1%E5%90%91%E4%B8%AD%E6%96%B9%E7%A7%BB%E4%BA%A43.1%E4%B8%87%E5%90%8D%E7%94%B5%E8%AF%88%E5%AB%8C%E7%96%91%E4%BA%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [痞幼妆](https://s.weibo.com/weibo?q=%E7%97%9E%E5%B9%BC%E5%A6%86&t=31&band_rank=5&Refer=top)<br />
