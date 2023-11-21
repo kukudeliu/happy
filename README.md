@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 20:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 20:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [裁判](https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4&t=31&band_rank=6&Refer=top)<br />
 7. [没有VAR](https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89VAR&t=31&band_rank=7&Refer=top)<br />
 8. [辛芷蕾说最近的事对王安宇很不公平](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%AF%B4%E6%9C%80%E8%BF%91%E7%9A%84%E4%BA%8B%E5%AF%B9%E7%8E%8B%E5%AE%89%E5%AE%87%E5%BE%88%E4%B8%8D%E5%85%AC%E5%B9%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [怎么就点球了](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E5%B0%B1%E7%82%B9%E7%90%83%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [考研选择题 我生性多疑](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E9%80%89%E6%8B%A9%E9%A2%98%20%E6%88%91%E7%94%9F%E6%80%A7%E5%A4%9A%E7%96%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
