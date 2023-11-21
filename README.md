@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 20:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 20:23:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [没有VAR](https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89VAR&t=31&band_rank=4&Refer=top)<br />
 5. [辛芷蕾说最近的事对王安宇很不公平](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%AF%B4%E6%9C%80%E8%BF%91%E7%9A%84%E4%BA%8B%E5%AF%B9%E7%8E%8B%E5%AE%89%E5%AE%87%E5%BE%88%E4%B8%8D%E5%85%AC%E5%B9%B3%23&t=31&band_rank=5&Refer=top)<br />
 6. [考研选择题 我生性多疑](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E9%80%89%E6%8B%A9%E9%A2%98%20%E6%88%91%E7%94%9F%E6%80%A7%E5%A4%9A%E7%96%91&t=31&band_rank=6&Refer=top)<br />
-7. [LGD 五个癫子](https://s.weibo.com/weibo?q=LGD%20%E4%BA%94%E4%B8%AA%E7%99%AB%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
-8. [韦世豪4号](https://s.weibo.com/weibo?q=%E9%9F%A6%E4%B8%96%E8%B1%AA4%E5%8F%B7&t=31&band_rank=8&Refer=top)<br />
+7. [韦世豪4号](https://s.weibo.com/weibo?q=%E9%9F%A6%E4%B8%96%E8%B1%AA4%E5%8F%B7&t=31&band_rank=7&Refer=top)<br />
+8. [LGD 五个癫子](https://s.weibo.com/weibo?q=LGD%20%E4%BA%94%E4%B8%AA%E7%99%AB%E5%AD%90&t=31&band_rank=8&Refer=top)<br />
 9. [以爱为营点映礼](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E7%82%B9%E6%98%A0%E7%A4%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
