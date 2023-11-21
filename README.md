@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 17:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 17:09:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [朋友圈三天可见是不合群表现?](https://www.baidu.com/s?wd=%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%B8%89%E5%A4%A9%E5%8F%AF%E8%A7%81%E6%98%AF%E4%B8%8D%E5%90%88%E7%BE%A4%E8%A1%A8%E7%8E%B0%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男童肺炎高热不退被建议“洗肺”](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%82%BA%E7%82%8E%E9%AB%98%E7%83%AD%E4%B8%8D%E9%80%80%E8%A2%AB%E5%BB%BA%E8%AE%AE%E2%80%9C%E6%B4%97%E8%82%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子花150万做法事续命](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1150%E4%B8%87%E5%81%9A%E6%B3%95%E4%BA%8B%E7%BB%AD%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [特斯拉一个月内四次涨价](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%80%E4%B8%AA%E6%9C%88%E5%86%85%E5%9B%9B%E6%AC%A1%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子买3千斤滞销白菜让人免费取](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B03%E5%8D%83%E6%96%A4%E6%BB%9E%E9%94%80%E7%99%BD%E8%8F%9C%E8%AE%A9%E4%BA%BA%E5%85%8D%E8%B4%B9%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西警方辟谣娱乐城碎尸案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A8%B1%E4%B9%90%E5%9F%8E%E7%A2%8E%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [朋友圈三天可见是不合群表现?](https://www.baidu.com/s?wd=%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%B8%89%E5%A4%A9%E5%8F%AF%E8%A7%81%E6%98%AF%E4%B8%8D%E5%90%88%E7%BE%A4%E8%A1%A8%E7%8E%B0%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男童肺炎高热不退被建议“洗肺”](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%82%BA%E7%82%8E%E9%AB%98%E7%83%AD%E4%B8%8D%E9%80%80%E8%A2%AB%E5%BB%BA%E8%AE%AE%E2%80%9C%E6%B4%97%E8%82%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子花150万做法事续命](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1150%E4%B8%87%E5%81%9A%E6%B3%95%E4%BA%8B%E7%BB%AD%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [特斯拉一个月内四次涨价](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%80%E4%B8%AA%E6%9C%88%E5%86%85%E5%9B%9B%E6%AC%A1%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子买3千斤滞销白菜让人免费取](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B03%E5%8D%83%E6%96%A4%E6%BB%9E%E9%94%80%E7%99%BD%E8%8F%9C%E8%AE%A9%E4%BA%BA%E5%85%8D%E8%B4%B9%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西警方辟谣娱乐城碎尸案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A8%B1%E4%B9%90%E5%9F%8E%E7%A2%8E%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
