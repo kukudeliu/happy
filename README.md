@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 22:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 22:01:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [高嘌呤食物排行榜](https://s.weibo.com/weibo?q=%E9%AB%98%E5%98%8C%E5%91%A4%E9%A3%9F%E7%89%A9%E6%8E%92%E8%A1%8C%E6%A6%9C&t=31&band_rank=5&Refer=top)<br />
 6. [吴世勋视频通话](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%B8%96%E5%8B%8B%E8%A7%86%E9%A2%91%E9%80%9A%E8%AF%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [幼师将孩子小冰手放进自己衣服里](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%B8%88%E5%B0%86%E5%AD%A9%E5%AD%90%E5%B0%8F%E5%86%B0%E6%89%8B%E6%94%BE%E8%BF%9B%E8%87%AA%E5%B7%B1%E8%A1%A3%E6%9C%8D%E9%87%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [韦世豪4号](https://s.weibo.com/weibo?q=%E9%9F%A6%E4%B8%96%E8%B1%AA4%E5%8F%B7&t=31&band_rank=8&Refer=top)<br />
-9. [孙兴慜首次攻破国足大门](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%85%B4%E6%85%9C%E9%A6%96%E6%AC%A1%E6%94%BB%E7%A0%B4%E5%9B%BD%E8%B6%B3%E5%A4%A7%E9%97%A8%23&t=31&band_rank=9&Refer=top)<br />
+8. [国足0比3不敌韩国](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B30%E6%AF%943%E4%B8%8D%E6%95%8C%E9%9F%A9%E5%9B%BD&t=31&band_rank=8&Refer=top)<br />
+9. [武磊抗议裁判](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E7%A3%8A%E6%8A%97%E8%AE%AE%E8%A3%81%E5%88%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
