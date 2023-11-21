@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 20:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 20:11:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [傅首尔 再也没有人会这样对我了](https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%20%E5%86%8D%E4%B9%9F%E6%B2%A1%E6%9C%89%E4%BA%BA%E4%BC%9A%E8%BF%99%E6%A0%B7%E5%AF%B9%E6%88%91%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭工作室辟谣](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3&t=31&band_rank=7&Refer=top)<br />
 8. [以爱为营点映礼](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E7%82%B9%E6%98%A0%E7%A4%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [李晨去体综了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%A8%E5%8E%BB%E4%BD%93%E7%BB%BC%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [辛芷蕾说最近的事对王安宇很不公平](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%AF%B4%E6%9C%80%E8%BF%91%E7%9A%84%E4%BA%8B%E5%AF%B9%E7%8E%8B%E5%AE%89%E5%AE%87%E5%BE%88%E4%B8%8D%E5%85%AC%E5%B9%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
