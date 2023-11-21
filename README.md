@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 12:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 12:37:01</h4></div>
 
 > 微博  
 
@@ -21,10 +21,10 @@
 2. [缅北累计向中方移交3.1万名电诈嫌犯](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E7%B4%AF%E8%AE%A1%E5%90%91%E4%B8%AD%E6%96%B9%E7%A7%BB%E4%BA%A43.1%E4%B8%87%E5%90%8D%E7%94%B5%E8%AF%88%E5%AB%8C%E7%8A%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [寒潮、暴雪、大风预警三连发](https://www.baidu.com/s?wd=%E5%AF%92%E6%BD%AE%E3%80%81%E6%9A%B4%E9%9B%AA%E3%80%81%E5%A4%A7%E9%A3%8E%E9%A2%84%E8%AD%A6%E4%B8%89%E8%BF%9E%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [做好供暖保障 让群众温暖过冬](https://www.baidu.com/s?wd=%E5%81%9A%E5%A5%BD%E4%BE%9B%E6%9A%96%E4%BF%9D%E9%9A%9C+%E8%AE%A9%E7%BE%A4%E4%BC%97%E6%B8%A9%E6%9A%96%E8%BF%87%E5%86%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [顾客扫码被获取个人信息 商家赔5000](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E6%89%AB%E7%A0%81%E8%A2%AB%E8%8E%B7%E5%8F%96%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF+%E5%95%86%E5%AE%B6%E8%B5%945000&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [儿子写字慢妈妈申请换教材学校同意](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E5%86%99%E5%AD%97%E6%85%A2%E5%A6%88%E5%A6%88%E7%94%B3%E8%AF%B7%E6%8D%A2%E6%95%99%E6%9D%90%E5%AD%A6%E6%A0%A1%E5%90%8C%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [六成求职者呼吁破除第一学历限制](https://www.baidu.com/s?wd=%E5%85%AD%E6%88%90%E6%B1%82%E8%81%8C%E8%80%85%E5%91%BC%E5%90%81%E7%A0%B4%E9%99%A4%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [落马“老虎”曾突击提拔32名女干部](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E2%80%9C%E8%80%81%E8%99%8E%E2%80%9D%E6%9B%BE%E7%AA%81%E5%87%BB%E6%8F%90%E6%8B%9432%E5%90%8D%E5%A5%B3%E5%B9%B2%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [反转再反转 OpenAI“宫斗”时间线](https://www.baidu.com/s?wd=%E5%8F%8D%E8%BD%AC%E5%86%8D%E5%8F%8D%E8%BD%AC+OpenAI%E2%80%9C%E5%AE%AB%E6%96%97%E2%80%9D%E6%97%B6%E9%97%B4%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [六成求职者呼吁破除第一学历限制](https://www.baidu.com/s?wd=%E5%85%AD%E6%88%90%E6%B1%82%E8%81%8C%E8%80%85%E5%91%BC%E5%90%81%E7%A0%B4%E9%99%A4%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [落马“老虎”曾突击提拔32名女干部](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E2%80%9C%E8%80%81%E8%99%8E%E2%80%9D%E6%9B%BE%E7%AA%81%E5%87%BB%E6%8F%90%E6%8B%9432%E5%90%8D%E5%A5%B3%E5%B9%B2%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [哈马斯：与以色列接近达成停火协议](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%EF%BC%9A%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E6%8E%A5%E8%BF%91%E8%BE%BE%E6%88%90%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西辟谣飞鸟盘旋是地震前兆](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E8%BE%9F%E8%B0%A3%E9%A3%9E%E9%B8%9F%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -33,8 +33,8 @@
 2. [缅北累计向中方移交3.1万名电诈嫌犯](https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E7%B4%AF%E8%AE%A1%E5%90%91%E4%B8%AD%E6%96%B9%E7%A7%BB%E4%BA%A43.1%E4%B8%87%E5%90%8D%E7%94%B5%E8%AF%88%E5%AB%8C%E7%8A%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [寒潮、暴雪、大风预警三连发](https://www.baidu.com/s?wd=%E5%AF%92%E6%BD%AE%E3%80%81%E6%9A%B4%E9%9B%AA%E3%80%81%E5%A4%A7%E9%A3%8E%E9%A2%84%E8%AD%A6%E4%B8%89%E8%BF%9E%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [做好供暖保障 让群众温暖过冬](https://www.baidu.com/s?wd=%E5%81%9A%E5%A5%BD%E4%BE%9B%E6%9A%96%E4%BF%9D%E9%9A%9C+%E8%AE%A9%E7%BE%A4%E4%BC%97%E6%B8%A9%E6%9A%96%E8%BF%87%E5%86%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [顾客扫码被获取个人信息 商家赔5000](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E6%89%AB%E7%A0%81%E8%A2%AB%E8%8E%B7%E5%8F%96%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF+%E5%95%86%E5%AE%B6%E8%B5%945000&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [儿子写字慢妈妈申请换教材学校同意](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E5%86%99%E5%AD%97%E6%85%A2%E5%A6%88%E5%A6%88%E7%94%B3%E8%AF%B7%E6%8D%A2%E6%95%99%E6%9D%90%E5%AD%A6%E6%A0%A1%E5%90%8C%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [六成求职者呼吁破除第一学历限制](https://www.baidu.com/s?wd=%E5%85%AD%E6%88%90%E6%B1%82%E8%81%8C%E8%80%85%E5%91%BC%E5%90%81%E7%A0%B4%E9%99%A4%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [落马“老虎”曾突击提拔32名女干部](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E2%80%9C%E8%80%81%E8%99%8E%E2%80%9D%E6%9B%BE%E7%AA%81%E5%87%BB%E6%8F%90%E6%8B%9432%E5%90%8D%E5%A5%B3%E5%B9%B2%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [反转再反转 OpenAI“宫斗”时间线](https://www.baidu.com/s?wd=%E5%8F%8D%E8%BD%AC%E5%86%8D%E5%8F%8D%E8%BD%AC+OpenAI%E2%80%9C%E5%AE%AB%E6%96%97%E2%80%9D%E6%97%B6%E9%97%B4%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [六成求职者呼吁破除第一学历限制](https://www.baidu.com/s?wd=%E5%85%AD%E6%88%90%E6%B1%82%E8%81%8C%E8%80%85%E5%91%BC%E5%90%81%E7%A0%B4%E9%99%A4%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [落马“老虎”曾突击提拔32名女干部](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E2%80%9C%E8%80%81%E8%99%8E%E2%80%9D%E6%9B%BE%E7%AA%81%E5%87%BB%E6%8F%90%E6%8B%9432%E5%90%8D%E5%A5%B3%E5%B9%B2%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [哈马斯：与以色列接近达成停火协议](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%EF%BC%9A%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E6%8E%A5%E8%BF%91%E8%BE%BE%E6%88%90%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西辟谣飞鸟盘旋是地震前兆](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E8%BE%9F%E8%B0%A3%E9%A3%9E%E9%B8%9F%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86&sa=fyb_news&rsv_dl=fyb_news)<br />
