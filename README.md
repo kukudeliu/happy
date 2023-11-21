@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 11:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 11:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [阿根廷新总统称35年后再成世界强国](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%96%B0%E6%80%BB%E7%BB%9F%E7%A7%B035%E5%B9%B4%E5%90%8E%E5%86%8D%E6%88%90%E4%B8%96%E7%95%8C%E5%BC%BA%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [海底捞 科目三](https://s.weibo.com/weibo?q=%E6%B5%B7%E5%BA%95%E6%8D%9E%20%E7%A7%91%E7%9B%AE%E4%B8%89&t=31&band_rank=7&Refer=top)<br />
 8. [张桂梅说一直支撑自己的是信仰](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%AF%B4%E4%B8%80%E7%9B%B4%E6%94%AF%E6%92%91%E8%87%AA%E5%B7%B1%E7%9A%84%E6%98%AF%E4%BF%A1%E4%BB%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [喝酒脸红的人或易患癌](https://s.weibo.com/weibo?q=%23%E5%96%9D%E9%85%92%E8%84%B8%E7%BA%A2%E7%9A%84%E4%BA%BA%E6%88%96%E6%98%93%E6%82%A3%E7%99%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [CPA 等成绩](https://s.weibo.com/weibo?q=CPA%20%E7%AD%89%E6%88%90%E7%BB%A9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
