@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 23:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 23:23:01</h4></div>
 
 > 微博  
 
@@ -10,14 +10,14 @@
 6. [朝鲜向日通报计划第三次试射卫星](https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E5%90%91%E6%97%A5%E9%80%9A%E6%8A%A5%E8%AE%A1%E5%88%92%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%AF%95%E5%B0%84%E5%8D%AB%E6%98%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [斗鱼CEO被逮捕](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BCCEO%E8%A2%AB%E9%80%AE%E6%8D%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [吴世勋视频通话](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%B8%96%E5%8B%8B%E8%A7%86%E9%A2%91%E9%80%9A%E8%AF%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [国足尽力了](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E5%B0%BD%E5%8A%9B%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [5岁男孩发现5亿年前古生物化石](https://s.weibo.com/weibo?q=%235%E5%B2%81%E7%94%B7%E5%AD%A9%E5%8F%91%E7%8E%B05%E4%BA%BF%E5%B9%B4%E5%89%8D%E5%8F%A4%E7%94%9F%E7%89%A9%E5%8C%96%E7%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 
 > 百度  
 
-1. [中美关系基础在民间](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E5%9F%BA%E7%A1%80%E5%9C%A8%E6%B0%91%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [推动停火止战 实现持久和平安全](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E5%81%9C%E7%81%AB%E6%AD%A2%E6%88%98+%E5%AE%9E%E7%8E%B0%E6%8C%81%E4%B9%85%E5%92%8C%E5%B9%B3%E5%AE%89%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [世预赛国足0-3不敌韩国](https://www.baidu.com/s?wd=%E4%B8%96%E9%A2%84%E8%B5%9B%E5%9B%BD%E8%B6%B30-3%E4%B8%8D%E6%95%8C%E9%9F%A9%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [医院儿科人满为患 家长自备椅子输液](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%84%BF%E7%A7%91%E4%BA%BA%E6%BB%A1%E4%B8%BA%E6%82%A3+%E5%AE%B6%E9%95%BF%E8%87%AA%E5%A4%87%E6%A4%85%E5%AD%90%E8%BE%93%E6%B6%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [运-20起飞 接英雄回家](https://www.baidu.com/s?wd=%E8%BF%90-20%E8%B5%B7%E9%A3%9E+%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [中美关系基础在民间](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E5%9F%BA%E7%A1%80%E5%9C%A8%E6%B0%91%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [推动停火止战 实现持久和平安全](https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E5%81%9C%E7%81%AB%E6%AD%A2%E6%88%98+%E5%AE%9E%E7%8E%B0%E6%8C%81%E4%B9%85%E5%92%8C%E5%B9%B3%E5%AE%89%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [世预赛国足0-3不敌韩国](https://www.baidu.com/s?wd=%E4%B8%96%E9%A2%84%E8%B5%9B%E5%9B%BD%E8%B6%B30-3%E4%B8%8D%E6%95%8C%E9%9F%A9%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [医院儿科人满为患 家长自备椅子输液](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%84%BF%E7%A7%91%E4%BA%BA%E6%BB%A1%E4%B8%BA%E6%82%A3+%E5%AE%B6%E9%95%BF%E8%87%AA%E5%A4%87%E6%A4%85%E5%AD%90%E8%BE%93%E6%B6%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [运-20起飞 接英雄回家](https://www.baidu.com/s?wd=%E8%BF%90-20%E8%B5%B7%E9%A3%9E+%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
