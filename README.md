@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 20:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 20:32:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [“广西老表”火了 已开始排号限购](https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%BF%E8%A5%BF%E8%80%81%E8%A1%A8%E2%80%9D%E7%81%AB%E4%BA%86+%E5%B7%B2%E5%BC%80%E5%A7%8B%E6%8E%92%E5%8F%B7%E9%99%90%E8%B4%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [油价四连降 加满一箱将少花13.5元](https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E5%9B%9B%E8%BF%9E%E9%99%8D+%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E5%B0%86%E5%B0%91%E8%8A%B113.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山东蓝翔技师学院成被执行人](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E8%93%9D%E7%BF%94%E6%8A%80%E5%B8%88%E5%AD%A6%E9%99%A2%E6%88%90%E8%A2%AB%E6%89%A7%E8%A1%8C%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [iPhone“信号病”难治](https://www.baidu.com/s?wd=iPhone%E2%80%9C%E4%BF%A1%E5%8F%B7%E7%97%85%E2%80%9D%E9%9A%BE%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [顾客扫码被获取个人信息 商家赔5000](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E6%89%AB%E7%A0%81%E8%A2%AB%E8%8E%B7%E5%8F%96%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF+%E5%95%86%E5%AE%B6%E8%B5%945000&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西警方辟谣娱乐城碎尸案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A8%B1%E4%B9%90%E5%9F%8E%E7%A2%8E%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [“广西老表”火了 已开始排号限购](https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%BF%E8%A5%BF%E8%80%81%E8%A1%A8%E2%80%9D%E7%81%AB%E4%BA%86+%E5%B7%B2%E5%BC%80%E5%A7%8B%E6%8E%92%E5%8F%B7%E9%99%90%E8%B4%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [油价四连降 加满一箱将少花13.5元](https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E5%9B%9B%E8%BF%9E%E9%99%8D+%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E5%B0%86%E5%B0%91%E8%8A%B113.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山东蓝翔技师学院成被执行人](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E8%93%9D%E7%BF%94%E6%8A%80%E5%B8%88%E5%AD%A6%E9%99%A2%E6%88%90%E8%A2%AB%E6%89%A7%E8%A1%8C%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [iPhone“信号病”难治](https://www.baidu.com/s?wd=iPhone%E2%80%9C%E4%BF%A1%E5%8F%B7%E7%97%85%E2%80%9D%E9%9A%BE%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [顾客扫码被获取个人信息 商家赔5000](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E6%89%AB%E7%A0%81%E8%A2%AB%E8%8E%B7%E5%8F%96%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF+%E5%95%86%E5%AE%B6%E8%B5%945000&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西警方辟谣娱乐城碎尸案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A8%B1%E4%B9%90%E5%9F%8E%E7%A2%8E%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
