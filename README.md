@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 04:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 04:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [国足主帅：我们缠斗了90分钟](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%B8%85%EF%BC%9A%E6%88%91%E4%BB%AC%E7%BC%A0%E6%96%97%E4%BA%8690%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [深圳一女子买菜遇到“辣椒刺客”](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%8F%9C%E9%81%87%E5%88%B0%E2%80%9C%E8%BE%A3%E6%A4%92%E5%88%BA%E5%AE%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“广西老表”火了 已开始排号限购](https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%BF%E8%A5%BF%E8%80%81%E8%A1%A8%E2%80%9D%E7%81%AB%E4%BA%86+%E5%B7%B2%E5%BC%80%E5%A7%8B%E6%8E%92%E5%8F%B7%E9%99%90%E8%B4%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [于文亮妈妈发声](https://www.baidu.com/s?wd=%E4%BA%8E%E6%96%87%E4%BA%AE%E5%A6%88%E5%A6%88%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [阿根廷将停止与中国合作？中方回应](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%B0%86%E5%81%9C%E6%AD%A2%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%90%88%E4%BD%9C%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东移动下架4G套餐消息不实](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8%E4%B8%8B%E6%9E%B64G%E5%A5%97%E9%A4%90%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [国足主帅：我们缠斗了90分钟](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%B8%85%EF%BC%9A%E6%88%91%E4%BB%AC%E7%BC%A0%E6%96%97%E4%BA%8690%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [深圳一女子买菜遇到“辣椒刺客”](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%8F%9C%E9%81%87%E5%88%B0%E2%80%9C%E8%BE%A3%E6%A4%92%E5%88%BA%E5%AE%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“广西老表”火了 已开始排号限购](https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%BF%E8%A5%BF%E8%80%81%E8%A1%A8%E2%80%9D%E7%81%AB%E4%BA%86+%E5%B7%B2%E5%BC%80%E5%A7%8B%E6%8E%92%E5%8F%B7%E9%99%90%E8%B4%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [于文亮妈妈发声](https://www.baidu.com/s?wd=%E4%BA%8E%E6%96%87%E4%BA%AE%E5%A6%88%E5%A6%88%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [阿根廷将停止与中国合作？中方回应](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%B0%86%E5%81%9C%E6%AD%A2%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%90%88%E4%BD%9C%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东移动下架4G套餐消息不实](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8%E4%B8%8B%E6%9E%B64G%E5%A5%97%E9%A4%90%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
