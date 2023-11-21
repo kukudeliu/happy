@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 17:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 17:55:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [白敬亭工作室辟谣](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3&t=31&band_rank=5&Refer=top)<br />
 6. [麻省理工一中国博士生突然身亡](https://s.weibo.com/weibo?q=%23%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%8D%9A%E5%A3%AB%E7%94%9F%E7%AA%81%E7%84%B6%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [襄阳健桥医院违规开出生证被罚款10万](https://s.weibo.com/weibo?q=%23%E8%A5%84%E9%98%B3%E5%81%A5%E6%A1%A5%E5%8C%BB%E9%99%A2%E8%BF%9D%E8%A7%84%E5%BC%80%E5%87%BA%E7%94%9F%E8%AF%81%E8%A2%AB%E7%BD%9A%E6%AC%BE10%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [CPA出分了](https://s.weibo.com/weibo?q=CPA%E5%87%BA%E5%88%86%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [韩媒说中国队防不住孙兴慜](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E8%AF%B4%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%98%B2%E4%B8%8D%E4%BD%8F%E5%AD%99%E5%85%B4%E6%85%9C%23&t=31&band_rank=9&Refer=top)<br />
+8. [男子买3千斤滞销白菜让人免费取](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B03%E5%8D%83%E6%96%A4%E6%BB%9E%E9%94%80%E7%99%BD%E8%8F%9C%E8%AE%A9%E4%BA%BA%E5%85%8D%E8%B4%B9%E5%8F%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [CPA出分了](https://s.weibo.com/weibo?q=CPA%E5%87%BA%E5%88%86%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
