@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 19:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 19:07:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [国足首发：武磊VS孙兴慜](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E9%A6%96%E5%8F%91%EF%BC%9A%E6%AD%A6%E7%A3%8AVS%E5%AD%99%E5%85%B4%E6%85%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [深圳一女子买菜遇到“辣椒刺客”](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%8F%9C%E9%81%87%E5%88%B0%E2%80%9C%E8%BE%A3%E6%A4%92%E5%88%BA%E5%AE%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [阿黛尔承认与经纪人结婚](https://www.baidu.com/s?wd=%E9%98%BF%E9%BB%9B%E5%B0%94%E6%89%BF%E8%AE%A4%E4%B8%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [奔驰车上两女子骂路政工人叫花子](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E8%BD%A6%E4%B8%8A%E4%B8%A4%E5%A5%B3%E5%AD%90%E9%AA%82%E8%B7%AF%E6%94%BF%E5%B7%A5%E4%BA%BA%E5%8F%AB%E8%8A%B1%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [阿根廷将停止与中国合作？中方回应](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%B0%86%E5%81%9C%E6%AD%A2%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%90%88%E4%BD%9C%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西警方辟谣娱乐城碎尸案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A8%B1%E4%B9%90%E5%9F%8E%E7%A2%8E%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [国足首发：武磊VS孙兴慜](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E9%A6%96%E5%8F%91%EF%BC%9A%E6%AD%A6%E7%A3%8AVS%E5%AD%99%E5%85%B4%E6%85%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [深圳一女子买菜遇到“辣椒刺客”](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%8F%9C%E9%81%87%E5%88%B0%E2%80%9C%E8%BE%A3%E6%A4%92%E5%88%BA%E5%AE%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [阿黛尔承认与经纪人结婚](https://www.baidu.com/s?wd=%E9%98%BF%E9%BB%9B%E5%B0%94%E6%89%BF%E8%AE%A4%E4%B8%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [奔驰车上两女子骂路政工人叫花子](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E8%BD%A6%E4%B8%8A%E4%B8%A4%E5%A5%B3%E5%AD%90%E9%AA%82%E8%B7%AF%E6%94%BF%E5%B7%A5%E4%BA%BA%E5%8F%AB%E8%8A%B1%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [阿根廷将停止与中国合作？中方回应](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%B0%86%E5%81%9C%E6%AD%A2%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%90%88%E4%BD%9C%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西警方辟谣娱乐城碎尸案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A8%B1%E4%B9%90%E5%9F%8E%E7%A2%8E%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
