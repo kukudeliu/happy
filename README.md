@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 11:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 11:27:01</h4></div>
 
 > 微博  
 
 1. [儿子写字慢妈妈申请换教材学校同意了](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E5%86%99%E5%AD%97%E6%85%A2%E5%A6%88%E5%A6%88%E7%94%B3%E8%AF%B7%E6%8D%A2%E6%95%99%E6%9D%90%E5%AD%A6%E6%A0%A1%E5%90%8C%E6%84%8F%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
 2. [40岁的霍启山](https://s.weibo.com/weibo?q=40%E5%B2%81%E7%9A%84%E9%9C%8D%E5%90%AF%E5%B1%B1&t=31&band_rank=2&Refer=top)<br />
 3. [运20将再赴韩国接运烈士遗骸回国](https://s.weibo.com/weibo?q=%23%E8%BF%9020%E5%B0%86%E5%86%8D%E8%B5%B4%E9%9F%A9%E5%9B%BD%E6%8E%A5%E8%BF%90%E7%83%88%E5%A3%AB%E9%81%97%E9%AA%B8%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
-4. [你们怎么说服刘诗诗干这事儿的](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BB%AC%E6%80%8E%E4%B9%88%E8%AF%B4%E6%9C%8D%E5%88%98%E8%AF%97%E8%AF%97%E5%B9%B2%E8%BF%99%E4%BA%8B%E5%84%BF%E7%9A%84&t=31&band_rank=4&Refer=top)<br />
-5. [曾志伟回应拍片为缅北电诈头目庆生](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%BF%97%E4%BC%9F%E5%9B%9E%E5%BA%94%E6%8B%8D%E7%89%87%E4%B8%BA%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E5%BA%86%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
+4. [曾志伟回应拍片为缅北电诈头目庆生](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%BF%97%E4%BC%9F%E5%9B%9E%E5%BA%94%E6%8B%8D%E7%89%87%E4%B8%BA%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E5%BA%86%E7%94%9F%23&t=31&band_rank=4&Refer=top)<br />
+5. [你们怎么说服刘诗诗干这事儿的](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BB%AC%E6%80%8E%E4%B9%88%E8%AF%B4%E6%9C%8D%E5%88%98%E8%AF%97%E8%AF%97%E5%B9%B2%E8%BF%99%E4%BA%8B%E5%84%BF%E7%9A%84&t=31&band_rank=5&Refer=top)<br />
 6. [睡够8小时不如睡得有规律](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%A4%9F8%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%A6%82%E7%9D%A1%E5%BE%97%E6%9C%89%E8%A7%84%E5%BE%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘亦菲于适星愿大片](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%BA%8E%E9%80%82%E6%98%9F%E6%84%BF%E5%A4%A7%E7%89%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [阿根廷新总统称35年后再成世界强国](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%96%B0%E6%80%BB%E7%BB%9F%E7%A7%B035%E5%B9%B4%E5%90%8E%E5%86%8D%E6%88%90%E4%B8%96%E7%95%8C%E5%BC%BA%E5%9B%BD%23&t=31&band_rank=8&Refer=top)<br />
