@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 20:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 20:30:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [辛芷蕾说最近的事对王安宇很不公平](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%AF%B4%E6%9C%80%E8%BF%91%E7%9A%84%E4%BA%8B%E5%AF%B9%E7%8E%8B%E5%AE%89%E5%AE%87%E5%BE%88%E4%B8%8D%E5%85%AC%E5%B9%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [考研选择题 我生性多疑](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E9%80%89%E6%8B%A9%E9%A2%98%20%E6%88%91%E7%94%9F%E6%80%A7%E5%A4%9A%E7%96%91&t=31&band_rank=7&Refer=top)<br />
 8. [以爱为营点映礼](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E7%82%B9%E6%98%A0%E7%A4%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [韦世豪4号](https://s.weibo.com/weibo?q=%E9%9F%A6%E4%B8%96%E8%B1%AA4%E5%8F%B7&t=31&band_rank=9&Refer=top)<br />
+9. [赵露思珠帘玉幕发型](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95%E5%8F%91%E5%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
