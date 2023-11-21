@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 17:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 17:51:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [孙怡 为什么都在劝老刘放手](https://s.weibo.com/weibo?q=%E5%AD%99%E6%80%A1%20%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E5%9C%A8%E5%8A%9D%E8%80%81%E5%88%98%E6%94%BE%E6%89%8B&t=31&band_rank=4&Refer=top)<br />
 5. [白敬亭工作室辟谣](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3&t=31&band_rank=5&Refer=top)<br />
 6. [麻省理工一中国博士生突然身亡](https://s.weibo.com/weibo?q=%23%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%8D%9A%E5%A3%AB%E7%94%9F%E7%AA%81%E7%84%B6%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
-7. [CPA出分了](https://s.weibo.com/weibo?q=CPA%E5%87%BA%E5%88%86%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [襄阳健桥医院违规开出生证被罚款10万](https://s.weibo.com/weibo?q=%23%E8%A5%84%E9%98%B3%E5%81%A5%E6%A1%A5%E5%8C%BB%E9%99%A2%E8%BF%9D%E8%A7%84%E5%BC%80%E5%87%BA%E7%94%9F%E8%AF%81%E8%A2%AB%E7%BD%9A%E6%AC%BE10%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
+7. [襄阳健桥医院违规开出生证被罚款10万](https://s.weibo.com/weibo?q=%23%E8%A5%84%E9%98%B3%E5%81%A5%E6%A1%A5%E5%8C%BB%E9%99%A2%E8%BF%9D%E8%A7%84%E5%BC%80%E5%87%BA%E7%94%9F%E8%AF%81%E8%A2%AB%E7%BD%9A%E6%AC%BE10%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
+8. [CPA出分了](https://s.weibo.com/weibo?q=CPA%E5%87%BA%E5%88%86%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [韩媒说中国队防不住孙兴慜](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E8%AF%B4%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%98%B2%E4%B8%8D%E4%BD%8F%E5%AD%99%E5%85%B4%E6%85%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
