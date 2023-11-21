@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 10:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 10:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [阿根廷新总统称35年后再成世界强国](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%96%B0%E6%80%BB%E7%BB%9F%E7%A7%B035%E5%B9%B4%E5%90%8E%E5%86%8D%E6%88%90%E4%B8%96%E7%95%8C%E5%BC%BA%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [大熊猫再次强调不要拿拍蒜的刀切苹果](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%86%8D%E6%AC%A1%E5%BC%BA%E8%B0%83%E4%B8%8D%E8%A6%81%E6%8B%BF%E6%8B%8D%E8%92%9C%E7%9A%84%E5%88%80%E5%88%87%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [CPA 等成绩](https://s.weibo.com/weibo?q=CPA%20%E7%AD%89%E6%88%90%E7%BB%A9&t=31&band_rank=8&Refer=top)<br />
-9. [小时候流行的屁股针为什么消失了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%97%B6%E5%80%99%E6%B5%81%E8%A1%8C%E7%9A%84%E5%B1%81%E8%82%A1%E9%92%88%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B6%88%E5%A4%B1%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [海底捞 科目三](https://s.weibo.com/weibo?q=%E6%B5%B7%E5%BA%95%E6%8D%9E%20%E7%A7%91%E7%9B%AE%E4%B8%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
