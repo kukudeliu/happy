@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 21:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 21:47:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [裁判](https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4&t=31&band_rank=5&Refer=top)<br />
 6. [高嘌呤食物排行榜](https://s.weibo.com/weibo?q=%E9%AB%98%E5%98%8C%E5%91%A4%E9%A3%9F%E7%89%A9%E6%8E%92%E8%A1%8C%E6%A6%9C&t=31&band_rank=6&Refer=top)<br />
 7. [郭晶晶霍启刚一家五口看音乐会](https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%99%B6%E6%99%B6%E9%9C%8D%E5%90%AF%E5%88%9A%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E7%9C%8B%E9%9F%B3%E4%B9%90%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [孙兴慜首次攻破国足大门](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%85%B4%E6%85%9C%E9%A6%96%E6%AC%A1%E6%94%BB%E7%A0%B4%E5%9B%BD%E8%B6%B3%E5%A4%A7%E9%97%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [DYG 对得起谁](https://s.weibo.com/weibo?q=DYG%20%E5%AF%B9%E5%BE%97%E8%B5%B7%E8%B0%81&t=31&band_rank=9&Refer=top)<br />
+8. [DYG 对得起谁](https://s.weibo.com/weibo?q=DYG%20%E5%AF%B9%E5%BE%97%E8%B5%B7%E8%B0%81&t=31&band_rank=8&Refer=top)<br />
+9. [孙兴慜首次攻破国足大门](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%85%B4%E6%85%9C%E9%A6%96%E6%AC%A1%E6%94%BB%E7%A0%B4%E5%9B%BD%E8%B6%B3%E5%A4%A7%E9%97%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
