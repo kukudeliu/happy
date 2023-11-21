@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 18:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 18:59:01</h4></div>
 
 > 微博  
 
@@ -21,9 +21,9 @@
 2. [超大特大城市名单上新](https://www.baidu.com/s?wd=%E8%B6%85%E5%A4%A7%E7%89%B9%E5%A4%A7%E5%9F%8E%E5%B8%82%E5%90%8D%E5%8D%95%E4%B8%8A%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [明星送祝福已明码标价形成产业链](https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E9%80%81%E7%A5%9D%E7%A6%8F%E5%B7%B2%E6%98%8E%E7%A0%81%E6%A0%87%E4%BB%B7%E5%BD%A2%E6%88%90%E4%BA%A7%E4%B8%9A%E9%93%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一个快递纸箱的绿色减碳之旅](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E5%BF%AB%E9%80%92%E7%BA%B8%E7%AE%B1%E7%9A%84%E7%BB%BF%E8%89%B2%E5%87%8F%E7%A2%B3%E4%B9%8B%E6%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [傅首尔两万多张照片被老刘格式化了](https://www.baidu.com/s?wd=%E5%82%85%E9%A6%96%E5%B0%94%E4%B8%A4%E4%B8%87%E5%A4%9A%E5%BC%A0%E7%85%A7%E7%89%87%E8%A2%AB%E8%80%81%E5%88%98%E6%A0%BC%E5%BC%8F%E5%8C%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [阿黛尔承认与经纪人结婚](https://www.baidu.com/s?wd=%E9%98%BF%E9%BB%9B%E5%B0%94%E6%89%BF%E8%AE%A4%E4%B8%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [深圳一女子买菜遇到“辣椒刺客”](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%8F%9C%E9%81%87%E5%88%B0%E2%80%9C%E8%BE%A3%E6%A4%92%E5%88%BA%E5%AE%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [国足首发：武磊VS孙兴慜](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E9%A6%96%E5%8F%91%EF%BC%9A%E6%AD%A6%E7%A3%8AVS%E5%AD%99%E5%85%B4%E6%85%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [深圳一女子买菜遇到“辣椒刺客”](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%8F%9C%E9%81%87%E5%88%B0%E2%80%9C%E8%BE%A3%E6%A4%92%E5%88%BA%E5%AE%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [阿黛尔承认与经纪人结婚](https://www.baidu.com/s?wd=%E9%98%BF%E9%BB%9B%E5%B0%94%E6%89%BF%E8%AE%A4%E4%B8%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [奔驰车上两女子骂路政工人叫花子](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E8%BD%A6%E4%B8%8A%E4%B8%A4%E5%A5%B3%E5%AD%90%E9%AA%82%E8%B7%AF%E6%94%BF%E5%B7%A5%E4%BA%BA%E5%8F%AB%E8%8A%B1%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西警方辟谣娱乐城碎尸案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A8%B1%E4%B9%90%E5%9F%8E%E7%A2%8E%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -33,8 +33,8 @@
 2. [超大特大城市名单上新](https://www.baidu.com/s?wd=%E8%B6%85%E5%A4%A7%E7%89%B9%E5%A4%A7%E5%9F%8E%E5%B8%82%E5%90%8D%E5%8D%95%E4%B8%8A%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [明星送祝福已明码标价形成产业链](https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E9%80%81%E7%A5%9D%E7%A6%8F%E5%B7%B2%E6%98%8E%E7%A0%81%E6%A0%87%E4%BB%B7%E5%BD%A2%E6%88%90%E4%BA%A7%E4%B8%9A%E9%93%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一个快递纸箱的绿色减碳之旅](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E5%BF%AB%E9%80%92%E7%BA%B8%E7%AE%B1%E7%9A%84%E7%BB%BF%E8%89%B2%E5%87%8F%E7%A2%B3%E4%B9%8B%E6%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [傅首尔两万多张照片被老刘格式化了](https://www.baidu.com/s?wd=%E5%82%85%E9%A6%96%E5%B0%94%E4%B8%A4%E4%B8%87%E5%A4%9A%E5%BC%A0%E7%85%A7%E7%89%87%E8%A2%AB%E8%80%81%E5%88%98%E6%A0%BC%E5%BC%8F%E5%8C%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [阿黛尔承认与经纪人结婚](https://www.baidu.com/s?wd=%E9%98%BF%E9%BB%9B%E5%B0%94%E6%89%BF%E8%AE%A4%E4%B8%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [深圳一女子买菜遇到“辣椒刺客”](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%8F%9C%E9%81%87%E5%88%B0%E2%80%9C%E8%BE%A3%E6%A4%92%E5%88%BA%E5%AE%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [国足首发：武磊VS孙兴慜](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E9%A6%96%E5%8F%91%EF%BC%9A%E6%AD%A6%E7%A3%8AVS%E5%AD%99%E5%85%B4%E6%85%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [深圳一女子买菜遇到“辣椒刺客”](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%8F%9C%E9%81%87%E5%88%B0%E2%80%9C%E8%BE%A3%E6%A4%92%E5%88%BA%E5%AE%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [阿黛尔承认与经纪人结婚](https://www.baidu.com/s?wd=%E9%98%BF%E9%BB%9B%E5%B0%94%E6%89%BF%E8%AE%A4%E4%B8%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [奔驰车上两女子骂路政工人叫花子](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E8%BD%A6%E4%B8%8A%E4%B8%A4%E5%A5%B3%E5%AD%90%E9%AA%82%E8%B7%AF%E6%94%BF%E5%B7%A5%E4%BA%BA%E5%8F%AB%E8%8A%B1%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西警方辟谣娱乐城碎尸案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A8%B1%E4%B9%90%E5%9F%8E%E7%A2%8E%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
