@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 01:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 01:43:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [民警怒吼十几万不是从天上掉下来的](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E6%80%92%E5%90%BC%E5%8D%81%E5%87%A0%E4%B8%87%E4%B8%8D%E6%98%AF%E4%BB%8E%E5%A4%A9%E4%B8%8A%E6%8E%89%E4%B8%8B%E6%9D%A5%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
 6. [高嘌呤食物排行榜](https://s.weibo.com/weibo?q=%E9%AB%98%E5%98%8C%E5%91%A4%E9%A3%9F%E7%89%A9%E6%8E%92%E8%A1%8C%E6%A6%9C&t=31&band_rank=6&Refer=top)<br />
 7. [国足0比3不敌韩国](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B30%E6%AF%943%E4%B8%8D%E6%95%8C%E9%9F%A9%E5%9B%BD&t=31&band_rank=7&Refer=top)<br />
-8. [傅首尔 再也没有人会这样对我了](https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%20%E5%86%8D%E4%B9%9F%E6%B2%A1%E6%9C%89%E4%BA%BA%E4%BC%9A%E8%BF%99%E6%A0%B7%E5%AF%B9%E6%88%91%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [BABYMONSTER计划尽快办演唱会](https://s.weibo.com/weibo?q=%23BABYMONSTER%E8%AE%A1%E5%88%92%E5%B0%BD%E5%BF%AB%E5%8A%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
+8. [BABYMONSTER计划尽快办演唱会](https://s.weibo.com/weibo?q=%23BABYMONSTER%E8%AE%A1%E5%88%92%E5%B0%BD%E5%BF%AB%E5%8A%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [傅首尔 再也没有人会这样对我了](https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%20%E5%86%8D%E4%B9%9F%E6%B2%A1%E6%9C%89%E4%BA%BA%E4%BC%9A%E8%BF%99%E6%A0%B7%E5%AF%B9%E6%88%91%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
