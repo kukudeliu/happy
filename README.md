@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 13:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 13:11:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [做好供暖保障 让群众温暖过冬](https://www.baidu.com/s?wd=%E5%81%9A%E5%A5%BD%E4%BE%9B%E6%9A%96%E4%BF%9D%E9%9A%9C+%E8%AE%A9%E7%BE%A4%E4%BC%97%E6%B8%A9%E6%9A%96%E8%BF%87%E5%86%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [六成求职者呼吁破除第一学历限制](https://www.baidu.com/s?wd=%E5%85%AD%E6%88%90%E6%B1%82%E8%81%8C%E8%80%85%E5%91%BC%E5%90%81%E7%A0%B4%E9%99%A4%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [巡视组刚走 李文祖就被拿下了](https://www.baidu.com/s?wd=%E5%B7%A1%E8%A7%86%E7%BB%84%E5%88%9A%E8%B5%B0+%E6%9D%8E%E6%96%87%E7%A5%96%E5%B0%B1%E8%A2%AB%E6%8B%BF%E4%B8%8B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大小S感谢司法还她们清白](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E6%84%9F%E8%B0%A2%E5%8F%B8%E6%B3%95%E8%BF%98%E5%A5%B9%E4%BB%AC%E6%B8%85%E7%99%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哈马斯：与以色列接近达成停火协议](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%EF%BC%9A%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E6%8E%A5%E8%BF%91%E8%BE%BE%E6%88%90%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美国麻省理工一名中国博士生身亡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大小S感谢司法还她们清白](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E6%84%9F%E8%B0%A2%E5%8F%B8%E6%B3%95%E8%BF%98%E5%A5%B9%E4%BB%AC%E6%B8%85%E7%99%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西辟谣飞鸟盘旋是地震前兆](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E8%BE%9F%E8%B0%A3%E9%A3%9E%E9%B8%9F%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [做好供暖保障 让群众温暖过冬](https://www.baidu.com/s?wd=%E5%81%9A%E5%A5%BD%E4%BE%9B%E6%9A%96%E4%BF%9D%E9%9A%9C+%E8%AE%A9%E7%BE%A4%E4%BC%97%E6%B8%A9%E6%9A%96%E8%BF%87%E5%86%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [六成求职者呼吁破除第一学历限制](https://www.baidu.com/s?wd=%E5%85%AD%E6%88%90%E6%B1%82%E8%81%8C%E8%80%85%E5%91%BC%E5%90%81%E7%A0%B4%E9%99%A4%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [巡视组刚走 李文祖就被拿下了](https://www.baidu.com/s?wd=%E5%B7%A1%E8%A7%86%E7%BB%84%E5%88%9A%E8%B5%B0+%E6%9D%8E%E6%96%87%E7%A5%96%E5%B0%B1%E8%A2%AB%E6%8B%BF%E4%B8%8B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大小S感谢司法还她们清白](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E6%84%9F%E8%B0%A2%E5%8F%B8%E6%B3%95%E8%BF%98%E5%A5%B9%E4%BB%AC%E6%B8%85%E7%99%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哈马斯：与以色列接近达成停火协议](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%EF%BC%9A%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E6%8E%A5%E8%BF%91%E8%BE%BE%E6%88%90%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美国麻省理工一名中国博士生身亡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大小S感谢司法还她们清白](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B0%8FS%E6%84%9F%E8%B0%A2%E5%8F%B8%E6%B3%95%E8%BF%98%E5%A5%B9%E4%BB%AC%E6%B8%85%E7%99%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西辟谣飞鸟盘旋是地震前兆](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E8%BE%9F%E8%B0%A3%E9%A3%9E%E9%B8%9F%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86&sa=fyb_news&rsv_dl=fyb_news)<br />
