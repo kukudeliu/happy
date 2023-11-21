@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 16:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 16:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孙怡 为什么都在劝老刘放手](https://s.weibo.com/weibo?q=%E5%AD%99%E6%80%A1%20%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E5%9C%A8%E5%8A%9D%E8%80%81%E5%88%98%E6%94%BE%E6%89%8B&t=31&band_rank=6&Refer=top)<br />
 7. [韩媒说中国队防不住孙兴慜](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E8%AF%B4%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%98%B2%E4%B8%8D%E4%BD%8F%E5%AD%99%E5%85%B4%E6%85%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [王鹤棣深夜送王彦霖夫妻去医院](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%B7%B1%E5%A4%9C%E9%80%81%E7%8E%8B%E5%BD%A6%E9%9C%96%E5%A4%AB%E5%A6%BB%E5%8E%BB%E5%8C%BB%E9%99%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [天玑8300](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8E%918300%23&t=31&band_rank=9&Refer=top)<br />
+9. [难哄就别哄了](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%E5%B0%B1%E5%88%AB%E5%93%84%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
