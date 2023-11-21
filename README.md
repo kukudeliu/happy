@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 15:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-21 15:44:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [做好供暖保障 让群众温暖过冬](https://www.baidu.com/s?wd=%E5%81%9A%E5%A5%BD%E4%BE%9B%E6%9A%96%E4%BF%9D%E9%9A%9C+%E8%AE%A9%E7%BE%A4%E4%BC%97%E6%B8%A9%E6%9A%96%E8%BF%87%E5%86%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [六成求职者呼吁破除第一学历限制](https://www.baidu.com/s?wd=%E5%85%AD%E6%88%90%E6%B1%82%E8%81%8C%E8%80%85%E5%91%BC%E5%90%81%E7%A0%B4%E9%99%A4%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [香港535名拒宣誓政府雇员已离职](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF535%E5%90%8D%E6%8B%92%E5%AE%A3%E8%AA%93%E6%94%BF%E5%BA%9C%E9%9B%87%E5%91%98%E5%B7%B2%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [南半球夏季或将面临极端高温天气](https://www.baidu.com/s?wd=%E5%8D%97%E5%8D%8A%E7%90%83%E5%A4%8F%E5%AD%A3%E6%88%96%E5%B0%86%E9%9D%A2%E4%B8%B4%E6%9E%81%E7%AB%AF%E9%AB%98%E6%B8%A9%E5%A4%A9%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高三女生被当街捅伤 行凶者也是学生](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%BD%93%E8%A1%97%E6%8D%85%E4%BC%A4+%E8%A1%8C%E5%87%B6%E8%80%85%E4%B9%9F%E6%98%AF%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高三女生被当街捅伤 行凶者也是学生](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%BD%93%E8%A1%97%E6%8D%85%E4%BC%A4+%E8%A1%8C%E5%87%B6%E8%80%85%E4%B9%9F%E6%98%AF%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [央媒：该管管所谓明星祝福视频了](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E8%AF%A5%E7%AE%A1%E7%AE%A1%E6%89%80%E8%B0%93%E6%98%8E%E6%98%9F%E7%A5%9D%E7%A6%8F%E8%A7%86%E9%A2%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西辟谣飞鸟盘旋是地震前兆](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E8%BE%9F%E8%B0%A3%E9%A3%9E%E9%B8%9F%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [做好供暖保障 让群众温暖过冬](https://www.baidu.com/s?wd=%E5%81%9A%E5%A5%BD%E4%BE%9B%E6%9A%96%E4%BF%9D%E9%9A%9C+%E8%AE%A9%E7%BE%A4%E4%BC%97%E6%B8%A9%E6%9A%96%E8%BF%87%E5%86%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [六成求职者呼吁破除第一学历限制](https://www.baidu.com/s?wd=%E5%85%AD%E6%88%90%E6%B1%82%E8%81%8C%E8%80%85%E5%91%BC%E5%90%81%E7%A0%B4%E9%99%A4%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [香港535名拒宣誓政府雇员已离职](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF535%E5%90%8D%E6%8B%92%E5%AE%A3%E8%AA%93%E6%94%BF%E5%BA%9C%E9%9B%87%E5%91%98%E5%B7%B2%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [南半球夏季或将面临极端高温天气](https://www.baidu.com/s?wd=%E5%8D%97%E5%8D%8A%E7%90%83%E5%A4%8F%E5%AD%A3%E6%88%96%E5%B0%86%E9%9D%A2%E4%B8%B4%E6%9E%81%E7%AB%AF%E9%AB%98%E6%B8%A9%E5%A4%A9%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高三女生被当街捅伤 行凶者也是学生](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%BD%93%E8%A1%97%E6%8D%85%E4%BC%A4+%E8%A1%8C%E5%87%B6%E8%80%85%E4%B9%9F%E6%98%AF%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高三女生被当街捅伤 行凶者也是学生](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%BD%93%E8%A1%97%E6%8D%85%E4%BC%A4+%E8%A1%8C%E5%87%B6%E8%80%85%E4%B9%9F%E6%98%AF%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [央媒：该管管所谓明星祝福视频了](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E8%AF%A5%E7%AE%A1%E7%AE%A1%E6%89%80%E8%B0%93%E6%98%8E%E6%98%9F%E7%A5%9D%E7%A6%8F%E8%A7%86%E9%A2%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西辟谣飞鸟盘旋是地震前兆](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E8%BE%9F%E8%B0%A3%E9%A3%9E%E9%B8%9F%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86&sa=fyb_news&rsv_dl=fyb_news)<br />
