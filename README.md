@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 23:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 23:24:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [最强寒潮发货 多地将迎蹦极式降温](https://www.baidu.com/s?wd=%E6%9C%80%E5%BC%BA%E5%AF%92%E6%BD%AE%E5%8F%91%E8%B4%A7+%E5%A4%9A%E5%9C%B0%E5%B0%86%E8%BF%8E%E8%B9%A6%E6%9E%81%E5%BC%8F%E9%99%8D%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [朱琳官宣结婚](https://www.baidu.com/s?wd=%E6%9C%B1%E7%90%B3%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张一鸣或成为中国第一个世界首富](https://www.baidu.com/s?wd=%E5%BC%A0%E4%B8%80%E9%B8%A3%E6%88%96%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%96%E7%95%8C%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [香港工地女工日赚2千](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%B7%A5%E5%9C%B0%E5%A5%B3%E5%B7%A5%E6%97%A5%E8%B5%9A2%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [斗鱼CEO陈少杰涉嫌开设赌场罪被捕](https://www.baidu.com/s?wd=%E6%96%97%E9%B1%BCCEO%E9%99%88%E5%B0%91%E6%9D%B0%E6%B6%89%E5%AB%8C%E5%BC%80%E8%AE%BE%E8%B5%8C%E5%9C%BA%E7%BD%AA%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [自测支原体阳性就是感染了？](https://www.baidu.com/s?wd=%E8%87%AA%E6%B5%8B%E6%94%AF%E5%8E%9F%E4%BD%93%E9%98%B3%E6%80%A7%E5%B0%B1%E6%98%AF%E6%84%9F%E6%9F%93%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [最强寒潮发货 多地将迎蹦极式降温](https://www.baidu.com/s?wd=%E6%9C%80%E5%BC%BA%E5%AF%92%E6%BD%AE%E5%8F%91%E8%B4%A7+%E5%A4%9A%E5%9C%B0%E5%B0%86%E8%BF%8E%E8%B9%A6%E6%9E%81%E5%BC%8F%E9%99%8D%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [朱琳官宣结婚](https://www.baidu.com/s?wd=%E6%9C%B1%E7%90%B3%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张一鸣或成为中国第一个世界首富](https://www.baidu.com/s?wd=%E5%BC%A0%E4%B8%80%E9%B8%A3%E6%88%96%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%96%E7%95%8C%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [香港工地女工日赚2千](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%B7%A5%E5%9C%B0%E5%A5%B3%E5%B7%A5%E6%97%A5%E8%B5%9A2%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [斗鱼CEO陈少杰涉嫌开设赌场罪被捕](https://www.baidu.com/s?wd=%E6%96%97%E9%B1%BCCEO%E9%99%88%E5%B0%91%E6%9D%B0%E6%B6%89%E5%AB%8C%E5%BC%80%E8%AE%BE%E8%B5%8C%E5%9C%BA%E7%BD%AA%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [自测支原体阳性就是感染了？](https://www.baidu.com/s?wd=%E8%87%AA%E6%B5%8B%E6%94%AF%E5%8E%9F%E4%BD%93%E9%98%B3%E6%80%A7%E5%B0%B1%E6%98%AF%E6%84%9F%E6%9F%93%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
