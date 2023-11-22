@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 12:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 12:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [国产羽绒服卖到7000元](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8D%96%E5%88%B07000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特斯拉刹车失灵事件成员被判道歉](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E6%88%90%E5%91%98%E8%A2%AB%E5%88%A4%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子中千万大奖 要求全打老婆卡里](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD%E5%8D%83%E4%B8%87%E5%A4%A7%E5%A5%96+%E8%A6%81%E6%B1%82%E5%85%A8%E6%89%93%E8%80%81%E5%A9%86%E5%8D%A1%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [5岁男孩发现5亿年前古生物化石](https://www.baidu.com/s?wd=5%E5%B2%81%E7%94%B7%E5%AD%A9%E5%8F%91%E7%8E%B05%E4%BA%BF%E5%B9%B4%E5%89%8D%E5%8F%A4%E7%94%9F%E7%89%A9%E5%8C%96%E7%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医院儿科床位告急 感染科医生发声](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%84%BF%E7%A7%91%E5%BA%8A%E4%BD%8D%E5%91%8A%E6%80%A5+%E6%84%9F%E6%9F%93%E7%A7%91%E5%8C%BB%E7%94%9F%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东移动下架4G套餐消息不实](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8%E4%B8%8B%E6%9E%B64G%E5%A5%97%E9%A4%90%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [国产羽绒服卖到7000元](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8D%96%E5%88%B07000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特斯拉刹车失灵事件成员被判道歉](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E6%88%90%E5%91%98%E8%A2%AB%E5%88%A4%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子中千万大奖 要求全打老婆卡里](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD%E5%8D%83%E4%B8%87%E5%A4%A7%E5%A5%96+%E8%A6%81%E6%B1%82%E5%85%A8%E6%89%93%E8%80%81%E5%A9%86%E5%8D%A1%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [5岁男孩发现5亿年前古生物化石](https://www.baidu.com/s?wd=5%E5%B2%81%E7%94%B7%E5%AD%A9%E5%8F%91%E7%8E%B05%E4%BA%BF%E5%B9%B4%E5%89%8D%E5%8F%A4%E7%94%9F%E7%89%A9%E5%8C%96%E7%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医院儿科床位告急 感染科医生发声](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%84%BF%E7%A7%91%E5%BA%8A%E4%BD%8D%E5%91%8A%E6%80%A5+%E6%84%9F%E6%9F%93%E7%A7%91%E5%8C%BB%E7%94%9F%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东移动下架4G套餐消息不实](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8%E4%B8%8B%E6%9E%B64G%E5%A5%97%E9%A4%90%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
