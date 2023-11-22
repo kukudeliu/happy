@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 16:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 16:44:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [90后公务员没过试用期就落马](https://www.baidu.com/s?wd=90%E5%90%8E%E5%85%AC%E5%8A%A1%E5%91%98%E6%B2%A1%E8%BF%87%E8%AF%95%E7%94%A8%E6%9C%9F%E5%B0%B1%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [月薪2万招人啃鸡爪 2000人投简历](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA2%E4%B8%87%E6%8B%9B%E4%BA%BA%E5%95%83%E9%B8%A1%E7%88%AA+2000%E4%BA%BA%E6%8A%95%E7%AE%80%E5%8E%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [围炉烤橘放倒母子3人](https://www.baidu.com/s?wd=%E5%9B%B4%E7%82%89%E7%83%A4%E6%A9%98%E6%94%BE%E5%80%92%E6%AF%8D%E5%AD%903%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [吃一碗方便面32天才能解毒？](https://www.baidu.com/s?wd=%E5%90%83%E4%B8%80%E7%A2%97%E6%96%B9%E4%BE%BF%E9%9D%A232%E5%A4%A9%E6%89%8D%E8%83%BD%E8%A7%A3%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [筋膜枪可以治痔疮？](https://www.baidu.com/s?wd=%E7%AD%8B%E8%86%9C%E6%9E%AA%E5%8F%AF%E4%BB%A5%E6%B2%BB%E7%97%94%E7%96%AE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [90后公务员没过试用期就落马](https://www.baidu.com/s?wd=90%E5%90%8E%E5%85%AC%E5%8A%A1%E5%91%98%E6%B2%A1%E8%BF%87%E8%AF%95%E7%94%A8%E6%9C%9F%E5%B0%B1%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [月薪2万招人啃鸡爪 2000人投简历](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA2%E4%B8%87%E6%8B%9B%E4%BA%BA%E5%95%83%E9%B8%A1%E7%88%AA+2000%E4%BA%BA%E6%8A%95%E7%AE%80%E5%8E%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [围炉烤橘放倒母子3人](https://www.baidu.com/s?wd=%E5%9B%B4%E7%82%89%E7%83%A4%E6%A9%98%E6%94%BE%E5%80%92%E6%AF%8D%E5%AD%903%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [吃一碗方便面32天才能解毒？](https://www.baidu.com/s?wd=%E5%90%83%E4%B8%80%E7%A2%97%E6%96%B9%E4%BE%BF%E9%9D%A232%E5%A4%A9%E6%89%8D%E8%83%BD%E8%A7%A3%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [筋膜枪可以治痔疮？](https://www.baidu.com/s?wd=%E7%AD%8B%E8%86%9C%E6%9E%AA%E5%8F%AF%E4%BB%A5%E6%B2%BB%E7%97%94%E7%96%AE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
