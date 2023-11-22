@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 07:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 07:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [郭虎 别碰现偶](https://s.weibo.com/weibo?q=%E9%83%AD%E8%99%8E%20%E5%88%AB%E7%A2%B0%E7%8E%B0%E5%81%B6&t=31&band_rank=5&Refer=top)<br />
 6. [开心消消乐程序员回来加班](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9B%9E%E6%9D%A5%E5%8A%A0%E7%8F%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [张雪峰成功预言考研人数下降](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%88%90%E5%8A%9F%E9%A2%84%E8%A8%80%E8%80%83%E7%A0%94%E4%BA%BA%E6%95%B0%E4%B8%8B%E9%99%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [以爱为营 婚礼](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E5%A9%9A%E7%A4%BC&t=31&band_rank=8&Refer=top)<br />
-9. [95后小伙辞职回家被爷爷奶奶的爱治愈](https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%B0%8F%E4%BC%99%E8%BE%9E%E8%81%8C%E5%9B%9E%E5%AE%B6%E8%A2%AB%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E7%9A%84%E7%88%B1%E6%B2%BB%E6%84%88%23&t=31&band_rank=9&Refer=top)<br />
+8. [95后小伙辞职回家被爷爷奶奶的爱治愈](https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%B0%8F%E4%BC%99%E8%BE%9E%E8%81%8C%E5%9B%9E%E5%AE%B6%E8%A2%AB%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E7%9A%84%E7%88%B1%E6%B2%BB%E6%84%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [以爱为营 婚礼](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E5%A9%9A%E7%A4%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [90后公务员没过试用期就落马](https://www.baidu.com/s?wd=90%E5%90%8E%E5%85%AC%E5%8A%A1%E5%91%98%E6%B2%A1%E8%BF%87%E8%AF%95%E7%94%A8%E6%9C%9F%E5%B0%B1%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [朱琳官宣结婚](https://www.baidu.com/s?wd=%E6%9C%B1%E7%90%B3%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河南一货车与火车相撞 货车司机身亡](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E8%B4%A7%E8%BD%A6%E4%B8%8E%E7%81%AB%E8%BD%A6%E7%9B%B8%E6%92%9E+%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [歌手演出被喷火装置射中裤裆](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E6%BC%94%E5%87%BA%E8%A2%AB%E5%96%B7%E7%81%AB%E8%A3%85%E7%BD%AE%E5%B0%84%E4%B8%AD%E8%A3%A4%E8%A3%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [香港工地女工日赚2千](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%B7%A5%E5%9C%B0%E5%A5%B3%E5%B7%A5%E6%97%A5%E8%B5%9A2%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [自测支原体阳性就是感染了？](https://www.baidu.com/s?wd=%E8%87%AA%E6%B5%8B%E6%94%AF%E5%8E%9F%E4%BD%93%E9%98%B3%E6%80%A7%E5%B0%B1%E6%98%AF%E6%84%9F%E6%9F%93%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [90后公务员没过试用期就落马](https://www.baidu.com/s?wd=90%E5%90%8E%E5%85%AC%E5%8A%A1%E5%91%98%E6%B2%A1%E8%BF%87%E8%AF%95%E7%94%A8%E6%9C%9F%E5%B0%B1%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [朱琳官宣结婚](https://www.baidu.com/s?wd=%E6%9C%B1%E7%90%B3%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河南一货车与火车相撞 货车司机身亡](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E8%B4%A7%E8%BD%A6%E4%B8%8E%E7%81%AB%E8%BD%A6%E7%9B%B8%E6%92%9E+%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [歌手演出被喷火装置射中裤裆](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E6%BC%94%E5%87%BA%E8%A2%AB%E5%96%B7%E7%81%AB%E8%A3%85%E7%BD%AE%E5%B0%84%E4%B8%AD%E8%A3%A4%E8%A3%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [香港工地女工日赚2千](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%B7%A5%E5%9C%B0%E5%A5%B3%E5%B7%A5%E6%97%A5%E8%B5%9A2%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [自测支原体阳性就是感染了？](https://www.baidu.com/s?wd=%E8%87%AA%E6%B5%8B%E6%94%AF%E5%8E%9F%E4%BD%93%E9%98%B3%E6%80%A7%E5%B0%B1%E6%98%AF%E6%84%9F%E6%9F%93%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
