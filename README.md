@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 21:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 21:07:01</h4></div>
 
 > 微博  
 
-1. [以爱为营大结局](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A4%A7%E7%BB%93%E5%B1%80&t=31&band_rank=1&Refer=top)<br />
-2. [文春称羽生结弦是妈宝男](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%98%A5%E7%A7%B0%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E6%98%AF%E5%A6%88%E5%AE%9D%E7%94%B7%23&t=31&band_rank=2&Refer=top)<br />
+1. [文春称羽生结弦是妈宝男](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%98%A5%E7%A7%B0%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E6%98%AF%E5%A6%88%E5%AE%9D%E7%94%B7%23&t=31&band_rank=1&Refer=top)<br />
+2. [以爱为营大结局](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A4%A7%E7%BB%93%E5%B1%80&t=31&band_rank=2&Refer=top)<br />
 3. [接英雄回家](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [五大变四大](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%A4%A7%E5%8F%98%E5%9B%9B%E5%A4%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [何猷君 太好了你没病病](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E5%A4%AA%E5%A5%BD%E4%BA%86%E4%BD%A0%E6%B2%A1%E7%97%85%E7%97%85&t=31&band_rank=5&Refer=top)<br />
 6. [王艺妍妤胡明昊许文婷拿到offer](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%89%BA%E5%A6%8D%E5%A6%A4%E8%83%A1%E6%98%8E%E6%98%8A%E8%AE%B8%E6%96%87%E5%A9%B7%E6%8B%BF%E5%88%B0offer%23&t=31&band_rank=6&Refer=top)<br />
-7. [2024考研438万人报名](https://s.weibo.com/weibo?q=%232024%E8%80%83%E7%A0%94438%E4%B8%87%E4%BA%BA%E6%8A%A5%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
+7. [24岁学英语 老师4岁了](https://s.weibo.com/weibo?q=24%E5%B2%81%E5%AD%A6%E8%8B%B1%E8%AF%AD%20%E8%80%81%E5%B8%884%E5%B2%81%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [爱奇艺尖叫之夜cp合体](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9Ccp%E5%90%88%E4%BD%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [24岁学英语 老师4岁了](https://s.weibo.com/weibo?q=24%E5%B2%81%E5%AD%A6%E8%8B%B1%E8%AF%AD%20%E8%80%81%E5%B8%884%E5%B2%81%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [2024考研438万人报名](https://s.weibo.com/weibo?q=%232024%E8%80%83%E7%A0%94438%E4%B8%87%E4%BA%BA%E6%8A%A5%E5%90%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
