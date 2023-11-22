@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 19:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 19:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [时尚集团声明](https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%B0%9A%E9%9B%86%E5%9B%A2%E5%A3%B0%E6%98%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [更适合00后的锦旗已出现](https://s.weibo.com/weibo?q=%23%E6%9B%B4%E9%80%82%E5%90%8800%E5%90%8E%E7%9A%84%E9%94%A6%E6%97%97%E5%B7%B2%E5%87%BA%E7%8E%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [周一围的爱设置了仅朱丹可见](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B8%80%E5%9B%B4%E7%9A%84%E7%88%B1%E8%AE%BE%E7%BD%AE%E4%BA%86%E4%BB%85%E6%9C%B1%E4%B8%B9%E5%8F%AF%E8%A7%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [红绿灯的黄](https://s.weibo.com/weibo?q=%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%84&t=31&band_rank=9&Refer=top)<br />
+9. [闲鱼大量封号](https://s.weibo.com/weibo?q=%23%E9%97%B2%E9%B1%BC%E5%A4%A7%E9%87%8F%E5%B0%81%E5%8F%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
