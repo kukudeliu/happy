@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 17:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 17:48:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [胡先煦 迪丽姐美了吧](https://s.weibo.com/weibo?q=%E8%83%A1%E5%85%88%E7%85%A6%20%E8%BF%AA%E4%B8%BD%E5%A7%90%E7%BE%8E%E4%BA%86%E5%90%A7&t=31&band_rank=4&Refer=top)<br />
 5. [颜宁当选中国科学院院士](https://s.weibo.com/weibo?q=%23%E9%A2%9C%E5%AE%81%E5%BD%93%E9%80%89%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E9%99%A2%E5%A3%AB%23&t=31&band_rank=5&Refer=top)<br />
 6. [胸位高显胖](https://s.weibo.com/weibo?q=%E8%83%B8%E4%BD%8D%E9%AB%98%E6%98%BE%E8%83%96&t=31&band_rank=6&Refer=top)<br />
-7. [发烧](https://s.weibo.com/weibo?q=%E5%8F%91%E7%83%A7&t=31&band_rank=7&Refer=top)<br />
-8. [时尚COSMO停刊](https://s.weibo.com/weibo?q=%E6%97%B6%E5%B0%9ACOSMO%E5%81%9C%E5%88%8A&t=31&band_rank=8&Refer=top)<br />
+7. [时尚COSMO停刊](https://s.weibo.com/weibo?q=%E6%97%B6%E5%B0%9ACOSMO%E5%81%9C%E5%88%8A&t=31&band_rank=7&Refer=top)<br />
+8. [发烧](https://s.weibo.com/weibo?q=%E5%8F%91%E7%83%A7&t=31&band_rank=8&Refer=top)<br />
 9. [发烧是免疫系统杀疯了](https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%83%A7%E6%98%AF%E5%85%8D%E7%96%AB%E7%B3%BB%E7%BB%9F%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
