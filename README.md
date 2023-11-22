@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 11:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 11:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [我有能力考研但没能力读研](https://s.weibo.com/weibo?q=%E6%88%91%E6%9C%89%E8%83%BD%E5%8A%9B%E8%80%83%E7%A0%94%E4%BD%86%E6%B2%A1%E8%83%BD%E5%8A%9B%E8%AF%BB%E7%A0%94&t=31&band_rank=6&Refer=top)<br />
 7. [一闪一闪亮星星定档预告](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F%E5%AE%9A%E6%A1%A3%E9%A2%84%E5%91%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [名侦探学院7官宣定档](https://s.weibo.com/weibo?q=%23%E5%90%8D%E4%BE%A6%E6%8E%A2%E5%AD%A6%E9%99%A27%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [17岁姑姑打6个月零工送小侄子金镯](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A7%91%E5%A7%91%E6%89%936%E4%B8%AA%E6%9C%88%E9%9B%B6%E5%B7%A5%E9%80%81%E5%B0%8F%E4%BE%84%E5%AD%90%E9%87%91%E9%95%AF%23&t=31&band_rank=9&Refer=top)<br />
+9. [巴西0比1阿根廷](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF0%E6%AF%941%E9%98%BF%E6%A0%B9%E5%BB%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
