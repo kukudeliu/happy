@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 14:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 14:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [奥特曼将重回OpenAI担任CEO](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%B0%86%E9%87%8D%E5%9B%9EOpenAI%E6%8B%85%E4%BB%BBCEO%23&t=31&band_rank=5&Refer=top)<br />
 6. [韩媒报道黄子韬演唱会售票率](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E6%8A%A5%E9%81%93%E9%BB%84%E5%AD%90%E9%9F%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E5%94%AE%E7%A5%A8%E7%8E%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴想把秦岚保护起来](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%83%B3%E6%8A%8A%E7%A7%A6%E5%B2%9A%E4%BF%9D%E6%8A%A4%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [直播间卖爆的羽绒服都是谁在买](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E7%88%86%E7%9A%84%E7%BE%BD%E7%BB%92%E6%9C%8D%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [红绿灯的黄](https://s.weibo.com/weibo?q=%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%84&t=31&band_rank=9&Refer=top)<br />
+8. [红绿灯的黄](https://s.weibo.com/weibo?q=%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%84&t=31&band_rank=8&Refer=top)<br />
+9. [直播间卖爆的羽绒服都是谁在买](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E7%88%86%E7%9A%84%E7%BE%BD%E7%BB%92%E6%9C%8D%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
