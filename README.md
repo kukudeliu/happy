@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 20:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 20:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [邓为腿受伤](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E8%85%BF%E5%8F%97%E4%BC%A4&t=31&band_rank=6&Refer=top)<br />
 7. [爱奇艺尖叫之夜cp合体](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9Ccp%E5%90%88%E4%BD%93%23&t=31&band_rank=7&Refer=top)<br />
 8. [闲鱼大量封号](https://s.weibo.com/weibo?q=%23%E9%97%B2%E9%B1%BC%E5%A4%A7%E9%87%8F%E5%B0%81%E5%8F%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [父亲回应颜宁当选中国科学院院士](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E9%A2%9C%E5%AE%81%E5%BD%93%E9%80%89%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E9%99%A2%E5%A3%AB%23&t=31&band_rank=9&Refer=top)<br />
+9. [文春称羽生结弦是妈宝男](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%98%A5%E7%A7%B0%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E6%98%AF%E5%A6%88%E5%AE%9D%E7%94%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
