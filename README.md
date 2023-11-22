@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 17:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 17:58:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [红绿灯的黄](https://s.weibo.com/weibo?q=%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%84&t=31&band_rank=4&Refer=top)<br />
 5. [婴儿高烧抽搐消防车秒变救护车](https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E9%AB%98%E7%83%A7%E6%8A%BD%E6%90%90%E6%B6%88%E9%98%B2%E8%BD%A6%E7%A7%92%E5%8F%98%E6%95%91%E6%8A%A4%E8%BD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [颜宁当选中国科学院院士](https://s.weibo.com/weibo?q=%23%E9%A2%9C%E5%AE%81%E5%BD%93%E9%80%89%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E9%99%A2%E5%A3%AB%23&t=31&band_rank=6&Refer=top)<br />
-7. [南充最低月龄先心病患儿术后出院](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%85%85%E6%9C%80%E4%BD%8E%E6%9C%88%E9%BE%84%E5%85%88%E5%BF%83%E7%97%85%E6%82%A3%E5%84%BF%E6%9C%AF%E5%90%8E%E5%87%BA%E9%99%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [胸位高显胖](https://s.weibo.com/weibo?q=%E8%83%B8%E4%BD%8D%E9%AB%98%E6%98%BE%E8%83%96&t=31&band_rank=8&Refer=top)<br />
-9. [胡先煦 迪丽姐美了吧](https://s.weibo.com/weibo?q=%E8%83%A1%E5%85%88%E7%85%A6%20%E8%BF%AA%E4%B8%BD%E5%A7%90%E7%BE%8E%E4%BA%86%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
+7. [胸位高显胖](https://s.weibo.com/weibo?q=%E8%83%B8%E4%BD%8D%E9%AB%98%E6%98%BE%E8%83%96&t=31&band_rank=7&Refer=top)<br />
+8. [胡先煦 迪丽姐美了吧](https://s.weibo.com/weibo?q=%E8%83%A1%E5%85%88%E7%85%A6%20%E8%BF%AA%E4%B8%BD%E5%A7%90%E7%BE%8E%E4%BA%86%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
+9. [发烧是免疫系统杀疯了](https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%83%A7%E6%98%AF%E5%85%8D%E7%96%AB%E7%B3%BB%E7%BB%9F%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [小杨哥徒弟被消协列入低俗带货案例](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E8%A2%AB%E6%B6%88%E5%8D%8F%E5%88%97%E5%85%A5%E4%BD%8E%E4%BF%97%E5%B8%A6%E8%B4%A7%E6%A1%88%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [歌手演出被喷火装置射中裤裆](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E6%BC%94%E5%87%BA%E8%A2%AB%E5%96%B7%E7%81%AB%E8%A3%85%E7%BD%AE%E5%B0%84%E4%B8%AD%E8%A3%A4%E8%A3%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [月薪2万招人啃鸡爪 2000人投简历](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA2%E4%B8%87%E6%8B%9B%E4%BA%BA%E5%95%83%E9%B8%A1%E7%88%AA+2000%E4%BA%BA%E6%8A%95%E7%AE%80%E5%8E%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [体育由副科变主科？教育部回应](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E7%94%B1%E5%89%AF%E7%A7%91%E5%8F%98%E4%B8%BB%E7%A7%91%EF%BC%9F%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李登辉家族被骗5.5亿新台币](https://www.baidu.com/s?wd=%E6%9D%8E%E7%99%BB%E8%BE%89%E5%AE%B6%E6%97%8F%E8%A2%AB%E9%AA%975.5%E4%BA%BF%E6%96%B0%E5%8F%B0%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [筋膜枪可以治痔疮？](https://www.baidu.com/s?wd=%E7%AD%8B%E8%86%9C%E6%9E%AA%E5%8F%AF%E4%BB%A5%E6%B2%BB%E7%97%94%E7%96%AE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [小杨哥徒弟被消协列入低俗带货案例](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E8%A2%AB%E6%B6%88%E5%8D%8F%E5%88%97%E5%85%A5%E4%BD%8E%E4%BF%97%E5%B8%A6%E8%B4%A7%E6%A1%88%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [歌手演出被喷火装置射中裤裆](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E6%BC%94%E5%87%BA%E8%A2%AB%E5%96%B7%E7%81%AB%E8%A3%85%E7%BD%AE%E5%B0%84%E4%B8%AD%E8%A3%A4%E8%A3%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [月薪2万招人啃鸡爪 2000人投简历](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA2%E4%B8%87%E6%8B%9B%E4%BA%BA%E5%95%83%E9%B8%A1%E7%88%AA+2000%E4%BA%BA%E6%8A%95%E7%AE%80%E5%8E%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [体育由副科变主科？教育部回应](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E7%94%B1%E5%89%AF%E7%A7%91%E5%8F%98%E4%B8%BB%E7%A7%91%EF%BC%9F%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李登辉家族被骗5.5亿新台币](https://www.baidu.com/s?wd=%E6%9D%8E%E7%99%BB%E8%BE%89%E5%AE%B6%E6%97%8F%E8%A2%AB%E9%AA%975.5%E4%BA%BF%E6%96%B0%E5%8F%B0%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [筋膜枪可以治痔疮？](https://www.baidu.com/s?wd=%E7%AD%8B%E8%86%9C%E6%9E%AA%E5%8F%AF%E4%BB%A5%E6%B2%BB%E7%97%94%E7%96%AE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
