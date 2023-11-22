@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 21:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 21:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王艺妍妤胡明昊许文婷拿到offer](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%89%BA%E5%A6%8D%E5%A6%A4%E8%83%A1%E6%98%8E%E6%98%8A%E8%AE%B8%E6%96%87%E5%A9%B7%E6%8B%BF%E5%88%B0offer%23&t=31&band_rank=6&Refer=top)<br />
 7. [24岁学英语 老师4岁了](https://s.weibo.com/weibo?q=24%E5%B2%81%E5%AD%A6%E8%8B%B1%E8%AF%AD%20%E8%80%81%E5%B8%884%E5%B2%81%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [爱奇艺尖叫之夜cp合体](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9Ccp%E5%90%88%E4%BD%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [2024考研438万人报名](https://s.weibo.com/weibo?q=%232024%E8%80%83%E7%A0%94438%E4%B8%87%E4%BA%BA%E6%8A%A5%E5%90%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [奚梦瑶曾因怀孕脊椎错位](https://s.weibo.com/weibo?q=%E5%A5%9A%E6%A2%A6%E7%91%B6%E6%9B%BE%E5%9B%A0%E6%80%80%E5%AD%95%E8%84%8A%E6%A4%8E%E9%94%99%E4%BD%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [最强寒潮发货 多地将迎蹦极式降温](https://www.baidu.com/s?wd=%E6%9C%80%E5%BC%BA%E5%AF%92%E6%BD%AE%E5%8F%91%E8%B4%A7+%E5%A4%9A%E5%9C%B0%E5%B0%86%E8%BF%8E%E8%B9%A6%E6%9E%81%E5%BC%8F%E9%99%8D%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张一鸣或成为中国第一个世界首富](https://www.baidu.com/s?wd=%E5%BC%A0%E4%B8%80%E9%B8%A3%E6%88%96%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%96%E7%95%8C%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美国网红挑战被活埋7天](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%8C%91%E6%88%98%E8%A2%AB%E6%B4%BB%E5%9F%8B7%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [围炉烤橘放倒母子3人](https://www.baidu.com/s?wd=%E5%9B%B4%E7%82%89%E7%83%A4%E6%A9%98%E6%94%BE%E5%80%92%E6%AF%8D%E5%AD%903%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [体育由副科变主科？教育部回应](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E7%94%B1%E5%89%AF%E7%A7%91%E5%8F%98%E4%B8%BB%E7%A7%91%EF%BC%9F%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [自测支原体阳性就是感染了？](https://www.baidu.com/s?wd=%E8%87%AA%E6%B5%8B%E6%94%AF%E5%8E%9F%E4%BD%93%E9%98%B3%E6%80%A7%E5%B0%B1%E6%98%AF%E6%84%9F%E6%9F%93%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [最强寒潮发货 多地将迎蹦极式降温](https://www.baidu.com/s?wd=%E6%9C%80%E5%BC%BA%E5%AF%92%E6%BD%AE%E5%8F%91%E8%B4%A7+%E5%A4%9A%E5%9C%B0%E5%B0%86%E8%BF%8E%E8%B9%A6%E6%9E%81%E5%BC%8F%E9%99%8D%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张一鸣或成为中国第一个世界首富](https://www.baidu.com/s?wd=%E5%BC%A0%E4%B8%80%E9%B8%A3%E6%88%96%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%96%E7%95%8C%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美国网红挑战被活埋7天](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%8C%91%E6%88%98%E8%A2%AB%E6%B4%BB%E5%9F%8B7%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [围炉烤橘放倒母子3人](https://www.baidu.com/s?wd=%E5%9B%B4%E7%82%89%E7%83%A4%E6%A9%98%E6%94%BE%E5%80%92%E6%AF%8D%E5%AD%903%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [体育由副科变主科？教育部回应](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E7%94%B1%E5%89%AF%E7%A7%91%E5%8F%98%E4%B8%BB%E7%A7%91%EF%BC%9F%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [自测支原体阳性就是感染了？](https://www.baidu.com/s?wd=%E8%87%AA%E6%B5%8B%E6%94%AF%E5%8E%9F%E4%BD%93%E9%98%B3%E6%80%A7%E5%B0%B1%E6%98%AF%E6%84%9F%E6%9F%93%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
