@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 14:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 14:47:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [外婆称羽生结弦现在吃不下饭](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%A9%86%E7%A7%B0%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E7%8E%B0%E5%9C%A8%E5%90%83%E4%B8%8D%E4%B8%8B%E9%A5%AD%23&t=31&band_rank=2&Refer=top)<br />
 3. [小雪节气配上古诗词满满氛围感](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%9B%AA%E8%8A%82%E6%B0%94%E9%85%8D%E4%B8%8A%E5%8F%A4%E8%AF%97%E8%AF%8D%E6%BB%A1%E6%BB%A1%E6%B0%9B%E5%9B%B4%E6%84%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [缅甸高官称因中国提醒才意识到电诈危害](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E9%AB%98%E5%AE%98%E7%A7%B0%E5%9B%A0%E4%B8%AD%E5%9B%BD%E6%8F%90%E9%86%92%E6%89%8D%E6%84%8F%E8%AF%86%E5%88%B0%E7%94%B5%E8%AF%88%E5%8D%B1%E5%AE%B3%23&t=31&band_rank=4&Refer=top)<br />
-5. [奥特曼将重回OpenAI担任CEO](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%B0%86%E9%87%8D%E5%9B%9EOpenAI%E6%8B%85%E4%BB%BBCEO%23&t=31&band_rank=5&Refer=top)<br />
-6. [红绿灯的黄](https://s.weibo.com/weibo?q=%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%84&t=31&band_rank=6&Refer=top)<br />
+5. [红绿灯的黄](https://s.weibo.com/weibo?q=%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%84&t=31&band_rank=5&Refer=top)<br />
+6. [奥特曼将重回OpenAI担任CEO](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%B0%86%E9%87%8D%E5%9B%9EOpenAI%E6%8B%85%E4%BB%BBCEO%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩媒报道黄子韬演唱会售票率](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E6%8A%A5%E9%81%93%E9%BB%84%E5%AD%90%E9%9F%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E5%94%AE%E7%A5%A8%E7%8E%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴想把秦岚保护起来](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%83%B3%E6%8A%8A%E7%A7%A6%E5%B2%9A%E4%BF%9D%E6%8A%A4%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [孙丞潇想跟金莎生一男一女](https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B8%9E%E6%BD%87%E6%83%B3%E8%B7%9F%E9%87%91%E8%8E%8E%E7%94%9F%E4%B8%80%E7%94%B7%E4%B8%80%E5%A5%B3%23&t=31&band_rank=9&Refer=top)<br />
