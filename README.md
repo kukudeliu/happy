@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 00:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 00:09:01</h4></div>
 
 > 微博  
 
-1. [张雪峰成功预言考研人数下降](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%88%90%E5%8A%9F%E9%A2%84%E8%A8%80%E8%80%83%E7%A0%94%E4%BA%BA%E6%95%B0%E4%B8%8B%E9%99%8D%23&t=31&band_rank=1&Refer=top)<br />
-2. [开心消消乐程序员回来加班](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9B%9E%E6%9D%A5%E5%8A%A0%E7%8F%AD%23&t=31&band_rank=2&Refer=top)<br />
+1. [开心消消乐程序员回来加班](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9B%9E%E6%9D%A5%E5%8A%A0%E7%8F%AD%23&t=31&band_rank=1&Refer=top)<br />
+2. [张雪峰成功预言考研人数下降](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%88%90%E5%8A%9F%E9%A2%84%E8%A8%80%E8%80%83%E7%A0%94%E4%BA%BA%E6%95%B0%E4%B8%8B%E9%99%8D%23&t=31&band_rank=2&Refer=top)<br />
 3. [对风雪中的环卫工人说声谢谢](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E9%A3%8E%E9%9B%AA%E4%B8%AD%E7%9A%84%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%E8%AF%B4%E5%A3%B0%E8%B0%A2%E8%B0%A2%23&t=31&band_rank=3&Refer=top)<br />
 4. [以爱为营 婚礼](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E5%A9%9A%E7%A4%BC&t=31&band_rank=4&Refer=top)<br />
 5. [新闻女王 文慧心别骂了](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E6%96%87%E6%85%A7%E5%BF%83%E5%88%AB%E9%AA%82%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [90后公务员没过试用期就落马](https://www.baidu.com/s?wd=90%E5%90%8E%E5%85%AC%E5%8A%A1%E5%91%98%E6%B2%A1%E8%BF%87%E8%AF%95%E7%94%A8%E6%9C%9F%E5%B0%B1%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [朱琳官宣结婚](https://www.baidu.com/s?wd=%E6%9C%B1%E7%90%B3%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [无锡纺织厂火灾：母亲留4个孩子离世](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E7%BA%BA%E7%BB%87%E5%8E%82%E7%81%AB%E7%81%BE%EF%BC%9A%E6%AF%8D%E4%BA%B2%E7%95%994%E4%B8%AA%E5%AD%A9%E5%AD%90%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国网红挑战被活埋7天](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%8C%91%E6%88%98%E8%A2%AB%E6%B4%BB%E5%9F%8B7%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [香港工地女工日赚2千](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%B7%A5%E5%9C%B0%E5%A5%B3%E5%B7%A5%E6%97%A5%E8%B5%9A2%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [自测支原体阳性就是感染了？](https://www.baidu.com/s?wd=%E8%87%AA%E6%B5%8B%E6%94%AF%E5%8E%9F%E4%BD%93%E9%98%B3%E6%80%A7%E5%B0%B1%E6%98%AF%E6%84%9F%E6%9F%93%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [90后公务员没过试用期就落马](https://www.baidu.com/s?wd=90%E5%90%8E%E5%85%AC%E5%8A%A1%E5%91%98%E6%B2%A1%E8%BF%87%E8%AF%95%E7%94%A8%E6%9C%9F%E5%B0%B1%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [朱琳官宣结婚](https://www.baidu.com/s?wd=%E6%9C%B1%E7%90%B3%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [无锡纺织厂火灾：母亲留4个孩子离世](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E7%BA%BA%E7%BB%87%E5%8E%82%E7%81%AB%E7%81%BE%EF%BC%9A%E6%AF%8D%E4%BA%B2%E7%95%994%E4%B8%AA%E5%AD%A9%E5%AD%90%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国网红挑战被活埋7天](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%8C%91%E6%88%98%E8%A2%AB%E6%B4%BB%E5%9F%8B7%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [香港工地女工日赚2千](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%B7%A5%E5%9C%B0%E5%A5%B3%E5%B7%A5%E6%97%A5%E8%B5%9A2%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [自测支原体阳性就是感染了？](https://www.baidu.com/s?wd=%E8%87%AA%E6%B5%8B%E6%94%AF%E5%8E%9F%E4%BD%93%E9%98%B3%E6%80%A7%E5%B0%B1%E6%98%AF%E6%84%9F%E6%9F%93%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
