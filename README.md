@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 21:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 21:02:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [最强寒潮发货 多地将迎蹦极式降温](https://www.baidu.com/s?wd=%E6%9C%80%E5%BC%BA%E5%AF%92%E6%BD%AE%E5%8F%91%E8%B4%A7+%E5%A4%9A%E5%9C%B0%E5%B0%86%E8%BF%8E%E8%B9%A6%E6%9E%81%E5%BC%8F%E9%99%8D%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张一鸣或成为中国第一个世界首富](https://www.baidu.com/s?wd=%E5%BC%A0%E4%B8%80%E9%B8%A3%E6%88%96%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%96%E7%95%8C%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [三孩补贴“无法申请”？郑州回应](https://www.baidu.com/s?wd=%E4%B8%89%E5%AD%A9%E8%A1%A5%E8%B4%B4%E2%80%9C%E6%97%A0%E6%B3%95%E7%94%B3%E8%AF%B7%E2%80%9D%EF%BC%9F%E9%83%91%E5%B7%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [围炉烤橘放倒母子3人](https://www.baidu.com/s?wd=%E5%9B%B4%E7%82%89%E7%83%A4%E6%A9%98%E6%94%BE%E5%80%92%E6%AF%8D%E5%AD%903%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国网红挑战被活埋7天](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%8C%91%E6%88%98%E8%A2%AB%E6%B4%BB%E5%9F%8B7%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [自测支原体阳性就是感染了？](https://www.baidu.com/s?wd=%E8%87%AA%E6%B5%8B%E6%94%AF%E5%8E%9F%E4%BD%93%E9%98%B3%E6%80%A7%E5%B0%B1%E6%98%AF%E6%84%9F%E6%9F%93%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [最强寒潮发货 多地将迎蹦极式降温](https://www.baidu.com/s?wd=%E6%9C%80%E5%BC%BA%E5%AF%92%E6%BD%AE%E5%8F%91%E8%B4%A7+%E5%A4%9A%E5%9C%B0%E5%B0%86%E8%BF%8E%E8%B9%A6%E6%9E%81%E5%BC%8F%E9%99%8D%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张一鸣或成为中国第一个世界首富](https://www.baidu.com/s?wd=%E5%BC%A0%E4%B8%80%E9%B8%A3%E6%88%96%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%96%E7%95%8C%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [三孩补贴“无法申请”？郑州回应](https://www.baidu.com/s?wd=%E4%B8%89%E5%AD%A9%E8%A1%A5%E8%B4%B4%E2%80%9C%E6%97%A0%E6%B3%95%E7%94%B3%E8%AF%B7%E2%80%9D%EF%BC%9F%E9%83%91%E5%B7%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [围炉烤橘放倒母子3人](https://www.baidu.com/s?wd=%E5%9B%B4%E7%82%89%E7%83%A4%E6%A9%98%E6%94%BE%E5%80%92%E6%AF%8D%E5%AD%903%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国网红挑战被活埋7天](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%8C%91%E6%88%98%E8%A2%AB%E6%B4%BB%E5%9F%8B7%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [自测支原体阳性就是感染了？](https://www.baidu.com/s?wd=%E8%87%AA%E6%B5%8B%E6%94%AF%E5%8E%9F%E4%BD%93%E9%98%B3%E6%80%A7%E5%B0%B1%E6%98%AF%E6%84%9F%E6%9F%93%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
