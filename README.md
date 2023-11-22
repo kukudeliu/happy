@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 12:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 12:21:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [杭州一村收租1.6亿 安排老人出国游](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E6%9D%91%E6%94%B6%E7%A7%9F1.6%E4%BA%BF+%E5%AE%89%E6%8E%92%E8%80%81%E4%BA%BA%E5%87%BA%E5%9B%BD%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国秋冬种进度已超98％](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E5%86%AC%E7%A7%8D%E8%BF%9B%E5%BA%A6%E5%B7%B2%E8%B6%8598%EF%BC%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国产羽绒服卖到7000元](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8D%96%E5%88%B07000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [国足主帅：要在亚洲杯上赢回来](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%B8%85%EF%BC%9A%E8%A6%81%E5%9C%A8%E4%BA%9A%E6%B4%B2%E6%9D%AF%E4%B8%8A%E8%B5%A2%E5%9B%9E%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小雪节气全国初雪地图出炉](https://www.baidu.com/s?wd=%E5%B0%8F%E9%9B%AA%E8%8A%82%E6%B0%94%E5%85%A8%E5%9B%BD%E5%88%9D%E9%9B%AA%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生读研两个月诉说氛围像围城](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%AF%BB%E7%A0%94%E4%B8%A4%E4%B8%AA%E6%9C%88%E8%AF%89%E8%AF%B4%E6%B0%9B%E5%9B%B4%E5%83%8F%E5%9B%B4%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [特斯拉刹车失灵事件成员被判道歉](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E6%88%90%E5%91%98%E8%A2%AB%E5%88%A4%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小伙被AI换脸的“表哥”骗走30万](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%A2%ABAI%E6%8D%A2%E8%84%B8%E7%9A%84%E2%80%9C%E8%A1%A8%E5%93%A5%E2%80%9D%E9%AA%97%E8%B5%B030%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男童肺炎高热不退被建议“洗肺”](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%82%BA%E7%82%8E%E9%AB%98%E7%83%AD%E4%B8%8D%E9%80%80%E8%A2%AB%E5%BB%BA%E8%AE%AE%E2%80%9C%E6%B4%97%E8%82%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东移动下架4G套餐消息不实](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8%E4%B8%8B%E6%9E%B64G%E5%A5%97%E9%A4%90%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [杭州一村收租1.6亿 安排老人出国游](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E6%9D%91%E6%94%B6%E7%A7%9F1.6%E4%BA%BF+%E5%AE%89%E6%8E%92%E8%80%81%E4%BA%BA%E5%87%BA%E5%9B%BD%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国秋冬种进度已超98％](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E5%86%AC%E7%A7%8D%E8%BF%9B%E5%BA%A6%E5%B7%B2%E8%B6%8598%EF%BC%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国产羽绒服卖到7000元](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8D%96%E5%88%B07000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [国足主帅：要在亚洲杯上赢回来](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%B8%85%EF%BC%9A%E8%A6%81%E5%9C%A8%E4%BA%9A%E6%B4%B2%E6%9D%AF%E4%B8%8A%E8%B5%A2%E5%9B%9E%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小雪节气全国初雪地图出炉](https://www.baidu.com/s?wd=%E5%B0%8F%E9%9B%AA%E8%8A%82%E6%B0%94%E5%85%A8%E5%9B%BD%E5%88%9D%E9%9B%AA%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生读研两个月诉说氛围像围城](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%AF%BB%E7%A0%94%E4%B8%A4%E4%B8%AA%E6%9C%88%E8%AF%89%E8%AF%B4%E6%B0%9B%E5%9B%B4%E5%83%8F%E5%9B%B4%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [特斯拉刹车失灵事件成员被判道歉](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E6%88%90%E5%91%98%E8%A2%AB%E5%88%A4%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小伙被AI换脸的“表哥”骗走30万](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%A2%ABAI%E6%8D%A2%E8%84%B8%E7%9A%84%E2%80%9C%E8%A1%A8%E5%93%A5%E2%80%9D%E9%AA%97%E8%B5%B030%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男童肺炎高热不退被建议“洗肺”](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%82%BA%E7%82%8E%E9%AB%98%E7%83%AD%E4%B8%8D%E9%80%80%E8%A2%AB%E5%BB%BA%E8%AE%AE%E2%80%9C%E6%B4%97%E8%82%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东移动下架4G套餐消息不实](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8%E4%B8%8B%E6%9E%B64G%E5%A5%97%E9%A4%90%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
