@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 14:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 14:42:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [小杨哥徒弟被消协列入低俗带货案例](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E8%A2%AB%E6%B6%88%E5%8D%8F%E5%88%97%E5%85%A5%E4%BD%8E%E4%BF%97%E5%B8%A6%E8%B4%A7%E6%A1%88%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [围炉烤橘放倒母子3人](https://www.baidu.com/s?wd=%E5%9B%B4%E7%82%89%E7%83%A4%E6%A9%98%E6%94%BE%E5%80%92%E6%AF%8D%E5%AD%903%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [缅方称因中国提醒才意识到电诈危害](https://www.baidu.com/s?wd=%E7%BC%85%E6%96%B9%E7%A7%B0%E5%9B%A0%E4%B8%AD%E5%9B%BD%E6%8F%90%E9%86%92%E6%89%8D%E6%84%8F%E8%AF%86%E5%88%B0%E7%94%B5%E8%AF%88%E5%8D%B1%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [人民币汇率迎来大反弹](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E8%BF%8E%E6%9D%A5%E5%A4%A7%E5%8F%8D%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大学毕业在没信号的山里工作13年](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E5%9C%A8%E6%B2%A1%E4%BF%A1%E5%8F%B7%E7%9A%84%E5%B1%B1%E9%87%8C%E5%B7%A5%E4%BD%9C13%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吃一碗方便面32天才能解毒？](https://www.baidu.com/s?wd=%E5%90%83%E4%B8%80%E7%A2%97%E6%96%B9%E4%BE%BF%E9%9D%A232%E5%A4%A9%E6%89%8D%E8%83%BD%E8%A7%A3%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [小杨哥徒弟被消协列入低俗带货案例](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E8%A2%AB%E6%B6%88%E5%8D%8F%E5%88%97%E5%85%A5%E4%BD%8E%E4%BF%97%E5%B8%A6%E8%B4%A7%E6%A1%88%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [围炉烤橘放倒母子3人](https://www.baidu.com/s?wd=%E5%9B%B4%E7%82%89%E7%83%A4%E6%A9%98%E6%94%BE%E5%80%92%E6%AF%8D%E5%AD%903%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [缅方称因中国提醒才意识到电诈危害](https://www.baidu.com/s?wd=%E7%BC%85%E6%96%B9%E7%A7%B0%E5%9B%A0%E4%B8%AD%E5%9B%BD%E6%8F%90%E9%86%92%E6%89%8D%E6%84%8F%E8%AF%86%E5%88%B0%E7%94%B5%E8%AF%88%E5%8D%B1%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [人民币汇率迎来大反弹](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E8%BF%8E%E6%9D%A5%E5%A4%A7%E5%8F%8D%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大学毕业在没信号的山里工作13年](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E5%9C%A8%E6%B2%A1%E4%BF%A1%E5%8F%B7%E7%9A%84%E5%B1%B1%E9%87%8C%E5%B7%A5%E4%BD%9C13%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吃一碗方便面32天才能解毒？](https://www.baidu.com/s?wd=%E5%90%83%E4%B8%80%E7%A2%97%E6%96%B9%E4%BE%BF%E9%9D%A232%E5%A4%A9%E6%89%8D%E8%83%BD%E8%A7%A3%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
