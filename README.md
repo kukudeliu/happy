@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 15:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 15:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王睡睡脱下校服没有回头](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9D%A1%E7%9D%A1%E8%84%B1%E4%B8%8B%E6%A0%A1%E6%9C%8D%E6%B2%A1%E6%9C%89%E5%9B%9E%E5%A4%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩媒报道黄子韬演唱会售票率](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E6%8A%A5%E9%81%93%E9%BB%84%E5%AD%90%E9%9F%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E5%94%AE%E7%A5%A8%E7%8E%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [为什么有人一紧张就会拉肚子](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E4%B8%80%E7%B4%A7%E5%BC%A0%E5%B0%B1%E4%BC%9A%E6%8B%89%E8%82%9A%E5%AD%90&t=31&band_rank=8&Refer=top)<br />
-9. [奥特曼将重回OpenAI担任CEO](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%B0%86%E9%87%8D%E5%9B%9EOpenAI%E6%8B%85%E4%BB%BBCEO%23&t=31&band_rank=9&Refer=top)<br />
+9. [上海迪士尼疯狂动物城园区获证](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%E5%9B%AD%E5%8C%BA%E8%8E%B7%E8%AF%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
