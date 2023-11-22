@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 00:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 00:14:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [90后公务员没过试用期就落马](https://www.baidu.com/s?wd=90%E5%90%8E%E5%85%AC%E5%8A%A1%E5%91%98%E6%B2%A1%E8%BF%87%E8%AF%95%E7%94%A8%E6%9C%9F%E5%B0%B1%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [朱琳官宣结婚](https://www.baidu.com/s?wd=%E6%9C%B1%E7%90%B3%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [无锡纺织厂火灾：母亲留4个孩子离世](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E7%BA%BA%E7%BB%87%E5%8E%82%E7%81%AB%E7%81%BE%EF%BC%9A%E6%AF%8D%E4%BA%B2%E7%95%994%E4%B8%AA%E5%AD%A9%E5%AD%90%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [香港工地女工日赚2千](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%B7%A5%E5%9C%B0%E5%A5%B3%E5%B7%A5%E6%97%A5%E8%B5%9A2%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家吐槽老拿人均存款说事](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%90%90%E6%A7%BD%E8%80%81%E6%8B%BF%E4%BA%BA%E5%9D%87%E5%AD%98%E6%AC%BE%E8%AF%B4%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [自测支原体阳性就是感染了？](https://www.baidu.com/s?wd=%E8%87%AA%E6%B5%8B%E6%94%AF%E5%8E%9F%E4%BD%93%E9%98%B3%E6%80%A7%E5%B0%B1%E6%98%AF%E6%84%9F%E6%9F%93%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [90后公务员没过试用期就落马](https://www.baidu.com/s?wd=90%E5%90%8E%E5%85%AC%E5%8A%A1%E5%91%98%E6%B2%A1%E8%BF%87%E8%AF%95%E7%94%A8%E6%9C%9F%E5%B0%B1%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [朱琳官宣结婚](https://www.baidu.com/s?wd=%E6%9C%B1%E7%90%B3%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [无锡纺织厂火灾：母亲留4个孩子离世](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E7%BA%BA%E7%BB%87%E5%8E%82%E7%81%AB%E7%81%BE%EF%BC%9A%E6%AF%8D%E4%BA%B2%E7%95%994%E4%B8%AA%E5%AD%A9%E5%AD%90%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [香港工地女工日赚2千](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%B7%A5%E5%9C%B0%E5%A5%B3%E5%B7%A5%E6%97%A5%E8%B5%9A2%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家吐槽老拿人均存款说事](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%90%90%E6%A7%BD%E8%80%81%E6%8B%BF%E4%BA%BA%E5%9D%87%E5%AD%98%E6%AC%BE%E8%AF%B4%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [自测支原体阳性就是感染了？](https://www.baidu.com/s?wd=%E8%87%AA%E6%B5%8B%E6%94%AF%E5%8E%9F%E4%BD%93%E9%98%B3%E6%80%A7%E5%B0%B1%E6%98%AF%E6%84%9F%E6%9F%93%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
