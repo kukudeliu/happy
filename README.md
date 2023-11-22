@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 22:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 22:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴 我舍不得让她干累的活](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%88%91%E8%88%8D%E4%B8%8D%E5%BE%97%E8%AE%A9%E5%A5%B9%E5%B9%B2%E7%B4%AF%E7%9A%84%E6%B4%BB&t=31&band_rank=6&Refer=top)<br />
 7. [24岁学英语 老师4岁了](https://s.weibo.com/weibo?q=24%E5%B2%81%E5%AD%A6%E8%8B%B1%E8%AF%AD%20%E8%80%81%E5%B8%884%E5%B2%81%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [英雄联盟服务器](https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%9C%8D%E5%8A%A1%E5%99%A8&t=31&band_rank=8&Refer=top)<br />
-9. [朱琳官宣结婚](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%90%B3%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [为什么没有Kim](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89Kim&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
