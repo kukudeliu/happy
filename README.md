@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 12:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 12:49:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [梅西 不踢了](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%20%E4%B8%8D%E8%B8%A2%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [第10批在韩志愿军烈士遗骸装殓仪式举行](https://s.weibo.com/weibo?q=%23%E7%AC%AC10%E6%89%B9%E5%9C%A8%E9%9F%A9%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E9%81%97%E9%AA%B8%E8%A3%85%E6%AE%93%E4%BB%AA%E5%BC%8F%E4%B8%BE%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [围炉烤橘放倒母子3人](https://s.weibo.com/weibo?q=%23%E5%9B%B4%E7%82%89%E7%83%A4%E6%A9%98%E6%94%BE%E5%80%92%E6%AF%8D%E5%AD%903%E4%BA%BA%23&t=31&band_rank=4&Refer=top)<br />
-5. [危宁 龙凤胎](https://s.weibo.com/weibo?q=%E5%8D%B1%E5%AE%81%20%E9%BE%99%E5%87%A4%E8%83%8E&t=31&band_rank=5&Refer=top)<br />
-6. [斗鱼涉赌直播间年流水1.77亿](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E6%B6%89%E8%B5%8C%E7%9B%B4%E6%92%AD%E9%97%B4%E5%B9%B4%E6%B5%81%E6%B0%B41.77%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
-7. [特斯拉刹车失灵事件核心成员被判道歉](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E6%A0%B8%E5%BF%83%E6%88%90%E5%91%98%E8%A2%AB%E5%88%A4%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [许凯拍吻戏累到睡着了](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E6%8B%8D%E5%90%BB%E6%88%8F%E7%B4%AF%E5%88%B0%E7%9D%A1%E7%9D%80%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [曼谷街头现多名中国籍毁容乞讨者](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%B0%B7%E8%A1%97%E5%A4%B4%E7%8E%B0%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%B1%8D%E6%AF%81%E5%AE%B9%E4%B9%9E%E8%AE%A8%E8%80%85%23&t=31&band_rank=9&Refer=top)<br />
+5. [斗鱼涉赌直播间年流水1.77亿](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E6%B6%89%E8%B5%8C%E7%9B%B4%E6%92%AD%E9%97%B4%E5%B9%B4%E6%B5%81%E6%B0%B41.77%E4%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
+6. [危宁 龙凤胎](https://s.weibo.com/weibo?q=%E5%8D%B1%E5%AE%81%20%E9%BE%99%E5%87%A4%E8%83%8E&t=31&band_rank=6&Refer=top)<br />
+7. [许凯拍吻戏累到睡着了](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E6%8B%8D%E5%90%BB%E6%88%8F%E7%B4%AF%E5%88%B0%E7%9D%A1%E7%9D%80%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [特斯拉刹车失灵事件核心成员被判道歉](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E6%A0%B8%E5%BF%83%E6%88%90%E5%91%98%E8%A2%AB%E5%88%A4%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [迪丽热巴当导游](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BD%93%E5%AF%BC%E6%B8%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
