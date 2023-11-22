@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 12:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 12:28:02</h4></div>
 
 > 微博  
 
-1. [曼谷街头现多名中国籍毁容乞讨者](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%B0%B7%E8%A1%97%E5%A4%B4%E7%8E%B0%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%B1%8D%E6%AF%81%E5%AE%B9%E4%B9%9E%E8%AE%A8%E8%80%85%23&t=31&band_rank=1&Refer=top)<br />
-2. [波司登平均价格已升至1600元](https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%8F%B8%E7%99%BB%E5%B9%B3%E5%9D%87%E4%BB%B7%E6%A0%BC%E5%B7%B2%E5%8D%87%E8%87%B31600%E5%85%83%23&t=31&band_rank=2&Refer=top)<br />
+1. [波司登平均价格已升至1600元](https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%8F%B8%E7%99%BB%E5%B9%B3%E5%9D%87%E4%BB%B7%E6%A0%BC%E5%B7%B2%E5%8D%87%E8%87%B31600%E5%85%83%23&t=31&band_rank=1&Refer=top)<br />
+2. [曼谷街头现多名中国籍毁容乞讨者](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%B0%B7%E8%A1%97%E5%A4%B4%E7%8E%B0%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%B1%8D%E6%AF%81%E5%AE%B9%E4%B9%9E%E8%AE%A8%E8%80%85%23&t=31&band_rank=2&Refer=top)<br />
 3. [第10批在韩志愿军烈士遗骸装殓仪式举行](https://s.weibo.com/weibo?q=%23%E7%AC%AC10%E6%89%B9%E5%9C%A8%E9%9F%A9%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E9%81%97%E9%AA%B8%E8%A3%85%E6%AE%93%E4%BB%AA%E5%BC%8F%E4%B8%BE%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [梅西 不踢了](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%20%E4%B8%8D%E8%B8%A2%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [危宁 龙凤胎](https://s.weibo.com/weibo?q=%E5%8D%B1%E5%AE%81%20%E9%BE%99%E5%87%A4%E8%83%8E&t=31&band_rank=5&Refer=top)<br />
