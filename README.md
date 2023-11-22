@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 19:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 19:21:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [闲鱼大量封号](https://s.weibo.com/weibo?q=%23%E9%97%B2%E9%B1%BC%E5%A4%A7%E9%87%8F%E5%B0%81%E5%8F%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [更适合00后的锦旗已出现](https://s.weibo.com/weibo?q=%23%E6%9B%B4%E9%80%82%E5%90%8800%E5%90%8E%E7%9A%84%E9%94%A6%E6%97%97%E5%B7%B2%E5%87%BA%E7%8E%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [颜宁当选中国科学院院士](https://s.weibo.com/weibo?q=%23%E9%A2%9C%E5%AE%81%E5%BD%93%E9%80%89%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E9%99%A2%E5%A3%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [周一围的爱设置了仅朱丹可见](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B8%80%E5%9B%B4%E7%9A%84%E7%88%B1%E8%AE%BE%E7%BD%AE%E4%BA%86%E4%BB%85%E6%9C%B1%E4%B8%B9%E5%8F%AF%E8%A7%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [2024考研438万人报名](https://s.weibo.com/weibo?q=%232024%E8%80%83%E7%A0%94438%E4%B8%87%E4%BA%BA%E6%8A%A5%E5%90%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
