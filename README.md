@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 17:56:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [红绿灯的黄](https://s.weibo.com/weibo?q=%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%84&t=31&band_rank=2&Refer=top)<br />
 3. [中欧班列行驶总里程超7亿公里](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%AC%A7%E7%8F%AD%E5%88%97%E8%A1%8C%E9%A9%B6%E6%80%BB%E9%87%8C%E7%A8%8B%E8%B6%857%E4%BA%BF%E5%85%AC%E9%87%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [颜宁当选中国科学院院士](https://s.weibo.com/weibo?q=%23%E9%A2%9C%E5%AE%81%E5%BD%93%E9%80%89%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E9%99%A2%E5%A3%AB%23&t=31&band_rank=4&Refer=top)<br />
-5. [胸位高显胖](https://s.weibo.com/weibo?q=%E8%83%B8%E4%BD%8D%E9%AB%98%E6%98%BE%E8%83%96&t=31&band_rank=5&Refer=top)<br />
-6. [胡先煦 迪丽姐美了吧](https://s.weibo.com/weibo?q=%E8%83%A1%E5%85%88%E7%85%A6%20%E8%BF%AA%E4%B8%BD%E5%A7%90%E7%BE%8E%E4%BA%86%E5%90%A7&t=31&band_rank=6&Refer=top)<br />
-7. [时尚COSMO停刊](https://s.weibo.com/weibo?q=%E6%97%B6%E5%B0%9ACOSMO%E5%81%9C%E5%88%8A&t=31&band_rank=7&Refer=top)<br />
-8. [发烧是免疫系统杀疯了](https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%83%A7%E6%98%AF%E5%85%8D%E7%96%AB%E7%B3%BB%E7%BB%9F%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [南充最低月龄先心病患儿术后出院](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%85%85%E6%9C%80%E4%BD%8E%E6%9C%88%E9%BE%84%E5%85%88%E5%BF%83%E7%97%85%E6%82%A3%E5%84%BF%E6%9C%AF%E5%90%8E%E5%87%BA%E9%99%A2%23&t=31&band_rank=9&Refer=top)<br />
+5. [婴儿高烧抽搐消防车秒变救护车](https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E9%AB%98%E7%83%A7%E6%8A%BD%E6%90%90%E6%B6%88%E9%98%B2%E8%BD%A6%E7%A7%92%E5%8F%98%E6%95%91%E6%8A%A4%E8%BD%A6%23&t=31&band_rank=5&Refer=top)<br />
+6. [落霞与孤鹜齐飞有多美](https://s.weibo.com/weibo?q=%23%E8%90%BD%E9%9C%9E%E4%B8%8E%E5%AD%A4%E9%B9%9C%E9%BD%90%E9%A3%9E%E6%9C%89%E5%A4%9A%E7%BE%8E%23&t=31&band_rank=6&Refer=top)<br />
+7. [南充最低月龄先心病患儿术后出院](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%85%85%E6%9C%80%E4%BD%8E%E6%9C%88%E9%BE%84%E5%85%88%E5%BF%83%E7%97%85%E6%82%A3%E5%84%BF%E6%9C%AF%E5%90%8E%E5%87%BA%E9%99%A2%23&t=31&band_rank=7&Refer=top)<br />
+8. [胸位高显胖](https://s.weibo.com/weibo?q=%E8%83%B8%E4%BD%8D%E9%AB%98%E6%98%BE%E8%83%96&t=31&band_rank=8&Refer=top)<br />
+9. [胡先煦 迪丽姐美了吧](https://s.weibo.com/weibo?q=%E8%83%A1%E5%85%88%E7%85%A6%20%E8%BF%AA%E4%B8%BD%E5%A7%90%E7%BE%8E%E4%BA%86%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
