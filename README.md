@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 19:36:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 19:37:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [五大变四大](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%A4%A7%E5%8F%98%E5%9B%9B%E5%A4%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [婴儿高烧抽搐消防车秒变救护车](https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E9%AB%98%E7%83%A7%E6%8A%BD%E6%90%90%E6%B6%88%E9%98%B2%E8%BD%A6%E7%A7%92%E5%8F%98%E6%95%91%E6%8A%A4%E8%BD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [闲鱼大量封号](https://s.weibo.com/weibo?q=%23%E9%97%B2%E9%B1%BC%E5%A4%A7%E9%87%8F%E5%B0%81%E5%8F%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [颜宁当选中国科学院院士](https://s.weibo.com/weibo?q=%23%E9%A2%9C%E5%AE%81%E5%BD%93%E9%80%89%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E9%99%A2%E5%A3%AB%23&t=31&band_rank=9&Refer=top)<br />
+9. [纸嫁衣鸳鸯债 拍摄过审](https://s.weibo.com/weibo?q=%E7%BA%B8%E5%AB%81%E8%A1%A3%E9%B8%B3%E9%B8%AF%E5%80%BA%20%E6%8B%8D%E6%91%84%E8%BF%87%E5%AE%A1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
