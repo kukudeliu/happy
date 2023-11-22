@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 16:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 16:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [余华 人和人交往尽量少说话](https://s.weibo.com/weibo?q=%E4%BD%99%E5%8D%8E%20%E4%BA%BA%E5%92%8C%E4%BA%BA%E4%BA%A4%E5%BE%80%E5%B0%BD%E9%87%8F%E5%B0%91%E8%AF%B4%E8%AF%9D&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴独自在车上考试](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%8B%AC%E8%87%AA%E5%9C%A8%E8%BD%A6%E4%B8%8A%E8%80%83%E8%AF%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [EDG 韩援](https://s.weibo.com/weibo?q=EDG%20%E9%9F%A9%E6%8F%B4&t=31&band_rank=7&Refer=top)<br />
-8. [孩子病了就让他们歇歇吧](https://s.weibo.com/weibo?q=%E5%AD%A9%E5%AD%90%E7%97%85%E4%BA%86%E5%B0%B1%E8%AE%A9%E4%BB%96%E4%BB%AC%E6%AD%87%E6%AD%87%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
-9. [胡先煦 迪丽姐美了吧](https://s.weibo.com/weibo?q=%E8%83%A1%E5%85%88%E7%85%A6%20%E8%BF%AA%E4%B8%BD%E5%A7%90%E7%BE%8E%E4%BA%86%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
+8. [胡先煦 迪丽姐美了吧](https://s.weibo.com/weibo?q=%E8%83%A1%E5%85%88%E7%85%A6%20%E8%BF%AA%E4%B8%BD%E5%A7%90%E7%BE%8E%E4%BA%86%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
+9. [孩子病了就让他们歇歇吧](https://s.weibo.com/weibo?q=%E5%AD%A9%E5%AD%90%E7%97%85%E4%BA%86%E5%B0%B1%E8%AE%A9%E4%BB%96%E4%BB%AC%E6%AD%87%E6%AD%87%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
