@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 01:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 01:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [退休教师在家辅导外孙女数学走红](https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91%E6%95%99%E5%B8%88%E5%9C%A8%E5%AE%B6%E8%BE%85%E5%AF%BC%E5%A4%96%E5%AD%99%E5%A5%B3%E6%95%B0%E5%AD%A6%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [以爱为营大结局](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A4%A7%E7%BB%93%E5%B1%80&t=31&band_rank=7&Refer=top)<br />
 8. [鸟鸟 北方的city过年很难walk](https://s.weibo.com/weibo?q=%E9%B8%9F%E9%B8%9F%20%E5%8C%97%E6%96%B9%E7%9A%84city%E8%BF%87%E5%B9%B4%E5%BE%88%E9%9A%BEwalk&t=31&band_rank=8&Refer=top)<br />
-9. [养老院不能睡懒觉](https://s.weibo.com/weibo?q=%E5%85%BB%E8%80%81%E9%99%A2%E4%B8%8D%E8%83%BD%E7%9D%A1%E6%87%92%E8%A7%89&t=31&band_rank=9&Refer=top)<br />
+9. [开心消消乐崩了](https://s.weibo.com/weibo?q=%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
