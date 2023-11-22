@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 11:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 11:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [围炉烤橘放倒母子3人](https://s.weibo.com/weibo?q=%23%E5%9B%B4%E7%82%89%E7%83%A4%E6%A9%98%E6%94%BE%E5%80%92%E6%AF%8D%E5%AD%903%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [一闪一闪亮星星定档预告](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F%E5%AE%9A%E6%A1%A3%E9%A2%84%E5%91%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [名侦探学院7官宣定档](https://s.weibo.com/weibo?q=%23%E5%90%8D%E4%BE%A6%E6%8E%A2%E5%AD%A6%E9%99%A27%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵昭仪冷脸爆改冰雨火](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%98%AD%E4%BB%AA%E5%86%B7%E8%84%B8%E7%88%86%E6%94%B9%E5%86%B0%E9%9B%A8%E7%81%AB%23&t=31&band_rank=9&Refer=top)<br />
+9. [安徽省高考状元参加脑力综艺](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E7%9C%81%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%E5%8F%82%E5%8A%A0%E8%84%91%E5%8A%9B%E7%BB%BC%E8%89%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
