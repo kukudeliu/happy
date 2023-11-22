@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 11:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 11:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [波司登平均价格已升至1600元](https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%8F%B8%E7%99%BB%E5%B9%B3%E5%9D%87%E4%BB%B7%E6%A0%BC%E5%B7%B2%E5%8D%87%E8%87%B31600%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [一闪一闪亮星星定档预告](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F%E5%AE%9A%E6%A1%A3%E9%A2%84%E5%91%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [安徽省高考状元参加脑力综艺](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E7%9C%81%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%E5%8F%82%E5%8A%A0%E8%84%91%E5%8A%9B%E7%BB%BC%E8%89%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [名侦探学院7官宣定档](https://s.weibo.com/weibo?q=%23%E5%90%8D%E4%BE%A6%E6%8E%A2%E5%AD%A6%E9%99%A27%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [特斯拉刹车失灵事件核心成员被判道歉](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E6%A0%B8%E5%BF%83%E6%88%90%E5%91%98%E8%A2%AB%E5%88%A4%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
