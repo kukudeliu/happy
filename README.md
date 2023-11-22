@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 03:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 03:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [闲鱼大量封号](https://s.weibo.com/weibo?q=%23%E9%97%B2%E9%B1%BC%E5%A4%A7%E9%87%8F%E5%B0%81%E5%8F%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [以爱为营大结局](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A4%A7%E7%BB%93%E5%B1%80&t=31&band_rank=7&Refer=top)<br />
 8. [退休教师在家辅导外孙女数学走红](https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91%E6%95%99%E5%B8%88%E5%9C%A8%E5%AE%B6%E8%BE%85%E5%AF%BC%E5%A4%96%E5%AD%99%E5%A5%B3%E6%95%B0%E5%AD%A6%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [养老院不能睡懒觉](https://s.weibo.com/weibo?q=%E5%85%BB%E8%80%81%E9%99%A2%E4%B8%8D%E8%83%BD%E7%9D%A1%E6%87%92%E8%A7%89&t=31&band_rank=9&Refer=top)<br />
+9. [朱琳官宣结婚](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%90%B3%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
