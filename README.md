@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 20:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 20:29:01</h4></div>
 
 > 微博  
 
-1. [何猷君 太好了你没病病](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E5%A4%AA%E5%A5%BD%E4%BA%86%E4%BD%A0%E6%B2%A1%E7%97%85%E7%97%85&t=31&band_rank=1&Refer=top)<br />
-2. [以爱为营大结局](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A4%A7%E7%BB%93%E5%B1%80&t=31&band_rank=2&Refer=top)<br />
+1. [以爱为营大结局](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A4%A7%E7%BB%93%E5%B1%80&t=31&band_rank=1&Refer=top)<br />
+2. [何猷君 太好了你没病病](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E5%A4%AA%E5%A5%BD%E4%BA%86%E4%BD%A0%E6%B2%A1%E7%97%85%E7%97%85&t=31&band_rank=2&Refer=top)<br />
 3. [接英雄回家](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [五大变四大](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%A4%A7%E5%8F%98%E5%9B%9B%E5%A4%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [2024考研438万人报名](https://s.weibo.com/weibo?q=%232024%E8%80%83%E7%A0%94438%E4%B8%87%E4%BA%BA%E6%8A%A5%E5%90%8D%23&t=31&band_rank=5&Refer=top)<br />
