@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 08:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 09:00:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [英雄回家](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [17岁姑姑打6个月零工送小侄子金镯](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A7%91%E5%A7%91%E6%89%936%E4%B8%AA%E6%9C%88%E9%9B%B6%E5%B7%A5%E9%80%81%E5%B0%8F%E4%BE%84%E5%AD%90%E9%87%91%E9%95%AF%23&t=31&band_rank=4&Refer=top)<br />
 5. [村集体收租1.6亿安排老人出国游](https://s.weibo.com/weibo?q=%23%E6%9D%91%E9%9B%86%E4%BD%93%E6%94%B6%E7%A7%9F1.6%E4%BA%BF%E5%AE%89%E6%8E%92%E8%80%81%E4%BA%BA%E5%87%BA%E5%9B%BD%E6%B8%B8%23&t=31&band_rank=5&Refer=top)<br />
-6. [民警怒吼十几万不是从天上掉下来的](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E6%80%92%E5%90%BC%E5%8D%81%E5%87%A0%E4%B8%87%E4%B8%8D%E6%98%AF%E4%BB%8E%E5%A4%A9%E4%B8%8A%E6%8E%89%E4%B8%8B%E6%9D%A5%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
-7. [中国首只纯国产克隆小橘猫在青岛诞生](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%8F%AA%E7%BA%AF%E5%9B%BD%E4%BA%A7%E5%85%8B%E9%9A%86%E5%B0%8F%E6%A9%98%E7%8C%AB%E5%9C%A8%E9%9D%92%E5%B2%9B%E8%AF%9E%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [巴西vs阿根廷](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E9%98%BF%E6%A0%B9%E5%BB%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [女生读研两个月诉说氛围像围城](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%AF%BB%E7%A0%94%E4%B8%A4%E4%B8%AA%E6%9C%88%E8%AF%89%E8%AF%B4%E6%B0%9B%E5%9B%B4%E5%83%8F%E5%9B%B4%E5%9F%8E%23&t=31&band_rank=9&Refer=top)<br />
+6. [斗鱼股价已跌去超9成](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E8%82%A1%E4%BB%B7%E5%B7%B2%E8%B7%8C%E5%8E%BB%E8%B6%859%E6%88%90%23&t=31&band_rank=6&Refer=top)<br />
+7. [民警怒吼十几万不是从天上掉下来的](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E6%80%92%E5%90%BC%E5%8D%81%E5%87%A0%E4%B8%87%E4%B8%8D%E6%98%AF%E4%BB%8E%E5%A4%A9%E4%B8%8A%E6%8E%89%E4%B8%8B%E6%9D%A5%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
+8. [中国首只纯国产克隆小橘猫在青岛诞生](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%8F%AA%E7%BA%AF%E5%9B%BD%E4%BA%A7%E5%85%8B%E9%9A%86%E5%B0%8F%E6%A9%98%E7%8C%AB%E5%9C%A8%E9%9D%92%E5%B2%9B%E8%AF%9E%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [巴西vs阿根廷](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E9%98%BF%E6%A0%B9%E5%BB%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
