@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 23:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 23:20:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [以爱为营 婚礼](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E5%A9%9A%E7%A4%BC&t=31&band_rank=2&Refer=top)<br />
 3. [对风雪中的环卫工人说声谢谢](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E9%A3%8E%E9%9B%AA%E4%B8%AD%E7%9A%84%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%E8%AF%B4%E5%A3%B0%E8%B0%A2%E8%B0%A2%23&t=31&band_rank=3&Refer=top)<br />
 4. [文春曝羽生结弦离婚原因](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%98%A5%E6%9B%9D%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E7%A6%BB%E5%A9%9A%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=4&Refer=top)<br />
-5. [新闻女王 文慧心别骂了](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E6%96%87%E6%85%A7%E5%BF%83%E5%88%AB%E9%AA%82%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
+5. [0713 没听说](https://s.weibo.com/weibo?q=0713%20%E6%B2%A1%E5%90%AC%E8%AF%B4&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴 我舍不得让她干累的活](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%88%91%E8%88%8D%E4%B8%8D%E5%BE%97%E8%AE%A9%E5%A5%B9%E5%B9%B2%E7%B4%AF%E7%9A%84%E6%B4%BB&t=31&band_rank=6&Refer=top)<br />
-7. [0713 没听说](https://s.weibo.com/weibo?q=0713%20%E6%B2%A1%E5%90%AC%E8%AF%B4&t=31&band_rank=7&Refer=top)<br />
+7. [新闻女王 文慧心别骂了](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E6%96%87%E6%85%A7%E5%BF%83%E5%88%AB%E9%AA%82%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [以爱为营大结局](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A4%A7%E7%BB%93%E5%B1%80&t=31&band_rank=8&Refer=top)<br />
 9. [24岁学英语 老师4岁了](https://s.weibo.com/weibo?q=24%E5%B2%81%E5%AD%A6%E8%8B%B1%E8%AF%AD%20%E8%80%81%E5%B8%884%E5%B2%81%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
