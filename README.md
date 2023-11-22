@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 11:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 11:18:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [运-20起飞 接英雄回家](https://www.baidu.com/s?wd=%E8%BF%90-20%E8%B5%B7%E9%A3%9E+%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国产羽绒服卖到7000元](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8D%96%E5%88%B07000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [以色列批准“人质换停火”协议](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%89%B9%E5%87%86%E2%80%9C%E4%BA%BA%E8%B4%A8%E6%8D%A2%E5%81%9C%E7%81%AB%E2%80%9D%E5%8D%8F%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [公司强制加班到晚上10点请假算旷工](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E5%BC%BA%E5%88%B6%E5%8A%A0%E7%8F%AD%E5%88%B0%E6%99%9A%E4%B8%8A10%E7%82%B9%E8%AF%B7%E5%81%87%E7%AE%97%E6%97%B7%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网购超长预售期引发吐槽](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD%E8%B6%85%E9%95%BF%E9%A2%84%E5%94%AE%E6%9C%9F%E5%BC%95%E5%8F%91%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网购超长预售期引发吐槽](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD%E8%B6%85%E9%95%BF%E9%A2%84%E5%94%AE%E6%9C%9F%E5%BC%95%E5%8F%91%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [儿童医院患儿激增护士累晕倒](https://www.baidu.com/s?wd=%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2%E6%82%A3%E5%84%BF%E6%BF%80%E5%A2%9E%E6%8A%A4%E5%A3%AB%E7%B4%AF%E6%99%95%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东移动下架4G套餐消息不实](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8%E4%B8%8B%E6%9E%B64G%E5%A5%97%E9%A4%90%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [运-20起飞 接英雄回家](https://www.baidu.com/s?wd=%E8%BF%90-20%E8%B5%B7%E9%A3%9E+%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国产羽绒服卖到7000元](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8D%96%E5%88%B07000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [以色列批准“人质换停火”协议](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%89%B9%E5%87%86%E2%80%9C%E4%BA%BA%E8%B4%A8%E6%8D%A2%E5%81%9C%E7%81%AB%E2%80%9D%E5%8D%8F%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [公司强制加班到晚上10点请假算旷工](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E5%BC%BA%E5%88%B6%E5%8A%A0%E7%8F%AD%E5%88%B0%E6%99%9A%E4%B8%8A10%E7%82%B9%E8%AF%B7%E5%81%87%E7%AE%97%E6%97%B7%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网购超长预售期引发吐槽](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD%E8%B6%85%E9%95%BF%E9%A2%84%E5%94%AE%E6%9C%9F%E5%BC%95%E5%8F%91%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网购超长预售期引发吐槽](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD%E8%B6%85%E9%95%BF%E9%A2%84%E5%94%AE%E6%9C%9F%E5%BC%95%E5%8F%91%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [儿童医院患儿激增护士累晕倒](https://www.baidu.com/s?wd=%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2%E6%82%A3%E5%84%BF%E6%BF%80%E5%A2%9E%E6%8A%A4%E5%A3%AB%E7%B4%AF%E6%99%95%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东移动下架4G套餐消息不实](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8%E4%B8%8B%E6%9E%B64G%E5%A5%97%E9%A4%90%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
