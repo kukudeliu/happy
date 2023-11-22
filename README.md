@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 19:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 19:22:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [小杨哥徒弟被消协列入低俗带货案例](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E8%A2%AB%E6%B6%88%E5%8D%8F%E5%88%97%E5%85%A5%E4%BD%8E%E4%BF%97%E5%B8%A6%E8%B4%A7%E6%A1%88%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张一鸣或成为中国第一个世界首富](https://www.baidu.com/s?wd=%E5%BC%A0%E4%B8%80%E9%B8%A3%E6%88%96%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%96%E7%95%8C%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [歌手演出被喷火装置射中裤裆](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E6%BC%94%E5%87%BA%E8%A2%AB%E5%96%B7%E7%81%AB%E8%A3%85%E7%BD%AE%E5%B0%84%E4%B8%AD%E8%A3%A4%E8%A3%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [月薪2万招人啃鸡爪 2000人投简历](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA2%E4%B8%87%E6%8B%9B%E4%BA%BA%E5%95%83%E9%B8%A1%E7%88%AA+2000%E4%BA%BA%E6%8A%95%E7%AE%80%E5%8E%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [体育由副科变主科？教育部回应](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E7%94%B1%E5%89%AF%E7%A7%91%E5%8F%98%E4%B8%BB%E7%A7%91%EF%BC%9F%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [筋膜枪可以治痔疮？](https://www.baidu.com/s?wd=%E7%AD%8B%E8%86%9C%E6%9E%AA%E5%8F%AF%E4%BB%A5%E6%B2%BB%E7%97%94%E7%96%AE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [小杨哥徒弟被消协列入低俗带货案例](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E8%A2%AB%E6%B6%88%E5%8D%8F%E5%88%97%E5%85%A5%E4%BD%8E%E4%BF%97%E5%B8%A6%E8%B4%A7%E6%A1%88%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张一鸣或成为中国第一个世界首富](https://www.baidu.com/s?wd=%E5%BC%A0%E4%B8%80%E9%B8%A3%E6%88%96%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%96%E7%95%8C%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [歌手演出被喷火装置射中裤裆](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E6%BC%94%E5%87%BA%E8%A2%AB%E5%96%B7%E7%81%AB%E8%A3%85%E7%BD%AE%E5%B0%84%E4%B8%AD%E8%A3%A4%E8%A3%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [月薪2万招人啃鸡爪 2000人投简历](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA2%E4%B8%87%E6%8B%9B%E4%BA%BA%E5%95%83%E9%B8%A1%E7%88%AA+2000%E4%BA%BA%E6%8A%95%E7%AE%80%E5%8E%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [体育由副科变主科？教育部回应](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E7%94%B1%E5%89%AF%E7%A7%91%E5%8F%98%E4%B8%BB%E7%A7%91%EF%BC%9F%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [筋膜枪可以治痔疮？](https://www.baidu.com/s?wd=%E7%AD%8B%E8%86%9C%E6%9E%AA%E5%8F%AF%E4%BB%A5%E6%B2%BB%E7%97%94%E7%96%AE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
