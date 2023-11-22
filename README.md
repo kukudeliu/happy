@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 21:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 21:49:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [90后公务员没过试用期就落马](https://www.baidu.com/s?wd=90%E5%90%8E%E5%85%AC%E5%8A%A1%E5%91%98%E6%B2%A1%E8%BF%87%E8%AF%95%E7%94%A8%E6%9C%9F%E5%B0%B1%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国国际物流运行持续向好](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E7%89%A9%E6%B5%81%E8%BF%90%E8%A1%8C%E6%8C%81%E7%BB%AD%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [最强寒潮发货 多地将迎蹦极式降温](https://www.baidu.com/s?wd=%E6%9C%80%E5%BC%BA%E5%AF%92%E6%BD%AE%E5%8F%91%E8%B4%A7+%E5%A4%9A%E5%9C%B0%E5%B0%86%E8%BF%8E%E8%B9%A6%E6%9E%81%E5%BC%8F%E9%99%8D%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [张一鸣或成为中国第一个世界首富](https://www.baidu.com/s?wd=%E5%BC%A0%E4%B8%80%E9%B8%A3%E6%88%96%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%96%E7%95%8C%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [月薪2万招人啃鸡爪 2000人投简历](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA2%E4%B8%87%E6%8B%9B%E4%BA%BA%E5%95%83%E9%B8%A1%E7%88%AA+2000%E4%BA%BA%E6%8A%95%E7%AE%80%E5%8E%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [斗鱼股价已跌去超9成](https://www.baidu.com/s?wd=%E6%96%97%E9%B1%BC%E8%82%A1%E4%BB%B7%E5%B7%B2%E8%B7%8C%E5%8E%BB%E8%B6%859%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [缅甸辟谣仰光开始抓壮丁](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E8%BE%9F%E8%B0%A3%E4%BB%B0%E5%85%89%E5%BC%80%E5%A7%8B%E6%8A%93%E5%A3%AE%E4%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张一鸣或成为中国第一个世界首富](https://www.baidu.com/s?wd=%E5%BC%A0%E4%B8%80%E9%B8%A3%E6%88%96%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%96%E7%95%8C%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [泰总理：中国乞讨者与免签政策无关](https://www.baidu.com/s?wd=%E6%B3%B0%E6%80%BB%E7%90%86%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%B9%9E%E8%AE%A8%E8%80%85%E4%B8%8E%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%E6%97%A0%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [自测支原体阳性就是感染了？](https://www.baidu.com/s?wd=%E8%87%AA%E6%B5%8B%E6%94%AF%E5%8E%9F%E4%BD%93%E9%98%B3%E6%80%A7%E5%B0%B1%E6%98%AF%E6%84%9F%E6%9F%93%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [90后公务员没过试用期就落马](https://www.baidu.com/s?wd=90%E5%90%8E%E5%85%AC%E5%8A%A1%E5%91%98%E6%B2%A1%E8%BF%87%E8%AF%95%E7%94%A8%E6%9C%9F%E5%B0%B1%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国国际物流运行持续向好](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E7%89%A9%E6%B5%81%E8%BF%90%E8%A1%8C%E6%8C%81%E7%BB%AD%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [最强寒潮发货 多地将迎蹦极式降温](https://www.baidu.com/s?wd=%E6%9C%80%E5%BC%BA%E5%AF%92%E6%BD%AE%E5%8F%91%E8%B4%A7+%E5%A4%9A%E5%9C%B0%E5%B0%86%E8%BF%8E%E8%B9%A6%E6%9E%81%E5%BC%8F%E9%99%8D%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [张一鸣或成为中国第一个世界首富](https://www.baidu.com/s?wd=%E5%BC%A0%E4%B8%80%E9%B8%A3%E6%88%96%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%96%E7%95%8C%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [月薪2万招人啃鸡爪 2000人投简历](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA2%E4%B8%87%E6%8B%9B%E4%BA%BA%E5%95%83%E9%B8%A1%E7%88%AA+2000%E4%BA%BA%E6%8A%95%E7%AE%80%E5%8E%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [斗鱼股价已跌去超9成](https://www.baidu.com/s?wd=%E6%96%97%E9%B1%BC%E8%82%A1%E4%BB%B7%E5%B7%B2%E8%B7%8C%E5%8E%BB%E8%B6%859%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [缅甸辟谣仰光开始抓壮丁](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E8%BE%9F%E8%B0%A3%E4%BB%B0%E5%85%89%E5%BC%80%E5%A7%8B%E6%8A%93%E5%A3%AE%E4%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张一鸣或成为中国第一个世界首富](https://www.baidu.com/s?wd=%E5%BC%A0%E4%B8%80%E9%B8%A3%E6%88%96%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%96%E7%95%8C%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [泰总理：中国乞讨者与免签政策无关](https://www.baidu.com/s?wd=%E6%B3%B0%E6%80%BB%E7%90%86%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%B9%9E%E8%AE%A8%E8%80%85%E4%B8%8E%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%E6%97%A0%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [自测支原体阳性就是感染了？](https://www.baidu.com/s?wd=%E8%87%AA%E6%B5%8B%E6%94%AF%E5%8E%9F%E4%BD%93%E9%98%B3%E6%80%A7%E5%B0%B1%E6%98%AF%E6%84%9F%E6%9F%93%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
