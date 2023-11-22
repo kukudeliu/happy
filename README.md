@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 12:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 12:23:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [国产羽绒服卖到7000元](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8D%96%E5%88%B07000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特斯拉刹车失灵事件成员被判道歉](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E6%88%90%E5%91%98%E8%A2%AB%E5%88%A4%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小伙被AI换脸的“表哥”骗走30万](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%A2%ABAI%E6%8D%A2%E8%84%B8%E7%9A%84%E2%80%9C%E8%A1%A8%E5%93%A5%E2%80%9D%E9%AA%97%E8%B5%B030%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孙兴慜等球员在赛后连夜返回韩国](https://www.baidu.com/s?wd=%E5%AD%99%E5%85%B4%E6%85%9C%E7%AD%89%E7%90%83%E5%91%98%E5%9C%A8%E8%B5%9B%E5%90%8E%E8%BF%9E%E5%A4%9C%E8%BF%94%E5%9B%9E%E9%9F%A9%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [缅甸老街仍有两三万华人滞留](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E8%80%81%E8%A1%97%E4%BB%8D%E6%9C%89%E4%B8%A4%E4%B8%89%E4%B8%87%E5%8D%8E%E4%BA%BA%E6%BB%9E%E7%95%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东移动下架4G套餐消息不实](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8%E4%B8%8B%E6%9E%B64G%E5%A5%97%E9%A4%90%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [国产羽绒服卖到7000元](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8D%96%E5%88%B07000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特斯拉刹车失灵事件成员被判道歉](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E6%88%90%E5%91%98%E8%A2%AB%E5%88%A4%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小伙被AI换脸的“表哥”骗走30万](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%A2%ABAI%E6%8D%A2%E8%84%B8%E7%9A%84%E2%80%9C%E8%A1%A8%E5%93%A5%E2%80%9D%E9%AA%97%E8%B5%B030%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孙兴慜等球员在赛后连夜返回韩国](https://www.baidu.com/s?wd=%E5%AD%99%E5%85%B4%E6%85%9C%E7%AD%89%E7%90%83%E5%91%98%E5%9C%A8%E8%B5%9B%E5%90%8E%E8%BF%9E%E5%A4%9C%E8%BF%94%E5%9B%9E%E9%9F%A9%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [缅甸老街仍有两三万华人滞留](https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E8%80%81%E8%A1%97%E4%BB%8D%E6%9C%89%E4%B8%A4%E4%B8%89%E4%B8%87%E5%8D%8E%E4%BA%BA%E6%BB%9E%E7%95%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广东移动下架4G套餐消息不实](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8%E4%B8%8B%E6%9E%B64G%E5%A5%97%E9%A4%90%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
