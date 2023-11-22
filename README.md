@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 04:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 04:34:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [以爱为营 婚礼](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E5%A9%9A%E7%A4%BC&t=31&band_rank=5&Refer=top)<br />
 6. [退休教师在家辅导外孙女数学走红](https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91%E6%95%99%E5%B8%88%E5%9C%A8%E5%AE%B6%E8%BE%85%E5%AF%BC%E5%A4%96%E5%AD%99%E5%A5%B3%E6%95%B0%E5%AD%A6%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [张雪峰成功预言考研人数下降](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%88%90%E5%8A%9F%E9%A2%84%E8%A8%80%E8%80%83%E7%A0%94%E4%BA%BA%E6%95%B0%E4%B8%8B%E9%99%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [朱琳官宣结婚](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%90%B3%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [以爱为营](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5&t=31&band_rank=9&Refer=top)<br />
+8. [以爱为营](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5&t=31&band_rank=8&Refer=top)<br />
+9. [朱琳官宣结婚](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%90%B3%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [90后公务员没过试用期就落马](https://www.baidu.com/s?wd=90%E5%90%8E%E5%85%AC%E5%8A%A1%E5%91%98%E6%B2%A1%E8%BF%87%E8%AF%95%E7%94%A8%E6%9C%9F%E5%B0%B1%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [朱琳官宣结婚](https://www.baidu.com/s?wd=%E6%9C%B1%E7%90%B3%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [围炉烤橘放倒母子3人](https://www.baidu.com/s?wd=%E5%9B%B4%E7%82%89%E7%83%A4%E6%A9%98%E6%94%BE%E5%80%92%E6%AF%8D%E5%AD%903%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [香港工地女工日赚2千](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%B7%A5%E5%9C%B0%E5%A5%B3%E5%B7%A5%E6%97%A5%E8%B5%9A2%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [歌手演出被喷火装置射中裤裆](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E6%BC%94%E5%87%BA%E8%A2%AB%E5%96%B7%E7%81%AB%E8%A3%85%E7%BD%AE%E5%B0%84%E4%B8%AD%E8%A3%A4%E8%A3%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [自测支原体阳性就是感染了？](https://www.baidu.com/s?wd=%E8%87%AA%E6%B5%8B%E6%94%AF%E5%8E%9F%E4%BD%93%E9%98%B3%E6%80%A7%E5%B0%B1%E6%98%AF%E6%84%9F%E6%9F%93%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [90后公务员没过试用期就落马](https://www.baidu.com/s?wd=90%E5%90%8E%E5%85%AC%E5%8A%A1%E5%91%98%E6%B2%A1%E8%BF%87%E8%AF%95%E7%94%A8%E6%9C%9F%E5%B0%B1%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [朱琳官宣结婚](https://www.baidu.com/s?wd=%E6%9C%B1%E7%90%B3%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [围炉烤橘放倒母子3人](https://www.baidu.com/s?wd=%E5%9B%B4%E7%82%89%E7%83%A4%E6%A9%98%E6%94%BE%E5%80%92%E6%AF%8D%E5%AD%903%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [香港工地女工日赚2千](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%B7%A5%E5%9C%B0%E5%A5%B3%E5%B7%A5%E6%97%A5%E8%B5%9A2%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [歌手演出被喷火装置射中裤裆](https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E6%BC%94%E5%87%BA%E8%A2%AB%E5%96%B7%E7%81%AB%E8%A3%85%E7%BD%AE%E5%B0%84%E4%B8%AD%E8%A3%A4%E8%A3%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [自测支原体阳性就是感染了？](https://www.baidu.com/s?wd=%E8%87%AA%E6%B5%8B%E6%94%AF%E5%8E%9F%E4%BD%93%E9%98%B3%E6%80%A7%E5%B0%B1%E6%98%AF%E6%84%9F%E6%9F%93%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
