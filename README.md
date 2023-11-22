@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 15:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 16:00:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [小杨哥徒弟被消协列入低俗带货案例](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E8%A2%AB%E6%B6%88%E5%8D%8F%E5%88%97%E5%85%A5%E4%BD%8E%E4%BF%97%E5%B8%A6%E8%B4%A7%E6%A1%88%E4%BE%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [外婆称羽生结弦现在吃不下饭](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%A9%86%E7%A7%B0%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E7%8E%B0%E5%9C%A8%E5%90%83%E4%B8%8D%E4%B8%8B%E9%A5%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴独自在车上考试](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%8B%AC%E8%87%AA%E5%9C%A8%E8%BD%A6%E4%B8%8A%E8%80%83%E8%AF%95%23&t=31&band_rank=6&Refer=top)<br />
-7. [王睡睡脱下校服没有回头](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9D%A1%E7%9D%A1%E8%84%B1%E4%B8%8B%E6%A0%A1%E6%9C%8D%E6%B2%A1%E6%9C%89%E5%9B%9E%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [孩子病了就让他们歇歇吧](https://s.weibo.com/weibo?q=%E5%AD%A9%E5%AD%90%E7%97%85%E4%BA%86%E5%B0%B1%E8%AE%A9%E4%BB%96%E4%BB%AC%E6%AD%87%E6%AD%87%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
+7. [孩子病了就让他们歇歇吧](https://s.weibo.com/weibo?q=%E5%AD%A9%E5%AD%90%E7%97%85%E4%BA%86%E5%B0%B1%E8%AE%A9%E4%BB%96%E4%BB%AC%E6%AD%87%E6%AD%87%E5%90%A7&t=31&band_rank=7&Refer=top)<br />
+8. [王睡睡脱下校服没有回头](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9D%A1%E7%9D%A1%E8%84%B1%E4%B8%8B%E6%A0%A1%E6%9C%8D%E6%B2%A1%E6%9C%89%E5%9B%9E%E5%A4%B4%23&t=31&band_rank=8&Refer=top)<br />
 9. [余华 人和人交往尽量少说话](https://s.weibo.com/weibo?q=%E4%BD%99%E5%8D%8E%20%E4%BA%BA%E5%92%8C%E4%BA%BA%E4%BA%A4%E5%BE%80%E5%B0%BD%E9%87%8F%E5%B0%91%E8%AF%B4%E8%AF%9D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
