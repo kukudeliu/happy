@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 22:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 22:28:01</h4></div>
 
 > 微博  
 
 1. [张雪峰成功预言考研人数下降](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%88%90%E5%8A%9F%E9%A2%84%E8%A8%80%E8%80%83%E7%A0%94%E4%BA%BA%E6%95%B0%E4%B8%8B%E9%99%8D%23&t=31&band_rank=1&Refer=top)<br />
 2. [以爱为营大结局](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A4%A7%E7%BB%93%E5%B1%80&t=31&band_rank=2&Refer=top)<br />
 3. [对风雪中的环卫工人说声谢谢](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E9%A3%8E%E9%9B%AA%E4%B8%AD%E7%9A%84%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%E8%AF%B4%E5%A3%B0%E8%B0%A2%E8%B0%A2%23&t=31&band_rank=3&Refer=top)<br />
-4. [男子出轨被发现后开车顶撞妻女](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%87%BA%E8%BD%A8%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%90%8E%E5%BC%80%E8%BD%A6%E9%A1%B6%E6%92%9E%E5%A6%BB%E5%A5%B3%23&t=31&band_rank=4&Refer=top)<br />
-5. [迪丽热巴 我舍不得让她干累的活](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%88%91%E8%88%8D%E4%B8%8D%E5%BE%97%E8%AE%A9%E5%A5%B9%E5%B9%B2%E7%B4%AF%E7%9A%84%E6%B4%BB&t=31&band_rank=5&Refer=top)<br />
-6. [以爱为营 婚礼](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E5%A9%9A%E7%A4%BC&t=31&band_rank=6&Refer=top)<br />
+4. [以爱为营 婚礼](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E5%A9%9A%E7%A4%BC&t=31&band_rank=4&Refer=top)<br />
+5. [男子出轨被发现后开车顶撞妻女](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%87%BA%E8%BD%A8%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%90%8E%E5%BC%80%E8%BD%A6%E9%A1%B6%E6%92%9E%E5%A6%BB%E5%A5%B3%23&t=31&band_rank=5&Refer=top)<br />
+6. [迪丽热巴 我舍不得让她干累的活](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%88%91%E8%88%8D%E4%B8%8D%E5%BE%97%E8%AE%A9%E5%A5%B9%E5%B9%B2%E7%B4%AF%E7%9A%84%E6%B4%BB&t=31&band_rank=6&Refer=top)<br />
 7. [朱琳官宣结婚](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%90%B3%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [24岁学英语 老师4岁了](https://s.weibo.com/weibo?q=24%E5%B2%81%E5%AD%A6%E8%8B%B1%E8%AF%AD%20%E8%80%81%E5%B8%884%E5%B2%81%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [为什么没有Kim](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89Kim&t=31&band_rank=9&Refer=top)<br />
