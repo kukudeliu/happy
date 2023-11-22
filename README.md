@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 09:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 09:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [17岁姑姑打6个月零工送小侄子金镯](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A7%91%E5%A7%91%E6%89%936%E4%B8%AA%E6%9C%88%E9%9B%B6%E5%B7%A5%E9%80%81%E5%B0%8F%E4%BE%84%E5%AD%90%E9%87%91%E9%95%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [斗鱼股价已跌去超9成](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E8%82%A1%E4%BB%B7%E5%B7%B2%E8%B7%8C%E5%8E%BB%E8%B6%859%E6%88%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [村集体收租1.6亿安排老人出国游](https://s.weibo.com/weibo?q=%23%E6%9D%91%E9%9B%86%E4%BD%93%E6%94%B6%E7%A7%9F1.6%E4%BA%BF%E5%AE%89%E6%8E%92%E8%80%81%E4%BA%BA%E5%87%BA%E5%9B%BD%E6%B8%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [TFBOYS十周年演唱会登阿里财报](https://s.weibo.com/weibo?q=%23TFBOYS%E5%8D%81%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E7%99%BB%E9%98%BF%E9%87%8C%E8%B4%A2%E6%8A%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [我有能力考研但没能力读研](https://s.weibo.com/weibo?q=%E6%88%91%E6%9C%89%E8%83%BD%E5%8A%9B%E8%80%83%E7%A0%94%E4%BD%86%E6%B2%A1%E8%83%BD%E5%8A%9B%E8%AF%BB%E7%A0%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
