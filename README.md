@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 22:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 22:57:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [以爱为营大结局](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A4%A7%E7%BB%93%E5%B1%80&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴 我舍不得让她干累的活](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%88%91%E8%88%8D%E4%B8%8D%E5%BE%97%E8%AE%A9%E5%A5%B9%E5%B9%B2%E7%B4%AF%E7%9A%84%E6%B4%BB&t=31&band_rank=6&Refer=top)<br />
 7. [24岁学英语 老师4岁了](https://s.weibo.com/weibo?q=24%E5%B2%81%E5%AD%A6%E8%8B%B1%E8%AF%AD%20%E8%80%81%E5%B8%884%E5%B2%81%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [英雄联盟服务器](https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%9C%8D%E5%8A%A1%E5%99%A8&t=31&band_rank=8&Refer=top)<br />
-9. [为什么没有Kim](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89Kim&t=31&band_rank=9&Refer=top)<br />
+8. [文春曝羽生结弦离婚原因](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%98%A5%E6%9B%9D%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E7%A6%BB%E5%A9%9A%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=8&Refer=top)<br />
+9. [英雄联盟服务器](https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%9C%8D%E5%8A%A1%E5%99%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
