@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 13:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-22 13:40:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [斗鱼涉赌直播间年流水1.77亿](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E6%B6%89%E8%B5%8C%E7%9B%B4%E6%92%AD%E9%97%B4%E5%B9%B4%E6%B5%81%E6%B0%B41.77%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴当导游](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BD%93%E5%AF%BC%E6%B8%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [梅西 不踢了](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%20%E4%B8%8D%E8%B8%A2%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [围炉烤橘放倒母子3人](https://s.weibo.com/weibo?q=%23%E5%9B%B4%E7%82%89%E7%83%A4%E6%A9%98%E6%94%BE%E5%80%92%E6%AF%8D%E5%AD%903%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [直播间卖爆的羽绒服都是谁在买](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E7%88%86%E7%9A%84%E7%BE%BD%E7%BB%92%E6%9C%8D%E9%83%BD%E6%98%AF%E8%B0%81%E5%9C%A8%E4%B9%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
