@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 03:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 03:54:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [刘德华父亲逝世](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E7%88%B6%E4%BA%B2%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数据折射经济“热度”](https://www.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E6%8A%98%E5%B0%84%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%83%AD%E5%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州中考指定跳绳一根卖78元？](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%AD%E8%80%83%E6%8C%87%E5%AE%9A%E8%B7%B3%E7%BB%B3%E4%B8%80%E6%A0%B9%E5%8D%9678%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [80余只羊田间中毒死亡 警方发悬赏](https://www.baidu.com/s?wd=80%E4%BD%99%E5%8F%AA%E7%BE%8A%E7%94%B0%E9%97%B4%E4%B8%AD%E6%AF%92%E6%AD%BB%E4%BA%A1+%E8%AD%A6%E6%96%B9%E5%8F%91%E6%82%AC%E8%B5%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子疑心情差当街扇乞讨老人耳光](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%96%91%E5%BF%83%E6%83%85%E5%B7%AE%E5%BD%93%E8%A1%97%E6%89%87%E4%B9%9E%E8%AE%A8%E8%80%81%E4%BA%BA%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [北京一住户家中房顶能吸住扳手](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E4%BD%8F%E6%88%B7%E5%AE%B6%E4%B8%AD%E6%88%BF%E9%A1%B6%E8%83%BD%E5%90%B8%E4%BD%8F%E6%89%B3%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [80余只羊田间中毒死亡 警方发悬赏](https://www.baidu.com/s?wd=80%E4%BD%99%E5%8F%AA%E7%BE%8A%E7%94%B0%E9%97%B4%E4%B8%AD%E6%AF%92%E6%AD%BB%E4%BA%A1+%E8%AD%A6%E6%96%B9%E5%8F%91%E6%82%AC%E8%B5%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杜旭东新剧被AI换脸](https://www.baidu.com/s?wd=%E6%9D%9C%E6%97%AD%E4%B8%9C%E6%96%B0%E5%89%A7%E8%A2%ABAI%E6%8D%A2%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [刘德华父亲逝世](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E7%88%B6%E4%BA%B2%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数据折射经济“热度”](https://www.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E6%8A%98%E5%B0%84%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%83%AD%E5%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州中考指定跳绳一根卖78元？](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%AD%E8%80%83%E6%8C%87%E5%AE%9A%E8%B7%B3%E7%BB%B3%E4%B8%80%E6%A0%B9%E5%8D%9678%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [80余只羊田间中毒死亡 警方发悬赏](https://www.baidu.com/s?wd=80%E4%BD%99%E5%8F%AA%E7%BE%8A%E7%94%B0%E9%97%B4%E4%B8%AD%E6%AF%92%E6%AD%BB%E4%BA%A1+%E8%AD%A6%E6%96%B9%E5%8F%91%E6%82%AC%E8%B5%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子疑心情差当街扇乞讨老人耳光](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%96%91%E5%BF%83%E6%83%85%E5%B7%AE%E5%BD%93%E8%A1%97%E6%89%87%E4%B9%9E%E8%AE%A8%E8%80%81%E4%BA%BA%E8%80%B3%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [北京一住户家中房顶能吸住扳手](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E4%BD%8F%E6%88%B7%E5%AE%B6%E4%B8%AD%E6%88%BF%E9%A1%B6%E8%83%BD%E5%90%B8%E4%BD%8F%E6%89%B3%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [80余只羊田间中毒死亡 警方发悬赏](https://www.baidu.com/s?wd=80%E4%BD%99%E5%8F%AA%E7%BE%8A%E7%94%B0%E9%97%B4%E4%B8%AD%E6%AF%92%E6%AD%BB%E4%BA%A1+%E8%AD%A6%E6%96%B9%E5%8F%91%E6%82%AC%E8%B5%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杜旭东新剧被AI换脸](https://www.baidu.com/s?wd=%E6%9D%9C%E6%97%AD%E4%B8%9C%E6%96%B0%E5%89%A7%E8%A2%ABAI%E6%8D%A2%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
