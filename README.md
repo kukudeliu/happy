@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 00:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 00:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [娜扎秒了](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%A7%92%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [刘德华父亲逝世](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E7%88%B6%E4%BA%B2%E9%80%9D%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [全红婵粉丝怒斥裁判压分](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%B2%89%E4%B8%9D%E6%80%92%E6%96%A5%E8%A3%81%E5%88%A4%E5%8E%8B%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [Doinb直播](https://s.weibo.com/weibo?q=Doinb%E7%9B%B4%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
+9. [成都警方通报斗鱼CEO陈少杰案](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%96%97%E9%B1%BCCEO%E9%99%88%E5%B0%91%E6%9D%B0%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
