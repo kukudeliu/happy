@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 18:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 18:48:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [林肯车主因故障维权被客服嘲讽](https://www.baidu.com/s?wd=%E6%9E%97%E8%82%AF%E8%BD%A6%E4%B8%BB%E5%9B%A0%E6%95%85%E9%9A%9C%E7%BB%B4%E6%9D%83%E8%A2%AB%E5%AE%A2%E6%9C%8D%E5%98%B2%E8%AE%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [不缴暖气费全靠蹭邻居?热力公司回应](https://www.baidu.com/s?wd=%E4%B8%8D%E7%BC%B4%E6%9A%96%E6%B0%94%E8%B4%B9%E5%85%A8%E9%9D%A0%E8%B9%AD%E9%82%BB%E5%B1%85%3F%E7%83%AD%E5%8A%9B%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杜旭东新剧被AI换脸](https://www.baidu.com/s?wd=%E6%9D%9C%E6%97%AD%E4%B8%9C%E6%96%B0%E5%89%A7%E8%A2%ABAI%E6%8D%A2%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [送外卖要付费充会员？](https://www.baidu.com/s?wd=%E9%80%81%E5%A4%96%E5%8D%96%E8%A6%81%E4%BB%98%E8%B4%B9%E5%85%85%E4%BC%9A%E5%91%98%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [济南辟谣轿车坠桥砸死快递小哥](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E8%BE%9F%E8%B0%A3%E8%BD%BF%E8%BD%A6%E5%9D%A0%E6%A1%A5%E7%A0%B8%E6%AD%BB%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [林肯车主因故障维权被客服嘲讽](https://www.baidu.com/s?wd=%E6%9E%97%E8%82%AF%E8%BD%A6%E4%B8%BB%E5%9B%A0%E6%95%85%E9%9A%9C%E7%BB%B4%E6%9D%83%E8%A2%AB%E5%AE%A2%E6%9C%8D%E5%98%B2%E8%AE%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [不缴暖气费全靠蹭邻居?热力公司回应](https://www.baidu.com/s?wd=%E4%B8%8D%E7%BC%B4%E6%9A%96%E6%B0%94%E8%B4%B9%E5%85%A8%E9%9D%A0%E8%B9%AD%E9%82%BB%E5%B1%85%3F%E7%83%AD%E5%8A%9B%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杜旭东新剧被AI换脸](https://www.baidu.com/s?wd=%E6%9D%9C%E6%97%AD%E4%B8%9C%E6%96%B0%E5%89%A7%E8%A2%ABAI%E6%8D%A2%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [送外卖要付费充会员？](https://www.baidu.com/s?wd=%E9%80%81%E5%A4%96%E5%8D%96%E8%A6%81%E4%BB%98%E8%B4%B9%E5%85%85%E4%BC%9A%E5%91%98%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [济南辟谣轿车坠桥砸死快递小哥](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E8%BE%9F%E8%B0%A3%E8%BD%BF%E8%BD%A6%E5%9D%A0%E6%A1%A5%E7%A0%B8%E6%AD%BB%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
