@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 20:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 20:14:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [禁止居民私熏腊肉 真能站得住脚？](https://www.baidu.com/s?wd=%E7%A6%81%E6%AD%A2%E5%B1%85%E6%B0%91%E7%A7%81%E7%86%8F%E8%85%8A%E8%82%89+%E7%9C%9F%E8%83%BD%E7%AB%99%E5%BE%97%E4%BD%8F%E8%84%9A%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多彩旅游模式拉动新消费](https://www.baidu.com/s?wd=%E5%A4%9A%E5%BD%A9%E6%97%85%E6%B8%B8%E6%A8%A1%E5%BC%8F%E6%8B%89%E5%8A%A8%E6%96%B0%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [日本排放核污染水已3个月 中方回应](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8E%92%E6%94%BE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%B7%B23%E4%B8%AA%E6%9C%88+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [印度41名工人困喜马拉雅隧道](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A641%E5%90%8D%E5%B7%A5%E4%BA%BA%E5%9B%B0%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E9%9A%A7%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杜旭东新剧被AI换脸](https://www.baidu.com/s?wd=%E6%9D%9C%E6%97%AD%E4%B8%9C%E6%96%B0%E5%89%A7%E8%A2%ABAI%E6%8D%A2%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [包子铺卖豆腐脑被罚15000合理吗](https://www.baidu.com/s?wd=%E5%8C%85%E5%AD%90%E9%93%BA%E5%8D%96%E8%B1%86%E8%85%90%E8%84%91%E8%A2%AB%E7%BD%9A15000%E5%90%88%E7%90%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [媒体评张小泉翻车：好评不能靠刷](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%BC%A0%E5%B0%8F%E6%B3%89%E7%BF%BB%E8%BD%A6%EF%BC%9A%E5%A5%BD%E8%AF%84%E4%B8%8D%E8%83%BD%E9%9D%A0%E5%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [两架歼20超低空通场致敬先烈](https://www.baidu.com/s?wd=%E4%B8%A4%E6%9E%B6%E6%AD%BC20%E8%B6%85%E4%BD%8E%E7%A9%BA%E9%80%9A%E5%9C%BA%E8%87%B4%E6%95%AC%E5%85%88%E7%83%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度41名工人困喜马拉雅隧道](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A641%E5%90%8D%E5%B7%A5%E4%BA%BA%E5%9B%B0%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E9%9A%A7%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [禁止居民私熏腊肉 真能站得住脚？](https://www.baidu.com/s?wd=%E7%A6%81%E6%AD%A2%E5%B1%85%E6%B0%91%E7%A7%81%E7%86%8F%E8%85%8A%E8%82%89+%E7%9C%9F%E8%83%BD%E7%AB%99%E5%BE%97%E4%BD%8F%E8%84%9A%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多彩旅游模式拉动新消费](https://www.baidu.com/s?wd=%E5%A4%9A%E5%BD%A9%E6%97%85%E6%B8%B8%E6%A8%A1%E5%BC%8F%E6%8B%89%E5%8A%A8%E6%96%B0%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [日本排放核污染水已3个月 中方回应](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8E%92%E6%94%BE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%B7%B23%E4%B8%AA%E6%9C%88+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [印度41名工人困喜马拉雅隧道](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A641%E5%90%8D%E5%B7%A5%E4%BA%BA%E5%9B%B0%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E9%9A%A7%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杜旭东新剧被AI换脸](https://www.baidu.com/s?wd=%E6%9D%9C%E6%97%AD%E4%B8%9C%E6%96%B0%E5%89%A7%E8%A2%ABAI%E6%8D%A2%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [包子铺卖豆腐脑被罚15000合理吗](https://www.baidu.com/s?wd=%E5%8C%85%E5%AD%90%E9%93%BA%E5%8D%96%E8%B1%86%E8%85%90%E8%84%91%E8%A2%AB%E7%BD%9A15000%E5%90%88%E7%90%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [媒体评张小泉翻车：好评不能靠刷](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%BC%A0%E5%B0%8F%E6%B3%89%E7%BF%BB%E8%BD%A6%EF%BC%9A%E5%A5%BD%E8%AF%84%E4%B8%8D%E8%83%BD%E9%9D%A0%E5%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [两架歼20超低空通场致敬先烈](https://www.baidu.com/s?wd=%E4%B8%A4%E6%9E%B6%E6%AD%BC20%E8%B6%85%E4%BD%8E%E7%A9%BA%E9%80%9A%E5%9C%BA%E8%87%B4%E6%95%AC%E5%85%88%E7%83%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度41名工人困喜马拉雅隧道](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A641%E5%90%8D%E5%B7%A5%E4%BA%BA%E5%9B%B0%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E9%9A%A7%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
