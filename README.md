@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 08:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 08:10:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [因烂尾楼要账被打的亮亮丽君夫妇发声](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E7%83%82%E5%B0%BE%E6%A5%BC%E8%A6%81%E8%B4%A6%E8%A2%AB%E6%89%93%E7%9A%84%E4%BA%AE%E4%BA%AE%E4%B8%BD%E5%90%9B%E5%A4%AB%E5%A6%87%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [退休教师在家辅导外孙女数学走红](https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91%E6%95%99%E5%B8%88%E5%9C%A8%E5%AE%B6%E8%BE%85%E5%AF%BC%E5%A4%96%E5%AD%99%E5%A5%B3%E6%95%B0%E5%AD%A6%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [开心消消乐程序员回来加班](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9B%9E%E6%9D%A5%E5%8A%A0%E7%8F%AD%23&t=31&band_rank=6&Refer=top)<br />
-7. [95后小伙辞职回家被爷爷奶奶的爱治愈](https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%B0%8F%E4%BC%99%E8%BE%9E%E8%81%8C%E5%9B%9E%E5%AE%B6%E8%A2%AB%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E7%9A%84%E7%88%B1%E6%B2%BB%E6%84%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [张雪峰成功预言考研人数下降](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%88%90%E5%8A%9F%E9%A2%84%E8%A8%80%E8%80%83%E7%A0%94%E4%BA%BA%E6%95%B0%E4%B8%8B%E9%99%8D%23&t=31&band_rank=8&Refer=top)<br />
+7. [张雪峰成功预言考研人数下降](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%88%90%E5%8A%9F%E9%A2%84%E8%A8%80%E8%80%83%E7%A0%94%E4%BA%BA%E6%95%B0%E4%B8%8B%E9%99%8D%23&t=31&band_rank=7&Refer=top)<br />
+8. [95后小伙辞职回家被爷爷奶奶的爱治愈](https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%B0%8F%E4%BC%99%E8%BE%9E%E8%81%8C%E5%9B%9E%E5%AE%B6%E8%A2%AB%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E7%9A%84%E7%88%B1%E6%B2%BB%E6%84%88%23&t=31&band_rank=8&Refer=top)<br />
 9. [以爱为营 婚礼](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E5%A9%9A%E7%A4%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
