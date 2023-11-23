@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 17:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 17:50:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [茶百道与霸王茶姬等合资成立新公司](https://s.weibo.com/weibo?q=%23%E8%8C%B6%E7%99%BE%E9%81%93%E4%B8%8E%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E7%AD%89%E5%90%88%E8%B5%84%E6%88%90%E7%AB%8B%E6%96%B0%E5%85%AC%E5%8F%B8%23&t=31&band_rank=4&Refer=top)<br />
 5. [机洗羽绒服一洗一个不吱声](https://s.weibo.com/weibo?q=%E6%9C%BA%E6%B4%97%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%80%E6%B4%97%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%90%B1%E5%A3%B0&t=31&band_rank=5&Refer=top)<br />
 6. [VOGUE时尚之力盛会](https://s.weibo.com/weibo?q=VOGUE%E6%97%B6%E5%B0%9A%E4%B9%8B%E5%8A%9B%E7%9B%9B%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
-7. [花海 世冠是我们的最后一场比赛了](https://s.weibo.com/weibo?q=%E8%8A%B1%E6%B5%B7%20%E4%B8%96%E5%86%A0%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%9C%BA%E6%AF%94%E8%B5%9B%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [麦当劳买回金拱门](https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E4%B9%B0%E5%9B%9E%E9%87%91%E6%8B%B1%E9%97%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [库迪咖啡进军奶茶](https://s.weibo.com/weibo?q=%23%E5%BA%93%E8%BF%AA%E5%92%96%E5%95%A1%E8%BF%9B%E5%86%9B%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=9&Refer=top)<br />
+7. [麦当劳买回金拱门](https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E4%B9%B0%E5%9B%9E%E9%87%91%E6%8B%B1%E9%97%A8%23&t=31&band_rank=7&Refer=top)<br />
+8. [库迪咖啡进军奶茶](https://s.weibo.com/weibo?q=%23%E5%BA%93%E8%BF%AA%E5%92%96%E5%95%A1%E8%BF%9B%E5%86%9B%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [花海 世冠是我们的最后一场比赛了](https://s.weibo.com/weibo?q=%E8%8A%B1%E6%B5%B7%20%E4%B8%96%E5%86%A0%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%9C%BA%E6%AF%94%E8%B5%9B%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
