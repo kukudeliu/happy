@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 15:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 15:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [霸王茶姬回应小程序拥堵](https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%8B%A5%E5%A0%B5%23&t=31&band_rank=6&Refer=top)<br />
 7. [刷牙之前不建议将牙刷蘸湿](https://s.weibo.com/weibo?q=%23%E5%88%B7%E7%89%99%E4%B9%8B%E5%89%8D%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%B0%86%E7%89%99%E5%88%B7%E8%98%B8%E6%B9%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [鬼怪没有过时 只是很难复制](https://s.weibo.com/weibo?q=%E9%AC%BC%E6%80%AA%E6%B2%A1%E6%9C%89%E8%BF%87%E6%97%B6%20%E5%8F%AA%E6%98%AF%E5%BE%88%E9%9A%BE%E5%A4%8D%E5%88%B6&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴跳新疆舞了](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [朴敏英为演癌症患者减重到74斤](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E6%95%8F%E8%8B%B1%E4%B8%BA%E6%BC%94%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E5%87%8F%E9%87%8D%E5%88%B074%E6%96%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,8 +22,8 @@
 3. [姥爷给外孙女辅导被百万网友蹭课](https://www.baidu.com/s?wd=%E5%A7%A5%E7%88%B7%E7%BB%99%E5%A4%96%E5%AD%99%E5%A5%B3%E8%BE%85%E5%AF%BC%E8%A2%AB%E7%99%BE%E4%B8%87%E7%BD%91%E5%8F%8B%E8%B9%AD%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国秋粮收购已累计超6000万吨](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%B4%AD%E5%B7%B2%E7%B4%AF%E8%AE%A1%E8%B6%856000%E4%B8%87%E5%90%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [主播涉赌上亿被斗鱼评为年度十佳](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E6%B6%89%E8%B5%8C%E4%B8%8A%E4%BA%BF%E8%A2%AB%E6%96%97%E9%B1%BC%E8%AF%84%E4%B8%BA%E5%B9%B4%E5%BA%A6%E5%8D%81%E4%BD%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [台湾最大金融诈骗案曝光 苏有朋中招](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%9C%80%E5%A4%A7%E9%87%91%E8%9E%8D%E8%AF%88%E9%AA%97%E6%A1%88%E6%9B%9D%E5%85%89+%E8%8B%8F%E6%9C%89%E6%9C%8B%E4%B8%AD%E6%8B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子报警称丈夫在足浴店反被拘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E4%B8%88%E5%A4%AB%E5%9C%A8%E8%B6%B3%E6%B5%B4%E5%BA%97%E5%8F%8D%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子报警称丈夫在足浴店反被拘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E4%B8%88%E5%A4%AB%E5%9C%A8%E8%B6%B3%E6%B5%B4%E5%BA%97%E5%8F%8D%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [台湾最大金融诈骗案曝光 苏有朋中招](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%9C%80%E5%A4%A7%E9%87%91%E8%9E%8D%E8%AF%88%E9%AA%97%E6%A1%88%E6%9B%9D%E5%85%89+%E8%8B%8F%E6%9C%89%E6%9C%8B%E4%B8%AD%E6%8B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [70岁爷爷接错孙女到家都没发现](https://www.baidu.com/s?wd=70%E5%B2%81%E7%88%B7%E7%88%B7%E6%8E%A5%E9%94%99%E5%AD%99%E5%A5%B3%E5%88%B0%E5%AE%B6%E9%83%BD%E6%B2%A1%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [送外卖要付费充会员？](https://www.baidu.com/s?wd=%E9%80%81%E5%A4%96%E5%8D%96%E8%A6%81%E4%BB%98%E8%B4%B9%E5%85%85%E4%BC%9A%E5%91%98%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [姥爷给外孙女辅导被百万网友蹭课](https://www.baidu.com/s?wd=%E5%A7%A5%E7%88%B7%E7%BB%99%E5%A4%96%E5%AD%99%E5%A5%B3%E8%BE%85%E5%AF%BC%E8%A2%AB%E7%99%BE%E4%B8%87%E7%BD%91%E5%8F%8B%E8%B9%AD%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国秋粮收购已累计超6000万吨](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%B4%AD%E5%B7%B2%E7%B4%AF%E8%AE%A1%E8%B6%856000%E4%B8%87%E5%90%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [主播涉赌上亿被斗鱼评为年度十佳](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E6%B6%89%E8%B5%8C%E4%B8%8A%E4%BA%BF%E8%A2%AB%E6%96%97%E9%B1%BC%E8%AF%84%E4%B8%BA%E5%B9%B4%E5%BA%A6%E5%8D%81%E4%BD%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [台湾最大金融诈骗案曝光 苏有朋中招](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%9C%80%E5%A4%A7%E9%87%91%E8%9E%8D%E8%AF%88%E9%AA%97%E6%A1%88%E6%9B%9D%E5%85%89+%E8%8B%8F%E6%9C%89%E6%9C%8B%E4%B8%AD%E6%8B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子报警称丈夫在足浴店反被拘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E4%B8%88%E5%A4%AB%E5%9C%A8%E8%B6%B3%E6%B5%B4%E5%BA%97%E5%8F%8D%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子报警称丈夫在足浴店反被拘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E4%B8%88%E5%A4%AB%E5%9C%A8%E8%B6%B3%E6%B5%B4%E5%BA%97%E5%8F%8D%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [台湾最大金融诈骗案曝光 苏有朋中招](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%9C%80%E5%A4%A7%E9%87%91%E8%9E%8D%E8%AF%88%E9%AA%97%E6%A1%88%E6%9B%9D%E5%85%89+%E8%8B%8F%E6%9C%89%E6%9C%8B%E4%B8%AD%E6%8B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [70岁爷爷接错孙女到家都没发现](https://www.baidu.com/s?wd=70%E5%B2%81%E7%88%B7%E7%88%B7%E6%8E%A5%E9%94%99%E5%AD%99%E5%A5%B3%E5%88%B0%E5%AE%B6%E9%83%BD%E6%B2%A1%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [送外卖要付费充会员？](https://www.baidu.com/s?wd=%E9%80%81%E5%A4%96%E5%8D%96%E8%A6%81%E4%BB%98%E8%B4%B9%E5%85%85%E4%BC%9A%E5%91%98%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
