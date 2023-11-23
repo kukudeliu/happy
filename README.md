@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 09:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 09:18:01</h4></div>
 
 > 微博  
 
 1. [以爱为营剧组 鬼怪过时了](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%89%A7%E7%BB%84%20%E9%AC%BC%E6%80%AA%E8%BF%87%E6%97%B6%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [奥特曼此前遭解雇或因AI威胁人类](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%AD%A4%E5%89%8D%E9%81%AD%E8%A7%A3%E9%9B%87%E6%88%96%E5%9B%A0AI%E5%A8%81%E8%83%81%E4%BA%BA%E7%B1%BB%23&t=31&band_rank=2&Refer=top)<br />
+2. [25名在韩志愿军烈士回家](https://s.weibo.com/weibo?q=%2325%E5%90%8D%E5%9C%A8%E9%9F%A9%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [接英雄回家](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [郭虎 别碰现偶](https://s.weibo.com/weibo?q=%E9%83%AD%E8%99%8E%20%E5%88%AB%E7%A2%B0%E7%8E%B0%E5%81%B6&t=31&band_rank=4&Refer=top)<br />
-5. [25名在韩志愿军烈士回家](https://s.weibo.com/weibo?q=%2325%E5%90%8D%E5%9C%A8%E9%9F%A9%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=5&Refer=top)<br />
+5. [奥特曼此前遭解雇或因AI威胁人类](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%AD%A4%E5%89%8D%E9%81%AD%E8%A7%A3%E9%9B%87%E6%88%96%E5%9B%A0AI%E5%A8%81%E8%83%81%E4%BA%BA%E7%B1%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [花少团总行李超重118公斤](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%9B%A2%E6%80%BB%E8%A1%8C%E6%9D%8E%E8%B6%85%E9%87%8D118%E5%85%AC%E6%96%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [旭旭宝宝](https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D&t=31&band_rank=7&Refer=top)<br />
 8. [这个吻戏镜头是为了秀豪车吗](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%AA%E5%90%BB%E6%88%8F%E9%95%9C%E5%A4%B4%E6%98%AF%E4%B8%BA%E4%BA%86%E7%A7%80%E8%B1%AA%E8%BD%A6%E5%90%97&t=31&band_rank=8&Refer=top)<br />
