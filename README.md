@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 11:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 11:58:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [坚持睡前涂唇膏很有用](https://s.weibo.com/weibo?q=%E5%9D%9A%E6%8C%81%E7%9D%A1%E5%89%8D%E6%B6%82%E5%94%87%E8%86%8F%E5%BE%88%E6%9C%89%E7%94%A8&t=31&band_rank=5&Refer=top)<br />
 6. [张雪峰问20年后还有必要上大学吗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E9%97%AE20%E5%B9%B4%E5%90%8E%E8%BF%98%E6%9C%89%E5%BF%85%E8%A6%81%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [湖南一村明确出嫁女不参与分配](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E6%9D%91%E6%98%8E%E7%A1%AE%E5%87%BA%E5%AB%81%E5%A5%B3%E4%B8%8D%E5%8F%82%E4%B8%8E%E5%88%86%E9%85%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [秦岚悬着的心终于吊死了](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E5%90%8A%E6%AD%BB%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [韩方中止朝韩军事协议部分条款效力](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%96%B9%E4%B8%AD%E6%AD%A2%E6%9C%9D%E9%9F%A9%E5%86%9B%E4%BA%8B%E5%8D%8F%E8%AE%AE%E9%83%A8%E5%88%86%E6%9D%A1%E6%AC%BE%E6%95%88%E5%8A%9B%23&t=31&band_rank=9&Refer=top)<br />
+8. [张雪峰说大学可能变成三年](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%AF%B4%E5%A4%A7%E5%AD%A6%E5%8F%AF%E8%83%BD%E5%8F%98%E6%88%90%E4%B8%89%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
+9. [秦岚悬着的心终于吊死了](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E5%90%8A%E6%AD%BB%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
