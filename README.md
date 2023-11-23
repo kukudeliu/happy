@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 20:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 20:50:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴 郭培高定](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E9%83%AD%E5%9F%B9%E9%AB%98%E5%AE%9A&t=31&band_rank=6&Refer=top)<br />
 7. [朱珠牛仔风](https://s.weibo.com/weibo?q=%E6%9C%B1%E7%8F%A0%E7%89%9B%E4%BB%94%E9%A3%8E&t=31&band_rank=7&Refer=top)<br />
 8. [明星收3.3万元坑位费只卖出一包木耳](https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E6%94%B63.3%E4%B8%87%E5%85%83%E5%9D%91%E4%BD%8D%E8%B4%B9%E5%8F%AA%E5%8D%96%E5%87%BA%E4%B8%80%E5%8C%85%E6%9C%A8%E8%80%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [荣耀100](https://s.weibo.com/weibo?q=%E8%8D%A3%E8%80%80100&t=31&band_rank=9&Refer=top)<br />
+9. [殷郊 天命玄鸟铩羽而归](https://s.weibo.com/weibo?q=%E6%AE%B7%E9%83%8A%20%E5%A4%A9%E5%91%BD%E7%8E%84%E9%B8%9F%E9%93%A9%E7%BE%BD%E8%80%8C%E5%BD%92&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
