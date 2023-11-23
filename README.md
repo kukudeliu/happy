@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 02:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 02:04:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘德华父亲逝世](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E7%88%B6%E4%BA%B2%E9%80%9D%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [娜扎秒了](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%A7%92%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [重庆一元8串的麻辣烫](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E5%85%838%E4%B8%B2%E7%9A%84%E9%BA%BB%E8%BE%A3%E7%83%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [头发这样洗一周只用洗一次头](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E8%BF%99%E6%A0%B7%E6%B4%97%E4%B8%80%E5%91%A8%E5%8F%AA%E7%94%A8%E6%B4%97%E4%B8%80%E6%AC%A1%E5%A4%B4&t=31&band_rank=9&Refer=top)<br />
+9. [全红婵粉丝怒斥裁判压分](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%B2%89%E4%B8%9D%E6%80%92%E6%96%A5%E8%A3%81%E5%88%A4%E5%8E%8B%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [刘德华父亲逝世](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E7%88%B6%E4%BA%B2%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数据折射经济“热度”](https://www.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E6%8A%98%E5%B0%84%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%83%AD%E5%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州中考指定跳绳一根卖78元？](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%AD%E8%80%83%E6%8C%87%E5%AE%9A%E8%B7%B3%E7%BB%B3%E4%B8%80%E6%A0%B9%E5%8D%9678%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子被担架抬着至柜台办业务](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%8B%85%E6%9E%B6%E6%8A%AC%E7%9D%80%E8%87%B3%E6%9F%9C%E5%8F%B0%E5%8A%9E%E4%B8%9A%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [保罗职业生涯第七次被驱逐出场](https://www.baidu.com/s?wd=%E4%BF%9D%E7%BD%97%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E7%AC%AC%E4%B8%83%E6%AC%A1%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [包子铺卖豆腐脑被罚15000合理吗](https://www.baidu.com/s?wd=%E5%8C%85%E5%AD%90%E9%93%BA%E5%8D%96%E8%B1%86%E8%85%90%E8%84%91%E8%A2%AB%E7%BD%9A15000%E5%90%88%E7%90%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高中生连吃4种感冒药住进重症监护室](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E7%94%9F%E8%BF%9E%E5%90%834%E7%A7%8D%E6%84%9F%E5%86%92%E8%8D%AF%E4%BD%8F%E8%BF%9B%E9%87%8D%E7%97%87%E7%9B%91%E6%8A%A4%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [包子铺卖豆腐脑被罚15000合理吗](https://www.baidu.com/s?wd=%E5%8C%85%E5%AD%90%E9%93%BA%E5%8D%96%E8%B1%86%E8%85%90%E8%84%91%E8%A2%AB%E7%BD%9A15000%E5%90%88%E7%90%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子被担架抬着至柜台办业务](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%8B%85%E6%9E%B6%E6%8A%AC%E7%9D%80%E8%87%B3%E6%9F%9C%E5%8F%B0%E5%8A%9E%E4%B8%9A%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [刘德华父亲逝世](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E7%88%B6%E4%BA%B2%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数据折射经济“热度”](https://www.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E6%8A%98%E5%B0%84%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%83%AD%E5%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州中考指定跳绳一根卖78元？](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%AD%E8%80%83%E6%8C%87%E5%AE%9A%E8%B7%B3%E7%BB%B3%E4%B8%80%E6%A0%B9%E5%8D%9678%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子被担架抬着至柜台办业务](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%8B%85%E6%9E%B6%E6%8A%AC%E7%9D%80%E8%87%B3%E6%9F%9C%E5%8F%B0%E5%8A%9E%E4%B8%9A%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [保罗职业生涯第七次被驱逐出场](https://www.baidu.com/s?wd=%E4%BF%9D%E7%BD%97%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E7%AC%AC%E4%B8%83%E6%AC%A1%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [包子铺卖豆腐脑被罚15000合理吗](https://www.baidu.com/s?wd=%E5%8C%85%E5%AD%90%E9%93%BA%E5%8D%96%E8%B1%86%E8%85%90%E8%84%91%E8%A2%AB%E7%BD%9A15000%E5%90%88%E7%90%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高中生连吃4种感冒药住进重症监护室](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E7%94%9F%E8%BF%9E%E5%90%834%E7%A7%8D%E6%84%9F%E5%86%92%E8%8D%AF%E4%BD%8F%E8%BF%9B%E9%87%8D%E7%97%87%E7%9B%91%E6%8A%A4%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [包子铺卖豆腐脑被罚15000合理吗](https://www.baidu.com/s?wd=%E5%8C%85%E5%AD%90%E9%93%BA%E5%8D%96%E8%B1%86%E8%85%90%E8%84%91%E8%A2%AB%E7%BD%9A15000%E5%90%88%E7%90%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子被担架抬着至柜台办业务](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%8B%85%E6%9E%B6%E6%8A%AC%E7%9D%80%E8%87%B3%E6%9F%9C%E5%8F%B0%E5%8A%9E%E4%B8%9A%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
