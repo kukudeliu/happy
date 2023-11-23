@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 18:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 18:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [倪妮 花神降临](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%20%E8%8A%B1%E7%A5%9E%E9%99%8D%E4%B8%B4&t=31&band_rank=6&Refer=top)<br />
 7. [入伍30年一级军士长告别军营](https://s.weibo.com/weibo?q=%23%E5%85%A5%E4%BC%8D30%E5%B9%B4%E4%B8%80%E7%BA%A7%E5%86%9B%E5%A3%AB%E9%95%BF%E5%91%8A%E5%88%AB%E5%86%9B%E8%90%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [死亡打光下的贾静雯](https://s.weibo.com/weibo?q=%E6%AD%BB%E4%BA%A1%E6%89%93%E5%85%89%E4%B8%8B%E7%9A%84%E8%B4%BE%E9%9D%99%E9%9B%AF&t=31&band_rank=8&Refer=top)<br />
-9. [娜然 森林精灵](https://s.weibo.com/weibo?q=%E5%A8%9C%E7%84%B6%20%E6%A3%AE%E6%9E%97%E7%B2%BE%E7%81%B5&t=31&band_rank=9&Refer=top)<br />
+9. [男子发嫁女短信被屏蔽致多位亲友未能出席](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%91%E5%AB%81%E5%A5%B3%E7%9F%AD%E4%BF%A1%E8%A2%AB%E5%B1%8F%E8%94%BD%E8%87%B4%E5%A4%9A%E4%BD%8D%E4%BA%B2%E5%8F%8B%E6%9C%AA%E8%83%BD%E5%87%BA%E5%B8%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
