@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 18:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 18:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [死亡打光下的贾静雯](https://s.weibo.com/weibo?q=%E6%AD%BB%E4%BA%A1%E6%89%93%E5%85%89%E4%B8%8B%E7%9A%84%E8%B4%BE%E9%9D%99%E9%9B%AF&t=31&band_rank=6&Refer=top)<br />
 7. [入伍30年一级军士长告别军营](https://s.weibo.com/weibo?q=%23%E5%85%A5%E4%BC%8D30%E5%B9%B4%E4%B8%80%E7%BA%A7%E5%86%9B%E5%A3%AB%E9%95%BF%E5%91%8A%E5%88%AB%E5%86%9B%E8%90%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [茶百道与霸王茶姬等合资成立新公司](https://s.weibo.com/weibo?q=%23%E8%8C%B6%E7%99%BE%E9%81%93%E4%B8%8E%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E7%AD%89%E5%90%88%E8%B5%84%E6%88%90%E7%AB%8B%E6%96%B0%E5%85%AC%E5%8F%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [倪妮露肩礼服](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E9%9C%B2%E8%82%A9%E7%A4%BC%E6%9C%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [娜然 森林精灵](https://s.weibo.com/weibo?q=%E5%A8%9C%E7%84%B6%20%E6%A3%AE%E6%9E%97%E7%B2%BE%E7%81%B5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
