@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 09:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 09:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女子拿鞭引导男子跪地爬行双双被拘](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%BF%E9%9E%AD%E5%BC%95%E5%AF%BC%E7%94%B7%E5%AD%90%E8%B7%AA%E5%9C%B0%E7%88%AC%E8%A1%8C%E5%8F%8C%E5%8F%8C%E8%A2%AB%E6%8B%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [郭虎 别碰现偶](https://s.weibo.com/weibo?q=%E9%83%AD%E8%99%8E%20%E5%88%AB%E7%A2%B0%E7%8E%B0%E5%81%B6&t=31&band_rank=6&Refer=top)<br />
 7. [花少团总行李超重118公斤](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%9B%A2%E6%80%BB%E8%A1%8C%E6%9D%8E%E8%B6%85%E9%87%8D118%E5%85%AC%E6%96%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [支原体感染](https://s.weibo.com/weibo?q=%E6%94%AF%E5%8E%9F%E4%BD%93%E6%84%9F%E6%9F%93&t=31&band_rank=8&Refer=top)<br />
-9. [坚持睡前涂唇膏很有用](https://s.weibo.com/weibo?q=%E5%9D%9A%E6%8C%81%E7%9D%A1%E5%89%8D%E6%B6%82%E5%94%87%E8%86%8F%E5%BE%88%E6%9C%89%E7%94%A8&t=31&band_rank=9&Refer=top)<br />
+8. [坚持睡前涂唇膏很有用](https://s.weibo.com/weibo?q=%E5%9D%9A%E6%8C%81%E7%9D%A1%E5%89%8D%E6%B6%82%E5%94%87%E8%86%8F%E5%BE%88%E6%9C%89%E7%94%A8&t=31&band_rank=8&Refer=top)<br />
+9. [支原体感染](https://s.weibo.com/weibo?q=%E6%94%AF%E5%8E%9F%E4%BD%93%E6%84%9F%E6%9F%93&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
