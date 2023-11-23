@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 21:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 21:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴 郭培高定](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E9%83%AD%E5%9F%B9%E9%AB%98%E5%AE%9A&t=31&band_rank=6&Refer=top)<br />
 7. [考研时爱上了给人起外号](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E6%97%B6%E7%88%B1%E4%B8%8A%E4%BA%86%E7%BB%99%E4%BA%BA%E8%B5%B7%E5%A4%96%E5%8F%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [明星收3.3万元坑位费只卖出一包木耳](https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E6%94%B63.3%E4%B8%87%E5%85%83%E5%9D%91%E4%BD%8D%E8%B4%B9%E5%8F%AA%E5%8D%96%E5%87%BA%E4%B8%80%E5%8C%85%E6%9C%A8%E8%80%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [殷郊 天命玄鸟铩羽而归](https://s.weibo.com/weibo?q=%E6%AE%B7%E9%83%8A%20%E5%A4%A9%E5%91%BD%E7%8E%84%E9%B8%9F%E9%93%A9%E7%BE%BD%E8%80%8C%E5%BD%92&t=31&band_rank=9&Refer=top)<br />
+9. [阿里钉钉与华为达成合作](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E9%92%89%E9%92%89%E4%B8%8E%E5%8D%8E%E4%B8%BA%E8%BE%BE%E6%88%90%E5%90%88%E4%BD%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
