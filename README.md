@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 06:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 06:46:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [杨紫 华伦天奴](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E5%8D%8E%E4%BC%A6%E5%A4%A9%E5%A5%B4&t=31&band_rank=5&Refer=top)<br />
 6. [娜扎秒了](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%A7%92%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [孕妇感染支原体会影响胎儿吗](https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%BC%9A%E5%BD%B1%E5%93%8D%E8%83%8E%E5%84%BF%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘德华父亲逝世](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E7%88%B6%E4%BA%B2%E9%80%9D%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
+8. [港剧从来都不会年龄焦虑](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%89%A7%E4%BB%8E%E6%9D%A5%E9%83%BD%E4%B8%8D%E4%BC%9A%E5%B9%B4%E9%BE%84%E7%84%A6%E8%99%91%23&t=31&band_rank=8&Refer=top)<br />
 9. [成都警方通报斗鱼CEO陈少杰案](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%96%97%E9%B1%BCCEO%E9%99%88%E5%B0%91%E6%9D%B0%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
