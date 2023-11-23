@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 10:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 10:43:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [中国礼兵手捧烈士棺椁登上运20专机](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A4%BC%E5%85%B5%E6%89%8B%E6%8D%A7%E7%83%88%E5%A3%AB%E6%A3%BA%E6%A4%81%E7%99%BB%E4%B8%8A%E8%BF%9020%E4%B8%93%E6%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [鬼怪](https://s.weibo.com/weibo?q=%E9%AC%BC%E6%80%AA&t=31&band_rank=6&Refer=top)<br />
 7. [高中生连吃4种感冒药住进EICU](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%AD%E7%94%9F%E8%BF%9E%E5%90%834%E7%A7%8D%E6%84%9F%E5%86%92%E8%8D%AF%E4%BD%8F%E8%BF%9BEICU%23&t=31&band_rank=7&Refer=top)<br />
-8. [宠物犬被捕狗队抓走后送往市场宰杀](https://s.weibo.com/weibo?q=%23%E5%AE%A0%E7%89%A9%E7%8A%AC%E8%A2%AB%E6%8D%95%E7%8B%97%E9%98%9F%E6%8A%93%E8%B5%B0%E5%90%8E%E9%80%81%E5%BE%80%E5%B8%82%E5%9C%BA%E5%AE%B0%E6%9D%80%23&t=31&band_rank=8&Refer=top)<br />
+8. [四川两县回应禁止私熏腊肉原因](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%A4%E5%8E%BF%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E7%A7%81%E7%86%8F%E8%85%8A%E8%82%89%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=8&Refer=top)<br />
 9. [以爱为营剧组 鬼怪过时了](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%89%A7%E7%BB%84%20%E9%AC%BC%E6%80%AA%E8%BF%87%E6%97%B6%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
