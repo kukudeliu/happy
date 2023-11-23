@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 06:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 06:03:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [娜扎秒了](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%A7%92%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [刘德华父亲逝世](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E7%88%B6%E4%BA%B2%E9%80%9D%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [头发这样洗一周只用洗一次头](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E8%BF%99%E6%A0%B7%E6%B4%97%E4%B8%80%E5%91%A8%E5%8F%AA%E7%94%A8%E6%B4%97%E4%B8%80%E6%AC%A1%E5%A4%B4&t=31&band_rank=8&Refer=top)<br />
-9. [全红婵粉丝怒斥裁判压分](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%B2%89%E4%B8%9D%E6%80%92%E6%96%A5%E8%A3%81%E5%88%A4%E5%8E%8B%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [孕妇感染支原体会影响胎儿吗](https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%BC%9A%E5%BD%B1%E5%93%8D%E8%83%8E%E5%84%BF%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
