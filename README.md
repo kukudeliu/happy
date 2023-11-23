@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 12:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 12:16:01</h4></div>
 
 > 微博  
 
 1. [刷牙之前不建议将牙刷蘸湿](https://s.weibo.com/weibo?q=%23%E5%88%B7%E7%89%99%E4%B9%8B%E5%89%8D%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%B0%86%E7%89%99%E5%88%B7%E8%98%B8%E6%B9%BF%23&t=31&band_rank=1&Refer=top)<br />
 2. [朴敏英为演癌症患者减重到74斤](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E6%95%8F%E8%8B%B1%E4%B8%BA%E6%BC%94%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E5%87%8F%E9%87%8D%E5%88%B074%E6%96%A4%23&t=31&band_rank=2&Refer=top)<br />
 3. [91岁志愿军老战士第10次迎战友回家](https://s.weibo.com/weibo?q=%2391%E5%B2%81%E5%BF%97%E6%84%BF%E5%86%9B%E8%80%81%E6%88%98%E5%A3%AB%E7%AC%AC10%E6%AC%A1%E8%BF%8E%E6%88%98%E5%8F%8B%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
-4. [主播涉赌上亿被斗鱼评为年度十佳](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E6%B6%89%E8%B5%8C%E4%B8%8A%E4%BA%BF%E8%A2%AB%E6%96%97%E9%B1%BC%E8%AF%84%E4%B8%BA%E5%B9%B4%E5%BA%A6%E5%8D%81%E4%BD%B3%23&t=31&band_rank=4&Refer=top)<br />
-5. [Angelababy旗下基金注销](https://s.weibo.com/weibo?q=%23Angelababy%E6%97%97%E4%B8%8B%E5%9F%BA%E9%87%91%E6%B3%A8%E9%94%80%23&t=31&band_rank=5&Refer=top)<br />
+4. [Angelababy旗下基金注销](https://s.weibo.com/weibo?q=%23Angelababy%E6%97%97%E4%B8%8B%E5%9F%BA%E9%87%91%E6%B3%A8%E9%94%80%23&t=31&band_rank=4&Refer=top)<br />
+5. [主播涉赌上亿被斗鱼评为年度十佳](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E6%B6%89%E8%B5%8C%E4%B8%8A%E4%BA%BF%E8%A2%AB%E6%96%97%E9%B1%BC%E8%AF%84%E4%B8%BA%E5%B9%B4%E5%BA%A6%E5%8D%81%E4%BD%B3%23&t=31&band_rank=5&Refer=top)<br />
 6. [张雪峰问20年后还有必要上大学吗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E9%97%AE20%E5%B9%B4%E5%90%8E%E8%BF%98%E6%9C%89%E5%BF%85%E8%A6%81%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [湖南一村明确出嫁女不参与分配](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E6%9D%91%E6%98%8E%E7%A1%AE%E5%87%BA%E5%AB%81%E5%A5%B3%E4%B8%8D%E5%8F%82%E4%B8%8E%E5%88%86%E9%85%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [张雪峰说大学可能变成三年](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%AF%B4%E5%A4%A7%E5%AD%A6%E5%8F%AF%E8%83%BD%E5%8F%98%E6%88%90%E4%B8%89%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
