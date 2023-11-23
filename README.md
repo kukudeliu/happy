@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 13:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 13:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [鬼怪没有过时 只是很难复制](https://s.weibo.com/weibo?q=%E9%AC%BC%E6%80%AA%E6%B2%A1%E6%9C%89%E8%BF%87%E6%97%B6%20%E5%8F%AA%E6%98%AF%E5%BE%88%E9%9A%BE%E5%A4%8D%E5%88%B6&t=31&band_rank=6&Refer=top)<br />
 7. [张雪峰问20年后还有必要上大学吗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E9%97%AE20%E5%B9%B4%E5%90%8E%E8%BF%98%E6%9C%89%E5%BF%85%E8%A6%81%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [逆水寒疑似抄袭代号鸢头像](https://s.weibo.com/weibo?q=%E9%80%86%E6%B0%B4%E5%AF%92%E7%96%91%E4%BC%BC%E6%8A%84%E8%A2%AD%E4%BB%A3%E5%8F%B7%E9%B8%A2%E5%A4%B4%E5%83%8F&t=31&band_rank=8&Refer=top)<br />
-9. [Viva La Vida 人生万岁](https://s.weibo.com/weibo?q=Viva%20La%20Vida%20%E4%BA%BA%E7%94%9F%E4%B8%87%E5%B2%81&t=31&band_rank=9&Refer=top)<br />
+9. [湖南一村明确出嫁女不参与分配](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E6%9D%91%E6%98%8E%E7%A1%AE%E5%87%BA%E5%AB%81%E5%A5%B3%E4%B8%8D%E5%8F%82%E4%B8%8E%E5%88%86%E9%85%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
