@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 08:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 08:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [以爱为营剧组 鬼怪过时了](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%89%A7%E7%BB%84%20%E9%AC%BC%E6%80%AA%E8%BF%87%E6%97%B6%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [花少团总行李超重118公斤](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%9B%A2%E6%80%BB%E8%A1%8C%E6%9D%8E%E8%B6%85%E9%87%8D118%E5%85%AC%E6%96%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [以爱为营 恶趣味](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E6%81%B6%E8%B6%A3%E5%91%B3&t=31&band_rank=8&Refer=top)<br />
-9. [李佳琦现身直播间辟谣双11后停播传闻](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%8E%B0%E8%BA%AB%E7%9B%B4%E6%92%AD%E9%97%B4%E8%BE%9F%E8%B0%A3%E5%8F%8C11%E5%90%8E%E5%81%9C%E6%92%AD%E4%BC%A0%E9%97%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [旭旭宝宝](https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
