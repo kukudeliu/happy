@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 15:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 15:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国家卫健委回应儿童医院人满为患](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2%E4%BA%BA%E6%BB%A1%E4%B8%BA%E6%82%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [辛芷蕾穿上了东北大花](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%A9%BF%E4%B8%8A%E4%BA%86%E4%B8%9C%E5%8C%97%E5%A4%A7%E8%8A%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [乳腺癌12种外观改变](https://s.weibo.com/weibo?q=%E4%B9%B3%E8%85%BA%E7%99%8C12%E7%A7%8D%E5%A4%96%E8%A7%82%E6%94%B9%E5%8F%98&t=31&band_rank=8&Refer=top)<br />
-9. [除夕你去上班让边牧做年夜饭](https://s.weibo.com/weibo?q=%23%E9%99%A4%E5%A4%95%E4%BD%A0%E5%8E%BB%E4%B8%8A%E7%8F%AD%E8%AE%A9%E8%BE%B9%E7%89%A7%E5%81%9A%E5%B9%B4%E5%A4%9C%E9%A5%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈都灵提灯战神2.0](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E6%8F%90%E7%81%AF%E6%88%98%E7%A5%9E2.0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [主播涉赌上亿被斗鱼评为年度十佳](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E6%B6%89%E8%B5%8C%E4%B8%8A%E4%BA%BF%E8%A2%AB%E6%96%97%E9%B1%BC%E8%AF%84%E4%B8%BA%E5%B9%B4%E5%BA%A6%E5%8D%81%E4%BD%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [茅台酒储藏室堆不下 贪官：看着养眼](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E9%85%92%E5%82%A8%E8%97%8F%E5%AE%A4%E5%A0%86%E4%B8%8D%E4%B8%8B+%E8%B4%AA%E5%AE%98%EF%BC%9A%E7%9C%8B%E7%9D%80%E5%85%BB%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子报警称丈夫在足浴店反被拘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E4%B8%88%E5%A4%AB%E5%9C%A8%E8%B6%B3%E6%B5%B4%E5%BA%97%E5%8F%8D%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河南一男子当街推倒孕妇](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E6%8E%A8%E5%80%92%E5%AD%95%E5%A6%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小区捡破烂大妈月入过万](https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA%E6%8D%A1%E7%A0%B4%E7%83%82%E5%A4%A7%E5%A6%88%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [送外卖要付费充会员？](https://www.baidu.com/s?wd=%E9%80%81%E5%A4%96%E5%8D%96%E8%A6%81%E4%BB%98%E8%B4%B9%E5%85%85%E4%BC%9A%E5%91%98%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [主播涉赌上亿被斗鱼评为年度十佳](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E6%B6%89%E8%B5%8C%E4%B8%8A%E4%BA%BF%E8%A2%AB%E6%96%97%E9%B1%BC%E8%AF%84%E4%B8%BA%E5%B9%B4%E5%BA%A6%E5%8D%81%E4%BD%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [茅台酒储藏室堆不下 贪官：看着养眼](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E9%85%92%E5%82%A8%E8%97%8F%E5%AE%A4%E5%A0%86%E4%B8%8D%E4%B8%8B+%E8%B4%AA%E5%AE%98%EF%BC%9A%E7%9C%8B%E7%9D%80%E5%85%BB%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子报警称丈夫在足浴店反被拘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E4%B8%88%E5%A4%AB%E5%9C%A8%E8%B6%B3%E6%B5%B4%E5%BA%97%E5%8F%8D%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河南一男子当街推倒孕妇](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E6%8E%A8%E5%80%92%E5%AD%95%E5%A6%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小区捡破烂大妈月入过万](https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA%E6%8D%A1%E7%A0%B4%E7%83%82%E5%A4%A7%E5%A6%88%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [送外卖要付费充会员？](https://www.baidu.com/s?wd=%E9%80%81%E5%A4%96%E5%8D%96%E8%A6%81%E4%BB%98%E8%B4%B9%E5%85%85%E4%BC%9A%E5%91%98%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
