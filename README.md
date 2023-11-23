@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 13:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 13:38:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [鬼怪没有过时 只是很难复制](https://s.weibo.com/weibo?q=%E9%AC%BC%E6%80%AA%E6%B2%A1%E6%9C%89%E8%BF%87%E6%97%B6%20%E5%8F%AA%E6%98%AF%E5%BE%88%E9%9A%BE%E5%A4%8D%E5%88%B6&t=31&band_rank=5&Refer=top)<br />
 6. [朴敏英为演癌症患者减重到74斤](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E6%95%8F%E8%8B%B1%E4%B8%BA%E6%BC%94%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E5%87%8F%E9%87%8D%E5%88%B074%E6%96%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [张雪峰问20年后还有必要上大学吗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E9%97%AE20%E5%B9%B4%E5%90%8E%E8%BF%98%E6%9C%89%E5%BF%85%E8%A6%81%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [湖南一村明确出嫁女不参与分配](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E6%9D%91%E6%98%8E%E7%A1%AE%E5%87%BA%E5%AB%81%E5%A5%B3%E4%B8%8D%E5%8F%82%E4%B8%8E%E5%88%86%E9%85%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [和北大考研状元比赛是什么体验](https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%8C%97%E5%A4%A7%E8%80%83%E7%A0%94%E7%8A%B6%E5%85%83%E6%AF%94%E8%B5%9B%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=9&Refer=top)<br />
+8. [和北大考研状元比赛是什么体验](https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%8C%97%E5%A4%A7%E8%80%83%E7%A0%94%E7%8A%B6%E5%85%83%E6%AF%94%E8%B5%9B%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=8&Refer=top)<br />
+9. [湖南一村明确出嫁女不参与分配](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E6%9D%91%E6%98%8E%E7%A1%AE%E5%87%BA%E5%AB%81%E5%A5%B3%E4%B8%8D%E5%8F%82%E4%B8%8E%E5%88%86%E9%85%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
