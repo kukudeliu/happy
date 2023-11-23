@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 23:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 23:49:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [刘德华父亲逝世](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E7%88%B6%E4%BA%B2%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数据折射经济“热度”](https://www.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E6%8A%98%E5%B0%84%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%83%AD%E5%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州中考指定跳绳一根卖78元？](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%AD%E8%80%83%E6%8C%87%E5%AE%9A%E8%B7%B3%E7%BB%B3%E4%B8%80%E6%A0%B9%E5%8D%9678%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [沈阳全城向最可爱的人致敬](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E5%85%A8%E5%9F%8E%E5%90%91%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA%E8%87%B4%E6%95%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [“霸道书记”落马细节首次披露](https://www.baidu.com/s?wd=%E2%80%9C%E9%9C%B8%E9%81%93%E4%B9%A6%E8%AE%B0%E2%80%9D%E8%90%BD%E9%A9%AC%E7%BB%86%E8%8A%82%E9%A6%96%E6%AC%A1%E6%8A%AB%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大幅降温一定要警惕卒中](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B9%85%E9%99%8D%E6%B8%A9%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AD%A6%E6%83%95%E5%8D%92%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [主播涉赌上亿被斗鱼评为年度十佳](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E6%B6%89%E8%B5%8C%E4%B8%8A%E4%BA%BF%E8%A2%AB%E6%96%97%E9%B1%BC%E8%AF%84%E4%B8%BA%E5%B9%B4%E5%BA%A6%E5%8D%81%E4%BD%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [禁止居民私熏腊肉 真能站得住脚？](https://www.baidu.com/s?wd=%E7%A6%81%E6%AD%A2%E5%B1%85%E6%B0%91%E7%A7%81%E7%86%8F%E8%85%8A%E8%82%89+%E7%9C%9F%E8%83%BD%E7%AB%99%E5%BE%97%E4%BD%8F%E8%84%9A%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [辛芷蕾回应被做成表情包](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%81%9A%E6%88%90%E8%A1%A8%E6%83%85%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [刘德华父亲逝世](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E7%88%B6%E4%BA%B2%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数据折射经济“热度”](https://www.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E6%8A%98%E5%B0%84%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%83%AD%E5%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州中考指定跳绳一根卖78元？](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%AD%E8%80%83%E6%8C%87%E5%AE%9A%E8%B7%B3%E7%BB%B3%E4%B8%80%E6%A0%B9%E5%8D%9678%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [沈阳全城向最可爱的人致敬](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E5%85%A8%E5%9F%8E%E5%90%91%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA%E8%87%B4%E6%95%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [“霸道书记”落马细节首次披露](https://www.baidu.com/s?wd=%E2%80%9C%E9%9C%B8%E9%81%93%E4%B9%A6%E8%AE%B0%E2%80%9D%E8%90%BD%E9%A9%AC%E7%BB%86%E8%8A%82%E9%A6%96%E6%AC%A1%E6%8A%AB%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大幅降温一定要警惕卒中](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B9%85%E9%99%8D%E6%B8%A9%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AD%A6%E6%83%95%E5%8D%92%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [主播涉赌上亿被斗鱼评为年度十佳](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E6%B6%89%E8%B5%8C%E4%B8%8A%E4%BA%BF%E8%A2%AB%E6%96%97%E9%B1%BC%E8%AF%84%E4%B8%BA%E5%B9%B4%E5%BA%A6%E5%8D%81%E4%BD%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [禁止居民私熏腊肉 真能站得住脚？](https://www.baidu.com/s?wd=%E7%A6%81%E6%AD%A2%E5%B1%85%E6%B0%91%E7%A7%81%E7%86%8F%E8%85%8A%E8%82%89+%E7%9C%9F%E8%83%BD%E7%AB%99%E5%BE%97%E4%BD%8F%E8%84%9A%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [辛芷蕾回应被做成表情包](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%81%9A%E6%88%90%E8%A1%A8%E6%83%85%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
