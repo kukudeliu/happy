@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 10:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 10:56:01</h4></div>
 
 > 微博  
 
 1. [坚持睡前涂唇膏很有用](https://s.weibo.com/weibo?q=%E5%9D%9A%E6%8C%81%E7%9D%A1%E5%89%8D%E6%B6%82%E5%94%87%E8%86%8F%E5%BE%88%E6%9C%89%E7%94%A8&t=31&band_rank=1&Refer=top)<br />
 2. [主播涉赌上亿被斗鱼评为年度十佳](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E6%B6%89%E8%B5%8C%E4%B8%8A%E4%BA%BF%E8%A2%AB%E6%96%97%E9%B1%BC%E8%AF%84%E4%B8%BA%E5%B9%B4%E5%BA%A6%E5%8D%81%E4%BD%B3%23&t=31&band_rank=2&Refer=top)<br />
 3. [接英雄回家](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
-4. [成都611事故调查报告公布](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD611%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83%23&t=31&band_rank=4&Refer=top)<br />
-5. [何猷君奚梦瑶第一次见家长](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E5%A5%9A%E6%A2%A6%E7%91%B6%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%AE%B6%E9%95%BF&t=31&band_rank=5&Refer=top)<br />
+4. [何猷君奚梦瑶第一次见家长](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E5%A5%9A%E6%A2%A6%E7%91%B6%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%AE%B6%E9%95%BF&t=31&band_rank=4&Refer=top)<br />
+5. [成都611事故调查报告公布](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD611%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [郭虎 别碰现偶](https://s.weibo.com/weibo?q=%E9%83%AD%E8%99%8E%20%E5%88%AB%E7%A2%B0%E7%8E%B0%E5%81%B6&t=31&band_rank=6&Refer=top)<br />
 7. [女子拿鞭引导男子跪地爬行双双被拘](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%BF%E9%9E%AD%E5%BC%95%E5%AF%BC%E7%94%B7%E5%AD%90%E8%B7%AA%E5%9C%B0%E7%88%AC%E8%A1%8C%E5%8F%8C%E5%8F%8C%E8%A2%AB%E6%8B%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国礼兵手捧烈士棺椁登上运20专机](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A4%BC%E5%85%B5%E6%89%8B%E6%8D%A7%E7%83%88%E5%A3%AB%E6%A3%BA%E6%A4%81%E7%99%BB%E4%B8%8A%E8%BF%9020%E4%B8%93%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
