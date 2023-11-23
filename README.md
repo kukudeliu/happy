@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 15:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 15:49:01</h4></div>
 
 > 微博  
 
 1. [封神 朝歌](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%20%E6%9C%9D%E6%AD%8C&t=31&band_rank=1&Refer=top)<br />
 2. [小杨哥回应徒弟圣罗兰事件](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E5%BE%92%E5%BC%9F%E5%9C%A3%E7%BD%97%E5%85%B0%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top)<br />
-3. [全世界只有两个国家拥有时速350公里的高铁](https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E5%8F%AA%E6%9C%89%E4%B8%A4%E4%B8%AA%E5%9B%BD%E5%AE%B6%E6%8B%A5%E6%9C%89%E6%97%B6%E9%80%9F350%E5%85%AC%E9%87%8C%E7%9A%84%E9%AB%98%E9%93%81%23&t=31&band_rank=3&Refer=top)<br />
+3. [山川同念英雄回家](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%B7%9D%E5%90%8C%E5%BF%B5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [脚踩葡萄干](https://s.weibo.com/weibo?q=%E8%84%9A%E8%B8%A9%E8%91%A1%E8%90%84%E5%B9%B2&t=31&band_rank=4&Refer=top)<br />
 5. [爱奇艺尖叫之夜阵容](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9&t=31&band_rank=5&Refer=top)<br />
 6. [国家卫健委回应儿童医院人满为患](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2%E4%BA%BA%E6%BB%A1%E4%B8%BA%E6%82%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵丽颖 中式清冷眼妆](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E4%B8%AD%E5%BC%8F%E6%B8%85%E5%86%B7%E7%9C%BC%E5%A6%86&t=31&band_rank=7&Refer=top)<br />
-8. [乳腺癌12种外观改变](https://s.weibo.com/weibo?q=%E4%B9%B3%E8%85%BA%E7%99%8C12%E7%A7%8D%E5%A4%96%E8%A7%82%E6%94%B9%E5%8F%98&t=31&band_rank=8&Refer=top)<br />
-9. [辛芷蕾穿上了东北大花](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%A9%BF%E4%B8%8A%E4%BA%86%E4%B8%9C%E5%8C%97%E5%A4%A7%E8%8A%B1%23&t=31&band_rank=9&Refer=top)<br />
+8. [辛芷蕾穿上了东北大花](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%A9%BF%E4%B8%8A%E4%BA%86%E4%B8%9C%E5%8C%97%E5%A4%A7%E8%8A%B1%23&t=31&band_rank=8&Refer=top)<br />
+9. [乳腺癌12种外观改变](https://s.weibo.com/weibo?q=%E4%B9%B3%E8%85%BA%E7%99%8C12%E7%A7%8D%E5%A4%96%E8%A7%82%E6%94%B9%E5%8F%98&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
