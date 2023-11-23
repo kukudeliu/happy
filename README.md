@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 20:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 20:45:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [多彩旅游模式拉动新消费](https://www.baidu.com/s?wd=%E5%A4%9A%E5%BD%A9%E6%97%85%E6%B8%B8%E6%A8%A1%E5%BC%8F%E6%8B%89%E5%8A%A8%E6%96%B0%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中缅边境一运输站起火 数百车辆被烧](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E4%B8%80%E8%BF%90%E8%BE%93%E7%AB%99%E8%B5%B7%E7%81%AB+%E6%95%B0%E7%99%BE%E8%BD%A6%E8%BE%86%E8%A2%AB%E7%83%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [录制祝福视频有明星报价14万](https://www.baidu.com/s?wd=%E5%BD%95%E5%88%B6%E7%A5%9D%E7%A6%8F%E8%A7%86%E9%A2%91%E6%9C%89%E6%98%8E%E6%98%9F%E6%8A%A5%E4%BB%B714%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [北京公安部门锁定号贩子134人](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%85%AC%E5%AE%89%E9%83%A8%E9%97%A8%E9%94%81%E5%AE%9A%E5%8F%B7%E8%B4%A9%E5%AD%90134%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [教师猥亵14名未成年男学生获刑11年](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E7%8C%A5%E4%BA%B514%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E7%94%B7%E5%AD%A6%E7%94%9F%E8%8E%B7%E5%88%9111%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本排放核污染水已3个月 中方回应](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8E%92%E6%94%BE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%B7%B23%E4%B8%AA%E6%9C%88+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [多彩旅游模式拉动新消费](https://www.baidu.com/s?wd=%E5%A4%9A%E5%BD%A9%E6%97%85%E6%B8%B8%E6%A8%A1%E5%BC%8F%E6%8B%89%E5%8A%A8%E6%96%B0%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中缅边境一运输站起火 数百车辆被烧](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E4%B8%80%E8%BF%90%E8%BE%93%E7%AB%99%E8%B5%B7%E7%81%AB+%E6%95%B0%E7%99%BE%E8%BD%A6%E8%BE%86%E8%A2%AB%E7%83%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [录制祝福视频有明星报价14万](https://www.baidu.com/s?wd=%E5%BD%95%E5%88%B6%E7%A5%9D%E7%A6%8F%E8%A7%86%E9%A2%91%E6%9C%89%E6%98%8E%E6%98%9F%E6%8A%A5%E4%BB%B714%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [北京公安部门锁定号贩子134人](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%85%AC%E5%AE%89%E9%83%A8%E9%97%A8%E9%94%81%E5%AE%9A%E5%8F%B7%E8%B4%A9%E5%AD%90134%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [教师猥亵14名未成年男学生获刑11年](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E7%8C%A5%E4%BA%B514%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E7%94%B7%E5%AD%A6%E7%94%9F%E8%8E%B7%E5%88%9111%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本排放核污染水已3个月 中方回应](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8E%92%E6%94%BE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%B7%B23%E4%B8%AA%E6%9C%88+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
