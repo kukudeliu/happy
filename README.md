@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 04:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 04:29:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [刘德华父亲逝世](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E7%88%B6%E4%BA%B2%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数据折射经济“热度”](https://www.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E6%8A%98%E5%B0%84%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%83%AD%E5%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州中考指定跳绳一根卖78元？](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%AD%E8%80%83%E6%8C%87%E5%AE%9A%E8%B7%B3%E7%BB%B3%E4%B8%80%E6%A0%B9%E5%8D%9678%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [日本排放核污染水已3个月 中方回应](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8E%92%E6%94%BE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%B7%B23%E4%B8%AA%E6%9C%88+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [包子铺卖豆腐脑被罚15000合理吗](https://www.baidu.com/s?wd=%E5%8C%85%E5%AD%90%E9%93%BA%E5%8D%96%E8%B1%86%E8%85%90%E8%84%91%E8%A2%AB%E7%BD%9A15000%E5%90%88%E7%90%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [儿童医院人满为患 国家卫健委回应](https://www.baidu.com/s?wd=%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2%E4%BA%BA%E6%BB%A1%E4%B8%BA%E6%82%A3+%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子被担架抬着至柜台办业务](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%8B%85%E6%9E%B6%E6%8A%AC%E7%9D%80%E8%87%B3%E6%9F%9C%E5%8F%B0%E5%8A%9E%E4%B8%9A%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高中生连吃4种感冒药住进重症监护室](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E7%94%9F%E8%BF%9E%E5%90%834%E7%A7%8D%E6%84%9F%E5%86%92%E8%8D%AF%E4%BD%8F%E8%BF%9B%E9%87%8D%E7%97%87%E7%9B%91%E6%8A%A4%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本排放核污染水已3个月 中方回应](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8E%92%E6%94%BE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%B7%B23%E4%B8%AA%E6%9C%88+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [刘德华父亲逝世](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E7%88%B6%E4%BA%B2%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数据折射经济“热度”](https://www.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E6%8A%98%E5%B0%84%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%83%AD%E5%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州中考指定跳绳一根卖78元？](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%AD%E8%80%83%E6%8C%87%E5%AE%9A%E8%B7%B3%E7%BB%B3%E4%B8%80%E6%A0%B9%E5%8D%9678%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [日本排放核污染水已3个月 中方回应](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8E%92%E6%94%BE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%B7%B23%E4%B8%AA%E6%9C%88+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [包子铺卖豆腐脑被罚15000合理吗](https://www.baidu.com/s?wd=%E5%8C%85%E5%AD%90%E9%93%BA%E5%8D%96%E8%B1%86%E8%85%90%E8%84%91%E8%A2%AB%E7%BD%9A15000%E5%90%88%E7%90%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [儿童医院人满为患 国家卫健委回应](https://www.baidu.com/s?wd=%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2%E4%BA%BA%E6%BB%A1%E4%B8%BA%E6%82%A3+%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子被担架抬着至柜台办业务](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%8B%85%E6%9E%B6%E6%8A%AC%E7%9D%80%E8%87%B3%E6%9F%9C%E5%8F%B0%E5%8A%9E%E4%B8%9A%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高中生连吃4种感冒药住进重症监护室](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E7%94%9F%E8%BF%9E%E5%90%834%E7%A7%8D%E6%84%9F%E5%86%92%E8%8D%AF%E4%BD%8F%E8%BF%9B%E9%87%8D%E7%97%87%E7%9B%91%E6%8A%A4%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本排放核污染水已3个月 中方回应](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8E%92%E6%94%BE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%B7%B23%E4%B8%AA%E6%9C%88+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
