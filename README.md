@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 23:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 23:54:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [刘德华父亲逝世](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E7%88%B6%E4%BA%B2%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数据折射经济“热度”](https://www.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E6%8A%98%E5%B0%84%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%83%AD%E5%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州中考指定跳绳一根卖78元？](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%AD%E8%80%83%E6%8C%87%E5%AE%9A%E8%B7%B3%E7%BB%B3%E4%B8%80%E6%A0%B9%E5%8D%9678%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [主播涉赌上亿被斗鱼评为年度十佳](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E6%B6%89%E8%B5%8C%E4%B8%8A%E4%BA%BF%E8%A2%AB%E6%96%97%E9%B1%BC%E8%AF%84%E4%B8%BA%E5%B9%B4%E5%BA%A6%E5%8D%81%E4%BD%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [禁止居民私熏腊肉 真能站得住脚？](https://www.baidu.com/s?wd=%E7%A6%81%E6%AD%A2%E5%B1%85%E6%B0%91%E7%A7%81%E7%86%8F%E8%85%8A%E8%82%89+%E7%9C%9F%E8%83%BD%E7%AB%99%E5%BE%97%E4%BD%8F%E8%84%9A%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [辛芷蕾回应被做成表情包](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%81%9A%E6%88%90%E8%A1%A8%E6%83%85%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [蓝白整合倒数阶段5人会谈不欢而散](https://www.baidu.com/s?wd=%E8%93%9D%E7%99%BD%E6%95%B4%E5%90%88%E5%80%92%E6%95%B0%E9%98%B6%E6%AE%B55%E4%BA%BA%E4%BC%9A%E8%B0%88%E4%B8%8D%E6%AC%A2%E8%80%8C%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体评张小泉翻车：好评不能靠刷](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%BC%A0%E5%B0%8F%E6%B3%89%E7%BF%BB%E8%BD%A6%EF%BC%9A%E5%A5%BD%E8%AF%84%E4%B8%8D%E8%83%BD%E9%9D%A0%E5%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东公安厅原厅长李春生贪7940万受审](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%85%AC%E5%AE%89%E5%8E%85%E5%8E%9F%E5%8E%85%E9%95%BF%E6%9D%8E%E6%98%A5%E7%94%9F%E8%B4%AA7940%E4%B8%87%E5%8F%97%E5%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [刘德华父亲逝世](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E7%88%B6%E4%BA%B2%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数据折射经济“热度”](https://www.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E6%8A%98%E5%B0%84%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%83%AD%E5%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州中考指定跳绳一根卖78元？](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%AD%E8%80%83%E6%8C%87%E5%AE%9A%E8%B7%B3%E7%BB%B3%E4%B8%80%E6%A0%B9%E5%8D%9678%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [主播涉赌上亿被斗鱼评为年度十佳](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E6%B6%89%E8%B5%8C%E4%B8%8A%E4%BA%BF%E8%A2%AB%E6%96%97%E9%B1%BC%E8%AF%84%E4%B8%BA%E5%B9%B4%E5%BA%A6%E5%8D%81%E4%BD%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [禁止居民私熏腊肉 真能站得住脚？](https://www.baidu.com/s?wd=%E7%A6%81%E6%AD%A2%E5%B1%85%E6%B0%91%E7%A7%81%E7%86%8F%E8%85%8A%E8%82%89+%E7%9C%9F%E8%83%BD%E7%AB%99%E5%BE%97%E4%BD%8F%E8%84%9A%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [辛芷蕾回应被做成表情包](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%81%9A%E6%88%90%E8%A1%A8%E6%83%85%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [蓝白整合倒数阶段5人会谈不欢而散](https://www.baidu.com/s?wd=%E8%93%9D%E7%99%BD%E6%95%B4%E5%90%88%E5%80%92%E6%95%B0%E9%98%B6%E6%AE%B55%E4%BA%BA%E4%BC%9A%E8%B0%88%E4%B8%8D%E6%AC%A2%E8%80%8C%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体评张小泉翻车：好评不能靠刷](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%BC%A0%E5%B0%8F%E6%B3%89%E7%BF%BB%E8%BD%A6%EF%BC%9A%E5%A5%BD%E8%AF%84%E4%B8%8D%E8%83%BD%E9%9D%A0%E5%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东公安厅原厅长李春生贪7940万受审](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%85%AC%E5%AE%89%E5%8E%85%E5%8E%9F%E5%8E%85%E9%95%BF%E6%9D%8E%E6%98%A5%E7%94%9F%E8%B4%AA7940%E4%B8%87%E5%8F%97%E5%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
