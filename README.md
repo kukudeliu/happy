@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 17:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 17:18:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [茶百道与霸王茶姬等合资成立新公司](https://s.weibo.com/weibo?q=%23%E8%8C%B6%E7%99%BE%E9%81%93%E4%B8%8E%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E7%AD%89%E5%90%88%E8%B5%84%E6%88%90%E7%AB%8B%E6%96%B0%E5%85%AC%E5%8F%B8%23&t=31&band_rank=2&Refer=top)<br />
 3. [山川同念英雄回家](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%B7%9D%E5%90%8C%E5%BF%B5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [死亡打光下的贾静雯](https://s.weibo.com/weibo?q=%E6%AD%BB%E4%BA%A1%E6%89%93%E5%85%89%E4%B8%8B%E7%9A%84%E8%B4%BE%E9%9D%99%E9%9B%AF&t=31&band_rank=4&Refer=top)<br />
-5. [封神 朝歌](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%20%E6%9C%9D%E6%AD%8C&t=31&band_rank=5&Refer=top)<br />
-6. [麦当劳买回金拱门](https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E4%B9%B0%E5%9B%9E%E9%87%91%E6%8B%B1%E9%97%A8%23&t=31&band_rank=6&Refer=top)<br />
+5. [麦当劳买回金拱门](https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E4%B9%B0%E5%9B%9E%E9%87%91%E6%8B%B1%E9%97%A8%23&t=31&band_rank=5&Refer=top)<br />
+6. [封神 朝歌](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%20%E6%9C%9D%E6%AD%8C&t=31&band_rank=6&Refer=top)<br />
 7. [小杨哥回应徒弟圣罗兰事件](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E5%BE%92%E5%BC%9F%E5%9C%A3%E7%BD%97%E5%85%B0%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [研究表明4种血型患癌风险不一样](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E8%A1%A8%E6%98%8E4%E7%A7%8D%E8%A1%80%E5%9E%8B%E6%82%A3%E7%99%8C%E9%A3%8E%E9%99%A9%E4%B8%8D%E4%B8%80%E6%A0%B7%23&t=31&band_rank=8&Refer=top)<br />
 9. [刘诗诗片场叫刘宇宁远舟哥哥](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E7%89%87%E5%9C%BA%E5%8F%AB%E5%88%98%E5%AE%87%E5%AE%81%E8%BF%9C%E8%88%9F%E5%93%A5%E5%93%A5%23&t=31&band_rank=9&Refer=top)<br />
