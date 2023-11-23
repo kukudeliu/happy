@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 18:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 18:03:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [入伍30年一级军士长告别军营](https://s.weibo.com/weibo?q=%23%E5%85%A5%E4%BC%8D30%E5%B9%B4%E4%B8%80%E7%BA%A7%E5%86%9B%E5%A3%AB%E9%95%BF%E5%91%8A%E5%88%AB%E5%86%9B%E8%90%A5%23&t=31&band_rank=2&Refer=top)<br />
 3. [山川同念英雄回家](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%B7%9D%E5%90%8C%E5%BF%B5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [迪丽热巴 郭培高定](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E9%83%AD%E5%9F%B9%E9%AB%98%E5%AE%9A&t=31&band_rank=4&Refer=top)<br />
-5. [2小时回家路走了70多年](https://s.weibo.com/weibo?q=%232%E5%B0%8F%E6%97%B6%E5%9B%9E%E5%AE%B6%E8%B7%AF%E8%B5%B0%E4%BA%8670%E5%A4%9A%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
+5. [女儿43年为妈妈私人定制150件衣服](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF43%E5%B9%B4%E4%B8%BA%E5%A6%88%E5%A6%88%E7%A7%81%E4%BA%BA%E5%AE%9A%E5%88%B6150%E4%BB%B6%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [死亡打光下的贾静雯](https://s.weibo.com/weibo?q=%E6%AD%BB%E4%BA%A1%E6%89%93%E5%85%89%E4%B8%8B%E7%9A%84%E8%B4%BE%E9%9D%99%E9%9B%AF&t=31&band_rank=6&Refer=top)<br />
-7. [女儿43年为妈妈私人定制150件衣服](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF43%E5%B9%B4%E4%B8%BA%E5%A6%88%E5%A6%88%E7%A7%81%E4%BA%BA%E5%AE%9A%E5%88%B6150%E4%BB%B6%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=7&Refer=top)<br />
+7. [2小时回家路走了70多年](https://s.weibo.com/weibo?q=%232%E5%B0%8F%E6%97%B6%E5%9B%9E%E5%AE%B6%E8%B7%AF%E8%B5%B0%E4%BA%8670%E5%A4%9A%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [茶百道与霸王茶姬等合资成立新公司](https://s.weibo.com/weibo?q=%23%E8%8C%B6%E7%99%BE%E9%81%93%E4%B8%8E%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E7%AD%89%E5%90%88%E8%B5%84%E6%88%90%E7%AB%8B%E6%96%B0%E5%85%AC%E5%8F%B8%23&t=31&band_rank=8&Refer=top)<br />
 9. [机洗羽绒服一洗一个不吱声](https://s.weibo.com/weibo?q=%E6%9C%BA%E6%B4%97%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%80%E6%B4%97%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%90%B1%E5%A3%B0&t=31&band_rank=9&Refer=top)<br />
 
