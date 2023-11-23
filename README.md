@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 10:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 10:13:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [女子拿鞭引导男子跪地爬行双双被拘](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%BF%E9%9E%AD%E5%BC%95%E5%AF%BC%E7%94%B7%E5%AD%90%E8%B7%AA%E5%9C%B0%E7%88%AC%E8%A1%8C%E5%8F%8C%E5%8F%8C%E8%A2%AB%E6%8B%98%23&t=31&band_rank=4&Refer=top)<br />
 5. [他罚她她奖励他](https://s.weibo.com/weibo?q=%23%E4%BB%96%E7%BD%9A%E5%A5%B9%E5%A5%B9%E5%A5%96%E5%8A%B1%E4%BB%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [以爱为营剧组 鬼怪过时了](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%89%A7%E7%BB%84%20%E9%AC%BC%E6%80%AA%E8%BF%87%E6%97%B6%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [四川两县回应禁止私熏腊肉原因](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%A4%E5%8E%BF%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E7%A7%81%E7%86%8F%E8%85%8A%E8%82%89%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [成都611事故调查报告公布](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD611%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83%23&t=31&band_rank=8&Refer=top)<br />
+7. [成都611事故调查报告公布](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD611%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [四川两县回应禁止私熏腊肉原因](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%A4%E5%8E%BF%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E7%A7%81%E7%86%8F%E8%85%8A%E8%82%89%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=8&Refer=top)<br />
 9. [郭虎 别碰现偶](https://s.weibo.com/weibo?q=%E9%83%AD%E8%99%8E%20%E5%88%AB%E7%A2%B0%E7%8E%B0%E5%81%B6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
