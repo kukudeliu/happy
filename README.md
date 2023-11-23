@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 09:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 09:49:01</h4></div>
 
 > 微博  
 
-1. [25名在韩志愿军烈士回家](https://s.weibo.com/weibo?q=%2325%E5%90%8D%E5%9C%A8%E9%9F%A9%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=1&Refer=top)<br />
-2. [这个吻戏镜头是为了秀豪车吗](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%AA%E5%90%BB%E6%88%8F%E9%95%9C%E5%A4%B4%E6%98%AF%E4%B8%BA%E4%BA%86%E7%A7%80%E8%B1%AA%E8%BD%A6%E5%90%97&t=31&band_rank=2&Refer=top)<br />
+1. [这个吻戏镜头是为了秀豪车吗](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%AA%E5%90%BB%E6%88%8F%E9%95%9C%E5%A4%B4%E6%98%AF%E4%B8%BA%E4%BA%86%E7%A7%80%E8%B1%AA%E8%BD%A6%E5%90%97&t=31&band_rank=1&Refer=top)<br />
+2. [25名在韩志愿军烈士回家](https://s.weibo.com/weibo?q=%2325%E5%90%8D%E5%9C%A8%E9%9F%A9%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [接英雄回家](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [以爱为营剧组 鬼怪过时了](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%89%A7%E7%BB%84%20%E9%AC%BC%E6%80%AA%E8%BF%87%E6%97%B6%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [女子拿鞭引导男子跪地爬行双双被拘](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%BF%E9%9E%AD%E5%BC%95%E5%AF%BC%E7%94%B7%E5%AD%90%E8%B7%AA%E5%9C%B0%E7%88%AC%E8%A1%8C%E5%8F%8C%E5%8F%8C%E8%A2%AB%E6%8B%98%23&t=31&band_rank=5&Refer=top)<br />
