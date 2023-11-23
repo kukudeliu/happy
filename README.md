@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 09:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 09:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [郭虎 别碰现偶](https://s.weibo.com/weibo?q=%E9%83%AD%E8%99%8E%20%E5%88%AB%E7%A2%B0%E7%8E%B0%E5%81%B6&t=31&band_rank=6&Refer=top)<br />
 7. [花少团总行李超重118公斤](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%9B%A2%E6%80%BB%E8%A1%8C%E6%9D%8E%E8%B6%85%E9%87%8D118%E5%85%AC%E6%96%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [这个吻戏镜头是为了秀豪车吗](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%AA%E5%90%BB%E6%88%8F%E9%95%9C%E5%A4%B4%E6%98%AF%E4%B8%BA%E4%BA%86%E7%A7%80%E8%B1%AA%E8%BD%A6%E5%90%97&t=31&band_rank=8&Refer=top)<br />
-9. [他罚她她奖励他](https://s.weibo.com/weibo?q=%23%E4%BB%96%E7%BD%9A%E5%A5%B9%E5%A5%B9%E5%A5%96%E5%8A%B1%E4%BB%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [坚持睡前涂唇膏很有用](https://s.weibo.com/weibo?q=%E5%9D%9A%E6%8C%81%E7%9D%A1%E5%89%8D%E6%B6%82%E5%94%87%E8%86%8F%E5%BE%88%E6%9C%89%E7%94%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
