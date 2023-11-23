@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 12:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 12:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [主播涉赌上亿被斗鱼评为年度十佳](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E6%B6%89%E8%B5%8C%E4%B8%8A%E4%BA%BF%E8%A2%AB%E6%96%97%E9%B1%BC%E8%AF%84%E4%B8%BA%E5%B9%B4%E5%BA%A6%E5%8D%81%E4%BD%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [湖南一村明确出嫁女不参与分配](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E6%9D%91%E6%98%8E%E7%A1%AE%E5%87%BA%E5%AB%81%E5%A5%B3%E4%B8%8D%E5%8F%82%E4%B8%8E%E5%88%86%E9%85%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [秦岚悬着的心终于吊死了](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E5%90%8A%E6%AD%BB%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [体育 主科](https://s.weibo.com/weibo?q=%E4%BD%93%E8%82%B2%20%E4%B8%BB%E7%A7%91&t=31&band_rank=9&Refer=top)<br />
+9. [Viva La Vida 人生万岁](https://s.weibo.com/weibo?q=Viva%20La%20Vida%20%E4%BA%BA%E7%94%9F%E4%B8%87%E5%B2%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
