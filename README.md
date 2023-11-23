@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 01:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 01:38:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [杭州中考指定跳绳一根卖78元？](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%AD%E8%80%83%E6%8C%87%E5%AE%9A%E8%B7%B3%E7%BB%B3%E4%B8%80%E6%A0%B9%E5%8D%9678%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [录制祝福视频有明星报价14万](https://www.baidu.com/s?wd=%E5%BD%95%E5%88%B6%E7%A5%9D%E7%A6%8F%E8%A7%86%E9%A2%91%E6%9C%89%E6%98%8E%E6%98%9F%E6%8A%A5%E4%BB%B714%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [里皮：中国男足和韩国差距很大](https://www.baidu.com/s?wd=%E9%87%8C%E7%9A%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E5%92%8C%E9%9F%A9%E5%9B%BD%E5%B7%AE%E8%B7%9D%E5%BE%88%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杜旭东新剧被AI换脸](https://www.baidu.com/s?wd=%E6%9D%9C%E6%97%AD%E4%B8%9C%E6%96%B0%E5%89%A7%E8%A2%ABAI%E6%8D%A2%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医生谈儿童就诊高峰：最近情况有变](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%88%E5%84%BF%E7%AB%A5%E5%B0%B1%E8%AF%8A%E9%AB%98%E5%B3%B0%EF%BC%9A%E6%9C%80%E8%BF%91%E6%83%85%E5%86%B5%E6%9C%89%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [杭州中考指定跳绳一根卖78元？](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%AD%E8%80%83%E6%8C%87%E5%AE%9A%E8%B7%B3%E7%BB%B3%E4%B8%80%E6%A0%B9%E5%8D%9678%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [录制祝福视频有明星报价14万](https://www.baidu.com/s?wd=%E5%BD%95%E5%88%B6%E7%A5%9D%E7%A6%8F%E8%A7%86%E9%A2%91%E6%9C%89%E6%98%8E%E6%98%9F%E6%8A%A5%E4%BB%B714%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [里皮：中国男足和韩国差距很大](https://www.baidu.com/s?wd=%E9%87%8C%E7%9A%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E5%92%8C%E9%9F%A9%E5%9B%BD%E5%B7%AE%E8%B7%9D%E5%BE%88%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杜旭东新剧被AI换脸](https://www.baidu.com/s?wd=%E6%9D%9C%E6%97%AD%E4%B8%9C%E6%96%B0%E5%89%A7%E8%A2%ABAI%E6%8D%A2%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医生谈儿童就诊高峰：最近情况有变](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%B0%88%E5%84%BF%E7%AB%A5%E5%B0%B1%E8%AF%8A%E9%AB%98%E5%B3%B0%EF%BC%9A%E6%9C%80%E8%BF%91%E6%83%85%E5%86%B5%E6%9C%89%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
