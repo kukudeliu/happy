@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 17:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 17:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [花海 世冠是我们的最后一场比赛了](https://s.weibo.com/weibo?q=%E8%8A%B1%E6%B5%B7%20%E4%B8%96%E5%86%A0%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%9C%BA%E6%AF%94%E8%B5%9B%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [机洗羽绒服一洗一个不吱声](https://s.weibo.com/weibo?q=%E6%9C%BA%E6%B4%97%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%80%E6%B4%97%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%90%B1%E5%A3%B0&t=31&band_rank=7&Refer=top)<br />
 8. [VOGUE时尚之力盛会](https://s.weibo.com/weibo?q=VOGUE%E6%97%B6%E5%B0%9A%E4%B9%8B%E5%8A%9B%E7%9B%9B%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
-9. [库迪咖啡进军奶茶](https://s.weibo.com/weibo?q=%23%E5%BA%93%E8%BF%AA%E5%92%96%E5%95%A1%E8%BF%9B%E5%86%9B%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [封神 朝歌](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%20%E6%9C%9D%E6%AD%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
