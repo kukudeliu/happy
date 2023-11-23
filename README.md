@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 22:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 22:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [刘德华父亲逝世](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E7%88%B6%E4%BA%B2%E9%80%9D%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [奚梦瑶湿发](https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E6%B9%BF%E5%8F%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [全红婵粉丝怒斥裁判压分](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%B2%89%E4%B8%9D%E6%80%92%E6%96%A5%E8%A3%81%E5%88%A4%E5%8E%8B%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [甘露寺裸色美甲](https://s.weibo.com/weibo?q=%E7%94%98%E9%9C%B2%E5%AF%BA%E8%A3%B8%E8%89%B2%E7%BE%8E%E7%94%B2&t=31&band_rank=8&Refer=top)<br />
-9. [Doinb直播](https://s.weibo.com/weibo?q=Doinb%E7%9B%B4%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
+8. [今年呼吸道疾病传染性更强了吗](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E4%BC%A0%E6%9F%93%E6%80%A7%E6%9B%B4%E5%BC%BA%E4%BA%86%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [甘露寺裸色美甲](https://s.weibo.com/weibo?q=%E7%94%98%E9%9C%B2%E5%AF%BA%E8%A3%B8%E8%89%B2%E7%BE%8E%E7%94%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
