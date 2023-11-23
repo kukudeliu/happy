@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 00:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 00:05:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [杭州中考指定跳绳一根卖78元？](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%AD%E8%80%83%E6%8C%87%E5%AE%9A%E8%B7%B3%E7%BB%B3%E4%B8%80%E6%A0%B9%E5%8D%9678%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [校方回应家长吐槽学生餐油太多](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E5%AD%A6%E7%94%9F%E9%A4%90%E6%B2%B9%E5%A4%AA%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [80余只羊田间中毒死亡 警方发悬赏](https://www.baidu.com/s?wd=80%E4%BD%99%E5%8F%AA%E7%BE%8A%E7%94%B0%E9%97%B4%E4%B8%AD%E6%AF%92%E6%AD%BB%E4%BA%A1+%E8%AD%A6%E6%96%B9%E5%8F%91%E6%82%AC%E8%B5%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [辛芷蕾回应被做成表情包](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%81%9A%E6%88%90%E8%A1%A8%E6%83%85%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大幅降温一定要警惕卒中](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B9%85%E9%99%8D%E6%B8%A9%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AD%A6%E6%83%95%E5%8D%92%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [杭州中考指定跳绳一根卖78元？](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%AD%E8%80%83%E6%8C%87%E5%AE%9A%E8%B7%B3%E7%BB%B3%E4%B8%80%E6%A0%B9%E5%8D%9678%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [校方回应家长吐槽学生餐油太多](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E5%AD%A6%E7%94%9F%E9%A4%90%E6%B2%B9%E5%A4%AA%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [80余只羊田间中毒死亡 警方发悬赏](https://www.baidu.com/s?wd=80%E4%BD%99%E5%8F%AA%E7%BE%8A%E7%94%B0%E9%97%B4%E4%B8%AD%E6%AF%92%E6%AD%BB%E4%BA%A1+%E8%AD%A6%E6%96%B9%E5%8F%91%E6%82%AC%E8%B5%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [辛芷蕾回应被做成表情包](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%81%9A%E6%88%90%E8%A1%A8%E6%83%85%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大幅降温一定要警惕卒中](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B9%85%E9%99%8D%E6%B8%A9%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AD%A6%E6%83%95%E5%8D%92%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
