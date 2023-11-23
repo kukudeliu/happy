@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 19:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 19:30:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [男子发嫁女短信被屏蔽致多位亲友未能出席](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%91%E5%AB%81%E5%A5%B3%E7%9F%AD%E4%BF%A1%E8%A2%AB%E5%B1%8F%E8%94%BD%E8%87%B4%E5%A4%9A%E4%BD%8D%E4%BA%B2%E5%8F%8B%E6%9C%AA%E8%83%BD%E5%87%BA%E5%B8%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [2小时回家路走了70多年](https://s.weibo.com/weibo?q=%232%E5%B0%8F%E6%97%B6%E5%9B%9E%E5%AE%B6%E8%B7%AF%E8%B5%B0%E4%BA%8670%E5%A4%9A%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴 郭培高定](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E9%83%AD%E5%9F%B9%E9%AB%98%E5%AE%9A&t=31&band_rank=6&Refer=top)<br />
-7. [VOGUE时尚之力盛会](https://s.weibo.com/weibo?q=VOGUE%E6%97%B6%E5%B0%9A%E4%B9%8B%E5%8A%9B%E7%9B%9B%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
-8. [明星收3.3万元坑位费只卖出一包木耳](https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E6%94%B63.3%E4%B8%87%E5%85%83%E5%9D%91%E4%BD%8D%E8%B4%B9%E5%8F%AA%E5%8D%96%E5%87%BA%E4%B8%80%E5%8C%85%E6%9C%A8%E8%80%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [易烊千玺复古红皮衣](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%A4%8D%E5%8F%A4%E7%BA%A2%E7%9A%AE%E8%A1%A3%23&t=31&band_rank=9&Refer=top)<br />
+7. [再也不用8名战士分1个苹果了](https://s.weibo.com/weibo?q=%23%E5%86%8D%E4%B9%9F%E4%B8%8D%E7%94%A88%E5%90%8D%E6%88%98%E5%A3%AB%E5%88%861%E4%B8%AA%E8%8B%B9%E6%9E%9C%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [VOGUE时尚之力盛会](https://s.weibo.com/weibo?q=VOGUE%E6%97%B6%E5%B0%9A%E4%B9%8B%E5%8A%9B%E7%9B%9B%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
+9. [明星收3.3万元坑位费只卖出一包木耳](https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E6%94%B63.3%E4%B8%87%E5%85%83%E5%9D%91%E4%BD%8D%E8%B4%B9%E5%8F%AA%E5%8D%96%E5%87%BA%E4%B8%80%E5%8C%85%E6%9C%A8%E8%80%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
