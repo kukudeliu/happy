@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 13:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 13:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [刷牙之前不建议将牙刷蘸湿](https://s.weibo.com/weibo?q=%23%E5%88%B7%E7%89%99%E4%B9%8B%E5%89%8D%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%B0%86%E7%89%99%E5%88%B7%E8%98%B8%E6%B9%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [朴敏英为演癌症患者减重到74斤](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E6%95%8F%E8%8B%B1%E4%B8%BA%E6%BC%94%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E5%87%8F%E9%87%8D%E5%88%B074%E6%96%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [张小斐古装造型](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E5%8F%A4%E8%A3%85%E9%80%A0%E5%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [和北大考研状元比赛是什么体验](https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%8C%97%E5%A4%A7%E8%80%83%E7%A0%94%E7%8A%B6%E5%85%83%E6%AF%94%E8%B5%9B%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [T1冠军阵容全员续约](https://s.weibo.com/weibo?q=%23T1%E5%86%A0%E5%86%9B%E9%98%B5%E5%AE%B9%E5%85%A8%E5%91%98%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [T1冠军阵容全员续约](https://s.weibo.com/weibo?q=%23T1%E5%86%A0%E5%86%9B%E9%98%B5%E5%AE%B9%E5%85%A8%E5%91%98%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [和北大考研状元比赛是什么体验](https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%8C%97%E5%A4%A7%E8%80%83%E7%A0%94%E7%8A%B6%E5%85%83%E6%AF%94%E8%B5%9B%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
