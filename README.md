@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 01:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 01:49:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [刘德华父亲逝世](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E7%88%B6%E4%BA%B2%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数据折射经济“热度”](https://www.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E6%8A%98%E5%B0%84%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%83%AD%E5%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州中考指定跳绳一根卖78元？](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%AD%E8%80%83%E6%8C%87%E5%AE%9A%E8%B7%B3%E7%BB%B3%E4%B8%80%E6%A0%B9%E5%8D%9678%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [央行回应网友完善征信报告建议](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E5%AE%8C%E5%96%84%E5%BE%81%E4%BF%A1%E6%8A%A5%E5%91%8A%E5%BB%BA%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [B太曝光雪乡旅游团拉客报价乱象](https://www.baidu.com/s?wd=B%E5%A4%AA%E6%9B%9D%E5%85%89%E9%9B%AA%E4%B9%A1%E6%97%85%E6%B8%B8%E5%9B%A2%E6%8B%89%E5%AE%A2%E6%8A%A5%E4%BB%B7%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [重庆警方破获特大伪造货币案](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%AD%A6%E6%96%B9%E7%A0%B4%E8%8E%B7%E7%89%B9%E5%A4%A7%E4%BC%AA%E9%80%A0%E8%B4%A7%E5%B8%81%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [沈阳全城迎接英雄回家](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E5%85%A8%E5%9F%8E%E8%BF%8E%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国道收费越来越多？](https://www.baidu.com/s?wd=%E5%9B%BD%E9%81%93%E6%94%B6%E8%B4%B9%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [保罗职业生涯第七次被驱逐出场](https://www.baidu.com/s?wd=%E4%BF%9D%E7%BD%97%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E7%AC%AC%E4%B8%83%E6%AC%A1%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [刘德华父亲逝世](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E7%88%B6%E4%BA%B2%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数据折射经济“热度”](https://www.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E6%8A%98%E5%B0%84%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%83%AD%E5%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州中考指定跳绳一根卖78元？](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%AD%E8%80%83%E6%8C%87%E5%AE%9A%E8%B7%B3%E7%BB%B3%E4%B8%80%E6%A0%B9%E5%8D%9678%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [央行回应网友完善征信报告建议](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E5%AE%8C%E5%96%84%E5%BE%81%E4%BF%A1%E6%8A%A5%E5%91%8A%E5%BB%BA%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [B太曝光雪乡旅游团拉客报价乱象](https://www.baidu.com/s?wd=B%E5%A4%AA%E6%9B%9D%E5%85%89%E9%9B%AA%E4%B9%A1%E6%97%85%E6%B8%B8%E5%9B%A2%E6%8B%89%E5%AE%A2%E6%8A%A5%E4%BB%B7%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [重庆警方破获特大伪造货币案](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%AD%A6%E6%96%B9%E7%A0%B4%E8%8E%B7%E7%89%B9%E5%A4%A7%E4%BC%AA%E9%80%A0%E8%B4%A7%E5%B8%81%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [沈阳全城迎接英雄回家](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E5%85%A8%E5%9F%8E%E8%BF%8E%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国道收费越来越多？](https://www.baidu.com/s?wd=%E5%9B%BD%E9%81%93%E6%94%B6%E8%B4%B9%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [保罗职业生涯第七次被驱逐出场](https://www.baidu.com/s?wd=%E4%BF%9D%E7%BD%97%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E7%AC%AC%E4%B8%83%E6%AC%A1%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
