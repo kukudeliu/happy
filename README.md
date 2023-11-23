@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 09:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 09:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [花少团总行李超重118公斤](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%9B%A2%E6%80%BB%E8%A1%8C%E6%9D%8E%E8%B6%85%E9%87%8D118%E5%85%AC%E6%96%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [旭旭宝宝](https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D&t=31&band_rank=7&Refer=top)<br />
 8. [这个吻戏镜头是为了秀豪车吗](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%AA%E5%90%BB%E6%88%8F%E9%95%9C%E5%A4%B4%E6%98%AF%E4%B8%BA%E4%BA%86%E7%A7%80%E8%B1%AA%E8%BD%A6%E5%90%97&t=31&band_rank=8&Refer=top)<br />
-9. [疾控专家提醒大家戴口罩](https://s.weibo.com/weibo?q=%23%E7%96%BE%E6%8E%A7%E4%B8%93%E5%AE%B6%E6%8F%90%E9%86%92%E5%A4%A7%E5%AE%B6%E6%88%B4%E5%8F%A3%E7%BD%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [支原体感染](https://s.weibo.com/weibo?q=%E6%94%AF%E5%8E%9F%E4%BD%93%E6%84%9F%E6%9F%93&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
