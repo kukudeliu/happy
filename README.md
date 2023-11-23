@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 09:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 09:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [郭虎 别碰现偶](https://s.weibo.com/weibo?q=%E9%83%AD%E8%99%8E%20%E5%88%AB%E7%A2%B0%E7%8E%B0%E5%81%B6&t=31&band_rank=6&Refer=top)<br />
 7. [花少团总行李超重118公斤](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%9B%A2%E6%80%BB%E8%A1%8C%E6%9D%8E%E8%B6%85%E9%87%8D118%E5%85%AC%E6%96%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [支原体感染](https://s.weibo.com/weibo?q=%E6%94%AF%E5%8E%9F%E4%BD%93%E6%84%9F%E6%9F%93&t=31&band_rank=8&Refer=top)<br />
-9. [旭旭宝宝](https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D&t=31&band_rank=9&Refer=top)<br />
+9. [他罚她她奖励他](https://s.weibo.com/weibo?q=%23%E4%BB%96%E7%BD%9A%E5%A5%B9%E5%A5%B9%E5%A5%96%E5%8A%B1%E4%BB%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
