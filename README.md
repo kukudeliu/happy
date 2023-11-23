@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 13:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 13:09:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [姥爷给外孙女辅导被百万网友蹭课](https://www.baidu.com/s?wd=%E5%A7%A5%E7%88%B7%E7%BB%99%E5%A4%96%E5%AD%99%E5%A5%B3%E8%BE%85%E5%AF%BC%E8%A2%AB%E7%99%BE%E4%B8%87%E7%BD%91%E5%8F%8B%E8%B9%AD%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [远嫁女子称被家暴多次 孩子淡定旁观](https://www.baidu.com/s?wd=%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%A2%AB%E5%AE%B6%E6%9A%B4%E5%A4%9A%E6%AC%A1+%E5%AD%A9%E5%AD%90%E6%B7%A1%E5%AE%9A%E6%97%81%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [哈马斯突击画面曝光 徒手贴脸安炸弹](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E7%AA%81%E5%87%BB%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89+%E5%BE%92%E6%89%8B%E8%B4%B4%E8%84%B8%E5%AE%89%E7%82%B8%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [70岁爷爷接错孙女到家都没发现](https://www.baidu.com/s?wd=70%E5%B2%81%E7%88%B7%E7%88%B7%E6%8E%A5%E9%94%99%E5%AD%99%E5%A5%B3%E5%88%B0%E5%AE%B6%E9%83%BD%E6%B2%A1%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子报警称丈夫在足浴店反被拘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E4%B8%88%E5%A4%AB%E5%9C%A8%E8%B6%B3%E6%B5%B4%E5%BA%97%E5%8F%8D%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣女孩上学路上被强拽上车](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%A9%E4%B8%8A%E5%AD%A6%E8%B7%AF%E4%B8%8A%E8%A2%AB%E5%BC%BA%E6%8B%BD%E4%B8%8A%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [姥爷给外孙女辅导被百万网友蹭课](https://www.baidu.com/s?wd=%E5%A7%A5%E7%88%B7%E7%BB%99%E5%A4%96%E5%AD%99%E5%A5%B3%E8%BE%85%E5%AF%BC%E8%A2%AB%E7%99%BE%E4%B8%87%E7%BD%91%E5%8F%8B%E8%B9%AD%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [远嫁女子称被家暴多次 孩子淡定旁观](https://www.baidu.com/s?wd=%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%A2%AB%E5%AE%B6%E6%9A%B4%E5%A4%9A%E6%AC%A1+%E5%AD%A9%E5%AD%90%E6%B7%A1%E5%AE%9A%E6%97%81%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [哈马斯突击画面曝光 徒手贴脸安炸弹](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E7%AA%81%E5%87%BB%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89+%E5%BE%92%E6%89%8B%E8%B4%B4%E8%84%B8%E5%AE%89%E7%82%B8%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [70岁爷爷接错孙女到家都没发现](https://www.baidu.com/s?wd=70%E5%B2%81%E7%88%B7%E7%88%B7%E6%8E%A5%E9%94%99%E5%AD%99%E5%A5%B3%E5%88%B0%E5%AE%B6%E9%83%BD%E6%B2%A1%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子报警称丈夫在足浴店反被拘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E4%B8%88%E5%A4%AB%E5%9C%A8%E8%B6%B3%E6%B5%B4%E5%BA%97%E5%8F%8D%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣女孩上学路上被强拽上车](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%A9%E4%B8%8A%E5%AD%A6%E8%B7%AF%E4%B8%8A%E8%A2%AB%E5%BC%BA%E6%8B%BD%E4%B8%8A%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
