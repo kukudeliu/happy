@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 19:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 19:52:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [山川同念英雄回家](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%B7%9D%E5%90%8C%E5%BF%B5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [迪丽热巴腰臀比 震撼](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%85%B0%E8%87%80%E6%AF%94%20%E9%9C%87%E6%92%BC&t=31&band_rank=4&Refer=top)<br />
 5. [2小时回家路走了70多年](https://s.weibo.com/weibo?q=%232%E5%B0%8F%E6%97%B6%E5%9B%9E%E5%AE%B6%E8%B7%AF%E8%B5%B0%E4%BA%8670%E5%A4%9A%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
-6. [VOGUE时尚之力盛会](https://s.weibo.com/weibo?q=VOGUE%E6%97%B6%E5%B0%9A%E4%B9%8B%E5%8A%9B%E7%9B%9B%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
+6. [男子发嫁女短信被屏蔽致多位亲友未能出席](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%91%E5%AB%81%E5%A5%B3%E7%9F%AD%E4%BF%A1%E8%A2%AB%E5%B1%8F%E8%94%BD%E8%87%B4%E5%A4%9A%E4%BD%8D%E4%BA%B2%E5%8F%8B%E6%9C%AA%E8%83%BD%E5%87%BA%E5%B8%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [再也不用8名战士分1个苹果了](https://s.weibo.com/weibo?q=%23%E5%86%8D%E4%B9%9F%E4%B8%8D%E7%94%A88%E5%90%8D%E6%88%98%E5%A3%AB%E5%88%861%E4%B8%AA%E8%8B%B9%E6%9E%9C%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [男子发嫁女短信被屏蔽致多位亲友未能出席](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%91%E5%AB%81%E5%A5%B3%E7%9F%AD%E4%BF%A1%E8%A2%AB%E5%B1%8F%E8%94%BD%E8%87%B4%E5%A4%9A%E4%BD%8D%E4%BA%B2%E5%8F%8B%E6%9C%AA%E8%83%BD%E5%87%BA%E5%B8%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [倪妮 花神降临](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%20%E8%8A%B1%E7%A5%9E%E9%99%8D%E4%B8%B4&t=31&band_rank=9&Refer=top)<br />
+8. [倪妮 花神降临](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%20%E8%8A%B1%E7%A5%9E%E9%99%8D%E4%B8%B4&t=31&band_rank=8&Refer=top)<br />
+9. [VOGUE时尚之力盛会](https://s.weibo.com/weibo?q=VOGUE%E6%97%B6%E5%B0%9A%E4%B9%8B%E5%8A%9B%E7%9B%9B%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
