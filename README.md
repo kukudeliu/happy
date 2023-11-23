@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 15:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 15:18:01</h4></div>
 
 > 微博  
 
-1. [小杨哥回应徒弟圣罗兰事件](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E5%BE%92%E5%BC%9F%E5%9C%A3%E7%BD%97%E5%85%B0%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top)<br />
-2. [封神 朝歌](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%20%E6%9C%9D%E6%AD%8C&t=31&band_rank=2&Refer=top)<br />
+1. [封神 朝歌](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%20%E6%9C%9D%E6%AD%8C&t=31&band_rank=1&Refer=top)<br />
+2. [小杨哥回应徒弟圣罗兰事件](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E5%BE%92%E5%BC%9F%E5%9C%A3%E7%BD%97%E5%85%B0%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [91岁志愿军老战士第10次迎战友回家](https://s.weibo.com/weibo?q=%2391%E5%B2%81%E5%BF%97%E6%84%BF%E5%86%9B%E8%80%81%E6%88%98%E5%A3%AB%E7%AC%AC10%E6%AC%A1%E8%BF%8E%E6%88%98%E5%8F%8B%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [脚踩葡萄干](https://s.weibo.com/weibo?q=%E8%84%9A%E8%B8%A9%E8%91%A1%E8%90%84%E5%B9%B2&t=31&band_rank=4&Refer=top)<br />
 5. [除夕你去上班让边牧做年夜饭](https://s.weibo.com/weibo?q=%23%E9%99%A4%E5%A4%95%E4%BD%A0%E5%8E%BB%E4%B8%8A%E7%8F%AD%E8%AE%A9%E8%BE%B9%E7%89%A7%E5%81%9A%E5%B9%B4%E5%A4%9C%E9%A5%AD%23&t=31&band_rank=5&Refer=top)<br />
