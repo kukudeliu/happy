@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 13:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 13:34:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [小杨哥回应徒弟圣罗兰事件](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E5%BE%92%E5%BC%9F%E5%9C%A3%E7%BD%97%E5%85%B0%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [91岁志愿军老战士第10次迎战友回家](https://s.weibo.com/weibo?q=%2391%E5%B2%81%E5%BF%97%E6%84%BF%E5%86%9B%E8%80%81%E6%88%98%E5%A3%AB%E7%AC%AC10%E6%AC%A1%E8%BF%8E%E6%88%98%E5%8F%8B%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [刷牙之前不建议将牙刷蘸湿](https://s.weibo.com/weibo?q=%23%E5%88%B7%E7%89%99%E4%B9%8B%E5%89%8D%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%B0%86%E7%89%99%E5%88%B7%E8%98%B8%E6%B9%BF%23&t=31&band_rank=4&Refer=top)<br />
-5. [朴敏英为演癌症患者减重到74斤](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E6%95%8F%E8%8B%B1%E4%B8%BA%E6%BC%94%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E5%87%8F%E9%87%8D%E5%88%B074%E6%96%A4%23&t=31&band_rank=5&Refer=top)<br />
-6. [鬼怪没有过时 只是很难复制](https://s.weibo.com/weibo?q=%E9%AC%BC%E6%80%AA%E6%B2%A1%E6%9C%89%E8%BF%87%E6%97%B6%20%E5%8F%AA%E6%98%AF%E5%BE%88%E9%9A%BE%E5%A4%8D%E5%88%B6&t=31&band_rank=6&Refer=top)<br />
+5. [鬼怪没有过时 只是很难复制](https://s.weibo.com/weibo?q=%E9%AC%BC%E6%80%AA%E6%B2%A1%E6%9C%89%E8%BF%87%E6%97%B6%20%E5%8F%AA%E6%98%AF%E5%BE%88%E9%9A%BE%E5%A4%8D%E5%88%B6&t=31&band_rank=5&Refer=top)<br />
+6. [朴敏英为演癌症患者减重到74斤](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E6%95%8F%E8%8B%B1%E4%B8%BA%E6%BC%94%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E5%87%8F%E9%87%8D%E5%88%B074%E6%96%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [张雪峰问20年后还有必要上大学吗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E9%97%AE20%E5%B9%B4%E5%90%8E%E8%BF%98%E6%9C%89%E5%BF%85%E8%A6%81%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [湖南一村明确出嫁女不参与分配](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E6%9D%91%E6%98%8E%E7%A1%AE%E5%87%BA%E5%AB%81%E5%A5%B3%E4%B8%8D%E5%8F%82%E4%B8%8E%E5%88%86%E9%85%8D%23&t=31&band_rank=8&Refer=top)<br />
 9. [逆水寒疑似抄袭代号鸢头像](https://s.weibo.com/weibo?q=%E9%80%86%E6%B0%B4%E5%AF%92%E7%96%91%E4%BC%BC%E6%8A%84%E8%A2%AD%E4%BB%A3%E5%8F%B7%E9%B8%A2%E5%A4%B4%E5%83%8F&t=31&band_rank=9&Refer=top)<br />
@@ -22,9 +22,9 @@
 3. [车库卖6万交税2.8万？税务局回应](https://www.baidu.com/s?wd=%E8%BD%A6%E5%BA%93%E5%8D%966%E4%B8%87%E4%BA%A4%E7%A8%8E2.8%E4%B8%87%EF%BC%9F%E7%A8%8E%E5%8A%A1%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国秋粮收购已累计超6000万吨](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%B4%AD%E5%B7%B2%E7%B4%AF%E8%AE%A1%E8%B6%856000%E4%B8%87%E5%90%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [姥爷给外孙女辅导被百万网友蹭课](https://www.baidu.com/s?wd=%E5%A7%A5%E7%88%B7%E7%BB%99%E5%A4%96%E5%AD%99%E5%A5%B3%E8%BE%85%E5%AF%BC%E8%A2%AB%E7%99%BE%E4%B8%87%E7%BD%91%E5%8F%8B%E8%B9%AD%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [币安前CEO赵长鹏以1.75亿美元保释](https://www.baidu.com/s?wd=%E5%B8%81%E5%AE%89%E5%89%8DCEO%E8%B5%B5%E9%95%BF%E9%B9%8F%E4%BB%A51.75%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BF%9D%E9%87%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [小区捡破烂大妈月入过万](https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA%E6%8D%A1%E7%A0%B4%E7%83%82%E5%A4%A7%E5%A6%88%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子报警称丈夫在足浴店反被拘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E4%B8%88%E5%A4%AB%E5%9C%A8%E8%B6%B3%E6%B5%B4%E5%BA%97%E5%8F%8D%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小区捡破烂大妈月入过万](https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA%E6%8D%A1%E7%A0%B4%E7%83%82%E5%A4%A7%E5%A6%88%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [远嫁女子称被家暴多次 孩子淡定旁观](https://www.baidu.com/s?wd=%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%A2%AB%E5%AE%B6%E6%9A%B4%E5%A4%9A%E6%AC%A1+%E5%AD%A9%E5%AD%90%E6%B7%A1%E5%AE%9A%E6%97%81%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣女孩上学路上被强拽上车](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%A9%E4%B8%8A%E5%AD%A6%E8%B7%AF%E4%B8%8A%E8%A2%AB%E5%BC%BA%E6%8B%BD%E4%B8%8A%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [车库卖6万交税2.8万？税务局回应](https://www.baidu.com/s?wd=%E8%BD%A6%E5%BA%93%E5%8D%966%E4%B8%87%E4%BA%A4%E7%A8%8E2.8%E4%B8%87%EF%BC%9F%E7%A8%8E%E5%8A%A1%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国秋粮收购已累计超6000万吨](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%B4%AD%E5%B7%B2%E7%B4%AF%E8%AE%A1%E8%B6%856000%E4%B8%87%E5%90%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [姥爷给外孙女辅导被百万网友蹭课](https://www.baidu.com/s?wd=%E5%A7%A5%E7%88%B7%E7%BB%99%E5%A4%96%E5%AD%99%E5%A5%B3%E8%BE%85%E5%AF%BC%E8%A2%AB%E7%99%BE%E4%B8%87%E7%BD%91%E5%8F%8B%E8%B9%AD%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [币安前CEO赵长鹏以1.75亿美元保释](https://www.baidu.com/s?wd=%E5%B8%81%E5%AE%89%E5%89%8DCEO%E8%B5%B5%E9%95%BF%E9%B9%8F%E4%BB%A51.75%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BF%9D%E9%87%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [小区捡破烂大妈月入过万](https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA%E6%8D%A1%E7%A0%B4%E7%83%82%E5%A4%A7%E5%A6%88%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子报警称丈夫在足浴店反被拘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E4%B8%88%E5%A4%AB%E5%9C%A8%E8%B6%B3%E6%B5%B4%E5%BA%97%E5%8F%8D%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小区捡破烂大妈月入过万](https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA%E6%8D%A1%E7%A0%B4%E7%83%82%E5%A4%A7%E5%A6%88%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [远嫁女子称被家暴多次 孩子淡定旁观](https://www.baidu.com/s?wd=%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%A2%AB%E5%AE%B6%E6%9A%B4%E5%A4%9A%E6%AC%A1+%E5%AD%A9%E5%AD%90%E6%B7%A1%E5%AE%9A%E6%97%81%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣女孩上学路上被强拽上车](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%A9%E4%B8%8A%E5%AD%A6%E8%B7%AF%E4%B8%8A%E8%A2%AB%E5%BC%BA%E6%8B%BD%E4%B8%8A%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
