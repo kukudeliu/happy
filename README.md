@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 07:40:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 07:41:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [头发这样洗一周只用洗一次头](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E8%BF%99%E6%A0%B7%E6%B4%97%E4%B8%80%E5%91%A8%E5%8F%AA%E7%94%A8%E6%B4%97%E4%B8%80%E6%AC%A1%E5%A4%B4&t=31&band_rank=2&Refer=top)<br />
 3. [全世界只有两个国家拥有时速350公里的高铁](https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E5%8F%AA%E6%9C%89%E4%B8%A4%E4%B8%AA%E5%9B%BD%E5%AE%B6%E6%8B%A5%E6%9C%89%E6%97%B6%E9%80%9F350%E5%85%AC%E9%87%8C%E7%9A%84%E9%AB%98%E9%93%81%23&t=31&band_rank=3&Refer=top)<br />
 4. [港剧从来都不会年龄焦虑](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%89%A7%E4%BB%8E%E6%9D%A5%E9%83%BD%E4%B8%8D%E4%BC%9A%E5%B9%B4%E9%BE%84%E7%84%A6%E8%99%91%23&t=31&band_rank=4&Refer=top)<br />
-5. [杨紫 华伦天奴](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E5%8D%8E%E4%BC%A6%E5%A4%A9%E5%A5%B4&t=31&band_rank=5&Refer=top)<br />
-6. [娜扎秒了](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%A7%92%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [七仔连睡觉jiojio都在打拍子](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%BB%94%E8%BF%9E%E7%9D%A1%E8%A7%89jiojio%E9%83%BD%E5%9C%A8%E6%89%93%E6%8B%8D%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [迪丽热巴第二套 温婉大气](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%AC%AC%E4%BA%8C%E5%A5%97%20%E6%B8%A9%E5%A9%89%E5%A4%A7%E6%B0%94&t=31&band_rank=8&Refer=top)<br />
+5. [迪丽热巴第二套 温婉大气](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%AC%AC%E4%BA%8C%E5%A5%97%20%E6%B8%A9%E5%A9%89%E5%A4%A7%E6%B0%94&t=31&band_rank=5&Refer=top)<br />
+6. [杨紫 华伦天奴](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E5%8D%8E%E4%BC%A6%E5%A4%A9%E5%A5%B4&t=31&band_rank=6&Refer=top)<br />
+7. [娜扎秒了](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%A7%92%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [七仔连睡觉jiojio都在打拍子](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%BB%94%E8%BF%9E%E7%9D%A1%E8%A7%89jiojio%E9%83%BD%E5%9C%A8%E6%89%93%E6%8B%8D%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
 9. [全红婵粉丝怒斥裁判压分](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%B2%89%E4%B8%9D%E6%80%92%E6%96%A5%E8%A3%81%E5%88%A4%E5%8E%8B%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
