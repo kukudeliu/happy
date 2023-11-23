@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 17:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 17:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [封神 朝歌](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%20%E6%9C%9D%E6%AD%8C&t=31&band_rank=6&Refer=top)<br />
 7. [VOGUE时尚之力盛会](https://s.weibo.com/weibo?q=VOGUE%E6%97%B6%E5%B0%9A%E4%B9%8B%E5%8A%9B%E7%9B%9B%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
 8. [小杨哥回应徒弟圣罗兰事件](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E5%BE%92%E5%BC%9F%E5%9C%A3%E7%BD%97%E5%85%B0%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [研究表明4种血型患癌风险不一样](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E8%A1%A8%E6%98%8E4%E7%A7%8D%E8%A1%80%E5%9E%8B%E6%82%A3%E7%99%8C%E9%A3%8E%E9%99%A9%E4%B8%8D%E4%B8%80%E6%A0%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [真的会气出乳腺结节吗](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E4%BC%9A%E6%B0%94%E5%87%BA%E4%B9%B3%E8%85%BA%E7%BB%93%E8%8A%82%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
