@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 14:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 14:33:01</h4></div>
 
 > 微博  
 
-1. [霸王茶姬小程序](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%B0%8F%E7%A8%8B%E5%BA%8F&t=31&band_rank=1&Refer=top)<br />
-2. [小杨哥回应徒弟圣罗兰事件](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E5%BE%92%E5%BC%9F%E5%9C%A3%E7%BD%97%E5%85%B0%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top)<br />
+1. [小杨哥回应徒弟圣罗兰事件](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E5%BE%92%E5%BC%9F%E5%9C%A3%E7%BD%97%E5%85%B0%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top)<br />
+2. [霸王茶姬小程序](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%B0%8F%E7%A8%8B%E5%BA%8F&t=31&band_rank=2&Refer=top)<br />
 3. [91岁志愿军老战士第10次迎战友回家](https://s.weibo.com/weibo?q=%2391%E5%B2%81%E5%BF%97%E6%84%BF%E5%86%9B%E8%80%81%E6%88%98%E5%A3%AB%E7%AC%AC10%E6%AC%A1%E8%BF%8E%E6%88%98%E5%8F%8B%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [封神 朝歌](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%20%E6%9C%9D%E6%AD%8C&t=31&band_rank=4&Refer=top)<br />
 5. [霸王茶姬回应小程序拥堵](https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%8B%A5%E5%A0%B5%23&t=31&band_rank=5&Refer=top)<br />
