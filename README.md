@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 15:24:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 15:25:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [爱奇艺尖叫之夜阵容](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9&t=31&band_rank=5&Refer=top)<br />
 6. [除夕你去上班让边牧做年夜饭](https://s.weibo.com/weibo?q=%23%E9%99%A4%E5%A4%95%E4%BD%A0%E5%8E%BB%E4%B8%8A%E7%8F%AD%E8%AE%A9%E8%BE%B9%E7%89%A7%E5%81%9A%E5%B9%B4%E5%A4%9C%E9%A5%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [严浩翔哭了](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%93%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [霸王茶姬回应小程序拥堵](https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%8B%A5%E5%A0%B5%23&t=31&band_rank=8&Refer=top)<br />
-9. [国家卫健委回应儿童医院人满为患](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2%E4%BA%BA%E6%BB%A1%E4%B8%BA%E6%82%A3%23&t=31&band_rank=9&Refer=top)<br />
+8. [国家卫健委回应儿童医院人满为患](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2%E4%BA%BA%E6%BB%A1%E4%B8%BA%E6%82%A3%23&t=31&band_rank=8&Refer=top)<br />
+9. [霸王茶姬回应小程序拥堵](https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%8B%A5%E5%A0%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
