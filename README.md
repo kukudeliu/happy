@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 13:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 13:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朴敏英为演癌症患者减重到74斤](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E6%95%8F%E8%8B%B1%E4%B8%BA%E6%BC%94%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E5%87%8F%E9%87%8D%E5%88%B074%E6%96%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [张小斐古装造型](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E5%8F%A4%E8%A3%85%E9%80%A0%E5%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [和北大考研状元比赛是什么体验](https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%8C%97%E5%A4%A7%E8%80%83%E7%A0%94%E7%8A%B6%E5%85%83%E6%AF%94%E8%B5%9B%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [秦岚悬着的心终于吊死了](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E5%90%8A%E6%AD%BB%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [庆余年二预约破800万](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B4%E4%BA%8C%E9%A2%84%E7%BA%A6%E7%A0%B4800%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
