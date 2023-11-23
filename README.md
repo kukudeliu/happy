@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 19:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 19:48:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [倪妮 花神降临](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%20%E8%8A%B1%E7%A5%9E%E9%99%8D%E4%B8%B4&t=31&band_rank=6&Refer=top)<br />
 7. [再也不用8名战士分1个苹果了](https://s.weibo.com/weibo?q=%23%E5%86%8D%E4%B9%9F%E4%B8%8D%E7%94%A88%E5%90%8D%E6%88%98%E5%A3%AB%E5%88%861%E4%B8%AA%E8%8B%B9%E6%9E%9C%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [男子发嫁女短信被屏蔽致多位亲友未能出席](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%91%E5%AB%81%E5%A5%B3%E7%9F%AD%E4%BF%A1%E8%A2%AB%E5%B1%8F%E8%94%BD%E8%87%B4%E5%A4%9A%E4%BD%8D%E4%BA%B2%E5%8F%8B%E6%9C%AA%E8%83%BD%E5%87%BA%E5%B8%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [明星收3.3万元坑位费只卖出一包木耳](https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E6%94%B63.3%E4%B8%87%E5%85%83%E5%9D%91%E4%BD%8D%E8%B4%B9%E5%8F%AA%E5%8D%96%E5%87%BA%E4%B8%80%E5%8C%85%E6%9C%A8%E8%80%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [娜扎秒了](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%A7%92%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
