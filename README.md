@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 12:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 12:09:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [四川两县禁止私熏腊肉](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%A4%E5%8E%BF%E7%A6%81%E6%AD%A2%E7%A7%81%E7%86%8F%E8%85%8A%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [台湾最大金融诈骗案曝光 苏有朋中招](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%9C%80%E5%A4%A7%E9%87%91%E8%9E%8D%E8%AF%88%E9%AA%97%E6%A1%88%E6%9B%9D%E5%85%89+%E8%8B%8F%E6%9C%89%E6%9C%8B%E4%B8%AD%E6%8B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小区捡破烂大妈月入过万](https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA%E6%8D%A1%E7%A0%B4%E7%83%82%E5%A4%A7%E5%A6%88%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [70岁爷爷接错孙女到家都没发现](https://www.baidu.com/s?wd=70%E5%B2%81%E7%88%B7%E7%88%B7%E6%8E%A5%E9%94%99%E5%AD%99%E5%A5%B3%E5%88%B0%E5%AE%B6%E9%83%BD%E6%B2%A1%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北京一住户家中房顶能吸住扳手](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E4%BD%8F%E6%88%B7%E5%AE%B6%E4%B8%AD%E6%88%BF%E9%A1%B6%E8%83%BD%E5%90%B8%E4%BD%8F%E6%89%B3%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣女孩上学路上被强拽上车](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%A9%E4%B8%8A%E5%AD%A6%E8%B7%AF%E4%B8%8A%E8%A2%AB%E5%BC%BA%E6%8B%BD%E4%B8%8A%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [四川两县禁止私熏腊肉](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%A4%E5%8E%BF%E7%A6%81%E6%AD%A2%E7%A7%81%E7%86%8F%E8%85%8A%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [台湾最大金融诈骗案曝光 苏有朋中招](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%9C%80%E5%A4%A7%E9%87%91%E8%9E%8D%E8%AF%88%E9%AA%97%E6%A1%88%E6%9B%9D%E5%85%89+%E8%8B%8F%E6%9C%89%E6%9C%8B%E4%B8%AD%E6%8B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小区捡破烂大妈月入过万](https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA%E6%8D%A1%E7%A0%B4%E7%83%82%E5%A4%A7%E5%A6%88%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [70岁爷爷接错孙女到家都没发现](https://www.baidu.com/s?wd=70%E5%B2%81%E7%88%B7%E7%88%B7%E6%8E%A5%E9%94%99%E5%AD%99%E5%A5%B3%E5%88%B0%E5%AE%B6%E9%83%BD%E6%B2%A1%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北京一住户家中房顶能吸住扳手](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E4%BD%8F%E6%88%B7%E5%AE%B6%E4%B8%AD%E6%88%BF%E9%A1%B6%E8%83%BD%E5%90%B8%E4%BD%8F%E6%89%B3%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣女孩上学路上被强拽上车](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%A9%E4%B8%8A%E5%AD%A6%E8%B7%AF%E4%B8%8A%E8%A2%AB%E5%BC%BA%E6%8B%BD%E4%B8%8A%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
