@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 12:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 12:30:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [主播涉赌上亿被斗鱼评为年度十佳](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E6%B6%89%E8%B5%8C%E4%B8%8A%E4%BA%BF%E8%A2%AB%E6%96%97%E9%B1%BC%E8%AF%84%E4%B8%BA%E5%B9%B4%E5%BA%A6%E5%8D%81%E4%BD%B3%23&t=31&band_rank=4&Refer=top)<br />
 5. [张雪峰问20年后还有必要上大学吗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E9%97%AE20%E5%B9%B4%E5%90%8E%E8%BF%98%E6%9C%89%E5%BF%85%E8%A6%81%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [湖南一村明确出嫁女不参与分配](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E6%9D%91%E6%98%8E%E7%A1%AE%E5%87%BA%E5%AB%81%E5%A5%B3%E4%B8%8D%E5%8F%82%E4%B8%8E%E5%88%86%E9%85%8D%23&t=31&band_rank=6&Refer=top)<br />
-7. [坚持睡前涂唇膏很有用](https://s.weibo.com/weibo?q=%E5%9D%9A%E6%8C%81%E7%9D%A1%E5%89%8D%E6%B6%82%E5%94%87%E8%86%8F%E5%BE%88%E6%9C%89%E7%94%A8&t=31&band_rank=7&Refer=top)<br />
-8. [志愿军](https://s.weibo.com/weibo?q=%E5%BF%97%E6%84%BF%E5%86%9B&t=31&band_rank=8&Refer=top)<br />
+7. [志愿军](https://s.weibo.com/weibo?q=%E5%BF%97%E6%84%BF%E5%86%9B&t=31&band_rank=7&Refer=top)<br />
+8. [坚持睡前涂唇膏很有用](https://s.weibo.com/weibo?q=%E5%9D%9A%E6%8C%81%E7%9D%A1%E5%89%8D%E6%B6%82%E5%94%87%E8%86%8F%E5%BE%88%E6%9C%89%E7%94%A8&t=31&band_rank=8&Refer=top)<br />
 9. [秦岚悬着的心终于吊死了](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E5%90%8A%E6%AD%BB%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
