@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 14:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 14:14:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张小斐古装造型](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E5%8F%A4%E8%A3%85%E9%80%A0%E5%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [T1冠军阵容全员续约](https://s.weibo.com/weibo?q=%23T1%E5%86%A0%E5%86%9B%E9%98%B5%E5%AE%B9%E5%85%A8%E5%91%98%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [朴敏英为演癌症患者减重到74斤](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E6%95%8F%E8%8B%B1%E4%B8%BA%E6%BC%94%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E5%87%8F%E9%87%8D%E5%88%B074%E6%96%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [庆余年二预约破800万](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B4%E4%BA%8C%E9%A2%84%E7%BA%A6%E7%A0%B4800%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [霸王茶姬回应小程序拥堵](https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%8B%A5%E5%A0%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
