@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 18:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 18:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [网友晒图称华为手机替自己挡子弹](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%99%92%E5%9B%BE%E7%A7%B0%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E6%9B%BF%E8%87%AA%E5%B7%B1%E6%8C%A1%E5%AD%90%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [不缴暖气费全靠蹭邻居?热力公司回应](https://www.baidu.com/s?wd=%E4%B8%8D%E7%BC%B4%E6%9A%96%E6%B0%94%E8%B4%B9%E5%85%A8%E9%9D%A0%E8%B9%AD%E9%82%BB%E5%B1%85%3F%E7%83%AD%E5%8A%9B%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杜旭东新剧被AI换脸](https://www.baidu.com/s?wd=%E6%9D%9C%E6%97%AD%E4%B8%9C%E6%96%B0%E5%89%A7%E8%A2%ABAI%E6%8D%A2%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度机场附近现“不明飞行物”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%9C%BA%E5%9C%BA%E9%99%84%E8%BF%91%E7%8E%B0%E2%80%9C%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [包子铺卖豆腐脑被罚15000合理吗](https://www.baidu.com/s?wd=%E5%8C%85%E5%AD%90%E9%93%BA%E5%8D%96%E8%B1%86%E8%85%90%E8%84%91%E8%A2%AB%E7%BD%9A15000%E5%90%88%E7%90%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [济南辟谣轿车坠桥砸死快递小哥](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E8%BE%9F%E8%B0%A3%E8%BD%BF%E8%BD%A6%E5%9D%A0%E6%A1%A5%E7%A0%B8%E6%AD%BB%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [网友晒图称华为手机替自己挡子弹](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%99%92%E5%9B%BE%E7%A7%B0%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E6%9B%BF%E8%87%AA%E5%B7%B1%E6%8C%A1%E5%AD%90%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [不缴暖气费全靠蹭邻居?热力公司回应](https://www.baidu.com/s?wd=%E4%B8%8D%E7%BC%B4%E6%9A%96%E6%B0%94%E8%B4%B9%E5%85%A8%E9%9D%A0%E8%B9%AD%E9%82%BB%E5%B1%85%3F%E7%83%AD%E5%8A%9B%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杜旭东新剧被AI换脸](https://www.baidu.com/s?wd=%E6%9D%9C%E6%97%AD%E4%B8%9C%E6%96%B0%E5%89%A7%E8%A2%ABAI%E6%8D%A2%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度机场附近现“不明飞行物”](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%9C%BA%E5%9C%BA%E9%99%84%E8%BF%91%E7%8E%B0%E2%80%9C%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [包子铺卖豆腐脑被罚15000合理吗](https://www.baidu.com/s?wd=%E5%8C%85%E5%AD%90%E9%93%BA%E5%8D%96%E8%B1%86%E8%85%90%E8%84%91%E8%A2%AB%E7%BD%9A15000%E5%90%88%E7%90%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [济南辟谣轿车坠桥砸死快递小哥](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E8%BE%9F%E8%B0%A3%E8%BD%BF%E8%BD%A6%E5%9D%A0%E6%A1%A5%E7%A0%B8%E6%AD%BB%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
