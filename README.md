@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 17:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-23 17:11:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [英雄回家](https://www.baidu.com/s?wd=%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [美菲位南海联合巡航 南部战区回应](https://www.baidu.com/s?wd=%E7%BE%8E%E8%8F%B2%E4%BD%8D%E5%8D%97%E6%B5%B7%E8%81%94%E5%90%88%E5%B7%A1%E8%88%AA+%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [儿科医生坐阳台吃饭：怕传染孩子](https://www.baidu.com/s?wd=%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E5%9D%90%E9%98%B3%E5%8F%B0%E5%90%83%E9%A5%AD%EF%BC%9A%E6%80%95%E4%BC%A0%E6%9F%93%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [胡锡进谈亮亮丽君准备回老家](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%B0%88%E4%BA%AE%E4%BA%AE%E4%B8%BD%E5%90%9B%E5%87%86%E5%A4%87%E5%9B%9E%E8%80%81%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多彩旅游模式拉动新消费](https://www.baidu.com/s?wd=%E5%A4%9A%E5%BD%A9%E6%97%85%E6%B8%B8%E6%A8%A1%E5%BC%8F%E6%8B%89%E5%8A%A8%E6%96%B0%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网友晒图称华为手机替自己挡子弹](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%99%92%E5%9B%BE%E7%A7%B0%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E6%9B%BF%E8%87%AA%E5%B7%B1%E6%8C%A1%E5%AD%90%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [英雄回家](https://www.baidu.com/s?wd=%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [美菲位南海联合巡航 南部战区回应](https://www.baidu.com/s?wd=%E7%BE%8E%E8%8F%B2%E4%BD%8D%E5%8D%97%E6%B5%B7%E8%81%94%E5%90%88%E5%B7%A1%E8%88%AA+%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [儿科医生坐阳台吃饭：怕传染孩子](https://www.baidu.com/s?wd=%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E5%9D%90%E9%98%B3%E5%8F%B0%E5%90%83%E9%A5%AD%EF%BC%9A%E6%80%95%E4%BC%A0%E6%9F%93%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [胡锡进谈亮亮丽君准备回老家](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%B0%88%E4%BA%AE%E4%BA%AE%E4%B8%BD%E5%90%9B%E5%87%86%E5%A4%87%E5%9B%9E%E8%80%81%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多彩旅游模式拉动新消费](https://www.baidu.com/s?wd=%E5%A4%9A%E5%BD%A9%E6%97%85%E6%B8%B8%E6%A8%A1%E5%BC%8F%E6%8B%89%E5%8A%A8%E6%96%B0%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网友晒图称华为手机替自己挡子弹](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%99%92%E5%9B%BE%E7%A7%B0%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E6%9B%BF%E8%87%AA%E5%B7%B1%E6%8C%A1%E5%AD%90%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
