@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 15:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 15:42:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [郭台铭宣布退选](https://www.baidu.com/s?wd=%E9%83%AD%E5%8F%B0%E9%93%AD%E5%AE%A3%E5%B8%83%E9%80%80%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子退货被拒4个月狂退277支口红](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%80%80%E8%B4%A7%E8%A2%AB%E6%8B%924%E4%B8%AA%E6%9C%88%E7%8B%82%E9%80%80277%E6%94%AF%E5%8F%A3%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴亦凡案二审维持13年原判](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%A6%E5%87%A1%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%8113%E5%B9%B4%E5%8E%9F%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苏有朋方回应被金融诈骗](https://www.baidu.com/s?wd=%E8%8B%8F%E6%9C%89%E6%9C%8B%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%AB%E9%87%91%E8%9E%8D%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [月薪2万的年轻人只逛打折区](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA2%E4%B8%87%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%AA%E9%80%9B%E6%89%93%E6%8A%98%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣辅警招录可包上岸](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%BE%85%E8%AD%A6%E6%8B%9B%E5%BD%95%E5%8F%AF%E5%8C%85%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [郭台铭宣布退选](https://www.baidu.com/s?wd=%E9%83%AD%E5%8F%B0%E9%93%AD%E5%AE%A3%E5%B8%83%E9%80%80%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子退货被拒4个月狂退277支口红](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%80%80%E8%B4%A7%E8%A2%AB%E6%8B%924%E4%B8%AA%E6%9C%88%E7%8B%82%E9%80%80277%E6%94%AF%E5%8F%A3%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴亦凡案二审维持13年原判](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%A6%E5%87%A1%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%8113%E5%B9%B4%E5%8E%9F%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苏有朋方回应被金融诈骗](https://www.baidu.com/s?wd=%E8%8B%8F%E6%9C%89%E6%9C%8B%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%AB%E9%87%91%E8%9E%8D%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [月薪2万的年轻人只逛打折区](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA2%E4%B8%87%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%AA%E9%80%9B%E6%89%93%E6%8A%98%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣辅警招录可包上岸](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%BE%85%E8%AD%A6%E6%8B%9B%E5%BD%95%E5%8F%AF%E5%8C%85%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
