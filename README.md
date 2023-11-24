@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 01:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 01:28:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [崔雪莉曾说做韩流偶像最惨](https://s.weibo.com/weibo?q=%23%E5%B4%94%E9%9B%AA%E8%8E%89%E6%9B%BE%E8%AF%B4%E5%81%9A%E9%9F%A9%E6%B5%81%E5%81%B6%E5%83%8F%E6%9C%80%E6%83%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [吴莫愁退圈三年直言听歌想吐](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%8E%AB%E6%84%81%E9%80%80%E5%9C%88%E4%B8%89%E5%B9%B4%E7%9B%B4%E8%A8%80%E5%90%AC%E6%AD%8C%E6%83%B3%E5%90%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [吴亦凡要先在中国坐完牢再被驱逐出境](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A6%81%E5%85%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%9D%90%E5%AE%8C%E7%89%A2%E5%86%8D%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [郎朗证明孩子是在和钢琴友好交流](https://s.weibo.com/weibo?q=%E9%83%8E%E6%9C%97%E8%AF%81%E6%98%8E%E5%AD%A9%E5%AD%90%E6%98%AF%E5%9C%A8%E5%92%8C%E9%92%A2%E7%90%B4%E5%8F%8B%E5%A5%BD%E4%BA%A4%E6%B5%81&t=31&band_rank=7&Refer=top)<br />
-8. [赵昭仪发5秒 秦岚回25秒](https://s.weibo.com/weibo?q=%E8%B5%B5%E6%98%AD%E4%BB%AA%E5%8F%915%E7%A7%92%20%E7%A7%A6%E5%B2%9A%E5%9B%9E25%E7%A7%92&t=31&band_rank=8&Refer=top)<br />
+7. [赵昭仪发5秒 秦岚回25秒](https://s.weibo.com/weibo?q=%E8%B5%B5%E6%98%AD%E4%BB%AA%E5%8F%915%E7%A7%92%20%E7%A7%A6%E5%B2%9A%E5%9B%9E25%E7%A7%92&t=31&band_rank=7&Refer=top)<br />
+8. [郎朗证明孩子是在和钢琴友好交流](https://s.weibo.com/weibo?q=%E9%83%8E%E6%9C%97%E8%AF%81%E6%98%8E%E5%AD%A9%E5%AD%90%E6%98%AF%E5%9C%A8%E5%92%8C%E9%92%A2%E7%90%B4%E5%8F%8B%E5%A5%BD%E4%BA%A4%E6%B5%81&t=31&band_rank=8&Refer=top)<br />
 9. [小鹿拍戏亲过白宇十多次](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%BF%E6%8B%8D%E6%88%8F%E4%BA%B2%E8%BF%87%E7%99%BD%E5%AE%87%E5%8D%81%E5%A4%9A%E6%AC%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
