@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 22:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 22:23:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [谢危亲了一晚上嘴皮子都破了吧](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8D%B1%E4%BA%B2%E4%BA%86%E4%B8%80%E6%99%9A%E4%B8%8A%E5%98%B4%E7%9A%AE%E5%AD%90%E9%83%BD%E7%A0%B4%E4%BA%86%E5%90%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [吴莫愁退圈三年直言听歌想吐](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%8E%AB%E6%84%81%E9%80%80%E5%9C%88%E4%B8%89%E5%B9%B4%E7%9B%B4%E8%A8%80%E5%90%AC%E6%AD%8C%E6%83%B3%E5%90%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [清华北大 鹅腿阿姨之争](https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%20%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E4%B9%8B%E4%BA%89&t=31&band_rank=8&Refer=top)<br />
-9. [不想读研想去景德镇捏泥巴](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%83%B3%E8%AF%BB%E7%A0%94%E6%83%B3%E5%8E%BB%E6%99%AF%E5%BE%B7%E9%95%87%E6%8D%8F%E6%B3%A5%E5%B7%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [文慧心郑书意 新闻人穿搭](https://s.weibo.com/weibo?q=%E6%96%87%E6%85%A7%E5%BF%83%E9%83%91%E4%B9%A6%E6%84%8F%20%E6%96%B0%E9%97%BB%E4%BA%BA%E7%A9%BF%E6%90%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
