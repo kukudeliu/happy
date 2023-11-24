@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 15:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 15:39:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [淘宝取消双12](https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%8F%96%E6%B6%88%E5%8F%8C12%23&t=31&band_rank=4&Refer=top)<br />
 5. [尚雯婕回应我是歌手淘汰](https://s.weibo.com/weibo?q=%23%E5%B0%9A%E9%9B%AF%E5%A9%95%E5%9B%9E%E5%BA%94%E6%88%91%E6%98%AF%E6%AD%8C%E6%89%8B%E6%B7%98%E6%B1%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [吴亦凡聚众淫乱系首要分子](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1%E7%B3%BB%E9%A6%96%E8%A6%81%E5%88%86%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
-7. [晴儿归来已是皇后](https://s.weibo.com/weibo?q=%23%E6%99%B4%E5%84%BF%E5%BD%92%E6%9D%A5%E5%B7%B2%E6%98%AF%E7%9A%87%E5%90%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [霸王茶姬回应倒掉退单奶茶](https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%9B%9E%E5%BA%94%E5%80%92%E6%8E%89%E9%80%80%E5%8D%95%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=8&Refer=top)<br />
+7. [霸王茶姬回应倒掉退单奶茶](https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%9B%9E%E5%BA%94%E5%80%92%E6%8E%89%E9%80%80%E5%8D%95%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=7&Refer=top)<br />
+8. [晴儿归来已是皇后](https://s.weibo.com/weibo?q=%23%E6%99%B4%E5%84%BF%E5%BD%92%E6%9D%A5%E5%B7%B2%E6%98%AF%E7%9A%87%E5%90%8E%23&t=31&band_rank=8&Refer=top)<br />
 9. [吴亦凡亲属旁听二审宣判](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E4%BA%B2%E5%B1%9E%E6%97%81%E5%90%AC%E4%BA%8C%E5%AE%A1%E5%AE%A3%E5%88%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
