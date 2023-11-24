@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 22:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 22:08:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [谢危亲了一晚上嘴皮子都破了吧](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8D%B1%E4%BA%B2%E4%BA%86%E4%B8%80%E6%99%9A%E4%B8%8A%E5%98%B4%E7%9A%AE%E5%AD%90%E9%83%BD%E7%A0%B4%E4%BA%86%E5%90%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [淘宝取消双12](https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%8F%96%E6%B6%88%E5%8F%8C12%23&t=31&band_rank=6&Refer=top)<br />
 7. [吴莫愁退圈三年直言听歌想吐](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%8E%AB%E6%84%81%E9%80%80%E5%9C%88%E4%B8%89%E5%B9%B4%E7%9B%B4%E8%A8%80%E5%90%AC%E6%AD%8C%E6%83%B3%E5%90%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [不想读研想去景德镇捏泥巴](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%83%B3%E8%AF%BB%E7%A0%94%E6%83%B3%E5%8E%BB%E6%99%AF%E5%BE%B7%E9%95%87%E6%8D%8F%E6%B3%A5%E5%B7%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [kpop正遭受中输减少带来的打击](https://s.weibo.com/weibo?q=%23kpop%E6%AD%A3%E9%81%AD%E5%8F%97%E4%B8%AD%E8%BE%93%E5%87%8F%E5%B0%91%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%89%93%E5%87%BB%23&t=31&band_rank=9&Refer=top)<br />
+8. [kpop正遭受中输减少带来的打击](https://s.weibo.com/weibo?q=%23kpop%E6%AD%A3%E9%81%AD%E5%8F%97%E4%B8%AD%E8%BE%93%E5%87%8F%E5%B0%91%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%89%93%E5%87%BB%23&t=31&band_rank=8&Refer=top)<br />
+9. [不想读研想去景德镇捏泥巴](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%83%B3%E8%AF%BB%E7%A0%94%E6%83%B3%E5%8E%BB%E6%99%AF%E5%BE%B7%E9%95%87%E6%8D%8F%E6%B3%A5%E5%B7%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
