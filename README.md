@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 12:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 12:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [清华铊中毒案受害者朱令现状](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E9%93%8A%E4%B8%AD%E6%AF%92%E6%A1%88%E5%8F%97%E5%AE%B3%E8%80%85%E6%9C%B1%E4%BB%A4%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [章凝 张宇](https://s.weibo.com/weibo?q=%E7%AB%A0%E5%87%9D%20%E5%BC%A0%E5%AE%87&t=31&band_rank=7&Refer=top)<br />
 8. [退出直播间的明星转向新风口](https://s.weibo.com/weibo?q=%23%E9%80%80%E5%87%BA%E7%9B%B4%E6%92%AD%E9%97%B4%E7%9A%84%E6%98%8E%E6%98%9F%E8%BD%AC%E5%90%91%E6%96%B0%E9%A3%8E%E5%8F%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [丫丫也交到小鸟朋友了](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E4%B9%9F%E4%BA%A4%E5%88%B0%E5%B0%8F%E9%B8%9F%E6%9C%8B%E5%8F%8B%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [以爱为营番外 3块10分钟](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E7%95%AA%E5%A4%96%203%E5%9D%9710%E5%88%86%E9%92%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
