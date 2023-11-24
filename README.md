@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 20:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 20:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吴亦凡要先在中国坐完牢再被驱逐出境](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A6%81%E5%85%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%9D%90%E5%AE%8C%E7%89%A2%E5%86%8D%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [范丞丞关晓彤去王安宇外婆家吃饭](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%85%B3%E6%99%93%E5%BD%A4%E5%8E%BB%E7%8E%8B%E5%AE%89%E5%AE%87%E5%A4%96%E5%A9%86%E5%AE%B6%E5%90%83%E9%A5%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [免签](https://s.weibo.com/weibo?q=%E5%85%8D%E7%AD%BE&t=31&band_rank=8&Refer=top)<br />
-9. [三毛 迪丽热巴造型](https://s.weibo.com/weibo?q=%E4%B8%89%E6%AF%9B%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%80%A0%E5%9E%8B&t=31&band_rank=9&Refer=top)<br />
+9. [车辆不能从烈士遗骸上方驶过](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%BE%86%E4%B8%8D%E8%83%BD%E4%BB%8E%E7%83%88%E5%A3%AB%E9%81%97%E9%AA%B8%E4%B8%8A%E6%96%B9%E9%A9%B6%E8%BF%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
