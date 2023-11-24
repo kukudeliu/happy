@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 21:02:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 21:03:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [淘宝取消双12](https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%8F%96%E6%B6%88%E5%8F%8C12%23&t=31&band_rank=2&Refer=top)<br />
 3. [9招预防冬季呼吸道疾病](https://s.weibo.com/weibo?q=%239%E6%8B%9B%E9%A2%84%E9%98%B2%E5%86%AC%E5%AD%A3%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%23&t=31&band_rank=3&Refer=top)<br />
 4. [吴莫愁退圈三年直言听歌想吐](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%8E%AB%E6%84%81%E9%80%80%E5%9C%88%E4%B8%89%E5%B9%B4%E7%9B%B4%E8%A8%80%E5%90%AC%E6%AD%8C%E6%83%B3%E5%90%90%23&t=31&band_rank=4&Refer=top)<br />
-5. [林俊杰演唱会嘉宾 李健](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%20%E6%9D%8E%E5%81%A5&t=31&band_rank=5&Refer=top)<br />
+5. [谢危亲了一晚上嘴皮子都破了吧](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8D%B1%E4%BA%B2%E4%BA%86%E4%B8%80%E6%99%9A%E4%B8%8A%E5%98%B4%E7%9A%AE%E5%AD%90%E9%83%BD%E7%A0%B4%E4%BA%86%E5%90%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [吴亦凡要先在中国坐完牢再被驱逐出境](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A6%81%E5%85%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%9D%90%E5%AE%8C%E7%89%A2%E5%86%8D%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [郑秀晶红裙红毯造型](https://s.weibo.com/weibo?q=%23%E9%83%91%E7%A7%80%E6%99%B6%E7%BA%A2%E8%A3%99%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [何猷君 我最臭了](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E6%88%91%E6%9C%80%E8%87%AD%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [免签](https://s.weibo.com/weibo?q=%E5%85%8D%E7%AD%BE&t=31&band_rank=9&Refer=top)<br />
+7. [林俊杰演唱会嘉宾 李健](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%20%E6%9D%8E%E5%81%A5&t=31&band_rank=7&Refer=top)<br />
+8. [郑秀晶红裙红毯造型](https://s.weibo.com/weibo?q=%23%E9%83%91%E7%A7%80%E6%99%B6%E7%BA%A2%E8%A3%99%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [何猷君 我最臭了](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E6%88%91%E6%9C%80%E8%87%AD%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,7 +21,7 @@
 2. [中国驻缅使馆发布紧急提醒](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E7%BC%85%E4%BD%BF%E9%A6%86%E5%8F%91%E5%B8%83%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [自如租房半年发现生活用水为中水](https://www.baidu.com/s?wd=%E8%87%AA%E5%A6%82%E7%A7%9F%E6%88%BF%E5%8D%8A%E5%B9%B4%E5%8F%91%E7%8E%B0%E7%94%9F%E6%B4%BB%E7%94%A8%E6%B0%B4%E4%B8%BA%E4%B8%AD%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地加大秋粮收储力度](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E5%8A%A0%E5%A4%A7%E7%A7%8B%E7%B2%AE%E6%94%B6%E5%82%A8%E5%8A%9B%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [帮未婚男青年脱单 奖励红娘1000元](https://www.baidu.com/s?wd=%E5%B8%AE%E6%9C%AA%E5%A9%9A%E7%94%B7%E9%9D%92%E5%B9%B4%E8%84%B1%E5%8D%95+%E5%A5%96%E5%8A%B1%E7%BA%A2%E5%A8%981000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [清华北大人大 鹅腿阿姨之争](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E4%BA%BA%E5%A4%A7+%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E4%B9%8B%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马云入局预制菜](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E5%85%A5%E5%B1%80%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方：吴亦凡需服刑完再被驱逐出境](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E5%90%B4%E4%BA%A6%E5%87%A1%E9%9C%80%E6%9C%8D%E5%88%91%E5%AE%8C%E5%86%8D%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [沈阳市民带1800个苹果祭扫英烈](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E5%B8%82%E6%B0%91%E5%B8%A61800%E4%B8%AA%E8%8B%B9%E6%9E%9C%E7%A5%AD%E6%89%AB%E8%8B%B1%E7%83%88&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [中国驻缅使馆发布紧急提醒](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E7%BC%85%E4%BD%BF%E9%A6%86%E5%8F%91%E5%B8%83%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [自如租房半年发现生活用水为中水](https://www.baidu.com/s?wd=%E8%87%AA%E5%A6%82%E7%A7%9F%E6%88%BF%E5%8D%8A%E5%B9%B4%E5%8F%91%E7%8E%B0%E7%94%9F%E6%B4%BB%E7%94%A8%E6%B0%B4%E4%B8%BA%E4%B8%AD%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地加大秋粮收储力度](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E5%8A%A0%E5%A4%A7%E7%A7%8B%E7%B2%AE%E6%94%B6%E5%82%A8%E5%8A%9B%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [帮未婚男青年脱单 奖励红娘1000元](https://www.baidu.com/s?wd=%E5%B8%AE%E6%9C%AA%E5%A9%9A%E7%94%B7%E9%9D%92%E5%B9%B4%E8%84%B1%E5%8D%95+%E5%A5%96%E5%8A%B1%E7%BA%A2%E5%A8%981000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [清华北大人大 鹅腿阿姨之争](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E4%BA%BA%E5%A4%A7+%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E4%B9%8B%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马云入局预制菜](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E5%85%A5%E5%B1%80%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方：吴亦凡需服刑完再被驱逐出境](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E5%90%B4%E4%BA%A6%E5%87%A1%E9%9C%80%E6%9C%8D%E5%88%91%E5%AE%8C%E5%86%8D%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [沈阳市民带1800个苹果祭扫英烈](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E5%B8%82%E6%B0%91%E5%B8%A61800%E4%B8%AA%E8%8B%B9%E6%9E%9C%E7%A5%AD%E6%89%AB%E8%8B%B1%E7%83%88&sa=fyb_news&rsv_dl=fyb_news)<br />
