@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 13:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 13:34:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [吴亦凡亲属旁听二审宣判](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E4%BA%B2%E5%B1%9E%E6%97%81%E5%90%AC%E4%BA%8C%E5%AE%A1%E5%AE%A3%E5%88%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [苏有朋被金融诈骗](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9C%89%E6%9C%8B%E8%A2%AB%E9%87%91%E8%9E%8D%E8%AF%88%E9%AA%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [哈工大同宿舍3人全部当选院士](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A7%E5%90%8C%E5%AE%BF%E8%88%8D3%E4%BA%BA%E5%85%A8%E9%83%A8%E5%BD%93%E9%80%89%E9%99%A2%E5%A3%AB%23&t=31&band_rank=6&Refer=top)<br />
-7. [以爱为营番外 3块10分钟](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E7%95%AA%E5%A4%96%203%E5%9D%9710%E5%88%86%E9%92%9F&t=31&band_rank=7&Refer=top)<br />
-8. [章凝 张宇](https://s.weibo.com/weibo?q=%E7%AB%A0%E5%87%9D%20%E5%BC%A0%E5%AE%87&t=31&band_rank=8&Refer=top)<br />
+7. [章凝 张宇](https://s.weibo.com/weibo?q=%E7%AB%A0%E5%87%9D%20%E5%BC%A0%E5%AE%87&t=31&band_rank=7&Refer=top)<br />
+8. [以爱为营番外 3块10分钟](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E7%95%AA%E5%A4%96%203%E5%9D%9710%E5%88%86%E9%92%9F&t=31&band_rank=8&Refer=top)<br />
 9. [丫丫也交到小鸟朋友了](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E4%B9%9F%E4%BA%A4%E5%88%B0%E5%B0%8F%E9%B8%9F%E6%9C%8B%E5%8F%8B%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
