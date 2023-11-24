@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 17:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 17:34:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [感染高峰有医院急诊等待超10小时](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E9%AB%98%E5%B3%B0%E6%9C%89%E5%8C%BB%E9%99%A2%E6%80%A5%E8%AF%8A%E7%AD%89%E5%BE%85%E8%B6%8510%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [调查:很多男生一个引体向上都做不了](https://www.baidu.com/s?wd=%E8%B0%83%E6%9F%A5%3A%E5%BE%88%E5%A4%9A%E7%94%B7%E7%94%9F%E4%B8%80%E4%B8%AA%E5%BC%95%E4%BD%93%E5%90%91%E4%B8%8A%E9%83%BD%E5%81%9A%E4%B8%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴亦凡案二审维持13年原判](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%A6%E5%87%A1%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%8113%E5%B9%B4%E5%8E%9F%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [WCBA冲突处罚：20人被罚款并停赛](https://www.baidu.com/s?wd=WCBA%E5%86%B2%E7%AA%81%E5%A4%84%E7%BD%9A%EF%BC%9A20%E4%BA%BA%E8%A2%AB%E7%BD%9A%E6%AC%BE%E5%B9%B6%E5%81%9C%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [麦当劳终于看懂了金拱门](https://www.baidu.com/s?wd=%E9%BA%A6%E5%BD%93%E5%8A%B3%E7%BB%88%E4%BA%8E%E7%9C%8B%E6%87%82%E4%BA%86%E9%87%91%E6%8B%B1%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣辅警招录可包上岸](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%BE%85%E8%AD%A6%E6%8B%9B%E5%BD%95%E5%8F%AF%E5%8C%85%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [感染高峰有医院急诊等待超10小时](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E9%AB%98%E5%B3%B0%E6%9C%89%E5%8C%BB%E9%99%A2%E6%80%A5%E8%AF%8A%E7%AD%89%E5%BE%85%E8%B6%8510%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [调查:很多男生一个引体向上都做不了](https://www.baidu.com/s?wd=%E8%B0%83%E6%9F%A5%3A%E5%BE%88%E5%A4%9A%E7%94%B7%E7%94%9F%E4%B8%80%E4%B8%AA%E5%BC%95%E4%BD%93%E5%90%91%E4%B8%8A%E9%83%BD%E5%81%9A%E4%B8%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴亦凡案二审维持13年原判](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%A6%E5%87%A1%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%8113%E5%B9%B4%E5%8E%9F%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [WCBA冲突处罚：20人被罚款并停赛](https://www.baidu.com/s?wd=WCBA%E5%86%B2%E7%AA%81%E5%A4%84%E7%BD%9A%EF%BC%9A20%E4%BA%BA%E8%A2%AB%E7%BD%9A%E6%AC%BE%E5%B9%B6%E5%81%9C%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [麦当劳终于看懂了金拱门](https://www.baidu.com/s?wd=%E9%BA%A6%E5%BD%93%E5%8A%B3%E7%BB%88%E4%BA%8E%E7%9C%8B%E6%87%82%E4%BA%86%E9%87%91%E6%8B%B1%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣辅警招录可包上岸](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%BE%85%E8%AD%A6%E6%8B%9B%E5%BD%95%E5%8F%AF%E5%8C%85%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
