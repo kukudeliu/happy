@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 12:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 12:07:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [英雄回家](https://www.baidu.com/s?wd=%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [吴亦凡案二审维持13年原判](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%A6%E5%87%A1%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%8113%E5%B9%B4%E5%8E%9F%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [清华铊中毒案受害者朱令陷深度昏迷](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E9%93%8A%E4%B8%AD%E6%AF%92%E6%A1%88%E5%8F%97%E5%AE%B3%E8%80%85%E6%9C%B1%E4%BB%A4%E9%99%B7%E6%B7%B1%E5%BA%A6%E6%98%8F%E8%BF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [吴亦凡聚众淫乱系首要分子](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%A6%E5%87%A1%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1%E7%B3%BB%E9%A6%96%E8%A6%81%E5%88%86%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数据折射经济“热度”](https://www.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E6%8A%98%E5%B0%84%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%83%AD%E5%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央视网：边输液边做题 理解但不支持](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%EF%BC%9A%E8%BE%B9%E8%BE%93%E6%B6%B2%E8%BE%B9%E5%81%9A%E9%A2%98+%E7%90%86%E8%A7%A3%E4%BD%86%E4%B8%8D%E6%94%AF%E6%8C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [英雄回家](https://www.baidu.com/s?wd=%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [吴亦凡案二审维持13年原判](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%A6%E5%87%A1%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%8113%E5%B9%B4%E5%8E%9F%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [清华铊中毒案受害者朱令陷深度昏迷](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E9%93%8A%E4%B8%AD%E6%AF%92%E6%A1%88%E5%8F%97%E5%AE%B3%E8%80%85%E6%9C%B1%E4%BB%A4%E9%99%B7%E6%B7%B1%E5%BA%A6%E6%98%8F%E8%BF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [吴亦凡聚众淫乱系首要分子](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%A6%E5%87%A1%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1%E7%B3%BB%E9%A6%96%E8%A6%81%E5%88%86%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数据折射经济“热度”](https://www.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E6%8A%98%E5%B0%84%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%83%AD%E5%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央视网：边输液边做题 理解但不支持](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%EF%BC%9A%E8%BE%B9%E8%BE%93%E6%B6%B2%E8%BE%B9%E5%81%9A%E9%A2%98+%E7%90%86%E8%A7%A3%E4%BD%86%E4%B8%8D%E6%94%AF%E6%8C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
