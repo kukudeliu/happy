@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 09:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 09:33:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [河南一救护车多次载人跨市买毒品](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E6%95%91%E6%8A%A4%E8%BD%A6%E5%A4%9A%E6%AC%A1%E8%BD%BD%E4%BA%BA%E8%B7%A8%E5%B8%82%E4%B9%B0%E6%AF%92%E5%93%81%23&t=31&band_rank=2&Refer=top)<br />
 3. [全世界只有两个国家拥有时速350公里的高铁](https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E5%8F%AA%E6%9C%89%E4%B8%A4%E4%B8%AA%E5%9B%BD%E5%AE%B6%E6%8B%A5%E6%9C%89%E6%97%B6%E9%80%9F350%E5%85%AC%E9%87%8C%E7%9A%84%E9%AB%98%E9%93%81%23&t=31&band_rank=3&Refer=top)<br />
 4. [港剧从来都不会年龄焦虑](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%89%A7%E4%BB%8E%E6%9D%A5%E9%83%BD%E4%B8%8D%E4%BC%9A%E5%B9%B4%E9%BE%84%E7%84%A6%E8%99%91%23&t=31&band_rank=4&Refer=top)<br />
-5. [头发这样洗一周只用洗一次头](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E8%BF%99%E6%A0%B7%E6%B4%97%E4%B8%80%E5%91%A8%E5%8F%AA%E7%94%A8%E6%B4%97%E4%B8%80%E6%AC%A1%E5%A4%B4&t=31&band_rank=5&Refer=top)<br />
+5. [北京儿童医院门诊现状](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2%E9%97%A8%E8%AF%8A%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [娜扎秒了](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%A7%92%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [北京儿童医院门诊现状](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2%E9%97%A8%E8%AF%8A%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=7&Refer=top)<br />
+7. [头发这样洗一周只用洗一次头](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E8%BF%99%E6%A0%B7%E6%B4%97%E4%B8%80%E5%91%A8%E5%8F%AA%E7%94%A8%E6%B4%97%E4%B8%80%E6%AC%A1%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
 8. [秦岚 作为同胞应该让您多挣钱的](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%20%E4%BD%9C%E4%B8%BA%E5%90%8C%E8%83%9E%E5%BA%94%E8%AF%A5%E8%AE%A9%E6%82%A8%E5%A4%9A%E6%8C%A3%E9%92%B1%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
 9. [熬夜是一种不得已的喘息](https://s.weibo.com/weibo?q=%E7%86%AC%E5%A4%9C%E6%98%AF%E4%B8%80%E7%A7%8D%E4%B8%8D%E5%BE%97%E5%B7%B2%E7%9A%84%E5%96%98%E6%81%AF&t=31&band_rank=9&Refer=top)<br />
 
