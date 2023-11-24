@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 16:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 16:18:01</h4></div>
 
 > 微博  
 
 1. [淘宝取消双12](https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%8F%96%E6%B6%88%E5%8F%8C12%23&t=31&band_rank=1&Refer=top)<br />
 2. [霸王茶姬回应倒掉退单奶茶](https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%9B%9E%E5%BA%94%E5%80%92%E6%8E%89%E9%80%80%E5%8D%95%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=2&Refer=top)<br />
-3. [免签](https://s.weibo.com/weibo?q=%E5%85%8D%E7%AD%BE&t=31&band_rank=3&Refer=top)<br />
-4. [中方将对法德意荷西马六国试行免签政策](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%86%E5%AF%B9%E6%B3%95%E5%BE%B7%E6%84%8F%E8%8D%B7%E8%A5%BF%E9%A9%AC%E5%85%AD%E5%9B%BD%E8%AF%95%E8%A1%8C%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%23&t=31&band_rank=4&Refer=top)<br />
+3. [魂兮归来英雄安息](https://s.weibo.com/weibo?q=%23%E9%AD%82%E5%85%AE%E5%BD%92%E6%9D%A5%E8%8B%B1%E9%9B%84%E5%AE%89%E6%81%AF%23&t=31&band_rank=3&Refer=top)<br />
+4. [免签](https://s.weibo.com/weibo?q=%E5%85%8D%E7%AD%BE&t=31&band_rank=4&Refer=top)<br />
 5. [乌尔善说演员要对自己的行为负责](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B0%94%E5%96%84%E8%AF%B4%E6%BC%94%E5%91%98%E8%A6%81%E5%AF%B9%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A1%8C%E4%B8%BA%E8%B4%9F%E8%B4%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [吴亦凡聚众淫乱系首要分子](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1%E7%B3%BB%E9%A6%96%E8%A6%81%E5%88%86%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
-7. [中国手机均价已达3480元](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%9D%87%E4%BB%B7%E5%B7%B2%E8%BE%BE3480%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [冬季儿童呼吸道疾病热点科普](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%AD%A3%E5%84%BF%E7%AB%A5%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E7%83%AD%E7%82%B9%E7%A7%91%E6%99%AE%23&t=31&band_rank=8&Refer=top)<br />
+7. [中方将对法德意荷西马六国试行免签政策](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%86%E5%AF%B9%E6%B3%95%E5%BE%B7%E6%84%8F%E8%8D%B7%E8%A5%BF%E9%A9%AC%E5%85%AD%E5%9B%BD%E8%AF%95%E8%A1%8C%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%23&t=31&band_rank=7&Refer=top)<br />
+8. [中国手机均价已达3480元](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%9D%87%E4%BB%B7%E5%B7%B2%E8%BE%BE3480%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [吴亦凡亲属旁听二审宣判](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E4%BA%B2%E5%B1%9E%E6%97%81%E5%90%AC%E4%BA%8C%E5%AE%A1%E5%AE%A3%E5%88%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [乌尔善称演员要对自己的行为负责](https://www.baidu.com/s?wd=%E4%B9%8C%E5%B0%94%E5%96%84%E7%A7%B0%E6%BC%94%E5%91%98%E8%A6%81%E5%AF%B9%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A1%8C%E4%B8%BA%E8%B4%9F%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [郭台铭宣布退选](https://www.baidu.com/s?wd=%E9%83%AD%E5%8F%B0%E9%93%AD%E5%AE%A3%E5%B8%83%E9%80%80%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴亦凡案二审维持13年原判](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%A6%E5%87%A1%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%8113%E5%B9%B4%E5%8E%9F%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苏有朋方回应被金融诈骗](https://www.baidu.com/s?wd=%E8%8B%8F%E6%9C%89%E6%9C%8B%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%AB%E9%87%91%E8%9E%8D%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老人欲跳楼轻生 女子大喊跳下来啊](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%AC%B2%E8%B7%B3%E6%A5%BC%E8%BD%BB%E7%94%9F+%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%96%8A%E8%B7%B3%E4%B8%8B%E6%9D%A5%E5%95%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣辅警招录可包上岸](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%BE%85%E8%AD%A6%E6%8B%9B%E5%BD%95%E5%8F%AF%E5%8C%85%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [乌尔善称演员要对自己的行为负责](https://www.baidu.com/s?wd=%E4%B9%8C%E5%B0%94%E5%96%84%E7%A7%B0%E6%BC%94%E5%91%98%E8%A6%81%E5%AF%B9%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A1%8C%E4%B8%BA%E8%B4%9F%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [郭台铭宣布退选](https://www.baidu.com/s?wd=%E9%83%AD%E5%8F%B0%E9%93%AD%E5%AE%A3%E5%B8%83%E9%80%80%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴亦凡案二审维持13年原判](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%A6%E5%87%A1%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%8113%E5%B9%B4%E5%8E%9F%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苏有朋方回应被金融诈骗](https://www.baidu.com/s?wd=%E8%8B%8F%E6%9C%89%E6%9C%8B%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%AB%E9%87%91%E8%9E%8D%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老人欲跳楼轻生 女子大喊跳下来啊](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%AC%B2%E8%B7%B3%E6%A5%BC%E8%BD%BB%E7%94%9F+%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%96%8A%E8%B7%B3%E4%B8%8B%E6%9D%A5%E5%95%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣辅警招录可包上岸](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%BE%85%E8%AD%A6%E6%8B%9B%E5%BD%95%E5%8F%AF%E5%8C%85%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
