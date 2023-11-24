@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 20:16:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 20:17:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [吴莫愁退圈三年直言听歌想吐](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%8E%AB%E6%84%81%E9%80%80%E5%9C%88%E4%B8%89%E5%B9%B4%E7%9B%B4%E8%A8%80%E5%90%AC%E6%AD%8C%E6%83%B3%E5%90%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [马云入局预制菜](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BA%91%E5%85%A5%E5%B1%80%E9%A2%84%E5%88%B6%E8%8F%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [吴亦凡要先在中国坐完牢再被驱逐出境](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A6%81%E5%85%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%9D%90%E5%AE%8C%E7%89%A2%E5%86%8D%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [范丞丞关晓彤去王安宇外婆家吃饭](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%85%B3%E6%99%93%E5%BD%A4%E5%8E%BB%E7%8E%8B%E5%AE%89%E5%AE%87%E5%A4%96%E5%A9%86%E5%AE%B6%E5%90%83%E9%A5%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [清华北大 鹅腿阿姨之争](https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%20%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E4%B9%8B%E4%BA%89&t=31&band_rank=8&Refer=top)<br />
+7. [清华北大 鹅腿阿姨之争](https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%20%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E4%B9%8B%E4%BA%89&t=31&band_rank=7&Refer=top)<br />
+8. [范丞丞关晓彤去王安宇外婆家吃饭](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%85%B3%E6%99%93%E5%BD%A4%E5%8E%BB%E7%8E%8B%E5%AE%89%E5%AE%87%E5%A4%96%E5%A9%86%E5%AE%B6%E5%90%83%E9%A5%AD%23&t=31&band_rank=8&Refer=top)<br />
 9. [车辆不能从烈士遗骸上方驶过](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%BE%86%E4%B8%8D%E8%83%BD%E4%BB%8E%E7%83%88%E5%A3%AB%E9%81%97%E9%AA%B8%E4%B8%8A%E6%96%B9%E9%A9%B6%E8%BF%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
