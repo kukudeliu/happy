@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 10:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 10:26:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [韩网友评价鬼怪过时](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E5%8F%8B%E8%AF%84%E4%BB%B7%E9%AC%BC%E6%80%AA%E8%BF%87%E6%97%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [娜扎秒了](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%A7%92%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫 华伦天奴](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E5%8D%8E%E4%BC%A6%E5%A4%A9%E5%A5%B4&t=31&band_rank=7&Refer=top)<br />
-8. [港剧从来都不会年龄焦虑](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%89%A7%E4%BB%8E%E6%9D%A5%E9%83%BD%E4%B8%8D%E4%BC%9A%E5%B9%B4%E9%BE%84%E7%84%A6%E8%99%91%23&t=31&band_rank=8&Refer=top)<br />
+8. [一念关山定档](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
 9. [志愿军烈士遗骸安葬仪式](https://s.weibo.com/weibo?q=%23%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E9%81%97%E9%AA%B8%E5%AE%89%E8%91%AC%E4%BB%AA%E5%BC%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
