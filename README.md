@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 11:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 11:42:02</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [英雄回家](https://www.baidu.com/s?wd=%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [吴亦凡案二审维持13年原判](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%A6%E5%87%A1%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%8113%E5%B9%B4%E5%8E%9F%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [央视网：边输液边做题 理解但不支持](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%EF%BC%9A%E8%BE%B9%E8%BE%93%E6%B6%B2%E8%BE%B9%E5%81%9A%E9%A2%98+%E7%90%86%E8%A7%A3%E4%BD%86%E4%B8%8D%E6%94%AF%E6%8C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [法院：吴亦凡系聚众淫乱首要分子](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%EF%BC%9A%E5%90%B4%E4%BA%A6%E5%87%A1%E7%B3%BB%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1%E9%A6%96%E8%A6%81%E5%88%86%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数据折射经济“热度”](https://www.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E6%8A%98%E5%B0%84%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%83%AD%E5%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：必须考虑如何结束这场悲剧](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E5%BF%85%E9%A1%BB%E8%80%83%E8%99%91%E5%A6%82%E4%BD%95%E7%BB%93%E6%9D%9F%E8%BF%99%E5%9C%BA%E6%82%B2%E5%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [吴秀波及其公司被强执4.66亿](https://www.baidu.com/s?wd=%E5%90%B4%E7%A7%80%E6%B3%A2%E5%8F%8A%E5%85%B6%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%BC%BA%E6%89%A74.66%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [英雄回家](https://www.baidu.com/s?wd=%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [吴亦凡案二审维持13年原判](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%A6%E5%87%A1%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%8113%E5%B9%B4%E5%8E%9F%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [央视网：边输液边做题 理解但不支持](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%EF%BC%9A%E8%BE%B9%E8%BE%93%E6%B6%B2%E8%BE%B9%E5%81%9A%E9%A2%98+%E7%90%86%E8%A7%A3%E4%BD%86%E4%B8%8D%E6%94%AF%E6%8C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [法院：吴亦凡系聚众淫乱首要分子](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%EF%BC%9A%E5%90%B4%E4%BA%A6%E5%87%A1%E7%B3%BB%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1%E9%A6%96%E8%A6%81%E5%88%86%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数据折射经济“热度”](https://www.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E6%8A%98%E5%B0%84%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%83%AD%E5%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京：必须考虑如何结束这场悲剧](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E5%BF%85%E9%A1%BB%E8%80%83%E8%99%91%E5%A6%82%E4%BD%95%E7%BB%93%E6%9D%9F%E8%BF%99%E5%9C%BA%E6%82%B2%E5%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [吴秀波及其公司被强执4.66亿](https://www.baidu.com/s?wd=%E5%90%B4%E7%A7%80%E6%B3%A2%E5%8F%8A%E5%85%B6%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%BC%BA%E6%89%A74.66%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
