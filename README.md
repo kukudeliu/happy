@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 21:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 21:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吴莫愁退圈三年直言听歌想吐](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%8E%AB%E6%84%81%E9%80%80%E5%9C%88%E4%B8%89%E5%B9%B4%E7%9B%B4%E8%A8%80%E5%90%AC%E6%AD%8C%E6%83%B3%E5%90%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [不想读研想去景德镇捏泥巴](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%83%B3%E8%AF%BB%E7%A0%94%E6%83%B3%E5%8E%BB%E6%99%AF%E5%BE%B7%E9%95%87%E6%8D%8F%E6%B3%A5%E5%B7%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [郑秀晶红裙红毯造型](https://s.weibo.com/weibo?q=%23%E9%83%91%E7%A7%80%E6%99%B6%E7%BA%A2%E8%A3%99%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [林俊杰演唱会嘉宾 李健](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%20%E6%9D%8E%E5%81%A5&t=31&band_rank=9&Refer=top)<br />
+9. [杨迪 内娱真瓜主另有其人](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%BF%AA%20%E5%86%85%E5%A8%B1%E7%9C%9F%E7%93%9C%E4%B8%BB%E5%8F%A6%E6%9C%89%E5%85%B6%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
