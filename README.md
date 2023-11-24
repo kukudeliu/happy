@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 15:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 15:21:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [晴儿归来已是皇后](https://s.weibo.com/weibo?q=%23%E6%99%B4%E5%84%BF%E5%BD%92%E6%9D%A5%E5%B7%B2%E6%98%AF%E7%9A%87%E5%90%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [吴亦凡聚众淫乱系首要分子](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1%E7%B3%BB%E9%A6%96%E8%A6%81%E5%88%86%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [熹贵妃安](https://s.weibo.com/weibo?q=%E7%86%B9%E8%B4%B5%E5%A6%83%E5%AE%89&t=31&band_rank=7&Refer=top)<br />
-8. [恋与制作人CoCo 联名](https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E5%88%B6%E4%BD%9C%E4%BA%BACoCo%20%E8%81%94%E5%90%8D&t=31&band_rank=8&Refer=top)<br />
+8. [乌尔善说演员要对自己的行为负责](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B0%94%E5%96%84%E8%AF%B4%E6%BC%94%E5%91%98%E8%A6%81%E5%AF%B9%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A1%8C%E4%B8%BA%E8%B4%9F%E8%B4%A3%23&t=31&band_rank=8&Refer=top)<br />
 9. [吴亦凡亲属旁听二审宣判](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E4%BA%B2%E5%B1%9E%E6%97%81%E5%90%AC%E4%BA%8C%E5%AE%A1%E5%AE%A3%E5%88%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
