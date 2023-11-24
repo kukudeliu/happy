@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 19:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 19:42:02</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [9招预防冬季呼吸道疾病](https://s.weibo.com/weibo?q=%239%E6%8B%9B%E9%A2%84%E9%98%B2%E5%86%AC%E5%AD%A3%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%23&t=31&band_rank=3&Refer=top)<br />
 4. [淘宝取消双12](https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%8F%96%E6%B6%88%E5%8F%8C12%23&t=31&band_rank=4&Refer=top)<br />
 5. [3岁娃走丢4岁女童沿街吆喝帮找家](https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%A8%83%E8%B5%B0%E4%B8%A24%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%B2%BF%E8%A1%97%E5%90%86%E5%96%9D%E5%B8%AE%E6%89%BE%E5%AE%B6%23&t=31&band_rank=5&Refer=top)<br />
-6. [吴亦凡聚众淫乱系首要分子](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1%E7%B3%BB%E9%A6%96%E8%A6%81%E5%88%86%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
+6. [吴莫愁退圈三年直言听歌想吐](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%8E%AB%E6%84%81%E9%80%80%E5%9C%88%E4%B8%89%E5%B9%B4%E7%9B%B4%E8%A8%80%E5%90%AC%E6%AD%8C%E6%83%B3%E5%90%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [车辆落水休假战士破窗救出晕厥司机](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%BE%86%E8%90%BD%E6%B0%B4%E4%BC%91%E5%81%87%E6%88%98%E5%A3%AB%E7%A0%B4%E7%AA%97%E6%95%91%E5%87%BA%E6%99%95%E5%8E%A5%E5%8F%B8%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [吴莫愁退圈三年直言听歌想吐](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%8E%AB%E6%84%81%E9%80%80%E5%9C%88%E4%B8%89%E5%B9%B4%E7%9B%B4%E8%A8%80%E5%90%AC%E6%AD%8C%E6%83%B3%E5%90%90%23&t=31&band_rank=8&Refer=top)<br />
+8. [吴亦凡聚众淫乱系首要分子](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1%E7%B3%BB%E9%A6%96%E8%A6%81%E5%88%86%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
 9. [三毛 迪丽热巴造型](https://s.weibo.com/weibo?q=%E4%B8%89%E6%AF%9B%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%80%A0%E5%9E%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,7 +22,7 @@
 3. [自如租房半年发现生活用水为中水](https://www.baidu.com/s?wd=%E8%87%AA%E5%A6%82%E7%A7%9F%E6%88%BF%E5%8D%8A%E5%B9%B4%E5%8F%91%E7%8E%B0%E7%94%9F%E6%B4%BB%E7%94%A8%E6%B0%B4%E4%B8%BA%E4%B8%AD%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地加大秋粮收储力度](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E5%8A%A0%E5%A4%A7%E7%A7%8B%E7%B2%AE%E6%94%B6%E5%82%A8%E5%8A%9B%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“小木匠”妻子:在等劳荣枝死刑复核](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E6%9C%A8%E5%8C%A0%E2%80%9D%E5%A6%BB%E5%AD%90%3A%E5%9C%A8%E7%AD%89%E5%8A%B3%E8%8D%A3%E6%9E%9D%E6%AD%BB%E5%88%91%E5%A4%8D%E6%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [63岁大爷投篮投出2项世界纪录](https://www.baidu.com/s?wd=63%E5%B2%81%E5%A4%A7%E7%88%B7%E6%8A%95%E7%AF%AE%E6%8A%95%E5%87%BA2%E9%A1%B9%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [马云入局预制菜](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E5%85%A5%E5%B1%80%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方：吴亦凡需服刑完再被驱逐出境](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E5%90%B4%E4%BA%A6%E5%87%A1%E9%9C%80%E6%9C%8D%E5%88%91%E5%AE%8C%E5%86%8D%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [云南一网友吐槽大象频繁进家](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E5%A4%A7%E8%B1%A1%E9%A2%91%E7%B9%81%E8%BF%9B%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣辅警招录可包上岸](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%BE%85%E8%AD%A6%E6%8B%9B%E5%BD%95%E5%8F%AF%E5%8C%85%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [自如租房半年发现生活用水为中水](https://www.baidu.com/s?wd=%E8%87%AA%E5%A6%82%E7%A7%9F%E6%88%BF%E5%8D%8A%E5%B9%B4%E5%8F%91%E7%8E%B0%E7%94%9F%E6%B4%BB%E7%94%A8%E6%B0%B4%E4%B8%BA%E4%B8%AD%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地加大秋粮收储力度](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E5%8A%A0%E5%A4%A7%E7%A7%8B%E7%B2%AE%E6%94%B6%E5%82%A8%E5%8A%9B%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“小木匠”妻子:在等劳荣枝死刑复核](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E6%9C%A8%E5%8C%A0%E2%80%9D%E5%A6%BB%E5%AD%90%3A%E5%9C%A8%E7%AD%89%E5%8A%B3%E8%8D%A3%E6%9E%9D%E6%AD%BB%E5%88%91%E5%A4%8D%E6%A0%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [63岁大爷投篮投出2项世界纪录](https://www.baidu.com/s?wd=63%E5%B2%81%E5%A4%A7%E7%88%B7%E6%8A%95%E7%AF%AE%E6%8A%95%E5%87%BA2%E9%A1%B9%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [马云入局预制菜](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E5%85%A5%E5%B1%80%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方：吴亦凡需服刑完再被驱逐出境](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E5%90%B4%E4%BA%A6%E5%87%A1%E9%9C%80%E6%9C%8D%E5%88%91%E5%AE%8C%E5%86%8D%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [云南一网友吐槽大象频繁进家](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E5%A4%A7%E8%B1%A1%E9%A2%91%E7%B9%81%E8%BF%9B%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣辅警招录可包上岸](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%BE%85%E8%AD%A6%E6%8B%9B%E5%BD%95%E5%8F%AF%E5%8C%85%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
