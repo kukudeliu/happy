@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 16:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 16:35:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [以国家之名 护英烈回家](https://www.baidu.com/s?wd=%E4%BB%A5%E5%9B%BD%E5%AE%B6%E4%B9%8B%E5%90%8D+%E6%8A%A4%E8%8B%B1%E7%83%88%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [英雄 安息](https://www.baidu.com/s?wd=%E8%8B%B1%E9%9B%84+%E5%AE%89%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [淘宝双12活动今年取消](https://www.baidu.com/s?wd=%E6%B7%98%E5%AE%9D%E5%8F%8C12%E6%B4%BB%E5%8A%A8%E4%BB%8A%E5%B9%B4%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [中方将对法德意等六国试行免签](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%B0%86%E5%AF%B9%E6%B3%95%E5%BE%B7%E6%84%8F%E7%AD%89%E5%85%AD%E5%9B%BD%E8%AF%95%E8%A1%8C%E5%85%8D%E7%AD%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地加大秋粮收储力度](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E5%8A%A0%E5%A4%A7%E7%A7%8B%E7%B2%AE%E6%94%B6%E5%82%A8%E5%8A%9B%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [以国家之名 护英烈回家](https://www.baidu.com/s?wd=%E4%BB%A5%E5%9B%BD%E5%AE%B6%E4%B9%8B%E5%90%8D+%E6%8A%A4%E8%8B%B1%E7%83%88%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [英雄 安息](https://www.baidu.com/s?wd=%E8%8B%B1%E9%9B%84+%E5%AE%89%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [淘宝双12活动今年取消](https://www.baidu.com/s?wd=%E6%B7%98%E5%AE%9D%E5%8F%8C12%E6%B4%BB%E5%8A%A8%E4%BB%8A%E5%B9%B4%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [中方将对法德意等六国试行免签](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%B0%86%E5%AF%B9%E6%B3%95%E5%BE%B7%E6%84%8F%E7%AD%89%E5%85%AD%E5%9B%BD%E8%AF%95%E8%A1%8C%E5%85%8D%E7%AD%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地加大秋粮收储力度](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E5%8A%A0%E5%A4%A7%E7%A7%8B%E7%B2%AE%E6%94%B6%E5%82%A8%E5%8A%9B%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
