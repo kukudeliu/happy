@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 09:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 09:21:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [普京：必须考虑如何结束这场悲剧](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E5%BF%85%E9%A1%BB%E8%80%83%E8%99%91%E5%A6%82%E4%BD%95%E7%BB%93%E6%9D%9F%E8%BF%99%E5%9C%BA%E6%82%B2%E5%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [马云公司成立马家厨房食品公司](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E5%85%AC%E5%8F%B8%E6%88%90%E7%AB%8B%E9%A9%AC%E5%AE%B6%E5%8E%A8%E6%88%BF%E9%A3%9F%E5%93%81%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [旅俄大熊猫幼崽“奶凶”画面曝光](https://www.baidu.com/s?wd=%E6%97%85%E4%BF%84%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%B9%BC%E5%B4%BD%E2%80%9C%E5%A5%B6%E5%87%B6%E2%80%9D%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [香港警方辟谣招募内地退役军人](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%8B%9B%E5%8B%9F%E5%86%85%E5%9C%B0%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [普京：必须考虑如何结束这场悲剧](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E5%BF%85%E9%A1%BB%E8%80%83%E8%99%91%E5%A6%82%E4%BD%95%E7%BB%93%E6%9D%9F%E8%BF%99%E5%9C%BA%E6%82%B2%E5%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [马云公司成立马家厨房食品公司](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E5%85%AC%E5%8F%B8%E6%88%90%E7%AB%8B%E9%A9%AC%E5%AE%B6%E5%8E%A8%E6%88%BF%E9%A3%9F%E5%93%81%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [旅俄大熊猫幼崽“奶凶”画面曝光](https://www.baidu.com/s?wd=%E6%97%85%E4%BF%84%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%B9%BC%E5%B4%BD%E2%80%9C%E5%A5%B6%E5%87%B6%E2%80%9D%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [香港警方辟谣招募内地退役军人](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%8B%9B%E5%8B%9F%E5%86%85%E5%9C%B0%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
