@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 00:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 00:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吴亦凡要先在中国坐完牢再被驱逐出境](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A6%81%E5%85%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%9D%90%E5%AE%8C%E7%89%A2%E5%86%8D%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [谢危亲了一晚上嘴皮子都破了吧](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8D%B1%E4%BA%B2%E4%BA%86%E4%B8%80%E6%99%9A%E4%B8%8A%E5%98%B4%E7%9A%AE%E5%AD%90%E9%83%BD%E7%A0%B4%E4%BA%86%E5%90%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨迪 内娱真瓜主另有其人](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%BF%AA%20%E5%86%85%E5%A8%B1%E7%9C%9F%E7%93%9C%E4%B8%BB%E5%8F%A6%E6%9C%89%E5%85%B6%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
-9. [正确的煮面方法](https://s.weibo.com/weibo?q=%E6%AD%A3%E7%A1%AE%E7%9A%84%E7%85%AE%E9%9D%A2%E6%96%B9%E6%B3%95&t=31&band_rank=9&Refer=top)<br />
+9. [4AM被淘汰](https://s.weibo.com/weibo?q=4AM%E8%A2%AB%E6%B7%98%E6%B1%B0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
