@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 21:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 21:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [淘宝取消双12](https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%8F%96%E6%B6%88%E5%8F%8C12%23&t=31&band_rank=6&Refer=top)<br />
 7. [吴莫愁退圈三年直言听歌想吐](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%8E%AB%E6%84%81%E9%80%80%E5%9C%88%E4%B8%89%E5%B9%B4%E7%9B%B4%E8%A8%80%E5%90%AC%E6%AD%8C%E6%83%B3%E5%90%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [不想读研想去景德镇捏泥巴](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%83%B3%E8%AF%BB%E7%A0%94%E6%83%B3%E5%8E%BB%E6%99%AF%E5%BE%B7%E9%95%87%E6%8D%8F%E6%B3%A5%E5%B7%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [郑秀晶红裙红毯造型](https://s.weibo.com/weibo?q=%23%E9%83%91%E7%A7%80%E6%99%B6%E7%BA%A2%E8%A3%99%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [kpop正遭受中输减少带来的打击](https://s.weibo.com/weibo?q=%23kpop%E6%AD%A3%E9%81%AD%E5%8F%97%E4%B8%AD%E8%BE%93%E5%87%8F%E5%B0%91%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%89%93%E5%87%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [自如租房半年发现生活用水为中水](https://www.baidu.com/s?wd=%E8%87%AA%E5%A6%82%E7%A7%9F%E6%88%BF%E5%8D%8A%E5%B9%B4%E5%8F%91%E7%8E%B0%E7%94%9F%E6%B4%BB%E7%94%A8%E6%B0%B4%E4%B8%BA%E4%B8%AD%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [奏响海洋经济开放合作强音](https://www.baidu.com/s?wd=%E5%A5%8F%E5%93%8D%E6%B5%B7%E6%B4%8B%E7%BB%8F%E6%B5%8E%E5%BC%80%E6%94%BE%E5%90%88%E4%BD%9C%E5%BC%BA%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [清华北大人大 鹅腿阿姨之争](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E4%BA%BA%E5%A4%A7+%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E4%B9%8B%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子遭嗜赌前夫砍杀致重伤二级](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E5%97%9C%E8%B5%8C%E5%89%8D%E5%A4%AB%E7%A0%8D%E6%9D%80%E8%87%B4%E9%87%8D%E4%BC%A4%E4%BA%8C%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [泰方公布中国籍乞讨者调查进展](https://www.baidu.com/s?wd=%E6%B3%B0%E6%96%B9%E5%85%AC%E5%B8%83%E4%B8%AD%E5%9B%BD%E7%B1%8D%E4%B9%9E%E8%AE%A8%E8%80%85%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方：吴亦凡需服刑完再被驱逐出境](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E5%90%B4%E4%BA%A6%E5%87%A1%E9%9C%80%E6%9C%8D%E5%88%91%E5%AE%8C%E5%86%8D%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泰方公布中国籍乞讨者调查进展](https://www.baidu.com/s?wd=%E6%B3%B0%E6%96%B9%E5%85%AC%E5%B8%83%E4%B8%AD%E5%9B%BD%E7%B1%8D%E4%B9%9E%E8%AE%A8%E8%80%85%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子看黄色网站被要求拍反省视频？](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9C%8B%E9%BB%84%E8%89%B2%E7%BD%91%E7%AB%99%E8%A2%AB%E8%A6%81%E6%B1%82%E6%8B%8D%E5%8F%8D%E7%9C%81%E8%A7%86%E9%A2%91%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆和田光脚踩葡萄干系谣言](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%92%8C%E7%94%B0%E5%85%89%E8%84%9A%E8%B8%A9%E8%91%A1%E8%90%84%E5%B9%B2%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [自如租房半年发现生活用水为中水](https://www.baidu.com/s?wd=%E8%87%AA%E5%A6%82%E7%A7%9F%E6%88%BF%E5%8D%8A%E5%B9%B4%E5%8F%91%E7%8E%B0%E7%94%9F%E6%B4%BB%E7%94%A8%E6%B0%B4%E4%B8%BA%E4%B8%AD%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [奏响海洋经济开放合作强音](https://www.baidu.com/s?wd=%E5%A5%8F%E5%93%8D%E6%B5%B7%E6%B4%8B%E7%BB%8F%E6%B5%8E%E5%BC%80%E6%94%BE%E5%90%88%E4%BD%9C%E5%BC%BA%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [清华北大人大 鹅腿阿姨之争](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E4%BA%BA%E5%A4%A7+%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E4%B9%8B%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子遭嗜赌前夫砍杀致重伤二级](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E5%97%9C%E8%B5%8C%E5%89%8D%E5%A4%AB%E7%A0%8D%E6%9D%80%E8%87%B4%E9%87%8D%E4%BC%A4%E4%BA%8C%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [泰方公布中国籍乞讨者调查进展](https://www.baidu.com/s?wd=%E6%B3%B0%E6%96%B9%E5%85%AC%E5%B8%83%E4%B8%AD%E5%9B%BD%E7%B1%8D%E4%B9%9E%E8%AE%A8%E8%80%85%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方：吴亦凡需服刑完再被驱逐出境](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E5%90%B4%E4%BA%A6%E5%87%A1%E9%9C%80%E6%9C%8D%E5%88%91%E5%AE%8C%E5%86%8D%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泰方公布中国籍乞讨者调查进展](https://www.baidu.com/s?wd=%E6%B3%B0%E6%96%B9%E5%85%AC%E5%B8%83%E4%B8%AD%E5%9B%BD%E7%B1%8D%E4%B9%9E%E8%AE%A8%E8%80%85%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子看黄色网站被要求拍反省视频？](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9C%8B%E9%BB%84%E8%89%B2%E7%BD%91%E7%AB%99%E8%A2%AB%E8%A6%81%E6%B1%82%E6%8B%8D%E5%8F%8D%E7%9C%81%E8%A7%86%E9%A2%91%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆和田光脚踩葡萄干系谣言](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%92%8C%E7%94%B0%E5%85%89%E8%84%9A%E8%B8%A9%E8%91%A1%E8%90%84%E5%B9%B2%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
