@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 08:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 08:25:01</h4></div>
 
 > 微博  
 
-1. [秦岚 作为同胞应该让您多挣钱的](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%20%E4%BD%9C%E4%B8%BA%E5%90%8C%E8%83%9E%E5%BA%94%E8%AF%A5%E8%AE%A9%E6%82%A8%E5%A4%9A%E6%8C%A3%E9%92%B1%E7%9A%84&t=31&band_rank=1&Refer=top)<br />
-2. [过期口红 唇炎](https://s.weibo.com/weibo?q=%E8%BF%87%E6%9C%9F%E5%8F%A3%E7%BA%A2%20%E5%94%87%E7%82%8E&t=31&band_rank=2&Refer=top)<br />
+1. [过期口红 唇炎](https://s.weibo.com/weibo?q=%E8%BF%87%E6%9C%9F%E5%8F%A3%E7%BA%A2%20%E5%94%87%E7%82%8E&t=31&band_rank=1&Refer=top)<br />
+2. [秦岚 作为同胞应该让您多挣钱的](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%20%E4%BD%9C%E4%B8%BA%E5%90%8C%E8%83%9E%E5%BA%94%E8%AF%A5%E8%AE%A9%E6%82%A8%E5%A4%9A%E6%8C%A3%E9%92%B1%E7%9A%84&t=31&band_rank=2&Refer=top)<br />
 3. [全世界只有两个国家拥有时速350公里的高铁](https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E5%8F%AA%E6%9C%89%E4%B8%A4%E4%B8%AA%E5%9B%BD%E5%AE%B6%E6%8B%A5%E6%9C%89%E6%97%B6%E9%80%9F350%E5%85%AC%E9%87%8C%E7%9A%84%E9%AB%98%E9%93%81%23&t=31&band_rank=3&Refer=top)<br />
 4. [小S晒许雅钧准备的大餐](https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E6%99%92%E8%AE%B8%E9%9B%85%E9%92%A7%E5%87%86%E5%A4%87%E7%9A%84%E5%A4%A7%E9%A4%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [头发这样洗一周只用洗一次头](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E8%BF%99%E6%A0%B7%E6%B4%97%E4%B8%80%E5%91%A8%E5%8F%AA%E7%94%A8%E6%B4%97%E4%B8%80%E6%AC%A1%E5%A4%B4&t=31&band_rank=5&Refer=top)<br />
