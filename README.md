@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 11:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 11:11:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [韩网友评价鬼怪过时](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E5%8F%8B%E8%AF%84%E4%BB%B7%E9%AC%BC%E6%80%AA%E8%BF%87%E6%97%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [娜扎秒了](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%A7%92%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [一念关山定档](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [吴秀波及其公司被强执4.66亿](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A7%80%E6%B3%A2%E5%8F%8A%E5%85%B6%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%BC%BA%E6%89%A74.66%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [杭州中考指定跳绳一根78元](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%AD%E8%80%83%E6%8C%87%E5%AE%9A%E8%B7%B3%E7%BB%B3%E4%B8%80%E6%A0%B978%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+8. [杭州中考指定跳绳一根78元](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%AD%E8%80%83%E6%8C%87%E5%AE%9A%E8%B7%B3%E7%BB%B3%E4%B8%80%E6%A0%B978%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [志愿军烈士遗骸安葬仪式](https://s.weibo.com/weibo?q=%23%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E9%81%97%E9%AA%B8%E5%AE%89%E8%91%AC%E4%BB%AA%E5%BC%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
