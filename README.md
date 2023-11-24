@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 09:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 09:59:01</h4></div>
 
 > 微博  
 
 1. [退出直播间的明星转向新风口](https://s.weibo.com/weibo?q=%23%E9%80%80%E5%87%BA%E7%9B%B4%E6%92%AD%E9%97%B4%E7%9A%84%E6%98%8E%E6%98%9F%E8%BD%AC%E5%90%91%E6%96%B0%E9%A3%8E%E5%8F%A3%23&t=31&band_rank=1&Refer=top)<br />
 2. [过期口红 唇炎](https://s.weibo.com/weibo?q=%E8%BF%87%E6%9C%9F%E5%8F%A3%E7%BA%A2%20%E5%94%87%E7%82%8E&t=31&band_rank=2&Refer=top)<br />
 3. [全世界只有两个国家拥有时速350公里的高铁](https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E5%8F%AA%E6%9C%89%E4%B8%A4%E4%B8%AA%E5%9B%BD%E5%AE%B6%E6%8B%A5%E6%9C%89%E6%97%B6%E9%80%9F350%E5%85%AC%E9%87%8C%E7%9A%84%E9%AB%98%E9%93%81%23&t=31&band_rank=3&Refer=top)<br />
-4. [河南一救护车多次载人跨市买毒品](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E6%95%91%E6%8A%A4%E8%BD%A6%E5%A4%9A%E6%AC%A1%E8%BD%BD%E4%BA%BA%E8%B7%A8%E5%B8%82%E4%B9%B0%E6%AF%92%E5%93%81%23&t=31&band_rank=4&Refer=top)<br />
-5. [港剧从来都不会年龄焦虑](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%89%A7%E4%BB%8E%E6%9D%A5%E9%83%BD%E4%B8%8D%E4%BC%9A%E5%B9%B4%E9%BE%84%E7%84%A6%E8%99%91%23&t=31&band_rank=5&Refer=top)<br />
-6. [娜扎秒了](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%A7%92%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [韩网友评价鬼怪过时](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E5%8F%8B%E8%AF%84%E4%BB%B7%E9%AC%BC%E6%80%AA%E8%BF%87%E6%97%B6%23&t=31&band_rank=7&Refer=top)<br />
+4. [港剧从来都不会年龄焦虑](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%89%A7%E4%BB%8E%E6%9D%A5%E9%83%BD%E4%B8%8D%E4%BC%9A%E5%B9%B4%E9%BE%84%E7%84%A6%E8%99%91%23&t=31&band_rank=4&Refer=top)<br />
+5. [韩网友评价鬼怪过时](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E5%8F%8B%E8%AF%84%E4%BB%B7%E9%AC%BC%E6%80%AA%E8%BF%87%E6%97%B6%23&t=31&band_rank=5&Refer=top)<br />
+6. [河南一救护车多次载人跨市买毒品](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E6%95%91%E6%8A%A4%E8%BD%A6%E5%A4%9A%E6%AC%A1%E8%BD%BD%E4%BA%BA%E8%B7%A8%E5%B8%82%E4%B9%B0%E6%AF%92%E5%93%81%23&t=31&band_rank=6&Refer=top)<br />
+7. [娜扎秒了](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%A7%92%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [头发这样洗一周只用洗一次头](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E8%BF%99%E6%A0%B7%E6%B4%97%E4%B8%80%E5%91%A8%E5%8F%AA%E7%94%A8%E6%B4%97%E4%B8%80%E6%AC%A1%E5%A4%B4&t=31&band_rank=8&Refer=top)<br />
 9. [秦岚 作为同胞应该让您多挣钱的](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%20%E4%BD%9C%E4%B8%BA%E5%90%8C%E8%83%9E%E5%BA%94%E8%AF%A5%E8%AE%A9%E6%82%A8%E5%A4%9A%E6%8C%A3%E9%92%B1%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
