@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 00:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 00:56:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [赵昭仪发5秒 秦岚回25秒](https://s.weibo.com/weibo?q=%E8%B5%B5%E6%98%AD%E4%BB%AA%E5%8F%915%E7%A7%92%20%E7%A7%A6%E5%B2%9A%E5%9B%9E25%E7%A7%92&t=31&band_rank=5&Refer=top)<br />
 6. [吴亦凡要先在中国坐完牢再被驱逐出境](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A6%81%E5%85%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%9D%90%E5%AE%8C%E7%89%A2%E5%86%8D%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [谢危亲了一晚上嘴皮子都破了吧](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8D%B1%E4%BA%B2%E4%BA%86%E4%B8%80%E6%99%9A%E4%B8%8A%E5%98%B4%E7%9A%AE%E5%AD%90%E9%83%BD%E7%A0%B4%E4%BA%86%E5%90%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [小鹿拍戏亲过白宇十多次](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%BF%E6%8B%8D%E6%88%8F%E4%BA%B2%E8%BF%87%E7%99%BD%E5%AE%87%E5%8D%81%E5%A4%9A%E6%AC%A1%23&t=31&band_rank=8&Refer=top)<br />
+8. [吴莫愁退圈三年直言听歌想吐](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%8E%AB%E6%84%81%E9%80%80%E5%9C%88%E4%B8%89%E5%B9%B4%E7%9B%B4%E8%A8%80%E5%90%AC%E6%AD%8C%E6%83%B3%E5%90%90%23&t=31&band_rank=8&Refer=top)<br />
 9. [同宿舍3人全部当选院士](https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%AE%BF%E8%88%8D3%E4%BA%BA%E5%85%A8%E9%83%A8%E5%BD%93%E9%80%89%E9%99%A2%E5%A3%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
