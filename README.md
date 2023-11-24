@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 08:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 08:30:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [英雄回家](https://www.baidu.com/s?wd=%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [四川通江就“禁止私熏腊肉”致歉](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E9%80%9A%E6%B1%9F%E5%B0%B1%E2%80%9C%E7%A6%81%E6%AD%A2%E7%A7%81%E7%86%8F%E8%85%8A%E8%82%89%E2%80%9D%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [央视网：边输液边做题 理解但不支持](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%EF%BC%9A%E8%BE%B9%E8%BE%93%E6%B6%B2%E8%BE%B9%E5%81%9A%E9%A2%98+%E7%90%86%E8%A7%A3%E4%BD%86%E4%B8%8D%E6%94%AF%E6%8C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [10月CPI出炉：20省份物价下降](https://www.baidu.com/s?wd=10%E6%9C%88CPI%E5%87%BA%E7%82%89%EF%BC%9A20%E7%9C%81%E4%BB%BD%E7%89%A9%E4%BB%B7%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数据折射经济“热度”](https://www.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E6%8A%98%E5%B0%84%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%83%AD%E5%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [央视网：边输液边做题 理解但不支持](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%EF%BC%9A%E8%BE%B9%E8%BE%93%E6%B6%B2%E8%BE%B9%E5%81%9A%E9%A2%98+%E7%90%86%E8%A7%A3%E4%BD%86%E4%B8%8D%E6%94%AF%E6%8C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [家长群内炫富？宁波中百董事长回应](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E7%BE%A4%E5%86%85%E7%82%AB%E5%AF%8C%EF%BC%9F%E5%AE%81%E6%B3%A2%E4%B8%AD%E7%99%BE%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [辛芷蕾回应被做成表情包](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%81%9A%E6%88%90%E8%A1%A8%E6%83%85%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [包子铺卖豆腐脑被罚15000合理吗](https://www.baidu.com/s?wd=%E5%8C%85%E5%AD%90%E9%93%BA%E5%8D%96%E8%B1%86%E8%85%90%E8%84%91%E8%A2%AB%E7%BD%9A15000%E5%90%88%E7%90%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [四川通江就“禁止私熏腊肉”致歉](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E9%80%9A%E6%B1%9F%E5%B0%B1%E2%80%9C%E7%A6%81%E6%AD%A2%E7%A7%81%E7%86%8F%E8%85%8A%E8%82%89%E2%80%9D%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [马云公司成立马家厨房食品公司](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E5%85%AC%E5%8F%B8%E6%88%90%E7%AB%8B%E9%A9%AC%E5%AE%B6%E5%8E%A8%E6%88%BF%E9%A3%9F%E5%93%81%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [家长群内炫富？宁波中百董事长回应](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E7%BE%A4%E5%86%85%E7%82%AB%E5%AF%8C%EF%BC%9F%E5%AE%81%E6%B3%A2%E4%B8%AD%E7%99%BE%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [辛芷蕾回应被做成表情包](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%81%9A%E6%88%90%E8%A1%A8%E6%83%85%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [英雄回家](https://www.baidu.com/s?wd=%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [四川通江就“禁止私熏腊肉”致歉](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E9%80%9A%E6%B1%9F%E5%B0%B1%E2%80%9C%E7%A6%81%E6%AD%A2%E7%A7%81%E7%86%8F%E8%85%8A%E8%82%89%E2%80%9D%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [央视网：边输液边做题 理解但不支持](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%EF%BC%9A%E8%BE%B9%E8%BE%93%E6%B6%B2%E8%BE%B9%E5%81%9A%E9%A2%98+%E7%90%86%E8%A7%A3%E4%BD%86%E4%B8%8D%E6%94%AF%E6%8C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [10月CPI出炉：20省份物价下降](https://www.baidu.com/s?wd=10%E6%9C%88CPI%E5%87%BA%E7%82%89%EF%BC%9A20%E7%9C%81%E4%BB%BD%E7%89%A9%E4%BB%B7%E4%B8%8B%E9%99%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数据折射经济“热度”](https://www.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E6%8A%98%E5%B0%84%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%83%AD%E5%BA%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [央视网：边输液边做题 理解但不支持](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%EF%BC%9A%E8%BE%B9%E8%BE%93%E6%B6%B2%E8%BE%B9%E5%81%9A%E9%A2%98+%E7%90%86%E8%A7%A3%E4%BD%86%E4%B8%8D%E6%94%AF%E6%8C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [家长群内炫富？宁波中百董事长回应](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E7%BE%A4%E5%86%85%E7%82%AB%E5%AF%8C%EF%BC%9F%E5%AE%81%E6%B3%A2%E4%B8%AD%E7%99%BE%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [辛芷蕾回应被做成表情包](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%81%9A%E6%88%90%E8%A1%A8%E6%83%85%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [包子铺卖豆腐脑被罚15000合理吗](https://www.baidu.com/s?wd=%E5%8C%85%E5%AD%90%E9%93%BA%E5%8D%96%E8%B1%86%E8%85%90%E8%84%91%E8%A2%AB%E7%BD%9A15000%E5%90%88%E7%90%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [四川通江就“禁止私熏腊肉”致歉](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E9%80%9A%E6%B1%9F%E5%B0%B1%E2%80%9C%E7%A6%81%E6%AD%A2%E7%A7%81%E7%86%8F%E8%85%8A%E8%82%89%E2%80%9D%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [马云公司成立马家厨房食品公司](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E5%85%AC%E5%8F%B8%E6%88%90%E7%AB%8B%E9%A9%AC%E5%AE%B6%E5%8E%A8%E6%88%BF%E9%A3%9F%E5%93%81%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [家长群内炫富？宁波中百董事长回应](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E7%BE%A4%E5%86%85%E7%82%AB%E5%AF%8C%EF%BC%9F%E5%AE%81%E6%B3%A2%E4%B8%AD%E7%99%BE%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [辛芷蕾回应被做成表情包](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%81%9A%E6%88%90%E8%A1%A8%E6%83%85%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
