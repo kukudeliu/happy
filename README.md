@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 08:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 08:19:01</h4></div>
 
 > 微博  
 
 1. [秦岚 作为同胞应该让您多挣钱的](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%20%E4%BD%9C%E4%B8%BA%E5%90%8C%E8%83%9E%E5%BA%94%E8%AF%A5%E8%AE%A9%E6%82%A8%E5%A4%9A%E6%8C%A3%E9%92%B1%E7%9A%84&t=31&band_rank=1&Refer=top)<br />
-2. [头发这样洗一周只用洗一次头](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E8%BF%99%E6%A0%B7%E6%B4%97%E4%B8%80%E5%91%A8%E5%8F%AA%E7%94%A8%E6%B4%97%E4%B8%80%E6%AC%A1%E5%A4%B4&t=31&band_rank=2&Refer=top)<br />
+2. [过期口红 唇炎](https://s.weibo.com/weibo?q=%E8%BF%87%E6%9C%9F%E5%8F%A3%E7%BA%A2%20%E5%94%87%E7%82%8E&t=31&band_rank=2&Refer=top)<br />
 3. [全世界只有两个国家拥有时速350公里的高铁](https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E5%8F%AA%E6%9C%89%E4%B8%A4%E4%B8%AA%E5%9B%BD%E5%AE%B6%E6%8B%A5%E6%9C%89%E6%97%B6%E9%80%9F350%E5%85%AC%E9%87%8C%E7%9A%84%E9%AB%98%E9%93%81%23&t=31&band_rank=3&Refer=top)<br />
 4. [小S晒许雅钧准备的大餐](https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E6%99%92%E8%AE%B8%E9%9B%85%E9%92%A7%E5%87%86%E5%A4%87%E7%9A%84%E5%A4%A7%E9%A4%90%23&t=31&band_rank=4&Refer=top)<br />
-5. [过期口红 唇炎](https://s.weibo.com/weibo?q=%E8%BF%87%E6%9C%9F%E5%8F%A3%E7%BA%A2%20%E5%94%87%E7%82%8E&t=31&band_rank=5&Refer=top)<br />
+5. [头发这样洗一周只用洗一次头](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E8%BF%99%E6%A0%B7%E6%B4%97%E4%B8%80%E5%91%A8%E5%8F%AA%E7%94%A8%E6%B4%97%E4%B8%80%E6%AC%A1%E5%A4%B4&t=31&band_rank=5&Refer=top)<br />
 6. [娜扎秒了](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%A7%92%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [港剧从来都不会年龄焦虑](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%89%A7%E4%BB%8E%E6%9D%A5%E9%83%BD%E4%B8%8D%E4%BC%9A%E5%B9%B4%E9%BE%84%E7%84%A6%E8%99%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [七仔连睡觉jiojio都在打拍子](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%BB%94%E8%BF%9E%E7%9D%A1%E8%A7%89jiojio%E9%83%BD%E5%9C%A8%E6%89%93%E6%8B%8D%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [冬季呼吸道疾病高发 怎么防怎么治](https://www.baidu.com/s?wd=%E5%86%AC%E5%AD%A3%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E9%AB%98%E5%8F%91+%E6%80%8E%E4%B9%88%E9%98%B2%E6%80%8E%E4%B9%88%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [家长群内炫富？宁波中百董事长回应](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E7%BE%A4%E5%86%85%E7%82%AB%E5%AF%8C%EF%BC%9F%E5%AE%81%E6%B3%A2%E4%B8%AD%E7%99%BE%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [包子铺卖豆腐脑被罚15000合理吗](https://www.baidu.com/s?wd=%E5%8C%85%E5%AD%90%E9%93%BA%E5%8D%96%E8%B1%86%E8%85%90%E8%84%91%E8%A2%AB%E7%BD%9A15000%E5%90%88%E7%90%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国道收费越来越多？](https://www.baidu.com/s?wd=%E5%9B%BD%E9%81%93%E6%94%B6%E8%B4%B9%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [辛芷蕾回应被做成表情包](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%81%9A%E6%88%90%E8%A1%A8%E6%83%85%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [冬季呼吸道疾病高发 怎么防怎么治](https://www.baidu.com/s?wd=%E5%86%AC%E5%AD%A3%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E9%AB%98%E5%8F%91+%E6%80%8E%E4%B9%88%E9%98%B2%E6%80%8E%E4%B9%88%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [家长群内炫富？宁波中百董事长回应](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E7%BE%A4%E5%86%85%E7%82%AB%E5%AF%8C%EF%BC%9F%E5%AE%81%E6%B3%A2%E4%B8%AD%E7%99%BE%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [包子铺卖豆腐脑被罚15000合理吗](https://www.baidu.com/s?wd=%E5%8C%85%E5%AD%90%E9%93%BA%E5%8D%96%E8%B1%86%E8%85%90%E8%84%91%E8%A2%AB%E7%BD%9A15000%E5%90%88%E7%90%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国道收费越来越多？](https://www.baidu.com/s?wd=%E5%9B%BD%E9%81%93%E6%94%B6%E8%B4%B9%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [辛芷蕾回应被做成表情包](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%81%9A%E6%88%90%E8%A1%A8%E6%83%85%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
