@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 11:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 11:28:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [章凝 张宇](https://s.weibo.com/weibo?q=%E7%AB%A0%E5%87%9D%20%E5%BC%A0%E5%AE%87&t=31&band_rank=4&Refer=top)<br />
 5. [苏有朋被金融诈骗](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9C%89%E6%9C%8B%E8%A2%AB%E9%87%91%E8%9E%8D%E8%AF%88%E9%AA%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [韩网友评价鬼怪过时](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E5%8F%8B%E8%AF%84%E4%BB%B7%E9%AC%BC%E6%80%AA%E8%BF%87%E6%97%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [娜扎秒了](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%A7%92%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [林心如说霍建华负责送女儿上学](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%83%E5%A6%82%E8%AF%B4%E9%9C%8D%E5%BB%BA%E5%8D%8E%E8%B4%9F%E8%B4%A3%E9%80%81%E5%A5%B3%E5%84%BF%E4%B8%8A%E5%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
+7. [林心如说霍建华负责送女儿上学](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%83%E5%A6%82%E8%AF%B4%E9%9C%8D%E5%BB%BA%E5%8D%8E%E8%B4%9F%E8%B4%A3%E9%80%81%E5%A5%B3%E5%84%BF%E4%B8%8A%E5%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
+8. [娜扎秒了](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%A7%92%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [清华铊中毒案受害者朱令现状](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E9%93%8A%E4%B8%AD%E6%AF%92%E6%A1%88%E5%8F%97%E5%AE%B3%E8%80%85%E6%9C%B1%E4%BB%A4%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
