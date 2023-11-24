@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 08:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 08:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [四川通江就“禁止私熏腊肉”致歉](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E9%80%9A%E6%B1%9F%E5%B0%B1%E2%80%9C%E7%A6%81%E6%AD%A2%E7%A7%81%E7%86%8F%E8%85%8A%E8%82%89%E2%80%9D%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马云公司成立马家厨房食品公司](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E5%85%AC%E5%8F%B8%E6%88%90%E7%AB%8B%E9%A9%AC%E5%AE%B6%E5%8E%A8%E6%88%BF%E9%A3%9F%E5%93%81%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [旅俄大熊猫幼崽“奶凶”画面曝光](https://www.baidu.com/s?wd=%E6%97%85%E4%BF%84%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%B9%BC%E5%B4%BD%E2%80%9C%E5%A5%B6%E5%87%B6%E2%80%9D%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中缅边境一运输站起火 数百车辆被烧](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E4%B8%80%E8%BF%90%E8%BE%93%E7%AB%99%E8%B5%B7%E7%81%AB+%E6%95%B0%E7%99%BE%E8%BD%A6%E8%BE%86%E8%A2%AB%E7%83%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宁夏前首富“破产”往事](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E5%89%8D%E9%A6%96%E5%AF%8C%E2%80%9C%E7%A0%B4%E4%BA%A7%E2%80%9D%E5%BE%80%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [四川通江就“禁止私熏腊肉”致歉](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E9%80%9A%E6%B1%9F%E5%B0%B1%E2%80%9C%E7%A6%81%E6%AD%A2%E7%A7%81%E7%86%8F%E8%85%8A%E8%82%89%E2%80%9D%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马云公司成立马家厨房食品公司](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E5%85%AC%E5%8F%B8%E6%88%90%E7%AB%8B%E9%A9%AC%E5%AE%B6%E5%8E%A8%E6%88%BF%E9%A3%9F%E5%93%81%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [旅俄大熊猫幼崽“奶凶”画面曝光](https://www.baidu.com/s?wd=%E6%97%85%E4%BF%84%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%B9%BC%E5%B4%BD%E2%80%9C%E5%A5%B6%E5%87%B6%E2%80%9D%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中缅边境一运输站起火 数百车辆被烧](https://www.baidu.com/s?wd=%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E4%B8%80%E8%BF%90%E8%BE%93%E7%AB%99%E8%B5%B7%E7%81%AB+%E6%95%B0%E7%99%BE%E8%BD%A6%E8%BE%86%E8%A2%AB%E7%83%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宁夏前首富“破产”往事](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E5%89%8D%E9%A6%96%E5%AF%8C%E2%80%9C%E7%A0%B4%E4%BA%A7%E2%80%9D%E5%BE%80%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [感染支原体一定会得肺炎是假的](https://www.baidu.com/s?wd=%E6%84%9F%E6%9F%93%E6%94%AF%E5%8E%9F%E4%BD%93%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BE%97%E8%82%BA%E7%82%8E%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
