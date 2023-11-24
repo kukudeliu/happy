@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 03:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 03:53:01</h4></div>
 
 > 微博  
 
 1. [10种听起来吓人但无需治疗的病](https://s.weibo.com/weibo?q=%2310%E7%A7%8D%E5%90%AC%E8%B5%B7%E6%9D%A5%E5%90%93%E4%BA%BA%E4%BD%86%E6%97%A0%E9%9C%80%E6%B2%BB%E7%96%97%E7%9A%84%E7%97%85%23&t=31&band_rank=1&Refer=top)<br />
 2. [淘宝取消双12](https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%8F%96%E6%B6%88%E5%8F%8C12%23&t=31&band_rank=2&Refer=top)<br />
 3. [第十批志愿军烈士安葬祭文](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%8D%81%E6%89%B9%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E5%AE%89%E8%91%AC%E7%A5%AD%E6%96%87%23&t=31&band_rank=3&Refer=top)<br />
-4. [吴莫愁退圈三年直言听歌想吐](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%8E%AB%E6%84%81%E9%80%80%E5%9C%88%E4%B8%89%E5%B9%B4%E7%9B%B4%E8%A8%80%E5%90%AC%E6%AD%8C%E6%83%B3%E5%90%90%23&t=31&band_rank=4&Refer=top)<br />
-5. [杨迪 内娱真瓜主另有其人](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%BF%AA%20%E5%86%85%E5%A8%B1%E7%9C%9F%E7%93%9C%E4%B8%BB%E5%8F%A6%E6%9C%89%E5%85%B6%E4%BA%BA&t=31&band_rank=5&Refer=top)<br />
+4. [杨迪 内娱真瓜主另有其人](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%BF%AA%20%E5%86%85%E5%A8%B1%E7%9C%9F%E7%93%9C%E4%B8%BB%E5%8F%A6%E6%9C%89%E5%85%B6%E4%BA%BA&t=31&band_rank=4&Refer=top)<br />
+5. [吴莫愁退圈三年直言听歌想吐](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%8E%AB%E6%84%81%E9%80%80%E5%9C%88%E4%B8%89%E5%B9%B4%E7%9B%B4%E8%A8%80%E5%90%AC%E6%AD%8C%E6%83%B3%E5%90%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [吴亦凡要先在中国坐完牢再被驱逐出境](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A6%81%E5%85%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%9D%90%E5%AE%8C%E7%89%A2%E5%86%8D%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [崔雪莉曾说做韩流偶像最惨](https://s.weibo.com/weibo?q=%23%E5%B4%94%E9%9B%AA%E8%8E%89%E6%9B%BE%E8%AF%B4%E5%81%9A%E9%9F%A9%E6%B5%81%E5%81%B6%E5%83%8F%E6%9C%80%E6%83%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [更适合脆皮年轻人的八段锦教程](https://s.weibo.com/weibo?q=%23%E6%9B%B4%E9%80%82%E5%90%88%E8%84%86%E7%9A%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E5%85%AB%E6%AE%B5%E9%94%A6%E6%95%99%E7%A8%8B%23&t=31&band_rank=8&Refer=top)<br />
