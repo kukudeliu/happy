@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 11:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 11:58:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [吴秀波及其公司被强执4.66亿](https://www.baidu.com/s?wd=%E5%90%B4%E7%A7%80%E6%B3%A2%E5%8F%8A%E5%85%B6%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%BC%BA%E6%89%A74.66%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [林心如说霍建华负责送女儿上学](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%83%E5%A6%82%E8%AF%B4%E9%9C%8D%E5%BB%BA%E5%8D%8E%E8%B4%9F%E8%B4%A3%E9%80%81%E5%A5%B3%E5%84%BF%E4%B8%8A%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [深圳楼市连出两“王炸”消息](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%A5%BC%E5%B8%82%E8%BF%9E%E5%87%BA%E4%B8%A4%E2%80%9C%E7%8E%8B%E7%82%B8%E2%80%9D%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [香港警方辟谣招募内地退役军人](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%8B%9B%E5%8B%9F%E5%86%85%E5%9C%B0%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [警方辟谣辅警招录可包上岸](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%BE%85%E8%AD%A6%E6%8B%9B%E5%BD%95%E5%8F%AF%E5%8C%85%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [吴秀波及其公司被强执4.66亿](https://www.baidu.com/s?wd=%E5%90%B4%E7%A7%80%E6%B3%A2%E5%8F%8A%E5%85%B6%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%BC%BA%E6%89%A74.66%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [林心如说霍建华负责送女儿上学](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%83%E5%A6%82%E8%AF%B4%E9%9C%8D%E5%BB%BA%E5%8D%8E%E8%B4%9F%E8%B4%A3%E9%80%81%E5%A5%B3%E5%84%BF%E4%B8%8A%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [深圳楼市连出两“王炸”消息](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%A5%BC%E5%B8%82%E8%BF%9E%E5%87%BA%E4%B8%A4%E2%80%9C%E7%8E%8B%E7%82%B8%E2%80%9D%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [香港警方辟谣招募内地退役军人](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%8B%9B%E5%8B%9F%E5%86%85%E5%9C%B0%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [警方辟谣辅警招录可包上岸](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%BE%85%E8%AD%A6%E6%8B%9B%E5%BD%95%E5%8F%AF%E5%8C%85%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
