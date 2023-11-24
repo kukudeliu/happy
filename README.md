@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 22:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 22:04:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [奏响海洋经济开放合作强音](https://www.baidu.com/s?wd=%E5%A5%8F%E5%93%8D%E6%B5%B7%E6%B4%8B%E7%BB%8F%E6%B5%8E%E5%BC%80%E6%94%BE%E5%90%88%E4%BD%9C%E5%BC%BA%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [清华北大人大 鹅腿阿姨之争](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E4%BA%BA%E5%A4%A7+%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E4%B9%8B%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子看黄色网站被要求拍反省视频？](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9C%8B%E9%BB%84%E8%89%B2%E7%BD%91%E7%AB%99%E8%A2%AB%E8%A6%81%E6%B1%82%E6%8B%8D%E5%8F%8D%E7%9C%81%E8%A7%86%E9%A2%91%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [加沙地带停火协议正式生效](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE%E6%AD%A3%E5%BC%8F%E7%94%9F%E6%95%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子多次当着孩子面重拳殴打妻子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%9A%E6%AC%A1%E5%BD%93%E7%9D%80%E5%AD%A9%E5%AD%90%E9%9D%A2%E9%87%8D%E6%8B%B3%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [马云入局预制菜](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E5%85%A5%E5%B1%80%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆和田光脚踩葡萄干系谣言](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%92%8C%E7%94%B0%E5%85%89%E8%84%9A%E8%B8%A9%E8%91%A1%E8%90%84%E5%B9%B2%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [奏响海洋经济开放合作强音](https://www.baidu.com/s?wd=%E5%A5%8F%E5%93%8D%E6%B5%B7%E6%B4%8B%E7%BB%8F%E6%B5%8E%E5%BC%80%E6%94%BE%E5%90%88%E4%BD%9C%E5%BC%BA%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [清华北大人大 鹅腿阿姨之争](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E4%BA%BA%E5%A4%A7+%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E4%B9%8B%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子看黄色网站被要求拍反省视频？](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9C%8B%E9%BB%84%E8%89%B2%E7%BD%91%E7%AB%99%E8%A2%AB%E8%A6%81%E6%B1%82%E6%8B%8D%E5%8F%8D%E7%9C%81%E8%A7%86%E9%A2%91%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [加沙地带停火协议正式生效](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE%E6%AD%A3%E5%BC%8F%E7%94%9F%E6%95%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子多次当着孩子面重拳殴打妻子](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%9A%E6%AC%A1%E5%BD%93%E7%9D%80%E5%AD%A9%E5%AD%90%E9%9D%A2%E9%87%8D%E6%8B%B3%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [马云入局预制菜](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E5%85%A5%E5%B1%80%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆和田光脚踩葡萄干系谣言](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%92%8C%E7%94%B0%E5%85%89%E8%84%9A%E8%B8%A9%E8%91%A1%E8%90%84%E5%B9%B2%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
