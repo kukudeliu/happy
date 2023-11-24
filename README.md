@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 15:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 15:02:01</h4></div>
 
 > 微博  
 
-1. [熹贵妃安](https://s.weibo.com/weibo?q=%E7%86%B9%E8%B4%B5%E5%A6%83%E5%AE%89&t=31&band_rank=1&Refer=top)<br />
-2. [苏有朋被金融诈骗](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9C%89%E6%9C%8B%E8%A2%AB%E9%87%91%E8%9E%8D%E8%AF%88%E9%AA%97%23&t=31&band_rank=2&Refer=top)<br />
+1. [苏有朋被金融诈骗](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9C%89%E6%9C%8B%E8%A2%AB%E9%87%91%E8%9E%8D%E8%AF%88%E9%AA%97%23&t=31&band_rank=1&Refer=top)<br />
+2. [熹贵妃安](https://s.weibo.com/weibo?q=%E7%86%B9%E8%B4%B5%E5%A6%83%E5%AE%89&t=31&band_rank=2&Refer=top)<br />
 3. [冬季儿童呼吸道疾病热点科普](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%AD%A3%E5%84%BF%E7%AB%A5%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E7%83%AD%E7%82%B9%E7%A7%91%E6%99%AE%23&t=31&band_rank=3&Refer=top)<br />
 4. [尚雯婕回应我是歌手淘汰](https://s.weibo.com/weibo?q=%23%E5%B0%9A%E9%9B%AF%E5%A9%95%E5%9B%9E%E5%BA%94%E6%88%91%E6%98%AF%E6%AD%8C%E6%89%8B%E6%B7%98%E6%B1%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [晴儿归来已是皇后](https://s.weibo.com/weibo?q=%23%E6%99%B4%E5%84%BF%E5%BD%92%E6%9D%A5%E5%B7%B2%E6%98%AF%E7%9A%87%E5%90%8E%23&t=31&band_rank=5&Refer=top)<br />
