@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 09:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 09:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [娜扎秒了](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%A7%92%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [北京儿童医院门诊现状](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2%E9%97%A8%E8%AF%8A%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴第二套 温婉大气](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%AC%AC%E4%BA%8C%E5%A5%97%20%E6%B8%A9%E5%A9%89%E5%A4%A7%E6%B0%94&t=31&band_rank=8&Refer=top)<br />
-9. [来自China的老头能蒙眼投篮](https://s.weibo.com/weibo?q=%23%E6%9D%A5%E8%87%AAChina%E7%9A%84%E8%80%81%E5%A4%B4%E8%83%BD%E8%92%99%E7%9C%BC%E6%8A%95%E7%AF%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [熬夜是一种不得已的喘息](https://s.weibo.com/weibo?q=%E7%86%AC%E5%A4%9C%E6%98%AF%E4%B8%80%E7%A7%8D%E4%B8%8D%E5%BE%97%E5%B7%B2%E7%9A%84%E5%96%98%E6%81%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
