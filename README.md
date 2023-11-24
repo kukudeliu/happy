@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 17:43:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 17:44:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [吃火锅晒照误露点餐码被人点43万菜](https://www.baidu.com/s?wd=%E5%90%83%E7%81%AB%E9%94%85%E6%99%92%E7%85%A7%E8%AF%AF%E9%9C%B2%E7%82%B9%E9%A4%90%E7%A0%81%E8%A2%AB%E4%BA%BA%E7%82%B943%E4%B8%87%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [麦当劳终于看懂了金拱门](https://www.baidu.com/s?wd=%E9%BA%A6%E5%BD%93%E5%8A%B3%E7%BB%88%E4%BA%8E%E7%9C%8B%E6%87%82%E4%BA%86%E9%87%91%E6%8B%B1%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴亦凡案二审维持13年原判](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%A6%E5%87%A1%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%8113%E5%B9%B4%E5%8E%9F%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老人欲跳楼轻生 女子大喊跳下来啊](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%AC%B2%E8%B7%B3%E6%A5%BC%E8%BD%BB%E7%94%9F+%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%96%8A%E8%B7%B3%E4%B8%8B%E6%9D%A5%E5%95%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [公交司机突发晕厥撞上2辆公交车](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E7%AA%81%E5%8F%91%E6%99%95%E5%8E%A5%E6%92%9E%E4%B8%8A2%E8%BE%86%E5%85%AC%E4%BA%A4%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣辅警招录可包上岸](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%BE%85%E8%AD%A6%E6%8B%9B%E5%BD%95%E5%8F%AF%E5%8C%85%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [吃火锅晒照误露点餐码被人点43万菜](https://www.baidu.com/s?wd=%E5%90%83%E7%81%AB%E9%94%85%E6%99%92%E7%85%A7%E8%AF%AF%E9%9C%B2%E7%82%B9%E9%A4%90%E7%A0%81%E8%A2%AB%E4%BA%BA%E7%82%B943%E4%B8%87%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [麦当劳终于看懂了金拱门](https://www.baidu.com/s?wd=%E9%BA%A6%E5%BD%93%E5%8A%B3%E7%BB%88%E4%BA%8E%E7%9C%8B%E6%87%82%E4%BA%86%E9%87%91%E6%8B%B1%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴亦凡案二审维持13年原判](https://www.baidu.com/s?wd=%E5%90%B4%E4%BA%A6%E5%87%A1%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%8113%E5%B9%B4%E5%8E%9F%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老人欲跳楼轻生 女子大喊跳下来啊](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%AC%B2%E8%B7%B3%E6%A5%BC%E8%BD%BB%E7%94%9F+%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%96%8A%E8%B7%B3%E4%B8%8B%E6%9D%A5%E5%95%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [公交司机突发晕厥撞上2辆公交车](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E7%AA%81%E5%8F%91%E6%99%95%E5%8E%A5%E6%92%9E%E4%B8%8A2%E8%BE%86%E5%85%AC%E4%BA%A4%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣辅警招录可包上岸](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%BE%85%E8%AD%A6%E6%8B%9B%E5%BD%95%E5%8F%AF%E5%8C%85%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
