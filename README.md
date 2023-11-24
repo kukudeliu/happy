@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 12:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 12:54:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [清华铊中毒案受害者朱令陷深度昏迷](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E9%93%8A%E4%B8%AD%E6%AF%92%E6%A1%88%E5%8F%97%E5%AE%B3%E8%80%85%E6%9C%B1%E4%BB%A4%E9%99%B7%E6%B7%B1%E5%BA%A6%E6%98%8F%E8%BF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国国脚被嫂子爆不雅视频](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%9B%BD%E8%84%9A%E8%A2%AB%E5%AB%82%E5%AD%90%E7%88%86%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴秀波及其公司被强执4.66亿](https://www.baidu.com/s?wd=%E5%90%B4%E7%A7%80%E6%B3%A2%E5%8F%8A%E5%85%B6%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%BC%BA%E6%89%A74.66%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子地铁车厢内吃饭 吐一地鱼骨头](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E8%BD%A6%E5%8E%A2%E5%86%85%E5%90%83%E9%A5%AD+%E5%90%90%E4%B8%80%E5%9C%B0%E9%B1%BC%E9%AA%A8%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [央视网：边输液边做题 理解但不支持](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%EF%BC%9A%E8%BE%B9%E8%BE%93%E6%B6%B2%E8%BE%B9%E5%81%9A%E9%A2%98+%E7%90%86%E8%A7%A3%E4%BD%86%E4%B8%8D%E6%94%AF%E6%8C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣辅警招录可包上岸](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%BE%85%E8%AD%A6%E6%8B%9B%E5%BD%95%E5%8F%AF%E5%8C%85%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [清华铊中毒案受害者朱令陷深度昏迷](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E9%93%8A%E4%B8%AD%E6%AF%92%E6%A1%88%E5%8F%97%E5%AE%B3%E8%80%85%E6%9C%B1%E4%BB%A4%E9%99%B7%E6%B7%B1%E5%BA%A6%E6%98%8F%E8%BF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国国脚被嫂子爆不雅视频](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%9B%BD%E8%84%9A%E8%A2%AB%E5%AB%82%E5%AD%90%E7%88%86%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴秀波及其公司被强执4.66亿](https://www.baidu.com/s?wd=%E5%90%B4%E7%A7%80%E6%B3%A2%E5%8F%8A%E5%85%B6%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%BC%BA%E6%89%A74.66%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子地铁车厢内吃饭 吐一地鱼骨头](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E8%BD%A6%E5%8E%A2%E5%86%85%E5%90%83%E9%A5%AD+%E5%90%90%E4%B8%80%E5%9C%B0%E9%B1%BC%E9%AA%A8%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [央视网：边输液边做题 理解但不支持](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%EF%BC%9A%E8%BE%B9%E8%BE%93%E6%B6%B2%E8%BE%B9%E5%81%9A%E9%A2%98+%E7%90%86%E8%A7%A3%E4%BD%86%E4%B8%8D%E6%94%AF%E6%8C%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣辅警招录可包上岸](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%BE%85%E8%AD%A6%E6%8B%9B%E5%BD%95%E5%8F%AF%E5%8C%85%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
