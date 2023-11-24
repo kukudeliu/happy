@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 11:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 11:25:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [林心如说霍建华负责送女儿上学](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%83%E5%A6%82%E8%AF%B4%E9%9C%8D%E5%BB%BA%E5%8D%8E%E8%B4%9F%E8%B4%A3%E9%80%81%E5%A5%B3%E5%84%BF%E4%B8%8A%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [娜扎秒了](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%A7%92%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [一念关山定档](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [过期口红 唇炎](https://s.weibo.com/weibo?q=%E8%BF%87%E6%9C%9F%E5%8F%A3%E7%BA%A2%20%E5%94%87%E7%82%8E&t=31&band_rank=9&Refer=top)<br />
+9. [清华铊中毒案受害者朱令现状](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E9%93%8A%E4%B8%AD%E6%AF%92%E6%A1%88%E5%8F%97%E5%AE%B3%E8%80%85%E6%9C%B1%E4%BB%A4%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
