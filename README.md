@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 14:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 14:15:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [晴儿归来已是皇后](https://s.weibo.com/weibo?q=%23%E6%99%B4%E5%84%BF%E5%BD%92%E6%9D%A5%E5%B7%B2%E6%98%AF%E7%9A%87%E5%90%8E%23&t=31&band_rank=4&Refer=top)<br />
 5. [苏有朋被金融诈骗](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9C%89%E6%9C%8B%E8%A2%AB%E9%87%91%E8%9E%8D%E8%AF%88%E9%AA%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [吴亦凡聚众淫乱系首要分子](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1%E7%B3%BB%E9%A6%96%E8%A6%81%E5%88%86%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
-7. [章凝 张宇](https://s.weibo.com/weibo?q=%E7%AB%A0%E5%87%9D%20%E5%BC%A0%E5%AE%87&t=31&band_rank=7&Refer=top)<br />
-8. [朱令父亲坦言已经放下朱令案](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%BB%A4%E7%88%B6%E4%BA%B2%E5%9D%A6%E8%A8%80%E5%B7%B2%E7%BB%8F%E6%94%BE%E4%B8%8B%E6%9C%B1%E4%BB%A4%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
+7. [朱令父亲坦言已经放下朱令案](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%BB%A4%E7%88%B6%E4%BA%B2%E5%9D%A6%E8%A8%80%E5%B7%B2%E7%BB%8F%E6%94%BE%E4%B8%8B%E6%9C%B1%E4%BB%A4%E6%A1%88%23&t=31&band_rank=7&Refer=top)<br />
+8. [章凝 张宇](https://s.weibo.com/weibo?q=%E7%AB%A0%E5%87%9D%20%E5%BC%A0%E5%AE%87&t=31&band_rank=8&Refer=top)<br />
 9. [杨幂背头烟熏妆](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%83%8C%E5%A4%B4%E7%83%9F%E7%86%8F%E5%A6%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
