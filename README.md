@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 12:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 12:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [清华铊中毒案受害者朱令现状](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E9%93%8A%E4%B8%AD%E6%AF%92%E6%A1%88%E5%8F%97%E5%AE%B3%E8%80%85%E6%9C%B1%E4%BB%A4%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [以爱为营番外 3块10分钟](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E7%95%AA%E5%A4%96%203%E5%9D%9710%E5%88%86%E9%92%9F&t=31&band_rank=7&Refer=top)<br />
 8. [章凝 张宇](https://s.weibo.com/weibo?q=%E7%AB%A0%E5%87%9D%20%E5%BC%A0%E5%AE%87&t=31&band_rank=8&Refer=top)<br />
-9. [丫丫也交到小鸟朋友了](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E4%B9%9F%E4%BA%A4%E5%88%B0%E5%B0%8F%E9%B8%9F%E6%9C%8B%E5%8F%8B%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [小杨哥直播间被质疑虚假比价](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E7%9B%B4%E6%92%AD%E9%97%B4%E8%A2%AB%E8%B4%A8%E7%96%91%E8%99%9A%E5%81%87%E6%AF%94%E4%BB%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
