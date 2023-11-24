@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 13:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 13:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [苏有朋被金融诈骗](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9C%89%E6%9C%8B%E8%A2%AB%E9%87%91%E8%9E%8D%E8%AF%88%E9%AA%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [吴亦凡聚众淫乱系首要分子](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1%E7%B3%BB%E9%A6%96%E8%A6%81%E5%88%86%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [章凝 张宇](https://s.weibo.com/weibo?q=%E7%AB%A0%E5%87%9D%20%E5%BC%A0%E5%AE%87&t=31&band_rank=7&Refer=top)<br />
-8. [哈工大同宿舍3人全部当选院士](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A7%E5%90%8C%E5%AE%BF%E8%88%8D3%E4%BA%BA%E5%85%A8%E9%83%A8%E5%BD%93%E9%80%89%E9%99%A2%E5%A3%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [IVE官宣中国线下签售](https://s.weibo.com/weibo?q=%23IVE%E5%AE%98%E5%AE%A3%E4%B8%AD%E5%9B%BD%E7%BA%BF%E4%B8%8B%E7%AD%BE%E5%94%AE%23&t=31&band_rank=9&Refer=top)<br />
+8. [IVE官宣中国线下签售](https://s.weibo.com/weibo?q=%23IVE%E5%AE%98%E5%AE%A3%E4%B8%AD%E5%9B%BD%E7%BA%BF%E4%B8%8B%E7%AD%BE%E5%94%AE%23&t=31&band_rank=8&Refer=top)<br />
+9. [哈工大同宿舍3人全部当选院士](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A7%E5%90%8C%E5%AE%BF%E8%88%8D3%E4%BA%BA%E5%85%A8%E9%83%A8%E5%BD%93%E9%80%89%E9%99%A2%E5%A3%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
