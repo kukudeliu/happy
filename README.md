@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 23:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-24 23:47:01</h4></div>
 
 > 微博  
 
-1. [霸王茶姬咖啡因含量超2罐红牛](https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%92%96%E5%95%A1%E5%9B%A0%E5%90%AB%E9%87%8F%E8%B6%852%E7%BD%90%E7%BA%A2%E7%89%9B%23&t=31&band_rank=1&Refer=top)<br />
-2. [郎朗证明孩子是在和钢琴友好交流](https://s.weibo.com/weibo?q=%E9%83%8E%E6%9C%97%E8%AF%81%E6%98%8E%E5%AD%A9%E5%AD%90%E6%98%AF%E5%9C%A8%E5%92%8C%E9%92%A2%E7%90%B4%E5%8F%8B%E5%A5%BD%E4%BA%A4%E6%B5%81&t=31&band_rank=2&Refer=top)<br />
+1. [郎朗证明孩子是在和钢琴友好交流](https://s.weibo.com/weibo?q=%E9%83%8E%E6%9C%97%E8%AF%81%E6%98%8E%E5%AD%A9%E5%AD%90%E6%98%AF%E5%9C%A8%E5%92%8C%E9%92%A2%E7%90%B4%E5%8F%8B%E5%A5%BD%E4%BA%A4%E6%B5%81&t=31&band_rank=1&Refer=top)<br />
+2. [霸王茶姬咖啡因含量超2罐红牛](https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%92%96%E5%95%A1%E5%9B%A0%E5%90%AB%E9%87%8F%E8%B6%852%E7%BD%90%E7%BA%A2%E7%89%9B%23&t=31&band_rank=2&Refer=top)<br />
 3. [故宫银杏和红墙黄瓦完美适配](https://s.weibo.com/weibo?q=%23%E6%95%85%E5%AE%AB%E9%93%B6%E6%9D%8F%E5%92%8C%E7%BA%A2%E5%A2%99%E9%BB%84%E7%93%A6%E5%AE%8C%E7%BE%8E%E9%80%82%E9%85%8D%23&t=31&band_rank=3&Refer=top)<br />
 4. [淘宝取消双12](https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%8F%96%E6%B6%88%E5%8F%8C12%23&t=31&band_rank=4&Refer=top)<br />
 5. [崔雪莉曾说做韩流偶像最惨](https://s.weibo.com/weibo?q=%23%E5%B4%94%E9%9B%AA%E8%8E%89%E6%9B%BE%E8%AF%B4%E5%81%9A%E9%9F%A9%E6%B5%81%E5%81%B6%E5%83%8F%E6%9C%80%E6%83%A8%23&t=31&band_rank=5&Refer=top)<br />
