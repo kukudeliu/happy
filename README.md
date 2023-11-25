@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 11:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 11:19:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [北京下雪](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA&t=31&band_rank=6&Refer=top)<br />
 7. [国色芳华男二 魏哲鸣](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E7%94%B7%E4%BA%8C%20%E9%AD%8F%E5%93%B2%E9%B8%A3&t=31&band_rank=7&Refer=top)<br />
 8. [Doinb Ning](https://s.weibo.com/weibo?q=Doinb%20Ning&t=31&band_rank=8&Refer=top)<br />
-9. [谢娜林心如没错过任何一个瓜](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%9E%97%E5%BF%83%E5%A6%82%E6%B2%A1%E9%94%99%E8%BF%87%E4%BB%BB%E4%BD%95%E4%B8%80%E4%B8%AA%E7%93%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [范丞丞 山西](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%20%E5%B1%B1%E8%A5%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
