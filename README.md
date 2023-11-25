@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 12:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 12:22:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [网传坠楼研究生课题被导师拿走毕业困难](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%9D%A0%E6%A5%BC%E7%A0%94%E7%A9%B6%E7%94%9F%E8%AF%BE%E9%A2%98%E8%A2%AB%E5%AF%BC%E5%B8%88%E6%8B%BF%E8%B5%B0%E6%AF%95%E4%B8%9A%E5%9B%B0%E9%9A%BE%23&t=31&band_rank=2&Refer=top)<br />
 3. [儿子继承了牺牲父亲的警号](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E7%BB%A7%E6%89%BF%E4%BA%86%E7%89%BA%E7%89%B2%E7%88%B6%E4%BA%B2%E7%9A%84%E8%AD%A6%E5%8F%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [虞书欣ins点赞杨紫相关](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3ins%E7%82%B9%E8%B5%9E%E6%9D%A8%E7%B4%AB%E7%9B%B8%E5%85%B3%23&t=31&band_rank=4&Refer=top)<br />
-5. [宋轶素颜吃早餐](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%B4%A0%E9%A2%9C%E5%90%83%E6%97%A9%E9%A4%90%23&t=31&band_rank=5&Refer=top)<br />
-6. [向佐喜提女儿脸部马杀鸡](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%96%9C%E6%8F%90%E5%A5%B3%E5%84%BF%E8%84%B8%E9%83%A8%E9%A9%AC%E6%9D%80%E9%B8%A1%23&t=31&band_rank=6&Refer=top)<br />
+5. [向佐喜提女儿脸部马杀鸡](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%96%9C%E6%8F%90%E5%A5%B3%E5%84%BF%E8%84%B8%E9%83%A8%E9%A9%AC%E6%9D%80%E9%B8%A1%23&t=31&band_rank=5&Refer=top)<br />
+6. [宋轶素颜吃早餐](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%B4%A0%E9%A2%9C%E5%90%83%E6%97%A9%E9%A4%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [公主和亲 十里红妆不过另一种自刎](https://s.weibo.com/weibo?q=%E5%85%AC%E4%B8%BB%E5%92%8C%E4%BA%B2%20%E5%8D%81%E9%87%8C%E7%BA%A2%E5%A6%86%E4%B8%8D%E8%BF%87%E5%8F%A6%E4%B8%80%E7%A7%8D%E8%87%AA%E5%88%8E&t=31&band_rank=7&Refer=top)<br />
 8. [凡人修仙传开播](https://s.weibo.com/weibo?q=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E5%BC%80%E6%92%AD&t=31&band_rank=8&Refer=top)<br />
 9. [知情人曾透露吴秀波不再从事演员职业](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E6%9B%BE%E9%80%8F%E9%9C%B2%E5%90%B4%E7%A7%80%E6%B3%A2%E4%B8%8D%E5%86%8D%E4%BB%8E%E4%BA%8B%E6%BC%94%E5%91%98%E8%81%8C%E4%B8%9A%23&t=31&band_rank=9&Refer=top)<br />
