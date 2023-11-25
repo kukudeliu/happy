@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 12:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 12:35:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [2023中国最具幸福感城市揭晓](https://www.baidu.com/s?wd=2023%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%85%B7%E5%B9%B8%E7%A6%8F%E6%84%9F%E5%9F%8E%E5%B8%82%E6%8F%AD%E6%99%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [阿根廷新总统誓言炸掉央行](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%96%B0%E6%80%BB%E7%BB%9F%E8%AA%93%E8%A8%80%E7%82%B8%E6%8E%89%E5%A4%AE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [翼装飞行者在空中被飞机斩首](https://www.baidu.com/s?wd=%E7%BF%BC%E8%A3%85%E9%A3%9E%E8%A1%8C%E8%80%85%E5%9C%A8%E7%A9%BA%E4%B8%AD%E8%A2%AB%E9%A3%9E%E6%9C%BA%E6%96%A9%E9%A6%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本一棕熊尸体内发现人体残骸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E6%A3%95%E7%86%8A%E5%B0%B8%E4%BD%93%E5%86%85%E5%8F%91%E7%8E%B0%E4%BA%BA%E4%BD%93%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [海底捞回应跳科目三服务员月薪过万](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E6%9C%8D%E5%8A%A1%E5%91%98%E6%9C%88%E8%96%AA%E8%BF%87%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高校辟谣没收学生物品挂闲鱼卖](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%BE%9F%E8%B0%A3%E6%B2%A1%E6%94%B6%E5%AD%A6%E7%94%9F%E7%89%A9%E5%93%81%E6%8C%82%E9%97%B2%E9%B1%BC%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [2023中国最具幸福感城市揭晓](https://www.baidu.com/s?wd=2023%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%85%B7%E5%B9%B8%E7%A6%8F%E6%84%9F%E5%9F%8E%E5%B8%82%E6%8F%AD%E6%99%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [阿根廷新总统誓言炸掉央行](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%96%B0%E6%80%BB%E7%BB%9F%E8%AA%93%E8%A8%80%E7%82%B8%E6%8E%89%E5%A4%AE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [翼装飞行者在空中被飞机斩首](https://www.baidu.com/s?wd=%E7%BF%BC%E8%A3%85%E9%A3%9E%E8%A1%8C%E8%80%85%E5%9C%A8%E7%A9%BA%E4%B8%AD%E8%A2%AB%E9%A3%9E%E6%9C%BA%E6%96%A9%E9%A6%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本一棕熊尸体内发现人体残骸](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E6%A3%95%E7%86%8A%E5%B0%B8%E4%BD%93%E5%86%85%E5%8F%91%E7%8E%B0%E4%BA%BA%E4%BD%93%E6%AE%8B%E9%AA%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [海底捞回应跳科目三服务员月薪过万](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E6%9C%8D%E5%8A%A1%E5%91%98%E6%9C%88%E8%96%AA%E8%BF%87%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高校辟谣没收学生物品挂闲鱼卖](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%BE%9F%E8%B0%A3%E6%B2%A1%E6%94%B6%E5%AD%A6%E7%94%9F%E7%89%A9%E5%93%81%E6%8C%82%E9%97%B2%E9%B1%BC%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
