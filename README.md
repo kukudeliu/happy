@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 20:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 20:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [狂飙 第二部](https://s.weibo.com/weibo?q=%E7%8B%82%E9%A3%99%20%E7%AC%AC%E4%BA%8C%E9%83%A8&t=31&band_rank=6&Refer=top)<br />
 7. [不能二次加热的食物](https://s.weibo.com/weibo?q=%E4%B8%8D%E8%83%BD%E4%BA%8C%E6%AC%A1%E5%8A%A0%E7%83%AD%E7%9A%84%E9%A3%9F%E7%89%A9&t=31&band_rank=7&Refer=top)<br />
 8. [369回应加入TES](https://s.weibo.com/weibo?q=%23369%E5%9B%9E%E5%BA%94%E5%8A%A0%E5%85%A5TES%23&t=31&band_rank=8&Refer=top)<br />
-9. [南部战区就美舰侵闯西沙领海发表谈话](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E5%B0%B1%E7%BE%8E%E8%88%B0%E4%BE%B5%E9%97%AF%E8%A5%BF%E6%B2%99%E9%A2%86%E6%B5%B7%E5%8F%91%E8%A1%A8%E8%B0%88%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
+9. [何冲评全红婵粉丝斥裁判压分](https://s.weibo.com/weibo?q=%E4%BD%95%E5%86%B2%E8%AF%84%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%B2%89%E4%B8%9D%E6%96%A5%E8%A3%81%E5%88%A4%E5%8E%8B%E5%88%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
