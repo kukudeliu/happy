@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 20:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 20:14:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [社会消费品零售总额连续3个月回升](https://www.baidu.com/s?wd=%E7%A4%BE%E4%BC%9A%E6%B6%88%E8%B4%B9%E5%93%81%E9%9B%B6%E5%94%AE%E6%80%BB%E9%A2%9D%E8%BF%9E%E7%BB%AD3%E4%B8%AA%E6%9C%88%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“娃哈哈”女孩钢琴弹唱震惊郎朗](https://www.baidu.com/s?wd=%E2%80%9C%E5%A8%83%E5%93%88%E5%93%88%E2%80%9D%E5%A5%B3%E5%AD%A9%E9%92%A2%E7%90%B4%E5%BC%B9%E5%94%B1%E9%9C%87%E6%83%8A%E9%83%8E%E6%9C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广州一女子景区瀑布内洗衣服](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%A5%B3%E5%AD%90%E6%99%AF%E5%8C%BA%E7%80%91%E5%B8%83%E5%86%85%E6%B4%97%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [铁岭3任市委书记与5任市长落马](https://www.baidu.com/s?wd=%E9%93%81%E5%B2%AD3%E4%BB%BB%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E4%B8%8E5%E4%BB%BB%E5%B8%82%E9%95%BF%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [B太曝雪乡旅游团价格混乱 多方回应](https://www.baidu.com/s?wd=B%E5%A4%AA%E6%9B%9D%E9%9B%AA%E4%B9%A1%E6%97%85%E6%B8%B8%E5%9B%A2%E4%BB%B7%E6%A0%BC%E6%B7%B7%E4%B9%B1+%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [山西施工事故被埋7人均遇难](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E6%96%BD%E5%B7%A5%E4%BA%8B%E6%95%85%E8%A2%AB%E5%9F%8B7%E4%BA%BA%E5%9D%87%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝梅西和妻子正经历婚姻危机](https://www.baidu.com/s?wd=%E6%9B%9D%E6%A2%85%E8%A5%BF%E5%92%8C%E5%A6%BB%E5%AD%90%E6%AD%A3%E7%BB%8F%E5%8E%86%E5%A9%9A%E5%A7%BB%E5%8D%B1%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [入冬使用加湿器会引发肺炎？](https://www.baidu.com/s?wd=%E5%85%A5%E5%86%AC%E4%BD%BF%E7%94%A8%E5%8A%A0%E6%B9%BF%E5%99%A8%E4%BC%9A%E5%BC%95%E5%8F%91%E8%82%BA%E7%82%8E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [社会消费品零售总额连续3个月回升](https://www.baidu.com/s?wd=%E7%A4%BE%E4%BC%9A%E6%B6%88%E8%B4%B9%E5%93%81%E9%9B%B6%E5%94%AE%E6%80%BB%E9%A2%9D%E8%BF%9E%E7%BB%AD3%E4%B8%AA%E6%9C%88%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“娃哈哈”女孩钢琴弹唱震惊郎朗](https://www.baidu.com/s?wd=%E2%80%9C%E5%A8%83%E5%93%88%E5%93%88%E2%80%9D%E5%A5%B3%E5%AD%A9%E9%92%A2%E7%90%B4%E5%BC%B9%E5%94%B1%E9%9C%87%E6%83%8A%E9%83%8E%E6%9C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [广州一女子景区瀑布内洗衣服](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%A5%B3%E5%AD%90%E6%99%AF%E5%8C%BA%E7%80%91%E5%B8%83%E5%86%85%E6%B4%97%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [铁岭3任市委书记与5任市长落马](https://www.baidu.com/s?wd=%E9%93%81%E5%B2%AD3%E4%BB%BB%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E4%B8%8E5%E4%BB%BB%E5%B8%82%E9%95%BF%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [B太曝雪乡旅游团价格混乱 多方回应](https://www.baidu.com/s?wd=B%E5%A4%AA%E6%9B%9D%E9%9B%AA%E4%B9%A1%E6%97%85%E6%B8%B8%E5%9B%A2%E4%BB%B7%E6%A0%BC%E6%B7%B7%E4%B9%B1+%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [山西施工事故被埋7人均遇难](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E6%96%BD%E5%B7%A5%E4%BA%8B%E6%95%85%E8%A2%AB%E5%9F%8B7%E4%BA%BA%E5%9D%87%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝梅西和妻子正经历婚姻危机](https://www.baidu.com/s?wd=%E6%9B%9D%E6%A2%85%E8%A5%BF%E5%92%8C%E5%A6%BB%E5%AD%90%E6%AD%A3%E7%BB%8F%E5%8E%86%E5%A9%9A%E5%A7%BB%E5%8D%B1%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [入冬使用加湿器会引发肺炎？](https://www.baidu.com/s?wd=%E5%85%A5%E5%86%AC%E4%BD%BF%E7%94%A8%E5%8A%A0%E6%B9%BF%E5%99%A8%E4%BC%9A%E5%BC%95%E5%8F%91%E8%82%BA%E7%82%8E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
