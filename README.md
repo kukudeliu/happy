@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 12:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 12:39:01</h4></div>
 
 > 微博  
 
 1. [陈赫直播破防](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E7%9B%B4%E6%92%AD%E7%A0%B4%E9%98%B2%23&t=31&band_rank=1&Refer=top)<br />
-2. [向佐喜提女儿脸部马杀鸡](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%96%9C%E6%8F%90%E5%A5%B3%E5%84%BF%E8%84%B8%E9%83%A8%E9%A9%AC%E6%9D%80%E9%B8%A1%23&t=31&band_rank=2&Refer=top)<br />
+2. [尖叫之夜 座位](https://s.weibo.com/weibo?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%20%E5%BA%A7%E4%BD%8D&t=31&band_rank=2&Refer=top)<br />
 3. [儿子继承了牺牲父亲的警号](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E7%BB%A7%E6%89%BF%E4%BA%86%E7%89%BA%E7%89%B2%E7%88%B6%E4%BA%B2%E7%9A%84%E8%AD%A6%E5%8F%B7%23&t=31&band_rank=3&Refer=top)<br />
-4. [尖叫之夜 座位](https://s.weibo.com/weibo?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%20%E5%BA%A7%E4%BD%8D&t=31&band_rank=4&Refer=top)<br />
-5. [宋轶素颜吃早餐](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%B4%A0%E9%A2%9C%E5%90%83%E6%97%A9%E9%A4%90%23&t=31&band_rank=5&Refer=top)<br />
+4. [宋轶素颜吃早餐](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%B4%A0%E9%A2%9C%E5%90%83%E6%97%A9%E9%A4%90%23&t=31&band_rank=4&Refer=top)<br />
+5. [向佐喜提女儿脸部马杀鸡](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%96%9C%E6%8F%90%E5%A5%B3%E5%84%BF%E8%84%B8%E9%83%A8%E9%A9%AC%E6%9D%80%E9%B8%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [网传坠楼研究生课题被导师拿走毕业困难](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%9D%A0%E6%A5%BC%E7%A0%94%E7%A9%B6%E7%94%9F%E8%AF%BE%E9%A2%98%E8%A2%AB%E5%AF%BC%E5%B8%88%E6%8B%BF%E8%B5%B0%E6%AF%95%E4%B8%9A%E5%9B%B0%E9%9A%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [虞书欣ins点赞杨紫相关](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3ins%E7%82%B9%E8%B5%9E%E6%9D%A8%E7%B4%AB%E7%9B%B8%E5%85%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [北京明确学生患病作业一律不硬性要求](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%98%8E%E7%A1%AE%E5%AD%A6%E7%94%9F%E6%82%A3%E7%97%85%E4%BD%9C%E4%B8%9A%E4%B8%80%E5%BE%8B%E4%B8%8D%E7%A1%AC%E6%80%A7%E8%A6%81%E6%B1%82%23&t=31&band_rank=8&Refer=top)<br />
