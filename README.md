@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 11:43:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 11:44:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [宋轶素颜吃早餐](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%B4%A0%E9%A2%9C%E5%90%83%E6%97%A9%E9%A4%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [知情人曾透露吴秀波不再从事演员职业](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E6%9B%BE%E9%80%8F%E9%9C%B2%E5%90%B4%E7%A7%80%E6%B3%A2%E4%B8%8D%E5%86%8D%E4%BB%8E%E4%BA%8B%E6%BC%94%E5%91%98%E8%81%8C%E4%B8%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [公主和亲 十里红妆不过另一种自刎](https://s.weibo.com/weibo?q=%E5%85%AC%E4%B8%BB%E5%92%8C%E4%BA%B2%20%E5%8D%81%E9%87%8C%E7%BA%A2%E5%A6%86%E4%B8%8D%E8%BF%87%E5%8F%A6%E4%B8%80%E7%A7%8D%E8%87%AA%E5%88%8E&t=31&band_rank=6&Refer=top)<br />
-7. [国色芳华男二 魏哲鸣](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E7%94%B7%E4%BA%8C%20%E9%AD%8F%E5%93%B2%E9%B8%A3&t=31&band_rank=7&Refer=top)<br />
+7. [JYP和NewJeans出现时台下表情对比](https://s.weibo.com/weibo?q=JYP%E5%92%8CNewJeans%E5%87%BA%E7%8E%B0%E6%97%B6%E5%8F%B0%E4%B8%8B%E8%A1%A8%E6%83%85%E5%AF%B9%E6%AF%94&t=31&band_rank=7&Refer=top)<br />
 8. [如果能重来白鹿选整牙](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E8%83%BD%E9%87%8D%E6%9D%A5%E7%99%BD%E9%B9%BF%E9%80%89%E6%95%B4%E7%89%99%23&t=31&band_rank=8&Refer=top)<br />
 9. [两男恐惧](https://s.weibo.com/weibo?q=%E4%B8%A4%E7%94%B7%E6%81%90%E6%83%A7&t=31&band_rank=9&Refer=top)<br />
 
