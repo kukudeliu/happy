@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 18:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 18:09:02</h4></div>
 
 > 微博  
 
 1. [尖叫之夜红毯](https://s.weibo.com/weibo?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF&t=31&band_rank=1&Refer=top)<br />
 2. [花花吃饭被弟弟折腾懵了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%90%83%E9%A5%AD%E8%A2%AB%E5%BC%9F%E5%BC%9F%E6%8A%98%E8%85%BE%E6%87%B5%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [新时代中国乡野调查](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E4%B9%A1%E9%87%8E%E8%B0%83%E6%9F%A5%23&t=31&band_rank=3&Refer=top)<br />
-4. [谢依霖回应老公重症肌无力](https://s.weibo.com/weibo?q=%E8%B0%A2%E4%BE%9D%E9%9C%96%E5%9B%9E%E5%BA%94%E8%80%81%E5%85%AC%E9%87%8D%E7%97%87%E8%82%8C%E6%97%A0%E5%8A%9B&t=31&band_rank=4&Refer=top)<br />
+4. [尖叫之夜红毯BGM 好吵](https://s.weibo.com/weibo?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AFBGM%20%E5%A5%BD%E5%90%B5&t=31&band_rank=4&Refer=top)<br />
 5. [重症肌无力是种什么病](https://s.weibo.com/weibo?q=%23%E9%87%8D%E7%97%87%E8%82%8C%E6%97%A0%E5%8A%9B%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E7%97%85%23&t=31&band_rank=5&Refer=top)<br />
-6. [尖叫之夜红毯BGM 好吵](https://s.weibo.com/weibo?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AFBGM%20%E5%A5%BD%E5%90%B5&t=31&band_rank=6&Refer=top)<br />
+6. [谢依霖回应老公重症肌无力](https://s.weibo.com/weibo?q=%E8%B0%A2%E4%BE%9D%E9%9C%96%E5%9B%9E%E5%BA%94%E8%80%81%E5%85%AC%E9%87%8D%E7%97%87%E8%82%8C%E6%97%A0%E5%8A%9B&t=31&band_rank=6&Refer=top)<br />
 7. [交警多问一句话救下一条命](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%95%91%E4%B8%8B%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [田曦薇 看得出她是公主](https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%20%E7%9C%8B%E5%BE%97%E5%87%BA%E5%A5%B9%E6%98%AF%E5%85%AC%E4%B8%BB&t=31&band_rank=8&Refer=top)<br />
 9. [尖叫之夜 座位](https://s.weibo.com/weibo?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%20%E5%BA%A7%E4%BD%8D&t=31&band_rank=9&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [“娃哈哈”女孩钢琴弹唱震惊郎朗](https://www.baidu.com/s?wd=%E2%80%9C%E5%A8%83%E5%93%88%E5%93%88%E2%80%9D%E5%A5%B3%E5%AD%A9%E9%92%A2%E7%90%B4%E5%BC%B9%E5%94%B1%E9%9C%87%E6%83%8A%E9%83%8E%E6%9C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [管委会回应成都一楼盘降价40%](https://www.baidu.com/s?wd=%E7%AE%A1%E5%A7%94%E4%BC%9A%E5%9B%9E%E5%BA%94%E6%88%90%E9%83%BD%E4%B8%80%E6%A5%BC%E7%9B%98%E9%99%8D%E4%BB%B740%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [马云前助理：马家厨房不做预制菜](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E5%89%8D%E5%8A%A9%E7%90%86%EF%BC%9A%E9%A9%AC%E5%AE%B6%E5%8E%A8%E6%88%BF%E4%B8%8D%E5%81%9A%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [刑案案犯手机号被拍出2614万](https://www.baidu.com/s?wd=%E5%88%91%E6%A1%88%E6%A1%88%E7%8A%AF%E6%89%8B%E6%9C%BA%E5%8F%B7%E8%A2%AB%E6%8B%8D%E5%87%BA2614%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [岛内担忧赖清德当选大陆游客不来](https://www.baidu.com/s?wd=%E5%B2%9B%E5%86%85%E6%8B%85%E5%BF%A7%E8%B5%96%E6%B8%85%E5%BE%B7%E5%BD%93%E9%80%89%E5%A4%A7%E9%99%86%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高校辟谣没收学生物品挂闲鱼卖](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%BE%9F%E8%B0%A3%E6%B2%A1%E6%94%B6%E5%AD%A6%E7%94%9F%E7%89%A9%E5%93%81%E6%8C%82%E9%97%B2%E9%B1%BC%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [“娃哈哈”女孩钢琴弹唱震惊郎朗](https://www.baidu.com/s?wd=%E2%80%9C%E5%A8%83%E5%93%88%E5%93%88%E2%80%9D%E5%A5%B3%E5%AD%A9%E9%92%A2%E7%90%B4%E5%BC%B9%E5%94%B1%E9%9C%87%E6%83%8A%E9%83%8E%E6%9C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [管委会回应成都一楼盘降价40%](https://www.baidu.com/s?wd=%E7%AE%A1%E5%A7%94%E4%BC%9A%E5%9B%9E%E5%BA%94%E6%88%90%E9%83%BD%E4%B8%80%E6%A5%BC%E7%9B%98%E9%99%8D%E4%BB%B740%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [马云前助理：马家厨房不做预制菜](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E5%89%8D%E5%8A%A9%E7%90%86%EF%BC%9A%E9%A9%AC%E5%AE%B6%E5%8E%A8%E6%88%BF%E4%B8%8D%E5%81%9A%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [刑案案犯手机号被拍出2614万](https://www.baidu.com/s?wd=%E5%88%91%E6%A1%88%E6%A1%88%E7%8A%AF%E6%89%8B%E6%9C%BA%E5%8F%B7%E8%A2%AB%E6%8B%8D%E5%87%BA2614%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [岛内担忧赖清德当选大陆游客不来](https://www.baidu.com/s?wd=%E5%B2%9B%E5%86%85%E6%8B%85%E5%BF%A7%E8%B5%96%E6%B8%85%E5%BE%B7%E5%BD%93%E9%80%89%E5%A4%A7%E9%99%86%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高校辟谣没收学生物品挂闲鱼卖](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%BE%9F%E8%B0%A3%E6%B2%A1%E6%94%B6%E5%AD%A6%E7%94%9F%E7%89%A9%E5%93%81%E6%8C%82%E9%97%B2%E9%B1%BC%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
