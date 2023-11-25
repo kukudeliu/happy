@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 03:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 03:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吴慷仁 金马影帝](https://s.weibo.com/weibo?q=%E5%90%B4%E6%85%B7%E4%BB%81%20%E9%87%91%E9%A9%AC%E5%BD%B1%E5%B8%9D&t=31&band_rank=6&Refer=top)<br />
 7. [北京朝阳警方立案侦查中植系所属财富公司](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%9D%E9%98%B3%E8%AD%A6%E6%96%B9%E7%AB%8B%E6%A1%88%E4%BE%A6%E6%9F%A5%E4%B8%AD%E6%A4%8D%E7%B3%BB%E6%89%80%E5%B1%9E%E8%B4%A2%E5%AF%8C%E5%85%AC%E5%8F%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [美嘉仿妆](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%98%89%E4%BB%BF%E5%A6%86&t=31&band_rank=8&Refer=top)<br />
-9. [不能二次加热的食物](https://s.weibo.com/weibo?q=%E4%B8%8D%E8%83%BD%E4%BA%8C%E6%AC%A1%E5%8A%A0%E7%83%AD%E7%9A%84%E9%A3%9F%E7%89%A9&t=31&band_rank=9&Refer=top)<br />
+9. [余光中妻子去世](https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%85%89%E4%B8%AD%E5%A6%BB%E5%AD%90%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
