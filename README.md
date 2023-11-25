@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 18:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 18:01:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [田曦薇 看得出她是公主](https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%20%E7%9C%8B%E5%BE%97%E5%87%BA%E5%A5%B9%E6%98%AF%E5%85%AC%E4%B8%BB&t=31&band_rank=5&Refer=top)<br />
 6. [尖叫之夜 座位](https://s.weibo.com/weibo?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%20%E5%BA%A7%E4%BD%8D&t=31&band_rank=6&Refer=top)<br />
 7. [海底捞回应跳科目三服务员月薪过万](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E6%9C%8D%E5%8A%A1%E5%91%98%E6%9C%88%E8%96%AA%E8%BF%87%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [胡先煦 考试什么的都去死吧](https://s.weibo.com/weibo?q=%E8%83%A1%E5%85%88%E7%85%A6%20%E8%80%83%E8%AF%95%E4%BB%80%E4%B9%88%E7%9A%84%E9%83%BD%E5%8E%BB%E6%AD%BB%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
-9. [前助理否认马云做预制菜](https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%8A%A9%E7%90%86%E5%90%A6%E8%AE%A4%E9%A9%AC%E4%BA%91%E5%81%9A%E9%A2%84%E5%88%B6%E8%8F%9C%23&t=31&band_rank=9&Refer=top)<br />
+8. [杨幂造型预告](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E9%80%A0%E5%9E%8B%E9%A2%84%E5%91%8A&t=31&band_rank=8&Refer=top)<br />
+9. [交警多问一句话救下一条命](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%95%91%E4%B8%8B%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
