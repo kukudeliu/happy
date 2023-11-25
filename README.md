@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 22:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 22:46:01</h4></div>
 
 > 微博  
 
 1. [杨幂又听到什么了](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E5%8F%88%E5%90%AC%E5%88%B0%E4%BB%80%E4%B9%88%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
 2. [陈晓瘦脱相了](https://s.weibo.com/weibo?q=%E9%99%88%E6%99%93%E7%98%A6%E8%84%B1%E7%9B%B8%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [第一次看见冰山有多震撼](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E8%A7%81%E5%86%B0%E5%B1%B1%E6%9C%89%E5%A4%9A%E9%9C%87%E6%92%BC%23&t=31&band_rank=3&Refer=top)<br />
-4. [娜扎 是你们要看的吗](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%20%E6%98%AF%E4%BD%A0%E4%BB%AC%E8%A6%81%E7%9C%8B%E7%9A%84%E5%90%97&t=31&band_rank=4&Refer=top)<br />
+4. [白鹿 尖叫女演员](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E5%B0%96%E5%8F%AB%E5%A5%B3%E6%BC%94%E5%91%98&t=31&band_rank=4&Refer=top)<br />
 5. [王鹤棣 尖叫男演员](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E5%B0%96%E5%8F%AB%E7%94%B7%E6%BC%94%E5%91%98&t=31&band_rank=5&Refer=top)<br />
-6. [虞书欣成毅梦回一年级](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%88%90%E6%AF%85%E6%A2%A6%E5%9B%9E%E4%B8%80%E5%B9%B4%E7%BA%A7&t=31&band_rank=6&Refer=top)<br />
-7. [宋轶白敬亭魏大勋 切镜头](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%BD%B6%E7%99%BD%E6%95%AC%E4%BA%AD%E9%AD%8F%E5%A4%A7%E5%8B%8B%20%E5%88%87%E9%95%9C%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
+6. [娜扎 是你们要看的吗](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%20%E6%98%AF%E4%BD%A0%E4%BB%AC%E8%A6%81%E7%9C%8B%E7%9A%84%E5%90%97&t=31&band_rank=6&Refer=top)<br />
+7. [虞书欣成毅梦回一年级](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%88%90%E6%AF%85%E6%A2%A6%E5%9B%9E%E4%B8%80%E5%B9%B4%E7%BA%A7&t=31&band_rank=7&Refer=top)<br />
 8. [余光中妻子去世](https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%85%89%E4%B8%AD%E5%A6%BB%E5%AD%90%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
 9. [小腿瘦得毫不费力](https://s.weibo.com/weibo?q=%E5%B0%8F%E8%85%BF%E7%98%A6%E5%BE%97%E6%AF%AB%E4%B8%8D%E8%B4%B9%E5%8A%9B&t=31&band_rank=9&Refer=top)<br />
 
