@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 16:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 16:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [这居然是王阳尖叫之夜造型](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E7%8E%8B%E9%98%B3%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E9%80%A0%E5%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [2024国考参考人数或破200万](https://s.weibo.com/weibo?q=%232024%E5%9B%BD%E8%80%83%E5%8F%82%E8%80%83%E4%BA%BA%E6%95%B0%E6%88%96%E7%A0%B4200%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [柯南 灰原哀老画风](https://s.weibo.com/weibo?q=%E6%9F%AF%E5%8D%97%20%E7%81%B0%E5%8E%9F%E5%93%80%E8%80%81%E7%94%BB%E9%A3%8E&t=31&band_rank=8&Refer=top)<br />
-9. [成都一楼盘降价40%](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E6%A5%BC%E7%9B%98%E9%99%8D%E4%BB%B740%25%23&t=31&band_rank=9&Refer=top)<br />
+9. [鉴定所疑伪造亲子鉴定3地警方介入](https://s.weibo.com/weibo?q=%23%E9%89%B4%E5%AE%9A%E6%89%80%E7%96%91%E4%BC%AA%E9%80%A0%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A3%E5%9C%B0%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
