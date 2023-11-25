@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 13:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 13:49:01</h4></div>
 
 > 微博  
 
 1. [李荣浩连发十条我求你们了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E8%BF%9E%E5%8F%91%E5%8D%81%E6%9D%A1%E6%88%91%E6%B1%82%E4%BD%A0%E4%BB%AC%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [宁安如梦大结局](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E5%A4%A7%E7%BB%93%E5%B1%80%23&t=31&band_rank=2&Refer=top)<br />
+2. [尖叫之夜 座位](https://s.weibo.com/weibo?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%20%E5%BA%A7%E4%BD%8D&t=31&band_rank=2&Refer=top)<br />
 3. [儿子继承了牺牲父亲的警号](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E7%BB%A7%E6%89%BF%E4%BA%86%E7%89%BA%E7%89%B2%E7%88%B6%E4%BA%B2%E7%9A%84%E8%AD%A6%E5%8F%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨幂 你就大大方方卷给他看](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%20%E4%BD%A0%E5%B0%B1%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E5%8D%B7%E7%BB%99%E4%BB%96%E7%9C%8B&t=31&band_rank=4&Refer=top)<br />
-5. [尖叫之夜 座位](https://s.weibo.com/weibo?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%20%E5%BA%A7%E4%BD%8D&t=31&band_rank=5&Refer=top)<br />
+5. [宁安如梦大结局](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E5%A4%A7%E7%BB%93%E5%B1%80%23&t=31&band_rank=5&Refer=top)<br />
 6. [陈赫直播破防](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E7%9B%B4%E6%92%AD%E7%A0%B4%E9%98%B2%23&t=31&band_rank=6&Refer=top)<br />
 7. [压垮男方的不止彩礼还有房贷和车贷](https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%9E%AE%E7%94%B7%E6%96%B9%E7%9A%84%E4%B8%8D%E6%AD%A2%E5%BD%A9%E7%A4%BC%E8%BF%98%E6%9C%89%E6%88%BF%E8%B4%B7%E5%92%8C%E8%BD%A6%E8%B4%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [上海交大食堂饭菜吃出1.5厘米针头](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E9%A3%9F%E5%A0%82%E9%A5%AD%E8%8F%9C%E5%90%83%E5%87%BA1.5%E5%8E%98%E7%B1%B3%E9%92%88%E5%A4%B4%23&t=31&band_rank=8&Refer=top)<br />
