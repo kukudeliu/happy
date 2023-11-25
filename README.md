@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 16:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 16:19:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [吴佩慈未婚夫被定性为恶势力首脑](https://www.baidu.com/s?wd=%E5%90%B4%E4%BD%A9%E6%85%88%E6%9C%AA%E5%A9%9A%E5%A4%AB%E8%A2%AB%E5%AE%9A%E6%80%A7%E4%B8%BA%E6%81%B6%E5%8A%BF%E5%8A%9B%E9%A6%96%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数字贸易 点亮未来](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E8%B4%B8%E6%98%93+%E7%82%B9%E4%BA%AE%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [2023中国最具幸福感城市揭晓](https://www.baidu.com/s?wd=2023%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%85%B7%E5%B9%B8%E7%A6%8F%E6%84%9F%E5%9F%8E%E5%B8%82%E6%8F%AD%E6%99%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [曝梅西和妻子正经历婚姻危机](https://www.baidu.com/s?wd=%E6%9B%9D%E6%A2%85%E8%A5%BF%E5%92%8C%E5%A6%BB%E5%AD%90%E6%AD%A3%E7%BB%8F%E5%8E%86%E5%A9%9A%E5%A7%BB%E5%8D%B1%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [70后警察收到00后送的锦旗没看懂](https://www.baidu.com/s?wd=70%E5%90%8E%E8%AD%A6%E5%AF%9F%E6%94%B6%E5%88%B000%E5%90%8E%E9%80%81%E7%9A%84%E9%94%A6%E6%97%97%E6%B2%A1%E7%9C%8B%E6%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子用土给老婆做戒指网友求量产](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E5%9C%9F%E7%BB%99%E8%80%81%E5%A9%86%E5%81%9A%E6%88%92%E6%8C%87%E7%BD%91%E5%8F%8B%E6%B1%82%E9%87%8F%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [曝梅西和妻子正经历婚姻危机](https://www.baidu.com/s?wd=%E6%9B%9D%E6%A2%85%E8%A5%BF%E5%92%8C%E5%A6%BB%E5%AD%90%E6%AD%A3%E7%BB%8F%E5%8E%86%E5%A9%9A%E5%A7%BB%E5%8D%B1%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [刑案案犯手机号被拍出2614万](https://www.baidu.com/s?wd=%E5%88%91%E6%A1%88%E6%A1%88%E7%8A%AF%E6%89%8B%E6%9C%BA%E5%8F%B7%E8%A2%AB%E6%8B%8D%E5%87%BA2614%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高校辟谣没收学生物品挂闲鱼卖](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%BE%9F%E8%B0%A3%E6%B2%A1%E6%94%B6%E5%AD%A6%E7%94%9F%E7%89%A9%E5%93%81%E6%8C%82%E9%97%B2%E9%B1%BC%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [吴佩慈未婚夫被定性为恶势力首脑](https://www.baidu.com/s?wd=%E5%90%B4%E4%BD%A9%E6%85%88%E6%9C%AA%E5%A9%9A%E5%A4%AB%E8%A2%AB%E5%AE%9A%E6%80%A7%E4%B8%BA%E6%81%B6%E5%8A%BF%E5%8A%9B%E9%A6%96%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [数字贸易 点亮未来](https://www.baidu.com/s?wd=%E6%95%B0%E5%AD%97%E8%B4%B8%E6%98%93+%E7%82%B9%E4%BA%AE%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [2023中国最具幸福感城市揭晓](https://www.baidu.com/s?wd=2023%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%85%B7%E5%B9%B8%E7%A6%8F%E6%84%9F%E5%9F%8E%E5%B8%82%E6%8F%AD%E6%99%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [曝梅西和妻子正经历婚姻危机](https://www.baidu.com/s?wd=%E6%9B%9D%E6%A2%85%E8%A5%BF%E5%92%8C%E5%A6%BB%E5%AD%90%E6%AD%A3%E7%BB%8F%E5%8E%86%E5%A9%9A%E5%A7%BB%E5%8D%B1%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [70后警察收到00后送的锦旗没看懂](https://www.baidu.com/s?wd=70%E5%90%8E%E8%AD%A6%E5%AF%9F%E6%94%B6%E5%88%B000%E5%90%8E%E9%80%81%E7%9A%84%E9%94%A6%E6%97%97%E6%B2%A1%E7%9C%8B%E6%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子用土给老婆做戒指网友求量产](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E5%9C%9F%E7%BB%99%E8%80%81%E5%A9%86%E5%81%9A%E6%88%92%E6%8C%87%E7%BD%91%E5%8F%8B%E6%B1%82%E9%87%8F%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [曝梅西和妻子正经历婚姻危机](https://www.baidu.com/s?wd=%E6%9B%9D%E6%A2%85%E8%A5%BF%E5%92%8C%E5%A6%BB%E5%AD%90%E6%AD%A3%E7%BB%8F%E5%8E%86%E5%A9%9A%E5%A7%BB%E5%8D%B1%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [刑案案犯手机号被拍出2614万](https://www.baidu.com/s?wd=%E5%88%91%E6%A1%88%E6%A1%88%E7%8A%AF%E6%89%8B%E6%9C%BA%E5%8F%B7%E8%A2%AB%E6%8B%8D%E5%87%BA2614%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高校辟谣没收学生物品挂闲鱼卖](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%BE%9F%E8%B0%A3%E6%B2%A1%E6%94%B6%E5%AD%A6%E7%94%9F%E7%89%A9%E5%93%81%E6%8C%82%E9%97%B2%E9%B1%BC%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
