@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 19:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 19:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [在谈vs分了](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E8%B0%88vs%E5%88%86%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [交警多问一句话救下一条命](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%95%91%E4%B8%8B%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [对接称刘诗诗不上台](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E6%8E%A5%E7%A7%B0%E5%88%98%E8%AF%97%E8%AF%97%E4%B8%8D%E4%B8%8A%E5%8F%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [尖叫之夜 座位](https://s.weibo.com/weibo?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%20%E5%BA%A7%E4%BD%8D&t=31&band_rank=9&Refer=top)<br />
+9. [南部战区就美舰侵闯西沙领海发表谈话](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E5%B0%B1%E7%BE%8E%E8%88%B0%E4%BE%B5%E9%97%AF%E8%A5%BF%E6%B2%99%E9%A2%86%E6%B5%B7%E5%8F%91%E8%A1%A8%E8%B0%88%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
