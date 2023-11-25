@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 03:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 03:47:01</h4></div>
 
 > 微博  
 
 1. [杨幂 于和伟亲马东了](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%20%E4%BA%8E%E5%92%8C%E4%BC%9F%E4%BA%B2%E9%A9%AC%E4%B8%9C%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [白鹿 尖叫女演员](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E5%B0%96%E5%8F%AB%E5%A5%B3%E6%BC%94%E5%91%98&t=31&band_rank=2&Refer=top)<br />
+2. [海涛跟沈梦辰说他在家里带孩子](https://s.weibo.com/weibo?q=%E6%B5%B7%E6%B6%9B%E8%B7%9F%E6%B2%88%E6%A2%A6%E8%BE%B0%E8%AF%B4%E4%BB%96%E5%9C%A8%E5%AE%B6%E9%87%8C%E5%B8%A6%E5%AD%A9%E5%AD%90&t=31&band_rank=2&Refer=top)<br />
 3. [中国基建狂魔即将打通天山](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9F%BA%E5%BB%BA%E7%8B%82%E9%AD%94%E5%8D%B3%E5%B0%86%E6%89%93%E9%80%9A%E5%A4%A9%E5%B1%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [金马影后林品彤 12岁](https://s.weibo.com/weibo?q=%E9%87%91%E9%A9%AC%E5%BD%B1%E5%90%8E%E6%9E%97%E5%93%81%E5%BD%A4%2012%E5%B2%81&t=31&band_rank=4&Refer=top)<br />
-5. [海涛跟沈梦辰说他在家里带孩子](https://s.weibo.com/weibo?q=%E6%B5%B7%E6%B6%9B%E8%B7%9F%E6%B2%88%E6%A2%A6%E8%BE%B0%E8%AF%B4%E4%BB%96%E5%9C%A8%E5%AE%B6%E9%87%8C%E5%B8%A6%E5%AD%A9%E5%AD%90&t=31&band_rank=5&Refer=top)<br />
+5. [白鹿 尖叫女演员](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E5%B0%96%E5%8F%AB%E5%A5%B3%E6%BC%94%E5%91%98&t=31&band_rank=5&Refer=top)<br />
 6. [吴慷仁 金马影帝](https://s.weibo.com/weibo?q=%E5%90%B4%E6%85%B7%E4%BB%81%20%E9%87%91%E9%A9%AC%E5%BD%B1%E5%B8%9D&t=31&band_rank=6&Refer=top)<br />
 7. [北京朝阳警方立案侦查中植系所属财富公司](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%9D%E9%98%B3%E8%AD%A6%E6%96%B9%E7%AB%8B%E6%A1%88%E4%BE%A6%E6%9F%A5%E4%B8%AD%E6%A4%8D%E7%B3%BB%E6%89%80%E5%B1%9E%E8%B4%A2%E5%AF%8C%E5%85%AC%E5%8F%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [不能二次加热的食物](https://s.weibo.com/weibo?q=%E4%B8%8D%E8%83%BD%E4%BA%8C%E6%AC%A1%E5%8A%A0%E7%83%AD%E7%9A%84%E9%A3%9F%E7%89%A9&t=31&band_rank=8&Refer=top)<br />
