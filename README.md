@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 10:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 10:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [理解王嘉尔 成为王嘉尔](https://s.weibo.com/weibo?q=%E7%90%86%E8%A7%A3%E7%8E%8B%E5%98%89%E5%B0%94%20%E6%88%90%E4%B8%BA%E7%8E%8B%E5%98%89%E5%B0%94&t=31&band_rank=6&Refer=top)<br />
 7. [国色芳华男二 魏哲鸣](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E7%94%B7%E4%BA%8C%20%E9%AD%8F%E5%93%B2%E9%B8%A3&t=31&band_rank=7&Refer=top)<br />
 8. [蒲罗旺斯](https://s.weibo.com/weibo?q=%E8%92%B2%E7%BD%97%E6%97%BA%E6%96%AF&t=31&band_rank=8&Refer=top)<br />
-9. [Doinb Ning](https://s.weibo.com/weibo?q=Doinb%20Ning&t=31&band_rank=9&Refer=top)<br />
+9. [369 TES](https://s.weibo.com/weibo?q=369%20TES&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
