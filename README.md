@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 13:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 13:31:02</h4></div>
 
 > 微博  
 
-1. [尖叫之夜 座位](https://s.weibo.com/weibo?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%20%E5%BA%A7%E4%BD%8D&t=31&band_rank=1&Refer=top)<br />
-2. [李荣浩连发十条我求你们了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E8%BF%9E%E5%8F%91%E5%8D%81%E6%9D%A1%E6%88%91%E6%B1%82%E4%BD%A0%E4%BB%AC%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [李荣浩连发十条我求你们了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E8%BF%9E%E5%8F%91%E5%8D%81%E6%9D%A1%E6%88%91%E6%B1%82%E4%BD%A0%E4%BB%AC%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [尖叫之夜 座位](https://s.weibo.com/weibo?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%20%E5%BA%A7%E4%BD%8D&t=31&band_rank=2&Refer=top)<br />
 3. [儿子继承了牺牲父亲的警号](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E7%BB%A7%E6%89%BF%E4%BA%86%E7%89%BA%E7%89%B2%E7%88%B6%E4%BA%B2%E7%9A%84%E8%AD%A6%E5%8F%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [宁安如梦大结局](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E5%A4%A7%E7%BB%93%E5%B1%80%23&t=31&band_rank=4&Refer=top)<br />
 5. [陈赫直播破防](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E7%9B%B4%E6%92%AD%E7%A0%B4%E9%98%B2%23&t=31&band_rank=5&Refer=top)<br />
