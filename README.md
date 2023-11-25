@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 11:19:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 11:20:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [第十批志愿军烈士安葬祭文](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%8D%81%E6%89%B9%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E5%AE%89%E8%91%AC%E7%A5%AD%E6%96%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [知情人曾透露吴秀波不再从事演员职业](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E6%9B%BE%E9%80%8F%E9%9C%B2%E5%90%B4%E7%A7%80%E6%B3%A2%E4%B8%8D%E5%86%8D%E4%BB%8E%E4%BA%8B%E6%BC%94%E5%91%98%E8%81%8C%E4%B8%9A%23&t=31&band_rank=4&Refer=top)<br />
 5. [公主和亲 十里红妆不过另一种自刎](https://s.weibo.com/weibo?q=%E5%85%AC%E4%B8%BB%E5%92%8C%E4%BA%B2%20%E5%8D%81%E9%87%8C%E7%BA%A2%E5%A6%86%E4%B8%8D%E8%BF%87%E5%8F%A6%E4%B8%80%E7%A7%8D%E8%87%AA%E5%88%8E&t=31&band_rank=5&Refer=top)<br />
-6. [北京下雪](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA&t=31&band_rank=6&Refer=top)<br />
-7. [国色芳华男二 魏哲鸣](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E7%94%B7%E4%BA%8C%20%E9%AD%8F%E5%93%B2%E9%B8%A3&t=31&band_rank=7&Refer=top)<br />
+6. [国色芳华男二 魏哲鸣](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E7%94%B7%E4%BA%8C%20%E9%AD%8F%E5%93%B2%E9%B8%A3&t=31&band_rank=6&Refer=top)<br />
+7. [北京下雪](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA&t=31&band_rank=7&Refer=top)<br />
 8. [Doinb Ning](https://s.weibo.com/weibo?q=Doinb%20Ning&t=31&band_rank=8&Refer=top)<br />
 9. [范丞丞 山西](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%20%E5%B1%B1%E8%A5%BF&t=31&band_rank=9&Refer=top)<br />
 
