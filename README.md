@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 20:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 20:08:02</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [社会消费品零售总额连续3个月回升](https://www.baidu.com/s?wd=%E7%A4%BE%E4%BC%9A%E6%B6%88%E8%B4%B9%E5%93%81%E9%9B%B6%E5%94%AE%E6%80%BB%E9%A2%9D%E8%BF%9E%E7%BB%AD3%E4%B8%AA%E6%9C%88%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“娃哈哈”女孩钢琴弹唱震惊郎朗](https://www.baidu.com/s?wd=%E2%80%9C%E5%A8%83%E5%93%88%E5%93%88%E2%80%9D%E5%A5%B3%E5%AD%A9%E9%92%A2%E7%90%B4%E5%BC%B9%E5%94%B1%E9%9C%87%E6%83%8A%E9%83%8E%E6%9C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [保安校门口劝阻女子拍视频被狂怼](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E6%A0%A1%E9%97%A8%E5%8F%A3%E5%8A%9D%E9%98%BB%E5%A5%B3%E5%AD%90%E6%8B%8D%E8%A7%86%E9%A2%91%E8%A2%AB%E7%8B%82%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [实探贾跃亭美国造车工厂](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8E%A2%E8%B4%BE%E8%B7%83%E4%BA%AD%E7%BE%8E%E5%9B%BD%E9%80%A0%E8%BD%A6%E5%B7%A5%E5%8E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [遭家暴女子称丈夫买切割机放家里](https://www.baidu.com/s?wd=%E9%81%AD%E5%AE%B6%E6%9A%B4%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B8%88%E5%A4%AB%E4%B9%B0%E5%88%87%E5%89%B2%E6%9C%BA%E6%94%BE%E5%AE%B6%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [70后警察收到00后送的锦旗没看懂](https://www.baidu.com/s?wd=70%E5%90%8E%E8%AD%A6%E5%AF%9F%E6%94%B6%E5%88%B000%E5%90%8E%E9%80%81%E7%9A%84%E9%94%A6%E6%97%97%E6%B2%A1%E7%9C%8B%E6%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [入冬使用加湿器会引发肺炎？](https://www.baidu.com/s?wd=%E5%85%A5%E5%86%AC%E4%BD%BF%E7%94%A8%E5%8A%A0%E6%B9%BF%E5%99%A8%E4%BC%9A%E5%BC%95%E5%8F%91%E8%82%BA%E7%82%8E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [社会消费品零售总额连续3个月回升](https://www.baidu.com/s?wd=%E7%A4%BE%E4%BC%9A%E6%B6%88%E8%B4%B9%E5%93%81%E9%9B%B6%E5%94%AE%E6%80%BB%E9%A2%9D%E8%BF%9E%E7%BB%AD3%E4%B8%AA%E6%9C%88%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“娃哈哈”女孩钢琴弹唱震惊郎朗](https://www.baidu.com/s?wd=%E2%80%9C%E5%A8%83%E5%93%88%E5%93%88%E2%80%9D%E5%A5%B3%E5%AD%A9%E9%92%A2%E7%90%B4%E5%BC%B9%E5%94%B1%E9%9C%87%E6%83%8A%E9%83%8E%E6%9C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [保安校门口劝阻女子拍视频被狂怼](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E6%A0%A1%E9%97%A8%E5%8F%A3%E5%8A%9D%E9%98%BB%E5%A5%B3%E5%AD%90%E6%8B%8D%E8%A7%86%E9%A2%91%E8%A2%AB%E7%8B%82%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [实探贾跃亭美国造车工厂](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8E%A2%E8%B4%BE%E8%B7%83%E4%BA%AD%E7%BE%8E%E5%9B%BD%E9%80%A0%E8%BD%A6%E5%B7%A5%E5%8E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [遭家暴女子称丈夫买切割机放家里](https://www.baidu.com/s?wd=%E9%81%AD%E5%AE%B6%E6%9A%B4%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B8%88%E5%A4%AB%E4%B9%B0%E5%88%87%E5%89%B2%E6%9C%BA%E6%94%BE%E5%AE%B6%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [70后警察收到00后送的锦旗没看懂](https://www.baidu.com/s?wd=70%E5%90%8E%E8%AD%A6%E5%AF%9F%E6%94%B6%E5%88%B000%E5%90%8E%E9%80%81%E7%9A%84%E9%94%A6%E6%97%97%E6%B2%A1%E7%9C%8B%E6%87%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [入冬使用加湿器会引发肺炎？](https://www.baidu.com/s?wd=%E5%85%A5%E5%86%AC%E4%BD%BF%E7%94%A8%E5%8A%A0%E6%B9%BF%E5%99%A8%E4%BC%9A%E5%BC%95%E5%8F%91%E8%82%BA%E7%82%8E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
