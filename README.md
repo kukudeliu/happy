@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 10:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 10:24:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [谢娜林心如没错过任何一个瓜](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%9E%97%E5%BF%83%E5%A6%82%E6%B2%A1%E9%94%99%E8%BF%87%E4%BB%BB%E4%BD%95%E4%B8%80%E4%B8%AA%E7%93%9C%23&t=31&band_rank=4&Refer=top)<br />
 5. [吴秀波及其公司涉及委托合同纠纷案件](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A7%80%E6%B3%A2%E5%8F%8A%E5%85%B6%E5%85%AC%E5%8F%B8%E6%B6%89%E5%8F%8A%E5%A7%94%E6%89%98%E5%90%88%E5%90%8C%E7%BA%A0%E7%BA%B7%E6%A1%88%E4%BB%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [理解王嘉尔 成为王嘉尔](https://s.weibo.com/weibo?q=%E7%90%86%E8%A7%A3%E7%8E%8B%E5%98%89%E5%B0%94%20%E6%88%90%E4%B8%BA%E7%8E%8B%E5%98%89%E5%B0%94&t=31&band_rank=6&Refer=top)<br />
-7. [蒲罗旺斯](https://s.weibo.com/weibo?q=%E8%92%B2%E7%BD%97%E6%97%BA%E6%96%AF&t=31&band_rank=7&Refer=top)<br />
-8. [Doinb Ning](https://s.weibo.com/weibo?q=Doinb%20Ning&t=31&band_rank=8&Refer=top)<br />
-9. [国色芳华男二 魏哲鸣](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E7%94%B7%E4%BA%8C%20%E9%AD%8F%E5%93%B2%E9%B8%A3&t=31&band_rank=9&Refer=top)<br />
+7. [国色芳华男二 魏哲鸣](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E7%94%B7%E4%BA%8C%20%E9%AD%8F%E5%93%B2%E9%B8%A3&t=31&band_rank=7&Refer=top)<br />
+8. [蒲罗旺斯](https://s.weibo.com/weibo?q=%E8%92%B2%E7%BD%97%E6%97%BA%E6%96%AF&t=31&band_rank=8&Refer=top)<br />
+9. [Doinb Ning](https://s.weibo.com/weibo?q=Doinb%20Ning&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
