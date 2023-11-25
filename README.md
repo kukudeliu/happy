@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 19:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 19:38:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [花花吃饭被弟弟折腾懵了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%90%83%E9%A5%AD%E8%A2%AB%E5%BC%9F%E5%BC%9F%E6%8A%98%E8%85%BE%E6%87%B5%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [花海 好美的精神状态](https://s.weibo.com/weibo?q=%E8%8A%B1%E6%B5%B7%20%E5%A5%BD%E7%BE%8E%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81&t=31&band_rank=6&Refer=top)<br />
 7. [交警多问一句话救下一条命](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%95%91%E4%B8%8B%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨幂压轴](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%8E%8B%E8%BD%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [王一博 不能](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E4%B8%8D%E8%83%BD&t=31&band_rank=9&Refer=top)<br />
+8. [对接称刘诗诗不上台](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E6%8E%A5%E7%A7%B0%E5%88%98%E8%AF%97%E8%AF%97%E4%B8%8D%E4%B8%8A%E5%8F%B0%23&t=31&band_rank=8&Refer=top)<br />
+9. [海底捞回应跳科目三服务员月薪过万](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E6%9C%8D%E5%8A%A1%E5%91%98%E6%9C%88%E8%96%AA%E8%BF%87%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
