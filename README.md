@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 09:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 09:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [崔雪莉曾说做韩流偶像最惨](https://s.weibo.com/weibo?q=%23%E5%B4%94%E9%9B%AA%E8%8E%89%E6%9B%BE%E8%AF%B4%E5%81%9A%E9%9F%A9%E6%B5%81%E5%81%B6%E5%83%8F%E6%9C%80%E6%83%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [369疑似离队](https://s.weibo.com/weibo?q=%23369%E7%96%91%E4%BC%BC%E7%A6%BB%E9%98%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [Jennie崔秀彬坐一起](https://s.weibo.com/weibo?q=%23Jennie%E5%B4%94%E7%A7%80%E5%BD%AC%E5%9D%90%E4%B8%80%E8%B5%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [吴亦凡被驱逐出境后十年内不准入境](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83%E5%90%8E%E5%8D%81%E5%B9%B4%E5%86%85%E4%B8%8D%E5%87%86%E5%85%A5%E5%A2%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [急诊医生得知奶奶去世抹掉眼泪接诊](https://s.weibo.com/weibo?q=%23%E6%80%A5%E8%AF%8A%E5%8C%BB%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%B6%E5%A5%B6%E5%8E%BB%E4%B8%96%E6%8A%B9%E6%8E%89%E7%9C%BC%E6%B3%AA%E6%8E%A5%E8%AF%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
