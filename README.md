@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 15:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 15:26:01</h4></div>
 
 > 微博  
 
 1. [吴佩慈未婚夫定性为恶势力团伙首脑](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BD%A9%E6%85%88%E6%9C%AA%E5%A9%9A%E5%A4%AB%E5%AE%9A%E6%80%A7%E4%B8%BA%E6%81%B6%E5%8A%BF%E5%8A%9B%E5%9B%A2%E4%BC%99%E9%A6%96%E8%84%91%23&t=31&band_rank=1&Refer=top)<br />
 2. [李荣浩连发十条我求你们了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E8%BF%9E%E5%8F%91%E5%8D%81%E6%9D%A1%E6%88%91%E6%B1%82%E4%BD%A0%E4%BB%AC%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
-3. [儿子继承了牺牲父亲的警号](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E7%BB%A7%E6%89%BF%E4%BA%86%E7%89%BA%E7%89%B2%E7%88%B6%E4%BA%B2%E7%9A%84%E8%AD%A6%E5%8F%B7%23&t=31&band_rank=3&Refer=top)<br />
-4. [尖叫之夜 座位](https://s.weibo.com/weibo?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%20%E5%BA%A7%E4%BD%8D&t=31&band_rank=4&Refer=top)<br />
-5. [杨幂 你就大大方方卷给他看](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%20%E4%BD%A0%E5%B0%B1%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E5%8D%B7%E7%BB%99%E4%BB%96%E7%9C%8B&t=31&band_rank=5&Refer=top)<br />
-6. [邓超 怒请100位转发的朋友看](https://s.weibo.com/weibo?q=%E9%82%93%E8%B6%85%20%E6%80%92%E8%AF%B7100%E4%BD%8D%E8%BD%AC%E5%8F%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E7%9C%8B&t=31&band_rank=6&Refer=top)<br />
+3. [尖叫之夜 座位](https://s.weibo.com/weibo?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%20%E5%BA%A7%E4%BD%8D&t=31&band_rank=3&Refer=top)<br />
+4. [杨幂 你就大大方方卷给他看](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%20%E4%BD%A0%E5%B0%B1%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E5%8D%B7%E7%BB%99%E4%BB%96%E7%9C%8B&t=31&band_rank=4&Refer=top)<br />
+5. [邓超 怒请100位转发的朋友看](https://s.weibo.com/weibo?q=%E9%82%93%E8%B6%85%20%E6%80%92%E8%AF%B7100%E4%BD%8D%E8%BD%AC%E5%8F%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E7%9C%8B&t=31&band_rank=5&Refer=top)<br />
+6. [白鹿复古鎏金裙](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%A4%8D%E5%8F%A4%E9%8E%8F%E9%87%91%E8%A3%99%23&t=31&band_rank=6&Refer=top)<br />
 7. [成都一楼盘降价40%](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E6%A5%BC%E7%9B%98%E9%99%8D%E4%BB%B740%25%23&t=31&band_rank=7&Refer=top)<br />
 8. [压垮男方的不止彩礼还有房贷和车贷](https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%9E%AE%E7%94%B7%E6%96%B9%E7%9A%84%E4%B8%8D%E6%AD%A2%E5%BD%A9%E7%A4%BC%E8%BF%98%E6%9C%89%E6%88%BF%E8%B4%B7%E5%92%8C%E8%BD%A6%E8%B4%B7%23&t=31&band_rank=8&Refer=top)<br />
 9. [鼠头鸭脖涉事高校党政领导去职](https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E9%AB%98%E6%A0%A1%E5%85%9A%E6%94%BF%E9%A2%86%E5%AF%BC%E5%8E%BB%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
