@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 21:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 21:53:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [“娃哈哈”女孩钢琴弹唱震惊郎朗](https://www.baidu.com/s?wd=%E2%80%9C%E5%A8%83%E5%93%88%E5%93%88%E2%80%9D%E5%A5%B3%E5%AD%A9%E9%92%A2%E7%90%B4%E5%BC%B9%E5%94%B1%E9%9C%87%E6%83%8A%E9%83%8E%E6%9C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [余光中妻子范我存离世](https://www.baidu.com/s?wd=%E4%BD%99%E5%85%89%E4%B8%AD%E5%A6%BB%E5%AD%90%E8%8C%83%E6%88%91%E5%AD%98%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张颂文高叶牵手走红毯](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E9%AB%98%E5%8F%B6%E7%89%B5%E6%89%8B%E8%B5%B0%E7%BA%A2%E6%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [遭家暴女子称丈夫买切割机放家里](https://www.baidu.com/s?wd=%E9%81%AD%E5%AE%B6%E6%9A%B4%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B8%88%E5%A4%AB%E4%B9%B0%E5%88%87%E5%89%B2%E6%9C%BA%E6%94%BE%E5%AE%B6%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“中植系”所属财富公司被立案侦查](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E6%A4%8D%E7%B3%BB%E2%80%9D%E6%89%80%E5%B1%9E%E8%B4%A2%E5%AF%8C%E5%85%AC%E5%8F%B8%E8%A2%AB%E7%AB%8B%E6%A1%88%E4%BE%A6%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [入冬使用加湿器会引发肺炎？](https://www.baidu.com/s?wd=%E5%85%A5%E5%86%AC%E4%BD%BF%E7%94%A8%E5%8A%A0%E6%B9%BF%E5%99%A8%E4%BC%9A%E5%BC%95%E5%8F%91%E8%82%BA%E7%82%8E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [“娃哈哈”女孩钢琴弹唱震惊郎朗](https://www.baidu.com/s?wd=%E2%80%9C%E5%A8%83%E5%93%88%E5%93%88%E2%80%9D%E5%A5%B3%E5%AD%A9%E9%92%A2%E7%90%B4%E5%BC%B9%E5%94%B1%E9%9C%87%E6%83%8A%E9%83%8E%E6%9C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [余光中妻子范我存离世](https://www.baidu.com/s?wd=%E4%BD%99%E5%85%89%E4%B8%AD%E5%A6%BB%E5%AD%90%E8%8C%83%E6%88%91%E5%AD%98%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张颂文高叶牵手走红毯](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E9%AB%98%E5%8F%B6%E7%89%B5%E6%89%8B%E8%B5%B0%E7%BA%A2%E6%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [遭家暴女子称丈夫买切割机放家里](https://www.baidu.com/s?wd=%E9%81%AD%E5%AE%B6%E6%9A%B4%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B8%88%E5%A4%AB%E4%B9%B0%E5%88%87%E5%89%B2%E6%9C%BA%E6%94%BE%E5%AE%B6%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“中植系”所属财富公司被立案侦查](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E6%A4%8D%E7%B3%BB%E2%80%9D%E6%89%80%E5%B1%9E%E8%B4%A2%E5%AF%8C%E5%85%AC%E5%8F%B8%E8%A2%AB%E7%AB%8B%E6%A1%88%E4%BE%A6%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [入冬使用加湿器会引发肺炎？](https://www.baidu.com/s?wd=%E5%85%A5%E5%86%AC%E4%BD%BF%E7%94%A8%E5%8A%A0%E6%B9%BF%E5%99%A8%E4%BC%9A%E5%BC%95%E5%8F%91%E8%82%BA%E7%82%8E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
