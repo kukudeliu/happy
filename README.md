@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 10:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 10:28:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [公主和亲 十里红妆不过另一种自刎](https://s.weibo.com/weibo?q=%E5%85%AC%E4%B8%BB%E5%92%8C%E4%BA%B2%20%E5%8D%81%E9%87%8C%E7%BA%A2%E5%A6%86%E4%B8%8D%E8%BF%87%E5%8F%A6%E4%B8%80%E7%A7%8D%E8%87%AA%E5%88%8E&t=31&band_rank=2&Refer=top)<br />
 3. [第十批志愿军烈士安葬祭文](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%8D%81%E6%89%B9%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E5%AE%89%E8%91%AC%E7%A5%AD%E6%96%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [谢娜林心如没错过任何一个瓜](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%9E%97%E5%BF%83%E5%A6%82%E6%B2%A1%E9%94%99%E8%BF%87%E4%BB%BB%E4%BD%95%E4%B8%80%E4%B8%AA%E7%93%9C%23&t=31&band_rank=4&Refer=top)<br />
-5. [吴秀波及其公司涉及委托合同纠纷案件](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A7%80%E6%B3%A2%E5%8F%8A%E5%85%B6%E5%85%AC%E5%8F%B8%E6%B6%89%E5%8F%8A%E5%A7%94%E6%89%98%E5%90%88%E5%90%8C%E7%BA%A0%E7%BA%B7%E6%A1%88%E4%BB%B6%23&t=31&band_rank=5&Refer=top)<br />
-6. [理解王嘉尔 成为王嘉尔](https://s.weibo.com/weibo?q=%E7%90%86%E8%A7%A3%E7%8E%8B%E5%98%89%E5%B0%94%20%E6%88%90%E4%B8%BA%E7%8E%8B%E5%98%89%E5%B0%94&t=31&band_rank=6&Refer=top)<br />
+5. [理解王嘉尔 成为王嘉尔](https://s.weibo.com/weibo?q=%E7%90%86%E8%A7%A3%E7%8E%8B%E5%98%89%E5%B0%94%20%E6%88%90%E4%B8%BA%E7%8E%8B%E5%98%89%E5%B0%94&t=31&band_rank=5&Refer=top)<br />
+6. [吴秀波及其公司涉及委托合同纠纷案件](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A7%80%E6%B3%A2%E5%8F%8A%E5%85%B6%E5%85%AC%E5%8F%B8%E6%B6%89%E5%8F%8A%E5%A7%94%E6%89%98%E5%90%88%E5%90%8C%E7%BA%A0%E7%BA%B7%E6%A1%88%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [国色芳华男二 魏哲鸣](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E7%94%B7%E4%BA%8C%20%E9%AD%8F%E5%93%B2%E9%B8%A3&t=31&band_rank=7&Refer=top)<br />
 8. [吴亦凡要先在中国坐完牢再被驱逐出境](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A6%81%E5%85%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%9D%90%E5%AE%8C%E7%89%A2%E5%86%8D%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [蒲罗旺斯](https://s.weibo.com/weibo?q=%E8%92%B2%E7%BD%97%E6%97%BA%E6%96%AF&t=31&band_rank=9&Refer=top)<br />
