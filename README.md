@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 19:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 19:53:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [交警多问一句话救下一条命](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%95%91%E4%B8%8B%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [369回应加入TES](https://s.weibo.com/weibo?q=%23369%E5%9B%9E%E5%BA%94%E5%8A%A0%E5%85%A5TES%23&t=31&band_rank=6&Refer=top)<br />
 7. [民警和被救男子用矿泉水碰杯](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%92%8C%E8%A2%AB%E6%95%91%E7%94%B7%E5%AD%90%E7%94%A8%E7%9F%BF%E6%B3%89%E6%B0%B4%E7%A2%B0%E6%9D%AF%23&t=31&band_rank=7&Refer=top)<br />
-8. [白敬亭宋轶一起走红毯](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E4%B8%80%E8%B5%B7%E8%B5%B0%E7%BA%A2%E6%AF%AF%23&t=31&band_rank=8&Refer=top)<br />
+8. [王鹤棣 道明寺](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E9%81%93%E6%98%8E%E5%AF%BA&t=31&band_rank=8&Refer=top)<br />
 9. [南部战区就美舰侵闯西沙领海发表谈话](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E5%B0%B1%E7%BE%8E%E8%88%B0%E4%BE%B5%E9%97%AF%E8%A5%BF%E6%B2%99%E9%A2%86%E6%B5%B7%E5%8F%91%E8%A1%A8%E8%B0%88%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
