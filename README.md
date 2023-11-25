@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 09:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 09:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Doinb Ning](https://s.weibo.com/weibo?q=Doinb%20Ning&t=31&band_rank=6&Refer=top)<br />
 7. [吴亦凡要先在中国坐完牢再被驱逐出境](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A6%81%E5%85%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%9D%90%E5%AE%8C%E7%89%A2%E5%86%8D%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [369 TES](https://s.weibo.com/weibo?q=369%20TES&t=31&band_rank=8&Refer=top)<br />
-9. [姐弟机场复刻1988名场面](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%BC%9F%E6%9C%BA%E5%9C%BA%E5%A4%8D%E5%88%BB1988%E5%90%8D%E5%9C%BA%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
+9. [谢娜林心如没错过任何一个瓜](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%9E%97%E5%BF%83%E5%A6%82%E6%B2%A1%E9%94%99%E8%BF%87%E4%BB%BB%E4%BD%95%E4%B8%80%E4%B8%AA%E7%93%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
