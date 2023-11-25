@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 10:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 10:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国色芳华男二 魏哲鸣](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E7%94%B7%E4%BA%8C%20%E9%AD%8F%E5%93%B2%E9%B8%A3&t=31&band_rank=6&Refer=top)<br />
 7. [网传坠楼研究生课题被导师拿走毕业困难](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%9D%A0%E6%A5%BC%E7%A0%94%E7%A9%B6%E7%94%9F%E8%AF%BE%E9%A2%98%E8%A2%AB%E5%AF%BC%E5%B8%88%E6%8B%BF%E8%B5%B0%E6%AF%95%E4%B8%9A%E5%9B%B0%E9%9A%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [理解王嘉尔 成为王嘉尔](https://s.weibo.com/weibo?q=%E7%90%86%E8%A7%A3%E7%8E%8B%E5%98%89%E5%B0%94%20%E6%88%90%E4%B8%BA%E7%8E%8B%E5%98%89%E5%B0%94&t=31&band_rank=8&Refer=top)<br />
-9. [吴亦凡要先在中国坐完牢再被驱逐出境](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A6%81%E5%85%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%9D%90%E5%AE%8C%E7%89%A2%E5%86%8D%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [吴秀波及其公司涉及委托合同纠纷案件](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A7%80%E6%B3%A2%E5%8F%8A%E5%85%B6%E5%85%AC%E5%8F%B8%E6%B6%89%E5%8F%8A%E5%A7%94%E6%89%98%E5%90%88%E5%90%8C%E7%BA%A0%E7%BA%B7%E6%A1%88%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
