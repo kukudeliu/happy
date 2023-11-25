@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 19:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 19:26:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [新时代中国乡野调查](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E4%B9%A1%E9%87%8E%E8%B0%83%E6%9F%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [王一博 不能](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E4%B8%8D%E8%83%BD&t=31&band_rank=4&Refer=top)<br />
 5. [花花吃饭被弟弟折腾懵了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%90%83%E9%A5%AD%E8%A2%AB%E5%BC%9F%E5%BC%9F%E6%8A%98%E8%85%BE%E6%87%B5%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [南部战区就美舰侵闯西沙领海发表谈话](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E5%B0%B1%E7%BE%8E%E8%88%B0%E4%BE%B5%E9%97%AF%E8%A5%BF%E6%B2%99%E9%A2%86%E6%B5%B7%E5%8F%91%E8%A1%A8%E8%B0%88%E8%AF%9D%23&t=31&band_rank=6&Refer=top)<br />
+6. [虞书欣一个人走红毯](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%B5%B0%E7%BA%A2%E6%AF%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [交警多问一句话救下一条命](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%95%91%E4%B8%8B%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [虞书欣一个人走红毯](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%B5%B0%E7%BA%A2%E6%AF%AF%23&t=31&band_rank=8&Refer=top)<br />
-9. [369 滔博](https://s.weibo.com/weibo?q=369%20%E6%BB%94%E5%8D%9A&t=31&band_rank=9&Refer=top)<br />
+8. [南部战区就美舰侵闯西沙领海发表谈话](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E5%B0%B1%E7%BE%8E%E8%88%B0%E4%BE%B5%E9%97%AF%E8%A5%BF%E6%B2%99%E9%A2%86%E6%B5%B7%E5%8F%91%E8%A1%A8%E8%B0%88%E8%AF%9D%23&t=31&band_rank=8&Refer=top)<br />
+9. [狂飙 第二部](https://s.weibo.com/weibo?q=%E7%8B%82%E9%A3%99%20%E7%AC%AC%E4%BA%8C%E9%83%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
