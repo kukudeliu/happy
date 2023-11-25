@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 19:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 19:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南部战区就美舰侵闯西沙领海发表谈话](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E5%B0%B1%E7%BE%8E%E8%88%B0%E4%BE%B5%E9%97%AF%E8%A5%BF%E6%B2%99%E9%A2%86%E6%B5%B7%E5%8F%91%E8%A1%A8%E8%B0%88%E8%AF%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [交警多问一句话救下一条命](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%95%91%E4%B8%8B%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [狂飙 第二部](https://s.weibo.com/weibo?q=%E7%8B%82%E9%A3%99%20%E7%AC%AC%E4%BA%8C%E9%83%A8&t=31&band_rank=8&Refer=top)<br />
-9. [369 滔搏](https://s.weibo.com/weibo?q=369%20%E6%BB%94%E6%90%8F&t=31&band_rank=9&Refer=top)<br />
+9. [花海 好美的精神状态](https://s.weibo.com/weibo?q=%E8%8A%B1%E6%B5%B7%20%E5%A5%BD%E7%BE%8E%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
