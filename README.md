@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 10:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 10:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [理解王嘉尔 成为王嘉尔](https://s.weibo.com/weibo?q=%E7%90%86%E8%A7%A3%E7%8E%8B%E5%98%89%E5%B0%94%20%E6%88%90%E4%B8%BA%E7%8E%8B%E5%98%89%E5%B0%94&t=31&band_rank=6&Refer=top)<br />
 7. [吴秀波及其公司涉及委托合同纠纷案件](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A7%80%E6%B3%A2%E5%8F%8A%E5%85%B6%E5%85%AC%E5%8F%B8%E6%B6%89%E5%8F%8A%E5%A7%94%E6%89%98%E5%90%88%E5%90%8C%E7%BA%A0%E7%BA%B7%E6%A1%88%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [吴亦凡要先在中国坐完牢再被驱逐出境](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A6%81%E5%85%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%9D%90%E5%AE%8C%E7%89%A2%E5%86%8D%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [蒲罗旺斯](https://s.weibo.com/weibo?q=%E8%92%B2%E7%BD%97%E6%97%BA%E6%96%AF&t=31&band_rank=9&Refer=top)<br />
+9. [369 TES](https://s.weibo.com/weibo?q=369%20TES&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
