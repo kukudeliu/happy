@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 14:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 14:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [2023中国最具幸福感城市揭晓](https://www.baidu.com/s?wd=2023%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%85%B7%E5%B9%B8%E7%A6%8F%E6%84%9F%E5%9F%8E%E5%B8%82%E6%8F%AD%E6%99%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子用土给老婆做戒指网友求量产](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E5%9C%9F%E7%BB%99%E8%80%81%E5%A9%86%E5%81%9A%E6%88%92%E6%8C%87%E7%BD%91%E5%8F%8B%E6%B1%82%E9%87%8F%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小伙轿车3个月遭8次开门杀](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%BD%BF%E8%BD%A63%E4%B8%AA%E6%9C%88%E9%81%AD8%E6%AC%A1%E5%BC%80%E9%97%A8%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [岛内担忧赖清德当选大陆游客不来](https://www.baidu.com/s?wd=%E5%B2%9B%E5%86%85%E6%8B%85%E5%BF%A7%E8%B5%96%E6%B8%85%E5%BE%B7%E5%BD%93%E9%80%89%E5%A4%A7%E9%99%86%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [听到免签政策法国外长笑了](https://www.baidu.com/s?wd=%E5%90%AC%E5%88%B0%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%E6%B3%95%E5%9B%BD%E5%A4%96%E9%95%BF%E7%AC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高校辟谣没收学生物品挂闲鱼卖](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%BE%9F%E8%B0%A3%E6%B2%A1%E6%94%B6%E5%AD%A6%E7%94%9F%E7%89%A9%E5%93%81%E6%8C%82%E9%97%B2%E9%B1%BC%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [2023中国最具幸福感城市揭晓](https://www.baidu.com/s?wd=2023%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%85%B7%E5%B9%B8%E7%A6%8F%E6%84%9F%E5%9F%8E%E5%B8%82%E6%8F%AD%E6%99%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子用土给老婆做戒指网友求量产](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E5%9C%9F%E7%BB%99%E8%80%81%E5%A9%86%E5%81%9A%E6%88%92%E6%8C%87%E7%BD%91%E5%8F%8B%E6%B1%82%E9%87%8F%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小伙轿车3个月遭8次开门杀](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%BD%BF%E8%BD%A63%E4%B8%AA%E6%9C%88%E9%81%AD8%E6%AC%A1%E5%BC%80%E9%97%A8%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [岛内担忧赖清德当选大陆游客不来](https://www.baidu.com/s?wd=%E5%B2%9B%E5%86%85%E6%8B%85%E5%BF%A7%E8%B5%96%E6%B8%85%E5%BE%B7%E5%BD%93%E9%80%89%E5%A4%A7%E9%99%86%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [听到免签政策法国外长笑了](https://www.baidu.com/s?wd=%E5%90%AC%E5%88%B0%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%E6%B3%95%E5%9B%BD%E5%A4%96%E9%95%BF%E7%AC%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高校辟谣没收学生物品挂闲鱼卖](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%BE%9F%E8%B0%A3%E6%B2%A1%E6%94%B6%E5%AD%A6%E7%94%9F%E7%89%A9%E5%93%81%E6%8C%82%E9%97%B2%E9%B1%BC%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
