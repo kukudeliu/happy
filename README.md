@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 18:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 18:32:02</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [新时代中国乡野调查](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E4%B9%A1%E9%87%8E%E8%B0%83%E6%9F%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [谢依霖回应老公重症肌无力](https://s.weibo.com/weibo?q=%E8%B0%A2%E4%BE%9D%E9%9C%96%E5%9B%9E%E5%BA%94%E8%80%81%E5%85%AC%E9%87%8D%E7%97%87%E8%82%8C%E6%97%A0%E5%8A%9B&t=31&band_rank=4&Refer=top)<br />
 5. [交警多问一句话救下一条命](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%95%91%E4%B8%8B%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=5&Refer=top)<br />
-6. [田曦薇 看得出她是公主](https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%20%E7%9C%8B%E5%BE%97%E5%87%BA%E5%A5%B9%E6%98%AF%E5%85%AC%E4%B8%BB&t=31&band_rank=6&Refer=top)<br />
+6. [成毅被曾舜晞推到C位](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%A2%AB%E6%9B%BE%E8%88%9C%E6%99%9E%E6%8E%A8%E5%88%B0C%E4%BD%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [民警和被救男子用矿泉水碰杯](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%92%8C%E8%A2%AB%E6%95%91%E7%94%B7%E5%AD%90%E7%94%A8%E7%9F%BF%E6%B3%89%E6%B0%B4%E7%A2%B0%E6%9D%AF%23&t=31&band_rank=7&Refer=top)<br />
-8. [成毅被曾舜晞推到C位](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%A2%AB%E6%9B%BE%E8%88%9C%E6%99%9E%E6%8E%A8%E5%88%B0C%E4%BD%8D%23&t=31&band_rank=8&Refer=top)<br />
+8. [田曦薇 看得出她是公主](https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%20%E7%9C%8B%E5%BE%97%E5%87%BA%E5%A5%B9%E6%98%AF%E5%85%AC%E4%B8%BB&t=31&band_rank=8&Refer=top)<br />
 9. [尖叫之夜红毯BGM 好吵](https://s.weibo.com/weibo?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AFBGM%20%E5%A5%BD%E5%90%B5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
