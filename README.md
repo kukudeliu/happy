@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 20:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 20:32:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [吴佩慈未婚夫被定性为恶势力首脑](https://www.baidu.com/s?wd=%E5%90%B4%E4%BD%A9%E6%85%88%E6%9C%AA%E5%A9%9A%E5%A4%AB%E8%A2%AB%E5%AE%9A%E6%80%A7%E4%B8%BA%E6%81%B6%E5%8A%BF%E5%8A%9B%E9%A6%96%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [社会消费品零售总额连续3个月回升](https://www.baidu.com/s?wd=%E7%A4%BE%E4%BC%9A%E6%B6%88%E8%B4%B9%E5%93%81%E9%9B%B6%E5%94%AE%E6%80%BB%E9%A2%9D%E8%BF%9E%E7%BB%AD3%E4%B8%AA%E6%9C%88%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“娃哈哈”女孩钢琴弹唱震惊郎朗](https://www.baidu.com/s?wd=%E2%80%9C%E5%A8%83%E5%93%88%E5%93%88%E2%80%9D%E5%A5%B3%E5%AD%A9%E9%92%A2%E7%90%B4%E5%BC%B9%E5%94%B1%E9%9C%87%E6%83%8A%E9%83%8E%E6%9C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子酒后放火烧了自家房屋被判刑](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%85%92%E5%90%8E%E6%94%BE%E7%81%AB%E7%83%A7%E4%BA%86%E8%87%AA%E5%AE%B6%E6%88%BF%E5%B1%8B%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [阿里达摩院裁撤量子实验室](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%BE%E6%91%A9%E9%99%A2%E8%A3%81%E6%92%A4%E9%87%8F%E5%AD%90%E5%AE%9E%E9%AA%8C%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [鉴定所被举报伪造亲子鉴定 警方调查](https://www.baidu.com/s?wd=%E9%89%B4%E5%AE%9A%E6%89%80%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BC%AA%E9%80%A0%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A+%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [鉴定所被举报伪造亲子鉴定 警方调查](https://www.baidu.com/s?wd=%E9%89%B4%E5%AE%9A%E6%89%80%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BC%AA%E9%80%A0%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A+%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [岛内担忧赖清德当选大陆游客不来](https://www.baidu.com/s?wd=%E5%B2%9B%E5%86%85%E6%8B%85%E5%BF%A7%E8%B5%96%E6%B8%85%E5%BE%B7%E5%BD%93%E9%80%89%E5%A4%A7%E9%99%86%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [管委会回应成都一楼盘降价40%](https://www.baidu.com/s?wd=%E7%AE%A1%E5%A7%94%E4%BC%9A%E5%9B%9E%E5%BA%94%E6%88%90%E9%83%BD%E4%B8%80%E6%A5%BC%E7%9B%98%E9%99%8D%E4%BB%B740%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [入冬使用加湿器会引发肺炎？](https://www.baidu.com/s?wd=%E5%85%A5%E5%86%AC%E4%BD%BF%E7%94%A8%E5%8A%A0%E6%B9%BF%E5%99%A8%E4%BC%9A%E5%BC%95%E5%8F%91%E8%82%BA%E7%82%8E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [吴佩慈未婚夫被定性为恶势力首脑](https://www.baidu.com/s?wd=%E5%90%B4%E4%BD%A9%E6%85%88%E6%9C%AA%E5%A9%9A%E5%A4%AB%E8%A2%AB%E5%AE%9A%E6%80%A7%E4%B8%BA%E6%81%B6%E5%8A%BF%E5%8A%9B%E9%A6%96%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [社会消费品零售总额连续3个月回升](https://www.baidu.com/s?wd=%E7%A4%BE%E4%BC%9A%E6%B6%88%E8%B4%B9%E5%93%81%E9%9B%B6%E5%94%AE%E6%80%BB%E9%A2%9D%E8%BF%9E%E7%BB%AD3%E4%B8%AA%E6%9C%88%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“娃哈哈”女孩钢琴弹唱震惊郎朗](https://www.baidu.com/s?wd=%E2%80%9C%E5%A8%83%E5%93%88%E5%93%88%E2%80%9D%E5%A5%B3%E5%AD%A9%E9%92%A2%E7%90%B4%E5%BC%B9%E5%94%B1%E9%9C%87%E6%83%8A%E9%83%8E%E6%9C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子酒后放火烧了自家房屋被判刑](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%85%92%E5%90%8E%E6%94%BE%E7%81%AB%E7%83%A7%E4%BA%86%E8%87%AA%E5%AE%B6%E6%88%BF%E5%B1%8B%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [阿里达摩院裁撤量子实验室](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BE%BE%E6%91%A9%E9%99%A2%E8%A3%81%E6%92%A4%E9%87%8F%E5%AD%90%E5%AE%9E%E9%AA%8C%E5%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [鉴定所被举报伪造亲子鉴定 警方调查](https://www.baidu.com/s?wd=%E9%89%B4%E5%AE%9A%E6%89%80%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BC%AA%E9%80%A0%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A+%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [鉴定所被举报伪造亲子鉴定 警方调查](https://www.baidu.com/s?wd=%E9%89%B4%E5%AE%9A%E6%89%80%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BC%AA%E9%80%A0%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A+%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [岛内担忧赖清德当选大陆游客不来](https://www.baidu.com/s?wd=%E5%B2%9B%E5%86%85%E6%8B%85%E5%BF%A7%E8%B5%96%E6%B8%85%E5%BE%B7%E5%BD%93%E9%80%89%E5%A4%A7%E9%99%86%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [管委会回应成都一楼盘降价40%](https://www.baidu.com/s?wd=%E7%AE%A1%E5%A7%94%E4%BC%9A%E5%9B%9E%E5%BA%94%E6%88%90%E9%83%BD%E4%B8%80%E6%A5%BC%E7%9B%98%E9%99%8D%E4%BB%B740%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [入冬使用加湿器会引发肺炎？](https://www.baidu.com/s?wd=%E5%85%A5%E5%86%AC%E4%BD%BF%E7%94%A8%E5%8A%A0%E6%B9%BF%E5%99%A8%E4%BC%9A%E5%BC%95%E5%8F%91%E8%82%BA%E7%82%8E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
