@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 07:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 07:38:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [他们的牺牲我们从未忘记](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E7%9A%84%E7%89%BA%E7%89%B2%E6%88%91%E4%BB%AC%E4%BB%8E%E6%9C%AA%E5%BF%98%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马英九：台湾是台湾省 不是国名](https://www.baidu.com/s?wd=%E9%A9%AC%E8%8B%B1%E4%B9%9D%EF%BC%9A%E5%8F%B0%E6%B9%BE%E6%98%AF%E5%8F%B0%E6%B9%BE%E7%9C%81+%E4%B8%8D%E6%98%AF%E5%9B%BD%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [周迅重现“好多人啊”名场面](https://www.baidu.com/s?wd=%E5%91%A8%E8%BF%85%E9%87%8D%E7%8E%B0%E2%80%9C%E5%A5%BD%E5%A4%9A%E4%BA%BA%E5%95%8A%E2%80%9D%E5%90%8D%E5%9C%BA%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国夫妻在泰国遭多人围殴](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E5%9C%A8%E6%B3%B0%E5%9B%BD%E9%81%AD%E5%A4%9A%E4%BA%BA%E5%9B%B4%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张颂文高叶牵手走红毯](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E9%AB%98%E5%8F%B6%E7%89%B5%E6%89%8B%E8%B5%B0%E7%BA%A2%E6%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [12岁林品彤获金马奖影后](https://www.baidu.com/s?wd=12%E5%B2%81%E6%9E%97%E5%93%81%E5%BD%A4%E8%8E%B7%E9%87%91%E9%A9%AC%E5%A5%96%E5%BD%B1%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国夫妻在泰国遭多人围殴](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E5%9C%A8%E6%B3%B0%E5%9B%BD%E9%81%AD%E5%A4%9A%E4%BA%BA%E5%9B%B4%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [入冬使用加湿器会引发肺炎？](https://www.baidu.com/s?wd=%E5%85%A5%E5%86%AC%E4%BD%BF%E7%94%A8%E5%8A%A0%E6%B9%BF%E5%99%A8%E4%BC%9A%E5%BC%95%E5%8F%91%E8%82%BA%E7%82%8E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [他们的牺牲我们从未忘记](https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E7%9A%84%E7%89%BA%E7%89%B2%E6%88%91%E4%BB%AC%E4%BB%8E%E6%9C%AA%E5%BF%98%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马英九：台湾是台湾省 不是国名](https://www.baidu.com/s?wd=%E9%A9%AC%E8%8B%B1%E4%B9%9D%EF%BC%9A%E5%8F%B0%E6%B9%BE%E6%98%AF%E5%8F%B0%E6%B9%BE%E7%9C%81+%E4%B8%8D%E6%98%AF%E5%9B%BD%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [周迅重现“好多人啊”名场面](https://www.baidu.com/s?wd=%E5%91%A8%E8%BF%85%E9%87%8D%E7%8E%B0%E2%80%9C%E5%A5%BD%E5%A4%9A%E4%BA%BA%E5%95%8A%E2%80%9D%E5%90%8D%E5%9C%BA%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国夫妻在泰国遭多人围殴](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E5%9C%A8%E6%B3%B0%E5%9B%BD%E9%81%AD%E5%A4%9A%E4%BA%BA%E5%9B%B4%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张颂文高叶牵手走红毯](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E9%AB%98%E5%8F%B6%E7%89%B5%E6%89%8B%E8%B5%B0%E7%BA%A2%E6%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [12岁林品彤获金马奖影后](https://www.baidu.com/s?wd=12%E5%B2%81%E6%9E%97%E5%93%81%E5%BD%A4%E8%8E%B7%E9%87%91%E9%A9%AC%E5%A5%96%E5%BD%B1%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国夫妻在泰国遭多人围殴](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E5%9C%A8%E6%B3%B0%E5%9B%BD%E9%81%AD%E5%A4%9A%E4%BA%BA%E5%9B%B4%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [入冬使用加湿器会引发肺炎？](https://www.baidu.com/s?wd=%E5%85%A5%E5%86%AC%E4%BD%BF%E7%94%A8%E5%8A%A0%E6%B9%BF%E5%99%A8%E4%BC%9A%E5%BC%95%E5%8F%91%E8%82%BA%E7%82%8E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
