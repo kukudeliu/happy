@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 15:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 15:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [邓超 怒请100位转发的朋友看](https://s.weibo.com/weibo?q=%E9%82%93%E8%B6%85%20%E6%80%92%E8%AF%B7100%E4%BD%8D%E8%BD%AC%E5%8F%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E7%9C%8B&t=31&band_rank=6&Refer=top)<br />
 7. [成都一楼盘降价40%](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E6%A5%BC%E7%9B%98%E9%99%8D%E4%BB%B740%25%23&t=31&band_rank=7&Refer=top)<br />
 8. [压垮男方的不止彩礼还有房贷和车贷](https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%9E%AE%E7%94%B7%E6%96%B9%E7%9A%84%E4%B8%8D%E6%AD%A2%E5%BD%A9%E7%A4%BC%E8%BF%98%E6%9C%89%E6%88%BF%E8%B4%B7%E5%92%8C%E8%BD%A6%E8%B4%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [鼠头鸭脖涉事高校党政领导去职](https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E9%AB%98%E6%A0%A1%E5%85%9A%E6%94%BF%E9%A2%86%E5%AF%BC%E5%8E%BB%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [最新版中国医院排行](https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E7%89%88%E4%B8%AD%E5%9B%BD%E5%8C%BB%E9%99%A2%E6%8E%92%E8%A1%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
