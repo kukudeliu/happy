@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 08:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-25 08:39:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [急诊医生得知奶奶去世抹掉眼泪接诊](https://s.weibo.com/weibo?q=%23%E6%80%A5%E8%AF%8A%E5%8C%BB%E7%94%9F%E5%BE%97%E7%9F%A5%E5%A5%B6%E5%A5%B6%E5%8E%BB%E4%B8%96%E6%8A%B9%E6%8E%89%E7%9C%BC%E6%B3%AA%E6%8E%A5%E8%AF%8A%23&t=31&band_rank=2&Refer=top)<br />
 3. [第十批志愿军烈士安葬祭文](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%8D%81%E6%89%B9%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E5%AE%89%E8%91%AC%E7%A5%AD%E6%96%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [崔雪莉曾说做韩流偶像最惨](https://s.weibo.com/weibo?q=%23%E5%B4%94%E9%9B%AA%E8%8E%89%E6%9B%BE%E8%AF%B4%E5%81%9A%E9%9F%A9%E6%B5%81%E5%81%B6%E5%83%8F%E6%9C%80%E6%83%A8%23&t=31&band_rank=4&Refer=top)<br />
-5. [忌辛辣就是不吃辣的吗](https://s.weibo.com/weibo?q=%23%E5%BF%8C%E8%BE%9B%E8%BE%A3%E5%B0%B1%E6%98%AF%E4%B8%8D%E5%90%83%E8%BE%A3%E7%9A%84%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
+5. [谢危亲了一晚上嘴皮子都破了吧](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8D%B1%E4%BA%B2%E4%BA%86%E4%B8%80%E6%99%9A%E4%B8%8A%E5%98%B4%E7%9A%AE%E5%AD%90%E9%83%BD%E7%A0%B4%E4%BA%86%E5%90%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [吴亦凡被驱逐出境后十年内不准入境](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83%E5%90%8E%E5%8D%81%E5%B9%B4%E5%86%85%E4%B8%8D%E5%87%86%E5%85%A5%E5%A2%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [律师解读吴亦凡案还有机会改判吗](https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E5%90%B4%E4%BA%A6%E5%87%A1%E6%A1%88%E8%BF%98%E6%9C%89%E6%9C%BA%E4%BC%9A%E6%94%B9%E5%88%A4%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [谢危亲了一晚上嘴皮子都破了吧](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8D%B1%E4%BA%B2%E4%BA%86%E4%B8%80%E6%99%9A%E4%B8%8A%E5%98%B4%E7%9A%AE%E5%AD%90%E9%83%BD%E7%A0%B4%E4%BA%86%E5%90%A7%23&t=31&band_rank=8&Refer=top)<br />
+8. [忌辛辣就是不吃辣的吗](https://s.weibo.com/weibo?q=%23%E5%BF%8C%E8%BE%9B%E8%BE%A3%E5%B0%B1%E6%98%AF%E4%B8%8D%E5%90%83%E8%BE%A3%E7%9A%84%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [Jennie崔秀彬坐一起](https://s.weibo.com/weibo?q=%23Jennie%E5%B4%94%E7%A7%80%E5%BD%AC%E5%9D%90%E4%B8%80%E8%B5%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
