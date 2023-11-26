@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 08:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 08:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白敬亭宋轶你俩不认识吗](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E4%BD%A0%E4%BF%A9%E4%B8%8D%E8%AE%A4%E8%AF%86%E5%90%97&t=31&band_rank=6&Refer=top)<br />
 7. [金马影后林品彤 12岁](https://s.weibo.com/weibo?q=%E9%87%91%E9%A9%AC%E5%BD%B1%E5%90%8E%E6%9E%97%E5%93%81%E5%BD%A4%2012%E5%B2%81&t=31&band_rank=7&Refer=top)<br />
 8. [国考报名人数首破300万](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%E6%8A%A5%E5%90%8D%E4%BA%BA%E6%95%B0%E9%A6%96%E7%A0%B4300%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [国考](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83&t=31&band_rank=9&Refer=top)<br />
+9. [斗鱼陈少杰被捕后多位大主播已停播](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E9%99%88%E5%B0%91%E6%9D%B0%E8%A2%AB%E6%8D%95%E5%90%8E%E5%A4%9A%E4%BD%8D%E5%A4%A7%E4%B8%BB%E6%92%AD%E5%B7%B2%E5%81%9C%E6%92%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
