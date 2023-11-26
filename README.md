@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 13:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 13:39:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [专家回应呼吸道疾病叠加感染](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E5%8F%A0%E5%8A%A0%E6%84%9F%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [失去课间的孩子们在厕所社交](https://www.baidu.com/s?wd=%E5%A4%B1%E5%8E%BB%E8%AF%BE%E9%97%B4%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%9C%A8%E5%8E%95%E6%89%80%E7%A4%BE%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [何赛飞尖叫之夜现场尖叫](https://www.baidu.com/s?wd=%E4%BD%95%E8%B5%9B%E9%A3%9E%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%8E%B0%E5%9C%BA%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [可以坐火车去香格里拉了](https://www.baidu.com/s?wd=%E5%8F%AF%E4%BB%A5%E5%9D%90%E7%81%AB%E8%BD%A6%E5%8E%BB%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杨幂王鹤棣台下扔水瓶](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8F%B0%E4%B8%8B%E6%89%94%E6%B0%B4%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杨幂王鹤棣台下扔水瓶](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8F%B0%E4%B8%8B%E6%89%94%E6%B0%B4%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [可以坐火车去香格里拉了](https://www.baidu.com/s?wd=%E5%8F%AF%E4%BB%A5%E5%9D%90%E7%81%AB%E8%BD%A6%E5%8E%BB%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中疾控辟谣印发糖尿病疫苗通知](https://www.baidu.com/s?wd=%E4%B8%AD%E7%96%BE%E6%8E%A7%E8%BE%9F%E8%B0%A3%E5%8D%B0%E5%8F%91%E7%B3%96%E5%B0%BF%E7%97%85%E7%96%AB%E8%8B%97%E9%80%9A%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [专家回应呼吸道疾病叠加感染](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E5%8F%A0%E5%8A%A0%E6%84%9F%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [失去课间的孩子们在厕所社交](https://www.baidu.com/s?wd=%E5%A4%B1%E5%8E%BB%E8%AF%BE%E9%97%B4%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%9C%A8%E5%8E%95%E6%89%80%E7%A4%BE%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [何赛飞尖叫之夜现场尖叫](https://www.baidu.com/s?wd=%E4%BD%95%E8%B5%9B%E9%A3%9E%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%8E%B0%E5%9C%BA%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [可以坐火车去香格里拉了](https://www.baidu.com/s?wd=%E5%8F%AF%E4%BB%A5%E5%9D%90%E7%81%AB%E8%BD%A6%E5%8E%BB%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杨幂王鹤棣台下扔水瓶](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8F%B0%E4%B8%8B%E6%89%94%E6%B0%B4%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杨幂王鹤棣台下扔水瓶](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8F%B0%E4%B8%8B%E6%89%94%E6%B0%B4%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [可以坐火车去香格里拉了](https://www.baidu.com/s?wd=%E5%8F%AF%E4%BB%A5%E5%9D%90%E7%81%AB%E8%BD%A6%E5%8E%BB%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中疾控辟谣印发糖尿病疫苗通知](https://www.baidu.com/s?wd=%E4%B8%AD%E7%96%BE%E6%8E%A7%E8%BE%9F%E8%B0%A3%E5%8D%B0%E5%8F%91%E7%B3%96%E5%B0%BF%E7%97%85%E7%96%AB%E8%8B%97%E9%80%9A%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
