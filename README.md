@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 06:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 06:39:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [姜雪宁一家三代都喜欢张遮](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E9%9B%AA%E5%AE%81%E4%B8%80%E5%AE%B6%E4%B8%89%E4%BB%A3%E9%83%BD%E5%96%9C%E6%AC%A2%E5%BC%A0%E9%81%AE%23&t=31&band_rank=5&Refer=top)<br />
 6. [浙大男生为救窒息小孩旷课被点名](https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E7%94%B7%E7%94%9F%E4%B8%BA%E6%95%91%E7%AA%92%E6%81%AF%E5%B0%8F%E5%AD%A9%E6%97%B7%E8%AF%BE%E8%A2%AB%E7%82%B9%E5%90%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [美国黑五网购销售额创纪录](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%BB%91%E4%BA%94%E7%BD%91%E8%B4%AD%E9%94%80%E5%94%AE%E9%A2%9D%E5%88%9B%E7%BA%AA%E5%BD%95%23&t=31&band_rank=7&Refer=top)<br />
-8. [直系亲属犯罪是否会影响国考政审](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E7%B3%BB%E4%BA%B2%E5%B1%9E%E7%8A%AF%E7%BD%AA%E6%98%AF%E5%90%A6%E4%BC%9A%E5%BD%B1%E5%93%8D%E5%9B%BD%E8%80%83%E6%94%BF%E5%AE%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [每个人嘎的时候都要骂甄嬛一句](https://s.weibo.com/weibo?q=%E6%AF%8F%E4%B8%AA%E4%BA%BA%E5%98%8E%E7%9A%84%E6%97%B6%E5%80%99%E9%83%BD%E8%A6%81%E9%AA%82%E7%94%84%E5%AC%9B%E4%B8%80%E5%8F%A5&t=31&band_rank=9&Refer=top)<br />
+8. [每个人嘎的时候都要骂甄嬛一句](https://s.weibo.com/weibo?q=%E6%AF%8F%E4%B8%AA%E4%BA%BA%E5%98%8E%E7%9A%84%E6%97%B6%E5%80%99%E9%83%BD%E8%A6%81%E9%AA%82%E7%94%84%E5%AC%9B%E4%B8%80%E5%8F%A5&t=31&band_rank=8&Refer=top)<br />
+9. [直系亲属犯罪是否会影响国考政审](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E7%B3%BB%E4%BA%B2%E5%B1%9E%E7%8A%AF%E7%BD%AA%E6%98%AF%E5%90%A6%E4%BC%9A%E5%BD%B1%E5%93%8D%E5%9B%BD%E8%80%83%E6%94%BF%E5%AE%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
