@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 17:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 17:25:01</h4></div>
 
 > 微博  
 
-1. [国考行测](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E8%A1%8C%E6%B5%8B&t=31&band_rank=1&Refer=top)<br />
-2. [申论](https://s.weibo.com/weibo?q=%E7%94%B3%E8%AE%BA&t=31&band_rank=2&Refer=top)<br />
+1. [申论](https://s.weibo.com/weibo?q=%E7%94%B3%E8%AE%BA&t=31&band_rank=1&Refer=top)<br />
+2. [国考行测](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E8%A1%8C%E6%B5%8B&t=31&band_rank=2&Refer=top)<br />
 3. [不同病原体感染后症状有何不同](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%90%8C%E7%97%85%E5%8E%9F%E4%BD%93%E6%84%9F%E6%9F%93%E5%90%8E%E7%97%87%E7%8A%B6%E6%9C%89%E4%BD%95%E4%B8%8D%E5%90%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [虞书欣也在嗑白敬亭宋轶](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B9%9F%E5%9C%A8%E5%97%91%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [男子总拉肚子查出5处癌](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%80%BB%E6%8B%89%E8%82%9A%E5%AD%90%E6%9F%A5%E5%87%BA5%E5%A4%84%E7%99%8C%23&t=31&band_rank=5&Refer=top)<br />
