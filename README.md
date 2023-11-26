@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 00:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 00:49:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [贵州发生抢亲？当事女子：自愿婚嫁](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E5%8F%91%E7%94%9F%E6%8A%A2%E4%BA%B2%EF%BC%9F%E5%BD%93%E4%BA%8B%E5%A5%B3%E5%AD%90%EF%BC%9A%E8%87%AA%E6%84%BF%E5%A9%9A%E5%AB%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [家长副驾抱娃幼童被甩出车外身亡](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%89%AF%E9%A9%BE%E6%8A%B1%E5%A8%83%E5%B9%BC%E7%AB%A5%E8%A2%AB%E7%94%A9%E5%87%BA%E8%BD%A6%E5%A4%96%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [筷子兄弟合体了](https://www.baidu.com/s?wd=%E7%AD%B7%E5%AD%90%E5%85%84%E5%BC%9F%E5%90%88%E4%BD%93%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本出生人数连续8年创新低](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%87%BA%E7%94%9F%E4%BA%BA%E6%95%B0%E8%BF%9E%E7%BB%AD8%E5%B9%B4%E5%88%9B%E6%96%B0%E4%BD%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [成年发热病人也多起来了](https://www.baidu.com/s?wd=%E6%88%90%E5%B9%B4%E5%8F%91%E7%83%AD%E7%97%85%E4%BA%BA%E4%B9%9F%E5%A4%9A%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [柳州市政府秘书长跳楼？当地辟谣](https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%A5%BC%EF%BC%9F%E5%BD%93%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [贵州发生抢亲？当事女子：自愿婚嫁](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E5%8F%91%E7%94%9F%E6%8A%A2%E4%BA%B2%EF%BC%9F%E5%BD%93%E4%BA%8B%E5%A5%B3%E5%AD%90%EF%BC%9A%E8%87%AA%E6%84%BF%E5%A9%9A%E5%AB%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [家长副驾抱娃幼童被甩出车外身亡](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%89%AF%E9%A9%BE%E6%8A%B1%E5%A8%83%E5%B9%BC%E7%AB%A5%E8%A2%AB%E7%94%A9%E5%87%BA%E8%BD%A6%E5%A4%96%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [筷子兄弟合体了](https://www.baidu.com/s?wd=%E7%AD%B7%E5%AD%90%E5%85%84%E5%BC%9F%E5%90%88%E4%BD%93%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本出生人数连续8年创新低](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%87%BA%E7%94%9F%E4%BA%BA%E6%95%B0%E8%BF%9E%E7%BB%AD8%E5%B9%B4%E5%88%9B%E6%96%B0%E4%BD%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [成年发热病人也多起来了](https://www.baidu.com/s?wd=%E6%88%90%E5%B9%B4%E5%8F%91%E7%83%AD%E7%97%85%E4%BA%BA%E4%B9%9F%E5%A4%9A%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [柳州市政府秘书长跳楼？当地辟谣](https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%A5%BC%EF%BC%9F%E5%BD%93%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
