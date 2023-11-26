@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 21:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 21:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [贵州发生抢亲？当事女子：自愿婚嫁](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E5%8F%91%E7%94%9F%E6%8A%A2%E4%BA%B2%EF%BC%9F%E5%BD%93%E4%BA%8B%E5%A5%B3%E5%AD%90%EF%BC%9A%E8%87%AA%E6%84%BF%E5%A9%9A%E5%AB%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [40岁“渐冻症”网红卓君去世](https://www.baidu.com/s?wd=40%E5%B2%81%E2%80%9C%E6%B8%90%E5%86%BB%E7%97%87%E2%80%9D%E7%BD%91%E7%BA%A2%E5%8D%93%E5%90%9B%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [刘晓庆发文悼念谢晋大女儿](https://www.baidu.com/s?wd=%E5%88%98%E6%99%93%E5%BA%86%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E8%B0%A2%E6%99%8B%E5%A4%A7%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [连撞11车特斯拉车主：当天刚上牌](https://www.baidu.com/s?wd=%E8%BF%9E%E6%92%9E11%E8%BD%A6%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%EF%BC%9A%E5%BD%93%E5%A4%A9%E5%88%9A%E4%B8%8A%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子总拉肚子查出5处癌](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%BB%E6%8B%89%E8%82%9A%E5%AD%90%E6%9F%A5%E5%87%BA5%E5%A4%84%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [柳州市政府秘书长跳楼？当地辟谣](https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%A5%BC%EF%BC%9F%E5%BD%93%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [贵州发生抢亲？当事女子：自愿婚嫁](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E5%8F%91%E7%94%9F%E6%8A%A2%E4%BA%B2%EF%BC%9F%E5%BD%93%E4%BA%8B%E5%A5%B3%E5%AD%90%EF%BC%9A%E8%87%AA%E6%84%BF%E5%A9%9A%E5%AB%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [40岁“渐冻症”网红卓君去世](https://www.baidu.com/s?wd=40%E5%B2%81%E2%80%9C%E6%B8%90%E5%86%BB%E7%97%87%E2%80%9D%E7%BD%91%E7%BA%A2%E5%8D%93%E5%90%9B%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [刘晓庆发文悼念谢晋大女儿](https://www.baidu.com/s?wd=%E5%88%98%E6%99%93%E5%BA%86%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E8%B0%A2%E6%99%8B%E5%A4%A7%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [连撞11车特斯拉车主：当天刚上牌](https://www.baidu.com/s?wd=%E8%BF%9E%E6%92%9E11%E8%BD%A6%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%EF%BC%9A%E5%BD%93%E5%A4%A9%E5%88%9A%E4%B8%8A%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子总拉肚子查出5处癌](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%BB%E6%8B%89%E8%82%9A%E5%AD%90%E6%9F%A5%E5%87%BA5%E5%A4%84%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [柳州市政府秘书长跳楼？当地辟谣](https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%A5%BC%EF%BC%9F%E5%BD%93%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
