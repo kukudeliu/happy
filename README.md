@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 22:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 22:04:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [冬季洗澡尽量控制在5到10分钟](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%AD%A3%E6%B4%97%E6%BE%A1%E5%B0%BD%E9%87%8F%E6%8E%A7%E5%88%B6%E5%9C%A85%E5%88%B010%E5%88%86%E9%92%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [汽车博主马哥离世](https://s.weibo.com/weibo?q=%E6%B1%BD%E8%BD%A6%E5%8D%9A%E4%B8%BB%E9%A9%AC%E5%93%A5%E7%A6%BB%E4%B8%96&t=31&band_rank=7&Refer=top)<br />
 8. [刘亦菲F1阿布扎比大奖赛观赛](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2F1%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E5%A4%A7%E5%A5%96%E8%B5%9B%E8%A7%82%E8%B5%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [马来西亚将对中国游客免签](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%B0%86%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%85%8D%E7%AD%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [多方回应网传贵州抢亲事件不实](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E8%B4%B5%E5%B7%9E%E6%8A%A2%E4%BA%B2%E4%BA%8B%E4%BB%B6%E4%B8%8D%E5%AE%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
