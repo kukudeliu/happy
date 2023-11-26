@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 15:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 15:58:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [失去课间的孩子们在厕所社交](https://www.baidu.com/s?wd=%E5%A4%B1%E5%8E%BB%E8%AF%BE%E9%97%B4%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%9C%A8%E5%8E%95%E6%89%80%E7%A4%BE%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [专家回应呼吸道疾病叠加感染](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E5%8F%A0%E5%8A%A0%E6%84%9F%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [伍佰合肥演唱会观众大喊退票](https://www.baidu.com/s?wd=%E4%BC%8D%E4%BD%B0%E5%90%88%E8%82%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A7%82%E4%BC%97%E5%A4%A7%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [侯友宜：我就是反“台独”](https://www.baidu.com/s?wd=%E4%BE%AF%E5%8F%8B%E5%AE%9C%EF%BC%9A%E6%88%91%E5%B0%B1%E6%98%AF%E5%8F%8D%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [成都警方通报特斯拉连撞11车事故](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%89%B9%E6%96%AF%E6%8B%89%E8%BF%9E%E6%92%9E11%E8%BD%A6%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [诊所中药包内含针头 卫健局回应](https://www.baidu.com/s?wd=%E8%AF%8A%E6%89%80%E4%B8%AD%E8%8D%AF%E5%8C%85%E5%86%85%E5%90%AB%E9%92%88%E5%A4%B4+%E5%8D%AB%E5%81%A5%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [成都警方通报特斯拉连撞11车事故](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%89%B9%E6%96%AF%E6%8B%89%E8%BF%9E%E6%92%9E11%E8%BD%A6%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [余光中妻子范我存离世](https://www.baidu.com/s?wd=%E4%BD%99%E5%85%89%E4%B8%AD%E5%A6%BB%E5%AD%90%E8%8C%83%E6%88%91%E5%AD%98%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [侯友宜：我就是反“台独”](https://www.baidu.com/s?wd=%E4%BE%AF%E5%8F%8B%E5%AE%9C%EF%BC%9A%E6%88%91%E5%B0%B1%E6%98%AF%E5%8F%8D%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中疾控辟谣印发糖尿病疫苗通知](https://www.baidu.com/s?wd=%E4%B8%AD%E7%96%BE%E6%8E%A7%E8%BE%9F%E8%B0%A3%E5%8D%B0%E5%8F%91%E7%B3%96%E5%B0%BF%E7%97%85%E7%96%AB%E8%8B%97%E9%80%9A%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [失去课间的孩子们在厕所社交](https://www.baidu.com/s?wd=%E5%A4%B1%E5%8E%BB%E8%AF%BE%E9%97%B4%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%9C%A8%E5%8E%95%E6%89%80%E7%A4%BE%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [专家回应呼吸道疾病叠加感染](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E5%8F%A0%E5%8A%A0%E6%84%9F%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [伍佰合肥演唱会观众大喊退票](https://www.baidu.com/s?wd=%E4%BC%8D%E4%BD%B0%E5%90%88%E8%82%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A7%82%E4%BC%97%E5%A4%A7%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [侯友宜：我就是反“台独”](https://www.baidu.com/s?wd=%E4%BE%AF%E5%8F%8B%E5%AE%9C%EF%BC%9A%E6%88%91%E5%B0%B1%E6%98%AF%E5%8F%8D%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [成都警方通报特斯拉连撞11车事故](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%89%B9%E6%96%AF%E6%8B%89%E8%BF%9E%E6%92%9E11%E8%BD%A6%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [诊所中药包内含针头 卫健局回应](https://www.baidu.com/s?wd=%E8%AF%8A%E6%89%80%E4%B8%AD%E8%8D%AF%E5%8C%85%E5%86%85%E5%90%AB%E9%92%88%E5%A4%B4+%E5%8D%AB%E5%81%A5%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [成都警方通报特斯拉连撞11车事故](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%89%B9%E6%96%AF%E6%8B%89%E8%BF%9E%E6%92%9E11%E8%BD%A6%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [余光中妻子范我存离世](https://www.baidu.com/s?wd=%E4%BD%99%E5%85%89%E4%B8%AD%E5%A6%BB%E5%AD%90%E8%8C%83%E6%88%91%E5%AD%98%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [侯友宜：我就是反“台独”](https://www.baidu.com/s?wd=%E4%BE%AF%E5%8F%8B%E5%AE%9C%EF%BC%9A%E6%88%91%E5%B0%B1%E6%98%AF%E5%8F%8D%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中疾控辟谣印发糖尿病疫苗通知](https://www.baidu.com/s?wd=%E4%B8%AD%E7%96%BE%E6%8E%A7%E8%BE%9F%E8%B0%A3%E5%8D%B0%E5%8F%91%E7%B3%96%E5%B0%BF%E7%97%85%E7%96%AB%E8%8B%97%E9%80%9A%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
