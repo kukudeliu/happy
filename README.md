@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 10:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 10:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白敬亭扶宋轶](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E6%89%B6%E5%AE%8B%E8%BD%B6&t=31&band_rank=6&Refer=top)<br />
 7. [网红直播村村民一年收租300万](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E6%9D%91%E6%9D%91%E6%B0%91%E4%B8%80%E5%B9%B4%E6%94%B6%E7%A7%9F300%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [张凌赫一下子贡献了不少搞笑的梗](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%B8%80%E4%B8%8B%E5%AD%90%E8%B4%A1%E7%8C%AE%E4%BA%86%E4%B8%8D%E5%B0%91%E6%90%9E%E7%AC%91%E7%9A%84%E6%A2%97&t=31&band_rank=8&Refer=top)<br />
-9. [何赛飞 现场发疯版尖叫之夜](https://s.weibo.com/weibo?q=%E4%BD%95%E8%B5%9B%E9%A3%9E%20%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%96%AF%E7%89%88%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C&t=31&band_rank=9&Refer=top)<br />
+9. [停止焦虑的办法是停止刷手机](https://s.weibo.com/weibo?q=%E5%81%9C%E6%AD%A2%E7%84%A6%E8%99%91%E7%9A%84%E5%8A%9E%E6%B3%95%E6%98%AF%E5%81%9C%E6%AD%A2%E5%88%B7%E6%89%8B%E6%9C%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
