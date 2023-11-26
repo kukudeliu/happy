@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 11:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 11:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白敬亭扶宋轶](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%89%B6%E5%AE%8B%E8%BD%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [网红直播村村民一年收租300万](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E6%9D%91%E6%9D%91%E6%B0%91%E4%B8%80%E5%B9%B4%E6%94%B6%E7%A7%9F300%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [多次被要求提供不同材料女子发火](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%AC%A1%E8%A2%AB%E8%A6%81%E6%B1%82%E6%8F%90%E4%BE%9B%E4%B8%8D%E5%90%8C%E6%9D%90%E6%96%99%E5%A5%B3%E5%AD%90%E5%8F%91%E7%81%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [易烊千玺4%vol的河](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA4%25vol%E7%9A%84%E6%B2%B3&t=31&band_rank=9&Refer=top)<br />
+9. [一批头部游戏主播被曝参与赌博洗钱](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%89%B9%E5%A4%B4%E9%83%A8%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%92%AD%E8%A2%AB%E6%9B%9D%E5%8F%82%E4%B8%8E%E8%B5%8C%E5%8D%9A%E6%B4%97%E9%92%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
