@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 11:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 11:30:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [斗鱼陈少杰被捕后多位大主播停播](https://www.baidu.com/s?wd=%E6%96%97%E9%B1%BC%E9%99%88%E5%B0%91%E6%9D%B0%E8%A2%AB%E6%8D%95%E5%90%8E%E5%A4%9A%E4%BD%8D%E5%A4%A7%E4%B8%BB%E6%92%AD%E5%81%9C%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [无人机袭击以色列商船](https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%E5%95%86%E8%88%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东北是捅了雪窝了](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E6%98%AF%E6%8D%85%E4%BA%86%E9%9B%AA%E7%AA%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [92号汽油“7元时代”来临](https://www.baidu.com/s?wd=92%E5%8F%B7%E6%B1%BD%E6%B2%B9%E2%80%9C7%E5%85%83%E6%97%B6%E4%BB%A3%E2%80%9D%E6%9D%A5%E4%B8%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [何赛飞尖叫之夜现场尖叫](https://www.baidu.com/s?wd=%E4%BD%95%E8%B5%9B%E9%A3%9E%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%8E%B0%E5%9C%BA%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [入冬使用加湿器会引发肺炎？](https://www.baidu.com/s?wd=%E5%85%A5%E5%86%AC%E4%BD%BF%E7%94%A8%E5%8A%A0%E6%B9%BF%E5%99%A8%E4%BC%9A%E5%BC%95%E5%8F%91%E8%82%BA%E7%82%8E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [斗鱼陈少杰被捕后多位大主播停播](https://www.baidu.com/s?wd=%E6%96%97%E9%B1%BC%E9%99%88%E5%B0%91%E6%9D%B0%E8%A2%AB%E6%8D%95%E5%90%8E%E5%A4%9A%E4%BD%8D%E5%A4%A7%E4%B8%BB%E6%92%AD%E5%81%9C%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [无人机袭击以色列商船](https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%E5%95%86%E8%88%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东北是捅了雪窝了](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E6%98%AF%E6%8D%85%E4%BA%86%E9%9B%AA%E7%AA%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [92号汽油“7元时代”来临](https://www.baidu.com/s?wd=92%E5%8F%B7%E6%B1%BD%E6%B2%B9%E2%80%9C7%E5%85%83%E6%97%B6%E4%BB%A3%E2%80%9D%E6%9D%A5%E4%B8%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [何赛飞尖叫之夜现场尖叫](https://www.baidu.com/s?wd=%E4%BD%95%E8%B5%9B%E9%A3%9E%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%8E%B0%E5%9C%BA%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [入冬使用加湿器会引发肺炎？](https://www.baidu.com/s?wd=%E5%85%A5%E5%86%AC%E4%BD%BF%E7%94%A8%E5%8A%A0%E6%B9%BF%E5%99%A8%E4%BC%9A%E5%BC%95%E5%8F%91%E8%82%BA%E7%82%8E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
