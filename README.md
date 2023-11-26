@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 13:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 13:34:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [东北是捅了雪窝了](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E6%98%AF%E6%8D%85%E4%BA%86%E9%9B%AA%E7%AA%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [专家回应呼吸道疾病叠加感染](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E5%8F%A0%E5%8A%A0%E6%84%9F%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [失去课间的孩子们在厕所社交](https://www.baidu.com/s?wd=%E5%A4%B1%E5%8E%BB%E8%AF%BE%E9%97%B4%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%9C%A8%E5%8E%95%E6%89%80%E7%A4%BE%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [一家四口一氧化碳中毒母女遇难](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92%E6%AF%8D%E5%A5%B3%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [可以坐火车去香格里拉了](https://www.baidu.com/s?wd=%E5%8F%AF%E4%BB%A5%E5%9D%90%E7%81%AB%E8%BD%A6%E5%8E%BB%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国赠日本朱鹮死亡 曾受雷声惊吓](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B5%A0%E6%97%A5%E6%9C%AC%E6%9C%B1%E9%B9%AE%E6%AD%BB%E4%BA%A1+%E6%9B%BE%E5%8F%97%E9%9B%B7%E5%A3%B0%E6%83%8A%E5%90%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [何赛飞尖叫之夜现场尖叫](https://www.baidu.com/s?wd=%E4%BD%95%E8%B5%9B%E9%A3%9E%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%8E%B0%E5%9C%BA%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [一家四口一氧化碳中毒母女遇难](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92%E6%AF%8D%E5%A5%B3%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [可以坐火车去香格里拉了](https://www.baidu.com/s?wd=%E5%8F%AF%E4%BB%A5%E5%9D%90%E7%81%AB%E8%BD%A6%E5%8E%BB%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中疾控辟谣印发糖尿病疫苗通知](https://www.baidu.com/s?wd=%E4%B8%AD%E7%96%BE%E6%8E%A7%E8%BE%9F%E8%B0%A3%E5%8D%B0%E5%8F%91%E7%B3%96%E5%B0%BF%E7%97%85%E7%96%AB%E8%8B%97%E9%80%9A%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [东北是捅了雪窝了](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E6%98%AF%E6%8D%85%E4%BA%86%E9%9B%AA%E7%AA%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [专家回应呼吸道疾病叠加感染](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E5%8F%A0%E5%8A%A0%E6%84%9F%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [失去课间的孩子们在厕所社交](https://www.baidu.com/s?wd=%E5%A4%B1%E5%8E%BB%E8%AF%BE%E9%97%B4%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%9C%A8%E5%8E%95%E6%89%80%E7%A4%BE%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [一家四口一氧化碳中毒母女遇难](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92%E6%AF%8D%E5%A5%B3%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [可以坐火车去香格里拉了](https://www.baidu.com/s?wd=%E5%8F%AF%E4%BB%A5%E5%9D%90%E7%81%AB%E8%BD%A6%E5%8E%BB%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国赠日本朱鹮死亡 曾受雷声惊吓](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B5%A0%E6%97%A5%E6%9C%AC%E6%9C%B1%E9%B9%AE%E6%AD%BB%E4%BA%A1+%E6%9B%BE%E5%8F%97%E9%9B%B7%E5%A3%B0%E6%83%8A%E5%90%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [何赛飞尖叫之夜现场尖叫](https://www.baidu.com/s?wd=%E4%BD%95%E8%B5%9B%E9%A3%9E%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%8E%B0%E5%9C%BA%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [一家四口一氧化碳中毒母女遇难](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92%E6%AF%8D%E5%A5%B3%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [可以坐火车去香格里拉了](https://www.baidu.com/s?wd=%E5%8F%AF%E4%BB%A5%E5%9D%90%E7%81%AB%E8%BD%A6%E5%8E%BB%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中疾控辟谣印发糖尿病疫苗通知](https://www.baidu.com/s?wd=%E4%B8%AD%E7%96%BE%E6%8E%A7%E8%BE%9F%E8%B0%A3%E5%8D%B0%E5%8F%91%E7%B3%96%E5%B0%BF%E7%97%85%E7%96%AB%E8%8B%97%E9%80%9A%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
