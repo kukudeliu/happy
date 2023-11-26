@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 22:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 22:24:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [在数贸会过“未来”的一天](https://www.baidu.com/s?wd=%E5%9C%A8%E6%95%B0%E8%B4%B8%E4%BC%9A%E8%BF%87%E2%80%9C%E6%9C%AA%E6%9D%A5%E2%80%9D%E7%9A%84%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [贵州发生抢亲？当事女子：自愿婚嫁](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E5%8F%91%E7%94%9F%E6%8A%A2%E4%BA%B2%EF%BC%9F%E5%BD%93%E4%BA%8B%E5%A5%B3%E5%AD%90%EF%BC%9A%E8%87%AA%E6%84%BF%E5%A9%9A%E5%AB%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [40岁“渐冻症”网红卓君去世](https://www.baidu.com/s?wd=40%E5%B2%81%E2%80%9C%E6%B8%90%E5%86%BB%E7%97%87%E2%80%9D%E7%BD%91%E7%BA%A2%E5%8D%93%E5%90%9B%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [泰国客机高空喷火 空姐为乘客扇风](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%AE%A2%E6%9C%BA%E9%AB%98%E7%A9%BA%E5%96%B7%E7%81%AB+%E7%A9%BA%E5%A7%90%E4%B8%BA%E4%B9%98%E5%AE%A2%E6%89%87%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本出生人数连续8年创新低](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%87%BA%E7%94%9F%E4%BA%BA%E6%95%B0%E8%BF%9E%E7%BB%AD8%E5%B9%B4%E5%88%9B%E6%96%B0%E4%BD%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日本出生人数连续8年创新低](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%87%BA%E7%94%9F%E4%BA%BA%E6%95%B0%E8%BF%9E%E7%BB%AD8%E5%B9%B4%E5%88%9B%E6%96%B0%E4%BD%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [泰国客机高空喷火 空姐为乘客扇风](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%AE%A2%E6%9C%BA%E9%AB%98%E7%A9%BA%E5%96%B7%E7%81%AB+%E7%A9%BA%E5%A7%90%E4%B8%BA%E4%B9%98%E5%AE%A2%E6%89%87%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [柳州市政府秘书长跳楼？当地辟谣](https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%A5%BC%EF%BC%9F%E5%BD%93%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [在数贸会过“未来”的一天](https://www.baidu.com/s?wd=%E5%9C%A8%E6%95%B0%E8%B4%B8%E4%BC%9A%E8%BF%87%E2%80%9C%E6%9C%AA%E6%9D%A5%E2%80%9D%E7%9A%84%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [贵州发生抢亲？当事女子：自愿婚嫁](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E5%8F%91%E7%94%9F%E6%8A%A2%E4%BA%B2%EF%BC%9F%E5%BD%93%E4%BA%8B%E5%A5%B3%E5%AD%90%EF%BC%9A%E8%87%AA%E6%84%BF%E5%A9%9A%E5%AB%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [40岁“渐冻症”网红卓君去世](https://www.baidu.com/s?wd=40%E5%B2%81%E2%80%9C%E6%B8%90%E5%86%BB%E7%97%87%E2%80%9D%E7%BD%91%E7%BA%A2%E5%8D%93%E5%90%9B%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [泰国客机高空喷火 空姐为乘客扇风](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%AE%A2%E6%9C%BA%E9%AB%98%E7%A9%BA%E5%96%B7%E7%81%AB+%E7%A9%BA%E5%A7%90%E4%B8%BA%E4%B9%98%E5%AE%A2%E6%89%87%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本出生人数连续8年创新低](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%87%BA%E7%94%9F%E4%BA%BA%E6%95%B0%E8%BF%9E%E7%BB%AD8%E5%B9%B4%E5%88%9B%E6%96%B0%E4%BD%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日本出生人数连续8年创新低](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%87%BA%E7%94%9F%E4%BA%BA%E6%95%B0%E8%BF%9E%E7%BB%AD8%E5%B9%B4%E5%88%9B%E6%96%B0%E4%BD%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [泰国客机高空喷火 空姐为乘客扇风](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%AE%A2%E6%9C%BA%E9%AB%98%E7%A9%BA%E5%96%B7%E7%81%AB+%E7%A9%BA%E5%A7%90%E4%B8%BA%E4%B9%98%E5%AE%A2%E6%89%87%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [柳州市政府秘书长跳楼？当地辟谣](https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%A5%BC%EF%BC%9F%E5%BD%93%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
