@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 11:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 11:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白鹿 轻舟已过万重山](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E8%BD%BB%E8%88%9F%E5%B7%B2%E8%BF%87%E4%B8%87%E9%87%8D%E5%B1%B1&t=31&band_rank=6&Refer=top)<br />
 7. [国考笔试今日开考](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%E7%AC%94%E8%AF%95%E4%BB%8A%E6%97%A5%E5%BC%80%E8%80%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [白敬亭扶宋轶](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%89%B6%E5%AE%8B%E8%BD%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [爱奇艺就不能放点果盘瓜子吗](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%B1%E4%B8%8D%E8%83%BD%E6%94%BE%E7%82%B9%E6%9E%9C%E7%9B%98%E7%93%9C%E5%AD%90%E5%90%97&t=31&band_rank=9&Refer=top)<br />
+9. [旭旭宝宝](https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
