@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 04:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 04:20:01</h4></div>
 
 > 微博  
 
 1. [洗筷子不要来回搓](https://s.weibo.com/weibo?q=%23%E6%B4%97%E7%AD%B7%E5%AD%90%E4%B8%8D%E8%A6%81%E6%9D%A5%E5%9B%9E%E6%90%93%23&t=31&band_rank=1&Refer=top)<br />
-2. [直系亲属犯罪是否会影响国考政审](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E7%B3%BB%E4%BA%B2%E5%B1%9E%E7%8A%AF%E7%BD%AA%E6%98%AF%E5%90%A6%E4%BC%9A%E5%BD%B1%E5%93%8D%E5%9B%BD%E8%80%83%E6%94%BF%E5%AE%A1%23&t=31&band_rank=2&Refer=top)<br />
+2. [连撞11车特斯拉车主发声](https://s.weibo.com/weibo?q=%23%E8%BF%9E%E6%92%9E11%E8%BD%A6%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=2&Refer=top)<br />
 3. [微观链博会](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E8%A7%82%E9%93%BE%E5%8D%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [连撞11车特斯拉车主发声](https://s.weibo.com/weibo?q=%23%E8%BF%9E%E6%92%9E11%E8%BD%A6%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
+4. [直系亲属犯罪是否会影响国考政审](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E7%B3%BB%E4%BA%B2%E5%B1%9E%E7%8A%AF%E7%BD%AA%E6%98%AF%E5%90%A6%E4%BC%9A%E5%BD%B1%E5%93%8D%E5%9B%BD%E8%80%83%E6%94%BF%E5%AE%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [小杨哥演唱会 Twins](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%20Twins&t=31&band_rank=5&Refer=top)<br />
 6. [浙大男生为救窒息小孩旷课被点名](https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E7%94%B7%E7%94%9F%E4%B8%BA%E6%95%91%E7%AA%92%E6%81%AF%E5%B0%8F%E5%AD%A9%E6%97%B7%E8%AF%BE%E8%A2%AB%E7%82%B9%E5%90%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [俄3名特工在乌克兰吃外卖中毒身亡](https://s.weibo.com/weibo?q=%23%E4%BF%843%E5%90%8D%E7%89%B9%E5%B7%A5%E5%9C%A8%E4%B9%8C%E5%85%8B%E5%85%B0%E5%90%83%E5%A4%96%E5%8D%96%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
