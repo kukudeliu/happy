@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 20:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 20:39:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [东北经历11月来第五轮大范围雨雪](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E7%BB%8F%E5%8E%8611%E6%9C%88%E6%9D%A5%E7%AC%AC%E4%BA%94%E8%BD%AE%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地全力推进冬修水利](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E5%85%A8%E5%8A%9B%E6%8E%A8%E8%BF%9B%E5%86%AC%E4%BF%AE%E6%B0%B4%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马来西亚12月起对中国游客免签](https://www.baidu.com/s?wd=%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A12%E6%9C%88%E8%B5%B7%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%85%8D%E7%AD%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [全球股市或创三年来最大单月涨幅](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E6%88%96%E5%88%9B%E4%B8%89%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%9C%88%E6%B6%A8%E5%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [连撞11车特斯拉车主：当天刚上牌](https://www.baidu.com/s?wd=%E8%BF%9E%E6%92%9E11%E8%BD%A6%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%EF%BC%9A%E5%BD%93%E5%A4%A9%E5%88%9A%E4%B8%8A%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子总拉肚子查出5处癌](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%BB%E6%8B%89%E8%82%9A%E5%AD%90%E6%9F%A5%E5%87%BA5%E5%A4%84%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [连撞11车特斯拉车主：当天刚上牌](https://www.baidu.com/s?wd=%E8%BF%9E%E6%92%9E11%E8%BD%A6%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%EF%BC%9A%E5%BD%93%E5%A4%A9%E5%88%9A%E4%B8%8A%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子总拉肚子查出5处癌](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%BB%E6%8B%89%E8%82%9A%E5%AD%90%E6%9F%A5%E5%87%BA5%E5%A4%84%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [葛优打葛优躺官司 已发起650余起](https://www.baidu.com/s?wd=%E8%91%9B%E4%BC%98%E6%89%93%E8%91%9B%E4%BC%98%E8%BA%BA%E5%AE%98%E5%8F%B8+%E5%B7%B2%E5%8F%91%E8%B5%B7650%E4%BD%99%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [柳州市政府秘书长跳楼？当地辟谣](https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%A5%BC%EF%BC%9F%E5%BD%93%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [东北经历11月来第五轮大范围雨雪](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E7%BB%8F%E5%8E%8611%E6%9C%88%E6%9D%A5%E7%AC%AC%E4%BA%94%E8%BD%AE%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地全力推进冬修水利](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E5%85%A8%E5%8A%9B%E6%8E%A8%E8%BF%9B%E5%86%AC%E4%BF%AE%E6%B0%B4%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马来西亚12月起对中国游客免签](https://www.baidu.com/s?wd=%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A12%E6%9C%88%E8%B5%B7%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%85%8D%E7%AD%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [全球股市或创三年来最大单月涨幅](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E6%88%96%E5%88%9B%E4%B8%89%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%9C%88%E6%B6%A8%E5%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [连撞11车特斯拉车主：当天刚上牌](https://www.baidu.com/s?wd=%E8%BF%9E%E6%92%9E11%E8%BD%A6%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%EF%BC%9A%E5%BD%93%E5%A4%A9%E5%88%9A%E4%B8%8A%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子总拉肚子查出5处癌](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%BB%E6%8B%89%E8%82%9A%E5%AD%90%E6%9F%A5%E5%87%BA5%E5%A4%84%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [连撞11车特斯拉车主：当天刚上牌](https://www.baidu.com/s?wd=%E8%BF%9E%E6%92%9E11%E8%BD%A6%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%EF%BC%9A%E5%BD%93%E5%A4%A9%E5%88%9A%E4%B8%8A%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子总拉肚子查出5处癌](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%BB%E6%8B%89%E8%82%9A%E5%AD%90%E6%9F%A5%E5%87%BA5%E5%A4%84%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [葛优打葛优躺官司 已发起650余起](https://www.baidu.com/s?wd=%E8%91%9B%E4%BC%98%E6%89%93%E8%91%9B%E4%BC%98%E8%BA%BA%E5%AE%98%E5%8F%B8+%E5%B7%B2%E5%8F%91%E8%B5%B7650%E4%BD%99%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [柳州市政府秘书长跳楼？当地辟谣](https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%A5%BC%EF%BC%9F%E5%BD%93%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
