@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 22:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 22:32:02</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [近期呼吸道疾病防治注意事项](https://s.weibo.com/weibo?q=%23%E8%BF%91%E6%9C%9F%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E9%98%B2%E6%B2%BB%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [筷子兄弟合体了](https://s.weibo.com/weibo?q=%23%E7%AD%B7%E5%AD%90%E5%85%84%E5%BC%9F%E5%90%88%E4%BD%93%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [浙大男生为救窒息小孩旷课被点名](https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E7%94%B7%E7%94%9F%E4%B8%BA%E6%95%91%E7%AA%92%E6%81%AF%E5%B0%8F%E5%AD%A9%E6%97%B7%E8%AF%BE%E8%A2%AB%E7%82%B9%E5%90%8D%23&t=31&band_rank=5&Refer=top)<br />
-6. [韩国男星的红毯造型](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E6%98%9F%E7%9A%84%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [射手座是不会有归属感的](https://s.weibo.com/weibo?q=%23%E5%B0%84%E6%89%8B%E5%BA%A7%E6%98%AF%E4%B8%8D%E4%BC%9A%E6%9C%89%E5%BD%92%E5%B1%9E%E6%84%9F%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘亦菲F1阿布扎比大奖赛观赛](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2F1%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E5%A4%A7%E5%A5%96%E8%B5%9B%E8%A7%82%E8%B5%9B%23&t=31&band_rank=8&Refer=top)<br />
+6. [刘亦菲F1阿布扎比大奖赛观赛](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2F1%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E5%A4%A7%E5%A5%96%E8%B5%9B%E8%A7%82%E8%B5%9B%23&t=31&band_rank=6&Refer=top)<br />
+7. [韩国男星的红毯造型](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E6%98%9F%E7%9A%84%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [射手座是不会有归属感的](https://s.weibo.com/weibo?q=%23%E5%B0%84%E6%89%8B%E5%BA%A7%E6%98%AF%E4%B8%8D%E4%BC%9A%E6%9C%89%E5%BD%92%E5%B1%9E%E6%84%9F%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
 9. [多方回应网传贵州抢亲事件不实](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E8%B4%B5%E5%B7%9E%E6%8A%A2%E4%BA%B2%E4%BA%8B%E4%BB%B6%E4%B8%8D%E5%AE%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
