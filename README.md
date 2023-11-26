@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 11:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 11:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白敬亭扶宋轶](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%89%B6%E5%AE%8B%E8%BD%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [秦岚领奖魏大勋怕被切镜头提前离场](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E9%A2%86%E5%A5%96%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%80%95%E8%A2%AB%E5%88%87%E9%95%9C%E5%A4%B4%E6%8F%90%E5%89%8D%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [伍佰合肥演唱会被曝观众大喊退票](https://s.weibo.com/weibo?q=%23%E4%BC%8D%E4%BD%B0%E5%90%88%E8%82%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%9B%9D%E8%A7%82%E4%BC%97%E5%A4%A7%E5%96%8A%E9%80%80%E7%A5%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [爸爸睡觉误碰倒枕头捂住15天大婴儿](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%9D%A1%E8%A7%89%E8%AF%AF%E7%A2%B0%E5%80%92%E6%9E%95%E5%A4%B4%E6%8D%82%E4%BD%8F15%E5%A4%A9%E5%A4%A7%E5%A9%B4%E5%84%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [爱奇艺就不能放点果盘瓜子吗](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%B1%E4%B8%8D%E8%83%BD%E6%94%BE%E7%82%B9%E6%9E%9C%E7%9B%98%E7%93%9C%E5%AD%90%E5%90%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
