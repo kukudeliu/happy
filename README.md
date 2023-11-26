@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 19:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 19:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国考行测](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E8%A1%8C%E6%B5%8B&t=31&band_rank=6&Refer=top)<br />
 7. [国考前四川现七彩祥云](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%E5%89%8D%E5%9B%9B%E5%B7%9D%E7%8E%B0%E4%B8%83%E5%BD%A9%E7%A5%A5%E4%BA%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [韩网评尖叫之夜男明星造型](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E8%AF%84%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%94%B7%E6%98%8E%E6%98%9F%E9%80%A0%E5%9E%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [初一女生每天只睡6个半小时妈妈很焦虑](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%80%E5%A5%B3%E7%94%9F%E6%AF%8F%E5%A4%A9%E5%8F%AA%E7%9D%A16%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%A6%88%E5%A6%88%E5%BE%88%E7%84%A6%E8%99%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [冬季洗澡尽量控制在5到10分钟](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%AD%A3%E6%B4%97%E6%BE%A1%E5%B0%BD%E9%87%8F%E6%8E%A7%E5%88%B6%E5%9C%A85%E5%88%B010%E5%88%86%E9%92%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
