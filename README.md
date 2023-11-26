@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 20:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 20:58:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [马来西亚12月起对中国游客免签](https://www.baidu.com/s?wd=%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A12%E6%9C%88%E8%B5%B7%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%85%8D%E7%AD%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [连撞11车特斯拉车主：当天刚上牌](https://www.baidu.com/s?wd=%E8%BF%9E%E6%92%9E11%E8%BD%A6%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%EF%BC%9A%E5%BD%93%E5%A4%A9%E5%88%9A%E4%B8%8A%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电诈人员连成一串依警还乡](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E4%BA%BA%E5%91%98%E8%BF%9E%E6%88%90%E4%B8%80%E4%B8%B2%E4%BE%9D%E8%AD%A6%E8%BF%98%E4%B9%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新闻女王台词爽爆了](https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E5%8F%B0%E8%AF%8D%E7%88%BD%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [千亩耕地被污染 企业CEO微笑受访](https://www.baidu.com/s?wd=%E5%8D%83%E4%BA%A9%E8%80%95%E5%9C%B0%E8%A2%AB%E6%B1%A1%E6%9F%93+%E4%BC%81%E4%B8%9ACEO%E5%BE%AE%E7%AC%91%E5%8F%97%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [柳州市政府秘书长跳楼？当地辟谣](https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%A5%BC%EF%BC%9F%E5%BD%93%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [马来西亚12月起对中国游客免签](https://www.baidu.com/s?wd=%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A12%E6%9C%88%E8%B5%B7%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%85%8D%E7%AD%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [连撞11车特斯拉车主：当天刚上牌](https://www.baidu.com/s?wd=%E8%BF%9E%E6%92%9E11%E8%BD%A6%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%EF%BC%9A%E5%BD%93%E5%A4%A9%E5%88%9A%E4%B8%8A%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电诈人员连成一串依警还乡](https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E4%BA%BA%E5%91%98%E8%BF%9E%E6%88%90%E4%B8%80%E4%B8%B2%E4%BE%9D%E8%AD%A6%E8%BF%98%E4%B9%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新闻女王台词爽爆了](https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E5%8F%B0%E8%AF%8D%E7%88%BD%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [千亩耕地被污染 企业CEO微笑受访](https://www.baidu.com/s?wd=%E5%8D%83%E4%BA%A9%E8%80%95%E5%9C%B0%E8%A2%AB%E6%B1%A1%E6%9F%93+%E4%BC%81%E4%B8%9ACEO%E5%BE%AE%E7%AC%91%E5%8F%97%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [柳州市政府秘书长跳楼？当地辟谣](https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B7%B3%E6%A5%BC%EF%BC%9F%E5%BD%93%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
