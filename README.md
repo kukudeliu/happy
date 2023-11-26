@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 09:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 09:54:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [斗鱼陈少杰被捕后多位大主播停播](https://www.baidu.com/s?wd=%E6%96%97%E9%B1%BC%E9%99%88%E5%B0%91%E6%9D%B0%E8%A2%AB%E6%8D%95%E5%90%8E%E5%A4%9A%E4%BD%8D%E5%A4%A7%E4%B8%BB%E6%92%AD%E5%81%9C%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子办事大厅发飙：每次都说缺材料](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8A%9E%E4%BA%8B%E5%A4%A7%E5%8E%85%E5%8F%91%E9%A3%99%EF%BC%9A%E6%AF%8F%E6%AC%A1%E9%83%BD%E8%AF%B4%E7%BC%BA%E6%9D%90%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东北是捅了雪窝了](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E6%98%AF%E6%8D%85%E4%BA%86%E9%9B%AA%E7%AA%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [首批救援物资运抵加沙城](https://www.baidu.com/s?wd=%E9%A6%96%E6%89%B9%E6%95%91%E6%8F%B4%E7%89%A9%E8%B5%84%E8%BF%90%E6%8A%B5%E5%8A%A0%E6%B2%99%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [《狂飙》获尖叫之夜“年度剧王”](https://www.baidu.com/s?wd=%E3%80%8A%E7%8B%82%E9%A3%99%E3%80%8B%E8%8E%B7%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E2%80%9C%E5%B9%B4%E5%BA%A6%E5%89%A7%E7%8E%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [入冬使用加湿器会引发肺炎？](https://www.baidu.com/s?wd=%E5%85%A5%E5%86%AC%E4%BD%BF%E7%94%A8%E5%8A%A0%E6%B9%BF%E5%99%A8%E4%BC%9A%E5%BC%95%E5%8F%91%E8%82%BA%E7%82%8E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [斗鱼陈少杰被捕后多位大主播停播](https://www.baidu.com/s?wd=%E6%96%97%E9%B1%BC%E9%99%88%E5%B0%91%E6%9D%B0%E8%A2%AB%E6%8D%95%E5%90%8E%E5%A4%9A%E4%BD%8D%E5%A4%A7%E4%B8%BB%E6%92%AD%E5%81%9C%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子办事大厅发飙：每次都说缺材料](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8A%9E%E4%BA%8B%E5%A4%A7%E5%8E%85%E5%8F%91%E9%A3%99%EF%BC%9A%E6%AF%8F%E6%AC%A1%E9%83%BD%E8%AF%B4%E7%BC%BA%E6%9D%90%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东北是捅了雪窝了](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E6%98%AF%E6%8D%85%E4%BA%86%E9%9B%AA%E7%AA%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [首批救援物资运抵加沙城](https://www.baidu.com/s?wd=%E9%A6%96%E6%89%B9%E6%95%91%E6%8F%B4%E7%89%A9%E8%B5%84%E8%BF%90%E6%8A%B5%E5%8A%A0%E6%B2%99%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [《狂飙》获尖叫之夜“年度剧王”](https://www.baidu.com/s?wd=%E3%80%8A%E7%8B%82%E9%A3%99%E3%80%8B%E8%8E%B7%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E2%80%9C%E5%B9%B4%E5%BA%A6%E5%89%A7%E7%8E%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [入冬使用加湿器会引发肺炎？](https://www.baidu.com/s?wd=%E5%85%A5%E5%86%AC%E4%BD%BF%E7%94%A8%E5%8A%A0%E6%B9%BF%E5%99%A8%E4%BC%9A%E5%BC%95%E5%8F%91%E8%82%BA%E7%82%8E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
