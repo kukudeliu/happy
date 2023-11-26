@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 06:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 06:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [姜雪宁一家三代都喜欢张遮](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E9%9B%AA%E5%AE%81%E4%B8%80%E5%AE%B6%E4%B8%89%E4%BB%A3%E9%83%BD%E5%96%9C%E6%AC%A2%E5%BC%A0%E9%81%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [每个人嘎的时候都要骂甄嬛一句](https://s.weibo.com/weibo?q=%E6%AF%8F%E4%B8%AA%E4%BA%BA%E5%98%8E%E7%9A%84%E6%97%B6%E5%80%99%E9%83%BD%E8%A6%81%E9%AA%82%E7%94%84%E5%AC%9B%E4%B8%80%E5%8F%A5&t=31&band_rank=7&Refer=top)<br />
 8. [直系亲属犯罪是否会影响国考政审](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E7%B3%BB%E4%BA%B2%E5%B1%9E%E7%8A%AF%E7%BD%AA%E6%98%AF%E5%90%A6%E4%BC%9A%E5%BD%B1%E5%93%8D%E5%9B%BD%E8%80%83%E6%94%BF%E5%AE%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [美国黑五网购销售额创纪录](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%BB%91%E4%BA%94%E7%BD%91%E8%B4%AD%E9%94%80%E5%94%AE%E9%A2%9D%E5%88%9B%E7%BA%AA%E5%BD%95%23&t=31&band_rank=9&Refer=top)<br />
+9. [俄3名特工在乌克兰吃外卖中毒身亡](https://s.weibo.com/weibo?q=%23%E4%BF%843%E5%90%8D%E7%89%B9%E5%B7%A5%E5%9C%A8%E4%B9%8C%E5%85%8B%E5%85%B0%E5%90%83%E5%A4%96%E5%8D%96%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
