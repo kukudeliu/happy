@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 12:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 12:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [斗鱼陈少杰被捕后多位大主播停播](https://www.baidu.com/s?wd=%E6%96%97%E9%B1%BC%E9%99%88%E5%B0%91%E6%9D%B0%E8%A2%AB%E6%8D%95%E5%90%8E%E5%A4%9A%E4%BD%8D%E5%A4%A7%E4%B8%BB%E6%92%AD%E5%81%9C%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [首批救援物资运抵加沙城](https://www.baidu.com/s?wd=%E9%A6%96%E6%89%B9%E6%95%91%E6%8F%B4%E7%89%A9%E8%B5%84%E8%BF%90%E6%8A%B5%E5%8A%A0%E6%B2%99%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [重庆男子狂奔9小时逃出缅北](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E7%94%B7%E5%AD%90%E7%8B%82%E5%A5%949%E5%B0%8F%E6%97%B6%E9%80%83%E5%87%BA%E7%BC%85%E5%8C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杨幂王鹤棣台下扔水瓶](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8F%B0%E4%B8%8B%E6%89%94%E6%B0%B4%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [意大利埃特纳火山喷发](https://www.baidu.com/s?wd=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%9F%83%E7%89%B9%E7%BA%B3%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中疾控辟谣印发糖尿病疫苗通知](https://www.baidu.com/s?wd=%E4%B8%AD%E7%96%BE%E6%8E%A7%E8%BE%9F%E8%B0%A3%E5%8D%B0%E5%8F%91%E7%B3%96%E5%B0%BF%E7%97%85%E7%96%AB%E8%8B%97%E9%80%9A%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [斗鱼陈少杰被捕后多位大主播停播](https://www.baidu.com/s?wd=%E6%96%97%E9%B1%BC%E9%99%88%E5%B0%91%E6%9D%B0%E8%A2%AB%E6%8D%95%E5%90%8E%E5%A4%9A%E4%BD%8D%E5%A4%A7%E4%B8%BB%E6%92%AD%E5%81%9C%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [首批救援物资运抵加沙城](https://www.baidu.com/s?wd=%E9%A6%96%E6%89%B9%E6%95%91%E6%8F%B4%E7%89%A9%E8%B5%84%E8%BF%90%E6%8A%B5%E5%8A%A0%E6%B2%99%E5%9F%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [重庆男子狂奔9小时逃出缅北](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E7%94%B7%E5%AD%90%E7%8B%82%E5%A5%949%E5%B0%8F%E6%97%B6%E9%80%83%E5%87%BA%E7%BC%85%E5%8C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杨幂王鹤棣台下扔水瓶](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8F%B0%E4%B8%8B%E6%89%94%E6%B0%B4%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [意大利埃特纳火山喷发](https://www.baidu.com/s?wd=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%9F%83%E7%89%B9%E7%BA%B3%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中疾控辟谣印发糖尿病疫苗通知](https://www.baidu.com/s?wd=%E4%B8%AD%E7%96%BE%E6%8E%A7%E8%BE%9F%E8%B0%A3%E5%8D%B0%E5%8F%91%E7%B3%96%E5%B0%BF%E7%97%85%E7%96%AB%E8%8B%97%E9%80%9A%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
