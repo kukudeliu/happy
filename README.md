@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 23:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 23:23:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [冬季洗澡尽量控制在5到10分钟](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%AD%A3%E6%B4%97%E6%BE%A1%E5%B0%BD%E9%87%8F%E6%8E%A7%E5%88%B6%E5%9C%A85%E5%88%B010%E5%88%86%E9%92%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [筷子兄弟合体了](https://s.weibo.com/weibo?q=%23%E7%AD%B7%E5%AD%90%E5%85%84%E5%BC%9F%E5%90%88%E4%BD%93%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [花少 迪丽热巴双商](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%91%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8F%8C%E5%95%86&t=31&band_rank=7&Refer=top)<br />
-8. [刘亦菲F1阿布扎比大奖赛观赛](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2F1%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E5%A4%A7%E5%A5%96%E8%B5%9B%E8%A7%82%E8%B5%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [曾舜晞 怎么你们有饭吃](https://s.weibo.com/weibo?q=%E6%9B%BE%E8%88%9C%E6%99%9E%20%E6%80%8E%E4%B9%88%E4%BD%A0%E4%BB%AC%E6%9C%89%E9%A5%AD%E5%90%83&t=31&band_rank=9&Refer=top)<br />
+8. [小杨哥演唱会 Twins](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%20Twins&t=31&band_rank=8&Refer=top)<br />
+9. [刘亦菲F1阿布扎比大奖赛观赛](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2F1%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E5%A4%A7%E5%A5%96%E8%B5%9B%E8%A7%82%E8%B5%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
