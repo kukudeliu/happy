@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 16:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 16:19:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [伍佰合肥演唱会观众大喊退票](https://www.baidu.com/s?wd=%E4%BC%8D%E4%BD%B0%E5%90%88%E8%82%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A7%82%E4%BC%97%E5%A4%A7%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国“基建狂魔”即将打通天山](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E5%9F%BA%E5%BB%BA%E7%8B%82%E9%AD%94%E2%80%9D%E5%8D%B3%E5%B0%86%E6%89%93%E9%80%9A%E5%A4%A9%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [失去课间的孩子们在厕所社交](https://www.baidu.com/s?wd=%E5%A4%B1%E5%8E%BB%E8%AF%BE%E9%97%B4%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%9C%A8%E5%8E%95%E6%89%80%E7%A4%BE%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [上海交大就食堂饭菜吃出针头致歉](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E5%B0%B1%E9%A3%9F%E5%A0%82%E9%A5%AD%E8%8F%9C%E5%90%83%E5%87%BA%E9%92%88%E5%A4%B4%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [景区回应清洁工往路上抛撒树叶](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E6%B8%85%E6%B4%81%E5%B7%A5%E5%BE%80%E8%B7%AF%E4%B8%8A%E6%8A%9B%E6%92%92%E6%A0%91%E5%8F%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中疾控辟谣印发糖尿病疫苗通知](https://www.baidu.com/s?wd=%E4%B8%AD%E7%96%BE%E6%8E%A7%E8%BE%9F%E8%B0%A3%E5%8D%B0%E5%8F%91%E7%B3%96%E5%B0%BF%E7%97%85%E7%96%AB%E8%8B%97%E9%80%9A%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [伍佰合肥演唱会观众大喊退票](https://www.baidu.com/s?wd=%E4%BC%8D%E4%BD%B0%E5%90%88%E8%82%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A7%82%E4%BC%97%E5%A4%A7%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国“基建狂魔”即将打通天山](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E5%9F%BA%E5%BB%BA%E7%8B%82%E9%AD%94%E2%80%9D%E5%8D%B3%E5%B0%86%E6%89%93%E9%80%9A%E5%A4%A9%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [失去课间的孩子们在厕所社交](https://www.baidu.com/s?wd=%E5%A4%B1%E5%8E%BB%E8%AF%BE%E9%97%B4%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%9C%A8%E5%8E%95%E6%89%80%E7%A4%BE%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [上海交大就食堂饭菜吃出针头致歉](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E5%B0%B1%E9%A3%9F%E5%A0%82%E9%A5%AD%E8%8F%9C%E5%90%83%E5%87%BA%E9%92%88%E5%A4%B4%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [景区回应清洁工往路上抛撒树叶](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E6%B8%85%E6%B4%81%E5%B7%A5%E5%BE%80%E8%B7%AF%E4%B8%8A%E6%8A%9B%E6%92%92%E6%A0%91%E5%8F%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中疾控辟谣印发糖尿病疫苗通知](https://www.baidu.com/s?wd=%E4%B8%AD%E7%96%BE%E6%8E%A7%E8%BE%9F%E8%B0%A3%E5%8D%B0%E5%8F%91%E7%B3%96%E5%B0%BF%E7%97%85%E7%96%AB%E8%8B%97%E9%80%9A%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
