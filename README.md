@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 01:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 01:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [林俊杰希望不要惊动到孙燕姿](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%B8%8C%E6%9C%9B%E4%B8%8D%E8%A6%81%E6%83%8A%E5%8A%A8%E5%88%B0%E5%AD%99%E7%87%95%E5%A7%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [无价之宝在东北有多火](https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BB%B7%E4%B9%8B%E5%AE%9D%E5%9C%A8%E4%B8%9C%E5%8C%97%E6%9C%89%E5%A4%9A%E7%81%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [俄3名特工在乌克兰吃外卖中毒身亡](https://s.weibo.com/weibo?q=%23%E4%BF%843%E5%90%8D%E7%89%B9%E5%B7%A5%E5%9C%A8%E4%B9%8C%E5%85%8B%E5%85%B0%E5%90%83%E5%A4%96%E5%8D%96%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [白桃星座](https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7&t=31&band_rank=9&Refer=top)<br />
+9. [小杨哥演唱会](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
