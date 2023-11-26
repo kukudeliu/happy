@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 03:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 03:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [俄3名特工在乌克兰吃外卖中毒身亡](https://s.weibo.com/weibo?q=%23%E4%BF%843%E5%90%8D%E7%89%B9%E5%B7%A5%E5%9C%A8%E4%B9%8C%E5%85%8B%E5%85%B0%E5%90%83%E5%A4%96%E5%8D%96%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [每个人嘎的时候都要骂甄嬛一句](https://s.weibo.com/weibo?q=%E6%AF%8F%E4%B8%AA%E4%BA%BA%E5%98%8E%E7%9A%84%E6%97%B6%E5%80%99%E9%83%BD%E8%A6%81%E9%AA%82%E7%94%84%E5%AC%9B%E4%B8%80%E5%8F%A5&t=31&band_rank=7&Refer=top)<br />
 8. [马来西亚将对中国游客免签](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%B0%86%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%85%8D%E7%AD%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [小杨哥演唱会](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
+9. [林俊杰希望不要惊动到孙燕姿](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%B8%8C%E6%9C%9B%E4%B8%8D%E8%A6%81%E6%83%8A%E5%8A%A8%E5%88%B0%E5%AD%99%E7%87%95%E5%A7%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
