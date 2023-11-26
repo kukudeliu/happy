@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 18:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 18:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国考行测](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E8%A1%8C%E6%B5%8B&t=31&band_rank=6&Refer=top)<br />
 7. [国考前四川现七彩祥云](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%E5%89%8D%E5%9B%9B%E5%B7%9D%E7%8E%B0%E4%B8%83%E5%BD%A9%E7%A5%A5%E4%BA%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [演唱会下沉到县城之后](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8B%E6%B2%89%E5%88%B0%E5%8E%BF%E5%9F%8E%E4%B9%8B%E5%90%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [申论大作文 材料写完了我写啥](https://s.weibo.com/weibo?q=%E7%94%B3%E8%AE%BA%E5%A4%A7%E4%BD%9C%E6%96%87%20%E6%9D%90%E6%96%99%E5%86%99%E5%AE%8C%E4%BA%86%E6%88%91%E5%86%99%E5%95%A5&t=31&band_rank=9&Refer=top)<br />
+9. [韩网评尖叫之夜男明星造型](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E8%AF%84%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%94%B7%E6%98%8E%E6%98%9F%E9%80%A0%E5%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
