@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 21:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 21:55:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [冬季洗澡尽量控制在5到10分钟](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%AD%A3%E6%B4%97%E6%BE%A1%E5%B0%BD%E9%87%8F%E6%8E%A7%E5%88%B6%E5%9C%A85%E5%88%B010%E5%88%86%E9%92%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [汽车博主马哥离世](https://s.weibo.com/weibo?q=%E6%B1%BD%E8%BD%A6%E5%8D%9A%E4%B8%BB%E9%A9%AC%E5%93%A5%E7%A6%BB%E4%B8%96&t=31&band_rank=7&Refer=top)<br />
 8. [马来西亚将对中国游客免签](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%B0%86%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%85%8D%E7%AD%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [上午涂彩票 下午抄资料](https://s.weibo.com/weibo?q=%E4%B8%8A%E5%8D%88%E6%B6%82%E5%BD%A9%E7%A5%A8%20%E4%B8%8B%E5%8D%88%E6%8A%84%E8%B5%84%E6%96%99&t=31&band_rank=9&Refer=top)<br />
+9. [全红婵陈芋汐全锦赛夺冠](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%99%88%E8%8A%8B%E6%B1%90%E5%85%A8%E9%94%A6%E8%B5%9B%E5%A4%BA%E5%86%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
