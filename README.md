@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 16:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 16:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张凌赫说喜欢看白鹿做手工](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%AF%B4%E5%96%9C%E6%AC%A2%E7%9C%8B%E7%99%BD%E9%B9%BF%E5%81%9A%E6%89%8B%E5%B7%A5&t=31&band_rank=6&Refer=top)<br />
 7. [一个18寸的披萨比两个12寸的披萨大](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA18%E5%AF%B8%E7%9A%84%E6%8A%AB%E8%90%A8%E6%AF%94%E4%B8%A4%E4%B8%AA12%E5%AF%B8%E7%9A%84%E6%8A%AB%E8%90%A8%E5%A4%A7&t=31&band_rank=7&Refer=top)<br />
 8. [国考和考研哪个难](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%E5%92%8C%E8%80%83%E7%A0%94%E5%93%AA%E4%B8%AA%E9%9A%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [秦岚领奖魏大勋怕被切镜头提前离场](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E9%A2%86%E5%A5%96%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%80%95%E8%A2%AB%E5%88%87%E9%95%9C%E5%A4%B4%E6%8F%90%E5%89%8D%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [外媒爆料Rookie加入NIP](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%88%86%E6%96%99Rookie%E5%8A%A0%E5%85%A5NIP%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [伍佰合肥演唱会观众大喊退票](https://www.baidu.com/s?wd=%E4%BC%8D%E4%BD%B0%E5%90%88%E8%82%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A7%82%E4%BC%97%E5%A4%A7%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子总拉肚子查出5处癌](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%BB%E6%8B%89%E8%82%9A%E5%AD%90%E6%9F%A5%E5%87%BA5%E5%A4%84%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国“基建狂魔”即将打通天山](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E5%9F%BA%E5%BB%BA%E7%8B%82%E9%AD%94%E2%80%9D%E5%8D%B3%E5%B0%86%E6%89%93%E9%80%9A%E5%A4%A9%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [失去课间的孩子们在厕所社交](https://www.baidu.com/s?wd=%E5%A4%B1%E5%8E%BB%E8%AF%BE%E9%97%B4%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%9C%A8%E5%8E%95%E6%89%80%E7%A4%BE%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [无人机袭击以色列商船](https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%E5%95%86%E8%88%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中疾控辟谣印发糖尿病疫苗通知](https://www.baidu.com/s?wd=%E4%B8%AD%E7%96%BE%E6%8E%A7%E8%BE%9F%E8%B0%A3%E5%8D%B0%E5%8F%91%E7%B3%96%E5%B0%BF%E7%97%85%E7%96%AB%E8%8B%97%E9%80%9A%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [伍佰合肥演唱会观众大喊退票](https://www.baidu.com/s?wd=%E4%BC%8D%E4%BD%B0%E5%90%88%E8%82%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A7%82%E4%BC%97%E5%A4%A7%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子总拉肚子查出5处癌](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%BB%E6%8B%89%E8%82%9A%E5%AD%90%E6%9F%A5%E5%87%BA5%E5%A4%84%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国“基建狂魔”即将打通天山](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E5%9F%BA%E5%BB%BA%E7%8B%82%E9%AD%94%E2%80%9D%E5%8D%B3%E5%B0%86%E6%89%93%E9%80%9A%E5%A4%A9%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [失去课间的孩子们在厕所社交](https://www.baidu.com/s?wd=%E5%A4%B1%E5%8E%BB%E8%AF%BE%E9%97%B4%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%9C%A8%E5%8E%95%E6%89%80%E7%A4%BE%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [无人机袭击以色列商船](https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%E5%95%86%E8%88%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中疾控辟谣印发糖尿病疫苗通知](https://www.baidu.com/s?wd=%E4%B8%AD%E7%96%BE%E6%8E%A7%E8%BE%9F%E8%B0%A3%E5%8D%B0%E5%8F%91%E7%B3%96%E5%B0%BF%E7%97%85%E7%96%AB%E8%8B%97%E9%80%9A%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
