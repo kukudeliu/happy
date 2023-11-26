@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 04:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 04:13:02</h4></div>
 
 > 微博  
 
-1. [直系亲属犯罪是否会影响国考政审](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E7%B3%BB%E4%BA%B2%E5%B1%9E%E7%8A%AF%E7%BD%AA%E6%98%AF%E5%90%A6%E4%BC%9A%E5%BD%B1%E5%93%8D%E5%9B%BD%E8%80%83%E6%94%BF%E5%AE%A1%23&t=31&band_rank=1&Refer=top)<br />
-2. [洗筷子不要来回搓](https://s.weibo.com/weibo?q=%23%E6%B4%97%E7%AD%B7%E5%AD%90%E4%B8%8D%E8%A6%81%E6%9D%A5%E5%9B%9E%E6%90%93%23&t=31&band_rank=2&Refer=top)<br />
+1. [洗筷子不要来回搓](https://s.weibo.com/weibo?q=%23%E6%B4%97%E7%AD%B7%E5%AD%90%E4%B8%8D%E8%A6%81%E6%9D%A5%E5%9B%9E%E6%90%93%23&t=31&band_rank=1&Refer=top)<br />
+2. [直系亲属犯罪是否会影响国考政审](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E7%B3%BB%E4%BA%B2%E5%B1%9E%E7%8A%AF%E7%BD%AA%E6%98%AF%E5%90%A6%E4%BC%9A%E5%BD%B1%E5%93%8D%E5%9B%BD%E8%80%83%E6%94%BF%E5%AE%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [微观链博会](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E8%A7%82%E9%93%BE%E5%8D%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [连撞11车特斯拉车主发声](https://s.weibo.com/weibo?q=%23%E8%BF%9E%E6%92%9E11%E8%BD%A6%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [小杨哥演唱会 Twins](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%20Twins&t=31&band_rank=5&Refer=top)<br />
