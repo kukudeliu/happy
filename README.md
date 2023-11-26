@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 13:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 13:46:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 > 百度  
 
 1. [让百姓温暖过冬](https://www.baidu.com/s?wd=%E8%AE%A9%E7%99%BE%E5%A7%93%E6%B8%A9%E6%9A%96%E8%BF%87%E5%86%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [伍佰合肥演唱会观众大喊退票](https://www.baidu.com/s?wd=%E4%BC%8D%E4%BD%B0%E5%90%88%E8%82%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A7%82%E4%BC%97%E5%A4%A7%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [东北是捅了雪窝了](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E6%98%AF%E6%8D%85%E4%BA%86%E9%9B%AA%E7%AA%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [东北是捅了雪窝了](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E6%98%AF%E6%8D%85%E4%BA%86%E9%9B%AA%E7%AA%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [伍佰合肥演唱会观众大喊退票](https://www.baidu.com/s?wd=%E4%BC%8D%E4%BD%B0%E5%90%88%E8%82%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A7%82%E4%BC%97%E5%A4%A7%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [专家回应呼吸道疾病叠加感染](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E5%8F%A0%E5%8A%A0%E6%84%9F%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [失去课间的孩子们在厕所社交](https://www.baidu.com/s?wd=%E5%A4%B1%E5%8E%BB%E8%AF%BE%E9%97%B4%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%9C%A8%E5%8E%95%E6%89%80%E7%A4%BE%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杨幂王鹤棣台下扔水瓶](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8F%B0%E4%B8%8B%E6%89%94%E6%B0%B4%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,8 +30,8 @@
 > 哔哩哔哩  
 
 1. [让百姓温暖过冬](https://www.baidu.com/s?wd=%E8%AE%A9%E7%99%BE%E5%A7%93%E6%B8%A9%E6%9A%96%E8%BF%87%E5%86%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [伍佰合肥演唱会观众大喊退票](https://www.baidu.com/s?wd=%E4%BC%8D%E4%BD%B0%E5%90%88%E8%82%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A7%82%E4%BC%97%E5%A4%A7%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [东北是捅了雪窝了](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E6%98%AF%E6%8D%85%E4%BA%86%E9%9B%AA%E7%AA%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [东北是捅了雪窝了](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E6%98%AF%E6%8D%85%E4%BA%86%E9%9B%AA%E7%AA%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [伍佰合肥演唱会观众大喊退票](https://www.baidu.com/s?wd=%E4%BC%8D%E4%BD%B0%E5%90%88%E8%82%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A7%82%E4%BC%97%E5%A4%A7%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [专家回应呼吸道疾病叠加感染](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E5%8F%A0%E5%8A%A0%E6%84%9F%E6%9F%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [失去课间的孩子们在厕所社交](https://www.baidu.com/s?wd=%E5%A4%B1%E5%8E%BB%E8%AF%BE%E9%97%B4%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%9C%A8%E5%8E%95%E6%89%80%E7%A4%BE%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杨幂王鹤棣台下扔水瓶](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8F%B0%E4%B8%8B%E6%89%94%E6%B0%B4%E7%93%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
