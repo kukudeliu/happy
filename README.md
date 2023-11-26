@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 10:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 10:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白敬亭扶宋轶](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E6%89%B6%E5%AE%8B%E8%BD%B6&t=31&band_rank=6&Refer=top)<br />
 7. [纸性恋](https://s.weibo.com/weibo?q=%E7%BA%B8%E6%80%A7%E6%81%8B&t=31&band_rank=7&Refer=top)<br />
 8. [张凌赫一下子贡献了不少搞笑的梗](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%B8%80%E4%B8%8B%E5%AD%90%E8%B4%A1%E7%8C%AE%E4%BA%86%E4%B8%8D%E5%B0%91%E6%90%9E%E7%AC%91%E7%9A%84%E6%A2%97&t=31&band_rank=8&Refer=top)<br />
-9. [国考笔试今日开考](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%E7%AC%94%E8%AF%95%E4%BB%8A%E6%97%A5%E5%BC%80%E8%80%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [何赛飞 现场发疯版尖叫之夜](https://s.weibo.com/weibo?q=%E4%BD%95%E8%B5%9B%E9%A3%9E%20%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%96%AF%E7%89%88%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
