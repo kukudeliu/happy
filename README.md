@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 22:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 22:20:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [刘亦菲F1阿布扎比大奖赛观赛](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2F1%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E5%A4%A7%E5%A5%96%E8%B5%9B%E8%A7%82%E8%B5%9B%23&t=31&band_rank=5&Refer=top)<br />
 6. [多方回应网传贵州抢亲事件不实](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E8%B4%B5%E5%B7%9E%E6%8A%A2%E4%BA%B2%E4%BA%8B%E4%BB%B6%E4%B8%8D%E5%AE%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [射手座是不会有归属感的](https://s.weibo.com/weibo?q=%23%E5%B0%84%E6%89%8B%E5%BA%A7%E6%98%AF%E4%B8%8D%E4%BC%9A%E6%9C%89%E5%BD%92%E5%B1%9E%E6%84%9F%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
-8. [马来西亚将对中国游客免签](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%B0%86%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%85%8D%E7%AD%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [上午涂彩票 下午抄资料](https://s.weibo.com/weibo?q=%E4%B8%8A%E5%8D%88%E6%B6%82%E5%BD%A9%E7%A5%A8%20%E4%B8%8B%E5%8D%88%E6%8A%84%E8%B5%84%E6%96%99&t=31&band_rank=9&Refer=top)<br />
+8. [韩国男星的红毯造型](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E6%98%9F%E7%9A%84%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [俄3名特工在乌克兰吃外卖中毒身亡](https://s.weibo.com/weibo?q=%23%E4%BF%843%E5%90%8D%E7%89%B9%E5%B7%A5%E5%9C%A8%E4%B9%8C%E5%85%8B%E5%85%B0%E5%90%83%E5%A4%96%E5%8D%96%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
