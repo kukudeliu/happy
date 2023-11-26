@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 18:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-26 18:09:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [男子总拉肚子查出5处癌](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%BB%E6%8B%89%E8%82%9A%E5%AD%90%E6%9F%A5%E5%87%BA5%E5%A4%84%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄3名特工在乌身亡：外卖被掺砒霜](https://www.baidu.com/s?wd=%E4%BF%843%E5%90%8D%E7%89%B9%E5%B7%A5%E5%9C%A8%E4%B9%8C%E8%BA%AB%E4%BA%A1%EF%BC%9A%E5%A4%96%E5%8D%96%E8%A2%AB%E6%8E%BA%E7%A0%92%E9%9C%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [人大食堂宣布加紧研发烤鹅腿](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E9%A3%9F%E5%A0%82%E5%AE%A3%E5%B8%83%E5%8A%A0%E7%B4%A7%E7%A0%94%E5%8F%91%E7%83%A4%E9%B9%85%E8%85%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新闻女王台词爽爆了](https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E5%8F%B0%E8%AF%8D%E7%88%BD%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全球股市或创三年来最大单月涨幅](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E6%88%96%E5%88%9B%E4%B8%89%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%9C%88%E6%B6%A8%E5%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中疾控辟谣印发糖尿病疫苗通知](https://www.baidu.com/s?wd=%E4%B8%AD%E7%96%BE%E6%8E%A7%E8%BE%9F%E8%B0%A3%E5%8D%B0%E5%8F%91%E7%B3%96%E5%B0%BF%E7%97%85%E7%96%AB%E8%8B%97%E9%80%9A%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男子总拉肚子查出5处癌](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%BB%E6%8B%89%E8%82%9A%E5%AD%90%E6%9F%A5%E5%87%BA5%E5%A4%84%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [俄3名特工在乌身亡：外卖被掺砒霜](https://www.baidu.com/s?wd=%E4%BF%843%E5%90%8D%E7%89%B9%E5%B7%A5%E5%9C%A8%E4%B9%8C%E8%BA%AB%E4%BA%A1%EF%BC%9A%E5%A4%96%E5%8D%96%E8%A2%AB%E6%8E%BA%E7%A0%92%E9%9C%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [人大食堂宣布加紧研发烤鹅腿](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E9%A3%9F%E5%A0%82%E5%AE%A3%E5%B8%83%E5%8A%A0%E7%B4%A7%E7%A0%94%E5%8F%91%E7%83%A4%E9%B9%85%E8%85%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新闻女王台词爽爆了](https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E5%8F%B0%E8%AF%8D%E7%88%BD%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全球股市或创三年来最大单月涨幅](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E6%88%96%E5%88%9B%E4%B8%89%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%9C%88%E6%B6%A8%E5%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中疾控辟谣印发糖尿病疫苗通知](https://www.baidu.com/s?wd=%E4%B8%AD%E7%96%BE%E6%8E%A7%E8%BE%9F%E8%B0%A3%E5%8D%B0%E5%8F%91%E7%B3%96%E5%B0%BF%E7%97%85%E7%96%AB%E8%8B%97%E9%80%9A%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
