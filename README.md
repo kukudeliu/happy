@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 23:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 23:33:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [如何预防呼吸道疾病感染](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E9%A2%84%E9%98%B2%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E6%84%9F%E6%9F%93%23&t=31&band_rank=3&Refer=top)<br />
 4. [赵丽颖工作室发了三张许半夏](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E4%BA%86%E4%B8%89%E5%BC%A0%E8%AE%B8%E5%8D%8A%E5%A4%8F%23&t=31&band_rank=4&Refer=top)<br />
 5. [宋江好帅](https://s.weibo.com/weibo?q=%E5%AE%8B%E6%B1%9F%E5%A5%BD%E5%B8%85&t=31&band_rank=5&Refer=top)<br />
-6. [渐冻人网红卓君去世](https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E4%BA%BA%E7%BD%91%E7%BA%A2%E5%8D%93%E5%90%9B%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [外卖酸菜鱼的生存环境](https://s.weibo.com/weibo?q=%E5%A4%96%E5%8D%96%E9%85%B8%E8%8F%9C%E9%B1%BC%E7%9A%84%E7%94%9F%E5%AD%98%E7%8E%AF%E5%A2%83&t=31&band_rank=7&Refer=top)<br />
+6. [外卖酸菜鱼的生存环境](https://s.weibo.com/weibo?q=%E5%A4%96%E5%8D%96%E9%85%B8%E8%8F%9C%E9%B1%BC%E7%9A%84%E7%94%9F%E5%AD%98%E7%8E%AF%E5%A2%83&t=31&band_rank=6&Refer=top)<br />
+7. [渐冻人网红卓君去世](https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E4%BA%BA%E7%BD%91%E7%BA%A2%E5%8D%93%E5%90%9B%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [云南玉溪发生3.0级地震](https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E7%8E%89%E6%BA%AA%E5%8F%91%E7%94%9F3.0%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [BLG 左手](https://s.weibo.com/weibo?q=BLG%20%E5%B7%A6%E6%89%8B&t=31&band_rank=9&Refer=top)<br />
 
