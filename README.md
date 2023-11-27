@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 21:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 21:01:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [如何预防呼吸道疾病感染](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E9%A2%84%E9%98%B2%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E6%84%9F%E6%9F%93%23&t=31&band_rank=3&Refer=top)<br />
 4. [南海归墟陈牧驰 群演](https://s.weibo.com/weibo?q=%E5%8D%97%E6%B5%B7%E5%BD%92%E5%A2%9F%E9%99%88%E7%89%A7%E9%A9%B0%20%E7%BE%A4%E6%BC%94&t=31&band_rank=4&Refer=top)<br />
 5. [顾客吐槽带娃去海底捞看到科目三很不适](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BD%E5%B8%A6%E5%A8%83%E5%8E%BB%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%9C%8B%E5%88%B0%E7%A7%91%E7%9B%AE%E4%B8%89%E5%BE%88%E4%B8%8D%E9%80%82%23&t=31&band_rank=5&Refer=top)<br />
-6. [福宝](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%AE%9D&t=31&band_rank=6&Refer=top)<br />
-7. [科目三](https://s.weibo.com/weibo?q=%E7%A7%91%E7%9B%AE%E4%B8%89&t=31&band_rank=7&Refer=top)<br />
+6. [科目三](https://s.weibo.com/weibo?q=%E7%A7%91%E7%9B%AE%E4%B8%89&t=31&band_rank=6&Refer=top)<br />
+7. [福宝](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%AE%9D&t=31&band_rank=7&Refer=top)<br />
 8. [宋江好帅](https://s.weibo.com/weibo?q=%E5%AE%8B%E6%B1%9F%E5%A5%BD%E5%B8%85&t=31&band_rank=8&Refer=top)<br />
 9. [袁弘叫胡歌往旁边挪半个屁股](https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%BC%98%E5%8F%AB%E8%83%A1%E6%AD%8C%E5%BE%80%E6%97%81%E8%BE%B9%E6%8C%AA%E5%8D%8A%E4%B8%AA%E5%B1%81%E8%82%A1%23&t=31&band_rank=9&Refer=top)<br />
 
