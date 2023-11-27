@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 14:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 14:53:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [女生未考上985遭父亲家暴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%9C%AA%E8%80%83%E4%B8%8A985%E9%81%AD%E7%88%B6%E4%BA%B2%E5%AE%B6%E6%9A%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [女子在政务服务中心发火 官方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%94%BF%E5%8A%A1%E6%9C%8D%E5%8A%A1%E4%B8%AD%E5%BF%83%E5%8F%91%E7%81%AB+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [呼吸道疾病高发季如何应对？](https://www.baidu.com/s?wd=%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E9%AB%98%E5%8F%91%E5%AD%A3%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [特斯拉向刹车失灵事件车主索赔500万](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%90%91%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E8%BD%A6%E4%B8%BB%E7%B4%A2%E8%B5%94500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [特斯拉诉刹车失灵事件女车主赔500万](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E8%AF%89%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E5%A5%B3%E8%BD%A6%E4%B8%BB%E8%B5%94500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子婚后通讯录几乎被丈夫删光](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%A9%9A%E5%90%8E%E9%80%9A%E8%AE%AF%E5%BD%95%E5%87%A0%E4%B9%8E%E8%A2%AB%E4%B8%88%E5%A4%AB%E5%88%A0%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家称未来房价上涨压力很大](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%9C%AA%E6%9D%A5%E6%88%BF%E4%BB%B7%E4%B8%8A%E6%B6%A8%E5%8E%8B%E5%8A%9B%E5%BE%88%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [两名女子将米面油和牛奶倒江放生](https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E5%A5%B3%E5%AD%90%E5%B0%86%E7%B1%B3%E9%9D%A2%E6%B2%B9%E5%92%8C%E7%89%9B%E5%A5%B6%E5%80%92%E6%B1%9F%E6%94%BE%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [女生未考上985遭父亲家暴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%9C%AA%E8%80%83%E4%B8%8A985%E9%81%AD%E7%88%B6%E4%BA%B2%E5%AE%B6%E6%9A%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [女子在政务服务中心发火 官方通报](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%94%BF%E5%8A%A1%E6%9C%8D%E5%8A%A1%E4%B8%AD%E5%BF%83%E5%8F%91%E7%81%AB+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [呼吸道疾病高发季如何应对？](https://www.baidu.com/s?wd=%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E9%AB%98%E5%8F%91%E5%AD%A3%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [特斯拉向刹车失灵事件车主索赔500万](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%90%91%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E8%BD%A6%E4%B8%BB%E7%B4%A2%E8%B5%94500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [特斯拉诉刹车失灵事件女车主赔500万](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E8%AF%89%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E5%A5%B3%E8%BD%A6%E4%B8%BB%E8%B5%94500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子婚后通讯录几乎被丈夫删光](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%A9%9A%E5%90%8E%E9%80%9A%E8%AE%AF%E5%BD%95%E5%87%A0%E4%B9%8E%E8%A2%AB%E4%B8%88%E5%A4%AB%E5%88%A0%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家称未来房价上涨压力很大](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%9C%AA%E6%9D%A5%E6%88%BF%E4%BB%B7%E4%B8%8A%E6%B6%A8%E5%8E%8B%E5%8A%9B%E5%BE%88%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [两名女子将米面油和牛奶倒江放生](https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E5%A5%B3%E5%AD%90%E5%B0%86%E7%B1%B3%E9%9D%A2%E6%B2%B9%E5%92%8C%E7%89%9B%E5%A5%B6%E5%80%92%E6%B1%9F%E6%94%BE%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
