@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 21:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 21:09:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [宋江好帅](https://s.weibo.com/weibo?q=%E5%AE%8B%E6%B1%9F%E5%A5%BD%E5%B8%85&t=31&band_rank=5&Refer=top)<br />
 6. [科目三](https://s.weibo.com/weibo?q=%E7%A7%91%E7%9B%AE%E4%B8%89&t=31&band_rank=6&Refer=top)<br />
 7. [福宝](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%AE%9D&t=31&band_rank=7&Refer=top)<br />
-8. [南海归墟](https://s.weibo.com/weibo?q=%E5%8D%97%E6%B5%B7%E5%BD%92%E5%A2%9F&t=31&band_rank=8&Refer=top)<br />
-9. [袁弘叫胡歌往旁边挪半个屁股](https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%BC%98%E5%8F%AB%E8%83%A1%E6%AD%8C%E5%BE%80%E6%97%81%E8%BE%B9%E6%8C%AA%E5%8D%8A%E4%B8%AA%E5%B1%81%E8%82%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [袁弘叫胡歌往旁边挪半个屁股](https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%BC%98%E5%8F%AB%E8%83%A1%E6%AD%8C%E5%BE%80%E6%97%81%E8%BE%B9%E6%8C%AA%E5%8D%8A%E4%B8%AA%E5%B1%81%E8%82%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [南海归墟](https://s.weibo.com/weibo?q=%E5%8D%97%E6%B5%B7%E5%BD%92%E5%A2%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [经济恢复向好态势](https://www.baidu.com/s?wd=%E7%BB%8F%E6%B5%8E%E6%81%A2%E5%A4%8D%E5%90%91%E5%A5%BD%E6%80%81%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长吐槽海底捞科目三：恶心](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%A7%91%E7%9B%AE%E4%B8%89%EF%BC%9A%E6%81%B6%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [深圳一公司给员工放假10个月](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%85%AC%E5%8F%B8%E7%BB%99%E5%91%98%E5%B7%A5%E6%94%BE%E5%81%8710%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [周冬雨自称高级脸遭吐槽](https://www.baidu.com/s?wd=%E5%91%A8%E5%86%AC%E9%9B%A8%E8%87%AA%E7%A7%B0%E9%AB%98%E7%BA%A7%E8%84%B8%E9%81%AD%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张艺谋儿子参加巴黎名媛舞会](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%84%BF%E5%AD%90%E5%8F%82%E5%8A%A0%E5%B7%B4%E9%BB%8E%E5%90%8D%E5%AA%9B%E8%88%9E%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [爆款短剧制作方否认8天收入过亿](https://www.baidu.com/s?wd=%E7%88%86%E6%AC%BE%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%96%B9%E5%90%A6%E8%AE%A48%E5%A4%A9%E6%94%B6%E5%85%A5%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周冬雨自称高级脸遭吐槽](https://www.baidu.com/s?wd=%E5%91%A8%E5%86%AC%E9%9B%A8%E8%87%AA%E7%A7%B0%E9%AB%98%E7%BA%A7%E8%84%B8%E9%81%AD%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海辟谣年底停发新能源牌照](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E5%B9%B4%E5%BA%95%E5%81%9C%E5%8F%91%E6%96%B0%E8%83%BD%E6%BA%90%E7%89%8C%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [经济恢复向好态势](https://www.baidu.com/s?wd=%E7%BB%8F%E6%B5%8E%E6%81%A2%E5%A4%8D%E5%90%91%E5%A5%BD%E6%80%81%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长吐槽海底捞科目三：恶心](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%A7%91%E7%9B%AE%E4%B8%89%EF%BC%9A%E6%81%B6%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [深圳一公司给员工放假10个月](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%85%AC%E5%8F%B8%E7%BB%99%E5%91%98%E5%B7%A5%E6%94%BE%E5%81%8710%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [周冬雨自称高级脸遭吐槽](https://www.baidu.com/s?wd=%E5%91%A8%E5%86%AC%E9%9B%A8%E8%87%AA%E7%A7%B0%E9%AB%98%E7%BA%A7%E8%84%B8%E9%81%AD%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张艺谋儿子参加巴黎名媛舞会](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%84%BF%E5%AD%90%E5%8F%82%E5%8A%A0%E5%B7%B4%E9%BB%8E%E5%90%8D%E5%AA%9B%E8%88%9E%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [爆款短剧制作方否认8天收入过亿](https://www.baidu.com/s?wd=%E7%88%86%E6%AC%BE%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%96%B9%E5%90%A6%E8%AE%A48%E5%A4%A9%E6%94%B6%E5%85%A5%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周冬雨自称高级脸遭吐槽](https://www.baidu.com/s?wd=%E5%91%A8%E5%86%AC%E9%9B%A8%E8%87%AA%E7%A7%B0%E9%AB%98%E7%BA%A7%E8%84%B8%E9%81%AD%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海辟谣年底停发新能源牌照](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E5%B9%B4%E5%BA%95%E5%81%9C%E5%8F%91%E6%96%B0%E8%83%BD%E6%BA%90%E7%89%8C%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
