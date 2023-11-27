@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 16:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 16:47:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [以国之名接英雄回家微纪录](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%9B%BD%E4%B9%8B%E5%90%8D%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%E5%BE%AE%E7%BA%AA%E5%BD%95%23&t=31&band_rank=3&Refer=top)<br />
 4. [特斯拉要求刹车失灵事件女车主赔偿500万](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E8%A6%81%E6%B1%82%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E5%A5%B3%E8%BD%A6%E4%B8%BB%E8%B5%94%E5%81%BF500%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [韩网评我可以47](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E8%AF%84%E6%88%91%E5%8F%AF%E4%BB%A547%23&t=31&band_rank=5&Refer=top)<br />
-6. [WBG 呼吸来不来](https://s.weibo.com/weibo?q=WBG%20%E5%91%BC%E5%90%B8%E6%9D%A5%E4%B8%8D%E6%9D%A5&t=31&band_rank=6&Refer=top)<br />
-7. [官方通报女子多次被要求提供不同材料](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E5%A4%9A%E6%AC%A1%E8%A2%AB%E8%A6%81%E6%B1%82%E6%8F%90%E4%BE%9B%E4%B8%8D%E5%90%8C%E6%9D%90%E6%96%99%23&t=31&band_rank=7&Refer=top)<br />
+6. [官方通报女子多次被要求提供不同材料](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E5%A4%9A%E6%AC%A1%E8%A2%AB%E8%A6%81%E6%B1%82%E6%8F%90%E4%BE%9B%E4%B8%8D%E5%90%8C%E6%9D%90%E6%96%99%23&t=31&band_rank=6&Refer=top)<br />
+7. [WBG 呼吸来不来](https://s.weibo.com/weibo?q=WBG%20%E5%91%BC%E5%90%B8%E6%9D%A5%E4%B8%8D%E6%9D%A5&t=31&band_rank=7&Refer=top)<br />
 8. [张艺谋儿子 巴黎名媛舞会](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%84%BF%E5%AD%90%20%E5%B7%B4%E9%BB%8E%E5%90%8D%E5%AA%9B%E8%88%9E%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
 9. [中共中央政治局召开会议](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
 
