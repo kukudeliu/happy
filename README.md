@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 15:34:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 15:35:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨幂朵拉头](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9C%B5%E6%8B%89%E5%A4%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [谢晋的大女儿去世](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E6%99%8B%E7%9A%84%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [给p人一点j人的震撼](https://s.weibo.com/weibo?q=%E7%BB%99p%E4%BA%BA%E4%B8%80%E7%82%B9j%E4%BA%BA%E7%9A%84%E9%9C%87%E6%92%BC&t=31&band_rank=8&Refer=top)<br />
-9. [星光大赏 嘉宾](https://s.weibo.com/weibo?q=%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%20%E5%98%89%E5%AE%BE&t=31&band_rank=9&Refer=top)<br />
+9. [倪妮方 此项目与我们无关](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%E6%96%B9%20%E6%AD%A4%E9%A1%B9%E7%9B%AE%E4%B8%8E%E6%88%91%E4%BB%AC%E6%97%A0%E5%85%B3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
