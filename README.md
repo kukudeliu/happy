@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 20:50:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 20:51:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [福宝](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%AE%9D&t=31&band_rank=6&Refer=top)<br />
 7. [胡歌为刘诗诗新剧打call](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E4%B8%BA%E5%88%98%E8%AF%97%E8%AF%97%E6%96%B0%E5%89%A7%E6%89%93call%23&t=31&band_rank=7&Refer=top)<br />
 8. [新闻女王梁景仁遭心腹背叛](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E6%A2%81%E6%99%AF%E4%BB%81%E9%81%AD%E5%BF%83%E8%85%B9%E8%83%8C%E5%8F%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [深圳一公司给员工放假10个月](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%85%AC%E5%8F%B8%E7%BB%99%E5%91%98%E5%B7%A5%E6%94%BE%E5%81%8710%E4%B8%AA%E6%9C%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [宁安如梦豆瓣6.9分](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E8%B1%86%E7%93%A36.9%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
