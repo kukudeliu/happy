@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 21:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 21:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [科目三](https://s.weibo.com/weibo?q=%E7%A7%91%E7%9B%AE%E4%B8%89&t=31&band_rank=6&Refer=top)<br />
 7. [在韩国化妆浪费了11w](https://s.weibo.com/weibo?q=%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%8C%96%E5%A6%86%E6%B5%AA%E8%B4%B9%E4%BA%8611w&t=31&band_rank=7&Refer=top)<br />
 8. [电影热烈最终票房9.12亿](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E7%83%AD%E7%83%88%E6%9C%80%E7%BB%88%E7%A5%A8%E6%88%BF9.12%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [宁安如梦豆瓣6.9分](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E8%B1%86%E7%93%A36.9%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [袁弘叫胡歌往旁边挪半个屁股](https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%BC%98%E5%8F%AB%E8%83%A1%E6%AD%8C%E5%BE%80%E6%97%81%E8%BE%B9%E6%8C%AA%E5%8D%8A%E4%B8%AA%E5%B1%81%E8%82%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
