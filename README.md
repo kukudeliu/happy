@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 09:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 09:05:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [B太 我被漠河人留住了](https://s.weibo.com/weibo?q=B%E5%A4%AA%20%E6%88%91%E8%A2%AB%E6%BC%A0%E6%B2%B3%E4%BA%BA%E7%95%99%E4%BD%8F%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [连撞11车特斯拉车主发声](https://s.weibo.com/weibo?q=%23%E8%BF%9E%E6%92%9E11%E8%BD%A6%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [多伦多市附近交通事故4名中国留学生身亡](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BC%A6%E5%A4%9A%E5%B8%82%E9%99%84%E8%BF%91%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%854%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
-7. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=7&Refer=top)<br />
-8. [小杨哥演唱会 Twins](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%20Twins&t=31&band_rank=8&Refer=top)<br />
+7. [小杨哥演唱会 Twins](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%20Twins&t=31&band_rank=7&Refer=top)<br />
+8. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=8&Refer=top)<br />
 9. [谷歌AI认定美国登月照片或造假](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8CAI%E8%AE%A4%E5%AE%9A%E7%BE%8E%E5%9B%BD%E7%99%BB%E6%9C%88%E7%85%A7%E7%89%87%E6%88%96%E9%80%A0%E5%81%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
