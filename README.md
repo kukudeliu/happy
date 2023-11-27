@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 23:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 23:50:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [宋江好帅](https://s.weibo.com/weibo?q=%E5%AE%8B%E6%B1%9F%E5%A5%BD%E5%B8%85&t=31&band_rank=5&Refer=top)<br />
 6. [BLG 左手](https://s.weibo.com/weibo?q=BLG%20%E5%B7%A6%E6%89%8B&t=31&band_rank=6&Refer=top)<br />
 7. [南海归墟片名是潘粤明写的](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B5%B7%E5%BD%92%E5%A2%9F%E7%89%87%E5%90%8D%E6%98%AF%E6%BD%98%E7%B2%A4%E6%98%8E%E5%86%99%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
-8. [渐冻人网红卓君去世](https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E4%BA%BA%E7%BD%91%E7%BA%A2%E5%8D%93%E5%90%9B%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [原来孕晚期脚会发臭](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%AD%95%E6%99%9A%E6%9C%9F%E8%84%9A%E4%BC%9A%E5%8F%91%E8%87%AD&t=31&band_rank=9&Refer=top)<br />
+8. [原来孕晚期脚会发臭](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%AD%95%E6%99%9A%E6%9C%9F%E8%84%9A%E4%BC%9A%E5%8F%91%E8%87%AD&t=31&band_rank=8&Refer=top)<br />
+9. [渐冻人网红卓君去世](https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E4%BA%BA%E7%BD%91%E7%BA%A2%E5%8D%93%E5%90%9B%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
