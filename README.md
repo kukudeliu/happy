@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 15:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 15:56:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [最美北京我的家](https://s.weibo.com/weibo?q=%23%E6%9C%80%E7%BE%8E%E5%8C%97%E4%BA%AC%E6%88%91%E7%9A%84%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [张艺谋儿子 巴黎名媛舞会](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%84%BF%E5%AD%90%20%E5%B7%B4%E9%BB%8E%E5%90%8D%E5%AA%9B%E8%88%9E%E4%BC%9A&t=31&band_rank=4&Refer=top)<br />
 5. [谢晋的大女儿去世](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E6%99%8B%E7%9A%84%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
-6. [杨幂朵拉头](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9C%B5%E6%8B%89%E5%A4%B4%23&t=31&band_rank=6&Refer=top)<br />
-7. [人民大学食堂自研烤鹅腿定价15元](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E9%A3%9F%E5%A0%82%E8%87%AA%E7%A0%94%E7%83%A4%E9%B9%85%E8%85%BF%E5%AE%9A%E4%BB%B715%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
+6. [人民大学食堂自研烤鹅腿定价15元](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E9%A3%9F%E5%A0%82%E8%87%AA%E7%A0%94%E7%83%A4%E9%B9%85%E8%85%BF%E5%AE%9A%E4%BB%B715%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
+7. [杨幂朵拉头](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9C%B5%E6%8B%89%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [倪妮方 此项目与我们无关](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%E6%96%B9%20%E6%AD%A4%E9%A1%B9%E7%9B%AE%E4%B8%8E%E6%88%91%E4%BB%AC%E6%97%A0%E5%85%B3&t=31&band_rank=8&Refer=top)<br />
 9. [给p人一点j人的震撼](https://s.weibo.com/weibo?q=%E7%BB%99p%E4%BA%BA%E4%B8%80%E7%82%B9j%E4%BA%BA%E7%9A%84%E9%9C%87%E6%92%BC&t=31&band_rank=9&Refer=top)<br />
 
