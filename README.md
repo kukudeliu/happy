@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 13:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 13:57:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [马航家属称没有赔偿一分钱](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AA%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%B2%A1%E6%9C%89%E8%B5%94%E5%81%BF%E4%B8%80%E5%88%86%E9%92%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [暮光之城 重启](https://s.weibo.com/weibo?q=%E6%9A%AE%E5%85%89%E4%B9%8B%E5%9F%8E%20%E9%87%8D%E5%90%AF&t=31&band_rank=6&Refer=top)<br />
 7. [杨幂朵拉头](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9C%B5%E6%8B%89%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [郑州大学取消公众入校限制](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E5%85%AC%E4%BC%97%E5%85%A5%E6%A0%A1%E9%99%90%E5%88%B6%23&t=31&band_rank=8&Refer=top)<br />
+8. [清华北大学生排队抢鹅腿](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8E%92%E9%98%9F%E6%8A%A2%E9%B9%85%E8%85%BF%23&t=31&band_rank=8&Refer=top)<br />
 9. [高以翔父亲去世](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BB%A5%E7%BF%94%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
