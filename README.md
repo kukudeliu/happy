@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 16:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 16:26:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [以国之名接英雄回家微纪录](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%9B%BD%E4%B9%8B%E5%90%8D%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%E5%BE%AE%E7%BA%AA%E5%BD%95%23&t=31&band_rank=3&Refer=top)<br />
 4. [金莎男友喜欢吹她的鼻孔](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%E5%96%9C%E6%AC%A2%E5%90%B9%E5%A5%B9%E7%9A%84%E9%BC%BB%E5%AD%94&t=31&band_rank=4&Refer=top)<br />
 5. [韩网评我可以47](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E8%AF%84%E6%88%91%E5%8F%AF%E4%BB%A547%23&t=31&band_rank=5&Refer=top)<br />
-6. [张艺谋儿子 巴黎名媛舞会](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%84%BF%E5%AD%90%20%E5%B7%B4%E9%BB%8E%E5%90%8D%E5%AA%9B%E8%88%9E%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
-7. [WBG 呼吸来不来](https://s.weibo.com/weibo?q=WBG%20%E5%91%BC%E5%90%B8%E6%9D%A5%E4%B8%8D%E6%9D%A5&t=31&band_rank=7&Refer=top)<br />
+6. [WBG 呼吸来不来](https://s.weibo.com/weibo?q=WBG%20%E5%91%BC%E5%90%B8%E6%9D%A5%E4%B8%8D%E6%9D%A5&t=31&band_rank=6&Refer=top)<br />
+7. [张艺谋儿子 巴黎名媛舞会](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%84%BF%E5%AD%90%20%E5%B7%B4%E9%BB%8E%E5%90%8D%E5%AA%9B%E8%88%9E%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
 8. [官方通报女子多次被要求提供不同材料](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E5%A4%9A%E6%AC%A1%E8%A2%AB%E8%A6%81%E6%B1%82%E6%8F%90%E4%BE%9B%E4%B8%8D%E5%90%8C%E6%9D%90%E6%96%99%23&t=31&band_rank=8&Refer=top)<br />
 9. [谢晋的大女儿去世](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E6%99%8B%E7%9A%84%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
