@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 20:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 20:53:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [顾客吐槽带娃去海底捞看到科目三很不适](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BD%E5%B8%A6%E5%A8%83%E5%8E%BB%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%9C%8B%E5%88%B0%E7%A7%91%E7%9B%AE%E4%B8%89%E5%BE%88%E4%B8%8D%E9%80%82%23&t=31&band_rank=5&Refer=top)<br />
 6. [福宝](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%AE%9D&t=31&band_rank=6&Refer=top)<br />
 7. [胡歌为刘诗诗新剧打call](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E4%B8%BA%E5%88%98%E8%AF%97%E8%AF%97%E6%96%B0%E5%89%A7%E6%89%93call%23&t=31&band_rank=7&Refer=top)<br />
-8. [新闻女王梁景仁遭心腹背叛](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E6%A2%81%E6%99%AF%E4%BB%81%E9%81%AD%E5%BF%83%E8%85%B9%E8%83%8C%E5%8F%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [宁安如梦豆瓣6.9分](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E8%B1%86%E7%93%A36.9%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [宋江好帅](https://s.weibo.com/weibo?q=%E5%AE%8B%E6%B1%9F%E5%A5%BD%E5%B8%85&t=31&band_rank=8&Refer=top)<br />
+9. [新闻女王梁景仁遭心腹背叛](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E6%A2%81%E6%99%AF%E4%BB%81%E9%81%AD%E5%BF%83%E8%85%B9%E8%83%8C%E5%8F%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
