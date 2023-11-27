@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 12:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 12:12:01</h4></div>
 
 > 微博  
 
-1. [杨幂朵拉头](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9C%B5%E6%8B%89%E5%A4%B4%23&t=31&band_rank=1&Refer=top)<br />
-2. [高以翔父亲去世](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BB%A5%E7%BF%94%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
+1. [高以翔父亲去世](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BB%A5%E7%BF%94%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
+2. [杨幂朵拉头](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9C%B5%E6%8B%89%E5%A4%B4%23&t=31&band_rank=2&Refer=top)<br />
 3. [鬼斧神工的大自然又出新作](https://s.weibo.com/weibo?q=%23%E9%AC%BC%E6%96%A7%E7%A5%9E%E5%B7%A5%E7%9A%84%E5%A4%A7%E8%87%AA%E7%84%B6%E5%8F%88%E5%87%BA%E6%96%B0%E4%BD%9C%23&t=31&band_rank=3&Refer=top)<br />
 4. [马航MH370乘客家属索赔案今天开庭](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AAMH370%E4%B9%98%E5%AE%A2%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94%E6%A1%88%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%BA%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [YG官网删除权志龙](https://s.weibo.com/weibo?q=%23YG%E5%AE%98%E7%BD%91%E5%88%A0%E9%99%A4%E6%9D%83%E5%BF%97%E9%BE%99%23&t=31&band_rank=5&Refer=top)<br />
