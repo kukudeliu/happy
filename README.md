@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 08:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 08:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [秦岚的嗓子一点没耽误唠嗑](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E7%9A%84%E5%97%93%E5%AD%90%E4%B8%80%E7%82%B9%E6%B2%A1%E8%80%BD%E8%AF%AF%E5%94%A0%E5%97%91&t=31&band_rank=6&Refer=top)<br />
 7. [谷歌AI认定美国登月照片或造假](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8CAI%E8%AE%A4%E5%AE%9A%E7%BE%8E%E5%9B%BD%E7%99%BB%E6%9C%88%E7%85%A7%E7%89%87%E6%88%96%E9%80%A0%E5%81%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [张颂文为张译新电影包场](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E4%B8%BA%E5%BC%A0%E8%AF%91%E6%96%B0%E7%94%B5%E5%BD%B1%E5%8C%85%E5%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [浙大男生为救窒息小孩旷课被点名](https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E7%94%B7%E7%94%9F%E4%B8%BA%E6%95%91%E7%AA%92%E6%81%AF%E5%B0%8F%E5%AD%A9%E6%97%B7%E8%AF%BE%E8%A2%AB%E7%82%B9%E5%90%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
