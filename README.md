@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 17:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [贴身衣物最好不要买黑色](https://s.weibo.com/weibo?q=%E8%B4%B4%E8%BA%AB%E8%A1%A3%E7%89%A9%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81%E4%B9%B0%E9%BB%91%E8%89%B2&t=31&band_rank=5&Refer=top)<br />
 6. [特斯拉要求刹车失灵事件女车主赔偿500万](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E8%A6%81%E6%B1%82%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E5%A5%B3%E8%BD%A6%E4%B8%BB%E8%B5%94%E5%81%BF500%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [支原体肺炎是新冠的变异吗](https://s.weibo.com/weibo?q=%23%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E7%9A%84%E5%8F%98%E5%BC%82%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [经常喝含植脂末的奶茶会怎样](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E5%96%9D%E5%90%AB%E6%A4%8D%E8%84%82%E6%9C%AB%E7%9A%84%E5%A5%B6%E8%8C%B6%E4%BC%9A%E6%80%8E%E6%A0%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [张文宏称支原体肺炎和新冠是两码事](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E5%92%8C%E6%96%B0%E5%86%A0%E6%98%AF%E4%B8%A4%E7%A0%81%E4%BA%8B%23&t=31&band_rank=9&Refer=top)<br />
+8. [清华北大学生排队抢鹅腿](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8E%92%E9%98%9F%E6%8A%A2%E9%B9%85%E8%85%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [谁把三星堆放出来跑马拉松了](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%8A%8A%E4%B8%89%E6%98%9F%E5%A0%86%E6%94%BE%E5%87%BA%E6%9D%A5%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
