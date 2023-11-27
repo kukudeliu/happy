@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 11:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 11:47:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [种地吧 开工大吉](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7%20%E5%BC%80%E5%B7%A5%E5%A4%A7%E5%90%89&t=31&band_rank=5&Refer=top)<br />
 6. [朵拉统治姐圈](https://s.weibo.com/weibo?q=%E6%9C%B5%E6%8B%89%E7%BB%9F%E6%B2%BB%E5%A7%90%E5%9C%88&t=31&band_rank=6&Refer=top)<br />
 7. [中式恐怖](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%BC%8F%E6%81%90%E6%80%96&t=31&band_rank=7&Refer=top)<br />
-8. [周一的我被确诊为安陵容](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B8%80%E7%9A%84%E6%88%91%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%AE%89%E9%99%B5%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [羽绒服涨价把市场让给了军大衣](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%B6%A8%E4%BB%B7%E6%8A%8A%E5%B8%82%E5%9C%BA%E8%AE%A9%E7%BB%99%E4%BA%86%E5%86%9B%E5%A4%A7%E8%A1%A3%23&t=31&band_rank=9&Refer=top)<br />
+8. [羽绒服涨价把市场让给了军大衣](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%B6%A8%E4%BB%B7%E6%8A%8A%E5%B8%82%E5%9C%BA%E8%AE%A9%E7%BB%99%E4%BA%86%E5%86%9B%E5%A4%A7%E8%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
+9. [供应商曝羽绒服高价真相](https://s.weibo.com/weibo?q=%23%E4%BE%9B%E5%BA%94%E5%95%86%E6%9B%9D%E7%BE%BD%E7%BB%92%E6%9C%8D%E9%AB%98%E4%BB%B7%E7%9C%9F%E7%9B%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
