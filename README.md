@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 18:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 18:43:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [清华北大学生排队抢鹅腿](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8E%92%E9%98%9F%E6%8A%A2%E9%B9%85%E8%85%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [刻俩萝卜章骗了300亿](https://s.weibo.com/weibo?q=%23%E5%88%BB%E4%BF%A9%E8%90%9D%E5%8D%9C%E7%AB%A0%E9%AA%97%E4%BA%86300%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [谁把三星堆放出来跑马拉松了](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%8A%8A%E4%B8%89%E6%98%9F%E5%A0%86%E6%94%BE%E5%87%BA%E6%9D%A5%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [贴身衣物最好不要买黑色](https://s.weibo.com/weibo?q=%E8%B4%B4%E8%BA%AB%E8%A1%A3%E7%89%A9%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81%E4%B9%B0%E9%BB%91%E8%89%B2&t=31&band_rank=8&Refer=top)<br />
-9. [22岁中国留学生在韩身亡](https://s.weibo.com/weibo?q=%2322%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E9%9F%A9%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [22岁中国留学生在韩身亡](https://s.weibo.com/weibo?q=%2322%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E9%9F%A9%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [贴身衣物最好不要买黑色](https://s.weibo.com/weibo?q=%E8%B4%B4%E8%BA%AB%E8%A1%A3%E7%89%A9%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81%E4%B9%B0%E9%BB%91%E8%89%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
