@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 17:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 17:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李苗苗 爱你到嫉妒你的鞋子](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%8B%97%E8%8B%97%20%E7%88%B1%E4%BD%A0%E5%88%B0%E5%AB%89%E5%A6%92%E4%BD%A0%E7%9A%84%E9%9E%8B%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
 7. [韩网评我可以47](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E8%AF%84%E6%88%91%E5%8F%AF%E4%BB%A547%23&t=31&band_rank=7&Refer=top)<br />
 8. [WBG 呼吸来不来](https://s.weibo.com/weibo?q=WBG%20%E5%91%BC%E5%90%B8%E6%9D%A5%E4%B8%8D%E6%9D%A5&t=31&band_rank=8&Refer=top)<br />
-9. [官方通报女子多次被要求提供不同材料](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E5%A4%9A%E6%AC%A1%E8%A2%AB%E8%A6%81%E6%B1%82%E6%8F%90%E4%BE%9B%E4%B8%8D%E5%90%8C%E6%9D%90%E6%96%99%23&t=31&band_rank=9&Refer=top)<br />
+9. [辛芷蕾没当上导游很失落](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%B2%A1%E5%BD%93%E4%B8%8A%E5%AF%BC%E6%B8%B8%E5%BE%88%E5%A4%B1%E8%90%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
