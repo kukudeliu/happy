@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 20:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 20:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [解放军中缅边境演习视频曝光](https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E6%BC%94%E4%B9%A0%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [家长吐槽海底捞科目三：恶心](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%A7%91%E7%9B%AE%E4%B8%89%EF%BC%9A%E6%81%B6%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [社区医院开业挂满祝贺条幅](https://www.baidu.com/s?wd=%E7%A4%BE%E5%8C%BA%E5%8C%BB%E9%99%A2%E5%BC%80%E4%B8%9A%E6%8C%82%E6%BB%A1%E7%A5%9D%E8%B4%BA%E6%9D%A1%E5%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [深圳有豪宅直降800万](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9C%89%E8%B1%AA%E5%AE%85%E7%9B%B4%E9%99%8D800%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周冬雨自称高级脸遭吐槽](https://www.baidu.com/s?wd=%E5%91%A8%E5%86%AC%E9%9B%A8%E8%87%AA%E7%A7%B0%E9%AB%98%E7%BA%A7%E8%84%B8%E9%81%AD%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海辟谣年底停发新能源牌照](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E5%B9%B4%E5%BA%95%E5%81%9C%E5%8F%91%E6%96%B0%E8%83%BD%E6%BA%90%E7%89%8C%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [解放军中缅边境演习视频曝光](https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E6%BC%94%E4%B9%A0%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [家长吐槽海底捞科目三：恶心](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%A7%91%E7%9B%AE%E4%B8%89%EF%BC%9A%E6%81%B6%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [社区医院开业挂满祝贺条幅](https://www.baidu.com/s?wd=%E7%A4%BE%E5%8C%BA%E5%8C%BB%E9%99%A2%E5%BC%80%E4%B8%9A%E6%8C%82%E6%BB%A1%E7%A5%9D%E8%B4%BA%E6%9D%A1%E5%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [深圳有豪宅直降800万](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9C%89%E8%B1%AA%E5%AE%85%E7%9B%B4%E9%99%8D800%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周冬雨自称高级脸遭吐槽](https://www.baidu.com/s?wd=%E5%91%A8%E5%86%AC%E9%9B%A8%E8%87%AA%E7%A7%B0%E9%AB%98%E7%BA%A7%E8%84%B8%E9%81%AD%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海辟谣年底停发新能源牌照](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E5%B9%B4%E5%BA%95%E5%81%9C%E5%8F%91%E6%96%B0%E8%83%BD%E6%BA%90%E7%89%8C%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
