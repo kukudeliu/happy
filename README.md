@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 13:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 13:12:01</h4></div>
 
 > 微博  
 
 1. [16岁女孩未考上985遭父亲家暴](https://s.weibo.com/weibo?q=%2316%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%9C%AA%E8%80%83%E4%B8%8A985%E9%81%AD%E7%88%B6%E4%BA%B2%E5%AE%B6%E6%9A%B4%23&t=31&band_rank=1&Refer=top)<br />
 2. [谢晋的大女儿去世](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E6%99%8B%E7%9A%84%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
-3. [郑州大学取消公众入校限制](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E5%85%AC%E4%BC%97%E5%85%A5%E6%A0%A1%E9%99%90%E5%88%B6%23&t=31&band_rank=3&Refer=top)<br />
+3. [最美北京我的家](https://s.weibo.com/weibo?q=%23%E6%9C%80%E7%BE%8E%E5%8C%97%E4%BA%AC%E6%88%91%E7%9A%84%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [张艺谋儿子 巴黎名媛舞会](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%84%BF%E5%AD%90%20%E5%B7%B4%E9%BB%8E%E5%90%8D%E5%AA%9B%E8%88%9E%E4%BC%9A&t=31&band_rank=4&Refer=top)<br />
 5. [高以翔父亲去世](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BB%A5%E7%BF%94%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
-6. [杨幂朵拉头](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9C%B5%E6%8B%89%E5%A4%B4%23&t=31&band_rank=6&Refer=top)<br />
-7. [马航MH370乘客家属索赔案今天开庭](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AAMH370%E4%B9%98%E5%AE%A2%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94%E6%A1%88%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%BA%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [鬼斧神工的大自然又出新作](https://s.weibo.com/weibo?q=%23%E9%AC%BC%E6%96%A7%E7%A5%9E%E5%B7%A5%E7%9A%84%E5%A4%A7%E8%87%AA%E7%84%B6%E5%8F%88%E5%87%BA%E6%96%B0%E4%BD%9C%23&t=31&band_rank=8&Refer=top)<br />
+6. [郑州大学取消公众入校限制](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E5%85%AC%E4%BC%97%E5%85%A5%E6%A0%A1%E9%99%90%E5%88%B6%23&t=31&band_rank=6&Refer=top)<br />
+7. [杨幂朵拉头](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9C%B5%E6%8B%89%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [马航MH370乘客家属索赔案今天开庭](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AAMH370%E4%B9%98%E5%AE%A2%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94%E6%A1%88%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%BA%AD%23&t=31&band_rank=8&Refer=top)<br />
 9. [暮光之城 重启](https://s.weibo.com/weibo?q=%E6%9A%AE%E5%85%89%E4%B9%8B%E5%9F%8E%20%E9%87%8D%E5%90%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
