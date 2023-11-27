@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 18:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 18:03:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [特斯拉诉刹车失灵事件女车主赔500万](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E8%AF%89%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E5%A5%B3%E8%BD%A6%E4%B8%BB%E8%B5%94500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张艺谋儿子参加巴黎名媛舞会](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%84%BF%E5%AD%90%E5%8F%82%E5%8A%A0%E5%B7%B4%E9%BB%8E%E5%90%8D%E5%AA%9B%E8%88%9E%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [医生给孩子采血手套残留他人血迹](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E7%BB%99%E5%AD%A9%E5%AD%90%E9%87%87%E8%A1%80%E6%89%8B%E5%A5%97%E6%AE%8B%E7%95%99%E4%BB%96%E4%BA%BA%E8%A1%80%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩国国家情报机构领导层集体辞职](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84%E9%A2%86%E5%AF%BC%E5%B1%82%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广电总局：电视开机应默认全屏直播](https://www.baidu.com/s?wd=%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%EF%BC%9A%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%BA%94%E9%BB%98%E8%AE%A4%E5%85%A8%E5%B1%8F%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海辟谣年底停发新能源牌照](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E5%B9%B4%E5%BA%95%E5%81%9C%E5%8F%91%E6%96%B0%E8%83%BD%E6%BA%90%E7%89%8C%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [特斯拉诉刹车失灵事件女车主赔500万](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E8%AF%89%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E5%A5%B3%E8%BD%A6%E4%B8%BB%E8%B5%94500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张艺谋儿子参加巴黎名媛舞会](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%84%BF%E5%AD%90%E5%8F%82%E5%8A%A0%E5%B7%B4%E9%BB%8E%E5%90%8D%E5%AA%9B%E8%88%9E%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [医生给孩子采血手套残留他人血迹](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E7%BB%99%E5%AD%A9%E5%AD%90%E9%87%87%E8%A1%80%E6%89%8B%E5%A5%97%E6%AE%8B%E7%95%99%E4%BB%96%E4%BA%BA%E8%A1%80%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩国国家情报机构领导层集体辞职](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84%E9%A2%86%E5%AF%BC%E5%B1%82%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广电总局：电视开机应默认全屏直播](https://www.baidu.com/s?wd=%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%EF%BC%9A%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%BA%94%E9%BB%98%E8%AE%A4%E5%85%A8%E5%B1%8F%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海辟谣年底停发新能源牌照](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E5%B9%B4%E5%BA%95%E5%81%9C%E5%8F%91%E6%96%B0%E8%83%BD%E6%BA%90%E7%89%8C%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
