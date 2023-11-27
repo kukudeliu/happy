@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 09:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 09:40:01</h4></div>
 
 > 微博  
 
 1. [高以翔父亲去世](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BB%A5%E7%BF%94%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [1500和1500是不一样的](https://s.weibo.com/weibo?q=1500%E5%92%8C1500%E6%98%AF%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84&t=31&band_rank=2&Refer=top)<br />
+2. [羽绒服涨价把市场让给了军大衣](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%B6%A8%E4%BB%B7%E6%8A%8A%E5%B8%82%E5%9C%BA%E8%AE%A9%E7%BB%99%E4%BA%86%E5%86%9B%E5%A4%A7%E8%A1%A3%23&t=31&band_rank=2&Refer=top)<br />
 3. [微观链博会](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E8%A7%82%E9%93%BE%E5%8D%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [羽绒服涨价把市场让给了军大衣](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%B6%A8%E4%BB%B7%E6%8A%8A%E5%B8%82%E5%9C%BA%E8%AE%A9%E7%BB%99%E4%BA%86%E5%86%9B%E5%A4%A7%E8%A1%A3%23&t=31&band_rank=4&Refer=top)<br />
+4. [1500和1500是不一样的](https://s.weibo.com/weibo?q=1500%E5%92%8C1500%E6%98%AF%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84&t=31&band_rank=4&Refer=top)<br />
 5. [易烊千玺代言瑞幸咖啡](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%BB%A3%E8%A8%80%E7%91%9E%E5%B9%B8%E5%92%96%E5%95%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=6&Refer=top)<br />
 7. [B太 我被漠河人留住了](https://s.weibo.com/weibo?q=B%E5%A4%AA%20%E6%88%91%E8%A2%AB%E6%BC%A0%E6%B2%B3%E4%BA%BA%E7%95%99%E4%BD%8F%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
