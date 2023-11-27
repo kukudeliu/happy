@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 21:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 21:46:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [在韩国化妆浪费了11w](https://s.weibo.com/weibo?q=%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%8C%96%E5%A6%86%E6%B5%AA%E8%B4%B9%E4%BA%8611w&t=31&band_rank=4&Refer=top)<br />
 5. [GQ嘉宾关键词](https://s.weibo.com/weibo?q=%23GQ%E5%98%89%E5%AE%BE%E5%85%B3%E9%94%AE%E8%AF%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [何猷君 最强大脑变最强恋爱脑](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91%E5%8F%98%E6%9C%80%E5%BC%BA%E6%81%8B%E7%88%B1%E8%84%91&t=31&band_rank=6&Refer=top)<br />
-7. [科目三](https://s.weibo.com/weibo?q=%E7%A7%91%E7%9B%AE%E4%B8%89&t=31&band_rank=7&Refer=top)<br />
-8. [丈夫第一次刷鞋将妻子千元靴变皮干](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%88%B7%E9%9E%8B%E5%B0%86%E5%A6%BB%E5%AD%90%E5%8D%83%E5%85%83%E9%9D%B4%E5%8F%98%E7%9A%AE%E5%B9%B2%23&t=31&band_rank=8&Refer=top)<br />
+7. [丈夫第一次刷鞋将妻子千元靴变皮干](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%88%B7%E9%9E%8B%E5%B0%86%E5%A6%BB%E5%AD%90%E5%8D%83%E5%85%83%E9%9D%B4%E5%8F%98%E7%9A%AE%E5%B9%B2%23&t=31&band_rank=7&Refer=top)<br />
+8. [科目三](https://s.weibo.com/weibo?q=%E7%A7%91%E7%9B%AE%E4%B8%89&t=31&band_rank=8&Refer=top)<br />
 9. [电影热烈最终票房9.12亿](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E7%83%AD%E7%83%88%E6%9C%80%E7%BB%88%E7%A5%A8%E6%88%BF9.12%E4%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
