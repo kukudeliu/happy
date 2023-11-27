@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 13:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 13:13:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [高以翔父亲去世](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BB%A5%E7%BF%94%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [郑州大学取消公众入校限制](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E5%85%AC%E4%BC%97%E5%85%A5%E6%A0%A1%E9%99%90%E5%88%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨幂朵拉头](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9C%B5%E6%8B%89%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [马航MH370乘客家属索赔案今天开庭](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AAMH370%E4%B9%98%E5%AE%A2%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94%E6%A1%88%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%BA%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [暮光之城 重启](https://s.weibo.com/weibo?q=%E6%9A%AE%E5%85%89%E4%B9%8B%E5%9F%8E%20%E9%87%8D%E5%90%AF&t=31&band_rank=9&Refer=top)<br />
+8. [暮光之城 重启](https://s.weibo.com/weibo?q=%E6%9A%AE%E5%85%89%E4%B9%8B%E5%9F%8E%20%E9%87%8D%E5%90%AF&t=31&band_rank=8&Refer=top)<br />
+9. [马航MH370乘客家属索赔案今天开庭](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AAMH370%E4%B9%98%E5%AE%A2%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94%E6%A1%88%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%BA%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
