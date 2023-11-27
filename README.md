@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 01:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 01:13:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [宋江好帅](https://s.weibo.com/weibo?q=%E5%AE%8B%E6%B1%9F%E5%A5%BD%E5%B8%85&t=31&band_rank=5&Refer=top)<br />
 6. [张雪峰为员工多发300元工资请吃火锅](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E4%B8%BA%E5%91%98%E5%B7%A5%E5%A4%9A%E5%8F%91300%E5%85%83%E5%B7%A5%E8%B5%84%E8%AF%B7%E5%90%83%E7%81%AB%E9%94%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵丽颖工作室发了三张许半夏](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E4%BA%86%E4%B8%89%E5%BC%A0%E8%AE%B8%E5%8D%8A%E5%A4%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [南海归墟片名是潘粤明写的](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B5%B7%E5%BD%92%E5%A2%9F%E7%89%87%E5%90%8D%E6%98%AF%E6%BD%98%E7%B2%A4%E6%98%8E%E5%86%99%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [BLG 左手](https://s.weibo.com/weibo?q=BLG%20%E5%B7%A6%E6%89%8B&t=31&band_rank=9&Refer=top)<br />
+8. [BLG 左手](https://s.weibo.com/weibo?q=BLG%20%E5%B7%A6%E6%89%8B&t=31&band_rank=8&Refer=top)<br />
+9. [南海归墟片名是潘粤明写的](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B5%B7%E5%BD%92%E5%A2%9F%E7%89%87%E5%90%8D%E6%98%AF%E6%BD%98%E7%B2%A4%E6%98%8E%E5%86%99%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
