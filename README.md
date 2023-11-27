@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 03:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 03:47:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [张雪峰为员工多发300元工资请吃火锅](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E4%B8%BA%E5%91%98%E5%B7%A5%E5%A4%9A%E5%8F%91300%E5%85%83%E5%B7%A5%E8%B5%84%E8%AF%B7%E5%90%83%E7%81%AB%E9%94%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [涉过愤怒的海 TT](https://s.weibo.com/weibo?q=%E6%B6%89%E8%BF%87%E6%84%A4%E6%80%92%E7%9A%84%E6%B5%B7%20TT&t=31&band_rank=6&Refer=top)<br />
 7. [宋江好帅](https://s.weibo.com/weibo?q=%E5%AE%8B%E6%B1%9F%E5%A5%BD%E5%B8%85&t=31&band_rank=7&Refer=top)<br />
-8. [南海归墟片名是潘粤明写的](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B5%B7%E5%BD%92%E5%A2%9F%E7%89%87%E5%90%8D%E6%98%AF%E6%BD%98%E7%B2%A4%E6%98%8E%E5%86%99%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [渐冻人网红卓君去世](https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E4%BA%BA%E7%BD%91%E7%BA%A2%E5%8D%93%E5%90%9B%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+8. [渐冻人网红卓君去世](https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E4%BA%BA%E7%BD%91%E7%BA%A2%E5%8D%93%E5%90%9B%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [南海归墟片名是潘粤明写的](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B5%B7%E5%BD%92%E5%A2%9F%E7%89%87%E5%90%8D%E6%98%AF%E6%BD%98%E7%B2%A4%E6%98%8E%E5%86%99%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
