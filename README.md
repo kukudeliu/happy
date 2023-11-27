@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 00:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 00:27:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [赵丽颖工作室发了三张许半夏](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E4%BA%86%E4%B8%89%E5%BC%A0%E8%AE%B8%E5%8D%8A%E5%A4%8F%23&t=31&band_rank=4&Refer=top)<br />
 5. [宋江好帅](https://s.weibo.com/weibo?q=%E5%AE%8B%E6%B1%9F%E5%A5%BD%E5%B8%85&t=31&band_rank=5&Refer=top)<br />
 6. [易烊千玺分享试听音频](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%88%86%E4%BA%AB%E8%AF%95%E5%90%AC%E9%9F%B3%E9%A2%91%23&t=31&band_rank=6&Refer=top)<br />
-7. [原来孕晚期脚会发臭](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%AD%95%E6%99%9A%E6%9C%9F%E8%84%9A%E4%BC%9A%E5%8F%91%E8%87%AD&t=31&band_rank=7&Refer=top)<br />
-8. [南海归墟片名是潘粤明写的](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B5%B7%E5%BD%92%E5%A2%9F%E7%89%87%E5%90%8D%E6%98%AF%E6%BD%98%E7%B2%A4%E6%98%8E%E5%86%99%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [昆明震感](https://s.weibo.com/weibo?q=%E6%98%86%E6%98%8E%E9%9C%87%E6%84%9F&t=31&band_rank=9&Refer=top)<br />
+7. [南海归墟片名是潘粤明写的](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B5%B7%E5%BD%92%E5%A2%9F%E7%89%87%E5%90%8D%E6%98%AF%E6%BD%98%E7%B2%A4%E6%98%8E%E5%86%99%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
+8. [昆明震感](https://s.weibo.com/weibo?q=%E6%98%86%E6%98%8E%E9%9C%87%E6%84%9F&t=31&band_rank=8&Refer=top)<br />
+9. [BLG 左手](https://s.weibo.com/weibo?q=BLG%20%E5%B7%A6%E6%89%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
