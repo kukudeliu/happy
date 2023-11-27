@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 18:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 18:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刻俩萝卜章骗了300亿](https://s.weibo.com/weibo?q=%23%E5%88%BB%E4%BF%A9%E8%90%9D%E5%8D%9C%E7%AB%A0%E9%AA%97%E4%BA%86300%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [谁把三星堆放出来跑马拉松了](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%8A%8A%E4%B8%89%E6%98%9F%E5%A0%86%E6%94%BE%E5%87%BA%E6%9D%A5%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [支原体肺炎是新冠的变异吗](https://s.weibo.com/weibo?q=%23%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E7%9A%84%E5%8F%98%E5%BC%82%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [金莎男友喜欢吹她的鼻孔](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%E5%96%9C%E6%AC%A2%E5%90%B9%E5%A5%B9%E7%9A%84%E9%BC%BB%E5%AD%94&t=31&band_rank=9&Refer=top)<br />
+9. [经常喝含植脂末的奶茶会怎样](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E5%96%9D%E5%90%AB%E6%A4%8D%E8%84%82%E6%9C%AB%E7%9A%84%E5%A5%B6%E8%8C%B6%E4%BC%9A%E6%80%8E%E6%A0%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
