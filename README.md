@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 08:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 08:19:01</h4></div>
 
 > 微博  
 
 1. [连撞11车特斯拉车主发声](https://s.weibo.com/weibo?q=%23%E8%BF%9E%E6%92%9E11%E8%BD%A6%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=1&Refer=top)<br />
 2. [B太 我被漠河人留住了](https://s.weibo.com/weibo?q=B%E5%A4%AA%20%E6%88%91%E8%A2%AB%E6%BC%A0%E6%B2%B3%E4%BA%BA%E7%95%99%E4%BD%8F%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [微观链博会](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E8%A7%82%E9%93%BE%E5%8D%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [小杨哥演唱会 Twins](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%20Twins&t=31&band_rank=4&Refer=top)<br />
-5. [1500和1500是不一样的](https://s.weibo.com/weibo?q=1500%E5%92%8C1500%E6%98%AF%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84&t=31&band_rank=5&Refer=top)<br />
+4. [1500和1500是不一样的](https://s.weibo.com/weibo?q=1500%E5%92%8C1500%E6%98%AF%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84&t=31&band_rank=4&Refer=top)<br />
+5. [小杨哥演唱会 Twins](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%20Twins&t=31&band_rank=5&Refer=top)<br />
 6. [秦岚的嗓子一点没耽误唠嗑](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E7%9A%84%E5%97%93%E5%AD%90%E4%B8%80%E7%82%B9%E6%B2%A1%E8%80%BD%E8%AF%AF%E5%94%A0%E5%97%91&t=31&band_rank=6&Refer=top)<br />
 7. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=7&Refer=top)<br />
 8. [谷歌AI认定美国登月照片或造假](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8CAI%E8%AE%A4%E5%AE%9A%E7%BE%8E%E5%9B%BD%E7%99%BB%E6%9C%88%E7%85%A7%E7%89%87%E6%88%96%E9%80%A0%E5%81%87%23&t=31&band_rank=8&Refer=top)<br />
