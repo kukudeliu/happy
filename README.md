@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 10:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 10:42:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [高以翔父亲去世](https://www.baidu.com/s?wd=%E9%AB%98%E4%BB%A5%E7%BF%94%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李雪琴没能笑着走出理发店](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E7%90%B4%E6%B2%A1%E8%83%BD%E7%AC%91%E7%9D%80%E8%B5%B0%E5%87%BA%E7%90%86%E5%8F%91%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [哈尔滨“宝妈”群13人被抓](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E2%80%9C%E5%AE%9D%E5%A6%88%E2%80%9D%E7%BE%A413%E4%BA%BA%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：别怪办事群众要发火](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%88%AB%E6%80%AA%E5%8A%9E%E4%BA%8B%E7%BE%A4%E4%BC%97%E8%A6%81%E5%8F%91%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [农民大姐婚礼上演唱惊艳全场](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E5%A4%A7%E5%A7%90%E5%A9%9A%E7%A4%BC%E4%B8%8A%E6%BC%94%E5%94%B1%E6%83%8A%E8%89%B3%E5%85%A8%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [济南辟谣学校附近出现人贩子](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E8%BE%9F%E8%B0%A3%E5%AD%A6%E6%A0%A1%E9%99%84%E8%BF%91%E5%87%BA%E7%8E%B0%E4%BA%BA%E8%B4%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [高以翔父亲去世](https://www.baidu.com/s?wd=%E9%AB%98%E4%BB%A5%E7%BF%94%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李雪琴没能笑着走出理发店](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E7%90%B4%E6%B2%A1%E8%83%BD%E7%AC%91%E7%9D%80%E8%B5%B0%E5%87%BA%E7%90%86%E5%8F%91%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [哈尔滨“宝妈”群13人被抓](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E2%80%9C%E5%AE%9D%E5%A6%88%E2%80%9D%E7%BE%A413%E4%BA%BA%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：别怪办事群众要发火](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%88%AB%E6%80%AA%E5%8A%9E%E4%BA%8B%E7%BE%A4%E4%BC%97%E8%A6%81%E5%8F%91%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [农民大姐婚礼上演唱惊艳全场](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E5%A4%A7%E5%A7%90%E5%A9%9A%E7%A4%BC%E4%B8%8A%E6%BC%94%E5%94%B1%E6%83%8A%E8%89%B3%E5%85%A8%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [济南辟谣学校附近出现人贩子](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E8%BE%9F%E8%B0%A3%E5%AD%A6%E6%A0%A1%E9%99%84%E8%BF%91%E5%87%BA%E7%8E%B0%E4%BA%BA%E8%B4%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
