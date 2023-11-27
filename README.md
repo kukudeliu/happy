@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 13:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 13:06:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨幂朵拉头](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9C%B5%E6%8B%89%E5%A4%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [马航MH370乘客家属索赔案今天开庭](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AAMH370%E4%B9%98%E5%AE%A2%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94%E6%A1%88%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%BA%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [YG官网删除权志龙](https://s.weibo.com/weibo?q=%23YG%E5%AE%98%E7%BD%91%E5%88%A0%E9%99%A4%E6%9D%83%E5%BF%97%E9%BE%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [羽绒服涨价把市场让给了军大衣](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%B6%A8%E4%BB%B7%E6%8A%8A%E5%B8%82%E5%9C%BA%E8%AE%A9%E7%BB%99%E4%BA%86%E5%86%9B%E5%A4%A7%E8%A1%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [暮光之城 重启](https://s.weibo.com/weibo?q=%E6%9A%AE%E5%85%89%E4%B9%8B%E5%9F%8E%20%E9%87%8D%E5%90%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
