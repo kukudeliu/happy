@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 14:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 14:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [马航家属称没有赔偿一分钱](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AA%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%B2%A1%E6%9C%89%E8%B5%94%E5%81%BF%E4%B8%80%E5%88%86%E9%92%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨幂朵拉头](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9C%B5%E6%8B%89%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [清华北大学生排队抢鹅腿](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8E%92%E9%98%9F%E6%8A%A2%E9%B9%85%E8%85%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [暮光之城 重启](https://s.weibo.com/weibo?q=%E6%9A%AE%E5%85%89%E4%B9%8B%E5%9F%8E%20%E9%87%8D%E5%90%AF&t=31&band_rank=9&Refer=top)<br />
+9. [YG官网删除权志龙](https://s.weibo.com/weibo?q=%23YG%E5%AE%98%E7%BD%91%E5%88%A0%E9%99%A4%E6%9D%83%E5%BF%97%E9%BE%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [呼吸道疾病高发季如何应对？](https://www.baidu.com/s?wd=%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E9%AB%98%E5%8F%91%E5%AD%A3%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [涨价的羽绒服把市场让给了军大衣？](https://www.baidu.com/s?wd=%E6%B6%A8%E4%BB%B7%E7%9A%84%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%8A%8A%E5%B8%82%E5%9C%BA%E8%AE%A9%E7%BB%99%E4%BA%86%E5%86%9B%E5%A4%A7%E8%A1%A3%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子婚后通讯录几乎被丈夫删光](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%A9%9A%E5%90%8E%E9%80%9A%E8%AE%AF%E5%BD%95%E5%87%A0%E4%B9%8E%E8%A2%AB%E4%B8%88%E5%A4%AB%E5%88%A0%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [香港民众“爆买”深圳各大超市](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%B0%91%E4%BC%97%E2%80%9C%E7%88%86%E4%B9%B0%E2%80%9D%E6%B7%B1%E5%9C%B3%E5%90%84%E5%A4%A7%E8%B6%85%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [4名中国留学生车祸身亡 皆未成年](https://www.baidu.com/s?wd=4%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1+%E7%9A%86%E6%9C%AA%E6%88%90%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [4名中国留学生车祸身亡 皆未成年](https://www.baidu.com/s?wd=4%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1+%E7%9A%86%E6%9C%AA%E6%88%90%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [香港民众“爆买”深圳各大超市](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%B0%91%E4%BC%97%E2%80%9C%E7%88%86%E4%B9%B0%E2%80%9D%E6%B7%B1%E5%9C%B3%E5%90%84%E5%A4%A7%E8%B6%85%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [济南辟谣学校附近出现人贩子](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E8%BE%9F%E8%B0%A3%E5%AD%A6%E6%A0%A1%E9%99%84%E8%BF%91%E5%87%BA%E7%8E%B0%E4%BA%BA%E8%B4%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [呼吸道疾病高发季如何应对？](https://www.baidu.com/s?wd=%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E9%AB%98%E5%8F%91%E5%AD%A3%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [涨价的羽绒服把市场让给了军大衣？](https://www.baidu.com/s?wd=%E6%B6%A8%E4%BB%B7%E7%9A%84%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%8A%8A%E5%B8%82%E5%9C%BA%E8%AE%A9%E7%BB%99%E4%BA%86%E5%86%9B%E5%A4%A7%E8%A1%A3%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子婚后通讯录几乎被丈夫删光](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%A9%9A%E5%90%8E%E9%80%9A%E8%AE%AF%E5%BD%95%E5%87%A0%E4%B9%8E%E8%A2%AB%E4%B8%88%E5%A4%AB%E5%88%A0%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [香港民众“爆买”深圳各大超市](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%B0%91%E4%BC%97%E2%80%9C%E7%88%86%E4%B9%B0%E2%80%9D%E6%B7%B1%E5%9C%B3%E5%90%84%E5%A4%A7%E8%B6%85%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [4名中国留学生车祸身亡 皆未成年](https://www.baidu.com/s?wd=4%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1+%E7%9A%86%E6%9C%AA%E6%88%90%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [4名中国留学生车祸身亡 皆未成年](https://www.baidu.com/s?wd=4%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1+%E7%9A%86%E6%9C%AA%E6%88%90%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [香港民众“爆买”深圳各大超市](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%B0%91%E4%BC%97%E2%80%9C%E7%88%86%E4%B9%B0%E2%80%9D%E6%B7%B1%E5%9C%B3%E5%90%84%E5%A4%A7%E8%B6%85%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [济南辟谣学校附近出现人贩子](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E8%BE%9F%E8%B0%A3%E5%AD%A6%E6%A0%A1%E9%99%84%E8%BF%91%E5%87%BA%E7%8E%B0%E4%BA%BA%E8%B4%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
