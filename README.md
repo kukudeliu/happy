@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 00:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 00:02:01</h4></div>
 
 > 微博  
 
 1. [顾客吐槽带娃去海底捞看到科目三很不适](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BD%E5%B8%A6%E5%A8%83%E5%8E%BB%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%9C%8B%E5%88%B0%E7%A7%91%E7%9B%AE%E4%B8%89%E5%BE%88%E4%B8%8D%E9%80%82%23&t=31&band_rank=1&Refer=top)<br />
-2. [昆明震感](https://s.weibo.com/weibo?q=%E6%98%86%E6%98%8E%E9%9C%87%E6%84%9F&t=31&band_rank=2&Refer=top)<br />
+2. [赵丽颖工作室发了三张许半夏](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E4%BA%86%E4%B8%89%E5%BC%A0%E8%AE%B8%E5%8D%8A%E5%A4%8F%23&t=31&band_rank=2&Refer=top)<br />
 3. [如何预防呼吸道疾病感染](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E9%A2%84%E9%98%B2%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E6%84%9F%E6%9F%93%23&t=31&band_rank=3&Refer=top)<br />
-4. [赵丽颖工作室发了三张许半夏](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E4%BA%86%E4%B8%89%E5%BC%A0%E8%AE%B8%E5%8D%8A%E5%A4%8F%23&t=31&band_rank=4&Refer=top)<br />
+4. [昆明震感](https://s.weibo.com/weibo?q=%E6%98%86%E6%98%8E%E9%9C%87%E6%84%9F&t=31&band_rank=4&Refer=top)<br />
 5. [宋江好帅](https://s.weibo.com/weibo?q=%E5%AE%8B%E6%B1%9F%E5%A5%BD%E5%B8%85&t=31&band_rank=5&Refer=top)<br />
 6. [张雪峰为员工多发300元工资请吃火锅](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E4%B8%BA%E5%91%98%E5%B7%A5%E5%A4%9A%E5%8F%91300%E5%85%83%E5%B7%A5%E8%B5%84%E8%AF%B7%E5%90%83%E7%81%AB%E9%94%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [原来孕晚期脚会发臭](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%AD%95%E6%99%9A%E6%9C%9F%E8%84%9A%E4%BC%9A%E5%8F%91%E8%87%AD&t=31&band_rank=7&Refer=top)<br />
