@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 10:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 10:50:02</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [在数贸会过“未来”的一天](https://www.baidu.com/s?wd=%E5%9C%A8%E6%95%B0%E8%B4%B8%E4%BC%9A%E8%BF%87%E2%80%9C%E6%9C%AA%E6%9D%A5%E2%80%9D%E7%9A%84%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高以翔父亲去世](https://www.baidu.com/s?wd=%E9%AB%98%E4%BB%A5%E7%BF%94%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李雪琴没能笑着走出理发店](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E7%90%B4%E6%B2%A1%E8%83%BD%E7%AC%91%E7%9D%80%E8%B5%B0%E5%87%BA%E7%90%86%E5%8F%91%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [韩国国家情报机构领导层集体辞职](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84%E9%A2%86%E5%AF%BC%E5%B1%82%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [农民大姐婚礼上演唱惊艳全场](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E5%A4%A7%E5%A7%90%E5%A9%9A%E7%A4%BC%E4%B8%8A%E6%BC%94%E5%94%B1%E6%83%8A%E8%89%B3%E5%85%A8%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [重庆一加油站随意控制出油量被罚](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%8A%A0%E6%B2%B9%E7%AB%99%E9%9A%8F%E6%84%8F%E6%8E%A7%E5%88%B6%E5%87%BA%E6%B2%B9%E9%87%8F%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [济南辟谣学校附近出现人贩子](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E8%BE%9F%E8%B0%A3%E5%AD%A6%E6%A0%A1%E9%99%84%E8%BF%91%E5%87%BA%E7%8E%B0%E4%BA%BA%E8%B4%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [在数贸会过“未来”的一天](https://www.baidu.com/s?wd=%E5%9C%A8%E6%95%B0%E8%B4%B8%E4%BC%9A%E8%BF%87%E2%80%9C%E6%9C%AA%E6%9D%A5%E2%80%9D%E7%9A%84%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高以翔父亲去世](https://www.baidu.com/s?wd=%E9%AB%98%E4%BB%A5%E7%BF%94%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李雪琴没能笑着走出理发店](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E7%90%B4%E6%B2%A1%E8%83%BD%E7%AC%91%E7%9D%80%E8%B5%B0%E5%87%BA%E7%90%86%E5%8F%91%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [韩国国家情报机构领导层集体辞职](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84%E9%A2%86%E5%AF%BC%E5%B1%82%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [农民大姐婚礼上演唱惊艳全场](https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E5%A4%A7%E5%A7%90%E5%A9%9A%E7%A4%BC%E4%B8%8A%E6%BC%94%E5%94%B1%E6%83%8A%E8%89%B3%E5%85%A8%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [重庆一加油站随意控制出油量被罚](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%8A%A0%E6%B2%B9%E7%AB%99%E9%9A%8F%E6%84%8F%E6%8E%A7%E5%88%B6%E5%87%BA%E6%B2%B9%E9%87%8F%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [济南辟谣学校附近出现人贩子](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E8%BE%9F%E8%B0%A3%E5%AD%A6%E6%A0%A1%E9%99%84%E8%BF%91%E5%87%BA%E7%8E%B0%E4%BA%BA%E8%B4%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
