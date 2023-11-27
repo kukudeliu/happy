@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 07:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 07:49:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [支原体肺炎是新冠的变异吗](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E7%9A%84%E5%8F%98%E5%BC%82%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [经济恢复向好态势](https://www.baidu.com/s?wd=%E7%BB%8F%E6%B5%8E%E6%81%A2%E5%A4%8D%E5%90%91%E5%A5%BD%E6%80%81%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长吐槽海底捞科目三：恶心](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%A7%91%E7%9B%AE%E4%B8%89%EF%BC%9A%E6%81%B6%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [长春高空抛物致死案：被告望安乐死](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%87%B4%E6%AD%BB%E6%A1%88%EF%BC%9A%E8%A2%AB%E5%91%8A%E6%9C%9B%E5%AE%89%E4%B9%90%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子每天喝30斤水去50次厕所](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E5%96%9D30%E6%96%A4%E6%B0%B4%E5%8E%BB50%E6%AC%A1%E5%8E%95%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京一声“坐下” 官员们慌忙找位置](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%80%E5%A3%B0%E2%80%9C%E5%9D%90%E4%B8%8B%E2%80%9D+%E5%AE%98%E5%91%98%E4%BB%AC%E6%85%8C%E5%BF%99%E6%89%BE%E4%BD%8D%E7%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子每天喝30斤水去50次厕所](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E5%96%9D30%E6%96%A4%E6%B0%B4%E5%8E%BB50%E6%AC%A1%E5%8E%95%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [普京一声“坐下” 官员们慌忙找位置](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%80%E5%A3%B0%E2%80%9C%E5%9D%90%E4%B8%8B%E2%80%9D+%E5%AE%98%E5%91%98%E4%BB%AC%E6%85%8C%E5%BF%99%E6%89%BE%E4%BD%8D%E7%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [长春高空抛物致死案：被告望安乐死](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%87%B4%E6%AD%BB%E6%A1%88%EF%BC%9A%E8%A2%AB%E5%91%8A%E6%9C%9B%E5%AE%89%E4%B9%90%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [戴尔供应链将撤离中国？](https://www.baidu.com/s?wd=%E6%88%B4%E5%B0%94%E4%BE%9B%E5%BA%94%E9%93%BE%E5%B0%86%E6%92%A4%E7%A6%BB%E4%B8%AD%E5%9B%BD%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [支原体肺炎是新冠的变异吗](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E7%9A%84%E5%8F%98%E5%BC%82%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [经济恢复向好态势](https://www.baidu.com/s?wd=%E7%BB%8F%E6%B5%8E%E6%81%A2%E5%A4%8D%E5%90%91%E5%A5%BD%E6%80%81%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [家长吐槽海底捞科目三：恶心](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%A7%91%E7%9B%AE%E4%B8%89%EF%BC%9A%E6%81%B6%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [长春高空抛物致死案：被告望安乐死](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%87%B4%E6%AD%BB%E6%A1%88%EF%BC%9A%E8%A2%AB%E5%91%8A%E6%9C%9B%E5%AE%89%E4%B9%90%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子每天喝30斤水去50次厕所](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E5%96%9D30%E6%96%A4%E6%B0%B4%E5%8E%BB50%E6%AC%A1%E5%8E%95%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京一声“坐下” 官员们慌忙找位置](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%80%E5%A3%B0%E2%80%9C%E5%9D%90%E4%B8%8B%E2%80%9D+%E5%AE%98%E5%91%98%E4%BB%AC%E6%85%8C%E5%BF%99%E6%89%BE%E4%BD%8D%E7%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子每天喝30斤水去50次厕所](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E5%96%9D30%E6%96%A4%E6%B0%B4%E5%8E%BB50%E6%AC%A1%E5%8E%95%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [普京一声“坐下” 官员们慌忙找位置](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%80%E5%A3%B0%E2%80%9C%E5%9D%90%E4%B8%8B%E2%80%9D+%E5%AE%98%E5%91%98%E4%BB%AC%E6%85%8C%E5%BF%99%E6%89%BE%E4%BD%8D%E7%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [长春高空抛物致死案：被告望安乐死](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%87%B4%E6%AD%BB%E6%A1%88%EF%BC%9A%E8%A2%AB%E5%91%8A%E6%9C%9B%E5%AE%89%E4%B9%90%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [戴尔供应链将撤离中国？](https://www.baidu.com/s?wd=%E6%88%B4%E5%B0%94%E4%BE%9B%E5%BA%94%E9%93%BE%E5%B0%86%E6%92%A4%E7%A6%BB%E4%B8%AD%E5%9B%BD%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
