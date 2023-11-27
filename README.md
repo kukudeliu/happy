@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 17:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 17:47:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [江苏报告33144例流感](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%8A%A5%E5%91%8A33144%E4%BE%8B%E6%B5%81%E6%84%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [张文宏称支原体肺炎和新冠是两码事](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E5%92%8C%E6%96%B0%E5%86%A0%E6%98%AF%E4%B8%A4%E7%A0%81%E4%BA%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [金泰妍回归](https://s.weibo.com/weibo?q=%E9%87%91%E6%B3%B0%E5%A6%8D%E5%9B%9E%E5%BD%92&t=31&band_rank=7&Refer=top)<br />
-8. [李苗苗 爱你到嫉妒你的鞋子](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%8B%97%E8%8B%97%20%E7%88%B1%E4%BD%A0%E5%88%B0%E5%AB%89%E5%A6%92%E4%BD%A0%E7%9A%84%E9%9E%8B%E5%AD%90&t=31&band_rank=8&Refer=top)<br />
-9. [中共中央政治局召开会议](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
+8. [贴身衣物最好不要买黑色](https://s.weibo.com/weibo?q=%E8%B4%B4%E8%BA%AB%E8%A1%A3%E7%89%A9%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81%E4%B9%B0%E9%BB%91%E8%89%B2&t=31&band_rank=8&Refer=top)<br />
+9. [李苗苗 爱你到嫉妒你的鞋子](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%8B%97%E8%8B%97%20%E7%88%B1%E4%BD%A0%E5%88%B0%E5%AB%89%E5%A6%92%E4%BD%A0%E7%9A%84%E9%9E%8B%E5%AD%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
