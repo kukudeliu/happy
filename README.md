@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 23:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 23:28:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [家长吐槽海底捞科目三：恶心](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%A7%91%E7%9B%AE%E4%B8%89%EF%BC%9A%E6%81%B6%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [滴滴崩了](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [马斯克穿防弹衣现身以色列](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A9%BF%E9%98%B2%E5%BC%B9%E8%A1%A3%E7%8E%B0%E8%BA%AB%E4%BB%A5%E8%89%B2%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [合胞病毒传染性约是流感2.5倍](https://www.baidu.com/s?wd=%E5%90%88%E8%83%9E%E7%97%85%E6%AF%92%E4%BC%A0%E6%9F%93%E6%80%A7%E7%BA%A6%E6%98%AF%E6%B5%81%E6%84%9F2.5%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [深圳一公司给员工放假10个月](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%85%AC%E5%8F%B8%E7%BB%99%E5%91%98%E5%B7%A5%E6%94%BE%E5%81%8710%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [戴尔供应链将撤离中国？](https://www.baidu.com/s?wd=%E6%88%B4%E5%B0%94%E4%BE%9B%E5%BA%94%E9%93%BE%E5%B0%86%E6%92%A4%E7%A6%BB%E4%B8%AD%E5%9B%BD%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [家长吐槽海底捞科目三：恶心](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%A7%91%E7%9B%AE%E4%B8%89%EF%BC%9A%E6%81%B6%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [滴滴崩了](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [马斯克穿防弹衣现身以色列](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A9%BF%E9%98%B2%E5%BC%B9%E8%A1%A3%E7%8E%B0%E8%BA%AB%E4%BB%A5%E8%89%B2%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [合胞病毒传染性约是流感2.5倍](https://www.baidu.com/s?wd=%E5%90%88%E8%83%9E%E7%97%85%E6%AF%92%E4%BC%A0%E6%9F%93%E6%80%A7%E7%BA%A6%E6%98%AF%E6%B5%81%E6%84%9F2.5%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [深圳一公司给员工放假10个月](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%85%AC%E5%8F%B8%E7%BB%99%E5%91%98%E5%B7%A5%E6%94%BE%E5%81%8710%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [戴尔供应链将撤离中国？](https://www.baidu.com/s?wd=%E6%88%B4%E5%B0%94%E4%BE%9B%E5%BA%94%E9%93%BE%E5%B0%86%E6%92%A4%E7%A6%BB%E4%B8%AD%E5%9B%BD%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
