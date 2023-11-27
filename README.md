@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 15:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 15:03:01</h4></div>
 
 > 微博  
 
 1. [特斯拉要求刹车失灵事件女车主赔偿500万](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E8%A6%81%E6%B1%82%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E5%A5%B3%E8%BD%A6%E4%B8%BB%E8%B5%94%E5%81%BF500%E4%B8%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [16岁女孩未考上985遭父亲家暴](https://s.weibo.com/weibo?q=%2316%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%9C%AA%E8%80%83%E4%B8%8A985%E9%81%AD%E7%88%B6%E4%BA%B2%E5%AE%B6%E6%9A%B4%23&t=31&band_rank=2&Refer=top)<br />
+2. [谢晋的大女儿去世](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E6%99%8B%E7%9A%84%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [最美北京我的家](https://s.weibo.com/weibo?q=%23%E6%9C%80%E7%BE%8E%E5%8C%97%E4%BA%AC%E6%88%91%E7%9A%84%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [张艺谋儿子 巴黎名媛舞会](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%84%BF%E5%AD%90%20%E5%B7%B4%E9%BB%8E%E5%90%8D%E5%AA%9B%E8%88%9E%E4%BC%9A&t=31&band_rank=4&Refer=top)<br />
-5. [谢晋的大女儿去世](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E6%99%8B%E7%9A%84%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
+5. [16岁女孩未考上985遭父亲家暴](https://s.weibo.com/weibo?q=%2316%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%9C%AA%E8%80%83%E4%B8%8A985%E9%81%AD%E7%88%B6%E4%BA%B2%E5%AE%B6%E6%9A%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [人民大学食堂自研烤鹅腿定价15元](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E9%A3%9F%E5%A0%82%E8%87%AA%E7%A0%94%E7%83%A4%E9%B9%85%E8%85%BF%E5%AE%9A%E4%BB%B715%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨幂朵拉头](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9C%B5%E6%8B%89%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [星光大赏 嘉宾](https://s.weibo.com/weibo?q=%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%20%E5%98%89%E5%AE%BE&t=31&band_rank=8&Refer=top)<br />
