@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 16:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 16:07:01</h4></div>
 
 > 微博  
 
-1. [特斯拉要求刹车失灵事件女车主赔偿500万](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E8%A6%81%E6%B1%82%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E5%A5%B3%E8%BD%A6%E4%B8%BB%E8%B5%94%E5%81%BF500%E4%B8%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [江苏报告33144例流感](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%8A%A5%E5%91%8A33144%E4%BE%8B%E6%B5%81%E6%84%9F%23&t=31&band_rank=2&Refer=top)<br />
+1. [江苏报告33144例流感](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%8A%A5%E5%91%8A33144%E4%BE%8B%E6%B5%81%E6%84%9F%23&t=31&band_rank=1&Refer=top)<br />
+2. [特斯拉要求刹车失灵事件女车主赔偿500万](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E8%A6%81%E6%B1%82%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E5%A5%B3%E8%BD%A6%E4%B8%BB%E8%B5%94%E5%81%BF500%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [最美北京我的家](https://s.weibo.com/weibo?q=%23%E6%9C%80%E7%BE%8E%E5%8C%97%E4%BA%AC%E6%88%91%E7%9A%84%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [张艺谋儿子 巴黎名媛舞会](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%84%BF%E5%AD%90%20%E5%B7%B4%E9%BB%8E%E5%90%8D%E5%AA%9B%E8%88%9E%E4%BC%9A&t=31&band_rank=4&Refer=top)<br />
 5. [韩网评我可以47](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E8%AF%84%E6%88%91%E5%8F%AF%E4%BB%A547%23&t=31&band_rank=5&Refer=top)<br />
