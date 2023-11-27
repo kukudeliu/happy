@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 14:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 14:55:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [谢晋的大女儿去世](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E6%99%8B%E7%9A%84%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [人民大学食堂自研烤鹅腿定价15元](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E9%A3%9F%E5%A0%82%E8%87%AA%E7%A0%94%E7%83%A4%E9%B9%85%E8%85%BF%E5%AE%9A%E4%BB%B715%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨幂朵拉头](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9C%B5%E6%8B%89%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [马航家属称没有赔偿一分钱](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AA%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%B2%A1%E6%9C%89%E8%B5%94%E5%81%BF%E4%B8%80%E5%88%86%E9%92%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [星光大赏 嘉宾](https://s.weibo.com/weibo?q=%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%20%E5%98%89%E5%AE%BE&t=31&band_rank=9&Refer=top)<br />
+8. [星光大赏 嘉宾](https://s.weibo.com/weibo?q=%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%20%E5%98%89%E5%AE%BE&t=31&band_rank=8&Refer=top)<br />
+9. [马航家属称没有赔偿一分钱](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AA%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%B2%A1%E6%9C%89%E8%B5%94%E5%81%BF%E4%B8%80%E5%88%86%E9%92%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
