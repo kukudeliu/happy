@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 22:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 22:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [家长吐槽海底捞科目三：恶心](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%A7%91%E7%9B%AE%E4%B8%89%EF%BC%9A%E6%81%B6%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马斯克穿防弹衣现身以色列](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A9%BF%E9%98%B2%E5%BC%B9%E8%A1%A3%E7%8E%B0%E8%BA%AB%E4%BB%A5%E8%89%B2%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体：A股市场进入发展新阶段](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9AA%E8%82%A1%E5%B8%82%E5%9C%BA%E8%BF%9B%E5%85%A5%E5%8F%91%E5%B1%95%E6%96%B0%E9%98%B6%E6%AE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [腾格里沙漠污染事件十年后](https://www.baidu.com/s?wd=%E8%85%BE%E6%A0%BC%E9%87%8C%E6%B2%99%E6%BC%A0%E6%B1%A1%E6%9F%93%E4%BA%8B%E4%BB%B6%E5%8D%81%E5%B9%B4%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [潘粤明张雨绮《南海归墟》开播](https://www.baidu.com/s?wd=%E6%BD%98%E7%B2%A4%E6%98%8E%E5%BC%A0%E9%9B%A8%E7%BB%AE%E3%80%8A%E5%8D%97%E6%B5%B7%E5%BD%92%E5%A2%9F%E3%80%8B%E5%BC%80%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [戴尔供应链将撤离中国？](https://www.baidu.com/s?wd=%E6%88%B4%E5%B0%94%E4%BE%9B%E5%BA%94%E9%93%BE%E5%B0%86%E6%92%A4%E7%A6%BB%E4%B8%AD%E5%9B%BD%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [家长吐槽海底捞科目三：恶心](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%A7%91%E7%9B%AE%E4%B8%89%EF%BC%9A%E6%81%B6%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马斯克穿防弹衣现身以色列](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A9%BF%E9%98%B2%E5%BC%B9%E8%A1%A3%E7%8E%B0%E8%BA%AB%E4%BB%A5%E8%89%B2%E5%88%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体：A股市场进入发展新阶段](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9AA%E8%82%A1%E5%B8%82%E5%9C%BA%E8%BF%9B%E5%85%A5%E5%8F%91%E5%B1%95%E6%96%B0%E9%98%B6%E6%AE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [腾格里沙漠污染事件十年后](https://www.baidu.com/s?wd=%E8%85%BE%E6%A0%BC%E9%87%8C%E6%B2%99%E6%BC%A0%E6%B1%A1%E6%9F%93%E4%BA%8B%E4%BB%B6%E5%8D%81%E5%B9%B4%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [潘粤明张雨绮《南海归墟》开播](https://www.baidu.com/s?wd=%E6%BD%98%E7%B2%A4%E6%98%8E%E5%BC%A0%E9%9B%A8%E7%BB%AE%E3%80%8A%E5%8D%97%E6%B5%B7%E5%BD%92%E5%A2%9F%E3%80%8B%E5%BC%80%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [戴尔供应链将撤离中国？](https://www.baidu.com/s?wd=%E6%88%B4%E5%B0%94%E4%BE%9B%E5%BA%94%E9%93%BE%E5%B0%86%E6%92%A4%E7%A6%BB%E4%B8%AD%E5%9B%BD%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
