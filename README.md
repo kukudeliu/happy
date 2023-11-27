@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 20:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 20:59:01</h4></div>
 
 > 微博  
 
@@ -21,10 +21,10 @@
 2. [广电总局：电视开机应默认全屏直播](https://www.baidu.com/s?wd=%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%EF%BC%9A%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%BA%94%E9%BB%98%E8%AE%A4%E5%85%A8%E5%B1%8F%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [支原体肺炎是新冠的变异吗](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E7%9A%84%E5%8F%98%E5%BC%82%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [以国之名 接英雄回家](https://www.baidu.com/s?wd=%E4%BB%A5%E5%9B%BD%E4%B9%8B%E5%90%8D+%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [解放军中缅边境演习视频曝光](https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E6%BC%94%E4%B9%A0%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [家长吐槽海底捞科目三：恶心](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%A7%91%E7%9B%AE%E4%B8%89%EF%BC%9A%E6%81%B6%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [姚振华及宝能集团被强执65.7亿元](https://www.baidu.com/s?wd=%E5%A7%9A%E6%8C%AF%E5%8D%8E%E5%8F%8A%E5%AE%9D%E8%83%BD%E9%9B%86%E5%9B%A2%E8%A2%AB%E5%BC%BA%E6%89%A765.7%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [周冬雨自称高级脸遭吐槽](https://www.baidu.com/s?wd=%E5%91%A8%E5%86%AC%E9%9B%A8%E8%87%AA%E7%A7%B0%E9%AB%98%E7%BA%A7%E8%84%B8%E9%81%AD%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [家长吐槽海底捞科目三：恶心](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%A7%91%E7%9B%AE%E4%B8%89%EF%BC%9A%E6%81%B6%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [姚振华及宝能集团被强执65.7亿元](https://www.baidu.com/s?wd=%E5%A7%9A%E6%8C%AF%E5%8D%8E%E5%8F%8A%E5%AE%9D%E8%83%BD%E9%9B%86%E5%9B%A2%E8%A2%AB%E5%BC%BA%E6%89%A765.7%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [合胞病毒传染性约是流感2.5倍](https://www.baidu.com/s?wd=%E5%90%88%E8%83%9E%E7%97%85%E6%AF%92%E4%BC%A0%E6%9F%93%E6%80%A7%E7%BA%A6%E6%98%AF%E6%B5%81%E6%84%9F2.5%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [深圳一公司给员工放假10个月](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%85%AC%E5%8F%B8%E7%BB%99%E5%91%98%E5%B7%A5%E6%94%BE%E5%81%8710%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海辟谣年底停发新能源牌照](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E5%B9%B4%E5%BA%95%E5%81%9C%E5%8F%91%E6%96%B0%E8%83%BD%E6%BA%90%E7%89%8C%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -33,8 +33,8 @@
 2. [广电总局：电视开机应默认全屏直播](https://www.baidu.com/s?wd=%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%EF%BC%9A%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%BA%94%E9%BB%98%E8%AE%A4%E5%85%A8%E5%B1%8F%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [支原体肺炎是新冠的变异吗](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E7%9A%84%E5%8F%98%E5%BC%82%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [以国之名 接英雄回家](https://www.baidu.com/s?wd=%E4%BB%A5%E5%9B%BD%E4%B9%8B%E5%90%8D+%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [解放军中缅边境演习视频曝光](https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E6%BC%94%E4%B9%A0%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [家长吐槽海底捞科目三：恶心](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%A7%91%E7%9B%AE%E4%B8%89%EF%BC%9A%E6%81%B6%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [姚振华及宝能集团被强执65.7亿元](https://www.baidu.com/s?wd=%E5%A7%9A%E6%8C%AF%E5%8D%8E%E5%8F%8A%E5%AE%9D%E8%83%BD%E9%9B%86%E5%9B%A2%E8%A2%AB%E5%BC%BA%E6%89%A765.7%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [周冬雨自称高级脸遭吐槽](https://www.baidu.com/s?wd=%E5%91%A8%E5%86%AC%E9%9B%A8%E8%87%AA%E7%A7%B0%E9%AB%98%E7%BA%A7%E8%84%B8%E9%81%AD%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [家长吐槽海底捞科目三：恶心](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%A7%91%E7%9B%AE%E4%B8%89%EF%BC%9A%E6%81%B6%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [姚振华及宝能集团被强执65.7亿元](https://www.baidu.com/s?wd=%E5%A7%9A%E6%8C%AF%E5%8D%8E%E5%8F%8A%E5%AE%9D%E8%83%BD%E9%9B%86%E5%9B%A2%E8%A2%AB%E5%BC%BA%E6%89%A765.7%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [合胞病毒传染性约是流感2.5倍](https://www.baidu.com/s?wd=%E5%90%88%E8%83%9E%E7%97%85%E6%AF%92%E4%BC%A0%E6%9F%93%E6%80%A7%E7%BA%A6%E6%98%AF%E6%B5%81%E6%84%9F2.5%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [深圳一公司给员工放假10个月](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%85%AC%E5%8F%B8%E7%BB%99%E5%91%98%E5%B7%A5%E6%94%BE%E5%81%8710%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海辟谣年底停发新能源牌照](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E5%B9%B4%E5%BA%95%E5%81%9C%E5%8F%91%E6%96%B0%E8%83%BD%E6%BA%90%E7%89%8C%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
