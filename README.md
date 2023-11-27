@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 23:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 23:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [外卖酸菜鱼的生存环境](https://s.weibo.com/weibo?q=%E5%A4%96%E5%8D%96%E9%85%B8%E8%8F%9C%E9%B1%BC%E7%9A%84%E7%94%9F%E5%AD%98%E7%8E%AF%E5%A2%83&t=31&band_rank=6&Refer=top)<br />
 7. [赵丽颖工作室发了三张许半夏](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E4%BA%86%E4%B8%89%E5%BC%A0%E8%AE%B8%E5%8D%8A%E5%A4%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [张杰 老友们下次聚](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%20%E8%80%81%E5%8F%8B%E4%BB%AC%E4%B8%8B%E6%AC%A1%E8%81%9A&t=31&band_rank=8&Refer=top)<br />
-9. [LNG 接SSM](https://s.weibo.com/weibo?q=LNG%20%E6%8E%A5SSM&t=31&band_rank=9&Refer=top)<br />
+9. [云南玉溪发生3.0级地震](https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E7%8E%89%E6%BA%AA%E5%8F%91%E7%94%9F3.0%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
