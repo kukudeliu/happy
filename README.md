@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 22:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 22:58:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [外卖酸菜鱼的生存环境](https://s.weibo.com/weibo?q=%E5%A4%96%E5%8D%96%E9%85%B8%E8%8F%9C%E9%B1%BC%E7%9A%84%E7%94%9F%E5%AD%98%E7%8E%AF%E5%A2%83&t=31&band_rank=4&Refer=top)<br />
 5. [宋江好帅](https://s.weibo.com/weibo?q=%E5%AE%8B%E6%B1%9F%E5%A5%BD%E5%B8%85&t=31&band_rank=5&Refer=top)<br />
 6. [张杰 老友们下次聚](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%20%E8%80%81%E5%8F%8B%E4%BB%AC%E4%B8%8B%E6%AC%A1%E8%81%9A&t=31&band_rank=6&Refer=top)<br />
-7. [何猷君 最强大脑变最强恋爱脑](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91%E5%8F%98%E6%9C%80%E5%BC%BA%E6%81%8B%E7%88%B1%E8%84%91&t=31&band_rank=7&Refer=top)<br />
-8. [在韩国化妆浪费了11w](https://s.weibo.com/weibo?q=%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%8C%96%E5%A6%86%E6%B5%AA%E8%B4%B9%E4%BA%8611w&t=31&band_rank=8&Refer=top)<br />
-9. [LNG 接SSM](https://s.weibo.com/weibo?q=LNG%20%E6%8E%A5SSM&t=31&band_rank=9&Refer=top)<br />
+7. [昆明地震](https://s.weibo.com/weibo?q=%E6%98%86%E6%98%8E%E5%9C%B0%E9%9C%87&t=31&band_rank=7&Refer=top)<br />
+8. [何猷君 最强大脑变最强恋爱脑](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91%E5%8F%98%E6%9C%80%E5%BC%BA%E6%81%8B%E7%88%B1%E8%84%91&t=31&band_rank=8&Refer=top)<br />
+9. [在韩国化妆浪费了11w](https://s.weibo.com/weibo?q=%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%8C%96%E5%A6%86%E6%B5%AA%E8%B4%B9%E4%BA%8611w&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
