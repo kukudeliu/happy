@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 14:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 14:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [暮光之城 重启](https://s.weibo.com/weibo?q=%E6%9A%AE%E5%85%89%E4%B9%8B%E5%9F%8E%20%E9%87%8D%E5%90%AF&t=31&band_rank=6&Refer=top)<br />
 7. [杨幂朵拉头](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9C%B5%E6%8B%89%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [清华北大学生排队抢鹅腿](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8E%92%E9%98%9F%E6%8A%A2%E9%B9%85%E8%85%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [郑州大学取消公众入校限制](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E5%85%AC%E4%BC%97%E5%85%A5%E6%A0%A1%E9%99%90%E5%88%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [YG官网删除权志龙](https://s.weibo.com/weibo?q=%23YG%E5%AE%98%E7%BD%91%E5%88%A0%E9%99%A4%E6%9D%83%E5%BF%97%E9%BE%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
