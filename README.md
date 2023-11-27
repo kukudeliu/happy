@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 17:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 17:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李苗苗 爱你到嫉妒你的鞋子](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%8B%97%E8%8B%97%20%E7%88%B1%E4%BD%A0%E5%88%B0%E5%AB%89%E5%A6%92%E4%BD%A0%E7%9A%84%E9%9E%8B%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
 7. [中共中央政治局召开会议](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE%23&t=31&band_rank=7&Refer=top)<br />
 8. [蛇之战好大一条蛇](https://s.weibo.com/weibo?q=%23%E8%9B%87%E4%B9%8B%E6%88%98%E5%A5%BD%E5%A4%A7%E4%B8%80%E6%9D%A1%E8%9B%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩网评我可以47](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E8%AF%84%E6%88%91%E5%8F%AF%E4%BB%A547%23&t=31&band_rank=9&Refer=top)<br />
+9. [金泰妍回归](https://s.weibo.com/weibo?q=%E9%87%91%E6%B3%B0%E5%A6%8D%E5%9B%9E%E5%BD%92&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
