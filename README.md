@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 09:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 09:57:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [1500和1500是不一样的](https://s.weibo.com/weibo?q=1500%E5%92%8C1500%E6%98%AF%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84&t=31&band_rank=5&Refer=top)<br />
 6. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=6&Refer=top)<br />
 7. [女子肉摊买回骨折边牧让它重获新生](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%82%89%E6%91%8A%E4%B9%B0%E5%9B%9E%E9%AA%A8%E6%8A%98%E8%BE%B9%E7%89%A7%E8%AE%A9%E5%AE%83%E9%87%8D%E8%8E%B7%E6%96%B0%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [B太 我被漠河人留住了](https://s.weibo.com/weibo?q=B%E5%A4%AA%20%E6%88%91%E8%A2%AB%E6%BC%A0%E6%B2%B3%E4%BA%BA%E7%95%99%E4%BD%8F%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [朵拉统治姐圈](https://s.weibo.com/weibo?q=%E6%9C%B5%E6%8B%89%E7%BB%9F%E6%B2%BB%E5%A7%90%E5%9C%88&t=31&band_rank=9&Refer=top)<br />
+8. [朵拉统治姐圈](https://s.weibo.com/weibo?q=%E6%9C%B5%E6%8B%89%E7%BB%9F%E6%B2%BB%E5%A7%90%E5%9C%88&t=31&band_rank=8&Refer=top)<br />
+9. [B太 我被漠河人留住了](https://s.weibo.com/weibo?q=B%E5%A4%AA%20%E6%88%91%E8%A2%AB%E6%BC%A0%E6%B2%B3%E4%BA%BA%E7%95%99%E4%BD%8F%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
