@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 21:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 21:26:01</h4></div>
 
 > 微博  
 
 1. [顾客吐槽带娃去海底捞看到科目三很不适](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BD%E5%B8%A6%E5%A8%83%E5%8E%BB%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%9C%8B%E5%88%B0%E7%A7%91%E7%9B%AE%E4%B8%89%E5%BE%88%E4%B8%8D%E9%80%82%23&t=31&band_rank=1&Refer=top)<br />
-2. [北京现有艾滋病感染者及患者27285人](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%8E%B0%E6%9C%89%E8%89%BE%E6%BB%8B%E7%97%85%E6%84%9F%E6%9F%93%E8%80%85%E5%8F%8A%E6%82%A3%E8%80%8527285%E4%BA%BA%23&t=31&band_rank=2&Refer=top)<br />
+2. [宋江好帅](https://s.weibo.com/weibo?q=%E5%AE%8B%E6%B1%9F%E5%A5%BD%E5%B8%85&t=31&band_rank=2&Refer=top)<br />
 3. [如何预防呼吸道疾病感染](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E9%A2%84%E9%98%B2%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E6%84%9F%E6%9F%93%23&t=31&band_rank=3&Refer=top)<br />
-4. [宋江好帅](https://s.weibo.com/weibo?q=%E5%AE%8B%E6%B1%9F%E5%A5%BD%E5%B8%85&t=31&band_rank=4&Refer=top)<br />
-5. [南海归墟陈牧驰 群演](https://s.weibo.com/weibo?q=%E5%8D%97%E6%B5%B7%E5%BD%92%E5%A2%9F%E9%99%88%E7%89%A7%E9%A9%B0%20%E7%BE%A4%E6%BC%94&t=31&band_rank=5&Refer=top)<br />
-6. [在韩国化妆浪费了11w](https://s.weibo.com/weibo?q=%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%8C%96%E5%A6%86%E6%B5%AA%E8%B4%B9%E4%BA%8611w&t=31&band_rank=6&Refer=top)<br />
+4. [北京现有艾滋病感染者及患者27285人](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%8E%B0%E6%9C%89%E8%89%BE%E6%BB%8B%E7%97%85%E6%84%9F%E6%9F%93%E8%80%85%E5%8F%8A%E6%82%A3%E8%80%8527285%E4%BA%BA%23&t=31&band_rank=4&Refer=top)<br />
+5. [在韩国化妆浪费了11w](https://s.weibo.com/weibo?q=%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%8C%96%E5%A6%86%E6%B5%AA%E8%B4%B9%E4%BA%8611w&t=31&band_rank=5&Refer=top)<br />
+6. [南海归墟陈牧驰 群演](https://s.weibo.com/weibo?q=%E5%8D%97%E6%B5%B7%E5%BD%92%E5%A2%9F%E9%99%88%E7%89%A7%E9%A9%B0%20%E7%BE%A4%E6%BC%94&t=31&band_rank=6&Refer=top)<br />
 7. [何猷君 最强大脑变最强恋爱脑](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91%E5%8F%98%E6%9C%80%E5%BC%BA%E6%81%8B%E7%88%B1%E8%84%91&t=31&band_rank=7&Refer=top)<br />
 8. [科目三](https://s.weibo.com/weibo?q=%E7%A7%91%E7%9B%AE%E4%B8%89&t=31&band_rank=8&Refer=top)<br />
 9. [丈夫第一次刷鞋将妻子千元靴变皮干](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%88%B7%E9%9E%8B%E5%B0%86%E5%A6%BB%E5%AD%90%E5%8D%83%E5%85%83%E9%9D%B4%E5%8F%98%E7%9A%AE%E5%B9%B2%23&t=31&band_rank=9&Refer=top)<br />
