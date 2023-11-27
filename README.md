@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 08:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 08:37:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=5&Refer=top)<br />
 6. [小杨哥演唱会 Twins](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%20Twins&t=31&band_rank=6&Refer=top)<br />
 7. [多伦多市附近交通事故4名中国留学生身亡](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BC%A6%E5%A4%9A%E5%B8%82%E9%99%84%E8%BF%91%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%854%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [秦岚的嗓子一点没耽误唠嗑](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E7%9A%84%E5%97%93%E5%AD%90%E4%B8%80%E7%82%B9%E6%B2%A1%E8%80%BD%E8%AF%AF%E5%94%A0%E5%97%91&t=31&band_rank=8&Refer=top)<br />
-9. [谷歌AI认定美国登月照片或造假](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8CAI%E8%AE%A4%E5%AE%9A%E7%BE%8E%E5%9B%BD%E7%99%BB%E6%9C%88%E7%85%A7%E7%89%87%E6%88%96%E9%80%A0%E5%81%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [谷歌AI认定美国登月照片或造假](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8CAI%E8%AE%A4%E5%AE%9A%E7%BE%8E%E5%9B%BD%E7%99%BB%E6%9C%88%E7%85%A7%E7%89%87%E6%88%96%E9%80%A0%E5%81%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [秦岚的嗓子一点没耽误唠嗑](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E7%9A%84%E5%97%93%E5%AD%90%E4%B8%80%E7%82%B9%E6%B2%A1%E8%80%BD%E8%AF%AF%E5%94%A0%E5%97%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
