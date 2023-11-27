@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 19:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 19:45:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [医生跪姿托举19分钟抢救产妇和胎儿](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%B7%AA%E5%A7%BF%E6%89%98%E4%B8%BE19%E5%88%86%E9%92%9F%E6%8A%A2%E6%95%91%E4%BA%A7%E5%A6%87%E5%92%8C%E8%83%8E%E5%84%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [刻俩萝卜章骗了300亿](https://s.weibo.com/weibo?q=%23%E5%88%BB%E4%BF%A9%E8%90%9D%E5%8D%9C%E7%AB%A0%E9%AA%97%E4%BA%86300%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [帅小伙地铁嘴对嘴心肺复苏救活大爷](https://s.weibo.com/weibo?q=%23%E5%B8%85%E5%B0%8F%E4%BC%99%E5%9C%B0%E9%93%81%E5%98%B4%E5%AF%B9%E5%98%B4%E5%BF%83%E8%82%BA%E5%A4%8D%E8%8B%8F%E6%95%91%E6%B4%BB%E5%A4%A7%E7%88%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [吴京口误 我是闫妮老公](https://s.weibo.com/weibo?q=%E5%90%B4%E4%BA%AC%E5%8F%A3%E8%AF%AF%20%E6%88%91%E6%98%AF%E9%97%AB%E5%A6%AE%E8%80%81%E5%85%AC&t=31&band_rank=8&Refer=top)<br />
-9. [新闻女王梁景仁遭心腹背叛](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E6%A2%81%E6%99%AF%E4%BB%81%E9%81%AD%E5%BF%83%E8%85%B9%E8%83%8C%E5%8F%9B%23&t=31&band_rank=9&Refer=top)<br />
+8. [新闻女王梁景仁遭心腹背叛](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E6%A2%81%E6%99%AF%E4%BB%81%E9%81%AD%E5%BF%83%E8%85%B9%E8%83%8C%E5%8F%9B%23&t=31&band_rank=8&Refer=top)<br />
+9. [吴京口误 我是闫妮老公](https://s.weibo.com/weibo?q=%E5%90%B4%E4%BA%AC%E5%8F%A3%E8%AF%AF%20%E6%88%91%E6%98%AF%E9%97%AB%E5%A6%AE%E8%80%81%E5%85%AC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
