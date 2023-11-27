@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 19:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-27 19:52:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [医生跪姿托举19分钟抢救产妇和胎儿](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%B7%AA%E5%A7%BF%E6%89%98%E4%B8%BE19%E5%88%86%E9%92%9F%E6%8A%A2%E6%95%91%E4%BA%A7%E5%A6%87%E5%92%8C%E8%83%8E%E5%84%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [刻俩萝卜章骗了300亿](https://s.weibo.com/weibo?q=%23%E5%88%BB%E4%BF%A9%E8%90%9D%E5%8D%9C%E7%AB%A0%E9%AA%97%E4%BA%86300%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [帅小伙地铁嘴对嘴心肺复苏救活大爷](https://s.weibo.com/weibo?q=%23%E5%B8%85%E5%B0%8F%E4%BC%99%E5%9C%B0%E9%93%81%E5%98%B4%E5%AF%B9%E5%98%B4%E5%BF%83%E8%82%BA%E5%A4%8D%E8%8B%8F%E6%95%91%E6%B4%BB%E5%A4%A7%E7%88%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [石原里美时隔3年回归拍剧](https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%8E%9F%E9%87%8C%E7%BE%8E%E6%97%B6%E9%9A%943%E5%B9%B4%E5%9B%9E%E5%BD%92%E6%8B%8D%E5%89%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [胡歌为刘诗诗新剧打call](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E4%B8%BA%E5%88%98%E8%AF%97%E8%AF%97%E6%96%B0%E5%89%A7%E6%89%93call%23&t=31&band_rank=9&Refer=top)<br />
+8. [胡歌为刘诗诗新剧打call](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E4%B8%BA%E5%88%98%E8%AF%97%E8%AF%97%E6%96%B0%E5%89%A7%E6%89%93call%23&t=31&band_rank=8&Refer=top)<br />
+9. [石原里美时隔3年回归拍剧](https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%8E%9F%E9%87%8C%E7%BE%8E%E6%97%B6%E9%9A%943%E5%B9%B4%E5%9B%9E%E5%BD%92%E6%8B%8D%E5%89%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
