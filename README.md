@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 13:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 13:52:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [热狗 我是骂所有人不只是杰伦](https://s.weibo.com/weibo?q=%E7%83%AD%E7%8B%97%20%E6%88%91%E6%98%AF%E9%AA%82%E6%89%80%E6%9C%89%E4%BA%BA%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%9D%B0%E4%BC%A6&t=31&band_rank=4&Refer=top)<br />
 5. [网红痞幼就盗用他人视频道歉](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%97%9E%E5%B9%BC%E5%B0%B1%E7%9B%97%E7%94%A8%E4%BB%96%E4%BA%BA%E8%A7%86%E9%A2%91%E9%81%93%E6%AD%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [王睡睡张硕oe](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9D%A1%E7%9D%A1%E5%BC%A0%E7%A1%95oe%23&t=31&band_rank=6&Refer=top)<br />
-7. [男子靠副业月入过万仍做公交司机](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%9D%A0%E5%89%AF%E4%B8%9A%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87%E4%BB%8D%E5%81%9A%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [秦海璐 三十岁没结婚没什么关系](https://s.weibo.com/weibo?q=%E7%A7%A6%E6%B5%B7%E7%92%90%20%E4%B8%89%E5%8D%81%E5%B2%81%E6%B2%A1%E7%BB%93%E5%A9%9A%E6%B2%A1%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB&t=31&band_rank=8&Refer=top)<br />
-9. [全勤没了](https://s.weibo.com/weibo?q=%E5%85%A8%E5%8B%A4%E6%B2%A1%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+7. [傅首尔老刘都没下车](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E8%80%81%E5%88%98%E9%83%BD%E6%B2%A1%E4%B8%8B%E8%BD%A6%23&t=31&band_rank=7&Refer=top)<br />
+8. [男子靠副业月入过万仍做公交司机](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%9D%A0%E5%89%AF%E4%B8%9A%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87%E4%BB%8D%E5%81%9A%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [秦海璐 三十岁没结婚没什么关系](https://s.weibo.com/weibo?q=%E7%A7%A6%E6%B5%B7%E7%92%90%20%E4%B8%89%E5%8D%81%E5%B2%81%E6%B2%A1%E7%BB%93%E5%A9%9A%E6%B2%A1%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
