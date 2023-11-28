@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 16:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 16:09:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 > 百度  
 
 1. [再议“长江”要看懂三个关键词](https://www.baidu.com/s?wd=%E5%86%8D%E8%AE%AE%E2%80%9C%E9%95%BF%E6%B1%9F%E2%80%9D%E8%A6%81%E7%9C%8B%E6%87%82%E4%B8%89%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [泰国总理接到诈骗电话](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E6%8E%A5%E5%88%B0%E8%AF%88%E9%AA%97%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [8岁男孩患肺炎支原体肺炎后突发脑梗](https://www.baidu.com/s?wd=8%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E8%82%BA%E7%82%8E%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E5%90%8E%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [10万亿金融巨头CEO去世](https://www.baidu.com/s?wd=10%E4%B8%87%E4%BA%BF%E9%87%91%E8%9E%8D%E5%B7%A8%E5%A4%B4CEO%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济将继续企稳回升](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B0%86%E7%BB%A7%E7%BB%AD%E4%BC%81%E7%A8%B3%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [南京一头野猪横渡长江](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E5%A4%B4%E9%87%8E%E7%8C%AA%E6%A8%AA%E6%B8%A1%E9%95%BF%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [8岁男孩患肺炎支原体肺炎后突发脑梗](https://www.baidu.com/s?wd=8%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E8%82%BA%E7%82%8E%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E5%90%8E%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [网红痞幼就盗用他人视频道歉](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%97%9E%E5%B9%BC%E5%B0%B1%E7%9B%97%E7%94%A8%E4%BB%96%E4%BA%BA%E8%A7%86%E9%A2%91%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国湖泊第一馆闲置 省委书记暗访](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B9%96%E6%B3%8A%E7%AC%AC%E4%B8%80%E9%A6%86%E9%97%B2%E7%BD%AE+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%9A%97%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [怀旧八零九零](https://www.baidu.com/s?wd=%23%E6%80%80%E6%97%A7%E5%85%AB%E9%9B%B6%E4%B9%9D%E9%9B%B6%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣中学领导猥亵女教师](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E9%A2%86%E5%AF%BC%E7%8C%A5%E4%BA%B5%E5%A5%B3%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,11 +30,11 @@
 > 哔哩哔哩  
 
 1. [再议“长江”要看懂三个关键词](https://www.baidu.com/s?wd=%E5%86%8D%E8%AE%AE%E2%80%9C%E9%95%BF%E6%B1%9F%E2%80%9D%E8%A6%81%E7%9C%8B%E6%87%82%E4%B8%89%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [泰国总理接到诈骗电话](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E6%8E%A5%E5%88%B0%E8%AF%88%E9%AA%97%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [8岁男孩患肺炎支原体肺炎后突发脑梗](https://www.baidu.com/s?wd=8%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E8%82%BA%E7%82%8E%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E5%90%8E%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [10万亿金融巨头CEO去世](https://www.baidu.com/s?wd=10%E4%B8%87%E4%BA%BF%E9%87%91%E8%9E%8D%E5%B7%A8%E5%A4%B4CEO%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济将继续企稳回升](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B0%86%E7%BB%A7%E7%BB%AD%E4%BC%81%E7%A8%B3%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [南京一头野猪横渡长江](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E5%A4%B4%E9%87%8E%E7%8C%AA%E6%A8%AA%E6%B8%A1%E9%95%BF%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [8岁男孩患肺炎支原体肺炎后突发脑梗](https://www.baidu.com/s?wd=8%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E8%82%BA%E7%82%8E%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E5%90%8E%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [网红痞幼就盗用他人视频道歉](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%97%9E%E5%B9%BC%E5%B0%B1%E7%9B%97%E7%94%A8%E4%BB%96%E4%BA%BA%E8%A7%86%E9%A2%91%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国湖泊第一馆闲置 省委书记暗访](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B9%96%E6%B3%8A%E7%AC%AC%E4%B8%80%E9%A6%86%E9%97%B2%E7%BD%AE+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%9A%97%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [怀旧八零九零](https://www.baidu.com/s?wd=%23%E6%80%80%E6%97%A7%E5%85%AB%E9%9B%B6%E4%B9%9D%E9%9B%B6%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣中学领导猥亵女教师](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E9%A2%86%E5%AF%BC%E7%8C%A5%E4%BA%B5%E5%A5%B3%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
