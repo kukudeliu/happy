@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 08:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 08:36:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [链博会为国际经贸发展贡献链博智慧](https://s.weibo.com/weibo?q=%23%E9%93%BE%E5%8D%9A%E4%BC%9A%E4%B8%BA%E5%9B%BD%E9%99%85%E7%BB%8F%E8%B4%B8%E5%8F%91%E5%B1%95%E8%B4%A1%E7%8C%AE%E9%93%BE%E5%8D%9A%E6%99%BA%E6%85%A7%23&t=31&band_rank=3&Refer=top)<br />
 4. [嗓子疼](https://s.weibo.com/weibo?q=%E5%97%93%E5%AD%90%E7%96%BC&t=31&band_rank=4&Refer=top)<br />
 5. [青桔 害我迟到](https://s.weibo.com/weibo?q=%E9%9D%92%E6%A1%94%20%E5%AE%B3%E6%88%91%E8%BF%9F%E5%88%B0&t=31&band_rank=5&Refer=top)<br />
-6. [总做美甲的人现在都怎么样了](https://s.weibo.com/weibo?q=%23%E6%80%BB%E5%81%9A%E7%BE%8E%E7%94%B2%E7%9A%84%E4%BA%BA%E7%8E%B0%E5%9C%A8%E9%83%BD%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [旭旭宝宝](https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D&t=31&band_rank=7&Refer=top)<br />
+6. [旭旭宝宝](https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D&t=31&band_rank=6&Refer=top)<br />
+7. [总做美甲的人现在都怎么样了](https://s.weibo.com/weibo?q=%23%E6%80%BB%E5%81%9A%E7%BE%8E%E7%94%B2%E7%9A%84%E4%BA%BA%E7%8E%B0%E5%9C%A8%E9%83%BD%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [海底捞回应奖励3000元给跳科目三员工](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E5%A5%96%E5%8A%B13000%E5%85%83%E7%BB%99%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E5%91%98%E5%B7%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [张雪峰为员工多发300元工资请吃火锅](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E4%B8%BA%E5%91%98%E5%B7%A5%E5%A4%9A%E5%8F%91300%E5%85%83%E5%B7%A5%E8%B5%84%E8%AF%B7%E5%90%83%E7%81%AB%E9%94%85%23&t=31&band_rank=9&Refer=top)<br />
 
