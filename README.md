@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 16:02:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 16:03:02</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [再议“长江”要看懂三个关键词](https://www.baidu.com/s?wd=%E5%86%8D%E8%AE%AE%E2%80%9C%E9%95%BF%E6%B1%9F%E2%80%9D%E8%A6%81%E7%9C%8B%E6%87%82%E4%B8%89%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [滴滴：有司机后台收入690亿为P图](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%EF%BC%9A%E6%9C%89%E5%8F%B8%E6%9C%BA%E5%90%8E%E5%8F%B0%E6%94%B6%E5%85%A5690%E4%BA%BF%E4%B8%BAP%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [泰国总理接到诈骗电话](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E6%8E%A5%E5%88%B0%E8%AF%88%E9%AA%97%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [10万亿金融巨头CEO去世](https://www.baidu.com/s?wd=10%E4%B8%87%E4%BA%BF%E9%87%91%E8%9E%8D%E5%B7%A8%E5%A4%B4CEO%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济将继续企稳回升](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B0%86%E7%BB%A7%E7%BB%AD%E4%BC%81%E7%A8%B3%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [南京一头野猪横渡长江](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E5%A4%B4%E9%87%8E%E7%8C%AA%E6%A8%AA%E6%B8%A1%E9%95%BF%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [再议“长江”要看懂三个关键词](https://www.baidu.com/s?wd=%E5%86%8D%E8%AE%AE%E2%80%9C%E9%95%BF%E6%B1%9F%E2%80%9D%E8%A6%81%E7%9C%8B%E6%87%82%E4%B8%89%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [滴滴：有司机后台收入690亿为P图](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%EF%BC%9A%E6%9C%89%E5%8F%B8%E6%9C%BA%E5%90%8E%E5%8F%B0%E6%94%B6%E5%85%A5690%E4%BA%BF%E4%B8%BAP%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [泰国总理接到诈骗电话](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E6%8E%A5%E5%88%B0%E8%AF%88%E9%AA%97%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [10万亿金融巨头CEO去世](https://www.baidu.com/s?wd=10%E4%B8%87%E4%BA%BF%E9%87%91%E8%9E%8D%E5%B7%A8%E5%A4%B4CEO%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济将继续企稳回升](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B0%86%E7%BB%A7%E7%BB%AD%E4%BC%81%E7%A8%B3%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [南京一头野猪横渡长江](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E5%A4%B4%E9%87%8E%E7%8C%AA%E6%A8%AA%E6%B8%A1%E9%95%BF%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
