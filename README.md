@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 10:42:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 10:43:02</h4></div>
 
 > 微博  
 
-1. [滴滴打车 打不到](https://s.weibo.com/weibo?q=%E6%BB%B4%E6%BB%B4%E6%89%93%E8%BD%A6%20%E6%89%93%E4%B8%8D%E5%88%B0&t=31&band_rank=1&Refer=top)<br />
-2. [网红痞幼就盗用他人视频道歉](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%97%9E%E5%B9%BC%E5%B0%B1%E7%9B%97%E7%94%A8%E4%BB%96%E4%BA%BA%E8%A7%86%E9%A2%91%E9%81%93%E6%AD%89%23&t=31&band_rank=2&Refer=top)<br />
+1. [网红痞幼就盗用他人视频道歉](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%97%9E%E5%B9%BC%E5%B0%B1%E7%9B%97%E7%94%A8%E4%BB%96%E4%BA%BA%E8%A7%86%E9%A2%91%E9%81%93%E6%AD%89%23&t=31&band_rank=1&Refer=top)<br />
+2. [滴滴打车 打不到](https://s.weibo.com/weibo?q=%E6%BB%B4%E6%BB%B4%E6%89%93%E8%BD%A6%20%E6%89%93%E4%B8%8D%E5%88%B0&t=31&band_rank=2&Refer=top)<br />
 3. [链博会为国际经贸发展贡献链博智慧](https://s.weibo.com/weibo?q=%23%E9%93%BE%E5%8D%9A%E4%BC%9A%E4%B8%BA%E5%9B%BD%E9%99%85%E7%BB%8F%E8%B4%B8%E5%8F%91%E5%B1%95%E8%B4%A1%E7%8C%AE%E9%93%BE%E5%8D%9A%E6%99%BA%E6%85%A7%23&t=31&band_rank=3&Refer=top)<br />
 4. [全勤没了](https://s.weibo.com/weibo?q=%E5%85%A8%E5%8B%A4%E6%B2%A1%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [金莎 盛况](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%20%E7%9B%9B%E5%86%B5&t=31&band_rank=5&Refer=top)<br />
