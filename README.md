@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 11:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 11:31:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [南京一头野猪横渡长江](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E5%A4%B4%E9%87%8E%E7%8C%AA%E6%A8%AA%E6%B8%A1%E9%95%BF%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [丈夫第一次刷鞋将千元靴变皮干](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%88%B7%E9%9E%8B%E5%B0%86%E5%8D%83%E5%85%83%E9%9D%B4%E5%8F%98%E7%9A%AE%E5%B9%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“鹅腿阿姨”回应走红：不想当网红](https://www.baidu.com/s?wd=%E2%80%9C%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E2%80%9D%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2%EF%BC%9A%E4%B8%8D%E6%83%B3%E5%BD%93%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [戴尔供应链将撤离中国？](https://www.baidu.com/s?wd=%E6%88%B4%E5%B0%94%E4%BE%9B%E5%BA%94%E9%93%BE%E5%B0%86%E6%92%A4%E7%A6%BB%E4%B8%AD%E5%9B%BD%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [警方辟谣中学领导猥亵女教师](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E9%A2%86%E5%AF%BC%E7%8C%A5%E4%BA%B5%E5%A5%B3%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [南京一头野猪横渡长江](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E5%A4%B4%E9%87%8E%E7%8C%AA%E6%A8%AA%E6%B8%A1%E9%95%BF%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [丈夫第一次刷鞋将千元靴变皮干](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%88%B7%E9%9E%8B%E5%B0%86%E5%8D%83%E5%85%83%E9%9D%B4%E5%8F%98%E7%9A%AE%E5%B9%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“鹅腿阿姨”回应走红：不想当网红](https://www.baidu.com/s?wd=%E2%80%9C%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E2%80%9D%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2%EF%BC%9A%E4%B8%8D%E6%83%B3%E5%BD%93%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [戴尔供应链将撤离中国？](https://www.baidu.com/s?wd=%E6%88%B4%E5%B0%94%E4%BE%9B%E5%BA%94%E9%93%BE%E5%B0%86%E6%92%A4%E7%A6%BB%E4%B8%AD%E5%9B%BD%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [警方辟谣中学领导猥亵女教师](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E9%A2%86%E5%AF%BC%E7%8C%A5%E4%BA%B5%E5%A5%B3%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
