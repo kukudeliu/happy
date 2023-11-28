@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 20:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 20:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [为什么军大衣会卖爆？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%9B%E5%A4%A7%E8%A1%A3%E4%BC%9A%E5%8D%96%E7%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李想：很抱歉我们失言了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%83%B3%EF%BC%9A%E5%BE%88%E6%8A%B1%E6%AD%89%E6%88%91%E4%BB%AC%E5%A4%B1%E8%A8%80%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男方给30万彩礼女方却只拿到20万](https://www.baidu.com/s?wd=%E7%94%B7%E6%96%B9%E7%BB%9930%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A5%B3%E6%96%B9%E5%8D%B4%E5%8F%AA%E6%8B%BF%E5%88%B020%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京4所高校雄安校区全部开工](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC4%E6%89%80%E9%AB%98%E6%A0%A1%E9%9B%84%E5%AE%89%E6%A0%A1%E5%8C%BA%E5%85%A8%E9%83%A8%E5%BC%80%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河南12岁女生上体育课时猝死](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%9712%E5%B2%81%E5%A5%B3%E7%94%9F%E4%B8%8A%E4%BD%93%E8%82%B2%E8%AF%BE%E6%97%B6%E7%8C%9D%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [投靠朋友家可以落户上海？](https://www.baidu.com/s?wd=%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%8F%AF%E4%BB%A5%E8%90%BD%E6%88%B7%E4%B8%8A%E6%B5%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [为什么军大衣会卖爆？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%9B%E5%A4%A7%E8%A1%A3%E4%BC%9A%E5%8D%96%E7%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李想：很抱歉我们失言了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%83%B3%EF%BC%9A%E5%BE%88%E6%8A%B1%E6%AD%89%E6%88%91%E4%BB%AC%E5%A4%B1%E8%A8%80%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男方给30万彩礼女方却只拿到20万](https://www.baidu.com/s?wd=%E7%94%B7%E6%96%B9%E7%BB%9930%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A5%B3%E6%96%B9%E5%8D%B4%E5%8F%AA%E6%8B%BF%E5%88%B020%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [北京4所高校雄安校区全部开工](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC4%E6%89%80%E9%AB%98%E6%A0%A1%E9%9B%84%E5%AE%89%E6%A0%A1%E5%8C%BA%E5%85%A8%E9%83%A8%E5%BC%80%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河南12岁女生上体育课时猝死](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%9712%E5%B2%81%E5%A5%B3%E7%94%9F%E4%B8%8A%E4%BD%93%E8%82%B2%E8%AF%BE%E6%97%B6%E7%8C%9D%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [投靠朋友家可以落户上海？](https://www.baidu.com/s?wd=%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%8F%AF%E4%BB%A5%E8%90%BD%E6%88%B7%E4%B8%8A%E6%B5%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
