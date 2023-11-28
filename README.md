@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 03:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 03:20:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [质疑朱丹 理解朱丹](https://s.weibo.com/weibo?q=%E8%B4%A8%E7%96%91%E6%9C%B1%E4%B8%B9%20%E7%90%86%E8%A7%A3%E6%9C%B1%E4%B8%B9&t=31&band_rank=4&Refer=top)<br />
 5. [很笨但能考上公务员的暗黑偏方](https://s.weibo.com/weibo?q=%E5%BE%88%E7%AC%A8%E4%BD%86%E8%83%BD%E8%80%83%E4%B8%8A%E5%85%AC%E5%8A%A1%E5%91%98%E7%9A%84%E6%9A%97%E9%BB%91%E5%81%8F%E6%96%B9&t=31&band_rank=5&Refer=top)<br />
 6. [审判一念关山](https://s.weibo.com/weibo?q=%23%E5%AE%A1%E5%88%A4%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%23&t=31&band_rank=6&Refer=top)<br />
-7. [哈佛大学将推出霉霉课程](https://s.weibo.com/weibo?q=%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E5%B0%86%E6%8E%A8%E5%87%BA%E9%9C%89%E9%9C%89%E8%AF%BE%E7%A8%8B&t=31&band_rank=7&Refer=top)<br />
+7. [胃病发展成胃癌的五个征兆](https://s.weibo.com/weibo?q=%23%E8%83%83%E7%97%85%E5%8F%91%E5%B1%95%E6%88%90%E8%83%83%E7%99%8C%E7%9A%84%E4%BA%94%E4%B8%AA%E5%BE%81%E5%85%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [一念关山 镜头美感](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E9%95%9C%E5%A4%B4%E7%BE%8E%E6%84%9F&t=31&band_rank=8&Refer=top)<br />
-9. [胃病发展成胃癌的五个征兆](https://s.weibo.com/weibo?q=%23%E8%83%83%E7%97%85%E5%8F%91%E5%B1%95%E6%88%90%E8%83%83%E7%99%8C%E7%9A%84%E4%BA%94%E4%B8%AA%E5%BE%81%E5%85%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [哈佛大学将推出霉霉课程](https://s.weibo.com/weibo?q=%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E5%B0%86%E6%8E%A8%E5%87%BA%E9%9C%89%E9%9C%89%E8%AF%BE%E7%A8%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
