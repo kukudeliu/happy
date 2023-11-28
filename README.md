@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 11:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 11:49:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [中国经济向好要素不断积聚](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%90%91%E5%A5%BD%E8%A6%81%E7%B4%A0%E4%B8%8D%E6%96%AD%E7%A7%AF%E8%81%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州高校保洁阿姨3年捡50多万财物](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%AB%98%E6%A0%A1%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A83%E5%B9%B4%E6%8D%A150%E5%A4%9A%E4%B8%87%E8%B4%A2%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [丈夫第一次刷鞋将千元靴变皮干](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%88%B7%E9%9E%8B%E5%B0%86%E5%8D%83%E5%85%83%E9%9D%B4%E5%8F%98%E7%9A%AE%E5%B9%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [长春高空抛物致死案：被告望安乐死](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%87%B4%E6%AD%BB%E6%A1%88%EF%BC%9A%E8%A2%AB%E5%91%8A%E6%9C%9B%E5%AE%89%E4%B9%90%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [南京一头野猪横渡长江](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E5%A4%B4%E9%87%8E%E7%8C%AA%E6%A8%AA%E6%B8%A1%E9%95%BF%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网红主播在非洲遇害 疑手机被盗](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%B8%BB%E6%92%AD%E5%9C%A8%E9%9D%9E%E6%B4%B2%E9%81%87%E5%AE%B3+%E7%96%91%E6%89%8B%E6%9C%BA%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [长春高空抛物致死案：被告望安乐死](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%87%B4%E6%AD%BB%E6%A1%88%EF%BC%9A%E8%A2%AB%E5%91%8A%E6%9C%9B%E5%AE%89%E4%B9%90%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣中学领导猥亵女教师](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E9%A2%86%E5%AF%BC%E7%8C%A5%E4%BA%B5%E5%A5%B3%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [中国经济向好要素不断积聚](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%90%91%E5%A5%BD%E8%A6%81%E7%B4%A0%E4%B8%8D%E6%96%AD%E7%A7%AF%E8%81%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州高校保洁阿姨3年捡50多万财物](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%AB%98%E6%A0%A1%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A83%E5%B9%B4%E6%8D%A150%E5%A4%9A%E4%B8%87%E8%B4%A2%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [丈夫第一次刷鞋将千元靴变皮干](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%88%B7%E9%9E%8B%E5%B0%86%E5%8D%83%E5%85%83%E9%9D%B4%E5%8F%98%E7%9A%AE%E5%B9%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [长春高空抛物致死案：被告望安乐死](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%87%B4%E6%AD%BB%E6%A1%88%EF%BC%9A%E8%A2%AB%E5%91%8A%E6%9C%9B%E5%AE%89%E4%B9%90%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [南京一头野猪横渡长江](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E5%A4%B4%E9%87%8E%E7%8C%AA%E6%A8%AA%E6%B8%A1%E9%95%BF%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网红主播在非洲遇害 疑手机被盗](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%B8%BB%E6%92%AD%E5%9C%A8%E9%9D%9E%E6%B4%B2%E9%81%87%E5%AE%B3+%E7%96%91%E6%89%8B%E6%9C%BA%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [长春高空抛物致死案：被告望安乐死](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%87%B4%E6%AD%BB%E6%A1%88%EF%BC%9A%E8%A2%AB%E5%91%8A%E6%9C%9B%E5%AE%89%E4%B9%90%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣中学领导猥亵女教师](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E9%A2%86%E5%AF%BC%E7%8C%A5%E4%BA%B5%E5%A5%B3%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
