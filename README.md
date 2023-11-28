@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 16:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 16:36:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [傅首尔老刘都没下车](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E8%80%81%E5%88%98%E9%83%BD%E6%B2%A1%E4%B8%8B%E8%BD%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [喜茶 我佛持杯](https://s.weibo.com/weibo?q=%E5%96%9C%E8%8C%B6%20%E6%88%91%E4%BD%9B%E6%8C%81%E6%9D%AF&t=31&band_rank=5&Refer=top)<br />
 6. [蜂花 脱发变少了](https://s.weibo.com/weibo?q=%E8%9C%82%E8%8A%B1%20%E8%84%B1%E5%8F%91%E5%8F%98%E5%B0%91%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [旭旭宝宝工作室秒挂电话](https://s.weibo.com/weibo?q=%23%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%A7%92%E6%8C%82%E7%94%B5%E8%AF%9D%23&t=31&band_rank=7&Refer=top)<br />
-8. [新闻女王 当众下跪给我一点小震撼](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E5%BD%93%E4%BC%97%E4%B8%8B%E8%B7%AA%E7%BB%99%E6%88%91%E4%B8%80%E7%82%B9%E5%B0%8F%E9%9C%87%E6%92%BC&t=31&band_rank=8&Refer=top)<br />
+7. [新闻女王 当众下跪给我一点小震撼](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E5%BD%93%E4%BC%97%E4%B8%8B%E8%B7%AA%E7%BB%99%E6%88%91%E4%B8%80%E7%82%B9%E5%B0%8F%E9%9C%87%E6%92%BC&t=31&band_rank=7&Refer=top)<br />
+8. [旭旭宝宝工作室秒挂电话](https://s.weibo.com/weibo?q=%23%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%A7%92%E6%8C%82%E7%94%B5%E8%AF%9D%23&t=31&band_rank=8&Refer=top)<br />
 9. [王睡睡张硕oe](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9D%A1%E7%9D%A1%E5%BC%A0%E7%A1%95oe%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -19,7 +19,7 @@
 
 1. [再议“长江”要看懂三个关键词](https://www.baidu.com/s?wd=%E5%86%8D%E8%AE%AE%E2%80%9C%E9%95%BF%E6%B1%9F%E2%80%9D%E8%A6%81%E7%9C%8B%E6%87%82%E4%B8%89%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [泰国总理接到诈骗电话 被直呼全名](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E6%8E%A5%E5%88%B0%E8%AF%88%E9%AA%97%E7%94%B5%E8%AF%9D+%E8%A2%AB%E7%9B%B4%E5%91%BC%E5%85%A8%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [10万亿金融巨头CEO去世](https://www.baidu.com/s?wd=10%E4%B8%87%E4%BA%BF%E9%87%91%E8%9E%8D%E5%B7%A8%E5%A4%B4CEO%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [多地通知：不带病上班上课](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%80%9A%E7%9F%A5%EF%BC%9A%E4%B8%8D%E5%B8%A6%E7%97%85%E4%B8%8A%E7%8F%AD%E4%B8%8A%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济将继续企稳回升](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B0%86%E7%BB%A7%E7%BB%AD%E4%BC%81%E7%A8%B3%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [南京一头野猪横渡长江](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E5%A4%B4%E9%87%8E%E7%8C%AA%E6%A8%AA%E6%B8%A1%E9%95%BF%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [富士康将在印度投资15亿美元](https://www.baidu.com/s?wd=%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%B0%86%E5%9C%A8%E5%8D%B0%E5%BA%A6%E6%8A%95%E8%B5%8415%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [再议“长江”要看懂三个关键词](https://www.baidu.com/s?wd=%E5%86%8D%E8%AE%AE%E2%80%9C%E9%95%BF%E6%B1%9F%E2%80%9D%E8%A6%81%E7%9C%8B%E6%87%82%E4%B8%89%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [泰国总理接到诈骗电话 被直呼全名](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E6%8E%A5%E5%88%B0%E8%AF%88%E9%AA%97%E7%94%B5%E8%AF%9D+%E8%A2%AB%E7%9B%B4%E5%91%BC%E5%85%A8%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [10万亿金融巨头CEO去世](https://www.baidu.com/s?wd=10%E4%B8%87%E4%BA%BF%E9%87%91%E8%9E%8D%E5%B7%A8%E5%A4%B4CEO%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [多地通知：不带病上班上课](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%80%9A%E7%9F%A5%EF%BC%9A%E4%B8%8D%E5%B8%A6%E7%97%85%E4%B8%8A%E7%8F%AD%E4%B8%8A%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济将继续企稳回升](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B0%86%E7%BB%A7%E7%BB%AD%E4%BC%81%E7%A8%B3%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [南京一头野猪横渡长江](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E5%A4%B4%E9%87%8E%E7%8C%AA%E6%A8%AA%E6%B8%A1%E9%95%BF%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [富士康将在印度投资15亿美元](https://www.baidu.com/s?wd=%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%B0%86%E5%9C%A8%E5%8D%B0%E5%BA%A6%E6%8A%95%E8%B5%8415%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
