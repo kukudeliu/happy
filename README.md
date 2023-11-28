@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 16:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 16:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [蜂花 脱发变少了](https://s.weibo.com/weibo?q=%E8%9C%82%E8%8A%B1%20%E8%84%B1%E5%8F%91%E5%8F%98%E5%B0%91%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [新闻女王 当众下跪给我一点小震撼](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E5%BD%93%E4%BC%97%E4%B8%8B%E8%B7%AA%E7%BB%99%E6%88%91%E4%B8%80%E7%82%B9%E5%B0%8F%E9%9C%87%E6%92%BC&t=31&band_rank=7&Refer=top)<br />
 8. [王睡睡张硕oe](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9D%A1%E7%9D%A1%E5%BC%A0%E7%A1%95oe%23&t=31&band_rank=8&Refer=top)<br />
-9. [旭旭宝宝工作室秒挂电话](https://s.weibo.com/weibo?q=%23%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%A7%92%E6%8C%82%E7%94%B5%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
+9. [网红痞幼就盗用他人视频道歉](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%97%9E%E5%B9%BC%E5%B0%B1%E7%9B%97%E7%94%A8%E4%BB%96%E4%BA%BA%E8%A7%86%E9%A2%91%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
