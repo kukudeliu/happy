@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 11:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 11:10:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [甲流](https://s.weibo.com/weibo?q=%E7%94%B2%E6%B5%81&t=31&band_rank=5&Refer=top)<br />
 6. [不是房产证加了名才叫共同财产](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%98%AF%E6%88%BF%E4%BA%A7%E8%AF%81%E5%8A%A0%E4%BA%86%E5%90%8D%E6%89%8D%E5%8F%AB%E5%85%B1%E5%90%8C%E8%B4%A2%E4%BA%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [月薪3000保洁阿姨3年捡50多万财物](https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA3000%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A83%E5%B9%B4%E6%8D%A150%E5%A4%9A%E4%B8%87%E8%B4%A2%E7%89%A9%23&t=31&band_rank=7&Refer=top)<br />
-8. [丞磊锦月如歌出妆](https://s.weibo.com/weibo?q=%E4%B8%9E%E7%A3%8A%E9%94%A6%E6%9C%88%E5%A6%82%E6%AD%8C%E5%87%BA%E5%A6%86&t=31&band_rank=8&Refer=top)<br />
-9. [00后男孩开货车5年收入超百万](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E7%94%B7%E5%AD%A9%E5%BC%80%E8%B4%A7%E8%BD%A65%E5%B9%B4%E6%94%B6%E5%85%A5%E8%B6%85%E7%99%BE%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [00后男孩开货车5年收入超百万](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E7%94%B7%E5%AD%A9%E5%BC%80%E8%B4%A7%E8%BD%A65%E5%B9%B4%E6%94%B6%E5%85%A5%E8%B6%85%E7%99%BE%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [丞磊锦月如歌出妆](https://s.weibo.com/weibo?q=%E4%B8%9E%E7%A3%8A%E9%94%A6%E6%9C%88%E5%A6%82%E6%AD%8C%E5%87%BA%E5%A6%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
