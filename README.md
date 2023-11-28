@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 09:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 09:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [青桔 害我迟到](https://s.weibo.com/weibo?q=%E9%9D%92%E6%A1%94%20%E5%AE%B3%E6%88%91%E8%BF%9F%E5%88%B0&t=31&band_rank=6&Refer=top)<br />
 7. [滴滴网约车等服务已恢复](https://s.weibo.com/weibo?q=%23%E6%BB%B4%E6%BB%B4%E7%BD%91%E7%BA%A6%E8%BD%A6%E7%AD%89%E6%9C%8D%E5%8A%A1%E5%B7%B2%E6%81%A2%E5%A4%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [旭旭宝宝](https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D&t=31&band_rank=8&Refer=top)<br />
-9. [5个体检项目千万别躲着不做](https://s.weibo.com/weibo?q=%235%E4%B8%AA%E4%BD%93%E6%A3%80%E9%A1%B9%E7%9B%AE%E5%8D%83%E4%B8%87%E5%88%AB%E8%BA%B2%E7%9D%80%E4%B8%8D%E5%81%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [高中妹妹厌学哥哥带其到大学上课](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%AD%E5%A6%B9%E5%A6%B9%E5%8E%8C%E5%AD%A6%E5%93%A5%E5%93%A5%E5%B8%A6%E5%85%B6%E5%88%B0%E5%A4%A7%E5%AD%A6%E4%B8%8A%E8%AF%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
