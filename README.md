@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 23:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 23:46:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [审判一念关山](https://s.weibo.com/weibo?q=%23%E5%AE%A1%E5%88%A4%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [何猷君奚梦瑶孩子正脸](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E5%A5%9A%E6%A2%A6%E7%91%B6%E5%AD%A9%E5%AD%90%E6%AD%A3%E8%84%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [北京要求一切以孩子身体为重](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E8%A6%81%E6%B1%82%E4%B8%80%E5%88%87%E4%BB%A5%E5%AD%A9%E5%AD%90%E8%BA%AB%E4%BD%93%E4%B8%BA%E9%87%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [一念关山 镜头美感](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E9%95%9C%E5%A4%B4%E7%BE%8E%E6%84%9F&t=31&band_rank=8&Refer=top)<br />
+8. [邓超定7个闹钟听鹿晗新歌](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%AE%9A7%E4%B8%AA%E9%97%B9%E9%92%9F%E5%90%AC%E9%B9%BF%E6%99%97%E6%96%B0%E6%AD%8C%23&t=31&band_rank=8&Refer=top)<br />
 9. [郑培峰](https://s.weibo.com/weibo?q=%E9%83%91%E5%9F%B9%E5%B3%B0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
