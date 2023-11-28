@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 22:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 22:19:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [胃病发展成胃癌的五个征兆](https://s.weibo.com/weibo?q=%23%E8%83%83%E7%97%85%E5%8F%91%E5%B1%95%E6%88%90%E8%83%83%E7%99%8C%E7%9A%84%E4%BA%94%E4%B8%AA%E5%BE%81%E5%85%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [MAMA获奖名单](https://s.weibo.com/weibo?q=MAMA%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95&t=31&band_rank=5&Refer=top)<br />
 6. [一念关山节奏](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E8%8A%82%E5%A5%8F&t=31&band_rank=6&Refer=top)<br />
-7. [孙丞潇不让金莎看手机](https://s.weibo.com/weibo?q=%E5%AD%99%E4%B8%9E%E6%BD%87%E4%B8%8D%E8%AE%A9%E9%87%91%E8%8E%8E%E7%9C%8B%E6%89%8B%E6%9C%BA&t=31&band_rank=7&Refer=top)<br />
-8. [北京要求一切以孩子身体为重](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E8%A6%81%E6%B1%82%E4%B8%80%E5%88%87%E4%BB%A5%E5%AD%A9%E5%AD%90%E8%BA%AB%E4%BD%93%E4%B8%BA%E9%87%8D%23&t=31&band_rank=8&Refer=top)<br />
+7. [北京要求一切以孩子身体为重](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E8%A6%81%E6%B1%82%E4%B8%80%E5%88%87%E4%BB%A5%E5%AD%A9%E5%AD%90%E8%BA%AB%E4%BD%93%E4%B8%BA%E9%87%8D%23&t=31&band_rank=7&Refer=top)<br />
+8. [孙丞潇不让金莎看手机](https://s.weibo.com/weibo?q=%E5%AD%99%E4%B8%9E%E6%BD%87%E4%B8%8D%E8%AE%A9%E9%87%91%E8%8E%8E%E7%9C%8B%E6%89%8B%E6%9C%BA&t=31&band_rank=8&Refer=top)<br />
 9. [胡锡进称中华有为世界荣耀](https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E7%A7%B0%E4%B8%AD%E5%8D%8E%E6%9C%89%E4%B8%BA%E4%B8%96%E7%95%8C%E8%8D%A3%E8%80%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [上呼吸道感染无特效药](https://www.baidu.com/s?wd=%E4%B8%8A%E5%91%BC%E5%90%B8%E9%81%93%E6%84%9F%E6%9F%93%E6%97%A0%E7%89%B9%E6%95%88%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [辽宁一小学班级集体罢课](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%8F%AD%E7%BA%A7%E9%9B%86%E4%BD%93%E7%BD%A2%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男方给30万彩礼女方却只拿到20万](https://www.baidu.com/s?wd=%E7%94%B7%E6%96%B9%E7%BB%9930%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A5%B3%E6%96%B9%E5%8D%B4%E5%8F%AA%E6%8B%BF%E5%88%B020%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网友近3小时买空18吨滞留甘蔗](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%BF%913%E5%B0%8F%E6%97%B6%E4%B9%B0%E7%A9%BA18%E5%90%A8%E6%BB%9E%E7%95%99%E7%94%98%E8%94%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子投诉杨国福麻辣烫吃出蝙蝠](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%95%E8%AF%89%E6%9D%A8%E5%9B%BD%E7%A6%8F%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%90%83%E5%87%BA%E8%9D%99%E8%9D%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [投靠朋友家可以落户上海？](https://www.baidu.com/s?wd=%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%8F%AF%E4%BB%A5%E8%90%BD%E6%88%B7%E4%B8%8A%E6%B5%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [上呼吸道感染无特效药](https://www.baidu.com/s?wd=%E4%B8%8A%E5%91%BC%E5%90%B8%E9%81%93%E6%84%9F%E6%9F%93%E6%97%A0%E7%89%B9%E6%95%88%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [辽宁一小学班级集体罢课](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%8F%AD%E7%BA%A7%E9%9B%86%E4%BD%93%E7%BD%A2%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男方给30万彩礼女方却只拿到20万](https://www.baidu.com/s?wd=%E7%94%B7%E6%96%B9%E7%BB%9930%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A5%B3%E6%96%B9%E5%8D%B4%E5%8F%AA%E6%8B%BF%E5%88%B020%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网友近3小时买空18吨滞留甘蔗](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%BF%913%E5%B0%8F%E6%97%B6%E4%B9%B0%E7%A9%BA18%E5%90%A8%E6%BB%9E%E7%95%99%E7%94%98%E8%94%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子投诉杨国福麻辣烫吃出蝙蝠](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%95%E8%AF%89%E6%9D%A8%E5%9B%BD%E7%A6%8F%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%90%83%E5%87%BA%E8%9D%99%E8%9D%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [投靠朋友家可以落户上海？](https://www.baidu.com/s?wd=%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%8F%AF%E4%BB%A5%E8%90%BD%E6%88%B7%E4%B8%8A%E6%B5%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
