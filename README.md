@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 09:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 09:16:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [潘粤明减重30斤演胡八一](https://s.weibo.com/weibo?q=%23%E6%BD%98%E7%B2%A4%E6%98%8E%E5%87%8F%E9%87%8D30%E6%96%A4%E6%BC%94%E8%83%A1%E5%85%AB%E4%B8%80%23&t=31&band_rank=5&Refer=top)<br />
 6. [月薪3000保洁阿姨3年捡50多万财物](https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA3000%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A83%E5%B9%B4%E6%8D%A150%E5%A4%9A%E4%B8%87%E8%B4%A2%E7%89%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [旭旭宝宝](https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D&t=31&band_rank=7&Refer=top)<br />
-8. [嗓子疼](https://s.weibo.com/weibo?q=%E5%97%93%E5%AD%90%E7%96%BC&t=31&band_rank=8&Refer=top)<br />
-9. [总做美甲的人现在都怎么样了](https://s.weibo.com/weibo?q=%23%E6%80%BB%E5%81%9A%E7%BE%8E%E7%94%B2%E7%9A%84%E4%BA%BA%E7%8E%B0%E5%9C%A8%E9%83%BD%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [总做美甲的人现在都怎么样了](https://s.weibo.com/weibo?q=%23%E6%80%BB%E5%81%9A%E7%BE%8E%E7%94%B2%E7%9A%84%E4%BA%BA%E7%8E%B0%E5%9C%A8%E9%83%BD%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [嗓子疼](https://s.weibo.com/weibo?q=%E5%97%93%E5%AD%90%E7%96%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [男子每天喝30斤水去50次厕所](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E5%96%9D30%E6%96%A4%E6%B0%B4%E5%8E%BB50%E6%AC%A1%E5%8E%95%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [鹅腿阿姨凭什么让三大高校争抢](https://www.baidu.com/s?wd=%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E5%87%AD%E4%BB%80%E4%B9%88%E8%AE%A9%E4%B8%89%E5%A4%A7%E9%AB%98%E6%A0%A1%E4%BA%89%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [滴滴崩了引发大量用户吐槽](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E5%B4%A9%E4%BA%86%E5%BC%95%E5%8F%91%E5%A4%A7%E9%87%8F%E7%94%A8%E6%88%B7%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泰国新郎杀新娘岳母后自杀 动机曝光](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%96%B0%E9%83%8E%E6%9D%80%E6%96%B0%E5%A8%98%E5%B2%B3%E6%AF%8D%E5%90%8E%E8%87%AA%E6%9D%80+%E5%8A%A8%E6%9C%BA%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [10万亿金融巨头CEO去世](https://www.baidu.com/s?wd=10%E4%B8%87%E4%BA%BF%E9%87%91%E8%9E%8D%E5%B7%A8%E5%A4%B4CEO%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [戴尔供应链将撤离中国？](https://www.baidu.com/s?wd=%E6%88%B4%E5%B0%94%E4%BE%9B%E5%BA%94%E9%93%BE%E5%B0%86%E6%92%A4%E7%A6%BB%E4%B8%AD%E5%9B%BD%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男子每天喝30斤水去50次厕所](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E5%96%9D30%E6%96%A4%E6%B0%B4%E5%8E%BB50%E6%AC%A1%E5%8E%95%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [鹅腿阿姨凭什么让三大高校争抢](https://www.baidu.com/s?wd=%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E5%87%AD%E4%BB%80%E4%B9%88%E8%AE%A9%E4%B8%89%E5%A4%A7%E9%AB%98%E6%A0%A1%E4%BA%89%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [滴滴崩了引发大量用户吐槽](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E5%B4%A9%E4%BA%86%E5%BC%95%E5%8F%91%E5%A4%A7%E9%87%8F%E7%94%A8%E6%88%B7%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泰国新郎杀新娘岳母后自杀 动机曝光](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%96%B0%E9%83%8E%E6%9D%80%E6%96%B0%E5%A8%98%E5%B2%B3%E6%AF%8D%E5%90%8E%E8%87%AA%E6%9D%80+%E5%8A%A8%E6%9C%BA%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [10万亿金融巨头CEO去世](https://www.baidu.com/s?wd=10%E4%B8%87%E4%BA%BF%E9%87%91%E8%9E%8D%E5%B7%A8%E5%A4%B4CEO%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [戴尔供应链将撤离中国？](https://www.baidu.com/s?wd=%E6%88%B4%E5%B0%94%E4%BE%9B%E5%BA%94%E9%93%BE%E5%B0%86%E6%92%A4%E7%A6%BB%E4%B8%AD%E5%9B%BD%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
