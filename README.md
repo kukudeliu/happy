@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 20:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 20:01:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [这家快餐店可以免费吃饭](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%AE%B6%E5%BF%AB%E9%A4%90%E5%BA%97%E5%8F%AF%E4%BB%A5%E5%85%8D%E8%B4%B9%E5%90%83%E9%A5%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [李想 很抱歉我们失言了](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%83%B3%20%E5%BE%88%E6%8A%B1%E6%AD%89%E6%88%91%E4%BB%AC%E5%A4%B1%E8%A8%80%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [黑龙江一煤矿事故11人遇难](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%8511%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [沈小婷 猫女](https://s.weibo.com/weibo?q=%E6%B2%88%E5%B0%8F%E5%A9%B7%20%E7%8C%AB%E5%A5%B3&t=31&band_rank=8&Refer=top)<br />
-9. [男子多次高空抛物致28岁女子身亡](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%9A%E6%AC%A1%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%87%B428%E5%B2%81%E5%A5%B3%E5%AD%90%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [MAMA](https://s.weibo.com/weibo?q=MAMA&t=31&band_rank=8&Refer=top)<br />
+9. [皮肤饥渴症](https://s.weibo.com/weibo?q=%23%E7%9A%AE%E8%82%A4%E9%A5%A5%E6%B8%B4%E7%97%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
