@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 15:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 15:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王睡睡张硕oe](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9D%A1%E7%9D%A1%E5%BC%A0%E7%A1%95oe%23&t=31&band_rank=6&Refer=top)<br />
 7. [主播小涛在非洲在埃塞俄比亚遇害](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E5%B0%8F%E6%B6%9B%E5%9C%A8%E9%9D%9E%E6%B4%B2%E5%9C%A8%E5%9F%83%E5%A1%9E%E4%BF%84%E6%AF%94%E4%BA%9A%E9%81%87%E5%AE%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [羽绒服上没有这几个字再便宜也别买](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8A%E6%B2%A1%E6%9C%89%E8%BF%99%E5%87%A0%E4%B8%AA%E5%AD%97%E5%86%8D%E4%BE%BF%E5%AE%9C%E4%B9%9F%E5%88%AB%E4%B9%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [网红痞幼就盗用他人视频道歉](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%97%9E%E5%B9%BC%E5%B0%B1%E7%9B%97%E7%94%A8%E4%BB%96%E4%BA%BA%E8%A7%86%E9%A2%91%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [朱丹曾被朋友骗光所有积蓄](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%B9%E6%9B%BE%E8%A2%AB%E6%9C%8B%E5%8F%8B%E9%AA%97%E5%85%89%E6%89%80%E6%9C%89%E7%A7%AF%E8%93%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
