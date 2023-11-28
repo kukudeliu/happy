@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 19:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 19:14:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [歌唱家德德玛去世](https://www.baidu.com/s?wd=%E6%AD%8C%E5%94%B1%E5%AE%B6%E5%BE%B7%E5%BE%B7%E7%8E%9B%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大四男生华山拍照坠崖](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%8D%8E%E5%B1%B1%E6%8B%8D%E7%85%A7%E5%9D%A0%E5%B4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [为什么军大衣会卖爆？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%9B%E5%A4%A7%E8%A1%A3%E4%BC%9A%E5%8D%96%E7%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [20天前被问责的财政局长被提拔了](https://www.baidu.com/s?wd=20%E5%A4%A9%E5%89%8D%E8%A2%AB%E9%97%AE%E8%B4%A3%E7%9A%84%E8%B4%A2%E6%94%BF%E5%B1%80%E9%95%BF%E8%A2%AB%E6%8F%90%E6%8B%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生被诽谤有女子不雅视频获赔两千](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%AF%BD%E8%B0%A4%E6%9C%89%E5%A5%B3%E5%AD%90%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E8%8E%B7%E8%B5%94%E4%B8%A4%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [滴滴闪崩有司机收入超690亿？](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E9%97%AA%E5%B4%A9%E6%9C%89%E5%8F%B8%E6%9C%BA%E6%94%B6%E5%85%A5%E8%B6%85690%E4%BA%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [歌唱家德德玛去世](https://www.baidu.com/s?wd=%E6%AD%8C%E5%94%B1%E5%AE%B6%E5%BE%B7%E5%BE%B7%E7%8E%9B%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大四男生华山拍照坠崖](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%8D%8E%E5%B1%B1%E6%8B%8D%E7%85%A7%E5%9D%A0%E5%B4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [为什么军大衣会卖爆？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%9B%E5%A4%A7%E8%A1%A3%E4%BC%9A%E5%8D%96%E7%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [20天前被问责的财政局长被提拔了](https://www.baidu.com/s?wd=20%E5%A4%A9%E5%89%8D%E8%A2%AB%E9%97%AE%E8%B4%A3%E7%9A%84%E8%B4%A2%E6%94%BF%E5%B1%80%E9%95%BF%E8%A2%AB%E6%8F%90%E6%8B%94%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生被诽谤有女子不雅视频获赔两千](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%AF%BD%E8%B0%A4%E6%9C%89%E5%A5%B3%E5%AD%90%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E8%8E%B7%E8%B5%94%E4%B8%A4%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [滴滴闪崩有司机收入超690亿？](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E9%97%AA%E5%B4%A9%E6%9C%89%E5%8F%B8%E6%9C%BA%E6%94%B6%E5%85%A5%E8%B6%85690%E4%BA%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
