@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 13:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 13:14:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [10万亿金融巨头CEO去世](https://www.baidu.com/s?wd=10%E4%B8%87%E4%BA%BF%E9%87%91%E8%9E%8D%E5%B7%A8%E5%A4%B4CEO%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济向好要素不断积聚](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%90%91%E5%A5%BD%E8%A6%81%E7%B4%A0%E4%B8%8D%E6%96%AD%E7%A7%AF%E8%81%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州高校保洁阿姨3年捡50多万财物](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%AB%98%E6%A0%A1%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A83%E5%B9%B4%E6%8D%A150%E5%A4%9A%E4%B8%87%E8%B4%A2%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [上海儿科门诊现堰塞湖式就诊](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%84%BF%E7%A7%91%E9%97%A8%E8%AF%8A%E7%8E%B0%E5%A0%B0%E5%A1%9E%E6%B9%96%E5%BC%8F%E5%B0%B1%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网红痞幼就盗用他人视频道歉](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%97%9E%E5%B9%BC%E5%B0%B1%E7%9B%97%E7%94%A8%E4%BB%96%E4%BA%BA%E8%A7%86%E9%A2%91%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马克龙视察途中买彩票喜赚6欧元](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%A7%86%E5%AF%9F%E9%80%94%E4%B8%AD%E4%B9%B0%E5%BD%A9%E7%A5%A8%E5%96%9C%E8%B5%9A6%E6%AC%A7%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [秦海璐 三十岁没结婚没什么关系](https://www.baidu.com/s?wd=%E7%A7%A6%E6%B5%B7%E7%92%90+%E4%B8%89%E5%8D%81%E5%B2%81%E6%B2%A1%E7%BB%93%E5%A9%9A%E6%B2%A1%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [上海儿科门诊现堰塞湖式就诊](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%84%BF%E7%A7%91%E9%97%A8%E8%AF%8A%E7%8E%B0%E5%A0%B0%E5%A1%9E%E6%B9%96%E5%BC%8F%E5%B0%B1%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生被诽谤有女子不雅视频获赔两千](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%AF%BD%E8%B0%A4%E6%9C%89%E5%A5%B3%E5%AD%90%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E8%8E%B7%E8%B5%94%E4%B8%A4%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣中学领导猥亵女教师](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E9%A2%86%E5%AF%BC%E7%8C%A5%E4%BA%B5%E5%A5%B3%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [10万亿金融巨头CEO去世](https://www.baidu.com/s?wd=10%E4%B8%87%E4%BA%BF%E9%87%91%E8%9E%8D%E5%B7%A8%E5%A4%B4CEO%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济向好要素不断积聚](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%90%91%E5%A5%BD%E8%A6%81%E7%B4%A0%E4%B8%8D%E6%96%AD%E7%A7%AF%E8%81%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州高校保洁阿姨3年捡50多万财物](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%AB%98%E6%A0%A1%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A83%E5%B9%B4%E6%8D%A150%E5%A4%9A%E4%B8%87%E8%B4%A2%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [上海儿科门诊现堰塞湖式就诊](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%84%BF%E7%A7%91%E9%97%A8%E8%AF%8A%E7%8E%B0%E5%A0%B0%E5%A1%9E%E6%B9%96%E5%BC%8F%E5%B0%B1%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网红痞幼就盗用他人视频道歉](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%97%9E%E5%B9%BC%E5%B0%B1%E7%9B%97%E7%94%A8%E4%BB%96%E4%BA%BA%E8%A7%86%E9%A2%91%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马克龙视察途中买彩票喜赚6欧元](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%A7%86%E5%AF%9F%E9%80%94%E4%B8%AD%E4%B9%B0%E5%BD%A9%E7%A5%A8%E5%96%9C%E8%B5%9A6%E6%AC%A7%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [秦海璐 三十岁没结婚没什么关系](https://www.baidu.com/s?wd=%E7%A7%A6%E6%B5%B7%E7%92%90+%E4%B8%89%E5%8D%81%E5%B2%81%E6%B2%A1%E7%BB%93%E5%A9%9A%E6%B2%A1%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [上海儿科门诊现堰塞湖式就诊](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%84%BF%E7%A7%91%E9%97%A8%E8%AF%8A%E7%8E%B0%E5%A0%B0%E5%A1%9E%E6%B9%96%E5%BC%8F%E5%B0%B1%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生被诽谤有女子不雅视频获赔两千](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%A2%AB%E8%AF%BD%E8%B0%A4%E6%9C%89%E5%A5%B3%E5%AD%90%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E8%8E%B7%E8%B5%94%E4%B8%A4%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣中学领导猥亵女教师](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E9%A2%86%E5%AF%BC%E7%8C%A5%E4%BA%B5%E5%A5%B3%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
