@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 02:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 02:27:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [很笨但能考上公务员的暗黑偏方](https://s.weibo.com/weibo?q=%E5%BE%88%E7%AC%A8%E4%BD%86%E8%83%BD%E8%80%83%E4%B8%8A%E5%85%AC%E5%8A%A1%E5%91%98%E7%9A%84%E6%9A%97%E9%BB%91%E5%81%8F%E6%96%B9&t=31&band_rank=4&Refer=top)<br />
 5. [哈佛大学将推出霉霉课程](https://s.weibo.com/weibo?q=%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E5%B0%86%E6%8E%A8%E5%87%BA%E9%9C%89%E9%9C%89%E8%AF%BE%E7%A8%8B&t=31&band_rank=5&Refer=top)<br />
 6. [审判一念关山](https://s.weibo.com/weibo?q=%23%E5%AE%A1%E5%88%A4%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%23&t=31&band_rank=6&Refer=top)<br />
-7. [山东明确要求师生不带病上班上课](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%98%8E%E7%A1%AE%E8%A6%81%E6%B1%82%E5%B8%88%E7%94%9F%E4%B8%8D%E5%B8%A6%E7%97%85%E4%B8%8A%E7%8F%AD%E4%B8%8A%E8%AF%BE%23&t=31&band_rank=7&Refer=top)<br />
+7. [海底捞服务员跳擦玻璃舞被指低俗](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E6%9C%8D%E5%8A%A1%E5%91%98%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [一念关山 镜头美感](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E9%95%9C%E5%A4%B4%E7%BE%8E%E6%84%9F&t=31&band_rank=8&Refer=top)<br />
-9. [海底捞服务员跳擦玻璃舞被指低俗](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E6%9C%8D%E5%8A%A1%E5%91%98%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [山东明确要求师生不带病上班上课](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%98%8E%E7%A1%AE%E8%A6%81%E6%B1%82%E5%B8%88%E7%94%9F%E4%B8%8D%E5%B8%A6%E7%97%85%E4%B8%8A%E7%8F%AD%E4%B8%8A%E8%AF%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
