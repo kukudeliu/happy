@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 23:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 23:54:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [歌唱家德德玛去世](https://www.baidu.com/s?wd=%E6%AD%8C%E5%94%B1%E5%AE%B6%E5%BE%B7%E5%BE%B7%E7%8E%9B%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [首届链博会来了](https://www.baidu.com/s?wd=%E9%A6%96%E5%B1%8A%E9%93%BE%E5%8D%9A%E4%BC%9A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上呼吸道感染无特效药](https://www.baidu.com/s?wd=%E4%B8%8A%E5%91%BC%E5%90%B8%E9%81%93%E6%84%9F%E6%9F%93%E6%97%A0%E7%89%B9%E6%95%88%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [直击“支原体感染”席卷下的儿科](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E2%80%9C%E6%94%AF%E5%8E%9F%E4%BD%93%E6%84%9F%E6%9F%93%E2%80%9D%E5%B8%AD%E5%8D%B7%E4%B8%8B%E7%9A%84%E5%84%BF%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国空间站全貌高清图像公布](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%85%A8%E8%B2%8C%E9%AB%98%E6%B8%85%E5%9B%BE%E5%83%8F%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [滴滴闪崩有司机收入超690亿？](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E9%97%AA%E5%B4%A9%E6%9C%89%E5%8F%B8%E6%9C%BA%E6%94%B6%E5%85%A5%E8%B6%85690%E4%BA%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [辽宁一小学班级集体罢课](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%8F%AD%E7%BA%A7%E9%9B%86%E4%BD%93%E7%BD%A2%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [滴滴崩了12小时预计损失超4亿](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E5%B4%A9%E4%BA%8612%E5%B0%8F%E6%97%B6%E9%A2%84%E8%AE%A1%E6%8D%9F%E5%A4%B1%E8%B6%854%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男方给30万彩礼女方却只拿到20万](https://www.baidu.com/s?wd=%E7%94%B7%E6%96%B9%E7%BB%9930%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A5%B3%E6%96%B9%E5%8D%B4%E5%8F%AA%E6%8B%BF%E5%88%B020%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [投靠朋友家可以落户上海？](https://www.baidu.com/s?wd=%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%8F%AF%E4%BB%A5%E8%90%BD%E6%88%B7%E4%B8%8A%E6%B5%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [歌唱家德德玛去世](https://www.baidu.com/s?wd=%E6%AD%8C%E5%94%B1%E5%AE%B6%E5%BE%B7%E5%BE%B7%E7%8E%9B%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [首届链博会来了](https://www.baidu.com/s?wd=%E9%A6%96%E5%B1%8A%E9%93%BE%E5%8D%9A%E4%BC%9A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上呼吸道感染无特效药](https://www.baidu.com/s?wd=%E4%B8%8A%E5%91%BC%E5%90%B8%E9%81%93%E6%84%9F%E6%9F%93%E6%97%A0%E7%89%B9%E6%95%88%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [直击“支原体感染”席卷下的儿科](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E2%80%9C%E6%94%AF%E5%8E%9F%E4%BD%93%E6%84%9F%E6%9F%93%E2%80%9D%E5%B8%AD%E5%8D%B7%E4%B8%8B%E7%9A%84%E5%84%BF%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国空间站全貌高清图像公布](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%85%A8%E8%B2%8C%E9%AB%98%E6%B8%85%E5%9B%BE%E5%83%8F%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [滴滴闪崩有司机收入超690亿？](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E9%97%AA%E5%B4%A9%E6%9C%89%E5%8F%B8%E6%9C%BA%E6%94%B6%E5%85%A5%E8%B6%85690%E4%BA%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [辽宁一小学班级集体罢课](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%8F%AD%E7%BA%A7%E9%9B%86%E4%BD%93%E7%BD%A2%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [滴滴崩了12小时预计损失超4亿](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E5%B4%A9%E4%BA%8612%E5%B0%8F%E6%97%B6%E9%A2%84%E8%AE%A1%E6%8D%9F%E5%A4%B1%E8%B6%854%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男方给30万彩礼女方却只拿到20万](https://www.baidu.com/s?wd=%E7%94%B7%E6%96%B9%E7%BB%9930%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A5%B3%E6%96%B9%E5%8D%B4%E5%8F%AA%E6%8B%BF%E5%88%B020%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [投靠朋友家可以落户上海？](https://www.baidu.com/s?wd=%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%8F%AF%E4%BB%A5%E8%90%BD%E6%88%B7%E4%B8%8A%E6%B5%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
