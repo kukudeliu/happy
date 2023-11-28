@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 09:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 09:03:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [青桔 害我迟到](https://s.weibo.com/weibo?q=%E9%9D%92%E6%A1%94%20%E5%AE%B3%E6%88%91%E8%BF%9F%E5%88%B0&t=31&band_rank=4&Refer=top)<br />
 5. [月薪3000保洁阿姨3年捡50多万财物](https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA3000%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A83%E5%B9%B4%E6%8D%A150%E5%A4%9A%E4%B8%87%E8%B4%A2%E7%89%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [嗓子疼](https://s.weibo.com/weibo?q=%E5%97%93%E5%AD%90%E7%96%BC&t=31&band_rank=6&Refer=top)<br />
-7. [总做美甲的人现在都怎么样了](https://s.weibo.com/weibo?q=%23%E6%80%BB%E5%81%9A%E7%BE%8E%E7%94%B2%E7%9A%84%E4%BA%BA%E7%8E%B0%E5%9C%A8%E9%83%BD%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [旭旭宝宝](https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D&t=31&band_rank=8&Refer=top)<br />
+7. [旭旭宝宝](https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D&t=31&band_rank=7&Refer=top)<br />
+8. [总做美甲的人现在都怎么样了](https://s.weibo.com/weibo?q=%23%E6%80%BB%E5%81%9A%E7%BE%8E%E7%94%B2%E7%9A%84%E4%BA%BA%E7%8E%B0%E5%9C%A8%E9%83%BD%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [5个体检项目千万别躲着不做](https://s.weibo.com/weibo?q=%235%E4%B8%AA%E4%BD%93%E6%A3%80%E9%A1%B9%E7%9B%AE%E5%8D%83%E4%B8%87%E5%88%AB%E8%BA%B2%E7%9D%80%E4%B8%8D%E5%81%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
