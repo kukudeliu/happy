@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 17:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 17:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王睡睡 不要再回头了](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9D%A1%E7%9D%A1%20%E4%B8%8D%E8%A6%81%E5%86%8D%E5%9B%9E%E5%A4%B4%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [朱丹曾被朋友骗光所有积蓄](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%B9%E6%9B%BE%E8%A2%AB%E6%9C%8B%E5%8F%8B%E9%AA%97%E5%85%89%E6%89%80%E6%9C%89%E7%A7%AF%E8%93%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [傅首尔老刘都没下车](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E8%80%81%E5%88%98%E9%83%BD%E6%B2%A1%E4%B8%8B%E8%BD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [美方多次破坏中国企业和其他国家合作](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E5%A4%9A%E6%AC%A1%E7%A0%B4%E5%9D%8F%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%92%8C%E5%85%B6%E4%BB%96%E5%9B%BD%E5%AE%B6%E5%90%88%E4%BD%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [喜茶 我佛持杯](https://s.weibo.com/weibo?q=%E5%96%9C%E8%8C%B6%20%E6%88%91%E4%BD%9B%E6%8C%81%E6%9D%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
