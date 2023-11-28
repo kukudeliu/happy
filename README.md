@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 20:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 20:15:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [痞幼3个月广告收入约为1620万](https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC3%E4%B8%AA%E6%9C%88%E5%B9%BF%E5%91%8A%E6%94%B6%E5%85%A5%E7%BA%A6%E4%B8%BA1620%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [李想 很抱歉我们失言了](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%83%B3%20%E5%BE%88%E6%8A%B1%E6%AD%89%E6%88%91%E4%BB%AC%E5%A4%B1%E8%A8%80%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [黑龙江一煤矿事故11人遇难](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%8511%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=6&Refer=top)<br />
-7. [失业父亲因20元生日蛋糕泪崩](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E4%B8%9A%E7%88%B6%E4%BA%B2%E5%9B%A020%E5%85%83%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E6%B3%AA%E5%B4%A9%23&t=31&band_rank=7&Refer=top)<br />
-8. [已婚男陈立隐形出轨](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E5%A9%9A%E7%94%B7%E9%99%88%E7%AB%8B%E9%9A%90%E5%BD%A2%E5%87%BA%E8%BD%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [沈小婷 猫女](https://s.weibo.com/weibo?q=%E6%B2%88%E5%B0%8F%E5%A9%B7%20%E7%8C%AB%E5%A5%B3&t=31&band_rank=9&Refer=top)<br />
+7. [已婚男陈立隐形出轨](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E5%A9%9A%E7%94%B7%E9%99%88%E7%AB%8B%E9%9A%90%E5%BD%A2%E5%87%BA%E8%BD%A8%23&t=31&band_rank=7&Refer=top)<br />
+8. [沈小婷 猫女](https://s.weibo.com/weibo?q=%E6%B2%88%E5%B0%8F%E5%A9%B7%20%E7%8C%AB%E5%A5%B3&t=31&band_rank=8&Refer=top)<br />
+9. [失业父亲因20元生日蛋糕泪崩](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E4%B8%9A%E7%88%B6%E4%BA%B2%E5%9B%A020%E5%85%83%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E6%B3%AA%E5%B4%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
