@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 16:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 16:37:01</h4></div>
 
 > 微博  
 
-1. [朱丹曾被朋友骗光所有积蓄](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%B9%E6%9B%BE%E8%A2%AB%E6%9C%8B%E5%8F%8B%E9%AA%97%E5%85%89%E6%89%80%E6%9C%89%E7%A7%AF%E8%93%84%23&t=31&band_rank=1&Refer=top)<br />
-2. [痞幼3个月广告收入约为1620万](https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC3%E4%B8%AA%E6%9C%88%E5%B9%BF%E5%91%8A%E6%94%B6%E5%85%A5%E7%BA%A6%E4%B8%BA1620%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
+1. [痞幼3个月广告收入约为1620万](https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC3%E4%B8%AA%E6%9C%88%E5%B9%BF%E5%91%8A%E6%94%B6%E5%85%A5%E7%BA%A6%E4%B8%BA1620%E4%B8%87%23&t=31&band_rank=1&Refer=top)<br />
+2. [朱丹曾被朋友骗光所有积蓄](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%B9%E6%9B%BE%E8%A2%AB%E6%9C%8B%E5%8F%8B%E9%AA%97%E5%85%89%E6%89%80%E6%9C%89%E7%A7%AF%E8%93%84%23&t=31&band_rank=2&Refer=top)<br />
 3. [第一届中国国际供应链促进博览会](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E5%B1%8A%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E4%BE%9B%E5%BA%94%E9%93%BE%E4%BF%83%E8%BF%9B%E5%8D%9A%E8%A7%88%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [傅首尔老刘都没下车](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E8%80%81%E5%88%98%E9%83%BD%E6%B2%A1%E4%B8%8B%E8%BD%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [喜茶 我佛持杯](https://s.weibo.com/weibo?q=%E5%96%9C%E8%8C%B6%20%E6%88%91%E4%BD%9B%E6%8C%81%E6%9D%AF&t=31&band_rank=5&Refer=top)<br />
