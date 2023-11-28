@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 09:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 09:33:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [泰国血色婚礼致5死1重伤](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E8%A1%80%E8%89%B2%E5%A9%9A%E7%A4%BC%E8%87%B45%E6%AD%BB1%E9%87%8D%E4%BC%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [月薪3000保洁阿姨3年捡50多万财物](https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA3000%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A83%E5%B9%B4%E6%8D%A150%E5%A4%9A%E4%B8%87%E8%B4%A2%E7%89%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [青桔 害我迟到](https://s.weibo.com/weibo?q=%E9%9D%92%E6%A1%94%20%E5%AE%B3%E6%88%91%E8%BF%9F%E5%88%B0&t=31&band_rank=6&Refer=top)<br />
-7. [滴滴网约车等服务已恢复](https://s.weibo.com/weibo?q=%23%E6%BB%B4%E6%BB%B4%E7%BD%91%E7%BA%A6%E8%BD%A6%E7%AD%89%E6%9C%8D%E5%8A%A1%E5%B7%B2%E6%81%A2%E5%A4%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [旭旭宝宝](https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D&t=31&band_rank=8&Refer=top)<br />
+7. [旭旭宝宝](https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D&t=31&band_rank=7&Refer=top)<br />
+8. [滴滴网约车等服务已恢复](https://s.weibo.com/weibo?q=%23%E6%BB%B4%E6%BB%B4%E7%BD%91%E7%BA%A6%E8%BD%A6%E7%AD%89%E6%9C%8D%E5%8A%A1%E5%B7%B2%E6%81%A2%E5%A4%8D%23&t=31&band_rank=8&Refer=top)<br />
 9. [高中妹妹厌学哥哥带其到大学上课](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%AD%E5%A6%B9%E5%A6%B9%E5%8E%8C%E5%AD%A6%E5%93%A5%E5%93%A5%E5%B8%A6%E5%85%B6%E5%88%B0%E5%A4%A7%E5%AD%A6%E4%B8%8A%E8%AF%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
