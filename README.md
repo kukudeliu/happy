@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 02:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 02:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [审判一念关山](https://s.weibo.com/weibo?q=%23%E5%AE%A1%E5%88%A4%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [山东明确要求师生不带病上班上课](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%98%8E%E7%A1%AE%E8%A6%81%E6%B1%82%E5%B8%88%E7%94%9F%E4%B8%8D%E5%B8%A6%E7%97%85%E4%B8%8A%E7%8F%AD%E4%B8%8A%E8%AF%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [一念关山 镜头美感](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E9%95%9C%E5%A4%B4%E7%BE%8E%E6%84%9F&t=31&band_rank=8&Refer=top)<br />
-9. [不经意的卫生坏习惯](https://s.weibo.com/weibo?q=%E4%B8%8D%E7%BB%8F%E6%84%8F%E7%9A%84%E5%8D%AB%E7%94%9F%E5%9D%8F%E4%B9%A0%E6%83%AF&t=31&band_rank=9&Refer=top)<br />
+9. [海底捞服务员跳擦玻璃舞被指低俗](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E6%9C%8D%E5%8A%A1%E5%91%98%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
