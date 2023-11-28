@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 00:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 00:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [何猷君奚梦瑶孩子正脸](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E5%A5%9A%E6%A2%A6%E7%91%B6%E5%AD%A9%E5%AD%90%E6%AD%A3%E8%84%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [邓超定7个闹钟听鹿晗新歌](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%AE%9A7%E4%B8%AA%E9%97%B9%E9%92%9F%E5%90%AC%E9%B9%BF%E6%99%97%E6%96%B0%E6%AD%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [北京要求一切以孩子身体为重](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E8%A6%81%E6%B1%82%E4%B8%80%E5%88%87%E4%BB%A5%E5%AD%A9%E5%AD%90%E8%BA%AB%E4%BD%93%E4%B8%BA%E9%87%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [大连通报鬼秤事件处罚结果](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E9%80%9A%E6%8A%A5%E9%AC%BC%E7%A7%A4%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%BD%9A%E7%BB%93%E6%9E%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [投降式睡姿的康复角度解析](https://s.weibo.com/weibo?q=%E6%8A%95%E9%99%8D%E5%BC%8F%E7%9D%A1%E5%A7%BF%E7%9A%84%E5%BA%B7%E5%A4%8D%E8%A7%92%E5%BA%A6%E8%A7%A3%E6%9E%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
