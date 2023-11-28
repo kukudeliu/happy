@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 15:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 15:21:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [主播小涛在非洲在埃塞俄比亚遇害](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E5%B0%8F%E6%B6%9B%E5%9C%A8%E9%9D%9E%E6%B4%B2%E5%9C%A8%E5%9F%83%E5%A1%9E%E4%BF%84%E6%AF%94%E4%BA%9A%E9%81%87%E5%AE%B3%23&t=31&band_rank=4&Refer=top)<br />
 5. [盲人女性如何度过经期](https://s.weibo.com/weibo?q=%E7%9B%B2%E4%BA%BA%E5%A5%B3%E6%80%A7%E5%A6%82%E4%BD%95%E5%BA%A6%E8%BF%87%E7%BB%8F%E6%9C%9F&t=31&band_rank=5&Refer=top)<br />
 6. [王睡睡张硕oe](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9D%A1%E7%9D%A1%E5%BC%A0%E7%A1%95oe%23&t=31&band_rank=6&Refer=top)<br />
-7. [MAMA红毯](https://s.weibo.com/weibo?q=MAMA%E7%BA%A2%E6%AF%AF&t=31&band_rank=7&Refer=top)<br />
-8. [羽绒服上没有这几个字再便宜也别买](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8A%E6%B2%A1%E6%9C%89%E8%BF%99%E5%87%A0%E4%B8%AA%E5%AD%97%E5%86%8D%E4%BE%BF%E5%AE%9C%E4%B9%9F%E5%88%AB%E4%B9%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [旭旭宝宝工作室秒挂电话](https://s.weibo.com/weibo?q=%23%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%A7%92%E6%8C%82%E7%94%B5%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
+7. [旭旭宝宝工作室秒挂电话](https://s.weibo.com/weibo?q=%23%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%A7%92%E6%8C%82%E7%94%B5%E8%AF%9D%23&t=31&band_rank=7&Refer=top)<br />
+8. [MAMA红毯](https://s.weibo.com/weibo?q=MAMA%E7%BA%A2%E6%AF%AF&t=31&band_rank=8&Refer=top)<br />
+9. [羽绒服上没有这几个字再便宜也别买](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8A%E6%B2%A1%E6%9C%89%E8%BF%99%E5%87%A0%E4%B8%AA%E5%AD%97%E5%86%8D%E4%BE%BF%E5%AE%9C%E4%B9%9F%E5%88%AB%E4%B9%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
