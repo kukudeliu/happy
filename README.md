@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 13:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 13:25:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [杭州高校保洁阿姨3年捡50多万财物](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%AB%98%E6%A0%A1%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A83%E5%B9%B4%E6%8D%A150%E5%A4%9A%E4%B8%87%E8%B4%A2%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [秦海璐 三十岁没结婚没什么关系](https://www.baidu.com/s?wd=%E7%A7%A6%E6%B5%B7%E7%92%90+%E4%B8%89%E5%8D%81%E5%B2%81%E6%B2%A1%E7%BB%93%E5%A9%9A%E6%B2%A1%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [上海儿科门诊现堰塞湖式就诊](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%84%BF%E7%A7%91%E9%97%A8%E8%AF%8A%E7%8E%B0%E5%A0%B0%E5%A1%9E%E6%B9%96%E5%BC%8F%E5%B0%B1%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [丈夫第一次刷鞋将千元靴变皮干](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%88%B7%E9%9E%8B%E5%B0%86%E5%8D%83%E5%85%83%E9%9D%B4%E5%8F%98%E7%9A%AE%E5%B9%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [滴滴崩一夜有司机“收入超690亿”](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E5%B4%A9%E4%B8%80%E5%A4%9C%E6%9C%89%E5%8F%B8%E6%9C%BA%E2%80%9C%E6%94%B6%E5%85%A5%E8%B6%85690%E4%BA%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣中学领导猥亵女教师](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E9%A2%86%E5%AF%BC%E7%8C%A5%E4%BA%B5%E5%A5%B3%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [杭州高校保洁阿姨3年捡50多万财物](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%AB%98%E6%A0%A1%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A83%E5%B9%B4%E6%8D%A150%E5%A4%9A%E4%B8%87%E8%B4%A2%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [秦海璐 三十岁没结婚没什么关系](https://www.baidu.com/s?wd=%E7%A7%A6%E6%B5%B7%E7%92%90+%E4%B8%89%E5%8D%81%E5%B2%81%E6%B2%A1%E7%BB%93%E5%A9%9A%E6%B2%A1%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [上海儿科门诊现堰塞湖式就诊](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%84%BF%E7%A7%91%E9%97%A8%E8%AF%8A%E7%8E%B0%E5%A0%B0%E5%A1%9E%E6%B9%96%E5%BC%8F%E5%B0%B1%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [丈夫第一次刷鞋将千元靴变皮干](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%88%B7%E9%9E%8B%E5%B0%86%E5%8D%83%E5%85%83%E9%9D%B4%E5%8F%98%E7%9A%AE%E5%B9%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [滴滴崩一夜有司机“收入超690亿”](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E5%B4%A9%E4%B8%80%E5%A4%9C%E6%9C%89%E5%8F%B8%E6%9C%BA%E2%80%9C%E6%94%B6%E5%85%A5%E8%B6%85690%E4%BA%BF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣中学领导猥亵女教师](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E9%A2%86%E5%AF%BC%E7%8C%A5%E4%BA%B5%E5%A5%B3%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
