@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 15:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 15:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [羽绒服上没有这几个字再便宜也别买](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8A%E6%B2%A1%E6%9C%89%E8%BF%99%E5%87%A0%E4%B8%AA%E5%AD%97%E5%86%8D%E4%BE%BF%E5%AE%9C%E4%B9%9F%E5%88%AB%E4%B9%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [MAMA红毯](https://s.weibo.com/weibo?q=MAMA%E7%BA%A2%E6%AF%AF&t=31&band_rank=7&Refer=top)<br />
 8. [盲人女性如何度过经期](https://s.weibo.com/weibo?q=%E7%9B%B2%E4%BA%BA%E5%A5%B3%E6%80%A7%E5%A6%82%E4%BD%95%E5%BA%A6%E8%BF%87%E7%BB%8F%E6%9C%9F&t=31&band_rank=8&Refer=top)<br />
-9. [热狗 我是骂所有人不只是杰伦](https://s.weibo.com/weibo?q=%E7%83%AD%E7%8B%97%20%E6%88%91%E6%98%AF%E9%AA%82%E6%89%80%E6%9C%89%E4%BA%BA%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%9D%B0%E4%BC%A6&t=31&band_rank=9&Refer=top)<br />
+9. [网红痞幼就盗用他人视频道歉](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%97%9E%E5%B9%BC%E5%B0%B1%E7%9B%97%E7%94%A8%E4%BB%96%E4%BA%BA%E8%A7%86%E9%A2%91%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,7 +23,7 @@
 4. [中国经济向好要素不断积聚](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%90%91%E5%A5%BD%E8%A6%81%E7%B4%A0%E4%B8%8D%E6%96%AD%E7%A7%AF%E8%81%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [浙江2名商贩往腊肉上喷敌敌畏被判刑](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F2%E5%90%8D%E5%95%86%E8%B4%A9%E5%BE%80%E8%85%8A%E8%82%89%E4%B8%8A%E5%96%B7%E6%95%8C%E6%95%8C%E7%95%8F%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [6名中国乞丐在泰国被捕调查结果公布](https://www.baidu.com/s?wd=6%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%B9%9E%E4%B8%90%E5%9C%A8%E6%B3%B0%E5%9B%BD%E8%A2%AB%E6%8D%95%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国湖泊第一馆闲置 省委书记暗访](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B9%96%E6%B3%8A%E7%AC%AC%E4%B8%80%E9%A6%86%E9%97%B2%E7%BD%AE+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%9A%97%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [8岁男孩患肺炎支原体肺炎后突发脑梗](https://www.baidu.com/s?wd=8%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E8%82%BA%E7%82%8E%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E5%90%8E%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [怀旧八零九零](https://www.baidu.com/s?wd=%23%E6%80%80%E6%97%A7%E5%85%AB%E9%9B%B6%E4%B9%9D%E9%9B%B6%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣中学领导猥亵女教师](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E9%A2%86%E5%AF%BC%E7%8C%A5%E4%BA%B5%E5%A5%B3%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [中国经济向好要素不断积聚](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%90%91%E5%A5%BD%E8%A6%81%E7%B4%A0%E4%B8%8D%E6%96%AD%E7%A7%AF%E8%81%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [浙江2名商贩往腊肉上喷敌敌畏被判刑](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F2%E5%90%8D%E5%95%86%E8%B4%A9%E5%BE%80%E8%85%8A%E8%82%89%E4%B8%8A%E5%96%B7%E6%95%8C%E6%95%8C%E7%95%8F%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [6名中国乞丐在泰国被捕调查结果公布](https://www.baidu.com/s?wd=6%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%B9%9E%E4%B8%90%E5%9C%A8%E6%B3%B0%E5%9B%BD%E8%A2%AB%E6%8D%95%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国湖泊第一馆闲置 省委书记暗访](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B9%96%E6%B3%8A%E7%AC%AC%E4%B8%80%E9%A6%86%E9%97%B2%E7%BD%AE+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%9A%97%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [8岁男孩患肺炎支原体肺炎后突发脑梗](https://www.baidu.com/s?wd=8%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E8%82%BA%E7%82%8E%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E5%90%8E%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [怀旧八零九零](https://www.baidu.com/s?wd=%23%E6%80%80%E6%97%A7%E5%85%AB%E9%9B%B6%E4%B9%9D%E9%9B%B6%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣中学领导猥亵女教师](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E9%A2%86%E5%AF%BC%E7%8C%A5%E4%BA%B5%E5%A5%B3%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
