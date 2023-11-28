@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 03:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 03:50:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [B太曝光的鬼秤商家被罚20万](https://www.baidu.com/s?wd=B%E5%A4%AA%E6%9B%9D%E5%85%89%E7%9A%84%E9%AC%BC%E7%A7%A4%E5%95%86%E5%AE%B6%E8%A2%AB%E7%BD%9A20%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [首届链博会来了](https://www.baidu.com/s?wd=%E9%A6%96%E5%B1%8A%E9%93%BE%E5%8D%9A%E4%BC%9A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上呼吸道感染无特效药](https://www.baidu.com/s?wd=%E4%B8%8A%E5%91%BC%E5%90%B8%E9%81%93%E6%84%9F%E6%9F%93%E6%97%A0%E7%89%B9%E6%95%88%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [南通一医院输液室设学习区](https://www.baidu.com/s?wd=%E5%8D%97%E9%80%9A%E4%B8%80%E5%8C%BB%E9%99%A2%E8%BE%93%E6%B6%B2%E5%AE%A4%E8%AE%BE%E5%AD%A6%E4%B9%A0%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [辽宁一小学班级集体罢课](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%8F%AD%E7%BA%A7%E9%9B%86%E4%BD%93%E7%BD%A2%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男方给30万彩礼女方却只拿到20万](https://www.baidu.com/s?wd=%E7%94%B7%E6%96%B9%E7%BB%9930%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A5%B3%E6%96%B9%E5%8D%B4%E5%8F%AA%E6%8B%BF%E5%88%B020%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [辽宁一小学班级集体罢课](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%8F%AD%E7%BA%A7%E9%9B%86%E4%BD%93%E7%BD%A2%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男方给30万彩礼女方却只拿到20万](https://www.baidu.com/s?wd=%E7%94%B7%E6%96%B9%E7%BB%9930%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A5%B3%E6%96%B9%E5%8D%B4%E5%8F%AA%E6%8B%BF%E5%88%B020%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女儿给患癌母亲拍遗照父亲帮打光](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E7%BB%99%E6%82%A3%E7%99%8C%E6%AF%8D%E4%BA%B2%E6%8B%8D%E9%81%97%E7%85%A7%E7%88%B6%E4%BA%B2%E5%B8%AE%E6%89%93%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [投靠朋友家可以落户上海？](https://www.baidu.com/s?wd=%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%8F%AF%E4%BB%A5%E8%90%BD%E6%88%B7%E4%B8%8A%E6%B5%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [B太曝光的鬼秤商家被罚20万](https://www.baidu.com/s?wd=B%E5%A4%AA%E6%9B%9D%E5%85%89%E7%9A%84%E9%AC%BC%E7%A7%A4%E5%95%86%E5%AE%B6%E8%A2%AB%E7%BD%9A20%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [首届链博会来了](https://www.baidu.com/s?wd=%E9%A6%96%E5%B1%8A%E9%93%BE%E5%8D%9A%E4%BC%9A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上呼吸道感染无特效药](https://www.baidu.com/s?wd=%E4%B8%8A%E5%91%BC%E5%90%B8%E9%81%93%E6%84%9F%E6%9F%93%E6%97%A0%E7%89%B9%E6%95%88%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [南通一医院输液室设学习区](https://www.baidu.com/s?wd=%E5%8D%97%E9%80%9A%E4%B8%80%E5%8C%BB%E9%99%A2%E8%BE%93%E6%B6%B2%E5%AE%A4%E8%AE%BE%E5%AD%A6%E4%B9%A0%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [辽宁一小学班级集体罢课](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%8F%AD%E7%BA%A7%E9%9B%86%E4%BD%93%E7%BD%A2%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男方给30万彩礼女方却只拿到20万](https://www.baidu.com/s?wd=%E7%94%B7%E6%96%B9%E7%BB%9930%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A5%B3%E6%96%B9%E5%8D%B4%E5%8F%AA%E6%8B%BF%E5%88%B020%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [辽宁一小学班级集体罢课](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%8F%AD%E7%BA%A7%E9%9B%86%E4%BD%93%E7%BD%A2%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男方给30万彩礼女方却只拿到20万](https://www.baidu.com/s?wd=%E7%94%B7%E6%96%B9%E7%BB%9930%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A5%B3%E6%96%B9%E5%8D%B4%E5%8F%AA%E6%8B%BF%E5%88%B020%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女儿给患癌母亲拍遗照父亲帮打光](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E7%BB%99%E6%82%A3%E7%99%8C%E6%AF%8D%E4%BA%B2%E6%8B%8D%E9%81%97%E7%85%A7%E7%88%B6%E4%BA%B2%E5%B8%AE%E6%89%93%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [投靠朋友家可以落户上海？](https://www.baidu.com/s?wd=%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%8F%AF%E4%BB%A5%E8%90%BD%E6%88%B7%E4%B8%8A%E6%B5%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
