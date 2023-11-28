@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 12:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 12:25:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [呼吸道疾病高发期实用防治手册](https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E9%AB%98%E5%8F%91%E6%9C%9F%E5%AE%9E%E7%94%A8%E9%98%B2%E6%B2%BB%E6%89%8B%E5%86%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [大奉打更人](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA&t=31&band_rank=4&Refer=top)<br />
 5. [有滴滴司机称8公里订单收费1540元](https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%BB%B4%E6%BB%B4%E5%8F%B8%E6%9C%BA%E7%A7%B08%E5%85%AC%E9%87%8C%E8%AE%A2%E5%8D%95%E6%94%B6%E8%B4%B91540%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
-6. [斗鱼多位大主播已停播超10天](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E5%A4%9A%E4%BD%8D%E5%A4%A7%E4%B8%BB%E6%92%AD%E5%B7%B2%E5%81%9C%E6%92%AD%E8%B6%8510%E5%A4%A9%23&t=31&band_rank=6&Refer=top)<br />
-7. [女将星 妆造](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%B0%86%E6%98%9F%20%E5%A6%86%E9%80%A0&t=31&band_rank=7&Refer=top)<br />
+6. [女将星 妆造](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%B0%86%E6%98%9F%20%E5%A6%86%E9%80%A0&t=31&band_rank=6&Refer=top)<br />
+7. [斗鱼多位大主播已停播超10天](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E5%A4%9A%E4%BD%8D%E5%A4%A7%E4%B8%BB%E6%92%AD%E5%B7%B2%E5%81%9C%E6%92%AD%E8%B6%8510%E5%A4%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [他俩上次吃饭还在武林外传](https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BF%A9%E4%B8%8A%E6%AC%A1%E5%90%83%E9%A5%AD%E8%BF%98%E5%9C%A8%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%23&t=31&band_rank=8&Refer=top)<br />
 9. [张进为迪丽热巴化的妆](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9B%E4%B8%BA%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8C%96%E7%9A%84%E5%A6%86%23&t=31&band_rank=9&Refer=top)<br />
 
