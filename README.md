@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 20:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 20:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李想 很抱歉我们失言了](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%83%B3%20%E5%BE%88%E6%8A%B1%E6%AD%89%E6%88%91%E4%BB%AC%E5%A4%B1%E8%A8%80%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [皮肤饥渴症](https://s.weibo.com/weibo?q=%23%E7%9A%AE%E8%82%A4%E9%A5%A5%E6%B8%B4%E7%97%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [黑龙江一煤矿事故11人遇难](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%8511%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [失业父亲因20元生日蛋糕泪崩](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E4%B8%9A%E7%88%B6%E4%BA%B2%E5%9B%A020%E5%85%83%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E6%B3%AA%E5%B4%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [李雪琴上竞综只办一件事](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%9B%AA%E7%90%B4%E4%B8%8A%E7%AB%9E%E7%BB%BC%E5%8F%AA%E5%8A%9E%E4%B8%80%E4%BB%B6%E4%BA%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
