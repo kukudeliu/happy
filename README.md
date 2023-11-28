@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 19:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 19:46:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [痞幼3个月广告收入约为1620万](https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC3%E4%B8%AA%E6%9C%88%E5%B9%BF%E5%91%8A%E6%94%B6%E5%85%A5%E7%BA%A6%E4%B8%BA1620%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [这家快餐店可以免费吃饭](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%AE%B6%E5%BF%AB%E9%A4%90%E5%BA%97%E5%8F%AF%E4%BB%A5%E5%85%8D%E8%B4%B9%E5%90%83%E9%A5%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [李想 很抱歉我们失言了](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%83%B3%20%E5%BE%88%E6%8A%B1%E6%AD%89%E6%88%91%E4%BB%AC%E5%A4%B1%E8%A8%80%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [MAMA导播是懂怼脸的](https://s.weibo.com/weibo?q=MAMA%E5%AF%BC%E6%92%AD%E6%98%AF%E6%87%82%E6%80%BC%E8%84%B8%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
+7. [沈小婷 猫女](https://s.weibo.com/weibo?q=%E6%B2%88%E5%B0%8F%E5%A9%B7%20%E7%8C%AB%E5%A5%B3&t=31&band_rank=7&Refer=top)<br />
 8. [男子多次高空抛物致28岁女子身亡](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%9A%E6%AC%A1%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%87%B428%E5%B2%81%E5%A5%B3%E5%AD%90%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [沈小婷 猫女](https://s.weibo.com/weibo?q=%E6%B2%88%E5%B0%8F%E5%A9%B7%20%E7%8C%AB%E5%A5%B3&t=31&band_rank=9&Refer=top)<br />
+9. [MAMA导播是懂怼脸的](https://s.weibo.com/weibo?q=MAMA%E5%AF%BC%E6%92%AD%E6%98%AF%E6%87%82%E6%80%BC%E8%84%B8%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
