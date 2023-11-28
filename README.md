@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 03:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 04:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [审判一念关山](https://s.weibo.com/weibo?q=%23%E5%AE%A1%E5%88%A4%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [胃病发展成胃癌的五个征兆](https://s.weibo.com/weibo?q=%23%E8%83%83%E7%97%85%E5%8F%91%E5%B1%95%E6%88%90%E8%83%83%E7%99%8C%E7%9A%84%E4%BA%94%E4%B8%AA%E5%BE%81%E5%85%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [一念关山 镜头美感](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E9%95%9C%E5%A4%B4%E7%BE%8E%E6%84%9F&t=31&band_rank=8&Refer=top)<br />
-9. [皮肤饥渴症](https://s.weibo.com/weibo?q=%23%E7%9A%AE%E8%82%A4%E9%A5%A5%E6%B8%B4%E7%97%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [失业父亲因20元生日蛋糕泪崩](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E4%B8%9A%E7%88%B6%E4%BA%B2%E5%9B%A020%E5%85%83%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E6%B3%AA%E5%B4%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
