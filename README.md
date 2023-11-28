@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 11:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 11:38:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [中共中央政治局召开会议](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [在数字经济、互联网等领域扩大开放](https://www.baidu.com/s?wd=%E5%9C%A8%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E3%80%81%E4%BA%92%E8%81%94%E7%BD%91%E7%AD%89%E9%A2%86%E5%9F%9F%E6%89%A9%E5%A4%A7%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [鹅腿阿姨凭什么让三大高校争抢](https://www.baidu.com/s?wd=%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E5%87%AD%E4%BB%80%E4%B9%88%E8%AE%A9%E4%B8%89%E5%A4%A7%E9%AB%98%E6%A0%A1%E4%BA%89%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [10万亿金融巨头CEO去世](https://www.baidu.com/s?wd=10%E4%B8%87%E4%BA%BF%E9%87%91%E8%9E%8D%E5%B7%A8%E5%A4%B4CEO%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济向好要素不断积聚](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%90%91%E5%A5%BD%E8%A6%81%E7%B4%A0%E4%B8%8D%E6%96%AD%E7%A7%AF%E8%81%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [中共中央政治局召开会议](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [在数字经济、互联网等领域扩大开放](https://www.baidu.com/s?wd=%E5%9C%A8%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E3%80%81%E4%BA%92%E8%81%94%E7%BD%91%E7%AD%89%E9%A2%86%E5%9F%9F%E6%89%A9%E5%A4%A7%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [鹅腿阿姨凭什么让三大高校争抢](https://www.baidu.com/s?wd=%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E5%87%AD%E4%BB%80%E4%B9%88%E8%AE%A9%E4%B8%89%E5%A4%A7%E9%AB%98%E6%A0%A1%E4%BA%89%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [10万亿金融巨头CEO去世](https://www.baidu.com/s?wd=10%E4%B8%87%E4%BA%BF%E9%87%91%E8%9E%8D%E5%B7%A8%E5%A4%B4CEO%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济向好要素不断积聚](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%90%91%E5%A5%BD%E8%A6%81%E7%B4%A0%E4%B8%8D%E6%96%AD%E7%A7%AF%E8%81%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
