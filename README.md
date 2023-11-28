@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 08:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 08:25:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [男子每天喝30斤水去50次厕所](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E5%96%9D30%E6%96%A4%E6%B0%B4%E5%8E%BB50%E6%AC%A1%E5%8E%95%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [鹅腿阿姨凭什么让三大高校争抢](https://www.baidu.com/s?wd=%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E5%87%AD%E4%BB%80%E4%B9%88%E8%AE%A9%E4%B8%89%E5%A4%A7%E9%AB%98%E6%A0%A1%E4%BA%89%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“鹅腿阿姨”老伴回应走红](https://www.baidu.com/s?wd=%E2%80%9C%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E2%80%9D%E8%80%81%E4%BC%B4%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [部分城市可实现“投靠朋友落户”](https://www.baidu.com/s?wd=%E9%83%A8%E5%88%86%E5%9F%8E%E5%B8%82%E5%8F%AF%E5%AE%9E%E7%8E%B0%E2%80%9C%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E8%90%BD%E6%88%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家长吐槽海底捞科目三：恶心](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%A7%91%E7%9B%AE%E4%B8%89%EF%BC%9A%E6%81%B6%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [戴尔供应链将撤离中国？](https://www.baidu.com/s?wd=%E6%88%B4%E5%B0%94%E4%BE%9B%E5%BA%94%E9%93%BE%E5%B0%86%E6%92%A4%E7%A6%BB%E4%B8%AD%E5%9B%BD%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男子每天喝30斤水去50次厕所](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E5%96%9D30%E6%96%A4%E6%B0%B4%E5%8E%BB50%E6%AC%A1%E5%8E%95%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [鹅腿阿姨凭什么让三大高校争抢](https://www.baidu.com/s?wd=%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E5%87%AD%E4%BB%80%E4%B9%88%E8%AE%A9%E4%B8%89%E5%A4%A7%E9%AB%98%E6%A0%A1%E4%BA%89%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“鹅腿阿姨”老伴回应走红](https://www.baidu.com/s?wd=%E2%80%9C%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E2%80%9D%E8%80%81%E4%BC%B4%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [部分城市可实现“投靠朋友落户”](https://www.baidu.com/s?wd=%E9%83%A8%E5%88%86%E5%9F%8E%E5%B8%82%E5%8F%AF%E5%AE%9E%E7%8E%B0%E2%80%9C%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E8%90%BD%E6%88%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家长吐槽海底捞科目三：恶心](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%A7%91%E7%9B%AE%E4%B8%89%EF%BC%9A%E6%81%B6%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [戴尔供应链将撤离中国？](https://www.baidu.com/s?wd=%E6%88%B4%E5%B0%94%E4%BE%9B%E5%BA%94%E9%93%BE%E5%B0%86%E6%92%A4%E7%A6%BB%E4%B8%AD%E5%9B%BD%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
