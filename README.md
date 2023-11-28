@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 19:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 19:50:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [歌唱家德德玛去世](https://www.baidu.com/s?wd=%E6%AD%8C%E5%94%B1%E5%AE%B6%E5%BE%B7%E5%BE%B7%E7%8E%9B%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黑龙江一煤矿事故致11人遇难](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E8%87%B411%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大四男生华山拍照坠崖](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%8D%8E%E5%B1%B1%E6%8B%8D%E7%85%A7%E5%9D%A0%E5%B4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王思聪穿休闲服会见泰安市委领导](https://www.baidu.com/s?wd=%E7%8E%8B%E6%80%9D%E8%81%AA%E7%A9%BF%E4%BC%91%E9%97%B2%E6%9C%8D%E4%BC%9A%E8%A7%81%E6%B3%B0%E5%AE%89%E5%B8%82%E5%A7%94%E9%A2%86%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女儿给患癌母亲拍遗照父亲帮打光](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E7%BB%99%E6%82%A3%E7%99%8C%E6%AF%8D%E4%BA%B2%E6%8B%8D%E9%81%97%E7%85%A7%E7%88%B6%E4%BA%B2%E5%B8%AE%E6%89%93%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [滴滴闪崩有司机收入超690亿？](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E9%97%AA%E5%B4%A9%E6%9C%89%E5%8F%B8%E6%9C%BA%E6%94%B6%E5%85%A5%E8%B6%85690%E4%BA%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [歌唱家德德玛去世](https://www.baidu.com/s?wd=%E6%AD%8C%E5%94%B1%E5%AE%B6%E5%BE%B7%E5%BE%B7%E7%8E%9B%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黑龙江一煤矿事故致11人遇难](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E8%87%B411%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大四男生华山拍照坠崖](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%8D%8E%E5%B1%B1%E6%8B%8D%E7%85%A7%E5%9D%A0%E5%B4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王思聪穿休闲服会见泰安市委领导](https://www.baidu.com/s?wd=%E7%8E%8B%E6%80%9D%E8%81%AA%E7%A9%BF%E4%BC%91%E9%97%B2%E6%9C%8D%E4%BC%9A%E8%A7%81%E6%B3%B0%E5%AE%89%E5%B8%82%E5%A7%94%E9%A2%86%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女儿给患癌母亲拍遗照父亲帮打光](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E7%BB%99%E6%82%A3%E7%99%8C%E6%AF%8D%E4%BA%B2%E6%8B%8D%E9%81%97%E7%85%A7%E7%88%B6%E4%BA%B2%E5%B8%AE%E6%89%93%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [滴滴闪崩有司机收入超690亿？](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E9%97%AA%E5%B4%A9%E6%9C%89%E5%8F%B8%E6%9C%BA%E6%94%B6%E5%85%A5%E8%B6%85690%E4%BA%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
