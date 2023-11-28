@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 10:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 10:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高中妹妹厌学哥哥带其到大学上课](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%AD%E5%A6%B9%E5%A6%B9%E5%8E%8C%E5%AD%A6%E5%93%A5%E5%93%A5%E5%B8%A6%E5%85%B6%E5%88%B0%E5%A4%A7%E5%AD%A6%E4%B8%8A%E8%AF%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [月薪3000保洁阿姨3年捡50多万财物](https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA3000%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A83%E5%B9%B4%E6%8D%A150%E5%A4%9A%E4%B8%87%E8%B4%A2%E7%89%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [旭旭宝宝](https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D&t=31&band_rank=8&Refer=top)<br />
-9. [青桔 害我迟到](https://s.weibo.com/weibo?q=%E9%9D%92%E6%A1%94%20%E5%AE%B3%E6%88%91%E8%BF%9F%E5%88%B0&t=31&band_rank=9&Refer=top)<br />
+9. [全勤没了](https://s.weibo.com/weibo?q=%E5%85%A8%E5%8B%A4%E6%B2%A1%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
