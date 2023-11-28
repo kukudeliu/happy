@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 20:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 20:11:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [李想：很抱歉我们失言了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%83%B3%EF%BC%9A%E5%BE%88%E6%8A%B1%E6%AD%89%E6%88%91%E4%BB%AC%E5%A4%B1%E8%A8%80%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大四男生华山拍照坠崖](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%8D%8E%E5%B1%B1%E6%8B%8D%E7%85%A7%E5%9D%A0%E5%B4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [广西一男子骑电车“水上漂”](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E7%94%B7%E5%AD%90%E9%AA%91%E7%94%B5%E8%BD%A6%E2%80%9C%E6%B0%B4%E4%B8%8A%E6%BC%82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [滴滴闪崩有司机收入超690亿？](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E9%97%AA%E5%B4%A9%E6%9C%89%E5%8F%B8%E6%9C%BA%E6%94%B6%E5%85%A5%E8%B6%85690%E4%BA%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [投靠朋友家可以落户上海？](https://www.baidu.com/s?wd=%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%8F%AF%E4%BB%A5%E8%90%BD%E6%88%B7%E4%B8%8A%E6%B5%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [李想：很抱歉我们失言了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%83%B3%EF%BC%9A%E5%BE%88%E6%8A%B1%E6%AD%89%E6%88%91%E4%BB%AC%E5%A4%B1%E8%A8%80%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大四男生华山拍照坠崖](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%8D%8E%E5%B1%B1%E6%8B%8D%E7%85%A7%E5%9D%A0%E5%B4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [广西一男子骑电车“水上漂”](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E7%94%B7%E5%AD%90%E9%AA%91%E7%94%B5%E8%BD%A6%E2%80%9C%E6%B0%B4%E4%B8%8A%E6%BC%82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [滴滴闪崩有司机收入超690亿？](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E9%97%AA%E5%B4%A9%E6%9C%89%E5%8F%B8%E6%9C%BA%E6%94%B6%E5%85%A5%E8%B6%85690%E4%BA%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [投靠朋友家可以落户上海？](https://www.baidu.com/s?wd=%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%8F%AF%E4%BB%A5%E8%90%BD%E6%88%B7%E4%B8%8A%E6%B5%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
