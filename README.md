@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 18:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 18:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王睡睡 不要再回头了](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9D%A1%E7%9D%A1%20%E4%B8%8D%E8%A6%81%E5%86%8D%E5%9B%9E%E5%A4%B4%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [这家快餐店可以免费吃饭](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%AE%B6%E5%BF%AB%E9%A4%90%E5%BA%97%E5%8F%AF%E4%BB%A5%E5%85%8D%E8%B4%B9%E5%90%83%E9%A5%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [沈小婷MAMA新闻图](https://s.weibo.com/weibo?q=%23%E6%B2%88%E5%B0%8F%E5%A9%B7MAMA%E6%96%B0%E9%97%BB%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [王睡睡 纯爱战神之首](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9D%A1%E7%9D%A1%20%E7%BA%AF%E7%88%B1%E6%88%98%E7%A5%9E%E4%B9%8B%E9%A6%96&t=31&band_rank=9&Refer=top)<br />
+9. [佘诗曼美甲](https://s.weibo.com/weibo?q=%E4%BD%98%E8%AF%97%E6%9B%BC%E7%BE%8E%E7%94%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
