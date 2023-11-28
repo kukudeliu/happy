@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 22:02:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 22:03:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [胃病发展成胃癌的五个征兆](https://s.weibo.com/weibo?q=%23%E8%83%83%E7%97%85%E5%8F%91%E5%B1%95%E6%88%90%E8%83%83%E7%99%8C%E7%9A%84%E4%BA%94%E4%B8%AA%E5%BE%81%E5%85%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [MAMA获奖名单](https://s.weibo.com/weibo?q=MAMA%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95&t=31&band_rank=5&Refer=top)<br />
 6. [孙丞潇不让金莎看手机](https://s.weibo.com/weibo?q=%E5%AD%99%E4%B8%9E%E6%BD%87%E4%B8%8D%E8%AE%A9%E9%87%91%E8%8E%8E%E7%9C%8B%E6%89%8B%E6%9C%BA&t=31&band_rank=6&Refer=top)<br />
-7. [一念关山 六道堂男团](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E5%85%AD%E9%81%93%E5%A0%82%E7%94%B7%E5%9B%A2&t=31&band_rank=7&Refer=top)<br />
-8. [胡锡进称中华有为世界荣耀](https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E7%A7%B0%E4%B8%AD%E5%8D%8E%E6%9C%89%E4%B8%BA%E4%B8%96%E7%95%8C%E8%8D%A3%E8%80%80%23&t=31&band_rank=8&Refer=top)<br />
+7. [胡锡进称中华有为世界荣耀](https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E7%A7%B0%E4%B8%AD%E5%8D%8E%E6%9C%89%E4%B8%BA%E4%B8%96%E7%95%8C%E8%8D%A3%E8%80%80%23&t=31&band_rank=7&Refer=top)<br />
+8. [一念关山 六道堂男团](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E5%85%AD%E9%81%93%E5%A0%82%E7%94%B7%E5%9B%A2&t=31&band_rank=8&Refer=top)<br />
 9. [网传太原理工一导师辱骂压榨学生](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A4%AA%E5%8E%9F%E7%90%86%E5%B7%A5%E4%B8%80%E5%AF%BC%E5%B8%88%E8%BE%B1%E9%AA%82%E5%8E%8B%E6%A6%A8%E5%AD%A6%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
