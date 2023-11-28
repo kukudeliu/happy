@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 09:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 09:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [青桔 害我迟到](https://s.weibo.com/weibo?q=%E9%9D%92%E6%A1%94%20%E5%AE%B3%E6%88%91%E8%BF%9F%E5%88%B0&t=31&band_rank=6&Refer=top)<br />
 7. [高中妹妹厌学哥哥带其到大学上课](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%AD%E5%A6%B9%E5%A6%B9%E5%8E%8C%E5%AD%A6%E5%93%A5%E5%93%A5%E5%B8%A6%E5%85%B6%E5%88%B0%E5%A4%A7%E5%AD%A6%E4%B8%8A%E8%AF%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [旭旭宝宝](https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D&t=31&band_rank=8&Refer=top)<br />
-9. [滴滴网约车等服务已恢复](https://s.weibo.com/weibo?q=%23%E6%BB%B4%E6%BB%B4%E7%BD%91%E7%BA%A6%E8%BD%A6%E7%AD%89%E6%9C%8D%E5%8A%A1%E5%B7%B2%E6%81%A2%E5%A4%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [不是房产证加了名才叫共同财产](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%98%AF%E6%88%BF%E4%BA%A7%E8%AF%81%E5%8A%A0%E4%BA%86%E5%90%8D%E6%89%8D%E5%8F%AB%E5%85%B1%E5%90%8C%E8%B4%A2%E4%BA%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [经济恢复向好态势](https://www.baidu.com/s?wd=%E7%BB%8F%E6%B5%8E%E6%81%A2%E5%A4%8D%E5%90%91%E5%A5%BD%E6%80%81%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子每天喝30斤水去50次厕所](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E5%96%9D30%E6%96%A4%E6%B0%B4%E5%8E%BB50%E6%AC%A1%E5%8E%95%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [10万亿金融巨头CEO去世](https://www.baidu.com/s?wd=10%E4%B8%87%E4%BA%BF%E9%87%91%E8%9E%8D%E5%B7%A8%E5%A4%B4CEO%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [鹅腿阿姨凭什么让三大高校争抢](https://www.baidu.com/s?wd=%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E5%87%AD%E4%BB%80%E4%B9%88%E8%AE%A9%E4%B8%89%E5%A4%A7%E9%AB%98%E6%A0%A1%E4%BA%89%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泰国新郎杀新娘岳母后自杀 动机曝光](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%96%B0%E9%83%8E%E6%9D%80%E6%96%B0%E5%A8%98%E5%B2%B3%E6%AF%8D%E5%90%8E%E8%87%AA%E6%9D%80+%E5%8A%A8%E6%9C%BA%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [泰国新郎杀新娘岳母后自杀 动机曝光](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%96%B0%E9%83%8E%E6%9D%80%E6%96%B0%E5%A8%98%E5%B2%B3%E6%AF%8D%E5%90%8E%E8%87%AA%E6%9D%80+%E5%8A%A8%E6%9C%BA%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [滴滴崩了引发大量用户吐槽](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E5%B4%A9%E4%BA%86%E5%BC%95%E5%8F%91%E5%A4%A7%E9%87%8F%E7%94%A8%E6%88%B7%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [戴尔供应链将撤离中国？](https://www.baidu.com/s?wd=%E6%88%B4%E5%B0%94%E4%BE%9B%E5%BA%94%E9%93%BE%E5%B0%86%E6%92%A4%E7%A6%BB%E4%B8%AD%E5%9B%BD%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [经济恢复向好态势](https://www.baidu.com/s?wd=%E7%BB%8F%E6%B5%8E%E6%81%A2%E5%A4%8D%E5%90%91%E5%A5%BD%E6%80%81%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子每天喝30斤水去50次厕所](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E5%96%9D30%E6%96%A4%E6%B0%B4%E5%8E%BB50%E6%AC%A1%E5%8E%95%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [10万亿金融巨头CEO去世](https://www.baidu.com/s?wd=10%E4%B8%87%E4%BA%BF%E9%87%91%E8%9E%8D%E5%B7%A8%E5%A4%B4CEO%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [鹅腿阿姨凭什么让三大高校争抢](https://www.baidu.com/s?wd=%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E5%87%AD%E4%BB%80%E4%B9%88%E8%AE%A9%E4%B8%89%E5%A4%A7%E9%AB%98%E6%A0%A1%E4%BA%89%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泰国新郎杀新娘岳母后自杀 动机曝光](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%96%B0%E9%83%8E%E6%9D%80%E6%96%B0%E5%A8%98%E5%B2%B3%E6%AF%8D%E5%90%8E%E8%87%AA%E6%9D%80+%E5%8A%A8%E6%9C%BA%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [泰国新郎杀新娘岳母后自杀 动机曝光](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%96%B0%E9%83%8E%E6%9D%80%E6%96%B0%E5%A8%98%E5%B2%B3%E6%AF%8D%E5%90%8E%E8%87%AA%E6%9D%80+%E5%8A%A8%E6%9C%BA%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [滴滴崩了引发大量用户吐槽](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E5%B4%A9%E4%BA%86%E5%BC%95%E5%8F%91%E5%A4%A7%E9%87%8F%E7%94%A8%E6%88%B7%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [戴尔供应链将撤离中国？](https://www.baidu.com/s?wd=%E6%88%B4%E5%B0%94%E4%BE%9B%E5%BA%94%E9%93%BE%E5%B0%86%E6%92%A4%E7%A6%BB%E4%B8%AD%E5%9B%BD%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
