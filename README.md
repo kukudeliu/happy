@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 19:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 19:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [这家快餐店可以免费吃饭](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%AE%B6%E5%BF%AB%E9%A4%90%E5%BA%97%E5%8F%AF%E4%BB%A5%E5%85%8D%E8%B4%B9%E5%90%83%E9%A5%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [李想 很抱歉我们失言了](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%83%B3%20%E5%BE%88%E6%8A%B1%E6%AD%89%E6%88%91%E4%BB%AC%E5%A4%B1%E8%A8%80%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [MAMA导播是懂怼脸的](https://s.weibo.com/weibo?q=MAMA%E5%AF%BC%E6%92%AD%E6%98%AF%E6%87%82%E6%80%BC%E8%84%B8%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
-8. [JackeyLove再唱天后](https://s.weibo.com/weibo?q=%23JackeyLove%E5%86%8D%E5%94%B1%E5%A4%A9%E5%90%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [佘诗曼美甲](https://s.weibo.com/weibo?q=%E4%BD%98%E8%AF%97%E6%9B%BC%E7%BE%8E%E7%94%B2&t=31&band_rank=9&Refer=top)<br />
+8. [佘诗曼美甲](https://s.weibo.com/weibo?q=%E4%BD%98%E8%AF%97%E6%9B%BC%E7%BE%8E%E7%94%B2&t=31&band_rank=8&Refer=top)<br />
+9. [JackeyLove再唱天后](https://s.weibo.com/weibo?q=%23JackeyLove%E5%86%8D%E5%94%B1%E5%A4%A9%E5%90%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [滴滴崩了12小时预计损失超4亿](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E5%B4%A9%E4%BA%8612%E5%B0%8F%E6%97%B6%E9%A2%84%E8%AE%A1%E6%8D%9F%E5%A4%B1%E8%B6%854%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济将继续企稳回升](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B0%86%E7%BB%A7%E7%BB%AD%E4%BC%81%E7%A8%B3%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [歌唱家德德玛去世](https://www.baidu.com/s?wd=%E6%AD%8C%E5%94%B1%E5%AE%B6%E5%BE%B7%E5%BE%B7%E7%8E%9B%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [大四男生华山拍照坠崖](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%8D%8E%E5%B1%B1%E6%8B%8D%E7%85%A7%E5%9D%A0%E5%B4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王思聪穿休闲服会见泰安市委领导](https://www.baidu.com/s?wd=%E7%8E%8B%E6%80%9D%E8%81%AA%E7%A9%BF%E4%BC%91%E9%97%B2%E6%9C%8D%E4%BC%9A%E8%A7%81%E6%B3%B0%E5%AE%89%E5%B8%82%E5%A7%94%E9%A2%86%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [为什么军大衣会卖爆？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%9B%E5%A4%A7%E8%A1%A3%E4%BC%9A%E5%8D%96%E7%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [黑龙江一煤矿事故致11人遇难](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E8%87%B411%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大四男生华山拍照坠崖](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%8D%8E%E5%B1%B1%E6%8B%8D%E7%85%A7%E5%9D%A0%E5%B4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王思聪穿休闲服会见泰安市委领导](https://www.baidu.com/s?wd=%E7%8E%8B%E6%80%9D%E8%81%AA%E7%A9%BF%E4%BC%91%E9%97%B2%E6%9C%8D%E4%BC%9A%E8%A7%81%E6%B3%B0%E5%AE%89%E5%B8%82%E5%A7%94%E9%A2%86%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [滴滴闪崩有司机收入超690亿？](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E9%97%AA%E5%B4%A9%E6%9C%89%E5%8F%B8%E6%9C%BA%E6%94%B6%E5%85%A5%E8%B6%85690%E4%BA%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [滴滴崩了12小时预计损失超4亿](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E5%B4%A9%E4%BA%8612%E5%B0%8F%E6%97%B6%E9%A2%84%E8%AE%A1%E6%8D%9F%E5%A4%B1%E8%B6%854%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济将继续企稳回升](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B0%86%E7%BB%A7%E7%BB%AD%E4%BC%81%E7%A8%B3%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [歌唱家德德玛去世](https://www.baidu.com/s?wd=%E6%AD%8C%E5%94%B1%E5%AE%B6%E5%BE%B7%E5%BE%B7%E7%8E%9B%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [大四男生华山拍照坠崖](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%8D%8E%E5%B1%B1%E6%8B%8D%E7%85%A7%E5%9D%A0%E5%B4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王思聪穿休闲服会见泰安市委领导](https://www.baidu.com/s?wd=%E7%8E%8B%E6%80%9D%E8%81%AA%E7%A9%BF%E4%BC%91%E9%97%B2%E6%9C%8D%E4%BC%9A%E8%A7%81%E6%B3%B0%E5%AE%89%E5%B8%82%E5%A7%94%E9%A2%86%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [为什么军大衣会卖爆？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%9B%E5%A4%A7%E8%A1%A3%E4%BC%9A%E5%8D%96%E7%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [黑龙江一煤矿事故致11人遇难](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E8%87%B411%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大四男生华山拍照坠崖](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%8D%8E%E5%B1%B1%E6%8B%8D%E7%85%A7%E5%9D%A0%E5%B4%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王思聪穿休闲服会见泰安市委领导](https://www.baidu.com/s?wd=%E7%8E%8B%E6%80%9D%E8%81%AA%E7%A9%BF%E4%BC%91%E9%97%B2%E6%9C%8D%E4%BC%9A%E8%A7%81%E6%B3%B0%E5%AE%89%E5%B8%82%E5%A7%94%E9%A2%86%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [滴滴闪崩有司机收入超690亿？](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E9%97%AA%E5%B4%A9%E6%9C%89%E5%8F%B8%E6%9C%BA%E6%94%B6%E5%85%A5%E8%B6%85690%E4%BA%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
