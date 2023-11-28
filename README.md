@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 23:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 23:31:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [上呼吸道感染无特效药](https://www.baidu.com/s?wd=%E4%B8%8A%E5%91%BC%E5%90%B8%E9%81%93%E6%84%9F%E6%9F%93%E6%97%A0%E7%89%B9%E6%95%88%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [辽宁一小学班级集体罢课](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%8F%AD%E7%BA%A7%E9%9B%86%E4%BD%93%E7%BD%A2%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友近3小时买空18吨滞留甘蔗](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%BF%913%E5%B0%8F%E6%97%B6%E4%B9%B0%E7%A9%BA18%E5%90%A8%E6%BB%9E%E7%95%99%E7%94%98%E8%94%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男方给30万彩礼女方却只拿到20万](https://www.baidu.com/s?wd=%E7%94%B7%E6%96%B9%E7%BB%9930%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A5%B3%E6%96%B9%E5%8D%B4%E5%8F%AA%E6%8B%BF%E5%88%B020%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [为什么军大衣会卖爆？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%9B%E5%A4%A7%E8%A1%A3%E4%BC%9A%E5%8D%96%E7%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [投靠朋友家可以落户上海？](https://www.baidu.com/s?wd=%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%8F%AF%E4%BB%A5%E8%90%BD%E6%88%B7%E4%B8%8A%E6%B5%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [上呼吸道感染无特效药](https://www.baidu.com/s?wd=%E4%B8%8A%E5%91%BC%E5%90%B8%E9%81%93%E6%84%9F%E6%9F%93%E6%97%A0%E7%89%B9%E6%95%88%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [辽宁一小学班级集体罢课](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%8F%AD%E7%BA%A7%E9%9B%86%E4%BD%93%E7%BD%A2%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友近3小时买空18吨滞留甘蔗](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%BF%913%E5%B0%8F%E6%97%B6%E4%B9%B0%E7%A9%BA18%E5%90%A8%E6%BB%9E%E7%95%99%E7%94%98%E8%94%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男方给30万彩礼女方却只拿到20万](https://www.baidu.com/s?wd=%E7%94%B7%E6%96%B9%E7%BB%9930%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A5%B3%E6%96%B9%E5%8D%B4%E5%8F%AA%E6%8B%BF%E5%88%B020%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [为什么军大衣会卖爆？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%9B%E5%A4%A7%E8%A1%A3%E4%BC%9A%E5%8D%96%E7%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [投靠朋友家可以落户上海？](https://www.baidu.com/s?wd=%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%8F%AF%E4%BB%A5%E8%90%BD%E6%88%B7%E4%B8%8A%E6%B5%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
