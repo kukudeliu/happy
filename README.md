@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 10:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 10:08:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [鹅腿阿姨凭什么让三大高校争抢](https://www.baidu.com/s?wd=%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E5%87%AD%E4%BB%80%E4%B9%88%E8%AE%A9%E4%B8%89%E5%A4%A7%E9%AB%98%E6%A0%A1%E4%BA%89%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [10万亿金融巨头CEO去世](https://www.baidu.com/s?wd=10%E4%B8%87%E4%BA%BF%E9%87%91%E8%9E%8D%E5%B7%A8%E5%A4%B4CEO%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南京一头野猪横渡长江](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E5%A4%B4%E9%87%8E%E7%8C%AA%E6%A8%AA%E6%B8%A1%E9%95%BF%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [滴滴崩了引发大量用户吐槽](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E5%B4%A9%E4%BA%86%E5%BC%95%E5%8F%91%E5%A4%A7%E9%87%8F%E7%94%A8%E6%88%B7%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [滴滴故障 司机：人车相距1952公里](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E6%95%85%E9%9A%9C+%E5%8F%B8%E6%9C%BA%EF%BC%9A%E4%BA%BA%E8%BD%A6%E7%9B%B8%E8%B7%9D1952%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [戴尔供应链将撤离中国？](https://www.baidu.com/s?wd=%E6%88%B4%E5%B0%94%E4%BE%9B%E5%BA%94%E9%93%BE%E5%B0%86%E6%92%A4%E7%A6%BB%E4%B8%AD%E5%9B%BD%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [鹅腿阿姨凭什么让三大高校争抢](https://www.baidu.com/s?wd=%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E5%87%AD%E4%BB%80%E4%B9%88%E8%AE%A9%E4%B8%89%E5%A4%A7%E9%AB%98%E6%A0%A1%E4%BA%89%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [10万亿金融巨头CEO去世](https://www.baidu.com/s?wd=10%E4%B8%87%E4%BA%BF%E9%87%91%E8%9E%8D%E5%B7%A8%E5%A4%B4CEO%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南京一头野猪横渡长江](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E5%A4%B4%E9%87%8E%E7%8C%AA%E6%A8%AA%E6%B8%A1%E9%95%BF%E6%B1%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [滴滴崩了引发大量用户吐槽](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E5%B4%A9%E4%BA%86%E5%BC%95%E5%8F%91%E5%A4%A7%E9%87%8F%E7%94%A8%E6%88%B7%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [滴滴故障 司机：人车相距1952公里](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E6%95%85%E9%9A%9C+%E5%8F%B8%E6%9C%BA%EF%BC%9A%E4%BA%BA%E8%BD%A6%E7%9B%B8%E8%B7%9D1952%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [戴尔供应链将撤离中国？](https://www.baidu.com/s?wd=%E6%88%B4%E5%B0%94%E4%BE%9B%E5%BA%94%E9%93%BE%E5%B0%86%E6%92%A4%E7%A6%BB%E4%B8%AD%E5%9B%BD%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
