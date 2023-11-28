@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 16:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 16:10:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [网红痞幼就盗用他人视频道歉](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%97%9E%E5%B9%BC%E5%B0%B1%E7%9B%97%E7%94%A8%E4%BB%96%E4%BA%BA%E8%A7%86%E9%A2%91%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国湖泊第一馆闲置 省委书记暗访](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B9%96%E6%B3%8A%E7%AC%AC%E4%B8%80%E9%A6%86%E9%97%B2%E7%BD%AE+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%9A%97%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [怀旧八零九零](https://www.baidu.com/s?wd=%23%E6%80%80%E6%97%A7%E5%85%AB%E9%9B%B6%E4%B9%9D%E9%9B%B6%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [警方辟谣中学领导猥亵女教师](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E9%A2%86%E5%AF%BC%E7%8C%A5%E4%BA%B5%E5%A5%B3%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [滴滴闪崩有司机收入超690亿？](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E9%97%AA%E5%B4%A9%E6%9C%89%E5%8F%B8%E6%9C%BA%E6%94%B6%E5%85%A5%E8%B6%85690%E4%BA%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [网红痞幼就盗用他人视频道歉](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%97%9E%E5%B9%BC%E5%B0%B1%E7%9B%97%E7%94%A8%E4%BB%96%E4%BA%BA%E8%A7%86%E9%A2%91%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国湖泊第一馆闲置 省委书记暗访](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B9%96%E6%B3%8A%E7%AC%AC%E4%B8%80%E9%A6%86%E9%97%B2%E7%BD%AE+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%9A%97%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [怀旧八零九零](https://www.baidu.com/s?wd=%23%E6%80%80%E6%97%A7%E5%85%AB%E9%9B%B6%E4%B9%9D%E9%9B%B6%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [警方辟谣中学领导猥亵女教师](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E9%A2%86%E5%AF%BC%E7%8C%A5%E4%BA%B5%E5%A5%B3%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [滴滴闪崩有司机收入超690亿？](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E9%97%AA%E5%B4%A9%E6%9C%89%E5%8F%B8%E6%9C%BA%E6%94%B6%E5%85%A5%E8%B6%85690%E4%BA%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
