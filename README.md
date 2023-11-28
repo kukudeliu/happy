@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 12:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 12:58:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [热狗 我是骂所有人不只是杰伦](https://s.weibo.com/weibo?q=%E7%83%AD%E7%8B%97%20%E6%88%91%E6%98%AF%E9%AA%82%E6%89%80%E6%9C%89%E4%BA%BA%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%9D%B0%E4%BC%A6&t=31&band_rank=4&Refer=top)<br />
 5. [女将星 妆造](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%B0%86%E6%98%9F%20%E5%A6%86%E9%80%A0&t=31&band_rank=5&Refer=top)<br />
 6. [秦海璐 三十岁没结婚没什么关系](https://s.weibo.com/weibo?q=%E7%A7%A6%E6%B5%B7%E7%92%90%20%E4%B8%89%E5%8D%81%E5%B2%81%E6%B2%A1%E7%BB%93%E5%A9%9A%E6%B2%A1%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB&t=31&band_rank=6&Refer=top)<br />
-7. [大奉打更人](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
-8. [斗鱼多位大主播已停播超10天](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E5%A4%9A%E4%BD%8D%E5%A4%A7%E4%B8%BB%E6%92%AD%E5%B7%B2%E5%81%9C%E6%92%AD%E8%B6%8510%E5%A4%A9%23&t=31&band_rank=8&Refer=top)<br />
+7. [斗鱼多位大主播已停播超10天](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E5%A4%9A%E4%BD%8D%E5%A4%A7%E4%B8%BB%E6%92%AD%E5%B7%B2%E5%81%9C%E6%92%AD%E8%B6%8510%E5%A4%A9%23&t=31&band_rank=7&Refer=top)<br />
+8. [大奉打更人](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
 9. [爷爷找不到孙女报警结果发现娃在家睡觉](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E6%89%BE%E4%B8%8D%E5%88%B0%E5%AD%99%E5%A5%B3%E6%8A%A5%E8%AD%A6%E7%BB%93%E6%9E%9C%E5%8F%91%E7%8E%B0%E5%A8%83%E5%9C%A8%E5%AE%B6%E7%9D%A1%E8%A7%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [杭州高校保洁阿姨3年捡50多万财物](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%AB%98%E6%A0%A1%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A83%E5%B9%B4%E6%8D%A150%E5%A4%9A%E4%B8%87%E8%B4%A2%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上海儿科门诊现堰塞湖式就诊](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%84%BF%E7%A7%91%E9%97%A8%E8%AF%8A%E7%8E%B0%E5%A0%B0%E5%A1%9E%E6%B9%96%E5%BC%8F%E5%B0%B1%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网红痞幼就盗用他人视频道歉](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%97%9E%E5%B9%BC%E5%B0%B1%E7%9B%97%E7%94%A8%E4%BB%96%E4%BA%BA%E8%A7%86%E9%A2%91%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [滴滴崩了有订单8公里收费1540](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E5%B4%A9%E4%BA%86%E6%9C%89%E8%AE%A2%E5%8D%958%E5%85%AC%E9%87%8C%E6%94%B6%E8%B4%B91540&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马克龙视察途中买彩票喜赚6欧元](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%A7%86%E5%AF%9F%E9%80%94%E4%B8%AD%E4%B9%B0%E5%BD%A9%E7%A5%A8%E5%96%9C%E8%B5%9A6%E6%AC%A7%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣中学领导猥亵女教师](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E9%A2%86%E5%AF%BC%E7%8C%A5%E4%BA%B5%E5%A5%B3%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [杭州高校保洁阿姨3年捡50多万财物](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E9%AB%98%E6%A0%A1%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A83%E5%B9%B4%E6%8D%A150%E5%A4%9A%E4%B8%87%E8%B4%A2%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上海儿科门诊现堰塞湖式就诊](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%84%BF%E7%A7%91%E9%97%A8%E8%AF%8A%E7%8E%B0%E5%A0%B0%E5%A1%9E%E6%B9%96%E5%BC%8F%E5%B0%B1%E8%AF%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网红痞幼就盗用他人视频道歉](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%97%9E%E5%B9%BC%E5%B0%B1%E7%9B%97%E7%94%A8%E4%BB%96%E4%BA%BA%E8%A7%86%E9%A2%91%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [滴滴崩了有订单8公里收费1540](https://www.baidu.com/s?wd=%E6%BB%B4%E6%BB%B4%E5%B4%A9%E4%BA%86%E6%9C%89%E8%AE%A2%E5%8D%958%E5%85%AC%E9%87%8C%E6%94%B6%E8%B4%B91540&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马克龙视察途中买彩票喜赚6欧元](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%A7%86%E5%AF%9F%E9%80%94%E4%B8%AD%E4%B9%B0%E5%BD%A9%E7%A5%A8%E5%96%9C%E8%B5%9A6%E6%AC%A7%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣中学领导猥亵女教师](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E9%A2%86%E5%AF%BC%E7%8C%A5%E4%BA%B5%E5%A5%B3%E6%95%99%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
