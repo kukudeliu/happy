@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 22:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 22:22:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [上呼吸道感染无特效药](https://www.baidu.com/s?wd=%E4%B8%8A%E5%91%BC%E5%90%B8%E9%81%93%E6%84%9F%E6%9F%93%E6%97%A0%E7%89%B9%E6%95%88%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [辽宁一小学班级集体罢课](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%8F%AD%E7%BA%A7%E9%9B%86%E4%BD%93%E7%BD%A2%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男方给30万彩礼女方却只拿到20万](https://www.baidu.com/s?wd=%E7%94%B7%E6%96%B9%E7%BB%9930%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A5%B3%E6%96%B9%E5%8D%B4%E5%8F%AA%E6%8B%BF%E5%88%B020%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子投诉杨国福麻辣烫吃出蝙蝠](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%95%E8%AF%89%E6%9D%A8%E5%9B%BD%E7%A6%8F%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%90%83%E5%87%BA%E8%9D%99%E8%9D%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友近3小时买空18吨滞留甘蔗](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%BF%913%E5%B0%8F%E6%97%B6%E4%B9%B0%E7%A9%BA18%E5%90%A8%E6%BB%9E%E7%95%99%E7%94%98%E8%94%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [投靠朋友家可以落户上海？](https://www.baidu.com/s?wd=%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%8F%AF%E4%BB%A5%E8%90%BD%E6%88%B7%E4%B8%8A%E6%B5%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [上呼吸道感染无特效药](https://www.baidu.com/s?wd=%E4%B8%8A%E5%91%BC%E5%90%B8%E9%81%93%E6%84%9F%E6%9F%93%E6%97%A0%E7%89%B9%E6%95%88%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [辽宁一小学班级集体罢课](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%8F%AD%E7%BA%A7%E9%9B%86%E4%BD%93%E7%BD%A2%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男方给30万彩礼女方却只拿到20万](https://www.baidu.com/s?wd=%E7%94%B7%E6%96%B9%E7%BB%9930%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A5%B3%E6%96%B9%E5%8D%B4%E5%8F%AA%E6%8B%BF%E5%88%B020%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子投诉杨国福麻辣烫吃出蝙蝠](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%95%E8%AF%89%E6%9D%A8%E5%9B%BD%E7%A6%8F%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%90%83%E5%87%BA%E8%9D%99%E8%9D%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友近3小时买空18吨滞留甘蔗](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%BF%913%E5%B0%8F%E6%97%B6%E4%B9%B0%E7%A9%BA18%E5%90%A8%E6%BB%9E%E7%95%99%E7%94%98%E8%94%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [投靠朋友家可以落户上海？](https://www.baidu.com/s?wd=%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%8F%AF%E4%BB%A5%E8%90%BD%E6%88%B7%E4%B8%8A%E6%B5%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
