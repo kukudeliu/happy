@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 17:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 17:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王睡睡 不要再回头了](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9D%A1%E7%9D%A1%20%E4%B8%8D%E8%A6%81%E5%86%8D%E5%9B%9E%E5%A4%B4%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [朱丹曾被朋友骗光所有积蓄](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%B9%E6%9B%BE%E8%A2%AB%E6%9C%8B%E5%8F%8B%E9%AA%97%E5%85%89%E6%89%80%E6%9C%89%E7%A7%AF%E8%93%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [傅首尔老刘都没下车](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E8%80%81%E5%88%98%E9%83%BD%E6%B2%A1%E4%B8%8B%E8%BD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [喜茶 我佛持杯](https://s.weibo.com/weibo?q=%E5%96%9C%E8%8C%B6%20%E6%88%91%E4%BD%9B%E6%8C%81%E6%9D%AF&t=31&band_rank=9&Refer=top)<br />
+9. [女将星开机](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%B0%86%E6%98%9F%E5%BC%80%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
