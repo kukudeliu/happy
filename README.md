@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 17:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 17:18:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [蜂花 脱发变少了](https://s.weibo.com/weibo?q=%E8%9C%82%E8%8A%B1%20%E8%84%B1%E5%8F%91%E5%8F%98%E5%B0%91%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [喜茶 我佛持杯](https://s.weibo.com/weibo?q=%E5%96%9C%E8%8C%B6%20%E6%88%91%E4%BD%9B%E6%8C%81%E6%9D%AF&t=31&band_rank=6&Refer=top)<br />
 7. [新闻女王 当众下跪给我一点小震撼](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E5%BD%93%E4%BC%97%E4%B8%8B%E8%B7%AA%E7%BB%99%E6%88%91%E4%B8%80%E7%82%B9%E5%B0%8F%E9%9C%87%E6%92%BC&t=31&band_rank=7&Refer=top)<br />
-8. [美方多次破坏中国企业和其他国家合作](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E5%A4%9A%E6%AC%A1%E7%A0%B4%E5%9D%8F%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%92%8C%E5%85%B6%E4%BB%96%E5%9B%BD%E5%AE%B6%E5%90%88%E4%BD%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [王睡睡张硕oe](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9D%A1%E7%9D%A1%E5%BC%A0%E7%A1%95oe%23&t=31&band_rank=9&Refer=top)<br />
+8. [王睡睡张硕oe](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9D%A1%E7%9D%A1%E5%BC%A0%E7%A1%95oe%23&t=31&band_rank=8&Refer=top)<br />
+9. [美方多次破坏中国企业和其他国家合作](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E5%A4%9A%E6%AC%A1%E7%A0%B4%E5%9D%8F%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%92%8C%E5%85%B6%E4%BB%96%E5%9B%BD%E5%AE%B6%E5%90%88%E4%BD%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
