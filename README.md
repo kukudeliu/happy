@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 20:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 20:49:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [为什么军大衣会卖爆？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%9B%E5%A4%A7%E8%A1%A3%E4%BC%9A%E5%8D%96%E7%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李想：很抱歉我们失言了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%83%B3%EF%BC%9A%E5%BE%88%E6%8A%B1%E6%AD%89%E6%88%91%E4%BB%AC%E5%A4%B1%E8%A8%80%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男方给30万彩礼女方却只拿到20万](https://www.baidu.com/s?wd=%E7%94%B7%E6%96%B9%E7%BB%9930%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A5%B3%E6%96%B9%E5%8D%B4%E5%8F%AA%E6%8B%BF%E5%88%B020%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红主播在非洲遇害 疑手机被盗](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%B8%BB%E6%92%AD%E5%9C%A8%E9%9D%9E%E6%B4%B2%E9%81%87%E5%AE%B3+%E7%96%91%E6%89%8B%E6%9C%BA%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北京4所高校雄安校区全部开工](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC4%E6%89%80%E9%AB%98%E6%A0%A1%E9%9B%84%E5%AE%89%E6%A0%A1%E5%8C%BA%E5%85%A8%E9%83%A8%E5%BC%80%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [投靠朋友家可以落户上海？](https://www.baidu.com/s?wd=%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%8F%AF%E4%BB%A5%E8%90%BD%E6%88%B7%E4%B8%8A%E6%B5%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [为什么军大衣会卖爆？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%9B%E5%A4%A7%E8%A1%A3%E4%BC%9A%E5%8D%96%E7%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李想：很抱歉我们失言了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%83%B3%EF%BC%9A%E5%BE%88%E6%8A%B1%E6%AD%89%E6%88%91%E4%BB%AC%E5%A4%B1%E8%A8%80%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男方给30万彩礼女方却只拿到20万](https://www.baidu.com/s?wd=%E7%94%B7%E6%96%B9%E7%BB%9930%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A5%B3%E6%96%B9%E5%8D%B4%E5%8F%AA%E6%8B%BF%E5%88%B020%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红主播在非洲遇害 疑手机被盗](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%B8%BB%E6%92%AD%E5%9C%A8%E9%9D%9E%E6%B4%B2%E9%81%87%E5%AE%B3+%E7%96%91%E6%89%8B%E6%9C%BA%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北京4所高校雄安校区全部开工](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC4%E6%89%80%E9%AB%98%E6%A0%A1%E9%9B%84%E5%AE%89%E6%A0%A1%E5%8C%BA%E5%85%A8%E9%83%A8%E5%BC%80%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [投靠朋友家可以落户上海？](https://www.baidu.com/s?wd=%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%8F%AF%E4%BB%A5%E8%90%BD%E6%88%B7%E4%B8%8A%E6%B5%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
