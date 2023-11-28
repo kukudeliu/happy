@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 09:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 09:22:02</h4></div>
 
 > 微博  
 
-1. [泰国血色婚礼致5死1重伤](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E8%A1%80%E8%89%B2%E5%A9%9A%E7%A4%BC%E8%87%B45%E6%AD%BB1%E9%87%8D%E4%BC%A4%23&t=31&band_rank=1&Refer=top)<br />
-2. [滴滴打车 打不到](https://s.weibo.com/weibo?q=%E6%BB%B4%E6%BB%B4%E6%89%93%E8%BD%A6%20%E6%89%93%E4%B8%8D%E5%88%B0&t=31&band_rank=2&Refer=top)<br />
+1. [滴滴打车 打不到](https://s.weibo.com/weibo?q=%E6%BB%B4%E6%BB%B4%E6%89%93%E8%BD%A6%20%E6%89%93%E4%B8%8D%E5%88%B0&t=31&band_rank=1&Refer=top)<br />
+2. [泰国血色婚礼致5死1重伤](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E8%A1%80%E8%89%B2%E5%A9%9A%E7%A4%BC%E8%87%B45%E6%AD%BB1%E9%87%8D%E4%BC%A4%23&t=31&band_rank=2&Refer=top)<br />
 3. [链博会为国际经贸发展贡献链博智慧](https://s.weibo.com/weibo?q=%23%E9%93%BE%E5%8D%9A%E4%BC%9A%E4%B8%BA%E5%9B%BD%E9%99%85%E7%BB%8F%E8%B4%B8%E5%8F%91%E5%B1%95%E8%B4%A1%E7%8C%AE%E9%93%BE%E5%8D%9A%E6%99%BA%E6%85%A7%23&t=31&band_rank=3&Refer=top)<br />
 4. [潘粤明减重30斤演胡八一](https://s.weibo.com/weibo?q=%23%E6%BD%98%E7%B2%A4%E6%98%8E%E5%87%8F%E9%87%8D30%E6%96%A4%E6%BC%94%E8%83%A1%E5%85%AB%E4%B8%80%23&t=31&band_rank=4&Refer=top)<br />
 5. [青桔 害我迟到](https://s.weibo.com/weibo?q=%E9%9D%92%E6%A1%94%20%E5%AE%B3%E6%88%91%E8%BF%9F%E5%88%B0&t=31&band_rank=5&Refer=top)<br />
