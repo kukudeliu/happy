@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 13:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 13:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [喜茶 我佛持杯](https://s.weibo.com/weibo?q=%E5%96%9C%E8%8C%B6%20%E6%88%91%E4%BD%9B%E6%8C%81%E6%9D%AF&t=31&band_rank=6&Refer=top)<br />
 7. [全勤没了](https://s.weibo.com/weibo?q=%E5%85%A8%E5%8B%A4%E6%B2%A1%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [男子靠副业月入过万仍做公交司机](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%9D%A0%E5%89%AF%E4%B8%9A%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87%E4%BB%8D%E5%81%9A%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [女将星 妆造](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%B0%86%E6%98%9F%20%E5%A6%86%E9%80%A0&t=31&band_rank=9&Refer=top)<br />
+9. [秦海璐 三十岁没结婚没什么关系](https://s.weibo.com/weibo?q=%E7%A7%A6%E6%B5%B7%E7%92%90%20%E4%B8%89%E5%8D%81%E5%B2%81%E6%B2%A1%E7%BB%93%E5%A9%9A%E6%B2%A1%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
