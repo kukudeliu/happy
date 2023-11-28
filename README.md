@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 23:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 23:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [一念关山 镜头美感](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E9%95%9C%E5%A4%B4%E7%BE%8E%E6%84%9F&t=31&band_rank=6&Refer=top)<br />
 7. [MAMA获奖名单](https://s.weibo.com/weibo?q=MAMA%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95&t=31&band_rank=7&Refer=top)<br />
 8. [胃病发展成胃癌的五个征兆](https://s.weibo.com/weibo?q=%23%E8%83%83%E7%97%85%E5%8F%91%E5%B1%95%E6%88%90%E8%83%83%E7%99%8C%E7%9A%84%E4%BA%94%E4%B8%AA%E5%BE%81%E5%85%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [一念关山节奏](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E8%8A%82%E5%A5%8F&t=31&band_rank=9&Refer=top)<br />
+9. [邓超定7个闹钟听鹿晗新歌](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%AE%9A7%E4%B8%AA%E9%97%B9%E9%92%9F%E5%90%AC%E9%B9%BF%E6%99%97%E6%96%B0%E6%AD%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
