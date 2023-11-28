@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 21:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-28 21:12:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [MAMA获奖名单](https://s.weibo.com/weibo?q=MAMA%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95&t=31&band_rank=5&Refer=top)<br />
 6. [德德玛去世](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%BE%B7%E7%8E%9B%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [MAMA](https://s.weibo.com/weibo?q=MAMA&t=31&band_rank=7&Refer=top)<br />
-8. [皮肤饥渴症](https://s.weibo.com/weibo?q=%23%E7%9A%AE%E8%82%A4%E9%A5%A5%E6%B8%B4%E7%97%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [胡锡进称中华有为世界荣耀](https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E7%A7%B0%E4%B8%AD%E5%8D%8E%E6%9C%89%E4%B8%BA%E4%B8%96%E7%95%8C%E8%8D%A3%E8%80%80%23&t=31&band_rank=9&Refer=top)<br />
+8. [胡锡进称中华有为世界荣耀](https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E7%A7%B0%E4%B8%AD%E5%8D%8E%E6%9C%89%E4%B8%BA%E4%B8%96%E7%95%8C%E8%8D%A3%E8%80%80%23&t=31&band_rank=8&Refer=top)<br />
+9. [皮肤饥渴症](https://s.weibo.com/weibo?q=%23%E7%9A%AE%E8%82%A4%E9%A5%A5%E6%B8%B4%E7%97%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
