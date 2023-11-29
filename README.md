@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 08:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 08:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [警方扫黄前台通风报信：444全员开跑](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%89%AB%E9%BB%84%E5%89%8D%E5%8F%B0%E9%80%9A%E9%A3%8E%E6%8A%A5%E4%BF%A1%EF%BC%9A444%E5%85%A8%E5%91%98%E5%BC%80%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [加拿大“超级猪”数量激增](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E2%80%9C%E8%B6%85%E7%BA%A7%E7%8C%AA%E2%80%9D%E6%95%B0%E9%87%8F%E6%BF%80%E5%A2%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [恒大物业把中国恒大告了](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E7%89%A9%E4%B8%9A%E6%8A%8A%E4%B8%AD%E5%9B%BD%E6%81%92%E5%A4%A7%E5%91%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子网上“炸金花”被骗11万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BD%91%E4%B8%8A%E2%80%9C%E7%82%B8%E9%87%91%E8%8A%B1%E2%80%9D%E8%A2%AB%E9%AA%9711%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网红非洲遇害 亲属：他刚去1个多月](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E9%9D%9E%E6%B4%B2%E9%81%87%E5%AE%B3+%E4%BA%B2%E5%B1%9E%EF%BC%9A%E4%BB%96%E5%88%9A%E5%8E%BB1%E4%B8%AA%E5%A4%9A%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [投靠朋友家可以落户上海？](https://www.baidu.com/s?wd=%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%8F%AF%E4%BB%A5%E8%90%BD%E6%88%B7%E4%B8%8A%E6%B5%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [警方扫黄前台通风报信：444全员开跑](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%89%AB%E9%BB%84%E5%89%8D%E5%8F%B0%E9%80%9A%E9%A3%8E%E6%8A%A5%E4%BF%A1%EF%BC%9A444%E5%85%A8%E5%91%98%E5%BC%80%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [加拿大“超级猪”数量激增](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E2%80%9C%E8%B6%85%E7%BA%A7%E7%8C%AA%E2%80%9D%E6%95%B0%E9%87%8F%E6%BF%80%E5%A2%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [恒大物业把中国恒大告了](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E7%89%A9%E4%B8%9A%E6%8A%8A%E4%B8%AD%E5%9B%BD%E6%81%92%E5%A4%A7%E5%91%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子网上“炸金花”被骗11万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BD%91%E4%B8%8A%E2%80%9C%E7%82%B8%E9%87%91%E8%8A%B1%E2%80%9D%E8%A2%AB%E9%AA%9711%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网红非洲遇害 亲属：他刚去1个多月](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E9%9D%9E%E6%B4%B2%E9%81%87%E5%AE%B3+%E4%BA%B2%E5%B1%9E%EF%BC%9A%E4%BB%96%E5%88%9A%E5%8E%BB1%E4%B8%AA%E5%A4%9A%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [投靠朋友家可以落户上海？](https://www.baidu.com/s?wd=%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%8F%AF%E4%BB%A5%E8%90%BD%E6%88%B7%E4%B8%8A%E6%B5%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
