@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 08:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 08:14:01</h4></div>
 
 > 微博  
 
@@ -18,10 +18,10 @@
 > 百度  
 
 1. [促进优质网络文化产品生产传播](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E4%BC%98%E8%B4%A8%E7%BD%91%E7%BB%9C%E6%96%87%E5%8C%96%E4%BA%A7%E5%93%81%E7%94%9F%E4%BA%A7%E4%BC%A0%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [干冷型冷空气又将横扫中国大部](https://www.baidu.com/s?wd=%E5%B9%B2%E5%86%B7%E5%9E%8B%E5%86%B7%E7%A9%BA%E6%B0%94%E5%8F%88%E5%B0%86%E6%A8%AA%E6%89%AB%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [海底捞员工跳擦玻璃舞 被指低俗](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%91%98%E5%B7%A5%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E+%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [投资界传奇大佬芒格去世 享年99岁](https://www.baidu.com/s?wd=%E6%8A%95%E8%B5%84%E7%95%8C%E4%BC%A0%E5%A5%87%E5%A4%A7%E4%BD%AC%E8%8A%92%E6%A0%BC%E5%8E%BB%E4%B8%96+%E4%BA%AB%E5%B9%B499%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [首届链博会来了](https://www.baidu.com/s?wd=%E9%A6%96%E5%B1%8A%E9%93%BE%E5%8D%9A%E4%BC%9A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [海底捞员工跳擦玻璃舞 被指低俗](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%91%98%E5%B7%A5%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E+%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [男方给30万彩礼女方却只拿到20万](https://www.baidu.com/s?wd=%E7%94%B7%E6%96%B9%E7%BB%9930%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A5%B3%E6%96%B9%E5%8D%B4%E5%8F%AA%E6%8B%BF%E5%88%B020%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [加拿大“超级猪”数量激增](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E2%80%9C%E8%B6%85%E7%BA%A7%E7%8C%AA%E2%80%9D%E6%95%B0%E9%87%8F%E6%BF%80%E5%A2%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [恒大物业把中国恒大告了](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E7%89%A9%E4%B8%9A%E6%8A%8A%E4%B8%AD%E5%9B%BD%E6%81%92%E5%A4%A7%E5%91%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李想：很抱歉我们失言了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%83%B3%EF%BC%9A%E5%BE%88%E6%8A%B1%E6%AD%89%E6%88%91%E4%BB%AC%E5%A4%B1%E8%A8%80%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,10 +30,10 @@
 > 哔哩哔哩  
 
 1. [促进优质网络文化产品生产传播](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E4%BC%98%E8%B4%A8%E7%BD%91%E7%BB%9C%E6%96%87%E5%8C%96%E4%BA%A7%E5%93%81%E7%94%9F%E4%BA%A7%E4%BC%A0%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [干冷型冷空气又将横扫中国大部](https://www.baidu.com/s?wd=%E5%B9%B2%E5%86%B7%E5%9E%8B%E5%86%B7%E7%A9%BA%E6%B0%94%E5%8F%88%E5%B0%86%E6%A8%AA%E6%89%AB%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%83%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [海底捞员工跳擦玻璃舞 被指低俗](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%91%98%E5%B7%A5%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E+%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [投资界传奇大佬芒格去世 享年99岁](https://www.baidu.com/s?wd=%E6%8A%95%E8%B5%84%E7%95%8C%E4%BC%A0%E5%A5%87%E5%A4%A7%E4%BD%AC%E8%8A%92%E6%A0%BC%E5%8E%BB%E4%B8%96+%E4%BA%AB%E5%B9%B499%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [首届链博会来了](https://www.baidu.com/s?wd=%E9%A6%96%E5%B1%8A%E9%93%BE%E5%8D%9A%E4%BC%9A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [海底捞员工跳擦玻璃舞 被指低俗](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%91%98%E5%B7%A5%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E+%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [男方给30万彩礼女方却只拿到20万](https://www.baidu.com/s?wd=%E7%94%B7%E6%96%B9%E7%BB%9930%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A5%B3%E6%96%B9%E5%8D%B4%E5%8F%AA%E6%8B%BF%E5%88%B020%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [加拿大“超级猪”数量激增](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E2%80%9C%E8%B6%85%E7%BA%A7%E7%8C%AA%E2%80%9D%E6%95%B0%E9%87%8F%E6%BF%80%E5%A2%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [恒大物业把中国恒大告了](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E7%89%A9%E4%B8%9A%E6%8A%8A%E4%B8%AD%E5%9B%BD%E6%81%92%E5%A4%A7%E5%91%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李想：很抱歉我们失言了](https://www.baidu.com/s?wd=%E6%9D%8E%E6%83%B3%EF%BC%9A%E5%BE%88%E6%8A%B1%E6%AD%89%E6%88%91%E4%BB%AC%E5%A4%B1%E8%A8%80%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
