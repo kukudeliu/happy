@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 13:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 13:49:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [马云谈拼多多市值逼近阿里：祝贺](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E8%B0%88%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%B8%82%E5%80%BC%E9%80%BC%E8%BF%91%E9%98%BF%E9%87%8C%EF%BC%9A%E7%A5%9D%E8%B4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [司机载乘客冰面漂移 双双坠入江底](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%BD%BD%E4%B9%98%E5%AE%A2%E5%86%B0%E9%9D%A2%E6%BC%82%E7%A7%BB+%E5%8F%8C%E5%8F%8C%E5%9D%A0%E5%85%A5%E6%B1%9F%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子中2.6亿后次日凌晨准时上班](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD2.6%E4%BA%BF%E5%90%8E%E6%AC%A1%E6%97%A5%E5%87%8C%E6%99%A8%E5%87%86%E6%97%B6%E4%B8%8A%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [海底捞员工跳擦玻璃舞 被指低俗](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%91%98%E5%B7%A5%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E+%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [外卖员当街下跪向交警求情 平台回应](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%91%98%E5%BD%93%E8%A1%97%E4%B8%8B%E8%B7%AA%E5%90%91%E4%BA%A4%E8%AD%A6%E6%B1%82%E6%83%85+%E5%B9%B3%E5%8F%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [遭网络攻击导致崩溃？滴滴否认](https://www.baidu.com/s?wd=%E9%81%AD%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E5%AF%BC%E8%87%B4%E5%B4%A9%E6%BA%83%EF%BC%9F%E6%BB%B4%E6%BB%B4%E5%90%A6%E8%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [马云谈拼多多市值逼近阿里：祝贺](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E8%B0%88%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%B8%82%E5%80%BC%E9%80%BC%E8%BF%91%E9%98%BF%E9%87%8C%EF%BC%9A%E7%A5%9D%E8%B4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [司机载乘客冰面漂移 双双坠入江底](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%BD%BD%E4%B9%98%E5%AE%A2%E5%86%B0%E9%9D%A2%E6%BC%82%E7%A7%BB+%E5%8F%8C%E5%8F%8C%E5%9D%A0%E5%85%A5%E6%B1%9F%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子中2.6亿后次日凌晨准时上班](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD2.6%E4%BA%BF%E5%90%8E%E6%AC%A1%E6%97%A5%E5%87%8C%E6%99%A8%E5%87%86%E6%97%B6%E4%B8%8A%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [海底捞员工跳擦玻璃舞 被指低俗](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%91%98%E5%B7%A5%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E+%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [外卖员当街下跪向交警求情 平台回应](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%91%98%E5%BD%93%E8%A1%97%E4%B8%8B%E8%B7%AA%E5%90%91%E4%BA%A4%E8%AD%A6%E6%B1%82%E6%83%85+%E5%B9%B3%E5%8F%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [遭网络攻击导致崩溃？滴滴否认](https://www.baidu.com/s?wd=%E9%81%AD%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E5%AF%BC%E8%87%B4%E5%B4%A9%E6%BA%83%EF%BC%9F%E6%BB%B4%E6%BB%B4%E5%90%A6%E8%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
