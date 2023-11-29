@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 17:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 17:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [水哥43岁状态](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%93%A543%E5%B2%81%E7%8A%B6%E6%80%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [e人和i狗](https://s.weibo.com/weibo?q=e%E4%BA%BA%E5%92%8Ci%E7%8B%97&t=31&band_rank=7&Refer=top)<br />
 8. [滴滴致歉补偿券领不了](https://s.weibo.com/weibo?q=%23%E6%BB%B4%E6%BB%B4%E8%87%B4%E6%AD%89%E8%A1%A5%E5%81%BF%E5%88%B8%E9%A2%86%E4%B8%8D%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩国买入一念关山播出版权](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%B9%B0%E5%85%A5%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E6%92%AD%E5%87%BA%E7%89%88%E6%9D%83&t=31&band_rank=9&Refer=top)<br />
+9. [神兵小将第三季](https://s.weibo.com/weibo?q=%E7%A5%9E%E5%85%B5%E5%B0%8F%E5%B0%86%E7%AC%AC%E4%B8%89%E5%AD%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
