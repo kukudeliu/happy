@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 18:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 18:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [神兵小将第三季](https://s.weibo.com/weibo?q=%E7%A5%9E%E5%85%B5%E5%B0%8F%E5%B0%86%E7%AC%AC%E4%B8%89%E5%AD%A3&t=31&band_rank=6&Refer=top)<br />
 7. [滴滴致歉补偿券领不了](https://s.weibo.com/weibo?q=%23%E6%BB%B4%E6%BB%B4%E8%87%B4%E6%AD%89%E8%A1%A5%E5%81%BF%E5%88%B8%E9%A2%86%E4%B8%8D%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴 恶女戏](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%81%B6%E5%A5%B3%E6%88%8F&t=31&band_rank=8&Refer=top)<br />
-9. [刘亦菲换轮胎](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%8D%A2%E8%BD%AE%E8%83%8E%23&t=31&band_rank=9&Refer=top)<br />
+9. [会韩语的朋友请留步](https://s.weibo.com/weibo?q=%E4%BC%9A%E9%9F%A9%E8%AF%AD%E7%9A%84%E6%9C%8B%E5%8F%8B%E8%AF%B7%E7%95%99%E6%AD%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
