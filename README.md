@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 19:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 19:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [华为校招 高颜值HR](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E6%A0%A1%E6%8B%9B%20%E9%AB%98%E9%A2%9C%E5%80%BCHR&t=31&band_rank=6&Refer=top)<br />
 7. [gidle 黑天鹅](https://s.weibo.com/weibo?q=gidle%20%E9%BB%91%E5%A4%A9%E9%B9%85&t=31&band_rank=7&Refer=top)<br />
 8. [滴滴致歉补偿券领不了](https://s.weibo.com/weibo?q=%23%E6%BB%B4%E6%BB%B4%E8%87%B4%E6%AD%89%E8%A1%A5%E5%81%BF%E5%88%B8%E9%A2%86%E4%B8%8D%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [狗子为了合群假装不认识主人](https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%AD%90%E4%B8%BA%E4%BA%86%E5%90%88%E7%BE%A4%E5%81%87%E8%A3%85%E4%B8%8D%E8%AE%A4%E8%AF%86%E4%B8%BB%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [俯瞰在红色记忆深处的北京建筑](https://s.weibo.com/weibo?q=%23%E4%BF%AF%E7%9E%B0%E5%9C%A8%E7%BA%A2%E8%89%B2%E8%AE%B0%E5%BF%86%E6%B7%B1%E5%A4%84%E7%9A%84%E5%8C%97%E4%BA%AC%E5%BB%BA%E7%AD%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
