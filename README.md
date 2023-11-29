@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 09:29:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 09:30:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [警方扫黄前台通风报信：444全员开跑](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%89%AB%E9%BB%84%E5%89%8D%E5%8F%B0%E9%80%9A%E9%A3%8E%E6%8A%A5%E4%BF%A1%EF%BC%9A444%E5%85%A8%E5%91%98%E5%BC%80%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [恒大物业把中国恒大告了](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E7%89%A9%E4%B8%9A%E6%8A%8A%E4%B8%AD%E5%9B%BD%E6%81%92%E5%A4%A7%E5%91%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [加拿大“超级猪”数量激增](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E2%80%9C%E8%B6%85%E7%BA%A7%E7%8C%AA%E2%80%9D%E6%95%B0%E9%87%8F%E6%BF%80%E5%A2%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [芒格曾称未来20年中国前景更好](https://www.baidu.com/s?wd=%E8%8A%92%E6%A0%BC%E6%9B%BE%E7%A7%B0%E6%9C%AA%E6%9D%A520%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%89%8D%E6%99%AF%E6%9B%B4%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [总感冒是新冠导致的免疫缺陷吗？](https://www.baidu.com/s?wd=%E6%80%BB%E6%84%9F%E5%86%92%E6%98%AF%E6%96%B0%E5%86%A0%E5%AF%BC%E8%87%B4%E7%9A%84%E5%85%8D%E7%96%AB%E7%BC%BA%E9%99%B7%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [投靠朋友家可以落户上海？](https://www.baidu.com/s?wd=%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%8F%AF%E4%BB%A5%E8%90%BD%E6%88%B7%E4%B8%8A%E6%B5%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [警方扫黄前台通风报信：444全员开跑](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%89%AB%E9%BB%84%E5%89%8D%E5%8F%B0%E9%80%9A%E9%A3%8E%E6%8A%A5%E4%BF%A1%EF%BC%9A444%E5%85%A8%E5%91%98%E5%BC%80%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [恒大物业把中国恒大告了](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E7%89%A9%E4%B8%9A%E6%8A%8A%E4%B8%AD%E5%9B%BD%E6%81%92%E5%A4%A7%E5%91%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [加拿大“超级猪”数量激增](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E2%80%9C%E8%B6%85%E7%BA%A7%E7%8C%AA%E2%80%9D%E6%95%B0%E9%87%8F%E6%BF%80%E5%A2%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [芒格曾称未来20年中国前景更好](https://www.baidu.com/s?wd=%E8%8A%92%E6%A0%BC%E6%9B%BE%E7%A7%B0%E6%9C%AA%E6%9D%A520%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%89%8D%E6%99%AF%E6%9B%B4%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [总感冒是新冠导致的免疫缺陷吗？](https://www.baidu.com/s?wd=%E6%80%BB%E6%84%9F%E5%86%92%E6%98%AF%E6%96%B0%E5%86%A0%E5%AF%BC%E8%87%B4%E7%9A%84%E5%85%8D%E7%96%AB%E7%BC%BA%E9%99%B7%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [投靠朋友家可以落户上海？](https://www.baidu.com/s?wd=%E6%8A%95%E9%9D%A0%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%8F%AF%E4%BB%A5%E8%90%BD%E6%88%B7%E4%B8%8A%E6%B5%B7%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
