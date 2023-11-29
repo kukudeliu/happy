@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 19:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 19:16:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [民警15秒出警35秒救人](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A615%E7%A7%92%E5%87%BA%E8%AD%A635%E7%A7%92%E6%95%91%E4%BA%BA%23&t=31&band_rank=2&Refer=top)<br />
 3. [最深的鞠躬表达最衷心的感谢](https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%B7%B1%E7%9A%84%E9%9E%A0%E8%BA%AC%E8%A1%A8%E8%BE%BE%E6%9C%80%E8%A1%B7%E5%BF%83%E7%9A%84%E6%84%9F%E8%B0%A2%23&t=31&band_rank=3&Refer=top)<br />
 4. [李连杰采访 死后不立碑不办丧事](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E9%87%87%E8%AE%BF%20%E6%AD%BB%E5%90%8E%E4%B8%8D%E7%AB%8B%E7%A2%91%E4%B8%8D%E5%8A%9E%E4%B8%A7%E4%BA%8B&t=31&band_rank=4&Refer=top)<br />
-5. [金智秀获MAMA最佳表演女歌手](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%BA%E7%A7%80%E8%8E%B7MAMA%E6%9C%80%E4%BD%B3%E8%A1%A8%E6%BC%94%E5%A5%B3%E6%AD%8C%E6%89%8B%23&t=31&band_rank=5&Refer=top)<br />
+5. [海底捞部分门店不让跳科目三了](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E9%83%A8%E5%88%86%E9%97%A8%E5%BA%97%E4%B8%8D%E8%AE%A9%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [滴滴致歉补偿券领不了](https://s.weibo.com/weibo?q=%23%E6%BB%B4%E6%BB%B4%E8%87%B4%E6%AD%89%E8%A1%A5%E5%81%BF%E5%88%B8%E9%A2%86%E4%B8%8D%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [gidle 黑天鹅](https://s.weibo.com/weibo?q=gidle%20%E9%BB%91%E5%A4%A9%E9%B9%85&t=31&band_rank=7&Refer=top)<br />
-8. [海底捞部分门店不让跳科目三了](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E9%83%A8%E5%88%86%E9%97%A8%E5%BA%97%E4%B8%8D%E8%AE%A9%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [狗子为了合群假装不认识主人](https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%AD%90%E4%B8%BA%E4%BA%86%E5%90%88%E7%BE%A4%E5%81%87%E8%A3%85%E4%B8%8D%E8%AE%A4%E8%AF%86%E4%B8%BB%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [狗子为了合群假装不认识主人](https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%AD%90%E4%B8%BA%E4%BA%86%E5%90%88%E7%BE%A4%E5%81%87%E8%A3%85%E4%B8%8D%E8%AE%A4%E8%AF%86%E4%B8%BB%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [微软 丑毛衣](https://s.weibo.com/weibo?q=%E5%BE%AE%E8%BD%AF%20%E4%B8%91%E6%AF%9B%E8%A1%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
