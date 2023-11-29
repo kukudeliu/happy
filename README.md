@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 14:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 15:00:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [吴昕花瓶腰](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E8%8A%B1%E7%93%B6%E8%85%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [北京一房东将两居室改成七居室出租](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E6%88%BF%E4%B8%9C%E5%B0%86%E4%B8%A4%E5%B1%85%E5%AE%A4%E6%94%B9%E6%88%90%E4%B8%83%E5%B1%85%E5%AE%A4%E5%87%BA%E7%A7%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [海南航空HU7175紧急备降广州](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BAHU7175%E7%B4%A7%E6%80%A5%E5%A4%87%E9%99%8D%E5%B9%BF%E5%B7%9E%23&t=31&band_rank=6&Refer=top)<br />
-7. [王睡睡张硕 没领证](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9D%A1%E7%9D%A1%E5%BC%A0%E7%A1%95%20%E6%B2%A1%E9%A2%86%E8%AF%81&t=31&band_rank=7&Refer=top)<br />
-8. [娜娜离世后老金才真正认识她](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E5%A8%9C%E7%A6%BB%E4%B8%96%E5%90%8E%E8%80%81%E9%87%91%E6%89%8D%E7%9C%9F%E6%AD%A3%E8%AE%A4%E8%AF%86%E5%A5%B9%23&t=31&band_rank=8&Refer=top)<br />
+7. [娜娜离世后老金才真正认识她](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E5%A8%9C%E7%A6%BB%E4%B8%96%E5%90%8E%E8%80%81%E9%87%91%E6%89%8D%E7%9C%9F%E6%AD%A3%E8%AE%A4%E8%AF%86%E5%A5%B9%23&t=31&band_rank=7&Refer=top)<br />
+8. [刘诗诗回复叶青](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%9B%9E%E5%A4%8D%E5%8F%B6%E9%9D%92%23&t=31&band_rank=8&Refer=top)<br />
 9. [第一名奖励边睡觉边上课](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E5%90%8D%E5%A5%96%E5%8A%B1%E8%BE%B9%E7%9D%A1%E8%A7%89%E8%BE%B9%E4%B8%8A%E8%AF%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
