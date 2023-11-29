@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 12:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 12:14:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [网曝陕西高校男生持刀捅伤一男一女](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E9%99%95%E8%A5%BF%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E6%8C%81%E5%88%80%E6%8D%85%E4%BC%A4%E4%B8%80%E7%94%B7%E4%B8%80%E5%A5%B3%23&t=31&band_rank=5&Refer=top)<br />
 6. [专业仅有的4位女生年级前四保研](https://s.weibo.com/weibo?q=%23%E4%B8%93%E4%B8%9A%E4%BB%85%E6%9C%89%E7%9A%844%E4%BD%8D%E5%A5%B3%E7%94%9F%E5%B9%B4%E7%BA%A7%E5%89%8D%E5%9B%9B%E4%BF%9D%E7%A0%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [谭杰希自曝曾患抑郁症](https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%B0%E5%B8%8C%E8%87%AA%E6%9B%9D%E6%9B%BE%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [女友宣布与内马尔分手](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8F%8B%E5%AE%A3%E5%B8%83%E4%B8%8E%E5%86%85%E9%A9%AC%E5%B0%94%E5%88%86%E6%89%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [芒格去世](https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%A0%BC%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+8. [芒格去世](https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%A0%BC%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [女友宣布与内马尔分手](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8F%8B%E5%AE%A3%E5%B8%83%E4%B8%8E%E5%86%85%E9%A9%AC%E5%B0%94%E5%88%86%E6%89%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
