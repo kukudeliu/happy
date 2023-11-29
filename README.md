@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 20:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 20:39:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [华为校招高颜值HR火爆出圈](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%A0%A1%E6%8B%9B%E9%AB%98%E9%A2%9C%E5%80%BCHR%E7%81%AB%E7%88%86%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [链博会上“链”什么？](https://www.baidu.com/s?wd=%E9%93%BE%E5%8D%9A%E4%BC%9A%E4%B8%8A%E2%80%9C%E9%93%BE%E2%80%9D%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国人一年吃掉11万吨辣条](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%80%E5%B9%B4%E5%90%83%E6%8E%8911%E4%B8%87%E5%90%A8%E8%BE%A3%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [曾被中国逮捕的间谍内讧 中方回应](https://www.baidu.com/s?wd=%E6%9B%BE%E8%A2%AB%E4%B8%AD%E5%9B%BD%E9%80%AE%E6%8D%95%E7%9A%84%E9%97%B4%E8%B0%8D%E5%86%85%E8%AE%A7+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美军机在日本近海坠毁已致1死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%BF%91%E6%B5%B7%E5%9D%A0%E6%AF%81%E5%B7%B2%E8%87%B41%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [为保护水草毒死百条鱼？物业回应](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BF%9D%E6%8A%A4%E6%B0%B4%E8%8D%89%E6%AF%92%E6%AD%BB%E7%99%BE%E6%9D%A1%E9%B1%BC%EF%BC%9F%E7%89%A9%E4%B8%9A%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [司机载乘客冰面漂移 双双坠入江底](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%BD%BD%E4%B9%98%E5%AE%A2%E5%86%B0%E9%9D%A2%E6%BC%82%E7%A7%BB+%E5%8F%8C%E5%8F%8C%E5%9D%A0%E5%85%A5%E6%B1%9F%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [库克、段永平等缅怀芒格](https://www.baidu.com/s?wd=%E5%BA%93%E5%85%8B%E3%80%81%E6%AE%B5%E6%B0%B8%E5%B9%B3%E7%AD%89%E7%BC%85%E6%80%80%E8%8A%92%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [东北小吃“烤冰溜子”在长沙火了](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E5%B0%8F%E5%90%83%E2%80%9C%E7%83%A4%E5%86%B0%E6%BA%9C%E5%AD%90%E2%80%9D%E5%9C%A8%E9%95%BF%E6%B2%99%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [支原体肺炎是新冠变异？](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [华为校招高颜值HR火爆出圈](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%A0%A1%E6%8B%9B%E9%AB%98%E9%A2%9C%E5%80%BCHR%E7%81%AB%E7%88%86%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [链博会上“链”什么？](https://www.baidu.com/s?wd=%E9%93%BE%E5%8D%9A%E4%BC%9A%E4%B8%8A%E2%80%9C%E9%93%BE%E2%80%9D%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国人一年吃掉11万吨辣条](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%80%E5%B9%B4%E5%90%83%E6%8E%8911%E4%B8%87%E5%90%A8%E8%BE%A3%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [曾被中国逮捕的间谍内讧 中方回应](https://www.baidu.com/s?wd=%E6%9B%BE%E8%A2%AB%E4%B8%AD%E5%9B%BD%E9%80%AE%E6%8D%95%E7%9A%84%E9%97%B4%E8%B0%8D%E5%86%85%E8%AE%A7+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美军机在日本近海坠毁已致1死](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%BF%91%E6%B5%B7%E5%9D%A0%E6%AF%81%E5%B7%B2%E8%87%B41%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [为保护水草毒死百条鱼？物业回应](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BF%9D%E6%8A%A4%E6%B0%B4%E8%8D%89%E6%AF%92%E6%AD%BB%E7%99%BE%E6%9D%A1%E9%B1%BC%EF%BC%9F%E7%89%A9%E4%B8%9A%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [司机载乘客冰面漂移 双双坠入江底](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%BD%BD%E4%B9%98%E5%AE%A2%E5%86%B0%E9%9D%A2%E6%BC%82%E7%A7%BB+%E5%8F%8C%E5%8F%8C%E5%9D%A0%E5%85%A5%E6%B1%9F%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [库克、段永平等缅怀芒格](https://www.baidu.com/s?wd=%E5%BA%93%E5%85%8B%E3%80%81%E6%AE%B5%E6%B0%B8%E5%B9%B3%E7%AD%89%E7%BC%85%E6%80%80%E8%8A%92%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [东北小吃“烤冰溜子”在长沙火了](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E5%B0%8F%E5%90%83%E2%80%9C%E7%83%A4%E5%86%B0%E6%BA%9C%E5%AD%90%E2%80%9D%E5%9C%A8%E9%95%BF%E6%B2%99%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [支原体肺炎是新冠变异？](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
