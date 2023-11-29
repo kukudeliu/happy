@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 20:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 20:20:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [李维嘉 生命最后三天也要做家务](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%BB%B4%E5%98%89%20%E7%94%9F%E5%91%BD%E6%9C%80%E5%90%8E%E4%B8%89%E5%A4%A9%E4%B9%9F%E8%A6%81%E5%81%9A%E5%AE%B6%E5%8A%A1&t=31&band_rank=2&Refer=top)<br />
 3. [最深的鞠躬表达最衷心的感谢](https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%B7%B1%E7%9A%84%E9%9E%A0%E8%BA%AC%E8%A1%A8%E8%BE%BE%E6%9C%80%E8%A1%B7%E5%BF%83%E7%9A%84%E6%84%9F%E8%B0%A2%23&t=31&band_rank=3&Refer=top)<br />
 4. [利智](https://s.weibo.com/weibo?q=%E5%88%A9%E6%99%BA&t=31&band_rank=4&Refer=top)<br />
-5. [海底捞部分门店不让跳科目三了](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E9%83%A8%E5%88%86%E9%97%A8%E5%BA%97%E4%B8%8D%E8%AE%A9%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [举报权志龙吸毒的人推翻口供](https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E6%9D%83%E5%BF%97%E9%BE%99%E5%90%B8%E6%AF%92%E7%9A%84%E4%BA%BA%E6%8E%A8%E7%BF%BB%E5%8F%A3%E4%BE%9B%23&t=31&band_rank=6&Refer=top)<br />
+5. [举报权志龙吸毒的人推翻口供](https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E6%9D%83%E5%BF%97%E9%BE%99%E5%90%B8%E6%AF%92%E7%9A%84%E4%BA%BA%E6%8E%A8%E7%BF%BB%E5%8F%A3%E4%BE%9B%23&t=31&band_rank=5&Refer=top)<br />
+6. [海底捞部分门店不让跳科目三了](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E9%83%A8%E5%88%86%E9%97%A8%E5%BA%97%E4%B8%8D%E8%AE%A9%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [鹅腿阿姨哽咽称压力太大](https://s.weibo.com/weibo?q=%23%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E5%93%BD%E5%92%BD%E7%A7%B0%E5%8E%8B%E5%8A%9B%E5%A4%AA%E5%A4%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘诗诗 谁是你表妹](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E8%B0%81%E6%98%AF%E4%BD%A0%E8%A1%A8%E5%A6%B9&t=31&band_rank=8&Refer=top)<br />
 9. [华为校招 高颜值HR](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E6%A0%A1%E6%8B%9B%20%E9%AB%98%E9%A2%9C%E5%80%BCHR&t=31&band_rank=9&Refer=top)<br />
