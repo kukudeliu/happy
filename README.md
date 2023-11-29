@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 05:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 05:23:01</h4></div>
 
 > 微博  
 
 1. [太原地震](https://s.weibo.com/weibo?q=%E5%A4%AA%E5%8E%9F%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top)<br />
 2. [老娘当年旗袍开到肩膀](https://s.weibo.com/weibo?q=%E8%80%81%E5%A8%98%E5%BD%93%E5%B9%B4%E6%97%97%E8%A2%8D%E5%BC%80%E5%88%B0%E8%82%A9%E8%86%80&t=31&band_rank=2&Refer=top)<br />
 3. [链博会展商开始预约下一届展位了](https://s.weibo.com/weibo?q=%23%E9%93%BE%E5%8D%9A%E4%BC%9A%E5%B1%95%E5%95%86%E5%BC%80%E5%A7%8B%E9%A2%84%E7%BA%A6%E4%B8%8B%E4%B8%80%E5%B1%8A%E5%B1%95%E4%BD%8D%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [法考](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%83&t=31&band_rank=4&Refer=top)<br />
+4. [那是妈妈 指甲长反也不会害我](https://s.weibo.com/weibo?q=%E9%82%A3%E6%98%AF%E5%A6%88%E5%A6%88%20%E6%8C%87%E7%94%B2%E9%95%BF%E5%8F%8D%E4%B9%9F%E4%B8%8D%E4%BC%9A%E5%AE%B3%E6%88%91&t=31&band_rank=4&Refer=top)<br />
 5. [反复烧水会增加致癌物质吗](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%A4%8D%E7%83%A7%E6%B0%B4%E4%BC%9A%E5%A2%9E%E5%8A%A0%E8%87%B4%E7%99%8C%E7%89%A9%E8%B4%A8%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
-6. [那是妈妈 指甲长反也不会害我](https://s.weibo.com/weibo?q=%E9%82%A3%E6%98%AF%E5%A6%88%E5%A6%88%20%E6%8C%87%E7%94%B2%E9%95%BF%E5%8F%8D%E4%B9%9F%E4%B8%8D%E4%BC%9A%E5%AE%B3%E6%88%91&t=31&band_rank=6&Refer=top)<br />
+6. [法考](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%83&t=31&band_rank=6&Refer=top)<br />
 7. [精神科医生 没有车想杀死你是你的幻觉](https://s.weibo.com/weibo?q=%E7%B2%BE%E7%A5%9E%E7%A7%91%E5%8C%BB%E7%94%9F%20%E6%B2%A1%E6%9C%89%E8%BD%A6%E6%83%B3%E6%9D%80%E6%AD%BB%E4%BD%A0%E6%98%AF%E4%BD%A0%E7%9A%84%E5%B9%BB%E8%A7%89&t=31&band_rank=7&Refer=top)<br />
 8. [李维嘉 生命最后三天也要做家务](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%BB%B4%E5%98%89%20%E7%94%9F%E5%91%BD%E6%9C%80%E5%90%8E%E4%B8%89%E5%A4%A9%E4%B9%9F%E8%A6%81%E5%81%9A%E5%AE%B6%E5%8A%A1&t=31&band_rank=8&Refer=top)<br />
 9. [LV大秀 王鹤棣](https://s.weibo.com/weibo?q=LV%E5%A4%A7%E7%A7%80%20%E7%8E%8B%E9%B9%A4%E6%A3%A3&t=31&band_rank=9&Refer=top)<br />
