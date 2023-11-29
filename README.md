@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 11:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 11:54:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [谭杰希自曝曾患抑郁症](https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%B0%E5%B8%8C%E8%87%AA%E6%9B%9D%E6%9B%BE%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [胡八一雪莉杨 海底蜜月](https://s.weibo.com/weibo?q=%E8%83%A1%E5%85%AB%E4%B8%80%E9%9B%AA%E8%8E%89%E6%9D%A8%20%E6%B5%B7%E5%BA%95%E8%9C%9C%E6%9C%88&t=31&band_rank=7&Refer=top)<br />
 8. [芒格去世](https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%A0%BC%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [地球收到1600万公里外传来激光数据](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E6%94%B6%E5%88%B01600%E4%B8%87%E5%85%AC%E9%87%8C%E5%A4%96%E4%BC%A0%E6%9D%A5%E6%BF%80%E5%85%89%E6%95%B0%E6%8D%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [网曝陕西高校男生持刀捅伤一男一女](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E9%99%95%E8%A5%BF%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E6%8C%81%E5%88%80%E6%8D%85%E4%BC%A4%E4%B8%80%E7%94%B7%E4%B8%80%E5%A5%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
