@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 14:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 14:59:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [链博会里有什么](https://s.weibo.com/weibo?q=%23%E9%93%BE%E5%8D%9A%E4%BC%9A%E9%87%8C%E6%9C%89%E4%BB%80%E4%B9%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [吴昕花瓶腰](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E8%8A%B1%E7%93%B6%E8%85%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [北京一房东将两居室改成七居室出租](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E6%88%BF%E4%B8%9C%E5%B0%86%E4%B8%A4%E5%B1%85%E5%AE%A4%E6%94%B9%E6%88%90%E4%B8%83%E5%B1%85%E5%AE%A4%E5%87%BA%E7%A7%9F%23&t=31&band_rank=5&Refer=top)<br />
-6. [王睡睡张硕 没领证](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9D%A1%E7%9D%A1%E5%BC%A0%E7%A1%95%20%E6%B2%A1%E9%A2%86%E8%AF%81&t=31&band_rank=6&Refer=top)<br />
-7. [娜娜离世后老金才真正认识她](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E5%A8%9C%E7%A6%BB%E4%B8%96%E5%90%8E%E8%80%81%E9%87%91%E6%89%8D%E7%9C%9F%E6%AD%A3%E8%AE%A4%E8%AF%86%E5%A5%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [海南航空HU7175紧急备降广州](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BAHU7175%E7%B4%A7%E6%80%A5%E5%A4%87%E9%99%8D%E5%B9%BF%E5%B7%9E%23&t=31&band_rank=8&Refer=top)<br />
+6. [海南航空HU7175紧急备降广州](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BAHU7175%E7%B4%A7%E6%80%A5%E5%A4%87%E9%99%8D%E5%B9%BF%E5%B7%9E%23&t=31&band_rank=6&Refer=top)<br />
+7. [王睡睡张硕 没领证](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9D%A1%E7%9D%A1%E5%BC%A0%E7%A1%95%20%E6%B2%A1%E9%A2%86%E8%AF%81&t=31&band_rank=7&Refer=top)<br />
+8. [娜娜离世后老金才真正认识她](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E5%A8%9C%E7%A6%BB%E4%B8%96%E5%90%8E%E8%80%81%E9%87%91%E6%89%8D%E7%9C%9F%E6%AD%A3%E8%AE%A4%E8%AF%86%E5%A5%B9%23&t=31&band_rank=8&Refer=top)<br />
 9. [第一名奖励边睡觉边上课](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E5%90%8D%E5%A5%96%E5%8A%B1%E8%BE%B9%E7%9D%A1%E8%A7%89%E8%BE%B9%E4%B8%8A%E8%AF%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,8 +23,8 @@
 4. [从丽江到香格里拉，不再遥远](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%BD%E6%B1%9F%E5%88%B0%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%EF%BC%8C%E4%B8%8D%E5%86%8D%E9%81%A5%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州女童坠亡案：保姆女儿反诉雇主](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A5%B3%E7%AB%A5%E5%9D%A0%E4%BA%A1%E6%A1%88%EF%BC%9A%E4%BF%9D%E5%A7%86%E5%A5%B3%E5%84%BF%E5%8F%8D%E8%AF%89%E9%9B%87%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子患癌男友追到火车站求婚](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%82%A3%E7%99%8C%E7%94%B7%E5%8F%8B%E8%BF%BD%E5%88%B0%E7%81%AB%E8%BD%A6%E7%AB%99%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [外卖员当街下跪向交警求情 平台回应](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%91%98%E5%BD%93%E8%A1%97%E4%B8%8B%E8%B7%AA%E5%90%91%E4%BA%A4%E8%AD%A6%E6%B1%82%E6%83%85+%E5%B9%B3%E5%8F%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男童被父亲多次扯衣领提起窒息身亡](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%88%B6%E4%BA%B2%E5%A4%9A%E6%AC%A1%E6%89%AF%E8%A1%A3%E9%A2%86%E6%8F%90%E8%B5%B7%E7%AA%92%E6%81%AF%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男童被父亲多次扯衣领提起窒息身亡](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%88%B6%E4%BA%B2%E5%A4%9A%E6%AC%A1%E6%89%AF%E8%A1%A3%E9%A2%86%E6%8F%90%E8%B5%B7%E7%AA%92%E6%81%AF%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [被指开阴阳检测报告 转转：立正挨打](https://www.baidu.com/s?wd=%E8%A2%AB%E6%8C%87%E5%BC%80%E9%98%B4%E9%98%B3%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A+%E8%BD%AC%E8%BD%AC%EF%BC%9A%E7%AB%8B%E6%AD%A3%E6%8C%A8%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [遭网络攻击导致崩溃？滴滴否认](https://www.baidu.com/s?wd=%E9%81%AD%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E5%AF%BC%E8%87%B4%E5%B4%A9%E6%BA%83%EF%BC%9F%E6%BB%B4%E6%BB%B4%E5%90%A6%E8%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [从丽江到香格里拉，不再遥远](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%BD%E6%B1%9F%E5%88%B0%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%EF%BC%8C%E4%B8%8D%E5%86%8D%E9%81%A5%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杭州女童坠亡案：保姆女儿反诉雇主](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A5%B3%E7%AB%A5%E5%9D%A0%E4%BA%A1%E6%A1%88%EF%BC%9A%E4%BF%9D%E5%A7%86%E5%A5%B3%E5%84%BF%E5%8F%8D%E8%AF%89%E9%9B%87%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子患癌男友追到火车站求婚](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%82%A3%E7%99%8C%E7%94%B7%E5%8F%8B%E8%BF%BD%E5%88%B0%E7%81%AB%E8%BD%A6%E7%AB%99%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [外卖员当街下跪向交警求情 平台回应](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%91%98%E5%BD%93%E8%A1%97%E4%B8%8B%E8%B7%AA%E5%90%91%E4%BA%A4%E8%AD%A6%E6%B1%82%E6%83%85+%E5%B9%B3%E5%8F%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男童被父亲多次扯衣领提起窒息身亡](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%88%B6%E4%BA%B2%E5%A4%9A%E6%AC%A1%E6%89%AF%E8%A1%A3%E9%A2%86%E6%8F%90%E8%B5%B7%E7%AA%92%E6%81%AF%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男童被父亲多次扯衣领提起窒息身亡](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%88%B6%E4%BA%B2%E5%A4%9A%E6%AC%A1%E6%89%AF%E8%A1%A3%E9%A2%86%E6%8F%90%E8%B5%B7%E7%AA%92%E6%81%AF%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [被指开阴阳检测报告 转转：立正挨打](https://www.baidu.com/s?wd=%E8%A2%AB%E6%8C%87%E5%BC%80%E9%98%B4%E9%98%B3%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A+%E8%BD%AC%E8%BD%AC%EF%BC%9A%E7%AB%8B%E6%AD%A3%E6%8C%A8%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [遭网络攻击导致崩溃？滴滴否认](https://www.baidu.com/s?wd=%E9%81%AD%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E5%AF%BC%E8%87%B4%E5%B4%A9%E6%BA%83%EF%BC%9F%E6%BB%B4%E6%BB%B4%E5%90%A6%E8%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
