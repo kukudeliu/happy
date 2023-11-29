@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 12:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 12:11:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [男子驾车误撞小象遭5头大象围攻](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%AF%AF%E6%92%9E%E5%B0%8F%E8%B1%A1%E9%81%AD5%E5%A4%B4%E5%A4%A7%E8%B1%A1%E5%9B%B4%E6%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [生3个给8万！张雪峰回应花式催生](https://www.baidu.com/s?wd=%E7%94%9F3%E4%B8%AA%E7%BB%998%E4%B8%87%EF%BC%81%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%9E%E5%BA%94%E8%8A%B1%E5%BC%8F%E5%82%AC%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男童手臂伸进笼子被藏獒咬断](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E6%89%8B%E8%87%82%E4%BC%B8%E8%BF%9B%E7%AC%BC%E5%AD%90%E8%A2%AB%E8%97%8F%E7%8D%92%E5%92%AC%E6%96%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [司机载乘客冰面漂移 双双坠入江底](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%BD%BD%E4%B9%98%E5%AE%A2%E5%86%B0%E9%9D%A2%E6%BC%82%E7%A7%BB+%E5%8F%8C%E5%8F%8C%E5%9D%A0%E5%85%A5%E6%B1%9F%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [芒格身家超过26亿美元](https://www.baidu.com/s?wd=%E8%8A%92%E6%A0%BC%E8%BA%AB%E5%AE%B6%E8%B6%85%E8%BF%8726%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网民被罚朋友圈检讨？网警辟谣](https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E8%A2%AB%E7%BD%9A%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%A3%80%E8%AE%A8%EF%BC%9F%E7%BD%91%E8%AD%A6%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男子驾车误撞小象遭5头大象围攻](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%AF%AF%E6%92%9E%E5%B0%8F%E8%B1%A1%E9%81%AD5%E5%A4%B4%E5%A4%A7%E8%B1%A1%E5%9B%B4%E6%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [生3个给8万！张雪峰回应花式催生](https://www.baidu.com/s?wd=%E7%94%9F3%E4%B8%AA%E7%BB%998%E4%B8%87%EF%BC%81%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%9E%E5%BA%94%E8%8A%B1%E5%BC%8F%E5%82%AC%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男童手臂伸进笼子被藏獒咬断](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E6%89%8B%E8%87%82%E4%BC%B8%E8%BF%9B%E7%AC%BC%E5%AD%90%E8%A2%AB%E8%97%8F%E7%8D%92%E5%92%AC%E6%96%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [司机载乘客冰面漂移 双双坠入江底](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%BD%BD%E4%B9%98%E5%AE%A2%E5%86%B0%E9%9D%A2%E6%BC%82%E7%A7%BB+%E5%8F%8C%E5%8F%8C%E5%9D%A0%E5%85%A5%E6%B1%9F%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [芒格身家超过26亿美元](https://www.baidu.com/s?wd=%E8%8A%92%E6%A0%BC%E8%BA%AB%E5%AE%B6%E8%B6%85%E8%BF%8726%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网民被罚朋友圈检讨？网警辟谣](https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E8%A2%AB%E7%BD%9A%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%A3%80%E8%AE%A8%EF%BC%9F%E7%BD%91%E8%AD%A6%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
