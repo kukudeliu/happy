@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 11:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 11:11:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [女友宣布与内马尔分手](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8F%8B%E5%AE%A3%E5%B8%83%E4%B8%8E%E5%86%85%E9%A9%AC%E5%B0%94%E5%88%86%E6%89%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [专业仅有的4位女生年级前四保研](https://s.weibo.com/weibo?q=%23%E4%B8%93%E4%B8%9A%E4%BB%85%E6%9C%89%E7%9A%844%E4%BD%8D%E5%A5%B3%E7%94%9F%E5%B9%B4%E7%BA%A7%E5%89%8D%E5%9B%9B%E4%BF%9D%E7%A0%94%23&t=31&band_rank=5&Refer=top)<br />
 6. [芒格去世](https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%A0%BC%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [地球收到1600万公里外传来激光数据](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E6%94%B6%E5%88%B01600%E4%B8%87%E5%85%AC%E9%87%8C%E5%A4%96%E4%BC%A0%E6%9D%A5%E6%BF%80%E5%85%89%E6%95%B0%E6%8D%AE%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘璐给迪丽热巴做过的造型](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%92%90%E7%BB%99%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%81%9A%E8%BF%87%E7%9A%84%E9%80%A0%E5%9E%8B%23&t=31&band_rank=8&Refer=top)<br />
+7. [刘璐给迪丽热巴做过的造型](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%92%90%E7%BB%99%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%81%9A%E8%BF%87%E7%9A%84%E9%80%A0%E5%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [地球收到1600万公里外传来激光数据](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E6%94%B6%E5%88%B01600%E4%B8%87%E5%85%AC%E9%87%8C%E5%A4%96%E4%BC%A0%E6%9D%A5%E6%BF%80%E5%85%89%E6%95%B0%E6%8D%AE%23&t=31&band_rank=8&Refer=top)<br />
 9. [张凌赫看向白鹿的眼神](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9C%8B%E5%90%91%E7%99%BD%E9%B9%BF%E7%9A%84%E7%9C%BC%E7%A5%9E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
