@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 13:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 13:21:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [芒格去世](https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%A0%BC%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [网友举报转转二手手机出具阴阳检测报告](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B8%BE%E6%8A%A5%E8%BD%AC%E8%BD%AC%E4%BA%8C%E6%89%8B%E6%89%8B%E6%9C%BA%E5%87%BA%E5%85%B7%E9%98%B4%E9%98%B3%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [一艘疑似中国籍货轮在韩国西南部海上沉没](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%89%98%E7%96%91%E4%BC%BC%E4%B8%AD%E5%9B%BD%E7%B1%8D%E8%B4%A7%E8%BD%AE%E5%9C%A8%E9%9F%A9%E5%9B%BD%E8%A5%BF%E5%8D%97%E9%83%A8%E6%B5%B7%E4%B8%8A%E6%B2%89%E6%B2%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [王睡睡百科 前夫哥张硕](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9D%A1%E7%9D%A1%E7%99%BE%E7%A7%91%20%E5%89%8D%E5%A4%AB%E5%93%A5%E5%BC%A0%E7%A1%95&t=31&band_rank=9&Refer=top)<br />
+9. [TWICE合照 休假突然被拉来打工](https://s.weibo.com/weibo?q=TWICE%E5%90%88%E7%85%A7%20%E4%BC%91%E5%81%87%E7%AA%81%E7%84%B6%E8%A2%AB%E6%8B%89%E6%9D%A5%E6%89%93%E5%B7%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
