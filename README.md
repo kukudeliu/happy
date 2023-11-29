@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 07:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 07:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [傅首尔用的假睫毛狠狠避雷了](https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%E7%94%A8%E7%9A%84%E5%81%87%E7%9D%AB%E6%AF%9B%E7%8B%A0%E7%8B%A0%E9%81%BF%E9%9B%B7%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [医生建议学校改网课](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E5%AD%A6%E6%A0%A1%E6%94%B9%E7%BD%91%E8%AF%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [反复烧水会增加致癌物质吗](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%A4%8D%E7%83%A7%E6%B0%B4%E4%BC%9A%E5%A2%9E%E5%8A%A0%E8%87%B4%E7%99%8C%E7%89%A9%E8%B4%A8%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [那是妈妈 指甲长反也不会害我](https://s.weibo.com/weibo?q=%E9%82%A3%E6%98%AF%E5%A6%88%E5%A6%88%20%E6%8C%87%E7%94%B2%E9%95%BF%E5%8F%8D%E4%B9%9F%E4%B8%8D%E4%BC%9A%E5%AE%B3%E6%88%91&t=31&band_rank=9&Refer=top)<br />
+9. [杨鸣](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
