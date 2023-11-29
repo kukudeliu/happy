@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 08:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 08:38:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张凌赫看向白鹿的眼神](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9C%8B%E5%90%91%E7%99%BD%E9%B9%BF%E7%9A%84%E7%9C%BC%E7%A5%9E&t=31&band_rank=6&Refer=top)<br />
 7. [博主B太曝光的鬼秤商家被罚款20万](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BBB%E5%A4%AA%E6%9B%9D%E5%85%89%E7%9A%84%E9%AC%BC%E7%A7%A4%E5%95%86%E5%AE%B6%E8%A2%AB%E7%BD%9A%E6%AC%BE20%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [为啥有人一穿高领衣服就难受](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E6%9C%89%E4%BA%BA%E4%B8%80%E7%A9%BF%E9%AB%98%E9%A2%86%E8%A1%A3%E6%9C%8D%E5%B0%B1%E9%9A%BE%E5%8F%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [大学生独游华山坠崖失联10天](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%8B%AC%E6%B8%B8%E5%8D%8E%E5%B1%B1%E5%9D%A0%E5%B4%96%E5%A4%B1%E8%81%9410%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [审判一念关山](https://s.weibo.com/weibo?q=%23%E5%AE%A1%E5%88%A4%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
