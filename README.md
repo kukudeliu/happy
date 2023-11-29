@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 00:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 00:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国货羽绒服卖88元](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B4%A7%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8D%9688%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [法考成绩](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%83%E6%88%90%E7%BB%A9&t=31&band_rank=7&Refer=top)<br />
 8. [LV大秀 王鹤棣](https://s.weibo.com/weibo?q=LV%E5%A4%A7%E7%A7%80%20%E7%8E%8B%E9%B9%A4%E6%A3%A3&t=31&band_rank=8&Refer=top)<br />
-9. [人真的不能一直过省钱的生活](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%9C%9F%E7%9A%84%E4%B8%8D%E8%83%BD%E4%B8%80%E7%9B%B4%E8%BF%87%E7%9C%81%E9%92%B1%E7%9A%84%E7%94%9F%E6%B4%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [一念关山破万全员跳女团舞](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E7%A0%B4%E4%B8%87%E5%85%A8%E5%91%98%E8%B7%B3%E5%A5%B3%E5%9B%A2%E8%88%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
