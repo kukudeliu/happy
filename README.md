@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 22:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 22:27:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [一念关山破万全员跳女团舞](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E7%A0%B4%E4%B8%87%E5%85%A8%E5%91%98%E8%B7%B3%E5%A5%B3%E5%9B%A2%E8%88%9E%23&t=31&band_rank=5&Refer=top)<br />
 6. [papi酱 新型骗局](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E6%96%B0%E5%9E%8B%E9%AA%97%E5%B1%80&t=31&band_rank=6&Refer=top)<br />
 7. [钱可以慢慢攒但命没有第二次](https://s.weibo.com/weibo?q=%23%E9%92%B1%E5%8F%AF%E4%BB%A5%E6%85%A2%E6%85%A2%E6%94%92%E4%BD%86%E5%91%BD%E6%B2%A1%E6%9C%89%E7%AC%AC%E4%BA%8C%E6%AC%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [利智](https://s.weibo.com/weibo?q=%E5%88%A9%E6%99%BA&t=31&band_rank=8&Refer=top)<br />
-9. [女子排队礼让孕妇后被其他人礼让](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8E%92%E9%98%9F%E7%A4%BC%E8%AE%A9%E5%AD%95%E5%A6%87%E5%90%8E%E8%A2%AB%E5%85%B6%E4%BB%96%E4%BA%BA%E7%A4%BC%E8%AE%A9%23&t=31&band_rank=9&Refer=top)<br />
+8. [女子排队礼让孕妇后被其他人礼让](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8E%92%E9%98%9F%E7%A4%BC%E8%AE%A9%E5%AD%95%E5%A6%87%E5%90%8E%E8%A2%AB%E5%85%B6%E4%BB%96%E4%BA%BA%E7%A4%BC%E8%AE%A9%23&t=31&band_rank=8&Refer=top)<br />
+9. [利智](https://s.weibo.com/weibo?q=%E5%88%A9%E6%99%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
