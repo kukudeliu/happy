@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 03:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 03:24:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [那是妈妈 指甲长反也不会害我](https://s.weibo.com/weibo?q=%E9%82%A3%E6%98%AF%E5%A6%88%E5%A6%88%20%E6%8C%87%E7%94%B2%E9%95%BF%E5%8F%8D%E4%B9%9F%E4%B8%8D%E4%BC%9A%E5%AE%B3%E6%88%91&t=31&band_rank=6&Refer=top)<br />
 7. [LV大秀 王鹤棣](https://s.weibo.com/weibo?q=LV%E5%A4%A7%E7%A7%80%20%E7%8E%8B%E9%B9%A4%E6%A3%A3&t=31&band_rank=7&Refer=top)<br />
 8. [傅首尔用的假睫毛狠狠避雷了](https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%E7%94%A8%E7%9A%84%E5%81%87%E7%9D%AB%E6%AF%9B%E7%8B%A0%E7%8B%A0%E9%81%BF%E9%9B%B7%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [4个方法远离流感](https://s.weibo.com/weibo?q=%234%E4%B8%AA%E6%96%B9%E6%B3%95%E8%BF%9C%E7%A6%BB%E6%B5%81%E6%84%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [举报权志龙吸毒的人推翻口供](https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E6%9D%83%E5%BF%97%E9%BE%99%E5%90%B8%E6%AF%92%E7%9A%84%E4%BA%BA%E6%8E%A8%E7%BF%BB%E5%8F%A3%E4%BE%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
