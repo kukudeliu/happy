@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 18:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 18:40:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [链博会里有什么](https://s.weibo.com/weibo?q=%23%E9%93%BE%E5%8D%9A%E4%BC%9A%E9%87%8C%E6%9C%89%E4%BB%80%E4%B9%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [武汉大学](https://s.weibo.com/weibo?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6&t=31&band_rank=4&Refer=top)<br />
 5. [刘亦菲换轮胎](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%8D%A2%E8%BD%AE%E8%83%8E%23&t=31&band_rank=5&Refer=top)<br />
-6. [疑似西藏遇车祸女子转运画面曝光](https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E8%A5%BF%E8%97%8F%E9%81%87%E8%BD%A6%E7%A5%B8%E5%A5%B3%E5%AD%90%E8%BD%AC%E8%BF%90%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [肖战卡其色穿搭上班路透](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8D%A1%E5%85%B6%E8%89%B2%E7%A9%BF%E6%90%AD%E4%B8%8A%E7%8F%AD%E8%B7%AF%E9%80%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [迪丽热巴 恶女戏](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%81%B6%E5%A5%B3%E6%88%8F&t=31&band_rank=8&Refer=top)<br />
-9. [神兵小将第三季](https://s.weibo.com/weibo?q=%E7%A5%9E%E5%85%B5%E5%B0%8F%E5%B0%86%E7%AC%AC%E4%B8%89%E5%AD%A3&t=31&band_rank=9&Refer=top)<br />
+6. [李连杰采访 死后不立碑不办丧事](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E9%87%87%E8%AE%BF%20%E6%AD%BB%E5%90%8E%E4%B8%8D%E7%AB%8B%E7%A2%91%E4%B8%8D%E5%8A%9E%E4%B8%A7%E4%BA%8B&t=31&band_rank=6&Refer=top)<br />
+7. [神兵小将第三季](https://s.weibo.com/weibo?q=%E7%A5%9E%E5%85%B5%E5%B0%8F%E5%B0%86%E7%AC%AC%E4%B8%89%E5%AD%A3&t=31&band_rank=7&Refer=top)<br />
+8. [疑似西藏遇车祸女子转运画面曝光](https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E8%A5%BF%E8%97%8F%E9%81%87%E8%BD%A6%E7%A5%B8%E5%A5%B3%E5%AD%90%E8%BD%AC%E8%BF%90%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [迪丽热巴 恶女戏](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%81%B6%E5%A5%B3%E6%88%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [日本大使探望被拘日本公民 中方回应](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E6%8E%A2%E6%9C%9B%E8%A2%AB%E6%8B%98%E6%97%A5%E6%9C%AC%E5%85%AC%E6%B0%91+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从丽江到香格里拉，不再遥远](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%BD%E6%B1%9F%E5%88%B0%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%EF%BC%8C%E4%B8%8D%E5%86%8D%E9%81%A5%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华为校招高颜值HR火爆出圈](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%A0%A1%E6%8B%9B%E9%AB%98%E9%A2%9C%E5%80%BCHR%E7%81%AB%E7%88%86%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中方回应“在缅北局势中的立场”](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E5%9C%A8%E7%BC%85%E5%8C%97%E5%B1%80%E5%8A%BF%E4%B8%AD%E7%9A%84%E7%AB%8B%E5%9C%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [刘亦菲8秒给赛车换轮胎](https://www.baidu.com/s?wd=%E5%88%98%E4%BA%A6%E8%8F%B28%E7%A7%92%E7%BB%99%E8%B5%9B%E8%BD%A6%E6%8D%A2%E8%BD%AE%E8%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李连杰自曝看淡死亡](https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E8%87%AA%E6%9B%9D%E7%9C%8B%E6%B7%A1%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度罕见“拒收”俄罗斯原油](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%BD%95%E8%A7%81%E2%80%9C%E6%8B%92%E6%94%B6%E2%80%9D%E4%BF%84%E7%BD%97%E6%96%AF%E5%8E%9F%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周鸿祎回应360广告多](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E5%9B%9E%E5%BA%94360%E5%B9%BF%E5%91%8A%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [支原体肺炎是新冠变异？](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [日本大使探望被拘日本公民 中方回应](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E6%8E%A2%E6%9C%9B%E8%A2%AB%E6%8B%98%E6%97%A5%E6%9C%AC%E5%85%AC%E6%B0%91+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从丽江到香格里拉，不再遥远](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%BD%E6%B1%9F%E5%88%B0%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%EF%BC%8C%E4%B8%8D%E5%86%8D%E9%81%A5%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华为校招高颜值HR火爆出圈](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%A0%A1%E6%8B%9B%E9%AB%98%E9%A2%9C%E5%80%BCHR%E7%81%AB%E7%88%86%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中方回应“在缅北局势中的立场”](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E5%9C%A8%E7%BC%85%E5%8C%97%E5%B1%80%E5%8A%BF%E4%B8%AD%E7%9A%84%E7%AB%8B%E5%9C%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [刘亦菲8秒给赛车换轮胎](https://www.baidu.com/s?wd=%E5%88%98%E4%BA%A6%E8%8F%B28%E7%A7%92%E7%BB%99%E8%B5%9B%E8%BD%A6%E6%8D%A2%E8%BD%AE%E8%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李连杰自曝看淡死亡](https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E8%87%AA%E6%9B%9D%E7%9C%8B%E6%B7%A1%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度罕见“拒收”俄罗斯原油](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%BD%95%E8%A7%81%E2%80%9C%E6%8B%92%E6%94%B6%E2%80%9D%E4%BF%84%E7%BD%97%E6%96%AF%E5%8E%9F%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周鸿祎回应360广告多](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%E5%9B%9E%E5%BA%94360%E5%B9%BF%E5%91%8A%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [支原体肺炎是新冠变异？](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
