@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 13:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 13:13:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [促进优质网络文化产品生产传播](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E4%BC%98%E8%B4%A8%E7%BD%91%E7%BB%9C%E6%96%87%E5%8C%96%E4%BA%A7%E5%93%81%E7%94%9F%E4%BA%A7%E4%BC%A0%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [为中国式现代化营造有利法治条件](https://www.baidu.com/s?wd=%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E8%90%A5%E9%80%A0%E6%9C%89%E5%88%A9%E6%B3%95%E6%B2%BB%E6%9D%A1%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [雷军给武大捐13亿：不主张攀比](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E7%BB%99%E6%AD%A6%E5%A4%A7%E6%8D%9013%E4%BA%BF%EF%BC%9A%E4%B8%8D%E4%B8%BB%E5%BC%A0%E6%94%80%E6%AF%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [司机载乘客冰面漂移 双双坠入江底](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%BD%BD%E4%B9%98%E5%AE%A2%E5%86%B0%E9%9D%A2%E6%BC%82%E7%A7%BB+%E5%8F%8C%E5%8F%8C%E5%9D%A0%E5%85%A5%E6%B1%9F%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从丽江到香格里拉，不再遥远](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%BD%E6%B1%9F%E5%88%B0%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%EF%BC%8C%E4%B8%8D%E5%86%8D%E9%81%A5%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [促进优质网络文化产品生产传播](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E4%BC%98%E8%B4%A8%E7%BD%91%E7%BB%9C%E6%96%87%E5%8C%96%E4%BA%A7%E5%93%81%E7%94%9F%E4%BA%A7%E4%BC%A0%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [为中国式现代化营造有利法治条件](https://www.baidu.com/s?wd=%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E8%90%A5%E9%80%A0%E6%9C%89%E5%88%A9%E6%B3%95%E6%B2%BB%E6%9D%A1%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [雷军给武大捐13亿：不主张攀比](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E7%BB%99%E6%AD%A6%E5%A4%A7%E6%8D%9013%E4%BA%BF%EF%BC%9A%E4%B8%8D%E4%B8%BB%E5%BC%A0%E6%94%80%E6%AF%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [司机载乘客冰面漂移 双双坠入江底](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%BD%BD%E4%B9%98%E5%AE%A2%E5%86%B0%E9%9D%A2%E6%BC%82%E7%A7%BB+%E5%8F%8C%E5%8F%8C%E5%9D%A0%E5%85%A5%E6%B1%9F%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从丽江到香格里拉，不再遥远](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%BD%E6%B1%9F%E5%88%B0%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%EF%BC%8C%E4%B8%8D%E5%86%8D%E9%81%A5%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
