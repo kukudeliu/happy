@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 20:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 20:30:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [利智](https://s.weibo.com/weibo?q=%E5%88%A9%E6%99%BA&t=31&band_rank=4&Refer=top)<br />
 5. [李维嘉 生命最后三天也要做家务](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%BB%B4%E5%98%89%20%E7%94%9F%E5%91%BD%E6%9C%80%E5%90%8E%E4%B8%89%E5%A4%A9%E4%B9%9F%E8%A6%81%E5%81%9A%E5%AE%B6%E5%8A%A1&t=31&band_rank=5&Refer=top)<br />
 6. [海底捞部分门店不让跳科目三了](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E9%83%A8%E5%88%86%E9%97%A8%E5%BA%97%E4%B8%8D%E8%AE%A9%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [鹅腿阿姨哽咽称压力太大](https://s.weibo.com/weibo?q=%23%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E5%93%BD%E5%92%BD%E7%A7%B0%E5%8E%8B%E5%8A%9B%E5%A4%AA%E5%A4%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [崔胜澈现身MAMA](https://s.weibo.com/weibo?q=%23%E5%B4%94%E8%83%9C%E6%BE%88%E7%8E%B0%E8%BA%ABMAMA%23&t=31&band_rank=8&Refer=top)<br />
+7. [崔胜澈现身MAMA](https://s.weibo.com/weibo?q=%23%E5%B4%94%E8%83%9C%E6%BE%88%E7%8E%B0%E8%BA%ABMAMA%23&t=31&band_rank=7&Refer=top)<br />
+8. [鹅腿阿姨哽咽称压力太大](https://s.weibo.com/weibo?q=%23%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E5%93%BD%E5%92%BD%E7%A7%B0%E5%8E%8B%E5%8A%9B%E5%A4%AA%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
 9. [华为校招 高颜值HR](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E6%A0%A1%E6%8B%9B%20%E9%AB%98%E9%A2%9C%E5%80%BCHR&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
