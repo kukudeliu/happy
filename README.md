@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 04:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 04:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [LV大秀 王鹤棣](https://s.weibo.com/weibo?q=LV%E5%A4%A7%E7%A7%80%20%E7%8E%8B%E9%B9%A4%E6%A3%A3&t=31&band_rank=6&Refer=top)<br />
 7. [傅首尔用的假睫毛狠狠避雷了](https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%E7%94%A8%E7%9A%84%E5%81%87%E7%9D%AB%E6%AF%9B%E7%8B%A0%E7%8B%A0%E9%81%BF%E9%9B%B7%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [papi酱 新型骗局](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E6%96%B0%E5%9E%8B%E9%AA%97%E5%B1%80&t=31&band_rank=8&Refer=top)<br />
-9. [举报权志龙吸毒的人推翻口供](https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E6%9D%83%E5%BF%97%E9%BE%99%E5%90%B8%E6%AF%92%E7%9A%84%E4%BA%BA%E6%8E%A8%E7%BF%BB%E5%8F%A3%E4%BE%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [反复烧水会增加致癌物质吗](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%A4%8D%E7%83%A7%E6%B0%B4%E4%BC%9A%E5%A2%9E%E5%8A%A0%E8%87%B4%E7%99%8C%E7%89%A9%E8%B4%A8%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
