@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 20:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 20:54:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [华为校招高颜值HR火爆出圈](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%A0%A1%E6%8B%9B%E9%AB%98%E9%A2%9C%E5%80%BCHR%E7%81%AB%E7%88%86%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [链博会上“链”什么？](https://www.baidu.com/s?wd=%E9%93%BE%E5%8D%9A%E4%BC%9A%E4%B8%8A%E2%80%9C%E9%93%BE%E2%80%9D%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国人一年吃掉11万吨辣条](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%80%E5%B9%B4%E5%90%83%E6%8E%8911%E4%B8%87%E5%90%A8%E8%BE%A3%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [媒体：从阿里云到滴滴的崩溃一夜](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%BB%8E%E9%98%BF%E9%87%8C%E4%BA%91%E5%88%B0%E6%BB%B4%E6%BB%B4%E7%9A%84%E5%B4%A9%E6%BA%83%E4%B8%80%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [司机载乘客冰面漂移 双双坠入江底](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%BD%BD%E4%B9%98%E5%AE%A2%E5%86%B0%E9%9D%A2%E6%BC%82%E7%A7%BB+%E5%8F%8C%E5%8F%8C%E5%9D%A0%E5%85%A5%E6%B1%9F%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [海底捞员工称学舞蹈压力大](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%91%98%E5%B7%A5%E7%A7%B0%E5%AD%A6%E8%88%9E%E8%B9%88%E5%8E%8B%E5%8A%9B%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度罕见“拒收”俄罗斯原油](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%BD%95%E8%A7%81%E2%80%9C%E6%8B%92%E6%94%B6%E2%80%9D%E4%BF%84%E7%BD%97%E6%96%AF%E5%8E%9F%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [东北小吃“烤冰溜子”在长沙火了](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E5%B0%8F%E5%90%83%E2%80%9C%E7%83%A4%E5%86%B0%E6%BA%9C%E5%AD%90%E2%80%9D%E5%9C%A8%E9%95%BF%E6%B2%99%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [支原体肺炎是新冠变异？](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [华为校招高颜值HR火爆出圈](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%A0%A1%E6%8B%9B%E9%AB%98%E9%A2%9C%E5%80%BCHR%E7%81%AB%E7%88%86%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [链博会上“链”什么？](https://www.baidu.com/s?wd=%E9%93%BE%E5%8D%9A%E4%BC%9A%E4%B8%8A%E2%80%9C%E9%93%BE%E2%80%9D%E4%BB%80%E4%B9%88%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国人一年吃掉11万吨辣条](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%80%E5%B9%B4%E5%90%83%E6%8E%8911%E4%B8%87%E5%90%A8%E8%BE%A3%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [媒体：从阿里云到滴滴的崩溃一夜](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%BB%8E%E9%98%BF%E9%87%8C%E4%BA%91%E5%88%B0%E6%BB%B4%E6%BB%B4%E7%9A%84%E5%B4%A9%E6%BA%83%E4%B8%80%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [司机载乘客冰面漂移 双双坠入江底](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%BD%BD%E4%B9%98%E5%AE%A2%E5%86%B0%E9%9D%A2%E6%BC%82%E7%A7%BB+%E5%8F%8C%E5%8F%8C%E5%9D%A0%E5%85%A5%E6%B1%9F%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [海底捞员工称学舞蹈压力大](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%91%98%E5%B7%A5%E7%A7%B0%E5%AD%A6%E8%88%9E%E8%B9%88%E5%8E%8B%E5%8A%9B%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度罕见“拒收”俄罗斯原油](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%BD%95%E8%A7%81%E2%80%9C%E6%8B%92%E6%94%B6%E2%80%9D%E4%BF%84%E7%BD%97%E6%96%AF%E5%8E%9F%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [东北小吃“烤冰溜子”在长沙火了](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E5%B0%8F%E5%90%83%E2%80%9C%E7%83%A4%E5%86%B0%E6%BA%9C%E5%AD%90%E2%80%9D%E5%9C%A8%E9%95%BF%E6%B2%99%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [支原体肺炎是新冠变异？](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
