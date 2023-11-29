@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 05:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 05:02:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [法考](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%83&t=31&band_rank=5&Refer=top)<br />
 6. [李维嘉 生命最后三天也要做家务](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%BB%B4%E5%98%89%20%E7%94%9F%E5%91%BD%E6%9C%80%E5%90%8E%E4%B8%89%E5%A4%A9%E4%B9%9F%E8%A6%81%E5%81%9A%E5%AE%B6%E5%8A%A1&t=31&band_rank=6&Refer=top)<br />
 7. [精神科医生 没有车想杀死你是你的幻觉](https://s.weibo.com/weibo?q=%E7%B2%BE%E7%A5%9E%E7%A7%91%E5%8C%BB%E7%94%9F%20%E6%B2%A1%E6%9C%89%E8%BD%A6%E6%83%B3%E6%9D%80%E6%AD%BB%E4%BD%A0%E6%98%AF%E4%BD%A0%E7%9A%84%E5%B9%BB%E8%A7%89&t=31&band_rank=7&Refer=top)<br />
-8. [LV大秀 王鹤棣](https://s.weibo.com/weibo?q=LV%E5%A4%A7%E7%A7%80%20%E7%8E%8B%E9%B9%A4%E6%A3%A3&t=31&band_rank=8&Refer=top)<br />
-9. [反复烧水会增加致癌物质吗](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%A4%8D%E7%83%A7%E6%B0%B4%E4%BC%9A%E5%A2%9E%E5%8A%A0%E8%87%B4%E7%99%8C%E7%89%A9%E8%B4%A8%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [反复烧水会增加致癌物质吗](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%A4%8D%E7%83%A7%E6%B0%B4%E4%BC%9A%E5%A2%9E%E5%8A%A0%E8%87%B4%E7%99%8C%E7%89%A9%E8%B4%A8%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [LV大秀 王鹤棣](https://s.weibo.com/weibo?q=LV%E5%A4%A7%E7%A7%80%20%E7%8E%8B%E9%B9%A4%E6%A3%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
