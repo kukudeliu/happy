@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 18:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 18:59:01</h4></div>
 
 > 微博  
 
@@ -21,10 +21,10 @@
 2. [日本大使探望被拘日本公民 中方回应](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E6%8E%A2%E6%9C%9B%E8%A2%AB%E6%8B%98%E6%97%A5%E6%9C%AC%E5%85%AC%E6%B0%91+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [华为校招高颜值HR火爆出圈](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%A0%A1%E6%8B%9B%E9%AB%98%E9%A2%9C%E5%80%BCHR%E7%81%AB%E7%88%86%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从丽江到香格里拉，不再遥远](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%BD%E6%B1%9F%E5%88%B0%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%EF%BC%8C%E4%B8%8D%E5%86%8D%E9%81%A5%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [骨科专家：跳科目三容易崴脚、骨折](https://www.baidu.com/s?wd=%E9%AA%A8%E7%A7%91%E4%B8%93%E5%AE%B6%EF%BC%9A%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E5%AE%B9%E6%98%93%E5%B4%B4%E8%84%9A%E3%80%81%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [中国人一年吃掉11万吨辣条](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%80%E5%B9%B4%E5%90%83%E6%8E%8911%E4%B8%87%E5%90%A8%E8%BE%A3%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘亦菲8秒给赛车换轮胎](https://www.baidu.com/s?wd=%E5%88%98%E4%BA%A6%E8%8F%B28%E7%A7%92%E7%BB%99%E8%B5%9B%E8%BD%A6%E6%8D%A2%E8%BD%AE%E8%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大学生华山坠崖失联10天 其父发声](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8D%8E%E5%B1%B1%E5%9D%A0%E5%B4%96%E5%A4%B1%E8%81%9410%E5%A4%A9+%E5%85%B6%E7%88%B6%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [鹅腿阿姨哽咽：压力太大不敢干活了](https://www.baidu.com/s?wd=%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E5%93%BD%E5%92%BD%EF%BC%9A%E5%8E%8B%E5%8A%9B%E5%A4%AA%E5%A4%A7%E4%B8%8D%E6%95%A2%E5%B9%B2%E6%B4%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子打滴滴60多元行程扣费超400](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%89%93%E6%BB%B4%E6%BB%B460%E5%A4%9A%E5%85%83%E8%A1%8C%E7%A8%8B%E6%89%A3%E8%B4%B9%E8%B6%85400&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李连杰自曝看淡死亡](https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E8%87%AA%E6%9B%9D%E7%9C%8B%E6%B7%A1%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [支原体肺炎是新冠变异？](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -33,8 +33,8 @@
 2. [日本大使探望被拘日本公民 中方回应](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E6%8E%A2%E6%9C%9B%E8%A2%AB%E6%8B%98%E6%97%A5%E6%9C%AC%E5%85%AC%E6%B0%91+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [华为校招高颜值HR火爆出圈](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%A0%A1%E6%8B%9B%E9%AB%98%E9%A2%9C%E5%80%BCHR%E7%81%AB%E7%88%86%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从丽江到香格里拉，不再遥远](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%BD%E6%B1%9F%E5%88%B0%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%EF%BC%8C%E4%B8%8D%E5%86%8D%E9%81%A5%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [骨科专家：跳科目三容易崴脚、骨折](https://www.baidu.com/s?wd=%E9%AA%A8%E7%A7%91%E4%B8%93%E5%AE%B6%EF%BC%9A%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E5%AE%B9%E6%98%93%E5%B4%B4%E8%84%9A%E3%80%81%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [中国人一年吃掉11万吨辣条](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%80%E5%B9%B4%E5%90%83%E6%8E%8911%E4%B8%87%E5%90%A8%E8%BE%A3%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘亦菲8秒给赛车换轮胎](https://www.baidu.com/s?wd=%E5%88%98%E4%BA%A6%E8%8F%B28%E7%A7%92%E7%BB%99%E8%B5%9B%E8%BD%A6%E6%8D%A2%E8%BD%AE%E8%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大学生华山坠崖失联10天 其父发声](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8D%8E%E5%B1%B1%E5%9D%A0%E5%B4%96%E5%A4%B1%E8%81%9410%E5%A4%A9+%E5%85%B6%E7%88%B6%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [鹅腿阿姨哽咽：压力太大不敢干活了](https://www.baidu.com/s?wd=%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E5%93%BD%E5%92%BD%EF%BC%9A%E5%8E%8B%E5%8A%9B%E5%A4%AA%E5%A4%A7%E4%B8%8D%E6%95%A2%E5%B9%B2%E6%B4%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子打滴滴60多元行程扣费超400](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%89%93%E6%BB%B4%E6%BB%B460%E5%A4%9A%E5%85%83%E8%A1%8C%E7%A8%8B%E6%89%A3%E8%B4%B9%E8%B6%85400&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李连杰自曝看淡死亡](https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E8%87%AA%E6%9B%9D%E7%9C%8B%E6%B7%A1%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [支原体肺炎是新冠变异？](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
