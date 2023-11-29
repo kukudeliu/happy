@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 01:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 01:48:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [4个方法远离流感](https://s.weibo.com/weibo?q=%234%E4%B8%AA%E6%96%B9%E6%B3%95%E8%BF%9C%E7%A6%BB%E6%B5%81%E6%84%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [精神科医生 没有车想杀死你是你的幻觉](https://s.weibo.com/weibo?q=%E7%B2%BE%E7%A5%9E%E7%A7%91%E5%8C%BB%E7%94%9F%20%E6%B2%A1%E6%9C%89%E8%BD%A6%E6%83%B3%E6%9D%80%E6%AD%BB%E4%BD%A0%E6%98%AF%E4%BD%A0%E7%9A%84%E5%B9%BB%E8%A7%89&t=31&band_rank=4&Refer=top)<br />
 5. [那是妈妈 指甲长反也不会害我](https://s.weibo.com/weibo?q=%E9%82%A3%E6%98%AF%E5%A6%88%E5%A6%88%20%E6%8C%87%E7%94%B2%E9%95%BF%E5%8F%8D%E4%B9%9F%E4%B8%8D%E4%BC%9A%E5%AE%B3%E6%88%91&t=31&band_rank=5&Refer=top)<br />
-6. [傅首尔用的假睫毛狠狠避雷了](https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%E7%94%A8%E7%9A%84%E5%81%87%E7%9D%AB%E6%AF%9B%E7%8B%A0%E7%8B%A0%E9%81%BF%E9%9B%B7%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [Kim说不会因为没拿到offer就质疑自己](https://s.weibo.com/weibo?q=%23Kim%E8%AF%B4%E4%B8%8D%E4%BC%9A%E5%9B%A0%E4%B8%BA%E6%B2%A1%E6%8B%BF%E5%88%B0offer%E5%B0%B1%E8%B4%A8%E7%96%91%E8%87%AA%E5%B7%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [papi酱 新型骗局](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E6%96%B0%E5%9E%8B%E9%AA%97%E5%B1%80&t=31&band_rank=8&Refer=top)<br />
-9. [法考](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%83&t=31&band_rank=9&Refer=top)<br />
+6. [法考](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%83&t=31&band_rank=6&Refer=top)<br />
+7. [傅首尔用的假睫毛狠狠避雷了](https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%E7%94%A8%E7%9A%84%E5%81%87%E7%9D%AB%E6%AF%9B%E7%8B%A0%E7%8B%A0%E9%81%BF%E9%9B%B7%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [Kim说不会因为没拿到offer就质疑自己](https://s.weibo.com/weibo?q=%23Kim%E8%AF%B4%E4%B8%8D%E4%BC%9A%E5%9B%A0%E4%B8%BA%E6%B2%A1%E6%8B%BF%E5%88%B0offer%E5%B0%B1%E8%B4%A8%E7%96%91%E8%87%AA%E5%B7%B1%23&t=31&band_rank=8&Refer=top)<br />
+9. [papi酱 新型骗局](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E6%96%B0%E5%9E%8B%E9%AA%97%E5%B1%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
