@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 17:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 17:13:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [佘诗曼回应美甲15年来没变过](https://s.weibo.com/weibo?q=%E4%BD%98%E8%AF%97%E6%9B%BC%E5%9B%9E%E5%BA%94%E7%BE%8E%E7%94%B215%E5%B9%B4%E6%9D%A5%E6%B2%A1%E5%8F%98%E8%BF%87&t=31&band_rank=2&Refer=top)<br />
 3. [链博会里有什么](https://s.weibo.com/weibo?q=%23%E9%93%BE%E5%8D%9A%E4%BC%9A%E9%87%8C%E6%9C%89%E4%BB%80%E4%B9%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [水哥43岁状态](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%93%A543%E5%B2%81%E7%8A%B6%E6%80%81%23&t=31&band_rank=4&Refer=top)<br />
-5. [李晨说周淑怡是他心里的一姐](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%A8%E8%AF%B4%E5%91%A8%E6%B7%91%E6%80%A1%E6%98%AF%E4%BB%96%E5%BF%83%E9%87%8C%E7%9A%84%E4%B8%80%E5%A7%90%23&t=31&band_rank=5&Refer=top)<br />
-6. [迪丽热巴 恶女戏](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%81%B6%E5%A5%B3%E6%88%8F&t=31&band_rank=6&Refer=top)<br />
+5. [迪丽热巴 恶女戏](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%81%B6%E5%A5%B3%E6%88%8F&t=31&band_rank=5&Refer=top)<br />
+6. [李晨说周淑怡是他心里的一姐](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%A8%E8%AF%B4%E5%91%A8%E6%B7%91%E6%80%A1%E6%98%AF%E4%BB%96%E5%BF%83%E9%87%8C%E7%9A%84%E4%B8%80%E5%A7%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [滴滴致歉补偿券领不了](https://s.weibo.com/weibo?q=%23%E6%BB%B4%E6%BB%B4%E8%87%B4%E6%AD%89%E8%A1%A5%E5%81%BF%E5%88%B8%E9%A2%86%E4%B8%8D%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [e人和i狗](https://s.weibo.com/weibo?q=e%E4%BA%BA%E5%92%8Ci%E7%8B%97&t=31&band_rank=8&Refer=top)<br />
 9. [官方回应阿里西藏全区公务员为一人献血](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%98%BF%E9%87%8C%E8%A5%BF%E8%97%8F%E5%85%A8%E5%8C%BA%E5%85%AC%E5%8A%A1%E5%91%98%E4%B8%BA%E4%B8%80%E4%BA%BA%E7%8C%AE%E8%A1%80%23&t=31&band_rank=9&Refer=top)<br />
