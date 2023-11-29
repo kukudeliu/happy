@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 15:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 15:16:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [37岁华人女星庄群施在剧组猝逝](https://www.baidu.com/s?wd=37%E5%B2%81%E5%8D%8E%E4%BA%BA%E5%A5%B3%E6%98%9F%E5%BA%84%E7%BE%A4%E6%96%BD%E5%9C%A8%E5%89%A7%E7%BB%84%E7%8C%9D%E9%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子患癌男友追到火车站求婚](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%82%A3%E7%99%8C%E7%94%B7%E5%8F%8B%E8%BF%BD%E5%88%B0%E7%81%AB%E8%BD%A6%E7%AB%99%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男童被父亲多次扯衣领提起窒息身亡](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%88%B6%E4%BA%B2%E5%A4%9A%E6%AC%A1%E6%89%AF%E8%A1%A3%E9%A2%86%E6%8F%90%E8%B5%B7%E7%AA%92%E6%81%AF%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [遭网络攻击导致崩溃？滴滴否认](https://www.baidu.com/s?wd=%E9%81%AD%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E5%AF%BC%E8%87%B4%E5%B4%A9%E6%BA%83%EF%BC%9F%E6%BB%B4%E6%BB%B4%E5%90%A6%E8%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [支原体肺炎是新冠变异？](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [37岁华人女星庄群施在剧组猝逝](https://www.baidu.com/s?wd=37%E5%B2%81%E5%8D%8E%E4%BA%BA%E5%A5%B3%E6%98%9F%E5%BA%84%E7%BE%A4%E6%96%BD%E5%9C%A8%E5%89%A7%E7%BB%84%E7%8C%9D%E9%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子患癌男友追到火车站求婚](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%82%A3%E7%99%8C%E7%94%B7%E5%8F%8B%E8%BF%BD%E5%88%B0%E7%81%AB%E8%BD%A6%E7%AB%99%E6%B1%82%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男童被父亲多次扯衣领提起窒息身亡](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%88%B6%E4%BA%B2%E5%A4%9A%E6%AC%A1%E6%89%AF%E8%A1%A3%E9%A2%86%E6%8F%90%E8%B5%B7%E7%AA%92%E6%81%AF%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [遭网络攻击导致崩溃？滴滴否认](https://www.baidu.com/s?wd=%E9%81%AD%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E5%AF%BC%E8%87%B4%E5%B4%A9%E6%BA%83%EF%BC%9F%E6%BB%B4%E6%BB%B4%E5%90%A6%E8%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [支原体肺炎是新冠变异？](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
