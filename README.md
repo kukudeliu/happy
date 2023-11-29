@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 17:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 17:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [佘诗曼回应美甲15年来没变过](https://s.weibo.com/weibo?q=%E4%BD%98%E8%AF%97%E6%9B%BC%E5%9B%9E%E5%BA%94%E7%BE%8E%E7%94%B215%E5%B9%B4%E6%9D%A5%E6%B2%A1%E5%8F%98%E8%BF%87&t=31&band_rank=6&Refer=top)<br />
 7. [水哥43岁状态](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%93%A543%E5%B2%81%E7%8A%B6%E6%80%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [神兵小将第三季](https://s.weibo.com/weibo?q=%E7%A5%9E%E5%85%B5%E5%B0%8F%E5%B0%86%E7%AC%AC%E4%B8%89%E5%AD%A3&t=31&band_rank=8&Refer=top)<br />
-9. [e人和i狗](https://s.weibo.com/weibo?q=e%E4%BA%BA%E5%92%8Ci%E7%8B%97&t=31&band_rank=9&Refer=top)<br />
+9. [武汉大学](https://s.weibo.com/weibo?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
