@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 12:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 12:20:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [首届链博会来了](https://www.baidu.com/s?wd=%E9%A6%96%E5%B1%8A%E9%93%BE%E5%8D%9A%E4%BC%9A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子驾车误撞小象遭5头大象围攻](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%AF%AF%E6%92%9E%E5%B0%8F%E8%B1%A1%E9%81%AD5%E5%A4%B4%E5%A4%A7%E8%B1%A1%E5%9B%B4%E6%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [生3个给8万！张雪峰回应花式催生](https://www.baidu.com/s?wd=%E7%94%9F3%E4%B8%AA%E7%BB%998%E4%B8%87%EF%BC%81%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%9E%E5%BA%94%E8%8A%B1%E5%BC%8F%E5%82%AC%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [芒格最后一次采访谈中国市场](https://www.baidu.com/s?wd=%E8%8A%92%E6%A0%BC%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E9%87%87%E8%AE%BF%E8%B0%88%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [海底捞员工跳擦玻璃舞 被指低俗](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%91%98%E5%B7%A5%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E+%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [海底捞员工跳擦玻璃舞 被指低俗](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%91%98%E5%B7%A5%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E+%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [司机载乘客冰面漂移 双双坠入江底](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%BD%BD%E4%B9%98%E5%AE%A2%E5%86%B0%E9%9D%A2%E6%BC%82%E7%A7%BB+%E5%8F%8C%E5%8F%8C%E5%9D%A0%E5%85%A5%E6%B1%9F%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网民被罚朋友圈检讨？网警辟谣](https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E8%A2%AB%E7%BD%9A%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%A3%80%E8%AE%A8%EF%BC%9F%E7%BD%91%E8%AD%A6%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [首届链博会来了](https://www.baidu.com/s?wd=%E9%A6%96%E5%B1%8A%E9%93%BE%E5%8D%9A%E4%BC%9A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子驾车误撞小象遭5头大象围攻](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%AF%AF%E6%92%9E%E5%B0%8F%E8%B1%A1%E9%81%AD5%E5%A4%B4%E5%A4%A7%E8%B1%A1%E5%9B%B4%E6%94%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [生3个给8万！张雪峰回应花式催生](https://www.baidu.com/s?wd=%E7%94%9F3%E4%B8%AA%E7%BB%998%E4%B8%87%EF%BC%81%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%9E%E5%BA%94%E8%8A%B1%E5%BC%8F%E5%82%AC%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [芒格最后一次采访谈中国市场](https://www.baidu.com/s?wd=%E8%8A%92%E6%A0%BC%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E9%87%87%E8%AE%BF%E8%B0%88%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [海底捞员工跳擦玻璃舞 被指低俗](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%91%98%E5%B7%A5%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E+%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [海底捞员工跳擦玻璃舞 被指低俗](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%91%98%E5%B7%A5%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E+%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [司机载乘客冰面漂移 双双坠入江底](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%BD%BD%E4%B9%98%E5%AE%A2%E5%86%B0%E9%9D%A2%E6%BC%82%E7%A7%BB+%E5%8F%8C%E5%8F%8C%E5%9D%A0%E5%85%A5%E6%B1%9F%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网民被罚朋友圈检讨？网警辟谣](https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E8%A2%AB%E7%BD%9A%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%A3%80%E8%AE%A8%EF%BC%9F%E7%BD%91%E8%AD%A6%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
