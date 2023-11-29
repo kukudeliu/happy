@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 09:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 09:04:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [张凌赫看向白鹿的眼神](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9C%8B%E5%90%91%E7%99%BD%E9%B9%BF%E7%9A%84%E7%9C%BC%E7%A5%9E&t=31&band_rank=5&Refer=top)<br />
 6. [男子中2.6亿后次日凌晨准时上班](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%AD2.6%E4%BA%BF%E5%90%8E%E6%AC%A1%E6%97%A5%E5%87%8C%E6%99%A8%E5%87%86%E6%97%B6%E4%B8%8A%E7%8F%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [很笨但能考上公务员的暗黑偏方](https://s.weibo.com/weibo?q=%E5%BE%88%E7%AC%A8%E4%BD%86%E8%83%BD%E8%80%83%E4%B8%8A%E5%85%AC%E5%8A%A1%E5%91%98%E7%9A%84%E6%9A%97%E9%BB%91%E5%81%8F%E6%96%B9&t=31&band_rank=7&Refer=top)<br />
-8. [博主B太曝光的鬼秤商家被罚款20万](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BBB%E5%A4%AA%E6%9B%9D%E5%85%89%E7%9A%84%E9%AC%BC%E7%A7%A4%E5%95%86%E5%AE%B6%E8%A2%AB%E7%BD%9A%E6%AC%BE20%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [傅首尔老刘 允许离开的发生](https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%E8%80%81%E5%88%98%20%E5%85%81%E8%AE%B8%E7%A6%BB%E5%BC%80%E7%9A%84%E5%8F%91%E7%94%9F&t=31&band_rank=9&Refer=top)<br />
+8. [傅首尔老刘 允许离开的发生](https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%E8%80%81%E5%88%98%20%E5%85%81%E8%AE%B8%E7%A6%BB%E5%BC%80%E7%9A%84%E5%8F%91%E7%94%9F&t=31&band_rank=8&Refer=top)<br />
+9. [博主B太曝光的鬼秤商家被罚款20万](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BBB%E5%A4%AA%E6%9B%9D%E5%85%89%E7%9A%84%E9%AC%BC%E7%A7%A4%E5%95%86%E5%AE%B6%E8%A2%AB%E7%BD%9A%E6%AC%BE20%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
