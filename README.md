@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 09:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 09:53:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [促进优质网络文化产品生产传播](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E4%BC%98%E8%B4%A8%E7%BD%91%E7%BB%9C%E6%96%87%E5%8C%96%E4%BA%A7%E5%93%81%E7%94%9F%E4%BA%A7%E4%BC%A0%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [海底捞员工跳擦玻璃舞 被指低俗](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%91%98%E5%B7%A5%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E+%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [男子中2.6亿后次日凌晨准时上班](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD2.6%E4%BA%BF%E5%90%8E%E6%AC%A1%E6%97%A5%E5%87%8C%E6%99%A8%E5%87%86%E6%97%B6%E4%B8%8A%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [投资界传奇大佬芒格去世 享年99岁](https://www.baidu.com/s?wd=%E6%8A%95%E8%B5%84%E7%95%8C%E4%BC%A0%E5%A5%87%E5%A4%A7%E4%BD%AC%E8%8A%92%E6%A0%BC%E5%8E%BB%E4%B8%96+%E4%BA%AB%E5%B9%B499%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [首届链博会来了](https://www.baidu.com/s?wd=%E9%A6%96%E5%B1%8A%E9%93%BE%E5%8D%9A%E4%BC%9A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [警方扫黄前台通风报信：444全员开跑](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%89%AB%E9%BB%84%E5%89%8D%E5%8F%B0%E9%80%9A%E9%A3%8E%E6%8A%A5%E4%BF%A1%EF%BC%9A444%E5%85%A8%E5%91%98%E5%BC%80%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子中2.6亿后次日凌晨准时上班](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD2.6%E4%BA%BF%E5%90%8E%E6%AC%A1%E6%97%A5%E5%87%8C%E6%99%A8%E5%87%86%E6%97%B6%E4%B8%8A%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [恒大物业把中国恒大告了](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E7%89%A9%E4%B8%9A%E6%8A%8A%E4%B8%AD%E5%9B%BD%E6%81%92%E5%A4%A7%E5%91%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马斯克拒与以官员合影 尴尬一笑](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8B%92%E4%B8%8E%E4%BB%A5%E5%AE%98%E5%91%98%E5%90%88%E5%BD%B1+%E5%B0%B4%E5%B0%AC%E4%B8%80%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [恒大物业把中国恒大告了](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E7%89%A9%E4%B8%9A%E6%8A%8A%E4%B8%AD%E5%9B%BD%E6%81%92%E5%A4%A7%E5%91%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [马斯克拒与以官员合影 尴尬一笑](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8B%92%E4%B8%8E%E4%BB%A5%E5%AE%98%E5%91%98%E5%90%88%E5%BD%B1+%E5%B0%B4%E5%B0%AC%E4%B8%80%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [总感冒是新冠导致的免疫缺陷吗？](https://www.baidu.com/s?wd=%E6%80%BB%E6%84%9F%E5%86%92%E6%98%AF%E6%96%B0%E5%86%A0%E5%AF%BC%E8%87%B4%E7%9A%84%E5%85%8D%E7%96%AB%E7%BC%BA%E9%99%B7%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网民被罚朋友圈检讨？网警辟谣](https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E8%A2%AB%E7%BD%9A%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%A3%80%E8%AE%A8%EF%BC%9F%E7%BD%91%E8%AD%A6%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [促进优质网络文化产品生产传播](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E4%BC%98%E8%B4%A8%E7%BD%91%E7%BB%9C%E6%96%87%E5%8C%96%E4%BA%A7%E5%93%81%E7%94%9F%E4%BA%A7%E4%BC%A0%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [海底捞员工跳擦玻璃舞 被指低俗](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%91%98%E5%B7%A5%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E+%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [男子中2.6亿后次日凌晨准时上班](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD2.6%E4%BA%BF%E5%90%8E%E6%AC%A1%E6%97%A5%E5%87%8C%E6%99%A8%E5%87%86%E6%97%B6%E4%B8%8A%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [投资界传奇大佬芒格去世 享年99岁](https://www.baidu.com/s?wd=%E6%8A%95%E8%B5%84%E7%95%8C%E4%BC%A0%E5%A5%87%E5%A4%A7%E4%BD%AC%E8%8A%92%E6%A0%BC%E5%8E%BB%E4%B8%96+%E4%BA%AB%E5%B9%B499%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [首届链博会来了](https://www.baidu.com/s?wd=%E9%A6%96%E5%B1%8A%E9%93%BE%E5%8D%9A%E4%BC%9A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [警方扫黄前台通风报信：444全员开跑](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%89%AB%E9%BB%84%E5%89%8D%E5%8F%B0%E9%80%9A%E9%A3%8E%E6%8A%A5%E4%BF%A1%EF%BC%9A444%E5%85%A8%E5%91%98%E5%BC%80%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子中2.6亿后次日凌晨准时上班](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD2.6%E4%BA%BF%E5%90%8E%E6%AC%A1%E6%97%A5%E5%87%8C%E6%99%A8%E5%87%86%E6%97%B6%E4%B8%8A%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [恒大物业把中国恒大告了](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E7%89%A9%E4%B8%9A%E6%8A%8A%E4%B8%AD%E5%9B%BD%E6%81%92%E5%A4%A7%E5%91%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马斯克拒与以官员合影 尴尬一笑](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8B%92%E4%B8%8E%E4%BB%A5%E5%AE%98%E5%91%98%E5%90%88%E5%BD%B1+%E5%B0%B4%E5%B0%AC%E4%B8%80%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [恒大物业把中国恒大告了](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E7%89%A9%E4%B8%9A%E6%8A%8A%E4%B8%AD%E5%9B%BD%E6%81%92%E5%A4%A7%E5%91%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [马斯克拒与以官员合影 尴尬一笑](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8B%92%E4%B8%8E%E4%BB%A5%E5%AE%98%E5%91%98%E5%90%88%E5%BD%B1+%E5%B0%B4%E5%B0%AC%E4%B8%80%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [总感冒是新冠导致的免疫缺陷吗？](https://www.baidu.com/s?wd=%E6%80%BB%E6%84%9F%E5%86%92%E6%98%AF%E6%96%B0%E5%86%A0%E5%AF%BC%E8%87%B4%E7%9A%84%E5%85%8D%E7%96%AB%E7%BC%BA%E9%99%B7%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网民被罚朋友圈检讨？网警辟谣](https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E8%A2%AB%E7%BD%9A%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%A3%80%E8%AE%A8%EF%BC%9F%E7%BD%91%E8%AD%A6%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
