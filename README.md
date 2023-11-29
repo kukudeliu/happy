@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 17:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 17:57:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [刘亦菲换轮胎](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%8D%A2%E8%BD%AE%E8%83%8E%23&t=31&band_rank=4&Refer=top)<br />
 5. [武汉大学](https://s.weibo.com/weibo?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6&t=31&band_rank=5&Refer=top)<br />
 6. [佘诗曼回应美甲15年来没变过](https://s.weibo.com/weibo?q=%E4%BD%98%E8%AF%97%E6%9B%BC%E5%9B%9E%E5%BA%94%E7%BE%8E%E7%94%B215%E5%B9%B4%E6%9D%A5%E6%B2%A1%E5%8F%98%E8%BF%87&t=31&band_rank=6&Refer=top)<br />
-7. [网传西藏阿里全体公务员为一女子献血](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%A5%BF%E8%97%8F%E9%98%BF%E9%87%8C%E5%85%A8%E4%BD%93%E5%85%AC%E5%8A%A1%E5%91%98%E4%B8%BA%E4%B8%80%E5%A5%B3%E5%AD%90%E7%8C%AE%E8%A1%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [神兵小将第三季](https://s.weibo.com/weibo?q=%E7%A5%9E%E5%85%B5%E5%B0%8F%E5%B0%86%E7%AC%AC%E4%B8%89%E5%AD%A3&t=31&band_rank=8&Refer=top)<br />
-9. [MAMA](https://s.weibo.com/weibo?q=MAMA&t=31&band_rank=9&Refer=top)<br />
+7. [神兵小将第三季](https://s.weibo.com/weibo?q=%E7%A5%9E%E5%85%B5%E5%B0%8F%E5%B0%86%E7%AC%AC%E4%B8%89%E5%AD%A3&t=31&band_rank=7&Refer=top)<br />
+8. [民警15秒出警35秒救人](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A615%E7%A7%92%E5%87%BA%E8%AD%A635%E7%A7%92%E6%95%91%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [网传西藏阿里全体公务员为一女子献血](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%A5%BF%E8%97%8F%E9%98%BF%E9%87%8C%E5%85%A8%E4%BD%93%E5%85%AC%E5%8A%A1%E5%91%98%E4%B8%BA%E4%B8%80%E5%A5%B3%E5%AD%90%E7%8C%AE%E8%A1%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
