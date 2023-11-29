@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 09:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 09:51:01</h4></div>
 
 > 微博  
 
-1. [芒格去世](https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%A0%BC%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [男子中2.6亿后次日凌晨准时上班](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%AD2.6%E4%BA%BF%E5%90%8E%E6%AC%A1%E6%97%A5%E5%87%8C%E6%99%A8%E5%87%86%E6%97%B6%E4%B8%8A%E7%8F%AD%23&t=31&band_rank=2&Refer=top)<br />
+1. [男子中2.6亿后次日凌晨准时上班](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%AD2.6%E4%BA%BF%E5%90%8E%E6%AC%A1%E6%97%A5%E5%87%8C%E6%99%A8%E5%87%86%E6%97%B6%E4%B8%8A%E7%8F%AD%23&t=31&band_rank=1&Refer=top)<br />
+2. [芒格去世](https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%A0%BC%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [首届链博会让中外企业共享新机遇](https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%B1%8A%E9%93%BE%E5%8D%9A%E4%BC%9A%E8%AE%A9%E4%B8%AD%E5%A4%96%E4%BC%81%E4%B8%9A%E5%85%B1%E4%BA%AB%E6%96%B0%E6%9C%BA%E9%81%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [地球收到1600万公里外传来激光数据](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E6%94%B6%E5%88%B01600%E4%B8%87%E5%85%AC%E9%87%8C%E5%A4%96%E4%BC%A0%E6%9D%A5%E6%BF%80%E5%85%89%E6%95%B0%E6%8D%AE%23&t=31&band_rank=4&Refer=top)<br />
 5. [雷军向武大捐赠13亿元](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%90%91%E6%AD%A6%E5%A4%A7%E6%8D%90%E8%B5%A013%E4%BA%BF%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
