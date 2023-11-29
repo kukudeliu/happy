@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 10:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 10:29:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [芒格去世](https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%A0%BC%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [地球收到1600万公里外传来激光数据](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E6%94%B6%E5%88%B01600%E4%B8%87%E5%85%AC%E9%87%8C%E5%A4%96%E4%BC%A0%E6%9D%A5%E6%BF%80%E5%85%89%E6%95%B0%E6%8D%AE%23&t=31&band_rank=5&Refer=top)<br />
 6. [雷军向武大捐赠13亿元](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%90%91%E6%AD%A6%E5%A4%A7%E6%8D%90%E8%B5%A013%E4%BA%BF%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [张凌赫看向白鹿的眼神](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9C%8B%E5%90%91%E7%99%BD%E9%B9%BF%E7%9A%84%E7%9C%BC%E7%A5%9E&t=31&band_rank=7&Refer=top)<br />
-8. [质疑朱丹 理解朱丹](https://s.weibo.com/weibo?q=%E8%B4%A8%E7%96%91%E6%9C%B1%E4%B8%B9%20%E7%90%86%E8%A7%A3%E6%9C%B1%E4%B8%B9&t=31&band_rank=8&Refer=top)<br />
+7. [质疑朱丹 理解朱丹](https://s.weibo.com/weibo?q=%E8%B4%A8%E7%96%91%E6%9C%B1%E4%B8%B9%20%E7%90%86%E8%A7%A3%E6%9C%B1%E4%B8%B9&t=31&band_rank=7&Refer=top)<br />
+8. [张凌赫看向白鹿的眼神](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9C%8B%E5%90%91%E7%99%BD%E9%B9%BF%E7%9A%84%E7%9C%BC%E7%A5%9E&t=31&band_rank=8&Refer=top)<br />
 9. [网友举报转转二手手机出具阴阳检测报告](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B8%BE%E6%8A%A5%E8%BD%AC%E8%BD%AC%E4%BA%8C%E6%89%8B%E6%89%8B%E6%9C%BA%E5%87%BA%E5%85%B7%E9%98%B4%E9%98%B3%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
