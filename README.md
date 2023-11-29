@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 15:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 15:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [海南航空HU7175紧急备降广州](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BAHU7175%E7%B4%A7%E6%80%A5%E5%A4%87%E9%99%8D%E5%B9%BF%E5%B7%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [张踩铃 我家外国人真的不懂忌讳](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%B8%A9%E9%93%83%20%E6%88%91%E5%AE%B6%E5%A4%96%E5%9B%BD%E4%BA%BA%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%87%82%E5%BF%8C%E8%AE%B3&t=31&band_rank=7&Refer=top)<br />
 8. [吴昕花瓶腰](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E8%8A%B1%E7%93%B6%E8%85%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [EXO校园风台历](https://s.weibo.com/weibo?q=%23EXO%E6%A0%A1%E5%9B%AD%E9%A3%8E%E5%8F%B0%E5%8E%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [迪丽热巴填补了秦海璐的遗憾](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A1%AB%E8%A1%A5%E4%BA%86%E7%A7%A6%E6%B5%B7%E7%92%90%E7%9A%84%E9%81%97%E6%86%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
