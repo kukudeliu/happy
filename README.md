@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 08:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 08:48:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [海底捞服务员跳擦玻璃舞被指低俗](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E6%9C%8D%E5%8A%A1%E5%91%98%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23&t=31&band_rank=2&Refer=top)<br />
 3. [首届链博会让中外企业共享新机遇](https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%B1%8A%E9%93%BE%E5%8D%9A%E4%BC%9A%E8%AE%A9%E4%B8%AD%E5%A4%96%E4%BC%81%E4%B8%9A%E5%85%B1%E4%BA%AB%E6%96%B0%E6%9C%BA%E9%81%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [质疑朱丹 理解朱丹](https://s.weibo.com/weibo?q=%E8%B4%A8%E7%96%91%E6%9C%B1%E4%B8%B9%20%E7%90%86%E8%A7%A3%E6%9C%B1%E4%B8%B9&t=31&band_rank=4&Refer=top)<br />
-5. [很笨但能考上公务员的暗黑偏方](https://s.weibo.com/weibo?q=%E5%BE%88%E7%AC%A8%E4%BD%86%E8%83%BD%E8%80%83%E4%B8%8A%E5%85%AC%E5%8A%A1%E5%91%98%E7%9A%84%E6%9A%97%E9%BB%91%E5%81%8F%E6%96%B9&t=31&band_rank=5&Refer=top)<br />
-6. [张凌赫看向白鹿的眼神](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9C%8B%E5%90%91%E7%99%BD%E9%B9%BF%E7%9A%84%E7%9C%BC%E7%A5%9E&t=31&band_rank=6&Refer=top)<br />
+5. [张凌赫看向白鹿的眼神](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9C%8B%E5%90%91%E7%99%BD%E9%B9%BF%E7%9A%84%E7%9C%BC%E7%A5%9E&t=31&band_rank=5&Refer=top)<br />
+6. [很笨但能考上公务员的暗黑偏方](https://s.weibo.com/weibo?q=%E5%BE%88%E7%AC%A8%E4%BD%86%E8%83%BD%E8%80%83%E4%B8%8A%E5%85%AC%E5%8A%A1%E5%91%98%E7%9A%84%E6%9A%97%E9%BB%91%E5%81%8F%E6%96%B9&t=31&band_rank=6&Refer=top)<br />
 7. [博主B太曝光的鬼秤商家被罚款20万](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BBB%E5%A4%AA%E6%9B%9D%E5%85%89%E7%9A%84%E9%AC%BC%E7%A7%A4%E5%95%86%E5%AE%B6%E8%A2%AB%E7%BD%9A%E6%AC%BE20%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [为啥有人一穿高领衣服就难受](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E6%9C%89%E4%BA%BA%E4%B8%80%E7%A9%BF%E9%AB%98%E9%A2%86%E8%A1%A3%E6%9C%8D%E5%B0%B1%E9%9A%BE%E5%8F%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [审判一念关山](https://s.weibo.com/weibo?q=%23%E5%AE%A1%E5%88%A4%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%23&t=31&band_rank=9&Refer=top)<br />
+9. [傅首尔老刘 允许离开的发生](https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%E8%80%81%E5%88%98%20%E5%85%81%E8%AE%B8%E7%A6%BB%E5%BC%80%E7%9A%84%E5%8F%91%E7%94%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
