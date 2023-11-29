@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 21:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 21:42:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [利智](https://s.weibo.com/weibo?q=%E5%88%A9%E6%99%BA&t=31&band_rank=5&Refer=top)<br />
 6. [工作室回应张杰偷跑物料](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%E5%BC%A0%E6%9D%B0%E5%81%B7%E8%B7%91%E7%89%A9%E6%96%99%23&t=31&band_rank=6&Refer=top)<br />
 7. [k70价格](https://s.weibo.com/weibo?q=%23k70%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘诗诗 谁是你表妹](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E8%B0%81%E6%98%AF%E4%BD%A0%E8%A1%A8%E5%A6%B9&t=31&band_rank=8&Refer=top)<br />
+8. [文俊辉直播](https://s.weibo.com/weibo?q=%E6%96%87%E4%BF%8A%E8%BE%89%E7%9B%B4%E6%92%AD&t=31&band_rank=8&Refer=top)<br />
 9. [海底捞部分门店不让跳科目三了](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E9%83%A8%E5%88%86%E9%97%A8%E5%BA%97%E4%B8%8D%E8%AE%A9%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
