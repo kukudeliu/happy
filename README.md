@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 10:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 10:10:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [警方扫黄前台通风报信：444全员开跑](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%89%AB%E9%BB%84%E5%89%8D%E5%8F%B0%E9%80%9A%E9%A3%8E%E6%8A%A5%E4%BF%A1%EF%BC%9A444%E5%85%A8%E5%91%98%E5%BC%80%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [京东市值一年蒸发700亿](https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%B9%B4%E8%92%B8%E5%8F%91700%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [投资界传奇大佬芒格去世 享年99岁](https://www.baidu.com/s?wd=%E6%8A%95%E8%B5%84%E7%95%8C%E4%BC%A0%E5%A5%87%E5%A4%A7%E4%BD%AC%E8%8A%92%E6%A0%BC%E5%8E%BB%E4%B8%96+%E4%BA%AB%E5%B9%B499%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [总感冒是新冠导致的免疫缺陷吗？](https://www.baidu.com/s?wd=%E6%80%BB%E6%84%9F%E5%86%92%E6%98%AF%E6%96%B0%E5%86%A0%E5%AF%BC%E8%87%B4%E7%9A%84%E5%85%8D%E7%96%AB%E7%BC%BA%E9%99%B7%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：从阿里云到滴滴的崩溃一夜](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%BB%8E%E9%98%BF%E9%87%8C%E4%BA%91%E5%88%B0%E6%BB%B4%E6%BB%B4%E7%9A%84%E5%B4%A9%E6%BA%83%E4%B8%80%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网民被罚朋友圈检讨？网警辟谣](https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E8%A2%AB%E7%BD%9A%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%A3%80%E8%AE%A8%EF%BC%9F%E7%BD%91%E8%AD%A6%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [警方扫黄前台通风报信：444全员开跑](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%89%AB%E9%BB%84%E5%89%8D%E5%8F%B0%E9%80%9A%E9%A3%8E%E6%8A%A5%E4%BF%A1%EF%BC%9A444%E5%85%A8%E5%91%98%E5%BC%80%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [京东市值一年蒸发700亿](https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%B9%B4%E8%92%B8%E5%8F%91700%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [投资界传奇大佬芒格去世 享年99岁](https://www.baidu.com/s?wd=%E6%8A%95%E8%B5%84%E7%95%8C%E4%BC%A0%E5%A5%87%E5%A4%A7%E4%BD%AC%E8%8A%92%E6%A0%BC%E5%8E%BB%E4%B8%96+%E4%BA%AB%E5%B9%B499%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [总感冒是新冠导致的免疫缺陷吗？](https://www.baidu.com/s?wd=%E6%80%BB%E6%84%9F%E5%86%92%E6%98%AF%E6%96%B0%E5%86%A0%E5%AF%BC%E8%87%B4%E7%9A%84%E5%85%8D%E7%96%AB%E7%BC%BA%E9%99%B7%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：从阿里云到滴滴的崩溃一夜](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%BB%8E%E9%98%BF%E9%87%8C%E4%BA%91%E5%88%B0%E6%BB%B4%E6%BB%B4%E7%9A%84%E5%B4%A9%E6%BA%83%E4%B8%80%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [网民被罚朋友圈检讨？网警辟谣](https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E8%A2%AB%E7%BD%9A%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%A3%80%E8%AE%A8%EF%BC%9F%E7%BD%91%E8%AD%A6%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
