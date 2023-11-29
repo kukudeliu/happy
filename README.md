@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 21:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 21:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [工作室回应张杰偷跑物料](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%E5%BC%A0%E6%9D%B0%E5%81%B7%E8%B7%91%E7%89%A9%E6%96%99%23&t=31&band_rank=6&Refer=top)<br />
 7. [文俊辉直播](https://s.weibo.com/weibo?q=%E6%96%87%E4%BF%8A%E8%BE%89%E7%9B%B4%E6%92%AD&t=31&band_rank=7&Refer=top)<br />
 8. [k70价格](https://s.weibo.com/weibo?q=%23k70%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [海底捞部分门店不让跳科目三了](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E9%83%A8%E5%88%86%E9%97%A8%E5%BA%97%E4%B8%8D%E8%AE%A9%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [住在瓜田里的肛肠科医生](https://s.weibo.com/weibo?q=%E4%BD%8F%E5%9C%A8%E7%93%9C%E7%94%B0%E9%87%8C%E7%9A%84%E8%82%9B%E8%82%A0%E7%A7%91%E5%8C%BB%E7%94%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
