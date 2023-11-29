@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 13:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 13:11:01</h4></div>
 
 > 微博  
 
@@ -20,7 +20,7 @@
 1. [促进优质网络文化产品生产传播](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E4%BC%98%E8%B4%A8%E7%BD%91%E7%BB%9C%E6%96%87%E5%8C%96%E4%BA%A7%E5%93%81%E7%94%9F%E4%BA%A7%E4%BC%A0%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [雷军给武大捐13亿：不主张攀比](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E7%BB%99%E6%AD%A6%E5%A4%A7%E6%8D%9013%E4%BA%BF%EF%BC%9A%E4%B8%8D%E4%B8%BB%E5%BC%A0%E6%94%80%E6%AF%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [司机载乘客冰面漂移 双双坠入江底](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%BD%BD%E4%B9%98%E5%AE%A2%E5%86%B0%E9%9D%A2%E6%BC%82%E7%A7%BB+%E5%8F%8C%E5%8F%8C%E5%9D%A0%E5%85%A5%E6%B1%9F%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [首届链博会来了](https://www.baidu.com/s?wd=%E9%A6%96%E5%B1%8A%E9%93%BE%E5%8D%9A%E4%BC%9A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [从丽江到香格里拉，不再遥远](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%BD%E6%B1%9F%E5%88%B0%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%EF%BC%8C%E4%B8%8D%E5%86%8D%E9%81%A5%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马云谈拼多多市值逼近阿里：祝贺](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E8%B0%88%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%B8%82%E5%80%BC%E9%80%BC%E8%BF%91%E9%98%BF%E9%87%8C%EF%BC%9A%E7%A5%9D%E8%B4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子中2.6亿后次日凌晨准时上班](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD2.6%E4%BA%BF%E5%90%8E%E6%AC%A1%E6%97%A5%E5%87%8C%E6%99%A8%E5%87%86%E6%97%B6%E4%B8%8A%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [陕西高校男生捅伤一男一女](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E6%8D%85%E4%BC%A4%E4%B8%80%E7%94%B7%E4%B8%80%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -32,7 +32,7 @@
 1. [促进优质网络文化产品生产传播](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E4%BC%98%E8%B4%A8%E7%BD%91%E7%BB%9C%E6%96%87%E5%8C%96%E4%BA%A7%E5%93%81%E7%94%9F%E4%BA%A7%E4%BC%A0%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [雷军给武大捐13亿：不主张攀比](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E7%BB%99%E6%AD%A6%E5%A4%A7%E6%8D%9013%E4%BA%BF%EF%BC%9A%E4%B8%8D%E4%B8%BB%E5%BC%A0%E6%94%80%E6%AF%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [司机载乘客冰面漂移 双双坠入江底](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%BD%BD%E4%B9%98%E5%AE%A2%E5%86%B0%E9%9D%A2%E6%BC%82%E7%A7%BB+%E5%8F%8C%E5%8F%8C%E5%9D%A0%E5%85%A5%E6%B1%9F%E5%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [首届链博会来了](https://www.baidu.com/s?wd=%E9%A6%96%E5%B1%8A%E9%93%BE%E5%8D%9A%E4%BC%9A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [从丽江到香格里拉，不再遥远](https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%BD%E6%B1%9F%E5%88%B0%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%EF%BC%8C%E4%B8%8D%E5%86%8D%E9%81%A5%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [马云谈拼多多市值逼近阿里：祝贺](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E8%B0%88%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%B8%82%E5%80%BC%E9%80%BC%E8%BF%91%E9%98%BF%E9%87%8C%EF%BC%9A%E7%A5%9D%E8%B4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子中2.6亿后次日凌晨准时上班](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD2.6%E4%BA%BF%E5%90%8E%E6%AC%A1%E6%97%A5%E5%87%8C%E6%99%A8%E5%87%86%E6%97%B6%E4%B8%8A%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [陕西高校男生捅伤一男一女](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E6%8D%85%E4%BC%A4%E4%B8%80%E7%94%B7%E4%B8%80%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
