@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 13:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 13:08:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [烈士不满16岁遗骸骨骺线都没愈合](https://s.weibo.com/weibo?q=%E7%83%88%E5%A3%AB%E4%B8%8D%E6%BB%A116%E5%B2%81%E9%81%97%E9%AA%B8%E9%AA%A8%E9%AA%BA%E7%BA%BF%E9%83%BD%E6%B2%A1%E6%84%88%E5%90%88&t=31&band_rank=5&Refer=top)<br />
 6. [王睡睡百科 前夫哥张硕](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9D%A1%E7%9D%A1%E7%99%BE%E7%A7%91%20%E5%89%8D%E5%A4%AB%E5%93%A5%E5%BC%A0%E7%A1%95&t=31&band_rank=6&Refer=top)<br />
 7. [一艘疑似中国籍货轮在韩国西南部海上沉没](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%89%98%E7%96%91%E4%BC%BC%E4%B8%AD%E5%9B%BD%E7%B1%8D%E8%B4%A7%E8%BD%AE%E5%9C%A8%E9%9F%A9%E5%9B%BD%E8%A5%BF%E5%8D%97%E9%83%A8%E6%B5%B7%E4%B8%8A%E6%B2%89%E6%B2%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [中国工人风中穿针般造了一个超级工程](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%BA%BA%E9%A3%8E%E4%B8%AD%E7%A9%BF%E9%92%88%E8%88%AC%E9%80%A0%E4%BA%86%E4%B8%80%E4%B8%AA%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [芒格去世](https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%A0%BC%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+8. [芒格去世](https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%A0%BC%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [谭杰希自曝曾患抑郁症](https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%B0%E5%B8%8C%E8%87%AA%E6%9B%9D%E6%9B%BE%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
