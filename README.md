@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 18:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 18:33:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [李连杰自曝看淡死亡](https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E8%87%AA%E6%9B%9D%E7%9C%8B%E6%B7%A1%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体评深圳民警踩踏嫌疑人事件](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E6%B7%B1%E5%9C%B3%E6%B0%91%E8%AD%A6%E8%B8%A9%E8%B8%8F%E5%AB%8C%E7%96%91%E4%BA%BA%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [东北小吃“烤冰溜子”在长沙火了](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E5%B0%8F%E5%90%83%E2%80%9C%E7%83%A4%E5%86%B0%E6%BA%9C%E5%AD%90%E2%80%9D%E5%9C%A8%E9%95%BF%E6%B2%99%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆辟谣预制板房将全部拆迁](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E9%A2%84%E5%88%B6%E6%9D%BF%E6%88%BF%E5%B0%86%E5%85%A8%E9%83%A8%E6%8B%86%E8%BF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [支原体肺炎是新冠变异？](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [李连杰自曝看淡死亡](https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E8%87%AA%E6%9B%9D%E7%9C%8B%E6%B7%A1%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体评深圳民警踩踏嫌疑人事件](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E6%B7%B1%E5%9C%B3%E6%B0%91%E8%AD%A6%E8%B8%A9%E8%B8%8F%E5%AB%8C%E7%96%91%E4%BA%BA%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [东北小吃“烤冰溜子”在长沙火了](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E5%B0%8F%E5%90%83%E2%80%9C%E7%83%A4%E5%86%B0%E6%BA%9C%E5%AD%90%E2%80%9D%E5%9C%A8%E9%95%BF%E6%B2%99%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆辟谣预制板房将全部拆迁](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E9%A2%84%E5%88%B6%E6%9D%BF%E6%88%BF%E5%B0%86%E5%85%A8%E9%83%A8%E6%8B%86%E8%BF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [支原体肺炎是新冠变异？](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
