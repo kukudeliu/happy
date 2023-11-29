@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 18:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 19:00:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [链博会里有什么](https://s.weibo.com/weibo?q=%23%E9%93%BE%E5%8D%9A%E4%BC%9A%E9%87%8C%E6%9C%89%E4%BB%80%E4%B9%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [李连杰采访 死后不立碑不办丧事](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E9%87%87%E8%AE%BF%20%E6%AD%BB%E5%90%8E%E4%B8%8D%E7%AB%8B%E7%A2%91%E4%B8%8D%E5%8A%9E%E4%B8%A7%E4%BA%8B&t=31&band_rank=4&Refer=top)<br />
 5. [武汉大学](https://s.weibo.com/weibo?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6&t=31&band_rank=5&Refer=top)<br />
-6. [神兵小将第三季](https://s.weibo.com/weibo?q=%E7%A5%9E%E5%85%B5%E5%B0%8F%E5%B0%86%E7%AC%AC%E4%B8%89%E5%AD%A3&t=31&band_rank=6&Refer=top)<br />
+6. [gidle 黑天鹅](https://s.weibo.com/weibo?q=gidle%20%E9%BB%91%E5%A4%A9%E9%B9%85&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴 恶女戏](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%81%B6%E5%A5%B3%E6%88%8F&t=31&band_rank=7&Refer=top)<br />
-8. [滴滴致歉补偿券领不了](https://s.weibo.com/weibo?q=%23%E6%BB%B4%E6%BB%B4%E8%87%B4%E6%AD%89%E8%A1%A5%E5%81%BF%E5%88%B8%E9%A2%86%E4%B8%8D%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [会韩语的朋友请留步](https://s.weibo.com/weibo?q=%E4%BC%9A%E9%9F%A9%E8%AF%AD%E7%9A%84%E6%9C%8B%E5%8F%8B%E8%AF%B7%E7%95%99%E6%AD%A5&t=31&band_rank=9&Refer=top)<br />
+8. [神兵小将第三季](https://s.weibo.com/weibo?q=%E7%A5%9E%E5%85%B5%E5%B0%8F%E5%B0%86%E7%AC%AC%E4%B8%89%E5%AD%A3&t=31&band_rank=8&Refer=top)<br />
+9. [滴滴致歉补偿券领不了](https://s.weibo.com/weibo?q=%23%E6%BB%B4%E6%BB%B4%E8%87%B4%E6%AD%89%E8%A1%A5%E5%81%BF%E5%88%B8%E9%A2%86%E4%B8%8D%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
