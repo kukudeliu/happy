@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 22:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 22:15:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [papi酱 新型骗局](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E6%96%B0%E5%9E%8B%E9%AA%97%E5%B1%80&t=31&band_rank=5&Refer=top)<br />
 6. [一念关山破万全员跳女团舞](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E7%A0%B4%E4%B8%87%E5%85%A8%E5%91%98%E8%B7%B3%E5%A5%B3%E5%9B%A2%E8%88%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [利智](https://s.weibo.com/weibo?q=%E5%88%A9%E6%99%BA&t=31&band_rank=7&Refer=top)<br />
-8. [文俊辉直播](https://s.weibo.com/weibo?q=%E6%96%87%E4%BF%8A%E8%BE%89%E7%9B%B4%E6%92%AD&t=31&band_rank=8&Refer=top)<br />
+8. [钱可以慢慢攒但命没有第二次](https://s.weibo.com/weibo?q=%23%E9%92%B1%E5%8F%AF%E4%BB%A5%E6%85%A2%E6%85%A2%E6%94%92%E4%BD%86%E5%91%BD%E6%B2%A1%E6%9C%89%E7%AC%AC%E4%BA%8C%E6%AC%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [女子排队礼让孕妇后被其他人礼让](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8E%92%E9%98%9F%E7%A4%BC%E8%AE%A9%E5%AD%95%E5%A6%87%E5%90%8E%E8%A2%AB%E5%85%B6%E4%BB%96%E4%BA%BA%E7%A4%BC%E8%AE%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [华为校招高颜值HR火爆出圈](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%A0%A1%E6%8B%9B%E9%AB%98%E9%A2%9C%E5%80%BCHR%E7%81%AB%E7%88%86%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子患肾病吃半个月桔子查出尿毒症](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%82%A3%E8%82%BE%E7%97%85%E5%90%83%E5%8D%8A%E4%B8%AA%E6%9C%88%E6%A1%94%E5%AD%90%E6%9F%A5%E5%87%BA%E5%B0%BF%E6%AF%92%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东北小吃“烤冰溜子”在长沙火了](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E5%B0%8F%E5%90%83%E2%80%9C%E7%83%A4%E5%86%B0%E6%BA%9C%E5%AD%90%E2%80%9D%E5%9C%A8%E9%95%BF%E6%B2%99%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [汤唯接女儿放学](https://www.baidu.com/s?wd=%E6%B1%A4%E5%94%AF%E6%8E%A5%E5%A5%B3%E5%84%BF%E6%94%BE%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度罕见“拒收”俄罗斯原油](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%BD%95%E8%A7%81%E2%80%9C%E6%8B%92%E6%94%B6%E2%80%9D%E4%BF%84%E7%BD%97%E6%96%AF%E5%8E%9F%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [支原体肺炎是新冠变异？](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [华为校招高颜值HR火爆出圈](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%A0%A1%E6%8B%9B%E9%AB%98%E9%A2%9C%E5%80%BCHR%E7%81%AB%E7%88%86%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子患肾病吃半个月桔子查出尿毒症](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%82%A3%E8%82%BE%E7%97%85%E5%90%83%E5%8D%8A%E4%B8%AA%E6%9C%88%E6%A1%94%E5%AD%90%E6%9F%A5%E5%87%BA%E5%B0%BF%E6%AF%92%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东北小吃“烤冰溜子”在长沙火了](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E5%B0%8F%E5%90%83%E2%80%9C%E7%83%A4%E5%86%B0%E6%BA%9C%E5%AD%90%E2%80%9D%E5%9C%A8%E9%95%BF%E6%B2%99%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [汤唯接女儿放学](https://www.baidu.com/s?wd=%E6%B1%A4%E5%94%AF%E6%8E%A5%E5%A5%B3%E5%84%BF%E6%94%BE%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度罕见“拒收”俄罗斯原油](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%BD%95%E8%A7%81%E2%80%9C%E6%8B%92%E6%94%B6%E2%80%9D%E4%BF%84%E7%BD%97%E6%96%AF%E5%8E%9F%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [支原体肺炎是新冠变异？](https://www.baidu.com/s?wd=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
