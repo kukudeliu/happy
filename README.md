@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 14:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-29 14:43:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [4岁男童被父亲扯后衣领提起窒息身亡](https://s.weibo.com/weibo?q=%234%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%88%B6%E4%BA%B2%E6%89%AF%E5%90%8E%E8%A1%A3%E9%A2%86%E6%8F%90%E8%B5%B7%E7%AA%92%E6%81%AF%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [吴昕花瓶腰](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E8%8A%B1%E7%93%B6%E8%85%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [北京一房东将两居室改成七居室出租](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E6%88%BF%E4%B8%9C%E5%B0%86%E4%B8%A4%E5%B1%85%E5%AE%A4%E6%94%B9%E6%88%90%E4%B8%83%E5%B1%85%E5%AE%A4%E5%87%BA%E7%A7%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [女儿高烧40度两天妈妈取号取到1600号](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E9%AB%98%E7%83%A740%E5%BA%A6%E4%B8%A4%E5%A4%A9%E5%A6%88%E5%A6%88%E5%8F%96%E5%8F%B7%E5%8F%96%E5%88%B01600%E5%8F%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [王睡睡张硕 没领证](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9D%A1%E7%9D%A1%E5%BC%A0%E7%A1%95%20%E6%B2%A1%E9%A2%86%E8%AF%81&t=31&band_rank=8&Refer=top)<br />
+7. [王睡睡张硕 没领证](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9D%A1%E7%9D%A1%E5%BC%A0%E7%A1%95%20%E6%B2%A1%E9%A2%86%E8%AF%81&t=31&band_rank=7&Refer=top)<br />
+8. [女儿高烧40度两天妈妈取号取到1600号](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E9%AB%98%E7%83%A740%E5%BA%A6%E4%B8%A4%E5%A4%A9%E5%A6%88%E5%A6%88%E5%8F%96%E5%8F%B7%E5%8F%96%E5%88%B01600%E5%8F%B7%23&t=31&band_rank=8&Refer=top)<br />
 9. [第一名奖励边睡觉边上课](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E5%90%8D%E5%A5%96%E5%8A%B1%E8%BE%B9%E7%9D%A1%E8%A7%89%E8%BE%B9%E4%B8%8A%E8%AF%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
