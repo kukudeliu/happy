@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 18:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 18:09:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [拜登和工人拿核手提箱开玩笑](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%92%8C%E5%B7%A5%E4%BA%BA%E6%8B%BF%E6%A0%B8%E6%89%8B%E6%8F%90%E7%AE%B1%E5%BC%80%E7%8E%A9%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一县城临聘人员工资已超全县总税收](https://www.baidu.com/s?wd=%E4%B8%80%E5%8E%BF%E5%9F%8E%E4%B8%B4%E8%81%98%E4%BA%BA%E5%91%98%E5%B7%A5%E8%B5%84%E5%B7%B2%E8%B6%85%E5%85%A8%E5%8E%BF%E6%80%BB%E7%A8%8E%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [警方回应奔驰车主车内离世](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%94%E9%A9%B0%E8%BD%A6%E4%B8%BB%E8%BD%A6%E5%86%85%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [海底捞跳科目三顾客嫌吵起冲突报警](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E9%A1%BE%E5%AE%A2%E5%AB%8C%E5%90%B5%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [南非美人鱼表演时尾部被卡住](https://www.baidu.com/s?wd=%E5%8D%97%E9%9D%9E%E7%BE%8E%E4%BA%BA%E9%B1%BC%E8%A1%A8%E6%BC%94%E6%97%B6%E5%B0%BE%E9%83%A8%E8%A2%AB%E5%8D%A1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣预制板房将全部拆迁](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E9%A2%84%E5%88%B6%E6%9D%BF%E6%88%BF%E5%B0%86%E5%85%A8%E9%83%A8%E6%8B%86%E8%BF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [拜登和工人拿核手提箱开玩笑](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%92%8C%E5%B7%A5%E4%BA%BA%E6%8B%BF%E6%A0%B8%E6%89%8B%E6%8F%90%E7%AE%B1%E5%BC%80%E7%8E%A9%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一县城临聘人员工资已超全县总税收](https://www.baidu.com/s?wd=%E4%B8%80%E5%8E%BF%E5%9F%8E%E4%B8%B4%E8%81%98%E4%BA%BA%E5%91%98%E5%B7%A5%E8%B5%84%E5%B7%B2%E8%B6%85%E5%85%A8%E5%8E%BF%E6%80%BB%E7%A8%8E%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [警方回应奔驰车主车内离世](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%94%E9%A9%B0%E8%BD%A6%E4%B8%BB%E8%BD%A6%E5%86%85%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [海底捞跳科目三顾客嫌吵起冲突报警](https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E9%A1%BE%E5%AE%A2%E5%AB%8C%E5%90%B5%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [南非美人鱼表演时尾部被卡住](https://www.baidu.com/s?wd=%E5%8D%97%E9%9D%9E%E7%BE%8E%E4%BA%BA%E9%B1%BC%E8%A1%A8%E6%BC%94%E6%97%B6%E5%B0%BE%E9%83%A8%E8%A2%AB%E5%8D%A1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣预制板房将全部拆迁](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E9%A2%84%E5%88%B6%E6%9D%BF%E6%88%BF%E5%B0%86%E5%85%A8%E9%83%A8%E6%8B%86%E8%BF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
