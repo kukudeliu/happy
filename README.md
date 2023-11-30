@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 15:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 15:12:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [菲律宾警方确认被绑6名中国人4人被撕票](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%AD%A6%E6%96%B9%E7%A1%AE%E8%AE%A4%E8%A2%AB%E7%BB%916%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA4%E4%BA%BA%E8%A2%AB%E6%92%95%E7%A5%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [如果霍建华饰演一念关山](https://s.weibo.com/weibo?q=%E5%A6%82%E6%9E%9C%E9%9C%8D%E5%BB%BA%E5%8D%8E%E9%A5%B0%E6%BC%94%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1&t=31&band_rank=5&Refer=top)<br />
 6. [LV香港大秀明星阵容](https://s.weibo.com/weibo?q=%23LV%E9%A6%99%E6%B8%AF%E5%A4%A7%E7%A7%80%E6%98%8E%E6%98%9F%E9%98%B5%E5%AE%B9%23&t=31&band_rank=6&Refer=top)<br />
-7. [无法代入新闻女王的理由](https://s.weibo.com/weibo?q=%E6%97%A0%E6%B3%95%E4%BB%A3%E5%85%A5%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E7%9A%84%E7%90%86%E7%94%B1&t=31&band_rank=7&Refer=top)<br />
-8. [空腹16小时启动自噬功能](https://s.weibo.com/weibo?q=%E7%A9%BA%E8%85%B916%E5%B0%8F%E6%97%B6%E5%90%AF%E5%8A%A8%E8%87%AA%E5%99%AC%E5%8A%9F%E8%83%BD&t=31&band_rank=8&Refer=top)<br />
-9. [酱园弄女二 杨幂](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%E5%A5%B3%E4%BA%8C%20%E6%9D%A8%E5%B9%82&t=31&band_rank=9&Refer=top)<br />
+7. [MAMA歧视女团惹争议](https://s.weibo.com/weibo?q=%23MAMA%E6%AD%A7%E8%A7%86%E5%A5%B3%E5%9B%A2%E6%83%B9%E4%BA%89%E8%AE%AE%23&t=31&band_rank=7&Refer=top)<br />
+8. [无法代入新闻女王的理由](https://s.weibo.com/weibo?q=%E6%97%A0%E6%B3%95%E4%BB%A3%E5%85%A5%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E7%9A%84%E7%90%86%E7%94%B1&t=31&band_rank=8&Refer=top)<br />
+9. [空腹16小时启动自噬功能](https://s.weibo.com/weibo?q=%E7%A9%BA%E8%85%B916%E5%B0%8F%E6%97%B6%E5%90%AF%E5%8A%A8%E8%87%AA%E5%99%AC%E5%8A%9F%E8%83%BD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
