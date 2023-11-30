@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 12:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 12:38:02</h4></div>
 
 > 微博  
 
-1. [基辛格逝世](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%9B%E6%A0%BC%E9%80%9D%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [空腹16小时启动自噬功能](https://s.weibo.com/weibo?q=%E7%A9%BA%E8%85%B916%E5%B0%8F%E6%97%B6%E5%90%AF%E5%8A%A8%E8%87%AA%E5%99%AC%E5%8A%9F%E8%83%BD&t=31&band_rank=2&Refer=top)<br />
+1. [空腹16小时启动自噬功能](https://s.weibo.com/weibo?q=%E7%A9%BA%E8%85%B916%E5%B0%8F%E6%97%B6%E5%90%AF%E5%8A%A8%E8%87%AA%E5%99%AC%E5%8A%9F%E8%83%BD&t=31&band_rank=1&Refer=top)<br />
+2. [基辛格逝世](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%9B%E6%A0%BC%E9%80%9D%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [举办链博会展现了担当彰显了能力](https://s.weibo.com/weibo?q=%23%E4%B8%BE%E5%8A%9E%E9%93%BE%E5%8D%9A%E4%BC%9A%E5%B1%95%E7%8E%B0%E4%BA%86%E6%8B%85%E5%BD%93%E5%BD%B0%E6%98%BE%E4%BA%86%E8%83%BD%E5%8A%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [15岁女生被同学奸杀案二审维持原判](https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E5%A5%B8%E6%9D%80%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E5%8E%9F%E5%88%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [酱园弄女二 杨幂](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%E5%A5%B3%E4%BA%8C%20%E6%9D%A8%E5%B9%82&t=31&band_rank=5&Refer=top)<br />
