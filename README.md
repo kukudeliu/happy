@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 22:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 22:10:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [LV大秀](https://s.weibo.com/weibo?q=LV%E5%A4%A7%E7%A7%80&t=31&band_rank=5&Refer=top)<br />
 6. [一念关山 替身马赛克](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E6%9B%BF%E8%BA%AB%E9%A9%AC%E8%B5%9B%E5%85%8B&t=31&band_rank=6&Refer=top)<br />
 7. [朱一龙 穿裙子](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%20%E7%A9%BF%E8%A3%99%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
-8. [王鹤棣 踹开说唱大门](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E8%B8%B9%E5%BC%80%E8%AF%B4%E5%94%B1%E5%A4%A7%E9%97%A8&t=31&band_rank=8&Refer=top)<br />
-9. [LV不管饭吗](https://s.weibo.com/weibo?q=%23LV%E4%B8%8D%E7%AE%A1%E9%A5%AD%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [LV不管饭吗](https://s.weibo.com/weibo?q=%23LV%E4%B8%8D%E7%AE%A1%E9%A5%AD%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [王鹤棣 踹开说唱大门](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E8%B8%B9%E5%BC%80%E8%AF%B4%E5%94%B1%E5%A4%A7%E9%97%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
