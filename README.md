@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 15:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 15:48:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [海底捞跳科目三有顾客嫌吵起冲突报警](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E6%9C%89%E9%A1%BE%E5%AE%A2%E5%AB%8C%E5%90%B5%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [12月这些新规施行](https://s.weibo.com/weibo?q=%2312%E6%9C%88%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E6%96%BD%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [李菲儿说这辈子不喝咖啡了](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%8F%B2%E5%84%BF%E8%AF%B4%E8%BF%99%E8%BE%88%E5%AD%90%E4%B8%8D%E5%96%9D%E5%92%96%E5%95%A1%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
-5. [LV香港大秀明星阵容](https://s.weibo.com/weibo?q=%23LV%E9%A6%99%E6%B8%AF%E5%A4%A7%E7%A7%80%E6%98%8E%E6%98%9F%E9%98%B5%E5%AE%B9%23&t=31&band_rank=5&Refer=top)<br />
+5. [皮肤黄 糖化](https://s.weibo.com/weibo?q=%E7%9A%AE%E8%82%A4%E9%BB%84%20%E7%B3%96%E5%8C%96&t=31&band_rank=5&Refer=top)<br />
 6. [狐厂 张凌赫归来仍是待爆](https://s.weibo.com/weibo?q=%E7%8B%90%E5%8E%82%20%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%BD%92%E6%9D%A5%E4%BB%8D%E6%98%AF%E5%BE%85%E7%88%86&t=31&band_rank=6&Refer=top)<br />
-7. [皮肤黄 糖化](https://s.weibo.com/weibo?q=%E7%9A%AE%E8%82%A4%E9%BB%84%20%E7%B3%96%E5%8C%96&t=31&band_rank=7&Refer=top)<br />
+7. [LV香港大秀明星阵容](https://s.weibo.com/weibo?q=%23LV%E9%A6%99%E6%B8%AF%E5%A4%A7%E7%A7%80%E6%98%8E%E6%98%9F%E9%98%B5%E5%AE%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [MAMA歧视女团惹争议](https://s.weibo.com/weibo?q=%23MAMA%E6%AD%A7%E8%A7%86%E5%A5%B3%E5%9B%A2%E6%83%B9%E4%BA%89%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
 9. [如果霍建华饰演一念关山](https://s.weibo.com/weibo?q=%E5%A6%82%E6%9E%9C%E9%9C%8D%E5%BB%BA%E5%8D%8E%E9%A5%B0%E6%BC%94%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1&t=31&band_rank=9&Refer=top)<br />
 
