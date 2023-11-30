@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 00:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 00:31:01</h4></div>
 
 > 微博  
 
-1. [上海独生女继承2亿遗产后被离婚](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%8B%AC%E7%94%9F%E5%A5%B3%E7%BB%A7%E6%89%BF2%E4%BA%BF%E9%81%97%E4%BA%A7%E5%90%8E%E8%A2%AB%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=1&Refer=top)<br />
-2. [因郑州暴雨被降级的市长重回正厅级](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8%E8%A2%AB%E9%99%8D%E7%BA%A7%E7%9A%84%E5%B8%82%E9%95%BF%E9%87%8D%E5%9B%9E%E6%AD%A3%E5%8E%85%E7%BA%A7%23&t=31&band_rank=2&Refer=top)<br />
+1. [因郑州暴雨被降级的市长重回正厅级](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8%E8%A2%AB%E9%99%8D%E7%BA%A7%E7%9A%84%E5%B8%82%E9%95%BF%E9%87%8D%E5%9B%9E%E6%AD%A3%E5%8E%85%E7%BA%A7%23&t=31&band_rank=1&Refer=top)<br />
+2. [上海独生女继承2亿遗产后被离婚](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%8B%AC%E7%94%9F%E5%A5%B3%E7%BB%A7%E6%89%BF2%E4%BA%BF%E9%81%97%E4%BA%A7%E5%90%8E%E8%A2%AB%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=2&Refer=top)<br />
 3. [国之重器背后的中国链](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%8B%E9%87%8D%E5%99%A8%E8%83%8C%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%93%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [微信好友上限](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E4%B8%8A%E9%99%90&t=31&band_rank=4&Refer=top)<br />
 5. [宋仲基 白袜半身裙](https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BB%B2%E5%9F%BA%20%E7%99%BD%E8%A2%9C%E5%8D%8A%E8%BA%AB%E8%A3%99&t=31&band_rank=5&Refer=top)<br />
