@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 09:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 09:52:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [英国诺丁汉市破产](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E8%AF%BA%E4%B8%81%E6%B1%89%E5%B8%82%E7%A0%B4%E4%BA%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [明年的古偶男主](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%B9%B4%E7%9A%84%E5%8F%A4%E5%81%B6%E7%94%B7%E4%B8%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [老娘当年旗袍开到肩膀](https://s.weibo.com/weibo?q=%E8%80%81%E5%A8%98%E5%BD%93%E5%B9%B4%E6%97%97%E8%A2%8D%E5%BC%80%E5%88%B0%E8%82%A9%E8%86%80&t=31&band_rank=6&Refer=top)<br />
-7. [傅首尔用的假睫毛狠狠避雷了](https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%E7%94%A8%E7%9A%84%E5%81%87%E7%9D%AB%E6%AF%9B%E7%8B%A0%E7%8B%A0%E9%81%BF%E9%9B%B7%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [杨幂一个vlog去了3个地方](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E4%B8%80%E4%B8%AAvlog%E5%8E%BB%E4%BA%863%E4%B8%AA%E5%9C%B0%E6%96%B9%23&t=31&band_rank=8&Refer=top)<br />
+7. [杨幂一个vlog去了3个地方](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E4%B8%80%E4%B8%AAvlog%E5%8E%BB%E4%BA%863%E4%B8%AA%E5%9C%B0%E6%96%B9%23&t=31&band_rank=7&Refer=top)<br />
+8. [傅首尔用的假睫毛狠狠避雷了](https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%E7%94%A8%E7%9A%84%E5%81%87%E7%9D%AB%E6%AF%9B%E7%8B%A0%E7%8B%A0%E9%81%BF%E9%9B%B7%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [马来西亚女星拍戏时猝死](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%A5%B3%E6%98%9F%E6%8B%8D%E6%88%8F%E6%97%B6%E7%8C%9D%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
