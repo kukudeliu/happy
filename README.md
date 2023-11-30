@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 21:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 21:13:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [王鹤棣 踹开说唱大门](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E8%B8%B9%E5%BC%80%E8%AF%B4%E5%94%B1%E5%A4%A7%E9%97%A8&t=31&band_rank=5&Refer=top)<br />
 6. [宋仲基 白袜半身裙](https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BB%B2%E5%9F%BA%20%E7%99%BD%E8%A2%9C%E5%8D%8A%E8%BA%AB%E8%A3%99&t=31&band_rank=6&Refer=top)<br />
 7. [朱丹被骗案 判决书](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%B9%E8%A2%AB%E9%AA%97%E6%A1%88%20%E5%88%A4%E5%86%B3%E4%B9%A6&t=31&band_rank=7&Refer=top)<br />
-8. [中学女生发型 鲶鱼须遮半张脸](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%AD%A6%E5%A5%B3%E7%94%9F%E5%8F%91%E5%9E%8B%20%E9%B2%B6%E9%B1%BC%E9%A1%BB%E9%81%AE%E5%8D%8A%E5%BC%A0%E8%84%B8&t=31&band_rank=8&Refer=top)<br />
-9. [江苏新增艾滋病例3584例](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%96%B0%E5%A2%9E%E8%89%BE%E6%BB%8B%E7%97%85%E4%BE%8B3584%E4%BE%8B%23&t=31&band_rank=9&Refer=top)<br />
+8. [江苏新增艾滋病例3584例](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%96%B0%E5%A2%9E%E8%89%BE%E6%BB%8B%E7%97%85%E4%BE%8B3584%E4%BE%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [中学女生发型 鲶鱼须遮半张脸](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%AD%A6%E5%A5%B3%E7%94%9F%E5%8F%91%E5%9E%8B%20%E9%B2%B6%E9%B1%BC%E9%A1%BB%E9%81%AE%E5%8D%8A%E5%BC%A0%E8%84%B8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
