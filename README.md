@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 17:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 17:44:01</h4></div>
 
 > 微博  
 
-1. [爷爷过世请不出丧假小伙遭亲戚埋怨](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E8%BF%87%E4%B8%96%E8%AF%B7%E4%B8%8D%E5%87%BA%E4%B8%A7%E5%81%87%E5%B0%8F%E4%BC%99%E9%81%AD%E4%BA%B2%E6%88%9A%E5%9F%8B%E6%80%A8%23&t=31&band_rank=1&Refer=top)<br />
-2. [朱丹被骗案 判决书](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%B9%E8%A2%AB%E9%AA%97%E6%A1%88%20%E5%88%A4%E5%86%B3%E4%B9%A6&t=31&band_rank=2&Refer=top)<br />
+1. [朱丹被骗案 判决书](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%B9%E8%A2%AB%E9%AA%97%E6%A1%88%20%E5%88%A4%E5%86%B3%E4%B9%A6&t=31&band_rank=1&Refer=top)<br />
+2. [爷爷过世请不出丧假小伙遭亲戚埋怨](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E8%BF%87%E4%B8%96%E8%AF%B7%E4%B8%8D%E5%87%BA%E4%B8%A7%E5%81%87%E5%B0%8F%E4%BC%99%E9%81%AD%E4%BA%B2%E6%88%9A%E5%9F%8B%E6%80%A8%23&t=31&band_rank=2&Refer=top)<br />
 3. [航拍绝美落羽杉林氛围感拉满](https://s.weibo.com/weibo?q=%23%E8%88%AA%E6%8B%8D%E7%BB%9D%E7%BE%8E%E8%90%BD%E7%BE%BD%E6%9D%89%E6%9E%97%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨鸣被曝离婚](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E8%A2%AB%E6%9B%9D%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=4&Refer=top)<br />
 5. [老师 我们家子涵](https://s.weibo.com/weibo?q=%E8%80%81%E5%B8%88%20%E6%88%91%E4%BB%AC%E5%AE%B6%E5%AD%90%E6%B6%B5&t=31&band_rank=5&Refer=top)<br />
