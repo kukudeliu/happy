@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 22:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 22:19:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [安徽发布“云梦泽事件”情况通报](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E5%8F%91%E5%B8%83%E2%80%9C%E4%BA%91%E6%A2%A6%E6%B3%BD%E4%BA%8B%E4%BB%B6%E2%80%9D%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [11月份经济运行总体平稳](https://www.baidu.com/s?wd=11%E6%9C%88%E4%BB%BD%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E6%80%BB%E4%BD%93%E5%B9%B3%E7%A8%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [易中天称雷军捐13亿让他深感惭愧](https://www.baidu.com/s?wd=%E6%98%93%E4%B8%AD%E5%A4%A9%E7%A7%B0%E9%9B%B7%E5%86%9B%E6%8D%9013%E4%BA%BF%E8%AE%A9%E4%BB%96%E6%B7%B1%E6%84%9F%E6%83%AD%E6%84%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [辽宁政协原副主席孙远良受贿1.87亿](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E6%94%BF%E5%8D%8F%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%AD%99%E8%BF%9C%E8%89%AF%E5%8F%97%E8%B4%BF1.87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子玩游戏被盖猪肉印章去除不了](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%8E%A9%E6%B8%B8%E6%88%8F%E8%A2%AB%E7%9B%96%E7%8C%AA%E8%82%89%E5%8D%B0%E7%AB%A0%E5%8E%BB%E9%99%A4%E4%B8%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子买韭菜炒出像洗衣液绿色汤汁](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B0%E9%9F%AD%E8%8F%9C%E7%82%92%E5%87%BA%E5%83%8F%E6%B4%97%E8%A1%A3%E6%B6%B2%E7%BB%BF%E8%89%B2%E6%B1%A4%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [马斯克称人工智能比核弹危险](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%AF%94%E6%A0%B8%E5%BC%B9%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [辽宁政协原副主席孙远良受贿1.87亿](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E6%94%BF%E5%8D%8F%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%AD%99%E8%BF%9C%E8%89%AF%E5%8F%97%E8%B4%BF1.87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [福建舰正按计划开展系泊试验](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%AD%A3%E6%8C%89%E8%AE%A1%E5%88%92%E5%BC%80%E5%B1%95%E7%B3%BB%E6%B3%8A%E8%AF%95%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣广西两地出现野生老虎](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%B9%BF%E8%A5%BF%E4%B8%A4%E5%9C%B0%E5%87%BA%E7%8E%B0%E9%87%8E%E7%94%9F%E8%80%81%E8%99%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [安徽发布“云梦泽事件”情况通报](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E5%8F%91%E5%B8%83%E2%80%9C%E4%BA%91%E6%A2%A6%E6%B3%BD%E4%BA%8B%E4%BB%B6%E2%80%9D%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [11月份经济运行总体平稳](https://www.baidu.com/s?wd=11%E6%9C%88%E4%BB%BD%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E6%80%BB%E4%BD%93%E5%B9%B3%E7%A8%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [易中天称雷军捐13亿让他深感惭愧](https://www.baidu.com/s?wd=%E6%98%93%E4%B8%AD%E5%A4%A9%E7%A7%B0%E9%9B%B7%E5%86%9B%E6%8D%9013%E4%BA%BF%E8%AE%A9%E4%BB%96%E6%B7%B1%E6%84%9F%E6%83%AD%E6%84%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [辽宁政协原副主席孙远良受贿1.87亿](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E6%94%BF%E5%8D%8F%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%AD%99%E8%BF%9C%E8%89%AF%E5%8F%97%E8%B4%BF1.87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子玩游戏被盖猪肉印章去除不了](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%8E%A9%E6%B8%B8%E6%88%8F%E8%A2%AB%E7%9B%96%E7%8C%AA%E8%82%89%E5%8D%B0%E7%AB%A0%E5%8E%BB%E9%99%A4%E4%B8%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子买韭菜炒出像洗衣液绿色汤汁](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B0%E9%9F%AD%E8%8F%9C%E7%82%92%E5%87%BA%E5%83%8F%E6%B4%97%E8%A1%A3%E6%B6%B2%E7%BB%BF%E8%89%B2%E6%B1%A4%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [马斯克称人工智能比核弹危险](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%AF%94%E6%A0%B8%E5%BC%B9%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [辽宁政协原副主席孙远良受贿1.87亿](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E6%94%BF%E5%8D%8F%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%AD%99%E8%BF%9C%E8%89%AF%E5%8F%97%E8%B4%BF1.87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [福建舰正按计划开展系泊试验](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%AD%A3%E6%8C%89%E8%AE%A1%E5%88%92%E5%BC%80%E5%B1%95%E7%B3%BB%E6%B3%8A%E8%AF%95%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣广西两地出现野生老虎](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%B9%BF%E8%A5%BF%E4%B8%A4%E5%9C%B0%E5%87%BA%E7%8E%B0%E9%87%8E%E7%94%9F%E8%80%81%E8%99%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
