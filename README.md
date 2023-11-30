@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 16:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 16:01:01</h4></div>
 
 > 微博  
 
 1. [拼多多 工作制](https://s.weibo.com/weibo?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%20%E5%B7%A5%E4%BD%9C%E5%88%B6&t=31&band_rank=1&Refer=top)<br />
-2. [李菲儿说这辈子不喝咖啡了](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%8F%B2%E5%84%BF%E8%AF%B4%E8%BF%99%E8%BE%88%E5%AD%90%E4%B8%8D%E5%96%9D%E5%92%96%E5%95%A1%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
+2. [海底捞跳科目三有顾客嫌吵起冲突报警](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E6%9C%89%E9%A1%BE%E5%AE%A2%E5%AB%8C%E5%90%B5%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [12月这些新规施行](https://s.weibo.com/weibo?q=%2312%E6%9C%88%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E6%96%BD%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
-4. [海底捞跳科目三有顾客嫌吵起冲突报警](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E6%9C%89%E9%A1%BE%E5%AE%A2%E5%AB%8C%E5%90%B5%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=4&Refer=top)<br />
+4. [李菲儿说这辈子不喝咖啡了](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%8F%B2%E5%84%BF%E8%AF%B4%E8%BF%99%E8%BE%88%E5%AD%90%E4%B8%8D%E5%96%9D%E5%92%96%E5%95%A1%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [皮肤黄 糖化](https://s.weibo.com/weibo?q=%E7%9A%AE%E8%82%A4%E9%BB%84%20%E7%B3%96%E5%8C%96&t=31&band_rank=5&Refer=top)<br />
 6. [狐厂 张凌赫归来仍是待爆](https://s.weibo.com/weibo?q=%E7%8B%90%E5%8E%82%20%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%BD%92%E6%9D%A5%E4%BB%8D%E6%98%AF%E5%BE%85%E7%88%86&t=31&band_rank=6&Refer=top)<br />
 7. [韩国公务员想升职得先生娃](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%85%AC%E5%8A%A1%E5%91%98%E6%83%B3%E5%8D%87%E8%81%8C%E5%BE%97%E5%85%88%E7%94%9F%E5%A8%83%23&t=31&band_rank=7&Refer=top)<br />
