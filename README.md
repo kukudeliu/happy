@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 17:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 17:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王蓉外网仿妆](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%93%89%E5%A4%96%E7%BD%91%E4%BB%BF%E5%A6%86&t=31&band_rank=6&Refer=top)<br />
 7. [一念关山 智商被尊重的感觉](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E6%99%BA%E5%95%86%E8%A2%AB%E5%B0%8A%E9%87%8D%E7%9A%84%E6%84%9F%E8%A7%89&t=31&band_rank=7&Refer=top)<br />
 8. [皮肤黄 糖化](https://s.weibo.com/weibo?q=%E7%9A%AE%E8%82%A4%E9%BB%84%20%E7%B3%96%E5%8C%96&t=31&band_rank=8&Refer=top)<br />
-9. [狐厂 张凌赫归来仍是待爆](https://s.weibo.com/weibo?q=%E7%8B%90%E5%8E%82%20%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%BD%92%E6%9D%A5%E4%BB%8D%E6%98%AF%E5%BE%85%E7%88%86&t=31&band_rank=9&Refer=top)<br />
+9. [魅族21价格](https://s.weibo.com/weibo?q=%E9%AD%85%E6%97%8F21%E4%BB%B7%E6%A0%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
