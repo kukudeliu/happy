@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 10:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 10:03:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [两家公司董事长失联](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%AE%B6%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF%E5%A4%B1%E8%81%94%23&t=31&band_rank=5&Refer=top)<br />
 6. [明年的古偶男主](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%B9%B4%E7%9A%84%E5%8F%A4%E5%81%B6%E7%94%B7%E4%B8%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [英国诺丁汉市破产](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E8%AF%BA%E4%B8%81%E6%B1%89%E5%B8%82%E7%A0%B4%E4%BA%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [梳头 防掉发](https://s.weibo.com/weibo?q=%E6%A2%B3%E5%A4%B4%20%E9%98%B2%E6%8E%89%E5%8F%91&t=31&band_rank=8&Refer=top)<br />
-9. [老娘当年旗袍开到肩膀](https://s.weibo.com/weibo?q=%E8%80%81%E5%A8%98%E5%BD%93%E5%B9%B4%E6%97%97%E8%A2%8D%E5%BC%80%E5%88%B0%E8%82%A9%E8%86%80&t=31&band_rank=9&Refer=top)<br />
+8. [老娘当年旗袍开到肩膀](https://s.weibo.com/weibo?q=%E8%80%81%E5%A8%98%E5%BD%93%E5%B9%B4%E6%97%97%E8%A2%8D%E5%BC%80%E5%88%B0%E8%82%A9%E8%86%80&t=31&band_rank=8&Refer=top)<br />
+9. [梳头 防掉发](https://s.weibo.com/weibo?q=%E6%A2%B3%E5%A4%B4%20%E9%98%B2%E6%8E%89%E5%8F%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
