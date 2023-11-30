@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 00:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 00:50:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [国之重器背后的中国链](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%8B%E9%87%8D%E5%99%A8%E8%83%8C%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%93%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [一念关山 替身马赛克](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E6%9B%BF%E8%BA%AB%E9%A9%AC%E8%B5%9B%E5%85%8B&t=31&band_rank=4&Refer=top)<br />
 5. [LV大秀](https://s.weibo.com/weibo?q=LV%E5%A4%A7%E7%A7%80&t=31&band_rank=5&Refer=top)<br />
-6. [宋仲基 白袜半身裙](https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BB%B2%E5%9F%BA%20%E7%99%BD%E8%A2%9C%E5%8D%8A%E8%BA%AB%E8%A3%99&t=31&band_rank=6&Refer=top)<br />
-7. [江苏新增艾滋病例3584例](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%96%B0%E5%A2%9E%E8%89%BE%E6%BB%8B%E7%97%85%E4%BE%8B3584%E4%BE%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [LV不管饭吗](https://s.weibo.com/weibo?q=%23LV%E4%B8%8D%E7%AE%A1%E9%A5%AD%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [朱一龙 穿裙子](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%20%E7%A9%BF%E8%A3%99%E5%AD%90&t=31&band_rank=9&Refer=top)<br />
+6. [一念关山 AI换脸](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20AI%E6%8D%A2%E8%84%B8&t=31&band_rank=6&Refer=top)<br />
+7. [宋仲基 白袜半身裙](https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BB%B2%E5%9F%BA%20%E7%99%BD%E8%A2%9C%E5%8D%8A%E8%BA%AB%E8%A3%99&t=31&band_rank=7&Refer=top)<br />
+8. [江苏新增艾滋病例3584例](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%96%B0%E5%A2%9E%E8%89%BE%E6%BB%8B%E7%97%85%E4%BE%8B3584%E4%BE%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [LV不管饭吗](https://s.weibo.com/weibo?q=%23LV%E4%B8%8D%E7%AE%A1%E9%A5%AD%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [退休老师被前女婿举报“吃空饷”](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%91%E8%80%81%E5%B8%88%E8%A2%AB%E5%89%8D%E5%A5%B3%E5%A9%BF%E4%B8%BE%E6%8A%A5%E2%80%9C%E5%90%83%E7%A9%BA%E9%A5%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [朝鲜：决不同美国就主权权利谈判](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%EF%BC%9A%E5%86%B3%E4%B8%8D%E5%90%8C%E7%BE%8E%E5%9B%BD%E5%B0%B1%E4%B8%BB%E6%9D%83%E6%9D%83%E5%88%A9%E8%B0%88%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [福建舰正按计划开展系泊试验](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%AD%A3%E6%8C%89%E8%AE%A1%E5%88%92%E5%BC%80%E5%B1%95%E7%B3%BB%E6%B3%8A%E8%AF%95%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [宋仲基LV大秀新造型突破](https://www.baidu.com/s?wd=%E5%AE%8B%E4%BB%B2%E5%9F%BALV%E5%A4%A7%E7%A7%80%E6%96%B0%E9%80%A0%E5%9E%8B%E7%AA%81%E7%A0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马斯克称人工智能比核弹危险](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%AF%94%E6%A0%B8%E5%BC%B9%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣广西两地出现野生老虎](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%B9%BF%E8%A5%BF%E4%B8%A4%E5%9C%B0%E5%87%BA%E7%8E%B0%E9%87%8E%E7%94%9F%E8%80%81%E8%99%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [退休老师被前女婿举报“吃空饷”](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%91%E8%80%81%E5%B8%88%E8%A2%AB%E5%89%8D%E5%A5%B3%E5%A9%BF%E4%B8%BE%E6%8A%A5%E2%80%9C%E5%90%83%E7%A9%BA%E9%A5%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [朝鲜：决不同美国就主权权利谈判](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%EF%BC%9A%E5%86%B3%E4%B8%8D%E5%90%8C%E7%BE%8E%E5%9B%BD%E5%B0%B1%E4%B8%BB%E6%9D%83%E6%9D%83%E5%88%A9%E8%B0%88%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [福建舰正按计划开展系泊试验](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%AD%A3%E6%8C%89%E8%AE%A1%E5%88%92%E5%BC%80%E5%B1%95%E7%B3%BB%E6%B3%8A%E8%AF%95%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [宋仲基LV大秀新造型突破](https://www.baidu.com/s?wd=%E5%AE%8B%E4%BB%B2%E5%9F%BALV%E5%A4%A7%E7%A7%80%E6%96%B0%E9%80%A0%E5%9E%8B%E7%AA%81%E7%A0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马斯克称人工智能比核弹危险](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%AF%94%E6%A0%B8%E5%BC%B9%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣广西两地出现野生老虎](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%B9%BF%E8%A5%BF%E4%B8%A4%E5%9C%B0%E5%87%BA%E7%8E%B0%E9%87%8E%E7%94%9F%E8%80%81%E8%99%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
