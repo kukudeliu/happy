@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 22:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 22:06:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [易中天称雷军捐13亿让他深感惭愧](https://www.baidu.com/s?wd=%E6%98%93%E4%B8%AD%E5%A4%A9%E7%A7%B0%E9%9B%B7%E5%86%9B%E6%8D%9013%E4%BA%BF%E8%AE%A9%E4%BB%96%E6%B7%B1%E6%84%9F%E6%83%AD%E6%84%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡锡进炒股首月觉得自己是新巴菲特](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E7%82%92%E8%82%A1%E9%A6%96%E6%9C%88%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E6%98%AF%E6%96%B0%E5%B7%B4%E8%8F%B2%E7%89%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子玩游戏被盖猪肉印章去除不了](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%8E%A9%E6%B8%B8%E6%88%8F%E8%A2%AB%E7%9B%96%E7%8C%AA%E8%82%89%E5%8D%B0%E7%AB%A0%E5%8E%BB%E9%99%A4%E4%B8%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子买韭菜炒出像洗衣液绿色汤汁](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B0%E9%9F%AD%E8%8F%9C%E7%82%92%E5%87%BA%E5%83%8F%E6%B4%97%E8%A1%A3%E6%B6%B2%E7%BB%BF%E8%89%B2%E6%B1%A4%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [因暴雨被降级的原市长重回正厅级](https://www.baidu.com/s?wd=%E5%9B%A0%E6%9A%B4%E9%9B%A8%E8%A2%AB%E9%99%8D%E7%BA%A7%E7%9A%84%E5%8E%9F%E5%B8%82%E9%95%BF%E9%87%8D%E5%9B%9E%E6%AD%A3%E5%8E%85%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣广西两地出现野生老虎](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%B9%BF%E8%A5%BF%E4%B8%A4%E5%9C%B0%E5%87%BA%E7%8E%B0%E9%87%8E%E7%94%9F%E8%80%81%E8%99%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [易中天称雷军捐13亿让他深感惭愧](https://www.baidu.com/s?wd=%E6%98%93%E4%B8%AD%E5%A4%A9%E7%A7%B0%E9%9B%B7%E5%86%9B%E6%8D%9013%E4%BA%BF%E8%AE%A9%E4%BB%96%E6%B7%B1%E6%84%9F%E6%83%AD%E6%84%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡锡进炒股首月觉得自己是新巴菲特](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E7%82%92%E8%82%A1%E9%A6%96%E6%9C%88%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E6%98%AF%E6%96%B0%E5%B7%B4%E8%8F%B2%E7%89%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子玩游戏被盖猪肉印章去除不了](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%8E%A9%E6%B8%B8%E6%88%8F%E8%A2%AB%E7%9B%96%E7%8C%AA%E8%82%89%E5%8D%B0%E7%AB%A0%E5%8E%BB%E9%99%A4%E4%B8%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子买韭菜炒出像洗衣液绿色汤汁](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B0%E9%9F%AD%E8%8F%9C%E7%82%92%E5%87%BA%E5%83%8F%E6%B4%97%E8%A1%A3%E6%B6%B2%E7%BB%BF%E8%89%B2%E6%B1%A4%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [因暴雨被降级的原市长重回正厅级](https://www.baidu.com/s?wd=%E5%9B%A0%E6%9A%B4%E9%9B%A8%E8%A2%AB%E9%99%8D%E7%BA%A7%E7%9A%84%E5%8E%9F%E5%B8%82%E9%95%BF%E9%87%8D%E5%9B%9E%E6%AD%A3%E5%8E%85%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣广西两地出现野生老虎](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%B9%BF%E8%A5%BF%E4%B8%A4%E5%9C%B0%E5%87%BA%E7%8E%B0%E9%87%8E%E7%94%9F%E8%80%81%E8%99%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
