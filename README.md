@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 06:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 06:41:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [一念关山 AI换脸](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20AI%E6%8D%A2%E8%84%B8&t=31&band_rank=4&Refer=top)<br />
 5. [排队5天孩子呼吸道感染熬成肺炎](https://s.weibo.com/weibo?q=%23%E6%8E%92%E9%98%9F5%E5%A4%A9%E5%AD%A9%E5%AD%90%E5%91%BC%E5%90%B8%E9%81%93%E6%84%9F%E6%9F%93%E7%86%AC%E6%88%90%E8%82%BA%E7%82%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨鸣唐佳良离婚案12月开庭](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E5%94%90%E4%BD%B3%E8%89%AF%E7%A6%BB%E5%A9%9A%E6%A1%8812%E6%9C%88%E5%BC%80%E5%BA%AD%23&t=31&band_rank=6&Refer=top)<br />
-7. [一念关山 替身马赛克](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E6%9B%BF%E8%BA%AB%E9%A9%AC%E8%B5%9B%E5%85%8B&t=31&band_rank=7&Refer=top)<br />
-8. [重庆地铁偶遇张艺兴](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%9C%B0%E9%93%81%E5%81%B6%E9%81%87%E5%BC%A0%E8%89%BA%E5%85%B4%23&t=31&band_rank=8&Refer=top)<br />
+7. [重庆地铁偶遇张艺兴](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%9C%B0%E9%93%81%E5%81%B6%E9%81%87%E5%BC%A0%E8%89%BA%E5%85%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [一念关山 替身马赛克](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E6%9B%BF%E8%BA%AB%E9%A9%AC%E8%B5%9B%E5%85%8B&t=31&band_rank=8&Refer=top)<br />
 9. [奶奶去世爷爷紧紧蜷缩在旁边](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%8E%BB%E4%B8%96%E7%88%B7%E7%88%B7%E7%B4%A7%E7%B4%A7%E8%9C%B7%E7%BC%A9%E5%9C%A8%E6%97%81%E8%BE%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
