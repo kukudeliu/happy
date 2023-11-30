@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 16:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 16:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [海底捞跳科目三有顾客嫌吵起冲突报警](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E6%9C%89%E9%A1%BE%E5%AE%A2%E5%AB%8C%E5%90%B5%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [狐厂 张凌赫归来仍是待爆](https://s.weibo.com/weibo?q=%E7%8B%90%E5%8E%82%20%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%BD%92%E6%9D%A5%E4%BB%8D%E6%98%AF%E5%BE%85%E7%88%86&t=31&band_rank=7&Refer=top)<br />
 8. [王蓉外网仿妆](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%93%89%E5%A4%96%E7%BD%91%E4%BB%BF%E5%A6%86&t=31&band_rank=8&Refer=top)<br />
-9. [热巴 不值得一提的事](https://s.weibo.com/weibo?q=%E7%83%AD%E5%B7%B4%20%E4%B8%8D%E5%80%BC%E5%BE%97%E4%B8%80%E6%8F%90%E7%9A%84%E4%BA%8B&t=31&band_rank=9&Refer=top)<br />
+9. [TheShy获2023年度最受欢迎选手](https://s.weibo.com/weibo?q=%23TheShy%E8%8E%B72023%E5%B9%B4%E5%BA%A6%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E9%80%89%E6%89%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
