@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 13:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 13:51:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [唐佳良 杨鸣](https://s.weibo.com/weibo?q=%E5%94%90%E4%BD%B3%E8%89%AF%20%E6%9D%A8%E9%B8%A3&t=31&band_rank=5&Refer=top)<br />
 6. [基辛格逝世](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%9B%E6%A0%BC%E9%80%9D%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨鸣](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3&t=31&band_rank=7&Refer=top)<br />
-8. [奔驰司机在车内离世后被发现](https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%E5%8F%B8%E6%9C%BA%E5%9C%A8%E8%BD%A6%E5%86%85%E7%A6%BB%E4%B8%96%E5%90%8E%E8%A2%AB%E5%8F%91%E7%8E%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [菲律宾警方确认被绑6名中国人4人被撕票](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%AD%A6%E6%96%B9%E7%A1%AE%E8%AE%A4%E8%A2%AB%E7%BB%916%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA4%E4%BA%BA%E8%A2%AB%E6%92%95%E7%A5%A8%23&t=31&band_rank=9&Refer=top)<br />
+8. [菲律宾警方确认被绑6名中国人4人被撕票](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%AD%A6%E6%96%B9%E7%A1%AE%E8%AE%A4%E8%A2%AB%E7%BB%916%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA4%E4%BA%BA%E8%A2%AB%E6%92%95%E7%A5%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [奔驰司机在车内离世后被发现](https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%E5%8F%B8%E6%9C%BA%E5%9C%A8%E8%BD%A6%E5%86%85%E7%A6%BB%E4%B8%96%E5%90%8E%E8%A2%AB%E5%8F%91%E7%8E%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
