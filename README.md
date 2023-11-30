@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 14:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 14:35:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [海底捞跳科目三有顾客嫌吵起冲突报警](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E6%9C%89%E9%A1%BE%E5%AE%A2%E5%AB%8C%E5%90%B5%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [易中天称雷军捐13亿让他深感惭愧](https://s.weibo.com/weibo?q=%23%E6%98%93%E4%B8%AD%E5%A4%A9%E7%A7%B0%E9%9B%B7%E5%86%9B%E6%8D%9013%E4%BA%BF%E8%AE%A9%E4%BB%96%E6%B7%B1%E6%84%9F%E6%83%AD%E6%84%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [酱园弄女二 杨幂](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%E5%A5%B3%E4%BA%8C%20%E6%9D%A8%E5%B9%82&t=31&band_rank=7&Refer=top)<br />
-8. [唐佳良 杨鸣](https://s.weibo.com/weibo?q=%E5%94%90%E4%BD%B3%E8%89%AF%20%E6%9D%A8%E9%B8%A3&t=31&band_rank=8&Refer=top)<br />
-9. [无法代入新闻女王的理由](https://s.weibo.com/weibo?q=%E6%97%A0%E6%B3%95%E4%BB%A3%E5%85%A5%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E7%9A%84%E7%90%86%E7%94%B1&t=31&band_rank=9&Refer=top)<br />
+8. [无法代入新闻女王的理由](https://s.weibo.com/weibo?q=%E6%97%A0%E6%B3%95%E4%BB%A3%E5%85%A5%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E7%9A%84%E7%90%86%E7%94%B1&t=31&band_rank=8&Refer=top)<br />
+9. [唐佳良 杨鸣](https://s.weibo.com/weibo?q=%E5%94%90%E4%BD%B3%E8%89%AF%20%E6%9D%A8%E9%B8%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
