@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 13:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 13:52:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [举办链博会展现了担当彰显了能力](https://s.weibo.com/weibo?q=%23%E4%B8%BE%E5%8A%9E%E9%93%BE%E5%8D%9A%E4%BC%9A%E5%B1%95%E7%8E%B0%E4%BA%86%E6%8B%85%E5%BD%93%E5%BD%B0%E6%98%BE%E4%BA%86%E8%83%BD%E5%8A%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [酱园弄女二 杨幂](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%E5%A5%B3%E4%BA%8C%20%E6%9D%A8%E5%B9%82&t=31&band_rank=4&Refer=top)<br />
 5. [唐佳良 杨鸣](https://s.weibo.com/weibo?q=%E5%94%90%E4%BD%B3%E8%89%AF%20%E6%9D%A8%E9%B8%A3&t=31&band_rank=5&Refer=top)<br />
-6. [基辛格逝世](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%9B%E6%A0%BC%E9%80%9D%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [杨鸣](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3&t=31&band_rank=7&Refer=top)<br />
+6. [杨鸣](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3&t=31&band_rank=6&Refer=top)<br />
+7. [基辛格逝世](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%9B%E6%A0%BC%E9%80%9D%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [菲律宾警方确认被绑6名中国人4人被撕票](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%AD%A6%E6%96%B9%E7%A1%AE%E8%AE%A4%E8%A2%AB%E7%BB%916%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA4%E4%BA%BA%E8%A2%AB%E6%92%95%E7%A5%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [奔驰司机在车内离世后被发现](https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%E5%8F%B8%E6%9C%BA%E5%9C%A8%E8%BD%A6%E5%86%85%E7%A6%BB%E4%B8%96%E5%90%8E%E8%A2%AB%E5%8F%91%E7%8E%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [马精武去世](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%B2%BE%E6%AD%A6%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
