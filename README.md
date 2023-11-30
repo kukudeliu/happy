@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 14:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 14:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [唐佳良 杨鸣](https://s.weibo.com/weibo?q=%E5%94%90%E4%BD%B3%E8%89%AF%20%E6%9D%A8%E9%B8%A3&t=31&band_rank=6&Refer=top)<br />
 7. [基辛格逝世](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%9B%E6%A0%BC%E9%80%9D%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [马精武去世](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%B2%BE%E6%AD%A6%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨鸣](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3&t=31&band_rank=9&Refer=top)<br />
+9. [阿里献血](https://s.weibo.com/weibo?q=%E9%98%BF%E9%87%8C%E7%8C%AE%E8%A1%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
