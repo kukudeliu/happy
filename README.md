@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 20:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 20:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中学女生发型 鲶鱼须遮半张脸](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%AD%A6%E5%A5%B3%E7%94%9F%E5%8F%91%E5%9E%8B%20%E9%B2%B6%E9%B1%BC%E9%A1%BB%E9%81%AE%E5%8D%8A%E5%BC%A0%E8%84%B8&t=31&band_rank=6&Refer=top)<br />
 7. [杨鸣被曝离婚](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E8%A2%AB%E6%9B%9D%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [张译 南极拒绝合影事件](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%AF%91%20%E5%8D%97%E6%9E%81%E6%8B%92%E7%BB%9D%E5%90%88%E5%BD%B1%E4%BA%8B%E4%BB%B6&t=31&band_rank=8&Refer=top)<br />
-9. [五月天 对口型](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%20%E5%AF%B9%E5%8F%A3%E5%9E%8B&t=31&band_rank=9&Refer=top)<br />
+9. [杨鸣唐佳良离婚案12月开庭](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E5%94%90%E4%BD%B3%E8%89%AF%E7%A6%BB%E5%A9%9A%E6%A1%8812%E6%9C%88%E5%BC%80%E5%BA%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
