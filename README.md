@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 10:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 10:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [明年的古偶男主](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%B9%B4%E7%9A%84%E5%8F%A4%E5%81%B6%E7%94%B7%E4%B8%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [25岁女子被丈夫割喉父亲发声](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%B8%88%E5%A4%AB%E5%89%B2%E5%96%89%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [iPhone16显示屏及尺寸曝光](https://s.weibo.com/weibo?q=%23iPhone16%E6%98%BE%E7%A4%BA%E5%B1%8F%E5%8F%8A%E5%B0%BA%E5%AF%B8%E6%9B%9D%E5%85%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [两家公司董事长失联](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%AE%B6%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF%E5%A4%B1%E8%81%94%23&t=31&band_rank=9&Refer=top)<br />
+9. [基辛格官网悼文提到11次中国](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%9B%E6%A0%BC%E5%AE%98%E7%BD%91%E6%82%BC%E6%96%87%E6%8F%90%E5%88%B011%E6%AC%A1%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
