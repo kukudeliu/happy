@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 18:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 18:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨鸣被曝离婚](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E8%A2%AB%E6%9B%9D%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [渐冻症女警长29年改造1900多名罪犯](https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E7%97%87%E5%A5%B3%E8%AD%A6%E9%95%BF29%E5%B9%B4%E6%94%B9%E9%80%A01900%E5%A4%9A%E5%90%8D%E7%BD%AA%E7%8A%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [老师 我们家子涵](https://s.weibo.com/weibo?q=%E8%80%81%E5%B8%88%20%E6%88%91%E4%BB%AC%E5%AE%B6%E5%AD%90%E6%B6%B5&t=31&band_rank=8&Refer=top)<br />
-9. [顾客住酒店发现有艾滋病治疗药物](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%BD%8F%E9%85%92%E5%BA%97%E5%8F%91%E7%8E%B0%E6%9C%89%E8%89%BE%E6%BB%8B%E7%97%85%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [五月天 对口型](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%20%E5%AF%B9%E5%8F%A3%E5%9E%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
