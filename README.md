@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 13:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 13:47:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [如果霍建华饰演一念关山](https://s.weibo.com/weibo?q=%E5%A6%82%E6%9E%9C%E9%9C%8D%E5%BB%BA%E5%8D%8E%E9%A5%B0%E6%BC%94%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1&t=31&band_rank=2&Refer=top)<br />
 3. [举办链博会展现了担当彰显了能力](https://s.weibo.com/weibo?q=%23%E4%B8%BE%E5%8A%9E%E9%93%BE%E5%8D%9A%E4%BC%9A%E5%B1%95%E7%8E%B0%E4%BA%86%E6%8B%85%E5%BD%93%E5%BD%B0%E6%98%BE%E4%BA%86%E8%83%BD%E5%8A%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [酱园弄女二 杨幂](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%E5%A5%B3%E4%BA%8C%20%E6%9D%A8%E5%B9%82&t=31&band_rank=4&Refer=top)<br />
-5. [基辛格逝世](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%9B%E6%A0%BC%E9%80%9D%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
-6. [唐佳良 杨鸣](https://s.weibo.com/weibo?q=%E5%94%90%E4%BD%B3%E8%89%AF%20%E6%9D%A8%E9%B8%A3&t=31&band_rank=6&Refer=top)<br />
+5. [唐佳良 杨鸣](https://s.weibo.com/weibo?q=%E5%94%90%E4%BD%B3%E8%89%AF%20%E6%9D%A8%E9%B8%A3&t=31&band_rank=5&Refer=top)<br />
+6. [基辛格逝世](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%9B%E6%A0%BC%E9%80%9D%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨鸣](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3&t=31&band_rank=7&Refer=top)<br />
 8. [奔驰司机在车内离世后被发现](https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%E5%8F%B8%E6%9C%BA%E5%9C%A8%E8%BD%A6%E5%86%85%E7%A6%BB%E4%B8%96%E5%90%8E%E8%A2%AB%E5%8F%91%E7%8E%B0%23&t=31&band_rank=8&Refer=top)<br />
 9. [杨紫 小甜嗓](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E5%B0%8F%E7%94%9C%E5%97%93&t=31&band_rank=9&Refer=top)<br />
