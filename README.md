@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 10:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 10:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [拼多多人均创收1222万](https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E4%BA%BA%E5%9D%87%E5%88%9B%E6%94%B61222%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [明年的古偶男主](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%B9%B4%E7%9A%84%E5%8F%A4%E5%81%B6%E7%94%B7%E4%B8%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [英国诺丁汉市破产](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E8%AF%BA%E4%B8%81%E6%B1%89%E5%B8%82%E7%A0%B4%E4%BA%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨鸣](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3&t=31&band_rank=9&Refer=top)<br />
+9. [iPhone16显示屏及尺寸曝光](https://s.weibo.com/weibo?q=%23iPhone16%E6%98%BE%E7%A4%BA%E5%B1%8F%E5%8F%8A%E5%B0%BA%E5%AF%B8%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
