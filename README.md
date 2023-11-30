@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 18:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 18:19:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [12月一批民生新规开始施行](https://www.baidu.com/s?wd=12%E6%9C%88%E4%B8%80%E6%89%B9%E6%B0%91%E7%94%9F%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [拜登和工人拿核手提箱开玩笑](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%92%8C%E5%B7%A5%E4%BA%BA%E6%8B%BF%E6%A0%B8%E6%89%8B%E6%8F%90%E7%AE%B1%E5%BC%80%E7%8E%A9%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一县城临聘人员工资已超全县总税收](https://www.baidu.com/s?wd=%E4%B8%80%E5%8E%BF%E5%9F%8E%E4%B8%B4%E8%81%98%E4%BA%BA%E5%91%98%E5%B7%A5%E8%B5%84%E5%B7%B2%E8%B6%85%E5%85%A8%E5%8E%BF%E6%80%BB%E7%A8%8E%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [警方回应奔驰车主车内离世](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%94%E9%A9%B0%E8%BD%A6%E4%B8%BB%E8%BD%A6%E5%86%85%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老戏骨马精武去世](https://www.baidu.com/s?wd=%E8%80%81%E6%88%8F%E9%AA%A8%E9%A9%AC%E7%B2%BE%E6%AD%A6%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中方发布解决巴以冲突的立场文件](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%8F%91%E5%B8%83%E8%A7%A3%E5%86%B3%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E7%9A%84%E7%AB%8B%E5%9C%BA%E6%96%87%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方回应奔驰车主车内离世](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%94%E9%A9%B0%E8%BD%A6%E4%B8%BB%E8%BD%A6%E5%86%85%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣预制板房将全部拆迁](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E9%A2%84%E5%88%B6%E6%9D%BF%E6%88%BF%E5%B0%86%E5%85%A8%E9%83%A8%E6%8B%86%E8%BF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [12月一批民生新规开始施行](https://www.baidu.com/s?wd=12%E6%9C%88%E4%B8%80%E6%89%B9%E6%B0%91%E7%94%9F%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [拜登和工人拿核手提箱开玩笑](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%92%8C%E5%B7%A5%E4%BA%BA%E6%8B%BF%E6%A0%B8%E6%89%8B%E6%8F%90%E7%AE%B1%E5%BC%80%E7%8E%A9%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一县城临聘人员工资已超全县总税收](https://www.baidu.com/s?wd=%E4%B8%80%E5%8E%BF%E5%9F%8E%E4%B8%B4%E8%81%98%E4%BA%BA%E5%91%98%E5%B7%A5%E8%B5%84%E5%B7%B2%E8%B6%85%E5%85%A8%E5%8E%BF%E6%80%BB%E7%A8%8E%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [警方回应奔驰车主车内离世](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%94%E9%A9%B0%E8%BD%A6%E4%B8%BB%E8%BD%A6%E5%86%85%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老戏骨马精武去世](https://www.baidu.com/s?wd=%E8%80%81%E6%88%8F%E9%AA%A8%E9%A9%AC%E7%B2%BE%E6%AD%A6%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中方发布解决巴以冲突的立场文件](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%8F%91%E5%B8%83%E8%A7%A3%E5%86%B3%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E7%9A%84%E7%AB%8B%E5%9C%BA%E6%96%87%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方回应奔驰车主车内离世](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%94%E9%A9%B0%E8%BD%A6%E4%B8%BB%E8%BD%A6%E5%86%85%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣预制板房将全部拆迁](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E9%A2%84%E5%88%B6%E6%9D%BF%E6%88%BF%E5%B0%86%E5%85%A8%E9%83%A8%E6%8B%86%E8%BF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
