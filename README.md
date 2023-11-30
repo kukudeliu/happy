@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 16:34:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 16:35:02</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [习近平到上海考察释放重要信号](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%88%B0%E4%B8%8A%E6%B5%B7%E8%80%83%E5%AF%9F%E9%87%8A%E6%94%BE%E9%87%8D%E8%A6%81%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [让人民住有所居、居有所安](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%BA%E6%B0%91%E4%BD%8F%E6%9C%89%E6%89%80%E5%B1%85%E3%80%81%E5%B1%85%E6%9C%89%E6%89%80%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [习近平就基辛格逝世向拜登致唁电](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%B1%E5%9F%BA%E8%BE%9B%E6%A0%BC%E9%80%9D%E4%B8%96%E5%90%91%E6%8B%9C%E7%99%BB%E8%87%B4%E5%94%81%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [10秒明星祝福视频网上卖20万元](https://www.baidu.com/s?wd=10%E7%A7%92%E6%98%8E%E6%98%9F%E7%A5%9D%E7%A6%8F%E8%A7%86%E9%A2%91%E7%BD%91%E4%B8%8A%E5%8D%9620%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [12月一批民生新规开始施行](https://www.baidu.com/s?wd=12%E6%9C%88%E4%B8%80%E6%89%B9%E6%B0%91%E7%94%9F%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [习近平到上海考察释放重要信号](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%88%B0%E4%B8%8A%E6%B5%B7%E8%80%83%E5%AF%9F%E9%87%8A%E6%94%BE%E9%87%8D%E8%A6%81%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [让人民住有所居、居有所安](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%BA%E6%B0%91%E4%BD%8F%E6%9C%89%E6%89%80%E5%B1%85%E3%80%81%E5%B1%85%E6%9C%89%E6%89%80%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [习近平就基辛格逝世向拜登致唁电](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%B1%E5%9F%BA%E8%BE%9B%E6%A0%BC%E9%80%9D%E4%B8%96%E5%90%91%E6%8B%9C%E7%99%BB%E8%87%B4%E5%94%81%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [10秒明星祝福视频网上卖20万元](https://www.baidu.com/s?wd=10%E7%A7%92%E6%98%8E%E6%98%9F%E7%A5%9D%E7%A6%8F%E8%A7%86%E9%A2%91%E7%BD%91%E4%B8%8A%E5%8D%9620%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [12月一批民生新规开始施行](https://www.baidu.com/s?wd=12%E6%9C%88%E4%B8%80%E6%89%B9%E6%B0%91%E7%94%9F%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
