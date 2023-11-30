@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 19:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 19:48:02</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 > 百度  
 
 1. [让人民住有所居、居有所安](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%BA%E6%B0%91%E4%BD%8F%E6%9C%89%E6%89%80%E5%B1%85%E3%80%81%E5%B1%85%E6%9C%89%E6%89%80%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [习近平就基辛格逝世向拜登致唁电](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%B1%E5%9F%BA%E8%BE%9B%E6%A0%BC%E9%80%9D%E4%B8%96%E5%90%91%E6%8B%9C%E7%99%BB%E8%87%B4%E5%94%81%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [中方是否会武力攻台？国防部回应](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E6%98%AF%E5%90%A6%E4%BC%9A%E6%AD%A6%E5%8A%9B%E6%94%BB%E5%8F%B0%EF%BC%9F%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [阿里车祸者父亲：不清楚小姑姑身份](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BD%A6%E7%A5%B8%E8%80%85%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B8%8D%E6%B8%85%E6%A5%9A%E5%B0%8F%E5%A7%91%E5%A7%91%E8%BA%AB%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [情侣退迪士尼门票被要求交关系证明](https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E9%80%80%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%97%A8%E7%A5%A8%E8%A2%AB%E8%A6%81%E6%B1%82%E4%BA%A4%E5%85%B3%E7%B3%BB%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [12月一批民生新规开始施行](https://www.baidu.com/s?wd=12%E6%9C%88%E4%B8%80%E6%89%B9%E6%B0%91%E7%94%9F%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [一县城临聘人员工资已超全县总税收](https://www.baidu.com/s?wd=%E4%B8%80%E5%8E%BF%E5%9F%8E%E4%B8%B4%E8%81%98%E4%BA%BA%E5%91%98%E5%B7%A5%E8%B5%84%E5%B7%B2%E8%B6%85%E5%85%A8%E5%8E%BF%E6%80%BB%E7%A8%8E%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [爷爷过世请不了丧假小伙遭亲戚埋怨](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E8%BF%87%E4%B8%96%E8%AF%B7%E4%B8%8D%E4%BA%86%E4%B8%A7%E5%81%87%E5%B0%8F%E4%BC%99%E9%81%AD%E4%BA%B2%E6%88%9A%E5%9F%8B%E6%80%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,8 +30,8 @@
 > 哔哩哔哩  
 
 1. [让人民住有所居、居有所安](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%BA%E6%B0%91%E4%BD%8F%E6%9C%89%E6%89%80%E5%B1%85%E3%80%81%E5%B1%85%E6%9C%89%E6%89%80%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [习近平就基辛格逝世向拜登致唁电](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%B1%E5%9F%BA%E8%BE%9B%E6%A0%BC%E9%80%9D%E4%B8%96%E5%90%91%E6%8B%9C%E7%99%BB%E8%87%B4%E5%94%81%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [中方是否会武力攻台？国防部回应](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E6%98%AF%E5%90%A6%E4%BC%9A%E6%AD%A6%E5%8A%9B%E6%94%BB%E5%8F%B0%EF%BC%9F%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [阿里车祸者父亲：不清楚小姑姑身份](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BD%A6%E7%A5%B8%E8%80%85%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B8%8D%E6%B8%85%E6%A5%9A%E5%B0%8F%E5%A7%91%E5%A7%91%E8%BA%AB%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [情侣退迪士尼门票被要求交关系证明](https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E9%80%80%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%97%A8%E7%A5%A8%E8%A2%AB%E8%A6%81%E6%B1%82%E4%BA%A4%E5%85%B3%E7%B3%BB%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [12月一批民生新规开始施行](https://www.baidu.com/s?wd=12%E6%9C%88%E4%B8%80%E6%89%B9%E6%B0%91%E7%94%9F%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [一县城临聘人员工资已超全县总税收](https://www.baidu.com/s?wd=%E4%B8%80%E5%8E%BF%E5%9F%8E%E4%B8%B4%E8%81%98%E4%BA%BA%E5%91%98%E5%B7%A5%E8%B5%84%E5%B7%B2%E8%B6%85%E5%85%A8%E5%8E%BF%E6%80%BB%E7%A8%8E%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [爷爷过世请不了丧假小伙遭亲戚埋怨](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E8%BF%87%E4%B8%96%E8%AF%B7%E4%B8%8D%E4%BA%86%E4%B8%A7%E5%81%87%E5%B0%8F%E4%BC%99%E9%81%AD%E4%BA%B2%E6%88%9A%E5%9F%8B%E6%80%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
