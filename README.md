@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 12:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 12:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [唐佳良 杨鸣](https://s.weibo.com/weibo?q=%E5%94%90%E4%BD%B3%E8%89%AF%20%E6%9D%A8%E9%B8%A3&t=31&band_rank=6&Refer=top)<br />
 7. [奔驰司机在车内离世后被发现](https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%E5%8F%B8%E6%9C%BA%E5%9C%A8%E8%BD%A6%E5%86%85%E7%A6%BB%E4%B8%96%E5%90%8E%E8%A2%AB%E5%8F%91%E7%8E%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [辛芷蕾起床姿势好真实](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%B5%B7%E5%BA%8A%E5%A7%BF%E5%8A%BF%E5%A5%BD%E7%9C%9F%E5%AE%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨鸣](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3&t=31&band_rank=9&Refer=top)<br />
+9. [如果霍建华饰演一念关山](https://s.weibo.com/weibo?q=%E5%A6%82%E6%9E%9C%E9%9C%8D%E5%BB%BA%E5%8D%8E%E9%A5%B0%E6%BC%94%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [15岁女生被同学奸杀案二审维持无期](https://www.baidu.com/s?wd=15%E5%B2%81%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E5%A5%B8%E6%9D%80%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小区房价骤降有业主一夜损失超50万](https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA%E6%88%BF%E4%BB%B7%E9%AA%A4%E9%99%8D%E6%9C%89%E4%B8%9A%E4%B8%BB%E4%B8%80%E5%A4%9C%E6%8D%9F%E5%A4%B1%E8%B6%8550%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [基辛格访华一百多次 今年刚来过中国](https://www.baidu.com/s?wd=%E5%9F%BA%E8%BE%9B%E6%A0%BC%E8%AE%BF%E5%8D%8E%E4%B8%80%E7%99%BE%E5%A4%9A%E6%AC%A1+%E4%BB%8A%E5%B9%B4%E5%88%9A%E6%9D%A5%E8%BF%87%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [6名中国人在菲被绑架 4人已确认遇害](https://www.baidu.com/s?wd=6%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E8%8F%B2%E8%A2%AB%E7%BB%91%E6%9E%B6+4%E4%BA%BA%E5%B7%B2%E7%A1%AE%E8%AE%A4%E9%81%87%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [也许这就是未来世界](https://www.baidu.com/s?wd=%E4%B9%9F%E8%AE%B8%E8%BF%99%E5%B0%B1%E6%98%AF%E6%9C%AA%E6%9D%A5%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣预制板房将全部拆迁](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E9%A2%84%E5%88%B6%E6%9D%BF%E6%88%BF%E5%B0%86%E5%85%A8%E9%83%A8%E6%8B%86%E8%BF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [15岁女生被同学奸杀案二审维持无期](https://www.baidu.com/s?wd=15%E5%B2%81%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E5%A5%B8%E6%9D%80%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小区房价骤降有业主一夜损失超50万](https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA%E6%88%BF%E4%BB%B7%E9%AA%A4%E9%99%8D%E6%9C%89%E4%B8%9A%E4%B8%BB%E4%B8%80%E5%A4%9C%E6%8D%9F%E5%A4%B1%E8%B6%8550%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [基辛格访华一百多次 今年刚来过中国](https://www.baidu.com/s?wd=%E5%9F%BA%E8%BE%9B%E6%A0%BC%E8%AE%BF%E5%8D%8E%E4%B8%80%E7%99%BE%E5%A4%9A%E6%AC%A1+%E4%BB%8A%E5%B9%B4%E5%88%9A%E6%9D%A5%E8%BF%87%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [6名中国人在菲被绑架 4人已确认遇害](https://www.baidu.com/s?wd=6%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E8%8F%B2%E8%A2%AB%E7%BB%91%E6%9E%B6+4%E4%BA%BA%E5%B7%B2%E7%A1%AE%E8%AE%A4%E9%81%87%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [也许这就是未来世界](https://www.baidu.com/s?wd=%E4%B9%9F%E8%AE%B8%E8%BF%99%E5%B0%B1%E6%98%AF%E6%9C%AA%E6%9D%A5%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣预制板房将全部拆迁](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E9%A2%84%E5%88%B6%E6%9D%BF%E6%88%BF%E5%B0%86%E5%85%A8%E9%83%A8%E6%8B%86%E8%BF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
