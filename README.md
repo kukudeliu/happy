@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 16:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 16:32:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [李菲儿说这辈子不喝咖啡了](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%8F%B2%E5%84%BF%E8%AF%B4%E8%BF%99%E8%BE%88%E5%AD%90%E4%B8%8D%E5%96%9D%E5%92%96%E5%95%A1%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [12月这些新规施行](https://s.weibo.com/weibo?q=%2312%E6%9C%88%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E6%96%BD%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [韩国公务员想升职得先生娃](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%85%AC%E5%8A%A1%E5%91%98%E6%83%B3%E5%8D%87%E8%81%8C%E5%BE%97%E5%85%88%E7%94%9F%E5%A8%83%23&t=31&band_rank=4&Refer=top)<br />
-5. [皮肤黄 糖化](https://s.weibo.com/weibo?q=%E7%9A%AE%E8%82%A4%E9%BB%84%20%E7%B3%96%E5%8C%96&t=31&band_rank=5&Refer=top)<br />
-6. [杨鸣被曝离婚](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E8%A2%AB%E6%9B%9D%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=6&Refer=top)<br />
+5. [杨鸣被曝离婚](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E8%A2%AB%E6%9B%9D%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=5&Refer=top)<br />
+6. [皮肤黄 糖化](https://s.weibo.com/weibo?q=%E7%9A%AE%E8%82%A4%E9%BB%84%20%E7%B3%96%E5%8C%96&t=31&band_rank=6&Refer=top)<br />
 7. [王蓉外网仿妆](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%93%89%E5%A4%96%E7%BD%91%E4%BB%BF%E5%A6%86&t=31&band_rank=7&Refer=top)<br />
 8. [TheShy获2023年度最受欢迎选手](https://s.weibo.com/weibo?q=%23TheShy%E8%8E%B72023%E5%B9%B4%E5%BA%A6%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E9%80%89%E6%89%8B%23&t=31&band_rank=8&Refer=top)<br />
 9. [狐厂 张凌赫归来仍是待爆](https://s.weibo.com/weibo?q=%E7%8B%90%E5%8E%82%20%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%BD%92%E6%9D%A5%E4%BB%8D%E6%98%AF%E5%BE%85%E7%88%86&t=31&band_rank=9&Refer=top)<br />
