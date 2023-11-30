@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 19:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 19:19:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [渐冻症女警长29年改造1900多名罪犯](https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E7%97%87%E5%A5%B3%E8%AD%A6%E9%95%BF29%E5%B9%B4%E6%94%B9%E9%80%A01900%E5%A4%9A%E5%90%8D%E7%BD%AA%E7%8A%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [张译 南极拒绝合影事件](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%AF%91%20%E5%8D%97%E6%9E%81%E6%8B%92%E7%BB%9D%E5%90%88%E5%BD%B1%E4%BA%8B%E4%BB%B6&t=31&band_rank=6&Refer=top)<br />
 7. [孕妇急性心衰5大科室主任压阵救援](https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E6%80%A5%E6%80%A7%E5%BF%83%E8%A1%B05%E5%A4%A7%E7%A7%91%E5%AE%A4%E4%B8%BB%E4%BB%BB%E5%8E%8B%E9%98%B5%E6%95%91%E6%8F%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [爷爷过世请不出丧假小伙遭亲戚埋怨](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E8%BF%87%E4%B8%96%E8%AF%B7%E4%B8%8D%E5%87%BA%E4%B8%A7%E5%81%87%E5%B0%8F%E4%BC%99%E9%81%AD%E4%BA%B2%E6%88%9A%E5%9F%8B%E6%80%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨鸣被曝离婚](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E8%A2%AB%E6%9B%9D%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
+8. [杨鸣被曝离婚](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E8%A2%AB%E6%9B%9D%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [爷爷过世请不出丧假小伙遭亲戚埋怨](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E8%BF%87%E4%B8%96%E8%AF%B7%E4%B8%8D%E5%87%BA%E4%B8%A7%E5%81%87%E5%B0%8F%E4%BC%99%E9%81%AD%E4%BA%B2%E6%88%9A%E5%9F%8B%E6%80%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [一县城临聘人员工资已超全县总税收](https://www.baidu.com/s?wd=%E4%B8%80%E5%8E%BF%E5%9F%8E%E4%B8%B4%E8%81%98%E4%BA%BA%E5%91%98%E5%B7%A5%E8%B5%84%E5%B7%B2%E8%B6%85%E5%85%A8%E5%8E%BF%E6%80%BB%E7%A8%8E%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [爷爷过世请不了丧假小伙遭亲戚埋怨](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E8%BF%87%E4%B8%96%E8%AF%B7%E4%B8%8D%E4%BA%86%E4%B8%A7%E5%81%87%E5%B0%8F%E4%BC%99%E9%81%AD%E4%BA%B2%E6%88%9A%E5%9F%8B%E6%80%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [朱丹被骗案判决书](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%B9%E8%A2%AB%E9%AA%97%E6%A1%88%E5%88%A4%E5%86%B3%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [阿里车祸者父亲：不清楚小姑姑身份](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BD%A6%E7%A5%B8%E8%80%85%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B8%8D%E6%B8%85%E6%A5%9A%E5%B0%8F%E5%A7%91%E5%A7%91%E8%BA%AB%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河北医大通报火情：系实验室起火](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%8C%BB%E5%A4%A7%E9%80%9A%E6%8A%A5%E7%81%AB%E6%83%85%EF%BC%9A%E7%B3%BB%E5%AE%9E%E9%AA%8C%E5%AE%A4%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣预制板房将全部拆迁](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E9%A2%84%E5%88%B6%E6%9D%BF%E6%88%BF%E5%B0%86%E5%85%A8%E9%83%A8%E6%8B%86%E8%BF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [一县城临聘人员工资已超全县总税收](https://www.baidu.com/s?wd=%E4%B8%80%E5%8E%BF%E5%9F%8E%E4%B8%B4%E8%81%98%E4%BA%BA%E5%91%98%E5%B7%A5%E8%B5%84%E5%B7%B2%E8%B6%85%E5%85%A8%E5%8E%BF%E6%80%BB%E7%A8%8E%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [爷爷过世请不了丧假小伙遭亲戚埋怨](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E8%BF%87%E4%B8%96%E8%AF%B7%E4%B8%8D%E4%BA%86%E4%B8%A7%E5%81%87%E5%B0%8F%E4%BC%99%E9%81%AD%E4%BA%B2%E6%88%9A%E5%9F%8B%E6%80%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [朱丹被骗案判决书](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%B9%E8%A2%AB%E9%AA%97%E6%A1%88%E5%88%A4%E5%86%B3%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [阿里车祸者父亲：不清楚小姑姑身份](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E8%BD%A6%E7%A5%B8%E8%80%85%E7%88%B6%E4%BA%B2%EF%BC%9A%E4%B8%8D%E6%B8%85%E6%A5%9A%E5%B0%8F%E5%A7%91%E5%A7%91%E8%BA%AB%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河北医大通报火情：系实验室起火](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%8C%BB%E5%A4%A7%E9%80%9A%E6%8A%A5%E7%81%AB%E6%83%85%EF%BC%9A%E7%B3%BB%E5%AE%9E%E9%AA%8C%E5%AE%A4%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣预制板房将全部拆迁](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E9%A2%84%E5%88%B6%E6%9D%BF%E6%88%BF%E5%B0%86%E5%85%A8%E9%83%A8%E6%8B%86%E8%BF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
