@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 19:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 19:44:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [12月一批民生新规开始施行](https://www.baidu.com/s?wd=12%E6%9C%88%E4%B8%80%E6%89%B9%E6%B0%91%E7%94%9F%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [一县城临聘人员工资已超全县总税收](https://www.baidu.com/s?wd=%E4%B8%80%E5%8E%BF%E5%9F%8E%E4%B8%B4%E8%81%98%E4%BA%BA%E5%91%98%E5%B7%A5%E8%B5%84%E5%B7%B2%E8%B6%85%E5%85%A8%E5%8E%BF%E6%80%BB%E7%A8%8E%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [爷爷过世请不了丧假小伙遭亲戚埋怨](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E8%BF%87%E4%B8%96%E8%AF%B7%E4%B8%8D%E4%BA%86%E4%B8%A7%E5%81%87%E5%B0%8F%E4%BC%99%E9%81%AD%E4%BA%B2%E6%88%9A%E5%9F%8B%E6%80%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [四川外卖小哥下水救完人继续送餐](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%8B%E6%B0%B4%E6%95%91%E5%AE%8C%E4%BA%BA%E7%BB%A7%E7%BB%AD%E9%80%81%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [朱丹被骗案判决书](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%B9%E8%A2%AB%E9%AA%97%E6%A1%88%E5%88%A4%E5%86%B3%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [朱丹被骗案判决书](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%B9%E8%A2%AB%E9%AA%97%E6%A1%88%E5%88%A4%E5%86%B3%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多个品牌黄金零售价每克突破600元](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E5%93%81%E7%89%8C%E9%BB%84%E9%87%91%E9%9B%B6%E5%94%AE%E4%BB%B7%E6%AF%8F%E5%85%8B%E7%AA%81%E7%A0%B4600%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣广西两地出现野生老虎](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%B9%BF%E8%A5%BF%E4%B8%A4%E5%9C%B0%E5%87%BA%E7%8E%B0%E9%87%8E%E7%94%9F%E8%80%81%E8%99%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [12月一批民生新规开始施行](https://www.baidu.com/s?wd=12%E6%9C%88%E4%B8%80%E6%89%B9%E6%B0%91%E7%94%9F%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [一县城临聘人员工资已超全县总税收](https://www.baidu.com/s?wd=%E4%B8%80%E5%8E%BF%E5%9F%8E%E4%B8%B4%E8%81%98%E4%BA%BA%E5%91%98%E5%B7%A5%E8%B5%84%E5%B7%B2%E8%B6%85%E5%85%A8%E5%8E%BF%E6%80%BB%E7%A8%8E%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [爷爷过世请不了丧假小伙遭亲戚埋怨](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E8%BF%87%E4%B8%96%E8%AF%B7%E4%B8%8D%E4%BA%86%E4%B8%A7%E5%81%87%E5%B0%8F%E4%BC%99%E9%81%AD%E4%BA%B2%E6%88%9A%E5%9F%8B%E6%80%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [四川外卖小哥下水救完人继续送餐](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%8B%E6%B0%B4%E6%95%91%E5%AE%8C%E4%BA%BA%E7%BB%A7%E7%BB%AD%E9%80%81%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [朱丹被骗案判决书](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%B9%E8%A2%AB%E9%AA%97%E6%A1%88%E5%88%A4%E5%86%B3%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [朱丹被骗案判决书](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%B9%E8%A2%AB%E9%AA%97%E6%A1%88%E5%88%A4%E5%86%B3%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多个品牌黄金零售价每克突破600元](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E5%93%81%E7%89%8C%E9%BB%84%E9%87%91%E9%9B%B6%E5%94%AE%E4%BB%B7%E6%AF%8F%E5%85%8B%E7%AA%81%E7%A0%B4600%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣广西两地出现野生老虎](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%B9%BF%E8%A5%BF%E4%B8%A4%E5%9C%B0%E5%87%BA%E7%8E%B0%E9%87%8E%E7%94%9F%E8%80%81%E8%99%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
