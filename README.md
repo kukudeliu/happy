@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 12:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 12:43:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [基辛格去世 享年100岁](https://www.baidu.com/s?wd=%E5%9F%BA%E8%BE%9B%E6%A0%BC%E5%8E%BB%E4%B8%96+%E4%BA%AB%E5%B9%B4100%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [拼多多人均创收1222万](https://www.baidu.com/s?wd=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E4%BA%BA%E5%9D%87%E5%88%9B%E6%94%B61222%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多地推动一刻钟便民生活圈建设](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%8E%A8%E5%8A%A8%E4%B8%80%E5%88%BB%E9%92%9F%E4%BE%BF%E6%B0%91%E7%94%9F%E6%B4%BB%E5%9C%88%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [小区房价骤降有业主一夜损失超50万](https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA%E6%88%BF%E4%BB%B7%E9%AA%A4%E9%99%8D%E6%9C%89%E4%B8%9A%E4%B8%BB%E4%B8%80%E5%A4%9C%E6%8D%9F%E5%A4%B1%E8%B6%8550%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [河北医科大学一教学楼突发大火](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E4%B8%80%E6%95%99%E5%AD%A6%E6%A5%BC%E7%AA%81%E5%8F%91%E5%A4%A7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [15岁女生被同学奸杀案二审维持无期](https://www.baidu.com/s?wd=15%E5%B2%81%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E5%A5%B8%E6%9D%80%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [基辛格访华一百多次 今年刚来过中国](https://www.baidu.com/s?wd=%E5%9F%BA%E8%BE%9B%E6%A0%BC%E8%AE%BF%E5%8D%8E%E4%B8%80%E7%99%BE%E5%A4%9A%E6%AC%A1+%E4%BB%8A%E5%B9%B4%E5%88%9A%E6%9D%A5%E8%BF%87%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [也许这就是未来世界](https://www.baidu.com/s?wd=%E4%B9%9F%E8%AE%B8%E8%BF%99%E5%B0%B1%E6%98%AF%E6%9C%AA%E6%9D%A5%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [基辛格去世 享年100岁](https://www.baidu.com/s?wd=%E5%9F%BA%E8%BE%9B%E6%A0%BC%E5%8E%BB%E4%B8%96+%E4%BA%AB%E5%B9%B4100%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [拼多多人均创收1222万](https://www.baidu.com/s?wd=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E4%BA%BA%E5%9D%87%E5%88%9B%E6%94%B61222%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多地推动一刻钟便民生活圈建设](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%8E%A8%E5%8A%A8%E4%B8%80%E5%88%BB%E9%92%9F%E4%BE%BF%E6%B0%91%E7%94%9F%E6%B4%BB%E5%9C%88%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [小区房价骤降有业主一夜损失超50万](https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA%E6%88%BF%E4%BB%B7%E9%AA%A4%E9%99%8D%E6%9C%89%E4%B8%9A%E4%B8%BB%E4%B8%80%E5%A4%9C%E6%8D%9F%E5%A4%B1%E8%B6%8550%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [河北医科大学一教学楼突发大火](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E4%B8%80%E6%95%99%E5%AD%A6%E6%A5%BC%E7%AA%81%E5%8F%91%E5%A4%A7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [15岁女生被同学奸杀案二审维持无期](https://www.baidu.com/s?wd=15%E5%B2%81%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E5%A5%B8%E6%9D%80%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [基辛格访华一百多次 今年刚来过中国](https://www.baidu.com/s?wd=%E5%9F%BA%E8%BE%9B%E6%A0%BC%E8%AE%BF%E5%8D%8E%E4%B8%80%E7%99%BE%E5%A4%9A%E6%AC%A1+%E4%BB%8A%E5%B9%B4%E5%88%9A%E6%9D%A5%E8%BF%87%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [也许这就是未来世界](https://www.baidu.com/s?wd=%E4%B9%9F%E8%AE%B8%E8%BF%99%E5%B0%B1%E6%98%AF%E6%9C%AA%E6%9D%A5%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
