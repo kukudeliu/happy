@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 15:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 15:39:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [海底捞跳科目三有顾客嫌吵起冲突报警](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E6%9C%89%E9%A1%BE%E5%AE%A2%E5%AB%8C%E5%90%B5%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [12月这些新规施行](https://s.weibo.com/weibo?q=%2312%E6%9C%88%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E6%96%BD%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [李菲儿说这辈子不喝咖啡了](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%8F%B2%E5%84%BF%E8%AF%B4%E8%BF%99%E8%BE%88%E5%AD%90%E4%B8%8D%E5%96%9D%E5%92%96%E5%95%A1%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
-5. [LV香港大秀明星阵容](https://s.weibo.com/weibo?q=%23LV%E9%A6%99%E6%B8%AF%E5%A4%A7%E7%A7%80%E6%98%8E%E6%98%9F%E9%98%B5%E5%AE%B9%23&t=31&band_rank=5&Refer=top)<br />
-6. [何蓝逗累了换我上去演会儿](https://s.weibo.com/weibo?q=%E4%BD%95%E8%93%9D%E9%80%97%E7%B4%AF%E4%BA%86%E6%8D%A2%E6%88%91%E4%B8%8A%E5%8E%BB%E6%BC%94%E4%BC%9A%E5%84%BF&t=31&band_rank=6&Refer=top)<br />
+5. [何蓝逗累了换我上去演会儿](https://s.weibo.com/weibo?q=%E4%BD%95%E8%93%9D%E9%80%97%E7%B4%AF%E4%BA%86%E6%8D%A2%E6%88%91%E4%B8%8A%E5%8E%BB%E6%BC%94%E4%BC%9A%E5%84%BF&t=31&band_rank=5&Refer=top)<br />
+6. [LV香港大秀明星阵容](https://s.weibo.com/weibo?q=%23LV%E9%A6%99%E6%B8%AF%E5%A4%A7%E7%A7%80%E6%98%8E%E6%98%9F%E9%98%B5%E5%AE%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [MAMA歧视女团惹争议](https://s.weibo.com/weibo?q=%23MAMA%E6%AD%A7%E8%A7%86%E5%A5%B3%E5%9B%A2%E6%83%B9%E4%BA%89%E8%AE%AE%23&t=31&band_rank=7&Refer=top)<br />
 8. [如果霍建华饰演一念关山](https://s.weibo.com/weibo?q=%E5%A6%82%E6%9E%9C%E9%9C%8D%E5%BB%BA%E5%8D%8E%E9%A5%B0%E6%BC%94%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1&t=31&band_rank=8&Refer=top)<br />
-9. [菲律宾警方确认被绑6名中国人4人被撕票](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%AD%A6%E6%96%B9%E7%A1%AE%E8%AE%A4%E8%A2%AB%E7%BB%916%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA4%E4%BA%BA%E8%A2%AB%E6%92%95%E7%A5%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [易中天称雷军捐13亿让他深感惭愧](https://s.weibo.com/weibo?q=%23%E6%98%93%E4%B8%AD%E5%A4%A9%E7%A7%B0%E9%9B%B7%E5%86%9B%E6%8D%9013%E4%BA%BF%E8%AE%A9%E4%BB%96%E6%B7%B1%E6%84%9F%E6%83%AD%E6%84%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
