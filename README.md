@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 18:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-11-30 18:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [爷爷过世请不出丧假小伙遭亲戚埋怨](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E8%BF%87%E4%B8%96%E8%AF%B7%E4%B8%8D%E5%87%BA%E4%B8%A7%E5%81%87%E5%B0%8F%E4%BC%99%E9%81%AD%E4%BA%B2%E6%88%9A%E5%9F%8B%E6%80%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [渐冻症女警长29年改造1900多名罪犯](https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E7%97%87%E5%A5%B3%E8%AD%A6%E9%95%BF29%E5%B9%B4%E6%94%B9%E9%80%A01900%E5%A4%9A%E5%90%8D%E7%BD%AA%E7%8A%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨鸣被曝离婚](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E8%A2%AB%E6%9B%9D%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [老师 我们家子涵](https://s.weibo.com/weibo?q=%E8%80%81%E5%B8%88%20%E6%88%91%E4%BB%AC%E5%AE%B6%E5%AD%90%E6%B6%B5&t=31&band_rank=9&Refer=top)<br />
+9. [张译 南极拒绝合影事件](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%AF%91%20%E5%8D%97%E6%9E%81%E6%8B%92%E7%BB%9D%E5%90%88%E5%BD%B1%E4%BA%8B%E4%BB%B6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
