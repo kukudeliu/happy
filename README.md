@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 09:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 09:08:01</h4></div>
 
 > 微博  
 
 1. [谢娜 产后抑郁](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E4%BA%A7%E5%90%8E%E6%8A%91%E9%83%81&t=31&band_rank=1&Refer=top)<br />
-2. [男子取现50万当街被抢劫匪竟是电诈同伙](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%96%E7%8E%B050%E4%B8%87%E5%BD%93%E8%A1%97%E8%A2%AB%E6%8A%A2%E5%8A%AB%E5%8C%AA%E7%AB%9F%E6%98%AF%E7%94%B5%E8%AF%88%E5%90%8C%E4%BC%99%23&t=31&band_rank=2&Refer=top)<br />
+2. [女生为避无效社交朋友圈发文不随礼](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B8%BA%E9%81%BF%E6%97%A0%E6%95%88%E7%A4%BE%E4%BA%A4%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E6%96%87%E4%B8%8D%E9%9A%8F%E7%A4%BC%23&t=31&band_rank=2&Refer=top)<br />
 3. [国之重器背后的中国链](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%8B%E9%87%8D%E5%99%A8%E8%83%8C%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%93%BE%23&t=31&band_rank=3&Refer=top)<br />
-4. [女生为避无效社交朋友圈发文不随礼](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B8%BA%E9%81%BF%E6%97%A0%E6%95%88%E7%A4%BE%E4%BA%A4%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E6%96%87%E4%B8%8D%E9%9A%8F%E7%A4%BC%23&t=31&band_rank=4&Refer=top)<br />
+4. [男子取现50万当街被抢劫匪竟是电诈同伙](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%96%E7%8E%B050%E4%B8%87%E5%BD%93%E8%A1%97%E8%A2%AB%E6%8A%A2%E5%8A%AB%E5%8C%AA%E7%AB%9F%E6%98%AF%E7%94%B5%E8%AF%88%E5%90%8C%E4%BC%99%23&t=31&band_rank=4&Refer=top)<br />
 5. [张家妍男朋友](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E5%A6%8D%E7%94%B7%E6%9C%8B%E5%8F%8B&t=31&band_rank=5&Refer=top)<br />
 6. [十二月狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E5%8D%81%E4%BA%8C%E6%9C%88%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=6&Refer=top)<br />
 7. [杨鸣 思思](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3%20%E6%80%9D%E6%80%9D&t=31&band_rank=7&Refer=top)<br />
