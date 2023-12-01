@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 17:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 17:57:01</h4></div>
 
 > 微博  
 
 1. [梨泰院踩踏事故 纪录片](https://s.weibo.com/weibo?q=%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%20%E7%BA%AA%E5%BD%95%E7%89%87&t=31&band_rank=1&Refer=top)<br />
-2. [冰冷的40亿](https://s.weibo.com/weibo?q=%E5%86%B0%E5%86%B7%E7%9A%8440%E4%BA%BF&t=31&band_rank=2&Refer=top)<br />
+2. [骗子AI换脸成领导民警9分钟追156万](https://s.weibo.com/weibo?q=%23%E9%AA%97%E5%AD%90AI%E6%8D%A2%E8%84%B8%E6%88%90%E9%A2%86%E5%AF%BC%E6%B0%91%E8%AD%A69%E5%88%86%E9%92%9F%E8%BF%BD156%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [链博会展示花式发电方法](https://s.weibo.com/weibo?q=%23%E9%93%BE%E5%8D%9A%E4%BC%9A%E5%B1%95%E7%A4%BA%E8%8A%B1%E5%BC%8F%E5%8F%91%E7%94%B5%E6%96%B9%E6%B3%95%23&t=31&band_rank=3&Refer=top)<br />
-4. [王鹤棣 纹身](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E7%BA%B9%E8%BA%AB&t=31&band_rank=4&Refer=top)<br />
-5. [中S和汪大菲](https://s.weibo.com/weibo?q=%E4%B8%ADS%E5%92%8C%E6%B1%AA%E5%A4%A7%E8%8F%B2&t=31&band_rank=5&Refer=top)<br />
-6. [杨幂赵丽颖 酱园弄](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E9%85%B1%E5%9B%AD%E5%BC%84&t=31&band_rank=6&Refer=top)<br />
-7. [骗子AI换脸成领导民警9分钟追156万](https://s.weibo.com/weibo?q=%23%E9%AA%97%E5%AD%90AI%E6%8D%A2%E8%84%B8%E6%88%90%E9%A2%86%E5%AF%BC%E6%B0%91%E8%AD%A69%E5%88%86%E9%92%9F%E8%BF%BD156%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [新老民警接力办案找回25年前失踪儿童](https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%80%81%E6%B0%91%E8%AD%A6%E6%8E%A5%E5%8A%9B%E5%8A%9E%E6%A1%88%E6%89%BE%E5%9B%9E25%E5%B9%B4%E5%89%8D%E5%A4%B1%E8%B8%AA%E5%84%BF%E7%AB%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [4个少年意外走入镜头画面氛围感拉满](https://s.weibo.com/weibo?q=%234%E4%B8%AA%E5%B0%91%E5%B9%B4%E6%84%8F%E5%A4%96%E8%B5%B0%E5%85%A5%E9%95%9C%E5%A4%B4%E7%94%BB%E9%9D%A2%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=9&Refer=top)<br />
+4. [冰冷的40亿](https://s.weibo.com/weibo?q=%E5%86%B0%E5%86%B7%E7%9A%8440%E4%BA%BF&t=31&band_rank=4&Refer=top)<br />
+5. [4个少年意外走入镜头画面氛围感拉满](https://s.weibo.com/weibo?q=%234%E4%B8%AA%E5%B0%91%E5%B9%B4%E6%84%8F%E5%A4%96%E8%B5%B0%E5%85%A5%E9%95%9C%E5%A4%B4%E7%94%BB%E9%9D%A2%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=5&Refer=top)<br />
+6. [中S和汪大菲](https://s.weibo.com/weibo?q=%E4%B8%ADS%E5%92%8C%E6%B1%AA%E5%A4%A7%E8%8F%B2&t=31&band_rank=6&Refer=top)<br />
+7. [新老民警接力办案找回25年前失踪儿童](https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%80%81%E6%B0%91%E8%AD%A6%E6%8E%A5%E5%8A%9B%E5%8A%9E%E6%A1%88%E6%89%BE%E5%9B%9E25%E5%B9%B4%E5%89%8D%E5%A4%B1%E8%B8%AA%E5%84%BF%E7%AB%A5%23&t=31&band_rank=7&Refer=top)<br />
+8. [王鹤棣 纹身](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E7%BA%B9%E8%BA%AB&t=31&band_rank=8&Refer=top)<br />
+9. [杨幂赵丽颖 酱园弄](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E9%85%B1%E5%9B%AD%E5%BC%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
