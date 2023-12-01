@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 16:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 16:13:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [60秒看祖国各地冬日美景](https://s.weibo.com/weibo?q=%2360%E7%A7%92%E7%9C%8B%E7%A5%96%E5%9B%BD%E5%90%84%E5%9C%B0%E5%86%AC%E6%97%A5%E7%BE%8E%E6%99%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [王鹤棣 纹身](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E7%BA%B9%E8%BA%AB&t=31&band_rank=4&Refer=top)<br />
 5. [29岁中国男子刺死日本女友](https://s.weibo.com/weibo?q=%2329%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E5%88%BA%E6%AD%BB%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=5&Refer=top)<br />
-6. [疑似杨鸣老婆发文](https://s.weibo.com/weibo?q=%E7%96%91%E4%BC%BC%E6%9D%A8%E9%B8%A3%E8%80%81%E5%A9%86%E5%8F%91%E6%96%87&t=31&band_rank=6&Refer=top)<br />
-7. [女子提醒夫妻关远光灯被打致流产](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8F%90%E9%86%92%E5%A4%AB%E5%A6%BB%E5%85%B3%E8%BF%9C%E5%85%89%E7%81%AF%E8%A2%AB%E6%89%93%E8%87%B4%E6%B5%81%E4%BA%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [梨泰院踩踏事故 纪录片](https://s.weibo.com/weibo?q=%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%20%E7%BA%AA%E5%BD%95%E7%89%87&t=31&band_rank=8&Refer=top)<br />
+6. [梨泰院踩踏事故 纪录片](https://s.weibo.com/weibo?q=%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%20%E7%BA%AA%E5%BD%95%E7%89%87&t=31&band_rank=6&Refer=top)<br />
+7. [疑似杨鸣老婆发文](https://s.weibo.com/weibo?q=%E7%96%91%E4%BC%BC%E6%9D%A8%E9%B8%A3%E8%80%81%E5%A9%86%E5%8F%91%E6%96%87&t=31&band_rank=7&Refer=top)<br />
+8. [女子提醒夫妻关远光灯被打致流产](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8F%90%E9%86%92%E5%A4%AB%E5%A6%BB%E5%85%B3%E8%BF%9C%E5%85%89%E7%81%AF%E8%A2%AB%E6%89%93%E8%87%B4%E6%B5%81%E4%BA%A7%23&t=31&band_rank=8&Refer=top)<br />
 9. [女子输血感染艾滋10年后才发现](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BE%93%E8%A1%80%E6%84%9F%E6%9F%93%E8%89%BE%E6%BB%8B10%E5%B9%B4%E5%90%8E%E6%89%8D%E5%8F%91%E7%8E%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
