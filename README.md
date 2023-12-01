@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 00:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 00:15:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [中国气象局发布大地磁暴预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B0%94%E8%B1%A1%E5%B1%80%E5%8F%91%E5%B8%83%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [唐嫣cos狂飙大嫂](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3cos%E7%8B%82%E9%A3%99%E5%A4%A7%E5%AB%82%23&t=31&band_rank=6&Refer=top)<br />
 7. [许嵩近期状态](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%B5%A9%E8%BF%91%E6%9C%9F%E7%8A%B6%E6%80%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [甘肃发现超亿吨级整装大油田](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%8F%91%E7%8E%B0%E8%B6%85%E4%BA%BF%E5%90%A8%E7%BA%A7%E6%95%B4%E8%A3%85%E5%A4%A7%E6%B2%B9%E7%94%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战 拉夫劳伦香氛](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E6%8B%89%E5%A4%AB%E5%8A%B3%E4%BC%A6%E9%A6%99%E6%B0%9B&t=31&band_rank=9&Refer=top)<br />
+8. [肖战 拉夫劳伦香氛](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E6%8B%89%E5%A4%AB%E5%8A%B3%E4%BC%A6%E9%A6%99%E6%B0%9B&t=31&band_rank=8&Refer=top)<br />
+9. [甘肃发现超亿吨级整装大油田](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%8F%91%E7%8E%B0%E8%B6%85%E4%BA%BF%E5%90%A8%E7%BA%A7%E6%95%B4%E8%A3%85%E5%A4%A7%E6%B2%B9%E7%94%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
