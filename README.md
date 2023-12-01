@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 09:26:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 09:27:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [微信好友上限](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E4%B8%8A%E9%99%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网红教授郑强被造谣出轨 嫌犯被抓](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E6%95%99%E6%8E%88%E9%83%91%E5%BC%BA%E8%A2%AB%E9%80%A0%E8%B0%A3%E5%87%BA%E8%BD%A8+%E5%AB%8C%E7%8A%AF%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [主持人朱丹被骗涉案公司已被吊销](https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9C%B1%E4%B8%B9%E8%A2%AB%E9%AA%97%E6%B6%89%E6%A1%88%E5%85%AC%E5%8F%B8%E5%B7%B2%E8%A2%AB%E5%90%8A%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方辟谣广西两地出现野生老虎](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%B9%BF%E8%A5%BF%E4%B8%A4%E5%9C%B0%E5%87%BA%E7%8E%B0%E9%87%8E%E7%94%9F%E8%80%81%E8%99%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这种药销量陡增！医生紧急提醒](https://www.baidu.com/s?wd=%E8%BF%99%E7%A7%8D%E8%8D%AF%E9%94%80%E9%87%8F%E9%99%A1%E5%A2%9E%EF%BC%81%E5%8C%BB%E7%94%9F%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [微信好友上限](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E4%B8%8A%E9%99%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网红教授郑强被造谣出轨 嫌犯被抓](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E6%95%99%E6%8E%88%E9%83%91%E5%BC%BA%E8%A2%AB%E9%80%A0%E8%B0%A3%E5%87%BA%E8%BD%A8+%E5%AB%8C%E7%8A%AF%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [主持人朱丹被骗涉案公司已被吊销](https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9C%B1%E4%B8%B9%E8%A2%AB%E9%AA%97%E6%B6%89%E6%A1%88%E5%85%AC%E5%8F%B8%E5%B7%B2%E8%A2%AB%E5%90%8A%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [官方辟谣广西两地出现野生老虎](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%B9%BF%E8%A5%BF%E4%B8%A4%E5%9C%B0%E5%87%BA%E7%8E%B0%E9%87%8E%E7%94%9F%E8%80%81%E8%99%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这种药销量陡增！医生紧急提醒](https://www.baidu.com/s?wd=%E8%BF%99%E7%A7%8D%E8%8D%AF%E9%94%80%E9%87%8F%E9%99%A1%E5%A2%9E%EF%BC%81%E5%8C%BB%E7%94%9F%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
