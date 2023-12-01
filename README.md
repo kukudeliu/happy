@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 10:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 10:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [同样是下暴雨 港剧vs内娱](https://s.weibo.com/weibo?q=%E5%90%8C%E6%A0%B7%E6%98%AF%E4%B8%8B%E6%9A%B4%E9%9B%A8%20%E6%B8%AF%E5%89%A7vs%E5%86%85%E5%A8%B1&t=31&band_rank=6&Refer=top)<br />
 7. [张家妍男朋友](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E5%A6%8D%E7%94%B7%E6%9C%8B%E5%8F%8B&t=31&band_rank=7&Refer=top)<br />
 8. [女生为避无效社交朋友圈发文不随礼](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B8%BA%E9%81%BF%E6%97%A0%E6%95%88%E7%A4%BE%E4%BA%A4%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E6%96%87%E4%B8%8D%E9%9A%8F%E7%A4%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [比酒精还厉害的肝脏刺客](https://s.weibo.com/weibo?q=%E6%AF%94%E9%85%92%E7%B2%BE%E8%BF%98%E5%8E%89%E5%AE%B3%E7%9A%84%E8%82%9D%E8%84%8F%E5%88%BA%E5%AE%A2&t=31&band_rank=9&Refer=top)<br />
+9. [因走红暂停生意鹅腿阿姨很着急](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E8%B5%B0%E7%BA%A2%E6%9A%82%E5%81%9C%E7%94%9F%E6%84%8F%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E5%BE%88%E7%9D%80%E6%80%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
