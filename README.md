@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 13:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 13:36:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [60秒看祖国各地冬日美景](https://s.weibo.com/weibo?q=%2360%E7%A7%92%E7%9C%8B%E7%A5%96%E5%9B%BD%E5%90%84%E5%9C%B0%E5%86%AC%E6%97%A5%E7%BE%8E%E6%99%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [女子输血感染艾滋10年后才发现](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BE%93%E8%A1%80%E6%84%9F%E6%9F%93%E8%89%BE%E6%BB%8B10%E5%B9%B4%E5%90%8E%E6%89%8D%E5%8F%91%E7%8E%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [刘宇宁体态](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E4%BD%93%E6%80%81%23&t=31&band_rank=5&Refer=top)<br />
-6. [韩国申博失败](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B3%E5%8D%9A%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=6&Refer=top)<br />
-7. [继承父母遗产属于夫妻共同财产吗](https://s.weibo.com/weibo?q=%23%E7%BB%A7%E6%89%BF%E7%88%B6%E6%AF%8D%E9%81%97%E4%BA%A7%E5%B1%9E%E4%BA%8E%E5%A4%AB%E5%A6%BB%E5%85%B1%E5%90%8C%E8%B4%A2%E4%BA%A7%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
+6. [继承父母遗产属于夫妻共同财产吗](https://s.weibo.com/weibo?q=%23%E7%BB%A7%E6%89%BF%E7%88%B6%E6%AF%8D%E9%81%97%E4%BA%A7%E5%B1%9E%E4%BA%8E%E5%A4%AB%E5%A6%BB%E5%85%B1%E5%90%8C%E8%B4%A2%E4%BA%A7%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
+7. [韩国申博失败](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B3%E5%8D%9A%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [王嘉尔北京演唱会取消](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88%23&t=31&band_rank=8&Refer=top)<br />
 9. [杨鸣 思思](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3%20%E6%80%9D%E6%80%9D&t=31&band_rank=9&Refer=top)<br />
 
