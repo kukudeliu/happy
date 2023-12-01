@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 19:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 19:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宋雨琦被工作人员阻止接信](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E8%A2%AB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E9%98%BB%E6%AD%A2%E6%8E%A5%E4%BF%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [新老民警接力办案找回25年前失踪儿童](https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%80%81%E6%B0%91%E8%AD%A6%E6%8E%A5%E5%8A%9B%E5%8A%9E%E6%A1%88%E6%89%BE%E5%9B%9E25%E5%B9%B4%E5%89%8D%E5%A4%B1%E8%B8%AA%E5%84%BF%E7%AB%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨幂赵丽颖 酱园弄](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E9%85%B1%E5%9B%AD%E5%BC%84&t=31&band_rank=8&Refer=top)<br />
-9. [亿万富豪找回丢失25年儿子](https://s.weibo.com/weibo?q=%23%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E6%89%BE%E5%9B%9E%E4%B8%A2%E5%A4%B125%E5%B9%B4%E5%84%BF%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [29岁中国男子刺死日本女友](https://s.weibo.com/weibo?q=%2329%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E5%88%BA%E6%AD%BB%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
