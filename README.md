@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 21:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 21:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [肿瘤医院的外卖骑手从不和顾客说再见](https://s.weibo.com/weibo?q=%23%E8%82%BF%E7%98%A4%E5%8C%BB%E9%99%A2%E7%9A%84%E5%A4%96%E5%8D%96%E9%AA%91%E6%89%8B%E4%BB%8E%E4%B8%8D%E5%92%8C%E9%A1%BE%E5%AE%A2%E8%AF%B4%E5%86%8D%E8%A7%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [小猫耳朵会被冻掉](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AB%E8%80%B3%E6%9C%B5%E4%BC%9A%E8%A2%AB%E5%86%BB%E6%8E%89&t=31&band_rank=7&Refer=top)<br />
 8. [易烊千玺vlog i人常态](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BAvlog%20i%E4%BA%BA%E5%B8%B8%E6%80%81&t=31&band_rank=8&Refer=top)<br />
-9. [女团为了不养猪宁愿睡桥洞](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%9B%A2%E4%B8%BA%E4%BA%86%E4%B8%8D%E5%85%BB%E7%8C%AA%E5%AE%81%E6%84%BF%E7%9D%A1%E6%A1%A5%E6%B4%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [你为什么不爱吃炸鸡了](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%88%B1%E5%90%83%E7%82%B8%E9%B8%A1%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
