@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 10:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 10:24:01</h4></div>
 
 > 微博  
 
 1. [一对艾滋夫妇的第19年](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AF%B9%E8%89%BE%E6%BB%8B%E5%A4%AB%E5%A6%87%E7%9A%84%E7%AC%AC19%E5%B9%B4%23&t=31&band_rank=1&Refer=top)<br />
 2. [杨鸣 思思](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3%20%E6%80%9D%E6%80%9D&t=31&band_rank=2&Refer=top)<br />
 3. [国之重器背后的中国链](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%8B%E9%87%8D%E5%99%A8%E8%83%8C%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%93%BE%23&t=31&band_rank=3&Refer=top)<br />
-4. [谢娜 产后抑郁](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E4%BA%A7%E5%90%8E%E6%8A%91%E9%83%81&t=31&band_rank=4&Refer=top)<br />
-5. [警方通报网红校长郑强被传包养情妇](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E7%BA%A2%E6%A0%A1%E9%95%BF%E9%83%91%E5%BC%BA%E8%A2%AB%E4%BC%A0%E5%8C%85%E5%85%BB%E6%83%85%E5%A6%87%23&t=31&band_rank=5&Refer=top)<br />
+4. [警方通报网红校长郑强被传包养情妇](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E7%BA%A2%E6%A0%A1%E9%95%BF%E9%83%91%E5%BC%BA%E8%A2%AB%E4%BC%A0%E5%8C%85%E5%85%BB%E6%83%85%E5%A6%87%23&t=31&band_rank=4&Refer=top)<br />
+5. [谢娜 产后抑郁](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E4%BA%A7%E5%90%8E%E6%8A%91%E9%83%81&t=31&band_rank=5&Refer=top)<br />
 6. [同样是下暴雨 港剧vs内娱](https://s.weibo.com/weibo?q=%E5%90%8C%E6%A0%B7%E6%98%AF%E4%B8%8B%E6%9A%B4%E9%9B%A8%20%E6%B8%AF%E5%89%A7vs%E5%86%85%E5%A8%B1&t=31&band_rank=6&Refer=top)<br />
 7. [张家妍男朋友](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E5%A6%8D%E7%94%B7%E6%9C%8B%E5%8F%8B&t=31&band_rank=7&Refer=top)<br />
 8. [女生为避无效社交朋友圈发文不随礼](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B8%BA%E9%81%BF%E6%97%A0%E6%95%88%E7%A4%BE%E4%BA%A4%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E6%96%87%E4%B8%8D%E9%9A%8F%E7%A4%BC%23&t=31&band_rank=8&Refer=top)<br />
