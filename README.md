@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 01:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 01:22:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [民警反诈劝阻真实现场](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%8F%8D%E8%AF%88%E5%8A%9D%E9%98%BB%E7%9C%9F%E5%AE%9E%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [胖东来员工不想上班请假不允许不批假](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD%E8%AF%B7%E5%81%87%E4%B8%8D%E5%85%81%E8%AE%B8%E4%B8%8D%E6%89%B9%E5%81%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [唐嫣cos狂飙大嫂](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3cos%E7%8B%82%E9%A3%99%E5%A4%A7%E5%AB%82%23&t=31&band_rank=5&Refer=top)<br />
-6. [小猫吃公司20根虫草主人含泪赔2千](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%90%83%E5%85%AC%E5%8F%B820%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [熬夜时身体在经历炎症风暴](https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E6%97%B6%E8%BA%AB%E4%BD%93%E5%9C%A8%E7%BB%8F%E5%8E%86%E7%82%8E%E7%97%87%E9%A3%8E%E6%9A%B4%23&t=31&band_rank=7&Refer=top)<br />
+6. [熬夜时身体在经历炎症风暴](https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E6%97%B6%E8%BA%AB%E4%BD%93%E5%9C%A8%E7%BB%8F%E5%8E%86%E7%82%8E%E7%97%87%E9%A3%8E%E6%9A%B4%23&t=31&band_rank=6&Refer=top)<br />
+7. [小猫吃公司20根虫草主人含泪赔2千](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%90%83%E5%85%AC%E5%8F%B820%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [脱轨](https://s.weibo.com/weibo?q=%E8%84%B1%E8%BD%A8&t=31&band_rank=8&Refer=top)<br />
 9. [许嵩近期状态](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%B5%A9%E8%BF%91%E6%9C%9F%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
 
