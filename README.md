@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 02:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 02:20:01</h4></div>
 
 > 微博  
 
 1. [熬夜时身体在经历炎症风暴](https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E6%97%B6%E8%BA%AB%E4%BD%93%E5%9C%A8%E7%BB%8F%E5%8E%86%E7%82%8E%E7%97%87%E9%A3%8E%E6%9A%B4%23&t=31&band_rank=1&Refer=top)<br />
 2. [中国气象局发布大地磁暴预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B0%94%E8%B1%A1%E5%B1%80%E5%8F%91%E5%B8%83%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [民警反诈劝阻真实现场](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%8F%8D%E8%AF%88%E5%8A%9D%E9%98%BB%E7%9C%9F%E5%AE%9E%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=3&Refer=top)<br />
-4. [甘肃酒泉地震](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E9%85%92%E6%B3%89%E5%9C%B0%E9%9C%87&t=31&band_rank=4&Refer=top)<br />
-5. [地震快讯](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%BF%AB%E8%AE%AF%23&t=31&band_rank=5&Refer=top)<br />
+4. [地震快讯](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%BF%AB%E8%AE%AF%23&t=31&band_rank=4&Refer=top)<br />
+5. [甘肃酒泉地震](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E9%85%92%E6%B3%89%E5%9C%B0%E9%9C%87&t=31&band_rank=5&Refer=top)<br />
 6. [北京极光](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%9E%81%E5%85%89&t=31&band_rank=6&Refer=top)<br />
 7. [胖东来员工不想上班请假不允许不批假](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD%E8%AF%B7%E5%81%87%E4%B8%8D%E5%85%81%E8%AE%B8%E4%B8%8D%E6%89%B9%E5%81%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [唐嫣cos狂飙大嫂](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3cos%E7%8B%82%E9%A3%99%E5%A4%A7%E5%AB%82%23&t=31&band_rank=8&Refer=top)<br />
