@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 09:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 09:34:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女生为避无效社交朋友圈发文不随礼](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E4%B8%BA%E9%81%BF%E6%97%A0%E6%95%88%E7%A4%BE%E4%BA%A4%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E6%96%87%E4%B8%8D%E9%9A%8F%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [微信好友上限](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E4%B8%8A%E9%99%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [主持人朱丹被骗涉案公司已被吊销](https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9C%B1%E4%B8%B9%E8%A2%AB%E9%AA%97%E6%B6%89%E6%A1%88%E5%85%AC%E5%8F%B8%E5%B7%B2%E8%A2%AB%E5%90%8A%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [三甲医院超收患者21万医疗费](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E8%B6%85%E6%94%B6%E6%82%A3%E8%80%8521%E4%B8%87%E5%8C%BB%E7%96%97%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [爷爷过世请不了丧假小伙遭亲戚埋怨](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E8%BF%87%E4%B8%96%E8%AF%B7%E4%B8%8D%E4%BA%86%E4%B8%A7%E5%81%87%E5%B0%8F%E4%BC%99%E9%81%AD%E4%BA%B2%E6%88%9A%E5%9F%8B%E6%80%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这种药销量陡增！医生紧急提醒](https://www.baidu.com/s?wd=%E8%BF%99%E7%A7%8D%E8%8D%AF%E9%94%80%E9%87%8F%E9%99%A1%E5%A2%9E%EF%BC%81%E5%8C%BB%E7%94%9F%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女生为避无效社交朋友圈发文不随礼](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E4%B8%BA%E9%81%BF%E6%97%A0%E6%95%88%E7%A4%BE%E4%BA%A4%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E6%96%87%E4%B8%8D%E9%9A%8F%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [微信好友上限](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E4%B8%8A%E9%99%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [主持人朱丹被骗涉案公司已被吊销](https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9C%B1%E4%B8%B9%E8%A2%AB%E9%AA%97%E6%B6%89%E6%A1%88%E5%85%AC%E5%8F%B8%E5%B7%B2%E8%A2%AB%E5%90%8A%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [三甲医院超收患者21万医疗费](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E8%B6%85%E6%94%B6%E6%82%A3%E8%80%8521%E4%B8%87%E5%8C%BB%E7%96%97%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [爷爷过世请不了丧假小伙遭亲戚埋怨](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E8%BF%87%E4%B8%96%E8%AF%B7%E4%B8%8D%E4%BA%86%E4%B8%A7%E5%81%87%E5%B0%8F%E4%BC%99%E9%81%AD%E4%BA%B2%E6%88%9A%E5%9F%8B%E6%80%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这种药销量陡增！医生紧急提醒](https://www.baidu.com/s?wd=%E8%BF%99%E7%A7%8D%E8%8D%AF%E9%94%80%E9%87%8F%E9%99%A1%E5%A2%9E%EF%BC%81%E5%8C%BB%E7%94%9F%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
