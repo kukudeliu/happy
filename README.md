@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 07:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 07:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [小伙熬夜打游戏关节长千颗白色颗粒](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%86%AC%E5%A4%9C%E6%89%93%E6%B8%B8%E6%88%8F%E5%85%B3%E8%8A%82%E9%95%BF%E5%8D%83%E9%A2%97%E7%99%BD%E8%89%B2%E9%A2%97%E7%B2%92%23&t=31&band_rank=5&Refer=top)<br />
 6. [陈志朋自我定位 顶流](https://s.weibo.com/weibo?q=%E9%99%88%E5%BF%97%E6%9C%8B%E8%87%AA%E6%88%91%E5%AE%9A%E4%BD%8D%20%E9%A1%B6%E6%B5%81&t=31&band_rank=6&Refer=top)<br />
 7. [小猫吃公司20根虫草主人含泪赔2千](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%90%83%E5%85%AC%E5%8F%B820%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [脱轨](https://s.weibo.com/weibo?q=%E8%84%B1%E8%BD%A8&t=31&band_rank=8&Refer=top)<br />
-9. [唐嫣cos狂飙大嫂](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3cos%E7%8B%82%E9%A3%99%E5%A4%A7%E5%AB%82%23&t=31&band_rank=9&Refer=top)<br />
+8. [村民称全村土地费存银行后不翼而飞](https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E7%A7%B0%E5%85%A8%E6%9D%91%E5%9C%9F%E5%9C%B0%E8%B4%B9%E5%AD%98%E9%93%B6%E8%A1%8C%E5%90%8E%E4%B8%8D%E7%BF%BC%E8%80%8C%E9%A3%9E%23&t=31&band_rank=8&Refer=top)<br />
+9. [芒市地震](https://s.weibo.com/weibo?q=%E8%8A%92%E5%B8%82%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
