@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 22:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 22:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [肖战 拉夫劳伦香氛](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E6%8B%89%E5%A4%AB%E5%8A%B3%E4%BC%A6%E9%A6%99%E6%B0%9B&t=31&band_rank=6&Refer=top)<br />
 7. [小猫吃公司20根虫草主人含泪赔2千](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%90%83%E5%85%AC%E5%8F%B820%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [地磁暴](https://s.weibo.com/weibo?q=%E5%9C%B0%E7%A3%81%E6%9A%B4&t=31&band_rank=8&Refer=top)<br />
-9. [任豪甚至写了一篇论文](https://s.weibo.com/weibo?q=%E4%BB%BB%E8%B1%AA%E7%94%9A%E8%87%B3%E5%86%99%E4%BA%86%E4%B8%80%E7%AF%87%E8%AE%BA%E6%96%87&t=31&band_rank=9&Refer=top)<br />
+9. [秦岚旗袍 辛芷蕾东北大花](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E6%97%97%E8%A2%8D%20%E8%BE%9B%E8%8A%B7%E8%95%BE%E4%B8%9C%E5%8C%97%E5%A4%A7%E8%8A%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
