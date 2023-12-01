@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 14:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 14:25:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [女子输血感染艾滋10年后才发现](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BE%93%E8%A1%80%E6%84%9F%E6%9F%93%E8%89%BE%E6%BB%8B10%E5%B9%B4%E5%90%8E%E6%89%8D%E5%8F%91%E7%8E%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [外卖员在星巴克休息被女子要求赶走](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%91%98%E5%9C%A8%E6%98%9F%E5%B7%B4%E5%85%8B%E4%BC%91%E6%81%AF%E8%A2%AB%E5%A5%B3%E5%AD%90%E8%A6%81%E6%B1%82%E8%B5%B6%E8%B5%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [韩国申博失败](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B3%E5%8D%9A%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=6&Refer=top)<br />
-7. [继承父母遗产属于夫妻共同财产吗](https://s.weibo.com/weibo?q=%23%E7%BB%A7%E6%89%BF%E7%88%B6%E6%AF%8D%E9%81%97%E4%BA%A7%E5%B1%9E%E4%BA%8E%E5%A4%AB%E5%A6%BB%E5%85%B1%E5%90%8C%E8%B4%A2%E4%BA%A7%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [2030年终结艾滋病](https://s.weibo.com/weibo?q=%232030%E5%B9%B4%E7%BB%88%E7%BB%93%E8%89%BE%E6%BB%8B%E7%97%85%23&t=31&band_rank=8&Refer=top)<br />
+7. [2030年终结艾滋病](https://s.weibo.com/weibo?q=%232030%E5%B9%B4%E7%BB%88%E7%BB%93%E8%89%BE%E6%BB%8B%E7%97%85%23&t=31&band_rank=7&Refer=top)<br />
+8. [继承父母遗产属于夫妻共同财产吗](https://s.weibo.com/weibo?q=%23%E7%BB%A7%E6%89%BF%E7%88%B6%E6%AF%8D%E9%81%97%E4%BA%A7%E5%B1%9E%E4%BA%8E%E5%A4%AB%E5%A6%BB%E5%85%B1%E5%90%8C%E8%B4%A2%E4%BA%A7%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [刘宇宁体态](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E4%BD%93%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
