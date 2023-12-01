@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 16:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 16:35:01</h4></div>
 
 > 微博  
 
-1. [第一学历歧视就像是留了案底](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%AD%A7%E8%A7%86%E5%B0%B1%E5%83%8F%E6%98%AF%E7%95%99%E4%BA%86%E6%A1%88%E5%BA%95%23&t=31&band_rank=1&Refer=top)<br />
-2. [梨泰院踩踏事故 纪录片](https://s.weibo.com/weibo?q=%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%20%E7%BA%AA%E5%BD%95%E7%89%87&t=31&band_rank=2&Refer=top)<br />
+1. [梨泰院踩踏事故 纪录片](https://s.weibo.com/weibo?q=%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%20%E7%BA%AA%E5%BD%95%E7%89%87&t=31&band_rank=1&Refer=top)<br />
+2. [第一学历歧视就像是留了案底](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%AD%A7%E8%A7%86%E5%B0%B1%E5%83%8F%E6%98%AF%E7%95%99%E4%BA%86%E6%A1%88%E5%BA%95%23&t=31&band_rank=2&Refer=top)<br />
 3. [大美中国](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [王鹤棣 纹身](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E7%BA%B9%E8%BA%AB&t=31&band_rank=4&Refer=top)<br />
 5. [疑似杨鸣老婆发文](https://s.weibo.com/weibo?q=%E7%96%91%E4%BC%BC%E6%9D%A8%E9%B8%A3%E8%80%81%E5%A9%86%E5%8F%91%E6%96%87&t=31&band_rank=5&Refer=top)<br />
