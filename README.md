@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 23:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 23:17:01</h4></div>
 
 > 微博  
 
-1. [中国气象局发布大地磁暴预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B0%94%E8%B1%A1%E5%B1%80%E5%8F%91%E5%B8%83%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%23&t=31&band_rank=1&Refer=top)<br />
-2. [甘肃酒泉地震](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E9%85%92%E6%B3%89%E5%9C%B0%E9%9C%87&t=31&band_rank=2&Refer=top)<br />
+1. [甘肃酒泉地震](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E9%85%92%E6%B3%89%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top)<br />
+2. [中国气象局发布大地磁暴预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B0%94%E8%B1%A1%E5%B1%80%E5%8F%91%E5%B8%83%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [雪龙号抵达中山站](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E9%BE%99%E5%8F%B7%E6%8A%B5%E8%BE%BE%E4%B8%AD%E5%B1%B1%E7%AB%99%23&t=31&band_rank=3&Refer=top)<br />
 4. [北京极光](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%9E%81%E5%85%89&t=31&band_rank=4&Refer=top)<br />
 5. [唐嫣cos狂飙大嫂](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3cos%E7%8B%82%E9%A3%99%E5%A4%A7%E5%AB%82%23&t=31&band_rank=5&Refer=top)<br />
