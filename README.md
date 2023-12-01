@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 17:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 18:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨幂赵丽颖 酱园弄](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E9%85%B1%E5%9B%AD%E5%BC%84&t=31&band_rank=6&Refer=top)<br />
 7. [新老民警接力办案找回25年前失踪儿童](https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%80%81%E6%B0%91%E8%AD%A6%E6%8E%A5%E5%8A%9B%E5%8A%9E%E6%A1%88%E6%89%BE%E5%9B%9E25%E5%B9%B4%E5%89%8D%E5%A4%B1%E8%B8%AA%E5%84%BF%E7%AB%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [冰冷的40亿](https://s.weibo.com/weibo?q=%E5%86%B0%E5%86%B7%E7%9A%8440%E4%BA%BF&t=31&band_rank=8&Refer=top)<br />
-9. [中S和汪大菲](https://s.weibo.com/weibo?q=%E4%B8%ADS%E5%92%8C%E6%B1%AA%E5%A4%A7%E8%8F%B2&t=31&band_rank=9&Refer=top)<br />
+9. [00后姑娘3份工作上班2年全款买房](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A7%91%E5%A8%983%E4%BB%BD%E5%B7%A5%E4%BD%9C%E4%B8%8A%E7%8F%AD2%E5%B9%B4%E5%85%A8%E6%AC%BE%E4%B9%B0%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
