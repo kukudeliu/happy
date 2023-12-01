@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 07:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 07:06:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [民警反诈劝阻真实现场](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%8F%8D%E8%AF%88%E5%8A%9D%E9%98%BB%E7%9C%9F%E5%AE%9E%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [北京极光](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%9E%81%E5%85%89&t=31&band_rank=4&Refer=top)<br />
 5. [小伙熬夜打游戏关节长千颗白色颗粒](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%86%AC%E5%A4%9C%E6%89%93%E6%B8%B8%E6%88%8F%E5%85%B3%E8%8A%82%E9%95%BF%E5%8D%83%E9%A2%97%E7%99%BD%E8%89%B2%E9%A2%97%E7%B2%92%23&t=31&band_rank=5&Refer=top)<br />
-6. [地震快讯](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%BF%AB%E8%AE%AF%23&t=31&band_rank=6&Refer=top)<br />
-7. [怎么查自己名下有几张电话卡](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E6%9F%A5%E8%87%AA%E5%B7%B1%E5%90%8D%E4%B8%8B%E6%9C%89%E5%87%A0%E5%BC%A0%E7%94%B5%E8%AF%9D%E5%8D%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [小猫吃公司20根虫草主人含泪赔2千](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%90%83%E5%85%AC%E5%8F%B820%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈志朋自我定位 顶流](https://s.weibo.com/weibo?q=%E9%99%88%E5%BF%97%E6%9C%8B%E8%87%AA%E6%88%91%E5%AE%9A%E4%BD%8D%20%E9%A1%B6%E6%B5%81&t=31&band_rank=9&Refer=top)<br />
+6. [怎么查自己名下有几张电话卡](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E6%9F%A5%E8%87%AA%E5%B7%B1%E5%90%8D%E4%B8%8B%E6%9C%89%E5%87%A0%E5%BC%A0%E7%94%B5%E8%AF%9D%E5%8D%A1%23&t=31&band_rank=6&Refer=top)<br />
+7. [小猫吃公司20根虫草主人含泪赔2千](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%90%83%E5%85%AC%E5%8F%B820%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [陈志朋自我定位 顶流](https://s.weibo.com/weibo?q=%E9%99%88%E5%BF%97%E6%9C%8B%E8%87%AA%E6%88%91%E5%AE%9A%E4%BD%8D%20%E9%A1%B6%E6%B5%81&t=31&band_rank=8&Refer=top)<br />
+9. [甘肃酒泉地震](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E9%85%92%E6%B3%89%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
