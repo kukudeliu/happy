@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 22:43:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 22:44:02</h4></div>
 
 > 微博  
 
-1. [唐嫣cos狂飙大嫂](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3cos%E7%8B%82%E9%A3%99%E5%A4%A7%E5%AB%82%23&t=31&band_rank=1&Refer=top)<br />
-2. [四川广东重现绿码](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%B9%BF%E4%B8%9C%E9%87%8D%E7%8E%B0%E7%BB%BF%E7%A0%81%23&t=31&band_rank=2&Refer=top)<br />
+1. [四川广东重现绿码](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%B9%BF%E4%B8%9C%E9%87%8D%E7%8E%B0%E7%BB%BF%E7%A0%81%23&t=31&band_rank=1&Refer=top)<br />
+2. [唐嫣cos狂飙大嫂](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3cos%E7%8B%82%E9%A3%99%E5%A4%A7%E5%AB%82%23&t=31&band_rank=2&Refer=top)<br />
 3. [雪龙号抵达中山站](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E9%BE%99%E5%8F%B7%E6%8A%B5%E8%BE%BE%E4%B8%AD%E5%B1%B1%E7%AB%99%23&t=31&band_rank=3&Refer=top)<br />
 4. [北京极光](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%9E%81%E5%85%89&t=31&band_rank=4&Refer=top)<br />
 5. [中国气象局发布大地磁暴预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B0%94%E8%B1%A1%E5%B1%80%E5%8F%91%E5%B8%83%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [肖战 拉夫劳伦香氛](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E6%8B%89%E5%A4%AB%E5%8A%B3%E4%BC%A6%E9%A6%99%E6%B0%9B&t=31&band_rank=6&Refer=top)<br />
 7. [地磁暴](https://s.weibo.com/weibo?q=%E5%9C%B0%E7%A3%81%E6%9A%B4&t=31&band_rank=7&Refer=top)<br />
 8. [小猫吃公司20根虫草主人含泪赔2千](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%90%83%E5%85%AC%E5%8F%B820%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [秦岚旗袍 辛芷蕾东北大花](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E6%97%97%E8%A2%8D%20%E8%BE%9B%E8%8A%B7%E8%95%BE%E4%B8%9C%E5%8C%97%E5%A4%A7%E8%8A%B1&t=31&band_rank=9&Refer=top)<br />
+9. [甘肃发现超亿吨级整装大油田](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%8F%91%E7%8E%B0%E8%B6%85%E4%BA%BF%E5%90%A8%E7%BA%A7%E6%95%B4%E8%A3%85%E5%A4%A7%E6%B2%B9%E7%94%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
