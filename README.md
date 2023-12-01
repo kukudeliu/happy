@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 08:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 08:56:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [张家妍男朋友](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E5%A6%8D%E7%94%B7%E6%9C%8B%E5%8F%8B&t=31&band_rank=5&Refer=top)<br />
 6. [十二月狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E5%8D%81%E4%BA%8C%E6%9C%88%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=6&Refer=top)<br />
 7. [刘耀文LV酒会跳舞](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87LV%E9%85%92%E4%BC%9A%E8%B7%B3%E8%88%9E%23&t=31&band_rank=7&Refer=top)<br />
-8. [一念关山 AI换脸](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20AI%E6%8D%A2%E8%84%B8&t=31&band_rank=8&Refer=top)<br />
-9. [微信好友上限](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E4%B8%8A%E9%99%90&t=31&band_rank=9&Refer=top)<br />
+8. [微信好友上限](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E4%B8%8A%E9%99%90&t=31&band_rank=8&Refer=top)<br />
+9. [一念关山 AI换脸](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20AI%E6%8D%A2%E8%84%B8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
