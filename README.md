@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 18:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 18:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [声生不息 乌合麒麟海报解读](https://s.weibo.com/weibo?q=%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%20%E4%B9%8C%E5%90%88%E9%BA%92%E9%BA%9F%E6%B5%B7%E6%8A%A5%E8%A7%A3%E8%AF%BB&t=31&band_rank=6&Refer=top)<br />
 7. [新老民警接力办案找回25年前失踪儿童](https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%80%81%E6%B0%91%E8%AD%A6%E6%8E%A5%E5%8A%9B%E5%8A%9E%E6%A1%88%E6%89%BE%E5%9B%9E25%E5%B9%B4%E5%89%8D%E5%A4%B1%E8%B8%AA%E5%84%BF%E7%AB%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [亿万富豪找回丢失25年儿子](https://s.weibo.com/weibo?q=%23%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E6%89%BE%E5%9B%9E%E4%B8%A2%E5%A4%B125%E5%B9%B4%E5%84%BF%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [00后姑娘3份工作上班2年全款买房](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A7%91%E5%A8%983%E4%BB%BD%E5%B7%A5%E4%BD%9C%E4%B8%8A%E7%8F%AD2%E5%B9%B4%E5%85%A8%E6%AC%BE%E4%B9%B0%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [小米回应冰冷的40亿](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E5%86%B0%E5%86%B7%E7%9A%8440%E4%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
