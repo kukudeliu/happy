@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 15:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 15:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [外卖员在星巴克休息被女子要求赶走](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%91%98%E5%9C%A8%E6%98%9F%E5%B7%B4%E5%85%8B%E4%BC%91%E6%81%AF%E8%A2%AB%E5%A5%B3%E5%AD%90%E8%A6%81%E6%B1%82%E8%B5%B6%E8%B5%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [姚政求婚成功](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%94%BF%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [2030年终结艾滋病](https://s.weibo.com/weibo?q=%232030%E5%B9%B4%E7%BB%88%E7%BB%93%E8%89%BE%E6%BB%8B%E7%97%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩国申博失败](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B3%E5%8D%9A%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [杨鸣 唐佳良](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3%20%E5%94%90%E4%BD%B3%E8%89%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
