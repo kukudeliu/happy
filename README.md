@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 19:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 19:34:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [呼吸道传染高发期 “绿码”重现？](https://www.baidu.com/s?wd=%E5%91%BC%E5%90%B8%E9%81%93%E4%BC%A0%E6%9F%93%E9%AB%98%E5%8F%91%E6%9C%9F+%E2%80%9C%E7%BB%BF%E7%A0%81%E2%80%9D%E9%87%8D%E7%8E%B0%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [上海科技创新的“闪亮名片”](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E7%9A%84%E2%80%9C%E9%97%AA%E4%BA%AE%E5%90%8D%E7%89%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [火车票退票不扣手续费了？12306回应](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%A5%A8%E9%80%80%E7%A5%A8%E4%B8%8D%E6%89%A3%E6%89%8B%E7%BB%AD%E8%B4%B9%E4%BA%86%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [微信好友上限](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E4%B8%8A%E9%99%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子买韭菜炒出像洗衣液绿色汤汁](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B0%E9%9F%AD%E8%8F%9C%E7%82%92%E5%87%BA%E5%83%8F%E6%B4%97%E8%A1%A3%E6%B6%B2%E7%BB%BF%E8%89%B2%E6%B1%A4%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [申博意外惨败 韩国应该反思什么](https://www.baidu.com/s?wd=%E7%94%B3%E5%8D%9A%E6%84%8F%E5%A4%96%E6%83%A8%E8%B4%A5+%E9%9F%A9%E5%9B%BD%E5%BA%94%E8%AF%A5%E5%8F%8D%E6%80%9D%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [主持人朱丹被骗涉案公司已被吊销](https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9C%B1%E4%B8%B9%E8%A2%AB%E9%AA%97%E6%B6%89%E6%A1%88%E5%85%AC%E5%8F%B8%E5%B7%B2%E8%A2%AB%E5%90%8A%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [王思聪“上班” 王健林“闯关”](https://www.baidu.com/s?wd=%E7%8E%8B%E6%80%9D%E8%81%AA%E2%80%9C%E4%B8%8A%E7%8F%AD%E2%80%9D+%E7%8E%8B%E5%81%A5%E6%9E%97%E2%80%9C%E9%97%AF%E5%85%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [微信好友上限](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E4%B8%8A%E9%99%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [福州辟谣医院小楼倒塌呈45度](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E8%BE%9F%E8%B0%A3%E5%8C%BB%E9%99%A2%E5%B0%8F%E6%A5%BC%E5%80%92%E5%A1%8C%E5%91%8845%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [呼吸道传染高发期 “绿码”重现？](https://www.baidu.com/s?wd=%E5%91%BC%E5%90%B8%E9%81%93%E4%BC%A0%E6%9F%93%E9%AB%98%E5%8F%91%E6%9C%9F+%E2%80%9C%E7%BB%BF%E7%A0%81%E2%80%9D%E9%87%8D%E7%8E%B0%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [上海科技创新的“闪亮名片”](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E7%9A%84%E2%80%9C%E9%97%AA%E4%BA%AE%E5%90%8D%E7%89%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [火车票退票不扣手续费了？12306回应](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%A5%A8%E9%80%80%E7%A5%A8%E4%B8%8D%E6%89%A3%E6%89%8B%E7%BB%AD%E8%B4%B9%E4%BA%86%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [微信好友上限](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E4%B8%8A%E9%99%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子买韭菜炒出像洗衣液绿色汤汁](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B0%E9%9F%AD%E8%8F%9C%E7%82%92%E5%87%BA%E5%83%8F%E6%B4%97%E8%A1%A3%E6%B6%B2%E7%BB%BF%E8%89%B2%E6%B1%A4%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [申博意外惨败 韩国应该反思什么](https://www.baidu.com/s?wd=%E7%94%B3%E5%8D%9A%E6%84%8F%E5%A4%96%E6%83%A8%E8%B4%A5+%E9%9F%A9%E5%9B%BD%E5%BA%94%E8%AF%A5%E5%8F%8D%E6%80%9D%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [主持人朱丹被骗涉案公司已被吊销](https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9C%B1%E4%B8%B9%E8%A2%AB%E9%AA%97%E6%B6%89%E6%A1%88%E5%85%AC%E5%8F%B8%E5%B7%B2%E8%A2%AB%E5%90%8A%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [王思聪“上班” 王健林“闯关”](https://www.baidu.com/s?wd=%E7%8E%8B%E6%80%9D%E8%81%AA%E2%80%9C%E4%B8%8A%E7%8F%AD%E2%80%9D+%E7%8E%8B%E5%81%A5%E6%9E%97%E2%80%9C%E9%97%AF%E5%85%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [微信好友上限](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E4%B8%8A%E9%99%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [福州辟谣医院小楼倒塌呈45度](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E8%BE%9F%E8%B0%A3%E5%8C%BB%E9%99%A2%E5%B0%8F%E6%A5%BC%E5%80%92%E5%A1%8C%E5%91%8845%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
