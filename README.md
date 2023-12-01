@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 01:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 01:41:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [胖东来员工不想上班请假不允许不批假](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD%E8%AF%B7%E5%81%87%E4%B8%8D%E5%85%81%E8%AE%B8%E4%B8%8D%E6%89%B9%E5%81%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [唐嫣cos狂飙大嫂](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3cos%E7%8B%82%E9%A3%99%E5%A4%A7%E5%AB%82%23&t=31&band_rank=6&Refer=top)<br />
 7. [小猫吃公司20根虫草主人含泪赔2千](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%90%83%E5%85%AC%E5%8F%B820%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [脱轨](https://s.weibo.com/weibo?q=%E8%84%B1%E8%BD%A8&t=31&band_rank=8&Refer=top)<br />
-9. [甘肃发现超亿吨级整装大油田](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%8F%91%E7%8E%B0%E8%B6%85%E4%BA%BF%E5%90%A8%E7%BA%A7%E6%95%B4%E8%A3%85%E5%A4%A7%E6%B2%B9%E7%94%B0%23&t=31&band_rank=9&Refer=top)<br />
+8. [甘肃酒泉地震](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E9%85%92%E6%B3%89%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top)<br />
+9. [脱轨](https://s.weibo.com/weibo?q=%E8%84%B1%E8%BD%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
