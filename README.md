@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 18:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 18:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [亿万富豪找回丢失25年儿子](https://s.weibo.com/weibo?q=%23%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E6%89%BE%E5%9B%9E%E4%B8%A2%E5%A4%B125%E5%B9%B4%E5%84%BF%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [新老民警接力办案找回25年前失踪儿童](https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%80%81%E6%B0%91%E8%AD%A6%E6%8E%A5%E5%8A%9B%E5%8A%9E%E6%A1%88%E6%89%BE%E5%9B%9E25%E5%B9%B4%E5%89%8D%E5%A4%B1%E8%B8%AA%E5%84%BF%E7%AB%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [声生不息 乌合麒麟海报解读](https://s.weibo.com/weibo?q=%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%20%E4%B9%8C%E5%90%88%E9%BA%92%E9%BA%9F%E6%B5%B7%E6%8A%A5%E8%A7%A3%E8%AF%BB&t=31&band_rank=8&Refer=top)<br />
-9. [宋雨琦被工作人员阻止接信](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E8%A2%AB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E9%98%BB%E6%AD%A2%E6%8E%A5%E4%BF%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [易烊千玺vlog i人常态](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BAvlog%20i%E4%BA%BA%E5%B8%B8%E6%80%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
