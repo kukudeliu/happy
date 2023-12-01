@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 12:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 12:22:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [杨鸣 思思](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3%20%E6%80%9D%E6%80%9D&t=31&band_rank=5&Refer=top)<br />
 6. [女子输血感染艾滋10年后才发现](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BE%93%E8%A1%80%E6%84%9F%E6%9F%93%E8%89%BE%E6%BB%8B10%E5%B9%B4%E5%90%8E%E6%89%8D%E5%8F%91%E7%8E%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [旭旭宝宝](https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D&t=31&band_rank=7&Refer=top)<br />
-8. [国之重器背后的中国链](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%8B%E9%87%8D%E5%99%A8%E8%83%8C%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%93%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [一对艾滋夫妇的第19年](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AF%B9%E8%89%BE%E6%BB%8B%E5%A4%AB%E5%A6%87%E7%9A%84%E7%AC%AC19%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
+8. [一对艾滋夫妇的第19年](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AF%B9%E8%89%BE%E6%BB%8B%E5%A4%AB%E5%A6%87%E7%9A%84%E7%AC%AC19%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
+9. [金莎男友 开塞露](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%20%E5%BC%80%E5%A1%9E%E9%9C%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
