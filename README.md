@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 18:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 18:59:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [雷军辟谣冰冷的40亿：人生不是爽文](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E8%BE%9F%E8%B0%A3%E5%86%B0%E5%86%B7%E7%9A%8440%E4%BA%BF%EF%BC%9A%E4%BA%BA%E7%94%9F%E4%B8%8D%E6%98%AF%E7%88%BD%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [上海科技创新的“闪亮名片”](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E7%9A%84%E2%80%9C%E9%97%AA%E4%BA%AE%E5%90%8D%E7%89%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [三甲医院超收患者21万医疗费](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E8%B6%85%E6%94%B6%E6%82%A3%E8%80%8521%E4%B8%87%E5%8C%BB%E7%96%97%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [火车票退票不扣手续费了？12306回应](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%A5%A8%E9%80%80%E7%A5%A8%E4%B8%8D%E6%89%A3%E6%89%8B%E7%BB%AD%E8%B4%B9%E4%BA%86%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多国宣布退出日本关西世博会参展](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E6%97%A5%E6%9C%AC%E5%85%B3%E8%A5%BF%E4%B8%96%E5%8D%9A%E4%BC%9A%E5%8F%82%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [郑云龙为演医生看手术视频克服恐惧](https://www.baidu.com/s?wd=%E9%83%91%E4%BA%91%E9%BE%99%E4%B8%BA%E6%BC%94%E5%8C%BB%E7%94%9F%E7%9C%8B%E6%89%8B%E6%9C%AF%E8%A7%86%E9%A2%91%E5%85%8B%E6%9C%8D%E6%81%90%E6%83%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [火车票退票不扣手续费了？12306回应](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%A5%A8%E9%80%80%E7%A5%A8%E4%B8%8D%E6%89%A3%E6%89%8B%E7%BB%AD%E8%B4%B9%E4%BA%86%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“董事长女儿”概念股火了](https://www.baidu.com/s?wd=%E2%80%9C%E8%91%A3%E4%BA%8B%E9%95%BF%E5%A5%B3%E5%84%BF%E2%80%9D%E6%A6%82%E5%BF%B5%E8%82%A1%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [福州辟谣医院小楼倒塌呈45度](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E8%BE%9F%E8%B0%A3%E5%8C%BB%E9%99%A2%E5%B0%8F%E6%A5%BC%E5%80%92%E5%A1%8C%E5%91%8845%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [雷军辟谣冰冷的40亿：人生不是爽文](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E8%BE%9F%E8%B0%A3%E5%86%B0%E5%86%B7%E7%9A%8440%E4%BA%BF%EF%BC%9A%E4%BA%BA%E7%94%9F%E4%B8%8D%E6%98%AF%E7%88%BD%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [上海科技创新的“闪亮名片”](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E7%9A%84%E2%80%9C%E9%97%AA%E4%BA%AE%E5%90%8D%E7%89%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [三甲医院超收患者21万医疗费](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E8%B6%85%E6%94%B6%E6%82%A3%E8%80%8521%E4%B8%87%E5%8C%BB%E7%96%97%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [火车票退票不扣手续费了？12306回应](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%A5%A8%E9%80%80%E7%A5%A8%E4%B8%8D%E6%89%A3%E6%89%8B%E7%BB%AD%E8%B4%B9%E4%BA%86%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多国宣布退出日本关西世博会参展](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E6%97%A5%E6%9C%AC%E5%85%B3%E8%A5%BF%E4%B8%96%E5%8D%9A%E4%BC%9A%E5%8F%82%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [郑云龙为演医生看手术视频克服恐惧](https://www.baidu.com/s?wd=%E9%83%91%E4%BA%91%E9%BE%99%E4%B8%BA%E6%BC%94%E5%8C%BB%E7%94%9F%E7%9C%8B%E6%89%8B%E6%9C%AF%E8%A7%86%E9%A2%91%E5%85%8B%E6%9C%8D%E6%81%90%E6%83%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [火车票退票不扣手续费了？12306回应](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%A5%A8%E9%80%80%E7%A5%A8%E4%B8%8D%E6%89%A3%E6%89%8B%E7%BB%AD%E8%B4%B9%E4%BA%86%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“董事长女儿”概念股火了](https://www.baidu.com/s?wd=%E2%80%9C%E8%91%A3%E4%BA%8B%E9%95%BF%E5%A5%B3%E5%84%BF%E2%80%9D%E6%A6%82%E5%BF%B5%E8%82%A1%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [福州辟谣医院小楼倒塌呈45度](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E8%BE%9F%E8%B0%A3%E5%8C%BB%E9%99%A2%E5%B0%8F%E6%A5%BC%E5%80%92%E5%A1%8C%E5%91%8845%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
