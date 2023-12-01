@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 17:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 17:37:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [中S和汪大菲](https://s.weibo.com/weibo?q=%E4%B8%ADS%E5%92%8C%E6%B1%AA%E5%A4%A7%E8%8F%B2&t=31&band_rank=4&Refer=top)<br />
 5. [王鹤棣 纹身](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E7%BA%B9%E8%BA%AB&t=31&band_rank=5&Refer=top)<br />
 6. [杨幂赵丽颖 酱园弄](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E9%85%B1%E5%9B%AD%E5%BC%84&t=31&band_rank=6&Refer=top)<br />
-7. [第一学历歧视就像是留了案底](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%AD%A7%E8%A7%86%E5%B0%B1%E5%83%8F%E6%98%AF%E7%95%99%E4%BA%86%E6%A1%88%E5%BA%95%23&t=31&band_rank=7&Refer=top)<br />
-8. [女子提醒夫妻关远光灯被打致流产](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8F%90%E9%86%92%E5%A4%AB%E5%A6%BB%E5%85%B3%E8%BF%9C%E5%85%89%E7%81%AF%E8%A2%AB%E6%89%93%E8%87%B4%E6%B5%81%E4%BA%A7%23&t=31&band_rank=8&Refer=top)<br />
+7. [女子提醒夫妻关远光灯被打致流产](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8F%90%E9%86%92%E5%A4%AB%E5%A6%BB%E5%85%B3%E8%BF%9C%E5%85%89%E7%81%AF%E8%A2%AB%E6%89%93%E8%87%B4%E6%B5%81%E4%BA%A7%23&t=31&band_rank=7&Refer=top)<br />
+8. [第一学历歧视就像是留了案底](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%AD%A7%E8%A7%86%E5%B0%B1%E5%83%8F%E6%98%AF%E7%95%99%E4%BA%86%E6%A1%88%E5%BA%95%23&t=31&band_rank=8&Refer=top)<br />
 9. [00后姑娘3份工作上班2年全款买房](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A7%91%E5%A8%983%E4%BB%BD%E5%B7%A5%E4%BD%9C%E4%B8%8A%E7%8F%AD2%E5%B9%B4%E5%85%A8%E6%AC%BE%E4%B9%B0%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
