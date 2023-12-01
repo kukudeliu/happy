@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 11:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 11:28:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [国之重器背后的中国链](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%8B%E9%87%8D%E5%99%A8%E8%83%8C%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%93%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨鸣 思思](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3%20%E6%80%9D%E6%80%9D&t=31&band_rank=4&Refer=top)<br />
 5. [一对艾滋夫妇的第19年](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AF%B9%E8%89%BE%E6%BB%8B%E5%A4%AB%E5%A6%87%E7%9A%84%E7%AC%AC19%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
-6. [警方通报网红校长郑强被传包养情妇](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E7%BA%A2%E6%A0%A1%E9%95%BF%E9%83%91%E5%BC%BA%E8%A2%AB%E4%BC%A0%E5%8C%85%E5%85%BB%E6%83%85%E5%A6%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [韩国申博失败](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B3%E5%8D%9A%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=7&Refer=top)<br />
+6. [韩国申博失败](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B3%E5%8D%9A%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=6&Refer=top)<br />
+7. [警方通报网红校长郑强被传包养情妇](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E7%BA%A2%E6%A0%A1%E9%95%BF%E9%83%91%E5%BC%BA%E8%A2%AB%E4%BC%A0%E5%8C%85%E5%85%BB%E6%83%85%E5%A6%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [iPhone16全系告别静音拨片](https://s.weibo.com/weibo?q=%23iPhone16%E5%85%A8%E7%B3%BB%E5%91%8A%E5%88%AB%E9%9D%99%E9%9F%B3%E6%8B%A8%E7%89%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [因走红暂停生意鹅腿阿姨很着急](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E8%B5%B0%E7%BA%A2%E6%9A%82%E5%81%9C%E7%94%9F%E6%84%8F%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E5%BE%88%E7%9D%80%E6%80%A5%23&t=31&band_rank=9&Refer=top)<br />
 
