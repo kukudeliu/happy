@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 08:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 08:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘耀文LV酒会跳舞](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87LV%E9%85%92%E4%BC%9A%E8%B7%B3%E8%88%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [一念关山 AI换脸](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20AI%E6%8D%A2%E8%84%B8&t=31&band_rank=7&Refer=top)<br />
 8. [重庆地铁偶遇张艺兴](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%9C%B0%E9%93%81%E5%81%B6%E9%81%87%E5%BC%A0%E8%89%BA%E5%85%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [奶奶去世爷爷紧紧蜷缩在旁边](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%8E%BB%E4%B8%96%E7%88%B7%E7%88%B7%E7%B4%A7%E7%B4%A7%E8%9C%B7%E7%BC%A9%E5%9C%A8%E6%97%81%E8%BE%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [微信好友上限](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E4%B8%8A%E9%99%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
