@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 15:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 15:06:01</h4></div>
 
 > 微博  
 
-1. [金莎男友 开塞露](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%20%E5%BC%80%E5%A1%9E%E9%9C%B2&t=31&band_rank=1&Refer=top)<br />
-2. [陈志朋已退出被曝光公司](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BF%97%E6%9C%8B%E5%B7%B2%E9%80%80%E5%87%BA%E8%A2%AB%E6%9B%9D%E5%85%89%E5%85%AC%E5%8F%B8%23&t=31&band_rank=2&Refer=top)<br />
+1. [陈志朋已退出被曝光公司](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BF%97%E6%9C%8B%E5%B7%B2%E9%80%80%E5%87%BA%E8%A2%AB%E6%9B%9D%E5%85%89%E5%85%AC%E5%8F%B8%23&t=31&band_rank=1&Refer=top)<br />
+2. [金莎男友 开塞露](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%20%E5%BC%80%E5%A1%9E%E9%9C%B2&t=31&band_rank=2&Refer=top)<br />
 3. [60秒看祖国各地冬日美景](https://s.weibo.com/weibo?q=%2360%E7%A7%92%E7%9C%8B%E7%A5%96%E5%9B%BD%E5%90%84%E5%9C%B0%E5%86%AC%E6%97%A5%E7%BE%8E%E6%99%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [周一围女儿 喀秋莎](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B8%80%E5%9B%B4%E5%A5%B3%E5%84%BF%20%E5%96%80%E7%A7%8B%E8%8E%8E&t=31&band_rank=4&Refer=top)<br />
 5. [女子输血感染艾滋10年后才发现](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BE%93%E8%A1%80%E6%84%9F%E6%9F%93%E8%89%BE%E6%BB%8B10%E5%B9%B4%E5%90%8E%E6%89%8D%E5%8F%91%E7%8E%B0%23&t=31&band_rank=5&Refer=top)<br />
-6. [外卖员在星巴克休息被女子要求赶走](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%91%98%E5%9C%A8%E6%98%9F%E5%B7%B4%E5%85%8B%E4%BC%91%E6%81%AF%E8%A2%AB%E5%A5%B3%E5%AD%90%E8%A6%81%E6%B1%82%E8%B5%B6%E8%B5%B0%23&t=31&band_rank=6&Refer=top)<br />
-7. [姚政求婚成功](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%94%BF%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F%23&t=31&band_rank=7&Refer=top)<br />
+6. [姚政求婚成功](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%94%BF%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F%23&t=31&band_rank=6&Refer=top)<br />
+7. [外卖员在星巴克休息被女子要求赶走](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%91%98%E5%9C%A8%E6%98%9F%E5%B7%B4%E5%85%8B%E4%BC%91%E6%81%AF%E8%A2%AB%E5%A5%B3%E5%AD%90%E8%A6%81%E6%B1%82%E8%B5%B6%E8%B5%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [2030年终结艾滋病](https://s.weibo.com/weibo?q=%232030%E5%B9%B4%E7%BB%88%E7%BB%93%E8%89%BE%E6%BB%8B%E7%97%85%23&t=31&band_rank=8&Refer=top)<br />
 9. [韩国申博失败](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B3%E5%8D%9A%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=9&Refer=top)<br />
 
