@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 00:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 00:23:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [甘肃酒泉地震](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E9%85%92%E6%B3%89%E5%9C%B0%E9%9C%87&t=31&band_rank=5&Refer=top)<br />
 6. [唐嫣cos狂飙大嫂](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3cos%E7%8B%82%E9%A3%99%E5%A4%A7%E5%AB%82%23&t=31&band_rank=6&Refer=top)<br />
 7. [许嵩近期状态](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%B5%A9%E8%BF%91%E6%9C%9F%E7%8A%B6%E6%80%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [肖战 拉夫劳伦香氛](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E6%8B%89%E5%A4%AB%E5%8A%B3%E4%BC%A6%E9%A6%99%E6%B0%9B&t=31&band_rank=8&Refer=top)<br />
-9. [脱轨](https://s.weibo.com/weibo?q=%E8%84%B1%E8%BD%A8&t=31&band_rank=9&Refer=top)<br />
+8. [脱轨](https://s.weibo.com/weibo?q=%E8%84%B1%E8%BD%A8&t=31&band_rank=8&Refer=top)<br />
+9. [肖战 拉夫劳伦香氛](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E6%8B%89%E5%A4%AB%E5%8A%B3%E4%BC%A6%E9%A6%99%E6%B0%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
