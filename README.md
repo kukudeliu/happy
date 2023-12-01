@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 17:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 17:19:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [性病科女医生：门诊患者8成是男性](https://www.baidu.com/s?wd=%E6%80%A7%E7%97%85%E7%A7%91%E5%A5%B3%E5%8C%BB%E7%94%9F%EF%BC%9A%E9%97%A8%E8%AF%8A%E6%82%A3%E8%80%858%E6%88%90%E6%98%AF%E7%94%B7%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子提醒夫妻关远光灯被打致流产](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8F%90%E9%86%92%E5%A4%AB%E5%A6%BB%E5%85%B3%E8%BF%9C%E5%85%89%E7%81%AF%E8%A2%AB%E6%89%93%E8%87%B4%E6%B5%81%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [火车票退票不扣手续费了？12306回应](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%A5%A8%E9%80%80%E7%A5%A8%E4%B8%8D%E6%89%A3%E6%89%8B%E7%BB%AD%E8%B4%B9%E4%BA%86%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这种药销量陡增！医生紧急提醒](https://www.baidu.com/s?wd=%E8%BF%99%E7%A7%8D%E8%8D%AF%E9%94%80%E9%87%8F%E9%99%A1%E5%A2%9E%EF%BC%81%E5%8C%BB%E7%94%9F%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [福州辟谣医院小楼倒塌呈45度](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E8%BE%9F%E8%B0%A3%E5%8C%BB%E9%99%A2%E5%B0%8F%E6%A5%BC%E5%80%92%E5%A1%8C%E5%91%8845%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [性病科女医生：门诊患者8成是男性](https://www.baidu.com/s?wd=%E6%80%A7%E7%97%85%E7%A7%91%E5%A5%B3%E5%8C%BB%E7%94%9F%EF%BC%9A%E9%97%A8%E8%AF%8A%E6%82%A3%E8%80%858%E6%88%90%E6%98%AF%E7%94%B7%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子提醒夫妻关远光灯被打致流产](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8F%90%E9%86%92%E5%A4%AB%E5%A6%BB%E5%85%B3%E8%BF%9C%E5%85%89%E7%81%AF%E8%A2%AB%E6%89%93%E8%87%B4%E6%B5%81%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [火车票退票不扣手续费了？12306回应](https://www.baidu.com/s?wd=%E7%81%AB%E8%BD%A6%E7%A5%A8%E9%80%80%E7%A5%A8%E4%B8%8D%E6%89%A3%E6%89%8B%E7%BB%AD%E8%B4%B9%E4%BA%86%EF%BC%9F12306%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这种药销量陡增！医生紧急提醒](https://www.baidu.com/s?wd=%E8%BF%99%E7%A7%8D%E8%8D%AF%E9%94%80%E9%87%8F%E9%99%A1%E5%A2%9E%EF%BC%81%E5%8C%BB%E7%94%9F%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [福州辟谣医院小楼倒塌呈45度](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E8%BE%9F%E8%B0%A3%E5%8C%BB%E9%99%A2%E5%B0%8F%E6%A5%BC%E5%80%92%E5%A1%8C%E5%91%8845%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
