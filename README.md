@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 16:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 16:31:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [王鹤棣 纹身](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E7%BA%B9%E8%BA%AB&t=31&band_rank=4&Refer=top)<br />
 5. [疑似杨鸣老婆发文](https://s.weibo.com/weibo?q=%E7%96%91%E4%BC%BC%E6%9D%A8%E9%B8%A3%E8%80%81%E5%A9%86%E5%8F%91%E6%96%87&t=31&band_rank=5&Refer=top)<br />
 6. [周一围女儿 喀秋莎](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B8%80%E5%9B%B4%E5%A5%B3%E5%84%BF%20%E5%96%80%E7%A7%8B%E8%8E%8E&t=31&band_rank=6&Refer=top)<br />
-7. [29岁中国男子刺死日本女友](https://s.weibo.com/weibo?q=%2329%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E5%88%BA%E6%AD%BB%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [女子提醒夫妻关远光灯被打致流产](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8F%90%E9%86%92%E5%A4%AB%E5%A6%BB%E5%85%B3%E8%BF%9C%E5%85%89%E7%81%AF%E8%A2%AB%E6%89%93%E8%87%B4%E6%B5%81%E4%BA%A7%23&t=31&band_rank=8&Refer=top)<br />
+7. [女子提醒夫妻关远光灯被打致流产](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8F%90%E9%86%92%E5%A4%AB%E5%A6%BB%E5%85%B3%E8%BF%9C%E5%85%89%E7%81%AF%E8%A2%AB%E6%89%93%E8%87%B4%E6%B5%81%E4%BA%A7%23&t=31&band_rank=7&Refer=top)<br />
+8. [29岁中国男子刺死日本女友](https://s.weibo.com/weibo?q=%2329%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E5%88%BA%E6%AD%BB%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
 9. [小凯 不用铲了不用铲了](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%87%AF%20%E4%B8%8D%E7%94%A8%E9%93%B2%E4%BA%86%E4%B8%8D%E7%94%A8%E9%93%B2%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
