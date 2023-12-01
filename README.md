@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 19:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-01 19:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [湘雅三医院科主任遭联合举报后恢复门诊](https://s.weibo.com/weibo?q=%23%E6%B9%98%E9%9B%85%E4%B8%89%E5%8C%BB%E9%99%A2%E7%A7%91%E4%B8%BB%E4%BB%BB%E9%81%AD%E8%81%94%E5%90%88%E4%B8%BE%E6%8A%A5%E5%90%8E%E6%81%A2%E5%A4%8D%E9%97%A8%E8%AF%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [新老民警接力办案找回25年前失踪儿童](https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%80%81%E6%B0%91%E8%AD%A6%E6%8E%A5%E5%8A%9B%E5%8A%9E%E6%A1%88%E6%89%BE%E5%9B%9E25%E5%B9%B4%E5%89%8D%E5%A4%B1%E8%B8%AA%E5%84%BF%E7%AB%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨幂赵丽颖 酱园弄](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E9%85%B1%E5%9B%AD%E5%BC%84&t=31&band_rank=8&Refer=top)<br />
-9. [亿万富豪找回丢失25年儿子](https://s.weibo.com/weibo?q=%23%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E6%89%BE%E5%9B%9E%E4%B8%A2%E5%A4%B125%E5%B9%B4%E5%84%BF%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [易烊千玺vlog i人常态](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BAvlog%20i%E4%BA%BA%E5%B8%B8%E6%80%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
