@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 21:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 21:02:01</h4></div>
 
 > 微博  
 
 1. [加拿大超级猪入侵美国](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%B6%85%E7%BA%A7%E7%8C%AA%E5%85%A5%E4%BE%B5%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=1&Refer=top)<br />
 2. [赵露思 小红书广告](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%B9%BF%E5%91%8A&t=31&band_rank=2&Refer=top)<br />
-3. [白鹿 我可太想演电影了](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E6%88%91%E5%8F%AF%E5%A4%AA%E6%83%B3%E6%BC%94%E7%94%B5%E5%BD%B1%E4%BA%86&t=31&band_rank=3&Refer=top)<br />
-4. [很想很想你 掉马](https://s.weibo.com/weibo?q=%E5%BE%88%E6%83%B3%E5%BE%88%E6%83%B3%E4%BD%A0%20%E6%8E%89%E9%A9%AC&t=31&band_rank=4&Refer=top)<br />
-5. [古装女主以后就这么演](https://s.weibo.com/weibo?q=%E5%8F%A4%E8%A3%85%E5%A5%B3%E4%B8%BB%E4%BB%A5%E5%90%8E%E5%B0%B1%E8%BF%99%E4%B9%88%E6%BC%94&t=31&band_rank=5&Refer=top)<br />
-6. [刘亦菲异域风穿搭](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BC%82%E5%9F%9F%E9%A3%8E%E7%A9%BF%E6%90%AD%23&t=31&band_rank=6&Refer=top)<br />
+3. [国家卫健委表示未发现新发传染病](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E8%A1%A8%E7%A4%BA%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%B0%E5%8F%91%E4%BC%A0%E6%9F%93%E7%97%85%23&t=31&band_rank=3&Refer=top)<br />
+4. [白鹿 我可太想演电影了](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E6%88%91%E5%8F%AF%E5%A4%AA%E6%83%B3%E6%BC%94%E7%94%B5%E5%BD%B1%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
+5. [很想很想你 掉马](https://s.weibo.com/weibo?q=%E5%BE%88%E6%83%B3%E5%BE%88%E6%83%B3%E4%BD%A0%20%E6%8E%89%E9%A9%AC&t=31&band_rank=5&Refer=top)<br />
+6. [古装女主以后就这么演](https://s.weibo.com/weibo?q=%E5%8F%A4%E8%A3%85%E5%A5%B3%E4%B8%BB%E4%BB%A5%E5%90%8E%E5%B0%B1%E8%BF%99%E4%B9%88%E6%BC%94&t=31&band_rank=6&Refer=top)<br />
 7. [大地磁暴预警](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [摇粒绒 保暖](https://s.weibo.com/weibo?q=%E6%91%87%E7%B2%92%E7%BB%92%20%E4%BF%9D%E6%9A%96&t=31&band_rank=8&Refer=top)<br />
-9. [男子打球猝死工作人员抢下黄金四分钟](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%93%E7%90%83%E7%8C%9D%E6%AD%BB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8A%A2%E4%B8%8B%E9%BB%84%E9%87%91%E5%9B%9B%E5%88%86%E9%92%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [刘亦菲异域风穿搭](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BC%82%E5%9F%9F%E9%A3%8E%E7%A9%BF%E6%90%AD%23&t=31&band_rank=8&Refer=top)<br />
+9. [摇粒绒 保暖](https://s.weibo.com/weibo?q=%E6%91%87%E7%B2%92%E7%BB%92%20%E4%BF%9D%E6%9A%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
