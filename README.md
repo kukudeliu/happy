@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 13:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 13:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘诗诗 磨皮](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E7%A3%A8%E7%9A%AE&t=31&band_rank=6&Refer=top)<br />
 7. [刘宇宁 脖子前倾](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%20%E8%84%96%E5%AD%90%E5%89%8D%E5%80%BE&t=31&band_rank=7&Refer=top)<br />
 8. [山河图 好燃](https://s.weibo.com/weibo?q=%E5%B1%B1%E6%B2%B3%E5%9B%BE%20%E5%A5%BD%E7%87%83&t=31&band_rank=8&Refer=top)<br />
-9. [2024年总台春晚官宣](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E6%80%BB%E5%8F%B0%E6%98%A5%E6%99%9A%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [尼格买提中奖](https://s.weibo.com/weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E4%B8%AD%E5%A5%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
