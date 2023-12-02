@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 06:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 06:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大地磁暴预警](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [被公职人员占用的公租房小区已腾退五六百户](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%8D%A0%E7%94%A8%E7%9A%84%E5%85%AC%E7%A7%9F%E6%88%BF%E5%B0%8F%E5%8C%BA%E5%B7%B2%E8%85%BE%E9%80%80%E4%BA%94%E5%85%AD%E7%99%BE%E6%88%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [加拿大超级猪入侵美国](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%B6%85%E7%BA%A7%E7%8C%AA%E5%85%A5%E4%BE%B5%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [谁来救救王心凌啊](https://s.weibo.com/weibo?q=%E8%B0%81%E6%9D%A5%E6%95%91%E6%95%91%E7%8E%8B%E5%BF%83%E5%87%8C%E5%95%8A&t=31&band_rank=9&Refer=top)<br />
+9. [很想很想你 掉马](https://s.weibo.com/weibo?q=%E5%BE%88%E6%83%B3%E5%BE%88%E6%83%B3%E4%BD%A0%20%E6%8E%89%E9%A9%AC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
