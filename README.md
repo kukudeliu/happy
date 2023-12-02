@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 17:56:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [M豆棺材](https://s.weibo.com/weibo?q=M%E8%B1%86%E6%A3%BA%E6%9D%90&t=31&band_rank=4&Refer=top)<br />
 5. [尼格买提中奖](https://s.weibo.com/weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E4%B8%AD%E5%A5%96&t=31&band_rank=5&Refer=top)<br />
 6. [MMA](https://s.weibo.com/weibo?q=MMA&t=31&band_rank=6&Refer=top)<br />
-7. [黄体破裂](https://s.weibo.com/weibo?q=%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82&t=31&band_rank=7&Refer=top)<br />
-8. [突然发现你男友是亿万富豪之子](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E4%BD%A0%E7%94%B7%E5%8F%8B%E6%98%AF%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E4%B9%8B%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [嗑到声音颤抖 嗑到原地起跳](https://s.weibo.com/weibo?q=%E5%97%91%E5%88%B0%E5%A3%B0%E9%9F%B3%E9%A2%A4%E6%8A%96%20%E5%97%91%E5%88%B0%E5%8E%9F%E5%9C%B0%E8%B5%B7%E8%B7%B3&t=31&band_rank=9&Refer=top)<br />
+7. [成都草丛中捕获一颗熊猫菜](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%8D%89%E4%B8%9B%E4%B8%AD%E6%8D%95%E8%8E%B7%E4%B8%80%E9%A2%97%E7%86%8A%E7%8C%AB%E8%8F%9C%23&t=31&band_rank=7&Refer=top)<br />
+8. [东北小学连续40年浇冰场教学生滑冰](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%B0%8F%E5%AD%A6%E8%BF%9E%E7%BB%AD40%E5%B9%B4%E6%B5%87%E5%86%B0%E5%9C%BA%E6%95%99%E5%AD%A6%E7%94%9F%E6%BB%91%E5%86%B0%23&t=31&band_rank=8&Refer=top)<br />
+9. [四川孃孃51岁拿下电竞冠军](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%AD%83%E5%AD%8351%E5%B2%81%E6%8B%BF%E4%B8%8B%E7%94%B5%E7%AB%9E%E5%86%A0%E5%86%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
