@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 17:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 17:14:01</h4></div>
 
 > 微博  
 
 1. [陈志朋回应偷税漏税](https://s.weibo.com/weibo?q=%E9%99%88%E5%BF%97%E6%9C%8B%E5%9B%9E%E5%BA%94%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E&t=31&band_rank=1&Refer=top)<br />
-2. [尼格买提中奖](https://s.weibo.com/weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E4%B8%AD%E5%A5%96&t=31&band_rank=2&Refer=top)<br />
+2. [黄体破裂](https://s.weibo.com/weibo?q=%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82&t=31&band_rank=2&Refer=top)<br />
 3. [我国纳米金属研究领域取得新突破](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%BA%B3%E7%B1%B3%E9%87%91%E5%B1%9E%E7%A0%94%E7%A9%B6%E9%A2%86%E5%9F%9F%E5%8F%96%E5%BE%97%E6%96%B0%E7%AA%81%E7%A0%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [突然发现你男友是亿万富豪之子](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E4%BD%A0%E7%94%B7%E5%8F%8B%E6%98%AF%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E4%B9%8B%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
-5. [宋轶另一个冰淇淋是谁的](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%86%B0%E6%B7%87%E6%B7%8B%E6%98%AF%E8%B0%81%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
-6. [黄体破裂](https://s.weibo.com/weibo?q=%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82&t=31&band_rank=6&Refer=top)<br />
+5. [尼格买提中奖](https://s.weibo.com/weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E4%B8%AD%E5%A5%96&t=31&band_rank=5&Refer=top)<br />
+6. [宋轶另一个冰淇淋是谁的](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%86%B0%E6%B7%87%E6%B7%8B%E6%98%AF%E8%B0%81%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [大冰握手 腱鞘炎](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%86%B0%E6%8F%A1%E6%89%8B%20%E8%85%B1%E9%9E%98%E7%82%8E&t=31&band_rank=7&Refer=top)<br />
 8. [aespa 哥特玫瑰](https://s.weibo.com/weibo?q=aespa%20%E5%93%A5%E7%89%B9%E7%8E%AB%E7%91%B0&t=31&band_rank=8&Refer=top)<br />
 9. [ive公主妆造](https://s.weibo.com/weibo?q=ive%E5%85%AC%E4%B8%BB%E5%A6%86%E9%80%A0&t=31&band_rank=9&Refer=top)<br />
