@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 21:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 21:29:01</h4></div>
 
 > 微博  
 
 1. [白鹿 我可太想演电影了](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E6%88%91%E5%8F%AF%E5%A4%AA%E6%83%B3%E6%BC%94%E7%94%B5%E5%BD%B1%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [赵露思 小红书广告](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%B9%BF%E5%91%8A&t=31&band_rank=2&Refer=top)<br />
+2. [难哄 白敬亭](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E7%99%BD%E6%95%AC%E4%BA%AD&t=31&band_rank=2&Refer=top)<br />
 3. [国家卫健委表示未发现新发传染病](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E8%A1%A8%E7%A4%BA%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%B0%E5%8F%91%E4%BC%A0%E6%9F%93%E7%97%85%23&t=31&band_rank=3&Refer=top)<br />
-4. [难哄 白敬亭](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E7%99%BD%E6%95%AC%E4%BA%AD&t=31&band_rank=4&Refer=top)<br />
+4. [赵露思 小红书广告](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%B9%BF%E5%91%8A&t=31&band_rank=4&Refer=top)<br />
 5. [加拿大超级猪入侵美国](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%B6%85%E7%BA%A7%E7%8C%AA%E5%85%A5%E4%BE%B5%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [很想很想你 掉马](https://s.weibo.com/weibo?q=%E5%BE%88%E6%83%B3%E5%BE%88%E6%83%B3%E4%BD%A0%20%E6%8E%89%E9%A9%AC&t=31&band_rank=6&Refer=top)<br />
 7. [尹正 自卑是男人最好的医美](https://s.weibo.com/weibo?q=%E5%B0%B9%E6%AD%A3%20%E8%87%AA%E5%8D%91%E6%98%AF%E7%94%B7%E4%BA%BA%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8C%BB%E7%BE%8E&t=31&band_rank=7&Refer=top)<br />
@@ -22,7 +22,7 @@
 3. [爆款短剧演员一天最高薪酬3万元](https://www.baidu.com/s?wd=%E7%88%86%E6%AC%BE%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E4%B8%80%E5%A4%A9%E6%9C%80%E9%AB%98%E8%96%AA%E9%85%AC3%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [国家卫健委：目前未发现新发传染病](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%EF%BC%9A%E7%9B%AE%E5%89%8D%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%B0%E5%8F%91%E4%BC%A0%E6%9F%93%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [四川50多岁阿姨带女儿拿下电竞冠军](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D50%E5%A4%9A%E5%B2%81%E9%98%BF%E5%A7%A8%E5%B8%A6%E5%A5%B3%E5%84%BF%E6%8B%BF%E4%B8%8B%E7%94%B5%E7%AB%9E%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [张朝阳称看好短剧市场发展](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%E7%A7%B0%E7%9C%8B%E5%A5%BD%E7%9F%AD%E5%89%A7%E5%B8%82%E5%9C%BA%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [教育部：严查培训机构卷款跑路行为](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E4%B8%A5%E6%9F%A5%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E5%8D%B7%E6%AC%BE%E8%B7%91%E8%B7%AF%E8%A1%8C%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [90后小伙用竹子造自行车 出口6万台](https://www.baidu.com/s?wd=90%E5%90%8E%E5%B0%8F%E4%BC%99%E7%94%A8%E7%AB%B9%E5%AD%90%E9%80%A0%E8%87%AA%E8%A1%8C%E8%BD%A6+%E5%87%BA%E5%8F%A36%E4%B8%87%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [盘点那些“亿元级”校友捐款](https://www.baidu.com/s?wd=%E7%9B%98%E7%82%B9%E9%82%A3%E4%BA%9B%E2%80%9C%E4%BA%BF%E5%85%83%E7%BA%A7%E2%80%9D%E6%A0%A1%E5%8F%8B%E6%8D%90%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣养老金认证出台新规](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E5%85%BB%E8%80%81%E9%87%91%E8%AE%A4%E8%AF%81%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [爆款短剧演员一天最高薪酬3万元](https://www.baidu.com/s?wd=%E7%88%86%E6%AC%BE%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E4%B8%80%E5%A4%A9%E6%9C%80%E9%AB%98%E8%96%AA%E9%85%AC3%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [国家卫健委：目前未发现新发传染病](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%EF%BC%9A%E7%9B%AE%E5%89%8D%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%B0%E5%8F%91%E4%BC%A0%E6%9F%93%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [四川50多岁阿姨带女儿拿下电竞冠军](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D50%E5%A4%9A%E5%B2%81%E9%98%BF%E5%A7%A8%E5%B8%A6%E5%A5%B3%E5%84%BF%E6%8B%BF%E4%B8%8B%E7%94%B5%E7%AB%9E%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [张朝阳称看好短剧市场发展](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%E7%A7%B0%E7%9C%8B%E5%A5%BD%E7%9F%AD%E5%89%A7%E5%B8%82%E5%9C%BA%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [教育部：严查培训机构卷款跑路行为](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E4%B8%A5%E6%9F%A5%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E5%8D%B7%E6%AC%BE%E8%B7%91%E8%B7%AF%E8%A1%8C%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [90后小伙用竹子造自行车 出口6万台](https://www.baidu.com/s?wd=90%E5%90%8E%E5%B0%8F%E4%BC%99%E7%94%A8%E7%AB%B9%E5%AD%90%E9%80%A0%E8%87%AA%E8%A1%8C%E8%BD%A6+%E5%87%BA%E5%8F%A36%E4%B8%87%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [盘点那些“亿元级”校友捐款](https://www.baidu.com/s?wd=%E7%9B%98%E7%82%B9%E9%82%A3%E4%BA%9B%E2%80%9C%E4%BA%BF%E5%85%83%E7%BA%A7%E2%80%9D%E6%A0%A1%E5%8F%8B%E6%8D%90%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣养老金认证出台新规](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E5%85%BB%E8%80%81%E9%87%91%E8%AE%A4%E8%AF%81%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
