@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 12:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 12:09:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [关智斌面部手部二级烧伤](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%BA%E6%96%8C%E9%9D%A2%E9%83%A8%E6%89%8B%E9%83%A8%E4%BA%8C%E7%BA%A7%E7%83%A7%E4%BC%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [张若昀拍的唐艺昕](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E6%8B%8D%E7%9A%84%E5%94%90%E8%89%BA%E6%98%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [排卵后1周是黄体破裂高危期](https://s.weibo.com/weibo?q=%23%E6%8E%92%E5%8D%B5%E5%90%8E1%E5%91%A8%E6%98%AF%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82%E9%AB%98%E5%8D%B1%E6%9C%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [电脑一定要关闭的设置](https://s.weibo.com/weibo?q=%E7%94%B5%E8%84%91%E4%B8%80%E5%AE%9A%E8%A6%81%E5%85%B3%E9%97%AD%E7%9A%84%E8%AE%BE%E7%BD%AE&t=31&band_rank=8&Refer=top)<br />
-9. [辛芷蕾 内娱第一岚吹](https://s.weibo.com/weibo?q=%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%E5%B2%9A%E5%90%B9&t=31&band_rank=9&Refer=top)<br />
+8. [辛芷蕾 内娱第一岚吹](https://s.weibo.com/weibo?q=%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%E5%B2%9A%E5%90%B9&t=31&band_rank=8&Refer=top)<br />
+9. [电脑一定要关闭的设置](https://s.weibo.com/weibo?q=%E7%94%B5%E8%84%91%E4%B8%80%E5%AE%9A%E8%A6%81%E5%85%B3%E9%97%AD%E7%9A%84%E8%AE%BE%E7%BD%AE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
