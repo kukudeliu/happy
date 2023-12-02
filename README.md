@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 22:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 22:34:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [90后小伙用竹子造自行车 出口6万台](https://www.baidu.com/s?wd=90%E5%90%8E%E5%B0%8F%E4%BC%99%E7%94%A8%E7%AB%B9%E5%AD%90%E9%80%A0%E8%87%AA%E8%A1%8C%E8%BD%A6+%E5%87%BA%E5%8F%A36%E4%B8%87%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小猫偷吃20根虫草主人含泪赔2千](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%AB%E5%81%B7%E5%90%8320%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子打球猝死工作人员抢下黄金4分钟](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%89%93%E7%90%83%E7%8C%9D%E6%AD%BB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8A%A2%E4%B8%8B%E9%BB%84%E9%87%914%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苏翊鸣单板滑雪大跳台世界杯夺冠](https://www.baidu.com/s?wd=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%8D%95%E6%9D%BF%E6%BB%91%E9%9B%AA%E5%A4%A7%E8%B7%B3%E5%8F%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中疾控：建议尽早接种流感疫苗](https://www.baidu.com/s?wd=%E4%B8%AD%E7%96%BE%E6%8E%A7%EF%BC%9A%E5%BB%BA%E8%AE%AE%E5%B0%BD%E6%97%A9%E6%8E%A5%E7%A7%8D%E6%B5%81%E6%84%9F%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣养老金认证出台新规](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E5%85%BB%E8%80%81%E9%87%91%E8%AE%A4%E8%AF%81%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [90后小伙用竹子造自行车 出口6万台](https://www.baidu.com/s?wd=90%E5%90%8E%E5%B0%8F%E4%BC%99%E7%94%A8%E7%AB%B9%E5%AD%90%E9%80%A0%E8%87%AA%E8%A1%8C%E8%BD%A6+%E5%87%BA%E5%8F%A36%E4%B8%87%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小猫偷吃20根虫草主人含泪赔2千](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%AB%E5%81%B7%E5%90%8320%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子打球猝死工作人员抢下黄金4分钟](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%89%93%E7%90%83%E7%8C%9D%E6%AD%BB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8A%A2%E4%B8%8B%E9%BB%84%E9%87%914%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苏翊鸣单板滑雪大跳台世界杯夺冠](https://www.baidu.com/s?wd=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%8D%95%E6%9D%BF%E6%BB%91%E9%9B%AA%E5%A4%A7%E8%B7%B3%E5%8F%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中疾控：建议尽早接种流感疫苗](https://www.baidu.com/s?wd=%E4%B8%AD%E7%96%BE%E6%8E%A7%EF%BC%9A%E5%BB%BA%E8%AE%AE%E5%B0%BD%E6%97%A9%E6%8E%A5%E7%A7%8D%E6%B5%81%E6%84%9F%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣养老金认证出台新规](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E5%85%BB%E8%80%81%E9%87%91%E8%AE%A4%E8%AF%81%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
