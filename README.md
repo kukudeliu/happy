@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 04:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 04:18:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [菲律宾近海7.6级地震 海啸预警发布](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%BF%91%E6%B5%B77.6%E7%BA%A7%E5%9C%B0%E9%9C%87+%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [90后小伙用竹子造自行车 出口6万台](https://www.baidu.com/s?wd=90%E5%90%8E%E5%B0%8F%E4%BC%99%E7%94%A8%E7%AB%B9%E5%AD%90%E9%80%A0%E8%87%AA%E8%A1%8C%E8%BD%A6+%E5%87%BA%E5%8F%A36%E4%B8%87%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [加拿大“超级猪”入侵美国](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E2%80%9C%E8%B6%85%E7%BA%A7%E7%8C%AA%E2%80%9D%E5%85%A5%E4%BE%B5%E7%BE%8E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子买彩票中11万被告知忘出票](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD11%E4%B8%87%E8%A2%AB%E5%91%8A%E7%9F%A5%E5%BF%98%E5%87%BA%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小猫偷吃20根虫草主人含泪赔2千](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%AB%E5%81%B7%E5%90%8320%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣养老金认证出台新规](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E5%85%BB%E8%80%81%E9%87%91%E8%AE%A4%E8%AF%81%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [菲律宾近海7.6级地震 海啸预警发布](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%BF%91%E6%B5%B77.6%E7%BA%A7%E5%9C%B0%E9%9C%87+%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [90后小伙用竹子造自行车 出口6万台](https://www.baidu.com/s?wd=90%E5%90%8E%E5%B0%8F%E4%BC%99%E7%94%A8%E7%AB%B9%E5%AD%90%E9%80%A0%E8%87%AA%E8%A1%8C%E8%BD%A6+%E5%87%BA%E5%8F%A36%E4%B8%87%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [加拿大“超级猪”入侵美国](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E2%80%9C%E8%B6%85%E7%BA%A7%E7%8C%AA%E2%80%9D%E5%85%A5%E4%BE%B5%E7%BE%8E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子买彩票中11万被告知忘出票](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD11%E4%B8%87%E8%A2%AB%E5%91%8A%E7%9F%A5%E5%BF%98%E5%87%BA%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小猫偷吃20根虫草主人含泪赔2千](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%AB%E5%81%B7%E5%90%8320%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣养老金认证出台新规](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E5%85%BB%E8%80%81%E9%87%91%E8%AE%A4%E8%AF%81%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
