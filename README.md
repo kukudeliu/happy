@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 12:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 12:37:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [习近平向读懂中国国际会议致贺信](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E4%BC%9A%E8%AE%AE%E8%87%B4%E8%B4%BA%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [提高海上维权执法能力](https://www.baidu.com/s?wd=%E6%8F%90%E9%AB%98%E6%B5%B7%E4%B8%8A%E7%BB%B4%E6%9D%83%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [什么是地磁暴 对日常生活有影响吗](https://www.baidu.com/s?wd=%E4%BB%80%E4%B9%88%E6%98%AF%E5%9C%B0%E7%A3%81%E6%9A%B4+%E5%AF%B9%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E6%9C%89%E5%BD%B1%E5%93%8D%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [零下20℃穿单衣骑车男孩被全网温暖](https://www.baidu.com/s?wd=%E9%9B%B6%E4%B8%8B20%E2%84%83%E7%A9%BF%E5%8D%95%E8%A1%A3%E9%AA%91%E8%BD%A6%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%85%A8%E7%BD%91%E6%B8%A9%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [链博会上中外企业“链”起来](https://www.baidu.com/s?wd=%E9%93%BE%E5%8D%9A%E4%BC%9A%E4%B8%8A%E4%B8%AD%E5%A4%96%E4%BC%81%E4%B8%9A%E2%80%9C%E9%93%BE%E2%80%9D%E8%B5%B7%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [习近平向读懂中国国际会议致贺信](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E4%BC%9A%E8%AE%AE%E8%87%B4%E8%B4%BA%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [提高海上维权执法能力](https://www.baidu.com/s?wd=%E6%8F%90%E9%AB%98%E6%B5%B7%E4%B8%8A%E7%BB%B4%E6%9D%83%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [什么是地磁暴 对日常生活有影响吗](https://www.baidu.com/s?wd=%E4%BB%80%E4%B9%88%E6%98%AF%E5%9C%B0%E7%A3%81%E6%9A%B4+%E5%AF%B9%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E6%9C%89%E5%BD%B1%E5%93%8D%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [零下20℃穿单衣骑车男孩被全网温暖](https://www.baidu.com/s?wd=%E9%9B%B6%E4%B8%8B20%E2%84%83%E7%A9%BF%E5%8D%95%E8%A1%A3%E9%AA%91%E8%BD%A6%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%85%A8%E7%BD%91%E6%B8%A9%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [链博会上中外企业“链”起来](https://www.baidu.com/s?wd=%E9%93%BE%E5%8D%9A%E4%BC%9A%E4%B8%8A%E4%B8%AD%E5%A4%96%E4%BC%81%E4%B8%9A%E2%80%9C%E9%93%BE%E2%80%9D%E8%B5%B7%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
