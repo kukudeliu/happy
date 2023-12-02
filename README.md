@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 15:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 15:02:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [尼格买提中奖](https://s.weibo.com/weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E4%B8%AD%E5%A5%96&t=31&band_rank=4&Refer=top)<br />
 5. [黄体破裂](https://s.weibo.com/weibo?q=%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82&t=31&band_rank=5&Refer=top)<br />
 6. [周一围朱丹你们敢耍老子](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B8%80%E5%9B%B4%E6%9C%B1%E4%B8%B9%E4%BD%A0%E4%BB%AC%E6%95%A2%E8%80%8D%E8%80%81%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
-7. [刘诗诗 磨皮](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E7%A3%A8%E7%9A%AE&t=31&band_rank=7&Refer=top)<br />
-8. [女子连吃1周笋干小肠被切25厘米](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%9E%E5%90%831%E5%91%A8%E7%AC%8B%E5%B9%B2%E5%B0%8F%E8%82%A0%E8%A2%AB%E5%88%8725%E5%8E%98%E7%B1%B3%23&t=31&band_rank=8&Refer=top)<br />
+7. [女子连吃1周笋干小肠被切25厘米](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%9E%E5%90%831%E5%91%A8%E7%AC%8B%E5%B9%B2%E5%B0%8F%E8%82%A0%E8%A2%AB%E5%88%8725%E5%8E%98%E7%B1%B3%23&t=31&band_rank=7&Refer=top)<br />
+8. [刘诗诗 磨皮](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E7%A3%A8%E7%9A%AE&t=31&band_rank=8&Refer=top)<br />
 9. [刘宇宁 脖子前倾](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%20%E8%84%96%E5%AD%90%E5%89%8D%E5%80%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
