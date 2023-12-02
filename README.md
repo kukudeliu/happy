@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 13:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 13:30:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [情侣疑因在外旅游住宿感染HPV](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E7%96%91%E5%9B%A0%E5%9C%A8%E5%A4%96%E6%97%85%E6%B8%B8%E4%BD%8F%E5%AE%BF%E6%84%9F%E6%9F%93HPV%23&t=31&band_rank=4&Refer=top)<br />
 5. [刘宇宁 脖子前倾](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%20%E8%84%96%E5%AD%90%E5%89%8D%E5%80%BE&t=31&band_rank=5&Refer=top)<br />
 6. [刘诗诗 磨皮](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E7%A3%A8%E7%9A%AE&t=31&band_rank=6&Refer=top)<br />
-7. [2024年总台春晚官宣](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E6%80%BB%E5%8F%B0%E6%98%A5%E6%99%9A%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [山河图 好燃](https://s.weibo.com/weibo?q=%E5%B1%B1%E6%B2%B3%E5%9B%BE%20%E5%A5%BD%E7%87%83&t=31&band_rank=8&Refer=top)<br />
+7. [山河图 好燃](https://s.weibo.com/weibo?q=%E5%B1%B1%E6%B2%B3%E5%9B%BE%20%E5%A5%BD%E7%87%83&t=31&band_rank=7&Refer=top)<br />
+8. [2024年总台春晚官宣](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E6%80%BB%E5%8F%B0%E6%98%A5%E6%99%9A%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
 9. [柳宗元竟是螺蛳粉的初代推广大使](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E5%AE%97%E5%85%83%E7%AB%9F%E6%98%AF%E8%9E%BA%E8%9B%B3%E7%B2%89%E7%9A%84%E5%88%9D%E4%BB%A3%E6%8E%A8%E5%B9%BF%E5%A4%A7%E4%BD%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
