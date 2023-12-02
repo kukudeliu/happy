@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 17:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 17:32:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [我国纳米金属研究领域取得新突破](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%BA%B3%E7%B1%B3%E9%87%91%E5%B1%9E%E7%A0%94%E7%A9%B6%E9%A2%86%E5%9F%9F%E5%8F%96%E5%BE%97%E6%96%B0%E7%AA%81%E7%A0%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [尼格买提中奖](https://s.weibo.com/weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E4%B8%AD%E5%A5%96&t=31&band_rank=4&Refer=top)<br />
 5. [突然发现你男友是亿万富豪之子](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E4%BD%A0%E7%94%B7%E5%8F%8B%E6%98%AF%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E4%B9%8B%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
-6. [田曦薇 年画娃娃](https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%20%E5%B9%B4%E7%94%BB%E5%A8%83%E5%A8%83&t=31&band_rank=6&Refer=top)<br />
-7. [四无婚礼](https://s.weibo.com/weibo?q=%E5%9B%9B%E6%97%A0%E5%A9%9A%E7%A4%BC&t=31&band_rank=7&Refer=top)<br />
-8. [大冰握手 腱鞘炎](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%86%B0%E6%8F%A1%E6%89%8B%20%E8%85%B1%E9%9E%98%E7%82%8E&t=31&band_rank=8&Refer=top)<br />
-9. [aespa 哥特玫瑰](https://s.weibo.com/weibo?q=aespa%20%E5%93%A5%E7%89%B9%E7%8E%AB%E7%91%B0&t=31&band_rank=9&Refer=top)<br />
+6. [M豆棺材](https://s.weibo.com/weibo?q=M%E8%B1%86%E6%A3%BA%E6%9D%90&t=31&band_rank=6&Refer=top)<br />
+7. [田曦薇 年画娃娃](https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%20%E5%B9%B4%E7%94%BB%E5%A8%83%E5%A8%83&t=31&band_rank=7&Refer=top)<br />
+8. [四无婚礼](https://s.weibo.com/weibo?q=%E5%9B%9B%E6%97%A0%E5%A9%9A%E7%A4%BC&t=31&band_rank=8&Refer=top)<br />
+9. [大冰握手 腱鞘炎](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%86%B0%E6%8F%A1%E6%89%8B%20%E8%85%B1%E9%9E%98%E7%82%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
