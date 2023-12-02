@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 21:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 21:25:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [很想很想你 掉马](https://s.weibo.com/weibo?q=%E5%BE%88%E6%83%B3%E5%BE%88%E6%83%B3%E4%BD%A0%20%E6%8E%89%E9%A9%AC&t=31&band_rank=5&Refer=top)<br />
 6. [大地磁暴预警](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [尹正 自卑是男人最好的医美](https://s.weibo.com/weibo?q=%E5%B0%B9%E6%AD%A3%20%E8%87%AA%E5%8D%91%E6%98%AF%E7%94%B7%E4%BA%BA%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8C%BB%E7%BE%8E&t=31&band_rank=7&Refer=top)<br />
-8. [古装女主以后就这么演](https://s.weibo.com/weibo?q=%E5%8F%A4%E8%A3%85%E5%A5%B3%E4%B8%BB%E4%BB%A5%E5%90%8E%E5%B0%B1%E8%BF%99%E4%B9%88%E6%BC%94&t=31&band_rank=8&Refer=top)<br />
+8. [难哄 白敬亭](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E7%99%BD%E6%95%AC%E4%BA%AD&t=31&band_rank=8&Refer=top)<br />
 9. [摇粒绒 保暖](https://s.weibo.com/weibo?q=%E6%91%87%E7%B2%92%E7%BB%92%20%E4%BF%9D%E6%9A%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
