@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 15:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 15:52:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [2023那些给我们力量的人](https://s.weibo.com/weibo?q=%232023%E9%82%A3%E4%BA%9B%E7%BB%99%E6%88%91%E4%BB%AC%E5%8A%9B%E9%87%8F%E7%9A%84%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [尼格买提中奖](https://s.weibo.com/weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E4%B8%AD%E5%A5%96&t=31&band_rank=4&Refer=top)<br />
 5. [黄体破裂](https://s.weibo.com/weibo?q=%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82&t=31&band_rank=5&Refer=top)<br />
-6. [迪丽热巴新疆舞获外交部矩阵外网推荐](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%96%B0%E7%96%86%E8%88%9E%E8%8E%B7%E5%A4%96%E4%BA%A4%E9%83%A8%E7%9F%A9%E9%98%B5%E5%A4%96%E7%BD%91%E6%8E%A8%E8%8D%90%23&t=31&band_rank=6&Refer=top)<br />
-7. [刘诗诗警告刘宇宁别让我笑](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E8%AD%A6%E5%91%8A%E5%88%98%E5%AE%87%E5%AE%81%E5%88%AB%E8%AE%A9%E6%88%91%E7%AC%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈志朋回应偷税漏税](https://s.weibo.com/weibo?q=%E9%99%88%E5%BF%97%E6%9C%8B%E5%9B%9E%E5%BA%94%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E&t=31&band_rank=8&Refer=top)<br />
+6. [陈志朋回应偷税漏税](https://s.weibo.com/weibo?q=%E9%99%88%E5%BF%97%E6%9C%8B%E5%9B%9E%E5%BA%94%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E&t=31&band_rank=6&Refer=top)<br />
+7. [迪丽热巴新疆舞获外交部矩阵外网推荐](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%96%B0%E7%96%86%E8%88%9E%E8%8E%B7%E5%A4%96%E4%BA%A4%E9%83%A8%E7%9F%A9%E9%98%B5%E5%A4%96%E7%BD%91%E6%8E%A8%E8%8D%90%23&t=31&band_rank=7&Refer=top)<br />
+8. [刘诗诗警告刘宇宁别让我笑](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E8%AD%A6%E5%91%8A%E5%88%98%E5%AE%87%E5%AE%81%E5%88%AB%E8%AE%A9%E6%88%91%E7%AC%91%23&t=31&band_rank=8&Refer=top)<br />
 9. [女子实名举报中石化高管婚内出轨](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E4%B8%AD%E7%9F%B3%E5%8C%96%E9%AB%98%E7%AE%A1%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
