@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 18:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 18:59:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [四川孃孃51岁拿下电竞冠军](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%AD%83%E5%AD%8351%E5%B2%81%E6%8B%BF%E4%B8%8B%E7%94%B5%E7%AB%9E%E5%86%A0%E5%86%9B&t=31&band_rank=5&Refer=top)<br />
 6. [员工称胖东来惩罚制度很多](https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E7%A7%B0%E8%83%96%E4%B8%9C%E6%9D%A5%E6%83%A9%E7%BD%9A%E5%88%B6%E5%BA%A6%E5%BE%88%E5%A4%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [东北小学连续40年浇冰场教学生滑冰](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%B0%8F%E5%AD%A6%E8%BF%9E%E7%BB%AD40%E5%B9%B4%E6%B5%87%E5%86%B0%E5%9C%BA%E6%95%99%E5%AD%A6%E7%94%9F%E6%BB%91%E5%86%B0%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈志朋回应偷税漏税](https://s.weibo.com/weibo?q=%E9%99%88%E5%BF%97%E6%9C%8B%E5%9B%9E%E5%BA%94%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E&t=31&band_rank=8&Refer=top)<br />
-9. [VOGUE编辑回怼网友](https://s.weibo.com/weibo?q=VOGUE%E7%BC%96%E8%BE%91%E5%9B%9E%E6%80%BC%E7%BD%91%E5%8F%8B&t=31&band_rank=9&Refer=top)<br />
+8. [VOGUE编辑回怼网友](https://s.weibo.com/weibo?q=VOGUE%E7%BC%96%E8%BE%91%E5%9B%9E%E6%80%BC%E7%BD%91%E5%8F%8B&t=31&band_rank=8&Refer=top)<br />
+9. [陈志朋回应偷税漏税](https://s.weibo.com/weibo?q=%E9%99%88%E5%BF%97%E6%9C%8B%E5%9B%9E%E5%BA%94%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
