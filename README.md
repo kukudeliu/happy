@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 10:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 10:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [零下20℃穿单衣骑车男孩被全网温暖](https://www.baidu.com/s?wd=%E9%9B%B6%E4%B8%8B20%E2%84%83%E7%A9%BF%E5%8D%95%E8%A1%A3%E9%AA%91%E8%BD%A6%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%85%A8%E7%BD%91%E6%B8%A9%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [甘肃发现超亿吨级整装大油田](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%8F%91%E7%8E%B0%E8%B6%85%E4%BA%BF%E5%90%A8%E7%BA%A7%E6%95%B4%E8%A3%85%E5%A4%A7%E6%B2%B9%E7%94%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [林志玲丈夫称娶她完全没压力](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E7%8E%B2%E4%B8%88%E5%A4%AB%E7%A7%B0%E5%A8%B6%E5%A5%B9%E5%AE%8C%E5%85%A8%E6%B2%A1%E5%8E%8B%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [深夜直播间里卖惨的老年人](https://www.baidu.com/s?wd=%E6%B7%B1%E5%A4%9C%E7%9B%B4%E6%92%AD%E9%97%B4%E9%87%8C%E5%8D%96%E6%83%A8%E7%9A%84%E8%80%81%E5%B9%B4%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [儿子回家 亿万富豪设宴感恩社会](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E5%9B%9E%E5%AE%B6+%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E8%AE%BE%E5%AE%B4%E6%84%9F%E6%81%A9%E7%A4%BE%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [福州辟谣医院小楼倒塌呈45度](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E8%BE%9F%E8%B0%A3%E5%8C%BB%E9%99%A2%E5%B0%8F%E6%A5%BC%E5%80%92%E5%A1%8C%E5%91%8845%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [零下20℃穿单衣骑车男孩被全网温暖](https://www.baidu.com/s?wd=%E9%9B%B6%E4%B8%8B20%E2%84%83%E7%A9%BF%E5%8D%95%E8%A1%A3%E9%AA%91%E8%BD%A6%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%85%A8%E7%BD%91%E6%B8%A9%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [甘肃发现超亿吨级整装大油田](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%8F%91%E7%8E%B0%E8%B6%85%E4%BA%BF%E5%90%A8%E7%BA%A7%E6%95%B4%E8%A3%85%E5%A4%A7%E6%B2%B9%E7%94%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [林志玲丈夫称娶她完全没压力](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E7%8E%B2%E4%B8%88%E5%A4%AB%E7%A7%B0%E5%A8%B6%E5%A5%B9%E5%AE%8C%E5%85%A8%E6%B2%A1%E5%8E%8B%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [深夜直播间里卖惨的老年人](https://www.baidu.com/s?wd=%E6%B7%B1%E5%A4%9C%E7%9B%B4%E6%92%AD%E9%97%B4%E9%87%8C%E5%8D%96%E6%83%A8%E7%9A%84%E8%80%81%E5%B9%B4%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [儿子回家 亿万富豪设宴感恩社会](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E5%9B%9E%E5%AE%B6+%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E8%AE%BE%E5%AE%B4%E6%84%9F%E6%81%A9%E7%A4%BE%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [福州辟谣医院小楼倒塌呈45度](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E8%BE%9F%E8%B0%A3%E5%8C%BB%E9%99%A2%E5%B0%8F%E6%A5%BC%E5%80%92%E5%A1%8C%E5%91%8845%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
