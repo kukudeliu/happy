@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 13:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 13:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘诗诗 磨皮](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E7%A3%A8%E7%9A%AE&t=31&band_rank=6&Refer=top)<br />
 7. [山河图 好燃](https://s.weibo.com/weibo?q=%E5%B1%B1%E6%B2%B3%E5%9B%BE%20%E5%A5%BD%E7%87%83&t=31&band_rank=7&Refer=top)<br />
 8. [2024年总台春晚官宣](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E6%80%BB%E5%8F%B0%E6%98%A5%E6%99%9A%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [柳宗元竟是螺蛳粉的初代推广大使](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E5%AE%97%E5%85%83%E7%AB%9F%E6%98%AF%E8%9E%BA%E8%9B%B3%E7%B2%89%E7%9A%84%E5%88%9D%E4%BB%A3%E6%8E%A8%E5%B9%BF%E5%A4%A7%E4%BD%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [因关远光灯打人致流产夫妻已被拘](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E5%85%B3%E8%BF%9C%E5%85%89%E7%81%AF%E6%89%93%E4%BA%BA%E8%87%B4%E6%B5%81%E4%BA%A7%E5%A4%AB%E5%A6%BB%E5%B7%B2%E8%A2%AB%E6%8B%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
