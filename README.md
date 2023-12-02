@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 17:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 17:47:01</h4></div>
 
 > 微博  
 
-1. [陈志朋回应偷税漏税](https://s.weibo.com/weibo?q=%E9%99%88%E5%BF%97%E6%9C%8B%E5%9B%9E%E5%BA%94%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E&t=31&band_rank=1&Refer=top)<br />
-2. [田曦薇 年画娃娃](https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%20%E5%B9%B4%E7%94%BB%E5%A8%83%E5%A8%83&t=31&band_rank=2&Refer=top)<br />
+1. [田曦薇 年画娃娃](https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%20%E5%B9%B4%E7%94%BB%E5%A8%83%E5%A8%83&t=31&band_rank=1&Refer=top)<br />
+2. [陈志朋回应偷税漏税](https://s.weibo.com/weibo?q=%E9%99%88%E5%BF%97%E6%9C%8B%E5%9B%9E%E5%BA%94%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E&t=31&band_rank=2&Refer=top)<br />
 3. [我国纳米金属研究领域取得新突破](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%BA%B3%E7%B1%B3%E9%87%91%E5%B1%9E%E7%A0%94%E7%A9%B6%E9%A2%86%E5%9F%9F%E5%8F%96%E5%BE%97%E6%96%B0%E7%AA%81%E7%A0%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [M豆棺材](https://s.weibo.com/weibo?q=M%E8%B1%86%E6%A3%BA%E6%9D%90&t=31&band_rank=4&Refer=top)<br />
 5. [黄体破裂](https://s.weibo.com/weibo?q=%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82&t=31&band_rank=5&Refer=top)<br />
