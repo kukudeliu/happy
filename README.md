@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 20:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 20:57:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [90后小伙用竹子造自行车 出口6万台](https://www.baidu.com/s?wd=90%E5%90%8E%E5%B0%8F%E4%BC%99%E7%94%A8%E7%AB%B9%E5%AD%90%E9%80%A0%E8%87%AA%E8%A1%8C%E8%BD%A6+%E5%87%BA%E5%8F%A36%E4%B8%87%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [官方：下周一或发生小到中等地磁暴](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E4%B8%8B%E5%91%A8%E4%B8%80%E6%88%96%E5%8F%91%E7%94%9F%E5%B0%8F%E5%88%B0%E4%B8%AD%E7%AD%89%E5%9C%B0%E7%A3%81%E6%9A%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [苏翊鸣单板滑雪大跳台世界杯夺冠](https://www.baidu.com/s?wd=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%8D%95%E6%9D%BF%E6%BB%91%E9%9B%AA%E5%A4%A7%E8%B7%B3%E5%8F%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [肯德基推出炸鸡味香水](https://www.baidu.com/s?wd=%E8%82%AF%E5%BE%B7%E5%9F%BA%E6%8E%A8%E5%87%BA%E7%82%B8%E9%B8%A1%E5%91%B3%E9%A6%99%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [寻亲亿万富豪：为儿子准备了3套房](https://www.baidu.com/s?wd=%E5%AF%BB%E4%BA%B2%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%EF%BC%9A%E4%B8%BA%E5%84%BF%E5%AD%90%E5%87%86%E5%A4%87%E4%BA%863%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣养老金认证出台新规](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E5%85%BB%E8%80%81%E9%87%91%E8%AE%A4%E8%AF%81%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [90后小伙用竹子造自行车 出口6万台](https://www.baidu.com/s?wd=90%E5%90%8E%E5%B0%8F%E4%BC%99%E7%94%A8%E7%AB%B9%E5%AD%90%E9%80%A0%E8%87%AA%E8%A1%8C%E8%BD%A6+%E5%87%BA%E5%8F%A36%E4%B8%87%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [官方：下周一或发生小到中等地磁暴](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E4%B8%8B%E5%91%A8%E4%B8%80%E6%88%96%E5%8F%91%E7%94%9F%E5%B0%8F%E5%88%B0%E4%B8%AD%E7%AD%89%E5%9C%B0%E7%A3%81%E6%9A%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [苏翊鸣单板滑雪大跳台世界杯夺冠](https://www.baidu.com/s?wd=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%8D%95%E6%9D%BF%E6%BB%91%E9%9B%AA%E5%A4%A7%E8%B7%B3%E5%8F%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [肯德基推出炸鸡味香水](https://www.baidu.com/s?wd=%E8%82%AF%E5%BE%B7%E5%9F%BA%E6%8E%A8%E5%87%BA%E7%82%B8%E9%B8%A1%E5%91%B3%E9%A6%99%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [寻亲亿万富豪：为儿子准备了3套房](https://www.baidu.com/s?wd=%E5%AF%BB%E4%BA%B2%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%EF%BC%9A%E4%B8%BA%E5%84%BF%E5%AD%90%E5%87%86%E5%A4%87%E4%BA%863%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣养老金认证出台新规](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E5%85%BB%E8%80%81%E9%87%91%E8%AE%A4%E8%AF%81%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
