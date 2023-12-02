@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 04:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 04:39:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [国家卫健委：目前未发现新发传染病](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%EF%BC%9A%E7%9B%AE%E5%89%8D%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%B0%E5%8F%91%E4%BC%A0%E6%9F%93%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [菲律宾近海7.6级地震 海啸预警发布](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%BF%91%E6%B5%B77.6%E7%BA%A7%E5%9C%B0%E9%9C%87+%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子打球猝死工作人员抢下黄金4分钟](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%89%93%E7%90%83%E7%8C%9D%E6%AD%BB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8A%A2%E4%B8%8B%E9%BB%84%E9%87%914%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [90后小伙用竹子造自行车 出口6万台](https://www.baidu.com/s?wd=90%E5%90%8E%E5%B0%8F%E4%BC%99%E7%94%A8%E7%AB%B9%E5%AD%90%E9%80%A0%E8%87%AA%E8%A1%8C%E8%BD%A6+%E5%87%BA%E5%8F%A36%E4%B8%87%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小猫偷吃20根虫草主人含泪赔2千](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%AB%E5%81%B7%E5%90%8320%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小猫偷吃20根虫草主人含泪赔2千](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%AB%E5%81%B7%E5%90%8320%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [90后小伙用竹子造自行车 出口6万台](https://www.baidu.com/s?wd=90%E5%90%8E%E5%B0%8F%E4%BC%99%E7%94%A8%E7%AB%B9%E5%AD%90%E9%80%A0%E8%87%AA%E8%A1%8C%E8%BD%A6+%E5%87%BA%E5%8F%A36%E4%B8%87%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣养老金认证出台新规](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E5%85%BB%E8%80%81%E9%87%91%E8%AE%A4%E8%AF%81%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [国家卫健委：目前未发现新发传染病](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%EF%BC%9A%E7%9B%AE%E5%89%8D%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%B0%E5%8F%91%E4%BC%A0%E6%9F%93%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [菲律宾近海7.6级地震 海啸预警发布](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%BF%91%E6%B5%B77.6%E7%BA%A7%E5%9C%B0%E9%9C%87+%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子打球猝死工作人员抢下黄金4分钟](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%89%93%E7%90%83%E7%8C%9D%E6%AD%BB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8A%A2%E4%B8%8B%E9%BB%84%E9%87%914%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [90后小伙用竹子造自行车 出口6万台](https://www.baidu.com/s?wd=90%E5%90%8E%E5%B0%8F%E4%BC%99%E7%94%A8%E7%AB%B9%E5%AD%90%E9%80%A0%E8%87%AA%E8%A1%8C%E8%BD%A6+%E5%87%BA%E5%8F%A36%E4%B8%87%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小猫偷吃20根虫草主人含泪赔2千](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%AB%E5%81%B7%E5%90%8320%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小猫偷吃20根虫草主人含泪赔2千](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%AB%E5%81%B7%E5%90%8320%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [90后小伙用竹子造自行车 出口6万台](https://www.baidu.com/s?wd=90%E5%90%8E%E5%B0%8F%E4%BC%99%E7%94%A8%E7%AB%B9%E5%AD%90%E9%80%A0%E8%87%AA%E8%A1%8C%E8%BD%A6+%E5%87%BA%E5%8F%A36%E4%B8%87%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣养老金认证出台新规](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E5%85%BB%E8%80%81%E9%87%91%E8%AE%A4%E8%AF%81%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
