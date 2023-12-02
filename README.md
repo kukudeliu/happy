@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 23:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 23:04:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [谁来救救王心凌啊](https://s.weibo.com/weibo?q=%E8%B0%81%E6%9D%A5%E6%95%91%E6%95%91%E7%8E%8B%E5%BF%83%E5%87%8C%E5%95%8A&t=31&band_rank=4&Refer=top)<br />
 5. [赵露思 小红书广告](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%B9%BF%E5%91%8A&t=31&band_rank=5&Refer=top)<br />
 6. [白鹿 我可太想演电影了](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E6%88%91%E5%8F%AF%E5%A4%AA%E6%83%B3%E6%BC%94%E7%94%B5%E5%BD%B1%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [龙行龘龘](https://s.weibo.com/weibo?q=%E9%BE%99%E8%A1%8C%E9%BE%98%E9%BE%98&t=31&band_rank=7&Refer=top)<br />
+7. [刘诗诗刘宇宁吻戏](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%88%98%E5%AE%87%E5%AE%81%E5%90%BB%E6%88%8F&t=31&band_rank=7&Refer=top)<br />
 8. [加拿大超级猪入侵美国](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%B6%85%E7%BA%A7%E7%8C%AA%E5%85%A5%E4%BE%B5%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [苏翊鸣夺冠后向粉丝比心](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%BA%E5%86%A0%E5%90%8E%E5%90%91%E7%B2%89%E4%B8%9D%E6%AF%94%E5%BF%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [张大仙直播](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A4%A7%E4%BB%99%E7%9B%B4%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [90后小伙用竹子造自行车 出口6万台](https://www.baidu.com/s?wd=90%E5%90%8E%E5%B0%8F%E4%BC%99%E7%94%A8%E7%AB%B9%E5%AD%90%E9%80%A0%E8%87%AA%E8%A1%8C%E8%BD%A6+%E5%87%BA%E5%8F%A36%E4%B8%87%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小猫偷吃20根虫草主人含泪赔2千](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%AB%E5%81%B7%E5%90%8320%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [42岁女子20天断崖式衰老](https://www.baidu.com/s?wd=42%E5%B2%81%E5%A5%B3%E5%AD%9020%E5%A4%A9%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子打球猝死工作人员抢下黄金4分钟](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%89%93%E7%90%83%E7%8C%9D%E6%AD%BB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8A%A2%E4%B8%8B%E9%BB%84%E9%87%914%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [四川50多岁阿姨带女儿拿下电竞冠军](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D50%E5%A4%9A%E5%B2%81%E9%98%BF%E5%A7%A8%E5%B8%A6%E5%A5%B3%E5%84%BF%E6%8B%BF%E4%B8%8B%E7%94%B5%E7%AB%9E%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣养老金认证出台新规](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E5%85%BB%E8%80%81%E9%87%91%E8%AE%A4%E8%AF%81%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [90后小伙用竹子造自行车 出口6万台](https://www.baidu.com/s?wd=90%E5%90%8E%E5%B0%8F%E4%BC%99%E7%94%A8%E7%AB%B9%E5%AD%90%E9%80%A0%E8%87%AA%E8%A1%8C%E8%BD%A6+%E5%87%BA%E5%8F%A36%E4%B8%87%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小猫偷吃20根虫草主人含泪赔2千](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%AB%E5%81%B7%E5%90%8320%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [42岁女子20天断崖式衰老](https://www.baidu.com/s?wd=42%E5%B2%81%E5%A5%B3%E5%AD%9020%E5%A4%A9%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子打球猝死工作人员抢下黄金4分钟](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%89%93%E7%90%83%E7%8C%9D%E6%AD%BB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8A%A2%E4%B8%8B%E9%BB%84%E9%87%914%E5%88%86%E9%92%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [四川50多岁阿姨带女儿拿下电竞冠军](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D50%E5%A4%9A%E5%B2%81%E9%98%BF%E5%A7%A8%E5%B8%A6%E5%A5%B3%E5%84%BF%E6%8B%BF%E4%B8%8B%E7%94%B5%E7%AB%9E%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣养老金认证出台新规](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E5%85%BB%E8%80%81%E9%87%91%E8%AE%A4%E8%AF%81%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
