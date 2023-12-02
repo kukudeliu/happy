@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 19:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 19:06:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [员工称胖东来惩罚制度很多](https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E7%A7%B0%E8%83%96%E4%B8%9C%E6%9D%A5%E6%83%A9%E7%BD%9A%E5%88%B6%E5%BA%A6%E5%BE%88%E5%A4%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [东北小学连续40年浇冰场教学生滑冰](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%B0%8F%E5%AD%A6%E8%BF%9E%E7%BB%AD40%E5%B9%B4%E6%B5%87%E5%86%B0%E5%9C%BA%E6%95%99%E5%AD%A6%E7%94%9F%E6%BB%91%E5%86%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [周也 童装汉服](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E7%AB%A5%E8%A3%85%E6%B1%89%E6%9C%8D&t=31&band_rank=8&Refer=top)<br />
-9. [VOGUE编辑回怼网友](https://s.weibo.com/weibo?q=VOGUE%E7%BC%96%E8%BE%91%E5%9B%9E%E6%80%BC%E7%BD%91%E5%8F%8B&t=31&band_rank=9&Refer=top)<br />
+9. [MMA](https://s.weibo.com/weibo?q=MMA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
