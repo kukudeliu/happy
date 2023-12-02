@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 16:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 16:45:01</h4></div>
 
 > 微博  
 
-1. [陈志朋回应偷税漏税](https://s.weibo.com/weibo?q=%E9%99%88%E5%BF%97%E6%9C%8B%E5%9B%9E%E5%BA%94%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E&t=31&band_rank=1&Refer=top)<br />
-2. [突然发现你男友是亿万富豪之子](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E4%BD%A0%E7%94%B7%E5%8F%8B%E6%98%AF%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E4%B9%8B%E5%AD%90%23&t=31&band_rank=2&Refer=top)<br />
+1. [突然发现你男友是亿万富豪之子](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E4%BD%A0%E7%94%B7%E5%8F%8B%E6%98%AF%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E4%B9%8B%E5%AD%90%23&t=31&band_rank=1&Refer=top)<br />
+2. [陈志朋回应偷税漏税](https://s.weibo.com/weibo?q=%E9%99%88%E5%BF%97%E6%9C%8B%E5%9B%9E%E5%BA%94%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E&t=31&band_rank=2&Refer=top)<br />
 3. [2023那些给我们力量的人](https://s.weibo.com/weibo?q=%232023%E9%82%A3%E4%BA%9B%E7%BB%99%E6%88%91%E4%BB%AC%E5%8A%9B%E9%87%8F%E7%9A%84%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [宋轶另一个冰淇淋是谁的](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%86%B0%E6%B7%87%E6%B7%8B%E6%98%AF%E8%B0%81%E7%9A%84%23&t=31&band_rank=4&Refer=top)<br />
 5. [黄体破裂](https://s.weibo.com/weibo?q=%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82&t=31&band_rank=5&Refer=top)<br />
