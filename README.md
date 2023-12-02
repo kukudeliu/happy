@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 01:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 01:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [能减少黑头的小习惯](https://s.weibo.com/weibo?q=%E8%83%BD%E5%87%8F%E5%B0%91%E9%BB%91%E5%A4%B4%E7%9A%84%E5%B0%8F%E4%B9%A0%E6%83%AF&t=31&band_rank=6&Refer=top)<br />
 7. [跪杀弗洛伊德的警察狱中被刺22刀](https://s.weibo.com/weibo?q=%23%E8%B7%AA%E6%9D%80%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7%E7%9A%84%E8%AD%A6%E5%AF%9F%E7%8B%B1%E4%B8%AD%E8%A2%AB%E5%88%BA22%E5%88%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [被公职人员占用的公租房小区已腾退五六百户](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%8D%A0%E7%94%A8%E7%9A%84%E5%85%AC%E7%A7%9F%E6%88%BF%E5%B0%8F%E5%8C%BA%E5%B7%B2%E8%85%BE%E9%80%80%E4%BA%94%E5%85%AD%E7%99%BE%E6%88%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [谁来救救王心凌啊](https://s.weibo.com/weibo?q=%E8%B0%81%E6%9D%A5%E6%95%91%E6%95%91%E7%8E%8B%E5%BF%83%E5%87%8C%E5%95%8A&t=31&band_rank=9&Refer=top)<br />
+9. [白鹿 我可太想演电影了](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E6%88%91%E5%8F%AF%E5%A4%AA%E6%83%B3%E6%BC%94%E7%94%B5%E5%BD%B1%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
