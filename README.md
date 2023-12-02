@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 22:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 22:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵露思 小红书广告](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%B9%BF%E5%91%8A&t=31&band_rank=6&Refer=top)<br />
 7. [加拿大超级猪入侵美国](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%B6%85%E7%BA%A7%E7%8C%AA%E5%85%A5%E4%BE%B5%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [尹正 自卑是男人最好的医美](https://s.weibo.com/weibo?q=%E5%B0%B9%E6%AD%A3%20%E8%87%AA%E5%8D%91%E6%98%AF%E7%94%B7%E4%BA%BA%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8C%BB%E7%BE%8E&t=31&band_rank=8&Refer=top)<br />
-9. [摇粒绒 保暖](https://s.weibo.com/weibo?q=%E6%91%87%E7%B2%92%E7%BB%92%20%E4%BF%9D%E6%9A%96&t=31&band_rank=9&Refer=top)<br />
+9. [张大仙直播](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A4%A7%E4%BB%99%E7%9B%B4%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
