@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 13:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 13:52:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [2023那些给我们力量的人](https://s.weibo.com/weibo?q=%232023%E9%82%A3%E4%BA%9B%E7%BB%99%E6%88%91%E4%BB%AC%E5%8A%9B%E9%87%8F%E7%9A%84%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [周一围朱丹你们敢耍老子](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B8%80%E5%9B%B4%E6%9C%B1%E4%B8%B9%E4%BD%A0%E4%BB%AC%E6%95%A2%E8%80%8D%E8%80%81%E5%AD%90&t=31&band_rank=4&Refer=top)<br />
 5. [情侣疑因在外旅游住宿感染HPV](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E7%96%91%E5%9B%A0%E5%9C%A8%E5%A4%96%E6%97%85%E6%B8%B8%E4%BD%8F%E5%AE%BF%E6%84%9F%E6%9F%93HPV%23&t=31&band_rank=5&Refer=top)<br />
-6. [刘诗诗 磨皮](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E7%A3%A8%E7%9A%AE&t=31&band_rank=6&Refer=top)<br />
-7. [刘宇宁 脖子前倾](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%20%E8%84%96%E5%AD%90%E5%89%8D%E5%80%BE&t=31&band_rank=7&Refer=top)<br />
-8. [尼格买提中奖](https://s.weibo.com/weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E4%B8%AD%E5%A5%96&t=31&band_rank=8&Refer=top)<br />
+6. [尼格买提中奖](https://s.weibo.com/weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E4%B8%AD%E5%A5%96&t=31&band_rank=6&Refer=top)<br />
+7. [刘诗诗 磨皮](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E7%A3%A8%E7%9A%AE&t=31&band_rank=7&Refer=top)<br />
+8. [刘宇宁 脖子前倾](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%20%E8%84%96%E5%AD%90%E5%89%8D%E5%80%BE&t=31&band_rank=8&Refer=top)<br />
 9. [山河图 好燃](https://s.weibo.com/weibo?q=%E5%B1%B1%E6%B2%B3%E5%9B%BE%20%E5%A5%BD%E7%87%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
