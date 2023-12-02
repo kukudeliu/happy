@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 08:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 08:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国气象局发布大地磁暴预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B0%94%E8%B1%A1%E5%B1%80%E5%8F%91%E5%B8%83%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [张纪中曝光前妻隐私被判罚2万](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BA%AA%E4%B8%AD%E6%9B%9D%E5%85%89%E5%89%8D%E5%A6%BB%E9%9A%90%E7%A7%81%E8%A2%AB%E5%88%A4%E7%BD%9A2%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈志朋办歌友会实际只来了一百人](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BF%97%E6%9C%8B%E5%8A%9E%E6%AD%8C%E5%8F%8B%E4%BC%9A%E5%AE%9E%E9%99%85%E5%8F%AA%E6%9D%A5%E4%BA%86%E4%B8%80%E7%99%BE%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [再见李可乐 你好李焕英](https://s.weibo.com/weibo?q=%E5%86%8D%E8%A7%81%E6%9D%8E%E5%8F%AF%E4%B9%90%20%E4%BD%A0%E5%A5%BD%E6%9D%8E%E7%84%95%E8%8B%B1&t=31&band_rank=9&Refer=top)<br />
+9. [儿子和亿万富豪父亲相认称没反应过来](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E5%92%8C%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E7%88%B6%E4%BA%B2%E7%9B%B8%E8%AE%A4%E7%A7%B0%E6%B2%A1%E5%8F%8D%E5%BA%94%E8%BF%87%E6%9D%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
