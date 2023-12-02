@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 23:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 23:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘诗诗刘宇宁吻戏](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%88%98%E5%AE%87%E5%AE%81%E5%90%BB%E6%88%8F&t=31&band_rank=6&Refer=top)<br />
 7. [龙行龘龘](https://s.weibo.com/weibo?q=%23%E9%BE%99%E8%A1%8C%E9%BE%98%E9%BE%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [加拿大超级猪入侵美国](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%B6%85%E7%BA%A7%E7%8C%AA%E5%85%A5%E4%BE%B5%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [摇粒绒 保暖](https://s.weibo.com/weibo?q=%E6%91%87%E7%B2%92%E7%BB%92%20%E4%BF%9D%E6%9A%96&t=31&band_rank=9&Refer=top)<br />
+9. [被公职人员占用的公租房小区已腾退五六百户](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%8D%A0%E7%94%A8%E7%9A%84%E5%85%AC%E7%A7%9F%E6%88%BF%E5%B0%8F%E5%8C%BA%E5%B7%B2%E8%85%BE%E9%80%80%E4%BA%94%E5%85%AD%E7%99%BE%E6%88%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
