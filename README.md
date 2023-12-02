@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 17:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 17:57:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [陈志朋回应偷税漏税](https://s.weibo.com/weibo?q=%E9%99%88%E5%BF%97%E6%9C%8B%E5%9B%9E%E5%BA%94%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E&t=31&band_rank=2&Refer=top)<br />
 3. [我国纳米金属研究领域取得新突破](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%BA%B3%E7%B1%B3%E9%87%91%E5%B1%9E%E7%A0%94%E7%A9%B6%E9%A2%86%E5%9F%9F%E5%8F%96%E5%BE%97%E6%96%B0%E7%AA%81%E7%A0%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [M豆棺材](https://s.weibo.com/weibo?q=M%E8%B1%86%E6%A3%BA%E6%9D%90&t=31&band_rank=4&Refer=top)<br />
-5. [尼格买提中奖](https://s.weibo.com/weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E4%B8%AD%E5%A5%96&t=31&band_rank=5&Refer=top)<br />
-6. [MMA](https://s.weibo.com/weibo?q=MMA&t=31&band_rank=6&Refer=top)<br />
+5. [东北小学连续40年浇冰场教学生滑冰](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%B0%8F%E5%AD%A6%E8%BF%9E%E7%BB%AD40%E5%B9%B4%E6%B5%87%E5%86%B0%E5%9C%BA%E6%95%99%E5%AD%A6%E7%94%9F%E6%BB%91%E5%86%B0%23&t=31&band_rank=5&Refer=top)<br />
+6. [四川孃孃51岁拿下电竞冠军](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%AD%83%E5%AD%8351%E5%B2%81%E6%8B%BF%E4%B8%8B%E7%94%B5%E7%AB%9E%E5%86%A0%E5%86%9B&t=31&band_rank=6&Refer=top)<br />
 7. [成都草丛中捕获一颗熊猫菜](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%8D%89%E4%B8%9B%E4%B8%AD%E6%8D%95%E8%8E%B7%E4%B8%80%E9%A2%97%E7%86%8A%E7%8C%AB%E8%8F%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [东北小学连续40年浇冰场教学生滑冰](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%B0%8F%E5%AD%A6%E8%BF%9E%E7%BB%AD40%E5%B9%B4%E6%B5%87%E5%86%B0%E5%9C%BA%E6%95%99%E5%AD%A6%E7%94%9F%E6%BB%91%E5%86%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [四川孃孃51岁拿下电竞冠军](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%AD%83%E5%AD%8351%E5%B2%81%E6%8B%BF%E4%B8%8B%E7%94%B5%E7%AB%9E%E5%86%A0%E5%86%9B&t=31&band_rank=9&Refer=top)<br />
+8. [尼格买提中奖](https://s.weibo.com/weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E4%B8%AD%E5%A5%96&t=31&band_rank=8&Refer=top)<br />
+9. [MMA](https://s.weibo.com/weibo?q=MMA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
