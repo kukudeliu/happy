@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 09:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 09:27:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [税务部门直接给陈志朋打了电话](https://s.weibo.com/weibo?q=%23%E7%A8%8E%E5%8A%A1%E9%83%A8%E9%97%A8%E7%9B%B4%E6%8E%A5%E7%BB%99%E9%99%88%E5%BF%97%E6%9C%8B%E6%89%93%E4%BA%86%E7%94%B5%E8%AF%9D%23&t=31&band_rank=2&Refer=top)<br />
 3. [民警反诈劝阻真实现场](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%8F%8D%E8%AF%88%E5%8A%9D%E9%98%BB%E7%9C%9F%E5%AE%9E%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [发生高危性行为后如何补救](https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%94%9F%E9%AB%98%E5%8D%B1%E6%80%A7%E8%A1%8C%E4%B8%BA%E5%90%8E%E5%A6%82%E4%BD%95%E8%A1%A5%E6%95%91%23&t=31&band_rank=4&Refer=top)<br />
-5. [北京极光](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%9E%81%E5%85%89&t=31&band_rank=5&Refer=top)<br />
-6. [2024年总台春晚官宣](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E6%80%BB%E5%8F%B0%E6%98%A5%E6%99%9A%E5%AE%98%E5%AE%A3%23&t=31&band_rank=6&Refer=top)<br />
+5. [2024年总台春晚官宣](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E6%80%BB%E5%8F%B0%E6%98%A5%E6%99%9A%E5%AE%98%E5%AE%A3%23&t=31&band_rank=5&Refer=top)<br />
+6. [北京极光](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%9E%81%E5%85%89&t=31&band_rank=6&Refer=top)<br />
 7. [胖东来员工不想上班请假不允许不批假](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD%E8%AF%B7%E5%81%87%E4%B8%8D%E5%85%81%E8%AE%B8%E4%B8%8D%E6%89%B9%E5%81%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [儿子和亿万富豪父亲相认称没反应过来](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E5%92%8C%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E7%88%B6%E4%BA%B2%E7%9B%B8%E8%AE%A4%E7%A7%B0%E6%B2%A1%E5%8F%8D%E5%BA%94%E8%BF%87%E6%9D%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [张远小号秒删](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E5%B0%8F%E5%8F%B7%E7%A7%92%E5%88%A0%23&t=31&band_rank=9&Refer=top)<br />
