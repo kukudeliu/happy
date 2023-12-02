@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 21:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 21:49:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [爆款短剧演员一天最高薪酬3万元](https://www.baidu.com/s?wd=%E7%88%86%E6%AC%BE%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E4%B8%80%E5%A4%A9%E6%9C%80%E9%AB%98%E8%96%AA%E9%85%AC3%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [国家卫健委：目前未发现新发传染病](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%EF%BC%9A%E7%9B%AE%E5%89%8D%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%B0%E5%8F%91%E4%BC%A0%E6%9F%93%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [四川50多岁阿姨带女儿拿下电竞冠军](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D50%E5%A4%9A%E5%B2%81%E9%98%BF%E5%A7%A8%E5%B8%A6%E5%A5%B3%E5%84%BF%E6%8B%BF%E4%B8%8B%E7%94%B5%E7%AB%9E%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [杨鸣曾数次起诉离婚](https://www.baidu.com/s?wd=%E6%9D%A8%E9%B8%A3%E6%9B%BE%E6%95%B0%E6%AC%A1%E8%B5%B7%E8%AF%89%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [红色极光与月华月晕罕见同框画面](https://www.baidu.com/s?wd=%E7%BA%A2%E8%89%B2%E6%9E%81%E5%85%89%E4%B8%8E%E6%9C%88%E5%8D%8E%E6%9C%88%E6%99%95%E7%BD%95%E8%A7%81%E5%90%8C%E6%A1%86%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [42岁女子20天断崖式衰老](https://www.baidu.com/s?wd=42%E5%B2%81%E5%A5%B3%E5%AD%9020%E5%A4%A9%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [90后小伙用竹子造自行车 出口6万台](https://www.baidu.com/s?wd=90%E5%90%8E%E5%B0%8F%E4%BC%99%E7%94%A8%E7%AB%B9%E5%AD%90%E9%80%A0%E8%87%AA%E8%A1%8C%E8%BD%A6+%E5%87%BA%E5%8F%A36%E4%B8%87%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加拿大“超级猪”入侵美国](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E2%80%9C%E8%B6%85%E7%BA%A7%E7%8C%AA%E2%80%9D%E5%85%A5%E4%BE%B5%E7%BE%8E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣养老金认证出台新规](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E5%85%BB%E8%80%81%E9%87%91%E8%AE%A4%E8%AF%81%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [爆款短剧演员一天最高薪酬3万元](https://www.baidu.com/s?wd=%E7%88%86%E6%AC%BE%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E4%B8%80%E5%A4%A9%E6%9C%80%E9%AB%98%E8%96%AA%E9%85%AC3%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [国家卫健委：目前未发现新发传染病](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%EF%BC%9A%E7%9B%AE%E5%89%8D%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%B0%E5%8F%91%E4%BC%A0%E6%9F%93%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [四川50多岁阿姨带女儿拿下电竞冠军](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D50%E5%A4%9A%E5%B2%81%E9%98%BF%E5%A7%A8%E5%B8%A6%E5%A5%B3%E5%84%BF%E6%8B%BF%E4%B8%8B%E7%94%B5%E7%AB%9E%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [杨鸣曾数次起诉离婚](https://www.baidu.com/s?wd=%E6%9D%A8%E9%B8%A3%E6%9B%BE%E6%95%B0%E6%AC%A1%E8%B5%B7%E8%AF%89%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [红色极光与月华月晕罕见同框画面](https://www.baidu.com/s?wd=%E7%BA%A2%E8%89%B2%E6%9E%81%E5%85%89%E4%B8%8E%E6%9C%88%E5%8D%8E%E6%9C%88%E6%99%95%E7%BD%95%E8%A7%81%E5%90%8C%E6%A1%86%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [42岁女子20天断崖式衰老](https://www.baidu.com/s?wd=42%E5%B2%81%E5%A5%B3%E5%AD%9020%E5%A4%A9%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [90后小伙用竹子造自行车 出口6万台](https://www.baidu.com/s?wd=90%E5%90%8E%E5%B0%8F%E4%BC%99%E7%94%A8%E7%AB%B9%E5%AD%90%E9%80%A0%E8%87%AA%E8%A1%8C%E8%BD%A6+%E5%87%BA%E5%8F%A36%E4%B8%87%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [加拿大“超级猪”入侵美国](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E2%80%9C%E8%B6%85%E7%BA%A7%E7%8C%AA%E2%80%9D%E5%85%A5%E4%BE%B5%E7%BE%8E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣养老金认证出台新规](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E5%85%BB%E8%80%81%E9%87%91%E8%AE%A4%E8%AF%81%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
