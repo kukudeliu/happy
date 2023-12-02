@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 07:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 07:52:01</h4></div>
 
 > 微博  
 
@@ -18,10 +18,10 @@
 > 百度  
 
 1. [紧扣一体化和高质量两个关键词](https://www.baidu.com/s?wd=%E7%B4%A7%E6%89%A3%E4%B8%80%E4%BD%93%E5%8C%96%E5%92%8C%E9%AB%98%E8%B4%A8%E9%87%8F%E4%B8%A4%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [旅客称花2500元住酒店被蛇咬](https://www.baidu.com/s?wd=%E6%97%85%E5%AE%A2%E7%A7%B0%E8%8A%B12500%E5%85%83%E4%BD%8F%E9%85%92%E5%BA%97%E8%A2%AB%E8%9B%87%E5%92%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [保时捷婚车被上40把锁 开1把要1条烟](https://www.baidu.com/s?wd=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A9%9A%E8%BD%A6%E8%A2%AB%E4%B8%8A40%E6%8A%8A%E9%94%81+%E5%BC%801%E6%8A%8A%E8%A6%811%E6%9D%A1%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [保时捷婚车被上40把锁 开1把要1条烟](https://www.baidu.com/s?wd=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A9%9A%E8%BD%A6%E8%A2%AB%E4%B8%8A40%E6%8A%8A%E9%94%81+%E5%BC%801%E6%8A%8A%E8%A6%811%E6%9D%A1%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [菲律宾近海地震：鸟群飞舞房屋摇晃](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%BF%91%E6%B5%B7%E5%9C%B0%E9%9C%87%EF%BC%9A%E9%B8%9F%E7%BE%A4%E9%A3%9E%E8%88%9E%E6%88%BF%E5%B1%8B%E6%91%87%E6%99%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [国家卫健委：目前未发现新发传染病](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%EF%BC%9A%E7%9B%AE%E5%89%8D%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%B0%E5%8F%91%E4%BC%A0%E6%9F%93%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [菲律宾近海地震：鸟群飞舞房屋摇晃](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%BF%91%E6%B5%B7%E5%9C%B0%E9%9C%87%EF%BC%9A%E9%B8%9F%E7%BE%A4%E9%A3%9E%E8%88%9E%E6%88%BF%E5%B1%8B%E6%91%87%E6%99%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [旅客称花2500元住酒店被蛇咬](https://www.baidu.com/s?wd=%E6%97%85%E5%AE%A2%E7%A7%B0%E8%8A%B12500%E5%85%83%E4%BD%8F%E9%85%92%E5%BA%97%E8%A2%AB%E8%9B%87%E5%92%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [爆款短剧演员一天最高薪酬3万元](https://www.baidu.com/s?wd=%E7%88%86%E6%AC%BE%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E4%B8%80%E5%A4%A9%E6%9C%80%E9%AB%98%E8%96%AA%E9%85%AC3%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小猫偷吃20根虫草主人含泪赔2千](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%AB%E5%81%B7%E5%90%8320%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [加拿大“超级猪”入侵美国](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E2%80%9C%E8%B6%85%E7%BA%A7%E7%8C%AA%E2%80%9D%E5%85%A5%E4%BE%B5%E7%BE%8E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,10 +30,10 @@
 > 哔哩哔哩  
 
 1. [紧扣一体化和高质量两个关键词](https://www.baidu.com/s?wd=%E7%B4%A7%E6%89%A3%E4%B8%80%E4%BD%93%E5%8C%96%E5%92%8C%E9%AB%98%E8%B4%A8%E9%87%8F%E4%B8%A4%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [旅客称花2500元住酒店被蛇咬](https://www.baidu.com/s?wd=%E6%97%85%E5%AE%A2%E7%A7%B0%E8%8A%B12500%E5%85%83%E4%BD%8F%E9%85%92%E5%BA%97%E8%A2%AB%E8%9B%87%E5%92%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [保时捷婚车被上40把锁 开1把要1条烟](https://www.baidu.com/s?wd=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A9%9A%E8%BD%A6%E8%A2%AB%E4%B8%8A40%E6%8A%8A%E9%94%81+%E5%BC%801%E6%8A%8A%E8%A6%811%E6%9D%A1%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [保时捷婚车被上40把锁 开1把要1条烟](https://www.baidu.com/s?wd=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A9%9A%E8%BD%A6%E8%A2%AB%E4%B8%8A40%E6%8A%8A%E9%94%81+%E5%BC%801%E6%8A%8A%E8%A6%811%E6%9D%A1%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [菲律宾近海地震：鸟群飞舞房屋摇晃](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%BF%91%E6%B5%B7%E5%9C%B0%E9%9C%87%EF%BC%9A%E9%B8%9F%E7%BE%A4%E9%A3%9E%E8%88%9E%E6%88%BF%E5%B1%8B%E6%91%87%E6%99%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [国家卫健委：目前未发现新发传染病](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%EF%BC%9A%E7%9B%AE%E5%89%8D%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%B0%E5%8F%91%E4%BC%A0%E6%9F%93%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [菲律宾近海地震：鸟群飞舞房屋摇晃](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%BF%91%E6%B5%B7%E5%9C%B0%E9%9C%87%EF%BC%9A%E9%B8%9F%E7%BE%A4%E9%A3%9E%E8%88%9E%E6%88%BF%E5%B1%8B%E6%91%87%E6%99%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [旅客称花2500元住酒店被蛇咬](https://www.baidu.com/s?wd=%E6%97%85%E5%AE%A2%E7%A7%B0%E8%8A%B12500%E5%85%83%E4%BD%8F%E9%85%92%E5%BA%97%E8%A2%AB%E8%9B%87%E5%92%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [爆款短剧演员一天最高薪酬3万元](https://www.baidu.com/s?wd=%E7%88%86%E6%AC%BE%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E4%B8%80%E5%A4%A9%E6%9C%80%E9%AB%98%E8%96%AA%E9%85%AC3%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小猫偷吃20根虫草主人含泪赔2千](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%AB%E5%81%B7%E5%90%8320%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [加拿大“超级猪”入侵美国](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E2%80%9C%E8%B6%85%E7%BA%A7%E7%8C%AA%E2%80%9D%E5%85%A5%E4%BE%B5%E7%BE%8E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
