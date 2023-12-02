@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 08:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 08:13:01</h4></div>
 
 > 微博  
 
-1. [中国气象局发布大地磁暴预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B0%94%E8%B1%A1%E5%B1%80%E5%8F%91%E5%B8%83%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%23&t=31&band_rank=1&Refer=top)<br />
-2. [胖东来员工不想上班请假不允许不批假](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD%E8%AF%B7%E5%81%87%E4%B8%8D%E5%85%81%E8%AE%B8%E4%B8%8D%E6%89%B9%E5%81%87%23&t=31&band_rank=2&Refer=top)<br />
+1. [胖东来员工不想上班请假不允许不批假](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD%E8%AF%B7%E5%81%87%E4%B8%8D%E5%85%81%E8%AE%B8%E4%B8%8D%E6%89%B9%E5%81%87%23&t=31&band_rank=1&Refer=top)<br />
+2. [中国气象局发布大地磁暴预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B0%94%E8%B1%A1%E5%B1%80%E5%8F%91%E5%B8%83%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [民警反诈劝阻真实现场](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%8F%8D%E8%AF%88%E5%8A%9D%E9%98%BB%E7%9C%9F%E5%AE%9E%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [1米83自卑女孩靠穿汉服找回自信](https://s.weibo.com/weibo?q=%231%E7%B1%B383%E8%87%AA%E5%8D%91%E5%A5%B3%E5%AD%A9%E9%9D%A0%E7%A9%BF%E6%B1%89%E6%9C%8D%E6%89%BE%E5%9B%9E%E8%87%AA%E4%BF%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨鸣曾数次起诉离婚](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E6%9B%BE%E6%95%B0%E6%AC%A1%E8%B5%B7%E8%AF%89%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=5&Refer=top)<br />
