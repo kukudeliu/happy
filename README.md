@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 08:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 08:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [富豪认亲成功带儿子参观公司产业](https://www.baidu.com/s?wd=%E5%AF%8C%E8%B1%AA%E8%AE%A4%E4%BA%B2%E6%88%90%E5%8A%9F%E5%B8%A6%E5%84%BF%E5%AD%90%E5%8F%82%E8%A7%82%E5%85%AC%E5%8F%B8%E4%BA%A7%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小伙熬夜打游戏关节长千颗白色颗粒](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%86%AC%E5%A4%9C%E6%89%93%E6%B8%B8%E6%88%8F%E5%85%B3%E8%8A%82%E9%95%BF%E5%8D%83%E9%A2%97%E7%99%BD%E8%89%B2%E9%A2%97%E7%B2%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [云南芒市连发地震 市民丢台球杆撤离](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E8%8A%92%E5%B8%82%E8%BF%9E%E5%8F%91%E5%9C%B0%E9%9C%87+%E5%B8%82%E6%B0%91%E4%B8%A2%E5%8F%B0%E7%90%83%E6%9D%86%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胖东来员工不想上班不允许不批假](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD%E4%B8%8D%E5%85%81%E8%AE%B8%E4%B8%8D%E6%89%B9%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [儿子和富豪父亲相认称没反应过来](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E5%92%8C%E5%AF%8C%E8%B1%AA%E7%88%B6%E4%BA%B2%E7%9B%B8%E8%AE%A4%E7%A7%B0%E6%B2%A1%E5%8F%8D%E5%BA%94%E8%BF%87%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [福州辟谣医院小楼倒塌呈45度](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E8%BE%9F%E8%B0%A3%E5%8C%BB%E9%99%A2%E5%B0%8F%E6%A5%BC%E5%80%92%E5%A1%8C%E5%91%8845%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [富豪认亲成功带儿子参观公司产业](https://www.baidu.com/s?wd=%E5%AF%8C%E8%B1%AA%E8%AE%A4%E4%BA%B2%E6%88%90%E5%8A%9F%E5%B8%A6%E5%84%BF%E5%AD%90%E5%8F%82%E8%A7%82%E5%85%AC%E5%8F%B8%E4%BA%A7%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小伙熬夜打游戏关节长千颗白色颗粒](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%86%AC%E5%A4%9C%E6%89%93%E6%B8%B8%E6%88%8F%E5%85%B3%E8%8A%82%E9%95%BF%E5%8D%83%E9%A2%97%E7%99%BD%E8%89%B2%E9%A2%97%E7%B2%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [云南芒市连发地震 市民丢台球杆撤离](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E8%8A%92%E5%B8%82%E8%BF%9E%E5%8F%91%E5%9C%B0%E9%9C%87+%E5%B8%82%E6%B0%91%E4%B8%A2%E5%8F%B0%E7%90%83%E6%9D%86%E6%92%A4%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胖东来员工不想上班不允许不批假](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD%E4%B8%8D%E5%85%81%E8%AE%B8%E4%B8%8D%E6%89%B9%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [儿子和富豪父亲相认称没反应过来](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E5%92%8C%E5%AF%8C%E8%B1%AA%E7%88%B6%E4%BA%B2%E7%9B%B8%E8%AE%A4%E7%A7%B0%E6%B2%A1%E5%8F%8D%E5%BA%94%E8%BF%87%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [福州辟谣医院小楼倒塌呈45度](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E8%BE%9F%E8%B0%A3%E5%8C%BB%E9%99%A2%E5%B0%8F%E6%A5%BC%E5%80%92%E5%A1%8C%E5%91%8845%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
