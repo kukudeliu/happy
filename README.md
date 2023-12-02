@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 23:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 23:12:01</h4></div>
 
 > 微博  
 
 1. [难哄 白敬亭](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E7%99%BD%E6%95%AC%E4%BA%AD&t=31&band_rank=1&Refer=top)<br />
 2. [大地磁暴预警](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [国家卫健委表示未发现新发传染病](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E8%A1%A8%E7%A4%BA%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%B0%E5%8F%91%E4%BC%A0%E6%9F%93%E7%97%85%23&t=31&band_rank=3&Refer=top)<br />
-4. [谁来救救王心凌啊](https://s.weibo.com/weibo?q=%E8%B0%81%E6%9D%A5%E6%95%91%E6%95%91%E7%8E%8B%E5%BF%83%E5%87%8C%E5%95%8A&t=31&band_rank=4&Refer=top)<br />
-5. [刘诗诗刘宇宁吻戏](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%88%98%E5%AE%87%E5%AE%81%E5%90%BB%E6%88%8F&t=31&band_rank=5&Refer=top)<br />
+4. [刘诗诗刘宇宁吻戏](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%88%98%E5%AE%87%E5%AE%81%E5%90%BB%E6%88%8F&t=31&band_rank=4&Refer=top)<br />
+5. [谁来救救王心凌啊](https://s.weibo.com/weibo?q=%E8%B0%81%E6%9D%A5%E6%95%91%E6%95%91%E7%8E%8B%E5%BF%83%E5%87%8C%E5%95%8A&t=31&band_rank=5&Refer=top)<br />
 6. [赵露思 小红书广告](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%B9%BF%E5%91%8A&t=31&band_rank=6&Refer=top)<br />
 7. [白鹿 我可太想演电影了](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E6%88%91%E5%8F%AF%E5%A4%AA%E6%83%B3%E6%BC%94%E7%94%B5%E5%BD%B1%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [加拿大超级猪入侵美国](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%B6%85%E7%BA%A7%E7%8C%AA%E5%85%A5%E4%BE%B5%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=8&Refer=top)<br />
