@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 11:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-02 11:32:02</h4></div>
 
 > 微博  
 
-1. [2024年总台春晚官宣](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E6%80%BB%E5%8F%B0%E6%98%A5%E6%99%9A%E5%AE%98%E5%AE%A3%23&t=31&band_rank=1&Refer=top)<br />
-2. [情侣疑因在外旅游住宿感染HPV](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E7%96%91%E5%9B%A0%E5%9C%A8%E5%A4%96%E6%97%85%E6%B8%B8%E4%BD%8F%E5%AE%BF%E6%84%9F%E6%9F%93HPV%23&t=31&band_rank=2&Refer=top)<br />
+1. [情侣疑因在外旅游住宿感染HPV](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E7%96%91%E5%9B%A0%E5%9C%A8%E5%A4%96%E6%97%85%E6%B8%B8%E4%BD%8F%E5%AE%BF%E6%84%9F%E6%9F%93HPV%23&t=31&band_rank=1&Refer=top)<br />
+2. [2024年总台春晚官宣](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E6%80%BB%E5%8F%B0%E6%98%A5%E6%99%9A%E5%AE%98%E5%AE%A3%23&t=31&band_rank=2&Refer=top)<br />
 3. [民警反诈劝阻真实现场](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%8F%8D%E8%AF%88%E5%8A%9D%E9%98%BB%E7%9C%9F%E5%AE%9E%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [关智斌面部手部二级烧伤](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%BA%E6%96%8C%E9%9D%A2%E9%83%A8%E6%89%8B%E9%83%A8%E4%BA%8C%E7%BA%A7%E7%83%A7%E4%BC%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [张若昀拍的唐艺昕](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E6%8B%8D%E7%9A%84%E5%94%90%E8%89%BA%E6%98%95%23&t=31&band_rank=5&Refer=top)<br />
