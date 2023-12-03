@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 10:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 10:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [难哄 白敬亭](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E7%99%BD%E6%95%AC%E4%BA%AD&t=31&band_rank=6&Refer=top)<br />
 7. [C罗被索赔超70亿](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E8%A2%AB%E7%B4%A2%E8%B5%94%E8%B6%8570%E4%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [檀健次周也嘴巴都亲红了](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%91%A8%E4%B9%9F%E5%98%B4%E5%B7%B4%E9%83%BD%E4%BA%B2%E7%BA%A2%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [国家卫健委表示未发现新发传染病](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E8%A1%A8%E7%A4%BA%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%B0%E5%8F%91%E4%BC%A0%E6%9F%93%E7%97%85%23&t=31&band_rank=9&Refer=top)<br />
+9. [LV6.9万夹克酷似南宁校服](https://s.weibo.com/weibo?q=%23LV6.9%E4%B8%87%E5%A4%B9%E5%85%8B%E9%85%B7%E4%BC%BC%E5%8D%97%E5%AE%81%E6%A0%A1%E6%9C%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
