@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 22:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 22:41:01</h4></div>
 
 > 微博  
 
 1. [五月天经纪方多次挂断媒体电话](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E6%96%B9%E5%A4%9A%E6%AC%A1%E6%8C%82%E6%96%AD%E5%AA%92%E4%BD%93%E7%94%B5%E8%AF%9D%23&t=31&band_rank=1&Refer=top)<br />
 2. [腾讯会员 没了](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E4%BC%9A%E5%91%98%20%E6%B2%A1%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [红嘴鸥与滇池蓝同框宛如大片](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E5%98%B4%E9%B8%A5%E4%B8%8E%E6%BB%87%E6%B1%A0%E8%93%9D%E5%90%8C%E6%A1%86%E5%AE%9B%E5%A6%82%E5%A4%A7%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
-4. [一周不洗脸为什么皮肤变好了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%91%A8%E4%B8%8D%E6%B4%97%E8%84%B8%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9A%AE%E8%82%A4%E5%8F%98%E5%A5%BD%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [GQ官宣易烊千玺](https://s.weibo.com/weibo?q=%23GQ%E5%AE%98%E5%AE%A3%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [一念关山破万](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E7%A0%B4%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
+4. [文旅局回应五月天疑似假唱](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1%23&t=31&band_rank=4&Refer=top)<br />
+5. [一周不洗脸为什么皮肤变好了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%91%A8%E4%B8%8D%E6%B4%97%E8%84%B8%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9A%AE%E8%82%A4%E5%8F%98%E5%A5%BD%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
+6. [GQ官宣易烊千玺](https://s.weibo.com/weibo?q=%23GQ%E5%AE%98%E5%AE%A3%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [雪莉杨被绑架](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E8%8E%89%E6%9D%A8%E8%A2%AB%E7%BB%91%E6%9E%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [上海12345回应五月天被质疑假唱](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B712345%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E8%B4%A8%E7%96%91%E5%81%87%E5%94%B1%23&t=31&band_rank=8&Refer=top)<br />
+8. [一念关山破万](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E7%A0%B4%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [大妈捡到手机用免密支付刷光余额](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E6%8D%A1%E5%88%B0%E6%89%8B%E6%9C%BA%E7%94%A8%E5%85%8D%E5%AF%86%E6%94%AF%E4%BB%98%E5%88%B7%E5%85%89%E4%BD%99%E9%A2%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
