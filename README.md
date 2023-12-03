@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 04:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 04:14:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [谱写新时代中国宪法实践新篇章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E5%AE%9E%E8%B7%B5%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大学生送外卖赚1万多奖励自己游中国](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E8%B5%9A1%E4%B8%87%E5%A4%9A%E5%A5%96%E5%8A%B1%E8%87%AA%E5%B7%B1%E6%B8%B8%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [初中教师强奸5名女学生已被执行死刑](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E6%95%99%E5%B8%88%E5%BC%BA%E5%A5%B85%E5%90%8D%E5%A5%B3%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [芬兰总统希望中国提供帮助](https://www.baidu.com/s?wd=%E8%8A%AC%E5%85%B0%E6%80%BB%E7%BB%9F%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%9B%BD%E6%8F%90%E4%BE%9B%E5%B8%AE%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [博士后当交警15年后突然火了](https://www.baidu.com/s?wd=%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%BD%93%E4%BA%A4%E8%AD%A615%E5%B9%B4%E5%90%8E%E7%AA%81%E7%84%B6%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [北方将遭遇降温沙尘雨雪霾组合拳](https://www.baidu.com/s?wd=%E5%8C%97%E6%96%B9%E5%B0%86%E9%81%AD%E9%81%87%E9%99%8D%E6%B8%A9%E6%B2%99%E5%B0%98%E9%9B%A8%E9%9B%AA%E9%9C%BE%E7%BB%84%E5%90%88%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老年人公寓楼下唱歌被住户放哀乐](https://www.baidu.com/s?wd=%E8%80%81%E5%B9%B4%E4%BA%BA%E5%85%AC%E5%AF%93%E6%A5%BC%E4%B8%8B%E5%94%B1%E6%AD%8C%E8%A2%AB%E4%BD%8F%E6%88%B7%E6%94%BE%E5%93%80%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [谱写新时代中国宪法实践新篇章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E5%AE%9E%E8%B7%B5%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大学生送外卖赚1万多奖励自己游中国](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E8%B5%9A1%E4%B8%87%E5%A4%9A%E5%A5%96%E5%8A%B1%E8%87%AA%E5%B7%B1%E6%B8%B8%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [初中教师强奸5名女学生已被执行死刑](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E6%95%99%E5%B8%88%E5%BC%BA%E5%A5%B85%E5%90%8D%E5%A5%B3%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [芬兰总统希望中国提供帮助](https://www.baidu.com/s?wd=%E8%8A%AC%E5%85%B0%E6%80%BB%E7%BB%9F%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%9B%BD%E6%8F%90%E4%BE%9B%E5%B8%AE%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [博士后当交警15年后突然火了](https://www.baidu.com/s?wd=%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%BD%93%E4%BA%A4%E8%AD%A615%E5%B9%B4%E5%90%8E%E7%AA%81%E7%84%B6%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [北方将遭遇降温沙尘雨雪霾组合拳](https://www.baidu.com/s?wd=%E5%8C%97%E6%96%B9%E5%B0%86%E9%81%AD%E9%81%87%E9%99%8D%E6%B8%A9%E6%B2%99%E5%B0%98%E9%9B%A8%E9%9B%AA%E9%9C%BE%E7%BB%84%E5%90%88%E6%8B%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老年人公寓楼下唱歌被住户放哀乐](https://www.baidu.com/s?wd=%E8%80%81%E5%B9%B4%E4%BA%BA%E5%85%AC%E5%AF%93%E6%A5%BC%E4%B8%8B%E5%94%B1%E6%AD%8C%E8%A2%AB%E4%BD%8F%E6%88%B7%E6%94%BE%E5%93%80%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
