@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 16:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 16:58:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [酒肉情侣 soulmate](https://s.weibo.com/weibo?q=%E9%85%92%E8%82%89%E6%83%85%E4%BE%A3%20soulmate&t=31&band_rank=2&Refer=top)<br />
 3. [42年朱鹮从仅发现7只增至上万只](https://s.weibo.com/weibo?q=%2342%E5%B9%B4%E6%9C%B1%E9%B9%AE%E4%BB%8E%E4%BB%85%E5%8F%91%E7%8E%B07%E5%8F%AA%E5%A2%9E%E8%87%B3%E4%B8%8A%E4%B8%87%E5%8F%AA%23&t=31&band_rank=3&Refer=top)<br />
 4. [王鹤棣田曦薇现代戏路透](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%94%B0%E6%9B%A6%E8%96%87%E7%8E%B0%E4%BB%A3%E6%88%8F%E8%B7%AF%E9%80%8F%23&t=31&band_rank=4&Refer=top)<br />
-5. [LWX林炜翔](https://s.weibo.com/weibo?q=LWX%E6%9E%97%E7%82%9C%E7%BF%94&t=31&band_rank=5&Refer=top)<br />
+5. [N1](https://s.weibo.com/weibo?q=N1&t=31&band_rank=5&Refer=top)<br />
 6. [手机拍照的图片不要直接打印](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7%E7%9A%84%E5%9B%BE%E7%89%87%E4%B8%8D%E8%A6%81%E7%9B%B4%E6%8E%A5%E6%89%93%E5%8D%B0&t=31&band_rank=6&Refer=top)<br />
-7. [N1](https://s.weibo.com/weibo?q=N1&t=31&band_rank=7&Refer=top)<br />
+7. [LWX林炜翔](https://s.weibo.com/weibo?q=LWX%E6%9E%97%E7%82%9C%E7%BF%94&t=31&band_rank=7&Refer=top)<br />
 8. [初代网红奶茶店开始悄悄倒闭](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%BB%A3%E7%BD%91%E7%BA%A2%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%BC%80%E5%A7%8B%E6%82%84%E6%82%84%E5%80%92%E9%97%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [离婚 跟拍](https://s.weibo.com/weibo?q=%E7%A6%BB%E5%A9%9A%20%E8%B7%9F%E6%8B%8D&t=31&band_rank=9&Refer=top)<br />
+9. [孟美岐 年度最具突破女歌手](https://s.weibo.com/weibo?q=%E5%AD%9F%E7%BE%8E%E5%B2%90%20%E5%B9%B4%E5%BA%A6%E6%9C%80%E5%85%B7%E7%AA%81%E7%A0%B4%E5%A5%B3%E6%AD%8C%E6%89%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
