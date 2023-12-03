@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 14:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 14:11:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [王鹤棣 拍古装拍烦了](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E6%8B%8D%E5%8F%A4%E8%A3%85%E6%8B%8D%E7%83%A6%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [初代网红奶茶店开始悄悄倒闭](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%BB%A3%E7%BD%91%E7%BA%A2%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%BC%80%E5%A7%8B%E6%82%84%E6%82%84%E5%80%92%E9%97%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [营业性演出假唱 违法](https://s.weibo.com/weibo?q=%E8%90%A5%E4%B8%9A%E6%80%A7%E6%BC%94%E5%87%BA%E5%81%87%E5%94%B1%20%E8%BF%9D%E6%B3%95&t=31&band_rank=6&Refer=top)<br />
-7. [青岛夫妻俩患艾滋病19年孩子已上高中](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%A4%AB%E5%A6%BB%E4%BF%A9%E6%82%A3%E8%89%BE%E6%BB%8B%E7%97%8519%E5%B9%B4%E5%AD%A9%E5%AD%90%E5%B7%B2%E4%B8%8A%E9%AB%98%E4%B8%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [宋雨琦现场观战湖人](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E7%8E%B0%E5%9C%BA%E8%A7%82%E6%88%98%E6%B9%96%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
+7. [宋雨琦现场观战湖人](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E7%8E%B0%E5%9C%BA%E8%A7%82%E6%88%98%E6%B9%96%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [青岛夫妻俩患艾滋病19年孩子已上高中](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%A4%AB%E5%A6%BB%E4%BF%A9%E6%82%A3%E8%89%BE%E6%BB%8B%E7%97%8519%E5%B9%B4%E5%AD%A9%E5%AD%90%E5%B7%B2%E4%B8%8A%E9%AB%98%E4%B8%AD%23&t=31&band_rank=8&Refer=top)<br />
 9. [零食 公摊面积](https://s.weibo.com/weibo?q=%E9%9B%B6%E9%A3%9F%20%E5%85%AC%E6%91%8A%E9%9D%A2%E7%A7%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
