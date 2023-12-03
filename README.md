@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 15:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 15:32:02</h4></div>
 
 > 微博  
 
-1. [离婚 跟拍](https://s.weibo.com/weibo?q=%E7%A6%BB%E5%A9%9A%20%E8%B7%9F%E6%8B%8D&t=31&band_rank=1&Refer=top)<br />
-2. [大床房 大空房](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%BA%8A%E6%88%BF%20%E5%A4%A7%E7%A9%BA%E6%88%BF&t=31&band_rank=2&Refer=top)<br />
+1. [大床房 大空房](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%BA%8A%E6%88%BF%20%E5%A4%A7%E7%A9%BA%E6%88%BF&t=31&band_rank=1&Refer=top)<br />
+2. [离婚 跟拍](https://s.weibo.com/weibo?q=%E7%A6%BB%E5%A9%9A%20%E8%B7%9F%E6%8B%8D&t=31&band_rank=2&Refer=top)<br />
 3. [中老铁路开通2周年](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%80%81%E9%93%81%E8%B7%AF%E5%BC%80%E9%80%9A2%E5%91%A8%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [官方通报三甲医院超收22万医疗费](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E8%B6%85%E6%94%B622%E4%B8%87%E5%8C%BB%E7%96%97%E8%B4%B9%23&t=31&band_rank=4&Refer=top)<br />
 5. [孟美岐 年度最具突破女歌手](https://s.weibo.com/weibo?q=%E5%AD%9F%E7%BE%8E%E5%B2%90%20%E5%B9%B4%E5%BA%A6%E6%9C%80%E5%85%B7%E7%AA%81%E7%A0%B4%E5%A5%B3%E6%AD%8C%E6%89%8B&t=31&band_rank=5&Refer=top)<br />
