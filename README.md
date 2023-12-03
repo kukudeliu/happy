@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 18:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 18:22:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [芬兰总统希望中国提供帮助](https://www.baidu.com/s?wd=%E8%8A%AC%E5%85%B0%E6%80%BB%E7%BB%9F%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%9B%BD%E6%8F%90%E4%BE%9B%E5%B8%AE%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [瑞幸打假泰国山寨店败诉](https://www.baidu.com/s?wd=%E7%91%9E%E5%B9%B8%E6%89%93%E5%81%87%E6%B3%B0%E5%9B%BD%E5%B1%B1%E5%AF%A8%E5%BA%97%E8%B4%A5%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [OpenAI内讧细节曝光](https://www.baidu.com/s?wd=OpenAI%E5%86%85%E8%AE%A7%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中创新航回应“董事长2215万年薪”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%88%9B%E6%96%B0%E8%88%AA%E5%9B%9E%E5%BA%94%E2%80%9C%E8%91%A3%E4%BA%8B%E9%95%BF2215%E4%B8%87%E5%B9%B4%E8%96%AA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张朝阳：长期被动刷手机人就废了](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%EF%BC%9A%E9%95%BF%E6%9C%9F%E8%A2%AB%E5%8A%A8%E5%88%B7%E6%89%8B%E6%9C%BA%E4%BA%BA%E5%B0%B1%E5%BA%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [芬兰总统希望中国提供帮助](https://www.baidu.com/s?wd=%E8%8A%AC%E5%85%B0%E6%80%BB%E7%BB%9F%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%9B%BD%E6%8F%90%E4%BE%9B%E5%B8%AE%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [瑞幸打假泰国山寨店败诉](https://www.baidu.com/s?wd=%E7%91%9E%E5%B9%B8%E6%89%93%E5%81%87%E6%B3%B0%E5%9B%BD%E5%B1%B1%E5%AF%A8%E5%BA%97%E8%B4%A5%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [OpenAI内讧细节曝光](https://www.baidu.com/s?wd=OpenAI%E5%86%85%E8%AE%A7%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中创新航回应“董事长2215万年薪”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%88%9B%E6%96%B0%E8%88%AA%E5%9B%9E%E5%BA%94%E2%80%9C%E8%91%A3%E4%BA%8B%E9%95%BF2215%E4%B8%87%E5%B9%B4%E8%96%AA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张朝阳：长期被动刷手机人就废了](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%EF%BC%9A%E9%95%BF%E6%9C%9F%E8%A2%AB%E5%8A%A8%E5%88%B7%E6%89%8B%E6%9C%BA%E4%BA%BA%E5%B0%B1%E5%BA%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
