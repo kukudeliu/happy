@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 11:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 11:28:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘诗诗 老公是一种态度](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E8%80%81%E5%85%AC%E6%98%AF%E4%B8%80%E7%A7%8D%E6%80%81%E5%BA%A6&t=31&band_rank=6&Refer=top)<br />
 7. [难哄 白敬亭](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E7%99%BD%E6%95%AC%E4%BA%AD&t=31&band_rank=7&Refer=top)<br />
 8. [C罗被索赔超70亿](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E8%A2%AB%E7%B4%A2%E8%B5%94%E8%B6%8570%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [中老铁路开通2周年](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%80%81%E9%93%81%E8%B7%AF%E5%BC%80%E9%80%9A2%E5%91%A8%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [檀健次周也嘴巴都亲红了](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%91%A8%E4%B9%9F%E5%98%B4%E5%B7%B4%E9%83%BD%E4%BA%B2%E7%BA%A2%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
