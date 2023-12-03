@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 13:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 13:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [初代网红奶茶店开始悄悄倒闭](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%BB%A3%E7%BD%91%E7%BA%A2%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%BC%80%E5%A7%8B%E6%82%84%E6%82%84%E5%80%92%E9%97%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [孟美岐 年度最具突破女歌手](https://s.weibo.com/weibo?q=%E5%AD%9F%E7%BE%8E%E5%B2%90%20%E5%B9%B4%E5%BA%A6%E6%9C%80%E5%85%B7%E7%AA%81%E7%A0%B4%E5%A5%B3%E6%AD%8C%E6%89%8B&t=31&band_rank=6&Refer=top)<br />
 7. [零食 公摊面积](https://s.weibo.com/weibo?q=%E9%9B%B6%E9%A3%9F%20%E5%85%AC%E6%91%8A%E9%9D%A2%E7%A7%AF&t=31&band_rank=7&Refer=top)<br />
-8. [五月天 假唱派和真唱派](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%20%E5%81%87%E5%94%B1%E6%B4%BE%E5%92%8C%E7%9C%9F%E5%94%B1%E6%B4%BE&t=31&band_rank=8&Refer=top)<br />
-9. [适合做老婆为什么会是一种冒犯](https://s.weibo.com/weibo?q=%E9%80%82%E5%90%88%E5%81%9A%E8%80%81%E5%A9%86%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%98%AF%E4%B8%80%E7%A7%8D%E5%86%92%E7%8A%AF&t=31&band_rank=9&Refer=top)<br />
+8. [适合做老婆为什么会是一种冒犯](https://s.weibo.com/weibo?q=%E9%80%82%E5%90%88%E5%81%9A%E8%80%81%E5%A9%86%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%98%AF%E4%B8%80%E7%A7%8D%E5%86%92%E7%8A%AF&t=31&band_rank=8&Refer=top)<br />
+9. [五月天 假唱派和真唱派](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%20%E5%81%87%E5%94%B1%E6%B4%BE%E5%92%8C%E7%9C%9F%E5%94%B1%E6%B4%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
