@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 00:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 00:01:01</h4></div>
 
 > 微博  
 
 1. [相信音乐 五月天邀你见证现场](https://s.weibo.com/weibo?q=%E7%9B%B8%E4%BF%A1%E9%9F%B3%E4%B9%90%20%E4%BA%94%E6%9C%88%E5%A4%A9%E9%82%80%E4%BD%A0%E8%A7%81%E8%AF%81%E7%8E%B0%E5%9C%BA&t=31&band_rank=1&Refer=top)<br />
 2. [博主再更新五月天真假唱鉴定视频](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E5%86%8D%E6%9B%B4%E6%96%B0%E4%BA%94%E6%9C%88%E5%A4%A9%E7%9C%9F%E5%81%87%E5%94%B1%E9%89%B4%E5%AE%9A%E8%A7%86%E9%A2%91%23&t=31&band_rank=2&Refer=top)<br />
-3. [红嘴鸥与滇池蓝同框宛如大片](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E5%98%B4%E9%B8%A5%E4%B8%8E%E6%BB%87%E6%B1%A0%E8%93%9D%E5%90%8C%E6%A1%86%E5%AE%9B%E5%A6%82%E5%A4%A7%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
+3. [新千里江山图](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [五月天经纪方多次挂断媒体电话](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E6%96%B9%E5%A4%9A%E6%AC%A1%E6%8C%82%E6%96%AD%E5%AA%92%E4%BD%93%E7%94%B5%E8%AF%9D%23&t=31&band_rank=4&Refer=top)<br />
 5. [腾讯会员 没了](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E4%BC%9A%E5%91%98%20%E6%B2%A1%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [文旅局回应五月天疑似假唱](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1%23&t=31&band_rank=6&Refer=top)<br />
