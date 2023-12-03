@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 06:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 06:19:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [谱写新时代中国宪法实践新篇章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E5%AE%9E%E8%B7%B5%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大学生送外卖赚1万多奖励自己游中国](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E8%B5%9A1%E4%B8%87%E5%A4%9A%E5%A5%96%E5%8A%B1%E8%87%AA%E5%B7%B1%E6%B8%B8%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [初中教师强奸5名女学生已被执行死刑](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E6%95%99%E5%B8%88%E5%BC%BA%E5%A5%B85%E5%90%8D%E5%A5%B3%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [博士后当交警15年后突然火了](https://www.baidu.com/s?wd=%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%BD%93%E4%BA%A4%E8%AD%A615%E5%B9%B4%E5%90%8E%E7%AA%81%E7%84%B6%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张朝阳：长期被动刷手机人就废了](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%EF%BC%9A%E9%95%BF%E6%9C%9F%E8%A2%AB%E5%8A%A8%E5%88%B7%E6%89%8B%E6%9C%BA%E4%BA%BA%E5%B0%B1%E5%BA%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多地通报流感病例数上升](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%80%9A%E6%8A%A5%E6%B5%81%E6%84%9F%E7%97%85%E4%BE%8B%E6%95%B0%E4%B8%8A%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [博士后当交警15年后突然火了](https://www.baidu.com/s?wd=%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%BD%93%E4%BA%A4%E8%AD%A615%E5%B9%B4%E5%90%8E%E7%AA%81%E7%84%B6%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [谱写新时代中国宪法实践新篇章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E5%AE%9E%E8%B7%B5%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大学生送外卖赚1万多奖励自己游中国](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E8%B5%9A1%E4%B8%87%E5%A4%9A%E5%A5%96%E5%8A%B1%E8%87%AA%E5%B7%B1%E6%B8%B8%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [初中教师强奸5名女学生已被执行死刑](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E6%95%99%E5%B8%88%E5%BC%BA%E5%A5%B85%E5%90%8D%E5%A5%B3%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [博士后当交警15年后突然火了](https://www.baidu.com/s?wd=%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%BD%93%E4%BA%A4%E8%AD%A615%E5%B9%B4%E5%90%8E%E7%AA%81%E7%84%B6%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张朝阳：长期被动刷手机人就废了](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%EF%BC%9A%E9%95%BF%E6%9C%9F%E8%A2%AB%E5%8A%A8%E5%88%B7%E6%89%8B%E6%9C%BA%E4%BA%BA%E5%B0%B1%E5%BA%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多地通报流感病例数上升](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%80%9A%E6%8A%A5%E6%B5%81%E6%84%9F%E7%97%85%E4%BE%8B%E6%95%B0%E4%B8%8A%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [博士后当交警15年后突然火了](https://www.baidu.com/s?wd=%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%BD%93%E4%BA%A4%E8%AD%A615%E5%B9%B4%E5%90%8E%E7%AA%81%E7%84%B6%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
