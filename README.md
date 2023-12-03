@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 05:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 05:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [腾讯会员 没了](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E4%BC%9A%E5%91%98%20%E6%B2%A1%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [文旅局回应五月天疑似假唱](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [博主再更新五月天真假唱鉴定视频](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E5%86%8D%E6%9B%B4%E6%96%B0%E4%BA%94%E6%9C%88%E5%A4%A9%E7%9C%9F%E5%81%87%E5%94%B1%E9%89%B4%E5%AE%9A%E8%A7%86%E9%A2%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [大妈捡到手机用免密支付刷光余额](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E6%8D%A1%E5%88%B0%E6%89%8B%E6%9C%BA%E7%94%A8%E5%85%8D%E5%AF%86%E6%94%AF%E4%BB%98%E5%88%B7%E5%85%89%E4%BD%99%E9%A2%9D%23&t=31&band_rank=9&Refer=top)<br />
+9. [五月天经纪方多次挂断媒体电话](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E6%96%B9%E5%A4%9A%E6%AC%A1%E6%8C%82%E6%96%AD%E5%AA%92%E4%BD%93%E7%94%B5%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
