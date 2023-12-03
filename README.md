@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 14:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 14:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [营业性演出假唱 违法](https://s.weibo.com/weibo?q=%E8%90%A5%E4%B8%9A%E6%80%A7%E6%BC%94%E5%87%BA%E5%81%87%E5%94%B1%20%E8%BF%9D%E6%B3%95&t=31&band_rank=6&Refer=top)<br />
 7. [宋雨琦现场观战湖人](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E7%8E%B0%E5%9C%BA%E8%A7%82%E6%88%98%E6%B9%96%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [零食 公摊面积](https://s.weibo.com/weibo?q=%E9%9B%B6%E9%A3%9F%20%E5%85%AC%E6%91%8A%E9%9D%A2%E7%A7%AF&t=31&band_rank=8&Refer=top)<br />
-9. [星光大赏第三波嘉宾名单](https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E7%AC%AC%E4%B8%89%E6%B3%A2%E5%98%89%E5%AE%BE%E5%90%8D%E5%8D%95%23&t=31&band_rank=9&Refer=top)<br />
+9. [文字讨好症](https://s.weibo.com/weibo?q=%E6%96%87%E5%AD%97%E8%AE%A8%E5%A5%BD%E7%97%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
