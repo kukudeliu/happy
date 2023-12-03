@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 13:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 13:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王鹤棣 拍古装拍烦了](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E6%8B%8D%E5%8F%A4%E8%A3%85%E6%8B%8D%E7%83%A6%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [适合做老婆为什么会是一种冒犯](https://s.weibo.com/weibo?q=%E9%80%82%E5%90%88%E5%81%9A%E8%80%81%E5%A9%86%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%98%AF%E4%B8%80%E7%A7%8D%E5%86%92%E7%8A%AF&t=31&band_rank=7&Refer=top)<br />
 8. [难哄 白敬亭](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E7%99%BD%E6%95%AC%E4%BA%AD&t=31&band_rank=8&Refer=top)<br />
-9. [演唱会假唱 离谱](https://s.weibo.com/weibo?q=%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%87%E5%94%B1%20%E7%A6%BB%E8%B0%B1&t=31&band_rank=9&Refer=top)<br />
+9. [穿大衣当然要扎低丸子头](https://s.weibo.com/weibo?q=%E7%A9%BF%E5%A4%A7%E8%A1%A3%E5%BD%93%E7%84%B6%E8%A6%81%E6%89%8E%E4%BD%8E%E4%B8%B8%E5%AD%90%E5%A4%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
