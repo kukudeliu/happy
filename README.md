@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 00:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 00:26:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [文旅局回应五月天疑似假唱](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [腾讯会员 没了](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E4%BC%9A%E5%91%98%20%E6%B2%A1%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [五月天经纪方多次挂断媒体电话](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E6%96%B9%E5%A4%9A%E6%AC%A1%E6%8C%82%E6%96%AD%E5%AA%92%E4%BD%93%E7%94%B5%E8%AF%9D%23&t=31&band_rank=7&Refer=top)<br />
-8. [痞幼三倍大眼妆](https://s.weibo.com/weibo?q=%E7%97%9E%E5%B9%BC%E4%B8%89%E5%80%8D%E5%A4%A7%E7%9C%BC%E5%A6%86&t=31&band_rank=8&Refer=top)<br />
-9. [冯琳 主持人大赛](https://s.weibo.com/weibo?q=%E5%86%AF%E7%90%B3%20%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%A4%A7%E8%B5%9B&t=31&band_rank=9&Refer=top)<br />
+8. [冯琳 主持人大赛](https://s.weibo.com/weibo?q=%E5%86%AF%E7%90%B3%20%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%A4%A7%E8%B5%9B&t=31&band_rank=8&Refer=top)<br />
+9. [痞幼三倍大眼妆](https://s.weibo.com/weibo?q=%E7%97%9E%E5%B9%BC%E4%B8%89%E5%80%8D%E5%A4%A7%E7%9C%BC%E5%A6%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
