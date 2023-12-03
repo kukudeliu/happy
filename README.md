@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 16:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 16:38:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [居民“菜篮子”货足价稳](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E2%80%9C%E8%8F%9C%E7%AF%AE%E5%AD%90%E2%80%9D%E8%B4%A7%E8%B6%B3%E4%BB%B7%E7%A8%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [博士用统计模型查出医院多收10万费用](https://www.baidu.com/s?wd=%E5%8D%9A%E5%A3%AB%E7%94%A8%E7%BB%9F%E8%AE%A1%E6%A8%A1%E5%9E%8B%E6%9F%A5%E5%87%BA%E5%8C%BB%E9%99%A2%E5%A4%9A%E6%94%B610%E4%B8%87%E8%B4%B9%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [车窗贴两张缴费单 车内司机已去世](https://www.baidu.com/s?wd=%E8%BD%A6%E7%AA%97%E8%B4%B4%E4%B8%A4%E5%BC%A0%E7%BC%B4%E8%B4%B9%E5%8D%95+%E8%BD%A6%E5%86%85%E5%8F%B8%E6%9C%BA%E5%B7%B2%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [被轻罪前科“拦住”的人生](https://www.baidu.com/s?wd=%E8%A2%AB%E8%BD%BB%E7%BD%AA%E5%89%8D%E7%A7%91%E2%80%9C%E6%8B%A6%E4%BD%8F%E2%80%9D%E7%9A%84%E4%BA%BA%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多地12月将罕见回暖 局地升温15℃](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B012%E6%9C%88%E5%B0%86%E7%BD%95%E8%A7%81%E5%9B%9E%E6%9A%96+%E5%B1%80%E5%9C%B0%E5%8D%87%E6%B8%A915%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [湖南里耶发现13口2000多年前的古井](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E9%87%8C%E8%80%B6%E5%8F%91%E7%8E%B013%E5%8F%A32000%E5%A4%9A%E5%B9%B4%E5%89%8D%E7%9A%84%E5%8F%A4%E4%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [青岛一地铁站建成近六年未启用](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E4%B8%80%E5%9C%B0%E9%93%81%E7%AB%99%E5%BB%BA%E6%88%90%E8%BF%91%E5%85%AD%E5%B9%B4%E6%9C%AA%E5%90%AF%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [居民“菜篮子”货足价稳](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E2%80%9C%E8%8F%9C%E7%AF%AE%E5%AD%90%E2%80%9D%E8%B4%A7%E8%B6%B3%E4%BB%B7%E7%A8%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [博士用统计模型查出医院多收10万费用](https://www.baidu.com/s?wd=%E5%8D%9A%E5%A3%AB%E7%94%A8%E7%BB%9F%E8%AE%A1%E6%A8%A1%E5%9E%8B%E6%9F%A5%E5%87%BA%E5%8C%BB%E9%99%A2%E5%A4%9A%E6%94%B610%E4%B8%87%E8%B4%B9%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [车窗贴两张缴费单 车内司机已去世](https://www.baidu.com/s?wd=%E8%BD%A6%E7%AA%97%E8%B4%B4%E4%B8%A4%E5%BC%A0%E7%BC%B4%E8%B4%B9%E5%8D%95+%E8%BD%A6%E5%86%85%E5%8F%B8%E6%9C%BA%E5%B7%B2%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [被轻罪前科“拦住”的人生](https://www.baidu.com/s?wd=%E8%A2%AB%E8%BD%BB%E7%BD%AA%E5%89%8D%E7%A7%91%E2%80%9C%E6%8B%A6%E4%BD%8F%E2%80%9D%E7%9A%84%E4%BA%BA%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多地12月将罕见回暖 局地升温15℃](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B012%E6%9C%88%E5%B0%86%E7%BD%95%E8%A7%81%E5%9B%9E%E6%9A%96+%E5%B1%80%E5%9C%B0%E5%8D%87%E6%B8%A915%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [湖南里耶发现13口2000多年前的古井](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E9%87%8C%E8%80%B6%E5%8F%91%E7%8E%B013%E5%8F%A32000%E5%A4%9A%E5%B9%B4%E5%89%8D%E7%9A%84%E5%8F%A4%E4%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [青岛一地铁站建成近六年未启用](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E4%B8%80%E5%9C%B0%E9%93%81%E7%AB%99%E5%BB%BA%E6%88%90%E8%BF%91%E5%85%AD%E5%B9%B4%E6%9C%AA%E5%90%AF%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
