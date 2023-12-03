@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 04:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 04:19:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [谱写新时代中国宪法实践新篇章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E5%AE%9E%E8%B7%B5%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大学生送外卖赚1万多奖励自己游中国](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E8%B5%9A1%E4%B8%87%E5%A4%9A%E5%A5%96%E5%8A%B1%E8%87%AA%E5%B7%B1%E6%B8%B8%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [初中教师强奸5名女学生已被执行死刑](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E6%95%99%E5%B8%88%E5%BC%BA%E5%A5%B85%E5%90%8D%E5%A5%B3%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [博士后当交警15年后突然火了](https://www.baidu.com/s?wd=%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%BD%93%E4%BA%A4%E8%AD%A615%E5%B9%B4%E5%90%8E%E7%AA%81%E7%84%B6%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老年人公寓楼下唱歌被住户放哀乐](https://www.baidu.com/s?wd=%E8%80%81%E5%B9%B4%E4%BA%BA%E5%85%AC%E5%AF%93%E6%A5%BC%E4%B8%8B%E5%94%B1%E6%AD%8C%E8%A2%AB%E4%BD%8F%E6%88%B7%E6%94%BE%E5%93%80%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：别让秒变富二代慕富心态歪了楼](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%88%AB%E8%AE%A9%E7%A7%92%E5%8F%98%E5%AF%8C%E4%BA%8C%E4%BB%A3%E6%85%95%E5%AF%8C%E5%BF%83%E6%80%81%E6%AD%AA%E4%BA%86%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [博士后当交警15年后突然火了](https://www.baidu.com/s?wd=%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%BD%93%E4%BA%A4%E8%AD%A615%E5%B9%B4%E5%90%8E%E7%AA%81%E7%84%B6%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [谱写新时代中国宪法实践新篇章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E5%AE%9E%E8%B7%B5%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大学生送外卖赚1万多奖励自己游中国](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E8%B5%9A1%E4%B8%87%E5%A4%9A%E5%A5%96%E5%8A%B1%E8%87%AA%E5%B7%B1%E6%B8%B8%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [初中教师强奸5名女学生已被执行死刑](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E6%95%99%E5%B8%88%E5%BC%BA%E5%A5%B85%E5%90%8D%E5%A5%B3%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [博士后当交警15年后突然火了](https://www.baidu.com/s?wd=%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%BD%93%E4%BA%A4%E8%AD%A615%E5%B9%B4%E5%90%8E%E7%AA%81%E7%84%B6%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老年人公寓楼下唱歌被住户放哀乐](https://www.baidu.com/s?wd=%E8%80%81%E5%B9%B4%E4%BA%BA%E5%85%AC%E5%AF%93%E6%A5%BC%E4%B8%8B%E5%94%B1%E6%AD%8C%E8%A2%AB%E4%BD%8F%E6%88%B7%E6%94%BE%E5%93%80%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：别让秒变富二代慕富心态歪了楼](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%88%AB%E8%AE%A9%E7%A7%92%E5%8F%98%E5%AF%8C%E4%BA%8C%E4%BB%A3%E6%85%95%E5%AF%8C%E5%BF%83%E6%80%81%E6%AD%AA%E4%BA%86%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [博士后当交警15年后突然火了](https://www.baidu.com/s?wd=%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%BD%93%E4%BA%A4%E8%AD%A615%E5%B9%B4%E5%90%8E%E7%AA%81%E7%84%B6%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
