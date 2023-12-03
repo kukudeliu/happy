@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 13:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 13:09:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [故障航班落地后有人喊：机长牛](https://www.baidu.com/s?wd=%E6%95%85%E9%9A%9C%E8%88%AA%E7%8F%AD%E8%90%BD%E5%9C%B0%E5%90%8E%E6%9C%89%E4%BA%BA%E5%96%8A%EF%BC%9A%E6%9C%BA%E9%95%BF%E7%89%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [居民“菜篮子”货足价稳](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E2%80%9C%E8%8F%9C%E7%AF%AE%E5%AD%90%E2%80%9D%E8%B4%A7%E8%B6%B3%E4%BB%B7%E7%A8%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [名校博士查出医院多收10万医疗费](https://www.baidu.com/s?wd=%E5%90%8D%E6%A0%A1%E5%8D%9A%E5%A3%AB%E6%9F%A5%E5%87%BA%E5%8C%BB%E9%99%A2%E5%A4%9A%E6%94%B610%E4%B8%87%E5%8C%BB%E7%96%97%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多地12月将罕见回暖 局地升温15℃](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B012%E6%9C%88%E5%B0%86%E7%BD%95%E8%A7%81%E5%9B%9E%E6%9A%96+%E5%B1%80%E5%9C%B0%E5%8D%87%E6%B8%A915%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [17岁女孩吃下半斤生豆角中毒](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%90%83%E4%B8%8B%E5%8D%8A%E6%96%A4%E7%94%9F%E8%B1%86%E8%A7%92%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [这届年轻人离婚，开始找人跟拍](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A6%BB%E5%A9%9A%EF%BC%8C%E5%BC%80%E5%A7%8B%E6%89%BE%E4%BA%BA%E8%B7%9F%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美防长提醒以色列：保护加沙平民](https://www.baidu.com/s?wd=%E7%BE%8E%E9%98%B2%E9%95%BF%E6%8F%90%E9%86%92%E4%BB%A5%E8%89%B2%E5%88%97%EF%BC%9A%E4%BF%9D%E6%8A%A4%E5%8A%A0%E6%B2%99%E5%B9%B3%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [地方财政“闯年关”](https://www.baidu.com/s?wd=%E5%9C%B0%E6%96%B9%E8%B4%A2%E6%94%BF%E2%80%9C%E9%97%AF%E5%B9%B4%E5%85%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [为何国内看到的极光大多是红色？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E5%9B%BD%E5%86%85%E7%9C%8B%E5%88%B0%E7%9A%84%E6%9E%81%E5%85%89%E5%A4%A7%E5%A4%9A%E6%98%AF%E7%BA%A2%E8%89%B2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [职称评审包过？假的](https://www.baidu.com/s?wd=%E8%81%8C%E7%A7%B0%E8%AF%84%E5%AE%A1%E5%8C%85%E8%BF%87%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [故障航班落地后有人喊：机长牛](https://www.baidu.com/s?wd=%E6%95%85%E9%9A%9C%E8%88%AA%E7%8F%AD%E8%90%BD%E5%9C%B0%E5%90%8E%E6%9C%89%E4%BA%BA%E5%96%8A%EF%BC%9A%E6%9C%BA%E9%95%BF%E7%89%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [居民“菜篮子”货足价稳](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E2%80%9C%E8%8F%9C%E7%AF%AE%E5%AD%90%E2%80%9D%E8%B4%A7%E8%B6%B3%E4%BB%B7%E7%A8%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [名校博士查出医院多收10万医疗费](https://www.baidu.com/s?wd=%E5%90%8D%E6%A0%A1%E5%8D%9A%E5%A3%AB%E6%9F%A5%E5%87%BA%E5%8C%BB%E9%99%A2%E5%A4%9A%E6%94%B610%E4%B8%87%E5%8C%BB%E7%96%97%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多地12月将罕见回暖 局地升温15℃](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B012%E6%9C%88%E5%B0%86%E7%BD%95%E8%A7%81%E5%9B%9E%E6%9A%96+%E5%B1%80%E5%9C%B0%E5%8D%87%E6%B8%A915%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [17岁女孩吃下半斤生豆角中毒](https://www.baidu.com/s?wd=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%90%83%E4%B8%8B%E5%8D%8A%E6%96%A4%E7%94%9F%E8%B1%86%E8%A7%92%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [这届年轻人离婚，开始找人跟拍](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A6%BB%E5%A9%9A%EF%BC%8C%E5%BC%80%E5%A7%8B%E6%89%BE%E4%BA%BA%E8%B7%9F%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美防长提醒以色列：保护加沙平民](https://www.baidu.com/s?wd=%E7%BE%8E%E9%98%B2%E9%95%BF%E6%8F%90%E9%86%92%E4%BB%A5%E8%89%B2%E5%88%97%EF%BC%9A%E4%BF%9D%E6%8A%A4%E5%8A%A0%E6%B2%99%E5%B9%B3%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [地方财政“闯年关”](https://www.baidu.com/s?wd=%E5%9C%B0%E6%96%B9%E8%B4%A2%E6%94%BF%E2%80%9C%E9%97%AF%E5%B9%B4%E5%85%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [为何国内看到的极光大多是红色？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E5%9B%BD%E5%86%85%E7%9C%8B%E5%88%B0%E7%9A%84%E6%9E%81%E5%85%89%E5%A4%A7%E5%A4%9A%E6%98%AF%E7%BA%A2%E8%89%B2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [职称评审包过？假的](https://www.baidu.com/s?wd=%E8%81%8C%E7%A7%B0%E8%AF%84%E5%AE%A1%E5%8C%85%E8%BF%87%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
