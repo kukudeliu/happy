@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 14:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 14:58:01</h4></div>
 
 > 微博  
 
 1. [离婚 跟拍](https://s.weibo.com/weibo?q=%E7%A6%BB%E5%A9%9A%20%E8%B7%9F%E6%8B%8D&t=31&band_rank=1&Refer=top)<br />
-2. [孟美岐 年度最具突破女歌手](https://s.weibo.com/weibo?q=%E5%AD%9F%E7%BE%8E%E5%B2%90%20%E5%B9%B4%E5%BA%A6%E6%9C%80%E5%85%B7%E7%AA%81%E7%A0%B4%E5%A5%B3%E6%AD%8C%E6%89%8B&t=31&band_rank=2&Refer=top)<br />
+2. [大床房 大空房](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%BA%8A%E6%88%BF%20%E5%A4%A7%E7%A9%BA%E6%88%BF&t=31&band_rank=2&Refer=top)<br />
 3. [他们的拼搏值得被看见](https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E7%9A%84%E6%8B%BC%E6%90%8F%E5%80%BC%E5%BE%97%E8%A2%AB%E7%9C%8B%E8%A7%81%23&t=31&band_rank=3&Refer=top)<br />
-4. [大床房 大空房](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%BA%8A%E6%88%BF%20%E5%A4%A7%E7%A9%BA%E6%88%BF&t=31&band_rank=4&Refer=top)<br />
+4. [孟美岐 年度最具突破女歌手](https://s.weibo.com/weibo?q=%E5%AD%9F%E7%BE%8E%E5%B2%90%20%E5%B9%B4%E5%BA%A6%E6%9C%80%E5%85%B7%E7%AA%81%E7%A0%B4%E5%A5%B3%E6%AD%8C%E6%89%8B&t=31&band_rank=4&Refer=top)<br />
 5. [东航MU721航班故障机舱画面曝光](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AAMU721%E8%88%AA%E7%8F%AD%E6%95%85%E9%9A%9C%E6%9C%BA%E8%88%B1%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [官方通报三甲医院超收22万医疗费](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E8%B6%85%E6%94%B622%E4%B8%87%E5%8C%BB%E7%96%97%E8%B4%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [初代网红奶茶店开始悄悄倒闭](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%BB%A3%E7%BD%91%E7%BA%A2%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%BC%80%E5%A7%8B%E6%82%84%E6%82%84%E5%80%92%E9%97%AD%23&t=31&band_rank=7&Refer=top)<br />
