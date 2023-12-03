@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 16:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 16:22:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [中老铁路开通2周年](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%80%81%E9%93%81%E8%B7%AF%E5%BC%80%E9%80%9A2%E5%91%A8%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [离婚 跟拍](https://s.weibo.com/weibo?q=%E7%A6%BB%E5%A9%9A%20%E8%B7%9F%E6%8B%8D&t=31&band_rank=4&Refer=top)<br />
 5. [官方通报三甲医院超收22万医疗费](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E8%B6%85%E6%94%B622%E4%B8%87%E5%8C%BB%E7%96%97%E8%B4%B9%23&t=31&band_rank=5&Refer=top)<br />
-6. [LWX林炜翔](https://s.weibo.com/weibo?q=LWX%E6%9E%97%E7%82%9C%E7%BF%94&t=31&band_rank=6&Refer=top)<br />
-7. [手机拍照的图片不要直接打印](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7%E7%9A%84%E5%9B%BE%E7%89%87%E4%B8%8D%E8%A6%81%E7%9B%B4%E6%8E%A5%E6%89%93%E5%8D%B0&t=31&band_rank=7&Refer=top)<br />
+6. [手机拍照的图片不要直接打印](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7%E7%9A%84%E5%9B%BE%E7%89%87%E4%B8%8D%E8%A6%81%E7%9B%B4%E6%8E%A5%E6%89%93%E5%8D%B0&t=31&band_rank=6&Refer=top)<br />
+7. [LWX林炜翔](https://s.weibo.com/weibo?q=LWX%E6%9E%97%E7%82%9C%E7%BF%94&t=31&band_rank=7&Refer=top)<br />
 8. [王鹤棣田曦薇现代戏路透](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%94%B0%E6%9B%A6%E8%96%87%E7%8E%B0%E4%BB%A3%E6%88%8F%E8%B7%AF%E9%80%8F%23&t=31&band_rank=8&Refer=top)<br />
 9. [初代网红奶茶店开始悄悄倒闭](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%BB%A3%E7%BD%91%E7%BA%A2%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%BC%80%E5%A7%8B%E6%82%84%E6%82%84%E5%80%92%E9%97%AD%23&t=31&band_rank=9&Refer=top)<br />
 
