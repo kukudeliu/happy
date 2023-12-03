@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 05:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 05:46:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [长期缺觉容易诱发这5种疾病](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%BC%BA%E8%A7%89%E5%AE%B9%E6%98%93%E8%AF%B1%E5%8F%91%E8%BF%995%E7%A7%8D%E7%96%BE%E7%97%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [腾讯会员 没了](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E4%BC%9A%E5%91%98%20%E6%B2%A1%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [文旅局回应五月天疑似假唱](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [博主再更新五月天真假唱鉴定视频](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E5%86%8D%E6%9B%B4%E6%96%B0%E4%BA%94%E6%9C%88%E5%A4%A9%E7%9C%9F%E5%81%87%E5%94%B1%E9%89%B4%E5%AE%9A%E8%A7%86%E9%A2%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [丁俊晖vs奥沙利文](https://s.weibo.com/weibo?q=%23%E4%B8%81%E4%BF%8A%E6%99%96vs%E5%A5%A5%E6%B2%99%E5%88%A9%E6%96%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [丁俊晖vs奥沙利文](https://s.weibo.com/weibo?q=%23%E4%B8%81%E4%BF%8A%E6%99%96vs%E5%A5%A5%E6%B2%99%E5%88%A9%E6%96%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [博主再更新五月天真假唱鉴定视频](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E5%86%8D%E6%9B%B4%E6%96%B0%E4%BA%94%E6%9C%88%E5%A4%A9%E7%9C%9F%E5%81%87%E5%94%B1%E9%89%B4%E5%AE%9A%E8%A7%86%E9%A2%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
