@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 14:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 14:27:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [以开放创新“链”接未来](https://www.baidu.com/s?wd=%E4%BB%A5%E5%BC%80%E6%94%BE%E5%88%9B%E6%96%B0%E2%80%9C%E9%93%BE%E2%80%9D%E6%8E%A5%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [名校博士查出医院多收10万医疗费](https://www.baidu.com/s?wd=%E5%90%8D%E6%A0%A1%E5%8D%9A%E5%A3%AB%E6%9F%A5%E5%87%BA%E5%8C%BB%E9%99%A2%E5%A4%9A%E6%94%B610%E4%B8%87%E5%8C%BB%E7%96%97%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [三甲医院超收21万医疗费 官方通报](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E8%B6%85%E6%94%B621%E4%B8%87%E5%8C%BB%E7%96%97%E8%B4%B9+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [青岛一地铁站建成近六年未启用](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E4%B8%80%E5%9C%B0%E9%93%81%E7%AB%99%E5%BB%BA%E6%88%90%E8%BF%91%E5%85%AD%E5%B9%B4%E6%9C%AA%E5%90%AF%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [居民“菜篮子”货足价稳](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E2%80%9C%E8%8F%9C%E7%AF%AE%E5%AD%90%E2%80%9D%E8%B4%A7%E8%B6%B3%E4%BB%B7%E7%A8%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [五月天假唱鉴定引争议](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%81%87%E5%94%B1%E9%89%B4%E5%AE%9A%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [以开放创新“链”接未来](https://www.baidu.com/s?wd=%E4%BB%A5%E5%BC%80%E6%94%BE%E5%88%9B%E6%96%B0%E2%80%9C%E9%93%BE%E2%80%9D%E6%8E%A5%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [名校博士查出医院多收10万医疗费](https://www.baidu.com/s?wd=%E5%90%8D%E6%A0%A1%E5%8D%9A%E5%A3%AB%E6%9F%A5%E5%87%BA%E5%8C%BB%E9%99%A2%E5%A4%9A%E6%94%B610%E4%B8%87%E5%8C%BB%E7%96%97%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [三甲医院超收21万医疗费 官方通报](https://www.baidu.com/s?wd=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E8%B6%85%E6%94%B621%E4%B8%87%E5%8C%BB%E7%96%97%E8%B4%B9+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [青岛一地铁站建成近六年未启用](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E4%B8%80%E5%9C%B0%E9%93%81%E7%AB%99%E5%BB%BA%E6%88%90%E8%BF%91%E5%85%AD%E5%B9%B4%E6%9C%AA%E5%90%AF%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [居民“菜篮子”货足价稳](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E2%80%9C%E8%8F%9C%E7%AF%AE%E5%AD%90%E2%80%9D%E8%B4%A7%E8%B6%B3%E4%BB%B7%E7%A8%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [五月天假唱鉴定引争议](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%81%87%E5%94%B1%E9%89%B4%E5%AE%9A%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
