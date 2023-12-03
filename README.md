@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 13:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 13:06:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [他们的拼搏值得被看见](https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E7%9A%84%E6%8B%BC%E6%90%8F%E5%80%BC%E5%BE%97%E8%A2%AB%E7%9C%8B%E8%A7%81%23&t=31&band_rank=3&Refer=top)<br />
 4. [青岛夫妻俩患艾滋病19年孩子已上高中](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%A4%AB%E5%A6%BB%E4%BF%A9%E6%82%A3%E8%89%BE%E6%BB%8B%E7%97%8519%E5%B9%B4%E5%AD%A9%E5%AD%90%E5%B7%B2%E4%B8%8A%E9%AB%98%E4%B8%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [初代网红奶茶店开始悄悄倒闭](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%BB%A3%E7%BD%91%E7%BA%A2%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%BC%80%E5%A7%8B%E6%82%84%E6%82%84%E5%80%92%E9%97%AD%23&t=31&band_rank=5&Refer=top)<br />
-6. [零食 公摊面积](https://s.weibo.com/weibo?q=%E9%9B%B6%E9%A3%9F%20%E5%85%AC%E6%91%8A%E9%9D%A2%E7%A7%AF&t=31&band_rank=6&Refer=top)<br />
-7. [适合做老婆为什么会是一种冒犯](https://s.weibo.com/weibo?q=%E9%80%82%E5%90%88%E5%81%9A%E8%80%81%E5%A9%86%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%98%AF%E4%B8%80%E7%A7%8D%E5%86%92%E7%8A%AF&t=31&band_rank=7&Refer=top)<br />
+6. [适合做老婆为什么会是一种冒犯](https://s.weibo.com/weibo?q=%E9%80%82%E5%90%88%E5%81%9A%E8%80%81%E5%A9%86%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%98%AF%E4%B8%80%E7%A7%8D%E5%86%92%E7%8A%AF&t=31&band_rank=6&Refer=top)<br />
+7. [零食 公摊面积](https://s.weibo.com/weibo?q=%E9%9B%B6%E9%A3%9F%20%E5%85%AC%E6%91%8A%E9%9D%A2%E7%A7%AF&t=31&band_rank=7&Refer=top)<br />
 8. [难哄 白敬亭](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E7%99%BD%E6%95%AC%E4%BA%AD&t=31&band_rank=8&Refer=top)<br />
 9. [穿大衣当然要扎低丸子头](https://s.weibo.com/weibo?q=%E7%A9%BF%E5%A4%A7%E8%A1%A3%E5%BD%93%E7%84%B6%E8%A6%81%E6%89%8E%E4%BD%8E%E4%B8%B8%E5%AD%90%E5%A4%B4&t=31&band_rank=9&Refer=top)<br />
 
