@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 00:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 00:47:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [文旅局回应五月天疑似假唱](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [腾讯会员 没了](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E4%BC%9A%E5%91%98%20%E6%B2%A1%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [长期缺觉容易诱发这5种疾病](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%BC%BA%E8%A7%89%E5%AE%B9%E6%98%93%E8%AF%B1%E5%8F%91%E8%BF%995%E7%A7%8D%E7%96%BE%E7%97%85%23&t=31&band_rank=7&Refer=top)<br />
-8. [五月天经纪方多次挂断媒体电话](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E6%96%B9%E5%A4%9A%E6%AC%A1%E6%8C%82%E6%96%AD%E5%AA%92%E4%BD%93%E7%94%B5%E8%AF%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [冯琳 主持人大赛](https://s.weibo.com/weibo?q=%E5%86%AF%E7%90%B3%20%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%A4%A7%E8%B5%9B&t=31&band_rank=9&Refer=top)<br />
+8. [姥姥去世一周后妈妈发的短信](https://s.weibo.com/weibo?q=%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%E4%B8%80%E5%91%A8%E5%90%8E%E5%A6%88%E5%A6%88%E5%8F%91%E7%9A%84%E7%9F%AD%E4%BF%A1&t=31&band_rank=8&Refer=top)<br />
+9. [五月天经纪方多次挂断媒体电话](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E6%96%B9%E5%A4%9A%E6%AC%A1%E6%8C%82%E6%96%AD%E5%AA%92%E4%BD%93%E7%94%B5%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
