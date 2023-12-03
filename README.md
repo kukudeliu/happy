@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 23:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 23:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [痞幼三倍大眼妆](https://s.weibo.com/weibo?q=%E7%97%9E%E5%B9%BC%E4%B8%89%E5%80%8D%E5%A4%A7%E7%9C%BC%E5%A6%86&t=31&band_rank=6&Refer=top)<br />
 7. [一周不洗脸为什么皮肤变好了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%91%A8%E4%B8%8D%E6%B4%97%E8%84%B8%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9A%AE%E8%82%A4%E5%8F%98%E5%A5%BD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [大妈捡到手机用免密支付刷光余额](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E6%8D%A1%E5%88%B0%E6%89%8B%E6%9C%BA%E7%94%A8%E5%85%8D%E5%AF%86%E6%94%AF%E4%BB%98%E5%88%B7%E5%85%89%E4%BD%99%E9%A2%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [林俊杰 等我修炼完爱情再修理你](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E7%AD%89%E6%88%91%E4%BF%AE%E7%82%BC%E5%AE%8C%E7%88%B1%E6%83%85%E5%86%8D%E4%BF%AE%E7%90%86%E4%BD%A0&t=31&band_rank=9&Refer=top)<br />
+9. [GQ压轴官宣杨幂](https://s.weibo.com/weibo?q=%23GQ%E5%8E%8B%E8%BD%B4%E5%AE%98%E5%AE%A3%E6%9D%A8%E5%B9%82%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
