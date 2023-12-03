@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 17:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘诗诗 北京](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E5%8C%97%E4%BA%AC&t=31&band_rank=6&Refer=top)<br />
 7. [N1](https://s.weibo.com/weibo?q=N1&t=31&band_rank=7&Refer=top)<br />
 8. [商演假唱将被罚款](https://s.weibo.com/weibo?q=%23%E5%95%86%E6%BC%94%E5%81%87%E5%94%B1%E5%B0%86%E8%A2%AB%E7%BD%9A%E6%AC%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [手机拍照的图片不要直接打印](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7%E7%9A%84%E5%9B%BE%E7%89%87%E4%B8%8D%E8%A6%81%E7%9B%B4%E6%8E%A5%E6%89%93%E5%8D%B0&t=31&band_rank=9&Refer=top)<br />
+9. [哈工大90岁院士捐款300万](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A790%E5%B2%81%E9%99%A2%E5%A3%AB%E6%8D%90%E6%AC%BE300%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
