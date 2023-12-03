@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 21:09:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 21:10:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [谱写新时代中国宪法实践新篇章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E5%AE%9E%E8%B7%B5%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [深圳一景区野猪被投喂成网红猪](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E6%99%AF%E5%8C%BA%E9%87%8E%E7%8C%AA%E8%A2%AB%E6%8A%95%E5%96%82%E6%88%90%E7%BD%91%E7%BA%A2%E7%8C%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [伊朗陆军总司令公布3款新型武器](https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%99%86%E5%86%9B%E6%80%BB%E5%8F%B8%E4%BB%A4%E5%85%AC%E5%B8%833%E6%AC%BE%E6%96%B0%E5%9E%8B%E6%AD%A6%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老年人公寓楼下唱歌被住户放哀乐](https://www.baidu.com/s?wd=%E8%80%81%E5%B9%B4%E4%BA%BA%E5%85%AC%E5%AF%93%E6%A5%BC%E4%B8%8B%E5%94%B1%E6%AD%8C%E8%A2%AB%E4%BD%8F%E6%88%B7%E6%94%BE%E5%93%80%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [文物禁止拍照是量子问题](https://www.baidu.com/s?wd=%E6%96%87%E7%89%A9%E7%A6%81%E6%AD%A2%E6%8B%8D%E7%85%A7%E6%98%AF%E9%87%8F%E5%AD%90%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩红曾说职业歌手唱不下来别开演唱会](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E6%9B%BE%E8%AF%B4%E8%81%8C%E4%B8%9A%E6%AD%8C%E6%89%8B%E5%94%B1%E4%B8%8D%E4%B8%8B%E6%9D%A5%E5%88%AB%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子巴厘岛打卡恶魔的眼泪险丧命](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B7%B4%E5%8E%98%E5%B2%9B%E6%89%93%E5%8D%A1%E6%81%B6%E9%AD%94%E7%9A%84%E7%9C%BC%E6%B3%AA%E9%99%A9%E4%B8%A7%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [谱写新时代中国宪法实践新篇章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E5%AE%9E%E8%B7%B5%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [深圳一景区野猪被投喂成网红猪](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E6%99%AF%E5%8C%BA%E9%87%8E%E7%8C%AA%E8%A2%AB%E6%8A%95%E5%96%82%E6%88%90%E7%BD%91%E7%BA%A2%E7%8C%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [伊朗陆军总司令公布3款新型武器](https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%99%86%E5%86%9B%E6%80%BB%E5%8F%B8%E4%BB%A4%E5%85%AC%E5%B8%833%E6%AC%BE%E6%96%B0%E5%9E%8B%E6%AD%A6%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老年人公寓楼下唱歌被住户放哀乐](https://www.baidu.com/s?wd=%E8%80%81%E5%B9%B4%E4%BA%BA%E5%85%AC%E5%AF%93%E6%A5%BC%E4%B8%8B%E5%94%B1%E6%AD%8C%E8%A2%AB%E4%BD%8F%E6%88%B7%E6%94%BE%E5%93%80%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [文物禁止拍照是量子问题](https://www.baidu.com/s?wd=%E6%96%87%E7%89%A9%E7%A6%81%E6%AD%A2%E6%8B%8D%E7%85%A7%E6%98%AF%E9%87%8F%E5%AD%90%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩红曾说职业歌手唱不下来别开演唱会](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E6%9B%BE%E8%AF%B4%E8%81%8C%E4%B8%9A%E6%AD%8C%E6%89%8B%E5%94%B1%E4%B8%8D%E4%B8%8B%E6%9D%A5%E5%88%AB%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子巴厘岛打卡恶魔的眼泪险丧命](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B7%B4%E5%8E%98%E5%B2%9B%E6%89%93%E5%8D%A1%E6%81%B6%E9%AD%94%E7%9A%84%E7%9C%BC%E6%B3%AA%E9%99%A9%E4%B8%A7%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
