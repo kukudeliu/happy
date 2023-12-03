@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 13:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 14:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [初代网红奶茶店开始悄悄倒闭](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%BB%A3%E7%BD%91%E7%BA%A2%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%BC%80%E5%A7%8B%E6%82%84%E6%82%84%E5%80%92%E9%97%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [零食 公摊面积](https://s.weibo.com/weibo?q=%E9%9B%B6%E9%A3%9F%20%E5%85%AC%E6%91%8A%E9%9D%A2%E7%A7%AF&t=31&band_rank=7&Refer=top)<br />
 8. [营业性演出假唱 违法](https://s.weibo.com/weibo?q=%E8%90%A5%E4%B8%9A%E6%80%A7%E6%BC%94%E5%87%BA%E5%81%87%E5%94%B1%20%E8%BF%9D%E6%B3%95&t=31&band_rank=8&Refer=top)<br />
-9. [适合做老婆为什么会是一种冒犯](https://s.weibo.com/weibo?q=%E9%80%82%E5%90%88%E5%81%9A%E8%80%81%E5%A9%86%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%98%AF%E4%B8%80%E7%A7%8D%E5%86%92%E7%8A%AF&t=31&band_rank=9&Refer=top)<br />
+9. [宋雨琦现场观战湖人](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E7%8E%B0%E5%9C%BA%E8%A7%82%E6%88%98%E6%B9%96%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
