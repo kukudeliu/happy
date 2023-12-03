@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 22:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 22:06:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [文旅局回应五月天疑似假唱](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [一周不洗脸为什么皮肤变好了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%91%A8%E4%B8%8D%E6%B4%97%E8%84%B8%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9A%AE%E8%82%A4%E5%8F%98%E5%A5%BD%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [GQ官宣易烊千玺](https://s.weibo.com/weibo?q=%23GQ%E5%AE%98%E5%AE%A3%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [旭旭宝宝](https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D&t=31&band_rank=7&Refer=top)<br />
-8. [上海12345回应五月天被质疑假唱](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B712345%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E8%B4%A8%E7%96%91%E5%81%87%E5%94%B1%23&t=31&band_rank=8&Refer=top)<br />
+7. [上海12345回应五月天被质疑假唱](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B712345%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E8%B4%A8%E7%96%91%E5%81%87%E5%94%B1%23&t=31&band_rank=7&Refer=top)<br />
+8. [旭旭宝宝](https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D&t=31&band_rank=8&Refer=top)<br />
 9. [发现被舍友删后重加要回4年前礼金](https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E8%A2%AB%E8%88%8D%E5%8F%8B%E5%88%A0%E5%90%8E%E9%87%8D%E5%8A%A0%E8%A6%81%E5%9B%9E4%E5%B9%B4%E5%89%8D%E7%A4%BC%E9%87%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
