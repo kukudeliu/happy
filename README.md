@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 21:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 21:27:01</h4></div>
 
 > 微博  
 
-1. [腾讯视频崩了](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E5%B4%A9%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [腾讯会员 没了](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E4%BC%9A%E5%91%98%20%E6%B2%A1%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
+1. [腾讯会员 没了](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E4%BC%9A%E5%91%98%20%E6%B2%A1%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
+2. [腾讯视频崩了](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E5%B4%A9%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [红嘴鸥与滇池蓝同框宛如大片](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E5%98%B4%E9%B8%A5%E4%B8%8E%E6%BB%87%E6%B1%A0%E8%93%9D%E5%90%8C%E6%A1%86%E5%AE%9B%E5%A6%82%E5%A4%A7%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [文旅局回应五月天疑似假唱](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [上海12345回应五月天被质疑假唱](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B712345%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E8%B4%A8%E7%96%91%E5%81%87%E5%94%B1%23&t=31&band_rank=5&Refer=top)<br />
