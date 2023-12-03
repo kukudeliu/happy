@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 21:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 21:08:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [红嘴鸥与滇池蓝同框宛如大片](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E5%98%B4%E9%B8%A5%E4%B8%8E%E6%BB%87%E6%B1%A0%E8%93%9D%E5%90%8C%E6%A1%86%E5%AE%9B%E5%A6%82%E5%A4%A7%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [文旅局回应五月天疑似假唱](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [车窗贴两张缴费单但车内司机已去世](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E7%AA%97%E8%B4%B4%E4%B8%A4%E5%BC%A0%E7%BC%B4%E8%B4%B9%E5%8D%95%E4%BD%86%E8%BD%A6%E5%86%85%E5%8F%B8%E6%9C%BA%E5%B7%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
-6. [发现被舍友删后重加要回4年前礼金](https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E8%A2%AB%E8%88%8D%E5%8F%8B%E5%88%A0%E5%90%8E%E9%87%8D%E5%8A%A0%E8%A6%81%E5%9B%9E4%E5%B9%B4%E5%89%8D%E7%A4%BC%E9%87%91%23&t=31&band_rank=6&Refer=top)<br />
-7. [上海12345回应五月天被质疑假唱](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B712345%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E8%B4%A8%E7%96%91%E5%81%87%E5%94%B1%23&t=31&band_rank=7&Refer=top)<br />
+6. [上海12345回应五月天被质疑假唱](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B712345%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E8%B4%A8%E7%96%91%E5%81%87%E5%94%B1%23&t=31&band_rank=6&Refer=top)<br />
+7. [发现被舍友删后重加要回4年前礼金](https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E8%A2%AB%E8%88%8D%E5%8F%8B%E5%88%A0%E5%90%8E%E9%87%8D%E5%8A%A0%E8%A6%81%E5%9B%9E4%E5%B9%B4%E5%89%8D%E7%A4%BC%E9%87%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨鸣多个社交平台账号已取消认证](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E5%A4%9A%E4%B8%AA%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0%E8%B4%A6%E5%8F%B7%E5%B7%B2%E5%8F%96%E6%B6%88%E8%AE%A4%E8%AF%81%23&t=31&band_rank=8&Refer=top)<br />
 9. [严敏 无限流综艺](https://s.weibo.com/weibo?q=%E4%B8%A5%E6%95%8F%20%E6%97%A0%E9%99%90%E6%B5%81%E7%BB%BC%E8%89%BA&t=31&band_rank=9&Refer=top)<br />
 
