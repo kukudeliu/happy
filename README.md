@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 12:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 12:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [穿大衣当然要扎低丸子头](https://s.weibo.com/weibo?q=%E7%A9%BF%E5%A4%A7%E8%A1%A3%E5%BD%93%E7%84%B6%E8%A6%81%E6%89%8E%E4%BD%8E%E4%B8%B8%E5%AD%90%E5%A4%B4&t=31&band_rank=6&Refer=top)<br />
 7. [难哄 白敬亭](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E7%99%BD%E6%95%AC%E4%BA%AD&t=31&band_rank=7&Refer=top)<br />
 8. [东航一航班飞行途中出现故障信息备降厦门](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E4%B8%80%E8%88%AA%E7%8F%AD%E9%A3%9E%E8%A1%8C%E9%80%94%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%95%85%E9%9A%9C%E4%BF%A1%E6%81%AF%E5%A4%87%E9%99%8D%E5%8E%A6%E9%97%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘诗诗 老公是一种态度](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E8%80%81%E5%85%AC%E6%98%AF%E4%B8%80%E7%A7%8D%E6%80%81%E5%BA%A6&t=31&band_rank=9&Refer=top)<br />
+9. [演唱会假唱 离谱](https://s.weibo.com/weibo?q=%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%87%E5%94%B1%20%E7%A6%BB%E8%B0%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
