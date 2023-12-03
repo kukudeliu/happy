@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 15:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 15:49:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [张朝阳：长期被动刷手机人就废了](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%EF%BC%9A%E9%95%BF%E6%9C%9F%E8%A2%AB%E5%8A%A8%E5%88%B7%E6%89%8B%E6%9C%BA%E4%BA%BA%E5%B0%B1%E5%BA%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [居民“菜篮子”货足价稳](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E2%80%9C%E8%8F%9C%E7%AF%AE%E5%AD%90%E2%80%9D%E8%B4%A7%E8%B6%B3%E4%BB%B7%E7%A8%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [五月天假唱鉴定引争议](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%81%87%E5%94%B1%E9%89%B4%E5%AE%9A%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [美防长提醒以色列：保护加沙平民](https://www.baidu.com/s?wd=%E7%BE%8E%E9%98%B2%E9%95%BF%E6%8F%90%E9%86%92%E4%BB%A5%E8%89%B2%E5%88%97%EF%BC%9A%E4%BF%9D%E6%8A%A4%E5%8A%A0%E6%B2%99%E5%B9%B3%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [房东出租仅两月的房子被“扒皮”](https://www.baidu.com/s?wd=%E6%88%BF%E4%B8%9C%E5%87%BA%E7%A7%9F%E4%BB%85%E4%B8%A4%E6%9C%88%E7%9A%84%E6%88%BF%E5%AD%90%E8%A2%AB%E2%80%9C%E6%89%92%E7%9A%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [湖南里耶发现13口2000多年前的古井](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E9%87%8C%E8%80%B6%E5%8F%91%E7%8E%B013%E5%8F%A32000%E5%A4%9A%E5%B9%B4%E5%89%8D%E7%9A%84%E5%8F%A4%E4%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [为何国内看到的极光大多是红色？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E5%9B%BD%E5%86%85%E7%9C%8B%E5%88%B0%E7%9A%84%E6%9E%81%E5%85%89%E5%A4%A7%E5%A4%9A%E6%98%AF%E7%BA%A2%E8%89%B2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湖南省委书记一个月7次暗访](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E4%B8%80%E4%B8%AA%E6%9C%887%E6%AC%A1%E6%9A%97%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [职称评审包过？假的](https://www.baidu.com/s?wd=%E8%81%8C%E7%A7%B0%E8%AF%84%E5%AE%A1%E5%8C%85%E8%BF%87%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [张朝阳：长期被动刷手机人就废了](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%EF%BC%9A%E9%95%BF%E6%9C%9F%E8%A2%AB%E5%8A%A8%E5%88%B7%E6%89%8B%E6%9C%BA%E4%BA%BA%E5%B0%B1%E5%BA%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [居民“菜篮子”货足价稳](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E2%80%9C%E8%8F%9C%E7%AF%AE%E5%AD%90%E2%80%9D%E8%B4%A7%E8%B6%B3%E4%BB%B7%E7%A8%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [五月天假唱鉴定引争议](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%81%87%E5%94%B1%E9%89%B4%E5%AE%9A%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [美防长提醒以色列：保护加沙平民](https://www.baidu.com/s?wd=%E7%BE%8E%E9%98%B2%E9%95%BF%E6%8F%90%E9%86%92%E4%BB%A5%E8%89%B2%E5%88%97%EF%BC%9A%E4%BF%9D%E6%8A%A4%E5%8A%A0%E6%B2%99%E5%B9%B3%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [房东出租仅两月的房子被“扒皮”](https://www.baidu.com/s?wd=%E6%88%BF%E4%B8%9C%E5%87%BA%E7%A7%9F%E4%BB%85%E4%B8%A4%E6%9C%88%E7%9A%84%E6%88%BF%E5%AD%90%E8%A2%AB%E2%80%9C%E6%89%92%E7%9A%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [湖南里耶发现13口2000多年前的古井](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E9%87%8C%E8%80%B6%E5%8F%91%E7%8E%B013%E5%8F%A32000%E5%A4%9A%E5%B9%B4%E5%89%8D%E7%9A%84%E5%8F%A4%E4%BA%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [为何国内看到的极光大多是红色？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E5%9B%BD%E5%86%85%E7%9C%8B%E5%88%B0%E7%9A%84%E6%9E%81%E5%85%89%E5%A4%A7%E5%A4%9A%E6%98%AF%E7%BA%A2%E8%89%B2%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湖南省委书记一个月7次暗访](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E4%B8%80%E4%B8%AA%E6%9C%887%E6%AC%A1%E6%9A%97%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [职称评审包过？假的](https://www.baidu.com/s?wd=%E8%81%8C%E7%A7%B0%E8%AF%84%E5%AE%A1%E5%8C%85%E8%BF%87%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
