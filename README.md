@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 17:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 17:39:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [张朝阳：长期被动刷手机人就废了](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%EF%BC%9A%E9%95%BF%E6%9C%9F%E8%A2%AB%E5%8A%A8%E5%88%B7%E6%89%8B%E6%9C%BA%E4%BA%BA%E5%B0%B1%E5%BA%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济展现独特“魅力”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B1%95%E7%8E%B0%E7%8B%AC%E7%89%B9%E2%80%9C%E9%AD%85%E5%8A%9B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [芬兰总统希望中国提供帮助](https://www.baidu.com/s?wd=%E8%8A%AC%E5%85%B0%E6%80%BB%E7%BB%9F%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%9B%BD%E6%8F%90%E4%BE%9B%E5%B8%AE%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [地方财政“闯年关”](https://www.baidu.com/s?wd=%E5%9C%B0%E6%96%B9%E8%B4%A2%E6%94%BF%E2%80%9C%E9%97%AF%E5%B9%B4%E5%85%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [深圳一景区野猪被投喂成网红猪](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E6%99%AF%E5%8C%BA%E9%87%8E%E7%8C%AA%E8%A2%AB%E6%8A%95%E5%96%82%E6%88%90%E7%BD%91%E7%BA%A2%E7%8C%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌干达70岁老太生下试管龙凤胎](https://www.baidu.com/s?wd=%E4%B9%8C%E5%B9%B2%E8%BE%BE70%E5%B2%81%E8%80%81%E5%A4%AA%E7%94%9F%E4%B8%8B%E8%AF%95%E7%AE%A1%E9%BE%99%E5%87%A4%E8%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [婚车被挂数十把锁系亲友闹着玩](https://www.baidu.com/s?wd=%E5%A9%9A%E8%BD%A6%E8%A2%AB%E6%8C%82%E6%95%B0%E5%8D%81%E6%8A%8A%E9%94%81%E7%B3%BB%E4%BA%B2%E5%8F%8B%E9%97%B9%E7%9D%80%E7%8E%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美英澳防长：要用AI追踪中国潜艇](https://www.baidu.com/s?wd=%E7%BE%8E%E8%8B%B1%E6%BE%B3%E9%98%B2%E9%95%BF%EF%BC%9A%E8%A6%81%E7%94%A8AI%E8%BF%BD%E8%B8%AA%E4%B8%AD%E5%9B%BD%E6%BD%9C%E8%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [地方财政“闯年关”](https://www.baidu.com/s?wd=%E5%9C%B0%E6%96%B9%E8%B4%A2%E6%94%BF%E2%80%9C%E9%97%AF%E5%B9%B4%E5%85%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [张朝阳：长期被动刷手机人就废了](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%EF%BC%9A%E9%95%BF%E6%9C%9F%E8%A2%AB%E5%8A%A8%E5%88%B7%E6%89%8B%E6%9C%BA%E4%BA%BA%E5%B0%B1%E5%BA%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济展现独特“魅力”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B1%95%E7%8E%B0%E7%8B%AC%E7%89%B9%E2%80%9C%E9%AD%85%E5%8A%9B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [芬兰总统希望中国提供帮助](https://www.baidu.com/s?wd=%E8%8A%AC%E5%85%B0%E6%80%BB%E7%BB%9F%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%9B%BD%E6%8F%90%E4%BE%9B%E5%B8%AE%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [地方财政“闯年关”](https://www.baidu.com/s?wd=%E5%9C%B0%E6%96%B9%E8%B4%A2%E6%94%BF%E2%80%9C%E9%97%AF%E5%B9%B4%E5%85%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [深圳一景区野猪被投喂成网红猪](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E6%99%AF%E5%8C%BA%E9%87%8E%E7%8C%AA%E8%A2%AB%E6%8A%95%E5%96%82%E6%88%90%E7%BD%91%E7%BA%A2%E7%8C%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌干达70岁老太生下试管龙凤胎](https://www.baidu.com/s?wd=%E4%B9%8C%E5%B9%B2%E8%BE%BE70%E5%B2%81%E8%80%81%E5%A4%AA%E7%94%9F%E4%B8%8B%E8%AF%95%E7%AE%A1%E9%BE%99%E5%87%A4%E8%83%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [婚车被挂数十把锁系亲友闹着玩](https://www.baidu.com/s?wd=%E5%A9%9A%E8%BD%A6%E8%A2%AB%E6%8C%82%E6%95%B0%E5%8D%81%E6%8A%8A%E9%94%81%E7%B3%BB%E4%BA%B2%E5%8F%8B%E9%97%B9%E7%9D%80%E7%8E%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美英澳防长：要用AI追踪中国潜艇](https://www.baidu.com/s?wd=%E7%BE%8E%E8%8B%B1%E6%BE%B3%E9%98%B2%E9%95%BF%EF%BC%9A%E8%A6%81%E7%94%A8AI%E8%BF%BD%E8%B8%AA%E4%B8%AD%E5%9B%BD%E6%BD%9C%E8%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [地方财政“闯年关”](https://www.baidu.com/s?wd=%E5%9C%B0%E6%96%B9%E8%B4%A2%E6%94%BF%E2%80%9C%E9%97%AF%E5%B9%B4%E5%85%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
