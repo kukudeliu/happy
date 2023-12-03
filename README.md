@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 08:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-03 08:49:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [国家卫健委：目前未发现新发传染病](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%EF%BC%9A%E7%9B%AE%E5%89%8D%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%B0%E5%8F%91%E4%BC%A0%E6%9F%93%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [旅客称花2500元住酒店被蛇咬](https://www.baidu.com/s?wd=%E6%97%85%E5%AE%A2%E7%A7%B0%E8%8A%B12500%E5%85%83%E4%BD%8F%E9%85%92%E5%BA%97%E8%A2%AB%E8%9B%87%E5%92%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [这届年轻人离婚，开始找人跟拍](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A6%BB%E5%A9%9A%EF%BC%8C%E5%BC%80%E5%A7%8B%E6%89%BE%E4%BA%BA%E8%B7%9F%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子捡手机后要价千元：不给就刷机](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8D%A1%E6%89%8B%E6%9C%BA%E5%90%8E%E8%A6%81%E4%BB%B7%E5%8D%83%E5%85%83%EF%BC%9A%E4%B8%8D%E7%BB%99%E5%B0%B1%E5%88%B7%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小猫偷吃20根虫草主人含泪赔2千](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%AB%E5%81%B7%E5%90%8320%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美英澳防长：要用AI追踪中国潜艇](https://www.baidu.com/s?wd=%E7%BE%8E%E8%8B%B1%E6%BE%B3%E9%98%B2%E9%95%BF%EF%BC%9A%E8%A6%81%E7%94%A8AI%E8%BF%BD%E8%B8%AA%E4%B8%AD%E5%9B%BD%E6%BD%9C%E8%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子捡手机后要价千元：不给就刷机](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8D%A1%E6%89%8B%E6%9C%BA%E5%90%8E%E8%A6%81%E4%BB%B7%E5%8D%83%E5%85%83%EF%BC%9A%E4%B8%8D%E7%BB%99%E5%B0%B1%E5%88%B7%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣养老金认证出台新规](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E5%85%BB%E8%80%81%E9%87%91%E8%AE%A4%E8%AF%81%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [国家卫健委：目前未发现新发传染病](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%EF%BC%9A%E7%9B%AE%E5%89%8D%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%B0%E5%8F%91%E4%BC%A0%E6%9F%93%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [旅客称花2500元住酒店被蛇咬](https://www.baidu.com/s?wd=%E6%97%85%E5%AE%A2%E7%A7%B0%E8%8A%B12500%E5%85%83%E4%BD%8F%E9%85%92%E5%BA%97%E8%A2%AB%E8%9B%87%E5%92%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [这届年轻人离婚，开始找人跟拍](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A6%BB%E5%A9%9A%EF%BC%8C%E5%BC%80%E5%A7%8B%E6%89%BE%E4%BA%BA%E8%B7%9F%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子捡手机后要价千元：不给就刷机](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8D%A1%E6%89%8B%E6%9C%BA%E5%90%8E%E8%A6%81%E4%BB%B7%E5%8D%83%E5%85%83%EF%BC%9A%E4%B8%8D%E7%BB%99%E5%B0%B1%E5%88%B7%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小猫偷吃20根虫草主人含泪赔2千](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%AB%E5%81%B7%E5%90%8320%E6%A0%B9%E8%99%AB%E8%8D%89%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E8%B5%942%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美英澳防长：要用AI追踪中国潜艇](https://www.baidu.com/s?wd=%E7%BE%8E%E8%8B%B1%E6%BE%B3%E9%98%B2%E9%95%BF%EF%BC%9A%E8%A6%81%E7%94%A8AI%E8%BF%BD%E8%B8%AA%E4%B8%AD%E5%9B%BD%E6%BD%9C%E8%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子捡手机后要价千元：不给就刷机](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8D%A1%E6%89%8B%E6%9C%BA%E5%90%8E%E8%A6%81%E4%BB%B7%E5%8D%83%E5%85%83%EF%BC%9A%E4%B8%8D%E7%BB%99%E5%B0%B1%E5%88%B7%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣养老金认证出台新规](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E5%85%BB%E8%80%81%E9%87%91%E8%AE%A4%E8%AF%81%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
