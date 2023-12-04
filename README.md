@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 01:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 01:19:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [美好生活宪给你](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB%E5%AE%AA%E7%BB%99%E4%BD%A0%23&t=31&band_rank=3&Refer=top)<br />
 4. [手机贴膜 智商税](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E8%B4%B4%E8%86%9C%20%E6%99%BA%E5%95%86%E7%A8%8E&t=31&band_rank=4&Refer=top)<br />
 5. [麦田农夫 每个音都特别准就是假唱](https://s.weibo.com/weibo?q=%E9%BA%A6%E7%94%B0%E5%86%9C%E5%A4%AB%20%E6%AF%8F%E4%B8%AA%E9%9F%B3%E9%83%BD%E7%89%B9%E5%88%AB%E5%87%86%E5%B0%B1%E6%98%AF%E5%81%87%E5%94%B1&t=31&band_rank=5&Refer=top)<br />
-6. [刘诗诗回应替身说](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E8%AF%B4&t=31&band_rank=6&Refer=top)<br />
-7. [一人花近10万买彩票中2亿](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E8%8A%B1%E8%BF%9110%E4%B8%87%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD2%E4%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
+6. [一人花近10万买彩票中2亿](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E8%8A%B1%E8%BF%9110%E4%B8%87%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD2%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
+7. [刘诗诗回应替身说](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E8%AF%B4&t=31&band_rank=7&Refer=top)<br />
 8. [快过年了 不要再买了](https://s.weibo.com/weibo?q=%E5%BF%AB%E8%BF%87%E5%B9%B4%E4%BA%86%20%E4%B8%8D%E8%A6%81%E5%86%8D%E4%B9%B0%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [断崖式衰老女子确诊卵巢早衰](https://s.weibo.com/weibo?q=%23%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -23,8 +23,8 @@
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华春莹发布卢卡申科打冰球视频](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%8F%91%E5%B8%83%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%89%93%E5%86%B0%E7%90%83%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [易会满专访释放三大政策信号](https://www.baidu.com/s?wd=%E6%98%93%E4%BC%9A%E6%BB%A1%E4%B8%93%E8%AE%BF%E9%87%8A%E6%94%BE%E4%B8%89%E5%A4%A7%E6%94%BF%E7%AD%96%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [比亚迪打击黑公关：举报最高奖500万](https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%89%93%E5%87%BB%E9%BB%91%E5%85%AC%E5%85%B3%EF%BC%9A%E4%B8%BE%E6%8A%A5%E6%9C%80%E9%AB%98%E5%A5%96500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [前美国大使被捕 涉嫌担任古巴特工](https://www.baidu.com/s?wd=%E5%89%8D%E7%BE%8E%E5%9B%BD%E5%A4%A7%E4%BD%BF%E8%A2%AB%E6%8D%95+%E6%B6%89%E5%AB%8C%E6%8B%85%E4%BB%BB%E5%8F%A4%E5%B7%B4%E7%89%B9%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杭州加油站已进化到机器人加油](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%8A%A0%E6%B2%B9%E7%AB%99%E5%B7%B2%E8%BF%9B%E5%8C%96%E5%88%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华春莹发布卢卡申科打冰球视频](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%8F%91%E5%B8%83%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%89%93%E5%86%B0%E7%90%83%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [易会满专访释放三大政策信号](https://www.baidu.com/s?wd=%E6%98%93%E4%BC%9A%E6%BB%A1%E4%B8%93%E8%AE%BF%E9%87%8A%E6%94%BE%E4%B8%89%E5%A4%A7%E6%94%BF%E7%AD%96%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [比亚迪打击黑公关：举报最高奖500万](https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%89%93%E5%87%BB%E9%BB%91%E5%85%AC%E5%85%B3%EF%BC%9A%E4%B8%BE%E6%8A%A5%E6%9C%80%E9%AB%98%E5%A5%96500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [前美国大使被捕 涉嫌担任古巴特工](https://www.baidu.com/s?wd=%E5%89%8D%E7%BE%8E%E5%9B%BD%E5%A4%A7%E4%BD%BF%E8%A2%AB%E6%8D%95+%E6%B6%89%E5%AB%8C%E6%8B%85%E4%BB%BB%E5%8F%A4%E5%B7%B4%E7%89%B9%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杭州加油站已进化到机器人加油](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%8A%A0%E6%B2%B9%E7%AB%99%E5%B7%B2%E8%BF%9B%E5%8C%96%E5%88%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
