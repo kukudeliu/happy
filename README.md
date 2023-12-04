@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 20:43:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 20:44:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [彩民中2亿多且无需缴税？官方回应](https://www.baidu.com/s?wd=%E5%BD%A9%E6%B0%91%E4%B8%AD2%E4%BA%BF%E5%A4%9A%E4%B8%94%E6%97%A0%E9%9C%80%E7%BC%B4%E7%A8%8E%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [成都车内去世司机生前患高血压](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E8%BD%A6%E5%86%85%E5%8E%BB%E4%B8%96%E5%8F%B8%E6%9C%BA%E7%94%9F%E5%89%8D%E6%82%A3%E9%AB%98%E8%A1%80%E5%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [孙俪邓超曾在孩子面前抱头痛哭](https://www.baidu.com/s?wd=%E5%AD%99%E4%BF%AA%E9%82%93%E8%B6%85%E6%9B%BE%E5%9C%A8%E5%AD%A9%E5%AD%90%E9%9D%A2%E5%89%8D%E6%8A%B1%E5%A4%B4%E7%97%9B%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄北方舰队第14军团副司令身亡](https://www.baidu.com/s?wd=%E4%BF%84%E5%8C%97%E6%96%B9%E8%88%B0%E9%98%9F%E7%AC%AC14%E5%86%9B%E5%9B%A2%E5%89%AF%E5%8F%B8%E4%BB%A4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [节目录制中被紧急送医 男歌手回应](https://www.baidu.com/s?wd=%E8%8A%82%E7%9B%AE%E5%BD%95%E5%88%B6%E4%B8%AD%E8%A2%AB%E7%B4%A7%E6%80%A5%E9%80%81%E5%8C%BB+%E7%94%B7%E6%AD%8C%E6%89%8B%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [经销商用农药熏蒸粮食致邻居4人中毒](https://www.baidu.com/s?wd=%E7%BB%8F%E9%94%80%E5%95%86%E7%94%A8%E5%86%9C%E8%8D%AF%E7%86%8F%E8%92%B8%E7%B2%AE%E9%A3%9F%E8%87%B4%E9%82%BB%E5%B1%854%E4%BA%BA%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝光五月天假唱博主：人嗓不是机器](https://www.baidu.com/s?wd=%E6%9B%9D%E5%85%89%E4%BA%94%E6%9C%88%E5%A4%A9%E5%81%87%E5%94%B1%E5%8D%9A%E4%B8%BB%EF%BC%9A%E4%BA%BA%E5%97%93%E4%B8%8D%E6%98%AF%E6%9C%BA%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [彩民中2亿多且无需缴税？官方回应](https://www.baidu.com/s?wd=%E5%BD%A9%E6%B0%91%E4%B8%AD2%E4%BA%BF%E5%A4%9A%E4%B8%94%E6%97%A0%E9%9C%80%E7%BC%B4%E7%A8%8E%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [成都车内去世司机生前患高血压](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E8%BD%A6%E5%86%85%E5%8E%BB%E4%B8%96%E5%8F%B8%E6%9C%BA%E7%94%9F%E5%89%8D%E6%82%A3%E9%AB%98%E8%A1%80%E5%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [孙俪邓超曾在孩子面前抱头痛哭](https://www.baidu.com/s?wd=%E5%AD%99%E4%BF%AA%E9%82%93%E8%B6%85%E6%9B%BE%E5%9C%A8%E5%AD%A9%E5%AD%90%E9%9D%A2%E5%89%8D%E6%8A%B1%E5%A4%B4%E7%97%9B%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄北方舰队第14军团副司令身亡](https://www.baidu.com/s?wd=%E4%BF%84%E5%8C%97%E6%96%B9%E8%88%B0%E9%98%9F%E7%AC%AC14%E5%86%9B%E5%9B%A2%E5%89%AF%E5%8F%B8%E4%BB%A4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [节目录制中被紧急送医 男歌手回应](https://www.baidu.com/s?wd=%E8%8A%82%E7%9B%AE%E5%BD%95%E5%88%B6%E4%B8%AD%E8%A2%AB%E7%B4%A7%E6%80%A5%E9%80%81%E5%8C%BB+%E7%94%B7%E6%AD%8C%E6%89%8B%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [经销商用农药熏蒸粮食致邻居4人中毒](https://www.baidu.com/s?wd=%E7%BB%8F%E9%94%80%E5%95%86%E7%94%A8%E5%86%9C%E8%8D%AF%E7%86%8F%E8%92%B8%E7%B2%AE%E9%A3%9F%E8%87%B4%E9%82%BB%E5%B1%854%E4%BA%BA%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝光五月天假唱博主：人嗓不是机器](https://www.baidu.com/s?wd=%E6%9B%9D%E5%85%89%E4%BA%94%E6%9C%88%E5%A4%A9%E5%81%87%E5%94%B1%E5%8D%9A%E4%B8%BB%EF%BC%9A%E4%BA%BA%E5%97%93%E4%B8%8D%E6%98%AF%E6%9C%BA%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
