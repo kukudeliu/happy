@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 15:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 15:14:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [贵州致3死车祸伤者母亲：女儿在抢救](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E8%87%B43%E6%AD%BB%E8%BD%A6%E7%A5%B8%E4%BC%A4%E8%80%85%E6%AF%8D%E4%BA%B2%EF%BC%9A%E5%A5%B3%E5%84%BF%E5%9C%A8%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [京东回应承兴系俩萝卜章骗300亿](https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E5%9B%9E%E5%BA%94%E6%89%BF%E5%85%B4%E7%B3%BB%E4%BF%A9%E8%90%9D%E5%8D%9C%E7%AB%A0%E9%AA%97300%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [五月天再被锤假唱 媒体联系均无回应](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%86%8D%E8%A2%AB%E9%94%A4%E5%81%87%E5%94%B1+%E5%AA%92%E4%BD%93%E8%81%94%E7%B3%BB%E5%9D%87%E6%97%A0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子联系不上男友谎称男友嫖娼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%81%94%E7%B3%BB%E4%B8%8D%E4%B8%8A%E7%94%B7%E5%8F%8B%E8%B0%8E%E7%A7%B0%E7%94%B7%E5%8F%8B%E5%AB%96%E5%A8%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子联系不上男友谎称男友嫖娼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%81%94%E7%B3%BB%E4%B8%8D%E4%B8%8A%E7%94%B7%E5%8F%8B%E8%B0%8E%E7%A7%B0%E7%94%B7%E5%8F%8B%E5%AB%96%E5%A8%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子发现被舍友删后重加要回礼金](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E8%A2%AB%E8%88%8D%E5%8F%8B%E5%88%A0%E5%90%8E%E9%87%8D%E5%8A%A0%E8%A6%81%E5%9B%9E%E7%A4%BC%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [贵州致3死车祸伤者母亲：女儿在抢救](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E8%87%B43%E6%AD%BB%E8%BD%A6%E7%A5%B8%E4%BC%A4%E8%80%85%E6%AF%8D%E4%BA%B2%EF%BC%9A%E5%A5%B3%E5%84%BF%E5%9C%A8%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [京东回应承兴系俩萝卜章骗300亿](https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E5%9B%9E%E5%BA%94%E6%89%BF%E5%85%B4%E7%B3%BB%E4%BF%A9%E8%90%9D%E5%8D%9C%E7%AB%A0%E9%AA%97300%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [五月天再被锤假唱 媒体联系均无回应](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%86%8D%E8%A2%AB%E9%94%A4%E5%81%87%E5%94%B1+%E5%AA%92%E4%BD%93%E8%81%94%E7%B3%BB%E5%9D%87%E6%97%A0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子联系不上男友谎称男友嫖娼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%81%94%E7%B3%BB%E4%B8%8D%E4%B8%8A%E7%94%B7%E5%8F%8B%E8%B0%8E%E7%A7%B0%E7%94%B7%E5%8F%8B%E5%AB%96%E5%A8%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子联系不上男友谎称男友嫖娼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%81%94%E7%B3%BB%E4%B8%8D%E4%B8%8A%E7%94%B7%E5%8F%8B%E8%B0%8E%E7%A7%B0%E7%94%B7%E5%8F%8B%E5%AB%96%E5%A8%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子发现被舍友删后重加要回礼金](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E8%A2%AB%E8%88%8D%E5%8F%8B%E5%88%A0%E5%90%8E%E9%87%8D%E5%8A%A0%E8%A6%81%E5%9B%9E%E7%A4%BC%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
