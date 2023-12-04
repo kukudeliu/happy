@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 20:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 20:07:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [胡夏删视频](https://s.weibo.com/weibo?q=%E8%83%A1%E5%A4%8F%E5%88%A0%E8%A7%86%E9%A2%91&t=31&band_rank=2&Refer=top)<br />
 3. [南极中山站区域卸货作业风雪中进行](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%9E%81%E4%B8%AD%E5%B1%B1%E7%AB%99%E5%8C%BA%E5%9F%9F%E5%8D%B8%E8%B4%A7%E4%BD%9C%E4%B8%9A%E9%A3%8E%E9%9B%AA%E4%B8%AD%E8%BF%9B%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [虞书欣 戴森](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E6%88%B4%E6%A3%AE&t=31&band_rank=4&Refer=top)<br />
-5. [封神 补拍](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%20%E8%A1%A5%E6%8B%8D&t=31&band_rank=5&Refer=top)<br />
-6. [一人花近10万买彩票中2亿](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E8%8A%B1%E8%BF%9110%E4%B8%87%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD2%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
-7. [8招教你应对呼吸道疾病](https://s.weibo.com/weibo?q=%238%E6%8B%9B%E6%95%99%E4%BD%A0%E5%BA%94%E5%AF%B9%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%23&t=31&band_rank=7&Refer=top)<br />
-8. [林俊杰 下次请不要来我的演唱会](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E4%B8%8B%E6%AC%A1%E8%AF%B7%E4%B8%8D%E8%A6%81%E6%9D%A5%E6%88%91%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
-9. [王楚钦 还打吗](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%20%E8%BF%98%E6%89%93%E5%90%97&t=31&band_rank=9&Refer=top)<br />
+5. [一人花近10万买彩票中2亿](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E8%8A%B1%E8%BF%9110%E4%B8%87%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD2%E4%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
+6. [封神 补拍](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%20%E8%A1%A5%E6%8B%8D&t=31&band_rank=6&Refer=top)<br />
+7. [林俊杰 下次请不要来我的演唱会](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E4%B8%8B%E6%AC%A1%E8%AF%B7%E4%B8%8D%E8%A6%81%E6%9D%A5%E6%88%91%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
+8. [王楚钦 还打吗](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%20%E8%BF%98%E6%89%93%E5%90%97&t=31&band_rank=8&Refer=top)<br />
+9. [父亲看望产后的女儿瞬间被一把抱住](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%9C%8B%E6%9C%9B%E4%BA%A7%E5%90%8E%E7%9A%84%E5%A5%B3%E5%84%BF%E7%9E%AC%E9%97%B4%E8%A2%AB%E4%B8%80%E6%8A%8A%E6%8A%B1%E4%BD%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
