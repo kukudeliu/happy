@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 22:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 22:48:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [刘若英：我爱五月天](https://www.baidu.com/s?wd=%E5%88%98%E8%8B%A5%E8%8B%B1%EF%BC%9A%E6%88%91%E7%88%B1%E4%BA%94%E6%9C%88%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子开三轮车捕鱼坠冰河溺亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E4%B8%89%E8%BD%AE%E8%BD%A6%E6%8D%95%E9%B1%BC%E5%9D%A0%E5%86%B0%E6%B2%B3%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [孙俪邓超曾在孩子面前抱头痛哭](https://www.baidu.com/s?wd=%E5%AD%99%E4%BF%AA%E9%82%93%E8%B6%85%E6%9B%BE%E5%9C%A8%E5%AD%A9%E5%AD%90%E9%9D%A2%E5%89%8D%E6%8A%B1%E5%A4%B4%E7%97%9B%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [25岁宝妈两次高考上岸做到全班第一](https://www.baidu.com/s?wd=25%E5%B2%81%E5%AE%9D%E5%A6%88%E4%B8%A4%E6%AC%A1%E9%AB%98%E8%80%83%E4%B8%8A%E5%B2%B8%E5%81%9A%E5%88%B0%E5%85%A8%E7%8F%AD%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [刘若英：我爱五月天](https://www.baidu.com/s?wd=%E5%88%98%E8%8B%A5%E8%8B%B1%EF%BC%9A%E6%88%91%E7%88%B1%E4%BA%94%E6%9C%88%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子开三轮车捕鱼坠冰河溺亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E4%B8%89%E8%BD%AE%E8%BD%A6%E6%8D%95%E9%B1%BC%E5%9D%A0%E5%86%B0%E6%B2%B3%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [孙俪邓超曾在孩子面前抱头痛哭](https://www.baidu.com/s?wd=%E5%AD%99%E4%BF%AA%E9%82%93%E8%B6%85%E6%9B%BE%E5%9C%A8%E5%AD%A9%E5%AD%90%E9%9D%A2%E5%89%8D%E6%8A%B1%E5%A4%B4%E7%97%9B%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [25岁宝妈两次高考上岸做到全班第一](https://www.baidu.com/s?wd=25%E5%B2%81%E5%AE%9D%E5%A6%88%E4%B8%A4%E6%AC%A1%E9%AB%98%E8%80%83%E4%B8%8A%E5%B2%B8%E5%81%9A%E5%88%B0%E5%85%A8%E7%8F%AD%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
