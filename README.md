@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 16:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 16:28:01</h4></div>
 
 > 微博  
 
-1. [五月天经纪公司称没有假唱](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E7%A7%B0%E6%B2%A1%E6%9C%89%E5%81%87%E5%94%B1%23&t=31&band_rank=1&Refer=top)<br />
-2. [我小叔才50岁就已经被社会淘汰了](https://s.weibo.com/weibo?q=%E6%88%91%E5%B0%8F%E5%8F%94%E6%89%8D50%E5%B2%81%E5%B0%B1%E5%B7%B2%E7%BB%8F%E8%A2%AB%E7%A4%BE%E4%BC%9A%E6%B7%98%E6%B1%B0%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
+1. [我小叔才50岁就已经被社会淘汰了](https://s.weibo.com/weibo?q=%E6%88%91%E5%B0%8F%E5%8F%94%E6%89%8D50%E5%B2%81%E5%B0%B1%E5%B7%B2%E7%BB%8F%E8%A2%AB%E7%A4%BE%E4%BC%9A%E6%B7%98%E6%B1%B0%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
+2. [五月天经纪公司称没有假唱](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E7%A7%B0%E6%B2%A1%E6%9C%89%E5%81%87%E5%94%B1%23&t=31&band_rank=2&Refer=top)<br />
 3. [8招教你应对呼吸道疾病](https://s.weibo.com/weibo?q=%238%E6%8B%9B%E6%95%99%E4%BD%A0%E5%BA%94%E5%AF%B9%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%23&t=31&band_rank=3&Refer=top)<br />
 4. [八段锦 慢性病](https://s.weibo.com/weibo?q=%E5%85%AB%E6%AE%B5%E9%94%A6%20%E6%85%A2%E6%80%A7%E7%97%85&t=31&band_rank=4&Refer=top)<br />
 5. [陈绮贞 五月天](https://s.weibo.com/weibo?q=%E9%99%88%E7%BB%AE%E8%B4%9E%20%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=5&Refer=top)<br />
