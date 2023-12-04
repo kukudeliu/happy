@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 20:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 20:02:01</h4></div>
 
 > 微博  
 
 1. [五月天否认假唱](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%90%A6%E8%AE%A4%E5%81%87%E5%94%B1&t=31&band_rank=1&Refer=top)<br />
-2. [父亲看望产后的女儿瞬间被一把抱住](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%9C%8B%E6%9C%9B%E4%BA%A7%E5%90%8E%E7%9A%84%E5%A5%B3%E5%84%BF%E7%9E%AC%E9%97%B4%E8%A2%AB%E4%B8%80%E6%8A%8A%E6%8A%B1%E4%BD%8F%23&t=31&band_rank=2&Refer=top)<br />
+2. [胡夏删视频](https://s.weibo.com/weibo?q=%E8%83%A1%E5%A4%8F%E5%88%A0%E8%A7%86%E9%A2%91&t=31&band_rank=2&Refer=top)<br />
 3. [8招教你应对呼吸道疾病](https://s.weibo.com/weibo?q=%238%E6%8B%9B%E6%95%99%E4%BD%A0%E5%BA%94%E5%AF%B9%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%23&t=31&band_rank=3&Refer=top)<br />
-4. [胡夏删视频](https://s.weibo.com/weibo?q=%E8%83%A1%E5%A4%8F%E5%88%A0%E8%A7%86%E9%A2%91&t=31&band_rank=4&Refer=top)<br />
-5. [25岁宝妈两次高考上岸做到全班第一](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%AE%9D%E5%A6%88%E4%B8%A4%E6%AC%A1%E9%AB%98%E8%80%83%E4%B8%8A%E5%B2%B8%E5%81%9A%E5%88%B0%E5%85%A8%E7%8F%AD%E7%AC%AC%E4%B8%80%23&t=31&band_rank=5&Refer=top)<br />
-6. [虞书欣 戴森](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E6%88%B4%E6%A3%AE&t=31&band_rank=6&Refer=top)<br />
-7. [董宇辉说我跋涉了很久才到这里](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E8%AF%B4%E6%88%91%E8%B7%8B%E6%B6%89%E4%BA%86%E5%BE%88%E4%B9%85%E6%89%8D%E5%88%B0%E8%BF%99%E9%87%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [封神 补拍](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%20%E8%A1%A5%E6%8B%8D&t=31&band_rank=8&Refer=top)<br />
-9. [一人花近10万买彩票中2亿](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E8%8A%B1%E8%BF%9110%E4%B8%87%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD2%E4%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
+4. [虞书欣 戴森](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E6%88%B4%E6%A3%AE&t=31&band_rank=4&Refer=top)<br />
+5. [封神 补拍](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%20%E8%A1%A5%E6%8B%8D&t=31&band_rank=5&Refer=top)<br />
+6. [一人花近10万买彩票中2亿](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E8%8A%B1%E8%BF%9110%E4%B8%87%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD2%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
+7. [林俊杰 下次请不要来我的演唱会](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E4%B8%8B%E6%AC%A1%E8%AF%B7%E4%B8%8D%E8%A6%81%E6%9D%A5%E6%88%91%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
+8. [父亲看望产后的女儿瞬间被一把抱住](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%9C%8B%E6%9C%9B%E4%BA%A7%E5%90%8E%E7%9A%84%E5%A5%B3%E5%84%BF%E7%9E%AC%E9%97%B4%E8%A2%AB%E4%B8%80%E6%8A%8A%E6%8A%B1%E4%BD%8F%23&t=31&band_rank=8&Refer=top)<br />
+9. [王楚钦 还打吗](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%20%E8%BF%98%E6%89%93%E5%90%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
