@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 17:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 17:01:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [五月天经纪公司称没有假唱](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E7%A7%B0%E6%B2%A1%E6%9C%89%E5%81%87%E5%94%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [林俊杰 下次请不要来我的演唱会](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E4%B8%8B%E6%AC%A1%E8%AF%B7%E4%B8%8D%E8%A6%81%E6%9D%A5%E6%88%91%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
 7. [GQ内涵](https://s.weibo.com/weibo?q=GQ%E5%86%85%E6%B6%B5&t=31&band_rank=7&Refer=top)<br />
-8. [丁程鑫 中考](https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%20%E4%B8%AD%E8%80%83&t=31&band_rank=8&Refer=top)<br />
-9. [胖东来员工平均工资最低到手7000元](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E6%9C%80%E4%BD%8E%E5%88%B0%E6%89%8B7000%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+8. [胖东来员工平均工资最低到手7000元](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E6%9C%80%E4%BD%8E%E5%88%B0%E6%89%8B7000%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [亿万富豪找到儿子的APP](https://s.weibo.com/weibo?q=%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E6%89%BE%E5%88%B0%E5%84%BF%E5%AD%90%E7%9A%84APP&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
