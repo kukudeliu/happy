@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 14:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 14:15:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高盛与苹果“分手”内幕曝光](https://www.baidu.com/s?wd=%E9%AB%98%E7%9B%9B%E4%B8%8E%E8%8B%B9%E6%9E%9C%E2%80%9C%E5%88%86%E6%89%8B%E2%80%9D%E5%86%85%E5%B9%95%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [马斯克的Boring公司“凉”了？](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84Boring%E5%85%AC%E5%8F%B8%E2%80%9C%E5%87%89%E2%80%9D%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [冯小刚 奇闻CP有爱但不肉麻](https://www.baidu.com/s?wd=%E5%86%AF%E5%B0%8F%E5%88%9A+%E5%A5%87%E9%97%BBCP%E6%9C%89%E7%88%B1%E4%BD%86%E4%B8%8D%E8%82%89%E9%BA%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [冯小刚 奇闻CP有爱但不肉麻](https://www.baidu.com/s?wd=%E5%86%AF%E5%B0%8F%E5%88%9A+%E5%A5%87%E9%97%BBCP%E6%9C%89%E7%88%B1%E4%BD%86%E4%B8%8D%E8%82%89%E9%BA%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [95%的主播月收入低于5000元](https://www.baidu.com/s?wd=95%25%E7%9A%84%E4%B8%BB%E6%92%AD%E6%9C%88%E6%94%B6%E5%85%A5%E4%BD%8E%E4%BA%8E5000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高盛与苹果“分手”内幕曝光](https://www.baidu.com/s?wd=%E9%AB%98%E7%9B%9B%E4%B8%8E%E8%8B%B9%E6%9E%9C%E2%80%9C%E5%88%86%E6%89%8B%E2%80%9D%E5%86%85%E5%B9%95%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [马斯克的Boring公司“凉”了？](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84Boring%E5%85%AC%E5%8F%B8%E2%80%9C%E5%87%89%E2%80%9D%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [冯小刚 奇闻CP有爱但不肉麻](https://www.baidu.com/s?wd=%E5%86%AF%E5%B0%8F%E5%88%9A+%E5%A5%87%E9%97%BBCP%E6%9C%89%E7%88%B1%E4%BD%86%E4%B8%8D%E8%82%89%E9%BA%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [冯小刚 奇闻CP有爱但不肉麻](https://www.baidu.com/s?wd=%E5%86%AF%E5%B0%8F%E5%88%9A+%E5%A5%87%E9%97%BBCP%E6%9C%89%E7%88%B1%E4%BD%86%E4%B8%8D%E8%82%89%E9%BA%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [95%的主播月收入低于5000元](https://www.baidu.com/s?wd=95%25%E7%9A%84%E4%B8%BB%E6%92%AD%E6%9C%88%E6%94%B6%E5%85%A5%E4%BD%8E%E4%BA%8E5000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
