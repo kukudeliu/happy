@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 15:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 15:59:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [五月天经纪公司回应演唱会假唱](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [如何科学应对本轮呼吸道疾病？](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%BA%94%E5%AF%B9%E6%9C%AC%E8%BD%AE%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [金价狂飙 网友：你看我还有机会吗](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BD%A0%E7%9C%8B%E6%88%91%E8%BF%98%E6%9C%89%E6%9C%BA%E4%BC%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [扬州一学院食堂麻酱盆中发现老鼠](https://www.baidu.com/s?wd=%E6%89%AC%E5%B7%9E%E4%B8%80%E5%AD%A6%E9%99%A2%E9%A3%9F%E5%A0%82%E9%BA%BB%E9%85%B1%E7%9B%86%E4%B8%AD%E5%8F%91%E7%8E%B0%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [家长在班级群发不雅视频被警方带走](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [家长在班级群发不雅视频被警方带走](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [水亦诗高调宣布再就业](https://www.baidu.com/s?wd=%E6%B0%B4%E4%BA%A6%E8%AF%97%E9%AB%98%E8%B0%83%E5%AE%A3%E5%B8%83%E5%86%8D%E5%B0%B1%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [95%的主播月收入低于5000元](https://www.baidu.com/s?wd=95%25%E7%9A%84%E4%B8%BB%E6%92%AD%E6%9C%88%E6%94%B6%E5%85%A5%E4%BD%8E%E4%BA%8E5000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [五月天经纪公司回应演唱会假唱](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [如何科学应对本轮呼吸道疾病？](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%BA%94%E5%AF%B9%E6%9C%AC%E8%BD%AE%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [金价狂飙 网友：你看我还有机会吗](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BD%A0%E7%9C%8B%E6%88%91%E8%BF%98%E6%9C%89%E6%9C%BA%E4%BC%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [扬州一学院食堂麻酱盆中发现老鼠](https://www.baidu.com/s?wd=%E6%89%AC%E5%B7%9E%E4%B8%80%E5%AD%A6%E9%99%A2%E9%A3%9F%E5%A0%82%E9%BA%BB%E9%85%B1%E7%9B%86%E4%B8%AD%E5%8F%91%E7%8E%B0%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [家长在班级群发不雅视频被警方带走](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [家长在班级群发不雅视频被警方带走](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [水亦诗高调宣布再就业](https://www.baidu.com/s?wd=%E6%B0%B4%E4%BA%A6%E8%AF%97%E9%AB%98%E8%B0%83%E5%AE%A3%E5%B8%83%E5%86%8D%E5%B0%B1%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [95%的主播月收入低于5000元](https://www.baidu.com/s?wd=95%25%E7%9A%84%E4%B8%BB%E6%92%AD%E6%9C%88%E6%94%B6%E5%85%A5%E4%BD%8E%E4%BA%8E5000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
