@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 13:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 13:59:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子持刀伤人致3死后当场自杀](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E8%87%B43%E6%AD%BB%E5%90%8E%E5%BD%93%E5%9C%BA%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [起底“包治百病”的锻炼器](https://www.baidu.com/s?wd=%E8%B5%B7%E5%BA%95%E2%80%9C%E5%8C%85%E6%B2%BB%E7%99%BE%E7%97%85%E2%80%9D%E7%9A%84%E9%94%BB%E7%82%BC%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [五月天再被锤假唱 媒体联系均无回应](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%86%8D%E8%A2%AB%E9%94%A4%E5%81%87%E5%94%B1+%E5%AA%92%E4%BD%93%E8%81%94%E7%B3%BB%E5%9D%87%E6%97%A0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [以军对加沙进行大规模空袭和炮击](https://www.baidu.com/s?wd=%E4%BB%A5%E5%86%9B%E5%AF%B9%E5%8A%A0%E6%B2%99%E8%BF%9B%E8%A1%8C%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E8%A2%AD%E5%92%8C%E7%82%AE%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [140斤女生减肥1年反胖50斤](https://www.baidu.com/s?wd=140%E6%96%A4%E5%A5%B3%E7%94%9F%E5%87%8F%E8%82%A51%E5%B9%B4%E5%8F%8D%E8%83%9650%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子持刀伤人致3死后当场自杀](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E8%87%B43%E6%AD%BB%E5%90%8E%E5%BD%93%E5%9C%BA%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [起底“包治百病”的锻炼器](https://www.baidu.com/s?wd=%E8%B5%B7%E5%BA%95%E2%80%9C%E5%8C%85%E6%B2%BB%E7%99%BE%E7%97%85%E2%80%9D%E7%9A%84%E9%94%BB%E7%82%BC%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [五月天再被锤假唱 媒体联系均无回应](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%86%8D%E8%A2%AB%E9%94%A4%E5%81%87%E5%94%B1+%E5%AA%92%E4%BD%93%E8%81%94%E7%B3%BB%E5%9D%87%E6%97%A0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [以军对加沙进行大规模空袭和炮击](https://www.baidu.com/s?wd=%E4%BB%A5%E5%86%9B%E5%AF%B9%E5%8A%A0%E6%B2%99%E8%BF%9B%E8%A1%8C%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E8%A2%AD%E5%92%8C%E7%82%AE%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [140斤女生减肥1年反胖50斤](https://www.baidu.com/s?wd=140%E6%96%A4%E5%A5%B3%E7%94%9F%E5%87%8F%E8%82%A51%E5%B9%B4%E5%8F%8D%E8%83%9650%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
