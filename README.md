@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 14:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 14:58:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [习近平：聚焦建设五个中心重要使命](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E8%81%9A%E7%84%A6%E5%BB%BA%E8%AE%BE%E4%BA%94%E4%B8%AA%E4%B8%AD%E5%BF%83%E9%87%8D%E8%A6%81%E4%BD%BF%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [贵州一中巴被两货车夹击面目全非](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E4%B8%80%E4%B8%AD%E5%B7%B4%E8%A2%AB%E4%B8%A4%E8%B4%A7%E8%BD%A6%E5%A4%B9%E5%87%BB%E9%9D%A2%E7%9B%AE%E5%85%A8%E9%9D%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [贵州致3死车祸伤者母亲：女儿在抢救](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E8%87%B43%E6%AD%BB%E8%BD%A6%E7%A5%B8%E4%BC%A4%E8%80%85%E6%AF%8D%E4%BA%B2%EF%BC%9A%E5%A5%B3%E5%84%BF%E5%9C%A8%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [五月天经纪公司回应演唱会假唱](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [习近平：聚焦建设五个中心重要使命](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E8%81%9A%E7%84%A6%E5%BB%BA%E8%AE%BE%E4%BA%94%E4%B8%AA%E4%B8%AD%E5%BF%83%E9%87%8D%E8%A6%81%E4%BD%BF%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [贵州一中巴被两货车夹击面目全非](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E4%B8%80%E4%B8%AD%E5%B7%B4%E8%A2%AB%E4%B8%A4%E8%B4%A7%E8%BD%A6%E5%A4%B9%E5%87%BB%E9%9D%A2%E7%9B%AE%E5%85%A8%E9%9D%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [贵州致3死车祸伤者母亲：女儿在抢救](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E8%87%B43%E6%AD%BB%E8%BD%A6%E7%A5%B8%E4%BC%A4%E8%80%85%E6%AF%8D%E4%BA%B2%EF%BC%9A%E5%A5%B3%E5%84%BF%E5%9C%A8%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [五月天经纪公司回应演唱会假唱](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
