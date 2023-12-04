@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 00:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 00:41:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [华春莹发布卢卡申科打冰球视频](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%8F%91%E5%B8%83%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%89%93%E5%86%B0%E7%90%83%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小伙滑雪摔倒后大哭自称“失忆”](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E6%BB%91%E9%9B%AA%E6%91%94%E5%80%92%E5%90%8E%E5%A4%A7%E5%93%AD%E8%87%AA%E7%A7%B0%E2%80%9C%E5%A4%B1%E5%BF%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方正鉴定五月天演唱会原始音视频](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E6%AD%A3%E9%89%B4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8E%9F%E5%A7%8B%E9%9F%B3%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马斯克：特斯拉和SpaceX开放专利](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E5%92%8CSpaceX%E5%BC%80%E6%94%BE%E4%B8%93%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [喜茶“佛喜”茶拿铁涉嫌违反条例](https://www.baidu.com/s?wd=%E5%96%9C%E8%8C%B6%E2%80%9C%E4%BD%9B%E5%96%9C%E2%80%9D%E8%8C%B6%E6%8B%BF%E9%93%81%E6%B6%89%E5%AB%8C%E8%BF%9D%E5%8F%8D%E6%9D%A1%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [华春莹发布卢卡申科打冰球视频](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%8F%91%E5%B8%83%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%89%93%E5%86%B0%E7%90%83%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小伙滑雪摔倒后大哭自称“失忆”](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E6%BB%91%E9%9B%AA%E6%91%94%E5%80%92%E5%90%8E%E5%A4%A7%E5%93%AD%E8%87%AA%E7%A7%B0%E2%80%9C%E5%A4%B1%E5%BF%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [官方正鉴定五月天演唱会原始音视频](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E6%AD%A3%E9%89%B4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8E%9F%E5%A7%8B%E9%9F%B3%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马斯克：特斯拉和SpaceX开放专利](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E5%92%8CSpaceX%E5%BC%80%E6%94%BE%E4%B8%93%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [喜茶“佛喜”茶拿铁涉嫌违反条例](https://www.baidu.com/s?wd=%E5%96%9C%E8%8C%B6%E2%80%9C%E4%BD%9B%E5%96%9C%E2%80%9D%E8%8C%B6%E6%8B%BF%E9%93%81%E6%B6%89%E5%AB%8C%E8%BF%9D%E5%8F%8D%E6%9D%A1%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
