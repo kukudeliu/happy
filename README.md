@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 12:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 12:22:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [汪文斌分享迪丽热巴新疆舞](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%96%B0%E7%96%86%E8%88%9E%23&t=31&band_rank=4&Refer=top)<br />
 5. [黄金价格](https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC&t=31&band_rank=5&Refer=top)<br />
 6. [刘诗诗 一姐今天不1了](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E4%B8%80%E5%A7%90%E4%BB%8A%E5%A4%A9%E4%B8%8D1%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [举报者称五月天下场直播是混淆视听](https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E8%80%85%E7%A7%B0%E4%BA%94%E6%9C%88%E5%A4%A9%E4%B8%8B%E5%9C%BA%E7%9B%B4%E6%92%AD%E6%98%AF%E6%B7%B7%E6%B7%86%E8%A7%86%E5%90%AC%23&t=31&band_rank=7&Refer=top)<br />
-8. [瑞幸 泰假](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%20%E6%B3%B0%E5%81%87&t=31&band_rank=8&Refer=top)<br />
-9. [科目三 韩国](https://s.weibo.com/weibo?q=%E7%A7%91%E7%9B%AE%E4%B8%89%20%E9%9F%A9%E5%9B%BD&t=31&band_rank=9&Refer=top)<br />
+7. [瑞幸 泰假](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%20%E6%B3%B0%E5%81%87&t=31&band_rank=7&Refer=top)<br />
+8. [举报者称五月天下场直播是混淆视听](https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E8%80%85%E7%A7%B0%E4%BA%94%E6%9C%88%E5%A4%A9%E4%B8%8B%E5%9C%BA%E7%9B%B4%E6%92%AD%E6%98%AF%E6%B7%B7%E6%B7%86%E8%A7%86%E5%90%AC%23&t=31&band_rank=8&Refer=top)<br />
+9. [腾讯会员 没了](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E4%BC%9A%E5%91%98%20%E6%B2%A1%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
