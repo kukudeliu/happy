@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 11:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 11:17:02</h4></div>
 
 > 微博  
 
-1. [举报者称五月天下场直播是混淆视听](https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E8%80%85%E7%A7%B0%E4%BA%94%E6%9C%88%E5%A4%A9%E4%B8%8B%E5%9C%BA%E7%9B%B4%E6%92%AD%E6%98%AF%E6%B7%B7%E6%B7%86%E8%A7%86%E5%90%AC%23&t=31&band_rank=1&Refer=top)<br />
-2. [中演协回应五月天被质疑假唱](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%BC%94%E5%8D%8F%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E8%B4%A8%E7%96%91%E5%81%87%E5%94%B1%23&t=31&band_rank=2&Refer=top)<br />
+1. [中演协回应五月天被质疑假唱](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%BC%94%E5%8D%8F%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E8%B4%A8%E7%96%91%E5%81%87%E5%94%B1%23&t=31&band_rank=1&Refer=top)<br />
+2. [举报者称五月天下场直播是混淆视听](https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E8%80%85%E7%A7%B0%E4%BA%94%E6%9C%88%E5%A4%A9%E4%B8%8B%E5%9C%BA%E7%9B%B4%E6%92%AD%E6%98%AF%E6%B7%B7%E6%B7%86%E8%A7%86%E5%90%AC%23&t=31&band_rank=2&Refer=top)<br />
 3. [穿越机视角瞰巍峨古长城](https://s.weibo.com/weibo?q=%23%E7%A9%BF%E8%B6%8A%E6%9C%BA%E8%A7%86%E8%A7%92%E7%9E%B0%E5%B7%8D%E5%B3%A8%E5%8F%A4%E9%95%BF%E5%9F%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [黄金价格](https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC&t=31&band_rank=4&Refer=top)<br />
 5. [林俊杰 下次请不要来我的演唱会](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E4%B8%8B%E6%AC%A1%E8%AF%B7%E4%B8%8D%E8%A6%81%E6%9D%A5%E6%88%91%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=5&Refer=top)<br />
