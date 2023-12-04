@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 07:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 07:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周一围 朱丹不是讨好型人格](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B8%80%E5%9B%B4%20%E6%9C%B1%E4%B8%B9%E4%B8%8D%E6%98%AF%E8%AE%A8%E5%A5%BD%E5%9E%8B%E4%BA%BA%E6%A0%BC&t=31&band_rank=6&Refer=top)<br />
 7. [刘诗诗回应替身说](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E8%AF%B4&t=31&band_rank=7&Refer=top)<br />
 8. [麦田农夫 每个音都特别准就是假唱](https://s.weibo.com/weibo?q=%E9%BA%A6%E7%94%B0%E5%86%9C%E5%A4%AB%20%E6%AF%8F%E4%B8%AA%E9%9F%B3%E9%83%BD%E7%89%B9%E5%88%AB%E5%87%86%E5%B0%B1%E6%98%AF%E5%81%87%E5%94%B1&t=31&band_rank=8&Refer=top)<br />
-9. [老师收集家长工作视频课堂播放引热议](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%94%B6%E9%9B%86%E5%AE%B6%E9%95%BF%E5%B7%A5%E4%BD%9C%E8%A7%86%E9%A2%91%E8%AF%BE%E5%A0%82%E6%92%AD%E6%94%BE%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [喜茶涉嫌违反宗教事务管理条例被约谈](https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%8C%B6%E6%B6%89%E5%AB%8C%E8%BF%9D%E5%8F%8D%E5%AE%97%E6%95%99%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B%E8%A2%AB%E7%BA%A6%E8%B0%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
