@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 10:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 10:54:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [新千里江山图](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [黄金价格](https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC&t=31&band_rank=4&Refer=top)<br />
 5. [周一围说朱丹的描述有误导倾向](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B8%80%E5%9B%B4%E8%AF%B4%E6%9C%B1%E4%B8%B9%E7%9A%84%E6%8F%8F%E8%BF%B0%E6%9C%89%E8%AF%AF%E5%AF%BC%E5%80%BE%E5%90%91%23&t=31&band_rank=5&Refer=top)<br />
-6. [腾讯会员 没了](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E4%BC%9A%E5%91%98%20%E6%B2%A1%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [奥司他韦医院定价仅需20元](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%8F%B8%E4%BB%96%E9%9F%A6%E5%8C%BB%E9%99%A2%E5%AE%9A%E4%BB%B7%E4%BB%85%E9%9C%8020%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
+6. [奥司他韦医院定价仅需20元](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%8F%B8%E4%BB%96%E9%9F%A6%E5%8C%BB%E9%99%A2%E5%AE%9A%E4%BB%B7%E4%BB%85%E9%9C%8020%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
+7. [腾讯会员 没了](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E4%BC%9A%E5%91%98%20%E6%B2%A1%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [教师长期强奸5名女学生被执行死刑](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E9%95%BF%E6%9C%9F%E5%BC%BA%E5%A5%B85%E5%90%8D%E5%A5%B3%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=8&Refer=top)<br />
 9. [大侦探9 首案阵容](https://s.weibo.com/weibo?q=%E5%A4%A7%E4%BE%A6%E6%8E%A29%20%E9%A6%96%E6%A1%88%E9%98%B5%E5%AE%B9&t=31&band_rank=9&Refer=top)<br />
 
@@ -22,9 +22,9 @@
 3. [五月天上海演唱会吸金超6亿](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%B8%E9%87%91%E8%B6%856%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [谱写新时代中国宪法实践新篇章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E5%AE%9E%E8%B7%B5%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子发现被舍友删后重加要回礼金](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E8%A2%AB%E8%88%8D%E5%8F%8B%E5%88%A0%E5%90%8E%E9%87%8D%E5%8A%A0%E8%A6%81%E5%9B%9E%E7%A4%BC%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [解清帅跟妈妈认亲戚收获满把红包](https://www.baidu.com/s?wd=%E8%A7%A3%E6%B8%85%E5%B8%85%E8%B7%9F%E5%A6%88%E5%A6%88%E8%AE%A4%E4%BA%B2%E6%88%9A%E6%94%B6%E8%8E%B7%E6%BB%A1%E6%8A%8A%E7%BA%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [140斤女生减肥1年反胖50斤](https://www.baidu.com/s?wd=140%E6%96%A4%E5%A5%B3%E7%94%9F%E5%87%8F%E8%82%A51%E5%B9%B4%E5%8F%8D%E8%83%9650%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [解清帅跟妈妈认亲戚收获满把红包](https://www.baidu.com/s?wd=%E8%A7%A3%E6%B8%85%E5%B8%85%E8%B7%9F%E5%A6%88%E5%A6%88%E8%AE%A4%E4%BA%B2%E6%88%9A%E6%94%B6%E8%8E%B7%E6%BB%A1%E6%8A%8A%E7%BA%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子发现被舍友删后重加要回礼金](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E8%A2%AB%E8%88%8D%E5%8F%8B%E5%88%A0%E5%90%8E%E9%87%8D%E5%8A%A0%E8%A6%81%E5%9B%9E%E7%A4%BC%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [越来越多人选择签“婚前协议”](https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%BA%E9%80%89%E6%8B%A9%E7%AD%BE%E2%80%9C%E5%A9%9A%E5%89%8D%E5%8D%8F%E8%AE%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [五月天上海演唱会吸金超6亿](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%B8%E9%87%91%E8%B6%856%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [谱写新时代中国宪法实践新篇章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E5%AE%9E%E8%B7%B5%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子发现被舍友删后重加要回礼金](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E8%A2%AB%E8%88%8D%E5%8F%8B%E5%88%A0%E5%90%8E%E9%87%8D%E5%8A%A0%E8%A6%81%E5%9B%9E%E7%A4%BC%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [解清帅跟妈妈认亲戚收获满把红包](https://www.baidu.com/s?wd=%E8%A7%A3%E6%B8%85%E5%B8%85%E8%B7%9F%E5%A6%88%E5%A6%88%E8%AE%A4%E4%BA%B2%E6%88%9A%E6%94%B6%E8%8E%B7%E6%BB%A1%E6%8A%8A%E7%BA%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [140斤女生减肥1年反胖50斤](https://www.baidu.com/s?wd=140%E6%96%A4%E5%A5%B3%E7%94%9F%E5%87%8F%E8%82%A51%E5%B9%B4%E5%8F%8D%E8%83%9650%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [解清帅跟妈妈认亲戚收获满把红包](https://www.baidu.com/s?wd=%E8%A7%A3%E6%B8%85%E5%B8%85%E8%B7%9F%E5%A6%88%E5%A6%88%E8%AE%A4%E4%BA%B2%E6%88%9A%E6%94%B6%E8%8E%B7%E6%BB%A1%E6%8A%8A%E7%BA%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子发现被舍友删后重加要回礼金](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E8%A2%AB%E8%88%8D%E5%8F%8B%E5%88%A0%E5%90%8E%E9%87%8D%E5%8A%A0%E8%A6%81%E5%9B%9E%E7%A4%BC%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [越来越多人选择签“婚前协议”](https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%BA%E9%80%89%E6%8B%A9%E7%AD%BE%E2%80%9C%E5%A9%9A%E5%89%8D%E5%8D%8F%E8%AE%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
