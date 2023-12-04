@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 19:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 19:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [林俊杰 下次请不要来我的演唱会](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E4%B8%8B%E6%AC%A1%E8%AF%B7%E4%B8%8D%E8%A6%81%E6%9D%A5%E6%88%91%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
 7. [25岁宝妈两次高考上岸做到全班第一](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%AE%9D%E5%A6%88%E4%B8%A4%E6%AC%A1%E9%AB%98%E8%80%83%E4%B8%8A%E5%B2%B8%E5%81%9A%E5%88%B0%E5%85%A8%E7%8F%AD%E7%AC%AC%E4%B8%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [封神 补拍](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%20%E8%A1%A5%E6%8B%8D&t=31&band_rank=8&Refer=top)<br />
-9. [八段锦 慢性病](https://s.weibo.com/weibo?q=%E5%85%AB%E6%AE%B5%E9%94%A6%20%E6%85%A2%E6%80%A7%E7%97%85&t=31&band_rank=9&Refer=top)<br />
+9. [王楚钦 还打吗](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%20%E8%BF%98%E6%89%93%E5%90%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
