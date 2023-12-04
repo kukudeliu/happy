@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 15:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 15:54:01</h4></div>
 
 > 微博  
 
@@ -20,11 +20,11 @@
 1. [习近平：聚焦建设五个中心重要使命](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E8%81%9A%E7%84%A6%E5%BB%BA%E8%AE%BE%E4%BA%94%E4%B8%AA%E4%B8%AD%E5%BF%83%E9%87%8D%E8%A6%81%E4%BD%BF%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [天价母婴消费收割廉价爸妈](https://www.baidu.com/s?wd=%E5%A4%A9%E4%BB%B7%E6%AF%8D%E5%A9%B4%E6%B6%88%E8%B4%B9%E6%94%B6%E5%89%B2%E5%BB%89%E4%BB%B7%E7%88%B8%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [五月天经纪公司回应演唱会假唱](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [如何科学应对本轮呼吸道疾病？](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%BA%94%E5%AF%B9%E6%9C%AC%E8%BD%AE%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [律师：真假唱混合属于假唱](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%EF%BC%9A%E7%9C%9F%E5%81%87%E5%94%B1%E6%B7%B7%E5%90%88%E5%B1%9E%E4%BA%8E%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [金价狂飙 网友：你看我还有机会吗](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BD%A0%E7%9C%8B%E6%88%91%E8%BF%98%E6%9C%89%E6%9C%BA%E4%BC%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [滑雪摔倒后不要坐在原地休息](https://www.baidu.com/s?wd=%E6%BB%91%E9%9B%AA%E6%91%94%E5%80%92%E5%90%8E%E4%B8%8D%E8%A6%81%E5%9D%90%E5%9C%A8%E5%8E%9F%E5%9C%B0%E4%BC%91%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [95%的主播月收入低于5000元](https://www.baidu.com/s?wd=95%25%E7%9A%84%E4%B8%BB%E6%92%AD%E6%9C%88%E6%94%B6%E5%85%A5%E4%BD%8E%E4%BA%8E5000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [节目录制中被紧急送医 男歌手回应](https://www.baidu.com/s?wd=%E8%8A%82%E7%9B%AE%E5%BD%95%E5%88%B6%E4%B8%AD%E8%A2%AB%E7%B4%A7%E6%80%A5%E9%80%81%E5%8C%BB+%E7%94%B7%E6%AD%8C%E6%89%8B%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [扬州一学院食堂麻酱盆中发现老鼠](https://www.baidu.com/s?wd=%E6%89%AC%E5%B7%9E%E4%B8%80%E5%AD%A6%E9%99%A2%E9%A3%9F%E5%A0%82%E9%BA%BB%E9%85%B1%E7%9B%86%E4%B8%AD%E5%8F%91%E7%8E%B0%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -32,9 +32,9 @@
 1. [习近平：聚焦建设五个中心重要使命](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E8%81%9A%E7%84%A6%E5%BB%BA%E8%AE%BE%E4%BA%94%E4%B8%AA%E4%B8%AD%E5%BF%83%E9%87%8D%E8%A6%81%E4%BD%BF%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [天价母婴消费收割廉价爸妈](https://www.baidu.com/s?wd=%E5%A4%A9%E4%BB%B7%E6%AF%8D%E5%A9%B4%E6%B6%88%E8%B4%B9%E6%94%B6%E5%89%B2%E5%BB%89%E4%BB%B7%E7%88%B8%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [五月天经纪公司回应演唱会假唱](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [如何科学应对本轮呼吸道疾病？](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%BA%94%E5%AF%B9%E6%9C%AC%E8%BD%AE%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [律师：真假唱混合属于假唱](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%EF%BC%9A%E7%9C%9F%E5%81%87%E5%94%B1%E6%B7%B7%E5%90%88%E5%B1%9E%E4%BA%8E%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [金价狂飙 网友：你看我还有机会吗](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BD%A0%E7%9C%8B%E6%88%91%E8%BF%98%E6%9C%89%E6%9C%BA%E4%BC%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [滑雪摔倒后不要坐在原地休息](https://www.baidu.com/s?wd=%E6%BB%91%E9%9B%AA%E6%91%94%E5%80%92%E5%90%8E%E4%B8%8D%E8%A6%81%E5%9D%90%E5%9C%A8%E5%8E%9F%E5%9C%B0%E4%BC%91%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [95%的主播月收入低于5000元](https://www.baidu.com/s?wd=95%25%E7%9A%84%E4%B8%BB%E6%92%AD%E6%9C%88%E6%94%B6%E5%85%A5%E4%BD%8E%E4%BA%8E5000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [节目录制中被紧急送医 男歌手回应](https://www.baidu.com/s?wd=%E8%8A%82%E7%9B%AE%E5%BD%95%E5%88%B6%E4%B8%AD%E8%A2%AB%E7%B4%A7%E6%80%A5%E9%80%81%E5%8C%BB+%E7%94%B7%E6%AD%8C%E6%89%8B%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [扬州一学院食堂麻酱盆中发现老鼠](https://www.baidu.com/s?wd=%E6%89%AC%E5%B7%9E%E4%B8%80%E5%AD%A6%E9%99%A2%E9%A3%9F%E5%A0%82%E9%BA%BB%E9%85%B1%E7%9B%86%E4%B8%AD%E5%8F%91%E7%8E%B0%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
