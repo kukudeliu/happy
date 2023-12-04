@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 20:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 20:08:01</h4></div>
 
 > 微博  
 
 1. [五月天否认假唱](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%90%A6%E8%AE%A4%E5%81%87%E5%94%B1&t=31&band_rank=1&Refer=top)<br />
 2. [胡夏删视频](https://s.weibo.com/weibo?q=%E8%83%A1%E5%A4%8F%E5%88%A0%E8%A7%86%E9%A2%91&t=31&band_rank=2&Refer=top)<br />
-3. [南极中山站区域卸货作业风雪中进行](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%9E%81%E4%B8%AD%E5%B1%B1%E7%AB%99%E5%8C%BA%E5%9F%9F%E5%8D%B8%E8%B4%A7%E4%BD%9C%E4%B8%9A%E9%A3%8E%E9%9B%AA%E4%B8%AD%E8%BF%9B%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
+3. [美好生活宪给你](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB%E5%AE%AA%E7%BB%99%E4%BD%A0%23&t=31&band_rank=3&Refer=top)<br />
 4. [虞书欣 戴森](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E6%88%B4%E6%A3%AE&t=31&band_rank=4&Refer=top)<br />
 5. [一人花近10万买彩票中2亿](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E8%8A%B1%E8%BF%9110%E4%B8%87%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD2%E4%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [封神 补拍](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%20%E8%A1%A5%E6%8B%8D&t=31&band_rank=6&Refer=top)<br />
