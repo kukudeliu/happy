@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 14:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 14:18:01</h4></div>
 
 > 微博  
 
 1. [五月天演唱会将全程直播](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B0%86%E5%85%A8%E7%A8%8B%E7%9B%B4%E6%92%AD&t=31&band_rank=1&Refer=top)<br />
 2. [林俊杰 下次请不要来我的演唱会](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E4%B8%8B%E6%AC%A1%E8%AF%B7%E4%B8%8D%E8%A6%81%E6%9D%A5%E6%88%91%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=2&Refer=top)<br />
 3. [穿越机视角瞰巍峨古长城](https://s.weibo.com/weibo?q=%23%E7%A9%BF%E8%B6%8A%E6%9C%BA%E8%A7%86%E8%A7%92%E7%9E%B0%E5%B7%8D%E5%B3%A8%E5%8F%A4%E9%95%BF%E5%9F%8E%23&t=31&band_rank=3&Refer=top)<br />
-4. [五月天演唱会音视频已提交稽查部门](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E9%9F%B3%E8%A7%86%E9%A2%91%E5%B7%B2%E6%8F%90%E4%BA%A4%E7%A8%BD%E6%9F%A5%E9%83%A8%E9%97%A8%23&t=31&band_rank=4&Refer=top)<br />
-5. [五月天经纪公司称没有假唱](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E7%A7%B0%E6%B2%A1%E6%9C%89%E5%81%87%E5%94%B1%23&t=31&band_rank=5&Refer=top)<br />
+4. [五月天经纪公司称没有假唱](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E7%A7%B0%E6%B2%A1%E6%9C%89%E5%81%87%E5%94%B1%23&t=31&band_rank=4&Refer=top)<br />
+5. [五月天演唱会音视频已提交稽查部门](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E9%9F%B3%E8%A7%86%E9%A2%91%E5%B7%B2%E6%8F%90%E4%BA%A4%E7%A8%BD%E6%9F%A5%E9%83%A8%E9%97%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [汪文斌分享迪丽热巴新疆舞](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%96%B0%E7%96%86%E8%88%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [肯德基外送 打包费](https://s.weibo.com/weibo?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%A4%96%E9%80%81%20%E6%89%93%E5%8C%85%E8%B4%B9&t=31&band_rank=7&Refer=top)<br />
-8. [五月天演唱会主办方被要求配合调查](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BB%E5%8A%9E%E6%96%B9%E8%A2%AB%E8%A6%81%E6%B1%82%E9%85%8D%E5%90%88%E8%B0%83%E6%9F%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [酱园弄 杨幂](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%20%E6%9D%A8%E5%B9%82&t=31&band_rank=9&Refer=top)<br />
+8. [酱园弄 杨幂](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%20%E6%9D%A8%E5%B9%82&t=31&band_rank=8&Refer=top)<br />
+9. [五月天演唱会主办方被要求配合调查](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BB%E5%8A%9E%E6%96%B9%E8%A2%AB%E8%A6%81%E6%B1%82%E9%85%8D%E5%90%88%E8%B0%83%E6%9F%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
