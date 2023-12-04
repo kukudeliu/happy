@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 19:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 19:30:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [8招教你应对呼吸道疾病](https://s.weibo.com/weibo?q=%238%E6%8B%9B%E6%95%99%E4%BD%A0%E5%BA%94%E5%AF%B9%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%23&t=31&band_rank=3&Refer=top)<br />
 4. [封神 补拍](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%20%E8%A1%A5%E6%8B%8D&t=31&band_rank=4&Refer=top)<br />
 5. [父亲看望产后的女儿瞬间被一把抱住](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%9C%8B%E6%9C%9B%E4%BA%A7%E5%90%8E%E7%9A%84%E5%A5%B3%E5%84%BF%E7%9E%AC%E9%97%B4%E8%A2%AB%E4%B8%80%E6%8A%8A%E6%8A%B1%E4%BD%8F%23&t=31&band_rank=5&Refer=top)<br />
-6. [我小叔才50岁就已经被社会淘汰了](https://s.weibo.com/weibo?q=%E6%88%91%E5%B0%8F%E5%8F%94%E6%89%8D50%E5%B2%81%E5%B0%B1%E5%B7%B2%E7%BB%8F%E8%A2%AB%E7%A4%BE%E4%BC%9A%E6%B7%98%E6%B1%B0%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+6. [王楚钦 还打吗](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%20%E8%BF%98%E6%89%93%E5%90%97&t=31&band_rank=6&Refer=top)<br />
 7. [25岁宝妈两次高考上岸做到全班第一](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%AE%9D%E5%A6%88%E4%B8%A4%E6%AC%A1%E9%AB%98%E8%80%83%E4%B8%8A%E5%B2%B8%E5%81%9A%E5%88%B0%E5%85%A8%E7%8F%AD%E7%AC%AC%E4%B8%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [林俊杰 下次请不要来我的演唱会](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E4%B8%8B%E6%AC%A1%E8%AF%B7%E4%B8%8D%E8%A6%81%E6%9D%A5%E6%88%91%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
-9. [王楚钦 还打吗](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%20%E8%BF%98%E6%89%93%E5%90%97&t=31&band_rank=9&Refer=top)<br />
+8. [我小叔才50岁就已经被社会淘汰了](https://s.weibo.com/weibo?q=%E6%88%91%E5%B0%8F%E5%8F%94%E6%89%8D50%E5%B2%81%E5%B0%B1%E5%B7%B2%E7%BB%8F%E8%A2%AB%E7%A4%BE%E4%BC%9A%E6%B7%98%E6%B1%B0%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [林俊杰 下次请不要来我的演唱会](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E4%B8%8B%E6%AC%A1%E8%AF%B7%E4%B8%8D%E8%A6%81%E6%9D%A5%E6%88%91%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
