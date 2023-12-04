@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 16:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 16:32:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [家长在班级群发不雅视频被警方带走](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“富翁之子”解清帅投喂母亲](https://www.baidu.com/s?wd=%E2%80%9C%E5%AF%8C%E7%BF%81%E4%B9%8B%E5%AD%90%E2%80%9D%E8%A7%A3%E6%B8%85%E5%B8%85%E6%8A%95%E5%96%82%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [京东回应承兴系俩萝卜章骗300亿](https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E5%9B%9E%E5%BA%94%E6%89%BF%E5%85%B4%E7%B3%BB%E4%BF%A9%E8%90%9D%E5%8D%9C%E7%AB%A0%E9%AA%97300%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广西北海疫情暴发？官方辟谣](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E7%96%AB%E6%83%85%E6%9A%B4%E5%8F%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [家长在班级群发不雅视频被警方带走](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“富翁之子”解清帅投喂母亲](https://www.baidu.com/s?wd=%E2%80%9C%E5%AF%8C%E7%BF%81%E4%B9%8B%E5%AD%90%E2%80%9D%E8%A7%A3%E6%B8%85%E5%B8%85%E6%8A%95%E5%96%82%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [京东回应承兴系俩萝卜章骗300亿](https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E5%9B%9E%E5%BA%94%E6%89%BF%E5%85%B4%E7%B3%BB%E4%BF%A9%E8%90%9D%E5%8D%9C%E7%AB%A0%E9%AA%97300%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广西北海疫情暴发？官方辟谣](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E7%96%AB%E6%83%85%E6%9A%B4%E5%8F%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
