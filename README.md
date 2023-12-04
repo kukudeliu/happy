@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 16:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 16:19:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [丁程鑫 中考](https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%20%E4%B8%AD%E8%80%83&t=31&band_rank=5&Refer=top)<br />
 6. [陈绮贞 五月天](https://s.weibo.com/weibo?q=%E9%99%88%E7%BB%AE%E8%B4%9E%20%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=6&Refer=top)<br />
 7. [林俊杰 下次请不要来我的演唱会](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E4%B8%8B%E6%AC%A1%E8%AF%B7%E4%B8%8D%E8%A6%81%E6%9D%A5%E6%88%91%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
-8. [珠海一男子持刀致3死后自杀](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E4%B8%80%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E8%87%B43%E6%AD%BB%E5%90%8E%E8%87%AA%E6%9D%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [GQ内涵](https://s.weibo.com/weibo?q=GQ%E5%86%85%E6%B6%B5&t=31&band_rank=9&Refer=top)<br />
+8. [GQ内涵](https://s.weibo.com/weibo?q=GQ%E5%86%85%E6%B6%B5&t=31&band_rank=8&Refer=top)<br />
+9. [珠海一男子持刀致3死后自杀](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E4%B8%80%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E8%87%B43%E6%AD%BB%E5%90%8E%E8%87%AA%E6%9D%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [如何科学应对本轮呼吸道疾病？](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%BA%94%E5%AF%B9%E6%9C%AC%E8%BD%AE%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [天价母婴消费收割廉价爸妈](https://www.baidu.com/s?wd=%E5%A4%A9%E4%BB%B7%E6%AF%8D%E5%A9%B4%E6%B6%88%E8%B4%B9%E6%94%B6%E5%89%B2%E5%BB%89%E4%BB%B7%E7%88%B8%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [家长在班级群发不雅视频被警方带走](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [起底“包治百病”的锻炼器](https://www.baidu.com/s?wd=%E8%B5%B7%E5%BA%95%E2%80%9C%E5%8C%85%E6%B2%BB%E7%99%BE%E7%97%85%E2%80%9D%E7%9A%84%E9%94%BB%E7%82%BC%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [京东回应承兴系俩萝卜章骗300亿](https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E5%9B%9E%E5%BA%94%E6%89%BF%E5%85%B4%E7%B3%BB%E4%BF%A9%E8%90%9D%E5%8D%9C%E7%AB%A0%E9%AA%97300%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [五月天再被锤假唱 媒体联系均无回应](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%86%8D%E8%A2%AB%E9%94%A4%E5%81%87%E5%94%B1+%E5%AA%92%E4%BD%93%E8%81%94%E7%B3%BB%E5%9D%87%E6%97%A0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“富翁之子”解清帅投喂母亲](https://www.baidu.com/s?wd=%E2%80%9C%E5%AF%8C%E7%BF%81%E4%B9%8B%E5%AD%90%E2%80%9D%E8%A7%A3%E6%B8%85%E5%B8%85%E6%8A%95%E5%96%82%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [如何科学应对本轮呼吸道疾病？](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%BA%94%E5%AF%B9%E6%9C%AC%E8%BD%AE%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [天价母婴消费收割廉价爸妈](https://www.baidu.com/s?wd=%E5%A4%A9%E4%BB%B7%E6%AF%8D%E5%A9%B4%E6%B6%88%E8%B4%B9%E6%94%B6%E5%89%B2%E5%BB%89%E4%BB%B7%E7%88%B8%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [家长在班级群发不雅视频被警方带走](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [起底“包治百病”的锻炼器](https://www.baidu.com/s?wd=%E8%B5%B7%E5%BA%95%E2%80%9C%E5%8C%85%E6%B2%BB%E7%99%BE%E7%97%85%E2%80%9D%E7%9A%84%E9%94%BB%E7%82%BC%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [京东回应承兴系俩萝卜章骗300亿](https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E5%9B%9E%E5%BA%94%E6%89%BF%E5%85%B4%E7%B3%BB%E4%BF%A9%E8%90%9D%E5%8D%9C%E7%AB%A0%E9%AA%97300%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [五月天再被锤假唱 媒体联系均无回应](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%86%8D%E8%A2%AB%E9%94%A4%E5%81%87%E5%94%B1+%E5%AA%92%E4%BD%93%E8%81%94%E7%B3%BB%E5%9D%87%E6%97%A0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“富翁之子”解清帅投喂母亲](https://www.baidu.com/s?wd=%E2%80%9C%E5%AF%8C%E7%BF%81%E4%B9%8B%E5%AD%90%E2%80%9D%E8%A7%A3%E6%B8%85%E5%B8%85%E6%8A%95%E5%96%82%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
