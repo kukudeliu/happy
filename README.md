@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 22:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 22:06:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [五月天否认假唱](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%90%A6%E8%AE%A4%E5%81%87%E5%94%B1&t=31&band_rank=2&Refer=top)<br />
 3. [流感的病程是怎样变化的](https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%84%9F%E7%9A%84%E7%97%85%E7%A8%8B%E6%98%AF%E6%80%8E%E6%A0%B7%E5%8F%98%E5%8C%96%E7%9A%84%23&t=31&band_rank=3&Refer=top)<br />
 4. [一人花近10万买彩票中2亿](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E8%8A%B1%E8%BF%9110%E4%B8%87%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD2%E4%BA%BF%23&t=31&band_rank=4&Refer=top)<br />
-5. [快过年了 不要再买了](https://s.weibo.com/weibo?q=%E5%BF%AB%E8%BF%87%E5%B9%B4%E4%BA%86%20%E4%B8%8D%E8%A6%81%E5%86%8D%E4%B9%B0%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
-6. [林俊杰肖战合照](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E8%82%96%E6%88%98%E5%90%88%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [八段锦 慢性病](https://s.weibo.com/weibo?q=%E5%85%AB%E6%AE%B5%E9%94%A6%20%E6%85%A2%E6%80%A7%E7%97%85&t=31&band_rank=7&Refer=top)<br />
-8. [胡夏删视频](https://s.weibo.com/weibo?q=%E8%83%A1%E5%A4%8F%E5%88%A0%E8%A7%86%E9%A2%91&t=31&band_rank=8&Refer=top)<br />
+5. [林俊杰肖战合照](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E8%82%96%E6%88%98%E5%90%88%E7%85%A7%23&t=31&band_rank=5&Refer=top)<br />
+6. [快过年了 不要再买了](https://s.weibo.com/weibo?q=%E5%BF%AB%E8%BF%87%E5%B9%B4%E4%BA%86%20%E4%B8%8D%E8%A6%81%E5%86%8D%E4%B9%B0%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+7. [胡夏删视频](https://s.weibo.com/weibo?q=%E8%83%A1%E5%A4%8F%E5%88%A0%E8%A7%86%E9%A2%91&t=31&band_rank=7&Refer=top)<br />
+8. [八段锦 慢性病](https://s.weibo.com/weibo?q=%E5%85%AB%E6%AE%B5%E9%94%A6%20%E6%85%A2%E6%80%A7%E7%97%85&t=31&band_rank=8&Refer=top)<br />
 9. [河南一家长在班级群发不雅视频](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E5%AE%B6%E9%95%BF%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
