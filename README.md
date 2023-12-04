@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 13:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 13:24:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [五月天上海演唱会吸金超6亿](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%B8%E9%87%91%E8%B6%856%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子全网寻找僵尸车主人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%A8%E7%BD%91%E5%AF%BB%E6%89%BE%E5%83%B5%E5%B0%B8%E8%BD%A6%E4%B8%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [140斤女生减肥1年反胖50斤](https://www.baidu.com/s?wd=140%E6%96%A4%E5%A5%B3%E7%94%9F%E5%87%8F%E8%82%A51%E5%B9%B4%E5%8F%8D%E8%83%9650%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [95%的主播月收入低于5000元](https://www.baidu.com/s?wd=95%25%E7%9A%84%E4%B8%BB%E6%92%AD%E6%9C%88%E6%94%B6%E5%85%A5%E4%BD%8E%E4%BA%8E5000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [腾讯视频回应APP崩了：出现技术问题](https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E5%9B%9E%E5%BA%94APP%E5%B4%A9%E4%BA%86%EF%BC%9A%E5%87%BA%E7%8E%B0%E6%8A%80%E6%9C%AF%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [烟酒店玻璃太干净 顾客接连撞上去](https://www.baidu.com/s?wd=%E7%83%9F%E9%85%92%E5%BA%97%E7%8E%BB%E7%92%83%E5%A4%AA%E5%B9%B2%E5%87%80+%E9%A1%BE%E5%AE%A2%E6%8E%A5%E8%BF%9E%E6%92%9E%E4%B8%8A%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子全网寻找僵尸车主人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%A8%E7%BD%91%E5%AF%BB%E6%89%BE%E5%83%B5%E5%B0%B8%E8%BD%A6%E4%B8%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [五月天上海演唱会吸金超6亿](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%B8%E9%87%91%E8%B6%856%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子全网寻找僵尸车主人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%A8%E7%BD%91%E5%AF%BB%E6%89%BE%E5%83%B5%E5%B0%B8%E8%BD%A6%E4%B8%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [140斤女生减肥1年反胖50斤](https://www.baidu.com/s?wd=140%E6%96%A4%E5%A5%B3%E7%94%9F%E5%87%8F%E8%82%A51%E5%B9%B4%E5%8F%8D%E8%83%9650%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [95%的主播月收入低于5000元](https://www.baidu.com/s?wd=95%25%E7%9A%84%E4%B8%BB%E6%92%AD%E6%9C%88%E6%94%B6%E5%85%A5%E4%BD%8E%E4%BA%8E5000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [腾讯视频回应APP崩了：出现技术问题](https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E5%9B%9E%E5%BA%94APP%E5%B4%A9%E4%BA%86%EF%BC%9A%E5%87%BA%E7%8E%B0%E6%8A%80%E6%9C%AF%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [烟酒店玻璃太干净 顾客接连撞上去](https://www.baidu.com/s?wd=%E7%83%9F%E9%85%92%E5%BA%97%E7%8E%BB%E7%92%83%E5%A4%AA%E5%B9%B2%E5%87%80+%E9%A1%BE%E5%AE%A2%E6%8E%A5%E8%BF%9E%E6%92%9E%E4%B8%8A%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子全网寻找僵尸车主人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%A8%E7%BD%91%E5%AF%BB%E6%89%BE%E5%83%B5%E5%B0%B8%E8%BD%A6%E4%B8%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
