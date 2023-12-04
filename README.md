@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 20:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 20:28:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [彩民中2亿多且无需缴税？官方回应](https://www.baidu.com/s?wd=%E5%BD%A9%E6%B0%91%E4%B8%AD2%E4%BA%BF%E5%A4%9A%E4%B8%94%E6%97%A0%E9%9C%80%E7%BC%B4%E7%A8%8E%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [义乌回应倡议居民保持10天以上存粮](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E5%9B%9E%E5%BA%94%E5%80%A1%E8%AE%AE%E5%B1%85%E6%B0%91%E4%BF%9D%E6%8C%8110%E5%A4%A9%E4%BB%A5%E4%B8%8A%E5%AD%98%E7%B2%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [比亚迪打击黑公关：举报最高奖500万](https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%89%93%E5%87%BB%E9%BB%91%E5%85%AC%E5%85%B3%EF%BC%9A%E4%B8%BE%E6%8A%A5%E6%9C%80%E9%AB%98%E5%A5%96500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [俄北方舰队第14军团副司令身亡](https://www.baidu.com/s?wd=%E4%BF%84%E5%8C%97%E6%96%B9%E8%88%B0%E9%98%9F%E7%AC%AC14%E5%86%9B%E5%9B%A2%E5%89%AF%E5%8F%B8%E4%BB%A4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [俄北方舰队第14军团副司令身亡](https://www.baidu.com/s?wd=%E4%BF%84%E5%8C%97%E6%96%B9%E8%88%B0%E9%98%9F%E7%AC%AC14%E5%86%9B%E5%9B%A2%E5%89%AF%E5%8F%B8%E4%BB%A4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家长在班级群发不雅视频被警方带走](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [彩民中2亿多且无需缴税？官方回应](https://www.baidu.com/s?wd=%E5%BD%A9%E6%B0%91%E4%B8%AD2%E4%BA%BF%E5%A4%9A%E4%B8%94%E6%97%A0%E9%9C%80%E7%BC%B4%E7%A8%8E%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [义乌回应倡议居民保持10天以上存粮](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E5%9B%9E%E5%BA%94%E5%80%A1%E8%AE%AE%E5%B1%85%E6%B0%91%E4%BF%9D%E6%8C%8110%E5%A4%A9%E4%BB%A5%E4%B8%8A%E5%AD%98%E7%B2%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [比亚迪打击黑公关：举报最高奖500万](https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%89%93%E5%87%BB%E9%BB%91%E5%85%AC%E5%85%B3%EF%BC%9A%E4%B8%BE%E6%8A%A5%E6%9C%80%E9%AB%98%E5%A5%96500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [俄北方舰队第14军团副司令身亡](https://www.baidu.com/s?wd=%E4%BF%84%E5%8C%97%E6%96%B9%E8%88%B0%E9%98%9F%E7%AC%AC14%E5%86%9B%E5%9B%A2%E5%89%AF%E5%8F%B8%E4%BB%A4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [俄北方舰队第14军团副司令身亡](https://www.baidu.com/s?wd=%E4%BF%84%E5%8C%97%E6%96%B9%E8%88%B0%E9%98%9F%E7%AC%AC14%E5%86%9B%E5%9B%A2%E5%89%AF%E5%8F%B8%E4%BB%A4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [家长在班级群发不雅视频被警方带走](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
