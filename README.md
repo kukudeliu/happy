@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 19:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 19:05:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [八段锦 慢性病](https://s.weibo.com/weibo?q=%E5%85%AB%E6%AE%B5%E9%94%A6%20%E6%85%A2%E6%80%A7%E7%97%85&t=31&band_rank=6&Refer=top)<br />
 7. [父亲看望产后的女儿瞬间被一把抱住](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%9C%8B%E6%9C%9B%E4%BA%A7%E5%90%8E%E7%9A%84%E5%A5%B3%E5%84%BF%E7%9E%AC%E9%97%B4%E8%A2%AB%E4%B8%80%E6%8A%8A%E6%8A%B1%E4%BD%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [QQ音乐会员涨价](https://s.weibo.com/weibo?q=QQ%E9%9F%B3%E4%B9%90%E4%BC%9A%E5%91%98%E6%B6%A8%E4%BB%B7&t=31&band_rank=8&Refer=top)<br />
-9. [五月天经纪公司称没有假唱](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E7%A7%B0%E6%B2%A1%E6%9C%89%E5%81%87%E5%94%B1%23&t=31&band_rank=9&Refer=top)<br />
+9. [胡夏删视频](https://s.weibo.com/weibo?q=%E8%83%A1%E5%A4%8F%E5%88%A0%E8%A7%86%E9%A2%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
