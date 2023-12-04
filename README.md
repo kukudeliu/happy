@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 07:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 07:57:01</h4></div>
 
 > 微博  
 
 1. [喜茶涉嫌违反宗教事务管理条例被约谈](https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%8C%B6%E6%B6%89%E5%AB%8C%E8%BF%9D%E5%8F%8D%E5%AE%97%E6%95%99%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B%E8%A2%AB%E7%BA%A6%E8%B0%88%23&t=31&band_rank=1&Refer=top)<br />
-2. [断崖式衰老女子确诊卵巢早衰](https://s.weibo.com/weibo?q=%23%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0%23&t=31&band_rank=2&Refer=top)<br />
+2. [韩国夫妇操控一家庭19年装13部监控](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%93%8D%E6%8E%A7%E4%B8%80%E5%AE%B6%E5%BA%AD19%E5%B9%B4%E8%A3%8513%E9%83%A8%E7%9B%91%E6%8E%A7%23&t=31&band_rank=2&Refer=top)<br />
 3. [美好生活宪给你](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB%E5%AE%AA%E7%BB%99%E4%BD%A0%23&t=31&band_rank=3&Refer=top)<br />
-4. [刘若英 我爱五月天](https://s.weibo.com/weibo?q=%E5%88%98%E8%8B%A5%E8%8B%B1%20%E6%88%91%E7%88%B1%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=4&Refer=top)<br />
-5. [快过年了 不要再买了](https://s.weibo.com/weibo?q=%E5%BF%AB%E8%BF%87%E5%B9%B4%E4%BA%86%20%E4%B8%8D%E8%A6%81%E5%86%8D%E4%B9%B0%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
-6. [卵巢早衰](https://s.weibo.com/weibo?q=%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0&t=31&band_rank=6&Refer=top)<br />
-7. [刘诗诗回应替身说](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E8%AF%B4&t=31&band_rank=7&Refer=top)<br />
-8. [手机贴膜 智商税](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E8%B4%B4%E8%86%9C%20%E6%99%BA%E5%95%86%E7%A8%8E&t=31&band_rank=8&Refer=top)<br />
-9. [周一围 朱丹不是讨好型人格](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B8%80%E5%9B%B4%20%E6%9C%B1%E4%B8%B9%E4%B8%8D%E6%98%AF%E8%AE%A8%E5%A5%BD%E5%9E%8B%E4%BA%BA%E6%A0%BC&t=31&band_rank=9&Refer=top)<br />
+4. [断崖式衰老女子确诊卵巢早衰](https://s.weibo.com/weibo?q=%23%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0%23&t=31&band_rank=4&Refer=top)<br />
+5. [刘若英 我爱五月天](https://s.weibo.com/weibo?q=%E5%88%98%E8%8B%A5%E8%8B%B1%20%E6%88%91%E7%88%B1%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=5&Refer=top)<br />
+6. [快过年了 不要再买了](https://s.weibo.com/weibo?q=%E5%BF%AB%E8%BF%87%E5%B9%B4%E4%BA%86%20%E4%B8%8D%E8%A6%81%E5%86%8D%E4%B9%B0%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+7. [卵巢早衰](https://s.weibo.com/weibo?q=%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0&t=31&band_rank=7&Refer=top)<br />
+8. [刘诗诗回应替身说](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E8%AF%B4&t=31&band_rank=8&Refer=top)<br />
+9. [手机贴膜 智商税](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E8%B4%B4%E8%86%9C%20%E6%99%BA%E5%95%86%E7%A8%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
