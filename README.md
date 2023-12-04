@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 07:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 07:27:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [手机贴膜 智商税](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E8%B4%B4%E8%86%9C%20%E6%99%BA%E5%95%86%E7%A8%8E&t=31&band_rank=5&Refer=top)<br />
 6. [周一围 朱丹不是讨好型人格](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B8%80%E5%9B%B4%20%E6%9C%B1%E4%B8%B9%E4%B8%8D%E6%98%AF%E8%AE%A8%E5%A5%BD%E5%9E%8B%E4%BA%BA%E6%A0%BC&t=31&band_rank=6&Refer=top)<br />
 7. [刘诗诗回应替身说](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E8%AF%B4&t=31&band_rank=7&Refer=top)<br />
-8. [麦田农夫 每个音都特别准就是假唱](https://s.weibo.com/weibo?q=%E9%BA%A6%E7%94%B0%E5%86%9C%E5%A4%AB%20%E6%AF%8F%E4%B8%AA%E9%9F%B3%E9%83%BD%E7%89%B9%E5%88%AB%E5%87%86%E5%B0%B1%E6%98%AF%E5%81%87%E5%94%B1&t=31&band_rank=8&Refer=top)<br />
+8. [快过年了 不要再买了](https://s.weibo.com/weibo?q=%E5%BF%AB%E8%BF%87%E5%B9%B4%E4%BA%86%20%E4%B8%8D%E8%A6%81%E5%86%8D%E4%B9%B0%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [老师收集家长工作视频课堂播放引热议](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%94%B6%E9%9B%86%E5%AE%B6%E9%95%BF%E5%B7%A5%E4%BD%9C%E8%A7%86%E9%A2%91%E8%AF%BE%E5%A0%82%E6%92%AD%E6%94%BE%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
