@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 14:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 14:14:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [五月天上海演唱会吸金超6亿](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%B8%E9%87%91%E8%B6%856%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子持刀伤人致3死后当场自杀](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E8%87%B43%E6%AD%BB%E5%90%8E%E5%BD%93%E5%9C%BA%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [五月天演唱会主办方被要求配合调查](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BB%E5%8A%9E%E6%96%B9%E8%A2%AB%E8%A6%81%E6%B1%82%E9%85%8D%E5%90%88%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马斯克的Boring公司“凉”了？](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84Boring%E5%85%AC%E5%8F%B8%E2%80%9C%E5%87%89%E2%80%9D%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高盛与苹果“分手”内幕曝光](https://www.baidu.com/s?wd=%E9%AB%98%E7%9B%9B%E4%B8%8E%E8%8B%B9%E6%9E%9C%E2%80%9C%E5%88%86%E6%89%8B%E2%80%9D%E5%86%85%E5%B9%95%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [马斯克的Boring公司“凉”了？](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84Boring%E5%85%AC%E5%8F%B8%E2%80%9C%E5%87%89%E2%80%9D%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [冯小刚 奇闻CP有爱但不肉麻](https://www.baidu.com/s?wd=%E5%86%AF%E5%B0%8F%E5%88%9A+%E5%A5%87%E9%97%BBCP%E6%9C%89%E7%88%B1%E4%BD%86%E4%B8%8D%E8%82%89%E9%BA%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [五月天上海演唱会吸金超6亿](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%B8%E9%87%91%E8%B6%856%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子持刀伤人致3死后当场自杀](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E8%87%B43%E6%AD%BB%E5%90%8E%E5%BD%93%E5%9C%BA%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [五月天演唱会主办方被要求配合调查](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BB%E5%8A%9E%E6%96%B9%E8%A2%AB%E8%A6%81%E6%B1%82%E9%85%8D%E5%90%88%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马斯克的Boring公司“凉”了？](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84Boring%E5%85%AC%E5%8F%B8%E2%80%9C%E5%87%89%E2%80%9D%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [高盛与苹果“分手”内幕曝光](https://www.baidu.com/s?wd=%E9%AB%98%E7%9B%9B%E4%B8%8E%E8%8B%B9%E6%9E%9C%E2%80%9C%E5%88%86%E6%89%8B%E2%80%9D%E5%86%85%E5%B9%95%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [马斯克的Boring公司“凉”了？](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84Boring%E5%85%AC%E5%8F%B8%E2%80%9C%E5%87%89%E2%80%9D%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [冯小刚 奇闻CP有爱但不肉麻](https://www.baidu.com/s?wd=%E5%86%AF%E5%B0%8F%E5%88%9A+%E5%A5%87%E9%97%BBCP%E6%9C%89%E7%88%B1%E4%BD%86%E4%B8%8D%E8%82%89%E9%BA%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
