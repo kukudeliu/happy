@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 11:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 11:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘诗诗 一姐今天不1了](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E4%B8%80%E5%A7%90%E4%BB%8A%E5%A4%A9%E4%B8%8D1%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [瑞幸 泰假](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%20%E6%B3%B0%E5%81%87&t=31&band_rank=7&Refer=top)<br />
 8. [腾讯会员 没了](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E4%BC%9A%E5%91%98%20%E6%B2%A1%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [周一围说朱丹的描述有误导倾向](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B8%80%E5%9B%B4%E8%AF%B4%E6%9C%B1%E4%B8%B9%E7%9A%84%E6%8F%8F%E8%BF%B0%E6%9C%89%E8%AF%AF%E5%AF%BC%E5%80%BE%E5%90%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [汪文斌分享迪丽热巴新疆舞](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%96%B0%E7%96%86%E8%88%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
