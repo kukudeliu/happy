@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 23:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 23:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [胡夏删视频](https://s.weibo.com/weibo?q=%E8%83%A1%E5%A4%8F%E5%88%A0%E8%A7%86%E9%A2%91&t=31&band_rank=6&Refer=top)<br />
 7. [五月天现场视频](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91&t=31&band_rank=7&Refer=top)<br />
 8. [八段锦 慢性病](https://s.weibo.com/weibo?q=%E5%85%AB%E6%AE%B5%E9%94%A6%20%E6%85%A2%E6%80%A7%E7%97%85&t=31&band_rank=8&Refer=top)<br />
-9. [医院暗号](https://s.weibo.com/weibo?q=%E5%8C%BB%E9%99%A2%E6%9A%97%E5%8F%B7&t=31&band_rank=9&Refer=top)<br />
+9. [考研人最后二十天的精神状态](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E4%BA%BA%E6%9C%80%E5%90%8E%E4%BA%8C%E5%8D%81%E5%A4%A9%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,8 +22,8 @@
 3. [乱港分子周庭弃保潜逃 外交部回应](https://www.baidu.com/s?wd=%E4%B9%B1%E6%B8%AF%E5%88%86%E5%AD%90%E5%91%A8%E5%BA%AD%E5%BC%83%E4%BF%9D%E6%BD%9C%E9%80%83+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [刘若英：我爱五月天](https://www.baidu.com/s?wd=%E5%88%98%E8%8B%A5%E8%8B%B1%EF%BC%9A%E6%88%91%E7%88%B1%E4%BA%94%E6%9C%88%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [成都车内去世司机生前患高血压](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E8%BD%A6%E5%86%85%E5%8E%BB%E4%B8%96%E5%8F%B8%E6%9C%BA%E7%94%9F%E5%89%8D%E6%82%A3%E9%AB%98%E8%A1%80%E5%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [德方要意大利归还希特勒曾买的雕像](https://www.baidu.com/s?wd=%E5%BE%B7%E6%96%B9%E8%A6%81%E6%84%8F%E5%A4%A7%E5%88%A9%E5%BD%92%E8%BF%98%E5%B8%8C%E7%89%B9%E5%8B%92%E6%9B%BE%E4%B9%B0%E7%9A%84%E9%9B%95%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [德方要意大利归还希特勒曾买的雕像](https://www.baidu.com/s?wd=%E5%BE%B7%E6%96%B9%E8%A6%81%E6%84%8F%E5%A4%A7%E5%88%A9%E5%BD%92%E8%BF%98%E5%B8%8C%E7%89%B9%E5%8B%92%E6%9B%BE%E4%B9%B0%E7%9A%84%E9%9B%95%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日系合资品牌销量下滑遇困境](https://www.baidu.com/s?wd=%E6%97%A5%E7%B3%BB%E5%90%88%E8%B5%84%E5%93%81%E7%89%8C%E9%94%80%E9%87%8F%E4%B8%8B%E6%BB%91%E9%81%87%E5%9B%B0%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [俄北方舰队第14军团副司令身亡](https://www.baidu.com/s?wd=%E4%BF%84%E5%8C%97%E6%96%B9%E8%88%B0%E9%98%9F%E7%AC%AC14%E5%86%9B%E5%9B%A2%E5%89%AF%E5%8F%B8%E4%BB%A4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [乱港分子周庭弃保潜逃 外交部回应](https://www.baidu.com/s?wd=%E4%B9%B1%E6%B8%AF%E5%88%86%E5%AD%90%E5%91%A8%E5%BA%AD%E5%BC%83%E4%BF%9D%E6%BD%9C%E9%80%83+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [刘若英：我爱五月天](https://www.baidu.com/s?wd=%E5%88%98%E8%8B%A5%E8%8B%B1%EF%BC%9A%E6%88%91%E7%88%B1%E4%BA%94%E6%9C%88%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [成都车内去世司机生前患高血压](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E8%BD%A6%E5%86%85%E5%8E%BB%E4%B8%96%E5%8F%B8%E6%9C%BA%E7%94%9F%E5%89%8D%E6%82%A3%E9%AB%98%E8%A1%80%E5%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [德方要意大利归还希特勒曾买的雕像](https://www.baidu.com/s?wd=%E5%BE%B7%E6%96%B9%E8%A6%81%E6%84%8F%E5%A4%A7%E5%88%A9%E5%BD%92%E8%BF%98%E5%B8%8C%E7%89%B9%E5%8B%92%E6%9B%BE%E4%B9%B0%E7%9A%84%E9%9B%95%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [德方要意大利归还希特勒曾买的雕像](https://www.baidu.com/s?wd=%E5%BE%B7%E6%96%B9%E8%A6%81%E6%84%8F%E5%A4%A7%E5%88%A9%E5%BD%92%E8%BF%98%E5%B8%8C%E7%89%B9%E5%8B%92%E6%9B%BE%E4%B9%B0%E7%9A%84%E9%9B%95%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日系合资品牌销量下滑遇困境](https://www.baidu.com/s?wd=%E6%97%A5%E7%B3%BB%E5%90%88%E8%B5%84%E5%93%81%E7%89%8C%E9%94%80%E9%87%8F%E4%B8%8B%E6%BB%91%E9%81%87%E5%9B%B0%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [俄北方舰队第14军团副司令身亡](https://www.baidu.com/s?wd=%E4%BF%84%E5%8C%97%E6%96%B9%E8%88%B0%E9%98%9F%E7%AC%AC14%E5%86%9B%E5%9B%A2%E5%89%AF%E5%8F%B8%E4%BB%A4%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
