@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 00:29:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 00:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘诗诗回应替身说](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E8%AF%B4&t=31&band_rank=6&Refer=top)<br />
 7. [一人花近10万买彩票中2亿](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E8%8A%B1%E8%BF%9110%E4%B8%87%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD2%E4%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [断崖式衰老女子确诊卵巢早衰](https://s.weibo.com/weibo?q=%23%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [常华森秒删](https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%8D%8E%E6%A3%AE%E7%A7%92%E5%88%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [上海文旅局正鉴定五月天演唱会原始音视频](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%87%E6%97%85%E5%B1%80%E6%AD%A3%E9%89%B4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8E%9F%E5%A7%8B%E9%9F%B3%E8%A7%86%E9%A2%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
