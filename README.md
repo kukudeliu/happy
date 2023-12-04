@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 10:50:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 10:51:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [瑞幸 泰假](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%20%E6%B3%B0%E5%81%87&t=31&band_rank=2&Refer=top)<br />
 3. [新千里江山图](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [黄金价格](https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC&t=31&band_rank=4&Refer=top)<br />
-5. [周一围说朱丹的描述有误导倾向](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B8%80%E5%9B%B4%E8%AF%B4%E6%9C%B1%E4%B8%B9%E7%9A%84%E6%8F%8F%E8%BF%B0%E6%9C%89%E8%AF%AF%E5%AF%BC%E5%80%BE%E5%90%91%23&t=31&band_rank=5&Refer=top)<br />
-6. [腾讯会员 没了](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E4%BC%9A%E5%91%98%20%E6%B2%A1%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+5. [腾讯会员 没了](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E4%BC%9A%E5%91%98%20%E6%B2%A1%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
+6. [周一围说朱丹的描述有误导倾向](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B8%80%E5%9B%B4%E8%AF%B4%E6%9C%B1%E4%B8%B9%E7%9A%84%E6%8F%8F%E8%BF%B0%E6%9C%89%E8%AF%AF%E5%AF%BC%E5%80%BE%E5%90%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [奥司他韦医院定价仅需20元](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%8F%B8%E4%BB%96%E9%9F%A6%E5%8C%BB%E9%99%A2%E5%AE%9A%E4%BB%B7%E4%BB%85%E9%9C%8020%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [教师长期强奸5名女学生被执行死刑](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E9%95%BF%E6%9C%9F%E5%BC%BA%E5%A5%B85%E5%90%8D%E5%A5%B3%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=8&Refer=top)<br />
 9. [大侦探9 首案阵容](https://s.weibo.com/weibo?q=%E5%A4%A7%E4%BE%A6%E6%8E%A29%20%E9%A6%96%E6%A1%88%E9%98%B5%E5%AE%B9&t=31&band_rank=9&Refer=top)<br />
