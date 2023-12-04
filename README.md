@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 10:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 10:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [奥司他韦医院定价仅需20元](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%8F%B8%E4%BB%96%E9%9F%A6%E5%8C%BB%E9%99%A2%E5%AE%9A%E4%BB%B7%E4%BB%85%E9%9C%8020%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [相信音乐 五月天邀你见证现场](https://s.weibo.com/weibo?q=%E7%9B%B8%E4%BF%A1%E9%9F%B3%E4%B9%90%20%E4%BA%94%E6%9C%88%E5%A4%A9%E9%82%80%E4%BD%A0%E8%A7%81%E8%AF%81%E7%8E%B0%E5%9C%BA&t=31&band_rank=7&Refer=top)<br />
 8. [长期缺觉容易诱发这5种疾病](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%BC%BA%E8%A7%89%E5%AE%B9%E6%98%93%E8%AF%B1%E5%8F%91%E8%BF%995%E7%A7%8D%E7%96%BE%E7%97%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [文旅局回应五月天疑似假唱](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1%23&t=31&band_rank=9&Refer=top)<br />
+9. [大侦探9 首案阵容](https://s.weibo.com/weibo?q=%E5%A4%A7%E4%BE%A6%E6%8E%A29%20%E9%A6%96%E6%A1%88%E9%98%B5%E5%AE%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
