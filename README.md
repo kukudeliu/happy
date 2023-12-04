@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 21:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 21:02:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [胡夏删视频](https://s.weibo.com/weibo?q=%E8%83%A1%E5%A4%8F%E5%88%A0%E8%A7%86%E9%A2%91&t=31&band_rank=4&Refer=top)<br />
 5. [林俊杰肖战合照](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E8%82%96%E6%88%98%E5%90%88%E7%85%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [虞书欣 戴森](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E6%88%B4%E6%A3%AE&t=31&band_rank=6&Refer=top)<br />
-7. [封神 补拍](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%20%E8%A1%A5%E6%8B%8D&t=31&band_rank=7&Refer=top)<br />
-8. [八段锦 慢性病](https://s.weibo.com/weibo?q=%E5%85%AB%E6%AE%B5%E9%94%A6%20%E6%85%A2%E6%80%A7%E7%97%85&t=31&band_rank=8&Refer=top)<br />
+7. [八段锦 慢性病](https://s.weibo.com/weibo?q=%E5%85%AB%E6%AE%B5%E9%94%A6%20%E6%85%A2%E6%80%A7%E7%97%85&t=31&band_rank=7&Refer=top)<br />
+8. [封神 补拍](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%20%E8%A1%A5%E6%8B%8D&t=31&band_rank=8&Refer=top)<br />
 9. [河南一家长在班级群发不雅视频](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E5%AE%B6%E9%95%BF%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
