@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 17:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 17:50:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [陈绮贞 五月天](https://s.weibo.com/weibo?q=%E9%99%88%E7%BB%AE%E8%B4%9E%20%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=4&Refer=top)<br />
 5. [五月天经纪公司称没有假唱](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E7%A7%B0%E6%B2%A1%E6%9C%89%E5%81%87%E5%94%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [林俊杰 下次请不要来我的演唱会](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E4%B8%8B%E6%AC%A1%E8%AF%B7%E4%B8%8D%E8%A6%81%E6%9D%A5%E6%88%91%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
-7. [丁程鑫 中考](https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%20%E4%B8%AD%E8%80%83&t=31&band_rank=7&Refer=top)<br />
-8. [孙俪邓超曾在孩子面前抱头痛哭](https://s.weibo.com/weibo?q=%E5%AD%99%E4%BF%AA%E9%82%93%E8%B6%85%E6%9B%BE%E5%9C%A8%E5%AD%A9%E5%AD%90%E9%9D%A2%E5%89%8D%E6%8A%B1%E5%A4%B4%E7%97%9B%E5%93%AD&t=31&band_rank=8&Refer=top)<br />
+7. [孙俪邓超曾在孩子面前抱头痛哭](https://s.weibo.com/weibo?q=%E5%AD%99%E4%BF%AA%E9%82%93%E8%B6%85%E6%9B%BE%E5%9C%A8%E5%AD%A9%E5%AD%90%E9%9D%A2%E5%89%8D%E6%8A%B1%E5%A4%B4%E7%97%9B%E5%93%AD&t=31&band_rank=7&Refer=top)<br />
+8. [丁程鑫 中考](https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%20%E4%B8%AD%E8%80%83&t=31&band_rank=8&Refer=top)<br />
 9. [胖东来员工平均工资最低到手7000元](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E6%9C%80%E4%BD%8E%E5%88%B0%E6%89%8B7000%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -19,9 +19,9 @@
 
 1. [习近平向2023从都国际论坛致贺信](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%912023%E4%BB%8E%E9%83%BD%E5%9B%BD%E9%99%85%E8%AE%BA%E5%9D%9B%E8%87%B4%E8%B4%BA%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [金价狂飙 网友：你看我还有机会吗](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BD%A0%E7%9C%8B%E6%88%91%E8%BF%98%E6%9C%89%E6%9C%BA%E4%BC%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [彩民中2亿多且无需缴税？官方回应](https://www.baidu.com/s?wd=%E5%BD%A9%E6%B0%91%E4%B8%AD2%E4%BA%BF%E5%A4%9A%E4%B8%94%E6%97%A0%E9%9C%80%E7%BC%B4%E7%A8%8E%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [如何科学应对本轮呼吸道疾病？](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%BA%94%E5%AF%B9%E6%9C%AC%E8%BD%AE%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [彩民中2亿多且无需缴税？官方回应](https://www.baidu.com/s?wd=%E5%BD%A9%E6%B0%91%E4%B8%AD2%E4%BA%BF%E5%A4%9A%E4%B8%94%E6%97%A0%E9%9C%80%E7%BC%B4%E7%A8%8E%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [金价狂飙 网友：你看我还有机会吗](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BD%A0%E7%9C%8B%E6%88%91%E8%BF%98%E6%9C%89%E6%9C%BA%E4%BC%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [五月天经纪公司回应演唱会假唱](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [义乌回应倡议居民保持10天以上存粮](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E5%9B%9E%E5%BA%94%E5%80%A1%E8%AE%AE%E5%B1%85%E6%B0%91%E4%BF%9D%E6%8C%8110%E5%A4%A9%E4%BB%A5%E4%B8%8A%E5%AD%98%E7%B2%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子开三轮车捕鱼坠冰河溺亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E4%B8%89%E8%BD%AE%E8%BD%A6%E6%8D%95%E9%B1%BC%E5%9D%A0%E5%86%B0%E6%B2%B3%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,9 +31,9 @@
 
 1. [习近平向2023从都国际论坛致贺信](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%912023%E4%BB%8E%E9%83%BD%E5%9B%BD%E9%99%85%E8%AE%BA%E5%9D%9B%E8%87%B4%E8%B4%BA%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [金价狂飙 网友：你看我还有机会吗](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BD%A0%E7%9C%8B%E6%88%91%E8%BF%98%E6%9C%89%E6%9C%BA%E4%BC%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [彩民中2亿多且无需缴税？官方回应](https://www.baidu.com/s?wd=%E5%BD%A9%E6%B0%91%E4%B8%AD2%E4%BA%BF%E5%A4%9A%E4%B8%94%E6%97%A0%E9%9C%80%E7%BC%B4%E7%A8%8E%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [如何科学应对本轮呼吸道疾病？](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%BA%94%E5%AF%B9%E6%9C%AC%E8%BD%AE%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [彩民中2亿多且无需缴税？官方回应](https://www.baidu.com/s?wd=%E5%BD%A9%E6%B0%91%E4%B8%AD2%E4%BA%BF%E5%A4%9A%E4%B8%94%E6%97%A0%E9%9C%80%E7%BC%B4%E7%A8%8E%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [金价狂飙 网友：你看我还有机会吗](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BD%A0%E7%9C%8B%E6%88%91%E8%BF%98%E6%9C%89%E6%9C%BA%E4%BC%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [五月天经纪公司回应演唱会假唱](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [义乌回应倡议居民保持10天以上存粮](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E5%9B%9E%E5%BA%94%E5%80%A1%E8%AE%AE%E5%B1%85%E6%B0%91%E4%BF%9D%E6%8C%8110%E5%A4%A9%E4%BB%A5%E4%B8%8A%E5%AD%98%E7%B2%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子开三轮车捕鱼坠冰河溺亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E4%B8%89%E8%BD%AE%E8%BD%A6%E6%8D%95%E9%B1%BC%E5%9D%A0%E5%86%B0%E6%B2%B3%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
