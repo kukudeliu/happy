@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 23:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 23:44:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [乱港分子周庭弃保潜逃 外交部回应](https://www.baidu.com/s?wd=%E4%B9%B1%E6%B8%AF%E5%88%86%E5%AD%90%E5%91%A8%E5%BA%AD%E5%BC%83%E4%BF%9D%E6%BD%9C%E9%80%83+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华春莹发布卢卡申科打冰球视频](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%8F%91%E5%B8%83%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%89%93%E5%86%B0%E7%90%83%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子联系不上男友谎称男友嫖娼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%81%94%E7%B3%BB%E4%B8%8D%E4%B8%8A%E7%94%B7%E5%8F%8B%E8%B0%8E%E7%A7%B0%E7%94%B7%E5%8F%8B%E5%AB%96%E5%A8%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子网恋转账百万发现女友已婚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BD%91%E6%81%8B%E8%BD%AC%E8%B4%A6%E7%99%BE%E4%B8%87%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%8F%8B%E5%B7%B2%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [麦田农夫半年指控20多位歌手假唱](https://www.baidu.com/s?wd=%E9%BA%A6%E7%94%B0%E5%86%9C%E5%A4%AB%E5%8D%8A%E5%B9%B4%E6%8C%87%E6%8E%A720%E5%A4%9A%E4%BD%8D%E6%AD%8C%E6%89%8B%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子联系不上男友谎称男友嫖娼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%81%94%E7%B3%BB%E4%B8%8D%E4%B8%8A%E7%94%B7%E5%8F%8B%E8%B0%8E%E7%A7%B0%E7%94%B7%E5%8F%8B%E5%AB%96%E5%A8%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [乱港分子周庭弃保潜逃 外交部回应](https://www.baidu.com/s?wd=%E4%B9%B1%E6%B8%AF%E5%88%86%E5%AD%90%E5%91%A8%E5%BA%AD%E5%BC%83%E4%BF%9D%E6%BD%9C%E9%80%83+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华春莹发布卢卡申科打冰球视频](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%8F%91%E5%B8%83%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%89%93%E5%86%B0%E7%90%83%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子联系不上男友谎称男友嫖娼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%81%94%E7%B3%BB%E4%B8%8D%E4%B8%8A%E7%94%B7%E5%8F%8B%E8%B0%8E%E7%A7%B0%E7%94%B7%E5%8F%8B%E5%AB%96%E5%A8%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子网恋转账百万发现女友已婚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BD%91%E6%81%8B%E8%BD%AC%E8%B4%A6%E7%99%BE%E4%B8%87%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%8F%8B%E5%B7%B2%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [麦田农夫半年指控20多位歌手假唱](https://www.baidu.com/s?wd=%E9%BA%A6%E7%94%B0%E5%86%9C%E5%A4%AB%E5%8D%8A%E5%B9%B4%E6%8C%87%E6%8E%A720%E5%A4%9A%E4%BD%8D%E6%AD%8C%E6%89%8B%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子联系不上男友谎称男友嫖娼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%81%94%E7%B3%BB%E4%B8%8D%E4%B8%8A%E7%94%B7%E5%8F%8B%E8%B0%8E%E7%A7%B0%E7%94%B7%E5%8F%8B%E5%AB%96%E5%A8%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
