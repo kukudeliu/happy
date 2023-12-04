@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 19:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 19:44:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [如何科学应对本轮呼吸道疾病？](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%BA%94%E5%AF%B9%E6%9C%AC%E8%BD%AE%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [义乌回应倡议居民保持10天以上存粮](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E5%9B%9E%E5%BA%94%E5%80%A1%E8%AE%AE%E5%B1%85%E6%B0%91%E4%BF%9D%E6%8C%8110%E5%A4%A9%E4%BB%A5%E4%B8%8A%E5%AD%98%E7%B2%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小伙滑雪摔倒后大哭自称“失忆”](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E6%BB%91%E9%9B%AA%E6%91%94%E5%80%92%E5%90%8E%E5%A4%A7%E5%93%AD%E8%87%AA%E7%A7%B0%E2%80%9C%E5%A4%B1%E5%BF%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [经销商用农药熏蒸粮食致邻居4人中毒](https://www.baidu.com/s?wd=%E7%BB%8F%E9%94%80%E5%95%86%E7%94%A8%E5%86%9C%E8%8D%AF%E7%86%8F%E8%92%B8%E7%B2%AE%E9%A3%9F%E8%87%B4%E9%82%BB%E5%B1%854%E4%BA%BA%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [举报者称五月天粉丝评论很可笑](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E8%80%85%E7%A7%B0%E4%BA%94%E6%9C%88%E5%A4%A9%E7%B2%89%E4%B8%9D%E8%AF%84%E8%AE%BA%E5%BE%88%E5%8F%AF%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子网恋转账百万发现女友已婚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BD%91%E6%81%8B%E8%BD%AC%E8%B4%A6%E7%99%BE%E4%B8%87%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%8F%8B%E5%B7%B2%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [盘点明星假唱现场](https://www.baidu.com/s?wd=%E7%9B%98%E7%82%B9%E6%98%8E%E6%98%9F%E5%81%87%E5%94%B1%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [如何科学应对本轮呼吸道疾病？](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%BA%94%E5%AF%B9%E6%9C%AC%E8%BD%AE%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [义乌回应倡议居民保持10天以上存粮](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E5%9B%9E%E5%BA%94%E5%80%A1%E8%AE%AE%E5%B1%85%E6%B0%91%E4%BF%9D%E6%8C%8110%E5%A4%A9%E4%BB%A5%E4%B8%8A%E5%AD%98%E7%B2%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小伙滑雪摔倒后大哭自称“失忆”](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E6%BB%91%E9%9B%AA%E6%91%94%E5%80%92%E5%90%8E%E5%A4%A7%E5%93%AD%E8%87%AA%E7%A7%B0%E2%80%9C%E5%A4%B1%E5%BF%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [经销商用农药熏蒸粮食致邻居4人中毒](https://www.baidu.com/s?wd=%E7%BB%8F%E9%94%80%E5%95%86%E7%94%A8%E5%86%9C%E8%8D%AF%E7%86%8F%E8%92%B8%E7%B2%AE%E9%A3%9F%E8%87%B4%E9%82%BB%E5%B1%854%E4%BA%BA%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [举报者称五月天粉丝评论很可笑](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E8%80%85%E7%A7%B0%E4%BA%94%E6%9C%88%E5%A4%A9%E7%B2%89%E4%B8%9D%E8%AF%84%E8%AE%BA%E5%BE%88%E5%8F%AF%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子网恋转账百万发现女友已婚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BD%91%E6%81%8B%E8%BD%AC%E8%B4%A6%E7%99%BE%E4%B8%87%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%8F%8B%E5%B7%B2%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [盘点明星假唱现场](https://www.baidu.com/s?wd=%E7%9B%98%E7%82%B9%E6%98%8E%E6%98%9F%E5%81%87%E5%94%B1%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
