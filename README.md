@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 16:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 16:25:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [我小叔才50岁就已经被社会淘汰了](https://s.weibo.com/weibo?q=%E6%88%91%E5%B0%8F%E5%8F%94%E6%89%8D50%E5%B2%81%E5%B0%B1%E5%B7%B2%E7%BB%8F%E8%A2%AB%E7%A4%BE%E4%BC%9A%E6%B7%98%E6%B1%B0%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [8招教你应对呼吸道疾病](https://s.weibo.com/weibo?q=%238%E6%8B%9B%E6%95%99%E4%BD%A0%E5%BA%94%E5%AF%B9%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%23&t=31&band_rank=3&Refer=top)<br />
 4. [八段锦 慢性病](https://s.weibo.com/weibo?q=%E5%85%AB%E6%AE%B5%E9%94%A6%20%E6%85%A2%E6%80%A7%E7%97%85&t=31&band_rank=4&Refer=top)<br />
-5. [丁程鑫 中考](https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%20%E4%B8%AD%E8%80%83&t=31&band_rank=5&Refer=top)<br />
-6. [陈绮贞 五月天](https://s.weibo.com/weibo?q=%E9%99%88%E7%BB%AE%E8%B4%9E%20%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=6&Refer=top)<br />
+5. [陈绮贞 五月天](https://s.weibo.com/weibo?q=%E9%99%88%E7%BB%AE%E8%B4%9E%20%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=5&Refer=top)<br />
+6. [丁程鑫 中考](https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%20%E4%B8%AD%E8%80%83&t=31&band_rank=6&Refer=top)<br />
 7. [GQ内涵](https://s.weibo.com/weibo?q=GQ%E5%86%85%E6%B6%B5&t=31&band_rank=7&Refer=top)<br />
 8. [林俊杰 下次请不要来我的演唱会](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E4%B8%8B%E6%AC%A1%E8%AF%B7%E4%B8%8D%E8%A6%81%E6%9D%A5%E6%88%91%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
 9. [珠海一男子持刀致3死后自杀](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E4%B8%80%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E8%87%B43%E6%AD%BB%E5%90%8E%E8%87%AA%E6%9D%80%23&t=31&band_rank=9&Refer=top)<br />
