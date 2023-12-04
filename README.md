@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 16:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 16:39:01</h4></div>
 
 > 微博  
 
@@ -21,10 +21,10 @@
 2. [金价狂飙 网友：你看我还有机会吗](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BD%A0%E7%9C%8B%E6%88%91%E8%BF%98%E6%9C%89%E6%9C%BA%E4%BC%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [五月天经纪公司回应演唱会假唱](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [如何科学应对本轮呼吸道疾病？](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%BA%94%E5%AF%B9%E6%9C%AC%E8%BD%AE%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [天价母婴消费收割廉价爸妈](https://www.baidu.com/s?wd=%E5%A4%A9%E4%BB%B7%E6%AF%8D%E5%A9%B4%E6%B6%88%E8%B4%B9%E6%94%B6%E5%89%B2%E5%BB%89%E4%BB%B7%E7%88%B8%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [汪文斌分享迪丽热巴眺新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%BA%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [家长在班级群发不雅视频被警方带走](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [“富翁之子”解清帅投喂母亲](https://www.baidu.com/s?wd=%E2%80%9C%E5%AF%8C%E7%BF%81%E4%B9%8B%E5%AD%90%E2%80%9D%E8%A7%A3%E6%B8%85%E5%B8%85%E6%8A%95%E5%96%82%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子开三轮车捕鱼坠冰河溺亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E4%B8%89%E8%BD%AE%E8%BD%A6%E6%8D%95%E9%B1%BC%E5%9D%A0%E5%86%B0%E6%B2%B3%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高盛与苹果“分手”内幕曝光](https://www.baidu.com/s?wd=%E9%AB%98%E7%9B%9B%E4%B8%8E%E8%8B%B9%E6%9E%9C%E2%80%9C%E5%88%86%E6%89%8B%E2%80%9D%E5%86%85%E5%B9%95%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“富翁之子”解清帅投喂母亲](https://www.baidu.com/s?wd=%E2%80%9C%E5%AF%8C%E7%BF%81%E4%B9%8B%E5%AD%90%E2%80%9D%E8%A7%A3%E6%B8%85%E5%B8%85%E6%8A%95%E5%96%82%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西北海疫情暴发？官方辟谣](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E7%96%AB%E6%83%85%E6%9A%B4%E5%8F%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -33,8 +33,8 @@
 2. [金价狂飙 网友：你看我还有机会吗](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BD%A0%E7%9C%8B%E6%88%91%E8%BF%98%E6%9C%89%E6%9C%BA%E4%BC%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [五月天经纪公司回应演唱会假唱](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [如何科学应对本轮呼吸道疾病？](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%BA%94%E5%AF%B9%E6%9C%AC%E8%BD%AE%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [天价母婴消费收割廉价爸妈](https://www.baidu.com/s?wd=%E5%A4%A9%E4%BB%B7%E6%AF%8D%E5%A9%B4%E6%B6%88%E8%B4%B9%E6%94%B6%E5%89%B2%E5%BB%89%E4%BB%B7%E7%88%B8%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [汪文斌分享迪丽热巴眺新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%BA%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [家长在班级群发不雅视频被警方带走](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [“富翁之子”解清帅投喂母亲](https://www.baidu.com/s?wd=%E2%80%9C%E5%AF%8C%E7%BF%81%E4%B9%8B%E5%AD%90%E2%80%9D%E8%A7%A3%E6%B8%85%E5%B8%85%E6%8A%95%E5%96%82%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子开三轮车捕鱼坠冰河溺亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E4%B8%89%E8%BD%AE%E8%BD%A6%E6%8D%95%E9%B1%BC%E5%9D%A0%E5%86%B0%E6%B2%B3%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高盛与苹果“分手”内幕曝光](https://www.baidu.com/s?wd=%E9%AB%98%E7%9B%9B%E4%B8%8E%E8%8B%B9%E6%9E%9C%E2%80%9C%E5%88%86%E6%89%8B%E2%80%9D%E5%86%85%E5%B9%95%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“富翁之子”解清帅投喂母亲](https://www.baidu.com/s?wd=%E2%80%9C%E5%AF%8C%E7%BF%81%E4%B9%8B%E5%AD%90%E2%80%9D%E8%A7%A3%E6%B8%85%E5%B8%85%E6%8A%95%E5%96%82%E6%AF%8D%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西北海疫情暴发？官方辟谣](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E7%96%AB%E6%83%85%E6%9A%B4%E5%8F%91%EF%BC%9F%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
