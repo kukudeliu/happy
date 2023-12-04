@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 10:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 10:01:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [腾讯会员 没了](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E4%BC%9A%E5%91%98%20%E6%B2%A1%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [相信音乐 五月天邀你见证现场](https://s.weibo.com/weibo?q=%E7%9B%B8%E4%BF%A1%E9%9F%B3%E4%B9%90%20%E4%BA%94%E6%9C%88%E5%A4%A9%E9%82%80%E4%BD%A0%E8%A7%81%E8%AF%81%E7%8E%B0%E5%9C%BA&t=31&band_rank=7&Refer=top)<br />
 8. [文旅局回应五月天疑似假唱](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [穿卫衣就这样扎丸子头](https://s.weibo.com/weibo?q=%E7%A9%BF%E5%8D%AB%E8%A1%A3%E5%B0%B1%E8%BF%99%E6%A0%B7%E6%89%8E%E4%B8%B8%E5%AD%90%E5%A4%B4&t=31&band_rank=9&Refer=top)<br />
+9. [中国男子拍摄乌军作战被判刑](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E6%8B%8D%E6%91%84%E4%B9%8C%E5%86%9B%E4%BD%9C%E6%88%98%E8%A2%AB%E5%88%A4%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
