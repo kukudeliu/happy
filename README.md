@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 07:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 07:04:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [乱港分子周庭弃保潜逃 外交部回应](https://www.baidu.com/s?wd=%E4%B9%B1%E6%B8%AF%E5%88%86%E5%AD%90%E5%91%A8%E5%BA%AD%E5%BC%83%E4%BF%9D%E6%BD%9C%E9%80%83+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华春莹发布卢卡申科打冰球视频](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%8F%91%E5%B8%83%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%89%93%E5%86%B0%E7%90%83%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [京东回应“罗静案”风波](https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E5%9B%9E%E5%BA%94%E2%80%9C%E7%BD%97%E9%9D%99%E6%A1%88%E2%80%9D%E9%A3%8E%E6%B3%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [淄博采购滞销白菜免费发放给市民](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E9%87%87%E8%B4%AD%E6%BB%9E%E9%94%80%E7%99%BD%E8%8F%9C%E5%85%8D%E8%B4%B9%E5%8F%91%E6%94%BE%E7%BB%99%E5%B8%82%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [情怀零食店溢价严重且拒绝开票](https://www.baidu.com/s?wd=%E6%83%85%E6%80%80%E9%9B%B6%E9%A3%9F%E5%BA%97%E6%BA%A2%E4%BB%B7%E4%B8%A5%E9%87%8D%E4%B8%94%E6%8B%92%E7%BB%9D%E5%BC%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [麦田农夫半年指控20多位歌手假唱](https://www.baidu.com/s?wd=%E9%BA%A6%E7%94%B0%E5%86%9C%E5%A4%AB%E5%8D%8A%E5%B9%B4%E6%8C%87%E6%8E%A720%E5%A4%9A%E4%BD%8D%E6%AD%8C%E6%89%8B%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孙俪邓超曾在孩子面前抱头痛哭](https://www.baidu.com/s?wd=%E5%AD%99%E4%BF%AA%E9%82%93%E8%B6%85%E6%9B%BE%E5%9C%A8%E5%AD%A9%E5%AD%90%E9%9D%A2%E5%89%8D%E6%8A%B1%E5%A4%B4%E7%97%9B%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [乱港分子周庭弃保潜逃 外交部回应](https://www.baidu.com/s?wd=%E4%B9%B1%E6%B8%AF%E5%88%86%E5%AD%90%E5%91%A8%E5%BA%AD%E5%BC%83%E4%BF%9D%E6%BD%9C%E9%80%83+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华春莹发布卢卡申科打冰球视频](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%8F%91%E5%B8%83%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%89%93%E5%86%B0%E7%90%83%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [京东回应“罗静案”风波](https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E5%9B%9E%E5%BA%94%E2%80%9C%E7%BD%97%E9%9D%99%E6%A1%88%E2%80%9D%E9%A3%8E%E6%B3%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [淄博采购滞销白菜免费发放给市民](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E9%87%87%E8%B4%AD%E6%BB%9E%E9%94%80%E7%99%BD%E8%8F%9C%E5%85%8D%E8%B4%B9%E5%8F%91%E6%94%BE%E7%BB%99%E5%B8%82%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [情怀零食店溢价严重且拒绝开票](https://www.baidu.com/s?wd=%E6%83%85%E6%80%80%E9%9B%B6%E9%A3%9F%E5%BA%97%E6%BA%A2%E4%BB%B7%E4%B8%A5%E9%87%8D%E4%B8%94%E6%8B%92%E7%BB%9D%E5%BC%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [麦田农夫半年指控20多位歌手假唱](https://www.baidu.com/s?wd=%E9%BA%A6%E7%94%B0%E5%86%9C%E5%A4%AB%E5%8D%8A%E5%B9%B4%E6%8C%87%E6%8E%A720%E5%A4%9A%E4%BD%8D%E6%AD%8C%E6%89%8B%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孙俪邓超曾在孩子面前抱头痛哭](https://www.baidu.com/s?wd=%E5%AD%99%E4%BF%AA%E9%82%93%E8%B6%85%E6%9B%BE%E5%9C%A8%E5%AD%A9%E5%AD%90%E9%9D%A2%E5%89%8D%E6%8A%B1%E5%A4%B4%E7%97%9B%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
