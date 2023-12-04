@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 14:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 14:59:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [五月天经纪公司回应演唱会假唱](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [天价母婴消费收割廉价爸妈](https://www.baidu.com/s?wd=%E5%A4%A9%E4%BB%B7%E6%AF%8D%E5%A9%B4%E6%B6%88%E8%B4%B9%E6%94%B6%E5%89%B2%E5%BB%89%E4%BB%B7%E7%88%B8%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子联系不上男友谎称男友嫖娼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%81%94%E7%B3%BB%E4%B8%8D%E4%B8%8A%E7%94%B7%E5%8F%8B%E8%B0%8E%E7%A7%B0%E7%94%B7%E5%8F%8B%E5%AB%96%E5%A8%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [京东回应承兴系俩萝卜章骗300亿](https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E5%9B%9E%E5%BA%94%E6%89%BF%E5%85%B4%E7%B3%BB%E4%BF%A9%E8%90%9D%E5%8D%9C%E7%AB%A0%E9%AA%97300%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [盘点明星假唱现场](https://www.baidu.com/s?wd=%E7%9B%98%E7%82%B9%E6%98%8E%E6%98%9F%E5%81%87%E5%94%B1%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [天价母婴消费收割廉价爸妈](https://www.baidu.com/s?wd=%E5%A4%A9%E4%BB%B7%E6%AF%8D%E5%A9%B4%E6%B6%88%E8%B4%B9%E6%94%B6%E5%89%B2%E5%BB%89%E4%BB%B7%E7%88%B8%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子联系不上男友谎称男友嫖娼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%81%94%E7%B3%BB%E4%B8%8D%E4%B8%8A%E7%94%B7%E5%8F%8B%E8%B0%8E%E7%A7%B0%E7%94%B7%E5%8F%8B%E5%AB%96%E5%A8%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [五月天经纪公司回应演唱会假唱](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [天价母婴消费收割廉价爸妈](https://www.baidu.com/s?wd=%E5%A4%A9%E4%BB%B7%E6%AF%8D%E5%A9%B4%E6%B6%88%E8%B4%B9%E6%94%B6%E5%89%B2%E5%BB%89%E4%BB%B7%E7%88%B8%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子联系不上男友谎称男友嫖娼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%81%94%E7%B3%BB%E4%B8%8D%E4%B8%8A%E7%94%B7%E5%8F%8B%E8%B0%8E%E7%A7%B0%E7%94%B7%E5%8F%8B%E5%AB%96%E5%A8%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [京东回应承兴系俩萝卜章骗300亿](https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E5%9B%9E%E5%BA%94%E6%89%BF%E5%85%B4%E7%B3%BB%E4%BF%A9%E8%90%9D%E5%8D%9C%E7%AB%A0%E9%AA%97300%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [盘点明星假唱现场](https://www.baidu.com/s?wd=%E7%9B%98%E7%82%B9%E6%98%8E%E6%98%9F%E5%81%87%E5%94%B1%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [天价母婴消费收割廉价爸妈](https://www.baidu.com/s?wd=%E5%A4%A9%E4%BB%B7%E6%AF%8D%E5%A9%B4%E6%B6%88%E8%B4%B9%E6%94%B6%E5%89%B2%E5%BB%89%E4%BB%B7%E7%88%B8%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子联系不上男友谎称男友嫖娼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%81%94%E7%B3%BB%E4%B8%8D%E4%B8%8A%E7%94%B7%E5%8F%8B%E8%B0%8E%E7%A7%B0%E7%94%B7%E5%8F%8B%E5%AB%96%E5%A8%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
