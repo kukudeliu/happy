@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 00:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 00:23:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [美好生活宪给你](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB%E5%AE%AA%E7%BB%99%E4%BD%A0%23&t=31&band_rank=3&Refer=top)<br />
 4. [五月天否认假唱](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%90%A6%E8%AE%A4%E5%81%87%E5%94%B1&t=31&band_rank=4&Refer=top)<br />
 5. [快过年了 不要再买了](https://s.weibo.com/weibo?q=%E5%BF%AB%E8%BF%87%E5%B9%B4%E4%BA%86%20%E4%B8%8D%E8%A6%81%E5%86%8D%E4%B9%B0%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
-6. [刘诗诗回应替身说](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E8%AF%B4&t=31&band_rank=6&Refer=top)<br />
-7. [一人花近10万买彩票中2亿](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E8%8A%B1%E8%BF%9110%E4%B8%87%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD2%E4%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
+6. [一人花近10万买彩票中2亿](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E8%8A%B1%E8%BF%9110%E4%B8%87%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD2%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
+7. [刘诗诗回应替身说](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E8%AF%B4&t=31&band_rank=7&Refer=top)<br />
 8. [断崖式衰老女子确诊卵巢早衰](https://s.weibo.com/weibo?q=%23%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0%23&t=31&band_rank=8&Refer=top)<br />
 9. [常华森秒删](https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%8D%8E%E6%A3%AE%E7%A7%92%E5%88%A0%23&t=31&band_rank=9&Refer=top)<br />
 
