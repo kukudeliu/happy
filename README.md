@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 18:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 18:41:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [彩民中2亿多且无需缴税？官方回应](https://www.baidu.com/s?wd=%E5%BD%A9%E6%B0%91%E4%B8%AD2%E4%BA%BF%E5%A4%9A%E4%B8%94%E6%97%A0%E9%9C%80%E7%BC%B4%E7%A8%8E%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [义乌回应倡议居民保持10天以上存粮](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E5%9B%9E%E5%BA%94%E5%80%A1%E8%AE%AE%E5%B1%85%E6%B0%91%E4%BF%9D%E6%8C%8110%E5%A4%A9%E4%BB%A5%E4%B8%8A%E5%AD%98%E7%B2%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [如何科学应对本轮呼吸道疾病？](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%BA%94%E5%AF%B9%E6%9C%AC%E8%BD%AE%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [乱港分子周庭弃保潜逃 外交部回应](https://www.baidu.com/s?wd=%E4%B9%B1%E6%B8%AF%E5%88%86%E5%AD%90%E5%91%A8%E5%BA%AD%E5%BC%83%E4%BF%9D%E6%BD%9C%E9%80%83+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [五月天经纪公司：假唱言论均为造谣](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%EF%BC%9A%E5%81%87%E5%94%B1%E8%A8%80%E8%AE%BA%E5%9D%87%E4%B8%BA%E9%80%A0%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网友：小叔才50岁就被社会淘汰了](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%EF%BC%9A%E5%B0%8F%E5%8F%94%E6%89%8D50%E5%B2%81%E5%B0%B1%E8%A2%AB%E7%A4%BE%E4%BC%9A%E6%B7%98%E6%B1%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [25岁宝妈两次高考上岸做到全班第一](https://www.baidu.com/s?wd=25%E5%B2%81%E5%AE%9D%E5%A6%88%E4%B8%A4%E6%AC%A1%E9%AB%98%E8%80%83%E4%B8%8A%E5%B2%B8%E5%81%9A%E5%88%B0%E5%85%A8%E7%8F%AD%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孙俪邓超曾在孩子面前抱头痛哭](https://www.baidu.com/s?wd=%E5%AD%99%E4%BF%AA%E9%82%93%E8%B6%85%E6%9B%BE%E5%9C%A8%E5%AD%A9%E5%AD%90%E9%9D%A2%E5%89%8D%E6%8A%B1%E5%A4%B4%E7%97%9B%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [彩民中2亿多且无需缴税？官方回应](https://www.baidu.com/s?wd=%E5%BD%A9%E6%B0%91%E4%B8%AD2%E4%BA%BF%E5%A4%9A%E4%B8%94%E6%97%A0%E9%9C%80%E7%BC%B4%E7%A8%8E%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [义乌回应倡议居民保持10天以上存粮](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E5%9B%9E%E5%BA%94%E5%80%A1%E8%AE%AE%E5%B1%85%E6%B0%91%E4%BF%9D%E6%8C%8110%E5%A4%A9%E4%BB%A5%E4%B8%8A%E5%AD%98%E7%B2%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [如何科学应对本轮呼吸道疾病？](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%BA%94%E5%AF%B9%E6%9C%AC%E8%BD%AE%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [乱港分子周庭弃保潜逃 外交部回应](https://www.baidu.com/s?wd=%E4%B9%B1%E6%B8%AF%E5%88%86%E5%AD%90%E5%91%A8%E5%BA%AD%E5%BC%83%E4%BF%9D%E6%BD%9C%E9%80%83+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [五月天经纪公司：假唱言论均为造谣](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%EF%BC%9A%E5%81%87%E5%94%B1%E8%A8%80%E8%AE%BA%E5%9D%87%E4%B8%BA%E9%80%A0%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网友：小叔才50岁就被社会淘汰了](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%EF%BC%9A%E5%B0%8F%E5%8F%94%E6%89%8D50%E5%B2%81%E5%B0%B1%E8%A2%AB%E7%A4%BE%E4%BC%9A%E6%B7%98%E6%B1%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [25岁宝妈两次高考上岸做到全班第一](https://www.baidu.com/s?wd=25%E5%B2%81%E5%AE%9D%E5%A6%88%E4%B8%A4%E6%AC%A1%E9%AB%98%E8%80%83%E4%B8%8A%E5%B2%B8%E5%81%9A%E5%88%B0%E5%85%A8%E7%8F%AD%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [孙俪邓超曾在孩子面前抱头痛哭](https://www.baidu.com/s?wd=%E5%AD%99%E4%BF%AA%E9%82%93%E8%B6%85%E6%9B%BE%E5%9C%A8%E5%AD%A9%E5%AD%90%E9%9D%A2%E5%89%8D%E6%8A%B1%E5%A4%B4%E7%97%9B%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
