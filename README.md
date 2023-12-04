@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 16:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 16:23:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [八段锦 慢性病](https://s.weibo.com/weibo?q=%E5%85%AB%E6%AE%B5%E9%94%A6%20%E6%85%A2%E6%80%A7%E7%97%85&t=31&band_rank=4&Refer=top)<br />
 5. [丁程鑫 中考](https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%20%E4%B8%AD%E8%80%83&t=31&band_rank=5&Refer=top)<br />
 6. [陈绮贞 五月天](https://s.weibo.com/weibo?q=%E9%99%88%E7%BB%AE%E8%B4%9E%20%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=6&Refer=top)<br />
-7. [林俊杰 下次请不要来我的演唱会](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E4%B8%8B%E6%AC%A1%E8%AF%B7%E4%B8%8D%E8%A6%81%E6%9D%A5%E6%88%91%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
-8. [GQ内涵](https://s.weibo.com/weibo?q=GQ%E5%86%85%E6%B6%B5&t=31&band_rank=8&Refer=top)<br />
+7. [GQ内涵](https://s.weibo.com/weibo?q=GQ%E5%86%85%E6%B6%B5&t=31&band_rank=7&Refer=top)<br />
+8. [林俊杰 下次请不要来我的演唱会](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E4%B8%8B%E6%AC%A1%E8%AF%B7%E4%B8%8D%E8%A6%81%E6%9D%A5%E6%88%91%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
 9. [珠海一男子持刀致3死后自杀](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E4%B8%80%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E8%87%B43%E6%AD%BB%E5%90%8E%E8%87%AA%E6%9D%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
