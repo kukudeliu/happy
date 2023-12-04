@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 11:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 11:27:01</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 
 > 百度  
 
-1. [如何深入推进长三角一体化发展](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E6%B7%B1%E5%85%A5%E6%8E%A8%E8%BF%9B%E9%95%BF%E4%B8%89%E8%A7%92%E4%B8%80%E4%BD%93%E5%8C%96%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平：聚焦建设五个中心重要使命](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E8%81%9A%E7%84%A6%E5%BB%BA%E8%AE%BE%E4%BA%94%E4%B8%AA%E4%B8%AD%E5%BF%83%E9%87%8D%E8%A6%81%E4%BD%BF%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [女子发现被舍友删后重加要回礼金](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E8%A2%AB%E8%88%8D%E5%8F%8B%E5%88%A0%E5%90%8E%E9%87%8D%E5%8A%A0%E8%A6%81%E5%9B%9E%E7%A4%BC%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [五月天上海演唱会吸金超6亿](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%B8%E9%87%91%E8%B6%856%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [谱写新时代中国宪法实践新篇章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E5%AE%9E%E8%B7%B5%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [越来越多人选择签“婚前协议”](https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%BA%E9%80%89%E6%8B%A9%E7%AD%BE%E2%80%9C%E5%A9%9A%E5%89%8D%E5%8D%8F%E8%AE%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子全网寻找僵尸车主人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%A8%E7%BD%91%E5%AF%BB%E6%89%BE%E5%83%B5%E5%B0%B8%E8%BD%A6%E4%B8%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,10 +29,10 @@
 
 > 哔哩哔哩  
 
-1. [如何深入推进长三角一体化发展](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E6%B7%B1%E5%85%A5%E6%8E%A8%E8%BF%9B%E9%95%BF%E4%B8%89%E8%A7%92%E4%B8%80%E4%BD%93%E5%8C%96%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平：聚焦建设五个中心重要使命](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E8%81%9A%E7%84%A6%E5%BB%BA%E8%AE%BE%E4%BA%94%E4%B8%AA%E4%B8%AD%E5%BF%83%E9%87%8D%E8%A6%81%E4%BD%BF%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [女子发现被舍友删后重加要回礼金](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E8%A2%AB%E8%88%8D%E5%8F%8B%E5%88%A0%E5%90%8E%E9%87%8D%E5%8A%A0%E8%A6%81%E5%9B%9E%E7%A4%BC%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [五月天上海演唱会吸金超6亿](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%B8%E9%87%91%E8%B6%856%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [谱写新时代中国宪法实践新篇章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E5%AE%9E%E8%B7%B5%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [越来越多人选择签“婚前协议”](https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%BA%E9%80%89%E6%8B%A9%E7%AD%BE%E2%80%9C%E5%A9%9A%E5%89%8D%E5%8D%8F%E8%AE%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子全网寻找僵尸车主人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%A8%E7%BD%91%E5%AF%BB%E6%89%BE%E5%83%B5%E5%B0%B8%E8%BD%A6%E4%B8%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
