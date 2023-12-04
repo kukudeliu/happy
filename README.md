@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 09:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 09:14:01</h4></div>
 
 > 微博  
 
-1. [相信音乐 五月天邀你见证现场](https://s.weibo.com/weibo?q=%E7%9B%B8%E4%BF%A1%E9%9F%B3%E4%B9%90%20%E4%BA%94%E6%9C%88%E5%A4%A9%E9%82%80%E4%BD%A0%E8%A7%81%E8%AF%81%E7%8E%B0%E5%9C%BA&t=31&band_rank=1&Refer=top)<br />
-2. [举报者称五月天下场直播是混淆视听](https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E8%80%85%E7%A7%B0%E4%BA%94%E6%9C%88%E5%A4%A9%E4%B8%8B%E5%9C%BA%E7%9B%B4%E6%92%AD%E6%98%AF%E6%B7%B7%E6%B7%86%E8%A7%86%E5%90%AC%23&t=31&band_rank=2&Refer=top)<br />
+1. [举报者称五月天下场直播是混淆视听](https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E8%80%85%E7%A7%B0%E4%BA%94%E6%9C%88%E5%A4%A9%E4%B8%8B%E5%9C%BA%E7%9B%B4%E6%92%AD%E6%98%AF%E6%B7%B7%E6%B7%86%E8%A7%86%E5%90%AC%23&t=31&band_rank=1&Refer=top)<br />
+2. [相信音乐 五月天邀你见证现场](https://s.weibo.com/weibo?q=%E7%9B%B8%E4%BF%A1%E9%9F%B3%E4%B9%90%20%E4%BA%94%E6%9C%88%E5%A4%A9%E9%82%80%E4%BD%A0%E8%A7%81%E8%AF%81%E7%8E%B0%E5%9C%BA&t=31&band_rank=2&Refer=top)<br />
 3. [新千里江山图](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [教师长期强奸5名女学生被执行死刑](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E9%95%BF%E6%9C%9F%E5%BC%BA%E5%A5%B85%E5%90%8D%E5%A5%B3%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [长期缺觉容易诱发这5种疾病](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%BC%BA%E8%A7%89%E5%AE%B9%E6%98%93%E8%AF%B1%E5%8F%91%E8%BF%995%E7%A7%8D%E7%96%BE%E7%97%85%23&t=31&band_rank=5&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [富豪寻子接上千电话 有人直接喊爸爸](https://www.baidu.com/s?wd=%E5%AF%8C%E8%B1%AA%E5%AF%BB%E5%AD%90%E6%8E%A5%E4%B8%8A%E5%8D%83%E7%94%B5%E8%AF%9D+%E6%9C%89%E4%BA%BA%E7%9B%B4%E6%8E%A5%E5%96%8A%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子发现被舍友删后重加要回礼金](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E8%A2%AB%E8%88%8D%E5%8F%8B%E5%88%A0%E5%90%8E%E9%87%8D%E5%8A%A0%E8%A6%81%E5%9B%9E%E7%A4%BC%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [烟酒店玻璃太干净 顾客接连撞上去](https://www.baidu.com/s?wd=%E7%83%9F%E9%85%92%E5%BA%97%E7%8E%BB%E7%92%83%E5%A4%AA%E5%B9%B2%E5%87%80+%E9%A1%BE%E5%AE%A2%E6%8E%A5%E8%BF%9E%E6%92%9E%E4%B8%8A%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [博士后当交警15年后突然火了](https://www.baidu.com/s?wd=%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%BD%93%E4%BA%A4%E8%AD%A615%E5%B9%B4%E5%90%8E%E7%AA%81%E7%84%B6%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [有人滥用“止咳药”丧失认知送医](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E6%BB%A5%E7%94%A8%E2%80%9C%E6%AD%A2%E5%92%B3%E8%8D%AF%E2%80%9D%E4%B8%A7%E5%A4%B1%E8%AE%A4%E7%9F%A5%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [富豪寻子接上千电话 有人直接喊爸爸](https://www.baidu.com/s?wd=%E5%AF%8C%E8%B1%AA%E5%AF%BB%E5%AD%90%E6%8E%A5%E4%B8%8A%E5%8D%83%E7%94%B5%E8%AF%9D+%E6%9C%89%E4%BA%BA%E7%9B%B4%E6%8E%A5%E5%96%8A%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子发现被舍友删后重加要回礼金](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E8%A2%AB%E8%88%8D%E5%8F%8B%E5%88%A0%E5%90%8E%E9%87%8D%E5%8A%A0%E8%A6%81%E5%9B%9E%E7%A4%BC%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [烟酒店玻璃太干净 顾客接连撞上去](https://www.baidu.com/s?wd=%E7%83%9F%E9%85%92%E5%BA%97%E7%8E%BB%E7%92%83%E5%A4%AA%E5%B9%B2%E5%87%80+%E9%A1%BE%E5%AE%A2%E6%8E%A5%E8%BF%9E%E6%92%9E%E4%B8%8A%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [博士后当交警15年后突然火了](https://www.baidu.com/s?wd=%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%BD%93%E4%BA%A4%E8%AD%A615%E5%B9%B4%E5%90%8E%E7%AA%81%E7%84%B6%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [有人滥用“止咳药”丧失认知送医](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E6%BB%A5%E7%94%A8%E2%80%9C%E6%AD%A2%E5%92%B3%E8%8D%AF%E2%80%9D%E4%B8%A7%E5%A4%B1%E8%AE%A4%E7%9F%A5%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
