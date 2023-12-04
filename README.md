@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 20:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 21:00:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [胡夏删视频](https://s.weibo.com/weibo?q=%E8%83%A1%E5%A4%8F%E5%88%A0%E8%A7%86%E9%A2%91&t=31&band_rank=4&Refer=top)<br />
 5. [林俊杰肖战合照](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E8%82%96%E6%88%98%E5%90%88%E7%85%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [虞书欣 戴森](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E6%88%B4%E6%A3%AE&t=31&band_rank=6&Refer=top)<br />
-7. [河南一家长在班级群发不雅视频](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E5%AE%B6%E9%95%BF%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [封神 补拍](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%20%E8%A1%A5%E6%8B%8D&t=31&band_rank=8&Refer=top)<br />
+7. [封神 补拍](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%20%E8%A1%A5%E6%8B%8D&t=31&band_rank=7&Refer=top)<br />
+8. [河南一家长在班级群发不雅视频](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E5%AE%B6%E9%95%BF%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%23&t=31&band_rank=8&Refer=top)<br />
 9. [八段锦 慢性病](https://s.weibo.com/weibo?q=%E5%85%AB%E6%AE%B5%E9%94%A6%20%E6%85%A2%E6%80%A7%E7%97%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,8 +23,8 @@
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小伙滑雪摔倒后大哭自称“失忆”](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E6%BB%91%E9%9B%AA%E6%91%94%E5%80%92%E5%90%8E%E5%A4%A7%E5%93%AD%E8%87%AA%E7%A7%B0%E2%80%9C%E5%A4%B1%E5%BF%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [起底“包治百病”的锻炼器](https://www.baidu.com/s?wd=%E8%B5%B7%E5%BA%95%E2%80%9C%E5%8C%85%E6%B2%BB%E7%99%BE%E7%97%85%E2%80%9D%E7%9A%84%E9%94%BB%E7%82%BC%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孙俪邓超曾在孩子面前抱头痛哭](https://www.baidu.com/s?wd=%E5%AD%99%E4%BF%AA%E9%82%93%E8%B6%85%E6%9B%BE%E5%9C%A8%E5%AD%A9%E5%AD%90%E9%9D%A2%E5%89%8D%E6%8A%B1%E5%A4%B4%E7%97%9B%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大连一钓鱼艇出海垂钓已致4人遇难](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E4%B8%80%E9%92%93%E9%B1%BC%E8%89%87%E5%87%BA%E6%B5%B7%E5%9E%82%E9%92%93%E5%B7%B2%E8%87%B44%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [起底“包治百病”的锻炼器](https://www.baidu.com/s?wd=%E8%B5%B7%E5%BA%95%E2%80%9C%E5%8C%85%E6%B2%BB%E7%99%BE%E7%97%85%E2%80%9D%E7%9A%84%E9%94%BB%E7%82%BC%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小伙滑雪摔倒后大哭自称“失忆”](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E6%BB%91%E9%9B%AA%E6%91%94%E5%80%92%E5%90%8E%E5%A4%A7%E5%93%AD%E8%87%AA%E7%A7%B0%E2%80%9C%E5%A4%B1%E5%BF%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [起底“包治百病”的锻炼器](https://www.baidu.com/s?wd=%E8%B5%B7%E5%BA%95%E2%80%9C%E5%8C%85%E6%B2%BB%E7%99%BE%E7%97%85%E2%80%9D%E7%9A%84%E9%94%BB%E7%82%BC%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孙俪邓超曾在孩子面前抱头痛哭](https://www.baidu.com/s?wd=%E5%AD%99%E4%BF%AA%E9%82%93%E8%B6%85%E6%9B%BE%E5%9C%A8%E5%AD%A9%E5%AD%90%E9%9D%A2%E5%89%8D%E6%8A%B1%E5%A4%B4%E7%97%9B%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大连一钓鱼艇出海垂钓已致4人遇难](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E4%B8%80%E9%92%93%E9%B1%BC%E8%89%87%E5%87%BA%E6%B5%B7%E5%9E%82%E9%92%93%E5%B7%B2%E8%87%B44%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [起底“包治百病”的锻炼器](https://www.baidu.com/s?wd=%E8%B5%B7%E5%BA%95%E2%80%9C%E5%8C%85%E6%B2%BB%E7%99%BE%E7%97%85%E2%80%9D%E7%9A%84%E9%94%BB%E7%82%BC%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
