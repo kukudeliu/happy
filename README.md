@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 14:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 14:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [五月天演唱会音视频已提交稽查部门](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E9%9F%B3%E8%A7%86%E9%A2%91%E5%B7%B2%E6%8F%90%E4%BA%A4%E7%A8%BD%E6%9F%A5%E9%83%A8%E9%97%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [汪文斌分享迪丽热巴新疆舞](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%96%B0%E7%96%86%E8%88%9E%23&t=31&band_rank=7&Refer=top)<br />
 8. [肯德基外送 打包费](https://s.weibo.com/weibo?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%A4%96%E9%80%81%20%E6%89%93%E5%8C%85%E8%B4%B9&t=31&band_rank=8&Refer=top)<br />
-9. [酱园弄 杨幂](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%20%E6%9D%A8%E5%B9%82&t=31&band_rank=9&Refer=top)<br />
+9. [小马云走红8年后](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%A9%AC%E4%BA%91%E8%B5%B0%E7%BA%A28%E5%B9%B4%E5%90%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
