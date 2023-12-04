@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 13:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 13:44:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子持刀伤人致3死后当场自杀](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E8%87%B43%E6%AD%BB%E5%90%8E%E5%BD%93%E5%9C%BA%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [云南部分乡镇倡议不搞“杀猪饭”](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E9%83%A8%E5%88%86%E4%B9%A1%E9%95%87%E5%80%A1%E8%AE%AE%E4%B8%8D%E6%90%9E%E2%80%9C%E6%9D%80%E7%8C%AA%E9%A5%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [95%的主播月收入低于5000元](https://www.baidu.com/s?wd=95%25%E7%9A%84%E4%B8%BB%E6%92%AD%E6%9C%88%E6%94%B6%E5%85%A5%E4%BD%8E%E4%BA%8E5000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [盘点明星假唱现场](https://www.baidu.com/s?wd=%E7%9B%98%E7%82%B9%E6%98%8E%E6%98%9F%E5%81%87%E5%94%B1%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [云南部分乡镇倡议不搞“杀猪饭”](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E9%83%A8%E5%88%86%E4%B9%A1%E9%95%87%E5%80%A1%E8%AE%AE%E4%B8%8D%E6%90%9E%E2%80%9C%E6%9D%80%E7%8C%AA%E9%A5%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子持刀伤人致3死后当场自杀](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E8%87%B43%E6%AD%BB%E5%90%8E%E5%BD%93%E5%9C%BA%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [云南部分乡镇倡议不搞“杀猪饭”](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E9%83%A8%E5%88%86%E4%B9%A1%E9%95%87%E5%80%A1%E8%AE%AE%E4%B8%8D%E6%90%9E%E2%80%9C%E6%9D%80%E7%8C%AA%E9%A5%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [95%的主播月收入低于5000元](https://www.baidu.com/s?wd=95%25%E7%9A%84%E4%B8%BB%E6%92%AD%E6%9C%88%E6%94%B6%E5%85%A5%E4%BD%8E%E4%BA%8E5000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [盘点明星假唱现场](https://www.baidu.com/s?wd=%E7%9B%98%E7%82%B9%E6%98%8E%E6%98%9F%E5%81%87%E5%94%B1%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [云南部分乡镇倡议不搞“杀猪饭”](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E9%83%A8%E5%88%86%E4%B9%A1%E9%95%87%E5%80%A1%E8%AE%AE%E4%B8%8D%E6%90%9E%E2%80%9C%E6%9D%80%E7%8C%AA%E9%A5%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
