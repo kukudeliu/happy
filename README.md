@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 14:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 14:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [天价母婴消费收割廉价爸妈](https://www.baidu.com/s?wd=%E5%A4%A9%E4%BB%B7%E6%AF%8D%E5%A9%B4%E6%B6%88%E8%B4%B9%E6%94%B6%E5%89%B2%E5%BB%89%E4%BB%B7%E7%88%B8%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子联系不上男友谎称男友嫖娼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%81%94%E7%B3%BB%E4%B8%8D%E4%B8%8A%E7%94%B7%E5%8F%8B%E8%B0%8E%E7%A7%B0%E7%94%B7%E5%8F%8B%E5%AB%96%E5%A8%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [举报者称五月天粉丝评论很可笑](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E8%80%85%E7%A7%B0%E4%BA%94%E6%9C%88%E5%A4%A9%E7%B2%89%E4%B8%9D%E8%AF%84%E8%AE%BA%E5%BE%88%E5%8F%AF%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [140斤女生减肥1年反胖50斤](https://www.baidu.com/s?wd=140%E6%96%A4%E5%A5%B3%E7%94%9F%E5%87%8F%E8%82%A51%E5%B9%B4%E5%8F%8D%E8%83%9650%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [天价母婴消费收割廉价爸妈](https://www.baidu.com/s?wd=%E5%A4%A9%E4%BB%B7%E6%AF%8D%E5%A9%B4%E6%B6%88%E8%B4%B9%E6%94%B6%E5%89%B2%E5%BB%89%E4%BB%B7%E7%88%B8%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子联系不上男友谎称男友嫖娼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%81%94%E7%B3%BB%E4%B8%8D%E4%B8%8A%E7%94%B7%E5%8F%8B%E8%B0%8E%E7%A7%B0%E7%94%B7%E5%8F%8B%E5%AB%96%E5%A8%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [举报者称五月天粉丝评论很可笑](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E8%80%85%E7%A7%B0%E4%BA%94%E6%9C%88%E5%A4%A9%E7%B2%89%E4%B8%9D%E8%AF%84%E8%AE%BA%E5%BE%88%E5%8F%AF%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [140斤女生减肥1年反胖50斤](https://www.baidu.com/s?wd=140%E6%96%A4%E5%A5%B3%E7%94%9F%E5%87%8F%E8%82%A51%E5%B9%B4%E5%8F%8D%E8%83%9650%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃辣能预防和治疗糖尿病？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E8%BE%A3%E8%83%BD%E9%A2%84%E9%98%B2%E5%92%8C%E6%B2%BB%E7%96%97%E7%B3%96%E5%B0%BF%E7%97%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
