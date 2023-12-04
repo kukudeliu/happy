@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 10:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 10:38:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子发现被舍友删后重加要回礼金](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E8%A2%AB%E8%88%8D%E5%8F%8B%E5%88%A0%E5%90%8E%E9%87%8D%E5%8A%A0%E8%A6%81%E5%9B%9E%E7%A4%BC%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [烟酒店玻璃太干净 顾客接连撞上去](https://www.baidu.com/s?wd=%E7%83%9F%E9%85%92%E5%BA%97%E7%8E%BB%E7%92%83%E5%A4%AA%E5%B9%B2%E5%87%80+%E9%A1%BE%E5%AE%A2%E6%8E%A5%E8%BF%9E%E6%92%9E%E4%B8%8A%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国军舰和多艘商船在红海遭袭](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%86%9B%E8%88%B0%E5%92%8C%E5%A4%9A%E8%89%98%E5%95%86%E8%88%B9%E5%9C%A8%E7%BA%A2%E6%B5%B7%E9%81%AD%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [越来越多人选择签“婚前协议”](https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%BA%E9%80%89%E6%8B%A9%E7%AD%BE%E2%80%9C%E5%A9%9A%E5%89%8D%E5%8D%8F%E8%AE%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子发现被舍友删后重加要回礼金](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E8%A2%AB%E8%88%8D%E5%8F%8B%E5%88%A0%E5%90%8E%E9%87%8D%E5%8A%A0%E8%A6%81%E5%9B%9E%E7%A4%BC%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [烟酒店玻璃太干净 顾客接连撞上去](https://www.baidu.com/s?wd=%E7%83%9F%E9%85%92%E5%BA%97%E7%8E%BB%E7%92%83%E5%A4%AA%E5%B9%B2%E5%87%80+%E9%A1%BE%E5%AE%A2%E6%8E%A5%E8%BF%9E%E6%92%9E%E4%B8%8A%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国军舰和多艘商船在红海遭袭](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%86%9B%E8%88%B0%E5%92%8C%E5%A4%9A%E8%89%98%E5%95%86%E8%88%B9%E5%9C%A8%E7%BA%A2%E6%B5%B7%E9%81%AD%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [越来越多人选择签“婚前协议”](https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%BA%E9%80%89%E6%8B%A9%E7%AD%BE%E2%80%9C%E5%A9%9A%E5%89%8D%E5%8D%8F%E8%AE%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
