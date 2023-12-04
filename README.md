@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 01:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 01:33:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华春莹发布卢卡申科打冰球视频](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%8F%91%E5%B8%83%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%89%93%E5%86%B0%E7%90%83%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体：医院对账单不能都靠博士来查](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%8C%BB%E9%99%A2%E5%AF%B9%E8%B4%A6%E5%8D%95%E4%B8%8D%E8%83%BD%E9%83%BD%E9%9D%A0%E5%8D%9A%E5%A3%AB%E6%9D%A5%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [节目录制中被紧急送医 男歌手回应](https://www.baidu.com/s?wd=%E8%8A%82%E7%9B%AE%E5%BD%95%E5%88%B6%E4%B8%AD%E8%A2%AB%E7%B4%A7%E6%80%A5%E9%80%81%E5%8C%BB+%E7%94%B7%E6%AD%8C%E6%89%8B%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州加油站已进化到机器人加油](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%8A%A0%E6%B2%B9%E7%AB%99%E5%B7%B2%E8%BF%9B%E5%8C%96%E5%88%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杭州加油站已进化到机器人加油](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%8A%A0%E6%B2%B9%E7%AB%99%E5%B7%B2%E8%BF%9B%E5%8C%96%E5%88%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [节目录制中被紧急送医 男歌手回应](https://www.baidu.com/s?wd=%E8%8A%82%E7%9B%AE%E5%BD%95%E5%88%B6%E4%B8%AD%E8%A2%AB%E7%B4%A7%E6%80%A5%E9%80%81%E5%8C%BB+%E7%94%B7%E6%AD%8C%E6%89%8B%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华春莹发布卢卡申科打冰球视频](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%8F%91%E5%B8%83%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%89%93%E5%86%B0%E7%90%83%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体：医院对账单不能都靠博士来查](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%8C%BB%E9%99%A2%E5%AF%B9%E8%B4%A6%E5%8D%95%E4%B8%8D%E8%83%BD%E9%83%BD%E9%9D%A0%E5%8D%9A%E5%A3%AB%E6%9D%A5%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [节目录制中被紧急送医 男歌手回应](https://www.baidu.com/s?wd=%E8%8A%82%E7%9B%AE%E5%BD%95%E5%88%B6%E4%B8%AD%E8%A2%AB%E7%B4%A7%E6%80%A5%E9%80%81%E5%8C%BB+%E7%94%B7%E6%AD%8C%E6%89%8B%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州加油站已进化到机器人加油](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%8A%A0%E6%B2%B9%E7%AB%99%E5%B7%B2%E8%BF%9B%E5%8C%96%E5%88%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杭州加油站已进化到机器人加油](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%8A%A0%E6%B2%B9%E7%AB%99%E5%B7%B2%E8%BF%9B%E5%8C%96%E5%88%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8A%A0%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [节目录制中被紧急送医 男歌手回应](https://www.baidu.com/s?wd=%E8%8A%82%E7%9B%AE%E5%BD%95%E5%88%B6%E4%B8%AD%E8%A2%AB%E7%B4%A7%E6%80%A5%E9%80%81%E5%8C%BB+%E7%94%B7%E6%AD%8C%E6%89%8B%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
