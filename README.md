@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 03:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 03:18:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [乱港分子周庭弃保潜逃 外交部回应](https://www.baidu.com/s?wd=%E4%B9%B1%E6%B8%AF%E5%88%86%E5%AD%90%E5%91%A8%E5%BA%AD%E5%BC%83%E4%BF%9D%E6%BD%9C%E9%80%83+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华春莹发布卢卡申科打冰球视频](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%8F%91%E5%B8%83%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%89%93%E5%86%B0%E7%90%83%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子联系不上男友谎称男友嫖娼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%81%94%E7%B3%BB%E4%B8%8D%E4%B8%8A%E7%94%B7%E5%8F%8B%E8%B0%8E%E7%A7%B0%E7%94%B7%E5%8F%8B%E5%AB%96%E5%A8%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [余承东现场玩转“巨幕手机”](https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E7%8E%B0%E5%9C%BA%E7%8E%A9%E8%BD%AC%E2%80%9C%E5%B7%A8%E5%B9%95%E6%89%8B%E6%9C%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [喜茶“佛喜”茶拿铁涉嫌违反条例](https://www.baidu.com/s?wd=%E5%96%9C%E8%8C%B6%E2%80%9C%E4%BD%9B%E5%96%9C%E2%80%9D%E8%8C%B6%E6%8B%BF%E9%93%81%E6%B6%89%E5%AB%8C%E8%BF%9D%E5%8F%8D%E6%9D%A1%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [水亦诗高调宣布再就业](https://www.baidu.com/s?wd=%E6%B0%B4%E4%BA%A6%E8%AF%97%E9%AB%98%E8%B0%83%E5%AE%A3%E5%B8%83%E5%86%8D%E5%B0%B1%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子跳河拒救援 上岸后被路人扇巴掌](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%B3%E6%B2%B3%E6%8B%92%E6%95%91%E6%8F%B4+%E4%B8%8A%E5%B2%B8%E5%90%8E%E8%A2%AB%E8%B7%AF%E4%BA%BA%E6%89%87%E5%B7%B4%E6%8E%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [乱港分子周庭弃保潜逃 外交部回应](https://www.baidu.com/s?wd=%E4%B9%B1%E6%B8%AF%E5%88%86%E5%AD%90%E5%91%A8%E5%BA%AD%E5%BC%83%E4%BF%9D%E6%BD%9C%E9%80%83+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华春莹发布卢卡申科打冰球视频](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%8F%91%E5%B8%83%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%89%93%E5%86%B0%E7%90%83%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子联系不上男友谎称男友嫖娼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%81%94%E7%B3%BB%E4%B8%8D%E4%B8%8A%E7%94%B7%E5%8F%8B%E8%B0%8E%E7%A7%B0%E7%94%B7%E5%8F%8B%E5%AB%96%E5%A8%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [余承东现场玩转“巨幕手机”](https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E7%8E%B0%E5%9C%BA%E7%8E%A9%E8%BD%AC%E2%80%9C%E5%B7%A8%E5%B9%95%E6%89%8B%E6%9C%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [喜茶“佛喜”茶拿铁涉嫌违反条例](https://www.baidu.com/s?wd=%E5%96%9C%E8%8C%B6%E2%80%9C%E4%BD%9B%E5%96%9C%E2%80%9D%E8%8C%B6%E6%8B%BF%E9%93%81%E6%B6%89%E5%AB%8C%E8%BF%9D%E5%8F%8D%E6%9D%A1%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [水亦诗高调宣布再就业](https://www.baidu.com/s?wd=%E6%B0%B4%E4%BA%A6%E8%AF%97%E9%AB%98%E8%B0%83%E5%AE%A3%E5%B8%83%E5%86%8D%E5%B0%B1%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子跳河拒救援 上岸后被路人扇巴掌](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%B3%E6%B2%B3%E6%8B%92%E6%95%91%E6%8F%B4+%E4%B8%8A%E5%B2%B8%E5%90%8E%E8%A2%AB%E8%B7%AF%E4%BA%BA%E6%89%87%E5%B7%B4%E6%8E%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
