@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 14:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 14:26:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [习近平：聚焦建设五个中心重要使命](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E8%81%9A%E7%84%A6%E5%BB%BA%E8%AE%BE%E4%BA%94%E4%B8%AA%E4%B8%AD%E5%BF%83%E9%87%8D%E8%A6%81%E4%BD%BF%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [女子发现被舍友删后重加要回礼金](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E8%A2%AB%E8%88%8D%E5%8F%8B%E5%88%A0%E5%90%8E%E9%87%8D%E5%8A%A0%E8%A6%81%E5%9B%9E%E7%A4%BC%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [五月天上海演唱会吸金超6亿](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%B8%E9%87%91%E8%B6%856%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [五月天经纪公司回应演唱会假唱](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [徐峰立因侵权张艺兴被强执3.8万](https://www.baidu.com/s?wd=%E5%BE%90%E5%B3%B0%E7%AB%8B%E5%9B%A0%E4%BE%B5%E6%9D%83%E5%BC%A0%E8%89%BA%E5%85%B4%E8%A2%AB%E5%BC%BA%E6%89%A73.8%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [习近平：聚焦建设五个中心重要使命](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E8%81%9A%E7%84%A6%E5%BB%BA%E8%AE%BE%E4%BA%94%E4%B8%AA%E4%B8%AD%E5%BF%83%E9%87%8D%E8%A6%81%E4%BD%BF%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [女子发现被舍友删后重加要回礼金](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E8%A2%AB%E8%88%8D%E5%8F%8B%E5%88%A0%E5%90%8E%E9%87%8D%E5%8A%A0%E8%A6%81%E5%9B%9E%E7%A4%BC%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [五月天上海演唱会吸金超6亿](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%B8%E9%87%91%E8%B6%856%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [五月天经纪公司回应演唱会假唱](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [勇当科技和产业创新先锋](https://www.baidu.com/s?wd=%E5%8B%87%E5%BD%93%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E5%85%88%E9%94%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [徐峰立因侵权张艺兴被强执3.8万](https://www.baidu.com/s?wd=%E5%BE%90%E5%B3%B0%E7%AB%8B%E5%9B%A0%E4%BE%B5%E6%9D%83%E5%BC%A0%E8%89%BA%E5%85%B4%E8%A2%AB%E5%BC%BA%E6%89%A73.8%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
