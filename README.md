@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 21:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 21:12:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [彩民中2亿多且无需缴税？官方回应](https://www.baidu.com/s?wd=%E5%BD%A9%E6%B0%91%E4%B8%AD2%E4%BA%BF%E5%A4%9A%E4%B8%94%E6%97%A0%E9%9C%80%E7%BC%B4%E7%A8%8E%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子网恋转账百万发现女友已婚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BD%91%E6%81%8B%E8%BD%AC%E8%B4%A6%E7%99%BE%E4%B8%87%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%8F%8B%E5%B7%B2%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [淄博采购滞销白菜免费发放给市民](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E9%87%87%E8%B4%AD%E6%BB%9E%E9%94%80%E7%99%BD%E8%8F%9C%E5%85%8D%E8%B4%B9%E5%8F%91%E6%94%BE%E7%BB%99%E5%B8%82%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大连一钓鱼艇出海垂钓已致4人遇难](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E4%B8%80%E9%92%93%E9%B1%BC%E8%89%87%E5%87%BA%E6%B5%B7%E5%9E%82%E9%92%93%E5%B7%B2%E8%87%B44%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [淄博采购滞销白菜免费发放给市民](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E9%87%87%E8%B4%AD%E6%BB%9E%E9%94%80%E7%99%BD%E8%8F%9C%E5%85%8D%E8%B4%B9%E5%8F%91%E6%94%BE%E7%BB%99%E5%B8%82%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [有人滥用“止咳药”丧失认知送医](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E6%BB%A5%E7%94%A8%E2%80%9C%E6%AD%A2%E5%92%B3%E8%8D%AF%E2%80%9D%E4%B8%A7%E5%A4%B1%E8%AE%A4%E7%9F%A5%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [彩民中2亿多且无需缴税？官方回应](https://www.baidu.com/s?wd=%E5%BD%A9%E6%B0%91%E4%B8%AD2%E4%BA%BF%E5%A4%9A%E4%B8%94%E6%97%A0%E9%9C%80%E7%BC%B4%E7%A8%8E%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子网恋转账百万发现女友已婚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BD%91%E6%81%8B%E8%BD%AC%E8%B4%A6%E7%99%BE%E4%B8%87%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%8F%8B%E5%B7%B2%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [淄博采购滞销白菜免费发放给市民](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E9%87%87%E8%B4%AD%E6%BB%9E%E9%94%80%E7%99%BD%E8%8F%9C%E5%85%8D%E8%B4%B9%E5%8F%91%E6%94%BE%E7%BB%99%E5%B8%82%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [大连一钓鱼艇出海垂钓已致4人遇难](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E4%B8%80%E9%92%93%E9%B1%BC%E8%89%87%E5%87%BA%E6%B5%B7%E5%9E%82%E9%92%93%E5%B7%B2%E8%87%B44%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [淄博采购滞销白菜免费发放给市民](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E9%87%87%E8%B4%AD%E6%BB%9E%E9%94%80%E7%99%BD%E8%8F%9C%E5%85%8D%E8%B4%B9%E5%8F%91%E6%94%BE%E7%BB%99%E5%B8%82%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [有人滥用“止咳药”丧失认知送医](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E6%BB%A5%E7%94%A8%E2%80%9C%E6%AD%A2%E5%92%B3%E8%8D%AF%E2%80%9D%E4%B8%A7%E5%A4%B1%E8%AE%A4%E7%9F%A5%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
