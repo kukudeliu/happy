@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 00:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 00:33:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [华春莹发布卢卡申科打冰球视频](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%8F%91%E5%B8%83%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%89%93%E5%86%B0%E7%90%83%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [A股“新晋国家队”中国国新是谁](https://www.baidu.com/s?wd=A%E8%82%A1%E2%80%9C%E6%96%B0%E6%99%8B%E5%9B%BD%E5%AE%B6%E9%98%9F%E2%80%9D%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%96%B0%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡夏删除玩梗舞蹈视频](https://www.baidu.com/s?wd=%E8%83%A1%E5%A4%8F%E5%88%A0%E9%99%A4%E7%8E%A9%E6%A2%97%E8%88%9E%E8%B9%88%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [经销商用农药熏蒸粮食致邻居4人中毒](https://www.baidu.com/s?wd=%E7%BB%8F%E9%94%80%E5%95%86%E7%94%A8%E5%86%9C%E8%8D%AF%E7%86%8F%E8%92%B8%E7%B2%AE%E9%A3%9F%E8%87%B4%E9%82%BB%E5%B1%854%E4%BA%BA%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [喜茶“佛喜”茶拿铁涉嫌违反条例](https://www.baidu.com/s?wd=%E5%96%9C%E8%8C%B6%E2%80%9C%E4%BD%9B%E5%96%9C%E2%80%9D%E8%8C%B6%E6%8B%BF%E9%93%81%E6%B6%89%E5%AB%8C%E8%BF%9D%E5%8F%8D%E6%9D%A1%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [华春莹发布卢卡申科打冰球视频](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%8F%91%E5%B8%83%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%89%93%E5%86%B0%E7%90%83%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [A股“新晋国家队”中国国新是谁](https://www.baidu.com/s?wd=A%E8%82%A1%E2%80%9C%E6%96%B0%E6%99%8B%E5%9B%BD%E5%AE%B6%E9%98%9F%E2%80%9D%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%96%B0%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡夏删除玩梗舞蹈视频](https://www.baidu.com/s?wd=%E8%83%A1%E5%A4%8F%E5%88%A0%E9%99%A4%E7%8E%A9%E6%A2%97%E8%88%9E%E8%B9%88%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [经销商用农药熏蒸粮食致邻居4人中毒](https://www.baidu.com/s?wd=%E7%BB%8F%E9%94%80%E5%95%86%E7%94%A8%E5%86%9C%E8%8D%AF%E7%86%8F%E8%92%B8%E7%B2%AE%E9%A3%9F%E8%87%B4%E9%82%BB%E5%B1%854%E4%BA%BA%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [喜茶“佛喜”茶拿铁涉嫌违反条例](https://www.baidu.com/s?wd=%E5%96%9C%E8%8C%B6%E2%80%9C%E4%BD%9B%E5%96%9C%E2%80%9D%E8%8C%B6%E6%8B%BF%E9%93%81%E6%B6%89%E5%AB%8C%E8%BF%9D%E5%8F%8D%E6%9D%A1%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
