@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 07:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 07:58:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [美好生活宪给你](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB%E5%AE%AA%E7%BB%99%E4%BD%A0%23&t=31&band_rank=3&Refer=top)<br />
 4. [断崖式衰老女子确诊卵巢早衰](https://s.weibo.com/weibo?q=%23%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [刘若英 我爱五月天](https://s.weibo.com/weibo?q=%E5%88%98%E8%8B%A5%E8%8B%B1%20%E6%88%91%E7%88%B1%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=5&Refer=top)<br />
-6. [快过年了 不要再买了](https://s.weibo.com/weibo?q=%E5%BF%AB%E8%BF%87%E5%B9%B4%E4%BA%86%20%E4%B8%8D%E8%A6%81%E5%86%8D%E4%B9%B0%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [卵巢早衰](https://s.weibo.com/weibo?q=%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0&t=31&band_rank=7&Refer=top)<br />
+6. [卵巢早衰](https://s.weibo.com/weibo?q=%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0&t=31&band_rank=6&Refer=top)<br />
+7. [快过年了 不要再买了](https://s.weibo.com/weibo?q=%E5%BF%AB%E8%BF%87%E5%B9%B4%E4%BA%86%20%E4%B8%8D%E8%A6%81%E5%86%8D%E4%B9%B0%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [刘诗诗回应替身说](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E8%AF%B4&t=31&band_rank=8&Refer=top)<br />
 9. [手机贴膜 智商税](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E8%B4%B4%E8%86%9C%20%E6%99%BA%E5%95%86%E7%A8%8E&t=31&band_rank=9&Refer=top)<br />
 
