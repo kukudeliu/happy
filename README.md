@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 11:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-04 11:14:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [穿越机视角瞰巍峨古长城](https://s.weibo.com/weibo?q=%23%E7%A9%BF%E8%B6%8A%E6%9C%BA%E8%A7%86%E8%A7%92%E7%9E%B0%E5%B7%8D%E5%B3%A8%E5%8F%A4%E9%95%BF%E5%9F%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [瑞幸 泰假](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%20%E6%B3%B0%E5%81%87&t=31&band_rank=4&Refer=top)<br />
 5. [周一围说朱丹的描述有误导倾向](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B8%80%E5%9B%B4%E8%AF%B4%E6%9C%B1%E4%B8%B9%E7%9A%84%E6%8F%8F%E8%BF%B0%E6%9C%89%E8%AF%AF%E5%AF%BC%E5%80%BE%E5%90%91%23&t=31&band_rank=5&Refer=top)<br />
-6. [腾讯会员 没了](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E4%BC%9A%E5%91%98%20%E6%B2%A1%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+6. [林俊杰 下次请不要来我的演唱会](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E4%B8%8B%E6%AC%A1%E8%AF%B7%E4%B8%8D%E8%A6%81%E6%9D%A5%E6%88%91%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
 7. [教师长期强奸5名女学生被执行死刑](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E9%95%BF%E6%9C%9F%E5%BC%BA%E5%A5%B85%E5%90%8D%E5%A5%B3%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘诗诗刘宇宁 史密斯夫妇](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%88%98%E5%AE%87%E5%AE%81%20%E5%8F%B2%E5%AF%86%E6%96%AF%E5%A4%AB%E5%A6%87&t=31&band_rank=8&Refer=top)<br />
-9. [奥司他韦医院定价仅需20元](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%8F%B8%E4%BB%96%E9%9F%A6%E5%8C%BB%E9%99%A2%E5%AE%9A%E4%BB%B7%E4%BB%85%E9%9C%8020%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [腾讯会员 没了](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E4%BC%9A%E5%91%98%20%E6%B2%A1%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,7 +23,7 @@
 4. [谱写新时代中国宪法实践新篇章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E5%AE%9E%E8%B7%B5%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [越来越多人选择签“婚前协议”](https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%BA%E9%80%89%E6%8B%A9%E7%AD%BE%E2%80%9C%E5%A9%9A%E5%89%8D%E5%8D%8F%E8%AE%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [上海下周最高温可达20℃](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%8B%E5%91%A8%E6%9C%80%E9%AB%98%E6%B8%A9%E5%8F%AF%E8%BE%BE20%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子全网寻找僵尸车主人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%A8%E7%BD%91%E5%AF%BB%E6%89%BE%E5%83%B5%E5%B0%B8%E8%BD%A6%E4%B8%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [140斤女生减肥1年反胖50斤](https://www.baidu.com/s?wd=140%E6%96%A4%E5%A5%B3%E7%94%9F%E5%87%8F%E8%82%A51%E5%B9%B4%E5%8F%8D%E8%83%9650%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [谱写新时代中国宪法实践新篇章](https://www.baidu.com/s?wd=%E8%B0%B1%E5%86%99%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E5%AE%9E%E8%B7%B5%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子自称20天内“老了30多岁”](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B020%E5%A4%A9%E5%86%85%E2%80%9C%E8%80%81%E4%BA%8630%E5%A4%9A%E5%B2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [越来越多人选择签“婚前协议”](https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%BA%E9%80%89%E6%8B%A9%E7%AD%BE%E2%80%9C%E5%A9%9A%E5%89%8D%E5%8D%8F%E8%AE%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [上海下周最高温可达20℃](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%8B%E5%91%A8%E6%9C%80%E9%AB%98%E6%B8%A9%E5%8F%AF%E8%BE%BE20%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子全网寻找僵尸车主人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%A8%E7%BD%91%E5%AF%BB%E6%89%BE%E5%83%B5%E5%B0%B8%E8%BD%A6%E4%B8%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [140斤女生减肥1年反胖50斤](https://www.baidu.com/s?wd=140%E6%96%A4%E5%A5%B3%E7%94%9F%E5%87%8F%E8%82%A51%E5%B9%B4%E5%8F%8D%E8%83%9650%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一家四口因烧炭中毒？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%9B%A0%E7%83%A7%E7%82%AD%E4%B8%AD%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
