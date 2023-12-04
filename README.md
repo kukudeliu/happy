@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 00:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 00:39:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [五月天否认假唱](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%90%A6%E8%AE%A4%E5%81%87%E5%94%B1&t=31&band_rank=4&Refer=top)<br />
 5. [快过年了 不要再买了](https://s.weibo.com/weibo?q=%E5%BF%AB%E8%BF%87%E5%B9%B4%E4%BA%86%20%E4%B8%8D%E8%A6%81%E5%86%8D%E4%B9%B0%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [刘诗诗回应替身说](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E8%AF%B4&t=31&band_rank=6&Refer=top)<br />
-7. [一人花近10万买彩票中2亿](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E8%8A%B1%E8%BF%9110%E4%B8%87%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD2%E4%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [上海文旅局正鉴定五月天演唱会原始音视频](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%87%E6%97%85%E5%B1%80%E6%AD%A3%E9%89%B4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8E%9F%E5%A7%8B%E9%9F%B3%E8%A7%86%E9%A2%91%23&t=31&band_rank=8&Refer=top)<br />
+7. [上海文旅局正鉴定五月天演唱会原始音视频](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%87%E6%97%85%E5%B1%80%E6%AD%A3%E9%89%B4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8E%9F%E5%A7%8B%E9%9F%B3%E8%A7%86%E9%A2%91%23&t=31&band_rank=7&Refer=top)<br />
+8. [一人花近10万买彩票中2亿](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E8%8A%B1%E8%BF%9110%E4%B8%87%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD2%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
 9. [断崖式衰老女子确诊卵巢早衰](https://s.weibo.com/weibo?q=%23%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,9 +22,9 @@
 3. [乱港分子周庭弃保潜逃 外交部回应](https://www.baidu.com/s?wd=%E4%B9%B1%E6%B8%AF%E5%88%86%E5%AD%90%E5%91%A8%E5%BA%AD%E5%BC%83%E4%BF%9D%E6%BD%9C%E9%80%83+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华春莹发布卢卡申科打冰球视频](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%8F%91%E5%B8%83%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%89%93%E5%86%B0%E7%90%83%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [A股“新晋国家队”中国国新是谁](https://www.baidu.com/s?wd=A%E8%82%A1%E2%80%9C%E6%96%B0%E6%99%8B%E5%9B%BD%E5%AE%B6%E9%98%9F%E2%80%9D%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%96%B0%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [胡夏删除玩梗舞蹈视频](https://www.baidu.com/s?wd=%E8%83%A1%E5%A4%8F%E5%88%A0%E9%99%A4%E7%8E%A9%E6%A2%97%E8%88%9E%E8%B9%88%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方正鉴定五月天演唱会原始音视频](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E6%AD%A3%E9%89%B4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8E%9F%E5%A7%8B%E9%9F%B3%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [小伙滑雪摔倒后大哭自称“失忆”](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E6%BB%91%E9%9B%AA%E6%91%94%E5%80%92%E5%90%8E%E5%A4%A7%E5%93%AD%E8%87%AA%E7%A7%B0%E2%80%9C%E5%A4%B1%E5%BF%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方正鉴定五月天演唱会原始音视频](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E6%AD%A3%E9%89%B4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8E%9F%E5%A7%8B%E9%9F%B3%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马斯克：特斯拉和SpaceX开放专利](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E5%92%8CSpaceX%E5%BC%80%E6%94%BE%E4%B8%93%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [乱港分子周庭弃保潜逃 外交部回应](https://www.baidu.com/s?wd=%E4%B9%B1%E6%B8%AF%E5%88%86%E5%AD%90%E5%91%A8%E5%BA%AD%E5%BC%83%E4%BF%9D%E6%BD%9C%E9%80%83+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华春莹发布卢卡申科打冰球视频](https://www.baidu.com/s?wd=%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%8F%91%E5%B8%83%E5%8D%A2%E5%8D%A1%E7%94%B3%E7%A7%91%E6%89%93%E5%86%B0%E7%90%83%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [A股“新晋国家队”中国国新是谁](https://www.baidu.com/s?wd=A%E8%82%A1%E2%80%9C%E6%96%B0%E6%99%8B%E5%9B%BD%E5%AE%B6%E9%98%9F%E2%80%9D%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%96%B0%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [胡夏删除玩梗舞蹈视频](https://www.baidu.com/s?wd=%E8%83%A1%E5%A4%8F%E5%88%A0%E9%99%A4%E7%8E%A9%E6%A2%97%E8%88%9E%E8%B9%88%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方正鉴定五月天演唱会原始音视频](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E6%AD%A3%E9%89%B4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8E%9F%E5%A7%8B%E9%9F%B3%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [小伙滑雪摔倒后大哭自称“失忆”](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E6%BB%91%E9%9B%AA%E6%91%94%E5%80%92%E5%90%8E%E5%A4%A7%E5%93%AD%E8%87%AA%E7%A7%B0%E2%80%9C%E5%A4%B1%E5%BF%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [官方正鉴定五月天演唱会原始音视频](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E6%AD%A3%E9%89%B4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8E%9F%E5%A7%8B%E9%9F%B3%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马斯克：特斯拉和SpaceX开放专利](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E5%92%8CSpaceX%E5%BC%80%E6%94%BE%E4%B8%93%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [马路盲道像贴纸？河南濮阳辟谣](https://www.baidu.com/s?wd=%E9%A9%AC%E8%B7%AF%E7%9B%B2%E9%81%93%E5%83%8F%E8%B4%B4%E7%BA%B8%EF%BC%9F%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
