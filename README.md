@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 15:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 15:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [杨鸣唐佳良离婚](https://www.baidu.com/s?wd=%E6%9D%A8%E9%B8%A3%E5%94%90%E4%BD%B3%E8%89%AF%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [湖南一县委书记坠江身亡](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [厦门2名教师被指强奸大四女生](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A82%E5%90%8D%E6%95%99%E5%B8%88%E8%A2%AB%E6%8C%87%E5%BC%BA%E5%A5%B8%E5%A4%A7%E5%9B%9B%E5%A5%B3%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子跳河拒救援 上岸后被路人扇巴掌](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%B3%E6%B2%B3%E6%8B%92%E6%95%91%E6%8F%B4+%E4%B8%8A%E5%B2%B8%E5%90%8E%E8%A2%AB%E8%B7%AF%E4%BA%BA%E6%89%87%E5%B7%B4%E6%8E%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [公职人员开保时捷堵小区门 官方回应](https://www.baidu.com/s?wd=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%BC%80%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A0%B5%E5%B0%8F%E5%8C%BA%E9%97%A8+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [世界卫生组织称有“神秘肺炎”？](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E5%8D%AB%E7%94%9F%E7%BB%84%E7%BB%87%E7%A7%B0%E6%9C%89%E2%80%9C%E7%A5%9E%E7%A7%98%E8%82%BA%E7%82%8E%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [杨鸣唐佳良离婚](https://www.baidu.com/s?wd=%E6%9D%A8%E9%B8%A3%E5%94%90%E4%BD%B3%E8%89%AF%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [湖南一县委书记坠江身亡](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [厦门2名教师被指强奸大四女生](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A82%E5%90%8D%E6%95%99%E5%B8%88%E8%A2%AB%E6%8C%87%E5%BC%BA%E5%A5%B8%E5%A4%A7%E5%9B%9B%E5%A5%B3%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子跳河拒救援 上岸后被路人扇巴掌](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B7%B3%E6%B2%B3%E6%8B%92%E6%95%91%E6%8F%B4+%E4%B8%8A%E5%B2%B8%E5%90%8E%E8%A2%AB%E8%B7%AF%E4%BA%BA%E6%89%87%E5%B7%B4%E6%8E%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [公职人员开保时捷堵小区门 官方回应](https://www.baidu.com/s?wd=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%BC%80%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A0%B5%E5%B0%8F%E5%8C%BA%E9%97%A8+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [世界卫生组织称有“神秘肺炎”？](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E5%8D%AB%E7%94%9F%E7%BB%84%E7%BB%87%E7%A7%B0%E6%9C%89%E2%80%9C%E7%A5%9E%E7%A7%98%E8%82%BA%E7%82%8E%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
