@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 15:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 15:10:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [告五人 五月天](https://s.weibo.com/weibo?q=%E5%91%8A%E4%BA%94%E4%BA%BA%20%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=5&Refer=top)<br />
 6. [卡琳娜 长沙漫展](https://s.weibo.com/weibo?q=%E5%8D%A1%E7%90%B3%E5%A8%9C%20%E9%95%BF%E6%B2%99%E6%BC%AB%E5%B1%95&t=31&band_rank=6&Refer=top)<br />
 7. [他想避世她想入世](https://s.weibo.com/weibo?q=%23%E4%BB%96%E6%83%B3%E9%81%BF%E4%B8%96%E5%A5%B9%E6%83%B3%E5%85%A5%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [34岁抗癌网红李小妞去世](https://s.weibo.com/weibo?q=%2334%E5%B2%81%E6%8A%97%E7%99%8C%E7%BD%91%E7%BA%A2%E6%9D%8E%E5%B0%8F%E5%A6%9E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [金莎男友 最不自信的是穷](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%20%E6%9C%80%E4%B8%8D%E8%87%AA%E4%BF%A1%E7%9A%84%E6%98%AF%E7%A9%B7&t=31&band_rank=9&Refer=top)<br />
+8. [金莎男友 最不自信的是穷](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%20%E6%9C%80%E4%B8%8D%E8%87%AA%E4%BF%A1%E7%9A%84%E6%98%AF%E7%A9%B7&t=31&band_rank=8&Refer=top)<br />
+9. [34岁抗癌网红李小妞去世](https://s.weibo.com/weibo?q=%2334%E5%B2%81%E6%8A%97%E7%99%8C%E7%BD%91%E7%BA%A2%E6%9D%8E%E5%B0%8F%E5%A6%9E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [习近平始终关切这一“国家战略”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A7%8B%E7%BB%88%E5%85%B3%E5%88%87%E8%BF%99%E4%B8%80%E2%80%9C%E5%9B%BD%E5%AE%B6%E6%88%98%E7%95%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [女员工举报被领导施压发生性关系](https://www.baidu.com/s?wd=%E5%A5%B3%E5%91%98%E5%B7%A5%E4%B8%BE%E6%8A%A5%E8%A2%AB%E9%A2%86%E5%AF%BC%E6%96%BD%E5%8E%8B%E5%8F%91%E7%94%9F%E6%80%A7%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [教育部：师生不带病上课上学](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%B8%88%E7%94%9F%E4%B8%8D%E5%B8%A6%E7%97%85%E4%B8%8A%E8%AF%BE%E4%B8%8A%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [妈妈让2天补齐3周作业男孩大哭报警](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E8%AE%A92%E5%A4%A9%E8%A1%A5%E9%BD%903%E5%91%A8%E4%BD%9C%E4%B8%9A%E7%94%B7%E5%AD%A9%E5%A4%A7%E5%93%AD%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [国内需求持续恢复稳步扩大](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%9C%80%E6%B1%82%E6%8C%81%E7%BB%AD%E6%81%A2%E5%A4%8D%E7%A8%B3%E6%AD%A5%E6%89%A9%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杨鸣唐佳良离婚](https://www.baidu.com/s?wd=%E6%9D%A8%E9%B8%A3%E5%94%90%E4%BD%B3%E8%89%AF%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [习近平始终关切这一“国家战略”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A7%8B%E7%BB%88%E5%85%B3%E5%88%87%E8%BF%99%E4%B8%80%E2%80%9C%E5%9B%BD%E5%AE%B6%E6%88%98%E7%95%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [女员工举报被领导施压发生性关系](https://www.baidu.com/s?wd=%E5%A5%B3%E5%91%98%E5%B7%A5%E4%B8%BE%E6%8A%A5%E8%A2%AB%E9%A2%86%E5%AF%BC%E6%96%BD%E5%8E%8B%E5%8F%91%E7%94%9F%E6%80%A7%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [教育部：师生不带病上课上学](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%B8%88%E7%94%9F%E4%B8%8D%E5%B8%A6%E7%97%85%E4%B8%8A%E8%AF%BE%E4%B8%8A%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [妈妈让2天补齐3周作业男孩大哭报警](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E8%AE%A92%E5%A4%A9%E8%A1%A5%E9%BD%903%E5%91%A8%E4%BD%9C%E4%B8%9A%E7%94%B7%E5%AD%A9%E5%A4%A7%E5%93%AD%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [国内需求持续恢复稳步扩大](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%9C%80%E6%B1%82%E6%8C%81%E7%BB%AD%E6%81%A2%E5%A4%8D%E7%A8%B3%E6%AD%A5%E6%89%A9%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杨鸣唐佳良离婚](https://www.baidu.com/s?wd=%E6%9D%A8%E9%B8%A3%E5%94%90%E4%BD%B3%E8%89%AF%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
