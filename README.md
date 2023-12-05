@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 17:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 17:05:02</h4></div>
 
 > 微博  
 
@@ -19,11 +19,11 @@
 
 1. [习近平始终关切这一“国家战略”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A7%8B%E7%BB%88%E5%85%B3%E5%88%87%E8%BF%99%E4%B8%80%E2%80%9C%E5%9B%BD%E5%AE%B6%E6%88%98%E7%95%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [2.2亿彩票大奖已有人领取部分奖金](https://www.baidu.com/s?wd=2.2%E4%BA%BF%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96%E5%B7%B2%E6%9C%89%E4%BA%BA%E9%A2%86%E5%8F%96%E9%83%A8%E5%88%86%E5%A5%96%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [刘德华为父亲设灵 与妻女到场送别](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E4%B8%BA%E7%88%B6%E4%BA%B2%E8%AE%BE%E7%81%B5+%E4%B8%8E%E5%A6%BB%E5%A5%B3%E5%88%B0%E5%9C%BA%E9%80%81%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [油价5连降 加满一箱油将少花2元](https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B75%E8%BF%9E%E9%99%8D+%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%B0%86%E5%B0%91%E8%8A%B12%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [国内需求持续恢复稳步扩大](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%9C%80%E6%B1%82%E6%8C%81%E7%BB%AD%E6%81%A2%E5%A4%8D%E7%A8%B3%E6%AD%A5%E6%89%A9%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [2024高校毕业生预计1179万人](https://www.baidu.com/s?wd=2024%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E9%A2%84%E8%AE%A11179%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [杭州一生煎店房租涨到120万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%9F%E7%85%8E%E5%BA%97%E6%88%BF%E7%A7%9F%E6%B6%A8%E5%88%B0120%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中南大学湘雅医院被罚超98万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E8%A2%AB%E7%BD%9A%E8%B6%8598%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [刘德华为父亲设灵 与妻女到场送别](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E4%B8%BA%E7%88%B6%E4%BA%B2%E8%AE%BE%E7%81%B5+%E4%B8%8E%E5%A6%BB%E5%A5%B3%E5%88%B0%E5%9C%BA%E9%80%81%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [2024高校毕业生预计1179万人](https://www.baidu.com/s?wd=2024%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E9%A2%84%E8%AE%A11179%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杭州一生煎店房租涨到120万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%9F%E7%85%8E%E5%BA%97%E6%88%BF%E7%A7%9F%E6%B6%A8%E5%88%B0120%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#2023年度问答#](https://www.baidu.com/s?wd=%232023%E5%B9%B4%E5%BA%A6%E9%97%AE%E7%AD%94%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华校友会辟谣捐赠铜像被卖废品](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%A0%A1%E5%8F%8B%E4%BC%9A%E8%BE%9F%E8%B0%A3%E6%8D%90%E8%B5%A0%E9%93%9C%E5%83%8F%E8%A2%AB%E5%8D%96%E5%BA%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -31,10 +31,10 @@
 
 1. [习近平始终关切这一“国家战略”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A7%8B%E7%BB%88%E5%85%B3%E5%88%87%E8%BF%99%E4%B8%80%E2%80%9C%E5%9B%BD%E5%AE%B6%E6%88%98%E7%95%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [2.2亿彩票大奖已有人领取部分奖金](https://www.baidu.com/s?wd=2.2%E4%BA%BF%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96%E5%B7%B2%E6%9C%89%E4%BA%BA%E9%A2%86%E5%8F%96%E9%83%A8%E5%88%86%E5%A5%96%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [刘德华为父亲设灵 与妻女到场送别](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E4%B8%BA%E7%88%B6%E4%BA%B2%E8%AE%BE%E7%81%B5+%E4%B8%8E%E5%A6%BB%E5%A5%B3%E5%88%B0%E5%9C%BA%E9%80%81%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [油价5连降 加满一箱油将少花2元](https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B75%E8%BF%9E%E9%99%8D+%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%B0%86%E5%B0%91%E8%8A%B12%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [国内需求持续恢复稳步扩大](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%9C%80%E6%B1%82%E6%8C%81%E7%BB%AD%E6%81%A2%E5%A4%8D%E7%A8%B3%E6%AD%A5%E6%89%A9%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [2024高校毕业生预计1179万人](https://www.baidu.com/s?wd=2024%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E9%A2%84%E8%AE%A11179%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [杭州一生煎店房租涨到120万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%9F%E7%85%8E%E5%BA%97%E6%88%BF%E7%A7%9F%E6%B6%A8%E5%88%B0120%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中南大学湘雅医院被罚超98万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E8%A2%AB%E7%BD%9A%E8%B6%8598%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [刘德华为父亲设灵 与妻女到场送别](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E4%B8%BA%E7%88%B6%E4%BA%B2%E8%AE%BE%E7%81%B5+%E4%B8%8E%E5%A6%BB%E5%A5%B3%E5%88%B0%E5%9C%BA%E9%80%81%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [2024高校毕业生预计1179万人](https://www.baidu.com/s?wd=2024%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E9%A2%84%E8%AE%A11179%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [杭州一生煎店房租涨到120万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%9F%E7%85%8E%E5%BA%97%E6%88%BF%E7%A7%9F%E6%B6%A8%E5%88%B0120%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#2023年度问答#](https://www.baidu.com/s?wd=%232023%E5%B9%B4%E5%BA%A6%E9%97%AE%E7%AD%94%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华校友会辟谣捐赠铜像被卖废品](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%A0%A1%E5%8F%8B%E4%BC%9A%E8%BE%9F%E8%B0%A3%E6%8D%90%E8%B5%A0%E9%93%9C%E5%83%8F%E8%A2%AB%E5%8D%96%E5%BA%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
