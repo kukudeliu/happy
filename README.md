@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 16:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 16:31:01</h4></div>
 
 > 微博  
 
-1. [杨鸣离婚](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=1&Refer=top)<br />
-2. [终于知道告五人是告哪五个人了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%91%8A%E4%BA%94%E4%BA%BA%E6%98%AF%E5%91%8A%E5%93%AA%E4%BA%94%E4%B8%AA%E4%BA%BA%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [终于知道告五人是告哪五个人了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%91%8A%E4%BA%94%E4%BA%BA%E6%98%AF%E5%91%8A%E5%93%AA%E4%BA%94%E4%B8%AA%E4%BA%BA%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [杨鸣离婚](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=2&Refer=top)<br />
 3. [弘扬宪法精神](https://s.weibo.com/weibo?q=%23%E5%BC%98%E6%89%AC%E5%AE%AA%E6%B3%95%E7%B2%BE%E7%A5%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [赵丽颖 朱迪警官](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E6%9C%B1%E8%BF%AA%E8%AD%A6%E5%AE%98&t=31&band_rank=4&Refer=top)<br />
 5. [告五人 五月天](https://s.weibo.com/weibo?q=%E5%91%8A%E4%BA%94%E4%BA%BA%20%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=5&Refer=top)<br />
