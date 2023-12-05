@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 15:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 15:34:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [告五人 五月天](https://s.weibo.com/weibo?q=%E5%91%8A%E4%BA%94%E4%BA%BA%20%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=5&Refer=top)<br />
 6. [湖南省一县委书记坠江身亡](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E7%9C%81%E4%B8%80%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [薛之谦官宣三场演唱会](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%AE%98%E5%AE%A3%E4%B8%89%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [卡琳娜 长沙漫展](https://s.weibo.com/weibo?q=%E5%8D%A1%E7%90%B3%E5%A8%9C%20%E9%95%BF%E6%B2%99%E6%BC%AB%E5%B1%95&t=31&band_rank=8&Refer=top)<br />
-9. [他想避世她想入世](https://s.weibo.com/weibo?q=%23%E4%BB%96%E6%83%B3%E9%81%BF%E4%B8%96%E5%A5%B9%E6%83%B3%E5%85%A5%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+8. [他想避世她想入世](https://s.weibo.com/weibo?q=%23%E4%BB%96%E6%83%B3%E9%81%BF%E4%B8%96%E5%A5%B9%E6%83%B3%E5%85%A5%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [卡琳娜 长沙漫展](https://s.weibo.com/weibo?q=%E5%8D%A1%E7%90%B3%E5%A8%9C%20%E9%95%BF%E6%B2%99%E6%BC%AB%E5%B1%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [杨鸣唐佳良离婚](https://www.baidu.com/s?wd=%E6%9D%A8%E9%B8%A3%E5%94%90%E4%BD%B3%E8%89%AF%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [湖南一县委书记坠江身亡](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [厦门2名教师被指强奸大四女生](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A82%E5%90%8D%E6%95%99%E5%B8%88%E8%A2%AB%E6%8C%87%E5%BC%BA%E5%A5%B8%E5%A4%A7%E5%9B%9B%E5%A5%B3%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [沪指再度跌破3000点](https://www.baidu.com/s?wd=%E6%B2%AA%E6%8C%87%E5%86%8D%E5%BA%A6%E8%B7%8C%E7%A0%B43000%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度男老师被胁迫与绑匪女儿结婚](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%94%B7%E8%80%81%E5%B8%88%E8%A2%AB%E8%83%81%E8%BF%AB%E4%B8%8E%E7%BB%91%E5%8C%AA%E5%A5%B3%E5%84%BF%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [世界卫生组织称有“神秘肺炎”？](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E5%8D%AB%E7%94%9F%E7%BB%84%E7%BB%87%E7%A7%B0%E6%9C%89%E2%80%9C%E7%A5%9E%E7%A7%98%E8%82%BA%E7%82%8E%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [杨鸣唐佳良离婚](https://www.baidu.com/s?wd=%E6%9D%A8%E9%B8%A3%E5%94%90%E4%BD%B3%E8%89%AF%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [湖南一县委书记坠江身亡](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [厦门2名教师被指强奸大四女生](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A82%E5%90%8D%E6%95%99%E5%B8%88%E8%A2%AB%E6%8C%87%E5%BC%BA%E5%A5%B8%E5%A4%A7%E5%9B%9B%E5%A5%B3%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [沪指再度跌破3000点](https://www.baidu.com/s?wd=%E6%B2%AA%E6%8C%87%E5%86%8D%E5%BA%A6%E8%B7%8C%E7%A0%B43000%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度男老师被胁迫与绑匪女儿结婚](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%94%B7%E8%80%81%E5%B8%88%E8%A2%AB%E8%83%81%E8%BF%AB%E4%B8%8E%E7%BB%91%E5%8C%AA%E5%A5%B3%E5%84%BF%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [世界卫生组织称有“神秘肺炎”？](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E5%8D%AB%E7%94%9F%E7%BB%84%E7%BB%87%E7%A7%B0%E6%9C%89%E2%80%9C%E7%A5%9E%E7%A7%98%E8%82%BA%E7%82%8E%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
