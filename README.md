@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 19:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 19:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [大学生用无人机救遭撕咬保护动物](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%95%91%E9%81%AD%E6%92%95%E5%92%AC%E4%BF%9D%E6%8A%A4%E5%8A%A8%E7%89%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [娜扎 赢麻了](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%20%E8%B5%A2%E9%BA%BB%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [杭州晚霞太美了](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%99%9A%E9%9C%9E%E5%A4%AA%E7%BE%8E%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [成毅 礼仪小姐请下班](https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%20%E7%A4%BC%E4%BB%AA%E5%B0%8F%E5%A7%90%E8%AF%B7%E4%B8%8B%E7%8F%AD&t=31&band_rank=8&Refer=top)<br />
-9. [赵露思 油画少女](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E6%B2%B9%E7%94%BB%E5%B0%91%E5%A5%B3&t=31&band_rank=9&Refer=top)<br />
+8. [赵露思 油画少女](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E6%B2%B9%E7%94%BB%E5%B0%91%E5%A5%B3&t=31&band_rank=8&Refer=top)<br />
+9. [成毅 礼仪小姐请下班](https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%20%E7%A4%BC%E4%BB%AA%E5%B0%8F%E5%A7%90%E8%AF%B7%E4%B8%8B%E7%8F%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
