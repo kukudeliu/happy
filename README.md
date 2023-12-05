@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 07:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 07:46:01</h4></div>
 
 > 微博  
 
@@ -21,10 +21,10 @@
 2. [人民日报评五月天被曝疑似假唱](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E6%9B%9D%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [26款羽绒服不合格：探路者上黑榜](https://www.baidu.com/s?wd=26%E6%AC%BE%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8D%E5%90%88%E6%A0%BC%EF%BC%9A%E6%8E%A2%E8%B7%AF%E8%80%85%E4%B8%8A%E9%BB%91%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“小包裹”折射“大经济”](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E5%8C%85%E8%A3%B9%E2%80%9D%E6%8A%98%E5%B0%84%E2%80%9C%E5%A4%A7%E7%BB%8F%E6%B5%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [医生因颜值高引多人挂号 院方回应](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%A0%E9%A2%9C%E5%80%BC%E9%AB%98%E5%BC%95%E5%A4%9A%E4%BA%BA%E6%8C%82%E5%8F%B7+%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [男子每天抽10包烟 双肺千疮百孔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E6%8A%BD10%E5%8C%85%E7%83%9F+%E5%8F%8C%E8%82%BA%E5%8D%83%E7%96%AE%E7%99%BE%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上海交大保卫处1800元月薪招研究生](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E4%BF%9D%E5%8D%AB%E5%A4%841800%E5%85%83%E6%9C%88%E8%96%AA%E6%8B%9B%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子每天抽10包烟 双肺千疮百孔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E6%8A%BD10%E5%8C%85%E7%83%9F+%E5%8F%8C%E8%82%BA%E5%8D%83%E7%96%AE%E7%99%BE%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老人家中1吨煤被收走？官方回应](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%AE%B6%E4%B8%AD1%E5%90%A8%E7%85%A4%E8%A2%AB%E6%94%B6%E8%B5%B0%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [老人家中1吨煤被收走？官方回应](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%AE%B6%E4%B8%AD1%E5%90%A8%E7%85%A4%E8%A2%AB%E6%94%B6%E8%B5%B0%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [34岁抗癌网红李小妞去世](https://www.baidu.com/s?wd=34%E5%B2%81%E6%8A%97%E7%99%8C%E7%BD%91%E7%BA%A2%E6%9D%8E%E5%B0%8F%E5%A6%9E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [工伤认定必须单位同意？假的](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BC%A4%E8%AE%A4%E5%AE%9A%E5%BF%85%E9%A1%BB%E5%8D%95%E4%BD%8D%E5%90%8C%E6%84%8F%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -33,8 +33,8 @@
 2. [人民日报评五月天被曝疑似假唱](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E6%9B%9D%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [26款羽绒服不合格：探路者上黑榜](https://www.baidu.com/s?wd=26%E6%AC%BE%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8D%E5%90%88%E6%A0%BC%EF%BC%9A%E6%8E%A2%E8%B7%AF%E8%80%85%E4%B8%8A%E9%BB%91%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“小包裹”折射“大经济”](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E5%8C%85%E8%A3%B9%E2%80%9D%E6%8A%98%E5%B0%84%E2%80%9C%E5%A4%A7%E7%BB%8F%E6%B5%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [医生因颜值高引多人挂号 院方回应](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%A0%E9%A2%9C%E5%80%BC%E9%AB%98%E5%BC%95%E5%A4%9A%E4%BA%BA%E6%8C%82%E5%8F%B7+%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [男子每天抽10包烟 双肺千疮百孔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E6%8A%BD10%E5%8C%85%E7%83%9F+%E5%8F%8C%E8%82%BA%E5%8D%83%E7%96%AE%E7%99%BE%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上海交大保卫处1800元月薪招研究生](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E4%BF%9D%E5%8D%AB%E5%A4%841800%E5%85%83%E6%9C%88%E8%96%AA%E6%8B%9B%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子每天抽10包烟 双肺千疮百孔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E6%8A%BD10%E5%8C%85%E7%83%9F+%E5%8F%8C%E8%82%BA%E5%8D%83%E7%96%AE%E7%99%BE%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老人家中1吨煤被收走？官方回应](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%AE%B6%E4%B8%AD1%E5%90%A8%E7%85%A4%E8%A2%AB%E6%94%B6%E8%B5%B0%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [老人家中1吨煤被收走？官方回应](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%AE%B6%E4%B8%AD1%E5%90%A8%E7%85%A4%E8%A2%AB%E6%94%B6%E8%B5%B0%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [34岁抗癌网红李小妞去世](https://www.baidu.com/s?wd=34%E5%B2%81%E6%8A%97%E7%99%8C%E7%BD%91%E7%BA%A2%E6%9D%8E%E5%B0%8F%E5%A6%9E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [工伤认定必须单位同意？假的](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BC%A4%E8%AE%A4%E5%AE%9A%E5%BF%85%E9%A1%BB%E5%8D%95%E4%BD%8D%E5%90%8C%E6%84%8F%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
