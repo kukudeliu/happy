@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 19:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 19:13:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [中国高水平开放“加速跑”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%B0%B4%E5%B9%B3%E5%BC%80%E6%94%BE%E2%80%9C%E5%8A%A0%E9%80%9F%E8%B7%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中南大学湘雅医院被罚超98万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E8%A2%AB%E7%BD%9A%E8%B6%8598%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [34岁抗癌网红李小妞去世](https://www.baidu.com/s?wd=34%E5%B2%81%E6%8A%97%E7%99%8C%E7%BD%91%E7%BA%A2%E6%9D%8E%E5%B0%8F%E5%A6%9E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [泰国旅游大巴发生车祸 致16人死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%97%85%E6%B8%B8%E5%A4%A7%E5%B7%B4%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8+%E8%87%B416%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [爱马仕继承人将巨额财产留给园丁](https://www.baidu.com/s?wd=%E7%88%B1%E9%A9%AC%E4%BB%95%E7%BB%A7%E6%89%BF%E4%BA%BA%E5%B0%86%E5%B7%A8%E9%A2%9D%E8%B4%A2%E4%BA%A7%E7%95%99%E7%BB%99%E5%9B%AD%E4%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#2023年度问答#](https://www.baidu.com/s?wd=%232023%E5%B9%B4%E5%BA%A6%E9%97%AE%E7%AD%94%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华校友会辟谣捐赠铜像被卖废品](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%A0%A1%E5%8F%8B%E4%BC%9A%E8%BE%9F%E8%B0%A3%E6%8D%90%E8%B5%A0%E9%93%9C%E5%83%8F%E8%A2%AB%E5%8D%96%E5%BA%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [中国高水平开放“加速跑”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%B0%B4%E5%B9%B3%E5%BC%80%E6%94%BE%E2%80%9C%E5%8A%A0%E9%80%9F%E8%B7%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中南大学湘雅医院被罚超98万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E8%A2%AB%E7%BD%9A%E8%B6%8598%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [34岁抗癌网红李小妞去世](https://www.baidu.com/s?wd=34%E5%B2%81%E6%8A%97%E7%99%8C%E7%BD%91%E7%BA%A2%E6%9D%8E%E5%B0%8F%E5%A6%9E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [泰国旅游大巴发生车祸 致16人死亡](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%97%85%E6%B8%B8%E5%A4%A7%E5%B7%B4%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8+%E8%87%B416%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [爱马仕继承人将巨额财产留给园丁](https://www.baidu.com/s?wd=%E7%88%B1%E9%A9%AC%E4%BB%95%E7%BB%A7%E6%89%BF%E4%BA%BA%E5%B0%86%E5%B7%A8%E9%A2%9D%E8%B4%A2%E4%BA%A7%E7%95%99%E7%BB%99%E5%9B%AD%E4%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#2023年度问答#](https://www.baidu.com/s?wd=%232023%E5%B9%B4%E5%BA%A6%E9%97%AE%E7%AD%94%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华校友会辟谣捐赠铜像被卖废品](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%A0%A1%E5%8F%8B%E4%BC%9A%E8%BE%9F%E8%B0%A3%E6%8D%90%E8%B5%A0%E9%93%9C%E5%83%8F%E8%A2%AB%E5%8D%96%E5%BA%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
