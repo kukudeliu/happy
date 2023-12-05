@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 02:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 02:36:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [人民日报评五月天疑似假唱](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E4%BA%94%E6%9C%88%E5%A4%A9%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1%23&t=31&band_rank=2&Refer=top)<br />
 3. [聚焦COP28](https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6COP28%23&t=31&band_rank=3&Refer=top)<br />
 4. [斗鱼主播](https://s.weibo.com/weibo?q=%E6%96%97%E9%B1%BC%E4%B8%BB%E6%92%AD&t=31&band_rank=4&Refer=top)<br />
-5. [多平台取消杨鸣总教练认证](https://s.weibo.com/weibo?q=%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%8F%96%E6%B6%88%E6%9D%A8%E9%B8%A3%E6%80%BB%E6%95%99%E7%BB%83%E8%AE%A4%E8%AF%81&t=31&band_rank=5&Refer=top)<br />
-6. [白鹿的上身身材](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%9A%84%E4%B8%8A%E8%BA%AB%E8%BA%AB%E6%9D%90%23&t=31&band_rank=6&Refer=top)<br />
+5. [白鹿的上身身材](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%9A%84%E4%B8%8A%E8%BA%AB%E8%BA%AB%E6%9D%90%23&t=31&band_rank=5&Refer=top)<br />
+6. [多平台取消杨鸣总教练认证](https://s.weibo.com/weibo?q=%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%8F%96%E6%B6%88%E6%9D%A8%E9%B8%A3%E6%80%BB%E6%95%99%E7%BB%83%E8%AE%A4%E8%AF%81&t=31&band_rank=6&Refer=top)<br />
 7. [难哄 白敬亭刘浩存](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E7%99%BD%E6%95%AC%E4%BA%AD%E5%88%98%E6%B5%A9%E5%AD%98&t=31&band_rank=7&Refer=top)<br />
 8. [轻语 已婚有娃](https://s.weibo.com/weibo?q=%E8%BD%BB%E8%AF%AD%20%E5%B7%B2%E5%A9%9A%E6%9C%89%E5%A8%83&t=31&band_rank=8&Refer=top)<br />
 9. [上海19岁外卖小哥称第一次遇到商场这样做](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B719%E5%B2%81%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E7%A7%B0%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%81%87%E5%88%B0%E5%95%86%E5%9C%BA%E8%BF%99%E6%A0%B7%E5%81%9A%23&t=31&band_rank=9&Refer=top)<br />
