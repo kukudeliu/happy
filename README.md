@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 01:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 01:54:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [聚焦COP28](https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6COP28%23&t=31&band_rank=3&Refer=top)<br />
 4. [白鹿的上身身材](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%9A%84%E4%B8%8A%E8%BA%AB%E8%BA%AB%E6%9D%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [难哄 白敬亭刘浩存](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E7%99%BD%E6%95%AC%E4%BA%AD%E5%88%98%E6%B5%A9%E5%AD%98&t=31&band_rank=5&Refer=top)<br />
-6. [多平台取消杨鸣总教练认证](https://s.weibo.com/weibo?q=%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%8F%96%E6%B6%88%E6%9D%A8%E9%B8%A3%E6%80%BB%E6%95%99%E7%BB%83%E8%AE%A4%E8%AF%81&t=31&band_rank=6&Refer=top)<br />
-7. [湖南卫视 那英](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%20%E9%82%A3%E8%8B%B1&t=31&band_rank=7&Refer=top)<br />
-8. [上海19岁外卖小哥称第一次遇到商场这样做](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B719%E5%B2%81%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E7%A7%B0%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%81%87%E5%88%B0%E5%95%86%E5%9C%BA%E8%BF%99%E6%A0%B7%E5%81%9A%23&t=31&band_rank=8&Refer=top)<br />
+6. [上海19岁外卖小哥称第一次遇到商场这样做](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B719%E5%B2%81%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E7%A7%B0%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%81%87%E5%88%B0%E5%95%86%E5%9C%BA%E8%BF%99%E6%A0%B7%E5%81%9A%23&t=31&band_rank=6&Refer=top)<br />
+7. [多平台取消杨鸣总教练认证](https://s.weibo.com/weibo?q=%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%8F%96%E6%B6%88%E6%9D%A8%E9%B8%A3%E6%80%BB%E6%95%99%E7%BB%83%E8%AE%A4%E8%AF%81&t=31&band_rank=7&Refer=top)<br />
+8. [湖南卫视 那英](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%20%E9%82%A3%E8%8B%B1&t=31&band_rank=8&Refer=top)<br />
 9. [斗鱼主播](https://s.weibo.com/weibo?q=%E6%96%97%E9%B1%BC%E4%B8%BB%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [医生因颜值高引多人挂号 院方回应](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%A0%E9%A2%9C%E5%80%BC%E9%AB%98%E5%BC%95%E5%A4%9A%E4%BA%BA%E6%8C%82%E5%8F%B7+%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上海交大保卫处1800元月薪招研究生](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E4%BF%9D%E5%8D%AB%E5%A4%841800%E5%85%83%E6%9C%88%E8%96%AA%E6%8B%9B%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子每天抽10包烟 双肺千疮百孔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E6%8A%BD10%E5%8C%85%E7%83%9F+%E5%8F%8C%E8%82%BA%E5%8D%83%E7%96%AE%E7%99%BE%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州一生煎店房租涨到120万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%9F%E7%85%8E%E5%BA%97%E6%88%BF%E7%A7%9F%E6%B6%A8%E5%88%B0120%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2024高校毕业生预计1179万人](https://www.baidu.com/s?wd=2024%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E9%A2%84%E8%AE%A11179%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [工伤认定必须单位同意？假的](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BC%A4%E8%AE%A4%E5%AE%9A%E5%BF%85%E9%A1%BB%E5%8D%95%E4%BD%8D%E5%90%8C%E6%84%8F%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [医生因颜值高引多人挂号 院方回应](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%A0%E9%A2%9C%E5%80%BC%E9%AB%98%E5%BC%95%E5%A4%9A%E4%BA%BA%E6%8C%82%E5%8F%B7+%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上海交大保卫处1800元月薪招研究生](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E4%BF%9D%E5%8D%AB%E5%A4%841800%E5%85%83%E6%9C%88%E8%96%AA%E6%8B%9B%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子每天抽10包烟 双肺千疮百孔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E6%8A%BD10%E5%8C%85%E7%83%9F+%E5%8F%8C%E8%82%BA%E5%8D%83%E7%96%AE%E7%99%BE%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州一生煎店房租涨到120万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%9F%E7%85%8E%E5%BA%97%E6%88%BF%E7%A7%9F%E6%B6%A8%E5%88%B0120%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2024高校毕业生预计1179万人](https://www.baidu.com/s?wd=2024%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E9%A2%84%E8%AE%A11179%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [工伤认定必须单位同意？假的](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BC%A4%E8%AE%A4%E5%AE%9A%E5%BF%85%E9%A1%BB%E5%8D%95%E4%BD%8D%E5%90%8C%E6%84%8F%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
