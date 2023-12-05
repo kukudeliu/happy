@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 13:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 13:43:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [狂飙演员转做主播月入不足3千](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%99%E6%BC%94%E5%91%98%E8%BD%AC%E5%81%9A%E4%B8%BB%E6%92%AD%E6%9C%88%E5%85%A5%E4%B8%8D%E8%B6%B33%E5%8D%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [弘扬宪法精神](https://s.weibo.com/weibo?q=%23%E5%BC%98%E6%89%AC%E5%AE%AA%E6%B3%95%E7%B2%BE%E7%A5%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [34岁抗癌网红李小妞去世](https://s.weibo.com/weibo?q=%2334%E5%B2%81%E6%8A%97%E7%99%8C%E7%BD%91%E7%BA%A2%E6%9D%8E%E5%B0%8F%E5%A6%9E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
-5. [爸妈已经意识到工作不好找了](https://s.weibo.com/weibo?q=%23%E7%88%B8%E5%A6%88%E5%B7%B2%E7%BB%8F%E6%84%8F%E8%AF%86%E5%88%B0%E5%B7%A5%E4%BD%9C%E4%B8%8D%E5%A5%BD%E6%89%BE%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [银行员工举报被领导施压发生性关系](https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E5%91%98%E5%B7%A5%E4%B8%BE%E6%8A%A5%E8%A2%AB%E9%A2%86%E5%AF%BC%E6%96%BD%E5%8E%8B%E5%8F%91%E7%94%9F%E6%80%A7%E5%85%B3%E7%B3%BB%23&t=31&band_rank=6&Refer=top)<br />
+5. [银行员工举报被领导施压发生性关系](https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E5%91%98%E5%B7%A5%E4%B8%BE%E6%8A%A5%E8%A2%AB%E9%A2%86%E5%AF%BC%E6%96%BD%E5%8E%8B%E5%8F%91%E7%94%9F%E6%80%A7%E5%85%B3%E7%B3%BB%23&t=31&band_rank=5&Refer=top)<br />
+6. [爸妈已经意识到工作不好找了](https://s.weibo.com/weibo?q=%23%E7%88%B8%E5%A6%88%E5%B7%B2%E7%BB%8F%E6%84%8F%E8%AF%86%E5%88%B0%E5%B7%A5%E4%BD%9C%E4%B8%8D%E5%A5%BD%E6%89%BE%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨鸣 唐佳良](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3%20%E5%94%90%E4%BD%B3%E8%89%AF&t=31&band_rank=7&Refer=top)<br />
-8. [普通大学和985大学的区别](https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%92%8C985%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%8C%BA%E5%88%AB&t=31&band_rank=8&Refer=top)<br />
-9. [卡琳娜 长沙漫展](https://s.weibo.com/weibo?q=%E5%8D%A1%E7%90%B3%E5%A8%9C%20%E9%95%BF%E6%B2%99%E6%BC%AB%E5%B1%95&t=31&band_rank=9&Refer=top)<br />
+8. [卡琳娜 长沙漫展](https://s.weibo.com/weibo?q=%E5%8D%A1%E7%90%B3%E5%A8%9C%20%E9%95%BF%E6%B2%99%E6%BC%AB%E5%B1%95&t=31&band_rank=8&Refer=top)<br />
+9. [普通大学和985大学的区别](https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%92%8C985%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%8C%BA%E5%88%AB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
