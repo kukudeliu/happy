@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 10:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 10:58:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [恋丑癖](https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%91%E7%99%96&t=31&band_rank=4&Refer=top)<br />
 5. [大学生农村开咖啡厅1天挣半头牛](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%86%9C%E6%9D%91%E5%BC%80%E5%92%96%E5%95%A1%E5%8E%851%E5%A4%A9%E6%8C%A3%E5%8D%8A%E5%A4%B4%E7%89%9B%23&t=31&band_rank=5&Refer=top)<br />
 6. [第一学历](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86&t=31&band_rank=6&Refer=top)<br />
-7. [为什么打呼噜的人不把自己吵醒](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%93%E5%91%BC%E5%99%9C%E7%9A%84%E4%BA%BA%E4%B8%8D%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%90%B5%E9%86%92&t=31&band_rank=7&Refer=top)<br />
-8. [五月天演唱会荧光棒](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8D%A7%E5%85%89%E6%A3%92&t=31&band_rank=8&Refer=top)<br />
+7. [五月天演唱会荧光棒](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8D%A7%E5%85%89%E6%A3%92&t=31&band_rank=7&Refer=top)<br />
+8. [为什么打呼噜的人不把自己吵醒](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%93%E5%91%BC%E5%99%9C%E7%9A%84%E4%BA%BA%E4%B8%8D%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%90%B5%E9%86%92&t=31&band_rank=8&Refer=top)<br />
 9. [生日回避型人格](https://s.weibo.com/weibo?q=%E7%94%9F%E6%97%A5%E5%9B%9E%E9%81%BF%E5%9E%8B%E4%BA%BA%E6%A0%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
