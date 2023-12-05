@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 00:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 00:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [医生因颜值高引多人挂号 院方回应](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%A0%E9%A2%9C%E5%80%BC%E9%AB%98%E5%BC%95%E5%A4%9A%E4%BA%BA%E6%8C%82%E5%8F%B7+%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上海交大保卫处1800元月薪招研究生](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E4%BF%9D%E5%8D%AB%E5%A4%841800%E5%85%83%E6%9C%88%E8%96%AA%E6%8B%9B%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子每天抽10包烟 双肺千疮百孔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E6%8A%BD10%E5%8C%85%E7%83%9F+%E5%8F%8C%E8%82%BA%E5%8D%83%E7%96%AE%E7%99%BE%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [贾跃亭把车卖给中东富豪](https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E6%8A%8A%E8%BD%A6%E5%8D%96%E7%BB%99%E4%B8%AD%E4%B8%9C%E5%AF%8C%E8%B1%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新人东北拍婚纱照冻得发抖](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E4%B8%9C%E5%8C%97%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E5%86%BB%E5%BE%97%E5%8F%91%E6%8A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [工伤认定必须单位同意？假的](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BC%A4%E8%AE%A4%E5%AE%9A%E5%BF%85%E9%A1%BB%E5%8D%95%E4%BD%8D%E5%90%8C%E6%84%8F%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [医生因颜值高引多人挂号 院方回应](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%A0%E9%A2%9C%E5%80%BC%E9%AB%98%E5%BC%95%E5%A4%9A%E4%BA%BA%E6%8C%82%E5%8F%B7+%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上海交大保卫处1800元月薪招研究生](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E4%BF%9D%E5%8D%AB%E5%A4%841800%E5%85%83%E6%9C%88%E8%96%AA%E6%8B%9B%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子每天抽10包烟 双肺千疮百孔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E6%8A%BD10%E5%8C%85%E7%83%9F+%E5%8F%8C%E8%82%BA%E5%8D%83%E7%96%AE%E7%99%BE%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [贾跃亭把车卖给中东富豪](https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E6%8A%8A%E8%BD%A6%E5%8D%96%E7%BB%99%E4%B8%AD%E4%B8%9C%E5%AF%8C%E8%B1%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新人东北拍婚纱照冻得发抖](https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E4%B8%9C%E5%8C%97%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E5%86%BB%E5%BE%97%E5%8F%91%E6%8A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [工伤认定必须单位同意？假的](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BC%A4%E8%AE%A4%E5%AE%9A%E5%BF%85%E9%A1%BB%E5%8D%95%E4%BD%8D%E5%90%8C%E6%84%8F%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
