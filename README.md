@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 09:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 09:25:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [美好生活宪给你](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB%E5%AE%AA%E7%BB%99%E4%BD%A0%23&t=31&band_rank=3&Refer=top)<br />
 4. [恋丑癖](https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%91%E7%99%96&t=31&band_rank=4&Refer=top)<br />
 5. [看着很丰盛吃下去全是馒头](https://s.weibo.com/weibo?q=%E7%9C%8B%E7%9D%80%E5%BE%88%E4%B8%B0%E7%9B%9B%E5%90%83%E4%B8%8B%E5%8E%BB%E5%85%A8%E6%98%AF%E9%A6%92%E5%A4%B4&t=31&band_rank=5&Refer=top)<br />
-6. [喜茶涉嫌违反宗教事务管理条例被约谈](https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%8C%B6%E6%B6%89%E5%AB%8C%E8%BF%9D%E5%8F%8D%E5%AE%97%E6%95%99%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B%E8%A2%AB%E7%BA%A6%E8%B0%88%23&t=31&band_rank=6&Refer=top)<br />
-7. [五月天演唱会荧光棒](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8D%A7%E5%85%89%E6%A3%92&t=31&band_rank=7&Refer=top)<br />
-8. [刘诗诗回应替身说](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E8%AF%B4&t=31&band_rank=8&Refer=top)<br />
-9. [30万买编制未果起诉要求退款被驳回](https://s.weibo.com/weibo?q=%2330%E4%B8%87%E4%B9%B0%E7%BC%96%E5%88%B6%E6%9C%AA%E6%9E%9C%E8%B5%B7%E8%AF%89%E8%A6%81%E6%B1%82%E9%80%80%E6%AC%BE%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&t=31&band_rank=9&Refer=top)<br />
+6. [五月天演唱会荧光棒](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8D%A7%E5%85%89%E6%A3%92&t=31&band_rank=6&Refer=top)<br />
+7. [喜茶涉嫌违反宗教事务管理条例被约谈](https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%8C%B6%E6%B6%89%E5%AB%8C%E8%BF%9D%E5%8F%8D%E5%AE%97%E6%95%99%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B%E8%A2%AB%E7%BA%A6%E8%B0%88%23&t=31&band_rank=7&Refer=top)<br />
+8. [为什么打呼噜的人不把自己吵醒](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%93%E5%91%BC%E5%99%9C%E7%9A%84%E4%BA%BA%E4%B8%8D%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%90%B5%E9%86%92&t=31&band_rank=8&Refer=top)<br />
+9. [刘诗诗回应替身说](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E8%AF%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
