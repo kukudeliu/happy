@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 23:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 23:21:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [法院通报2614万恶意竞拍手机号详情](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E9%80%9A%E6%8A%A52614%E4%B8%87%E6%81%B6%E6%84%8F%E7%AB%9E%E6%8B%8D%E6%89%8B%E6%9C%BA%E5%8F%B7%E8%AF%A6%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李家超：除非周庭自首否则终身追捕](https://www.baidu.com/s?wd=%E6%9D%8E%E5%AE%B6%E8%B6%85%EF%BC%9A%E9%99%A4%E9%9D%9E%E5%91%A8%E5%BA%AD%E8%87%AA%E9%A6%96%E5%90%A6%E5%88%99%E7%BB%88%E8%BA%AB%E8%BF%BD%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杭州一生煎店房租涨到120万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%9F%E7%85%8E%E5%BA%97%E6%88%BF%E7%A7%9F%E6%B6%A8%E5%88%B0120%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [清华校友会辟谣捐赠铜像被卖废品](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%A0%A1%E5%8F%8B%E4%BC%9A%E8%BE%9F%E8%B0%A3%E6%8D%90%E8%B5%A0%E9%93%9C%E5%83%8F%E8%A2%AB%E5%8D%96%E5%BA%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [工伤认定必须单位同意？假的](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BC%A4%E8%AE%A4%E5%AE%9A%E5%BF%85%E9%A1%BB%E5%8D%95%E4%BD%8D%E5%90%8C%E6%84%8F%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [法院通报2614万恶意竞拍手机号详情](https://www.baidu.com/s?wd=%E6%B3%95%E9%99%A2%E9%80%9A%E6%8A%A52614%E4%B8%87%E6%81%B6%E6%84%8F%E7%AB%9E%E6%8B%8D%E6%89%8B%E6%9C%BA%E5%8F%B7%E8%AF%A6%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李家超：除非周庭自首否则终身追捕](https://www.baidu.com/s?wd=%E6%9D%8E%E5%AE%B6%E8%B6%85%EF%BC%9A%E9%99%A4%E9%9D%9E%E5%91%A8%E5%BA%AD%E8%87%AA%E9%A6%96%E5%90%A6%E5%88%99%E7%BB%88%E8%BA%AB%E8%BF%BD%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杭州一生煎店房租涨到120万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%9F%E7%85%8E%E5%BA%97%E6%88%BF%E7%A7%9F%E6%B6%A8%E5%88%B0120%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [清华校友会辟谣捐赠铜像被卖废品](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%A0%A1%E5%8F%8B%E4%BC%9A%E8%BE%9F%E8%B0%A3%E6%8D%90%E8%B5%A0%E9%93%9C%E5%83%8F%E8%A2%AB%E5%8D%96%E5%BA%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [工伤认定必须单位同意？假的](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BC%A4%E8%AE%A4%E5%AE%9A%E5%BF%85%E9%A1%BB%E5%8D%95%E4%BD%8D%E5%90%8C%E6%84%8F%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
