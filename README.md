@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 15:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 16:00:02</h4></div>
 
 > 微博  
 
 1. [杨鸣离婚](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=1&Refer=top)<br />
-2. [狂飙演员转做主播月入不足3千](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%99%E6%BC%94%E5%91%98%E8%BD%AC%E5%81%9A%E4%B8%BB%E6%92%AD%E6%9C%88%E5%85%A5%E4%B8%8D%E8%B6%B33%E5%8D%83%23&t=31&band_rank=2&Refer=top)<br />
+2. [湖南省一县委书记坠江身亡](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E7%9C%81%E4%B8%80%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [弘扬宪法精神](https://s.weibo.com/weibo?q=%23%E5%BC%98%E6%89%AC%E5%AE%AA%E6%B3%95%E7%B2%BE%E7%A5%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [赵丽颖 朱迪警官](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E6%9C%B1%E8%BF%AA%E8%AD%A6%E5%AE%98&t=31&band_rank=4&Refer=top)<br />
-5. [湖南省一县委书记坠江身亡](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E7%9C%81%E4%B8%80%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
+5. [狂飙演员转做主播月入不足3千](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%99%E6%BC%94%E5%91%98%E8%BD%AC%E5%81%9A%E4%B8%BB%E6%92%AD%E6%9C%88%E5%85%A5%E4%B8%8D%E8%B6%B33%E5%8D%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨鸣 思思](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3%20%E6%80%9D%E6%80%9D&t=31&band_rank=6&Refer=top)<br />
 7. [告五人 五月天](https://s.weibo.com/weibo?q=%E5%91%8A%E4%BA%94%E4%BA%BA%20%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=7&Refer=top)<br />
 8. [视界大会红毯](https://s.weibo.com/weibo?q=%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%E7%BA%A2%E6%AF%AF&t=31&band_rank=8&Refer=top)<br />
