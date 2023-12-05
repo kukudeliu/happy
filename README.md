@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 09:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 09:53:01</h4></div>
 
 > 微博  
 
 1. [丁当为五月天发声](https://s.weibo.com/weibo?q=%23%E4%B8%81%E5%BD%93%E4%B8%BA%E4%BA%94%E6%9C%88%E5%A4%A9%E5%8F%91%E5%A3%B0%23&t=31&band_rank=1&Refer=top)<br />
-2. [韩国夫妇操控一家庭19年装13部监控](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%93%8D%E6%8E%A7%E4%B8%80%E5%AE%B6%E5%BA%AD19%E5%B9%B4%E8%A3%8513%E9%83%A8%E7%9B%91%E6%8E%A7%23&t=31&band_rank=2&Refer=top)<br />
+2. [为什么打呼噜的人不把自己吵醒](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%93%E5%91%BC%E5%99%9C%E7%9A%84%E4%BA%BA%E4%B8%8D%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%90%B5%E9%86%92&t=31&band_rank=2&Refer=top)<br />
 3. [美好生活宪给你](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB%E5%AE%AA%E7%BB%99%E4%BD%A0%23&t=31&band_rank=3&Refer=top)<br />
 4. [恋丑癖](https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%91%E7%99%96&t=31&band_rank=4&Refer=top)<br />
-5. [为什么打呼噜的人不把自己吵醒](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%93%E5%91%BC%E5%99%9C%E7%9A%84%E4%BA%BA%E4%B8%8D%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%90%B5%E9%86%92&t=31&band_rank=5&Refer=top)<br />
+5. [韩国夫妇操控一家庭19年装13部监控](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%93%8D%E6%8E%A7%E4%B8%80%E5%AE%B6%E5%BA%AD19%E5%B9%B4%E8%A3%8513%E9%83%A8%E7%9B%91%E6%8E%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [五月天演唱会荧光棒](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8D%A7%E5%85%89%E6%A3%92&t=31&band_rank=6&Refer=top)<br />
 7. [看着很丰盛吃下去全是馒头](https://s.weibo.com/weibo?q=%E7%9C%8B%E7%9D%80%E5%BE%88%E4%B8%B0%E7%9B%9B%E5%90%83%E4%B8%8B%E5%8E%BB%E5%85%A8%E6%98%AF%E9%A6%92%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
 8. [刘诗诗回应替身说](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E8%AF%B4&t=31&band_rank=8&Refer=top)<br />
