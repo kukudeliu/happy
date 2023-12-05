@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 16:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 16:19:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [赵丽颖 朱迪警官](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E6%9C%B1%E8%BF%AA%E8%AD%A6%E5%AE%98&t=31&band_rank=4&Refer=top)<br />
 5. [告五人 五月天](https://s.weibo.com/weibo?q=%E5%91%8A%E4%BA%94%E4%BA%BA%20%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=5&Refer=top)<br />
 6. [狂飙演员转做主播月入不足3千](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%99%E6%BC%94%E5%91%98%E8%BD%AC%E5%81%9A%E4%B8%BB%E6%92%AD%E6%9C%88%E5%85%A5%E4%B8%8D%E8%B6%B33%E5%8D%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [湖南省一县委书记坠江身亡](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E7%9C%81%E4%B8%80%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨鸣 思思](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3%20%E6%80%9D%E6%80%9D&t=31&band_rank=8&Refer=top)<br />
-9. [当一个成年男性决定坐下小便](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%B8%80%E4%B8%AA%E6%88%90%E5%B9%B4%E7%94%B7%E6%80%A7%E5%86%B3%E5%AE%9A%E5%9D%90%E4%B8%8B%E5%B0%8F%E4%BE%BF%23&t=31&band_rank=9&Refer=top)<br />
+7. [终于知道告五人是告哪五个人了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%91%8A%E4%BA%94%E4%BA%BA%E6%98%AF%E5%91%8A%E5%93%AA%E4%BA%94%E4%B8%AA%E4%BA%BA%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [湖南省一县委书记坠江身亡](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E7%9C%81%E4%B8%80%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [杨鸣 思思](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3%20%E6%80%9D%E6%80%9D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
