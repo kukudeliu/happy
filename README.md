@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 11:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 11:06:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [恋丑癖](https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%91%E7%99%96&t=31&band_rank=4&Refer=top)<br />
 5. [第一学历](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86&t=31&band_rank=5&Refer=top)<br />
 6. [大学生农村开咖啡厅1天挣半头牛](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%86%9C%E6%9D%91%E5%BC%80%E5%92%96%E5%95%A1%E5%8E%851%E5%A4%A9%E6%8C%A3%E5%8D%8A%E5%A4%B4%E7%89%9B%23&t=31&band_rank=6&Refer=top)<br />
-7. [狐妖小红娘竹业篇官宣杀青](https://s.weibo.com/weibo?q=%23%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E7%AB%B9%E4%B8%9A%E7%AF%87%E5%AE%98%E5%AE%A3%E6%9D%80%E9%9D%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [五月天演唱会荧光棒](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8D%A7%E5%85%89%E6%A3%92&t=31&band_rank=8&Refer=top)<br />
-9. [宁远舟备孕](https://s.weibo.com/weibo?q=%E5%AE%81%E8%BF%9C%E8%88%9F%E5%A4%87%E5%AD%95&t=31&band_rank=9&Refer=top)<br />
+7. [五月天演唱会荧光棒](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8D%A7%E5%85%89%E6%A3%92&t=31&band_rank=7&Refer=top)<br />
+8. [狐妖小红娘竹业篇官宣杀青](https://s.weibo.com/weibo?q=%23%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E7%AB%B9%E4%B8%9A%E7%AF%87%E5%AE%98%E5%AE%A3%E6%9D%80%E9%9D%92%23&t=31&band_rank=8&Refer=top)<br />
+9. [生日回避型人格](https://s.weibo.com/weibo?q=%E7%94%9F%E6%97%A5%E5%9B%9E%E9%81%BF%E5%9E%8B%E4%BA%BA%E6%A0%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,8 +22,8 @@
 3. [深圳小学初中明年起每天1节体育课](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B0%8F%E5%AD%A6%E5%88%9D%E4%B8%AD%E6%98%8E%E5%B9%B4%E8%B5%B7%E6%AF%8F%E5%A4%A91%E8%8A%82%E4%BD%93%E8%82%B2%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子住别墅开豪车欠朋友十多万不还](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BD%8F%E5%88%AB%E5%A2%85%E5%BC%80%E8%B1%AA%E8%BD%A6%E6%AC%A0%E6%9C%8B%E5%8F%8B%E5%8D%81%E5%A4%9A%E4%B8%87%E4%B8%8D%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [八旬大爷误把主播当女友千里奔现](https://www.baidu.com/s?wd=%E5%85%AB%E6%97%AC%E5%A4%A7%E7%88%B7%E8%AF%AF%E6%8A%8A%E4%B8%BB%E6%92%AD%E5%BD%93%E5%A5%B3%E5%8F%8B%E5%8D%83%E9%87%8C%E5%A5%94%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [新娘夫妻对拜时被一女子用力按头](https://www.baidu.com/s?wd=%E6%96%B0%E5%A8%98%E5%A4%AB%E5%A6%BB%E5%AF%B9%E6%8B%9C%E6%97%B6%E8%A2%AB%E4%B8%80%E5%A5%B3%E5%AD%90%E7%94%A8%E5%8A%9B%E6%8C%89%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [新娘夫妻对拜时被一女子用力按头](https://www.baidu.com/s?wd=%E6%96%B0%E5%A8%98%E5%A4%AB%E5%A6%BB%E5%AF%B9%E6%8B%9C%E6%97%B6%E8%A2%AB%E4%B8%80%E5%A5%B3%E5%AD%90%E7%94%A8%E5%8A%9B%E6%8C%89%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [八旬大爷误把主播当女友千里奔现](https://www.baidu.com/s?wd=%E5%85%AB%E6%97%AC%E5%A4%A7%E7%88%B7%E8%AF%AF%E6%8A%8A%E4%B8%BB%E6%92%AD%E5%BD%93%E5%A5%B3%E5%8F%8B%E5%8D%83%E9%87%8C%E5%A5%94%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [大学生疑因超负荷工作离世](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%96%91%E5%9B%A0%E8%B6%85%E8%B4%9F%E8%8D%B7%E5%B7%A5%E4%BD%9C%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [世界卫生组织称有“神秘肺炎”？](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E5%8D%AB%E7%94%9F%E7%BB%84%E7%BB%87%E7%A7%B0%E6%9C%89%E2%80%9C%E7%A5%9E%E7%A7%98%E8%82%BA%E7%82%8E%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [深圳小学初中明年起每天1节体育课](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B0%8F%E5%AD%A6%E5%88%9D%E4%B8%AD%E6%98%8E%E5%B9%B4%E8%B5%B7%E6%AF%8F%E5%A4%A91%E8%8A%82%E4%BD%93%E8%82%B2%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子住别墅开豪车欠朋友十多万不还](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BD%8F%E5%88%AB%E5%A2%85%E5%BC%80%E8%B1%AA%E8%BD%A6%E6%AC%A0%E6%9C%8B%E5%8F%8B%E5%8D%81%E5%A4%9A%E4%B8%87%E4%B8%8D%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [八旬大爷误把主播当女友千里奔现](https://www.baidu.com/s?wd=%E5%85%AB%E6%97%AC%E5%A4%A7%E7%88%B7%E8%AF%AF%E6%8A%8A%E4%B8%BB%E6%92%AD%E5%BD%93%E5%A5%B3%E5%8F%8B%E5%8D%83%E9%87%8C%E5%A5%94%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [新娘夫妻对拜时被一女子用力按头](https://www.baidu.com/s?wd=%E6%96%B0%E5%A8%98%E5%A4%AB%E5%A6%BB%E5%AF%B9%E6%8B%9C%E6%97%B6%E8%A2%AB%E4%B8%80%E5%A5%B3%E5%AD%90%E7%94%A8%E5%8A%9B%E6%8C%89%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [新娘夫妻对拜时被一女子用力按头](https://www.baidu.com/s?wd=%E6%96%B0%E5%A8%98%E5%A4%AB%E5%A6%BB%E5%AF%B9%E6%8B%9C%E6%97%B6%E8%A2%AB%E4%B8%80%E5%A5%B3%E5%AD%90%E7%94%A8%E5%8A%9B%E6%8C%89%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [八旬大爷误把主播当女友千里奔现](https://www.baidu.com/s?wd=%E5%85%AB%E6%97%AC%E5%A4%A7%E7%88%B7%E8%AF%AF%E6%8A%8A%E4%B8%BB%E6%92%AD%E5%BD%93%E5%A5%B3%E5%8F%8B%E5%8D%83%E9%87%8C%E5%A5%94%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [大学生疑因超负荷工作离世](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%96%91%E5%9B%A0%E8%B6%85%E8%B4%9F%E8%8D%B7%E5%B7%A5%E4%BD%9C%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [世界卫生组织称有“神秘肺炎”？](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E5%8D%AB%E7%94%9F%E7%BB%84%E7%BB%87%E7%A7%B0%E6%9C%89%E2%80%9C%E7%A5%9E%E7%A7%98%E8%82%BA%E7%82%8E%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
