@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 22:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 22:38:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [医生因颜值高引多人挂号 院方回应](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%A0%E9%A2%9C%E5%80%BC%E9%AB%98%E5%BC%95%E5%A4%9A%E4%BA%BA%E6%8C%82%E5%8F%B7+%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [深圳街头奔驰跑车失控撞飞路人](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E8%A1%97%E5%A4%B4%E5%A5%94%E9%A9%B0%E8%B7%91%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E9%A3%9E%E8%B7%AF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [34岁抗癌网红李小妞去世](https://www.baidu.com/s?wd=34%E5%B2%81%E6%8A%97%E7%99%8C%E7%BD%91%E7%BA%A2%E6%9D%8E%E5%B0%8F%E5%A6%9E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子住别墅开豪车欠朋友十多万不还](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BD%8F%E5%88%AB%E5%A2%85%E5%BC%80%E8%B1%AA%E8%BD%A6%E6%AC%A0%E6%9C%8B%E5%8F%8B%E5%8D%81%E5%A4%9A%E4%B8%87%E4%B8%8D%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子回应捡到大学生手机索要千元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E6%8D%A1%E5%88%B0%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%89%8B%E6%9C%BA%E7%B4%A2%E8%A6%81%E5%8D%83%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华校友会辟谣捐赠铜像被卖废品](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%A0%A1%E5%8F%8B%E4%BC%9A%E8%BE%9F%E8%B0%A3%E6%8D%90%E8%B5%A0%E9%93%9C%E5%83%8F%E8%A2%AB%E5%8D%96%E5%BA%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [医生因颜值高引多人挂号 院方回应](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%A0%E9%A2%9C%E5%80%BC%E9%AB%98%E5%BC%95%E5%A4%9A%E4%BA%BA%E6%8C%82%E5%8F%B7+%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [深圳街头奔驰跑车失控撞飞路人](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E8%A1%97%E5%A4%B4%E5%A5%94%E9%A9%B0%E8%B7%91%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E9%A3%9E%E8%B7%AF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [34岁抗癌网红李小妞去世](https://www.baidu.com/s?wd=34%E5%B2%81%E6%8A%97%E7%99%8C%E7%BD%91%E7%BA%A2%E6%9D%8E%E5%B0%8F%E5%A6%9E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子住别墅开豪车欠朋友十多万不还](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BD%8F%E5%88%AB%E5%A2%85%E5%BC%80%E8%B1%AA%E8%BD%A6%E6%AC%A0%E6%9C%8B%E5%8F%8B%E5%8D%81%E5%A4%9A%E4%B8%87%E4%B8%8D%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子回应捡到大学生手机索要千元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E6%8D%A1%E5%88%B0%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%89%8B%E6%9C%BA%E7%B4%A2%E8%A6%81%E5%8D%83%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华校友会辟谣捐赠铜像被卖废品](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%A0%A1%E5%8F%8B%E4%BC%9A%E8%BE%9F%E8%B0%A3%E6%8D%90%E8%B5%A0%E9%93%9C%E5%83%8F%E8%A2%AB%E5%8D%96%E5%BA%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
