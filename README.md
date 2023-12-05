@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 19:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 19:24:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [中国高水平开放“加速跑”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%B0%B4%E5%B9%B3%E5%BC%80%E6%94%BE%E2%80%9C%E5%8A%A0%E9%80%9F%E8%B7%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [人民日报评五月天被曝疑似假唱](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E6%9B%9D%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [34岁抗癌网红李小妞去世](https://www.baidu.com/s?wd=34%E5%B2%81%E6%8A%97%E7%99%8C%E7%BD%91%E7%BA%A2%E6%9D%8E%E5%B0%8F%E5%A6%9E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杭州一生煎店房租涨到120万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%9F%E7%85%8E%E5%BA%97%E6%88%BF%E7%A7%9F%E6%B6%A8%E5%88%B0120%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [学校回应寝室床垫用杂草填充](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AF%9D%E5%AE%A4%E5%BA%8A%E5%9E%AB%E7%94%A8%E6%9D%82%E8%8D%89%E5%A1%AB%E5%85%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#2023年度问答#](https://www.baidu.com/s?wd=%232023%E5%B9%B4%E5%BA%A6%E9%97%AE%E7%AD%94%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华校友会辟谣捐赠铜像被卖废品](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%A0%A1%E5%8F%8B%E4%BC%9A%E8%BE%9F%E8%B0%A3%E6%8D%90%E8%B5%A0%E9%93%9C%E5%83%8F%E8%A2%AB%E5%8D%96%E5%BA%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [中国高水平开放“加速跑”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%B0%B4%E5%B9%B3%E5%BC%80%E6%94%BE%E2%80%9C%E5%8A%A0%E9%80%9F%E8%B7%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [人民日报评五月天被曝疑似假唱](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E6%9B%9D%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [34岁抗癌网红李小妞去世](https://www.baidu.com/s?wd=34%E5%B2%81%E6%8A%97%E7%99%8C%E7%BD%91%E7%BA%A2%E6%9D%8E%E5%B0%8F%E5%A6%9E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杭州一生煎店房租涨到120万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%9F%E7%85%8E%E5%BA%97%E6%88%BF%E7%A7%9F%E6%B6%A8%E5%88%B0120%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [学校回应寝室床垫用杂草填充](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AF%9D%E5%AE%A4%E5%BA%8A%E5%9E%AB%E7%94%A8%E6%9D%82%E8%8D%89%E5%A1%AB%E5%85%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#2023年度问答#](https://www.baidu.com/s?wd=%232023%E5%B9%B4%E5%BA%A6%E9%97%AE%E7%AD%94%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华校友会辟谣捐赠铜像被卖废品](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%A0%A1%E5%8F%8B%E4%BC%9A%E8%BE%9F%E8%B0%A3%E6%8D%90%E8%B5%A0%E9%93%9C%E5%83%8F%E8%A2%AB%E5%8D%96%E5%BA%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
