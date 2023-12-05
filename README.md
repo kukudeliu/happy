@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 21:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 21:56:01</h4></div>
 
 > 微博  
 
@@ -21,10 +21,10 @@
 2. [人民日报评五月天被曝疑似假唱](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E6%9B%9D%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [医生因颜值高引多人挂号 院方回应](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%A0%E9%A2%9C%E5%80%BC%E9%AB%98%E5%BC%95%E5%A4%9A%E4%BA%BA%E6%8C%82%E5%8F%B7+%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“小包裹”折射“大经济”](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E5%8C%85%E8%A3%B9%E2%80%9D%E6%8A%98%E5%B0%84%E2%80%9C%E5%A4%A7%E7%BB%8F%E6%B5%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [厄尔尼诺事件将持续到明年春天](https://www.baidu.com/s?wd=%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E4%BA%8B%E4%BB%B6%E5%B0%86%E6%8C%81%E7%BB%AD%E5%88%B0%E6%98%8E%E5%B9%B4%E6%98%A5%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [油价5连降 加满一箱油将少花2元](https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B75%E8%BF%9E%E9%99%8D+%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%B0%86%E5%B0%91%E8%8A%B12%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [刘德华为父亲设灵 与妻女到场送别](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E4%B8%BA%E7%88%B6%E4%BA%B2%E8%AE%BE%E7%81%B5+%E4%B8%8E%E5%A6%BB%E5%A5%B3%E5%88%B0%E5%9C%BA%E9%80%81%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [26款羽绒服不合格：探路者上黑榜](https://www.baidu.com/s?wd=26%E6%AC%BE%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8D%E5%90%88%E6%A0%BC%EF%BC%9A%E6%8E%A2%E8%B7%AF%E8%80%85%E4%B8%8A%E9%BB%91%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [26款羽绒服不合格：探路者上黑榜](https://www.baidu.com/s?wd=26%E6%AC%BE%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8D%E5%90%88%E6%A0%BC%EF%BC%9A%E6%8E%A2%E8%B7%AF%E8%80%85%E4%B8%8A%E9%BB%91%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子4秒连拍6掌徒手摔死老鼠](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%904%E7%A7%92%E8%BF%9E%E6%8B%8D6%E6%8E%8C%E5%BE%92%E6%89%8B%E6%91%94%E6%AD%BB%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度男老师被胁迫与绑匪女儿结婚](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%94%B7%E8%80%81%E5%B8%88%E8%A2%AB%E8%83%81%E8%BF%AB%E4%B8%8E%E7%BB%91%E5%8C%AA%E5%A5%B3%E5%84%BF%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [摩托车队硬闯高速收费站暴力抬杆](https://www.baidu.com/s?wd=%E6%91%A9%E6%89%98%E8%BD%A6%E9%98%9F%E7%A1%AC%E9%97%AF%E9%AB%98%E9%80%9F%E6%94%B6%E8%B4%B9%E7%AB%99%E6%9A%B4%E5%8A%9B%E6%8A%AC%E6%9D%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华校友会辟谣捐赠铜像被卖废品](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%A0%A1%E5%8F%8B%E4%BC%9A%E8%BE%9F%E8%B0%A3%E6%8D%90%E8%B5%A0%E9%93%9C%E5%83%8F%E8%A2%AB%E5%8D%96%E5%BA%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -33,8 +33,8 @@
 2. [人民日报评五月天被曝疑似假唱](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E6%9B%9D%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [医生因颜值高引多人挂号 院方回应](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%A0%E9%A2%9C%E5%80%BC%E9%AB%98%E5%BC%95%E5%A4%9A%E4%BA%BA%E6%8C%82%E5%8F%B7+%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“小包裹”折射“大经济”](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E5%8C%85%E8%A3%B9%E2%80%9D%E6%8A%98%E5%B0%84%E2%80%9C%E5%A4%A7%E7%BB%8F%E6%B5%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [厄尔尼诺事件将持续到明年春天](https://www.baidu.com/s?wd=%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E4%BA%8B%E4%BB%B6%E5%B0%86%E6%8C%81%E7%BB%AD%E5%88%B0%E6%98%8E%E5%B9%B4%E6%98%A5%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [油价5连降 加满一箱油将少花2元](https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B75%E8%BF%9E%E9%99%8D+%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%B0%86%E5%B0%91%E8%8A%B12%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [刘德华为父亲设灵 与妻女到场送别](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E4%B8%BA%E7%88%B6%E4%BA%B2%E8%AE%BE%E7%81%B5+%E4%B8%8E%E5%A6%BB%E5%A5%B3%E5%88%B0%E5%9C%BA%E9%80%81%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [26款羽绒服不合格：探路者上黑榜](https://www.baidu.com/s?wd=26%E6%AC%BE%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8D%E5%90%88%E6%A0%BC%EF%BC%9A%E6%8E%A2%E8%B7%AF%E8%80%85%E4%B8%8A%E9%BB%91%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [26款羽绒服不合格：探路者上黑榜](https://www.baidu.com/s?wd=26%E6%AC%BE%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8D%E5%90%88%E6%A0%BC%EF%BC%9A%E6%8E%A2%E8%B7%AF%E8%80%85%E4%B8%8A%E9%BB%91%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子4秒连拍6掌徒手摔死老鼠](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%904%E7%A7%92%E8%BF%9E%E6%8B%8D6%E6%8E%8C%E5%BE%92%E6%89%8B%E6%91%94%E6%AD%BB%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [印度男老师被胁迫与绑匪女儿结婚](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%94%B7%E8%80%81%E5%B8%88%E8%A2%AB%E8%83%81%E8%BF%AB%E4%B8%8E%E7%BB%91%E5%8C%AA%E5%A5%B3%E5%84%BF%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [摩托车队硬闯高速收费站暴力抬杆](https://www.baidu.com/s?wd=%E6%91%A9%E6%89%98%E8%BD%A6%E9%98%9F%E7%A1%AC%E9%97%AF%E9%AB%98%E9%80%9F%E6%94%B6%E8%B4%B9%E7%AB%99%E6%9A%B4%E5%8A%9B%E6%8A%AC%E6%9D%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华校友会辟谣捐赠铜像被卖废品](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%A0%A1%E5%8F%8B%E4%BC%9A%E8%BE%9F%E8%B0%A3%E6%8D%90%E8%B5%A0%E9%93%9C%E5%83%8F%E8%A2%AB%E5%8D%96%E5%BA%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
