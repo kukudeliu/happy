@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 11:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 11:09:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [男子住别墅开豪车欠朋友十多万不还](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BD%8F%E5%88%AB%E5%A2%85%E5%BC%80%E8%B1%AA%E8%BD%A6%E6%AC%A0%E6%9C%8B%E5%8F%8B%E5%8D%81%E5%A4%9A%E4%B8%87%E4%B8%8D%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [新娘夫妻对拜时被一女子用力按头](https://www.baidu.com/s?wd=%E6%96%B0%E5%A8%98%E5%A4%AB%E5%A6%BB%E5%AF%B9%E6%8B%9C%E6%97%B6%E8%A2%AB%E4%B8%80%E5%A5%B3%E5%AD%90%E7%94%A8%E5%8A%9B%E6%8C%89%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [八旬大爷误把主播当女友千里奔现](https://www.baidu.com/s?wd=%E5%85%AB%E6%97%AC%E5%A4%A7%E7%88%B7%E8%AF%AF%E6%8A%8A%E4%B8%BB%E6%92%AD%E5%BD%93%E5%A5%B3%E5%8F%8B%E5%8D%83%E9%87%8C%E5%A5%94%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大学生疑因超负荷工作离世](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%96%91%E5%9B%A0%E8%B6%85%E8%B4%9F%E8%8D%B7%E5%B7%A5%E4%BD%9C%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [42岁断崖式衰老女子确诊卵巢早衰](https://www.baidu.com/s?wd=42%E5%B2%81%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [世界卫生组织称有“神秘肺炎”？](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E5%8D%AB%E7%94%9F%E7%BB%84%E7%BB%87%E7%A7%B0%E6%9C%89%E2%80%9C%E7%A5%9E%E7%A7%98%E8%82%BA%E7%82%8E%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男子住别墅开豪车欠朋友十多万不还](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BD%8F%E5%88%AB%E5%A2%85%E5%BC%80%E8%B1%AA%E8%BD%A6%E6%AC%A0%E6%9C%8B%E5%8F%8B%E5%8D%81%E5%A4%9A%E4%B8%87%E4%B8%8D%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [新娘夫妻对拜时被一女子用力按头](https://www.baidu.com/s?wd=%E6%96%B0%E5%A8%98%E5%A4%AB%E5%A6%BB%E5%AF%B9%E6%8B%9C%E6%97%B6%E8%A2%AB%E4%B8%80%E5%A5%B3%E5%AD%90%E7%94%A8%E5%8A%9B%E6%8C%89%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [八旬大爷误把主播当女友千里奔现](https://www.baidu.com/s?wd=%E5%85%AB%E6%97%AC%E5%A4%A7%E7%88%B7%E8%AF%AF%E6%8A%8A%E4%B8%BB%E6%92%AD%E5%BD%93%E5%A5%B3%E5%8F%8B%E5%8D%83%E9%87%8C%E5%A5%94%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大学生疑因超负荷工作离世](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%96%91%E5%9B%A0%E8%B6%85%E8%B4%9F%E8%8D%B7%E5%B7%A5%E4%BD%9C%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [42岁断崖式衰老女子确诊卵巢早衰](https://www.baidu.com/s?wd=42%E5%B2%81%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [世界卫生组织称有“神秘肺炎”？](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E5%8D%AB%E7%94%9F%E7%BB%84%E7%BB%87%E7%A7%B0%E6%9C%89%E2%80%9C%E7%A5%9E%E7%A7%98%E8%82%BA%E7%82%8E%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
