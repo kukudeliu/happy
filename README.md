@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 13:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 13:54:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [国内需求持续恢复稳步扩大](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%9C%80%E6%B1%82%E6%8C%81%E7%BB%AD%E6%81%A2%E5%A4%8D%E7%A8%B3%E6%AD%A5%E6%89%A9%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杨鸣唐佳良离婚](https://www.baidu.com/s?wd=%E6%9D%A8%E9%B8%A3%E5%94%90%E4%BD%B3%E8%89%AF%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [狂飙演员转做主播月入不足3千](https://www.baidu.com/s?wd=%E7%8B%82%E9%A3%99%E6%BC%94%E5%91%98%E8%BD%AC%E5%81%9A%E4%B8%BB%E6%92%AD%E6%9C%88%E5%85%A5%E4%B8%8D%E8%B6%B33%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [印度男老师被胁迫与绑匪女儿结婚](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%94%B7%E8%80%81%E5%B8%88%E8%A2%AB%E8%83%81%E8%BF%AB%E4%B8%8E%E7%BB%91%E5%8C%AA%E5%A5%B3%E5%84%BF%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [教育部：师生不带病上课上学](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%B8%88%E7%94%9F%E4%B8%8D%E5%B8%A6%E7%97%85%E4%B8%8A%E8%AF%BE%E4%B8%8A%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [教育部：师生不带病上课上学](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%B8%88%E7%94%9F%E4%B8%8D%E5%B8%A6%E7%97%85%E4%B8%8A%E8%AF%BE%E4%B8%8A%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度男老师被胁迫与绑匪女儿结婚](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%94%B7%E8%80%81%E5%B8%88%E8%A2%AB%E8%83%81%E8%BF%AB%E4%B8%8E%E7%BB%91%E5%8C%AA%E5%A5%B3%E5%84%BF%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [脚越臭踩的冬腌菜越香？](https://www.baidu.com/s?wd=%E8%84%9A%E8%B6%8A%E8%87%AD%E8%B8%A9%E7%9A%84%E5%86%AC%E8%85%8C%E8%8F%9C%E8%B6%8A%E9%A6%99%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [国内需求持续恢复稳步扩大](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%9C%80%E6%B1%82%E6%8C%81%E7%BB%AD%E6%81%A2%E5%A4%8D%E7%A8%B3%E6%AD%A5%E6%89%A9%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杨鸣唐佳良离婚](https://www.baidu.com/s?wd=%E6%9D%A8%E9%B8%A3%E5%94%90%E4%BD%B3%E8%89%AF%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [狂飙演员转做主播月入不足3千](https://www.baidu.com/s?wd=%E7%8B%82%E9%A3%99%E6%BC%94%E5%91%98%E8%BD%AC%E5%81%9A%E4%B8%BB%E6%92%AD%E6%9C%88%E5%85%A5%E4%B8%8D%E8%B6%B33%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [印度男老师被胁迫与绑匪女儿结婚](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%94%B7%E8%80%81%E5%B8%88%E8%A2%AB%E8%83%81%E8%BF%AB%E4%B8%8E%E7%BB%91%E5%8C%AA%E5%A5%B3%E5%84%BF%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [教育部：师生不带病上课上学](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%B8%88%E7%94%9F%E4%B8%8D%E5%B8%A6%E7%97%85%E4%B8%8A%E8%AF%BE%E4%B8%8A%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [教育部：师生不带病上课上学](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%B8%88%E7%94%9F%E4%B8%8D%E5%B8%A6%E7%97%85%E4%B8%8A%E8%AF%BE%E4%B8%8A%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度男老师被胁迫与绑匪女儿结婚](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%94%B7%E8%80%81%E5%B8%88%E8%A2%AB%E8%83%81%E8%BF%AB%E4%B8%8E%E7%BB%91%E5%8C%AA%E5%A5%B3%E5%84%BF%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [脚越臭踩的冬腌菜越香？](https://www.baidu.com/s?wd=%E8%84%9A%E8%B6%8A%E8%87%AD%E8%B8%A9%E7%9A%84%E5%86%AC%E8%85%8C%E8%8F%9C%E8%B6%8A%E9%A6%99%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
