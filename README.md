@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 21:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 21:48:01</h4></div>
 
 > 微博  
 
-1. [人民日报评五月天疑似假唱](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E4%BA%94%E6%9C%88%E5%A4%A9%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1%23&t=31&band_rank=1&Refer=top)<br />
-2. [丁海寅 夜店常客](https://s.weibo.com/weibo?q=%E4%B8%81%E6%B5%B7%E5%AF%85%20%E5%A4%9C%E5%BA%97%E5%B8%B8%E5%AE%A2&t=31&band_rank=2&Refer=top)<br />
+1. [丁海寅 夜店常客](https://s.weibo.com/weibo?q=%E4%B8%81%E6%B5%B7%E5%AF%85%20%E5%A4%9C%E5%BA%97%E5%B8%B8%E5%AE%A2&t=31&band_rank=1&Refer=top)<br />
+2. [人民日报评五月天疑似假唱](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E4%BA%94%E6%9C%88%E5%A4%A9%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1%23&t=31&band_rank=2&Refer=top)<br />
 3. [快递小包裹为中国经济写下生动注脚](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E5%B0%8F%E5%8C%85%E8%A3%B9%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%86%99%E4%B8%8B%E7%94%9F%E5%8A%A8%E6%B3%A8%E8%84%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [关晓彤内场 秀腿是她的统治区](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E5%86%85%E5%9C%BA%20%E7%A7%80%E8%85%BF%E6%98%AF%E5%A5%B9%E7%9A%84%E7%BB%9F%E6%B2%BB%E5%8C%BA&t=31&band_rank=4&Refer=top)<br />
 5. [多平台取消杨鸣总教练认证](https://s.weibo.com/weibo?q=%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%8F%96%E6%B6%88%E6%9D%A8%E9%B8%A3%E6%80%BB%E6%95%99%E7%BB%83%E8%AE%A4%E8%AF%81&t=31&band_rank=5&Refer=top)<br />
