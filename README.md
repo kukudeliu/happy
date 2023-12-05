@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 13:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 13:44:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [国内需求持续恢复稳步扩大](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%9C%80%E6%B1%82%E6%8C%81%E7%BB%AD%E6%81%A2%E5%A4%8D%E7%A8%B3%E6%AD%A5%E6%89%A9%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杨鸣唐佳良离婚](https://www.baidu.com/s?wd=%E6%9D%A8%E9%B8%A3%E5%94%90%E4%BD%B3%E8%89%AF%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [狂飙演员转做主播月入不足3千](https://www.baidu.com/s?wd=%E7%8B%82%E9%A3%99%E6%BC%94%E5%91%98%E8%BD%AC%E5%81%9A%E4%B8%BB%E6%92%AD%E6%9C%88%E5%85%A5%E4%B8%8D%E8%B6%B33%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [爆米花摊机器突然爆炸致2人受伤](https://www.baidu.com/s?wd=%E7%88%86%E7%B1%B3%E8%8A%B1%E6%91%8A%E6%9C%BA%E5%99%A8%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8%E8%87%B42%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [城管疑用私人二维码收罚款](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E7%96%91%E7%94%A8%E7%A7%81%E4%BA%BA%E4%BA%8C%E7%BB%B4%E7%A0%81%E6%94%B6%E7%BD%9A%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [教育部：师生不带病上课上学](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%B8%88%E7%94%9F%E4%B8%8D%E5%B8%A6%E7%97%85%E4%B8%8A%E8%AF%BE%E4%B8%8A%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [爆米花摊机器突然爆炸致2人受伤](https://www.baidu.com/s?wd=%E7%88%86%E7%B1%B3%E8%8A%B1%E6%91%8A%E6%9C%BA%E5%99%A8%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8%E8%87%B42%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [脚越臭踩的冬腌菜越香？](https://www.baidu.com/s?wd=%E8%84%9A%E8%B6%8A%E8%87%AD%E8%B8%A9%E7%9A%84%E5%86%AC%E8%85%8C%E8%8F%9C%E8%B6%8A%E9%A6%99%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [国内需求持续恢复稳步扩大](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%9C%80%E6%B1%82%E6%8C%81%E7%BB%AD%E6%81%A2%E5%A4%8D%E7%A8%B3%E6%AD%A5%E6%89%A9%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杨鸣唐佳良离婚](https://www.baidu.com/s?wd=%E6%9D%A8%E9%B8%A3%E5%94%90%E4%BD%B3%E8%89%AF%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [狂飙演员转做主播月入不足3千](https://www.baidu.com/s?wd=%E7%8B%82%E9%A3%99%E6%BC%94%E5%91%98%E8%BD%AC%E5%81%9A%E4%B8%BB%E6%92%AD%E6%9C%88%E5%85%A5%E4%B8%8D%E8%B6%B33%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [爆米花摊机器突然爆炸致2人受伤](https://www.baidu.com/s?wd=%E7%88%86%E7%B1%B3%E8%8A%B1%E6%91%8A%E6%9C%BA%E5%99%A8%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8%E8%87%B42%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [城管疑用私人二维码收罚款](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E7%96%91%E7%94%A8%E7%A7%81%E4%BA%BA%E4%BA%8C%E7%BB%B4%E7%A0%81%E6%94%B6%E7%BD%9A%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [教育部：师生不带病上课上学](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%B8%88%E7%94%9F%E4%B8%8D%E5%B8%A6%E7%97%85%E4%B8%8A%E8%AF%BE%E4%B8%8A%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [爆米花摊机器突然爆炸致2人受伤](https://www.baidu.com/s?wd=%E7%88%86%E7%B1%B3%E8%8A%B1%E6%91%8A%E6%9C%BA%E5%99%A8%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8%E8%87%B42%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [脚越臭踩的冬腌菜越香？](https://www.baidu.com/s?wd=%E8%84%9A%E8%B6%8A%E8%87%AD%E8%B8%A9%E7%9A%84%E5%86%AC%E8%85%8C%E8%8F%9C%E8%B6%8A%E9%A6%99%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
