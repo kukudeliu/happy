@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 21:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 21:03:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [厄尔尼诺事件将持续到明年春天](https://www.baidu.com/s?wd=%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E4%BA%8B%E4%BB%B6%E5%B0%86%E6%8C%81%E7%BB%AD%E5%88%B0%E6%98%8E%E5%B9%B4%E6%98%A5%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [银行通报员工被领导施压发生关系](https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E9%80%9A%E6%8A%A5%E5%91%98%E5%B7%A5%E8%A2%AB%E9%A2%86%E5%AF%BC%E6%96%BD%E5%8E%8B%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [34岁抗癌网红李小妞去世](https://www.baidu.com/s?wd=34%E5%B2%81%E6%8A%97%E7%99%8C%E7%BD%91%E7%BA%A2%E6%9D%8E%E5%B0%8F%E5%A6%9E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [#2023年度问答#](https://www.baidu.com/s?wd=%232023%E5%B9%B4%E5%BA%A6%E9%97%AE%E7%AD%94%23&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大学生用无人机救遭撕咬保护动物](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%95%91%E9%81%AD%E6%92%95%E5%92%AC%E4%BF%9D%E6%8A%A4%E5%8A%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华校友会辟谣捐赠铜像被卖废品](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%A0%A1%E5%8F%8B%E4%BC%9A%E8%BE%9F%E8%B0%A3%E6%8D%90%E8%B5%A0%E9%93%9C%E5%83%8F%E8%A2%AB%E5%8D%96%E5%BA%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [厄尔尼诺事件将持续到明年春天](https://www.baidu.com/s?wd=%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E4%BA%8B%E4%BB%B6%E5%B0%86%E6%8C%81%E7%BB%AD%E5%88%B0%E6%98%8E%E5%B9%B4%E6%98%A5%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [银行通报员工被领导施压发生关系](https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E9%80%9A%E6%8A%A5%E5%91%98%E5%B7%A5%E8%A2%AB%E9%A2%86%E5%AF%BC%E6%96%BD%E5%8E%8B%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [34岁抗癌网红李小妞去世](https://www.baidu.com/s?wd=34%E5%B2%81%E6%8A%97%E7%99%8C%E7%BD%91%E7%BA%A2%E6%9D%8E%E5%B0%8F%E5%A6%9E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [#2023年度问答#](https://www.baidu.com/s?wd=%232023%E5%B9%B4%E5%BA%A6%E9%97%AE%E7%AD%94%23&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大学生用无人机救遭撕咬保护动物](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%95%91%E9%81%AD%E6%92%95%E5%92%AC%E4%BF%9D%E6%8A%A4%E5%8A%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华校友会辟谣捐赠铜像被卖废品](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%A0%A1%E5%8F%8B%E4%BC%9A%E8%BE%9F%E8%B0%A3%E6%8D%90%E8%B5%A0%E9%93%9C%E5%83%8F%E8%A2%AB%E5%8D%96%E5%BA%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
