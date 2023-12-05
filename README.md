@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 17:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 17:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵露思 快乐小狗](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E5%BF%AB%E4%B9%90%E5%B0%8F%E7%8B%97&t=31&band_rank=6&Refer=top)<br />
 7. [杨鸣离婚](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [告五人 五月天](https://s.weibo.com/weibo?q=%E5%91%8A%E4%BA%94%E4%BA%BA%20%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=8&Refer=top)<br />
-9. [财政部回应穆迪调降中国主权信用评级展望](https://s.weibo.com/weibo?q=%23%E8%B4%A2%E6%94%BF%E9%83%A8%E5%9B%9E%E5%BA%94%E7%A9%86%E8%BF%AA%E8%B0%83%E9%99%8D%E4%B8%AD%E5%9B%BD%E4%B8%BB%E6%9D%83%E4%BF%A1%E7%94%A8%E8%AF%84%E7%BA%A7%E5%B1%95%E6%9C%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [孟羽童 清华演讲](https://s.weibo.com/weibo?q=%E5%AD%9F%E7%BE%BD%E7%AB%A5%20%E6%B8%85%E5%8D%8E%E6%BC%94%E8%AE%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
