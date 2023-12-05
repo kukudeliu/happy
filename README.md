@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 21:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 21:59:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [“小包裹”折射“大经济”](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E5%8C%85%E8%A3%B9%E2%80%9D%E6%8A%98%E5%B0%84%E2%80%9C%E5%A4%A7%E7%BB%8F%E6%B5%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [医生因颜值高引多人挂号 院方回应](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%A0%E9%A2%9C%E5%80%BC%E9%AB%98%E5%BC%95%E5%A4%9A%E4%BA%BA%E6%8C%82%E5%8F%B7+%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子4秒连拍6掌徒手摔死老鼠](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%904%E7%A7%92%E8%BF%9E%E6%8B%8D6%E6%8E%8C%E5%BE%92%E6%89%8B%E6%91%94%E6%AD%BB%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杭州一生煎店房租涨到120万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%9F%E7%85%8E%E5%BA%97%E6%88%BF%E7%A7%9F%E6%B6%A8%E5%88%B0120%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [摩托车队硬闯高速收费站暴力抬杆](https://www.baidu.com/s?wd=%E6%91%A9%E6%89%98%E8%BD%A6%E9%98%9F%E7%A1%AC%E9%97%AF%E9%AB%98%E9%80%9F%E6%94%B6%E8%B4%B9%E7%AB%99%E6%9A%B4%E5%8A%9B%E6%8A%AC%E6%9D%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [英伟达市值一夜蒸发310亿美元](https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91310%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杭州一生煎店房租涨到120万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%9F%E7%85%8E%E5%BA%97%E6%88%BF%E7%A7%9F%E6%B6%A8%E5%88%B0120%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华校友会辟谣捐赠铜像被卖废品](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%A0%A1%E5%8F%8B%E4%BC%9A%E8%BE%9F%E8%B0%A3%E6%8D%90%E8%B5%A0%E9%93%9C%E5%83%8F%E8%A2%AB%E5%8D%96%E5%BA%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [“小包裹”折射“大经济”](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E5%8C%85%E8%A3%B9%E2%80%9D%E6%8A%98%E5%B0%84%E2%80%9C%E5%A4%A7%E7%BB%8F%E6%B5%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [医生因颜值高引多人挂号 院方回应](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%A0%E9%A2%9C%E5%80%BC%E9%AB%98%E5%BC%95%E5%A4%9A%E4%BA%BA%E6%8C%82%E5%8F%B7+%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子4秒连拍6掌徒手摔死老鼠](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%904%E7%A7%92%E8%BF%9E%E6%8B%8D6%E6%8E%8C%E5%BE%92%E6%89%8B%E6%91%94%E6%AD%BB%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杭州一生煎店房租涨到120万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%9F%E7%85%8E%E5%BA%97%E6%88%BF%E7%A7%9F%E6%B6%A8%E5%88%B0120%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [摩托车队硬闯高速收费站暴力抬杆](https://www.baidu.com/s?wd=%E6%91%A9%E6%89%98%E8%BD%A6%E9%98%9F%E7%A1%AC%E9%97%AF%E9%AB%98%E9%80%9F%E6%94%B6%E8%B4%B9%E7%AB%99%E6%9A%B4%E5%8A%9B%E6%8A%AC%E6%9D%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [英伟达市值一夜蒸发310亿美元](https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91310%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杭州一生煎店房租涨到120万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%9F%E7%85%8E%E5%BA%97%E6%88%BF%E7%A7%9F%E6%B6%A8%E5%88%B0120%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华校友会辟谣捐赠铜像被卖废品](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%A0%A1%E5%8F%8B%E4%BC%9A%E8%BE%9F%E8%B0%A3%E6%8D%90%E8%B5%A0%E9%93%9C%E5%83%8F%E8%A2%AB%E5%8D%96%E5%BA%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
