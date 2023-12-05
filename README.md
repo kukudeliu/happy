@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 22:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 22:41:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [人民日报评五月天疑似假唱](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E4%BA%94%E6%9C%88%E5%A4%A9%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [张天爱 他们怎么穿黑的不告诉我](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A4%A9%E7%88%B1%20%E4%BB%96%E4%BB%AC%E6%80%8E%E4%B9%88%E7%A9%BF%E9%BB%91%E7%9A%84%E4%B8%8D%E5%91%8A%E8%AF%89%E6%88%91&t=31&band_rank=5&Refer=top)<br />
 6. [多平台取消杨鸣总教练认证](https://s.weibo.com/weibo?q=%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%8F%96%E6%B6%88%E6%9D%A8%E9%B8%A3%E6%80%BB%E6%95%99%E7%BB%83%E8%AE%A4%E8%AF%81&t=31&band_rank=6&Refer=top)<br />
-7. [赵露思 油画少女](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E6%B2%B9%E7%94%BB%E5%B0%91%E5%A5%B3&t=31&band_rank=7&Refer=top)<br />
+7. [湖南卫视 那英](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%20%E9%82%A3%E8%8B%B1&t=31&band_rank=7&Refer=top)<br />
 8. [轻语 已婚有娃](https://s.weibo.com/weibo?q=%E8%BD%BB%E8%AF%AD%20%E5%B7%B2%E5%A9%9A%E6%9C%89%E5%A8%83&t=31&band_rank=8&Refer=top)<br />
 9. [斗鱼主播](https://s.weibo.com/weibo?q=%E6%96%97%E9%B1%BC%E4%B8%BB%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
 
