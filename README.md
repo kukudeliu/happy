@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 10:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 10:25:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [美好生活宪给你](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB%E5%AE%AA%E7%BB%99%E4%BD%A0%23&t=31&band_rank=3&Refer=top)<br />
 4. [恋丑癖](https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%91%E7%99%96&t=31&band_rank=4&Refer=top)<br />
 5. [生日回避型人格](https://s.weibo.com/weibo?q=%E7%94%9F%E6%97%A5%E5%9B%9E%E9%81%BF%E5%9E%8B%E4%BA%BA%E6%A0%BC&t=31&band_rank=5&Refer=top)<br />
-6. [韩国夫妇操控一家庭19年装13部监控](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%93%8D%E6%8E%A7%E4%B8%80%E5%AE%B6%E5%BA%AD19%E5%B9%B4%E8%A3%8513%E9%83%A8%E7%9B%91%E6%8E%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [宁远舟备孕](https://s.weibo.com/weibo?q=%E5%AE%81%E8%BF%9C%E8%88%9F%E5%A4%87%E5%AD%95&t=31&band_rank=7&Refer=top)<br />
+6. [宁远舟备孕](https://s.weibo.com/weibo?q=%E5%AE%81%E8%BF%9C%E8%88%9F%E5%A4%87%E5%AD%95&t=31&band_rank=6&Refer=top)<br />
+7. [韩国夫妇操控一家庭19年装13部监控](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%93%8D%E6%8E%A7%E4%B8%80%E5%AE%B6%E5%BA%AD19%E5%B9%B4%E8%A3%8513%E9%83%A8%E7%9B%91%E6%8E%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [五月天演唱会荧光棒](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8D%A7%E5%85%89%E6%A3%92&t=31&band_rank=8&Refer=top)<br />
 9. [30万买编制未果起诉要求退款被驳回](https://s.weibo.com/weibo?q=%2330%E4%B8%87%E4%B9%B0%E7%BC%96%E5%88%B6%E6%9C%AA%E6%9E%9C%E8%B5%B7%E8%AF%89%E8%A6%81%E6%B1%82%E9%80%80%E6%AC%BE%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&t=31&band_rank=9&Refer=top)<br />
 
