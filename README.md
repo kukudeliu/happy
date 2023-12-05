@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 20:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 20:48:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张若昀唐艺昕好甜](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%E5%94%90%E8%89%BA%E6%98%95%E5%A5%BD%E7%94%9C&t=31&band_rank=6&Refer=top)<br />
 7. [张小斐 年度优秀演员](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%20%E5%B9%B4%E5%BA%A6%E4%BC%98%E7%A7%80%E6%BC%94%E5%91%98&t=31&band_rank=7&Refer=top)<br />
 8. [爱马仕继承人将巨额财产留给园丁](https://s.weibo.com/weibo?q=%23%E7%88%B1%E9%A9%AC%E4%BB%95%E7%BB%A7%E6%89%BF%E4%BA%BA%E5%B0%86%E5%B7%A8%E9%A2%9D%E8%B4%A2%E4%BA%A7%E7%95%99%E7%BB%99%E5%9B%AD%E4%B8%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [多地医院向发烧患者发放电解质水](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8C%BB%E9%99%A2%E5%90%91%E5%8F%91%E7%83%A7%E6%82%A3%E8%80%85%E5%8F%91%E6%94%BE%E7%94%B5%E8%A7%A3%E8%B4%A8%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [马龙 稳稳的幸福](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99%20%E7%A8%B3%E7%A8%B3%E7%9A%84%E5%B9%B8%E7%A6%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
