@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 14:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 14:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [杨鸣唐佳良离婚](https://www.baidu.com/s?wd=%E6%9D%A8%E9%B8%A3%E5%94%90%E4%BD%B3%E8%89%AF%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [湖南一县委书记坠江身亡](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [厦门2名教师被指强奸大四女生](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A82%E5%90%8D%E6%95%99%E5%B8%88%E8%A2%AB%E6%8C%87%E5%BC%BA%E5%A5%B8%E5%A4%A7%E5%9B%9B%E5%A5%B3%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [爆米花摊机器突然爆炸致2人受伤](https://www.baidu.com/s?wd=%E7%88%86%E7%B1%B3%E8%8A%B1%E6%91%8A%E6%9C%BA%E5%99%A8%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8%E8%87%B42%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [城管疑用私人二维码收罚款](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E7%96%91%E7%94%A8%E7%A7%81%E4%BA%BA%E4%BA%8C%E7%BB%B4%E7%A0%81%E6%94%B6%E7%BD%9A%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [脚越臭踩的冬腌菜越香？](https://www.baidu.com/s?wd=%E8%84%9A%E8%B6%8A%E8%87%AD%E8%B8%A9%E7%9A%84%E5%86%AC%E8%85%8C%E8%8F%9C%E8%B6%8A%E9%A6%99%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [杨鸣唐佳良离婚](https://www.baidu.com/s?wd=%E6%9D%A8%E9%B8%A3%E5%94%90%E4%BD%B3%E8%89%AF%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [湖南一县委书记坠江身亡](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [厦门2名教师被指强奸大四女生](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A82%E5%90%8D%E6%95%99%E5%B8%88%E8%A2%AB%E6%8C%87%E5%BC%BA%E5%A5%B8%E5%A4%A7%E5%9B%9B%E5%A5%B3%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [爆米花摊机器突然爆炸致2人受伤](https://www.baidu.com/s?wd=%E7%88%86%E7%B1%B3%E8%8A%B1%E6%91%8A%E6%9C%BA%E5%99%A8%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8%E8%87%B42%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [城管疑用私人二维码收罚款](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E7%96%91%E7%94%A8%E7%A7%81%E4%BA%BA%E4%BA%8C%E7%BB%B4%E7%A0%81%E6%94%B6%E7%BD%9A%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [脚越臭踩的冬腌菜越香？](https://www.baidu.com/s?wd=%E8%84%9A%E8%B6%8A%E8%87%AD%E8%B8%A9%E7%9A%84%E5%86%AC%E8%85%8C%E8%8F%9C%E8%B6%8A%E9%A6%99%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
