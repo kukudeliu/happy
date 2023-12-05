@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 15:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 15:17:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [杨鸣 思思](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3%20%E6%80%9D%E6%80%9D&t=31&band_rank=4&Refer=top)<br />
 5. [薛之谦官宣三场演唱会](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%AE%98%E5%AE%A3%E4%B8%89%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [告五人 五月天](https://s.weibo.com/weibo?q=%E5%91%8A%E4%BA%94%E4%BA%BA%20%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=6&Refer=top)<br />
-7. [卡琳娜 长沙漫展](https://s.weibo.com/weibo?q=%E5%8D%A1%E7%90%B3%E5%A8%9C%20%E9%95%BF%E6%B2%99%E6%BC%AB%E5%B1%95&t=31&band_rank=7&Refer=top)<br />
-8. [湖南省一县委书记坠江身亡](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E7%9C%81%E4%B8%80%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+7. [湖南省一县委书记坠江身亡](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E7%9C%81%E4%B8%80%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
+8. [卡琳娜 长沙漫展](https://s.weibo.com/weibo?q=%E5%8D%A1%E7%90%B3%E5%A8%9C%20%E9%95%BF%E6%B2%99%E6%BC%AB%E5%B1%95&t=31&band_rank=8&Refer=top)<br />
 9. [他想避世她想入世](https://s.weibo.com/weibo?q=%23%E4%BB%96%E6%83%B3%E9%81%BF%E4%B8%96%E5%A5%B9%E6%83%B3%E5%85%A5%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
