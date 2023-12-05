@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 10:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 10:39:02</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [深圳小学初中明年起每天1节体育课](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B0%8F%E5%AD%A6%E5%88%9D%E4%B8%AD%E6%98%8E%E5%B9%B4%E8%B5%B7%E6%AF%8F%E5%A4%A91%E8%8A%82%E4%BD%93%E8%82%B2%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子住别墅开豪车欠朋友十多万不还](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BD%8F%E5%88%AB%E5%A2%85%E5%BC%80%E8%B1%AA%E8%BD%A6%E6%AC%A0%E6%9C%8B%E5%8F%8B%E5%8D%81%E5%A4%9A%E4%B8%87%E4%B8%8D%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [42岁断崖式衰老女子确诊卵巢早衰](https://www.baidu.com/s?wd=42%E5%B2%81%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大学生疑因超负荷工作离世](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%96%91%E5%9B%A0%E8%B6%85%E8%B4%9F%E8%8D%B7%E5%B7%A5%E4%BD%9C%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [大学生疑因超负荷工作离世](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%96%91%E5%9B%A0%E8%B6%85%E8%B4%9F%E8%8D%B7%E5%B7%A5%E4%BD%9C%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [42岁断崖式衰老女子确诊卵巢早衰](https://www.baidu.com/s?wd=42%E5%B2%81%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [贾跃亭把车卖给中东富豪](https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E6%8A%8A%E8%BD%A6%E5%8D%96%E7%BB%99%E4%B8%AD%E4%B8%9C%E5%AF%8C%E8%B1%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [世界卫生组织称有“神秘肺炎”？](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E5%8D%AB%E7%94%9F%E7%BB%84%E7%BB%87%E7%A7%B0%E6%9C%89%E2%80%9C%E7%A5%9E%E7%A7%98%E8%82%BA%E7%82%8E%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [深圳小学初中明年起每天1节体育课](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B0%8F%E5%AD%A6%E5%88%9D%E4%B8%AD%E6%98%8E%E5%B9%B4%E8%B5%B7%E6%AF%8F%E5%A4%A91%E8%8A%82%E4%BD%93%E8%82%B2%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子住别墅开豪车欠朋友十多万不还](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BD%8F%E5%88%AB%E5%A2%85%E5%BC%80%E8%B1%AA%E8%BD%A6%E6%AC%A0%E6%9C%8B%E5%8F%8B%E5%8D%81%E5%A4%9A%E4%B8%87%E4%B8%8D%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [42岁断崖式衰老女子确诊卵巢早衰](https://www.baidu.com/s?wd=42%E5%B2%81%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大学生疑因超负荷工作离世](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%96%91%E5%9B%A0%E8%B6%85%E8%B4%9F%E8%8D%B7%E5%B7%A5%E4%BD%9C%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [大学生疑因超负荷工作离世](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%96%91%E5%9B%A0%E8%B6%85%E8%B4%9F%E8%8D%B7%E5%B7%A5%E4%BD%9C%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [42岁断崖式衰老女子确诊卵巢早衰](https://www.baidu.com/s?wd=42%E5%B2%81%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [贾跃亭把车卖给中东富豪](https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E6%8A%8A%E8%BD%A6%E5%8D%96%E7%BB%99%E4%B8%AD%E4%B8%9C%E5%AF%8C%E8%B1%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [世界卫生组织称有“神秘肺炎”？](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E5%8D%AB%E7%94%9F%E7%BB%84%E7%BB%87%E7%A7%B0%E6%9C%89%E2%80%9C%E7%A5%9E%E7%A7%98%E8%82%BA%E7%82%8E%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
