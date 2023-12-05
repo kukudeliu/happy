@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 11:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 12:00:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [美好生活宪给你](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB%E5%AE%AA%E7%BB%99%E4%BD%A0%23&t=31&band_rank=3&Refer=top)<br />
 4. [美特斯邦威6.8亿元再卖楼](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%89%B9%E6%96%AF%E9%82%A6%E5%A8%816.8%E4%BA%BF%E5%85%83%E5%86%8D%E5%8D%96%E6%A5%BC%23&t=31&band_rank=4&Refer=top)<br />
 5. [丁当为五月天发声](https://s.weibo.com/weibo?q=%23%E4%B8%81%E5%BD%93%E4%B8%BA%E4%BA%94%E6%9C%88%E5%A4%A9%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
-6. [恋丑癖](https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%91%E7%99%96&t=31&band_rank=6&Refer=top)<br />
-7. [狐妖小红娘竹业篇官宣杀青](https://s.weibo.com/weibo?q=%23%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E7%AB%B9%E4%B8%9A%E7%AF%87%E5%AE%98%E5%AE%A3%E6%9D%80%E9%9D%92%23&t=31&band_rank=7&Refer=top)<br />
+6. [狐妖小红娘竹业篇官宣杀青](https://s.weibo.com/weibo?q=%23%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E7%AB%B9%E4%B8%9A%E7%AF%87%E5%AE%98%E5%AE%A3%E6%9D%80%E9%9D%92%23&t=31&band_rank=6&Refer=top)<br />
+7. [恋丑癖](https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%91%E7%99%96&t=31&band_rank=7&Refer=top)<br />
 8. [大学生农村开咖啡厅1天挣半头牛](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%86%9C%E6%9D%91%E5%BC%80%E5%92%96%E5%95%A1%E5%8E%851%E5%A4%A9%E6%8C%A3%E5%8D%8A%E5%A4%B4%E7%89%9B%23&t=31&band_rank=8&Refer=top)<br />
 9. [林俊杰400万的舞](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0400%E4%B8%87%E7%9A%84%E8%88%9E&t=31&band_rank=9&Refer=top)<br />
 
