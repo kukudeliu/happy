@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 21:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 21:42:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [医生因颜值高引多人挂号 院方回应](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%A0%E9%A2%9C%E5%80%BC%E9%AB%98%E5%BC%95%E5%A4%9A%E4%BA%BA%E6%8C%82%E5%8F%B7+%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国高水平开放“加速跑”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%B0%B4%E5%B9%B3%E5%BC%80%E6%94%BE%E2%80%9C%E5%8A%A0%E9%80%9F%E8%B7%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [厄尔尼诺事件将持续到明年春天](https://www.baidu.com/s?wd=%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E4%BA%8B%E4%BB%B6%E5%B0%86%E6%8C%81%E7%BB%AD%E5%88%B0%E6%98%8E%E5%B9%B4%E6%98%A5%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中南大学湘雅医院被罚超98万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E8%A2%AB%E7%BD%9A%E8%B6%8598%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [银行通报员工被领导施压发生关系](https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E9%80%9A%E6%8A%A5%E5%91%98%E5%B7%A5%E8%A2%AB%E9%A2%86%E5%AF%BC%E6%96%BD%E5%8E%8B%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [80后女县委书记拟任副市长](https://www.baidu.com/s?wd=80%E5%90%8E%E5%A5%B3%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8B%9F%E4%BB%BB%E5%89%AF%E5%B8%82%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [银行通报员工被领导施压发生关系](https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E9%80%9A%E6%8A%A5%E5%91%98%E5%B7%A5%E8%A2%AB%E9%A2%86%E5%AF%BC%E6%96%BD%E5%8E%8B%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [34岁抗癌网红李小妞去世](https://www.baidu.com/s?wd=34%E5%B2%81%E6%8A%97%E7%99%8C%E7%BD%91%E7%BA%A2%E6%9D%8E%E5%B0%8F%E5%A6%9E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [共享单车坐垫发现两个采血针](https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E5%9D%90%E5%9E%AB%E5%8F%91%E7%8E%B0%E4%B8%A4%E4%B8%AA%E9%87%87%E8%A1%80%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华校友会辟谣捐赠铜像被卖废品](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%A0%A1%E5%8F%8B%E4%BC%9A%E8%BE%9F%E8%B0%A3%E6%8D%90%E8%B5%A0%E9%93%9C%E5%83%8F%E8%A2%AB%E5%8D%96%E5%BA%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [医生因颜值高引多人挂号 院方回应](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%A0%E9%A2%9C%E5%80%BC%E9%AB%98%E5%BC%95%E5%A4%9A%E4%BA%BA%E6%8C%82%E5%8F%B7+%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国高水平开放“加速跑”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%B0%B4%E5%B9%B3%E5%BC%80%E6%94%BE%E2%80%9C%E5%8A%A0%E9%80%9F%E8%B7%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [厄尔尼诺事件将持续到明年春天](https://www.baidu.com/s?wd=%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E4%BA%8B%E4%BB%B6%E5%B0%86%E6%8C%81%E7%BB%AD%E5%88%B0%E6%98%8E%E5%B9%B4%E6%98%A5%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中南大学湘雅医院被罚超98万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E8%A2%AB%E7%BD%9A%E8%B6%8598%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [银行通报员工被领导施压发生关系](https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E9%80%9A%E6%8A%A5%E5%91%98%E5%B7%A5%E8%A2%AB%E9%A2%86%E5%AF%BC%E6%96%BD%E5%8E%8B%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [80后女县委书记拟任副市长](https://www.baidu.com/s?wd=80%E5%90%8E%E5%A5%B3%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8B%9F%E4%BB%BB%E5%89%AF%E5%B8%82%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [银行通报员工被领导施压发生关系](https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E9%80%9A%E6%8A%A5%E5%91%98%E5%B7%A5%E8%A2%AB%E9%A2%86%E5%AF%BC%E6%96%BD%E5%8E%8B%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [34岁抗癌网红李小妞去世](https://www.baidu.com/s?wd=34%E5%B2%81%E6%8A%97%E7%99%8C%E7%BD%91%E7%BA%A2%E6%9D%8E%E5%B0%8F%E5%A6%9E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [共享单车坐垫发现两个采血针](https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E5%9D%90%E5%9E%AB%E5%8F%91%E7%8E%B0%E4%B8%A4%E4%B8%AA%E9%87%87%E8%A1%80%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [清华校友会辟谣捐赠铜像被卖废品](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%A0%A1%E5%8F%8B%E4%BC%9A%E8%BE%9F%E8%B0%A3%E6%8D%90%E8%B5%A0%E9%93%9C%E5%83%8F%E8%A2%AB%E5%8D%96%E5%BA%9F%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
