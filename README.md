@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 15:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 15:11:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [狂飙演员转做主播月入不足3千](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%99%E6%BC%94%E5%91%98%E8%BD%AC%E5%81%9A%E4%B8%BB%E6%92%AD%E6%9C%88%E5%85%A5%E4%B8%8D%E8%B6%B33%E5%8D%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [弘扬宪法精神](https://s.weibo.com/weibo?q=%23%E5%BC%98%E6%89%AC%E5%AE%AA%E6%B3%95%E7%B2%BE%E7%A5%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨鸣 思思](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3%20%E6%80%9D%E6%80%9D&t=31&band_rank=4&Refer=top)<br />
-5. [告五人 五月天](https://s.weibo.com/weibo?q=%E5%91%8A%E4%BA%94%E4%BA%BA%20%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=5&Refer=top)<br />
-6. [卡琳娜 长沙漫展](https://s.weibo.com/weibo?q=%E5%8D%A1%E7%90%B3%E5%A8%9C%20%E9%95%BF%E6%B2%99%E6%BC%AB%E5%B1%95&t=31&band_rank=6&Refer=top)<br />
-7. [他想避世她想入世](https://s.weibo.com/weibo?q=%23%E4%BB%96%E6%83%B3%E9%81%BF%E4%B8%96%E5%A5%B9%E6%83%B3%E5%85%A5%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [金莎男友 最不自信的是穷](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%20%E6%9C%80%E4%B8%8D%E8%87%AA%E4%BF%A1%E7%9A%84%E6%98%AF%E7%A9%B7&t=31&band_rank=8&Refer=top)<br />
-9. [34岁抗癌网红李小妞去世](https://s.weibo.com/weibo?q=%2334%E5%B2%81%E6%8A%97%E7%99%8C%E7%BD%91%E7%BA%A2%E6%9D%8E%E5%B0%8F%E5%A6%9E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+5. [薛之谦官宣三场演唱会](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%AE%98%E5%AE%A3%E4%B8%89%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=5&Refer=top)<br />
+6. [告五人 五月天](https://s.weibo.com/weibo?q=%E5%91%8A%E4%BA%94%E4%BA%BA%20%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=6&Refer=top)<br />
+7. [卡琳娜 长沙漫展](https://s.weibo.com/weibo?q=%E5%8D%A1%E7%90%B3%E5%A8%9C%20%E9%95%BF%E6%B2%99%E6%BC%AB%E5%B1%95&t=31&band_rank=7&Refer=top)<br />
+8. [他想避世她想入世](https://s.weibo.com/weibo?q=%23%E4%BB%96%E6%83%B3%E9%81%BF%E4%B8%96%E5%A5%B9%E6%83%B3%E5%85%A5%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [湖南省一县委书记坠江身亡](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E7%9C%81%E4%B8%80%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
