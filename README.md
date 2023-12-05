@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 08:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 08:06:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [美好生活宪给你](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB%E5%AE%AA%E7%BB%99%E4%BD%A0%23&t=31&band_rank=3&Refer=top)<br />
 4. [卵巢早衰](https://s.weibo.com/weibo?q=%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0&t=31&band_rank=4&Refer=top)<br />
 5. [刘若英 我爱五月天](https://s.weibo.com/weibo?q=%E5%88%98%E8%8B%A5%E8%8B%B1%20%E6%88%91%E7%88%B1%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=5&Refer=top)<br />
-6. [断崖式衰老女子确诊卵巢早衰](https://s.weibo.com/weibo?q=%23%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0%23&t=31&band_rank=6&Refer=top)<br />
+6. [刘诗诗回应替身说](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E8%AF%B4&t=31&band_rank=6&Refer=top)<br />
 7. [快过年了 不要再买了](https://s.weibo.com/weibo?q=%E5%BF%AB%E8%BF%87%E5%B9%B4%E4%BA%86%20%E4%B8%8D%E8%A6%81%E5%86%8D%E4%B9%B0%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [刘诗诗回应替身说](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E8%AF%B4&t=31&band_rank=8&Refer=top)<br />
+8. [断崖式衰老女子确诊卵巢早衰](https://s.weibo.com/weibo?q=%23%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0%23&t=31&band_rank=8&Refer=top)<br />
 9. [手机贴膜 智商税](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E8%B4%B4%E8%86%9C%20%E6%99%BA%E5%95%86%E7%A8%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,8 +23,8 @@
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [工信部明确：2G3G面临“退网”](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%98%8E%E7%A1%AE%EF%BC%9A2G3G%E9%9D%A2%E4%B8%B4%E2%80%9C%E9%80%80%E7%BD%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [京东回应“罗静案”风波](https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E5%9B%9E%E5%BA%94%E2%80%9C%E7%BD%97%E9%9D%99%E6%A1%88%E2%80%9D%E9%A3%8E%E6%B3%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [水亦诗高调宣布再就业](https://www.baidu.com/s?wd=%E6%B0%B4%E4%BA%A6%E8%AF%97%E9%AB%98%E8%B0%83%E5%AE%A3%E5%B8%83%E5%86%8D%E5%B0%B1%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [彩民中2亿多且无需缴税？官方回应](https://www.baidu.com/s?wd=%E5%BD%A9%E6%B0%91%E4%B8%AD2%E4%BA%BF%E5%A4%9A%E4%B8%94%E6%97%A0%E9%9C%80%E7%BC%B4%E7%A8%8E%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [彩民中2亿多且无需缴税？官方回应](https://www.baidu.com/s?wd=%E5%BD%A9%E6%B0%91%E4%B8%AD2%E4%BA%BF%E5%A4%9A%E4%B8%94%E6%97%A0%E9%9C%80%E7%BC%B4%E7%A8%8E%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [世界卫生组织称有“神秘肺炎”？](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E5%8D%AB%E7%94%9F%E7%BB%84%E7%BB%87%E7%A7%B0%E6%9C%89%E2%80%9C%E7%A5%9E%E7%A7%98%E8%82%BA%E7%82%8E%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [宪法之力 守护你我](https://www.baidu.com/s?wd=%E5%AE%AA%E6%B3%95%E4%B9%8B%E5%8A%9B+%E5%AE%88%E6%8A%A4%E4%BD%A0%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [工信部明确：2G3G面临“退网”](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%98%8E%E7%A1%AE%EF%BC%9A2G3G%E9%9D%A2%E4%B8%B4%E2%80%9C%E9%80%80%E7%BD%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [京东回应“罗静案”风波](https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E5%9B%9E%E5%BA%94%E2%80%9C%E7%BD%97%E9%9D%99%E6%A1%88%E2%80%9D%E9%A3%8E%E6%B3%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [水亦诗高调宣布再就业](https://www.baidu.com/s?wd=%E6%B0%B4%E4%BA%A6%E8%AF%97%E9%AB%98%E8%B0%83%E5%AE%A3%E5%B8%83%E5%86%8D%E5%B0%B1%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [彩民中2亿多且无需缴税？官方回应](https://www.baidu.com/s?wd=%E5%BD%A9%E6%B0%91%E4%B8%AD2%E4%BA%BF%E5%A4%9A%E4%B8%94%E6%97%A0%E9%9C%80%E7%BC%B4%E7%A8%8E%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [彩民中2亿多且无需缴税？官方回应](https://www.baidu.com/s?wd=%E5%BD%A9%E6%B0%91%E4%B8%AD2%E4%BA%BF%E5%A4%9A%E4%B8%94%E6%97%A0%E9%9C%80%E7%BC%B4%E7%A8%8E%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [汪文斌分享迪丽热巴跳新疆舞视频](https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E5%88%86%E4%BA%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%B3%E6%96%B0%E7%96%86%E8%88%9E%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [世界卫生组织称有“神秘肺炎”？](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E5%8D%AB%E7%94%9F%E7%BB%84%E7%BB%87%E7%A7%B0%E6%9C%89%E2%80%9C%E7%A5%9E%E7%A7%98%E8%82%BA%E7%82%8E%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
