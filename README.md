@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 12:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 12:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [第一学历](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86&t=31&band_rank=6&Refer=top)<br />
 7. [美特斯邦威6.8亿元再卖楼](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%89%B9%E6%96%AF%E9%82%A6%E5%A8%816.8%E4%BA%BF%E5%85%83%E5%86%8D%E5%8D%96%E6%A5%BC%23&t=31&band_rank=7&Refer=top)<br />
 8. [丁当为五月天发声](https://s.weibo.com/weibo?q=%23%E4%B8%81%E5%BD%93%E4%B8%BA%E4%BA%94%E6%9C%88%E5%A4%A9%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [杭州一生煎店房租从40万涨到120万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%9F%E7%85%8E%E5%BA%97%E6%88%BF%E7%A7%9F%E4%BB%8E40%E4%B8%87%E6%B6%A8%E5%88%B0120%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [杨鸣 唐佳良](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3%20%E5%94%90%E4%BD%B3%E8%89%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
