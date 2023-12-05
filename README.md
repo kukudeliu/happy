@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 18:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 18:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [爱马仕继承人将巨额财产留给园丁](https://s.weibo.com/weibo?q=%23%E7%88%B1%E9%A9%AC%E4%BB%95%E7%BB%A7%E6%89%BF%E4%BA%BA%E5%B0%86%E5%B7%A8%E9%A2%9D%E8%B4%A2%E4%BA%A7%E7%95%99%E7%BB%99%E5%9B%AD%E4%B8%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [一江豚在钱塘江边搁浅多方救援](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%B1%9F%E8%B1%9A%E5%9C%A8%E9%92%B1%E5%A1%98%E6%B1%9F%E8%BE%B9%E6%90%81%E6%B5%85%E5%A4%9A%E6%96%B9%E6%95%91%E6%8F%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [白鹿裙摆好大](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%A3%99%E6%91%86%E5%A5%BD%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘诗诗 拯救裙子](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E6%8B%AF%E6%95%91%E8%A3%99%E5%AD%90&t=31&band_rank=9&Refer=top)<br />
+9. [龙丹妮 军大衣](https://s.weibo.com/weibo?q=%E9%BE%99%E4%B8%B9%E5%A6%AE%20%E5%86%9B%E5%A4%A7%E8%A1%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
