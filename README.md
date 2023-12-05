@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 11:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 11:15:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [丁当为五月天发声](https://s.weibo.com/weibo?q=%23%E4%B8%81%E5%BD%93%E4%B8%BA%E4%BA%94%E6%9C%88%E5%A4%A9%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [大学生农村开咖啡厅1天挣半头牛](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%86%9C%E6%9D%91%E5%BC%80%E5%92%96%E5%95%A1%E5%8E%851%E5%A4%A9%E6%8C%A3%E5%8D%8A%E5%A4%B4%E7%89%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [狐妖小红娘竹业篇官宣杀青](https://s.weibo.com/weibo?q=%23%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E7%AB%B9%E4%B8%9A%E7%AF%87%E5%AE%98%E5%AE%A3%E6%9D%80%E9%9D%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [生日回避型人格](https://s.weibo.com/weibo?q=%E7%94%9F%E6%97%A5%E5%9B%9E%E9%81%BF%E5%9E%8B%E4%BA%BA%E6%A0%BC&t=31&band_rank=8&Refer=top)<br />
-9. [五月天演唱会荧光棒](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8D%A7%E5%85%89%E6%A3%92&t=31&band_rank=9&Refer=top)<br />
+8. [五月天演唱会荧光棒](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8D%A7%E5%85%89%E6%A3%92&t=31&band_rank=8&Refer=top)<br />
+9. [生日回避型人格](https://s.weibo.com/weibo?q=%E7%94%9F%E6%97%A5%E5%9B%9E%E9%81%BF%E5%9E%8B%E4%BA%BA%E6%A0%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
