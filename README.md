@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 19:29:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 19:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [娜扎 赢麻了](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%20%E8%B5%A2%E9%BA%BB%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [杭州晚霞太美了](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%99%9A%E9%9C%9E%E5%A4%AA%E7%BE%8E%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [成毅 礼仪小姐请下班](https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%20%E7%A4%BC%E4%BB%AA%E5%B0%8F%E5%A7%90%E8%AF%B7%E4%B8%8B%E7%8F%AD&t=31&band_rank=8&Refer=top)<br />
-9. [爱马仕继承人将巨额财产留给园丁](https://s.weibo.com/weibo?q=%23%E7%88%B1%E9%A9%AC%E4%BB%95%E7%BB%A7%E6%89%BF%E4%BA%BA%E5%B0%86%E5%B7%A8%E9%A2%9D%E8%B4%A2%E4%BA%A7%E7%95%99%E7%BB%99%E5%9B%AD%E4%B8%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [赵露思 油画少女](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E6%B2%B9%E7%94%BB%E5%B0%91%E5%A5%B3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
