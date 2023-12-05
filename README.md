@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 13:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 13:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [银行员工举报被领导施压发生性关系](https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E5%91%98%E5%B7%A5%E4%B8%BE%E6%8A%A5%E8%A2%AB%E9%A2%86%E5%AF%BC%E6%96%BD%E5%8E%8B%E5%8F%91%E7%94%9F%E6%80%A7%E5%85%B3%E7%B3%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [普通大学和985大学的区别](https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%92%8C985%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%8C%BA%E5%88%AB&t=31&band_rank=7&Refer=top)<br />
 8. [杨鸣 唐佳良](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3%20%E5%94%90%E4%BD%B3%E8%89%AF&t=31&band_rank=8&Refer=top)<br />
-9. [我国快递年业务量首破1200亿件](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%BF%AB%E9%80%92%E5%B9%B4%E4%B8%9A%E5%8A%A1%E9%87%8F%E9%A6%96%E7%A0%B41200%E4%BA%BF%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [第一学历](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
