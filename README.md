@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 16:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-05 16:22:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [中南大学湘雅医院被罚超98万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E8%A2%AB%E7%BD%9A%E8%B6%8598%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杭州一生煎店房租涨到120万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%9F%E7%85%8E%E5%BA%97%E6%88%BF%E7%A7%9F%E6%B6%A8%E5%88%B0120%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [厦门2名教师被指强奸大四女生](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A82%E5%90%8D%E6%95%99%E5%B8%88%E8%A2%AB%E6%8C%87%E5%BC%BA%E5%A5%B8%E5%A4%A7%E5%9B%9B%E5%A5%B3%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [妈妈让2天补齐3周作业男孩大哭报警](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E8%AE%A92%E5%A4%A9%E8%A1%A5%E9%BD%903%E5%91%A8%E4%BD%9C%E4%B8%9A%E7%94%B7%E5%AD%A9%E5%A4%A7%E5%93%AD%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杨鸣唐佳良离婚](https://www.baidu.com/s?wd=%E6%9D%A8%E9%B8%A3%E5%94%90%E4%BD%B3%E8%89%AF%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [世界卫生组织称有“神秘肺炎”？](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E5%8D%AB%E7%94%9F%E7%BB%84%E7%BB%87%E7%A7%B0%E6%9C%89%E2%80%9C%E7%A5%9E%E7%A7%98%E8%82%BA%E7%82%8E%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [中南大学湘雅医院被罚超98万](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E8%A2%AB%E7%BD%9A%E8%B6%8598%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杭州一生煎店房租涨到120万](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%9F%E7%85%8E%E5%BA%97%E6%88%BF%E7%A7%9F%E6%B6%A8%E5%88%B0120%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [厦门2名教师被指强奸大四女生](https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A82%E5%90%8D%E6%95%99%E5%B8%88%E8%A2%AB%E6%8C%87%E5%BC%BA%E5%A5%B8%E5%A4%A7%E5%9B%9B%E5%A5%B3%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [妈妈让2天补齐3周作业男孩大哭报警](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E8%AE%A92%E5%A4%A9%E8%A1%A5%E9%BD%903%E5%91%A8%E4%BD%9C%E4%B8%9A%E7%94%B7%E5%AD%A9%E5%A4%A7%E5%93%AD%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杨鸣唐佳良离婚](https://www.baidu.com/s?wd=%E6%9D%A8%E9%B8%A3%E5%94%90%E4%BD%B3%E8%89%AF%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [世界卫生组织称有“神秘肺炎”？](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E5%8D%AB%E7%94%9F%E7%BB%84%E7%BB%87%E7%A7%B0%E6%9C%89%E2%80%9C%E7%A5%9E%E7%A7%98%E8%82%BA%E7%82%8E%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
