@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 22:24:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 22:25:02</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [呼吸道传染病个人健康手册](https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%90%B8%E9%81%93%E4%BC%A0%E6%9F%93%E7%97%85%E4%B8%AA%E4%BA%BA%E5%81%A5%E5%BA%B7%E6%89%8B%E5%86%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [田馥甄回应五月天假唱风波](https://s.weibo.com/weibo?q=%23%E7%94%B0%E9%A6%A5%E7%94%84%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E5%81%87%E5%94%B1%E9%A3%8E%E6%B3%A2%23&t=31&band_rank=4&Refer=top)<br />
 5. [医生点名3类人睡前喝水](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%82%B9%E5%90%8D3%E7%B1%BB%E4%BA%BA%E7%9D%A1%E5%89%8D%E5%96%9D%E6%B0%B4%23&t=31&band_rank=5&Refer=top)<br />
-6. [身份证上的X读什么](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%B8%8A%E7%9A%84X%E8%AF%BB%E4%BB%80%E4%B9%88%23&t=31&band_rank=6&Refer=top)<br />
+6. [上海文旅局组织专家评审判定五月天事件](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%87%E6%97%85%E5%B1%80%E7%BB%84%E7%BB%87%E4%B8%93%E5%AE%B6%E8%AF%84%E5%AE%A1%E5%88%A4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [五月天](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=7&Refer=top)<br />
-8. [上海文旅局组织专家评审判定五月天事件](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%87%E6%97%85%E5%B1%80%E7%BB%84%E7%BB%87%E4%B8%93%E5%AE%B6%E8%AF%84%E5%AE%A1%E5%88%A4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
+8. [身份证上的X读什么](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%B8%8A%E7%9A%84X%E8%AF%BB%E4%BB%80%E4%B9%88%23&t=31&band_rank=8&Refer=top)<br />
 9. [17万二手车买家大方给了20万现金](https://s.weibo.com/weibo?q=%2317%E4%B8%87%E4%BA%8C%E6%89%8B%E8%BD%A6%E4%B9%B0%E5%AE%B6%E5%A4%A7%E6%96%B9%E7%BB%99%E4%BA%8620%E4%B8%87%E7%8E%B0%E9%87%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
