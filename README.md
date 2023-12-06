@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 23:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 23:45:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [这家百亿零食巨头向同行宣战](https://www.baidu.com/s?wd=%E8%BF%99%E5%AE%B6%E7%99%BE%E4%BA%BF%E9%9B%B6%E9%A3%9F%E5%B7%A8%E5%A4%B4%E5%90%91%E5%90%8C%E8%A1%8C%E5%AE%A3%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [丁太升称半开麦和不开麦一律是假唱](https://www.baidu.com/s?wd=%E4%B8%81%E5%A4%AA%E5%8D%87%E7%A7%B0%E5%8D%8A%E5%BC%80%E9%BA%A6%E5%92%8C%E4%B8%8D%E5%BC%80%E9%BA%A6%E4%B8%80%E5%BE%8B%E6%98%AF%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [周杰伦福州演唱会被嘲“吃相难看”](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%A6%8F%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%98%B2%E2%80%9C%E5%90%83%E7%9B%B8%E9%9A%BE%E7%9C%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [江西警方辟谣九江发生杀人案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B9%9D%E6%B1%9F%E5%8F%91%E7%94%9F%E6%9D%80%E4%BA%BA%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [新能源车比燃油车污染严重？](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%AF%94%E7%87%83%E6%B2%B9%E8%BD%A6%E6%B1%A1%E6%9F%93%E4%B8%A5%E9%87%8D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [这家百亿零食巨头向同行宣战](https://www.baidu.com/s?wd=%E8%BF%99%E5%AE%B6%E7%99%BE%E4%BA%BF%E9%9B%B6%E9%A3%9F%E5%B7%A8%E5%A4%B4%E5%90%91%E5%90%8C%E8%A1%8C%E5%AE%A3%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [丁太升称半开麦和不开麦一律是假唱](https://www.baidu.com/s?wd=%E4%B8%81%E5%A4%AA%E5%8D%87%E7%A7%B0%E5%8D%8A%E5%BC%80%E9%BA%A6%E5%92%8C%E4%B8%8D%E5%BC%80%E9%BA%A6%E4%B8%80%E5%BE%8B%E6%98%AF%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [周杰伦福州演唱会被嘲“吃相难看”](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%A6%8F%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%98%B2%E2%80%9C%E5%90%83%E7%9B%B8%E9%9A%BE%E7%9C%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [江西警方辟谣九江发生杀人案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B9%9D%E6%B1%9F%E5%8F%91%E7%94%9F%E6%9D%80%E4%BA%BA%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [新能源车比燃油车污染严重？](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%AF%94%E7%87%83%E6%B2%B9%E8%BD%A6%E6%B1%A1%E6%9F%93%E4%B8%A5%E9%87%8D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
