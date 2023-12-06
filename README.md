@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 09:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 09:46:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [BLACKPINK全员与YG完成续约](https://s.weibo.com/weibo?q=%23BLACKPINK%E5%85%A8%E5%91%98%E4%B8%8EYG%E5%AE%8C%E6%88%90%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [阿信忘了话筒在哪只手](https://s.weibo.com/weibo?q=%E9%98%BF%E4%BF%A1%E5%BF%98%E4%BA%86%E8%AF%9D%E7%AD%92%E5%9C%A8%E5%93%AA%E5%8F%AA%E6%89%8B&t=31&band_rank=5&Refer=top)<br />
 6. [媒体评林俊杰为何恼了](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E6%9E%97%E4%BF%8A%E6%9D%B0%E4%B8%BA%E4%BD%95%E6%81%BC%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [被斗鱼索赔8000万的女大学生](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%96%97%E9%B1%BC%E7%B4%A2%E8%B5%948000%E4%B8%87%E7%9A%84%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [张若昀工作人员 还是牵一下蒜了](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%20%E8%BF%98%E6%98%AF%E7%89%B5%E4%B8%80%E4%B8%8B%E8%92%9C%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+7. [举报五月天博主称没有收钱说假话](https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E4%BA%94%E6%9C%88%E5%A4%A9%E5%8D%9A%E4%B8%BB%E7%A7%B0%E6%B2%A1%E6%9C%89%E6%94%B6%E9%92%B1%E8%AF%B4%E5%81%87%E8%AF%9D%23&t=31&band_rank=7&Refer=top)<br />
+8. [被斗鱼索赔8000万的女大学生](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%96%97%E9%B1%BC%E7%B4%A2%E8%B5%948000%E4%B8%87%E7%9A%84%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
 9. [女友术后醒麻醉再对男友一见钟情](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%8F%8B%E6%9C%AF%E5%90%8E%E9%86%92%E9%BA%BB%E9%86%89%E5%86%8D%E5%AF%B9%E7%94%B7%E5%8F%8B%E4%B8%80%E8%A7%81%E9%92%9F%E6%83%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
