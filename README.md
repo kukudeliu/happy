@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 13:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 13:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [被斗鱼索赔8000万的女大学生](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%96%97%E9%B1%BC%E7%B4%A2%E8%B5%948000%E4%B8%87%E7%9A%84%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [律师称若五月天假唱可能会被终身禁唱](https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E7%A7%B0%E8%8B%A5%E4%BA%94%E6%9C%88%E5%A4%A9%E5%81%87%E5%94%B1%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E5%94%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [GQ晚宴内场路透](https://s.weibo.com/weibo?q=%23GQ%E6%99%9A%E5%AE%B4%E5%86%85%E5%9C%BA%E8%B7%AF%E9%80%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [5个损害卵巢的习惯要避免](https://s.weibo.com/weibo?q=%235%E4%B8%AA%E6%8D%9F%E5%AE%B3%E5%8D%B5%E5%B7%A2%E7%9A%84%E4%B9%A0%E6%83%AF%E8%A6%81%E9%81%BF%E5%85%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [王健林拟转让万达投资51%股权](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%81%A5%E6%9E%97%E6%8B%9F%E8%BD%AC%E8%AE%A9%E4%B8%87%E8%BE%BE%E6%8A%95%E8%B5%8451%25%E8%82%A1%E6%9D%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
