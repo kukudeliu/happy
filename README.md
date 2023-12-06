@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 14:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 14:10:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [更多交流 更多包容 更多合作](https://www.baidu.com/s?wd=%E6%9B%B4%E5%A4%9A%E4%BA%A4%E6%B5%81+%E6%9B%B4%E5%A4%9A%E5%8C%85%E5%AE%B9+%E6%9B%B4%E5%A4%9A%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女大学生被斗鱼索赔8000万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%96%97%E9%B1%BC%E7%B4%A2%E8%B5%948000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [玲花曾评价五月天唱功](https://www.baidu.com/s?wd=%E7%8E%B2%E8%8A%B1%E6%9B%BE%E8%AF%84%E4%BB%B7%E4%BA%94%E6%9C%88%E5%A4%A9%E5%94%B1%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [媒体：豪赌与暴富的故事总该警惕](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%B1%AA%E8%B5%8C%E4%B8%8E%E6%9A%B4%E5%AF%8C%E7%9A%84%E6%95%85%E4%BA%8B%E6%80%BB%E8%AF%A5%E8%AD%A6%E6%83%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哈尔滨回应网友建议取消狗拉爬犁](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E7%8B%97%E6%8B%89%E7%88%AC%E7%8A%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [哈尔滨回应网友建议取消狗拉爬犁](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E7%8B%97%E6%8B%89%E7%88%AC%E7%8A%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [银行为何越来越“嫌弃”长期存款](https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E2%80%9C%E5%AB%8C%E5%BC%83%E2%80%9D%E9%95%BF%E6%9C%9F%E5%AD%98%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [镇政府辟谣禁止村民烧柴做饭](https://www.baidu.com/s?wd=%E9%95%87%E6%94%BF%E5%BA%9C%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E6%9D%91%E6%B0%91%E7%83%A7%E6%9F%B4%E5%81%9A%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [更多交流 更多包容 更多合作](https://www.baidu.com/s?wd=%E6%9B%B4%E5%A4%9A%E4%BA%A4%E6%B5%81+%E6%9B%B4%E5%A4%9A%E5%8C%85%E5%AE%B9+%E6%9B%B4%E5%A4%9A%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女大学生被斗鱼索赔8000万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%96%97%E9%B1%BC%E7%B4%A2%E8%B5%948000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [玲花曾评价五月天唱功](https://www.baidu.com/s?wd=%E7%8E%B2%E8%8A%B1%E6%9B%BE%E8%AF%84%E4%BB%B7%E4%BA%94%E6%9C%88%E5%A4%A9%E5%94%B1%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [媒体：豪赌与暴富的故事总该警惕](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%B1%AA%E8%B5%8C%E4%B8%8E%E6%9A%B4%E5%AF%8C%E7%9A%84%E6%95%85%E4%BA%8B%E6%80%BB%E8%AF%A5%E8%AD%A6%E6%83%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哈尔滨回应网友建议取消狗拉爬犁](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E7%8B%97%E6%8B%89%E7%88%AC%E7%8A%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [哈尔滨回应网友建议取消狗拉爬犁](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E7%8B%97%E6%8B%89%E7%88%AC%E7%8A%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [银行为何越来越“嫌弃”长期存款](https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E2%80%9C%E5%AB%8C%E5%BC%83%E2%80%9D%E9%95%BF%E6%9C%9F%E5%AD%98%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [镇政府辟谣禁止村民烧柴做饭](https://www.baidu.com/s?wd=%E9%95%87%E6%94%BF%E5%BA%9C%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E6%9D%91%E6%B0%91%E7%83%A7%E6%9F%B4%E5%81%9A%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
