@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 08:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 08:56:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [人民日报评五月天被曝疑似假唱](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E6%9B%9D%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [26款羽绒服不合格：探路者上黑榜](https://www.baidu.com/s?wd=26%E6%AC%BE%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8D%E5%90%88%E6%A0%BC%EF%BC%9A%E6%8E%A2%E8%B7%AF%E8%80%85%E4%B8%8A%E9%BB%91%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“小包裹”折射“大经济”](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E5%8C%85%E8%A3%B9%E2%80%9D%E6%8A%98%E5%B0%84%E2%80%9C%E5%A4%A7%E7%BB%8F%E6%B5%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男子每天抽10包烟 双肺千疮百孔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E6%8A%BD10%E5%8C%85%E7%83%9F+%E5%8F%8C%E8%82%BA%E5%8D%83%E7%96%AE%E7%99%BE%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [白菜批发价最低2毛一斤 官媒发声](https://www.baidu.com/s?wd=%E7%99%BD%E8%8F%9C%E6%89%B9%E5%8F%91%E4%BB%B7%E6%9C%80%E4%BD%8E2%E6%AF%9B%E4%B8%80%E6%96%A4+%E5%AE%98%E5%AA%92%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子凌晨开车遇白鞋男子诡异鞠躬](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%8C%E6%99%A8%E5%BC%80%E8%BD%A6%E9%81%87%E7%99%BD%E9%9E%8B%E7%94%B7%E5%AD%90%E8%AF%A1%E5%BC%82%E9%9E%A0%E8%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [孟羽童清华演讲自称浅薄](https://www.baidu.com/s?wd=%E5%AD%9F%E7%BE%BD%E7%AB%A5%E6%B8%85%E5%8D%8E%E6%BC%94%E8%AE%B2%E8%87%AA%E7%A7%B0%E6%B5%85%E8%96%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美媒：韩国人口或锐减至3500万以下](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%8F%A3%E6%88%96%E9%94%90%E5%87%8F%E8%87%B33500%E4%B8%87%E4%BB%A5%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [人民日报评五月天被曝疑似假唱](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E6%9B%9D%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [26款羽绒服不合格：探路者上黑榜](https://www.baidu.com/s?wd=26%E6%AC%BE%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8D%E5%90%88%E6%A0%BC%EF%BC%9A%E6%8E%A2%E8%B7%AF%E8%80%85%E4%B8%8A%E9%BB%91%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“小包裹”折射“大经济”](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E5%8C%85%E8%A3%B9%E2%80%9D%E6%8A%98%E5%B0%84%E2%80%9C%E5%A4%A7%E7%BB%8F%E6%B5%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男子每天抽10包烟 双肺千疮百孔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E6%8A%BD10%E5%8C%85%E7%83%9F+%E5%8F%8C%E8%82%BA%E5%8D%83%E7%96%AE%E7%99%BE%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [白菜批发价最低2毛一斤 官媒发声](https://www.baidu.com/s?wd=%E7%99%BD%E8%8F%9C%E6%89%B9%E5%8F%91%E4%BB%B7%E6%9C%80%E4%BD%8E2%E6%AF%9B%E4%B8%80%E6%96%A4+%E5%AE%98%E5%AA%92%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子凌晨开车遇白鞋男子诡异鞠躬](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%8C%E6%99%A8%E5%BC%80%E8%BD%A6%E9%81%87%E7%99%BD%E9%9E%8B%E7%94%B7%E5%AD%90%E8%AF%A1%E5%BC%82%E9%9E%A0%E8%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [孟羽童清华演讲自称浅薄](https://www.baidu.com/s?wd=%E5%AD%9F%E7%BE%BD%E7%AB%A5%E6%B8%85%E5%8D%8E%E6%BC%94%E8%AE%B2%E8%87%AA%E7%A7%B0%E6%B5%85%E8%96%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美媒：韩国人口或锐减至3500万以下](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%8F%A3%E6%88%96%E9%94%90%E5%87%8F%E8%87%B33500%E4%B8%87%E4%BB%A5%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
