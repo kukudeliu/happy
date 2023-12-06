@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 10:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 10:58:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [聚焦COP28](https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6COP28%23&t=31&band_rank=3&Refer=top)<br />
 4. [BLACKPINK全员与YG完成续约](https://s.weibo.com/weibo?q=%23BLACKPINK%E5%85%A8%E5%91%98%E4%B8%8EYG%E5%AE%8C%E6%88%90%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [律师称若五月天假唱可能会被终身禁唱](https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E7%A7%B0%E8%8B%A5%E4%BA%94%E6%9C%88%E5%A4%A9%E5%81%87%E5%94%B1%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E5%94%B1%23&t=31&band_rank=5&Refer=top)<br />
-6. [媒体评林俊杰为何恼了](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E6%9E%97%E4%BF%8A%E6%9D%B0%E4%B8%BA%E4%BD%95%E6%81%BC%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [被斗鱼索赔8000万的女大学生](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%96%97%E9%B1%BC%E7%B4%A2%E8%B5%948000%E4%B8%87%E7%9A%84%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
+6. [被斗鱼索赔8000万的女大学生](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%96%97%E9%B1%BC%E7%B4%A2%E8%B5%948000%E4%B8%87%E7%9A%84%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
+7. [媒体评林俊杰为何恼了](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E6%9E%97%E4%BF%8A%E6%9D%B0%E4%B8%BA%E4%BD%95%E6%81%BC%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [29岁姑娘无症状确诊肺癌](https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%A7%91%E5%A8%98%E6%97%A0%E7%97%87%E7%8A%B6%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%23&t=31&band_rank=8&Refer=top)<br />
 9. [脱轨定档](https://s.weibo.com/weibo?q=%E8%84%B1%E8%BD%A8%E5%AE%9A%E6%A1%A3&t=31&band_rank=9&Refer=top)<br />
 
