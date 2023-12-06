@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 08:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 08:58:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [阿信忘了话筒在哪只手](https://s.weibo.com/weibo?q=%E9%98%BF%E4%BF%A1%E5%BF%98%E4%BA%86%E8%AF%9D%E7%AD%92%E5%9C%A8%E5%93%AA%E5%8F%AA%E6%89%8B&t=31&band_rank=4&Refer=top)<br />
 5. [人民日报评五月天疑似假唱](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E4%BA%94%E6%9C%88%E5%A4%A9%E7%96%91%E4%BC%BC%E5%81%87%E5%94%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [6G](https://s.weibo.com/weibo?q=6G&t=31&band_rank=6&Refer=top)<br />
-7. [西安一村庄被倾倒核酸采样试管](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E6%9D%91%E5%BA%84%E8%A2%AB%E5%80%BE%E5%80%92%E6%A0%B8%E9%85%B8%E9%87%87%E6%A0%B7%E8%AF%95%E7%AE%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [何老师 生图界的常胜将军](https://s.weibo.com/weibo?q=%E4%BD%95%E8%80%81%E5%B8%88%20%E7%94%9F%E5%9B%BE%E7%95%8C%E7%9A%84%E5%B8%B8%E8%83%9C%E5%B0%86%E5%86%9B&t=31&band_rank=8&Refer=top)<br />
+7. [何老师 生图界的常胜将军](https://s.weibo.com/weibo?q=%E4%BD%95%E8%80%81%E5%B8%88%20%E7%94%9F%E5%9B%BE%E7%95%8C%E7%9A%84%E5%B8%B8%E8%83%9C%E5%B0%86%E5%86%9B&t=31&band_rank=7&Refer=top)<br />
+8. [西安一村庄被倾倒核酸采样试管](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E6%9D%91%E5%BA%84%E8%A2%AB%E5%80%BE%E5%80%92%E6%A0%B8%E9%85%B8%E9%87%87%E6%A0%B7%E8%AF%95%E7%AE%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [白鹿的上身身材](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%9A%84%E4%B8%8A%E8%BA%AB%E8%BA%AB%E6%9D%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
