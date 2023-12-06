@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 09:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 09:25:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女友术后醒麻醉再对男友一见钟情](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%8F%8B%E6%9C%AF%E5%90%8E%E9%86%92%E9%BA%BB%E9%86%89%E5%86%8D%E5%AF%B9%E7%94%B7%E5%8F%8B%E4%B8%80%E8%A7%81%E9%92%9F%E6%83%85&t=31&band_rank=5&Refer=top)<br />
 6. [张若昀工作人员 还是牵一下蒜了](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%20%E8%BF%98%E6%98%AF%E7%89%B5%E4%B8%80%E4%B8%8B%E8%92%9C%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [何老师 生图界的常胜将军](https://s.weibo.com/weibo?q=%E4%BD%95%E8%80%81%E5%B8%88%20%E7%94%9F%E5%9B%BE%E7%95%8C%E7%9A%84%E5%B8%B8%E8%83%9C%E5%B0%86%E5%86%9B&t=31&band_rank=7&Refer=top)<br />
-8. [6G](https://s.weibo.com/weibo?q=6G&t=31&band_rank=8&Refer=top)<br />
-9. [BLACKPINK全员与YG完成续约](https://s.weibo.com/weibo?q=%23BLACKPINK%E5%85%A8%E5%91%98%E4%B8%8EYG%E5%AE%8C%E6%88%90%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [BLACKPINK全员与YG完成续约](https://s.weibo.com/weibo?q=%23BLACKPINK%E5%85%A8%E5%91%98%E4%B8%8EYG%E5%AE%8C%E6%88%90%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [6G](https://s.weibo.com/weibo?q=6G&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
