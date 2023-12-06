@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 19:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 19:28:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [多维度数据凸显经济澎湃活力](https://www.baidu.com/s?wd=%E5%A4%9A%E7%BB%B4%E5%BA%A6%E6%95%B0%E6%8D%AE%E5%87%B8%E6%98%BE%E7%BB%8F%E6%B5%8E%E6%BE%8E%E6%B9%83%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [长沙老人把小区楼顶“开垦”成菜园](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E8%80%81%E4%BA%BA%E6%8A%8A%E5%B0%8F%E5%8C%BA%E6%A5%BC%E9%A1%B6%E2%80%9C%E5%BC%80%E5%9E%A6%E2%80%9D%E6%88%90%E8%8F%9C%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [炎亚纶偷拍案12月21日开庭](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%81%B7%E6%8B%8D%E6%A1%8812%E6%9C%8821%E6%97%A5%E5%BC%80%E5%BA%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [俄外长被曝将苹果手机换成华为](https://www.baidu.com/s?wd=%E4%BF%84%E5%A4%96%E9%95%BF%E8%A2%AB%E6%9B%9D%E5%B0%86%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%8D%A2%E6%88%90%E5%8D%8E%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京回忆三四岁时被妈妈罚站](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BF%86%E4%B8%89%E5%9B%9B%E5%B2%81%E6%97%B6%E8%A2%AB%E5%A6%88%E5%A6%88%E7%BD%9A%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子拿头盔砸私家车玻璃后被拖行](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8B%BF%E5%A4%B4%E7%9B%94%E7%A0%B8%E7%A7%81%E5%AE%B6%E8%BD%A6%E7%8E%BB%E7%92%83%E5%90%8E%E8%A2%AB%E6%8B%96%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄外长被曝将苹果手机换成华为](https://www.baidu.com/s?wd=%E4%BF%84%E5%A4%96%E9%95%BF%E8%A2%AB%E6%9B%9D%E5%B0%86%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%8D%A2%E6%88%90%E5%8D%8E%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西警方辟谣九江发生杀人案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B9%9D%E6%B1%9F%E5%8F%91%E7%94%9F%E6%9D%80%E4%BA%BA%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [多维度数据凸显经济澎湃活力](https://www.baidu.com/s?wd=%E5%A4%9A%E7%BB%B4%E5%BA%A6%E6%95%B0%E6%8D%AE%E5%87%B8%E6%98%BE%E7%BB%8F%E6%B5%8E%E6%BE%8E%E6%B9%83%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [长沙老人把小区楼顶“开垦”成菜园](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E8%80%81%E4%BA%BA%E6%8A%8A%E5%B0%8F%E5%8C%BA%E6%A5%BC%E9%A1%B6%E2%80%9C%E5%BC%80%E5%9E%A6%E2%80%9D%E6%88%90%E8%8F%9C%E5%9B%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [炎亚纶偷拍案12月21日开庭](https://www.baidu.com/s?wd=%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%81%B7%E6%8B%8D%E6%A1%8812%E6%9C%8821%E6%97%A5%E5%BC%80%E5%BA%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [俄外长被曝将苹果手机换成华为](https://www.baidu.com/s?wd=%E4%BF%84%E5%A4%96%E9%95%BF%E8%A2%AB%E6%9B%9D%E5%B0%86%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%8D%A2%E6%88%90%E5%8D%8E%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京回忆三四岁时被妈妈罚站](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BF%86%E4%B8%89%E5%9B%9B%E5%B2%81%E6%97%B6%E8%A2%AB%E5%A6%88%E5%A6%88%E7%BD%9A%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子拿头盔砸私家车玻璃后被拖行](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8B%BF%E5%A4%B4%E7%9B%94%E7%A0%B8%E7%A7%81%E5%AE%B6%E8%BD%A6%E7%8E%BB%E7%92%83%E5%90%8E%E8%A2%AB%E6%8B%96%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄外长被曝将苹果手机换成华为](https://www.baidu.com/s?wd=%E4%BF%84%E5%A4%96%E9%95%BF%E8%A2%AB%E6%9B%9D%E5%B0%86%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%8D%A2%E6%88%90%E5%8D%8E%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西警方辟谣九江发生杀人案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B9%9D%E6%B1%9F%E5%8F%91%E7%94%9F%E6%9D%80%E4%BA%BA%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
