@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 11:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 11:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [媒体评林俊杰为何恼了](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E6%9E%97%E4%BF%8A%E6%9D%B0%E4%B8%BA%E4%BD%95%E6%81%BC%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [律师称若五月天假唱可能会被终身禁唱](https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E7%A7%B0%E8%8B%A5%E4%BA%94%E6%9C%88%E5%A4%A9%E5%81%87%E5%94%B1%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E5%94%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [29岁姑娘无症状确诊肺癌](https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%A7%91%E5%A8%98%E6%97%A0%E7%97%87%E7%8A%B6%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [阿信忘了话筒在哪只手](https://s.weibo.com/weibo?q=%E9%98%BF%E4%BF%A1%E5%BF%98%E4%BA%86%E8%AF%9D%E7%AD%92%E5%9C%A8%E5%93%AA%E5%8F%AA%E6%89%8B&t=31&band_rank=9&Refer=top)<br />
+9. [脱轨定档](https://s.weibo.com/weibo?q=%E8%84%B1%E8%BD%A8%E5%AE%9A%E6%A1%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
