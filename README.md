@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 13:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 13:54:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [玲花曾评价五月天唱功](https://s.weibo.com/weibo?q=%23%E7%8E%B2%E8%8A%B1%E6%9B%BE%E8%AF%84%E4%BB%B7%E4%BA%94%E6%9C%88%E5%A4%A9%E5%94%B1%E5%8A%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [刘亦菲 泰国](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E6%B3%B0%E5%9B%BD&t=31&band_rank=5&Refer=top)<br />
 6. [鬼怪 神构图](https://s.weibo.com/weibo?q=%E9%AC%BC%E6%80%AA%20%E7%A5%9E%E6%9E%84%E5%9B%BE&t=31&band_rank=6&Refer=top)<br />
-7. [阿信忘了话筒在哪只手](https://s.weibo.com/weibo?q=%E9%98%BF%E4%BF%A1%E5%BF%98%E4%BA%86%E8%AF%9D%E7%AD%92%E5%9C%A8%E5%93%AA%E5%8F%AA%E6%89%8B&t=31&band_rank=7&Refer=top)<br />
+7. [台湾论坛评五月天假唱风波](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%AE%BA%E5%9D%9B%E8%AF%84%E4%BA%94%E6%9C%88%E5%A4%A9%E5%81%87%E5%94%B1%E9%A3%8E%E6%B3%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [被斗鱼索赔8000万的女大学生](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%96%97%E9%B1%BC%E7%B4%A2%E8%B5%948000%E4%B8%87%E7%9A%84%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
 9. [王健林拟转让万达投资51%股权](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%81%A5%E6%9E%97%E6%8B%9F%E8%BD%AC%E8%AE%A9%E4%B8%87%E8%BE%BE%E6%8A%95%E8%B5%8451%25%E8%82%A1%E6%9D%83%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -24,7 +24,7 @@
 5. [女大学生被斗鱼索赔8000万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%96%97%E9%B1%BC%E7%B4%A2%E8%B5%948000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [全球首座第四代核电站商运投产](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E5%BA%A7%E7%AC%AC%E5%9B%9B%E4%BB%A3%E6%A0%B8%E7%94%B5%E7%AB%99%E5%95%86%E8%BF%90%E6%8A%95%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [玲花曾评价五月天唱功](https://www.baidu.com/s?wd=%E7%8E%B2%E8%8A%B1%E6%9B%BE%E8%AF%84%E4%BB%B7%E4%BA%94%E6%9C%88%E5%A4%A9%E5%94%B1%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [上万只蒙古野生黄羊跨越中蒙边境](https://www.baidu.com/s?wd=%E4%B8%8A%E4%B8%87%E5%8F%AA%E8%92%99%E5%8F%A4%E9%87%8E%E7%94%9F%E9%BB%84%E7%BE%8A%E8%B7%A8%E8%B6%8A%E4%B8%AD%E8%92%99%E8%BE%B9%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [算力“大牛股”董事长被刑拘](https://www.baidu.com/s?wd=%E7%AE%97%E5%8A%9B%E2%80%9C%E5%A4%A7%E7%89%9B%E8%82%A1%E2%80%9D%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [镇政府辟谣禁止村民烧柴做饭](https://www.baidu.com/s?wd=%E9%95%87%E6%94%BF%E5%BA%9C%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E6%9D%91%E6%B0%91%E7%83%A7%E6%9F%B4%E5%81%9A%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女大学生被斗鱼索赔8000万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%96%97%E9%B1%BC%E7%B4%A2%E8%B5%948000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [全球首座第四代核电站商运投产](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E5%BA%A7%E7%AC%AC%E5%9B%9B%E4%BB%A3%E6%A0%B8%E7%94%B5%E7%AB%99%E5%95%86%E8%BF%90%E6%8A%95%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [玲花曾评价五月天唱功](https://www.baidu.com/s?wd=%E7%8E%B2%E8%8A%B1%E6%9B%BE%E8%AF%84%E4%BB%B7%E4%BA%94%E6%9C%88%E5%A4%A9%E5%94%B1%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [上万只蒙古野生黄羊跨越中蒙边境](https://www.baidu.com/s?wd=%E4%B8%8A%E4%B8%87%E5%8F%AA%E8%92%99%E5%8F%A4%E9%87%8E%E7%94%9F%E9%BB%84%E7%BE%8A%E8%B7%A8%E8%B6%8A%E4%B8%AD%E8%92%99%E8%BE%B9%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [算力“大牛股”董事长被刑拘](https://www.baidu.com/s?wd=%E7%AE%97%E5%8A%9B%E2%80%9C%E5%A4%A7%E7%89%9B%E8%82%A1%E2%80%9D%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [镇政府辟谣禁止村民烧柴做饭](https://www.baidu.com/s?wd=%E9%95%87%E6%94%BF%E5%BA%9C%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E6%9D%91%E6%B0%91%E7%83%A7%E6%9F%B4%E5%81%9A%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
