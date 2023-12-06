@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 10:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 10:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [律师称若五月天假唱可能会被终身禁唱](https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E7%A7%B0%E8%8B%A5%E4%BA%94%E6%9C%88%E5%A4%A9%E5%81%87%E5%94%B1%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E5%94%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [阿信忘了话筒在哪只手](https://s.weibo.com/weibo?q=%E9%98%BF%E4%BF%A1%E5%BF%98%E4%BA%86%E8%AF%9D%E7%AD%92%E5%9C%A8%E5%93%AA%E5%8F%AA%E6%89%8B&t=31&band_rank=7&Refer=top)<br />
 8. [被斗鱼索赔8000万的女大学生](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%96%97%E9%B1%BC%E7%B4%A2%E8%B5%948000%E4%B8%87%E7%9A%84%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [菲律宾一巴士坠崖已致29死](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E4%B8%80%E5%B7%B4%E5%A3%AB%E5%9D%A0%E5%B4%96%E5%B7%B2%E8%87%B429%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [父母的过度干涉 潜意识嫉妒](https://s.weibo.com/weibo?q=%E7%88%B6%E6%AF%8D%E7%9A%84%E8%BF%87%E5%BA%A6%E5%B9%B2%E6%B6%89%20%E6%BD%9C%E6%84%8F%E8%AF%86%E5%AB%89%E5%A6%92&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
