@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 14:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 14:05:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [刘亦菲 泰国](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E6%B3%B0%E5%9B%BD&t=31&band_rank=5&Refer=top)<br />
 6. [王健林拟转让万达投资51%股权](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%81%A5%E6%9E%97%E6%8B%9F%E8%BD%AC%E8%AE%A9%E4%B8%87%E8%BE%BE%E6%8A%95%E8%B5%8451%25%E8%82%A1%E6%9D%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [台湾论坛评五月天假唱风波](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%AE%BA%E5%9D%9B%E8%AF%84%E4%BA%94%E6%9C%88%E5%A4%A9%E5%81%87%E5%94%B1%E9%A3%8E%E6%B3%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [林俊杰直播](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%9B%B4%E6%92%AD&t=31&band_rank=8&Refer=top)<br />
+8. [鬼怪 神构图](https://s.weibo.com/weibo?q=%E9%AC%BC%E6%80%AA%20%E7%A5%9E%E6%9E%84%E5%9B%BE&t=31&band_rank=8&Refer=top)<br />
 9. [被斗鱼索赔8000万的女大学生](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%96%97%E9%B1%BC%E7%B4%A2%E8%B5%948000%E4%B8%87%E7%9A%84%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
