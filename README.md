@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 17:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 17:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [新郎婚礼中晕倒全市急救专家都来了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E5%A9%9A%E7%A4%BC%E4%B8%AD%E6%99%95%E5%80%92%E5%85%A8%E5%B8%82%E6%80%A5%E6%95%91%E4%B8%93%E5%AE%B6%E9%83%BD%E6%9D%A5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [南京胖哥父亲去世](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨紫GQ路透](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%ABGQ%E8%B7%AF%E9%80%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [顺丰暂停揽收手办](https://s.weibo.com/weibo?q=%23%E9%A1%BA%E4%B8%B0%E6%9A%82%E5%81%9C%E6%8F%BD%E6%94%B6%E6%89%8B%E5%8A%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [明星GQ盛典机场路透](https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9FGQ%E7%9B%9B%E5%85%B8%E6%9C%BA%E5%9C%BA%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
