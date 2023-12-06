@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 12:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 12:26:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [BLACKPINK全员与YG完成续约](https://s.weibo.com/weibo?q=%23BLACKPINK%E5%85%A8%E5%91%98%E4%B8%8EYG%E5%AE%8C%E6%88%90%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [一文了解6G进展](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%96%87%E4%BA%86%E8%A7%A36G%E8%BF%9B%E5%B1%95%23&t=31&band_rank=3&Refer=top)<br />
 4. [阿信忘了话筒在哪只手](https://s.weibo.com/weibo?q=%E9%98%BF%E4%BF%A1%E5%BF%98%E4%BA%86%E8%AF%9D%E7%AD%92%E5%9C%A8%E5%93%AA%E5%8F%AA%E6%89%8B&t=31&band_rank=4&Refer=top)<br />
-5. [王星越 我从17岁就跟着鹿姐了](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%98%9F%E8%B6%8A%20%E6%88%91%E4%BB%8E17%E5%B2%81%E5%B0%B1%E8%B7%9F%E7%9D%80%E9%B9%BF%E5%A7%90%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
-6. [被斗鱼索赔8000万的女大学生](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%96%97%E9%B1%BC%E7%B4%A2%E8%B5%948000%E4%B8%87%E7%9A%84%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
+5. [被斗鱼索赔8000万的女大学生](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%96%97%E9%B1%BC%E7%B4%A2%E8%B5%948000%E4%B8%87%E7%9A%84%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
+6. [王星越 我从17岁就跟着鹿姐了](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%98%9F%E8%B6%8A%20%E6%88%91%E4%BB%8E17%E5%B2%81%E5%B0%B1%E8%B7%9F%E7%9D%80%E9%B9%BF%E5%A7%90%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [玲花曾评价五月天唱功](https://s.weibo.com/weibo?q=%23%E7%8E%B2%E8%8A%B1%E6%9B%BE%E8%AF%84%E4%BB%B7%E4%BA%94%E6%9C%88%E5%A4%A9%E5%94%B1%E5%8A%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [5个损害卵巢的习惯要避免](https://s.weibo.com/weibo?q=%235%E4%B8%AA%E6%8D%9F%E5%AE%B3%E5%8D%B5%E5%B7%A2%E7%9A%84%E4%B9%A0%E6%83%AF%E8%A6%81%E9%81%BF%E5%85%8D%23&t=31&band_rank=8&Refer=top)<br />
 9. [GQ晚宴内场路透](https://s.weibo.com/weibo?q=%23GQ%E6%99%9A%E5%AE%B4%E5%86%85%E5%9C%BA%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
