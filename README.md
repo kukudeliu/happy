@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 19:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 20:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [上海女子阿里车祸救治过程始末](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A5%B3%E5%AD%90%E9%98%BF%E9%87%8C%E8%BD%A6%E7%A5%B8%E6%95%91%E6%B2%BB%E8%BF%87%E7%A8%8B%E5%A7%8B%E6%9C%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [5岁男娃奶声奶气报警说捡到很多钱](https://s.weibo.com/weibo?q=%235%E5%B2%81%E7%94%B7%E5%A8%83%E5%A5%B6%E5%A3%B0%E5%A5%B6%E6%B0%94%E6%8A%A5%E8%AD%A6%E8%AF%B4%E6%8D%A1%E5%88%B0%E5%BE%88%E5%A4%9A%E9%92%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [上海文旅局组织专家评审判定五月天事件](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%87%E6%97%85%E5%B1%80%E7%BB%84%E7%BB%87%E4%B8%93%E5%AE%B6%E8%AF%84%E5%AE%A1%E5%88%A4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [五月天事件黄牛票很难维权](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E4%BA%8B%E4%BB%B6%E9%BB%84%E7%89%9B%E7%A5%A8%E5%BE%88%E9%9A%BE%E7%BB%B4%E6%9D%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [张凌赫 南师大](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E5%8D%97%E5%B8%88%E5%A4%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
