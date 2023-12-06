@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 15:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 15:54:01</h4></div>
 
 > 微博  
 
 1. [韩国男子性侵亲妹妹被判刑12年不服上诉](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E4%BA%B2%E5%A6%B9%E5%A6%B9%E8%A2%AB%E5%88%A4%E5%88%9112%E5%B9%B4%E4%B8%8D%E6%9C%8D%E4%B8%8A%E8%AF%89%23&t=31&band_rank=1&Refer=top)<br />
 2. [上海文旅局组织专家评审判定五月天事件](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%87%E6%97%85%E5%B1%80%E7%BB%84%E7%BB%87%E4%B8%93%E5%AE%B6%E8%AF%84%E5%AE%A1%E5%88%A4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top)<br />
-3. [新一代国产超算系统天河星逸发布](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9B%BD%E4%BA%A7%E8%B6%85%E7%AE%97%E7%B3%BB%E7%BB%9F%E5%A4%A9%E6%B2%B3%E6%98%9F%E9%80%B8%E5%8F%91%E5%B8%83%23&t=31&band_rank=3&Refer=top)<br />
+3. [老人防治呼吸道疾病5个知识点](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E9%98%B2%E6%B2%BB%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%855%E4%B8%AA%E7%9F%A5%E8%AF%86%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [GQ 你好癫啊](https://s.weibo.com/weibo?q=GQ%20%E4%BD%A0%E5%A5%BD%E7%99%AB%E5%95%8A&t=31&band_rank=4&Refer=top)<br />
 5. [赵露思败诉](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%B4%A5%E8%AF%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [婆婆太粘老公老婆受不了提出离婚](https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%86%E5%A4%AA%E7%B2%98%E8%80%81%E5%85%AC%E8%80%81%E5%A9%86%E5%8F%97%E4%B8%8D%E4%BA%86%E6%8F%90%E5%87%BA%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=6&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [女大学生被斗鱼索赔8000万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%96%97%E9%B1%BC%E7%B4%A2%E8%B5%948000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [租客容留2女子卖淫每次收30元提成](https://www.baidu.com/s?wd=%E7%A7%9F%E5%AE%A2%E5%AE%B9%E7%95%992%E5%A5%B3%E5%AD%90%E5%8D%96%E6%B7%AB%E6%AF%8F%E6%AC%A1%E6%94%B630%E5%85%83%E6%8F%90%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄外长被曝将苹果手机换成华为](https://www.baidu.com/s?wd=%E4%BF%84%E5%A4%96%E9%95%BF%E8%A2%AB%E6%9B%9D%E5%B0%86%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%8D%A2%E6%88%90%E5%8D%8E%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [宁波女子银行账户突然多1000万元](https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E5%A5%B3%E5%AD%90%E9%93%B6%E8%A1%8C%E8%B4%A6%E6%88%B7%E7%AA%81%E7%84%B6%E5%A4%9A1000%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [刘德华双手捧遗照送父亲出殡](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E5%8F%8C%E6%89%8B%E6%8D%A7%E9%81%97%E7%85%A7%E9%80%81%E7%88%B6%E4%BA%B2%E5%87%BA%E6%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [镇政府辟谣禁止村民烧柴做饭](https://www.baidu.com/s?wd=%E9%95%87%E6%94%BF%E5%BA%9C%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E6%9D%91%E6%B0%91%E7%83%A7%E6%9F%B4%E5%81%9A%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女大学生被斗鱼索赔8000万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%96%97%E9%B1%BC%E7%B4%A2%E8%B5%948000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [租客容留2女子卖淫每次收30元提成](https://www.baidu.com/s?wd=%E7%A7%9F%E5%AE%A2%E5%AE%B9%E7%95%992%E5%A5%B3%E5%AD%90%E5%8D%96%E6%B7%AB%E6%AF%8F%E6%AC%A1%E6%94%B630%E5%85%83%E6%8F%90%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄外长被曝将苹果手机换成华为](https://www.baidu.com/s?wd=%E4%BF%84%E5%A4%96%E9%95%BF%E8%A2%AB%E6%9B%9D%E5%B0%86%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%8D%A2%E6%88%90%E5%8D%8E%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [宁波女子银行账户突然多1000万元](https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E5%A5%B3%E5%AD%90%E9%93%B6%E8%A1%8C%E8%B4%A6%E6%88%B7%E7%AA%81%E7%84%B6%E5%A4%9A1000%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [刘德华双手捧遗照送父亲出殡](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E5%8F%8C%E6%89%8B%E6%8D%A7%E9%81%97%E7%85%A7%E9%80%81%E7%88%B6%E4%BA%B2%E5%87%BA%E6%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [镇政府辟谣禁止村民烧柴做饭](https://www.baidu.com/s?wd=%E9%95%87%E6%94%BF%E5%BA%9C%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E6%9D%91%E6%B0%91%E7%83%A7%E6%9F%B4%E5%81%9A%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
