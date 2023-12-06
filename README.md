@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 16:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 16:40:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [南京胖哥父亲去世](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [上海文旅局组织专家评审判定五月天事件](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%87%E6%97%85%E5%B1%80%E7%BB%84%E7%BB%87%E4%B8%93%E5%AE%B6%E8%AF%84%E5%AE%A1%E5%88%A4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [Twitch宣布退出韩国](https://s.weibo.com/weibo?q=%23Twitch%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E9%9F%A9%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
-7. [五月天争议比较大的几个视频](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E4%BA%89%E8%AE%AE%E6%AF%94%E8%BE%83%E5%A4%A7%E7%9A%84%E5%87%A0%E4%B8%AA%E8%A7%86%E9%A2%91&t=31&band_rank=7&Refer=top)<br />
+7. [丁太升 不开麦半开麦都是假唱](https://s.weibo.com/weibo?q=%E4%B8%81%E5%A4%AA%E5%8D%87%20%E4%B8%8D%E5%BC%80%E9%BA%A6%E5%8D%8A%E5%BC%80%E9%BA%A6%E9%83%BD%E6%98%AF%E5%81%87%E5%94%B1&t=31&band_rank=7&Refer=top)<br />
 8. [何猷君拍结婚照 垫五个枕头](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E6%8B%8D%E7%BB%93%E5%A9%9A%E7%85%A7%20%E5%9E%AB%E4%BA%94%E4%B8%AA%E6%9E%95%E5%A4%B4&t=31&band_rank=8&Refer=top)<br />
 9. [顺丰暂停揽收手办](https://s.weibo.com/weibo?q=%23%E9%A1%BA%E4%B8%B0%E6%9A%82%E5%81%9C%E6%8F%BD%E6%94%B6%E6%89%8B%E5%8A%9E%23&t=31&band_rank=9&Refer=top)<br />
 
