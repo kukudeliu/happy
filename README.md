@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 09:01:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 09:02:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [6G](https://s.weibo.com/weibo?q=6G&t=31&band_rank=6&Refer=top)<br />
 7. [女友术后醒麻醉再对男友一见钟情](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%8F%8B%E6%9C%AF%E5%90%8E%E9%86%92%E9%BA%BB%E9%86%89%E5%86%8D%E5%AF%B9%E7%94%B7%E5%8F%8B%E4%B8%80%E8%A7%81%E9%92%9F%E6%83%85&t=31&band_rank=7&Refer=top)<br />
 8. [何老师 生图界的常胜将军](https://s.weibo.com/weibo?q=%E4%BD%95%E8%80%81%E5%B8%88%20%E7%94%9F%E5%9B%BE%E7%95%8C%E7%9A%84%E5%B8%B8%E8%83%9C%E5%B0%86%E5%86%9B&t=31&band_rank=8&Refer=top)<br />
-9. [西安一村庄被倾倒核酸采样试管](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E6%9D%91%E5%BA%84%E8%A2%AB%E5%80%BE%E5%80%92%E6%A0%B8%E9%85%B8%E9%87%87%E6%A0%B7%E8%AF%95%E7%AE%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [白鹿的上身身材](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%9A%84%E4%B8%8A%E8%BA%AB%E8%BA%AB%E6%9D%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
