@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 09:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 09:54:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [白菜批发价最低2毛一斤 官媒发声](https://www.baidu.com/s?wd=%E7%99%BD%E8%8F%9C%E6%89%B9%E5%8F%91%E4%BB%B7%E6%9C%80%E4%BD%8E2%E6%AF%9B%E4%B8%80%E6%96%A4+%E5%AE%98%E5%AA%92%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [29岁姑娘无症状确诊肺癌](https://www.baidu.com/s?wd=29%E5%B2%81%E5%A7%91%E5%A8%98%E6%97%A0%E7%97%87%E7%8A%B6%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子凌晨开车遇白鞋男子诡异鞠躬](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%8C%E6%99%A8%E5%BC%80%E8%BD%A6%E9%81%87%E7%99%BD%E9%9E%8B%E7%94%B7%E5%AD%90%E8%AF%A1%E5%BC%82%E9%9E%A0%E8%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孟羽童清华演讲自称浅薄](https://www.baidu.com/s?wd=%E5%AD%9F%E7%BE%BD%E7%AB%A5%E6%B8%85%E5%8D%8E%E6%BC%94%E8%AE%B2%E8%87%AA%E7%A7%B0%E6%B5%85%E8%96%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [工伤认定必须单位同意？假的](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BC%A4%E8%AE%A4%E5%AE%9A%E5%BF%85%E9%A1%BB%E5%8D%95%E4%BD%8D%E5%90%8C%E6%84%8F%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日餐馆扇耳光有偿服务“供不应求”](https://www.baidu.com/s?wd=%E6%97%A5%E9%A4%90%E9%A6%86%E6%89%87%E8%80%B3%E5%85%89%E6%9C%89%E5%81%BF%E6%9C%8D%E5%8A%A1%E2%80%9C%E4%BE%9B%E4%B8%8D%E5%BA%94%E6%B1%82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [镇政府辟谣禁止村民烧柴做饭](https://www.baidu.com/s?wd=%E9%95%87%E6%94%BF%E5%BA%9C%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E6%9D%91%E6%B0%91%E7%83%A7%E6%9F%B4%E5%81%9A%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [白菜批发价最低2毛一斤 官媒发声](https://www.baidu.com/s?wd=%E7%99%BD%E8%8F%9C%E6%89%B9%E5%8F%91%E4%BB%B7%E6%9C%80%E4%BD%8E2%E6%AF%9B%E4%B8%80%E6%96%A4+%E5%AE%98%E5%AA%92%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [29岁姑娘无症状确诊肺癌](https://www.baidu.com/s?wd=29%E5%B2%81%E5%A7%91%E5%A8%98%E6%97%A0%E7%97%87%E7%8A%B6%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子凌晨开车遇白鞋男子诡异鞠躬](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%8C%E6%99%A8%E5%BC%80%E8%BD%A6%E9%81%87%E7%99%BD%E9%9E%8B%E7%94%B7%E5%AD%90%E8%AF%A1%E5%BC%82%E9%9E%A0%E8%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孟羽童清华演讲自称浅薄](https://www.baidu.com/s?wd=%E5%AD%9F%E7%BE%BD%E7%AB%A5%E6%B8%85%E5%8D%8E%E6%BC%94%E8%AE%B2%E8%87%AA%E7%A7%B0%E6%B5%85%E8%96%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [工伤认定必须单位同意？假的](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BC%A4%E8%AE%A4%E5%AE%9A%E5%BF%85%E9%A1%BB%E5%8D%95%E4%BD%8D%E5%90%8C%E6%84%8F%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日餐馆扇耳光有偿服务“供不应求”](https://www.baidu.com/s?wd=%E6%97%A5%E9%A4%90%E9%A6%86%E6%89%87%E8%80%B3%E5%85%89%E6%9C%89%E5%81%BF%E6%9C%8D%E5%8A%A1%E2%80%9C%E4%BE%9B%E4%B8%8D%E5%BA%94%E6%B1%82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [镇政府辟谣禁止村民烧柴做饭](https://www.baidu.com/s?wd=%E9%95%87%E6%94%BF%E5%BA%9C%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E6%9D%91%E6%B0%91%E7%83%A7%E6%9F%B4%E5%81%9A%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
