@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 09:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 09:27:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [29岁姑娘无症状确诊肺癌](https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%A7%91%E5%A8%98%E6%97%A0%E7%97%87%E7%8A%B6%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%23&t=31&band_rank=2&Refer=top)<br />
 3. [聚焦COP28](https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6COP28%23&t=31&band_rank=3&Refer=top)<br />
 4. [阿信忘了话筒在哪只手](https://s.weibo.com/weibo?q=%E9%98%BF%E4%BF%A1%E5%BF%98%E4%BA%86%E8%AF%9D%E7%AD%92%E5%9C%A8%E5%93%AA%E5%8F%AA%E6%89%8B&t=31&band_rank=4&Refer=top)<br />
-5. [女友术后醒麻醉再对男友一见钟情](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%8F%8B%E6%9C%AF%E5%90%8E%E9%86%92%E9%BA%BB%E9%86%89%E5%86%8D%E5%AF%B9%E7%94%B7%E5%8F%8B%E4%B8%80%E8%A7%81%E9%92%9F%E6%83%85&t=31&band_rank=5&Refer=top)<br />
-6. [BLACKPINK全员与YG完成续约](https://s.weibo.com/weibo?q=%23BLACKPINK%E5%85%A8%E5%91%98%E4%B8%8EYG%E5%AE%8C%E6%88%90%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [张若昀工作人员 还是牵一下蒜了](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%20%E8%BF%98%E6%98%AF%E7%89%B5%E4%B8%80%E4%B8%8B%E8%92%9C%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [媒体评林俊杰为何恼了](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E6%9E%97%E4%BF%8A%E6%9D%B0%E4%B8%BA%E4%BD%95%E6%81%BC%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+5. [BLACKPINK全员与YG完成续约](https://s.weibo.com/weibo?q=%23BLACKPINK%E5%85%A8%E5%91%98%E4%B8%8EYG%E5%AE%8C%E6%88%90%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=5&Refer=top)<br />
+6. [媒体评林俊杰为何恼了](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E6%9E%97%E4%BF%8A%E6%9D%B0%E4%B8%BA%E4%BD%95%E6%81%BC%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [女友术后醒麻醉再对男友一见钟情](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%8F%8B%E6%9C%AF%E5%90%8E%E9%86%92%E9%BA%BB%E9%86%89%E5%86%8D%E5%AF%B9%E7%94%B7%E5%8F%8B%E4%B8%80%E8%A7%81%E9%92%9F%E6%83%85&t=31&band_rank=7&Refer=top)<br />
+8. [张若昀工作人员 还是牵一下蒜了](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%20%E8%BF%98%E6%98%AF%E7%89%B5%E4%B8%80%E4%B8%8B%E8%92%9C%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [6G](https://s.weibo.com/weibo?q=6G&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
