@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 13:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 13:26:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [一文了解6G进展](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%96%87%E4%BA%86%E8%A7%A36G%E8%BF%9B%E5%B1%95%23&t=31&band_rank=3&Refer=top)<br />
 4. [玲花曾评价五月天唱功](https://s.weibo.com/weibo?q=%23%E7%8E%B2%E8%8A%B1%E6%9B%BE%E8%AF%84%E4%BB%B7%E4%BA%94%E6%9C%88%E5%A4%A9%E5%94%B1%E5%8A%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [刘亦菲 泰国](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E6%B3%B0%E5%9B%BD&t=31&band_rank=5&Refer=top)<br />
-6. [BLACKPINK全员与YG完成续约](https://s.weibo.com/weibo?q=%23BLACKPINK%E5%85%A8%E5%91%98%E4%B8%8EYG%E5%AE%8C%E6%88%90%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=6&Refer=top)<br />
+6. [王健林拟转让万达投资51%股权](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%81%A5%E6%9E%97%E6%8B%9F%E8%BD%AC%E8%AE%A9%E4%B8%87%E8%BE%BE%E6%8A%95%E8%B5%8451%25%E8%82%A1%E6%9D%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [阿信忘了话筒在哪只手](https://s.weibo.com/weibo?q=%E9%98%BF%E4%BF%A1%E5%BF%98%E4%BA%86%E8%AF%9D%E7%AD%92%E5%9C%A8%E5%93%AA%E5%8F%AA%E6%89%8B&t=31&band_rank=7&Refer=top)<br />
-8. [王健林拟转让万达投资51%股权](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%81%A5%E6%9E%97%E6%8B%9F%E8%BD%AC%E8%AE%A9%E4%B8%87%E8%BE%BE%E6%8A%95%E8%B5%8451%25%E8%82%A1%E6%9D%83%23&t=31&band_rank=8&Refer=top)<br />
+8. [BLACKPINK全员与YG完成续约](https://s.weibo.com/weibo?q=%23BLACKPINK%E5%85%A8%E5%91%98%E4%B8%8EYG%E5%AE%8C%E6%88%90%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=8&Refer=top)<br />
 9. [GQ晚宴内场路透](https://s.weibo.com/weibo?q=%23GQ%E6%99%9A%E5%AE%B4%E5%86%85%E5%9C%BA%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
