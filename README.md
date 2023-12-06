@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 23:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 23:40:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [阿信 每一声都来自我的嗓子](https://s.weibo.com/weibo?q=%E9%98%BF%E4%BF%A1%20%E6%AF%8F%E4%B8%80%E5%A3%B0%E9%83%BD%E6%9D%A5%E8%87%AA%E6%88%91%E7%9A%84%E5%97%93%E5%AD%90&t=31&band_rank=2&Refer=top)<br />
 3. [呼吸道传染病个人健康手册](https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%90%B8%E9%81%93%E4%BC%A0%E6%9F%93%E7%97%85%E4%B8%AA%E4%BA%BA%E5%81%A5%E5%BA%B7%E6%89%8B%E5%86%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [田馥甄回应五月天假唱风波](https://s.weibo.com/weibo?q=%23%E7%94%B0%E9%A6%A5%E7%94%84%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E5%81%87%E5%94%B1%E9%A3%8E%E6%B3%A2%23&t=31&band_rank=4&Refer=top)<br />
-5. [苹果因故意降低性能被判向部分用户赔偿](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%A0%E6%95%85%E6%84%8F%E9%99%8D%E4%BD%8E%E6%80%A7%E8%83%BD%E8%A2%AB%E5%88%A4%E5%90%91%E9%83%A8%E5%88%86%E7%94%A8%E6%88%B7%E8%B5%94%E5%81%BF%23&t=31&band_rank=5&Refer=top)<br />
-6. [E6](https://s.weibo.com/weibo?q=E6&t=31&band_rank=6&Refer=top)<br />
+5. [E6](https://s.weibo.com/weibo?q=E6&t=31&band_rank=5&Refer=top)<br />
+6. [苹果因故意降低性能被判向部分用户赔偿](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%A0%E6%95%85%E6%84%8F%E9%99%8D%E4%BD%8E%E6%80%A7%E8%83%BD%E8%A2%AB%E5%88%A4%E5%90%91%E9%83%A8%E5%88%86%E7%94%A8%E6%88%B7%E8%B5%94%E5%81%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [新娘遭婚闹大姨一把推开扫兴小伙](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E9%81%AD%E5%A9%9A%E9%97%B9%E5%A4%A7%E5%A7%A8%E4%B8%80%E6%8A%8A%E6%8E%A8%E5%BC%80%E6%89%AB%E5%85%B4%E5%B0%8F%E4%BC%99%23&t=31&band_rank=7&Refer=top)<br />
-8. [周杰伦演唱会预售被嘲吃相难看](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%A2%84%E5%94%AE%E8%A2%AB%E5%98%B2%E5%90%83%E7%9B%B8%E9%9A%BE%E7%9C%8B%23&t=31&band_rank=8&Refer=top)<br />
+8. [假唱 真唱](https://s.weibo.com/weibo?q=%E5%81%87%E5%94%B1%20%E7%9C%9F%E5%94%B1&t=31&band_rank=8&Refer=top)<br />
 9. [医生点名3类人睡前喝水](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%82%B9%E5%90%8D3%E7%B1%BB%E4%BA%BA%E7%9D%A1%E5%89%8D%E5%96%9D%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
