@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 16:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 16:21:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [老人防治呼吸道疾病5个知识点](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E9%98%B2%E6%B2%BB%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%855%E4%B8%AA%E7%9F%A5%E8%AF%86%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [上海文旅局组织专家评审判定五月天事件](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%87%E6%97%85%E5%B1%80%E7%BB%84%E7%BB%87%E4%B8%93%E5%AE%B6%E8%AF%84%E5%AE%A1%E5%88%A4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [GQ 你好癫啊](https://s.weibo.com/weibo?q=GQ%20%E4%BD%A0%E5%A5%BD%E7%99%AB%E5%95%8A&t=31&band_rank=5&Refer=top)<br />
-6. [何猷君拍结婚照 垫五个枕头](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E6%8B%8D%E7%BB%93%E5%A9%9A%E7%85%A7%20%E5%9E%AB%E4%BA%94%E4%B8%AA%E6%9E%95%E5%A4%B4&t=31&band_rank=6&Refer=top)<br />
-7. [南京胖哥父亲去世](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
+6. [南京胖哥父亲去世](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
+7. [何猷君拍结婚照 垫五个枕头](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E6%8B%8D%E7%BB%93%E5%A9%9A%E7%85%A7%20%E5%9E%AB%E4%BA%94%E4%B8%AA%E6%9E%95%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
 8. [五月天争议比较大的几个视频](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E4%BA%89%E8%AE%AE%E6%AF%94%E8%BE%83%E5%A4%A7%E7%9A%84%E5%87%A0%E4%B8%AA%E8%A7%86%E9%A2%91&t=31&band_rank=8&Refer=top)<br />
-9. [婆婆太粘老公老婆受不了提出离婚](https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%86%E5%A4%AA%E7%B2%98%E8%80%81%E5%85%AC%E8%80%81%E5%A9%86%E5%8F%97%E4%B8%8D%E4%BA%86%E6%8F%90%E5%87%BA%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [床上八段锦](https://s.weibo.com/weibo?q=%E5%BA%8A%E4%B8%8A%E5%85%AB%E6%AE%B5%E9%94%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
