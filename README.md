@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 21:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 21:03:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张凌赫 南师大](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E5%8D%97%E5%B8%88%E5%A4%A7&t=31&band_rank=6&Refer=top)<br />
 7. [难哄 瞎哄](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E7%9E%8E%E5%93%84&t=31&band_rank=7&Refer=top)<br />
 8. [五月天事件黄牛票很难维权](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E4%BA%8B%E4%BB%B6%E9%BB%84%E7%89%9B%E7%A5%A8%E5%BE%88%E9%9A%BE%E7%BB%B4%E6%9D%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [呼和浩特地震](https://s.weibo.com/weibo?q=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
+9. [AG 猝死团](https://s.weibo.com/weibo?q=AG%20%E7%8C%9D%E6%AD%BB%E5%9B%A2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,7 +23,7 @@
 4. [多维度数据凸显经济澎湃活力](https://www.baidu.com/s?wd=%E5%A4%9A%E7%BB%B4%E5%BA%A6%E6%95%B0%E6%8D%AE%E5%87%B8%E6%98%BE%E7%BB%8F%E6%B5%8E%E6%BE%8E%E6%B9%83%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [周杰伦福州演唱会被嘲“吃相难看”](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%A6%8F%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%98%B2%E2%80%9C%E5%90%83%E7%9B%B8%E9%9A%BE%E7%9C%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一车橘子被检测站卸8筐仅找回4筐半](https://www.baidu.com/s?wd=%E4%B8%80%E8%BD%A6%E6%A9%98%E5%AD%90%E8%A2%AB%E6%A3%80%E6%B5%8B%E7%AB%99%E5%8D%B88%E7%AD%90%E4%BB%85%E6%89%BE%E5%9B%9E4%E7%AD%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [旅俄大熊猫“如意”大雪中吃竹子](https://www.baidu.com/s?wd=%E6%97%85%E4%BF%84%E5%A4%A7%E7%86%8A%E7%8C%AB%E2%80%9C%E5%A6%82%E6%84%8F%E2%80%9D%E5%A4%A7%E9%9B%AA%E4%B8%AD%E5%90%83%E7%AB%B9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [上海文旅局组织专家评审五月天事件](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E6%96%87%E6%97%85%E5%B1%80%E7%BB%84%E7%BB%87%E4%B8%93%E5%AE%B6%E8%AF%84%E5%AE%A1%E4%BA%94%E6%9C%88%E5%A4%A9%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子恶意剪辑抹黑雪乡旅游视频被拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%81%B6%E6%84%8F%E5%89%AA%E8%BE%91%E6%8A%B9%E9%BB%91%E9%9B%AA%E4%B9%A1%E6%97%85%E6%B8%B8%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西警方辟谣九江发生杀人案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B9%9D%E6%B1%9F%E5%8F%91%E7%94%9F%E6%9D%80%E4%BA%BA%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [多维度数据凸显经济澎湃活力](https://www.baidu.com/s?wd=%E5%A4%9A%E7%BB%B4%E5%BA%A6%E6%95%B0%E6%8D%AE%E5%87%B8%E6%98%BE%E7%BB%8F%E6%B5%8E%E6%BE%8E%E6%B9%83%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [周杰伦福州演唱会被嘲“吃相难看”](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%A6%8F%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%98%B2%E2%80%9C%E5%90%83%E7%9B%B8%E9%9A%BE%E7%9C%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一车橘子被检测站卸8筐仅找回4筐半](https://www.baidu.com/s?wd=%E4%B8%80%E8%BD%A6%E6%A9%98%E5%AD%90%E8%A2%AB%E6%A3%80%E6%B5%8B%E7%AB%99%E5%8D%B88%E7%AD%90%E4%BB%85%E6%89%BE%E5%9B%9E4%E7%AD%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [旅俄大熊猫“如意”大雪中吃竹子](https://www.baidu.com/s?wd=%E6%97%85%E4%BF%84%E5%A4%A7%E7%86%8A%E7%8C%AB%E2%80%9C%E5%A6%82%E6%84%8F%E2%80%9D%E5%A4%A7%E9%9B%AA%E4%B8%AD%E5%90%83%E7%AB%B9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [上海文旅局组织专家评审五月天事件](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E6%96%87%E6%97%85%E5%B1%80%E7%BB%84%E7%BB%87%E4%B8%93%E5%AE%B6%E8%AF%84%E5%AE%A1%E4%BA%94%E6%9C%88%E5%A4%A9%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子恶意剪辑抹黑雪乡旅游视频被拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%81%B6%E6%84%8F%E5%89%AA%E8%BE%91%E6%8A%B9%E9%BB%91%E9%9B%AA%E4%B9%A1%E6%97%85%E6%B8%B8%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西警方辟谣九江发生杀人案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B9%9D%E6%B1%9F%E5%8F%91%E7%94%9F%E6%9D%80%E4%BA%BA%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
