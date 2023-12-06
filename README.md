@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 14:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 14:37:01</h4></div>
 
 > 微博  
 
-1. [婆婆太粘老公老婆受不了提出离婚](https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%86%E5%A4%AA%E7%B2%98%E8%80%81%E5%85%AC%E8%80%81%E5%A9%86%E5%8F%97%E4%B8%8D%E4%BA%86%E6%8F%90%E5%87%BA%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=1&Refer=top)<br />
-2. [半个娱乐圈都在浙江这座小镇](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%E9%83%BD%E5%9C%A8%E6%B5%99%E6%B1%9F%E8%BF%99%E5%BA%A7%E5%B0%8F%E9%95%87%23&t=31&band_rank=2&Refer=top)<br />
+1. [半个娱乐圈都在浙江这座小镇](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%E9%83%BD%E5%9C%A8%E6%B5%99%E6%B1%9F%E8%BF%99%E5%BA%A7%E5%B0%8F%E9%95%87%23&t=31&band_rank=1&Refer=top)<br />
+2. [婆婆太粘老公老婆受不了提出离婚](https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%86%E5%A4%AA%E7%B2%98%E8%80%81%E5%85%AC%E8%80%81%E5%A9%86%E5%8F%97%E4%B8%8D%E4%BA%86%E6%8F%90%E5%87%BA%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=2&Refer=top)<br />
 3. [一文了解6G进展](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%96%87%E4%BA%86%E8%A7%A36G%E8%BF%9B%E5%B1%95%23&t=31&band_rank=3&Refer=top)<br />
 4. [玲花曾评价五月天唱功](https://s.weibo.com/weibo?q=%23%E7%8E%B2%E8%8A%B1%E6%9B%BE%E8%AF%84%E4%BB%B7%E4%BA%94%E6%9C%88%E5%A4%A9%E5%94%B1%E5%8A%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [GQ 你好癫啊](https://s.weibo.com/weibo?q=GQ%20%E4%BD%A0%E5%A5%BD%E7%99%AB%E5%95%8A&t=31&band_rank=5&Refer=top)<br />
