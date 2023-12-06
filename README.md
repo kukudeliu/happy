@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 17:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 17:51:02</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [Twitch宣布退出韩国](https://s.weibo.com/weibo?q=%23Twitch%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E9%9F%A9%E5%9B%BD%23&t=31&band_rank=2&Refer=top)<br />
 3. [老人防治呼吸道疾病5个知识点](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E9%98%B2%E6%B2%BB%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%855%E4%B8%AA%E7%9F%A5%E8%AF%86%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [上海文旅局组织专家评审判定五月天事件](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%87%E6%97%85%E5%B1%80%E7%BB%84%E7%BB%87%E4%B8%93%E5%AE%B6%E8%AF%84%E5%AE%A1%E5%88%A4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=4&Refer=top)<br />
-5. [韩国男子性侵亲妹妹被判刑12年不服上诉](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E4%BA%B2%E5%A6%B9%E5%A6%B9%E8%A2%AB%E5%88%A4%E5%88%9112%E5%B9%B4%E4%B8%8D%E6%9C%8D%E4%B8%8A%E8%AF%89%23&t=31&band_rank=5&Refer=top)<br />
-6. [Jessi 解约](https://s.weibo.com/weibo?q=Jessi%20%E8%A7%A3%E7%BA%A6&t=31&band_rank=6&Refer=top)<br />
+5. [Jessi 解约](https://s.weibo.com/weibo?q=Jessi%20%E8%A7%A3%E7%BA%A6&t=31&band_rank=5&Refer=top)<br />
+6. [韩国男子性侵亲妹妹被判刑12年不服上诉](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E4%BA%B2%E5%A6%B9%E5%A6%B9%E8%A2%AB%E5%88%A4%E5%88%9112%E5%B9%B4%E4%B8%8D%E6%9C%8D%E4%B8%8A%E8%AF%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [新郎婚礼中晕倒全市急救专家都来了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E5%A9%9A%E7%A4%BC%E4%B8%AD%E6%99%95%E5%80%92%E5%85%A8%E5%B8%82%E6%80%A5%E6%95%91%E4%B8%93%E5%AE%B6%E9%83%BD%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [王者荣耀 露娜](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%20%E9%9C%B2%E5%A8%9C&t=31&band_rank=8&Refer=top)<br />
 9. [明星GQ盛典机场路透](https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9FGQ%E7%9B%9B%E5%85%B8%E6%9C%BA%E5%9C%BA%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
