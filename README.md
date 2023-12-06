@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 16:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 16:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [何猷君拍结婚照 垫五个枕头](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E6%8B%8D%E7%BB%93%E5%A9%9A%E7%85%A7%20%E5%9E%AB%E4%BA%94%E4%B8%AA%E6%9E%95%E5%A4%B4&t=31&band_rank=6&Refer=top)<br />
 7. [婆婆太粘老公老婆受不了提出离婚](https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%86%E5%A4%AA%E7%B2%98%E8%80%81%E5%85%AC%E8%80%81%E5%A9%86%E5%8F%97%E4%B8%8D%E4%BA%86%E6%8F%90%E5%87%BA%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [床上八段锦](https://s.weibo.com/weibo?q=%E5%BA%8A%E4%B8%8A%E5%85%AB%E6%AE%B5%E9%94%A6&t=31&band_rank=8&Refer=top)<br />
-9. [何猷君加到了马龙的微信](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E5%8A%A0%E5%88%B0%E4%BA%86%E9%A9%AC%E9%BE%99%E7%9A%84%E5%BE%AE%E4%BF%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [丁太升 不开麦半开麦都是假唱](https://s.weibo.com/weibo?q=%E4%B8%81%E5%A4%AA%E5%8D%87%20%E4%B8%8D%E5%BC%80%E9%BA%A6%E5%8D%8A%E5%BC%80%E9%BA%A6%E9%83%BD%E6%98%AF%E5%81%87%E5%94%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
