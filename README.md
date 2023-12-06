@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 14:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 14:55:01</h4></div>
 
 > 微博  
 
 1. [GQ 你好癫啊](https://s.weibo.com/weibo?q=GQ%20%E4%BD%A0%E5%A5%BD%E7%99%AB%E5%95%8A&t=31&band_rank=1&Refer=top)<br />
-2. [婆婆太粘老公老婆受不了提出离婚](https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%86%E5%A4%AA%E7%B2%98%E8%80%81%E5%85%AC%E8%80%81%E5%A9%86%E5%8F%97%E4%B8%8D%E4%BA%86%E6%8F%90%E5%87%BA%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=2&Refer=top)<br />
+2. [韩国男子性侵亲妹妹被判刑12年不服上诉](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E4%BA%B2%E5%A6%B9%E5%A6%B9%E8%A2%AB%E5%88%A4%E5%88%9112%E5%B9%B4%E4%B8%8D%E6%9C%8D%E4%B8%8A%E8%AF%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [一文了解6G进展](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%96%87%E4%BA%86%E8%A7%A36G%E8%BF%9B%E5%B1%95%23&t=31&band_rank=3&Refer=top)<br />
-4. [韩国男子性侵亲妹妹被判刑12年不服上诉](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E4%BA%B2%E5%A6%B9%E5%A6%B9%E8%A2%AB%E5%88%A4%E5%88%9112%E5%B9%B4%E4%B8%8D%E6%9C%8D%E4%B8%8A%E8%AF%89%23&t=31&band_rank=4&Refer=top)<br />
+4. [婆婆太粘老公老婆受不了提出离婚](https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%86%E5%A4%AA%E7%B2%98%E8%80%81%E5%85%AC%E8%80%81%E5%A9%86%E5%8F%97%E4%B8%8D%E4%BA%86%E6%8F%90%E5%87%BA%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=4&Refer=top)<br />
 5. [玲花曾评价五月天唱功](https://s.weibo.com/weibo?q=%23%E7%8E%B2%E8%8A%B1%E6%9B%BE%E8%AF%84%E4%BB%B7%E4%BA%94%E6%9C%88%E5%A4%A9%E5%94%B1%E5%8A%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [GQ红毯 i人队e人队](https://s.weibo.com/weibo?q=GQ%E7%BA%A2%E6%AF%AF%20i%E4%BA%BA%E9%98%9Fe%E4%BA%BA%E9%98%9F&t=31&band_rank=6&Refer=top)<br />
 7. [刘亦菲 泰国](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E6%B3%B0%E5%9B%BD&t=31&band_rank=7&Refer=top)<br />
