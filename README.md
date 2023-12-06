@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 15:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 15:49:01</h4></div>
 
 > 微博  
 
 1. [韩国男子性侵亲妹妹被判刑12年不服上诉](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E4%BA%B2%E5%A6%B9%E5%A6%B9%E8%A2%AB%E5%88%A4%E5%88%9112%E5%B9%B4%E4%B8%8D%E6%9C%8D%E4%B8%8A%E8%AF%89%23&t=31&band_rank=1&Refer=top)<br />
-2. [GQ 你好癫啊](https://s.weibo.com/weibo?q=GQ%20%E4%BD%A0%E5%A5%BD%E7%99%AB%E5%95%8A&t=31&band_rank=2&Refer=top)<br />
+2. [上海文旅局组织专家评审判定五月天事件](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%87%E6%97%85%E5%B1%80%E7%BB%84%E7%BB%87%E4%B8%93%E5%AE%B6%E8%AF%84%E5%AE%A1%E5%88%A4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [一文了解6G进展](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%96%87%E4%BA%86%E8%A7%A36G%E8%BF%9B%E5%B1%95%23&t=31&band_rank=3&Refer=top)<br />
-4. [上海文旅局组织专家评审判定五月天事件](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%87%E6%97%85%E5%B1%80%E7%BB%84%E7%BB%87%E4%B8%93%E5%AE%B6%E8%AF%84%E5%AE%A1%E5%88%A4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=4&Refer=top)<br />
+4. [GQ 你好癫啊](https://s.weibo.com/weibo?q=GQ%20%E4%BD%A0%E5%A5%BD%E7%99%AB%E5%95%8A&t=31&band_rank=4&Refer=top)<br />
 5. [婆婆太粘老公老婆受不了提出离婚](https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%86%E5%A4%AA%E7%B2%98%E8%80%81%E5%85%AC%E8%80%81%E5%A9%86%E5%8F%97%E4%B8%8D%E4%BA%86%E6%8F%90%E5%87%BA%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [床上八段锦](https://s.weibo.com/weibo?q=%E5%BA%8A%E4%B8%8A%E5%85%AB%E6%AE%B5%E9%94%A6&t=31&band_rank=6&Refer=top)<br />
 7. [何猷君加到了马龙的微信](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E5%8A%A0%E5%88%B0%E4%BA%86%E9%A9%AC%E9%BE%99%E7%9A%84%E5%BE%AE%E4%BF%A1%23&t=31&band_rank=7&Refer=top)<br />
