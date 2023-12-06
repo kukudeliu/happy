@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 14:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 14:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [GQ红毯 i人队e人队](https://s.weibo.com/weibo?q=GQ%E7%BA%A2%E6%AF%AF%20i%E4%BA%BA%E9%98%9Fe%E4%BA%BA%E9%98%9F&t=31&band_rank=6&Refer=top)<br />
 7. [刘亦菲 泰国](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E6%B3%B0%E5%9B%BD&t=31&band_rank=7&Refer=top)<br />
 8. [阿信 做好自己](https://s.weibo.com/weibo?q=%E9%98%BF%E4%BF%A1%20%E5%81%9A%E5%A5%BD%E8%87%AA%E5%B7%B1&t=31&band_rank=8&Refer=top)<br />
-9. [王健林拟转让万达投资51%股权](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%81%A5%E6%9E%97%E6%8B%9F%E8%BD%AC%E8%AE%A9%E4%B8%87%E8%BE%BE%E6%8A%95%E8%B5%8451%25%E8%82%A1%E6%9D%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [朱丹早上去谈判下午就开战](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%B9%E6%97%A9%E4%B8%8A%E5%8E%BB%E8%B0%88%E5%88%A4%E4%B8%8B%E5%8D%88%E5%B0%B1%E5%BC%80%E6%88%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
