@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 16:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 16:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [南京胖哥父亲去世](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [Twitch宣布退出韩国](https://s.weibo.com/weibo?q=%23Twitch%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E9%9F%A9%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫GQ路透](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%ABGQ%E8%B7%AF%E9%80%8F&t=31&band_rank=7&Refer=top)<br />
-8. [丁太升 不开麦半开麦都是假唱](https://s.weibo.com/weibo?q=%E4%B8%81%E5%A4%AA%E5%8D%87%20%E4%B8%8D%E5%BC%80%E9%BA%A6%E5%8D%8A%E5%BC%80%E9%BA%A6%E9%83%BD%E6%98%AF%E5%81%87%E5%94%B1&t=31&band_rank=8&Refer=top)<br />
-9. [新郎婚礼中晕倒全市急救专家都来了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E5%A9%9A%E7%A4%BC%E4%B8%AD%E6%99%95%E5%80%92%E5%85%A8%E5%B8%82%E6%80%A5%E6%95%91%E4%B8%93%E5%AE%B6%E9%83%BD%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [新郎婚礼中晕倒全市急救专家都来了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E5%A9%9A%E7%A4%BC%E4%B8%AD%E6%99%95%E5%80%92%E5%85%A8%E5%B8%82%E6%80%A5%E6%95%91%E4%B8%93%E5%AE%B6%E9%83%BD%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [丁太升 不开麦半开麦都是假唱](https://s.weibo.com/weibo?q=%E4%B8%81%E5%A4%AA%E5%8D%87%20%E4%B8%8D%E5%BC%80%E9%BA%A6%E5%8D%8A%E5%BC%80%E9%BA%A6%E9%83%BD%E6%98%AF%E5%81%87%E5%94%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
