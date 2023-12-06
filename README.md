@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 22:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 22:09:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [周杰伦福州演唱会被嘲“吃相难看”](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%A6%8F%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%98%B2%E2%80%9C%E5%90%83%E7%9B%B8%E9%9A%BE%E7%9C%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子当街骑坐老人大喊让其下跪](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E9%AA%91%E5%9D%90%E8%80%81%E4%BA%BA%E5%A4%A7%E5%96%8A%E8%AE%A9%E5%85%B6%E4%B8%8B%E8%B7%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [演员邵逸凡称自己多次被迫假唱](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E9%82%B5%E9%80%B8%E5%87%A1%E7%A7%B0%E8%87%AA%E5%B7%B1%E5%A4%9A%E6%AC%A1%E8%A2%AB%E8%BF%AB%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [江苏一大学拟用执法记录仪查寝](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%A4%A7%E5%AD%A6%E6%8B%9F%E7%94%A8%E6%89%A7%E6%B3%95%E8%AE%B0%E5%BD%95%E4%BB%AA%E6%9F%A5%E5%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [13批次洗衣液抽检不合格](https://www.baidu.com/s?wd=13%E6%89%B9%E6%AC%A1%E6%B4%97%E8%A1%A3%E6%B6%B2%E6%8A%BD%E6%A3%80%E4%B8%8D%E5%90%88%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西警方辟谣九江发生杀人案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B9%9D%E6%B1%9F%E5%8F%91%E7%94%9F%E6%9D%80%E4%BA%BA%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [周杰伦福州演唱会被嘲“吃相难看”](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%A6%8F%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%98%B2%E2%80%9C%E5%90%83%E7%9B%B8%E9%9A%BE%E7%9C%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子当街骑坐老人大喊让其下跪](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E9%AA%91%E5%9D%90%E8%80%81%E4%BA%BA%E5%A4%A7%E5%96%8A%E8%AE%A9%E5%85%B6%E4%B8%8B%E8%B7%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [演员邵逸凡称自己多次被迫假唱](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E9%82%B5%E9%80%B8%E5%87%A1%E7%A7%B0%E8%87%AA%E5%B7%B1%E5%A4%9A%E6%AC%A1%E8%A2%AB%E8%BF%AB%E5%81%87%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [江苏一大学拟用执法记录仪查寝](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%A4%A7%E5%AD%A6%E6%8B%9F%E7%94%A8%E6%89%A7%E6%B3%95%E8%AE%B0%E5%BD%95%E4%BB%AA%E6%9F%A5%E5%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [13批次洗衣液抽检不合格](https://www.baidu.com/s?wd=13%E6%89%B9%E6%AC%A1%E6%B4%97%E8%A1%A3%E6%B6%B2%E6%8A%BD%E6%A3%80%E4%B8%8D%E5%90%88%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西警方辟谣九江发生杀人案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B9%9D%E6%B1%9F%E5%8F%91%E7%94%9F%E6%9D%80%E4%BA%BA%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
