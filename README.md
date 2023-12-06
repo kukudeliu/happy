@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 20:32:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 20:33:01</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [努力创造令世界刮目相看的新奇迹](https://www.baidu.com/s?wd=%E5%8A%AA%E5%8A%9B%E5%88%9B%E9%80%A0%E4%BB%A4%E4%B8%96%E7%95%8C%E5%88%AE%E7%9B%AE%E7%9B%B8%E7%9C%8B%E7%9A%84%E6%96%B0%E5%A5%87%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [阿里献血事件调查：小姑姑身份曝光](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E7%8C%AE%E8%A1%80%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%EF%BC%9A%E5%B0%8F%E5%A7%91%E5%A7%91%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [五月天演唱会争议较大的几个现场](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%89%E8%AE%AE%E8%BE%83%E5%A4%A7%E7%9A%84%E5%87%A0%E4%B8%AA%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [宁波一小学家长会只允许爸爸参加](https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E4%B8%80%E5%B0%8F%E5%AD%A6%E5%AE%B6%E9%95%BF%E4%BC%9A%E5%8F%AA%E5%85%81%E8%AE%B8%E7%88%B8%E7%88%B8%E5%8F%82%E5%8A%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多维度数据凸显经济澎湃活力](https://www.baidu.com/s?wd=%E5%A4%9A%E7%BB%B4%E5%BA%A6%E6%95%B0%E6%8D%AE%E5%87%B8%E6%98%BE%E7%BB%8F%E6%B5%8E%E6%BE%8E%E6%B9%83%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [新疆哈密上空现神秘光束](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%93%88%E5%AF%86%E4%B8%8A%E7%A9%BA%E7%8E%B0%E7%A5%9E%E7%A7%98%E5%85%89%E6%9D%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一车橘子被检测站卸8筐仅找回4筐半](https://www.baidu.com/s?wd=%E4%B8%80%E8%BD%A6%E6%A9%98%E5%AD%90%E8%A2%AB%E6%A3%80%E6%B5%8B%E7%AB%99%E5%8D%B88%E7%AD%90%E4%BB%85%E6%89%BE%E5%9B%9E4%E7%AD%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体：王健林还是割掉了心头肉](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%8E%8B%E5%81%A5%E6%9E%97%E8%BF%98%E6%98%AF%E5%89%B2%E6%8E%89%E4%BA%86%E5%BF%83%E5%A4%B4%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《一闪一闪亮星星》预售票房破纪录](https://www.baidu.com/s?wd=%E3%80%8A%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F%E3%80%8B%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [普京回忆三四岁时被妈妈罚站](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BF%86%E4%B8%89%E5%9B%9B%E5%B2%81%E6%97%B6%E8%A2%AB%E5%A6%88%E5%A6%88%E7%BD%9A%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西警方辟谣九江发生杀人案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B9%9D%E6%B1%9F%E5%8F%91%E7%94%9F%E6%9D%80%E4%BA%BA%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [努力创造令世界刮目相看的新奇迹](https://www.baidu.com/s?wd=%E5%8A%AA%E5%8A%9B%E5%88%9B%E9%80%A0%E4%BB%A4%E4%B8%96%E7%95%8C%E5%88%AE%E7%9B%AE%E7%9B%B8%E7%9C%8B%E7%9A%84%E6%96%B0%E5%A5%87%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [阿里献血事件调查：小姑姑身份曝光](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E7%8C%AE%E8%A1%80%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%EF%BC%9A%E5%B0%8F%E5%A7%91%E5%A7%91%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [五月天演唱会争议较大的几个现场](https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%89%E8%AE%AE%E8%BE%83%E5%A4%A7%E7%9A%84%E5%87%A0%E4%B8%AA%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [宁波一小学家长会只允许爸爸参加](https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E4%B8%80%E5%B0%8F%E5%AD%A6%E5%AE%B6%E9%95%BF%E4%BC%9A%E5%8F%AA%E5%85%81%E8%AE%B8%E7%88%B8%E7%88%B8%E5%8F%82%E5%8A%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多维度数据凸显经济澎湃活力](https://www.baidu.com/s?wd=%E5%A4%9A%E7%BB%B4%E5%BA%A6%E6%95%B0%E6%8D%AE%E5%87%B8%E6%98%BE%E7%BB%8F%E6%B5%8E%E6%BE%8E%E6%B9%83%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [新疆哈密上空现神秘光束](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%93%88%E5%AF%86%E4%B8%8A%E7%A9%BA%E7%8E%B0%E7%A5%9E%E7%A7%98%E5%85%89%E6%9D%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一车橘子被检测站卸8筐仅找回4筐半](https://www.baidu.com/s?wd=%E4%B8%80%E8%BD%A6%E6%A9%98%E5%AD%90%E8%A2%AB%E6%A3%80%E6%B5%8B%E7%AB%99%E5%8D%B88%E7%AD%90%E4%BB%85%E6%89%BE%E5%9B%9E4%E7%AD%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [媒体：王健林还是割掉了心头肉](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E7%8E%8B%E5%81%A5%E6%9E%97%E8%BF%98%E6%98%AF%E5%89%B2%E6%8E%89%E4%BA%86%E5%BF%83%E5%A4%B4%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [《一闪一闪亮星星》预售票房破纪录](https://www.baidu.com/s?wd=%E3%80%8A%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F%E3%80%8B%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [普京回忆三四岁时被妈妈罚站](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BF%86%E4%B8%89%E5%9B%9B%E5%B2%81%E6%97%B6%E8%A2%AB%E5%A6%88%E5%A6%88%E7%BD%9A%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西警方辟谣九江发生杀人案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B9%9D%E6%B1%9F%E5%8F%91%E7%94%9F%E6%9D%80%E4%BA%BA%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
