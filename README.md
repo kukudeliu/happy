@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 22:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 22:04:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [田馥甄回应五月天假唱风波](https://s.weibo.com/weibo?q=%23%E7%94%B0%E9%A6%A5%E7%94%84%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E5%81%87%E5%94%B1%E9%A3%8E%E6%B3%A2%23&t=31&band_rank=4&Refer=top)<br />
 5. [身份证上的X读什么](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%B8%8A%E7%9A%84X%E8%AF%BB%E4%BB%80%E4%B9%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [布兰妮父亲 截肢](https://s.weibo.com/weibo?q=%E5%B8%83%E5%85%B0%E5%A6%AE%E7%88%B6%E4%BA%B2%20%E6%88%AA%E8%82%A2&t=31&band_rank=6&Refer=top)<br />
-7. [难哄 瞎哄](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E7%9E%8E%E5%93%84&t=31&band_rank=7&Refer=top)<br />
+7. [五月天](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=7&Refer=top)<br />
 8. [生病的孩子不能吃的东西](https://s.weibo.com/weibo?q=%E7%94%9F%E7%97%85%E7%9A%84%E5%AD%A9%E5%AD%90%E4%B8%8D%E8%83%BD%E5%90%83%E7%9A%84%E4%B8%9C%E8%A5%BF&t=31&band_rank=8&Refer=top)<br />
 9. [17万二手车买家大方给了20万现金](https://s.weibo.com/weibo?q=%2317%E4%B8%87%E4%BA%8C%E6%89%8B%E8%BD%A6%E4%B9%B0%E5%AE%B6%E5%A4%A7%E6%96%B9%E7%BB%99%E4%BA%8620%E4%B8%87%E7%8E%B0%E9%87%91%23&t=31&band_rank=9&Refer=top)<br />
 
