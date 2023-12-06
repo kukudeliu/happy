@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 11:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 11:39:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [更多交流 更多包容 更多合作](https://www.baidu.com/s?wd=%E6%9B%B4%E5%A4%9A%E4%BA%A4%E6%B5%81+%E6%9B%B4%E5%A4%9A%E5%8C%85%E5%AE%B9+%E6%9B%B4%E5%A4%9A%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [29岁姑娘无症状确诊肺癌](https://www.baidu.com/s?wd=29%E5%B2%81%E5%A7%91%E5%A8%98%E6%97%A0%E7%97%87%E7%8A%B6%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女大学生被斗鱼索赔8000万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%96%97%E9%B1%BC%E7%B4%A2%E8%B5%948000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [奥司他韦涨价了？药店回应](https://www.baidu.com/s?wd=%E5%A5%A5%E5%8F%B8%E4%BB%96%E9%9F%A6%E6%B6%A8%E4%BB%B7%E4%BA%86%EF%BC%9F%E8%8D%AF%E5%BA%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子凌晨开车遇白鞋男子诡异鞠躬](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%8C%E6%99%A8%E5%BC%80%E8%BD%A6%E9%81%87%E7%99%BD%E9%9E%8B%E7%94%B7%E5%AD%90%E8%AF%A1%E5%BC%82%E9%9E%A0%E8%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子凌晨开车遇白鞋男子诡异鞠躬](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%8C%E6%99%A8%E5%BC%80%E8%BD%A6%E9%81%87%E7%99%BD%E9%9E%8B%E7%94%B7%E5%AD%90%E8%AF%A1%E5%BC%82%E9%9E%A0%E8%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [奥司他韦涨价了？药店回应](https://www.baidu.com/s?wd=%E5%A5%A5%E5%8F%B8%E4%BB%96%E9%9F%A6%E6%B6%A8%E4%BB%B7%E4%BA%86%EF%BC%9F%E8%8D%AF%E5%BA%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [镇政府辟谣禁止村民烧柴做饭](https://www.baidu.com/s?wd=%E9%95%87%E6%94%BF%E5%BA%9C%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E6%9D%91%E6%B0%91%E7%83%A7%E6%9F%B4%E5%81%9A%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [更多交流 更多包容 更多合作](https://www.baidu.com/s?wd=%E6%9B%B4%E5%A4%9A%E4%BA%A4%E6%B5%81+%E6%9B%B4%E5%A4%9A%E5%8C%85%E5%AE%B9+%E6%9B%B4%E5%A4%9A%E5%90%88%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [29岁姑娘无症状确诊肺癌](https://www.baidu.com/s?wd=29%E5%B2%81%E5%A7%91%E5%A8%98%E6%97%A0%E7%97%87%E7%8A%B6%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女大学生被斗鱼索赔8000万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%96%97%E9%B1%BC%E7%B4%A2%E8%B5%948000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [奥司他韦涨价了？药店回应](https://www.baidu.com/s?wd=%E5%A5%A5%E5%8F%B8%E4%BB%96%E9%9F%A6%E6%B6%A8%E4%BB%B7%E4%BA%86%EF%BC%9F%E8%8D%AF%E5%BA%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子凌晨开车遇白鞋男子诡异鞠躬](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%8C%E6%99%A8%E5%BC%80%E8%BD%A6%E9%81%87%E7%99%BD%E9%9E%8B%E7%94%B7%E5%AD%90%E8%AF%A1%E5%BC%82%E9%9E%A0%E8%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子凌晨开车遇白鞋男子诡异鞠躬](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%8C%E6%99%A8%E5%BC%80%E8%BD%A6%E9%81%87%E7%99%BD%E9%9E%8B%E7%94%B7%E5%AD%90%E8%AF%A1%E5%BC%82%E9%9E%A0%E8%BA%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [奥司他韦涨价了？药店回应](https://www.baidu.com/s?wd=%E5%A5%A5%E5%8F%B8%E4%BB%96%E9%9F%A6%E6%B6%A8%E4%BB%B7%E4%BA%86%EF%BC%9F%E8%8D%AF%E5%BA%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [镇政府辟谣禁止村民烧柴做饭](https://www.baidu.com/s?wd=%E9%95%87%E6%94%BF%E5%BA%9C%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E6%9D%91%E6%B0%91%E7%83%A7%E6%9F%B4%E5%81%9A%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
