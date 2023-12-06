@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 20:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 20:47:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [张凌赫 南师大](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E5%8D%97%E5%B8%88%E5%A4%A7&t=31&band_rank=4&Refer=top)<br />
 5. [演员邵逸凡 多次被迫假唱](https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E9%82%B5%E9%80%B8%E5%87%A1%20%E5%A4%9A%E6%AC%A1%E8%A2%AB%E8%BF%AB%E5%81%87%E5%94%B1&t=31&band_rank=5&Refer=top)<br />
 6. [周杰伦演唱会预售被嘲吃相难看](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%A2%84%E5%94%AE%E8%A2%AB%E5%98%B2%E5%90%83%E7%9B%B8%E9%9A%BE%E7%9C%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [呼和浩特地震](https://s.weibo.com/weibo?q=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%9C%B0%E9%9C%87&t=31&band_rank=7&Refer=top)<br />
-8. [难哄 瞎哄](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E7%9E%8E%E5%93%84&t=31&band_rank=8&Refer=top)<br />
+7. [难哄 瞎哄](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E7%9E%8E%E5%93%84&t=31&band_rank=7&Refer=top)<br />
+8. [呼和浩特地震](https://s.weibo.com/weibo?q=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top)<br />
 9. [五月天事件黄牛票很难维权](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E4%BA%8B%E4%BB%B6%E9%BB%84%E7%89%9B%E7%A5%A8%E5%BE%88%E9%9A%BE%E7%BB%B4%E6%9D%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
