@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 17:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 17:47:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [韩国男子性侵亲妹妹被判刑12年不服上诉](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E4%BA%B2%E5%A6%B9%E5%A6%B9%E8%A2%AB%E5%88%A4%E5%88%9112%E5%B9%B4%E4%B8%8D%E6%9C%8D%E4%B8%8A%E8%AF%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [新郎婚礼中晕倒全市急救专家都来了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E5%A9%9A%E7%A4%BC%E4%B8%AD%E6%99%95%E5%80%92%E5%85%A8%E5%B8%82%E6%80%A5%E6%95%91%E4%B8%93%E5%AE%B6%E9%83%BD%E6%9D%A5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [Jessi 解约](https://s.weibo.com/weibo?q=Jessi%20%E8%A7%A3%E7%BA%A6&t=31&band_rank=7&Refer=top)<br />
-8. [杨紫GQ路透](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%ABGQ%E8%B7%AF%E9%80%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [明星GQ盛典机场路透](https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9FGQ%E7%9B%9B%E5%85%B8%E6%9C%BA%E5%9C%BA%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
+8. [明星GQ盛典机场路透](https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9FGQ%E7%9B%9B%E5%85%B8%E6%9C%BA%E5%9C%BA%E8%B7%AF%E9%80%8F%23&t=31&band_rank=8&Refer=top)<br />
+9. [杨紫GQ路透](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%ABGQ%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
