@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 19:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 19:13:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [多维度数据凸显经济澎湃活力](https://www.baidu.com/s?wd=%E5%A4%9A%E7%BB%B4%E5%BA%A6%E6%95%B0%E6%8D%AE%E5%87%B8%E6%98%BE%E7%BB%8F%E6%B5%8E%E6%BE%8E%E6%B9%83%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [一车橘子被检测站卸8筐仅找回4筐半](https://www.baidu.com/s?wd=%E4%B8%80%E8%BD%A6%E6%A9%98%E5%AD%90%E8%A2%AB%E6%A3%80%E6%B5%8B%E7%AB%99%E5%8D%B88%E7%AD%90%E4%BB%85%E6%89%BE%E5%9B%9E4%E7%AD%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [若特朗普不参选 拜登或不寻求连任](https://www.baidu.com/s?wd=%E8%8B%A5%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E5%8F%82%E9%80%89+%E6%8B%9C%E7%99%BB%E6%88%96%E4%B8%8D%E5%AF%BB%E6%B1%82%E8%BF%9E%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [驻日美军坠毁运输机上8人全部死亡](https://www.baidu.com/s?wd=%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E5%9D%A0%E6%AF%81%E8%BF%90%E8%BE%93%E6%9C%BA%E4%B8%8A8%E4%BA%BA%E5%85%A8%E9%83%A8%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [《新闻女王》为什么这么火](https://www.baidu.com/s?wd=%E3%80%8A%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E3%80%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [宁波女子银行账户突然多1000万元](https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E5%A5%B3%E5%AD%90%E9%93%B6%E8%A1%8C%E8%B4%A6%E6%88%B7%E7%AA%81%E7%84%B6%E5%A4%9A1000%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西警方辟谣九江发生杀人案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B9%9D%E6%B1%9F%E5%8F%91%E7%94%9F%E6%9D%80%E4%BA%BA%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [多维度数据凸显经济澎湃活力](https://www.baidu.com/s?wd=%E5%A4%9A%E7%BB%B4%E5%BA%A6%E6%95%B0%E6%8D%AE%E5%87%B8%E6%98%BE%E7%BB%8F%E6%B5%8E%E6%BE%8E%E6%B9%83%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [一车橘子被检测站卸8筐仅找回4筐半](https://www.baidu.com/s?wd=%E4%B8%80%E8%BD%A6%E6%A9%98%E5%AD%90%E8%A2%AB%E6%A3%80%E6%B5%8B%E7%AB%99%E5%8D%B88%E7%AD%90%E4%BB%85%E6%89%BE%E5%9B%9E4%E7%AD%90%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [若特朗普不参选 拜登或不寻求连任](https://www.baidu.com/s?wd=%E8%8B%A5%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E5%8F%82%E9%80%89+%E6%8B%9C%E7%99%BB%E6%88%96%E4%B8%8D%E5%AF%BB%E6%B1%82%E8%BF%9E%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [驻日美军坠毁运输机上8人全部死亡](https://www.baidu.com/s?wd=%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E5%9D%A0%E6%AF%81%E8%BF%90%E8%BE%93%E6%9C%BA%E4%B8%8A8%E4%BA%BA%E5%85%A8%E9%83%A8%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [《新闻女王》为什么这么火](https://www.baidu.com/s?wd=%E3%80%8A%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E3%80%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [宁波女子银行账户突然多1000万元](https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E5%A5%B3%E5%AD%90%E9%93%B6%E8%A1%8C%E8%B4%A6%E6%88%B7%E7%AA%81%E7%84%B6%E5%A4%9A1000%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西警方辟谣九江发生杀人案](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B9%9D%E6%B1%9F%E5%8F%91%E7%94%9F%E6%9D%80%E4%BA%BA%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
