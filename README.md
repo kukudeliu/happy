@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 14:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 14:41:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王健林拟转让万达投资51%股权](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%81%A5%E6%9E%97%E6%8B%9F%E8%BD%AC%E8%AE%A9%E4%B8%87%E8%BE%BE%E6%8A%95%E8%B5%8451%25%E8%82%A1%E6%9D%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [阿信 做好自己](https://s.weibo.com/weibo?q=%E9%98%BF%E4%BF%A1%20%E5%81%9A%E5%A5%BD%E8%87%AA%E5%B7%B1&t=31&band_rank=7&Refer=top)<br />
 8. [鼻子对颜值的影响](https://s.weibo.com/weibo?q=%E9%BC%BB%E5%AD%90%E5%AF%B9%E9%A2%9C%E5%80%BC%E7%9A%84%E5%BD%B1%E5%93%8D&t=31&band_rank=8&Refer=top)<br />
-9. [半个娱乐圈都在浙江这座小镇](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%E9%83%BD%E5%9C%A8%E6%B5%99%E6%B1%9F%E8%BF%99%E5%BA%A7%E5%B0%8F%E9%95%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [被斗鱼索赔8000万的女大学生](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%96%97%E9%B1%BC%E7%B4%A2%E8%B5%948000%E4%B8%87%E7%9A%84%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
