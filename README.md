@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 10:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-06 10:54:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 3. [举报五月天博主称没有收钱说假话](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E4%BA%94%E6%9C%88%E5%A4%A9%E5%8D%9A%E4%B8%BB%E7%A7%B0%E6%B2%A1%E6%9C%89%E6%94%B6%E9%92%B1%E8%AF%B4%E5%81%87%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“小包裹”折射“大经济”](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E5%8C%85%E8%A3%B9%E2%80%9D%E6%8A%98%E5%B0%84%E2%80%9C%E5%A4%A7%E7%BB%8F%E6%B5%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [29岁姑娘无症状确诊肺癌](https://www.baidu.com/s?wd=29%E5%B2%81%E5%A7%91%E5%A8%98%E6%97%A0%E7%97%87%E7%8A%B6%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [是否承认阿富汗临时政府？中方回应](https://www.baidu.com/s?wd=%E6%98%AF%E5%90%A6%E6%89%BF%E8%AE%A4%E9%98%BF%E5%AF%8C%E6%B1%97%E4%B8%B4%E6%97%B6%E6%94%BF%E5%BA%9C%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [卫健局回应医院贩卖疫苗本处理结果](https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%B1%80%E5%9B%9E%E5%BA%94%E5%8C%BB%E9%99%A2%E8%B4%A9%E5%8D%96%E7%96%AB%E8%8B%97%E6%9C%AC%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日餐馆扇耳光有偿服务“供不应求”](https://www.baidu.com/s?wd=%E6%97%A5%E9%A4%90%E9%A6%86%E6%89%87%E8%80%B3%E5%85%89%E6%9C%89%E5%81%BF%E6%9C%8D%E5%8A%A1%E2%80%9C%E4%BE%9B%E4%B8%8D%E5%BA%94%E6%B1%82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上万只蒙古野生黄羊跨越中蒙边境](https://www.baidu.com/s?wd=%E4%B8%8A%E4%B8%87%E5%8F%AA%E8%92%99%E5%8F%A4%E9%87%8E%E7%94%9F%E9%BB%84%E7%BE%8A%E8%B7%A8%E8%B6%8A%E4%B8%AD%E8%92%99%E8%BE%B9%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [镇政府辟谣禁止村民烧柴做饭](https://www.baidu.com/s?wd=%E9%95%87%E6%94%BF%E5%BA%9C%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E6%9D%91%E6%B0%91%E7%83%A7%E6%9F%B4%E5%81%9A%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [举报五月天博主称没有收钱说假话](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E4%BA%94%E6%9C%88%E5%A4%A9%E5%8D%9A%E4%B8%BB%E7%A7%B0%E6%B2%A1%E6%9C%89%E6%94%B6%E9%92%B1%E8%AF%B4%E5%81%87%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“小包裹”折射“大经济”](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E5%8C%85%E8%A3%B9%E2%80%9D%E6%8A%98%E5%B0%84%E2%80%9C%E5%A4%A7%E7%BB%8F%E6%B5%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [29岁姑娘无症状确诊肺癌](https://www.baidu.com/s?wd=29%E5%B2%81%E5%A7%91%E5%A8%98%E6%97%A0%E7%97%87%E7%8A%B6%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [是否承认阿富汗临时政府？中方回应](https://www.baidu.com/s?wd=%E6%98%AF%E5%90%A6%E6%89%BF%E8%AE%A4%E9%98%BF%E5%AF%8C%E6%B1%97%E4%B8%B4%E6%97%B6%E6%94%BF%E5%BA%9C%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [卫健局回应医院贩卖疫苗本处理结果](https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%B1%80%E5%9B%9E%E5%BA%94%E5%8C%BB%E9%99%A2%E8%B4%A9%E5%8D%96%E7%96%AB%E8%8B%97%E6%9C%AC%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日餐馆扇耳光有偿服务“供不应求”](https://www.baidu.com/s?wd=%E6%97%A5%E9%A4%90%E9%A6%86%E6%89%87%E8%80%B3%E5%85%89%E6%9C%89%E5%81%BF%E6%9C%8D%E5%8A%A1%E2%80%9C%E4%BE%9B%E4%B8%8D%E5%BA%94%E6%B1%82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [上万只蒙古野生黄羊跨越中蒙边境](https://www.baidu.com/s?wd=%E4%B8%8A%E4%B8%87%E5%8F%AA%E8%92%99%E5%8F%A4%E9%87%8E%E7%94%9F%E9%BB%84%E7%BE%8A%E8%B7%A8%E8%B6%8A%E4%B8%AD%E8%92%99%E8%BE%B9%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [镇政府辟谣禁止村民烧柴做饭](https://www.baidu.com/s?wd=%E9%95%87%E6%94%BF%E5%BA%9C%E8%BE%9F%E8%B0%A3%E7%A6%81%E6%AD%A2%E6%9D%91%E6%B0%91%E7%83%A7%E6%9F%B4%E5%81%9A%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
