@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 10:19:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 10:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [老师我们家子涵怎么火了](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%88%91%E4%BB%AC%E5%AE%B6%E5%AD%90%E6%B6%B5%E6%80%8E%E4%B9%88%E7%81%AB%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [大雪](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%9B%AA%23&t=31&band_rank=7&Refer=top)<br />
 8. [难哄 不行就他们四个吧](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E4%B8%8D%E8%A1%8C%E5%B0%B1%E4%BB%96%E4%BB%AC%E5%9B%9B%E4%B8%AA%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
-9. [iPhone屏幕发明人从苹果退休](https://s.weibo.com/weibo?q=%23iPhone%E5%B1%8F%E5%B9%95%E5%8F%91%E6%98%8E%E4%BA%BA%E4%BB%8E%E8%8B%B9%E6%9E%9C%E9%80%80%E4%BC%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [房山季鸟猴](https://s.weibo.com/weibo?q=%23%E6%88%BF%E5%B1%B1%E5%AD%A3%E9%B8%9F%E7%8C%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
