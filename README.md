@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 10:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 10:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [何猷君从小吃鱼都是别人给挑刺](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E4%BB%8E%E5%B0%8F%E5%90%83%E9%B1%BC%E9%83%BD%E6%98%AF%E5%88%AB%E4%BA%BA%E7%BB%99%E6%8C%91%E5%88%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [老师我们家子涵怎么火了](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%88%91%E4%BB%AC%E5%AE%B6%E5%AD%90%E6%B6%B5%E6%80%8E%E4%B9%88%E7%81%AB%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [大雪](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%9B%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [难哄 不行就他们四个吧](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E4%B8%8D%E8%A1%8C%E5%B0%B1%E4%BB%96%E4%BB%AC%E5%9B%9B%E4%B8%AA%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
+9. [2.2亿大奖彩票店刚开不到三个月](https://s.weibo.com/weibo?q=%232.2%E4%BA%BF%E5%A4%A7%E5%A5%96%E5%BD%A9%E7%A5%A8%E5%BA%97%E5%88%9A%E5%BC%80%E4%B8%8D%E5%88%B0%E4%B8%89%E4%B8%AA%E6%9C%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
