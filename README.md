@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 21:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 21:43:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [肖战指导英文回击法国球员](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%8C%87%E5%AF%BC%E8%8B%B1%E6%96%87%E5%9B%9E%E5%87%BB%E6%B3%95%E5%9B%BD%E7%90%83%E5%91%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [王楚钦发球](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%91%E7%90%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [蔡文静胸妆](https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E8%83%B8%E5%A6%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [南京中医药大学回应老师课堂讲解不雅课件](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%AD%E5%8C%BB%E8%8D%AF%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E8%80%81%E5%B8%88%E8%AF%BE%E5%A0%82%E8%AE%B2%E8%A7%A3%E4%B8%8D%E9%9B%85%E8%AF%BE%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [王楚钦 投诉对我没任何影响](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%20%E6%8A%95%E8%AF%89%E5%AF%B9%E6%88%91%E6%B2%A1%E4%BB%BB%E4%BD%95%E5%BD%B1%E5%93%8D&t=31&band_rank=9&Refer=top)<br />
+8. [王楚钦 投诉对我没任何影响](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%20%E6%8A%95%E8%AF%89%E5%AF%B9%E6%88%91%E6%B2%A1%E4%BB%BB%E4%BD%95%E5%BD%B1%E5%93%8D&t=31&band_rank=8&Refer=top)<br />
+9. [南京中医药大学回应老师课堂讲解不雅课件](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%AD%E5%8C%BB%E8%8D%AF%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E8%80%81%E5%B8%88%E8%AF%BE%E5%A0%82%E8%AE%B2%E8%A7%A3%E4%B8%8D%E9%9B%85%E8%AF%BE%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
