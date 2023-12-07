@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 11:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 11:33:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [传承弘扬“四下基层”优良作风](https://www.baidu.com/s?wd=%E4%BC%A0%E6%89%BF%E5%BC%98%E6%89%AC%E2%80%9C%E5%9B%9B%E4%B8%8B%E5%9F%BA%E5%B1%82%E2%80%9D%E4%BC%98%E8%89%AF%E4%BD%9C%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [春晚回应吉祥物被质疑是AI合成](https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E5%9B%9E%E5%BA%94%E5%90%89%E7%A5%A5%E7%89%A9%E8%A2%AB%E8%B4%A8%E7%96%91%E6%98%AFAI%E5%90%88%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [“12306”APP改版 新增折扣信息](https://www.baidu.com/s?wd=%E2%80%9C12306%E2%80%9DAPP%E6%94%B9%E7%89%88+%E6%96%B0%E5%A2%9E%E6%8A%98%E6%89%A3%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [未成年偷卖家中31斤金条变现565万](https://www.baidu.com/s?wd=%E6%9C%AA%E6%88%90%E5%B9%B4%E5%81%B7%E5%8D%96%E5%AE%B6%E4%B8%AD31%E6%96%A4%E9%87%91%E6%9D%A1%E5%8F%98%E7%8E%B0565%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济仍是全球增长最大引擎](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%BB%8D%E6%98%AF%E5%85%A8%E7%90%83%E5%A2%9E%E9%95%BF%E6%9C%80%E5%A4%A7%E5%BC%95%E6%93%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [阿信称唱足10拍E6 知名音乐人辣评](https://www.baidu.com/s?wd=%E9%98%BF%E4%BF%A1%E7%A7%B0%E5%94%B1%E8%B6%B310%E6%8B%8DE6+%E7%9F%A5%E5%90%8D%E9%9F%B3%E4%B9%90%E4%BA%BA%E8%BE%A3%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [传承弘扬“四下基层”优良作风](https://www.baidu.com/s?wd=%E4%BC%A0%E6%89%BF%E5%BC%98%E6%89%AC%E2%80%9C%E5%9B%9B%E4%B8%8B%E5%9F%BA%E5%B1%82%E2%80%9D%E4%BC%98%E8%89%AF%E4%BD%9C%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [春晚回应吉祥物被质疑是AI合成](https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E5%9B%9E%E5%BA%94%E5%90%89%E7%A5%A5%E7%89%A9%E8%A2%AB%E8%B4%A8%E7%96%91%E6%98%AFAI%E5%90%88%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [“12306”APP改版 新增折扣信息](https://www.baidu.com/s?wd=%E2%80%9C12306%E2%80%9DAPP%E6%94%B9%E7%89%88+%E6%96%B0%E5%A2%9E%E6%8A%98%E6%89%A3%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [未成年偷卖家中31斤金条变现565万](https://www.baidu.com/s?wd=%E6%9C%AA%E6%88%90%E5%B9%B4%E5%81%B7%E5%8D%96%E5%AE%B6%E4%B8%AD31%E6%96%A4%E9%87%91%E6%9D%A1%E5%8F%98%E7%8E%B0565%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济仍是全球增长最大引擎](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%BB%8D%E6%98%AF%E5%85%A8%E7%90%83%E5%A2%9E%E9%95%BF%E6%9C%80%E5%A4%A7%E5%BC%95%E6%93%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [阿信称唱足10拍E6 知名音乐人辣评](https://www.baidu.com/s?wd=%E9%98%BF%E4%BF%A1%E7%A7%B0%E5%94%B1%E8%B6%B310%E6%8B%8DE6+%E7%9F%A5%E5%90%8D%E9%9F%B3%E4%B9%90%E4%BA%BA%E8%BE%A3%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
