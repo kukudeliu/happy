@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 10:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 10:23:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [呼吸道传染病个人健康手册](https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%90%B8%E9%81%93%E4%BC%A0%E6%9F%93%E7%97%85%E4%B8%AA%E4%BA%BA%E5%81%A5%E5%BA%B7%E6%89%8B%E5%86%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [若鉴定结果为真唱举报者要负责吗](https://s.weibo.com/weibo?q=%23%E8%8B%A5%E9%89%B4%E5%AE%9A%E7%BB%93%E6%9E%9C%E4%B8%BA%E7%9C%9F%E5%94%B1%E4%B8%BE%E6%8A%A5%E8%80%85%E8%A6%81%E8%B4%9F%E8%B4%A3%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [何猷君从小吃鱼都是别人给挑刺](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E4%BB%8E%E5%B0%8F%E5%90%83%E9%B1%BC%E9%83%BD%E6%98%AF%E5%88%AB%E4%BA%BA%E7%BB%99%E6%8C%91%E5%88%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [老师我们家子涵怎么火了](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%88%91%E4%BB%AC%E5%AE%B6%E5%AD%90%E6%B6%B5%E6%80%8E%E4%B9%88%E7%81%AB%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [大雪](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%9B%AA%23&t=31&band_rank=7&Refer=top)<br />
-8. [难哄 不行就他们四个吧](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E4%B8%8D%E8%A1%8C%E5%B0%B1%E4%BB%96%E4%BB%AC%E5%9B%9B%E4%B8%AA%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
-9. [房山季鸟猴](https://s.weibo.com/weibo?q=%23%E6%88%BF%E5%B1%B1%E5%AD%A3%E9%B8%9F%E7%8C%B4%23&t=31&band_rank=9&Refer=top)<br />
+6. [丁程鑫回应](https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E5%9B%9E%E5%BA%94&t=31&band_rank=6&Refer=top)<br />
+7. [老师我们家子涵怎么火了](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%88%91%E4%BB%AC%E5%AE%B6%E5%AD%90%E6%B6%B5%E6%80%8E%E4%B9%88%E7%81%AB%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [大雪](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%9B%AA%23&t=31&band_rank=8&Refer=top)<br />
+9. [难哄 不行就他们四个吧](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E4%B8%8D%E8%A1%8C%E5%B0%B1%E4%BB%96%E4%BB%AC%E5%9B%9B%E4%B8%AA%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
