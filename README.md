@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 21:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 21:41:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [4K视频感受冬日留白美学](https://s.weibo.com/weibo?q=%234K%E8%A7%86%E9%A2%91%E6%84%9F%E5%8F%97%E5%86%AC%E6%97%A5%E7%95%99%E7%99%BD%E7%BE%8E%E5%AD%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [GQ红毯](https://s.weibo.com/weibo?q=GQ%E7%BA%A2%E6%AF%AF&t=31&band_rank=4&Refer=top)<br />
 5. [肖战指导英文回击法国球员](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%8C%87%E5%AF%BC%E8%8B%B1%E6%96%87%E5%9B%9E%E5%87%BB%E6%B3%95%E5%9B%BD%E7%90%83%E5%91%98%23&t=31&band_rank=5&Refer=top)<br />
-6. [南京中医药大学回应老师课堂讲解不雅课件](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%AD%E5%8C%BB%E8%8D%AF%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E8%80%81%E5%B8%88%E8%AF%BE%E5%A0%82%E8%AE%B2%E8%A7%A3%E4%B8%8D%E9%9B%85%E8%AF%BE%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
+6. [王楚钦发球](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%91%E7%90%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [蔡文静胸妆](https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E8%83%B8%E5%A6%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [王楚钦发球](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%91%E7%90%83%23&t=31&band_rank=8&Refer=top)<br />
+8. [南京中医药大学回应老师课堂讲解不雅课件](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%AD%E5%8C%BB%E8%8D%AF%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E8%80%81%E5%B8%88%E8%AF%BE%E5%A0%82%E8%AE%B2%E8%A7%A3%E4%B8%8D%E9%9B%85%E8%AF%BE%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
 9. [男孩偷卖家中31斤金条变现565万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%81%B7%E5%8D%96%E5%AE%B6%E4%B8%AD31%E6%96%A4%E9%87%91%E6%9D%A1%E5%8F%98%E7%8E%B0565%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
