@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 13:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 13:05:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [阿信 缺席就是认输了](https://s.weibo.com/weibo?q=%E9%98%BF%E4%BF%A1%20%E7%BC%BA%E5%B8%AD%E5%B0%B1%E6%98%AF%E8%AE%A4%E8%BE%93%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [新加坡和中国即将免签](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%92%8C%E4%B8%AD%E5%9B%BD%E5%8D%B3%E5%B0%86%E5%85%8D%E7%AD%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [老师我们家子涵怎么火了](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%88%91%E4%BB%AC%E5%AE%B6%E5%AD%90%E6%B6%B5%E6%80%8E%E4%B9%88%E7%81%AB%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [丁程鑫回应](https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E5%9B%9E%E5%BA%94&t=31&band_rank=8&Refer=top)<br />
-9. [江西省民政厅正在调查花10万中2.2亿](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%B0%91%E6%94%BF%E5%8E%85%E6%AD%A3%E5%9C%A8%E8%B0%83%E6%9F%A5%E8%8A%B110%E4%B8%87%E4%B8%AD2.2%E4%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
+8. [江西省民政厅正在调查花10万中2.2亿](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%B0%91%E6%94%BF%E5%8E%85%E6%AD%A3%E5%9C%A8%E8%B0%83%E6%9F%A5%E8%8A%B110%E4%B8%87%E4%B8%AD2.2%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [丁程鑫回应](https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E5%9B%9E%E5%BA%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
