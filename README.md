@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 18:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 18:20:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [GQ好多人鱼公主](https://s.weibo.com/weibo?q=GQ%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%B1%BC%E5%85%AC%E4%B8%BB&t=31&band_rank=5&Refer=top)<br />
 6. [男孩偷卖家中31斤金条变现565万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%81%B7%E5%8D%96%E5%AE%B6%E4%B8%AD31%E6%96%A4%E9%87%91%E6%9D%A1%E5%8F%98%E7%8E%B0565%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [龙墩墩开售啦](https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%A2%A9%E5%A2%A9%E5%BC%80%E5%94%AE%E5%95%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨紫 夜色玫瑰](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E5%A4%9C%E8%89%B2%E7%8E%AB%E7%91%B0&t=31&band_rank=8&Refer=top)<br />
+8. [好怕谢娜的船翻了](https://s.weibo.com/weibo?q=%E5%A5%BD%E6%80%95%E8%B0%A2%E5%A8%9C%E7%9A%84%E8%88%B9%E7%BF%BB%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [身体这4个部位不能太干净](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E8%BF%994%E4%B8%AA%E9%83%A8%E4%BD%8D%E4%B8%8D%E8%83%BD%E5%A4%AA%E5%B9%B2%E5%87%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
