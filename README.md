@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 15:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 15:14:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [太空菜园收菜了航天员边摘边吃](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E8%8F%9C%E5%9B%AD%E6%94%B6%E8%8F%9C%E4%BA%86%E8%88%AA%E5%A4%A9%E5%91%98%E8%BE%B9%E6%91%98%E8%BE%B9%E5%90%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [GQ连夜排查水道](https://s.weibo.com/weibo?q=GQ%E8%BF%9E%E5%A4%9C%E6%8E%92%E6%9F%A5%E6%B0%B4%E9%81%93&t=31&band_rank=4&Refer=top)<br />
 5. [GQ疯狂星期四](https://s.weibo.com/weibo?q=%23GQ%E7%96%AF%E7%8B%82%E6%98%9F%E6%9C%9F%E5%9B%9B%23&t=31&band_rank=5&Refer=top)<br />
-6. [江西省民政厅正在调查花10万中2.2亿](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%B0%91%E6%94%BF%E5%8E%85%E6%AD%A3%E5%9C%A8%E8%B0%83%E6%9F%A5%E8%8A%B110%E4%B8%87%E4%B8%AD2.2%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
-7. [杨幂在超市拍出发图](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%9C%A8%E8%B6%85%E5%B8%82%E6%8B%8D%E5%87%BA%E5%8F%91%E5%9B%BE%23&t=31&band_rank=7&Refer=top)<br />
+6. [杨幂在超市拍出发图](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%9C%A8%E8%B6%85%E5%B8%82%E6%8B%8D%E5%87%BA%E5%8F%91%E5%9B%BE%23&t=31&band_rank=6&Refer=top)<br />
+7. [江西省民政厅正在调查花10万中2.2亿](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%B0%91%E6%94%BF%E5%8E%85%E6%AD%A3%E5%9C%A8%E8%B0%83%E6%9F%A5%E8%8A%B110%E4%B8%87%E4%B8%AD2.2%E4%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [周也公子也](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E5%85%AC%E5%AD%90%E4%B9%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴王后服](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%8E%8B%E5%90%8E%E6%9C%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [阿信 缺席就是认输了](https://s.weibo.com/weibo?q=%E9%98%BF%E4%BF%A1%20%E7%BC%BA%E5%B8%AD%E5%B0%B1%E6%98%AF%E8%AE%A4%E8%BE%93%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
