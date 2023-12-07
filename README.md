@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 08:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 08:01:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [阿信回应](https://s.weibo.com/weibo?q=%E9%98%BF%E4%BF%A1%E5%9B%9E%E5%BA%94&t=31&band_rank=4&Refer=top)<br />
 5. [7800元的羽绒服销量为个位数](https://s.weibo.com/weibo?q=%237800%E5%85%83%E7%9A%84%E7%BE%BD%E7%BB%92%E6%9C%8D%E9%94%80%E9%87%8F%E4%B8%BA%E4%B8%AA%E4%BD%8D%E6%95%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [难哄 不行就他们四个吧](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E4%B8%8D%E8%A1%8C%E5%B0%B1%E4%BB%96%E4%BB%AC%E5%9B%9B%E4%B8%AA%E5%90%A7&t=31&band_rank=6&Refer=top)<br />
-7. [举报五月天博主称把歌和人分开](https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E4%BA%94%E6%9C%88%E5%A4%A9%E5%8D%9A%E4%B8%BB%E7%A7%B0%E6%8A%8A%E6%AD%8C%E5%92%8C%E4%BA%BA%E5%88%86%E5%BC%80%23&t=31&band_rank=7&Refer=top)<br />
+7. [周深曾直接拒绝演唱现场放人声伴奏](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%9B%BE%E7%9B%B4%E6%8E%A5%E6%8B%92%E7%BB%9D%E6%BC%94%E5%94%B1%E7%8E%B0%E5%9C%BA%E6%94%BE%E4%BA%BA%E5%A3%B0%E4%BC%B4%E5%A5%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [苹果因故意降低性能被判向部分用户赔偿](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%A0%E6%95%85%E6%84%8F%E9%99%8D%E4%BD%8E%E6%80%A7%E8%83%BD%E8%A2%AB%E5%88%A4%E5%90%91%E9%83%A8%E5%88%86%E7%94%A8%E6%88%B7%E8%B5%94%E5%81%BF%23&t=31&band_rank=8&Refer=top)<br />
 9. [大雪](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%9B%AA%23&t=31&band_rank=9&Refer=top)<br />
 
