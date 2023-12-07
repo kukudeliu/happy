@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 09:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 09:36:01</h4></div>
 
 > 微博  
 
-1. [阿信 缺席就是认输了](https://s.weibo.com/weibo?q=%E9%98%BF%E4%BF%A1%20%E7%BC%BA%E5%B8%AD%E5%B0%B1%E6%98%AF%E8%AE%A4%E8%BE%93%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [伯克利大学的死亡周](https://s.weibo.com/weibo?q=%E4%BC%AF%E5%85%8B%E5%88%A9%E5%A4%A7%E5%AD%A6%E7%9A%84%E6%AD%BB%E4%BA%A1%E5%91%A8&t=31&band_rank=2&Refer=top)<br />
+1. [伯克利大学的死亡周](https://s.weibo.com/weibo?q=%E4%BC%AF%E5%85%8B%E5%88%A9%E5%A4%A7%E5%AD%A6%E7%9A%84%E6%AD%BB%E4%BA%A1%E5%91%A8&t=31&band_rank=1&Refer=top)<br />
+2. [阿信 缺席就是认输了](https://s.weibo.com/weibo?q=%E9%98%BF%E4%BF%A1%20%E7%BC%BA%E5%B8%AD%E5%B0%B1%E6%98%AF%E8%AE%A4%E8%BE%93%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [呼吸道传染病个人健康手册](https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%90%B8%E9%81%93%E4%BC%A0%E6%9F%93%E7%97%85%E4%B8%AA%E4%BA%BA%E5%81%A5%E5%BA%B7%E6%89%8B%E5%86%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [若鉴定结果为真唱举报者要负责吗](https://s.weibo.com/weibo?q=%23%E8%8B%A5%E9%89%B4%E5%AE%9A%E7%BB%93%E6%9E%9C%E4%B8%BA%E7%9C%9F%E5%94%B1%E4%B8%BE%E6%8A%A5%E8%80%85%E8%A6%81%E8%B4%9F%E8%B4%A3%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [何猷君从小吃鱼都是别人给挑刺](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E4%BB%8E%E5%B0%8F%E5%90%83%E9%B1%BC%E9%83%BD%E6%98%AF%E5%88%AB%E4%BA%BA%E7%BB%99%E6%8C%91%E5%88%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [医生点名3类人睡前喝水](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%82%B9%E5%90%8D3%E7%B1%BB%E4%BA%BA%E7%9D%A1%E5%89%8D%E5%96%9D%E6%B0%B4%23&t=31&band_rank=6&Refer=top)<br />
-7. [周深曾直接拒绝演唱现场放人声伴奏](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%9B%BE%E7%9B%B4%E6%8E%A5%E6%8B%92%E7%BB%9D%E6%BC%94%E5%94%B1%E7%8E%B0%E5%9C%BA%E6%94%BE%E4%BA%BA%E5%A3%B0%E4%BC%B4%E5%A5%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [大雪](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%9B%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [iPhone屏幕发明人从苹果离职](https://s.weibo.com/weibo?q=%23iPhone%E5%B1%8F%E5%B9%95%E5%8F%91%E6%98%8E%E4%BA%BA%E4%BB%8E%E8%8B%B9%E6%9E%9C%E7%A6%BB%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
+7. [大雪](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%9B%AA%23&t=31&band_rank=7&Refer=top)<br />
+8. [iPhone屏幕发明人从苹果离职](https://s.weibo.com/weibo?q=%23iPhone%E5%B1%8F%E5%B9%95%E5%8F%91%E6%98%8E%E4%BA%BA%E4%BB%8E%E8%8B%B9%E6%9E%9C%E7%A6%BB%E8%81%8C%23&t=31&band_rank=8&Refer=top)<br />
+9. [难哄 不行就他们四个吧](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E4%B8%8D%E8%A1%8C%E5%B0%B1%E4%BB%96%E4%BB%AC%E5%9B%9B%E4%B8%AA%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
