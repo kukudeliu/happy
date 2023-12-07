@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 11:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 11:54:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [丁程鑫回应](https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E5%9B%9E%E5%BA%94&t=31&band_rank=5&Refer=top)<br />
 6. [iPhone15价格跳水后销量霸榜前三](https://s.weibo.com/weibo?q=%23iPhone15%E4%BB%B7%E6%A0%BC%E8%B7%B3%E6%B0%B4%E5%90%8E%E9%94%80%E9%87%8F%E9%9C%B8%E6%A6%9C%E5%89%8D%E4%B8%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [伯克利大学的死亡周](https://s.weibo.com/weibo?q=%E4%BC%AF%E5%85%8B%E5%88%A9%E5%A4%A7%E5%AD%A6%E7%9A%84%E6%AD%BB%E4%BA%A1%E5%91%A8&t=31&band_rank=7&Refer=top)<br />
-8. [GQ明星工作室出图](https://s.weibo.com/weibo?q=%23GQ%E6%98%8E%E6%98%9F%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%87%BA%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [周也公子也](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E5%85%AC%E5%AD%90%E4%B9%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [周也公子也](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E5%85%AC%E5%AD%90%E4%B9%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [GQ明星工作室出图](https://s.weibo.com/weibo?q=%23GQ%E6%98%8E%E6%98%9F%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%87%BA%E5%9B%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
