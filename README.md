@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 20:01:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 20:02:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [杨幂倪妮 开嗑了](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E5%80%AA%E5%A6%AE%20%E5%BC%80%E5%97%91%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [13岁男孩班内遭霸凌濒临死亡](https://s.weibo.com/weibo?q=%2313%E5%B2%81%E7%94%B7%E5%AD%A9%E7%8F%AD%E5%86%85%E9%81%AD%E9%9C%B8%E5%87%8C%E6%BF%92%E4%B8%B4%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [女生长期吃避孕药治痘致癫痫脑出血](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%95%BF%E6%9C%9F%E5%90%83%E9%81%BF%E5%AD%95%E8%8D%AF%E6%B2%BB%E7%97%98%E8%87%B4%E7%99%AB%E7%97%AB%E8%84%91%E5%87%BA%E8%A1%80%23&t=31&band_rank=6&Refer=top)<br />
-7. [跑腿员爸爸撞坏顾客蛋糕买回给女儿庆生](https://s.weibo.com/weibo?q=%23%E8%B7%91%E8%85%BF%E5%91%98%E7%88%B8%E7%88%B8%E6%92%9E%E5%9D%8F%E9%A1%BE%E5%AE%A2%E8%9B%8B%E7%B3%95%E4%B9%B0%E5%9B%9E%E7%BB%99%E5%A5%B3%E5%84%BF%E5%BA%86%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [王一博刘冲同船](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%88%98%E5%86%B2%E5%90%8C%E8%88%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [遭班内霸凌濒临死亡男孩亲属发声](https://s.weibo.com/weibo?q=%23%E9%81%AD%E7%8F%AD%E5%86%85%E9%9C%B8%E5%87%8C%E6%BF%92%E4%B8%B4%E6%AD%BB%E4%BA%A1%E7%94%B7%E5%AD%A9%E4%BA%B2%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
+7. [王一博刘冲同船](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%88%98%E5%86%B2%E5%90%8C%E8%88%B9%23&t=31&band_rank=7&Refer=top)<br />
+8. [遭班内霸凌濒临死亡男孩亲属发声](https://s.weibo.com/weibo?q=%23%E9%81%AD%E7%8F%AD%E5%86%85%E9%9C%B8%E5%87%8C%E6%BF%92%E4%B8%B4%E6%AD%BB%E4%BA%A1%E7%94%B7%E5%AD%A9%E4%BA%B2%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
+9. [身体这4个部位不能太干净](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E8%BF%994%E4%B8%AA%E9%83%A8%E4%BD%8D%E4%B8%8D%E8%83%BD%E5%A4%AA%E5%B9%B2%E5%87%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
