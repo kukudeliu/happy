@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 08:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 08:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [苹果因故意降低性能被判向部分用户赔偿](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%A0%E6%95%85%E6%84%8F%E9%99%8D%E4%BD%8E%E6%80%A7%E8%83%BD%E8%A2%AB%E5%88%A4%E5%90%91%E9%83%A8%E5%88%86%E7%94%A8%E6%88%B7%E8%B5%94%E5%81%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [周深曾直接拒绝演唱现场放人声伴奏](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%9B%BE%E7%9B%B4%E6%8E%A5%E6%8B%92%E7%BB%9D%E6%BC%94%E5%94%B1%E7%8E%B0%E5%9C%BA%E6%94%BE%E4%BA%BA%E5%A3%B0%E4%BC%B4%E5%A5%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [大雪](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%9B%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [大雪节气至新年也不远了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%9B%AA%E8%8A%82%E6%B0%94%E8%87%B3%E6%96%B0%E5%B9%B4%E4%B9%9F%E4%B8%8D%E8%BF%9C%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [她拼命拍打车窗想叫醒沉睡车内儿子](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E6%8B%BC%E5%91%BD%E6%8B%8D%E6%89%93%E8%BD%A6%E7%AA%97%E6%83%B3%E5%8F%AB%E9%86%92%E6%B2%89%E7%9D%A1%E8%BD%A6%E5%86%85%E5%84%BF%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
