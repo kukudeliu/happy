@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 17:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 17:14:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [2.2亿巨奖得主购买记录无法查询](https://www.baidu.com/s?wd=2.2%E4%BA%BF%E5%B7%A8%E5%A5%96%E5%BE%97%E4%B8%BB%E8%B4%AD%E4%B9%B0%E8%AE%B0%E5%BD%95%E6%97%A0%E6%B3%95%E6%9F%A5%E8%AF%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济仍是全球增长最大引擎](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%BB%8D%E6%98%AF%E5%85%A8%E7%90%83%E5%A2%9E%E9%95%BF%E6%9C%80%E5%A4%A7%E5%BC%95%E6%93%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华为高颜值HR回应火出圈](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E9%AB%98%E9%A2%9C%E5%80%BCHR%E5%9B%9E%E5%BA%94%E7%81%AB%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [拜登就援乌资金恳求共和党人](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%B0%B1%E6%8F%B4%E4%B9%8C%E8%B5%84%E9%87%91%E6%81%B3%E6%B1%82%E5%85%B1%E5%92%8C%E5%85%9A%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美国楼市平均房价指数再创新高](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%A5%BC%E5%B8%82%E5%B9%B3%E5%9D%87%E6%88%BF%E4%BB%B7%E6%8C%87%E6%95%B0%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女房东被租客杀猪盘骗走407万](https://www.baidu.com/s?wd=%E5%A5%B3%E6%88%BF%E4%B8%9C%E8%A2%AB%E7%A7%9F%E5%AE%A2%E6%9D%80%E7%8C%AA%E7%9B%98%E9%AA%97%E8%B5%B0407%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多地发放购房补贴2-120万元](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%8F%91%E6%94%BE%E8%B4%AD%E6%88%BF%E8%A1%A5%E8%B4%B42-120%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [拜登就援乌资金恳求共和党人](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%B0%B1%E6%8F%B4%E4%B9%8C%E8%B5%84%E9%87%91%E6%81%B3%E6%B1%82%E5%85%B1%E5%92%8C%E5%85%9A%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [刑警遭举报婚内出轨？官方回应](https://www.baidu.com/s?wd=%E5%88%91%E8%AD%A6%E9%81%AD%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [2.2亿巨奖得主购买记录无法查询](https://www.baidu.com/s?wd=2.2%E4%BA%BF%E5%B7%A8%E5%A5%96%E5%BE%97%E4%B8%BB%E8%B4%AD%E4%B9%B0%E8%AE%B0%E5%BD%95%E6%97%A0%E6%B3%95%E6%9F%A5%E8%AF%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济仍是全球增长最大引擎](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%BB%8D%E6%98%AF%E5%85%A8%E7%90%83%E5%A2%9E%E9%95%BF%E6%9C%80%E5%A4%A7%E5%BC%95%E6%93%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华为高颜值HR回应火出圈](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E9%AB%98%E9%A2%9C%E5%80%BCHR%E5%9B%9E%E5%BA%94%E7%81%AB%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [拜登就援乌资金恳求共和党人](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%B0%B1%E6%8F%B4%E4%B9%8C%E8%B5%84%E9%87%91%E6%81%B3%E6%B1%82%E5%85%B1%E5%92%8C%E5%85%9A%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美国楼市平均房价指数再创新高](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%A5%BC%E5%B8%82%E5%B9%B3%E5%9D%87%E6%88%BF%E4%BB%B7%E6%8C%87%E6%95%B0%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女房东被租客杀猪盘骗走407万](https://www.baidu.com/s?wd=%E5%A5%B3%E6%88%BF%E4%B8%9C%E8%A2%AB%E7%A7%9F%E5%AE%A2%E6%9D%80%E7%8C%AA%E7%9B%98%E9%AA%97%E8%B5%B0407%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多地发放购房补贴2-120万元](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%8F%91%E6%94%BE%E8%B4%AD%E6%88%BF%E8%A1%A5%E8%B4%B42-120%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [拜登就援乌资金恳求共和党人](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%B0%B1%E6%8F%B4%E4%B9%8C%E8%B5%84%E9%87%91%E6%81%B3%E6%B1%82%E5%85%B1%E5%92%8C%E5%85%9A%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [刑警遭举报婚内出轨？官方回应](https://www.baidu.com/s?wd=%E5%88%91%E8%AD%A6%E9%81%AD%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
