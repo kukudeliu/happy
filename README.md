@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 12:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 12:53:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [老师我们家子涵怎么火了](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%88%91%E4%BB%AC%E5%AE%B6%E5%AD%90%E6%B6%B5%E6%80%8E%E4%B9%88%E7%81%AB%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [丁程鑫回应](https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E5%9B%9E%E5%BA%94&t=31&band_rank=7&Refer=top)<br />
 8. [小时候被性骚扰是女性共同的秘密](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%B6%E5%80%99%E8%A2%AB%E6%80%A7%E9%AA%9A%E6%89%B0%E6%98%AF%E5%A5%B3%E6%80%A7%E5%85%B1%E5%90%8C%E7%9A%84%E7%A7%98%E5%AF%86&t=31&band_rank=8&Refer=top)<br />
-9. [关晓彤父亲持股的天然呆被限消](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%88%B6%E4%BA%B2%E6%8C%81%E8%82%A1%E7%9A%84%E5%A4%A9%E7%84%B6%E5%91%86%E8%A2%AB%E9%99%90%E6%B6%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [新加坡和中国即将免签](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%92%8C%E4%B8%AD%E5%9B%BD%E5%8D%B3%E5%B0%86%E5%85%8D%E7%AD%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
