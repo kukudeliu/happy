@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 22:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 22:19:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [五月天凌晨三点直播](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%87%8C%E6%99%A8%E4%B8%89%E7%82%B9%E7%9B%B4%E6%92%AD&t=31&band_rank=5&Refer=top)<br />
 6. [彩票2.2亿](https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A5%A82.2%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [张凌赫眼神就没离开过白鹿](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9C%BC%E7%A5%9E%E5%B0%B1%E6%B2%A1%E7%A6%BB%E5%BC%80%E8%BF%87%E7%99%BD%E9%B9%BF&t=31&band_rank=7&Refer=top)<br />
-8. [肖战指导英文回击法国球员](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%8C%87%E5%AF%BC%E8%8B%B1%E6%96%87%E5%9B%9E%E5%87%BB%E6%B3%95%E5%9B%BD%E7%90%83%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [一天一个苹果 兽医远离我](https://s.weibo.com/weibo?q=%E4%B8%80%E5%A4%A9%E4%B8%80%E4%B8%AA%E8%8B%B9%E6%9E%9C%20%E5%85%BD%E5%8C%BB%E8%BF%9C%E7%A6%BB%E6%88%91&t=31&band_rank=9&Refer=top)<br />
+8. [一天一个苹果 兽医远离我](https://s.weibo.com/weibo?q=%E4%B8%80%E5%A4%A9%E4%B8%80%E4%B8%AA%E8%8B%B9%E6%9E%9C%20%E5%85%BD%E5%8C%BB%E8%BF%9C%E7%A6%BB%E6%88%91&t=31&band_rank=8&Refer=top)<br />
+9. [肖战指导英文回击法国球员](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%8C%87%E5%AF%BC%E8%8B%B1%E6%96%87%E5%9B%9E%E5%87%BB%E6%B3%95%E5%9B%BD%E7%90%83%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [GQ的小船 网友直呼诡异又尴尬](https://www.baidu.com/s?wd=GQ%E7%9A%84%E5%B0%8F%E8%88%B9+%E7%BD%91%E5%8F%8B%E7%9B%B4%E5%91%BC%E8%AF%A1%E5%BC%82%E5%8F%88%E5%B0%B4%E5%B0%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生长期吃避孕药治痘致癫痫脑出血](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%95%BF%E6%9C%9F%E5%90%83%E9%81%BF%E5%AD%95%E8%8D%AF%E6%B2%BB%E7%97%98%E8%87%B4%E7%99%AB%E7%97%AB%E8%84%91%E5%87%BA%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [85版诸葛亮饰演者李法曾去世](https://www.baidu.com/s?wd=85%E7%89%88%E8%AF%B8%E8%91%9B%E4%BA%AE%E9%A5%B0%E6%BC%94%E8%80%85%E6%9D%8E%E6%B3%95%E6%9B%BE%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [周深曾直接拒绝演唱现场放人声伴奏](https://www.baidu.com/s?wd=%E5%91%A8%E6%B7%B1%E6%9B%BE%E7%9B%B4%E6%8E%A5%E6%8B%92%E7%BB%9D%E6%BC%94%E5%94%B1%E7%8E%B0%E5%9C%BA%E6%94%BE%E4%BA%BA%E5%A3%B0%E4%BC%B4%E5%A5%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国楼市平均房价指数再创新高](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%A5%BC%E5%B8%82%E5%B9%B3%E5%9D%87%E6%88%BF%E4%BB%B7%E6%8C%87%E6%95%B0%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [开新能源汽车辐射大会致癌？](https://www.baidu.com/s?wd=%E5%BC%80%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BE%90%E5%B0%84%E5%A4%A7%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [GQ的小船 网友直呼诡异又尴尬](https://www.baidu.com/s?wd=GQ%E7%9A%84%E5%B0%8F%E8%88%B9+%E7%BD%91%E5%8F%8B%E7%9B%B4%E5%91%BC%E8%AF%A1%E5%BC%82%E5%8F%88%E5%B0%B4%E5%B0%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生长期吃避孕药治痘致癫痫脑出血](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%95%BF%E6%9C%9F%E5%90%83%E9%81%BF%E5%AD%95%E8%8D%AF%E6%B2%BB%E7%97%98%E8%87%B4%E7%99%AB%E7%97%AB%E8%84%91%E5%87%BA%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [85版诸葛亮饰演者李法曾去世](https://www.baidu.com/s?wd=85%E7%89%88%E8%AF%B8%E8%91%9B%E4%BA%AE%E9%A5%B0%E6%BC%94%E8%80%85%E6%9D%8E%E6%B3%95%E6%9B%BE%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [周深曾直接拒绝演唱现场放人声伴奏](https://www.baidu.com/s?wd=%E5%91%A8%E6%B7%B1%E6%9B%BE%E7%9B%B4%E6%8E%A5%E6%8B%92%E7%BB%9D%E6%BC%94%E5%94%B1%E7%8E%B0%E5%9C%BA%E6%94%BE%E4%BA%BA%E5%A3%B0%E4%BC%B4%E5%A5%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国楼市平均房价指数再创新高](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%A5%BC%E5%B8%82%E5%B9%B3%E5%9D%87%E6%88%BF%E4%BB%B7%E6%8C%87%E6%95%B0%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [开新能源汽车辐射大会致癌？](https://www.baidu.com/s?wd=%E5%BC%80%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BE%90%E5%B0%84%E5%A4%A7%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
