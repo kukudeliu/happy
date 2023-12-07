@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 18:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 18:27:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [女生长期吃避孕药治痘致癫痫脑出血](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%95%BF%E6%9C%9F%E5%90%83%E9%81%BF%E5%AD%95%E8%8D%AF%E6%B2%BB%E7%97%98%E8%87%B4%E7%99%AB%E7%97%AB%E8%84%91%E5%87%BA%E8%A1%80%23&t=31&band_rank=4&Refer=top)<br />
 5. [好怕谢娜的船翻了](https://s.weibo.com/weibo?q=%E5%A5%BD%E6%80%95%E8%B0%A2%E5%A8%9C%E7%9A%84%E8%88%B9%E7%BF%BB%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [男孩偷卖家中31斤金条变现565万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%81%B7%E5%8D%96%E5%AE%B6%E4%B8%AD31%E6%96%A4%E9%87%91%E6%9D%A1%E5%8F%98%E7%8E%B0565%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [消防员冲进火场徒手拎出喷火煤气罐](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E5%86%B2%E8%BF%9B%E7%81%AB%E5%9C%BA%E5%BE%92%E6%89%8B%E6%8B%8E%E5%87%BA%E5%96%B7%E7%81%AB%E7%85%A4%E6%B0%94%E7%BD%90%23&t=31&band_rank=7&Refer=top)<br />
+7. [身体这4个部位不能太干净](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E8%BF%994%E4%B8%AA%E9%83%A8%E4%BD%8D%E4%B8%8D%E8%83%BD%E5%A4%AA%E5%B9%B2%E5%87%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [GQ好多人鱼公主](https://s.weibo.com/weibo?q=GQ%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%B1%BC%E5%85%AC%E4%B8%BB&t=31&band_rank=8&Refer=top)<br />
-9. [身体这4个部位不能太干净](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E8%BF%994%E4%B8%AA%E9%83%A8%E4%BD%8D%E4%B8%8D%E8%83%BD%E5%A4%AA%E5%B9%B2%E5%87%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [小黄开播几分钟直播间被封](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%BB%84%E5%BC%80%E6%92%AD%E5%87%A0%E5%88%86%E9%92%9F%E7%9B%B4%E6%92%AD%E9%97%B4%E8%A2%AB%E5%B0%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
