@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 00:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 00:27:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [GQ的小船 尴尬](https://s.weibo.com/weibo?q=GQ%E7%9A%84%E5%B0%8F%E8%88%B9%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=2&Refer=top)<br />
 3. [4K视频感受冬日留白美学](https://s.weibo.com/weibo?q=%234K%E8%A7%86%E9%A2%91%E6%84%9F%E5%8F%97%E5%86%AC%E6%97%A5%E7%95%99%E7%99%BD%E7%BE%8E%E5%AD%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [连云港地震](https://s.weibo.com/weibo?q=%E8%BF%9E%E4%BA%91%E6%B8%AF%E5%9C%B0%E9%9C%87&t=31&band_rank=4&Refer=top)<br />
-5. [青岛震感](https://s.weibo.com/weibo?q=%E9%9D%92%E5%B2%9B%E9%9C%87%E6%84%9F&t=31&band_rank=5&Refer=top)<br />
-6. [彩票2.2亿](https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A5%A82.2%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
+5. [彩票2.2亿](https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A5%A82.2%E4%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
+6. [青岛震感](https://s.weibo.com/weibo?q=%E9%9D%92%E5%B2%9B%E9%9C%87%E6%84%9F&t=31&band_rank=6&Refer=top)<br />
 7. [GQ红毯](https://s.weibo.com/weibo?q=GQ%E7%BA%A2%E6%AF%AF&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴特意带了国旗](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%89%B9%E6%84%8F%E5%B8%A6%E4%BA%86%E5%9B%BD%E6%97%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [睡眠真的超级重要](https://s.weibo.com/weibo?q=%E7%9D%A1%E7%9C%A0%E7%9C%9F%E7%9A%84%E8%B6%85%E7%BA%A7%E9%87%8D%E8%A6%81&t=31&band_rank=9&Refer=top)<br />
