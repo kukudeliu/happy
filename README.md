@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 14:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 14:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [江西省民政厅正在调查花10万中2.2亿](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%B0%91%E6%94%BF%E5%8E%85%E6%AD%A3%E5%9C%A8%E8%B0%83%E6%9F%A5%E8%8A%B110%E4%B8%87%E4%B8%AD2.2%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [著名歌手唐磊谈五月天假唱风波](https://s.weibo.com/weibo?q=%23%E8%91%97%E5%90%8D%E6%AD%8C%E6%89%8B%E5%94%90%E7%A3%8A%E8%B0%88%E4%BA%94%E6%9C%88%E5%A4%A9%E5%81%87%E5%94%B1%E9%A3%8E%E6%B3%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [田曦薇金发人鱼公主](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E9%87%91%E5%8F%91%E4%BA%BA%E9%B1%BC%E5%85%AC%E4%B8%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [关晓彤父亲持股的天然呆被限消](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%88%B6%E4%BA%B2%E6%8C%81%E8%82%A1%E7%9A%84%E5%A4%A9%E7%84%B6%E5%91%86%E8%A2%AB%E9%99%90%E6%B6%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [JDG官宣Flandre加入](https://s.weibo.com/weibo?q=%23JDG%E5%AE%98%E5%AE%A3Flandre%E5%8A%A0%E5%85%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
