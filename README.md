@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 21:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 21:05:02</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [俯冲式暴跌 多地累计降温将超20度](https://www.baidu.com/s?wd=%E4%BF%AF%E5%86%B2%E5%BC%8F%E6%9A%B4%E8%B7%8C+%E5%A4%9A%E5%9C%B0%E7%B4%AF%E8%AE%A1%E9%99%8D%E6%B8%A9%E5%B0%86%E8%B6%8520%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [GQ的小船 网友直呼诡异又尴尬](https://www.baidu.com/s?wd=GQ%E7%9A%84%E5%B0%8F%E8%88%B9+%E7%BD%91%E5%8F%8B%E7%9B%B4%E5%91%BC%E8%AF%A1%E5%BC%82%E5%8F%88%E5%B0%B4%E5%B0%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济仍是全球增长最大引擎](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%BB%8D%E6%98%AF%E5%85%A8%E7%90%83%E5%A2%9E%E9%95%BF%E6%9C%80%E5%A4%A7%E5%BC%95%E6%93%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [女生长期吃避孕药治痘致癫痫脑出血](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%95%BF%E6%9C%9F%E5%90%83%E9%81%BF%E5%AD%95%E8%8D%AF%E6%B2%BB%E7%97%98%E8%87%B4%E7%99%AB%E7%97%AB%E8%84%91%E5%87%BA%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [年轻人普遍期望较早退休](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%99%AE%E9%81%8D%E6%9C%9F%E6%9C%9B%E8%BE%83%E6%97%A9%E9%80%80%E4%BC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [85版诸葛亮饰演者李法曾去世](https://www.baidu.com/s?wd=85%E7%89%88%E8%AF%B8%E8%91%9B%E4%BA%AE%E9%A5%B0%E6%BC%94%E8%80%85%E6%9D%8E%E6%B3%95%E6%9B%BE%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [周深曾直接拒绝演唱现场放人声伴奏](https://www.baidu.com/s?wd=%E5%91%A8%E6%B7%B1%E6%9B%BE%E7%9B%B4%E6%8E%A5%E6%8B%92%E7%BB%9D%E6%BC%94%E5%94%B1%E7%8E%B0%E5%9C%BA%E6%94%BE%E4%BA%BA%E5%A3%B0%E4%BC%B4%E5%A5%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [安置房刚住一年 多人家中客厅塌陷](https://www.baidu.com/s?wd=%E5%AE%89%E7%BD%AE%E6%88%BF%E5%88%9A%E4%BD%8F%E4%B8%80%E5%B9%B4+%E5%A4%9A%E4%BA%BA%E5%AE%B6%E4%B8%AD%E5%AE%A2%E5%8E%85%E5%A1%8C%E9%99%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [俯冲式暴跌 多地累计降温将超20度](https://www.baidu.com/s?wd=%E4%BF%AF%E5%86%B2%E5%BC%8F%E6%9A%B4%E8%B7%8C+%E5%A4%9A%E5%9C%B0%E7%B4%AF%E8%AE%A1%E9%99%8D%E6%B8%A9%E5%B0%86%E8%B6%8520%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [GQ的小船 网友直呼诡异又尴尬](https://www.baidu.com/s?wd=GQ%E7%9A%84%E5%B0%8F%E8%88%B9+%E7%BD%91%E5%8F%8B%E7%9B%B4%E5%91%BC%E8%AF%A1%E5%BC%82%E5%8F%88%E5%B0%B4%E5%B0%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济仍是全球增长最大引擎](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%BB%8D%E6%98%AF%E5%85%A8%E7%90%83%E5%A2%9E%E9%95%BF%E6%9C%80%E5%A4%A7%E5%BC%95%E6%93%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [女生长期吃避孕药治痘致癫痫脑出血](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%95%BF%E6%9C%9F%E5%90%83%E9%81%BF%E5%AD%95%E8%8D%AF%E6%B2%BB%E7%97%98%E8%87%B4%E7%99%AB%E7%97%AB%E8%84%91%E5%87%BA%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [年轻人普遍期望较早退休](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%99%AE%E9%81%8D%E6%9C%9F%E6%9C%9B%E8%BE%83%E6%97%A9%E9%80%80%E4%BC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [85版诸葛亮饰演者李法曾去世](https://www.baidu.com/s?wd=85%E7%89%88%E8%AF%B8%E8%91%9B%E4%BA%AE%E9%A5%B0%E6%BC%94%E8%80%85%E6%9D%8E%E6%B3%95%E6%9B%BE%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [周深曾直接拒绝演唱现场放人声伴奏](https://www.baidu.com/s?wd=%E5%91%A8%E6%B7%B1%E6%9B%BE%E7%9B%B4%E6%8E%A5%E6%8B%92%E7%BB%9D%E6%BC%94%E5%94%B1%E7%8E%B0%E5%9C%BA%E6%94%BE%E4%BA%BA%E5%A3%B0%E4%BC%B4%E5%A5%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [安置房刚住一年 多人家中客厅塌陷](https://www.baidu.com/s?wd=%E5%AE%89%E7%BD%AE%E6%88%BF%E5%88%9A%E4%BD%8F%E4%B8%80%E5%B9%B4+%E5%A4%9A%E4%BA%BA%E5%AE%B6%E4%B8%AD%E5%AE%A2%E5%8E%85%E5%A1%8C%E9%99%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
