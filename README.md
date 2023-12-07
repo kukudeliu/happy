@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 09:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 09:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [彩票](https://s.weibo.com/weibo?q=%E5%BD%A9%E7%A5%A8&t=31&band_rank=6&Refer=top)<br />
 7. [周深曾直接拒绝演唱现场放人声伴奏](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%9B%BE%E7%9B%B4%E6%8E%A5%E6%8B%92%E7%BB%9D%E6%BC%94%E5%94%B1%E7%8E%B0%E5%9C%BA%E6%94%BE%E4%BA%BA%E5%A3%B0%E4%BC%B4%E5%A5%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [字节跳动以160美元开启新一轮股东回购](https://s.weibo.com/weibo?q=%23%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E4%BB%A5160%E7%BE%8E%E5%85%83%E5%BC%80%E5%90%AF%E6%96%B0%E4%B8%80%E8%BD%AE%E8%82%A1%E4%B8%9C%E5%9B%9E%E8%B4%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [她拼命拍打车窗想叫醒沉睡车内儿子](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E6%8B%BC%E5%91%BD%E6%8B%8D%E6%89%93%E8%BD%A6%E7%AA%97%E6%83%B3%E5%8F%AB%E9%86%92%E6%B2%89%E7%9D%A1%E8%BD%A6%E5%86%85%E5%84%BF%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [大雪](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%9B%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
