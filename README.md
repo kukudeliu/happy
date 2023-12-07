@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 21:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 21:16:01</h4></div>
 
 > 微博  
 
 1. [GQ的小船 尴尬](https://s.weibo.com/weibo?q=GQ%E7%9A%84%E5%B0%8F%E8%88%B9%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=1&Refer=top)<br />
 2. [GQ红毯](https://s.weibo.com/weibo?q=GQ%E7%BA%A2%E6%AF%AF&t=31&band_rank=2&Refer=top)<br />
-3. [滚滚江水见证生态转型发展之路](https://s.weibo.com/weibo?q=%23%E6%BB%9A%E6%BB%9A%E6%B1%9F%E6%B0%B4%E8%A7%81%E8%AF%81%E7%94%9F%E6%80%81%E8%BD%AC%E5%9E%8B%E5%8F%91%E5%B1%95%E4%B9%8B%E8%B7%AF%23&t=31&band_rank=3&Refer=top)<br />
+3. [4K视频感受冬日留白美学](https://s.weibo.com/weibo?q=%234K%E8%A7%86%E9%A2%91%E6%84%9F%E5%8F%97%E5%86%AC%E6%97%A5%E7%95%99%E7%99%BD%E7%BE%8E%E5%AD%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [毛晓彤鼻子](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A4%E9%BC%BB%E5%AD%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨幂倪妮 开嗑了](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E5%80%AA%E5%A6%AE%20%E5%BC%80%E5%97%91%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [杨天真把易梦玲全挡住了](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%A4%A9%E7%9C%9F%E6%8A%8A%E6%98%93%E6%A2%A6%E7%8E%B2%E5%85%A8%E6%8C%A1%E4%BD%8F%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
