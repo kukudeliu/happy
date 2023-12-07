@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 03:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 03:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [睡眠真的超级重要](https://s.weibo.com/weibo?q=%E7%9D%A1%E7%9C%A0%E7%9C%9F%E7%9A%84%E8%B6%85%E7%BA%A7%E9%87%8D%E8%A6%81&t=31&band_rank=6&Refer=top)<br />
 7. [山东震感](https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E9%9C%87%E6%84%9F&t=31&band_rank=7&Refer=top)<br />
 8. [杨天真把易梦玲全挡住了](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%A4%A9%E7%9C%9F%E6%8A%8A%E6%98%93%E6%A2%A6%E7%8E%B2%E5%85%A8%E6%8C%A1%E4%BD%8F%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [男孩偷卖家中31斤金条变现565万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%81%B7%E5%8D%96%E5%AE%B6%E4%B8%AD31%E6%96%A4%E9%87%91%E6%9D%A1%E5%8F%98%E7%8E%B0565%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [迪丽热巴特意带了国旗](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%89%B9%E6%84%8F%E5%B8%A6%E4%BA%86%E5%9B%BD%E6%97%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
