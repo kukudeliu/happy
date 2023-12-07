@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 16:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 16:31:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [GQ连夜排查水道](https://s.weibo.com/weibo?q=GQ%E8%BF%9E%E5%A4%9C%E6%8E%92%E6%9F%A5%E6%B0%B4%E9%81%93&t=31&band_rank=5&Refer=top)<br />
 6. [男孩偷卖家中31斤金条变现565万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%81%B7%E5%8D%96%E5%AE%B6%E4%B8%AD31%E6%96%A4%E9%87%91%E6%9D%A1%E5%8F%98%E7%8E%B0565%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [GQ好多人鱼公主](https://s.weibo.com/weibo?q=GQ%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%B1%BC%E5%85%AC%E4%B8%BB&t=31&band_rank=7&Refer=top)<br />
-8. [网传男孩遭亲爸后妈虐待睡楼道](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%94%B7%E5%AD%A9%E9%81%AD%E4%BA%B2%E7%88%B8%E5%90%8E%E5%A6%88%E8%99%90%E5%BE%85%E7%9D%A1%E6%A5%BC%E9%81%93%23&t=31&band_rank=8&Refer=top)<br />
+8. [易烊千玺辛爽 同船](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%BE%9B%E7%88%BD%20%E5%90%8C%E8%88%B9&t=31&band_rank=8&Refer=top)<br />
 9. [GQ疯狂星期四](https://s.weibo.com/weibo?q=%23GQ%E7%96%AF%E7%8B%82%E6%98%9F%E6%9C%9F%E5%9B%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
