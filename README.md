@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 15:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-07 15:46:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [网传男孩遭亲爸后妈虐待睡楼道](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%94%B7%E5%AD%A9%E9%81%AD%E4%BA%B2%E7%88%B8%E5%90%8E%E5%A6%88%E8%99%90%E5%BE%85%E7%9D%A1%E6%A5%BC%E9%81%93%23&t=31&band_rank=5&Refer=top)<br />
 6. [GQ疯狂星期四](https://s.weibo.com/weibo?q=%23GQ%E7%96%AF%E7%8B%82%E6%98%9F%E6%9C%9F%E5%9B%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨幂在超市拍出发图](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%9C%A8%E8%B6%85%E5%B8%82%E6%8B%8D%E5%87%BA%E5%8F%91%E5%9B%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [中国基建时不时就给我们来个奇迹](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9F%BA%E5%BB%BA%E6%97%B6%E4%B8%8D%E6%97%B6%E5%B0%B1%E7%BB%99%E6%88%91%E4%BB%AC%E6%9D%A5%E4%B8%AA%E5%A5%87%E8%BF%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [虞书欣 GQ惊喜嘉宾](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20GQ%E6%83%8A%E5%96%9C%E5%98%89%E5%AE%BE&t=31&band_rank=9&Refer=top)<br />
+8. [虞书欣 GQ惊喜嘉宾](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20GQ%E6%83%8A%E5%96%9C%E5%98%89%E5%AE%BE&t=31&band_rank=8&Refer=top)<br />
+9. [迪丽热巴王后服](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%8E%8B%E5%90%8E%E6%9C%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
