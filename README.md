@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 16:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 16:21:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [田曦薇走路炸毛](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E8%B5%B0%E8%B7%AF%E7%82%B8%E6%AF%9B%23&t=31&band_rank=5&Refer=top)<br />
 6. [女孩租房2年退房时被房东奖励500元](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF2%E5%B9%B4%E9%80%80%E6%88%BF%E6%97%B6%E8%A2%AB%E6%88%BF%E4%B8%9C%E5%A5%96%E5%8A%B1500%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [孟子义理想型标准](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E7%90%86%E6%83%B3%E5%9E%8B%E6%A0%87%E5%87%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [迪丽热巴逼秦岚看自己换衣服](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%80%BC%E7%A7%A6%E5%B2%9A%E7%9C%8B%E8%87%AA%E5%B7%B1%E6%8D%A2%E8%A1%A3%E6%9C%8D&t=31&band_rank=8&Refer=top)<br />
-9. [既生泪 何生博](https://s.weibo.com/weibo?q=%E6%97%A2%E7%94%9F%E6%B3%AA%20%E4%BD%95%E7%94%9F%E5%8D%9A&t=31&band_rank=9&Refer=top)<br />
+8. [李一桐 陈都灵](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%B8%80%E6%A1%90%20%E9%99%88%E9%83%BD%E7%81%B5&t=31&band_rank=8&Refer=top)<br />
+9. [59款咖啡全部检查出致癌物](https://s.weibo.com/weibo?q=%2359%E6%AC%BE%E5%92%96%E5%95%A1%E5%85%A8%E9%83%A8%E6%A3%80%E6%9F%A5%E5%87%BA%E8%87%B4%E7%99%8C%E7%89%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
