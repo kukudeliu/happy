@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 20:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 20:40:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [女子实名举报武汉大学教授嫖娼赌博收回扣](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E5%AB%96%E5%A8%BC%E8%B5%8C%E5%8D%9A%E6%94%B6%E5%9B%9E%E6%89%A3%23&t=31&band_rank=4&Refer=top)<br />
 5. [瑞幸星巴克 致癌物](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E6%98%9F%E5%B7%B4%E5%85%8B%20%E8%87%B4%E7%99%8C%E7%89%A9&t=31&band_rank=5&Refer=top)<br />
 6. [新闻女王 烂尾](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E7%83%82%E5%B0%BE&t=31&band_rank=6&Refer=top)<br />
-7. [神隐定档海报](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E9%9A%90%E5%AE%9A%E6%A1%A3%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [小时候偷看老外 如此明显](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%B6%E5%80%99%E5%81%B7%E7%9C%8B%E8%80%81%E5%A4%96%20%E5%A6%82%E6%AD%A4%E6%98%8E%E6%98%BE&t=31&band_rank=8&Refer=top)<br />
+7. [小时候偷看老外 如此明显](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%B6%E5%80%99%E5%81%B7%E7%9C%8B%E8%80%81%E5%A4%96%20%E5%A6%82%E6%AD%A4%E6%98%8E%E6%98%BE&t=31&band_rank=7&Refer=top)<br />
+8. [神隐定档海报](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E9%9A%90%E5%AE%9A%E6%A1%A3%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [普京将在2024年竞选总统](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%B0%86%E5%9C%A82024%E5%B9%B4%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
