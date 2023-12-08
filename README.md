@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 17:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 17:27:01</h4></div>
 
 > 微博  
 
-1. [新闻女王 烂尾](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E7%83%82%E5%B0%BE&t=31&band_rank=1&Refer=top)<br />
-2. [瑞幸星巴克 致癌物](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E6%98%9F%E5%B7%B4%E5%85%8B%20%E8%87%B4%E7%99%8C%E7%89%A9&t=31&band_rank=2&Refer=top)<br />
+1. [瑞幸星巴克 致癌物](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E6%98%9F%E5%B7%B4%E5%85%8B%20%E8%87%B4%E7%99%8C%E7%89%A9&t=31&band_rank=1&Refer=top)<br />
+2. [新闻女王 烂尾](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E7%83%82%E5%B0%BE&t=31&band_rank=2&Refer=top)<br />
 3. [探索多样化绿色转型路径](https://s.weibo.com/weibo?q=%23%E6%8E%A2%E7%B4%A2%E5%A4%9A%E6%A0%B7%E5%8C%96%E7%BB%BF%E8%89%B2%E8%BD%AC%E5%9E%8B%E8%B7%AF%E5%BE%84%23&t=31&band_rank=3&Refer=top)<br />
 4. [新闻女王结局 黄宗泽](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E7%BB%93%E5%B1%80%20%E9%BB%84%E5%AE%97%E6%B3%BD&t=31&band_rank=4&Refer=top)<br />
 5. [迪丽热巴一年22套高定](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%80%E5%B9%B422%E5%A5%97%E9%AB%98%E5%AE%9A&t=31&band_rank=5&Refer=top)<br />
