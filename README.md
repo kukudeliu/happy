@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 10:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 10:14:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [种地吧直播迟到了](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7%E7%9B%B4%E6%92%AD%E8%BF%9F%E5%88%B0%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [五月天感谢了77场每一个城市](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%84%9F%E8%B0%A2%E4%BA%8677%E5%9C%BA%E6%AF%8F%E4%B8%80%E4%B8%AA%E5%9F%8E%E5%B8%82%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨幂杨紫王一博坐一桌](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E6%9D%A8%E7%B4%AB%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%9D%90%E4%B8%80%E6%A1%8C&t=31&band_rank=6&Refer=top)<br />
-7. [TGA2023](https://s.weibo.com/weibo?q=%23TGA2023%23&t=31&band_rank=7&Refer=top)<br />
-8. [丫丫开始冲刺年底干饭KPI](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%BC%80%E5%A7%8B%E5%86%B2%E5%88%BA%E5%B9%B4%E5%BA%95%E5%B9%B2%E9%A5%ADKPI%23&t=31&band_rank=8&Refer=top)<br />
+7. [丫丫开始冲刺年底干饭KPI](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%BC%80%E5%A7%8B%E5%86%B2%E5%88%BA%E5%B9%B4%E5%BA%95%E5%B9%B2%E9%A5%ADKPI%23&t=31&band_rank=7&Refer=top)<br />
+8. [TGA2023](https://s.weibo.com/weibo?q=%23TGA2023%23&t=31&band_rank=8&Refer=top)<br />
 9. [GQ 坐船时长](https://s.weibo.com/weibo?q=GQ%20%E5%9D%90%E8%88%B9%E6%97%B6%E9%95%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [男子CT报告现子宫？院方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90CT%E6%8A%A5%E5%91%8A%E7%8E%B0%E5%AD%90%E5%AE%AB%EF%BC%9F%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [27岁华裔女精英陈尸家中 疑遭家暴](https://www.baidu.com/s?wd=27%E5%B2%81%E5%8D%8E%E8%A3%94%E5%A5%B3%E7%B2%BE%E8%8B%B1%E9%99%88%E5%B0%B8%E5%AE%B6%E4%B8%AD+%E7%96%91%E9%81%AD%E5%AE%B6%E6%9A%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [地铁安检员对着空气安检？将整改](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E5%AE%89%E6%A3%80%E5%91%98%E5%AF%B9%E7%9D%80%E7%A9%BA%E6%B0%94%E5%AE%89%E6%A3%80%EF%BC%9F%E5%B0%86%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子离婚4年被追还债发现自己成老赖](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A4%E5%B9%B4%E8%A2%AB%E8%BF%BD%E8%BF%98%E5%80%BA%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E6%88%90%E8%80%81%E8%B5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2男子自学“盗墓技能”挖10座古墓](https://www.baidu.com/s?wd=2%E7%94%B7%E5%AD%90%E8%87%AA%E5%AD%A6%E2%80%9C%E7%9B%97%E5%A2%93%E6%8A%80%E8%83%BD%E2%80%9D%E6%8C%9610%E5%BA%A7%E5%8F%A4%E5%A2%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [开新能源汽车辐射大会致癌？](https://www.baidu.com/s?wd=%E5%BC%80%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BE%90%E5%B0%84%E5%A4%A7%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男子CT报告现子宫？院方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90CT%E6%8A%A5%E5%91%8A%E7%8E%B0%E5%AD%90%E5%AE%AB%EF%BC%9F%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [27岁华裔女精英陈尸家中 疑遭家暴](https://www.baidu.com/s?wd=27%E5%B2%81%E5%8D%8E%E8%A3%94%E5%A5%B3%E7%B2%BE%E8%8B%B1%E9%99%88%E5%B0%B8%E5%AE%B6%E4%B8%AD+%E7%96%91%E9%81%AD%E5%AE%B6%E6%9A%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [地铁安检员对着空气安检？将整改](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E5%AE%89%E6%A3%80%E5%91%98%E5%AF%B9%E7%9D%80%E7%A9%BA%E6%B0%94%E5%AE%89%E6%A3%80%EF%BC%9F%E5%B0%86%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子离婚4年被追还债发现自己成老赖](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A4%E5%B9%B4%E8%A2%AB%E8%BF%BD%E8%BF%98%E5%80%BA%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E6%88%90%E8%80%81%E8%B5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2男子自学“盗墓技能”挖10座古墓](https://www.baidu.com/s?wd=2%E7%94%B7%E5%AD%90%E8%87%AA%E5%AD%A6%E2%80%9C%E7%9B%97%E5%A2%93%E6%8A%80%E8%83%BD%E2%80%9D%E6%8C%9610%E5%BA%A7%E5%8F%A4%E5%A2%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [开新能源汽车辐射大会致癌？](https://www.baidu.com/s?wd=%E5%BC%80%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BE%90%E5%B0%84%E5%A4%A7%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
