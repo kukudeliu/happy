@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 12:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 12:10:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [男子CT报告现子宫？院方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90CT%E6%8A%A5%E5%91%8A%E7%8E%B0%E5%AD%90%E5%AE%AB%EF%BC%9F%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大学老师卖两套房救助流浪狗20年](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E5%8D%96%E4%B8%A4%E5%A5%97%E6%88%BF%E6%95%91%E5%8A%A9%E6%B5%81%E6%B5%AA%E7%8B%9720%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [解清帅父亲：对大儿子也有愧疚](https://www.baidu.com/s?wd=%E8%A7%A3%E6%B8%85%E5%B8%85%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%AF%B9%E5%A4%A7%E5%84%BF%E5%AD%90%E4%B9%9F%E6%9C%89%E6%84%A7%E7%96%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [27岁华裔女精英陈尸家中 疑遭家暴](https://www.baidu.com/s?wd=27%E5%B2%81%E5%8D%8E%E8%A3%94%E5%A5%B3%E7%B2%BE%E8%8B%B1%E9%99%88%E5%B0%B8%E5%AE%B6%E4%B8%AD+%E7%96%91%E9%81%AD%E5%AE%B6%E6%9A%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友分享自家鹦鹉吃“断头饭”](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%88%86%E4%BA%AB%E8%87%AA%E5%AE%B6%E9%B9%A6%E9%B9%89%E5%90%83%E2%80%9C%E6%96%AD%E5%A4%B4%E9%A5%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼吸道疾病的这些谣言别轻信](https://www.baidu.com/s?wd=%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E7%9A%84%E8%BF%99%E4%BA%9B%E8%B0%A3%E8%A8%80%E5%88%AB%E8%BD%BB%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男子CT报告现子宫？院方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90CT%E6%8A%A5%E5%91%8A%E7%8E%B0%E5%AD%90%E5%AE%AB%EF%BC%9F%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大学老师卖两套房救助流浪狗20年](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E5%8D%96%E4%B8%A4%E5%A5%97%E6%88%BF%E6%95%91%E5%8A%A9%E6%B5%81%E6%B5%AA%E7%8B%9720%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [解清帅父亲：对大儿子也有愧疚](https://www.baidu.com/s?wd=%E8%A7%A3%E6%B8%85%E5%B8%85%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%AF%B9%E5%A4%A7%E5%84%BF%E5%AD%90%E4%B9%9F%E6%9C%89%E6%84%A7%E7%96%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [27岁华裔女精英陈尸家中 疑遭家暴](https://www.baidu.com/s?wd=27%E5%B2%81%E5%8D%8E%E8%A3%94%E5%A5%B3%E7%B2%BE%E8%8B%B1%E9%99%88%E5%B0%B8%E5%AE%B6%E4%B8%AD+%E7%96%91%E9%81%AD%E5%AE%B6%E6%9A%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友分享自家鹦鹉吃“断头饭”](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%88%86%E4%BA%AB%E8%87%AA%E5%AE%B6%E9%B9%A6%E9%B9%89%E5%90%83%E2%80%9C%E6%96%AD%E5%A4%B4%E9%A5%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼吸道疾病的这些谣言别轻信](https://www.baidu.com/s?wd=%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E7%9A%84%E8%BF%99%E4%BA%9B%E8%B0%A3%E8%A8%80%E5%88%AB%E8%BD%BB%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
