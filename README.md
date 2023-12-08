@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 08:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 08:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [这视角好像和魏大勋谈了](https://s.weibo.com/weibo?q=%E8%BF%99%E8%A7%86%E8%A7%92%E5%A5%BD%E5%83%8F%E5%92%8C%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%B0%88%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [睡眠真的超级重要](https://s.weibo.com/weibo?q=%E7%9D%A1%E7%9C%A0%E7%9C%9F%E7%9A%84%E8%B6%85%E7%BA%A7%E9%87%8D%E8%A6%81&t=31&band_rank=7&Refer=top)<br />
 8. [GQ的小船 尴尬](https://s.weibo.com/weibo?q=GQ%E7%9A%84%E5%B0%8F%E8%88%B9%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=8&Refer=top)<br />
-9. [张镇麟求婚](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%95%87%E9%BA%9F%E6%B1%82%E5%A9%9A&t=31&band_rank=9&Refer=top)<br />
+9. [山东震感](https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E9%9C%87%E6%84%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
