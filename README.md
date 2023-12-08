@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 20:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 20:02:01</h4></div>
 
 > 微博  
 
 1. [瑞幸星巴克 致癌物](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E6%98%9F%E5%B7%B4%E5%85%8B%20%E8%87%B4%E7%99%8C%E7%89%A9&t=31&band_rank=1&Refer=top)<br />
-2. [出狱人员履约请监狱民警喝可乐](https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%8B%B1%E4%BA%BA%E5%91%98%E5%B1%A5%E7%BA%A6%E8%AF%B7%E7%9B%91%E7%8B%B1%E6%B0%91%E8%AD%A6%E5%96%9D%E5%8F%AF%E4%B9%90%23&t=31&band_rank=2&Refer=top)<br />
+2. [春雨面膜退出中国市场](https://s.weibo.com/weibo?q=%23%E6%98%A5%E9%9B%A8%E9%9D%A2%E8%86%9C%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%23&t=31&band_rank=2&Refer=top)<br />
 3. [6问6答了解流感用药注意事项](https://s.weibo.com/weibo?q=%236%E9%97%AE6%E7%AD%94%E4%BA%86%E8%A7%A3%E6%B5%81%E6%84%9F%E7%94%A8%E8%8D%AF%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%23&t=31&band_rank=3&Refer=top)<br />
-4. [春雨面膜退出中国市场](https://s.weibo.com/weibo?q=%23%E6%98%A5%E9%9B%A8%E9%9D%A2%E8%86%9C%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%23&t=31&band_rank=4&Refer=top)<br />
-5. [女儿带74岁父亲同住养老院6年](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%B8%A674%E5%B2%81%E7%88%B6%E4%BA%B2%E5%90%8C%E4%BD%8F%E5%85%BB%E8%80%81%E9%99%A26%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
-6. [新闻女王 烂尾](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E7%83%82%E5%B0%BE&t=31&band_rank=6&Refer=top)<br />
-7. [妻子放狠话式督促脑梗丈夫跑步3年](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E6%94%BE%E7%8B%A0%E8%AF%9D%E5%BC%8F%E7%9D%A3%E4%BF%83%E8%84%91%E6%A2%97%E4%B8%88%E5%A4%AB%E8%B7%91%E6%AD%A53%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [普京将在2024年竞选总统](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%B0%86%E5%9C%A82024%E5%B9%B4%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [小杨哥徒弟复播仅3分钟再被封](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E5%A4%8D%E6%92%AD%E4%BB%853%E5%88%86%E9%92%9F%E5%86%8D%E8%A2%AB%E5%B0%81%23&t=31&band_rank=9&Refer=top)<br />
+4. [新闻女王 烂尾](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E7%83%82%E5%B0%BE&t=31&band_rank=4&Refer=top)<br />
+5. [普京将在2024年竞选总统](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%B0%86%E5%9C%A82024%E5%B9%B4%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F%23&t=31&band_rank=5&Refer=top)<br />
+6. [出狱人员履约请监狱民警喝可乐](https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%8B%B1%E4%BA%BA%E5%91%98%E5%B1%A5%E7%BA%A6%E8%AF%B7%E7%9B%91%E7%8B%B1%E6%B0%91%E8%AD%A6%E5%96%9D%E5%8F%AF%E4%B9%90%23&t=31&band_rank=6&Refer=top)<br />
+7. [小杨哥徒弟复播仅3分钟再被封](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E5%A4%8D%E6%92%AD%E4%BB%853%E5%88%86%E9%92%9F%E5%86%8D%E8%A2%AB%E5%B0%81%23&t=31&band_rank=7&Refer=top)<br />
+8. [LPL全明星 录播](https://s.weibo.com/weibo?q=LPL%E5%85%A8%E6%98%8E%E6%98%9F%20%E5%BD%95%E6%92%AD&t=31&band_rank=8&Refer=top)<br />
+9. [女儿带74岁父亲同住养老院6年](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%B8%A674%E5%B2%81%E7%88%B6%E4%BA%B2%E5%90%8C%E4%BD%8F%E5%85%BB%E8%80%81%E9%99%A26%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
