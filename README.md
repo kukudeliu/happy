@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 11:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 11:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [断崖式衰老女子本人发声](https://s.weibo.com/weibo?q=%23%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%E5%A5%B3%E5%AD%90%E6%9C%AC%E4%BA%BA%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国福彩客服证实2.2亿巨奖系同一人所中](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A6%8F%E5%BD%A9%E5%AE%A2%E6%9C%8D%E8%AF%81%E5%AE%9E2.2%E4%BA%BF%E5%B7%A8%E5%A5%96%E7%B3%BB%E5%90%8C%E4%B8%80%E4%BA%BA%E6%89%80%E4%B8%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [黑神话悟空定档](https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=9&Refer=top)<br />
+9. [GQ 坐船时长](https://s.weibo.com/weibo?q=GQ%20%E5%9D%90%E8%88%B9%E6%97%B6%E9%95%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
