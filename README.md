@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 17:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 17:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [新闻女王结局 黄宗泽](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E7%BB%93%E5%B1%80%20%E9%BB%84%E5%AE%97%E6%B3%BD&t=31&band_rank=5&Refer=top)<br />
 6. [刘宇宁再次回应被AI换脸](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%86%8D%E6%AC%A1%E5%9B%9E%E5%BA%94%E8%A2%ABAI%E6%8D%A2%E8%84%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [每天喝12kg咖啡才能达到致癌量](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%96%9D12kg%E5%92%96%E5%95%A1%E6%89%8D%E8%83%BD%E8%BE%BE%E5%88%B0%E8%87%B4%E7%99%8C%E9%87%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [女孩租房2年退房时被房东奖励500元](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF2%E5%B9%B4%E9%80%80%E6%88%BF%E6%97%B6%E8%A2%AB%E6%88%BF%E4%B8%9C%E5%A5%96%E5%8A%B1500%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨超越面部平整度](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%B6%85%E8%B6%8A%E9%9D%A2%E9%83%A8%E5%B9%B3%E6%95%B4%E5%BA%A6&t=31&band_rank=9&Refer=top)<br />
+8. [杨超越面部平整度](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%B6%85%E8%B6%8A%E9%9D%A2%E9%83%A8%E5%B9%B3%E6%95%B4%E5%BA%A6&t=31&band_rank=8&Refer=top)<br />
+9. [女孩租房2年退房时被房东奖励500元](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF2%E5%B9%B4%E9%80%80%E6%88%BF%E6%97%B6%E8%A2%AB%E6%88%BF%E4%B8%9C%E5%A5%96%E5%8A%B1500%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
