@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 20:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 20:27:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [6问6答了解流感用药注意事项](https://s.weibo.com/weibo?q=%236%E9%97%AE6%E7%AD%94%E4%BA%86%E8%A7%A3%E6%B5%81%E6%84%9F%E7%94%A8%E8%8D%AF%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [新闻女王 烂尾](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E7%83%82%E5%B0%BE&t=31&band_rank=4&Refer=top)<br />
 5. [女子实名举报武汉大学教授嫖娼赌博收回扣](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E5%AB%96%E5%A8%BC%E8%B5%8C%E5%8D%9A%E6%94%B6%E5%9B%9E%E6%89%A3%23&t=31&band_rank=5&Refer=top)<br />
-6. [普京将在2024年竞选总统](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%B0%86%E5%9C%A82024%E5%B9%B4%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [解清帅已辞职](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%B8%85%E5%B8%85%E5%B7%B2%E8%BE%9E%E8%81%8C%23&t=31&band_rank=7&Refer=top)<br />
+6. [解清帅已辞职](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%B8%85%E5%B8%85%E5%B7%B2%E8%BE%9E%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
+7. [普京将在2024年竞选总统](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%B0%86%E5%9C%A82024%E5%B9%B4%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [神隐定档海报](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E9%9A%90%E5%AE%9A%E6%A1%A3%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [英国首相迎外宾被锁门外近20秒](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E8%BF%8E%E5%A4%96%E5%AE%BE%E8%A2%AB%E9%94%81%E9%97%A8%E5%A4%96%E8%BF%9120%E7%A7%92%23&t=31&band_rank=9&Refer=top)<br />
 
