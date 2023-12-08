@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 19:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 19:43:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女儿带74岁父亲同住养老院6年](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%B8%A674%E5%B2%81%E7%88%B6%E4%BA%B2%E5%90%8C%E4%BD%8F%E5%85%BB%E8%80%81%E9%99%A26%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [新闻女王 烂尾](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E7%83%82%E5%B0%BE&t=31&band_rank=6&Refer=top)<br />
 7. [妻子放狠话式督促脑梗丈夫跑步3年](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E6%94%BE%E7%8B%A0%E8%AF%9D%E5%BC%8F%E7%9D%A3%E4%BF%83%E8%84%91%E6%A2%97%E4%B8%88%E5%A4%AB%E8%B7%91%E6%AD%A53%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [小杨哥徒弟复播仅3分钟再被封](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E5%A4%8D%E6%92%AD%E4%BB%853%E5%88%86%E9%92%9F%E5%86%8D%E8%A2%AB%E5%B0%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [普京将在2024年竞选总统](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%B0%86%E5%9C%A82024%E5%B9%B4%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [普京将在2024年竞选总统](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%B0%86%E5%9C%A82024%E5%B9%B4%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [小杨哥徒弟复播仅3分钟再被封](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E5%A4%8D%E6%92%AD%E4%BB%853%E5%88%86%E9%92%9F%E5%86%8D%E8%A2%AB%E5%B0%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
