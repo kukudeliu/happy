@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 21:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 21:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [新闻女王 烂尾](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E7%83%82%E5%B0%BE&t=31&band_rank=6&Refer=top)<br />
 7. [老公胃癌晚期老婆要卖房治疗医生劝她冷静](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%85%AC%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%E8%80%81%E5%A9%86%E8%A6%81%E5%8D%96%E6%88%BF%E6%B2%BB%E7%96%97%E5%8C%BB%E7%94%9F%E5%8A%9D%E5%A5%B9%E5%86%B7%E9%9D%99%23&t=31&band_rank=7&Refer=top)<br />
 8. [春雨面膜退出中国市场](https://s.weibo.com/weibo?q=%23%E6%98%A5%E9%9B%A8%E9%9D%A2%E8%86%9C%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [新闻女王 第二季](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E7%AC%AC%E4%BA%8C%E5%AD%A3&t=31&band_rank=9&Refer=top)<br />
+9. [杨丽萍 王牌对王牌](https://s.weibo.com/weibo?q=%E6%9D%A8%E4%B8%BD%E8%90%8D%20%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
