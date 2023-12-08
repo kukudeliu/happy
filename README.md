@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 21:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 21:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [米哈游的米是小米的米](https://s.weibo.com/weibo?q=%E7%B1%B3%E5%93%88%E6%B8%B8%E7%9A%84%E7%B1%B3%E6%98%AF%E5%B0%8F%E7%B1%B3%E7%9A%84%E7%B1%B3&t=31&band_rank=6&Refer=top)<br />
 7. [新闻女王 烂尾](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E7%83%82%E5%B0%BE&t=31&band_rank=7&Refer=top)<br />
 8. [杨丽萍 王牌对王牌](https://s.weibo.com/weibo?q=%E6%9D%A8%E4%B8%BD%E8%90%8D%20%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C&t=31&band_rank=8&Refer=top)<br />
-9. [春雨面膜退出中国市场](https://s.weibo.com/weibo?q=%23%E6%98%A5%E9%9B%A8%E9%9D%A2%E8%86%9C%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [全网都知道你爸妈吵架的秘密了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E9%83%BD%E7%9F%A5%E9%81%93%E4%BD%A0%E7%88%B8%E5%A6%88%E5%90%B5%E6%9E%B6%E7%9A%84%E7%A7%98%E5%AF%86%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
