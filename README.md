@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 07:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 07:04:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女子银行办业务柜员闭目葛优瘫](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%93%B6%E8%A1%8C%E5%8A%9E%E4%B8%9A%E5%8A%A1%E6%9F%9C%E5%91%98%E9%97%AD%E7%9B%AE%E8%91%9B%E4%BC%98%E7%98%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [苗苗钟楚曦六年后再跳绒花](https://s.weibo.com/weibo?q=%23%E8%8B%97%E8%8B%97%E9%92%9F%E6%A5%9A%E6%9B%A6%E5%85%AD%E5%B9%B4%E5%90%8E%E5%86%8D%E8%B7%B3%E7%BB%92%E8%8A%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [小杨哥徒弟复播仅3分钟再被封](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E5%A4%8D%E6%92%AD%E4%BB%853%E5%88%86%E9%92%9F%E5%86%8D%E8%A2%AB%E5%B0%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [青岛一小区保安持刀连捅外卖员数刀](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E4%B8%80%E5%B0%8F%E5%8C%BA%E4%BF%9D%E5%AE%89%E6%8C%81%E5%88%80%E8%BF%9E%E6%8D%85%E5%A4%96%E5%8D%96%E5%91%98%E6%95%B0%E5%88%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [杨幂工作室 挡了又好像没挡](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E6%8C%A1%E4%BA%86%E5%8F%88%E5%A5%BD%E5%83%8F%E6%B2%A1%E6%8C%A1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
