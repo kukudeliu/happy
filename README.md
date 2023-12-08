@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 10:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 10:30:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [男子CT报告现子宫？院方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90CT%E6%8A%A5%E5%91%8A%E7%8E%B0%E5%AD%90%E5%AE%AB%EF%BC%9F%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [27岁华裔女精英陈尸家中 疑遭家暴](https://www.baidu.com/s?wd=27%E5%B2%81%E5%8D%8E%E8%A3%94%E5%A5%B3%E7%B2%BE%E8%8B%B1%E9%99%88%E5%B0%B8%E5%AE%B6%E4%B8%AD+%E7%96%91%E9%81%AD%E5%AE%B6%E6%9A%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [地铁安检员对着空气安检？将整改](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E5%AE%89%E6%A3%80%E5%91%98%E5%AF%B9%E7%9D%80%E7%A9%BA%E6%B0%94%E5%AE%89%E6%A3%80%EF%BC%9F%E5%B0%86%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [2男子自学“盗墓技能”挖10座古墓](https://www.baidu.com/s?wd=2%E7%94%B7%E5%AD%90%E8%87%AA%E5%AD%A6%E2%80%9C%E7%9B%97%E5%A2%93%E6%8A%80%E8%83%BD%E2%80%9D%E6%8C%9610%E5%BA%A7%E5%8F%A4%E5%A2%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子离婚4年被追还债发现自己成老赖](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A4%E5%B9%B4%E8%A2%AB%E8%BF%BD%E8%BF%98%E5%80%BA%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E6%88%90%E8%80%81%E8%B5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [开新能源汽车辐射大会致癌？](https://www.baidu.com/s?wd=%E5%BC%80%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BE%90%E5%B0%84%E5%A4%A7%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男子CT报告现子宫？院方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90CT%E6%8A%A5%E5%91%8A%E7%8E%B0%E5%AD%90%E5%AE%AB%EF%BC%9F%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [27岁华裔女精英陈尸家中 疑遭家暴](https://www.baidu.com/s?wd=27%E5%B2%81%E5%8D%8E%E8%A3%94%E5%A5%B3%E7%B2%BE%E8%8B%B1%E9%99%88%E5%B0%B8%E5%AE%B6%E4%B8%AD+%E7%96%91%E9%81%AD%E5%AE%B6%E6%9A%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [地铁安检员对着空气安检？将整改](https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E5%AE%89%E6%A3%80%E5%91%98%E5%AF%B9%E7%9D%80%E7%A9%BA%E6%B0%94%E5%AE%89%E6%A3%80%EF%BC%9F%E5%B0%86%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [2男子自学“盗墓技能”挖10座古墓](https://www.baidu.com/s?wd=2%E7%94%B7%E5%AD%90%E8%87%AA%E5%AD%A6%E2%80%9C%E7%9B%97%E5%A2%93%E6%8A%80%E8%83%BD%E2%80%9D%E6%8C%9610%E5%BA%A7%E5%8F%A4%E5%A2%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子离婚4年被追还债发现自己成老赖](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A4%E5%B9%B4%E8%A2%AB%E8%BF%BD%E8%BF%98%E5%80%BA%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E6%88%90%E8%80%81%E8%B5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [开新能源汽车辐射大会致癌？](https://www.baidu.com/s?wd=%E5%BC%80%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BE%90%E5%B0%84%E5%A4%A7%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
