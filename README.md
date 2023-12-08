@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 14:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 14:53:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [私下查询公民个人信息涉嫌犯罪](https://s.weibo.com/weibo?q=%23%E7%A7%81%E4%B8%8B%E6%9F%A5%E8%AF%A2%E5%85%AC%E6%B0%91%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E6%B6%89%E5%AB%8C%E7%8A%AF%E7%BD%AA%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴逼秦岚看自己换衣服](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%80%BC%E7%A7%A6%E5%B2%9A%E7%9C%8B%E8%87%AA%E5%B7%B1%E6%8D%A2%E8%A1%A3%E6%9C%8D&t=31&band_rank=7&Refer=top)<br />
 8. [GQ出图了](https://s.weibo.com/weibo?q=%23GQ%E5%87%BA%E5%9B%BE%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [JDG官宣Yagao回归](https://s.weibo.com/weibo?q=%23JDG%E5%AE%98%E5%AE%A3Yagao%E5%9B%9E%E5%BD%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [以色列内阁部长儿子阵亡](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%85%E9%98%81%E9%83%A8%E9%95%BF%E5%84%BF%E5%AD%90%E9%98%B5%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
