@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 20:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 20:47:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [新闻女王 烂尾](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E7%83%82%E5%B0%BE&t=31&band_rank=5&Refer=top)<br />
 6. [瑞幸星巴克 致癌物](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E6%98%9F%E5%B7%B4%E5%85%8B%20%E8%87%B4%E7%99%8C%E7%89%A9&t=31&band_rank=6&Refer=top)<br />
 7. [新闻女王 第二季](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E7%AC%AC%E4%BA%8C%E5%AD%A3&t=31&band_rank=7&Refer=top)<br />
-8. [小时候偷看老外 如此明显](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%B6%E5%80%99%E5%81%B7%E7%9C%8B%E8%80%81%E5%A4%96%20%E5%A6%82%E6%AD%A4%E6%98%8E%E6%98%BE&t=31&band_rank=8&Refer=top)<br />
-9. [GQ船上外景](https://s.weibo.com/weibo?q=GQ%E8%88%B9%E4%B8%8A%E5%A4%96%E6%99%AF&t=31&band_rank=9&Refer=top)<br />
+8. [GQ船上外景](https://s.weibo.com/weibo?q=GQ%E8%88%B9%E4%B8%8A%E5%A4%96%E6%99%AF&t=31&band_rank=8&Refer=top)<br />
+9. [小时候偷看老外 如此明显](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%B6%E5%80%99%E5%81%B7%E7%9C%8B%E8%80%81%E5%A4%96%20%E5%A6%82%E6%AD%A4%E6%98%8E%E6%98%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
