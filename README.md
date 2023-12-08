@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 09:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 09:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [彩票2.2亿](https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A5%A82.2%E4%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [北京公布元旦放假安排](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%85%AC%E5%B8%83%E5%85%83%E6%97%A6%E6%94%BE%E5%81%87%E5%AE%89%E6%8E%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [GQ 坐船时长](https://s.weibo.com/weibo?q=GQ%20%E5%9D%90%E8%88%B9%E6%97%B6%E9%95%BF&t=31&band_rank=7&Refer=top)<br />
-8. [Faker获TGA最佳电竞选手](https://s.weibo.com/weibo?q=%23Faker%E8%8E%B7TGA%E6%9C%80%E4%BD%B3%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [睡眠真的超级重要](https://s.weibo.com/weibo?q=%E7%9D%A1%E7%9C%A0%E7%9C%9F%E7%9A%84%E8%B6%85%E7%BA%A7%E9%87%8D%E8%A6%81&t=31&band_rank=9&Refer=top)<br />
+8. [睡眠真的超级重要](https://s.weibo.com/weibo?q=%E7%9D%A1%E7%9C%A0%E7%9C%9F%E7%9A%84%E8%B6%85%E7%BA%A7%E9%87%8D%E8%A6%81&t=31&band_rank=8&Refer=top)<br />
+9. [Faker获TGA最佳电竞选手](https://s.weibo.com/weibo?q=%23Faker%E8%8E%B7TGA%E6%9C%80%E4%BD%B3%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
