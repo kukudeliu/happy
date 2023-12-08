@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 15:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 15:05:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [黑龙江副省长王一新被查](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%89%AF%E7%9C%81%E9%95%BF%E7%8E%8B%E4%B8%80%E6%96%B0%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济韧性强亮点多](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%9F%A7%E6%80%A7%E5%BC%BA%E4%BA%AE%E7%82%B9%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [公职人员单位坠亡 警方：系自杀](https://www.baidu.com/s?wd=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%8D%95%E4%BD%8D%E5%9D%A0%E4%BA%A1+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%B3%BB%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [东南亚盯上中国游客 新泰马陆续免签](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8D%97%E4%BA%9A%E7%9B%AF%E4%B8%8A%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2+%E6%96%B0%E6%B3%B0%E9%A9%AC%E9%99%86%E7%BB%AD%E5%85%8D%E7%AD%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [初中生被同学打伤住院 亲属：仍昏迷](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E6%89%93%E4%BC%A4%E4%BD%8F%E9%99%A2+%E4%BA%B2%E5%B1%9E%EF%BC%9A%E4%BB%8D%E6%98%8F%E8%BF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [猴子强抢男子食物被踢开 景区回应](https://www.baidu.com/s?wd=%E7%8C%B4%E5%AD%90%E5%BC%BA%E6%8A%A2%E7%94%B7%E5%AD%90%E9%A3%9F%E7%89%A9%E8%A2%AB%E8%B8%A2%E5%BC%80+%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [生活服务软件为何扎堆求借钱](https://www.baidu.com/s?wd=%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1%E8%BD%AF%E4%BB%B6%E4%B8%BA%E4%BD%95%E6%89%8E%E5%A0%86%E6%B1%82%E5%80%9F%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [猴子强抢男子食物被踢开 景区回应](https://www.baidu.com/s?wd=%E7%8C%B4%E5%AD%90%E5%BC%BA%E6%8A%A2%E7%94%B7%E5%AD%90%E9%A3%9F%E7%89%A9%E8%A2%AB%E8%B8%A2%E5%BC%80+%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [初中生被同学打伤住院 亲属：仍昏迷](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E6%89%93%E4%BC%A4%E4%BD%8F%E9%99%A2+%E4%BA%B2%E5%B1%9E%EF%BC%9A%E4%BB%8D%E6%98%8F%E8%BF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼吸道疾病的这些谣言别轻信](https://www.baidu.com/s?wd=%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E7%9A%84%E8%BF%99%E4%BA%9B%E8%B0%A3%E8%A8%80%E5%88%AB%E8%BD%BB%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [黑龙江副省长王一新被查](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%89%AF%E7%9C%81%E9%95%BF%E7%8E%8B%E4%B8%80%E6%96%B0%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济韧性强亮点多](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%9F%A7%E6%80%A7%E5%BC%BA%E4%BA%AE%E7%82%B9%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [公职人员单位坠亡 警方：系自杀](https://www.baidu.com/s?wd=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%8D%95%E4%BD%8D%E5%9D%A0%E4%BA%A1+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%B3%BB%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [东南亚盯上中国游客 新泰马陆续免签](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8D%97%E4%BA%9A%E7%9B%AF%E4%B8%8A%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2+%E6%96%B0%E6%B3%B0%E9%A9%AC%E9%99%86%E7%BB%AD%E5%85%8D%E7%AD%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [初中生被同学打伤住院 亲属：仍昏迷](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E6%89%93%E4%BC%A4%E4%BD%8F%E9%99%A2+%E4%BA%B2%E5%B1%9E%EF%BC%9A%E4%BB%8D%E6%98%8F%E8%BF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [猴子强抢男子食物被踢开 景区回应](https://www.baidu.com/s?wd=%E7%8C%B4%E5%AD%90%E5%BC%BA%E6%8A%A2%E7%94%B7%E5%AD%90%E9%A3%9F%E7%89%A9%E8%A2%AB%E8%B8%A2%E5%BC%80+%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [生活服务软件为何扎堆求借钱](https://www.baidu.com/s?wd=%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1%E8%BD%AF%E4%BB%B6%E4%B8%BA%E4%BD%95%E6%89%8E%E5%A0%86%E6%B1%82%E5%80%9F%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [猴子强抢男子食物被踢开 景区回应](https://www.baidu.com/s?wd=%E7%8C%B4%E5%AD%90%E5%BC%BA%E6%8A%A2%E7%94%B7%E5%AD%90%E9%A3%9F%E7%89%A9%E8%A2%AB%E8%B8%A2%E5%BC%80+%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [初中生被同学打伤住院 亲属：仍昏迷](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E6%89%93%E4%BC%A4%E4%BD%8F%E9%99%A2+%E4%BA%B2%E5%B1%9E%EF%BC%9A%E4%BB%8D%E6%98%8F%E8%BF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼吸道疾病的这些谣言别轻信](https://www.baidu.com/s?wd=%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E7%9A%84%E8%BF%99%E4%BA%9B%E8%B0%A3%E8%A8%80%E5%88%AB%E8%BD%BB%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
