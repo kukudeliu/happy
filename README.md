@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 12:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 12:43:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [炎亚纶 谢谢证明清白](https://s.weibo.com/weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6%20%E8%B0%A2%E8%B0%A2%E8%AF%81%E6%98%8E%E6%B8%85%E7%99%BD&t=31&band_rank=4&Refer=top)<br />
 5. [刘冲 并没有尴尬谢谢](https://s.weibo.com/weibo?q=%E5%88%98%E5%86%B2%20%E5%B9%B6%E6%B2%A1%E6%9C%89%E5%B0%B4%E5%B0%AC%E8%B0%A2%E8%B0%A2&t=31&band_rank=5&Refer=top)<br />
 6. [银杏 活着直到被死神遗忘](https://s.weibo.com/weibo?q=%E9%93%B6%E6%9D%8F%20%E6%B4%BB%E7%9D%80%E7%9B%B4%E5%88%B0%E8%A2%AB%E6%AD%BB%E7%A5%9E%E9%81%97%E5%BF%98&t=31&band_rank=6&Refer=top)<br />
-7. [博德之门3获年度最佳游戏](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E5%BE%B7%E4%B9%8B%E9%97%A83%E8%8E%B7%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E6%B8%B8%E6%88%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [中国福彩客服证实2.2亿巨奖系同一人所中](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A6%8F%E5%BD%A9%E5%AE%A2%E6%9C%8D%E8%AF%81%E5%AE%9E2.2%E4%BA%BF%E5%B7%A8%E5%A5%96%E7%B3%BB%E5%90%8C%E4%B8%80%E4%BA%BA%E6%89%80%E4%B8%AD%23&t=31&band_rank=8&Refer=top)<br />
+7. [中国福彩客服证实2.2亿巨奖系同一人所中](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A6%8F%E5%BD%A9%E5%AE%A2%E6%9C%8D%E8%AF%81%E5%AE%9E2.2%E4%BA%BF%E5%B7%A8%E5%A5%96%E7%B3%BB%E5%90%8C%E4%B8%80%E4%BA%BA%E6%89%80%E4%B8%AD%23&t=31&band_rank=7&Refer=top)<br />
+8. [博德之门3获年度最佳游戏](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E5%BE%B7%E4%B9%8B%E9%97%A83%E8%8E%B7%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E6%B8%B8%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
 9. [詹姆斯投疯了](https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E6%8A%95%E7%96%AF%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
