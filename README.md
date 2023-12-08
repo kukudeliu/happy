@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 08:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 08:04:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [杨幂晒了三张小时候照片](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%99%92%E4%BA%86%E4%B8%89%E5%BC%A0%E5%B0%8F%E6%97%B6%E5%80%99%E7%85%A7%E7%89%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [GQ的小船 尴尬](https://s.weibo.com/weibo?q=GQ%E7%9A%84%E5%B0%8F%E8%88%B9%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=6&Refer=top)<br />
 7. [GQ 坐船时长](https://s.weibo.com/weibo?q=GQ%20%E5%9D%90%E8%88%B9%E6%97%B6%E9%95%BF&t=31&band_rank=7&Refer=top)<br />
-8. [这视角好像和魏大勋谈了](https://s.weibo.com/weibo?q=%E8%BF%99%E8%A7%86%E8%A7%92%E5%A5%BD%E5%83%8F%E5%92%8C%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%B0%88%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [张凌赫眼神就没离开过白鹿](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9C%BC%E7%A5%9E%E5%B0%B1%E6%B2%A1%E7%A6%BB%E5%BC%80%E8%BF%87%E7%99%BD%E9%B9%BF&t=31&band_rank=9&Refer=top)<br />
+8. [睡眠真的超级重要](https://s.weibo.com/weibo?q=%E7%9D%A1%E7%9C%A0%E7%9C%9F%E7%9A%84%E8%B6%85%E7%BA%A7%E9%87%8D%E8%A6%81&t=31&band_rank=8&Refer=top)<br />
+9. [倪妮 欢迎来参加我们的婚礼](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%8F%82%E5%8A%A0%E6%88%91%E4%BB%AC%E7%9A%84%E5%A9%9A%E7%A4%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
