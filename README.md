@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 18:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 18:55:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [出狱人员履约请监狱民警喝可乐](https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%8B%B1%E4%BA%BA%E5%91%98%E5%B1%A5%E7%BA%A6%E8%AF%B7%E7%9B%91%E7%8B%B1%E6%B0%91%E8%AD%A6%E5%96%9D%E5%8F%AF%E4%B9%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [小杨哥徒弟复播仅3分钟再被封](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E5%A4%8D%E6%92%AD%E4%BB%853%E5%88%86%E9%92%9F%E5%86%8D%E8%A2%AB%E5%B0%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [妻子放狠话式督促脑梗丈夫跑步3年](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E6%94%BE%E7%8B%A0%E8%AF%9D%E5%BC%8F%E7%9D%A3%E4%BF%83%E8%84%91%E6%A2%97%E4%B8%88%E5%A4%AB%E8%B7%91%E6%AD%A53%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨超越面部平整度](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%B6%85%E8%B6%8A%E9%9D%A2%E9%83%A8%E5%B9%B3%E6%95%B4%E5%BA%A6&t=31&band_rank=8&Refer=top)<br />
-9. [男子600元买本刮刮乐第3张刮出100万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90600%E5%85%83%E4%B9%B0%E6%9C%AC%E5%88%AE%E5%88%AE%E4%B9%90%E7%AC%AC3%E5%BC%A0%E5%88%AE%E5%87%BA100%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [男子600元买本刮刮乐第3张刮出100万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90600%E5%85%83%E4%B9%B0%E6%9C%AC%E5%88%AE%E5%88%AE%E4%B9%90%E7%AC%AC3%E5%BC%A0%E5%88%AE%E5%87%BA100%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [杨超越面部平整度](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%B6%85%E8%B6%8A%E9%9D%A2%E9%83%A8%E5%B9%B3%E6%95%B4%E5%BA%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
