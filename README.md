@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 09:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 09:57:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [滚滚江水见证生态转型发展之路](https://s.weibo.com/weibo?q=%23%E6%BB%9A%E6%BB%9A%E6%B1%9F%E6%B0%B4%E8%A7%81%E8%AF%81%E7%94%9F%E6%80%81%E8%BD%AC%E5%9E%8B%E5%8F%91%E5%B1%95%E4%B9%8B%E8%B7%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨幂杨紫王一博坐一桌](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E6%9D%A8%E7%B4%AB%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%9D%90%E4%B8%80%E6%A1%8C&t=31&band_rank=4&Refer=top)<br />
 5. [彩票2.2亿](https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A5%A82.2%E4%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
-6. [Faker获TGA最佳电竞选手](https://s.weibo.com/weibo?q=%23Faker%E8%8E%B7TGA%E6%9C%80%E4%BD%B3%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%23&t=31&band_rank=6&Refer=top)<br />
+6. [种地吧直播迟到了](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7%E7%9B%B4%E6%92%AD%E8%BF%9F%E5%88%B0%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [GQ 坐船时长](https://s.weibo.com/weibo?q=GQ%20%E5%9D%90%E8%88%B9%E6%97%B6%E9%95%BF&t=31&band_rank=7&Refer=top)<br />
-8. [睡眠真的超级重要](https://s.weibo.com/weibo?q=%E7%9D%A1%E7%9C%A0%E7%9C%9F%E7%9A%84%E8%B6%85%E7%BA%A7%E9%87%8D%E8%A6%81&t=31&band_rank=8&Refer=top)<br />
-9. [北京公布元旦放假安排](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%85%AC%E5%B8%83%E5%85%83%E6%97%A6%E6%94%BE%E5%81%87%E5%AE%89%E6%8E%92%23&t=31&band_rank=9&Refer=top)<br />
+8. [Faker获TGA最佳电竞选手](https://s.weibo.com/weibo?q=%23Faker%E8%8E%B7TGA%E6%9C%80%E4%BD%B3%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [睡眠真的超级重要](https://s.weibo.com/weibo?q=%E7%9D%A1%E7%9C%A0%E7%9C%9F%E7%9A%84%E8%B6%85%E7%BA%A7%E9%87%8D%E8%A6%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
