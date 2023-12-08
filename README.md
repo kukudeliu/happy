@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 17:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 17:22:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [今冬首场大范围寒潮天气来袭](https://www.baidu.com/s?wd=%E4%BB%8A%E5%86%AC%E9%A6%96%E5%9C%BA%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%AF%92%E6%BD%AE%E5%A4%A9%E6%B0%94%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [汤唯首度回应离婚传闻](https://www.baidu.com/s?wd=%E6%B1%A4%E5%94%AF%E9%A6%96%E5%BA%A6%E5%9B%9E%E5%BA%94%E7%A6%BB%E5%A9%9A%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [51个转基因品种获审定通过](https://www.baidu.com/s?wd=51%E4%B8%AA%E8%BD%AC%E5%9F%BA%E5%9B%A0%E5%93%81%E7%A7%8D%E8%8E%B7%E5%AE%A1%E5%AE%9A%E9%80%9A%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [留学生嫌邻居太吵投毒被逐回国](https://www.baidu.com/s?wd=%E7%95%99%E5%AD%A6%E7%94%9F%E5%AB%8C%E9%82%BB%E5%B1%85%E5%A4%AA%E5%90%B5%E6%8A%95%E6%AF%92%E8%A2%AB%E9%80%90%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [赛琳娜退网](https://www.baidu.com/s?wd=%E8%B5%9B%E7%90%B3%E5%A8%9C%E9%80%80%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京互联网举报典型案例公布](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%BE%E6%8A%A5%E5%85%B8%E5%9E%8B%E6%A1%88%E4%BE%8B%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [今冬首场大范围寒潮天气来袭](https://www.baidu.com/s?wd=%E4%BB%8A%E5%86%AC%E9%A6%96%E5%9C%BA%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%AF%92%E6%BD%AE%E5%A4%A9%E6%B0%94%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [汤唯首度回应离婚传闻](https://www.baidu.com/s?wd=%E6%B1%A4%E5%94%AF%E9%A6%96%E5%BA%A6%E5%9B%9E%E5%BA%94%E7%A6%BB%E5%A9%9A%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [51个转基因品种获审定通过](https://www.baidu.com/s?wd=51%E4%B8%AA%E8%BD%AC%E5%9F%BA%E5%9B%A0%E5%93%81%E7%A7%8D%E8%8E%B7%E5%AE%A1%E5%AE%9A%E9%80%9A%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [留学生嫌邻居太吵投毒被逐回国](https://www.baidu.com/s?wd=%E7%95%99%E5%AD%A6%E7%94%9F%E5%AB%8C%E9%82%BB%E5%B1%85%E5%A4%AA%E5%90%B5%E6%8A%95%E6%AF%92%E8%A2%AB%E9%80%90%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [赛琳娜退网](https://www.baidu.com/s?wd=%E8%B5%9B%E7%90%B3%E5%A8%9C%E9%80%80%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京互联网举报典型案例公布](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%BE%E6%8A%A5%E5%85%B8%E5%9E%8B%E6%A1%88%E4%BE%8B%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
