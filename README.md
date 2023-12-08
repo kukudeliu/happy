@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 15:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 15:56:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [田曦薇走路炸毛](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E8%B5%B0%E8%B7%AF%E7%82%B8%E6%AF%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴逼秦岚看自己换衣服](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%80%BC%E7%A7%A6%E5%B2%9A%E7%9C%8B%E8%87%AA%E5%B7%B1%E6%8D%A2%E8%A1%A3%E6%9C%8D&t=31&band_rank=7&Refer=top)<br />
 8. [以色列内阁部长儿子阵亡](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%85%E9%98%81%E9%83%A8%E9%95%BF%E5%84%BF%E5%AD%90%E9%98%B5%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [西安警方回应警务人员维护偶像威胁网民](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E8%AD%A6%E5%8A%A1%E4%BA%BA%E5%91%98%E7%BB%B4%E6%8A%A4%E5%81%B6%E5%83%8F%E5%A8%81%E8%83%81%E7%BD%91%E6%B0%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [GQ出图了](https://s.weibo.com/weibo?q=%23GQ%E5%87%BA%E5%9B%BE%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
