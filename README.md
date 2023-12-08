@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 18:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 18:12:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [张朝阳称一辈子租房就有闲钱养孩子](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%E7%A7%B0%E4%B8%80%E8%BE%88%E5%AD%90%E7%A7%9F%E6%88%BF%E5%B0%B1%E6%9C%89%E9%97%B2%E9%92%B1%E5%85%BB%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [59款咖啡检出致癌物 涉及瑞幸星巴克](https://www.baidu.com/s?wd=59%E6%AC%BE%E5%92%96%E5%95%A1%E6%A3%80%E5%87%BA%E8%87%B4%E7%99%8C%E7%89%A9+%E6%B6%89%E5%8F%8A%E7%91%9E%E5%B9%B8%E6%98%9F%E5%B7%B4%E5%85%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [7项个税专项附加扣除 一图看明白](https://www.baidu.com/s?wd=7%E9%A1%B9%E4%B8%AA%E7%A8%8E%E4%B8%93%E9%A1%B9%E9%99%84%E5%8A%A0%E6%89%A3%E9%99%A4+%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%98%8E%E7%99%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [公司招聘员工要求“来自农村”](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E6%8B%9B%E8%81%98%E5%91%98%E5%B7%A5%E8%A6%81%E6%B1%82%E2%80%9C%E6%9D%A5%E8%87%AA%E5%86%9C%E6%9D%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2023潮流热点](https://www.baidu.com/s?wd=2023%E6%BD%AE%E6%B5%81%E7%83%AD%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京互联网举报典型案例公布](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%BE%E6%8A%A5%E5%85%B8%E5%9E%8B%E6%A1%88%E4%BE%8B%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [张朝阳称一辈子租房就有闲钱养孩子](https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%E7%A7%B0%E4%B8%80%E8%BE%88%E5%AD%90%E7%A7%9F%E6%88%BF%E5%B0%B1%E6%9C%89%E9%97%B2%E9%92%B1%E5%85%BB%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [59款咖啡检出致癌物 涉及瑞幸星巴克](https://www.baidu.com/s?wd=59%E6%AC%BE%E5%92%96%E5%95%A1%E6%A3%80%E5%87%BA%E8%87%B4%E7%99%8C%E7%89%A9+%E6%B6%89%E5%8F%8A%E7%91%9E%E5%B9%B8%E6%98%9F%E5%B7%B4%E5%85%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [7项个税专项附加扣除 一图看明白](https://www.baidu.com/s?wd=7%E9%A1%B9%E4%B8%AA%E7%A8%8E%E4%B8%93%E9%A1%B9%E9%99%84%E5%8A%A0%E6%89%A3%E9%99%A4+%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%98%8E%E7%99%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [公司招聘员工要求“来自农村”](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E6%8B%9B%E8%81%98%E5%91%98%E5%B7%A5%E8%A6%81%E6%B1%82%E2%80%9C%E6%9D%A5%E8%87%AA%E5%86%9C%E6%9D%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2023潮流热点](https://www.baidu.com/s?wd=2023%E6%BD%AE%E6%B5%81%E7%83%AD%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京互联网举报典型案例公布](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%BE%E6%8A%A5%E5%85%B8%E5%9E%8B%E6%A1%88%E4%BE%8B%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
