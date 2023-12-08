@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 20:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 20:08:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [新闻女王 烂尾](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E7%83%82%E5%B0%BE&t=31&band_rank=4&Refer=top)<br />
 5. [普京将在2024年竞选总统](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%B0%86%E5%9C%A82024%E5%B9%B4%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [小杨哥徒弟复播仅3分钟再被封](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E5%A4%8D%E6%92%AD%E4%BB%853%E5%88%86%E9%92%9F%E5%86%8D%E8%A2%AB%E5%B0%81%23&t=31&band_rank=6&Refer=top)<br />
-7. [LPL全明星 录播](https://s.weibo.com/weibo?q=LPL%E5%85%A8%E6%98%8E%E6%98%9F%20%E5%BD%95%E6%92%AD&t=31&band_rank=7&Refer=top)<br />
-8. [英国首相迎外宾被锁门外近20秒](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E8%BF%8E%E5%A4%96%E5%AE%BE%E8%A2%AB%E9%94%81%E9%97%A8%E5%A4%96%E8%BF%9120%E7%A7%92%23&t=31&band_rank=8&Refer=top)<br />
+7. [英国首相迎外宾被锁门外近20秒](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E8%BF%8E%E5%A4%96%E5%AE%BE%E8%A2%AB%E9%94%81%E9%97%A8%E5%A4%96%E8%BF%9120%E7%A7%92%23&t=31&band_rank=7&Refer=top)<br />
+8. [LPL全明星 录播](https://s.weibo.com/weibo?q=LPL%E5%85%A8%E6%98%8E%E6%98%9F%20%E5%BD%95%E6%92%AD&t=31&band_rank=8&Refer=top)<br />
 9. [汪苏泷 别老让我评价别的歌手](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%20%E5%88%AB%E8%80%81%E8%AE%A9%E6%88%91%E8%AF%84%E4%BB%B7%E5%88%AB%E7%9A%84%E6%AD%8C%E6%89%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
