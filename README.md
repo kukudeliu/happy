@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 20:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 20:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [普京将在2024年竞选总统](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%B0%86%E5%9C%A82024%E5%B9%B4%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [神隐定档海报](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E9%9A%90%E5%AE%9A%E6%A1%A3%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [英国首相迎外宾被锁门外近20秒](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E8%BF%8E%E5%A4%96%E5%AE%BE%E8%A2%AB%E9%94%81%E9%97%A8%E5%A4%96%E8%BF%9120%E7%A7%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [小杨哥徒弟复播仅3分钟再被封](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E5%A4%8D%E6%92%AD%E4%BB%853%E5%88%86%E9%92%9F%E5%86%8D%E8%A2%AB%E5%B0%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [解清帅已辞职](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%B8%85%E5%B8%85%E5%B7%B2%E8%BE%9E%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
