@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 20:34:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 20:35:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [新闻女王 烂尾](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E7%83%82%E5%B0%BE&t=31&band_rank=6&Refer=top)<br />
 7. [神隐定档海报](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E9%9A%90%E5%AE%9A%E6%A1%A3%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [普京将在2024年竞选总统](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%B0%86%E5%9C%A82024%E5%B9%B4%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [英国首相迎外宾被锁门外近20秒](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E8%BF%8E%E5%A4%96%E5%AE%BE%E8%A2%AB%E9%94%81%E9%97%A8%E5%A4%96%E8%BF%9120%E7%A7%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [小时候偷看老外 如此明显](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%B6%E5%80%99%E5%81%B7%E7%9C%8B%E8%80%81%E5%A4%96%20%E5%A6%82%E6%AD%A4%E6%98%8E%E6%98%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
