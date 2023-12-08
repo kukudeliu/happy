@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 00:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 00:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黑色素瘤](https://s.weibo.com/weibo?q=%E9%BB%91%E8%89%B2%E7%B4%A0%E7%98%A4&t=31&band_rank=6&Refer=top)<br />
 7. [新闻女王 烂尾](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E7%83%82%E5%B0%BE&t=31&band_rank=7&Refer=top)<br />
 8. [偷偷藏不住 神隐隐不了](https://s.weibo.com/weibo?q=%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%20%E7%A5%9E%E9%9A%90%E9%9A%90%E4%B8%8D%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [青岛一小区保安持刀连捅外卖员数刀](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E4%B8%80%E5%B0%8F%E5%8C%BA%E4%BF%9D%E5%AE%89%E6%8C%81%E5%88%80%E8%BF%9E%E6%8D%85%E5%A4%96%E5%8D%96%E5%91%98%E6%95%B0%E5%88%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [GQ 排他list艺人](https://s.weibo.com/weibo?q=GQ%20%E6%8E%92%E4%BB%96list%E8%89%BA%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
