@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 08:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 08:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [北京公布元旦放假安排](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%85%AC%E5%B8%83%E5%85%83%E6%97%A6%E6%94%BE%E5%81%87%E5%AE%89%E6%8E%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [这视角好像和魏大勋谈了](https://s.weibo.com/weibo?q=%E8%BF%99%E8%A7%86%E8%A7%92%E5%A5%BD%E5%83%8F%E5%92%8C%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%B0%88%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [GQ的小船 尴尬](https://s.weibo.com/weibo?q=GQ%E7%9A%84%E5%B0%8F%E8%88%B9%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=8&Refer=top)<br />
-9. [睡眠真的超级重要](https://s.weibo.com/weibo?q=%E7%9D%A1%E7%9C%A0%E7%9C%9F%E7%9A%84%E8%B6%85%E7%BA%A7%E9%87%8D%E8%A6%81&t=31&band_rank=9&Refer=top)<br />
+9. [为了吃中餐混进群聊的外国教授](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BA%86%E5%90%83%E4%B8%AD%E9%A4%90%E6%B7%B7%E8%BF%9B%E7%BE%A4%E8%81%8A%E7%9A%84%E5%A4%96%E5%9B%BD%E6%95%99%E6%8E%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
