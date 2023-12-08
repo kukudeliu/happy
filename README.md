@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 23:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 23:01:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [虞书欣改妆](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%94%B9%E5%A6%86&t=31&band_rank=4&Refer=top)<br />
 5. [沈腾越跳杨丽萍的脸色越差](https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E8%B6%8A%E8%B7%B3%E6%9D%A8%E4%B8%BD%E8%90%8D%E7%9A%84%E8%84%B8%E8%89%B2%E8%B6%8A%E5%B7%AE&t=31&band_rank=5&Refer=top)<br />
 6. [解清帅已辞职](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%B8%85%E5%B8%85%E5%B7%B2%E8%BE%9E%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
-7. [女子实名举报武汉大学教授嫖娼赌博收回扣](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E5%AB%96%E5%A8%BC%E8%B5%8C%E5%8D%9A%E6%94%B6%E5%9B%9E%E6%89%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [谷爱凌 一个黑粉100个朋友](https://s.weibo.com/weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%20%E4%B8%80%E4%B8%AA%E9%BB%91%E7%B2%89100%E4%B8%AA%E6%9C%8B%E5%8F%8B&t=31&band_rank=8&Refer=top)<br />
+7. [谷爱凌 一个黑粉100个朋友](https://s.weibo.com/weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%20%E4%B8%80%E4%B8%AA%E9%BB%91%E7%B2%89100%E4%B8%AA%E6%9C%8B%E5%8F%8B&t=31&band_rank=7&Refer=top)<br />
+8. [女子实名举报武汉大学教授嫖娼赌博收回扣](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E5%AB%96%E5%A8%BC%E8%B5%8C%E5%8D%9A%E6%94%B6%E5%9B%9E%E6%89%A3%23&t=31&band_rank=8&Refer=top)<br />
 9. [新闻女王 烂尾](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E7%83%82%E5%B0%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
