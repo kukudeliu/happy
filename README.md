@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 15:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 15:22:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [公职人员单位坠亡 警方：系自杀](https://www.baidu.com/s?wd=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%8D%95%E4%BD%8D%E5%9D%A0%E4%BA%A1+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%B3%BB%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [知情人回应狗主人锁狗被疯狂攻击](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E5%9B%9E%E5%BA%94%E7%8B%97%E4%B8%BB%E4%BA%BA%E9%94%81%E7%8B%97%E8%A2%AB%E7%96%AF%E7%8B%82%E6%94%BB%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [猴子强抢男子食物被踢开 景区回应](https://www.baidu.com/s?wd=%E7%8C%B4%E5%AD%90%E5%BC%BA%E6%8A%A2%E7%94%B7%E5%AD%90%E9%A3%9F%E7%89%A9%E8%A2%AB%E8%B8%A2%E5%BC%80+%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [iPhone16或成苹果首款AI手机？](https://www.baidu.com/s?wd=iPhone16%E6%88%96%E6%88%90%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BEAI%E6%89%8B%E6%9C%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [尹锡悦带领韩国财阀釜山搞“吃播”](https://www.baidu.com/s?wd=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%B8%A6%E9%A2%86%E9%9F%A9%E5%9B%BD%E8%B4%A2%E9%98%80%E9%87%9C%E5%B1%B1%E6%90%9E%E2%80%9C%E5%90%83%E6%92%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼吸道疾病的这些谣言别轻信](https://www.baidu.com/s?wd=%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E7%9A%84%E8%BF%99%E4%BA%9B%E8%B0%A3%E8%A8%80%E5%88%AB%E8%BD%BB%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [公职人员单位坠亡 警方：系自杀](https://www.baidu.com/s?wd=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%8D%95%E4%BD%8D%E5%9D%A0%E4%BA%A1+%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%B3%BB%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [知情人回应狗主人锁狗被疯狂攻击](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E5%9B%9E%E5%BA%94%E7%8B%97%E4%B8%BB%E4%BA%BA%E9%94%81%E7%8B%97%E8%A2%AB%E7%96%AF%E7%8B%82%E6%94%BB%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [猴子强抢男子食物被踢开 景区回应](https://www.baidu.com/s?wd=%E7%8C%B4%E5%AD%90%E5%BC%BA%E6%8A%A2%E7%94%B7%E5%AD%90%E9%A3%9F%E7%89%A9%E8%A2%AB%E8%B8%A2%E5%BC%80+%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [iPhone16或成苹果首款AI手机？](https://www.baidu.com/s?wd=iPhone16%E6%88%96%E6%88%90%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BEAI%E6%89%8B%E6%9C%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [尹锡悦带领韩国财阀釜山搞“吃播”](https://www.baidu.com/s?wd=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%B8%A6%E9%A2%86%E9%9F%A9%E5%9B%BD%E8%B4%A2%E9%98%80%E9%87%9C%E5%B1%B1%E6%90%9E%E2%80%9C%E5%90%83%E6%92%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼吸道疾病的这些谣言别轻信](https://www.baidu.com/s?wd=%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E7%9A%84%E8%BF%99%E4%BA%9B%E8%B0%A3%E8%A8%80%E5%88%AB%E8%BD%BB%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
