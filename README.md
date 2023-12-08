@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 16:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 16:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [田曦薇走路炸毛](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E8%B5%B0%E8%B7%AF%E7%82%B8%E6%AF%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘宇宁再次回应被AI换脸](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%86%8D%E6%AC%A1%E5%9B%9E%E5%BA%94%E8%A2%ABAI%E6%8D%A2%E8%84%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [59款咖啡全部检查出致癌物](https://s.weibo.com/weibo?q=%2359%E6%AC%BE%E5%92%96%E5%95%A1%E5%85%A8%E9%83%A8%E6%A3%80%E6%9F%A5%E5%87%BA%E8%87%B4%E7%99%8C%E7%89%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [孟子义理想型标准](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E7%90%86%E6%83%B3%E5%9E%8B%E6%A0%87%E5%87%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [李一桐 陈都灵](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%B8%80%E6%A1%90%20%E9%99%88%E9%83%BD%E7%81%B5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
