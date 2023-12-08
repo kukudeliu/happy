@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 12:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 12:15:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [刘冲 并没有尴尬谢谢](https://s.weibo.com/weibo?q=%E5%88%98%E5%86%B2%20%E5%B9%B6%E6%B2%A1%E6%9C%89%E5%B0%B4%E5%B0%AC%E8%B0%A2%E8%B0%A2&t=31&band_rank=4&Refer=top)<br />
 5. [大张伟演唱会擅改演出内容被罚](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E6%BC%94%E5%94%B1%E4%BC%9A%E6%93%85%E6%94%B9%E6%BC%94%E5%87%BA%E5%86%85%E5%AE%B9%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [TGA2023](https://s.weibo.com/weibo?q=%23TGA2023%23&t=31&band_rank=6&Refer=top)<br />
-7. [电力局已经开始用激光炮修剪树枝了](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%8A%9B%E5%B1%80%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E7%94%A8%E6%BF%80%E5%85%89%E7%82%AE%E4%BF%AE%E5%89%AA%E6%A0%91%E6%9E%9D%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [医生说ICU很贵不要因为吃剩菜来](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AF%B4ICU%E5%BE%88%E8%B4%B5%E4%B8%8D%E8%A6%81%E5%9B%A0%E4%B8%BA%E5%90%83%E5%89%A9%E8%8F%9C%E6%9D%A5%23&t=31&band_rank=8&Refer=top)<br />
+7. [医生说ICU很贵不要因为吃剩菜来](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AF%B4ICU%E5%BE%88%E8%B4%B5%E4%B8%8D%E8%A6%81%E5%9B%A0%E4%B8%BA%E5%90%83%E5%89%A9%E8%8F%9C%E6%9D%A5%23&t=31&band_rank=7&Refer=top)<br />
+8. [电力局已经开始用激光炮修剪树枝了](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%8A%9B%E5%B1%80%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E7%94%A8%E6%BF%80%E5%85%89%E7%82%AE%E4%BF%AE%E5%89%AA%E6%A0%91%E6%9E%9D%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [詹姆斯投疯了](https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E6%8A%95%E7%96%AF%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
