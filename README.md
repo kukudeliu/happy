@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 09:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 09:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [银杏 活着直到被死神遗忘](https://s.weibo.com/weibo?q=%E9%93%B6%E6%9D%8F%20%E6%B4%BB%E7%9D%80%E7%9B%B4%E5%88%B0%E8%A2%AB%E6%AD%BB%E7%A5%9E%E9%81%97%E5%BF%98&t=31&band_rank=6&Refer=top)<br />
 7. [杨幂杨紫王一博坐一桌](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E6%9D%A8%E7%B4%AB%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%9D%90%E4%B8%80%E6%A1%8C&t=31&band_rank=7&Refer=top)<br />
 8. [睡眠真的超级重要](https://s.weibo.com/weibo?q=%E7%9D%A1%E7%9C%A0%E7%9C%9F%E7%9A%84%E8%B6%85%E7%BA%A7%E9%87%8D%E8%A6%81&t=31&band_rank=8&Refer=top)<br />
-9. [张镇麟求婚](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%95%87%E9%BA%9F%E6%B1%82%E5%A9%9A&t=31&band_rank=9&Refer=top)<br />
+9. [TGA2023](https://s.weibo.com/weibo?q=%23TGA2023%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
