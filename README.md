@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 11:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 11:34:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [看清中国经济回升向好大势](https://www.baidu.com/s?wd=%E7%9C%8B%E6%B8%85%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9B%9E%E5%8D%87%E5%90%91%E5%A5%BD%E5%A4%A7%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子CT报告现子宫？院方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90CT%E6%8A%A5%E5%91%8A%E7%8E%B0%E5%AD%90%E5%AE%AB%EF%BC%9F%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [27岁华裔女精英陈尸家中 疑遭家暴](https://www.baidu.com/s?wd=27%E5%B2%81%E5%8D%8E%E8%A3%94%E5%A5%B3%E7%B2%BE%E8%8B%B1%E9%99%88%E5%B0%B8%E5%AE%B6%E4%B8%AD+%E7%96%91%E9%81%AD%E5%AE%B6%E6%9A%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [锁匠协助警方开锁被炸身亡未获赔偿](https://www.baidu.com/s?wd=%E9%94%81%E5%8C%A0%E5%8D%8F%E5%8A%A9%E8%AD%A6%E6%96%B9%E5%BC%80%E9%94%81%E8%A2%AB%E7%82%B8%E8%BA%AB%E4%BA%A1%E6%9C%AA%E8%8E%B7%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苏州住建局人士：不允许降价不合适](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E4%BD%8F%E5%BB%BA%E5%B1%80%E4%BA%BA%E5%A3%AB%EF%BC%9A%E4%B8%8D%E5%85%81%E8%AE%B8%E9%99%8D%E4%BB%B7%E4%B8%8D%E5%90%88%E9%80%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [生活服务软件为何扎堆求借钱](https://www.baidu.com/s?wd=%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1%E8%BD%AF%E4%BB%B6%E4%B8%BA%E4%BD%95%E6%89%8E%E5%A0%86%E6%B1%82%E5%80%9F%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [锁匠协助警方开锁被炸身亡未获赔偿](https://www.baidu.com/s?wd=%E9%94%81%E5%8C%A0%E5%8D%8F%E5%8A%A9%E8%AD%A6%E6%96%B9%E5%BC%80%E9%94%81%E8%A2%AB%E7%82%B8%E8%BA%AB%E4%BA%A1%E6%9C%AA%E8%8E%B7%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼吸道疾病的这些谣言别轻信](https://www.baidu.com/s?wd=%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E7%9A%84%E8%BF%99%E4%BA%9B%E8%B0%A3%E8%A8%80%E5%88%AB%E8%BD%BB%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [看清中国经济回升向好大势](https://www.baidu.com/s?wd=%E7%9C%8B%E6%B8%85%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9B%9E%E5%8D%87%E5%90%91%E5%A5%BD%E5%A4%A7%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子CT报告现子宫？院方回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90CT%E6%8A%A5%E5%91%8A%E7%8E%B0%E5%AD%90%E5%AE%AB%EF%BC%9F%E9%99%A2%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [27岁华裔女精英陈尸家中 疑遭家暴](https://www.baidu.com/s?wd=27%E5%B2%81%E5%8D%8E%E8%A3%94%E5%A5%B3%E7%B2%BE%E8%8B%B1%E9%99%88%E5%B0%B8%E5%AE%B6%E4%B8%AD+%E7%96%91%E9%81%AD%E5%AE%B6%E6%9A%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [锁匠协助警方开锁被炸身亡未获赔偿](https://www.baidu.com/s?wd=%E9%94%81%E5%8C%A0%E5%8D%8F%E5%8A%A9%E8%AD%A6%E6%96%B9%E5%BC%80%E9%94%81%E8%A2%AB%E7%82%B8%E8%BA%AB%E4%BA%A1%E6%9C%AA%E8%8E%B7%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苏州住建局人士：不允许降价不合适](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E4%BD%8F%E5%BB%BA%E5%B1%80%E4%BA%BA%E5%A3%AB%EF%BC%9A%E4%B8%8D%E5%85%81%E8%AE%B8%E9%99%8D%E4%BB%B7%E4%B8%8D%E5%90%88%E9%80%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [生活服务软件为何扎堆求借钱](https://www.baidu.com/s?wd=%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1%E8%BD%AF%E4%BB%B6%E4%B8%BA%E4%BD%95%E6%89%8E%E5%A0%86%E6%B1%82%E5%80%9F%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [锁匠协助警方开锁被炸身亡未获赔偿](https://www.baidu.com/s?wd=%E9%94%81%E5%8C%A0%E5%8D%8F%E5%8A%A9%E8%AD%A6%E6%96%B9%E5%BC%80%E9%94%81%E8%A2%AB%E7%82%B8%E8%BA%AB%E4%BA%A1%E6%9C%AA%E8%8E%B7%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [呼吸道疾病的这些谣言别轻信](https://www.baidu.com/s?wd=%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E7%9A%84%E8%BF%99%E4%BA%9B%E8%B0%A3%E8%A8%80%E5%88%AB%E8%BD%BB%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
