@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 09:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-08 09:04:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为了吃中餐混进群聊的外国教授](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BA%86%E5%90%83%E4%B8%AD%E9%A4%90%E6%B7%B7%E8%BF%9B%E7%BE%A4%E8%81%8A%E7%9A%84%E5%A4%96%E5%9B%BD%E6%95%99%E6%8E%88&t=31&band_rank=6&Refer=top)<br />
 7. [杨幂杨紫王一博坐一桌](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E6%9D%A8%E7%B4%AB%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%9D%90%E4%B8%80%E6%A1%8C&t=31&band_rank=7&Refer=top)<br />
 8. [睡眠真的超级重要](https://s.weibo.com/weibo?q=%E7%9D%A1%E7%9C%A0%E7%9C%9F%E7%9A%84%E8%B6%85%E7%BA%A7%E9%87%8D%E8%A6%81&t=31&band_rank=8&Refer=top)<br />
-9. [一念关山官配](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E5%AE%98%E9%85%8D&t=31&band_rank=9&Refer=top)<br />
+9. [银杏 活着直到被死神遗忘](https://s.weibo.com/weibo?q=%E9%93%B6%E6%9D%8F%20%E6%B4%BB%E7%9D%80%E7%9B%B4%E5%88%B0%E8%A2%AB%E6%AD%BB%E7%A5%9E%E9%81%97%E5%BF%98&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
