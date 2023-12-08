@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 02:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 02:01:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [杨幂工作室 挡了又好像没挡](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E6%8C%A1%E4%BA%86%E5%8F%88%E5%A5%BD%E5%83%8F%E6%B2%A1%E6%8C%A1&t=31&band_rank=5&Refer=top)<br />
 6. [老公胃癌晚期老婆要卖房治疗医生劝她冷静](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%85%AC%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%E8%80%81%E5%A9%86%E8%A6%81%E5%8D%96%E6%88%BF%E6%B2%BB%E7%96%97%E5%8C%BB%E7%94%9F%E5%8A%9D%E5%A5%B9%E5%86%B7%E9%9D%99%23&t=31&band_rank=6&Refer=top)<br />
 7. [新闻女王 烂尾](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E7%83%82%E5%B0%BE&t=31&band_rank=7&Refer=top)<br />
-8. [小杨哥徒弟复播仅3分钟再被封](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E5%A4%8D%E6%92%AD%E4%BB%853%E5%88%86%E9%92%9F%E5%86%8D%E8%A2%AB%E5%B0%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [TFBOYS十周年DVD纪录片](https://s.weibo.com/weibo?q=%23TFBOYS%E5%8D%81%E5%91%A8%E5%B9%B4DVD%E7%BA%AA%E5%BD%95%E7%89%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [TFBOYS十周年DVD纪录片](https://s.weibo.com/weibo?q=%23TFBOYS%E5%8D%81%E5%91%A8%E5%B9%B4DVD%E7%BA%AA%E5%BD%95%E7%89%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [小杨哥徒弟复播仅3分钟再被封](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E5%A4%8D%E6%92%AD%E4%BB%853%E5%88%86%E9%92%9F%E5%86%8D%E8%A2%AB%E5%B0%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
