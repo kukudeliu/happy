@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 01:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 01:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [老公胃癌晚期老婆要卖房治疗医生劝她冷静](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%85%AC%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%E8%80%81%E5%A9%86%E8%A6%81%E5%8D%96%E6%88%BF%E6%B2%BB%E7%96%97%E5%8C%BB%E7%94%9F%E5%8A%9D%E5%A5%B9%E5%86%B7%E9%9D%99%23&t=31&band_rank=6&Refer=top)<br />
 7. [TFBOYS十周年DVD纪录片](https://s.weibo.com/weibo?q=%23TFBOYS%E5%8D%81%E5%91%A8%E5%B9%B4DVD%E7%BA%AA%E5%BD%95%E7%89%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [新闻女王 烂尾](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E7%83%82%E5%B0%BE&t=31&band_rank=8&Refer=top)<br />
-9. [偷偷藏不住 神隐隐不了](https://s.weibo.com/weibo?q=%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%20%E7%A5%9E%E9%9A%90%E9%9A%90%E4%B8%8D%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [程序员每月只给自己留2千妻子却要离婚](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%BA%8F%E5%91%98%E6%AF%8F%E6%9C%88%E5%8F%AA%E7%BB%99%E8%87%AA%E5%B7%B1%E7%95%992%E5%8D%83%E5%A6%BB%E5%AD%90%E5%8D%B4%E8%A6%81%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
