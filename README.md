@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 07:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 07:43:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [第一学历](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86&t=31&band_rank=5&Refer=top)<br />
 6. [身体8个部位的疼痛可能是心梗前兆](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%938%E4%B8%AA%E9%83%A8%E4%BD%8D%E7%9A%84%E7%96%BC%E7%97%9B%E5%8F%AF%E8%83%BD%E6%98%AF%E5%BF%83%E6%A2%97%E5%89%8D%E5%85%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [塌腰](https://s.weibo.com/weibo?q=%E5%A1%8C%E8%85%B0&t=31&band_rank=7&Refer=top)<br />
-8. [花花最近白得发亮](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E6%9C%80%E8%BF%91%E7%99%BD%E5%BE%97%E5%8F%91%E4%BA%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵丽颖 女二](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E5%A5%B3%E4%BA%8C&t=31&band_rank=9&Refer=top)<br />
+8. [吉祥航空承认因失误导致乘客滞留机场](https://s.weibo.com/weibo?q=%23%E5%90%89%E7%A5%A5%E8%88%AA%E7%A9%BA%E6%89%BF%E8%AE%A4%E5%9B%A0%E5%A4%B1%E8%AF%AF%E5%AF%BC%E8%87%B4%E4%B9%98%E5%AE%A2%E6%BB%9E%E7%95%99%E6%9C%BA%E5%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [花花最近白得发亮](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E6%9C%80%E8%BF%91%E7%99%BD%E5%BE%97%E5%8F%91%E4%BA%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
