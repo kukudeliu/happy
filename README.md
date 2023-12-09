@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 12:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 12:09:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [世界上最快的擦肩而过不到1秒](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%BF%AB%E7%9A%84%E6%93%A6%E8%82%A9%E8%80%8C%E8%BF%87%E4%B8%8D%E5%88%B01%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一家人围炉煮茶烤鸡蛋爆炸](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%BA%BA%E5%9B%B4%E7%82%89%E7%85%AE%E8%8C%B6%E7%83%A4%E9%B8%A1%E8%9B%8B%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东京迪士尼米妮被同事掀裙子](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%B1%B3%E5%A6%AE%E8%A2%AB%E5%90%8C%E4%BA%8B%E6%8E%80%E8%A3%99%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [00后男生跟朋友掰手腕致左胳膊骨折](https://www.baidu.com/s?wd=00%E5%90%8E%E7%94%B7%E7%94%9F%E8%B7%9F%E6%9C%8B%E5%8F%8B%E6%8E%B0%E6%89%8B%E8%85%95%E8%87%B4%E5%B7%A6%E8%83%B3%E8%86%8A%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [江西致20死19伤车祸调查报告公布](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%87%B420%E6%AD%BB19%E4%BC%A4%E8%BD%A6%E7%A5%B8%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [世界上最快的擦肩而过不到1秒](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%BF%AB%E7%9A%84%E6%93%A6%E8%82%A9%E8%80%8C%E8%BF%87%E4%B8%8D%E5%88%B01%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一家人围炉煮茶烤鸡蛋爆炸](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%BA%BA%E5%9B%B4%E7%82%89%E7%85%AE%E8%8C%B6%E7%83%A4%E9%B8%A1%E8%9B%8B%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东京迪士尼米妮被同事掀裙子](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%B1%B3%E5%A6%AE%E8%A2%AB%E5%90%8C%E4%BA%8B%E6%8E%80%E8%A3%99%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [00后男生跟朋友掰手腕致左胳膊骨折](https://www.baidu.com/s?wd=00%E5%90%8E%E7%94%B7%E7%94%9F%E8%B7%9F%E6%9C%8B%E5%8F%8B%E6%8E%B0%E6%89%8B%E8%85%95%E8%87%B4%E5%B7%A6%E8%83%B3%E8%86%8A%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [江西致20死19伤车祸调查报告公布](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%87%B420%E6%AD%BB19%E4%BC%A4%E8%BD%A6%E7%A5%B8%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
