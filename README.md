@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 18:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 18:16:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [多位脱口秀女演员发声明拒绝性骚扰](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BD%8D%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A5%B3%E6%BC%94%E5%91%98%E5%8F%91%E5%A3%B0%E6%98%8E%E6%8B%92%E7%BB%9D%E6%80%A7%E9%AA%9A%E6%89%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [小伙为救被困母子双手缝了11针](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E4%B8%BA%E6%95%91%E8%A2%AB%E5%9B%B0%E6%AF%8D%E5%AD%90%E5%8F%8C%E6%89%8B%E7%BC%9D%E4%BA%8611%E9%92%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [周先生和朱小姐的故事](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%85%88%E7%94%9F%E5%92%8C%E6%9C%B1%E5%B0%8F%E5%A7%90%E7%9A%84%E6%95%85%E4%BA%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [6200一杯咖啡](https://s.weibo.com/weibo?q=6200%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1&t=31&band_rank=9&Refer=top)<br />
+9. [文科生就业率不到理科生一半](https://s.weibo.com/weibo?q=%23%E6%96%87%E7%A7%91%E7%94%9F%E5%B0%B1%E4%B8%9A%E7%8E%87%E4%B8%8D%E5%88%B0%E7%90%86%E7%A7%91%E7%94%9F%E4%B8%80%E5%8D%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
