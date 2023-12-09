@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 11:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 11:39:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [程序员每月仅留2千妻子却要离婚](https://www.baidu.com/s?wd=%E7%A8%8B%E5%BA%8F%E5%91%98%E6%AF%8F%E6%9C%88%E4%BB%85%E7%95%992%E5%8D%83%E5%A6%BB%E5%AD%90%E5%8D%B4%E8%A6%81%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [预防呼吸道疾病 这几种情况要洗手](https://www.baidu.com/s?wd=%E9%A2%84%E9%98%B2%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85+%E8%BF%99%E5%87%A0%E7%A7%8D%E6%83%85%E5%86%B5%E8%A6%81%E6%B4%97%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [世界上最快的擦肩而过不到1秒](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%BF%AB%E7%9A%84%E6%93%A6%E8%82%A9%E8%80%8C%E8%BF%87%E4%B8%8D%E5%88%B01%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [辅警威胁查网友个人信息 官方通报](https://www.baidu.com/s?wd=%E8%BE%85%E8%AD%A6%E5%A8%81%E8%83%81%E6%9F%A5%E7%BD%91%E5%8F%8B%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [殡仪馆回应弄丢骨灰给盒新的](https://www.baidu.com/s?wd=%E6%AE%A1%E4%BB%AA%E9%A6%86%E5%9B%9E%E5%BA%94%E5%BC%84%E4%B8%A2%E9%AA%A8%E7%81%B0%E7%BB%99%E7%9B%92%E6%96%B0%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方通报中学生被同学刺伤致死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E5%88%BA%E4%BC%A4%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [警方通报中学生被同学刺伤致死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E5%88%BA%E4%BC%A4%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [好友借5千元16年后仅还1千 法院回应](https://www.baidu.com/s?wd=%E5%A5%BD%E5%8F%8B%E5%80%9F5%E5%8D%83%E5%85%8316%E5%B9%B4%E5%90%8E%E4%BB%85%E8%BF%981%E5%8D%83+%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [殡仪馆回应弄丢骨灰给盒新的](https://www.baidu.com/s?wd=%E6%AE%A1%E4%BB%AA%E9%A6%86%E5%9B%9E%E5%BA%94%E5%BC%84%E4%B8%A2%E9%AA%A8%E7%81%B0%E7%BB%99%E7%9B%92%E6%96%B0%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [程序员每月仅留2千妻子却要离婚](https://www.baidu.com/s?wd=%E7%A8%8B%E5%BA%8F%E5%91%98%E6%AF%8F%E6%9C%88%E4%BB%85%E7%95%992%E5%8D%83%E5%A6%BB%E5%AD%90%E5%8D%B4%E8%A6%81%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [预防呼吸道疾病 这几种情况要洗手](https://www.baidu.com/s?wd=%E9%A2%84%E9%98%B2%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85+%E8%BF%99%E5%87%A0%E7%A7%8D%E6%83%85%E5%86%B5%E8%A6%81%E6%B4%97%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [世界上最快的擦肩而过不到1秒](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%BF%AB%E7%9A%84%E6%93%A6%E8%82%A9%E8%80%8C%E8%BF%87%E4%B8%8D%E5%88%B01%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [辅警威胁查网友个人信息 官方通报](https://www.baidu.com/s?wd=%E8%BE%85%E8%AD%A6%E5%A8%81%E8%83%81%E6%9F%A5%E7%BD%91%E5%8F%8B%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [殡仪馆回应弄丢骨灰给盒新的](https://www.baidu.com/s?wd=%E6%AE%A1%E4%BB%AA%E9%A6%86%E5%9B%9E%E5%BA%94%E5%BC%84%E4%B8%A2%E9%AA%A8%E7%81%B0%E7%BB%99%E7%9B%92%E6%96%B0%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方通报中学生被同学刺伤致死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E5%88%BA%E4%BC%A4%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [警方通报中学生被同学刺伤致死](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E5%88%BA%E4%BC%A4%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [好友借5千元16年后仅还1千 法院回应](https://www.baidu.com/s?wd=%E5%A5%BD%E5%8F%8B%E5%80%9F5%E5%8D%83%E5%85%8316%E5%B9%B4%E5%90%8E%E4%BB%85%E8%BF%981%E5%8D%83+%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [殡仪馆回应弄丢骨灰给盒新的](https://www.baidu.com/s?wd=%E6%AE%A1%E4%BB%AA%E9%A6%86%E5%9B%9E%E5%BA%94%E5%BC%84%E4%B8%A2%E9%AA%A8%E7%81%B0%E7%BB%99%E7%9B%92%E6%96%B0%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
