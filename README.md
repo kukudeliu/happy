@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 03:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 03:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [19岁女子上悬赏公告因高颜值受关注](https://www.baidu.com/s?wd=19%E5%B2%81%E5%A5%B3%E5%AD%90%E4%B8%8A%E6%82%AC%E8%B5%8F%E5%85%AC%E5%91%8A%E5%9B%A0%E9%AB%98%E9%A2%9C%E5%80%BC%E5%8F%97%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [原来茶位费是可以拒绝的](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E8%8C%B6%E4%BD%8D%E8%B4%B9%E6%98%AF%E5%8F%AF%E4%BB%A5%E6%8B%92%E7%BB%9D%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广州芳村金融茶崩盘：5万跌到2千](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E8%8A%B3%E6%9D%91%E9%87%91%E8%9E%8D%E8%8C%B6%E5%B4%A9%E7%9B%98%EF%BC%9A5%E4%B8%87%E8%B7%8C%E5%88%B02%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：老师课堂讲解春宫图怎么了？](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%80%81%E5%B8%88%E8%AF%BE%E5%A0%82%E8%AE%B2%E8%A7%A3%E6%98%A5%E5%AE%AB%E5%9B%BE%E6%80%8E%E4%B9%88%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [外媒：沙特一王子或死于战斗机失事](https://www.baidu.com/s?wd=%E5%A4%96%E5%AA%92%EF%BC%9A%E6%B2%99%E7%89%B9%E4%B8%80%E7%8E%8B%E5%AD%90%E6%88%96%E6%AD%BB%E4%BA%8E%E6%88%98%E6%96%97%E6%9C%BA%E5%A4%B1%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [19岁女子上悬赏公告因高颜值受关注](https://www.baidu.com/s?wd=19%E5%B2%81%E5%A5%B3%E5%AD%90%E4%B8%8A%E6%82%AC%E8%B5%8F%E5%85%AC%E5%91%8A%E5%9B%A0%E9%AB%98%E9%A2%9C%E5%80%BC%E5%8F%97%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [原来茶位费是可以拒绝的](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E8%8C%B6%E4%BD%8D%E8%B4%B9%E6%98%AF%E5%8F%AF%E4%BB%A5%E6%8B%92%E7%BB%9D%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广州芳村金融茶崩盘：5万跌到2千](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E8%8A%B3%E6%9D%91%E9%87%91%E8%9E%8D%E8%8C%B6%E5%B4%A9%E7%9B%98%EF%BC%9A5%E4%B8%87%E8%B7%8C%E5%88%B02%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：老师课堂讲解春宫图怎么了？](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%80%81%E5%B8%88%E8%AF%BE%E5%A0%82%E8%AE%B2%E8%A7%A3%E6%98%A5%E5%AE%AB%E5%9B%BE%E6%80%8E%E4%B9%88%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [外媒：沙特一王子或死于战斗机失事](https://www.baidu.com/s?wd=%E5%A4%96%E5%AA%92%EF%BC%9A%E6%B2%99%E7%89%B9%E4%B8%80%E7%8E%8B%E5%AD%90%E6%88%96%E6%AD%BB%E4%BA%8E%E6%88%98%E6%96%97%E6%9C%BA%E5%A4%B1%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
