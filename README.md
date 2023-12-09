@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 12:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 12:10:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [捡别人身份证结婚害对方无法登记结婚](https://s.weibo.com/weibo?q=%23%E6%8D%A1%E5%88%AB%E4%BA%BA%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%BB%93%E5%A9%9A%E5%AE%B3%E5%AF%B9%E6%96%B9%E6%97%A0%E6%B3%95%E7%99%BB%E8%AE%B0%E7%BB%93%E5%A9%9A%23&t=31&band_rank=4&Refer=top)<br />
 5. [解清帅拒绝父亲送3房1车](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%B8%85%E5%B8%85%E6%8B%92%E7%BB%9D%E7%88%B6%E4%BA%B2%E9%80%813%E6%88%BF1%E8%BD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [文科 服务业](https://s.weibo.com/weibo?q=%E6%96%87%E7%A7%91%20%E6%9C%8D%E5%8A%A1%E4%B8%9A&t=31&band_rank=6&Refer=top)<br />
-7. [刘诗诗 戏份](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E6%88%8F%E4%BB%BD&t=31&band_rank=7&Refer=top)<br />
-8. [电视喂什么 观众就吃什么](https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%96%82%E4%BB%80%E4%B9%88%20%E8%A7%82%E4%BC%97%E5%B0%B1%E5%90%83%E4%BB%80%E4%B9%88&t=31&band_rank=8&Refer=top)<br />
+7. [电视喂什么 观众就吃什么](https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%96%82%E4%BB%80%E4%B9%88%20%E8%A7%82%E4%BC%97%E5%B0%B1%E5%90%83%E4%BB%80%E4%B9%88&t=31&band_rank=7&Refer=top)<br />
+8. [刘诗诗 戏份](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E6%88%8F%E4%BB%BD&t=31&band_rank=8&Refer=top)<br />
 9. [东京迪士尼米妮被同事掀裙子](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E4%BA%AC%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%B1%B3%E5%A6%AE%E8%A2%AB%E5%90%8C%E4%BA%8B%E6%8E%80%E8%A3%99%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
