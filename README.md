@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 12:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 12:39:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [2023那些浪漫又戳心的同框](https://s.weibo.com/weibo?q=%232023%E9%82%A3%E4%BA%9B%E6%B5%AA%E6%BC%AB%E5%8F%88%E6%88%B3%E5%BF%83%E7%9A%84%E5%90%8C%E6%A1%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [电视喂什么 观众就吃什么](https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%96%82%E4%BB%80%E4%B9%88%20%E8%A7%82%E4%BC%97%E5%B0%B1%E5%90%83%E4%BB%80%E4%B9%88&t=31&band_rank=4&Refer=top)<br />
 5. [文科 服务业](https://s.weibo.com/weibo?q=%E6%96%87%E7%A7%91%20%E6%9C%8D%E5%8A%A1%E4%B8%9A&t=31&band_rank=5&Refer=top)<br />
-6. [春晚导演看完汗流浃背了](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E5%AF%BC%E6%BC%94%E7%9C%8B%E5%AE%8C%E6%B1%97%E6%B5%81%E6%B5%83%E8%83%8C%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [周杰伦演唱会 提前半年抢票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%8F%90%E5%89%8D%E5%8D%8A%E5%B9%B4%E6%8A%A2%E7%A5%A8&t=31&band_rank=7&Refer=top)<br />
+6. [周杰伦演唱会 提前半年抢票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%8F%90%E5%89%8D%E5%8D%8A%E5%B9%B4%E6%8A%A2%E7%A5%A8&t=31&band_rank=6&Refer=top)<br />
+7. [春晚导演看完汗流浃背了](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E5%AF%BC%E6%BC%94%E7%9C%8B%E5%AE%8C%E6%B1%97%E6%B5%81%E6%B5%83%E8%83%8C%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [捡别人身份证结婚害对方无法登记结婚](https://s.weibo.com/weibo?q=%23%E6%8D%A1%E5%88%AB%E4%BA%BA%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%BB%93%E5%A9%9A%E5%AE%B3%E5%AF%B9%E6%96%B9%E6%97%A0%E6%B3%95%E7%99%BB%E8%AE%B0%E7%BB%93%E5%A9%9A%23&t=31&band_rank=8&Refer=top)<br />
 9. [解清帅拒绝父亲送3房1车](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%B8%85%E5%B8%85%E6%8B%92%E7%BB%9D%E7%88%B6%E4%BA%B2%E9%80%813%E6%88%BF1%E8%BD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
