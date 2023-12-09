@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 15:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 15:55:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [江西致20死19伤车祸调查报告公布](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%87%B420%E6%AD%BB19%E4%BC%A4%E8%BD%A6%E7%A5%B8%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [预防呼吸道疾病 这几种情况要洗手](https://www.baidu.com/s?wd=%E9%A2%84%E9%98%B2%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85+%E8%BF%99%E5%87%A0%E7%A7%8D%E6%83%85%E5%86%B5%E8%A6%81%E6%B4%97%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [张雪峰回应“文科都是服务业”言论](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%9E%E5%BA%94%E2%80%9C%E6%96%87%E7%A7%91%E9%83%BD%E6%98%AF%E6%9C%8D%E5%8A%A1%E4%B8%9A%E2%80%9D%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [浙江“00后”小伙勇救车祸中母子](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E2%80%9C00%E5%90%8E%E2%80%9D%E5%B0%8F%E4%BC%99%E5%8B%87%E6%95%91%E8%BD%A6%E7%A5%B8%E4%B8%AD%E6%AF%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美议员称中国大蒜构成国家安全风险](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%AE%E5%91%98%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%92%9C%E6%9E%84%E6%88%90%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [上海8岁女童下腰时摔倒致无法站立](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B78%E5%B2%81%E5%A5%B3%E7%AB%A5%E4%B8%8B%E8%85%B0%E6%97%B6%E6%91%94%E5%80%92%E8%87%B4%E6%97%A0%E6%B3%95%E7%AB%99%E7%AB%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中学生被打进ICU 专家称抢救难度大](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%89%93%E8%BF%9BICU+%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%8A%A2%E6%95%91%E9%9A%BE%E5%BA%A6%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [浙江“00后”小伙勇救车祸中母子](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E2%80%9C00%E5%90%8E%E2%80%9D%E5%B0%8F%E4%BC%99%E5%8B%87%E6%95%91%E8%BD%A6%E7%A5%B8%E4%B8%AD%E6%AF%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美议员称中国大蒜构成国家安全风险](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%AE%E5%91%98%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%92%9C%E6%9E%84%E6%88%90%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [江西致20死19伤车祸调查报告公布](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%87%B420%E6%AD%BB19%E4%BC%A4%E8%BD%A6%E7%A5%B8%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [预防呼吸道疾病 这几种情况要洗手](https://www.baidu.com/s?wd=%E9%A2%84%E9%98%B2%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85+%E8%BF%99%E5%87%A0%E7%A7%8D%E6%83%85%E5%86%B5%E8%A6%81%E6%B4%97%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [张雪峰回应“文科都是服务业”言论](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%9E%E5%BA%94%E2%80%9C%E6%96%87%E7%A7%91%E9%83%BD%E6%98%AF%E6%9C%8D%E5%8A%A1%E4%B8%9A%E2%80%9D%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [浙江“00后”小伙勇救车祸中母子](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E2%80%9C00%E5%90%8E%E2%80%9D%E5%B0%8F%E4%BC%99%E5%8B%87%E6%95%91%E8%BD%A6%E7%A5%B8%E4%B8%AD%E6%AF%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美议员称中国大蒜构成国家安全风险](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%AE%E5%91%98%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%92%9C%E6%9E%84%E6%88%90%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [上海8岁女童下腰时摔倒致无法站立](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B78%E5%B2%81%E5%A5%B3%E7%AB%A5%E4%B8%8B%E8%85%B0%E6%97%B6%E6%91%94%E5%80%92%E8%87%B4%E6%97%A0%E6%B3%95%E7%AB%99%E7%AB%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中学生被打进ICU 专家称抢救难度大](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%89%93%E8%BF%9BICU+%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%8A%A2%E6%95%91%E9%9A%BE%E5%BA%A6%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [浙江“00后”小伙勇救车祸中母子](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E2%80%9C00%E5%90%8E%E2%80%9D%E5%B0%8F%E4%BC%99%E5%8B%87%E6%95%91%E8%BD%A6%E7%A5%B8%E4%B8%AD%E6%AF%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美议员称中国大蒜构成国家安全风险](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%AE%E5%91%98%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%92%9C%E6%9E%84%E6%88%90%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
