@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 16:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 16:25:01</h4></div>
 
 > 微博  
 
 1. [张雪峰回应文科都是服务业](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%9E%E5%BA%94%E6%96%87%E7%A7%91%E9%83%BD%E6%98%AF%E6%9C%8D%E5%8A%A1%E4%B8%9A%23&t=31&band_rank=1&Refer=top)<br />
 2. [Kitty官宣离职](https://s.weibo.com/weibo?q=%23Kitty%E5%AE%98%E5%AE%A3%E7%A6%BB%E8%81%8C%23&t=31&band_rank=2&Refer=top)<br />
 3. [三招养护呼吸道健康](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%8B%9B%E5%85%BB%E6%8A%A4%E5%91%BC%E5%90%B8%E9%81%93%E5%81%A5%E5%BA%B7%23&t=31&band_rank=3&Refer=top)<br />
-4. [大女主 中国特产](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%A5%B3%E4%B8%BB%20%E4%B8%AD%E5%9B%BD%E7%89%B9%E4%BA%A7&t=31&band_rank=4&Refer=top)<br />
-5. [原来茶位费是可以拒绝的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%8C%B6%E4%BD%8D%E8%B4%B9%E6%98%AF%E5%8F%AF%E4%BB%A5%E6%8B%92%E7%BB%9D%E7%9A%84&t=31&band_rank=5&Refer=top)<br />
+4. [原来茶位费是可以拒绝的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%8C%B6%E4%BD%8D%E8%B4%B9%E6%98%AF%E5%8F%AF%E4%BB%A5%E6%8B%92%E7%BB%9D%E7%9A%84&t=31&band_rank=4&Refer=top)<br />
+5. [大女主 中国特产](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%A5%B3%E4%B8%BB%20%E4%B8%AD%E5%9B%BD%E7%89%B9%E4%BA%A7&t=31&band_rank=5&Refer=top)<br />
 6. [和导师的关系有点暧昧了](https://s.weibo.com/weibo?q=%E5%92%8C%E5%AF%BC%E5%B8%88%E7%9A%84%E5%85%B3%E7%B3%BB%E6%9C%89%E7%82%B9%E6%9A%A7%E6%98%A7%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [萨摩耶 自己哄自己睡觉](https://s.weibo.com/weibo?q=%E8%90%A8%E6%91%A9%E8%80%B6%20%E8%87%AA%E5%B7%B1%E5%93%84%E8%87%AA%E5%B7%B1%E7%9D%A1%E8%A7%89&t=31&band_rank=7&Refer=top)<br />
 8. [南昌20死19伤重大交通事故调查报告](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%98%8C20%E6%AD%BB19%E4%BC%A4%E9%87%8D%E5%A4%A7%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%23&t=31&band_rank=8&Refer=top)<br />
