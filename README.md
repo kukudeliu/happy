@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 12:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 12:32:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [电视喂什么 观众就吃什么](https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%96%82%E4%BB%80%E4%B9%88%20%E8%A7%82%E4%BC%97%E5%B0%B1%E5%90%83%E4%BB%80%E4%B9%88&t=31&band_rank=6&Refer=top)<br />
 7. [周杰伦演唱会 提前半年抢票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%8F%90%E5%89%8D%E5%8D%8A%E5%B9%B4%E6%8A%A2%E7%A5%A8&t=31&band_rank=7&Refer=top)<br />
 8. [解清帅拒绝父亲送3房1车](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%B8%85%E5%B8%85%E6%8B%92%E7%BB%9D%E7%88%B6%E4%BA%B2%E9%80%813%E6%88%BF1%E8%BD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [古茗小程序崩了](https://s.weibo.com/weibo?q=%E5%8F%A4%E8%8C%97%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [春晚导演看完汗流浃背了](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E5%AF%BC%E6%BC%94%E7%9C%8B%E5%AE%8C%E6%B1%97%E6%B5%81%E6%B5%83%E8%83%8C%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
