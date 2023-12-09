@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 11:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 11:54:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [东京迪士尼米妮被同事掀裙子](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E4%BA%AC%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%B1%B3%E5%A6%AE%E8%A2%AB%E5%90%8C%E4%BA%8B%E6%8E%80%E8%A3%99%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [刘诗诗 戏份](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E6%88%8F%E4%BB%BD&t=31&band_rank=6&Refer=top)<br />
 7. [文科 服务业](https://s.weibo.com/weibo?q=%E6%96%87%E7%A7%91%20%E6%9C%8D%E5%8A%A1%E4%B8%9A&t=31&band_rank=7&Refer=top)<br />
-8. [刘冲 我身高176](https://s.weibo.com/weibo?q=%E5%88%98%E5%86%B2%20%E6%88%91%E8%BA%AB%E9%AB%98176&t=31&band_rank=8&Refer=top)<br />
-9. [周杰伦演唱会 提前半年抢票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%8F%90%E5%89%8D%E5%8D%8A%E5%B9%B4%E6%8A%A2%E7%A5%A8&t=31&band_rank=9&Refer=top)<br />
+8. [南昌20死19伤重大交通事故调查报告](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%98%8C20%E6%AD%BB19%E4%BC%A4%E9%87%8D%E5%A4%A7%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%23&t=31&band_rank=8&Refer=top)<br />
+9. [刘冲 我身高176](https://s.weibo.com/weibo?q=%E5%88%98%E5%86%B2%20%E6%88%91%E8%BA%AB%E9%AB%98176&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [世界上最快的擦肩而过不到1秒](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%BF%AB%E7%9A%84%E6%93%A6%E8%82%A9%E8%80%8C%E8%BF%87%E4%B8%8D%E5%88%B01%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一家人围炉煮茶烤鸡蛋爆炸](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%BA%BA%E5%9B%B4%E7%82%89%E7%85%AE%E8%8C%B6%E7%83%A4%E9%B8%A1%E8%9B%8B%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东京迪士尼米妮被同事掀裙子](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%B1%B3%E5%A6%AE%E8%A2%AB%E5%90%8C%E4%BA%8B%E6%8E%80%E8%A3%99%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [好友借5千元16年后仅还1千 法院回应](https://www.baidu.com/s?wd=%E5%A5%BD%E5%8F%8B%E5%80%9F5%E5%8D%83%E5%85%8316%E5%B9%B4%E5%90%8E%E4%BB%85%E8%BF%981%E5%8D%83+%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [每天喝12kg咖啡才能达到致癌量](https://www.baidu.com/s?wd=%E6%AF%8F%E5%A4%A9%E5%96%9D12kg%E5%92%96%E5%95%A1%E6%89%8D%E8%83%BD%E8%BE%BE%E5%88%B0%E8%87%B4%E7%99%8C%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [世界上最快的擦肩而过不到1秒](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%BF%AB%E7%9A%84%E6%93%A6%E8%82%A9%E8%80%8C%E8%BF%87%E4%B8%8D%E5%88%B01%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一家人围炉煮茶烤鸡蛋爆炸](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%BA%BA%E5%9B%B4%E7%82%89%E7%85%AE%E8%8C%B6%E7%83%A4%E9%B8%A1%E8%9B%8B%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东京迪士尼米妮被同事掀裙子](https://www.baidu.com/s?wd=%E4%B8%9C%E4%BA%AC%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%B1%B3%E5%A6%AE%E8%A2%AB%E5%90%8C%E4%BA%8B%E6%8E%80%E8%A3%99%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [好友借5千元16年后仅还1千 法院回应](https://www.baidu.com/s?wd=%E5%A5%BD%E5%8F%8B%E5%80%9F5%E5%8D%83%E5%85%8316%E5%B9%B4%E5%90%8E%E4%BB%85%E8%BF%981%E5%8D%83+%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [每天喝12kg咖啡才能达到致癌量](https://www.baidu.com/s?wd=%E6%AF%8F%E5%A4%A9%E5%96%9D12kg%E5%92%96%E5%95%A1%E6%89%8D%E8%83%BD%E8%BE%BE%E5%88%B0%E8%87%B4%E7%99%8C%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
