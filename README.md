@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 19:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 19:44:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [中国外贸提质效果显著](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E6%8F%90%E8%B4%A8%E6%95%88%E6%9E%9C%E6%98%BE%E8%91%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [林孝埈刘少昂相撞](https://www.baidu.com/s?wd=%E6%9E%97%E5%AD%9D%E5%9F%88%E5%88%98%E5%B0%91%E6%98%82%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [7枚迫击炮弹落入美驻伊拉克大使馆](https://www.baidu.com/s?wd=7%E6%9E%9A%E8%BF%AB%E5%87%BB%E7%82%AE%E5%BC%B9%E8%90%BD%E5%85%A5%E7%BE%8E%E9%A9%BB%E4%BC%8A%E6%8B%89%E5%85%8B%E5%A4%A7%E4%BD%BF%E9%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [浙江“00后”小伙勇救车祸中母子](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E2%80%9C00%E5%90%8E%E2%80%9D%E5%B0%8F%E4%BC%99%E5%8B%87%E6%95%91%E8%BD%A6%E7%A5%B8%E4%B8%AD%E6%AF%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [15年间癌症相关死亡数增加21.6%](https://www.baidu.com/s?wd=15%E5%B9%B4%E9%97%B4%E7%99%8C%E7%97%87%E7%9B%B8%E5%85%B3%E6%AD%BB%E4%BA%A1%E6%95%B0%E5%A2%9E%E5%8A%A021.6%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [邓紫棋演唱会穿婚纱摔倒](https://www.baidu.com/s?wd=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A9%BF%E5%A9%9A%E7%BA%B1%E6%91%94%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [中国外贸提质效果显著](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E6%8F%90%E8%B4%A8%E6%95%88%E6%9E%9C%E6%98%BE%E8%91%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [林孝埈刘少昂相撞](https://www.baidu.com/s?wd=%E6%9E%97%E5%AD%9D%E5%9F%88%E5%88%98%E5%B0%91%E6%98%82%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [7枚迫击炮弹落入美驻伊拉克大使馆](https://www.baidu.com/s?wd=7%E6%9E%9A%E8%BF%AB%E5%87%BB%E7%82%AE%E5%BC%B9%E8%90%BD%E5%85%A5%E7%BE%8E%E9%A9%BB%E4%BC%8A%E6%8B%89%E5%85%8B%E5%A4%A7%E4%BD%BF%E9%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [浙江“00后”小伙勇救车祸中母子](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E2%80%9C00%E5%90%8E%E2%80%9D%E5%B0%8F%E4%BC%99%E5%8B%87%E6%95%91%E8%BD%A6%E7%A5%B8%E4%B8%AD%E6%AF%8D%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [15年间癌症相关死亡数增加21.6%](https://www.baidu.com/s?wd=15%E5%B9%B4%E9%97%B4%E7%99%8C%E7%97%87%E7%9B%B8%E5%85%B3%E6%AD%BB%E4%BA%A1%E6%95%B0%E5%A2%9E%E5%8A%A021.6%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [邓紫棋演唱会穿婚纱摔倒](https://www.baidu.com/s?wd=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A9%BF%E5%A9%9A%E7%BA%B1%E6%91%94%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
