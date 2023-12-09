@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 17:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 17:36:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [三招养护呼吸道健康](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%8B%9B%E5%85%BB%E6%8A%A4%E5%91%BC%E5%90%B8%E9%81%93%E5%81%A5%E5%BA%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [Kitty官宣离职](https://s.weibo.com/weibo?q=%23Kitty%E5%AE%98%E5%AE%A3%E7%A6%BB%E8%81%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [周先生和朱小姐的故事](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%85%88%E7%94%9F%E5%92%8C%E6%9C%B1%E5%B0%8F%E5%A7%90%E7%9A%84%E6%95%85%E4%BA%8B%23&t=31&band_rank=5&Refer=top)<br />
-6. [和导师的关系有点暧昧了](https://s.weibo.com/weibo?q=%E5%92%8C%E5%AF%BC%E5%B8%88%E7%9A%84%E5%85%B3%E7%B3%BB%E6%9C%89%E7%82%B9%E6%9A%A7%E6%98%A7%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [辛芷蕾曾被妈妈扔剪刀插到腿](https://s.weibo.com/weibo?q=%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%9B%BE%E8%A2%AB%E5%A6%88%E5%A6%88%E6%89%94%E5%89%AA%E5%88%80%E6%8F%92%E5%88%B0%E8%85%BF&t=31&band_rank=7&Refer=top)<br />
+6. [辛芷蕾曾被妈妈扔剪刀插到腿](https://s.weibo.com/weibo?q=%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%9B%BE%E8%A2%AB%E5%A6%88%E5%A6%88%E6%89%94%E5%89%AA%E5%88%80%E6%8F%92%E5%88%B0%E8%85%BF&t=31&band_rank=6&Refer=top)<br />
+7. [和导师的关系有点暧昧了](https://s.weibo.com/weibo?q=%E5%92%8C%E5%AF%BC%E5%B8%88%E7%9A%84%E5%85%B3%E7%B3%BB%E6%9C%89%E7%82%B9%E6%9A%A7%E6%98%A7%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [张雪峰回应文科都是服务业](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%9E%E5%BA%94%E6%96%87%E7%A7%91%E9%83%BD%E6%98%AF%E6%9C%8D%E5%8A%A1%E4%B8%9A%23&t=31&band_rank=8&Refer=top)<br />
 9. [人和人刚分开时是没有痛感的](https://s.weibo.com/weibo?q=%E4%BA%BA%E5%92%8C%E4%BA%BA%E5%88%9A%E5%88%86%E5%BC%80%E6%97%B6%E6%98%AF%E6%B2%A1%E6%9C%89%E7%97%9B%E6%84%9F%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
