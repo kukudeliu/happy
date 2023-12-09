@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 19:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 19:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [娜扎 美神](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%20%E7%BE%8E%E7%A5%9E&t=31&band_rank=6&Refer=top)<br />
 7. [爷爷陪小猫打针还给小猫暖输液管](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E9%99%AA%E5%B0%8F%E7%8C%AB%E6%89%93%E9%92%88%E8%BF%98%E7%BB%99%E5%B0%8F%E7%8C%AB%E6%9A%96%E8%BE%93%E6%B6%B2%E7%AE%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [原来茶位费是可以拒绝的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%8C%B6%E4%BD%8D%E8%B4%B9%E6%98%AF%E5%8F%AF%E4%BB%A5%E6%8B%92%E7%BB%9D%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
-9. [周先生和朱小姐的故事](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%85%88%E7%94%9F%E5%92%8C%E6%9C%B1%E5%B0%8F%E5%A7%90%E7%9A%84%E6%95%85%E4%BA%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [一万块钱花一年](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%87%E5%9D%97%E9%92%B1%E8%8A%B1%E4%B8%80%E5%B9%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
