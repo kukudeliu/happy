@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 14:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 14:55:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [好友借5千元16年后仅还1千 法院回应](https://www.baidu.com/s?wd=%E5%A5%BD%E5%8F%8B%E5%80%9F5%E5%8D%83%E5%85%8316%E5%B9%B4%E5%90%8E%E4%BB%85%E8%BF%981%E5%8D%83+%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [预防呼吸道疾病 这几种情况要洗手](https://www.baidu.com/s?wd=%E9%A2%84%E9%98%B2%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85+%E8%BF%99%E5%87%A0%E7%A7%8D%E6%83%85%E5%86%B5%E8%A6%81%E6%B4%97%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [世界上最快的擦肩而过不到1秒](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%BF%AB%E7%9A%84%E6%93%A6%E8%82%A9%E8%80%8C%E8%BF%87%E4%B8%8D%E5%88%B01%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [美议员称中国大蒜构成国家安全风险](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%AE%E5%91%98%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%92%9C%E6%9E%84%E6%88%90%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广西一马戏团让孩子骑老虎拍照](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E9%A9%AC%E6%88%8F%E5%9B%A2%E8%AE%A9%E5%AD%A9%E5%AD%90%E9%AA%91%E8%80%81%E8%99%8E%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子裤子里藏动物走私被抓](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A3%A4%E5%AD%90%E9%87%8C%E8%97%8F%E5%8A%A8%E7%89%A9%E8%B5%B0%E7%A7%81%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [丹东警方回应锁匠帮开锁被炸身亡](https://www.baidu.com/s?wd=%E4%B8%B9%E4%B8%9C%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E9%94%81%E5%8C%A0%E5%B8%AE%E5%BC%80%E9%94%81%E8%A2%AB%E7%82%B8%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美议员称中国大蒜构成国家安全风险](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%AE%E5%91%98%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%92%9C%E6%9E%84%E6%88%90%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广西一马戏团让孩子骑老虎拍照](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E9%A9%AC%E6%88%8F%E5%9B%A2%E8%AE%A9%E5%AD%A9%E5%AD%90%E9%AA%91%E8%80%81%E8%99%8E%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [好友借5千元16年后仅还1千 法院回应](https://www.baidu.com/s?wd=%E5%A5%BD%E5%8F%8B%E5%80%9F5%E5%8D%83%E5%85%8316%E5%B9%B4%E5%90%8E%E4%BB%85%E8%BF%981%E5%8D%83+%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [预防呼吸道疾病 这几种情况要洗手](https://www.baidu.com/s?wd=%E9%A2%84%E9%98%B2%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85+%E8%BF%99%E5%87%A0%E7%A7%8D%E6%83%85%E5%86%B5%E8%A6%81%E6%B4%97%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [世界上最快的擦肩而过不到1秒](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%BF%AB%E7%9A%84%E6%93%A6%E8%82%A9%E8%80%8C%E8%BF%87%E4%B8%8D%E5%88%B01%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [美议员称中国大蒜构成国家安全风险](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%AE%E5%91%98%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%92%9C%E6%9E%84%E6%88%90%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广西一马戏团让孩子骑老虎拍照](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E9%A9%AC%E6%88%8F%E5%9B%A2%E8%AE%A9%E5%AD%A9%E5%AD%90%E9%AA%91%E8%80%81%E8%99%8E%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子裤子里藏动物走私被抓](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A3%A4%E5%AD%90%E9%87%8C%E8%97%8F%E5%8A%A8%E7%89%A9%E8%B5%B0%E7%A7%81%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [丹东警方回应锁匠帮开锁被炸身亡](https://www.baidu.com/s?wd=%E4%B8%B9%E4%B8%9C%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E9%94%81%E5%8C%A0%E5%B8%AE%E5%BC%80%E9%94%81%E8%A2%AB%E7%82%B8%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美议员称中国大蒜构成国家安全风险](https://www.baidu.com/s?wd=%E7%BE%8E%E8%AE%AE%E5%91%98%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%92%9C%E6%9E%84%E6%88%90%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广西一马戏团让孩子骑老虎拍照](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E9%A9%AC%E6%88%8F%E5%9B%A2%E8%AE%A9%E5%AD%A9%E5%AD%90%E9%AA%91%E8%80%81%E8%99%8E%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
