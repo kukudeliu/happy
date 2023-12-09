@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 21:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 21:05:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [杨幂对接辟谣酱园弄客串](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%AF%B9%E6%8E%A5%E8%BE%9F%E8%B0%A3%E9%85%B1%E5%9B%AD%E5%BC%84%E5%AE%A2%E4%B8%B2%23&t=31&band_rank=5&Refer=top)<br />
 6. [王曼昱此球全体起立](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%AD%A4%E7%90%83%E5%85%A8%E4%BD%93%E8%B5%B7%E7%AB%8B&t=31&band_rank=6&Refer=top)<br />
 7. [一万块钱花一年](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%87%E5%9D%97%E9%92%B1%E8%8A%B1%E4%B8%80%E5%B9%B4&t=31&band_rank=7&Refer=top)<br />
-8. [决定朋友圈不再屏蔽爸妈](https://s.weibo.com/weibo?q=%E5%86%B3%E5%AE%9A%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%B8%8D%E5%86%8D%E5%B1%8F%E8%94%BD%E7%88%B8%E5%A6%88&t=31&band_rank=8&Refer=top)<br />
-9. [张碧晨 年底发疯](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%20%E5%B9%B4%E5%BA%95%E5%8F%91%E7%96%AF&t=31&band_rank=9&Refer=top)<br />
+8. [张碧晨 年底发疯](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%20%E5%B9%B4%E5%BA%95%E5%8F%91%E7%96%AF&t=31&band_rank=8&Refer=top)<br />
+9. [决定朋友圈不再屏蔽爸妈](https://s.weibo.com/weibo?q=%E5%86%B3%E5%AE%9A%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%B8%8D%E5%86%8D%E5%B1%8F%E8%94%BD%E7%88%B8%E5%A6%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
