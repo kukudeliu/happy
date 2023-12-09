@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 12:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 12:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [文科 服务业](https://s.weibo.com/weibo?q=%E6%96%87%E7%A7%91%20%E6%9C%8D%E5%8A%A1%E4%B8%9A&t=31&band_rank=6&Refer=top)<br />
 7. [电视喂什么 观众就吃什么](https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%96%82%E4%BB%80%E4%B9%88%20%E8%A7%82%E4%BC%97%E5%B0%B1%E5%90%83%E4%BB%80%E4%B9%88&t=31&band_rank=7&Refer=top)<br />
 8. [香奈儿假刘海发带](https://s.weibo.com/weibo?q=%E9%A6%99%E5%A5%88%E5%84%BF%E5%81%87%E5%88%98%E6%B5%B7%E5%8F%91%E5%B8%A6&t=31&band_rank=8&Refer=top)<br />
-9. [刘诗诗 戏份](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E6%88%8F%E4%BB%BD&t=31&band_rank=9&Refer=top)<br />
+9. [春晚导演看完汗流浃背了](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E5%AF%BC%E6%BC%94%E7%9C%8B%E5%AE%8C%E6%B1%97%E6%B5%81%E6%B5%83%E8%83%8C%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
