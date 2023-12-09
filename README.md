@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 20:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 20:35:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [一万块钱花一年](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%87%E5%9D%97%E9%92%B1%E8%8A%B1%E4%B8%80%E5%B9%B4&t=31&band_rank=4&Refer=top)<br />
 5. [男子裤裆藏3只小动物过海关被查](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A3%A4%E8%A3%86%E8%97%8F3%E5%8F%AA%E5%B0%8F%E5%8A%A8%E7%89%A9%E8%BF%87%E6%B5%B7%E5%85%B3%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨幂 客串](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%20%E5%AE%A2%E4%B8%B2&t=31&band_rank=6&Refer=top)<br />
-7. [朱丹 你的文笔胜过你的表达](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%B9%20%E4%BD%A0%E7%9A%84%E6%96%87%E7%AC%94%E8%83%9C%E8%BF%87%E4%BD%A0%E7%9A%84%E8%A1%A8%E8%BE%BE&t=31&band_rank=7&Refer=top)<br />
+7. [瑞安奥尼尔去世](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%AE%89%E5%A5%A5%E5%B0%BC%E5%B0%94%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [酱园弄](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84&t=31&band_rank=8&Refer=top)<br />
-9. [瑞安奥尼尔去世](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%AE%89%E5%A5%A5%E5%B0%BC%E5%B0%94%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [朱丹 你的文笔胜过你的表达](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%B9%20%E4%BD%A0%E7%9A%84%E6%96%87%E7%AC%94%E8%83%9C%E8%BF%87%E4%BD%A0%E7%9A%84%E8%A1%A8%E8%BE%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
