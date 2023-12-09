@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 11:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 11:06:01</h4></div>
 
 > 微博  
 
@@ -21,10 +21,10 @@
 2. [交警回应男子将女子幼儿强拽下车](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E5%B0%86%E5%A5%B3%E5%AD%90%E5%B9%BC%E5%84%BF%E5%BC%BA%E6%8B%BD%E4%B8%8B%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [程序员每月仅留2千妻子却要离婚](https://www.baidu.com/s?wd=%E7%A8%8B%E5%BA%8F%E5%91%98%E6%AF%8F%E6%9C%88%E4%BB%85%E7%95%992%E5%8D%83%E5%A6%BB%E5%AD%90%E5%8D%B4%E8%A6%81%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [预防呼吸道疾病 这几种情况要洗手](https://www.baidu.com/s?wd=%E9%A2%84%E9%98%B2%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85+%E8%BF%99%E5%87%A0%E7%A7%8D%E6%83%85%E5%86%B5%E8%A6%81%E6%B4%97%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [近期飞机偏离航线事件增多](https://www.baidu.com/s?wd=%E8%BF%91%E6%9C%9F%E9%A3%9E%E6%9C%BA%E5%81%8F%E7%A6%BB%E8%88%AA%E7%BA%BF%E4%BA%8B%E4%BB%B6%E5%A2%9E%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [世界上最快的擦肩而过不到1秒](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%BF%AB%E7%9A%84%E6%93%A6%E8%82%A9%E8%80%8C%E8%BF%87%E4%B8%8D%E5%88%B01%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子裤子里藏动物走私被抓](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A3%A4%E5%AD%90%E9%87%8C%E8%97%8F%E5%8A%A8%E7%89%A9%E8%B5%B0%E7%A7%81%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [唐嫣粉丝后援会宣布停更](https://www.baidu.com/s?wd=%E5%94%90%E5%AB%A3%E7%B2%89%E4%B8%9D%E5%90%8E%E6%8F%B4%E4%BC%9A%E5%AE%A3%E5%B8%83%E5%81%9C%E6%9B%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [世界上最快的擦肩而过不到1秒](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%BF%AB%E7%9A%84%E6%93%A6%E8%82%A9%E8%80%8C%E8%BF%87%E4%B8%8D%E5%88%B01%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子裤子里藏动物走私被抓](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A3%A4%E5%AD%90%E9%87%8C%E8%97%8F%E5%8A%A8%E7%89%A9%E8%B5%B0%E7%A7%81%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [唐嫣粉丝后援会宣布停更](https://www.baidu.com/s?wd=%E5%94%90%E5%AB%A3%E7%B2%89%E4%B8%9D%E5%90%8E%E6%8F%B4%E4%BC%9A%E5%AE%A3%E5%B8%83%E5%81%9C%E6%9B%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [妈妈离家务工前为儿包440个饺子](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E7%A6%BB%E5%AE%B6%E5%8A%A1%E5%B7%A5%E5%89%8D%E4%B8%BA%E5%84%BF%E5%8C%85440%E4%B8%AA%E9%A5%BA%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -33,8 +33,8 @@
 2. [交警回应男子将女子幼儿强拽下车](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E5%B0%86%E5%A5%B3%E5%AD%90%E5%B9%BC%E5%84%BF%E5%BC%BA%E6%8B%BD%E4%B8%8B%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [程序员每月仅留2千妻子却要离婚](https://www.baidu.com/s?wd=%E7%A8%8B%E5%BA%8F%E5%91%98%E6%AF%8F%E6%9C%88%E4%BB%85%E7%95%992%E5%8D%83%E5%A6%BB%E5%AD%90%E5%8D%B4%E8%A6%81%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [预防呼吸道疾病 这几种情况要洗手](https://www.baidu.com/s?wd=%E9%A2%84%E9%98%B2%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85+%E8%BF%99%E5%87%A0%E7%A7%8D%E6%83%85%E5%86%B5%E8%A6%81%E6%B4%97%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [近期飞机偏离航线事件增多](https://www.baidu.com/s?wd=%E8%BF%91%E6%9C%9F%E9%A3%9E%E6%9C%BA%E5%81%8F%E7%A6%BB%E8%88%AA%E7%BA%BF%E4%BA%8B%E4%BB%B6%E5%A2%9E%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [世界上最快的擦肩而过不到1秒](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%BF%AB%E7%9A%84%E6%93%A6%E8%82%A9%E8%80%8C%E8%BF%87%E4%B8%8D%E5%88%B01%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子裤子里藏动物走私被抓](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A3%A4%E5%AD%90%E9%87%8C%E8%97%8F%E5%8A%A8%E7%89%A9%E8%B5%B0%E7%A7%81%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [唐嫣粉丝后援会宣布停更](https://www.baidu.com/s?wd=%E5%94%90%E5%AB%A3%E7%B2%89%E4%B8%9D%E5%90%8E%E6%8F%B4%E4%BC%9A%E5%AE%A3%E5%B8%83%E5%81%9C%E6%9B%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [世界上最快的擦肩而过不到1秒](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%BF%AB%E7%9A%84%E6%93%A6%E8%82%A9%E8%80%8C%E8%BF%87%E4%B8%8D%E5%88%B01%E7%A7%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子裤子里藏动物走私被抓](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A3%A4%E5%AD%90%E9%87%8C%E8%97%8F%E5%8A%A8%E7%89%A9%E8%B5%B0%E7%A7%81%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [唐嫣粉丝后援会宣布停更](https://www.baidu.com/s?wd=%E5%94%90%E5%AB%A3%E7%B2%89%E4%B8%9D%E5%90%8E%E6%8F%B4%E4%BC%9A%E5%AE%A3%E5%B8%83%E5%81%9C%E6%9B%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [妈妈离家务工前为儿包440个饺子](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E7%A6%BB%E5%AE%B6%E5%8A%A1%E5%B7%A5%E5%89%8D%E4%B8%BA%E5%84%BF%E5%8C%85440%E4%B8%AA%E9%A5%BA%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
