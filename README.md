@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 22:34:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 22:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [一天吃掉30万只生蚝](https://s.weibo.com/weibo?q=%E4%B8%80%E5%A4%A9%E5%90%83%E6%8E%8930%E4%B8%87%E5%8F%AA%E7%94%9F%E8%9A%9D&t=31&band_rank=6&Refer=top)<br />
 7. [王曼昱此球全体起立](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%AD%A4%E7%90%83%E5%85%A8%E4%BD%93%E8%B5%B7%E7%AB%8B&t=31&band_rank=7&Refer=top)<br />
 8. [擦网](https://s.weibo.com/weibo?q=%E6%93%A6%E7%BD%91&t=31&band_rank=8&Refer=top)<br />
-9. [大头这一球太敢了](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%A4%B4%E8%BF%99%E4%B8%80%E7%90%83%E5%A4%AA%E6%95%A2%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [王安宇秦海璐 左肩有你](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E7%A7%A6%E6%B5%B7%E7%92%90%20%E5%B7%A6%E8%82%A9%E6%9C%89%E4%BD%A0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
