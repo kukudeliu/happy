@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 15:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 15:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [车厘子价格终于开始跌了](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E4%BB%B7%E6%A0%BC%E7%BB%88%E4%BA%8E%E5%BC%80%E5%A7%8B%E8%B7%8C%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [孔刘说自己已经老了](https://s.weibo.com/weibo?q=%E5%AD%94%E5%88%98%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%B7%B2%E7%BB%8F%E8%80%81%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [赵露思王安宇差点就亲上了](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%8E%8B%E5%AE%89%E5%AE%87%E5%B7%AE%E7%82%B9%E5%B0%B1%E4%BA%B2%E4%B8%8A%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [神隐莲花楼是同一个编剧](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E9%9A%90%E8%8E%B2%E8%8A%B1%E6%A5%BC%E6%98%AF%E5%90%8C%E4%B8%80%E4%B8%AA%E7%BC%96%E5%89%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [虞书欣模仿AI](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%A8%A1%E4%BB%BFAI&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
