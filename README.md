@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 07:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 07:58:01</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [从政治局会议看2024年经济工作动向](https://www.baidu.com/s?wd=%E4%BB%8E%E6%94%BF%E6%B2%BB%E5%B1%80%E4%BC%9A%E8%AE%AE%E7%9C%8B2024%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E5%8A%A8%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [积雪可达15厘米 暴雪寒潮已近在眼前](https://www.baidu.com/s?wd=%E7%A7%AF%E9%9B%AA%E5%8F%AF%E8%BE%BE15%E5%8E%98%E7%B1%B3+%E6%9A%B4%E9%9B%AA%E5%AF%92%E6%BD%AE%E5%B7%B2%E8%BF%91%E5%9C%A8%E7%9C%BC%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [退休教师抄学生作品被判赔10万](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%91%E6%95%99%E5%B8%88%E6%8A%84%E5%AD%A6%E7%94%9F%E4%BD%9C%E5%93%81%E8%A2%AB%E5%88%A4%E8%B5%9410%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [男孩重症肺炎出院第二天上学再中招](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E9%87%8D%E7%97%87%E8%82%BA%E7%82%8E%E5%87%BA%E9%99%A2%E7%AC%AC%E4%BA%8C%E5%A4%A9%E4%B8%8A%E5%AD%A6%E5%86%8D%E4%B8%AD%E6%8B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国外贸提质效果显著](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E6%8F%90%E8%B4%A8%E6%95%88%E6%9E%9C%E6%98%BE%E8%91%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [19岁女子上悬赏公告因高颜值受关注](https://www.baidu.com/s?wd=19%E5%B2%81%E5%A5%B3%E5%AD%90%E4%B8%8A%E6%82%AC%E8%B5%8F%E5%85%AC%E5%91%8A%E5%9B%A0%E9%AB%98%E9%A2%9C%E5%80%BC%E5%8F%97%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男孩重症肺炎出院第二天上学再中招](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E9%87%8D%E7%97%87%E8%82%BA%E7%82%8E%E5%87%BA%E9%99%A2%E7%AC%AC%E4%BA%8C%E5%A4%A9%E4%B8%8A%E5%AD%A6%E5%86%8D%E4%B8%AD%E6%8B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [媒体：老师课堂讲解春宫图怎么了？](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%80%81%E5%B8%88%E8%AF%BE%E5%A0%82%E8%AE%B2%E8%A7%A3%E6%98%A5%E5%AE%AB%E5%9B%BE%E6%80%8E%E4%B9%88%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [赵丽颖 女二](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96+%E5%A5%B3%E4%BA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [省委书记直奔小区 接自来水喝查水质](https://www.baidu.com/s?wd=%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%9B%B4%E5%A5%94%E5%B0%8F%E5%8C%BA+%E6%8E%A5%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%96%9D%E6%9F%A5%E6%B0%B4%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [媒体：老师课堂讲解春宫图怎么了？](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%80%81%E5%B8%88%E8%AF%BE%E5%A0%82%E8%AE%B2%E8%A7%A3%E6%98%A5%E5%AE%AB%E5%9B%BE%E6%80%8E%E4%B9%88%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [将妻儿拖出保时捷的男子称非常后悔](https://www.baidu.com/s?wd=%E5%B0%86%E5%A6%BB%E5%84%BF%E6%8B%96%E5%87%BA%E4%BF%9D%E6%97%B6%E6%8D%B7%E7%9A%84%E7%94%B7%E5%AD%90%E7%A7%B0%E9%9D%9E%E5%B8%B8%E5%90%8E%E6%82%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [19岁女子上悬赏公告因高颜值受关注](https://www.baidu.com/s?wd=19%E5%B2%81%E5%A5%B3%E5%AD%90%E4%B8%8A%E6%82%AC%E8%B5%8F%E5%85%AC%E5%91%8A%E5%9B%A0%E9%AB%98%E9%A2%9C%E5%80%BC%E5%8F%97%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [从政治局会议看2024年经济工作动向](https://www.baidu.com/s?wd=%E4%BB%8E%E6%94%BF%E6%B2%BB%E5%B1%80%E4%BC%9A%E8%AE%AE%E7%9C%8B2024%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E5%8A%A8%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [积雪可达15厘米 暴雪寒潮已近在眼前](https://www.baidu.com/s?wd=%E7%A7%AF%E9%9B%AA%E5%8F%AF%E8%BE%BE15%E5%8E%98%E7%B1%B3+%E6%9A%B4%E9%9B%AA%E5%AF%92%E6%BD%AE%E5%B7%B2%E8%BF%91%E5%9C%A8%E7%9C%BC%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [退休教师抄学生作品被判赔10万](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%91%E6%95%99%E5%B8%88%E6%8A%84%E5%AD%A6%E7%94%9F%E4%BD%9C%E5%93%81%E8%A2%AB%E5%88%A4%E8%B5%9410%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [男孩重症肺炎出院第二天上学再中招](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E9%87%8D%E7%97%87%E8%82%BA%E7%82%8E%E5%87%BA%E9%99%A2%E7%AC%AC%E4%BA%8C%E5%A4%A9%E4%B8%8A%E5%AD%A6%E5%86%8D%E4%B8%AD%E6%8B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国外贸提质效果显著](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E6%8F%90%E8%B4%A8%E6%95%88%E6%9E%9C%E6%98%BE%E8%91%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [19岁女子上悬赏公告因高颜值受关注](https://www.baidu.com/s?wd=19%E5%B2%81%E5%A5%B3%E5%AD%90%E4%B8%8A%E6%82%AC%E8%B5%8F%E5%85%AC%E5%91%8A%E5%9B%A0%E9%AB%98%E9%A2%9C%E5%80%BC%E5%8F%97%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男孩重症肺炎出院第二天上学再中招](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E9%87%8D%E7%97%87%E8%82%BA%E7%82%8E%E5%87%BA%E9%99%A2%E7%AC%AC%E4%BA%8C%E5%A4%A9%E4%B8%8A%E5%AD%A6%E5%86%8D%E4%B8%AD%E6%8B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [媒体：老师课堂讲解春宫图怎么了？](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%80%81%E5%B8%88%E8%AF%BE%E5%A0%82%E8%AE%B2%E8%A7%A3%E6%98%A5%E5%AE%AB%E5%9B%BE%E6%80%8E%E4%B9%88%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [赵丽颖 女二](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96+%E5%A5%B3%E4%BA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [省委书记直奔小区 接自来水喝查水质](https://www.baidu.com/s?wd=%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%9B%B4%E5%A5%94%E5%B0%8F%E5%8C%BA+%E6%8E%A5%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%96%9D%E6%9F%A5%E6%B0%B4%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [媒体：老师课堂讲解春宫图怎么了？](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%80%81%E5%B8%88%E8%AF%BE%E5%A0%82%E8%AE%B2%E8%A7%A3%E6%98%A5%E5%AE%AB%E5%9B%BE%E6%80%8E%E4%B9%88%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [将妻儿拖出保时捷的男子称非常后悔](https://www.baidu.com/s?wd=%E5%B0%86%E5%A6%BB%E5%84%BF%E6%8B%96%E5%87%BA%E4%BF%9D%E6%97%B6%E6%8D%B7%E7%9A%84%E7%94%B7%E5%AD%90%E7%A7%B0%E9%9D%9E%E5%B8%B8%E5%90%8E%E6%82%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [19岁女子上悬赏公告因高颜值受关注](https://www.baidu.com/s?wd=19%E5%B2%81%E5%A5%B3%E5%AD%90%E4%B8%8A%E6%82%AC%E8%B5%8F%E5%85%AC%E5%91%8A%E5%9B%A0%E9%AB%98%E9%A2%9C%E5%80%BC%E5%8F%97%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
