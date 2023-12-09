@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 12:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 12:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [文科 服务业](https://s.weibo.com/weibo?q=%E6%96%87%E7%A7%91%20%E6%9C%8D%E5%8A%A1%E4%B8%9A&t=31&band_rank=5&Refer=top)<br />
 6. [周杰伦演唱会 提前半年抢票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%8F%90%E5%89%8D%E5%8D%8A%E5%B9%B4%E6%8A%A2%E7%A5%A8&t=31&band_rank=6&Refer=top)<br />
 7. [春晚导演看完汗流浃背了](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E5%AF%BC%E6%BC%94%E7%9C%8B%E5%AE%8C%E6%B1%97%E6%B5%81%E6%B5%83%E8%83%8C%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [捡别人身份证结婚害对方无法登记结婚](https://s.weibo.com/weibo?q=%23%E6%8D%A1%E5%88%AB%E4%BA%BA%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%BB%93%E5%A9%9A%E5%AE%B3%E5%AF%B9%E6%96%B9%E6%97%A0%E6%B3%95%E7%99%BB%E8%AE%B0%E7%BB%93%E5%A9%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [解清帅拒绝父亲送3房1车](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%B8%85%E5%B8%85%E6%8B%92%E7%BB%9D%E7%88%B6%E4%BA%B2%E9%80%813%E6%88%BF1%E8%BD%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [爱奇艺转发刘诗诗微博](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E8%BD%AC%E5%8F%91%E5%88%98%E8%AF%97%E8%AF%97%E5%BE%AE%E5%8D%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [捡别人身份证结婚害对方无法登记结婚](https://s.weibo.com/weibo?q=%23%E6%8D%A1%E5%88%AB%E4%BA%BA%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%BB%93%E5%A9%9A%E5%AE%B3%E5%AF%B9%E6%96%B9%E6%97%A0%E6%B3%95%E7%99%BB%E8%AE%B0%E7%BB%93%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
