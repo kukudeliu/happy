@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 22:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 22:48:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [塌腰](https://s.weibo.com/weibo?q=%E5%A1%8C%E8%85%B0&t=31&band_rank=4&Refer=top)<br />
 5. [国乒8比5日本](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%928%E6%AF%945%E6%97%A5%E6%9C%AC%23&t=31&band_rank=5&Refer=top)<br />
 6. [樊振东1比2张本智和](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C1%E6%AF%942%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23&t=31&band_rank=6&Refer=top)<br />
-7. [擦网](https://s.weibo.com/weibo?q=%E6%93%A6%E7%BD%91&t=31&band_rank=7&Refer=top)<br />
-8. [王曼昱此球全体起立](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%AD%A4%E7%90%83%E5%85%A8%E4%BD%93%E8%B5%B7%E7%AB%8B&t=31&band_rank=8&Refer=top)<br />
-9. [一天吃掉30万只生蚝](https://s.weibo.com/weibo?q=%E4%B8%80%E5%A4%A9%E5%90%83%E6%8E%8930%E4%B8%87%E5%8F%AA%E7%94%9F%E8%9A%9D&t=31&band_rank=9&Refer=top)<br />
+7. [王曼昱此球全体起立](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%AD%A4%E7%90%83%E5%85%A8%E4%BD%93%E8%B5%B7%E7%AB%8B&t=31&band_rank=7&Refer=top)<br />
+8. [擦网](https://s.weibo.com/weibo?q=%E6%93%A6%E7%BD%91&t=31&band_rank=8&Refer=top)<br />
+9. [南京大屠杀又添新证据](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E5%8F%88%E6%B7%BB%E6%96%B0%E8%AF%81%E6%8D%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
