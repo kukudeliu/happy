@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 18:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 18:42:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [原来茶位费是可以拒绝的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%8C%B6%E4%BD%8D%E8%B4%B9%E6%98%AF%E5%8F%AF%E4%BB%A5%E6%8B%92%E7%BB%9D%E7%9A%84&t=31&band_rank=4&Refer=top)<br />
 5. [新郎接亲时提出一个请求笑翻众人](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E6%8E%A5%E4%BA%B2%E6%97%B6%E6%8F%90%E5%87%BA%E4%B8%80%E4%B8%AA%E8%AF%B7%E6%B1%82%E7%AC%91%E7%BF%BB%E4%BC%97%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [周先生和朱小姐的故事](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%85%88%E7%94%9F%E5%92%8C%E6%9C%B1%E5%B0%8F%E5%A7%90%E7%9A%84%E6%95%85%E4%BA%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [多位脱口秀女演员发声明拒绝性骚扰](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BD%8D%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A5%B3%E6%BC%94%E5%91%98%E5%8F%91%E5%A3%B0%E6%98%8E%E6%8B%92%E7%BB%9D%E6%80%A7%E9%AA%9A%E6%89%B0%23&t=31&band_rank=7&Refer=top)<br />
-8. [文科生就业率不到理科生一半](https://s.weibo.com/weibo?q=%23%E6%96%87%E7%A7%91%E7%94%9F%E5%B0%B1%E4%B8%9A%E7%8E%87%E4%B8%8D%E5%88%B0%E7%90%86%E7%A7%91%E7%94%9F%E4%B8%80%E5%8D%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [爷爷陪小猫打针还给小猫暖输液管](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E9%99%AA%E5%B0%8F%E7%8C%AB%E6%89%93%E9%92%88%E8%BF%98%E7%BB%99%E5%B0%8F%E7%8C%AB%E6%9A%96%E8%BE%93%E6%B6%B2%E7%AE%A1%23&t=31&band_rank=9&Refer=top)<br />
+7. [爷爷陪小猫打针还给小猫暖输液管](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E9%99%AA%E5%B0%8F%E7%8C%AB%E6%89%93%E9%92%88%E8%BF%98%E7%BB%99%E5%B0%8F%E7%8C%AB%E6%9A%96%E8%BE%93%E6%B6%B2%E7%AE%A1%23&t=31&band_rank=7&Refer=top)<br />
+8. [多位脱口秀女演员发声明拒绝性骚扰](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BD%8D%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A5%B3%E6%BC%94%E5%91%98%E5%8F%91%E5%A3%B0%E6%98%8E%E6%8B%92%E7%BB%9D%E6%80%A7%E9%AA%9A%E6%89%B0%23&t=31&band_rank=8&Refer=top)<br />
+9. [文科生就业率不到理科生一半](https://s.weibo.com/weibo?q=%23%E6%96%87%E7%A7%91%E7%94%9F%E5%B0%B1%E4%B8%9A%E7%8E%87%E4%B8%8D%E5%88%B0%E7%90%86%E7%A7%91%E7%94%9F%E4%B8%80%E5%8D%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
