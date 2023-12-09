@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 11:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 11:43:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [车厘子价格终于开始跌了](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E4%BB%B7%E6%A0%BC%E7%BB%88%E4%BA%8E%E5%BC%80%E5%A7%8B%E8%B7%8C%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [刘诗诗 戏份](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E6%88%8F%E4%BB%BD&t=31&band_rank=5&Refer=top)<br />
 6. [东京迪士尼米妮被同事掀裙子](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E4%BA%AC%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%B1%B3%E5%A6%AE%E8%A2%AB%E5%90%8C%E4%BA%8B%E6%8E%80%E8%A3%99%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
-7. [刘冲 我身高176](https://s.weibo.com/weibo?q=%E5%88%98%E5%86%B2%20%E6%88%91%E8%BA%AB%E9%AB%98176&t=31&band_rank=7&Refer=top)<br />
-8. [文科 服务业](https://s.weibo.com/weibo?q=%E6%96%87%E7%A7%91%20%E6%9C%8D%E5%8A%A1%E4%B8%9A&t=31&band_rank=8&Refer=top)<br />
+7. [文科 服务业](https://s.weibo.com/weibo?q=%E6%96%87%E7%A7%91%20%E6%9C%8D%E5%8A%A1%E4%B8%9A&t=31&band_rank=7&Refer=top)<br />
+8. [刘冲 我身高176](https://s.weibo.com/weibo?q=%E5%88%98%E5%86%B2%20%E6%88%91%E8%BA%AB%E9%AB%98176&t=31&band_rank=8&Refer=top)<br />
 9. [周杰伦演唱会 提前半年抢票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%8F%90%E5%89%8D%E5%8D%8A%E5%B9%B4%E6%8A%A2%E7%A5%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
