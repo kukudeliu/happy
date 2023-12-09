@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 00:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 00:07:01</h4></div>
 
 > 微博  
 
 1. [塌腰](https://s.weibo.com/weibo?q=%E5%A1%8C%E8%85%B0&t=31&band_rank=1&Refer=top)<br />
-2. [赵丽颖 女二](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E5%A5%B3%E4%BA%8C&t=31&band_rank=2&Refer=top)<br />
+2. [第一学历](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86&t=31&band_rank=2&Refer=top)<br />
 3. [太空种菜还能调节航天员情绪](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E7%A7%8D%E8%8F%9C%E8%BF%98%E8%83%BD%E8%B0%83%E8%8A%82%E8%88%AA%E5%A4%A9%E5%91%98%E6%83%85%E7%BB%AA%23&t=31&band_rank=3&Refer=top)<br />
-4. [第一学历](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86&t=31&band_rank=4&Refer=top)<br />
+4. [赵丽颖 女二](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E5%A5%B3%E4%BA%8C&t=31&band_rank=4&Refer=top)<br />
 5. [南京大屠杀又添新证据](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E5%8F%88%E6%B7%BB%E6%96%B0%E8%AF%81%E6%8D%AE%23&t=31&band_rank=5&Refer=top)<br />
 6. [黄晓明带儿子去迪士尼](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%B8%A6%E5%84%BF%E5%AD%90%E5%8E%BB%E8%BF%AA%E5%A3%AB%E5%B0%BC%23&t=31&band_rank=6&Refer=top)<br />
 7. [白鹿不跑真的就白录了](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E4%B8%8D%E8%B7%91%E7%9C%9F%E7%9A%84%E5%B0%B1%E7%99%BD%E5%BD%95%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
