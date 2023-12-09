@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 10:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 10:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [刘诗诗 戏份](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E6%88%8F%E4%BB%BD&t=31&band_rank=5&Refer=top)<br />
 6. [小杨哥回应徒弟直播间开播秒封](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E5%BE%92%E5%BC%9F%E7%9B%B4%E6%92%AD%E9%97%B4%E5%BC%80%E6%92%AD%E7%A7%92%E5%B0%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [官方通报警务辅助人员称要查网友个人信息](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%AD%A6%E5%8A%A1%E8%BE%85%E5%8A%A9%E4%BA%BA%E5%91%98%E7%A7%B0%E8%A6%81%E6%9F%A5%E7%BD%91%E5%8F%8B%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%23&t=31&band_rank=7&Refer=top)<br />
-8. [经常早醒的人要警惕4种病](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E6%97%A9%E9%86%92%E7%9A%84%E4%BA%BA%E8%A6%81%E8%AD%A6%E6%83%954%E7%A7%8D%E7%97%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [徐冬冬退赛](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%86%AC%E5%86%AC%E9%80%80%E8%B5%9B%23&t=31&band_rank=9&Refer=top)<br />
+8. [解清帅拒绝父亲送3房1车](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%B8%85%E5%B8%85%E6%8B%92%E7%BB%9D%E7%88%B6%E4%BA%B2%E9%80%813%E6%88%BF1%E8%BD%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [经常早醒的人要警惕4种病](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E6%97%A9%E9%86%92%E7%9A%84%E4%BA%BA%E8%A6%81%E8%AD%A6%E6%83%954%E7%A7%8D%E7%97%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
