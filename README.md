@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 18:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 18:40:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [林孝埈刘少昂相撞](https://www.baidu.com/s?wd=%E6%9E%97%E5%AD%9D%E5%9F%88%E5%88%98%E5%B0%91%E6%98%82%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [粉丝称巴黎场阿信唱到E6还飙到F6](https://www.baidu.com/s?wd=%E7%B2%89%E4%B8%9D%E7%A7%B0%E5%B7%B4%E9%BB%8E%E5%9C%BA%E9%98%BF%E4%BF%A1%E5%94%B1%E5%88%B0E6%E8%BF%98%E9%A3%99%E5%88%B0F6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中学生被打进ICU 专家称抢救难度大](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%89%93%E8%BF%9BICU+%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%8A%A2%E6%95%91%E9%9A%BE%E5%BA%A6%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [战国赵长城遗址遭破坏调查](https://www.baidu.com/s?wd=%E6%88%98%E5%9B%BD%E8%B5%B5%E9%95%BF%E5%9F%8E%E9%81%97%E5%9D%80%E9%81%AD%E7%A0%B4%E5%9D%8F%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [司机撞倒外卖小哥后下车扭头就走](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E6%92%9E%E5%80%92%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%90%8E%E4%B8%8B%E8%BD%A6%E6%89%AD%E5%A4%B4%E5%B0%B1%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [林孝埈刘少昂相撞](https://www.baidu.com/s?wd=%E6%9E%97%E5%AD%9D%E5%9F%88%E5%88%98%E5%B0%91%E6%98%82%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [粉丝称巴黎场阿信唱到E6还飙到F6](https://www.baidu.com/s?wd=%E7%B2%89%E4%B8%9D%E7%A7%B0%E5%B7%B4%E9%BB%8E%E5%9C%BA%E9%98%BF%E4%BF%A1%E5%94%B1%E5%88%B0E6%E8%BF%98%E9%A3%99%E5%88%B0F6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中学生被打进ICU 专家称抢救难度大](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%89%93%E8%BF%9BICU+%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%8A%A2%E6%95%91%E9%9A%BE%E5%BA%A6%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [战国赵长城遗址遭破坏调查](https://www.baidu.com/s?wd=%E6%88%98%E5%9B%BD%E8%B5%B5%E9%95%BF%E5%9F%8E%E9%81%97%E5%9D%80%E9%81%AD%E7%A0%B4%E5%9D%8F%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [司机撞倒外卖小哥后下车扭头就走](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E6%92%9E%E5%80%92%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%90%8E%E4%B8%8B%E8%BD%A6%E6%89%AD%E5%A4%B4%E5%B0%B1%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
