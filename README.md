@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 20:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 20:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [酱园弄](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84&t=31&band_rank=6&Refer=top)<br />
 7. [娜扎 美神](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%20%E7%BE%8E%E7%A5%9E&t=31&band_rank=7&Refer=top)<br />
 8. [WBG 续约](https://s.weibo.com/weibo?q=WBG%20%E7%BB%AD%E7%BA%A6&t=31&band_rank=8&Refer=top)<br />
-9. [原来茶位费是可以拒绝的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%8C%B6%E4%BD%8D%E8%B4%B9%E6%98%AF%E5%8F%AF%E4%BB%A5%E6%8B%92%E7%BB%9D%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+9. [丹东警方回应锁匠帮开锁被炸身亡](https://s.weibo.com/weibo?q=%23%E4%B8%B9%E4%B8%9C%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E9%94%81%E5%8C%A0%E5%B8%AE%E5%BC%80%E9%94%81%E8%A2%AB%E7%82%B8%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
