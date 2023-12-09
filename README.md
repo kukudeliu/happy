@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 19:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 19:32:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [新郎接亲时提出一个请求笑翻众人](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E6%8E%A5%E4%BA%B2%E6%97%B6%E6%8F%90%E5%87%BA%E4%B8%80%E4%B8%AA%E8%AF%B7%E6%B1%82%E7%AC%91%E7%BF%BB%E4%BC%97%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨幂 客串](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%20%E5%AE%A2%E4%B8%B2&t=31&band_rank=6&Refer=top)<br />
 7. [爷爷陪小猫打针还给小猫暖输液管](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E9%99%AA%E5%B0%8F%E7%8C%AB%E6%89%93%E9%92%88%E8%BF%98%E7%BB%99%E5%B0%8F%E7%8C%AB%E6%9A%96%E8%BE%93%E6%B6%B2%E7%AE%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [娜扎 美神](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%20%E7%BE%8E%E7%A5%9E&t=31&band_rank=8&Refer=top)<br />
-9. [一万块钱花一年](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%87%E5%9D%97%E9%92%B1%E8%8A%B1%E4%B8%80%E5%B9%B4&t=31&band_rank=9&Refer=top)<br />
+8. [一万块钱花一年](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%87%E5%9D%97%E9%92%B1%E8%8A%B1%E4%B8%80%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
+9. [娜扎 美神](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%20%E7%BE%8E%E7%A5%9E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
