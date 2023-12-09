@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 17:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 17:52:01</h4></div>
 
 > 微博  
 
-1. [原来茶位费是可以拒绝的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%8C%B6%E4%BD%8D%E8%B4%B9%E6%98%AF%E5%8F%AF%E4%BB%A5%E6%8B%92%E7%BB%9D%E7%9A%84&t=31&band_rank=1&Refer=top)<br />
-2. [林孝埈刘少昂相撞](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E5%88%98%E5%B0%91%E6%98%82%E7%9B%B8%E6%92%9E%23&t=31&band_rank=2&Refer=top)<br />
+1. [林孝埈刘少昂相撞](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E5%88%98%E5%B0%91%E6%98%82%E7%9B%B8%E6%92%9E%23&t=31&band_rank=1&Refer=top)<br />
+2. [原来茶位费是可以拒绝的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%8C%B6%E4%BD%8D%E8%B4%B9%E6%98%AF%E5%8F%AF%E4%BB%A5%E6%8B%92%E7%BB%9D%E7%9A%84&t=31&band_rank=2&Refer=top)<br />
 3. [三招养护呼吸道健康](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%8B%9B%E5%85%BB%E6%8A%A4%E5%91%BC%E5%90%B8%E9%81%93%E5%81%A5%E5%BA%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [周先生和朱小姐的故事](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%85%88%E7%94%9F%E5%92%8C%E6%9C%B1%E5%B0%8F%E5%A7%90%E7%9A%84%E6%95%85%E4%BA%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [东航MU533航班空中放油后备降浦东机场](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AAMU533%E8%88%AA%E7%8F%AD%E7%A9%BA%E4%B8%AD%E6%94%BE%E6%B2%B9%E5%90%8E%E5%A4%87%E9%99%8D%E6%B5%A6%E4%B8%9C%E6%9C%BA%E5%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
