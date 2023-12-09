@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 12:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 12:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [春晚导演看完汗流浃背了](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E5%AF%BC%E6%BC%94%E7%9C%8B%E5%AE%8C%E6%B1%97%E6%B5%81%E6%B5%83%E8%83%8C%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [文科 服务业](https://s.weibo.com/weibo?q=%E6%96%87%E7%A7%91%20%E6%9C%8D%E5%8A%A1%E4%B8%9A&t=31&band_rank=7&Refer=top)<br />
 8. [周杰伦演唱会 提前半年抢票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%8F%90%E5%89%8D%E5%8D%8A%E5%B9%B4%E6%8A%A2%E7%A5%A8&t=31&band_rank=8&Refer=top)<br />
-9. [捡别人身份证结婚害对方无法登记结婚](https://s.weibo.com/weibo?q=%23%E6%8D%A1%E5%88%AB%E4%BA%BA%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%BB%93%E5%A9%9A%E5%AE%B3%E5%AF%B9%E6%96%B9%E6%97%A0%E6%B3%95%E7%99%BB%E8%AE%B0%E7%BB%93%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [古茗小程序崩了](https://s.weibo.com/weibo?q=%E5%8F%A4%E8%8C%97%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
