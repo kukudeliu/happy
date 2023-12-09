@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 15:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-09 15:40:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [大女主 中国特产](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%A5%B3%E4%B8%BB%20%E4%B8%AD%E5%9B%BD%E7%89%B9%E4%BA%A7&t=31&band_rank=4&Refer=top)<br />
 5. [南昌20死19伤重大交通事故调查报告](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%98%8C20%E6%AD%BB19%E4%BC%A4%E9%87%8D%E5%A4%A7%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%23&t=31&band_rank=5&Refer=top)<br />
 6. [车厘子价格终于开始跌了](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E4%BB%B7%E6%A0%BC%E7%BB%88%E4%BA%8E%E5%BC%80%E5%A7%8B%E8%B7%8C%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [虞书欣模仿AI](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%A8%A1%E4%BB%BFAI&t=31&band_rank=7&Refer=top)<br />
-8. [孔刘说自己已经老了](https://s.weibo.com/weibo?q=%E5%AD%94%E5%88%98%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%B7%B2%E7%BB%8F%E8%80%81%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+7. [孔刘说自己已经老了](https://s.weibo.com/weibo?q=%E5%AD%94%E5%88%98%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%B7%B2%E7%BB%8F%E8%80%81%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [虞书欣模仿AI](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%A8%A1%E4%BB%BFAI&t=31&band_rank=8&Refer=top)<br />
 9. [67岁老人握妻子手买人生第一套房](https://s.weibo.com/weibo?q=%2367%E5%B2%81%E8%80%81%E4%BA%BA%E6%8F%A1%E5%A6%BB%E5%AD%90%E6%89%8B%E4%B9%B0%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%A5%97%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
