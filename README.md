@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 07:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 07:52:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [缅北四大家族](https://s.weibo.com/weibo?q=%E7%BC%85%E5%8C%97%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F&t=31&band_rank=5&Refer=top)<br />
 6. [北京下雪](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA&t=31&band_rank=6&Refer=top)<br />
 7. [在暴雪时分预约人数破100万](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%9A%B4%E9%9B%AA%E6%97%B6%E5%88%86%E9%A2%84%E7%BA%A6%E4%BA%BA%E6%95%B0%E7%A0%B4100%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [花花58码的jiojio和脸脸一样大](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B158%E7%A0%81%E7%9A%84jiojio%E5%92%8C%E8%84%B8%E8%84%B8%E4%B8%80%E6%A0%B7%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [张万森 雪崩了](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%B8%87%E6%A3%AE%20%E9%9B%AA%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [陈思诚 感谢家人们给我的名字](https://s.weibo.com/weibo?q=%E9%99%88%E6%80%9D%E8%AF%9A%20%E6%84%9F%E8%B0%A2%E5%AE%B6%E4%BA%BA%E4%BB%AC%E7%BB%99%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97&t=31&band_rank=8&Refer=top)<br />
+9. [花花58码的jiojio和脸脸一样大](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B158%E7%A0%81%E7%9A%84jiojio%E5%92%8C%E8%84%B8%E8%84%B8%E4%B8%80%E6%A0%B7%E5%A4%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
