@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 21:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 21:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [国企副总与他人以夫妻名义生活](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E5%89%AF%E6%80%BB%E4%B8%8E%E4%BB%96%E4%BA%BA%E4%BB%A5%E5%A4%AB%E5%A6%BB%E5%90%8D%E4%B9%89%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [16岁女生和班主任同宿5次后自杀](https://www.baidu.com/s?wd=16%E5%B2%81%E5%A5%B3%E7%94%9F%E5%92%8C%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%90%8C%E5%AE%BF5%E6%AC%A1%E5%90%8E%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [金店为什么都盯上了县城？](https://www.baidu.com/s?wd=%E9%87%91%E5%BA%97%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E7%9B%AF%E4%B8%8A%E4%BA%86%E5%8E%BF%E5%9F%8E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [万元自助餐年卡限消龙虾？酒店回应](https://www.baidu.com/s?wd=%E4%B8%87%E5%85%83%E8%87%AA%E5%8A%A9%E9%A4%90%E5%B9%B4%E5%8D%A1%E9%99%90%E6%B6%88%E9%BE%99%E8%99%BE%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [省委书记直奔小区 接自来水喝查水质](https://www.baidu.com/s?wd=%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%9B%B4%E5%A5%94%E5%B0%8F%E5%8C%BA+%E6%8E%A5%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%96%9D%E6%9F%A5%E6%B0%B4%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [咖啡再传致癌？消协辟谣](https://www.baidu.com/s?wd=%E5%92%96%E5%95%A1%E5%86%8D%E4%BC%A0%E8%87%B4%E7%99%8C%EF%BC%9F%E6%B6%88%E5%8D%8F%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [国企副总与他人以夫妻名义生活](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E5%89%AF%E6%80%BB%E4%B8%8E%E4%BB%96%E4%BA%BA%E4%BB%A5%E5%A4%AB%E5%A6%BB%E5%90%8D%E4%B9%89%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [16岁女生和班主任同宿5次后自杀](https://www.baidu.com/s?wd=16%E5%B2%81%E5%A5%B3%E7%94%9F%E5%92%8C%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%90%8C%E5%AE%BF5%E6%AC%A1%E5%90%8E%E8%87%AA%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [金店为什么都盯上了县城？](https://www.baidu.com/s?wd=%E9%87%91%E5%BA%97%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E7%9B%AF%E4%B8%8A%E4%BA%86%E5%8E%BF%E5%9F%8E%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [万元自助餐年卡限消龙虾？酒店回应](https://www.baidu.com/s?wd=%E4%B8%87%E5%85%83%E8%87%AA%E5%8A%A9%E9%A4%90%E5%B9%B4%E5%8D%A1%E9%99%90%E6%B6%88%E9%BE%99%E8%99%BE%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [省委书记直奔小区 接自来水喝查水质](https://www.baidu.com/s?wd=%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%9B%B4%E5%A5%94%E5%B0%8F%E5%8C%BA+%E6%8E%A5%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%96%9D%E6%9F%A5%E6%B0%B4%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [咖啡再传致癌？消协辟谣](https://www.baidu.com/s?wd=%E5%92%96%E5%95%A1%E5%86%8D%E4%BC%A0%E8%87%B4%E7%99%8C%EF%BC%9F%E6%B6%88%E5%8D%8F%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
