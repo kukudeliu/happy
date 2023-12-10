@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 13:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 13:42:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [男子吃隔夜菜被送进ICU 医生提醒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E9%9A%94%E5%A4%9C%E8%8F%9C%E8%A2%AB%E9%80%81%E8%BF%9BICU+%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [20余只猫被锁店里饿到自相残杀](https://www.baidu.com/s?wd=20%E4%BD%99%E5%8F%AA%E7%8C%AB%E8%A2%AB%E9%94%81%E5%BA%97%E9%87%8C%E9%A5%BF%E5%88%B0%E8%87%AA%E7%9B%B8%E6%AE%8B%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京一公交车报站屏错字连连被吐槽](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%85%AC%E4%BA%A4%E8%BD%A6%E6%8A%A5%E7%AB%99%E5%B1%8F%E9%94%99%E5%AD%97%E8%BF%9E%E8%BF%9E%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子因一个热水器救了一栋楼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E4%B8%80%E4%B8%AA%E7%83%AD%E6%B0%B4%E5%99%A8%E6%95%91%E4%BA%86%E4%B8%80%E6%A0%8B%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广州地铁将禁止电子设备外放声音](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E5%B0%86%E7%A6%81%E6%AD%A2%E7%94%B5%E5%AD%90%E8%AE%BE%E5%A4%87%E5%A4%96%E6%94%BE%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生肺叶变白妈妈拒住院：耽误功课](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%82%BA%E5%8F%B6%E5%8F%98%E7%99%BD%E5%A6%88%E5%A6%88%E6%8B%92%E4%BD%8F%E9%99%A2%EF%BC%9A%E8%80%BD%E8%AF%AF%E5%8A%9F%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张雪峰称当网红无非两种结果](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A7%B0%E5%BD%93%E7%BD%91%E7%BA%A2%E6%97%A0%E9%9D%9E%E4%B8%A4%E7%A7%8D%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [男子吃隔夜菜被送进ICU 医生提醒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E9%9A%94%E5%A4%9C%E8%8F%9C%E8%A2%AB%E9%80%81%E8%BF%9BICU+%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [20余只猫被锁店里饿到自相残杀](https://www.baidu.com/s?wd=20%E4%BD%99%E5%8F%AA%E7%8C%AB%E8%A2%AB%E9%94%81%E5%BA%97%E9%87%8C%E9%A5%BF%E5%88%B0%E8%87%AA%E7%9B%B8%E6%AE%8B%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京一公交车报站屏错字连连被吐槽](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%85%AC%E4%BA%A4%E8%BD%A6%E6%8A%A5%E7%AB%99%E5%B1%8F%E9%94%99%E5%AD%97%E8%BF%9E%E8%BF%9E%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子因一个热水器救了一栋楼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E4%B8%80%E4%B8%AA%E7%83%AD%E6%B0%B4%E5%99%A8%E6%95%91%E4%BA%86%E4%B8%80%E6%A0%8B%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广州地铁将禁止电子设备外放声音](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E5%B0%86%E7%A6%81%E6%AD%A2%E7%94%B5%E5%AD%90%E8%AE%BE%E5%A4%87%E5%A4%96%E6%94%BE%E5%A3%B0%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生肺叶变白妈妈拒住院：耽误功课](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%82%BA%E5%8F%B6%E5%8F%98%E7%99%BD%E5%A6%88%E5%A6%88%E6%8B%92%E4%BD%8F%E9%99%A2%EF%BC%9A%E8%80%BD%E8%AF%AF%E5%8A%9F%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [张雪峰称当网红无非两种结果](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A7%B0%E5%BD%93%E7%BD%91%E7%BA%A2%E6%97%A0%E9%9D%9E%E4%B8%A4%E7%A7%8D%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
