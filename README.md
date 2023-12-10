@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 08:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 08:57:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [男子解开安全带拿吃的致一死一伤](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A7%A3%E5%BC%80%E5%AE%89%E5%85%A8%E5%B8%A6%E6%8B%BF%E5%90%83%E7%9A%84%E8%87%B4%E4%B8%80%E6%AD%BB%E4%B8%80%E4%BC%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [专家称张雪峰言论过于极端](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%E8%BF%87%E4%BA%8E%E6%9E%81%E7%AB%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [娜扎经纪人 造型参考人物是维纳斯](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%20%E9%80%A0%E5%9E%8B%E5%8F%82%E8%80%83%E4%BA%BA%E7%89%A9%E6%98%AF%E7%BB%B4%E7%BA%B3%E6%96%AF&t=31&band_rank=6&Refer=top)<br />
-7. [第一学历](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86&t=31&band_rank=7&Refer=top)<br />
-8. [一个人不舔人的社会从尊重服务业开始](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%B8%8D%E8%88%94%E4%BA%BA%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%BB%8E%E5%B0%8A%E9%87%8D%E6%9C%8D%E5%8A%A1%E4%B8%9A%E5%BC%80%E5%A7%8B%23&t=31&band_rank=8&Refer=top)<br />
+7. [一个人不舔人的社会从尊重服务业开始](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%B8%8D%E8%88%94%E4%BA%BA%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%BB%8E%E5%B0%8A%E9%87%8D%E6%9C%8D%E5%8A%A1%E4%B8%9A%E5%BC%80%E5%A7%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [第一学历](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86&t=31&band_rank=8&Refer=top)<br />
 9. [拖拽妻儿男子回应称非常后悔](https://s.weibo.com/weibo?q=%23%E6%8B%96%E6%8B%BD%E5%A6%BB%E5%84%BF%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E7%A7%B0%E9%9D%9E%E5%B8%B8%E5%90%8E%E6%82%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
