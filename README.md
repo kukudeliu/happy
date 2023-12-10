@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 08:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 08:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [专家称张雪峰言论过于极端](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%E8%BF%87%E4%BA%8E%E6%9E%81%E7%AB%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [第一学历](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86&t=31&band_rank=7&Refer=top)<br />
 8. [拖拽妻儿男子回应称非常后悔](https://s.weibo.com/weibo?q=%23%E6%8B%96%E6%8B%BD%E5%A6%BB%E5%84%BF%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E7%A7%B0%E9%9D%9E%E5%B8%B8%E5%90%8E%E6%82%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [林俊杰南宁 吃太香了](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%8D%97%E5%AE%81%20%E5%90%83%E5%A4%AA%E9%A6%99%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [TheShy 降薪](https://s.weibo.com/weibo?q=TheShy%20%E9%99%8D%E8%96%AA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
