@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 08:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 08:39:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [吉祥航空承认因失误导致乘客滞留机场](https://s.weibo.com/weibo?q=%23%E5%90%89%E7%A5%A5%E8%88%AA%E7%A9%BA%E6%89%BF%E8%AE%A4%E5%9B%A0%E5%A4%B1%E8%AF%AF%E5%AF%BC%E8%87%B4%E4%B9%98%E5%AE%A2%E6%BB%9E%E7%95%99%E6%9C%BA%E5%9C%BA%23&t=31&band_rank=2&Refer=top)<br />
 3. [太空种菜还能调节航天员情绪](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E7%A7%8D%E8%8F%9C%E8%BF%98%E8%83%BD%E8%B0%83%E8%8A%82%E8%88%AA%E5%A4%A9%E5%91%98%E6%83%85%E7%BB%AA%23&t=31&band_rank=3&Refer=top)<br />
 4. [娜扎经纪人 造型参考人物是维纳斯](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%20%E9%80%A0%E5%9E%8B%E5%8F%82%E8%80%83%E4%BA%BA%E7%89%A9%E6%98%AF%E7%BB%B4%E7%BA%B3%E6%96%AF&t=31&band_rank=4&Refer=top)<br />
-5. [专家称张雪峰言论过于极端](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%E8%BF%87%E4%BA%8E%E6%9E%81%E7%AB%AF%23&t=31&band_rank=5&Refer=top)<br />
-6. [男子解开安全带拿吃的致一死一伤](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A7%A3%E5%BC%80%E5%AE%89%E5%85%A8%E5%B8%A6%E6%8B%BF%E5%90%83%E7%9A%84%E8%87%B4%E4%B8%80%E6%AD%BB%E4%B8%80%E4%BC%A4%23&t=31&band_rank=6&Refer=top)<br />
+5. [男子解开安全带拿吃的致一死一伤](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A7%A3%E5%BC%80%E5%AE%89%E5%85%A8%E5%B8%A6%E6%8B%BF%E5%90%83%E7%9A%84%E8%87%B4%E4%B8%80%E6%AD%BB%E4%B8%80%E4%BC%A4%23&t=31&band_rank=5&Refer=top)<br />
+6. [专家称张雪峰言论过于极端](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%E8%BF%87%E4%BA%8E%E6%9E%81%E7%AB%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [第一学历](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86&t=31&band_rank=7&Refer=top)<br />
 8. [拖拽妻儿男子回应称非常后悔](https://s.weibo.com/weibo?q=%23%E6%8B%96%E6%8B%BD%E5%A6%BB%E5%84%BF%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E7%A7%B0%E9%9D%9E%E5%B8%B8%E5%90%8E%E6%82%94%23&t=31&band_rank=8&Refer=top)<br />
 9. [男孩重症肺炎出院第二天上学再中招](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E9%87%8D%E7%97%87%E8%82%BA%E7%82%8E%E5%87%BA%E9%99%A2%E7%AC%AC%E4%BA%8C%E5%A4%A9%E4%B8%8A%E5%AD%A6%E5%86%8D%E4%B8%AD%E6%8B%9B%23&t=31&band_rank=9&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [湖南女子与相亲对象打麻将输12800元](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%A5%B3%E5%AD%90%E4%B8%8E%E7%9B%B8%E4%BA%B2%E5%AF%B9%E8%B1%A1%E6%89%93%E9%BA%BB%E5%B0%86%E8%BE%9312800%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男孩被同学打进ICU 亲属要求严惩](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%90%8C%E5%AD%A6%E6%89%93%E8%BF%9BICU+%E4%BA%B2%E5%B1%9E%E8%A6%81%E6%B1%82%E4%B8%A5%E6%83%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [赵丽颖 女二](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96+%E5%A5%B3%E4%BA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：老师课堂讲解春宫图怎么了？](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%80%81%E5%B8%88%E8%AF%BE%E5%A0%82%E8%AE%B2%E8%A7%A3%E6%98%A5%E5%AE%AB%E5%9B%BE%E6%80%8E%E4%B9%88%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [原来茶位费是可以拒绝的](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E8%8C%B6%E4%BD%8D%E8%B4%B9%E6%98%AF%E5%8F%AF%E4%BB%A5%E6%8B%92%E7%BB%9D%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [湖南女子与相亲对象打麻将输12800元](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%A5%B3%E5%AD%90%E4%B8%8E%E7%9B%B8%E4%BA%B2%E5%AF%B9%E8%B1%A1%E6%89%93%E9%BA%BB%E5%B0%86%E8%BE%9312800%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男孩被同学打进ICU 亲属要求严惩](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%90%8C%E5%AD%A6%E6%89%93%E8%BF%9BICU+%E4%BA%B2%E5%B1%9E%E8%A6%81%E6%B1%82%E4%B8%A5%E6%83%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [赵丽颖 女二](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96+%E5%A5%B3%E4%BA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：老师课堂讲解春宫图怎么了？](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%80%81%E5%B8%88%E8%AF%BE%E5%A0%82%E8%AE%B2%E8%A7%A3%E6%98%A5%E5%AE%AB%E5%9B%BE%E6%80%8E%E4%B9%88%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [原来茶位费是可以拒绝的](https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E8%8C%B6%E4%BD%8D%E8%B4%B9%E6%98%AF%E5%8F%AF%E4%BB%A5%E6%8B%92%E7%BB%9D%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京燃油三四轮车明年能上路？](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E7%87%83%E6%B2%B9%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%E6%98%8E%E5%B9%B4%E8%83%BD%E4%B8%8A%E8%B7%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
