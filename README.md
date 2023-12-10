@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 13:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 13:53:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [卫星视角看中国](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%9F%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [女子离职后退600多个工作群](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A6%BB%E8%81%8C%E5%90%8E%E9%80%80600%E5%A4%9A%E4%B8%AA%E5%B7%A5%E4%BD%9C%E7%BE%A4%23&t=31&band_rank=4&Refer=top)<br />
 5. [山东省考 一考一个不吱声](https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E7%9C%81%E8%80%83%20%E4%B8%80%E8%80%83%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%90%B1%E5%A3%B0&t=31&band_rank=5&Refer=top)<br />
-6. [15元自助餐顾客只吃一口鱼就扔](https://s.weibo.com/weibo?q=%2315%E5%85%83%E8%87%AA%E5%8A%A9%E9%A4%90%E9%A1%BE%E5%AE%A2%E5%8F%AA%E5%90%83%E4%B8%80%E5%8F%A3%E9%B1%BC%E5%B0%B1%E6%89%94%23&t=31&band_rank=6&Refer=top)<br />
+6. [朝阳打歌中心 停播](https://s.weibo.com/weibo?q=%E6%9C%9D%E9%98%B3%E6%89%93%E6%AD%8C%E4%B8%AD%E5%BF%83%20%E5%81%9C%E6%92%AD&t=31&band_rank=6&Refer=top)<br />
 7. [唐艺昕叫张若昀小张](https://s.weibo.com/weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%E5%8F%AB%E5%BC%A0%E8%8B%A5%E6%98%80%E5%B0%8F%E5%BC%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [朝阳打歌中心 停播](https://s.weibo.com/weibo?q=%E6%9C%9D%E9%98%B3%E6%89%93%E6%AD%8C%E4%B8%AD%E5%BF%83%20%E5%81%9C%E6%92%AD&t=31&band_rank=8&Refer=top)<br />
+8. [15元自助餐顾客只吃一口鱼就扔](https://s.weibo.com/weibo?q=%2315%E5%85%83%E8%87%AA%E5%8A%A9%E9%A4%90%E9%A1%BE%E5%AE%A2%E5%8F%AA%E5%90%83%E4%B8%80%E5%8F%A3%E9%B1%BC%E5%B0%B1%E6%89%94%23&t=31&band_rank=8&Refer=top)<br />
 9. [单依纯 有票吗](https://s.weibo.com/weibo?q=%E5%8D%95%E4%BE%9D%E7%BA%AF%20%E6%9C%89%E7%A5%A8%E5%90%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
