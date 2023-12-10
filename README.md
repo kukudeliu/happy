@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 14:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 14:11:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [朝阳打歌中心 停播](https://s.weibo.com/weibo?q=%E6%9C%9D%E9%98%B3%E6%89%93%E6%AD%8C%E4%B8%AD%E5%BF%83%20%E5%81%9C%E6%92%AD&t=31&band_rank=5&Refer=top)<br />
 6. [唐艺昕叫张若昀小张](https://s.weibo.com/weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%E5%8F%AB%E5%BC%A0%E8%8B%A5%E6%98%80%E5%B0%8F%E5%BC%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [15元自助餐顾客只吃一口鱼就扔](https://s.weibo.com/weibo?q=%2315%E5%85%83%E8%87%AA%E5%8A%A9%E9%A4%90%E9%A1%BE%E5%AE%A2%E5%8F%AA%E5%90%83%E4%B8%80%E5%8F%A3%E9%B1%BC%E5%B0%B1%E6%89%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [单依纯 有票吗](https://s.weibo.com/weibo?q=%E5%8D%95%E4%BE%9D%E7%BA%AF%20%E6%9C%89%E7%A5%A8%E5%90%97&t=31&band_rank=8&Refer=top)<br />
-9. [范闲五年后成了高三班主任](https://s.weibo.com/weibo?q=%23%E8%8C%83%E9%97%B2%E4%BA%94%E5%B9%B4%E5%90%8E%E6%88%90%E4%BA%86%E9%AB%98%E4%B8%89%E7%8F%AD%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=9&Refer=top)<br />
+8. [范闲五年后成了高三班主任](https://s.weibo.com/weibo?q=%23%E8%8C%83%E9%97%B2%E4%BA%94%E5%B9%B4%E5%90%8E%E6%88%90%E4%BA%86%E9%AB%98%E4%B8%89%E7%8F%AD%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=8&Refer=top)<br />
+9. [单依纯 有票吗](https://s.weibo.com/weibo?q=%E5%8D%95%E4%BE%9D%E7%BA%AF%20%E6%9C%89%E7%A5%A8%E5%90%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
