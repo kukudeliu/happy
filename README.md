@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 06:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 06:59:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [信 怎么办一会还要唱离歌](https://s.weibo.com/weibo?q=%E4%BF%A1%20%E6%80%8E%E4%B9%88%E5%8A%9E%E4%B8%80%E4%BC%9A%E8%BF%98%E8%A6%81%E5%94%B1%E7%A6%BB%E6%AD%8C&t=31&band_rank=5&Refer=top)<br />
 6. [北京下雪](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA&t=31&band_rank=6&Refer=top)<br />
 7. [在暴雪时分预约人数破100万](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%9A%B4%E9%9B%AA%E6%97%B6%E5%88%86%E9%A2%84%E7%BA%A6%E4%BA%BA%E6%95%B0%E7%A0%B4100%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [2.2亿彩票一事需要有说服力的交代](https://s.weibo.com/weibo?q=%232.2%E4%BA%BF%E5%BD%A9%E7%A5%A8%E4%B8%80%E4%BA%8B%E9%9C%80%E8%A6%81%E6%9C%89%E8%AF%B4%E6%9C%8D%E5%8A%9B%E7%9A%84%E4%BA%A4%E4%BB%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [柯南吻戏 一刀没剪](https://s.weibo.com/weibo?q=%E6%9F%AF%E5%8D%97%E5%90%BB%E6%88%8F%20%E4%B8%80%E5%88%80%E6%B2%A1%E5%89%AA&t=31&band_rank=9&Refer=top)<br />
+8. [柯南吻戏 一刀没剪](https://s.weibo.com/weibo?q=%E6%9F%AF%E5%8D%97%E5%90%BB%E6%88%8F%20%E4%B8%80%E5%88%80%E6%B2%A1%E5%89%AA&t=31&band_rank=8&Refer=top)<br />
+9. [张万森 雪崩了](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%B8%87%E6%A3%AE%20%E9%9B%AA%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
