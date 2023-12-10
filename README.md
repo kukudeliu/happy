@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 12:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 12:54:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [20余只猫被锁店里饿到自相残杀](https://www.baidu.com/s?wd=20%E4%BD%99%E5%8F%AA%E7%8C%AB%E8%A2%AB%E9%94%81%E5%BA%97%E9%87%8C%E9%A5%BF%E5%88%B0%E8%87%AA%E7%9B%B8%E6%AE%8B%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [浙大学霸的笔记精美得像教科书](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E7%9A%84%E7%AC%94%E8%AE%B0%E7%B2%BE%E7%BE%8E%E5%BE%97%E5%83%8F%E6%95%99%E7%A7%91%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美国务院紧急要求向以色列军售](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%B4%A7%E6%80%A5%E8%A6%81%E6%B1%82%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%9B%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“高颜值”老赖：并非从事不良职业](https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E9%A2%9C%E5%80%BC%E2%80%9D%E8%80%81%E8%B5%96%EF%BC%9A%E5%B9%B6%E9%9D%9E%E4%BB%8E%E4%BA%8B%E4%B8%8D%E8%89%AF%E8%81%8C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [柬埔寨小公主中文演唱共饮一江水](https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%B0%8F%E5%85%AC%E4%B8%BB%E4%B8%AD%E6%96%87%E6%BC%94%E5%94%B1%E5%85%B1%E9%A5%AE%E4%B8%80%E6%B1%9F%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [20余只猫被锁店里饿到自相残杀](https://www.baidu.com/s?wd=20%E4%BD%99%E5%8F%AA%E7%8C%AB%E8%A2%AB%E9%94%81%E5%BA%97%E9%87%8C%E9%A5%BF%E5%88%B0%E8%87%AA%E7%9B%B8%E6%AE%8B%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [浙大学霸的笔记精美得像教科书](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E7%9A%84%E7%AC%94%E8%AE%B0%E7%B2%BE%E7%BE%8E%E5%BE%97%E5%83%8F%E6%95%99%E7%A7%91%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美国务院紧急要求向以色列军售](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%B4%A7%E6%80%A5%E8%A6%81%E6%B1%82%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%9B%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“高颜值”老赖：并非从事不良职业](https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E9%A2%9C%E5%80%BC%E2%80%9D%E8%80%81%E8%B5%96%EF%BC%9A%E5%B9%B6%E9%9D%9E%E4%BB%8E%E4%BA%8B%E4%B8%8D%E8%89%AF%E8%81%8C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [柬埔寨小公主中文演唱共饮一江水](https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%B0%8F%E5%85%AC%E4%B8%BB%E4%B8%AD%E6%96%87%E6%BC%94%E5%94%B1%E5%85%B1%E9%A5%AE%E4%B8%80%E6%B1%9F%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
