@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 13:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 13:59:01</h4></div>
 
 > 微博  
 
@@ -23,9 +23,9 @@
 4. [中国经济持续回升向好](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%8C%81%E7%BB%AD%E5%9B%9E%E5%8D%87%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女生肺叶变白妈妈拒住院：耽误功课](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%82%BA%E5%8F%B6%E5%8F%98%E7%99%BD%E5%A6%88%E5%A6%88%E6%8B%92%E4%BD%8F%E9%99%A2%EF%BC%9A%E8%80%BD%E8%AF%AF%E5%8A%9F%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [20余只猫被锁店里饿到自相残杀](https://www.baidu.com/s?wd=20%E4%BD%99%E5%8F%AA%E7%8C%AB%E8%A2%AB%E9%94%81%E5%BA%97%E9%87%8C%E9%A5%BF%E5%88%B0%E8%87%AA%E7%9B%B8%E6%AE%8B%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [独居女生3万金手镯变30元“金”手镯](https://www.baidu.com/s?wd=%E7%8B%AC%E5%B1%85%E5%A5%B3%E7%94%9F3%E4%B8%87%E9%87%91%E6%89%8B%E9%95%AF%E5%8F%9830%E5%85%83%E2%80%9C%E9%87%91%E2%80%9D%E6%89%8B%E9%95%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张雪峰称当网红无非两种结果](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A7%B0%E5%BD%93%E7%BD%91%E7%BA%A2%E6%97%A0%E9%9D%9E%E4%B8%A4%E7%A7%8D%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙大学霸的笔记精美得像教科书](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E7%9A%84%E7%AC%94%E8%AE%B0%E7%B2%BE%E7%BE%8E%E5%BE%97%E5%83%8F%E6%95%99%E7%A7%91%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美国务院紧急要求向以色列军售](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%B4%A7%E6%80%A5%E8%A6%81%E6%B1%82%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%9B%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [独居女生3万金手镯变30元“金”手镯](https://www.baidu.com/s?wd=%E7%8B%AC%E5%B1%85%E5%A5%B3%E7%94%9F3%E4%B8%87%E9%87%91%E6%89%8B%E9%95%AF%E5%8F%9830%E5%85%83%E2%80%9C%E9%87%91%E2%80%9D%E6%89%8B%E9%95%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [柬埔寨小公主中文演唱共饮一江水](https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%B0%8F%E5%85%AC%E4%B8%BB%E4%B8%AD%E6%96%87%E6%BC%94%E5%94%B1%E5%85%B1%E9%A5%AE%E4%B8%80%E6%B1%9F%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -35,6 +35,6 @@
 4. [中国经济持续回升向好](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%8C%81%E7%BB%AD%E5%9B%9E%E5%8D%87%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女生肺叶变白妈妈拒住院：耽误功课](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%82%BA%E5%8F%B6%E5%8F%98%E7%99%BD%E5%A6%88%E5%A6%88%E6%8B%92%E4%BD%8F%E9%99%A2%EF%BC%9A%E8%80%BD%E8%AF%AF%E5%8A%9F%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [20余只猫被锁店里饿到自相残杀](https://www.baidu.com/s?wd=20%E4%BD%99%E5%8F%AA%E7%8C%AB%E8%A2%AB%E9%94%81%E5%BA%97%E9%87%8C%E9%A5%BF%E5%88%B0%E8%87%AA%E7%9B%B8%E6%AE%8B%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [独居女生3万金手镯变30元“金”手镯](https://www.baidu.com/s?wd=%E7%8B%AC%E5%B1%85%E5%A5%B3%E7%94%9F3%E4%B8%87%E9%87%91%E6%89%8B%E9%95%AF%E5%8F%9830%E5%85%83%E2%80%9C%E9%87%91%E2%80%9D%E6%89%8B%E9%95%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张雪峰称当网红无非两种结果](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A7%B0%E5%BD%93%E7%BD%91%E7%BA%A2%E6%97%A0%E9%9D%9E%E4%B8%A4%E7%A7%8D%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [浙大学霸的笔记精美得像教科书](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E7%9A%84%E7%AC%94%E8%AE%B0%E7%B2%BE%E7%BE%8E%E5%BE%97%E5%83%8F%E6%95%99%E7%A7%91%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美国务院紧急要求向以色列军售](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%B4%A7%E6%80%A5%E8%A6%81%E6%B1%82%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%9B%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [独居女生3万金手镯变30元“金”手镯](https://www.baidu.com/s?wd=%E7%8B%AC%E5%B1%85%E5%A5%B3%E7%94%9F3%E4%B8%87%E9%87%91%E6%89%8B%E9%95%AF%E5%8F%9830%E5%85%83%E2%80%9C%E9%87%91%E2%80%9D%E6%89%8B%E9%95%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [柬埔寨小公主中文演唱共饮一江水](https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%B0%8F%E5%85%AC%E4%B8%BB%E4%B8%AD%E6%96%87%E6%BC%94%E5%94%B1%E5%85%B1%E9%A5%AE%E4%B8%80%E6%B1%9F%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
