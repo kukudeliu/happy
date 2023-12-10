@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 16:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 16:26:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [单价35元包包成年轻人时尚新宠](https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BB%B735%E5%85%83%E5%8C%85%E5%8C%85%E6%88%90%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%97%B6%E5%B0%9A%E6%96%B0%E5%AE%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [林俊杰演唱会回应舞蹈被恶搞配音](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9B%9E%E5%BA%94%E8%88%9E%E8%B9%88%E8%A2%AB%E6%81%B6%E6%90%9E%E9%85%8D%E9%9F%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘宇宁说不会因为负评放弃做演员](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%AF%B4%E4%B8%8D%E4%BC%9A%E5%9B%A0%E4%B8%BA%E8%B4%9F%E8%AF%84%E6%94%BE%E5%BC%83%E5%81%9A%E6%BC%94%E5%91%98%23&t=31&band_rank=7&Refer=top)<br />
-8. [范闲五年后成了高三班主任](https://s.weibo.com/weibo?q=%23%E8%8C%83%E9%97%B2%E4%BA%94%E5%B9%B4%E5%90%8E%E6%88%90%E4%BA%86%E9%AB%98%E4%B8%89%E7%8F%AD%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=8&Refer=top)<br />
+8. [他燃烧了一整夜 却倒在了黎明前](https://s.weibo.com/weibo?q=%E4%BB%96%E7%87%83%E7%83%A7%E4%BA%86%E4%B8%80%E6%95%B4%E5%A4%9C%20%E5%8D%B4%E5%80%92%E5%9C%A8%E4%BA%86%E9%BB%8E%E6%98%8E%E5%89%8D&t=31&band_rank=8&Refer=top)<br />
 9. [女子离职后退600多个工作群](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A6%BB%E8%81%8C%E5%90%8E%E9%80%80600%E5%A4%9A%E4%B8%AA%E5%B7%A5%E4%BD%9C%E7%BE%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
