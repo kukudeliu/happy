@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 10:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 10:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵丽颖 女二](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E5%A5%B3%E4%BA%8C&t=31&band_rank=6&Refer=top)<br />
 7. [娜扎经纪人 造型参考人物是维纳斯](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%20%E9%80%A0%E5%9E%8B%E5%8F%82%E8%80%83%E4%BA%BA%E7%89%A9%E6%98%AF%E7%BB%B4%E7%BA%B3%E6%96%AF&t=31&band_rank=7&Refer=top)<br />
 8. [男子解开安全带拿吃的致一死一伤](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A7%A3%E5%BC%80%E5%AE%89%E5%85%A8%E5%B8%A6%E6%8B%BF%E5%90%83%E7%9A%84%E8%87%B4%E4%B8%80%E6%AD%BB%E4%B8%80%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [难哄 别哄了](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E5%88%AB%E5%93%84%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [男子因一个热水器救了一栋楼](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E4%B8%80%E4%B8%AA%E7%83%AD%E6%B0%B4%E5%99%A8%E6%95%91%E4%BA%86%E4%B8%80%E6%A0%8B%E6%A5%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
