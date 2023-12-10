@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 13:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 13:29:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [男子吃隔夜菜被送进ICU 医生提醒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E9%9A%94%E5%A4%9C%E8%8F%9C%E8%A2%AB%E9%80%81%E8%BF%9BICU+%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [20余只猫被锁店里饿到自相残杀](https://www.baidu.com/s?wd=20%E4%BD%99%E5%8F%AA%E7%8C%AB%E8%A2%AB%E9%94%81%E5%BA%97%E9%87%8C%E9%A5%BF%E5%88%B0%E8%87%AA%E7%9B%B8%E6%AE%8B%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子网购警灯装私家车：想“拉风”](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BD%91%E8%B4%AD%E8%AD%A6%E7%81%AF%E8%A3%85%E7%A7%81%E5%AE%B6%E8%BD%A6%EF%BC%9A%E6%83%B3%E2%80%9C%E6%8B%89%E9%A3%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙大学霸的笔记精美得像教科书](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E7%9A%84%E7%AC%94%E8%AE%B0%E7%B2%BE%E7%BE%8E%E5%BE%97%E5%83%8F%E6%95%99%E7%A7%91%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子因一个热水器救了一栋楼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E4%B8%80%E4%B8%AA%E7%83%AD%E6%B0%B4%E5%99%A8%E6%95%91%E4%BA%86%E4%B8%80%E6%A0%8B%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子因一个热水器救了一栋楼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E4%B8%80%E4%B8%AA%E7%83%AD%E6%B0%B4%E5%99%A8%E6%95%91%E4%BA%86%E4%B8%80%E6%A0%8B%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [浙大学霸的笔记精美得像教科书](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E7%9A%84%E7%AC%94%E8%AE%B0%E7%B2%BE%E7%BE%8E%E5%BE%97%E5%83%8F%E6%95%99%E7%A7%91%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [男子吃隔夜菜被送进ICU 医生提醒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E9%9A%94%E5%A4%9C%E8%8F%9C%E8%A2%AB%E9%80%81%E8%BF%9BICU+%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [20余只猫被锁店里饿到自相残杀](https://www.baidu.com/s?wd=20%E4%BD%99%E5%8F%AA%E7%8C%AB%E8%A2%AB%E9%94%81%E5%BA%97%E9%87%8C%E9%A5%BF%E5%88%B0%E8%87%AA%E7%9B%B8%E6%AE%8B%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子网购警灯装私家车：想“拉风”](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BD%91%E8%B4%AD%E8%AD%A6%E7%81%AF%E8%A3%85%E7%A7%81%E5%AE%B6%E8%BD%A6%EF%BC%9A%E6%83%B3%E2%80%9C%E6%8B%89%E9%A3%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙大学霸的笔记精美得像教科书](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E7%9A%84%E7%AC%94%E8%AE%B0%E7%B2%BE%E7%BE%8E%E5%BE%97%E5%83%8F%E6%95%99%E7%A7%91%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子因一个热水器救了一栋楼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E4%B8%80%E4%B8%AA%E7%83%AD%E6%B0%B4%E5%99%A8%E6%95%91%E4%BA%86%E4%B8%80%E6%A0%8B%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子因一个热水器救了一栋楼](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E4%B8%80%E4%B8%AA%E7%83%AD%E6%B0%B4%E5%99%A8%E6%95%91%E4%BA%86%E4%B8%80%E6%A0%8B%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [浙大学霸的笔记精美得像教科书](https://www.baidu.com/s?wd=%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E7%9A%84%E7%AC%94%E8%AE%B0%E7%B2%BE%E7%BE%8E%E5%BE%97%E5%83%8F%E6%95%99%E7%A7%91%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
