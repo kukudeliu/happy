@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 17:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 17:38:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [中国现代化产业体系建设进一步加快](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%8E%B0%E4%BB%A3%E5%8C%96%E4%BA%A7%E4%B8%9A%E4%BD%93%E7%B3%BB%E5%BB%BA%E8%AE%BE%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BF%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [首金！刘少昂世界杯1000米金牌](https://www.baidu.com/s?wd=%E9%A6%96%E9%87%91%EF%BC%81%E5%88%98%E5%B0%91%E6%98%82%E4%B8%96%E7%95%8C%E6%9D%AF1000%E7%B1%B3%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [4岁女孩穿汉服滑雪如御剑飞行](https://www.baidu.com/s?wd=4%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A9%BF%E6%B1%89%E6%9C%8D%E6%BB%91%E9%9B%AA%E5%A6%82%E5%BE%A1%E5%89%91%E9%A3%9E%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [12345回应管道炸裂喷射黑液：是隐私](https://www.baidu.com/s?wd=12345%E5%9B%9E%E5%BA%94%E7%AE%A1%E9%81%93%E7%82%B8%E8%A3%82%E5%96%B7%E5%B0%84%E9%BB%91%E6%B6%B2%EF%BC%9A%E6%98%AF%E9%9A%90%E7%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [柬埔寨小公主中文演唱共饮一江水](https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%B0%8F%E5%85%AC%E4%B8%BB%E4%B8%AD%E6%96%87%E6%BC%94%E5%94%B1%E5%85%B1%E9%A5%AE%E4%B8%80%E6%B1%9F%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023国剧盛典红毯直播](https://www.baidu.com/s?wd=2023%E5%9B%BD%E5%89%A7%E7%9B%9B%E5%85%B8%E7%BA%A2%E6%AF%AF%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [猫咖20只猫饿到互相残杀？店主回应](https://www.baidu.com/s?wd=%E7%8C%AB%E5%92%9620%E5%8F%AA%E7%8C%AB%E9%A5%BF%E5%88%B0%E4%BA%92%E7%9B%B8%E6%AE%8B%E6%9D%80%EF%BC%9F%E5%BA%97%E4%B8%BB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [中国现代化产业体系建设进一步加快](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%8E%B0%E4%BB%A3%E5%8C%96%E4%BA%A7%E4%B8%9A%E4%BD%93%E7%B3%BB%E5%BB%BA%E8%AE%BE%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BF%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [首金！刘少昂世界杯1000米金牌](https://www.baidu.com/s?wd=%E9%A6%96%E9%87%91%EF%BC%81%E5%88%98%E5%B0%91%E6%98%82%E4%B8%96%E7%95%8C%E6%9D%AF1000%E7%B1%B3%E9%87%91%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [4岁女孩穿汉服滑雪如御剑飞行](https://www.baidu.com/s?wd=4%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A9%BF%E6%B1%89%E6%9C%8D%E6%BB%91%E9%9B%AA%E5%A6%82%E5%BE%A1%E5%89%91%E9%A3%9E%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [12345回应管道炸裂喷射黑液：是隐私](https://www.baidu.com/s?wd=12345%E5%9B%9E%E5%BA%94%E7%AE%A1%E9%81%93%E7%82%B8%E8%A3%82%E5%96%B7%E5%B0%84%E9%BB%91%E6%B6%B2%EF%BC%9A%E6%98%AF%E9%9A%90%E7%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [柬埔寨小公主中文演唱共饮一江水](https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%B0%8F%E5%85%AC%E4%B8%BB%E4%B8%AD%E6%96%87%E6%BC%94%E5%94%B1%E5%85%B1%E9%A5%AE%E4%B8%80%E6%B1%9F%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023国剧盛典红毯直播](https://www.baidu.com/s?wd=2023%E5%9B%BD%E5%89%A7%E7%9B%9B%E5%85%B8%E7%BA%A2%E6%AF%AF%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [猫咖20只猫饿到互相残杀？店主回应](https://www.baidu.com/s?wd=%E7%8C%AB%E5%92%9620%E5%8F%AA%E7%8C%AB%E9%A5%BF%E5%88%B0%E4%BA%92%E7%9B%B8%E6%AE%8B%E6%9D%80%EF%BC%9F%E5%BA%97%E4%B8%BB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
