@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 15:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 15:16:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [卫星视角看中国](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%9F%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [范闲五年后成了高三班主任](https://s.weibo.com/weibo?q=%23%E8%8C%83%E9%97%B2%E4%BA%94%E5%B9%B4%E5%90%8E%E6%88%90%E4%BA%86%E9%AB%98%E4%B8%89%E7%8F%AD%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [朝阳打歌中心 停播](https://s.weibo.com/weibo?q=%E6%9C%9D%E9%98%B3%E6%89%93%E6%AD%8C%E4%B8%AD%E5%BF%83%20%E5%81%9C%E6%92%AD&t=31&band_rank=5&Refer=top)<br />
-6. [上午刮刮乐 下午书法课](https://s.weibo.com/weibo?q=%E4%B8%8A%E5%8D%88%E5%88%AE%E5%88%AE%E4%B9%90%20%E4%B8%8B%E5%8D%88%E4%B9%A6%E6%B3%95%E8%AF%BE&t=31&band_rank=6&Refer=top)<br />
-7. [背考研政治给自己背笑了](https://s.weibo.com/weibo?q=%E8%83%8C%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E7%BB%99%E8%87%AA%E5%B7%B1%E8%83%8C%E7%AC%91%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+6. [背考研政治给自己背笑了](https://s.weibo.com/weibo?q=%E8%83%8C%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E7%BB%99%E8%87%AA%E5%B7%B1%E8%83%8C%E7%AC%91%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+7. [上午刮刮乐 下午书法课](https://s.weibo.com/weibo?q=%E4%B8%8A%E5%8D%88%E5%88%AE%E5%88%AE%E4%B9%90%20%E4%B8%8B%E5%8D%88%E4%B9%A6%E6%B3%95%E8%AF%BE&t=31&band_rank=7&Refer=top)<br />
 8. [gai浇饭](https://s.weibo.com/weibo?q=gai%E6%B5%87%E9%A5%AD&t=31&band_rank=8&Refer=top)<br />
 9. [店主回应网传20只猫饿到自相残杀](https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A020%E5%8F%AA%E7%8C%AB%E9%A5%BF%E5%88%B0%E8%87%AA%E7%9B%B8%E6%AE%8B%E6%9D%80%23&t=31&band_rank=9&Refer=top)<br />
 
