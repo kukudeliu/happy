@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 00:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 00:47:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [近期呼吸道疾病防治注意事项](https://s.weibo.com/weibo?q=%23%E8%BF%91%E6%9C%9F%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E9%98%B2%E6%B2%BB%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [北京下雪](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA&t=31&band_rank=4&Refer=top)<br />
 5. [EXO 下雪了](https://s.weibo.com/weibo?q=EXO%20%E4%B8%8B%E9%9B%AA%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
-6. [八年了 她终于红了](https://s.weibo.com/weibo?q=%E5%85%AB%E5%B9%B4%E4%BA%86%20%E5%A5%B9%E7%BB%88%E4%BA%8E%E7%BA%A2%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [信 怎么办一会还要唱离歌](https://s.weibo.com/weibo?q=%E4%BF%A1%20%E6%80%8E%E4%B9%88%E5%8A%9E%E4%B8%80%E4%BC%9A%E8%BF%98%E8%A6%81%E5%94%B1%E7%A6%BB%E6%AD%8C&t=31&band_rank=7&Refer=top)<br />
+6. [信 怎么办一会还要唱离歌](https://s.weibo.com/weibo?q=%E4%BF%A1%20%E6%80%8E%E4%B9%88%E5%8A%9E%E4%B8%80%E4%BC%9A%E8%BF%98%E8%A6%81%E5%94%B1%E7%A6%BB%E6%AD%8C&t=31&band_rank=6&Refer=top)<br />
+7. [八年了 她终于红了](https://s.weibo.com/weibo?q=%E5%85%AB%E5%B9%B4%E4%BA%86%20%E5%A5%B9%E7%BB%88%E4%BA%8E%E7%BA%A2%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [缅北四大家族](https://s.weibo.com/weibo?q=%E7%BC%85%E5%8C%97%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F&t=31&band_rank=8&Refer=top)<br />
 9. [垫底辣孩 P图思路大公开](https://s.weibo.com/weibo?q=%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%AD%A9%20P%E5%9B%BE%E6%80%9D%E8%B7%AF%E5%A4%A7%E5%85%AC%E5%BC%80&t=31&band_rank=9&Refer=top)<br />
 
