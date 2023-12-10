@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 14:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 14:34:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [卫星视角看中国](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%9F%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [上午刮刮乐 下午书法课](https://s.weibo.com/weibo?q=%E4%B8%8A%E5%8D%88%E5%88%AE%E5%88%AE%E4%B9%90%20%E4%B8%8B%E5%8D%88%E4%B9%A6%E6%B3%95%E8%AF%BE&t=31&band_rank=4&Refer=top)<br />
 5. [朝阳打歌中心 停播](https://s.weibo.com/weibo?q=%E6%9C%9D%E9%98%B3%E6%89%93%E6%AD%8C%E4%B8%AD%E5%BF%83%20%E5%81%9C%E6%92%AD&t=31&band_rank=5&Refer=top)<br />
-6. [唐艺昕叫张若昀小张](https://s.weibo.com/weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%E5%8F%AB%E5%BC%A0%E8%8B%A5%E6%98%80%E5%B0%8F%E5%BC%A0%23&t=31&band_rank=6&Refer=top)<br />
+6. [范闲五年后成了高三班主任](https://s.weibo.com/weibo?q=%23%E8%8C%83%E9%97%B2%E4%BA%94%E5%B9%B4%E5%90%8E%E6%88%90%E4%BA%86%E9%AB%98%E4%B8%89%E7%8F%AD%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [背考研政治给自己背笑了](https://s.weibo.com/weibo?q=%E8%83%8C%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E7%BB%99%E8%87%AA%E5%B7%B1%E8%83%8C%E7%AC%91%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [范闲五年后成了高三班主任](https://s.weibo.com/weibo?q=%23%E8%8C%83%E9%97%B2%E4%BA%94%E5%B9%B4%E5%90%8E%E6%88%90%E4%BA%86%E9%AB%98%E4%B8%89%E7%8F%AD%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [15元自助餐顾客只吃一口鱼就扔](https://s.weibo.com/weibo?q=%2315%E5%85%83%E8%87%AA%E5%8A%A9%E9%A4%90%E9%A1%BE%E5%AE%A2%E5%8F%AA%E5%90%83%E4%B8%80%E5%8F%A3%E9%B1%BC%E5%B0%B1%E6%89%94%23&t=31&band_rank=9&Refer=top)<br />
+8. [唐艺昕叫张若昀小张](https://s.weibo.com/weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%E5%8F%AB%E5%BC%A0%E8%8B%A5%E6%98%80%E5%B0%8F%E5%BC%A0%23&t=31&band_rank=8&Refer=top)<br />
+9. [gai浇饭](https://s.weibo.com/weibo?q=gai%E6%B5%87%E9%A5%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
