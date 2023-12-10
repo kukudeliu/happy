@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 20:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 20:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [主播陈一发儿疑似复出再被封](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E9%99%88%E4%B8%80%E5%8F%91%E5%84%BF%E7%96%91%E4%BC%BC%E5%A4%8D%E5%87%BA%E5%86%8D%E8%A2%AB%E5%B0%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [国乒vs韩国队](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92vs%E9%9F%A9%E5%9B%BD%E9%98%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨丞琳](https://s.weibo.com/weibo?q=%E6%9D%A8%E4%B8%9E%E7%90%B3&t=31&band_rank=8&Refer=top)<br />
-9. [宋江居然是举芦荟胶内男的](https://s.weibo.com/weibo?q=%E5%AE%8B%E6%B1%9F%E5%B1%85%E7%84%B6%E6%98%AF%E4%B8%BE%E8%8A%A6%E8%8D%9F%E8%83%B6%E5%86%85%E7%94%B7%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+9. [赵一博](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%80%E5%8D%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
