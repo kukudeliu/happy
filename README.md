@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 22:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 22:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [缅北](https://s.weibo.com/weibo?q=%E7%BC%85%E5%8C%97&t=31&band_rank=5&Refer=top)<br />
 6. [一念关山辟谣刘诗诗打戏一剪没](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%88%98%E8%AF%97%E8%AF%97%E6%89%93%E6%88%8F%E4%B8%80%E5%89%AA%E6%B2%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [主播陈一发儿疑似复出再被封](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E9%99%88%E4%B8%80%E5%8F%91%E5%84%BF%E7%96%91%E4%BC%BC%E5%A4%8D%E5%87%BA%E5%86%8D%E8%A2%AB%E5%B0%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [赵一博](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%80%E5%8D%9A&t=31&band_rank=8&Refer=top)<br />
-9. [宋江居然是举芦荟胶内男的](https://s.weibo.com/weibo?q=%E5%AE%8B%E6%B1%9F%E5%B1%85%E7%84%B6%E6%98%AF%E4%B8%BE%E8%8A%A6%E8%8D%9F%E8%83%B6%E5%86%85%E7%94%B7%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+8. [宋江居然是举芦荟胶内男的](https://s.weibo.com/weibo?q=%E5%AE%8B%E6%B1%9F%E5%B1%85%E7%84%B6%E6%98%AF%E4%B8%BE%E8%8A%A6%E8%8D%9F%E8%83%B6%E5%86%85%E7%94%B7%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
+9. [赵一博](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%80%E5%8D%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
