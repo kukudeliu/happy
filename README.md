@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 17:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 17:45:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [4岁女孩穿汉服滑雪如御剑飞行](https://www.baidu.com/s?wd=4%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A9%BF%E6%B1%89%E6%9C%8D%E6%BB%91%E9%9B%AA%E5%A6%82%E5%BE%A1%E5%89%91%E9%A3%9E%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [失联5天的三名学生已平安回家](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%945%E5%A4%A9%E7%9A%84%E4%B8%89%E5%90%8D%E5%AD%A6%E7%94%9F%E5%B7%B2%E5%B9%B3%E5%AE%89%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023国剧盛典红毯直播](https://www.baidu.com/s?wd=2023%E5%9B%BD%E5%89%A7%E7%9B%9B%E5%85%B8%E7%BA%A2%E6%AF%AF%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [猫咖20只猫饿到互相残杀？店主回应](https://www.baidu.com/s?wd=%E7%8C%AB%E5%92%9620%E5%8F%AA%E7%8C%AB%E9%A5%BF%E5%88%B0%E4%BA%92%E7%9B%B8%E6%AE%8B%E6%9D%80%EF%BC%9F%E5%BA%97%E4%B8%BB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [咖啡再传致癌？消协辟谣](https://www.baidu.com/s?wd=%E5%92%96%E5%95%A1%E5%86%8D%E4%BC%A0%E8%87%B4%E7%99%8C%EF%BC%9F%E6%B6%88%E5%8D%8F%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [4岁女孩穿汉服滑雪如御剑飞行](https://www.baidu.com/s?wd=4%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A9%BF%E6%B1%89%E6%9C%8D%E6%BB%91%E9%9B%AA%E5%A6%82%E5%BE%A1%E5%89%91%E9%A3%9E%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [失联5天的三名学生已平安回家](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%945%E5%A4%A9%E7%9A%84%E4%B8%89%E5%90%8D%E5%AD%A6%E7%94%9F%E5%B7%B2%E5%B9%B3%E5%AE%89%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023国剧盛典红毯直播](https://www.baidu.com/s?wd=2023%E5%9B%BD%E5%89%A7%E7%9B%9B%E5%85%B8%E7%BA%A2%E6%AF%AF%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [猫咖20只猫饿到互相残杀？店主回应](https://www.baidu.com/s?wd=%E7%8C%AB%E5%92%9620%E5%8F%AA%E7%8C%AB%E9%A5%BF%E5%88%B0%E4%BA%92%E7%9B%B8%E6%AE%8B%E6%9D%80%EF%BC%9F%E5%BA%97%E4%B8%BB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [咖啡再传致癌？消协辟谣](https://www.baidu.com/s?wd=%E5%92%96%E5%95%A1%E5%86%8D%E4%BC%A0%E8%87%B4%E7%99%8C%EF%BC%9F%E6%B6%88%E5%8D%8F%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
