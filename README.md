@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 20:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 20:09:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [国企副总与他人以夫妻名义生活](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E5%89%AF%E6%80%BB%E4%B8%8E%E4%BB%96%E4%BA%BA%E4%BB%A5%E5%A4%AB%E5%A6%BB%E5%90%8D%E4%B9%89%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [失联5天的三名学生已平安回家](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%945%E5%A4%A9%E7%9A%84%E4%B8%89%E5%90%8D%E5%AD%A6%E7%94%9F%E5%B7%B2%E5%B9%B3%E5%AE%89%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家解读患儿无明显咳嗽但已是肺炎](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E6%82%A3%E5%84%BF%E6%97%A0%E6%98%8E%E6%98%BE%E5%92%B3%E5%97%BD%E4%BD%86%E5%B7%B2%E6%98%AF%E8%82%BA%E7%82%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [湖南一干部和妻子同日被留置](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%B9%B2%E9%83%A8%E5%92%8C%E5%A6%BB%E5%AD%90%E5%90%8C%E6%97%A5%E8%A2%AB%E7%95%99%E7%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [轿车遇学生放学不减速还鸣笛加速](https://www.baidu.com/s?wd=%E8%BD%BF%E8%BD%A6%E9%81%87%E5%AD%A6%E7%94%9F%E6%94%BE%E5%AD%A6%E4%B8%8D%E5%87%8F%E9%80%9F%E8%BF%98%E9%B8%A3%E7%AC%9B%E5%8A%A0%E9%80%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [咖啡再传致癌？消协辟谣](https://www.baidu.com/s?wd=%E5%92%96%E5%95%A1%E5%86%8D%E4%BC%A0%E8%87%B4%E7%99%8C%EF%BC%9F%E6%B6%88%E5%8D%8F%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [国企副总与他人以夫妻名义生活](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E5%89%AF%E6%80%BB%E4%B8%8E%E4%BB%96%E4%BA%BA%E4%BB%A5%E5%A4%AB%E5%A6%BB%E5%90%8D%E4%B9%89%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [失联5天的三名学生已平安回家](https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%945%E5%A4%A9%E7%9A%84%E4%B8%89%E5%90%8D%E5%AD%A6%E7%94%9F%E5%B7%B2%E5%B9%B3%E5%AE%89%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家解读患儿无明显咳嗽但已是肺炎](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E6%82%A3%E5%84%BF%E6%97%A0%E6%98%8E%E6%98%BE%E5%92%B3%E5%97%BD%E4%BD%86%E5%B7%B2%E6%98%AF%E8%82%BA%E7%82%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [湖南一干部和妻子同日被留置](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%B9%B2%E9%83%A8%E5%92%8C%E5%A6%BB%E5%AD%90%E5%90%8C%E6%97%A5%E8%A2%AB%E7%95%99%E7%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [轿车遇学生放学不减速还鸣笛加速](https://www.baidu.com/s?wd=%E8%BD%BF%E8%BD%A6%E9%81%87%E5%AD%A6%E7%94%9F%E6%94%BE%E5%AD%A6%E4%B8%8D%E5%87%8F%E9%80%9F%E8%BF%98%E9%B8%A3%E7%AC%9B%E5%8A%A0%E9%80%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [咖啡再传致癌？消协辟谣](https://www.baidu.com/s?wd=%E5%92%96%E5%95%A1%E5%86%8D%E4%BC%A0%E8%87%B4%E7%99%8C%EF%BC%9F%E6%B6%88%E5%8D%8F%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
