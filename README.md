@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 19:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 19:47:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [学校将领导办公室改造成罕见病学生专属教室](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%B0%86%E9%A2%86%E5%AF%BC%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%94%B9%E9%80%A0%E6%88%90%E7%BD%95%E8%A7%81%E7%97%85%E5%AD%A6%E7%94%9F%E4%B8%93%E5%B1%9E%E6%95%99%E5%AE%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [垫底辣孩 P图思路大公开](https://s.weibo.com/weibo?q=%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%AD%A9%20P%E5%9B%BE%E6%80%9D%E8%B7%AF%E5%A4%A7%E5%85%AC%E5%BC%80&t=31&band_rank=6&Refer=top)<br />
 7. [缅北](https://s.weibo.com/weibo?q=%E7%BC%85%E5%8C%97&t=31&band_rank=7&Refer=top)<br />
-8. [夹子音 刚满十八岁](https://s.weibo.com/weibo?q=%E5%A4%B9%E5%AD%90%E9%9F%B3%20%E5%88%9A%E6%BB%A1%E5%8D%81%E5%85%AB%E5%B2%81&t=31&band_rank=8&Refer=top)<br />
-9. [国乒vs韩国队](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92vs%E9%9F%A9%E5%9B%BD%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [国乒vs韩国队](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92vs%E9%9F%A9%E5%9B%BD%E9%98%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [夹子音 刚满十八岁](https://s.weibo.com/weibo?q=%E5%A4%B9%E5%AD%90%E9%9F%B3%20%E5%88%9A%E6%BB%A1%E5%8D%81%E5%85%AB%E5%B2%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
