@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 18:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 18:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [六年的感情比不过比赛的规则](https://s.weibo.com/weibo?q=%E5%85%AD%E5%B9%B4%E7%9A%84%E6%84%9F%E6%83%85%E6%AF%94%E4%B8%8D%E8%BF%87%E6%AF%94%E8%B5%9B%E7%9A%84%E8%A7%84%E5%88%99&t=31&band_rank=6&Refer=top)<br />
 7. [学校将领导办公室改造成罕见病学生专属教室](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%B0%86%E9%A2%86%E5%AF%BC%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%94%B9%E9%80%A0%E6%88%90%E7%BD%95%E8%A7%81%E7%97%85%E5%AD%A6%E7%94%9F%E4%B8%93%E5%B1%9E%E6%95%99%E5%AE%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [雪雪雪雪雪来了](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E9%9B%AA%E9%9B%AA%E9%9B%AA%E9%9B%AA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [你接受杨丞琳的道歉吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%8E%A5%E5%8F%97%E6%9D%A8%E4%B8%9E%E7%90%B3%E7%9A%84%E9%81%93%E6%AD%89%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘宇宁 作为演员颜值也应该重视](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%20%E4%BD%9C%E4%B8%BA%E6%BC%94%E5%91%98%E9%A2%9C%E5%80%BC%E4%B9%9F%E5%BA%94%E8%AF%A5%E9%87%8D%E8%A7%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
