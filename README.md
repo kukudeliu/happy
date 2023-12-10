@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 09:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 09:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [娜扎经纪人 造型参考人物是维纳斯](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%20%E9%80%A0%E5%9E%8B%E5%8F%82%E8%80%83%E4%BA%BA%E7%89%A9%E6%98%AF%E7%BB%B4%E7%BA%B3%E6%96%AF&t=31&band_rank=5&Refer=top)<br />
 6. [第一学历](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86&t=31&band_rank=6&Refer=top)<br />
 7. [男子解开安全带拿吃的致一死一伤](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A7%A3%E5%BC%80%E5%AE%89%E5%85%A8%E5%B8%A6%E6%8B%BF%E5%90%83%E7%9A%84%E8%87%B4%E4%B8%80%E6%AD%BB%E4%B8%80%E4%BC%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [赵丽颖 女二](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E5%A5%B3%E4%BA%8C&t=31&band_rank=8&Refer=top)<br />
-9. [外籍旅客优先登机致一女子滞留机场](https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%B1%8D%E6%97%85%E5%AE%A2%E4%BC%98%E5%85%88%E7%99%BB%E6%9C%BA%E8%87%B4%E4%B8%80%E5%A5%B3%E5%AD%90%E6%BB%9E%E7%95%99%E6%9C%BA%E5%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [外籍旅客优先登机致一女子滞留机场](https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%B1%8D%E6%97%85%E5%AE%A2%E4%BC%98%E5%85%88%E7%99%BB%E6%9C%BA%E8%87%B4%E4%B8%80%E5%A5%B3%E5%AD%90%E6%BB%9E%E7%95%99%E6%9C%BA%E5%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [赵丽颖 女二](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E5%A5%B3%E4%BA%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
