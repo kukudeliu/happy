@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 21:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-10 21:23:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [八年了 她终于红了](https://s.weibo.com/weibo?q=%E5%85%AB%E5%B9%B4%E4%BA%86%20%E5%A5%B9%E7%BB%88%E4%BA%8E%E7%BA%A2%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [16岁女生和班主任开房5次后自杀](https://s.weibo.com/weibo?q=%2316%E5%B2%81%E5%A5%B3%E7%94%9F%E5%92%8C%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%BC%80%E6%88%BF5%E6%AC%A1%E5%90%8E%E8%87%AA%E6%9D%80%23&t=31&band_rank=5&Refer=top)<br />
 6. [白鲨卫冕CFS冠军](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B2%A8%E5%8D%AB%E5%86%95CFS%E5%86%A0%E5%86%9B%23&t=31&band_rank=6&Refer=top)<br />
-7. [国乒混团世界杯夺冠](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [赵一博](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%80%E5%8D%9A&t=31&band_rank=8&Refer=top)<br />
+7. [赵一博](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%80%E5%8D%9A&t=31&band_rank=7&Refer=top)<br />
+8. [国乒混团世界杯夺冠](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%23&t=31&band_rank=8&Refer=top)<br />
 9. [主播陈一发儿疑似复出再被封](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E9%99%88%E4%B8%80%E5%8F%91%E5%84%BF%E7%96%91%E4%BC%BC%E5%A4%8D%E5%87%BA%E5%86%8D%E8%A2%AB%E5%B0%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
