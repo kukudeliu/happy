@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 11:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 11:52:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [嘉人 肖战](https://s.weibo.com/weibo?q=%E5%98%89%E4%BA%BA%20%E8%82%96%E6%88%98&t=31&band_rank=5&Refer=top)<br />
 6. [美国一架F16战斗机在黄海坠毁](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%9E%B6F16%E6%88%98%E6%96%97%E6%9C%BA%E5%9C%A8%E9%BB%84%E6%B5%B7%E5%9D%A0%E6%AF%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [时尚芭莎 王一博](https://s.weibo.com/weibo?q=%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E%20%E7%8E%8B%E4%B8%80%E5%8D%9A&t=31&band_rank=7&Refer=top)<br />
-8. [林孝埈退出首尔站比赛](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E9%80%80%E5%87%BA%E9%A6%96%E5%B0%94%E7%AB%99%E6%AF%94%E8%B5%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [曾经的龙葵 现在的任辛](https://s.weibo.com/weibo?q=%E6%9B%BE%E7%BB%8F%E7%9A%84%E9%BE%99%E8%91%B5%20%E7%8E%B0%E5%9C%A8%E7%9A%84%E4%BB%BB%E8%BE%9B&t=31&band_rank=9&Refer=top)<br />
+8. [曾经的龙葵 现在的任辛](https://s.weibo.com/weibo?q=%E6%9B%BE%E7%BB%8F%E7%9A%84%E9%BE%99%E8%91%B5%20%E7%8E%B0%E5%9C%A8%E7%9A%84%E4%BB%BB%E8%BE%9B&t=31&band_rank=8&Refer=top)<br />
+9. [林孝埈退出首尔站比赛](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E9%80%80%E5%87%BA%E9%A6%96%E5%B0%94%E7%AB%99%E6%AF%94%E8%B5%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
