@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 23:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 23:11:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [我是不结婚 不是不交电费](https://s.weibo.com/weibo?q=%E6%88%91%E6%98%AF%E4%B8%8D%E7%BB%93%E5%A9%9A%20%E4%B8%8D%E6%98%AF%E4%B8%8D%E4%BA%A4%E7%94%B5%E8%B4%B9&t=31&band_rank=5&Refer=top)<br />
 6. [薛之谦 小杨哥](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E5%B0%8F%E6%9D%A8%E5%93%A5&t=31&band_rank=6&Refer=top)<br />
 7. [周海媚刚过完57岁生日](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%88%9A%E8%BF%87%E5%AE%8C57%E5%B2%81%E7%94%9F%E6%97%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [Ning 可惜没有机会](https://s.weibo.com/weibo?q=Ning%20%E5%8F%AF%E6%83%9C%E6%B2%A1%E6%9C%89%E6%9C%BA%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
-9. [警方回应男子倒卧雪中不幸身亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E5%80%92%E5%8D%A7%E9%9B%AA%E4%B8%AD%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [警方回应男子倒卧雪中不幸身亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E5%80%92%E5%8D%A7%E9%9B%AA%E4%B8%AD%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [男子拉肚子医生多问一句跑赢死神](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%89%E8%82%9A%E5%AD%90%E5%8C%BB%E7%94%9F%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E8%B7%91%E8%B5%A2%E6%AD%BB%E7%A5%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
