@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 14:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 14:20:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [男子打骂待产女儿被妻子刺死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%93%E9%AA%82%E5%BE%85%E4%BA%A7%E5%A5%B3%E5%84%BF%E8%A2%AB%E5%A6%BB%E5%AD%90%E5%88%BA%E6%AD%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [故宫闭馆](https://s.weibo.com/weibo?q=%E6%95%85%E5%AE%AB%E9%97%AD%E9%A6%86&t=31&band_rank=5&Refer=top)<br />
 6. [阚清子首谈被求婚过程](https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E9%A6%96%E8%B0%88%E8%A2%AB%E6%B1%82%E5%A9%9A%E8%BF%87%E7%A8%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [男子花100块买彩票中8662万捐5300万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B1100%E5%9D%97%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD8662%E4%B8%87%E6%8D%905300%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [难哄 悬着的心终于死了](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E6%AD%BB%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+7. [难哄 悬着的心终于死了](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E6%AD%BB%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [男子花100块买彩票中8662万捐5300万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B1100%E5%9D%97%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD8662%E4%B8%87%E6%8D%905300%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [WBG 不官宣](https://s.weibo.com/weibo?q=WBG%20%E4%B8%8D%E5%AE%98%E5%AE%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
