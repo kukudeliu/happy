@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 16:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 16:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩素希 没整鼻子](https://s.weibo.com/weibo?q=%E9%9F%A9%E7%B4%A0%E5%B8%8C%20%E6%B2%A1%E6%95%B4%E9%BC%BB%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
 7. [阚清子首谈被求婚过程](https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E9%A6%96%E8%B0%88%E8%A2%AB%E6%B1%82%E5%A9%9A%E8%BF%87%E7%A8%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [王安宇 不吃水里的东西](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%20%E4%B8%8D%E5%90%83%E6%B0%B4%E9%87%8C%E7%9A%84%E4%B8%9C%E8%A5%BF&t=31&band_rank=8&Refer=top)<br />
-9. [一线城市房租跳水](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%88%BF%E7%A7%9F%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [31岁国羽前国手溺亡](https://s.weibo.com/weibo?q=%2331%E5%B2%81%E5%9B%BD%E7%BE%BD%E5%89%8D%E5%9B%BD%E6%89%8B%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
