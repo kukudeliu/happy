@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 03:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 03:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男子拉肚子医生多问一句跑赢死神](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%89%E8%82%9A%E5%AD%90%E5%8C%BB%E7%94%9F%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E8%B7%91%E8%B5%A2%E6%AD%BB%E7%A5%9E%23&t=31&band_rank=5&Refer=top)<br />
 6. [TheShy 我想休息一下](https://s.weibo.com/weibo?q=TheShy%20%E6%88%91%E6%83%B3%E4%BC%91%E6%81%AF%E4%B8%80%E4%B8%8B&t=31&band_rank=6&Refer=top)<br />
 7. [WBG宣布TheShy离队](https://s.weibo.com/weibo?q=WBG%E5%AE%A3%E5%B8%83TheShy%E7%A6%BB%E9%98%9F&t=31&band_rank=7&Refer=top)<br />
-8. [红斑狼疮高发人群是年轻女性](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE%E9%AB%98%E5%8F%91%E4%BA%BA%E7%BE%A4%E6%98%AF%E5%B9%B4%E8%BD%BB%E5%A5%B3%E6%80%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [体脂不断下降的好习惯](https://s.weibo.com/weibo?q=%E4%BD%93%E8%84%82%E4%B8%8D%E6%96%AD%E4%B8%8B%E9%99%8D%E7%9A%84%E5%A5%BD%E4%B9%A0%E6%83%AF&t=31&band_rank=9&Refer=top)<br />
+8. [体脂不断下降的好习惯](https://s.weibo.com/weibo?q=%E4%BD%93%E8%84%82%E4%B8%8D%E6%96%AD%E4%B8%8B%E9%99%8D%E7%9A%84%E5%A5%BD%E4%B9%A0%E6%83%AF&t=31&band_rank=8&Refer=top)<br />
+9. [红斑狼疮高发人群是年轻女性](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE%E9%AB%98%E5%8F%91%E4%BA%BA%E7%BE%A4%E6%98%AF%E5%B9%B4%E8%BD%BB%E5%A5%B3%E6%80%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
