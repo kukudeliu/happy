@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 10:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 10:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张雪峰称河南人不爱骗人](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A7%B0%E6%B2%B3%E5%8D%97%E4%BA%BA%E4%B8%8D%E7%88%B1%E9%AA%97%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [一念关山回应不带常华森](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%B8%A6%E5%B8%B8%E5%8D%8E%E6%A3%AE%23&t=31&band_rank=7&Refer=top)<br />
 8. [余承东怒怼懂车帝](https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E6%80%92%E6%80%BC%E6%87%82%E8%BD%A6%E5%B8%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [多部门回应杨丞琳说河南人爱骗人](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E6%9D%A8%E4%B8%9E%E7%90%B3%E8%AF%B4%E6%B2%B3%E5%8D%97%E4%BA%BA%E7%88%B1%E9%AA%97%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [开封一下雪就成了汴梁](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B0%81%E4%B8%80%E4%B8%8B%E9%9B%AA%E5%B0%B1%E6%88%90%E4%BA%86%E6%B1%B4%E6%A2%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
