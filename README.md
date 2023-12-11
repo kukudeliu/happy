@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 12:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 12:28:01</h4></div>
 
 > 微博  
 
-1. [观众还原杨丞琳冒犯言论现场情况](https://s.weibo.com/weibo?q=%23%E8%A7%82%E4%BC%97%E8%BF%98%E5%8E%9F%E6%9D%A8%E4%B8%9E%E7%90%B3%E5%86%92%E7%8A%AF%E8%A8%80%E8%AE%BA%E7%8E%B0%E5%9C%BA%E6%83%85%E5%86%B5%23&t=31&band_rank=1&Refer=top)<br />
-2. [故宫闭馆](https://s.weibo.com/weibo?q=%E6%95%85%E5%AE%AB%E9%97%AD%E9%A6%86&t=31&band_rank=2&Refer=top)<br />
+1. [故宫闭馆](https://s.weibo.com/weibo?q=%E6%95%85%E5%AE%AB%E9%97%AD%E9%A6%86&t=31&band_rank=1&Refer=top)<br />
+2. [观众还原杨丞琳冒犯言论现场情况](https://s.weibo.com/weibo?q=%23%E8%A7%82%E4%BC%97%E8%BF%98%E5%8E%9F%E6%9D%A8%E4%B8%9E%E7%90%B3%E5%86%92%E7%8A%AF%E8%A8%80%E8%AE%BA%E7%8E%B0%E5%9C%BA%E6%83%85%E5%86%B5%23&t=31&band_rank=2&Refer=top)<br />
 3. [冰墩墩雪容融又见到雪了](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E9%9B%AA%E5%AE%B9%E8%9E%8D%E5%8F%88%E8%A7%81%E5%88%B0%E9%9B%AA%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [高耀洁医生去世](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%80%E6%B4%81%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [嘉人 肖战](https://s.weibo.com/weibo?q=%E5%98%89%E4%BA%BA%20%E8%82%96%E6%88%98&t=31&band_rank=5&Refer=top)<br />
