@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 21:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 21:35:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [中国经济大船将乘风破浪持续前行](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%A4%A7%E8%88%B9%E5%B0%86%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E6%8C%81%E7%BB%AD%E5%89%8D%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [“同志加兄弟”：中越友谊历久弥新](https://www.baidu.com/s?wd=%E2%80%9C%E5%90%8C%E5%BF%97%E5%8A%A0%E5%85%84%E5%BC%9F%E2%80%9D%EF%BC%9A%E4%B8%AD%E8%B6%8A%E5%8F%8B%E8%B0%8A%E5%8E%86%E4%B9%85%E5%BC%A5%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [周海媚工作人员拒绝回应网传消息](https://www.baidu.com/s?wd=%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8B%92%E7%BB%9D%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [律师要求官方公开2.2亿彩票事件信息](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E8%A6%81%E6%B1%82%E5%AE%98%E6%96%B9%E5%85%AC%E5%BC%802.2%E4%BA%BF%E5%BD%A9%E7%A5%A8%E4%BA%8B%E4%BB%B6%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [奋楫扬帆 绘就高质量发展新画卷](https://www.baidu.com/s?wd=%E5%A5%8B%E6%A5%AB%E6%89%AC%E5%B8%86+%E7%BB%98%E5%B0%B1%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E6%96%B0%E7%94%BB%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [中国经济大船将乘风破浪持续前行](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%A4%A7%E8%88%B9%E5%B0%86%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E6%8C%81%E7%BB%AD%E5%89%8D%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [“同志加兄弟”：中越友谊历久弥新](https://www.baidu.com/s?wd=%E2%80%9C%E5%90%8C%E5%BF%97%E5%8A%A0%E5%85%84%E5%BC%9F%E2%80%9D%EF%BC%9A%E4%B8%AD%E8%B6%8A%E5%8F%8B%E8%B0%8A%E5%8E%86%E4%B9%85%E5%BC%A5%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [周海媚工作人员拒绝回应网传消息](https://www.baidu.com/s?wd=%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8B%92%E7%BB%9D%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [律师要求官方公开2.2亿彩票事件信息](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E8%A6%81%E6%B1%82%E5%AE%98%E6%96%B9%E5%85%AC%E5%BC%802.2%E4%BA%BF%E5%BD%A9%E7%A5%A8%E4%BA%8B%E4%BB%B6%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [奋楫扬帆 绘就高质量发展新画卷](https://www.baidu.com/s?wd=%E5%A5%8B%E6%A5%AB%E6%89%AC%E5%B8%86+%E7%BB%98%E5%B0%B1%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E6%96%B0%E7%94%BB%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
