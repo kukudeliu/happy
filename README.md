@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 13:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 13:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [时尚芭莎 王一博](https://s.weibo.com/weibo?q=%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E%20%E7%8E%8B%E4%B8%80%E5%8D%9A&t=31&band_rank=6&Refer=top)<br />
 7. [嘉人 肖战](https://s.weibo.com/weibo?q=%E5%98%89%E4%BA%BA%20%E8%82%96%E6%88%98&t=31&band_rank=7&Refer=top)<br />
 8. [曾经的龙葵 现在的任辛](https://s.weibo.com/weibo?q=%E6%9B%BE%E7%BB%8F%E7%9A%84%E9%BE%99%E8%91%B5%20%E7%8E%B0%E5%9C%A8%E7%9A%84%E4%BB%BB%E8%BE%9B&t=31&band_rank=8&Refer=top)<br />
-9. [美军黄海坠机飞行员已获救](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E9%BB%84%E6%B5%B7%E5%9D%A0%E6%9C%BA%E9%A3%9E%E8%A1%8C%E5%91%98%E5%B7%B2%E8%8E%B7%E6%95%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [专家回应公务员考试考生多地考试现象](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95%E8%80%83%E7%94%9F%E5%A4%9A%E5%9C%B0%E8%80%83%E8%AF%95%E7%8E%B0%E8%B1%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
