@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 16:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 17:00:01</h4></div>
 
 > 微博  
 
-1. [大胖媳妇喜提豪车](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%83%96%E5%AA%B3%E5%A6%87%E5%96%9C%E6%8F%90%E8%B1%AA%E8%BD%A6&t=31&band_rank=1&Refer=top)<br />
-2. [瑞幸咖啡师烂手之痛](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%92%96%E5%95%A1%E5%B8%88%E7%83%82%E6%89%8B%E4%B9%8B%E7%97%9B%23&t=31&band_rank=2&Refer=top)<br />
+1. [瑞幸咖啡师烂手之痛](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%92%96%E5%95%A1%E5%B8%88%E7%83%82%E6%89%8B%E4%B9%8B%E7%97%9B%23&t=31&band_rank=1&Refer=top)<br />
+2. [大胖媳妇喜提豪车](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%83%96%E5%AA%B3%E5%A6%87%E5%96%9C%E6%8F%90%E8%B1%AA%E8%BD%A6&t=31&band_rank=2&Refer=top)<br />
 3. [致敬奋力拼搏的你](https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%95%AC%E5%A5%8B%E5%8A%9B%E6%8B%BC%E6%90%8F%E7%9A%84%E4%BD%A0%23&t=31&band_rank=3&Refer=top)<br />
 4. [男子打骂待产女儿被妻子刺死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%93%E9%AA%82%E5%BE%85%E4%BA%A7%E5%A5%B3%E5%84%BF%E8%A2%AB%E5%A6%BB%E5%AD%90%E5%88%BA%E6%AD%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [快乐老友记 直播睡觉](https://s.weibo.com/weibo?q=%E5%BF%AB%E4%B9%90%E8%80%81%E5%8F%8B%E8%AE%B0%20%E7%9B%B4%E6%92%AD%E7%9D%A1%E8%A7%89&t=31&band_rank=5&Refer=top)<br />
