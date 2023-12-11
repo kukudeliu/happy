@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 10:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 10:14:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [余承东怒怼懂车帝](https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E6%80%92%E6%80%BC%E6%87%82%E8%BD%A6%E5%B8%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [新乡发布临时停课通知](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B9%A1%E5%8F%91%E5%B8%83%E4%B8%B4%E6%97%B6%E5%81%9C%E8%AF%BE%E9%80%9A%E7%9F%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [一念关山回应不带常华森](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%B8%A6%E5%B8%B8%E5%8D%8E%E6%A3%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [张万森 雪崩了](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%B8%87%E6%A3%AE%20%E9%9B%AA%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [张雪峰称河南人不爱骗人](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A7%B0%E6%B2%B3%E5%8D%97%E4%BA%BA%E4%B8%8D%E7%88%B1%E9%AA%97%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
