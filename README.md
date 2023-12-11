@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 14:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 14:14:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [阚清子首谈被求婚过程](https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E9%A6%96%E8%B0%88%E8%A2%AB%E6%B1%82%E5%A9%9A%E8%BF%87%E7%A8%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子花100块买彩票中8662万捐5300万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B1100%E5%9D%97%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD8662%E4%B8%87%E6%8D%905300%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [WBG 不官宣](https://s.weibo.com/weibo?q=WBG%20%E4%B8%8D%E5%AE%98%E5%AE%A3&t=31&band_rank=8&Refer=top)<br />
-9. [考生吐槽南京地铁故障致省考迟到](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%94%9F%E5%90%90%E6%A7%BD%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%81%E6%95%85%E9%9A%9C%E8%87%B4%E7%9C%81%E8%80%83%E8%BF%9F%E5%88%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [难哄 悬着的心终于死了](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E6%AD%BB%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
