@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 20:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 20:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [范丞丞 范肠肠](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%20%E8%8C%83%E8%82%A0%E8%82%A0&t=31&band_rank=6&Refer=top)<br />
 7. [化妆 取悦](https://s.weibo.com/weibo?q=%E5%8C%96%E5%A6%86%20%E5%8F%96%E6%82%A6&t=31&band_rank=7&Refer=top)<br />
 8. [杨幂手上的黑玫瑰是裙子上掉下来的](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%89%8B%E4%B8%8A%E7%9A%84%E9%BB%91%E7%8E%AB%E7%91%B0%E6%98%AF%E8%A3%99%E5%AD%90%E4%B8%8A%E6%8E%89%E4%B8%8B%E6%9D%A5%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [神隐 上厕所](https://s.weibo.com/weibo?q=%E7%A5%9E%E9%9A%90%20%E4%B8%8A%E5%8E%95%E6%89%80&t=31&band_rank=9&Refer=top)<br />
+9. [父亲背基因突变儿子1年爬了4座山](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%83%8C%E5%9F%BA%E5%9B%A0%E7%AA%81%E5%8F%98%E5%84%BF%E5%AD%901%E5%B9%B4%E7%88%AC%E4%BA%864%E5%BA%A7%E5%B1%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
