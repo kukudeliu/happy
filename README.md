@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 15:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 15:36:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [今年最难忘的一件事](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%9C%80%E9%9A%BE%E5%BF%98%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [男子打骂待产女儿被妻子刺死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%93%E9%AA%82%E5%BE%85%E4%BA%A7%E5%A5%B3%E5%84%BF%E8%A2%AB%E5%A6%BB%E5%AD%90%E5%88%BA%E6%AD%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [雪地靴 堆堆袜](https://s.weibo.com/weibo?q=%E9%9B%AA%E5%9C%B0%E9%9D%B4%20%E5%A0%86%E5%A0%86%E8%A2%9C&t=31&band_rank=5&Refer=top)<br />
-6. [火锅店给客人吃3年口水油](https://s.weibo.com/weibo?q=%23%E7%81%AB%E9%94%85%E5%BA%97%E7%BB%99%E5%AE%A2%E4%BA%BA%E5%90%833%E5%B9%B4%E5%8F%A3%E6%B0%B4%E6%B2%B9%23&t=31&band_rank=6&Refer=top)<br />
-7. [阚清子首谈被求婚过程](https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E9%A6%96%E8%B0%88%E8%A2%AB%E6%B1%82%E5%A9%9A%E8%BF%87%E7%A8%8B%23&t=31&band_rank=7&Refer=top)<br />
+6. [阚清子首谈被求婚过程](https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E9%A6%96%E8%B0%88%E8%A2%AB%E6%B1%82%E5%A9%9A%E8%BF%87%E7%A8%8B%23&t=31&band_rank=6&Refer=top)<br />
+7. [火锅店给客人吃3年口水油](https://s.weibo.com/weibo?q=%23%E7%81%AB%E9%94%85%E5%BA%97%E7%BB%99%E5%AE%A2%E4%BA%BA%E5%90%833%E5%B9%B4%E5%8F%A3%E6%B0%B4%E6%B2%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [TheShy 对赌协议](https://s.weibo.com/weibo?q=TheShy%20%E5%AF%B9%E8%B5%8C%E5%8D%8F%E8%AE%AE&t=31&band_rank=8&Refer=top)<br />
 9. [故宫闭馆](https://s.weibo.com/weibo?q=%E6%95%85%E5%AE%AB%E9%97%AD%E9%A6%86&t=31&band_rank=9&Refer=top)<br />
 
