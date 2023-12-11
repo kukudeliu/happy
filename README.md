@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 22:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 22:58:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [红斑狼疮](https://s.weibo.com/weibo?q=%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE&t=31&band_rank=4&Refer=top)<br />
 5. [我是不结婚 不是不交电费](https://s.weibo.com/weibo?q=%E6%88%91%E6%98%AF%E4%B8%8D%E7%BB%93%E5%A9%9A%20%E4%B8%8D%E6%98%AF%E4%B8%8D%E4%BA%A4%E7%94%B5%E8%B4%B9&t=31&band_rank=5&Refer=top)<br />
 6. [薛之谦 小杨哥](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E5%B0%8F%E6%9D%A8%E5%93%A5&t=31&band_rank=6&Refer=top)<br />
-7. [新闻女王 郑伯病逝](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E9%83%91%E4%BC%AF%E7%97%85%E9%80%9D&t=31&band_rank=7&Refer=top)<br />
+7. [宋轶 使用小号之后会发现世界安静了](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%BD%B6%20%E4%BD%BF%E7%94%A8%E5%B0%8F%E5%8F%B7%E4%B9%8B%E5%90%8E%E4%BC%9A%E5%8F%91%E7%8E%B0%E4%B8%96%E7%95%8C%E5%AE%89%E9%9D%99%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [警方回应男子倒卧雪中不幸身亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E5%80%92%E5%8D%A7%E9%9B%AA%E4%B8%AD%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [瑞幸咖啡师烂手之痛](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%92%96%E5%95%A1%E5%B8%88%E7%83%82%E6%89%8B%E4%B9%8B%E7%97%9B%23&t=31&band_rank=9&Refer=top)<br />
 
