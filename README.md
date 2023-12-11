@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 14:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 14:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [阚清子首谈被求婚过程](https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E9%A6%96%E8%B0%88%E8%A2%AB%E6%B1%82%E5%A9%9A%E8%BF%87%E7%A8%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [故宫闭馆](https://s.weibo.com/weibo?q=%E6%95%85%E5%AE%AB%E9%97%AD%E9%A6%86&t=31&band_rank=7&Refer=top)<br />
 8. [火锅店给客人吃3年口水油](https://s.weibo.com/weibo?q=%23%E7%81%AB%E9%94%85%E5%BA%97%E7%BB%99%E5%AE%A2%E4%BA%BA%E5%90%833%E5%B9%B4%E5%8F%A3%E6%B0%B4%E6%B2%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子花100块买彩票中8662万捐5300万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B1100%E5%9D%97%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD8662%E4%B8%87%E6%8D%905300%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [WBG 不官宣](https://s.weibo.com/weibo?q=WBG%20%E4%B8%8D%E5%AE%98%E5%AE%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
