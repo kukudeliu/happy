@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 18:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 18:13:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [高中女生在校坠亡：刚入学三个月](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E5%A5%B3%E7%94%9F%E5%9C%A8%E6%A0%A1%E5%9D%A0%E4%BA%A1%EF%BC%9A%E5%88%9A%E5%85%A5%E5%AD%A6%E4%B8%89%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [家长献血100ml子女可得2入学积分](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E7%8C%AE%E8%A1%80100ml%E5%AD%90%E5%A5%B3%E5%8F%AF%E5%BE%972%E5%85%A5%E5%AD%A6%E7%A7%AF%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高校不予安排住宿 媒体：大趋势](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E4%B8%8D%E4%BA%88%E5%AE%89%E6%8E%92%E4%BD%8F%E5%AE%BF+%E5%AA%92%E4%BD%93%EF%BC%9A%E5%A4%A7%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乐山有人抢小孩被打死？假的](https://www.baidu.com/s?wd=%E4%B9%90%E5%B1%B1%E6%9C%89%E4%BA%BA%E6%8A%A2%E5%B0%8F%E5%AD%A9%E8%A2%AB%E6%89%93%E6%AD%BB%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方辟谣深圳一快递小哥突然疯了](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E7%AA%81%E7%84%B6%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [高中女生在校坠亡：刚入学三个月](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E5%A5%B3%E7%94%9F%E5%9C%A8%E6%A0%A1%E5%9D%A0%E4%BA%A1%EF%BC%9A%E5%88%9A%E5%85%A5%E5%AD%A6%E4%B8%89%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [家长献血100ml子女可得2入学积分](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E7%8C%AE%E8%A1%80100ml%E5%AD%90%E5%A5%B3%E5%8F%AF%E5%BE%972%E5%85%A5%E5%AD%A6%E7%A7%AF%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [高校不予安排住宿 媒体：大趋势](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E4%B8%8D%E4%BA%88%E5%AE%89%E6%8E%92%E4%BD%8F%E5%AE%BF+%E5%AA%92%E4%BD%93%EF%BC%9A%E5%A4%A7%E8%B6%8B%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乐山有人抢小孩被打死？假的](https://www.baidu.com/s?wd=%E4%B9%90%E5%B1%B1%E6%9C%89%E4%BA%BA%E6%8A%A2%E5%B0%8F%E5%AD%A9%E8%A2%AB%E6%89%93%E6%AD%BB%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方辟谣深圳一快递小哥突然疯了](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E7%AA%81%E7%84%B6%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
