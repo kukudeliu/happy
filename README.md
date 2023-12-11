@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 10:35:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 10:36:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [曾经的龙葵 现在的任辛](https://s.weibo.com/weibo?q=%E6%9B%BE%E7%BB%8F%E7%9A%84%E9%BE%99%E8%91%B5%20%E7%8E%B0%E5%9C%A8%E7%9A%84%E4%BB%BB%E8%BE%9B&t=31&band_rank=6&Refer=top)<br />
 7. [多省公务员考试考生直呼心凉](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E7%9C%81%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95%E8%80%83%E7%94%9F%E7%9B%B4%E5%91%BC%E5%BF%83%E5%87%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [一念关山回应不带常华森](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%B8%A6%E5%B8%B8%E5%8D%8E%E6%A3%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [余承东怒怼懂车帝](https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E6%80%92%E6%80%BC%E6%87%82%E8%BD%A6%E5%B8%9D%23&t=31&band_rank=9&Refer=top)<br />
+9. [00后女生花万元买一整车男装](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E7%94%9F%E8%8A%B1%E4%B8%87%E5%85%83%E4%B9%B0%E4%B8%80%E6%95%B4%E8%BD%A6%E7%94%B7%E8%A3%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
