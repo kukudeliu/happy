@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 13:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 13:13:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [今年最难忘的一件事](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%9C%80%E9%9A%BE%E5%BF%98%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [观众还原杨丞琳冒犯言论现场情况](https://s.weibo.com/weibo?q=%23%E8%A7%82%E4%BC%97%E8%BF%98%E5%8E%9F%E6%9D%A8%E4%B8%9E%E7%90%B3%E5%86%92%E7%8A%AF%E8%A8%80%E8%AE%BA%E7%8E%B0%E5%9C%BA%E6%83%85%E5%86%B5%23&t=31&band_rank=4&Refer=top)<br />
 5. [高耀洁医生去世](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%80%E6%B4%81%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
-6. [时尚芭莎 王一博](https://s.weibo.com/weibo?q=%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E%20%E7%8E%8B%E4%B8%80%E5%8D%9A&t=31&band_rank=6&Refer=top)<br />
-7. [嘉人 肖战](https://s.weibo.com/weibo?q=%E5%98%89%E4%BA%BA%20%E8%82%96%E6%88%98&t=31&band_rank=7&Refer=top)<br />
-8. [曾经的龙葵 现在的任辛](https://s.weibo.com/weibo?q=%E6%9B%BE%E7%BB%8F%E7%9A%84%E9%BE%99%E8%91%B5%20%E7%8E%B0%E5%9C%A8%E7%9A%84%E4%BB%BB%E8%BE%9B&t=31&band_rank=8&Refer=top)<br />
-9. [美军黄海坠机飞行员已获救](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E9%BB%84%E6%B5%B7%E5%9D%A0%E6%9C%BA%E9%A3%9E%E8%A1%8C%E5%91%98%E5%B7%B2%E8%8E%B7%E6%95%91%23&t=31&band_rank=9&Refer=top)<br />
+6. [考生吐槽南京地铁故障致省考迟到](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%94%9F%E5%90%90%E6%A7%BD%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%81%E6%95%85%E9%9A%9C%E8%87%B4%E7%9C%81%E8%80%83%E8%BF%9F%E5%88%B0%23&t=31&band_rank=6&Refer=top)<br />
+7. [时尚芭莎 王一博](https://s.weibo.com/weibo?q=%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E%20%E7%8E%8B%E4%B8%80%E5%8D%9A&t=31&band_rank=7&Refer=top)<br />
+8. [嘉人 肖战](https://s.weibo.com/weibo?q=%E5%98%89%E4%BA%BA%20%E8%82%96%E6%88%98&t=31&band_rank=8&Refer=top)<br />
+9. [曾经的龙葵 现在的任辛](https://s.weibo.com/weibo?q=%E6%9B%BE%E7%BB%8F%E7%9A%84%E9%BE%99%E8%91%B5%20%E7%8E%B0%E5%9C%A8%E7%9A%84%E4%BB%BB%E8%BE%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
