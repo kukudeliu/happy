@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 18:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 18:59:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [结婚3个月离婚106万彩礼被判返还80万](https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A3%E4%B8%AA%E6%9C%88%E7%A6%BB%E5%A9%9A106%E4%B8%87%E5%BD%A9%E7%A4%BC%E8%A2%AB%E5%88%A4%E8%BF%94%E8%BF%9880%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [近90岁女画家守近万幅画坚决不卖](https://s.weibo.com/weibo?q=%23%E8%BF%9190%E5%B2%81%E5%A5%B3%E7%94%BB%E5%AE%B6%E5%AE%88%E8%BF%91%E4%B8%87%E5%B9%85%E7%94%BB%E5%9D%9A%E5%86%B3%E4%B8%8D%E5%8D%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [白岩松曾称中国人什么样河南人就什么样](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B2%A9%E6%9D%BE%E6%9B%BE%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BB%80%E4%B9%88%E6%A0%B7%E6%B2%B3%E5%8D%97%E4%BA%BA%E5%B0%B1%E4%BB%80%E4%B9%88%E6%A0%B7%23&t=31&band_rank=6&Refer=top)<br />
-7. [幼儿园老师雪后操场踩出Plus福字](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E9%9B%AA%E5%90%8E%E6%93%8D%E5%9C%BA%E8%B8%A9%E5%87%BAPlus%E7%A6%8F%E5%AD%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [范丞丞 范肠肠](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%20%E8%8C%83%E8%82%A0%E8%82%A0&t=31&band_rank=8&Refer=top)<br />
-9. [范玮琪母亲去世](https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+7. [范丞丞 范肠肠](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%20%E8%8C%83%E8%82%A0%E8%82%A0&t=31&band_rank=7&Refer=top)<br />
+8. [范玮琪母亲去世](https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [瑞幸咖啡师烂手之痛](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%92%96%E5%95%A1%E5%B8%88%E7%83%82%E6%89%8B%E4%B9%8B%E7%97%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
