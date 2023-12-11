@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 11:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 11:48:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [故宫闭馆](https://s.weibo.com/weibo?q=%E6%95%85%E5%AE%AB%E9%97%AD%E9%A6%86&t=31&band_rank=2&Refer=top)<br />
 3. [近期呼吸道疾病防治注意事项](https://s.weibo.com/weibo?q=%23%E8%BF%91%E6%9C%9F%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E9%98%B2%E6%B2%BB%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [猪场饲养员洗澡后穿内裤罚款200](https://s.weibo.com/weibo?q=%23%E7%8C%AA%E5%9C%BA%E9%A5%B2%E5%85%BB%E5%91%98%E6%B4%97%E6%BE%A1%E5%90%8E%E7%A9%BF%E5%86%85%E8%A3%A4%E7%BD%9A%E6%AC%BE200%23&t=31&band_rank=4&Refer=top)<br />
-5. [美国一架F16战斗机在黄海坠毁](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%9E%B6F16%E6%88%98%E6%96%97%E6%9C%BA%E5%9C%A8%E9%BB%84%E6%B5%B7%E5%9D%A0%E6%AF%81%23&t=31&band_rank=5&Refer=top)<br />
-6. [嘉人 肖战](https://s.weibo.com/weibo?q=%E5%98%89%E4%BA%BA%20%E8%82%96%E6%88%98&t=31&band_rank=6&Refer=top)<br />
+5. [嘉人 肖战](https://s.weibo.com/weibo?q=%E5%98%89%E4%BA%BA%20%E8%82%96%E6%88%98&t=31&band_rank=5&Refer=top)<br />
+6. [美国一架F16战斗机在黄海坠毁](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%9E%B6F16%E6%88%98%E6%96%97%E6%9C%BA%E5%9C%A8%E9%BB%84%E6%B5%B7%E5%9D%A0%E6%AF%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [时尚芭莎 王一博](https://s.weibo.com/weibo?q=%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E%20%E7%8E%8B%E4%B8%80%E5%8D%9A&t=31&band_rank=7&Refer=top)<br />
 8. [林孝埈退出首尔站比赛](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E9%80%80%E5%87%BA%E9%A6%96%E5%B0%94%E7%AB%99%E6%AF%94%E8%B5%9B%23&t=31&band_rank=8&Refer=top)<br />
 9. [曾经的龙葵 现在的任辛](https://s.weibo.com/weibo?q=%E6%9B%BE%E7%BB%8F%E7%9A%84%E9%BE%99%E8%91%B5%20%E7%8E%B0%E5%9C%A8%E7%9A%84%E4%BB%BB%E8%BE%9B&t=31&band_rank=9&Refer=top)<br />
