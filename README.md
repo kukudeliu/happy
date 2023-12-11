@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 08:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 08:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [缅北四大家族](https://s.weibo.com/weibo?q=%E7%BC%85%E5%8C%97%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F&t=31&band_rank=6&Refer=top)<br />
 7. [北京下雪](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA&t=31&band_rank=7&Refer=top)<br />
 8. [信 怎么办一会还要唱离歌](https://s.weibo.com/weibo?q=%E4%BF%A1%20%E6%80%8E%E4%B9%88%E5%8A%9E%E4%B8%80%E4%BC%9A%E8%BF%98%E8%A6%81%E5%94%B1%E7%A6%BB%E6%AD%8C&t=31&band_rank=8&Refer=top)<br />
-9. [张万森 雪崩了](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%B8%87%E6%A3%AE%20%E9%9B%AA%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [老人握妻子手买人生第一套房](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%8F%A1%E5%A6%BB%E5%AD%90%E6%89%8B%E4%B9%B0%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%A5%97%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
