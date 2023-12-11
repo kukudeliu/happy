@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 19:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 19:35:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [范丞丞 范肠肠](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%20%E8%8C%83%E8%82%A0%E8%82%A0&t=31&band_rank=6&Refer=top)<br />
 7. [近90岁女画家守近万幅画坚决不卖](https://s.weibo.com/weibo?q=%23%E8%BF%9190%E5%B2%81%E5%A5%B3%E7%94%BB%E5%AE%B6%E5%AE%88%E8%BF%91%E4%B8%87%E5%B9%85%E7%94%BB%E5%9D%9A%E5%86%B3%E4%B8%8D%E5%8D%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [于正 你能给赵晴一次机会吗](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%20%E4%BD%A0%E8%83%BD%E7%BB%99%E8%B5%B5%E6%99%B4%E4%B8%80%E6%AC%A1%E6%9C%BA%E4%BC%9A%E5%90%97&t=31&band_rank=8&Refer=top)<br />
-9. [范玮琪母亲去世](https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [北京下雪了 羊的天塌了](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA%E4%BA%86%20%E7%BE%8A%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
