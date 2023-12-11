@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 08:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 08:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [缅北四大家族](https://s.weibo.com/weibo?q=%E7%BC%85%E5%8C%97%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F&t=31&band_rank=6&Refer=top)<br />
 7. [陈思诚 感谢家人们给我的名字](https://s.weibo.com/weibo?q=%E9%99%88%E6%80%9D%E8%AF%9A%20%E6%84%9F%E8%B0%A2%E5%AE%B6%E4%BA%BA%E4%BB%AC%E7%BB%99%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97&t=31&band_rank=7&Refer=top)<br />
 8. [信 怎么办一会还要唱离歌](https://s.weibo.com/weibo?q=%E4%BF%A1%20%E6%80%8E%E4%B9%88%E5%8A%9E%E4%B8%80%E4%BC%9A%E8%BF%98%E8%A6%81%E5%94%B1%E7%A6%BB%E6%AD%8C&t=31&band_rank=8&Refer=top)<br />
-9. [北京下雪](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA&t=31&band_rank=9&Refer=top)<br />
+9. [张万森 雪崩了](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%B8%87%E6%A3%AE%20%E9%9B%AA%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
