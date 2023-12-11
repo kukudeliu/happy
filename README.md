@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 10:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-11 10:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [新乡发布临时停课通知](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B9%A1%E5%8F%91%E5%B8%83%E4%B8%B4%E6%97%B6%E5%81%9C%E8%AF%BE%E9%80%9A%E7%9F%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [余承东怒怼懂车帝](https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E6%80%92%E6%80%BC%E6%87%82%E8%BD%A6%E5%B8%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [张万森 雪崩了](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%B8%87%E6%A3%AE%20%E9%9B%AA%E5%B4%A9%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=9&Refer=top)<br />
+9. [一念关山回应不带常华森](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%B8%A6%E5%B8%B8%E5%8D%8E%E6%A3%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
