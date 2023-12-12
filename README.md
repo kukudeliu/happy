@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 15:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 15:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [知情人称周海媚还在医院治疗中](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%91%A8%E6%B5%B7%E5%AA%9A%E8%BF%98%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%B2%BB%E7%96%97%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大批空姐转行卖车？多方回应](https://www.baidu.com/s?wd=%E5%A4%A7%E6%89%B9%E7%A9%BA%E5%A7%90%E8%BD%AC%E8%A1%8C%E5%8D%96%E8%BD%A6%EF%BC%9F%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [万达380亿元对赌危机解除](https://www.baidu.com/s?wd=%E4%B8%87%E8%BE%BE380%E4%BA%BF%E5%85%83%E5%AF%B9%E8%B5%8C%E5%8D%B1%E6%9C%BA%E8%A7%A3%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子为8岁女儿寻生父：曾相恋一周](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BA8%E5%B2%81%E5%A5%B3%E5%84%BF%E5%AF%BB%E7%94%9F%E7%88%B6%EF%BC%9A%E6%9B%BE%E7%9B%B8%E6%81%8B%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上市公司创始人及其儿子先后病逝](https://www.baidu.com/s?wd=%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%8F%8A%E5%85%B6%E5%84%BF%E5%AD%90%E5%85%88%E5%90%8E%E7%97%85%E9%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳平安大厦冒烟着火？假的](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B9%B3%E5%AE%89%E5%A4%A7%E5%8E%A6%E5%86%92%E7%83%9F%E7%9D%80%E7%81%AB%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [知情人称周海媚还在医院治疗中](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%91%A8%E6%B5%B7%E5%AA%9A%E8%BF%98%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%B2%BB%E7%96%97%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大批空姐转行卖车？多方回应](https://www.baidu.com/s?wd=%E5%A4%A7%E6%89%B9%E7%A9%BA%E5%A7%90%E8%BD%AC%E8%A1%8C%E5%8D%96%E8%BD%A6%EF%BC%9F%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [万达380亿元对赌危机解除](https://www.baidu.com/s?wd=%E4%B8%87%E8%BE%BE380%E4%BA%BF%E5%85%83%E5%AF%B9%E8%B5%8C%E5%8D%B1%E6%9C%BA%E8%A7%A3%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子为8岁女儿寻生父：曾相恋一周](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BA8%E5%B2%81%E5%A5%B3%E5%84%BF%E5%AF%BB%E7%94%9F%E7%88%B6%EF%BC%9A%E6%9B%BE%E7%9B%B8%E6%81%8B%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上市公司创始人及其儿子先后病逝](https://www.baidu.com/s?wd=%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%8F%8A%E5%85%B6%E5%84%BF%E5%AD%90%E5%85%88%E5%90%8E%E7%97%85%E9%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳平安大厦冒烟着火？假的](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B9%B3%E5%AE%89%E5%A4%A7%E5%8E%A6%E5%86%92%E7%83%9F%E7%9D%80%E7%81%AB%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
