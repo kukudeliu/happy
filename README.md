@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 02:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 02:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [拒绝休息羞耻](https://s.weibo.com/weibo?q=%E6%8B%92%E7%BB%9D%E4%BC%91%E6%81%AF%E7%BE%9E%E8%80%BB&t=31&band_rank=6&Refer=top)<br />
 7. [阿宝被七仔咬掉的耳朵已脱离爱心状](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AE%9D%E8%A2%AB%E4%B8%83%E4%BB%94%E5%92%AC%E6%8E%89%E7%9A%84%E8%80%B3%E6%9C%B5%E5%B7%B2%E8%84%B1%E7%A6%BB%E7%88%B1%E5%BF%83%E7%8A%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [骄阳似我 张凌赫魏大勋](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%20%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%AD%8F%E5%A4%A7%E5%8B%8B&t=31&band_rank=8&Refer=top)<br />
-9. [肚子越来越小的小技巧](https://s.weibo.com/weibo?q=%E8%82%9A%E5%AD%90%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%8F%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7&t=31&band_rank=9&Refer=top)<br />
+9. [刘亦菲泰国游客照](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%B3%B0%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
