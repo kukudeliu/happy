@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 00:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 01:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [拒绝休息羞耻](https://s.weibo.com/weibo?q=%E6%8B%92%E7%BB%9D%E4%BC%91%E6%81%AF%E7%BE%9E%E8%80%BB&t=31&band_rank=6&Refer=top)<br />
 7. [骄阳似我 张凌赫魏大勋](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%20%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%AD%8F%E5%A4%A7%E5%8B%8B&t=31&band_rank=7&Refer=top)<br />
 8. [网红袖珍女孩疑遭母亲虐待](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%A2%96%E7%8F%8D%E5%A5%B3%E5%AD%A9%E7%96%91%E9%81%AD%E6%AF%8D%E4%BA%B2%E8%99%90%E5%BE%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [谢娜张杰聊过另一个人先走怎么办](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%BC%A0%E6%9D%B0%E8%81%8A%E8%BF%87%E5%8F%A6%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%85%88%E8%B5%B0%E6%80%8E%E4%B9%88%E5%8A%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [阿宝被七仔咬掉的耳朵已脱离爱心状](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AE%9D%E8%A2%AB%E4%B8%83%E4%BB%94%E5%92%AC%E6%8E%89%E7%9A%84%E8%80%B3%E6%9C%B5%E5%B7%B2%E8%84%B1%E7%A6%BB%E7%88%B1%E5%BF%83%E7%8A%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
