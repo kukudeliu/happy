@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 15:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 15:50:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [3000年前的国之重器藏着书法之美](https://s.weibo.com/weibo?q=%233000%E5%B9%B4%E5%89%8D%E7%9A%84%E5%9B%BD%E4%B9%8B%E9%87%8D%E5%99%A8%E8%97%8F%E7%9D%80%E4%B9%A6%E6%B3%95%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [马天宇 我以为宋江是宋江](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%20%E6%88%91%E4%BB%A5%E4%B8%BA%E5%AE%8B%E6%B1%9F%E6%98%AF%E5%AE%8B%E6%B1%9F&t=31&band_rank=4&Refer=top)<br />
 5. [何猷君富得没见过世面](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E5%AF%8C%E5%BE%97%E6%B2%A1%E8%A7%81%E8%BF%87%E4%B8%96%E9%9D%A2%23&t=31&band_rank=5&Refer=top)<br />
-6. [刘亦菲王鹤棣 长陵](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E9%95%BF%E9%99%B5&t=31&band_rank=6&Refer=top)<br />
-7. [周杰伦 迪奥全球大使](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E8%BF%AA%E5%A5%A5%E5%85%A8%E7%90%83%E5%A4%A7%E4%BD%BF&t=31&band_rank=7&Refer=top)<br />
+6. [周杰伦 迪奥全球大使](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E8%BF%AA%E5%A5%A5%E5%85%A8%E7%90%83%E5%A4%A7%E4%BD%BF&t=31&band_rank=6&Refer=top)<br />
+7. [刘亦菲王鹤棣 长陵](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E9%95%BF%E9%99%B5&t=31&band_rank=7&Refer=top)<br />
 8. [跨年晚会 真唱](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%20%E7%9C%9F%E5%94%B1&t=31&band_rank=8&Refer=top)<br />
-9. [专家建议发放3万亿生育补贴](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%8F%91%E6%94%BE3%E4%B8%87%E4%BA%BF%E7%94%9F%E8%82%B2%E8%A1%A5%E8%B4%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [一碗30元的网红面馆卖不动了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%A2%9730%E5%85%83%E7%9A%84%E7%BD%91%E7%BA%A2%E9%9D%A2%E9%A6%86%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
