@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 14:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 14:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小米发文炮轰余承东](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%8F%91%E6%96%87%E7%82%AE%E8%BD%B0%E4%BD%99%E6%89%BF%E4%B8%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [小伙定了婚期才知女方一家全是托](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%AE%9A%E4%BA%86%E5%A9%9A%E6%9C%9F%E6%89%8D%E7%9F%A5%E5%A5%B3%E6%96%B9%E4%B8%80%E5%AE%B6%E5%85%A8%E6%98%AF%E6%89%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [父亲 降吧](https://s.weibo.com/weibo?q=%E7%88%B6%E4%BA%B2%20%E9%99%8D%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
-9. [新冠变异株JN.1](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%E6%A0%AAJN.1%23&t=31&band_rank=9&Refer=top)<br />
+9. [知情人称周海媚还在医院治疗中](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%91%A8%E6%B5%B7%E5%AA%9A%E8%BF%98%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%B2%BB%E7%96%97%E4%B8%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
