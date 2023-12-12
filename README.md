@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 20:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 20:59:02</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [“新三样”展现新优势](https://www.baidu.com/s?wd=%E2%80%9C%E6%96%B0%E4%B8%89%E6%A0%B7%E2%80%9D%E5%B1%95%E7%8E%B0%E6%96%B0%E4%BC%98%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [新冠JN.1变异株尚未大规模传至国内](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0JN.1%E5%8F%98%E5%BC%82%E6%A0%AA%E5%B0%9A%E6%9C%AA%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BC%A0%E8%87%B3%E5%9B%BD%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [年轻人报复性挤爆“3.5分饭店”](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%8C%A4%E7%88%86%E2%80%9C3.5%E5%88%86%E9%A5%AD%E5%BA%97%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [加拿大鹅9500元羽绒服被疑瑕疵品](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%859500%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A2%AB%E7%96%91%E7%91%95%E7%96%B5%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [最高法呼吁取消高额彩礼](https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E6%B3%95%E5%91%BC%E5%90%81%E5%8F%96%E6%B6%88%E9%AB%98%E9%A2%9D%E5%BD%A9%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023年流行趋势风格](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%B5%81%E8%A1%8C%E8%B6%8B%E5%8A%BF%E9%A3%8E%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [降雪能冻死病毒？](https://www.baidu.com/s?wd=%E9%99%8D%E9%9B%AA%E8%83%BD%E5%86%BB%E6%AD%BB%E7%97%85%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [“新三样”展现新优势](https://www.baidu.com/s?wd=%E2%80%9C%E6%96%B0%E4%B8%89%E6%A0%B7%E2%80%9D%E5%B1%95%E7%8E%B0%E6%96%B0%E4%BC%98%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [新冠JN.1变异株尚未大规模传至国内](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0JN.1%E5%8F%98%E5%BC%82%E6%A0%AA%E5%B0%9A%E6%9C%AA%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BC%A0%E8%87%B3%E5%9B%BD%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [年轻人报复性挤爆“3.5分饭店”](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%8C%A4%E7%88%86%E2%80%9C3.5%E5%88%86%E9%A5%AD%E5%BA%97%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [加拿大鹅9500元羽绒服被疑瑕疵品](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%859500%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A2%AB%E7%96%91%E7%91%95%E7%96%B5%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [最高法呼吁取消高额彩礼](https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E6%B3%95%E5%91%BC%E5%90%81%E5%8F%96%E6%B6%88%E9%AB%98%E9%A2%9D%E5%BD%A9%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023年流行趋势风格](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%B5%81%E8%A1%8C%E8%B6%8B%E5%8A%BF%E9%A3%8E%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [降雪能冻死病毒？](https://www.baidu.com/s?wd=%E9%99%8D%E9%9B%AA%E8%83%BD%E5%86%BB%E6%AD%BB%E7%97%85%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
