@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 13:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 13:49:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [小米发文炮轰余承东](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%8F%91%E6%96%87%E7%82%AE%E8%BD%B0%E4%BD%99%E6%89%BF%E4%B8%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [知情人称周海媚还在医院治疗中](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%91%A8%E6%B5%B7%E5%AA%9A%E8%BF%98%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%B2%BB%E7%96%97%E4%B8%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴一怒之下干了一杯奶](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%80%E6%80%92%E4%B9%8B%E4%B8%8B%E5%B9%B2%E4%BA%86%E4%B8%80%E6%9D%AF%E5%A5%B6&t=31&band_rank=7&Refer=top)<br />
-8. [为什么有些年轻人上班不带包](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8A%E7%8F%AD%E4%B8%8D%E5%B8%A6%E5%8C%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [丈夫打骂临产女儿被妻子捅死](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E6%89%93%E9%AA%82%E4%B8%B4%E4%BA%A7%E5%A5%B3%E5%84%BF%E8%A2%AB%E5%A6%BB%E5%AD%90%E6%8D%85%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
+8. [何润东车祸未受伤](https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B6%A6%E4%B8%9C%E8%BD%A6%E7%A5%B8%E6%9C%AA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
+9. [为什么有些年轻人上班不带包](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8A%E7%8F%AD%E4%B8%8D%E5%B8%A6%E5%8C%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,8 +22,8 @@
 3. [新房打折引发老业主不满 多地回应](https://www.baidu.com/s?wd=%E6%96%B0%E6%88%BF%E6%89%93%E6%8A%98%E5%BC%95%E5%8F%91%E8%80%81%E4%B8%9A%E4%B8%BB%E4%B8%8D%E6%BB%A1+%E5%A4%9A%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济在劈波斩浪中坚定前行](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9C%A8%E5%8A%88%E6%B3%A2%E6%96%A9%E6%B5%AA%E4%B8%AD%E5%9D%9A%E5%AE%9A%E5%89%8D%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [知情人称周海媚还在医院治疗中](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%91%A8%E6%B5%B7%E5%AA%9A%E8%BF%98%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%B2%BB%E7%96%97%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [媒体：处理彩礼纠纷需回归婚姻本质](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%A4%84%E7%90%86%E5%BD%A9%E7%A4%BC%E7%BA%A0%E7%BA%B7%E9%9C%80%E5%9B%9E%E5%BD%92%E5%A9%9A%E5%A7%BB%E6%9C%AC%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [销售谈生意时被客户在酒水中下毒](https://www.baidu.com/s?wd=%E9%94%80%E5%94%AE%E8%B0%88%E7%94%9F%E6%84%8F%E6%97%B6%E8%A2%AB%E5%AE%A2%E6%88%B7%E5%9C%A8%E9%85%92%E6%B0%B4%E4%B8%AD%E4%B8%8B%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [销售谈生意时被客户在酒水中下毒](https://www.baidu.com/s?wd=%E9%94%80%E5%94%AE%E8%B0%88%E7%94%9F%E6%84%8F%E6%97%B6%E8%A2%AB%E5%AE%A2%E6%88%B7%E5%9C%A8%E9%85%92%E6%B0%B4%E4%B8%AD%E4%B8%8B%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子为8岁女儿寻生父：曾相恋一周](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BA8%E5%B2%81%E5%A5%B3%E5%84%BF%E5%AF%BB%E7%94%9F%E7%88%B6%EF%BC%9A%E6%9B%BE%E7%9B%B8%E6%81%8B%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小米：余承东发布言论与事实不符](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%EF%BC%9A%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E8%A8%80%E8%AE%BA%E4%B8%8E%E4%BA%8B%E5%AE%9E%E4%B8%8D%E7%AC%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳平安大厦冒烟着火？假的](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B9%B3%E5%AE%89%E5%A4%A7%E5%8E%A6%E5%86%92%E7%83%9F%E7%9D%80%E7%81%AB%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [新房打折引发老业主不满 多地回应](https://www.baidu.com/s?wd=%E6%96%B0%E6%88%BF%E6%89%93%E6%8A%98%E5%BC%95%E5%8F%91%E8%80%81%E4%B8%9A%E4%B8%BB%E4%B8%8D%E6%BB%A1+%E5%A4%9A%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济在劈波斩浪中坚定前行](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9C%A8%E5%8A%88%E6%B3%A2%E6%96%A9%E6%B5%AA%E4%B8%AD%E5%9D%9A%E5%AE%9A%E5%89%8D%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [知情人称周海媚还在医院治疗中](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%91%A8%E6%B5%B7%E5%AA%9A%E8%BF%98%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%B2%BB%E7%96%97%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [媒体：处理彩礼纠纷需回归婚姻本质](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%A4%84%E7%90%86%E5%BD%A9%E7%A4%BC%E7%BA%A0%E7%BA%B7%E9%9C%80%E5%9B%9E%E5%BD%92%E5%A9%9A%E5%A7%BB%E6%9C%AC%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [销售谈生意时被客户在酒水中下毒](https://www.baidu.com/s?wd=%E9%94%80%E5%94%AE%E8%B0%88%E7%94%9F%E6%84%8F%E6%97%B6%E8%A2%AB%E5%AE%A2%E6%88%B7%E5%9C%A8%E9%85%92%E6%B0%B4%E4%B8%AD%E4%B8%8B%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [销售谈生意时被客户在酒水中下毒](https://www.baidu.com/s?wd=%E9%94%80%E5%94%AE%E8%B0%88%E7%94%9F%E6%84%8F%E6%97%B6%E8%A2%AB%E5%AE%A2%E6%88%B7%E5%9C%A8%E9%85%92%E6%B0%B4%E4%B8%AD%E4%B8%8B%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子为8岁女儿寻生父：曾相恋一周](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BA8%E5%B2%81%E5%A5%B3%E5%84%BF%E5%AF%BB%E7%94%9F%E7%88%B6%EF%BC%9A%E6%9B%BE%E7%9B%B8%E6%81%8B%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小米：余承东发布言论与事实不符](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%EF%BC%9A%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E8%A8%80%E8%AE%BA%E4%B8%8E%E4%BA%8B%E5%AE%9E%E4%B8%8D%E7%AC%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳平安大厦冒烟着火？假的](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B9%B3%E5%AE%89%E5%A4%A7%E5%8E%A6%E5%86%92%E7%83%9F%E7%9D%80%E7%81%AB%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
