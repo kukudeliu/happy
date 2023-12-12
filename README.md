@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 17:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 17:02:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [周海媚小区保安证实救护车曾来救人](https://www.baidu.com/s?wd=%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%B0%8F%E5%8C%BA%E4%BF%9D%E5%AE%89%E8%AF%81%E5%AE%9E%E6%95%91%E6%8A%A4%E8%BD%A6%E6%9B%BE%E6%9D%A5%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女孩回应被男子问5000元玩不玩](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%94%B7%E5%AD%90%E9%97%AE5000%E5%85%83%E7%8E%A9%E4%B8%8D%E7%8E%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一碗30元的网红面馆卖不动了](https://www.baidu.com/s?wd=%E4%B8%80%E7%A2%9730%E5%85%83%E7%9A%84%E7%BD%91%E7%BA%A2%E9%9D%A2%E9%A6%86%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [家长遭教科局长爆粗口辱骂 官方通报](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E9%81%AD%E6%95%99%E7%A7%91%E5%B1%80%E9%95%BF%E7%88%86%E7%B2%97%E5%8F%A3%E8%BE%B1%E9%AA%82+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人报复性挤爆“3.5分饭店”](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%8C%A4%E7%88%86%E2%80%9C3.5%E5%88%86%E9%A5%AD%E5%BA%97%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳平安大厦冒烟着火？假的](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B9%B3%E5%AE%89%E5%A4%A7%E5%8E%A6%E5%86%92%E7%83%9F%E7%9D%80%E7%81%AB%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [周海媚小区保安证实救护车曾来救人](https://www.baidu.com/s?wd=%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%B0%8F%E5%8C%BA%E4%BF%9D%E5%AE%89%E8%AF%81%E5%AE%9E%E6%95%91%E6%8A%A4%E8%BD%A6%E6%9B%BE%E6%9D%A5%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女孩回应被男子问5000元玩不玩](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%94%B7%E5%AD%90%E9%97%AE5000%E5%85%83%E7%8E%A9%E4%B8%8D%E7%8E%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一碗30元的网红面馆卖不动了](https://www.baidu.com/s?wd=%E4%B8%80%E7%A2%9730%E5%85%83%E7%9A%84%E7%BD%91%E7%BA%A2%E9%9D%A2%E9%A6%86%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [家长遭教科局长爆粗口辱骂 官方通报](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E9%81%AD%E6%95%99%E7%A7%91%E5%B1%80%E9%95%BF%E7%88%86%E7%B2%97%E5%8F%A3%E8%BE%B1%E9%AA%82+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人报复性挤爆“3.5分饭店”](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%8C%A4%E7%88%86%E2%80%9C3.5%E5%88%86%E9%A5%AD%E5%BA%97%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳平安大厦冒烟着火？假的](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B9%B3%E5%AE%89%E5%A4%A7%E5%8E%A6%E5%86%92%E7%83%9F%E7%9D%80%E7%81%AB%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
