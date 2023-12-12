@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 04:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 04:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [好莱坞富二代涉嫌分尸华人妻子](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%AF%8C%E4%BA%8C%E4%BB%A3%E6%B6%89%E5%AB%8C%E5%88%86%E5%B0%B8%E5%8D%8E%E4%BA%BA%E5%A6%BB%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [拒绝休息羞耻](https://s.weibo.com/weibo?q=%E6%8B%92%E7%BB%9D%E4%BC%91%E6%81%AF%E7%BE%9E%E8%80%BB&t=31&band_rank=7&Refer=top)<br />
 8. [肚子越来越小的小技巧](https://s.weibo.com/weibo?q=%E8%82%9A%E5%AD%90%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%8F%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7&t=31&band_rank=8&Refer=top)<br />
-9. [菜鸟 取件码呢](https://s.weibo.com/weibo?q=%E8%8F%9C%E9%B8%9F%20%E5%8F%96%E4%BB%B6%E7%A0%81%E5%91%A2&t=31&band_rank=9&Refer=top)<br />
+9. [刘亦菲泰国游客照](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%B3%B0%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
