@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 13:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 13:14:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [知情人称周海媚还在医院治疗中](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%91%A8%E6%B5%B7%E5%AA%9A%E8%BF%98%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%B2%BB%E7%96%97%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [郑爽被强制执行9050万](https://www.baidu.com/s?wd=%E9%83%91%E7%88%BD%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C9050%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [业主欠800万水费 倾家荡产不够交](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E6%AC%A0800%E4%B8%87%E6%B0%B4%E8%B4%B9+%E5%80%BE%E5%AE%B6%E8%8D%A1%E4%BA%A7%E4%B8%8D%E5%A4%9F%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新冠变异株JN.1全球加速蔓延](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%E6%A0%AAJN.1%E5%85%A8%E7%90%83%E5%8A%A0%E9%80%9F%E8%94%93%E5%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [销售谈生意时被客户在酒水中下毒](https://www.baidu.com/s?wd=%E9%94%80%E5%94%AE%E8%B0%88%E7%94%9F%E6%84%8F%E6%97%B6%E8%A2%AB%E5%AE%A2%E6%88%B7%E5%9C%A8%E9%85%92%E6%B0%B4%E4%B8%AD%E4%B8%8B%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳平安大厦冒烟着火？假的](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B9%B3%E5%AE%89%E5%A4%A7%E5%8E%A6%E5%86%92%E7%83%9F%E7%9D%80%E7%81%AB%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [知情人称周海媚还在医院治疗中](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%91%A8%E6%B5%B7%E5%AA%9A%E8%BF%98%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%B2%BB%E7%96%97%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [郑爽被强制执行9050万](https://www.baidu.com/s?wd=%E9%83%91%E7%88%BD%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C9050%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [业主欠800万水费 倾家荡产不够交](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E6%AC%A0800%E4%B8%87%E6%B0%B4%E8%B4%B9+%E5%80%BE%E5%AE%B6%E8%8D%A1%E4%BA%A7%E4%B8%8D%E5%A4%9F%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新冠变异株JN.1全球加速蔓延](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%E6%A0%AAJN.1%E5%85%A8%E7%90%83%E5%8A%A0%E9%80%9F%E8%94%93%E5%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [销售谈生意时被客户在酒水中下毒](https://www.baidu.com/s?wd=%E9%94%80%E5%94%AE%E8%B0%88%E7%94%9F%E6%84%8F%E6%97%B6%E8%A2%AB%E5%AE%A2%E6%88%B7%E5%9C%A8%E9%85%92%E6%B0%B4%E4%B8%AD%E4%B8%8B%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳平安大厦冒烟着火？假的](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B9%B3%E5%AE%89%E5%A4%A7%E5%8E%A6%E5%86%92%E7%83%9F%E7%9D%80%E7%81%AB%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
