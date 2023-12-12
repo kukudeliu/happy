@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 16:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 16:25:01</h4></div>
 
 > 微博  
 
@@ -19,9 +19,9 @@
 
 1. [习近平在越南媒体发表署名文章](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E8%B6%8A%E5%8D%97%E5%AA%92%E4%BD%93%E5%8F%91%E8%A1%A8%E7%BD%B2%E5%90%8D%E6%96%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [业主欠800万水费 倾家荡产不够交](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E6%AC%A0800%E4%B8%87%E6%B0%B4%E8%B4%B9+%E5%80%BE%E5%AE%B6%E8%8D%A1%E4%BA%A7%E4%B8%8D%E5%A4%9F%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [雪后世界变成巨大的滑雪场](https://www.baidu.com/s?wd=%E9%9B%AA%E5%90%8E%E4%B8%96%E7%95%8C%E5%8F%98%E6%88%90%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%BB%91%E9%9B%AA%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [河南市民骑电动车在雪地里艰难前行](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%B8%82%E6%B0%91%E9%AA%91%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%9C%A8%E9%9B%AA%E5%9C%B0%E9%87%8C%E8%89%B0%E9%9A%BE%E5%89%8D%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济在劈波斩浪中坚定前行](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9C%A8%E5%8A%88%E6%B3%A2%E6%96%A9%E6%B5%AA%E4%B8%AD%E5%9D%9A%E5%AE%9A%E5%89%8D%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [知情人称周海媚还在医院治疗中](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%91%A8%E6%B5%B7%E5%AA%9A%E8%BF%98%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%B2%BB%E7%96%97%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [周海媚小区保安证实救护车曾来救人](https://www.baidu.com/s?wd=%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%B0%8F%E5%8C%BA%E4%BF%9D%E5%AE%89%E8%AF%81%E5%AE%9E%E6%95%91%E6%8A%A4%E8%BD%A6%E6%9B%BE%E6%9D%A5%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体评张雪峰“黑”文科](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%BC%A0%E9%9B%AA%E5%B3%B0%E2%80%9C%E9%BB%91%E2%80%9D%E6%96%87%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [万达380亿元对赌危机解除](https://www.baidu.com/s?wd=%E4%B8%87%E8%BE%BE380%E4%BA%BF%E5%85%83%E5%AF%B9%E8%B5%8C%E5%8D%B1%E6%9C%BA%E8%A7%A3%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [榜一大哥骗走24名家长1000余万元](https://www.baidu.com/s?wd=%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E9%AA%97%E8%B5%B024%E5%90%8D%E5%AE%B6%E9%95%BF1000%E4%BD%99%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,9 +31,9 @@
 
 1. [习近平在越南媒体发表署名文章](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E8%B6%8A%E5%8D%97%E5%AA%92%E4%BD%93%E5%8F%91%E8%A1%A8%E7%BD%B2%E5%90%8D%E6%96%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [业主欠800万水费 倾家荡产不够交](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E6%AC%A0800%E4%B8%87%E6%B0%B4%E8%B4%B9+%E5%80%BE%E5%AE%B6%E8%8D%A1%E4%BA%A7%E4%B8%8D%E5%A4%9F%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [雪后世界变成巨大的滑雪场](https://www.baidu.com/s?wd=%E9%9B%AA%E5%90%8E%E4%B8%96%E7%95%8C%E5%8F%98%E6%88%90%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%BB%91%E9%9B%AA%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [河南市民骑电动车在雪地里艰难前行](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%B8%82%E6%B0%91%E9%AA%91%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%9C%A8%E9%9B%AA%E5%9C%B0%E9%87%8C%E8%89%B0%E9%9A%BE%E5%89%8D%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济在劈波斩浪中坚定前行](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9C%A8%E5%8A%88%E6%B3%A2%E6%96%A9%E6%B5%AA%E4%B8%AD%E5%9D%9A%E5%AE%9A%E5%89%8D%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [知情人称周海媚还在医院治疗中](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%91%A8%E6%B5%B7%E5%AA%9A%E8%BF%98%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%B2%BB%E7%96%97%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [周海媚小区保安证实救护车曾来救人](https://www.baidu.com/s?wd=%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%B0%8F%E5%8C%BA%E4%BF%9D%E5%AE%89%E8%AF%81%E5%AE%9E%E6%95%91%E6%8A%A4%E8%BD%A6%E6%9B%BE%E6%9D%A5%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体评张雪峰“黑”文科](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%BC%A0%E9%9B%AA%E5%B3%B0%E2%80%9C%E9%BB%91%E2%80%9D%E6%96%87%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [万达380亿元对赌危机解除](https://www.baidu.com/s?wd=%E4%B8%87%E8%BE%BE380%E4%BA%BF%E5%85%83%E5%AF%B9%E8%B5%8C%E5%8D%B1%E6%9C%BA%E8%A7%A3%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [榜一大哥骗走24名家长1000余万元](https://www.baidu.com/s?wd=%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E9%AA%97%E8%B5%B024%E5%90%8D%E5%AE%B6%E9%95%BF1000%E4%BD%99%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
