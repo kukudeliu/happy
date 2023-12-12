@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 00:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 00:17:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [周海媚生前最后一次公开亮相](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B5%B7%E5%AA%9A%E7%94%9F%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%85%AC%E5%BC%80%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [红斑狼疮](https://s.weibo.com/weibo?q=%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE&t=31&band_rank=6&Refer=top)<br />
 7. [新冠变异株JN.1在12国快速蔓延](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%E6%A0%AAJN.1%E5%9C%A812%E5%9B%BD%E5%BF%AB%E9%80%9F%E8%94%93%E5%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [菜鸟 取件码呢](https://s.weibo.com/weibo?q=%E8%8F%9C%E9%B8%9F%20%E5%8F%96%E4%BB%B6%E7%A0%81%E5%91%A2&t=31&band_rank=8&Refer=top)<br />
-9. [谢娜张杰聊过另一个人先走怎么办](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%BC%A0%E6%9D%B0%E8%81%8A%E8%BF%87%E5%8F%A6%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%85%88%E8%B5%B0%E6%80%8E%E4%B9%88%E5%8A%9E%23&t=31&band_rank=9&Refer=top)<br />
+8. [谢娜张杰聊过另一个人先走怎么办](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%BC%A0%E6%9D%B0%E8%81%8A%E8%BF%87%E5%8F%A6%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%85%88%E8%B5%B0%E6%80%8E%E4%B9%88%E5%8A%9E%23&t=31&band_rank=8&Refer=top)<br />
+9. [菜鸟 取件码呢](https://s.weibo.com/weibo?q=%E8%8F%9C%E9%B8%9F%20%E5%8F%96%E4%BB%B6%E7%A0%81%E5%91%A2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
