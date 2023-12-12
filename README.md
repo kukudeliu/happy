@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 12:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 12:24:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [中国经济在劈波斩浪中坚定前行](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9C%A8%E5%8A%88%E6%B3%A2%E6%96%A9%E6%B5%AA%E4%B8%AD%E5%9D%9A%E5%AE%9A%E5%89%8D%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [知情人称周海媚还在医院治疗中](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%91%A8%E6%B5%B7%E5%AA%9A%E8%BF%98%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%B2%BB%E7%96%97%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [业主欠800万水费 倾家荡产不够交](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E6%AC%A0800%E4%B8%87%E6%B0%B4%E8%B4%B9+%E5%80%BE%E5%AE%B6%E8%8D%A1%E4%BA%A7%E4%B8%8D%E5%A4%9F%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [67岁老人握妻子手买人生第一套房](https://www.baidu.com/s?wd=67%E5%B2%81%E8%80%81%E4%BA%BA%E6%8F%A1%E5%A6%BB%E5%AD%90%E6%89%8B%E4%B9%B0%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新疆黑脸交警雪地播报路况走红](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E9%BB%91%E8%84%B8%E4%BA%A4%E8%AD%A6%E9%9B%AA%E5%9C%B0%E6%92%AD%E6%8A%A5%E8%B7%AF%E5%86%B5%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：处理彩礼纠纷需回归婚姻本质](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%A4%84%E7%90%86%E5%BD%A9%E7%A4%BC%E7%BA%A0%E7%BA%B7%E9%9C%80%E5%9B%9E%E5%BD%92%E5%A9%9A%E5%A7%BB%E6%9C%AC%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [67岁老人握妻子手买人生第一套房](https://www.baidu.com/s?wd=67%E5%B2%81%E8%80%81%E4%BA%BA%E6%8F%A1%E5%A6%BB%E5%AD%90%E6%89%8B%E4%B9%B0%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳平安大厦冒烟着火？假的](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B9%B3%E5%AE%89%E5%A4%A7%E5%8E%A6%E5%86%92%E7%83%9F%E7%9D%80%E7%81%AB%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [中国经济在劈波斩浪中坚定前行](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9C%A8%E5%8A%88%E6%B3%A2%E6%96%A9%E6%B5%AA%E4%B8%AD%E5%9D%9A%E5%AE%9A%E5%89%8D%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [知情人称周海媚还在医院治疗中](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%91%A8%E6%B5%B7%E5%AA%9A%E8%BF%98%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%B2%BB%E7%96%97%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [业主欠800万水费 倾家荡产不够交](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E6%AC%A0800%E4%B8%87%E6%B0%B4%E8%B4%B9+%E5%80%BE%E5%AE%B6%E8%8D%A1%E4%BA%A7%E4%B8%8D%E5%A4%9F%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [67岁老人握妻子手买人生第一套房](https://www.baidu.com/s?wd=67%E5%B2%81%E8%80%81%E4%BA%BA%E6%8F%A1%E5%A6%BB%E5%AD%90%E6%89%8B%E4%B9%B0%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新疆黑脸交警雪地播报路况走红](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E9%BB%91%E8%84%B8%E4%BA%A4%E8%AD%A6%E9%9B%AA%E5%9C%B0%E6%92%AD%E6%8A%A5%E8%B7%AF%E5%86%B5%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [媒体：处理彩礼纠纷需回归婚姻本质](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E5%A4%84%E7%90%86%E5%BD%A9%E7%A4%BC%E7%BA%A0%E7%BA%B7%E9%9C%80%E5%9B%9E%E5%BD%92%E5%A9%9A%E5%A7%BB%E6%9C%AC%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [67岁老人握妻子手买人生第一套房](https://www.baidu.com/s?wd=67%E5%B2%81%E8%80%81%E4%BA%BA%E6%8F%A1%E5%A6%BB%E5%AD%90%E6%89%8B%E4%B9%B0%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [深圳平安大厦冒烟着火？假的](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B9%B3%E5%AE%89%E5%A4%A7%E5%8E%A6%E5%86%92%E7%83%9F%E7%9D%80%E7%81%AB%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
