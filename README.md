@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 22:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 22:35:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [网红袖珍女孩疑遭母亲虐待](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%A2%96%E7%8F%8D%E5%A5%B3%E5%AD%A9%E7%96%91%E9%81%AD%E6%AF%8D%E4%BA%B2%E8%99%90%E5%BE%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [在人间 赵丽颖张一山](https://s.weibo.com/weibo?q=%E5%9C%A8%E4%BA%BA%E9%97%B4%20%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BC%A0%E4%B8%80%E5%B1%B1&t=31&band_rank=6&Refer=top)<br />
 7. [好莱坞富二代涉嫌分尸华人妻子](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%AF%8C%E4%BA%8C%E4%BB%A3%E6%B6%89%E5%AB%8C%E5%88%86%E5%B0%B8%E5%8D%8E%E4%BA%BA%E5%A6%BB%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [周海媚去世](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%8E%BB%E4%B8%96&t=31&band_rank=8&Refer=top)<br />
-9. [预防系统性红斑狼疮做好这4点](https://s.weibo.com/weibo?q=%23%E9%A2%84%E9%98%B2%E7%B3%BB%E7%BB%9F%E6%80%A7%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE%E5%81%9A%E5%A5%BD%E8%BF%994%E7%82%B9%23&t=31&band_rank=9&Refer=top)<br />
+8. [预防系统性红斑狼疮做好这4点](https://s.weibo.com/weibo?q=%23%E9%A2%84%E9%98%B2%E7%B3%BB%E7%BB%9F%E6%80%A7%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE%E5%81%9A%E5%A5%BD%E8%BF%994%E7%82%B9%23&t=31&band_rank=8&Refer=top)<br />
+9. [周海媚去世](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%8E%BB%E4%B8%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
