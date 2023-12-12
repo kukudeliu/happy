@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 10:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 10:18:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [体脂不断下降的好习惯](https://s.weibo.com/weibo?q=%E4%BD%93%E8%84%82%E4%B8%8D%E6%96%AD%E4%B8%8B%E9%99%8D%E7%9A%84%E5%A5%BD%E4%B9%A0%E6%83%AF&t=31&band_rank=4&Refer=top)<br />
 5. [男子拉肚子医生多问一句跑赢死神](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%89%E8%82%9A%E5%AD%90%E5%8C%BB%E7%94%9F%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E8%B7%91%E8%B5%A2%E6%AD%BB%E7%A5%9E%23&t=31&band_rank=5&Refer=top)<br />
 6. [著名编剧谭飞辟谣周海媚过世](https://s.weibo.com/weibo?q=%23%E8%91%97%E5%90%8D%E7%BC%96%E5%89%A7%E8%B0%AD%E9%A3%9E%E8%BE%9F%E8%B0%A3%E5%91%A8%E6%B5%B7%E5%AA%9A%E8%BF%87%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [我是不结婚 不是不交电费](https://s.weibo.com/weibo?q=%E6%88%91%E6%98%AF%E4%B8%8D%E7%BB%93%E5%A9%9A%20%E4%B8%8D%E6%98%AF%E4%B8%8D%E4%BA%A4%E7%94%B5%E8%B4%B9&t=31&band_rank=7&Refer=top)<br />
-8. [女孩讲历史太火被博物馆排队送礼](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%AE%B2%E5%8E%86%E5%8F%B2%E5%A4%AA%E7%81%AB%E8%A2%AB%E5%8D%9A%E7%89%A9%E9%A6%86%E6%8E%92%E9%98%9F%E9%80%81%E7%A4%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [加拿大鹅9500元羽绒服被疑瑕疵品](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%859500%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A2%AB%E7%96%91%E7%91%95%E7%96%B5%E5%93%81%23&t=31&band_rank=9&Refer=top)<br />
+7. [加拿大鹅9500元羽绒服被疑瑕疵品](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%859500%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A2%AB%E7%96%91%E7%91%95%E7%96%B5%E5%93%81%23&t=31&band_rank=7&Refer=top)<br />
+8. [我是不结婚 不是不交电费](https://s.weibo.com/weibo?q=%E6%88%91%E6%98%AF%E4%B8%8D%E7%BB%93%E5%A9%9A%20%E4%B8%8D%E6%98%AF%E4%B8%8D%E4%BA%A4%E7%94%B5%E8%B4%B9&t=31&band_rank=8&Refer=top)<br />
+9. [女孩讲历史太火被博物馆排队送礼](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%AE%B2%E5%8E%86%E5%8F%B2%E5%A4%AA%E7%81%AB%E8%A2%AB%E5%8D%9A%E7%89%A9%E9%A6%86%E6%8E%92%E9%98%9F%E9%80%81%E7%A4%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [媒体评张雪峰“黑”文科](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%BC%A0%E9%9B%AA%E5%B3%B0%E2%80%9C%E9%BB%91%E2%80%9D%E6%96%87%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [研究发现生两个孩子最有利于长寿](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E7%94%9F%E4%B8%A4%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%9C%80%E6%9C%89%E5%88%A9%E4%BA%8E%E9%95%BF%E5%AF%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家建议发3万亿生育补贴](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%8F%913%E4%B8%87%E4%BA%BF%E7%94%9F%E8%82%B2%E8%A1%A5%E8%B4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [OpenAI将修复GPT4变懒问题](https://www.baidu.com/s?wd=OpenAI%E5%B0%86%E4%BF%AE%E5%A4%8DGPT4%E5%8F%98%E6%87%92%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多名女子机场向男歌手泼水被行拘](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%A5%B3%E5%AD%90%E6%9C%BA%E5%9C%BA%E5%90%91%E7%94%B7%E6%AD%8C%E6%89%8B%E6%B3%BC%E6%B0%B4%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [20多只猫饿到自相残杀？重庆辟谣](https://www.baidu.com/s?wd=20%E5%A4%9A%E5%8F%AA%E7%8C%AB%E9%A5%BF%E5%88%B0%E8%87%AA%E7%9B%B8%E6%AE%8B%E6%9D%80%EF%BC%9F%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [媒体评张雪峰“黑”文科](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E5%BC%A0%E9%9B%AA%E5%B3%B0%E2%80%9C%E9%BB%91%E2%80%9D%E6%96%87%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [研究发现生两个孩子最有利于长寿](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E7%94%9F%E4%B8%A4%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%9C%80%E6%9C%89%E5%88%A9%E4%BA%8E%E9%95%BF%E5%AF%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家建议发3万亿生育补贴](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%8F%913%E4%B8%87%E4%BA%BF%E7%94%9F%E8%82%B2%E8%A1%A5%E8%B4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [OpenAI将修复GPT4变懒问题](https://www.baidu.com/s?wd=OpenAI%E5%B0%86%E4%BF%AE%E5%A4%8DGPT4%E5%8F%98%E6%87%92%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多名女子机场向男歌手泼水被行拘](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%A5%B3%E5%AD%90%E6%9C%BA%E5%9C%BA%E5%90%91%E7%94%B7%E6%AD%8C%E6%89%8B%E6%B3%BC%E6%B0%B4%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [20多只猫饿到自相残杀？重庆辟谣](https://www.baidu.com/s?wd=20%E5%A4%9A%E5%8F%AA%E7%8C%AB%E9%A5%BF%E5%88%B0%E8%87%AA%E7%9B%B8%E6%AE%8B%E6%9D%80%EF%BC%9F%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
