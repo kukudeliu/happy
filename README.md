@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 18:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 18:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [这就是双休的意义](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E5%8F%8C%E4%BC%91%E7%9A%84%E6%84%8F%E4%B9%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [偷偷买了跟爸爸同班高铁回家](https://s.weibo.com/weibo?q=%E5%81%B7%E5%81%B7%E4%B9%B0%E4%BA%86%E8%B7%9F%E7%88%B8%E7%88%B8%E5%90%8C%E7%8F%AD%E9%AB%98%E9%93%81%E5%9B%9E%E5%AE%B6&t=31&band_rank=7&Refer=top)<br />
 8. [一碗30元的网红面馆卖不动了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%A2%9730%E5%85%83%E7%9A%84%E7%BD%91%E7%BA%A2%E9%9D%A2%E9%A6%86%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [朱丹因为周一围比自己小哭了](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%B9%E5%9B%A0%E4%B8%BA%E5%91%A8%E4%B8%80%E5%9B%B4%E6%AF%94%E8%87%AA%E5%B7%B1%E5%B0%8F%E5%93%AD%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [易烊千玺 评委](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E8%AF%84%E5%A7%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
