@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 19:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 19:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [易烊千玺 评委](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E8%AF%84%E5%A7%94&t=31&band_rank=6&Refer=top)<br />
 7. [偷偷买了跟爸爸同班高铁回家](https://s.weibo.com/weibo?q=%E5%81%B7%E5%81%B7%E4%B9%B0%E4%BA%86%E8%B7%9F%E7%88%B8%E7%88%B8%E5%90%8C%E7%8F%AD%E9%AB%98%E9%93%81%E5%9B%9E%E5%AE%B6&t=31&band_rank=7&Refer=top)<br />
 8. [田启文称周海媚长期受红斑狼疮困扰](https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%90%AF%E6%96%87%E7%A7%B0%E5%91%A8%E6%B5%B7%E5%AA%9A%E9%95%BF%E6%9C%9F%E5%8F%97%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE%E5%9B%B0%E6%89%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [EDG官宣Meiko离队](https://s.weibo.com/weibo?q=%23EDG%E5%AE%98%E5%AE%A3Meiko%E7%A6%BB%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [TES Meiko](https://s.weibo.com/weibo?q=TES%20Meiko&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
