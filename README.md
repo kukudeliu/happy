@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 13:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 13:13:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [亲眼目睹了我妈传谣的过程](https://s.weibo.com/weibo?q=%23%E4%BA%B2%E7%9C%BC%E7%9B%AE%E7%9D%B9%E4%BA%86%E6%88%91%E5%A6%88%E4%BC%A0%E8%B0%A3%E7%9A%84%E8%BF%87%E7%A8%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [知情人称周海媚还在医院治疗中](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%91%A8%E6%B5%B7%E5%AA%9A%E8%BF%98%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%B2%BB%E7%96%97%E4%B8%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [为什么有些年轻人上班不带包](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8A%E7%8F%AD%E4%B8%8D%E5%B8%A6%E5%8C%85%23&t=31&band_rank=6&Refer=top)<br />
-7. [湖南卫视跨年 放票](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%20%E6%94%BE%E7%A5%A8&t=31&band_rank=7&Refer=top)<br />
-8. [小米发文炮轰余承东](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%8F%91%E6%96%87%E7%82%AE%E8%BD%B0%E4%BD%99%E6%89%BF%E4%B8%9C%23&t=31&band_rank=8&Refer=top)<br />
+7. [小米发文炮轰余承东](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%8F%91%E6%96%87%E7%82%AE%E8%BD%B0%E4%BD%99%E6%89%BF%E4%B8%9C%23&t=31&band_rank=7&Refer=top)<br />
+8. [湖南卫视跨年 放票](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%20%E6%94%BE%E7%A5%A8&t=31&band_rank=8&Refer=top)<br />
 9. [研究生宿舍](https://s.weibo.com/weibo?q=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AE%BF%E8%88%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
