@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 10:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 10:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [体脂不断下降的好习惯](https://s.weibo.com/weibo?q=%E4%BD%93%E8%84%82%E4%B8%8D%E6%96%AD%E4%B8%8B%E9%99%8D%E7%9A%84%E5%A5%BD%E4%B9%A0%E6%83%AF&t=31&band_rank=6&Refer=top)<br />
 7. [女孩讲历史太火被博物馆排队送礼](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%AE%B2%E5%8E%86%E5%8F%B2%E5%A4%AA%E7%81%AB%E8%A2%AB%E5%8D%9A%E7%89%A9%E9%A6%86%E6%8E%92%E9%98%9F%E9%80%81%E7%A4%BC%23&t=31&band_rank=7&Refer=top)<br />
 8. [宋江金裕贞](https://s.weibo.com/weibo?q=%E5%AE%8B%E6%B1%9F%E9%87%91%E8%A3%95%E8%B4%9E&t=31&band_rank=8&Refer=top)<br />
-9. [著名编剧谭飞辟谣周海媚过世](https://s.weibo.com/weibo?q=%23%E8%91%97%E5%90%8D%E7%BC%96%E5%89%A7%E8%B0%AD%E9%A3%9E%E8%BE%9F%E8%B0%A3%E5%91%A8%E6%B5%B7%E5%AA%9A%E8%BF%87%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [最高法呼吁取消高额彩礼](https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%AB%98%E6%B3%95%E5%91%BC%E5%90%81%E5%8F%96%E6%B6%88%E9%AB%98%E9%A2%9D%E5%BD%A9%E7%A4%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
