@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 16:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 16:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [一碗30元的网红面馆卖不动了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%A2%9730%E5%85%83%E7%9A%84%E7%BD%91%E7%BA%A2%E9%9D%A2%E9%A6%86%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [跨年晚会 真唱](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%20%E7%9C%9F%E5%94%B1&t=31&band_rank=7&Refer=top)<br />
 8. [主办方回应杨丞琳演唱会言论](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E5%8A%9E%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9D%A8%E4%B8%9E%E7%90%B3%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A8%80%E8%AE%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [专家建议发放3万亿生育补贴](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%8F%91%E6%94%BE3%E4%B8%87%E4%BA%BF%E7%94%9F%E8%82%B2%E8%A1%A5%E8%B4%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [于正 刘宇宁在历劫](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%20%E5%88%98%E5%AE%87%E5%AE%81%E5%9C%A8%E5%8E%86%E5%8A%AB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
