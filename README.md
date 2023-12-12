@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 15:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 15:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘亦菲王鹤棣 长陵](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E9%95%BF%E9%99%B5&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴一怒之下干了一杯奶](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%80%E6%80%92%E4%B9%8B%E4%B8%8B%E5%B9%B2%E4%BA%86%E4%B8%80%E6%9D%AF%E5%A5%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [专家建议发放3万亿生育补贴](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%8F%91%E6%94%BE3%E4%B8%87%E4%BA%BF%E7%94%9F%E8%82%B2%E8%A1%A5%E8%B4%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [小伙定了婚期才知女方一家全是托](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%AE%9A%E4%BA%86%E5%A9%9A%E6%9C%9F%E6%89%8D%E7%9F%A5%E5%A5%B3%E6%96%B9%E4%B8%80%E5%AE%B6%E5%85%A8%E6%98%AF%E6%89%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [小米发文炮轰余承东](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%8F%91%E6%96%87%E7%82%AE%E8%BD%B0%E4%BD%99%E6%89%BF%E4%B8%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
