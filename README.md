@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 11:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 12:00:01</h4></div>
 
 > 微博  
 
-1. [多所高校明确不提供宿舍](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E6%98%8E%E7%A1%AE%E4%B8%8D%E6%8F%90%E4%BE%9B%E5%AE%BF%E8%88%8D%23&t=31&band_rank=1&Refer=top)<br />
-2. [为什么有些年轻人上班不带包](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8A%E7%8F%AD%E4%B8%8D%E5%B8%A6%E5%8C%85%23&t=31&band_rank=2&Refer=top)<br />
+1. [为什么有些年轻人上班不带包](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8A%E7%8F%AD%E4%B8%8D%E5%B8%A6%E5%8C%85%23&t=31&band_rank=1&Refer=top)<br />
+2. [多所高校明确不提供宿舍](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E6%98%8E%E7%A1%AE%E4%B8%8D%E6%8F%90%E4%BE%9B%E5%AE%BF%E8%88%8D%23&t=31&band_rank=2&Refer=top)<br />
 3. [北京点燃数字经济国潮热](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%82%B9%E7%87%83%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%9B%BD%E6%BD%AE%E7%83%AD%23&t=31&band_rank=3&Refer=top)<br />
 4. [知情人称周海媚还在医院治疗中](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%91%A8%E6%B5%B7%E5%AA%9A%E8%BF%98%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%B2%BB%E7%96%97%E4%B8%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [水逆来了 重灾区星座要小心](https://s.weibo.com/weibo?q=%E6%B0%B4%E9%80%86%E6%9D%A5%E4%BA%86%20%E9%87%8D%E7%81%BE%E5%8C%BA%E6%98%9F%E5%BA%A7%E8%A6%81%E5%B0%8F%E5%BF%83&t=31&band_rank=5&Refer=top)<br />
