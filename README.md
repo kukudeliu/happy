@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 11:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 11:18:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [谭飞发文辟谣：周海媚并未过世](https://www.baidu.com/s?wd=%E8%B0%AD%E9%A3%9E%E5%8F%91%E6%96%87%E8%BE%9F%E8%B0%A3%EF%BC%9A%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%B9%B6%E6%9C%AA%E8%BF%87%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [研究发现生两个孩子最有利于长寿](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E7%94%9F%E4%B8%A4%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%9C%80%E6%9C%89%E5%88%A9%E4%BA%8E%E9%95%BF%E5%AF%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [11只掉队东方白鹳被专车护送放飞](https://www.baidu.com/s?wd=11%E5%8F%AA%E6%8E%89%E9%98%9F%E4%B8%9C%E6%96%B9%E7%99%BD%E9%B9%B3%E8%A2%AB%E4%B8%93%E8%BD%A6%E6%8A%A4%E9%80%81%E6%94%BE%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多名女子机场向男歌手泼水被行拘](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%A5%B3%E5%AD%90%E6%9C%BA%E5%9C%BA%E5%90%91%E7%94%B7%E6%AD%8C%E6%89%8B%E6%B3%BC%E6%B0%B4%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [67岁老人握妻子手买人生第一套房](https://www.baidu.com/s?wd=67%E5%B2%81%E8%80%81%E4%BA%BA%E6%8F%A1%E5%A6%BB%E5%AD%90%E6%89%8B%E4%B9%B0%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [20多只猫饿到自相残杀？重庆辟谣](https://www.baidu.com/s?wd=20%E5%A4%9A%E5%8F%AA%E7%8C%AB%E9%A5%BF%E5%88%B0%E8%87%AA%E7%9B%B8%E6%AE%8B%E6%9D%80%EF%BC%9F%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [谭飞发文辟谣：周海媚并未过世](https://www.baidu.com/s?wd=%E8%B0%AD%E9%A3%9E%E5%8F%91%E6%96%87%E8%BE%9F%E8%B0%A3%EF%BC%9A%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%B9%B6%E6%9C%AA%E8%BF%87%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [研究发现生两个孩子最有利于长寿](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E7%94%9F%E4%B8%A4%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%9C%80%E6%9C%89%E5%88%A9%E4%BA%8E%E9%95%BF%E5%AF%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [11只掉队东方白鹳被专车护送放飞](https://www.baidu.com/s?wd=11%E5%8F%AA%E6%8E%89%E9%98%9F%E4%B8%9C%E6%96%B9%E7%99%BD%E9%B9%B3%E8%A2%AB%E4%B8%93%E8%BD%A6%E6%8A%A4%E9%80%81%E6%94%BE%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多名女子机场向男歌手泼水被行拘](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%A5%B3%E5%AD%90%E6%9C%BA%E5%9C%BA%E5%90%91%E7%94%B7%E6%AD%8C%E6%89%8B%E6%B3%BC%E6%B0%B4%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [67岁老人握妻子手买人生第一套房](https://www.baidu.com/s?wd=67%E5%B2%81%E8%80%81%E4%BA%BA%E6%8F%A1%E5%A6%BB%E5%AD%90%E6%89%8B%E4%B9%B0%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [20多只猫饿到自相残杀？重庆辟谣](https://www.baidu.com/s?wd=20%E5%A4%9A%E5%8F%AA%E7%8C%AB%E9%A5%BF%E5%88%B0%E8%87%AA%E7%9B%B8%E6%AE%8B%E6%9D%80%EF%BC%9F%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
