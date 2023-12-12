@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 09:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 09:58:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [体脂不断下降的好习惯](https://s.weibo.com/weibo?q=%E4%BD%93%E8%84%82%E4%B8%8D%E6%96%AD%E4%B8%8B%E9%99%8D%E7%9A%84%E5%A5%BD%E4%B9%A0%E6%83%AF&t=31&band_rank=4&Refer=top)<br />
 5. [男子拉肚子医生多问一句跑赢死神](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%89%E8%82%9A%E5%AD%90%E5%8C%BB%E7%94%9F%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E8%B7%91%E8%B5%A2%E6%AD%BB%E7%A5%9E%23&t=31&band_rank=5&Refer=top)<br />
 6. [我是不结婚 不是不交电费](https://s.weibo.com/weibo?q=%E6%88%91%E6%98%AF%E4%B8%8D%E7%BB%93%E5%A9%9A%20%E4%B8%8D%E6%98%AF%E4%B8%8D%E4%BA%A4%E7%94%B5%E8%B4%B9&t=31&band_rank=6&Refer=top)<br />
-7. [最高法呼吁取消高额彩礼](https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%AB%98%E6%B3%95%E5%91%BC%E5%90%81%E5%8F%96%E6%B6%88%E9%AB%98%E9%A2%9D%E5%BD%A9%E7%A4%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [破产姐妹Max演员结婚](https://s.weibo.com/weibo?q=%23%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9Max%E6%BC%94%E5%91%98%E7%BB%93%E5%A9%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [为什么刚起床后手握不紧](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%9A%E8%B5%B7%E5%BA%8A%E5%90%8E%E6%89%8B%E6%8F%A1%E4%B8%8D%E7%B4%A7&t=31&band_rank=9&Refer=top)<br />
+7. [破产姐妹Max演员结婚](https://s.weibo.com/weibo?q=%23%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9Max%E6%BC%94%E5%91%98%E7%BB%93%E5%A9%9A%23&t=31&band_rank=7&Refer=top)<br />
+8. [最高法呼吁取消高额彩礼](https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%AB%98%E6%B3%95%E5%91%BC%E5%90%81%E5%8F%96%E6%B6%88%E9%AB%98%E9%A2%9D%E5%BD%A9%E7%A4%BC%23&t=31&band_rank=8&Refer=top)<br />
+9. [女孩讲历史太火被博物馆排队送礼](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%AE%B2%E5%8E%86%E5%8F%B2%E5%A4%AA%E7%81%AB%E8%A2%AB%E5%8D%9A%E7%89%A9%E9%A6%86%E6%8E%92%E9%98%9F%E9%80%81%E7%A4%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
