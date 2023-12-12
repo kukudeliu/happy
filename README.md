@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 11:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 11:44:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [习近平在越南媒体发表署名文章](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E8%B6%8A%E5%8D%97%E5%AA%92%E4%BD%93%E5%8F%91%E8%A1%A8%E7%BD%B2%E5%90%8D%E6%96%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [新一轮大范围雨雪明起来袭](https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%80%E8%BD%AE%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%AA%E6%98%8E%E8%B5%B7%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [最高法呼吁取消高额彩礼](https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E6%B3%95%E5%91%BC%E5%90%81%E5%8F%96%E6%B6%88%E9%AB%98%E9%A2%9D%E5%BD%A9%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [新房打折引发老业主不满 多地回应](https://www.baidu.com/s?wd=%E6%96%B0%E6%88%BF%E6%89%93%E6%8A%98%E5%BC%95%E5%8F%91%E8%80%81%E4%B8%9A%E4%B8%BB%E4%B8%8D%E6%BB%A1+%E5%A4%9A%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济在劈波斩浪中坚定前行](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9C%A8%E5%8A%88%E6%B3%A2%E6%96%A9%E6%B5%AA%E4%B8%AD%E5%9D%9A%E5%AE%9A%E5%89%8D%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [知情人称周海媚还在医院治疗中](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%91%A8%E6%B5%B7%E5%AA%9A%E8%BF%98%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%B2%BB%E7%96%97%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [习近平在越南媒体发表署名文章](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E8%B6%8A%E5%8D%97%E5%AA%92%E4%BD%93%E5%8F%91%E8%A1%A8%E7%BD%B2%E5%90%8D%E6%96%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [新一轮大范围雨雪明起来袭](https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%80%E8%BD%AE%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%AA%E6%98%8E%E8%B5%B7%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [最高法呼吁取消高额彩礼](https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E6%B3%95%E5%91%BC%E5%90%81%E5%8F%96%E6%B6%88%E9%AB%98%E9%A2%9D%E5%BD%A9%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [新房打折引发老业主不满 多地回应](https://www.baidu.com/s?wd=%E6%96%B0%E6%88%BF%E6%89%93%E6%8A%98%E5%BC%95%E5%8F%91%E8%80%81%E4%B8%9A%E4%B8%BB%E4%B8%8D%E6%BB%A1+%E5%A4%9A%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济在劈波斩浪中坚定前行](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9C%A8%E5%8A%88%E6%B3%A2%E6%96%A9%E6%B5%AA%E4%B8%AD%E5%9D%9A%E5%AE%9A%E5%89%8D%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [知情人称周海媚还在医院治疗中](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%91%A8%E6%B5%B7%E5%AA%9A%E8%BF%98%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%B2%BB%E7%96%97%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
