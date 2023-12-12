@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 15:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 15:46:01</h4></div>
 
 > 微博  
 
 1. [郑爽被强执9050万](https://s.weibo.com/weibo?q=%23%E9%83%91%E7%88%BD%E8%A2%AB%E5%BC%BA%E6%89%A79050%E4%B8%87%23&t=31&band_rank=1&Refer=top)<br />
 2. [这就是双休的意义](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E5%8F%8C%E4%BC%91%E7%9A%84%E6%84%8F%E4%B9%89%23&t=31&band_rank=2&Refer=top)<br />
-3. [北京点燃数字经济国潮热](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%82%B9%E7%87%83%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%9B%BD%E6%BD%AE%E7%83%AD%23&t=31&band_rank=3&Refer=top)<br />
+3. [3000年前的国之重器藏着书法之美](https://s.weibo.com/weibo?q=%233000%E5%B9%B4%E5%89%8D%E7%9A%84%E5%9B%BD%E4%B9%8B%E9%87%8D%E5%99%A8%E8%97%8F%E7%9D%80%E4%B9%A6%E6%B3%95%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [马天宇 我以为宋江是宋江](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%20%E6%88%91%E4%BB%A5%E4%B8%BA%E5%AE%8B%E6%B1%9F%E6%98%AF%E5%AE%8B%E6%B1%9F&t=31&band_rank=4&Refer=top)<br />
 5. [何猷君富得没见过世面](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E5%AF%8C%E5%BE%97%E6%B2%A1%E8%A7%81%E8%BF%87%E4%B8%96%E9%9D%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [刘亦菲王鹤棣 长陵](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E9%95%BF%E9%99%B5&t=31&band_rank=6&Refer=top)<br />
