@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 12:36:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 12:37:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [水逆来了 重灾区星座要小心](https://s.weibo.com/weibo?q=%E6%B0%B4%E9%80%86%E6%9D%A5%E4%BA%86%20%E9%87%8D%E7%81%BE%E5%8C%BA%E6%98%9F%E5%BA%A7%E8%A6%81%E5%B0%8F%E5%BF%83&t=31&band_rank=6&Refer=top)<br />
 7. [关于舍友为了省钱偷吃我剩饭](https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E8%88%8D%E5%8F%8B%E4%B8%BA%E4%BA%86%E7%9C%81%E9%92%B1%E5%81%B7%E5%90%83%E6%88%91%E5%89%A9%E9%A5%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [多所高校明确不提供宿舍](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E6%98%8E%E7%A1%AE%E4%B8%8D%E6%8F%90%E4%BE%9B%E5%AE%BF%E8%88%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [王鹤棣第二部男频剧](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%AC%AC%E4%BA%8C%E9%83%A8%E7%94%B7%E9%A2%91%E5%89%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [研究生宿舍](https://s.weibo.com/weibo?q=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AE%BF%E8%88%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
