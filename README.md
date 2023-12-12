@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 22:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 22:12:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [自古美人如名将 不许人间见白头](https://s.weibo.com/weibo?q=%E8%87%AA%E5%8F%A4%E7%BE%8E%E4%BA%BA%E5%A6%82%E5%90%8D%E5%B0%86%20%E4%B8%8D%E8%AE%B8%E4%BA%BA%E9%97%B4%E8%A7%81%E7%99%BD%E5%A4%B4&t=31&band_rank=4&Refer=top)<br />
 5. [红斑狼疮](https://s.weibo.com/weibo?q=%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE&t=31&band_rank=5&Refer=top)<br />
 6. [结节 吃芋头](https://s.weibo.com/weibo?q=%E7%BB%93%E8%8A%82%20%E5%90%83%E8%8A%8B%E5%A4%B4&t=31&band_rank=6&Refer=top)<br />
-7. [菜鸟 取件码呢](https://s.weibo.com/weibo?q=%E8%8F%9C%E9%B8%9F%20%E5%8F%96%E4%BB%B6%E7%A0%81%E5%91%A2&t=31&band_rank=7&Refer=top)<br />
-8. [红斑狼疮你了解多少](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE%E4%BD%A0%E4%BA%86%E8%A7%A3%E5%A4%9A%E5%B0%91%23&t=31&band_rank=8&Refer=top)<br />
+7. [红斑狼疮是免疫病不是皮肤病](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE%E6%98%AF%E5%85%8D%E7%96%AB%E7%97%85%E4%B8%8D%E6%98%AF%E7%9A%AE%E8%82%A4%E7%97%85%23&t=31&band_rank=7&Refer=top)<br />
+8. [菜鸟 取件码呢](https://s.weibo.com/weibo?q=%E8%8F%9C%E9%B8%9F%20%E5%8F%96%E4%BB%B6%E7%A0%81%E5%91%A2&t=31&band_rank=8&Refer=top)<br />
 9. [网红袖珍女孩疑遭母亲虐待](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%A2%96%E7%8F%8D%E5%A5%B3%E5%AD%A9%E7%96%91%E9%81%AD%E6%AF%8D%E4%BA%B2%E8%99%90%E5%BE%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
