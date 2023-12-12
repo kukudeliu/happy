@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 09:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 09:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子拉肚子医生多问一句跑赢死神](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%89%E8%82%9A%E5%AD%90%E5%8C%BB%E7%94%9F%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E8%B7%91%E8%B5%A2%E6%AD%BB%E7%A5%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么刚起床后手握不紧](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%9A%E8%B5%B7%E5%BA%8A%E5%90%8E%E6%89%8B%E6%8F%A1%E4%B8%8D%E7%B4%A7&t=31&band_rank=7&Refer=top)<br />
 8. [我是不结婚 不是不交电费](https://s.weibo.com/weibo?q=%E6%88%91%E6%98%AF%E4%B8%8D%E7%BB%93%E5%A9%9A%20%E4%B8%8D%E6%98%AF%E4%B8%8D%E4%BA%A4%E7%94%B5%E8%B4%B9&t=31&band_rank=8&Refer=top)<br />
-9. [中药只管吃不要打听](https://s.weibo.com/weibo?q=%E4%B8%AD%E8%8D%AF%E5%8F%AA%E7%AE%A1%E5%90%83%E4%B8%8D%E8%A6%81%E6%89%93%E5%90%AC&t=31&band_rank=9&Refer=top)<br />
+9. [最高法呼吁取消高额彩礼](https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%AB%98%E6%B3%95%E5%91%BC%E5%90%81%E5%8F%96%E6%B6%88%E9%AB%98%E9%A2%9D%E5%BD%A9%E7%A4%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
