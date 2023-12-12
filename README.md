@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 12:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 12:05:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为什么年轻人讨厌接电话](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%AE%A8%E5%8E%8C%E6%8E%A5%E7%94%B5%E8%AF%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [王鹤棣第二部男频剧](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%AC%AC%E4%BA%8C%E9%83%A8%E7%94%B7%E9%A2%91%E5%89%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [动手的那瞬间发现是小女儿后](https://s.weibo.com/weibo?q=%E5%8A%A8%E6%89%8B%E7%9A%84%E9%82%A3%E7%9E%AC%E9%97%B4%E5%8F%91%E7%8E%B0%E6%98%AF%E5%B0%8F%E5%A5%B3%E5%84%BF%E5%90%8E&t=31&band_rank=8&Refer=top)<br />
-9. [青椒拿铁](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%A4%92%E6%8B%BF%E9%93%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [新冠变异株JN.1](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%E6%A0%AAJN.1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
