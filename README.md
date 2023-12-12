@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 20:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 20:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [田启文称周海媚长期受红斑狼疮困扰](https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%90%AF%E6%96%87%E7%A7%B0%E5%91%A8%E6%B5%B7%E5%AA%9A%E9%95%BF%E6%9C%9F%E5%8F%97%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE%E5%9B%B0%E6%89%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [好莱坞富二代涉嫌分尸华人妻子](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%AF%8C%E4%BA%8C%E4%BB%A3%E6%B6%89%E5%AB%8C%E5%88%86%E5%B0%B8%E5%8D%8E%E4%BA%BA%E5%A6%BB%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [虞书欣 机器人台词](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%B0%E8%AF%8D&t=31&band_rank=8&Refer=top)<br />
-9. [EDG官宣Meiko离队](https://s.weibo.com/weibo?q=%23EDG%E5%AE%98%E5%AE%A3Meiko%E7%A6%BB%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [宝宝抱住两个月不见的爷爷亲个不停](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E6%8A%B1%E4%BD%8F%E4%B8%A4%E4%B8%AA%E6%9C%88%E4%B8%8D%E8%A7%81%E7%9A%84%E7%88%B7%E7%88%B7%E4%BA%B2%E4%B8%AA%E4%B8%8D%E5%81%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
