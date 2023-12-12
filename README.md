@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 11:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 11:16:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [知情人称周海媚还在医院治疗中](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%91%A8%E6%B5%B7%E5%AA%9A%E8%BF%98%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%B2%BB%E7%96%97%E4%B8%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [动手的那瞬间发现是小女儿后](https://s.weibo.com/weibo?q=%E5%8A%A8%E6%89%8B%E7%9A%84%E9%82%A3%E7%9E%AC%E9%97%B4%E5%8F%91%E7%8E%B0%E6%98%AF%E5%B0%8F%E5%A5%B3%E5%84%BF%E5%90%8E&t=31&band_rank=5&Refer=top)<br />
 6. [加拿大鹅9500元羽绒服被疑瑕疵品](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%859500%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A2%AB%E7%96%91%E7%91%95%E7%96%B5%E5%93%81%23&t=31&band_rank=6&Refer=top)<br />
-7. [女孩讲历史太火被博物馆排队送礼](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%AE%B2%E5%8E%86%E5%8F%B2%E5%A4%AA%E7%81%AB%E8%A2%AB%E5%8D%9A%E7%89%A9%E9%A6%86%E6%8E%92%E9%98%9F%E9%80%81%E7%A4%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [宋江金裕贞](https://s.weibo.com/weibo?q=%E5%AE%8B%E6%B1%9F%E9%87%91%E8%A3%95%E8%B4%9E&t=31&band_rank=8&Refer=top)<br />
+7. [宋江金裕贞](https://s.weibo.com/weibo?q=%E5%AE%8B%E6%B1%9F%E9%87%91%E8%A3%95%E8%B4%9E&t=31&band_rank=7&Refer=top)<br />
+8. [女孩讲历史太火被博物馆排队送礼](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%AE%B2%E5%8E%86%E5%8F%B2%E5%A4%AA%E7%81%AB%E8%A2%AB%E5%8D%9A%E7%89%A9%E9%A6%86%E6%8E%92%E9%98%9F%E9%80%81%E7%A4%BC%23&t=31&band_rank=8&Refer=top)<br />
 9. [王鹤棣田曦薇杀青照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%94%B0%E6%9B%A6%E8%96%87%E6%9D%80%E9%9D%92%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
