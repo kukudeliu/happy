@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 12:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 12:18:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [业主欠800万水费 倾家荡产不够交](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E6%AC%A0800%E4%B8%87%E6%B0%B4%E8%B4%B9+%E5%80%BE%E5%AE%B6%E8%8D%A1%E4%BA%A7%E4%B8%8D%E5%A4%9F%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [故宫今起三天门票均已约满](https://www.baidu.com/s?wd=%E6%95%85%E5%AE%AB%E4%BB%8A%E8%B5%B7%E4%B8%89%E5%A4%A9%E9%97%A8%E7%A5%A8%E5%9D%87%E5%B7%B2%E7%BA%A6%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [67岁老人握妻子手买人生第一套房](https://www.baidu.com/s?wd=67%E5%B2%81%E8%80%81%E4%BA%BA%E6%8F%A1%E5%A6%BB%E5%AD%90%E6%89%8B%E4%B9%B0%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [20多只猫饿到自相残杀？重庆辟谣](https://www.baidu.com/s?wd=20%E5%A4%9A%E5%8F%AA%E7%8C%AB%E9%A5%BF%E5%88%B0%E8%87%AA%E7%9B%B8%E6%AE%8B%E6%9D%80%EF%BC%9F%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [深圳平安大厦冒烟着火？假的](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B9%B3%E5%AE%89%E5%A4%A7%E5%8E%A6%E5%86%92%E7%83%9F%E7%9D%80%E7%81%AB%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [业主欠800万水费 倾家荡产不够交](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E6%AC%A0800%E4%B8%87%E6%B0%B4%E8%B4%B9+%E5%80%BE%E5%AE%B6%E8%8D%A1%E4%BA%A7%E4%B8%8D%E5%A4%9F%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [故宫今起三天门票均已约满](https://www.baidu.com/s?wd=%E6%95%85%E5%AE%AB%E4%BB%8A%E8%B5%B7%E4%B8%89%E5%A4%A9%E9%97%A8%E7%A5%A8%E5%9D%87%E5%B7%B2%E7%BA%A6%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [67岁老人握妻子手买人生第一套房](https://www.baidu.com/s?wd=67%E5%B2%81%E8%80%81%E4%BA%BA%E6%8F%A1%E5%A6%BB%E5%AD%90%E6%89%8B%E4%B9%B0%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [20多只猫饿到自相残杀？重庆辟谣](https://www.baidu.com/s?wd=20%E5%A4%9A%E5%8F%AA%E7%8C%AB%E9%A5%BF%E5%88%B0%E8%87%AA%E7%9B%B8%E6%AE%8B%E6%9D%80%EF%BC%9F%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [深圳平安大厦冒烟着火？假的](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B9%B3%E5%AE%89%E5%A4%A7%E5%8E%A6%E5%86%92%E7%83%9F%E7%9D%80%E7%81%AB%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
