@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 20:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 20:22:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [易烊千玺 评委](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E8%AF%84%E5%A7%94&t=31&band_rank=5&Refer=top)<br />
 6. [田启文称周海媚长期受红斑狼疮困扰](https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%90%AF%E6%96%87%E7%A7%B0%E5%91%A8%E6%B5%B7%E5%AA%9A%E9%95%BF%E6%9C%9F%E5%8F%97%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE%E5%9B%B0%E6%89%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [好莱坞富二代涉嫌分尸华人妻子](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%AF%8C%E4%BA%8C%E4%BB%A3%E6%B6%89%E5%AB%8C%E5%88%86%E5%B0%B8%E5%8D%8E%E4%BA%BA%E5%A6%BB%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [虞书欣 机器人台词](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%B0%E8%AF%8D&t=31&band_rank=8&Refer=top)<br />
-9. [最讨厌那个杨大爷了](https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%AE%A8%E5%8E%8C%E9%82%A3%E4%B8%AA%E6%9D%A8%E5%A4%A7%E7%88%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [骄阳似我 张凌赫魏大勋](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%20%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%AD%8F%E5%A4%A7%E5%8B%8B&t=31&band_rank=8&Refer=top)<br />
+9. [虞书欣 机器人台词](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%B0%E8%AF%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
