@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 23:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-12 23:45:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [周海媚生前最后一次公开亮相](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B5%B7%E5%AA%9A%E7%94%9F%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%85%AC%E5%BC%80%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=4&Refer=top)<br />
 5. [骄阳似我 张凌赫魏大勋](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%20%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%AD%8F%E5%A4%A7%E5%8B%8B&t=31&band_rank=5&Refer=top)<br />
 6. [结节 吃芋头](https://s.weibo.com/weibo?q=%E7%BB%93%E8%8A%82%20%E5%90%83%E8%8A%8B%E5%A4%B4&t=31&band_rank=6&Refer=top)<br />
-7. [赵一博回归种地吧](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%80%E5%8D%9A%E5%9B%9E%E5%BD%92%E7%A7%8D%E5%9C%B0%E5%90%A7&t=31&band_rank=7&Refer=top)<br />
-8. [菜鸟 取件码呢](https://s.weibo.com/weibo?q=%E8%8F%9C%E9%B8%9F%20%E5%8F%96%E4%BB%B6%E7%A0%81%E5%91%A2&t=31&band_rank=8&Refer=top)<br />
+7. [菜鸟 取件码呢](https://s.weibo.com/weibo?q=%E8%8F%9C%E9%B8%9F%20%E5%8F%96%E4%BB%B6%E7%A0%81%E5%91%A2&t=31&band_rank=7&Refer=top)<br />
+8. [赵一博回归种地吧](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%80%E5%8D%9A%E5%9B%9E%E5%BD%92%E7%A7%8D%E5%9C%B0%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
 9. [新冠变异株JN.1在12国快速蔓延](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%E6%A0%AAJN.1%E5%9C%A812%E5%9B%BD%E5%BF%AB%E9%80%9F%E8%94%93%E5%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
