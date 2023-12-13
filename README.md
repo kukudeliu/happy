@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 12:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 12:49:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [长春高空抛物致死案被告人获死刑](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%87%B4%E6%AD%BB%E6%A1%88%E8%A2%AB%E5%91%8A%E4%BA%BA%E8%8E%B7%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [北京大学回应不为专硕提供住宿](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E4%B8%8D%E4%B8%BA%E4%B8%93%E7%A1%95%E6%8F%90%E4%BE%9B%E4%BD%8F%E5%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#再见周芷若#](https://www.baidu.com/s?wd=%23%E5%86%8D%E8%A7%81%E5%91%A8%E8%8A%B7%E8%8B%A5%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河南一民宅天然气爆炸致4人受伤](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E6%B0%91%E5%AE%85%E5%A4%A9%E7%84%B6%E6%B0%94%E7%88%86%E7%82%B8%E8%87%B44%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国台办回应杨丞琳演唱会争议言论](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%9D%A8%E4%B8%9E%E7%90%B3%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%89%E8%AE%AE%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [社保缴满5年养老金就进一档？](https://www.baidu.com/s?wd=%E7%A4%BE%E4%BF%9D%E7%BC%B4%E6%BB%A15%E5%B9%B4%E5%85%BB%E8%80%81%E9%87%91%E5%B0%B1%E8%BF%9B%E4%B8%80%E6%A1%A3%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [长春高空抛物致死案被告人获死刑](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%87%B4%E6%AD%BB%E6%A1%88%E8%A2%AB%E5%91%8A%E4%BA%BA%E8%8E%B7%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [北京大学回应不为专硕提供住宿](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E4%B8%8D%E4%B8%BA%E4%B8%93%E7%A1%95%E6%8F%90%E4%BE%9B%E4%BD%8F%E5%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#再见周芷若#](https://www.baidu.com/s?wd=%23%E5%86%8D%E8%A7%81%E5%91%A8%E8%8A%B7%E8%8B%A5%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河南一民宅天然气爆炸致4人受伤](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E6%B0%91%E5%AE%85%E5%A4%A9%E7%84%B6%E6%B0%94%E7%88%86%E7%82%B8%E8%87%B44%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国台办回应杨丞琳演唱会争议言论](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%9D%A8%E4%B8%9E%E7%90%B3%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%89%E8%AE%AE%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [社保缴满5年养老金就进一档？](https://www.baidu.com/s?wd=%E7%A4%BE%E4%BF%9D%E7%BC%B4%E6%BB%A15%E5%B9%B4%E5%85%BB%E8%80%81%E9%87%91%E5%B0%B1%E8%BF%9B%E4%B8%80%E6%A1%A3%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
