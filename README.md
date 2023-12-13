@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 19:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 19:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨洋 什锦](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%20%E4%BB%80%E9%94%A6&t=31&band_rank=6&Refer=top)<br />
 7. [浙大儿院为外地患儿家庭免费提供住宿](https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E5%84%BF%E9%99%A2%E4%B8%BA%E5%A4%96%E5%9C%B0%E6%82%A3%E5%84%BF%E5%AE%B6%E5%BA%AD%E5%85%8D%E8%B4%B9%E6%8F%90%E4%BE%9B%E4%BD%8F%E5%AE%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [周海媚的任性五十年](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B5%B7%E5%AA%9A%E7%9A%84%E4%BB%BB%E6%80%A7%E4%BA%94%E5%8D%81%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
-9. [一图详解中央经济工作会议](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E8%AF%A6%E8%A7%A3%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [辛芷蕾挣的第一笔钱被爸爸裱起来](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%8C%A3%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AC%94%E9%92%B1%E8%A2%AB%E7%88%B8%E7%88%B8%E8%A3%B1%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
