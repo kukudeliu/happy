@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 14:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 14:35:01</h4></div>
 
 > 微博  
 
-1. [国台办回应杨丞琳五月天事件](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%9D%A8%E4%B8%9E%E7%90%B3%E4%BA%94%E6%9C%88%E5%A4%A9%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top)<br />
-2. [真正有致癌风险的是这2种水](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E6%9C%89%E8%87%B4%E7%99%8C%E9%A3%8E%E9%99%A9%E7%9A%84%E6%98%AF%E8%BF%992%E7%A7%8D%E6%B0%B4%23&t=31&band_rank=2&Refer=top)<br />
+1. [真正有致癌风险的是这2种水](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E6%9C%89%E8%87%B4%E7%99%8C%E9%A3%8E%E9%99%A9%E7%9A%84%E6%98%AF%E8%BF%992%E7%A7%8D%E6%B0%B4%23&t=31&band_rank=1&Refer=top)<br />
+2. [国台办回应杨丞琳五月天事件](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%9D%A8%E4%B8%9E%E7%90%B3%E4%BA%94%E6%9C%88%E5%A4%A9%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023年国家公祭日](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%9B%BD%E5%AE%B6%E5%85%AC%E7%A5%AD%E6%97%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [周海媚的任性五十年](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B5%B7%E5%AA%9A%E7%9A%84%E4%BB%BB%E6%80%A7%E4%BA%94%E5%8D%81%E5%B9%B4&t=31&band_rank=4&Refer=top)<br />
 5. [吴世勋 入伍](https://s.weibo.com/weibo?q=%E5%90%B4%E4%B8%96%E5%8B%8B%20%E5%85%A5%E4%BC%8D&t=31&band_rank=5&Refer=top)<br />
