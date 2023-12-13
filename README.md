@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 16:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 16:54:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [2023年国家公祭日](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%9B%BD%E5%AE%B6%E5%85%AC%E7%A5%AD%E6%97%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [高途创始人回应挖董宇辉](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%94%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%8C%96%E8%91%A3%E5%AE%87%E8%BE%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [爸爸我淹水了我自己站起来了](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E6%88%91%E6%B7%B9%E6%B0%B4%E4%BA%86%E6%88%91%E8%87%AA%E5%B7%B1%E7%AB%99%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [迈克尔杰克逊 红斑狼疮](https://s.weibo.com/weibo?q=%E8%BF%88%E5%85%8B%E5%B0%94%E6%9D%B0%E5%85%8B%E9%80%8A%20%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE&t=31&band_rank=6&Refer=top)<br />
-7. [女孩念台词掐同学脖子确诊狼疮脑病](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%BF%B5%E5%8F%B0%E8%AF%8D%E6%8E%90%E5%90%8C%E5%AD%A6%E8%84%96%E5%AD%90%E7%A1%AE%E8%AF%8A%E7%8B%BC%E7%96%AE%E8%84%91%E7%97%85%23&t=31&band_rank=7&Refer=top)<br />
-8. [飞机上没网 删照片](https://s.weibo.com/weibo?q=%E9%A3%9E%E6%9C%BA%E4%B8%8A%E6%B2%A1%E7%BD%91%20%E5%88%A0%E7%85%A7%E7%89%87&t=31&band_rank=8&Refer=top)<br />
+6. [飞机上没网 删照片](https://s.weibo.com/weibo?q=%E9%A3%9E%E6%9C%BA%E4%B8%8A%E6%B2%A1%E7%BD%91%20%E5%88%A0%E7%85%A7%E7%89%87&t=31&band_rank=6&Refer=top)<br />
+7. [迈克尔杰克逊 红斑狼疮](https://s.weibo.com/weibo?q=%E8%BF%88%E5%85%8B%E5%B0%94%E6%9D%B0%E5%85%8B%E9%80%8A%20%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE&t=31&band_rank=7&Refer=top)<br />
+8. [女孩念台词掐同学脖子确诊狼疮脑病](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%BF%B5%E5%8F%B0%E8%AF%8D%E6%8E%90%E5%90%8C%E5%AD%A6%E8%84%96%E5%AD%90%E7%A1%AE%E8%AF%8A%E7%8B%BC%E7%96%AE%E8%84%91%E7%97%85%23&t=31&band_rank=8&Refer=top)<br />
 9. [Taylor Swift史上票房最高巡演](https://s.weibo.com/weibo?q=Taylor%20Swift%E5%8F%B2%E4%B8%8A%E7%A5%A8%E6%88%BF%E6%9C%80%E9%AB%98%E5%B7%A1%E6%BC%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
