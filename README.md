@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 12:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 12:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [红斑狼疮每次复发都是重创](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE%E6%AF%8F%E6%AC%A1%E5%A4%8D%E5%8F%91%E9%83%BD%E6%98%AF%E9%87%8D%E5%88%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [东方甄选CEO称董宇辉年薪不止网传千万](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89CEO%E7%A7%B0%E8%91%A3%E5%AE%87%E8%BE%89%E5%B9%B4%E8%96%AA%E4%B8%8D%E6%AD%A2%E7%BD%91%E4%BC%A0%E5%8D%83%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [现在下雪通知停课 以前下雪通知带锹](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E4%B8%8B%E9%9B%AA%E9%80%9A%E7%9F%A5%E5%81%9C%E8%AF%BE%20%E4%BB%A5%E5%89%8D%E4%B8%8B%E9%9B%AA%E9%80%9A%E7%9F%A5%E5%B8%A6%E9%94%B9&t=31&band_rank=8&Refer=top)<br />
-9. [美甲尽头 裸色](https://s.weibo.com/weibo?q=%E7%BE%8E%E7%94%B2%E5%B0%BD%E5%A4%B4%20%E8%A3%B8%E8%89%B2&t=31&band_rank=9&Refer=top)<br />
+9. [董宇辉小作文](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%E5%B0%8F%E4%BD%9C%E6%96%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
