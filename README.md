@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 08:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 08:45:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [昨天入职今天出卖全办公室](https://s.weibo.com/weibo?q=%E6%98%A8%E5%A4%A9%E5%85%A5%E8%81%8C%E4%BB%8A%E5%A4%A9%E5%87%BA%E5%8D%96%E5%85%A8%E5%8A%9E%E5%85%AC%E5%AE%A4&t=31&band_rank=4&Refer=top)<br />
 5. [众星发博悼念周海媚](https://s.weibo.com/weibo?q=%23%E4%BC%97%E6%98%9F%E5%8F%91%E5%8D%9A%E6%82%BC%E5%BF%B5%E5%91%A8%E6%B5%B7%E5%AA%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [肚子越来越小的小技巧](https://s.weibo.com/weibo?q=%E8%82%9A%E5%AD%90%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%8F%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7&t=31&band_rank=6&Refer=top)<br />
-7. [拒绝休息羞耻](https://s.weibo.com/weibo?q=%E6%8B%92%E7%BB%9D%E4%BC%91%E6%81%AF%E7%BE%9E%E8%80%BB&t=31&band_rank=7&Refer=top)<br />
-8. [创业创了一半老板去考公了](https://s.weibo.com/weibo?q=%E5%88%9B%E4%B8%9A%E5%88%9B%E4%BA%86%E4%B8%80%E5%8D%8A%E8%80%81%E6%9D%BF%E5%8E%BB%E8%80%83%E5%85%AC%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [成都地铁](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81&t=31&band_rank=9&Refer=top)<br />
+7. [北京大学回应不为专硕提供住宿](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E4%B8%8D%E4%B8%BA%E4%B8%93%E7%A1%95%E6%8F%90%E4%BE%9B%E4%BD%8F%E5%AE%BF%23&t=31&band_rank=7&Refer=top)<br />
+8. [拒绝休息羞耻](https://s.weibo.com/weibo?q=%E6%8B%92%E7%BB%9D%E4%BC%91%E6%81%AF%E7%BE%9E%E8%80%BB&t=31&band_rank=8&Refer=top)<br />
+9. [创业创了一半老板去考公了](https://s.weibo.com/weibo?q=%E5%88%9B%E4%B8%9A%E5%88%9B%E4%BA%86%E4%B8%80%E5%8D%8A%E8%80%81%E6%9D%BF%E5%8E%BB%E8%80%83%E5%85%AC%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
