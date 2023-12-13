@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 20:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 20:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [经超小李琳 姐弟恋能有多快乐](https://s.weibo.com/weibo?q=%E7%BB%8F%E8%B6%85%E5%B0%8F%E6%9D%8E%E7%90%B3%20%E5%A7%90%E5%BC%9F%E6%81%8B%E8%83%BD%E6%9C%89%E5%A4%9A%E5%BF%AB%E4%B9%90&t=31&band_rank=6&Refer=top)<br />
 7. [周海媚的任性五十年](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B5%B7%E5%AA%9A%E7%9A%84%E4%BB%BB%E6%80%A7%E4%BA%94%E5%8D%81%E5%B9%B4&t=31&band_rank=7&Refer=top)<br />
 8. [联想回应总部logo被涂成华为](https://s.weibo.com/weibo?q=%23%E8%81%94%E6%83%B3%E5%9B%9E%E5%BA%94%E6%80%BB%E9%83%A8logo%E8%A2%AB%E6%B6%82%E6%88%90%E5%8D%8E%E4%B8%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [辛芷蕾挣的第一笔钱被爸爸裱起来](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%8C%A3%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AC%94%E9%92%B1%E8%A2%AB%E7%88%B8%E7%88%B8%E8%A3%B1%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [年轻人报复性挤爆3.5分饭店](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%8C%A4%E7%88%863.5%E5%88%86%E9%A5%AD%E5%BA%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
