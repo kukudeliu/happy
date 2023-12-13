@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 19:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 19:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨洋 什锦](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%20%E4%BB%80%E9%94%A6&t=31&band_rank=6&Refer=top)<br />
 7. [浙大儿院为外地患儿家庭免费提供住宿](https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E5%84%BF%E9%99%A2%E4%B8%BA%E5%A4%96%E5%9C%B0%E6%82%A3%E5%84%BF%E5%AE%B6%E5%BA%AD%E5%85%8D%E8%B4%B9%E6%8F%90%E4%BE%9B%E4%BD%8F%E5%AE%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [周海媚的任性五十年](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B5%B7%E5%AA%9A%E7%9A%84%E4%BB%BB%E6%80%A7%E4%BA%94%E5%8D%81%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
-9. [副局长被儿子举报出轨待遇降为一级科员](https://s.weibo.com/weibo?q=%23%E5%89%AF%E5%B1%80%E9%95%BF%E8%A2%AB%E5%84%BF%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E5%BE%85%E9%81%87%E9%99%8D%E4%B8%BA%E4%B8%80%E7%BA%A7%E7%A7%91%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [辛芷蕾挣的第一笔钱被爸爸裱起来](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%8C%A3%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AC%94%E9%92%B1%E8%A2%AB%E7%88%B8%E7%88%B8%E8%A3%B1%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
