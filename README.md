@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 14:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 14:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [飞机上没网 删照片](https://s.weibo.com/weibo?q=%E9%A3%9E%E6%9C%BA%E4%B8%8A%E6%B2%A1%E7%BD%91%20%E5%88%A0%E7%85%A7%E7%89%87&t=31&band_rank=6&Refer=top)<br />
 7. [女孩千里认亲被拒已回养父母身边](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%8D%83%E9%87%8C%E8%AE%A4%E4%BA%B2%E8%A2%AB%E6%8B%92%E5%B7%B2%E5%9B%9E%E5%85%BB%E7%88%B6%E6%AF%8D%E8%BA%AB%E8%BE%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [房东不退押金女子怒开水龙头报复](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E4%B8%8D%E9%80%80%E6%8A%BC%E9%87%91%E5%A5%B3%E5%AD%90%E6%80%92%E5%BC%80%E6%B0%B4%E9%BE%99%E5%A4%B4%E6%8A%A5%E5%A4%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [ChatGPT 欺骗人类](https://s.weibo.com/weibo?q=ChatGPT%20%E6%AC%BA%E9%AA%97%E4%BA%BA%E7%B1%BB&t=31&band_rank=9&Refer=top)<br />
+9. [一个美人不必长得像另一个美人](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E7%BE%8E%E4%BA%BA%E4%B8%8D%E5%BF%85%E9%95%BF%E5%BE%97%E5%83%8F%E5%8F%A6%E4%B8%80%E4%B8%AA%E7%BE%8E%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
