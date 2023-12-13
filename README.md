@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 11:29:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 11:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为什么很多老人摔一跤没多久就走了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E8%80%81%E4%BA%BA%E6%91%94%E4%B8%80%E8%B7%A4%E6%B2%A1%E5%A4%9A%E4%B9%85%E5%B0%B1%E8%B5%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [北京停课](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%81%9C%E8%AF%BE&t=31&band_rank=7&Refer=top)<br />
 8. [董宇辉小作文](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%E5%B0%8F%E4%BD%9C%E6%96%87&t=31&band_rank=8&Refer=top)<br />
-9. [国家公祭日](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%85%AC%E7%A5%AD%E6%97%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [飞机上没网 删照片](https://s.weibo.com/weibo?q=%E9%A3%9E%E6%9C%BA%E4%B8%8A%E6%B2%A1%E7%BD%91%20%E5%88%A0%E7%85%A7%E7%89%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
