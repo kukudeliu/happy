@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 09:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 09:32:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [多地暴雪+寒潮+冰冻预警齐发](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%9A%B4%E9%9B%AA%2B%E5%AF%92%E6%BD%AE%2B%E5%86%B0%E5%86%BB%E9%A2%84%E8%AD%A6%E9%BD%90%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2023国家公祭日](https://www.baidu.com/s?wd=2023%E5%9B%BD%E5%AE%B6%E5%85%AC%E7%A5%AD%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#再见周芷若#](https://www.baidu.com/s?wd=%23%E5%86%8D%E8%A7%81%E5%91%A8%E8%8A%B7%E8%8B%A5%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [陕西人大常委会原副主任被逮捕](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E4%BA%BA%E5%A4%A7%E5%B8%B8%E5%A7%94%E4%BC%9A%E5%8E%9F%E5%89%AF%E4%B8%BB%E4%BB%BB%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [探访多收21万医疗费的安徽三甲医院](https://www.baidu.com/s?wd=%E6%8E%A2%E8%AE%BF%E5%A4%9A%E6%94%B621%E4%B8%87%E5%8C%BB%E7%96%97%E8%B4%B9%E7%9A%84%E5%AE%89%E5%BE%BD%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [降雪能冻死病毒？](https://www.baidu.com/s?wd=%E9%99%8D%E9%9B%AA%E8%83%BD%E5%86%BB%E6%AD%BB%E7%97%85%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [多地暴雪+寒潮+冰冻预警齐发](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%9A%B4%E9%9B%AA%2B%E5%AF%92%E6%BD%AE%2B%E5%86%B0%E5%86%BB%E9%A2%84%E8%AD%A6%E9%BD%90%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2023国家公祭日](https://www.baidu.com/s?wd=2023%E5%9B%BD%E5%AE%B6%E5%85%AC%E7%A5%AD%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#再见周芷若#](https://www.baidu.com/s?wd=%23%E5%86%8D%E8%A7%81%E5%91%A8%E8%8A%B7%E8%8B%A5%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [陕西人大常委会原副主任被逮捕](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E4%BA%BA%E5%A4%A7%E5%B8%B8%E5%A7%94%E4%BC%9A%E5%8E%9F%E5%89%AF%E4%B8%BB%E4%BB%BB%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [探访多收21万医疗费的安徽三甲医院](https://www.baidu.com/s?wd=%E6%8E%A2%E8%AE%BF%E5%A4%9A%E6%94%B621%E4%B8%87%E5%8C%BB%E7%96%97%E8%B4%B9%E7%9A%84%E5%AE%89%E5%BE%BD%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [降雪能冻死病毒？](https://www.baidu.com/s?wd=%E9%99%8D%E9%9B%AA%E8%83%BD%E5%86%BB%E6%AD%BB%E7%97%85%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
