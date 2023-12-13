@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 17:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 17:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [飞机上没网 删照片](https://s.weibo.com/weibo?q=%E9%A3%9E%E6%9C%BA%E4%B8%8A%E6%B2%A1%E7%BD%91%20%E5%88%A0%E7%85%A7%E7%89%87&t=31&band_rank=6&Refer=top)<br />
 7. [高途创始人回应挖董宇辉](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%94%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%8C%96%E8%91%A3%E5%AE%87%E8%BE%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [Taylor Swift史上票房最高巡演](https://s.weibo.com/weibo?q=Taylor%20Swift%E5%8F%B2%E4%B8%8A%E7%A5%A8%E6%88%BF%E6%9C%80%E9%AB%98%E5%B7%A1%E6%BC%94&t=31&band_rank=8&Refer=top)<br />
-9. [迈克尔杰克逊 红斑狼疮](https://s.weibo.com/weibo?q=%E8%BF%88%E5%85%8B%E5%B0%94%E6%9D%B0%E5%85%8B%E9%80%8A%20%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE&t=31&band_rank=9&Refer=top)<br />
+9. [女孩千里认亲被拒已回养父母身边](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%8D%83%E9%87%8C%E8%AE%A4%E4%BA%B2%E8%A2%AB%E6%8B%92%E5%B7%B2%E5%9B%9E%E5%85%BB%E7%88%B6%E6%AF%8D%E8%BA%AB%E8%BE%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
