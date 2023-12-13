@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 14:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-13 14:55:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [中央经济工作会议在北京举行](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [携手构建中越命运共同体](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E6%9E%84%E5%BB%BA%E4%B8%AD%E8%B6%8A%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [红墙白雪 故宫的雪景也太美了](https://www.baidu.com/s?wd=%E7%BA%A2%E5%A2%99%E7%99%BD%E9%9B%AA+%E6%95%85%E5%AE%AB%E7%9A%84%E9%9B%AA%E6%99%AF%E4%B9%9F%E5%A4%AA%E7%BE%8E%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [长春高空抛物致死案被告人获死刑](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%87%B4%E6%AD%BB%E6%A1%88%E8%A2%AB%E5%91%8A%E4%BA%BA%E8%8E%B7%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [第十个国家公祭日](https://www.baidu.com/s?wd=%E7%AC%AC%E5%8D%81%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%85%AC%E7%A5%AD%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [中央经济工作会议在北京举行](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [携手构建中越命运共同体](https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E6%9E%84%E5%BB%BA%E4%B8%AD%E8%B6%8A%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [红墙白雪 故宫的雪景也太美了](https://www.baidu.com/s?wd=%E7%BA%A2%E5%A2%99%E7%99%BD%E9%9B%AA+%E6%95%85%E5%AE%AB%E7%9A%84%E9%9B%AA%E6%99%AF%E4%B9%9F%E5%A4%AA%E7%BE%8E%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [长春高空抛物致死案被告人获死刑](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%87%B4%E6%AD%BB%E6%A1%88%E8%A2%AB%E5%91%8A%E4%BA%BA%E8%8E%B7%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [第十个国家公祭日](https://www.baidu.com/s?wd=%E7%AC%AC%E5%8D%81%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%85%AC%E7%A5%AD%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
