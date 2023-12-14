@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 22:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 22:46:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [习近平收到的这份礼物 寓意很深](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%94%B6%E5%88%B0%E7%9A%84%E8%BF%99%E4%BB%BD%E7%A4%BC%E7%89%A9+%E5%AF%93%E6%84%8F%E5%BE%88%E6%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [确保同向发力、形成合力](https://www.baidu.com/s?wd=%E7%A1%AE%E4%BF%9D%E5%90%8C%E5%90%91%E5%8F%91%E5%8A%9B%E3%80%81%E5%BD%A2%E6%88%90%E5%90%88%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [中国劳动力平均年龄逼近40岁](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8A%B3%E5%8A%A8%E5%8A%9B%E5%B9%B3%E5%9D%87%E5%B9%B4%E9%BE%84%E9%80%BC%E8%BF%9140%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [老太视频连线普京：鸡蛋价格太高了](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AA%E8%A7%86%E9%A2%91%E8%BF%9E%E7%BA%BF%E6%99%AE%E4%BA%AC%EF%BC%9A%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC%E5%A4%AA%E9%AB%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [场景多样 消费彰显新活力](https://www.baidu.com/s?wd=%E5%9C%BA%E6%99%AF%E5%A4%9A%E6%A0%B7+%E6%B6%88%E8%B4%B9%E5%BD%B0%E6%98%BE%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [习近平收到的这份礼物 寓意很深](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%94%B6%E5%88%B0%E7%9A%84%E8%BF%99%E4%BB%BD%E7%A4%BC%E7%89%A9+%E5%AF%93%E6%84%8F%E5%BE%88%E6%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [确保同向发力、形成合力](https://www.baidu.com/s?wd=%E7%A1%AE%E4%BF%9D%E5%90%8C%E5%90%91%E5%8F%91%E5%8A%9B%E3%80%81%E5%BD%A2%E6%88%90%E5%90%88%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [中国劳动力平均年龄逼近40岁](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8A%B3%E5%8A%A8%E5%8A%9B%E5%B9%B3%E5%9D%87%E5%B9%B4%E9%BE%84%E9%80%BC%E8%BF%9140%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [老太视频连线普京：鸡蛋价格太高了](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AA%E8%A7%86%E9%A2%91%E8%BF%9E%E7%BA%BF%E6%99%AE%E4%BA%AC%EF%BC%9A%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC%E5%A4%AA%E9%AB%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [场景多样 消费彰显新活力](https://www.baidu.com/s?wd=%E5%9C%BA%E6%99%AF%E5%A4%9A%E6%A0%B7+%E6%B6%88%E8%B4%B9%E5%BD%B0%E6%98%BE%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
