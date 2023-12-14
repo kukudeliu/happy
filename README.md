@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 22:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 22:13:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [耐克否认入驻拼多多](https://www.baidu.com/s?wd=%E8%80%90%E5%85%8B%E5%90%A6%E8%AE%A4%E5%85%A5%E9%A9%BB%E6%8B%BC%E5%A4%9A%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [人民网：周海媚病历泄露值得反思](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%EF%BC%9A%E5%91%A8%E6%B5%B7%E5%AA%9A%E7%97%85%E5%8E%86%E6%B3%84%E9%9C%B2%E5%80%BC%E5%BE%97%E5%8F%8D%E6%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国百万粉丝女网红被泰警方传唤](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%B3%B0%E8%AD%A6%E6%96%B9%E4%BC%A0%E5%94%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [雨天开新能源汽车会漏电？](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E8%BE%9F%E8%B0%A3%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [新能源汽车续航短不能跑高速？](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E8%BE%9F%E8%B0%A3%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [耐克否认入驻拼多多](https://www.baidu.com/s?wd=%E8%80%90%E5%85%8B%E5%90%A6%E8%AE%A4%E5%85%A5%E9%A9%BB%E6%8B%BC%E5%A4%9A%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [人民网：周海媚病历泄露值得反思](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%EF%BC%9A%E5%91%A8%E6%B5%B7%E5%AA%9A%E7%97%85%E5%8E%86%E6%B3%84%E9%9C%B2%E5%80%BC%E5%BE%97%E5%8F%8D%E6%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国百万粉丝女网红被泰警方传唤](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%B3%B0%E8%AD%A6%E6%96%B9%E4%BC%A0%E5%94%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [雨天开新能源汽车会漏电？](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E8%BE%9F%E8%B0%A3%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [新能源汽车续航短不能跑高速？](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E8%BE%9F%E8%B0%A3%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
