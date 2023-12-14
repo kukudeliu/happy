@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 19:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 19:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [董明珠怒斥孟羽童](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E6%80%92%E6%96%A5%E5%AD%9F%E7%BE%BD%E7%AB%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [天安门前这一幕是北京最美的雪景](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%89%E9%97%A8%E5%89%8D%E8%BF%99%E4%B8%80%E5%B9%95%E6%98%AF%E5%8C%97%E4%BA%AC%E6%9C%80%E7%BE%8E%E7%9A%84%E9%9B%AA%E6%99%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [董明珠 格局](https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%20%E6%A0%BC%E5%B1%80&t=31&band_rank=8&Refer=top)<br />
-9. [清华大学称已对张培萌进行处分](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%B7%B2%E5%AF%B9%E5%BC%A0%E5%9F%B9%E8%90%8C%E8%BF%9B%E8%A1%8C%E5%A4%84%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [俞敏洪声明](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E5%A3%B0%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
