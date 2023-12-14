@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 00:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 00:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [三岁宝宝在家自己冲奶粉喝](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%9C%A8%E5%AE%B6%E8%87%AA%E5%B7%B1%E5%86%B2%E5%A5%B6%E7%B2%89%E5%96%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [董宇辉 停播](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%20%E5%81%9C%E6%92%AD&t=31&band_rank=7&Refer=top)<br />
 8. [脱轨 眼睛友好](https://s.weibo.com/weibo?q=%E8%84%B1%E8%BD%A8%20%E7%9C%BC%E7%9D%9B%E5%8F%8B%E5%A5%BD&t=31&band_rank=8&Refer=top)<br />
-9. [专家称所有工作的本质就是赚工资](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%89%80%E6%9C%89%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%B0%B1%E6%98%AF%E8%B5%9A%E5%B7%A5%E8%B5%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘诗诗 为一念关山改变慢热](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E4%B8%BA%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E6%94%B9%E5%8F%98%E6%85%A2%E7%83%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [场景多样 消费彰显新活力](https://www.baidu.com/s?wd=%E5%9C%BA%E6%99%AF%E5%A4%9A%E6%A0%B7+%E6%B6%88%E8%B4%B9%E5%BD%B0%E6%98%BE%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [员工患病离世留长文控诉工作环境](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E6%82%A3%E7%97%85%E7%A6%BB%E4%B8%96%E7%95%99%E9%95%BF%E6%96%87%E6%8E%A7%E8%AF%89%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [步行者不满字母哥刷分](https://www.baidu.com/s?wd=%E6%AD%A5%E8%A1%8C%E8%80%85%E4%B8%8D%E6%BB%A1%E5%AD%97%E6%AF%8D%E5%93%A5%E5%88%B7%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [落马国企副总狱中以泪洗面](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%9B%BD%E4%BC%81%E5%89%AF%E6%80%BB%E7%8B%B1%E4%B8%AD%E4%BB%A5%E6%B3%AA%E6%B4%97%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [港府要求公务员“政治中立”](https://www.baidu.com/s?wd=%E6%B8%AF%E5%BA%9C%E8%A6%81%E6%B1%82%E5%85%AC%E5%8A%A1%E5%91%98%E2%80%9C%E6%94%BF%E6%B2%BB%E4%B8%AD%E7%AB%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [字母哥64分](https://www.baidu.com/s?wd=%E5%AD%97%E6%AF%8D%E5%93%A564%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [落马国企副总狱中以泪洗面](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%9B%BD%E4%BC%81%E5%89%AF%E6%80%BB%E7%8B%B1%E4%B8%AD%E4%BB%A5%E6%B3%AA%E6%B4%97%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [首富婚礼警车为其开道系谣言](https://www.baidu.com/s?wd=%E9%A6%96%E5%AF%8C%E5%A9%9A%E7%A4%BC%E8%AD%A6%E8%BD%A6%E4%B8%BA%E5%85%B6%E5%BC%80%E9%81%93%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [场景多样 消费彰显新活力](https://www.baidu.com/s?wd=%E5%9C%BA%E6%99%AF%E5%A4%9A%E6%A0%B7+%E6%B6%88%E8%B4%B9%E5%BD%B0%E6%98%BE%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [员工患病离世留长文控诉工作环境](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E6%82%A3%E7%97%85%E7%A6%BB%E4%B8%96%E7%95%99%E9%95%BF%E6%96%87%E6%8E%A7%E8%AF%89%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [步行者不满字母哥刷分](https://www.baidu.com/s?wd=%E6%AD%A5%E8%A1%8C%E8%80%85%E4%B8%8D%E6%BB%A1%E5%AD%97%E6%AF%8D%E5%93%A5%E5%88%B7%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [落马国企副总狱中以泪洗面](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%9B%BD%E4%BC%81%E5%89%AF%E6%80%BB%E7%8B%B1%E4%B8%AD%E4%BB%A5%E6%B3%AA%E6%B4%97%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [港府要求公务员“政治中立”](https://www.baidu.com/s?wd=%E6%B8%AF%E5%BA%9C%E8%A6%81%E6%B1%82%E5%85%AC%E5%8A%A1%E5%91%98%E2%80%9C%E6%94%BF%E6%B2%BB%E4%B8%AD%E7%AB%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [字母哥64分](https://www.baidu.com/s?wd=%E5%AD%97%E6%AF%8D%E5%93%A564%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [落马国企副总狱中以泪洗面](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%9B%BD%E4%BC%81%E5%89%AF%E6%80%BB%E7%8B%B1%E4%B8%AD%E4%BB%A5%E6%B3%AA%E6%B4%97%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [首富婚礼警车为其开道系谣言](https://www.baidu.com/s?wd=%E9%A6%96%E5%AF%8C%E5%A9%9A%E7%A4%BC%E8%AD%A6%E8%BD%A6%E4%B8%BA%E5%85%B6%E5%BC%80%E9%81%93%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
