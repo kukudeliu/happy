@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 00:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 00:30:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [场景多样 消费彰显新活力](https://www.baidu.com/s?wd=%E5%9C%BA%E6%99%AF%E5%A4%9A%E6%A0%B7+%E6%B6%88%E8%B4%B9%E5%BD%B0%E6%98%BE%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [员工患病离世留长文控诉工作环境](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E6%82%A3%E7%97%85%E7%A6%BB%E4%B8%96%E7%95%99%E9%95%BF%E6%96%87%E6%8E%A7%E8%AF%89%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [北京首套房首付比例降至3成](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%A6%96%E5%A5%97%E6%88%BF%E9%A6%96%E4%BB%98%E6%AF%94%E4%BE%8B%E9%99%8D%E8%87%B33%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小伙刮中100万拔腿就跑了](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%88%AE%E4%B8%AD100%E4%B8%87%E6%8B%94%E8%85%BF%E5%B0%B1%E8%B7%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广州一大学生校内突发疾病死亡](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [普京称俄每天有1500人成为志愿兵](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%BF%84%E6%AF%8F%E5%A4%A9%E6%9C%891500%E4%BA%BA%E6%88%90%E4%B8%BA%E5%BF%97%E6%84%BF%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小伙刮中100万拔腿就跑了](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%88%AE%E4%B8%AD100%E4%B8%87%E6%8B%94%E8%85%BF%E5%B0%B1%E8%B7%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [首富婚礼警车为其开道系谣言](https://www.baidu.com/s?wd=%E9%A6%96%E5%AF%8C%E5%A9%9A%E7%A4%BC%E8%AD%A6%E8%BD%A6%E4%B8%BA%E5%85%B6%E5%BC%80%E9%81%93%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [场景多样 消费彰显新活力](https://www.baidu.com/s?wd=%E5%9C%BA%E6%99%AF%E5%A4%9A%E6%A0%B7+%E6%B6%88%E8%B4%B9%E5%BD%B0%E6%98%BE%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [员工患病离世留长文控诉工作环境](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E6%82%A3%E7%97%85%E7%A6%BB%E4%B8%96%E7%95%99%E9%95%BF%E6%96%87%E6%8E%A7%E8%AF%89%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [北京首套房首付比例降至3成](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%A6%96%E5%A5%97%E6%88%BF%E9%A6%96%E4%BB%98%E6%AF%94%E4%BE%8B%E9%99%8D%E8%87%B33%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [小伙刮中100万拔腿就跑了](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%88%AE%E4%B8%AD100%E4%B8%87%E6%8B%94%E8%85%BF%E5%B0%B1%E8%B7%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广州一大学生校内突发疾病死亡](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [普京称俄每天有1500人成为志愿兵](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%BF%84%E6%AF%8F%E5%A4%A9%E6%9C%891500%E4%BA%BA%E6%88%90%E4%B8%BA%E5%BF%97%E6%84%BF%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小伙刮中100万拔腿就跑了](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%88%AE%E4%B8%AD100%E4%B8%87%E6%8B%94%E8%85%BF%E5%B0%B1%E8%B7%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [首富婚礼警车为其开道系谣言](https://www.baidu.com/s?wd=%E9%A6%96%E5%AF%8C%E5%A9%9A%E7%A4%BC%E8%AD%A6%E8%BD%A6%E4%B8%BA%E5%85%B6%E5%BC%80%E9%81%93%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
