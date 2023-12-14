@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 22:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 22:39:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [员工患病离世留长文控诉工作环境](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E6%82%A3%E7%97%85%E7%A6%BB%E4%B8%96%E7%95%99%E9%95%BF%E6%96%87%E6%8E%A7%E8%AF%89%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东方甄选已建立直播矩阵](https://www.baidu.com/s?wd=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%B7%B2%E5%BB%BA%E7%AB%8B%E7%9B%B4%E6%92%AD%E7%9F%A9%E9%98%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [百元“千禧龙钞”涨至1700元](https://www.baidu.com/s?wd=%E7%99%BE%E5%85%83%E2%80%9C%E5%8D%83%E7%A6%A7%E9%BE%99%E9%92%9E%E2%80%9D%E6%B6%A8%E8%87%B31700%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [董宇辉或遭遇期权清零](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E6%88%96%E9%81%AD%E9%81%87%E6%9C%9F%E6%9D%83%E6%B8%85%E9%9B%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [东方甄选CEO道歉](https://www.baidu.com/s?wd=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89CEO%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [首富婚礼警车为其开道系谣言](https://www.baidu.com/s?wd=%E9%A6%96%E5%AF%8C%E5%A9%9A%E7%A4%BC%E8%AD%A6%E8%BD%A6%E4%B8%BA%E5%85%B6%E5%BC%80%E9%81%93%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [员工患病离世留长文控诉工作环境](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E6%82%A3%E7%97%85%E7%A6%BB%E4%B8%96%E7%95%99%E9%95%BF%E6%96%87%E6%8E%A7%E8%AF%89%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东方甄选已建立直播矩阵](https://www.baidu.com/s?wd=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%B7%B2%E5%BB%BA%E7%AB%8B%E7%9B%B4%E6%92%AD%E7%9F%A9%E9%98%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [百元“千禧龙钞”涨至1700元](https://www.baidu.com/s?wd=%E7%99%BE%E5%85%83%E2%80%9C%E5%8D%83%E7%A6%A7%E9%BE%99%E9%92%9E%E2%80%9D%E6%B6%A8%E8%87%B31700%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [董宇辉或遭遇期权清零](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E6%88%96%E9%81%AD%E9%81%87%E6%9C%9F%E6%9D%83%E6%B8%85%E9%9B%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [东方甄选CEO道歉](https://www.baidu.com/s?wd=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89CEO%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [首富婚礼警车为其开道系谣言](https://www.baidu.com/s?wd=%E9%A6%96%E5%AF%8C%E5%A9%9A%E7%A4%BC%E8%AD%A6%E8%BD%A6%E4%B8%BA%E5%85%B6%E5%BC%80%E9%81%93%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
