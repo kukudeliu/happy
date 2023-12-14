@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 11:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 11:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [1人泄露周海媚病历被行拘](https://s.weibo.com/weibo?q=%231%E4%BA%BA%E6%B3%84%E9%9C%B2%E5%91%A8%E6%B5%B7%E5%AA%9A%E7%97%85%E5%8E%86%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [东方甄选 内讧](https://s.weibo.com/weibo?q=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%20%E5%86%85%E8%AE%A7&t=31&band_rank=7&Refer=top)<br />
 8. [原来爱情公寓这么前卫](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E8%BF%99%E4%B9%88%E5%89%8D%E5%8D%AB&t=31&band_rank=8&Refer=top)<br />
-9. [神隐 穿帮](https://s.weibo.com/weibo?q=%E7%A5%9E%E9%9A%90%20%E7%A9%BF%E5%B8%AE&t=31&band_rank=9&Refer=top)<br />
+9. [黑执事 恶魔也吃胖了](https://s.weibo.com/weibo?q=%E9%BB%91%E6%89%A7%E4%BA%8B%20%E6%81%B6%E9%AD%94%E4%B9%9F%E5%90%83%E8%83%96%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
