@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 13:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 13:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [1人泄露周海媚病历被行拘](https://s.weibo.com/weibo?q=%231%E4%BA%BA%E6%B3%84%E9%9C%B2%E5%91%A8%E6%B5%B7%E5%AA%9A%E7%97%85%E5%8E%86%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [董宇辉改签名](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E6%94%B9%E7%AD%BE%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [准考证提醒考生6小时专业课带干粮](https://s.weibo.com/weibo?q=%23%E5%87%86%E8%80%83%E8%AF%81%E6%8F%90%E9%86%92%E8%80%83%E7%94%9F6%E5%B0%8F%E6%97%B6%E4%B8%93%E4%B8%9A%E8%AF%BE%E5%B8%A6%E5%B9%B2%E7%B2%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [东方甄选 内讧](https://s.weibo.com/weibo?q=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%20%E5%86%85%E8%AE%A7&t=31&band_rank=9&Refer=top)<br />
+9. [东方甄选小作文](https://s.weibo.com/weibo?q=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%B0%8F%E4%BD%9C%E6%96%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
