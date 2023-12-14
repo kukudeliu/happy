@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 15:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 15:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子小料加太多遭店家辱骂追打](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B0%8F%E6%96%99%E5%8A%A0%E5%A4%AA%E5%A4%9A%E9%81%AD%E5%BA%97%E5%AE%B6%E8%BE%B1%E9%AA%82%E8%BF%BD%E6%89%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [董宇辉不方便回应东方甄选二选一](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E4%B8%8D%E6%96%B9%E4%BE%BF%E5%9B%9E%E5%BA%94%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E4%BA%8C%E9%80%89%E4%B8%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [1人泄露周海媚病历被行拘](https://s.weibo.com/weibo?q=%231%E4%BA%BA%E6%B3%84%E9%9C%B2%E5%91%A8%E6%B5%B7%E5%AA%9A%E7%97%85%E5%8E%86%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [司机 没有一条差评是无辜的](https://s.weibo.com/weibo?q=%E5%8F%B8%E6%9C%BA%20%E6%B2%A1%E6%9C%89%E4%B8%80%E6%9D%A1%E5%B7%AE%E8%AF%84%E6%98%AF%E6%97%A0%E8%BE%9C%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+9. [易烊千玺进组酱园弄](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%BF%9B%E7%BB%84%E9%85%B1%E5%9B%AD%E5%BC%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
