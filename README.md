@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 10:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 10:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [1人泄露周海媚病历被行拘](https://s.weibo.com/weibo?q=%231%E4%BA%BA%E6%B3%84%E9%9C%B2%E5%91%A8%E6%B5%B7%E5%AA%9A%E7%97%85%E5%8E%86%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [母亲去世前一晚还给睡着的儿子盖被子](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%E5%89%8D%E4%B8%80%E6%99%9A%E8%BF%98%E7%BB%99%E7%9D%A1%E7%9D%80%E7%9A%84%E5%84%BF%E5%AD%90%E7%9B%96%E8%A2%AB%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [重庆地震](https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top)<br />
-9. [一图详解中央经济工作会议](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E8%AF%A6%E8%A7%A3%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [我是p人不是脏人](https://s.weibo.com/weibo?q=%E6%88%91%E6%98%AFp%E4%BA%BA%E4%B8%8D%E6%98%AF%E8%84%8F%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
