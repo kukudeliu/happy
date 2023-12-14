@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 08:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 08:40:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [以国之名悼我同胞](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%9B%BD%E4%B9%8B%E5%90%8D%E6%82%BC%E6%88%91%E5%90%8C%E8%83%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [女子称应聘时问过年是否放假被HR辱骂](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%BA%94%E8%81%98%E6%97%B6%E9%97%AE%E8%BF%87%E5%B9%B4%E6%98%AF%E5%90%A6%E6%94%BE%E5%81%87%E8%A2%ABHR%E8%BE%B1%E9%AA%82%23&t=31&band_rank=4&Refer=top)<br />
 5. [董宇辉 文案创作](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%20%E6%96%87%E6%A1%88%E5%88%9B%E4%BD%9C&t=31&band_rank=5&Refer=top)<br />
-6. [为什么缝补时用针在头皮划一下](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BC%9D%E8%A1%A5%E6%97%B6%E7%94%A8%E9%92%88%E5%9C%A8%E5%A4%B4%E7%9A%AE%E5%88%92%E4%B8%80%E4%B8%8B&t=31&band_rank=6&Refer=top)<br />
-7. [原来爱情公寓这么前卫](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E8%BF%99%E4%B9%88%E5%89%8D%E5%8D%AB&t=31&band_rank=7&Refer=top)<br />
+6. [原来爱情公寓这么前卫](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E8%BF%99%E4%B9%88%E5%89%8D%E5%8D%AB&t=31&band_rank=6&Refer=top)<br />
+7. [为什么缝补时用针在头皮划一下](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BC%9D%E8%A1%A5%E6%97%B6%E7%94%A8%E9%92%88%E5%9C%A8%E5%A4%B4%E7%9A%AE%E5%88%92%E4%B8%80%E4%B8%8B&t=31&band_rank=7&Refer=top)<br />
 8. [美众议院决定对拜登展开弹劾调查](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E5%86%B3%E5%AE%9A%E5%AF%B9%E6%8B%9C%E7%99%BB%E5%B1%95%E5%BC%80%E5%BC%B9%E5%8A%BE%E8%B0%83%E6%9F%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [盒马总部IP地址被山姆APP屏蔽](https://s.weibo.com/weibo?q=%23%E7%9B%92%E9%A9%AC%E6%80%BB%E9%83%A8IP%E5%9C%B0%E5%9D%80%E8%A2%AB%E5%B1%B1%E5%A7%86APP%E5%B1%8F%E8%94%BD%23&t=31&band_rank=9&Refer=top)<br />
 
