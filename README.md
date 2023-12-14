@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 17:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 17:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [俞敏洪声明](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E5%A3%B0%E6%98%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [张若昀 是我不要脸了](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%20%E6%98%AF%E6%88%91%E4%B8%8D%E8%A6%81%E8%84%B8%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [人民网评周海媚病历被泄露](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%91%A8%E6%B5%B7%E5%AA%9A%E7%97%85%E5%8E%86%E8%A2%AB%E6%B3%84%E9%9C%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [文俊辉 请拍鬼怪](https://s.weibo.com/weibo?q=%E6%96%87%E4%BF%8A%E8%BE%89%20%E8%AF%B7%E6%8B%8D%E9%AC%BC%E6%80%AA&t=31&band_rank=9&Refer=top)<br />
+9. [周末补觉危害比熬夜还大](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9C%AB%E8%A1%A5%E8%A7%89%E5%8D%B1%E5%AE%B3%E6%AF%94%E7%86%AC%E5%A4%9C%E8%BF%98%E5%A4%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
