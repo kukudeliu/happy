@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 20:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 20:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [董宇辉 孟羽童](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%20%E5%AD%9F%E7%BE%BD%E7%AB%A5&t=31&band_rank=6&Refer=top)<br />
 7. [脱轨](https://s.weibo.com/weibo?q=%E8%84%B1%E8%BD%A8&t=31&band_rank=7&Refer=top)<br />
 8. [仙侠剧也逃不了考公](https://s.weibo.com/weibo?q=%E4%BB%99%E4%BE%A0%E5%89%A7%E4%B9%9F%E9%80%83%E4%B8%8D%E4%BA%86%E8%80%83%E5%85%AC&t=31&band_rank=8&Refer=top)<br />
-9. [董明珠怒斥孟羽童](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E6%80%92%E6%96%A5%E5%AD%9F%E7%BE%BD%E7%AB%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [董宇辉小作文](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%E5%B0%8F%E4%BD%9C%E6%96%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
