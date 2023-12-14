@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 22:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 22:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [这可是杜冰雁啊](https://s.weibo.com/weibo?q=%E8%BF%99%E5%8F%AF%E6%98%AF%E6%9D%9C%E5%86%B0%E9%9B%81%E5%95%8A&t=31&band_rank=6&Refer=top)<br />
 7. [董宇辉 现实版新闻女王](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%20%E7%8E%B0%E5%AE%9E%E7%89%88%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B&t=31&band_rank=7&Refer=top)<br />
 8. [仙侠剧也逃不了考公](https://s.weibo.com/weibo?q=%E4%BB%99%E4%BE%A0%E5%89%A7%E4%B9%9F%E9%80%83%E4%B8%8D%E4%BA%86%E8%80%83%E5%85%AC&t=31&band_rank=8&Refer=top)<br />
-9. [北京中小学生15日继续居家学习](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F15%E6%97%A5%E7%BB%A7%E7%BB%AD%E5%B1%85%E5%AE%B6%E5%AD%A6%E4%B9%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [专家称所有工作的本质就是赚工资](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%89%80%E6%9C%89%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%B0%B1%E6%98%AF%E8%B5%9A%E5%B7%A5%E8%B5%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
