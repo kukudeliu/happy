@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 01:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 01:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [三岁宝宝在家自己冲奶粉喝](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%9C%A8%E5%AE%B6%E8%87%AA%E5%B7%B1%E5%86%B2%E5%A5%B6%E7%B2%89%E5%96%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [董宇辉 停播](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%20%E5%81%9C%E6%92%AD&t=31&band_rank=7&Refer=top)<br />
 8. [脱轨 眼睛友好](https://s.weibo.com/weibo?q=%E8%84%B1%E8%BD%A8%20%E7%9C%BC%E7%9D%9B%E5%8F%8B%E5%A5%BD&t=31&band_rank=8&Refer=top)<br />
-9. [专家称所有工作的本质就是赚工资](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%89%80%E6%9C%89%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%B0%B1%E6%98%AF%E8%B5%9A%E5%B7%A5%E8%B5%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [专家称3000点之下可能一去不复返](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B03000%E7%82%B9%E4%B9%8B%E4%B8%8B%E5%8F%AF%E8%83%BD%E4%B8%80%E5%8E%BB%E4%B8%8D%E5%A4%8D%E8%BF%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
