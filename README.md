@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 01:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 01:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [三岁宝宝在家自己冲奶粉喝](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%9C%A8%E5%AE%B6%E8%87%AA%E5%B7%B1%E5%86%B2%E5%A5%B6%E7%B2%89%E5%96%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [董宇辉 停播](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%20%E5%81%9C%E6%92%AD&t=31&band_rank=7&Refer=top)<br />
 8. [脱轨 眼睛友好](https://s.weibo.com/weibo?q=%E8%84%B1%E8%BD%A8%20%E7%9C%BC%E7%9D%9B%E5%8F%8B%E5%A5%BD&t=31&band_rank=8&Refer=top)<br />
-9. [考试玄学 信则有](https://s.weibo.com/weibo?q=%E8%80%83%E8%AF%95%E7%8E%84%E5%AD%A6%20%E4%BF%A1%E5%88%99%E6%9C%89&t=31&band_rank=9&Refer=top)<br />
+9. [专家称所有工作的本质就是赚工资](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%89%80%E6%9C%89%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%B0%B1%E6%98%AF%E8%B5%9A%E5%B7%A5%E8%B5%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [场景多样 消费彰显新活力](https://www.baidu.com/s?wd=%E5%9C%BA%E6%99%AF%E5%A4%9A%E6%A0%B7+%E6%B6%88%E8%B4%B9%E5%BD%B0%E6%98%BE%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [员工患病离世留长文控诉工作环境](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E6%82%A3%E7%97%85%E7%A6%BB%E4%B8%96%E7%95%99%E9%95%BF%E6%96%87%E6%8E%A7%E8%AF%89%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [北京首套房首付比例降至3成](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%A6%96%E5%A5%97%E6%88%BF%E9%A6%96%E4%BB%98%E6%AF%94%E4%BE%8B%E9%99%8D%E8%87%B33%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [郑州一医院虚设病区套取医保600万](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E4%B8%80%E5%8C%BB%E9%99%A2%E8%99%9A%E8%AE%BE%E7%97%85%E5%8C%BA%E5%A5%97%E5%8F%96%E5%8C%BB%E4%BF%9D600%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [陕西文旅厅：尊重董宇辉个人选择](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E6%96%87%E6%97%85%E5%8E%85%EF%BC%9A%E5%B0%8A%E9%87%8D%E8%91%A3%E5%AE%87%E8%BE%89%E4%B8%AA%E4%BA%BA%E9%80%89%E6%8B%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [陕西文旅厅：尊重董宇辉个人选择](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E6%96%87%E6%97%85%E5%8E%85%EF%BC%9A%E5%B0%8A%E9%87%8D%E8%91%A3%E5%AE%87%E8%BE%89%E4%B8%AA%E4%BA%BA%E9%80%89%E6%8B%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [郑州一医院虚设病区套取医保600万](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E4%B8%80%E5%8C%BB%E9%99%A2%E8%99%9A%E8%AE%BE%E7%97%85%E5%8C%BA%E5%A5%97%E5%8F%96%E5%8C%BB%E4%BF%9D600%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [首富婚礼警车为其开道系谣言](https://www.baidu.com/s?wd=%E9%A6%96%E5%AF%8C%E5%A9%9A%E7%A4%BC%E8%AD%A6%E8%BD%A6%E4%B8%BA%E5%85%B6%E5%BC%80%E9%81%93%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [场景多样 消费彰显新活力](https://www.baidu.com/s?wd=%E5%9C%BA%E6%99%AF%E5%A4%9A%E6%A0%B7+%E6%B6%88%E8%B4%B9%E5%BD%B0%E6%98%BE%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [员工患病离世留长文控诉工作环境](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E6%82%A3%E7%97%85%E7%A6%BB%E4%B8%96%E7%95%99%E9%95%BF%E6%96%87%E6%8E%A7%E8%AF%89%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [北京首套房首付比例降至3成](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%A6%96%E5%A5%97%E6%88%BF%E9%A6%96%E4%BB%98%E6%AF%94%E4%BE%8B%E9%99%8D%E8%87%B33%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [郑州一医院虚设病区套取医保600万](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E4%B8%80%E5%8C%BB%E9%99%A2%E8%99%9A%E8%AE%BE%E7%97%85%E5%8C%BA%E5%A5%97%E5%8F%96%E5%8C%BB%E4%BF%9D600%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [陕西文旅厅：尊重董宇辉个人选择](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E6%96%87%E6%97%85%E5%8E%85%EF%BC%9A%E5%B0%8A%E9%87%8D%E8%91%A3%E5%AE%87%E8%BE%89%E4%B8%AA%E4%BA%BA%E9%80%89%E6%8B%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [陕西文旅厅：尊重董宇辉个人选择](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E6%96%87%E6%97%85%E5%8E%85%EF%BC%9A%E5%B0%8A%E9%87%8D%E8%91%A3%E5%AE%87%E8%BE%89%E4%B8%AA%E4%BA%BA%E9%80%89%E6%8B%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [郑州一医院虚设病区套取医保600万](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E4%B8%80%E5%8C%BB%E9%99%A2%E8%99%9A%E8%AE%BE%E7%97%85%E5%8C%BA%E5%A5%97%E5%8F%96%E5%8C%BB%E4%BF%9D600%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [首富婚礼警车为其开道系谣言](https://www.baidu.com/s?wd=%E9%A6%96%E5%AF%8C%E5%A9%9A%E7%A4%BC%E8%AD%A6%E8%BD%A6%E4%B8%BA%E5%85%B6%E5%BC%80%E9%81%93%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
