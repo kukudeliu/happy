@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 21:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 21:58:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [这可是杜冰雁啊](https://s.weibo.com/weibo?q=%E8%BF%99%E5%8F%AF%E6%98%AF%E6%9D%9C%E5%86%B0%E9%9B%81%E5%95%8A&t=31&band_rank=6&Refer=top)<br />
 7. [董宇辉 现实版新闻女王](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%20%E7%8E%B0%E5%AE%9E%E7%89%88%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B&t=31&band_rank=7&Refer=top)<br />
 8. [仙侠剧也逃不了考公](https://s.weibo.com/weibo?q=%E4%BB%99%E4%BE%A0%E5%89%A7%E4%B9%9F%E9%80%83%E4%B8%8D%E4%BA%86%E8%80%83%E5%85%AC&t=31&band_rank=8&Refer=top)<br />
-9. [vivoS18发布会](https://s.weibo.com/weibo?q=%23vivoS18%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [北京中小学生15日继续居家学习](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F15%E6%97%A5%E7%BB%A7%E7%BB%AD%E5%B1%85%E5%AE%B6%E5%AD%A6%E4%B9%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
