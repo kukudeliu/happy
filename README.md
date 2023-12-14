@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 14:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 14:53:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [2023温暖后续](https://s.weibo.com/weibo?q=%232023%E6%B8%A9%E6%9A%96%E5%90%8E%E7%BB%AD%23&t=31&band_rank=3&Refer=top)<br />
 4. [司机 没有一条差评是无辜的](https://s.weibo.com/weibo?q=%E5%8F%B8%E6%9C%BA%20%E6%B2%A1%E6%9C%89%E4%B8%80%E6%9D%A1%E5%B7%AE%E8%AF%84%E6%98%AF%E6%97%A0%E8%BE%9C%E7%9A%84&t=31&band_rank=4&Refer=top)<br />
 5. [东方小孙](https://s.weibo.com/weibo?q=%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%99&t=31&band_rank=5&Refer=top)<br />
-6. [1人泄露周海媚病历被行拘](https://s.weibo.com/weibo?q=%231%E4%BA%BA%E6%B3%84%E9%9C%B2%E5%91%A8%E6%B5%B7%E5%AA%9A%E7%97%85%E5%8E%86%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=6&Refer=top)<br />
-7. [男子小料加太多遭店家辱骂追打](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B0%8F%E6%96%99%E5%8A%A0%E5%A4%AA%E5%A4%9A%E9%81%AD%E5%BA%97%E5%AE%B6%E8%BE%B1%E9%AA%82%E8%BF%BD%E6%89%93%23&t=31&band_rank=7&Refer=top)<br />
+6. [男子小料加太多遭店家辱骂追打](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B0%8F%E6%96%99%E5%8A%A0%E5%A4%AA%E5%A4%9A%E9%81%AD%E5%BA%97%E5%AE%B6%E8%BE%B1%E9%AA%82%E8%BF%BD%E6%89%93%23&t=31&band_rank=6&Refer=top)<br />
+7. [1人泄露周海媚病历被行拘](https://s.weibo.com/weibo?q=%231%E4%BA%BA%E6%B3%84%E9%9C%B2%E5%91%A8%E6%B5%B7%E5%AA%9A%E7%97%85%E5%8E%86%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [张杰个人首个跨年IP官宣](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E4%B8%AA%E4%BA%BA%E9%A6%96%E4%B8%AA%E8%B7%A8%E5%B9%B4IP%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
 9. [东方甄选小编 职业精神](https://s.weibo.com/weibo?q=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%B0%8F%E7%BC%96%20%E8%81%8C%E4%B8%9A%E7%B2%BE%E7%A5%9E&t=31&band_rank=9&Refer=top)<br />
 
