@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 22:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 22:02:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [普京称俄每天有1500人成为志愿兵](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%BF%84%E6%AF%8F%E5%A4%A9%E6%9C%891500%E4%BA%BA%E6%88%90%E4%B8%BA%E5%BF%97%E6%84%BF%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国百万粉丝女网红被泰警方传唤](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%B3%B0%E8%AD%A6%E6%96%B9%E4%BC%A0%E5%94%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [广州一大学生校内突发疾病死亡](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [新能源汽车在雨天不能充电？](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E8%BE%9F%E8%B0%A3%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [雨天开新能源汽车会漏电？](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E8%BE%9F%E8%B0%A3%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [普京称俄每天有1500人成为志愿兵](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%BF%84%E6%AF%8F%E5%A4%A9%E6%9C%891500%E4%BA%BA%E6%88%90%E4%B8%BA%E5%BF%97%E6%84%BF%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国百万粉丝女网红被泰警方传唤](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%B3%B0%E8%AD%A6%E6%96%B9%E4%BC%A0%E5%94%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [广州一大学生校内突发疾病死亡](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [新能源汽车在雨天不能充电？](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E8%BE%9F%E8%B0%A3%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [雨天开新能源汽车会漏电？](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E8%BE%9F%E8%B0%A3%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
