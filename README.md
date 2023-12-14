@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 07:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 07:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵露思叫王安宇男妈妈](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%8F%AB%E7%8E%8B%E5%AE%89%E5%AE%87%E7%94%B7%E5%A6%88%E5%A6%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [董宇辉 孟羽童](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%20%E5%AD%9F%E7%BE%BD%E7%AB%A5&t=31&band_rank=7&Refer=top)<br />
 8. [刘诗诗 为一念关山改变慢热](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E4%B8%BA%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E6%94%B9%E5%8F%98%E6%85%A2%E7%83%AD&t=31&band_rank=8&Refer=top)<br />
-9. [专家称3000点之下可能一去不复返](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B03000%E7%82%B9%E4%B9%8B%E4%B8%8B%E5%8F%AF%E8%83%BD%E4%B8%80%E5%8E%BB%E4%B8%8D%E5%A4%8D%E8%BF%94%23&t=31&band_rank=9&Refer=top)<br />
+9. [高途CEO回应与新东方竞争](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%94CEO%E5%9B%9E%E5%BA%94%E4%B8%8E%E6%96%B0%E4%B8%9C%E6%96%B9%E7%AB%9E%E4%BA%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
