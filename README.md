@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 18:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 18:28:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [董宇辉真实年薪不足千万](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E7%9C%9F%E5%AE%9E%E5%B9%B4%E8%96%AA%E4%B8%8D%E8%B6%B3%E5%8D%83%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [俞敏洪声明](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E5%A3%B0%E6%98%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [酱园弄声明](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%E5%A3%B0%E6%98%8E&t=31&band_rank=8&Refer=top)<br />
-9. [薛之谦 抢不到根本抢不到](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E6%8A%A2%E4%B8%8D%E5%88%B0%E6%A0%B9%E6%9C%AC%E6%8A%A2%E4%B8%8D%E5%88%B0&t=31&band_rank=9&Refer=top)<br />
+9. [萌兰倒立比心太会了](https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%85%B0%E5%80%92%E7%AB%8B%E6%AF%94%E5%BF%83%E5%A4%AA%E4%BC%9A%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
