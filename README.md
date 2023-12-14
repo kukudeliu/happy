@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 21:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 21:12:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [步行者不满字母哥刷分](https://www.baidu.com/s?wd=%E6%AD%A5%E8%A1%8C%E8%80%85%E4%B8%8D%E6%BB%A1%E5%AD%97%E6%AF%8D%E5%93%A5%E5%88%B7%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [百元“千禧龙钞”涨至1700元](https://www.baidu.com/s?wd=%E7%99%BE%E5%85%83%E2%80%9C%E5%8D%83%E7%A6%A7%E9%BE%99%E9%92%9E%E2%80%9D%E6%B6%A8%E8%87%B31700%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [一起来看双子座流星雨](https://www.baidu.com/s?wd=%E4%B8%80%E8%B5%B7%E6%9D%A5%E7%9C%8B%E5%8F%8C%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [新能源汽车发展前景有限？](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E8%BE%9F%E8%B0%A3%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [“快充”对新能源汽车电池损害大?](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E8%BE%9F%E8%B0%A3%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [步行者不满字母哥刷分](https://www.baidu.com/s?wd=%E6%AD%A5%E8%A1%8C%E8%80%85%E4%B8%8D%E6%BB%A1%E5%AD%97%E6%AF%8D%E5%93%A5%E5%88%B7%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [百元“千禧龙钞”涨至1700元](https://www.baidu.com/s?wd=%E7%99%BE%E5%85%83%E2%80%9C%E5%8D%83%E7%A6%A7%E9%BE%99%E9%92%9E%E2%80%9D%E6%B6%A8%E8%87%B31700%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [一起来看双子座流星雨](https://www.baidu.com/s?wd=%E4%B8%80%E8%B5%B7%E6%9D%A5%E7%9C%8B%E5%8F%8C%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [新能源汽车发展前景有限？](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E8%BE%9F%E8%B0%A3%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [“快充”对新能源汽车电池损害大?](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E8%BE%9F%E8%B0%A3%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
