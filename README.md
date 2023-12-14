@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 07:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 07:58:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [学校花1500万买下空客A320给学生练手](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E8%8A%B11500%E4%B8%87%E4%B9%B0%E4%B8%8B%E7%A9%BA%E5%AE%A2A320%E7%BB%99%E5%AD%A6%E7%94%9F%E7%BB%83%E6%89%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [专家称所有工作的本质就是赚工资](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%89%80%E6%9C%89%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%B0%B1%E6%98%AF%E8%B5%9A%E5%B7%A5%E8%B5%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [董宇辉 孟羽童](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%20%E5%AD%9F%E7%BE%BD%E7%AB%A5&t=31&band_rank=7&Refer=top)<br />
-8. [赵露思叫王安宇男妈妈](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%8F%AB%E7%8E%8B%E5%AE%89%E5%AE%87%E7%94%B7%E5%A6%88%E5%A6%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [杭州你这样让其他兄弟省份很难做啊](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BD%A0%E8%BF%99%E6%A0%B7%E8%AE%A9%E5%85%B6%E4%BB%96%E5%85%84%E5%BC%9F%E7%9C%81%E4%BB%BD%E5%BE%88%E9%9A%BE%E5%81%9A%E5%95%8A%23&t=31&band_rank=9&Refer=top)<br />
+8. [杭州你这样让其他兄弟省份很难做啊](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BD%A0%E8%BF%99%E6%A0%B7%E8%AE%A9%E5%85%B6%E4%BB%96%E5%85%84%E5%BC%9F%E7%9C%81%E4%BB%BD%E5%BE%88%E9%9A%BE%E5%81%9A%E5%95%8A%23&t=31&band_rank=8&Refer=top)<br />
+9. [赵露思叫王安宇男妈妈](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%8F%AB%E7%8E%8B%E5%AE%89%E5%AE%87%E7%94%B7%E5%A6%88%E5%A6%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
