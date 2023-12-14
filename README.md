@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 09:16:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 09:17:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [原来爱情公寓这么前卫](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E8%BF%99%E4%B9%88%E5%89%8D%E5%8D%AB&t=31&band_rank=6&Refer=top)<br />
 7. [女子称应聘时问过年是否放假被HR辱骂](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%BA%94%E8%81%98%E6%97%B6%E9%97%AE%E8%BF%87%E5%B9%B4%E6%98%AF%E5%90%A6%E6%94%BE%E5%81%87%E8%A2%ABHR%E8%BE%B1%E9%AA%82%23&t=31&band_rank=7&Refer=top)<br />
 8. [董宇辉 文案创作](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%20%E6%96%87%E6%A1%88%E5%88%9B%E4%BD%9C&t=31&band_rank=8&Refer=top)<br />
-9. [为什么缝补时用针在头皮划一下](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BC%9D%E8%A1%A5%E6%97%B6%E7%94%A8%E9%92%88%E5%9C%A8%E5%A4%B4%E7%9A%AE%E5%88%92%E4%B8%80%E4%B8%8B&t=31&band_rank=9&Refer=top)<br />
+9. [他竟然是真的想教会我](https://s.weibo.com/weibo?q=%E4%BB%96%E7%AB%9F%E7%84%B6%E6%98%AF%E7%9C%9F%E7%9A%84%E6%83%B3%E6%95%99%E4%BC%9A%E6%88%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
