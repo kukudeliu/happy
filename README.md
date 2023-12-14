@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 22:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-14 22:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [员工患病离世留长文控诉工作环境](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E6%82%A3%E7%97%85%E7%A6%BB%E4%B8%96%E7%95%99%E9%95%BF%E6%96%87%E6%8E%A7%E8%AF%89%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江苏一企业规定员工须10分钟内如厕](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E4%BC%81%E4%B8%9A%E8%A7%84%E5%AE%9A%E5%91%98%E5%B7%A5%E9%A1%BB10%E5%88%86%E9%92%9F%E5%86%85%E5%A6%82%E5%8E%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老太视频连线普京：鸡蛋价格太高了](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AA%E8%A7%86%E9%A2%91%E8%BF%9E%E7%BA%BF%E6%99%AE%E4%BA%AC%EF%BC%9A%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC%E5%A4%AA%E9%AB%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [百元“千禧龙钞”涨至1700元](https://www.baidu.com/s?wd=%E7%99%BE%E5%85%83%E2%80%9C%E5%8D%83%E7%A6%A7%E9%BE%99%E9%92%9E%E2%80%9D%E6%B6%A8%E8%87%B31700%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上海调整本市普通住房标准](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%B0%83%E6%95%B4%E6%9C%AC%E5%B8%82%E6%99%AE%E9%80%9A%E4%BD%8F%E6%88%BF%E6%A0%87%E5%87%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [首富婚礼警车为其开道系谣言](https://www.baidu.com/s?wd=%E9%A6%96%E5%AF%8C%E5%A9%9A%E7%A4%BC%E8%AD%A6%E8%BD%A6%E4%B8%BA%E5%85%B6%E5%BC%80%E9%81%93%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [员工患病离世留长文控诉工作环境](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E6%82%A3%E7%97%85%E7%A6%BB%E4%B8%96%E7%95%99%E9%95%BF%E6%96%87%E6%8E%A7%E8%AF%89%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江苏一企业规定员工须10分钟内如厕](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E4%BC%81%E4%B8%9A%E8%A7%84%E5%AE%9A%E5%91%98%E5%B7%A5%E9%A1%BB10%E5%88%86%E9%92%9F%E5%86%85%E5%A6%82%E5%8E%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老太视频连线普京：鸡蛋价格太高了](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AA%E8%A7%86%E9%A2%91%E8%BF%9E%E7%BA%BF%E6%99%AE%E4%BA%AC%EF%BC%9A%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC%E5%A4%AA%E9%AB%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [百元“千禧龙钞”涨至1700元](https://www.baidu.com/s?wd=%E7%99%BE%E5%85%83%E2%80%9C%E5%8D%83%E7%A6%A7%E9%BE%99%E9%92%9E%E2%80%9D%E6%B6%A8%E8%87%B31700%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上海调整本市普通住房标准](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%B0%83%E6%95%B4%E6%9C%AC%E5%B8%82%E6%99%AE%E9%80%9A%E4%BD%8F%E6%88%BF%E6%A0%87%E5%87%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [首富婚礼警车为其开道系谣言](https://www.baidu.com/s?wd=%E9%A6%96%E5%AF%8C%E5%A9%9A%E7%A4%BC%E8%AD%A6%E8%BD%A6%E4%B8%BA%E5%85%B6%E5%BC%80%E9%81%93%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
