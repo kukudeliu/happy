@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 10:35:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 10:36:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [有文科生博主欲起诉张雪峰](https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%96%87%E7%A7%91%E7%94%9F%E5%8D%9A%E4%B8%BB%E6%AC%B2%E8%B5%B7%E8%AF%89%E5%BC%A0%E9%9B%AA%E5%B3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [董宇辉 停播](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%20%E5%81%9C%E6%92%AD&t=31&band_rank=7&Refer=top)<br />
 8. [哈妮 你也是叫哈妮克孜吗](https://s.weibo.com/weibo?q=%E5%93%88%E5%A6%AE%20%E4%BD%A0%E4%B9%9F%E6%98%AF%E5%8F%AB%E5%93%88%E5%A6%AE%E5%85%8B%E5%AD%9C%E5%90%97&t=31&band_rank=8&Refer=top)<br />
-9. [邓紫棋演唱会 大屏](https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A%20%E5%A4%A7%E5%B1%8F&t=31&band_rank=9&Refer=top)<br />
+9. [港媒曝刘亦菲杨紫琼争演徐克新片](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E6%9B%9D%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9D%A8%E7%B4%AB%E7%90%BC%E4%BA%89%E6%BC%94%E5%BE%90%E5%85%8B%E6%96%B0%E7%89%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
