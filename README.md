@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 20:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 20:50:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [郝蕾发飙](https://s.weibo.com/weibo?q=%E9%83%9D%E8%95%BE%E5%8F%91%E9%A3%99&t=31&band_rank=2&Refer=top)<br />
 3. [航天员太空理发店又开业了](https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E7%90%86%E5%8F%91%E5%BA%97%E5%8F%88%E5%BC%80%E4%B8%9A%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [元梦之星崩了](https://s.weibo.com/weibo?q=%E5%85%83%E6%A2%A6%E4%B9%8B%E6%98%9F%E5%B4%A9%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
-5. [KBS](https://s.weibo.com/weibo?q=KBS&t=31&band_rank=5&Refer=top)<br />
-6. [方逸伦评论](https://s.weibo.com/weibo?q=%23%E6%96%B9%E9%80%B8%E4%BC%A6%E8%AF%84%E8%AE%BA%23&t=31&band_rank=6&Refer=top)<br />
+5. [方逸伦评论](https://s.weibo.com/weibo?q=%23%E6%96%B9%E9%80%B8%E4%BC%A6%E8%AF%84%E8%AE%BA%23&t=31&band_rank=5&Refer=top)<br />
+6. [KBS](https://s.weibo.com/weibo?q=KBS&t=31&band_rank=6&Refer=top)<br />
 7. [电视剧脱轨播放量](https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E8%84%B1%E8%BD%A8%E6%92%AD%E6%94%BE%E9%87%8F&t=31&band_rank=7&Refer=top)<br />
-8. [新千里江山图](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [爷爷删空短信独留孙女发的我爱你](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%88%A0%E7%A9%BA%E7%9F%AD%E4%BF%A1%E7%8B%AC%E7%95%99%E5%AD%99%E5%A5%B3%E5%8F%91%E7%9A%84%E6%88%91%E7%88%B1%E4%BD%A0%23&t=31&band_rank=9&Refer=top)<br />
+8. [爷爷删空短信独留孙女发的我爱你](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%88%A0%E7%A9%BA%E7%9F%AD%E4%BF%A1%E7%8B%AC%E7%95%99%E5%AD%99%E5%A5%B3%E5%8F%91%E7%9A%84%E6%88%91%E7%88%B1%E4%BD%A0%23&t=31&band_rank=8&Refer=top)<br />
+9. [宋亚轩汇演头套掉了](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%B1%87%E6%BC%94%E5%A4%B4%E5%A5%97%E6%8E%89%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [9元机票实际到手价格接近600元](https://www.baidu.com/s?wd=9%E5%85%83%E6%9C%BA%E7%A5%A8%E5%AE%9E%E9%99%85%E5%88%B0%E6%89%8B%E4%BB%B7%E6%A0%BC%E6%8E%A5%E8%BF%91600%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网传女子裸体冻亡？警方称正在核查](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%A5%B3%E5%AD%90%E8%A3%B8%E4%BD%93%E5%86%BB%E4%BA%A1%EF%BC%9F%E8%AD%A6%E6%96%B9%E7%A7%B0%E6%AD%A3%E5%9C%A8%E6%A0%B8%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [重庆一泥浆池垮塌淹没民房致3死](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E6%B3%A5%E6%B5%86%E6%B1%A0%E5%9E%AE%E5%A1%8C%E6%B7%B9%E6%B2%A1%E6%B0%91%E6%88%BF%E8%87%B43%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：李宁怎么说不火就不火了](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%9D%8E%E5%AE%81%E6%80%8E%E4%B9%88%E8%AF%B4%E4%B8%8D%E7%81%AB%E5%B0%B1%E4%B8%8D%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [普京正面回应替身问题](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%AD%A3%E9%9D%A2%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“鹅毛大雪”才是暴雪？](https://www.baidu.com/s?wd=%E2%80%9C%E9%B9%85%E6%AF%9B%E5%A4%A7%E9%9B%AA%E2%80%9D%E6%89%8D%E6%98%AF%E6%9A%B4%E9%9B%AA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [9元机票实际到手价格接近600元](https://www.baidu.com/s?wd=9%E5%85%83%E6%9C%BA%E7%A5%A8%E5%AE%9E%E9%99%85%E5%88%B0%E6%89%8B%E4%BB%B7%E6%A0%BC%E6%8E%A5%E8%BF%91600%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网传女子裸体冻亡？警方称正在核查](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%A5%B3%E5%AD%90%E8%A3%B8%E4%BD%93%E5%86%BB%E4%BA%A1%EF%BC%9F%E8%AD%A6%E6%96%B9%E7%A7%B0%E6%AD%A3%E5%9C%A8%E6%A0%B8%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [重庆一泥浆池垮塌淹没民房致3死](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E6%B3%A5%E6%B5%86%E6%B1%A0%E5%9E%AE%E5%A1%8C%E6%B7%B9%E6%B2%A1%E6%B0%91%E6%88%BF%E8%87%B43%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：李宁怎么说不火就不火了](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%9D%8E%E5%AE%81%E6%80%8E%E4%B9%88%E8%AF%B4%E4%B8%8D%E7%81%AB%E5%B0%B1%E4%B8%8D%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [普京正面回应替身问题](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%AD%A3%E9%9D%A2%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“鹅毛大雪”才是暴雪？](https://www.baidu.com/s?wd=%E2%80%9C%E9%B9%85%E6%AF%9B%E5%A4%A7%E9%9B%AA%E2%80%9D%E6%89%8D%E6%98%AF%E6%9A%B4%E9%9B%AA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
