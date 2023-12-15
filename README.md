@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 10:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 10:42:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [港媒曝刘亦菲杨紫琼争演徐克新片](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E6%9B%9D%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9D%A8%E7%B4%AB%E7%90%BC%E4%BA%89%E6%BC%94%E5%BE%90%E5%85%8B%E6%96%B0%E7%89%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [流星雨](https://s.weibo.com/weibo?q=%E6%B5%81%E6%98%9F%E9%9B%A8&t=31&band_rank=6&Refer=top)<br />
 7. [董宇辉 停播](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%20%E5%81%9C%E6%92%AD&t=31&band_rank=7&Refer=top)<br />
-8. [李晋晔淘汰](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%8B%E6%99%94%E6%B7%98%E6%B1%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [钟楚曦 我试过但是被人拍到](https://s.weibo.com/weibo?q=%E9%92%9F%E6%A5%9A%E6%9B%A6%20%E6%88%91%E8%AF%95%E8%BF%87%E4%BD%86%E6%98%AF%E8%A2%AB%E4%BA%BA%E6%8B%8D%E5%88%B0&t=31&band_rank=9&Refer=top)<br />
+8. [钟楚曦 我试过但是被人拍到](https://s.weibo.com/weibo?q=%E9%92%9F%E6%A5%9A%E6%9B%A6%20%E6%88%91%E8%AF%95%E8%BF%87%E4%BD%86%E6%98%AF%E8%A2%AB%E4%BA%BA%E6%8B%8D%E5%88%B0&t=31&band_rank=8&Refer=top)<br />
+9. [李晋晔淘汰](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%8B%E6%99%94%E6%B7%98%E6%B1%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
