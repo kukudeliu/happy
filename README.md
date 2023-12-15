@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 12:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 12:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中戏老师评价邓为](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%88%8F%E8%80%81%E5%B8%88%E8%AF%84%E4%BB%B7%E9%82%93%E4%B8%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [献鱼 妆造](https://s.weibo.com/weibo?q=%E7%8C%AE%E9%B1%BC%20%E5%A6%86%E9%80%A0&t=31&band_rank=7&Refer=top)<br />
 8. [台湾对大陆贸易限制构成贸易壁垒](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%AF%B9%E5%A4%A7%E9%99%86%E8%B4%B8%E6%98%93%E9%99%90%E5%88%B6%E6%9E%84%E6%88%90%E8%B4%B8%E6%98%93%E5%A3%81%E5%9E%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [淘宝回应小伙网购工业品造出飞行自行车](https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%9B%9E%E5%BA%94%E5%B0%8F%E4%BC%99%E7%BD%91%E8%B4%AD%E5%B7%A5%E4%B8%9A%E5%93%81%E9%80%A0%E5%87%BA%E9%A3%9E%E8%A1%8C%E8%87%AA%E8%A1%8C%E8%BD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [烧烤店挂出告示禁止日本人进店消费](https://s.weibo.com/weibo?q=%23%E7%83%A7%E7%83%A4%E5%BA%97%E6%8C%82%E5%87%BA%E5%91%8A%E7%A4%BA%E7%A6%81%E6%AD%A2%E6%97%A5%E6%9C%AC%E4%BA%BA%E8%BF%9B%E5%BA%97%E6%B6%88%E8%B4%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
