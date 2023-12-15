@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 16:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 16:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [东方甄选 打折](https://s.weibo.com/weibo?q=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%20%E6%89%93%E6%8A%98&t=31&band_rank=6&Refer=top)<br />
 7. [淘票票 有心了](https://s.weibo.com/weibo?q=%E6%B7%98%E7%A5%A8%E7%A5%A8%20%E6%9C%89%E5%BF%83%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [南京下雪](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E4%B8%8B%E9%9B%AA&t=31&band_rank=8&Refer=top)<br />
-9. [鼠头鸭脖涉事方及责任人被罚706万](https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E6%96%B9%E5%8F%8A%E8%B4%A3%E4%BB%BB%E4%BA%BA%E8%A2%AB%E7%BD%9A706%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [董宇辉 东方小孙](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%20%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%99&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
