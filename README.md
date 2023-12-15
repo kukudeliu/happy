@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 19:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 19:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女子喝白酒死亡同桌3闺蜜担责](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%96%9D%E7%99%BD%E9%85%92%E6%AD%BB%E4%BA%A1%E5%90%8C%E6%A1%8C3%E9%97%BA%E8%9C%9C%E6%8B%85%E8%B4%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [10个月婴儿高烧惊厥子弟兵狂奔送医](https://s.weibo.com/weibo?q=%2310%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E9%AB%98%E7%83%A7%E6%83%8A%E5%8E%A5%E5%AD%90%E5%BC%9F%E5%85%B5%E7%8B%82%E5%A5%94%E9%80%81%E5%8C%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [成都地铁官微被指内涵网友住嘴](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%E5%AE%98%E5%BE%AE%E8%A2%AB%E6%8C%87%E5%86%85%E6%B6%B5%E7%BD%91%E5%8F%8B%E4%BD%8F%E5%98%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [甘肃白银越野赛事故多人获刑](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%99%BD%E9%93%B6%E8%B6%8A%E9%87%8E%E8%B5%9B%E4%BA%8B%E6%95%85%E5%A4%9A%E4%BA%BA%E8%8E%B7%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [KBS](https://s.weibo.com/weibo?q=KBS&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
