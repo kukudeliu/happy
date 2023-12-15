@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 21:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 21:15:01</h4></div>
 
 > 微博  
 
 1. [郝蕾发飙](https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%95%BE%E5%8F%91%E9%A3%99%23&t=31&band_rank=1&Refer=top)<br />
-2. [孙颖莎vs张本美和](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C&t=31&band_rank=2&Refer=top)<br />
+2. [B站 评论没了](https://s.weibo.com/weibo?q=B%E7%AB%99%20%E8%AF%84%E8%AE%BA%E6%B2%A1%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [航天员太空理发店又开业了](https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E7%90%86%E5%8F%91%E5%BA%97%E5%8F%88%E5%BC%80%E4%B8%9A%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [B站 评论没了](https://s.weibo.com/weibo?q=B%E7%AB%99%20%E8%AF%84%E8%AE%BA%E6%B2%A1%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
+4. [孙颖莎vs张本美和](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C&t=31&band_rank=4&Refer=top)<br />
 5. [KBS](https://s.weibo.com/weibo?q=KBS&t=31&band_rank=5&Refer=top)<br />
 6. [方逸伦评论](https://s.weibo.com/weibo?q=%23%E6%96%B9%E9%80%B8%E4%BC%A6%E8%AF%84%E8%AE%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [电视剧脱轨播放量](https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E8%84%B1%E8%BD%A8%E6%92%AD%E6%94%BE%E9%87%8F&t=31&band_rank=7&Refer=top)<br />
