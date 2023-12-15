@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 17:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 18:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女子喝白酒死亡同桌3闺蜜担责](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%96%9D%E7%99%BD%E9%85%92%E6%AD%BB%E4%BA%A1%E5%90%8C%E6%A1%8C3%E9%97%BA%E8%9C%9C%E6%8B%85%E8%B4%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [央视曝9元机票实际到手价格接近600元](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D9%E5%85%83%E6%9C%BA%E7%A5%A8%E5%AE%9E%E9%99%85%E5%88%B0%E6%89%8B%E4%BB%B7%E6%A0%BC%E6%8E%A5%E8%BF%91600%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [余霜管泽元结婚照](https://s.weibo.com/weibo?q=%E4%BD%99%E9%9C%9C%E7%AE%A1%E6%B3%BD%E5%85%83%E7%BB%93%E5%A9%9A%E7%85%A7&t=31&band_rank=8&Refer=top)<br />
-9. [68岁女子感染HPV称老伴都去世30多年](https://s.weibo.com/weibo?q=%2368%E5%B2%81%E5%A5%B3%E5%AD%90%E6%84%9F%E6%9F%93HPV%E7%A7%B0%E8%80%81%E4%BC%B4%E9%83%BD%E5%8E%BB%E4%B8%9630%E5%A4%9A%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [董宇辉事件](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%E4%BA%8B%E4%BB%B6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
