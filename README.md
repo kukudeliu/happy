@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 12:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 12:05:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [献鱼 妆造](https://s.weibo.com/weibo?q=%E7%8C%AE%E9%B1%BC%20%E5%A6%86%E9%80%A0&t=31&band_rank=5&Refer=top)<br />
 6. [骨科医生雪天建议走企鹅步](https://s.weibo.com/weibo?q=%23%E9%AA%A8%E7%A7%91%E5%8C%BB%E7%94%9F%E9%9B%AA%E5%A4%A9%E5%BB%BA%E8%AE%AE%E8%B5%B0%E4%BC%81%E9%B9%85%E6%AD%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [孙东旭今年减持新东方套现超2亿](https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B8%9C%E6%97%AD%E4%BB%8A%E5%B9%B4%E5%87%8F%E6%8C%81%E6%96%B0%E4%B8%9C%E6%96%B9%E5%A5%97%E7%8E%B0%E8%B6%852%E4%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [学校花1500万买下空客A320给学生练手](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E8%8A%B11500%E4%B8%87%E4%B9%B0%E4%B8%8B%E7%A9%BA%E5%AE%A2A320%E7%BB%99%E5%AD%A6%E7%94%9F%E7%BB%83%E6%89%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [台湾对大陆贸易限制构成贸易壁垒](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%AF%B9%E5%A4%A7%E9%99%86%E8%B4%B8%E6%98%93%E9%99%90%E5%88%B6%E6%9E%84%E6%88%90%E8%B4%B8%E6%98%93%E5%A3%81%E5%9E%92%23&t=31&band_rank=9&Refer=top)<br />
+8. [台湾对大陆贸易限制构成贸易壁垒](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%AF%B9%E5%A4%A7%E9%99%86%E8%B4%B8%E6%98%93%E9%99%90%E5%88%B6%E6%9E%84%E6%88%90%E8%B4%B8%E6%98%93%E5%A3%81%E5%9E%92%23&t=31&band_rank=8&Refer=top)<br />
+9. [学校花1500万买下空客A320给学生练手](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E8%8A%B11500%E4%B8%87%E4%B9%B0%E4%B8%8B%E7%A9%BA%E5%AE%A2A320%E7%BB%99%E5%AD%A6%E7%94%9F%E7%BB%83%E6%89%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
