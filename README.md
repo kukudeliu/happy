@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 00:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 00:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [郝蕾发飙](https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%95%BE%E5%8F%91%E9%A3%99%23&t=31&band_rank=6&Refer=top)<br />
 7. [B站 评论没了](https://s.weibo.com/weibo?q=B%E7%AB%99%20%E8%AF%84%E8%AE%BA%E6%B2%A1%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [兔系帅哥](https://s.weibo.com/weibo?q=%E5%85%94%E7%B3%BB%E5%B8%85%E5%93%A5&t=31&band_rank=8&Refer=top)<br />
-9. [怎么退四六级考试费](https://s.weibo.com/weibo?q=%E6%80%8E%E4%B9%88%E9%80%80%E5%9B%9B%E5%85%AD%E7%BA%A7%E8%80%83%E8%AF%95%E8%B4%B9&t=31&band_rank=9&Refer=top)<br />
+9. [爷爷删空短信独留孙女发的我爱你](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%88%A0%E7%A9%BA%E7%9F%AD%E4%BF%A1%E7%8B%AC%E7%95%99%E5%AD%99%E5%A5%B3%E5%8F%91%E7%9A%84%E6%88%91%E7%88%B1%E4%BD%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
