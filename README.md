@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 21:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 21:39:01</h4></div>
 
 > 微博  
 
@@ -17,24 +17,24 @@
 
 > 百度  
 
-1. [习近平广西行](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B9%BF%E8%A5%BF%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [确保人民群众安全温暖过冬](https://www.baidu.com/s?wd=%E7%A1%AE%E4%BF%9D%E4%BA%BA%E6%B0%91%E7%BE%A4%E4%BC%97%E5%AE%89%E5%85%A8%E6%B8%A9%E6%9A%96%E8%BF%87%E5%86%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [一架国航航班从武汉飞成都途中返航](https://www.baidu.com/s?wd=%E4%B8%80%E6%9E%B6%E5%9B%BD%E8%88%AA%E8%88%AA%E7%8F%AD%E4%BB%8E%E6%AD%A6%E6%B1%89%E9%A3%9E%E6%88%90%E9%83%BD%E9%80%94%E4%B8%AD%E8%BF%94%E8%88%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [婚礼现场突下大雪宾客冒雪吃席](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA%E7%AA%81%E4%B8%8B%E5%A4%A7%E9%9B%AA%E5%AE%BE%E5%AE%A2%E5%86%92%E9%9B%AA%E5%90%83%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [2023年丰收答卷请查收](https://www.baidu.com/s?wd=2023%E5%B9%B4%E4%B8%B0%E6%94%B6%E7%AD%94%E5%8D%B7%E8%AF%B7%E6%9F%A5%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [11月份国民经济持续回升向好](https://www.baidu.com/s?wd=11%E6%9C%88%E4%BB%BD%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E6%8C%81%E7%BB%AD%E5%9B%9E%E5%8D%87%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网传女子裸体冻亡？警方称正在核查](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%A5%B3%E5%AD%90%E8%A3%B8%E4%BD%93%E5%86%BB%E4%BA%A1%EF%BC%9F%E8%AD%A6%E6%96%B9%E7%A7%B0%E6%AD%A3%E5%9C%A8%E6%A0%B8%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京正面回应替身问题](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%AD%A3%E9%9D%A2%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [上海地铁车厢内烟雾弥漫 官方回应](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E8%BD%A6%E5%8E%A2%E5%86%85%E7%83%9F%E9%9B%BE%E5%BC%A5%E6%BC%AB+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广州中午31℃下午发寒冷预警](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%AD%E5%8D%8831%E2%84%83%E4%B8%8B%E5%8D%88%E5%8F%91%E5%AF%92%E5%86%B7%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [李家超将赴京述职](https://www.baidu.com/s?wd=%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%B0%86%E8%B5%B4%E4%BA%AC%E8%BF%B0%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [南方将现冷暖大逆转](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%B0%86%E7%8E%B0%E5%86%B7%E6%9A%96%E5%A4%A7%E9%80%86%E8%BD%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“鹅毛大雪”才是暴雪？](https://www.baidu.com/s?wd=%E2%80%9C%E9%B9%85%E6%AF%9B%E5%A4%A7%E9%9B%AA%E2%80%9D%E6%89%8D%E6%98%AF%E6%9A%B4%E9%9B%AA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
-1. [习近平广西行](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B9%BF%E8%A5%BF%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [确保人民群众安全温暖过冬](https://www.baidu.com/s?wd=%E7%A1%AE%E4%BF%9D%E4%BA%BA%E6%B0%91%E7%BE%A4%E4%BC%97%E5%AE%89%E5%85%A8%E6%B8%A9%E6%9A%96%E8%BF%87%E5%86%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [一架国航航班从武汉飞成都途中返航](https://www.baidu.com/s?wd=%E4%B8%80%E6%9E%B6%E5%9B%BD%E8%88%AA%E8%88%AA%E7%8F%AD%E4%BB%8E%E6%AD%A6%E6%B1%89%E9%A3%9E%E6%88%90%E9%83%BD%E9%80%94%E4%B8%AD%E8%BF%94%E8%88%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [婚礼现场突下大雪宾客冒雪吃席](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA%E7%AA%81%E4%B8%8B%E5%A4%A7%E9%9B%AA%E5%AE%BE%E5%AE%A2%E5%86%92%E9%9B%AA%E5%90%83%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [2023年丰收答卷请查收](https://www.baidu.com/s?wd=2023%E5%B9%B4%E4%B8%B0%E6%94%B6%E7%AD%94%E5%8D%B7%E8%AF%B7%E6%9F%A5%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [11月份国民经济持续回升向好](https://www.baidu.com/s?wd=11%E6%9C%88%E4%BB%BD%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E6%8C%81%E7%BB%AD%E5%9B%9E%E5%8D%87%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网传女子裸体冻亡？警方称正在核查](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%A5%B3%E5%AD%90%E8%A3%B8%E4%BD%93%E5%86%BB%E4%BA%A1%EF%BC%9F%E8%AD%A6%E6%96%B9%E7%A7%B0%E6%AD%A3%E5%9C%A8%E6%A0%B8%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京正面回应替身问题](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%AD%A3%E9%9D%A2%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [上海地铁车厢内烟雾弥漫 官方回应](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E8%BD%A6%E5%8E%A2%E5%86%85%E7%83%9F%E9%9B%BE%E5%BC%A5%E6%BC%AB+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广州中午31℃下午发寒冷预警](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%AD%E5%8D%8831%E2%84%83%E4%B8%8B%E5%8D%88%E5%8F%91%E5%AF%92%E5%86%B7%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [李家超将赴京述职](https://www.baidu.com/s?wd=%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%B0%86%E8%B5%B4%E4%BA%AC%E8%BF%B0%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [南方将现冷暖大逆转](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%B0%86%E7%8E%B0%E5%86%B7%E6%9A%96%E5%A4%A7%E9%80%86%E8%BD%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“鹅毛大雪”才是暴雪？](https://www.baidu.com/s?wd=%E2%80%9C%E9%B9%85%E6%AF%9B%E5%A4%A7%E9%9B%AA%E2%80%9D%E6%89%8D%E6%98%AF%E6%9A%B4%E9%9B%AA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
