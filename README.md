@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 18:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 18:01:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [罗永浩称董宇辉没必要浪费生命打工](https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%A7%B0%E8%91%A3%E5%AE%87%E8%BE%89%E6%B2%A1%E5%BF%85%E8%A6%81%E6%B5%AA%E8%B4%B9%E7%94%9F%E5%91%BD%E6%89%93%E5%B7%A5%23&t=31&band_rank=4&Refer=top)<br />
 5. [10个月婴儿高烧惊厥子弟兵狂奔送医](https://s.weibo.com/weibo?q=%2310%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E9%AB%98%E7%83%A7%E6%83%8A%E5%8E%A5%E5%AD%90%E5%BC%9F%E5%85%B5%E7%8B%82%E5%A5%94%E9%80%81%E5%8C%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [女子喝白酒死亡同桌3闺蜜担责](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%96%9D%E7%99%BD%E9%85%92%E6%AD%BB%E4%BA%A1%E5%90%8C%E6%A1%8C3%E9%97%BA%E8%9C%9C%E6%8B%85%E8%B4%A3%23&t=31&band_rank=6&Refer=top)<br />
-7. [央视曝9元机票实际到手价格接近600元](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D9%E5%85%83%E6%9C%BA%E7%A5%A8%E5%AE%9E%E9%99%85%E5%88%B0%E6%89%8B%E4%BB%B7%E6%A0%BC%E6%8E%A5%E8%BF%91600%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [余霜管泽元结婚照](https://s.weibo.com/weibo?q=%E4%BD%99%E9%9C%9C%E7%AE%A1%E6%B3%BD%E5%85%83%E7%BB%93%E5%A9%9A%E7%85%A7&t=31&band_rank=8&Refer=top)<br />
-9. [董宇辉事件](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%E4%BA%8B%E4%BB%B6&t=31&band_rank=9&Refer=top)<br />
+7. [爷爷删空短信独留孙女发的我爱你](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%88%A0%E7%A9%BA%E7%9F%AD%E4%BF%A1%E7%8B%AC%E7%95%99%E5%AD%99%E5%A5%B3%E5%8F%91%E7%9A%84%E6%88%91%E7%88%B1%E4%BD%A0%23&t=31&band_rank=7&Refer=top)<br />
+8. [央视曝9元机票实际到手价格接近600元](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D9%E5%85%83%E6%9C%BA%E7%A5%A8%E5%AE%9E%E9%99%85%E5%88%B0%E6%89%8B%E4%BB%B7%E6%A0%BC%E6%8E%A5%E8%BF%91600%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [余霜管泽元结婚照](https://s.weibo.com/weibo?q=%E4%BD%99%E9%9C%9C%E7%AE%A1%E6%B3%BD%E5%85%83%E7%BB%93%E5%A9%9A%E7%85%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
