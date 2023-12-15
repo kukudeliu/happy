@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 20:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 20:47:01</h4></div>
 
 > 微博  
 
 1. [孙颖莎vs张本美和](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C&t=31&band_rank=1&Refer=top)<br />
-2. [元梦之星崩了](https://s.weibo.com/weibo?q=%E5%85%83%E6%A2%A6%E4%B9%8B%E6%98%9F%E5%B4%A9%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
+2. [郝蕾发飙](https://s.weibo.com/weibo?q=%E9%83%9D%E8%95%BE%E5%8F%91%E9%A3%99&t=31&band_rank=2&Refer=top)<br />
 3. [新千里江山图](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%23&t=31&band_rank=3&Refer=top)<br />
-4. [郝蕾发飙](https://s.weibo.com/weibo?q=%E9%83%9D%E8%95%BE%E5%8F%91%E9%A3%99&t=31&band_rank=4&Refer=top)<br />
+4. [元梦之星崩了](https://s.weibo.com/weibo?q=%E5%85%83%E6%A2%A6%E4%B9%8B%E6%98%9F%E5%B4%A9%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [KBS](https://s.weibo.com/weibo?q=KBS&t=31&band_rank=5&Refer=top)<br />
 6. [方逸伦评论](https://s.weibo.com/weibo?q=%23%E6%96%B9%E9%80%B8%E4%BC%A6%E8%AF%84%E8%AE%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [电视剧脱轨播放量](https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E8%84%B1%E8%BD%A8%E6%92%AD%E6%94%BE%E9%87%8F&t=31&band_rank=7&Refer=top)<br />
