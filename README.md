@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 16:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 16:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王栎鑫 你口型都对错了](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A0%8E%E9%91%AB%20%E4%BD%A0%E5%8F%A3%E5%9E%8B%E9%83%BD%E5%AF%B9%E9%94%99%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [东方甄选 打折](https://s.weibo.com/weibo?q=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%20%E6%89%93%E6%8A%98&t=31&band_rank=7&Refer=top)<br />
 8. [淘票票 有心了](https://s.weibo.com/weibo?q=%E6%B7%98%E7%A5%A8%E7%A5%A8%20%E6%9C%89%E5%BF%83%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [南京下雪](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E4%B8%8B%E9%9B%AA&t=31&band_rank=9&Refer=top)<br />
+9. [Uzi肌肉](https://s.weibo.com/weibo?q=%23Uzi%E8%82%8C%E8%82%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
