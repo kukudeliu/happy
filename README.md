@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 00:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 00:30:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [东北虎舔铁舌头被冻住 一脸委屈](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E8%99%8E%E8%88%94%E9%93%81%E8%88%8C%E5%A4%B4%E8%A2%AB%E5%86%BB%E4%BD%8F+%E4%B8%80%E8%84%B8%E5%A7%94%E5%B1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子喝白酒死亡同桌3闺蜜担责](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%96%9D%E7%99%BD%E9%85%92%E6%AD%BB%E4%BA%A1%E5%90%8C%E6%A1%8C3%E9%97%BA%E8%9C%9C%E6%8B%85%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [菲律宾首富罕见对政府表达不满](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E9%A6%96%E5%AF%8C%E7%BD%95%E8%A7%81%E5%AF%B9%E6%94%BF%E5%BA%9C%E8%A1%A8%E8%BE%BE%E4%B8%8D%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本流感流行达警报级别](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B5%81%E6%84%9F%E6%B5%81%E8%A1%8C%E8%BE%BE%E8%AD%A6%E6%8A%A5%E7%BA%A7%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [顾客吃馄饨多加调料被老板推搡谩骂](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E9%A6%84%E9%A5%A8%E5%A4%9A%E5%8A%A0%E8%B0%83%E6%96%99%E8%A2%AB%E8%80%81%E6%9D%BF%E6%8E%A8%E6%90%A1%E8%B0%A9%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“鹅毛大雪”才是暴雪？](https://www.baidu.com/s?wd=%E2%80%9C%E9%B9%85%E6%AF%9B%E5%A4%A7%E9%9B%AA%E2%80%9D%E6%89%8D%E6%98%AF%E6%9A%B4%E9%9B%AA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [东北虎舔铁舌头被冻住 一脸委屈](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E8%99%8E%E8%88%94%E9%93%81%E8%88%8C%E5%A4%B4%E8%A2%AB%E5%86%BB%E4%BD%8F+%E4%B8%80%E8%84%B8%E5%A7%94%E5%B1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子喝白酒死亡同桌3闺蜜担责](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%96%9D%E7%99%BD%E9%85%92%E6%AD%BB%E4%BA%A1%E5%90%8C%E6%A1%8C3%E9%97%BA%E8%9C%9C%E6%8B%85%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [菲律宾首富罕见对政府表达不满](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E9%A6%96%E5%AF%8C%E7%BD%95%E8%A7%81%E5%AF%B9%E6%94%BF%E5%BA%9C%E8%A1%A8%E8%BE%BE%E4%B8%8D%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本流感流行达警报级别](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B5%81%E6%84%9F%E6%B5%81%E8%A1%8C%E8%BE%BE%E8%AD%A6%E6%8A%A5%E7%BA%A7%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [顾客吃馄饨多加调料被老板推搡谩骂](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%90%83%E9%A6%84%E9%A5%A8%E5%A4%9A%E5%8A%A0%E8%B0%83%E6%96%99%E8%A2%AB%E8%80%81%E6%9D%BF%E6%8E%A8%E6%90%A1%E8%B0%A9%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“鹅毛大雪”才是暴雪？](https://www.baidu.com/s?wd=%E2%80%9C%E9%B9%85%E6%AF%9B%E5%A4%A7%E9%9B%AA%E2%80%9D%E6%89%8D%E6%98%AF%E6%9A%B4%E9%9B%AA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
