@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 10:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 10:47:01</h4></div>
 
 > 微博  
 
-1. [学校花1500万买下空客A320给学生练手](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E8%8A%B11500%E4%B8%87%E4%B9%B0%E4%B8%8B%E7%A9%BA%E5%AE%A2A320%E7%BB%99%E5%AD%A6%E7%94%9F%E7%BB%83%E6%89%8B%23&t=31&band_rank=1&Refer=top)<br />
-2. [港媒曝刘亦菲杨紫琼争演徐克新片](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E6%9B%9D%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9D%A8%E7%B4%AB%E7%90%BC%E4%BA%89%E6%BC%94%E5%BE%90%E5%85%8B%E6%96%B0%E7%89%87%23&t=31&band_rank=2&Refer=top)<br />
+1. [港媒曝刘亦菲杨紫琼争演徐克新片](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E6%9B%9D%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9D%A8%E7%B4%AB%E7%90%BC%E4%BA%89%E6%BC%94%E5%BE%90%E5%85%8B%E6%96%B0%E7%89%87%23&t=31&band_rank=1&Refer=top)<br />
+2. [学校花1500万买下空客A320给学生练手](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E8%8A%B11500%E4%B8%87%E4%B9%B0%E4%B8%8B%E7%A9%BA%E5%AE%A2A320%E7%BB%99%E5%AD%A6%E7%94%9F%E7%BB%83%E6%89%8B%23&t=31&band_rank=2&Refer=top)<br />
 3. [改革开放45年看湾区](https://s.weibo.com/weibo?q=%23%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE45%E5%B9%B4%E7%9C%8B%E6%B9%BE%E5%8C%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [小杨哥评价董宇辉](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%AF%84%E4%BB%B7%E8%91%A3%E5%AE%87%E8%BE%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [茶百道 盲盒](https://s.weibo.com/weibo?q=%E8%8C%B6%E7%99%BE%E9%81%93%20%E7%9B%B2%E7%9B%92&t=31&band_rank=5&Refer=top)<br />
