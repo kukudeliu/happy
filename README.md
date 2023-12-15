@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 09:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 09:49:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [场景多样 消费彰显新活力](https://www.baidu.com/s?wd=%E5%9C%BA%E6%99%AF%E5%A4%9A%E6%A0%B7+%E6%B6%88%E8%B4%B9%E5%BD%B0%E6%98%BE%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [三岁宝宝在家自己冲奶粉喝](https://www.baidu.com/s?wd=%E4%B8%89%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%9C%A8%E5%AE%B6%E8%87%AA%E5%B7%B1%E5%86%B2%E5%A5%B6%E7%B2%89%E5%96%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [董宇辉疑似再停播三天](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%96%91%E4%BC%BC%E5%86%8D%E5%81%9C%E6%92%AD%E4%B8%89%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老太视频连线普京：鸡蛋价格太高了](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AA%E8%A7%86%E9%A2%91%E8%BF%9E%E7%BA%BF%E6%99%AE%E4%BA%AC%EF%BC%9A%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC%E5%A4%AA%E9%AB%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [专家称所有工作的本质就是赚工资](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%89%80%E6%9C%89%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%B0%B1%E6%98%AF%E8%B5%9A%E5%B7%A5%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [有文科生博主欲起诉张雪峰](https://www.baidu.com/s?wd=%E6%9C%89%E6%96%87%E7%A7%91%E7%94%9F%E5%8D%9A%E4%B8%BB%E6%AC%B2%E8%B5%B7%E8%AF%89%E5%BC%A0%E9%9B%AA%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老太视频连线普京：鸡蛋价格太高了](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AA%E8%A7%86%E9%A2%91%E8%BF%9E%E7%BA%BF%E6%99%AE%E4%BA%AC%EF%BC%9A%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC%E5%A4%AA%E9%AB%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [首富婚礼警车为其开道系谣言](https://www.baidu.com/s?wd=%E9%A6%96%E5%AF%8C%E5%A9%9A%E7%A4%BC%E8%AD%A6%E8%BD%A6%E4%B8%BA%E5%85%B6%E5%BC%80%E9%81%93%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [场景多样 消费彰显新活力](https://www.baidu.com/s?wd=%E5%9C%BA%E6%99%AF%E5%A4%9A%E6%A0%B7+%E6%B6%88%E8%B4%B9%E5%BD%B0%E6%98%BE%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [三岁宝宝在家自己冲奶粉喝](https://www.baidu.com/s?wd=%E4%B8%89%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%9C%A8%E5%AE%B6%E8%87%AA%E5%B7%B1%E5%86%B2%E5%A5%B6%E7%B2%89%E5%96%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [董宇辉疑似再停播三天](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%96%91%E4%BC%BC%E5%86%8D%E5%81%9C%E6%92%AD%E4%B8%89%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老太视频连线普京：鸡蛋价格太高了](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AA%E8%A7%86%E9%A2%91%E8%BF%9E%E7%BA%BF%E6%99%AE%E4%BA%AC%EF%BC%9A%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC%E5%A4%AA%E9%AB%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [专家称所有工作的本质就是赚工资](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%89%80%E6%9C%89%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%B0%B1%E6%98%AF%E8%B5%9A%E5%B7%A5%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [有文科生博主欲起诉张雪峰](https://www.baidu.com/s?wd=%E6%9C%89%E6%96%87%E7%A7%91%E7%94%9F%E5%8D%9A%E4%B8%BB%E6%AC%B2%E8%B5%B7%E8%AF%89%E5%BC%A0%E9%9B%AA%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老太视频连线普京：鸡蛋价格太高了](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AA%E8%A7%86%E9%A2%91%E8%BF%9E%E7%BA%BF%E6%99%AE%E4%BA%AC%EF%BC%9A%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC%E5%A4%AA%E9%AB%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [首富婚礼警车为其开道系谣言](https://www.baidu.com/s?wd=%E9%A6%96%E5%AF%8C%E5%A9%9A%E7%A4%BC%E8%AD%A6%E8%BD%A6%E4%B8%BA%E5%85%B6%E5%BC%80%E9%81%93%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
