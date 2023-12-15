@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 21:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 21:53:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [确保人民群众安全温暖过冬](https://www.baidu.com/s?wd=%E7%A1%AE%E4%BF%9D%E4%BA%BA%E6%B0%91%E7%BE%A4%E4%BC%97%E5%AE%89%E5%85%A8%E6%B8%A9%E6%9A%96%E8%BF%87%E5%86%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [一架国航航班从武汉飞成都途中返航](https://www.baidu.com/s?wd=%E4%B8%80%E6%9E%B6%E5%9B%BD%E8%88%AA%E8%88%AA%E7%8F%AD%E4%BB%8E%E6%AD%A6%E6%B1%89%E9%A3%9E%E6%88%90%E9%83%BD%E9%80%94%E4%B8%AD%E8%BF%94%E8%88%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [北方非洲猪瘟疫情发酵](https://www.baidu.com/s?wd=%E5%8C%97%E6%96%B9%E9%9D%9E%E6%B4%B2%E7%8C%AA%E7%98%9F%E7%96%AB%E6%83%85%E5%8F%91%E9%85%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [广州中午31℃下午发寒冷预警](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%AD%E5%8D%8831%E2%84%83%E4%B8%8B%E5%8D%88%E5%8F%91%E5%AF%92%E5%86%B7%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [11月份国民经济持续回升向好](https://www.baidu.com/s?wd=11%E6%9C%88%E4%BB%BD%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E6%8C%81%E7%BB%AD%E5%9B%9E%E5%8D%87%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [信贷经理诈骗农民贷款700万用来赌博](https://www.baidu.com/s?wd=%E4%BF%A1%E8%B4%B7%E7%BB%8F%E7%90%86%E8%AF%88%E9%AA%97%E5%86%9C%E6%B0%91%E8%B4%B7%E6%AC%BE700%E4%B8%87%E7%94%A8%E6%9D%A5%E8%B5%8C%E5%8D%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [确保人民群众安全温暖过冬](https://www.baidu.com/s?wd=%E7%A1%AE%E4%BF%9D%E4%BA%BA%E6%B0%91%E7%BE%A4%E4%BC%97%E5%AE%89%E5%85%A8%E6%B8%A9%E6%9A%96%E8%BF%87%E5%86%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [一架国航航班从武汉飞成都途中返航](https://www.baidu.com/s?wd=%E4%B8%80%E6%9E%B6%E5%9B%BD%E8%88%AA%E8%88%AA%E7%8F%AD%E4%BB%8E%E6%AD%A6%E6%B1%89%E9%A3%9E%E6%88%90%E9%83%BD%E9%80%94%E4%B8%AD%E8%BF%94%E8%88%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [北方非洲猪瘟疫情发酵](https://www.baidu.com/s?wd=%E5%8C%97%E6%96%B9%E9%9D%9E%E6%B4%B2%E7%8C%AA%E7%98%9F%E7%96%AB%E6%83%85%E5%8F%91%E9%85%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [广州中午31℃下午发寒冷预警](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%AD%E5%8D%8831%E2%84%83%E4%B8%8B%E5%8D%88%E5%8F%91%E5%AF%92%E5%86%B7%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [11月份国民经济持续回升向好](https://www.baidu.com/s?wd=11%E6%9C%88%E4%BB%BD%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E6%8C%81%E7%BB%AD%E5%9B%9E%E5%8D%87%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [信贷经理诈骗农民贷款700万用来赌博](https://www.baidu.com/s?wd=%E4%BF%A1%E8%B4%B7%E7%BB%8F%E7%90%86%E8%AF%88%E9%AA%97%E5%86%9C%E6%B0%91%E8%B4%B7%E6%AC%BE700%E4%B8%87%E7%94%A8%E6%9D%A5%E8%B5%8C%E5%8D%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
