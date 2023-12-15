@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 00:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 00:57:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [四六级复习到第六集了](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%A4%8D%E4%B9%A0%E5%88%B0%E7%AC%AC%E5%85%AD%E9%9B%86%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [郝蕾发飙](https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%95%BE%E5%8F%91%E9%A3%99%23&t=31&band_rank=6&Refer=top)<br />
 7. [B站 评论没了](https://s.weibo.com/weibo?q=B%E7%AB%99%20%E8%AF%84%E8%AE%BA%E6%B2%A1%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [一个人 一双鞋 一条命](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%20%E4%B8%80%E5%8F%8C%E9%9E%8B%20%E4%B8%80%E6%9D%A1%E5%91%BD&t=31&band_rank=8&Refer=top)<br />
+8. [工作是为了早点赎身 不是干成头牌](https://s.weibo.com/weibo?q=%E5%B7%A5%E4%BD%9C%E6%98%AF%E4%B8%BA%E4%BA%86%E6%97%A9%E7%82%B9%E8%B5%8E%E8%BA%AB%20%E4%B8%8D%E6%98%AF%E5%B9%B2%E6%88%90%E5%A4%B4%E7%89%8C&t=31&band_rank=8&Refer=top)<br />
 9. [爷爷删空短信独留孙女发的我爱你](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%88%A0%E7%A9%BA%E7%9F%AD%E4%BF%A1%E7%8B%AC%E7%95%99%E5%AD%99%E5%A5%B3%E5%8F%91%E7%9A%84%E6%88%91%E7%88%B1%E4%BD%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
