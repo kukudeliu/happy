@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 04:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 04:46:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [杨迪 娱乐圈里清华北大的不多](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%BF%AA%20%E5%A8%B1%E4%B9%90%E5%9C%88%E9%87%8C%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E7%9A%84%E4%B8%8D%E5%A4%9A&t=31&band_rank=5&Refer=top)<br />
 6. [郝蕾发飙](https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%95%BE%E5%8F%91%E9%A3%99%23&t=31&band_rank=6&Refer=top)<br />
 7. [B站 评论没了](https://s.weibo.com/weibo?q=B%E7%AB%99%20%E8%AF%84%E8%AE%BA%E6%B2%A1%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [手机戒断](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E6%88%92%E6%96%AD&t=31&band_rank=8&Refer=top)<br />
-9. [爷爷删空短信独留孙女发的我爱你](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%88%A0%E7%A9%BA%E7%9F%AD%E4%BF%A1%E7%8B%AC%E7%95%99%E5%AD%99%E5%A5%B3%E5%8F%91%E7%9A%84%E6%88%91%E7%88%B1%E4%BD%A0%23&t=31&band_rank=9&Refer=top)<br />
+8. [爷爷删空短信独留孙女发的我爱你](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%88%A0%E7%A9%BA%E7%9F%AD%E4%BF%A1%E7%8B%AC%E7%95%99%E5%AD%99%E5%A5%B3%E5%8F%91%E7%9A%84%E6%88%91%E7%88%B1%E4%BD%A0%23&t=31&band_rank=8&Refer=top)<br />
+9. [手机戒断](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E6%88%92%E6%96%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
