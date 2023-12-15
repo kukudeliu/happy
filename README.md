@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 08:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 08:14:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [员工患病离世留长文控诉工作环境](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E6%82%A3%E7%97%85%E7%A6%BB%E4%B8%96%E7%95%99%E9%95%BF%E6%96%87%E6%8E%A7%E8%AF%89%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [记者举报洗浴中心 警方出警无收获](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E4%B8%BE%E6%8A%A5%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83+%E8%AD%A6%E6%96%B9%E5%87%BA%E8%AD%A6%E6%97%A0%E6%94%B6%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老太视频连线普京：鸡蛋价格太高了](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AA%E8%A7%86%E9%A2%91%E8%BF%9E%E7%BA%BF%E6%99%AE%E4%BA%AC%EF%BC%9A%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC%E5%A4%AA%E9%AB%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小鹏回应车展提问被赶出会场](https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94%E8%BD%A6%E5%B1%95%E6%8F%90%E9%97%AE%E8%A2%AB%E8%B5%B6%E5%87%BA%E4%BC%9A%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [东方甄选CEO道歉](https://www.baidu.com/s?wd=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89CEO%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [首富婚礼警车为其开道系谣言](https://www.baidu.com/s?wd=%E9%A6%96%E5%AF%8C%E5%A9%9A%E7%A4%BC%E8%AD%A6%E8%BD%A6%E4%B8%BA%E5%85%B6%E5%BC%80%E9%81%93%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [员工患病离世留长文控诉工作环境](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E6%82%A3%E7%97%85%E7%A6%BB%E4%B8%96%E7%95%99%E9%95%BF%E6%96%87%E6%8E%A7%E8%AF%89%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [记者举报洗浴中心 警方出警无收获](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E4%B8%BE%E6%8A%A5%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83+%E8%AD%A6%E6%96%B9%E5%87%BA%E8%AD%A6%E6%97%A0%E6%94%B6%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老太视频连线普京：鸡蛋价格太高了](https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AA%E8%A7%86%E9%A2%91%E8%BF%9E%E7%BA%BF%E6%99%AE%E4%BA%AC%EF%BC%9A%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC%E5%A4%AA%E9%AB%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小鹏回应车展提问被赶出会场](https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94%E8%BD%A6%E5%B1%95%E6%8F%90%E9%97%AE%E8%A2%AB%E8%B5%B6%E5%87%BA%E4%BC%9A%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [东方甄选CEO道歉](https://www.baidu.com/s?wd=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89CEO%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [首富婚礼警车为其开道系谣言](https://www.baidu.com/s?wd=%E9%A6%96%E5%AF%8C%E5%A9%9A%E7%A4%BC%E8%AD%A6%E8%BD%A6%E4%B8%BA%E5%85%B6%E5%BC%80%E9%81%93%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
