@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 17:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 17:25:01</h4></div>
 
 > 微博  
 
-1. [女子喝白酒死亡同桌3闺蜜担责](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%96%9D%E7%99%BD%E9%85%92%E6%AD%BB%E4%BA%A1%E5%90%8C%E6%A1%8C3%E9%97%BA%E8%9C%9C%E6%8B%85%E8%B4%A3%23&t=31&band_rank=1&Refer=top)<br />
-2. [余霜管泽元结婚照](https://s.weibo.com/weibo?q=%E4%BD%99%E9%9C%9C%E7%AE%A1%E6%B3%BD%E5%85%83%E7%BB%93%E5%A9%9A%E7%85%A7&t=31&band_rank=2&Refer=top)<br />
+1. [余霜管泽元结婚照](https://s.weibo.com/weibo?q=%E4%BD%99%E9%9C%9C%E7%AE%A1%E6%B3%BD%E5%85%83%E7%BB%93%E5%A9%9A%E7%85%A7&t=31&band_rank=1&Refer=top)<br />
+2. [女子喝白酒死亡同桌3闺蜜担责](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%96%9D%E7%99%BD%E9%85%92%E6%AD%BB%E4%BA%A1%E5%90%8C%E6%A1%8C3%E9%97%BA%E8%9C%9C%E6%8B%85%E8%B4%A3%23&t=31&band_rank=2&Refer=top)<br />
 3. [新千里江山图](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [罗永浩 愿意支持董宇辉创业](https://s.weibo.com/weibo?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%20%E6%84%BF%E6%84%8F%E6%94%AF%E6%8C%81%E8%91%A3%E5%AE%87%E8%BE%89%E5%88%9B%E4%B8%9A&t=31&band_rank=4&Refer=top)<br />
 5. [68岁女子感染HPV称老伴都去世30多年](https://s.weibo.com/weibo?q=%2368%E5%B2%81%E5%A5%B3%E5%AD%90%E6%84%9F%E6%9F%93HPV%E7%A7%B0%E8%80%81%E4%BC%B4%E9%83%BD%E5%8E%BB%E4%B8%9630%E5%A4%9A%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
