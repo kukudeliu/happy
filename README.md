@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 22:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 22:40:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [网传女子裸体冻亡？警方称正在核查](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%A5%B3%E5%AD%90%E8%A3%B8%E4%BD%93%E5%86%BB%E4%BA%A1%EF%BC%9F%E8%AD%A6%E6%96%B9%E7%A7%B0%E6%AD%A3%E5%9C%A8%E6%A0%B8%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体：李宁怎么说不火就不火了](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%9D%8E%E5%AE%81%E6%80%8E%E4%B9%88%E8%AF%B4%E4%B8%8D%E7%81%AB%E5%B0%B1%E4%B8%8D%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [两天内骤降20℃有多反常？](https://www.baidu.com/s?wd=%E4%B8%A4%E5%A4%A9%E5%86%85%E9%AA%A4%E9%99%8D20%E2%84%83%E6%9C%89%E5%A4%9A%E5%8F%8D%E5%B8%B8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [21岁男子发烧后被诊断为红斑狼疮](https://www.baidu.com/s?wd=21%E5%B2%81%E7%94%B7%E5%AD%90%E5%8F%91%E7%83%A7%E5%90%8E%E8%A2%AB%E8%AF%8A%E6%96%AD%E4%B8%BA%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王栎鑫 你口型都对错了](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%8E%E9%91%AB+%E4%BD%A0%E5%8F%A3%E5%9E%8B%E9%83%BD%E5%AF%B9%E9%94%99%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“鹅毛大雪”才是暴雪？](https://www.baidu.com/s?wd=%E2%80%9C%E9%B9%85%E6%AF%9B%E5%A4%A7%E9%9B%AA%E2%80%9D%E6%89%8D%E6%98%AF%E6%9A%B4%E9%9B%AA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [网传女子裸体冻亡？警方称正在核查](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%A5%B3%E5%AD%90%E8%A3%B8%E4%BD%93%E5%86%BB%E4%BA%A1%EF%BC%9F%E8%AD%A6%E6%96%B9%E7%A7%B0%E6%AD%A3%E5%9C%A8%E6%A0%B8%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体：李宁怎么说不火就不火了](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%9D%8E%E5%AE%81%E6%80%8E%E4%B9%88%E8%AF%B4%E4%B8%8D%E7%81%AB%E5%B0%B1%E4%B8%8D%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [两天内骤降20℃有多反常？](https://www.baidu.com/s?wd=%E4%B8%A4%E5%A4%A9%E5%86%85%E9%AA%A4%E9%99%8D20%E2%84%83%E6%9C%89%E5%A4%9A%E5%8F%8D%E5%B8%B8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [21岁男子发烧后被诊断为红斑狼疮](https://www.baidu.com/s?wd=21%E5%B2%81%E7%94%B7%E5%AD%90%E5%8F%91%E7%83%A7%E5%90%8E%E8%A2%AB%E8%AF%8A%E6%96%AD%E4%B8%BA%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王栎鑫 你口型都对错了](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%8E%E9%91%AB+%E4%BD%A0%E5%8F%A3%E5%9E%8B%E9%83%BD%E5%AF%B9%E9%94%99%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“鹅毛大雪”才是暴雪？](https://www.baidu.com/s?wd=%E2%80%9C%E9%B9%85%E6%AF%9B%E5%A4%A7%E9%9B%AA%E2%80%9D%E6%89%8D%E6%98%AF%E6%9A%B4%E9%9B%AA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
