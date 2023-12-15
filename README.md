@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 20:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 20:56:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [航天员太空理发店又开业了](https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E7%90%86%E5%8F%91%E5%BA%97%E5%8F%88%E5%BC%80%E4%B8%9A%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [方逸伦评论](https://s.weibo.com/weibo?q=%23%E6%96%B9%E9%80%B8%E4%BC%A6%E8%AF%84%E8%AE%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [KBS](https://s.weibo.com/weibo?q=KBS&t=31&band_rank=5&Refer=top)<br />
-6. [元梦之星崩了](https://s.weibo.com/weibo?q=%E5%85%83%E6%A2%A6%E4%B9%8B%E6%98%9F%E5%B4%A9%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [爷爷删空短信独留孙女发的我爱你](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%88%A0%E7%A9%BA%E7%9F%AD%E4%BF%A1%E7%8B%AC%E7%95%99%E5%AD%99%E5%A5%B3%E5%8F%91%E7%9A%84%E6%88%91%E7%88%B1%E4%BD%A0%23&t=31&band_rank=7&Refer=top)<br />
+6. [爷爷删空短信独留孙女发的我爱你](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%88%A0%E7%A9%BA%E7%9F%AD%E4%BF%A1%E7%8B%AC%E7%95%99%E5%AD%99%E5%A5%B3%E5%8F%91%E7%9A%84%E6%88%91%E7%88%B1%E4%BD%A0%23&t=31&band_rank=6&Refer=top)<br />
+7. [元梦之星崩了](https://s.weibo.com/weibo?q=%E5%85%83%E6%A2%A6%E4%B9%8B%E6%98%9F%E5%B4%A9%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [电视剧脱轨播放量](https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E8%84%B1%E8%BD%A8%E6%92%AD%E6%94%BE%E9%87%8F&t=31&band_rank=8&Refer=top)<br />
 9. [宋亚轩汇演头套掉了](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%B1%87%E6%BC%94%E5%A4%B4%E5%A5%97%E6%8E%89%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
