@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 13:12:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 13:13:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [茶百道 盲盒](https://s.weibo.com/weibo?q=%E8%8C%B6%E7%99%BE%E9%81%93%20%E7%9B%B2%E7%9B%92&t=31&band_rank=5&Refer=top)<br />
 6. [烧烤店挂出告示禁止日本人进店消费](https://s.weibo.com/weibo?q=%23%E7%83%A7%E7%83%A4%E5%BA%97%E6%8C%82%E5%87%BA%E5%91%8A%E7%A4%BA%E7%A6%81%E6%AD%A2%E6%97%A5%E6%9C%AC%E4%BA%BA%E8%BF%9B%E5%BA%97%E6%B6%88%E8%B4%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [中戏老师评价邓为](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%88%8F%E8%80%81%E5%B8%88%E8%AF%84%E4%BB%B7%E9%82%93%E4%B8%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [献鱼 妆造](https://s.weibo.com/weibo?q=%E7%8C%AE%E9%B1%BC%20%E5%A6%86%E9%80%A0&t=31&band_rank=8&Refer=top)<br />
-9. [剧版左耳空降](https://s.weibo.com/weibo?q=%23%E5%89%A7%E7%89%88%E5%B7%A6%E8%80%B3%E7%A9%BA%E9%99%8D%23&t=31&band_rank=9&Refer=top)<br />
+8. [剧版左耳空降](https://s.weibo.com/weibo?q=%23%E5%89%A7%E7%89%88%E5%B7%A6%E8%80%B3%E7%A9%BA%E9%99%8D%23&t=31&band_rank=8&Refer=top)<br />
+9. [献鱼 妆造](https://s.weibo.com/weibo?q=%E7%8C%AE%E9%B1%BC%20%E5%A6%86%E9%80%A0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
