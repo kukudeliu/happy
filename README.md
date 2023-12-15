@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 21:34:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 21:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [KBS](https://s.weibo.com/weibo?q=KBS&t=31&band_rank=6&Refer=top)<br />
 7. [方逸伦评论](https://s.weibo.com/weibo?q=%23%E6%96%B9%E9%80%B8%E4%BC%A6%E8%AF%84%E8%AE%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [电视剧脱轨播放量](https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E8%84%B1%E8%BD%A8%E6%92%AD%E6%94%BE%E9%87%8F&t=31&band_rank=8&Refer=top)<br />
-9. [张若昀科目三偷偷练了吧](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%E7%A7%91%E7%9B%AE%E4%B8%89%E5%81%B7%E5%81%B7%E7%BB%83%E4%BA%86%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
+9. [杜华形容王一博长相](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E5%BD%A2%E5%AE%B9%E7%8E%8B%E4%B8%80%E5%8D%9A%E9%95%BF%E7%9B%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
