@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 17:56:01</h4></div>
 
 > 微博  
 
 1. [张万森 你霉姐来了](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%B8%87%E6%A3%AE%20%E4%BD%A0%E9%9C%89%E5%A7%90%E6%9D%A5%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [爷爷生前藏了65年的俄语信](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E7%94%9F%E5%89%8D%E8%97%8F%E4%BA%8665%E5%B9%B4%E7%9A%84%E4%BF%84%E8%AF%AD%E4%BF%A1%23&t=31&band_rank=2&Refer=top)<br />
+2. [央视曝9元机票实际到手价格接近600元](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D9%E5%85%83%E6%9C%BA%E7%A5%A8%E5%AE%9E%E9%99%85%E5%88%B0%E6%89%8B%E4%BB%B7%E6%A0%BC%E6%8E%A5%E8%BF%91600%E5%85%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [新千里江山图](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [罗永浩称董宇辉没必要浪费生命打工](https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%A7%B0%E8%91%A3%E5%AE%87%E8%BE%89%E6%B2%A1%E5%BF%85%E8%A6%81%E6%B5%AA%E8%B4%B9%E7%94%9F%E5%91%BD%E6%89%93%E5%B7%A5%23&t=31&band_rank=4&Refer=top)<br />
-5. [央视曝9元机票实际到手价格接近600元](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D9%E5%85%83%E6%9C%BA%E7%A5%A8%E5%AE%9E%E9%99%85%E5%88%B0%E6%89%8B%E4%BB%B7%E6%A0%BC%E6%8E%A5%E8%BF%91600%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
+5. [余霜管泽元结婚照](https://s.weibo.com/weibo?q=%E4%BD%99%E9%9C%9C%E7%AE%A1%E6%B3%BD%E5%85%83%E7%BB%93%E5%A9%9A%E7%85%A7&t=31&band_rank=5&Refer=top)<br />
 6. [女子喝白酒死亡同桌3闺蜜担责](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%96%9D%E7%99%BD%E9%85%92%E6%AD%BB%E4%BA%A1%E5%90%8C%E6%A1%8C3%E9%97%BA%E8%9C%9C%E6%8B%85%E8%B4%A3%23&t=31&band_rank=6&Refer=top)<br />
-7. [余霜管泽元结婚照](https://s.weibo.com/weibo?q=%E4%BD%99%E9%9C%9C%E7%AE%A1%E6%B3%BD%E5%85%83%E7%BB%93%E5%A9%9A%E7%85%A7&t=31&band_rank=7&Refer=top)<br />
-8. [王栎鑫 你口型都对错了](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A0%8E%E9%91%AB%20%E4%BD%A0%E5%8F%A3%E5%9E%8B%E9%83%BD%E5%AF%B9%E9%94%99%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [68岁女子感染HPV称老伴都去世30多年](https://s.weibo.com/weibo?q=%2368%E5%B2%81%E5%A5%B3%E5%AD%90%E6%84%9F%E6%9F%93HPV%E7%A7%B0%E8%80%81%E4%BC%B4%E9%83%BD%E5%8E%BB%E4%B8%9630%E5%A4%9A%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
+7. [警察叔叔我们捡到一位小孩子](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E5%8F%94%E5%8F%94%E6%88%91%E4%BB%AC%E6%8D%A1%E5%88%B0%E4%B8%80%E4%BD%8D%E5%B0%8F%E5%AD%A9%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
+8. [10个月婴儿高烧惊厥子弟兵狂奔送医](https://s.weibo.com/weibo?q=%2310%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E9%AB%98%E7%83%A7%E6%83%8A%E5%8E%A5%E5%AD%90%E5%BC%9F%E5%85%B5%E7%8B%82%E5%A5%94%E9%80%81%E5%8C%BB%23&t=31&band_rank=8&Refer=top)<br />
+9. [爷爷生前藏了65年的俄语信](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E7%94%9F%E5%89%8D%E8%97%8F%E4%BA%8665%E5%B9%B4%E7%9A%84%E4%BF%84%E8%AF%AD%E4%BF%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
