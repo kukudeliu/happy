@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 15:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 15:15:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女子喝白酒死亡同桌3闺蜜担责](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%96%9D%E7%99%BD%E9%85%92%E6%AD%BB%E4%BA%A1%E5%90%8C%E6%A1%8C3%E9%97%BA%E8%9C%9C%E6%8B%85%E8%B4%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [鼠头鸭脖涉事方及责任人被罚706万](https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E6%96%B9%E5%8F%8A%E8%B4%A3%E4%BB%BB%E4%BA%BA%E8%A2%AB%E7%BD%9A706%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [GQ 内幕](https://s.weibo.com/weibo?q=GQ%20%E5%86%85%E5%B9%95&t=31&band_rank=7&Refer=top)<br />
-8. [年轻人带癌上班是怎样的体验](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B8%A6%E7%99%8C%E4%B8%8A%E7%8F%AD%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84%E4%BD%93%E9%AA%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘浩存 演技](https://s.weibo.com/weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%20%E6%BC%94%E6%8A%80&t=31&band_rank=9&Refer=top)<br />
+8. [刘浩存 演技](https://s.weibo.com/weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%20%E6%BC%94%E6%8A%80&t=31&band_rank=8&Refer=top)<br />
+9. [年轻人带癌上班是怎样的体验](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B8%A6%E7%99%8C%E4%B8%8A%E7%8F%AD%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84%E4%BD%93%E9%AA%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
