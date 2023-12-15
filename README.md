@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 17:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 17:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [董宇辉 东方小孙](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%20%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%99&t=31&band_rank=6&Refer=top)<br />
 7. [张万森 你霉姐来了](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%B8%87%E6%A3%AE%20%E4%BD%A0%E9%9C%89%E5%A7%90%E6%9D%A5%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [亚洲人为什么要用24小时制](https://s.weibo.com/weibo?q=%E4%BA%9A%E6%B4%B2%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%94%A824%E5%B0%8F%E6%97%B6%E5%88%B6&t=31&band_rank=8&Refer=top)<br />
-9. [Uzi肌肉](https://s.weibo.com/weibo?q=%23Uzi%E8%82%8C%E8%82%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [罗永浩 愿意支持董宇辉创业](https://s.weibo.com/weibo?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%20%E6%84%BF%E6%84%8F%E6%94%AF%E6%8C%81%E8%91%A3%E5%AE%87%E8%BE%89%E5%88%9B%E4%B8%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
