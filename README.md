@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 13:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 13:42:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [港媒曝肖战将与徐克再合作](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E6%9B%9D%E8%82%96%E6%88%98%E5%B0%86%E4%B8%8E%E5%BE%90%E5%85%8B%E5%86%8D%E5%90%88%E4%BD%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [剧版左耳空降](https://s.weibo.com/weibo?q=%23%E5%89%A7%E7%89%88%E5%B7%A6%E8%80%B3%E7%A9%BA%E9%99%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [东方甄选称昨日销售额创纪录](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E7%A7%B0%E6%98%A8%E6%97%A5%E9%94%80%E5%94%AE%E9%A2%9D%E5%88%9B%E7%BA%AA%E5%BD%95%23&t=31&band_rank=7&Refer=top)<br />
-8. [赵丽颖央视推介与凤行](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%A4%AE%E8%A7%86%E6%8E%A8%E4%BB%8B%E4%B8%8E%E5%87%A4%E8%A1%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [GQ 内幕](https://s.weibo.com/weibo?q=GQ%20%E5%86%85%E5%B9%95&t=31&band_rank=9&Refer=top)<br />
+8. [GQ 内幕](https://s.weibo.com/weibo?q=GQ%20%E5%86%85%E5%B9%95&t=31&band_rank=8&Refer=top)<br />
+9. [赵丽颖央视推介与凤行](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%A4%AE%E8%A7%86%E6%8E%A8%E4%BB%8B%E4%B8%8E%E5%87%A4%E8%A1%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
