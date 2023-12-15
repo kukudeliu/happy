@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 12:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 12:40:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [东方甄选称昨日销售额创纪录](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E7%A7%B0%E6%98%A8%E6%97%A5%E9%94%80%E5%94%AE%E9%A2%9D%E5%88%9B%E7%BA%AA%E5%BD%95%23&t=31&band_rank=4&Refer=top)<br />
 5. [茶百道 盲盒](https://s.weibo.com/weibo?q=%E8%8C%B6%E7%99%BE%E9%81%93%20%E7%9B%B2%E7%9B%92&t=31&band_rank=5&Refer=top)<br />
 6. [献鱼 妆造](https://s.weibo.com/weibo?q=%E7%8C%AE%E9%B1%BC%20%E5%A6%86%E9%80%A0&t=31&band_rank=6&Refer=top)<br />
-7. [小杨哥评价董宇辉](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%AF%84%E4%BB%B7%E8%91%A3%E5%AE%87%E8%BE%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [中戏老师评价邓为](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%88%8F%E8%80%81%E5%B8%88%E8%AF%84%E4%BB%B7%E9%82%93%E4%B8%BA%23&t=31&band_rank=8&Refer=top)<br />
+7. [中戏老师评价邓为](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%88%8F%E8%80%81%E5%B8%88%E8%AF%84%E4%BB%B7%E9%82%93%E4%B8%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [小杨哥评价董宇辉](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%AF%84%E4%BB%B7%E8%91%A3%E5%AE%87%E8%BE%89%23&t=31&band_rank=8&Refer=top)<br />
 9. [台湾对大陆贸易限制构成贸易壁垒](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%AF%B9%E5%A4%A7%E9%99%86%E8%B4%B8%E6%98%93%E9%99%90%E5%88%B6%E6%9E%84%E6%88%90%E8%B4%B8%E6%98%93%E5%A3%81%E5%9E%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
