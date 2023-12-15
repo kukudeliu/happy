@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 22:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-15 22:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [25岁做副业营收过亿](https://s.weibo.com/weibo?q=25%E5%B2%81%E5%81%9A%E5%89%AF%E4%B8%9A%E8%90%A5%E6%94%B6%E8%BF%87%E4%BA%BF&t=31&band_rank=6&Refer=top)<br />
 7. [杨迪 娱乐圈里清华北大的不多](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%BF%AA%20%E5%A8%B1%E4%B9%90%E5%9C%88%E9%87%8C%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E7%9A%84%E4%B8%8D%E5%A4%9A&t=31&band_rank=7&Refer=top)<br />
 8. [质疑马琳 成为马琳](https://s.weibo.com/weibo?q=%E8%B4%A8%E7%96%91%E9%A9%AC%E7%90%B3%20%E6%88%90%E4%B8%BA%E9%A9%AC%E7%90%B3&t=31&band_rank=8&Refer=top)<br />
-9. [张若昀科目三偷偷练了吧](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%E7%A7%91%E7%9B%AE%E4%B8%89%E5%81%B7%E5%81%B7%E7%BB%83%E4%BA%86%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
+9. [兔系帅哥](https://s.weibo.com/weibo?q=%E5%85%94%E7%B3%BB%E5%B8%85%E5%93%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
