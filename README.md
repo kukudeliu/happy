@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 19:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 19:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [胡歌 是我不想拍请不要骂人](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%20%E6%98%AF%E6%88%91%E4%B8%8D%E6%83%B3%E6%8B%8D%E8%AF%B7%E4%B8%8D%E8%A6%81%E9%AA%82%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
 7. [儿童高烧抽搐从电动车摔下特警抱起送医](https://s.weibo.com/weibo?q=%23%E5%84%BF%E7%AB%A5%E9%AB%98%E7%83%A7%E6%8A%BD%E6%90%90%E4%BB%8E%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%91%94%E4%B8%8B%E7%89%B9%E8%AD%A6%E6%8A%B1%E8%B5%B7%E9%80%81%E5%8C%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [鼠系帅哥](https://s.weibo.com/weibo?q=%E9%BC%A0%E7%B3%BB%E5%B8%85%E5%93%A5&t=31&band_rank=8&Refer=top)<br />
-9. [俞敏洪承认拉黑网友并道歉](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E6%89%BF%E8%AE%A4%E6%8B%89%E9%BB%91%E7%BD%91%E5%8F%8B%E5%B9%B6%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [六级阅读有Selena](https://s.weibo.com/weibo?q=%23%E5%85%AD%E7%BA%A7%E9%98%85%E8%AF%BB%E6%9C%89Selena%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
