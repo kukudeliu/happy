@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 11:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 11:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [清华教授认为鸡兔同笼数学题与现实脱节](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%E8%AE%A4%E4%B8%BA%E9%B8%A1%E5%85%94%E5%90%8C%E7%AC%BC%E6%95%B0%E5%AD%A6%E9%A2%98%E4%B8%8E%E7%8E%B0%E5%AE%9E%E8%84%B1%E8%8A%82%23&t=31&band_rank=6&Refer=top)<br />
 7. [咖啡店店员竟然是以前追的爱豆](https://s.weibo.com/weibo?q=%E5%92%96%E5%95%A1%E5%BA%97%E5%BA%97%E5%91%98%E7%AB%9F%E7%84%B6%E6%98%AF%E4%BB%A5%E5%89%8D%E8%BF%BD%E7%9A%84%E7%88%B1%E8%B1%86&t=31&band_rank=7&Refer=top)<br />
 8. [给住院婆婆吃泡面博主发声](https://s.weibo.com/weibo?q=%23%E7%BB%99%E4%BD%8F%E9%99%A2%E5%A9%86%E5%A9%86%E5%90%83%E6%B3%A1%E9%9D%A2%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [黄子弘凡 四级](https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%20%E5%9B%9B%E7%BA%A7&t=31&band_rank=9&Refer=top)<br />
+9. [四级](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
