@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 16:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 16:54:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [周海媚北京别墅被曝不值钱](https://www.baidu.com/s?wd=%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%8C%97%E4%BA%AC%E5%88%AB%E5%A2%85%E8%A2%AB%E6%9B%9D%E4%B8%8D%E5%80%BC%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东方甄选：主播天权停止直播3个月](https://www.baidu.com/s?wd=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%EF%BC%9A%E4%B8%BB%E6%92%AD%E5%A4%A9%E6%9D%83%E5%81%9C%E6%AD%A2%E7%9B%B4%E6%92%AD3%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [专家：留下董宇辉踢走CEO是对的](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%95%99%E4%B8%8B%E8%91%A3%E5%AE%87%E8%BE%89%E8%B8%A2%E8%B5%B0CEO%E6%98%AF%E5%AF%B9%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [石灰石公司发生事故致人死亡？](https://www.baidu.com/s?wd=%E7%9F%B3%E7%81%B0%E7%9F%B3%E5%85%AC%E5%8F%B8%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85%E8%87%B4%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泉州辟谣一小区欠下800万水费](https://www.baidu.com/s?wd=%E6%B3%89%E5%B7%9E%E8%BE%9F%E8%B0%A3%E4%B8%80%E5%B0%8F%E5%8C%BA%E6%AC%A0%E4%B8%8B800%E4%B8%87%E6%B0%B4%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [周海媚北京别墅被曝不值钱](https://www.baidu.com/s?wd=%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%8C%97%E4%BA%AC%E5%88%AB%E5%A2%85%E8%A2%AB%E6%9B%9D%E4%B8%8D%E5%80%BC%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [东方甄选：主播天权停止直播3个月](https://www.baidu.com/s?wd=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%EF%BC%9A%E4%B8%BB%E6%92%AD%E5%A4%A9%E6%9D%83%E5%81%9C%E6%AD%A2%E7%9B%B4%E6%92%AD3%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [专家：留下董宇辉踢走CEO是对的](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%95%99%E4%B8%8B%E8%91%A3%E5%AE%87%E8%BE%89%E8%B8%A2%E8%B5%B0CEO%E6%98%AF%E5%AF%B9%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [石灰石公司发生事故致人死亡？](https://www.baidu.com/s?wd=%E7%9F%B3%E7%81%B0%E7%9F%B3%E5%85%AC%E5%8F%B8%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85%E8%87%B4%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泉州辟谣一小区欠下800万水费](https://www.baidu.com/s?wd=%E6%B3%89%E5%B7%9E%E8%BE%9F%E8%B0%A3%E4%B8%80%E5%B0%8F%E5%8C%BA%E6%AC%A0%E4%B8%8B800%E4%B8%87%E6%B0%B4%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
