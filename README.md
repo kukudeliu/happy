@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 16:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 16:02:02</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [以前所未有的力度打开了崭新局面](https://www.baidu.com/s?wd=%E4%BB%A5%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E5%8A%9B%E5%BA%A6%E6%89%93%E5%BC%80%E4%BA%86%E5%B4%AD%E6%96%B0%E5%B1%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [CEO被免东方甄选仍在掉粉](https://www.baidu.com/s?wd=CEO%E8%A2%AB%E5%85%8D%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E4%BB%8D%E5%9C%A8%E6%8E%89%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [专家：留下董宇辉踢走CEO是对的](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%95%99%E4%B8%8B%E8%91%A3%E5%AE%87%E8%BE%89%E8%B8%A2%E8%B5%B0CEO%E6%98%AF%E5%AF%B9%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子赠书给同学却被大妈搬空](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B5%A0%E4%B9%A6%E7%BB%99%E5%90%8C%E5%AD%A6%E5%8D%B4%E8%A2%AB%E5%A4%A7%E5%A6%88%E6%90%AC%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [没有一个打工人能逃过职业病](https://www.baidu.com/s?wd=%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E6%89%93%E5%B7%A5%E4%BA%BA%E8%83%BD%E9%80%83%E8%BF%87%E8%81%8C%E4%B8%9A%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#电影怒潮#](https://www.baidu.com/s?wd=%23%E7%94%B5%E5%BD%B1%E6%80%92%E6%BD%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [石灰石公司发生事故致人死亡？](https://www.baidu.com/s?wd=%E7%9F%B3%E7%81%B0%E7%9F%B3%E5%85%AC%E5%8F%B8%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85%E8%87%B4%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [以前所未有的力度打开了崭新局面](https://www.baidu.com/s?wd=%E4%BB%A5%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E5%8A%9B%E5%BA%A6%E6%89%93%E5%BC%80%E4%BA%86%E5%B4%AD%E6%96%B0%E5%B1%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [CEO被免东方甄选仍在掉粉](https://www.baidu.com/s?wd=CEO%E8%A2%AB%E5%85%8D%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E4%BB%8D%E5%9C%A8%E6%8E%89%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [专家：留下董宇辉踢走CEO是对的](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%95%99%E4%B8%8B%E8%91%A3%E5%AE%87%E8%BE%89%E8%B8%A2%E8%B5%B0CEO%E6%98%AF%E5%AF%B9%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子赠书给同学却被大妈搬空](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B5%A0%E4%B9%A6%E7%BB%99%E5%90%8C%E5%AD%A6%E5%8D%B4%E8%A2%AB%E5%A4%A7%E5%A6%88%E6%90%AC%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [没有一个打工人能逃过职业病](https://www.baidu.com/s?wd=%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E6%89%93%E5%B7%A5%E4%BA%BA%E8%83%BD%E9%80%83%E8%BF%87%E8%81%8C%E4%B8%9A%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#电影怒潮#](https://www.baidu.com/s?wd=%23%E7%94%B5%E5%BD%B1%E6%80%92%E6%BD%AE%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [石灰石公司发生事故致人死亡？](https://www.baidu.com/s?wd=%E7%9F%B3%E7%81%B0%E7%9F%B3%E5%85%AC%E5%8F%B8%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85%E8%87%B4%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
