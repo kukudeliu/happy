@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 21:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 21:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈飞宇我承认昨天太大声了](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E6%88%91%E6%89%BF%E8%AE%A4%E6%98%A8%E5%A4%A9%E5%A4%AA%E5%A4%A7%E5%A3%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [海底捞 自助餐](https://s.weibo.com/weibo?q=%E6%B5%B7%E5%BA%95%E6%8D%9E%20%E8%87%AA%E5%8A%A9%E9%A4%90&t=31&band_rank=7&Refer=top)<br />
 8. [六级卷子一股老人味](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7%E5%8D%B7%E5%AD%90%E4%B8%80%E8%82%A1%E8%80%81%E4%BA%BA%E5%91%B3&t=31&band_rank=8&Refer=top)<br />
-9. [董宇辉称小作文事件我的处理很幼稚](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E7%A7%B0%E5%B0%8F%E4%BD%9C%E6%96%87%E4%BA%8B%E4%BB%B6%E6%88%91%E7%9A%84%E5%A4%84%E7%90%86%E5%BE%88%E5%B9%BC%E7%A8%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [白鹿张凌赫还原苦果亦是果](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%BF%98%E5%8E%9F%E8%8B%A6%E6%9E%9C%E4%BA%A6%E6%98%AF%E6%9E%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
