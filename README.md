@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 17:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 17:32:01</h4></div>
 
 > 微博  
 
 1. [俞敏洪承认拉黑网友并道歉](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E6%89%BF%E8%AE%A4%E6%8B%89%E9%BB%91%E7%BD%91%E5%8F%8B%E5%B9%B6%E9%81%93%E6%AD%89%23&t=31&band_rank=1&Refer=top)<br />
 2. [霍尊胜诉](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%B0%8A%E8%83%9C%E8%AF%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [一到冬天便感受到祖国的辽阔](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%88%B0%E5%86%AC%E5%A4%A9%E4%BE%BF%E6%84%9F%E5%8F%97%E5%88%B0%E7%A5%96%E5%9B%BD%E7%9A%84%E8%BE%BD%E9%98%94%23&t=31&band_rank=3&Refer=top)<br />
-4. [考完四六级 悬着的心终于死了](https://s.weibo.com/weibo?q=%E8%80%83%E5%AE%8C%E5%9B%9B%E5%85%AD%E7%BA%A7%20%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E6%AD%BB%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
-5. [六级](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7&t=31&band_rank=5&Refer=top)<br />
+4. [六级](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7&t=31&band_rank=4&Refer=top)<br />
+5. [考完四六级 悬着的心终于死了](https://s.weibo.com/weibo?q=%E8%80%83%E5%AE%8C%E5%9B%9B%E5%85%AD%E7%BA%A7%20%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E6%AD%BB%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [商汤科技董事长汤晓鸥去世](https://s.weibo.com/weibo?q=%23%E5%95%86%E6%B1%A4%E7%A7%91%E6%8A%80%E8%91%A3%E4%BA%8B%E9%95%BF%E6%B1%A4%E6%99%93%E9%B8%A5%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么没有鸡绒羽绒服](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E9%B8%A1%E7%BB%92%E7%BE%BD%E7%BB%92%E6%9C%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘诗诗上次录节目是十一年前](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E4%B8%8A%E6%AC%A1%E5%BD%95%E8%8A%82%E7%9B%AE%E6%98%AF%E5%8D%81%E4%B8%80%E5%B9%B4%E5%89%8D%23&t=31&band_rank=8&Refer=top)<br />
