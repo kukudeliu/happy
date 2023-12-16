@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 22:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 22:59:01</h4></div>
 
 > 微博  
 
@@ -17,24 +17,24 @@
 
 > 百度  
 
-1. [奔赴中越命运共同体的美好明天](https://www.baidu.com/s?wd=%E5%A5%94%E8%B5%B4%E4%B8%AD%E8%B6%8A%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%BE%8E%E5%A5%BD%E6%98%8E%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [全力确保人民群众安全温暖过冬](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E7%A1%AE%E4%BF%9D%E4%BA%BA%E6%B0%91%E7%BE%A4%E4%BC%97%E5%AE%89%E5%85%A8%E6%B8%A9%E6%9A%96%E8%BF%87%E5%86%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [国内同一天最大温差达到76℃](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E5%90%8C%E4%B8%80%E5%A4%A9%E6%9C%80%E5%A4%A7%E6%B8%A9%E5%B7%AE%E8%BE%BE%E5%88%B076%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [雪后刹车无效 司机一路顺滑下坡](https://www.baidu.com/s?wd=%E9%9B%AA%E5%90%8E%E5%88%B9%E8%BD%A6%E6%97%A0%E6%95%88+%E5%8F%B8%E6%9C%BA%E4%B8%80%E8%B7%AF%E9%A1%BA%E6%BB%91%E4%B8%8B%E5%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个经济会议与我们息息相关](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%BB%8F%E6%B5%8E%E4%BC%9A%E8%AE%AE%E4%B8%8E%E6%88%91%E4%BB%AC%E6%81%AF%E6%81%AF%E7%9B%B8%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [速看！新冠JN.1变异株6问6答](https://www.baidu.com/s?wd=%E9%80%9F%E7%9C%8B%EF%BC%81%E6%96%B0%E5%86%A0JN.1%E5%8F%98%E5%BC%82%E6%A0%AA6%E9%97%AE6%E7%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [塔克拉玛干沙漠下雪了](https://www.baidu.com/s?wd=%E5%A1%94%E5%85%8B%E6%8B%89%E7%8E%9B%E5%B9%B2%E6%B2%99%E6%BC%A0%E4%B8%8B%E9%9B%AA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [让人冻彻心扉的寒潮来了](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%BA%E5%86%BB%E5%BD%BB%E5%BF%83%E6%89%89%E7%9A%84%E5%AF%92%E6%BD%AE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [约旦公主身穿军装 亲赴加沙前线](https://www.baidu.com/s?wd=%E7%BA%A6%E6%97%A6%E5%85%AC%E4%B8%BB%E8%BA%AB%E7%A9%BF%E5%86%9B%E8%A3%85+%E4%BA%B2%E8%B5%B4%E5%8A%A0%E6%B2%99%E5%89%8D%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [公立医院拖欠15个月工资 官方：无奈](https://www.baidu.com/s?wd=%E5%85%AC%E7%AB%8B%E5%8C%BB%E9%99%A2%E6%8B%96%E6%AC%A015%E4%B8%AA%E6%9C%88%E5%B7%A5%E8%B5%84+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%97%A0%E5%A5%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山西一县遇冰冻灾害致全县停电](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E5%8E%BF%E9%81%87%E5%86%B0%E5%86%BB%E7%81%BE%E5%AE%B3%E8%87%B4%E5%85%A8%E5%8E%BF%E5%81%9C%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [红绿灯弹射起步被处罚？假的](https://www.baidu.com/s?wd=%E7%BA%A2%E7%BB%BF%E7%81%AF%E5%BC%B9%E5%B0%84%E8%B5%B7%E6%AD%A5%E8%A2%AB%E5%A4%84%E7%BD%9A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
-1. [奔赴中越命运共同体的美好明天](https://www.baidu.com/s?wd=%E5%A5%94%E8%B5%B4%E4%B8%AD%E8%B6%8A%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%BE%8E%E5%A5%BD%E6%98%8E%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [全力确保人民群众安全温暖过冬](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E7%A1%AE%E4%BF%9D%E4%BA%BA%E6%B0%91%E7%BE%A4%E4%BC%97%E5%AE%89%E5%85%A8%E6%B8%A9%E6%9A%96%E8%BF%87%E5%86%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [国内同一天最大温差达到76℃](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E5%90%8C%E4%B8%80%E5%A4%A9%E6%9C%80%E5%A4%A7%E6%B8%A9%E5%B7%AE%E8%BE%BE%E5%88%B076%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [雪后刹车无效 司机一路顺滑下坡](https://www.baidu.com/s?wd=%E9%9B%AA%E5%90%8E%E5%88%B9%E8%BD%A6%E6%97%A0%E6%95%88+%E5%8F%B8%E6%9C%BA%E4%B8%80%E8%B7%AF%E9%A1%BA%E6%BB%91%E4%B8%8B%E5%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个经济会议与我们息息相关](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%BB%8F%E6%B5%8E%E4%BC%9A%E8%AE%AE%E4%B8%8E%E6%88%91%E4%BB%AC%E6%81%AF%E6%81%AF%E7%9B%B8%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [速看！新冠JN.1变异株6问6答](https://www.baidu.com/s?wd=%E9%80%9F%E7%9C%8B%EF%BC%81%E6%96%B0%E5%86%A0JN.1%E5%8F%98%E5%BC%82%E6%A0%AA6%E9%97%AE6%E7%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [塔克拉玛干沙漠下雪了](https://www.baidu.com/s?wd=%E5%A1%94%E5%85%8B%E6%8B%89%E7%8E%9B%E5%B9%B2%E6%B2%99%E6%BC%A0%E4%B8%8B%E9%9B%AA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [让人冻彻心扉的寒潮来了](https://www.baidu.com/s?wd=%E8%AE%A9%E4%BA%BA%E5%86%BB%E5%BD%BB%E5%BF%83%E6%89%89%E7%9A%84%E5%AF%92%E6%BD%AE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [约旦公主身穿军装 亲赴加沙前线](https://www.baidu.com/s?wd=%E7%BA%A6%E6%97%A6%E5%85%AC%E4%B8%BB%E8%BA%AB%E7%A9%BF%E5%86%9B%E8%A3%85+%E4%BA%B2%E8%B5%B4%E5%8A%A0%E6%B2%99%E5%89%8D%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [公立医院拖欠15个月工资 官方：无奈](https://www.baidu.com/s?wd=%E5%85%AC%E7%AB%8B%E5%8C%BB%E9%99%A2%E6%8B%96%E6%AC%A015%E4%B8%AA%E6%9C%88%E5%B7%A5%E8%B5%84+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%97%A0%E5%A5%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山西一县遇冰冻灾害致全县停电](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E5%8E%BF%E9%81%87%E5%86%B0%E5%86%BB%E7%81%BE%E5%AE%B3%E8%87%B4%E5%85%A8%E5%8E%BF%E5%81%9C%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [红绿灯弹射起步被处罚？假的](https://www.baidu.com/s?wd=%E7%BA%A2%E7%BB%BF%E7%81%AF%E5%BC%B9%E5%B0%84%E8%B5%B7%E6%AD%A5%E8%A2%AB%E5%A4%84%E7%BD%9A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
