@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 11:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 11:06:01</h4></div>
 
 > 微博  
 
-1. [草莓 车厘子](https://s.weibo.com/weibo?q=%E8%8D%89%E8%8E%93%20%E8%BD%A6%E5%8E%98%E5%AD%90&t=31&band_rank=1&Refer=top)<br />
-2. [科目三 春晚](https://s.weibo.com/weibo?q=%E7%A7%91%E7%9B%AE%E4%B8%89%20%E6%98%A5%E6%99%9A&t=31&band_rank=2&Refer=top)<br />
+1. [科目三 春晚](https://s.weibo.com/weibo?q=%E7%A7%91%E7%9B%AE%E4%B8%89%20%E6%98%A5%E6%99%9A&t=31&band_rank=1&Refer=top)<br />
+2. [草莓 车厘子](https://s.weibo.com/weibo?q=%E8%8D%89%E8%8E%93%20%E8%BD%A6%E5%8E%98%E5%AD%90&t=31&band_rank=2&Refer=top)<br />
 3. [我国成功发射遥感四十一号卫星](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E9%81%A5%E6%84%9F%E5%9B%9B%E5%8D%81%E4%B8%80%E5%8F%B7%E5%8D%AB%E6%98%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [给住院婆婆吃泡面博主发声](https://s.weibo.com/weibo?q=%23%E7%BB%99%E4%BD%8F%E9%99%A2%E5%A9%86%E5%A9%86%E5%90%83%E6%B3%A1%E9%9D%A2%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [网传女子裸体冻亡系不实信息](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A5%B3%E5%AD%90%E8%A3%B8%E4%BD%93%E5%86%BB%E4%BA%A1%E7%B3%BB%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF%23&t=31&band_rank=5&Refer=top)<br />
