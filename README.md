@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 15:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 15:40:01</h4></div>
 
 > 微博  
 
 1. [东方甄选孙东旭被免职](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%AD%99%E4%B8%9C%E6%97%AD%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=1&Refer=top)<br />
-2. [东方甄选任免通知没盖章](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E4%BB%BB%E5%85%8D%E9%80%9A%E7%9F%A5%E6%B2%A1%E7%9B%96%E7%AB%A0%23&t=31&band_rank=2&Refer=top)<br />
+2. [商汤科技董事长汤晓鸥去世](https://s.weibo.com/weibo?q=%23%E5%95%86%E6%B1%A4%E7%A7%91%E6%8A%80%E8%91%A3%E4%BA%8B%E9%95%BF%E6%B1%A4%E6%99%93%E9%B8%A5%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [一到冬天便感受到祖国的辽阔](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%88%B0%E5%86%AC%E5%A4%A9%E4%BE%BF%E6%84%9F%E5%8F%97%E5%88%B0%E7%A5%96%E5%9B%BD%E7%9A%84%E8%BE%BD%E9%98%94%23&t=31&band_rank=3&Refer=top)<br />
-4. [商汤科技董事长汤晓鸥去世](https://s.weibo.com/weibo?q=%23%E5%95%86%E6%B1%A4%E7%A7%91%E6%8A%80%E8%91%A3%E4%BA%8B%E9%95%BF%E6%B1%A4%E6%99%93%E9%B8%A5%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
+4. [东方甄选任免通知没盖章](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E4%BB%BB%E5%85%8D%E9%80%9A%E7%9F%A5%E6%B2%A1%E7%9B%96%E7%AB%A0%23&t=31&band_rank=4&Refer=top)<br />
 5. [为什么没有鸡绒羽绒服](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E9%B8%A1%E7%BB%92%E7%BE%BD%E7%BB%92%E6%9C%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [许昕通知谢娜到国家队报到](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%95%E9%80%9A%E7%9F%A5%E8%B0%A2%E5%A8%9C%E5%88%B0%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%8A%A5%E5%88%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [一箱脐橙被高速工作人员挖了个验货洞](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AE%B1%E8%84%90%E6%A9%99%E8%A2%AB%E9%AB%98%E9%80%9F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8C%96%E4%BA%86%E4%B8%AA%E9%AA%8C%E8%B4%A7%E6%B4%9E%23&t=31&band_rank=7&Refer=top)<br />
