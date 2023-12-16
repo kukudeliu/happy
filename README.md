@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-17 06:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-17 06:39:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [约旦公主身穿军装 亲赴加沙前线](https://www.baidu.com/s?wd=%E7%BA%A6%E6%97%A6%E5%85%AC%E4%B8%BB%E8%BA%AB%E7%A9%BF%E5%86%9B%E8%A3%85+%E4%BA%B2%E8%B5%B4%E5%8A%A0%E6%B2%99%E5%89%8D%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个经济会议与我们息息相关](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%BB%8F%E6%B5%8E%E4%BC%9A%E8%AE%AE%E4%B8%8E%E6%88%91%E4%BB%AC%E6%81%AF%E6%81%AF%E7%9B%B8%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [雪后刹车无效 司机一路顺滑下坡](https://www.baidu.com/s?wd=%E9%9B%AA%E5%90%8E%E5%88%B9%E8%BD%A6%E6%97%A0%E6%95%88+%E5%8F%B8%E6%9C%BA%E4%B8%80%E8%B7%AF%E9%A1%BA%E6%BB%91%E4%B8%8B%E5%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子遭丈夫打断腰椎住院时再被砍伤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E4%B8%88%E5%A4%AB%E6%89%93%E6%96%AD%E8%85%B0%E6%A4%8E%E4%BD%8F%E9%99%A2%E6%97%B6%E5%86%8D%E8%A2%AB%E7%A0%8D%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [周海媚北京别墅被曝不值钱](https://www.baidu.com/s?wd=%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%8C%97%E4%BA%AC%E5%88%AB%E5%A2%85%E8%A2%AB%E6%9B%9D%E4%B8%8D%E5%80%BC%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国内同一天最大温差达到76℃](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E5%90%8C%E4%B8%80%E5%A4%A9%E6%9C%80%E5%A4%A7%E6%B8%A9%E5%B7%AE%E8%BE%BE%E5%88%B076%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [直播电商行业该不该去头部化](https://www.baidu.com/s?wd=%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E8%A1%8C%E4%B8%9A%E8%AF%A5%E4%B8%8D%E8%AF%A5%E5%8E%BB%E5%A4%B4%E9%83%A8%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子遭丈夫打断腰椎住院时再被砍伤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E4%B8%88%E5%A4%AB%E6%89%93%E6%96%AD%E8%85%B0%E6%A4%8E%E4%BD%8F%E9%99%A2%E6%97%B6%E5%86%8D%E8%A2%AB%E7%A0%8D%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北京常住人口规模“六连降”](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%B8%E4%BD%8F%E4%BA%BA%E5%8F%A3%E8%A7%84%E6%A8%A1%E2%80%9C%E5%85%AD%E8%BF%9E%E9%99%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [红绿灯弹射起步被处罚？假的](https://www.baidu.com/s?wd=%E7%BA%A2%E7%BB%BF%E7%81%AF%E5%BC%B9%E5%B0%84%E8%B5%B7%E6%AD%A5%E8%A2%AB%E5%A4%84%E7%BD%9A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [约旦公主身穿军装 亲赴加沙前线](https://www.baidu.com/s?wd=%E7%BA%A6%E6%97%A6%E5%85%AC%E4%B8%BB%E8%BA%AB%E7%A9%BF%E5%86%9B%E8%A3%85+%E4%BA%B2%E8%B5%B4%E5%8A%A0%E6%B2%99%E5%89%8D%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个经济会议与我们息息相关](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%BB%8F%E6%B5%8E%E4%BC%9A%E8%AE%AE%E4%B8%8E%E6%88%91%E4%BB%AC%E6%81%AF%E6%81%AF%E7%9B%B8%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [雪后刹车无效 司机一路顺滑下坡](https://www.baidu.com/s?wd=%E9%9B%AA%E5%90%8E%E5%88%B9%E8%BD%A6%E6%97%A0%E6%95%88+%E5%8F%B8%E6%9C%BA%E4%B8%80%E8%B7%AF%E9%A1%BA%E6%BB%91%E4%B8%8B%E5%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子遭丈夫打断腰椎住院时再被砍伤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E4%B8%88%E5%A4%AB%E6%89%93%E6%96%AD%E8%85%B0%E6%A4%8E%E4%BD%8F%E9%99%A2%E6%97%B6%E5%86%8D%E8%A2%AB%E7%A0%8D%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [周海媚北京别墅被曝不值钱](https://www.baidu.com/s?wd=%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%8C%97%E4%BA%AC%E5%88%AB%E5%A2%85%E8%A2%AB%E6%9B%9D%E4%B8%8D%E5%80%BC%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国内同一天最大温差达到76℃](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E5%90%8C%E4%B8%80%E5%A4%A9%E6%9C%80%E5%A4%A7%E6%B8%A9%E5%B7%AE%E8%BE%BE%E5%88%B076%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [直播电商行业该不该去头部化](https://www.baidu.com/s?wd=%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E8%A1%8C%E4%B8%9A%E8%AF%A5%E4%B8%8D%E8%AF%A5%E5%8E%BB%E5%A4%B4%E9%83%A8%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子遭丈夫打断腰椎住院时再被砍伤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E4%B8%88%E5%A4%AB%E6%89%93%E6%96%AD%E8%85%B0%E6%A4%8E%E4%BD%8F%E9%99%A2%E6%97%B6%E5%86%8D%E8%A2%AB%E7%A0%8D%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北京常住人口规模“六连降”](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%B8%E4%BD%8F%E4%BA%BA%E5%8F%A3%E8%A7%84%E6%A8%A1%E2%80%9C%E5%85%AD%E8%BF%9E%E9%99%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [红绿灯弹射起步被处罚？假的](https://www.baidu.com/s?wd=%E7%BA%A2%E7%BB%BF%E7%81%AF%E5%BC%B9%E5%B0%84%E8%B5%B7%E6%AD%A5%E8%A2%AB%E5%A4%84%E7%BD%9A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
