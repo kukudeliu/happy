@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 23:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 23:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [鹿晗回复古巨基](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%9B%9E%E5%A4%8D%E5%8F%A4%E5%B7%A8%E5%9F%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [六级卷子一股老人味](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7%E5%8D%B7%E5%AD%90%E4%B8%80%E8%82%A1%E8%80%81%E4%BA%BA%E5%91%B3&t=31&band_rank=7&Refer=top)<br />
 8. [在杭州带货哭了一晚上](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%9D%AD%E5%B7%9E%E5%B8%A6%E8%B4%A7%E5%93%AD%E4%BA%86%E4%B8%80%E6%99%9A%E4%B8%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [王星越哭了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [你们俩这么亲我就不困了](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BB%AC%E4%BF%A9%E8%BF%99%E4%B9%88%E4%BA%B2%E6%88%91%E5%B0%B1%E4%B8%8D%E5%9B%B0%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
