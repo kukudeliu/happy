@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 18:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 18:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [胡歌 是我不想拍请不要骂人](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%20%E6%98%AF%E6%88%91%E4%B8%8D%E6%83%B3%E6%8B%8D%E8%AF%B7%E4%B8%8D%E8%A6%81%E9%AA%82%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
 7. [美术老师雪地踩出2万平双龙戏珠](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%9C%AF%E8%80%81%E5%B8%88%E9%9B%AA%E5%9C%B0%E8%B8%A9%E5%87%BA2%E4%B8%87%E5%B9%B3%E5%8F%8C%E9%BE%99%E6%88%8F%E7%8F%A0%23&t=31&band_rank=7&Refer=top)<br />
 8. [鼠系帅哥](https://s.weibo.com/weibo?q=%E9%BC%A0%E7%B3%BB%E5%B8%85%E5%93%A5&t=31&band_rank=8&Refer=top)<br />
-9. [六级阅读有Selena](https://s.weibo.com/weibo?q=%23%E5%85%AD%E7%BA%A7%E9%98%85%E8%AF%BB%E6%9C%89Selena%23&t=31&band_rank=9&Refer=top)<br />
+9. [霍尊胜诉](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%B0%8A%E8%83%9C%E8%AF%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
