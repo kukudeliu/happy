@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 17:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 17:27:01</h4></div>
 
 > 微博  
 
 1. [俞敏洪承认拉黑网友并道歉](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E6%89%BF%E8%AE%A4%E6%8B%89%E9%BB%91%E7%BD%91%E5%8F%8B%E5%B9%B6%E9%81%93%E6%AD%89%23&t=31&band_rank=1&Refer=top)<br />
 2. [霍尊胜诉](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%B0%8A%E8%83%9C%E8%AF%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [一到冬天便感受到祖国的辽阔](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%88%B0%E5%86%AC%E5%A4%A9%E4%BE%BF%E6%84%9F%E5%8F%97%E5%88%B0%E7%A5%96%E5%9B%BD%E7%9A%84%E8%BE%BD%E9%98%94%23&t=31&band_rank=3&Refer=top)<br />
-4. [董宇辉回应何时回归直播间](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%BA%94%E4%BD%95%E6%97%B6%E5%9B%9E%E5%BD%92%E7%9B%B4%E6%92%AD%E9%97%B4%23&t=31&band_rank=4&Refer=top)<br />
-5. [六级](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7&t=31&band_rank=5&Refer=top)<br />
+4. [六级](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7&t=31&band_rank=4&Refer=top)<br />
+5. [为什么没有鸡绒羽绒服](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E9%B8%A1%E7%BB%92%E7%BE%BD%E7%BB%92%E6%9C%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [商汤科技董事长汤晓鸥去世](https://s.weibo.com/weibo?q=%23%E5%95%86%E6%B1%A4%E7%A7%91%E6%8A%80%E8%91%A3%E4%BA%8B%E9%95%BF%E6%B1%A4%E6%99%93%E9%B8%A5%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [为什么没有鸡绒羽绒服](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E9%B8%A1%E7%BB%92%E7%BE%BD%E7%BB%92%E6%9C%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘诗诗上次录节目是十一年前](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E4%B8%8A%E6%AC%A1%E5%BD%95%E8%8A%82%E7%9B%AE%E6%98%AF%E5%8D%81%E4%B8%80%E5%B9%B4%E5%89%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [四级答案](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7%E7%AD%94%E6%A1%88&t=31&band_rank=9&Refer=top)<br />
+7. [刘诗诗上次录节目是十一年前](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E4%B8%8A%E6%AC%A1%E5%BD%95%E8%8A%82%E7%9B%AE%E6%98%AF%E5%8D%81%E4%B8%80%E5%B9%B4%E5%89%8D%23&t=31&band_rank=7&Refer=top)<br />
+8. [四级答案](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7%E7%AD%94%E6%A1%88&t=31&band_rank=8&Refer=top)<br />
+9. [一箱脐橙被高速工作人员挖了个验货洞](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AE%B1%E8%84%90%E6%A9%99%E8%A2%AB%E9%AB%98%E9%80%9F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8C%96%E4%BA%86%E4%B8%AA%E9%AA%8C%E8%B4%A7%E6%B4%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
