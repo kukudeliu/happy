@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 10:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 10:43:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [给住院婆婆吃泡面博主发声](https://s.weibo.com/weibo?q=%23%E7%BB%99%E4%BD%8F%E9%99%A2%E5%A9%86%E5%A9%86%E5%90%83%E6%B3%A1%E9%9D%A2%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=2&Refer=top)<br />
 3. [如果中国县城变身各科课代表](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E4%B8%AD%E5%9B%BD%E5%8E%BF%E5%9F%8E%E5%8F%98%E8%BA%AB%E5%90%84%E7%A7%91%E8%AF%BE%E4%BB%A3%E8%A1%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [有网友正式起诉新华字典](https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%BD%91%E5%8F%8B%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%23&t=31&band_rank=4&Refer=top)<br />
-5. [东方甄选停播一天闭门思过](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%81%9C%E6%92%AD%E4%B8%80%E5%A4%A9%E9%97%AD%E9%97%A8%E6%80%9D%E8%BF%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [网传女子裸体冻亡系不实信息](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A5%B3%E5%AD%90%E8%A3%B8%E4%BD%93%E5%86%BB%E4%BA%A1%E7%B3%BB%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF%23&t=31&band_rank=6&Refer=top)<br />
-7. [黄子弘凡 四级](https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%20%E5%9B%9B%E7%BA%A7&t=31&band_rank=7&Refer=top)<br />
-8. [沙溢有沙溢但沙溢忍了](https://s.weibo.com/weibo?q=%E6%B2%99%E6%BA%A2%E6%9C%89%E6%B2%99%E6%BA%A2%E4%BD%86%E6%B2%99%E6%BA%A2%E5%BF%8D%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [反复高热后21岁大学生确诊红斑狼疮](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%A4%8D%E9%AB%98%E7%83%AD%E5%90%8E21%E5%B2%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A1%AE%E8%AF%8A%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE%23&t=31&band_rank=9&Refer=top)<br />
+5. [网传女子裸体冻亡系不实信息](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A5%B3%E5%AD%90%E8%A3%B8%E4%BD%93%E5%86%BB%E4%BA%A1%E7%B3%BB%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF%23&t=31&band_rank=5&Refer=top)<br />
+6. [东方甄选停播一天闭门思过](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%81%9C%E6%92%AD%E4%B8%80%E5%A4%A9%E9%97%AD%E9%97%A8%E6%80%9D%E8%BF%87%23&t=31&band_rank=6&Refer=top)<br />
+7. [清华教授认为鸡兔同笼数学题与现实脱节](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%E8%AE%A4%E4%B8%BA%E9%B8%A1%E5%85%94%E5%90%8C%E7%AC%BC%E6%95%B0%E5%AD%A6%E9%A2%98%E4%B8%8E%E7%8E%B0%E5%AE%9E%E8%84%B1%E8%8A%82%23&t=31&band_rank=7&Refer=top)<br />
+8. [黄子弘凡 四级](https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%20%E5%9B%9B%E7%BA%A7&t=31&band_rank=8&Refer=top)<br />
+9. [沙溢有沙溢但沙溢忍了](https://s.weibo.com/weibo?q=%E6%B2%99%E6%BA%A2%E6%9C%89%E6%B2%99%E6%BA%A2%E4%BD%86%E6%B2%99%E6%BA%A2%E5%BF%8D%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
