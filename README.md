@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 11:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 11:15:01</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 
 > 百度  
 
-1. [确保人民群众安全温暖过冬](https://www.baidu.com/s?wd=%E7%A1%AE%E4%BF%9D%E4%BA%BA%E6%B0%91%E7%BE%A4%E4%BC%97%E5%AE%89%E5%85%A8%E6%B8%A9%E6%9A%96%E8%BF%87%E5%86%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [奔赴中越命运共同体的美好明天](https://www.baidu.com/s?wd=%E5%A5%94%E8%B5%B4%E4%B8%AD%E8%B6%8A%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%BE%8E%E5%A5%BD%E6%98%8E%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [生产商称未生产过小杨哥带货牛肉卷](https://www.baidu.com/s?wd=%E7%94%9F%E4%BA%A7%E5%95%86%E7%A7%B0%E6%9C%AA%E7%94%9F%E4%BA%A7%E8%BF%87%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%B8%A6%E8%B4%A7%E7%89%9B%E8%82%89%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [有网友正式起诉新华字典](https://www.baidu.com/s?wd=%E6%9C%89%E7%BD%91%E5%8F%8B%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [11月份国民经济持续回升向好](https://www.baidu.com/s?wd=11%E6%9C%88%E4%BB%BD%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E6%8C%81%E7%BB%AD%E5%9B%9E%E5%8D%87%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [以前所未有的力度打开了崭新局面](https://www.baidu.com/s?wd=%E4%BB%A5%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E5%8A%9B%E5%BA%A6%E6%89%93%E5%BC%80%E4%BA%86%E5%B4%AD%E6%96%B0%E5%B1%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [俄罗斯芭蕾舞团在东北跳科目三](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E8%8A%AD%E8%95%BE%E8%88%9E%E5%9B%A2%E5%9C%A8%E4%B8%9C%E5%8C%97%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子捡银行卡猜中密码取5000](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8D%A1%E9%93%B6%E8%A1%8C%E5%8D%A1%E7%8C%9C%E4%B8%AD%E5%AF%86%E7%A0%81%E5%8F%965000&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [工作人员回应6天研学收费8800元](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%946%E5%A4%A9%E7%A0%94%E5%AD%A6%E6%94%B6%E8%B4%B98800%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,10 +29,10 @@
 
 > 哔哩哔哩  
 
-1. [确保人民群众安全温暖过冬](https://www.baidu.com/s?wd=%E7%A1%AE%E4%BF%9D%E4%BA%BA%E6%B0%91%E7%BE%A4%E4%BC%97%E5%AE%89%E5%85%A8%E6%B8%A9%E6%9A%96%E8%BF%87%E5%86%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [奔赴中越命运共同体的美好明天](https://www.baidu.com/s?wd=%E5%A5%94%E8%B5%B4%E4%B8%AD%E8%B6%8A%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%BE%8E%E5%A5%BD%E6%98%8E%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [生产商称未生产过小杨哥带货牛肉卷](https://www.baidu.com/s?wd=%E7%94%9F%E4%BA%A7%E5%95%86%E7%A7%B0%E6%9C%AA%E7%94%9F%E4%BA%A7%E8%BF%87%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%B8%A6%E8%B4%A7%E7%89%9B%E8%82%89%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [有网友正式起诉新华字典](https://www.baidu.com/s?wd=%E6%9C%89%E7%BD%91%E5%8F%8B%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [11月份国民经济持续回升向好](https://www.baidu.com/s?wd=11%E6%9C%88%E4%BB%BD%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E6%8C%81%E7%BB%AD%E5%9B%9E%E5%8D%87%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [以前所未有的力度打开了崭新局面](https://www.baidu.com/s?wd=%E4%BB%A5%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E5%8A%9B%E5%BA%A6%E6%89%93%E5%BC%80%E4%BA%86%E5%B4%AD%E6%96%B0%E5%B1%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [俄罗斯芭蕾舞团在东北跳科目三](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E8%8A%AD%E8%95%BE%E8%88%9E%E5%9B%A2%E5%9C%A8%E4%B8%9C%E5%8C%97%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子捡银行卡猜中密码取5000](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8D%A1%E9%93%B6%E8%A1%8C%E5%8D%A1%E7%8C%9C%E4%B8%AD%E5%AF%86%E7%A0%81%E5%8F%965000&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [工作人员回应6天研学收费8800元](https://www.baidu.com/s?wd=%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%946%E5%A4%A9%E7%A0%94%E5%AD%A6%E6%94%B6%E8%B4%B98800%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
