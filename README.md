@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 10:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 10:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黄子弘凡 四级](https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%20%E5%9B%9B%E7%BA%A7&t=31&band_rank=6&Refer=top)<br />
 7. [沙溢有沙溢但沙溢忍了](https://s.weibo.com/weibo?q=%E6%B2%99%E6%BA%A2%E6%9C%89%E6%B2%99%E6%BA%A2%E4%BD%86%E6%B2%99%E6%BA%A2%E5%BF%8D%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [生产商称从未生产过小杨哥带货牛肉卷](https://s.weibo.com/weibo?q=%23%E7%94%9F%E4%BA%A7%E5%95%86%E7%A7%B0%E4%BB%8E%E6%9C%AA%E7%94%9F%E4%BA%A7%E8%BF%87%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%B8%A6%E8%B4%A7%E7%89%9B%E8%82%89%E5%8D%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [反复高热后21岁大学生确诊红斑狼疮](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%A4%8D%E9%AB%98%E7%83%AD%E5%90%8E21%E5%B2%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A1%AE%E8%AF%8A%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [网传女子裸体冻亡系不实信息](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A5%B3%E5%AD%90%E8%A3%B8%E4%BD%93%E5%86%BB%E4%BA%A1%E7%B3%BB%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
