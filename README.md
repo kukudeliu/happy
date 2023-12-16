@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 13:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 13:56:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [六级考生 汗流浃背了](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7%E8%80%83%E7%94%9F%20%E6%B1%97%E6%B5%81%E6%B5%83%E8%83%8C%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [B站推荐 乱七八糟](https://s.weibo.com/weibo?q=B%E7%AB%99%E6%8E%A8%E8%8D%90%20%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F&t=31&band_rank=7&Refer=top)<br />
 8. [瑞思拜 四级](https://s.weibo.com/weibo?q=%E7%91%9E%E6%80%9D%E6%8B%9C%20%E5%9B%9B%E7%BA%A7&t=31&band_rank=8&Refer=top)<br />
-9. [初雪一位](https://s.weibo.com/weibo?q=%23%E5%88%9D%E9%9B%AA%E4%B8%80%E4%BD%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [许昕通知谢娜到国家队报到](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%95%E9%80%9A%E7%9F%A5%E8%B0%A2%E5%A8%9C%E5%88%B0%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%8A%A5%E5%88%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
