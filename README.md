@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 22:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 22:55:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [全力确保人民群众安全温暖过冬](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E7%A1%AE%E4%BF%9D%E4%BA%BA%E6%B0%91%E7%BE%A4%E4%BC%97%E5%AE%89%E5%85%A8%E6%B8%A9%E6%9A%96%E8%BF%87%E5%86%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [奔赴中越命运共同体的美好明天](https://www.baidu.com/s?wd=%E5%A5%94%E8%B5%B4%E4%B8%AD%E8%B6%8A%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%BE%8E%E5%A5%BD%E6%98%8E%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [国内同一天最大温差达到76℃](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E5%90%8C%E4%B8%80%E5%A4%A9%E6%9C%80%E5%A4%A7%E6%B8%A9%E5%B7%AE%E8%BE%BE%E5%88%B076%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [雪后刹车无效 司机一路顺滑下坡](https://www.baidu.com/s?wd=%E9%9B%AA%E5%90%8E%E5%88%B9%E8%BD%A6%E6%97%A0%E6%95%88+%E5%8F%B8%E6%9C%BA%E4%B8%80%E8%B7%AF%E9%A1%BA%E6%BB%91%E4%B8%8B%E5%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个经济会议与我们息息相关](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%BB%8F%E6%B5%8E%E4%BC%9A%E8%AE%AE%E4%B8%8E%E6%88%91%E4%BB%AC%E6%81%AF%E6%81%AF%E7%9B%B8%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [全力确保人民群众安全温暖过冬](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E7%A1%AE%E4%BF%9D%E4%BA%BA%E6%B0%91%E7%BE%A4%E4%BC%97%E5%AE%89%E5%85%A8%E6%B8%A9%E6%9A%96%E8%BF%87%E5%86%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [奔赴中越命运共同体的美好明天](https://www.baidu.com/s?wd=%E5%A5%94%E8%B5%B4%E4%B8%AD%E8%B6%8A%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%BE%8E%E5%A5%BD%E6%98%8E%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [国内同一天最大温差达到76℃](https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E5%90%8C%E4%B8%80%E5%A4%A9%E6%9C%80%E5%A4%A7%E6%B8%A9%E5%B7%AE%E8%BE%BE%E5%88%B076%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [雪后刹车无效 司机一路顺滑下坡](https://www.baidu.com/s?wd=%E9%9B%AA%E5%90%8E%E5%88%B9%E8%BD%A6%E6%97%A0%E6%95%88+%E5%8F%B8%E6%9C%BA%E4%B8%80%E8%B7%AF%E9%A1%BA%E6%BB%91%E4%B8%8B%E5%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这个经济会议与我们息息相关](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%BB%8F%E6%B5%8E%E4%BC%9A%E8%AE%AE%E4%B8%8E%E6%88%91%E4%BB%AC%E6%81%AF%E6%81%AF%E7%9B%B8%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
