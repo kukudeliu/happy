@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 10:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 10:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [东方甄选停播一天闭门思过](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%81%9C%E6%92%AD%E4%B8%80%E5%A4%A9%E9%97%AD%E9%97%A8%E6%80%9D%E8%BF%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [清华教授认为鸡兔同笼数学题与现实脱节](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%E8%AE%A4%E4%B8%BA%E9%B8%A1%E5%85%94%E5%90%8C%E7%AC%BC%E6%95%B0%E5%AD%A6%E9%A2%98%E4%B8%8E%E7%8E%B0%E5%AE%9E%E8%84%B1%E8%8A%82%23&t=31&band_rank=7&Refer=top)<br />
 8. [黄子弘凡 四级](https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%20%E5%9B%9B%E7%BA%A7&t=31&band_rank=8&Refer=top)<br />
-9. [沙溢有沙溢但沙溢忍了](https://s.weibo.com/weibo?q=%E6%B2%99%E6%BA%A2%E6%9C%89%E6%B2%99%E6%BA%A2%E4%BD%86%E6%B2%99%E6%BA%A2%E5%BF%8D%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [反复高热后21岁大学生确诊红斑狼疮](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%A4%8D%E9%AB%98%E7%83%AD%E5%90%8E21%E5%B2%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A1%AE%E8%AF%8A%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
