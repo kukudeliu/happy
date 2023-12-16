@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-17 05:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-17 05:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [罗永浩说俞敏洪董宇辉直播是昏招](https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%AF%B4%E4%BF%9E%E6%95%8F%E6%B4%AA%E8%91%A3%E5%AE%87%E8%BE%89%E7%9B%B4%E6%92%AD%E6%98%AF%E6%98%8F%E6%8B%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [张凌赫全开麦 一开口我人傻了](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%85%A8%E5%BC%80%E9%BA%A6%20%E4%B8%80%E5%BC%80%E5%8F%A3%E6%88%91%E4%BA%BA%E5%82%BB%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [你们俩这么亲我就不困了](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BB%AC%E4%BF%A9%E8%BF%99%E4%B9%88%E4%BA%B2%E6%88%91%E5%B0%B1%E4%B8%8D%E5%9B%B0%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [杨幂和30斤裙子度过一天](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E5%92%8C30%E6%96%A4%E8%A3%99%E5%AD%90%E5%BA%A6%E8%BF%87%E4%B8%80%E5%A4%A9&t=31&band_rank=9&Refer=top)<br />
+9. [六级卷子一股老人味](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7%E5%8D%B7%E5%AD%90%E4%B8%80%E8%82%A1%E8%80%81%E4%BA%BA%E5%91%B3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
