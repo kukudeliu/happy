@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 09:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-16 09:47:01</h4></div>
 
 > 微博  
 
 1. [给住院婆婆吃泡面博主发声](https://s.weibo.com/weibo?q=%23%E7%BB%99%E4%BD%8F%E9%99%A2%E5%A9%86%E5%A9%86%E5%90%83%E6%B3%A1%E9%9D%A2%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=1&Refer=top)<br />
-2. [生产商称从未生产过小杨哥带货牛肉卷](https://s.weibo.com/weibo?q=%23%E7%94%9F%E4%BA%A7%E5%95%86%E7%A7%B0%E4%BB%8E%E6%9C%AA%E7%94%9F%E4%BA%A7%E8%BF%87%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%B8%A6%E8%B4%A7%E7%89%9B%E8%82%89%E5%8D%B7%23&t=31&band_rank=2&Refer=top)<br />
+2. [草莓 车厘子](https://s.weibo.com/weibo?q=%E8%8D%89%E8%8E%93%20%E8%BD%A6%E5%8E%98%E5%AD%90&t=31&band_rank=2&Refer=top)<br />
 3. [如果中国县城变身各科课代表](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E4%B8%AD%E5%9B%BD%E5%8E%BF%E5%9F%8E%E5%8F%98%E8%BA%AB%E5%90%84%E7%A7%91%E8%AF%BE%E4%BB%A3%E8%A1%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [东方甄选停播一天闭门思过](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%81%9C%E6%92%AD%E4%B8%80%E5%A4%A9%E9%97%AD%E9%97%A8%E6%80%9D%E8%BF%87%23&t=31&band_rank=4&Refer=top)<br />
-5. [草莓 车厘子](https://s.weibo.com/weibo?q=%E8%8D%89%E8%8E%93%20%E8%BD%A6%E5%8E%98%E5%AD%90&t=31&band_rank=5&Refer=top)<br />
+5. [生产商称从未生产过小杨哥带货牛肉卷](https://s.weibo.com/weibo?q=%23%E7%94%9F%E4%BA%A7%E5%95%86%E7%A7%B0%E4%BB%8E%E6%9C%AA%E7%94%9F%E4%BA%A7%E8%BF%87%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%B8%A6%E8%B4%A7%E7%89%9B%E8%82%89%E5%8D%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [黄子弘凡 四级](https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%20%E5%9B%9B%E7%BA%A7&t=31&band_rank=6&Refer=top)<br />
 7. [沙溢有沙溢但沙溢忍了](https://s.weibo.com/weibo?q=%E6%B2%99%E6%BA%A2%E6%9C%89%E6%B2%99%E6%BA%A2%E4%BD%86%E6%B2%99%E6%BA%A2%E5%BF%8D%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [工作是为了早点赎身 不是干成头牌](https://s.weibo.com/weibo?q=%E5%B7%A5%E4%BD%9C%E6%98%AF%E4%B8%BA%E4%BA%86%E6%97%A9%E7%82%B9%E8%B5%8E%E8%BA%AB%20%E4%B8%8D%E6%98%AF%E5%B9%B2%E6%88%90%E5%A4%B4%E7%89%8C&t=31&band_rank=8&Refer=top)<br />
-9. [赵文卓 演员迟到成常规了](https://s.weibo.com/weibo?q=%E8%B5%B5%E6%96%87%E5%8D%93%20%E6%BC%94%E5%91%98%E8%BF%9F%E5%88%B0%E6%88%90%E5%B8%B8%E8%A7%84%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [反复高热后21岁大学生确诊红斑狼疮](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%A4%8D%E9%AB%98%E7%83%AD%E5%90%8E21%E5%B2%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A1%AE%E8%AF%8A%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
