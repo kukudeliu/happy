@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 01:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 01:15:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王一博到底在急什么](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%88%B0%E5%BA%95%E5%9C%A8%E6%80%A5%E4%BB%80%E4%B9%88&t=31&band_rank=6&Refer=top)<br />
 7. [日本死鱼多到渔船寸步难行](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%AD%BB%E9%B1%BC%E5%A4%9A%E5%88%B0%E6%B8%94%E8%88%B9%E5%AF%B8%E6%AD%A5%E9%9A%BE%E8%A1%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [瘦了40斤 更焦虑了](https://s.weibo.com/weibo?q=%E7%98%A6%E4%BA%8640%E6%96%A4%20%E6%9B%B4%E7%84%A6%E8%99%91%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [我这一生如履薄冰](https://s.weibo.com/weibo?q=%E6%88%91%E8%BF%99%E4%B8%80%E7%94%9F%E5%A6%82%E5%B1%A5%E8%96%84%E5%86%B0&t=31&band_rank=9&Refer=top)<br />
+9. [真的需要这件羽绒服](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E9%9C%80%E8%A6%81%E8%BF%99%E4%BB%B6%E7%BE%BD%E7%BB%92%E6%9C%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
