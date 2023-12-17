@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-17 10:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-17 10:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [青岛胶州湾出现海冰凌景观](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E8%83%B6%E5%B7%9E%E6%B9%BE%E5%87%BA%E7%8E%B0%E6%B5%B7%E5%86%B0%E5%87%8C%E6%99%AF%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大山58岁：不再穿着唐装作揖拜年](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B1%B158%E5%B2%81%EF%BC%9A%E4%B8%8D%E5%86%8D%E7%A9%BF%E7%9D%80%E5%94%90%E8%A3%85%E4%BD%9C%E6%8F%96%E6%8B%9C%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [刘浩存哭戏](https://www.baidu.com/s?wd=%E5%88%98%E6%B5%A9%E5%AD%98%E5%93%AD%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [赵文卓说演员迟到成常规](https://www.baidu.com/s?wd=%E8%B5%B5%E6%96%87%E5%8D%93%E8%AF%B4%E6%BC%94%E5%91%98%E8%BF%9F%E5%88%B0%E6%88%90%E5%B8%B8%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡歌南海深潜捡回两块电池](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%8D%97%E6%B5%B7%E6%B7%B1%E6%BD%9C%E6%8D%A1%E5%9B%9E%E4%B8%A4%E5%9D%97%E7%94%B5%E6%B1%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [红绿灯弹射起步被处罚？假的](https://www.baidu.com/s?wd=%E7%BA%A2%E7%BB%BF%E7%81%AF%E5%BC%B9%E5%B0%84%E8%B5%B7%E6%AD%A5%E8%A2%AB%E5%A4%84%E7%BD%9A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [青岛胶州湾出现海冰凌景观](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E8%83%B6%E5%B7%9E%E6%B9%BE%E5%87%BA%E7%8E%B0%E6%B5%B7%E5%86%B0%E5%87%8C%E6%99%AF%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大山58岁：不再穿着唐装作揖拜年](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B1%B158%E5%B2%81%EF%BC%9A%E4%B8%8D%E5%86%8D%E7%A9%BF%E7%9D%80%E5%94%90%E8%A3%85%E4%BD%9C%E6%8F%96%E6%8B%9C%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [刘浩存哭戏](https://www.baidu.com/s?wd=%E5%88%98%E6%B5%A9%E5%AD%98%E5%93%AD%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [赵文卓说演员迟到成常规](https://www.baidu.com/s?wd=%E8%B5%B5%E6%96%87%E5%8D%93%E8%AF%B4%E6%BC%94%E5%91%98%E8%BF%9F%E5%88%B0%E6%88%90%E5%B8%B8%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡歌南海深潜捡回两块电池](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%8D%97%E6%B5%B7%E6%B7%B1%E6%BD%9C%E6%8D%A1%E5%9B%9E%E4%B8%A4%E5%9D%97%E7%94%B5%E6%B1%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [红绿灯弹射起步被处罚？假的](https://www.baidu.com/s?wd=%E7%BA%A2%E7%BB%BF%E7%81%AF%E5%BC%B9%E5%B0%84%E8%B5%B7%E6%AD%A5%E8%A2%AB%E5%A4%84%E7%BD%9A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
