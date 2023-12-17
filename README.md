@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-17 14:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-17 14:29:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [保障群众正常生产生活](https://www.baidu.com/s?wd=%E4%BF%9D%E9%9A%9C%E7%BE%A4%E4%BC%97%E6%AD%A3%E5%B8%B8%E7%94%9F%E4%BA%A7%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [为什么有人背粮食登上去韩国的航班](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E8%83%8C%E7%B2%AE%E9%A3%9F%E7%99%BB%E4%B8%8A%E5%8E%BB%E9%9F%A9%E5%9B%BD%E7%9A%84%E8%88%AA%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [北京一居民花10万买高15米大恐龙](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%B1%85%E6%B0%91%E8%8A%B110%E4%B8%87%E4%B9%B0%E9%AB%9815%E7%B1%B3%E5%A4%A7%E6%81%90%E9%BE%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [教师猥亵儿童获刑二年三个月](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E7%8C%A5%E4%BA%B5%E5%84%BF%E7%AB%A5%E8%8E%B7%E5%88%91%E4%BA%8C%E5%B9%B4%E4%B8%89%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [刘奇凡已任青海省委副书记](https://www.baidu.com/s?wd=%E5%88%98%E5%A5%87%E5%87%A1%E5%B7%B2%E4%BB%BB%E9%9D%92%E6%B5%B7%E7%9C%81%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李彦宏极客公园对谈](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BD%A6%E5%AE%8F%E6%9E%81%E5%AE%A2%E5%85%AC%E5%9B%AD%E5%AF%B9%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“功能鸡蛋”更健康安全吗？](https://www.baidu.com/s?wd=%E2%80%9C%E5%8A%9F%E8%83%BD%E9%B8%A1%E8%9B%8B%E2%80%9D%E6%9B%B4%E5%81%A5%E5%BA%B7%E5%AE%89%E5%85%A8%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [保障群众正常生产生活](https://www.baidu.com/s?wd=%E4%BF%9D%E9%9A%9C%E7%BE%A4%E4%BC%97%E6%AD%A3%E5%B8%B8%E7%94%9F%E4%BA%A7%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [为什么有人背粮食登上去韩国的航班](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E8%83%8C%E7%B2%AE%E9%A3%9F%E7%99%BB%E4%B8%8A%E5%8E%BB%E9%9F%A9%E5%9B%BD%E7%9A%84%E8%88%AA%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [北京一居民花10万买高15米大恐龙](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E5%B1%85%E6%B0%91%E8%8A%B110%E4%B8%87%E4%B9%B0%E9%AB%9815%E7%B1%B3%E5%A4%A7%E6%81%90%E9%BE%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [教师猥亵儿童获刑二年三个月](https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E7%8C%A5%E4%BA%B5%E5%84%BF%E7%AB%A5%E8%8E%B7%E5%88%91%E4%BA%8C%E5%B9%B4%E4%B8%89%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [刘奇凡已任青海省委副书记](https://www.baidu.com/s?wd=%E5%88%98%E5%A5%87%E5%87%A1%E5%B7%B2%E4%BB%BB%E9%9D%92%E6%B5%B7%E7%9C%81%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [李彦宏极客公园对谈](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BD%A6%E5%AE%8F%E6%9E%81%E5%AE%A2%E5%85%AC%E5%9B%AD%E5%AF%B9%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“功能鸡蛋”更健康安全吗？](https://www.baidu.com/s?wd=%E2%80%9C%E5%8A%9F%E8%83%BD%E9%B8%A1%E8%9B%8B%E2%80%9D%E6%9B%B4%E5%81%A5%E5%BA%B7%E5%AE%89%E5%85%A8%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
