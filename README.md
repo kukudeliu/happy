@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-17 11:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-17 11:46:01</h4></div>
 
 > 微博  
 
-1. [北京一居民花10万买高15米大恐龙](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E5%B1%85%E6%B0%91%E8%8A%B110%E4%B8%87%E4%B9%B0%E9%AB%9815%E7%B1%B3%E5%A4%A7%E6%81%90%E9%BE%99%23&t=31&band_rank=1&Refer=top)<br />
-2. [东方甄选CFO发声](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89CFO%E5%8F%91%E5%A3%B0%23&t=31&band_rank=2&Refer=top)<br />
+1. [东方甄选CFO发声](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89CFO%E5%8F%91%E5%A3%B0%23&t=31&band_rank=1&Refer=top)<br />
+2. [北京一居民花10万买高15米大恐龙](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E5%B1%85%E6%B0%91%E8%8A%B110%E4%B8%87%E4%B9%B0%E9%AB%9815%E7%B1%B3%E5%A4%A7%E6%81%90%E9%BE%99%23&t=31&band_rank=2&Refer=top)<br />
 3. [自主研制飞机C919环绕香港岛做演示](https://s.weibo.com/weibo?q=%23%E8%87%AA%E4%B8%BB%E7%A0%94%E5%88%B6%E9%A3%9E%E6%9C%BAC919%E7%8E%AF%E7%BB%95%E9%A6%99%E6%B8%AF%E5%B2%9B%E5%81%9A%E6%BC%94%E7%A4%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [陈赫鹿晗跳科目三](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E9%B9%BF%E6%99%97%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [星光大赏节目单](https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E8%8A%82%E7%9B%AE%E5%8D%95%23&t=31&band_rank=5&Refer=top)<br />
