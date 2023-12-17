@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 04:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 04:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [日本死鱼多到渔船寸步难行](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%AD%BB%E9%B1%BC%E5%A4%9A%E5%88%B0%E6%B8%94%E8%88%B9%E5%AF%B8%E6%AD%A5%E9%9A%BE%E8%A1%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘畊宏出圈1年多后谈流量下滑](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E5%87%BA%E5%9C%881%E5%B9%B4%E5%A4%9A%E5%90%8E%E8%B0%88%E6%B5%81%E9%87%8F%E4%B8%8B%E6%BB%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [王强 被俞敏洪遮住的男人](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%BC%BA%20%E8%A2%AB%E4%BF%9E%E6%95%8F%E6%B4%AA%E9%81%AE%E4%BD%8F%E7%9A%84%E7%94%B7%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
-9. [这押题让春晚导演汗流浃背了](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%8A%BC%E9%A2%98%E8%AE%A9%E6%98%A5%E6%99%9A%E5%AF%BC%E6%BC%94%E6%B1%97%E6%B5%81%E6%B5%83%E8%83%8C%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [真的需要这件羽绒服](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E9%9C%80%E8%A6%81%E8%BF%99%E4%BB%B6%E7%BE%BD%E7%BB%92%E6%9C%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
