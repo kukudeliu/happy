@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 02:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 02:03:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [台湾知名景点象鼻岩“象鼻”坠海](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%9F%A5%E5%90%8D%E6%99%AF%E7%82%B9%E8%B1%A1%E9%BC%BB%E5%B2%A9%E2%80%9C%E8%B1%A1%E9%BC%BB%E2%80%9D%E5%9D%A0%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [全国各地加速清退“老头乐”](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E5%8A%A0%E9%80%9F%E6%B8%85%E9%80%80%E2%80%9C%E8%80%81%E5%A4%B4%E4%B9%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网约车为什么总是臭臭的](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A6%E8%BD%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E6%98%AF%E8%87%AD%E8%87%AD%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子疑因丢手机不让饭店所有人走](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%96%91%E5%9B%A0%E4%B8%A2%E6%89%8B%E6%9C%BA%E4%B8%8D%E8%AE%A9%E9%A5%AD%E5%BA%97%E6%89%80%E6%9C%89%E4%BA%BA%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专硕生称房租是学费的3倍](https://www.baidu.com/s?wd=%E4%B8%93%E7%A1%95%E7%94%9F%E7%A7%B0%E6%88%BF%E7%A7%9F%E6%98%AF%E5%AD%A6%E8%B4%B9%E7%9A%843%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多款冠名农科院零食宣传不实](https://www.baidu.com/s?wd=%E5%A4%9A%E6%AC%BE%E5%86%A0%E5%90%8D%E5%86%9C%E7%A7%91%E9%99%A2%E9%9B%B6%E9%A3%9F%E5%AE%A3%E4%BC%A0%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [台湾知名景点象鼻岩“象鼻”坠海](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%9F%A5%E5%90%8D%E6%99%AF%E7%82%B9%E8%B1%A1%E9%BC%BB%E5%B2%A9%E2%80%9C%E8%B1%A1%E9%BC%BB%E2%80%9D%E5%9D%A0%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [全国各地加速清退“老头乐”](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E5%8A%A0%E9%80%9F%E6%B8%85%E9%80%80%E2%80%9C%E8%80%81%E5%A4%B4%E4%B9%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网约车为什么总是臭臭的](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A6%E8%BD%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E6%98%AF%E8%87%AD%E8%87%AD%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子疑因丢手机不让饭店所有人走](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%96%91%E5%9B%A0%E4%B8%A2%E6%89%8B%E6%9C%BA%E4%B8%8D%E8%AE%A9%E9%A5%AD%E5%BA%97%E6%89%80%E6%9C%89%E4%BA%BA%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专硕生称房租是学费的3倍](https://www.baidu.com/s?wd=%E4%B8%93%E7%A1%95%E7%94%9F%E7%A7%B0%E6%88%BF%E7%A7%9F%E6%98%AF%E5%AD%A6%E8%B4%B9%E7%9A%843%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多款冠名农科院零食宣传不实](https://www.baidu.com/s?wd=%E5%A4%9A%E6%AC%BE%E5%86%A0%E5%90%8D%E5%86%9C%E7%A7%91%E9%99%A2%E9%9B%B6%E9%A3%9F%E5%AE%A3%E4%BC%A0%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
