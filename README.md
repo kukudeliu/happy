@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-17 12:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-17 12:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [星光大赏节目单](https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E8%8A%82%E7%9B%AE%E5%8D%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [法老的宠妃 银发的公主](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%81%E7%9A%84%E5%AE%A0%E5%A6%83%20%E9%93%B6%E5%8F%91%E7%9A%84%E5%85%AC%E4%B8%BB&t=31&band_rank=7&Refer=top)<br />
 8. [溜溜梅立牌](https://s.weibo.com/weibo?q=%E6%BA%9C%E6%BA%9C%E6%A2%85%E7%AB%8B%E7%89%8C&t=31&band_rank=8&Refer=top)<br />
-9. [考研人去考了六级](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E4%BA%BA%E5%8E%BB%E8%80%83%E4%BA%86%E5%85%AD%E7%BA%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [景甜藕粉妆](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E8%97%95%E7%B2%89%E5%A6%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
