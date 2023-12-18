@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 19:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 19:47:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [父亲骄傲展示30岁智力障碍儿子手工作品](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E9%AA%84%E5%82%B2%E5%B1%95%E7%A4%BA30%E5%B2%81%E6%99%BA%E5%8A%9B%E9%9A%9C%E7%A2%8D%E5%84%BF%E5%AD%90%E6%89%8B%E5%B7%A5%E4%BD%9C%E5%93%81%23&t=31&band_rank=5&Refer=top)<br />
 6. [张元英回山东都得穿棉袄](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E5%9B%9E%E5%B1%B1%E4%B8%9C%E9%83%BD%E5%BE%97%E7%A9%BF%E6%A3%89%E8%A2%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [输入法暴露了反诈民警的职业病](https://s.weibo.com/weibo?q=%23%E8%BE%93%E5%85%A5%E6%B3%95%E6%9A%B4%E9%9C%B2%E4%BA%86%E5%8F%8D%E8%AF%88%E6%B0%91%E8%AD%A6%E7%9A%84%E8%81%8C%E4%B8%9A%E7%97%85%23&t=31&band_rank=7&Refer=top)<br />
-8. [吴露可逃](https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%9C%B2%E5%8F%AF%E9%80%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [朱一龙受伤](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%8F%97%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
+8. [朱一龙受伤](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%8F%97%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
+9. [吴露可逃](https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%9C%B2%E5%8F%AF%E9%80%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
