@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 21:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 21:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [屋顶着火 derderderder](https://s.weibo.com/weibo?q=%E5%B1%8B%E9%A1%B6%E7%9D%80%E7%81%AB%20derderderder&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴她慌了](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A5%B9%E6%85%8C%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [任如意殉情](https://s.weibo.com/weibo?q=%E4%BB%BB%E5%A6%82%E6%84%8F%E6%AE%89%E6%83%85&t=31&band_rank=8&Refer=top)<br />
-9. [江苏多地停课一天](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%A4%9A%E5%9C%B0%E5%81%9C%E8%AF%BE%E4%B8%80%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [威海 有海又有雪](https://s.weibo.com/weibo?q=%E5%A8%81%E6%B5%B7%20%E6%9C%89%E6%B5%B7%E5%8F%88%E6%9C%89%E9%9B%AA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
