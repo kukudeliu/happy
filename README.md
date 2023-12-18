@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 22:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 22:19:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [一念关山 癫剧](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E7%99%AB%E5%89%A7&t=31&band_rank=5&Refer=top)<br />
 6. [南京一辅警雪中保畅不幸殉职](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%80%E8%BE%85%E8%AD%A6%E9%9B%AA%E4%B8%AD%E4%BF%9D%E7%95%85%E4%B8%8D%E5%B9%B8%E6%AE%89%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [屋顶着火 derderderder](https://s.weibo.com/weibo?q=%E5%B1%8B%E9%A1%B6%E7%9D%80%E7%81%AB%20derderderder&t=31&band_rank=7&Refer=top)<br />
-8. [迪丽热巴她慌了](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A5%B9%E6%85%8C%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [男子不满航班延误亮明网红身份维权](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8D%E6%BB%A1%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AF%AF%E4%BA%AE%E6%98%8E%E7%BD%91%E7%BA%A2%E8%BA%AB%E4%BB%BD%E7%BB%B4%E6%9D%83%23&t=31&band_rank=9&Refer=top)<br />
+8. [男子不满航班延误亮明网红身份维权](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8D%E6%BB%A1%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AF%AF%E4%BA%AE%E6%98%8E%E7%BD%91%E7%BA%A2%E8%BA%AB%E4%BB%BD%E7%BB%B4%E6%9D%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [迪丽热巴她慌了](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A5%B9%E6%85%8C%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
