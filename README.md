@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 03:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 03:59:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [我国首艘大洋钻探船正式命名并试航](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E8%89%98%E5%A4%A7%E6%B4%8B%E9%92%BB%E6%8E%A2%E8%88%B9%E6%AD%A3%E5%BC%8F%E5%91%BD%E5%90%8D%E5%B9%B6%E8%AF%95%E8%88%AA%23&t=31&band_rank=3&Refer=top)<br />
 4. [董明珠称一切都是孟羽童的选择](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E5%AD%9F%E7%BE%BD%E7%AB%A5%E7%9A%84%E9%80%89%E6%8B%A9%23&t=31&band_rank=4&Refer=top)<br />
 5. [甘肃天气](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%94&t=31&band_rank=5&Refer=top)<br />
-6. [一念关山 癫剧](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E7%99%AB%E5%89%A7&t=31&band_rank=6&Refer=top)<br />
-7. [钝感力](https://s.weibo.com/weibo?q=%E9%92%9D%E6%84%9F%E5%8A%9B&t=31&band_rank=7&Refer=top)<br />
+6. [钝感力](https://s.weibo.com/weibo?q=%E9%92%9D%E6%84%9F%E5%8A%9B&t=31&band_rank=6&Refer=top)<br />
+7. [一念关山 癫剧](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E7%99%AB%E5%89%A7&t=31&band_rank=7&Refer=top)<br />
 8. [甘肃积石山地震消防已救出2人](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%9C%B0%E9%9C%87%E6%B6%88%E9%98%B2%E5%B7%B2%E6%95%91%E5%87%BA2%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [甘肃余震](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E4%BD%99%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
 
@@ -24,7 +24,7 @@
 5. [甘肃地震现场：有房屋受损 吊顶垮塌](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA%EF%BC%9A%E6%9C%89%E6%88%BF%E5%B1%8B%E5%8F%97%E6%8D%9F+%E5%90%8A%E9%A1%B6%E5%9E%AE%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [甘肃地震 省委书记、省长赶往灾区](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E3%80%81%E7%9C%81%E9%95%BF%E8%B5%B6%E5%BE%80%E7%81%BE%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山东两幼师出租房内遇害](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%A4%E5%B9%BC%E5%B8%88%E5%87%BA%E7%A7%9F%E6%88%BF%E5%86%85%E9%81%87%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [暗访非法代孕公司 代孕者不乏大学生](https://www.baidu.com/s?wd=%E6%9A%97%E8%AE%BF%E9%9D%9E%E6%B3%95%E4%BB%A3%E5%AD%95%E5%85%AC%E5%8F%B8+%E4%BB%A3%E5%AD%95%E8%80%85%E4%B8%8D%E4%B9%8F%E5%A4%A7%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子出车祸鲨鱼夹插入后脑勺](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%87%BA%E8%BD%A6%E7%A5%B8%E9%B2%A8%E9%B1%BC%E5%A4%B9%E6%8F%92%E5%85%A5%E5%90%8E%E8%84%91%E5%8B%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣南京过江隧道连环追尾](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%8D%97%E4%BA%AC%E8%BF%87%E6%B1%9F%E9%9A%A7%E9%81%93%E8%BF%9E%E7%8E%AF%E8%BF%BD%E5%B0%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [甘肃地震现场：有房屋受损 吊顶垮塌](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA%EF%BC%9A%E6%9C%89%E6%88%BF%E5%B1%8B%E5%8F%97%E6%8D%9F+%E5%90%8A%E9%A1%B6%E5%9E%AE%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [甘肃地震 省委书记、省长赶往灾区](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E3%80%81%E7%9C%81%E9%95%BF%E8%B5%B6%E5%BE%80%E7%81%BE%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山东两幼师出租房内遇害](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%A4%E5%B9%BC%E5%B8%88%E5%87%BA%E7%A7%9F%E6%88%BF%E5%86%85%E9%81%87%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [暗访非法代孕公司 代孕者不乏大学生](https://www.baidu.com/s?wd=%E6%9A%97%E8%AE%BF%E9%9D%9E%E6%B3%95%E4%BB%A3%E5%AD%95%E5%85%AC%E5%8F%B8+%E4%BB%A3%E5%AD%95%E8%80%85%E4%B8%8D%E4%B9%8F%E5%A4%A7%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子出车祸鲨鱼夹插入后脑勺](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%87%BA%E8%BD%A6%E7%A5%B8%E9%B2%A8%E9%B1%BC%E5%A4%B9%E6%8F%92%E5%85%A5%E5%90%8E%E8%84%91%E5%8B%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣南京过江隧道连环追尾](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%8D%97%E4%BA%AC%E8%BF%87%E6%B1%9F%E9%9A%A7%E9%81%93%E8%BF%9E%E7%8E%AF%E8%BF%BD%E5%B0%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
