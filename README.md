@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 15:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 15:59:01</h4></div>
 
 > 微博  
 
 1. [25岁班主任结婚前一周跳楼身亡](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%BB%93%E5%A9%9A%E5%89%8D%E4%B8%80%E5%91%A8%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=1&Refer=top)<br />
-2. [迪丽热巴 Dior](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20Dior&t=31&band_rank=2&Refer=top)<br />
+2. [董宇辉任新东方文旅副总裁](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E4%BB%BB%E6%96%B0%E4%B8%9C%E6%96%B9%E6%96%87%E6%97%85%E5%89%AF%E6%80%BB%E8%A3%81%23&t=31&band_rank=2&Refer=top)<br />
 3. [今年是改革开放45周年](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%98%AF%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE45%E5%91%A8%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [劳荣枝希望家属帮她还花呗](https://s.weibo.com/weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E5%B8%8C%E6%9C%9B%E5%AE%B6%E5%B1%9E%E5%B8%AE%E5%A5%B9%E8%BF%98%E8%8A%B1%E5%91%97%23&t=31&band_rank=4&Refer=top)<br />
-5. [我以为装的 直到她开始流鼻血](https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%A5%E4%B8%BA%E8%A3%85%E7%9A%84%20%E7%9B%B4%E5%88%B0%E5%A5%B9%E5%BC%80%E5%A7%8B%E6%B5%81%E9%BC%BB%E8%A1%80&t=31&band_rank=5&Refer=top)<br />
-6. [董宇辉任新东方文旅副总裁](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E4%BB%BB%E6%96%B0%E4%B8%9C%E6%96%B9%E6%96%87%E6%97%85%E5%89%AF%E6%80%BB%E8%A3%81%23&t=31&band_rank=6&Refer=top)<br />
+5. [迪丽热巴 Dior](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20Dior&t=31&band_rank=5&Refer=top)<br />
+6. [我以为装的 直到她开始流鼻血](https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%A5%E4%B8%BA%E8%A3%85%E7%9A%84%20%E7%9B%B4%E5%88%B0%E5%A5%B9%E5%BC%80%E5%A7%8B%E6%B5%81%E9%BC%BB%E8%A1%80&t=31&band_rank=6&Refer=top)<br />
 7. [草莓价格大跳水](https://s.weibo.com/weibo?q=%23%E8%8D%89%E8%8E%93%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [张元英 青岛](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%85%83%E8%8B%B1%20%E9%9D%92%E5%B2%9B&t=31&band_rank=8&Refer=top)<br />
 9. [罪犯劳荣枝被执行死刑](https://s.weibo.com/weibo?q=%23%E7%BD%AA%E7%8A%AF%E5%8A%B3%E8%8D%A3%E6%9E%9D%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
