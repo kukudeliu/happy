@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 14:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 14:56:02</h4></div>
 
 > 微博  
 
 1. [25岁班主任结婚前一周跳楼身亡](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%BB%93%E5%A9%9A%E5%89%8D%E4%B8%80%E5%91%A8%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=1&Refer=top)<br />
-2. [草莓价格大跳水](https://s.weibo.com/weibo?q=%23%E8%8D%89%E8%8E%93%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=2&Refer=top)<br />
+2. [劳荣枝希望家属帮她还花呗](https://s.weibo.com/weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E5%B8%8C%E6%9C%9B%E5%AE%B6%E5%B1%9E%E5%B8%AE%E5%A5%B9%E8%BF%98%E8%8A%B1%E5%91%97%23&t=31&band_rank=2&Refer=top)<br />
 3. [详解2023年中央经济工作会议精神](https://s.weibo.com/weibo?q=%23%E8%AF%A6%E8%A7%A32023%E5%B9%B4%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E7%B2%BE%E7%A5%9E%23&t=31&band_rank=3&Refer=top)<br />
-4. [劳荣枝希望家属帮她还花呗](https://s.weibo.com/weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E5%B8%8C%E6%9C%9B%E5%AE%B6%E5%B1%9E%E5%B8%AE%E5%A5%B9%E8%BF%98%E8%8A%B1%E5%91%97%23&t=31&band_rank=4&Refer=top)<br />
+4. [草莓价格大跳水](https://s.weibo.com/weibo?q=%23%E8%8D%89%E8%8E%93%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [迪丽热巴 Dior](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20Dior&t=31&band_rank=5&Refer=top)<br />
 6. [罪犯劳荣枝被执行死刑](https://s.weibo.com/weibo?q=%23%E7%BD%AA%E7%8A%AF%E5%8A%B3%E8%8D%A3%E6%9E%9D%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [田笑蜜针对朱丹被骗事件发声](https://s.weibo.com/weibo?q=%23%E7%94%B0%E7%AC%91%E8%9C%9C%E9%92%88%E5%AF%B9%E6%9C%B1%E4%B8%B9%E8%A2%AB%E9%AA%97%E4%BA%8B%E4%BB%B6%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
