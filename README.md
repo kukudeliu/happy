@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 01:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 01:29:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [积石山](https://s.weibo.com/weibo?q=%E7%A7%AF%E7%9F%B3%E5%B1%B1&t=31&band_rank=4&Refer=top)<br />
 5. [西安震感](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E9%9C%87%E6%84%9F&t=31&band_rank=5&Refer=top)<br />
 6. [甘肃580名消防员集结赶赴震中](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83580%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E9%9B%86%E7%BB%93%E8%B5%B6%E8%B5%B4%E9%9C%87%E4%B8%AD%23&t=31&band_rank=6&Refer=top)<br />
-7. [成都震感](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%9C%87%E6%84%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [甘肃天气](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%94&t=31&band_rank=8&Refer=top)<br />
+7. [甘肃天气](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%94&t=31&band_rank=7&Refer=top)<br />
+8. [成都震感](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%9C%87%E6%84%9F%23&t=31&band_rank=8&Refer=top)<br />
 9. [一念关山 癫剧](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E7%99%AB%E5%89%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [甘肃地震现场：有房屋受损 吊顶垮塌](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA%EF%BC%9A%E6%9C%89%E6%88%BF%E5%B1%8B%E5%8F%97%E6%8D%9F+%E5%90%8A%E9%A1%B6%E5%9E%AE%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [甘肃6.2级地震 当地居民称震感强烈](https://www.baidu.com/s?wd=%E7%94%98%E8%82%836.2%E7%BA%A7%E5%9C%B0%E9%9C%87+%E5%BD%93%E5%9C%B0%E5%B1%85%E6%B0%91%E7%A7%B0%E9%9C%87%E6%84%9F%E5%BC%BA%E7%83%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [暗访非法代孕公司 代孕者不乏大学生](https://www.baidu.com/s?wd=%E6%9A%97%E8%AE%BF%E9%9D%9E%E6%B3%95%E4%BB%A3%E5%AD%95%E5%85%AC%E5%8F%B8+%E4%BB%A3%E5%AD%95%E8%80%85%E4%B8%8D%E4%B9%8F%E5%A4%A7%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [公交司机被乘客打头致车辆失控](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E8%A2%AB%E4%B9%98%E5%AE%A2%E6%89%93%E5%A4%B4%E8%87%B4%E8%BD%A6%E8%BE%86%E5%A4%B1%E6%8E%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩新婚夫妇丁克族占比创新高](https://www.baidu.com/s?wd=%E9%9F%A9%E6%96%B0%E5%A9%9A%E5%A4%AB%E5%A6%87%E4%B8%81%E5%85%8B%E6%97%8F%E5%8D%A0%E6%AF%94%E5%88%9B%E6%96%B0%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣南京过江隧道连环追尾](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%8D%97%E4%BA%AC%E8%BF%87%E6%B1%9F%E9%9A%A7%E9%81%93%E8%BF%9E%E7%8E%AF%E8%BF%BD%E5%B0%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [甘肃地震现场：有房屋受损 吊顶垮塌](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA%EF%BC%9A%E6%9C%89%E6%88%BF%E5%B1%8B%E5%8F%97%E6%8D%9F+%E5%90%8A%E9%A1%B6%E5%9E%AE%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [甘肃6.2级地震 当地居民称震感强烈](https://www.baidu.com/s?wd=%E7%94%98%E8%82%836.2%E7%BA%A7%E5%9C%B0%E9%9C%87+%E5%BD%93%E5%9C%B0%E5%B1%85%E6%B0%91%E7%A7%B0%E9%9C%87%E6%84%9F%E5%BC%BA%E7%83%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [暗访非法代孕公司 代孕者不乏大学生](https://www.baidu.com/s?wd=%E6%9A%97%E8%AE%BF%E9%9D%9E%E6%B3%95%E4%BB%A3%E5%AD%95%E5%85%AC%E5%8F%B8+%E4%BB%A3%E5%AD%95%E8%80%85%E4%B8%8D%E4%B9%8F%E5%A4%A7%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [公交司机被乘客打头致车辆失控](https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E8%A2%AB%E4%B9%98%E5%AE%A2%E6%89%93%E5%A4%B4%E8%87%B4%E8%BD%A6%E8%BE%86%E5%A4%B1%E6%8E%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩新婚夫妇丁克族占比创新高](https://www.baidu.com/s?wd=%E9%9F%A9%E6%96%B0%E5%A9%9A%E5%A4%AB%E5%A6%87%E4%B8%81%E5%85%8B%E6%97%8F%E5%8D%A0%E6%AF%94%E5%88%9B%E6%96%B0%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣南京过江隧道连环追尾](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%8D%97%E4%BA%AC%E8%BF%87%E6%B1%9F%E9%9A%A7%E9%81%93%E8%BF%9E%E7%8E%AF%E8%BF%BD%E5%B0%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
