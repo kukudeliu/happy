@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 01:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 01:11:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [甘肃余震](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E4%BD%99%E9%9C%87&t=31&band_rank=5&Refer=top)<br />
 6. [成都震感](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%9C%87%E6%84%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [兰州震感](https://s.weibo.com/weibo?q=%E5%85%B0%E5%B7%9E%E9%9C%87%E6%84%9F&t=31&band_rank=7&Refer=top)<br />
-8. [一念关山 癫剧](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E7%99%AB%E5%89%A7&t=31&band_rank=8&Refer=top)<br />
-9. [闹钟没响 单位报警](https://s.weibo.com/weibo?q=%E9%97%B9%E9%92%9F%E6%B2%A1%E5%93%8D%20%E5%8D%95%E4%BD%8D%E6%8A%A5%E8%AD%A6&t=31&band_rank=9&Refer=top)<br />
+8. [闹钟没响 单位报警](https://s.weibo.com/weibo?q=%E9%97%B9%E9%92%9F%E6%B2%A1%E5%93%8D%20%E5%8D%95%E4%BD%8D%E6%8A%A5%E8%AD%A6&t=31&band_rank=8&Refer=top)<br />
+9. [一念关山 癫剧](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E7%99%AB%E5%89%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
