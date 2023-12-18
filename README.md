@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 16:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 16:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [草莓价格大跳水](https://s.weibo.com/weibo?q=%23%E8%8D%89%E8%8E%93%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [伍佰 唱又不让唱走又不让走](https://s.weibo.com/weibo?q=%E4%BC%8D%E4%BD%B0%20%E5%94%B1%E5%8F%88%E4%B8%8D%E8%AE%A9%E5%94%B1%E8%B5%B0%E5%8F%88%E4%B8%8D%E8%AE%A9%E8%B5%B0&t=31&band_rank=7&Refer=top)<br />
 8. [胡冰卿草莓发卡 梦回百草](https://s.weibo.com/weibo?q=%E8%83%A1%E5%86%B0%E5%8D%BF%E8%8D%89%E8%8E%93%E5%8F%91%E5%8D%A1%20%E6%A2%A6%E5%9B%9E%E7%99%BE%E8%8D%89&t=31&band_rank=8&Refer=top)<br />
-9. [张元英 青岛](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%85%83%E8%8B%B1%20%E9%9D%92%E5%B2%9B&t=31&band_rank=9&Refer=top)<br />
+9. [田笑蜜已被限制高消费](https://s.weibo.com/weibo?q=%23%E7%94%B0%E7%AC%91%E8%9C%9C%E5%B7%B2%E8%A2%AB%E9%99%90%E5%88%B6%E9%AB%98%E6%B6%88%E8%B4%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
