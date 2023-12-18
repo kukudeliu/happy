@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 13:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 13:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [佟丽娅入股陈思诚公司](https://s.weibo.com/weibo?q=%23%E4%BD%9F%E4%B8%BD%E5%A8%85%E5%85%A5%E8%82%A1%E9%99%88%E6%80%9D%E8%AF%9A%E5%85%AC%E5%8F%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [给住院婆婆吃泡面博主被拘](https://s.weibo.com/weibo?q=%23%E7%BB%99%E4%BD%8F%E9%99%A2%E5%A9%86%E5%A9%86%E5%90%83%E6%B3%A1%E9%9D%A2%E5%8D%9A%E4%B8%BB%E8%A2%AB%E6%8B%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [张元英 青岛](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%85%83%E8%8B%B1%20%E9%9D%92%E5%B2%9B&t=31&band_rank=7&Refer=top)<br />
-8. [易烊千玺新片演脑瘫](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%96%B0%E7%89%87%E6%BC%94%E8%84%91%E7%98%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [班主任猥亵女生校方称怕耽误高考不开除](https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%8C%A5%E4%BA%B5%E5%A5%B3%E7%94%9F%E6%A0%A1%E6%96%B9%E7%A7%B0%E6%80%95%E8%80%BD%E8%AF%AF%E9%AB%98%E8%80%83%E4%B8%8D%E5%BC%80%E9%99%A4%23&t=31&band_rank=9&Refer=top)<br />
+8. [班主任猥亵女生校方称怕耽误高考不开除](https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%8C%A5%E4%BA%B5%E5%A5%B3%E7%94%9F%E6%A0%A1%E6%96%B9%E7%A7%B0%E6%80%95%E8%80%BD%E8%AF%AF%E9%AB%98%E8%80%83%E4%B8%8D%E5%BC%80%E9%99%A4%23&t=31&band_rank=8&Refer=top)<br />
+9. [易烊千玺新片演脑瘫](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%96%B0%E7%89%87%E6%BC%94%E8%84%91%E7%98%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
