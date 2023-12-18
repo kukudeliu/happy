@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 12:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 12:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张元英 青岛](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%85%83%E8%8B%B1%20%E9%9D%92%E5%B2%9B&t=31&band_rank=6&Refer=top)<br />
 7. [倪妮周雨彤 体面](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%E5%91%A8%E9%9B%A8%E5%BD%A4%20%E4%BD%93%E9%9D%A2&t=31&band_rank=7&Refer=top)<br />
 8. [京剧表演艺术家李幼斌去世](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E5%89%A7%E8%A1%A8%E6%BC%94%E8%89%BA%E6%9C%AF%E5%AE%B6%E6%9D%8E%E5%B9%BC%E6%96%8C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴连续三届vip之星](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%B1%8Avip%E4%B9%8B%E6%98%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [小小的我官宣](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%8F%E7%9A%84%E6%88%91%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
