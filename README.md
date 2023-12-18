@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 15:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 15:48:01</h4></div>
 
 > 微博  
 
-1. [劳荣枝希望家属帮她还花呗](https://s.weibo.com/weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E5%B8%8C%E6%9C%9B%E5%AE%B6%E5%B1%9E%E5%B8%AE%E5%A5%B9%E8%BF%98%E8%8A%B1%E5%91%97%23&t=31&band_rank=1&Refer=top)<br />
-2. [25岁班主任结婚前一周跳楼身亡](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%BB%93%E5%A9%9A%E5%89%8D%E4%B8%80%E5%91%A8%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
+1. [25岁班主任结婚前一周跳楼身亡](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%BB%93%E5%A9%9A%E5%89%8D%E4%B8%80%E5%91%A8%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=1&Refer=top)<br />
+2. [劳荣枝希望家属帮她还花呗](https://s.weibo.com/weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E5%B8%8C%E6%9C%9B%E5%AE%B6%E5%B1%9E%E5%B8%AE%E5%A5%B9%E8%BF%98%E8%8A%B1%E5%91%97%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国首艘大洋钻探船正式命名并试航](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E8%89%98%E5%A4%A7%E6%B4%8B%E9%92%BB%E6%8E%A2%E8%88%B9%E6%AD%A3%E5%BC%8F%E5%91%BD%E5%90%8D%E5%B9%B6%E8%AF%95%E8%88%AA%23&t=31&band_rank=3&Refer=top)<br />
 4. [迪丽热巴 Dior](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20Dior&t=31&band_rank=4&Refer=top)<br />
 5. [草莓价格大跳水](https://s.weibo.com/weibo?q=%23%E8%8D%89%E8%8E%93%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=5&Refer=top)<br />
