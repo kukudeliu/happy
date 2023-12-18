@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 13:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 13:14:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [佟丽娅入股陈思诚公司](https://s.weibo.com/weibo?q=%23%E4%BD%9F%E4%B8%BD%E5%A8%85%E5%85%A5%E8%82%A1%E9%99%88%E6%80%9D%E8%AF%9A%E5%85%AC%E5%8F%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [张元英 青岛](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%85%83%E8%8B%B1%20%E9%9D%92%E5%B2%9B&t=31&band_rank=6&Refer=top)<br />
 7. [易烊千玺新片演脑瘫](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%96%B0%E7%89%87%E6%BC%94%E8%84%91%E7%98%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [学而思总裁将女主播升4级加高管序列](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E8%80%8C%E6%80%9D%E6%80%BB%E8%A3%81%E5%B0%86%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%8D%874%E7%BA%A7%E5%8A%A0%E9%AB%98%E7%AE%A1%E5%BA%8F%E5%88%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴 Dior](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20Dior&t=31&band_rank=9&Refer=top)<br />
+8. [迪丽热巴 Dior](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20Dior&t=31&band_rank=8&Refer=top)<br />
+9. [学而思总裁将女主播升4级加高管序列](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E8%80%8C%E6%80%9D%E6%80%BB%E8%A3%81%E5%B0%86%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%8D%874%E7%BA%A7%E5%8A%A0%E9%AB%98%E7%AE%A1%E5%BA%8F%E5%88%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
