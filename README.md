@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 11:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 11:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [林更新 她成我领导了](https://s.weibo.com/weibo?q=%E6%9E%97%E6%9B%B4%E6%96%B0%20%E5%A5%B9%E6%88%90%E6%88%91%E9%A2%86%E5%AF%BC%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [韩国大量进口中国辣椒酱](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A4%A7%E9%87%8F%E8%BF%9B%E5%8F%A3%E4%B8%AD%E5%9B%BD%E8%BE%A3%E6%A4%92%E9%85%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [小小的我官宣](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%8F%E7%9A%84%E6%88%91%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵露思上台忘记脱毛衣了](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E4%B8%8A%E5%8F%B0%E5%BF%98%E8%AE%B0%E8%84%B1%E6%AF%9B%E8%A1%A3%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [京剧表演艺术家李幼斌去世](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E5%89%A7%E8%A1%A8%E6%BC%94%E8%89%BA%E6%9C%AF%E5%AE%B6%E6%9D%8E%E5%B9%BC%E6%96%8C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
