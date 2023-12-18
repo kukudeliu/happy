@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 02:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 02:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [甘肃地震监控画面](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E7%9B%91%E6%8E%A7%E7%94%BB%E9%9D%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [甘肃天气](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%94&t=31&band_rank=7&Refer=top)<br />
 8. [地震致积石山县部分平房倒塌](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E8%87%B4%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%8E%BF%E9%83%A8%E5%88%86%E5%B9%B3%E6%88%BF%E5%80%92%E5%A1%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [积石山](https://s.weibo.com/weibo?q=%E7%A7%AF%E7%9F%B3%E5%B1%B1&t=31&band_rank=9&Refer=top)<br />
+9. [一念关山 癫剧](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E7%99%AB%E5%89%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
