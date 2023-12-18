@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 20:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 20:42:01</h4></div>
 
 > 微博  
 
 1. [一念关山 癫剧](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E7%99%AB%E5%89%A7&t=31&band_rank=1&Refer=top)<br />
-2. [迪丽热巴 Dior](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20Dior&t=31&band_rank=2&Refer=top)<br />
+2. [小杨哥谈去年缴税2个亿](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%B0%88%E5%8E%BB%E5%B9%B4%E7%BC%B4%E7%A8%8E2%E4%B8%AA%E4%BA%BF%23&t=31&band_rank=2&Refer=top)<br />
 3. [今年是改革开放45周年](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%98%AF%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE45%E5%91%A8%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [闲云 那英](https://s.weibo.com/weibo?q=%E9%97%B2%E4%BA%91%20%E9%82%A3%E8%8B%B1&t=31&band_rank=4&Refer=top)<br />
 5. [一念关山 你管这叫he](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E4%BD%A0%E7%AE%A1%E8%BF%99%E5%8F%ABhe&t=31&band_rank=5&Refer=top)<br />
-6. [小杨哥谈去年缴税2个亿](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%B0%88%E5%8E%BB%E5%B9%B4%E7%BC%B4%E7%A8%8E2%E4%B8%AA%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
+6. [迪丽热巴 Dior](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20Dior&t=31&band_rank=6&Refer=top)<br />
 7. [任如意殉情](https://s.weibo.com/weibo?q=%E4%BB%BB%E5%A6%82%E6%84%8F%E6%AE%89%E6%83%85&t=31&band_rank=7&Refer=top)<br />
 8. [人民网评劳荣枝被执行死刑](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%8A%B3%E8%8D%A3%E6%9E%9D%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=8&Refer=top)<br />
 9. [XLB宣布退役](https://s.weibo.com/weibo?q=%23XLB%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%23&t=31&band_rank=9&Refer=top)<br />
