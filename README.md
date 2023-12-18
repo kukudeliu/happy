@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 00:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 00:15:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [小孩哥勇闯娱乐圈](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%AD%A9%E5%93%A5%E5%8B%87%E9%97%AF%E5%A8%B1%E4%B9%90%E5%9C%88&t=31&band_rank=5&Refer=top)<br />
 6. [男子不满航班延误亮明网红身份维权](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8D%E6%BB%A1%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AF%AF%E4%BA%AE%E6%98%8E%E7%BD%91%E7%BA%A2%E8%BA%AB%E4%BB%BD%E7%BB%B4%E6%9D%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [李同光发现二胎是妹妹](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%90%8C%E5%85%89%E5%8F%91%E7%8E%B0%E4%BA%8C%E8%83%8E%E6%98%AF%E5%A6%B9%E5%A6%B9&t=31&band_rank=7&Refer=top)<br />
-8. [南京 弹性上下学](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%20%E5%BC%B9%E6%80%A7%E4%B8%8A%E4%B8%8B%E5%AD%A6&t=31&band_rank=8&Refer=top)<br />
-9. [屋顶着火 derderderder](https://s.weibo.com/weibo?q=%E5%B1%8B%E9%A1%B6%E7%9D%80%E7%81%AB%20derderderder&t=31&band_rank=9&Refer=top)<br />
+8. [屋顶着火 derderderder](https://s.weibo.com/weibo?q=%E5%B1%8B%E9%A1%B6%E7%9D%80%E7%81%AB%20derderderder&t=31&band_rank=8&Refer=top)<br />
+9. [南京 弹性上下学](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%20%E5%BC%B9%E6%80%A7%E4%B8%8A%E4%B8%8B%E5%AD%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
