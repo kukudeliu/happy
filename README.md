@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 19:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 19:54:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [美丽乡村 幸福生活](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91+%E5%B9%B8%E7%A6%8F%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女生3小时在雪地踩出上岸祝福](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F3%E5%B0%8F%E6%97%B6%E5%9C%A8%E9%9B%AA%E5%9C%B0%E8%B8%A9%E5%87%BA%E4%B8%8A%E5%B2%B8%E7%A5%9D%E7%A6%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本死鱼多到渔船寸步难行](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%AD%BB%E9%B1%BC%E5%A4%9A%E5%88%B0%E6%B8%94%E8%88%B9%E5%AF%B8%E6%AD%A5%E9%9A%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [律师称公共场所观看淫秽视频违法](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E7%A7%B0%E5%85%AC%E5%85%B1%E5%9C%BA%E6%89%80%E8%A7%82%E7%9C%8B%E6%B7%AB%E7%A7%BD%E8%A7%86%E9%A2%91%E8%BF%9D%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [年内10余位上市公司实控人因病离世](https://www.baidu.com/s?wd=%E5%B9%B4%E5%86%8510%E4%BD%99%E4%BD%8D%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%AE%9E%E6%8E%A7%E4%BA%BA%E5%9B%A0%E7%97%85%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [答案之书到底有多神奇](https://www.baidu.com/s?wd=%E7%AD%94%E6%A1%88%E4%B9%8B%E4%B9%A6%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%A5%9E%E5%A5%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣南京过江隧道连环追尾](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%8D%97%E4%BA%AC%E8%BF%87%E6%B1%9F%E9%9A%A7%E9%81%93%E8%BF%9E%E7%8E%AF%E8%BF%BD%E5%B0%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [美丽乡村 幸福生活](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91+%E5%B9%B8%E7%A6%8F%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女生3小时在雪地踩出上岸祝福](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F3%E5%B0%8F%E6%97%B6%E5%9C%A8%E9%9B%AA%E5%9C%B0%E8%B8%A9%E5%87%BA%E4%B8%8A%E5%B2%B8%E7%A5%9D%E7%A6%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本死鱼多到渔船寸步难行](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%AD%BB%E9%B1%BC%E5%A4%9A%E5%88%B0%E6%B8%94%E8%88%B9%E5%AF%B8%E6%AD%A5%E9%9A%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [律师称公共场所观看淫秽视频违法](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E7%A7%B0%E5%85%AC%E5%85%B1%E5%9C%BA%E6%89%80%E8%A7%82%E7%9C%8B%E6%B7%AB%E7%A7%BD%E8%A7%86%E9%A2%91%E8%BF%9D%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [年内10余位上市公司实控人因病离世](https://www.baidu.com/s?wd=%E5%B9%B4%E5%86%8510%E4%BD%99%E4%BD%8D%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%AE%9E%E6%8E%A7%E4%BA%BA%E5%9B%A0%E7%97%85%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [答案之书到底有多神奇](https://www.baidu.com/s?wd=%E7%AD%94%E6%A1%88%E4%B9%8B%E4%B9%A6%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%A5%9E%E5%A5%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣南京过江隧道连环追尾](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%8D%97%E4%BA%AC%E8%BF%87%E6%B1%9F%E9%9A%A7%E9%81%93%E8%BF%9E%E7%8E%AF%E8%BF%BD%E5%B0%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
