@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 19:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 19:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [一念关山](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1&t=31&band_rank=6&Refer=top)<br />
 7. [输入法暴露了反诈民警的职业病](https://s.weibo.com/weibo?q=%23%E8%BE%93%E5%85%A5%E6%B3%95%E6%9A%B4%E9%9C%B2%E4%BA%86%E5%8F%8D%E8%AF%88%E6%B0%91%E8%AD%A6%E7%9A%84%E8%81%8C%E4%B8%9A%E7%97%85%23&t=31&band_rank=7&Refer=top)<br />
 8. [一念关山超点大结局](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E8%B6%85%E7%82%B9%E5%A4%A7%E7%BB%93%E5%B1%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [张元英回山东都得穿棉袄](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E5%9B%9E%E5%B1%B1%E4%B8%9C%E9%83%BD%E5%BE%97%E7%A9%BF%E6%A3%89%E8%A2%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [Uzi和Faker同队](https://s.weibo.com/weibo?q=%23Uzi%E5%92%8CFaker%E5%90%8C%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
