@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 01:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 01:23:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [西安震感](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E9%9C%87%E6%84%9F&t=31&band_rank=4&Refer=top)<br />
 5. [积石山](https://s.weibo.com/weibo?q=%E7%A7%AF%E7%9F%B3%E5%B1%B1&t=31&band_rank=5&Refer=top)<br />
 6. [成都震感](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%9C%87%E6%84%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [兰州震感](https://s.weibo.com/weibo?q=%E5%85%B0%E5%B7%9E%E9%9C%87%E6%84%9F&t=31&band_rank=7&Refer=top)<br />
+7. [甘肃580名消防员集结赶赴震中](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83580%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E9%9B%86%E7%BB%93%E8%B5%B6%E8%B5%B4%E9%9C%87%E4%B8%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [甘肃天气](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%94&t=31&band_rank=8&Refer=top)<br />
-9. [甘肃580名消防员集结赶赴震中](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83580%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E9%9B%86%E7%BB%93%E8%B5%B6%E8%B5%B4%E9%9C%87%E4%B8%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [兰州震感](https://s.weibo.com/weibo?q=%E5%85%B0%E5%B7%9E%E9%9C%87%E6%84%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
