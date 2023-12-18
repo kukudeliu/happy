@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 04:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 04:08:01</h4></div>
 
 > 微博  
 
 1. [甘肃地震](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top)<br />
 2. [甘肃地震监控画面](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E7%9B%91%E6%8E%A7%E7%94%BB%E9%9D%A2%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国首艘大洋钻探船正式命名并试航](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E8%89%98%E5%A4%A7%E6%B4%8B%E9%92%BB%E6%8E%A2%E8%88%B9%E6%AD%A3%E5%BC%8F%E5%91%BD%E5%90%8D%E5%B9%B6%E8%AF%95%E8%88%AA%23&t=31&band_rank=3&Refer=top)<br />
-4. [董明珠称一切都是孟羽童的选择](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E5%AD%9F%E7%BE%BD%E7%AB%A5%E7%9A%84%E9%80%89%E6%8B%A9%23&t=31&band_rank=4&Refer=top)<br />
-5. [甘肃天气](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%94&t=31&band_rank=5&Refer=top)<br />
+4. [甘肃天气](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%94&t=31&band_rank=4&Refer=top)<br />
+5. [董明珠称一切都是孟羽童的选择](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E5%AD%9F%E7%BE%BD%E7%AB%A5%E7%9A%84%E9%80%89%E6%8B%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [一念关山 癫剧](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E7%99%AB%E5%89%A7&t=31&band_rank=6&Refer=top)<br />
 7. [钝感力](https://s.weibo.com/weibo?q=%E9%92%9D%E6%84%9F%E5%8A%9B&t=31&band_rank=7&Refer=top)<br />
 8. [甘肃积石山地震消防已救出2人](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%9C%B0%E9%9C%87%E6%B6%88%E9%98%B2%E5%B7%B2%E6%95%91%E5%87%BA2%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
