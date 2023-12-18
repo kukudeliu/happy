@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 11:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 11:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩国大量进口中国辣椒酱](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A4%A7%E9%87%8F%E8%BF%9B%E5%8F%A3%E4%B8%AD%E5%9B%BD%E8%BE%A3%E6%A4%92%E9%85%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [小小的我官宣](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%8F%E7%9A%84%E6%88%91%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [赵露思上台忘记脱毛衣了](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E4%B8%8A%E5%8F%B0%E5%BF%98%E8%AE%B0%E8%84%B1%E6%AF%9B%E8%A1%A3%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [建行](https://s.weibo.com/weibo?q=%E5%BB%BA%E8%A1%8C&t=31&band_rank=9&Refer=top)<br />
+9. [华为nova12 易烊千玺](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAnova12%20%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
