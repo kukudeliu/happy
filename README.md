@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 01:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 01:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [西安震感](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E9%9C%87%E6%84%9F&t=31&band_rank=6&Refer=top)<br />
 7. [甘肃天气](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%94&t=31&band_rank=7&Refer=top)<br />
 8. [成都震感](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%9C%87%E6%84%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [一念关山 癫剧](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E7%99%AB%E5%89%A7&t=31&band_rank=9&Refer=top)<br />
+9. [甘肃积石山连续发生多次地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E8%BF%9E%E7%BB%AD%E5%8F%91%E7%94%9F%E5%A4%9A%E6%AC%A1%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
