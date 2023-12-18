@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 14:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 14:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [罪犯劳荣枝被执行死刑](https://s.weibo.com/weibo?q=%23%E7%BD%AA%E7%8A%AF%E5%8A%B3%E8%8D%A3%E6%9E%9D%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [田笑蜜针对朱丹被骗事件发声](https://s.weibo.com/weibo?q=%23%E7%94%B0%E7%AC%91%E8%9C%9C%E9%92%88%E5%AF%B9%E6%9C%B1%E4%B8%B9%E8%A2%AB%E9%AA%97%E4%BA%8B%E4%BB%B6%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [张元英 青岛](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%85%83%E8%8B%B1%20%E9%9D%92%E5%B2%9B&t=31&band_rank=8&Refer=top)<br />
-9. [佟丽娅入股陈思诚公司](https://s.weibo.com/weibo?q=%23%E4%BD%9F%E4%B8%BD%E5%A8%85%E5%85%A5%E8%82%A1%E9%99%88%E6%80%9D%E8%AF%9A%E5%85%AC%E5%8F%B8%23&t=31&band_rank=9&Refer=top)<br />
+9. [脱轨 颠公](https://s.weibo.com/weibo?q=%E8%84%B1%E8%BD%A8%20%E9%A2%A0%E5%85%AC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
