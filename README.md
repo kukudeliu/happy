@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 01:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 01:13:01</h4></div>
 
 > 微博  
 
 1. [甘肃地震](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top)<br />
 2. [西安震感](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E9%9C%87%E6%84%9F&t=31&band_rank=2&Refer=top)<br />
 3. [我国首艘大洋钻探船正式命名并试航](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E8%89%98%E5%A4%A7%E6%B4%8B%E9%92%BB%E6%8E%A2%E8%88%B9%E6%AD%A3%E5%BC%8F%E5%91%BD%E5%90%8D%E5%B9%B6%E8%AF%95%E8%88%AA%23&t=31&band_rank=3&Refer=top)<br />
-4. [积石山](https://s.weibo.com/weibo?q=%E7%A7%AF%E7%9F%B3%E5%B1%B1&t=31&band_rank=4&Refer=top)<br />
-5. [甘肃余震](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E4%BD%99%E9%9C%87&t=31&band_rank=5&Refer=top)<br />
+4. [甘肃余震](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E4%BD%99%E9%9C%87&t=31&band_rank=4&Refer=top)<br />
+5. [积石山](https://s.weibo.com/weibo?q=%E7%A7%AF%E7%9F%B3%E5%B1%B1&t=31&band_rank=5&Refer=top)<br />
 6. [成都震感](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%9C%87%E6%84%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [兰州震感](https://s.weibo.com/weibo?q=%E5%85%B0%E5%B7%9E%E9%9C%87%E6%84%9F&t=31&band_rank=7&Refer=top)<br />
 8. [闹钟没响 单位报警](https://s.weibo.com/weibo?q=%E9%97%B9%E9%92%9F%E6%B2%A1%E5%93%8D%20%E5%8D%95%E4%BD%8D%E6%8A%A5%E8%AD%A6&t=31&band_rank=8&Refer=top)<br />
