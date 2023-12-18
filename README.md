@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 20:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 20:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴她慌了](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A5%B9%E6%85%8C%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [一念关山 你管这叫he](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E4%BD%A0%E7%AE%A1%E8%BF%99%E5%8F%ABhe&t=31&band_rank=7&Refer=top)<br />
 8. [人民网评劳荣枝被执行死刑](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%8A%B3%E8%8D%A3%E6%9E%9D%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [米哈游审美](https://s.weibo.com/weibo?q=%E7%B1%B3%E5%93%88%E6%B8%B8%E5%AE%A1%E7%BE%8E&t=31&band_rank=9&Refer=top)<br />
+9. [XLB宣布退役](https://s.weibo.com/weibo?q=%23XLB%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
