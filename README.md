@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 07:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 07:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国家地震应急响应提升至二级](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%9C%B0%E9%9C%87%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%E6%8F%90%E5%8D%87%E8%87%B3%E4%BA%8C%E7%BA%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [西安震感](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E9%9C%87%E6%84%9F&t=31&band_rank=7&Refer=top)<br />
 8. [男子不满航班延误亮明网红身份维权](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8D%E6%BB%A1%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AF%AF%E4%BA%AE%E6%98%8E%E7%BD%91%E7%BA%A2%E8%BA%AB%E4%BB%BD%E7%BB%B4%E6%9D%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [专家说柯南到渣男就是一线之差](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%AF%B4%E6%9F%AF%E5%8D%97%E5%88%B0%E6%B8%A3%E7%94%B7%E5%B0%B1%E6%98%AF%E4%B8%80%E7%BA%BF%E4%B9%8B%E5%B7%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [甘肃天气](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
