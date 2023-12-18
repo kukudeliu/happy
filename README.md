@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 17:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 17:26:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [劳荣枝希望家属帮她还清花呗](https://www.baidu.com/s?wd=%E5%8A%B3%E8%8D%A3%E6%9E%9D%E5%B8%8C%E6%9C%9B%E5%AE%B6%E5%B1%9E%E5%B8%AE%E5%A5%B9%E8%BF%98%E6%B8%85%E8%8A%B1%E5%91%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [25岁班主任疑因工作强度大跳楼](https://www.baidu.com/s?wd=25%E5%B2%81%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%96%91%E5%9B%A0%E5%B7%A5%E4%BD%9C%E5%BC%BA%E5%BA%A6%E5%A4%A7%E8%B7%B3%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [朱丹被闺蜜起诉：骗千万与事实不符](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%B9%E8%A2%AB%E9%97%BA%E8%9C%9C%E8%B5%B7%E8%AF%89%EF%BC%9A%E9%AA%97%E5%8D%83%E4%B8%87%E4%B8%8E%E4%BA%8B%E5%AE%9E%E4%B8%8D%E7%AC%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [主持人音乐会求婚观众齐喊退票](https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E4%BC%9A%E6%B1%82%E5%A9%9A%E8%A7%82%E4%BC%97%E9%BD%90%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [还原诺亚34亿理财骗局](https://www.baidu.com/s?wd=%E8%BF%98%E5%8E%9F%E8%AF%BA%E4%BA%9A34%E4%BA%BF%E7%90%86%E8%B4%A2%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西药店已停止统筹额度支付？](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%8D%AF%E5%BA%97%E5%B7%B2%E5%81%9C%E6%AD%A2%E7%BB%9F%E7%AD%B9%E9%A2%9D%E5%BA%A6%E6%94%AF%E4%BB%98%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [劳荣枝希望家属帮她还清花呗](https://www.baidu.com/s?wd=%E5%8A%B3%E8%8D%A3%E6%9E%9D%E5%B8%8C%E6%9C%9B%E5%AE%B6%E5%B1%9E%E5%B8%AE%E5%A5%B9%E8%BF%98%E6%B8%85%E8%8A%B1%E5%91%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [25岁班主任疑因工作强度大跳楼](https://www.baidu.com/s?wd=25%E5%B2%81%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%96%91%E5%9B%A0%E5%B7%A5%E4%BD%9C%E5%BC%BA%E5%BA%A6%E5%A4%A7%E8%B7%B3%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [朱丹被闺蜜起诉：骗千万与事实不符](https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%B9%E8%A2%AB%E9%97%BA%E8%9C%9C%E8%B5%B7%E8%AF%89%EF%BC%9A%E9%AA%97%E5%8D%83%E4%B8%87%E4%B8%8E%E4%BA%8B%E5%AE%9E%E4%B8%8D%E7%AC%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [主持人音乐会求婚观众齐喊退票](https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E4%BC%9A%E6%B1%82%E5%A9%9A%E8%A7%82%E4%BC%97%E9%BD%90%E5%96%8A%E9%80%80%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [还原诺亚34亿理财骗局](https://www.baidu.com/s?wd=%E8%BF%98%E5%8E%9F%E8%AF%BA%E4%BA%9A34%E4%BA%BF%E7%90%86%E8%B4%A2%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江西药店已停止统筹额度支付？](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%8D%AF%E5%BA%97%E5%B7%B2%E5%81%9C%E6%AD%A2%E7%BB%9F%E7%AD%B9%E9%A2%9D%E5%BA%A6%E6%94%AF%E4%BB%98%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
