@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 12:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-18 12:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张元英 青岛](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%85%83%E8%8B%B1%20%E9%9D%92%E5%B2%9B&t=31&band_rank=6&Refer=top)<br />
 7. [易烊千玺新片演脑瘫](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%96%B0%E7%89%87%E6%BC%94%E8%84%91%E7%98%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [湿发睡觉 致癌](https://s.weibo.com/weibo?q=%E6%B9%BF%E5%8F%91%E7%9D%A1%E8%A7%89%20%E8%87%B4%E7%99%8C&t=31&band_rank=8&Refer=top)<br />
-9. [小小的我官宣](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%8F%E7%9A%84%E6%88%91%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘诗诗 Qeelin](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20Qeelin&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
