@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 01:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 01:43:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [甘肃580名消防员集结赶赴震中](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83580%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E9%9B%86%E7%BB%93%E8%B5%B6%E8%B5%B4%E9%9C%87%E4%B8%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [积石山](https://s.weibo.com/weibo?q=%E7%A7%AF%E7%9F%B3%E5%B1%B1&t=31&band_rank=5&Refer=top)<br />
 6. [甘肃天气](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%94&t=31&band_rank=6&Refer=top)<br />
-7. [西安震感](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E9%9C%87%E6%84%9F&t=31&band_rank=7&Refer=top)<br />
-8. [甘肃积石山连续发生多次地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E8%BF%9E%E7%BB%AD%E5%8F%91%E7%94%9F%E5%A4%9A%E6%AC%A1%E5%9C%B0%E9%9C%87%23&t=31&band_rank=8&Refer=top)<br />
+7. [甘肃积石山连续发生多次地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E8%BF%9E%E7%BB%AD%E5%8F%91%E7%94%9F%E5%A4%9A%E6%AC%A1%E5%9C%B0%E9%9C%87%23&t=31&band_rank=7&Refer=top)<br />
+8. [西安震感](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E9%9C%87%E6%84%9F&t=31&band_rank=8&Refer=top)<br />
 9. [成都震感](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%9C%87%E6%84%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
