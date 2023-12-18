@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 00:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 00:47:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [成都震感](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%9C%87%E6%84%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [积石山](https://s.weibo.com/weibo?q=%E7%A7%AF%E7%9F%B3%E5%B1%B1&t=31&band_rank=5&Refer=top)<br />
 6. [一念关山 癫剧](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E7%99%AB%E5%89%A7&t=31&band_rank=6&Refer=top)<br />
-7. [小孩哥勇闯娱乐圈](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%AD%A9%E5%93%A5%E5%8B%87%E9%97%AF%E5%A8%B1%E4%B9%90%E5%9C%88&t=31&band_rank=7&Refer=top)<br />
-8. [兰州震感](https://s.weibo.com/weibo?q=%E5%85%B0%E5%B7%9E%E9%9C%87%E6%84%9F&t=31&band_rank=8&Refer=top)<br />
-9. [男子不满航班延误亮明网红身份维权](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8D%E6%BB%A1%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AF%AF%E4%BA%AE%E6%98%8E%E7%BD%91%E7%BA%A2%E8%BA%AB%E4%BB%BD%E7%BB%B4%E6%9D%83%23&t=31&band_rank=9&Refer=top)<br />
+7. [兰州震感](https://s.weibo.com/weibo?q=%E5%85%B0%E5%B7%9E%E9%9C%87%E6%84%9F&t=31&band_rank=7&Refer=top)<br />
+8. [小孩哥勇闯娱乐圈](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%AD%A9%E5%93%A5%E5%8B%87%E9%97%AF%E5%A8%B1%E4%B9%90%E5%9C%88&t=31&band_rank=8&Refer=top)<br />
+9. [任如意殉国](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%A6%82%E6%84%8F%E6%AE%89%E5%9B%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
