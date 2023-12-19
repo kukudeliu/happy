@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 03:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 03:21:01</h4></div>
 
 > 微博  
 
-1. [地震已致127人遇难](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4127%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top)<br />
-2. [小柴胡汤](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%9F%B4%E8%83%A1%E6%B1%A4&t=31&band_rank=2&Refer=top)<br />
+1. [小柴胡汤](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%9F%B4%E8%83%A1%E6%B1%A4&t=31&band_rank=1&Refer=top)<br />
+2. [地震已致127人遇难](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4127%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=2&Refer=top)<br />
 3. [甘肃加油青海加油](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%8A%A0%E6%B2%B9%E9%9D%92%E6%B5%B7%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [泰国瑞幸向中国瑞幸索赔100亿泰铢](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%91%9E%E5%B9%B8%E5%90%91%E4%B8%AD%E5%9B%BD%E7%91%9E%E5%B9%B8%E7%B4%A2%E8%B5%94100%E4%BA%BF%E6%B3%B0%E9%93%A2%23&t=31&band_rank=4&Refer=top)<br />
 5. [冰雪大世界游客高喊退票](https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E6%B8%B8%E5%AE%A2%E9%AB%98%E5%96%8A%E9%80%80%E7%A5%A8%23&t=31&band_rank=5&Refer=top)<br />
