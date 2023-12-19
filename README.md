@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 10:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 10:35:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [习近平对甘肃地震作出重要指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [甘肃地震已致两省111人遇难](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4%E4%B8%A4%E7%9C%81111%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [地震已致甘肃105人遇难](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4%E7%94%98%E8%82%83105%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [甘肃6.2级地震新闻发布会](https://www.baidu.com/s?wd=%E7%94%98%E8%82%836.2%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [美丽乡村 幸福生活](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91+%E5%B9%B8%E7%A6%8F%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [余震百余次 村民彻夜在屋外烤火避险](https://www.baidu.com/s?wd=%E4%BD%99%E9%9C%87%E7%99%BE%E4%BD%99%E6%AC%A1+%E6%9D%91%E6%B0%91%E5%BD%BB%E5%A4%9C%E5%9C%A8%E5%B1%8B%E5%A4%96%E7%83%A4%E7%81%AB%E9%81%BF%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [习近平对甘肃地震作出重要指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [甘肃地震已致两省111人遇难](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4%E4%B8%A4%E7%9C%81111%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [地震已致甘肃105人遇难](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4%E7%94%98%E8%82%83105%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [甘肃6.2级地震新闻发布会](https://www.baidu.com/s?wd=%E7%94%98%E8%82%836.2%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [美丽乡村 幸福生活](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B9%A1%E6%9D%91+%E5%B9%B8%E7%A6%8F%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [余震百余次 村民彻夜在屋外烤火避险](https://www.baidu.com/s?wd=%E4%BD%99%E9%9C%87%E7%99%BE%E4%BD%99%E6%AC%A1+%E6%9D%91%E6%B0%91%E5%BD%BB%E5%A4%9C%E5%9C%A8%E5%B1%8B%E5%A4%96%E7%83%A4%E7%81%AB%E9%81%BF%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
