@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 00:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 01:00:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [青海省委书记抱着安慰痛哭的灾民](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8A%B1%E7%9D%80%E5%AE%89%E6%85%B0%E7%97%9B%E5%93%AD%E7%9A%84%E7%81%BE%E6%B0%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [鸿星尔克又捐了2000万](https://s.weibo.com/weibo?q=%23%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E5%8F%88%E6%8D%90%E4%BA%862000%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [小白买车](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%99%BD%E4%B9%B0%E8%BD%A6&t=31&band_rank=7&Refer=top)<br />
-8. [青海一孕妇回娘家途中失联](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E4%B8%80%E5%AD%95%E5%A6%87%E5%9B%9E%E5%A8%98%E5%AE%B6%E9%80%94%E4%B8%AD%E5%A4%B1%E8%81%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [哈尔滨文旅局领导已赴冰雪大世界督导](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%96%87%E6%97%85%E5%B1%80%E9%A2%86%E5%AF%BC%E5%B7%B2%E8%B5%B4%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E7%9D%A3%E5%AF%BC%23&t=31&band_rank=9&Refer=top)<br />
+8. [哈尔滨文旅局领导已赴冰雪大世界督导](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%96%87%E6%97%85%E5%B1%80%E9%A2%86%E5%AF%BC%E5%B7%B2%E8%B5%B4%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E7%9D%A3%E5%AF%BC%23&t=31&band_rank=8&Refer=top)<br />
+9. [青海一孕妇回娘家途中失联](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E4%B8%80%E5%AD%95%E5%A6%87%E5%9B%9E%E5%A8%98%E5%AE%B6%E9%80%94%E4%B8%AD%E5%A4%B1%E8%81%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
