@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 15:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 15:32:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [用户称地震时7部苹果手机均无预警](https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%88%B7%E7%A7%B0%E5%9C%B0%E9%9C%87%E6%97%B67%E9%83%A8%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%9D%87%E6%97%A0%E9%A2%84%E8%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [男子拆快递发现全是现金慌忙报警](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%86%E5%BF%AB%E9%80%92%E5%8F%91%E7%8E%B0%E5%85%A8%E6%98%AF%E7%8E%B0%E9%87%91%E6%85%8C%E5%BF%99%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [地震时女子带孩子逃生偶遇消防员丈夫出警](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E6%97%B6%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%AD%A9%E5%AD%90%E9%80%83%E7%94%9F%E5%81%B6%E9%81%87%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%88%E5%A4%AB%E5%87%BA%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈幸同 看手机是回顾技术要点](https://s.weibo.com/weibo?q=%E9%99%88%E5%B9%B8%E5%90%8C%20%E7%9C%8B%E6%89%8B%E6%9C%BA%E6%98%AF%E5%9B%9E%E9%A1%BE%E6%8A%80%E6%9C%AF%E8%A6%81%E7%82%B9&t=31&band_rank=8&Refer=top)<br />
-9. [新疆地震](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [新疆地震](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [陈幸同 看手机是回顾技术要点](https://s.weibo.com/weibo?q=%E9%99%88%E5%B9%B8%E5%90%8C%20%E7%9C%8B%E6%89%8B%E6%9C%BA%E6%98%AF%E5%9B%9E%E9%A1%BE%E6%8A%80%E6%9C%AF%E8%A6%81%E7%82%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
