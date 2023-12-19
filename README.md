@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 20:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 20:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [夜里-15℃ 被困者或只能坚持十小时](https://www.baidu.com/s?wd=%E5%A4%9C%E9%87%8C-15%E2%84%83+%E8%A2%AB%E5%9B%B0%E8%80%85%E6%88%96%E5%8F%AA%E8%83%BD%E5%9D%9A%E6%8C%81%E5%8D%81%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [金车厘子“身价”暴涨 300多元一斤](https://www.baidu.com/s?wd=%E9%87%91%E8%BD%A6%E5%8E%98%E5%AD%90%E2%80%9C%E8%BA%AB%E4%BB%B7%E2%80%9D%E6%9A%B4%E6%B6%A8+300%E5%A4%9A%E5%85%83%E4%B8%80%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子带孩子逃生偶遇消防员丈夫出警](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%AD%A9%E5%AD%90%E9%80%83%E7%94%9F%E5%81%B6%E9%81%87%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%88%E5%A4%AB%E5%87%BA%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [数十辆渣土车路口不减速组队闯红灯](https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%81%E8%BE%86%E6%B8%A3%E5%9C%9F%E8%BD%A6%E8%B7%AF%E5%8F%A3%E4%B8%8D%E5%87%8F%E9%80%9F%E7%BB%84%E9%98%9F%E9%97%AF%E7%BA%A2%E7%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [鸟群盘旋是地震前兆？多地辟谣](https://www.baidu.com/s?wd=%E9%B8%9F%E7%BE%A4%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86%EF%BC%9F%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [夜里-15℃ 被困者或只能坚持十小时](https://www.baidu.com/s?wd=%E5%A4%9C%E9%87%8C-15%E2%84%83+%E8%A2%AB%E5%9B%B0%E8%80%85%E6%88%96%E5%8F%AA%E8%83%BD%E5%9D%9A%E6%8C%81%E5%8D%81%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [金车厘子“身价”暴涨 300多元一斤](https://www.baidu.com/s?wd=%E9%87%91%E8%BD%A6%E5%8E%98%E5%AD%90%E2%80%9C%E8%BA%AB%E4%BB%B7%E2%80%9D%E6%9A%B4%E6%B6%A8+300%E5%A4%9A%E5%85%83%E4%B8%80%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子带孩子逃生偶遇消防员丈夫出警](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%AD%A9%E5%AD%90%E9%80%83%E7%94%9F%E5%81%B6%E9%81%87%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%88%E5%A4%AB%E5%87%BA%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [数十辆渣土车路口不减速组队闯红灯](https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%81%E8%BE%86%E6%B8%A3%E5%9C%9F%E8%BD%A6%E8%B7%AF%E5%8F%A3%E4%B8%8D%E5%87%8F%E9%80%9F%E7%BB%84%E9%98%9F%E9%97%AF%E7%BA%A2%E7%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [鸟群盘旋是地震前兆？多地辟谣](https://www.baidu.com/s?wd=%E9%B8%9F%E7%BE%A4%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86%EF%BC%9F%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
