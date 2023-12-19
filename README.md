@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 18:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 18:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [波司登首批捐赠2000万元物资](https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%8F%B8%E7%99%BB%E9%A6%96%E6%89%B9%E6%8D%90%E8%B5%A02000%E4%B8%87%E5%85%83%E7%89%A9%E8%B5%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [甘肃地震受灾群众吃上热牛肉面](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%8F%97%E7%81%BE%E7%BE%A4%E4%BC%97%E5%90%83%E4%B8%8A%E7%83%AD%E7%89%9B%E8%82%89%E9%9D%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [地震引发青海一村7户19人被埋](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%BC%95%E5%8F%91%E9%9D%92%E6%B5%B7%E4%B8%80%E6%9D%917%E6%88%B719%E4%BA%BA%E8%A2%AB%E5%9F%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [公司要求女员工化淡妆上班激励团队](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E8%A6%81%E6%B1%82%E5%A5%B3%E5%91%98%E5%B7%A5%E5%8C%96%E6%B7%A1%E5%A6%86%E4%B8%8A%E7%8F%AD%E6%BF%80%E5%8A%B1%E5%9B%A2%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [甘肃震区目前最缺御寒和女性物资](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%9C%87%E5%8C%BA%E7%9B%AE%E5%89%8D%E6%9C%80%E7%BC%BA%E5%BE%A1%E5%AF%92%E5%92%8C%E5%A5%B3%E6%80%A7%E7%89%A9%E8%B5%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [夜里-15℃ 被困者或只能坚持十小时](https://www.baidu.com/s?wd=%E5%A4%9C%E9%87%8C-15%E2%84%83+%E8%A2%AB%E5%9B%B0%E8%80%85%E6%88%96%E5%8F%AA%E8%83%BD%E5%9D%9A%E6%8C%81%E5%8D%81%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男孩背书录视频意外记录地震瞬间](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%83%8C%E4%B9%A6%E5%BD%95%E8%A7%86%E9%A2%91%E6%84%8F%E5%A4%96%E8%AE%B0%E5%BD%95%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [甘肃震区目前最缺御寒和女性物资](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E9%9C%87%E5%8C%BA%E7%9B%AE%E5%89%8D%E6%9C%80%E7%BC%BA%E5%BE%A1%E5%AF%92%E5%92%8C%E5%A5%B3%E6%80%A7%E7%89%A9%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [苹果客服回应7部手机均无地震预警](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%947%E9%83%A8%E6%89%8B%E6%9C%BA%E5%9D%87%E6%97%A0%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [鸟群盘旋是地震前兆？多地辟谣](https://www.baidu.com/s?wd=%E9%B8%9F%E7%BE%A4%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86%EF%BC%9F%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [夜里-15℃ 被困者或只能坚持十小时](https://www.baidu.com/s?wd=%E5%A4%9C%E9%87%8C-15%E2%84%83+%E8%A2%AB%E5%9B%B0%E8%80%85%E6%88%96%E5%8F%AA%E8%83%BD%E5%9D%9A%E6%8C%81%E5%8D%81%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男孩背书录视频意外记录地震瞬间](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%83%8C%E4%B9%A6%E5%BD%95%E8%A7%86%E9%A2%91%E6%84%8F%E5%A4%96%E8%AE%B0%E5%BD%95%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [甘肃震区目前最缺御寒和女性物资](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E9%9C%87%E5%8C%BA%E7%9B%AE%E5%89%8D%E6%9C%80%E7%BC%BA%E5%BE%A1%E5%AF%92%E5%92%8C%E5%A5%B3%E6%80%A7%E7%89%A9%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [苹果客服回应7部手机均无地震预警](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%947%E9%83%A8%E6%89%8B%E6%9C%BA%E5%9D%87%E6%97%A0%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [鸟群盘旋是地震前兆？多地辟谣](https://www.baidu.com/s?wd=%E9%B8%9F%E7%BE%A4%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86%EF%BC%9F%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
