@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 21:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 21:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [灾区回民较多缺少清真食品](https://s.weibo.com/weibo?q=%23%E7%81%BE%E5%8C%BA%E5%9B%9E%E6%B0%91%E8%BE%83%E5%A4%9A%E7%BC%BA%E5%B0%91%E6%B8%85%E7%9C%9F%E9%A3%9F%E5%93%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [鸿星尔克直播间回应捐款](https://s.weibo.com/weibo?q=%23%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E7%9B%B4%E6%92%AD%E9%97%B4%E5%9B%9E%E5%BA%94%E6%8D%90%E6%AC%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [甘肃及青海震区全部恢复供电](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%8F%8A%E9%9D%92%E6%B5%B7%E9%9C%87%E5%8C%BA%E5%85%A8%E9%83%A8%E6%81%A2%E5%A4%8D%E4%BE%9B%E7%94%B5%23&t=31&band_rank=8&Refer=top)<br />
-9. [官方辟谣广州下雪](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%B9%BF%E5%B7%9E%E4%B8%8B%E9%9B%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [带病医生致歉称无法再加号患儿家属感动落泪](https://s.weibo.com/weibo?q=%23%E5%B8%A6%E7%97%85%E5%8C%BB%E7%94%9F%E8%87%B4%E6%AD%89%E7%A7%B0%E6%97%A0%E6%B3%95%E5%86%8D%E5%8A%A0%E5%8F%B7%E6%82%A3%E5%84%BF%E5%AE%B6%E5%B1%9E%E6%84%9F%E5%8A%A8%E8%90%BD%E6%B3%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
