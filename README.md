@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 08:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 08:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [警方通报国家公祭日男子身贴日本国旗](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9B%BD%E5%AE%B6%E5%85%AC%E7%A5%AD%E6%97%A5%E7%94%B7%E5%AD%90%E8%BA%AB%E8%B4%B4%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [国家地震应急响应提升至二级](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%9C%B0%E9%9C%87%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%E6%8F%90%E5%8D%87%E8%87%B3%E4%BA%8C%E7%BA%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [西安震感](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E9%9C%87%E6%84%9F&t=31&band_rank=8&Refer=top)<br />
-9. [苹果在美停售AppleWatch](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9C%A8%E7%BE%8E%E5%81%9C%E5%94%AEAppleWatch%23&t=31&band_rank=9&Refer=top)<br />
+9. [两人突然好多年不联系](https://s.weibo.com/weibo?q=%E4%B8%A4%E4%BA%BA%E7%AA%81%E7%84%B6%E5%A5%BD%E5%A4%9A%E5%B9%B4%E4%B8%8D%E8%81%94%E7%B3%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
