@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 20:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 20:19:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [夜里-15℃ 被困者或只能坚持十小时](https://www.baidu.com/s?wd=%E5%A4%9C%E9%87%8C-15%E2%84%83+%E8%A2%AB%E5%9B%B0%E8%80%85%E6%88%96%E5%8F%AA%E8%83%BD%E5%9D%9A%E6%8C%81%E5%8D%81%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [金车厘子“身价”暴涨 300多元一斤](https://www.baidu.com/s?wd=%E9%87%91%E8%BD%A6%E5%8E%98%E5%AD%90%E2%80%9C%E8%BA%AB%E4%BB%B7%E2%80%9D%E6%9A%B4%E6%B6%A8+300%E5%A4%9A%E5%85%83%E4%B8%80%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [西部战区指挥组乘运20抵达甘肃](https://www.baidu.com/s?wd=%E8%A5%BF%E9%83%A8%E6%88%98%E5%8C%BA%E6%8C%87%E6%8C%A5%E7%BB%84%E4%B9%98%E8%BF%9020%E6%8A%B5%E8%BE%BE%E7%94%98%E8%82%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [甘肃：志愿者和车辆不要前往震区](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%EF%BC%9A%E5%BF%97%E6%84%BF%E8%80%85%E5%92%8C%E8%BD%A6%E8%BE%86%E4%B8%8D%E8%A6%81%E5%89%8D%E5%BE%80%E9%9C%87%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [鸟群盘旋是地震前兆？多地辟谣](https://www.baidu.com/s?wd=%E9%B8%9F%E7%BE%A4%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86%EF%BC%9F%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [夜里-15℃ 被困者或只能坚持十小时](https://www.baidu.com/s?wd=%E5%A4%9C%E9%87%8C-15%E2%84%83+%E8%A2%AB%E5%9B%B0%E8%80%85%E6%88%96%E5%8F%AA%E8%83%BD%E5%9D%9A%E6%8C%81%E5%8D%81%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [金车厘子“身价”暴涨 300多元一斤](https://www.baidu.com/s?wd=%E9%87%91%E8%BD%A6%E5%8E%98%E5%AD%90%E2%80%9C%E8%BA%AB%E4%BB%B7%E2%80%9D%E6%9A%B4%E6%B6%A8+300%E5%A4%9A%E5%85%83%E4%B8%80%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [西部战区指挥组乘运20抵达甘肃](https://www.baidu.com/s?wd=%E8%A5%BF%E9%83%A8%E6%88%98%E5%8C%BA%E6%8C%87%E6%8C%A5%E7%BB%84%E4%B9%98%E8%BF%9020%E6%8A%B5%E8%BE%BE%E7%94%98%E8%82%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [甘肃：志愿者和车辆不要前往震区](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%EF%BC%9A%E5%BF%97%E6%84%BF%E8%80%85%E5%92%8C%E8%BD%A6%E8%BE%86%E4%B8%8D%E8%A6%81%E5%89%8D%E5%BE%80%E9%9C%87%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [鸟群盘旋是地震前兆？多地辟谣](https://www.baidu.com/s?wd=%E9%B8%9F%E7%BE%A4%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86%EF%BC%9F%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
