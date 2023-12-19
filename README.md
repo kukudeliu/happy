@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 08:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 08:57:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [甘肃地震监控画面](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E7%9B%91%E6%8E%A7%E7%94%BB%E9%9D%A2%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国首艘大洋钻探船正式命名并试航](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E8%89%98%E5%A4%A7%E6%B4%8B%E9%92%BB%E6%8E%A2%E8%88%B9%E6%AD%A3%E5%BC%8F%E5%91%BD%E5%90%8D%E5%B9%B6%E8%AF%95%E8%88%AA%23&t=31&band_rank=3&Refer=top)<br />
 4. [甘肃地震后鸟群盘旋](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%90%8E%E9%B8%9F%E7%BE%A4%E7%9B%98%E6%97%8B%23&t=31&band_rank=4&Refer=top)<br />
-5. [甘肃地震](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87&t=31&band_rank=5&Refer=top)<br />
-6. [警方通报国家公祭日男子身贴日本国旗](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9B%BD%E5%AE%B6%E5%85%AC%E7%A5%AD%E6%97%A5%E7%94%B7%E5%AD%90%E8%BA%AB%E8%B4%B4%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97%23&t=31&band_rank=6&Refer=top)<br />
+5. [警方通报国家公祭日男子身贴日本国旗](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9B%BD%E5%AE%B6%E5%85%AC%E7%A5%AD%E6%97%A5%E7%94%B7%E5%AD%90%E8%BA%AB%E8%B4%B4%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97%23&t=31&band_rank=5&Refer=top)<br />
+6. [甘肃地震](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87&t=31&band_rank=6&Refer=top)<br />
 7. [西安震感](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E9%9C%87%E6%84%9F&t=31&band_rank=7&Refer=top)<br />
 8. [两人突然好多年不联系](https://s.weibo.com/weibo?q=%E4%B8%A4%E4%BA%BA%E7%AA%81%E7%84%B6%E5%A5%BD%E5%A4%9A%E5%B9%B4%E4%B8%8D%E8%81%94%E7%B3%BB&t=31&band_rank=8&Refer=top)<br />
 9. [地震预警](https://s.weibo.com/weibo?q=%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6&t=31&band_rank=9&Refer=top)<br />
