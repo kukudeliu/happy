@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 13:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 13:24:02</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [明年经济工作这几个发力点要读懂](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E8%BF%99%E5%87%A0%E4%B8%AA%E5%8F%91%E5%8A%9B%E7%82%B9%E8%A6%81%E8%AF%BB%E6%87%82%23&t=31&band_rank=3&Refer=top)<br />
 4. [母子吞下54个藏毒避孕套入境澳门被捕](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%AD%90%E5%90%9E%E4%B8%8B54%E4%B8%AA%E8%97%8F%E6%AF%92%E9%81%BF%E5%AD%95%E5%A5%97%E5%85%A5%E5%A2%83%E6%BE%B3%E9%97%A8%E8%A2%AB%E6%8D%95%23&t=31&band_rank=4&Refer=top)<br />
 5. [新疆地震](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [学校回应地震时宿舍门不开](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%9C%B0%E9%9C%87%E6%97%B6%E5%AE%BF%E8%88%8D%E9%97%A8%E4%B8%8D%E5%BC%80%23&t=31&band_rank=6&Refer=top)<br />
+6. [山东2名幼儿园女老师出租房内遇害](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C2%E5%90%8D%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A5%B3%E8%80%81%E5%B8%88%E5%87%BA%E7%A7%9F%E6%88%BF%E5%86%85%E9%81%87%E5%AE%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [国内适合年轻人躺平的城市](https://s.weibo.com/weibo?q=%E5%9B%BD%E5%86%85%E9%80%82%E5%90%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%BA%BA%E5%B9%B3%E7%9A%84%E5%9F%8E%E5%B8%82&t=31&band_rank=7&Refer=top)<br />
-8. [山东2名幼儿园女老师出租房内遇害](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C2%E5%90%8D%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A5%B3%E8%80%81%E5%B8%88%E5%87%BA%E7%A7%9F%E6%88%BF%E5%86%85%E9%81%87%E5%AE%B3%23&t=31&band_rank=8&Refer=top)<br />
+8. [学校回应地震时宿舍门不开](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%9C%B0%E9%9C%87%E6%97%B6%E5%AE%BF%E8%88%8D%E9%97%A8%E4%B8%8D%E5%BC%80%23&t=31&band_rank=8&Refer=top)<br />
 9. [甘肃地震亲历者说逃生后手和腿一直在抖](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E4%BA%B2%E5%8E%86%E8%80%85%E8%AF%B4%E9%80%83%E7%94%9F%E5%90%8E%E6%89%8B%E5%92%8C%E8%85%BF%E4%B8%80%E7%9B%B4%E5%9C%A8%E6%8A%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [习近平对甘肃地震作出重要指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [地震已致甘肃105人遇难](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4%E7%94%98%E8%82%83105%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [甘肃地震已致118人遇难](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4118%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [余震百余次 村民彻夜在屋外烤火避险](https://www.baidu.com/s?wd=%E4%BD%99%E9%9C%87%E7%99%BE%E4%BD%99%E6%AC%A1+%E6%9D%91%E6%B0%91%E5%BD%BB%E5%A4%9C%E5%9C%A8%E5%B1%8B%E5%A4%96%E7%83%A4%E7%81%AB%E9%81%BF%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [10年间1220万人返乡当了新农人](https://www.baidu.com/s?wd=10%E5%B9%B4%E9%97%B41220%E4%B8%87%E4%BA%BA%E8%BF%94%E4%B9%A1%E5%BD%93%E4%BA%86%E6%96%B0%E5%86%9C%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [习近平对甘肃地震作出重要指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [地震已致甘肃105人遇难](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4%E7%94%98%E8%82%83105%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [甘肃地震已致118人遇难](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4118%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [余震百余次 村民彻夜在屋外烤火避险](https://www.baidu.com/s?wd=%E4%BD%99%E9%9C%87%E7%99%BE%E4%BD%99%E6%AC%A1+%E6%9D%91%E6%B0%91%E5%BD%BB%E5%A4%9C%E5%9C%A8%E5%B1%8B%E5%A4%96%E7%83%A4%E7%81%AB%E9%81%BF%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [10年间1220万人返乡当了新农人](https://www.baidu.com/s?wd=10%E5%B9%B4%E9%97%B41220%E4%B8%87%E4%BA%BA%E8%BF%94%E4%B9%A1%E5%BD%93%E4%BA%86%E6%96%B0%E5%86%9C%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
