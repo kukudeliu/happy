@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 21:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 21:43:01</h4></div>
 
 > 微博  
 
 1. [青海省委书记抱着安慰痛哭的灾民](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8A%B1%E7%9D%80%E5%AE%89%E6%85%B0%E7%97%9B%E5%93%AD%E7%9A%84%E7%81%BE%E6%B0%91%23&t=31&band_rank=1&Refer=top)<br />
-2. [地震已致127人遇难](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4127%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=2&Refer=top)<br />
+2. [小白买车](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%99%BD%E4%B9%B0%E8%BD%A6&t=31&band_rank=2&Refer=top)<br />
 3. [向地震灾区下达2.5亿元中央预算内投资](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%9C%B0%E9%9C%87%E7%81%BE%E5%8C%BA%E4%B8%8B%E8%BE%BE2.5%E4%BA%BF%E5%85%83%E4%B8%AD%E5%A4%AE%E9%A2%84%E7%AE%97%E5%86%85%E6%8A%95%E8%B5%84%23&t=31&band_rank=3&Refer=top)<br />
-4. [小米汽车三名员工未经许可参与研讨会被辞退](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%B8%89%E5%90%8D%E5%91%98%E5%B7%A5%E6%9C%AA%E7%BB%8F%E8%AE%B8%E5%8F%AF%E5%8F%82%E4%B8%8E%E7%A0%94%E8%AE%A8%E4%BC%9A%E8%A2%AB%E8%BE%9E%E9%80%80%23&t=31&band_rank=4&Refer=top)<br />
-5. [哈尔滨文旅局领导已赴冰雪大世界督导](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%96%87%E6%97%85%E5%B1%80%E9%A2%86%E5%AF%BC%E5%B7%B2%E8%B5%B4%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E7%9D%A3%E5%AF%BC%23&t=31&band_rank=5&Refer=top)<br />
-6. [灾区回民较多缺少清真食品](https://s.weibo.com/weibo?q=%23%E7%81%BE%E5%8C%BA%E5%9B%9E%E6%B0%91%E8%BE%83%E5%A4%9A%E7%BC%BA%E5%B0%91%E6%B8%85%E7%9C%9F%E9%A3%9F%E5%93%81%23&t=31&band_rank=6&Refer=top)<br />
+4. [地震已致127人遇难](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4127%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=4&Refer=top)<br />
+5. [小米汽车三名员工未经许可参与研讨会被辞退](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%B8%89%E5%90%8D%E5%91%98%E5%B7%A5%E6%9C%AA%E7%BB%8F%E8%AE%B8%E5%8F%AF%E5%8F%82%E4%B8%8E%E7%A0%94%E8%AE%A8%E4%BC%9A%E8%A2%AB%E8%BE%9E%E9%80%80%23&t=31&band_rank=5&Refer=top)<br />
+6. [哈尔滨文旅局领导已赴冰雪大世界督导](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%96%87%E6%97%85%E5%B1%80%E9%A2%86%E5%AF%BC%E5%B7%B2%E8%B5%B4%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E7%9D%A3%E5%AF%BC%23&t=31&band_rank=6&Refer=top)<br />
 7. [鸿星尔克又捐了2000万](https://s.weibo.com/weibo?q=%23%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E5%8F%88%E6%8D%90%E4%BA%862000%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [鸿星尔克直播间回应捐款](https://s.weibo.com/weibo?q=%23%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E7%9B%B4%E6%92%AD%E9%97%B4%E5%9B%9E%E5%BA%94%E6%8D%90%E6%AC%BE%23&t=31&band_rank=8&Refer=top)<br />
 9. [甘肃及青海震区全部恢复供电](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%8F%8A%E9%9D%92%E6%B5%B7%E9%9C%87%E5%8C%BA%E5%85%A8%E9%83%A8%E6%81%A2%E5%A4%8D%E4%BE%9B%E7%94%B5%23&t=31&band_rank=9&Refer=top)<br />
@@ -23,8 +23,8 @@
 4. [两部门向灾区预拨2亿元救灾资金](https://www.baidu.com/s?wd=%E4%B8%A4%E9%83%A8%E9%97%A8%E5%90%91%E7%81%BE%E5%8C%BA%E9%A2%84%E6%8B%A82%E4%BA%BF%E5%85%83%E6%95%91%E7%81%BE%E8%B5%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [夜里-15℃ 被困者或只能坚持十小时](https://www.baidu.com/s?wd=%E5%A4%9C%E9%87%8C-15%E2%84%83+%E8%A2%AB%E5%9B%B0%E8%80%85%E6%88%96%E5%8F%AA%E8%83%BD%E5%9D%9A%E6%8C%81%E5%8D%81%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [地震瞬间网管主动让出逃生楼道](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%E7%BD%91%E7%AE%A1%E4%B8%BB%E5%8A%A8%E8%AE%A9%E5%87%BA%E9%80%83%E7%94%9F%E6%A5%BC%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [甘肃灾区震前卫星遥感影像公布](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E7%81%BE%E5%8C%BA%E9%9C%87%E5%89%8D%E5%8D%AB%E6%98%9F%E9%81%A5%E6%84%9F%E5%BD%B1%E5%83%8F%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子带孩子逃生偶遇消防员丈夫出警](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%AD%A9%E5%AD%90%E9%80%83%E7%94%9F%E5%81%B6%E9%81%87%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%88%E5%A4%AB%E5%87%BA%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [青海一村震后涌入大量淤泥有人被困](https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E4%B8%80%E6%9D%91%E9%9C%87%E5%90%8E%E6%B6%8C%E5%85%A5%E5%A4%A7%E9%87%8F%E6%B7%A4%E6%B3%A5%E6%9C%89%E4%BA%BA%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [鸟群盘旋是地震前兆？多地辟谣](https://www.baidu.com/s?wd=%E9%B8%9F%E7%BE%A4%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86%EF%BC%9F%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [两部门向灾区预拨2亿元救灾资金](https://www.baidu.com/s?wd=%E4%B8%A4%E9%83%A8%E9%97%A8%E5%90%91%E7%81%BE%E5%8C%BA%E9%A2%84%E6%8B%A82%E4%BA%BF%E5%85%83%E6%95%91%E7%81%BE%E8%B5%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [夜里-15℃ 被困者或只能坚持十小时](https://www.baidu.com/s?wd=%E5%A4%9C%E9%87%8C-15%E2%84%83+%E8%A2%AB%E5%9B%B0%E8%80%85%E6%88%96%E5%8F%AA%E8%83%BD%E5%9D%9A%E6%8C%81%E5%8D%81%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [地震瞬间网管主动让出逃生楼道](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%E7%BD%91%E7%AE%A1%E4%B8%BB%E5%8A%A8%E8%AE%A9%E5%87%BA%E9%80%83%E7%94%9F%E6%A5%BC%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [甘肃灾区震前卫星遥感影像公布](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E7%81%BE%E5%8C%BA%E9%9C%87%E5%89%8D%E5%8D%AB%E6%98%9F%E9%81%A5%E6%84%9F%E5%BD%B1%E5%83%8F%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子带孩子逃生偶遇消防员丈夫出警](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%AD%A9%E5%AD%90%E9%80%83%E7%94%9F%E5%81%B6%E9%81%87%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%88%E5%A4%AB%E5%87%BA%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [青海一村震后涌入大量淤泥有人被困](https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E4%B8%80%E6%9D%91%E9%9C%87%E5%90%8E%E6%B6%8C%E5%85%A5%E5%A4%A7%E9%87%8F%E6%B7%A4%E6%B3%A5%E6%9C%89%E4%BA%BA%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [鸟群盘旋是地震前兆？多地辟谣](https://www.baidu.com/s?wd=%E9%B8%9F%E7%BE%A4%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86%EF%BC%9F%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
