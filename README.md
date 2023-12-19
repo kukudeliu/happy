@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 16:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 16:16:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [江平去世](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E5%B9%B3%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [体检报告要学会自己看](https://s.weibo.com/weibo?q=%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A%E8%A6%81%E5%AD%A6%E4%BC%9A%E8%87%AA%E5%B7%B1%E7%9C%8B&t=31&band_rank=6&Refer=top)<br />
 7. [地震时女子带孩子逃生偶遇消防员丈夫出警](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E6%97%B6%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%AD%A9%E5%AD%90%E9%80%83%E7%94%9F%E5%81%B6%E9%81%87%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%88%E5%A4%AB%E5%87%BA%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈幸同 看手机是回顾技术要点](https://s.weibo.com/weibo?q=%E9%99%88%E5%B9%B8%E5%90%8C%20%E7%9C%8B%E6%89%8B%E6%9C%BA%E6%98%AF%E5%9B%9E%E9%A1%BE%E6%8A%80%E6%9C%AF%E8%A6%81%E7%82%B9&t=31&band_rank=8&Refer=top)<br />
-9. [甘肃一酥饼店连夜做5000个饼支援灾区](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E4%B8%80%E9%85%A5%E9%A5%BC%E5%BA%97%E8%BF%9E%E5%A4%9C%E5%81%9A5000%E4%B8%AA%E9%A5%BC%E6%94%AF%E6%8F%B4%E7%81%BE%E5%8C%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [甘肃一酥饼店连夜做5000个饼支援灾区](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E4%B8%80%E9%85%A5%E9%A5%BC%E5%BA%97%E8%BF%9E%E5%A4%9C%E5%81%9A5000%E4%B8%AA%E9%A5%BC%E6%94%AF%E6%8F%B4%E7%81%BE%E5%8C%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [新疆地震](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
