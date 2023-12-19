@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 12:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 12:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [学校回应地震时宿舍门不开](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%9C%B0%E9%9C%87%E6%97%B6%E5%AE%BF%E8%88%8D%E9%97%A8%E4%B8%8D%E5%BC%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [甘肃地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [山东2名幼儿园女老师出租房内遇害](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C2%E5%90%8D%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A5%B3%E8%80%81%E5%B8%88%E5%87%BA%E7%A7%9F%E6%88%BF%E5%86%85%E9%81%87%E5%AE%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [女生正过18岁生日下1秒地震发生](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%AD%A3%E8%BF%8718%E5%B2%81%E7%94%9F%E6%97%A5%E4%B8%8B1%E7%A7%92%E5%9C%B0%E9%9C%87%E5%8F%91%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [国内适合年轻人躺平的城市](https://s.weibo.com/weibo?q=%E5%9B%BD%E5%86%85%E9%80%82%E5%90%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%BA%BA%E5%B9%B3%E7%9A%84%E5%9F%8E%E5%B8%82&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
