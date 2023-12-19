@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 22:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 22:23:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [墙塌瞬间妈妈用身体护住两个孩子](https://www.baidu.com/s?wd=%E5%A2%99%E5%A1%8C%E7%9E%AC%E9%97%B4%E5%A6%88%E5%A6%88%E7%94%A8%E8%BA%AB%E4%BD%93%E6%8A%A4%E4%BD%8F%E4%B8%A4%E4%B8%AA%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [夜里-15℃ 被困者或只能坚持十小时](https://www.baidu.com/s?wd=%E5%A4%9C%E9%87%8C-15%E2%84%83+%E8%A2%AB%E5%9B%B0%E8%80%85%E6%88%96%E5%8F%AA%E8%83%BD%E5%9D%9A%E6%8C%81%E5%8D%81%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [知名歌手席琳·迪翁患上罕见病](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%AD%8C%E6%89%8B%E5%B8%AD%E7%90%B3%C2%B7%E8%BF%AA%E7%BF%81%E6%82%A3%E4%B8%8A%E7%BD%95%E8%A7%81%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [航拍甘肃积石山 房屋砖瓦掉落街道](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1+%E6%88%BF%E5%B1%8B%E7%A0%96%E7%93%A6%E6%8E%89%E8%90%BD%E8%A1%97%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [鸟群盘旋是地震前兆？多地辟谣](https://www.baidu.com/s?wd=%E9%B8%9F%E7%BE%A4%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86%EF%BC%9F%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [墙塌瞬间妈妈用身体护住两个孩子](https://www.baidu.com/s?wd=%E5%A2%99%E5%A1%8C%E7%9E%AC%E9%97%B4%E5%A6%88%E5%A6%88%E7%94%A8%E8%BA%AB%E4%BD%93%E6%8A%A4%E4%BD%8F%E4%B8%A4%E4%B8%AA%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [夜里-15℃ 被困者或只能坚持十小时](https://www.baidu.com/s?wd=%E5%A4%9C%E9%87%8C-15%E2%84%83+%E8%A2%AB%E5%9B%B0%E8%80%85%E6%88%96%E5%8F%AA%E8%83%BD%E5%9D%9A%E6%8C%81%E5%8D%81%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [知名歌手席琳·迪翁患上罕见病](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%AD%8C%E6%89%8B%E5%B8%AD%E7%90%B3%C2%B7%E8%BF%AA%E7%BF%81%E6%82%A3%E4%B8%8A%E7%BD%95%E8%A7%81%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [航拍甘肃积石山 房屋砖瓦掉落街道](https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1+%E6%88%BF%E5%B1%8B%E7%A0%96%E7%93%A6%E6%8E%89%E8%90%BD%E8%A1%97%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [鸟群盘旋是地震前兆？多地辟谣](https://www.baidu.com/s?wd=%E9%B8%9F%E7%BE%A4%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86%EF%BC%9F%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
