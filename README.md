@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 11:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 11:54:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [余震百余次 村民彻夜在屋外烤火避险](https://www.baidu.com/s?wd=%E4%BD%99%E9%9C%87%E7%99%BE%E4%BD%99%E6%AC%A1+%E6%9D%91%E6%B0%91%E5%BD%BB%E5%A4%9C%E5%9C%A8%E5%B1%8B%E5%A4%96%E7%83%A4%E7%81%AB%E9%81%BF%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [10年间1220万人返乡当了新农人](https://www.baidu.com/s?wd=10%E5%B9%B4%E9%97%B41220%E4%B8%87%E4%BA%BA%E8%BF%94%E4%B9%A1%E5%BD%93%E4%BA%86%E6%96%B0%E5%86%9C%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [甘肃发布会现场为地震遇难者默哀](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA%E4%B8%BA%E5%9C%B0%E9%9C%87%E9%81%87%E9%9A%BE%E8%80%85%E9%BB%98%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美将组建一支多国部队在红海护航](https://www.baidu.com/s?wd=%E7%BE%8E%E5%B0%86%E7%BB%84%E5%BB%BA%E4%B8%80%E6%94%AF%E5%A4%9A%E5%9B%BD%E9%83%A8%E9%98%9F%E5%9C%A8%E7%BA%A2%E6%B5%B7%E6%8A%A4%E8%88%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [西安一高校学生砸门逃生避震](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%B8%80%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E7%A0%B8%E9%97%A8%E9%80%83%E7%94%9F%E9%81%BF%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子骑车接电话撞死老人后崩溃大喊](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AA%91%E8%BD%A6%E6%8E%A5%E7%94%B5%E8%AF%9D%E6%92%9E%E6%AD%BB%E8%80%81%E4%BA%BA%E5%90%8E%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%96%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [西安一高校学生砸门逃生避震](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%B8%80%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E7%A0%B8%E9%97%A8%E9%80%83%E7%94%9F%E9%81%BF%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新疆阿图什市发生5.5级地震](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E9%98%BF%E5%9B%BE%E4%BB%80%E5%B8%82%E5%8F%91%E7%94%9F5.5%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [医保统筹额度年底将清零？](https://www.baidu.com/s?wd=%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E9%A2%9D%E5%BA%A6%E5%B9%B4%E5%BA%95%E5%B0%86%E6%B8%85%E9%9B%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [余震百余次 村民彻夜在屋外烤火避险](https://www.baidu.com/s?wd=%E4%BD%99%E9%9C%87%E7%99%BE%E4%BD%99%E6%AC%A1+%E6%9D%91%E6%B0%91%E5%BD%BB%E5%A4%9C%E5%9C%A8%E5%B1%8B%E5%A4%96%E7%83%A4%E7%81%AB%E9%81%BF%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [10年间1220万人返乡当了新农人](https://www.baidu.com/s?wd=10%E5%B9%B4%E9%97%B41220%E4%B8%87%E4%BA%BA%E8%BF%94%E4%B9%A1%E5%BD%93%E4%BA%86%E6%96%B0%E5%86%9C%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [甘肃发布会现场为地震遇难者默哀](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA%E4%B8%BA%E5%9C%B0%E9%9C%87%E9%81%87%E9%9A%BE%E8%80%85%E9%BB%98%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美将组建一支多国部队在红海护航](https://www.baidu.com/s?wd=%E7%BE%8E%E5%B0%86%E7%BB%84%E5%BB%BA%E4%B8%80%E6%94%AF%E5%A4%9A%E5%9B%BD%E9%83%A8%E9%98%9F%E5%9C%A8%E7%BA%A2%E6%B5%B7%E6%8A%A4%E8%88%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [西安一高校学生砸门逃生避震](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%B8%80%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E7%A0%B8%E9%97%A8%E9%80%83%E7%94%9F%E9%81%BF%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子骑车接电话撞死老人后崩溃大喊](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AA%91%E8%BD%A6%E6%8E%A5%E7%94%B5%E8%AF%9D%E6%92%9E%E6%AD%BB%E8%80%81%E4%BA%BA%E5%90%8E%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%96%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [西安一高校学生砸门逃生避震](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%B8%80%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E7%A0%B8%E9%97%A8%E9%80%83%E7%94%9F%E9%81%BF%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新疆阿图什市发生5.5级地震](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E9%98%BF%E5%9B%BE%E4%BB%80%E5%B8%82%E5%8F%91%E7%94%9F5.5%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [医保统筹额度年底将清零？](https://www.baidu.com/s?wd=%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E9%A2%9D%E5%BA%A6%E5%B9%B4%E5%BA%95%E5%B0%86%E6%B8%85%E9%9B%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
