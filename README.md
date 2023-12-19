@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 18:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 18:36:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [地震时女子带孩子逃生偶遇消防员丈夫出警](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E6%97%B6%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%AD%A9%E5%AD%90%E9%80%83%E7%94%9F%E5%81%B6%E9%81%87%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%88%E5%A4%AB%E5%87%BA%E8%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [波司登首批捐赠2000万元物资](https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%8F%B8%E7%99%BB%E9%A6%96%E6%89%B9%E6%8D%90%E8%B5%A02000%E4%B8%87%E5%85%83%E7%89%A9%E8%B5%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [甘肃地震受灾群众吃上热牛肉面](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%8F%97%E7%81%BE%E7%BE%A4%E4%BC%97%E5%90%83%E4%B8%8A%E7%83%AD%E7%89%9B%E8%82%89%E9%9D%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [用户称地震时7部苹果手机均无预警](https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%88%B7%E7%A7%B0%E5%9C%B0%E9%9C%87%E6%97%B67%E9%83%A8%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%9D%87%E6%97%A0%E9%A2%84%E8%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
+8. [地震引发青海一村7户19人被埋](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%BC%95%E5%8F%91%E9%9D%92%E6%B5%B7%E4%B8%80%E6%9D%917%E6%88%B719%E4%BA%BA%E8%A2%AB%E5%9F%8B%23&t=31&band_rank=8&Refer=top)<br />
 9. [甘肃震区目前最缺御寒和女性物资](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%9C%87%E5%8C%BA%E7%9B%AE%E5%89%8D%E6%9C%80%E7%BC%BA%E5%BE%A1%E5%AF%92%E5%92%8C%E5%A5%B3%E6%80%A7%E7%89%A9%E8%B5%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
