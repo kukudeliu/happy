@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 07:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 07:22:01</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [习近平对甘肃地震作出重要指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [甘肃地震已致127人遇难](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4127%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [灾民痛哭 青海省委书记抱着安慰](https://www.baidu.com/s?wd=%E7%81%BE%E6%B0%91%E7%97%9B%E5%93%AD+%E9%9D%92%E6%B5%B7%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8A%B1%E7%9D%80%E5%AE%89%E6%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [积石山震后24小时：低温与寒夜](https://www.baidu.com/s?wd=%E7%A7%AF%E7%9F%B3%E5%B1%B1%E9%9C%87%E5%90%8E24%E5%B0%8F%E6%97%B6%EF%BC%9A%E4%BD%8E%E6%B8%A9%E4%B8%8E%E5%AF%92%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [两部门向灾区预拨2亿元救灾资金](https://www.baidu.com/s?wd=%E4%B8%A4%E9%83%A8%E9%97%A8%E5%90%91%E7%81%BE%E5%8C%BA%E9%A2%84%E6%8B%A82%E4%BA%BF%E5%85%83%E6%95%91%E7%81%BE%E8%B5%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [墙塌瞬间妈妈用身体护住两个孩子](https://www.baidu.com/s?wd=%E5%A2%99%E5%A1%8C%E7%9E%AC%E9%97%B4%E5%A6%88%E5%A6%88%E7%94%A8%E8%BA%AB%E4%BD%93%E6%8A%A4%E4%BD%8F%E4%B8%A4%E4%B8%AA%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [灾民痛哭 青海省委书记抱着安慰](https://www.baidu.com/s?wd=%E7%81%BE%E6%B0%91%E7%97%9B%E5%93%AD+%E9%9D%92%E6%B5%B7%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8A%B1%E7%9D%80%E5%AE%89%E6%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男孩背书录视频意外记录地震瞬间](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%83%8C%E4%B9%A6%E5%BD%95%E8%A7%86%E9%A2%91%E6%84%8F%E5%A4%96%E8%AE%B0%E5%BD%95%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [金车厘子“身价”暴涨 300多元一斤](https://www.baidu.com/s?wd=%E9%87%91%E8%BD%A6%E5%8E%98%E5%AD%90%E2%80%9C%E8%BA%AB%E4%BB%B7%E2%80%9D%E6%9A%B4%E6%B6%A8+300%E5%A4%9A%E5%85%83%E4%B8%80%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [墙塌瞬间妈妈用身体护住两个孩子](https://www.baidu.com/s?wd=%E5%A2%99%E5%A1%8C%E7%9E%AC%E9%97%B4%E5%A6%88%E5%A6%88%E7%94%A8%E8%BA%AB%E4%BD%93%E6%8A%A4%E4%BD%8F%E4%B8%A4%E4%B8%AA%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男孩背书录视频意外记录地震瞬间](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%83%8C%E4%B9%A6%E5%BD%95%E8%A7%86%E9%A2%91%E6%84%8F%E5%A4%96%E8%AE%B0%E5%BD%95%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [鸟群盘旋是地震前兆？多地辟谣](https://www.baidu.com/s?wd=%E9%B8%9F%E7%BE%A4%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86%EF%BC%9F%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [习近平对甘肃地震作出重要指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [甘肃地震已致127人遇难](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4127%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [灾民痛哭 青海省委书记抱着安慰](https://www.baidu.com/s?wd=%E7%81%BE%E6%B0%91%E7%97%9B%E5%93%AD+%E9%9D%92%E6%B5%B7%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8A%B1%E7%9D%80%E5%AE%89%E6%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [积石山震后24小时：低温与寒夜](https://www.baidu.com/s?wd=%E7%A7%AF%E7%9F%B3%E5%B1%B1%E9%9C%87%E5%90%8E24%E5%B0%8F%E6%97%B6%EF%BC%9A%E4%BD%8E%E6%B8%A9%E4%B8%8E%E5%AF%92%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [两部门向灾区预拨2亿元救灾资金](https://www.baidu.com/s?wd=%E4%B8%A4%E9%83%A8%E9%97%A8%E5%90%91%E7%81%BE%E5%8C%BA%E9%A2%84%E6%8B%A82%E4%BA%BF%E5%85%83%E6%95%91%E7%81%BE%E8%B5%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [墙塌瞬间妈妈用身体护住两个孩子](https://www.baidu.com/s?wd=%E5%A2%99%E5%A1%8C%E7%9E%AC%E9%97%B4%E5%A6%88%E5%A6%88%E7%94%A8%E8%BA%AB%E4%BD%93%E6%8A%A4%E4%BD%8F%E4%B8%A4%E4%B8%AA%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [灾民痛哭 青海省委书记抱着安慰](https://www.baidu.com/s?wd=%E7%81%BE%E6%B0%91%E7%97%9B%E5%93%AD+%E9%9D%92%E6%B5%B7%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8A%B1%E7%9D%80%E5%AE%89%E6%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男孩背书录视频意外记录地震瞬间](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%83%8C%E4%B9%A6%E5%BD%95%E8%A7%86%E9%A2%91%E6%84%8F%E5%A4%96%E8%AE%B0%E5%BD%95%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [金车厘子“身价”暴涨 300多元一斤](https://www.baidu.com/s?wd=%E9%87%91%E8%BD%A6%E5%8E%98%E5%AD%90%E2%80%9C%E8%BA%AB%E4%BB%B7%E2%80%9D%E6%9A%B4%E6%B6%A8+300%E5%A4%9A%E5%85%83%E4%B8%80%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [墙塌瞬间妈妈用身体护住两个孩子](https://www.baidu.com/s?wd=%E5%A2%99%E5%A1%8C%E7%9E%AC%E9%97%B4%E5%A6%88%E5%A6%88%E7%94%A8%E8%BA%AB%E4%BD%93%E6%8A%A4%E4%BD%8F%E4%B8%A4%E4%B8%AA%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男孩背书录视频意外记录地震瞬间](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%83%8C%E4%B9%A6%E5%BD%95%E8%A7%86%E9%A2%91%E6%84%8F%E5%A4%96%E8%AE%B0%E5%BD%95%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [鸟群盘旋是地震前兆？多地辟谣](https://www.baidu.com/s?wd=%E9%B8%9F%E7%BE%A4%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86%EF%BC%9F%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
