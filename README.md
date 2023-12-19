@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 11:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 11:46:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [新疆地震](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [学校回应地震时宿舍门不开](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%9C%B0%E9%9C%87%E6%97%B6%E5%AE%BF%E8%88%8D%E9%97%A8%E4%B8%8D%E5%BC%80%23&t=31&band_rank=5&Refer=top)<br />
 6. [山东2名幼儿园女老师出租房内遇害](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C2%E5%90%8D%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A5%B3%E8%80%81%E5%B8%88%E5%87%BA%E7%A7%9F%E6%88%BF%E5%86%85%E9%81%87%E5%AE%B3%23&t=31&band_rank=6&Refer=top)<br />
-7. [男子未考上编制复合被拒跳楼身亡](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9C%AA%E8%80%83%E4%B8%8A%E7%BC%96%E5%88%B6%E5%A4%8D%E5%90%88%E8%A2%AB%E6%8B%92%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [女生正过18岁生日下1秒地震发生](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%AD%A3%E8%BF%8718%E5%B2%81%E7%94%9F%E6%97%A5%E4%B8%8B1%E7%A7%92%E5%9C%B0%E9%9C%87%E5%8F%91%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [甘肃6.2级地震新闻发布会](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%836.2%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
+7. [女生正过18岁生日下1秒地震发生](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%AD%A3%E8%BF%8718%E5%B2%81%E7%94%9F%E6%97%A5%E4%B8%8B1%E7%A7%92%E5%9C%B0%E9%9C%87%E5%8F%91%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
+8. [甘肃6.2级地震新闻发布会](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%836.2%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [男子未考上编制复合被拒跳楼身亡](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9C%AA%E8%80%83%E4%B8%8A%E7%BC%96%E5%88%B6%E5%A4%8D%E5%90%88%E8%A2%AB%E6%8B%92%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
