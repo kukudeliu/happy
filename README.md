@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 07:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 07:24:01</h4></div>
 
 > 微博  
 
 1. [小柴胡汤](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%9F%B4%E8%83%A1%E6%B1%A4&t=31&band_rank=1&Refer=top)<br />
-2. [地震已致127人遇难](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4127%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=2&Refer=top)<br />
+2. [这些伪粗粮会让血糖飙升](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E4%BC%AA%E7%B2%97%E7%B2%AE%E4%BC%9A%E8%AE%A9%E8%A1%80%E7%B3%96%E9%A3%99%E5%8D%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [甘肃加油青海加油](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%8A%A0%E6%B2%B9%E9%9D%92%E6%B5%B7%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [泰国瑞幸向中国瑞幸索赔100亿泰铢](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%91%9E%E5%B9%B8%E5%90%91%E4%B8%AD%E5%9B%BD%E7%91%9E%E5%B9%B8%E7%B4%A2%E8%B5%94100%E4%BA%BF%E6%B3%B0%E9%93%A2%23&t=31&band_rank=4&Refer=top)<br />
-5. [这些伪粗粮会让血糖飙升](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E4%BC%AA%E7%B2%97%E7%B2%AE%E4%BC%9A%E8%AE%A9%E8%A1%80%E7%B3%96%E9%A3%99%E5%8D%87%23&t=31&band_rank=5&Refer=top)<br />
+5. [地震已致127人遇难](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4127%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [小米汽车三名员工未经许可参与研讨会被辞退](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%B8%89%E5%90%8D%E5%91%98%E5%B7%A5%E6%9C%AA%E7%BB%8F%E8%AE%B8%E5%8F%AF%E5%8F%82%E4%B8%8E%E7%A0%94%E8%AE%A8%E4%BC%9A%E8%A2%AB%E8%BE%9E%E9%80%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [甘肃震区群众用上了解放军的野战帐篷](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%9C%87%E5%8C%BA%E7%BE%A4%E4%BC%97%E7%94%A8%E4%B8%8A%E4%BA%86%E8%A7%A3%E6%94%BE%E5%86%9B%E7%9A%84%E9%87%8E%E6%88%98%E5%B8%90%E7%AF%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [冰雪大世界游客高喊退票](https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E6%B8%B8%E5%AE%A2%E9%AB%98%E5%96%8A%E9%80%80%E7%A5%A8%23&t=31&band_rank=8&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [灾民痛哭 青海省委书记抱着安慰](https://www.baidu.com/s?wd=%E7%81%BE%E6%B0%91%E7%97%9B%E5%93%AD+%E9%9D%92%E6%B5%B7%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8A%B1%E7%9D%80%E5%AE%89%E6%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [墙塌瞬间妈妈用身体护住两个孩子](https://www.baidu.com/s?wd=%E5%A2%99%E5%A1%8C%E7%9E%AC%E9%97%B4%E5%A6%88%E5%A6%88%E7%94%A8%E8%BA%AB%E4%BD%93%E6%8A%A4%E4%BD%8F%E4%B8%A4%E4%B8%AA%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男孩背书录视频意外记录地震瞬间](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%83%8C%E4%B9%A6%E5%BD%95%E8%A7%86%E9%A2%91%E6%84%8F%E5%A4%96%E8%AE%B0%E5%BD%95%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [金车厘子“身价”暴涨 300多元一斤](https://www.baidu.com/s?wd=%E9%87%91%E8%BD%A6%E5%8E%98%E5%AD%90%E2%80%9C%E8%BA%AB%E4%BB%B7%E2%80%9D%E6%9A%B4%E6%B6%A8+300%E5%A4%9A%E5%85%83%E4%B8%80%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [鸟群盘旋是地震前兆？多地辟谣](https://www.baidu.com/s?wd=%E9%B8%9F%E7%BE%A4%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86%EF%BC%9F%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [灾民痛哭 青海省委书记抱着安慰](https://www.baidu.com/s?wd=%E7%81%BE%E6%B0%91%E7%97%9B%E5%93%AD+%E9%9D%92%E6%B5%B7%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8A%B1%E7%9D%80%E5%AE%89%E6%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [墙塌瞬间妈妈用身体护住两个孩子](https://www.baidu.com/s?wd=%E5%A2%99%E5%A1%8C%E7%9E%AC%E9%97%B4%E5%A6%88%E5%A6%88%E7%94%A8%E8%BA%AB%E4%BD%93%E6%8A%A4%E4%BD%8F%E4%B8%A4%E4%B8%AA%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男孩背书录视频意外记录地震瞬间](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%83%8C%E4%B9%A6%E5%BD%95%E8%A7%86%E9%A2%91%E6%84%8F%E5%A4%96%E8%AE%B0%E5%BD%95%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [金车厘子“身价”暴涨 300多元一斤](https://www.baidu.com/s?wd=%E9%87%91%E8%BD%A6%E5%8E%98%E5%AD%90%E2%80%9C%E8%BA%AB%E4%BB%B7%E2%80%9D%E6%9A%B4%E6%B6%A8+300%E5%A4%9A%E5%85%83%E4%B8%80%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [鸟群盘旋是地震前兆？多地辟谣](https://www.baidu.com/s?wd=%E9%B8%9F%E7%BE%A4%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86%EF%BC%9F%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
