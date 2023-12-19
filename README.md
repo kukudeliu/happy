@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 13:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 13:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [公租房小区被曝停放多辆豪车](https://s.weibo.com/weibo?q=%23%E5%85%AC%E7%A7%9F%E6%88%BF%E5%B0%8F%E5%8C%BA%E8%A2%AB%E6%9B%9D%E5%81%9C%E6%94%BE%E5%A4%9A%E8%BE%86%E8%B1%AA%E8%BD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [学校回应地震时宿舍门不开](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%9C%B0%E9%9C%87%E6%97%B6%E5%AE%BF%E8%88%8D%E9%97%A8%E4%B8%8D%E5%BC%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [山东2名幼儿园女老师出租房内遇害](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C2%E5%90%8D%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A5%B3%E8%80%81%E5%B8%88%E5%87%BA%E7%A7%9F%E6%88%BF%E5%86%85%E9%81%87%E5%AE%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [地震时女子带孩子逃生偶遇消防员丈夫出警](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E6%97%B6%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%AD%A9%E5%AD%90%E9%80%83%E7%94%9F%E5%81%B6%E9%81%87%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%88%E5%A4%AB%E5%87%BA%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子拆快递发现全是现金慌忙报警](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%86%E5%BF%AB%E9%80%92%E5%8F%91%E7%8E%B0%E5%85%A8%E6%98%AF%E7%8E%B0%E9%87%91%E6%85%8C%E5%BF%99%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
