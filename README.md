@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 13:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 13:43:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [10年间1220万人返乡当了新农人](https://www.baidu.com/s?wd=10%E5%B9%B4%E9%97%B41220%E4%B8%87%E4%BA%BA%E8%BF%94%E4%B9%A1%E5%BD%93%E4%BA%86%E6%96%B0%E5%86%9C%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [甘肃地震为何危害这么大？专家分析](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E4%B8%BA%E4%BD%95%E5%8D%B1%E5%AE%B3%E8%BF%99%E4%B9%88%E5%A4%A7%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%88%86%E6%9E%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [甘肃临夏州棉服棉被棉鞋比较紧缺](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E4%B8%B4%E5%A4%8F%E5%B7%9E%E6%A3%89%E6%9C%8D%E6%A3%89%E8%A2%AB%E6%A3%89%E9%9E%8B%E6%AF%94%E8%BE%83%E7%B4%A7%E7%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生正过18岁生日下1秒地震发生](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%AD%A3%E8%BF%8718%E5%B2%81%E7%94%9F%E6%97%A5%E4%B8%8B1%E7%A7%92%E5%9C%B0%E9%9C%87%E5%8F%91%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生正过18岁生日下1秒地震发生](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%AD%A3%E8%BF%8718%E5%B2%81%E7%94%9F%E6%97%A5%E4%B8%8B1%E7%A7%92%E5%9C%B0%E9%9C%87%E5%8F%91%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子骑车接电话撞死老人后崩溃大喊](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AA%91%E8%BD%A6%E6%8E%A5%E7%94%B5%E8%AF%9D%E6%92%9E%E6%AD%BB%E8%80%81%E4%BA%BA%E5%90%8E%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%96%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [医保统筹额度年底将清零？](https://www.baidu.com/s?wd=%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E9%A2%9D%E5%BA%A6%E5%B9%B4%E5%BA%95%E5%B0%86%E6%B8%85%E9%9B%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [10年间1220万人返乡当了新农人](https://www.baidu.com/s?wd=10%E5%B9%B4%E9%97%B41220%E4%B8%87%E4%BA%BA%E8%BF%94%E4%B9%A1%E5%BD%93%E4%BA%86%E6%96%B0%E5%86%9C%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [甘肃地震为何危害这么大？专家分析](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E4%B8%BA%E4%BD%95%E5%8D%B1%E5%AE%B3%E8%BF%99%E4%B9%88%E5%A4%A7%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%88%86%E6%9E%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [甘肃临夏州棉服棉被棉鞋比较紧缺](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E4%B8%B4%E5%A4%8F%E5%B7%9E%E6%A3%89%E6%9C%8D%E6%A3%89%E8%A2%AB%E6%A3%89%E9%9E%8B%E6%AF%94%E8%BE%83%E7%B4%A7%E7%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生正过18岁生日下1秒地震发生](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%AD%A3%E8%BF%8718%E5%B2%81%E7%94%9F%E6%97%A5%E4%B8%8B1%E7%A7%92%E5%9C%B0%E9%9C%87%E5%8F%91%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生正过18岁生日下1秒地震发生](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%AD%A3%E8%BF%8718%E5%B2%81%E7%94%9F%E6%97%A5%E4%B8%8B1%E7%A7%92%E5%9C%B0%E9%9C%87%E5%8F%91%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子骑车接电话撞死老人后崩溃大喊](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AA%91%E8%BD%A6%E6%8E%A5%E7%94%B5%E8%AF%9D%E6%92%9E%E6%AD%BB%E8%80%81%E4%BA%BA%E5%90%8E%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%96%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [医保统筹额度年底将清零？](https://www.baidu.com/s?wd=%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E9%A2%9D%E5%BA%A6%E5%B9%B4%E5%BA%95%E5%B0%86%E6%B8%85%E9%9B%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
