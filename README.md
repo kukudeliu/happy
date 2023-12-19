@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 21:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 21:50:02</h4></div>
 
 > 微博  
 
-1. [青海省委书记抱着安慰痛哭的灾民](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8A%B1%E7%9D%80%E5%AE%89%E6%85%B0%E7%97%9B%E5%93%AD%E7%9A%84%E7%81%BE%E6%B0%91%23&t=31&band_rank=1&Refer=top)<br />
-2. [小白买车](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%99%BD%E4%B9%B0%E8%BD%A6&t=31&band_rank=2&Refer=top)<br />
+1. [小白买车](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%99%BD%E4%B9%B0%E8%BD%A6&t=31&band_rank=1&Refer=top)<br />
+2. [青海省委书记抱着安慰痛哭的灾民](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8A%B1%E7%9D%80%E5%AE%89%E6%85%B0%E7%97%9B%E5%93%AD%E7%9A%84%E7%81%BE%E6%B0%91%23&t=31&band_rank=2&Refer=top)<br />
 3. [向地震灾区下达2.5亿元中央预算内投资](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%9C%B0%E9%9C%87%E7%81%BE%E5%8C%BA%E4%B8%8B%E8%BE%BE2.5%E4%BA%BF%E5%85%83%E4%B8%AD%E5%A4%AE%E9%A2%84%E7%AE%97%E5%86%85%E6%8A%95%E8%B5%84%23&t=31&band_rank=3&Refer=top)<br />
 4. [地震已致127人遇难](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4127%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=4&Refer=top)<br />
 5. [小米汽车三名员工未经许可参与研讨会被辞退](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%B8%89%E5%90%8D%E5%91%98%E5%B7%A5%E6%9C%AA%E7%BB%8F%E8%AE%B8%E5%8F%AF%E5%8F%82%E4%B8%8E%E7%A0%94%E8%AE%A8%E4%BC%9A%E8%A2%AB%E8%BE%9E%E9%80%80%23&t=31&band_rank=5&Refer=top)<br />
