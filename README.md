@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 16:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 16:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [哈尔滨冰雪大世界致歉](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E8%87%B4%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [地震时女子带孩子逃生偶遇消防员丈夫出警](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E6%97%B6%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%AD%A9%E5%AD%90%E9%80%83%E7%94%9F%E5%81%B6%E9%81%87%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%88%E5%A4%AB%E5%87%BA%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [体检报告要学会自己看](https://s.weibo.com/weibo?q=%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A%E8%A6%81%E5%AD%A6%E4%BC%9A%E8%87%AA%E5%B7%B1%E7%9C%8B&t=31&band_rank=8&Refer=top)<br />
-9. [新疆地震](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [甘肃震区目前最缺御寒和女性物资](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%9C%87%E5%8C%BA%E7%9B%AE%E5%89%8D%E6%9C%80%E7%BC%BA%E5%BE%A1%E5%AF%92%E5%92%8C%E5%A5%B3%E6%80%A7%E7%89%A9%E8%B5%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
