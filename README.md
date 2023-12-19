@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 08:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 08:23:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [甘肃地震](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87&t=31&band_rank=5&Refer=top)<br />
 6. [警方通报国家公祭日男子身贴日本国旗](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9B%BD%E5%AE%B6%E5%85%AC%E7%A5%AD%E6%97%A5%E7%94%B7%E5%AD%90%E8%BA%AB%E8%B4%B4%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [常华森 内娱第一个直播讲高数的明星](https://s.weibo.com/weibo?q=%E5%B8%B8%E5%8D%8E%E6%A3%AE%20%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%9B%B4%E6%92%AD%E8%AE%B2%E9%AB%98%E6%95%B0%E7%9A%84%E6%98%8E%E6%98%9F&t=31&band_rank=7&Refer=top)<br />
-8. [西安震感](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E9%9C%87%E6%84%9F&t=31&band_rank=8&Refer=top)<br />
-9. [一念关山 崩人设](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E5%B4%A9%E4%BA%BA%E8%AE%BE&t=31&band_rank=9&Refer=top)<br />
+8. [一念关山 崩人设](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E5%B4%A9%E4%BA%BA%E8%AE%BE&t=31&band_rank=8&Refer=top)<br />
+9. [西安震感](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E9%9C%87%E6%84%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
