@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 10:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 10:48:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [男子未考上编制复合被拒跳楼身亡](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9C%AA%E8%80%83%E4%B8%8A%E7%BC%96%E5%88%B6%E5%A4%8D%E5%90%88%E8%A2%AB%E6%8B%92%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [母子吞下54个藏毒避孕套入境澳门被捕](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%AD%90%E5%90%9E%E4%B8%8B54%E4%B8%AA%E8%97%8F%E6%AF%92%E9%81%BF%E5%AD%95%E5%A5%97%E5%85%A5%E5%A2%83%E6%BE%B3%E9%97%A8%E8%A2%AB%E6%8D%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [山东2名幼儿园女老师出租房内遇害](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C2%E5%90%8D%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A5%B3%E8%80%81%E5%B8%88%E5%87%BA%E7%A7%9F%E6%88%BF%E5%86%85%E9%81%87%E5%AE%B3%23&t=31&band_rank=6&Refer=top)<br />
-7. [甘肃6.2级地震新闻发布会](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%836.2%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [哈登打疯了](https://s.weibo.com/weibo?q=%E5%93%88%E7%99%BB%E6%89%93%E7%96%AF%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+7. [哈登打疯了](https://s.weibo.com/weibo?q=%E5%93%88%E7%99%BB%E6%89%93%E7%96%AF%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [甘肃6.2级地震新闻发布会](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%836.2%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
 9. [猝死的人都有的规律](https://s.weibo.com/weibo?q=%E7%8C%9D%E6%AD%BB%E7%9A%84%E4%BA%BA%E9%83%BD%E6%9C%89%E7%9A%84%E8%A7%84%E5%BE%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
