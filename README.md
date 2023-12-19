@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 10:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 10:05:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男子未考上编制复合被拒跳楼身亡](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9C%AA%E8%80%83%E4%B8%8A%E7%BC%96%E5%88%B6%E5%A4%8D%E5%90%88%E8%A2%AB%E6%8B%92%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [甘肃地震监控画面](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E7%9B%91%E6%8E%A7%E7%94%BB%E9%9D%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [猝死的人都有的规律](https://s.weibo.com/weibo?q=%E7%8C%9D%E6%AD%BB%E7%9A%84%E4%BA%BA%E9%83%BD%E6%9C%89%E7%9A%84%E8%A7%84%E5%BE%8B&t=31&band_rank=7&Refer=top)<br />
-8. [甘肃地震后鸟群盘旋](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%90%8E%E9%B8%9F%E7%BE%A4%E7%9B%98%E6%97%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [甘肃地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [新疆地震](https://s.weibo.com/weibo?q=%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top)<br />
+9. [甘肃地震后鸟群盘旋](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%90%8E%E9%B8%9F%E7%BE%A4%E7%9B%98%E6%97%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
