@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 14:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 14:40:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [余震百余次 村民彻夜在屋外烤火避险](https://www.baidu.com/s?wd=%E4%BD%99%E9%9C%87%E7%99%BE%E4%BD%99%E6%AC%A1+%E6%9D%91%E6%B0%91%E5%BD%BB%E5%A4%9C%E5%9C%A8%E5%B1%8B%E5%A4%96%E7%83%A4%E7%81%AB%E9%81%BF%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子拆快递发现全是现金慌忙报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8B%86%E5%BF%AB%E9%80%92%E5%8F%91%E7%8E%B0%E5%85%A8%E6%98%AF%E7%8E%B0%E9%87%91%E6%85%8C%E5%BF%99%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [甘肃地震前后乌鸦成群？专家解读](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%89%8D%E5%90%8E%E4%B9%8C%E9%B8%A6%E6%88%90%E7%BE%A4%EF%BC%9F%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [兰州市民称床晃得像荡秋千一夜没睡](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E5%B8%82%E6%B0%91%E7%A7%B0%E5%BA%8A%E6%99%83%E5%BE%97%E5%83%8F%E8%8D%A1%E7%A7%8B%E5%8D%83%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [医保统筹额度年底将清零？](https://www.baidu.com/s?wd=%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E9%A2%9D%E5%BA%A6%E5%B9%B4%E5%BA%95%E5%B0%86%E6%B8%85%E9%9B%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [余震百余次 村民彻夜在屋外烤火避险](https://www.baidu.com/s?wd=%E4%BD%99%E9%9C%87%E7%99%BE%E4%BD%99%E6%AC%A1+%E6%9D%91%E6%B0%91%E5%BD%BB%E5%A4%9C%E5%9C%A8%E5%B1%8B%E5%A4%96%E7%83%A4%E7%81%AB%E9%81%BF%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子拆快递发现全是现金慌忙报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8B%86%E5%BF%AB%E9%80%92%E5%8F%91%E7%8E%B0%E5%85%A8%E6%98%AF%E7%8E%B0%E9%87%91%E6%85%8C%E5%BF%99%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [甘肃地震前后乌鸦成群？专家解读](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%89%8D%E5%90%8E%E4%B9%8C%E9%B8%A6%E6%88%90%E7%BE%A4%EF%BC%9F%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [兰州市民称床晃得像荡秋千一夜没睡](https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E5%B8%82%E6%B0%91%E7%A7%B0%E5%BA%8A%E6%99%83%E5%BE%97%E5%83%8F%E8%8D%A1%E7%A7%8B%E5%8D%83%E4%B8%80%E5%A4%9C%E6%B2%A1%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [医保统筹额度年底将清零？](https://www.baidu.com/s?wd=%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E9%A2%9D%E5%BA%A6%E5%B9%B4%E5%BA%95%E5%B0%86%E6%B8%85%E9%9B%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
