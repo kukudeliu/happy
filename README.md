@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 21:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 21:35:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [两部门向灾区预拨2亿元救灾资金](https://www.baidu.com/s?wd=%E4%B8%A4%E9%83%A8%E9%97%A8%E5%90%91%E7%81%BE%E5%8C%BA%E9%A2%84%E6%8B%A82%E4%BA%BF%E5%85%83%E6%95%91%E7%81%BE%E8%B5%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [夜里-15℃ 被困者或只能坚持十小时](https://www.baidu.com/s?wd=%E5%A4%9C%E9%87%8C-15%E2%84%83+%E8%A2%AB%E5%9B%B0%E8%80%85%E6%88%96%E5%8F%AA%E8%83%BD%E5%9D%9A%E6%8C%81%E5%8D%81%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [甘肃：志愿者和车辆不要前往震区](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%EF%BC%9A%E5%BF%97%E6%84%BF%E8%80%85%E5%92%8C%E8%BD%A6%E8%BE%86%E4%B8%8D%E8%A6%81%E5%89%8D%E5%BE%80%E9%9C%87%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [甘肃灾区震前卫星遥感影像公布](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E7%81%BE%E5%8C%BA%E9%9C%87%E5%89%8D%E5%8D%AB%E6%98%9F%E9%81%A5%E6%84%9F%E5%BD%B1%E5%83%8F%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [汤晓鸥遗体告别仪式今日举行](https://www.baidu.com/s?wd=%E6%B1%A4%E6%99%93%E9%B8%A5%E9%81%97%E4%BD%93%E5%91%8A%E5%88%AB%E4%BB%AA%E5%BC%8F%E4%BB%8A%E6%97%A5%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [鸟群盘旋是地震前兆？多地辟谣](https://www.baidu.com/s?wd=%E9%B8%9F%E7%BE%A4%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86%EF%BC%9F%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [两部门向灾区预拨2亿元救灾资金](https://www.baidu.com/s?wd=%E4%B8%A4%E9%83%A8%E9%97%A8%E5%90%91%E7%81%BE%E5%8C%BA%E9%A2%84%E6%8B%A82%E4%BA%BF%E5%85%83%E6%95%91%E7%81%BE%E8%B5%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [直击甘肃地震救援现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [夜里-15℃ 被困者或只能坚持十小时](https://www.baidu.com/s?wd=%E5%A4%9C%E9%87%8C-15%E2%84%83+%E8%A2%AB%E5%9B%B0%E8%80%85%E6%88%96%E5%8F%AA%E8%83%BD%E5%9D%9A%E6%8C%81%E5%8D%81%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [甘肃：志愿者和车辆不要前往震区](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%EF%BC%9A%E5%BF%97%E6%84%BF%E8%80%85%E5%92%8C%E8%BD%A6%E8%BE%86%E4%B8%8D%E8%A6%81%E5%89%8D%E5%BE%80%E9%9C%87%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [甘肃灾区震前卫星遥感影像公布](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E7%81%BE%E5%8C%BA%E9%9C%87%E5%89%8D%E5%8D%AB%E6%98%9F%E9%81%A5%E6%84%9F%E5%BD%B1%E5%83%8F%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [汤晓鸥遗体告别仪式今日举行](https://www.baidu.com/s?wd=%E6%B1%A4%E6%99%93%E9%B8%A5%E9%81%97%E4%BD%93%E5%91%8A%E5%88%AB%E4%BB%AA%E5%BC%8F%E4%BB%8A%E6%97%A5%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [鸟群盘旋是地震前兆？多地辟谣](https://www.baidu.com/s?wd=%E9%B8%9F%E7%BE%A4%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86%EF%BC%9F%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
