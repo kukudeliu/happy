@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 14:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-19 14:39:01</h4></div>
 
 > 微博  
 
-1. [甘肃地震已致118人遇难](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4118%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top)<br />
-2. [江平去世](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E5%B9%B3%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
+1. [江平去世](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E5%B9%B3%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
+2. [甘肃地震已致118人遇难](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4118%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=2&Refer=top)<br />
 3. [明年经济工作这几个发力点要读懂](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E8%BF%99%E5%87%A0%E4%B8%AA%E5%8F%91%E5%8A%9B%E7%82%B9%E8%A6%81%E8%AF%BB%E6%87%82%23&t=31&band_rank=3&Refer=top)<br />
 4. [鸿星尔克又捐了2000万](https://s.weibo.com/weibo?q=%23%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E5%8F%88%E6%8D%90%E4%BA%862000%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [董明珠称年轻人不该以自我为中心](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E8%AF%A5%E4%BB%A5%E8%87%AA%E6%88%91%E4%B8%BA%E4%B8%AD%E5%BF%83%23&t=31&band_rank=5&Refer=top)<br />
