@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 14:00:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 14:01:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=6&Refer=top)<br />
 7. [衣服上的火锅味为什么散不掉](https://s.weibo.com/weibo?q=%23%E8%A1%A3%E6%9C%8D%E4%B8%8A%E7%9A%84%E7%81%AB%E9%94%85%E5%91%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E6%95%A3%E4%B8%8D%E6%8E%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [泰国瑞幸向中国瑞幸索赔100亿泰铢](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%91%9E%E5%B9%B8%E5%90%91%E4%B8%AD%E5%9B%BD%E7%91%9E%E5%B9%B8%E7%B4%A2%E8%B5%94100%E4%BA%BF%E6%B3%B0%E9%93%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [地震已致131人遇难](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4131%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [库里杀死比赛](https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E6%9D%80%E6%AD%BB%E6%AF%94%E8%B5%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
