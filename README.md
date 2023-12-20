@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 00:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 01:00:01</h4></div>
 
 > 微博  
 
 1. [ofo创始人戴威恐面临二次创业失败](https://s.weibo.com/weibo?q=%23ofo%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%88%B4%E5%A8%81%E6%81%90%E9%9D%A2%E4%B8%B4%E4%BA%8C%E6%AC%A1%E5%88%9B%E4%B8%9A%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=1&Refer=top)<br />
 2. [冻到皮肤发红就要警惕了](https://s.weibo.com/weibo?q=%23%E5%86%BB%E5%88%B0%E7%9A%AE%E8%82%A4%E5%8F%91%E7%BA%A2%E5%B0%B1%E8%A6%81%E8%AD%A6%E6%83%95%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024年三农工作](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E4%B8%89%E5%86%9C%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=3&Refer=top)<br />
-4. [警方通报2男子烧烤店殴打女店员](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A52%E7%94%B7%E5%AD%90%E7%83%A7%E7%83%A4%E5%BA%97%E6%AE%B4%E6%89%93%E5%A5%B3%E5%BA%97%E5%91%98%23&t=31&band_rank=4&Refer=top)<br />
-5. [考公吧少年 团综](https://s.weibo.com/weibo?q=%E8%80%83%E5%85%AC%E5%90%A7%E5%B0%91%E5%B9%B4%20%E5%9B%A2%E7%BB%BC&t=31&band_rank=5&Refer=top)<br />
+4. [考公吧少年 团综](https://s.weibo.com/weibo?q=%E8%80%83%E5%85%AC%E5%90%A7%E5%B0%91%E5%B9%B4%20%E5%9B%A2%E7%BB%BC&t=31&band_rank=4&Refer=top)<br />
+5. [警方通报2男子烧烤店殴打女店员](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A52%E7%94%B7%E5%AD%90%E7%83%A7%E7%83%A4%E5%BA%97%E6%AE%B4%E6%89%93%E5%A5%B3%E5%BA%97%E5%91%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [Bin 恋爱](https://s.weibo.com/weibo?q=Bin%20%E6%81%8B%E7%88%B1&t=31&band_rank=6&Refer=top)<br />
 7. [女子起诉父母不肯出钱给自己出国留学](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B5%B7%E8%AF%89%E7%88%B6%E6%AF%8D%E4%B8%8D%E8%82%AF%E5%87%BA%E9%92%B1%E7%BB%99%E8%87%AA%E5%B7%B1%E5%87%BA%E5%9B%BD%E7%95%99%E5%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [官方回应网传爱尔眼科医生捶击患者](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E5%8C%BB%E7%94%9F%E6%8D%B6%E5%87%BB%E6%82%A3%E8%80%85%23&t=31&band_rank=8&Refer=top)<br />
