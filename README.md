@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 14:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 14:28:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [哈尔滨退票事件](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E9%80%80%E7%A5%A8%E4%BA%8B%E4%BB%B6&t=31&band_rank=4&Refer=top)<br />
 5. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=5&Refer=top)<br />
 6. [2名技校男生互相怂恿强奸醉酒女生获刑](https://s.weibo.com/weibo?q=%232%E5%90%8D%E6%8A%80%E6%A0%A1%E7%94%B7%E7%94%9F%E4%BA%92%E7%9B%B8%E6%80%82%E6%81%BF%E5%BC%BA%E5%A5%B8%E9%86%89%E9%85%92%E5%A5%B3%E7%94%9F%E8%8E%B7%E5%88%91%23&t=31&band_rank=6&Refer=top)<br />
-7. [库里杀死比赛](https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E6%9D%80%E6%AD%BB%E6%AF%94%E8%B5%9B%23&t=31&band_rank=7&Refer=top)<br />
-8. [衣服上的火锅味为什么散不掉](https://s.weibo.com/weibo?q=%23%E8%A1%A3%E6%9C%8D%E4%B8%8A%E7%9A%84%E7%81%AB%E9%94%85%E5%91%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E6%95%A3%E4%B8%8D%E6%8E%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [泰国瑞幸向中国瑞幸索赔100亿泰铢](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%91%9E%E5%B9%B8%E5%90%91%E4%B8%AD%E5%9B%BD%E7%91%9E%E5%B9%B8%E7%B4%A2%E8%B5%94100%E4%BA%BF%E6%B3%B0%E9%93%A2%23&t=31&band_rank=9&Refer=top)<br />
+7. [杰伦布朗嘲讽库里](https://s.weibo.com/weibo?q=%23%E6%9D%B0%E4%BC%A6%E5%B8%83%E6%9C%97%E5%98%B2%E8%AE%BD%E5%BA%93%E9%87%8C%23&t=31&band_rank=7&Refer=top)<br />
+8. [库里杀死比赛](https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E6%9D%80%E6%AD%BB%E6%AF%94%E8%B5%9B%23&t=31&band_rank=8&Refer=top)<br />
+9. [衣服上的火锅味为什么散不掉](https://s.weibo.com/weibo?q=%23%E8%A1%A3%E6%9C%8D%E4%B8%8A%E7%9A%84%E7%81%AB%E9%94%85%E5%91%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E6%95%A3%E4%B8%8D%E6%8E%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
