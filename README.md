@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 20:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 20:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女孩一年举报几十个猫贩子窝点](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%80%E5%B9%B4%E4%B8%BE%E6%8A%A5%E5%87%A0%E5%8D%81%E4%B8%AA%E7%8C%AB%E8%B4%A9%E5%AD%90%E7%AA%9D%E7%82%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [考研 极限考试周](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%20%E6%9E%81%E9%99%90%E8%80%83%E8%AF%95%E5%91%A8&t=31&band_rank=7&Refer=top)<br />
 8. [医生建议3种洗洁精最好别用](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE3%E7%A7%8D%E6%B4%97%E6%B4%81%E7%B2%BE%E6%9C%80%E5%A5%BD%E5%88%AB%E7%94%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [胡锡进称不卖就割不了我韭菜](https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E7%A7%B0%E4%B8%8D%E5%8D%96%E5%B0%B1%E5%89%B2%E4%B8%8D%E4%BA%86%E6%88%91%E9%9F%AD%E8%8F%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [地震后父亲打给远嫁女儿差点哭了](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%90%8E%E7%88%B6%E4%BA%B2%E6%89%93%E7%BB%99%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%84%BF%E5%B7%AE%E7%82%B9%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
