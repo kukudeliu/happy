@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 19:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 19:43:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [王楚钦锡纸烫](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%94%A1%E7%BA%B8%E7%83%AB&t=31&band_rank=4&Refer=top)<br />
 5. [被安置点的这一幕暖到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AE%89%E7%BD%AE%E7%82%B9%E7%9A%84%E8%BF%99%E4%B8%80%E5%B9%95%E6%9A%96%E5%88%B0%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [胡锡进称不卖就割不了我韭菜](https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E7%A7%B0%E4%B8%8D%E5%8D%96%E5%B0%B1%E5%89%B2%E4%B8%8D%E4%BA%86%E6%88%91%E9%9F%AD%E8%8F%9C%23&t=31&band_rank=6&Refer=top)<br />
-7. [消防担心伤者失去意识一路呼唤姑娘](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E6%8B%85%E5%BF%83%E4%BC%A4%E8%80%85%E5%A4%B1%E5%8E%BB%E6%84%8F%E8%AF%86%E4%B8%80%E8%B7%AF%E5%91%BC%E5%94%A4%E5%A7%91%E5%A8%98%23&t=31&band_rank=7&Refer=top)<br />
+7. [甘肃地震已转移安置87076人](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%BD%AC%E7%A7%BB%E5%AE%89%E7%BD%AE87076%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [考研 极限考试周](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%20%E6%9E%81%E9%99%90%E8%80%83%E8%AF%95%E5%91%A8&t=31&band_rank=8&Refer=top)<br />
 9. [女孩一年举报几十个猫贩子窝点](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%80%E5%B9%B4%E4%B8%BE%E6%8A%A5%E5%87%A0%E5%8D%81%E4%B8%AA%E7%8C%AB%E8%B4%A9%E5%AD%90%E7%AA%9D%E7%82%B9%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -25,7 +25,7 @@
 6. [甘肃积石山首个“地震宝宝”降生](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E9%A6%96%E4%B8%AA%E2%80%9C%E5%9C%B0%E9%9C%87%E5%AE%9D%E5%AE%9D%E2%80%9D%E9%99%8D%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [传入国内的JN.1变异株是什么来头？](https://www.baidu.com/s?wd=%E4%BC%A0%E5%85%A5%E5%9B%BD%E5%86%85%E7%9A%84JN.1%E5%8F%98%E5%BC%82%E6%A0%AA%E6%98%AF%E4%BB%80%E4%B9%88%E6%9D%A5%E5%A4%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#好片正当燃#](https://www.baidu.com/s?wd=%23%E5%A5%BD%E7%89%87%E6%AD%A3%E5%BD%93%E7%87%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广州下雪了？当地发文辟谣](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%8B%E9%9B%AA%E4%BA%86%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%8F%91%E6%96%87%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [“砂涌现象”与余震无直接关系](https://www.baidu.com/s?wd=%E2%80%9C%E7%A0%82%E6%B6%8C%E7%8E%B0%E8%B1%A1%E2%80%9D%E4%B8%8E%E4%BD%99%E9%9C%87%E6%97%A0%E7%9B%B4%E6%8E%A5%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [甘肃积石山首个“地震宝宝”降生](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E9%A6%96%E4%B8%AA%E2%80%9C%E5%9C%B0%E9%9C%87%E5%AE%9D%E5%AE%9D%E2%80%9D%E9%99%8D%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [传入国内的JN.1变异株是什么来头？](https://www.baidu.com/s?wd=%E4%BC%A0%E5%85%A5%E5%9B%BD%E5%86%85%E7%9A%84JN.1%E5%8F%98%E5%BC%82%E6%A0%AA%E6%98%AF%E4%BB%80%E4%B9%88%E6%9D%A5%E5%A4%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#好片正当燃#](https://www.baidu.com/s?wd=%23%E5%A5%BD%E7%89%87%E6%AD%A3%E5%BD%93%E7%87%83%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广州下雪了？当地发文辟谣](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%8B%E9%9B%AA%E4%BA%86%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%8F%91%E6%96%87%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [“砂涌现象”与余震无直接关系](https://www.baidu.com/s?wd=%E2%80%9C%E7%A0%82%E6%B6%8C%E7%8E%B0%E8%B1%A1%E2%80%9D%E4%B8%8E%E4%BD%99%E9%9C%87%E6%97%A0%E7%9B%B4%E6%8E%A5%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
