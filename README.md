@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 09:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 09:18:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [网友吐槽买了一盒金车厘子583元](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E4%B9%B0%E4%BA%86%E4%B8%80%E7%9B%92%E9%87%91%E8%BD%A6%E5%8E%98%E5%AD%90583%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [泰国瑞幸向中国瑞幸索赔100亿泰铢](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%91%9E%E5%B9%B8%E5%90%91%E4%B8%AD%E5%9B%BD%E7%91%9E%E5%B9%B8%E7%B4%A2%E8%B5%94100%E4%BA%BF%E6%B3%B0%E9%93%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [地震已致青海海东18人遇难198人受伤](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4%E9%9D%92%E6%B5%B7%E6%B5%B7%E4%B8%9C18%E4%BA%BA%E9%81%87%E9%9A%BE198%E4%BA%BA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=6&Refer=top)<br />
-7. [这些伪粗粮会让血糖飙升](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E4%BC%AA%E7%B2%97%E7%B2%AE%E4%BC%9A%E8%AE%A9%E8%A1%80%E7%B3%96%E9%A3%99%E5%8D%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [受灾群众如何度过零下14度寒冷冬夜](https://s.weibo.com/weibo?q=%23%E5%8F%97%E7%81%BE%E7%BE%A4%E4%BC%97%E5%A6%82%E4%BD%95%E5%BA%A6%E8%BF%87%E9%9B%B6%E4%B8%8B14%E5%BA%A6%E5%AF%92%E5%86%B7%E5%86%AC%E5%A4%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [地震已致127人遇难](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4127%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=9&Refer=top)<br />
+7. [小伙为省3000元出国旅游被卖3次](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E4%B8%BA%E7%9C%813000%E5%85%83%E5%87%BA%E5%9B%BD%E6%97%85%E6%B8%B8%E8%A2%AB%E5%8D%963%E6%AC%A1%23&t=31&band_rank=7&Refer=top)<br />
+8. [这些伪粗粮会让血糖飙升](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E4%BC%AA%E7%B2%97%E7%B2%AE%E4%BC%9A%E8%AE%A9%E8%A1%80%E7%B3%96%E9%A3%99%E5%8D%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [受灾群众如何度过零下14度寒冷冬夜](https://s.weibo.com/weibo?q=%23%E5%8F%97%E7%81%BE%E7%BE%A4%E4%BC%97%E5%A6%82%E4%BD%95%E5%BA%A6%E8%BF%87%E9%9B%B6%E4%B8%8B14%E5%BA%A6%E5%AF%92%E5%86%B7%E5%86%AC%E5%A4%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
