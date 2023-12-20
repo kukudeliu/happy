@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 15:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 15:05:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [GenG战队致歉](https://s.weibo.com/weibo?q=%23GenG%E6%88%98%E9%98%9F%E8%87%B4%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [瑞幸客服回应泰国瑞幸向中国瑞幸索赔](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E6%B3%B0%E5%9B%BD%E7%91%9E%E5%B9%B8%E5%90%91%E4%B8%AD%E5%9B%BD%E7%91%9E%E5%B9%B8%E7%B4%A2%E8%B5%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [恋爱脑 工作脑](https://s.weibo.com/weibo?q=%E6%81%8B%E7%88%B1%E8%84%91%20%E5%B7%A5%E4%BD%9C%E8%84%91&t=31&band_rank=8&Refer=top)<br />
-9. [2名技校男生互相怂恿强奸醉酒女生获刑](https://s.weibo.com/weibo?q=%232%E5%90%8D%E6%8A%80%E6%A0%A1%E7%94%B7%E7%94%9F%E4%BA%92%E7%9B%B8%E6%80%82%E6%81%BF%E5%BC%BA%E5%A5%B8%E9%86%89%E9%85%92%E5%A5%B3%E7%94%9F%E8%8E%B7%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [淄博警方回应三男子深夜持刀殴打俩女子](https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%89%E7%94%B7%E5%AD%90%E6%B7%B1%E5%A4%9C%E6%8C%81%E5%88%80%E6%AE%B4%E6%89%93%E4%BF%A9%E5%A5%B3%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
