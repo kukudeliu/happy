@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 13:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 13:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [地震已致131人遇难](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4131%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [甘肃地震 最糟糕时间最薄弱地方](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%20%E6%9C%80%E7%B3%9F%E7%B3%95%E6%97%B6%E9%97%B4%E6%9C%80%E8%96%84%E5%BC%B1%E5%9C%B0%E6%96%B9&t=31&band_rank=7&Refer=top)<br />
 8. [车厘子价格](https://s.weibo.com/weibo?q=%E8%BD%A6%E5%8E%98%E5%AD%90%E4%BB%B7%E6%A0%BC&t=31&band_rank=8&Refer=top)<br />
-9. [姐姐地震时癫痫发作弟弟留屋内守护](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%9C%B0%E9%9C%87%E6%97%B6%E7%99%AB%E7%97%AB%E5%8F%91%E4%BD%9C%E5%BC%9F%E5%BC%9F%E7%95%99%E5%B1%8B%E5%86%85%E5%AE%88%E6%8A%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [恋爱脑 工作脑](https://s.weibo.com/weibo?q=%E6%81%8B%E7%88%B1%E8%84%91%20%E5%B7%A5%E4%BD%9C%E8%84%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
