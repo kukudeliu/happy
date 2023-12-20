@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 12:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 12:45:02</h4></div>
 
 > 微博  
 
-1. [哈尔滨退票事件](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E9%80%80%E7%A5%A8%E4%BA%8B%E4%BB%B6&t=31&band_rank=1&Refer=top)<br />
-2. [甘肃震区煮不完的饺子和不灭的车灯](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%9C%87%E5%8C%BA%E7%85%AE%E4%B8%8D%E5%AE%8C%E7%9A%84%E9%A5%BA%E5%AD%90%E5%92%8C%E4%B8%8D%E7%81%AD%E7%9A%84%E8%BD%A6%E7%81%AF%23&t=31&band_rank=2&Refer=top)<br />
+1. [甘肃震区煮不完的饺子和不灭的车灯](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%9C%87%E5%8C%BA%E7%85%AE%E4%B8%8D%E5%AE%8C%E7%9A%84%E9%A5%BA%E5%AD%90%E5%92%8C%E4%B8%8D%E7%81%AD%E7%9A%84%E8%BD%A6%E7%81%AF%23&t=31&band_rank=1&Refer=top)<br />
+2. [哈尔滨退票事件](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E9%80%80%E7%A5%A8%E4%BA%8B%E4%BB%B6&t=31&band_rank=2&Refer=top)<br />
 3. [甘肃加油青海加油](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%8A%A0%E6%B2%B9%E9%9D%92%E6%B5%B7%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=3&Refer=top)<br />
-4. [唐山一殡仪馆分高低档炉火化引质疑](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E4%B8%80%E6%AE%A1%E4%BB%AA%E9%A6%86%E5%88%86%E9%AB%98%E4%BD%8E%E6%A1%A3%E7%82%89%E7%81%AB%E5%8C%96%E5%BC%95%E8%B4%A8%E7%96%91%23&t=31&band_rank=4&Refer=top)<br />
-5. [2名技校男生互相怂恿强奸醉酒女生获刑](https://s.weibo.com/weibo?q=%232%E5%90%8D%E6%8A%80%E6%A0%A1%E7%94%B7%E7%94%9F%E4%BA%92%E7%9B%B8%E6%80%82%E6%81%BF%E5%BC%BA%E5%A5%B8%E9%86%89%E9%85%92%E5%A5%B3%E7%94%9F%E8%8E%B7%E5%88%91%23&t=31&band_rank=5&Refer=top)<br />
+4. [2名技校男生互相怂恿强奸醉酒女生获刑](https://s.weibo.com/weibo?q=%232%E5%90%8D%E6%8A%80%E6%A0%A1%E7%94%B7%E7%94%9F%E4%BA%92%E7%9B%B8%E6%80%82%E6%81%BF%E5%BC%BA%E5%A5%B8%E9%86%89%E9%85%92%E5%A5%B3%E7%94%9F%E8%8E%B7%E5%88%91%23&t=31&band_rank=4&Refer=top)<br />
+5. [唐山一殡仪馆分高低档炉火化引质疑](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E4%B8%80%E6%AE%A1%E4%BB%AA%E9%A6%86%E5%88%86%E9%AB%98%E4%BD%8E%E6%A1%A3%E7%82%89%E7%81%AB%E5%8C%96%E5%BC%95%E8%B4%A8%E7%96%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [甘肃地震 最糟糕时间最薄弱地方](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%20%E6%9C%80%E7%B3%9F%E7%B3%95%E6%97%B6%E9%97%B4%E6%9C%80%E8%96%84%E5%BC%B1%E5%9C%B0%E6%96%B9&t=31&band_rank=6&Refer=top)<br />
 7. [衣服上的火锅味为什么散不掉](https://s.weibo.com/weibo?q=%23%E8%A1%A3%E6%9C%8D%E4%B8%8A%E7%9A%84%E7%81%AB%E9%94%85%E5%91%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E6%95%A3%E4%B8%8D%E6%8E%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [车厘子价格](https://s.weibo.com/weibo?q=%E8%BD%A6%E5%8E%98%E5%AD%90%E4%BB%B7%E6%A0%BC&t=31&band_rank=8&Refer=top)<br />
