@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 13:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 13:32:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [2名技校男生互相怂恿强奸醉酒女生获刑](https://s.weibo.com/weibo?q=%232%E5%90%8D%E6%8A%80%E6%A0%A1%E7%94%B7%E7%94%9F%E4%BA%92%E7%9B%B8%E6%80%82%E6%81%BF%E5%BC%BA%E5%A5%B8%E9%86%89%E9%85%92%E5%A5%B3%E7%94%9F%E8%8E%B7%E5%88%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [恋爱脑 工作脑](https://s.weibo.com/weibo?q=%E6%81%8B%E7%88%B1%E8%84%91%20%E5%B7%A5%E4%BD%9C%E8%84%91&t=31&band_rank=6&Refer=top)<br />
 7. [甘肃地震 最糟糕时间最薄弱地方](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%20%E6%9C%80%E7%B3%9F%E7%B3%95%E6%97%B6%E9%97%B4%E6%9C%80%E8%96%84%E5%BC%B1%E5%9C%B0%E6%96%B9&t=31&band_rank=7&Refer=top)<br />
-8. [泰国瑞幸向中国瑞幸索赔100亿泰铢](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%91%9E%E5%B9%B8%E5%90%91%E4%B8%AD%E5%9B%BD%E7%91%9E%E5%B9%B8%E7%B4%A2%E8%B5%94100%E4%BA%BF%E6%B3%B0%E9%93%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [地震已致131人遇难](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4131%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=9&Refer=top)<br />
+8. [地震已致131人遇难](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4131%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [泰国瑞幸向中国瑞幸索赔100亿泰铢](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%91%9E%E5%B9%B8%E5%90%91%E4%B8%AD%E5%9B%BD%E7%91%9E%E5%B9%B8%E7%B4%A2%E8%B5%94100%E4%BA%BF%E6%B3%B0%E9%93%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
