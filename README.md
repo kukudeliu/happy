@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 17:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 17:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [医生建议3种洗洁精最好别用](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE3%E7%A7%8D%E6%B4%97%E6%B4%81%E7%B2%BE%E6%9C%80%E5%A5%BD%E5%88%AB%E7%94%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [冰雪大世界取消预约制](https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E5%8F%96%E6%B6%88%E9%A2%84%E7%BA%A6%E5%88%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [小杨哥称曾拒绝2800万玩三场游戏](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E7%A7%B0%E6%9B%BE%E6%8B%92%E7%BB%9D2800%E4%B8%87%E7%8E%A9%E4%B8%89%E5%9C%BA%E6%B8%B8%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [甘肃震区煮不完的饺子和不灭的车灯](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%9C%87%E5%8C%BA%E7%85%AE%E4%B8%8D%E5%AE%8C%E7%9A%84%E9%A5%BA%E5%AD%90%E5%92%8C%E4%B8%8D%E7%81%AD%E7%9A%84%E8%BD%A6%E7%81%AF%23&t=31&band_rank=9&Refer=top)<br />
+9. [胡锡进浮亏首次突破5万元](https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E6%B5%AE%E4%BA%8F%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B45%E4%B8%87%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
