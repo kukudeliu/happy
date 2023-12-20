@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 10:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 10:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [WPS正式关闭第三方商业广告](https://s.weibo.com/weibo?q=%23WPS%E6%AD%A3%E5%BC%8F%E5%85%B3%E9%97%AD%E7%AC%AC%E4%B8%89%E6%96%B9%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [消防员已营救甘肃地震被困人员78人](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E5%B7%B2%E8%90%A5%E6%95%91%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E8%A2%AB%E5%9B%B0%E4%BA%BA%E5%91%9878%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [小伙为省3000元出国旅游被卖3次](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E4%B8%BA%E7%9C%813000%E5%85%83%E5%87%BA%E5%9B%BD%E6%97%85%E6%B8%B8%E8%A2%AB%E5%8D%963%E6%AC%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [东芝正式退市](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%8A%9D%E6%AD%A3%E5%BC%8F%E9%80%80%E5%B8%82%23&t=31&band_rank=9&Refer=top)<br />
+9. [姐姐地震时癫痫发作弟弟留屋内守护](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%9C%B0%E9%9C%87%E6%97%B6%E7%99%AB%E7%97%AB%E5%8F%91%E4%BD%9C%E5%BC%9F%E5%BC%9F%E7%95%99%E5%B1%8B%E5%86%85%E5%AE%88%E6%8A%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
