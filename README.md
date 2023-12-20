@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 11:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 11:28:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [甘肃加油青海加油](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%8A%A0%E6%B2%B9%E9%9D%92%E6%B5%B7%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [甘肃地震 最糟糕时间最薄弱地方](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%20%E6%9C%80%E7%B3%9F%E7%B3%95%E6%97%B6%E9%97%B4%E6%9C%80%E8%96%84%E5%BC%B1%E5%9C%B0%E6%96%B9&t=31&band_rank=4&Refer=top)<br />
 5. [泰国瑞幸向中国瑞幸索赔100亿泰铢](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%91%9E%E5%B9%B8%E5%90%91%E4%B8%AD%E5%9B%BD%E7%91%9E%E5%B9%B8%E7%B4%A2%E8%B5%94100%E4%BA%BF%E6%B3%B0%E9%93%A2%23&t=31&band_rank=5&Refer=top)<br />
-6. [警方通报19岁男子砍伤3名女子](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A519%E5%B2%81%E7%94%B7%E5%AD%90%E7%A0%8D%E4%BC%A43%E5%90%8D%E5%A5%B3%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
-7. [莫兰特绝杀](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E5%85%B0%E7%89%B9%E7%BB%9D%E6%9D%80%23&t=31&band_rank=7&Refer=top)<br />
+6. [莫兰特绝杀](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E5%85%B0%E7%89%B9%E7%BB%9D%E6%9D%80%23&t=31&band_rank=6&Refer=top)<br />
+7. [警方通报19岁男子砍伤3名女子](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A519%E5%B2%81%E7%94%B7%E5%AD%90%E7%A0%8D%E4%BC%A43%E5%90%8D%E5%A5%B3%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [衣服上的火锅味为什么散不掉](https://s.weibo.com/weibo?q=%23%E8%A1%A3%E6%9C%8D%E4%B8%8A%E7%9A%84%E7%81%AB%E9%94%85%E5%91%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E6%95%A3%E4%B8%8D%E6%8E%89%23&t=31&band_rank=8&Refer=top)<br />
 9. [越是聪明的人越不明白](https://s.weibo.com/weibo?q=%E8%B6%8A%E6%98%AF%E8%81%AA%E6%98%8E%E7%9A%84%E4%BA%BA%E8%B6%8A%E4%B8%8D%E6%98%8E%E7%99%BD&t=31&band_rank=9&Refer=top)<br />
 
