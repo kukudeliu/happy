@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 20:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 20:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [TheShy改名](https://s.weibo.com/weibo?q=%23TheShy%E6%94%B9%E5%90%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [女孩一年举报几十个猫贩子窝点](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%80%E5%B9%B4%E4%B8%BE%E6%8A%A5%E5%87%A0%E5%8D%81%E4%B8%AA%E7%8C%AB%E8%B4%A9%E5%AD%90%E7%AA%9D%E7%82%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦锡纸烫](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%94%A1%E7%BA%B8%E7%83%AB&t=31&band_rank=7&Refer=top)<br />
-8. [航拍零下14℃的灾后安置点](https://s.weibo.com/weibo?q=%23%E8%88%AA%E6%8B%8D%E9%9B%B6%E4%B8%8B14%E2%84%83%E7%9A%84%E7%81%BE%E5%90%8E%E5%AE%89%E7%BD%AE%E7%82%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [小伙收到一条信息4个月狂减30斤](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E6%94%B6%E5%88%B0%E4%B8%80%E6%9D%A1%E4%BF%A1%E6%81%AF4%E4%B8%AA%E6%9C%88%E7%8B%82%E5%87%8F30%E6%96%A4%23&t=31&band_rank=9&Refer=top)<br />
+8. [小伙收到一条信息4个月狂减30斤](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E6%94%B6%E5%88%B0%E4%B8%80%E6%9D%A1%E4%BF%A1%E6%81%AF4%E4%B8%AA%E6%9C%88%E7%8B%82%E5%87%8F30%E6%96%A4%23&t=31&band_rank=8&Refer=top)<br />
+9. [甘肃地震已转移安置87076人](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%BD%AC%E7%A7%BB%E5%AE%89%E7%BD%AE87076%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
