@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 18:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 18:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [冰雪大世界取消预约制](https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E5%8F%96%E6%B6%88%E9%A2%84%E7%BA%A6%E5%88%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [被安置点的这一幕暖到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AE%89%E7%BD%AE%E7%82%B9%E7%9A%84%E8%BF%99%E4%B8%80%E5%B9%95%E6%9A%96%E5%88%B0%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [哈尔滨大雪人已就位](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E5%A4%A7%E9%9B%AA%E4%BA%BA%E5%B7%B2%E5%B0%B1%E4%BD%8D&t=31&band_rank=8&Refer=top)<br />
-9. [胡锡进浮亏首次突破5万元](https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E6%B5%AE%E4%BA%8F%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B45%E4%B8%87%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [医生建议3种洗洁精最好别用](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE3%E7%A7%8D%E6%B4%97%E6%B4%81%E7%B2%BE%E6%9C%80%E5%A5%BD%E5%88%AB%E7%94%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
