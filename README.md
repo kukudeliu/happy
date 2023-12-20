@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 18:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 18:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [医生建议3种洗洁精最好别用](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE3%E7%A7%8D%E6%B4%97%E6%B4%81%E7%B2%BE%E6%9C%80%E5%A5%BD%E5%88%AB%E7%94%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [哈尔滨大雪人已就位](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E5%A4%A7%E9%9B%AA%E4%BA%BA%E5%B7%B2%E5%B0%B1%E4%BD%8D&t=31&band_rank=7&Refer=top)<br />
 8. [青海震区仍有16人失联](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E9%9C%87%E5%8C%BA%E4%BB%8D%E6%9C%8916%E4%BA%BA%E5%A4%B1%E8%81%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [小杨哥回应每月发5000万工资](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E6%AF%8F%E6%9C%88%E5%8F%915000%E4%B8%87%E5%B7%A5%E8%B5%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [甘肃震区煮不完的饺子和不灭的车灯](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%9C%87%E5%8C%BA%E7%85%AE%E4%B8%8D%E5%AE%8C%E7%9A%84%E9%A5%BA%E5%AD%90%E5%92%8C%E4%B8%8D%E7%81%AD%E7%9A%84%E8%BD%A6%E7%81%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
