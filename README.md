@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 08:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 08:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [这些伪粗粮会让血糖飙升](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E4%BC%AA%E7%B2%97%E7%B2%AE%E4%BC%9A%E8%AE%A9%E8%A1%80%E7%B3%96%E9%A3%99%E5%8D%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [地震已致127人遇难](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4127%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [小米汽车三名员工未经许可参与研讨会被辞退](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%B8%89%E5%90%8D%E5%91%98%E5%B7%A5%E6%9C%AA%E7%BB%8F%E8%AE%B8%E5%8F%AF%E5%8F%82%E4%B8%8E%E7%A0%94%E8%AE%A8%E4%BC%9A%E8%A2%AB%E8%BE%9E%E9%80%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [甘肃震区群众用上了解放军的野战帐篷](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%9C%87%E5%8C%BA%E7%BE%A4%E4%BC%97%E7%94%A8%E4%B8%8A%E4%BA%86%E8%A7%A3%E6%94%BE%E5%86%9B%E7%9A%84%E9%87%8E%E6%88%98%E5%B8%90%E7%AF%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [受灾群众如何度过零下14度寒冷冬夜](https://s.weibo.com/weibo?q=%23%E5%8F%97%E7%81%BE%E7%BE%A4%E4%BC%97%E5%A6%82%E4%BD%95%E5%BA%A6%E8%BF%87%E9%9B%B6%E4%B8%8B14%E5%BA%A6%E5%AF%92%E5%86%B7%E5%86%AC%E5%A4%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
