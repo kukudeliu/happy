@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 19:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 19:45:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [他们的背是最坚实的依靠](https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E7%9A%84%E8%83%8C%E6%98%AF%E6%9C%80%E5%9D%9A%E5%AE%9E%E7%9A%84%E4%BE%9D%E9%9D%A0%23&t=31&band_rank=3&Refer=top)<br />
 4. [王楚钦锡纸烫](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%94%A1%E7%BA%B8%E7%83%AB&t=31&band_rank=4&Refer=top)<br />
 5. [被安置点的这一幕暖到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AE%89%E7%BD%AE%E7%82%B9%E7%9A%84%E8%BF%99%E4%B8%80%E5%B9%95%E6%9A%96%E5%88%B0%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [甘肃地震已转移安置87076人](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%BD%AC%E7%A7%BB%E5%AE%89%E7%BD%AE87076%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [胡锡进称不卖就割不了我韭菜](https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E7%A7%B0%E4%B8%8D%E5%8D%96%E5%B0%B1%E5%89%B2%E4%B8%8D%E4%BA%86%E6%88%91%E9%9F%AD%E8%8F%9C%23&t=31&band_rank=7&Refer=top)<br />
+6. [胡锡进称不卖就割不了我韭菜](https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E7%A7%B0%E4%B8%8D%E5%8D%96%E5%B0%B1%E5%89%B2%E4%B8%8D%E4%BA%86%E6%88%91%E9%9F%AD%E8%8F%9C%23&t=31&band_rank=6&Refer=top)<br />
+7. [甘肃地震已转移安置87076人](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%BD%AC%E7%A7%BB%E5%AE%89%E7%BD%AE87076%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [考研 极限考试周](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%20%E6%9E%81%E9%99%90%E8%80%83%E8%AF%95%E5%91%A8&t=31&band_rank=8&Refer=top)<br />
 9. [女孩一年举报几十个猫贩子窝点](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%80%E5%B9%B4%E4%B8%BE%E6%8A%A5%E5%87%A0%E5%8D%81%E4%B8%AA%E7%8C%AB%E8%B4%A9%E5%AD%90%E7%AA%9D%E7%82%B9%23&t=31&band_rank=9&Refer=top)<br />
 
