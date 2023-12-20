@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 19:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 19:57:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [争分夺秒 全力搜救](https://www.baidu.com/s?wd=%E4%BA%89%E5%88%86%E5%A4%BA%E7%A7%92+%E5%85%A8%E5%8A%9B%E6%90%9C%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [地震后父亲打给远嫁女儿差点哭了](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%90%8E%E7%88%B6%E4%BA%B2%E6%89%93%E7%BB%99%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%84%BF%E5%B7%AE%E7%82%B9%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [地震已致青海海东市21人遇难](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4%E9%9D%92%E6%B5%B7%E6%B5%B7%E4%B8%9C%E5%B8%8221%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [阿里换人 传统电商真急了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E6%8D%A2%E4%BA%BA+%E4%BC%A0%E7%BB%9F%E7%94%B5%E5%95%86%E7%9C%9F%E6%80%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [加快做强做优做大数字经济](https://www.baidu.com/s?wd=%E5%8A%A0%E5%BF%AB%E5%81%9A%E5%BC%BA%E5%81%9A%E4%BC%98%E5%81%9A%E5%A4%A7%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [人民网：面对游客不满冰城打了个样](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%EF%BC%9A%E9%9D%A2%E5%AF%B9%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%BB%A1%E5%86%B0%E5%9F%8E%E6%89%93%E4%BA%86%E4%B8%AA%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [争分夺秒 全力搜救](https://www.baidu.com/s?wd=%E4%BA%89%E5%88%86%E5%A4%BA%E7%A7%92+%E5%85%A8%E5%8A%9B%E6%90%9C%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [地震后父亲打给远嫁女儿差点哭了](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%90%8E%E7%88%B6%E4%BA%B2%E6%89%93%E7%BB%99%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%84%BF%E5%B7%AE%E7%82%B9%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [地震已致青海海东市21人遇难](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4%E9%9D%92%E6%B5%B7%E6%B5%B7%E4%B8%9C%E5%B8%8221%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [阿里换人 传统电商真急了](https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E6%8D%A2%E4%BA%BA+%E4%BC%A0%E7%BB%9F%E7%94%B5%E5%95%86%E7%9C%9F%E6%80%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [加快做强做优做大数字经济](https://www.baidu.com/s?wd=%E5%8A%A0%E5%BF%AB%E5%81%9A%E5%BC%BA%E5%81%9A%E4%BC%98%E5%81%9A%E5%A4%A7%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [人民网：面对游客不满冰城打了个样](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%EF%BC%9A%E9%9D%A2%E5%AF%B9%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%BB%A1%E5%86%B0%E5%9F%8E%E6%89%93%E4%BA%86%E4%B8%AA%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
