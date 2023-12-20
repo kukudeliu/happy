@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 23:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 23:52:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [考公吧少年 团综](https://s.weibo.com/weibo?q=%E8%80%83%E5%85%AC%E5%90%A7%E5%B0%91%E5%B9%B4%20%E5%9B%A2%E7%BB%BC&t=31&band_rank=5&Refer=top)<br />
 6. [官方回应网传爱尔眼科医生捶击患者](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E5%8C%BB%E7%94%9F%E6%8D%B6%E5%87%BB%E6%82%A3%E8%80%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [警方通报2男子烧烤店殴打女店员](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A52%E7%94%B7%E5%AD%90%E7%83%A7%E7%83%A4%E5%BA%97%E6%AE%B4%E6%89%93%E5%A5%B3%E5%BA%97%E5%91%98%23&t=31&band_rank=7&Refer=top)<br />
-8. [王楚钦锡纸烫](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%94%A1%E7%BA%B8%E7%83%AB&t=31&band_rank=8&Refer=top)<br />
-9. [苹果手机估价近3000回收却给500](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E4%BC%B0%E4%BB%B7%E8%BF%913000%E5%9B%9E%E6%94%B6%E5%8D%B4%E7%BB%99500%23&t=31&band_rank=9&Refer=top)<br />
+8. [苹果手机估价近3000回收却给500](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E4%BC%B0%E4%BB%B7%E8%BF%913000%E5%9B%9E%E6%94%B6%E5%8D%B4%E7%BB%99500%23&t=31&band_rank=8&Refer=top)<br />
+9. [王楚钦锡纸烫](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%94%A1%E7%BA%B8%E7%83%AB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
