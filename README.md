@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 03:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 03:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [ofo创始人戴威恐面临二次创业失败](https://s.weibo.com/weibo?q=%23ofo%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%88%B4%E5%A8%81%E6%81%90%E9%9D%A2%E4%B8%B4%E4%BA%8C%E6%AC%A1%E5%88%9B%E4%B8%9A%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [甘肃积石山地震致134人遇难](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%9C%B0%E9%9C%87%E8%87%B4134%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [Bin 恋爱](https://s.weibo.com/weibo?q=Bin%20%E6%81%8B%E7%88%B1&t=31&band_rank=8&Refer=top)<br />
-9. [考公吧少年 团综](https://s.weibo.com/weibo?q=%E8%80%83%E5%85%AC%E5%90%A7%E5%B0%91%E5%B9%B4%20%E5%9B%A2%E7%BB%BC&t=31&band_rank=9&Refer=top)<br />
+9. [搜救犬腿受伤血流不止仍坚持搜救](https://s.weibo.com/weibo?q=%23%E6%90%9C%E6%95%91%E7%8A%AC%E8%85%BF%E5%8F%97%E4%BC%A4%E8%A1%80%E6%B5%81%E4%B8%8D%E6%AD%A2%E4%BB%8D%E5%9D%9A%E6%8C%81%E6%90%9C%E6%95%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
