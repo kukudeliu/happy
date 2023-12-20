@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 02:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 02:50:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [宁波渔民捕获4.2斤海中土豪金能卖二三万](https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E6%B8%94%E6%B0%91%E6%8D%95%E8%8E%B74.2%E6%96%A4%E6%B5%B7%E4%B8%AD%E5%9C%9F%E8%B1%AA%E9%87%91%E8%83%BD%E5%8D%96%E4%BA%8C%E4%B8%89%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [Bin 恋爱](https://s.weibo.com/weibo?q=Bin%20%E6%81%8B%E7%88%B1&t=31&band_rank=5&Refer=top)<br />
 6. [考公吧少年 团综](https://s.weibo.com/weibo?q=%E8%80%83%E5%85%AC%E5%90%A7%E5%B0%91%E5%B9%B4%20%E5%9B%A2%E7%BB%BC&t=31&band_rank=6&Refer=top)<br />
-7. [女子起诉父母不肯出钱给自己出国留学](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B5%B7%E8%AF%89%E7%88%B6%E6%AF%8D%E4%B8%8D%E8%82%AF%E5%87%BA%E9%92%B1%E7%BB%99%E8%87%AA%E5%B7%B1%E5%87%BA%E5%9B%BD%E7%95%99%E5%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [TheShy改名](https://s.weibo.com/weibo?q=%23TheShy%E6%94%B9%E5%90%8D%23&t=31&band_rank=8&Refer=top)<br />
+7. [TheShy改名](https://s.weibo.com/weibo?q=%23TheShy%E6%94%B9%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
+8. [女子起诉父母不肯出钱给自己出国留学](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B5%B7%E8%AF%89%E7%88%B6%E6%AF%8D%E4%B8%8D%E8%82%AF%E5%87%BA%E9%92%B1%E7%BB%99%E8%87%AA%E5%B7%B1%E5%87%BA%E5%9B%BD%E7%95%99%E5%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
 9. [甘肃积石山地震致134人遇难](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%9C%B0%E9%9C%87%E8%87%B4134%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
