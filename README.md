@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 09:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 09:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小伙为省3000元出国旅游被卖3次](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E4%B8%BA%E7%9C%813000%E5%85%83%E5%87%BA%E5%9B%BD%E6%97%85%E6%B8%B8%E8%A2%AB%E5%8D%963%E6%AC%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [姐姐地震时癫痫发作弟弟留屋内守护](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%9C%B0%E9%9C%87%E6%97%B6%E7%99%AB%E7%97%AB%E5%8F%91%E4%BD%9C%E5%BC%9F%E5%BC%9F%E7%95%99%E5%B1%8B%E5%86%85%E5%AE%88%E6%8A%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [地震已致青海海东18人遇难198人受伤](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4%E9%9D%92%E6%B5%B7%E6%B5%B7%E4%B8%9C18%E4%BA%BA%E9%81%87%E9%9A%BE198%E4%BA%BA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [这些伪粗粮会让血糖飙升](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E4%BC%AA%E7%B2%97%E7%B2%AE%E4%BC%9A%E8%AE%A9%E8%A1%80%E7%B3%96%E9%A3%99%E5%8D%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [消防员已营救甘肃地震被困人员78人](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E5%B7%B2%E8%90%A5%E6%95%91%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E8%A2%AB%E5%9B%B0%E4%BA%BA%E5%91%9878%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
