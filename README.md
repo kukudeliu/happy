@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 13:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 13:59:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [抢救生命 全力救援](https://www.baidu.com/s?wd=%E6%8A%A2%E6%95%91%E7%94%9F%E5%91%BD+%E5%85%A8%E5%8A%9B%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [甘肃地震已致131人遇难](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4131%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [甘肃地震救援工作已基本结束](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E5%B7%A5%E4%BD%9C%E5%B7%B2%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9D%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [地震后村庄遭砂涌：泥浆浪头高3米](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%90%8E%E6%9D%91%E5%BA%84%E9%81%AD%E7%A0%82%E6%B6%8C%EF%BC%9A%E6%B3%A5%E6%B5%86%E6%B5%AA%E5%A4%B4%E9%AB%983%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多部门全力支持抗震救灾工作](https://www.baidu.com/s?wd=%E5%A4%9A%E9%83%A8%E9%97%A8%E5%85%A8%E5%8A%9B%E6%94%AF%E6%8C%81%E6%8A%97%E9%9C%87%E6%95%91%E7%81%BE%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [暖冬为什么这么冷 国家气候中心分析](https://www.baidu.com/s?wd=%E6%9A%96%E5%86%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E5%86%B7+%E5%9B%BD%E5%AE%B6%E6%B0%94%E5%80%99%E4%B8%AD%E5%BF%83%E5%88%86%E6%9E%90&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [抢救生命 全力救援](https://www.baidu.com/s?wd=%E6%8A%A2%E6%95%91%E7%94%9F%E5%91%BD+%E5%85%A8%E5%8A%9B%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [甘肃地震已致131人遇难](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4131%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [甘肃地震救援工作已基本结束](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E5%B7%A5%E4%BD%9C%E5%B7%B2%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9D%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [地震后村庄遭砂涌：泥浆浪头高3米](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%90%8E%E6%9D%91%E5%BA%84%E9%81%AD%E7%A0%82%E6%B6%8C%EF%BC%9A%E6%B3%A5%E6%B5%86%E6%B5%AA%E5%A4%B4%E9%AB%983%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多部门全力支持抗震救灾工作](https://www.baidu.com/s?wd=%E5%A4%9A%E9%83%A8%E9%97%A8%E5%85%A8%E5%8A%9B%E6%94%AF%E6%8C%81%E6%8A%97%E9%9C%87%E6%95%91%E7%81%BE%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [暖冬为什么这么冷 国家气候中心分析](https://www.baidu.com/s?wd=%E6%9A%96%E5%86%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E5%86%B7+%E5%9B%BD%E5%AE%B6%E6%B0%94%E5%80%99%E4%B8%AD%E5%BF%83%E5%88%86%E6%9E%90&sa=fyb_news&rsv_dl=fyb_news)<br />
