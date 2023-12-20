@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 10:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 10:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [姐姐地震时癫痫发作弟弟留屋内守护](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%9C%B0%E9%9C%87%E6%97%B6%E7%99%AB%E7%97%AB%E5%8F%91%E4%BD%9C%E5%BC%9F%E5%BC%9F%E7%95%99%E5%B1%8B%E5%86%85%E5%AE%88%E6%8A%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [消防员已营救甘肃地震被困人员78人](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E5%B7%B2%E8%90%A5%E6%95%91%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E8%A2%AB%E5%9B%B0%E4%BA%BA%E5%91%9878%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [警方通报19岁男子砍伤3名女子](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A519%E5%B2%81%E7%94%B7%E5%AD%90%E7%A0%8D%E4%BC%A43%E5%90%8D%E5%A5%B3%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [地震已致青海海东18人遇难198人受伤](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4%E9%9D%92%E6%B5%B7%E6%B5%B7%E4%B8%9C18%E4%BA%BA%E9%81%87%E9%9A%BE198%E4%BA%BA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [东北高中男生从没穿过羽绒服](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%AB%98%E4%B8%AD%E7%94%B7%E7%94%9F%E4%BB%8E%E6%B2%A1%E7%A9%BF%E8%BF%87%E7%BE%BD%E7%BB%92%E6%9C%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
