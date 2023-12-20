@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 07:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 07:58:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [爱尔眼科](https://s.weibo.com/weibo?q=%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91&t=31&band_rank=6&Refer=top)<br />
 7. [杭州中小学2月3日起放寒假](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%AD%E5%B0%8F%E5%AD%A62%E6%9C%883%E6%97%A5%E8%B5%B7%E6%94%BE%E5%AF%92%E5%81%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子起诉父母不肯出钱给自己出国留学](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B5%B7%E8%AF%89%E7%88%B6%E6%AF%8D%E4%B8%8D%E8%82%AF%E5%87%BA%E9%92%B1%E7%BB%99%E8%87%AA%E5%B7%B1%E5%87%BA%E5%9B%BD%E7%95%99%E5%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [警方通报2男子烧烤店殴打女店员](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A52%E7%94%B7%E5%AD%90%E7%83%A7%E7%83%A4%E5%BA%97%E6%AE%B4%E6%89%93%E5%A5%B3%E5%BA%97%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [店主察觉外卖备注像遗言救下一命](https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E5%AF%9F%E8%A7%89%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E5%83%8F%E9%81%97%E8%A8%80%E6%95%91%E4%B8%8B%E4%B8%80%E5%91%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
