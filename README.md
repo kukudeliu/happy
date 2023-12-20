@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 17:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 17:57:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [iOS17被曝闹钟不响问题](https://s.weibo.com/weibo?q=%23iOS17%E8%A2%AB%E6%9B%9D%E9%97%B9%E9%92%9F%E4%B8%8D%E5%93%8D%E9%97%AE%E9%A2%98%23&t=31&band_rank=4&Refer=top)<br />
 5. [医生建议3种洗洁精最好别用](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE3%E7%A7%8D%E6%B4%97%E6%B4%81%E7%B2%BE%E6%9C%80%E5%A5%BD%E5%88%AB%E7%94%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [小杨哥回应每月发5000万工资](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E6%AF%8F%E6%9C%88%E5%8F%915000%E4%B8%87%E5%B7%A5%E8%B5%84%23&t=31&band_rank=6&Refer=top)<br />
-7. [青海震区仍有16人失联](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E9%9C%87%E5%8C%BA%E4%BB%8D%E6%9C%8916%E4%BA%BA%E5%A4%B1%E8%81%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [胡锡进浮亏首次突破5万元](https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E6%B5%AE%E4%BA%8F%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B45%E4%B8%87%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+7. [志愿者为受灾群众现场做拉面](https://s.weibo.com/weibo?q=%23%E5%BF%97%E6%84%BF%E8%80%85%E4%B8%BA%E5%8F%97%E7%81%BE%E7%BE%A4%E4%BC%97%E7%8E%B0%E5%9C%BA%E5%81%9A%E6%8B%89%E9%9D%A2%23&t=31&band_rank=7&Refer=top)<br />
+8. [消防员为震区受伤男童包扎伤口](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%BA%E9%9C%87%E5%8C%BA%E5%8F%97%E4%BC%A4%E7%94%B7%E7%AB%A5%E5%8C%85%E6%89%8E%E4%BC%A4%E5%8F%A3%23&t=31&band_rank=8&Refer=top)<br />
 9. [小杨哥称曾拒绝2800万玩三场游戏](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E7%A7%B0%E6%9B%BE%E6%8B%92%E7%BB%9D2800%E4%B8%87%E7%8E%A9%E4%B8%89%E5%9C%BA%E6%B8%B8%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
