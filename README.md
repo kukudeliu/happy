@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 00:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 00:37:01</h4></div>
 
 > 微博  
 
-1. [冻到皮肤发红就要警惕了](https://s.weibo.com/weibo?q=%23%E5%86%BB%E5%88%B0%E7%9A%AE%E8%82%A4%E5%8F%91%E7%BA%A2%E5%B0%B1%E8%A6%81%E8%AD%A6%E6%83%95%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [ofo创始人戴威恐面临二次创业失败](https://s.weibo.com/weibo?q=%23ofo%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%88%B4%E5%A8%81%E6%81%90%E9%9D%A2%E4%B8%B4%E4%BA%8C%E6%AC%A1%E5%88%9B%E4%B8%9A%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=2&Refer=top)<br />
+1. [ofo创始人戴威恐面临二次创业失败](https://s.weibo.com/weibo?q=%23ofo%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%88%B4%E5%A8%81%E6%81%90%E9%9D%A2%E4%B8%B4%E4%BA%8C%E6%AC%A1%E5%88%9B%E4%B8%9A%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=1&Refer=top)<br />
+2. [冻到皮肤发红就要警惕了](https://s.weibo.com/weibo?q=%23%E5%86%BB%E5%88%B0%E7%9A%AE%E8%82%A4%E5%8F%91%E7%BA%A2%E5%B0%B1%E8%A6%81%E8%AD%A6%E6%83%95%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [青海为震区考研学生开通求助热线](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E4%B8%BA%E9%9C%87%E5%8C%BA%E8%80%83%E7%A0%94%E5%AD%A6%E7%94%9F%E5%BC%80%E9%80%9A%E6%B1%82%E5%8A%A9%E7%83%AD%E7%BA%BF%23&t=31&band_rank=3&Refer=top)<br />
 4. [警方通报2男子烧烤店殴打女店员](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A52%E7%94%B7%E5%AD%90%E7%83%A7%E7%83%A4%E5%BA%97%E6%AE%B4%E6%89%93%E5%A5%B3%E5%BA%97%E5%91%98%23&t=31&band_rank=4&Refer=top)<br />
 5. [考公吧少年 团综](https://s.weibo.com/weibo?q=%E8%80%83%E5%85%AC%E5%90%A7%E5%B0%91%E5%B9%B4%20%E5%9B%A2%E7%BB%BC&t=31&band_rank=5&Refer=top)<br />
