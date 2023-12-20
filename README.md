@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 14:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 14:53:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [许佳玲遇害前一天刚与男友拍完婚纱照](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E4%BD%B3%E7%8E%B2%E9%81%87%E5%AE%B3%E5%89%8D%E4%B8%80%E5%A4%A9%E5%88%9A%E4%B8%8E%E7%94%B7%E5%8F%8B%E6%8B%8D%E5%AE%8C%E5%A9%9A%E7%BA%B1%E7%85%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [恋爱脑 工作脑](https://s.weibo.com/weibo?q=%E6%81%8B%E7%88%B1%E8%84%91%20%E5%B7%A5%E4%BD%9C%E8%84%91&t=31&band_rank=6&Refer=top)<br />
 7. [GenG战队致歉](https://s.weibo.com/weibo?q=%23GenG%E6%88%98%E9%98%9F%E8%87%B4%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=8&Refer=top)<br />
-9. [2名技校男生互相怂恿强奸醉酒女生获刑](https://s.weibo.com/weibo?q=%232%E5%90%8D%E6%8A%80%E6%A0%A1%E7%94%B7%E7%94%9F%E4%BA%92%E7%9B%B8%E6%80%82%E6%81%BF%E5%BC%BA%E5%A5%B8%E9%86%89%E9%85%92%E5%A5%B3%E7%94%9F%E8%8E%B7%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
+8. [2名技校男生互相怂恿强奸醉酒女生获刑](https://s.weibo.com/weibo?q=%232%E5%90%8D%E6%8A%80%E6%A0%A1%E7%94%B7%E7%94%9F%E4%BA%92%E7%9B%B8%E6%80%82%E6%81%BF%E5%BC%BA%E5%A5%B8%E9%86%89%E9%85%92%E5%A5%B3%E7%94%9F%E8%8E%B7%E5%88%91%23&t=31&band_rank=8&Refer=top)<br />
+9. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
