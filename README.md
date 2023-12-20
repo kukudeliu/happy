@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 09:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 09:50:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [两部门向灾区预拨2亿元救灾资金](https://www.baidu.com/s?wd=%E4%B8%A4%E9%83%A8%E9%97%A8%E5%90%91%E7%81%BE%E5%8C%BA%E9%A2%84%E6%8B%A82%E4%BA%BF%E5%85%83%E6%95%91%E7%81%BE%E8%B5%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [特朗普被裁定不具备总统参选资格](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E8%A3%81%E5%AE%9A%E4%B8%8D%E5%85%B7%E5%A4%87%E6%80%BB%E7%BB%9F%E5%8F%82%E9%80%89%E8%B5%84%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东北大街上惊现“雪人军团”](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E5%A4%A7%E8%A1%97%E4%B8%8A%E6%83%8A%E7%8E%B0%E2%80%9C%E9%9B%AA%E4%BA%BA%E5%86%9B%E5%9B%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [新冠病例激增 东南亚多国口罩回归？](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E7%97%85%E4%BE%8B%E6%BF%80%E5%A2%9E+%E4%B8%9C%E5%8D%97%E4%BA%9A%E5%A4%9A%E5%9B%BD%E5%8F%A3%E7%BD%A9%E5%9B%9E%E5%BD%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [甘肃地震 最糟糕时间最薄弱地方](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87+%E6%9C%80%E7%B3%9F%E7%B3%95%E6%97%B6%E9%97%B4%E6%9C%80%E8%96%84%E5%BC%B1%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023百度云智大会·智算大会](https://www.baidu.com/s?wd=2023%E7%99%BE%E5%BA%A6%E6%99%BA%E7%AE%97%E5%A4%A7%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [鸟群盘旋是地震前兆？多地辟谣](https://www.baidu.com/s?wd=%E9%B8%9F%E7%BE%A4%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86%EF%BC%9F%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [两部门向灾区预拨2亿元救灾资金](https://www.baidu.com/s?wd=%E4%B8%A4%E9%83%A8%E9%97%A8%E5%90%91%E7%81%BE%E5%8C%BA%E9%A2%84%E6%8B%A82%E4%BA%BF%E5%85%83%E6%95%91%E7%81%BE%E8%B5%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [特朗普被裁定不具备总统参选资格](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E8%A3%81%E5%AE%9A%E4%B8%8D%E5%85%B7%E5%A4%87%E6%80%BB%E7%BB%9F%E5%8F%82%E9%80%89%E8%B5%84%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东北大街上惊现“雪人军团”](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E5%A4%A7%E8%A1%97%E4%B8%8A%E6%83%8A%E7%8E%B0%E2%80%9C%E9%9B%AA%E4%BA%BA%E5%86%9B%E5%9B%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [新冠病例激增 东南亚多国口罩回归？](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E7%97%85%E4%BE%8B%E6%BF%80%E5%A2%9E+%E4%B8%9C%E5%8D%97%E4%BA%9A%E5%A4%9A%E5%9B%BD%E5%8F%A3%E7%BD%A9%E5%9B%9E%E5%BD%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [甘肃地震 最糟糕时间最薄弱地方](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87+%E6%9C%80%E7%B3%9F%E7%B3%95%E6%97%B6%E9%97%B4%E6%9C%80%E8%96%84%E5%BC%B1%E5%9C%B0%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023百度云智大会·智算大会](https://www.baidu.com/s?wd=2023%E7%99%BE%E5%BA%A6%E6%99%BA%E7%AE%97%E5%A4%A7%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [鸟群盘旋是地震前兆？多地辟谣](https://www.baidu.com/s?wd=%E9%B8%9F%E7%BE%A4%E7%9B%98%E6%97%8B%E6%98%AF%E5%9C%B0%E9%9C%87%E5%89%8D%E5%85%86%EF%BC%9F%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
