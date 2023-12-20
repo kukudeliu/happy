@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 23:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 23:14:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [甘肃积石山地震致134人遇难](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%9C%B0%E9%9C%87%E8%87%B4134%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦锡纸烫](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%94%A1%E7%BA%B8%E7%83%AB&t=31&band_rank=7&Refer=top)<br />
 8. [哈尔滨冰雕师傅自述苦衷](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%95%E5%B8%88%E5%82%85%E8%87%AA%E8%BF%B0%E8%8B%A6%E8%A1%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [甘肃地震已转移安置87076人](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%BD%AC%E7%A7%BB%E5%AE%89%E7%BD%AE87076%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [蛋仔派对 皮肤](https://s.weibo.com/weibo?q=%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%20%E7%9A%AE%E8%82%A4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
