@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 22:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 22:48:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [青海为震区考研学生开通求助热线](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E4%B8%BA%E9%9C%87%E5%8C%BA%E8%80%83%E7%A0%94%E5%AD%A6%E7%94%9F%E5%BC%80%E9%80%9A%E6%B1%82%E5%8A%A9%E7%83%AD%E7%BA%BF%23&t=31&band_rank=3&Refer=top)<br />
 4. [考公吧少年 团综](https://s.weibo.com/weibo?q=%E8%80%83%E5%85%AC%E5%90%A7%E5%B0%91%E5%B9%B4%20%E5%9B%A2%E7%BB%BC&t=31&band_rank=4&Refer=top)<br />
 5. [苹果手机估价近3000回收却给500](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E4%BC%B0%E4%BB%B7%E8%BF%913000%E5%9B%9E%E6%94%B6%E5%8D%B4%E7%BB%99500%23&t=31&band_rank=5&Refer=top)<br />
-6. [王楚钦锡纸烫](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%94%A1%E7%BA%B8%E7%83%AB&t=31&band_rank=6&Refer=top)<br />
-7. [蛋仔派对 皮肤](https://s.weibo.com/weibo?q=%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%20%E7%9A%AE%E8%82%A4&t=31&band_rank=7&Refer=top)<br />
+6. [蛋仔派对 皮肤](https://s.weibo.com/weibo?q=%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%20%E7%9A%AE%E8%82%A4&t=31&band_rank=6&Refer=top)<br />
+7. [王楚钦锡纸烫](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%94%A1%E7%BA%B8%E7%83%AB&t=31&band_rank=7&Refer=top)<br />
 8. [哈尔滨冰雕师傅自述苦衷](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%95%E5%B8%88%E5%82%85%E8%87%AA%E8%BF%B0%E8%8B%A6%E8%A1%B7%23&t=31&band_rank=8&Refer=top)<br />
 9. [甘肃积石山地震致134人遇难](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%9C%B0%E9%9C%87%E8%87%B4134%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=9&Refer=top)<br />
 
