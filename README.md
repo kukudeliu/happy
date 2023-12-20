@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 15:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 15:24:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [许佳玲遇害前一天刚与男友拍完婚纱照](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E4%BD%B3%E7%8E%B2%E9%81%87%E5%AE%B3%E5%89%8D%E4%B8%80%E5%A4%A9%E5%88%9A%E4%B8%8E%E7%94%B7%E5%8F%8B%E6%8B%8D%E5%AE%8C%E5%A9%9A%E7%BA%B1%E7%85%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [A股大跌](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [哈尔滨退票事件](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E9%80%80%E7%A5%A8%E4%BA%8B%E4%BB%B6&t=31&band_rank=6&Refer=top)<br />
-7. [甘肃震区煮不完的饺子和不灭的车灯](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%9C%87%E5%8C%BA%E7%85%AE%E4%B8%8D%E5%AE%8C%E7%9A%84%E9%A5%BA%E5%AD%90%E5%92%8C%E4%B8%8D%E7%81%AD%E7%9A%84%E8%BD%A6%E7%81%AF%23&t=31&band_rank=7&Refer=top)<br />
-8. [地震后父亲打给远嫁女儿差点哭了](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%90%8E%E7%88%B6%E4%BA%B2%E6%89%93%E7%BB%99%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%84%BF%E5%B7%AE%E7%82%B9%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [地震后父亲打给远嫁女儿差点哭了](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%90%8E%E7%88%B6%E4%BA%B2%E6%89%93%E7%BB%99%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%84%BF%E5%B7%AE%E7%82%B9%E5%93%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [甘肃震区煮不完的饺子和不灭的车灯](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%9C%87%E5%8C%BA%E7%85%AE%E4%B8%8D%E5%AE%8C%E7%9A%84%E9%A5%BA%E5%AD%90%E5%92%8C%E4%B8%8D%E7%81%AD%E7%9A%84%E8%BD%A6%E7%81%AF%23&t=31&band_rank=8&Refer=top)<br />
 9. [瑞幸客服回应泰国瑞幸向中国瑞幸索赔](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E6%B3%B0%E5%9B%BD%E7%91%9E%E5%B9%B8%E5%90%91%E4%B8%AD%E5%9B%BD%E7%91%9E%E5%B9%B8%E7%B4%A2%E8%B5%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
