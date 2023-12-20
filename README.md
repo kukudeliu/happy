@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 15:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-20 15:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [A股70%大股东过三年就开始减持](https://s.weibo.com/weibo?q=%23A%E8%82%A170%25%E5%A4%A7%E8%82%A1%E4%B8%9C%E8%BF%87%E4%B8%89%E5%B9%B4%E5%B0%B1%E5%BC%80%E5%A7%8B%E5%87%8F%E6%8C%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [苏州杀夫藏尸冰柜案明日开庭](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E6%9D%80%E5%A4%AB%E8%97%8F%E5%B0%B8%E5%86%B0%E6%9F%9C%E6%A1%88%E6%98%8E%E6%97%A5%E5%BC%80%E5%BA%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [甘肃震区煮不完的饺子和不灭的车灯](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%9C%87%E5%8C%BA%E7%85%AE%E4%B8%8D%E5%AE%8C%E7%9A%84%E9%A5%BA%E5%AD%90%E5%92%8C%E4%B8%8D%E7%81%AD%E7%9A%84%E8%BD%A6%E7%81%AF%23&t=31&band_rank=8&Refer=top)<br />
-9. [哈尔滨退票事件](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E9%80%80%E7%A5%A8%E4%BA%8B%E4%BB%B6&t=31&band_rank=9&Refer=top)<br />
+9. [淄博警方回应三男子深夜持刀殴打俩女子](https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%89%E7%94%B7%E5%AD%90%E6%B7%B1%E5%A4%9C%E6%8C%81%E5%88%80%E6%AE%B4%E6%89%93%E4%BF%A9%E5%A5%B3%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
