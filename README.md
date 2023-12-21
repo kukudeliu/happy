@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 09:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 09:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [甘肃积石山县4.1级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%8E%BF4.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [网传爱尔眼科一医生捶击患者头部](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E4%B8%80%E5%8C%BB%E7%94%9F%E6%8D%B6%E5%87%BB%E6%82%A3%E8%80%85%E5%A4%B4%E9%83%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [爱尔眼科](https://s.weibo.com/weibo?q=%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91&t=31&band_rank=7&Refer=top)<br />
-8. [六种越吃越胖的伪粗粮](https://s.weibo.com/weibo?q=%E5%85%AD%E7%A7%8D%E8%B6%8A%E5%90%83%E8%B6%8A%E8%83%96%E7%9A%84%E4%BC%AA%E7%B2%97%E7%B2%AE&t=31&band_rank=8&Refer=top)<br />
-9. [烟台大学 冷流雪](https://s.weibo.com/weibo?q=%E7%83%9F%E5%8F%B0%E5%A4%A7%E5%AD%A6%20%E5%86%B7%E6%B5%81%E9%9B%AA&t=31&band_rank=9&Refer=top)<br />
+8. [烟台大学 冷流雪](https://s.weibo.com/weibo?q=%E7%83%9F%E5%8F%B0%E5%A4%A7%E5%AD%A6%20%E5%86%B7%E6%B5%81%E9%9B%AA&t=31&band_rank=8&Refer=top)<br />
+9. [六种越吃越胖的伪粗粮](https://s.weibo.com/weibo?q=%E5%85%AD%E7%A7%8D%E8%B6%8A%E5%90%83%E8%B6%8A%E8%83%96%E7%9A%84%E4%BC%AA%E7%B2%97%E7%B2%AE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
