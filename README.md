@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 10:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 10:46:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [金毛震后泥浆被困30小时获救](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E9%9C%87%E5%90%8E%E6%B3%A5%E6%B5%86%E8%A2%AB%E5%9B%B030%E5%B0%8F%E6%97%B6%E8%8E%B7%E6%95%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [甘肃积石山县4.1级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%8E%BF4.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [六种越吃越胖的伪粗粮](https://s.weibo.com/weibo?q=%E5%85%AD%E7%A7%8D%E8%B6%8A%E5%90%83%E8%B6%8A%E8%83%96%E7%9A%84%E4%BC%AA%E7%B2%97%E7%B2%AE&t=31&band_rank=7&Refer=top)<br />
-8. [女子起诉父母不肯出钱给自己出国留学](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B5%B7%E8%AF%89%E7%88%B6%E6%AF%8D%E4%B8%8D%E8%82%AF%E5%87%BA%E9%92%B1%E7%BB%99%E8%87%AA%E5%B7%B1%E5%87%BA%E5%9B%BD%E7%95%99%E5%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [近九成用户希望电视像手机一样操作](https://s.weibo.com/weibo?q=%23%E8%BF%91%E4%B9%9D%E6%88%90%E7%94%A8%E6%88%B7%E5%B8%8C%E6%9C%9B%E7%94%B5%E8%A7%86%E5%83%8F%E6%89%8B%E6%9C%BA%E4%B8%80%E6%A0%B7%E6%93%8D%E4%BD%9C%23&t=31&band_rank=9&Refer=top)<br />
+8. [近九成用户希望电视像手机一样操作](https://s.weibo.com/weibo?q=%23%E8%BF%91%E4%B9%9D%E6%88%90%E7%94%A8%E6%88%B7%E5%B8%8C%E6%9C%9B%E7%94%B5%E8%A7%86%E5%83%8F%E6%89%8B%E6%9C%BA%E4%B8%80%E6%A0%B7%E6%93%8D%E4%BD%9C%23&t=31&band_rank=8&Refer=top)<br />
+9. [女子起诉父母不肯出钱给自己出国留学](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B5%B7%E8%AF%89%E7%88%B6%E6%AF%8D%E4%B8%8D%E8%82%AF%E5%87%BA%E9%92%B1%E7%BB%99%E8%87%AA%E5%B7%B1%E5%87%BA%E5%9B%BD%E7%95%99%E5%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
