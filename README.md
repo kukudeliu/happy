@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 11:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 11:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杀夫藏尸冰柜案开庭](https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%A4%AB%E8%97%8F%E5%B0%B8%E5%86%B0%E6%9F%9C%E6%A1%88%E5%BC%80%E5%BA%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [金毛震后泥浆被困30小时获救](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E9%9C%87%E5%90%8E%E6%B3%A5%E6%B5%86%E8%A2%AB%E5%9B%B030%E5%B0%8F%E6%97%B6%E8%8E%B7%E6%95%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [甘肃积石山县4.1级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%8E%BF4.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [2024年三农工作](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E4%B8%89%E5%86%9C%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [烟台大学 冷流雪](https://s.weibo.com/weibo?q=%E7%83%9F%E5%8F%B0%E5%A4%A7%E5%AD%A6%20%E5%86%B7%E6%B5%81%E9%9B%AA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
