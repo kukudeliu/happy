@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 08:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 08:40:01</h4></div>
 
 > 微博  
 
 1. [甘肃地震已致135人遇难](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4135%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top)<br />
-2. [甘肃积石山县4.1级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%8E%BF4.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top)<br />
+2. [医生不建议年轻人没问题就推拿](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%B2%A1%E9%97%AE%E9%A2%98%E5%B0%B1%E6%8E%A8%E6%8B%BF%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024年三农工作](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E4%B8%89%E5%86%9C%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=3&Refer=top)<br />
-4. [医生不建议年轻人没问题就推拿](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%B2%A1%E9%97%AE%E9%A2%98%E5%B0%B1%E6%8E%A8%E6%8B%BF%23&t=31&band_rank=4&Refer=top)<br />
+4. [甘肃积石山县4.1级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%8E%BF4.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [店主察觉外卖备注像遗言救下一命](https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E5%AF%9F%E8%A7%89%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E5%83%8F%E9%81%97%E8%A8%80%E6%95%91%E4%B8%8B%E4%B8%80%E5%91%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [网传爱尔眼科一医生捶击患者头部](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E4%B8%80%E5%8C%BB%E7%94%9F%E6%8D%B6%E5%87%BB%E6%82%A3%E8%80%85%E5%A4%B4%E9%83%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [爱尔眼科](https://s.weibo.com/weibo?q=%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91&t=31&band_rank=7&Refer=top)<br />
