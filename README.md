@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 14:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 14:02:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [店主察觉外卖备注像遗言救下一命](https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E5%AF%9F%E8%A7%89%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E5%83%8F%E9%81%97%E8%A8%80%E6%95%91%E4%B8%8B%E4%B8%80%E5%91%BD%23&t=31&band_rank=2&Refer=top)<br />
 3. [共话北京数字经济发展新蓝图](https://s.weibo.com/weibo?q=%23%E5%85%B1%E8%AF%9D%E5%8C%97%E4%BA%AC%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%96%B0%E8%93%9D%E5%9B%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [何猷君 柯哀党](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E6%9F%AF%E5%93%80%E5%85%9A&t=31&band_rank=4&Refer=top)<br />
-5. [男子爬武功山被佛光追随](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%88%AC%E6%AD%A6%E5%8A%9F%E5%B1%B1%E8%A2%AB%E4%BD%9B%E5%85%89%E8%BF%BD%E9%9A%8F%23&t=31&band_rank=5&Refer=top)<br />
-6. [地震来临前狗狗将村民带到安全地带](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E6%9D%A5%E4%B8%B4%E5%89%8D%E7%8B%97%E7%8B%97%E5%B0%86%E6%9D%91%E6%B0%91%E5%B8%A6%E5%88%B0%E5%AE%89%E5%85%A8%E5%9C%B0%E5%B8%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [考研女生户外背书贴5个暖宝宝御寒](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%A5%B3%E7%94%9F%E6%88%B7%E5%A4%96%E8%83%8C%E4%B9%A6%E8%B4%B45%E4%B8%AA%E6%9A%96%E5%AE%9D%E5%AE%9D%E5%BE%A1%E5%AF%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [黑龙江一煤矿发生事故致12人死亡](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E7%85%A4%E7%9F%BF%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85%E8%87%B412%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [北大正有序推进开放](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%AD%A3%E6%9C%89%E5%BA%8F%E6%8E%A8%E8%BF%9B%E5%BC%80%E6%94%BE%23&t=31&band_rank=9&Refer=top)<br />
+5. [徐志胜 演男主](https://s.weibo.com/weibo?q=%E5%BE%90%E5%BF%97%E8%83%9C%20%E6%BC%94%E7%94%B7%E4%B8%BB&t=31&band_rank=5&Refer=top)<br />
+6. [男子爬武功山被佛光追随](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%88%AC%E6%AD%A6%E5%8A%9F%E5%B1%B1%E8%A2%AB%E4%BD%9B%E5%85%89%E8%BF%BD%E9%9A%8F%23&t=31&band_rank=6&Refer=top)<br />
+7. [黑龙江一煤矿发生事故致12人死亡](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E7%85%A4%E7%9F%BF%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85%E8%87%B412%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
+8. [地震来临前狗狗将村民带到安全地带](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E6%9D%A5%E4%B8%B4%E5%89%8D%E7%8B%97%E7%8B%97%E5%B0%86%E6%9D%91%E6%B0%91%E5%B8%A6%E5%88%B0%E5%AE%89%E5%85%A8%E5%9C%B0%E5%B8%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [考研女生户外背书贴5个暖宝宝御寒](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%A5%B3%E7%94%9F%E6%88%B7%E5%A4%96%E8%83%8C%E4%B9%A6%E8%B4%B45%E4%B8%AA%E6%9A%96%E5%AE%9D%E5%AE%9D%E5%BE%A1%E5%AF%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
