@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 11:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 11:38:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [近九成用户希望电视像手机一样操作](https://s.weibo.com/weibo?q=%23%E8%BF%91%E4%B9%9D%E6%88%90%E7%94%A8%E6%88%B7%E5%B8%8C%E6%9C%9B%E7%94%B5%E8%A7%86%E5%83%8F%E6%89%8B%E6%9C%BA%E4%B8%80%E6%A0%B7%E6%93%8D%E4%BD%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [金毛震后泥浆被困30小时获救](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E9%9C%87%E5%90%8E%E6%B3%A5%E6%B5%86%E8%A2%AB%E5%9B%B030%E5%B0%8F%E6%97%B6%E8%8E%B7%E6%95%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [甘肃积石山县4.1级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%8E%BF4.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [孙颖莎陈清晨互换奖杯奖牌](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%99%88%E6%B8%85%E6%99%A8%E4%BA%92%E6%8D%A2%E5%A5%96%E6%9D%AF%E5%A5%96%E7%89%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [杀夫藏尸冰柜案开庭](https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%A4%AB%E8%97%8F%E5%B0%B8%E5%86%B0%E6%9F%9C%E6%A1%88%E5%BC%80%E5%BA%AD%23&t=31&band_rank=9&Refer=top)<br />
+8. [民警买下全部豌豆尖让老人去医院](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E4%B9%B0%E4%B8%8B%E5%85%A8%E9%83%A8%E8%B1%8C%E8%B1%86%E5%B0%96%E8%AE%A9%E8%80%81%E4%BA%BA%E5%8E%BB%E5%8C%BB%E9%99%A2%23&t=31&band_rank=8&Refer=top)<br />
+9. [孙颖莎陈清晨互换奖杯奖牌](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%99%88%E6%B8%85%E6%99%A8%E4%BA%92%E6%8D%A2%E5%A5%96%E6%9D%AF%E5%A5%96%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
