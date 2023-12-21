@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 13:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 13:02:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [店主察觉外卖备注像遗言救下一命](https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E5%AF%9F%E8%A7%89%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E5%83%8F%E9%81%97%E8%A8%80%E6%95%91%E4%B8%8B%E4%B8%80%E5%91%BD%23&t=31&band_rank=4&Refer=top)<br />
 5. [被拐26年杨妞花的复仇路](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8B%9026%E5%B9%B4%E6%9D%A8%E5%A6%9E%E8%8A%B1%E7%9A%84%E5%A4%8D%E4%BB%87%E8%B7%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [民警买下全部豌豆尖让老人去医院](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E4%B9%B0%E4%B8%8B%E5%85%A8%E9%83%A8%E8%B1%8C%E8%B1%86%E5%B0%96%E8%AE%A9%E8%80%81%E4%BA%BA%E5%8E%BB%E5%8C%BB%E9%99%A2%23&t=31&band_rank=6&Refer=top)<br />
-7. [甘肃积石山县4.1级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%8E%BF4.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [金毛震后泥浆被困30小时获救](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E9%9C%87%E5%90%8E%E6%B3%A5%E6%B5%86%E8%A2%AB%E5%9B%B030%E5%B0%8F%E6%97%B6%E8%8E%B7%E6%95%91%23&t=31&band_rank=8&Refer=top)<br />
+7. [金毛震后泥浆被困30小时获救](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E9%9C%87%E5%90%8E%E6%B3%A5%E6%B5%86%E8%A2%AB%E5%9B%B030%E5%B0%8F%E6%97%B6%E8%8E%B7%E6%95%91%23&t=31&band_rank=7&Refer=top)<br />
+8. [甘肃积石山县4.1级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%8E%BF4.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [男子爬武功山被佛光追随](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%88%AC%E6%AD%A6%E5%8A%9F%E5%B1%B1%E8%A2%AB%E4%BD%9B%E5%85%89%E8%BF%BD%E9%9A%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
