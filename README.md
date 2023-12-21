@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 10:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 10:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [董宇辉称面对争议只能不看手机](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%A7%B0%E9%9D%A2%E5%AF%B9%E4%BA%89%E8%AE%AE%E5%8F%AA%E8%83%BD%E4%B8%8D%E7%9C%8B%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [医生不建议年轻人没问题就推拿](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%B2%A1%E9%97%AE%E9%A2%98%E5%B0%B1%E6%8E%A8%E6%8B%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [甘肃积石山县4.1级地震](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%8E%BF4.1%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [股价暴跌后 格力深夜发业绩预告](https://www.baidu.com/s?wd=%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E+%E6%A0%BC%E5%8A%9B%E6%B7%B1%E5%A4%9C%E5%8F%91%E4%B8%9A%E7%BB%A9%E9%A2%84%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [抱痛哭灾民的省委书记年初履新青海](https://www.baidu.com/s?wd=%E6%8A%B1%E7%97%9B%E5%93%AD%E7%81%BE%E6%B0%91%E7%9A%84%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%B9%B4%E5%88%9D%E5%B1%A5%E6%96%B0%E9%9D%92%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [得了胆结石不能吃鸡蛋？](https://www.baidu.com/s?wd=%E5%BE%97%E4%BA%86%E8%83%86%E7%BB%93%E7%9F%B3%E4%B8%8D%E8%83%BD%E5%90%83%E9%B8%A1%E8%9B%8B%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [董宇辉称面对争议只能不看手机](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%A7%B0%E9%9D%A2%E5%AF%B9%E4%BA%89%E8%AE%AE%E5%8F%AA%E8%83%BD%E4%B8%8D%E7%9C%8B%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [医生不建议年轻人没问题就推拿](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%B2%A1%E9%97%AE%E9%A2%98%E5%B0%B1%E6%8E%A8%E6%8B%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [甘肃积石山县4.1级地震](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%8E%BF4.1%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [股价暴跌后 格力深夜发业绩预告](https://www.baidu.com/s?wd=%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E+%E6%A0%BC%E5%8A%9B%E6%B7%B1%E5%A4%9C%E5%8F%91%E4%B8%9A%E7%BB%A9%E9%A2%84%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [抱痛哭灾民的省委书记年初履新青海](https://www.baidu.com/s?wd=%E6%8A%B1%E7%97%9B%E5%93%AD%E7%81%BE%E6%B0%91%E7%9A%84%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%B9%B4%E5%88%9D%E5%B1%A5%E6%96%B0%E9%9D%92%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [得了胆结石不能吃鸡蛋？](https://www.baidu.com/s?wd=%E5%BE%97%E4%BA%86%E8%83%86%E7%BB%93%E7%9F%B3%E4%B8%8D%E8%83%BD%E5%90%83%E9%B8%A1%E8%9B%8B%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
