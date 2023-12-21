@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 17:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 17:45:01</h4></div>
 
 > 微博  
 
-1. [微博年度报告](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A&t=31&band_rank=1&Refer=top)<br />
-2. [跳绳 减肥](https://s.weibo.com/weibo?q=%E8%B7%B3%E7%BB%B3%20%E5%87%8F%E8%82%A5&t=31&band_rank=2&Refer=top)<br />
+1. [跳绳 减肥](https://s.weibo.com/weibo?q=%E8%B7%B3%E7%BB%B3%20%E5%87%8F%E8%82%A5&t=31&band_rank=1&Refer=top)<br />
+2. [微博年度报告](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A&t=31&band_rank=2&Refer=top)<br />
 3. [探访极寒天气下保供保畅黑科技](https://s.weibo.com/weibo?q=%23%E6%8E%A2%E8%AE%BF%E6%9E%81%E5%AF%92%E5%A4%A9%E6%B0%94%E4%B8%8B%E4%BF%9D%E4%BE%9B%E4%BF%9D%E7%95%85%E9%BB%91%E7%A7%91%E6%8A%80%23&t=31&band_rank=3&Refer=top)<br />
 4. [录6天节目给10个人道歉](https://s.weibo.com/weibo?q=%E5%BD%956%E5%A4%A9%E8%8A%82%E7%9B%AE%E7%BB%9910%E4%B8%AA%E4%BA%BA%E9%81%93%E6%AD%89&t=31&band_rank=4&Refer=top)<br />
 5. [男主播直播喝白酒时死亡](https://s.weibo.com/weibo?q=%23%E7%94%B7%E4%B8%BB%E6%92%AD%E7%9B%B4%E6%92%AD%E5%96%9D%E7%99%BD%E9%85%92%E6%97%B6%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
