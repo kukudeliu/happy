@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 14:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 14:39:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女大学生入职当天被怂恿整容](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%85%A5%E8%81%8C%E5%BD%93%E5%A4%A9%E8%A2%AB%E6%80%82%E6%81%BF%E6%95%B4%E5%AE%B9%23&t=31&band_rank=5&Refer=top)<br />
 6. [何猷君 柯哀党](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E6%9F%AF%E5%93%80%E5%85%9A&t=31&band_rank=6&Refer=top)<br />
 7. [医生不建议年轻人没问题就推拿](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%B2%A1%E9%97%AE%E9%A2%98%E5%B0%B1%E6%8E%A8%E6%8B%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [湖南卫视跨年晚会首波阵容](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E9%A6%96%E6%B3%A2%E9%98%B5%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [天太冷不洗脸会让皮肤变好吗](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%A4%AA%E5%86%B7%E4%B8%8D%E6%B4%97%E8%84%B8%E4%BC%9A%E8%AE%A9%E7%9A%AE%E8%82%A4%E5%8F%98%E5%A5%BD%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [天太冷不洗脸会让皮肤变好吗](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%A4%AA%E5%86%B7%E4%B8%8D%E6%B4%97%E8%84%B8%E4%BC%9A%E8%AE%A9%E7%9A%AE%E8%82%A4%E5%8F%98%E5%A5%BD%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [湖南卫视跨年晚会首波阵容](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E9%A6%96%E6%B3%A2%E9%98%B5%E5%AE%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
