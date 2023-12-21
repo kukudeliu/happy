@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 19:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 19:24:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [92年男子嫁闺女当岳父？公安局回应](https://www.baidu.com/s?wd=92%E5%B9%B4%E7%94%B7%E5%AD%90%E5%AB%81%E9%97%BA%E5%A5%B3%E5%BD%93%E5%B2%B3%E7%88%B6%EF%BC%9F%E5%85%AC%E5%AE%89%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [你的肩膀 我的依靠](https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E8%82%A9%E8%86%80+%E6%88%91%E7%9A%84%E4%BE%9D%E9%9D%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子被判奸杀姐妹入狱21年获无罪](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%A4%E5%A5%B8%E6%9D%80%E5%A7%90%E5%A6%B9%E5%85%A5%E7%8B%B121%E5%B9%B4%E8%8E%B7%E6%97%A0%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小猫雪天被冻僵女子用吹风机救活](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%AB%E9%9B%AA%E5%A4%A9%E8%A2%AB%E5%86%BB%E5%83%B5%E5%A5%B3%E5%AD%90%E7%94%A8%E5%90%B9%E9%A3%8E%E6%9C%BA%E6%95%91%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [20万元存三年利息将少1800元](https://www.baidu.com/s?wd=20%E4%B8%87%E5%85%83%E5%AD%98%E4%B8%89%E5%B9%B4%E5%88%A9%E6%81%AF%E5%B0%86%E5%B0%911800%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [反诈老陈晒文件证明自己并非被开除](https://www.baidu.com/s?wd=%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E6%99%92%E6%96%87%E4%BB%B6%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E5%B9%B6%E9%9D%9E%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [景区回应挖掘机打滑撞向人群](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E6%8C%96%E6%8E%98%E6%9C%BA%E6%89%93%E6%BB%91%E6%92%9E%E5%90%91%E4%BA%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [震后老人哭着报平安:房塌了](https://www.baidu.com/s?wd=%E9%9C%87%E5%90%8E%E8%80%81%E4%BA%BA%E5%93%AD%E7%9D%80%E6%8A%A5%E5%B9%B3%E5%AE%89%3A%E6%88%BF%E5%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [金毛震后泥浆被困30小时获救](https://www.baidu.com/s?wd=%E9%87%91%E6%AF%9B%E9%9C%87%E5%90%8E%E6%B3%A5%E6%B5%86%E8%A2%AB%E5%9B%B030%E5%B0%8F%E6%97%B6%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州辟谣“某高校发生火灾”](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%9F%90%E9%AB%98%E6%A0%A1%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [92年男子嫁闺女当岳父？公安局回应](https://www.baidu.com/s?wd=92%E5%B9%B4%E7%94%B7%E5%AD%90%E5%AB%81%E9%97%BA%E5%A5%B3%E5%BD%93%E5%B2%B3%E7%88%B6%EF%BC%9F%E5%85%AC%E5%AE%89%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [你的肩膀 我的依靠](https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E8%82%A9%E8%86%80+%E6%88%91%E7%9A%84%E4%BE%9D%E9%9D%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子被判奸杀姐妹入狱21年获无罪](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%A4%E5%A5%B8%E6%9D%80%E5%A7%90%E5%A6%B9%E5%85%A5%E7%8B%B121%E5%B9%B4%E8%8E%B7%E6%97%A0%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小猫雪天被冻僵女子用吹风机救活](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%AB%E9%9B%AA%E5%A4%A9%E8%A2%AB%E5%86%BB%E5%83%B5%E5%A5%B3%E5%AD%90%E7%94%A8%E5%90%B9%E9%A3%8E%E6%9C%BA%E6%95%91%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [20万元存三年利息将少1800元](https://www.baidu.com/s?wd=20%E4%B8%87%E5%85%83%E5%AD%98%E4%B8%89%E5%B9%B4%E5%88%A9%E6%81%AF%E5%B0%86%E5%B0%911800%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [反诈老陈晒文件证明自己并非被开除](https://www.baidu.com/s?wd=%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E6%99%92%E6%96%87%E4%BB%B6%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E5%B9%B6%E9%9D%9E%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [景区回应挖掘机打滑撞向人群](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E6%8C%96%E6%8E%98%E6%9C%BA%E6%89%93%E6%BB%91%E6%92%9E%E5%90%91%E4%BA%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [震后老人哭着报平安:房塌了](https://www.baidu.com/s?wd=%E9%9C%87%E5%90%8E%E8%80%81%E4%BA%BA%E5%93%AD%E7%9D%80%E6%8A%A5%E5%B9%B3%E5%AE%89%3A%E6%88%BF%E5%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [金毛震后泥浆被困30小时获救](https://www.baidu.com/s?wd=%E9%87%91%E6%AF%9B%E9%9C%87%E5%90%8E%E6%B3%A5%E6%B5%86%E8%A2%AB%E5%9B%B030%E5%B0%8F%E6%97%B6%E8%8E%B7%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州辟谣“某高校发生火灾”](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%9F%90%E9%AB%98%E6%A0%A1%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
