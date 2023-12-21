@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 18:24:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 18:25:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [有人从中国乘飞机往韩国背大米](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E4%BB%8E%E4%B8%AD%E5%9B%BD%E4%B9%98%E9%A3%9E%E6%9C%BA%E5%BE%80%E9%9F%A9%E5%9B%BD%E8%83%8C%E5%A4%A7%E7%B1%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [两学生奔向刺骨海水救回母子二人](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%AD%A6%E7%94%9F%E5%A5%94%E5%90%91%E5%88%BA%E9%AA%A8%E6%B5%B7%E6%B0%B4%E6%95%91%E5%9B%9E%E6%AF%8D%E5%AD%90%E4%BA%8C%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [录6天节目给10个人道歉](https://s.weibo.com/weibo?q=%E5%BD%956%E5%A4%A9%E8%8A%82%E7%9B%AE%E7%BB%9910%E4%B8%AA%E4%BA%BA%E9%81%93%E6%AD%89&t=31&band_rank=8&Refer=top)<br />
-9. [男主播直播喝白酒时死亡](https://s.weibo.com/weibo?q=%23%E7%94%B7%E4%B8%BB%E6%92%AD%E7%9B%B4%E6%92%AD%E5%96%9D%E7%99%BD%E9%85%92%E6%97%B6%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [董宇辉驳斥读书无用论](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E9%A9%B3%E6%96%A5%E8%AF%BB%E4%B9%A6%E6%97%A0%E7%94%A8%E8%AE%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
