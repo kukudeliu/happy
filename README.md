@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 17:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 17:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [肖战 跨年](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E8%B7%A8%E5%B9%B4&t=31&band_rank=6&Refer=top)<br />
 7. [王俊凯 都说了少关注我年轻的时候](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E9%83%BD%E8%AF%B4%E4%BA%86%E5%B0%91%E5%85%B3%E6%B3%A8%E6%88%91%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%97%B6%E5%80%99&t=31&band_rank=7&Refer=top)<br />
 8. [降息](https://s.weibo.com/weibo?q=%E9%99%8D%E6%81%AF&t=31&band_rank=8&Refer=top)<br />
-9. [甘露寺的莫言](https://s.weibo.com/weibo?q=%E7%94%98%E9%9C%B2%E5%AF%BA%E7%9A%84%E8%8E%AB%E8%A8%80&t=31&band_rank=9&Refer=top)<br />
+9. [有人从中国乘飞机往韩国背大米](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E4%BB%8E%E4%B8%AD%E5%9B%BD%E4%B9%98%E9%A3%9E%E6%9C%BA%E5%BE%80%E9%9F%A9%E5%9B%BD%E8%83%8C%E5%A4%A7%E7%B1%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
