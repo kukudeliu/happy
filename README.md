@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 17:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 17:16:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [甘露寺的莫言](https://s.weibo.com/weibo?q=%E7%94%98%E9%9C%B2%E5%AF%BA%E7%9A%84%E8%8E%AB%E8%A8%80&t=31&band_rank=6&Refer=top)<br />
 7. [降息](https://s.weibo.com/weibo?q=%E9%99%8D%E6%81%AF&t=31&band_rank=7&Refer=top)<br />
 8. [肖战 跨年](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E8%B7%A8%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
-9. [鹭卓换头像](https://s.weibo.com/weibo?q=%E9%B9%AD%E5%8D%93%E6%8D%A2%E5%A4%B4%E5%83%8F&t=31&band_rank=9&Refer=top)<br />
+9. [跳绳 减肥](https://s.weibo.com/weibo?q=%E8%B7%B3%E7%BB%B3%20%E5%87%8F%E8%82%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
