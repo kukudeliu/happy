@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 00:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 00:43:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [你的肩膀我的依靠](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E8%82%A9%E8%86%80%E6%88%91%E7%9A%84%E4%BE%9D%E9%9D%A0%23&t=31&band_rank=3&Refer=top)<br />
 4. [倪妮 新中式羽绒服](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%20%E6%96%B0%E4%B8%AD%E5%BC%8F%E7%BE%BD%E7%BB%92%E6%9C%8D&t=31&band_rank=4&Refer=top)<br />
 5. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=5&Refer=top)<br />
-6. [女孩零下18度光手跑步险截肢](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%9B%B6%E4%B8%8B18%E5%BA%A6%E5%85%89%E6%89%8B%E8%B7%91%E6%AD%A5%E9%99%A9%E6%88%AA%E8%82%A2%23&t=31&band_rank=6&Refer=top)<br />
-7. [7小时睡眠或降低死亡率](https://s.weibo.com/weibo?q=%237%E5%B0%8F%E6%97%B6%E7%9D%A1%E7%9C%A0%E6%88%96%E9%99%8D%E4%BD%8E%E6%AD%BB%E4%BA%A1%E7%8E%87%23&t=31&band_rank=7&Refer=top)<br />
+6. [7小时睡眠或降低死亡率](https://s.weibo.com/weibo?q=%237%E5%B0%8F%E6%97%B6%E7%9D%A1%E7%9C%A0%E6%88%96%E9%99%8D%E4%BD%8E%E6%AD%BB%E4%BA%A1%E7%8E%87%23&t=31&band_rank=6&Refer=top)<br />
+7. [女孩零下18度光手跑步险截肢](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%9B%B6%E4%B8%8B18%E5%BA%A6%E5%85%89%E6%89%8B%E8%B7%91%E6%AD%A5%E9%99%A9%E6%88%AA%E8%82%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [张婧仪 财阀千金](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A9%A7%E4%BB%AA%20%E8%B4%A2%E9%98%80%E5%8D%83%E9%87%91&t=31&band_rank=8&Refer=top)<br />
 9. [外国人对亚洲人有多信任](https://s.weibo.com/weibo?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%AF%B9%E4%BA%9A%E6%B4%B2%E4%BA%BA%E6%9C%89%E5%A4%9A%E4%BF%A1%E4%BB%BB&t=31&band_rank=9&Refer=top)<br />
 
