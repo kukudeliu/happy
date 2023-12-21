@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 11:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 11:32:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [我们一起渡难关](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E6%B8%A1%E9%9A%BE%E5%85%B3%23&t=31&band_rank=3&Refer=top)<br />
 4. [店主察觉外卖备注像遗言救下一命](https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E5%AF%9F%E8%A7%89%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E5%83%8F%E9%81%97%E8%A8%80%E6%95%91%E4%B8%8B%E4%B8%80%E5%91%BD%23&t=31&band_rank=4&Refer=top)<br />
 5. [近九成用户希望电视像手机一样操作](https://s.weibo.com/weibo?q=%23%E8%BF%91%E4%B9%9D%E6%88%90%E7%94%A8%E6%88%B7%E5%B8%8C%E6%9C%9B%E7%94%B5%E8%A7%86%E5%83%8F%E6%89%8B%E6%9C%BA%E4%B8%80%E6%A0%B7%E6%93%8D%E4%BD%9C%23&t=31&band_rank=5&Refer=top)<br />
-6. [杀夫藏尸冰柜案开庭](https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%A4%AB%E8%97%8F%E5%B0%B8%E5%86%B0%E6%9F%9C%E6%A1%88%E5%BC%80%E5%BA%AD%23&t=31&band_rank=6&Refer=top)<br />
-7. [金毛震后泥浆被困30小时获救](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E9%9C%87%E5%90%8E%E6%B3%A5%E6%B5%86%E8%A2%AB%E5%9B%B030%E5%B0%8F%E6%97%B6%E8%8E%B7%E6%95%91%23&t=31&band_rank=7&Refer=top)<br />
+6. [金毛震后泥浆被困30小时获救](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E9%9C%87%E5%90%8E%E6%B3%A5%E6%B5%86%E8%A2%AB%E5%9B%B030%E5%B0%8F%E6%97%B6%E8%8E%B7%E6%95%91%23&t=31&band_rank=6&Refer=top)<br />
+7. [杀夫藏尸冰柜案开庭](https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%A4%AB%E8%97%8F%E5%B0%B8%E5%86%B0%E6%9F%9C%E6%A1%88%E5%BC%80%E5%BA%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [甘肃积石山县4.1级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%8E%BF4.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [烟台大学 冷流雪](https://s.weibo.com/weibo?q=%E7%83%9F%E5%8F%B0%E5%A4%A7%E5%AD%A6%20%E5%86%B7%E6%B5%81%E9%9B%AA&t=31&band_rank=9&Refer=top)<br />
+9. [六种越吃越胖的伪粗粮](https://s.weibo.com/weibo?q=%E5%85%AD%E7%A7%8D%E8%B6%8A%E5%90%83%E8%B6%8A%E8%83%96%E7%9A%84%E4%BC%AA%E7%B2%97%E7%B2%AE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
