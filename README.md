@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 04:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 04:17:01</h4></div>
 
 > 微博  
 
-1. [7小时睡眠或降低死亡率](https://s.weibo.com/weibo?q=%237%E5%B0%8F%E6%97%B6%E7%9D%A1%E7%9C%A0%E6%88%96%E9%99%8D%E4%BD%8E%E6%AD%BB%E4%BA%A1%E7%8E%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [赵露思替身发文](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%9B%BF%E8%BA%AB%E5%8F%91%E6%96%87%23&t=31&band_rank=2&Refer=top)<br />
+1. [涉事医生回应手术时捶压老人头部](https://s.weibo.com/weibo?q=%23%E6%B6%89%E4%BA%8B%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E6%89%8B%E6%9C%AF%E6%97%B6%E6%8D%B6%E5%8E%8B%E8%80%81%E4%BA%BA%E5%A4%B4%E9%83%A8%23&t=31&band_rank=1&Refer=top)<br />
+2. [7小时睡眠或降低死亡率](https://s.weibo.com/weibo?q=%237%E5%B0%8F%E6%97%B6%E7%9D%A1%E7%9C%A0%E6%88%96%E9%99%8D%E4%BD%8E%E6%AD%BB%E4%BA%A1%E7%8E%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [你的肩膀我的依靠](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E8%82%A9%E8%86%80%E6%88%91%E7%9A%84%E4%BE%9D%E9%9D%A0%23&t=31&band_rank=3&Refer=top)<br />
-4. [哑舍 刘宇宁](https://s.weibo.com/weibo?q=%E5%93%91%E8%88%8D%20%E5%88%98%E5%AE%87%E5%AE%81&t=31&band_rank=4&Refer=top)<br />
-5. [倪妮 新中式羽绒服](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%20%E6%96%B0%E4%B8%AD%E5%BC%8F%E7%BE%BD%E7%BB%92%E6%9C%8D&t=31&band_rank=5&Refer=top)<br />
-6. [女孩零下18度光手跑步险截肢](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%9B%B6%E4%B8%8B18%E5%BA%A6%E5%85%89%E6%89%8B%E8%B7%91%E6%AD%A5%E9%99%A9%E6%88%AA%E8%82%A2%23&t=31&band_rank=6&Refer=top)<br />
-7. [25岁姑娘评上人才获100万补贴在杭独立买房](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A7%91%E5%A8%98%E8%AF%84%E4%B8%8A%E4%BA%BA%E6%89%8D%E8%8E%B7100%E4%B8%87%E8%A1%A5%E8%B4%B4%E5%9C%A8%E6%9D%AD%E7%8B%AC%E7%AB%8B%E4%B9%B0%E6%88%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [迪丽热巴瞬间失去表情管理](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9E%AC%E9%97%B4%E5%A4%B1%E5%8E%BB%E8%A1%A8%E6%83%85%E7%AE%A1%E7%90%86&t=31&band_rank=8&Refer=top)<br />
-9. [大二女生卖男士保暖衣月入两万](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BA%8C%E5%A5%B3%E7%94%9F%E5%8D%96%E7%94%B7%E5%A3%AB%E4%BF%9D%E6%9A%96%E8%A1%A3%E6%9C%88%E5%85%A5%E4%B8%A4%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+4. [赵露思替身发文](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%9B%BF%E8%BA%AB%E5%8F%91%E6%96%87%23&t=31&band_rank=4&Refer=top)<br />
+5. [哑舍 刘宇宁](https://s.weibo.com/weibo?q=%E5%93%91%E8%88%8D%20%E5%88%98%E5%AE%87%E5%AE%81&t=31&band_rank=5&Refer=top)<br />
+6. [倪妮 新中式羽绒服](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%20%E6%96%B0%E4%B8%AD%E5%BC%8F%E7%BE%BD%E7%BB%92%E6%9C%8D&t=31&band_rank=6&Refer=top)<br />
+7. [女孩零下18度光手跑步险截肢](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%9B%B6%E4%B8%8B18%E5%BA%A6%E5%85%89%E6%89%8B%E8%B7%91%E6%AD%A5%E9%99%A9%E6%88%AA%E8%82%A2%23&t=31&band_rank=7&Refer=top)<br />
+8. [25岁姑娘评上人才获100万补贴在杭独立买房](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A7%91%E5%A8%98%E8%AF%84%E4%B8%8A%E4%BA%BA%E6%89%8D%E8%8E%B7100%E4%B8%87%E8%A1%A5%E8%B4%B4%E5%9C%A8%E6%9D%AD%E7%8B%AC%E7%AB%8B%E4%B9%B0%E6%88%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [迪丽热巴瞬间失去表情管理](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9E%AC%E9%97%B4%E5%A4%B1%E5%8E%BB%E8%A1%A8%E6%83%85%E7%AE%A1%E7%90%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
