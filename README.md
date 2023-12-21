@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 15:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 15:32:01</h4></div>
 
 > 微博  
 
 1. [男主播直播喝白酒时死亡](https://s.weibo.com/weibo?q=%23%E7%94%B7%E4%B8%BB%E6%92%AD%E7%9B%B4%E6%92%AD%E5%96%9D%E7%99%BD%E9%85%92%E6%97%B6%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=1&Refer=top)<br />
 2. [推特崩了](https://s.weibo.com/weibo?q=%E6%8E%A8%E7%89%B9%E5%B4%A9%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
-3. [天太冷不洗脸会让皮肤变好吗](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%A4%AA%E5%86%B7%E4%B8%8D%E6%B4%97%E8%84%B8%E4%BC%9A%E8%AE%A9%E7%9A%AE%E8%82%A4%E5%8F%98%E5%A5%BD%E5%90%97%23&t=31&band_rank=3&Refer=top)<br />
+3. [探访极寒天气下保供保畅黑科技](https://s.weibo.com/weibo?q=%23%E6%8E%A2%E8%AE%BF%E6%9E%81%E5%AF%92%E5%A4%A9%E6%B0%94%E4%B8%8B%E4%BF%9D%E4%BE%9B%E4%BF%9D%E7%95%85%E9%BB%91%E7%A7%91%E6%8A%80%23&t=31&band_rank=3&Refer=top)<br />
 4. [王俊凯 都说了少关注我年轻的时候](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E9%83%BD%E8%AF%B4%E4%BA%86%E5%B0%91%E5%85%B3%E6%B3%A8%E6%88%91%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%97%B6%E5%80%99&t=31&band_rank=4&Refer=top)<br />
 5. [王鹤棣对接否认与迪丽热巴合作](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AF%B9%E6%8E%A5%E5%90%A6%E8%AE%A4%E4%B8%8E%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%90%88%E4%BD%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [肖战 东方卫视跨年](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4&t=31&band_rank=6&Refer=top)<br />
 7. [谢娜透露三个女儿性格](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E9%80%8F%E9%9C%B2%E4%B8%89%E4%B8%AA%E5%A5%B3%E5%84%BF%E6%80%A7%E6%A0%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [女大学生入职当天被怂恿整容](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%85%A5%E8%81%8C%E5%BD%93%E5%A4%A9%E8%A2%AB%E6%80%82%E6%81%BF%E6%95%B4%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [厚底雪地靴](https://s.weibo.com/weibo?q=%E5%8E%9A%E5%BA%95%E9%9B%AA%E5%9C%B0%E9%9D%B4&t=31&band_rank=9&Refer=top)<br />
+8. [天太冷不洗脸会让皮肤变好吗](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%A4%AA%E5%86%B7%E4%B8%8D%E6%B4%97%E8%84%B8%E4%BC%9A%E8%AE%A9%E7%9A%AE%E8%82%A4%E5%8F%98%E5%A5%BD%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [女大学生入职当天被怂恿整容](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%85%A5%E8%81%8C%E5%BD%93%E5%A4%A9%E8%A2%AB%E6%80%82%E6%81%BF%E6%95%B4%E5%AE%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
