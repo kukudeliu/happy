@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 09:20:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 09:21:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [烟台大学 冷流雪](https://s.weibo.com/weibo?q=%E7%83%9F%E5%8F%B0%E5%A4%A7%E5%AD%A6%20%E5%86%B7%E6%B5%81%E9%9B%AA&t=31&band_rank=6&Refer=top)<br />
 7. [六种越吃越胖的伪粗粮](https://s.weibo.com/weibo?q=%E5%85%AD%E7%A7%8D%E8%B6%8A%E5%90%83%E8%B6%8A%E8%83%96%E7%9A%84%E4%BC%AA%E7%B2%97%E7%B2%AE&t=31&band_rank=7&Refer=top)<br />
 8. [女子起诉父母不肯出钱给自己出国留学](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B5%B7%E8%AF%89%E7%88%B6%E6%AF%8D%E4%B8%8D%E8%82%AF%E5%87%BA%E9%92%B1%E7%BB%99%E8%87%AA%E5%B7%B1%E5%87%BA%E5%9B%BD%E7%95%99%E5%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [网传爱尔眼科一医生捶击患者头部](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E4%B8%80%E5%8C%BB%E7%94%9F%E6%8D%B6%E5%87%BB%E6%82%A3%E8%80%85%E5%A4%B4%E9%83%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [消防员零下18度灭火被冻出冰铠甲](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E9%9B%B6%E4%B8%8B18%E5%BA%A6%E7%81%AD%E7%81%AB%E8%A2%AB%E5%86%BB%E5%87%BA%E5%86%B0%E9%93%A0%E7%94%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
