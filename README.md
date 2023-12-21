@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 07:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 07:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [倪妮 新中式羽绒服](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%20%E6%96%B0%E4%B8%AD%E5%BC%8F%E7%BE%BD%E7%BB%92%E6%9C%8D&t=31&band_rank=6&Refer=top)<br />
 7. [哑舍 刘宇宁](https://s.weibo.com/weibo?q=%E5%93%91%E8%88%8D%20%E5%88%98%E5%AE%87%E5%AE%81&t=31&band_rank=7&Refer=top)<br />
 8. [女孩零下18度光手跑步险截肢](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%9B%B6%E4%B8%8B18%E5%BA%A6%E5%85%89%E6%89%8B%E8%B7%91%E6%AD%A5%E9%99%A9%E6%88%AA%E8%82%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵今麦 化妆师](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%BB%8A%E9%BA%A6%20%E5%8C%96%E5%A6%86%E5%B8%88&t=31&band_rank=9&Refer=top)<br />
+9. [爱尔眼科集团通报](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E9%9B%86%E5%9B%A2%E9%80%9A%E6%8A%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
