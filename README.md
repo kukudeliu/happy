@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 12:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 12:33:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [北大门禁系统的改变](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E9%97%A8%E7%A6%81%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%94%B9%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特朗普还能竞选总统吗？拜登回应](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%98%E8%83%BD%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F%E5%90%97%EF%BC%9F%E6%8B%9C%E7%99%BB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [震后被泥沙淹没的村庄：泥浆结冰](https://www.baidu.com/s?wd=%E9%9C%87%E5%90%8E%E8%A2%AB%E6%B3%A5%E6%B2%99%E6%B7%B9%E6%B2%A1%E7%9A%84%E6%9D%91%E5%BA%84%EF%BC%9A%E6%B3%A5%E6%B5%86%E7%BB%93%E5%86%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [商业银行存款利率最高飙至6%](https://www.baidu.com/s?wd=%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E6%9C%80%E9%AB%98%E9%A3%99%E8%87%B36%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医生不建议年轻人没问题就推拿](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%B2%A1%E9%97%AE%E9%A2%98%E5%B0%B1%E6%8E%A8%E6%8B%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [得了胆结石不能吃鸡蛋？](https://www.baidu.com/s?wd=%E5%BE%97%E4%BA%86%E8%83%86%E7%BB%93%E7%9F%B3%E4%B8%8D%E8%83%BD%E5%90%83%E9%B8%A1%E8%9B%8B%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [北大门禁系统的改变](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E9%97%A8%E7%A6%81%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%94%B9%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特朗普还能竞选总统吗？拜登回应](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%98%E8%83%BD%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F%E5%90%97%EF%BC%9F%E6%8B%9C%E7%99%BB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [震后被泥沙淹没的村庄：泥浆结冰](https://www.baidu.com/s?wd=%E9%9C%87%E5%90%8E%E8%A2%AB%E6%B3%A5%E6%B2%99%E6%B7%B9%E6%B2%A1%E7%9A%84%E6%9D%91%E5%BA%84%EF%BC%9A%E6%B3%A5%E6%B5%86%E7%BB%93%E5%86%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [商业银行存款利率最高飙至6%](https://www.baidu.com/s?wd=%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E6%9C%80%E9%AB%98%E9%A3%99%E8%87%B36%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医生不建议年轻人没问题就推拿](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%B2%A1%E9%97%AE%E9%A2%98%E5%B0%B1%E6%8E%A8%E6%8B%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [得了胆结石不能吃鸡蛋？](https://www.baidu.com/s?wd=%E5%BE%97%E4%BA%86%E8%83%86%E7%BB%93%E7%9F%B3%E4%B8%8D%E8%83%BD%E5%90%83%E9%B8%A1%E8%9B%8B%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
