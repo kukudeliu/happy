@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 16:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 16:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [肖战 东方卫视跨年](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4&t=31&band_rank=6&Refer=top)<br />
 7. [谢娜透露三个女儿性格](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E9%80%8F%E9%9C%B2%E4%B8%89%E4%B8%AA%E5%A5%B3%E5%84%BF%E6%80%A7%E6%A0%BC%23&t=31&band_rank=7&Refer=top)<br />
 8. [东方卫视跨年票价](https://s.weibo.com/weibo?q=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E7%A5%A8%E4%BB%B7&t=31&band_rank=8&Refer=top)<br />
-9. [天太冷不洗脸会让皮肤变好吗](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%A4%AA%E5%86%B7%E4%B8%8D%E6%B4%97%E8%84%B8%E4%BC%9A%E8%AE%A9%E7%9A%AE%E8%82%A4%E5%8F%98%E5%A5%BD%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [厚底雪地靴](https://s.weibo.com/weibo?q=%E5%8E%9A%E5%BA%95%E9%9B%AA%E5%9C%B0%E9%9D%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
