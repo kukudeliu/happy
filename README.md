@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 17:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 17:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男主播直播喝白酒时死亡](https://s.weibo.com/weibo?q=%23%E7%94%B7%E4%B8%BB%E6%92%AD%E7%9B%B4%E6%92%AD%E5%96%9D%E7%99%BD%E9%85%92%E6%97%B6%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [降息](https://s.weibo.com/weibo?q=%E9%99%8D%E6%81%AF&t=31&band_rank=7&Refer=top)<br />
 8. [肖战 跨年](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E8%B7%A8%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
-9. [王俊凯 都说了少关注我年轻的时候](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E9%83%BD%E8%AF%B4%E4%BA%86%E5%B0%91%E5%85%B3%E6%B3%A8%E6%88%91%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%97%B6%E5%80%99&t=31&band_rank=9&Refer=top)<br />
+9. [情绪稳定 不期待不假设不强求](https://s.weibo.com/weibo?q=%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%20%E4%B8%8D%E6%9C%9F%E5%BE%85%E4%B8%8D%E5%81%87%E8%AE%BE%E4%B8%8D%E5%BC%BA%E6%B1%82&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
