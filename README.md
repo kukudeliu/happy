@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 16:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 16:38:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [王鹤棣对接否认与迪丽热巴合作](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AF%B9%E6%8E%A5%E5%90%A6%E8%AE%A4%E4%B8%8E%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%90%88%E4%BD%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [萌兰扣盆之前居然还叹了口气](https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%85%B0%E6%89%A3%E7%9B%86%E4%B9%8B%E5%89%8D%E5%B1%85%E7%84%B6%E8%BF%98%E5%8F%B9%E4%BA%86%E5%8F%A3%E6%B0%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [厚底雪地靴](https://s.weibo.com/weibo?q=%E5%8E%9A%E5%BA%95%E9%9B%AA%E5%9C%B0%E9%9D%B4&t=31&band_rank=7&Refer=top)<br />
-8. [东方卫视跨年门票](https://s.weibo.com/weibo?q=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E9%97%A8%E7%A5%A8&t=31&band_rank=8&Refer=top)<br />
-9. [天太冷不洗脸会让皮肤变好吗](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%A4%AA%E5%86%B7%E4%B8%8D%E6%B4%97%E8%84%B8%E4%BC%9A%E8%AE%A9%E7%9A%AE%E8%82%A4%E5%8F%98%E5%A5%BD%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [鹭卓换头像](https://s.weibo.com/weibo?q=%E9%B9%AD%E5%8D%93%E6%8D%A2%E5%A4%B4%E5%83%8F&t=31&band_rank=8&Refer=top)<br />
+9. [东方卫视跨年门票](https://s.weibo.com/weibo?q=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E9%97%A8%E7%A5%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
