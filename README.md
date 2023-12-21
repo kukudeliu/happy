@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 16:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 16:31:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [探访极寒天气下保供保畅黑科技](https://s.weibo.com/weibo?q=%23%E6%8E%A2%E8%AE%BF%E6%9E%81%E5%AF%92%E5%A4%A9%E6%B0%94%E4%B8%8B%E4%BF%9D%E4%BE%9B%E4%BF%9D%E7%95%85%E9%BB%91%E7%A7%91%E6%8A%80%23&t=31&band_rank=3&Refer=top)<br />
 4. [王俊凯 都说了少关注我年轻的时候](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E9%83%BD%E8%AF%B4%E4%BA%86%E5%B0%91%E5%85%B3%E6%B3%A8%E6%88%91%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%97%B6%E5%80%99&t=31&band_rank=4&Refer=top)<br />
 5. [王鹤棣对接否认与迪丽热巴合作](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AF%B9%E6%8E%A5%E5%90%A6%E8%AE%A4%E4%B8%8E%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%90%88%E4%BD%9C%23&t=31&band_rank=5&Refer=top)<br />
-6. [东方卫视跨年门票](https://s.weibo.com/weibo?q=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E9%97%A8%E7%A5%A8&t=31&band_rank=6&Refer=top)<br />
-7. [萌兰扣盆之前居然还叹了口气](https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%85%B0%E6%89%A3%E7%9B%86%E4%B9%8B%E5%89%8D%E5%B1%85%E7%84%B6%E8%BF%98%E5%8F%B9%E4%BA%86%E5%8F%A3%E6%B0%94%23&t=31&band_rank=7&Refer=top)<br />
+6. [萌兰扣盆之前居然还叹了口气](https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%85%B0%E6%89%A3%E7%9B%86%E4%B9%8B%E5%89%8D%E5%B1%85%E7%84%B6%E8%BF%98%E5%8F%B9%E4%BA%86%E5%8F%A3%E6%B0%94%23&t=31&band_rank=6&Refer=top)<br />
+7. [东方卫视跨年门票](https://s.weibo.com/weibo?q=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E9%97%A8%E7%A5%A8&t=31&band_rank=7&Refer=top)<br />
 8. [谢娜透露三个女儿性格](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E9%80%8F%E9%9C%B2%E4%B8%89%E4%B8%AA%E5%A5%B3%E5%84%BF%E6%80%A7%E6%A0%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [东方卫视跨年](https://s.weibo.com/weibo?q=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4&t=31&band_rank=9&Refer=top)<br />
+9. [天太冷不洗脸会让皮肤变好吗](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%A4%AA%E5%86%B7%E4%B8%8D%E6%B4%97%E8%84%B8%E4%BC%9A%E8%AE%A9%E7%9A%AE%E8%82%A4%E5%8F%98%E5%A5%BD%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
