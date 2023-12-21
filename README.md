@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 14:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 14:10:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [推特崩了](https://s.weibo.com/weibo?q=%E6%8E%A8%E7%89%B9%E5%B4%A9%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [何猷君 柯哀党](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E6%9F%AF%E5%93%80%E5%85%9A&t=31&band_rank=5&Refer=top)<br />
 6. [徐志胜 演男主](https://s.weibo.com/weibo?q=%E5%BE%90%E5%BF%97%E8%83%9C%20%E6%BC%94%E7%94%B7%E4%B8%BB&t=31&band_rank=6&Refer=top)<br />
-7. [男子爬武功山被佛光追随](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%88%AC%E6%AD%A6%E5%8A%9F%E5%B1%B1%E8%A2%AB%E4%BD%9B%E5%85%89%E8%BF%BD%E9%9A%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [店主察觉外卖备注像遗言救下一命](https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E5%AF%9F%E8%A7%89%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E5%83%8F%E9%81%97%E8%A8%80%E6%95%91%E4%B8%8B%E4%B8%80%E5%91%BD%23&t=31&band_rank=8&Refer=top)<br />
+7. [店主察觉外卖备注像遗言救下一命](https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E5%AF%9F%E8%A7%89%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E5%83%8F%E9%81%97%E8%A8%80%E6%95%91%E4%B8%8B%E4%B8%80%E5%91%BD%23&t=31&band_rank=7&Refer=top)<br />
+8. [男子爬武功山被佛光追随](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%88%AC%E6%AD%A6%E5%8A%9F%E5%B1%B1%E8%A2%AB%E4%BD%9B%E5%85%89%E8%BF%BD%E9%9A%8F%23&t=31&band_rank=8&Refer=top)<br />
 9. [知情者称周海媚骨灰将安葬在香港](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E8%80%85%E7%A7%B0%E5%91%A8%E6%B5%B7%E5%AA%9A%E9%AA%A8%E7%81%B0%E5%B0%86%E5%AE%89%E8%91%AC%E5%9C%A8%E9%A6%99%E6%B8%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [女网红就地震言论道歉并捐5200](https://www.baidu.com/s?wd=%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%B0%B1%E5%9C%B0%E9%9C%87%E8%A8%80%E8%AE%BA%E9%81%93%E6%AD%89%E5%B9%B6%E6%8D%905200&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [积石山凌晨再地震 居民睡梦中被惊醒](https://www.baidu.com/s?wd=%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%87%8C%E6%99%A8%E5%86%8D%E5%9C%B0%E9%9C%87+%E5%B1%85%E6%B0%91%E7%9D%A1%E6%A2%A6%E4%B8%AD%E8%A2%AB%E6%83%8A%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [烟台威海遭遇极端性冷流暴雪](https://www.baidu.com/s?wd=%E7%83%9F%E5%8F%B0%E5%A8%81%E6%B5%B7%E9%81%AD%E9%81%87%E6%9E%81%E7%AB%AF%E6%80%A7%E5%86%B7%E6%B5%81%E6%9A%B4%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [影评人评酱园弄番位之争](https://www.baidu.com/s?wd=%E5%BD%B1%E8%AF%84%E4%BA%BA%E8%AF%84%E9%85%B1%E5%9B%AD%E5%BC%84%E7%95%AA%E4%BD%8D%E4%B9%8B%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [黑龙江一煤矿发生事故致12死13伤](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E7%85%A4%E7%9F%BF%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85%E8%87%B412%E6%AD%BB13%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [得了胆结石不能吃鸡蛋？](https://www.baidu.com/s?wd=%E5%BE%97%E4%BA%86%E8%83%86%E7%BB%93%E7%9F%B3%E4%B8%8D%E8%83%BD%E5%90%83%E9%B8%A1%E8%9B%8B%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女网红就地震言论道歉并捐5200](https://www.baidu.com/s?wd=%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%B0%B1%E5%9C%B0%E9%9C%87%E8%A8%80%E8%AE%BA%E9%81%93%E6%AD%89%E5%B9%B6%E6%8D%905200&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [积石山凌晨再地震 居民睡梦中被惊醒](https://www.baidu.com/s?wd=%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%87%8C%E6%99%A8%E5%86%8D%E5%9C%B0%E9%9C%87+%E5%B1%85%E6%B0%91%E7%9D%A1%E6%A2%A6%E4%B8%AD%E8%A2%AB%E6%83%8A%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [烟台威海遭遇极端性冷流暴雪](https://www.baidu.com/s?wd=%E7%83%9F%E5%8F%B0%E5%A8%81%E6%B5%B7%E9%81%AD%E9%81%87%E6%9E%81%E7%AB%AF%E6%80%A7%E5%86%B7%E6%B5%81%E6%9A%B4%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [影评人评酱园弄番位之争](https://www.baidu.com/s?wd=%E5%BD%B1%E8%AF%84%E4%BA%BA%E8%AF%84%E9%85%B1%E5%9B%AD%E5%BC%84%E7%95%AA%E4%BD%8D%E4%B9%8B%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [黑龙江一煤矿发生事故致12死13伤](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E7%85%A4%E7%9F%BF%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85%E8%87%B412%E6%AD%BB13%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [得了胆结石不能吃鸡蛋？](https://www.baidu.com/s?wd=%E5%BE%97%E4%BA%86%E8%83%86%E7%BB%93%E7%9F%B3%E4%B8%8D%E8%83%BD%E5%90%83%E9%B8%A1%E8%9B%8B%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
