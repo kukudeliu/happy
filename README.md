@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 15:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 15:54:02</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [黑龙江一煤矿发生事故致12死13伤](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E7%85%A4%E7%9F%BF%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85%E8%87%B412%E6%AD%BB13%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [你的肩膀 我的依靠](https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E8%82%A9%E8%86%80+%E6%88%91%E7%9A%84%E4%BE%9D%E9%9D%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女大学生入职当天被怂恿整容](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%85%A5%E8%81%8C%E5%BD%93%E5%A4%A9%E8%A2%AB%E6%80%82%E6%81%BF%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中百集团及多名高管被警示](https://www.baidu.com/s?wd=%E4%B8%AD%E7%99%BE%E9%9B%86%E5%9B%A2%E5%8F%8A%E5%A4%9A%E5%90%8D%E9%AB%98%E7%AE%A1%E8%A2%AB%E8%AD%A6%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [烟台威海遭遇极端性冷流暴雪](https://www.baidu.com/s?wd=%E7%83%9F%E5%8F%B0%E5%A8%81%E6%B5%B7%E9%81%AD%E9%81%87%E6%9E%81%E7%AB%AF%E6%80%A7%E5%86%B7%E6%B5%81%E6%9A%B4%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [胡锡进称股市应该比房市先起来](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E7%A7%B0%E8%82%A1%E5%B8%82%E5%BA%94%E8%AF%A5%E6%AF%94%E6%88%BF%E5%B8%82%E5%85%88%E8%B5%B7%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [景区回应挖掘机打滑撞向人群](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E6%8C%96%E6%8E%98%E6%9C%BA%E6%89%93%E6%BB%91%E6%92%9E%E5%90%91%E4%BA%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#史记2023#](https://www.baidu.com/s?wd=%23%E5%8F%B2%E8%AE%B02023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [得了胆结石不能吃鸡蛋？](https://www.baidu.com/s?wd=%E5%BE%97%E4%BA%86%E8%83%86%E7%BB%93%E7%9F%B3%E4%B8%8D%E8%83%BD%E5%90%83%E9%B8%A1%E8%9B%8B%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [黑龙江一煤矿发生事故致12死13伤](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E7%85%A4%E7%9F%BF%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85%E8%87%B412%E6%AD%BB13%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [你的肩膀 我的依靠](https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E8%82%A9%E8%86%80+%E6%88%91%E7%9A%84%E4%BE%9D%E9%9D%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女大学生入职当天被怂恿整容](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%85%A5%E8%81%8C%E5%BD%93%E5%A4%A9%E8%A2%AB%E6%80%82%E6%81%BF%E6%95%B4%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中百集团及多名高管被警示](https://www.baidu.com/s?wd=%E4%B8%AD%E7%99%BE%E9%9B%86%E5%9B%A2%E5%8F%8A%E5%A4%9A%E5%90%8D%E9%AB%98%E7%AE%A1%E8%A2%AB%E8%AD%A6%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [烟台威海遭遇极端性冷流暴雪](https://www.baidu.com/s?wd=%E7%83%9F%E5%8F%B0%E5%A8%81%E6%B5%B7%E9%81%AD%E9%81%87%E6%9E%81%E7%AB%AF%E6%80%A7%E5%86%B7%E6%B5%81%E6%9A%B4%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [胡锡进称股市应该比房市先起来](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E7%A7%B0%E8%82%A1%E5%B8%82%E5%BA%94%E8%AF%A5%E6%AF%94%E6%88%BF%E5%B8%82%E5%85%88%E8%B5%B7%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [景区回应挖掘机打滑撞向人群](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E6%8C%96%E6%8E%98%E6%9C%BA%E6%89%93%E6%BB%91%E6%92%9E%E5%90%91%E4%BA%BA%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#史记2023#](https://www.baidu.com/s?wd=%23%E5%8F%B2%E8%AE%B02023%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [得了胆结石不能吃鸡蛋？](https://www.baidu.com/s?wd=%E5%BE%97%E4%BA%86%E8%83%86%E7%BB%93%E7%9F%B3%E4%B8%8D%E8%83%BD%E5%90%83%E9%B8%A1%E8%9B%8B%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
