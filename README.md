@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 13:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-21 13:55:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [地震来临前狗狗将村民带到安全地带](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E6%9D%A5%E4%B8%B4%E5%89%8D%E7%8B%97%E7%8B%97%E5%B0%86%E6%9D%91%E6%B0%91%E5%B8%A6%E5%88%B0%E5%AE%89%E5%85%A8%E5%9C%B0%E5%B8%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [考研女生户外背书贴5个暖宝宝御寒](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%A5%B3%E7%94%9F%E6%88%B7%E5%A4%96%E8%83%8C%E4%B9%A6%E8%B4%B45%E4%B8%AA%E6%9A%96%E5%AE%9D%E5%AE%9D%E5%BE%A1%E5%AF%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [民警买下全部豌豆尖让老人去医院](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E4%B9%B0%E4%B8%8B%E5%85%A8%E9%83%A8%E8%B1%8C%E8%B1%86%E5%B0%96%E8%AE%A9%E8%80%81%E4%BA%BA%E5%8E%BB%E5%8C%BB%E9%99%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [中止对台湾地区部分产品关税减让](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%AD%A2%E5%AF%B9%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E9%83%A8%E5%88%86%E4%BA%A7%E5%93%81%E5%85%B3%E7%A8%8E%E5%87%8F%E8%AE%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [北大正有序推进开放](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%AD%A3%E6%9C%89%E5%BA%8F%E6%8E%A8%E8%BF%9B%E5%BC%80%E6%94%BE%23&t=31&band_rank=9&Refer=top)<br />
+8. [北大正有序推进开放](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%AD%A3%E6%9C%89%E5%BA%8F%E6%8E%A8%E8%BF%9B%E5%BC%80%E6%94%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [中止对台湾地区部分产品关税减让](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%AD%A2%E5%AF%B9%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E9%83%A8%E5%88%86%E4%BA%A7%E5%93%81%E5%85%B3%E7%A8%8E%E5%87%8F%E8%AE%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
