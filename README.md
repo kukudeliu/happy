@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 00:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 00:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女孩零下18度光手跑步险截肢](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%9B%B6%E4%B8%8B18%E5%BA%A6%E5%85%89%E6%89%8B%E8%B7%91%E6%AD%A5%E9%99%A9%E6%88%AA%E8%82%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [7小时睡眠或降低死亡率](https://s.weibo.com/weibo?q=%237%E5%B0%8F%E6%97%B6%E7%9D%A1%E7%9C%A0%E6%88%96%E9%99%8D%E4%BD%8E%E6%AD%BB%E4%BA%A1%E7%8E%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [张婧仪 财阀千金](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A9%A7%E4%BB%AA%20%E8%B4%A2%E9%98%80%E5%8D%83%E9%87%91&t=31&band_rank=8&Refer=top)<br />
-9. [大二女生卖男士保暖衣月入两万](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BA%8C%E5%A5%B3%E7%94%9F%E5%8D%96%E7%94%B7%E5%A3%AB%E4%BF%9D%E6%9A%96%E8%A1%A3%E6%9C%88%E5%85%A5%E4%B8%A4%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [外国人对亚洲人有多信任](https://s.weibo.com/weibo?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%AF%B9%E4%BA%9A%E6%B4%B2%E4%BA%BA%E6%9C%89%E5%A4%9A%E4%BF%A1%E4%BB%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
