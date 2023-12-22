@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 14:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 14:05:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [北大天才柳智宇还俗后宣布结婚](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%A4%A9%E6%89%8D%E6%9F%B3%E6%99%BA%E5%AE%87%E8%BF%98%E4%BF%97%E5%90%8E%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [当地回应女老师被老人开老头乐撞死](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E5%A5%B3%E8%80%81%E5%B8%88%E8%A2%AB%E8%80%81%E4%BA%BA%E5%BC%80%E8%80%81%E5%A4%B4%E4%B9%90%E6%92%9E%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [腾讯跌超6%](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%B7%8C%E8%B6%856%25%23&t=31&band_rank=8&Refer=top)<br />
-9. [吃雪糕时掉一块致人摔倒伤残](https://s.weibo.com/weibo?q=%23%E5%90%83%E9%9B%AA%E7%B3%95%E6%97%B6%E6%8E%89%E4%B8%80%E5%9D%97%E8%87%B4%E4%BA%BA%E6%91%94%E5%80%92%E4%BC%A4%E6%AE%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [上个班没必要扭扭捏捏](https://s.weibo.com/weibo?q=%E4%B8%8A%E4%B8%AA%E7%8F%AD%E6%B2%A1%E5%BF%85%E8%A6%81%E6%89%AD%E6%89%AD%E6%8D%8F%E6%8D%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
