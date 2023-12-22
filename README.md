@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 14:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 14:14:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [为何“冬至大如年”？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E2%80%9C%E5%86%AC%E8%87%B3%E5%A4%A7%E5%A6%82%E5%B9%B4%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [22岁老师被7旬老人开老头乐撞死](https://www.baidu.com/s?wd=22%E5%B2%81%E8%80%81%E5%B8%88%E8%A2%AB7%E6%97%AC%E8%80%81%E4%BA%BA%E5%BC%80%E8%80%81%E5%A4%B4%E4%B9%90%E6%92%9E%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [消防员扒开泥浆找到遇难一家五口](https://www.baidu.com/s?wd=%E6%B6%88%E9%98%B2%E5%91%98%E6%89%92%E5%BC%80%E6%B3%A5%E6%B5%86%E6%89%BE%E5%88%B0%E9%81%87%E9%9A%BE%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [钱塘江被冻住了](https://www.baidu.com/s?wd=%E9%92%B1%E5%A1%98%E6%B1%9F%E8%A2%AB%E5%86%BB%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [脆皮年轻人整顿足疗推拿店](https://www.baidu.com/s?wd=%E8%84%86%E7%9A%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%95%B4%E9%A1%BF%E8%B6%B3%E7%96%97%E6%8E%A8%E6%8B%BF%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [救灾现场 省委书记与群众家属连线](https://www.baidu.com/s?wd=%E6%95%91%E7%81%BE%E7%8E%B0%E5%9C%BA+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E4%B8%8E%E7%BE%A4%E4%BC%97%E5%AE%B6%E5%B1%9E%E8%BF%9E%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [钱塘江被冻住了](https://www.baidu.com/s?wd=%E9%92%B1%E5%A1%98%E6%B1%9F%E8%A2%AB%E5%86%BB%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛辟谣洒水车雪天上路洒水](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E8%BE%9F%E8%B0%A3%E6%B4%92%E6%B0%B4%E8%BD%A6%E9%9B%AA%E5%A4%A9%E4%B8%8A%E8%B7%AF%E6%B4%92%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [为何“冬至大如年”？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E2%80%9C%E5%86%AC%E8%87%B3%E5%A4%A7%E5%A6%82%E5%B9%B4%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [22岁老师被7旬老人开老头乐撞死](https://www.baidu.com/s?wd=22%E5%B2%81%E8%80%81%E5%B8%88%E8%A2%AB7%E6%97%AC%E8%80%81%E4%BA%BA%E5%BC%80%E8%80%81%E5%A4%B4%E4%B9%90%E6%92%9E%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [消防员扒开泥浆找到遇难一家五口](https://www.baidu.com/s?wd=%E6%B6%88%E9%98%B2%E5%91%98%E6%89%92%E5%BC%80%E6%B3%A5%E6%B5%86%E6%89%BE%E5%88%B0%E9%81%87%E9%9A%BE%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [钱塘江被冻住了](https://www.baidu.com/s?wd=%E9%92%B1%E5%A1%98%E6%B1%9F%E8%A2%AB%E5%86%BB%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [脆皮年轻人整顿足疗推拿店](https://www.baidu.com/s?wd=%E8%84%86%E7%9A%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%95%B4%E9%A1%BF%E8%B6%B3%E7%96%97%E6%8E%A8%E6%8B%BF%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [救灾现场 省委书记与群众家属连线](https://www.baidu.com/s?wd=%E6%95%91%E7%81%BE%E7%8E%B0%E5%9C%BA+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E4%B8%8E%E7%BE%A4%E4%BC%97%E5%AE%B6%E5%B1%9E%E8%BF%9E%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [钱塘江被冻住了](https://www.baidu.com/s?wd=%E9%92%B1%E5%A1%98%E6%B1%9F%E8%A2%AB%E5%86%BB%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛辟谣洒水车雪天上路洒水](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E8%BE%9F%E8%B0%A3%E6%B4%92%E6%B0%B4%E8%BD%A6%E9%9B%AA%E5%A4%A9%E4%B8%8A%E8%B7%AF%E6%B4%92%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
