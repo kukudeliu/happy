@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 02:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 02:19:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [仰起头！看见2023的中国](https://www.baidu.com/s?wd=%E4%BB%B0%E8%B5%B7%E5%A4%B4%EF%BC%81%E7%9C%8B%E8%A7%812023%E7%9A%84%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [柳智宇收到打赏问税务局要不要交税](https://www.baidu.com/s?wd=%E6%9F%B3%E6%99%BA%E5%AE%87%E6%94%B6%E5%88%B0%E6%89%93%E8%B5%8F%E9%97%AE%E7%A8%8E%E5%8A%A1%E5%B1%80%E8%A6%81%E4%B8%8D%E8%A6%81%E4%BA%A4%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [爷爷奶奶火灾中为救11岁孙女遇难](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E7%81%AB%E7%81%BE%E4%B8%AD%E4%B8%BA%E6%95%9111%E5%B2%81%E5%AD%99%E5%A5%B3%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [半裸女子脚踩长城浮雕被吐槽](https://www.baidu.com/s?wd=%E5%8D%8A%E8%A3%B8%E5%A5%B3%E5%AD%90%E8%84%9A%E8%B8%A9%E9%95%BF%E5%9F%8E%E6%B5%AE%E9%9B%95%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [青海一家5口遇难大人紧紧护住小孩](https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E4%B8%80%E5%AE%B65%E5%8F%A3%E9%81%87%E9%9A%BE%E5%A4%A7%E4%BA%BA%E7%B4%A7%E7%B4%A7%E6%8A%A4%E4%BD%8F%E5%B0%8F%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [员工请婚假遭拒自行回家被开除](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E8%AF%B7%E5%A9%9A%E5%81%87%E9%81%AD%E6%8B%92%E8%87%AA%E8%A1%8C%E5%9B%9E%E5%AE%B6%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [半裸女子脚踩长城浮雕被吐槽](https://www.baidu.com/s?wd=%E5%8D%8A%E8%A3%B8%E5%A5%B3%E5%AD%90%E8%84%9A%E8%B8%A9%E9%95%BF%E5%9F%8E%E6%B5%AE%E9%9B%95%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [连降暴雪动物园只剩长颈鹿露头?](https://www.baidu.com/s?wd=%E8%BF%9E%E9%99%8D%E6%9A%B4%E9%9B%AA%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%8F%AA%E5%89%A9%E9%95%BF%E9%A2%88%E9%B9%BF%E9%9C%B2%E5%A4%B4%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [仰起头！看见2023的中国](https://www.baidu.com/s?wd=%E4%BB%B0%E8%B5%B7%E5%A4%B4%EF%BC%81%E7%9C%8B%E8%A7%812023%E7%9A%84%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [柳智宇收到打赏问税务局要不要交税](https://www.baidu.com/s?wd=%E6%9F%B3%E6%99%BA%E5%AE%87%E6%94%B6%E5%88%B0%E6%89%93%E8%B5%8F%E9%97%AE%E7%A8%8E%E5%8A%A1%E5%B1%80%E8%A6%81%E4%B8%8D%E8%A6%81%E4%BA%A4%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [爷爷奶奶火灾中为救11岁孙女遇难](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E7%81%AB%E7%81%BE%E4%B8%AD%E4%B8%BA%E6%95%9111%E5%B2%81%E5%AD%99%E5%A5%B3%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [半裸女子脚踩长城浮雕被吐槽](https://www.baidu.com/s?wd=%E5%8D%8A%E8%A3%B8%E5%A5%B3%E5%AD%90%E8%84%9A%E8%B8%A9%E9%95%BF%E5%9F%8E%E6%B5%AE%E9%9B%95%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [青海一家5口遇难大人紧紧护住小孩](https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E4%B8%80%E5%AE%B65%E5%8F%A3%E9%81%87%E9%9A%BE%E5%A4%A7%E4%BA%BA%E7%B4%A7%E7%B4%A7%E6%8A%A4%E4%BD%8F%E5%B0%8F%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [员工请婚假遭拒自行回家被开除](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E8%AF%B7%E5%A9%9A%E5%81%87%E9%81%AD%E6%8B%92%E8%87%AA%E8%A1%8C%E5%9B%9E%E5%AE%B6%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [半裸女子脚踩长城浮雕被吐槽](https://www.baidu.com/s?wd=%E5%8D%8A%E8%A3%B8%E5%A5%B3%E5%AD%90%E8%84%9A%E8%B8%A9%E9%95%BF%E5%9F%8E%E6%B5%AE%E9%9B%95%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [连降暴雪动物园只剩长颈鹿露头?](https://www.baidu.com/s?wd=%E8%BF%9E%E9%99%8D%E6%9A%B4%E9%9B%AA%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%8F%AA%E5%89%A9%E9%95%BF%E9%A2%88%E9%B9%BF%E9%9C%B2%E5%A4%B4%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
