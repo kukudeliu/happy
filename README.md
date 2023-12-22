@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 17:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 17:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [种地吧捉迷藏版冬至直播](https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%E6%8D%89%E8%BF%B7%E8%97%8F%E7%89%88%E5%86%AC%E8%87%B3%E7%9B%B4%E6%92%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [建议冬至放一天假的理由](https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%86%AC%E8%87%B3%E6%94%BE%E4%B8%80%E5%A4%A9%E5%81%87%E7%9A%84%E7%90%86%E7%94%B1&t=31&band_rank=7&Refer=top)<br />
 8. [周也 战损妆](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E6%88%98%E6%8D%9F%E5%A6%86&t=31&band_rank=8&Refer=top)<br />
-9. [iPhone15和iPhone14Pro谁更值](https://s.weibo.com/weibo?q=%23iPhone15%E5%92%8CiPhone14Pro%E8%B0%81%E6%9B%B4%E5%80%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [地震已致148人死亡](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4148%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,8 +22,8 @@
 3. [青海一家5口遇难大人紧紧护住小孩](https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E4%B8%80%E5%AE%B65%E5%8F%A3%E9%81%87%E9%9A%BE%E5%A4%A7%E4%BA%BA%E7%B4%A7%E7%B4%A7%E6%8A%A4%E4%BD%8F%E5%B0%8F%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [固本开新 行稳致远](https://www.baidu.com/s?wd=%E5%9B%BA%E6%9C%AC%E5%BC%80%E6%96%B0+%E8%A1%8C%E7%A8%B3%E8%87%B4%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [脆皮年轻人整顿足疗推拿店](https://www.baidu.com/s?wd=%E8%84%86%E7%9A%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%95%B4%E9%A1%BF%E8%B6%B3%E7%96%97%E6%8E%A8%E6%8B%BF%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子捡到手机索要千元 不给就扔河里](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8D%A1%E5%88%B0%E6%89%8B%E6%9C%BA%E7%B4%A2%E8%A6%81%E5%8D%83%E5%85%83+%E4%B8%8D%E7%BB%99%E5%B0%B1%E6%89%94%E6%B2%B3%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [市民多领养老保险待遇去世后被催还](https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E5%A4%9A%E9%A2%86%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E5%BE%85%E9%81%87%E5%8E%BB%E4%B8%96%E5%90%8E%E8%A2%AB%E5%82%AC%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [市民多领养老保险待遇去世后被催还](https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E5%A4%9A%E9%A2%86%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E5%BE%85%E9%81%87%E5%8E%BB%E4%B8%96%E5%90%8E%E8%A2%AB%E5%82%AC%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [22岁老师被7旬老人开老头乐撞死](https://www.baidu.com/s?wd=22%E5%B2%81%E8%80%81%E5%B8%88%E8%A2%AB7%E6%97%AC%E8%80%81%E4%BA%BA%E5%BC%80%E8%80%81%E5%A4%B4%E4%B9%90%E6%92%9E%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [震区一面贴39张奖状墙屹立不倒](https://www.baidu.com/s?wd=%E9%9C%87%E5%8C%BA%E4%B8%80%E9%9D%A2%E8%B4%B439%E5%BC%A0%E5%A5%96%E7%8A%B6%E5%A2%99%E5%B1%B9%E7%AB%8B%E4%B8%8D%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海发行本地老年公交卡？](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%8F%91%E8%A1%8C%E6%9C%AC%E5%9C%B0%E8%80%81%E5%B9%B4%E5%85%AC%E4%BA%A4%E5%8D%A1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [青海一家5口遇难大人紧紧护住小孩](https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E4%B8%80%E5%AE%B65%E5%8F%A3%E9%81%87%E9%9A%BE%E5%A4%A7%E4%BA%BA%E7%B4%A7%E7%B4%A7%E6%8A%A4%E4%BD%8F%E5%B0%8F%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [固本开新 行稳致远](https://www.baidu.com/s?wd=%E5%9B%BA%E6%9C%AC%E5%BC%80%E6%96%B0+%E8%A1%8C%E7%A8%B3%E8%87%B4%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [脆皮年轻人整顿足疗推拿店](https://www.baidu.com/s?wd=%E8%84%86%E7%9A%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%95%B4%E9%A1%BF%E8%B6%B3%E7%96%97%E6%8E%A8%E6%8B%BF%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子捡到手机索要千元 不给就扔河里](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8D%A1%E5%88%B0%E6%89%8B%E6%9C%BA%E7%B4%A2%E8%A6%81%E5%8D%83%E5%85%83+%E4%B8%8D%E7%BB%99%E5%B0%B1%E6%89%94%E6%B2%B3%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [市民多领养老保险待遇去世后被催还](https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E5%A4%9A%E9%A2%86%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E5%BE%85%E9%81%87%E5%8E%BB%E4%B8%96%E5%90%8E%E8%A2%AB%E5%82%AC%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [市民多领养老保险待遇去世后被催还](https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E5%A4%9A%E9%A2%86%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E5%BE%85%E9%81%87%E5%8E%BB%E4%B8%96%E5%90%8E%E8%A2%AB%E5%82%AC%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [22岁老师被7旬老人开老头乐撞死](https://www.baidu.com/s?wd=22%E5%B2%81%E8%80%81%E5%B8%88%E8%A2%AB7%E6%97%AC%E8%80%81%E4%BA%BA%E5%BC%80%E8%80%81%E5%A4%B4%E4%B9%90%E6%92%9E%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [震区一面贴39张奖状墙屹立不倒](https://www.baidu.com/s?wd=%E9%9C%87%E5%8C%BA%E4%B8%80%E9%9D%A2%E8%B4%B439%E5%BC%A0%E5%A5%96%E7%8A%B6%E5%A2%99%E5%B1%B9%E7%AB%8B%E4%B8%8D%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海发行本地老年公交卡？](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%8F%91%E8%A1%8C%E6%9C%AC%E5%9C%B0%E8%80%81%E5%B9%B4%E5%85%AC%E4%BA%A4%E5%8D%A1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
