@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 17:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 17:11:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [建议冬至放一天假的理由](https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%86%AC%E8%87%B3%E6%94%BE%E4%B8%80%E5%A4%A9%E5%81%87%E7%9A%84%E7%90%86%E7%94%B1&t=31&band_rank=5&Refer=top)<br />
 6. [游戏](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%88%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [张兰力挺董明珠怒斥黑粉](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%B0%E5%8A%9B%E6%8C%BA%E8%91%A3%E6%98%8E%E7%8F%A0%E6%80%92%E6%96%A5%E9%BB%91%E7%B2%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [22岁女老师被7旬老人开老头乐撞死](https://s.weibo.com/weibo?q=%2322%E5%B2%81%E5%A5%B3%E8%80%81%E5%B8%88%E8%A2%AB7%E6%97%AC%E8%80%81%E4%BA%BA%E5%BC%80%E8%80%81%E5%A4%B4%E4%B9%90%E6%92%9E%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [周也 战损妆](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E6%88%98%E6%8D%9F%E5%A6%86&t=31&band_rank=9&Refer=top)<br />
+8. [周也 战损妆](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E6%88%98%E6%8D%9F%E5%A6%86&t=31&band_rank=8&Refer=top)<br />
+9. [22岁女老师被7旬老人开老头乐撞死](https://s.weibo.com/weibo?q=%2322%E5%B2%81%E5%A5%B3%E8%80%81%E5%B8%88%E8%A2%AB7%E6%97%AC%E8%80%81%E4%BA%BA%E5%BC%80%E8%80%81%E5%A4%B4%E4%B9%90%E6%92%9E%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
