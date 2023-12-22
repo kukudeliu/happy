@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 13:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 13:26:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [老头乐](https://s.weibo.com/weibo?q=%E8%80%81%E5%A4%B4%E4%B9%90&t=31&band_rank=6&Refer=top)<br />
 7. [光腿神器可能引发妇科炎症](https://s.weibo.com/weibo?q=%23%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%E5%8F%AF%E8%83%BD%E5%BC%95%E5%8F%91%E5%A6%87%E7%A7%91%E7%82%8E%E7%97%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [上个班没必要扭扭捏捏](https://s.weibo.com/weibo?q=%E4%B8%8A%E4%B8%AA%E7%8F%AD%E6%B2%A1%E5%BF%85%E8%A6%81%E6%89%AD%E6%89%AD%E6%8D%8F%E6%8D%8F&t=31&band_rank=8&Refer=top)<br />
-9. [所有网络游戏须设置用户充值限额](https://s.weibo.com/weibo?q=%23%E6%89%80%E6%9C%89%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F%E9%A1%BB%E8%AE%BE%E7%BD%AE%E7%94%A8%E6%88%B7%E5%85%85%E5%80%BC%E9%99%90%E9%A2%9D%23&t=31&band_rank=9&Refer=top)<br />
+9. [鹿晗 抽卡](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%20%E6%8A%BD%E5%8D%A1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
