@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 00:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 00:26:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [甘露寺美甲](https://s.weibo.com/weibo?q=%E7%94%98%E9%9C%B2%E5%AF%BA%E7%BE%8E%E7%94%B2&t=31&band_rank=5&Refer=top)<br />
 6. [郑晓龙 甄嬛传完整版在准备了](https://s.weibo.com/weibo?q=%E9%83%91%E6%99%93%E9%BE%99%20%E7%94%84%E5%AC%9B%E4%BC%A0%E5%AE%8C%E6%95%B4%E7%89%88%E5%9C%A8%E5%87%86%E5%A4%87%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [易烊千玺当评委](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%BD%93%E8%AF%84%E5%A7%94&t=31&band_rank=7&Refer=top)<br />
-8. [马来西亚卫生部宣布重启新冠隔离](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%8D%AB%E7%94%9F%E9%83%A8%E5%AE%A3%E5%B8%83%E9%87%8D%E5%90%AF%E6%96%B0%E5%86%A0%E9%9A%94%E7%A6%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [果郡王浣碧线被剪掉挺多的](https://s.weibo.com/weibo?q=%E6%9E%9C%E9%83%A1%E7%8E%8B%E6%B5%A3%E7%A2%A7%E7%BA%BF%E8%A2%AB%E5%89%AA%E6%8E%89%E6%8C%BA%E5%A4%9A%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+8. [果郡王浣碧线被剪掉挺多的](https://s.weibo.com/weibo?q=%E6%9E%9C%E9%83%A1%E7%8E%8B%E6%B5%A3%E7%A2%A7%E7%BA%BF%E8%A2%AB%E5%89%AA%E6%8E%89%E6%8C%BA%E5%A4%9A%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
+9. [高铁乘务员心脏骤停一下来了3位医生](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B9%98%E5%8A%A1%E5%91%98%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E4%B8%80%E4%B8%8B%E6%9D%A5%E4%BA%863%E4%BD%8D%E5%8C%BB%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
