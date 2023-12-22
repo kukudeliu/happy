@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 15:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 15:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [22岁女老师被7旬老人开老头乐撞死](https://s.weibo.com/weibo?q=%2322%E5%B2%81%E5%A5%B3%E8%80%81%E5%B8%88%E8%A2%AB7%E6%97%AC%E8%80%81%E4%BA%BA%E5%BC%80%E8%80%81%E5%A4%B4%E4%B9%90%E6%92%9E%E6%AD%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [游戏](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%88%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [深圳街头一女孩流浪多日牙齿掉光](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E8%A1%97%E5%A4%B4%E4%B8%80%E5%A5%B3%E5%AD%A9%E6%B5%81%E6%B5%AA%E5%A4%9A%E6%97%A5%E7%89%99%E9%BD%BF%E6%8E%89%E5%85%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨丽萍团队跳科目三](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%BD%E8%90%8D%E5%9B%A2%E9%98%9F%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘芸走红毯贴了70个暖宝宝](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8A%B8%E8%B5%B0%E7%BA%A2%E6%AF%AF%E8%B4%B4%E4%BA%8670%E4%B8%AA%E6%9A%96%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
