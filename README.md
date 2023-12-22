@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 09:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 09:14:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [贵港爱尔CEO免职、院长停职](https://www.baidu.com/s?wd=%E8%B4%B5%E6%B8%AF%E7%88%B1%E5%B0%94CEO%E5%85%8D%E8%81%8C%E3%80%81%E9%99%A2%E9%95%BF%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [今天冬至](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E5%86%AC%E8%87%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男演员回应家藏4吨黄金价值20亿](https://www.baidu.com/s?wd=%E7%94%B7%E6%BC%94%E5%91%98%E5%9B%9E%E5%BA%94%E5%AE%B6%E8%97%8F4%E5%90%A8%E9%BB%84%E9%87%91%E4%BB%B7%E5%80%BC20%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [艺考考生考前被要求“回去洗头”](https://www.baidu.com/s?wd=%E8%89%BA%E8%80%83%E8%80%83%E7%94%9F%E8%80%83%E5%89%8D%E8%A2%AB%E8%A6%81%E6%B1%82%E2%80%9C%E5%9B%9E%E5%8E%BB%E6%B4%97%E5%A4%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吃雪糕时掉一块致人摔倒达十级伤残](https://www.baidu.com/s?wd=%E5%90%83%E9%9B%AA%E7%B3%95%E6%97%B6%E6%8E%89%E4%B8%80%E5%9D%97%E8%87%B4%E4%BA%BA%E6%91%94%E5%80%92%E8%BE%BE%E5%8D%81%E7%BA%A7%E4%BC%A4%E6%AE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州辟谣“某高校发生火灾”](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%9F%90%E9%AB%98%E6%A0%A1%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [贵港爱尔CEO免职、院长停职](https://www.baidu.com/s?wd=%E8%B4%B5%E6%B8%AF%E7%88%B1%E5%B0%94CEO%E5%85%8D%E8%81%8C%E3%80%81%E9%99%A2%E9%95%BF%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [今天冬至](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E5%86%AC%E8%87%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男演员回应家藏4吨黄金价值20亿](https://www.baidu.com/s?wd=%E7%94%B7%E6%BC%94%E5%91%98%E5%9B%9E%E5%BA%94%E5%AE%B6%E8%97%8F4%E5%90%A8%E9%BB%84%E9%87%91%E4%BB%B7%E5%80%BC20%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [艺考考生考前被要求“回去洗头”](https://www.baidu.com/s?wd=%E8%89%BA%E8%80%83%E8%80%83%E7%94%9F%E8%80%83%E5%89%8D%E8%A2%AB%E8%A6%81%E6%B1%82%E2%80%9C%E5%9B%9E%E5%8E%BB%E6%B4%97%E5%A4%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吃雪糕时掉一块致人摔倒达十级伤残](https://www.baidu.com/s?wd=%E5%90%83%E9%9B%AA%E7%B3%95%E6%97%B6%E6%8E%89%E4%B8%80%E5%9D%97%E8%87%B4%E4%BA%BA%E6%91%94%E5%80%92%E8%BE%BE%E5%8D%81%E7%BA%A7%E4%BC%A4%E6%AE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州辟谣“某高校发生火灾”](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%9F%90%E9%AB%98%E6%A0%A1%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
