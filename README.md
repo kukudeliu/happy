@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 13:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 13:51:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [消防员扒开泥浆找到遇难一家五口](https://www.baidu.com/s?wd=%E6%B6%88%E9%98%B2%E5%91%98%E6%89%92%E5%BC%80%E6%B3%A5%E6%B5%86%E6%89%BE%E5%88%B0%E9%81%87%E9%9A%BE%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [震后积石山：灾难中迎来新生](https://www.baidu.com/s?wd=%E9%9C%87%E5%90%8E%E7%A7%AF%E7%9F%B3%E5%B1%B1%EF%BC%9A%E7%81%BE%E9%9A%BE%E4%B8%AD%E8%BF%8E%E6%9D%A5%E6%96%B0%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国最重要的东西“大动脉”来了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%9C%E8%A5%BF%E2%80%9C%E5%A4%A7%E5%8A%A8%E8%84%89%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多吃黑木耳能降血压降血脂？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E9%BB%91%E6%9C%A8%E8%80%B3%E8%83%BD%E9%99%8D%E8%A1%80%E5%8E%8B%E9%99%8D%E8%A1%80%E8%84%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [青岛辟谣洒水车雪天上路洒水](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E8%BE%9F%E8%B0%A3%E6%B4%92%E6%B0%B4%E8%BD%A6%E9%9B%AA%E5%A4%A9%E4%B8%8A%E8%B7%AF%E6%B4%92%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [消防员扒开泥浆找到遇难一家五口](https://www.baidu.com/s?wd=%E6%B6%88%E9%98%B2%E5%91%98%E6%89%92%E5%BC%80%E6%B3%A5%E6%B5%86%E6%89%BE%E5%88%B0%E9%81%87%E9%9A%BE%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [震后积石山：灾难中迎来新生](https://www.baidu.com/s?wd=%E9%9C%87%E5%90%8E%E7%A7%AF%E7%9F%B3%E5%B1%B1%EF%BC%9A%E7%81%BE%E9%9A%BE%E4%B8%AD%E8%BF%8E%E6%9D%A5%E6%96%B0%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国最重要的东西“大动脉”来了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%9C%E8%A5%BF%E2%80%9C%E5%A4%A7%E5%8A%A8%E8%84%89%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [多吃黑木耳能降血压降血脂？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E9%BB%91%E6%9C%A8%E8%80%B3%E8%83%BD%E9%99%8D%E8%A1%80%E5%8E%8B%E9%99%8D%E8%A1%80%E8%84%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [青岛辟谣洒水车雪天上路洒水](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E8%BE%9F%E8%B0%A3%E6%B4%92%E6%B0%B4%E8%BD%A6%E9%9B%AA%E5%A4%A9%E4%B8%8A%E8%B7%AF%E6%B4%92%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
