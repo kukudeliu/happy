@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 19:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 20:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩国人在首尔买房须不吃不喝15.2年](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%9C%A8%E9%A6%96%E5%B0%94%E4%B9%B0%E6%88%BF%E9%A1%BB%E4%B8%8D%E5%90%83%E4%B8%8D%E5%96%9D15.2%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [震区男孩把小猫藏帽子里取暖](https://s.weibo.com/weibo?q=%23%E9%9C%87%E5%8C%BA%E7%94%B7%E5%AD%A9%E6%8A%8A%E5%B0%8F%E7%8C%AB%E8%97%8F%E5%B8%BD%E5%AD%90%E9%87%8C%E5%8F%96%E6%9A%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [你是我女儿 怎么可能认不出](https://s.weibo.com/weibo?q=%E4%BD%A0%E6%98%AF%E6%88%91%E5%A5%B3%E5%84%BF%20%E6%80%8E%E4%B9%88%E5%8F%AF%E8%83%BD%E8%AE%A4%E4%B8%8D%E5%87%BA&t=31&band_rank=8&Refer=top)<br />
-9. [王源 电子饺子](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%20%E7%94%B5%E5%AD%90%E9%A5%BA%E5%AD%90&t=31&band_rank=9&Refer=top)<br />
+9. [科目三为什么叫科目三](https://s.weibo.com/weibo?q=%E7%A7%91%E7%9B%AE%E4%B8%89%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E7%A7%91%E7%9B%AE%E4%B8%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
