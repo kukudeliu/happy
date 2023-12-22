@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 17:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 17:47:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘芸走红毯贴了70个暖宝宝](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8A%B8%E8%B5%B0%E7%BA%A2%E6%AF%AF%E8%B4%B4%E4%BA%8670%E4%B8%AA%E6%9A%96%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [烧伤消防员刘攀女友官宣怀孕](https://s.weibo.com/weibo?q=%23%E7%83%A7%E4%BC%A4%E6%B6%88%E9%98%B2%E5%91%98%E5%88%98%E6%94%80%E5%A5%B3%E5%8F%8B%E5%AE%98%E5%AE%A3%E6%80%80%E5%AD%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [建议冬至放一天假的理由](https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%86%AC%E8%87%B3%E6%94%BE%E4%B8%80%E5%A4%A9%E5%81%87%E7%9A%84%E7%90%86%E7%94%B1&t=31&band_rank=8&Refer=top)<br />
-9. [周也 战损妆](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E6%88%98%E6%8D%9F%E5%A6%86&t=31&band_rank=9&Refer=top)<br />
+9. [朱丹回应主持叫错名字](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%B9%E5%9B%9E%E5%BA%94%E4%B8%BB%E6%8C%81%E5%8F%AB%E9%94%99%E5%90%8D%E5%AD%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
