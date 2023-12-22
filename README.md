@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 13:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 13:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吃雪糕时掉一块致人摔倒伤残](https://s.weibo.com/weibo?q=%23%E5%90%83%E9%9B%AA%E7%B3%95%E6%97%B6%E6%8E%89%E4%B8%80%E5%9D%97%E8%87%B4%E4%BA%BA%E6%91%94%E5%80%92%E4%BC%A4%E6%AE%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [上个班没必要扭扭捏捏](https://s.weibo.com/weibo?q=%E4%B8%8A%E4%B8%AA%E7%8F%AD%E6%B2%A1%E5%BF%85%E8%A6%81%E6%89%AD%E6%89%AD%E6%8D%8F%E6%8D%8F&t=31&band_rank=7&Refer=top)<br />
 8. [所有网络游戏须设置用户充值限额](https://s.weibo.com/weibo?q=%23%E6%89%80%E6%9C%89%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F%E9%A1%BB%E8%AE%BE%E7%BD%AE%E7%94%A8%E6%88%B7%E5%85%85%E5%80%BC%E9%99%90%E9%A2%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [老头乐](https://s.weibo.com/weibo?q=%E8%80%81%E5%A4%B4%E4%B9%90&t=31&band_rank=9&Refer=top)<br />
+9. [当地回应女老师被老人开老头乐撞死](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E5%A5%B3%E8%80%81%E5%B8%88%E8%A2%AB%E8%80%81%E4%BA%BA%E5%BC%80%E8%80%81%E5%A4%B4%E4%B9%90%E6%92%9E%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
