@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 14:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 14:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [北大天才柳智宇还俗后宣布结婚](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%A4%A9%E6%89%8D%E6%9F%B3%E6%99%BA%E5%AE%87%E8%BF%98%E4%BF%97%E5%90%8E%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [鹿晗 抽卡](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%20%E6%8A%BD%E5%8D%A1&t=31&band_rank=6&Refer=top)<br />
 7. [杨丽萍团队跳科目三](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%BD%E8%90%8D%E5%9B%A2%E9%98%9F%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [当地回应女老师被老人开老头乐撞死](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E5%A5%B3%E8%80%81%E5%B8%88%E8%A2%AB%E8%80%81%E4%BA%BA%E5%BC%80%E8%80%81%E5%A4%B4%E4%B9%90%E6%92%9E%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [游戏](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
+8. [游戏](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
+9. [当地回应女老师被老人开老头乐撞死](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E5%A5%B3%E8%80%81%E5%B8%88%E8%A2%AB%E8%80%81%E4%BA%BA%E5%BC%80%E8%80%81%E5%A4%B4%E4%B9%90%E6%92%9E%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
