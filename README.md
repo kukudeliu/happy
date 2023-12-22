@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 15:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 15:33:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [建议冬至放一天假的理由](https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%86%AC%E8%87%B3%E6%94%BE%E4%B8%80%E5%A4%A9%E5%81%87%E7%9A%84%E7%90%86%E7%94%B1&t=31&band_rank=6&Refer=top)<br />
 7. [被名字劝退但真上头的小说](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%90%8D%E5%AD%97%E5%8A%9D%E9%80%80%E4%BD%86%E7%9C%9F%E4%B8%8A%E5%A4%B4%E7%9A%84%E5%B0%8F%E8%AF%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨丽萍团队跳科目三](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%BD%E8%90%8D%E5%9B%A2%E9%98%9F%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [北大天才柳智宇还俗后宣布结婚](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%A4%A9%E6%89%8D%E6%9F%B3%E6%99%BA%E5%AE%87%E8%BF%98%E4%BF%97%E5%90%8E%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [鹿晗 抽卡](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%20%E6%8A%BD%E5%8D%A1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
