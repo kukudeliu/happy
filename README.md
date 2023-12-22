@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 14:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 14:43:01</h4></div>
 
 > 微博  
 
-1. [22岁女老师被7旬老人开老头乐撞死](https://s.weibo.com/weibo?q=%2322%E5%B2%81%E5%A5%B3%E8%80%81%E5%B8%88%E8%A2%AB7%E6%97%AC%E8%80%81%E4%BA%BA%E5%BC%80%E8%80%81%E5%A4%B4%E4%B9%90%E6%92%9E%E6%AD%BB%23&t=31&band_rank=1&Refer=top)<br />
-2. [建议冬至放一天假的理由](https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%86%AC%E8%87%B3%E6%94%BE%E4%B8%80%E5%A4%A9%E5%81%87%E7%9A%84%E7%90%86%E7%94%B1&t=31&band_rank=2&Refer=top)<br />
+1. [建议冬至放一天假的理由](https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%86%AC%E8%87%B3%E6%94%BE%E4%B8%80%E5%A4%A9%E5%81%87%E7%9A%84%E7%90%86%E7%94%B1&t=31&band_rank=1&Refer=top)<br />
+2. [22岁女老师被7旬老人开老头乐撞死](https://s.weibo.com/weibo?q=%2322%E5%B2%81%E5%A5%B3%E8%80%81%E5%B8%88%E8%A2%AB7%E6%97%AC%E8%80%81%E4%BA%BA%E5%BC%80%E8%80%81%E5%A4%B4%E4%B9%90%E6%92%9E%E6%AD%BB%23&t=31&band_rank=2&Refer=top)<br />
 3. [冬至愿美好如约而至](https://s.weibo.com/weibo?q=%23%E5%86%AC%E8%87%B3%E6%84%BF%E7%BE%8E%E5%A5%BD%E5%A6%82%E7%BA%A6%E8%80%8C%E8%87%B3%23&t=31&band_rank=3&Refer=top)<br />
 4. [演员于洋回应家中存放大量金砖](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E4%BA%8E%E6%B4%8B%E5%9B%9E%E5%BA%94%E5%AE%B6%E4%B8%AD%E5%AD%98%E6%94%BE%E5%A4%A7%E9%87%8F%E9%87%91%E7%A0%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [北大天才柳智宇还俗后宣布结婚](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%A4%A9%E6%89%8D%E6%9F%B3%E6%99%BA%E5%AE%87%E8%BF%98%E4%BF%97%E5%90%8E%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%23&t=31&band_rank=5&Refer=top)<br />
-6. [鹿晗 抽卡](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%20%E6%8A%BD%E5%8D%A1&t=31&band_rank=6&Refer=top)<br />
-7. [杨丽萍团队跳科目三](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%BD%E8%90%8D%E5%9B%A2%E9%98%9F%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%23&t=31&band_rank=7&Refer=top)<br />
+6. [杨丽萍团队跳科目三](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%BD%E8%90%8D%E5%9B%A2%E9%98%9F%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%23&t=31&band_rank=6&Refer=top)<br />
+7. [鹿晗 抽卡](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%20%E6%8A%BD%E5%8D%A1&t=31&band_rank=7&Refer=top)<br />
 8. [游戏](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [当地回应女老师被老人开老头乐撞死](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E5%A5%B3%E8%80%81%E5%B8%88%E8%A2%AB%E8%80%81%E4%BA%BA%E5%BC%80%E8%80%81%E5%A4%B4%E4%B9%90%E6%92%9E%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [帕梅拉 听说科目三风靡全球了](https://s.weibo.com/weibo?q=%E5%B8%95%E6%A2%85%E6%8B%89%20%E5%90%AC%E8%AF%B4%E7%A7%91%E7%9B%AE%E4%B8%89%E9%A3%8E%E9%9D%A1%E5%85%A8%E7%90%83%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
