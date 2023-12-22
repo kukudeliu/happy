@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 08:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 08:53:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [爱尔眼科集团通报](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E9%9B%86%E5%9B%A2%E9%80%9A%E6%8A%A5%23&t=31&band_rank=5&Refer=top)<br />
 6. [赵露思替身发文](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%9B%BF%E8%BA%AB%E5%8F%91%E6%96%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [个税专项附加扣除信息确认即将截止](https://s.weibo.com/weibo?q=%23%E4%B8%AA%E7%A8%8E%E4%B8%93%E9%A1%B9%E9%99%84%E5%8A%A0%E6%89%A3%E9%99%A4%E4%BF%A1%E6%81%AF%E7%A1%AE%E8%AE%A4%E5%8D%B3%E5%B0%86%E6%88%AA%E6%AD%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [哑舍 刘宇宁](https://s.weibo.com/weibo?q=%E5%93%91%E8%88%8D%20%E5%88%98%E5%AE%87%E5%AE%81&t=31&band_rank=8&Refer=top)<br />
-9. [涉事医生回应手术时捶压老人头部](https://s.weibo.com/weibo?q=%23%E6%B6%89%E4%BA%8B%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E6%89%8B%E6%9C%AF%E6%97%B6%E6%8D%B6%E5%8E%8B%E8%80%81%E4%BA%BA%E5%A4%B4%E9%83%A8%23&t=31&band_rank=9&Refer=top)<br />
+8. [谷爱凌收入排名女运动员第二位](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%94%B6%E5%85%A5%E6%8E%92%E5%90%8D%E5%A5%B3%E8%BF%90%E5%8A%A8%E5%91%98%E7%AC%AC%E4%BA%8C%E4%BD%8D%23&t=31&band_rank=8&Refer=top)<br />
+9. [微博之夜 投票](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E6%8A%95%E7%A5%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
