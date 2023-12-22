@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 16:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 16:09:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 3. [北大天才柳智宇还俗后宣布结婚](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%A4%A9%E6%89%8D%E6%9F%B3%E6%99%BA%E5%AE%87%E8%BF%98%E4%BF%97%E5%90%8E%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [为何“冬至大如年”？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E2%80%9C%E5%86%AC%E8%87%B3%E5%A4%A7%E5%A6%82%E5%B9%B4%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [A股游戏股集体下挫](https://www.baidu.com/s?wd=A%E8%82%A1%E6%B8%B8%E6%88%8F%E8%82%A1%E9%9B%86%E4%BD%93%E4%B8%8B%E6%8C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [媒体：治理老年代步车需两端发力](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%B2%BB%E7%90%86%E8%80%81%E5%B9%B4%E4%BB%A3%E6%AD%A5%E8%BD%A6%E9%9C%80%E4%B8%A4%E7%AB%AF%E5%8F%91%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [捷克大学枪击事件已致超15死](https://www.baidu.com/s?wd=%E6%8D%B7%E5%85%8B%E5%A4%A7%E5%AD%A6%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E5%B7%B2%E8%87%B4%E8%B6%8515%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#冬至宜泡汤#](https://www.baidu.com/s?wd=%23%E5%86%AC%E8%87%B3%E5%AE%9C%E6%B3%A1%E6%B1%A4%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [光腿神器是怎么变成美丽刑具的](https://www.baidu.com/s?wd=%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%E6%98%AF%E6%80%8E%E4%B9%88%E5%8F%98%E6%88%90%E7%BE%8E%E4%B8%BD%E5%88%91%E5%85%B7%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛辟谣洒水车雪天上路洒水](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E8%BE%9F%E8%B0%A3%E6%B4%92%E6%B0%B4%E8%BD%A6%E9%9B%AA%E5%A4%A9%E4%B8%8A%E8%B7%AF%E6%B4%92%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [北大天才柳智宇还俗后宣布结婚](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%A4%A9%E6%89%8D%E6%9F%B3%E6%99%BA%E5%AE%87%E8%BF%98%E4%BF%97%E5%90%8E%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [为何“冬至大如年”？](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E2%80%9C%E5%86%AC%E8%87%B3%E5%A4%A7%E5%A6%82%E5%B9%B4%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [A股游戏股集体下挫](https://www.baidu.com/s?wd=A%E8%82%A1%E6%B8%B8%E6%88%8F%E8%82%A1%E9%9B%86%E4%BD%93%E4%B8%8B%E6%8C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [媒体：治理老年代步车需两端发力](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%B2%BB%E7%90%86%E8%80%81%E5%B9%B4%E4%BB%A3%E6%AD%A5%E8%BD%A6%E9%9C%80%E4%B8%A4%E7%AB%AF%E5%8F%91%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [捷克大学枪击事件已致超15死](https://www.baidu.com/s?wd=%E6%8D%B7%E5%85%8B%E5%A4%A7%E5%AD%A6%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E5%B7%B2%E8%87%B4%E8%B6%8515%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#冬至宜泡汤#](https://www.baidu.com/s?wd=%23%E5%86%AC%E8%87%B3%E5%AE%9C%E6%B3%A1%E6%B1%A4%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [光腿神器是怎么变成美丽刑具的](https://www.baidu.com/s?wd=%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%E6%98%AF%E6%80%8E%E4%B9%88%E5%8F%98%E6%88%90%E7%BE%8E%E4%B8%BD%E5%88%91%E5%85%B7%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛辟谣洒水车雪天上路洒水](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E8%BE%9F%E8%B0%A3%E6%B4%92%E6%B0%B4%E8%BD%A6%E9%9B%AA%E5%A4%A9%E4%B8%8A%E8%B7%AF%E6%B4%92%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
