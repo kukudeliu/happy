@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 18:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 18:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [网易市值一天跌掉4个B站](https://www.baidu.com/s?wd=%E7%BD%91%E6%98%93%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%A9%E8%B7%8C%E6%8E%894%E4%B8%AAB%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马来西亚卫生部宣布重启新冠隔离](https://www.baidu.com/s?wd=%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%8D%AB%E7%94%9F%E9%83%A8%E5%AE%A3%E5%B8%83%E9%87%8D%E5%90%AF%E6%96%B0%E5%86%A0%E9%9A%94%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [理想汽车回应清远交通事故](https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%B8%85%E8%BF%9C%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [80后金店老板与金价大涨的一年](https://www.baidu.com/s?wd=80%E5%90%8E%E9%87%91%E5%BA%97%E8%80%81%E6%9D%BF%E4%B8%8E%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E7%9A%84%E4%B8%80%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [22岁老师被7旬老人开老头乐撞死](https://www.baidu.com/s?wd=22%E5%B2%81%E8%80%81%E5%B8%88%E8%A2%AB7%E6%97%AC%E8%80%81%E4%BA%BA%E5%BC%80%E8%80%81%E5%A4%B4%E4%B9%90%E6%92%9E%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海发行本地老年公交卡？](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%8F%91%E8%A1%8C%E6%9C%AC%E5%9C%B0%E8%80%81%E5%B9%B4%E5%85%AC%E4%BA%A4%E5%8D%A1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [网易市值一天跌掉4个B站](https://www.baidu.com/s?wd=%E7%BD%91%E6%98%93%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%A9%E8%B7%8C%E6%8E%894%E4%B8%AAB%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马来西亚卫生部宣布重启新冠隔离](https://www.baidu.com/s?wd=%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%8D%AB%E7%94%9F%E9%83%A8%E5%AE%A3%E5%B8%83%E9%87%8D%E5%90%AF%E6%96%B0%E5%86%A0%E9%9A%94%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [理想汽车回应清远交通事故](https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%B8%85%E8%BF%9C%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [80后金店老板与金价大涨的一年](https://www.baidu.com/s?wd=80%E5%90%8E%E9%87%91%E5%BA%97%E8%80%81%E6%9D%BF%E4%B8%8E%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E7%9A%84%E4%B8%80%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [22岁老师被7旬老人开老头乐撞死](https://www.baidu.com/s?wd=22%E5%B2%81%E8%80%81%E5%B8%88%E8%A2%AB7%E6%97%AC%E8%80%81%E4%BA%BA%E5%BC%80%E8%80%81%E5%A4%B4%E4%B9%90%E6%92%9E%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海发行本地老年公交卡？](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%8F%91%E8%A1%8C%E6%9C%AC%E5%9C%B0%E8%80%81%E5%B9%B4%E5%85%AC%E4%BA%A4%E5%8D%A1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
