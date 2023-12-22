@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 00:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 00:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [柳智宇收到打赏问税务局要不要交税](https://www.baidu.com/s?wd=%E6%9F%B3%E6%99%BA%E5%AE%87%E6%94%B6%E5%88%B0%E6%89%93%E8%B5%8F%E9%97%AE%E7%A8%8E%E5%8A%A1%E5%B1%80%E8%A6%81%E4%B8%8D%E8%A6%81%E4%BA%A4%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [郑强卸任太原理工大学党委书记](https://www.baidu.com/s?wd=%E9%83%91%E5%BC%BA%E5%8D%B8%E4%BB%BB%E5%A4%AA%E5%8E%9F%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [半裸女子脚踩长城浮雕被吐槽](https://www.baidu.com/s?wd=%E5%8D%8A%E8%A3%B8%E5%A5%B3%E5%AD%90%E8%84%9A%E8%B8%A9%E9%95%BF%E5%9F%8E%E6%B5%AE%E9%9B%95%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [80后金店老板与金价大涨的一年](https://www.baidu.com/s?wd=80%E5%90%8E%E9%87%91%E5%BA%97%E8%80%81%E6%9D%BF%E4%B8%8E%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E7%9A%84%E4%B8%80%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [甘肃地震已致148人遇难](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4148%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [连降暴雪动物园只剩长颈鹿露头?](https://www.baidu.com/s?wd=%E8%BF%9E%E9%99%8D%E6%9A%B4%E9%9B%AA%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%8F%AA%E5%89%A9%E9%95%BF%E9%A2%88%E9%B9%BF%E9%9C%B2%E5%A4%B4%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [柳智宇收到打赏问税务局要不要交税](https://www.baidu.com/s?wd=%E6%9F%B3%E6%99%BA%E5%AE%87%E6%94%B6%E5%88%B0%E6%89%93%E8%B5%8F%E9%97%AE%E7%A8%8E%E5%8A%A1%E5%B1%80%E8%A6%81%E4%B8%8D%E8%A6%81%E4%BA%A4%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [郑强卸任太原理工大学党委书记](https://www.baidu.com/s?wd=%E9%83%91%E5%BC%BA%E5%8D%B8%E4%BB%BB%E5%A4%AA%E5%8E%9F%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [半裸女子脚踩长城浮雕被吐槽](https://www.baidu.com/s?wd=%E5%8D%8A%E8%A3%B8%E5%A5%B3%E5%AD%90%E8%84%9A%E8%B8%A9%E9%95%BF%E5%9F%8E%E6%B5%AE%E9%9B%95%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [80后金店老板与金价大涨的一年](https://www.baidu.com/s?wd=80%E5%90%8E%E9%87%91%E5%BA%97%E8%80%81%E6%9D%BF%E4%B8%8E%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E7%9A%84%E4%B8%80%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [甘肃地震已致148人遇难](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4148%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [连降暴雪动物园只剩长颈鹿露头?](https://www.baidu.com/s?wd=%E8%BF%9E%E9%99%8D%E6%9A%B4%E9%9B%AA%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%8F%AA%E5%89%A9%E9%95%BF%E9%A2%88%E9%B9%BF%E9%9C%B2%E5%A4%B4%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
