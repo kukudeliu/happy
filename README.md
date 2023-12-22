@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 19:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 19:46:01</h4></div>
 
 > 微博  
 
@@ -21,10 +21,10 @@
 2. [青海一家5口遇难大人紧紧护住小孩](https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E4%B8%80%E5%AE%B65%E5%8F%A3%E9%81%87%E9%9A%BE%E5%A4%A7%E4%BA%BA%E7%B4%A7%E7%B4%A7%E6%8A%A4%E4%BD%8F%E5%B0%8F%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [公园喊话游客把绑走的鸭子还回来](https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E5%96%8A%E8%AF%9D%E6%B8%B8%E5%AE%A2%E6%8A%8A%E7%BB%91%E8%B5%B0%E7%9A%84%E9%B8%AD%E5%AD%90%E8%BF%98%E5%9B%9E%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [固本开新 行稳致远](https://www.baidu.com/s?wd=%E5%9B%BA%E6%9C%AC%E5%BC%80%E6%96%B0+%E8%A1%8C%E7%A8%B3%E8%87%B4%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [手机丢失两月被买家找上门要密码](https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%B8%A2%E5%A4%B1%E4%B8%A4%E6%9C%88%E8%A2%AB%E4%B9%B0%E5%AE%B6%E6%89%BE%E4%B8%8A%E9%97%A8%E8%A6%81%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [钱塘江被冻住了](https://www.baidu.com/s?wd=%E9%92%B1%E5%A1%98%E6%B1%9F%E8%A2%AB%E5%86%BB%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [北大天才柳智宇还俗后宣布结婚](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%A4%A9%E6%89%8D%E6%9F%B3%E6%99%BA%E5%AE%87%E8%BF%98%E4%BF%97%E5%90%8E%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [恢复台湾地区石斑鱼输入](https://www.baidu.com/s?wd=%E6%81%A2%E5%A4%8D%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E7%9F%B3%E6%96%91%E9%B1%BC%E8%BE%93%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [李路明任清华大学校长](https://www.baidu.com/s?wd=%E6%9D%8E%E8%B7%AF%E6%98%8E%E4%BB%BB%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [手机丢失两月被买家找上门要密码](https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%B8%A2%E5%A4%B1%E4%B8%A4%E6%9C%88%E8%A2%AB%E4%B9%B0%E5%AE%B6%E6%89%BE%E4%B8%8A%E9%97%A8%E8%A6%81%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [钱塘江被冻住了](https://www.baidu.com/s?wd=%E9%92%B1%E5%A1%98%E6%B1%9F%E8%A2%AB%E5%86%BB%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北大天才柳智宇还俗后宣布结婚](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%A4%A9%E6%89%8D%E6%9F%B3%E6%99%BA%E5%AE%87%E8%BF%98%E4%BF%97%E5%90%8E%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海发行本地老年公交卡？](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%8F%91%E8%A1%8C%E6%9C%AC%E5%9C%B0%E8%80%81%E5%B9%B4%E5%85%AC%E4%BA%A4%E5%8D%A1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -33,8 +33,8 @@
 2. [青海一家5口遇难大人紧紧护住小孩](https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E4%B8%80%E5%AE%B65%E5%8F%A3%E9%81%87%E9%9A%BE%E5%A4%A7%E4%BA%BA%E7%B4%A7%E7%B4%A7%E6%8A%A4%E4%BD%8F%E5%B0%8F%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [公园喊话游客把绑走的鸭子还回来](https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E5%96%8A%E8%AF%9D%E6%B8%B8%E5%AE%A2%E6%8A%8A%E7%BB%91%E8%B5%B0%E7%9A%84%E9%B8%AD%E5%AD%90%E8%BF%98%E5%9B%9E%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [固本开新 行稳致远](https://www.baidu.com/s?wd=%E5%9B%BA%E6%9C%AC%E5%BC%80%E6%96%B0+%E8%A1%8C%E7%A8%B3%E8%87%B4%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [手机丢失两月被买家找上门要密码](https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%B8%A2%E5%A4%B1%E4%B8%A4%E6%9C%88%E8%A2%AB%E4%B9%B0%E5%AE%B6%E6%89%BE%E4%B8%8A%E9%97%A8%E8%A6%81%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [钱塘江被冻住了](https://www.baidu.com/s?wd=%E9%92%B1%E5%A1%98%E6%B1%9F%E8%A2%AB%E5%86%BB%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [北大天才柳智宇还俗后宣布结婚](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%A4%A9%E6%89%8D%E6%9F%B3%E6%99%BA%E5%AE%87%E8%BF%98%E4%BF%97%E5%90%8E%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [恢复台湾地区石斑鱼输入](https://www.baidu.com/s?wd=%E6%81%A2%E5%A4%8D%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E7%9F%B3%E6%96%91%E9%B1%BC%E8%BE%93%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [李路明任清华大学校长](https://www.baidu.com/s?wd=%E6%9D%8E%E8%B7%AF%E6%98%8E%E4%BB%BB%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [手机丢失两月被买家找上门要密码](https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%B8%A2%E5%A4%B1%E4%B8%A4%E6%9C%88%E8%A2%AB%E4%B9%B0%E5%AE%B6%E6%89%BE%E4%B8%8A%E9%97%A8%E8%A6%81%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [钱塘江被冻住了](https://www.baidu.com/s?wd=%E9%92%B1%E5%A1%98%E6%B1%9F%E8%A2%AB%E5%86%BB%E4%BD%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [北大天才柳智宇还俗后宣布结婚](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%A4%A9%E6%89%8D%E6%9F%B3%E6%99%BA%E5%AE%87%E8%BF%98%E4%BF%97%E5%90%8E%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海发行本地老年公交卡？](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%8F%91%E8%A1%8C%E6%9C%AC%E5%9C%B0%E8%80%81%E5%B9%B4%E5%85%AC%E4%BA%A4%E5%8D%A1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
