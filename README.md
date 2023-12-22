@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 23:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 23:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高铁乘务员心脏骤停一下来了3位医生](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B9%98%E5%8A%A1%E5%91%98%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E4%B8%80%E4%B8%8B%E6%9D%A5%E4%BA%863%E4%BD%8D%E5%8C%BB%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [第一次见男明星耍帅甩羽绒服](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E7%94%B7%E6%98%8E%E6%98%9F%E8%80%8D%E5%B8%85%E7%94%A9%E7%BE%BD%E7%BB%92%E6%9C%8D&t=31&band_rank=7&Refer=top)<br />
 8. [杨幂好像一棵圣诞树](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E5%A5%BD%E5%83%8F%E4%B8%80%E6%A3%B5%E5%9C%A3%E8%AF%9E%E6%A0%91&t=31&band_rank=8&Refer=top)<br />
-9. [你终硕](https://s.weibo.com/weibo?q=%E4%BD%A0%E7%BB%88%E7%A1%95&t=31&band_rank=9&Refer=top)<br />
+9. [马来西亚卫生部宣布重启新冠隔离](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%8D%AB%E7%94%9F%E9%83%A8%E5%AE%A3%E5%B8%83%E9%87%8D%E5%90%AF%E6%96%B0%E5%86%A0%E9%9A%94%E7%A6%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
