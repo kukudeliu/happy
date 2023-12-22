@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 06:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 06:49:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [家长买500斤融雪剂深夜铲除校门口积冰](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E4%B9%B0500%E6%96%A4%E8%9E%8D%E9%9B%AA%E5%89%82%E6%B7%B1%E5%A4%9C%E9%93%B2%E9%99%A4%E6%A0%A1%E9%97%A8%E5%8F%A3%E7%A7%AF%E5%86%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [幽门螺杆菌感染后往往无症状](https://s.weibo.com/weibo?q=%23%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E6%84%9F%E6%9F%93%E5%90%8E%E5%BE%80%E5%BE%80%E6%97%A0%E7%97%87%E7%8A%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [完颜慧德 北大](https://s.weibo.com/weibo?q=%E5%AE%8C%E9%A2%9C%E6%85%A7%E5%BE%B7%20%E5%8C%97%E5%A4%A7&t=31&band_rank=8&Refer=top)<br />
-9. [果郡王浣碧线被剪掉挺多的](https://s.weibo.com/weibo?q=%E6%9E%9C%E9%83%A1%E7%8E%8B%E6%B5%A3%E7%A2%A7%E7%BA%BF%E8%A2%AB%E5%89%AA%E6%8E%89%E6%8C%BA%E5%A4%9A%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+9. [甘露寺美甲](https://s.weibo.com/weibo?q=%E7%94%98%E9%9C%B2%E5%AF%BA%E7%BE%8E%E7%94%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
