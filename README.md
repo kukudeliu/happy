@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 16:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 16:06:01</h4></div>
 
 > 微博  
 
 1. [演员于洋回应家中存放大量金砖](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E4%BA%8E%E6%B4%8B%E5%9B%9E%E5%BA%94%E5%AE%B6%E4%B8%AD%E5%AD%98%E6%94%BE%E5%A4%A7%E9%87%8F%E9%87%91%E7%A0%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [帕梅拉 听说科目三风靡全球了](https://s.weibo.com/weibo?q=%E5%B8%95%E6%A2%85%E6%8B%89%20%E5%90%AC%E8%AF%B4%E7%A7%91%E7%9B%AE%E4%B8%89%E9%A3%8E%E9%9D%A1%E5%85%A8%E7%90%83%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
+2. [刘芸走红毯贴了70个暖宝宝](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8A%B8%E8%B5%B0%E7%BA%A2%E6%AF%AF%E8%B4%B4%E4%BA%8670%E4%B8%AA%E6%9A%96%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=2&Refer=top)<br />
 3. [冬至愿美好如约而至](https://s.weibo.com/weibo?q=%23%E5%86%AC%E8%87%B3%E6%84%BF%E7%BE%8E%E5%A5%BD%E5%A6%82%E7%BA%A6%E8%80%8C%E8%87%B3%23&t=31&band_rank=3&Refer=top)<br />
-4. [刘芸走红毯贴了70个暖宝宝](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8A%B8%E8%B5%B0%E7%BA%A2%E6%AF%AF%E8%B4%B4%E4%BA%8670%E4%B8%AA%E6%9A%96%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=4&Refer=top)<br />
+4. [帕梅拉 听说科目三风靡全球了](https://s.weibo.com/weibo?q=%E5%B8%95%E6%A2%85%E6%8B%89%20%E5%90%AC%E8%AF%B4%E7%A7%91%E7%9B%AE%E4%B8%89%E9%A3%8E%E9%9D%A1%E5%85%A8%E7%90%83%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [建议冬至放一天假的理由](https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%86%AC%E8%87%B3%E6%94%BE%E4%B8%80%E5%A4%A9%E5%81%87%E7%9A%84%E7%90%86%E7%94%B1&t=31&band_rank=5&Refer=top)<br />
 6. [游戏](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%88%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [22岁女老师被7旬老人开老头乐撞死](https://s.weibo.com/weibo?q=%2322%E5%B2%81%E5%A5%B3%E8%80%81%E5%B8%88%E8%A2%AB7%E6%97%AC%E8%80%81%E4%BA%BA%E5%BC%80%E8%80%81%E5%A4%B4%E4%B9%90%E6%92%9E%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
