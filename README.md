@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 18:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 18:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [脆皮年轻人整顿足疗推拿店](https://www.baidu.com/s?wd=%E8%84%86%E7%9A%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%95%B4%E9%A1%BF%E8%B6%B3%E7%96%97%E6%8E%A8%E6%8B%BF%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国人在首尔买房须不吃不喝15.2年](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%9C%A8%E9%A6%96%E5%B0%94%E4%B9%B0%E6%88%BF%E9%A1%BB%E4%B8%8D%E5%90%83%E4%B8%8D%E5%96%9D15.2%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [知名房企中国奥园申请破产保护](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%88%BF%E4%BC%81%E4%B8%AD%E5%9B%BD%E5%A5%A5%E5%9B%AD%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7%E4%BF%9D%E6%8A%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网易市值一天跌掉4个B站](https://www.baidu.com/s?wd=%E7%BD%91%E6%98%93%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%A9%E8%B7%8C%E6%8E%894%E4%B8%AAB%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [捷克大学枪击事件已致超15死](https://www.baidu.com/s?wd=%E6%8D%B7%E5%85%8B%E5%A4%A7%E5%AD%A6%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E5%B7%B2%E8%87%B4%E8%B6%8515%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海发行本地老年公交卡？](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%8F%91%E8%A1%8C%E6%9C%AC%E5%9C%B0%E8%80%81%E5%B9%B4%E5%85%AC%E4%BA%A4%E5%8D%A1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [脆皮年轻人整顿足疗推拿店](https://www.baidu.com/s?wd=%E8%84%86%E7%9A%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%95%B4%E9%A1%BF%E8%B6%B3%E7%96%97%E6%8E%A8%E6%8B%BF%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国人在首尔买房须不吃不喝15.2年](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%9C%A8%E9%A6%96%E5%B0%94%E4%B9%B0%E6%88%BF%E9%A1%BB%E4%B8%8D%E5%90%83%E4%B8%8D%E5%96%9D15.2%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [知名房企中国奥园申请破产保护](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%88%BF%E4%BC%81%E4%B8%AD%E5%9B%BD%E5%A5%A5%E5%9B%AD%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7%E4%BF%9D%E6%8A%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网易市值一天跌掉4个B站](https://www.baidu.com/s?wd=%E7%BD%91%E6%98%93%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%A9%E8%B7%8C%E6%8E%894%E4%B8%AAB%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [捷克大学枪击事件已致超15死](https://www.baidu.com/s?wd=%E6%8D%B7%E5%85%8B%E5%A4%A7%E5%AD%A6%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E5%B7%B2%E8%87%B4%E8%B6%8515%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海发行本地老年公交卡？](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%8F%91%E8%A1%8C%E6%9C%AC%E5%9C%B0%E8%80%81%E5%B9%B4%E5%85%AC%E4%BA%A4%E5%8D%A1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
