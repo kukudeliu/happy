@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 12:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 12:29:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [第一批回家过年的人开始赶大集了](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%89%B9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E7%9A%84%E4%BA%BA%E5%BC%80%E5%A7%8B%E8%B5%B6%E5%A4%A7%E9%9B%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [员工请婚假遭拒自行回家被开除](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E8%AF%B7%E5%A9%9A%E5%81%87%E9%81%AD%E6%8B%92%E8%87%AA%E8%A1%8C%E5%9B%9E%E5%AE%B6%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [爱尔眼科曾多次陷入医疗纠纷](https://www.baidu.com/s?wd=%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E6%9B%BE%E5%A4%9A%E6%AC%A1%E9%99%B7%E5%85%A5%E5%8C%BB%E7%96%97%E7%BA%A0%E7%BA%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国最重要的东西“大动脉”来了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%9C%E8%A5%BF%E2%80%9C%E5%A4%A7%E5%8A%A8%E8%84%89%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [艺考考生考前被要求“回去洗头”](https://www.baidu.com/s?wd=%E8%89%BA%E8%80%83%E8%80%83%E7%94%9F%E8%80%83%E5%89%8D%E8%A2%AB%E8%A6%81%E6%B1%82%E2%80%9C%E5%9B%9E%E5%8E%BB%E6%B4%97%E5%A4%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃黑木耳能降血压降血脂？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E9%BB%91%E6%9C%A8%E8%80%B3%E8%83%BD%E9%99%8D%E8%A1%80%E5%8E%8B%E9%99%8D%E8%A1%80%E8%84%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [第一批回家过年的人开始赶大集了](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%89%B9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E7%9A%84%E4%BA%BA%E5%BC%80%E5%A7%8B%E8%B5%B6%E5%A4%A7%E9%9B%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [员工请婚假遭拒自行回家被开除](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E8%AF%B7%E5%A9%9A%E5%81%87%E9%81%AD%E6%8B%92%E8%87%AA%E8%A1%8C%E5%9B%9E%E5%AE%B6%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [爱尔眼科曾多次陷入医疗纠纷](https://www.baidu.com/s?wd=%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E6%9B%BE%E5%A4%9A%E6%AC%A1%E9%99%B7%E5%85%A5%E5%8C%BB%E7%96%97%E7%BA%A0%E7%BA%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国最重要的东西“大动脉”来了](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%9C%E8%A5%BF%E2%80%9C%E5%A4%A7%E5%8A%A8%E8%84%89%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [艺考考生考前被要求“回去洗头”](https://www.baidu.com/s?wd=%E8%89%BA%E8%80%83%E8%80%83%E7%94%9F%E8%80%83%E5%89%8D%E8%A2%AB%E8%A6%81%E6%B1%82%E2%80%9C%E5%9B%9E%E5%8E%BB%E6%B4%97%E5%A4%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [多吃黑木耳能降血压降血脂？](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%83%E9%BB%91%E6%9C%A8%E8%80%B3%E8%83%BD%E9%99%8D%E8%A1%80%E5%8E%8B%E9%99%8D%E8%A1%80%E8%84%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
