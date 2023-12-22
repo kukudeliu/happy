@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 23:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 23:38:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [易烊千玺当评委](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%BD%93%E8%AF%84%E5%A7%94&t=31&band_rank=5&Refer=top)<br />
 6. [高铁乘务员心脏骤停一下来了3位医生](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B9%98%E5%8A%A1%E5%91%98%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E4%B8%80%E4%B8%8B%E6%9D%A5%E4%BA%863%E4%BD%8D%E5%8C%BB%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [第一次见男明星耍帅甩羽绒服](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E7%94%B7%E6%98%8E%E6%98%9F%E8%80%8D%E5%B8%85%E7%94%A9%E7%BE%BD%E7%BB%92%E6%9C%8D&t=31&band_rank=7&Refer=top)<br />
-8. [杨幂好像一棵圣诞树](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E5%A5%BD%E5%83%8F%E4%B8%80%E6%A3%B5%E5%9C%A3%E8%AF%9E%E6%A0%91&t=31&band_rank=8&Refer=top)<br />
-9. [马来西亚卫生部宣布重启新冠隔离](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%8D%AB%E7%94%9F%E9%83%A8%E5%AE%A3%E5%B8%83%E9%87%8D%E5%90%AF%E6%96%B0%E5%86%A0%E9%9A%94%E7%A6%BB%23&t=31&band_rank=9&Refer=top)<br />
+8. [马来西亚卫生部宣布重启新冠隔离](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%8D%AB%E7%94%9F%E9%83%A8%E5%AE%A3%E5%B8%83%E9%87%8D%E5%90%AF%E6%96%B0%E5%86%A0%E9%9A%94%E7%A6%BB%23&t=31&band_rank=8&Refer=top)<br />
+9. [杨幂好像一棵圣诞树](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E5%A5%BD%E5%83%8F%E4%B8%80%E6%A3%B5%E5%9C%A3%E8%AF%9E%E6%A0%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [仰起头！看见2023的中国](https://www.baidu.com/s?wd=%E4%BB%B0%E8%B5%B7%E5%A4%B4%EF%BC%81%E7%9C%8B%E8%A7%812023%E7%9A%84%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [柳智宇收到打赏问税务局要不要交税](https://www.baidu.com/s?wd=%E6%9F%B3%E6%99%BA%E5%AE%87%E6%94%B6%E5%88%B0%E6%89%93%E8%B5%8F%E9%97%AE%E7%A8%8E%E5%8A%A1%E5%B1%80%E8%A6%81%E4%B8%8D%E8%A6%81%E4%BA%A4%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [半裸女子脚踩长城浮雕被吐槽](https://www.baidu.com/s?wd=%E5%8D%8A%E8%A3%B8%E5%A5%B3%E5%AD%90%E8%84%9A%E8%B8%A9%E9%95%BF%E5%9F%8E%E6%B5%AE%E9%9B%95%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [周大福销售额超过爱马仕](https://www.baidu.com/s?wd=%E5%91%A8%E5%A4%A7%E7%A6%8F%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%85%E8%BF%87%E7%88%B1%E9%A9%AC%E4%BB%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [地震局回应西安地下涌出热水](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%B1%80%E5%9B%9E%E5%BA%94%E8%A5%BF%E5%AE%89%E5%9C%B0%E4%B8%8B%E6%B6%8C%E5%87%BA%E7%83%AD%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [地震局回应西安地下涌出热水](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%B1%80%E5%9B%9E%E5%BA%94%E8%A5%BF%E5%AE%89%E5%9C%B0%E4%B8%8B%E6%B6%8C%E5%87%BA%E7%83%AD%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周大福销售额超过爱马仕](https://www.baidu.com/s?wd=%E5%91%A8%E5%A4%A7%E7%A6%8F%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%85%E8%BF%87%E7%88%B1%E9%A9%AC%E4%BB%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [连降暴雪动物园只剩长颈鹿露头?](https://www.baidu.com/s?wd=%E8%BF%9E%E9%99%8D%E6%9A%B4%E9%9B%AA%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%8F%AA%E5%89%A9%E9%95%BF%E9%A2%88%E9%B9%BF%E9%9C%B2%E5%A4%B4%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [仰起头！看见2023的中国](https://www.baidu.com/s?wd=%E4%BB%B0%E8%B5%B7%E5%A4%B4%EF%BC%81%E7%9C%8B%E8%A7%812023%E7%9A%84%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [柳智宇收到打赏问税务局要不要交税](https://www.baidu.com/s?wd=%E6%9F%B3%E6%99%BA%E5%AE%87%E6%94%B6%E5%88%B0%E6%89%93%E8%B5%8F%E9%97%AE%E7%A8%8E%E5%8A%A1%E5%B1%80%E8%A6%81%E4%B8%8D%E8%A6%81%E4%BA%A4%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [半裸女子脚踩长城浮雕被吐槽](https://www.baidu.com/s?wd=%E5%8D%8A%E8%A3%B8%E5%A5%B3%E5%AD%90%E8%84%9A%E8%B8%A9%E9%95%BF%E5%9F%8E%E6%B5%AE%E9%9B%95%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [周大福销售额超过爱马仕](https://www.baidu.com/s?wd=%E5%91%A8%E5%A4%A7%E7%A6%8F%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%85%E8%BF%87%E7%88%B1%E9%A9%AC%E4%BB%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [地震局回应西安地下涌出热水](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%B1%80%E5%9B%9E%E5%BA%94%E8%A5%BF%E5%AE%89%E5%9C%B0%E4%B8%8B%E6%B6%8C%E5%87%BA%E7%83%AD%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [地震局回应西安地下涌出热水](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%B1%80%E5%9B%9E%E5%BA%94%E8%A5%BF%E5%AE%89%E5%9C%B0%E4%B8%8B%E6%B6%8C%E5%87%BA%E7%83%AD%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周大福销售额超过爱马仕](https://www.baidu.com/s?wd=%E5%91%A8%E5%A4%A7%E7%A6%8F%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%85%E8%BF%87%E7%88%B1%E9%A9%AC%E4%BB%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [连降暴雪动物园只剩长颈鹿露头?](https://www.baidu.com/s?wd=%E8%BF%9E%E9%99%8D%E6%9A%B4%E9%9B%AA%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%8F%AA%E5%89%A9%E9%95%BF%E9%A2%88%E9%B9%BF%E9%9C%B2%E5%A4%B4%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
