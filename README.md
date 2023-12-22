@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 22:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 22:37:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [高铁乘务员心脏骤停一下来了3位医生](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B9%98%E5%8A%A1%E5%91%98%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E4%B8%80%E4%B8%8B%E6%9D%A5%E4%BA%863%E4%BD%8D%E5%8C%BB%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴 神女的圣火](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E7%A5%9E%E5%A5%B3%E7%9A%84%E5%9C%A3%E7%81%AB&t=31&band_rank=6&Refer=top)<br />
 7. [娄艺潇 战国袍](https://s.weibo.com/weibo?q=%E5%A8%84%E8%89%BA%E6%BD%87%20%E6%88%98%E5%9B%BD%E8%A2%8D&t=31&band_rank=7&Refer=top)<br />
-8. [饺子 售罄](https://s.weibo.com/weibo?q=%E9%A5%BA%E5%AD%90%20%E5%94%AE%E7%BD%84&t=31&band_rank=8&Refer=top)<br />
-9. [警方回应4岁女童被3只狗撕咬](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%944%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB3%E5%8F%AA%E7%8B%97%E6%92%95%E5%92%AC%23&t=31&band_rank=9&Refer=top)<br />
+8. [警方回应4岁女童被3只狗撕咬](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%944%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB3%E5%8F%AA%E7%8B%97%E6%92%95%E5%92%AC%23&t=31&band_rank=8&Refer=top)<br />
+9. [饺子 售罄](https://s.weibo.com/weibo?q=%E9%A5%BA%E5%AD%90%20%E5%94%AE%E7%BD%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
