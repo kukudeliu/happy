@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 17:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-22 17:40:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [种地吧](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7&t=31&band_rank=2&Refer=top)<br />
 3. [2023这是我们的回答](https://s.weibo.com/weibo?q=%232023%E8%BF%99%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%9B%9E%E7%AD%94%23&t=31&band_rank=3&Refer=top)<br />
 4. [刘芸走红毯贴了70个暖宝宝](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8A%B8%E8%B5%B0%E7%BA%A2%E6%AF%AF%E8%B4%B4%E4%BA%8670%E4%B8%AA%E6%9A%96%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=4&Refer=top)<br />
-5. [种地吧捉迷藏版冬至直播](https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%E6%8D%89%E8%BF%B7%E8%97%8F%E7%89%88%E5%86%AC%E8%87%B3%E7%9B%B4%E6%92%AD%23&t=31&band_rank=5&Refer=top)<br />
-6. [地震已致148人死亡](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4148%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
+5. [地震已致148人死亡](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4148%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
+6. [种地吧捉迷藏版冬至直播](https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%E6%8D%89%E8%BF%B7%E8%97%8F%E7%89%88%E5%86%AC%E8%87%B3%E7%9B%B4%E6%92%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [烧伤消防员刘攀女友官宣怀孕](https://s.weibo.com/weibo?q=%23%E7%83%A7%E4%BC%A4%E6%B6%88%E9%98%B2%E5%91%98%E5%88%98%E6%94%80%E5%A5%B3%E5%8F%8B%E5%AE%98%E5%AE%A3%E6%80%80%E5%AD%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [建议冬至放一天假的理由](https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%86%AC%E8%87%B3%E6%94%BE%E4%B8%80%E5%A4%A9%E5%81%87%E7%9A%84%E7%90%86%E7%94%B1&t=31&band_rank=8&Refer=top)<br />
 9. [周也 战损妆](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E6%88%98%E6%8D%9F%E5%A6%86&t=31&band_rank=9&Refer=top)<br />
