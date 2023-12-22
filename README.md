@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 06:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 06:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [柳智宇收到打赏问税务局要不要交税](https://www.baidu.com/s?wd=%E6%9F%B3%E6%99%BA%E5%AE%87%E6%94%B6%E5%88%B0%E6%89%93%E8%B5%8F%E9%97%AE%E7%A8%8E%E5%8A%A1%E5%B1%80%E8%A6%81%E4%B8%8D%E8%A6%81%E4%BA%A4%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体评爱尔眼科回应：站不住脚](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E5%9B%9E%E5%BA%94%EF%BC%9A%E7%AB%99%E4%B8%8D%E4%BD%8F%E8%84%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [半裸女子脚踩长城浮雕被吐槽](https://www.baidu.com/s?wd=%E5%8D%8A%E8%A3%B8%E5%A5%B3%E5%AD%90%E8%84%9A%E8%B8%A9%E9%95%BF%E5%9F%8E%E6%B5%AE%E9%9B%95%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小木匠妻子带儿女到丈夫坟前祭拜](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9C%A8%E5%8C%A0%E5%A6%BB%E5%AD%90%E5%B8%A6%E5%84%BF%E5%A5%B3%E5%88%B0%E4%B8%88%E5%A4%AB%E5%9D%9F%E5%89%8D%E7%A5%AD%E6%8B%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生被老鼠咬伤手下秒反咬老鼠](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%A2%AB%E8%80%81%E9%BC%A0%E5%92%AC%E4%BC%A4%E6%89%8B%E4%B8%8B%E7%A7%92%E5%8F%8D%E5%92%AC%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [连降暴雪动物园只剩长颈鹿露头?](https://www.baidu.com/s?wd=%E8%BF%9E%E9%99%8D%E6%9A%B4%E9%9B%AA%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%8F%AA%E5%89%A9%E9%95%BF%E9%A2%88%E9%B9%BF%E9%9C%B2%E5%A4%B4%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [柳智宇收到打赏问税务局要不要交税](https://www.baidu.com/s?wd=%E6%9F%B3%E6%99%BA%E5%AE%87%E6%94%B6%E5%88%B0%E6%89%93%E8%B5%8F%E9%97%AE%E7%A8%8E%E5%8A%A1%E5%B1%80%E8%A6%81%E4%B8%8D%E8%A6%81%E4%BA%A4%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体评爱尔眼科回应：站不住脚](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%84%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E5%9B%9E%E5%BA%94%EF%BC%9A%E7%AB%99%E4%B8%8D%E4%BD%8F%E8%84%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [半裸女子脚踩长城浮雕被吐槽](https://www.baidu.com/s?wd=%E5%8D%8A%E8%A3%B8%E5%A5%B3%E5%AD%90%E8%84%9A%E8%B8%A9%E9%95%BF%E5%9F%8E%E6%B5%AE%E9%9B%95%E8%A2%AB%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小木匠妻子带儿女到丈夫坟前祭拜](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9C%A8%E5%8C%A0%E5%A6%BB%E5%AD%90%E5%B8%A6%E5%84%BF%E5%A5%B3%E5%88%B0%E4%B8%88%E5%A4%AB%E5%9D%9F%E5%89%8D%E7%A5%AD%E6%8B%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生被老鼠咬伤手下秒反咬老鼠](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%A2%AB%E8%80%81%E9%BC%A0%E5%92%AC%E4%BC%A4%E6%89%8B%E4%B8%8B%E7%A7%92%E5%8F%8D%E5%92%AC%E8%80%81%E9%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [连降暴雪动物园只剩长颈鹿露头?](https://www.baidu.com/s?wd=%E8%BF%9E%E9%99%8D%E6%9A%B4%E9%9B%AA%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%8F%AA%E5%89%A9%E9%95%BF%E9%A2%88%E9%B9%BF%E9%9C%B2%E5%A4%B4%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
