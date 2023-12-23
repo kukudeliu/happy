@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 11:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 11:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [联合国通过决议将春节作为联合国假日](https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E9%80%9A%E8%BF%87%E5%86%B3%E8%AE%AE%E5%B0%86%E6%98%A5%E8%8A%82%E4%BD%9C%E4%B8%BA%E8%81%94%E5%90%88%E5%9B%BD%E5%81%87%E6%97%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [老人去世后房子被物业改成宿舍](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E5%90%8E%E6%88%BF%E5%AD%90%E8%A2%AB%E7%89%A9%E4%B8%9A%E6%94%B9%E6%88%90%E5%AE%BF%E8%88%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [赵晴 美女们的丫鬟](https://s.weibo.com/weibo?q=%E8%B5%B5%E6%99%B4%20%E7%BE%8E%E5%A5%B3%E4%BB%AC%E7%9A%84%E4%B8%AB%E9%AC%9F&t=31&band_rank=8&Refer=top)<br />
-9. [甄嬛传最珍贵的是没一个人塌房](https://s.weibo.com/weibo?q=%E7%94%84%E5%AC%9B%E4%BC%A0%E6%9C%80%E7%8F%8D%E8%B4%B5%E7%9A%84%E6%98%AF%E6%B2%A1%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%A1%8C%E6%88%BF&t=31&band_rank=9&Refer=top)<br />
+9. [金靖爆改韩系美女](https://s.weibo.com/weibo?q=%E9%87%91%E9%9D%96%E7%88%86%E6%94%B9%E9%9F%A9%E7%B3%BB%E7%BE%8E%E5%A5%B3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
