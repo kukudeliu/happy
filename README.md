@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 09:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 09:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [易烊千玺当评委](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%BD%93%E8%AF%84%E5%A7%94&t=31&band_rank=6&Refer=top)<br />
 7. [考研第一天](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E7%AC%AC%E4%B8%80%E5%A4%A9&t=31&band_rank=7&Refer=top)<br />
 8. [金莎 参加活动戒指丢了](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%20%E5%8F%82%E5%8A%A0%E6%B4%BB%E5%8A%A8%E6%88%92%E6%8C%87%E4%B8%A2%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [普京为一名坐轮椅女学中断会议](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E4%B8%BA%E4%B8%80%E5%90%8D%E5%9D%90%E8%BD%AE%E6%A4%85%E5%A5%B3%E5%AD%A6%E4%B8%AD%E6%96%AD%E4%BC%9A%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [听音乐睡觉要小心耳虫效应](https://s.weibo.com/weibo?q=%23%E5%90%AC%E9%9F%B3%E4%B9%90%E7%9D%A1%E8%A7%89%E8%A6%81%E5%B0%8F%E5%BF%83%E8%80%B3%E8%99%AB%E6%95%88%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
