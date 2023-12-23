@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 04:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 04:56:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [大爷在地铁暖男的攻势下撤回一只脚](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%9C%A8%E5%9C%B0%E9%93%81%E6%9A%96%E7%94%B7%E7%9A%84%E6%94%BB%E5%8A%BF%E4%B8%8B%E6%92%A4%E5%9B%9E%E4%B8%80%E5%8F%AA%E8%84%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [考研英语逼疯考生](https://www.baidu.com/s?wd=%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E9%80%BC%E7%96%AF%E8%80%83%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [朱令去世](https://www.baidu.com/s?wd=%E6%9C%B1%E4%BB%A4%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [上海22日最低温突破50年历史极值](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B722%E6%97%A5%E6%9C%80%E4%BD%8E%E6%B8%A9%E7%AA%81%E7%A0%B450%E5%B9%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中专学历的城管局局长获破格提拔](https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%93%E5%AD%A6%E5%8E%86%E7%9A%84%E5%9F%8E%E7%AE%A1%E5%B1%80%E5%B1%80%E9%95%BF%E8%8E%B7%E7%A0%B4%E6%A0%BC%E6%8F%90%E6%8B%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [集装箱失火致1家6口遇难？](https://www.baidu.com/s?wd=%E9%9B%86%E8%A3%85%E7%AE%B1%E5%A4%B1%E7%81%AB%E8%87%B41%E5%AE%B66%E5%8F%A3%E9%81%87%E9%9A%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [大爷在地铁暖男的攻势下撤回一只脚](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%9C%A8%E5%9C%B0%E9%93%81%E6%9A%96%E7%94%B7%E7%9A%84%E6%94%BB%E5%8A%BF%E4%B8%8B%E6%92%A4%E5%9B%9E%E4%B8%80%E5%8F%AA%E8%84%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [考研英语逼疯考生](https://www.baidu.com/s?wd=%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E9%80%BC%E7%96%AF%E8%80%83%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [朱令去世](https://www.baidu.com/s?wd=%E6%9C%B1%E4%BB%A4%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [上海22日最低温突破50年历史极值](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B722%E6%97%A5%E6%9C%80%E4%BD%8E%E6%B8%A9%E7%AA%81%E7%A0%B450%E5%B9%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中专学历的城管局局长获破格提拔](https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%93%E5%AD%A6%E5%8E%86%E7%9A%84%E5%9F%8E%E7%AE%A1%E5%B1%80%E5%B1%80%E9%95%BF%E8%8E%B7%E7%A0%B4%E6%A0%BC%E6%8F%90%E6%8B%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [集装箱失火致1家6口遇难？](https://www.baidu.com/s?wd=%E9%9B%86%E8%A3%85%E7%AE%B1%E5%A4%B1%E7%81%AB%E8%87%B41%E5%AE%B66%E5%8F%A3%E9%81%87%E9%9A%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
