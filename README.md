@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 22:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 22:39:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朱令去世](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%BB%A4%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [倪妮唐嫣工作室 卧龙凤雏](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%E5%94%90%E5%AB%A3%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E5%8D%A7%E9%BE%99%E5%87%A4%E9%9B%8F&t=31&band_rank=7&Refer=top)<br />
 8. [内娱活人不如顶级素人](https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E6%B4%BB%E4%BA%BA%E4%B8%8D%E5%A6%82%E9%A1%B6%E7%BA%A7%E7%B4%A0%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
-9. [Jennie成立个人厂牌](https://s.weibo.com/weibo?q=%23Jennie%E6%88%90%E7%AB%8B%E4%B8%AA%E4%BA%BA%E5%8E%82%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [妈妈给女儿做的减肥晚餐](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E7%BB%99%E5%A5%B3%E5%84%BF%E5%81%9A%E7%9A%84%E5%87%8F%E8%82%A5%E6%99%9A%E9%A4%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
