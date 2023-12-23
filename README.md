@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 21:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 21:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朱令去世](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%BB%A4%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [考研英语](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD&t=31&band_rank=7&Refer=top)<br />
 8. [老师 是不是发错卷了](https://s.weibo.com/weibo?q=%E8%80%81%E5%B8%88%20%E6%98%AF%E4%B8%8D%E6%98%AF%E5%8F%91%E9%94%99%E5%8D%B7%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [石雷鹏 本人一篇都没有押中](https://s.weibo.com/weibo?q=%E7%9F%B3%E9%9B%B7%E9%B9%8F%20%E6%9C%AC%E4%BA%BA%E4%B8%80%E7%AF%87%E9%83%BD%E6%B2%A1%E6%9C%89%E6%8A%BC%E4%B8%AD&t=31&band_rank=9&Refer=top)<br />
+9. [甜馨 差不多十几年没看见嗯哼了](https://s.weibo.com/weibo?q=%E7%94%9C%E9%A6%A8%20%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%8D%81%E5%87%A0%E5%B9%B4%E6%B2%A1%E7%9C%8B%E8%A7%81%E5%97%AF%E5%93%BC%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
