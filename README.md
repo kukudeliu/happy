@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 11:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 11:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [金靖爆改韩系美女](https://s.weibo.com/weibo?q=%E9%87%91%E9%9D%96%E7%88%86%E6%94%B9%E9%9F%A9%E7%B3%BB%E7%BE%8E%E5%A5%B3&t=31&band_rank=6&Refer=top)<br />
 7. [娱乐圈真正的小孩哥出现了](https://s.weibo.com/weibo?q=%E5%A8%B1%E4%B9%90%E5%9C%88%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%B0%8F%E5%AD%A9%E5%93%A5%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [图书馆空了](https://s.weibo.com/weibo?q=%E5%9B%BE%E4%B9%A6%E9%A6%86%E7%A9%BA%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [铊中毒](https://s.weibo.com/weibo?q=%E9%93%8A%E4%B8%AD%E6%AF%92&t=31&band_rank=9&Refer=top)<br />
+9. [肖爷爷全押中了](https://s.weibo.com/weibo?q=%E8%82%96%E7%88%B7%E7%88%B7%E5%85%A8%E6%8A%BC%E4%B8%AD%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
