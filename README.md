@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 11:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 11:32:01</h4></div>
 
 > 微博  
 
 1. [朱令去世](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%BB%A4%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
 2. [考研](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94&t=31&band_rank=2&Refer=top)<br />
 3. [听见2023的中国](https://s.weibo.com/weibo?q=%23%E5%90%AC%E8%A7%812023%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
-4. [图书馆空了](https://s.weibo.com/weibo?q=%E5%9B%BE%E4%B9%A6%E9%A6%86%E7%A9%BA%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
-5. [考研政治 简单](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%20%E7%AE%80%E5%8D%95&t=31&band_rank=5&Refer=top)<br />
+4. [考研政治 简单](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%20%E7%AE%80%E5%8D%95&t=31&band_rank=4&Refer=top)<br />
+5. [图书馆空了](https://s.weibo.com/weibo?q=%E5%9B%BE%E4%B9%A6%E9%A6%86%E7%A9%BA%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [娱乐圈真正的小孩哥出现了](https://s.weibo.com/weibo?q=%E5%A8%B1%E4%B9%90%E5%9C%88%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%B0%8F%E5%AD%A9%E5%93%A5%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [金靖爆改韩系美女](https://s.weibo.com/weibo?q=%E9%87%91%E9%9D%96%E7%88%86%E6%94%B9%E9%9F%A9%E7%B3%BB%E7%BE%8E%E5%A5%B3&t=31&band_rank=7&Refer=top)<br />
 8. [老人去世后房子被物业改成宿舍](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E5%90%8E%E6%88%BF%E5%AD%90%E8%A2%AB%E7%89%A9%E4%B8%9A%E6%94%B9%E6%88%90%E5%AE%BF%E8%88%8D%23&t=31&band_rank=8&Refer=top)<br />
