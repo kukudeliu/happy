@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 20:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 20:38:02</h4></div>
 
 > 微博  
 
 1. [老师 是不是发错卷了](https://s.weibo.com/weibo?q=%E8%80%81%E5%B8%88%20%E6%98%AF%E4%B8%8D%E6%98%AF%E5%8F%91%E9%94%99%E5%8D%B7%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [考研英语](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD&t=31&band_rank=2&Refer=top)<br />
+2. [自助草莓火锅](https://s.weibo.com/weibo?q=%E8%87%AA%E5%8A%A9%E8%8D%89%E8%8E%93%E7%81%AB%E9%94%85&t=31&band_rank=2&Refer=top)<br />
 3. [震区安置点的暖心事](https://s.weibo.com/weibo?q=%23%E9%9C%87%E5%8C%BA%E5%AE%89%E7%BD%AE%E7%82%B9%E7%9A%84%E6%9A%96%E5%BF%83%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
-4. [自助草莓火锅](https://s.weibo.com/weibo?q=%E8%87%AA%E5%8A%A9%E8%8D%89%E8%8E%93%E7%81%AB%E9%94%85&t=31&band_rank=4&Refer=top)<br />
+4. [考研英语](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD&t=31&band_rank=4&Refer=top)<br />
 5. [谷爱凌年收入近1.6亿](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%B9%B4%E6%94%B6%E5%85%A5%E8%BF%911.6%E4%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [朱令去世](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%BB%A4%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [英语一 最猛的1](https://s.weibo.com/weibo?q=%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E6%9C%80%E7%8C%9B%E7%9A%841&t=31&band_rank=7&Refer=top)<br />
