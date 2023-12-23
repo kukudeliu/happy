@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 16:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 16:36:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朱令去世](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%BB%A4%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [父亲称朱令2次铊中毒活到现在是奇迹](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%A7%B0%E6%9C%B1%E4%BB%A42%E6%AC%A1%E9%93%8A%E4%B8%AD%E6%AF%92%E6%B4%BB%E5%88%B0%E7%8E%B0%E5%9C%A8%E6%98%AF%E5%A5%87%E8%BF%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [考研政治 简单](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%20%E7%AE%80%E5%8D%95&t=31&band_rank=8&Refer=top)<br />
-9. [钟楚曦 谁不喜欢帅哥呢](https://s.weibo.com/weibo?q=%E9%92%9F%E6%A5%9A%E6%9B%A6%20%E8%B0%81%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%B8%85%E5%93%A5%E5%91%A2&t=31&band_rank=9&Refer=top)<br />
+9. [考研英语](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
