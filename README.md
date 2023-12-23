@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 12:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 12:50:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [听见2023的中国](https://s.weibo.com/weibo?q=%23%E5%90%AC%E8%A7%812023%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [肖爷爷全押中了](https://s.weibo.com/weibo?q=%E8%82%96%E7%88%B7%E7%88%B7%E5%85%A8%E6%8A%BC%E4%B8%AD%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [朱令父亲发声](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%BB%A4%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
-6. [管综好难](https://s.weibo.com/weibo?q=%E7%AE%A1%E7%BB%BC%E5%A5%BD%E9%9A%BE&t=31&band_rank=6&Refer=top)<br />
-7. [金靖爆改韩系美女](https://s.weibo.com/weibo?q=%E9%87%91%E9%9D%96%E7%88%86%E6%94%B9%E9%9F%A9%E7%B3%BB%E7%BE%8E%E5%A5%B3&t=31&band_rank=7&Refer=top)<br />
+6. [金靖爆改韩系美女](https://s.weibo.com/weibo?q=%E9%87%91%E9%9D%96%E7%88%86%E6%94%B9%E9%9F%A9%E7%B3%BB%E7%BE%8E%E5%A5%B3&t=31&band_rank=6&Refer=top)<br />
+7. [管综好难](https://s.weibo.com/weibo?q=%E7%AE%A1%E7%BB%BC%E5%A5%BD%E9%9A%BE&t=31&band_rank=7&Refer=top)<br />
 8. [肖秀荣 永远的神](https://s.weibo.com/weibo?q=%E8%82%96%E7%A7%80%E8%8D%A3%20%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%A5%9E&t=31&band_rank=8&Refer=top)<br />
 9. [清华大学发博悼念朱令](https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%8F%91%E5%8D%9A%E6%82%BC%E5%BF%B5%E6%9C%B1%E4%BB%A4&t=31&band_rank=9&Refer=top)<br />
 
