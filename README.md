@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 10:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 10:12:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [娱乐圈真正的小孩哥出现了](https://s.weibo.com/weibo?q=%E5%A8%B1%E4%B9%90%E5%9C%88%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%B0%8F%E5%AD%A9%E5%93%A5%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [赵晴 美女们的丫鬟](https://s.weibo.com/weibo?q=%E8%B5%B5%E6%99%B4%20%E7%BE%8E%E5%A5%B3%E4%BB%AC%E7%9A%84%E4%B8%AB%E9%AC%9F&t=31&band_rank=5&Refer=top)<br />
 6. [被老鼠咬后反咬女子室友发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%80%81%E9%BC%A0%E5%92%AC%E5%90%8E%E5%8F%8D%E5%92%AC%E5%A5%B3%E5%AD%90%E5%AE%A4%E5%8F%8B%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
-7. [易烊千玺当评委](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%BD%93%E8%AF%84%E5%A7%94&t=31&band_rank=7&Refer=top)<br />
+7. [甄嬛传最珍贵的是没一个人塌房](https://s.weibo.com/weibo?q=%E7%94%84%E5%AC%9B%E4%BC%A0%E6%9C%80%E7%8F%8D%E8%B4%B5%E7%9A%84%E6%98%AF%E6%B2%A1%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%A1%8C%E6%88%BF&t=31&band_rank=7&Refer=top)<br />
 8. [听音乐睡觉要小心耳虫效应](https://s.weibo.com/weibo?q=%23%E5%90%AC%E9%9F%B3%E4%B9%90%E7%9D%A1%E8%A7%89%E8%A6%81%E5%B0%8F%E5%BF%83%E8%80%B3%E8%99%AB%E6%95%88%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [甄嬛传最珍贵的是没一个人塌房](https://s.weibo.com/weibo?q=%E7%94%84%E5%AC%9B%E4%BC%A0%E6%9C%80%E7%8F%8D%E8%B4%B5%E7%9A%84%E6%98%AF%E6%B2%A1%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%A1%8C%E6%88%BF&t=31&band_rank=9&Refer=top)<br />
+9. [易烊千玺当评委](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%BD%93%E8%AF%84%E5%A7%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
