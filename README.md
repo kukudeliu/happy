@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 17:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 17:52:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朱令去世](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%BB%A4%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [朱令妈妈 我该怎么保护我的女儿](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%BB%A4%E5%A6%88%E5%A6%88%20%E6%88%91%E8%AF%A5%E6%80%8E%E4%B9%88%E4%BF%9D%E6%8A%A4%E6%88%91%E7%9A%84%E5%A5%B3%E5%84%BF&t=31&band_rank=7&Refer=top)<br />
 8. [英一作文 古代科学家](https://s.weibo.com/weibo?q=%E8%8B%B1%E4%B8%80%E4%BD%9C%E6%96%87%20%E5%8F%A4%E4%BB%A3%E7%A7%91%E5%AD%A6%E5%AE%B6&t=31&band_rank=8&Refer=top)<br />
-9. [甜馨拍杂志了](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8%E6%8B%8D%E6%9D%82%E5%BF%97%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [春晚 科目三](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%20%E7%A7%91%E7%9B%AE%E4%B8%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
