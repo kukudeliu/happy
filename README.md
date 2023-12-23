@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 13:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 13:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [肖爷爷全押中了](https://s.weibo.com/weibo?q=%E8%82%96%E7%88%B7%E7%88%B7%E5%85%A8%E6%8A%BC%E4%B8%AD%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [铊中毒](https://s.weibo.com/weibo?q=%E9%93%8A%E4%B8%AD%E6%AF%92&t=31&band_rank=7&Refer=top)<br />
 8. [孙杨或彻底无缘巴黎奥运会](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E6%88%96%E5%BD%BB%E5%BA%95%E6%97%A0%E7%BC%98%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [考研](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94&t=31&band_rank=9&Refer=top)<br />
+9. [考研政治大题 抄材料](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E5%A4%A7%E9%A2%98%20%E6%8A%84%E6%9D%90%E6%96%99&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
