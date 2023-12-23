@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 22:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 22:44:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [一图了解什么是铊中毒](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E4%BA%86%E8%A7%A3%E4%BB%80%E4%B9%88%E6%98%AF%E9%93%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [医生：铊是一种完美毒药](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%EF%BC%9A%E9%93%8A%E6%98%AF%E4%B8%80%E7%A7%8D%E5%AE%8C%E7%BE%8E%E6%AF%92%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子开电热毯睡觉半夜被子着火](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BC%80%E7%94%B5%E7%83%AD%E6%AF%AF%E7%9D%A1%E8%A7%89%E5%8D%8A%E5%A4%9C%E8%A2%AB%E5%AD%90%E7%9D%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [永辉超市甩卖资产熬寒冬](https://www.baidu.com/s?wd=%E6%B0%B8%E8%BE%89%E8%B6%85%E5%B8%82%E7%94%A9%E5%8D%96%E8%B5%84%E4%BA%A7%E7%86%AC%E5%AF%92%E5%86%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [甘肃省委书记深夜现身安置点](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%B7%B1%E5%A4%9C%E7%8E%B0%E8%BA%AB%E5%AE%89%E7%BD%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [甘肃消防辟谣搜救犬牺牲](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E6%B6%88%E9%98%B2%E8%BE%9F%E8%B0%A3%E6%90%9C%E6%95%91%E7%8A%AC%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [一图了解什么是铊中毒](https://www.baidu.com/s?wd=%E4%B8%80%E5%9B%BE%E4%BA%86%E8%A7%A3%E4%BB%80%E4%B9%88%E6%98%AF%E9%93%8A%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [医生：铊是一种完美毒药](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%EF%BC%9A%E9%93%8A%E6%98%AF%E4%B8%80%E7%A7%8D%E5%AE%8C%E7%BE%8E%E6%AF%92%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子开电热毯睡觉半夜被子着火](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BC%80%E7%94%B5%E7%83%AD%E6%AF%AF%E7%9D%A1%E8%A7%89%E5%8D%8A%E5%A4%9C%E8%A2%AB%E5%AD%90%E7%9D%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [永辉超市甩卖资产熬寒冬](https://www.baidu.com/s?wd=%E6%B0%B8%E8%BE%89%E8%B6%85%E5%B8%82%E7%94%A9%E5%8D%96%E8%B5%84%E4%BA%A7%E7%86%AC%E5%AF%92%E5%86%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [甘肃省委书记深夜现身安置点](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%B7%B1%E5%A4%9C%E7%8E%B0%E8%BA%AB%E5%AE%89%E7%BD%AE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [甘肃消防辟谣搜救犬牺牲](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E6%B6%88%E9%98%B2%E8%BE%9F%E8%B0%A3%E6%90%9C%E6%95%91%E7%8A%AC%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
