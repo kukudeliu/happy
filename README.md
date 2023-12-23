@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 09:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 09:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [易烊千玺当评委](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%BD%93%E8%AF%84%E5%A7%94&t=31&band_rank=6&Refer=top)<br />
 7. [考研第一天](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E7%AC%AC%E4%B8%80%E5%A4%A9&t=31&band_rank=7&Refer=top)<br />
 8. [金莎 参加活动戒指丢了](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%20%E5%8F%82%E5%8A%A0%E6%B4%BB%E5%8A%A8%E6%88%92%E6%8C%87%E4%B8%A2%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [泥浆中紧护孩子的姑姑怀有身孕](https://s.weibo.com/weibo?q=%23%E6%B3%A5%E6%B5%86%E4%B8%AD%E7%B4%A7%E6%8A%A4%E5%AD%A9%E5%AD%90%E7%9A%84%E5%A7%91%E5%A7%91%E6%80%80%E6%9C%89%E8%BA%AB%E5%AD%95%23&t=31&band_rank=9&Refer=top)<br />
+9. [普京为一名坐轮椅女学中断会议](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E4%B8%BA%E4%B8%80%E5%90%8D%E5%9D%90%E8%BD%AE%E6%A4%85%E5%A5%B3%E5%AD%A6%E4%B8%AD%E6%96%AD%E4%BC%9A%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
