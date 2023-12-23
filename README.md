@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 23:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 23:15:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [钟南山称不主张长期佩戴口罩](https://s.weibo.com/weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E7%A7%B0%E4%B8%8D%E4%B8%BB%E5%BC%A0%E9%95%BF%E6%9C%9F%E4%BD%A9%E6%88%B4%E5%8F%A3%E7%BD%A9%23&t=31&band_rank=2&Refer=top)<br />
 3. [震区安置点的暖心事](https://s.weibo.com/weibo?q=%23%E9%9C%87%E5%8C%BA%E5%AE%89%E7%BD%AE%E7%82%B9%E7%9A%84%E6%9A%96%E5%BF%83%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [甜馨 差不多十几年没看见嗯哼了](https://s.weibo.com/weibo?q=%E7%94%9C%E9%A6%A8%20%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%8D%81%E5%87%A0%E5%B9%B4%E6%B2%A1%E7%9C%8B%E8%A7%81%E5%97%AF%E5%93%BC%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
-5. [自助草莓火锅](https://s.weibo.com/weibo?q=%E8%87%AA%E5%8A%A9%E8%8D%89%E8%8E%93%E7%81%AB%E9%94%85&t=31&band_rank=5&Refer=top)<br />
+5. [微波炉热了十分钟的馒头](https://s.weibo.com/weibo?q=%E5%BE%AE%E6%B3%A2%E7%82%89%E7%83%AD%E4%BA%86%E5%8D%81%E5%88%86%E9%92%9F%E7%9A%84%E9%A6%92%E5%A4%B4&t=31&band_rank=5&Refer=top)<br />
 6. [朱令去世](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%BB%A4%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [微波炉热了十分钟的馒头](https://s.weibo.com/weibo?q=%E5%BE%AE%E6%B3%A2%E7%82%89%E7%83%AD%E4%BA%86%E5%8D%81%E5%88%86%E9%92%9F%E7%9A%84%E9%A6%92%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
+7. [自助草莓火锅](https://s.weibo.com/weibo?q=%E8%87%AA%E5%8A%A9%E8%8D%89%E8%8E%93%E7%81%AB%E9%94%85&t=31&band_rank=7&Refer=top)<br />
 8. [倪妮唐嫣工作室 卧龙凤雏](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%E5%94%90%E5%AB%A3%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E5%8D%A7%E9%BE%99%E5%87%A4%E9%9B%8F&t=31&band_rank=8&Refer=top)<br />
 9. [Jennie成立个人厂牌](https://s.weibo.com/weibo?q=%23Jennie%E6%88%90%E7%AB%8B%E4%B8%AA%E4%BA%BA%E5%8E%82%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
 
