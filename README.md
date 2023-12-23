@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 19:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 19:39:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朱令去世](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%BB%A4%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [英语一 最猛的1](https://s.weibo.com/weibo?q=%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E6%9C%80%E7%8C%9B%E7%9A%841&t=31&band_rank=7&Refer=top)<br />
 8. [考研英语 轻舟已撞大冰山](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%20%E8%BD%BB%E8%88%9F%E5%B7%B2%E6%92%9E%E5%A4%A7%E5%86%B0%E5%B1%B1&t=31&band_rank=8&Refer=top)<br />
-9. [花少5压中考研政治题](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%915%E5%8E%8B%E4%B8%AD%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E9%A2%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [救援队吃饭付钱被面馆老板霸气拒收](https://s.weibo.com/weibo?q=%23%E6%95%91%E6%8F%B4%E9%98%9F%E5%90%83%E9%A5%AD%E4%BB%98%E9%92%B1%E8%A2%AB%E9%9D%A2%E9%A6%86%E8%80%81%E6%9D%BF%E9%9C%B8%E6%B0%94%E6%8B%92%E6%94%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
