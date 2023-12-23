@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 09:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 09:24:01</h4></div>
 
 > 微博  
 
-1. [被老鼠咬后反咬女子室友发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%80%81%E9%BC%A0%E5%92%AC%E5%90%8E%E5%8F%8D%E5%92%AC%E5%A5%B3%E5%AD%90%E5%AE%A4%E5%8F%8B%E5%8F%91%E5%A3%B0%23&t=31&band_rank=1&Refer=top)<br />
-2. [考研人数3年来首次下降](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E4%BA%BA%E6%95%B03%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E4%B8%8B%E9%99%8D%23&t=31&band_rank=2&Refer=top)<br />
+1. [考研人数3年来首次下降](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E4%BA%BA%E6%95%B03%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E4%B8%8B%E9%99%8D%23&t=31&band_rank=1&Refer=top)<br />
+2. [被老鼠咬后反咬女子室友发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%80%81%E9%BC%A0%E5%92%AC%E5%90%8E%E5%8F%8D%E5%92%AC%E5%A5%B3%E5%AD%90%E5%AE%A4%E5%8F%8B%E5%8F%91%E5%A3%B0%23&t=31&band_rank=2&Refer=top)<br />
 3. [神十七航天员圆满完成首次出舱任务](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%B8%83%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%86%E6%BB%A1%E5%AE%8C%E6%88%90%E9%A6%96%E6%AC%A1%E5%87%BA%E8%88%B1%E4%BB%BB%E5%8A%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [图书馆空了](https://s.weibo.com/weibo?q=%E5%9B%BE%E4%B9%A6%E9%A6%86%E7%A9%BA%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [薛之谦曾为蔡文静片场发飙](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%9B%BE%E4%B8%BA%E8%94%A1%E6%96%87%E9%9D%99%E7%89%87%E5%9C%BA%E5%8F%91%E9%A3%99&t=31&band_rank=5&Refer=top)<br />
