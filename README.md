@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 12:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-23 12:05:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [考研](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94&t=31&band_rank=5&Refer=top)<br />
 6. [肖秀荣 永远的神](https://s.weibo.com/weibo?q=%E8%82%96%E7%A7%80%E8%8D%A3%20%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%A5%9E&t=31&band_rank=6&Refer=top)<br />
 7. [管综好难](https://s.weibo.com/weibo?q=%E7%AE%A1%E7%BB%BC%E5%A5%BD%E9%9A%BE&t=31&band_rank=7&Refer=top)<br />
-8. [金靖爆改韩系美女](https://s.weibo.com/weibo?q=%E9%87%91%E9%9D%96%E7%88%86%E6%94%B9%E9%9F%A9%E7%B3%BB%E7%BE%8E%E5%A5%B3&t=31&band_rank=8&Refer=top)<br />
-9. [考研政治答案](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E7%AD%94%E6%A1%88&t=31&band_rank=9&Refer=top)<br />
+8. [考研政治答案](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E7%AD%94%E6%A1%88&t=31&band_rank=8&Refer=top)<br />
+9. [金靖爆改韩系美女](https://s.weibo.com/weibo?q=%E9%87%91%E9%9D%96%E7%88%86%E6%94%B9%E9%9F%A9%E7%B3%BB%E7%BE%8E%E5%A5%B3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
