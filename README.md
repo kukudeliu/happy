@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 19:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 19:55:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵露思cos英雄联盟格温](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9Dcos%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%A0%BC%E6%B8%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [苹果 折叠手机](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%20%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA&t=31&band_rank=7&Refer=top)<br />
 8. [考研弃考](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%BC%83%E8%80%83&t=31&band_rank=8&Refer=top)<br />
-9. [15岁孙子重度抑郁爷奶掏所有钱帮治](https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%AD%99%E5%AD%90%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%E7%88%B7%E5%A5%B6%E6%8E%8F%E6%89%80%E6%9C%89%E9%92%B1%E5%B8%AE%E6%B2%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [滦州地震](https://s.weibo.com/weibo?q=%E6%BB%A6%E5%B7%9E%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
