@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 17:29:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 17:30:02</h4></div>
 
 > 微博  
 
-1. [滦州地震](https://s.weibo.com/weibo?q=%E6%BB%A6%E5%B7%9E%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top)<br />
-2. [考研结束](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E7%BB%93%E6%9D%9F&t=31&band_rank=2&Refer=top)<br />
+1. [考研结束](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E7%BB%93%E6%9D%9F&t=31&band_rank=1&Refer=top)<br />
+2. [滦州地震](https://s.weibo.com/weibo?q=%E6%BB%A6%E5%B7%9E%E5%9C%B0%E9%9C%87&t=31&band_rank=2&Refer=top)<br />
 3. [在声音中回首一起走过的2023](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%A3%B0%E9%9F%B3%E4%B8%AD%E5%9B%9E%E9%A6%96%E4%B8%80%E8%B5%B7%E8%B5%B0%E8%BF%87%E7%9A%842023%23&t=31&band_rank=3&Refer=top)<br />
 4. [周扬青家的圣诞树](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E5%AE%B6%E7%9A%84%E5%9C%A3%E8%AF%9E%E6%A0%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [考研弃考](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%BC%83%E8%80%83&t=31&band_rank=5&Refer=top)<br />
 6. [女网红因甘肃地震不当言论被禁言30天](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%9B%A0%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E8%A2%AB%E7%A6%81%E8%A8%8030%E5%A4%A9%23&t=31&band_rank=6&Refer=top)<br />
-7. [一路生花](https://s.weibo.com/weibo?q=%E4%B8%80%E8%B7%AF%E7%94%9F%E8%8A%B1&t=31&band_rank=7&Refer=top)<br />
-8. [进入25考研时代](https://s.weibo.com/weibo?q=%E8%BF%9B%E5%85%A525%E8%80%83%E7%A0%94%E6%97%B6%E4%BB%A3&t=31&band_rank=8&Refer=top)<br />
+7. [进入25考研时代](https://s.weibo.com/weibo?q=%E8%BF%9B%E5%85%A525%E8%80%83%E7%A0%94%E6%97%B6%E4%BB%A3&t=31&band_rank=7&Refer=top)<br />
+8. [一路生花](https://s.weibo.com/weibo?q=%E4%B8%80%E8%B7%AF%E7%94%9F%E8%8A%B1&t=31&band_rank=8&Refer=top)<br />
 9. [黄奕七套礼服全穿不上求助网友](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A5%95%E4%B8%83%E5%A5%97%E7%A4%BC%E6%9C%8D%E5%85%A8%E7%A9%BF%E4%B8%8D%E4%B8%8A%E6%B1%82%E5%8A%A9%E7%BD%91%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
