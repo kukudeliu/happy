@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 21:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 21:52:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [中国化妆品在韩国火了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8C%96%E5%A6%86%E5%93%81%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%81%AB%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [追星 谈恋爱](https://s.weibo.com/weibo?q=%E8%BF%BD%E6%98%9F%20%E8%B0%88%E6%81%8B%E7%88%B1&t=31&band_rank=6&Refer=top)<br />
 7. [黄绮珊 没有孩子是我的人生遗憾](https://s.weibo.com/weibo?q=%E9%BB%84%E7%BB%AE%E7%8F%8A%20%E6%B2%A1%E6%9C%89%E5%AD%A9%E5%AD%90%E6%98%AF%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F%E9%81%97%E6%86%BE&t=31&band_rank=7&Refer=top)<br />
-8. [霍启刚回应向甘肃捐款7000万](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E5%9B%9E%E5%BA%94%E5%90%91%E7%94%98%E8%82%83%E6%8D%90%E6%AC%BE7000%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [羽生结弦 Goliath](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%20Goliath&t=31&band_rank=9&Refer=top)<br />
+8. [羽生结弦 Goliath](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%20Goliath&t=31&band_rank=8&Refer=top)<br />
+9. [霍启刚回应向甘肃捐款7000万](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E5%9B%9E%E5%BA%94%E5%90%91%E7%94%98%E8%82%83%E6%8D%90%E6%AC%BE7000%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
