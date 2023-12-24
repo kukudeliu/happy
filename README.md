@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 11:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 11:23:01</h4></div>
 
 > 微博  
 
 1. [十年了 只有郭敬明拍出了真的纸醉金迷](https://s.weibo.com/weibo?q=%E5%8D%81%E5%B9%B4%E4%BA%86%20%E5%8F%AA%E6%9C%89%E9%83%AD%E6%95%AC%E6%98%8E%E6%8B%8D%E5%87%BA%E4%BA%86%E7%9C%9F%E7%9A%84%E7%BA%B8%E9%86%89%E9%87%91%E8%BF%B7&t=31&band_rank=1&Refer=top)<br />
 2. [宁远舟死在了他最想活的那一年](https://s.weibo.com/weibo?q=%E5%AE%81%E8%BF%9C%E8%88%9F%E6%AD%BB%E5%9C%A8%E4%BA%86%E4%BB%96%E6%9C%80%E6%83%B3%E6%B4%BB%E7%9A%84%E9%82%A3%E4%B8%80%E5%B9%B4&t=31&band_rank=2&Refer=top)<br />
 3. [遇见2023的中国](https://s.weibo.com/weibo?q=%23%E9%81%87%E8%A7%812023%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
-4. [刘亦菲 开屏](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%BC%80%E5%B1%8F&t=31&band_rank=4&Refer=top)<br />
-5. [考研数学](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6&t=31&band_rank=5&Refer=top)<br />
+4. [考研数学](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6&t=31&band_rank=4&Refer=top)<br />
+5. [刘亦菲 开屏](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%BC%80%E5%B1%8F&t=31&band_rank=5&Refer=top)<br />
 6. [长津湖](https://s.weibo.com/weibo?q=%E9%95%BF%E6%B4%A5%E6%B9%96&t=31&band_rank=6&Refer=top)<br />
 7. [教育局通报老师被指打伤学生](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E8%80%81%E5%B8%88%E8%A2%AB%E6%8C%87%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [长期戴口罩容易肺结节吗](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%88%B4%E5%8F%A3%E7%BD%A9%E5%AE%B9%E6%98%93%E8%82%BA%E7%BB%93%E8%8A%82%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
