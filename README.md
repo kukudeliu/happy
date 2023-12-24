@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 10:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 10:56:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [遇见2023的中国](https://s.weibo.com/weibo?q=%23%E9%81%87%E8%A7%812023%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [刘亦菲 开屏](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%BC%80%E5%B1%8F&t=31&band_rank=4&Refer=top)<br />
 5. [长津湖](https://s.weibo.com/weibo?q=%E9%95%BF%E6%B4%A5%E6%B9%96&t=31&band_rank=5&Refer=top)<br />
-6. [铊中毒曾3次出现在高校](https://s.weibo.com/weibo?q=%23%E9%93%8A%E4%B8%AD%E6%AF%92%E6%9B%BE3%E6%AC%A1%E5%87%BA%E7%8E%B0%E5%9C%A8%E9%AB%98%E6%A0%A1%23&t=31&band_rank=6&Refer=top)<br />
-7. [十年了 只有郭敬明拍出了真的纸醉金迷](https://s.weibo.com/weibo?q=%E5%8D%81%E5%B9%B4%E4%BA%86%20%E5%8F%AA%E6%9C%89%E9%83%AD%E6%95%AC%E6%98%8E%E6%8B%8D%E5%87%BA%E4%BA%86%E7%9C%9F%E7%9A%84%E7%BA%B8%E9%86%89%E9%87%91%E8%BF%B7&t=31&band_rank=7&Refer=top)<br />
-8. [乐华员工选贾乃亮当老板](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%91%98%E5%B7%A5%E9%80%89%E8%B4%BE%E4%B9%83%E4%BA%AE%E5%BD%93%E8%80%81%E6%9D%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [考研这事儿大学生终于卷不动了](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E8%BF%99%E4%BA%8B%E5%84%BF%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BB%88%E4%BA%8E%E5%8D%B7%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+6. [十年了 只有郭敬明拍出了真的纸醉金迷](https://s.weibo.com/weibo?q=%E5%8D%81%E5%B9%B4%E4%BA%86%20%E5%8F%AA%E6%9C%89%E9%83%AD%E6%95%AC%E6%98%8E%E6%8B%8D%E5%87%BA%E4%BA%86%E7%9C%9F%E7%9A%84%E7%BA%B8%E9%86%89%E9%87%91%E8%BF%B7&t=31&band_rank=6&Refer=top)<br />
+7. [铊中毒曾3次出现在高校](https://s.weibo.com/weibo?q=%23%E9%93%8A%E4%B8%AD%E6%AF%92%E6%9B%BE3%E6%AC%A1%E5%87%BA%E7%8E%B0%E5%9C%A8%E9%AB%98%E6%A0%A1%23&t=31&band_rank=7&Refer=top)<br />
+8. [考研这事儿大学生终于卷不动了](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E8%BF%99%E4%BA%8B%E5%84%BF%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BB%88%E4%BA%8E%E5%8D%B7%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [乐华员工选贾乃亮当老板](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%91%98%E5%B7%A5%E9%80%89%E8%B4%BE%E4%B9%83%E4%BA%AE%E5%BD%93%E8%80%81%E6%9D%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
