@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 22:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 22:23:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [厌蠢症](https://s.weibo.com/weibo?q=%E5%8E%8C%E8%A0%A2%E7%97%87&t=31&band_rank=2&Refer=top)<br />
 3. [这些科技硬实力彰显中国底气](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E7%A7%91%E6%8A%80%E7%A1%AC%E5%AE%9E%E5%8A%9B%E5%BD%B0%E6%98%BE%E4%B8%AD%E5%9B%BD%E5%BA%95%E6%B0%94%23&t=31&band_rank=3&Refer=top)<br />
 4. [主持人大赛冠军](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%A4%A7%E8%B5%9B%E5%86%A0%E5%86%9B%23&t=31&band_rank=4&Refer=top)<br />
-5. [中国化妆品在韩国火了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8C%96%E5%A6%86%E5%93%81%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%81%AB%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [追星 谈恋爱](https://s.weibo.com/weibo?q=%E8%BF%BD%E6%98%9F%20%E8%B0%88%E6%81%8B%E7%88%B1&t=31&band_rank=6&Refer=top)<br />
+5. [追星 谈恋爱](https://s.weibo.com/weibo?q=%E8%BF%BD%E6%98%9F%20%E8%B0%88%E6%81%8B%E7%88%B1&t=31&band_rank=5&Refer=top)<br />
+6. [中国化妆品在韩国火了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8C%96%E5%A6%86%E5%93%81%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%81%AB%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子仅有10万元买下191万的房子后悔](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BB%85%E6%9C%8910%E4%B8%87%E5%85%83%E4%B9%B0%E4%B8%8B191%E4%B8%87%E7%9A%84%E6%88%BF%E5%AD%90%E5%90%8E%E6%82%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [羽生结弦 Goliath](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%20Goliath&t=31&band_rank=8&Refer=top)<br />
 9. [黄绮珊 没有孩子是我的人生遗憾](https://s.weibo.com/weibo?q=%E9%BB%84%E7%BB%AE%E7%8F%8A%20%E6%B2%A1%E6%9C%89%E5%AD%A9%E5%AD%90%E6%98%AF%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F%E9%81%97%E6%86%BE&t=31&band_rank=9&Refer=top)<br />
