@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 12:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 12:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [曾参与朱令铊中毒抢救诊治医生发声](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%8F%82%E4%B8%8E%E6%9C%B1%E4%BB%A4%E9%93%8A%E4%B8%AD%E6%AF%92%E6%8A%A2%E6%95%91%E8%AF%8A%E6%B2%BB%E5%8C%BB%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [数三 选拔活体计算器](https://s.weibo.com/weibo?q=%E6%95%B0%E4%B8%89%20%E9%80%89%E6%8B%94%E6%B4%BB%E4%BD%93%E8%AE%A1%E7%AE%97%E5%99%A8&t=31&band_rank=7&Refer=top)<br />
 8. [考研西综太难了](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E8%A5%BF%E7%BB%BC%E5%A4%AA%E9%9A%BE%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [数二难不难](https://s.weibo.com/weibo?q=%E6%95%B0%E4%BA%8C%E9%9A%BE%E4%B8%8D%E9%9A%BE&t=31&band_rank=9&Refer=top)<br />
+9. [396 写不完](https://s.weibo.com/weibo?q=396%20%E5%86%99%E4%B8%8D%E5%AE%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
