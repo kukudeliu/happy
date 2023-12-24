@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 14:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 14:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵昭仪手写8套花少穿搭](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%98%AD%E4%BB%AA%E6%89%8B%E5%86%998%E5%A5%97%E8%8A%B1%E5%B0%91%E7%A9%BF%E6%90%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘亦菲 开屏](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%BC%80%E5%B1%8F&t=31&band_rank=7&Refer=top)<br />
 8. [浙江宣传发文考研不能成为二次高考](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%AE%A3%E4%BC%A0%E5%8F%91%E6%96%87%E8%80%83%E7%A0%94%E4%B8%8D%E8%83%BD%E6%88%90%E4%B8%BA%E4%BA%8C%E6%AC%A1%E9%AB%98%E8%80%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [管泽元余霜婚礼](https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%E4%BD%99%E9%9C%9C%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [一念关山编剧回应争议](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E7%BC%96%E5%89%A7%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
