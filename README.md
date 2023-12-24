@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 11:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 11:01:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [胡歌 捡垃圾是没有办法的办法](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%20%E6%8D%A1%E5%9E%83%E5%9C%BE%E6%98%AF%E6%B2%A1%E6%9C%89%E5%8A%9E%E6%B3%95%E7%9A%84%E5%8A%9E%E6%B3%95&t=31&band_rank=5&Refer=top)<br />
 6. [长津湖](https://s.weibo.com/weibo?q=%E9%95%BF%E6%B4%A5%E6%B9%96&t=31&band_rank=6&Refer=top)<br />
 7. [考研这事儿大学生终于卷不动了](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E8%BF%99%E4%BA%8B%E5%84%BF%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BB%88%E4%BA%8E%E5%8D%B7%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [铊中毒曾3次出现在高校](https://s.weibo.com/weibo?q=%23%E9%93%8A%E4%B8%AD%E6%AF%92%E6%9B%BE3%E6%AC%A1%E5%87%BA%E7%8E%B0%E5%9C%A8%E9%AB%98%E6%A0%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [乐华员工选贾乃亮当老板](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%91%98%E5%B7%A5%E9%80%89%E8%B4%BE%E4%B9%83%E4%BA%AE%E5%BD%93%E8%80%81%E6%9D%BF%23&t=31&band_rank=9&Refer=top)<br />
+8. [乐华员工选贾乃亮当老板](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%91%98%E5%B7%A5%E9%80%89%E8%B4%BE%E4%B9%83%E4%BA%AE%E5%BD%93%E8%80%81%E6%9D%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [铊中毒曾3次出现在高校](https://s.weibo.com/weibo?q=%23%E9%93%8A%E4%B8%AD%E6%AF%92%E6%9B%BE3%E6%AC%A1%E5%87%BA%E7%8E%B0%E5%9C%A8%E9%AB%98%E6%A0%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
