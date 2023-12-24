@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 21:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 21:14:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [黄绮珊 没有孩子是我的人生遗憾](https://s.weibo.com/weibo?q=%E9%BB%84%E7%BB%AE%E7%8F%8A%20%E6%B2%A1%E6%9C%89%E5%AD%A9%E5%AD%90%E6%98%AF%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F%E9%81%97%E6%86%BE&t=31&band_rank=5&Refer=top)<br />
 6. [2023国产烂片爆笑盘点](https://s.weibo.com/weibo?q=2023%E5%9B%BD%E4%BA%A7%E7%83%82%E7%89%87%E7%88%86%E7%AC%91%E7%9B%98%E7%82%B9&t=31&band_rank=6&Refer=top)<br />
 7. [考研手机没关机](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E6%89%8B%E6%9C%BA%E6%B2%A1%E5%85%B3%E6%9C%BA&t=31&band_rank=7&Refer=top)<br />
-8. [陈都灵跳舞 学霸的自信](https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%E8%B7%B3%E8%88%9E%20%E5%AD%A6%E9%9C%B8%E7%9A%84%E8%87%AA%E4%BF%A1&t=31&band_rank=8&Refer=top)<br />
-9. [中国化妆品在韩国火了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8C%96%E5%A6%86%E5%93%81%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%81%AB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [中国化妆品在韩国火了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8C%96%E5%A6%86%E5%93%81%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%81%AB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [陈都灵跳舞 学霸的自信](https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%E8%B7%B3%E8%88%9E%20%E5%AD%A6%E9%9C%B8%E7%9A%84%E8%87%AA%E4%BF%A1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
