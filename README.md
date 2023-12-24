@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 09:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 09:17:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [你一共经历了7434次精神内耗](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%B8%80%E5%85%B1%E7%BB%8F%E5%8E%86%E4%BA%867434%E6%AC%A1%E7%B2%BE%E7%A5%9E%E5%86%85%E8%80%97&t=31&band_rank=5&Refer=top)<br />
 6. [铊中毒曾3次出现在高校](https://s.weibo.com/weibo?q=%23%E9%93%8A%E4%B8%AD%E6%AF%92%E6%9B%BE3%E6%AC%A1%E5%87%BA%E7%8E%B0%E5%9C%A8%E9%AB%98%E6%A0%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [外卖员偷了另一个外卖员送的外卖](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%91%98%E5%81%B7%E4%BA%86%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%A4%96%E5%8D%96%E5%91%98%E9%80%81%E7%9A%84%E5%A4%96%E5%8D%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [美国常驻联合国代表的手怎么了](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B8%B8%E9%A9%BB%E8%81%94%E5%90%88%E5%9B%BD%E4%BB%A3%E8%A1%A8%E7%9A%84%E6%89%8B%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [乐华员工选贾乃亮当老板](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%91%98%E5%B7%A5%E9%80%89%E8%B4%BE%E4%B9%83%E4%BA%AE%E5%BD%93%E8%80%81%E6%9D%BF%23&t=31&band_rank=9&Refer=top)<br />
+8. [乐华员工选贾乃亮当老板](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%91%98%E5%B7%A5%E9%80%89%E8%B4%BE%E4%B9%83%E4%BA%AE%E5%BD%93%E8%80%81%E6%9D%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [美国常驻联合国代表的手怎么了](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B8%B8%E9%A9%BB%E8%81%94%E5%90%88%E5%9B%BD%E4%BB%A3%E8%A1%A8%E7%9A%84%E6%89%8B%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
