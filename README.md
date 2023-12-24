@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 19:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 19:15:01</h4></div>
 
 > 微博  
 
-1. [滦州地震](https://s.weibo.com/weibo?q=%E6%BB%A6%E5%B7%9E%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top)<br />
-2. [15岁孙子重度抑郁爷奶掏所有钱帮治](https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%AD%99%E5%AD%90%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%E7%88%B7%E5%A5%B6%E6%8E%8F%E6%89%80%E6%9C%89%E9%92%B1%E5%B8%AE%E6%B2%BB%23&t=31&band_rank=2&Refer=top)<br />
+1. [15岁孙子重度抑郁爷奶掏所有钱帮治](https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%AD%99%E5%AD%90%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%E7%88%B7%E5%A5%B6%E6%8E%8F%E6%89%80%E6%9C%89%E9%92%B1%E5%B8%AE%E6%B2%BB%23&t=31&band_rank=1&Refer=top)<br />
+2. [滦州地震](https://s.weibo.com/weibo?q=%E6%BB%A6%E5%B7%9E%E5%9C%B0%E9%9C%87&t=31&band_rank=2&Refer=top)<br />
 3. [在声音中回首一起走过的2023](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%A3%B0%E9%9F%B3%E4%B8%AD%E5%9B%9E%E9%A6%96%E4%B8%80%E8%B5%B7%E8%B5%B0%E8%BF%87%E7%9A%842023%23&t=31&band_rank=3&Refer=top)<br />
 4. [赵露思cos英雄联盟格温](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9Dcos%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%A0%BC%E6%B8%A9%23&t=31&band_rank=4&Refer=top)<br />
 5. [男孩患白血病妈妈面对意外钱财拾金不昧](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E6%82%A3%E7%99%BD%E8%A1%80%E7%97%85%E5%A6%88%E5%A6%88%E9%9D%A2%E5%AF%B9%E6%84%8F%E5%A4%96%E9%92%B1%E8%B4%A2%E6%8B%BE%E9%87%91%E4%B8%8D%E6%98%A7%23&t=31&band_rank=5&Refer=top)<br />
