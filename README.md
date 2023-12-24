@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 18:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 18:40:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [男孩患白血病妈妈面对意外钱财拾金不昧](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E6%82%A3%E7%99%BD%E8%A1%80%E7%97%85%E5%A6%88%E5%A6%88%E9%9D%A2%E5%AF%B9%E6%84%8F%E5%A4%96%E9%92%B1%E8%B4%A2%E6%8B%BE%E9%87%91%E4%B8%8D%E6%98%A7%23&t=31&band_rank=2&Refer=top)<br />
 3. [在声音中回首一起走过的2023](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%A3%B0%E9%9F%B3%E4%B8%AD%E5%9B%9E%E9%A6%96%E4%B8%80%E8%B5%B7%E8%B5%B0%E8%BF%87%E7%9A%842023%23&t=31&band_rank=3&Refer=top)<br />
 4. [考研结束](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E7%BB%93%E6%9D%9F&t=31&band_rank=4&Refer=top)<br />
-5. [高考和考研结束走出考场的心情图鉴](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%92%8C%E8%80%83%E7%A0%94%E7%BB%93%E6%9D%9F%E8%B5%B0%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E5%BF%83%E6%83%85%E5%9B%BE%E9%89%B4%23&t=31&band_rank=5&Refer=top)<br />
-6. [408 看不懂中文了](https://s.weibo.com/weibo?q=408%20%E7%9C%8B%E4%B8%8D%E6%87%82%E4%B8%AD%E6%96%87%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [考研弃考](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%BC%83%E8%80%83&t=31&band_rank=7&Refer=top)<br />
-8. [法综 我自己编笑了](https://s.weibo.com/weibo?q=%E6%B3%95%E7%BB%BC%20%E6%88%91%E8%87%AA%E5%B7%B1%E7%BC%96%E7%AC%91%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+5. [408 看不懂中文了](https://s.weibo.com/weibo?q=408%20%E7%9C%8B%E4%B8%8D%E6%87%82%E4%B8%AD%E6%96%87%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
+6. [考研弃考](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%BC%83%E8%80%83&t=31&band_rank=6&Refer=top)<br />
+7. [法综 我自己编笑了](https://s.weibo.com/weibo?q=%E6%B3%95%E7%BB%BC%20%E6%88%91%E8%87%AA%E5%B7%B1%E7%BC%96%E7%AC%91%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [15岁孙子重度抑郁爷奶掏所有钱帮治](https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%AD%99%E5%AD%90%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%E7%88%B7%E5%A5%B6%E6%8E%8F%E6%89%80%E6%9C%89%E9%92%B1%E5%B8%AE%E6%B2%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [AG战胜狼队](https://s.weibo.com/weibo?q=%23AG%E6%88%98%E8%83%9C%E7%8B%BC%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
