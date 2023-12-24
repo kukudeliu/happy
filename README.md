@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 22:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 22:16:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [主持人大赛冠军](https://s.weibo.com/weibo?q=%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%A4%A7%E8%B5%9B%E5%86%A0%E5%86%9B&t=31&band_rank=5&Refer=top)<br />
 6. [厌蠢症](https://s.weibo.com/weibo?q=%E5%8E%8C%E8%A0%A2%E7%97%87&t=31&band_rank=6&Refer=top)<br />
 7. [男子仅有10万元买下191万的房子后悔](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BB%85%E6%9C%8910%E4%B8%87%E5%85%83%E4%B9%B0%E4%B8%8B191%E4%B8%87%E7%9A%84%E6%88%BF%E5%AD%90%E5%90%8E%E6%82%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [李明德 共生关系](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%98%8E%E5%BE%B7%20%E5%85%B1%E7%94%9F%E5%85%B3%E7%B3%BB&t=31&band_rank=8&Refer=top)<br />
-9. [黄绮珊 没有孩子是我的人生遗憾](https://s.weibo.com/weibo?q=%E9%BB%84%E7%BB%AE%E7%8F%8A%20%E6%B2%A1%E6%9C%89%E5%AD%A9%E5%AD%90%E6%98%AF%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F%E9%81%97%E6%86%BE&t=31&band_rank=9&Refer=top)<br />
+8. [黄绮珊 没有孩子是我的人生遗憾](https://s.weibo.com/weibo?q=%E9%BB%84%E7%BB%AE%E7%8F%8A%20%E6%B2%A1%E6%9C%89%E5%AD%A9%E5%AD%90%E6%98%AF%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F%E9%81%97%E6%86%BE&t=31&band_rank=8&Refer=top)<br />
+9. [李明德 共生关系](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%98%8E%E5%BE%B7%20%E5%85%B1%E7%94%9F%E5%85%B3%E7%B3%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
