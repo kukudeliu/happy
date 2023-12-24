@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 13:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 13:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朱令讣告](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%BB%A4%E8%AE%A3%E5%91%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [考研数学](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6&t=31&band_rank=7&Refer=top)<br />
 8. [浙江宣传发文考研不能成为二次高考](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%AE%A3%E4%BC%A0%E5%8F%91%E6%96%87%E8%80%83%E7%A0%94%E4%B8%8D%E8%83%BD%E6%88%90%E4%B8%BA%E4%BA%8C%E6%AC%A1%E9%AB%98%E8%80%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [考完333 我心死了](https://s.weibo.com/weibo?q=%E8%80%83%E5%AE%8C333%20%E6%88%91%E5%BF%83%E6%AD%BB%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [许晴好会走啊](https://s.weibo.com/weibo?q=%E8%AE%B8%E6%99%B4%E5%A5%BD%E4%BC%9A%E8%B5%B0%E5%95%8A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
