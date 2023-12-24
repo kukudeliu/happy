@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 11:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 11:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘亦菲 开屏](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%BC%80%E5%B1%8F&t=31&band_rank=6&Refer=top)<br />
 7. [可可西里网红狼铁饭碗被端](https://s.weibo.com/weibo?q=%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E7%BD%91%E7%BA%A2%E7%8B%BC%E9%93%81%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%AB%AF&t=31&band_rank=7&Refer=top)<br />
 8. [法硕 汗流浃背](https://s.weibo.com/weibo?q=%E6%B3%95%E7%A1%95%20%E6%B1%97%E6%B5%81%E6%B5%83%E8%83%8C&t=31&band_rank=8&Refer=top)<br />
-9. [教育局通报老师被指打伤学生](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E8%80%81%E5%B8%88%E8%A2%AB%E6%8C%87%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [396经济类联考](https://s.weibo.com/weibo?q=396%E7%BB%8F%E6%B5%8E%E7%B1%BB%E8%81%94%E8%80%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
