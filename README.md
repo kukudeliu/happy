@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 18:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 18:45:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [考研结束](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E7%BB%93%E6%9D%9F&t=31&band_rank=4&Refer=top)<br />
 5. [15岁孙子重度抑郁爷奶掏所有钱帮治](https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%AD%99%E5%AD%90%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%E7%88%B7%E5%A5%B6%E6%8E%8F%E6%89%80%E6%9C%89%E9%92%B1%E5%B8%AE%E6%B2%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [408 看不懂中文了](https://s.weibo.com/weibo?q=408%20%E7%9C%8B%E4%B8%8D%E6%87%82%E4%B8%AD%E6%96%87%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [考研弃考](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%BC%83%E8%80%83&t=31&band_rank=7&Refer=top)<br />
-8. [法综 我自己编笑了](https://s.weibo.com/weibo?q=%E6%B3%95%E7%BB%BC%20%E6%88%91%E8%87%AA%E5%B7%B1%E7%BC%96%E7%AC%91%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [中国蓝盔正式结束10年维和使命](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%93%9D%E7%9B%94%E6%AD%A3%E5%BC%8F%E7%BB%93%E6%9D%9F10%E5%B9%B4%E7%BB%B4%E5%92%8C%E4%BD%BF%E5%91%BD%23&t=31&band_rank=9&Refer=top)<br />
+7. [中国蓝盔正式结束10年维和使命](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%93%9D%E7%9B%94%E6%AD%A3%E5%BC%8F%E7%BB%93%E6%9D%9F10%E5%B9%B4%E7%BB%B4%E5%92%8C%E4%BD%BF%E5%91%BD%23&t=31&band_rank=7&Refer=top)<br />
+8. [考研弃考](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%BC%83%E8%80%83&t=31&band_rank=8&Refer=top)<br />
+9. [法综 我自己编笑了](https://s.weibo.com/weibo?q=%E6%B3%95%E7%BB%BC%20%E6%88%91%E8%87%AA%E5%B7%B1%E7%BC%96%E7%AC%91%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
