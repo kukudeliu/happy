@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 15:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 15:22:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [男朋友考研 我好无助](https://s.weibo.com/weibo?q=%E7%94%B7%E6%9C%8B%E5%8F%8B%E8%80%83%E7%A0%94%20%E6%88%91%E5%A5%BD%E6%97%A0%E5%8A%A9&t=31&band_rank=2&Refer=top)<br />
 3. [在声音中回首一起走过的2023](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%A3%B0%E9%9F%B3%E4%B8%AD%E5%9B%9E%E9%A6%96%E4%B8%80%E8%B5%B7%E8%B5%B0%E8%BF%87%E7%9A%842023%23&t=31&band_rank=3&Refer=top)<br />
 4. [十年了 只有郭敬明拍出了真的纸醉金迷](https://s.weibo.com/weibo?q=%E5%8D%81%E5%B9%B4%E4%BA%86%20%E5%8F%AA%E6%9C%89%E9%83%AD%E6%95%AC%E6%98%8E%E6%8B%8D%E5%87%BA%E4%BA%86%E7%9C%9F%E7%9A%84%E7%BA%B8%E9%86%89%E9%87%91%E8%BF%B7&t=31&band_rank=4&Refer=top)<br />
-5. [东方甄选将停播两天](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%B0%86%E5%81%9C%E6%92%AD%E4%B8%A4%E5%A4%A9%23&t=31&band_rank=5&Refer=top)<br />
+5. [易烊千玺的饺子](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%9A%84%E9%A5%BA%E5%AD%90&t=31&band_rank=5&Refer=top)<br />
 6. [朱令讣告](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%BB%A4%E8%AE%A3%E5%91%8A%23&t=31&band_rank=6&Refer=top)<br />
-7. [易烊千玺的饺子](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%9A%84%E9%A5%BA%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
+7. [东方甄选将停播两天](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%B0%86%E5%81%9C%E6%92%AD%E4%B8%A4%E5%A4%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [一念关山编剧回应争议](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E7%BC%96%E5%89%A7%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
 9. [中国女子在日本滑雪被雪掩埋不幸去世](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%BB%91%E9%9B%AA%E8%A2%AB%E9%9B%AA%E6%8E%A9%E5%9F%8B%E4%B8%8D%E5%B9%B8%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
