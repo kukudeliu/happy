@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 18:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 18:18:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [滦州地震](https://s.weibo.com/weibo?q=%E6%BB%A6%E5%B7%9E%E5%9C%B0%E9%9C%87&t=31&band_rank=4&Refer=top)<br />
 5. [中国蓝盔正式结束10年维和使命](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%93%9D%E7%9B%94%E6%AD%A3%E5%BC%8F%E7%BB%93%E6%9D%9F10%E5%B9%B4%E7%BB%B4%E5%92%8C%E4%BD%BF%E5%91%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [考研弃考](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%BC%83%E8%80%83&t=31&band_rank=6&Refer=top)<br />
-7. [408 看不懂中文了](https://s.weibo.com/weibo?q=408%20%E7%9C%8B%E4%B8%8D%E6%87%82%E4%B8%AD%E6%96%87%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [法综 我自己编笑了](https://s.weibo.com/weibo?q=%E6%B3%95%E7%BB%BC%20%E6%88%91%E8%87%AA%E5%B7%B1%E7%BC%96%E7%AC%91%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [女网红因甘肃地震不当言论被禁言30天](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%9B%A0%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E8%A2%AB%E7%A6%81%E8%A8%8030%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
+7. [高考和考研结束走出考场的心情图鉴](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%92%8C%E8%80%83%E7%A0%94%E7%BB%93%E6%9D%9F%E8%B5%B0%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E5%BF%83%E6%83%85%E5%9B%BE%E9%89%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [408 看不懂中文了](https://s.weibo.com/weibo?q=408%20%E7%9C%8B%E4%B8%8D%E6%87%82%E4%B8%AD%E6%96%87%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [法综 我自己编笑了](https://s.weibo.com/weibo?q=%E6%B3%95%E7%BB%BC%20%E6%88%91%E8%87%AA%E5%B7%B1%E7%BC%96%E7%AC%91%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
