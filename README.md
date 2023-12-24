@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 20:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 20:39:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 > 百度  
 
 1. [“千万工程”久久为功](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%83%E4%B8%87%E5%B7%A5%E7%A8%8B%E2%80%9D%E4%B9%85%E4%B9%85%E4%B8%BA%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [知名超市突然停业 门店曾超200家](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E8%B6%85%E5%B8%82%E7%AA%81%E7%84%B6%E5%81%9C%E4%B8%9A+%E9%97%A8%E5%BA%97%E6%9B%BE%E8%B6%85200%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [男子仅有10万 买下191万房子后悔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BB%85%E6%9C%8910%E4%B8%87+%E4%B9%B0%E4%B8%8B191%E4%B8%87%E6%88%BF%E5%AD%90%E5%90%8E%E6%82%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [“早餐奶奶”去世：坚持5毛钱不涨价](https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A9%E9%A4%90%E5%A5%B6%E5%A5%B6%E2%80%9D%E5%8E%BB%E4%B8%96%EF%BC%9A%E5%9D%9A%E6%8C%815%E6%AF%9B%E9%92%B1%E4%B8%8D%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [热力数据见证经济强劲脉动](https://www.baidu.com/s?wd=%E7%83%AD%E5%8A%9B%E6%95%B0%E6%8D%AE%E8%A7%81%E8%AF%81%E7%BB%8F%E6%B5%8E%E5%BC%BA%E5%8A%B2%E8%84%89%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [霍启刚回应向甘肃捐款7000万](https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E5%9B%9E%E5%BA%94%E5%90%91%E7%94%98%E8%82%83%E6%8D%90%E6%AC%BE7000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子仅有10万 买下191万房子后悔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BB%85%E6%9C%8910%E4%B8%87+%E4%B9%B0%E4%B8%8B191%E4%B8%87%E6%88%BF%E5%AD%90%E5%90%8E%E6%82%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [知名超市突然停业 门店曾超200家](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E8%B6%85%E5%B8%82%E7%AA%81%E7%84%B6%E5%81%9C%E4%B8%9A+%E9%97%A8%E5%BA%97%E6%9B%BE%E8%B6%85200%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [菲律宾男子遭巨蟒缠身 狠咬蛇脖自救](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%94%B7%E5%AD%90%E9%81%AD%E5%B7%A8%E8%9F%92%E7%BC%A0%E8%BA%AB+%E7%8B%A0%E5%92%AC%E8%9B%87%E8%84%96%E8%87%AA%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#因为是家人#](https://www.baidu.com/s?wd=%23%E5%9B%A0%E4%B8%BA%E6%98%AF%E5%AE%B6%E4%BA%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [赈灾采购物资价格贵？官方回应](https://www.baidu.com/s?wd=%E8%B5%88%E7%81%BE%E9%87%87%E8%B4%AD%E7%89%A9%E8%B5%84%E4%BB%B7%E6%A0%BC%E8%B4%B5%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,11 +30,11 @@
 > 哔哩哔哩  
 
 1. [“千万工程”久久为功](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%83%E4%B8%87%E5%B7%A5%E7%A8%8B%E2%80%9D%E4%B9%85%E4%B9%85%E4%B8%BA%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [知名超市突然停业 门店曾超200家](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E8%B6%85%E5%B8%82%E7%AA%81%E7%84%B6%E5%81%9C%E4%B8%9A+%E9%97%A8%E5%BA%97%E6%9B%BE%E8%B6%85200%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [男子仅有10万 买下191万房子后悔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BB%85%E6%9C%8910%E4%B8%87+%E4%B9%B0%E4%B8%8B191%E4%B8%87%E6%88%BF%E5%AD%90%E5%90%8E%E6%82%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [“早餐奶奶”去世：坚持5毛钱不涨价](https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A9%E9%A4%90%E5%A5%B6%E5%A5%B6%E2%80%9D%E5%8E%BB%E4%B8%96%EF%BC%9A%E5%9D%9A%E6%8C%815%E6%AF%9B%E9%92%B1%E4%B8%8D%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [热力数据见证经济强劲脉动](https://www.baidu.com/s?wd=%E7%83%AD%E5%8A%9B%E6%95%B0%E6%8D%AE%E8%A7%81%E8%AF%81%E7%BB%8F%E6%B5%8E%E5%BC%BA%E5%8A%B2%E8%84%89%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [霍启刚回应向甘肃捐款7000万](https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E5%9B%9E%E5%BA%94%E5%90%91%E7%94%98%E8%82%83%E6%8D%90%E6%AC%BE7000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子仅有10万 买下191万房子后悔](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BB%85%E6%9C%8910%E4%B8%87+%E4%B9%B0%E4%B8%8B191%E4%B8%87%E6%88%BF%E5%AD%90%E5%90%8E%E6%82%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [知名超市突然停业 门店曾超200家](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E8%B6%85%E5%B8%82%E7%AA%81%E7%84%B6%E5%81%9C%E4%B8%9A+%E9%97%A8%E5%BA%97%E6%9B%BE%E8%B6%85200%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [菲律宾男子遭巨蟒缠身 狠咬蛇脖自救](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%94%B7%E5%AD%90%E9%81%AD%E5%B7%A8%E8%9F%92%E7%BC%A0%E8%BA%AB+%E7%8B%A0%E5%92%AC%E8%9B%87%E8%84%96%E8%87%AA%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#因为是家人#](https://www.baidu.com/s?wd=%23%E5%9B%A0%E4%B8%BA%E6%98%AF%E5%AE%B6%E4%BA%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [赈灾采购物资价格贵？官方回应](https://www.baidu.com/s?wd=%E8%B5%88%E7%81%BE%E9%87%87%E8%B4%AD%E7%89%A9%E8%B5%84%E4%BB%B7%E6%A0%BC%E8%B4%B5%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
