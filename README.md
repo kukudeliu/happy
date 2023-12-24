@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 20:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 20:08:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [霍启刚回应向甘肃捐款7000万](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E5%9B%9E%E5%BA%94%E5%90%91%E7%94%98%E8%82%83%E6%8D%90%E6%AC%BE7000%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [考研弃考](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%BC%83%E8%80%83&t=31&band_rank=6&Refer=top)<br />
 7. [赵露思晒和王安宇合照](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%99%92%E5%92%8C%E7%8E%8B%E5%AE%89%E5%AE%87%E5%90%88%E7%85%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [滦州地震](https://s.weibo.com/weibo?q=%E6%BB%A6%E5%B7%9E%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top)<br />
-9. [考研结束](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E7%BB%93%E6%9D%9F&t=31&band_rank=9&Refer=top)<br />
+8. [考研结束](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E7%BB%93%E6%9D%9F&t=31&band_rank=8&Refer=top)<br />
+9. [滦州地震](https://s.weibo.com/weibo?q=%E6%BB%A6%E5%B7%9E%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
