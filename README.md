@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 19:29:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 19:30:02</h4></div>
 
 > 微博  
 
-1. [15岁孙子重度抑郁爷奶掏所有钱帮治](https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%AD%99%E5%AD%90%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%E7%88%B7%E5%A5%B6%E6%8E%8F%E6%89%80%E6%9C%89%E9%92%B1%E5%B8%AE%E6%B2%BB%23&t=31&band_rank=1&Refer=top)<br />
-2. [男子仅有10万元买下191万的房子后悔](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BB%85%E6%9C%8910%E4%B8%87%E5%85%83%E4%B9%B0%E4%B8%8B191%E4%B8%87%E7%9A%84%E6%88%BF%E5%AD%90%E5%90%8E%E6%82%94%23&t=31&band_rank=2&Refer=top)<br />
+1. [男子仅有10万元买下191万的房子后悔](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BB%85%E6%9C%8910%E4%B8%87%E5%85%83%E4%B9%B0%E4%B8%8B191%E4%B8%87%E7%9A%84%E6%88%BF%E5%AD%90%E5%90%8E%E6%82%94%23&t=31&band_rank=1&Refer=top)<br />
+2. [15岁孙子重度抑郁爷奶掏所有钱帮治](https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%AD%99%E5%AD%90%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%E7%88%B7%E5%A5%B6%E6%8E%8F%E6%89%80%E6%9C%89%E9%92%B1%E5%B8%AE%E6%B2%BB%23&t=31&band_rank=2&Refer=top)<br />
 3. [硬核国之重器彰显中国实力](https://s.weibo.com/weibo?q=%23%E7%A1%AC%E6%A0%B8%E5%9B%BD%E4%B9%8B%E9%87%8D%E5%99%A8%E5%BD%B0%E6%98%BE%E4%B8%AD%E5%9B%BD%E5%AE%9E%E5%8A%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [赵露思cos英雄联盟格温](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9Dcos%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%A0%BC%E6%B8%A9%23&t=31&band_rank=4&Refer=top)<br />
 5. [男孩患白血病妈妈面对意外钱财拾金不昧](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E6%82%A3%E7%99%BD%E8%A1%80%E7%97%85%E5%A6%88%E5%A6%88%E9%9D%A2%E5%AF%B9%E6%84%8F%E5%A4%96%E9%92%B1%E8%B4%A2%E6%8B%BE%E9%87%91%E4%B8%8D%E6%98%A7%23&t=31&band_rank=5&Refer=top)<br />
