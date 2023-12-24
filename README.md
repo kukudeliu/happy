@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 19:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 19:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [中国蓝盔正式结束10年维和使命](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%93%9D%E7%9B%94%E6%AD%A3%E5%BC%8F%E7%BB%93%E6%9D%9F10%E5%B9%B4%E7%BB%B4%E5%92%8C%E4%BD%BF%E5%91%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [赵露思cos英雄联盟格温](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9Dcos%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%A0%BC%E6%B8%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [滦州地震](https://s.weibo.com/weibo?q=%E6%BB%A6%E5%B7%9E%E5%9C%B0%E9%9C%87&t=31&band_rank=7&Refer=top)<br />
-8. [考研结束](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E7%BB%93%E6%9D%9F&t=31&band_rank=8&Refer=top)<br />
-9. [考研弃考](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%BC%83%E8%80%83&t=31&band_rank=9&Refer=top)<br />
+8. [考研弃考](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%BC%83%E8%80%83&t=31&band_rank=8&Refer=top)<br />
+9. [考研结束](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E7%BB%93%E6%9D%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
