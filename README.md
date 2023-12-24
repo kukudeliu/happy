@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 22:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 22:27:01</h4></div>
 
 > 微博  
 
-1. [苹果 折叠手机](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%20%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA&t=31&band_rank=1&Refer=top)<br />
-2. [厌蠢症](https://s.weibo.com/weibo?q=%E5%8E%8C%E8%A0%A2%E7%97%87&t=31&band_rank=2&Refer=top)<br />
+1. [厌蠢症](https://s.weibo.com/weibo?q=%E5%8E%8C%E8%A0%A2%E7%97%87&t=31&band_rank=1&Refer=top)<br />
+2. [苹果 折叠手机](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%20%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA&t=31&band_rank=2&Refer=top)<br />
 3. [这些科技硬实力彰显中国底气](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E7%A7%91%E6%8A%80%E7%A1%AC%E5%AE%9E%E5%8A%9B%E5%BD%B0%E6%98%BE%E4%B8%AD%E5%9B%BD%E5%BA%95%E6%B0%94%23&t=31&band_rank=3&Refer=top)<br />
 4. [主持人大赛冠军](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%A4%A7%E8%B5%9B%E5%86%A0%E5%86%9B%23&t=31&band_rank=4&Refer=top)<br />
 5. [追星 谈恋爱](https://s.weibo.com/weibo?q=%E8%BF%BD%E6%98%9F%20%E8%B0%88%E6%81%8B%E7%88%B1&t=31&band_rank=5&Refer=top)<br />
