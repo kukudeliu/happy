@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 17:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 17:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [408 看不懂中文了](https://s.weibo.com/weibo?q=408%20%E7%9C%8B%E4%B8%8D%E6%87%82%E4%B8%AD%E6%96%87%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [女网红因甘肃地震不当言论被禁言30天](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%9B%A0%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E8%A2%AB%E7%A6%81%E8%A8%8030%E5%A4%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [黄奕七套礼服全穿不上求助网友](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A5%95%E4%B8%83%E5%A5%97%E7%A4%BC%E6%9C%8D%E5%85%A8%E7%A9%BF%E4%B8%8D%E4%B8%8A%E6%B1%82%E5%8A%A9%E7%BD%91%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [进入25考研时代](https://s.weibo.com/weibo?q=%E8%BF%9B%E5%85%A525%E8%80%83%E7%A0%94%E6%97%B6%E4%BB%A3&t=31&band_rank=9&Refer=top)<br />
+9. [偶遇王嘉尔边伯贤](https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E7%8E%8B%E5%98%89%E5%B0%94%E8%BE%B9%E4%BC%AF%E8%B4%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
