@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 10:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 10:43:01</h4></div>
 
 > 微博  
 
 1. [宁远舟死在了他最想活的那一年](https://s.weibo.com/weibo?q=%E5%AE%81%E8%BF%9C%E8%88%9F%E6%AD%BB%E5%9C%A8%E4%BA%86%E4%BB%96%E6%9C%80%E6%83%B3%E6%B4%BB%E7%9A%84%E9%82%A3%E4%B8%80%E5%B9%B4&t=31&band_rank=1&Refer=top)<br />
-2. [vivo两名高管被曝在印度遭逮捕](https://s.weibo.com/weibo?q=%23vivo%E4%B8%A4%E5%90%8D%E9%AB%98%E7%AE%A1%E8%A2%AB%E6%9B%9D%E5%9C%A8%E5%8D%B0%E5%BA%A6%E9%81%AD%E9%80%AE%E6%8D%95%23&t=31&band_rank=2&Refer=top)<br />
+2. [胡歌 捡垃圾是没有办法的办法](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%20%E6%8D%A1%E5%9E%83%E5%9C%BE%E6%98%AF%E6%B2%A1%E6%9C%89%E5%8A%9E%E6%B3%95%E7%9A%84%E5%8A%9E%E6%B3%95&t=31&band_rank=2&Refer=top)<br />
 3. [卫星视角看中国](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%9F%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
-4. [胡歌 捡垃圾是没有办法的办法](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%20%E6%8D%A1%E5%9E%83%E5%9C%BE%E6%98%AF%E6%B2%A1%E6%9C%89%E5%8A%9E%E6%B3%95%E7%9A%84%E5%8A%9E%E6%B3%95&t=31&band_rank=4&Refer=top)<br />
+4. [vivo两名高管被曝在印度遭逮捕](https://s.weibo.com/weibo?q=%23vivo%E4%B8%A4%E5%90%8D%E9%AB%98%E7%AE%A1%E8%A2%AB%E6%9B%9D%E5%9C%A8%E5%8D%B0%E5%BA%A6%E9%81%AD%E9%80%AE%E6%8D%95%23&t=31&band_rank=4&Refer=top)<br />
 5. [长津湖](https://s.weibo.com/weibo?q=%E9%95%BF%E6%B4%A5%E6%B9%96&t=31&band_rank=5&Refer=top)<br />
 6. [铊中毒曾3次出现在高校](https://s.weibo.com/weibo?q=%23%E9%93%8A%E4%B8%AD%E6%AF%92%E6%9B%BE3%E6%AC%A1%E5%87%BA%E7%8E%B0%E5%9C%A8%E9%AB%98%E6%A0%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [微波炉热了十分钟的馒头](https://s.weibo.com/weibo?q=%E5%BE%AE%E6%B3%A2%E7%82%89%E7%83%AD%E4%BA%86%E5%8D%81%E5%88%86%E9%92%9F%E7%9A%84%E9%A6%92%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
