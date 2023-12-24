@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 18:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 18:03:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [中国蓝盔正式结束10年维和使命](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%93%9D%E7%9B%94%E6%AD%A3%E5%BC%8F%E7%BB%93%E6%9D%9F10%E5%B9%B4%E7%BB%B4%E5%92%8C%E4%BD%BF%E5%91%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [考研弃考](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%BC%83%E8%80%83&t=31&band_rank=6&Refer=top)<br />
 7. [还是孩子的哥哥为妹妹撑起一片天](https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%98%AF%E5%AD%A9%E5%AD%90%E7%9A%84%E5%93%A5%E5%93%A5%E4%B8%BA%E5%A6%B9%E5%A6%B9%E6%92%91%E8%B5%B7%E4%B8%80%E7%89%87%E5%A4%A9%23&t=31&band_rank=7&Refer=top)<br />
-8. [法综 我自己编笑了](https://s.weibo.com/weibo?q=%E6%B3%95%E7%BB%BC%20%E6%88%91%E8%87%AA%E5%B7%B1%E7%BC%96%E7%AC%91%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [408 看不懂中文了](https://s.weibo.com/weibo?q=408%20%E7%9C%8B%E4%B8%8D%E6%87%82%E4%B8%AD%E6%96%87%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [408 看不懂中文了](https://s.weibo.com/weibo?q=408%20%E7%9C%8B%E4%B8%8D%E6%87%82%E4%B8%AD%E6%96%87%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [法综 我自己编笑了](https://s.weibo.com/weibo?q=%E6%B3%95%E7%BB%BC%20%E6%88%91%E8%87%AA%E5%B7%B1%E7%BC%96%E7%AC%91%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
