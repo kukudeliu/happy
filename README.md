@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 16:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 16:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [SM真的什么都保存起来了](https://s.weibo.com/weibo?q=%23SM%E7%9C%9F%E7%9A%84%E4%BB%80%E4%B9%88%E9%83%BD%E4%BF%9D%E5%AD%98%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [朱令再见](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%BB%A4%E5%86%8D%E8%A7%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [黄奕七套礼服全穿不上求助网友](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A5%95%E4%B8%83%E5%A5%97%E7%A4%BC%E6%9C%8D%E5%85%A8%E7%A9%BF%E4%B8%8D%E4%B8%8A%E6%B1%82%E5%8A%A9%E7%BD%91%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战 拍戏外没有其他安排](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E6%8B%8D%E6%88%8F%E5%A4%96%E6%B2%A1%E6%9C%89%E5%85%B6%E4%BB%96%E5%AE%89%E6%8E%92&t=31&band_rank=9&Refer=top)<br />
+9. [易烊千玺的饺子](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%9A%84%E9%A5%BA%E5%AD%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
