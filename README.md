@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 07:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 07:51:02</h4></div>
 
 > 微博  
 
 1. [美国黄石公园检测出僵尸鹿病毒](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%BB%84%E7%9F%B3%E5%85%AC%E5%9B%AD%E6%A3%80%E6%B5%8B%E5%87%BA%E5%83%B5%E5%B0%B8%E9%B9%BF%E7%97%85%E6%AF%92%23&t=31&band_rank=1&Refer=top)<br />
-2. [上海迪士尼发布通知](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%8F%91%E5%B8%83%E9%80%9A%E7%9F%A5%23&t=31&band_rank=2&Refer=top)<br />
+2. [教育局通报小学教师殴打学生致脑震荡](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E8%87%B4%E8%84%91%E9%9C%87%E8%8D%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [国产首艘大型邮轮离港首次试运营](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E9%A6%96%E8%89%98%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%E7%A6%BB%E6%B8%AF%E9%A6%96%E6%AC%A1%E8%AF%95%E8%BF%90%E8%90%A5%23&t=31&band_rank=3&Refer=top)<br />
-4. [教育局通报小学教师殴打学生致脑震荡](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E8%87%B4%E8%84%91%E9%9C%87%E8%8D%A1%23&t=31&band_rank=4&Refer=top)<br />
+4. [上海迪士尼发布通知](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%8F%91%E5%B8%83%E9%80%9A%E7%9F%A5%23&t=31&band_rank=4&Refer=top)<br />
 5. [男子仅有10万元买下191万的房子后悔](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BB%85%E6%9C%8910%E4%B8%87%E5%85%83%E4%B9%B0%E4%B8%8B191%E4%B8%87%E7%9A%84%E6%88%BF%E5%AD%90%E5%90%8E%E6%82%94%23&t=31&band_rank=5&Refer=top)<br />
 6. [大众电影删除一念关山编剧采访](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BC%97%E7%94%B5%E5%BD%B1%E5%88%A0%E9%99%A4%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E7%BC%96%E5%89%A7%E9%87%87%E8%AE%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国化妆品在韩国火了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8C%96%E5%A6%86%E5%93%81%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%81%AB%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [以为是个黑头结果开了刀](https://s.weibo.com/weibo?q=%E4%BB%A5%E4%B8%BA%E6%98%AF%E4%B8%AA%E9%BB%91%E5%A4%B4%E7%BB%93%E6%9E%9C%E5%BC%80%E4%BA%86%E5%88%80&t=31&band_rank=8&Refer=top)<br />
-9. [多邻国油炸小绿鸟](https://s.weibo.com/weibo?q=%E5%A4%9A%E9%82%BB%E5%9B%BD%E6%B2%B9%E7%82%B8%E5%B0%8F%E7%BB%BF%E9%B8%9F&t=31&band_rank=9&Refer=top)<br />
+9. [郭敬明 大梦归离原始帧](https://s.weibo.com/weibo?q=%E9%83%AD%E6%95%AC%E6%98%8E%20%E5%A4%A7%E6%A2%A6%E5%BD%92%E7%A6%BB%E5%8E%9F%E5%A7%8B%E5%B8%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
