@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 11:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 11:15:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [刘亦菲 开屏](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%BC%80%E5%B1%8F&t=31&band_rank=4&Refer=top)<br />
 5. [长津湖](https://s.weibo.com/weibo?q=%E9%95%BF%E6%B4%A5%E6%B9%96&t=31&band_rank=5&Refer=top)<br />
 6. [胡歌 捡垃圾是没有办法的办法](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%20%E6%8D%A1%E5%9E%83%E5%9C%BE%E6%98%AF%E6%B2%A1%E6%9C%89%E5%8A%9E%E6%B3%95%E7%9A%84%E5%8A%9E%E6%B3%95&t=31&band_rank=6&Refer=top)<br />
-7. [乐华员工选贾乃亮当老板](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%91%98%E5%B7%A5%E9%80%89%E8%B4%BE%E4%B9%83%E4%BA%AE%E5%BD%93%E8%80%81%E6%9D%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [长期戴口罩容易肺结节吗](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%88%B4%E5%8F%A3%E7%BD%A9%E5%AE%B9%E6%98%93%E8%82%BA%E7%BB%93%E8%8A%82%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+7. [长期戴口罩容易肺结节吗](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%88%B4%E5%8F%A3%E7%BD%A9%E5%AE%B9%E6%98%93%E8%82%BA%E7%BB%93%E8%8A%82%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
+8. [乐华员工选贾乃亮当老板](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%91%98%E5%B7%A5%E9%80%89%E8%B4%BE%E4%B9%83%E4%BA%AE%E5%BD%93%E8%80%81%E6%9D%BF%23&t=31&band_rank=8&Refer=top)<br />
 9. [教育局通报老师被指打伤学生](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E8%80%81%E5%B8%88%E8%A2%AB%E6%8C%87%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
