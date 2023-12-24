@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 20:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 20:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [考研弃考](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%BC%83%E8%80%83&t=31&band_rank=6&Refer=top)<br />
 7. [滦州地震](https://s.weibo.com/weibo?q=%E6%BB%A6%E5%B7%9E%E5%9C%B0%E9%9C%87&t=31&band_rank=7&Refer=top)<br />
 8. [考研结束](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E7%BB%93%E6%9D%9F&t=31&band_rank=8&Refer=top)<br />
-9. [赵露思cos英雄联盟格温](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9Dcos%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%A0%BC%E6%B8%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [男孩患白血病妈妈面对意外钱财拾金不昧](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E6%82%A3%E7%99%BD%E8%A1%80%E7%97%85%E5%A6%88%E5%A6%88%E9%9D%A2%E5%AF%B9%E6%84%8F%E5%A4%96%E9%92%B1%E8%B4%A2%E6%8B%BE%E9%87%91%E4%B8%8D%E6%98%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
