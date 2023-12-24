@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 00:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 00:04:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [追星 谈恋爱](https://s.weibo.com/weibo?q=%E8%BF%BD%E6%98%9F%20%E8%B0%88%E6%81%8B%E7%88%B1&t=31&band_rank=5&Refer=top)<br />
 6. [主持人大赛冠军](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%A4%A7%E8%B5%9B%E5%86%A0%E5%86%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子仅有10万元买下191万的房子后悔](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BB%85%E6%9C%8910%E4%B8%87%E5%85%83%E4%B9%B0%E4%B8%8B191%E4%B8%87%E7%9A%84%E6%88%BF%E5%AD%90%E5%90%8E%E6%82%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [厌蠢症](https://s.weibo.com/weibo?q=%E5%8E%8C%E8%A0%A2%E7%97%87&t=31&band_rank=8&Refer=top)<br />
-9. [一儿童在上海迪士尼被游览车撞倒](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%84%BF%E7%AB%A5%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E8%A2%AB%E6%B8%B8%E8%A7%88%E8%BD%A6%E6%92%9E%E5%80%92%23&t=31&band_rank=9&Refer=top)<br />
+8. [柯南全员说中文](https://s.weibo.com/weibo?q=%E6%9F%AF%E5%8D%97%E5%85%A8%E5%91%98%E8%AF%B4%E4%B8%AD%E6%96%87&t=31&band_rank=8&Refer=top)<br />
+9. [厌蠢症](https://s.weibo.com/weibo?q=%E5%8E%8C%E8%A0%A2%E7%97%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
