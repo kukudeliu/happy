@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 20:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 20:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵露思晒和王安宇合照](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%99%92%E5%92%8C%E7%8E%8B%E5%AE%89%E5%AE%87%E5%90%88%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [考研结束](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E7%BB%93%E6%9D%9F&t=31&band_rank=7&Refer=top)<br />
 8. [2023国产烂片爆笑盘点](https://s.weibo.com/weibo?q=2023%E5%9B%BD%E4%BA%A7%E7%83%82%E7%89%87%E7%88%86%E7%AC%91%E7%9B%98%E7%82%B9&t=31&band_rank=8&Refer=top)<br />
-9. [滦州地震](https://s.weibo.com/weibo?q=%E6%BB%A6%E5%B7%9E%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
+9. [张万森 下林北星了](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%B8%87%E6%A3%AE%20%E4%B8%8B%E6%9E%97%E5%8C%97%E6%98%9F%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
