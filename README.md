@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 03:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 03:18:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [美国黄石公园检出僵尸鹿病毒](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%BB%84%E7%9F%B3%E5%85%AC%E5%9B%AD%E6%A3%80%E5%87%BA%E5%83%B5%E5%B0%B8%E9%B9%BF%E7%97%85%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙江宣传发文考研不能成为二次高考](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%AE%A3%E4%BC%A0%E5%8F%91%E6%96%87%E8%80%83%E7%A0%94%E4%B8%8D%E8%83%BD%E6%88%90%E4%B8%BA%E4%BA%8C%E6%AC%A1%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子刷视频发现老公另有2妻3娃](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%B7%E8%A7%86%E9%A2%91%E5%8F%91%E7%8E%B0%E8%80%81%E5%85%AC%E5%8F%A6%E6%9C%892%E5%A6%BB3%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [爸爸别把我作业吃了](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%88%AB%E6%8A%8A%E6%88%91%E4%BD%9C%E4%B8%9A%E5%90%83%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [菲律宾男子遭巨蟒缠身 狠咬蛇脖自救](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%94%B7%E5%AD%90%E9%81%AD%E5%B7%A8%E8%9F%92%E7%BC%A0%E8%BA%AB+%E7%8B%A0%E5%92%AC%E8%9B%87%E8%84%96%E8%87%AA%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [赈灾采购物资价格贵？官方回应](https://www.baidu.com/s?wd=%E8%B5%88%E7%81%BE%E9%87%87%E8%B4%AD%E7%89%A9%E8%B5%84%E4%BB%B7%E6%A0%BC%E8%B4%B5%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [美国黄石公园检出僵尸鹿病毒](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%BB%84%E7%9F%B3%E5%85%AC%E5%9B%AD%E6%A3%80%E5%87%BA%E5%83%B5%E5%B0%B8%E9%B9%BF%E7%97%85%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙江宣传发文考研不能成为二次高考](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%AE%A3%E4%BC%A0%E5%8F%91%E6%96%87%E8%80%83%E7%A0%94%E4%B8%8D%E8%83%BD%E6%88%90%E4%B8%BA%E4%BA%8C%E6%AC%A1%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子刷视频发现老公另有2妻3娃](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%B7%E8%A7%86%E9%A2%91%E5%8F%91%E7%8E%B0%E8%80%81%E5%85%AC%E5%8F%A6%E6%9C%892%E5%A6%BB3%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [爸爸别把我作业吃了](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%88%AB%E6%8A%8A%E6%88%91%E4%BD%9C%E4%B8%9A%E5%90%83%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [菲律宾男子遭巨蟒缠身 狠咬蛇脖自救](https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%94%B7%E5%AD%90%E9%81%AD%E5%B7%A8%E8%9F%92%E7%BC%A0%E8%BA%AB+%E7%8B%A0%E5%92%AC%E8%9B%87%E8%84%96%E8%87%AA%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [赈灾采购物资价格贵？官方回应](https://www.baidu.com/s?wd=%E8%B5%88%E7%81%BE%E9%87%87%E8%B4%AD%E7%89%A9%E8%B5%84%E4%BB%B7%E6%A0%BC%E8%B4%B5%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
