@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 11:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 11:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [宁远舟死在了他最想活的那一年](https://s.weibo.com/weibo?q=%E5%AE%81%E8%BF%9C%E8%88%9F%E6%AD%BB%E5%9C%A8%E4%BA%86%E4%BB%96%E6%9C%80%E6%83%B3%E6%B4%BB%E7%9A%84%E9%82%A3%E4%B8%80%E5%B9%B4&t=31&band_rank=5&Refer=top)<br />
 6. [396经济类联考](https://s.weibo.com/weibo?q=396%E7%BB%8F%E6%B5%8E%E7%B1%BB%E8%81%94%E8%80%83&t=31&band_rank=6&Refer=top)<br />
 7. [可可西里网红狼铁饭碗被端](https://s.weibo.com/weibo?q=%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E7%BD%91%E7%BA%A2%E7%8B%BC%E9%93%81%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%AB%AF&t=31&band_rank=7&Refer=top)<br />
-8. [刘亦菲 开屏](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%BC%80%E5%B1%8F&t=31&band_rank=8&Refer=top)<br />
-9. [法硕 汗流浃背](https://s.weibo.com/weibo?q=%E6%B3%95%E7%A1%95%20%E6%B1%97%E6%B5%81%E6%B5%83%E8%83%8C&t=31&band_rank=9&Refer=top)<br />
+8. [法硕 汗流浃背](https://s.weibo.com/weibo?q=%E6%B3%95%E7%A1%95%20%E6%B1%97%E6%B5%81%E6%B5%83%E8%83%8C&t=31&band_rank=8&Refer=top)<br />
+9. [刘亦菲 开屏](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%BC%80%E5%B1%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
