@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 14:42:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 14:43:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [中国女子在日本滑雪被雪掩埋不幸去世](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%BB%91%E9%9B%AA%E8%A2%AB%E9%9B%AA%E6%8E%A9%E5%9F%8B%E4%B8%8D%E5%B9%B8%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [十年了 只有郭敬明拍出了真的纸醉金迷](https://s.weibo.com/weibo?q=%E5%8D%81%E5%B9%B4%E4%BA%86%20%E5%8F%AA%E6%9C%89%E9%83%AD%E6%95%AC%E6%98%8E%E6%8B%8D%E5%87%BA%E4%BA%86%E7%9C%9F%E7%9A%84%E7%BA%B8%E9%86%89%E9%87%91%E8%BF%B7&t=31&band_rank=5&Refer=top)<br />
 6. [赵昭仪手写8套花少穿搭](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%98%AD%E4%BB%AA%E6%89%8B%E5%86%998%E5%A5%97%E8%8A%B1%E5%B0%91%E7%A9%BF%E6%90%AD%23&t=31&band_rank=6&Refer=top)<br />
-7. [刘亦菲 开屏](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%BC%80%E5%B1%8F&t=31&band_rank=7&Refer=top)<br />
-8. [一念关山编剧回应争议](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E7%BC%96%E5%89%A7%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
+7. [一念关山编剧回应争议](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E7%BC%96%E5%89%A7%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE%23&t=31&band_rank=7&Refer=top)<br />
+8. [刘亦菲 开屏](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%BC%80%E5%B1%8F&t=31&band_rank=8&Refer=top)<br />
 9. [浙江宣传发文考研不能成为二次高考](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%AE%A3%E4%BC%A0%E5%8F%91%E6%96%87%E8%80%83%E7%A0%94%E4%B8%8D%E8%83%BD%E6%88%90%E4%B8%BA%E4%BA%8C%E6%AC%A1%E9%AB%98%E8%80%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
