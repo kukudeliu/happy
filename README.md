@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 13:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 13:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [许晴好会走啊](https://s.weibo.com/weibo?q=%E8%AE%B8%E6%99%B4%E5%A5%BD%E4%BC%9A%E8%B5%B0%E5%95%8A&t=31&band_rank=6&Refer=top)<br />
 7. [管泽元余霜婚礼](https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%E4%BD%99%E9%9C%9C%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=7&Refer=top)<br />
 8. [数三 选拔活体计算器](https://s.weibo.com/weibo?q=%E6%95%B0%E4%B8%89%20%E9%80%89%E6%8B%94%E6%B4%BB%E4%BD%93%E8%AE%A1%E7%AE%97%E5%99%A8&t=31&band_rank=8&Refer=top)<br />
-9. [考研西综太难了](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E8%A5%BF%E7%BB%BC%E5%A4%AA%E9%9A%BE%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [女子酒店凌晨被男店员刷开房门](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%85%92%E5%BA%97%E5%87%8C%E6%99%A8%E8%A2%AB%E7%94%B7%E5%BA%97%E5%91%98%E5%88%B7%E5%BC%80%E6%88%BF%E9%97%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
