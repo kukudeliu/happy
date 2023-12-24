@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 00:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 00:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国化妆品在韩国火了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8C%96%E5%A6%86%E5%93%81%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%81%AB%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子仅有10万元买下191万的房子后悔](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BB%85%E6%9C%8910%E4%B8%87%E5%85%83%E4%B9%B0%E4%B8%8B191%E4%B8%87%E7%9A%84%E6%88%BF%E5%AD%90%E5%90%8E%E6%82%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [柯南全员说中文](https://s.weibo.com/weibo?q=%E6%9F%AF%E5%8D%97%E5%85%A8%E5%91%98%E8%AF%B4%E4%B8%AD%E6%96%87&t=31&band_rank=8&Refer=top)<br />
-9. [主持人大赛冠军](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%A4%A7%E8%B5%9B%E5%86%A0%E5%86%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [2023国产烂片爆笑盘点](https://s.weibo.com/weibo?q=2023%E5%9B%BD%E4%BA%A7%E7%83%82%E7%89%87%E7%88%86%E7%AC%91%E7%9B%98%E7%82%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
