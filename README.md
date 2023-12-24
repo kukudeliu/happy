@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 04:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 04:53:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [这些科技硬实力彰显中国底气](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E7%A7%91%E6%8A%80%E7%A1%AC%E5%AE%9E%E5%8A%9B%E5%BD%B0%E6%98%BE%E4%B8%AD%E5%9B%BD%E5%BA%95%E6%B0%94%23&t=31&band_rank=3&Refer=top)<br />
 4. [以为是个黑头结果开了刀](https://s.weibo.com/weibo?q=%E4%BB%A5%E4%B8%BA%E6%98%AF%E4%B8%AA%E9%BB%91%E5%A4%B4%E7%BB%93%E6%9E%9C%E5%BC%80%E4%BA%86%E5%88%80&t=31&band_rank=4&Refer=top)<br />
 5. [男子仅有10万元买下191万的房子后悔](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BB%85%E6%9C%8910%E4%B8%87%E5%85%83%E4%B9%B0%E4%B8%8B191%E4%B8%87%E7%9A%84%E6%88%BF%E5%AD%90%E5%90%8E%E6%82%94%23&t=31&band_rank=5&Refer=top)<br />
-6. [大众电影删除一念关山编剧采访](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BC%97%E7%94%B5%E5%BD%B1%E5%88%A0%E9%99%A4%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E7%BC%96%E5%89%A7%E9%87%87%E8%AE%BF%23&t=31&band_rank=6&Refer=top)<br />
-7. [原来明星是这么去颈纹的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%98%8E%E6%98%9F%E6%98%AF%E8%BF%99%E4%B9%88%E5%8E%BB%E9%A2%88%E7%BA%B9%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
+6. [原来明星是这么去颈纹的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%98%8E%E6%98%9F%E6%98%AF%E8%BF%99%E4%B9%88%E5%8E%BB%E9%A2%88%E7%BA%B9%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
+7. [大众电影删除一念关山编剧采访](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BC%97%E7%94%B5%E5%BD%B1%E5%88%A0%E9%99%A4%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E7%BC%96%E5%89%A7%E9%87%87%E8%AE%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [苹果 折叠手机](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%20%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA&t=31&band_rank=8&Refer=top)<br />
-9. [中国化妆品在韩国火了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8C%96%E5%A6%86%E5%93%81%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%81%AB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [多邻国油炸小绿鸟](https://s.weibo.com/weibo?q=%E5%A4%9A%E9%82%BB%E5%9B%BD%E6%B2%B9%E7%82%B8%E5%B0%8F%E7%BB%BF%E9%B8%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
