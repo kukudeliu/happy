@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 15:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-24 15:49:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [网友拍到被东北虎咬死的东北豹尸体](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E8%A2%AB%E4%B8%9C%E5%8C%97%E8%99%8E%E5%92%AC%E6%AD%BB%E7%9A%84%E4%B8%9C%E5%8C%97%E8%B1%B9%E5%B0%B8%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [6村民吃火锅时一氧化碳中毒 3死3伤](https://www.baidu.com/s?wd=6%E6%9D%91%E6%B0%91%E5%90%83%E7%81%AB%E9%94%85%E6%97%B6%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92+3%E6%AD%BB3%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生反咬老鼠 医生称没有先例](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8F%8D%E5%92%AC%E8%80%81%E9%BC%A0+%E5%8C%BB%E7%94%9F%E7%A7%B0%E6%B2%A1%E6%9C%89%E5%85%88%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [游客称迪士尼设备故障白排队4小时](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%A7%B0%E8%BF%AA%E5%A3%AB%E5%B0%BC%E8%AE%BE%E5%A4%87%E6%95%85%E9%9A%9C%E7%99%BD%E6%8E%92%E9%98%9F4%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江宣传发文考研不能成为二次高考](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%AE%A3%E4%BC%A0%E5%8F%91%E6%96%87%E8%80%83%E7%A0%94%E4%B8%8D%E8%83%BD%E6%88%90%E4%B8%BA%E4%BA%8C%E6%AC%A1%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [医保统筹额度12月底清零？不实](https://www.baidu.com/s?wd=%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E9%A2%9D%E5%BA%A612%E6%9C%88%E5%BA%95%E6%B8%85%E9%9B%B6%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [网友拍到被东北虎咬死的东北豹尸体](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E8%A2%AB%E4%B8%9C%E5%8C%97%E8%99%8E%E5%92%AC%E6%AD%BB%E7%9A%84%E4%B8%9C%E5%8C%97%E8%B1%B9%E5%B0%B8%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [6村民吃火锅时一氧化碳中毒 3死3伤](https://www.baidu.com/s?wd=6%E6%9D%91%E6%B0%91%E5%90%83%E7%81%AB%E9%94%85%E6%97%B6%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92+3%E6%AD%BB3%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生反咬老鼠 医生称没有先例](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8F%8D%E5%92%AC%E8%80%81%E9%BC%A0+%E5%8C%BB%E7%94%9F%E7%A7%B0%E6%B2%A1%E6%9C%89%E5%85%88%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [游客称迪士尼设备故障白排队4小时](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E7%A7%B0%E8%BF%AA%E5%A3%AB%E5%B0%BC%E8%AE%BE%E5%A4%87%E6%95%85%E9%9A%9C%E7%99%BD%E6%8E%92%E9%98%9F4%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江宣传发文考研不能成为二次高考](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%AE%A3%E4%BC%A0%E5%8F%91%E6%96%87%E8%80%83%E7%A0%94%E4%B8%8D%E8%83%BD%E6%88%90%E4%B8%BA%E4%BA%8C%E6%AC%A1%E9%AB%98%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [医保统筹额度12月底清零？不实](https://www.baidu.com/s?wd=%E5%8C%BB%E4%BF%9D%E7%BB%9F%E7%AD%B9%E9%A2%9D%E5%BA%A612%E6%9C%88%E5%BA%95%E6%B8%85%E9%9B%B6%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
