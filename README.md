@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 06:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 06:29:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [原来明星是这么去颈纹的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%98%8E%E6%98%9F%E6%98%AF%E8%BF%99%E4%B9%88%E5%8E%BB%E9%A2%88%E7%BA%B9%E7%9A%84&t=31&band_rank=5&Refer=top)<br />
 6. [男子仅有10万元买下191万的房子后悔](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BB%85%E6%9C%8910%E4%B8%87%E5%85%83%E4%B9%B0%E4%B8%8B191%E4%B8%87%E7%9A%84%E6%88%BF%E5%AD%90%E5%90%8E%E6%82%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [大众电影删除一念关山编剧采访](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BC%97%E7%94%B5%E5%BD%B1%E5%88%A0%E9%99%A4%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E7%BC%96%E5%89%A7%E9%87%87%E8%AE%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [中国化妆品在韩国火了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8C%96%E5%A6%86%E5%93%81%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%81%AB%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [多邻国油炸小绿鸟](https://s.weibo.com/weibo?q=%E5%A4%9A%E9%82%BB%E5%9B%BD%E6%B2%B9%E7%82%B8%E5%B0%8F%E7%BB%BF%E9%B8%9F&t=31&band_rank=9&Refer=top)<br />
+8. [多邻国油炸小绿鸟](https://s.weibo.com/weibo?q=%E5%A4%9A%E9%82%BB%E5%9B%BD%E6%B2%B9%E7%82%B8%E5%B0%8F%E7%BB%BF%E9%B8%9F&t=31&band_rank=8&Refer=top)<br />
+9. [中国化妆品在韩国火了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8C%96%E5%A6%86%E5%93%81%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%81%AB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
