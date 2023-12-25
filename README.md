@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 19:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 19:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张艺兴入职中国国家话剧院](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%85%A5%E8%81%8C%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E8%AF%9D%E5%89%A7%E9%99%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [优酷确认获得知否独播权](https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E7%A1%AE%E8%AE%A4%E8%8E%B7%E5%BE%97%E7%9F%A5%E5%90%A6%E7%8B%AC%E6%92%AD%E6%9D%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [男子订婚后被告强奸一审被判3年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AE%A2%E5%A9%9A%E5%90%8E%E8%A2%AB%E5%91%8A%E5%BC%BA%E5%A5%B8%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A43%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [五月天被质疑假唱仍在调查中](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E8%B4%A8%E7%96%91%E5%81%87%E5%94%B1%E4%BB%8D%E5%9C%A8%E8%B0%83%E6%9F%A5%E4%B8%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [何老师和他的放牛班](https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%80%81%E5%B8%88%E5%92%8C%E4%BB%96%E7%9A%84%E6%94%BE%E7%89%9B%E7%8F%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
