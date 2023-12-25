@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 23:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 23:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [2024天蝎座年度关键词](https://s.weibo.com/weibo?q=2024%E5%A4%A9%E8%9D%8E%E5%BA%A7%E5%B9%B4%E5%BA%A6%E5%85%B3%E9%94%AE%E8%AF%8D&t=31&band_rank=6&Refer=top)<br />
 7. [姐姐与妹妹争吵后将其双手肌腱割断](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E4%B8%8E%E5%A6%B9%E5%A6%B9%E4%BA%89%E5%90%B5%E5%90%8E%E5%B0%86%E5%85%B6%E5%8F%8C%E6%89%8B%E8%82%8C%E8%85%B1%E5%89%B2%E6%96%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [时代少年团 宋亚轩碎碎念](https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%20%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%A2%8E%E7%A2%8E%E5%BF%B5&t=31&band_rank=8&Refer=top)<br />
-9. [李永钦摔下升降台](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B0%B8%E9%92%A6%E6%91%94%E4%B8%8B%E5%8D%87%E9%99%8D%E5%8F%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [3D还原订婚强奸案](https://s.weibo.com/weibo?q=%233D%E8%BF%98%E5%8E%9F%E8%AE%A2%E5%A9%9A%E5%BC%BA%E5%A5%B8%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
