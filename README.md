@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 15:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 15:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [日本人的身高越来越矮了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%9A%84%E8%BA%AB%E9%AB%98%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%9F%AE%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [芒果格局](https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%E6%A0%BC%E5%B1%80&t=31&band_rank=7&Refer=top)<br />
 8. [小破站跨晚把许嵩冯禧都请来了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%A0%B4%E7%AB%99%E8%B7%A8%E6%99%9A%E6%8A%8A%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E9%83%BD%E8%AF%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [警方回应研究生制售色情书卖青少年](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%A0%94%E7%A9%B6%E7%94%9F%E5%88%B6%E5%94%AE%E8%89%B2%E6%83%85%E4%B9%A6%E5%8D%96%E9%9D%92%E5%B0%91%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [自助餐蘸料 压缩饼干碎](https://s.weibo.com/weibo?q=%E8%87%AA%E5%8A%A9%E9%A4%90%E8%98%B8%E6%96%99%20%E5%8E%8B%E7%BC%A9%E9%A5%BC%E5%B9%B2%E7%A2%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
