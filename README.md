@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 21:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 21:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [3D还原订婚强奸案](https://s.weibo.com/weibo?q=%233D%E8%BF%98%E5%8E%9F%E8%AE%A2%E5%A9%9A%E5%BC%BA%E5%A5%B8%E6%A1%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [张艺兴将担任C罗中国行表演嘉宾](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B0%86%E6%8B%85%E4%BB%BBC%E7%BD%97%E4%B8%AD%E5%9B%BD%E8%A1%8C%E8%A1%A8%E6%BC%94%E5%98%89%E5%AE%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [喻言 美得眼前一亮](https://s.weibo.com/weibo?q=%E5%96%BB%E8%A8%80%20%E7%BE%8E%E5%BE%97%E7%9C%BC%E5%89%8D%E4%B8%80%E4%BA%AE&t=31&band_rank=8&Refer=top)<br />
-9. [终于知道工资为什么要保密了](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%B7%A5%E8%B5%84%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E4%BF%9D%E5%AF%86%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [订婚强奸案男方亲属发声](https://s.weibo.com/weibo?q=%23%E8%AE%A2%E5%A9%9A%E5%BC%BA%E5%A5%B8%E6%A1%88%E7%94%B7%E6%96%B9%E4%BA%B2%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
