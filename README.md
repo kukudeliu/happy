@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 09:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 09:37:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [结婚16年3娃不是亲生当事人发声](https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A16%E5%B9%B43%E5%A8%83%E4%B8%8D%E6%98%AF%E4%BA%B2%E7%94%9F%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [伊能静 演员秦昊就是观众的不属于我](https://s.weibo.com/weibo?q=%E4%BC%8A%E8%83%BD%E9%9D%99%20%E6%BC%94%E5%91%98%E7%A7%A6%E6%98%8A%E5%B0%B1%E6%98%AF%E8%A7%82%E4%BC%97%E7%9A%84%E4%B8%8D%E5%B1%9E%E4%BA%8E%E6%88%91&t=31&band_rank=5&Refer=top)<br />
 6. [张颂文宋佳 风中有朵雨做的云](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A2%82%E6%96%87%E5%AE%8B%E4%BD%B3%20%E9%A3%8E%E4%B8%AD%E6%9C%89%E6%9C%B5%E9%9B%A8%E5%81%9A%E7%9A%84%E4%BA%91&t=31&band_rank=6&Refer=top)<br />
-7. [教育局通报小学教师殴打学生致脑震荡](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E8%87%B4%E8%84%91%E9%9C%87%E8%8D%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈都灵 美艳女妖](https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%20%E7%BE%8E%E8%89%B3%E5%A5%B3%E5%A6%96&t=31&band_rank=8&Refer=top)<br />
+7. [陈都灵 美艳女妖](https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%20%E7%BE%8E%E8%89%B3%E5%A5%B3%E5%A6%96&t=31&band_rank=7&Refer=top)<br />
+8. [教育局通报小学教师殴打学生致脑震荡](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E8%87%B4%E8%84%91%E9%9C%87%E8%8D%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
