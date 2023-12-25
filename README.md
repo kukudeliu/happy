@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 14:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 14:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黄子韬cue徐艺洋发言](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%ACcue%E5%BE%90%E8%89%BA%E6%B4%8B%E5%8F%91%E8%A8%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [黄奕为穿上礼服缠了10层保鲜膜](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A5%95%E4%B8%BA%E7%A9%BF%E4%B8%8A%E7%A4%BC%E6%9C%8D%E7%BC%A0%E4%BA%8610%E5%B1%82%E4%BF%9D%E9%B2%9C%E8%86%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [专科的风还是吹到了麻省理工](https://s.weibo.com/weibo?q=%E4%B8%93%E7%A7%91%E7%9A%84%E9%A3%8E%E8%BF%98%E6%98%AF%E5%90%B9%E5%88%B0%E4%BA%86%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5&t=31&band_rank=8&Refer=top)<br />
-9. [25考研女生凌晨5点半起床占座](https://s.weibo.com/weibo?q=%2325%E8%80%83%E7%A0%94%E5%A5%B3%E7%94%9F%E5%87%8C%E6%99%A85%E7%82%B9%E5%8D%8A%E8%B5%B7%E5%BA%8A%E5%8D%A0%E5%BA%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [芒果格局](https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%E6%A0%BC%E5%B1%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
