@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 15:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 15:34:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [职高生奋斗11年逆袭成麻省理工博士](https://www.baidu.com/s?wd=%E8%81%8C%E9%AB%98%E7%94%9F%E5%A5%8B%E6%96%9711%E5%B9%B4%E9%80%86%E8%A2%AD%E6%88%90%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%8D%9A%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [哈尔滨冰雕含鱼量极高](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%95%E5%90%AB%E9%B1%BC%E9%87%8F%E6%9E%81%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南京出现鸭浪奇观](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E5%87%BA%E7%8E%B0%E9%B8%AD%E6%B5%AA%E5%A5%87%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [陶勇医生让女儿生日洗碗引争议](https://www.baidu.com/s?wd=%E9%99%B6%E5%8B%87%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%A5%B3%E5%84%BF%E7%94%9F%E6%97%A5%E6%B4%97%E7%A2%97%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [ATM机大厅摆桌吃火锅？银行回应](https://www.baidu.com/s?wd=ATM%E6%9C%BA%E5%A4%A7%E5%8E%85%E6%91%86%E6%A1%8C%E5%90%83%E7%81%AB%E9%94%85%EF%BC%9F%E9%93%B6%E8%A1%8C%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州高校澡堂漏电致17死系谣言](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E9%AB%98%E6%A0%A1%E6%BE%A1%E5%A0%82%E6%BC%8F%E7%94%B5%E8%87%B417%E6%AD%BB%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [职高生奋斗11年逆袭成麻省理工博士](https://www.baidu.com/s?wd=%E8%81%8C%E9%AB%98%E7%94%9F%E5%A5%8B%E6%96%9711%E5%B9%B4%E9%80%86%E8%A2%AD%E6%88%90%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%8D%9A%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [哈尔滨冰雕含鱼量极高](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%95%E5%90%AB%E9%B1%BC%E9%87%8F%E6%9E%81%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南京出现鸭浪奇观](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E5%87%BA%E7%8E%B0%E9%B8%AD%E6%B5%AA%E5%A5%87%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [陶勇医生让女儿生日洗碗引争议](https://www.baidu.com/s?wd=%E9%99%B6%E5%8B%87%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%A5%B3%E5%84%BF%E7%94%9F%E6%97%A5%E6%B4%97%E7%A2%97%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [ATM机大厅摆桌吃火锅？银行回应](https://www.baidu.com/s?wd=ATM%E6%9C%BA%E5%A4%A7%E5%8E%85%E6%91%86%E6%A1%8C%E5%90%83%E7%81%AB%E9%94%85%EF%BC%9F%E9%93%B6%E8%A1%8C%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州高校澡堂漏电致17死系谣言](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E9%AB%98%E6%A0%A1%E6%BE%A1%E5%A0%82%E6%BC%8F%E7%94%B5%E8%87%B417%E6%AD%BB%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
