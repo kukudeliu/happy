@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 14:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 14:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [芒果格局](https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%E6%A0%BC%E5%B1%80&t=31&band_rank=6&Refer=top)<br />
 7. [马立奥肖允儿湖南跨年合体](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AB%8B%E5%A5%A5%E8%82%96%E5%85%81%E5%84%BF%E6%B9%96%E5%8D%97%E8%B7%A8%E5%B9%B4%E5%90%88%E4%BD%93%23&t=31&band_rank=7&Refer=top)<br />
 8. [黄子韬cue徐艺洋发言](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%ACcue%E5%BE%90%E8%89%BA%E6%B4%8B%E5%8F%91%E8%A8%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [专科的风还是吹到了麻省理工](https://s.weibo.com/weibo?q=%E4%B8%93%E7%A7%91%E7%9A%84%E9%A3%8E%E8%BF%98%E6%98%AF%E5%90%B9%E5%88%B0%E4%BA%86%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5&t=31&band_rank=9&Refer=top)<br />
+9. [日本人的身高越来越矮了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%9A%84%E8%BA%AB%E9%AB%98%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%9F%AE%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
