@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 07:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 07:44:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [你跟他讲道理 他跟你讲伦理](https://s.weibo.com/weibo?q=%E4%BD%A0%E8%B7%9F%E4%BB%96%E8%AE%B2%E9%81%93%E7%90%86%20%E4%BB%96%E8%B7%9F%E4%BD%A0%E8%AE%B2%E4%BC%A6%E7%90%86&t=31&band_rank=4&Refer=top)<br />
 5. [毛主席诞辰130周年](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%BB%E5%B8%AD%E8%AF%9E%E8%BE%B0130%E5%91%A8%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [警方通报理想L7清远2死1伤车祸](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%90%86%E6%83%B3L7%E6%B8%85%E8%BF%9C2%E6%AD%BB1%E4%BC%A4%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=6&Refer=top)<br />
-7. [他只是做错题 又没有做错人](https://s.weibo.com/weibo?q=%E4%BB%96%E5%8F%AA%E6%98%AF%E5%81%9A%E9%94%99%E9%A2%98%20%E5%8F%88%E6%B2%A1%E6%9C%89%E5%81%9A%E9%94%99%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
-8. [况盛](https://s.weibo.com/weibo?q=%E5%86%B5%E7%9B%9B&t=31&band_rank=8&Refer=top)<br />
+7. [况盛](https://s.weibo.com/weibo?q=%E5%86%B5%E7%9B%9B&t=31&band_rank=7&Refer=top)<br />
+8. [他只是做错题 又没有做错人](https://s.weibo.com/weibo?q=%E4%BB%96%E5%8F%AA%E6%98%AF%E5%81%9A%E9%94%99%E9%A2%98%20%E5%8F%88%E6%B2%A1%E6%9C%89%E5%81%9A%E9%94%99%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
 9. [张雨绮肩膀上好大的两朵花](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%82%A9%E8%86%80%E4%B8%8A%E5%A5%BD%E5%A4%A7%E7%9A%84%E4%B8%A4%E6%9C%B5%E8%8A%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
