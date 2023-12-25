@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 20:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 20:18:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [终于知道工资为什么要保密了](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%B7%A5%E8%B5%84%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E4%BF%9D%E5%AF%86%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [3D还原订婚强奸案](https://s.weibo.com/weibo?q=%233D%E8%BF%98%E5%8E%9F%E8%AE%A2%E5%A9%9A%E5%BC%BA%E5%A5%B8%E6%A1%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [五月天被质疑假唱仍在调查中](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E8%B4%A8%E7%96%91%E5%81%87%E5%94%B1%E4%BB%8D%E5%9C%A8%E8%B0%83%E6%9F%A5%E4%B8%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [多地自助彩票机被叫停](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E8%87%AA%E5%8A%A9%E5%BD%A9%E7%A5%A8%E6%9C%BA%E8%A2%AB%E5%8F%AB%E5%81%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [TTG世冠淘汰](https://s.weibo.com/weibo?q=%23TTG%E4%B8%96%E5%86%A0%E6%B7%98%E6%B1%B0%23&t=31&band_rank=9&Refer=top)<br />
+8. [TTG世冠淘汰](https://s.weibo.com/weibo?q=%23TTG%E4%B8%96%E5%86%A0%E6%B7%98%E6%B1%B0%23&t=31&band_rank=8&Refer=top)<br />
+9. [多地自助彩票机被叫停](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E8%87%AA%E5%8A%A9%E5%BD%A9%E7%A5%A8%E6%9C%BA%E8%A2%AB%E5%8F%AB%E5%81%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
