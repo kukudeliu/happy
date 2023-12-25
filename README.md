@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 12:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 12:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周一确诊为大娘子](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B8%80%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%A4%A7%E5%A8%98%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
 7. [经纪人王力威退出肖战前工作室](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%8E%8B%E5%8A%9B%E5%A8%81%E9%80%80%E5%87%BA%E8%82%96%E6%88%98%E5%89%8D%E5%B7%A5%E4%BD%9C%E5%AE%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [00后小伙年销7万单爱因斯坦的脑子](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%B0%8F%E4%BC%99%E5%B9%B4%E9%94%807%E4%B8%87%E5%8D%95%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E7%9A%84%E8%84%91%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [2024元旦放假安排来了](https://s.weibo.com/weibo?q=%232024%E5%85%83%E6%97%A6%E6%94%BE%E5%81%87%E5%AE%89%E6%8E%92%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [同居生2孩7年后男方诉返还彩礼](https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%B1%85%E7%94%9F2%E5%AD%A97%E5%B9%B4%E5%90%8E%E7%94%B7%E6%96%B9%E8%AF%89%E8%BF%94%E8%BF%98%E5%BD%A9%E7%A4%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
