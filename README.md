@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 13:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 13:38:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [女研究生制售色情书被抓](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E5%88%B6%E5%94%AE%E8%89%B2%E6%83%85%E4%B9%A6%E8%A2%AB%E6%8A%93%23&t=31&band_rank=4&Refer=top)<br />
 5. [黄子韬cue徐艺洋发言](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%ACcue%E5%BE%90%E8%89%BA%E6%B4%8B%E5%8F%91%E8%A8%80%23&t=31&band_rank=5&Refer=top)<br />
 6. [马立奥肖允儿湖南跨年合体](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AB%8B%E5%A5%A5%E8%82%96%E5%85%81%E5%84%BF%E6%B9%96%E5%8D%97%E8%B7%A8%E5%B9%B4%E5%90%88%E4%BD%93%23&t=31&band_rank=6&Refer=top)<br />
-7. [麦当劳回应将涨价](https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%9B%9E%E5%BA%94%E5%B0%86%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [25考研女生凌晨5点半起床占座](https://s.weibo.com/weibo?q=%2325%E8%80%83%E7%A0%94%E5%A5%B3%E7%94%9F%E5%87%8C%E6%99%A85%E7%82%B9%E5%8D%8A%E8%B5%B7%E5%BA%8A%E5%8D%A0%E5%BA%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴双生神女](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8F%8C%E7%94%9F%E7%A5%9E%E5%A5%B3%23&t=31&band_rank=9&Refer=top)<br />
+7. [25考研女生凌晨5点半起床占座](https://s.weibo.com/weibo?q=%2325%E8%80%83%E7%A0%94%E5%A5%B3%E7%94%9F%E5%87%8C%E6%99%A85%E7%82%B9%E5%8D%8A%E8%B5%B7%E5%BA%8A%E5%8D%A0%E5%BA%A7%23&t=31&band_rank=7&Refer=top)<br />
+8. [麦当劳回应将涨价](https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%9B%9E%E5%BA%94%E5%B0%86%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=8&Refer=top)<br />
+9. [黄奕为穿上礼服缠了10层保鲜膜](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A5%95%E4%B8%BA%E7%A9%BF%E4%B8%8A%E7%A4%BC%E6%9C%8D%E7%BC%A0%E4%BA%8610%E5%B1%82%E4%BF%9D%E9%B2%9C%E8%86%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
