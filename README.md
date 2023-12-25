@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 22:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 22:15:01</h4></div>
 
 > 微博  
 
-1. [女子遭未婚夫强奸曾逃出房呼救被拖回](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%81%AD%E6%9C%AA%E5%A9%9A%E5%A4%AB%E5%BC%BA%E5%A5%B8%E6%9B%BE%E9%80%83%E5%87%BA%E6%88%BF%E5%91%BC%E6%95%91%E8%A2%AB%E6%8B%96%E5%9B%9E%23&t=31&band_rank=1&Refer=top)<br />
-2. [李永钦摔下升降台](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B0%B8%E9%92%A6%E6%91%94%E4%B8%8B%E5%8D%87%E9%99%8D%E5%8F%B0%23&t=31&band_rank=2&Refer=top)<br />
+1. [李永钦摔下升降台](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B0%B8%E9%92%A6%E6%91%94%E4%B8%8B%E5%8D%87%E9%99%8D%E5%8F%B0%23&t=31&band_rank=1&Refer=top)<br />
+2. [女子遭未婚夫强奸曾逃出房呼救被拖回](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%81%AD%E6%9C%AA%E5%A9%9A%E5%A4%AB%E5%BC%BA%E5%A5%B8%E6%9B%BE%E9%80%83%E5%87%BA%E6%88%BF%E5%91%BC%E6%95%91%E8%A2%AB%E6%8B%96%E5%9B%9E%23&t=31&band_rank=2&Refer=top)<br />
 3. [新批准国产网游版号达105款](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%89%B9%E5%87%86%E5%9B%BD%E4%BA%A7%E7%BD%91%E6%B8%B8%E7%89%88%E5%8F%B7%E8%BE%BE105%E6%AC%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [男子隔空猥亵8名幼女获刑7年半](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%9A%94%E7%A9%BA%E7%8C%A5%E4%BA%B58%E5%90%8D%E5%B9%BC%E5%A5%B3%E8%8E%B7%E5%88%917%E5%B9%B4%E5%8D%8A%23&t=31&band_rank=4&Refer=top)<br />
 5. [网易暴雪复合](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%98%93%E6%9A%B4%E9%9B%AA%E5%A4%8D%E5%90%88%23&t=31&band_rank=5&Refer=top)<br />
