@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 12:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 12:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴双生神女](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8F%8C%E7%94%9F%E7%A5%9E%E5%A5%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [周一确诊为大娘子](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B8%80%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%A4%A7%E5%A8%98%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
 8. [男子供养女友及其丈夫一家5年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BE%9B%E5%85%BB%E5%A5%B3%E5%8F%8B%E5%8F%8A%E5%85%B6%E4%B8%88%E5%A4%AB%E4%B8%80%E5%AE%B65%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [00后小伙年销7万单爱因斯坦的脑子](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%B0%8F%E4%BC%99%E5%B9%B4%E9%94%807%E4%B8%87%E5%8D%95%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E7%9A%84%E8%84%91%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [何炅杨紫二十年前](https://s.weibo.com/weibo?q=%E4%BD%95%E7%82%85%E6%9D%A8%E7%B4%AB%E4%BA%8C%E5%8D%81%E5%B9%B4%E5%89%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
