@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 14:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 14:50:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [职高生奋斗11年逆袭成麻省理工博士](https://www.baidu.com/s?wd=%E8%81%8C%E9%AB%98%E7%94%9F%E5%A5%8B%E6%96%9711%E5%B9%B4%E9%80%86%E8%A2%AD%E6%88%90%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%8D%9A%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [哈尔滨冰雕含鱼量极高](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%95%E5%90%AB%E9%B1%BC%E9%87%8F%E6%9E%81%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南京出现鸭浪奇观](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E5%87%BA%E7%8E%B0%E9%B8%AD%E6%B5%AA%E5%A5%87%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [2024元旦放假安排来了](https://www.baidu.com/s?wd=2024%E5%85%83%E6%97%A6%E6%94%BE%E5%81%87%E5%AE%89%E6%8E%92%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [塞尔维亚爆发示威活动](https://www.baidu.com/s?wd=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E7%88%86%E5%8F%91%E7%A4%BA%E5%A8%81%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州高校澡堂漏电致17死系谣言](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E9%AB%98%E6%A0%A1%E6%BE%A1%E5%A0%82%E6%BC%8F%E7%94%B5%E8%87%B417%E6%AD%BB%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [职高生奋斗11年逆袭成麻省理工博士](https://www.baidu.com/s?wd=%E8%81%8C%E9%AB%98%E7%94%9F%E5%A5%8B%E6%96%9711%E5%B9%B4%E9%80%86%E8%A2%AD%E6%88%90%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%8D%9A%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [哈尔滨冰雕含鱼量极高](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%95%E5%90%AB%E9%B1%BC%E9%87%8F%E6%9E%81%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南京出现鸭浪奇观](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E5%87%BA%E7%8E%B0%E9%B8%AD%E6%B5%AA%E5%A5%87%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [2024元旦放假安排来了](https://www.baidu.com/s?wd=2024%E5%85%83%E6%97%A6%E6%94%BE%E5%81%87%E5%AE%89%E6%8E%92%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [塞尔维亚爆发示威活动](https://www.baidu.com/s?wd=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E7%88%86%E5%8F%91%E7%A4%BA%E5%A8%81%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州高校澡堂漏电致17死系谣言](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E9%AB%98%E6%A0%A1%E6%BE%A1%E5%A0%82%E6%BC%8F%E7%94%B5%E8%87%B417%E6%AD%BB%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
