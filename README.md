@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 11:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 11:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [2024元旦放假安排来了](https://s.weibo.com/weibo?q=%232024%E5%85%83%E6%97%A6%E6%94%BE%E5%81%87%E5%AE%89%E6%8E%92%E6%9D%A5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [等等给孙俪泡了一杯鸡毛菜](https://s.weibo.com/weibo?q=%23%E7%AD%89%E7%AD%89%E7%BB%99%E5%AD%99%E4%BF%AA%E6%B3%A1%E4%BA%86%E4%B8%80%E6%9D%AF%E9%B8%A1%E6%AF%9B%E8%8F%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴黑粉拒不道歉被强执](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%BB%91%E7%B2%89%E6%8B%92%E4%B8%8D%E9%81%93%E6%AD%89%E8%A2%AB%E5%BC%BA%E6%89%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [我国成功发射一箭四星](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E5%9B%9B%E6%98%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [经纪人王力威退出肖战前工作室](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%8E%8B%E5%8A%9B%E5%A8%81%E9%80%80%E5%87%BA%E8%82%96%E6%88%98%E5%89%8D%E5%B7%A5%E4%BD%9C%E5%AE%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
