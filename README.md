@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 07:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 07:50:02</h4></div>
 
 > 微博  
 
 1. [姐姐与妹妹争吵后将其双手肌腱割断](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E4%B8%8E%E5%A6%B9%E5%A6%B9%E4%BA%89%E5%90%B5%E5%90%8E%E5%B0%86%E5%85%B6%E5%8F%8C%E6%89%8B%E8%82%8C%E8%85%B1%E5%89%B2%E6%96%AD%23&t=31&band_rank=1&Refer=top)<br />
 2. [本溪花28亿外包环卫却除不干净雪](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E6%BA%AA%E8%8A%B128%E4%BA%BF%E5%A4%96%E5%8C%85%E7%8E%AF%E5%8D%AB%E5%8D%B4%E9%99%A4%E4%B8%8D%E5%B9%B2%E5%87%80%E9%9B%AA%23&t=31&band_rank=2&Refer=top)<br />
 3. [新批准国产网游版号达105款](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%89%B9%E5%87%86%E5%9B%BD%E4%BA%A7%E7%BD%91%E6%B8%B8%E7%89%88%E5%8F%B7%E8%BE%BE105%E6%AC%BE%23&t=31&band_rank=3&Refer=top)<br />
-4. [你跟他讲道理 他跟你讲伦理](https://s.weibo.com/weibo?q=%E4%BD%A0%E8%B7%9F%E4%BB%96%E8%AE%B2%E9%81%93%E7%90%86%20%E4%BB%96%E8%B7%9F%E4%BD%A0%E8%AE%B2%E4%BC%A6%E7%90%86&t=31&band_rank=4&Refer=top)<br />
-5. [毛主席诞辰130周年](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%BB%E5%B8%AD%E8%AF%9E%E8%BE%B0130%E5%91%A8%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
+4. [毛主席诞辰130周年](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%BB%E5%B8%AD%E8%AF%9E%E8%BE%B0130%E5%91%A8%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
+5. [你跟他讲道理 他跟你讲伦理](https://s.weibo.com/weibo?q=%E4%BD%A0%E8%B7%9F%E4%BB%96%E8%AE%B2%E9%81%93%E7%90%86%20%E4%BB%96%E8%B7%9F%E4%BD%A0%E8%AE%B2%E4%BC%A6%E7%90%86&t=31&band_rank=5&Refer=top)<br />
 6. [警方通报理想L7清远2死1伤车祸](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%90%86%E6%83%B3L7%E6%B8%85%E8%BF%9C2%E6%AD%BB1%E4%BC%A4%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [网易暴雪复合](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%98%93%E6%9A%B4%E9%9B%AA%E5%A4%8D%E5%90%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [他只是做错题 又没有做错人](https://s.weibo.com/weibo?q=%E4%BB%96%E5%8F%AA%E6%98%AF%E5%81%9A%E9%94%99%E9%A2%98%20%E5%8F%88%E6%B2%A1%E6%9C%89%E5%81%9A%E9%94%99%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
