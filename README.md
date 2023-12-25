@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 14:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 14:03:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [退休市长回乡当农民 13年后成网红](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%91%E5%B8%82%E9%95%BF%E5%9B%9E%E4%B9%A1%E5%BD%93%E5%86%9C%E6%B0%91+13%E5%B9%B4%E5%90%8E%E6%88%90%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [村民：不是地震没人知道我们有多穷](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%EF%BC%9A%E4%B8%8D%E6%98%AF%E5%9C%B0%E9%9C%87%E6%B2%A1%E4%BA%BA%E7%9F%A5%E9%81%93%E6%88%91%E4%BB%AC%E6%9C%89%E5%A4%9A%E7%A9%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [陶勇医生让女儿生日洗碗引争议](https://www.baidu.com/s?wd=%E9%99%B6%E5%8B%87%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%A5%B3%E5%84%BF%E7%94%9F%E6%97%A5%E6%B4%97%E7%A2%97%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [百度发布2023年度沸点榜单](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E5%8F%91%E5%B8%832023%E5%B9%B4%E5%BA%A6%E6%B2%B8%E7%82%B9%E6%A6%9C%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [ATM机大厅摆桌吃火锅？银行回应](https://www.baidu.com/s?wd=ATM%E6%9C%BA%E5%A4%A7%E5%8E%85%E6%91%86%E6%A1%8C%E5%90%83%E7%81%AB%E9%94%85%EF%BC%9F%E9%93%B6%E8%A1%8C%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州高校澡堂漏电致17死系谣言](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E9%AB%98%E6%A0%A1%E6%BE%A1%E5%A0%82%E6%BC%8F%E7%94%B5%E8%87%B417%E6%AD%BB%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [退休市长回乡当农民 13年后成网红](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%91%E5%B8%82%E9%95%BF%E5%9B%9E%E4%B9%A1%E5%BD%93%E5%86%9C%E6%B0%91+13%E5%B9%B4%E5%90%8E%E6%88%90%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [村民：不是地震没人知道我们有多穷](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%EF%BC%9A%E4%B8%8D%E6%98%AF%E5%9C%B0%E9%9C%87%E6%B2%A1%E4%BA%BA%E7%9F%A5%E9%81%93%E6%88%91%E4%BB%AC%E6%9C%89%E5%A4%9A%E7%A9%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [陶勇医生让女儿生日洗碗引争议](https://www.baidu.com/s?wd=%E9%99%B6%E5%8B%87%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%A5%B3%E5%84%BF%E7%94%9F%E6%97%A5%E6%B4%97%E7%A2%97%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [百度发布2023年度沸点榜单](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E5%8F%91%E5%B8%832023%E5%B9%B4%E5%BA%A6%E6%B2%B8%E7%82%B9%E6%A6%9C%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [ATM机大厅摆桌吃火锅？银行回应](https://www.baidu.com/s?wd=ATM%E6%9C%BA%E5%A4%A7%E5%8E%85%E6%91%86%E6%A1%8C%E5%90%83%E7%81%AB%E9%94%85%EF%BC%9F%E9%93%B6%E8%A1%8C%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州高校澡堂漏电致17死系谣言](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E9%AB%98%E6%A0%A1%E6%BE%A1%E5%A0%82%E6%BC%8F%E7%94%B5%E8%87%B417%E6%AD%BB%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
