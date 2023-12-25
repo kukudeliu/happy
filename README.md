@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 20:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 20:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [3D还原订婚强奸案](https://s.weibo.com/weibo?q=%233D%E8%BF%98%E5%8E%9F%E8%AE%A2%E5%A9%9A%E5%BC%BA%E5%A5%B8%E6%A1%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [五月天被质疑假唱仍在调查中](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E8%B4%A8%E7%96%91%E5%81%87%E5%94%B1%E4%BB%8D%E5%9C%A8%E8%B0%83%E6%9F%A5%E4%B8%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [研究生监考老师分享监考感受见闻](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9B%91%E8%80%83%E8%80%81%E5%B8%88%E5%88%86%E4%BA%AB%E7%9B%91%E8%80%83%E6%84%9F%E5%8F%97%E8%A7%81%E9%97%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子心脏停跳90分钟医生接力救回](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BF%83%E8%84%8F%E5%81%9C%E8%B7%B390%E5%88%86%E9%92%9F%E5%8C%BB%E7%94%9F%E6%8E%A5%E5%8A%9B%E6%95%91%E5%9B%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [多地自助彩票机被叫停](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E8%87%AA%E5%8A%A9%E5%BD%A9%E7%A5%A8%E6%9C%BA%E8%A2%AB%E5%8F%AB%E5%81%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
