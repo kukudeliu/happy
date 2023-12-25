@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 15:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 15:39:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [女研究生制售色情书被抓](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E5%88%B6%E5%94%AE%E8%89%B2%E6%83%85%E4%B9%A6%E8%A2%AB%E6%8A%93%23&t=31&band_rank=4&Refer=top)<br />
 5. [黄奕为穿上礼服缠了10层保鲜膜](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A5%95%E4%B8%BA%E7%A9%BF%E4%B8%8A%E7%A4%BC%E6%9C%8D%E7%BC%A0%E4%BA%8610%E5%B1%82%E4%BF%9D%E9%B2%9C%E8%86%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [日本人的身高越来越矮了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%9A%84%E8%BA%AB%E9%AB%98%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%9F%AE%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [芒果格局](https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%E6%A0%BC%E5%B1%80&t=31&band_rank=7&Refer=top)<br />
-8. [自助餐蘸料 压缩饼干碎](https://s.weibo.com/weibo?q=%E8%87%AA%E5%8A%A9%E9%A4%90%E8%98%B8%E6%96%99%20%E5%8E%8B%E7%BC%A9%E9%A5%BC%E5%B9%B2%E7%A2%8E&t=31&band_rank=8&Refer=top)<br />
-9. [小破站跨晚把许嵩冯禧都请来了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%A0%B4%E7%AB%99%E8%B7%A8%E6%99%9A%E6%8A%8A%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E9%83%BD%E8%AF%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+7. [挖呀挖桃子老师每场直播收入仅千元](https://s.weibo.com/weibo?q=%23%E6%8C%96%E5%91%80%E6%8C%96%E6%A1%83%E5%AD%90%E8%80%81%E5%B8%88%E6%AF%8F%E5%9C%BA%E7%9B%B4%E6%92%AD%E6%94%B6%E5%85%A5%E4%BB%85%E5%8D%83%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [小破站跨晚把许嵩冯禧都请来了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%A0%B4%E7%AB%99%E8%B7%A8%E6%99%9A%E6%8A%8A%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E9%83%BD%E8%AF%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [芒果格局](https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%E6%A0%BC%E5%B1%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
