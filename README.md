@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 00:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 00:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子买房放女友名下分手后全要回](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B0%E6%88%BF%E6%94%BE%E5%A5%B3%E5%8F%8B%E5%90%8D%E4%B8%8B%E5%88%86%E6%89%8B%E5%90%8E%E5%85%A8%E8%A6%81%E5%9B%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [2024天蝎座年度关键词](https://s.weibo.com/weibo?q=2024%E5%A4%A9%E8%9D%8E%E5%BA%A7%E5%B9%B4%E5%BA%A6%E5%85%B3%E9%94%AE%E8%AF%8D&t=31&band_rank=7&Refer=top)<br />
 8. [2023十大热播剧](https://s.weibo.com/weibo?q=%232023%E5%8D%81%E5%A4%A7%E7%83%AD%E6%92%AD%E5%89%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子遭未婚夫强奸曾逃出房呼救被拖回](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%81%AD%E6%9C%AA%E5%A9%9A%E5%A4%AB%E5%BC%BA%E5%A5%B8%E6%9B%BE%E9%80%83%E5%87%BA%E6%88%BF%E5%91%BC%E6%95%91%E8%A2%AB%E6%8B%96%E5%9B%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [订婚强奸案](https://s.weibo.com/weibo?q=%E8%AE%A2%E5%A9%9A%E5%BC%BA%E5%A5%B8%E6%A1%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
