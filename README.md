@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 17:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-25 17:46:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [五月天被质疑假唱仍在调查中](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E8%B4%A8%E7%96%91%E5%81%87%E5%94%B1%E4%BB%8D%E5%9C%A8%E8%B0%83%E6%9F%A5%E4%B8%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [调查称读研平均最低月薪13218元](https://s.weibo.com/weibo?q=%23%E8%B0%83%E6%9F%A5%E7%A7%B0%E8%AF%BB%E7%A0%94%E5%B9%B3%E5%9D%87%E6%9C%80%E4%BD%8E%E6%9C%88%E8%96%AA13218%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [终于知道工资为什么要保密了](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%B7%A5%E8%B5%84%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E4%BF%9D%E5%AF%86%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [挖呀挖桃子老师每场直播收入仅千元](https://s.weibo.com/weibo?q=%23%E6%8C%96%E5%91%80%E6%8C%96%E6%A1%83%E5%AD%90%E8%80%81%E5%B8%88%E6%AF%8F%E5%9C%BA%E7%9B%B4%E6%92%AD%E6%94%B6%E5%85%A5%E4%BB%85%E5%8D%83%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [官方通报订婚强奸案](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%AE%A2%E5%A9%9A%E5%BC%BA%E5%A5%B8%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
+8. [官方通报订婚强奸案](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%AE%A2%E5%A9%9A%E5%BC%BA%E5%A5%B8%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [挖呀挖桃子老师每场直播收入仅千元](https://s.weibo.com/weibo?q=%23%E6%8C%96%E5%91%80%E6%8C%96%E6%A1%83%E5%AD%90%E8%80%81%E5%B8%88%E6%AF%8F%E5%9C%BA%E7%9B%B4%E6%92%AD%E6%94%B6%E5%85%A5%E4%BB%85%E5%8D%83%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
