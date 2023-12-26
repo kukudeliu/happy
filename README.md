@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 22:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 22:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [老师 我们家沈腾马丽呢](https://s.weibo.com/weibo?q=%E8%80%81%E5%B8%88%20%E6%88%91%E4%BB%AC%E5%AE%B6%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E5%91%A2&t=31&band_rank=6&Refer=top)<br />
 7. [鞠婧祎方辟谣和刘宇宁合作](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%92%8C%E5%88%98%E5%AE%87%E5%AE%81%E5%90%88%E4%BD%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [一诺 救赎了自己](https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA%20%E6%95%91%E8%B5%8E%E4%BA%86%E8%87%AA%E5%B7%B1&t=31&band_rank=8&Refer=top)<br />
-9. [江苏一公司不发工资发积分](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%85%AC%E5%8F%B8%E4%B8%8D%E5%8F%91%E5%B7%A5%E8%B5%84%E5%8F%91%E7%A7%AF%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [四川多名医护人员集体爬窗讨薪](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%9A%E5%90%8D%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E9%9B%86%E4%BD%93%E7%88%AC%E7%AA%97%E8%AE%A8%E8%96%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
