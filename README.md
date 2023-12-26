@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 17:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 17:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [华为耳夹耳机](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E8%80%B3%E5%A4%B9%E8%80%B3%E6%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [知网 我只想赶个ddl](https://s.weibo.com/weibo?q=%E7%9F%A5%E7%BD%91%20%E6%88%91%E5%8F%AA%E6%83%B3%E8%B5%B6%E4%B8%AAddl&t=31&band_rank=7&Refer=top)<br />
 8. [春夜](https://s.weibo.com/weibo?q=%E6%98%A5%E5%A4%9C&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴与摄像头决裂](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%8E%E6%91%84%E5%83%8F%E5%A4%B4%E5%86%B3%E8%A3%82%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘宇宁鞠婧祎 合作](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E5%90%88%E4%BD%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
