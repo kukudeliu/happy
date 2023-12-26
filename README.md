@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 08:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 08:50:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [毛主席诞辰130周年](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%BB%E5%B8%AD%E8%AF%9E%E8%BE%B0130%E5%91%A8%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [网易暴雪复合](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%98%93%E6%9A%B4%E9%9B%AA%E5%A4%8D%E5%90%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [大熊猫睡觉口水被冻成冰溜子](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%9D%A1%E8%A7%89%E5%8F%A3%E6%B0%B4%E8%A2%AB%E5%86%BB%E6%88%90%E5%86%B0%E6%BA%9C%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [你跟他讲道理 他跟你讲伦理](https://s.weibo.com/weibo?q=%E4%BD%A0%E8%B7%9F%E4%BB%96%E8%AE%B2%E9%81%93%E7%90%86%20%E4%BB%96%E8%B7%9F%E4%BD%A0%E8%AE%B2%E4%BC%A6%E7%90%86&t=31&band_rank=8&Refer=top)<br />
-9. [董宇辉一气呵成讲人类历史](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%E4%B8%80%E6%B0%94%E5%91%B5%E6%88%90%E8%AE%B2%E4%BA%BA%E7%B1%BB%E5%8E%86%E5%8F%B2&t=31&band_rank=9&Refer=top)<br />
+8. [董宇辉一气呵成讲人类历史](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%E4%B8%80%E6%B0%94%E5%91%B5%E6%88%90%E8%AE%B2%E4%BA%BA%E7%B1%BB%E5%8E%86%E5%8F%B2&t=31&band_rank=8&Refer=top)<br />
+9. [你跟他讲道理 他跟你讲伦理](https://s.weibo.com/weibo?q=%E4%BD%A0%E8%B7%9F%E4%BB%96%E8%AE%B2%E9%81%93%E7%90%86%20%E4%BB%96%E8%B7%9F%E4%BD%A0%E8%AE%B2%E4%BC%A6%E7%90%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
