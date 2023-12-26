@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 13:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 13:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩后创始人卖豪宅还债](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%90%8E%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%8D%96%E8%B1%AA%E5%AE%85%E8%BF%98%E5%80%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴水上钢琴光影大片](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B0%B4%E4%B8%8A%E9%92%A2%E7%90%B4%E5%85%89%E5%BD%B1%E5%A4%A7%E7%89%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [南京胖哥说2023像经历了半辈子](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%E8%AF%B42023%E5%83%8F%E7%BB%8F%E5%8E%86%E4%BA%86%E5%8D%8A%E8%BE%88%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [甄嬛传演员进组的第一场戏](https://s.weibo.com/weibo?q=%E7%94%84%E5%AC%9B%E4%BC%A0%E6%BC%94%E5%91%98%E8%BF%9B%E7%BB%84%E7%9A%84%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%88%8F&t=31&band_rank=9&Refer=top)<br />
+9. [3娃非亲生男子称3个孩子没一个理我](https://s.weibo.com/weibo?q=%233%E5%A8%83%E9%9D%9E%E4%BA%B2%E7%94%9F%E7%94%B7%E5%AD%90%E7%A7%B03%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%B2%A1%E4%B8%80%E4%B8%AA%E7%90%86%E6%88%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
