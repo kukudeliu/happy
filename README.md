@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 01:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 01:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [腿不直原来才是正常的](https://s.weibo.com/weibo?q=%E8%85%BF%E4%B8%8D%E7%9B%B4%E5%8E%9F%E6%9D%A5%E6%89%8D%E6%98%AF%E6%AD%A3%E5%B8%B8%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
 7. [人生若如初见 空降](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%E8%8B%A5%E5%A6%82%E5%88%9D%E8%A7%81%20%E7%A9%BA%E9%99%8D&t=31&band_rank=7&Refer=top)<br />
 8. [刘浩存演技](https://s.weibo.com/weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%E6%BC%94%E6%8A%80&t=31&band_rank=8&Refer=top)<br />
-9. [刘耀文的粉底](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E7%9A%84%E7%B2%89%E5%BA%95%23&t=31&band_rank=9&Refer=top)<br />
+9. [学校花1500万买下大飞机供学生练手](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E8%8A%B11500%E4%B8%87%E4%B9%B0%E4%B8%8B%E5%A4%A7%E9%A3%9E%E6%9C%BA%E4%BE%9B%E5%AD%A6%E7%94%9F%E7%BB%83%E6%89%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
