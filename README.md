@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 20:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 20:33:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [王嘉尔三观](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%98%89%E5%B0%94%E4%B8%89%E8%A7%82&t=31&band_rank=5&Refer=top)<br />
 6. [明星助理工资5000块](https://s.weibo.com/weibo?q=%E6%98%8E%E6%98%9F%E5%8A%A9%E7%90%86%E5%B7%A5%E8%B5%845000%E5%9D%97&t=31&band_rank=6&Refer=top)<br />
 7. [羽生结弦前妻首度发声](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%89%8D%E5%A6%BB%E9%A6%96%E5%BA%A6%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
-8. [最难嗑CP](https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%9A%BE%E5%97%91CP%23&t=31&band_rank=8&Refer=top)<br />
-9. [麦当劳明起涨价](https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E6%98%8E%E8%B5%B7%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=9&Refer=top)<br />
+8. [麦当劳明起涨价](https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E6%98%8E%E8%B5%B7%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=8&Refer=top)<br />
+9. [闲鱼回应援助加拿大鹅被倒卖](https://s.weibo.com/weibo?q=%23%E9%97%B2%E9%B1%BC%E5%9B%9E%E5%BA%94%E6%8F%B4%E5%8A%A9%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%85%E8%A2%AB%E5%80%92%E5%8D%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
