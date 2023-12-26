@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 08:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 08:41:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [你跟他讲道理 他跟你讲伦理](https://s.weibo.com/weibo?q=%E4%BD%A0%E8%B7%9F%E4%BB%96%E8%AE%B2%E9%81%93%E7%90%86%20%E4%BB%96%E8%B7%9F%E4%BD%A0%E8%AE%B2%E4%BC%A6%E7%90%86&t=31&band_rank=6&Refer=top)<br />
 7. [大熊猫睡觉口水被冻成冰溜子](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%9D%A1%E8%A7%89%E5%8F%A3%E6%B0%B4%E8%A2%AB%E5%86%BB%E6%88%90%E5%86%B0%E6%BA%9C%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [警方通报理想L7清远2死1伤车祸](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%90%86%E6%83%B3L7%E6%B8%85%E8%BF%9C2%E6%AD%BB1%E4%BC%A4%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子买房放女友名下分手后全要回](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B0%E6%88%BF%E6%94%BE%E5%A5%B3%E5%8F%8B%E5%90%8D%E4%B8%8B%E5%88%86%E6%89%8B%E5%90%8E%E5%85%A8%E8%A6%81%E5%9B%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [去有风的地方获200万元补助](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E6%9C%89%E9%A3%8E%E7%9A%84%E5%9C%B0%E6%96%B9%E8%8E%B7200%E4%B8%87%E5%85%83%E8%A1%A5%E5%8A%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
