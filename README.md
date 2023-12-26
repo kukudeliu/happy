@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 19:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 19:43:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [老师 我们家沈腾马丽呢](https://s.weibo.com/weibo?q=%E8%80%81%E5%B8%88%20%E6%88%91%E4%BB%AC%E5%AE%B6%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E5%91%A2&t=31&band_rank=6&Refer=top)<br />
 7. [男子突发低血糖酒店员工暖心相助](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%AA%81%E5%8F%91%E4%BD%8E%E8%A1%80%E7%B3%96%E9%85%92%E5%BA%97%E5%91%98%E5%B7%A5%E6%9A%96%E5%BF%83%E7%9B%B8%E5%8A%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [2024央视春晚彩排](https://s.weibo.com/weibo?q=%232024%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [邓为前助理被拖欠工资](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E5%89%8D%E5%8A%A9%E7%90%86%E8%A2%AB%E6%8B%96%E6%AC%A0%E5%B7%A5%E8%B5%84&t=31&band_rank=9&Refer=top)<br />
+9. [最难嗑CP](https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%9A%BE%E5%97%91CP%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
