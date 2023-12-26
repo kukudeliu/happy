@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 10:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 10:31:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [23岁的普通人到底应该有多少钱](https://s.weibo.com/weibo?q=23%E5%B2%81%E7%9A%84%E6%99%AE%E9%80%9A%E4%BA%BA%E5%88%B0%E5%BA%95%E5%BA%94%E8%AF%A5%E6%9C%89%E5%A4%9A%E5%B0%91%E9%92%B1&t=31&band_rank=4&Refer=top)<br />
 5. [去有风的地方获200万元补助](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E6%9C%89%E9%A3%8E%E7%9A%84%E5%9C%B0%E6%96%B9%E8%8E%B7200%E4%B8%87%E5%85%83%E8%A1%A5%E5%8A%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [中国象棋协会处罚全国冠军](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B%E5%8D%8F%E4%BC%9A%E5%A4%84%E7%BD%9A%E5%85%A8%E5%9B%BD%E5%86%A0%E5%86%9B%23&t=31&band_rank=6&Refer=top)<br />
-7. [毛主席诞辰130周年](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%BB%E5%B8%AD%E8%AF%9E%E8%BE%B0130%E5%91%A8%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [胡海泉再被冻结115万股权](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%B5%B7%E6%B3%89%E5%86%8D%E8%A2%AB%E5%86%BB%E7%BB%93115%E4%B8%87%E8%82%A1%E6%9D%83%23&t=31&band_rank=8&Refer=top)<br />
+7. [胡海泉再被冻结115万股权](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%B5%B7%E6%B3%89%E5%86%8D%E8%A2%AB%E5%86%BB%E7%BB%93115%E4%B8%87%E8%82%A1%E6%9D%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [毛主席诞辰130周年](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%BB%E5%B8%AD%E8%AF%9E%E8%BE%B0130%E5%91%A8%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
 9. [甄嬛传演员进组的第一场戏](https://s.weibo.com/weibo?q=%E7%94%84%E5%AC%9B%E4%BC%A0%E6%BC%94%E5%91%98%E8%BF%9B%E7%BB%84%E7%9A%84%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%88%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
