@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 07:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 07:13:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [何猷君以为奚梦瑶说求婚土](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E4%BB%A5%E4%B8%BA%E5%A5%9A%E6%A2%A6%E7%91%B6%E8%AF%B4%E6%B1%82%E5%A9%9A%E5%9C%9F&t=31&band_rank=5&Refer=top)<br />
 6. [人生若如初见 空降](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%E8%8B%A5%E5%A6%82%E5%88%9D%E8%A7%81%20%E7%A9%BA%E9%99%8D&t=31&band_rank=6&Refer=top)<br />
 7. [闲鱼回应援助加拿大鹅被倒卖](https://s.weibo.com/weibo?q=%23%E9%97%B2%E9%B1%BC%E5%9B%9E%E5%BA%94%E6%8F%B4%E5%8A%A9%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%85%E8%A2%AB%E5%80%92%E5%8D%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [腿不直原来才是正常的](https://s.weibo.com/weibo?q=%E8%85%BF%E4%B8%8D%E7%9B%B4%E5%8E%9F%E6%9D%A5%E6%89%8D%E6%98%AF%E6%AD%A3%E5%B8%B8%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
-9. [学会上高铁的卫生间](https://s.weibo.com/weibo?q=%E5%AD%A6%E4%BC%9A%E4%B8%8A%E9%AB%98%E9%93%81%E7%9A%84%E5%8D%AB%E7%94%9F%E9%97%B4&t=31&band_rank=9&Refer=top)<br />
+8. [山科大休学学生行凶案凶手被判死刑](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E7%A7%91%E5%A4%A7%E4%BC%91%E5%AD%A6%E5%AD%A6%E7%94%9F%E8%A1%8C%E5%87%B6%E6%A1%88%E5%87%B6%E6%89%8B%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%23&t=31&band_rank=8&Refer=top)<br />
+9. [腿不直原来才是正常的](https://s.weibo.com/weibo?q=%E8%85%BF%E4%B8%8D%E7%9B%B4%E5%8E%9F%E6%9D%A5%E6%89%8D%E6%98%AF%E6%AD%A3%E5%B8%B8%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
