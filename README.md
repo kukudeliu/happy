@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 06:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 06:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [何猷君以为奚梦瑶说求婚土](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E4%BB%A5%E4%B8%BA%E5%A5%9A%E6%A2%A6%E7%91%B6%E8%AF%B4%E6%B1%82%E5%A9%9A%E5%9C%9F&t=31&band_rank=6&Refer=top)<br />
 7. [闲鱼回应援助加拿大鹅被倒卖](https://s.weibo.com/weibo?q=%23%E9%97%B2%E9%B1%BC%E5%9B%9E%E5%BA%94%E6%8F%B4%E5%8A%A9%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%85%E8%A2%AB%E5%80%92%E5%8D%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [青簪行有消息了](https://s.weibo.com/weibo?q=%E9%9D%92%E7%B0%AA%E8%A1%8C%E6%9C%89%E6%B6%88%E6%81%AF%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [刘浩存演技](https://s.weibo.com/weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%E6%BC%94%E6%8A%80&t=31&band_rank=9&Refer=top)<br />
+9. [胡先煦不让赵昭仪喝冰的](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E4%B8%8D%E8%AE%A9%E8%B5%B5%E6%98%AD%E4%BB%AA%E5%96%9D%E5%86%B0%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [央媒：本溪花28亿除不净雪令人质疑](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E6%9C%AC%E6%BA%AA%E8%8A%B128%E4%BA%BF%E9%99%A4%E4%B8%8D%E5%87%80%E9%9B%AA%E4%BB%A4%E4%BA%BA%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡歌资助的女孩成了中科院博士](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E8%B5%84%E5%8A%A9%E7%9A%84%E5%A5%B3%E5%AD%A9%E6%88%90%E4%BA%86%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [央视揭露朋友圈少儿才艺投票骗局](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%8F%AD%E9%9C%B2%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%B0%91%E5%84%BF%E6%89%8D%E8%89%BA%E6%8A%95%E7%A5%A8%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子见女孩像杨幂连续2周地铁站尾随](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A7%81%E5%A5%B3%E5%AD%A9%E5%83%8F%E6%9D%A8%E5%B9%82%E8%BF%9E%E7%BB%AD2%E5%91%A8%E5%9C%B0%E9%93%81%E7%AB%99%E5%B0%BE%E9%9A%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [西安供暖测温引争议](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BE%9B%E6%9A%96%E6%B5%8B%E6%B8%A9%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣2岁幼童地震中失去双亲](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A32%E5%B2%81%E5%B9%BC%E7%AB%A5%E5%9C%B0%E9%9C%87%E4%B8%AD%E5%A4%B1%E5%8E%BB%E5%8F%8C%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [央媒：本溪花28亿除不净雪令人质疑](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E6%9C%AC%E6%BA%AA%E8%8A%B128%E4%BA%BF%E9%99%A4%E4%B8%8D%E5%87%80%E9%9B%AA%E4%BB%A4%E4%BA%BA%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡歌资助的女孩成了中科院博士](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E8%B5%84%E5%8A%A9%E7%9A%84%E5%A5%B3%E5%AD%A9%E6%88%90%E4%BA%86%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [央视揭露朋友圈少儿才艺投票骗局](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%8F%AD%E9%9C%B2%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%B0%91%E5%84%BF%E6%89%8D%E8%89%BA%E6%8A%95%E7%A5%A8%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子见女孩像杨幂连续2周地铁站尾随](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A7%81%E5%A5%B3%E5%AD%A9%E5%83%8F%E6%9D%A8%E5%B9%82%E8%BF%9E%E7%BB%AD2%E5%91%A8%E5%9C%B0%E9%93%81%E7%AB%99%E5%B0%BE%E9%9A%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [西安供暖测温引争议](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BE%9B%E6%9A%96%E6%B5%8B%E6%B8%A9%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣2岁幼童地震中失去双亲](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A32%E5%B2%81%E5%B9%BC%E7%AB%A5%E5%9C%B0%E9%9C%87%E4%B8%AD%E5%A4%B1%E5%8E%BB%E5%8F%8C%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
