@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 22:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 22:25:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [央视揭朋友圈少儿才艺投票骗局](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%B0%91%E5%84%BF%E6%89%8D%E8%89%BA%E6%8A%95%E7%A5%A8%E9%AA%97%E5%B1%80%23&t=31&band_rank=5&Refer=top)<br />
 6. [香港演员黎淑贤去世](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%BC%94%E5%91%98%E9%BB%8E%E6%B7%91%E8%B4%A4%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [家长被通知接走发烧孩子后大怒](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E8%A2%AB%E9%80%9A%E7%9F%A5%E6%8E%A5%E8%B5%B0%E5%8F%91%E7%83%A7%E5%AD%A9%E5%AD%90%E5%90%8E%E5%A4%A7%E6%80%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [老师 我们家沈腾马丽呢](https://s.weibo.com/weibo?q=%E8%80%81%E5%B8%88%20%E6%88%91%E4%BB%AC%E5%AE%B6%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E5%91%A2&t=31&band_rank=8&Refer=top)<br />
-9. [莎头 可口可乐](https://s.weibo.com/weibo?q=%E8%8E%8E%E5%A4%B4%20%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90&t=31&band_rank=9&Refer=top)<br />
+8. [莎头 可口可乐](https://s.weibo.com/weibo?q=%E8%8E%8E%E5%A4%B4%20%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90&t=31&band_rank=8&Refer=top)<br />
+9. [老师 我们家沈腾马丽呢](https://s.weibo.com/weibo?q=%E8%80%81%E5%B8%88%20%E6%88%91%E4%BB%AC%E5%AE%B6%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E5%91%A2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
