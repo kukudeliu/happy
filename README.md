@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 15:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 15:46:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [董明珠称矿井空调让矿工从裸体上班到穿西装](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E7%9F%BF%E4%BA%95%E7%A9%BA%E8%B0%83%E8%AE%A9%E7%9F%BF%E5%B7%A5%E4%BB%8E%E8%A3%B8%E4%BD%93%E4%B8%8A%E7%8F%AD%E5%88%B0%E7%A9%BF%E8%A5%BF%E8%A3%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [官方回应加鹅羽绒服疑被挂闲鱼倒卖](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8A%A0%E9%B9%85%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%96%91%E8%A2%AB%E6%8C%82%E9%97%B2%E9%B1%BC%E5%80%92%E5%8D%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [娜然说封神上映后头发白了一半](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E7%84%B6%E8%AF%B4%E5%B0%81%E7%A5%9E%E4%B8%8A%E6%98%A0%E5%90%8E%E5%A4%B4%E5%8F%91%E7%99%BD%E4%BA%86%E4%B8%80%E5%8D%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [王传君希望王鹤棣演他爸爸](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%B8%8C%E6%9C%9B%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%BC%94%E4%BB%96%E7%88%B8%E7%88%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [柠萌影视请徐梦洁拍兽药广告被罚](https://s.weibo.com/weibo?q=%23%E6%9F%A0%E8%90%8C%E5%BD%B1%E8%A7%86%E8%AF%B7%E5%BE%90%E6%A2%A6%E6%B4%81%E6%8B%8D%E5%85%BD%E8%8D%AF%E5%B9%BF%E5%91%8A%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=9&Refer=top)<br />
+8. [柠萌影视请徐梦洁拍兽药广告被罚](https://s.weibo.com/weibo?q=%23%E6%9F%A0%E8%90%8C%E5%BD%B1%E8%A7%86%E8%AF%B7%E5%BE%90%E6%A2%A6%E6%B4%81%E6%8B%8D%E5%85%BD%E8%8D%AF%E5%B9%BF%E5%91%8A%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [王传君希望王鹤棣演他爸爸](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%B8%8C%E6%9C%9B%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%BC%94%E4%BB%96%E7%88%B8%E7%88%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
