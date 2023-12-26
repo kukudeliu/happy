@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 07:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 07:46:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [三条高铁今日开通](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%9D%A1%E9%AB%98%E9%93%81%E4%BB%8A%E6%97%A5%E5%BC%80%E9%80%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [央视揭朋友圈少儿才艺投票骗局](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%B0%91%E5%84%BF%E6%89%8D%E8%89%BA%E6%8A%95%E7%A5%A8%E9%AA%97%E5%B1%80%23&t=31&band_rank=4&Refer=top)<br />
 5. [何猷君以为奚梦瑶说求婚土](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E4%BB%A5%E4%B8%BA%E5%A5%9A%E6%A2%A6%E7%91%B6%E8%AF%B4%E6%B1%82%E5%A9%9A%E5%9C%9F&t=31&band_rank=5&Refer=top)<br />
-6. [学校花1500万买下大飞机供学生练手](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E8%8A%B11500%E4%B8%87%E4%B9%B0%E4%B8%8B%E5%A4%A7%E9%A3%9E%E6%9C%BA%E4%BE%9B%E5%AD%A6%E7%94%9F%E7%BB%83%E6%89%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [卫健委否认医护集体跳楼](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E5%90%A6%E8%AE%A4%E5%8C%BB%E6%8A%A4%E9%9B%86%E4%BD%93%E8%B7%B3%E6%A5%BC%23&t=31&band_rank=7&Refer=top)<br />
+6. [卫健委否认医护集体跳楼](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E5%90%A6%E8%AE%A4%E5%8C%BB%E6%8A%A4%E9%9B%86%E4%BD%93%E8%B7%B3%E6%A5%BC%23&t=31&band_rank=6&Refer=top)<br />
+7. [学校花1500万买下大飞机供学生练手](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E8%8A%B11500%E4%B8%87%E4%B9%B0%E4%B8%8B%E5%A4%A7%E9%A3%9E%E6%9C%BA%E4%BE%9B%E5%AD%A6%E7%94%9F%E7%BB%83%E6%89%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [人生若如初见 空降](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%E8%8B%A5%E5%A6%82%E5%88%9D%E8%A7%81%20%E7%A9%BA%E9%99%8D&t=31&band_rank=8&Refer=top)<br />
 9. [甘肃积石山发生3.3级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%8F%91%E7%94%9F3.3%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
 
