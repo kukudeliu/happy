@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 08:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 08:08:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [中央军委举行晋升上将军衔仪式](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%86%9B%E5%A7%94%E4%B8%BE%E8%A1%8C%E6%99%8B%E5%8D%87%E4%B8%8A%E5%B0%86%E5%86%9B%E8%A1%94%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [中办、国办：鼓励安排职工除夕休息](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8A%9E%E3%80%81%E5%9B%BD%E5%8A%9E%EF%BC%9A%E9%BC%93%E5%8A%B1%E5%AE%89%E6%8E%92%E8%81%8C%E5%B7%A5%E9%99%A4%E5%A4%95%E4%BC%91%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [小伙地震逃生撞伤腰意外查出肝癌](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%B0%E9%9C%87%E9%80%83%E7%94%9F%E6%92%9E%E4%BC%A4%E8%85%B0%E6%84%8F%E5%A4%96%E6%9F%A5%E5%87%BA%E8%82%9D%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [辽宁一地28亿外包环卫却除不干净雪](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%9C%B028%E4%BA%BF%E5%A4%96%E5%8C%85%E7%8E%AF%E5%8D%AB%E5%8D%B4%E9%99%A4%E4%B8%8D%E5%B9%B2%E5%87%80%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亿万人民共享福祉](https://www.baidu.com/s?wd=%E4%BA%BF%E4%B8%87%E4%BA%BA%E6%B0%91%E5%85%B1%E4%BA%AB%E7%A6%8F%E7%A5%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“3娃非亲生”男子：给父母丢脸了](https://www.baidu.com/s?wd=%E2%80%9C3%E5%A8%83%E9%9D%9E%E4%BA%B2%E7%94%9F%E2%80%9D%E7%94%B7%E5%AD%90%EF%BC%9A%E7%BB%99%E7%88%B6%E6%AF%8D%E4%B8%A2%E8%84%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [中央军委举行晋升上将军衔仪式](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%86%9B%E5%A7%94%E4%B8%BE%E8%A1%8C%E6%99%8B%E5%8D%87%E4%B8%8A%E5%B0%86%E5%86%9B%E8%A1%94%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [中办、国办：鼓励安排职工除夕休息](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8A%9E%E3%80%81%E5%9B%BD%E5%8A%9E%EF%BC%9A%E9%BC%93%E5%8A%B1%E5%AE%89%E6%8E%92%E8%81%8C%E5%B7%A5%E9%99%A4%E5%A4%95%E4%BC%91%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [小伙地震逃生撞伤腰意外查出肝癌](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9C%B0%E9%9C%87%E9%80%83%E7%94%9F%E6%92%9E%E4%BC%A4%E8%85%B0%E6%84%8F%E5%A4%96%E6%9F%A5%E5%87%BA%E8%82%9D%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [辽宁一地28亿外包环卫却除不干净雪](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%9C%B028%E4%BA%BF%E5%A4%96%E5%8C%85%E7%8E%AF%E5%8D%AB%E5%8D%B4%E9%99%A4%E4%B8%8D%E5%B9%B2%E5%87%80%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亿万人民共享福祉](https://www.baidu.com/s?wd=%E4%BA%BF%E4%B8%87%E4%BA%BA%E6%B0%91%E5%85%B1%E4%BA%AB%E7%A6%8F%E7%A5%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“3娃非亲生”男子：给父母丢脸了](https://www.baidu.com/s?wd=%E2%80%9C3%E5%A8%83%E9%9D%9E%E4%BA%B2%E7%94%9F%E2%80%9D%E7%94%B7%E5%AD%90%EF%BC%9A%E7%BB%99%E7%88%B6%E6%AF%8D%E4%B8%A2%E8%84%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
