@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 20:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 20:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [明星助理工资5000块](https://s.weibo.com/weibo?q=%E6%98%8E%E6%98%9F%E5%8A%A9%E7%90%86%E5%B7%A5%E8%B5%845000%E5%9D%97&t=31&band_rank=6&Refer=top)<br />
 7. [男子突发低血糖酒店员工暖心相助](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%AA%81%E5%8F%91%E4%BD%8E%E8%A1%80%E7%B3%96%E9%85%92%E5%BA%97%E5%91%98%E5%B7%A5%E6%9A%96%E5%BF%83%E7%9B%B8%E5%8A%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [羽生结弦前妻首度发声](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%89%8D%E5%A6%BB%E9%A6%96%E5%BA%A6%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [最难嗑CP](https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%9A%BE%E5%97%91CP%23&t=31&band_rank=9&Refer=top)<br />
+9. [邓为经纪公司仅2人参保](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E4%BB%852%E4%BA%BA%E5%8F%82%E4%BF%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
