@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 22:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 22:15:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [老师 我们家沈腾马丽呢](https://s.weibo.com/weibo?q=%E8%80%81%E5%B8%88%20%E6%88%91%E4%BB%AC%E5%AE%B6%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E5%91%A2&t=31&band_rank=5&Refer=top)<br />
 6. [香港演员黎淑贤去世](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%BC%94%E5%91%98%E9%BB%8E%E6%B7%91%E8%B4%A4%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [鞠婧祎方辟谣和刘宇宁合作](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%92%8C%E5%88%98%E5%AE%87%E5%AE%81%E5%90%88%E4%BD%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [四川多名医护人员集体爬窗讨薪](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%9A%E5%90%8D%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E9%9B%86%E4%BD%93%E7%88%AC%E7%AA%97%E8%AE%A8%E8%96%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [央视揭朋友圈少儿才艺投票骗局](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%B0%91%E5%84%BF%E6%89%8D%E8%89%BA%E6%8A%95%E7%A5%A8%E9%AA%97%E5%B1%80%23&t=31&band_rank=9&Refer=top)<br />
+8. [央视揭朋友圈少儿才艺投票骗局](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%B0%91%E5%84%BF%E6%89%8D%E8%89%BA%E6%8A%95%E7%A5%A8%E9%AA%97%E5%B1%80%23&t=31&band_rank=8&Refer=top)<br />
+9. [四川多名医护人员集体爬窗讨薪](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%9A%E5%90%8D%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E9%9B%86%E4%BD%93%E7%88%AC%E7%AA%97%E8%AE%A8%E8%96%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
