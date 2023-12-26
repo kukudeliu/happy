@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 17:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-26 17:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [EDG 天才](https://s.weibo.com/weibo?q=EDG%20%E5%A4%A9%E6%89%8D&t=31&band_rank=6&Refer=top)<br />
 7. [华为耳夹耳机](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E8%80%B3%E5%A4%B9%E8%80%B3%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [何猷君跟狗吵架](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E8%B7%9F%E7%8B%97%E5%90%B5%E6%9E%B6&t=31&band_rank=8&Refer=top)<br />
-9. [民政局回应疑智障女子与五旬男子结婚](https://s.weibo.com/weibo?q=%23%E6%B0%91%E6%94%BF%E5%B1%80%E5%9B%9E%E5%BA%94%E7%96%91%E6%99%BA%E9%9A%9C%E5%A5%B3%E5%AD%90%E4%B8%8E%E4%BA%94%E6%97%AC%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [读者开年封面是萌兰](https://s.weibo.com/weibo?q=%23%E8%AF%BB%E8%80%85%E5%BC%80%E5%B9%B4%E5%B0%81%E9%9D%A2%E6%98%AF%E8%90%8C%E5%85%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
