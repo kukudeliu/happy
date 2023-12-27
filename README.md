@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 20:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 20:37:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [繁花开播](https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1%E5%BC%80%E6%92%AD&t=31&band_rank=6&Refer=top)<br />
 7. [小鹿爆料 抄袭认可](https://s.weibo.com/weibo?q=%E5%B0%8F%E9%B9%BF%E7%88%86%E6%96%99%20%E6%8A%84%E8%A2%AD%E8%AE%A4%E5%8F%AF&t=31&band_rank=7&Refer=top)<br />
 8. [繁花 金宇澄原著](https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1%20%E9%87%91%E5%AE%87%E6%BE%84%E5%8E%9F%E8%91%97&t=31&band_rank=8&Refer=top)<br />
-9. [特斯拉瞒报工厂机器人袭击工人次数](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E7%9E%92%E6%8A%A5%E5%B7%A5%E5%8E%82%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AD%E5%87%BB%E5%B7%A5%E4%BA%BA%E6%AC%A1%E6%95%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [中共中央印发中国共产党纪律处分条例](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%8D%B0%E5%8F%91%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%BA%AA%E5%BE%8B%E5%A4%84%E5%88%86%E6%9D%A1%E4%BE%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
