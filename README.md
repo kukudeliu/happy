@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 12:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 13:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [何以琛才是最会阴阳怪气的](https://s.weibo.com/weibo?q=%E4%BD%95%E4%BB%A5%E7%90%9B%E6%89%8D%E6%98%AF%E6%9C%80%E4%BC%9A%E9%98%B4%E9%98%B3%E6%80%AA%E6%B0%94%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
 7. [房东举报诡异绿光获重大奖励](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E4%B8%BE%E6%8A%A5%E8%AF%A1%E5%BC%82%E7%BB%BF%E5%85%89%E8%8E%B7%E9%87%8D%E5%A4%A7%E5%A5%96%E5%8A%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [我不是土豆 我一米七](https://s.weibo.com/weibo?q=%E6%88%91%E4%B8%8D%E6%98%AF%E5%9C%9F%E8%B1%86%20%E6%88%91%E4%B8%80%E7%B1%B3%E4%B8%83&t=31&band_rank=8&Refer=top)<br />
-9. [小米汽车向华为比亚迪致敬](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%90%91%E5%8D%8E%E4%B8%BA%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%87%B4%E6%95%AC%23&t=31&band_rank=9&Refer=top)<br />
+9. [邓为前助理被开除原因](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E5%89%8D%E5%8A%A9%E7%90%86%E8%A2%AB%E5%BC%80%E9%99%A4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
