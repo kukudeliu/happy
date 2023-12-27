@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 09:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 09:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [邓为前助理被开除原因](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E5%89%8D%E5%8A%A9%E7%90%86%E8%A2%AB%E5%BC%80%E9%99%A4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [胡歌对接否认资助女孩成了中科院博士](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%AF%B9%E6%8E%A5%E5%90%A6%E8%AE%A4%E8%B5%84%E5%8A%A9%E5%A5%B3%E5%AD%A9%E6%88%90%E4%BA%86%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [卫健委否认医护集体跳楼](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E5%90%A6%E8%AE%A4%E5%8C%BB%E6%8A%A4%E9%9B%86%E4%BD%93%E8%B7%B3%E6%A5%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [流量褪去的淄博鸭头小哥](https://s.weibo.com/weibo?q=%23%E6%B5%81%E9%87%8F%E8%A4%AA%E5%8E%BB%E7%9A%84%E6%B7%84%E5%8D%9A%E9%B8%AD%E5%A4%B4%E5%B0%8F%E5%93%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [孙怡张晚意是在演他追她逃吗](https://s.weibo.com/weibo?q=%E5%AD%99%E6%80%A1%E5%BC%A0%E6%99%9A%E6%84%8F%E6%98%AF%E5%9C%A8%E6%BC%94%E4%BB%96%E8%BF%BD%E5%A5%B9%E9%80%83%E5%90%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
