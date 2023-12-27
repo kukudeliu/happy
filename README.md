@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 22:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 22:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [柯洁 今后不会再发动态](https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B4%81%20%E4%BB%8A%E5%90%8E%E4%B8%8D%E4%BC%9A%E5%86%8D%E5%8F%91%E5%8A%A8%E6%80%81&t=31&band_rank=6&Refer=top)<br />
 7. [shuuun](https://s.weibo.com/weibo?q=shuuun&t=31&band_rank=7&Refer=top)<br />
 8. [繁花 继承之战](https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1%20%E7%BB%A7%E6%89%BF%E4%B9%8B%E6%88%98&t=31&band_rank=8&Refer=top)<br />
-9. [特斯拉瞒报工厂机器人袭击工人次数](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E7%9E%92%E6%8A%A5%E5%B7%A5%E5%8E%82%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AD%E5%87%BB%E5%B7%A5%E4%BA%BA%E6%AC%A1%E6%95%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [晚安计划](https://s.weibo.com/weibo?q=%E6%99%9A%E5%AE%89%E8%AE%A1%E5%88%92&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
