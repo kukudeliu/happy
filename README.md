@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 00:50:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 00:51:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [大肠发圈丸子头](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%82%A0%E5%8F%91%E5%9C%88%E4%B8%B8%E5%AD%90%E5%A4%B4&t=31&band_rank=4&Refer=top)<br />
 5. [唐嫣繁花 妆造颠覆](https://s.weibo.com/weibo?q=%E5%94%90%E5%AB%A3%E7%B9%81%E8%8A%B1%20%E5%A6%86%E9%80%A0%E9%A2%A0%E8%A6%86&t=31&band_rank=5&Refer=top)<br />
 6. [男生被教授催眠后眼睛无神](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%A2%AB%E6%95%99%E6%8E%88%E5%82%AC%E7%9C%A0%E5%90%8E%E7%9C%BC%E7%9D%9B%E6%97%A0%E7%A5%9E%23&t=31&band_rank=6&Refer=top)<br />
-7. [发发 作弊](https://s.weibo.com/weibo?q=%E5%8F%91%E5%8F%91%20%E4%BD%9C%E5%BC%8A&t=31&band_rank=7&Refer=top)<br />
+7. [3块钱的饮料正在集体消失](https://s.weibo.com/weibo?q=%233%E5%9D%97%E9%92%B1%E7%9A%84%E9%A5%AE%E6%96%99%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E6%B6%88%E5%A4%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [小时代之繁花时代](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%B6%E4%BB%A3%E4%B9%8B%E7%B9%81%E8%8A%B1%E6%97%B6%E4%BB%A3&t=31&band_rank=8&Refer=top)<br />
-9. [3块钱的饮料正在集体消失](https://s.weibo.com/weibo?q=%233%E5%9D%97%E9%92%B1%E7%9A%84%E9%A5%AE%E6%96%99%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E6%B6%88%E5%A4%B1%23&t=31&band_rank=9&Refer=top)<br />
+9. [发发 作弊](https://s.weibo.com/weibo?q=%E5%8F%91%E5%8F%91%20%E4%BD%9C%E5%BC%8A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
