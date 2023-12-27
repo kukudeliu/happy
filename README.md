@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 11:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 11:41:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [我不是土豆 我一米七](https://s.weibo.com/weibo?q=%E6%88%91%E4%B8%8D%E6%98%AF%E5%9C%9F%E8%B1%86%20%E6%88%91%E4%B8%80%E7%B1%B3%E4%B8%83&t=31&band_rank=4&Refer=top)<br />
 5. [何以琛才是最会阴阳怪气的](https://s.weibo.com/weibo?q=%E4%BD%95%E4%BB%A5%E7%90%9B%E6%89%8D%E6%98%AF%E6%9C%80%E4%BC%9A%E9%98%B4%E9%98%B3%E6%80%AA%E6%B0%94%E7%9A%84&t=31&band_rank=5&Refer=top)<br />
 6. [北京一男子骑电动车闯红灯被撞身亡](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E7%94%B7%E5%AD%90%E9%AA%91%E7%94%B5%E5%8A%A8%E8%BD%A6%E9%97%AF%E7%BA%A2%E7%81%AF%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
-7. [2023你被哪些瞬间治愈](https://s.weibo.com/weibo?q=%232023%E4%BD%A0%E8%A2%AB%E5%93%AA%E4%BA%9B%E7%9E%AC%E9%97%B4%E6%B2%BB%E6%84%88%23&t=31&band_rank=7&Refer=top)<br />
+7. [博主B太称打假不是为了流量](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BBB%E5%A4%AA%E7%A7%B0%E6%89%93%E5%81%87%E4%B8%8D%E6%98%AF%E4%B8%BA%E4%BA%86%E6%B5%81%E9%87%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [邓为前助理被开除原因](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E5%89%8D%E5%8A%A9%E7%90%86%E8%A2%AB%E5%BC%80%E9%99%A4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [博主B太称打假不是为了流量](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BBB%E5%A4%AA%E7%A7%B0%E6%89%93%E5%81%87%E4%B8%8D%E6%98%AF%E4%B8%BA%E4%BA%86%E6%B5%81%E9%87%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [奶茶 大冰少杯](https://s.weibo.com/weibo?q=%E5%A5%B6%E8%8C%B6%20%E5%A4%A7%E5%86%B0%E5%B0%91%E6%9D%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
