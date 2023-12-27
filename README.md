@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 19:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 19:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩国娱乐圈因李善均去世暂停活动](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A8%B1%E4%B9%90%E5%9C%88%E5%9B%A0%E6%9D%8E%E5%96%84%E5%9D%87%E5%8E%BB%E4%B8%96%E6%9A%82%E5%81%9C%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [红果果绿泡泡 寻人启事](https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9C%E6%9E%9C%E7%BB%BF%E6%B3%A1%E6%B3%A1%20%E5%AF%BB%E4%BA%BA%E5%90%AF%E4%BA%8B&t=31&band_rank=7&Refer=top)<br />
 8. [吃不下饭是身体在保护你](https://s.weibo.com/weibo?q=%E5%90%83%E4%B8%8D%E4%B8%8B%E9%A5%AD%E6%98%AF%E8%BA%AB%E4%BD%93%E5%9C%A8%E4%BF%9D%E6%8A%A4%E4%BD%A0&t=31&band_rank=8&Refer=top)<br />
-9. [花卷哭了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%8D%B7%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [长沙广场舞大妈成跨年氛围组](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E5%B9%BF%E5%9C%BA%E8%88%9E%E5%A4%A7%E5%A6%88%E6%88%90%E8%B7%A8%E5%B9%B4%E6%B0%9B%E5%9B%B4%E7%BB%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
