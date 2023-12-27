@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 08:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 08:16:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [胡歌对接否认资助女孩成了中科院博士](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%AF%B9%E6%8E%A5%E5%90%A6%E8%AE%A4%E8%B5%84%E5%8A%A9%E5%A5%B3%E5%AD%A9%E6%88%90%E4%BA%86%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%23&t=31&band_rank=5&Refer=top)<br />
 6. [何猷君以为奚梦瑶说求婚土](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E4%BB%A5%E4%B8%BA%E5%A5%9A%E6%A2%A6%E7%91%B6%E8%AF%B4%E6%B1%82%E5%A9%9A%E5%9C%9F&t=31&band_rank=6&Refer=top)<br />
 7. [央视揭朋友圈少儿才艺投票骗局](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%B0%91%E5%84%BF%E6%89%8D%E8%89%BA%E6%8A%95%E7%A5%A8%E9%AA%97%E5%B1%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [人生若如初见 空降](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%E8%8B%A5%E5%A6%82%E5%88%9D%E8%A7%81%20%E7%A9%BA%E9%99%8D&t=31&band_rank=8&Refer=top)<br />
-9. [电费刺客](https://s.weibo.com/weibo?q=%E7%94%B5%E8%B4%B9%E5%88%BA%E5%AE%A2&t=31&band_rank=9&Refer=top)<br />
+8. [电费刺客](https://s.weibo.com/weibo?q=%E7%94%B5%E8%B4%B9%E5%88%BA%E5%AE%A2&t=31&band_rank=8&Refer=top)<br />
+9. [人生若如初见 空降](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%E8%8B%A5%E5%A6%82%E5%88%9D%E8%A7%81%20%E7%A9%BA%E9%99%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
