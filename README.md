@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 23:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 23:30:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [唐嫣繁花 妆造颠覆](https://s.weibo.com/weibo?q=%E5%94%90%E5%AB%A3%E7%B9%81%E8%8A%B1%20%E5%A6%86%E9%80%A0%E9%A2%A0%E8%A6%86&t=31&band_rank=4&Refer=top)<br />
 5. [雷军连续多条微博致敬同行](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%BF%9E%E7%BB%AD%E5%A4%9A%E6%9D%A1%E5%BE%AE%E5%8D%9A%E8%87%B4%E6%95%AC%E5%90%8C%E8%A1%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [李善均遗书内容不公开](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%96%84%E5%9D%87%E9%81%97%E4%B9%A6%E5%86%85%E5%AE%B9%E4%B8%8D%E5%85%AC%E5%BC%80%23&t=31&band_rank=6&Refer=top)<br />
-7. [阿离在等一个叫一诺的人](https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%A6%BB%E5%9C%A8%E7%AD%89%E4%B8%80%E4%B8%AA%E5%8F%AB%E4%B8%80%E8%AF%BA%E7%9A%84%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [全面禁放烟花爆竹是时候终结了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E7%A6%81%E6%94%BE%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E6%98%AF%E6%97%B6%E5%80%99%E7%BB%88%E7%BB%93%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [全面禁放烟花爆竹是时候终结了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E7%A6%81%E6%94%BE%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E6%98%AF%E6%97%B6%E5%80%99%E7%BB%88%E7%BB%93%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [阿离在等一个叫一诺的人](https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%A6%BB%E5%9C%A8%E7%AD%89%E4%B8%80%E4%B8%AA%E5%8F%AB%E4%B8%80%E8%AF%BA%E7%9A%84%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [2023最出圈男演员](https://s.weibo.com/weibo?q=%232023%E6%9C%80%E5%87%BA%E5%9C%88%E7%94%B7%E6%BC%94%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
