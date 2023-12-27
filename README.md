@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 00:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 00:42:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [大肠发圈丸子头](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%82%A0%E5%8F%91%E5%9C%88%E4%B8%B8%E5%AD%90%E5%A4%B4&t=31&band_rank=4&Refer=top)<br />
 5. [唐嫣繁花 妆造颠覆](https://s.weibo.com/weibo?q=%E5%94%90%E5%AB%A3%E7%B9%81%E8%8A%B1%20%E5%A6%86%E9%80%A0%E9%A2%A0%E8%A6%86&t=31&band_rank=5&Refer=top)<br />
 6. [发发 作弊](https://s.weibo.com/weibo?q=%E5%8F%91%E5%8F%91%20%E4%BD%9C%E5%BC%8A&t=31&band_rank=6&Refer=top)<br />
-7. [冯小刚 肯定很多人愿等舒淇10年](https://s.weibo.com/weibo?q=%E5%86%AF%E5%B0%8F%E5%88%9A%20%E8%82%AF%E5%AE%9A%E5%BE%88%E5%A4%9A%E4%BA%BA%E6%84%BF%E7%AD%89%E8%88%92%E6%B7%8710%E5%B9%B4&t=31&band_rank=7&Refer=top)<br />
+7. [3块钱的饮料正在集体消失](https://s.weibo.com/weibo?q=%233%E5%9D%97%E9%92%B1%E7%9A%84%E9%A5%AE%E6%96%99%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E6%B6%88%E5%A4%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [小时代之繁花时代](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%B6%E4%BB%A3%E4%B9%8B%E7%B9%81%E8%8A%B1%E6%97%B6%E4%BB%A3&t=31&band_rank=8&Refer=top)<br />
-9. [3块钱的饮料正在集体消失](https://s.weibo.com/weibo?q=%233%E5%9D%97%E9%92%B1%E7%9A%84%E9%A5%AE%E6%96%99%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E6%B6%88%E5%A4%B1%23&t=31&band_rank=9&Refer=top)<br />
+9. [冯小刚 肯定很多人愿等舒淇10年](https://s.weibo.com/weibo?q=%E5%86%AF%E5%B0%8F%E5%88%9A%20%E8%82%AF%E5%AE%9A%E5%BE%88%E5%A4%9A%E4%BA%BA%E6%84%BF%E7%AD%89%E8%88%92%E6%B7%8710%E5%B9%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
