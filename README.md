@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 14:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 14:52:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [赵昭仪被吓哭](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%98%AD%E4%BB%AA%E8%A2%AB%E5%90%93%E5%93%AD%23&t=31&band_rank=2&Refer=top)<br />
 3. [盘点2023我国重大科技成就](https://s.weibo.com/weibo?q=%23%E7%9B%98%E7%82%B92023%E6%88%91%E5%9B%BD%E9%87%8D%E5%A4%A7%E7%A7%91%E6%8A%80%E6%88%90%E5%B0%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨紫进组](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E8%BF%9B%E7%BB%84&t=31&band_rank=4&Refer=top)<br />
-5. [全面禁燃烟花爆竹不合法](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E7%A6%81%E7%87%83%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E4%B8%8D%E5%90%88%E6%B3%95%23&t=31&band_rank=5&Refer=top)<br />
-6. [寄生虫](https://s.weibo.com/weibo?q=%E5%AF%84%E7%94%9F%E8%99%AB&t=31&band_rank=6&Refer=top)<br />
+5. [寄生虫](https://s.weibo.com/weibo?q=%E5%AF%84%E7%94%9F%E8%99%AB&t=31&band_rank=5&Refer=top)<br />
+6. [全面禁燃烟花爆竹不合法](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E7%A6%81%E7%87%83%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E4%B8%8D%E5%90%88%E6%B3%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴开车演我考驾照](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%80%E8%BD%A6%E6%BC%94%E6%88%91%E8%80%83%E9%A9%BE%E7%85%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [果郡王和甄嬛原剧本有吻戏](https://s.weibo.com/weibo?q=%E6%9E%9C%E9%83%A1%E7%8E%8B%E5%92%8C%E7%94%84%E5%AC%9B%E5%8E%9F%E5%89%A7%E6%9C%AC%E6%9C%89%E5%90%BB%E6%88%8F&t=31&band_rank=8&Refer=top)<br />
 9. [妈妈去世3年手机收到爱的童言](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%8E%BB%E4%B8%963%E5%B9%B4%E6%89%8B%E6%9C%BA%E6%94%B6%E5%88%B0%E7%88%B1%E7%9A%84%E7%AB%A5%E8%A8%80%23&t=31&band_rank=9&Refer=top)<br />
