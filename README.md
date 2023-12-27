@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 21:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 21:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吃不下饭是身体在保护你](https://s.weibo.com/weibo?q=%E5%90%83%E4%B8%8D%E4%B8%8B%E9%A5%AD%E6%98%AF%E8%BA%AB%E4%BD%93%E5%9C%A8%E4%BF%9D%E6%8A%A4%E4%BD%A0&t=31&band_rank=6&Refer=top)<br />
 7. [繁花 王菲老歌](https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1%20%E7%8E%8B%E8%8F%B2%E8%80%81%E6%AD%8C&t=31&band_rank=7&Refer=top)<br />
 8. [特斯拉瞒报工厂机器人袭击工人次数](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E7%9E%92%E6%8A%A5%E5%B7%A5%E5%8E%82%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AD%E5%87%BB%E5%B7%A5%E4%BA%BA%E6%AC%A1%E6%95%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [繁花开播](https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1%E5%BC%80%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
+9. [小时代之繁花时代](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%B6%E4%BB%A3%E4%B9%8B%E7%B9%81%E8%8A%B1%E6%97%B6%E4%BB%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
