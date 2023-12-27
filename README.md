@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 07:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 07:33:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [何猷君和奚梦瑶结婚后不装了](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E5%92%8C%E5%A5%9A%E6%A2%A6%E7%91%B6%E7%BB%93%E5%A9%9A%E5%90%8E%E4%B8%8D%E8%A3%85%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [四川男子售卖自家26棵香樟判缓刑](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E7%94%B7%E5%AD%90%E5%94%AE%E5%8D%96%E8%87%AA%E5%AE%B626%E6%A3%B5%E9%A6%99%E6%A8%9F%E5%88%A4%E7%BC%93%E5%88%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [冯小刚 肯定很多人愿等舒淇10年](https://s.weibo.com/weibo?q=%E5%86%AF%E5%B0%8F%E5%88%9A%20%E8%82%AF%E5%AE%9A%E5%BE%88%E5%A4%9A%E4%BA%BA%E6%84%BF%E7%AD%89%E8%88%92%E6%B7%8710%E5%B9%B4&t=31&band_rank=6&Refer=top)<br />
-7. [八旬老人摔倒遭无视高中生毫不犹豫扶起](https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%97%AC%E8%80%81%E4%BA%BA%E6%91%94%E5%80%92%E9%81%AD%E6%97%A0%E8%A7%86%E9%AB%98%E4%B8%AD%E7%94%9F%E6%AF%AB%E4%B8%8D%E7%8A%B9%E8%B1%AB%E6%89%B6%E8%B5%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [特斯拉瞒报工厂机器人袭击工人次数](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E7%9E%92%E6%8A%A5%E5%B7%A5%E5%8E%82%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AD%E5%87%BB%E5%B7%A5%E4%BA%BA%E6%AC%A1%E6%95%B0%23&t=31&band_rank=8&Refer=top)<br />
+7. [特斯拉瞒报工厂机器人袭击工人次数](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E7%9E%92%E6%8A%A5%E5%B7%A5%E5%8E%82%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AD%E5%87%BB%E5%B7%A5%E4%BA%BA%E6%AC%A1%E6%95%B0%23&t=31&band_rank=7&Refer=top)<br />
+8. [八旬老人摔倒遭无视高中生毫不犹豫扶起](https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%97%AC%E8%80%81%E4%BA%BA%E6%91%94%E5%80%92%E9%81%AD%E6%97%A0%E8%A7%86%E9%AB%98%E4%B8%AD%E7%94%9F%E6%AF%AB%E4%B8%8D%E7%8A%B9%E8%B1%AB%E6%89%B6%E8%B5%B7%23&t=31&band_rank=8&Refer=top)<br />
 9. [3块钱的饮料正在集体消失](https://s.weibo.com/weibo?q=%233%E5%9D%97%E9%92%B1%E7%9A%84%E9%A5%AE%E6%96%99%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E6%B6%88%E5%A4%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
