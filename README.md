@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 18:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 18:55:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [红果果绿泡泡 寻人启事](https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9C%E6%9E%9C%E7%BB%BF%E6%B3%A1%E6%B3%A1%20%E5%AF%BB%E4%BA%BA%E5%90%AF%E4%BA%8B&t=31&band_rank=4&Refer=top)<br />
 5. [女孩头发长虱子老师趁晴天帮其洗头](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%A4%B4%E5%8F%91%E9%95%BF%E8%99%B1%E5%AD%90%E8%80%81%E5%B8%88%E8%B6%81%E6%99%B4%E5%A4%A9%E5%B8%AE%E5%85%B6%E6%B4%97%E5%A4%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [韩国娱乐圈因李善均去世暂停活动](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A8%B1%E4%B9%90%E5%9C%88%E5%9B%A0%E6%9D%8E%E5%96%84%E5%9D%87%E5%8E%BB%E4%B8%96%E6%9A%82%E5%81%9C%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=6&Refer=top)<br />
-7. [妈妈去世3年手机收到爱的童言](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%8E%BB%E4%B8%963%E5%B9%B4%E6%89%8B%E6%9C%BA%E6%94%B6%E5%88%B0%E7%88%B1%E7%9A%84%E7%AB%A5%E8%A8%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [花卷哭了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%8D%B7%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [狼队 悬着的心终于死了](https://s.weibo.com/weibo?q=%E7%8B%BC%E9%98%9F%20%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E6%AD%BB%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+7. [花卷哭了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%8D%B7%E5%93%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [狼队 悬着的心终于死了](https://s.weibo.com/weibo?q=%E7%8B%BC%E9%98%9F%20%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E6%AD%BB%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [吃不下饭是身体在保护你](https://s.weibo.com/weibo?q=%E5%90%83%E4%B8%8D%E4%B8%8B%E9%A5%AD%E6%98%AF%E8%BA%AB%E4%BD%93%E5%9C%A8%E4%BF%9D%E6%8A%A4%E4%BD%A0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
