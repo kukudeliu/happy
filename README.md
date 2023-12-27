@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 04:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 05:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [何猷君和奚梦瑶结婚后不装了](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E5%92%8C%E5%A5%9A%E6%A2%A6%E7%91%B6%E7%BB%93%E5%A9%9A%E5%90%8E%E4%B8%8D%E8%A3%85%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [3块钱的饮料正在集体消失](https://s.weibo.com/weibo?q=%233%E5%9D%97%E9%92%B1%E7%9A%84%E9%A5%AE%E6%96%99%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E6%B6%88%E5%A4%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [大肠发圈丸子头](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%82%A0%E5%8F%91%E5%9C%88%E4%B8%B8%E5%AD%90%E5%A4%B4&t=31&band_rank=8&Refer=top)<br />
-9. [小时代之繁花时代](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%B6%E4%BB%A3%E4%B9%8B%E7%B9%81%E8%8A%B1%E6%97%B6%E4%BB%A3&t=31&band_rank=9&Refer=top)<br />
+9. [八旬老人摔倒遭无视高中生毫不犹豫扶起](https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%97%AC%E8%80%81%E4%BA%BA%E6%91%94%E5%80%92%E9%81%AD%E6%97%A0%E8%A7%86%E9%AB%98%E4%B8%AD%E7%94%9F%E6%AF%AB%E4%B8%8D%E7%8A%B9%E8%B1%AB%E6%89%B6%E8%B5%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
