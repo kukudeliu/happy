@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 12:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 12:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [北京一男子骑电动车闯红灯被撞身亡](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E7%94%B7%E5%AD%90%E9%AA%91%E7%94%B5%E5%8A%A8%E8%BD%A6%E9%97%AF%E7%BA%A2%E7%81%AF%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [何以琛才是最会阴阳怪气的](https://s.weibo.com/weibo?q=%E4%BD%95%E4%BB%A5%E7%90%9B%E6%89%8D%E6%98%AF%E6%9C%80%E4%BC%9A%E9%98%B4%E9%98%B3%E6%80%AA%E6%B0%94%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
 8. [邓为前助理被开除原因](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E5%89%8D%E5%8A%A9%E7%90%86%E8%A2%AB%E5%BC%80%E9%99%A4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [博主B太称打假不是为了流量](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BBB%E5%A4%AA%E7%A7%B0%E6%89%93%E5%81%87%E4%B8%8D%E6%98%AF%E4%B8%BA%E4%BA%86%E6%B5%81%E9%87%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [寄生虫](https://s.weibo.com/weibo?q=%E5%AF%84%E7%94%9F%E8%99%AB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
