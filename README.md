@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 15:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 15:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨紫进组](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E8%BF%9B%E7%BB%84&t=31&band_rank=6&Refer=top)<br />
 7. [寄生虫](https://s.weibo.com/weibo?q=%E5%AF%84%E7%94%9F%E8%99%AB&t=31&band_rank=7&Refer=top)<br />
 8. [难哄 白敬亭章若楠](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E7%99%BD%E6%95%AC%E4%BA%AD%E7%AB%A0%E8%8B%A5%E6%A5%A0&t=31&band_rank=8&Refer=top)<br />
-9. [王安宇终于又要当导游了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E7%BB%88%E4%BA%8E%E5%8F%88%E8%A6%81%E5%BD%93%E5%AF%BC%E6%B8%B8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [红果果绿泡泡 寻人启事](https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9C%E6%9E%9C%E7%BB%BF%E6%B3%A1%E6%B3%A1%20%E5%AF%BB%E4%BA%BA%E5%90%AF%E4%BA%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
