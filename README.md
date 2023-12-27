@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 13:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 13:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [寄生虫](https://s.weibo.com/weibo?q=%E5%AF%84%E7%94%9F%E8%99%AB&t=31&band_rank=5&Refer=top)<br />
 6. [王安宇 克罗地亚旅拍](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%20%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E6%97%85%E6%8B%8D&t=31&band_rank=6&Refer=top)<br />
 7. [全面禁燃烟花爆竹不合法](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E7%A6%81%E7%87%83%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E4%B8%8D%E5%90%88%E6%B3%95%23&t=31&band_rank=7&Refer=top)<br />
-8. [小米汽车向华为比亚迪致敬](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%90%91%E5%8D%8E%E4%B8%BA%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%87%B4%E6%95%AC%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫进组](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E8%BF%9B%E7%BB%84&t=31&band_rank=9&Refer=top)<br />
+8. [杨紫进组](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E8%BF%9B%E7%BB%84&t=31&band_rank=8&Refer=top)<br />
+9. [小米汽车向华为比亚迪致敬](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%90%91%E5%8D%8E%E4%B8%BA%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%87%B4%E6%95%AC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
