@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 13:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 13:33:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [盘点2023我国重大科技成就](https://s.weibo.com/weibo?q=%23%E7%9B%98%E7%82%B92023%E6%88%91%E5%9B%BD%E9%87%8D%E5%A4%A7%E7%A7%91%E6%8A%80%E6%88%90%E5%B0%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [李善均疑似被夜店公关等勒索3.5亿韩元](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%96%84%E5%9D%87%E7%96%91%E4%BC%BC%E8%A2%AB%E5%A4%9C%E5%BA%97%E5%85%AC%E5%85%B3%E7%AD%89%E5%8B%92%E7%B4%A23.5%E4%BA%BF%E9%9F%A9%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [寄生虫](https://s.weibo.com/weibo?q=%E5%AF%84%E7%94%9F%E8%99%AB&t=31&band_rank=5&Refer=top)<br />
-6. [何以琛才是最会阴阳怪气的](https://s.weibo.com/weibo?q=%E4%BD%95%E4%BB%A5%E7%90%9B%E6%89%8D%E6%98%AF%E6%9C%80%E4%BC%9A%E9%98%B4%E9%98%B3%E6%80%AA%E6%B0%94%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
+6. [全面禁燃烟花爆竹不合法](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E7%A6%81%E7%87%83%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E4%B8%8D%E5%90%88%E6%B3%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [小米汽车向华为比亚迪致敬](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%90%91%E5%8D%8E%E4%B8%BA%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%87%B4%E6%95%AC%23&t=31&band_rank=7&Refer=top)<br />
-8. [全面禁燃烟花爆竹不合法](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E7%A6%81%E7%87%83%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E4%B8%8D%E5%90%88%E6%B3%95%23&t=31&band_rank=8&Refer=top)<br />
+8. [何以琛才是最会阴阳怪气的](https://s.weibo.com/weibo?q=%E4%BD%95%E4%BB%A5%E7%90%9B%E6%89%8D%E6%98%AF%E6%9C%80%E4%BC%9A%E9%98%B4%E9%98%B3%E6%80%AA%E6%B0%94%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
 9. [花儿与少年](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
