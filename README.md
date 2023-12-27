@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 18:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 18:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吃不下饭是身体在保护你](https://s.weibo.com/weibo?q=%E5%90%83%E4%B8%8D%E4%B8%8B%E9%A5%AD%E6%98%AF%E8%BA%AB%E4%BD%93%E5%9C%A8%E4%BF%9D%E6%8A%A4%E4%BD%A0&t=31&band_rank=6&Refer=top)<br />
 7. [妈妈去世3年手机收到爱的童言](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%8E%BB%E4%B8%963%E5%B9%B4%E6%89%8B%E6%9C%BA%E6%94%B6%E5%88%B0%E7%88%B1%E7%9A%84%E7%AB%A5%E8%A8%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [淘宝将支持仅退款](https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%B0%86%E6%94%AF%E6%8C%81%E4%BB%85%E9%80%80%E6%AC%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [难哄 白敬亭章若楠](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E7%99%BD%E6%95%AC%E4%BA%AD%E7%AB%A0%E8%8B%A5%E6%A5%A0&t=31&band_rank=9&Refer=top)<br />
+9. [唐嫣繁花 妆造颠覆](https://s.weibo.com/weibo?q=%E5%94%90%E5%AB%A3%E7%B9%81%E8%8A%B1%20%E5%A6%86%E9%80%A0%E9%A2%A0%E8%A6%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
