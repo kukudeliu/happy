@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 22:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 22:58:01</h4></div>
 
 > 微博  
 
 1. [发发 作弊](https://s.weibo.com/weibo?q=%E5%8F%91%E5%8F%91%20%E4%BD%9C%E5%BC%8A&t=31&band_rank=1&Refer=top)<br />
-2. [唐嫣繁花 妆造颠覆](https://s.weibo.com/weibo?q=%E5%94%90%E5%AB%A3%E7%B9%81%E8%8A%B1%20%E5%A6%86%E9%80%A0%E9%A2%A0%E8%A6%86&t=31&band_rank=2&Refer=top)<br />
+2. [3块钱的饮料正在集体消失](https://s.weibo.com/weibo?q=%233%E5%9D%97%E9%92%B1%E7%9A%84%E9%A5%AE%E6%96%99%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E6%B6%88%E5%A4%B1%23&t=31&band_rank=2&Refer=top)<br />
 3. [这条高铁沿途串起9个5A景区](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%9D%A1%E9%AB%98%E9%93%81%E6%B2%BF%E9%80%94%E4%B8%B2%E8%B5%B79%E4%B8%AA5A%E6%99%AF%E5%8C%BA%23&t=31&band_rank=3&Refer=top)<br />
-4. [3块钱的饮料正在集体消失](https://s.weibo.com/weibo?q=%233%E5%9D%97%E9%92%B1%E7%9A%84%E9%A5%AE%E6%96%99%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E6%B6%88%E5%A4%B1%23&t=31&band_rank=4&Refer=top)<br />
+4. [唐嫣繁花 妆造颠覆](https://s.weibo.com/weibo?q=%E5%94%90%E5%AB%A3%E7%B9%81%E8%8A%B1%20%E5%A6%86%E9%80%A0%E9%A2%A0%E8%A6%86&t=31&band_rank=4&Refer=top)<br />
 5. [阿离在等一个叫一诺的人](https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%A6%BB%E5%9C%A8%E7%AD%89%E4%B8%80%E4%B8%AA%E5%8F%AB%E4%B8%80%E8%AF%BA%E7%9A%84%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴 StrayKids](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20StrayKids&t=31&band_rank=6&Refer=top)<br />
 7. [柯洁 今后不会再发动态](https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B4%81%20%E4%BB%8A%E5%90%8E%E4%B8%8D%E4%BC%9A%E5%86%8D%E5%8F%91%E5%8A%A8%E6%80%81&t=31&band_rank=7&Refer=top)<br />
