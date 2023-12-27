@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 08:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 08:14:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [何猷君以为奚梦瑶说求婚土](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E4%BB%A5%E4%B8%BA%E5%A5%9A%E6%A2%A6%E7%91%B6%E8%AF%B4%E6%B1%82%E5%A9%9A%E5%9C%9F&t=31&band_rank=6&Refer=top)<br />
 7. [央视揭朋友圈少儿才艺投票骗局](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%B0%91%E5%84%BF%E6%89%8D%E8%89%BA%E6%8A%95%E7%A5%A8%E9%AA%97%E5%B1%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [人生若如初见 空降](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%E8%8B%A5%E5%A6%82%E5%88%9D%E8%A7%81%20%E7%A9%BA%E9%99%8D&t=31&band_rank=8&Refer=top)<br />
-9. [学校花1500万买下大飞机供学生练手](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E8%8A%B11500%E4%B8%87%E4%B9%B0%E4%B8%8B%E5%A4%A7%E9%A3%9E%E6%9C%BA%E4%BE%9B%E5%AD%A6%E7%94%9F%E7%BB%83%E6%89%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [电费刺客](https://s.weibo.com/weibo?q=%E7%94%B5%E8%B4%B9%E5%88%BA%E5%AE%A2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [2023那些振奋人心的科技成果](https://www.baidu.com/s?wd=2023%E9%82%A3%E4%BA%9B%E6%8C%AF%E5%A5%8B%E4%BA%BA%E5%BF%83%E7%9A%84%E7%A7%91%E6%8A%80%E6%88%90%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央视揭露朋友圈少儿才艺投票骗局](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%8F%AD%E9%9C%B2%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%B0%91%E5%84%BF%E6%89%8D%E8%89%BA%E6%8A%95%E7%A5%A8%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [央视前主持人赵普涉侵权案被限高](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E5%89%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%B5%B5%E6%99%AE%E6%B6%89%E4%BE%B5%E6%9D%83%E6%A1%88%E8%A2%AB%E9%99%90%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [学校花1500万买下大飞机供学生练手](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E8%8A%B11500%E4%B8%87%E4%B9%B0%E4%B8%8B%E5%A4%A7%E9%A3%9E%E6%9C%BA%E4%BE%9B%E5%AD%A6%E7%94%9F%E7%BB%83%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [29岁女儿常吃外卖爸爸送自制预制菜](https://www.baidu.com/s?wd=29%E5%B2%81%E5%A5%B3%E5%84%BF%E5%B8%B8%E5%90%83%E5%A4%96%E5%8D%96%E7%88%B8%E7%88%B8%E9%80%81%E8%87%AA%E5%88%B6%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [29岁女儿常吃外卖爸爸送自制预制菜](https://www.baidu.com/s?wd=29%E5%B2%81%E5%A5%B3%E5%84%BF%E5%B8%B8%E5%90%83%E5%A4%96%E5%8D%96%E7%88%B8%E7%88%B8%E9%80%81%E8%87%AA%E5%88%B6%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [学校花1500万买下大飞机供学生练手](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E8%8A%B11500%E4%B8%87%E4%B9%B0%E4%B8%8B%E5%A4%A7%E9%A3%9E%E6%9C%BA%E4%BE%9B%E5%AD%A6%E7%94%9F%E7%BB%83%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣2岁幼童地震中失去双亲](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A32%E5%B2%81%E5%B9%BC%E7%AB%A5%E5%9C%B0%E9%9C%87%E4%B8%AD%E5%A4%B1%E5%8E%BB%E5%8F%8C%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [2023那些振奋人心的科技成果](https://www.baidu.com/s?wd=2023%E9%82%A3%E4%BA%9B%E6%8C%AF%E5%A5%8B%E4%BA%BA%E5%BF%83%E7%9A%84%E7%A7%91%E6%8A%80%E6%88%90%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央视揭露朋友圈少儿才艺投票骗局](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%8F%AD%E9%9C%B2%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%B0%91%E5%84%BF%E6%89%8D%E8%89%BA%E6%8A%95%E7%A5%A8%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [央视前主持人赵普涉侵权案被限高](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E5%89%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%B5%B5%E6%99%AE%E6%B6%89%E4%BE%B5%E6%9D%83%E6%A1%88%E8%A2%AB%E9%99%90%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [学校花1500万买下大飞机供学生练手](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E8%8A%B11500%E4%B8%87%E4%B9%B0%E4%B8%8B%E5%A4%A7%E9%A3%9E%E6%9C%BA%E4%BE%9B%E5%AD%A6%E7%94%9F%E7%BB%83%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [29岁女儿常吃外卖爸爸送自制预制菜](https://www.baidu.com/s?wd=29%E5%B2%81%E5%A5%B3%E5%84%BF%E5%B8%B8%E5%90%83%E5%A4%96%E5%8D%96%E7%88%B8%E7%88%B8%E9%80%81%E8%87%AA%E5%88%B6%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [29岁女儿常吃外卖爸爸送自制预制菜](https://www.baidu.com/s?wd=29%E5%B2%81%E5%A5%B3%E5%84%BF%E5%B8%B8%E5%90%83%E5%A4%96%E5%8D%96%E7%88%B8%E7%88%B8%E9%80%81%E8%87%AA%E5%88%B6%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [学校花1500万买下大飞机供学生练手](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E8%8A%B11500%E4%B8%87%E4%B9%B0%E4%B8%8B%E5%A4%A7%E9%A3%9E%E6%9C%BA%E4%BE%9B%E5%AD%A6%E7%94%9F%E7%BB%83%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣2岁幼童地震中失去双亲](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A32%E5%B2%81%E5%B9%BC%E7%AB%A5%E5%9C%B0%E9%9C%87%E4%B8%AD%E5%A4%B1%E5%8E%BB%E5%8F%8C%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
