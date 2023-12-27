@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 18:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 18:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [邓为前助理讨薪录音](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E5%89%8D%E5%8A%A9%E7%90%86%E8%AE%A8%E8%96%AA%E5%BD%95%E9%9F%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [女孩头发长虱子老师趁晴天帮其洗头](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%A4%B4%E5%8F%91%E9%95%BF%E8%99%B1%E5%AD%90%E8%80%81%E5%B8%88%E8%B6%81%E6%99%B4%E5%A4%A9%E5%B8%AE%E5%85%B6%E6%B4%97%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [淘宝将支持仅退款](https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%B0%86%E6%94%AF%E6%8C%81%E4%BB%85%E9%80%80%E6%AC%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [难哄 白敬亭章若楠](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E7%99%BD%E6%95%AC%E4%BA%AD%E7%AB%A0%E8%8B%A5%E6%A5%A0&t=31&band_rank=9&Refer=top)<br />
+9. [韩国娱乐圈因李善均去世暂停活动](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A8%B1%E4%B9%90%E5%9C%88%E5%9B%A0%E6%9D%8E%E5%96%84%E5%9D%87%E5%8E%BB%E4%B8%96%E6%9A%82%E5%81%9C%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
