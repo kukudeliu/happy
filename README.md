@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 22:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 22:16:01</h4></div>
 
 > 微博  
 
 1. [发发 作弊](https://s.weibo.com/weibo?q=%E5%8F%91%E5%8F%91%20%E4%BD%9C%E5%BC%8A&t=31&band_rank=1&Refer=top)<br />
 2. [唐嫣繁花 妆造颠覆](https://s.weibo.com/weibo?q=%E5%94%90%E5%AB%A3%E7%B9%81%E8%8A%B1%20%E5%A6%86%E9%80%A0%E9%A2%A0%E8%A6%86&t=31&band_rank=2&Refer=top)<br />
-3. [2023中国航天高燃时刻](https://s.weibo.com/weibo?q=%232023%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB%23&t=31&band_rank=3&Refer=top)<br />
+3. [这条高铁沿途串起9个5A景区](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%9D%A1%E9%AB%98%E9%93%81%E6%B2%BF%E9%80%94%E4%B8%B2%E8%B5%B79%E4%B8%AA5A%E6%99%AF%E5%8C%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [订婚强奸案后女方家属想尽快结婚](https://s.weibo.com/weibo?q=%23%E8%AE%A2%E5%A9%9A%E5%BC%BA%E5%A5%B8%E6%A1%88%E5%90%8E%E5%A5%B3%E6%96%B9%E5%AE%B6%E5%B1%9E%E6%83%B3%E5%B0%BD%E5%BF%AB%E7%BB%93%E5%A9%9A%23&t=31&band_rank=4&Refer=top)<br />
 5. [小时代之繁花时代](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%B6%E4%BB%A3%E4%B9%8B%E7%B9%81%E8%8A%B1%E6%97%B6%E4%BB%A3&t=31&band_rank=5&Refer=top)<br />
 6. [柯洁 今后不会再发动态](https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B4%81%20%E4%BB%8A%E5%90%8E%E4%B8%8D%E4%BC%9A%E5%86%8D%E5%8F%91%E5%8A%A8%E6%80%81&t=31&band_rank=6&Refer=top)<br />
-7. [shuuun](https://s.weibo.com/weibo?q=shuuun&t=31&band_rank=7&Refer=top)<br />
-8. [晚安计划](https://s.weibo.com/weibo?q=%E6%99%9A%E5%AE%89%E8%AE%A1%E5%88%92&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴 StrayKids](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20StrayKids&t=31&band_rank=9&Refer=top)<br />
+7. [2023中国航天高燃时刻](https://s.weibo.com/weibo?q=%232023%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB%23&t=31&band_rank=7&Refer=top)<br />
+8. [繁花 继承之战](https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1%20%E7%BB%A7%E6%89%BF%E4%B9%8B%E6%88%98&t=31&band_rank=8&Refer=top)<br />
+9. [shuuun](https://s.weibo.com/weibo?q=shuuun&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
