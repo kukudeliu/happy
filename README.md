@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 07:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 08:00:01</h4></div>
 
 > 微博  
 
-1. [流量褪去的淄博鸭头小哥](https://s.weibo.com/weibo?q=%23%E6%B5%81%E9%87%8F%E8%A4%AA%E5%8E%BB%E7%9A%84%E6%B7%84%E5%8D%9A%E9%B8%AD%E5%A4%B4%E5%B0%8F%E5%93%A5%23&t=31&band_rank=1&Refer=top)<br />
-2. [29岁女儿常吃外卖爸爸送自制预制菜](https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%A5%B3%E5%84%BF%E5%B8%B8%E5%90%83%E5%A4%96%E5%8D%96%E7%88%B8%E7%88%B8%E9%80%81%E8%87%AA%E5%88%B6%E9%A2%84%E5%88%B6%E8%8F%9C%23&t=31&band_rank=2&Refer=top)<br />
+1. [29岁女儿常吃外卖爸爸送自制预制菜](https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%A5%B3%E5%84%BF%E5%B8%B8%E5%90%83%E5%A4%96%E5%8D%96%E7%88%B8%E7%88%B8%E9%80%81%E8%87%AA%E5%88%B6%E9%A2%84%E5%88%B6%E8%8F%9C%23&t=31&band_rank=1&Refer=top)<br />
+2. [流量褪去的淄博鸭头小哥](https://s.weibo.com/weibo?q=%23%E6%B5%81%E9%87%8F%E8%A4%AA%E5%8E%BB%E7%9A%84%E6%B7%84%E5%8D%9A%E9%B8%AD%E5%A4%B4%E5%B0%8F%E5%93%A5%23&t=31&band_rank=2&Refer=top)<br />
 3. [三条高铁今日开通](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%9D%A1%E9%AB%98%E9%93%81%E4%BB%8A%E6%97%A5%E5%BC%80%E9%80%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [卫健委否认医护集体跳楼](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E5%90%A6%E8%AE%A4%E5%8C%BB%E6%8A%A4%E9%9B%86%E4%BD%93%E8%B7%B3%E6%A5%BC%23&t=31&band_rank=4&Refer=top)<br />
 5. [何猷君以为奚梦瑶说求婚土](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E4%BB%A5%E4%B8%BA%E5%A5%9A%E6%A2%A6%E7%91%B6%E8%AF%B4%E6%B1%82%E5%A9%9A%E5%9C%9F&t=31&band_rank=5&Refer=top)<br />
