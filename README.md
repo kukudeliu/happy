@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 11:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 11:30:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [邓为前助理被开除原因](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E5%89%8D%E5%8A%A9%E7%90%86%E8%A2%AB%E5%BC%80%E9%99%A4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [春花厌阵容官宣](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%B1%E5%8E%8C%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [奶茶 大冰少杯](https://s.weibo.com/weibo?q=%E5%A5%B6%E8%8C%B6%20%E5%A4%A7%E5%86%B0%E5%B0%91%E6%9D%AF&t=31&band_rank=8&Refer=top)<br />
-9. [29岁女儿常吃外卖爸爸送自制预制菜](https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%A5%B3%E5%84%BF%E5%B8%B8%E5%90%83%E5%A4%96%E5%8D%96%E7%88%B8%E7%88%B8%E9%80%81%E8%87%AA%E5%88%B6%E9%A2%84%E5%88%B6%E8%8F%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [北京一男子骑电动车闯红灯被撞身亡](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E7%94%B7%E5%AD%90%E9%AA%91%E7%94%B5%E5%8A%A8%E8%BD%A6%E9%97%AF%E7%BA%A2%E7%81%AF%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
