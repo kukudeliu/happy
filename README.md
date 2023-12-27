@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 09:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 09:17:02</h4></div>
 
 > 微博  
 
 1. [房东举报诡异绿光获重大奖励](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E4%B8%BE%E6%8A%A5%E8%AF%A1%E5%BC%82%E7%BB%BF%E5%85%89%E8%8E%B7%E9%87%8D%E5%A4%A7%E5%A5%96%E5%8A%B1%23&t=31&band_rank=1&Refer=top)<br />
 2. [我不是土豆 我一米七](https://s.weibo.com/weibo?q=%E6%88%91%E4%B8%8D%E6%98%AF%E5%9C%9F%E8%B1%86%20%E6%88%91%E4%B8%80%E7%B1%B3%E4%B8%83&t=31&band_rank=2&Refer=top)<br />
 3. [三条高铁今日开通](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%9D%A1%E9%AB%98%E9%93%81%E4%BB%8A%E6%97%A5%E5%BC%80%E9%80%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [29岁女儿常吃外卖爸爸送自制预制菜](https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%A5%B3%E5%84%BF%E5%B8%B8%E5%90%83%E5%A4%96%E5%8D%96%E7%88%B8%E7%88%B8%E9%80%81%E8%87%AA%E5%88%B6%E9%A2%84%E5%88%B6%E8%8F%9C%23&t=31&band_rank=4&Refer=top)<br />
-5. [非得上那个死班啊](https://s.weibo.com/weibo?q=%E9%9D%9E%E5%BE%97%E4%B8%8A%E9%82%A3%E4%B8%AA%E6%AD%BB%E7%8F%AD%E5%95%8A&t=31&band_rank=5&Refer=top)<br />
+4. [非得上那个死班啊](https://s.weibo.com/weibo?q=%E9%9D%9E%E5%BE%97%E4%B8%8A%E9%82%A3%E4%B8%AA%E6%AD%BB%E7%8F%AD%E5%95%8A&t=31&band_rank=4&Refer=top)<br />
+5. [29岁女儿常吃外卖爸爸送自制预制菜](https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%A5%B3%E5%84%BF%E5%B8%B8%E5%90%83%E5%A4%96%E5%8D%96%E7%88%B8%E7%88%B8%E9%80%81%E8%87%AA%E5%88%B6%E9%A2%84%E5%88%B6%E8%8F%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [邓为前助理被开除原因](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E5%89%8D%E5%8A%A9%E7%90%86%E8%A2%AB%E5%BC%80%E9%99%A4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [胡歌对接否认资助女孩成了中科院博士](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%AF%B9%E6%8E%A5%E5%90%A6%E8%AE%A4%E8%B5%84%E5%8A%A9%E5%A5%B3%E5%AD%A9%E6%88%90%E4%BA%86%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [卫健委否认医护集体跳楼](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E5%90%A6%E8%AE%A4%E5%8C%BB%E6%8A%A4%E9%9B%86%E4%BD%93%E8%B7%B3%E6%A5%BC%23&t=31&band_rank=8&Refer=top)<br />
