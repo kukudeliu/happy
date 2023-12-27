@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 14:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-27 14:46:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [杨紫进组](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E8%BF%9B%E7%BB%84&t=31&band_rank=4&Refer=top)<br />
 5. [全面禁燃烟花爆竹不合法](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E7%A6%81%E7%87%83%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E4%B8%8D%E5%90%88%E6%B3%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [寄生虫](https://s.weibo.com/weibo?q=%E5%AF%84%E7%94%9F%E8%99%AB&t=31&band_rank=6&Refer=top)<br />
-7. [王安宇 克罗地亚旅拍](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%20%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E6%97%85%E6%8B%8D&t=31&band_rank=7&Refer=top)<br />
-8. [迪丽热巴开车演我考驾照](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%80%E8%BD%A6%E6%BC%94%E6%88%91%E8%80%83%E9%A9%BE%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
+7. [迪丽热巴开车演我考驾照](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%80%E8%BD%A6%E6%BC%94%E6%88%91%E8%80%83%E9%A9%BE%E7%85%A7%23&t=31&band_rank=7&Refer=top)<br />
+8. [果郡王和甄嬛原剧本有吻戏](https://s.weibo.com/weibo?q=%E6%9E%9C%E9%83%A1%E7%8E%8B%E5%92%8C%E7%94%84%E5%AC%9B%E5%8E%9F%E5%89%A7%E6%9C%AC%E6%9C%89%E5%90%BB%E6%88%8F&t=31&band_rank=8&Refer=top)<br />
 9. [欠4600万在杭卖烤肠还债的大叔回家了](https://s.weibo.com/weibo?q=%23%E6%AC%A04600%E4%B8%87%E5%9C%A8%E6%9D%AD%E5%8D%96%E7%83%A4%E8%82%A0%E8%BF%98%E5%80%BA%E7%9A%84%E5%A4%A7%E5%8F%94%E5%9B%9E%E5%AE%B6%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
