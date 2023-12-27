@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 01:32:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 01:33:02</h4></div>
 
 > 微博  
 
 1. [全面禁放烟花爆竹是时候终结了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E7%A6%81%E6%94%BE%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E6%98%AF%E6%97%B6%E5%80%99%E7%BB%88%E7%BB%93%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
 2. [男生被教授催眠后眼睛无神](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%A2%AB%E6%95%99%E6%8E%88%E5%82%AC%E7%9C%A0%E5%90%8E%E7%9C%BC%E7%9D%9B%E6%97%A0%E7%A5%9E%23&t=31&band_rank=2&Refer=top)<br />
 3. [这条高铁沿途串起9个5A景区](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%9D%A1%E9%AB%98%E9%93%81%E6%B2%BF%E9%80%94%E4%B8%B2%E8%B5%B79%E4%B8%AA5A%E6%99%AF%E5%8C%BA%23&t=31&band_rank=3&Refer=top)<br />
-4. [何猷君和奚梦瑶结婚后不装了](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E5%92%8C%E5%A5%9A%E6%A2%A6%E7%91%B6%E7%BB%93%E5%A9%9A%E5%90%8E%E4%B8%8D%E8%A3%85%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
-5. [大肠发圈丸子头](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%82%A0%E5%8F%91%E5%9C%88%E4%B8%B8%E5%AD%90%E5%A4%B4&t=31&band_rank=5&Refer=top)<br />
+4. [大肠发圈丸子头](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%82%A0%E5%8F%91%E5%9C%88%E4%B8%B8%E5%AD%90%E5%A4%B4&t=31&band_rank=4&Refer=top)<br />
+5. [何猷君和奚梦瑶结婚后不装了](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E5%92%8C%E5%A5%9A%E6%A2%A6%E7%91%B6%E7%BB%93%E5%A9%9A%E5%90%8E%E4%B8%8D%E8%A3%85%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [唐嫣繁花 妆造颠覆](https://s.weibo.com/weibo?q=%E5%94%90%E5%AB%A3%E7%B9%81%E8%8A%B1%20%E5%A6%86%E9%80%A0%E9%A2%A0%E8%A6%86&t=31&band_rank=6&Refer=top)<br />
 7. [3块钱的饮料正在集体消失](https://s.weibo.com/weibo?q=%233%E5%9D%97%E9%92%B1%E7%9A%84%E9%A5%AE%E6%96%99%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E6%B6%88%E5%A4%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴 StrayKids](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20StrayKids&t=31&band_rank=8&Refer=top)<br />
