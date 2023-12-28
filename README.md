@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 10:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 10:48:01</h4></div>
 
 > 微博  
 
-1. [大学生不要再发求捞表情包了](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%91%E6%B1%82%E6%8D%9E%E8%A1%A8%E6%83%85%E5%8C%85%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [因病少上1天班没了年终奖](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E7%97%85%E5%B0%91%E4%B8%8A1%E5%A4%A9%E7%8F%AD%E6%B2%A1%E4%BA%86%E5%B9%B4%E7%BB%88%E5%A5%96%23&t=31&band_rank=2&Refer=top)<br />
+1. [因病少上1天班没了年终奖](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E7%97%85%E5%B0%91%E4%B8%8A1%E5%A4%A9%E7%8F%AD%E6%B2%A1%E4%BA%86%E5%B9%B4%E7%BB%88%E5%A5%96%23&t=31&band_rank=1&Refer=top)<br />
+2. [大学生不要再发求捞表情包了](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%91%E6%B1%82%E6%8D%9E%E8%A1%A8%E6%83%85%E5%8C%85%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [2023中国航天高燃时刻](https://s.weibo.com/weibo?q=%232023%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [小白80万上海开面馆6天濒临倒闭](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%99%BD80%E4%B8%87%E4%B8%8A%E6%B5%B7%E5%BC%80%E9%9D%A2%E9%A6%866%E5%A4%A9%E6%BF%92%E4%B8%B4%E5%80%92%E9%97%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [新生儿遭月子中心月嫂虐待](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%94%9F%E5%84%BF%E9%81%AD%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83%E6%9C%88%E5%AB%82%E8%99%90%E5%BE%85%23&t=31&band_rank=5&Refer=top)<br />
