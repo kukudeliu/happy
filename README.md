@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 10:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 10:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [税务师成绩](https://s.weibo.com/weibo?q=%E7%A8%8E%E5%8A%A1%E5%B8%88%E6%88%90%E7%BB%A9&t=31&band_rank=6&Refer=top)<br />
 7. [繁花里的papi酱](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E9%87%8C%E7%9A%84papi%E9%85%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [美国14岁男孩为争夺礼物枪杀姐姐](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD14%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B8%BA%E4%BA%89%E5%A4%BA%E7%A4%BC%E7%89%A9%E6%9E%AA%E6%9D%80%E5%A7%90%E5%A7%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [南方小土豆](https://s.weibo.com/weibo?q=%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86&t=31&band_rank=9&Refer=top)<br />
+9. [繁花收视率](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
