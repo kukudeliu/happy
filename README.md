@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 13:16:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 13:17:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [2023中国航天高燃时刻](https://s.weibo.com/weibo?q=%232023%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [3娃非亲生案女方跟别人生下第4个女儿](https://s.weibo.com/weibo?q=%233%E5%A8%83%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%A5%B3%E6%96%B9%E8%B7%9F%E5%88%AB%E4%BA%BA%E7%94%9F%E4%B8%8B%E7%AC%AC4%E4%B8%AA%E5%A5%B3%E5%84%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [儿子诈骗30万母亲只愿退赔9000](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E8%AF%88%E9%AA%9730%E4%B8%87%E6%AF%8D%E4%BA%B2%E5%8F%AA%E6%84%BF%E9%80%80%E8%B5%949000%23&t=31&band_rank=5&Refer=top)<br />
-6. [因病少上1天班没了年终奖](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E7%97%85%E5%B0%91%E4%B8%8A1%E5%A4%A9%E7%8F%AD%E6%B2%A1%E4%BA%86%E5%B9%B4%E7%BB%88%E5%A5%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [繁花居然是用单机位拍的](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E5%B1%85%E7%84%B6%E6%98%AF%E7%94%A8%E5%8D%95%E6%9C%BA%E4%BD%8D%E6%8B%8D%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
+6. [繁花居然是用单机位拍的](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E5%B1%85%E7%84%B6%E6%98%AF%E7%94%A8%E5%8D%95%E6%9C%BA%E4%BD%8D%E6%8B%8D%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
+7. [因病少上1天班没了年终奖](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E7%97%85%E5%B0%91%E4%B8%8A1%E5%A4%A9%E7%8F%AD%E6%B2%A1%E4%BA%86%E5%B9%B4%E7%BB%88%E5%A5%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国人辛劳一年有仰望烟花权利](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%BE%9B%E5%8A%B3%E4%B8%80%E5%B9%B4%E6%9C%89%E4%BB%B0%E6%9C%9B%E7%83%9F%E8%8A%B1%E6%9D%83%E5%88%A9%23&t=31&band_rank=8&Refer=top)<br />
 9. [魅族称要成为小米首位车主](https://s.weibo.com/weibo?q=%23%E9%AD%85%E6%97%8F%E7%A7%B0%E8%A6%81%E6%88%90%E4%B8%BA%E5%B0%8F%E7%B1%B3%E9%A6%96%E4%BD%8D%E8%BD%A6%E4%B8%BB%23&t=31&band_rank=9&Refer=top)<br />
 
