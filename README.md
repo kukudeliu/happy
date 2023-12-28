@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 14:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 14:58:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [小米汽车发布会](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=5&Refer=top)<br />
 6. [小米汽车](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=6&Refer=top)<br />
 7. [繁花居然是用单机位拍的](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E5%B1%85%E7%84%B6%E6%98%AF%E7%94%A8%E5%8D%95%E6%9C%BA%E4%BD%8D%E6%8B%8D%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
-8. [丁克夫妻感情更像爱情吗](https://s.weibo.com/weibo?q=%23%E4%B8%81%E5%85%8B%E5%A4%AB%E5%A6%BB%E6%84%9F%E6%83%85%E6%9B%B4%E5%83%8F%E7%88%B1%E6%83%85%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [小米汽车价格](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BB%B7%E6%A0%BC&t=31&band_rank=9&Refer=top)<br />
+8. [小米汽车价格](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BB%B7%E6%A0%BC&t=31&band_rank=8&Refer=top)<br />
+9. [丁克夫妻感情更像爱情吗](https://s.weibo.com/weibo?q=%23%E4%B8%81%E5%85%8B%E5%A4%AB%E5%A6%BB%E6%84%9F%E6%83%85%E6%9B%B4%E5%83%8F%E7%88%B1%E6%83%85%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
