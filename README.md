@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 09:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 09:13:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [新生儿遭月子中心月嫂虐待](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%94%9F%E5%84%BF%E9%81%AD%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83%E6%9C%88%E5%AB%82%E8%99%90%E5%BE%85%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023中国航天高燃时刻](https://s.weibo.com/weibo?q=%232023%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [全面禁放烟花爆竹是时候终结了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E7%A6%81%E6%94%BE%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E6%98%AF%E6%97%B6%E5%80%99%E7%BB%88%E7%BB%93%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [我这一年辛辛苦苦挣了很少钱](https://s.weibo.com/weibo?q=%E6%88%91%E8%BF%99%E4%B8%80%E5%B9%B4%E8%BE%9B%E8%BE%9B%E8%8B%A6%E8%8B%A6%E6%8C%A3%E4%BA%86%E5%BE%88%E5%B0%91%E9%92%B1&t=31&band_rank=5&Refer=top)<br />
-6. [繁花里的papi酱](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E9%87%8C%E7%9A%84papi%E9%85%B1%23&t=31&band_rank=6&Refer=top)<br />
+5. [繁花里的papi酱](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E9%87%8C%E7%9A%84papi%E9%85%B1%23&t=31&band_rank=5&Refer=top)<br />
+6. [我这一年辛辛苦苦挣了很少钱](https://s.weibo.com/weibo?q=%E6%88%91%E8%BF%99%E4%B8%80%E5%B9%B4%E8%BE%9B%E8%BE%9B%E8%8B%A6%E8%8B%A6%E6%8C%A3%E4%BA%86%E5%BE%88%E5%B0%91%E9%92%B1&t=31&band_rank=6&Refer=top)<br />
 7. [美国14岁男孩为争夺礼物枪杀姐姐](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD14%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B8%BA%E4%BA%89%E5%A4%BA%E7%A4%BC%E7%89%A9%E6%9E%AA%E6%9D%80%E5%A7%90%E5%A7%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [何猷君和奚梦瑶结婚后不装了](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E5%92%8C%E5%A5%9A%E6%A2%A6%E7%91%B6%E7%BB%93%E5%A9%9A%E5%90%8E%E4%B8%8D%E8%A3%85%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [京东宣布采销等一线员工涨薪近100%](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E5%AE%A3%E5%B8%83%E9%87%87%E9%94%80%E7%AD%89%E4%B8%80%E7%BA%BF%E5%91%98%E5%B7%A5%E6%B6%A8%E8%96%AA%E8%BF%91100%25%23&t=31&band_rank=9&Refer=top)<br />
+9. [韩媒曝李善均遗书内容](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E6%9B%9D%E6%9D%8E%E5%96%84%E5%9D%87%E9%81%97%E4%B9%A6%E5%86%85%E5%AE%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
