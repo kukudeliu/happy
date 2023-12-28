@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 16:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 16:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王一博加入朵拉头宇宙](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%8A%A0%E5%85%A5%E6%9C%B5%E6%8B%89%E5%A4%B4%E5%AE%87%E5%AE%99%23&t=31&band_rank=6&Refer=top)<br />
 7. [李善均身亡前疑似最后监控曝光](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%96%84%E5%9D%87%E8%BA%AB%E4%BA%A1%E5%89%8D%E7%96%91%E4%BC%BC%E6%9C%80%E5%90%8E%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [2023全球最帅最美面孔](https://s.weibo.com/weibo?q=%232023%E5%85%A8%E7%90%83%E6%9C%80%E5%B8%85%E6%9C%80%E7%BE%8E%E9%9D%A2%E5%AD%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [上海杀妻欲藏尸冰柜案二审维持死刑](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9D%80%E5%A6%BB%E6%AC%B2%E8%97%8F%E5%B0%B8%E5%86%B0%E6%9F%9C%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E6%AD%BB%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [小米集团股价转跌](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E8%82%A1%E4%BB%B7%E8%BD%AC%E8%B7%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
