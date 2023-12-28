@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 09:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 09:48:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [全面禁放烟花爆竹是时候终结了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E7%A6%81%E6%94%BE%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E6%98%AF%E6%97%B6%E5%80%99%E7%BB%88%E7%BB%93%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [繁花里的papi酱](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E9%87%8C%E7%9A%84papi%E9%85%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [美国14岁男孩为争夺礼物枪杀姐姐](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD14%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B8%BA%E4%BA%89%E5%A4%BA%E7%A4%BC%E7%89%A9%E6%9E%AA%E6%9D%80%E5%A7%90%E5%A7%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [棉服 鲨鱼裤](https://s.weibo.com/weibo?q=%E6%A3%89%E6%9C%8D%20%E9%B2%A8%E9%B1%BC%E8%A3%A4&t=31&band_rank=8&Refer=top)<br />
-9. [小白80万上海开面馆6天濒临倒闭](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%99%BD80%E4%B8%87%E4%B8%8A%E6%B5%B7%E5%BC%80%E9%9D%A2%E9%A6%866%E5%A4%A9%E6%BF%92%E4%B8%B4%E5%80%92%E9%97%AD%23&t=31&band_rank=9&Refer=top)<br />
+8. [小白80万上海开面馆6天濒临倒闭](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%99%BD80%E4%B8%87%E4%B8%8A%E6%B5%B7%E5%BC%80%E9%9D%A2%E9%A6%866%E5%A4%A9%E6%BF%92%E4%B8%B4%E5%80%92%E9%97%AD%23&t=31&band_rank=8&Refer=top)<br />
+9. [棉服 鲨鱼裤](https://s.weibo.com/weibo?q=%E6%A3%89%E6%9C%8D%20%E9%B2%A8%E9%B1%BC%E8%A3%A4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
