@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 23:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 23:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女子离职后把手机静音1年](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A6%BB%E8%81%8C%E5%90%8E%E6%8A%8A%E6%89%8B%E6%9C%BA%E9%9D%99%E9%9F%B31%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [25至29岁年龄段未婚率超50%](https://s.weibo.com/weibo?q=%2325%E8%87%B329%E5%B2%81%E5%B9%B4%E9%BE%84%E6%AE%B5%E6%9C%AA%E5%A9%9A%E7%8E%87%E8%B6%8550%25%23&t=31&band_rank=7&Refer=top)<br />
 8. [关门吻](https://s.weibo.com/weibo?q=%E5%85%B3%E9%97%A8%E5%90%BB&t=31&band_rank=8&Refer=top)<br />
-9. [胖东来宣布员工将提前3小时下班](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%AE%A3%E5%B8%83%E5%91%98%E5%B7%A5%E5%B0%86%E6%8F%90%E5%89%8D3%E5%B0%8F%E6%97%B6%E4%B8%8B%E7%8F%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [抗癌宝贝毅玲去世](https://s.weibo.com/weibo?q=%23%E6%8A%97%E7%99%8C%E5%AE%9D%E8%B4%9D%E6%AF%85%E7%8E%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
