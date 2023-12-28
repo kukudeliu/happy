@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 16:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 17:00:01</h4></div>
 
 > 微博  
 
 1. [年终奖 十三薪](https://s.weibo.com/weibo?q=%E5%B9%B4%E7%BB%88%E5%A5%96%20%E5%8D%81%E4%B8%89%E8%96%AA&t=31&band_rank=1&Refer=top)<br />
-2. [小米汽车颜值](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E9%A2%9C%E5%80%BC&t=31&band_rank=2&Refer=top)<br />
+2. [小米汽车价格](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BB%B7%E6%A0%BC&t=31&band_rank=2&Refer=top)<br />
 3. [2023那些对于热爱的回答](https://s.weibo.com/weibo?q=%232023%E9%82%A3%E4%BA%9B%E5%AF%B9%E4%BA%8E%E7%83%AD%E7%88%B1%E7%9A%84%E5%9B%9E%E7%AD%94%23&t=31&band_rank=3&Refer=top)<br />
-4. [小米汽车价格](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BB%B7%E6%A0%BC&t=31&band_rank=4&Refer=top)<br />
+4. [小米汽车颜值](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E9%A2%9C%E5%80%BC&t=31&band_rank=4&Refer=top)<br />
 5. [小米汽车发布会](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=5&Refer=top)<br />
 6. [19.9交个朋友](https://s.weibo.com/weibo?q=19.9%E4%BA%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B&t=31&band_rank=6&Refer=top)<br />
 7. [李善均身亡前疑似最后监控曝光](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%96%84%E5%9D%87%E8%BA%AB%E4%BA%A1%E5%89%8D%E7%96%91%E4%BC%BC%E6%9C%80%E5%90%8E%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=7&Refer=top)<br />
