@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 19:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 19:26:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [向太宣布将出售耗时十年建成豪宅](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E5%AE%A3%E5%B8%83%E5%B0%86%E5%87%BA%E5%94%AE%E8%80%97%E6%97%B6%E5%8D%81%E5%B9%B4%E5%BB%BA%E6%88%90%E8%B1%AA%E5%AE%85%23&t=31&band_rank=4&Refer=top)<br />
 5. [1只边牧被救咕噜咕噜变3只](https://s.weibo.com/weibo?q=%231%E5%8F%AA%E8%BE%B9%E7%89%A7%E8%A2%AB%E6%95%91%E5%92%95%E5%99%9C%E5%92%95%E5%99%9C%E5%8F%983%E5%8F%AA%23&t=31&band_rank=5&Refer=top)<br />
 6. [康康都一米八了](https://s.weibo.com/weibo?q=%E5%BA%B7%E5%BA%B7%E9%83%BD%E4%B8%80%E7%B1%B3%E5%85%AB%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [退款不退货](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE%E4%B8%8D%E9%80%80%E8%B4%A7&t=31&band_rank=7&Refer=top)<br />
-8. [姜涛全球最帅面孔第三](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%B6%9B%E5%85%A8%E7%90%83%E6%9C%80%E5%B8%85%E9%9D%A2%E5%AD%94%E7%AC%AC%E4%B8%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [三孩非亲生案女方称DNA也不是100%准确](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%A5%B3%E6%96%B9%E7%A7%B0DNA%E4%B9%9F%E4%B8%8D%E6%98%AF100%25%E5%87%86%E7%A1%AE%23&t=31&band_rank=9&Refer=top)<br />
+7. [搜救犬肥肥和战友们回家啦](https://s.weibo.com/weibo?q=%23%E6%90%9C%E6%95%91%E7%8A%AC%E8%82%A5%E8%82%A5%E5%92%8C%E6%88%98%E5%8F%8B%E4%BB%AC%E5%9B%9E%E5%AE%B6%E5%95%A6%23&t=31&band_rank=7&Refer=top)<br />
+8. [退款不退货](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE%E4%B8%8D%E9%80%80%E8%B4%A7&t=31&band_rank=8&Refer=top)<br />
+9. [姜涛全球最帅面孔第三](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%B6%9B%E5%85%A8%E7%90%83%E6%9C%80%E5%B8%85%E9%9D%A2%E5%AD%94%E7%AC%AC%E4%B8%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
