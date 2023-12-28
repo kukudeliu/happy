@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 08:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 08:38:01</h4></div>
 
 > 微博  
 
-1. [何猷君和奚梦瑶结婚后不装了](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E5%92%8C%E5%A5%9A%E6%A2%A6%E7%91%B6%E7%BB%93%E5%A9%9A%E5%90%8E%E4%B8%8D%E8%A3%85%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [大学生不要再发求捞表情包了](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%91%E6%B1%82%E6%8D%9E%E8%A1%A8%E6%83%85%E5%8C%85%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
+1. [大学生不要再发求捞表情包了](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%91%E6%B1%82%E6%8D%9E%E8%A1%A8%E6%83%85%E5%8C%85%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
+2. [何猷君和奚梦瑶结婚后不装了](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E5%92%8C%E5%A5%9A%E6%A2%A6%E7%91%B6%E7%BB%93%E5%A9%9A%E5%90%8E%E4%B8%8D%E8%A3%85%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [2023中国航天高燃时刻](https://s.weibo.com/weibo?q=%232023%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [全面禁放烟花爆竹是时候终结了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E7%A6%81%E6%94%BE%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E6%98%AF%E6%97%B6%E5%80%99%E7%BB%88%E7%BB%93%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [京东宣布采销等一线员工涨薪近100%](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E5%AE%A3%E5%B8%83%E9%87%87%E9%94%80%E7%AD%89%E4%B8%80%E7%BA%BF%E5%91%98%E5%B7%A5%E6%B6%A8%E8%96%AA%E8%BF%91100%25%23&t=31&band_rank=5&Refer=top)<br />
