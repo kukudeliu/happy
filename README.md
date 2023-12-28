@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 12:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 12:33:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [繁花居然是用单机位拍的](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E5%B1%85%E7%84%B6%E6%98%AF%E7%94%A8%E5%8D%95%E6%9C%BA%E4%BD%8D%E6%8B%8D%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [大学生不要再发求捞表情包了](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%91%E6%B1%82%E6%8D%9E%E8%A1%A8%E6%83%85%E5%8C%85%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [繁花里的papi酱](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E9%87%8C%E7%9A%84papi%E9%85%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战嘉人开年刊预告](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%98%89%E4%BA%BA%E5%BC%80%E5%B9%B4%E5%88%8A%E9%A2%84%E5%91%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [魅族称要成为小米首位车主](https://s.weibo.com/weibo?q=%23%E9%AD%85%E6%97%8F%E7%A7%B0%E8%A6%81%E6%88%90%E4%B8%BA%E5%B0%8F%E7%B1%B3%E9%A6%96%E4%BD%8D%E8%BD%A6%E4%B8%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
