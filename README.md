@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 11:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 11:27:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [大学生不要再发求捞表情包了](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%91%E6%B1%82%E6%8D%9E%E8%A1%A8%E6%83%85%E5%8C%85%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [2023中国航天高燃时刻](https://s.weibo.com/weibo?q=%232023%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [新生儿遭月子中心月嫂虐待](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%94%9F%E5%84%BF%E9%81%AD%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83%E6%9C%88%E5%AB%82%E8%99%90%E5%BE%85%23&t=31&band_rank=4&Refer=top)<br />
-5. [繁花里的papi酱](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E9%87%8C%E7%9A%84papi%E9%85%B1%23&t=31&band_rank=5&Refer=top)<br />
-6. [小白80万上海开面馆6天濒临倒闭](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%99%BD80%E4%B8%87%E4%B8%8A%E6%B5%B7%E5%BC%80%E9%9D%A2%E9%A6%866%E5%A4%A9%E6%BF%92%E4%B8%B4%E5%80%92%E9%97%AD%23&t=31&band_rank=6&Refer=top)<br />
-7. [韩媒曝李善均遗书内容](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E6%9B%9D%E6%9D%8E%E5%96%84%E5%9D%87%E9%81%97%E4%B9%A6%E5%86%85%E5%AE%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [3娃非亲生案女方跟别人生下第4个女儿](https://s.weibo.com/weibo?q=%233%E5%A8%83%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%A5%B3%E6%96%B9%E8%B7%9F%E5%88%AB%E4%BA%BA%E7%94%9F%E4%B8%8B%E7%AC%AC4%E4%B8%AA%E5%A5%B3%E5%84%BF%23&t=31&band_rank=8&Refer=top)<br />
+5. [小白80万上海开面馆6天濒临倒闭](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%99%BD80%E4%B8%87%E4%B8%8A%E6%B5%B7%E5%BC%80%E9%9D%A2%E9%A6%866%E5%A4%A9%E6%BF%92%E4%B8%B4%E5%80%92%E9%97%AD%23&t=31&band_rank=5&Refer=top)<br />
+6. [繁花里的papi酱](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E9%87%8C%E7%9A%84papi%E9%85%B1%23&t=31&band_rank=6&Refer=top)<br />
+7. [3娃非亲生案女方跟别人生下第4个女儿](https://s.weibo.com/weibo?q=%233%E5%A8%83%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%A5%B3%E6%96%B9%E8%B7%9F%E5%88%AB%E4%BA%BA%E7%94%9F%E4%B8%8B%E7%AC%AC4%E4%B8%AA%E5%A5%B3%E5%84%BF%23&t=31&band_rank=7&Refer=top)<br />
+8. [韩媒曝李善均遗书内容](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E6%9B%9D%E6%9D%8E%E5%96%84%E5%9D%87%E9%81%97%E4%B9%A6%E5%86%85%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
 9. [女生大学毕业卖烤猪月入3万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E5%8D%96%E7%83%A4%E7%8C%AA%E6%9C%88%E5%85%A53%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
