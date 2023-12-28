@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 10:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 10:28:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [小白80万上海开面馆6天濒临倒闭](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%99%BD80%E4%B8%87%E4%B8%8A%E6%B5%B7%E5%BC%80%E9%9D%A2%E9%A6%866%E5%A4%A9%E6%BF%92%E4%B8%B4%E5%80%92%E9%97%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [韩媒曝李善均遗书内容](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E6%9B%9D%E6%9D%8E%E5%96%84%E5%9D%87%E9%81%97%E4%B9%A6%E5%86%85%E5%AE%B9%23&t=31&band_rank=5&Refer=top)<br />
 6. [繁花里的papi酱](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E9%87%8C%E7%9A%84papi%E9%85%B1%23&t=31&band_rank=6&Refer=top)<br />
-7. [税务师成绩](https://s.weibo.com/weibo?q=%E7%A8%8E%E5%8A%A1%E5%B8%88%E6%88%90%E7%BB%A9&t=31&band_rank=7&Refer=top)<br />
+7. [因病少上1天班没了年终奖](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E7%97%85%E5%B0%91%E4%B8%8A1%E5%A4%A9%E7%8F%AD%E6%B2%A1%E4%BA%86%E5%B9%B4%E7%BB%88%E5%A5%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [繁花收视率](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [因病少上1天班没了年终奖](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E7%97%85%E5%B0%91%E4%B8%8A1%E5%A4%A9%E7%8F%AD%E6%B2%A1%E4%BA%86%E5%B9%B4%E7%BB%88%E5%A5%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [税务师成绩](https://s.weibo.com/weibo?q=%E7%A8%8E%E5%8A%A1%E5%B8%88%E6%88%90%E7%BB%A9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
