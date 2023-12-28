@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 23:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 23:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [胖东来宣布员工将提前3小时下班](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%AE%A3%E5%B8%83%E5%91%98%E5%B7%A5%E5%B0%86%E6%8F%90%E5%89%8D3%E5%B0%8F%E6%97%B6%E4%B8%8B%E7%8F%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [退款不退货](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE%E4%B8%8D%E9%80%80%E8%B4%A7&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴想买断自己表情包](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%83%B3%E4%B9%B0%E6%96%AD%E8%87%AA%E5%B7%B1%E8%A1%A8%E6%83%85%E5%8C%85&t=31&band_rank=8&Refer=top)<br />
-9. [掉进眼睛的异物最后都去哪儿了](https://s.weibo.com/weibo?q=%E6%8E%89%E8%BF%9B%E7%9C%BC%E7%9D%9B%E7%9A%84%E5%BC%82%E7%89%A9%E6%9C%80%E5%90%8E%E9%83%BD%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [关门吻](https://s.weibo.com/weibo?q=%E5%85%B3%E9%97%A8%E5%90%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
