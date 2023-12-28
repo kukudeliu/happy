@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 04:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 04:55:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [哈尔滨 今冬“第一座待爆城市”](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8+%E4%BB%8A%E5%86%AC%E2%80%9C%E7%AC%AC%E4%B8%80%E5%BA%A7%E5%BE%85%E7%88%86%E5%9F%8E%E5%B8%82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姜涛全球最帅面孔第三](https://www.baidu.com/s?wd=%E5%A7%9C%E6%B6%9B%E5%85%A8%E7%90%83%E6%9C%80%E5%B8%85%E9%9D%A2%E5%AD%94%E7%AC%AC%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [内蒙古多地夜空现大面积七彩光柱](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E5%A4%9A%E5%9C%B0%E5%A4%9C%E7%A9%BA%E7%8E%B0%E5%A4%A7%E9%9D%A2%E7%A7%AF%E4%B8%83%E5%BD%A9%E5%85%89%E6%9F%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [钟南山回应代言保健品广告](https://www.baidu.com/s?wd=%E9%92%9F%E5%8D%97%E5%B1%B1%E5%9B%9E%E5%BA%94%E4%BB%A3%E8%A8%80%E4%BF%9D%E5%81%A5%E5%93%81%E5%B9%BF%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：仅退款已成中国头部电商标配](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%BB%85%E9%80%80%E6%AC%BE%E5%B7%B2%E6%88%90%E4%B8%AD%E5%9B%BD%E5%A4%B4%E9%83%A8%E7%94%B5%E5%95%86%E6%A0%87%E9%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [贴身衣物穿黑色更容易得癌症？](https://www.baidu.com/s?wd=%E8%B4%B4%E8%BA%AB%E8%A1%A3%E7%89%A9%E7%A9%BF%E9%BB%91%E8%89%B2%E6%9B%B4%E5%AE%B9%E6%98%93%E5%BE%97%E7%99%8C%E7%97%87%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [哈尔滨 今冬“第一座待爆城市”](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8+%E4%BB%8A%E5%86%AC%E2%80%9C%E7%AC%AC%E4%B8%80%E5%BA%A7%E5%BE%85%E7%88%86%E5%9F%8E%E5%B8%82%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姜涛全球最帅面孔第三](https://www.baidu.com/s?wd=%E5%A7%9C%E6%B6%9B%E5%85%A8%E7%90%83%E6%9C%80%E5%B8%85%E9%9D%A2%E5%AD%94%E7%AC%AC%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [内蒙古多地夜空现大面积七彩光柱](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E5%A4%9A%E5%9C%B0%E5%A4%9C%E7%A9%BA%E7%8E%B0%E5%A4%A7%E9%9D%A2%E7%A7%AF%E4%B8%83%E5%BD%A9%E5%85%89%E6%9F%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [钟南山回应代言保健品广告](https://www.baidu.com/s?wd=%E9%92%9F%E5%8D%97%E5%B1%B1%E5%9B%9E%E5%BA%94%E4%BB%A3%E8%A8%80%E4%BF%9D%E5%81%A5%E5%93%81%E5%B9%BF%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [媒体：仅退款已成中国头部电商标配](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%BB%85%E9%80%80%E6%AC%BE%E5%B7%B2%E6%88%90%E4%B8%AD%E5%9B%BD%E5%A4%B4%E9%83%A8%E7%94%B5%E5%95%86%E6%A0%87%E9%85%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [贴身衣物穿黑色更容易得癌症？](https://www.baidu.com/s?wd=%E8%B4%B4%E8%BA%AB%E8%A1%A3%E7%89%A9%E7%A9%BF%E9%BB%91%E8%89%B2%E6%9B%B4%E5%AE%B9%E6%98%93%E5%BE%97%E7%99%8C%E7%97%87%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
