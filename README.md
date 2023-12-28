@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 13:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 13:52:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [儿子诈骗30万母亲只愿退赔9000](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E8%AF%88%E9%AA%9730%E4%B8%87%E6%AF%8D%E4%BA%B2%E5%8F%AA%E6%84%BF%E9%80%80%E8%B5%949000%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023中国航天高燃时刻](https://s.weibo.com/weibo?q=%232023%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E6%97%B6%E5%88%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [卷生卷死的韩国人开始逃了](https://s.weibo.com/weibo?q=%23%E5%8D%B7%E7%94%9F%E5%8D%B7%E6%AD%BB%E7%9A%84%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%BC%80%E5%A7%8B%E9%80%83%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [丁克夫妻感情更像爱情吗](https://s.weibo.com/weibo?q=%23%E4%B8%81%E5%85%8B%E5%A4%AB%E5%A6%BB%E6%84%9F%E6%83%85%E6%9B%B4%E5%83%8F%E7%88%B1%E6%83%85%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
-6. [上海杀妻欲藏尸冰柜案二审维持死刑](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9D%80%E5%A6%BB%E6%AC%B2%E8%97%8F%E5%B0%B8%E5%86%B0%E6%9F%9C%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E6%AD%BB%E5%88%91%23&t=31&band_rank=6&Refer=top)<br />
+5. [上海杀妻欲藏尸冰柜案二审维持死刑](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9D%80%E5%A6%BB%E6%AC%B2%E8%97%8F%E5%B0%B8%E5%86%B0%E6%9F%9C%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E6%AD%BB%E5%88%91%23&t=31&band_rank=5&Refer=top)<br />
+6. [丁克夫妻感情更像爱情吗](https://s.weibo.com/weibo?q=%23%E4%B8%81%E5%85%8B%E5%A4%AB%E5%A6%BB%E6%84%9F%E6%83%85%E6%9B%B4%E5%83%8F%E7%88%B1%E6%83%85%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国人辛劳一年有仰望烟花权利](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%BE%9B%E5%8A%B3%E4%B8%80%E5%B9%B4%E6%9C%89%E4%BB%B0%E6%9C%9B%E7%83%9F%E8%8A%B1%E6%9D%83%E5%88%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [古茗莲花楼联名](https://s.weibo.com/weibo?q=%E5%8F%A4%E8%8C%97%E8%8E%B2%E8%8A%B1%E6%A5%BC%E8%81%94%E5%90%8D&t=31&band_rank=8&Refer=top)<br />
-9. [繁花居然是用单机位拍的](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E5%B1%85%E7%84%B6%E6%98%AF%E7%94%A8%E5%8D%95%E6%9C%BA%E4%BD%8D%E6%8B%8D%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [小米汽车](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
