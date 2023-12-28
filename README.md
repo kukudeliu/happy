@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 22:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 22:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [胖东来宣布员工将提前3小时下班](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%AE%A3%E5%B8%83%E5%91%98%E5%B7%A5%E5%B0%86%E6%8F%90%E5%89%8D3%E5%B0%8F%E6%97%B6%E4%B8%8B%E7%8F%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [掉进眼睛的异物最后都去哪儿了](https://s.weibo.com/weibo?q=%E6%8E%89%E8%BF%9B%E7%9C%BC%E7%9D%9B%E7%9A%84%E5%BC%82%E7%89%A9%E6%9C%80%E5%90%8E%E9%83%BD%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [退款不退货](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE%E4%B8%8D%E9%80%80%E8%B4%A7&t=31&band_rank=8&Refer=top)<br />
-9. [周冬雨金莲花影后](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E9%87%91%E8%8E%B2%E8%8A%B1%E5%BD%B1%E5%90%8E%23&t=31&band_rank=9&Refer=top)<br />
+9. [除夕三件套](https://s.weibo.com/weibo?q=%E9%99%A4%E5%A4%95%E4%B8%89%E4%BB%B6%E5%A5%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
