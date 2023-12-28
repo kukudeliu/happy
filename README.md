@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 21:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 21:25:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [小米汽车价格](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BB%B7%E6%A0%BC&t=31&band_rank=2&Refer=top)<br />
 3. [2023这些温暖开心的瞬间](https://s.weibo.com/weibo?q=%232023%E8%BF%99%E4%BA%9B%E6%B8%A9%E6%9A%96%E5%BC%80%E5%BF%83%E7%9A%84%E7%9E%AC%E9%97%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [向太宣布将出售耗时十年建成豪宅](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E5%AE%A3%E5%B8%83%E5%B0%86%E5%87%BA%E5%94%AE%E8%80%97%E6%97%B6%E5%8D%81%E5%B9%B4%E5%BB%BA%E6%88%90%E8%B1%AA%E5%AE%85%23&t=31&band_rank=4&Refer=top)<br />
-5. [胖东来宣布员工将提前3小时下班](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%AE%A3%E5%B8%83%E5%91%98%E5%B7%A5%E5%B0%86%E6%8F%90%E5%89%8D3%E5%B0%8F%E6%97%B6%E4%B8%8B%E7%8F%AD%23&t=31&band_rank=5&Refer=top)<br />
-6. [周冬雨金莲花影后](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E9%87%91%E8%8E%B2%E8%8A%B1%E5%BD%B1%E5%90%8E%23&t=31&band_rank=6&Refer=top)<br />
+5. [周冬雨金莲花影后](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E9%87%91%E8%8E%B2%E8%8A%B1%E5%BD%B1%E5%90%8E%23&t=31&band_rank=5&Refer=top)<br />
+6. [胖东来宣布员工将提前3小时下班](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%AE%A3%E5%B8%83%E5%91%98%E5%B7%A5%E5%B0%86%E6%8F%90%E5%89%8D3%E5%B0%8F%E6%97%B6%E4%B8%8B%E7%8F%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [林一 妮妮](https://s.weibo.com/weibo?q=%E6%9E%97%E4%B8%80%20%E5%A6%AE%E5%A6%AE&t=31&band_rank=7&Refer=top)<br />
 8. [只有郑恺被拍成了东北大姨](https://s.weibo.com/weibo?q=%E5%8F%AA%E6%9C%89%E9%83%91%E6%81%BA%E8%A2%AB%E6%8B%8D%E6%88%90%E4%BA%86%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%A7%A8&t=31&band_rank=8&Refer=top)<br />
 9. [退款不退货](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE%E4%B8%8D%E9%80%80%E8%B4%A7&t=31&band_rank=9&Refer=top)<br />
