@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 19:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 19:43:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [第二届链博会展期确定](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%8C%E5%B1%8A%E9%93%BE%E5%8D%9A%E4%BC%9A%E5%B1%95%E6%9C%9F%E7%A1%AE%E5%AE%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [向太宣布将出售耗时十年建成豪宅](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E5%AE%A3%E5%B8%83%E5%B0%86%E5%87%BA%E5%94%AE%E8%80%97%E6%97%B6%E5%8D%81%E5%B9%B4%E5%BB%BA%E6%88%90%E8%B1%AA%E5%AE%85%23&t=31&band_rank=4&Refer=top)<br />
 5. [1只边牧被救咕噜咕噜变3只](https://s.weibo.com/weibo?q=%231%E5%8F%AA%E8%BE%B9%E7%89%A7%E8%A2%AB%E6%95%91%E5%92%95%E5%99%9C%E5%92%95%E5%99%9C%E5%8F%983%E5%8F%AA%23&t=31&band_rank=5&Refer=top)<br />
-6. [康康都一米八了](https://s.weibo.com/weibo?q=%E5%BA%B7%E5%BA%B7%E9%83%BD%E4%B8%80%E7%B1%B3%E5%85%AB%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+6. [papi酱 2023道歉信](https://s.weibo.com/weibo?q=papi%E9%85%B1%202023%E9%81%93%E6%AD%89%E4%BF%A1&t=31&band_rank=6&Refer=top)<br />
 7. [北京西站民警的这个妙招应周知所有旅客](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E8%A5%BF%E7%AB%99%E6%B0%91%E8%AD%A6%E7%9A%84%E8%BF%99%E4%B8%AA%E5%A6%99%E6%8B%9B%E5%BA%94%E5%91%A8%E7%9F%A5%E6%89%80%E6%9C%89%E6%97%85%E5%AE%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [papi酱 2023道歉信](https://s.weibo.com/weibo?q=papi%E9%85%B1%202023%E9%81%93%E6%AD%89%E4%BF%A1&t=31&band_rank=8&Refer=top)<br />
+8. [康康都一米八了](https://s.weibo.com/weibo?q=%E5%BA%B7%E5%BA%B7%E9%83%BD%E4%B8%80%E7%B1%B3%E5%85%AB%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [退款不退货](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE%E4%B8%8D%E9%80%80%E8%B4%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
