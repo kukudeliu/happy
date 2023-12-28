@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 11:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 11:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [繁花里的papi酱](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E9%87%8C%E7%9A%84papi%E9%85%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖战嘉人开年刊预告](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%98%89%E4%BA%BA%E5%BC%80%E5%B9%B4%E5%88%8A%E9%A2%84%E5%91%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [小白80万上海开面馆6天濒临倒闭](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%99%BD80%E4%B8%87%E4%B8%8A%E6%B5%B7%E5%BC%80%E9%9D%A2%E9%A6%866%E5%A4%A9%E6%BF%92%E4%B8%B4%E5%80%92%E9%97%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [女生大学毕业卖烤猪月入3万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E5%8D%96%E7%83%A4%E7%8C%AA%E6%9C%88%E5%85%A53%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [春楠给关晓彤化的新年好运妆](https://s.weibo.com/weibo?q=%E6%98%A5%E6%A5%A0%E7%BB%99%E5%85%B3%E6%99%93%E5%BD%A4%E5%8C%96%E7%9A%84%E6%96%B0%E5%B9%B4%E5%A5%BD%E8%BF%90%E5%A6%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
