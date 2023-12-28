@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 15:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 15:58:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [李善均身亡前疑似最后监控曝光](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%96%84%E5%9D%87%E8%BA%AB%E4%BA%A1%E5%89%8D%E7%96%91%E4%BC%BC%E6%9C%80%E5%90%8E%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [2023全球最帅最美面孔](https://s.weibo.com/weibo?q=%232023%E5%85%A8%E7%90%83%E6%9C%80%E5%B8%85%E6%9C%80%E7%BE%8E%E9%9D%A2%E5%AD%94%23&t=31&band_rank=5&Refer=top)<br />
 6. [小米汽车发布会](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
-7. [上海杀妻欲藏尸冰柜案二审维持死刑](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9D%80%E5%A6%BB%E6%AC%B2%E8%97%8F%E5%B0%B8%E5%86%B0%E6%9F%9C%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E6%AD%BB%E5%88%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [王一博加入朵拉头宇宙](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%8A%A0%E5%85%A5%E6%9C%B5%E6%8B%89%E5%A4%B4%E5%AE%87%E5%AE%99%23&t=31&band_rank=8&Refer=top)<br />
+7. [王一博加入朵拉头宇宙](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%8A%A0%E5%85%A5%E6%9C%B5%E6%8B%89%E5%A4%B4%E5%AE%87%E5%AE%99%23&t=31&band_rank=7&Refer=top)<br />
+8. [上海杀妻欲藏尸冰柜案二审维持死刑](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9D%80%E5%A6%BB%E6%AC%B2%E8%97%8F%E5%B0%B8%E5%86%B0%E6%9F%9C%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E6%AD%BB%E5%88%91%23&t=31&band_rank=8&Refer=top)<br />
 9. [雷军回应不向吉利致敬](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%90%91%E5%90%89%E5%88%A9%E8%87%B4%E6%95%AC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
