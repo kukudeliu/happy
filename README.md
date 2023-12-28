@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 17:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 17:34:02</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [跟着AI重走2023中国科技之旅](https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80AI%E9%87%8D%E8%B5%B02023%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E4%B9%8B%E6%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [钟南山回应代言保健品广告](https://www.baidu.com/s?wd=%E9%92%9F%E5%8D%97%E5%B1%B1%E5%9B%9E%E5%BA%94%E4%BB%A3%E8%A8%80%E4%BF%9D%E5%81%A5%E5%93%81%E5%B9%BF%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [消失的“打工皇帝”](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E2%80%9C%E6%89%93%E5%B7%A5%E7%9A%87%E5%B8%9D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [A股大涨](https://www.baidu.com/s?wd=A%E8%82%A1%E5%A4%A7%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [校方通报后勤人员辱骂打饭学生](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E9%80%9A%E6%8A%A5%E5%90%8E%E5%8B%A4%E4%BA%BA%E5%91%98%E8%BE%B1%E9%AA%82%E6%89%93%E9%A5%AD%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [文心一言用户规模破1亿](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80%E7%94%A8%E6%88%B7%E8%A7%84%E6%A8%A1%E7%A0%B41%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [捐给震区的羽绒服现身展销会？](https://www.baidu.com/s?wd=%E6%8D%90%E7%BB%99%E9%9C%87%E5%8C%BA%E7%9A%84%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%8E%B0%E8%BA%AB%E5%B1%95%E9%94%80%E4%BC%9A%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [跟着AI重走2023中国科技之旅](https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80AI%E9%87%8D%E8%B5%B02023%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E4%B9%8B%E6%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [钟南山回应代言保健品广告](https://www.baidu.com/s?wd=%E9%92%9F%E5%8D%97%E5%B1%B1%E5%9B%9E%E5%BA%94%E4%BB%A3%E8%A8%80%E4%BF%9D%E5%81%A5%E5%93%81%E5%B9%BF%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [消失的“打工皇帝”](https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E7%9A%84%E2%80%9C%E6%89%93%E5%B7%A5%E7%9A%87%E5%B8%9D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [A股大涨](https://www.baidu.com/s?wd=A%E8%82%A1%E5%A4%A7%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [校方通报后勤人员辱骂打饭学生](https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E9%80%9A%E6%8A%A5%E5%90%8E%E5%8B%A4%E4%BA%BA%E5%91%98%E8%BE%B1%E9%AA%82%E6%89%93%E9%A5%AD%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [文心一言用户规模破1亿](https://www.baidu.com/s?wd=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80%E7%94%A8%E6%88%B7%E8%A7%84%E6%A8%A1%E7%A0%B41%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [捐给震区的羽绒服现身展销会？](https://www.baidu.com/s?wd=%E6%8D%90%E7%BB%99%E9%9C%87%E5%8C%BA%E7%9A%84%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%8E%B0%E8%BA%AB%E5%B1%95%E9%94%80%E4%BC%9A%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
