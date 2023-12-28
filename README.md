@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 20:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 20:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [康康都一米八了](https://s.weibo.com/weibo?q=%E5%BA%B7%E5%BA%B7%E9%83%BD%E4%B8%80%E7%B1%B3%E5%85%AB%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [姜涛全球最帅面孔第三](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%B6%9B%E5%85%A8%E7%90%83%E6%9C%80%E5%B8%85%E9%9D%A2%E5%AD%94%E7%AC%AC%E4%B8%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [退款不退货](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE%E4%B8%8D%E9%80%80%E8%B4%A7&t=31&band_rank=8&Refer=top)<br />
-9. [三孩非亲生案女方称DNA也不是100%准确](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%A5%B3%E6%96%B9%E7%A7%B0DNA%E4%B9%9F%E4%B8%8D%E6%98%AF100%25%E5%87%86%E7%A1%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [只有郑恺被拍成了东北大姨](https://s.weibo.com/weibo?q=%E5%8F%AA%E6%9C%89%E9%83%91%E6%81%BA%E8%A2%AB%E6%8B%8D%E6%88%90%E4%BA%86%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%A7%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
