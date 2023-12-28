@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 01:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 01:56:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [天天跺脚表情包](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%A4%A9%E8%B7%BA%E8%84%9A%E8%A1%A8%E6%83%85%E5%8C%85&t=31&band_rank=6&Refer=top)<br />
 7. [小米汽车价格](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BB%B7%E6%A0%BC&t=31&band_rank=7&Refer=top)<br />
 8. [papi酱 2023道歉信](https://s.weibo.com/weibo?q=papi%E9%85%B1%202023%E9%81%93%E6%AD%89%E4%BF%A1&t=31&band_rank=8&Refer=top)<br />
-9. [25至29岁年龄段未婚率超50%](https://s.weibo.com/weibo?q=%2325%E8%87%B329%E5%B2%81%E5%B9%B4%E9%BE%84%E6%AE%B5%E6%9C%AA%E5%A9%9A%E7%8E%87%E8%B6%8550%25%23&t=31&band_rank=9&Refer=top)<br />
+9. [向太宣布将出售耗时十年建成豪宅](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E5%AE%A3%E5%B8%83%E5%B0%86%E5%87%BA%E5%94%AE%E8%80%97%E6%97%B6%E5%8D%81%E5%B9%B4%E5%BB%BA%E6%88%90%E8%B1%AA%E5%AE%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
