@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 08:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 08:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [何猷君和奚梦瑶结婚后不装了](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E5%92%8C%E5%A5%9A%E6%A2%A6%E7%91%B6%E7%BB%93%E5%A9%9A%E5%90%8E%E4%B8%8D%E8%A3%85%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [冯小刚 肯定很多人愿等舒淇10年](https://s.weibo.com/weibo?q=%E5%86%AF%E5%B0%8F%E5%88%9A%20%E8%82%AF%E5%AE%9A%E5%BE%88%E5%A4%9A%E4%BA%BA%E6%84%BF%E7%AD%89%E8%88%92%E6%B7%8710%E5%B9%B4&t=31&band_rank=7&Refer=top)<br />
 8. [京东宣布采销等一线员工涨薪近100%](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E5%AE%A3%E5%B8%83%E9%87%87%E9%94%80%E7%AD%89%E4%B8%80%E7%BA%BF%E5%91%98%E5%B7%A5%E6%B6%A8%E8%96%AA%E8%BF%91100%25%23&t=31&band_rank=8&Refer=top)<br />
-9. [男生被教授催眠后眼睛无神](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%A2%AB%E6%95%99%E6%8E%88%E5%82%AC%E7%9C%A0%E5%90%8E%E7%9C%BC%E7%9D%9B%E6%97%A0%E7%A5%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [四川男子售卖自家26棵香樟判缓刑](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E7%94%B7%E5%AD%90%E5%94%AE%E5%8D%96%E8%87%AA%E5%AE%B626%E6%A3%B5%E9%A6%99%E6%A8%9F%E5%88%A4%E7%BC%93%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
