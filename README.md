@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 11:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 11:22:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [小白80万上海开面馆6天濒临倒闭](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%99%BD80%E4%B8%87%E4%B8%8A%E6%B5%B7%E5%BC%80%E9%9D%A2%E9%A6%866%E5%A4%A9%E6%BF%92%E4%B8%B4%E5%80%92%E9%97%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [繁花里的papi酱](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E9%87%8C%E7%9A%84papi%E9%85%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩媒曝李善均遗书内容](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E6%9B%9D%E6%9D%8E%E5%96%84%E5%9D%87%E9%81%97%E4%B9%A6%E5%86%85%E5%AE%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [繁花收视率](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=8&Refer=top)<br />
+8. [女生大学毕业卖烤猪月入3万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E5%8D%96%E7%83%A4%E7%8C%AA%E6%9C%88%E5%85%A53%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [吉利高管称小米汽车宣发过了](https://s.weibo.com/weibo?q=%23%E5%90%89%E5%88%A9%E9%AB%98%E7%AE%A1%E7%A7%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%AE%A3%E5%8F%91%E8%BF%87%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,8 +23,8 @@
 4. [消费“主引擎”动能强劲](https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E2%80%9C%E4%B8%BB%E5%BC%95%E6%93%8E%E2%80%9D%E5%8A%A8%E8%83%BD%E5%BC%BA%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [3娃非亲生案女方和别人生下第4女](https://www.baidu.com/s?wd=3%E5%A8%83%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%A5%B3%E6%96%B9%E5%92%8C%E5%88%AB%E4%BA%BA%E7%94%9F%E4%B8%8B%E7%AC%AC4%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小伙80万上海开面馆6天濒临倒闭](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%9980%E4%B8%87%E4%B8%8A%E6%B5%B7%E5%BC%80%E9%9D%A2%E9%A6%866%E5%A4%A9%E6%BF%92%E4%B8%B4%E5%80%92%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [一场下调房贷利率引发的风波](https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%BA%E4%B8%8B%E8%B0%83%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E5%BC%95%E5%8F%91%E7%9A%84%E9%A3%8E%E6%B3%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国14岁男孩为争夺礼物枪杀姐姐](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD14%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B8%BA%E4%BA%89%E5%A4%BA%E7%A4%BC%E7%89%A9%E6%9E%AA%E6%9D%80%E5%A7%90%E5%A7%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美国14岁男孩为争夺礼物枪杀姐姐](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD14%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B8%BA%E4%BA%89%E5%A4%BA%E7%A4%BC%E7%89%A9%E6%9E%AA%E6%9D%80%E5%A7%90%E5%A7%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [回顾年度十大幽默新闻](https://www.baidu.com/s?wd=%E5%9B%9E%E9%A1%BE%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7%E5%B9%BD%E9%BB%98%E6%96%B0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [捐赠震区羽绒服被倒卖系谣言](https://www.baidu.com/s?wd=%E6%8D%90%E8%B5%A0%E9%9C%87%E5%8C%BA%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A2%AB%E5%80%92%E5%8D%96%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [消费“主引擎”动能强劲](https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E2%80%9C%E4%B8%BB%E5%BC%95%E6%93%8E%E2%80%9D%E5%8A%A8%E8%83%BD%E5%BC%BA%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [3娃非亲生案女方和别人生下第4女](https://www.baidu.com/s?wd=3%E5%A8%83%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%A5%B3%E6%96%B9%E5%92%8C%E5%88%AB%E4%BA%BA%E7%94%9F%E4%B8%8B%E7%AC%AC4%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小伙80万上海开面馆6天濒临倒闭](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%9980%E4%B8%87%E4%B8%8A%E6%B5%B7%E5%BC%80%E9%9D%A2%E9%A6%866%E5%A4%A9%E6%BF%92%E4%B8%B4%E5%80%92%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [一场下调房贷利率引发的风波](https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%BA%E4%B8%8B%E8%B0%83%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E5%BC%95%E5%8F%91%E7%9A%84%E9%A3%8E%E6%B3%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国14岁男孩为争夺礼物枪杀姐姐](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD14%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B8%BA%E4%BA%89%E5%A4%BA%E7%A4%BC%E7%89%A9%E6%9E%AA%E6%9D%80%E5%A7%90%E5%A7%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美国14岁男孩为争夺礼物枪杀姐姐](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD14%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B8%BA%E4%BA%89%E5%A4%BA%E7%A4%BC%E7%89%A9%E6%9E%AA%E6%9D%80%E5%A7%90%E5%A7%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [回顾年度十大幽默新闻](https://www.baidu.com/s?wd=%E5%9B%9E%E9%A1%BE%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7%E5%B9%BD%E9%BB%98%E6%96%B0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [捐赠震区羽绒服被倒卖系谣言](https://www.baidu.com/s?wd=%E6%8D%90%E8%B5%A0%E9%9C%87%E5%8C%BA%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A2%AB%E5%80%92%E5%8D%96%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
