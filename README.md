@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 07:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 07:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [抗癌宝贝毅玲去世](https://s.weibo.com/weibo?q=%23%E6%8A%97%E7%99%8C%E5%AE%9D%E8%B4%9D%E6%AF%85%E7%8E%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [掉进眼睛的异物最后都去哪儿了](https://s.weibo.com/weibo?q=%E6%8E%89%E8%BF%9B%E7%9C%BC%E7%9D%9B%E7%9A%84%E5%BC%82%E7%89%A9%E6%9C%80%E5%90%8E%E9%83%BD%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [关晓彤虞书欣同框合照](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%90%8C%E6%A1%86%E5%90%88%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [25至29岁年龄段未婚率超50%](https://s.weibo.com/weibo?q=%2325%E8%87%B329%E5%B2%81%E5%B9%B4%E9%BE%84%E6%AE%B5%E6%9C%AA%E5%A9%9A%E7%8E%87%E8%B6%8550%25%23&t=31&band_rank=9&Refer=top)<br />
+9. [向太宣布将出售耗时十年建成豪宅](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E5%AE%A3%E5%B8%83%E5%B0%86%E5%87%BA%E5%94%AE%E8%80%97%E6%97%B6%E5%8D%81%E5%B9%B4%E5%BB%BA%E6%88%90%E8%B1%AA%E5%AE%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
