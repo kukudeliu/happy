@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 13:35:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 13:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [古茗莲花楼联名](https://s.weibo.com/weibo?q=%E5%8F%A4%E8%8C%97%E8%8E%B2%E8%8A%B1%E6%A5%BC%E8%81%94%E5%90%8D&t=31&band_rank=6&Refer=top)<br />
 7. [繁花居然是用单机位拍的](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E5%B1%85%E7%84%B6%E6%98%AF%E7%94%A8%E5%8D%95%E6%9C%BA%E4%BD%8D%E6%8B%8D%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [因病少上1天班没了年终奖](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E7%97%85%E5%B0%91%E4%B8%8A1%E5%A4%A9%E7%8F%AD%E6%B2%A1%E4%BA%86%E5%B9%B4%E7%BB%88%E5%A5%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [魅族称要成为小米首位车主](https://s.weibo.com/weibo?q=%23%E9%AD%85%E6%97%8F%E7%A7%B0%E8%A6%81%E6%88%90%E4%B8%BA%E5%B0%8F%E7%B1%B3%E9%A6%96%E4%BD%8D%E8%BD%A6%E4%B8%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [魅族CEO怼小米汽车](https://s.weibo.com/weibo?q=%23%E9%AD%85%E6%97%8FCEO%E6%80%BC%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
