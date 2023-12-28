@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 21:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-28 21:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [林一 妮妮](https://s.weibo.com/weibo?q=%E6%9E%97%E4%B8%80%20%E5%A6%AE%E5%A6%AE&t=31&band_rank=6&Refer=top)<br />
 7. [只有郑恺被拍成了东北大姨](https://s.weibo.com/weibo?q=%E5%8F%AA%E6%9C%89%E9%83%91%E6%81%BA%E8%A2%AB%E6%8B%8D%E6%88%90%E4%BA%86%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%A7%A8&t=31&band_rank=7&Refer=top)<br />
 8. [退款不退货](https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE%E4%B8%8D%E9%80%80%E8%B4%A7&t=31&band_rank=8&Refer=top)<br />
-9. [文在寅对李善均去世表示哀悼](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%9C%A8%E5%AF%85%E5%AF%B9%E6%9D%8E%E5%96%84%E5%9D%87%E5%8E%BB%E4%B8%96%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [周冬雨金莲花影后](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E9%87%91%E8%8E%B2%E8%8A%B1%E5%BD%B1%E5%90%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
