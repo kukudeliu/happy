@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 18:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 18:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [南方小土豆被东北大姨拉手手系围巾](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E8%A2%AB%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%A7%A8%E6%8B%89%E6%89%8B%E6%89%8B%E7%B3%BB%E5%9B%B4%E5%B7%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [中医不相信张远38岁了](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%8C%BB%E4%B8%8D%E7%9B%B8%E4%BF%A1%E5%BC%A0%E8%BF%9C38%E5%B2%81%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [小伙9年无偿献血20次](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%999%E5%B9%B4%E6%97%A0%E5%81%BF%E7%8C%AE%E8%A1%8020%E6%AC%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨迪吐槽的是哪个综艺](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%BF%AA%E5%90%90%E6%A7%BD%E7%9A%84%E6%98%AF%E5%93%AA%E4%B8%AA%E7%BB%BC%E8%89%BA&t=31&band_rank=8&Refer=top)<br />
-9. [董军任国防部部长](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%86%9B%E4%BB%BB%E5%9B%BD%E9%98%B2%E9%83%A8%E9%83%A8%E9%95%BF%23&t=31&band_rank=9&Refer=top)<br />
+8. [董军任国防部部长](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%86%9B%E4%BB%BB%E5%9B%BD%E9%98%B2%E9%83%A8%E9%83%A8%E9%95%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [杨迪吐槽的是哪个综艺](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%BF%AA%E5%90%90%E6%A7%BD%E7%9A%84%E6%98%AF%E5%93%AA%E4%B8%AA%E7%BB%BC%E8%89%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
