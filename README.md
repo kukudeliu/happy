@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 05:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 05:57:01</h4></div>
 
 > 微博  
 
-1. [图书馆30秒](https://s.weibo.com/weibo?q=%E5%9B%BE%E4%B9%A6%E9%A6%8630%E7%A7%92&t=31&band_rank=1&Refer=top)<br />
-2. [女子因不孕离婚后逃离家乡小城](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%A0%E4%B8%8D%E5%AD%95%E7%A6%BB%E5%A9%9A%E5%90%8E%E9%80%83%E7%A6%BB%E5%AE%B6%E4%B9%A1%E5%B0%8F%E5%9F%8E%23&t=31&band_rank=2&Refer=top)<br />
+1. [女子因不孕离婚后逃离家乡小城](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%A0%E4%B8%8D%E5%AD%95%E7%A6%BB%E5%A9%9A%E5%90%8E%E9%80%83%E7%A6%BB%E5%AE%B6%E4%B9%A1%E5%B0%8F%E5%9F%8E%23&t=31&band_rank=1&Refer=top)<br />
+2. [图书馆30秒](https://s.weibo.com/weibo?q=%E5%9B%BE%E4%B9%A6%E9%A6%8630%E7%A7%92&t=31&band_rank=2&Refer=top)<br />
 3. [2023这些凡人微光照亮前路](https://s.weibo.com/weibo?q=%232023%E8%BF%99%E4%BA%9B%E5%87%A1%E4%BA%BA%E5%BE%AE%E5%85%89%E7%85%A7%E4%BA%AE%E5%89%8D%E8%B7%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [我在2元店都不敢这么买](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9C%A82%E5%85%83%E5%BA%97%E9%83%BD%E4%B8%8D%E6%95%A2%E8%BF%99%E4%B9%88%E4%B9%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [官方通报一小区上百居民呕吐腹泻](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E5%B0%8F%E5%8C%BA%E4%B8%8A%E7%99%BE%E5%B1%85%E6%B0%91%E5%91%95%E5%90%90%E8%85%B9%E6%B3%BB%23&t=31&band_rank=5&Refer=top)<br />
