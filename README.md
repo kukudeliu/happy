@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 20:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 20:40:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [阿里被判赔京东10亿](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E8%A2%AB%E5%88%A4%E8%B5%94%E4%BA%AC%E4%B8%9C10%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [两家单位拒收人民币现金被罚](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%AE%B6%E5%8D%95%E4%BD%8D%E6%8B%92%E6%94%B6%E4%BA%BA%E6%B0%91%E5%B8%81%E7%8E%B0%E9%87%91%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [关晓彤cos甄嬛跳惊鸿舞](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4cos%E7%94%84%E5%AC%9B%E8%B7%B3%E6%83%8A%E9%B8%BF%E8%88%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘强东京东内网发声](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C%E4%BA%AC%E4%B8%9C%E5%86%85%E7%BD%91%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [中医不相信张远38岁了](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%8C%BB%E4%B8%8D%E7%9B%B8%E4%BF%A1%E5%BC%A0%E8%BF%9C38%E5%B2%81%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
