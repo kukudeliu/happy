@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 09:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 09:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小三最可恨了 但晚意一定有苦衷](https://s.weibo.com/weibo?q=%E5%B0%8F%E4%B8%89%E6%9C%80%E5%8F%AF%E6%81%A8%E4%BA%86%20%E4%BD%86%E6%99%9A%E6%84%8F%E4%B8%80%E5%AE%9A%E6%9C%89%E8%8B%A6%E8%A1%B7&t=31&band_rank=6&Refer=top)<br />
 7. [雷军致敬车企仅华为未回应](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%87%B4%E6%95%AC%E8%BD%A6%E4%BC%81%E4%BB%85%E5%8D%8E%E4%B8%BA%E6%9C%AA%E5%9B%9E%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [小米汽车价格](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BB%B7%E6%A0%BC&t=31&band_rank=8&Refer=top)<br />
-9. [papi酱 向电影市场道歉](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E5%90%91%E7%94%B5%E5%BD%B1%E5%B8%82%E5%9C%BA%E9%81%93%E6%AD%89&t=31&band_rank=9&Refer=top)<br />
+9. [82岁院士自曝每天熬夜到2点](https://s.weibo.com/weibo?q=%2382%E5%B2%81%E9%99%A2%E5%A3%AB%E8%87%AA%E6%9B%9D%E6%AF%8F%E5%A4%A9%E7%86%AC%E5%A4%9C%E5%88%B02%E7%82%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
