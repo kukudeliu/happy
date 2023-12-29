@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 20:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 20:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [阿里被判赔京东10亿](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E8%A2%AB%E5%88%A4%E8%B5%94%E4%BA%AC%E4%B8%9C10%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [两家单位拒收人民币现金被罚](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%AE%B6%E5%8D%95%E4%BD%8D%E6%8B%92%E6%94%B6%E4%BA%BA%E6%B0%91%E5%B8%81%E7%8E%B0%E9%87%91%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [董军任国防部部长](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%86%9B%E4%BB%BB%E5%9B%BD%E9%98%B2%E9%83%A8%E9%83%A8%E9%95%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [脱轨](https://s.weibo.com/weibo?q=%E8%84%B1%E8%BD%A8&t=31&band_rank=9&Refer=top)<br />
+9. [在北欧打工9年被同事举报1000次](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%8C%97%E6%AC%A7%E6%89%93%E5%B7%A59%E5%B9%B4%E8%A2%AB%E5%90%8C%E4%BA%8B%E4%B8%BE%E6%8A%A51000%E6%AC%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
