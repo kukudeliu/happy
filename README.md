@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 07:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 07:53:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [官方通报一小区上百居民呕吐腹泻](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E5%B0%8F%E5%8C%BA%E4%B8%8A%E7%99%BE%E5%B1%85%E6%B0%91%E5%91%95%E5%90%90%E8%85%B9%E6%B3%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [明年一定是个好年](https://s.weibo.com/weibo?q=%E6%98%8E%E5%B9%B4%E4%B8%80%E5%AE%9A%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%B9%B4&t=31&band_rank=5&Refer=top)<br />
 6. [图书馆30秒](https://s.weibo.com/weibo?q=%E5%9B%BE%E4%B9%A6%E9%A6%8630%E7%A7%92&t=31&band_rank=6&Refer=top)<br />
-7. [张晚意 最纯情的脸演最禁忌的爱](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%99%9A%E6%84%8F%20%E6%9C%80%E7%BA%AF%E6%83%85%E7%9A%84%E8%84%B8%E6%BC%94%E6%9C%80%E7%A6%81%E5%BF%8C%E7%9A%84%E7%88%B1&t=31&band_rank=7&Refer=top)<br />
-8. [被邻居投诉让我收走猫窝](https://s.weibo.com/weibo?q=%E8%A2%AB%E9%82%BB%E5%B1%85%E6%8A%95%E8%AF%89%E8%AE%A9%E6%88%91%E6%94%B6%E8%B5%B0%E7%8C%AB%E7%AA%9D&t=31&band_rank=8&Refer=top)<br />
-9. [鸣龙少年 癫剧](https://s.weibo.com/weibo?q=%E9%B8%A3%E9%BE%99%E5%B0%91%E5%B9%B4%20%E7%99%AB%E5%89%A7&t=31&band_rank=9&Refer=top)<br />
+7. [建议春晚给大学生一个赛道](https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E6%98%A5%E6%99%9A%E7%BB%99%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%80%E4%B8%AA%E8%B5%9B%E9%81%93&t=31&band_rank=7&Refer=top)<br />
+8. [张晚意 最纯情的脸演最禁忌的爱](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%99%9A%E6%84%8F%20%E6%9C%80%E7%BA%AF%E6%83%85%E7%9A%84%E8%84%B8%E6%BC%94%E6%9C%80%E7%A6%81%E5%BF%8C%E7%9A%84%E7%88%B1&t=31&band_rank=8&Refer=top)<br />
+9. [被邻居投诉让我收走猫窝](https://s.weibo.com/weibo?q=%E8%A2%AB%E9%82%BB%E5%B1%85%E6%8A%95%E8%AF%89%E8%AE%A9%E6%88%91%E6%94%B6%E8%B5%B0%E7%8C%AB%E7%AA%9D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
