@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 15:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 15:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [何炅居然是i人](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E5%B1%85%E7%84%B6%E6%98%AFi%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [对线下追星没什么欲望](https://s.weibo.com/weibo?q=%E5%AF%B9%E7%BA%BF%E4%B8%8B%E8%BF%BD%E6%98%9F%E6%B2%A1%E4%BB%80%E4%B9%88%E6%AC%B2%E6%9C%9B&t=31&band_rank=7&Refer=top)<br />
 8. [2024年全国两会召开时间](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E5%8F%AC%E5%BC%80%E6%97%B6%E9%97%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子急诊科猝死家属质疑护士玩手机](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%80%A5%E8%AF%8A%E7%A7%91%E7%8C%9D%E6%AD%BB%E5%AE%B6%E5%B1%9E%E8%B4%A8%E7%96%91%E6%8A%A4%E5%A3%AB%E7%8E%A9%E6%89%8B%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [山西一小区上百人中毒](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%B8%80%E5%B0%8F%E5%8C%BA%E4%B8%8A%E7%99%BE%E4%BA%BA%E4%B8%AD%E6%AF%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
