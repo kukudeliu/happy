@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 22:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 22:47:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [明年一定是个好年](https://s.weibo.com/weibo?q=%E6%98%8E%E5%B9%B4%E4%B8%80%E5%AE%9A%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%B9%B4&t=31&band_rank=5&Refer=top)<br />
 6. [易建联说我回来了](https://s.weibo.com/weibo?q=%23%E6%98%93%E5%BB%BA%E8%81%94%E8%AF%B4%E6%88%91%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [陌生人发来的晚安](https://s.weibo.com/weibo?q=%23%E9%99%8C%E7%94%9F%E4%BA%BA%E5%8F%91%E6%9D%A5%E7%9A%84%E6%99%9A%E5%AE%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [图书馆30秒 平等发生在每个人身上](https://s.weibo.com/weibo?q=%E5%9B%BE%E4%B9%A6%E9%A6%8630%E7%A7%92%20%E5%B9%B3%E7%AD%89%E5%8F%91%E7%94%9F%E5%9C%A8%E6%AF%8F%E4%B8%AA%E4%BA%BA%E8%BA%AB%E4%B8%8A&t=31&band_rank=8&Refer=top)<br />
-9. [张杰天下炸场](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%A4%A9%E4%B8%8B%E7%82%B8%E5%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [张杰天下炸场](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%A4%A9%E4%B8%8B%E7%82%B8%E5%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [图书馆30秒 平等发生在每个人身上](https://s.weibo.com/weibo?q=%E5%9B%BE%E4%B9%A6%E9%A6%8630%E7%A7%92%20%E5%B9%B3%E7%AD%89%E5%8F%91%E7%94%9F%E5%9C%A8%E6%AF%8F%E4%B8%AA%E4%BA%BA%E8%BA%AB%E4%B8%8A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
