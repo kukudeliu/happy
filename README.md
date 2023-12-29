@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 11:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 11:18:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [心连百姓 情系人民](https://www.baidu.com/s?wd=%E5%BF%83%E8%BF%9E%E7%99%BE%E5%A7%93+%E6%83%85%E7%B3%BB%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [担负起新的文化使命](https://www.baidu.com/s?wd=%E6%8B%85%E8%B4%9F%E8%B5%B7%E6%96%B0%E7%9A%84%E6%96%87%E5%8C%96%E4%BD%BF%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [2023年最后一个工作日](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%B7%A5%E4%BD%9C%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [最高级别大雾红色预警发布](https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E7%BA%A7%E5%88%AB%E5%A4%A7%E9%9B%BE%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2023 这一刻](https://www.baidu.com/s?wd=2023+%E8%BF%99%E4%B8%80%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [心连百姓 情系人民](https://www.baidu.com/s?wd=%E5%BF%83%E8%BF%9E%E7%99%BE%E5%A7%93+%E6%83%85%E7%B3%BB%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [担负起新的文化使命](https://www.baidu.com/s?wd=%E6%8B%85%E8%B4%9F%E8%B5%B7%E6%96%B0%E7%9A%84%E6%96%87%E5%8C%96%E4%BD%BF%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [2023年最后一个工作日](https://www.baidu.com/s?wd=2023%E5%B9%B4%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%B7%A5%E4%BD%9C%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [最高级别大雾红色预警发布](https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E7%BA%A7%E5%88%AB%E5%A4%A7%E9%9B%BE%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2023 这一刻](https://www.baidu.com/s?wd=2023+%E8%BF%99%E4%B8%80%E5%88%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
