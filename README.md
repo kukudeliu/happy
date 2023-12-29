@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 05:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 05:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵灵儿曲布等多名百万粉丝网红被判刑](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%81%B5%E5%84%BF%E6%9B%B2%E5%B8%83%E7%AD%89%E5%A4%9A%E5%90%8D%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E8%A2%AB%E5%88%A4%E5%88%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [明年一定是个好年](https://s.weibo.com/weibo?q=%E6%98%8E%E5%B9%B4%E4%B8%80%E5%AE%9A%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%B9%B4&t=31&band_rank=7&Refer=top)<br />
 8. [阿里被判赔京东10亿](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E8%A2%AB%E5%88%A4%E8%B5%94%E4%BA%AC%E4%B8%9C10%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [第一眼见就不对劲的人](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E7%9C%BC%E8%A7%81%E5%B0%B1%E4%B8%8D%E5%AF%B9%E5%8A%B2%E7%9A%84%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
+9. [官方通报一小区上百居民呕吐腹泻](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E5%B0%8F%E5%8C%BA%E4%B8%8A%E7%99%BE%E5%B1%85%E6%B0%91%E5%91%95%E5%90%90%E8%85%B9%E6%B3%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
