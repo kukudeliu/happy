@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 09:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 09:53:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小三最可恨了 但晚意一定有苦衷](https://s.weibo.com/weibo?q=%E5%B0%8F%E4%B8%89%E6%9C%80%E5%8F%AF%E6%81%A8%E4%BA%86%20%E4%BD%86%E6%99%9A%E6%84%8F%E4%B8%80%E5%AE%9A%E6%9C%89%E8%8B%A6%E8%A1%B7&t=31&band_rank=6&Refer=top)<br />
 7. [早睡1小时有哪些好处](https://s.weibo.com/weibo?q=%23%E6%97%A9%E7%9D%A11%E5%B0%8F%E6%97%B6%E6%9C%89%E5%93%AA%E4%BA%9B%E5%A5%BD%E5%A4%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [雷军致敬车企仅华为未回应](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%87%B4%E6%95%AC%E8%BD%A6%E4%BC%81%E4%BB%85%E5%8D%8E%E4%B8%BA%E6%9C%AA%E5%9B%9E%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [papi酱 向电影市场道歉](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E5%90%91%E7%94%B5%E5%BD%B1%E5%B8%82%E5%9C%BA%E9%81%93%E6%AD%89&t=31&band_rank=9&Refer=top)<br />
+9. [东莞业主600万买96平房现280万没人要](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%8E%9E%E4%B8%9A%E4%B8%BB600%E4%B8%87%E4%B9%B096%E5%B9%B3%E6%88%BF%E7%8E%B0280%E4%B8%87%E6%B2%A1%E4%BA%BA%E8%A6%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
