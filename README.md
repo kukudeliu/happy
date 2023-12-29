@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 22:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 22:27:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [内娱出圈新人TOP1](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%87%BA%E5%9C%88%E6%96%B0%E4%BA%BATOP1%23&t=31&band_rank=5&Refer=top)<br />
 6. [王博](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8D%9A&t=31&band_rank=6&Refer=top)<br />
 7. [肖战直播](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E7%9B%B4%E6%92%AD&t=31&band_rank=7&Refer=top)<br />
-8. [阿里被判赔京东10亿](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E8%A2%AB%E5%88%A4%E8%B5%94%E4%BA%AC%E4%B8%9C10%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [图书馆30秒](https://s.weibo.com/weibo?q=%E5%9B%BE%E4%B9%A6%E9%A6%8630%E7%A7%92&t=31&band_rank=9&Refer=top)<br />
+8. [图书馆30秒](https://s.weibo.com/weibo?q=%E5%9B%BE%E4%B9%A6%E9%A6%8630%E7%A7%92&t=31&band_rank=8&Refer=top)<br />
+9. [阿里被判赔京东10亿](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E8%A2%AB%E5%88%A4%E8%B5%94%E4%BA%AC%E4%B8%9C10%E4%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
