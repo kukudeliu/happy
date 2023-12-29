@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 23:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 23:17:01</h4></div>
 
 > 微博  
 
 1. [图书馆30秒](https://s.weibo.com/weibo?q=%E5%9B%BE%E4%B9%A6%E9%A6%8630%E7%A7%92&t=31&band_rank=1&Refer=top)<br />
 2. [明年一定是个好年](https://s.weibo.com/weibo?q=%E6%98%8E%E5%B9%B4%E4%B8%80%E5%AE%9A%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%B9%B4&t=31&band_rank=2&Refer=top)<br />
-3. [元旦假期全国大部天气晴好适宜出行](https://s.weibo.com/weibo?q=%23%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E5%85%A8%E5%9B%BD%E5%A4%A7%E9%83%A8%E5%A4%A9%E6%B0%94%E6%99%B4%E5%A5%BD%E9%80%82%E5%AE%9C%E5%87%BA%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
+3. [2023这些凡人微光照亮前路](https://s.weibo.com/weibo?q=%232023%E8%BF%99%E4%BA%9B%E5%87%A1%E4%BA%BA%E5%BE%AE%E5%85%89%E7%85%A7%E4%BA%AE%E5%89%8D%E8%B7%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [鸣龙少年 癫剧](https://s.weibo.com/weibo?q=%E9%B8%A3%E9%BE%99%E5%B0%91%E5%B9%B4%20%E7%99%AB%E5%89%A7&t=31&band_rank=4&Refer=top)<br />
 5. [宋佳演的张桂梅校长](https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BD%B3%E6%BC%94%E7%9A%84%E5%BC%A0%E6%A1%82%E6%A2%85%E6%A0%A1%E9%95%BF&t=31&band_rank=5&Refer=top)<br />
 6. [张杰天下炸场](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%A4%A9%E4%B8%8B%E7%82%B8%E5%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
