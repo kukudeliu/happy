@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 05:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 05:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [阿里被判赔京东10亿](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E8%A2%AB%E5%88%A4%E8%B5%94%E4%BA%AC%E4%B8%9C10%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子因不孕离婚后逃离家乡小城](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%A0%E4%B8%8D%E5%AD%95%E7%A6%BB%E5%A9%9A%E5%90%8E%E9%80%83%E7%A6%BB%E5%AE%B6%E4%B9%A1%E5%B0%8F%E5%9F%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [明年一定是个好年](https://s.weibo.com/weibo?q=%E6%98%8E%E5%B9%B4%E4%B8%80%E5%AE%9A%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
-9. [第一眼见就不对劲的人](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E7%9C%BC%E8%A7%81%E5%B0%B1%E4%B8%8D%E5%AF%B9%E5%8A%B2%E7%9A%84%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
+9. [鸣龙少年 癫剧](https://s.weibo.com/weibo?q=%E9%B8%A3%E9%BE%99%E5%B0%91%E5%B9%B4%20%E7%99%AB%E5%89%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
