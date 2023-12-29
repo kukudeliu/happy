@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 08:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 08:36:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [00后真的没有人情世故](https://www.baidu.com/s?wd=00%E5%90%8E%E7%9C%9F%E7%9A%84%E6%B2%A1%E6%9C%89%E4%BA%BA%E6%83%85%E4%B8%96%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子离职后把手机静音1年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E8%81%8C%E5%90%8E%E6%8A%8A%E6%89%8B%E6%9C%BA%E9%9D%99%E9%9F%B31%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [最高级别大雾红色预警发布](https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E7%BA%A7%E5%88%AB%E5%A4%A7%E9%9B%BE%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新疆沙漠现雾凇奇观](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%B2%99%E6%BC%A0%E7%8E%B0%E9%9B%BE%E5%87%87%E5%A5%87%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [扫雪铲当画笔 俄罗斯清洁工走红](https://www.baidu.com/s?wd=%E6%89%AB%E9%9B%AA%E9%93%B2%E5%BD%93%E7%94%BB%E7%AC%94+%E4%BF%84%E7%BD%97%E6%96%AF%E6%B8%85%E6%B4%81%E5%B7%A5%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [贴身衣物穿黑色更容易得癌症？](https://www.baidu.com/s?wd=%E8%B4%B4%E8%BA%AB%E8%A1%A3%E7%89%A9%E7%A9%BF%E9%BB%91%E8%89%B2%E6%9B%B4%E5%AE%B9%E6%98%93%E5%BE%97%E7%99%8C%E7%97%87%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [00后真的没有人情世故](https://www.baidu.com/s?wd=00%E5%90%8E%E7%9C%9F%E7%9A%84%E6%B2%A1%E6%9C%89%E4%BA%BA%E6%83%85%E4%B8%96%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子离职后把手机静音1年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E8%81%8C%E5%90%8E%E6%8A%8A%E6%89%8B%E6%9C%BA%E9%9D%99%E9%9F%B31%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [最高级别大雾红色预警发布](https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E7%BA%A7%E5%88%AB%E5%A4%A7%E9%9B%BE%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新疆沙漠现雾凇奇观](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%B2%99%E6%BC%A0%E7%8E%B0%E9%9B%BE%E5%87%87%E5%A5%87%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [扫雪铲当画笔 俄罗斯清洁工走红](https://www.baidu.com/s?wd=%E6%89%AB%E9%9B%AA%E9%93%B2%E5%BD%93%E7%94%BB%E7%AC%94+%E4%BF%84%E7%BD%97%E6%96%AF%E6%B8%85%E6%B4%81%E5%B7%A5%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [贴身衣物穿黑色更容易得癌症？](https://www.baidu.com/s?wd=%E8%B4%B4%E8%BA%AB%E8%A1%A3%E7%89%A9%E7%A9%BF%E9%BB%91%E8%89%B2%E6%9B%B4%E5%AE%B9%E6%98%93%E5%BE%97%E7%99%8C%E7%97%87%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
