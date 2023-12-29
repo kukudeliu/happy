@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 10:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 10:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [上海宝格丽酒店跨年夜房费高达30余万](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%AE%9D%E6%A0%BC%E4%B8%BD%E9%85%92%E5%BA%97%E8%B7%A8%E5%B9%B4%E5%A4%9C%E6%88%BF%E8%B4%B9%E9%AB%98%E8%BE%BE30%E4%BD%99%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [地铁帅哥](https://s.weibo.com/weibo?q=%E5%9C%B0%E9%93%81%E5%B8%85%E5%93%A5&t=31&band_rank=7&Refer=top)<br />
 8. [东莞业主600万买96平房现280万没人要](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%8E%9E%E4%B8%9A%E4%B8%BB600%E4%B8%87%E4%B9%B096%E5%B9%B3%E6%88%BF%E7%8E%B0280%E4%B8%87%E6%B2%A1%E4%BA%BA%E8%A6%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子离职后把手机静音1年](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A6%BB%E8%81%8C%E5%90%8E%E6%8A%8A%E6%89%8B%E6%9C%BA%E9%9D%99%E9%9F%B31%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [南方小土豆想吃麻辣烫司机动用人脉打听](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E6%83%B3%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%8F%B8%E6%9C%BA%E5%8A%A8%E7%94%A8%E4%BA%BA%E8%84%89%E6%89%93%E5%90%AC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
