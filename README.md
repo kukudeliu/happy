@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 04:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 04:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [阿里被判赔京东10亿](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E8%A2%AB%E5%88%A4%E8%B5%94%E4%BA%AC%E4%B8%9C10%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [鸣龙少年 癫剧](https://s.weibo.com/weibo?q=%E9%B8%A3%E9%BE%99%E5%B0%91%E5%B9%B4%20%E7%99%AB%E5%89%A7&t=31&band_rank=7&Refer=top)<br />
 8. [被邻居投诉让我收走猫窝](https://s.weibo.com/weibo?q=%E8%A2%AB%E9%82%BB%E5%B1%85%E6%8A%95%E8%AF%89%E8%AE%A9%E6%88%91%E6%94%B6%E8%B5%B0%E7%8C%AB%E7%AA%9D&t=31&band_rank=8&Refer=top)<br />
-9. [易建联说我回来了](https://s.weibo.com/weibo?q=%23%E6%98%93%E5%BB%BA%E8%81%94%E8%AF%B4%E6%88%91%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [全国人民代表大会常务委员会公告](https://s.weibo.com/weibo?q=%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%AC%E5%91%8A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
