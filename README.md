@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 21:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-29 21:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [阿里被判赔京东10亿](https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E8%A2%AB%E5%88%A4%E8%B5%94%E4%BA%AC%E4%B8%9C10%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [KARINA中国首封](https://s.weibo.com/weibo?q=%23KARINA%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%B0%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [内娱出圈新人TOP1](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%87%BA%E5%9C%88%E6%96%B0%E4%BA%BATOP1%23&t=31&band_rank=8&Refer=top)<br />
-9. [支原体肺炎明显症状 爆咳](https://s.weibo.com/weibo?q=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%8E%E6%98%BE%E7%97%87%E7%8A%B6%20%E7%88%86%E5%92%B3&t=31&band_rank=9&Refer=top)<br />
+9. [中医不相信张远38岁了](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%8C%BB%E4%B8%8D%E7%9B%B8%E4%BF%A1%E5%BC%A0%E8%BF%9C38%E5%B2%81%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
