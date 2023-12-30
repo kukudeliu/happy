@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 14:00:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 14:01:02</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [告别2023写给自己的话](https://s.weibo.com/weibo?q=%23%E5%91%8A%E5%88%AB2023%E5%86%99%E7%BB%99%E8%87%AA%E5%B7%B1%E7%9A%84%E8%AF%9D%23&t=31&band_rank=3&Refer=top)<br />
 4. [王诗龄 天天你刚才是发疯了吗](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%AF%97%E9%BE%84%20%E5%A4%A9%E5%A4%A9%E4%BD%A0%E5%88%9A%E6%89%8D%E6%98%AF%E5%8F%91%E7%96%AF%E4%BA%86%E5%90%97&t=31&band_rank=4&Refer=top)<br />
 5. [胡歌床上抽烟镜头](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%E5%BA%8A%E4%B8%8A%E6%8A%BD%E7%83%9F%E9%95%9C%E5%A4%B4&t=31&band_rank=5&Refer=top)<br />
-6. [古茗 做不完根本做不完](https://s.weibo.com/weibo?q=%E5%8F%A4%E8%8C%97%20%E5%81%9A%E4%B8%8D%E5%AE%8C%E6%A0%B9%E6%9C%AC%E5%81%9A%E4%B8%8D%E5%AE%8C&t=31&band_rank=6&Refer=top)<br />
-7. [央视前名嘴段暄行贿逾950万元](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E5%89%8D%E5%90%8D%E5%98%B4%E6%AE%B5%E6%9A%84%E8%A1%8C%E8%B4%BF%E9%80%BE950%E4%B8%87%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [燃油费这么贵飞机烧的是什么油](https://s.weibo.com/weibo?q=%23%E7%87%83%E6%B2%B9%E8%B4%B9%E8%BF%99%E4%B9%88%E8%B4%B5%E9%A3%9E%E6%9C%BA%E7%83%A7%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%E6%B2%B9%23&t=31&band_rank=8&Refer=top)<br />
+6. [燃油费这么贵飞机烧的是什么油](https://s.weibo.com/weibo?q=%23%E7%87%83%E6%B2%B9%E8%B4%B9%E8%BF%99%E4%B9%88%E8%B4%B5%E9%A3%9E%E6%9C%BA%E7%83%A7%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%E6%B2%B9%23&t=31&band_rank=6&Refer=top)<br />
+7. [古茗 做不完根本做不完](https://s.weibo.com/weibo?q=%E5%8F%A4%E8%8C%97%20%E5%81%9A%E4%B8%8D%E5%AE%8C%E6%A0%B9%E6%9C%AC%E5%81%9A%E4%B8%8D%E5%AE%8C&t=31&band_rank=7&Refer=top)<br />
+8. [央视前名嘴段暄行贿逾950万元](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E5%89%8D%E5%90%8D%E5%98%B4%E6%AE%B5%E6%9A%84%E8%A1%8C%E8%B4%BF%E9%80%BE950%E4%B8%87%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [肖战张婧仪开机路透](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%BC%80%E6%9C%BA%E8%B7%AF%E9%80%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
