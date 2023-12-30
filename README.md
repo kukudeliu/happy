@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 10:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 10:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [何蓝逗有呼吸性碱中毒](https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%93%9D%E9%80%97%E6%9C%89%E5%91%BC%E5%90%B8%E6%80%A7%E7%A2%B1%E4%B8%AD%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [藏海传开机](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E4%BC%A0%E5%BC%80%E6%9C%BA&t=31&band_rank=7&Refer=top)<br />
 8. [鼻炎 腋下夹空塑料瓶](https://s.weibo.com/weibo?q=%E9%BC%BB%E7%82%8E%20%E8%85%8B%E4%B8%8B%E5%A4%B9%E7%A9%BA%E5%A1%91%E6%96%99%E7%93%B6&t=31&band_rank=8&Refer=top)<br />
-9. [弃港大选北大女孩刘丁宁现状](https://s.weibo.com/weibo?q=%23%E5%BC%83%E6%B8%AF%E5%A4%A7%E9%80%89%E5%8C%97%E5%A4%A7%E5%A5%B3%E5%AD%A9%E5%88%98%E4%B8%81%E5%AE%81%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [我在2元店都不敢这么买](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9C%A82%E5%85%83%E5%BA%97%E9%83%BD%E4%B8%8D%E6%95%A2%E8%BF%99%E4%B9%88%E4%B9%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
