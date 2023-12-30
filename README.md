@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 19:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 19:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [下雪场 尴尬](https://s.weibo.com/weibo?q=%E4%B8%8B%E9%9B%AA%E5%9C%BA%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=6&Refer=top)<br />
 7. [王诗龄 天天你刚才是发疯了吗](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%AF%97%E9%BE%84%20%E5%A4%A9%E5%A4%A9%E4%BD%A0%E5%88%9A%E6%89%8D%E6%98%AF%E5%8F%91%E7%96%AF%E4%BA%86%E5%90%97&t=31&band_rank=7&Refer=top)<br />
 8. [央视2024跨年晚会官宣](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%862024%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [卡琳娜更新动态](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E7%90%B3%E5%A8%9C%E6%9B%B4%E6%96%B0%E5%8A%A8%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [张万森 局部暴雪了](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%B8%87%E6%A3%AE%20%E5%B1%80%E9%83%A8%E6%9A%B4%E9%9B%AA%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
