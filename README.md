@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 21:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 21:17:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [王诗龄 天天你刚才是发疯了吗](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%AF%97%E9%BE%84%20%E5%A4%A9%E5%A4%A9%E4%BD%A0%E5%88%9A%E6%89%8D%E6%98%AF%E5%8F%91%E7%96%AF%E4%BA%86%E5%90%97&t=31&band_rank=5&Refer=top)<br />
 6. [下雪场 尴尬](https://s.weibo.com/weibo?q=%E4%B8%8B%E9%9B%AA%E5%9C%BA%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=6&Refer=top)<br />
 7. [娜扎小学被爸爸剃光头](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E5%B0%8F%E5%AD%A6%E8%A2%AB%E7%88%B8%E7%88%B8%E5%89%83%E5%85%89%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
-8. [一等功喜报到家他和家人却不能露脸](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AD%89%E5%8A%9F%E5%96%9C%E6%8A%A5%E5%88%B0%E5%AE%B6%E4%BB%96%E5%92%8C%E5%AE%B6%E4%BA%BA%E5%8D%B4%E4%B8%8D%E8%83%BD%E9%9C%B2%E8%84%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [跨年怎么过](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4%E6%80%8E%E4%B9%88%E8%BF%87&t=31&band_rank=9&Refer=top)<br />
+8. [AG对战WB](https://s.weibo.com/weibo?q=%23AG%E5%AF%B9%E6%88%98WB%23&t=31&band_rank=8&Refer=top)<br />
+9. [一等功喜报到家他和家人却不能露脸](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AD%89%E5%8A%9F%E5%96%9C%E6%8A%A5%E5%88%B0%E5%AE%B6%E4%BB%96%E5%92%8C%E5%AE%B6%E4%BA%BA%E5%8D%B4%E4%B8%8D%E8%83%BD%E9%9C%B2%E8%84%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
