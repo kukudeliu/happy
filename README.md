@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 13:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 13:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [新人演员陈学冬](https://s.weibo.com/weibo?q=%E6%96%B0%E4%BA%BA%E6%BC%94%E5%91%98%E9%99%88%E5%AD%A6%E5%86%AC&t=31&band_rank=6&Refer=top)<br />
 7. [肖战张婧仪开机路透](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%BC%80%E6%9C%BA%E8%B7%AF%E9%80%8F&t=31&band_rank=7&Refer=top)<br />
 8. [姑姑把所有好脾气都留给了我](https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A7%91%E6%8A%8A%E6%89%80%E6%9C%89%E5%A5%BD%E8%84%BE%E6%B0%94%E9%83%BD%E7%95%99%E7%BB%99%E4%BA%86%E6%88%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [一闪一闪亮星星](https://s.weibo.com/weibo?q=%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F&t=31&band_rank=9&Refer=top)<br />
+9. [张万森撑伞](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%B8%87%E6%A3%AE%E6%92%91%E4%BC%9E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
