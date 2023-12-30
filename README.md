@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 08:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 08:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [图书馆30秒](https://s.weibo.com/weibo?q=%E5%9B%BE%E4%B9%A6%E9%A6%8630%E7%A7%92&t=31&band_rank=6&Refer=top)<br />
 7. [建议春晚给大学生一个赛道](https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E6%98%A5%E6%99%9A%E7%BB%99%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%80%E4%B8%AA%E8%B5%9B%E9%81%93&t=31&band_rank=7&Refer=top)<br />
 8. [官方通报一小区上百居民呕吐腹泻](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E5%B0%8F%E5%8C%BA%E4%B8%8A%E7%99%BE%E5%B1%85%E6%B0%91%E5%91%95%E5%90%90%E8%85%B9%E6%B3%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [明年一定是个好年](https://s.weibo.com/weibo?q=%E6%98%8E%E5%B9%B4%E4%B8%80%E5%AE%9A%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%B9%B4&t=31&band_rank=9&Refer=top)<br />
+9. [船长下令斩断价值10多万的蟹笼救下16人](https://s.weibo.com/weibo?q=%23%E8%88%B9%E9%95%BF%E4%B8%8B%E4%BB%A4%E6%96%A9%E6%96%AD%E4%BB%B7%E5%80%BC10%E5%A4%9A%E4%B8%87%E7%9A%84%E8%9F%B9%E7%AC%BC%E6%95%91%E4%B8%8B16%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
