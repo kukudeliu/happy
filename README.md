@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 21:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 21:32:02</h4></div>
 
 > 微博  
 
 1. [AG进入赛点](https://s.weibo.com/weibo?q=%23AG%E8%BF%9B%E5%85%A5%E8%B5%9B%E7%82%B9%23&t=31&band_rank=1&Refer=top)<br />
 2. [AG对战WB](https://s.weibo.com/weibo?q=%23AG%E5%AF%B9%E6%88%98WB%23&t=31&band_rank=2&Refer=top)<br />
 3. [来自光年之外的新年祝福](https://s.weibo.com/weibo?q=%23%E6%9D%A5%E8%87%AA%E5%85%89%E5%B9%B4%E4%B9%8B%E5%A4%96%E7%9A%84%E6%96%B0%E5%B9%B4%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=3&Refer=top)<br />
-4. [吴京会把酒砸向MOSS并说新年快乐](https://s.weibo.com/weibo?q=%E5%90%B4%E4%BA%AC%E4%BC%9A%E6%8A%8A%E9%85%92%E7%A0%B8%E5%90%91MOSS%E5%B9%B6%E8%AF%B4%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&t=31&band_rank=4&Refer=top)<br />
-5. [太原地震](https://s.weibo.com/weibo?q=%E5%A4%AA%E5%8E%9F%E5%9C%B0%E9%9C%87&t=31&band_rank=5&Refer=top)<br />
-6. [王诗龄 天天你刚才是发疯了吗](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%AF%97%E9%BE%84%20%E5%A4%A9%E5%A4%A9%E4%BD%A0%E5%88%9A%E6%89%8D%E6%98%AF%E5%8F%91%E7%96%AF%E4%BA%86%E5%90%97&t=31&band_rank=6&Refer=top)<br />
-7. [中国留学生在美寄宿家庭被强行掳走](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E7%BE%8E%E5%AF%84%E5%AE%BF%E5%AE%B6%E5%BA%AD%E8%A2%AB%E5%BC%BA%E8%A1%8C%E6%8E%B3%E8%B5%B0%23&t=31&band_rank=7&Refer=top)<br />
-8. [张万森你现在没有遗憾了吧](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%B8%87%E6%A3%AE%E4%BD%A0%E7%8E%B0%E5%9C%A8%E6%B2%A1%E6%9C%89%E9%81%97%E6%86%BE%E4%BA%86%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
-9. [娜扎小学被爸爸剃光头](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E5%B0%8F%E5%AD%A6%E8%A2%AB%E7%88%B8%E7%88%B8%E5%89%83%E5%85%89%E5%A4%B4&t=31&band_rank=9&Refer=top)<br />
+4. [AG冠军](https://s.weibo.com/weibo?q=AG%E5%86%A0%E5%86%9B&t=31&band_rank=4&Refer=top)<br />
+5. [吴京会把酒砸向MOSS并说新年快乐](https://s.weibo.com/weibo?q=%E5%90%B4%E4%BA%AC%E4%BC%9A%E6%8A%8A%E9%85%92%E7%A0%B8%E5%90%91MOSS%E5%B9%B6%E8%AF%B4%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&t=31&band_rank=5&Refer=top)<br />
+6. [太原地震](https://s.weibo.com/weibo?q=%E5%A4%AA%E5%8E%9F%E5%9C%B0%E9%9C%87&t=31&band_rank=6&Refer=top)<br />
+7. [王诗龄 天天你刚才是发疯了吗](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%AF%97%E9%BE%84%20%E5%A4%A9%E5%A4%A9%E4%BD%A0%E5%88%9A%E6%89%8D%E6%98%AF%E5%8F%91%E7%96%AF%E4%BA%86%E5%90%97&t=31&band_rank=7&Refer=top)<br />
+8. [中国留学生在美寄宿家庭被强行掳走](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E7%BE%8E%E5%AF%84%E5%AE%BF%E5%AE%B6%E5%BA%AD%E8%A2%AB%E5%BC%BA%E8%A1%8C%E6%8E%B3%E8%B5%B0%23&t=31&band_rank=8&Refer=top)<br />
+9. [张万森你现在没有遗憾了吧](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%B8%87%E6%A3%AE%E4%BD%A0%E7%8E%B0%E5%9C%A8%E6%B2%A1%E6%9C%89%E9%81%97%E6%86%BE%E4%BA%86%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
