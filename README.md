@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 20:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 20:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [林一说有韩国公司找过他](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B8%80%E8%AF%B4%E6%9C%89%E9%9F%A9%E5%9B%BD%E5%85%AC%E5%8F%B8%E6%89%BE%E8%BF%87%E4%BB%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [张万森 局部暴雪了](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%B8%87%E6%A3%AE%20%E5%B1%80%E9%83%A8%E6%9A%B4%E9%9B%AA%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [一等功喜报到家他和家人却不能露脸](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AD%89%E5%8A%9F%E5%96%9C%E6%8A%A5%E5%88%B0%E5%AE%B6%E4%BB%96%E5%92%8C%E5%AE%B6%E4%BA%BA%E5%8D%B4%E4%B8%8D%E8%83%BD%E9%9C%B2%E8%84%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [阿根廷正式拒绝加入金砖国家](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%AD%A3%E5%BC%8F%E6%8B%92%E7%BB%9D%E5%8A%A0%E5%85%A5%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [盗墓笔记](https://s.weibo.com/weibo?q=%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
