@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 17:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [央视2024跨年晚会官宣](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%862024%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E5%AE%98%E5%AE%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [张万森撑伞](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%B8%87%E6%A3%AE%E6%92%91%E4%BC%9E&t=31&band_rank=7&Refer=top)<br />
 8. [张常宁上场了](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B8%B8%E5%AE%81%E4%B8%8A%E5%9C%BA%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [饱满后脑勺发型](https://s.weibo.com/weibo?q=%E9%A5%B1%E6%BB%A1%E5%90%8E%E8%84%91%E5%8B%BA%E5%8F%91%E5%9E%8B&t=31&band_rank=9&Refer=top)<br />
+9. [姥姥摔倒起不来一岁多萌娃哭着求助](https://s.weibo.com/weibo?q=%23%E5%A7%A5%E5%A7%A5%E6%91%94%E5%80%92%E8%B5%B7%E4%B8%8D%E6%9D%A5%E4%B8%80%E5%B2%81%E5%A4%9A%E8%90%8C%E5%A8%83%E5%93%AD%E7%9D%80%E6%B1%82%E5%8A%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
