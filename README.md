@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 09:42:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 09:43:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [人民日报评禁放烟花](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%A6%81%E6%94%BE%E7%83%9F%E8%8A%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [藏海传开机](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E4%BC%A0%E5%BC%80%E6%9C%BA&t=31&band_rank=6&Refer=top)<br />
 7. [弃港大选北大女孩刘丁宁现状](https://s.weibo.com/weibo?q=%23%E5%BC%83%E6%B8%AF%E5%A4%A7%E9%80%89%E5%8C%97%E5%A4%A7%E5%A5%B3%E5%AD%A9%E5%88%98%E4%B8%81%E5%AE%81%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [我在2元店都不敢这么买](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9C%A82%E5%85%83%E5%BA%97%E9%83%BD%E4%B8%8D%E6%95%A2%E8%BF%99%E4%B9%88%E4%B9%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [藏海传 大男主](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E4%BC%A0%20%E5%A4%A7%E7%94%B7%E4%B8%BB&t=31&band_rank=9&Refer=top)<br />
+8. [藏海传 大男主](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E4%BC%A0%20%E5%A4%A7%E7%94%B7%E4%B8%BB&t=31&band_rank=8&Refer=top)<br />
+9. [我在2元店都不敢这么买](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9C%A82%E5%85%83%E5%BA%97%E9%83%BD%E4%B8%8D%E6%95%A2%E8%BF%99%E4%B9%88%E4%B9%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
