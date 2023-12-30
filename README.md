@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 19:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 19:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [下雪场 尴尬](https://s.weibo.com/weibo?q=%E4%B8%8B%E9%9B%AA%E5%9C%BA%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=6&Refer=top)<br />
 7. [患癌母亲织完给女儿最后的礼物安心离世](https://s.weibo.com/weibo?q=%23%E6%82%A3%E7%99%8C%E6%AF%8D%E4%BA%B2%E7%BB%87%E5%AE%8C%E7%BB%99%E5%A5%B3%E5%84%BF%E6%9C%80%E5%90%8E%E7%9A%84%E7%A4%BC%E7%89%A9%E5%AE%89%E5%BF%83%E7%A6%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [王诗龄 天天你刚才是发疯了吗](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%AF%97%E9%BE%84%20%E5%A4%A9%E5%A4%A9%E4%BD%A0%E5%88%9A%E6%89%8D%E6%98%AF%E5%8F%91%E7%96%AF%E4%BA%86%E5%90%97&t=31&band_rank=8&Refer=top)<br />
-9. [林一说有韩国公司找过他](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B8%80%E8%AF%B4%E6%9C%89%E9%9F%A9%E5%9B%BD%E5%85%AC%E5%8F%B8%E6%89%BE%E8%BF%87%E4%BB%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [太原地震](https://s.weibo.com/weibo?q=%E5%A4%AA%E5%8E%9F%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
