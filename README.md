@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 11:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-30 11:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [藏海传 大男主](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E4%BC%A0%20%E5%A4%A7%E7%94%B7%E4%B8%BB&t=31&band_rank=6&Refer=top)<br />
 7. [电影一闪一闪亮星星今日公映](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F%E4%BB%8A%E6%97%A5%E5%85%AC%E6%98%A0%23&t=31&band_rank=7&Refer=top)<br />
 8. [藏海传阵容](https://s.weibo.com/weibo?q=%23%E8%97%8F%E6%B5%B7%E4%BC%A0%E9%98%B5%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [我在2元店都不敢这么买](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9C%A82%E5%85%83%E5%BA%97%E9%83%BD%E4%B8%8D%E6%95%A2%E8%BF%99%E4%B9%88%E4%B9%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [HPV治疗性疫苗能抵御宫颈癌吗](https://s.weibo.com/weibo?q=%23HPV%E6%B2%BB%E7%96%97%E6%80%A7%E7%96%AB%E8%8B%97%E8%83%BD%E6%8A%B5%E5%BE%A1%E5%AE%AB%E9%A2%88%E7%99%8C%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
