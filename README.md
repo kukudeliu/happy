@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 01:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 01:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王诗龄 天天你刚才是发疯了吗](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%AF%97%E9%BE%84%20%E5%A4%A9%E5%A4%A9%E4%BD%A0%E5%88%9A%E6%89%8D%E6%98%AF%E5%8F%91%E7%96%AF%E4%BA%86%E5%90%97&t=31&band_rank=6&Refer=top)<br />
 7. [爷爷赶集给娃买裤子拿去学校让试穿](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E8%B5%B6%E9%9B%86%E7%BB%99%E5%A8%83%E4%B9%B0%E8%A3%A4%E5%AD%90%E6%8B%BF%E5%8E%BB%E5%AD%A6%E6%A0%A1%E8%AE%A9%E8%AF%95%E7%A9%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [中国留学生在美寄宿家庭被强行掳走](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E7%BE%8E%E5%AF%84%E5%AE%BF%E5%AE%B6%E5%BA%AD%E8%A2%AB%E5%BC%BA%E8%A1%8C%E6%8E%B3%E8%B5%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [三大队 七叔去世](https://s.weibo.com/weibo?q=%E4%B8%89%E5%A4%A7%E9%98%9F%20%E4%B8%83%E5%8F%94%E5%8E%BB%E4%B8%96&t=31&band_rank=9&Refer=top)<br />
+9. [太原地震](https://s.weibo.com/weibo?q=%E5%A4%AA%E5%8E%9F%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
