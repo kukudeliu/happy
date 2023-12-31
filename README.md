@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 03:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 03:36:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [假唱](https://s.weibo.com/weibo?q=%E5%81%87%E5%94%B1&t=31&band_rank=2&Refer=top)<br />
 3. [央视跨年晚会](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [上海迪士尼发文致歉](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23&t=31&band_rank=4&Refer=top)<br />
-5. [宋茜唱跳给Amber镜头](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E5%94%B1%E8%B7%B3%E7%BB%99Amber%E9%95%9C%E5%A4%B4&t=31&band_rank=5&Refer=top)<br />
-6. [刘宇宁哭了](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%93%AD%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+5. [刘宇宁哭了](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%93%AD%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
+6. [宋茜唱跳给Amber镜头](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E5%94%B1%E8%B7%B3%E7%BB%99Amber%E9%95%9C%E5%A4%B4&t=31&band_rank=6&Refer=top)<br />
 7. [新年快乐](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [2024](https://s.weibo.com/weibo?q=2024&t=31&band_rank=8&Refer=top)<br />
 9. [女子1张彩票中奖571次总计860万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%901%E5%BC%A0%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%96571%E6%AC%A1%E6%80%BB%E8%AE%A1860%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
