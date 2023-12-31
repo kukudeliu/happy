@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 15:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 15:55:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [湖南卫视跨年节目单](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=5&Refer=top)<br />
 6. [挖呀挖黄老师当妈妈啦](https://s.weibo.com/weibo?q=%23%E6%8C%96%E5%91%80%E6%8C%96%E9%BB%84%E8%80%81%E5%B8%88%E5%BD%93%E5%A6%88%E5%A6%88%E5%95%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [跨年节目单](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=7&Refer=top)<br />
-8. [一句话送给2024年的自己](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%A5%E8%AF%9D%E9%80%81%E7%BB%992024%E5%B9%B4%E7%9A%84%E8%87%AA%E5%B7%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [年会不能停 裁员广进](https://s.weibo.com/weibo?q=%E5%B9%B4%E4%BC%9A%E4%B8%8D%E8%83%BD%E5%81%9C%20%E8%A3%81%E5%91%98%E5%B9%BF%E8%BF%9B&t=31&band_rank=9&Refer=top)<br />
+8. [年会不能停 裁员广进](https://s.weibo.com/weibo?q=%E5%B9%B4%E4%BC%9A%E4%B8%8D%E8%83%BD%E5%81%9C%20%E8%A3%81%E5%91%98%E5%B9%BF%E8%BF%9B&t=31&band_rank=8&Refer=top)<br />
+9. [日本发现大地震海底断层悬崖](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%91%E7%8E%B0%E5%A4%A7%E5%9C%B0%E9%9C%87%E6%B5%B7%E5%BA%95%E6%96%AD%E5%B1%82%E6%82%AC%E5%B4%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
