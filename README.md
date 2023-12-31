@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 18:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 18:52:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [跨年节目单](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=6&Refer=top)<br />
 7. [2024全糖去冰](https://s.weibo.com/weibo?q=%232024%E5%85%A8%E7%B3%96%E5%8E%BB%E5%86%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [苏翊鸣大方示爱朱易](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%A7%E6%96%B9%E7%A4%BA%E7%88%B1%E6%9C%B1%E6%98%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [B站跨年晚会节目单](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23&t=31&band_rank=9&Refer=top)<br />
+9. [央视跨年节目单](https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
