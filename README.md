@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 00:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 00:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [华晨宇压轴](https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8E%8B%E8%BD%B4&t=31&band_rank=6&Refer=top)<br />
 7. [2024](https://s.weibo.com/weibo?q=2024&t=31&band_rank=7&Refer=top)<br />
 8. [新年红包](https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E7%BA%A2%E5%8C%85&t=31&band_rank=8&Refer=top)<br />
-9. [上海迪士尼发文致歉](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [西安钟楼跨年夜人山人海](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E9%92%9F%E6%A5%BC%E8%B7%A8%E5%B9%B4%E5%A4%9C%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
