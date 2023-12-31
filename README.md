@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 14:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 14:36:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [霉霉 中文字幕](https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%20%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95&t=31&band_rank=5&Refer=top)<br />
 6. [勒索李善均女子正脸照曝光](https://s.weibo.com/weibo?q=%23%E5%8B%92%E7%B4%A2%E6%9D%8E%E5%96%84%E5%9D%87%E5%A5%B3%E5%AD%90%E6%AD%A3%E8%84%B8%E7%85%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [辛芷蕾 繁花拍3年长江图拍4年](https://s.weibo.com/weibo?q=%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E7%B9%81%E8%8A%B1%E6%8B%8D3%E5%B9%B4%E9%95%BF%E6%B1%9F%E5%9B%BE%E6%8B%8D4%E5%B9%B4&t=31&band_rank=7&Refer=top)<br />
-8. [樊振东重返微博](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%87%8D%E8%BF%94%E5%BE%AE%E5%8D%9A&t=31&band_rank=8&Refer=top)<br />
-9. [日本发现大地震海底断层悬崖](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%91%E7%8E%B0%E5%A4%A7%E5%9C%B0%E9%9C%87%E6%B5%B7%E5%BA%95%E6%96%AD%E5%B1%82%E6%82%AC%E5%B4%96%23&t=31&band_rank=9&Refer=top)<br />
+8. [日本发现大地震海底断层悬崖](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%91%E7%8E%B0%E5%A4%A7%E5%9C%B0%E9%9C%87%E6%B5%B7%E5%BA%95%E6%96%AD%E5%B1%82%E6%82%AC%E5%B4%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [樊振东重返微博](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%87%8D%E8%BF%94%E5%BE%AE%E5%8D%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
