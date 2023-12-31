@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 19:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 19:11:02</h4></div>
 
 > 微博  
 
-1. [湖南卫视跨年节目单](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=1&Refer=top)<br />
+1. [2024新年贺词](https://s.weibo.com/weibo?q=%232024%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&t=31&band_rank=1&Refer=top)<br />
 2. [哈尔滨冰雪大世界万人蹦迪](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E4%B8%87%E4%BA%BA%E8%B9%A6%E8%BF%AA%23&t=31&band_rank=2&Refer=top)<br />
 3. [两岸群星共唱明天会更好](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%B2%B8%E7%BE%A4%E6%98%9F%E5%85%B1%E5%94%B1%E6%98%8E%E5%A4%A9%E4%BC%9A%E6%9B%B4%E5%A5%BD%23&t=31&band_rank=3&Refer=top)<br />
-4. [跨年节目单](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=4&Refer=top)<br />
+4. [湖南卫视跨年节目单](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=4&Refer=top)<br />
 5. [2024全糖去冰](https://s.weibo.com/weibo?q=%232024%E5%85%A8%E7%B3%96%E5%8E%BB%E5%86%B0%23&t=31&band_rank=5&Refer=top)<br />
-6. [2024新年贺词](https://s.weibo.com/weibo?q=%232024%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&t=31&band_rank=6&Refer=top)<br />
+6. [跨年节目单](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=6&Refer=top)<br />
 7. [乡村教师靠一条腿撑起2000多个孩子求学路](https://s.weibo.com/weibo?q=%23%E4%B9%A1%E6%9D%91%E6%95%99%E5%B8%88%E9%9D%A0%E4%B8%80%E6%9D%A1%E8%85%BF%E6%92%91%E8%B5%B72000%E5%A4%9A%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%B1%82%E5%AD%A6%E8%B7%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [妈妈在洗手间 不要打扰妈妈](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E5%9C%A8%E6%B4%97%E6%89%8B%E9%97%B4%20%E4%B8%8D%E8%A6%81%E6%89%93%E6%89%B0%E5%A6%88%E5%A6%88&t=31&band_rank=8&Refer=top)<br />
 9. [苏翊鸣大方示爱朱易](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%A7%E6%96%B9%E7%A4%BA%E7%88%B1%E6%9C%B1%E6%98%93%23&t=31&band_rank=9&Refer=top)<br />
