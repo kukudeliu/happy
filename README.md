@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 10:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 10:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [英国演员汤姆威尔金森去世](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E6%BC%94%E5%91%98%E6%B1%A4%E5%A7%86%E5%A8%81%E5%B0%94%E9%87%91%E6%A3%AE%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [冬天穿羽绒服就扎高马尾](https://s.weibo.com/weibo?q=%E5%86%AC%E5%A4%A9%E7%A9%BF%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%B0%B1%E6%89%8E%E9%AB%98%E9%A9%AC%E5%B0%BE&t=31&band_rank=7&Refer=top)<br />
 8. [为什么睡觉时会突然抖一下](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9D%A1%E8%A7%89%E6%97%B6%E4%BC%9A%E7%AA%81%E7%84%B6%E6%8A%96%E4%B8%80%E4%B8%8B&t=31&band_rank=8&Refer=top)<br />
-9. [雪乡酒店民宿价格突破想象](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E4%B9%A1%E9%85%92%E5%BA%97%E6%B0%91%E5%AE%BF%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B4%E6%83%B3%E8%B1%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [明年更多幼儿园或面临关停](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%B9%B4%E6%9B%B4%E5%A4%9A%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%88%96%E9%9D%A2%E4%B8%B4%E5%85%B3%E5%81%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
