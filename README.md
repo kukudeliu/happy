@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 03:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 03:11:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [刘宇宁哭了](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%93%AD%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [新年快乐](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [宋茜唱跳给Amber镜头](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E5%94%B1%E8%B7%B3%E7%BB%99Amber%E9%95%9C%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
-8. [甘肃平川4.9级地震与积石山地震无关](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%B9%B3%E5%B7%9D4.9%E7%BA%A7%E5%9C%B0%E9%9C%87%E4%B8%8E%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%9C%B0%E9%9C%87%E6%97%A0%E5%85%B3&t=31&band_rank=8&Refer=top)<br />
-9. [2024](https://s.weibo.com/weibo?q=2024&t=31&band_rank=9&Refer=top)<br />
+8. [2024](https://s.weibo.com/weibo?q=2024&t=31&band_rank=8&Refer=top)<br />
+9. [甘肃平川4.9级地震与积石山地震无关](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%B9%B3%E5%B7%9D4.9%E7%BA%A7%E5%9C%B0%E9%9C%87%E4%B8%8E%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%9C%B0%E9%9C%87%E6%97%A0%E5%85%B3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
