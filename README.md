@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 14:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 14:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [樊振东重返微博](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%87%8D%E8%BF%94%E5%BE%AE%E5%8D%9A&t=31&band_rank=6&Refer=top)<br />
 7. [日本发现大地震海底断层悬崖](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%91%E7%8E%B0%E5%A4%A7%E5%9C%B0%E9%9C%87%E6%B5%B7%E5%BA%95%E6%96%AD%E5%B1%82%E6%82%AC%E5%B4%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [D社为李善均发声](https://s.weibo.com/weibo?q=%23D%E7%A4%BE%E4%B8%BA%E6%9D%8E%E5%96%84%E5%9D%87%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [咬手指 变丑](https://s.weibo.com/weibo?q=%E5%92%AC%E6%89%8B%E6%8C%87%20%E5%8F%98%E4%B8%91&t=31&band_rank=9&Refer=top)<br />
+9. [小沈阳 不要带假唱节奏](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%B2%88%E9%98%B3%20%E4%B8%8D%E8%A6%81%E5%B8%A6%E5%81%87%E5%94%B1%E8%8A%82%E5%A5%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
