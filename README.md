@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 00:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 00:52:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [习近平发表2024新年贺词](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%91%E8%A1%A82024%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [新年快乐！](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [新年快乐](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [直击多地跨年夜：游客挤满地标广场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E5%A4%9A%E5%9C%B0%E8%B7%A8%E5%B9%B4%E5%A4%9C%EF%BC%9A%E6%B8%B8%E5%AE%A2%E6%8C%A4%E6%BB%A1%E5%9C%B0%E6%A0%87%E5%B9%BF%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2024，起航！](https://www.baidu.com/s?wd=2024%EF%BC%8C%E8%B5%B7%E8%88%AA%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蔡依林歌曲串烧DNA动了](https://www.baidu.com/s?wd=%E8%94%A1%E4%BE%9D%E6%9E%97%E6%AD%8C%E6%9B%B2%E4%B8%B2%E7%83%A7DNA%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [习近平发表2024新年贺词](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%91%E8%A1%A82024%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [新年快乐！](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [新年快乐](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [直击多地跨年夜：游客挤满地标广场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E5%A4%9A%E5%9C%B0%E8%B7%A8%E5%B9%B4%E5%A4%9C%EF%BC%9A%E6%B8%B8%E5%AE%A2%E6%8C%A4%E6%BB%A1%E5%9C%B0%E6%A0%87%E5%B9%BF%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2024，起航！](https://www.baidu.com/s?wd=2024%EF%BC%8C%E8%B5%B7%E8%88%AA%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蔡依林歌曲串烧DNA动了](https://www.baidu.com/s?wd=%E8%94%A1%E4%BE%9D%E6%9E%97%E6%AD%8C%E6%9B%B2%E4%B8%B2%E7%83%A7DNA%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
