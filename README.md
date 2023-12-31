@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 00:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 00:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [华晨宇压轴](https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8E%8B%E8%BD%B4&t=31&band_rank=5&Refer=top)<br />
 6. [谢谢李健老师拯救耳朵](https://s.weibo.com/weibo?q=%E8%B0%A2%E8%B0%A2%E6%9D%8E%E5%81%A5%E8%80%81%E5%B8%88%E6%8B%AF%E6%95%91%E8%80%B3%E6%9C%B5&t=31&band_rank=6&Refer=top)<br />
 7. [2024](https://s.weibo.com/weibo?q=2024&t=31&band_rank=7&Refer=top)<br />
-8. [甘肃白银4.9级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%99%BD%E9%93%B64.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [新年红包](https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E7%BA%A2%E5%8C%85&t=31&band_rank=9&Refer=top)<br />
+8. [新年红包](https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E7%BA%A2%E5%8C%85&t=31&band_rank=8&Refer=top)<br />
+9. [甘肃白银4.9级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%99%BD%E9%93%B64.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
