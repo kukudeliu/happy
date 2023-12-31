@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 19:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 19:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [跨年节目单](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=6&Refer=top)<br />
 7. [乡村教师靠一条腿撑起2000多个孩子求学路](https://s.weibo.com/weibo?q=%23%E4%B9%A1%E6%9D%91%E6%95%99%E5%B8%88%E9%9D%A0%E4%B8%80%E6%9D%A1%E8%85%BF%E6%92%91%E8%B5%B72000%E5%A4%9A%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%B1%82%E5%AD%A6%E8%B7%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [苏翊鸣大方示爱朱易](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%A7%E6%96%B9%E7%A4%BA%E7%88%B1%E6%9C%B1%E6%98%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [跨年夜](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4%E5%A4%9C&t=31&band_rank=9&Refer=top)<br />
+9. [2024新年贺词](https://s.weibo.com/weibo?q=%232024%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
