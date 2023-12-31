@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 12:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 12:50:01</h4></div>
 
 > 微博  
 
 1. [跨年节目单](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=1&Refer=top)<br />
-2. [日本发现大地震海底断层悬崖](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%91%E7%8E%B0%E5%A4%A7%E5%9C%B0%E9%9C%87%E6%B5%B7%E5%BA%95%E6%96%AD%E5%B1%82%E6%82%AC%E5%B4%96%23&t=31&band_rank=2&Refer=top)<br />
+2. [樊振东重返微博](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%87%8D%E8%BF%94%E5%BE%AE%E5%8D%9A&t=31&band_rank=2&Refer=top)<br />
 3. [献给2023的告别短片](https://s.weibo.com/weibo?q=%23%E7%8C%AE%E7%BB%992023%E7%9A%84%E5%91%8A%E5%88%AB%E7%9F%AD%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
-4. [樊振东重返微博](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%87%8D%E8%BF%94%E5%BE%AE%E5%8D%9A&t=31&band_rank=4&Refer=top)<br />
+4. [日本发现大地震海底断层悬崖](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%91%E7%8E%B0%E5%A4%A7%E5%9C%B0%E9%9C%87%E6%B5%B7%E5%BA%95%E6%96%AD%E5%B1%82%E6%82%AC%E5%B4%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [肖战工作室包场非诚勿扰3](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8C%85%E5%9C%BA%E9%9D%9E%E8%AF%9A%E5%8B%BF%E6%89%B03%23&t=31&band_rank=5&Refer=top)<br />
 6. [曾黎主持央视跨年](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E4%B8%BB%E6%8C%81%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [机场判官称在昆明机场被打](https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%9C%BA%E5%88%A4%E5%AE%98%E7%A7%B0%E5%9C%A8%E6%98%86%E6%98%8E%E6%9C%BA%E5%9C%BA%E8%A2%AB%E6%89%93%23&t=31&band_rank=7&Refer=top)<br />
