@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 20:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 20:15:01</h4></div>
 
 > 微博  
 
 1. [2024新年贺词](https://s.weibo.com/weibo?q=%232024%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&t=31&band_rank=1&Refer=top)<br />
-2. [湖南卫视跨年晚会](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A&t=31&band_rank=2&Refer=top)<br />
+2. [11个王俊凯](https://s.weibo.com/weibo?q=%2311%E4%B8%AA%E7%8E%8B%E4%BF%8A%E5%87%AF%23&t=31&band_rank=2&Refer=top)<br />
 3. [央视跨年晚会](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [11个王俊凯](https://s.weibo.com/weibo?q=%2311%E4%B8%AA%E7%8E%8B%E4%BF%8A%E5%87%AF%23&t=31&band_rank=4&Refer=top)<br />
+4. [湖南卫视跨年晚会](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A&t=31&band_rank=4&Refer=top)<br />
 5. [祖国统一是历史必然](https://s.weibo.com/weibo?q=%23%E7%A5%96%E5%9B%BD%E7%BB%9F%E4%B8%80%E6%98%AF%E5%8E%86%E5%8F%B2%E5%BF%85%E7%84%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [跨年节目单](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=6&Refer=top)<br />
 7. [江苏卫视跨年](https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4&t=31&band_rank=7&Refer=top)<br />
-8. [浙江卫视跨年晚会](https://s.weibo.com/weibo?q=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
-9. [女子1张彩票中奖571次总计860万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%901%E5%BC%A0%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%96571%E6%AC%A1%E6%80%BB%E8%AE%A1860%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [女子1张彩票中奖571次总计860万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%901%E5%BC%A0%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%96571%E6%AC%A1%E6%80%BB%E8%AE%A1860%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [2024新年贺词全文](https://s.weibo.com/weibo?q=%232024%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E5%85%A8%E6%96%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
