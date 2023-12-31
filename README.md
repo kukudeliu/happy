@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 01:20:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 01:21:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [假唱](https://s.weibo.com/weibo?q=%E5%81%87%E5%94%B1&t=31&band_rank=4&Refer=top)<br />
 5. [许嵩冯禧同台](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E5%90%8C%E5%8F%B0&t=31&band_rank=5&Refer=top)<br />
 6. [凤凰传奇赵露思 吉祥三宝](https://s.weibo.com/weibo?q=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E5%90%89%E7%A5%A5%E4%B8%89%E5%AE%9D&t=31&band_rank=6&Refer=top)<br />
-7. [新年红包](https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E7%BA%A2%E5%8C%85&t=31&band_rank=7&Refer=top)<br />
-8. [2024](https://s.weibo.com/weibo?q=2024&t=31&band_rank=8&Refer=top)<br />
+7. [2024](https://s.weibo.com/weibo?q=2024&t=31&band_rank=7&Refer=top)<br />
+8. [新年红包](https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E7%BA%A2%E5%8C%85&t=31&band_rank=8&Refer=top)<br />
 9. [西安钟楼跨年夜人山人海](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E9%92%9F%E6%A5%BC%E8%B7%A8%E5%B9%B4%E5%A4%9C%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
