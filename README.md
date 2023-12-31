@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 10:12:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 10:13:02</h4></div>
 
 > 微博  
 
-1. [胡歌唐嫣聊了半天才发现是直播](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%E5%94%90%E5%AB%A3%E8%81%8A%E4%BA%86%E5%8D%8A%E5%A4%A9%E6%89%8D%E5%8F%91%E7%8E%B0%E6%98%AF%E7%9B%B4%E6%92%AD&t=31&band_rank=1&Refer=top)<br />
-2. [姐弟坠亡案母亲希望死刑尽快执行](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%BC%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E6%AF%8D%E4%BA%B2%E5%B8%8C%E6%9C%9B%E6%AD%BB%E5%88%91%E5%B0%BD%E5%BF%AB%E6%89%A7%E8%A1%8C%23&t=31&band_rank=2&Refer=top)<br />
+1. [姐弟坠亡案母亲希望死刑尽快执行](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%BC%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E6%AF%8D%E4%BA%B2%E5%B8%8C%E6%9C%9B%E6%AD%BB%E5%88%91%E5%B0%BD%E5%BF%AB%E6%89%A7%E8%A1%8C%23&t=31&band_rank=1&Refer=top)<br />
+2. [胡歌唐嫣聊了半天才发现是直播](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%E5%94%90%E5%AB%A3%E8%81%8A%E4%BA%86%E5%8D%8A%E5%A4%A9%E6%89%8D%E5%8F%91%E7%8E%B0%E6%98%AF%E7%9B%B4%E6%92%AD&t=31&band_rank=2&Refer=top)<br />
 3. [无数个1分钟成就气象万千的中国](https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%95%B0%E4%B8%AA1%E5%88%86%E9%92%9F%E6%88%90%E5%B0%B1%E6%B0%94%E8%B1%A1%E4%B8%87%E5%8D%83%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [为什么睡觉时会突然抖一下](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9D%A1%E8%A7%89%E6%97%B6%E4%BC%9A%E7%AA%81%E7%84%B6%E6%8A%96%E4%B8%80%E4%B8%8B&t=31&band_rank=4&Refer=top)<br />
 5. [冬天穿羽绒服就扎高马尾](https://s.weibo.com/weibo?q=%E5%86%AC%E5%A4%A9%E7%A9%BF%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%B0%B1%E6%89%8E%E9%AB%98%E9%A9%AC%E5%B0%BE&t=31&band_rank=5&Refer=top)<br />
