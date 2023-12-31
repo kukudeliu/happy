@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 23:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 23:45:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 > 百度  
 
 1. [习近平发表2024新年贺词](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%91%E8%A1%A82024%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [甘肃白银4.9级地震 兰州震感明显](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E7%99%BD%E9%93%B64.9%E7%BA%A7%E5%9C%B0%E9%9C%87+%E5%85%B0%E5%B7%9E%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [直击多地跨年夜：游客挤满地标广场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E5%A4%9A%E5%9C%B0%E8%B7%A8%E5%B9%B4%E5%A4%9C%EF%BC%9A%E6%B8%B8%E5%AE%A2%E6%8C%A4%E6%BB%A1%E5%9C%B0%E6%A0%87%E5%B9%BF%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [直击多地跨年夜：游客挤满地标广场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E5%A4%9A%E5%9C%B0%E8%B7%A8%E5%B9%B4%E5%A4%9C%EF%BC%9A%E6%B8%B8%E5%AE%A2%E6%8C%A4%E6%BB%A1%E5%9C%B0%E6%A0%87%E5%B9%BF%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [谢娜唱哭了](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%94%B1%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2024，起航！](https://www.baidu.com/s?wd=2024%EF%BC%8C%E8%B5%B7%E8%88%AA%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [孟子义跑调很突出](https://www.baidu.com/s?wd=%E5%AD%9F%E5%AD%90%E4%B9%89%E8%B7%91%E8%B0%83%E5%BE%88%E7%AA%81%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [赵露思 敦煌神女](https://www.baidu.com/s?wd=%E8%B5%B5%E9%9C%B2%E6%80%9D+%E6%95%A6%E7%85%8C%E7%A5%9E%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,8 +30,8 @@
 > 哔哩哔哩  
 
 1. [习近平发表2024新年贺词](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%91%E8%A1%A82024%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [甘肃白银4.9级地震 兰州震感明显](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E7%99%BD%E9%93%B64.9%E7%BA%A7%E5%9C%B0%E9%9C%87+%E5%85%B0%E5%B7%9E%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [直击多地跨年夜：游客挤满地标广场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E5%A4%9A%E5%9C%B0%E8%B7%A8%E5%B9%B4%E5%A4%9C%EF%BC%9A%E6%B8%B8%E5%AE%A2%E6%8C%A4%E6%BB%A1%E5%9C%B0%E6%A0%87%E5%B9%BF%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [直击多地跨年夜：游客挤满地标广场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E5%A4%9A%E5%9C%B0%E8%B7%A8%E5%B9%B4%E5%A4%9C%EF%BC%9A%E6%B8%B8%E5%AE%A2%E6%8C%A4%E6%BB%A1%E5%9C%B0%E6%A0%87%E5%B9%BF%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [谢娜唱哭了](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%94%B1%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2024，起航！](https://www.baidu.com/s?wd=2024%EF%BC%8C%E8%B5%B7%E8%88%AA%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [孟子义跑调很突出](https://www.baidu.com/s?wd=%E5%AD%9F%E5%AD%90%E4%B9%89%E8%B7%91%E8%B0%83%E5%BE%88%E7%AA%81%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [赵露思 敦煌神女](https://www.baidu.com/s?wd=%E8%B5%B5%E9%9C%B2%E6%80%9D+%E6%95%A6%E7%85%8C%E7%A5%9E%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
