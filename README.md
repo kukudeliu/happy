@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 01:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 01:30:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [央视跨年晚会](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [刘宇宁哭了](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%93%AD%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [王鹤棣宋茜后台也在着火](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AE%8B%E8%8C%9C%E5%90%8E%E5%8F%B0%E4%B9%9F%E5%9C%A8%E7%9D%80%E7%81%AB&t=31&band_rank=5&Refer=top)<br />
-6. [许嵩冯禧同台](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E5%90%8C%E5%8F%B0&t=31&band_rank=6&Refer=top)<br />
-7. [上海迪士尼发文致歉](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [2024](https://s.weibo.com/weibo?q=2024&t=31&band_rank=8&Refer=top)<br />
-9. [西安钟楼跨年夜人山人海](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E9%92%9F%E6%A5%BC%E8%B7%A8%E5%B9%B4%E5%A4%9C%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%23&t=31&band_rank=9&Refer=top)<br />
+6. [凤凰传奇赵露思 吉祥三宝](https://s.weibo.com/weibo?q=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E5%90%89%E7%A5%A5%E4%B8%89%E5%AE%9D&t=31&band_rank=6&Refer=top)<br />
+7. [许嵩冯禧同台](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E5%90%8C%E5%8F%B0&t=31&band_rank=7&Refer=top)<br />
+8. [西安钟楼跨年夜人山人海](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E9%92%9F%E6%A5%BC%E8%B7%A8%E5%B9%B4%E5%A4%9C%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%23&t=31&band_rank=8&Refer=top)<br />
+9. [2024](https://s.weibo.com/weibo?q=2024&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
