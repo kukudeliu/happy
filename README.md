@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 07:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 07:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [上海迪士尼发文致歉](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [谁是2024跨年晚会最忙艺人](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%98%AF2024%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E6%9C%80%E5%BF%99%E8%89%BA%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [许嵩冯禧同台](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E5%90%8C%E5%8F%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [2024](https://s.weibo.com/weibo?q=2024&t=31&band_rank=9&Refer=top)<br />
+9. [元旦](https://s.weibo.com/weibo?q=%E5%85%83%E6%97%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,7 +19,7 @@
 
 1. [习近平发表2024新年贺词](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%91%E8%A1%A82024%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [新年快乐](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [直击多地跨年夜：游客挤满地标广场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E5%A4%9A%E5%9C%B0%E8%B7%A8%E5%B9%B4%E5%A4%9C%EF%BC%9A%E6%B8%B8%E5%AE%A2%E6%8C%A4%E6%BB%A1%E5%9C%B0%E6%A0%87%E5%B9%BF%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [天安门广场新年升旗仪式](https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E6%96%B0%E5%B9%B4%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2024，起航！](https://www.baidu.com/s?wd=2024%EF%BC%8C%E8%B5%B7%E8%88%AA%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蔡依林歌曲串烧DNA动了](https://www.baidu.com/s?wd=%E8%94%A1%E4%BE%9D%E6%9E%97%E6%AD%8C%E6%9B%B2%E4%B8%B2%E7%83%A7DNA%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [整个哈尔滨都开始夹了](https://www.baidu.com/s?wd=%E6%95%B4%E4%B8%AA%E5%93%88%E5%B0%94%E6%BB%A8%E9%83%BD%E5%BC%80%E5%A7%8B%E5%A4%B9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [习近平发表2024新年贺词](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%91%E8%A1%A82024%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [新年快乐](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [直击多地跨年夜：游客挤满地标广场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E5%A4%9A%E5%9C%B0%E8%B7%A8%E5%B9%B4%E5%A4%9C%EF%BC%9A%E6%B8%B8%E5%AE%A2%E6%8C%A4%E6%BB%A1%E5%9C%B0%E6%A0%87%E5%B9%BF%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [天安门广场新年升旗仪式](https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E6%96%B0%E5%B9%B4%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2024，起航！](https://www.baidu.com/s?wd=2024%EF%BC%8C%E8%B5%B7%E8%88%AA%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蔡依林歌曲串烧DNA动了](https://www.baidu.com/s?wd=%E8%94%A1%E4%BE%9D%E6%9E%97%E6%AD%8C%E6%9B%B2%E4%B8%B2%E7%83%A7DNA%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [整个哈尔滨都开始夹了](https://www.baidu.com/s?wd=%E6%95%B4%E4%B8%AA%E5%93%88%E5%B0%94%E6%BB%A8%E9%83%BD%E5%BC%80%E5%A7%8B%E5%A4%B9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
