@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 01:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 01:10:02</h4></div>
 
 > 微博  
 
 1. [新年快乐](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%23&t=31&band_rank=1&Refer=top)<br />
 2. [刘宇宁哭了](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%93%AD%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [央视跨年晚会](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [许嵩冯禧同台](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E5%90%8C%E5%8F%B0&t=31&band_rank=4&Refer=top)<br />
-5. [假唱](https://s.weibo.com/weibo?q=%E5%81%87%E5%94%B1&t=31&band_rank=5&Refer=top)<br />
+4. [假唱](https://s.weibo.com/weibo?q=%E5%81%87%E5%94%B1&t=31&band_rank=4&Refer=top)<br />
+5. [许嵩冯禧同台](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E5%90%8C%E5%8F%B0&t=31&band_rank=5&Refer=top)<br />
 6. [华晨宇压轴](https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8E%8B%E8%BD%B4&t=31&band_rank=6&Refer=top)<br />
 7. [新年红包](https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E7%BA%A2%E5%8C%85&t=31&band_rank=7&Refer=top)<br />
 8. [2024](https://s.weibo.com/weibo?q=2024&t=31&band_rank=8&Refer=top)<br />
