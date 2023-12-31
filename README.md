@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 05:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 05:13:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [刘宇宁哭了](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%93%AD%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [新年快乐](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [许嵩冯禧同台](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E5%90%8C%E5%8F%B0&t=31&band_rank=7&Refer=top)<br />
-8. [2024](https://s.weibo.com/weibo?q=2024&t=31&band_rank=8&Refer=top)<br />
-9. [两个小朋友你们被警方点名表扬了](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E5%B0%8F%E6%9C%8B%E5%8F%8B%E4%BD%A0%E4%BB%AC%E8%A2%AB%E8%AD%A6%E6%96%B9%E7%82%B9%E5%90%8D%E8%A1%A8%E6%89%AC%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [宋茜唱跳给Amber镜头](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E5%94%B1%E8%B7%B3%E7%BB%99Amber%E9%95%9C%E5%A4%B4&t=31&band_rank=8&Refer=top)<br />
+9. [2024](https://s.weibo.com/weibo?q=2024&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
