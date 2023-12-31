@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 06:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 06:15:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘宇宁哭了](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%93%AD%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [许嵩冯禧同台](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E5%90%8C%E5%8F%B0&t=31&band_rank=7&Refer=top)<br />
 8. [2024](https://s.weibo.com/weibo?q=2024&t=31&band_rank=8&Refer=top)<br />
-9. [甘肃平川4.9级地震与积石山地震无关](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%B9%B3%E5%B7%9D4.9%E7%BA%A7%E5%9C%B0%E9%9C%87%E4%B8%8E%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%9C%B0%E9%9C%87%E6%97%A0%E5%85%B3&t=31&band_rank=9&Refer=top)<br />
+9. [谁是2024跨年晚会最忙艺人](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%98%AF2024%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E6%9C%80%E5%BF%99%E8%89%BA%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
