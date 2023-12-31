@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 18:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 18:32:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [整个哈尔滨都开始夹了](https://www.baidu.com/s?wd=%E6%95%B4%E4%B8%AA%E5%93%88%E5%B0%94%E6%BB%A8%E9%83%BD%E5%BC%80%E5%A7%8B%E5%A4%B9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [央视跨年节目单](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E8%8A%82%E7%9B%AE%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [湖南老板卖零食身家80亿](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E8%80%81%E6%9D%BF%E5%8D%96%E9%9B%B6%E9%A3%9F%E8%BA%AB%E5%AE%B680%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌方称基辅等地遭俄袭击致39人死亡](https://www.baidu.com/s?wd=%E4%B9%8C%E6%96%B9%E7%A7%B0%E5%9F%BA%E8%BE%85%E7%AD%89%E5%9C%B0%E9%81%AD%E4%BF%84%E8%A2%AD%E5%87%BB%E8%87%B439%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [#一闪一闪亮星星跨年告白#](https://www.baidu.com/s?wd=%23%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F%E8%B7%A8%E5%B9%B4%E5%91%8A%E7%99%BD%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [云南消防辟谣上门推销灭火器](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E6%B6%88%E9%98%B2%E8%BE%9F%E8%B0%A3%E4%B8%8A%E9%97%A8%E6%8E%A8%E9%94%80%E7%81%AD%E7%81%AB%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [整个哈尔滨都开始夹了](https://www.baidu.com/s?wd=%E6%95%B4%E4%B8%AA%E5%93%88%E5%B0%94%E6%BB%A8%E9%83%BD%E5%BC%80%E5%A7%8B%E5%A4%B9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [央视跨年节目单](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E8%8A%82%E7%9B%AE%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [湖南老板卖零食身家80亿](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E8%80%81%E6%9D%BF%E5%8D%96%E9%9B%B6%E9%A3%9F%E8%BA%AB%E5%AE%B680%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌方称基辅等地遭俄袭击致39人死亡](https://www.baidu.com/s?wd=%E4%B9%8C%E6%96%B9%E7%A7%B0%E5%9F%BA%E8%BE%85%E7%AD%89%E5%9C%B0%E9%81%AD%E4%BF%84%E8%A2%AD%E5%87%BB%E8%87%B439%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [#一闪一闪亮星星跨年告白#](https://www.baidu.com/s?wd=%23%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F%E8%B7%A8%E5%B9%B4%E5%91%8A%E7%99%BD%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [云南消防辟谣上门推销灭火器](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E6%B6%88%E9%98%B2%E8%BE%9F%E8%B0%A3%E4%B8%8A%E9%97%A8%E6%8E%A8%E9%94%80%E7%81%AD%E7%81%AB%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
