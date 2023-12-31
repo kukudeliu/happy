@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 18:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 18:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [苏翊鸣大方示爱朱易](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%A7%E6%96%B9%E7%A4%BA%E7%88%B1%E6%9C%B1%E6%98%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [地铁暖心祝福大家新年一往无前](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E6%9A%96%E5%BF%83%E7%A5%9D%E7%A6%8F%E5%A4%A7%E5%AE%B6%E6%96%B0%E5%B9%B4%E4%B8%80%E5%BE%80%E6%97%A0%E5%89%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [B站跨年晚会节目单](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23&t=31&band_rank=8&Refer=top)<br />
-9. [三个人的舞台 六个人的名字](https://s.weibo.com/weibo?q=%E4%B8%89%E4%B8%AA%E4%BA%BA%E7%9A%84%E8%88%9E%E5%8F%B0%20%E5%85%AD%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%90%8D%E5%AD%97&t=31&band_rank=9&Refer=top)<br />
+9. [68元锅包肉巴掌大店家转888致歉](https://s.weibo.com/weibo?q=%2368%E5%85%83%E9%94%85%E5%8C%85%E8%82%89%E5%B7%B4%E6%8E%8C%E5%A4%A7%E5%BA%97%E5%AE%B6%E8%BD%AC888%E8%87%B4%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
