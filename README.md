@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 18:00:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 18:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [苏翊鸣大方示爱朱易](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%A7%E6%96%B9%E7%A4%BA%E7%88%B1%E6%9C%B1%E6%98%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [火箭军成立8周年](https://s.weibo.com/weibo?q=%23%E7%81%AB%E7%AE%AD%E5%86%9B%E6%88%90%E7%AB%8B8%E5%91%A8%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [跨年节目单](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=8&Refer=top)<br />
-9. [导演是怎么选中屈楚萧演张万森的](https://s.weibo.com/weibo?q=%E5%AF%BC%E6%BC%94%E6%98%AF%E6%80%8E%E4%B9%88%E9%80%89%E4%B8%AD%E5%B1%88%E6%A5%9A%E8%90%A7%E6%BC%94%E5%BC%A0%E4%B8%87%E6%A3%AE%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+9. [关晓彤假发的毛娘](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E5%81%87%E5%8F%91%E7%9A%84%E6%AF%9B%E5%A8%98&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
