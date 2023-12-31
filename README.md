@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 00:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 00:08:02</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [甘肃白银4.9级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%99%BD%E9%93%B64.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [央视跨年晚会](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [蔡依林 天后来了](https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%20%E5%A4%A9%E5%90%8E%E6%9D%A5%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
-5. [孟子义跑调很突出](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E8%B7%91%E8%B0%83%E5%BE%88%E7%AA%81%E5%87%BA&t=31&band_rank=5&Refer=top)<br />
-6. [2024](https://s.weibo.com/weibo?q=2024&t=31&band_rank=6&Refer=top)<br />
+5. [2024](https://s.weibo.com/weibo?q=2024&t=31&band_rank=5&Refer=top)<br />
+6. [孟子义跑调很突出](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E8%B7%91%E8%B0%83%E5%BE%88%E7%AA%81%E5%87%BA&t=31&band_rank=6&Refer=top)<br />
 7. [许嵩冯禧同台](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E5%90%8C%E5%8F%B0&t=31&band_rank=7&Refer=top)<br />
 8. [刘宇宁哭了](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [跨年](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4&t=31&band_rank=9&Refer=top)<br />
