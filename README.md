@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 23:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 23:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [马立奥镜头太少了](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%AB%8B%E5%A5%A5%E9%95%9C%E5%A4%B4%E5%A4%AA%E5%B0%91%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [跨年](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4&t=31&band_rank=7&Refer=top)<br />
 8. [上海迪士尼发文致歉](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [四川自贡发生3.2级地震](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%87%AA%E8%B4%A1%E5%8F%91%E7%94%9F3.2%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [跨年朋友圈](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4%E6%9C%8B%E5%8F%8B%E5%9C%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
