@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 21:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 21:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [薛之谦笑死我了](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%AC%91%E6%AD%BB%E6%88%91%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [跨年](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4&t=31&band_rank=7&Refer=top)<br />
 8. [2024新年贺词](https://s.weibo.com/weibo?q=%232024%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [宋茜唱跳给Amber镜头](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E5%94%B1%E8%B7%B3%E7%BB%99Amber%E9%95%9C%E5%A4%B4&t=31&band_rank=9&Refer=top)<br />
+9. [上海迪士尼发文致歉](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
