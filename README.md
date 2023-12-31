@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 11:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 11:06:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [姐弟坠亡案母亲希望死刑尽快执行](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%BC%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E6%AF%8D%E4%BA%B2%E5%B8%8C%E6%9C%9B%E6%AD%BB%E5%88%91%E5%B0%BD%E5%BF%AB%E6%89%A7%E8%A1%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [胡歌唐嫣聊了半天才发现是直播](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%E5%94%90%E5%AB%A3%E8%81%8A%E4%BA%86%E5%8D%8A%E5%A4%A9%E6%89%8D%E5%8F%91%E7%8E%B0%E6%98%AF%E7%9B%B4%E6%92%AD&t=31&band_rank=5&Refer=top)<br />
 6. [英国演员汤姆威尔金森去世](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E6%BC%94%E5%91%98%E6%B1%A4%E5%A7%86%E5%A8%81%E5%B0%94%E9%87%91%E6%A3%AE%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [明年更多幼儿园或面临关停](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%B9%B4%E6%9B%B4%E5%A4%9A%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%88%96%E9%9D%A2%E4%B8%B4%E5%85%B3%E5%81%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [我已经很勇敢了 我也不遗憾](https://s.weibo.com/weibo?q=%E6%88%91%E5%B7%B2%E7%BB%8F%E5%BE%88%E5%8B%87%E6%95%A2%E4%BA%86%20%E6%88%91%E4%B9%9F%E4%B8%8D%E9%81%97%E6%86%BE&t=31&band_rank=8&Refer=top)<br />
+7. [我已经很勇敢了 我也不遗憾](https://s.weibo.com/weibo?q=%E6%88%91%E5%B7%B2%E7%BB%8F%E5%BE%88%E5%8B%87%E6%95%A2%E4%BA%86%20%E6%88%91%E4%B9%9F%E4%B8%8D%E9%81%97%E6%86%BE&t=31&band_rank=7&Refer=top)<br />
+8. [明年更多幼儿园或面临关停](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%B9%B4%E6%9B%B4%E5%A4%9A%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%88%96%E9%9D%A2%E4%B8%B4%E5%85%B3%E5%81%9C%23&t=31&band_rank=8&Refer=top)<br />
 9. [为什么睡觉时会突然抖一下](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9D%A1%E8%A7%89%E6%97%B6%E4%BC%9A%E7%AA%81%E7%84%B6%E6%8A%96%E4%B8%80%E4%B8%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
