@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 23:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 23:12:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [谢娜唱哭了](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E5%94%B1%E5%93%AD%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [四川自贡发生3.2级地震](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%87%AA%E8%B4%A1%E5%8F%91%E7%94%9F3.2%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [跨年](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
-9. [跨年朋友圈](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4%E6%9C%8B%E5%8F%8B%E5%9C%88&t=31&band_rank=9&Refer=top)<br />
+9. [上海迪士尼发文致歉](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
