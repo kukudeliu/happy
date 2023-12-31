@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 19:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2023-12-31 19:30:02</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [新年贺词里的TA 如今什么样](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E7%9A%84TA+%E5%A6%82%E4%BB%8A%E4%BB%80%E4%B9%88%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平发表2024新年贺词](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%91%E8%A1%A82024%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [各大卫视跨年晚会节目单](https://www.baidu.com/s?wd=%E5%90%84%E5%A4%A7%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [整个哈尔滨都开始夹了](https://www.baidu.com/s?wd=%E6%95%B4%E4%B8%AA%E5%93%88%E5%B0%94%E6%BB%A8%E9%83%BD%E5%BC%80%E5%A7%8B%E5%A4%B9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [带着善意和勇敢奔赴2024](https://www.baidu.com/s?wd=%E5%B8%A6%E7%9D%80%E5%96%84%E6%84%8F%E5%92%8C%E5%8B%87%E6%95%A2%E5%A5%94%E8%B5%B42024&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [新年贺词里的TA 如今什么样](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E7%9A%84TA+%E5%A6%82%E4%BB%8A%E4%BB%80%E4%B9%88%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平发表2024新年贺词](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%91%E8%A1%A82024%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [各大卫视跨年晚会节目单](https://www.baidu.com/s?wd=%E5%90%84%E5%A4%A7%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [整个哈尔滨都开始夹了](https://www.baidu.com/s?wd=%E6%95%B4%E4%B8%AA%E5%93%88%E5%B0%94%E6%BB%A8%E9%83%BD%E5%BC%80%E5%A7%8B%E5%A4%B9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [带着善意和勇敢奔赴2024](https://www.baidu.com/s?wd=%E5%B8%A6%E7%9D%80%E5%96%84%E6%84%8F%E5%92%8C%E5%8B%87%E6%95%A2%E5%A5%94%E8%B5%B42024&sa=fyb_news&rsv_dl=fyb_news)<br />
