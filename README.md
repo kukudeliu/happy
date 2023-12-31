@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 07:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 07:51:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [谁是2024跨年晚会最忙艺人](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%98%AF2024%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E6%9C%80%E5%BF%99%E8%89%BA%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [新街口全是人](https://s.weibo.com/weibo?q=%E6%96%B0%E8%A1%97%E5%8F%A3%E5%85%A8%E6%98%AF%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴新年首套高定](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%96%B0%E5%B9%B4%E9%A6%96%E5%A5%97%E9%AB%98%E5%AE%9A&t=31&band_rank=7&Refer=top)<br />
-8. [2024](https://s.weibo.com/weibo?q=2024&t=31&band_rank=8&Refer=top)<br />
-9. [宋茜唱跳给Amber镜头](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E5%94%B1%E8%B7%B3%E7%BB%99Amber%E9%95%9C%E5%A4%B4&t=31&band_rank=9&Refer=top)<br />
+8. [宋茜唱跳给Amber镜头](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E5%94%B1%E8%B7%B3%E7%BB%99Amber%E9%95%9C%E5%A4%B4&t=31&band_rank=8&Refer=top)<br />
+9. [2024](https://s.weibo.com/weibo?q=2024&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
