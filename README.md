@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 00:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 00:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子2000买金包银首饰典当5.3万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%902000%E4%B9%B0%E9%87%91%E5%8C%85%E9%93%B6%E9%A6%96%E9%A5%B0%E5%85%B8%E5%BD%935.3%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [胡歌 第一个吻戏是咸的](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%90%BB%E6%88%8F%E6%98%AF%E5%92%B8%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
 8. [天价麻辣烫](https://s.weibo.com/weibo?q=%E5%A4%A9%E4%BB%B7%E9%BA%BB%E8%BE%A3%E7%83%AB&t=31&band_rank=8&Refer=top)<br />
-9. [张文逝世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E9%80%9D%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [繁花 范志毅](https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1%20%E8%8C%83%E5%BF%97%E6%AF%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [寒冬中的温暖](https://www.baidu.com/s?wd=%E5%AF%92%E5%86%AC%E4%B8%AD%E7%9A%84%E6%B8%A9%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [游客在地摊遇天价麻辣烫106元一份](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%9C%B0%E6%91%8A%E9%81%87%E5%A4%A9%E4%BB%B7%E9%BA%BB%E8%BE%A3%E7%83%AB106%E5%85%83%E4%B8%80%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子2000买金包银首饰典当5.3万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%902000%E4%B9%B0%E9%87%91%E5%8C%85%E9%93%B6%E9%A6%96%E9%A5%B0%E5%85%B8%E5%BD%935.3%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [全国多个城市禁止老头乐](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E7%A6%81%E6%AD%A2%E8%80%81%E5%A4%B4%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京:俄希望尽快结束冲突](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%3A%E4%BF%84%E5%B8%8C%E6%9C%9B%E5%B0%BD%E5%BF%AB%E7%BB%93%E6%9D%9F%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [孙燕姿外I内E实锤了](https://www.baidu.com/s?wd=%E5%AD%99%E7%87%95%E5%A7%BF%E5%A4%96I%E5%86%85E%E5%AE%9E%E9%94%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全国多个城市禁止老头乐](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E7%A6%81%E6%AD%A2%E8%80%81%E5%A4%B4%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [泉州一小区催缴800万水费？](https://www.baidu.com/s?wd=%E6%B3%89%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%82%AC%E7%BC%B4800%E4%B8%87%E6%B0%B4%E8%B4%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [寒冬中的温暖](https://www.baidu.com/s?wd=%E5%AF%92%E5%86%AC%E4%B8%AD%E7%9A%84%E6%B8%A9%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [游客在地摊遇天价麻辣烫106元一份](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%9C%B0%E6%91%8A%E9%81%87%E5%A4%A9%E4%BB%B7%E9%BA%BB%E8%BE%A3%E7%83%AB106%E5%85%83%E4%B8%80%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子2000买金包银首饰典当5.3万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%902000%E4%B9%B0%E9%87%91%E5%8C%85%E9%93%B6%E9%A6%96%E9%A5%B0%E5%85%B8%E5%BD%935.3%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [全国多个城市禁止老头乐](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E7%A6%81%E6%AD%A2%E8%80%81%E5%A4%B4%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京:俄希望尽快结束冲突](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%3A%E4%BF%84%E5%B8%8C%E6%9C%9B%E5%B0%BD%E5%BF%AB%E7%BB%93%E6%9D%9F%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [孙燕姿外I内E实锤了](https://www.baidu.com/s?wd=%E5%AD%99%E7%87%95%E5%A7%BF%E5%A4%96I%E5%86%85E%E5%AE%9E%E9%94%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全国多个城市禁止老头乐](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E7%A6%81%E6%AD%A2%E8%80%81%E5%A4%B4%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [泉州一小区催缴800万水费？](https://www.baidu.com/s?wd=%E6%B3%89%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%82%AC%E7%BC%B4800%E4%B8%87%E6%B0%B4%E8%B4%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
