@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 19:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 19:43:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [老人就餐被卡喉幸亏邻桌是医学生](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%B0%B1%E9%A4%90%E8%A2%AB%E5%8D%A1%E5%96%89%E5%B9%B8%E4%BA%8F%E9%82%BB%E6%A1%8C%E6%98%AF%E5%8C%BB%E5%AD%A6%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [孟子义叫江苏卫视大哥](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E5%8F%AB%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E5%A4%A7%E5%93%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [00后小伙在南极20米高处拧螺丝](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%B0%8F%E4%BC%99%E5%9C%A8%E5%8D%97%E6%9E%8120%E7%B1%B3%E9%AB%98%E5%A4%84%E6%8B%A7%E8%9E%BA%E4%B8%9D%23&t=31&band_rank=7&Refer=top)<br />
-8. [日本一地火山喷发](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%9C%B0%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [日本志贺核电站变压器起火](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BF%97%E8%B4%BA%E6%A0%B8%E7%94%B5%E7%AB%99%E5%8F%98%E5%8E%8B%E5%99%A8%E8%B5%B7%E7%81%AB%23&t=31&band_rank=9&Refer=top)<br />
+8. [日本志贺核电站变压器起火](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BF%97%E8%B4%BA%E6%A0%B8%E7%94%B5%E7%AB%99%E5%8F%98%E5%8E%8B%E5%99%A8%E8%B5%B7%E7%81%AB%23&t=31&band_rank=8&Refer=top)<br />
+9. [日本一地火山喷发](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%9C%B0%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
