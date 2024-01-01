@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 05:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 05:45:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [iPhone为什么只有P大写](https://s.weibo.com/weibo?q=iPhone%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89P%E5%A4%A7%E5%86%99&t=31&band_rank=4&Refer=top)<br />
 5. [男子2000买金包银首饰典当5.3万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%902000%E4%B9%B0%E9%87%91%E5%8C%85%E9%93%B6%E9%A6%96%E9%A5%B0%E5%85%B8%E5%BD%935.3%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [从此排骨是排骨 年糕是年糕](https://s.weibo.com/weibo?q=%E4%BB%8E%E6%AD%A4%E6%8E%92%E9%AA%A8%E6%98%AF%E6%8E%92%E9%AA%A8%20%E5%B9%B4%E7%B3%95%E6%98%AF%E5%B9%B4%E7%B3%95&t=31&band_rank=6&Refer=top)<br />
-7. [张文逝世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E9%80%9D%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
+7. [美国女子遭家暴报警被警察击毙](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E9%81%AD%E5%AE%B6%E6%9A%B4%E6%8A%A5%E8%AD%A6%E8%A2%AB%E8%AD%A6%E5%AF%9F%E5%87%BB%E6%AF%99%23&t=31&band_rank=7&Refer=top)<br />
 8. [汪小姐没等到宝总](https://s.weibo.com/weibo?q=%E6%B1%AA%E5%B0%8F%E5%A7%90%E6%B2%A1%E7%AD%89%E5%88%B0%E5%AE%9D%E6%80%BB&t=31&band_rank=8&Refer=top)<br />
-9. [美国女子遭家暴报警被警察击毙](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E9%81%AD%E5%AE%B6%E6%9A%B4%E6%8A%A5%E8%AD%A6%E8%A2%AB%E8%AD%A6%E5%AF%9F%E5%87%BB%E6%AF%99%23&t=31&band_rank=9&Refer=top)<br />
+9. [张文逝世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E9%80%9D%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
