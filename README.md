@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 07:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 07:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [从此排骨是排骨 年糕是年糕](https://s.weibo.com/weibo?q=%E4%BB%8E%E6%AD%A4%E6%8E%92%E9%AA%A8%E6%98%AF%E6%8E%92%E9%AA%A8%20%E5%B9%B4%E7%B3%95%E6%98%AF%E5%B9%B4%E7%B3%95&t=31&band_rank=6&Refer=top)<br />
 7. [压力过大衰老速度比常人快6倍](https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%8A%9B%E8%BF%87%E5%A4%A7%E8%A1%B0%E8%80%81%E9%80%9F%E5%BA%A6%E6%AF%94%E5%B8%B8%E4%BA%BA%E5%BF%AB6%E5%80%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [汪小姐没等到宝总](https://s.weibo.com/weibo?q=%E6%B1%AA%E5%B0%8F%E5%A7%90%E6%B2%A1%E7%AD%89%E5%88%B0%E5%AE%9D%E6%80%BB&t=31&band_rank=8&Refer=top)<br />
-9. [黄景瑜零点跨年去哪儿了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E9%9B%B6%E7%82%B9%E8%B7%A8%E5%B9%B4%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [国足1比2中国香港](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B31%E6%AF%942%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
