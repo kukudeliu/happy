@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 12:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 12:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [跨年收视率](https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [生气了王源自己猜](https://s.weibo.com/weibo?q=%E7%94%9F%E6%B0%94%E4%BA%86%E7%8E%8B%E6%BA%90%E8%87%AA%E5%B7%B1%E7%8C%9C&t=31&band_rank=7&Refer=top)<br />
 8. [2024年确定为中朝友好年](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E7%A1%AE%E5%AE%9A%E4%B8%BA%E4%B8%AD%E6%9C%9D%E5%8F%8B%E5%A5%BD%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [元旦加班3倍工资](https://s.weibo.com/weibo?q=%23%E5%85%83%E6%97%A6%E5%8A%A0%E7%8F%AD3%E5%80%8D%E5%B7%A5%E8%B5%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [鹿晗空降发歌](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%A9%BA%E9%99%8D%E5%8F%91%E6%AD%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
