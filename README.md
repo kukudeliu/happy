@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 15:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 15:54:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [日本本州西岸近海7.8级左右地震](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E8%A5%BF%E5%B2%B8%E8%BF%91%E6%B5%B77.8%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024年愿美好如约而至](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E6%84%BF%E7%BE%8E%E5%A5%BD%E5%A6%82%E7%BA%A6%E8%80%8C%E8%87%B3%23&t=31&band_rank=3&Refer=top)<br />
 4. [小破站跨年 还是你会玩](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%A0%B4%E7%AB%99%E8%B7%A8%E5%B9%B4%20%E8%BF%98%E6%98%AF%E4%BD%A0%E4%BC%9A%E7%8E%A9&t=31&band_rank=4&Refer=top)<br />
-5. [2024年三倍工资日历](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E4%B8%89%E5%80%8D%E5%B7%A5%E8%B5%84%E6%97%A5%E5%8E%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [日本强震引发5米海啸](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E5%BC%95%E5%8F%915%E7%B1%B3%E6%B5%B7%E5%95%B8%23&t=31&band_rank=6&Refer=top)<br />
+5. [日本强震引发5米海啸](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E5%BC%95%E5%8F%915%E7%B1%B3%E6%B5%B7%E5%95%B8%23&t=31&band_rank=5&Refer=top)<br />
+6. [2024年三倍工资日历](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E4%B8%89%E5%80%8D%E5%B7%A5%E8%B5%84%E6%97%A5%E5%8E%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [苏醒蹭镜头](https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%E8%B9%AD%E9%95%9C%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
 8. [大侦探 正归来](https://s.weibo.com/weibo?q=%E5%A4%A7%E4%BE%A6%E6%8E%A2%20%E6%AD%A3%E5%BD%92%E6%9D%A5&t=31&band_rank=8&Refer=top)<br />
 9. [法老不是要退圈吗](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%81%E4%B8%8D%E6%98%AF%E8%A6%81%E9%80%80%E5%9C%88%E5%90%97&t=31&band_rank=9&Refer=top)<br />
