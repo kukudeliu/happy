@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 16:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 16:14:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [黑龙江感谢游客：把咱们整不会了](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%84%9F%E8%B0%A2%E6%B8%B8%E5%AE%A2%EF%BC%9A%E6%8A%8A%E5%92%B1%E4%BB%AC%E6%95%B4%E4%B8%8D%E4%BC%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本再次发生6.1级地震](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%86%8D%E6%AC%A1%E5%8F%91%E7%94%9F6.1%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“南泥北搓”场面壮观](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%97%E6%B3%A5%E5%8C%97%E6%90%93%E2%80%9D%E5%9C%BA%E9%9D%A2%E5%A3%AE%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [今天凌晨太阳爆发了一个强耀斑](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E5%87%8C%E6%99%A8%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%BA%86%E4%B8%80%E4%B8%AA%E5%BC%BA%E8%80%80%E6%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周深 跨年劳模](https://www.baidu.com/s?wd=%E5%91%A8%E6%B7%B1+%E8%B7%A8%E5%B9%B4%E5%8A%B3%E6%A8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [不爱吃蔬菜能多吃水果代替？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%88%B1%E5%90%83%E8%94%AC%E8%8F%9C%E8%83%BD%E5%A4%9A%E5%90%83%E6%B0%B4%E6%9E%9C%E4%BB%A3%E6%9B%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [黑龙江感谢游客：把咱们整不会了](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%84%9F%E8%B0%A2%E6%B8%B8%E5%AE%A2%EF%BC%9A%E6%8A%8A%E5%92%B1%E4%BB%AC%E6%95%B4%E4%B8%8D%E4%BC%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本再次发生6.1级地震](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%86%8D%E6%AC%A1%E5%8F%91%E7%94%9F6.1%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“南泥北搓”场面壮观](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%97%E6%B3%A5%E5%8C%97%E6%90%93%E2%80%9D%E5%9C%BA%E9%9D%A2%E5%A3%AE%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [今天凌晨太阳爆发了一个强耀斑](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E5%87%8C%E6%99%A8%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%BA%86%E4%B8%80%E4%B8%AA%E5%BC%BA%E8%80%80%E6%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周深 跨年劳模](https://www.baidu.com/s?wd=%E5%91%A8%E6%B7%B1+%E8%B7%A8%E5%B9%B4%E5%8A%B3%E6%A8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [不爱吃蔬菜能多吃水果代替？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%88%B1%E5%90%83%E8%94%AC%E8%8F%9C%E8%83%BD%E5%A4%9A%E5%90%83%E6%B0%B4%E6%9E%9C%E4%BB%A3%E6%9B%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
