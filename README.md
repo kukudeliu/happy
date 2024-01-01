@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 19:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 19:15:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [跨年无人机表演取消 疑有人下跪道歉](https://www.baidu.com/s?wd=%E8%B7%A8%E5%B9%B4%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A1%A8%E6%BC%94%E5%8F%96%E6%B6%88+%E7%96%91%E6%9C%89%E4%BA%BA%E4%B8%8B%E8%B7%AA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孙燕姿外I内E实锤了](https://www.baidu.com/s?wd=%E5%AD%99%E7%87%95%E5%A7%BF%E5%A4%96I%E5%86%85E%E5%AE%9E%E9%94%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [B站跨年晚会赢麻了](https://www.baidu.com/s?wd=B%E7%AB%99%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E8%B5%A2%E9%BA%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [元旦档票房超13.11亿创记录](https://www.baidu.com/s?wd=%E5%85%83%E6%97%A6%E6%A1%A3%E7%A5%A8%E6%88%BF%E8%B6%8513.11%E4%BA%BF%E5%88%9B%E8%AE%B0%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本近海发生7.4级地震](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%BF%91%E6%B5%B7%E5%8F%91%E7%94%9F7.4%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [不爱吃蔬菜能多吃水果代替？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%88%B1%E5%90%83%E8%94%AC%E8%8F%9C%E8%83%BD%E5%A4%9A%E5%90%83%E6%B0%B4%E6%9E%9C%E4%BB%A3%E6%9B%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [跨年无人机表演取消 疑有人下跪道歉](https://www.baidu.com/s?wd=%E8%B7%A8%E5%B9%B4%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A1%A8%E6%BC%94%E5%8F%96%E6%B6%88+%E7%96%91%E6%9C%89%E4%BA%BA%E4%B8%8B%E8%B7%AA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孙燕姿外I内E实锤了](https://www.baidu.com/s?wd=%E5%AD%99%E7%87%95%E5%A7%BF%E5%A4%96I%E5%86%85E%E5%AE%9E%E9%94%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [B站跨年晚会赢麻了](https://www.baidu.com/s?wd=B%E7%AB%99%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E8%B5%A2%E9%BA%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [元旦档票房超13.11亿创记录](https://www.baidu.com/s?wd=%E5%85%83%E6%97%A6%E6%A1%A3%E7%A5%A8%E6%88%BF%E8%B6%8513.11%E4%BA%BF%E5%88%9B%E8%AE%B0%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本近海发生7.4级地震](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%BF%91%E6%B5%B7%E5%8F%91%E7%94%9F7.4%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [不爱吃蔬菜能多吃水果代替？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%88%B1%E5%90%83%E8%94%AC%E8%8F%9C%E8%83%BD%E5%A4%9A%E5%90%83%E6%B0%B4%E6%9E%9C%E4%BB%A3%E6%9B%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
