@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 14:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 14:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [愿逆风如解意 税后十个亿](https://s.weibo.com/weibo?q=%E6%84%BF%E9%80%86%E9%A3%8E%E5%A6%82%E8%A7%A3%E6%84%8F%20%E7%A8%8E%E5%90%8E%E5%8D%81%E4%B8%AA%E4%BA%BF&t=31&band_rank=6&Refer=top)<br />
 7. [连风都偏爱张小斐](https://s.weibo.com/weibo?q=%E8%BF%9E%E9%A3%8E%E9%83%BD%E5%81%8F%E7%88%B1%E5%BC%A0%E5%B0%8F%E6%96%90&t=31&band_rank=7&Refer=top)<br />
 8. [丹麦女王宣布将退位](https://s.weibo.com/weibo?q=%23%E4%B8%B9%E9%BA%A6%E5%A5%B3%E7%8E%8B%E5%AE%A3%E5%B8%83%E5%B0%86%E9%80%80%E4%BD%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [樊振东2024第一条微博](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C2024%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [血型瘦身法](https://s.weibo.com/weibo?q=%E8%A1%80%E5%9E%8B%E7%98%A6%E8%BA%AB%E6%B3%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
