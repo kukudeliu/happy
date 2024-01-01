@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 19:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 19:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孟子义叫江苏卫视大哥](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E5%8F%AB%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E5%A4%A7%E5%93%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [00后小伙在南极20米高处拧螺丝](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%B0%8F%E4%BC%99%E5%9C%A8%E5%8D%97%E6%9E%8120%E7%B1%B3%E9%AB%98%E5%A4%84%E6%8B%A7%E8%9E%BA%E4%B8%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [日本志贺核电站变压器起火](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BF%97%E8%B4%BA%E6%A0%B8%E7%94%B5%E7%AB%99%E5%8F%98%E5%8E%8B%E5%99%A8%E8%B5%B7%E7%81%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [日本一地火山喷发](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%9C%B0%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [玲花是来争夺赵露思抚养权的](https://s.weibo.com/weibo?q=%E7%8E%B2%E8%8A%B1%E6%98%AF%E6%9D%A5%E4%BA%89%E5%A4%BA%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%8A%9A%E5%85%BB%E6%9D%83%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
