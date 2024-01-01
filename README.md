@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 17:06:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 17:07:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [苏醒蹭镜头](https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%E8%B9%AD%E9%95%9C%E5%A4%B4&t=31&band_rank=6&Refer=top)<br />
 7. [日本多条新干线因地震停运](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%9A%E6%9D%A1%E6%96%B0%E5%B9%B2%E7%BA%BF%E5%9B%A0%E5%9C%B0%E9%9C%87%E5%81%9C%E8%BF%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [小破站跨年 还是你会玩](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%A0%B4%E7%AB%99%E8%B7%A8%E5%B9%B4%20%E8%BF%98%E6%98%AF%E4%BD%A0%E4%BC%9A%E7%8E%A9&t=31&band_rank=8&Refer=top)<br />
-9. [父母一句话心理医生和朋友全白干](https://s.weibo.com/weibo?q=%E7%88%B6%E6%AF%8D%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%BF%83%E7%90%86%E5%8C%BB%E7%94%9F%E5%92%8C%E6%9C%8B%E5%8F%8B%E5%85%A8%E7%99%BD%E5%B9%B2&t=31&band_rank=9&Refer=top)<br />
+9. [易烊千玺在网站撒娇](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%9C%A8%E7%BD%91%E7%AB%99%E6%92%92%E5%A8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
