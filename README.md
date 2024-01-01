@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 15:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 15:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [樊振东实名羡慕贾一凡奖金](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%AE%9E%E5%90%8D%E7%BE%A1%E6%85%95%E8%B4%BE%E4%B8%80%E5%87%A1%E5%A5%96%E9%87%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [白鹿在生张大大的闷气](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%9C%A8%E7%94%9F%E5%BC%A0%E5%A4%A7%E5%A4%A7%E7%9A%84%E9%97%B7%E6%B0%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [苏醒蹭镜头](https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%E8%B9%AD%E9%95%9C%E5%A4%B4&t=31&band_rank=8&Refer=top)<br />
-9. [杨迪 他们给的还是太多了](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%BF%AA%20%E4%BB%96%E4%BB%AC%E7%BB%99%E7%9A%84%E8%BF%98%E6%98%AF%E5%A4%AA%E5%A4%9A%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [法老不是要退圈吗](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%81%E4%B8%8D%E6%98%AF%E8%A6%81%E9%80%80%E5%9C%88%E5%90%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
