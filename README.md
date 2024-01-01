@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 17:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 17:26:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [这是2024年第1天的中国](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF2024%E5%B9%B4%E7%AC%AC1%E5%A4%A9%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [日本一地火山喷发](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%9C%B0%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [南方小土豆涌入哈市洗浴店爆满](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E6%B6%8C%E5%85%A5%E5%93%88%E5%B8%82%E6%B4%97%E6%B5%B4%E5%BA%97%E7%88%86%E6%BB%A1%23&t=31&band_rank=5&Refer=top)<br />
-6. [易烊千玺在网站撒娇](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%9C%A8%E7%BD%91%E7%AB%99%E6%92%92%E5%A8%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [日本强震引发5米海啸](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E5%BC%95%E5%8F%915%E7%B1%B3%E6%B5%B7%E5%95%B8%23&t=31&band_rank=7&Refer=top)<br />
-8. [樊振东2024第一条微博](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C2024%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%23&t=31&band_rank=8&Refer=top)<br />
+6. [樊振东2024第一条微博](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C2024%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%23&t=31&band_rank=6&Refer=top)<br />
+7. [日本多条新干线因地震停运](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%9A%E6%9D%A1%E6%96%B0%E5%B9%B2%E7%BA%BF%E5%9B%A0%E5%9C%B0%E9%9C%87%E5%81%9C%E8%BF%90%23&t=31&band_rank=7&Refer=top)<br />
+8. [易烊千玺在网站撒娇](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%9C%A8%E7%BD%91%E7%AB%99%E6%92%92%E5%A8%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [父母一句话心理医生和朋友全白干](https://s.weibo.com/weibo?q=%E7%88%B6%E6%AF%8D%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%BF%83%E7%90%86%E5%8C%BB%E7%94%9F%E5%92%8C%E6%9C%8B%E5%8F%8B%E5%85%A8%E7%99%BD%E5%B9%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
