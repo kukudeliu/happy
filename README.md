@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 10:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 10:37:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [谁是2024跨年晚会最忙艺人](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%98%AF2024%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E6%9C%80%E5%BF%99%E8%89%BA%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [跨年收视率](https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [2024年确定为中朝友好年](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E7%A1%AE%E5%AE%9A%E4%B8%BA%E4%B8%AD%E6%9C%9D%E5%8F%8B%E5%A5%BD%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [两个小朋友你们被警方点名表扬了](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E5%B0%8F%E6%9C%8B%E5%8F%8B%E4%BD%A0%E4%BB%AC%E8%A2%AB%E8%AD%A6%E6%96%B9%E7%82%B9%E5%90%8D%E8%A1%A8%E6%89%AC%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [罪犯子女考公限制是否应取消](https://s.weibo.com/weibo?q=%23%E7%BD%AA%E7%8A%AF%E5%AD%90%E5%A5%B3%E8%80%83%E5%85%AC%E9%99%90%E5%88%B6%E6%98%AF%E5%90%A6%E5%BA%94%E5%8F%96%E6%B6%88%23&t=31&band_rank=9&Refer=top)<br />
+8. [罪犯子女考公限制是否应取消](https://s.weibo.com/weibo?q=%23%E7%BD%AA%E7%8A%AF%E5%AD%90%E5%A5%B3%E8%80%83%E5%85%AC%E9%99%90%E5%88%B6%E6%98%AF%E5%90%A6%E5%BA%94%E5%8F%96%E6%B6%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [两个小朋友你们被警方点名表扬了](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E5%B0%8F%E6%9C%8B%E5%8F%8B%E4%BD%A0%E4%BB%AC%E8%A2%AB%E8%AD%A6%E6%96%B9%E7%82%B9%E5%90%8D%E8%A1%A8%E6%89%AC%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
