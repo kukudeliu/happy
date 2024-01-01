@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 21:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 21:26:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [日本强震重灾区大量建筑倒塌](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E9%87%8D%E7%81%BE%E5%8C%BA%E5%A4%A7%E9%87%8F%E5%BB%BA%E7%AD%91%E5%80%92%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生误把电焊条当成仙女棒](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%AF%AF%E6%8A%8A%E7%94%B5%E7%84%8A%E6%9D%A1%E5%BD%93%E6%88%90%E4%BB%99%E5%A5%B3%E6%A3%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023国剧盛典](https://www.baidu.com/s?wd=2023%E5%9B%BD%E5%89%A7%E7%9B%9B%E5%85%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [不爱吃蔬菜能多吃水果代替？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%88%B1%E5%90%83%E8%94%AC%E8%8F%9C%E8%83%BD%E5%A4%9A%E5%90%83%E6%B0%B4%E6%9E%9C%E4%BB%A3%E6%9B%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泉州一小区催缴800万水费？](https://www.baidu.com/s?wd=%E6%B3%89%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%82%AC%E7%BC%B4800%E4%B8%87%E6%B0%B4%E8%B4%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [日本强震重灾区大量建筑倒塌](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E9%87%8D%E7%81%BE%E5%8C%BA%E5%A4%A7%E9%87%8F%E5%BB%BA%E7%AD%91%E5%80%92%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生误把电焊条当成仙女棒](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%AF%AF%E6%8A%8A%E7%94%B5%E7%84%8A%E6%9D%A1%E5%BD%93%E6%88%90%E4%BB%99%E5%A5%B3%E6%A3%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023国剧盛典](https://www.baidu.com/s?wd=2023%E5%9B%BD%E5%89%A7%E7%9B%9B%E5%85%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [不爱吃蔬菜能多吃水果代替？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%88%B1%E5%90%83%E8%94%AC%E8%8F%9C%E8%83%BD%E5%A4%9A%E5%90%83%E6%B0%B4%E6%9E%9C%E4%BB%A3%E6%9B%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [泉州一小区催缴800万水费？](https://www.baidu.com/s?wd=%E6%B3%89%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%82%AC%E7%BC%B4800%E4%B8%87%E6%B0%B4%E8%B4%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
