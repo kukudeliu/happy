@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 12:06:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 12:07:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [跨年收视率](https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [十年了 雷鸣终于清白了](https://s.weibo.com/weibo?q=%E5%8D%81%E5%B9%B4%E4%BA%86%20%E9%9B%B7%E9%B8%A3%E7%BB%88%E4%BA%8E%E6%B8%85%E7%99%BD%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [何老师 大米爆代表](https://s.weibo.com/weibo?q=%E4%BD%95%E8%80%81%E5%B8%88%20%E5%A4%A7%E7%B1%B3%E7%88%86%E4%BB%A3%E8%A1%A8&t=31&band_rank=8&Refer=top)<br />
-9. [新年快乐](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [元旦加班3倍工资](https://s.weibo.com/weibo?q=%23%E5%85%83%E6%97%A6%E5%8A%A0%E7%8F%AD3%E5%80%8D%E5%B7%A5%E8%B5%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
