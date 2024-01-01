@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 18:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 18:32:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [孟子义叫江苏卫视大哥](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E5%8F%AB%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E5%A4%A7%E5%93%A5%23&t=31&band_rank=4&Refer=top)<br />
 5. [30岁小伙和60岁阿姨处成闺蜜](https://s.weibo.com/weibo?q=%2330%E5%B2%81%E5%B0%8F%E4%BC%99%E5%92%8C60%E5%B2%81%E9%98%BF%E5%A7%A8%E5%A4%84%E6%88%90%E9%97%BA%E8%9C%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨洋 男频](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%20%E7%94%B7%E9%A2%91&t=31&band_rank=6&Refer=top)<br />
-7. [足迹2023](https://s.weibo.com/weibo?q=%23%E8%B6%B3%E8%BF%B92023%23&t=31&band_rank=7&Refer=top)<br />
-8. [美国女子遭家暴报警被警察击毙](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E9%81%AD%E5%AE%B6%E6%9A%B4%E6%8A%A5%E8%AD%A6%E8%A2%AB%E8%AD%A6%E5%AF%9F%E5%87%BB%E6%AF%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [曾毅老师 我都有点嗑你俩了](https://s.weibo.com/weibo?q=%E6%9B%BE%E6%AF%85%E8%80%81%E5%B8%88%20%E6%88%91%E9%83%BD%E6%9C%89%E7%82%B9%E5%97%91%E4%BD%A0%E4%BF%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+7. [美国女子遭家暴报警被警察击毙](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E9%81%AD%E5%AE%B6%E6%9A%B4%E6%8A%A5%E8%AD%A6%E8%A2%AB%E8%AD%A6%E5%AF%9F%E5%87%BB%E6%AF%99%23&t=31&band_rank=7&Refer=top)<br />
+8. [曾毅老师 我都有点嗑你俩了](https://s.weibo.com/weibo?q=%E6%9B%BE%E6%AF%85%E8%80%81%E5%B8%88%20%E6%88%91%E9%83%BD%E6%9C%89%E7%82%B9%E5%97%91%E4%BD%A0%E4%BF%A9%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [樊振东2024第一条微博](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C2024%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
