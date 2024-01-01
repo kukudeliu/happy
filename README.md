@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 16:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 16:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小破站跨年 还是你会玩](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%A0%B4%E7%AB%99%E8%B7%A8%E5%B9%B4%20%E8%BF%98%E6%98%AF%E4%BD%A0%E4%BC%9A%E7%8E%A9&t=31&band_rank=6&Refer=top)<br />
 7. [曾毅老师 我都有点嗑你俩了](https://s.weibo.com/weibo?q=%E6%9B%BE%E6%AF%85%E8%80%81%E5%B8%88%20%E6%88%91%E9%83%BD%E6%9C%89%E7%82%B9%E5%97%91%E4%BD%A0%E4%BF%A9%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [苏醒蹭镜头](https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%E8%B9%AD%E9%95%9C%E5%A4%B4&t=31&band_rank=8&Refer=top)<br />
-9. [2024年愿美好如约而至](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E6%84%BF%E7%BE%8E%E5%A5%BD%E5%A6%82%E7%BA%A6%E8%80%8C%E8%87%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [法老不是要退圈吗](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%81%E4%B8%8D%E6%98%AF%E8%A6%81%E9%80%80%E5%9C%88%E5%90%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
