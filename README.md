@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 18:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 18:23:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [心情愉快、人生出彩、梦想成真](https://www.baidu.com/s?wd=%E5%BF%83%E6%83%85%E6%84%89%E5%BF%AB%E3%80%81%E4%BA%BA%E7%94%9F%E5%87%BA%E5%BD%A9%E3%80%81%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [新年贺词里这些话很暖心](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E8%BF%99%E4%BA%9B%E8%AF%9D%E5%BE%88%E6%9A%96%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [东北虎遇见南方小土豆秒变咪咪](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E8%99%8E%E9%81%87%E8%A7%81%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E7%A7%92%E5%8F%98%E5%92%AA%E5%92%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [“南泥北搓”场面壮观](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%97%E6%B3%A5%E5%8C%97%E6%90%93%E2%80%9D%E5%9C%BA%E9%9D%A2%E5%A3%AE%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [《我爱你中国》](https://www.baidu.com/s?wd=%E3%80%8A%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [心情愉快、人生出彩、梦想成真](https://www.baidu.com/s?wd=%E5%BF%83%E6%83%85%E6%84%89%E5%BF%AB%E3%80%81%E4%BA%BA%E7%94%9F%E5%87%BA%E5%BD%A9%E3%80%81%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [新年贺词里这些话很暖心](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E8%BF%99%E4%BA%9B%E8%AF%9D%E5%BE%88%E6%9A%96%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [东北虎遇见南方小土豆秒变咪咪](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E8%99%8E%E9%81%87%E8%A7%81%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E7%A7%92%E5%8F%98%E5%92%AA%E5%92%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [“南泥北搓”场面壮观](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%97%E6%B3%A5%E5%8C%97%E6%90%93%E2%80%9D%E5%9C%BA%E9%9D%A2%E5%A3%AE%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [《我爱你中国》](https://www.baidu.com/s?wd=%E3%80%8A%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
