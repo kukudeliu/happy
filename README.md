@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 18:40:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 18:41:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [美国女子遭家暴报警被警察击毙](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E9%81%AD%E5%AE%B6%E6%9A%B4%E6%8A%A5%E8%AD%A6%E8%A2%AB%E8%AD%A6%E5%AF%9F%E5%87%BB%E6%AF%99%23&t=31&band_rank=6&Refer=top)<br />
 7. [西湖边跨年夜再现最美牵手](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%B9%96%E8%BE%B9%E8%B7%A8%E5%B9%B4%E5%A4%9C%E5%86%8D%E7%8E%B0%E6%9C%80%E7%BE%8E%E7%89%B5%E6%89%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨洋 男频](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%20%E7%94%B7%E9%A2%91&t=31&band_rank=8&Refer=top)<br />
-9. [曾毅老师 我都有点嗑你俩了](https://s.weibo.com/weibo?q=%E6%9B%BE%E6%AF%85%E8%80%81%E5%B8%88%20%E6%88%91%E9%83%BD%E6%9C%89%E7%82%B9%E5%97%91%E4%BD%A0%E4%BF%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [老人就餐被卡喉幸亏邻桌是医学生](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%B0%B1%E9%A4%90%E8%A2%AB%E5%8D%A1%E5%96%89%E5%B9%B8%E4%BA%8F%E9%82%BB%E6%A1%8C%E6%98%AF%E5%8C%BB%E5%AD%A6%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
