@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 22:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 22:34:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [寒冬中的温暖](https://www.baidu.com/s?wd=%E5%AF%92%E5%86%AC%E4%B8%AD%E7%9A%84%E6%B8%A9%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [游客在地摊遇天价麻辣烫106元一份](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%9C%B0%E6%91%8A%E9%81%87%E5%A4%A9%E4%BB%B7%E9%BA%BB%E8%BE%A3%E7%83%AB106%E5%85%83%E4%B8%80%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生误把电焊条当成仙女棒](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%AF%AF%E6%8A%8A%E7%94%B5%E7%84%8A%E6%9D%A1%E5%BD%93%E6%88%90%E4%BB%99%E5%A5%B3%E6%A3%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [亲历强震中国男子：愿安全回家过年](https://www.baidu.com/s?wd=%E4%BA%B2%E5%8E%86%E5%BC%BA%E9%9C%87%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%EF%BC%9A%E6%84%BF%E5%AE%89%E5%85%A8%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广东一乡镇公示8名“躺平休闲人员”](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E4%B9%A1%E9%95%87%E5%85%AC%E7%A4%BA8%E5%90%8D%E2%80%9C%E8%BA%BA%E5%B9%B3%E4%BC%91%E9%97%B2%E4%BA%BA%E5%91%98%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023国剧盛典](https://www.baidu.com/s?wd=2023%E5%9B%BD%E5%89%A7%E7%9B%9B%E5%85%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [泉州一小区催缴800万水费？](https://www.baidu.com/s?wd=%E6%B3%89%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%82%AC%E7%BC%B4800%E4%B8%87%E6%B0%B4%E8%B4%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [寒冬中的温暖](https://www.baidu.com/s?wd=%E5%AF%92%E5%86%AC%E4%B8%AD%E7%9A%84%E6%B8%A9%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [游客在地摊遇天价麻辣烫106元一份](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%9C%B0%E6%91%8A%E9%81%87%E5%A4%A9%E4%BB%B7%E9%BA%BB%E8%BE%A3%E7%83%AB106%E5%85%83%E4%B8%80%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生误把电焊条当成仙女棒](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%AF%AF%E6%8A%8A%E7%94%B5%E7%84%8A%E6%9D%A1%E5%BD%93%E6%88%90%E4%BB%99%E5%A5%B3%E6%A3%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [亲历强震中国男子：愿安全回家过年](https://www.baidu.com/s?wd=%E4%BA%B2%E5%8E%86%E5%BC%BA%E9%9C%87%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%EF%BC%9A%E6%84%BF%E5%AE%89%E5%85%A8%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [广东一乡镇公示8名“躺平休闲人员”](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E4%B9%A1%E9%95%87%E5%85%AC%E7%A4%BA8%E5%90%8D%E2%80%9C%E8%BA%BA%E5%B9%B3%E4%BC%91%E9%97%B2%E4%BA%BA%E5%91%98%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023国剧盛典](https://www.baidu.com/s?wd=2023%E5%9B%BD%E5%89%A7%E7%9B%9B%E5%85%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [泉州一小区催缴800万水费？](https://www.baidu.com/s?wd=%E6%B3%89%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%82%AC%E7%BC%B4800%E4%B8%87%E6%B0%B4%E8%B4%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
