@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 10:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 10:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [跨年收视率](https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨紫李现合照 今夕是何年](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%E5%90%88%E7%85%A7%20%E4%BB%8A%E5%A4%95%E6%98%AF%E4%BD%95%E5%B9%B4&t=31&band_rank=6&Refer=top)<br />
 7. [张凌赫 语音回复](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E8%AF%AD%E9%9F%B3%E5%9B%9E%E5%A4%8D&t=31&band_rank=7&Refer=top)<br />
-8. [两个小朋友你们被警方点名表扬了](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E5%B0%8F%E6%9C%8B%E5%8F%8B%E4%BD%A0%E4%BB%AC%E8%A2%AB%E8%AD%A6%E6%96%B9%E7%82%B9%E5%90%8D%E8%A1%A8%E6%89%AC%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [新年壁纸](https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E5%A3%81%E7%BA%B8&t=31&band_rank=9&Refer=top)<br />
+8. [新年壁纸](https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E5%A3%81%E7%BA%B8&t=31&band_rank=8&Refer=top)<br />
+9. [两个小朋友你们被警方点名表扬了](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E5%B0%8F%E6%9C%8B%E5%8F%8B%E4%BD%A0%E4%BB%AC%E8%A2%AB%E8%AD%A6%E6%96%B9%E7%82%B9%E5%90%8D%E8%A1%A8%E6%89%AC%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
