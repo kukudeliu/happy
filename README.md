@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 19:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 19:09:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [美国女子遭家暴报警被警察击毙](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E9%81%AD%E5%AE%B6%E6%9A%B4%E6%8A%A5%E8%AD%A6%E8%A2%AB%E8%AD%A6%E5%AF%9F%E5%87%BB%E6%AF%99%23&t=31&band_rank=4&Refer=top)<br />
 5. [老人就餐被卡喉幸亏邻桌是医学生](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%B0%B1%E9%A4%90%E8%A2%AB%E5%8D%A1%E5%96%89%E5%B9%B8%E4%BA%8F%E9%82%BB%E6%A1%8C%E6%98%AF%E5%8C%BB%E5%AD%A6%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [日本一地火山喷发](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%9C%B0%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91%23&t=31&band_rank=6&Refer=top)<br />
-7. [孟子义叫江苏卫视大哥](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E5%8F%AB%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E5%A4%A7%E5%93%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [宋茜王鹤棣最后一下 雪琴表情](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%8B%20%E9%9B%AA%E7%90%B4%E8%A1%A8%E6%83%85&t=31&band_rank=8&Refer=top)<br />
-9. [杨洋 男频](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%20%E7%94%B7%E9%A2%91&t=31&band_rank=9&Refer=top)<br />
+7. [2024有个神奇的数字24](https://s.weibo.com/weibo?q=%232024%E6%9C%89%E4%B8%AA%E7%A5%9E%E5%A5%87%E7%9A%84%E6%95%B0%E5%AD%9724%23&t=31&band_rank=7&Refer=top)<br />
+8. [孟子义叫江苏卫视大哥](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E5%8F%AB%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E5%A4%A7%E5%93%A5%23&t=31&band_rank=8&Refer=top)<br />
+9. [宋茜王鹤棣最后一下 雪琴表情](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%8B%20%E9%9B%AA%E7%90%B4%E8%A1%A8%E6%83%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [跨年无人机表演取消 疑有人下跪道歉](https://www.baidu.com/s?wd=%E8%B7%A8%E5%B9%B4%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A1%A8%E6%BC%94%E5%8F%96%E6%B6%88+%E7%96%91%E6%9C%89%E4%BA%BA%E4%B8%8B%E8%B7%AA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孙燕姿外I内E实锤了](https://www.baidu.com/s?wd=%E5%AD%99%E7%87%95%E5%A7%BF%E5%A4%96I%E5%86%85E%E5%AE%9E%E9%94%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [B站跨年晚会赢麻了](https://www.baidu.com/s?wd=B%E7%AB%99%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E8%B5%A2%E9%BA%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [五国加入金砖合作机制正式生效](https://www.baidu.com/s?wd=%E4%BA%94%E5%9B%BD%E5%8A%A0%E5%85%A5%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E6%9C%BA%E5%88%B6%E6%AD%A3%E5%BC%8F%E7%94%9F%E6%95%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [黑龙江感谢游客：把咱们整不会了](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%84%9F%E8%B0%A2%E6%B8%B8%E5%AE%A2%EF%BC%9A%E6%8A%8A%E5%92%B1%E4%BB%AC%E6%95%B4%E4%B8%8D%E4%BC%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [不爱吃蔬菜能多吃水果代替？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%88%B1%E5%90%83%E8%94%AC%E8%8F%9C%E8%83%BD%E5%A4%9A%E5%90%83%E6%B0%B4%E6%9E%9C%E4%BB%A3%E6%9B%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [跨年无人机表演取消 疑有人下跪道歉](https://www.baidu.com/s?wd=%E8%B7%A8%E5%B9%B4%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A1%A8%E6%BC%94%E5%8F%96%E6%B6%88+%E7%96%91%E6%9C%89%E4%BA%BA%E4%B8%8B%E8%B7%AA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孙燕姿外I内E实锤了](https://www.baidu.com/s?wd=%E5%AD%99%E7%87%95%E5%A7%BF%E5%A4%96I%E5%86%85E%E5%AE%9E%E9%94%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [B站跨年晚会赢麻了](https://www.baidu.com/s?wd=B%E7%AB%99%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E8%B5%A2%E9%BA%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [五国加入金砖合作机制正式生效](https://www.baidu.com/s?wd=%E4%BA%94%E5%9B%BD%E5%8A%A0%E5%85%A5%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E6%9C%BA%E5%88%B6%E6%AD%A3%E5%BC%8F%E7%94%9F%E6%95%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [黑龙江感谢游客：把咱们整不会了](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%84%9F%E8%B0%A2%E6%B8%B8%E5%AE%A2%EF%BC%9A%E6%8A%8A%E5%92%B1%E4%BB%AC%E6%95%B4%E4%B8%8D%E4%BC%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [不爱吃蔬菜能多吃水果代替？](https://www.baidu.com/s?wd=%E4%B8%8D%E7%88%B1%E5%90%83%E8%94%AC%E8%8F%9C%E8%83%BD%E5%A4%9A%E5%90%83%E6%B0%B4%E6%9E%9C%E4%BB%A3%E6%9B%BF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
