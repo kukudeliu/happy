@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 13:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 13:32:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [生气了王源自己猜](https://s.weibo.com/weibo?q=%E7%94%9F%E6%B0%94%E4%BA%86%E7%8E%8B%E6%BA%90%E8%87%AA%E5%B7%B1%E7%8C%9C&t=31&band_rank=6&Refer=top)<br />
 7. [跨年收视率](https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [屈楚萧整个人都快熟了](https://s.weibo.com/weibo?q=%E5%B1%88%E6%A5%9A%E8%90%A7%E6%95%B4%E4%B8%AA%E4%BA%BA%E9%83%BD%E5%BF%AB%E7%86%9F%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [罗非鱼皮移植](https://s.weibo.com/weibo?q=%E7%BD%97%E9%9D%9E%E9%B1%BC%E7%9A%AE%E7%A7%BB%E6%A4%8D&t=31&band_rank=9&Refer=top)<br />
+9. [丹麦女王宣布将退位](https://s.weibo.com/weibo?q=%23%E4%B8%B9%E9%BA%A6%E5%A5%B3%E7%8E%8B%E5%AE%A3%E5%B8%83%E5%B0%86%E9%80%80%E4%BD%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
