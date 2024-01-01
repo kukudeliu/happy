@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 16:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 16:05:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [小破站跨年 还是你会玩](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%A0%B4%E7%AB%99%E8%B7%A8%E5%B9%B4%20%E8%BF%98%E6%98%AF%E4%BD%A0%E4%BC%9A%E7%8E%A9&t=31&band_rank=5&Refer=top)<br />
 6. [2024年三倍工资日历](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E4%B8%89%E5%80%8D%E5%B7%A5%E8%B5%84%E6%97%A5%E5%8E%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [苏醒蹭镜头](https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%E8%B9%AD%E9%95%9C%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
-8. [法老不是要退圈吗](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%81%E4%B8%8D%E6%98%AF%E8%A6%81%E9%80%80%E5%9C%88%E5%90%97&t=31&band_rank=8&Refer=top)<br />
-9. [大侦探 正归来](https://s.weibo.com/weibo?q=%E5%A4%A7%E4%BE%A6%E6%8E%A2%20%E6%AD%A3%E5%BD%92%E6%9D%A5&t=31&band_rank=9&Refer=top)<br />
+8. [父母一句话心理医生和朋友全白干](https://s.weibo.com/weibo?q=%E7%88%B6%E6%AF%8D%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%BF%83%E7%90%86%E5%8C%BB%E7%94%9F%E5%92%8C%E6%9C%8B%E5%8F%8B%E5%85%A8%E7%99%BD%E5%B9%B2&t=31&band_rank=8&Refer=top)<br />
+9. [日本今日已连发3次地震](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BB%8A%E6%97%A5%E5%B7%B2%E8%BF%9E%E5%8F%913%E6%AC%A1%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
