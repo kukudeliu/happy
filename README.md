@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 23:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 23:28:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [年会不能停 梗过于密集](https://s.weibo.com/weibo?q=%E5%B9%B4%E4%BC%9A%E4%B8%8D%E8%83%BD%E5%81%9C%20%E6%A2%97%E8%BF%87%E4%BA%8E%E5%AF%86%E9%9B%86&t=31&band_rank=5&Refer=top)<br />
 6. [张文逝世](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E9%80%9D%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [跨年无人机表演取消主办方下跪道歉](https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A1%A8%E6%BC%94%E5%8F%96%E6%B6%88%E4%B8%BB%E5%8A%9E%E6%96%B9%E4%B8%8B%E8%B7%AA%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [天价麻辣烫](https://s.weibo.com/weibo?q=%E5%A4%A9%E4%BB%B7%E9%BA%BB%E8%BE%A3%E7%83%AB&t=31&band_rank=8&Refer=top)<br />
-9. [从此排骨是排骨 年糕是年糕](https://s.weibo.com/weibo?q=%E4%BB%8E%E6%AD%A4%E6%8E%92%E9%AA%A8%E6%98%AF%E6%8E%92%E9%AA%A8%20%E5%B9%B4%E7%B3%95%E6%98%AF%E5%B9%B4%E7%B3%95&t=31&band_rank=9&Refer=top)<br />
+8. [从此排骨是排骨 年糕是年糕](https://s.weibo.com/weibo?q=%E4%BB%8E%E6%AD%A4%E6%8E%92%E9%AA%A8%E6%98%AF%E6%8E%92%E9%AA%A8%20%E5%B9%B4%E7%B3%95%E6%98%AF%E5%B9%B4%E7%B3%95&t=31&band_rank=8&Refer=top)<br />
+9. [天价麻辣烫](https://s.weibo.com/weibo?q=%E5%A4%A9%E4%BB%B7%E9%BA%BB%E8%BE%A3%E7%83%AB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
