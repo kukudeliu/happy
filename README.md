@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 15:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 15:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大侦探 正归来](https://s.weibo.com/weibo?q=%E5%A4%A7%E4%BE%A6%E6%8E%A2%20%E6%AD%A3%E5%BD%92%E6%9D%A5&t=31&band_rank=6&Refer=top)<br />
 7. [苏醒蹭镜头](https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%E8%B9%AD%E9%95%9C%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
 8. [法老不是要退圈吗](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%81%E4%B8%8D%E6%98%AF%E8%A6%81%E9%80%80%E5%9C%88%E5%90%97&t=31&band_rank=8&Refer=top)<br />
-9. [樊振东实名羡慕贾一凡奖金](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%AE%9E%E5%90%8D%E7%BE%A1%E6%85%95%E8%B4%BE%E4%B8%80%E5%87%A1%E5%A5%96%E9%87%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [日本强震引发5米海啸](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E5%BC%95%E5%8F%915%E7%B1%B3%E6%B5%B7%E5%95%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
