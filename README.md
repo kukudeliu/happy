@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 21:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-01 21:12:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [坐稳了！气温“过山车”又要发车了](https://www.baidu.com/s?wd=%E5%9D%90%E7%A8%B3%E4%BA%86%EF%BC%81%E6%B0%94%E6%B8%A9%E2%80%9C%E8%BF%87%E5%B1%B1%E8%BD%A6%E2%80%9D%E5%8F%88%E8%A6%81%E5%8F%91%E8%BD%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [蔡英文发表新年讲话 国台办驳斥](https://www.baidu.com/s?wd=%E8%94%A1%E8%8B%B1%E6%96%87%E5%8F%91%E8%A1%A8%E6%96%B0%E5%B9%B4%E8%AE%B2%E8%AF%9D+%E5%9B%BD%E5%8F%B0%E5%8A%9E%E9%A9%B3%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [《我爱你中国》](https://www.baidu.com/s?wd=%E3%80%8A%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [全国多个城市禁止老头乐](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E7%A6%81%E6%AD%A2%E8%80%81%E5%A4%B4%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [广东一乡镇公示8名“躺平休闲人员”](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E4%B9%A1%E9%95%87%E5%85%AC%E7%A4%BA8%E5%90%8D%E2%80%9C%E8%BA%BA%E5%B9%B3%E4%BC%91%E9%97%B2%E4%BA%BA%E5%91%98%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本强震重灾区大量建筑倒塌](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E9%87%8D%E7%81%BE%E5%8C%BA%E5%A4%A7%E9%87%8F%E5%BB%BA%E7%AD%91%E5%80%92%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [谢娜回应跨年夜情绪失控泪崩](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%9B%9E%E5%BA%94%E8%B7%A8%E5%B9%B4%E5%A4%9C%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E6%B3%AA%E5%B4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023国剧盛典](https://www.baidu.com/s?wd=2023%E5%9B%BD%E5%89%A7%E7%9B%9B%E5%85%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [坐稳了！气温“过山车”又要发车了](https://www.baidu.com/s?wd=%E5%9D%90%E7%A8%B3%E4%BA%86%EF%BC%81%E6%B0%94%E6%B8%A9%E2%80%9C%E8%BF%87%E5%B1%B1%E8%BD%A6%E2%80%9D%E5%8F%88%E8%A6%81%E5%8F%91%E8%BD%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [蔡英文发表新年讲话 国台办驳斥](https://www.baidu.com/s?wd=%E8%94%A1%E8%8B%B1%E6%96%87%E5%8F%91%E8%A1%A8%E6%96%B0%E5%B9%B4%E8%AE%B2%E8%AF%9D+%E5%9B%BD%E5%8F%B0%E5%8A%9E%E9%A9%B3%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [《我爱你中国》](https://www.baidu.com/s?wd=%E3%80%8A%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [全国多个城市禁止老头乐](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E7%A6%81%E6%AD%A2%E8%80%81%E5%A4%B4%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [广东一乡镇公示8名“躺平休闲人员”](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E4%B9%A1%E9%95%87%E5%85%AC%E7%A4%BA8%E5%90%8D%E2%80%9C%E8%BA%BA%E5%B9%B3%E4%BC%91%E9%97%B2%E4%BA%BA%E5%91%98%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本强震重灾区大量建筑倒塌](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E9%87%8D%E7%81%BE%E5%8C%BA%E5%A4%A7%E9%87%8F%E5%BB%BA%E7%AD%91%E5%80%92%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [谢娜回应跨年夜情绪失控泪崩](https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%9B%9E%E5%BA%94%E8%B7%A8%E5%B9%B4%E5%A4%9C%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E6%B3%AA%E5%B4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [2023国剧盛典](https://www.baidu.com/s?wd=2023%E5%9B%BD%E5%89%A7%E7%9B%9B%E5%85%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
