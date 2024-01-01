@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 03:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 03:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [从此排骨是排骨 年糕是年糕](https://s.weibo.com/weibo?q=%E4%BB%8E%E6%AD%A4%E6%8E%92%E9%AA%A8%E6%98%AF%E6%8E%92%E9%AA%A8%20%E5%B9%B4%E7%B3%95%E6%98%AF%E5%B9%B4%E7%B3%95&t=31&band_rank=6&Refer=top)<br />
 7. [天价麻辣烫](https://s.weibo.com/weibo?q=%E5%A4%A9%E4%BB%B7%E9%BA%BB%E8%BE%A3%E7%83%AB&t=31&band_rank=7&Refer=top)<br />
 8. [垃圾line永存](https://s.weibo.com/weibo?q=%E5%9E%83%E5%9C%BEline%E6%B0%B8%E5%AD%98&t=31&band_rank=8&Refer=top)<br />
-9. [黄景瑜零点跨年去哪儿了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E9%9B%B6%E7%82%B9%E8%B7%A8%E5%B9%B4%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [魏大勋一下台就去撸串了](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%B8%80%E4%B8%8B%E5%8F%B0%E5%B0%B1%E5%8E%BB%E6%92%B8%E4%B8%B2%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
