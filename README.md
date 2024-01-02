@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 10:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 10:14:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [疑似袭击李在明男子被捕](https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E8%A2%AD%E5%87%BB%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8D%95%23&t=31&band_rank=2&Refer=top)<br />
 3. [元旦起这些新规施行](https://s.weibo.com/weibo?q=%23%E5%85%83%E6%97%A6%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E6%96%BD%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [赵露思 终于知道邓超上春晚的感觉了](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E9%82%93%E8%B6%85%E4%B8%8A%E6%98%A5%E6%99%9A%E7%9A%84%E6%84%9F%E8%A7%89%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
-5. [床癌](https://s.weibo.com/weibo?q=%E5%BA%8A%E7%99%8C&t=31&band_rank=5&Refer=top)<br />
-6. [孕妇被坠窗砸伤为治疗终止妊娠](https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E8%A2%AB%E5%9D%A0%E7%AA%97%E7%A0%B8%E4%BC%A4%E4%B8%BA%E6%B2%BB%E7%96%97%E7%BB%88%E6%AD%A2%E5%A6%8A%E5%A8%A0%23&t=31&band_rank=6&Refer=top)<br />
+5. [孕妇被坠窗砸伤为治疗终止妊娠](https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E8%A2%AB%E5%9D%A0%E7%AA%97%E7%A0%B8%E4%BC%A4%E4%B8%BA%E6%B2%BB%E7%96%97%E7%BB%88%E6%AD%A2%E5%A6%8A%E5%A8%A0%23&t=31&band_rank=5&Refer=top)<br />
+6. [床癌](https://s.weibo.com/weibo?q=%E5%BA%8A%E7%99%8C&t=31&band_rank=6&Refer=top)<br />
 7. [王家卫拍出了辛芷蕾的人生镜头](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E6%8B%8D%E5%87%BA%E4%BA%86%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%9A%84%E4%BA%BA%E7%94%9F%E9%95%9C%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
 8. [李在明遇袭颈部流血紧急送医救治](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%E9%A2%88%E9%83%A8%E6%B5%81%E8%A1%80%E7%B4%A7%E6%80%A5%E9%80%81%E5%8C%BB%E6%95%91%E6%B2%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [今天凌晨太阳爆发一个强耀斑](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%87%8C%E6%99%A8%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%B8%80%E4%B8%AA%E5%BC%BA%E8%80%80%E6%96%91%23&t=31&band_rank=9&Refer=top)<br />
