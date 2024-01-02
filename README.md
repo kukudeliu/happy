@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 15:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 15:12:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [虞书欣戏份 删减](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%88%8F%E4%BB%BD%20%E5%88%A0%E5%87%8F&t=31&band_rank=2&Refer=top)<br />
 3. [2024开年第1个工作日](https://s.weibo.com/weibo?q=%232024%E5%BC%80%E5%B9%B4%E7%AC%AC1%E4%B8%AA%E5%B7%A5%E4%BD%9C%E6%97%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [前世界冠军疑似被丈夫撞死](https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E7%96%91%E4%BC%BC%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%92%9E%E6%AD%BB%23&t=31&band_rank=4&Refer=top)<br />
-5. [小杨哥劝大家别发大财](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%8A%9D%E5%A4%A7%E5%AE%B6%E5%88%AB%E5%8F%91%E5%A4%A7%E8%B4%A2%23&t=31&band_rank=5&Refer=top)<br />
-6. [把268元的裤子砍成了60元](https://s.weibo.com/weibo?q=%E6%8A%8A268%E5%85%83%E7%9A%84%E8%A3%A4%E5%AD%90%E7%A0%8D%E6%88%90%E4%BA%8660%E5%85%83&t=31&band_rank=6&Refer=top)<br />
+5. [把268元的裤子砍成了60元](https://s.weibo.com/weibo?q=%E6%8A%8A268%E5%85%83%E7%9A%84%E8%A3%A4%E5%AD%90%E7%A0%8D%E6%88%90%E4%BA%8660%E5%85%83&t=31&band_rank=5&Refer=top)<br />
+6. [小杨哥劝大家别发大财](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%8A%9D%E5%A4%A7%E5%AE%B6%E5%88%AB%E5%8F%91%E5%A4%A7%E8%B4%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [李在明被30厘米长刀刺中颈部](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%A2%AB30%E5%8E%98%E7%B1%B3%E9%95%BF%E5%88%80%E5%88%BA%E4%B8%AD%E9%A2%88%E9%83%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [李在明遇袭](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [青岛保安刺死外卖员背后](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E4%BF%9D%E5%AE%89%E5%88%BA%E6%AD%BB%E5%A4%96%E5%8D%96%E5%91%98%E8%83%8C%E5%90%8E%23&t=31&band_rank=9&Refer=top)<br />
+8. [青岛保安刺死外卖员背后](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E4%BF%9D%E5%AE%89%E5%88%BA%E6%AD%BB%E5%A4%96%E5%8D%96%E5%91%98%E8%83%8C%E5%90%8E%23&t=31&band_rank=8&Refer=top)<br />
+9. [李在明遇袭](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
