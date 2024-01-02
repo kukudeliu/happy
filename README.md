@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 16:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 16:39:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [小杨哥称他不得已才当网红](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E7%A7%B0%E4%BB%96%E4%B8%8D%E5%BE%97%E5%B7%B2%E6%89%8D%E5%BD%93%E7%BD%91%E7%BA%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [蒋欣 华妃13年后再演反派](https://s.weibo.com/weibo?q=%E8%92%8B%E6%AC%A3%20%E5%8D%8E%E5%A6%8313%E5%B9%B4%E5%90%8E%E5%86%8D%E6%BC%94%E5%8F%8D%E6%B4%BE&t=31&band_rank=6&Refer=top)<br />
 7. [把268元的裤子砍成了60元](https://s.weibo.com/weibo?q=%E6%8A%8A268%E5%85%83%E7%9A%84%E8%A3%A4%E5%AD%90%E7%A0%8D%E6%88%90%E4%BA%8660%E5%85%83&t=31&band_rank=7&Refer=top)<br />
-8. [出现这2个字你买到的是假牛奶](https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%8E%B0%E8%BF%992%E4%B8%AA%E5%AD%97%E4%BD%A0%E4%B9%B0%E5%88%B0%E7%9A%84%E6%98%AF%E5%81%87%E7%89%9B%E5%A5%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [智性恋](https://s.weibo.com/weibo?q=%E6%99%BA%E6%80%A7%E6%81%8B&t=31&band_rank=9&Refer=top)<br />
+8. [智性恋](https://s.weibo.com/weibo?q=%E6%99%BA%E6%80%A7%E6%81%8B&t=31&band_rank=8&Refer=top)<br />
+9. [出现这2个字你买到的是假牛奶](https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%8E%B0%E8%BF%992%E4%B8%AA%E5%AD%97%E4%BD%A0%E4%B9%B0%E5%88%B0%E7%9A%84%E6%98%AF%E5%81%87%E7%89%9B%E5%A5%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
