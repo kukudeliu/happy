@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 19:36:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 19:37:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [带过最大的团队是颐和园滑冰队](https://www.baidu.com/s?wd=%E5%B8%A6%E8%BF%87%E6%9C%80%E5%A4%A7%E7%9A%84%E5%9B%A2%E9%98%9F%E6%98%AF%E9%A2%90%E5%92%8C%E5%9B%AD%E6%BB%91%E5%86%B0%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本客机爆燃瞬间：滑行中炸成火球](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AE%A2%E6%9C%BA%E7%88%86%E7%87%83%E7%9E%AC%E9%97%B4%EF%BC%9A%E6%BB%91%E8%A1%8C%E4%B8%AD%E7%82%B8%E6%88%90%E7%81%AB%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子带4个摄像头打麻将1年赢70万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%A64%E4%B8%AA%E6%91%84%E5%83%8F%E5%A4%B4%E6%89%93%E9%BA%BB%E5%B0%861%E5%B9%B4%E8%B5%A270%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [面粉生产企业添加致癌物硼砂？](https://www.baidu.com/s?wd=%E9%9D%A2%E7%B2%89%E7%94%9F%E4%BA%A7%E4%BC%81%E4%B8%9A%E6%B7%BB%E5%8A%A0%E8%87%B4%E7%99%8C%E7%89%A9%E7%A1%BC%E7%A0%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [新能源汽车辐射大、会致癌？](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BE%90%E5%B0%84%E5%A4%A7%E3%80%81%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [带过最大的团队是颐和园滑冰队](https://www.baidu.com/s?wd=%E5%B8%A6%E8%BF%87%E6%9C%80%E5%A4%A7%E7%9A%84%E5%9B%A2%E9%98%9F%E6%98%AF%E9%A2%90%E5%92%8C%E5%9B%AD%E6%BB%91%E5%86%B0%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本客机爆燃瞬间：滑行中炸成火球](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AE%A2%E6%9C%BA%E7%88%86%E7%87%83%E7%9E%AC%E9%97%B4%EF%BC%9A%E6%BB%91%E8%A1%8C%E4%B8%AD%E7%82%B8%E6%88%90%E7%81%AB%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子带4个摄像头打麻将1年赢70万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%A64%E4%B8%AA%E6%91%84%E5%83%8F%E5%A4%B4%E6%89%93%E9%BA%BB%E5%B0%861%E5%B9%B4%E8%B5%A270%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [面粉生产企业添加致癌物硼砂？](https://www.baidu.com/s?wd=%E9%9D%A2%E7%B2%89%E7%94%9F%E4%BA%A7%E4%BC%81%E4%B8%9A%E6%B7%BB%E5%8A%A0%E8%87%B4%E7%99%8C%E7%89%A9%E7%A1%BC%E7%A0%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [新能源汽车辐射大、会致癌？](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BE%90%E5%B0%84%E5%A4%A7%E3%80%81%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
