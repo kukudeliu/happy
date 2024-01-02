@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 21:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 21:10:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [足迹·2023](https://www.baidu.com/s?wd=%E8%B6%B3%E8%BF%B9%C2%B72023&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [日本撞机事件已致5人死亡 机长重伤](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%92%9E%E6%9C%BA%E4%BA%8B%E4%BB%B6%E5%B7%B2%E8%87%B45%E4%BA%BA%E6%AD%BB%E4%BA%A1+%E6%9C%BA%E9%95%BF%E9%87%8D%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [三亚没想到这个冬天败给了哈尔滨](https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E8%B4%A5%E7%BB%99%E4%BA%86%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [雷军称小米SU7五十万内没有对手](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3SU7%E4%BA%94%E5%8D%81%E4%B8%87%E5%86%85%E6%B2%A1%E6%9C%89%E5%AF%B9%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [假期旅游迎来“开门红”](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E6%97%85%E6%B8%B8%E8%BF%8E%E6%9D%A5%E2%80%9C%E5%BC%80%E9%97%A8%E7%BA%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [三亚没想到这个冬天败给了哈尔滨](https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E8%B4%A5%E7%BB%99%E4%BA%86%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子欠4.63元被列为老赖 当地回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A04.63%E5%85%83%E8%A2%AB%E5%88%97%E4%B8%BA%E8%80%81%E8%B5%96+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [海南电视台主持人发不当言论被停职](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E7%94%B5%E8%A7%86%E5%8F%B0%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%91%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曝周海媚母亲出售女儿北京豪宅](https://www.baidu.com/s?wd=%E6%9B%9D%E5%91%A8%E6%B5%B7%E5%AA%9A%E6%AF%8D%E4%BA%B2%E5%87%BA%E5%94%AE%E5%A5%B3%E5%84%BF%E5%8C%97%E4%BA%AC%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [男子欠4.63元被列为老赖 当地回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A04.63%E5%85%83%E8%A2%AB%E5%88%97%E4%B8%BA%E8%80%81%E8%B5%96+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [海南电视台主持人发不当言论被停职](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E7%94%B5%E8%A7%86%E5%8F%B0%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%91%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [曝周海媚母亲出售女儿北京豪宅](https://www.baidu.com/s?wd=%E6%9B%9D%E5%91%A8%E6%B5%B7%E5%AA%9A%E6%AF%8D%E4%BA%B2%E5%87%BA%E5%94%AE%E5%A5%B3%E5%84%BF%E5%8C%97%E4%BA%AC%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [以色列假士兵偷枪还跟以总理合影](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%81%87%E5%A3%AB%E5%85%B5%E5%81%B7%E6%9E%AA%E8%BF%98%E8%B7%9F%E4%BB%A5%E6%80%BB%E7%90%86%E5%90%88%E5%BD%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新能源汽车辐射大、会致癌？](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BE%90%E5%B0%84%E5%A4%A7%E3%80%81%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [足迹·2023](https://www.baidu.com/s?wd=%E8%B6%B3%E8%BF%B9%C2%B72023&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [日本撞机事件已致5人死亡 机长重伤](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%92%9E%E6%9C%BA%E4%BA%8B%E4%BB%B6%E5%B7%B2%E8%87%B45%E4%BA%BA%E6%AD%BB%E4%BA%A1+%E6%9C%BA%E9%95%BF%E9%87%8D%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [三亚没想到这个冬天败给了哈尔滨](https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E8%B4%A5%E7%BB%99%E4%BA%86%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [雷军称小米SU7五十万内没有对手](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3SU7%E4%BA%94%E5%8D%81%E4%B8%87%E5%86%85%E6%B2%A1%E6%9C%89%E5%AF%B9%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [假期旅游迎来“开门红”](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E6%97%85%E6%B8%B8%E8%BF%8E%E6%9D%A5%E2%80%9C%E5%BC%80%E9%97%A8%E7%BA%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [三亚没想到这个冬天败给了哈尔滨](https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E8%B4%A5%E7%BB%99%E4%BA%86%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子欠4.63元被列为老赖 当地回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A04.63%E5%85%83%E8%A2%AB%E5%88%97%E4%B8%BA%E8%80%81%E8%B5%96+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [海南电视台主持人发不当言论被停职](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E7%94%B5%E8%A7%86%E5%8F%B0%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%91%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曝周海媚母亲出售女儿北京豪宅](https://www.baidu.com/s?wd=%E6%9B%9D%E5%91%A8%E6%B5%B7%E5%AA%9A%E6%AF%8D%E4%BA%B2%E5%87%BA%E5%94%AE%E5%A5%B3%E5%84%BF%E5%8C%97%E4%BA%AC%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [男子欠4.63元被列为老赖 当地回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A04.63%E5%85%83%E8%A2%AB%E5%88%97%E4%B8%BA%E8%80%81%E8%B5%96+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [海南电视台主持人发不当言论被停职](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E7%94%B5%E8%A7%86%E5%8F%B0%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%91%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [曝周海媚母亲出售女儿北京豪宅](https://www.baidu.com/s?wd=%E6%9B%9D%E5%91%A8%E6%B5%B7%E5%AA%9A%E6%AF%8D%E4%BA%B2%E5%87%BA%E5%94%AE%E5%A5%B3%E5%84%BF%E5%8C%97%E4%BA%AC%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [以色列假士兵偷枪还跟以总理合影](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%81%87%E5%A3%AB%E5%85%B5%E5%81%B7%E6%9E%AA%E8%BF%98%E8%B7%9F%E4%BB%A5%E6%80%BB%E7%90%86%E5%90%88%E5%BD%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新能源汽车辐射大、会致癌？](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BE%90%E5%B0%84%E5%A4%A7%E3%80%81%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
