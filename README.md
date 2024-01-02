@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 10:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 10:03:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [孕妇被坠窗砸伤为治疗终止妊娠](https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E8%A2%AB%E5%9D%A0%E7%AA%97%E7%A0%B8%E4%BC%A4%E4%B8%BA%E6%B2%BB%E7%96%97%E7%BB%88%E6%AD%A2%E5%A6%8A%E5%A8%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [今天凌晨太阳爆发一个强耀斑](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%87%8C%E6%99%A8%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%B8%80%E4%B8%AA%E5%BC%BA%E8%80%80%E6%96%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [王家卫拍出了辛芷蕾的人生镜头](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E6%8B%8D%E5%87%BA%E4%BA%86%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%9A%84%E4%BA%BA%E7%94%9F%E9%95%9C%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
-8. [百度宣布终止收购YY直播](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%BA%A6%E5%AE%A3%E5%B8%83%E7%BB%88%E6%AD%A2%E6%94%B6%E8%B4%ADYY%E7%9B%B4%E6%92%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [疑似袭击李在明男子被捕](https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E8%A2%AD%E5%87%BB%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8D%95%23&t=31&band_rank=9&Refer=top)<br />
+8. [疑似袭击李在明男子被捕](https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E8%A2%AD%E5%87%BB%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8D%95%23&t=31&band_rank=8&Refer=top)<br />
+9. [百度宣布终止收购YY直播](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%BA%A6%E5%AE%A3%E5%B8%83%E7%BB%88%E6%AD%A2%E6%94%B6%E8%B4%ADYY%E7%9B%B4%E6%92%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
