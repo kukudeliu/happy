@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 17:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 17:08:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [2024我们将共同见证](https://s.weibo.com/weibo?q=%232024%E6%88%91%E4%BB%AC%E5%B0%86%E5%85%B1%E5%90%8C%E8%A7%81%E8%AF%81%23&t=31&band_rank=3&Refer=top)<br />
 4. [被指肛珠作弊象棋冠军起诉中国棋协](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8C%87%E8%82%9B%E7%8F%A0%E4%BD%9C%E5%BC%8A%E8%B1%A1%E6%A3%8B%E5%86%A0%E5%86%9B%E8%B5%B7%E8%AF%89%E4%B8%AD%E5%9B%BD%E6%A3%8B%E5%8D%8F%23&t=31&band_rank=4&Refer=top)<br />
 5. [林一刘浩存全剧尺度最大的吻戏](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B8%80%E5%88%98%E6%B5%A9%E5%AD%98%E5%85%A8%E5%89%A7%E5%B0%BA%E5%BA%A6%E6%9C%80%E5%A4%A7%E7%9A%84%E5%90%BB%E6%88%8F%23&t=31&band_rank=5&Refer=top)<br />
-6. [前世界冠军疑似被丈夫撞死](https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E7%96%91%E4%BC%BC%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%92%9E%E6%AD%BB%23&t=31&band_rank=6&Refer=top)<br />
-7. [新马泰免签了也变贵了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%A9%AC%E6%B3%B0%E5%85%8D%E7%AD%BE%E4%BA%86%E4%B9%9F%E5%8F%98%E8%B4%B5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+6. [新马泰免签了也变贵了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%A9%AC%E6%B3%B0%E5%85%8D%E7%AD%BE%E4%BA%86%E4%B9%9F%E5%8F%98%E8%B4%B5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [前世界冠军疑似被丈夫撞死](https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E7%96%91%E4%BC%BC%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%92%9E%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [智性恋](https://s.weibo.com/weibo?q=%E6%99%BA%E6%80%A7%E6%81%8B&t=31&band_rank=8&Refer=top)<br />
 9. [小杨哥称他不得已才当网红](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E7%A7%B0%E4%BB%96%E4%B8%8D%E5%BE%97%E5%B7%B2%E6%89%8D%E5%BD%93%E7%BD%91%E7%BA%A2%23&t=31&band_rank=9&Refer=top)<br />
 
