@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 12:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 12:28:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [B站2023百大UP主](https://s.weibo.com/weibo?q=%23B%E7%AB%992023%E7%99%BE%E5%A4%A7UP%E4%B8%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [李在明被30厘米长刀刺中颈部](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%A2%AB30%E5%8E%98%E7%B1%B3%E9%95%BF%E5%88%80%E5%88%BA%E4%B8%AD%E9%A2%88%E9%83%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫李现二搭](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%E4%BA%8C%E6%90%AD&t=31&band_rank=7&Refer=top)<br />
-8. [尹锡悦回应李在明遇袭](https://s.weibo.com/weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E5%9B%9E%E5%BA%94%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [罗志祥演唱会跳科目三](https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%BF%97%E7%A5%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%23&t=31&band_rank=9&Refer=top)<br />
+8. [罗志祥演唱会跳科目三](https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%BF%97%E7%A5%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [尹锡悦回应李在明遇袭](https://s.weibo.com/weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E5%9B%9E%E5%BA%94%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
