@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 19:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 19:14:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [东北司机傲娇向乘客炫耀小土豆送的娃娃](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%8F%B8%E6%9C%BA%E5%82%B2%E5%A8%87%E5%90%91%E4%B9%98%E5%AE%A2%E7%82%AB%E8%80%80%E5%B0%8F%E5%9C%9F%E8%B1%86%E9%80%81%E7%9A%84%E5%A8%83%E5%A8%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [赵丽颖辛芷蕾与素人合影](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%BE%9B%E8%8A%B7%E8%95%BE%E4%B8%8E%E7%B4%A0%E4%BA%BA%E5%90%88%E5%BD%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [广西小朋友来哈尔滨被送外号小砂糖橘](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%9D%A5%E5%93%88%E5%B0%94%E6%BB%A8%E8%A2%AB%E9%80%81%E5%A4%96%E5%8F%B7%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%23&t=31&band_rank=7&Refer=top)<br />
-8. [向佐用婴儿车推郭碧婷](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E7%94%A8%E5%A9%B4%E5%84%BF%E8%BD%A6%E6%8E%A8%E9%83%AD%E7%A2%A7%E5%A9%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [次弟](https://s.weibo.com/weibo?q=%E6%AC%A1%E5%BC%9F&t=31&band_rank=9&Refer=top)<br />
+8. [次弟](https://s.weibo.com/weibo?q=%E6%AC%A1%E5%BC%9F&t=31&band_rank=8&Refer=top)<br />
+9. [童漠男人设崩了](https://s.weibo.com/weibo?q=%E7%AB%A5%E6%BC%A0%E7%94%B7%E4%BA%BA%E8%AE%BE%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
