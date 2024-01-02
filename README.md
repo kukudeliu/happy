@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 22:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 22:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈哲远 枭起青壤](https://s.weibo.com/weibo?q=%E9%99%88%E5%93%B2%E8%BF%9C%20%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4&t=31&band_rank=6&Refer=top)<br />
 7. [繁花](https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1&t=31&band_rank=7&Refer=top)<br />
 8. [5岁吃不到10种食物的女孩长大了](https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%90%83%E4%B8%8D%E5%88%B010%E7%A7%8D%E9%A3%9F%E7%89%A9%E7%9A%84%E5%A5%B3%E5%AD%A9%E9%95%BF%E5%A4%A7%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [哈尔滨元旦3天旅游总收入59.14亿](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%85%83%E6%97%A63%E5%A4%A9%E6%97%85%E6%B8%B8%E6%80%BB%E6%94%B6%E5%85%A559.14%E4%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [江晴朗放弃高考](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%99%B4%E6%9C%97%E6%94%BE%E5%BC%83%E9%AB%98%E8%80%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
