@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 21:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 21:32:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [三亚没想到这个冬天败给了哈尔滨](https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E8%B4%A5%E7%BB%99%E4%BA%86%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [海南电视台主持人发不当言论被停职](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E7%94%B5%E8%A7%86%E5%8F%B0%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%91%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子欠4.63元被列为老赖 当地回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A04.63%E5%85%83%E8%A2%AB%E5%88%97%E4%B8%BA%E8%80%81%E8%B5%96+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中方回应美强推光刻机禁令](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%BC%BA%E6%8E%A8%E5%85%89%E5%88%BB%E6%9C%BA%E7%A6%81%E4%BB%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浴缸事件的象棋冠军起诉中国棋协](https://www.baidu.com/s?wd=%E6%B5%B4%E7%BC%B8%E4%BA%8B%E4%BB%B6%E7%9A%84%E8%B1%A1%E6%A3%8B%E5%86%A0%E5%86%9B%E8%B5%B7%E8%AF%89%E4%B8%AD%E5%9B%BD%E6%A3%8B%E5%8D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新能源汽车辐射大、会致癌？](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BE%90%E5%B0%84%E5%A4%A7%E3%80%81%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [三亚没想到这个冬天败给了哈尔滨](https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E8%B4%A5%E7%BB%99%E4%BA%86%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [海南电视台主持人发不当言论被停职](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E7%94%B5%E8%A7%86%E5%8F%B0%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%91%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子欠4.63元被列为老赖 当地回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A04.63%E5%85%83%E8%A2%AB%E5%88%97%E4%B8%BA%E8%80%81%E8%B5%96+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中方回应美强推光刻机禁令](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%BC%BA%E6%8E%A8%E5%85%89%E5%88%BB%E6%9C%BA%E7%A6%81%E4%BB%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浴缸事件的象棋冠军起诉中国棋协](https://www.baidu.com/s?wd=%E6%B5%B4%E7%BC%B8%E4%BA%8B%E4%BB%B6%E7%9A%84%E8%B1%A1%E6%A3%8B%E5%86%A0%E5%86%9B%E8%B5%B7%E8%AF%89%E4%B8%AD%E5%9B%BD%E6%A3%8B%E5%8D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新能源汽车辐射大、会致癌？](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BE%90%E5%B0%84%E5%A4%A7%E3%80%81%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
