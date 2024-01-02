@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 12:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 12:50:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [新年贺词里的人民情怀](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E7%9A%84%E4%BA%BA%E6%B0%91%E6%83%85%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [袭击李在明男子持30厘米长刀猛刺](https://www.baidu.com/s?wd=%E8%A2%AD%E5%87%BB%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%94%B7%E5%AD%90%E6%8C%8130%E5%8E%98%E7%B1%B3%E9%95%BF%E5%88%80%E7%8C%9B%E5%88%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [2024年上班第一天](https://www.baidu.com/s?wd=2024%E5%B9%B4%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [#2024年上班第一天#](https://www.baidu.com/s?wd=%232024%E5%B9%B4%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [辞旧迎新 活力勃发](https://www.baidu.com/s?wd=%E8%BE%9E%E6%97%A7%E8%BF%8E%E6%96%B0+%E6%B4%BB%E5%8A%9B%E5%8B%83%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李在明伤情：颈部大量出血 仍有意识](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%BC%A4%E6%83%85%EF%BC%9A%E9%A2%88%E9%83%A8%E5%A4%A7%E9%87%8F%E5%87%BA%E8%A1%80+%E4%BB%8D%E6%9C%89%E6%84%8F%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [成都大雾 网友：睡了一觉成仙了](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%A4%A7%E9%9B%BE+%E7%BD%91%E5%8F%8B%EF%BC%9A%E7%9D%A1%E4%BA%86%E4%B8%80%E8%A7%89%E6%88%90%E4%BB%99%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [新年贺词里的人民情怀](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E7%9A%84%E4%BA%BA%E6%B0%91%E6%83%85%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [袭击李在明男子持30厘米长刀猛刺](https://www.baidu.com/s?wd=%E8%A2%AD%E5%87%BB%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%94%B7%E5%AD%90%E6%8C%8130%E5%8E%98%E7%B1%B3%E9%95%BF%E5%88%80%E7%8C%9B%E5%88%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [2024年上班第一天](https://www.baidu.com/s?wd=2024%E5%B9%B4%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [#2024年上班第一天#](https://www.baidu.com/s?wd=%232024%E5%B9%B4%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [辞旧迎新 活力勃发](https://www.baidu.com/s?wd=%E8%BE%9E%E6%97%A7%E8%BF%8E%E6%96%B0+%E6%B4%BB%E5%8A%9B%E5%8B%83%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李在明伤情：颈部大量出血 仍有意识](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%BC%A4%E6%83%85%EF%BC%9A%E9%A2%88%E9%83%A8%E5%A4%A7%E9%87%8F%E5%87%BA%E8%A1%80+%E4%BB%8D%E6%9C%89%E6%84%8F%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [成都大雾 网友：睡了一觉成仙了](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%A4%A7%E9%9B%BE+%E7%BD%91%E5%8F%8B%EF%BC%9A%E7%9D%A1%E4%BA%86%E4%B8%80%E8%A7%89%E6%88%90%E4%BB%99%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
