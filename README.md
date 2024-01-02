@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 06:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 06:59:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [日本飞机相撞事故为航空事故](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A3%9E%E6%9C%BA%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E4%B8%BA%E8%88%AA%E7%A9%BA%E4%BA%8B%E6%95%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [95后班主任爆改女团舞为高三学生减压](https://s.weibo.com/weibo?q=%2395%E5%90%8E%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%88%86%E6%94%B9%E5%A5%B3%E5%9B%A2%E8%88%9E%E4%B8%BA%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E5%87%8F%E5%8E%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [跨年晚会真假唱鉴定](https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E7%9C%9F%E5%81%87%E5%94%B1%E9%89%B4%E5%AE%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [太超前了尔滨](https://s.weibo.com/weibo?q=%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86%E5%B0%94%E6%BB%A8&t=31&band_rank=8&Refer=top)<br />
-9. [哈尔滨整不会了背后是整会了](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%95%B4%E4%B8%8D%E4%BC%9A%E4%BA%86%E8%83%8C%E5%90%8E%E6%98%AF%E6%95%B4%E4%BC%9A%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [郭麒麟亲了郭德纲一口](https://s.weibo.com/weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E4%BA%B2%E4%BA%86%E9%83%AD%E5%BE%B7%E7%BA%B2%E4%B8%80%E5%8F%A3%23&t=31&band_rank=8&Refer=top)<br />
+9. [太超前了尔滨](https://s.weibo.com/weibo?q=%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86%E5%B0%94%E6%BB%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
