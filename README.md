@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 13:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 13:43:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [辞旧迎新 活力勃发](https://www.baidu.com/s?wd=%E8%BE%9E%E6%97%A7%E8%BF%8E%E6%96%B0+%E6%B4%BB%E5%8A%9B%E5%8B%83%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李在明被送首尔救治 颈静脉或损伤](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%A2%AB%E9%80%81%E9%A6%96%E5%B0%94%E6%95%91%E6%B2%BB+%E9%A2%88%E9%9D%99%E8%84%89%E6%88%96%E6%8D%9F%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子忘通知父亲死讯 争执致姑妈骨折](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BF%98%E9%80%9A%E7%9F%A5%E7%88%B6%E4%BA%B2%E6%AD%BB%E8%AE%AF+%E4%BA%89%E6%89%A7%E8%87%B4%E5%A7%91%E5%A6%88%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [袭击李在明嫌犯一直沉默 动机不明](https://www.baidu.com/s?wd=%E8%A2%AD%E5%87%BB%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%AB%8C%E7%8A%AF%E4%B8%80%E7%9B%B4%E6%B2%89%E9%BB%98+%E5%8A%A8%E6%9C%BA%E4%B8%8D%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小杨哥劝大家别发大财](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%8A%9D%E5%A4%A7%E5%AE%B6%E5%88%AB%E5%8F%91%E5%A4%A7%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小杨哥劝大家别发大财](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%8A%9D%E5%A4%A7%E5%AE%B6%E5%88%AB%E5%8F%91%E5%A4%A7%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [官方通报106元天价麻辣烫](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5106%E5%85%83%E5%A4%A9%E4%BB%B7%E9%BA%BB%E8%BE%A3%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛火灾致19人死亡？谣言](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E7%81%AB%E7%81%BE%E8%87%B419%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [辞旧迎新 活力勃发](https://www.baidu.com/s?wd=%E8%BE%9E%E6%97%A7%E8%BF%8E%E6%96%B0+%E6%B4%BB%E5%8A%9B%E5%8B%83%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李在明被送首尔救治 颈静脉或损伤](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%A2%AB%E9%80%81%E9%A6%96%E5%B0%94%E6%95%91%E6%B2%BB+%E9%A2%88%E9%9D%99%E8%84%89%E6%88%96%E6%8D%9F%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子忘通知父亲死讯 争执致姑妈骨折](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BF%98%E9%80%9A%E7%9F%A5%E7%88%B6%E4%BA%B2%E6%AD%BB%E8%AE%AF+%E4%BA%89%E6%89%A7%E8%87%B4%E5%A7%91%E5%A6%88%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [袭击李在明嫌犯一直沉默 动机不明](https://www.baidu.com/s?wd=%E8%A2%AD%E5%87%BB%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%AB%8C%E7%8A%AF%E4%B8%80%E7%9B%B4%E6%B2%89%E9%BB%98+%E5%8A%A8%E6%9C%BA%E4%B8%8D%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小杨哥劝大家别发大财](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%8A%9D%E5%A4%A7%E5%AE%B6%E5%88%AB%E5%8F%91%E5%A4%A7%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小杨哥劝大家别发大财](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%8A%9D%E5%A4%A7%E5%AE%B6%E5%88%AB%E5%8F%91%E5%A4%A7%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [官方通报106元天价麻辣烫](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5106%E5%85%83%E5%A4%A9%E4%BB%B7%E9%BA%BB%E8%BE%A3%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛火灾致19人死亡？谣言](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E7%81%AB%E7%81%BE%E8%87%B419%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
