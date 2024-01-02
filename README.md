@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 14:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 14:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李在明被30厘米长刀刺中颈部](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%A2%AB30%E5%8E%98%E7%B1%B3%E9%95%BF%E5%88%80%E5%88%BA%E4%B8%AD%E9%A2%88%E9%83%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [青岛保安刺死外卖员背后](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E4%BF%9D%E5%AE%89%E5%88%BA%E6%AD%BB%E5%A4%96%E5%8D%96%E5%91%98%E8%83%8C%E5%90%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [官方通报湖南一碗麻辣烫106元](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B9%96%E5%8D%97%E4%B8%80%E7%A2%97%E9%BA%BB%E8%BE%A3%E7%83%AB106%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [李在明暂无生命危险](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%9A%82%E6%97%A0%E7%94%9F%E5%91%BD%E5%8D%B1%E9%99%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [学校回应高校干部酒后家暴打死妻子](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E9%AB%98%E6%A0%A1%E5%B9%B2%E9%83%A8%E9%85%92%E5%90%8E%E5%AE%B6%E6%9A%B4%E6%89%93%E6%AD%BB%E5%A6%BB%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
