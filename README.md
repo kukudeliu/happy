@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 16:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 16:14:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [文在寅就李在明遇袭发声](https://www.baidu.com/s?wd=%E6%96%87%E5%9C%A8%E5%AF%85%E5%B0%B1%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小杨哥劝大家别发大财](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%8A%9D%E5%A4%A7%E5%AE%B6%E5%88%AB%E5%8F%91%E5%A4%A7%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李在明遇袭时身边有50多名警察](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%E6%97%B6%E8%BA%AB%E8%BE%B9%E6%9C%8950%E5%A4%9A%E5%90%8D%E8%AD%A6%E5%AF%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [寻梦环游记太奶奶配音演员去世](https://www.baidu.com/s?wd=%E5%AF%BB%E6%A2%A6%E7%8E%AF%E6%B8%B8%E8%AE%B0%E5%A4%AA%E5%A5%B6%E5%A5%B6%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李在明被送首尔救治 颈静脉或损伤](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%A2%AB%E9%80%81%E9%A6%96%E5%B0%94%E6%95%91%E6%B2%BB+%E9%A2%88%E9%9D%99%E8%84%89%E6%88%96%E6%8D%9F%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛火灾致19人死亡？谣言](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E7%81%AB%E7%81%BE%E8%87%B419%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [文在寅就李在明遇袭发声](https://www.baidu.com/s?wd=%E6%96%87%E5%9C%A8%E5%AF%85%E5%B0%B1%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小杨哥劝大家别发大财](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%8A%9D%E5%A4%A7%E5%AE%B6%E5%88%AB%E5%8F%91%E5%A4%A7%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李在明遇袭时身边有50多名警察](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%E6%97%B6%E8%BA%AB%E8%BE%B9%E6%9C%8950%E5%A4%9A%E5%90%8D%E8%AD%A6%E5%AF%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [寻梦环游记太奶奶配音演员去世](https://www.baidu.com/s?wd=%E5%AF%BB%E6%A2%A6%E7%8E%AF%E6%B8%B8%E8%AE%B0%E5%A4%AA%E5%A5%B6%E5%A5%B6%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李在明被送首尔救治 颈静脉或损伤](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%A2%AB%E9%80%81%E9%A6%96%E5%B0%94%E6%95%91%E6%B2%BB+%E9%A2%88%E9%9D%99%E8%84%89%E6%88%96%E6%8D%9F%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛火灾致19人死亡？谣言](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E7%81%AB%E7%81%BE%E8%87%B419%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
