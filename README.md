@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 17:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 17:24:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [被指肛珠作弊象棋冠军起诉中国棋协](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8C%87%E8%82%9B%E7%8F%A0%E4%BD%9C%E5%BC%8A%E8%B1%A1%E6%A3%8B%E5%86%A0%E5%86%9B%E8%B5%B7%E8%AF%89%E4%B8%AD%E5%9B%BD%E6%A3%8B%E5%8D%8F%23&t=31&band_rank=5&Refer=top)<br />
 6. [中泰永久互相免签](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%B3%B0%E6%B0%B8%E4%B9%85%E4%BA%92%E7%9B%B8%E5%85%8D%E7%AD%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [智性恋](https://s.weibo.com/weibo?q=%E6%99%BA%E6%80%A7%E6%81%8B&t=31&band_rank=7&Refer=top)<br />
-8. [出现这2个字你买到的是假牛奶](https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%8E%B0%E8%BF%992%E4%B8%AA%E5%AD%97%E4%BD%A0%E4%B9%B0%E5%88%B0%E7%9A%84%E6%98%AF%E5%81%87%E7%89%9B%E5%A5%B6%23&t=31&band_rank=8&Refer=top)<br />
+8. [网红欧可爱车祸事件肇事司机被刑拘](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E6%AC%A7%E5%8F%AF%E7%88%B1%E8%BD%A6%E7%A5%B8%E4%BA%8B%E4%BB%B6%E8%82%87%E4%BA%8B%E5%8F%B8%E6%9C%BA%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=8&Refer=top)<br />
 9. [前世界冠军疑似被丈夫撞死](https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E7%96%91%E4%BC%BC%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%92%9E%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
