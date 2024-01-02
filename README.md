@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 08:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 09:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [iPhone为什么只有P大写](https://s.weibo.com/weibo?q=iPhone%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89P%E5%A4%A7%E5%86%99&t=31&band_rank=6&Refer=top)<br />
 7. [黄晓明小海绵亲子装](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%B0%8F%E6%B5%B7%E7%BB%B5%E4%BA%B2%E5%AD%90%E8%A3%85%23&t=31&band_rank=7&Refer=top)<br />
 8. [广东一地公示8名躺平休闲人员](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%9C%B0%E5%85%AC%E7%A4%BA8%E5%90%8D%E8%BA%BA%E5%B9%B3%E4%BC%91%E9%97%B2%E4%BA%BA%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈妍希兑现瘦十斤flag](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%85%91%E7%8E%B0%E7%98%A6%E5%8D%81%E6%96%A4flag%23&t=31&band_rank=9&Refer=top)<br />
+9. [王家卫拍出了辛芷蕾的人生镜头](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E6%8B%8D%E5%87%BA%E4%BA%86%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%9A%84%E4%BA%BA%E7%94%9F%E9%95%9C%E5%A4%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
