@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 17:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 17:35:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [奔向更好的日子](https://www.baidu.com/s?wd=%E5%A5%94%E5%90%91%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%97%A5%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [日本东京羽田机场一架飞机起火](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E7%BE%BD%E7%94%B0%E6%9C%BA%E5%9C%BA%E4%B8%80%E6%9E%B6%E9%A3%9E%E6%9C%BA%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [阿根廷表态不加入金砖 外交部回应](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%A1%A8%E6%80%81%E4%B8%8D%E5%8A%A0%E5%85%A5%E9%87%91%E7%A0%96+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [日本客机爆燃瞬间：滑行中炸成火球](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AE%A2%E6%9C%BA%E7%88%86%E7%87%83%E7%9E%AC%E9%97%B4%EF%BC%9A%E6%BB%91%E8%A1%8C%E4%B8%AD%E7%82%B8%E6%88%90%E7%81%AB%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [消费旺、市场热、出行畅](https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E6%97%BA%E3%80%81%E5%B8%82%E5%9C%BA%E7%83%AD%E3%80%81%E5%87%BA%E8%A1%8C%E7%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大学生卖糖葫芦被男子威胁?警方回应](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8D%96%E7%B3%96%E8%91%AB%E8%8A%A6%E8%A2%AB%E7%94%B7%E5%AD%90%E5%A8%81%E8%83%81%3F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子转机拿错行李零下20度穿短袖](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BD%AC%E6%9C%BA%E6%8B%BF%E9%94%99%E8%A1%8C%E6%9D%8E%E9%9B%B6%E4%B8%8B20%E5%BA%A6%E7%A9%BF%E7%9F%AD%E8%A2%96&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [奔向更好的日子](https://www.baidu.com/s?wd=%E5%A5%94%E5%90%91%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%97%A5%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [日本东京羽田机场一架飞机起火](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E7%BE%BD%E7%94%B0%E6%9C%BA%E5%9C%BA%E4%B8%80%E6%9E%B6%E9%A3%9E%E6%9C%BA%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [阿根廷表态不加入金砖 外交部回应](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%A1%A8%E6%80%81%E4%B8%8D%E5%8A%A0%E5%85%A5%E9%87%91%E7%A0%96+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [日本客机爆燃瞬间：滑行中炸成火球](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AE%A2%E6%9C%BA%E7%88%86%E7%87%83%E7%9E%AC%E9%97%B4%EF%BC%9A%E6%BB%91%E8%A1%8C%E4%B8%AD%E7%82%B8%E6%88%90%E7%81%AB%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [消费旺、市场热、出行畅](https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E6%97%BA%E3%80%81%E5%B8%82%E5%9C%BA%E7%83%AD%E3%80%81%E5%87%BA%E8%A1%8C%E7%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大学生卖糖葫芦被男子威胁?警方回应](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8D%96%E7%B3%96%E8%91%AB%E8%8A%A6%E8%A2%AB%E7%94%B7%E5%AD%90%E5%A8%81%E8%83%81%3F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子转机拿错行李零下20度穿短袖](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BD%AC%E6%9C%BA%E6%8B%BF%E9%94%99%E8%A1%8C%E6%9D%8E%E9%9B%B6%E4%B8%8B20%E5%BA%A6%E7%A9%BF%E7%9F%AD%E8%A2%96&sa=fyb_news&rsv_dl=fyb_news)<br />
