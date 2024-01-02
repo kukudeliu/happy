@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 16:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 16:19:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [阿根廷表态不加入金砖 外交部回应](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%A1%A8%E6%80%81%E4%B8%8D%E5%8A%A0%E5%85%A5%E9%87%91%E7%A0%96+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [辞旧迎新 活力勃发](https://www.baidu.com/s?wd=%E8%BE%9E%E6%97%A7%E8%BF%8E%E6%96%B0+%E6%B4%BB%E5%8A%9B%E5%8B%83%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [文在寅就李在明遇袭发声](https://www.baidu.com/s?wd=%E6%96%87%E5%9C%A8%E5%AF%85%E5%B0%B1%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小杨哥劝大家别发大财](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%8A%9D%E5%A4%A7%E5%AE%B6%E5%88%AB%E5%8F%91%E5%A4%A7%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [李在明遇袭时身边有50多名警察](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%E6%97%B6%E8%BA%AB%E8%BE%B9%E6%9C%8950%E5%A4%9A%E5%90%8D%E8%AD%A6%E5%AF%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子转机拿错行李零下20度穿短袖](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BD%AC%E6%9C%BA%E6%8B%BF%E9%94%99%E8%A1%8C%E6%9D%8E%E9%9B%B6%E4%B8%8B20%E5%BA%A6%E7%A9%BF%E7%9F%AD%E8%A2%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子转机拿错行李零下20度穿短袖](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BD%AC%E6%9C%BA%E6%8B%BF%E9%94%99%E8%A1%8C%E6%9D%8E%E9%9B%B6%E4%B8%8B20%E5%BA%A6%E7%A9%BF%E7%9F%AD%E8%A2%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日本火灾已造成上百栋建筑被烧毁](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%81%AB%E7%81%BE%E5%B7%B2%E9%80%A0%E6%88%90%E4%B8%8A%E7%99%BE%E6%A0%8B%E5%BB%BA%E7%AD%91%E8%A2%AB%E7%83%A7%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小杨哥劝大家别发大财](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%8A%9D%E5%A4%A7%E5%AE%B6%E5%88%AB%E5%8F%91%E5%A4%A7%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛火灾致19人死亡？谣言](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E7%81%AB%E7%81%BE%E8%87%B419%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [阿根廷表态不加入金砖 外交部回应](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%A1%A8%E6%80%81%E4%B8%8D%E5%8A%A0%E5%85%A5%E9%87%91%E7%A0%96+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [辞旧迎新 活力勃发](https://www.baidu.com/s?wd=%E8%BE%9E%E6%97%A7%E8%BF%8E%E6%96%B0+%E6%B4%BB%E5%8A%9B%E5%8B%83%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [文在寅就李在明遇袭发声](https://www.baidu.com/s?wd=%E6%96%87%E5%9C%A8%E5%AF%85%E5%B0%B1%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小杨哥劝大家别发大财](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%8A%9D%E5%A4%A7%E5%AE%B6%E5%88%AB%E5%8F%91%E5%A4%A7%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [李在明遇袭时身边有50多名警察](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%E6%97%B6%E8%BA%AB%E8%BE%B9%E6%9C%8950%E5%A4%9A%E5%90%8D%E8%AD%A6%E5%AF%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子转机拿错行李零下20度穿短袖](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BD%AC%E6%9C%BA%E6%8B%BF%E9%94%99%E8%A1%8C%E6%9D%8E%E9%9B%B6%E4%B8%8B20%E5%BA%A6%E7%A9%BF%E7%9F%AD%E8%A2%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子转机拿错行李零下20度穿短袖](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BD%AC%E6%9C%BA%E6%8B%BF%E9%94%99%E8%A1%8C%E6%9D%8E%E9%9B%B6%E4%B8%8B20%E5%BA%A6%E7%A9%BF%E7%9F%AD%E8%A2%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日本火灾已造成上百栋建筑被烧毁](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%81%AB%E7%81%BE%E5%B7%B2%E9%80%A0%E6%88%90%E4%B8%8A%E7%99%BE%E6%A0%8B%E5%BB%BA%E7%AD%91%E8%A2%AB%E7%83%A7%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小杨哥劝大家别发大财](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%8A%9D%E5%A4%A7%E5%AE%B6%E5%88%AB%E5%8F%91%E5%A4%A7%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛火灾致19人死亡？谣言](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E7%81%AB%E7%81%BE%E8%87%B419%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
