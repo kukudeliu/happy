@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 22:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 22:39:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [航天员太空开饭前互飞饺子](https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E5%BC%80%E9%A5%AD%E5%89%8D%E4%BA%92%E9%A3%9E%E9%A5%BA%E5%AD%90%23&t=31&band_rank=3&Refer=top)<br />
 4. [警方通报女大学生街头摆摊遭3名壮汉威胁](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A1%97%E5%A4%B4%E6%91%86%E6%91%8A%E9%81%AD3%E5%90%8D%E5%A3%AE%E6%B1%89%E5%A8%81%E8%83%81%23&t=31&band_rank=4&Refer=top)<br />
 5. [枭起青壤 迪丽热巴陈哲远](https://s.weibo.com/weibo?q=%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%99%88%E5%93%B2%E8%BF%9C&t=31&band_rank=5&Refer=top)<br />
-6. [日本海上保安厅飞机上已确认有5人死亡](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B5%B7%E4%B8%8A%E4%BF%9D%E5%AE%89%E5%8E%85%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%B7%B2%E7%A1%AE%E8%AE%A4%E6%9C%895%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
-7. [繁花](https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1&t=31&band_rank=7&Refer=top)<br />
+6. [繁花](https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1&t=31&band_rank=6&Refer=top)<br />
+7. [日本海上保安厅飞机上已确认有5人死亡](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B5%B7%E4%B8%8A%E4%BF%9D%E5%AE%89%E5%8E%85%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%B7%B2%E7%A1%AE%E8%AE%A4%E6%9C%895%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [江晴朗放弃高考](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%99%B4%E6%9C%97%E6%94%BE%E5%BC%83%E9%AB%98%E8%80%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [5岁吃不到10种食物的女孩长大了](https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%90%83%E4%B8%8D%E5%88%B010%E7%A7%8D%E9%A3%9F%E7%89%A9%E7%9A%84%E5%A5%B3%E5%AD%A9%E9%95%BF%E5%A4%A7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [纽约发生一系列爆炸](https://s.weibo.com/weibo?q=%23%E7%BA%BD%E7%BA%A6%E5%8F%91%E7%94%9F%E4%B8%80%E7%B3%BB%E5%88%97%E7%88%86%E7%82%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [海南电视台主持人发不当言论被停职](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E7%94%B5%E8%A7%86%E5%8F%B0%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%91%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [婚礼上父亲2次为女儿披棉袄](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%88%B6%E4%BA%B22%E6%AC%A1%E4%B8%BA%E5%A5%B3%E5%84%BF%E6%8A%AB%E6%A3%89%E8%A2%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王健林再卖一线城市万达广场](https://www.baidu.com/s?wd=%E7%8E%8B%E5%81%A5%E6%9E%97%E5%86%8D%E5%8D%96%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E4%B8%87%E8%BE%BE%E5%B9%BF%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子带4个摄像头打麻将1年赢70万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%A64%E4%B8%AA%E6%91%84%E5%83%8F%E5%A4%B4%E6%89%93%E9%BA%BB%E5%B0%861%E5%B9%B4%E8%B5%A270%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中方回应美强推光刻机禁令](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%BC%BA%E6%8E%A8%E5%85%89%E5%88%BB%E6%9C%BA%E7%A6%81%E4%BB%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新能源汽车辐射大、会致癌？](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BE%90%E5%B0%84%E5%A4%A7%E3%80%81%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [海南电视台主持人发不当言论被停职](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E7%94%B5%E8%A7%86%E5%8F%B0%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%91%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [婚礼上父亲2次为女儿披棉袄](https://www.baidu.com/s?wd=%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%88%B6%E4%BA%B22%E6%AC%A1%E4%B8%BA%E5%A5%B3%E5%84%BF%E6%8A%AB%E6%A3%89%E8%A2%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王健林再卖一线城市万达广场](https://www.baidu.com/s?wd=%E7%8E%8B%E5%81%A5%E6%9E%97%E5%86%8D%E5%8D%96%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E4%B8%87%E8%BE%BE%E5%B9%BF%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子带4个摄像头打麻将1年赢70万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%A64%E4%B8%AA%E6%91%84%E5%83%8F%E5%A4%B4%E6%89%93%E9%BA%BB%E5%B0%861%E5%B9%B4%E8%B5%A270%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中方回应美强推光刻机禁令](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%BC%BA%E6%8E%A8%E5%85%89%E5%88%BB%E6%9C%BA%E7%A6%81%E4%BB%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新能源汽车辐射大、会致癌？](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BE%90%E5%B0%84%E5%A4%A7%E3%80%81%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
