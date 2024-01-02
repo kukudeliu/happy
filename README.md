@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 22:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 22:41:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [枭起青壤 迪丽热巴陈哲远](https://s.weibo.com/weibo?q=%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%99%88%E5%93%B2%E8%BF%9C&t=31&band_rank=5&Refer=top)<br />
 6. [繁花](https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1&t=31&band_rank=6&Refer=top)<br />
 7. [日本海上保安厅飞机上已确认有5人死亡](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B5%B7%E4%B8%8A%E4%BF%9D%E5%AE%89%E5%8E%85%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%B7%B2%E7%A1%AE%E8%AE%A4%E6%9C%895%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [江晴朗放弃高考](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%99%B4%E6%9C%97%E6%94%BE%E5%BC%83%E9%AB%98%E8%80%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [纽约发生一系列爆炸](https://s.weibo.com/weibo?q=%23%E7%BA%BD%E7%BA%A6%E5%8F%91%E7%94%9F%E4%B8%80%E7%B3%BB%E5%88%97%E7%88%86%E7%82%B8%23&t=31&band_rank=9&Refer=top)<br />
+8. [纽约发生一系列爆炸](https://s.weibo.com/weibo?q=%23%E7%BA%BD%E7%BA%A6%E5%8F%91%E7%94%9F%E4%B8%80%E7%B3%BB%E5%88%97%E7%88%86%E7%82%B8%23&t=31&band_rank=8&Refer=top)<br />
+9. [江晴朗放弃高考](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%99%B4%E6%9C%97%E6%94%BE%E5%BC%83%E9%AB%98%E8%80%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
