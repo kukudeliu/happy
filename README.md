@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 13:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 13:05:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [小杨哥劝大家别发大财](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%8A%9D%E5%A4%A7%E5%AE%B6%E5%88%AB%E5%8F%91%E5%A4%A7%E8%B4%A2%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024开年第1个工作日](https://s.weibo.com/weibo?q=%232024%E5%BC%80%E5%B9%B4%E7%AC%AC1%E4%B8%AA%E5%B7%A5%E4%BD%9C%E6%97%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [官方通报湖南一碗麻辣烫106元](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B9%96%E5%8D%97%E4%B8%80%E7%A2%97%E9%BA%BB%E8%BE%A3%E7%83%AB106%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
-5. [李在明被30厘米长刀刺中颈部](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%A2%AB30%E5%8E%98%E7%B1%B3%E9%95%BF%E5%88%80%E5%88%BA%E4%B8%AD%E9%A2%88%E9%83%A8%23&t=31&band_rank=5&Refer=top)<br />
-6. [涉嫌代孕的武汉普仁医院被罚5万](https://s.weibo.com/weibo?q=%23%E6%B6%89%E5%AB%8C%E4%BB%A3%E5%AD%95%E7%9A%84%E6%AD%A6%E6%B1%89%E6%99%AE%E4%BB%81%E5%8C%BB%E9%99%A2%E8%A2%AB%E7%BD%9A5%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [李在明暂无生命危险](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%9A%82%E6%97%A0%E7%94%9F%E5%91%BD%E5%8D%B1%E9%99%A9%23&t=31&band_rank=7&Refer=top)<br />
+5. [李在明暂无生命危险](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%9A%82%E6%97%A0%E7%94%9F%E5%91%BD%E5%8D%B1%E9%99%A9%23&t=31&band_rank=5&Refer=top)<br />
+6. [李在明被30厘米长刀刺中颈部](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%A2%AB30%E5%8E%98%E7%B1%B3%E9%95%BF%E5%88%80%E5%88%BA%E4%B8%AD%E9%A2%88%E9%83%A8%23&t=31&band_rank=6&Refer=top)<br />
+7. [涉嫌代孕的武汉普仁医院被罚5万](https://s.weibo.com/weibo?q=%23%E6%B6%89%E5%AB%8C%E4%BB%A3%E5%AD%95%E7%9A%84%E6%AD%A6%E6%B1%89%E6%99%AE%E4%BB%81%E5%8C%BB%E9%99%A2%E8%A2%AB%E7%BD%9A5%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [B站2023百大UP主](https://s.weibo.com/weibo?q=%23B%E7%AB%992023%E7%99%BE%E5%A4%A7UP%E4%B8%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [何润东都演任嘉伦爸爸了](https://s.weibo.com/weibo?q=%E4%BD%95%E6%B6%A6%E4%B8%9C%E9%83%BD%E6%BC%94%E4%BB%BB%E5%98%89%E4%BC%A6%E7%88%B8%E7%88%B8%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
