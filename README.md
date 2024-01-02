@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 11:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 11:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [疑似袭击李在明男子被捕](https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E8%A2%AD%E5%87%BB%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8D%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [罗志祥演唱会跳科目三](https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%BF%97%E7%A5%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [赵露思后悔拒绝王安宇拍照](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%90%8E%E6%82%94%E6%8B%92%E7%BB%9D%E7%8E%8B%E5%AE%89%E5%AE%87%E6%8B%8D%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [国色芳华开拍](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E5%BC%80%E6%8B%8D&t=31&band_rank=9&Refer=top)<br />
+9. [官方通报湖南一碗麻辣烫106元](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B9%96%E5%8D%97%E4%B8%80%E7%A2%97%E9%BA%BB%E8%BE%A3%E7%83%AB106%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
