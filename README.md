@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 08:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 08:19:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [iPhone为什么只有P大写](https://s.weibo.com/weibo?q=iPhone%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89P%E5%A4%A7%E5%86%99&t=31&band_rank=5&Refer=top)<br />
 6. [王彦霖认证王鹤棣是单身](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%BD%A6%E9%9C%96%E8%AE%A4%E8%AF%81%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%98%AF%E5%8D%95%E8%BA%AB&t=31&band_rank=6&Refer=top)<br />
 7. [陈妍希兑现瘦十斤flag](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%85%91%E7%8E%B0%E7%98%A6%E5%8D%81%E6%96%A4flag%23&t=31&band_rank=7&Refer=top)<br />
-8. [从此排骨是排骨 年糕是年糕](https://s.weibo.com/weibo?q=%E4%BB%8E%E6%AD%A4%E6%8E%92%E9%AA%A8%E6%98%AF%E6%8E%92%E9%AA%A8%20%E5%B9%B4%E7%B3%95%E6%98%AF%E5%B9%B4%E7%B3%95&t=31&band_rank=8&Refer=top)<br />
+8. [一个月不换的床单有多脏](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%9C%88%E4%B8%8D%E6%8D%A2%E7%9A%84%E5%BA%8A%E5%8D%95%E6%9C%89%E5%A4%9A%E8%84%8F%23&t=31&band_rank=8&Refer=top)<br />
 9. [国足3人染红](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B33%E4%BA%BA%E6%9F%93%E7%BA%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
