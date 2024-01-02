@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 16:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 16:34:01</h4></div>
 
 > 微博  
 
@@ -17,24 +17,24 @@
 
 > 百度  
 
-1. [新年贺词里的人民情怀](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E7%9A%84%E4%BA%BA%E6%B0%91%E6%83%85%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [奔向更好的日子](https://www.baidu.com/s?wd=%E5%A5%94%E5%90%91%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%97%A5%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [阿根廷表态不加入金砖 外交部回应](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%A1%A8%E6%80%81%E4%B8%8D%E5%8A%A0%E5%85%A5%E9%87%91%E7%A0%96+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [男子转机拿错行李零下20度穿短袖](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BD%AC%E6%9C%BA%E6%8B%BF%E9%94%99%E8%A1%8C%E6%9D%8E%E9%9B%B6%E4%B8%8B20%E5%BA%A6%E7%A9%BF%E7%9F%AD%E8%A2%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [消费旺、市场热、出行畅](https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E6%97%BA%E3%80%81%E5%B8%82%E5%9C%BA%E7%83%AD%E3%80%81%E5%87%BA%E8%A1%8C%E7%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杨紫琼晒婴儿脚丫照](https://www.baidu.com/s?wd=%E6%9D%A8%E7%B4%AB%E7%90%BC%E6%99%92%E5%A9%B4%E5%84%BF%E8%84%9A%E4%B8%AB%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [以色列假士兵偷枪还跟以总理合影](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%81%87%E5%A3%AB%E5%85%B5%E5%81%B7%E6%9E%AA%E8%BF%98%E8%B7%9F%E4%BB%A5%E6%80%BB%E7%90%86%E5%90%88%E5%BD%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [小杨哥劝大家别发大财](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%8A%9D%E5%A4%A7%E5%AE%B6%E5%88%AB%E5%8F%91%E5%A4%A7%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [袭击李在明男子身份曝光](https://www.baidu.com/s?wd=%E8%A2%AD%E5%87%BB%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%94%B7%E5%AD%90%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小杨哥劝大家别发大财](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%8A%9D%E5%A4%A7%E5%AE%B6%E5%88%AB%E5%8F%91%E5%A4%A7%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [青岛火灾致19人死亡？谣言](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E7%81%AB%E7%81%BE%E8%87%B419%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [西双版纳一游客称点一盘虾13只108元](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E4%B8%80%E6%B8%B8%E5%AE%A2%E7%A7%B0%E7%82%B9%E4%B8%80%E7%9B%98%E8%99%BE13%E5%8F%AA108%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [面粉生产企业添加致癌物硼砂？](https://www.baidu.com/s?wd=%E9%9D%A2%E7%B2%89%E7%94%9F%E4%BA%A7%E4%BC%81%E4%B8%9A%E6%B7%BB%E5%8A%A0%E8%87%B4%E7%99%8C%E7%89%A9%E7%A1%BC%E7%A0%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
-1. [新年贺词里的人民情怀](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E7%9A%84%E4%BA%BA%E6%B0%91%E6%83%85%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [奔向更好的日子](https://www.baidu.com/s?wd=%E5%A5%94%E5%90%91%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%97%A5%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [阿根廷表态不加入金砖 外交部回应](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%A1%A8%E6%80%81%E4%B8%8D%E5%8A%A0%E5%85%A5%E9%87%91%E7%A0%96+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [男子转机拿错行李零下20度穿短袖](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BD%AC%E6%9C%BA%E6%8B%BF%E9%94%99%E8%A1%8C%E6%9D%8E%E9%9B%B6%E4%B8%8B20%E5%BA%A6%E7%A9%BF%E7%9F%AD%E8%A2%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [消费旺、市场热、出行畅](https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E6%97%BA%E3%80%81%E5%B8%82%E5%9C%BA%E7%83%AD%E3%80%81%E5%87%BA%E8%A1%8C%E7%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [杨紫琼晒婴儿脚丫照](https://www.baidu.com/s?wd=%E6%9D%A8%E7%B4%AB%E7%90%BC%E6%99%92%E5%A9%B4%E5%84%BF%E8%84%9A%E4%B8%AB%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [以色列假士兵偷枪还跟以总理合影](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%81%87%E5%A3%AB%E5%85%B5%E5%81%B7%E6%9E%AA%E8%BF%98%E8%B7%9F%E4%BB%A5%E6%80%BB%E7%90%86%E5%90%88%E5%BD%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [小杨哥劝大家别发大财](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%8A%9D%E5%A4%A7%E5%AE%B6%E5%88%AB%E5%8F%91%E5%A4%A7%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [袭击李在明男子身份曝光](https://www.baidu.com/s?wd=%E8%A2%AD%E5%87%BB%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%94%B7%E5%AD%90%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小杨哥劝大家别发大财](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%8A%9D%E5%A4%A7%E5%AE%B6%E5%88%AB%E5%8F%91%E5%A4%A7%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [青岛火灾致19人死亡？谣言](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E7%81%AB%E7%81%BE%E8%87%B419%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [西双版纳一游客称点一盘虾13只108元](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E4%B8%80%E6%B8%B8%E5%AE%A2%E7%A7%B0%E7%82%B9%E4%B8%80%E7%9B%98%E8%99%BE13%E5%8F%AA108%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [面粉生产企业添加致癌物硼砂？](https://www.baidu.com/s?wd=%E9%9D%A2%E7%B2%89%E7%94%9F%E4%BA%A7%E4%BC%81%E4%B8%9A%E6%B7%BB%E5%8A%A0%E8%87%B4%E7%99%8C%E7%89%A9%E7%A1%BC%E7%A0%82%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
