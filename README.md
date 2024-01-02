@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 11:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 11:28:01</h4></div>
 
 > 微博  
 
 1. [李在明遇袭](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%23&t=31&band_rank=1&Refer=top)<br />
 2. [疑似袭击李在明男子被捕](https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E8%A2%AD%E5%87%BB%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8D%95%23&t=31&band_rank=2&Refer=top)<br />
-3. [高清图看中国人自己建造的大型邮轮](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%B8%85%E5%9B%BE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%87%AA%E5%B7%B1%E5%BB%BA%E9%80%A0%E7%9A%84%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%23&t=31&band_rank=3&Refer=top)<br />
+3. [2024开年第1个工作日](https://s.weibo.com/weibo?q=%232024%E5%BC%80%E5%B9%B4%E7%AC%AC1%E4%B8%AA%E5%B7%A5%E4%BD%9C%E6%97%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [尹锡悦回应李在明遇袭](https://s.weibo.com/weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E5%9B%9E%E5%BA%94%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [李在明暂无生命危险](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%9A%82%E6%97%A0%E7%94%9F%E5%91%BD%E5%8D%B1%E9%99%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [罗志祥演唱会跳科目三](https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%BF%97%E7%A5%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%23&t=31&band_rank=6&Refer=top)<br />
