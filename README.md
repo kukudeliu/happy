@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 09:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 09:23:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [男子借给朋友61万 4年后无法要回](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%80%9F%E7%BB%99%E6%9C%8B%E5%8F%8B61%E4%B8%87+4%E5%B9%B4%E5%90%8E%E6%97%A0%E6%B3%95%E8%A6%81%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王家卫拍出了辛芷蕾的人生镜头](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E6%8B%8D%E5%87%BA%E4%BA%86%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%9A%84%E4%BA%BA%E7%94%9F%E9%95%9C%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [司机把油门当刹车 5秒撞人两次](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E6%8A%8A%E6%B2%B9%E9%97%A8%E5%BD%93%E5%88%B9%E8%BD%A6+5%E7%A7%92%E6%92%9E%E4%BA%BA%E4%B8%A4%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [飞行员不足 国泰航班大量取消](https://www.baidu.com/s?wd=%E9%A3%9E%E8%A1%8C%E5%91%98%E4%B8%8D%E8%B6%B3+%E5%9B%BD%E6%B3%B0%E8%88%AA%E7%8F%AD%E5%A4%A7%E9%87%8F%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [哈尔滨人均夹子音：相亲都没这么夹](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E4%BA%BA%E5%9D%87%E5%A4%B9%E5%AD%90%E9%9F%B3%EF%BC%9A%E7%9B%B8%E4%BA%B2%E9%83%BD%E6%B2%A1%E8%BF%99%E4%B9%88%E5%A4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [泉州一小区催缴800万水费？](https://www.baidu.com/s?wd=%E6%B3%89%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%82%AC%E7%BC%B4800%E4%B8%87%E6%B0%B4%E8%B4%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男子借给朋友61万 4年后无法要回](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%80%9F%E7%BB%99%E6%9C%8B%E5%8F%8B61%E4%B8%87+4%E5%B9%B4%E5%90%8E%E6%97%A0%E6%B3%95%E8%A6%81%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王家卫拍出了辛芷蕾的人生镜头](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E6%8B%8D%E5%87%BA%E4%BA%86%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%9A%84%E4%BA%BA%E7%94%9F%E9%95%9C%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [司机把油门当刹车 5秒撞人两次](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E6%8A%8A%E6%B2%B9%E9%97%A8%E5%BD%93%E5%88%B9%E8%BD%A6+5%E7%A7%92%E6%92%9E%E4%BA%BA%E4%B8%A4%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [飞行员不足 国泰航班大量取消](https://www.baidu.com/s?wd=%E9%A3%9E%E8%A1%8C%E5%91%98%E4%B8%8D%E8%B6%B3+%E5%9B%BD%E6%B3%B0%E8%88%AA%E7%8F%AD%E5%A4%A7%E9%87%8F%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [哈尔滨人均夹子音：相亲都没这么夹](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E4%BA%BA%E5%9D%87%E5%A4%B9%E5%AD%90%E9%9F%B3%EF%BC%9A%E7%9B%B8%E4%BA%B2%E9%83%BD%E6%B2%A1%E8%BF%99%E4%B9%88%E5%A4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [泉州一小区催缴800万水费？](https://www.baidu.com/s?wd=%E6%B3%89%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%82%AC%E7%BC%B4800%E4%B8%87%E6%B0%B4%E8%B4%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
