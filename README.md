@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 15:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 15:47:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [2024开年第1个工作日](https://s.weibo.com/weibo?q=%232024%E5%BC%80%E5%B9%B4%E7%AC%AC1%E4%B8%AA%E5%B7%A5%E4%BD%9C%E6%97%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [被指肛珠作弊象棋冠军起诉中国棋协](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8C%87%E8%82%9B%E7%8F%A0%E4%BD%9C%E5%BC%8A%E8%B1%A1%E6%A3%8B%E5%86%A0%E5%86%9B%E8%B5%B7%E8%AF%89%E4%B8%AD%E5%9B%BD%E6%A3%8B%E5%8D%8F%23&t=31&band_rank=4&Refer=top)<br />
 5. [把268元的裤子砍成了60元](https://s.weibo.com/weibo?q=%E6%8A%8A268%E5%85%83%E7%9A%84%E8%A3%A4%E5%AD%90%E7%A0%8D%E6%88%90%E4%BA%8660%E5%85%83&t=31&band_rank=5&Refer=top)<br />
-6. [虞书欣戏份 删减](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%88%8F%E4%BB%BD%20%E5%88%A0%E5%87%8F&t=31&band_rank=6&Refer=top)<br />
-7. [出现这2个字你买到的是假牛奶](https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%8E%B0%E8%BF%992%E4%B8%AA%E5%AD%97%E4%BD%A0%E4%B9%B0%E5%88%B0%E7%9A%84%E6%98%AF%E5%81%87%E7%89%9B%E5%A5%B6%23&t=31&band_rank=7&Refer=top)<br />
+6. [出现这2个字你买到的是假牛奶](https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%8E%B0%E8%BF%992%E4%B8%AA%E5%AD%97%E4%BD%A0%E4%B9%B0%E5%88%B0%E7%9A%84%E6%98%AF%E5%81%87%E7%89%9B%E5%A5%B6%23&t=31&band_rank=6&Refer=top)<br />
+7. [虞书欣戏份 删减](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%88%8F%E4%BB%BD%20%E5%88%A0%E5%87%8F&t=31&band_rank=7&Refer=top)<br />
 8. [李在明疑似颈静脉损伤](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%96%91%E4%BC%BC%E9%A2%88%E9%9D%99%E8%84%89%E6%8D%9F%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
 9. [小杨哥劝大家别发大财](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%8A%9D%E5%A4%A7%E5%AE%B6%E5%88%AB%E5%8F%91%E5%A4%A7%E8%B4%A2%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -22,7 +22,7 @@
 3. [中泰3月起永久互免签证](https://www.baidu.com/s?wd=%E4%B8%AD%E6%B3%B03%E6%9C%88%E8%B5%B7%E6%B0%B8%E4%B9%85%E4%BA%92%E5%85%8D%E7%AD%BE%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [辞旧迎新 活力勃发](https://www.baidu.com/s?wd=%E8%BE%9E%E6%97%A7%E8%BF%8E%E6%96%B0+%E6%B4%BB%E5%8A%9B%E5%8B%83%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [文在寅就李在明遇袭发声](https://www.baidu.com/s?wd=%E6%96%87%E5%9C%A8%E5%AF%85%E5%B0%B1%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [官方通报106元天价麻辣烫](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5106%E5%85%83%E5%A4%A9%E4%BB%B7%E9%BA%BB%E8%BE%A3%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [前世界冠军疑似被丈夫撞死](https://www.baidu.com/s?wd=%E5%89%8D%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E7%96%91%E4%BC%BC%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%92%9E%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李在明遇袭时身边有50多名警察](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%E6%97%B6%E8%BA%AB%E8%BE%B9%E6%9C%8950%E5%A4%9A%E5%90%8D%E8%AD%A6%E5%AF%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子忘通知父亲死讯 争执致姑妈骨折](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BF%98%E9%80%9A%E7%9F%A5%E7%88%B6%E4%BA%B2%E6%AD%BB%E8%AE%AF+%E4%BA%89%E6%89%A7%E8%87%B4%E5%A7%91%E5%A6%88%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛火灾致19人死亡？谣言](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E7%81%AB%E7%81%BE%E8%87%B419%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [中泰3月起永久互免签证](https://www.baidu.com/s?wd=%E4%B8%AD%E6%B3%B03%E6%9C%88%E8%B5%B7%E6%B0%B8%E4%B9%85%E4%BA%92%E5%85%8D%E7%AD%BE%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [辞旧迎新 活力勃发](https://www.baidu.com/s?wd=%E8%BE%9E%E6%97%A7%E8%BF%8E%E6%96%B0+%E6%B4%BB%E5%8A%9B%E5%8B%83%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [文在寅就李在明遇袭发声](https://www.baidu.com/s?wd=%E6%96%87%E5%9C%A8%E5%AF%85%E5%B0%B1%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [官方通报106元天价麻辣烫](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5106%E5%85%83%E5%A4%A9%E4%BB%B7%E9%BA%BB%E8%BE%A3%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [前世界冠军疑似被丈夫撞死](https://www.baidu.com/s?wd=%E5%89%8D%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E7%96%91%E4%BC%BC%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%92%9E%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李在明遇袭时身边有50多名警察](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%E6%97%B6%E8%BA%AB%E8%BE%B9%E6%9C%8950%E5%A4%9A%E5%90%8D%E8%AD%A6%E5%AF%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [男子忘通知父亲死讯 争执致姑妈骨折](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BF%98%E9%80%9A%E7%9F%A5%E7%88%B6%E4%BA%B2%E6%AD%BB%E8%AE%AF+%E4%BA%89%E6%89%A7%E8%87%B4%E5%A7%91%E5%A6%88%E9%AA%A8%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛火灾致19人死亡？谣言](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E7%81%AB%E7%81%BE%E8%87%B419%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
