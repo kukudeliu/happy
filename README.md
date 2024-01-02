@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 07:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 07:43:02</h4></div>
 
 > 微博  
 
 1. [主播声称几万元貂皮卖399大妈狂下单](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E5%A3%B0%E7%A7%B0%E5%87%A0%E4%B8%87%E5%85%83%E8%B2%82%E7%9A%AE%E5%8D%96399%E5%A4%A7%E5%A6%88%E7%8B%82%E4%B8%8B%E5%8D%95%23&t=31&band_rank=1&Refer=top)<br />
 2. [上海调整公积金个人住房贷款政策](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%B0%83%E6%95%B4%E5%85%AC%E7%A7%AF%E9%87%91%E4%B8%AA%E4%BA%BA%E4%BD%8F%E6%88%BF%E8%B4%B7%E6%AC%BE%E6%94%BF%E7%AD%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [航天员太空开饭前互飞饺子](https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E5%BC%80%E9%A5%AD%E5%89%8D%E4%BA%92%E9%A3%9E%E9%A5%BA%E5%AD%90%23&t=31&band_rank=3&Refer=top)<br />
-4. [7年情侣上恋综被所有人劝分](https://s.weibo.com/weibo?q=7%E5%B9%B4%E6%83%85%E4%BE%A3%E4%B8%8A%E6%81%8B%E7%BB%BC%E8%A2%AB%E6%89%80%E6%9C%89%E4%BA%BA%E5%8A%9D%E5%88%86&t=31&band_rank=4&Refer=top)<br />
-5. [郭麒麟亲了郭德纲一口](https://s.weibo.com/weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E4%BA%B2%E4%BA%86%E9%83%AD%E5%BE%B7%E7%BA%B2%E4%B8%80%E5%8F%A3%23&t=31&band_rank=5&Refer=top)<br />
+4. [郭麒麟亲了郭德纲一口](https://s.weibo.com/weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E4%BA%B2%E4%BA%86%E9%83%AD%E5%BE%B7%E7%BA%B2%E4%B8%80%E5%8F%A3%23&t=31&band_rank=4&Refer=top)<br />
+5. [7年情侣上恋综被所有人劝分](https://s.weibo.com/weibo?q=7%E5%B9%B4%E6%83%85%E4%BE%A3%E4%B8%8A%E6%81%8B%E7%BB%BC%E8%A2%AB%E6%89%80%E6%9C%89%E4%BA%BA%E5%8A%9D%E5%88%86&t=31&band_rank=5&Refer=top)<br />
 6. [警方通报女大学生街头摆摊遭3名壮汉威胁](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A1%97%E5%A4%B4%E6%91%86%E6%91%8A%E9%81%AD3%E5%90%8D%E5%A3%AE%E6%B1%89%E5%A8%81%E8%83%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [95后班主任爆改女团舞为高三学生减压](https://s.weibo.com/weibo?q=%2395%E5%90%8E%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%88%86%E6%94%B9%E5%A5%B3%E5%9B%A2%E8%88%9E%E4%B8%BA%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E5%87%8F%E5%8E%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [太超前了尔滨](https://s.weibo.com/weibo?q=%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86%E5%B0%94%E6%BB%A8&t=31&band_rank=8&Refer=top)<br />
