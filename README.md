@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 09:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 09:21:02</h4></div>
 
 > 微博  
 
-1. [今天凌晨太阳爆发一个强耀斑](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%87%8C%E6%99%A8%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%B8%80%E4%B8%AA%E5%BC%BA%E8%80%80%E6%96%91%23&t=31&band_rank=1&Refer=top)<br />
-2. [床癌](https://s.weibo.com/weibo?q=%E5%BA%8A%E7%99%8C&t=31&band_rank=2&Refer=top)<br />
+1. [床癌](https://s.weibo.com/weibo?q=%E5%BA%8A%E7%99%8C&t=31&band_rank=1&Refer=top)<br />
+2. [今天凌晨太阳爆发一个强耀斑](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%87%8C%E6%99%A8%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%B8%80%E4%B8%AA%E5%BC%BA%E8%80%80%E6%96%91%23&t=31&band_rank=2&Refer=top)<br />
 3. [元旦起这些新规施行](https://s.weibo.com/weibo?q=%23%E5%85%83%E6%97%A6%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E6%96%BD%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [赵露思 终于知道邓超上春晚的感觉了](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E9%82%93%E8%B6%85%E4%B8%8A%E6%98%A5%E6%99%9A%E7%9A%84%E6%84%9F%E8%A7%89%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [百度宣布终止收购YY直播](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%BA%A6%E5%AE%A3%E5%B8%83%E7%BB%88%E6%AD%A2%E6%94%B6%E8%B4%ADYY%E7%9B%B4%E6%92%AD%23&t=31&band_rank=5&Refer=top)<br />
