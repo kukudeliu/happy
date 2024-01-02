@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 12:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 12:59:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [B站2023百大UP主](https://s.weibo.com/weibo?q=%23B%E7%AB%992023%E7%99%BE%E5%A4%A7UP%E4%B8%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [涉嫌代孕的武汉普仁医院被罚5万](https://s.weibo.com/weibo?q=%23%E6%B6%89%E5%AB%8C%E4%BB%A3%E5%AD%95%E7%9A%84%E6%AD%A6%E6%B1%89%E6%99%AE%E4%BB%81%E5%8C%BB%E9%99%A2%E8%A2%AB%E7%BD%9A5%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨紫李现二搭](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%E4%BA%8C%E6%90%AD&t=31&band_rank=8&Refer=top)<br />
-9. [罗志祥演唱会跳科目三](https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%BF%97%E7%A5%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [钟欣潼演丁禹兮母亲](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%AC%A3%E6%BD%BC%E6%BC%94%E4%B8%81%E7%A6%B9%E5%85%AE%E6%AF%8D%E4%BA%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
