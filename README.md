@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 22:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 22:14:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [海南电视台主持人发不当言论被停职](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E7%94%B5%E8%A7%86%E5%8F%B0%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%91%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王健林再卖一线城市万达广场](https://www.baidu.com/s?wd=%E7%8E%8B%E5%81%A5%E6%9E%97%E5%86%8D%E5%8D%96%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E4%B8%87%E8%BE%BE%E5%B9%BF%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李在明已恢复清醒 仍在ICU](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B7%B2%E6%81%A2%E5%A4%8D%E6%B8%85%E9%86%92+%E4%BB%8D%E5%9C%A8ICU&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [佛山一地公示年度躺平者 专家解读](https://www.baidu.com/s?wd=%E4%BD%9B%E5%B1%B1%E4%B8%80%E5%9C%B0%E5%85%AC%E7%A4%BA%E5%B9%B4%E5%BA%A6%E8%BA%BA%E5%B9%B3%E8%80%85+%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本居民拍到地震时地壳位移](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B1%85%E6%B0%91%E6%8B%8D%E5%88%B0%E5%9C%B0%E9%9C%87%E6%97%B6%E5%9C%B0%E5%A3%B3%E4%BD%8D%E7%A7%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新能源汽车辐射大、会致癌？](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BE%90%E5%B0%84%E5%A4%A7%E3%80%81%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [海南电视台主持人发不当言论被停职](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E7%94%B5%E8%A7%86%E5%8F%B0%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%91%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王健林再卖一线城市万达广场](https://www.baidu.com/s?wd=%E7%8E%8B%E5%81%A5%E6%9E%97%E5%86%8D%E5%8D%96%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E4%B8%87%E8%BE%BE%E5%B9%BF%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李在明已恢复清醒 仍在ICU](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B7%B2%E6%81%A2%E5%A4%8D%E6%B8%85%E9%86%92+%E4%BB%8D%E5%9C%A8ICU&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [佛山一地公示年度躺平者 专家解读](https://www.baidu.com/s?wd=%E4%BD%9B%E5%B1%B1%E4%B8%80%E5%9C%B0%E5%85%AC%E7%A4%BA%E5%B9%B4%E5%BA%A6%E8%BA%BA%E5%B9%B3%E8%80%85+%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本居民拍到地震时地壳位移](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B1%85%E6%B0%91%E6%8B%8D%E5%88%B0%E5%9C%B0%E9%9C%87%E6%97%B6%E5%9C%B0%E5%A3%B3%E4%BD%8D%E7%A7%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新能源汽车辐射大、会致癌？](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BE%90%E5%B0%84%E5%A4%A7%E3%80%81%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
