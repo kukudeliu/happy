@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 21:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 21:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [日本羽田机场中国旅客发声](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BE%BD%E7%94%B0%E6%9C%BA%E5%9C%BA%E4%B8%AD%E5%9B%BD%E6%97%85%E5%AE%A2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖程皓发不当言论暂停其主持人工作](https://s.weibo.com/weibo?q=%23%E8%82%96%E7%A8%8B%E7%9A%93%E5%8F%91%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E6%9A%82%E5%81%9C%E5%85%B6%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [雷军 50万以内有对手吗](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%2050%E4%B8%87%E4%BB%A5%E5%86%85%E6%9C%89%E5%AF%B9%E6%89%8B%E5%90%97&t=31&band_rank=8&Refer=top)<br />
-9. [Jaemin和GISELLE的cha](https://s.weibo.com/weibo?q=Jaemin%E5%92%8CGISELLE%E7%9A%84cha&t=31&band_rank=9&Refer=top)<br />
+9. [繁花](https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
