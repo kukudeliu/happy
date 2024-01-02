@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 08:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 08:36:01</h4></div>
 
 > 微博  
 
 1. [今天凌晨太阳爆发一个强耀斑](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%87%8C%E6%99%A8%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%B8%80%E4%B8%AA%E5%BC%BA%E8%80%80%E6%96%91%23&t=31&band_rank=1&Refer=top)<br />
 2. [赵露思 终于知道邓超上春晚的感觉了](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E9%82%93%E8%B6%85%E4%B8%8A%E6%98%A5%E6%99%9A%E7%9A%84%E6%84%9F%E8%A7%89%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [元旦起这些新规施行](https://s.weibo.com/weibo?q=%23%E5%85%83%E6%97%A6%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E6%96%BD%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
-4. [iPhone为什么只有P大写](https://s.weibo.com/weibo?q=iPhone%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89P%E5%A4%A7%E5%86%99&t=31&band_rank=4&Refer=top)<br />
+4. [百度宣布终止收购YY直播](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%BA%A6%E5%AE%A3%E5%B8%83%E7%BB%88%E6%AD%A2%E6%94%B6%E8%B4%ADYY%E7%9B%B4%E6%92%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [黄晓明小海绵亲子装](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%B0%8F%E6%B5%B7%E7%BB%B5%E4%BA%B2%E5%AD%90%E8%A3%85%23&t=31&band_rank=5&Refer=top)<br />
-6. [广东一地公示8名躺平休闲人员](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%9C%B0%E5%85%AC%E7%A4%BA8%E5%90%8D%E8%BA%BA%E5%B9%B3%E4%BC%91%E9%97%B2%E4%BA%BA%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
-7. [王彦霖认证王鹤棣是单身](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%BD%A6%E9%9C%96%E8%AE%A4%E8%AF%81%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%98%AF%E5%8D%95%E8%BA%AB&t=31&band_rank=7&Refer=top)<br />
-8. [陈妍希兑现瘦十斤flag](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%85%91%E7%8E%B0%E7%98%A6%E5%8D%81%E6%96%A4flag%23&t=31&band_rank=8&Refer=top)<br />
+6. [iPhone为什么只有P大写](https://s.weibo.com/weibo?q=iPhone%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89P%E5%A4%A7%E5%86%99&t=31&band_rank=6&Refer=top)<br />
+7. [广东一地公示8名躺平休闲人员](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%9C%B0%E5%85%AC%E7%A4%BA8%E5%90%8D%E8%BA%BA%E5%B9%B3%E4%BC%91%E9%97%B2%E4%BA%BA%E5%91%98%23&t=31&band_rank=7&Refer=top)<br />
+8. [王彦霖认证王鹤棣是单身](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%BD%A6%E9%9C%96%E8%AE%A4%E8%AF%81%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%98%AF%E5%8D%95%E8%BA%AB&t=31&band_rank=8&Refer=top)<br />
 9. [从此排骨是排骨 年糕是年糕](https://s.weibo.com/weibo?q=%E4%BB%8E%E6%AD%A4%E6%8E%92%E9%AA%A8%E6%98%AF%E6%8E%92%E9%AA%A8%20%E5%B9%B4%E7%B3%95%E6%98%AF%E5%B9%B4%E7%B3%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
