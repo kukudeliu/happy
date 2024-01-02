@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 21:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 21:50:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [警方通报女大学生街头摆摊遭3名壮汉威胁](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A1%97%E5%A4%B4%E6%91%86%E6%91%8A%E9%81%AD3%E5%90%8D%E5%A3%AE%E6%B1%89%E5%A8%81%E8%83%81%23&t=31&band_rank=4&Refer=top)<br />
 5. [开封一11岁女生在KTV被未成年人强暴](https://s.weibo.com/weibo?q=%E5%BC%80%E5%B0%81%E4%B8%8011%E5%B2%81%E5%A5%B3%E7%94%9F%E5%9C%A8KTV%E8%A2%AB%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E5%BC%BA%E6%9A%B4&t=31&band_rank=5&Refer=top)<br />
 6. [陈哲远 枭起青壤](https://s.weibo.com/weibo?q=%E9%99%88%E5%93%B2%E8%BF%9C%20%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4&t=31&band_rank=6&Refer=top)<br />
-7. [繁花](https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1&t=31&band_rank=7&Refer=top)<br />
-8. [哈尔滨元旦3天旅游总收入59.14亿](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%85%83%E6%97%A63%E5%A4%A9%E6%97%85%E6%B8%B8%E6%80%BB%E6%94%B6%E5%85%A559.14%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
+7. [哈尔滨元旦3天旅游总收入59.14亿](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%85%83%E6%97%A63%E5%A4%A9%E6%97%85%E6%B8%B8%E6%80%BB%E6%94%B6%E5%85%A559.14%E4%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
+8. [繁花](https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1&t=31&band_rank=8&Refer=top)<br />
 9. [5岁吃不到10种食物的女孩长大了](https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%90%83%E4%B8%8D%E5%88%B010%E7%A7%8D%E9%A3%9F%E7%89%A9%E7%9A%84%E5%A5%B3%E5%AD%A9%E9%95%BF%E5%A4%A7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
