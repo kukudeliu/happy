@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 19:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 19:51:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [消费旺、市场热、出行畅](https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E6%97%BA%E3%80%81%E5%B8%82%E5%9C%BA%E7%83%AD%E3%80%81%E5%87%BA%E8%A1%8C%E7%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大学生卖糖葫芦被男子威胁?警方回应](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8D%96%E7%B3%96%E8%91%AB%E8%8A%A6%E8%A2%AB%E7%94%B7%E5%AD%90%E5%A8%81%E8%83%81%3F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本撞机事件已致5人死亡 机长重伤](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%92%9E%E6%9C%BA%E4%BA%8B%E4%BB%B6%E5%B7%B2%E8%87%B45%E4%BA%BA%E6%AD%BB%E4%BA%A1+%E6%9C%BA%E9%95%BF%E9%87%8D%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本客机爆燃瞬间：滑行中炸成火球](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AE%A2%E6%9C%BA%E7%88%86%E7%87%83%E7%9E%AC%E9%97%B4%EF%BC%9A%E6%BB%91%E8%A1%8C%E4%B8%AD%E7%82%B8%E6%88%90%E7%81%AB%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李在明遇袭时身边有50多名警察](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%E6%97%B6%E8%BA%AB%E8%BE%B9%E6%9C%8950%E5%A4%9A%E5%90%8D%E8%AD%A6%E5%AF%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [李在明遇袭时身边有50多名警察](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%E6%97%B6%E8%BA%AB%E8%BE%B9%E6%9C%8950%E5%A4%9A%E5%90%8D%E8%AD%A6%E5%AF%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子带4个摄像头打麻将1年赢70万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%A64%E4%B8%AA%E6%91%84%E5%83%8F%E5%A4%B4%E6%89%93%E9%BA%BB%E5%B0%861%E5%B9%B4%E8%B5%A270%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新能源汽车辐射大、会致癌？](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BE%90%E5%B0%84%E5%A4%A7%E3%80%81%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [消费旺、市场热、出行畅](https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E6%97%BA%E3%80%81%E5%B8%82%E5%9C%BA%E7%83%AD%E3%80%81%E5%87%BA%E8%A1%8C%E7%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大学生卖糖葫芦被男子威胁?警方回应](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8D%96%E7%B3%96%E8%91%AB%E8%8A%A6%E8%A2%AB%E7%94%B7%E5%AD%90%E5%A8%81%E8%83%81%3F%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本撞机事件已致5人死亡 机长重伤](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%92%9E%E6%9C%BA%E4%BA%8B%E4%BB%B6%E5%B7%B2%E8%87%B45%E4%BA%BA%E6%AD%BB%E4%BA%A1+%E6%9C%BA%E9%95%BF%E9%87%8D%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本客机爆燃瞬间：滑行中炸成火球](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AE%A2%E6%9C%BA%E7%88%86%E7%87%83%E7%9E%AC%E9%97%B4%EF%BC%9A%E6%BB%91%E8%A1%8C%E4%B8%AD%E7%82%B8%E6%88%90%E7%81%AB%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李在明遇袭时身边有50多名警察](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%E6%97%B6%E8%BA%AB%E8%BE%B9%E6%9C%8950%E5%A4%9A%E5%90%8D%E8%AD%A6%E5%AF%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [李在明遇袭时身边有50多名警察](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%E6%97%B6%E8%BA%AB%E8%BE%B9%E6%9C%8950%E5%A4%9A%E5%90%8D%E8%AD%A6%E5%AF%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子带4个摄像头打麻将1年赢70万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%A64%E4%B8%AA%E6%91%84%E5%83%8F%E5%A4%B4%E6%89%93%E9%BA%BB%E5%B0%861%E5%B9%B4%E8%B5%A270%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新能源汽车辐射大、会致癌？](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BE%90%E5%B0%84%E5%A4%A7%E3%80%81%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
