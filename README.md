@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 22:34:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 22:35:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 > 百度  
 
 1. [足迹·2023](https://www.baidu.com/s?wd=%E8%B6%B3%E8%BF%B9%C2%B72023&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [哈尔滨元旦3天旅游总收入59.14亿](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%85%83%E6%97%A63%E5%A4%A9%E6%97%85%E6%B8%B8%E6%80%BB%E6%94%B6%E5%85%A559.14%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [日本认定飞机相撞事故为航空事故](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AE%A4%E5%AE%9A%E9%A3%9E%E6%9C%BA%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E4%B8%BA%E8%88%AA%E7%A9%BA%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [日本认定飞机相撞事故为航空事故](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AE%A4%E5%AE%9A%E9%A3%9E%E6%9C%BA%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E4%B8%BA%E8%88%AA%E7%A9%BA%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [哈尔滨元旦3天旅游总收入59.14亿](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%85%83%E6%97%A63%E5%A4%A9%E6%97%85%E6%B8%B8%E6%80%BB%E6%94%B6%E5%85%A559.14%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [假期旅游迎来“开门红”](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E6%97%85%E6%B8%B8%E8%BF%8E%E6%9D%A5%E2%80%9C%E5%BC%80%E9%97%A8%E7%BA%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [海南电视台主持人发不当言论被停职](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E7%94%B5%E8%A7%86%E5%8F%B0%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%91%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本居民拍到地震时地壳位移](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B1%85%E6%B0%91%E6%8B%8D%E5%88%B0%E5%9C%B0%E9%9C%87%E6%97%B6%E5%9C%B0%E5%A3%B3%E4%BD%8D%E7%A7%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,8 +30,8 @@
 > 哔哩哔哩  
 
 1. [足迹·2023](https://www.baidu.com/s?wd=%E8%B6%B3%E8%BF%B9%C2%B72023&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [哈尔滨元旦3天旅游总收入59.14亿](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%85%83%E6%97%A63%E5%A4%A9%E6%97%85%E6%B8%B8%E6%80%BB%E6%94%B6%E5%85%A559.14%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [日本认定飞机相撞事故为航空事故](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AE%A4%E5%AE%9A%E9%A3%9E%E6%9C%BA%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E4%B8%BA%E8%88%AA%E7%A9%BA%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [日本认定飞机相撞事故为航空事故](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AE%A4%E5%AE%9A%E9%A3%9E%E6%9C%BA%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E4%B8%BA%E8%88%AA%E7%A9%BA%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [哈尔滨元旦3天旅游总收入59.14亿](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%85%83%E6%97%A63%E5%A4%A9%E6%97%85%E6%B8%B8%E6%80%BB%E6%94%B6%E5%85%A559.14%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [假期旅游迎来“开门红”](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E6%97%85%E6%B8%B8%E8%BF%8E%E6%9D%A5%E2%80%9C%E5%BC%80%E9%97%A8%E7%BA%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [海南电视台主持人发不当言论被停职](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E7%94%B5%E8%A7%86%E5%8F%B0%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%91%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E8%A2%AB%E5%81%9C%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本居民拍到地震时地壳位移](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B1%85%E6%B0%91%E6%8B%8D%E5%88%B0%E5%9C%B0%E9%9C%87%E6%97%B6%E5%9C%B0%E5%A3%B3%E4%BD%8D%E7%A7%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
