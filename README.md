@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 16:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 16:57:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [小杨哥称他不得已才当网红](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E7%A7%B0%E4%BB%96%E4%B8%8D%E5%BE%97%E5%B7%B2%E6%89%8D%E5%BD%93%E7%BD%91%E7%BA%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [前世界冠军疑似被丈夫撞死](https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E7%96%91%E4%BC%BC%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%92%9E%E6%AD%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [智性恋](https://s.weibo.com/weibo?q=%E6%99%BA%E6%80%A7%E6%81%8B&t=31&band_rank=7&Refer=top)<br />
-8. [出现这2个字你买到的是假牛奶](https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%8E%B0%E8%BF%992%E4%B8%AA%E5%AD%97%E4%BD%A0%E4%B9%B0%E5%88%B0%E7%9A%84%E6%98%AF%E5%81%87%E7%89%9B%E5%A5%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [林一刘浩存全剧尺度最大的吻戏](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B8%80%E5%88%98%E6%B5%A9%E5%AD%98%E5%85%A8%E5%89%A7%E5%B0%BA%E5%BA%A6%E6%9C%80%E5%A4%A7%E7%9A%84%E5%90%BB%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
+8. [新马泰免签了也变贵了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%A9%AC%E6%B3%B0%E5%85%8D%E7%AD%BE%E4%BA%86%E4%B9%9F%E5%8F%98%E8%B4%B5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [出现这2个字你买到的是假牛奶](https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%8E%B0%E8%BF%992%E4%B8%AA%E5%AD%97%E4%BD%A0%E4%B9%B0%E5%88%B0%E7%9A%84%E6%98%AF%E5%81%87%E7%89%9B%E5%A5%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
