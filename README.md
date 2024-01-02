@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 11:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 11:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [罗志祥演唱会跳科目三](https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%BF%97%E7%A5%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵露思 终于知道邓超上春晚的感觉了](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E9%82%93%E8%B6%85%E4%B8%8A%E6%98%A5%E6%99%9A%E7%9A%84%E6%84%9F%E8%A7%89%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [孕妇被坠窗砸伤为治疗终止妊娠](https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E8%A2%AB%E5%9D%A0%E7%AA%97%E7%A0%B8%E4%BC%A4%E4%B8%BA%E6%B2%BB%E7%96%97%E7%BB%88%E6%AD%A2%E5%A6%8A%E5%A8%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [iPhone为什么只有P大写](https://s.weibo.com/weibo?q=iPhone%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89P%E5%A4%A7%E5%86%99&t=31&band_rank=9&Refer=top)<br />
+9. [国色芳华开拍](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E5%BC%80%E6%8B%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
