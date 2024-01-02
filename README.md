@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 08:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 08:40:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [新年首战国足1-2不敌中国香港](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E9%A6%96%E6%88%98%E5%9B%BD%E8%B6%B31-2%E4%B8%8D%E6%95%8C%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [寒冬中的温暖](https://www.baidu.com/s?wd=%E5%AF%92%E5%86%AC%E4%B8%AD%E7%9A%84%E6%B8%A9%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子借给朋友61万 4年后无法要回](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%80%9F%E7%BB%99%E6%9C%8B%E5%8F%8B61%E4%B8%87+4%E5%B9%B4%E5%90%8E%E6%97%A0%E6%B3%95%E8%A6%81%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子2000买金包银首饰典当5.3万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%902000%E4%B9%B0%E9%87%91%E5%8C%85%E9%93%B6%E9%A6%96%E9%A5%B0%E5%85%B8%E5%BD%935.3%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [游客在地摊遇天价麻辣烫106元一份](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%9C%B0%E6%91%8A%E9%81%87%E5%A4%A9%E4%BB%B7%E9%BA%BB%E8%BE%A3%E7%83%AB106%E5%85%83%E4%B8%80%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [司机把油门当刹车 5秒撞人两次](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E6%8A%8A%E6%B2%B9%E9%97%A8%E5%BD%93%E5%88%B9%E8%BD%A6+5%E7%A7%92%E6%92%9E%E4%BA%BA%E4%B8%A4%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [司机把油门当刹车 5秒撞人两次](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E6%8A%8A%E6%B2%B9%E9%97%A8%E5%BD%93%E5%88%B9%E8%BD%A6+5%E7%A7%92%E6%92%9E%E4%BA%BA%E4%B8%A4%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子2000买金包银首饰典当5.3万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%902000%E4%B9%B0%E9%87%91%E5%8C%85%E9%93%B6%E9%A6%96%E9%A5%B0%E5%85%B8%E5%BD%935.3%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客在地摊遇天价麻辣烫106元一份](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%9C%B0%E6%91%8A%E9%81%87%E5%A4%A9%E4%BB%B7%E9%BA%BB%E8%BE%A3%E7%83%AB106%E5%85%83%E4%B8%80%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [泉州一小区催缴800万水费？](https://www.baidu.com/s?wd=%E6%B3%89%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%82%AC%E7%BC%B4800%E4%B8%87%E6%B0%B4%E8%B4%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [新年首战国足1-2不敌中国香港](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E9%A6%96%E6%88%98%E5%9B%BD%E8%B6%B31-2%E4%B8%8D%E6%95%8C%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [寒冬中的温暖](https://www.baidu.com/s?wd=%E5%AF%92%E5%86%AC%E4%B8%AD%E7%9A%84%E6%B8%A9%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子借给朋友61万 4年后无法要回](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%80%9F%E7%BB%99%E6%9C%8B%E5%8F%8B61%E4%B8%87+4%E5%B9%B4%E5%90%8E%E6%97%A0%E6%B3%95%E8%A6%81%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子2000买金包银首饰典当5.3万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%902000%E4%B9%B0%E9%87%91%E5%8C%85%E9%93%B6%E9%A6%96%E9%A5%B0%E5%85%B8%E5%BD%935.3%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [游客在地摊遇天价麻辣烫106元一份](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%9C%B0%E6%91%8A%E9%81%87%E5%A4%A9%E4%BB%B7%E9%BA%BB%E8%BE%A3%E7%83%AB106%E5%85%83%E4%B8%80%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [司机把油门当刹车 5秒撞人两次](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E6%8A%8A%E6%B2%B9%E9%97%A8%E5%BD%93%E5%88%B9%E8%BD%A6+5%E7%A7%92%E6%92%9E%E4%BA%BA%E4%B8%A4%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [司机把油门当刹车 5秒撞人两次](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E6%8A%8A%E6%B2%B9%E9%97%A8%E5%BD%93%E5%88%B9%E8%BD%A6+5%E7%A7%92%E6%92%9E%E4%BA%BA%E4%B8%A4%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子2000买金包银首饰典当5.3万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%902000%E4%B9%B0%E9%87%91%E5%8C%85%E9%93%B6%E9%A6%96%E9%A5%B0%E5%85%B8%E5%BD%935.3%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客在地摊遇天价麻辣烫106元一份](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%9C%B0%E6%91%8A%E9%81%87%E5%A4%A9%E4%BB%B7%E9%BA%BB%E8%BE%A3%E7%83%AB106%E5%85%83%E4%B8%80%E4%BB%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [泉州一小区催缴800万水费？](https://www.baidu.com/s?wd=%E6%B3%89%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%82%AC%E7%BC%B4800%E4%B8%87%E6%B0%B4%E8%B4%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
