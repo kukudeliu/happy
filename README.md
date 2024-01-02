@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 17:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 17:43:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [新马泰免签了也变贵了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%A9%AC%E6%B3%B0%E5%85%8D%E7%AD%BE%E4%BA%86%E4%B9%9F%E5%8F%98%E8%B4%B5%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [林一刘浩存全剧尺度最大的吻戏](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B8%80%E5%88%98%E6%B5%A9%E5%AD%98%E5%85%A8%E5%89%A7%E5%B0%BA%E5%BA%A6%E6%9C%80%E5%A4%A7%E7%9A%84%E5%90%BB%E6%88%8F%23&t=31&band_rank=5&Refer=top)<br />
 6. [网红欧可爱车祸事件肇事司机被刑拘](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E6%AC%A7%E5%8F%AF%E7%88%B1%E8%BD%A6%E7%A5%B8%E4%BA%8B%E4%BB%B6%E8%82%87%E4%BA%8B%E5%8F%B8%E6%9C%BA%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=6&Refer=top)<br />
-7. [中泰永久互相免签](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%B3%B0%E6%B0%B8%E4%B9%85%E4%BA%92%E7%9B%B8%E5%85%8D%E7%AD%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [出现这2个字你买到的是假牛奶](https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%8E%B0%E8%BF%992%E4%B8%AA%E5%AD%97%E4%BD%A0%E4%B9%B0%E5%88%B0%E7%9A%84%E6%98%AF%E5%81%87%E7%89%9B%E5%A5%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [被指肛珠作弊象棋冠军起诉中国棋协](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8C%87%E8%82%9B%E7%8F%A0%E4%BD%9C%E5%BC%8A%E8%B1%A1%E6%A3%8B%E5%86%A0%E5%86%9B%E8%B5%B7%E8%AF%89%E4%B8%AD%E5%9B%BD%E6%A3%8B%E5%8D%8F%23&t=31&band_rank=9&Refer=top)<br />
+7. [出现这2个字你买到的是假牛奶](https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%8E%B0%E8%BF%992%E4%B8%AA%E5%AD%97%E4%BD%A0%E4%B9%B0%E5%88%B0%E7%9A%84%E6%98%AF%E5%81%87%E7%89%9B%E5%A5%B6%23&t=31&band_rank=7&Refer=top)<br />
+8. [中泰永久互相免签](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%B3%B0%E6%B0%B8%E4%B9%85%E4%BA%92%E7%9B%B8%E5%85%8D%E7%AD%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [杨迪回应发未P图](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E5%9B%9E%E5%BA%94%E5%8F%91%E6%9C%AAP%E5%9B%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
