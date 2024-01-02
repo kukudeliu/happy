@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 15:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 15:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李在明被30厘米长刀刺中颈部](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%A2%AB30%E5%8E%98%E7%B1%B3%E9%95%BF%E5%88%80%E5%88%BA%E4%B8%AD%E9%A2%88%E9%83%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [青岛保安刺死外卖员背后](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E4%BF%9D%E5%AE%89%E5%88%BA%E6%AD%BB%E5%A4%96%E5%8D%96%E5%91%98%E8%83%8C%E5%90%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [官方通报湖南一碗麻辣烫106元](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B9%96%E5%8D%97%E4%B8%80%E7%A2%97%E9%BA%BB%E8%BE%A3%E7%83%AB106%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [B站2023百大UP主](https://s.weibo.com/weibo?q=%23B%E7%AB%992023%E7%99%BE%E5%A4%A7UP%E4%B8%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [孟佳评价金莎孙丞潇感情](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E4%BD%B3%E8%AF%84%E4%BB%B7%E9%87%91%E8%8E%8E%E5%AD%99%E4%B8%9E%E6%BD%87%E6%84%9F%E6%83%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
