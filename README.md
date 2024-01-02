@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 13:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-02 13:34:01</h4></div>
 
 > 微博  
 
-1. [李在明遇袭](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%23&t=31&band_rank=1&Refer=top)<br />
-2. [中泰永久互相免签](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%B3%B0%E6%B0%B8%E4%B9%85%E4%BA%92%E7%9B%B8%E5%85%8D%E7%AD%BE%23&t=31&band_rank=2&Refer=top)<br />
+1. [中泰永久互相免签](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%B3%B0%E6%B0%B8%E4%B9%85%E4%BA%92%E7%9B%B8%E5%85%8D%E7%AD%BE%23&t=31&band_rank=1&Refer=top)<br />
+2. [李在明遇袭](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024开年第1个工作日](https://s.weibo.com/weibo?q=%232024%E5%BC%80%E5%B9%B4%E7%AC%AC1%E4%B8%AA%E5%B7%A5%E4%BD%9C%E6%97%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [李在明暂无生命危险](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%9A%82%E6%97%A0%E7%94%9F%E5%91%BD%E5%8D%B1%E9%99%A9%23&t=31&band_rank=4&Refer=top)<br />
 5. [小杨哥劝大家别发大财](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%8A%9D%E5%A4%A7%E5%AE%B6%E5%88%AB%E5%8F%91%E5%A4%A7%E8%B4%A2%23&t=31&band_rank=5&Refer=top)<br />
