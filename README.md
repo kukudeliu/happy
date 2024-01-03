@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 21:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 21:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [现在的导师骂人可真高级](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%AF%BC%E5%B8%88%E9%AA%82%E4%BA%BA%E5%8F%AF%E7%9C%9F%E9%AB%98%E7%BA%A7&t=31&band_rank=6&Refer=top)<br />
 7. [樊振东呼吁把比赛还给运动员](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%91%BC%E5%90%81%E6%8A%8A%E6%AF%94%E8%B5%9B%E8%BF%98%E7%BB%99%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [甜馨neinei十年后同框](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8neinei%E5%8D%81%E5%B9%B4%E5%90%8E%E5%90%8C%E6%A1%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [程序员回乡种小时候味道的西红柿](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9B%9E%E4%B9%A1%E7%A7%8D%E5%B0%8F%E6%97%B6%E5%80%99%E5%91%B3%E9%81%93%E7%9A%84%E8%A5%BF%E7%BA%A2%E6%9F%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [石宇奇](https://s.weibo.com/weibo?q=%E7%9F%B3%E5%AE%87%E5%A5%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
