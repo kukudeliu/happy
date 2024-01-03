@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 12:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 12:40:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [华为与懂车帝停止合作](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B8%8E%E6%87%82%E8%BD%A6%E5%B8%9D%E5%81%9C%E6%AD%A2%E5%90%88%E4%BD%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [陈楚生 新年第一次抢票](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%20%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%8A%A2%E7%A5%A8&t=31&band_rank=6&Refer=top)<br />
 7. [家有儿女大电影定档](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E5%A4%A7%E7%94%B5%E5%BD%B1%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [脱轨美术组道歉](https://s.weibo.com/weibo?q=%23%E8%84%B1%E8%BD%A8%E7%BE%8E%E6%9C%AF%E7%BB%84%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
+8. [郑恺透露繁花与唐嫣结局HE](https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E9%80%8F%E9%9C%B2%E7%B9%81%E8%8A%B1%E4%B8%8E%E5%94%90%E5%AB%A3%E7%BB%93%E5%B1%80HE%23&t=31&band_rank=8&Refer=top)<br />
 9. [王健林再卖一线城市万达广场](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%81%A5%E6%9E%97%E5%86%8D%E5%8D%96%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E4%B8%87%E8%BE%BE%E5%B9%BF%E5%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
