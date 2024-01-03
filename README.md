@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 23:16:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 23:17:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [龙年纪念钞预约](https://s.weibo.com/weibo?q=%E9%BE%99%E5%B9%B4%E7%BA%AA%E5%BF%B5%E9%92%9E%E9%A2%84%E7%BA%A6&t=31&band_rank=5&Refer=top)<br />
 6. [清华一本科生转学至双非院校](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E8%BD%AC%E5%AD%A6%E8%87%B3%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子每周拔罐放血200ml致重度贫血](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%91%A8%E6%8B%94%E7%BD%90%E6%94%BE%E8%A1%80200ml%E8%87%B4%E9%87%8D%E5%BA%A6%E8%B4%AB%E8%A1%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [突然理解那些很少看手机的人了](https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E9%82%A3%E4%BA%9B%E5%BE%88%E5%B0%91%E7%9C%8B%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [付豪被驱逐](https://s.weibo.com/weibo?q=%23%E4%BB%98%E8%B1%AA%E8%A2%AB%E9%A9%B1%E9%80%90%23&t=31&band_rank=9&Refer=top)<br />
+8. [付豪被驱逐](https://s.weibo.com/weibo?q=%23%E4%BB%98%E8%B1%AA%E8%A2%AB%E9%A9%B1%E9%80%90%23&t=31&band_rank=8&Refer=top)<br />
+9. [突然理解那些很少看手机的人了](https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E9%82%A3%E4%BA%9B%E5%BE%88%E5%B0%91%E7%9C%8B%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
