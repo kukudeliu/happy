@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 10:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 10:42:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [辛芷蕾拍繁花学了两年舞蹈课](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%8B%8D%E7%B9%81%E8%8A%B1%E5%AD%A6%E4%BA%86%E4%B8%A4%E5%B9%B4%E8%88%9E%E8%B9%88%E8%AF%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [南方小土豆 刻板印象](https://s.weibo.com/weibo?q=%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%20%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1&t=31&band_rank=6&Refer=top)<br />
 7. [脱轨被曝盗图](https://s.weibo.com/weibo?q=%23%E8%84%B1%E8%BD%A8%E8%A2%AB%E6%9B%9D%E7%9B%97%E5%9B%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [董宇辉中国传媒大学演讲](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%AA%92%E5%A4%A7%E5%AD%A6%E6%BC%94%E8%AE%B2&t=31&band_rank=8&Refer=top)<br />
-9. [偶像剧顶配](https://s.weibo.com/weibo?q=%E5%81%B6%E5%83%8F%E5%89%A7%E9%A1%B6%E9%85%8D&t=31&band_rank=9&Refer=top)<br />
+8. [12306推出购票新功能](https://s.weibo.com/weibo?q=%2312306%E6%8E%A8%E5%87%BA%E8%B4%AD%E7%A5%A8%E6%96%B0%E5%8A%9F%E8%83%BD%23&t=31&band_rank=8&Refer=top)<br />
+9. [董宇辉中国传媒大学演讲](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%AA%92%E5%A4%A7%E5%AD%A6%E6%BC%94%E8%AE%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
