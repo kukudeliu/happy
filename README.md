@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 14:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 14:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [假唱](https://s.weibo.com/weibo?q=%E5%81%87%E5%94%B1&t=31&band_rank=6&Refer=top)<br />
 7. [Jennie离开YG的原因](https://s.weibo.com/weibo?q=%23Jennie%E7%A6%BB%E5%BC%80YG%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
 8. [38城平均工资超1万元](https://s.weibo.com/weibo?q=%2338%E5%9F%8E%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E8%B6%851%E4%B8%87%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [74岁老人做眼部手术死亡](https://s.weibo.com/weibo?q=%2374%E5%B2%81%E8%80%81%E4%BA%BA%E5%81%9A%E7%9C%BC%E9%83%A8%E6%89%8B%E6%9C%AF%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [00后向太直播间拍下估值800万豪宅](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%90%91%E5%A4%AA%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8B%8D%E4%B8%8B%E4%BC%B0%E5%80%BC800%E4%B8%87%E8%B1%AA%E5%AE%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
