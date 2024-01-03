@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 09:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 09:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [太超前了尔滨](https://s.weibo.com/weibo?q=%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86%E5%B0%94%E6%BB%A8&t=31&band_rank=6&Refer=top)<br />
 7. [周一围 这次赶上朱丹的嘴](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B8%80%E5%9B%B4%20%E8%BF%99%E6%AC%A1%E8%B5%B6%E4%B8%8A%E6%9C%B1%E4%B8%B9%E7%9A%84%E5%98%B4&t=31&band_rank=7&Refer=top)<br />
 8. [19岁景甜的西雅图vlog](https://s.weibo.com/weibo?q=19%E5%B2%81%E6%99%AF%E7%94%9C%E7%9A%84%E8%A5%BF%E9%9B%85%E5%9B%BEvlog&t=31&band_rank=8&Refer=top)<br />
-9. [上海调整公积金个人住房贷款政策](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%B0%83%E6%95%B4%E5%85%AC%E7%A7%AF%E9%87%91%E4%B8%AA%E4%BA%BA%E4%BD%8F%E6%88%BF%E8%B4%B7%E6%AC%BE%E6%94%BF%E7%AD%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [怪力侄女 病娇叔叔](https://s.weibo.com/weibo?q=%E6%80%AA%E5%8A%9B%E4%BE%84%E5%A5%B3%20%E7%97%85%E5%A8%87%E5%8F%94%E5%8F%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
