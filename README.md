@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 07:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 07:58:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [程序员回乡种小时候味道的西红柿](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9B%9E%E4%B9%A1%E7%A7%8D%E5%B0%8F%E6%97%B6%E5%80%99%E5%91%B3%E9%81%93%E7%9A%84%E8%A5%BF%E7%BA%A2%E6%9F%BF%23&t=31&band_rank=3&Refer=top)<br />
 4. [清华一本科生转学至双非院校](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E8%BD%AC%E5%AD%A6%E8%87%B3%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [河南一被弃养男婴遭姥姥拒收](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E8%A2%AB%E5%BC%83%E5%85%BB%E7%94%B7%E5%A9%B4%E9%81%AD%E5%A7%A5%E5%A7%A5%E6%8B%92%E6%94%B6%23&t=31&band_rank=5&Refer=top)<br />
-6. [尔滨背刺了整个东北](https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E8%83%8C%E5%88%BA%E4%BA%86%E6%95%B4%E4%B8%AA%E4%B8%9C%E5%8C%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [李在明遇袭后已恢复清醒](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%E5%90%8E%E5%B7%B2%E6%81%A2%E5%A4%8D%E6%B8%85%E9%86%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [付豪道歉](https://s.weibo.com/weibo?q=%23%E4%BB%98%E8%B1%AA%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [王家卫在片场让马伊琍不要低头](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E5%9C%A8%E7%89%87%E5%9C%BA%E8%AE%A9%E9%A9%AC%E4%BC%8A%E7%90%8D%E4%B8%8D%E8%A6%81%E4%BD%8E%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
+6. [李在明遇袭后已恢复清醒](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%E5%90%8E%E5%B7%B2%E6%81%A2%E5%A4%8D%E6%B8%85%E9%86%92%23&t=31&band_rank=6&Refer=top)<br />
+7. [尔滨背刺了整个东北](https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E8%83%8C%E5%88%BA%E4%BA%86%E6%95%B4%E4%B8%AA%E4%B8%9C%E5%8C%97%23&t=31&band_rank=7&Refer=top)<br />
+8. [王家卫在片场让马伊琍不要低头](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E5%9C%A8%E7%89%87%E5%9C%BA%E8%AE%A9%E9%A9%AC%E4%BC%8A%E7%90%8D%E4%B8%8D%E8%A6%81%E4%BD%8E%E5%A4%B4%23&t=31&band_rank=8&Refer=top)<br />
+9. [付豪道歉](https://s.weibo.com/weibo?q=%23%E4%BB%98%E8%B1%AA%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [开年即开跑](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%B4%E5%8D%B3%E5%BC%80%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [山东一公司奖励员工16辆宝马](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%85%AC%E5%8F%B8%E5%A5%96%E5%8A%B1%E5%91%98%E5%B7%A516%E8%BE%86%E5%AE%9D%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [民警多问一句竟发现2名被拐孩子](https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A6%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E7%AB%9F%E5%8F%91%E7%8E%B02%E5%90%8D%E8%A2%AB%E6%8B%90%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [专家：经济转型不能靠修房子](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%BB%8F%E6%B5%8E%E8%BD%AC%E5%9E%8B%E4%B8%8D%E8%83%BD%E9%9D%A0%E4%BF%AE%E6%88%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [清华一本科生转学至双非院校](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E8%BD%AC%E5%AD%A6%E8%87%B3%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [清华一本科生转学至双非院校](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E8%BD%AC%E5%AD%A6%E8%87%B3%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [东北虎排队等着被泼雪](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E8%99%8E%E6%8E%92%E9%98%9F%E7%AD%89%E7%9D%80%E8%A2%AB%E6%B3%BC%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣温州帮是缅北电诈后台](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B8%A9%E5%B7%9E%E5%B8%AE%E6%98%AF%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%90%8E%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [开年即开跑](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%B4%E5%8D%B3%E5%BC%80%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [山东一公司奖励员工16辆宝马](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%85%AC%E5%8F%B8%E5%A5%96%E5%8A%B1%E5%91%98%E5%B7%A516%E8%BE%86%E5%AE%9D%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [民警多问一句竟发现2名被拐孩子](https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A6%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E7%AB%9F%E5%8F%91%E7%8E%B02%E5%90%8D%E8%A2%AB%E6%8B%90%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [专家：经济转型不能靠修房子](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%BB%8F%E6%B5%8E%E8%BD%AC%E5%9E%8B%E4%B8%8D%E8%83%BD%E9%9D%A0%E4%BF%AE%E6%88%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [清华一本科生转学至双非院校](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E8%BD%AC%E5%AD%A6%E8%87%B3%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [清华一本科生转学至双非院校](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E8%BD%AC%E5%AD%A6%E8%87%B3%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [东北虎排队等着被泼雪](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E8%99%8E%E6%8E%92%E9%98%9F%E7%AD%89%E7%9D%80%E8%A2%AB%E6%B3%BC%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣温州帮是缅北电诈后台](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B8%A9%E5%B7%9E%E5%B8%AE%E6%98%AF%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%90%8E%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
