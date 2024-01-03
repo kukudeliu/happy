@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 15:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 15:18:01</h4></div>
 
 > 微博  
 
-1. [叶酸吃多了真的会致癌吗](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E9%85%B8%E5%90%83%E5%A4%9A%E4%BA%86%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%87%B4%E7%99%8C%E5%90%97%23&t=31&band_rank=1&Refer=top)<br />
-2. [00后向太直播间拍下估值800万豪宅](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%90%91%E5%A4%AA%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8B%8D%E4%B8%8B%E4%BC%B0%E5%80%BC800%E4%B8%87%E8%B1%AA%E5%AE%85%23&t=31&band_rank=2&Refer=top)<br />
+1. [00后向太直播间拍下估值800万豪宅](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%90%91%E5%A4%AA%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8B%8D%E4%B8%8B%E4%BC%B0%E5%80%BC800%E4%B8%87%E8%B1%AA%E5%AE%85%23&t=31&band_rank=1&Refer=top)<br />
+2. [叶酸吃多了真的会致癌吗](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E9%85%B8%E5%90%83%E5%A4%9A%E4%BA%86%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%87%B4%E7%99%8C%E5%90%97%23&t=31&band_rank=2&Refer=top)<br />
 3. [神十七太空吃播上新](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%B8%83%E5%A4%AA%E7%A9%BA%E5%90%83%E6%92%AD%E4%B8%8A%E6%96%B0%23&t=31&band_rank=3&Refer=top)<br />
 4. [迪丽热巴展示泳衣](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B1%95%E7%A4%BA%E6%B3%B3%E8%A1%A3&t=31&band_rank=4&Refer=top)<br />
 5. [日本民航局局长发布会多次发笑](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E8%88%AA%E5%B1%80%E5%B1%80%E9%95%BF%E5%8F%91%E5%B8%83%E4%BC%9A%E5%A4%9A%E6%AC%A1%E5%8F%91%E7%AC%91%23&t=31&band_rank=5&Refer=top)<br />
