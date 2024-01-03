@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 15:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 15:54:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [小砂糖橘](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98&t=31&band_rank=5&Refer=top)<br />
 6. [辛芷蕾拍繁花学了两年舞蹈课](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%8B%8D%E7%B9%81%E8%8A%B1%E5%AD%A6%E4%BA%86%E4%B8%A4%E5%B9%B4%E8%88%9E%E8%B9%88%E8%AF%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [假唱](https://s.weibo.com/weibo?q=%E5%81%87%E5%94%B1&t=31&band_rank=7&Refer=top)<br />
-8. [迪丽热巴展示泳衣](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B1%95%E7%A4%BA%E6%B3%B3%E8%A1%A3&t=31&band_rank=8&Refer=top)<br />
-9. [74岁老人做眼部手术死亡](https://s.weibo.com/weibo?q=%2374%E5%B2%81%E8%80%81%E4%BA%BA%E5%81%9A%E7%9C%BC%E9%83%A8%E6%89%8B%E6%9C%AF%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [74岁老人做眼部手术死亡](https://s.weibo.com/weibo?q=%2374%E5%B2%81%E8%80%81%E4%BA%BA%E5%81%9A%E7%9C%BC%E9%83%A8%E6%89%8B%E6%9C%AF%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [迪丽热巴展示泳衣](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B1%95%E7%A4%BA%E6%B3%B3%E8%A1%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
