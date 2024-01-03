@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 13:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 13:52:02</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [家有儿女大电影定档](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E5%A4%A7%E7%94%B5%E5%BD%B1%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=2&Refer=top)<br />
 3. [神十七太空吃播上新](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%B8%83%E5%A4%AA%E7%A9%BA%E5%90%83%E6%92%AD%E4%B8%8A%E6%96%B0%23&t=31&band_rank=3&Refer=top)<br />
 4. [端木代言了美特斯邦威](https://s.weibo.com/weibo?q=%E7%AB%AF%E6%9C%A8%E4%BB%A3%E8%A8%80%E4%BA%86%E7%BE%8E%E7%89%B9%E6%96%AF%E9%82%A6%E5%A8%81&t=31&band_rank=4&Refer=top)<br />
-5. [高校干部酒后家暴打死妻子母亲发声](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%B9%B2%E9%83%A8%E9%85%92%E5%90%8E%E5%AE%B6%E6%9A%B4%E6%89%93%E6%AD%BB%E5%A6%BB%E5%AD%90%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
-6. [辛芷蕾拍繁花学了两年舞蹈课](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%8B%8D%E7%B9%81%E8%8A%B1%E5%AD%A6%E4%BA%86%E4%B8%A4%E5%B9%B4%E8%88%9E%E8%B9%88%E8%AF%BE%23&t=31&band_rank=6&Refer=top)<br />
+5. [辛芷蕾拍繁花学了两年舞蹈课](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%8B%8D%E7%B9%81%E8%8A%B1%E5%AD%A6%E4%BA%86%E4%B8%A4%E5%B9%B4%E8%88%9E%E8%B9%88%E8%AF%BE%23&t=31&band_rank=5&Refer=top)<br />
+6. [高校干部酒后家暴打死妻子母亲发声](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%B9%B2%E9%83%A8%E9%85%92%E5%90%8E%E5%AE%B6%E6%9A%B4%E6%89%93%E6%AD%BB%E5%A6%BB%E5%AD%90%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [12306推出购票新功能](https://s.weibo.com/weibo?q=%2312306%E6%8E%A8%E5%87%BA%E8%B4%AD%E7%A5%A8%E6%96%B0%E5%8A%9F%E8%83%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [冻梨咖啡](https://s.weibo.com/weibo?q=%E5%86%BB%E6%A2%A8%E5%92%96%E5%95%A1&t=31&band_rank=8&Refer=top)<br />
 9. [汪小姐 和过去决裂很彻底](https://s.weibo.com/weibo?q=%E6%B1%AA%E5%B0%8F%E5%A7%90%20%E5%92%8C%E8%BF%87%E5%8E%BB%E5%86%B3%E8%A3%82%E5%BE%88%E5%BD%BB%E5%BA%95&t=31&band_rank=9&Refer=top)<br />
