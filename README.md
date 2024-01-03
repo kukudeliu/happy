@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 14:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 14:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [香港演员李子雄宣传哈尔滨](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%BC%94%E5%91%98%E6%9D%8E%E5%AD%90%E9%9B%84%E5%AE%A3%E4%BC%A0%E5%93%88%E5%B0%94%E6%BB%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [38城平均工资超1万元](https://s.weibo.com/weibo?q=%2338%E5%9F%8E%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E8%B6%851%E4%B8%87%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [74岁老人做眼部手术死亡](https://s.weibo.com/weibo?q=%2374%E5%B2%81%E8%80%81%E4%BA%BA%E5%81%9A%E7%9C%BC%E9%83%A8%E6%89%8B%E6%9C%AF%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [家有儿女大电影定档](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E5%A4%A7%E7%94%B5%E5%BD%B1%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [假唱](https://s.weibo.com/weibo?q=%E5%81%87%E5%94%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
