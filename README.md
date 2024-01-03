@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 03:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 03:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [清华一本科生转学至双非院校](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E8%BD%AC%E5%AD%A6%E8%87%B3%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [民警多问一句竟发现2名被拐孩子](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E7%AB%9F%E5%8F%91%E7%8E%B02%E5%90%8D%E8%A2%AB%E6%8B%90%E5%AD%A9%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [被小狗亲了一口然后亲手用雪埋了](https://s.weibo.com/weibo?q=%E8%A2%AB%E5%B0%8F%E7%8B%97%E4%BA%B2%E4%BA%86%E4%B8%80%E5%8F%A3%E7%84%B6%E5%90%8E%E4%BA%B2%E6%89%8B%E7%94%A8%E9%9B%AA%E5%9F%8B%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [伊朗爆炸事件死亡人数上升至103人](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E4%B8%8A%E5%8D%87%E8%87%B3103%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [女童上公交姥姥没追上急哭求助后车](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E4%B8%8A%E5%85%AC%E4%BA%A4%E5%A7%A5%E5%A7%A5%E6%B2%A1%E8%BF%BD%E4%B8%8A%E6%80%A5%E5%93%AD%E6%B1%82%E5%8A%A9%E5%90%8E%E8%BD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
