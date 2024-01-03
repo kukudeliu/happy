@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 07:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 07:50:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [付豪道歉](https://s.weibo.com/weibo?q=%23%E4%BB%98%E8%B1%AA%E9%81%93%E6%AD%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [尔滨背刺了整个东北](https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E8%83%8C%E5%88%BA%E4%BA%86%E6%95%B4%E4%B8%AA%E4%B8%9C%E5%8C%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [李在明遇袭后已恢复清醒](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%81%87%E8%A2%AD%E5%90%8E%E5%B7%B2%E6%81%A2%E5%A4%8D%E6%B8%85%E9%86%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [王家卫在片场让马伊琍不要低头](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E5%9C%A8%E7%89%87%E5%9C%BA%E8%AE%A9%E9%A9%AC%E4%BC%8A%E7%90%8D%E4%B8%8D%E8%A6%81%E4%BD%8E%E5%A4%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [张家口市张北县2.4级地震](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E5%8F%A3%E5%B8%82%E5%BC%A0%E5%8C%97%E5%8E%BF2.4%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [河南一被弃养男婴遭姥姥拒收](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E8%A2%AB%E5%BC%83%E5%85%BB%E7%94%B7%E5%A9%B4%E9%81%AD%E5%A7%A5%E5%A7%A5%E6%8B%92%E6%94%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [王家卫在片场让马伊琍不要低头](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E5%9C%A8%E7%89%87%E5%9C%BA%E8%AE%A9%E9%A9%AC%E4%BC%8A%E7%90%8D%E4%B8%8D%E8%A6%81%E4%BD%8E%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
