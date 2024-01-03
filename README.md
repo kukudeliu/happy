@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 22:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 22:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [突然理解那些很少看手机的人了](https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E9%82%A3%E4%BA%9B%E5%BE%88%E5%B0%91%E7%9C%8B%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [清华一本科生转学至双非院校](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E8%BD%AC%E5%AD%A6%E8%87%B3%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [福建地震](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%BB%BA%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top)<br />
-9. [付豪被驱逐](https://s.weibo.com/weibo?q=%23%E4%BB%98%E8%B1%AA%E8%A2%AB%E9%A9%B1%E9%80%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [伊朗爆炸事件死亡人数上升至103人](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E4%B8%8A%E5%8D%87%E8%87%B3103%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
