@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 07:29:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 07:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [尔滨背刺了整个东北](https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E8%83%8C%E5%88%BA%E4%BA%86%E6%95%B4%E4%B8%AA%E4%B8%9C%E5%8C%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [王家卫在片场让马伊琍不要低头](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E5%9C%A8%E7%89%87%E5%9C%BA%E8%AE%A9%E9%A9%AC%E4%BC%8A%E7%90%8D%E4%B8%8D%E8%A6%81%E4%BD%8E%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [伊朗爆炸事件死亡人数上升至103人](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E4%B8%8A%E5%8D%87%E8%87%B3103%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [被小狗亲了一口然后亲手用雪埋了](https://s.weibo.com/weibo?q=%E8%A2%AB%E5%B0%8F%E7%8B%97%E4%BA%B2%E4%BA%86%E4%B8%80%E5%8F%A3%E7%84%B6%E5%90%8E%E4%BA%B2%E6%89%8B%E7%94%A8%E9%9B%AA%E5%9F%8B%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [张家口市张北县2.4级地震](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E5%8F%A3%E5%B8%82%E5%BC%A0%E5%8C%97%E5%8E%BF2.4%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
