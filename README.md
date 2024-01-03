@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 17:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 17:32:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [北大试点取消绩点](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E8%AF%95%E7%82%B9%E5%8F%96%E6%B6%88%E7%BB%A9%E7%82%B9%23&t=31&band_rank=5&Refer=top)<br />
 6. [林心如 武艺老在长沙](https://s.weibo.com/weibo?q=%E6%9E%97%E5%BF%83%E5%A6%82%20%E6%AD%A6%E8%89%BA%E8%80%81%E5%9C%A8%E9%95%BF%E6%B2%99&t=31&band_rank=6&Refer=top)<br />
 7. [哈尔滨提醒宾馆酒店把握机遇](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%8F%90%E9%86%92%E5%AE%BE%E9%A6%86%E9%85%92%E5%BA%97%E6%8A%8A%E6%8F%A1%E6%9C%BA%E9%81%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [霉霉 恶女心态拒绝内耗](https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%20%E6%81%B6%E5%A5%B3%E5%BF%83%E6%80%81%E6%8B%92%E7%BB%9D%E5%86%85%E8%80%97&t=31&band_rank=8&Refer=top)<br />
-9. [叶酸吃多了真的会致癌吗](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E9%85%B8%E5%90%83%E5%A4%9A%E4%BA%86%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%87%B4%E7%99%8C%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [叶酸吃多了真的会致癌吗](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E9%85%B8%E5%90%83%E5%A4%9A%E4%BA%86%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%87%B4%E7%99%8C%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [猫咪吞食顾客1克拉钻石](https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E5%90%9E%E9%A3%9F%E9%A1%BE%E5%AE%A21%E5%85%8B%E6%8B%89%E9%92%BB%E7%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
