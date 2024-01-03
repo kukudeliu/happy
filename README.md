@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 08:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 08:54:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [太超前了尔滨](https://s.weibo.com/weibo?q=%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86%E5%B0%94%E6%BB%A8&t=31&band_rank=5&Refer=top)<br />
 6. [上海调整公积金个人住房贷款政策](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%B0%83%E6%95%B4%E5%85%AC%E7%A7%AF%E9%87%91%E4%B8%AA%E4%BA%BA%E4%BD%8F%E6%88%BF%E8%B4%B7%E6%AC%BE%E6%94%BF%E7%AD%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [美国哈佛大学校长宣布辞职](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [董事长发的红包被我一个人领了](https://s.weibo.com/weibo?q=%E8%91%A3%E4%BA%8B%E9%95%BF%E5%8F%91%E7%9A%84%E7%BA%A2%E5%8C%85%E8%A2%AB%E6%88%91%E4%B8%80%E4%B8%AA%E4%BA%BA%E9%A2%86%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [警方通报高校干部酒后家暴打死妻子](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%AB%98%E6%A0%A1%E5%B9%B2%E9%83%A8%E9%85%92%E5%90%8E%E5%AE%B6%E6%9A%B4%E6%89%93%E6%AD%BB%E5%A6%BB%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+8. [警方通报高校干部酒后家暴打死妻子](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%AB%98%E6%A0%A1%E5%B9%B2%E9%83%A8%E9%85%92%E5%90%8E%E5%AE%B6%E6%9A%B4%E6%89%93%E6%AD%BB%E5%A6%BB%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
+9. [董事长发的红包被我一个人领了](https://s.weibo.com/weibo?q=%E8%91%A3%E4%BA%8B%E9%95%BF%E5%8F%91%E7%9A%84%E7%BA%A2%E5%8C%85%E8%A2%AB%E6%88%91%E4%B8%80%E4%B8%AA%E4%BA%BA%E9%A2%86%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
