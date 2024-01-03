@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 08:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 08:13:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [假期旅游迎来“开门红”](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E6%97%85%E6%B8%B8%E8%BF%8E%E6%9D%A5%E2%80%9C%E5%BC%80%E9%97%A8%E7%BA%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子游日本：经历地震又遇飞机起火](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B8%B8%E6%97%A5%E6%9C%AC%EF%BC%9A%E7%BB%8F%E5%8E%86%E5%9C%B0%E9%9C%87%E5%8F%88%E9%81%87%E9%A3%9E%E6%9C%BA%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [哈佛大学校长宣布辞职](https://www.baidu.com/s?wd=%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [三亚没想到这个冬天败给了哈尔滨](https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E8%B4%A5%E7%BB%99%E4%BA%86%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子欠4.63元被列为老赖 当地回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A04.63%E5%85%83%E8%A2%AB%E5%88%97%E4%B8%BA%E8%80%81%E8%B5%96+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日航客机中国乘客：刚撤离引擎爆炸](https://www.baidu.com/s?wd=%E6%97%A5%E8%88%AA%E5%AE%A2%E6%9C%BA%E4%B8%AD%E5%9B%BD%E4%B9%98%E5%AE%A2%EF%BC%9A%E5%88%9A%E6%92%A4%E7%A6%BB%E5%BC%95%E6%93%8E%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [三亚没想到这个冬天败给了哈尔滨](https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E8%B4%A5%E7%BB%99%E4%BA%86%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新能源汽车辐射大、会致癌？](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BE%90%E5%B0%84%E5%A4%A7%E3%80%81%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [假期旅游迎来“开门红”](https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E6%97%85%E6%B8%B8%E8%BF%8E%E6%9D%A5%E2%80%9C%E5%BC%80%E9%97%A8%E7%BA%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子游日本：经历地震又遇飞机起火](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B8%B8%E6%97%A5%E6%9C%AC%EF%BC%9A%E7%BB%8F%E5%8E%86%E5%9C%B0%E9%9C%87%E5%8F%88%E9%81%87%E9%A3%9E%E6%9C%BA%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [哈佛大学校长宣布辞职](https://www.baidu.com/s?wd=%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [三亚没想到这个冬天败给了哈尔滨](https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E8%B4%A5%E7%BB%99%E4%BA%86%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子欠4.63元被列为老赖 当地回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A04.63%E5%85%83%E8%A2%AB%E5%88%97%E4%B8%BA%E8%80%81%E8%B5%96+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日航客机中国乘客：刚撤离引擎爆炸](https://www.baidu.com/s?wd=%E6%97%A5%E8%88%AA%E5%AE%A2%E6%9C%BA%E4%B8%AD%E5%9B%BD%E4%B9%98%E5%AE%A2%EF%BC%9A%E5%88%9A%E6%92%A4%E7%A6%BB%E5%BC%95%E6%93%8E%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [三亚没想到这个冬天败给了哈尔滨](https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E8%B4%A5%E7%BB%99%E4%BA%86%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新能源汽车辐射大、会致癌？](https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BE%90%E5%B0%84%E5%A4%A7%E3%80%81%E4%BC%9A%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
