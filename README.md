@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 00:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 00:51:01</h4></div>
 
 > 微博  
 
-1. [龙年纪念币](https://s.weibo.com/weibo?q=%E9%BE%99%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%B8%81&t=31&band_rank=1&Refer=top)<br />
-2. [哈尔滨为小土豆连夜撤下破旧公交牌](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%BA%E5%B0%8F%E5%9C%9F%E8%B1%86%E8%BF%9E%E5%A4%9C%E6%92%A4%E4%B8%8B%E7%A0%B4%E6%97%A7%E5%85%AC%E4%BA%A4%E7%89%8C%23&t=31&band_rank=2&Refer=top)<br />
+1. [哈尔滨为小土豆连夜撤下破旧公交牌](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%BA%E5%B0%8F%E5%9C%9F%E8%B1%86%E8%BF%9E%E5%A4%9C%E6%92%A4%E4%B8%8B%E7%A0%B4%E6%97%A7%E5%85%AC%E4%BA%A4%E7%89%8C%23&t=31&band_rank=1&Refer=top)<br />
+2. [龙年纪念币](https://s.weibo.com/weibo?q=%E9%BE%99%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%B8%81&t=31&band_rank=2&Refer=top)<br />
 3. [程序员回乡种小时候味道的西红柿](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9B%9E%E4%B9%A1%E7%A7%8D%E5%B0%8F%E6%97%B6%E5%80%99%E5%91%B3%E9%81%93%E7%9A%84%E8%A5%BF%E7%BA%A2%E6%9F%BF%23&t=31&band_rank=3&Refer=top)<br />
 4. [付豪道歉](https://s.weibo.com/weibo?q=%23%E4%BB%98%E8%B1%AA%E9%81%93%E6%AD%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [民警多问一句竟发现2名被拐孩子](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E7%AB%9F%E5%8F%91%E7%8E%B02%E5%90%8D%E8%A2%AB%E6%8B%90%E5%AD%A9%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
