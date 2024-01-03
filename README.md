@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 13:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 13:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高校干部酒后家暴打死妻子母亲发声](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%B9%B2%E9%83%A8%E9%85%92%E5%90%8E%E5%AE%B6%E6%9A%B4%E6%89%93%E6%AD%BB%E5%A6%BB%E5%AD%90%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [汪小姐 和过去决裂很彻底](https://s.weibo.com/weibo?q=%E6%B1%AA%E5%B0%8F%E5%A7%90%20%E5%92%8C%E8%BF%87%E5%8E%BB%E5%86%B3%E8%A3%82%E5%BE%88%E5%BD%BB%E5%BA%95&t=31&band_rank=7&Refer=top)<br />
 8. [华为与懂车帝停止合作](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B8%8E%E6%87%82%E8%BD%A6%E5%B8%9D%E5%81%9C%E6%AD%A2%E5%90%88%E4%BD%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈楚生 新年第一次抢票](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%20%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%8A%A2%E7%A5%A8&t=31&band_rank=9&Refer=top)<br />
+9. [冻梨咖啡](https://s.weibo.com/weibo?q=%E5%86%BB%E6%A2%A8%E5%92%96%E5%95%A1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
