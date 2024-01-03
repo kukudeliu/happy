@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 03:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 03:58:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [开年即开跑](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%B4%E5%8D%B3%E5%BC%80%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [山东一公司奖励员工16辆宝马](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%85%AC%E5%8F%B8%E5%A5%96%E5%8A%B1%E5%91%98%E5%B7%A516%E8%BE%86%E5%AE%9D%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [卫视跨年晚会真假唱鉴定](https://www.baidu.com/s?wd=%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E7%9C%9F%E5%81%87%E5%94%B1%E9%89%B4%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [哈尔滨“讨好型市格”实锤](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E2%80%9C%E8%AE%A8%E5%A5%BD%E5%9E%8B%E5%B8%82%E6%A0%BC%E2%80%9D%E5%AE%9E%E9%94%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [清华一本科生转学至双非院校](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E8%BD%AC%E5%AD%A6%E8%87%B3%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [清华一本科生转学至双非院校](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E8%BD%AC%E5%AD%A6%E8%87%B3%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [民警多问一句竟发现2名被拐孩子](https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A6%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E7%AB%9F%E5%8F%91%E7%8E%B02%E5%90%8D%E8%A2%AB%E6%8B%90%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣温州帮是缅北电诈后台](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B8%A9%E5%B7%9E%E5%B8%AE%E6%98%AF%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%90%8E%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [开年即开跑](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%B4%E5%8D%B3%E5%BC%80%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [山东一公司奖励员工16辆宝马](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%85%AC%E5%8F%B8%E5%A5%96%E5%8A%B1%E5%91%98%E5%B7%A516%E8%BE%86%E5%AE%9D%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [卫视跨年晚会真假唱鉴定](https://www.baidu.com/s?wd=%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E7%9C%9F%E5%81%87%E5%94%B1%E9%89%B4%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [哈尔滨“讨好型市格”实锤](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E2%80%9C%E8%AE%A8%E5%A5%BD%E5%9E%8B%E5%B8%82%E6%A0%BC%E2%80%9D%E5%AE%9E%E9%94%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [清华一本科生转学至双非院校](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E8%BD%AC%E5%AD%A6%E8%87%B3%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [清华一本科生转学至双非院校](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E8%BD%AC%E5%AD%A6%E8%87%B3%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [民警多问一句竟发现2名被拐孩子](https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A6%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E7%AB%9F%E5%8F%91%E7%8E%B02%E5%90%8D%E8%A2%AB%E6%8B%90%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣温州帮是缅北电诈后台](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B8%A9%E5%B7%9E%E5%B8%AE%E6%98%AF%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%90%8E%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
