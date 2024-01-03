@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 19:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 19:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [厦门震感](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E9%9C%87%E6%84%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [哈尔滨交警在线教学到东北咋穿](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%BA%A4%E8%AD%A6%E5%9C%A8%E7%BA%BF%E6%95%99%E5%AD%A6%E5%88%B0%E4%B8%9C%E5%8C%97%E5%92%8B%E7%A9%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [日本地震已致至少73人死亡](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4%E8%87%B3%E5%B0%9173%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [拍繁花没有人相信自己真的杀青了](https://s.weibo.com/weibo?q=%E6%8B%8D%E7%B9%81%E8%8A%B1%E6%B2%A1%E6%9C%89%E4%BA%BA%E7%9B%B8%E4%BF%A1%E8%87%AA%E5%B7%B1%E7%9C%9F%E7%9A%84%E6%9D%80%E9%9D%92%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [加湿器肺炎](https://s.weibo.com/weibo?q=%E5%8A%A0%E6%B9%BF%E5%99%A8%E8%82%BA%E7%82%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
