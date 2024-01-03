@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 09:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 09:33:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [周一围 这次赶上朱丹的嘴](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B8%80%E5%9B%B4%20%E8%BF%99%E6%AC%A1%E8%B5%B6%E4%B8%8A%E6%9C%B1%E4%B8%B9%E7%9A%84%E5%98%B4&t=31&band_rank=5&Refer=top)<br />
 6. [偶像剧顶配](https://s.weibo.com/weibo?q=%E5%81%B6%E5%83%8F%E5%89%A7%E9%A1%B6%E9%85%8D&t=31&band_rank=6&Refer=top)<br />
 7. [太超前了尔滨](https://s.weibo.com/weibo?q=%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86%E5%B0%94%E6%BB%A8&t=31&band_rank=7&Refer=top)<br />
-8. [鄂伦春族都请来了](https://s.weibo.com/weibo?q=%E9%84%82%E4%BC%A6%E6%98%A5%E6%97%8F%E9%83%BD%E8%AF%B7%E6%9D%A5%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [一等功喜报到家他和家人却被打码](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AD%89%E5%8A%9F%E5%96%9C%E6%8A%A5%E5%88%B0%E5%AE%B6%E4%BB%96%E5%92%8C%E5%AE%B6%E4%BA%BA%E5%8D%B4%E8%A2%AB%E6%89%93%E7%A0%81%23&t=31&band_rank=9&Refer=top)<br />
+8. [一等功喜报到家他和家人却被打码](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AD%89%E5%8A%9F%E5%96%9C%E6%8A%A5%E5%88%B0%E5%AE%B6%E4%BB%96%E5%92%8C%E5%AE%B6%E4%BA%BA%E5%8D%B4%E8%A2%AB%E6%89%93%E7%A0%81%23&t=31&band_rank=8&Refer=top)<br />
+9. [鄂伦春族都请来了](https://s.weibo.com/weibo?q=%E9%84%82%E4%BC%A6%E6%98%A5%E6%97%8F%E9%83%BD%E8%AF%B7%E6%9D%A5%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
