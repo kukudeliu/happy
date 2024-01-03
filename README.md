@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 17:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 17:26:01</h4></div>
 
 > 微博  
 
 1. [小砂糖橘](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98&t=31&band_rank=1&Refer=top)<br />
-2. [霉霉 恶女心态拒绝内耗](https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%20%E6%81%B6%E5%A5%B3%E5%BF%83%E6%80%81%E6%8B%92%E7%BB%9D%E5%86%85%E8%80%97&t=31&band_rank=2&Refer=top)<br />
+2. [小砂糖橘家长发声感谢东北朋友](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E5%AE%B6%E9%95%BF%E5%8F%91%E5%A3%B0%E6%84%9F%E8%B0%A2%E4%B8%9C%E5%8C%97%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=2&Refer=top)<br />
 3. [为了让你2024去旅行多地开年晒美景](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BA%86%E8%AE%A9%E4%BD%A02024%E5%8E%BB%E6%97%85%E8%A1%8C%E5%A4%9A%E5%9C%B0%E5%BC%80%E5%B9%B4%E6%99%92%E7%BE%8E%E6%99%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [甜馨neinei十年后同框](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8neinei%E5%8D%81%E5%B9%B4%E5%90%8E%E5%90%8C%E6%A1%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [小砂糖橘家长发声感谢东北朋友](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E5%AE%B6%E9%95%BF%E5%8F%91%E5%A3%B0%E6%84%9F%E8%B0%A2%E4%B8%9C%E5%8C%97%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=5&Refer=top)<br />
+5. [霉霉 恶女心态拒绝内耗](https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%20%E6%81%B6%E5%A5%B3%E5%BF%83%E6%80%81%E6%8B%92%E7%BB%9D%E5%86%85%E8%80%97&t=31&band_rank=5&Refer=top)<br />
 6. [秦岚泳衣外穿](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E6%B3%B3%E8%A1%A3%E5%A4%96%E7%A9%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [郝劭文妻子曝女儿遭遇校园霸凌](https://s.weibo.com/weibo?q=%23%E9%83%9D%E5%8A%AD%E6%96%87%E5%A6%BB%E5%AD%90%E6%9B%9D%E5%A5%B3%E5%84%BF%E9%81%AD%E9%81%87%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [哈尔滨提醒宾馆酒店把握机遇](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%8F%90%E9%86%92%E5%AE%BE%E9%A6%86%E9%85%92%E5%BA%97%E6%8A%8A%E6%8F%A1%E6%9C%BA%E9%81%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [林心如 武艺老在长沙](https://s.weibo.com/weibo?q=%E6%9E%97%E5%BF%83%E5%A6%82%20%E6%AD%A6%E8%89%BA%E8%80%81%E5%9C%A8%E9%95%BF%E6%B2%99&t=31&band_rank=9&Refer=top)<br />
+9. [北大试点取消绩点](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E8%AF%95%E7%82%B9%E5%8F%96%E6%B6%88%E7%BB%A9%E7%82%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
