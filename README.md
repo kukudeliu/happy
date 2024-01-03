@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 14:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 14:53:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [迪丽热巴展示泳衣](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B1%95%E7%A4%BA%E6%B3%B3%E8%A1%A3&t=31&band_rank=4&Refer=top)<br />
 5. [香港演员李子雄宣传哈尔滨](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%BC%94%E5%91%98%E6%9D%8E%E5%AD%90%E9%9B%84%E5%AE%A3%E4%BC%A0%E5%93%88%E5%B0%94%E6%BB%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [Jennie离开YG的原因](https://s.weibo.com/weibo?q=%23Jennie%E7%A6%BB%E5%BC%80YG%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=6&Refer=top)<br />
-7. [38城平均工资超1万元](https://s.weibo.com/weibo?q=%2338%E5%9F%8E%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E8%B6%851%E4%B8%87%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [假唱](https://s.weibo.com/weibo?q=%E5%81%87%E5%94%B1&t=31&band_rank=8&Refer=top)<br />
+7. [假唱](https://s.weibo.com/weibo?q=%E5%81%87%E5%94%B1&t=31&band_rank=7&Refer=top)<br />
+8. [38城平均工资超1万元](https://s.weibo.com/weibo?q=%2338%E5%9F%8E%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E8%B6%851%E4%B8%87%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [74岁老人做眼部手术死亡](https://s.weibo.com/weibo?q=%2374%E5%B2%81%E8%80%81%E4%BA%BA%E5%81%9A%E7%9C%BC%E9%83%A8%E6%89%8B%E6%9C%AF%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
