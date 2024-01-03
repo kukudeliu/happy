@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 15:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 15:33:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [迪丽热巴展示泳衣](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B1%95%E7%A4%BA%E6%B3%B3%E8%A1%A3&t=31&band_rank=4&Refer=top)<br />
 5. [74岁老人做眼部手术死亡](https://s.weibo.com/weibo?q=%2374%E5%B2%81%E8%80%81%E4%BA%BA%E5%81%9A%E7%9C%BC%E9%83%A8%E6%89%8B%E6%9C%AF%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [假唱](https://s.weibo.com/weibo?q=%E5%81%87%E5%94%B1&t=31&band_rank=6&Refer=top)<br />
-7. [日本民航局局长发布会多次发笑](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E8%88%AA%E5%B1%80%E5%B1%80%E9%95%BF%E5%8F%91%E5%B8%83%E4%BC%9A%E5%A4%9A%E6%AC%A1%E5%8F%91%E7%AC%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [辛芷蕾拍繁花学了两年舞蹈课](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%8B%8D%E7%B9%81%E8%8A%B1%E5%AD%A6%E4%BA%86%E4%B8%A4%E5%B9%B4%E8%88%9E%E8%B9%88%E8%AF%BE%23&t=31&band_rank=8&Refer=top)<br />
+7. [辛芷蕾拍繁花学了两年舞蹈课](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%8B%8D%E7%B9%81%E8%8A%B1%E5%AD%A6%E4%BA%86%E4%B8%A4%E5%B9%B4%E8%88%9E%E8%B9%88%E8%AF%BE%23&t=31&band_rank=7&Refer=top)<br />
+8. [日本民航局局长发布会多次发笑](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E8%88%AA%E5%B1%80%E5%B1%80%E9%95%BF%E5%8F%91%E5%B8%83%E4%BC%9A%E5%A4%9A%E6%AC%A1%E5%8F%91%E7%AC%91%23&t=31&band_rank=8&Refer=top)<br />
 9. [香港演员李子雄宣传哈尔滨](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%BC%94%E5%91%98%E6%9D%8E%E5%AD%90%E9%9B%84%E5%AE%A3%E4%BC%A0%E5%93%88%E5%B0%94%E6%BB%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
