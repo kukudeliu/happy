@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 16:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 16:44:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [哈尔滨提醒宾馆酒店把握机遇](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%8F%90%E9%86%92%E5%AE%BE%E9%A6%86%E9%85%92%E5%BA%97%E6%8A%8A%E6%8F%A1%E6%9C%BA%E9%81%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [郝劭文妻子曝女儿遭遇校园霸凌](https://s.weibo.com/weibo?q=%23%E9%83%9D%E5%8A%AD%E6%96%87%E5%A6%BB%E5%AD%90%E6%9B%9D%E5%A5%B3%E5%84%BF%E9%81%AD%E9%81%87%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [叶酸吃多了真的会致癌吗](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E9%85%B8%E5%90%83%E5%A4%9A%E4%BA%86%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%87%B4%E7%99%8C%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [新一小兰共用一条围巾](https://s.weibo.com/weibo?q=%E6%96%B0%E4%B8%80%E5%B0%8F%E5%85%B0%E5%85%B1%E7%94%A8%E4%B8%80%E6%9D%A1%E5%9B%B4%E5%B7%BE&t=31&band_rank=8&Refer=top)<br />
-9. [小砂糖橘家长发声感谢东北朋友](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E5%AE%B6%E9%95%BF%E5%8F%91%E5%A3%B0%E6%84%9F%E8%B0%A2%E4%B8%9C%E5%8C%97%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
+8. [小砂糖橘家长发声感谢东北朋友](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E5%AE%B6%E9%95%BF%E5%8F%91%E5%A3%B0%E6%84%9F%E8%B0%A2%E4%B8%9C%E5%8C%97%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [新一小兰共用一条围巾](https://s.weibo.com/weibo?q=%E6%96%B0%E4%B8%80%E5%B0%8F%E5%85%B0%E5%85%B1%E7%94%A8%E4%B8%80%E6%9D%A1%E5%9B%B4%E5%B7%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
