@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 01:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 01:18:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [山东一公司奖励员工16辆宝马](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%85%AC%E5%8F%B8%E5%A5%96%E5%8A%B1%E5%91%98%E5%B7%A516%E8%BE%86%E5%AE%9D%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [民警多问一句竟发现2名被拐孩子](https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A6%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E7%AB%9F%E5%8F%91%E7%8E%B02%E5%90%8D%E8%A2%AB%E6%8B%90%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [奶茶的咖啡因含量比咖啡还高](https://www.baidu.com/s?wd=%E5%A5%B6%E8%8C%B6%E7%9A%84%E5%92%96%E5%95%A1%E5%9B%A0%E5%90%AB%E9%87%8F%E6%AF%94%E5%92%96%E5%95%A1%E8%BF%98%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子分饰两角诈骗20多名女主播](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%86%E9%A5%B0%E4%B8%A4%E8%A7%92%E8%AF%88%E9%AA%9720%E5%A4%9A%E5%90%8D%E5%A5%B3%E4%B8%BB%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [律师追问2.2亿彩票事件仍无回复](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E8%BF%BD%E9%97%AE2.2%E4%BA%BF%E5%BD%A9%E7%A5%A8%E4%BA%8B%E4%BB%B6%E4%BB%8D%E6%97%A0%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣温州帮是缅北电诈后台](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B8%A9%E5%B7%9E%E5%B8%AE%E6%98%AF%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%90%8E%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [山东一公司奖励员工16辆宝马](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%85%AC%E5%8F%B8%E5%A5%96%E5%8A%B1%E5%91%98%E5%B7%A516%E8%BE%86%E5%AE%9D%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [民警多问一句竟发现2名被拐孩子](https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A6%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E7%AB%9F%E5%8F%91%E7%8E%B02%E5%90%8D%E8%A2%AB%E6%8B%90%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [奶茶的咖啡因含量比咖啡还高](https://www.baidu.com/s?wd=%E5%A5%B6%E8%8C%B6%E7%9A%84%E5%92%96%E5%95%A1%E5%9B%A0%E5%90%AB%E9%87%8F%E6%AF%94%E5%92%96%E5%95%A1%E8%BF%98%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子分饰两角诈骗20多名女主播](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%86%E9%A5%B0%E4%B8%A4%E8%A7%92%E8%AF%88%E9%AA%9720%E5%A4%9A%E5%90%8D%E5%A5%B3%E4%B8%BB%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [律师追问2.2亿彩票事件仍无回复](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E8%BF%BD%E9%97%AE2.2%E4%BA%BF%E5%BD%A9%E7%A5%A8%E4%BA%8B%E4%BB%B6%E4%BB%8D%E6%97%A0%E5%9B%9E%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣温州帮是缅北电诈后台](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B8%A9%E5%B7%9E%E5%B8%AE%E6%98%AF%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%90%8E%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
