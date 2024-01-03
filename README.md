@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 10:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 10:09:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [董宇辉中国传媒大学演讲](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%AA%92%E5%A4%A7%E5%AD%A6%E6%BC%94%E8%AE%B2&t=31&band_rank=5&Refer=top)<br />
 6. [偶像剧顶配](https://s.weibo.com/weibo?q=%E5%81%B6%E5%83%8F%E5%89%A7%E9%A1%B6%E9%85%8D&t=31&band_rank=6&Refer=top)<br />
 7. [周一围 这次赶上朱丹的嘴](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B8%80%E5%9B%B4%20%E8%BF%99%E6%AC%A1%E8%B5%B6%E4%B8%8A%E6%9C%B1%E4%B8%B9%E7%9A%84%E5%98%B4&t=31&band_rank=7&Refer=top)<br />
-8. [苹果市值一夜蒸发7660亿元](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%917660%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [脱轨被曝盗图](https://s.weibo.com/weibo?q=%23%E8%84%B1%E8%BD%A8%E8%A2%AB%E6%9B%9D%E7%9B%97%E5%9B%BE%23&t=31&band_rank=9&Refer=top)<br />
+8. [脱轨被曝盗图](https://s.weibo.com/weibo?q=%23%E8%84%B1%E8%BD%A8%E8%A2%AB%E6%9B%9D%E7%9B%97%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [苹果市值一夜蒸发7660亿元](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%917660%E4%BA%BF%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
