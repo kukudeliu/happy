@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 00:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 00:46:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [哈尔滨为小土豆连夜撤下破旧公交牌](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%BA%E5%B0%8F%E5%9C%9F%E8%B1%86%E8%BF%9E%E5%A4%9C%E6%92%A4%E4%B8%8B%E7%A0%B4%E6%97%A7%E5%85%AC%E4%BA%A4%E7%89%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [民警多问一句竟发现2名被拐孩子](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E7%AB%9F%E5%8F%91%E7%8E%B02%E5%90%8D%E8%A2%AB%E6%8B%90%E5%AD%A9%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [清华一本科生转学至双非院校](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E8%BD%AC%E5%AD%A6%E8%87%B3%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1%23&t=31&band_rank=6&Refer=top)<br />
-7. [伊朗爆炸事件死亡人数上升至103人](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E4%B8%8A%E5%8D%87%E8%87%B3103%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [突然理解那些很少看手机的人了](https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E9%82%A3%E4%BA%9B%E5%BE%88%E5%B0%91%E7%9C%8B%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+7. [突然理解那些很少看手机的人了](https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E9%82%A3%E4%BA%9B%E5%BE%88%E5%B0%91%E7%9C%8B%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [伊朗爆炸事件死亡人数上升至103人](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E4%B8%8A%E5%8D%87%E8%87%B3103%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [紧急避孕药的伤害](https://s.weibo.com/weibo?q=%E7%B4%A7%E6%80%A5%E9%81%BF%E5%AD%95%E8%8D%AF%E7%9A%84%E4%BC%A4%E5%AE%B3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
