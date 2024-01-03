@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 17:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 17:17:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [连哈工大都出旅游攻略了](https://www.baidu.com/s?wd=%E8%BF%9E%E5%93%88%E5%B7%A5%E5%A4%A7%E9%83%BD%E5%87%BA%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2024，以奋斗起笔！](https://www.baidu.com/s?wd=2024%EF%BC%8C%E4%BB%A5%E5%A5%8B%E6%96%97%E8%B5%B7%E7%AC%94%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [00后在向太直播间拍下800万豪宅](https://www.baidu.com/s?wd=00%E5%90%8E%E5%9C%A8%E5%90%91%E5%A4%AA%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8B%8D%E4%B8%8B800%E4%B8%87%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [资深机长分析日本两飞机相撞原因](https://www.baidu.com/s?wd=%E8%B5%84%E6%B7%B1%E6%9C%BA%E9%95%BF%E5%88%86%E6%9E%90%E6%97%A5%E6%9C%AC%E4%B8%A4%E9%A3%9E%E6%9C%BA%E7%9B%B8%E6%92%9E%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [一等功喜报到家他和家人却被打码](https://www.baidu.com/s?wd=%E4%B8%80%E7%AD%89%E5%8A%9F%E5%96%9C%E6%8A%A5%E5%88%B0%E5%AE%B6%E4%BB%96%E5%92%8C%E5%AE%B6%E4%BA%BA%E5%8D%B4%E8%A2%AB%E6%89%93%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [12306推出购票新功能](https://www.baidu.com/s?wd=12306%E6%8E%A8%E5%87%BA%E8%B4%AD%E7%A5%A8%E6%96%B0%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [门店买手机须现场激活？华为回应](https://www.baidu.com/s?wd=%E9%97%A8%E5%BA%97%E4%B9%B0%E6%89%8B%E6%9C%BA%E9%A1%BB%E7%8E%B0%E5%9C%BA%E6%BF%80%E6%B4%BB%EF%BC%9F%E5%8D%8E%E4%B8%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [资深机长分析日本两飞机相撞原因](https://www.baidu.com/s?wd=%E8%B5%84%E6%B7%B1%E6%9C%BA%E9%95%BF%E5%88%86%E6%9E%90%E6%97%A5%E6%9C%AC%E4%B8%A4%E9%A3%9E%E6%9C%BA%E7%9B%B8%E6%92%9E%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [一等功喜报到家他和家人却被打码](https://www.baidu.com/s?wd=%E4%B8%80%E7%AD%89%E5%8A%9F%E5%96%9C%E6%8A%A5%E5%88%B0%E5%AE%B6%E4%BB%96%E5%92%8C%E5%AE%B6%E4%BA%BA%E5%8D%B4%E8%A2%AB%E6%89%93%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣温州帮是缅北电诈后台](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B8%A9%E5%B7%9E%E5%B8%AE%E6%98%AF%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%90%8E%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [连哈工大都出旅游攻略了](https://www.baidu.com/s?wd=%E8%BF%9E%E5%93%88%E5%B7%A5%E5%A4%A7%E9%83%BD%E5%87%BA%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2024，以奋斗起笔！](https://www.baidu.com/s?wd=2024%EF%BC%8C%E4%BB%A5%E5%A5%8B%E6%96%97%E8%B5%B7%E7%AC%94%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [00后在向太直播间拍下800万豪宅](https://www.baidu.com/s?wd=00%E5%90%8E%E5%9C%A8%E5%90%91%E5%A4%AA%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8B%8D%E4%B8%8B800%E4%B8%87%E8%B1%AA%E5%AE%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [资深机长分析日本两飞机相撞原因](https://www.baidu.com/s?wd=%E8%B5%84%E6%B7%B1%E6%9C%BA%E9%95%BF%E5%88%86%E6%9E%90%E6%97%A5%E6%9C%AC%E4%B8%A4%E9%A3%9E%E6%9C%BA%E7%9B%B8%E6%92%9E%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [一等功喜报到家他和家人却被打码](https://www.baidu.com/s?wd=%E4%B8%80%E7%AD%89%E5%8A%9F%E5%96%9C%E6%8A%A5%E5%88%B0%E5%AE%B6%E4%BB%96%E5%92%8C%E5%AE%B6%E4%BA%BA%E5%8D%B4%E8%A2%AB%E6%89%93%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [12306推出购票新功能](https://www.baidu.com/s?wd=12306%E6%8E%A8%E5%87%BA%E8%B4%AD%E7%A5%A8%E6%96%B0%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [门店买手机须现场激活？华为回应](https://www.baidu.com/s?wd=%E9%97%A8%E5%BA%97%E4%B9%B0%E6%89%8B%E6%9C%BA%E9%A1%BB%E7%8E%B0%E5%9C%BA%E6%BF%80%E6%B4%BB%EF%BC%9F%E5%8D%8E%E4%B8%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [资深机长分析日本两飞机相撞原因](https://www.baidu.com/s?wd=%E8%B5%84%E6%B7%B1%E6%9C%BA%E9%95%BF%E5%88%86%E6%9E%90%E6%97%A5%E6%9C%AC%E4%B8%A4%E9%A3%9E%E6%9C%BA%E7%9B%B8%E6%92%9E%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [一等功喜报到家他和家人却被打码](https://www.baidu.com/s?wd=%E4%B8%80%E7%AD%89%E5%8A%9F%E5%96%9C%E6%8A%A5%E5%88%B0%E5%AE%B6%E4%BB%96%E5%92%8C%E5%AE%B6%E4%BA%BA%E5%8D%B4%E8%A2%AB%E6%89%93%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣温州帮是缅北电诈后台](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%B8%A9%E5%B7%9E%E5%B8%AE%E6%98%AF%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%90%8E%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
