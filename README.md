@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 06:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 06:49:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [付豪道歉](https://s.weibo.com/weibo?q=%23%E4%BB%98%E8%B1%AA%E9%81%93%E6%AD%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [被小狗亲了一口然后亲手用雪埋了](https://s.weibo.com/weibo?q=%E8%A2%AB%E5%B0%8F%E7%8B%97%E4%BA%B2%E4%BA%86%E4%B8%80%E5%8F%A3%E7%84%B6%E5%90%8E%E4%BA%B2%E6%89%8B%E7%94%A8%E9%9B%AA%E5%9F%8B%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [女童上公交姥姥没追上急哭求助后车](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E4%B8%8A%E5%85%AC%E4%BA%A4%E5%A7%A5%E5%A7%A5%E6%B2%A1%E8%BF%BD%E4%B8%8A%E6%80%A5%E5%93%AD%E6%B1%82%E5%8A%A9%E5%90%8E%E8%BD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [伊朗爆炸事件死亡人数上升至103人](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E4%B8%8A%E5%8D%87%E8%87%B3103%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [王家卫在片场让马伊琍不要低头](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E5%9C%A8%E7%89%87%E5%9C%BA%E8%AE%A9%E9%A9%AC%E4%BC%8A%E7%90%8D%E4%B8%8D%E8%A6%81%E4%BD%8E%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
+8. [王家卫在片场让马伊琍不要低头](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E5%9C%A8%E7%89%87%E5%9C%BA%E8%AE%A9%E9%A9%AC%E4%BC%8A%E7%90%8D%E4%B8%8D%E8%A6%81%E4%BD%8E%E5%A4%B4%23&t=31&band_rank=8&Refer=top)<br />
+9. [伊朗爆炸事件死亡人数上升至103人](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E4%B8%8A%E5%8D%87%E8%87%B3103%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
