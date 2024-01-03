@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 20:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-03 20:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [甜馨neinei十年后同框](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8neinei%E5%8D%81%E5%B9%B4%E5%90%8E%E5%90%8C%E6%A1%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [石宇奇](https://s.weibo.com/weibo?q=%E7%9F%B3%E5%AE%87%E5%A5%87&t=31&band_rank=7&Refer=top)<br />
 8. [加湿器肺炎](https://s.weibo.com/weibo?q=%E5%8A%A0%E6%B9%BF%E5%99%A8%E8%82%BA%E7%82%8E&t=31&band_rank=8&Refer=top)<br />
-9. [日本又发生4.8级地震](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%88%E5%8F%91%E7%94%9F4.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [尔滨背刺了整个东北](https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E8%83%8C%E5%88%BA%E4%BA%86%E6%95%B4%E4%B8%AA%E4%B8%9C%E5%8C%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
