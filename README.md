@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 17:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 17:40:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [陆军2024开训大片有多硬核](https://s.weibo.com/weibo?q=%23%E9%99%86%E5%86%9B2024%E5%BC%80%E8%AE%AD%E5%A4%A7%E7%89%87%E6%9C%89%E5%A4%9A%E7%A1%AC%E6%A0%B8%23&t=31&band_rank=3&Refer=top)<br />
 4. [男子想免费升舱大闹致航班取消300人改签](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%83%B3%E5%85%8D%E8%B4%B9%E5%8D%87%E8%88%B1%E5%A4%A7%E9%97%B9%E8%87%B4%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88300%E4%BA%BA%E6%94%B9%E7%AD%BE%23&t=31&band_rank=4&Refer=top)<br />
 5. [小砂糖橘每人配了1个漠河消防员](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E6%AF%8F%E4%BA%BA%E9%85%8D%E4%BA%861%E4%B8%AA%E6%BC%A0%E6%B2%B3%E6%B6%88%E9%98%B2%E5%91%98%23&t=31&band_rank=5&Refer=top)<br />
-6. [暖阳分手](https://s.weibo.com/weibo?q=%E6%9A%96%E9%98%B3%E5%88%86%E6%89%8B&t=31&band_rank=6&Refer=top)<br />
-7. [王安宇好像偷了赵昭仪的帽子](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E5%A5%BD%E5%83%8F%E5%81%B7%E4%BA%86%E8%B5%B5%E6%98%AD%E4%BB%AA%E7%9A%84%E5%B8%BD%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
+6. [王安宇好像偷了赵昭仪的帽子](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E5%A5%BD%E5%83%8F%E5%81%B7%E4%BA%86%E8%B5%B5%E6%98%AD%E4%BB%AA%E7%9A%84%E5%B8%BD%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
+7. [暖阳分手](https://s.weibo.com/weibo?q=%E6%9A%96%E9%98%B3%E5%88%86%E6%89%8B&t=31&band_rank=7&Refer=top)<br />
 8. [微博之夜阵容官宣](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
 9. [沈阳回应哈尔滨借金凤凰](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E5%9B%9E%E5%BA%94%E5%93%88%E5%B0%94%E6%BB%A8%E5%80%9F%E9%87%91%E5%87%A4%E5%87%B0%23&t=31&band_rank=9&Refer=top)<br />
 
