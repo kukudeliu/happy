@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 22:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 22:42:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王皓 你赶啥呀兄弟](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9A%93%20%E4%BD%A0%E8%B5%B6%E5%95%A5%E5%91%80%E5%85%84%E5%BC%9F&t=31&band_rank=6&Refer=top)<br />
 7. [预算两万的出国旅行推荐](https://s.weibo.com/weibo?q=%E9%A2%84%E7%AE%97%E4%B8%A4%E4%B8%87%E7%9A%84%E5%87%BA%E5%9B%BD%E6%97%85%E8%A1%8C%E6%8E%A8%E8%8D%90&t=31&band_rank=7&Refer=top)<br />
 8. [老师 你怎么让我奶站过道里](https://s.weibo.com/weibo?q=%E8%80%81%E5%B8%88%20%E4%BD%A0%E6%80%8E%E4%B9%88%E8%AE%A9%E6%88%91%E5%A5%B6%E7%AB%99%E8%BF%87%E9%81%93%E9%87%8C&t=31&band_rank=8&Refer=top)<br />
-9. [中共中央政治局常务委员会召开会议](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [沈耀 精神弑父](https://s.weibo.com/weibo?q=%E6%B2%88%E8%80%80%20%E7%B2%BE%E7%A5%9E%E5%BC%91%E7%88%B6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
