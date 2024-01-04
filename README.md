@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 16:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 16:36:02</h4></div>
 
 > 微博  
 
 1. [哈佛大学校长 抄袭](https://s.weibo.com/weibo?q=%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF%20%E6%8A%84%E8%A2%AD&t=31&band_rank=1&Refer=top)<br />
-2. [微博之夜阵容官宣](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=2&Refer=top)<br />
+2. [我国电视开机率跌至30%](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E7%8E%87%E8%B7%8C%E8%87%B330%25%23&t=31&band_rank=2&Refer=top)<br />
 3. [陆军2024开训大片有多硬核](https://s.weibo.com/weibo?q=%23%E9%99%86%E5%86%9B2024%E5%BC%80%E8%AE%AD%E5%A4%A7%E7%89%87%E6%9C%89%E5%A4%9A%E7%A1%AC%E6%A0%B8%23&t=31&band_rank=3&Refer=top)<br />
 4. [暖阳分手](https://s.weibo.com/weibo?q=%E6%9A%96%E9%98%B3%E5%88%86%E6%89%8B&t=31&band_rank=4&Refer=top)<br />
-5. [我国电视开机率跌至30%](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E7%8E%87%E8%B7%8C%E8%87%B330%25%23&t=31&band_rank=5&Refer=top)<br />
+5. [微博之夜阵容官宣](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [昆凌最强大脑](https://s.weibo.com/weibo?q=%E6%98%86%E5%87%8C%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91&t=31&band_rank=6&Refer=top)<br />
 7. [冰雪节哈尔滨放假1天](https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E8%8A%82%E5%93%88%E5%B0%94%E6%BB%A8%E6%94%BE%E5%81%871%E5%A4%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [唐嫣为拍繁花三年没接其他戏](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E4%B8%BA%E6%8B%8D%E7%B9%81%E8%8A%B1%E4%B8%89%E5%B9%B4%E6%B2%A1%E6%8E%A5%E5%85%B6%E4%BB%96%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
