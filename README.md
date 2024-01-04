@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 10:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 10:05:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [程序员回乡种小时候味道的西红柿](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9B%9E%E4%B9%A1%E7%A7%8D%E5%B0%8F%E6%97%B6%E5%80%99%E5%91%B3%E9%81%93%E7%9A%84%E8%A5%BF%E7%BA%A2%E6%9F%BF%23&t=31&band_rank=3&Refer=top)<br />
 4. [小杨哥徒弟红绿灯的黄再次复播](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%84%E5%86%8D%E6%AC%A1%E5%A4%8D%E6%92%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [伊朗修正爆炸死亡人数至95人](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%BF%AE%E6%AD%A3%E7%88%86%E7%82%B8%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E8%87%B395%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [哈尔滨为小土豆连夜撤下破旧公交牌](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%BA%E5%B0%8F%E5%9C%9F%E8%B1%86%E8%BF%9E%E5%A4%9C%E6%92%A4%E4%B8%8B%E7%A0%B4%E6%97%A7%E5%85%AC%E4%BA%A4%E7%89%8C%23&t=31&band_rank=6&Refer=top)<br />
-7. [我国中等收入人群已达4亿](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E4%BA%BA%E7%BE%A4%E5%B7%B2%E8%BE%BE4%E4%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
+6. [我国中等收入人群已达4亿](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E4%BA%BA%E7%BE%A4%E5%B7%B2%E8%BE%BE4%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
+7. [哈尔滨为小土豆连夜撤下破旧公交牌](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%BA%E5%B0%8F%E5%9C%9F%E8%B1%86%E8%BF%9E%E5%A4%9C%E6%92%A4%E4%B8%8B%E7%A0%B4%E6%97%A7%E5%85%AC%E4%BA%A4%E7%89%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [南方小土豆这一称呼合适吗](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E8%BF%99%E4%B8%80%E7%A7%B0%E5%91%BC%E5%90%88%E9%80%82%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [范湉湉繁花演技](https://s.weibo.com/weibo?q=%23%E8%8C%83%E6%B9%89%E6%B9%89%E7%B9%81%E8%8A%B1%E6%BC%94%E6%8A%80%23&t=31&band_rank=9&Refer=top)<br />
 
