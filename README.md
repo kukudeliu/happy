@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 20:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 20:08:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [沈耀承认了抑郁症](https://s.weibo.com/weibo?q=%E6%B2%88%E8%80%80%E6%89%BF%E8%AE%A4%E4%BA%86%E6%8A%91%E9%83%81%E7%97%87&t=31&band_rank=2&Refer=top)<br />
 3. [陆军2024开训大片有多硬核](https://s.weibo.com/weibo?q=%23%E9%99%86%E5%86%9B2024%E5%BC%80%E8%AE%AD%E5%A4%A7%E7%89%87%E6%9C%89%E5%A4%9A%E7%A1%AC%E6%A0%B8%23&t=31&band_rank=3&Refer=top)<br />
 4. [男子证实失联12天父亲已遇害](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%81%E5%AE%9E%E5%A4%B1%E8%81%9412%E5%A4%A9%E7%88%B6%E4%BA%B2%E5%B7%B2%E9%81%87%E5%AE%B3%23&t=31&band_rank=4&Refer=top)<br />
-5. [沈耀开大](https://s.weibo.com/weibo?q=%E6%B2%88%E8%80%80%E5%BC%80%E5%A4%A7&t=31&band_rank=5&Refer=top)<br />
-6. [男子想免费升舱大闹致航班取消300人改签](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%83%B3%E5%85%8D%E8%B4%B9%E5%8D%87%E8%88%B1%E5%A4%A7%E9%97%B9%E8%87%B4%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88300%E4%BA%BA%E6%94%B9%E7%AD%BE%23&t=31&band_rank=6&Refer=top)<br />
+5. [男子想免费升舱大闹致航班取消300人改签](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%83%B3%E5%85%8D%E8%B4%B9%E5%8D%87%E8%88%B1%E5%A4%A7%E9%97%B9%E8%87%B4%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88300%E4%BA%BA%E6%94%B9%E7%AD%BE%23&t=31&band_rank=5&Refer=top)<br />
+6. [沈耀开大](https://s.weibo.com/weibo?q=%E6%B2%88%E8%80%80%E5%BC%80%E5%A4%A7&t=31&band_rank=6&Refer=top)<br />
 7. [哈佛大学校长 抄袭](https://s.weibo.com/weibo?q=%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF%20%E6%8A%84%E8%A2%AD&t=31&band_rank=7&Refer=top)<br />
 8. [小砂糖橘每人配了1个漠河消防员](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E6%AF%8F%E4%BA%BA%E9%85%8D%E4%BA%861%E4%B8%AA%E6%BC%A0%E6%B2%B3%E6%B6%88%E9%98%B2%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
 9. [格力回应玫瑰空调被吐槽又土又贵](https://s.weibo.com/weibo?q=%23%E6%A0%BC%E5%8A%9B%E5%9B%9E%E5%BA%94%E7%8E%AB%E7%91%B0%E7%A9%BA%E8%B0%83%E8%A2%AB%E5%90%90%E6%A7%BD%E5%8F%88%E5%9C%9F%E5%8F%88%E8%B4%B5%23&t=31&band_rank=9&Refer=top)<br />
