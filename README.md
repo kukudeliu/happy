@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 14:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 14:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李在明左侧颈内静脉60%被切断](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B7%A6%E4%BE%A7%E9%A2%88%E5%86%85%E9%9D%99%E8%84%8960%25%E8%A2%AB%E5%88%87%E6%96%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [昆凌最强大脑](https://s.weibo.com/weibo?q=%E6%98%86%E5%87%8C%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91&t=31&band_rank=7&Refer=top)<br />
 8. [女子出差35天加班71小时后生病猝死](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%87%BA%E5%B7%AE35%E5%A4%A9%E5%8A%A0%E7%8F%AD71%E5%B0%8F%E6%97%B6%E5%90%8E%E7%94%9F%E7%97%85%E7%8C%9D%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [余额低于100元不能提现属霸王条款](https://s.weibo.com/weibo?q=%23%E4%BD%99%E9%A2%9D%E4%BD%8E%E4%BA%8E100%E5%85%83%E4%B8%8D%E8%83%BD%E6%8F%90%E7%8E%B0%E5%B1%9E%E9%9C%B8%E7%8E%8B%E6%9D%A1%E6%AC%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [财政部部长重磅发声](https://s.weibo.com/weibo?q=%23%E8%B4%A2%E6%94%BF%E9%83%A8%E9%83%A8%E9%95%BF%E9%87%8D%E7%A3%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
