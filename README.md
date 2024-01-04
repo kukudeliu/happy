@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 17:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 17:22:01</h4></div>
 
 > 微博  
 
-1. [哈佛大学校长 抄袭](https://s.weibo.com/weibo?q=%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF%20%E6%8A%84%E8%A2%AD&t=31&band_rank=1&Refer=top)<br />
-2. [我国电视开机率跌至30%](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E7%8E%87%E8%B7%8C%E8%87%B330%25%23&t=31&band_rank=2&Refer=top)<br />
+1. [我国电视开机率跌至30%](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E7%8E%87%E8%B7%8C%E8%87%B330%25%23&t=31&band_rank=1&Refer=top)<br />
+2. [哈佛大学校长 抄袭](https://s.weibo.com/weibo?q=%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF%20%E6%8A%84%E8%A2%AD&t=31&band_rank=2&Refer=top)<br />
 3. [陆军2024开训大片有多硬核](https://s.weibo.com/weibo?q=%23%E9%99%86%E5%86%9B2024%E5%BC%80%E8%AE%AD%E5%A4%A7%E7%89%87%E6%9C%89%E5%A4%9A%E7%A1%AC%E6%A0%B8%23&t=31&band_rank=3&Refer=top)<br />
 4. [男子想免费升舱大闹致航班取消300人改签](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%83%B3%E5%85%8D%E8%B4%B9%E5%8D%87%E8%88%B1%E5%A4%A7%E9%97%B9%E8%87%B4%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88300%E4%BA%BA%E6%94%B9%E7%AD%BE%23&t=31&band_rank=4&Refer=top)<br />
 5. [暖阳分手](https://s.weibo.com/weibo?q=%E6%9A%96%E9%98%B3%E5%88%86%E6%89%8B&t=31&band_rank=5&Refer=top)<br />
