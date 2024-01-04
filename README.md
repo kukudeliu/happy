@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 17:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 17:38:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [中国人民生活一定会一年更比一年好](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%94%9F%E6%B4%BB%E4%B8%80%E5%AE%9A%E4%BC%9A%E4%B8%80%E5%B9%B4%E6%9B%B4%E6%AF%94%E4%B8%80%E5%B9%B4%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [今年要办奥运会了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E8%A6%81%E5%8A%9E%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [我国电视开机率跌至30%](https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E7%8E%87%E8%B7%8C%E8%87%B330%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [多名中国留学生入境美国时遭盘查](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%85%A5%E5%A2%83%E7%BE%8E%E5%9B%BD%E6%97%B6%E9%81%AD%E7%9B%98%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多角度多领域展现经济活力](https://www.baidu.com/s?wd=%E5%A4%9A%E8%A7%92%E5%BA%A6%E5%A4%9A%E9%A2%86%E5%9F%9F%E5%B1%95%E7%8E%B0%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [重庆70岁大爷逆生长：满头乌黑发](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%8670%E5%B2%81%E5%A4%A7%E7%88%B7%E9%80%86%E7%94%9F%E9%95%BF%EF%BC%9A%E6%BB%A1%E5%A4%B4%E4%B9%8C%E9%BB%91%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [中国人民生活一定会一年更比一年好](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%94%9F%E6%B4%BB%E4%B8%80%E5%AE%9A%E4%BC%9A%E4%B8%80%E5%B9%B4%E6%9B%B4%E6%AF%94%E4%B8%80%E5%B9%B4%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [今年要办奥运会了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E8%A6%81%E5%8A%9E%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [我国电视开机率跌至30%](https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E7%8E%87%E8%B7%8C%E8%87%B330%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [多名中国留学生入境美国时遭盘查](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%85%A5%E5%A2%83%E7%BE%8E%E5%9B%BD%E6%97%B6%E9%81%AD%E7%9B%98%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多角度多领域展现经济活力](https://www.baidu.com/s?wd=%E5%A4%9A%E8%A7%92%E5%BA%A6%E5%A4%9A%E9%A2%86%E5%9F%9F%E5%B1%95%E7%8E%B0%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [重庆70岁大爷逆生长：满头乌黑发](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%8670%E5%B2%81%E5%A4%A7%E7%88%B7%E9%80%86%E7%94%9F%E9%95%BF%EF%BC%9A%E6%BB%A1%E5%A4%B4%E4%B9%8C%E9%BB%91%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
