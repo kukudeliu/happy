@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 17:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 17:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [暖阳分手](https://s.weibo.com/weibo?q=%E6%9A%96%E9%98%B3%E5%88%86%E6%89%8B&t=31&band_rank=5&Refer=top)<br />
 6. [沈阳回应哈尔滨借金凤凰](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E5%9B%9E%E5%BA%94%E5%93%88%E5%B0%94%E6%BB%A8%E5%80%9F%E9%87%91%E5%87%A4%E5%87%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [微博之夜阵容官宣](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [我国电视开机率跌至30%](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E7%8E%87%E8%B7%8C%E8%87%B330%25%23&t=31&band_rank=8&Refer=top)<br />
-9. [王安宇好像偷了赵昭仪的帽子](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E5%A5%BD%E5%83%8F%E5%81%B7%E4%BA%86%E8%B5%B5%E6%98%AD%E4%BB%AA%E7%9A%84%E5%B8%BD%E5%AD%90&t=31&band_rank=9&Refer=top)<br />
+8. [王安宇好像偷了赵昭仪的帽子](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E5%A5%BD%E5%83%8F%E5%81%B7%E4%BA%86%E8%B5%B5%E6%98%AD%E4%BB%AA%E7%9A%84%E5%B8%BD%E5%AD%90&t=31&band_rank=8&Refer=top)<br />
+9. [我国电视开机率跌至30%](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E7%8E%87%E8%B7%8C%E8%87%B330%25%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
