@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 16:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 16:27:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [历史属于奋进者](https://www.baidu.com/s?wd=%E5%8E%86%E5%8F%B2%E5%B1%9E%E4%BA%8E%E5%A5%8B%E8%BF%9B%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [中国人民生活一定会一年更比一年好](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%94%9F%E6%B4%BB%E4%B8%80%E5%AE%9A%E4%BC%9A%E4%B8%80%E5%B9%B4%E6%9B%B4%E6%AF%94%E4%B8%80%E5%B9%B4%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [今年要办奥运会了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E8%A6%81%E5%8A%9E%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [00后女生回村相亲 见面不敢对视](https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E7%94%9F%E5%9B%9E%E6%9D%91%E7%9B%B8%E4%BA%B2+%E8%A7%81%E9%9D%A2%E4%B8%8D%E6%95%A2%E5%AF%B9%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [寒冬冰雪季 龙江最“热”时](https://www.baidu.com/s?wd=%E5%AF%92%E5%86%AC%E5%86%B0%E9%9B%AA%E5%AD%A3+%E9%BE%99%E6%B1%9F%E6%9C%80%E2%80%9C%E7%83%AD%E2%80%9D%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [历史属于奋进者](https://www.baidu.com/s?wd=%E5%8E%86%E5%8F%B2%E5%B1%9E%E4%BA%8E%E5%A5%8B%E8%BF%9B%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [中国人民生活一定会一年更比一年好](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%94%9F%E6%B4%BB%E4%B8%80%E5%AE%9A%E4%BC%9A%E4%B8%80%E5%B9%B4%E6%9B%B4%E6%AF%94%E4%B8%80%E5%B9%B4%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [今年要办奥运会了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E8%A6%81%E5%8A%9E%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [00后女生回村相亲 见面不敢对视](https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E7%94%9F%E5%9B%9E%E6%9D%91%E7%9B%B8%E4%BA%B2+%E8%A7%81%E9%9D%A2%E4%B8%8D%E6%95%A2%E5%AF%B9%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [寒冬冰雪季 龙江最“热”时](https://www.baidu.com/s?wd=%E5%AF%92%E5%86%AC%E5%86%B0%E9%9B%AA%E5%AD%A3+%E9%BE%99%E6%B1%9F%E6%9C%80%E2%80%9C%E7%83%AD%E2%80%9D%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
