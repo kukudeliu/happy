@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 11:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 11:01:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [伊朗总统誓言报复以色列](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%AA%93%E8%A8%80%E6%8A%A5%E5%A4%8D%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [多多买菜本地生活业务已完全暂停](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%A4%9A%E4%B9%B0%E8%8F%9C%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%B4%BB%E4%B8%9A%E5%8A%A1%E5%B7%B2%E5%AE%8C%E5%85%A8%E6%9A%82%E5%81%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [繁花 没人相信自己要杀青了](https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1%20%E6%B2%A1%E4%BA%BA%E7%9B%B8%E4%BF%A1%E8%87%AA%E5%B7%B1%E8%A6%81%E6%9D%80%E9%9D%92%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [小杨哥徒弟红绿灯的黄再次复播](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%84%E5%86%8D%E6%AC%A1%E5%A4%8D%E6%92%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [林允儿续约](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%E5%84%BF%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [纪念币 外挂](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%BF%B5%E5%B8%81%20%E5%A4%96%E6%8C%82&t=31&band_rank=8&Refer=top)<br />
+9. [小杨哥徒弟红绿灯的黄再次复播](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%84%E5%86%8D%E6%AC%A1%E5%A4%8D%E6%92%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
