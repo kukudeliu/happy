@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 22:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 22:16:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [老师 你怎么让我奶站过道里](https://s.weibo.com/weibo?q=%E8%80%81%E5%B8%88%20%E4%BD%A0%E6%80%8E%E4%B9%88%E8%AE%A9%E6%88%91%E5%A5%B6%E7%AB%99%E8%BF%87%E9%81%93%E9%87%8C&t=31&band_rank=4&Refer=top)<br />
 5. [中共中央政治局常务委员会召开会议](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE%23&t=31&band_rank=5&Refer=top)<br />
 6. [玲子回归砸了夜东京](https://s.weibo.com/weibo?q=%E7%8E%B2%E5%AD%90%E5%9B%9E%E5%BD%92%E7%A0%B8%E4%BA%86%E5%A4%9C%E4%B8%9C%E4%BA%AC&t=31&band_rank=6&Refer=top)<br />
-7. [2024年总台春晚分会场发布](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E6%80%BB%E5%8F%B0%E6%98%A5%E6%99%9A%E5%88%86%E4%BC%9A%E5%9C%BA%E5%8F%91%E5%B8%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [王楚钦3比0张本智和](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23&t=31&band_rank=8&Refer=top)<br />
+7. [王楚钦3比0张本智和](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23&t=31&band_rank=7&Refer=top)<br />
+8. [2024年总台春晚分会场发布](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E6%80%BB%E5%8F%B0%E6%98%A5%E6%99%9A%E5%88%86%E4%BC%9A%E5%9C%BA%E5%8F%91%E5%B8%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [王晶评价繁花](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%99%B6%E8%AF%84%E4%BB%B7%E7%B9%81%E8%8A%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
