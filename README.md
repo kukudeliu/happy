@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 22:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 22:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [2024年总台春晚分会场发布](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E6%80%BB%E5%8F%B0%E6%98%A5%E6%99%9A%E5%88%86%E4%BC%9A%E5%9C%BA%E5%8F%91%E5%B8%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦3比0张本智和](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [玲子回归砸了夜东京](https://s.weibo.com/weibo?q=%E7%8E%B2%E5%AD%90%E5%9B%9E%E5%BD%92%E7%A0%B8%E4%BA%86%E5%A4%9C%E4%B8%9C%E4%BA%AC&t=31&band_rank=8&Refer=top)<br />
-9. [男子想免费升舱大闹致航班取消300人改签](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%83%B3%E5%85%8D%E8%B4%B9%E5%8D%87%E8%88%B1%E5%A4%A7%E9%97%B9%E8%87%B4%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88300%E4%BA%BA%E6%94%B9%E7%AD%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [格力回应玫瑰空调被吐槽又土又贵](https://s.weibo.com/weibo?q=%23%E6%A0%BC%E5%8A%9B%E5%9B%9E%E5%BA%94%E7%8E%AB%E7%91%B0%E7%A9%BA%E8%B0%83%E8%A2%AB%E5%90%90%E6%A7%BD%E5%8F%88%E5%9C%9F%E5%8F%88%E8%B4%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
