@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 19:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 19:49:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [陆军2024开训大片有多硬核](https://s.weibo.com/weibo?q=%23%E9%99%86%E5%86%9B2024%E5%BC%80%E8%AE%AD%E5%A4%A7%E7%89%87%E6%9C%89%E5%A4%9A%E7%A1%AC%E6%A0%B8%23&t=31&band_rank=3&Refer=top)<br />
 4. [男子证实失联12天父亲已遇害](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%81%E5%AE%9E%E5%A4%B1%E8%81%9412%E5%A4%A9%E7%88%B6%E4%BA%B2%E5%B7%B2%E9%81%87%E5%AE%B3%23&t=31&band_rank=4&Refer=top)<br />
 5. [烤地瓜摊主为小土豆准备勺子](https://s.weibo.com/weibo?q=%23%E7%83%A4%E5%9C%B0%E7%93%9C%E6%91%8A%E4%B8%BB%E4%B8%BA%E5%B0%8F%E5%9C%9F%E8%B1%86%E5%87%86%E5%A4%87%E5%8B%BA%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
-6. [沈耀开大](https://s.weibo.com/weibo?q=%E6%B2%88%E8%80%80%E5%BC%80%E5%A4%A7&t=31&band_rank=6&Refer=top)<br />
+6. [繁花里出现了18岁的马伊琍](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E9%87%8C%E5%87%BA%E7%8E%B0%E4%BA%8618%E5%B2%81%E7%9A%84%E9%A9%AC%E4%BC%8A%E7%90%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [11位广西小砂糖橘东北之旅有多开心](https://s.weibo.com/weibo?q=%2311%E4%BD%8D%E5%B9%BF%E8%A5%BF%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E4%B8%9C%E5%8C%97%E4%B9%8B%E6%97%85%E6%9C%89%E5%A4%9A%E5%BC%80%E5%BF%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [繁花里出现了18岁的马伊琍](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E9%87%8C%E5%87%BA%E7%8E%B0%E4%BA%8618%E5%B2%81%E7%9A%84%E9%A9%AC%E4%BC%8A%E7%90%8D%23&t=31&band_rank=8&Refer=top)<br />
+8. [沈耀开大](https://s.weibo.com/weibo?q=%E6%B2%88%E8%80%80%E5%BC%80%E5%A4%A7&t=31&band_rank=8&Refer=top)<br />
 9. [男子想免费升舱大闹致航班取消300人改签](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%83%B3%E5%85%8D%E8%B4%B9%E5%8D%87%E8%88%B1%E5%A4%A7%E9%97%B9%E8%87%B4%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88300%E4%BA%BA%E6%94%B9%E7%AD%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [国资委披露央企一把手工资条](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B5%84%E5%A7%94%E6%8A%AB%E9%9C%B2%E5%A4%AE%E4%BC%81%E4%B8%80%E6%8A%8A%E6%89%8B%E5%B7%A5%E8%B5%84%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [月薪多少属于中等收入群体](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA%E5%A4%9A%E5%B0%91%E5%B1%9E%E4%BA%8E%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [富二代继承过亿家产：被骗家里欠钱](https://www.baidu.com/s?wd=%E5%AF%8C%E4%BA%8C%E4%BB%A3%E7%BB%A7%E6%89%BF%E8%BF%87%E4%BA%BF%E5%AE%B6%E4%BA%A7%EF%BC%9A%E8%A2%AB%E9%AA%97%E5%AE%B6%E9%87%8C%E6%AC%A0%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [第一视角体验哈尔滨521米冰滑梯](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E4%BD%93%E9%AA%8C%E5%93%88%E5%B0%94%E6%BB%A8521%E7%B1%B3%E5%86%B0%E6%BB%91%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [我国电视开机率跌至30%](https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E7%8E%87%E8%B7%8C%E8%87%B330%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [村民哄抢芋头？谣言](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%E8%8A%8B%E5%A4%B4%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [国资委披露央企一把手工资条](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B5%84%E5%A7%94%E6%8A%AB%E9%9C%B2%E5%A4%AE%E4%BC%81%E4%B8%80%E6%8A%8A%E6%89%8B%E5%B7%A5%E8%B5%84%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [月薪多少属于中等收入群体](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA%E5%A4%9A%E5%B0%91%E5%B1%9E%E4%BA%8E%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [富二代继承过亿家产：被骗家里欠钱](https://www.baidu.com/s?wd=%E5%AF%8C%E4%BA%8C%E4%BB%A3%E7%BB%A7%E6%89%BF%E8%BF%87%E4%BA%BF%E5%AE%B6%E4%BA%A7%EF%BC%9A%E8%A2%AB%E9%AA%97%E5%AE%B6%E9%87%8C%E6%AC%A0%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [第一视角体验哈尔滨521米冰滑梯](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E4%BD%93%E9%AA%8C%E5%93%88%E5%B0%94%E6%BB%A8521%E7%B1%B3%E5%86%B0%E6%BB%91%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [我国电视开机率跌至30%](https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E7%8E%87%E8%B7%8C%E8%87%B330%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [村民哄抢芋头？谣言](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%E8%8A%8B%E5%A4%B4%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
