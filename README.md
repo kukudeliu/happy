@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 21:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 21:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [玲子回归砸了夜东京](https://s.weibo.com/weibo?q=%E7%8E%B2%E5%AD%90%E5%9B%9E%E5%BD%92%E7%A0%B8%E4%BA%86%E5%A4%9C%E4%B8%9C%E4%BA%AC&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦3比0张本智和](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [王晶评价繁花](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%99%B6%E8%AF%84%E4%BB%B7%E7%B9%81%E8%8A%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [泰国女星夸赞王鹤棣很帅](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%98%9F%E5%A4%B8%E8%B5%9E%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%BE%88%E5%B8%85%23&t=31&band_rank=9&Refer=top)<br />
+9. [中共中央政治局常务委员会召开会议](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
