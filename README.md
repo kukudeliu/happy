@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 15:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 15:42:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [寒冬冰雪季 龙江最“热”时](https://www.baidu.com/s?wd=%E5%AF%92%E5%86%AC%E5%86%B0%E9%9B%AA%E5%AD%A3+%E9%BE%99%E6%B1%9F%E6%9C%80%E2%80%9C%E7%83%AD%E2%80%9D%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中等收入人群超4亿 为何“脆弱”?](https://www.baidu.com/s?wd=%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E4%BA%BA%E7%BE%A4%E8%B6%854%E4%BA%BF+%E4%B8%BA%E4%BD%95%E2%80%9C%E8%84%86%E5%BC%B1%E2%80%9D%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“师范热”降温](https://www.baidu.com/s?wd=%E2%80%9C%E5%B8%88%E8%8C%83%E7%83%AD%E2%80%9D%E9%99%8D%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本女子列车内持刀刺伤4人](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%88%97%E8%BD%A6%E5%86%85%E6%8C%81%E5%88%80%E5%88%BA%E4%BC%A44%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [好丽友蛋黄派被检出金黄色葡萄球菌](https://www.baidu.com/s?wd=%E5%A5%BD%E4%B8%BD%E5%8F%8B%E8%9B%8B%E9%BB%84%E6%B4%BE%E8%A2%AB%E6%A3%80%E5%87%BA%E9%87%91%E9%BB%84%E8%89%B2%E8%91%A1%E8%90%84%E7%90%83%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [好丽友蛋黄派被检出金黄色葡萄球菌](https://www.baidu.com/s?wd=%E5%A5%BD%E4%B8%BD%E5%8F%8B%E8%9B%8B%E9%BB%84%E6%B4%BE%E8%A2%AB%E6%A3%80%E5%87%BA%E9%87%91%E9%BB%84%E8%89%B2%E8%91%A1%E8%90%84%E7%90%83%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [以色列主播播报时腰上别枪](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%BB%E6%92%AD%E6%92%AD%E6%8A%A5%E6%97%B6%E8%85%B0%E4%B8%8A%E5%88%AB%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [村民哄抢芋头？谣言](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%E8%8A%8B%E5%A4%B4%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [寒冬冰雪季 龙江最“热”时](https://www.baidu.com/s?wd=%E5%AF%92%E5%86%AC%E5%86%B0%E9%9B%AA%E5%AD%A3+%E9%BE%99%E6%B1%9F%E6%9C%80%E2%80%9C%E7%83%AD%E2%80%9D%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中等收入人群超4亿 为何“脆弱”?](https://www.baidu.com/s?wd=%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E4%BA%BA%E7%BE%A4%E8%B6%854%E4%BA%BF+%E4%B8%BA%E4%BD%95%E2%80%9C%E8%84%86%E5%BC%B1%E2%80%9D%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“师范热”降温](https://www.baidu.com/s?wd=%E2%80%9C%E5%B8%88%E8%8C%83%E7%83%AD%E2%80%9D%E9%99%8D%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本女子列车内持刀刺伤4人](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%88%97%E8%BD%A6%E5%86%85%E6%8C%81%E5%88%80%E5%88%BA%E4%BC%A44%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [好丽友蛋黄派被检出金黄色葡萄球菌](https://www.baidu.com/s?wd=%E5%A5%BD%E4%B8%BD%E5%8F%8B%E8%9B%8B%E9%BB%84%E6%B4%BE%E8%A2%AB%E6%A3%80%E5%87%BA%E9%87%91%E9%BB%84%E8%89%B2%E8%91%A1%E8%90%84%E7%90%83%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [好丽友蛋黄派被检出金黄色葡萄球菌](https://www.baidu.com/s?wd=%E5%A5%BD%E4%B8%BD%E5%8F%8B%E8%9B%8B%E9%BB%84%E6%B4%BE%E8%A2%AB%E6%A3%80%E5%87%BA%E9%87%91%E9%BB%84%E8%89%B2%E8%91%A1%E8%90%84%E7%90%83%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [以色列主播播报时腰上别枪](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%BB%E6%92%AD%E6%92%AD%E6%8A%A5%E6%97%B6%E8%85%B0%E4%B8%8A%E5%88%AB%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [村民哄抢芋头？谣言](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%E8%8A%8B%E5%A4%B4%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
