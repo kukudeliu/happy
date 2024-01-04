@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 01:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 01:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [哈尔滨惊现15元1个小土豆挂件](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%83%8A%E7%8E%B015%E5%85%831%E4%B8%AA%E5%B0%8F%E5%9C%9F%E8%B1%86%E6%8C%82%E4%BB%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [外交部回应缅甸炮弹落入云南](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BC%85%E7%94%B8%E7%82%AE%E5%BC%B9%E8%90%BD%E5%85%A5%E4%BA%91%E5%8D%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子分享自己7旬爷爷老来得子](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%88%86%E4%BA%AB%E8%87%AA%E5%B7%B17%E6%97%AC%E7%88%B7%E7%88%B7%E8%80%81%E6%9D%A5%E5%BE%97%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [繁花宝总全名叫什么](https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1%E5%AE%9D%E6%80%BB%E5%85%A8%E5%90%8D%E5%8F%AB%E4%BB%80%E4%B9%88&t=31&band_rank=8&Refer=top)<br />
-9. [头发别耳后显脸小方法](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E5%88%AB%E8%80%B3%E5%90%8E%E6%98%BE%E8%84%B8%E5%B0%8F%E6%96%B9%E6%B3%95&t=31&band_rank=9&Refer=top)<br />
+8. [头发别耳后显脸小方法](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E5%88%AB%E8%80%B3%E5%90%8E%E6%98%BE%E8%84%B8%E5%B0%8F%E6%96%B9%E6%B3%95&t=31&band_rank=8&Refer=top)<br />
+9. [繁花宝总全名叫什么](https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1%E5%AE%9D%E6%80%BB%E5%85%A8%E5%90%8D%E5%8F%AB%E4%BB%80%E4%B9%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
