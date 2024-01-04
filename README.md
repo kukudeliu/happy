@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 14:35:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 14:36:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [今年要办奥运会了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E8%A6%81%E5%8A%9E%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [漠河文旅燃放烟花迎接小砂糖橘们](https://www.baidu.com/s?wd=%E6%BC%A0%E6%B2%B3%E6%96%87%E6%97%85%E7%87%83%E6%94%BE%E7%83%9F%E8%8A%B1%E8%BF%8E%E6%8E%A5%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [寒冬冰雪季 龙江最“热”时](https://www.baidu.com/s?wd=%E5%AF%92%E5%86%AC%E5%86%B0%E9%9B%AA%E5%AD%A3+%E9%BE%99%E6%B1%9F%E6%9C%80%E2%80%9C%E7%83%AD%E2%80%9D%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [“我打我自己媳妇 我有结婚证”](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E6%89%93%E6%88%91%E8%87%AA%E5%B7%B1%E5%AA%B3%E5%A6%87+%E6%88%91%E6%9C%89%E7%BB%93%E5%A9%9A%E8%AF%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [中等收入人群超4亿 为何“脆弱”?](https://www.baidu.com/s?wd=%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E4%BA%BA%E7%BE%A4%E8%B6%854%E4%BA%BF+%E4%B8%BA%E4%BD%95%E2%80%9C%E8%84%86%E5%BC%B1%E2%80%9D%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“南方小土豆”称呼引争议](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E2%80%9D%E7%A7%B0%E5%91%BC%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [哈尔滨68元锅包肉饭店已关门](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A868%E5%85%83%E9%94%85%E5%8C%85%E8%82%89%E9%A5%AD%E5%BA%97%E5%B7%B2%E5%85%B3%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [好丽友蛋黄派被检出金黄色葡萄球菌](https://www.baidu.com/s?wd=%E5%A5%BD%E4%B8%BD%E5%8F%8B%E8%9B%8B%E9%BB%84%E6%B4%BE%E8%A2%AB%E6%A3%80%E5%87%BA%E9%87%91%E9%BB%84%E8%89%B2%E8%91%A1%E8%90%84%E7%90%83%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [今年要办奥运会了](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E8%A6%81%E5%8A%9E%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [漠河文旅燃放烟花迎接小砂糖橘们](https://www.baidu.com/s?wd=%E6%BC%A0%E6%B2%B3%E6%96%87%E6%97%85%E7%87%83%E6%94%BE%E7%83%9F%E8%8A%B1%E8%BF%8E%E6%8E%A5%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [寒冬冰雪季 龙江最“热”时](https://www.baidu.com/s?wd=%E5%AF%92%E5%86%AC%E5%86%B0%E9%9B%AA%E5%AD%A3+%E9%BE%99%E6%B1%9F%E6%9C%80%E2%80%9C%E7%83%AD%E2%80%9D%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [“我打我自己媳妇 我有结婚证”](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E6%89%93%E6%88%91%E8%87%AA%E5%B7%B1%E5%AA%B3%E5%A6%87+%E6%88%91%E6%9C%89%E7%BB%93%E5%A9%9A%E8%AF%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [中等收入人群超4亿 为何“脆弱”?](https://www.baidu.com/s?wd=%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E4%BA%BA%E7%BE%A4%E8%B6%854%E4%BA%BF+%E4%B8%BA%E4%BD%95%E2%80%9C%E8%84%86%E5%BC%B1%E2%80%9D%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“南方小土豆”称呼引争议](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E2%80%9D%E7%A7%B0%E5%91%BC%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [哈尔滨68元锅包肉饭店已关门](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A868%E5%85%83%E9%94%85%E5%8C%85%E8%82%89%E9%A5%AD%E5%BA%97%E5%B7%B2%E5%85%B3%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [好丽友蛋黄派被检出金黄色葡萄球菌](https://www.baidu.com/s?wd=%E5%A5%BD%E4%B8%BD%E5%8F%8B%E8%9B%8B%E9%BB%84%E6%B4%BE%E8%A2%AB%E6%A3%80%E5%87%BA%E9%87%91%E9%BB%84%E8%89%B2%E8%91%A1%E8%90%84%E7%90%83%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
