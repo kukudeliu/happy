@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 14:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 14:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [中等收入人群超4亿 为何“脆弱”?](https://www.baidu.com/s?wd=%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E4%BA%BA%E7%BE%A4%E8%B6%854%E4%BA%BF+%E4%B8%BA%E4%BD%95%E2%80%9C%E8%84%86%E5%BC%B1%E2%80%9D%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“南方小土豆”称呼引争议](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E2%80%9D%E7%A7%B0%E5%91%BC%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [好丽友蛋黄派被检出金黄色葡萄球菌](https://www.baidu.com/s?wd=%E5%A5%BD%E4%B8%BD%E5%8F%8B%E8%9B%8B%E9%BB%84%E6%B4%BE%E8%A2%AB%E6%A3%80%E5%87%BA%E9%87%91%E9%BB%84%E8%89%B2%E8%91%A1%E8%90%84%E7%90%83%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哈尔滨68元锅包肉饭店已关门](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A868%E5%85%83%E9%94%85%E5%8C%85%E8%82%89%E9%A5%AD%E5%BA%97%E5%B7%B2%E5%85%B3%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国13岁少年通关俄罗斯方块](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD13%E5%B2%81%E5%B0%91%E5%B9%B4%E9%80%9A%E5%85%B3%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“抢白面要地震”？造谣](https://www.baidu.com/s?wd=%E2%80%9C%E6%8A%A2%E7%99%BD%E9%9D%A2%E8%A6%81%E5%9C%B0%E9%9C%87%E2%80%9D%EF%BC%9F%E9%80%A0%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [中等收入人群超4亿 为何“脆弱”?](https://www.baidu.com/s?wd=%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E4%BA%BA%E7%BE%A4%E8%B6%854%E4%BA%BF+%E4%B8%BA%E4%BD%95%E2%80%9C%E8%84%86%E5%BC%B1%E2%80%9D%3F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [“南方小土豆”称呼引争议](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E2%80%9D%E7%A7%B0%E5%91%BC%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [好丽友蛋黄派被检出金黄色葡萄球菌](https://www.baidu.com/s?wd=%E5%A5%BD%E4%B8%BD%E5%8F%8B%E8%9B%8B%E9%BB%84%E6%B4%BE%E8%A2%AB%E6%A3%80%E5%87%BA%E9%87%91%E9%BB%84%E8%89%B2%E8%91%A1%E8%90%84%E7%90%83%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哈尔滨68元锅包肉饭店已关门](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A868%E5%85%83%E9%94%85%E5%8C%85%E8%82%89%E9%A5%AD%E5%BA%97%E5%B7%B2%E5%85%B3%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国13岁少年通关俄罗斯方块](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD13%E5%B2%81%E5%B0%91%E5%B9%B4%E9%80%9A%E5%85%B3%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“抢白面要地震”？造谣](https://www.baidu.com/s?wd=%E2%80%9C%E6%8A%A2%E7%99%BD%E9%9D%A2%E8%A6%81%E5%9C%B0%E9%9C%87%E2%80%9D%EF%BC%9F%E9%80%A0%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
