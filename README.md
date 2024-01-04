@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 01:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 01:35:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女子吃串串香刚坐下就被收4种费用](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E4%B8%B2%E4%B8%B2%E9%A6%99%E5%88%9A%E5%9D%90%E4%B8%8B%E5%B0%B1%E8%A2%AB%E6%94%B64%E7%A7%8D%E8%B4%B9%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [薛之谦服装品牌羽绒服不合格](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%9C%8D%E8%A3%85%E5%93%81%E7%89%8C%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8D%E5%90%88%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [哈尔滨男子骗游客玩雪圈漂移被抓](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E7%94%B7%E5%AD%90%E9%AA%97%E6%B8%B8%E5%AE%A2%E7%8E%A9%E9%9B%AA%E5%9C%88%E6%BC%82%E7%A7%BB%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [以色列主播播报时腰上别枪](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%BB%E6%92%AD%E6%92%AD%E6%8A%A5%E6%97%B6%E8%85%B0%E4%B8%8A%E5%88%AB%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [85后大叔卖奶茶身家150亿](https://www.baidu.com/s?wd=85%E5%90%8E%E5%A4%A7%E5%8F%94%E5%8D%96%E5%A5%B6%E8%8C%B6%E8%BA%AB%E5%AE%B6150%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [村民哄抢芋头？谣言](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%E8%8A%8B%E5%A4%B4%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女子吃串串香刚坐下就被收4种费用](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E4%B8%B2%E4%B8%B2%E9%A6%99%E5%88%9A%E5%9D%90%E4%B8%8B%E5%B0%B1%E8%A2%AB%E6%94%B64%E7%A7%8D%E8%B4%B9%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [薛之谦服装品牌羽绒服不合格](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%9C%8D%E8%A3%85%E5%93%81%E7%89%8C%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8D%E5%90%88%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [哈尔滨男子骗游客玩雪圈漂移被抓](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E7%94%B7%E5%AD%90%E9%AA%97%E6%B8%B8%E5%AE%A2%E7%8E%A9%E9%9B%AA%E5%9C%88%E6%BC%82%E7%A7%BB%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [以色列主播播报时腰上别枪](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%BB%E6%92%AD%E6%92%AD%E6%8A%A5%E6%97%B6%E8%85%B0%E4%B8%8A%E5%88%AB%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [85后大叔卖奶茶身家150亿](https://www.baidu.com/s?wd=85%E5%90%8E%E5%A4%A7%E5%8F%94%E5%8D%96%E5%A5%B6%E8%8C%B6%E8%BA%AB%E5%AE%B6150%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [村民哄抢芋头？谣言](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%E8%8A%8B%E5%A4%B4%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
