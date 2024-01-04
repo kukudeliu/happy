@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 09:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 09:31:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [哈尔滨为小土豆连夜撤下破旧公交牌](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%BA%E5%B0%8F%E5%9C%9F%E8%B1%86%E8%BF%9E%E5%A4%9C%E6%92%A4%E4%B8%8B%E7%A0%B4%E6%97%A7%E5%85%AC%E4%BA%A4%E7%89%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [农业银行 系统](https://s.weibo.com/weibo?q=%E5%86%9C%E4%B8%9A%E9%93%B6%E8%A1%8C%20%E7%B3%BB%E7%BB%9F&t=31&band_rank=5&Refer=top)<br />
 6. [范湉湉繁花演技](https://s.weibo.com/weibo?q=%23%E8%8C%83%E6%B9%89%E6%B9%89%E7%B9%81%E8%8A%B1%E6%BC%94%E6%8A%80%23&t=31&band_rank=6&Refer=top)<br />
-7. [哈尔滨给中央大街铺地毯了](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E7%BB%99%E4%B8%AD%E5%A4%AE%E5%A4%A7%E8%A1%97%E9%93%BA%E5%9C%B0%E6%AF%AF%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [伊朗修正爆炸死亡人数至95人](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%BF%AE%E6%AD%A3%E7%88%86%E7%82%B8%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E8%87%B395%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
+7. [伊朗修正爆炸死亡人数至95人](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%BF%AE%E6%AD%A3%E7%88%86%E7%82%B8%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E8%87%B395%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [哈尔滨给中央大街铺地毯了](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E7%BB%99%E4%B8%AD%E5%A4%AE%E5%A4%A7%E8%A1%97%E9%93%BA%E5%9C%B0%E6%AF%AF%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [南京地铁](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
