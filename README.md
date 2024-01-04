@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 12:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 12:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [11个砂糖橘外套是家长选的](https://s.weibo.com/weibo?q=%2311%E4%B8%AA%E7%A0%82%E7%B3%96%E6%A9%98%E5%A4%96%E5%A5%97%E6%98%AF%E5%AE%B6%E9%95%BF%E9%80%89%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [于正新剧女演员 换人](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%20%E6%8D%A2%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
 8. [我国中等收入人群已达4亿](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E4%BA%BA%E7%BE%A4%E5%B7%B2%E8%BE%BE4%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [支付宝再战社交](https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E5%AE%9D%E5%86%8D%E6%88%98%E7%A4%BE%E4%BA%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [18岁才知道饺子可以不是猪肉馅的](https://s.weibo.com/weibo?q=18%E5%B2%81%E6%89%8D%E7%9F%A5%E9%81%93%E9%A5%BA%E5%AD%90%E5%8F%AF%E4%BB%A5%E4%B8%8D%E6%98%AF%E7%8C%AA%E8%82%89%E9%A6%85%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
