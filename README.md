@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 12:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 12:28:01</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 
 > 百度  
 
-1. [高擎习近平文化思想旗帜](https://www.baidu.com/s?wd=%E9%AB%98%E6%93%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%87%E5%8C%96%E6%80%9D%E6%83%B3%E6%97%97%E5%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [历史属于奋进者](https://www.baidu.com/s?wd=%E5%8E%86%E5%8F%B2%E5%B1%9E%E4%BA%8E%E5%A5%8B%E8%BF%9B%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [这不是甜豆腐脑，是尔滨的恋爱脑](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%8D%E6%98%AF%E7%94%9C%E8%B1%86%E8%85%90%E8%84%91%EF%BC%8C%E6%98%AF%E5%B0%94%E6%BB%A8%E7%9A%84%E6%81%8B%E7%88%B1%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [伊朗爆炸死亡人数被更正为95人](https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%88%86%E7%82%B8%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E8%A2%AB%E6%9B%B4%E6%AD%A3%E4%B8%BA95%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [开年即开跑](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%B4%E5%8D%B3%E5%BC%80%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [寒冬冰雪季 龙江最“热”时](https://www.baidu.com/s?wd=%E5%AF%92%E5%86%AC%E5%86%B0%E9%9B%AA%E5%AD%A3+%E9%BE%99%E6%B1%9F%E6%9C%80%E2%80%9C%E7%83%AD%E2%80%9D%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [官方回应深圳初中取消晚自习](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E5%88%9D%E4%B8%AD%E5%8F%96%E6%B6%88%E6%99%9A%E8%87%AA%E4%B9%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [专家：在职1万退休后只能拿4000](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%9C%A8%E8%81%8C1%E4%B8%87%E9%80%80%E4%BC%91%E5%90%8E%E5%8F%AA%E8%83%BD%E6%8B%BF4000&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [支付宝再战社交](https://www.baidu.com/s?wd=%E6%94%AF%E4%BB%98%E5%AE%9D%E5%86%8D%E6%88%98%E7%A4%BE%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,10 +29,10 @@
 
 > 哔哩哔哩  
 
-1. [高擎习近平文化思想旗帜](https://www.baidu.com/s?wd=%E9%AB%98%E6%93%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%87%E5%8C%96%E6%80%9D%E6%83%B3%E6%97%97%E5%B8%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [历史属于奋进者](https://www.baidu.com/s?wd=%E5%8E%86%E5%8F%B2%E5%B1%9E%E4%BA%8E%E5%A5%8B%E8%BF%9B%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [这不是甜豆腐脑，是尔滨的恋爱脑](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%8D%E6%98%AF%E7%94%9C%E8%B1%86%E8%85%90%E8%84%91%EF%BC%8C%E6%98%AF%E5%B0%94%E6%BB%A8%E7%9A%84%E6%81%8B%E7%88%B1%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [伊朗爆炸死亡人数被更正为95人](https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%88%86%E7%82%B8%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E8%A2%AB%E6%9B%B4%E6%AD%A3%E4%B8%BA95%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [开年即开跑](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%B4%E5%8D%B3%E5%BC%80%E8%B7%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [寒冬冰雪季 龙江最“热”时](https://www.baidu.com/s?wd=%E5%AF%92%E5%86%AC%E5%86%B0%E9%9B%AA%E5%AD%A3+%E9%BE%99%E6%B1%9F%E6%9C%80%E2%80%9C%E7%83%AD%E2%80%9D%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [官方回应深圳初中取消晚自习](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E5%88%9D%E4%B8%AD%E5%8F%96%E6%B6%88%E6%99%9A%E8%87%AA%E4%B9%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [专家：在职1万退休后只能拿4000](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%9C%A8%E8%81%8C1%E4%B8%87%E9%80%80%E4%BC%91%E5%90%8E%E5%8F%AA%E8%83%BD%E6%8B%BF4000&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [支付宝再战社交](https://www.baidu.com/s?wd=%E6%94%AF%E4%BB%98%E5%AE%9D%E5%86%8D%E6%88%98%E7%A4%BE%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
