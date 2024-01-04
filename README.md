@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 13:06:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 13:07:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [南北文旅开门红释放中国消费活力](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%8C%97%E6%96%87%E6%97%85%E5%BC%80%E9%97%A8%E7%BA%A2%E9%87%8A%E6%94%BE%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [洪欣儿子](https://s.weibo.com/weibo?q=%E6%B4%AA%E6%AC%A3%E5%84%BF%E5%AD%90&t=31&band_rank=4&Refer=top)<br />
 5. [今年要办奥运会了](https://s.weibo.com/weibo?q=%E4%BB%8A%E5%B9%B4%E8%A6%81%E5%8A%9E%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
-6. [胡歌当初不想再演戏的原因](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%BD%93%E5%88%9D%E4%B8%8D%E6%83%B3%E5%86%8D%E6%BC%94%E6%88%8F%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=6&Refer=top)<br />
-7. [员工连休37天事假被公司开除](https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E8%BF%9E%E4%BC%9137%E5%A4%A9%E4%BA%8B%E5%81%87%E8%A2%AB%E5%85%AC%E5%8F%B8%E5%BC%80%E9%99%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [高圆圆爸爸强迫赵又廷听京剧](https://s.weibo.com/weibo?q=%E9%AB%98%E5%9C%86%E5%9C%86%E7%88%B8%E7%88%B8%E5%BC%BA%E8%BF%AB%E8%B5%B5%E5%8F%88%E5%BB%B7%E5%90%AC%E4%BA%AC%E5%89%A7&t=31&band_rank=8&Refer=top)<br />
-9. [于正新剧女演员 换人](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%20%E6%8D%A2%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
+6. [昆凌最强大脑](https://s.weibo.com/weibo?q=%E6%98%86%E5%87%8C%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91&t=31&band_rank=6&Refer=top)<br />
+7. [胡歌当初不想再演戏的原因](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%BD%93%E5%88%9D%E4%B8%8D%E6%83%B3%E5%86%8D%E6%BC%94%E6%88%8F%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
+8. [员工连休37天事假被公司开除](https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E8%BF%9E%E4%BC%9137%E5%A4%A9%E4%BA%8B%E5%81%87%E8%A2%AB%E5%85%AC%E5%8F%B8%E5%BC%80%E9%99%A4%23&t=31&band_rank=8&Refer=top)<br />
+9. [高圆圆爸爸强迫赵又廷听京剧](https://s.weibo.com/weibo?q=%E9%AB%98%E5%9C%86%E5%9C%86%E7%88%B8%E7%88%B8%E5%BC%BA%E8%BF%AB%E8%B5%B5%E5%8F%88%E5%BB%B7%E5%90%AC%E4%BA%AC%E5%89%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
