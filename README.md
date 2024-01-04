@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 16:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 16:56:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [陆军2024开训大片有多硬核](https://s.weibo.com/weibo?q=%23%E9%99%86%E5%86%9B2024%E5%BC%80%E8%AE%AD%E5%A4%A7%E7%89%87%E6%9C%89%E5%A4%9A%E7%A1%AC%E6%A0%B8%23&t=31&band_rank=3&Refer=top)<br />
 4. [暖阳分手](https://s.weibo.com/weibo?q=%E6%9A%96%E9%98%B3%E5%88%86%E6%89%8B&t=31&band_rank=4&Refer=top)<br />
 5. [微博之夜阵容官宣](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=5&Refer=top)<br />
-6. [王安宇好像偷了赵昭仪的帽子](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E5%A5%BD%E5%83%8F%E5%81%B7%E4%BA%86%E8%B5%B5%E6%98%AD%E4%BB%AA%E7%9A%84%E5%B8%BD%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
-7. [昆凌最强大脑](https://s.weibo.com/weibo?q=%E6%98%86%E5%87%8C%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91&t=31&band_rank=7&Refer=top)<br />
-8. [冰雪节哈尔滨放假1天](https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E8%8A%82%E5%93%88%E5%B0%94%E6%BB%A8%E6%94%BE%E5%81%871%E5%A4%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [唐嫣为拍繁花三年没接其他戏](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E4%B8%BA%E6%8B%8D%E7%B9%81%E8%8A%B1%E4%B8%89%E5%B9%B4%E6%B2%A1%E6%8E%A5%E5%85%B6%E4%BB%96%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
+6. [男子想免费升舱大闹致航班取消300人改签](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%83%B3%E5%85%8D%E8%B4%B9%E5%8D%87%E8%88%B1%E5%A4%A7%E9%97%B9%E8%87%B4%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88300%E4%BA%BA%E6%94%B9%E7%AD%BE%23&t=31&band_rank=6&Refer=top)<br />
+7. [王安宇好像偷了赵昭仪的帽子](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E5%A5%BD%E5%83%8F%E5%81%B7%E4%BA%86%E8%B5%B5%E6%98%AD%E4%BB%AA%E7%9A%84%E5%B8%BD%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
+8. [昆凌最强大脑](https://s.weibo.com/weibo?q=%E6%98%86%E5%87%8C%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91&t=31&band_rank=8&Refer=top)<br />
+9. [冰雪节哈尔滨放假1天](https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E8%8A%82%E5%93%88%E5%B0%94%E6%BB%A8%E6%94%BE%E5%81%871%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
