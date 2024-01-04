@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 01:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 01:49:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [广西北海海域地震 涠洲岛震感明显](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E6%B5%B7%E5%9F%9F%E5%9C%B0%E9%9C%87+%E6%B6%A0%E6%B4%B2%E5%B2%9B%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文体旅融合释放冰雪经济潜能](https://www.baidu.com/s?wd=%E6%96%87%E4%BD%93%E6%97%85%E8%9E%8D%E5%90%88%E9%87%8A%E6%94%BE%E5%86%B0%E9%9B%AA%E7%BB%8F%E6%B5%8E%E6%BD%9C%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子吃串串香刚坐下就被收4种费用](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E4%B8%B2%E4%B8%B2%E9%A6%99%E5%88%9A%E5%9D%90%E4%B8%8B%E5%B0%B1%E8%A2%AB%E6%94%B64%E7%A7%8D%E8%B4%B9%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [伊朗遭恐袭 专家：非美以惯常手法](https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%81%AD%E6%81%90%E8%A2%AD+%E4%B8%93%E5%AE%B6%EF%BC%9A%E9%9D%9E%E7%BE%8E%E4%BB%A5%E6%83%AF%E5%B8%B8%E6%89%8B%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [砂糖橘到北极消防站 消防员变夹子音](https://www.baidu.com/s?wd=%E7%A0%82%E7%B3%96%E6%A9%98%E5%88%B0%E5%8C%97%E6%9E%81%E6%B6%88%E9%98%B2%E7%AB%99+%E6%B6%88%E9%98%B2%E5%91%98%E5%8F%98%E5%A4%B9%E5%AD%90%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [85后大叔卖奶茶身家150亿](https://www.baidu.com/s?wd=85%E5%90%8E%E5%A4%A7%E5%8F%94%E5%8D%96%E5%A5%B6%E8%8C%B6%E8%BA%AB%E5%AE%B6150%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子吐槽涨价前6分钟去加油被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%90%E6%A7%BD%E6%B6%A8%E4%BB%B7%E5%89%8D6%E5%88%86%E9%92%9F%E5%8E%BB%E5%8A%A0%E6%B2%B9%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [住户从楼上撒钱？当地回应](https://www.baidu.com/s?wd=%E4%BD%8F%E6%88%B7%E4%BB%8E%E6%A5%BC%E4%B8%8A%E6%92%92%E9%92%B1%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [村民哄抢芋头？谣言](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%E8%8A%8B%E5%A4%B4%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [广西北海海域地震 涠洲岛震感明显](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E6%B5%B7%E5%9F%9F%E5%9C%B0%E9%9C%87+%E6%B6%A0%E6%B4%B2%E5%B2%9B%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文体旅融合释放冰雪经济潜能](https://www.baidu.com/s?wd=%E6%96%87%E4%BD%93%E6%97%85%E8%9E%8D%E5%90%88%E9%87%8A%E6%94%BE%E5%86%B0%E9%9B%AA%E7%BB%8F%E6%B5%8E%E6%BD%9C%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子吃串串香刚坐下就被收4种费用](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E4%B8%B2%E4%B8%B2%E9%A6%99%E5%88%9A%E5%9D%90%E4%B8%8B%E5%B0%B1%E8%A2%AB%E6%94%B64%E7%A7%8D%E8%B4%B9%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [伊朗遭恐袭 专家：非美以惯常手法](https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%81%AD%E6%81%90%E8%A2%AD+%E4%B8%93%E5%AE%B6%EF%BC%9A%E9%9D%9E%E7%BE%8E%E4%BB%A5%E6%83%AF%E5%B8%B8%E6%89%8B%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [砂糖橘到北极消防站 消防员变夹子音](https://www.baidu.com/s?wd=%E7%A0%82%E7%B3%96%E6%A9%98%E5%88%B0%E5%8C%97%E6%9E%81%E6%B6%88%E9%98%B2%E7%AB%99+%E6%B6%88%E9%98%B2%E5%91%98%E5%8F%98%E5%A4%B9%E5%AD%90%E9%9F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [85后大叔卖奶茶身家150亿](https://www.baidu.com/s?wd=85%E5%90%8E%E5%A4%A7%E5%8F%94%E5%8D%96%E5%A5%B6%E8%8C%B6%E8%BA%AB%E5%AE%B6150%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子吐槽涨价前6分钟去加油被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%90%E6%A7%BD%E6%B6%A8%E4%BB%B7%E5%89%8D6%E5%88%86%E9%92%9F%E5%8E%BB%E5%8A%A0%E6%B2%B9%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [住户从楼上撒钱？当地回应](https://www.baidu.com/s?wd=%E4%BD%8F%E6%88%B7%E4%BB%8E%E6%A5%BC%E4%B8%8A%E6%92%92%E9%92%B1%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [村民哄抢芋头？谣言](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%E8%8A%8B%E5%A4%B4%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
