@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 19:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 19:38:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [物业禁止未交管理费业主驾车进入](https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E7%A6%81%E6%AD%A2%E6%9C%AA%E4%BA%A4%E7%AE%A1%E7%90%86%E8%B4%B9%E4%B8%9A%E4%B8%BB%E9%A9%BE%E8%BD%A6%E8%BF%9B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多角度多领域展现经济活力](https://www.baidu.com/s?wd=%E5%A4%9A%E8%A7%92%E5%BA%A6%E5%A4%9A%E9%A2%86%E5%9F%9F%E5%B1%95%E7%8E%B0%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国资委披露央企一把手工资条](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B5%84%E5%A7%94%E6%8A%AB%E9%9C%B2%E5%A4%AE%E4%BC%81%E4%B8%80%E6%8A%8A%E6%89%8B%E5%B7%A5%E8%B5%84%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子吐槽涨价前6分钟去加油被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%90%E6%A7%BD%E6%B6%A8%E4%BB%B7%E5%89%8D6%E5%88%86%E9%92%9F%E5%8E%BB%E5%8A%A0%E6%B2%B9%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [幼儿园突然闭园？教育部门：正调查](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%AA%81%E7%84%B6%E9%97%AD%E5%9B%AD%EF%BC%9F%E6%95%99%E8%82%B2%E9%83%A8%E9%97%A8%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“分手后主动联系给5万”被判无效](https://www.baidu.com/s?wd=%E2%80%9C%E5%88%86%E6%89%8B%E5%90%8E%E4%B8%BB%E5%8A%A8%E8%81%94%E7%B3%BB%E7%BB%995%E4%B8%87%E2%80%9D%E8%A2%AB%E5%88%A4%E6%97%A0%E6%95%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [富二代继承过亿家产：被骗家里欠钱](https://www.baidu.com/s?wd=%E5%AF%8C%E4%BA%8C%E4%BB%A3%E7%BB%A7%E6%89%BF%E8%BF%87%E4%BA%BF%E5%AE%B6%E4%BA%A7%EF%BC%9A%E8%A2%AB%E9%AA%97%E5%AE%B6%E9%87%8C%E6%AC%A0%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子吐槽涨价前6分钟去加油被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%90%E6%A7%BD%E6%B6%A8%E4%BB%B7%E5%89%8D6%E5%88%86%E9%92%9F%E5%8E%BB%E5%8A%A0%E6%B2%B9%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [月薪多少属于中等收入群体](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA%E5%A4%9A%E5%B0%91%E5%B1%9E%E4%BA%8E%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [村民哄抢芋头？谣言](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%E8%8A%8B%E5%A4%B4%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [物业禁止未交管理费业主驾车进入](https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E7%A6%81%E6%AD%A2%E6%9C%AA%E4%BA%A4%E7%AE%A1%E7%90%86%E8%B4%B9%E4%B8%9A%E4%B8%BB%E9%A9%BE%E8%BD%A6%E8%BF%9B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多角度多领域展现经济活力](https://www.baidu.com/s?wd=%E5%A4%9A%E8%A7%92%E5%BA%A6%E5%A4%9A%E9%A2%86%E5%9F%9F%E5%B1%95%E7%8E%B0%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国资委披露央企一把手工资条](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B5%84%E5%A7%94%E6%8A%AB%E9%9C%B2%E5%A4%AE%E4%BC%81%E4%B8%80%E6%8A%8A%E6%89%8B%E5%B7%A5%E8%B5%84%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子吐槽涨价前6分钟去加油被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%90%E6%A7%BD%E6%B6%A8%E4%BB%B7%E5%89%8D6%E5%88%86%E9%92%9F%E5%8E%BB%E5%8A%A0%E6%B2%B9%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [幼儿园突然闭园？教育部门：正调查](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%AA%81%E7%84%B6%E9%97%AD%E5%9B%AD%EF%BC%9F%E6%95%99%E8%82%B2%E9%83%A8%E9%97%A8%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“分手后主动联系给5万”被判无效](https://www.baidu.com/s?wd=%E2%80%9C%E5%88%86%E6%89%8B%E5%90%8E%E4%B8%BB%E5%8A%A8%E8%81%94%E7%B3%BB%E7%BB%995%E4%B8%87%E2%80%9D%E8%A2%AB%E5%88%A4%E6%97%A0%E6%95%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [富二代继承过亿家产：被骗家里欠钱](https://www.baidu.com/s?wd=%E5%AF%8C%E4%BA%8C%E4%BB%A3%E7%BB%A7%E6%89%BF%E8%BF%87%E4%BA%BF%E5%AE%B6%E4%BA%A7%EF%BC%9A%E8%A2%AB%E9%AA%97%E5%AE%B6%E9%87%8C%E6%AC%A0%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子吐槽涨价前6分钟去加油被拒](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%90%E6%A7%BD%E6%B6%A8%E4%BB%B7%E5%89%8D6%E5%88%86%E9%92%9F%E5%8E%BB%E5%8A%A0%E6%B2%B9%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [月薪多少属于中等收入群体](https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA%E5%A4%9A%E5%B0%91%E5%B1%9E%E4%BA%8E%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [村民哄抢芋头？谣言](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%E8%8A%8B%E5%A4%B4%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
