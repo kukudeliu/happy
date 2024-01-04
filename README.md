@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 21:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 21:09:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [哈尔滨搓澡师傅累到坐凳子上睡着](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E6%90%93%E6%BE%A1%E5%B8%88%E5%82%85%E7%B4%AF%E5%88%B0%E5%9D%90%E5%87%B3%E5%AD%90%E4%B8%8A%E7%9D%A1%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [游客与景区工作人员发生冲突被诅咒](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E4%B8%8E%E6%99%AF%E5%8C%BA%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%81%E8%A2%AB%E8%AF%85%E5%92%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [富二代继承过亿家产：被骗家里欠钱](https://www.baidu.com/s?wd=%E5%AF%8C%E4%BA%8C%E4%BB%A3%E7%BB%A7%E6%89%BF%E8%BF%87%E4%BA%BF%E5%AE%B6%E4%BA%A7%EF%BC%9A%E8%A2%AB%E9%AA%97%E5%AE%B6%E9%87%8C%E6%AC%A0%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [伊朗发生恐怖袭击事件 外交部回应](https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E7%94%9F%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [我国电视开机率跌至30%](https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E7%8E%87%E8%B7%8C%E8%87%B330%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [村民哄抢芋头？谣言](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%E8%8A%8B%E5%A4%B4%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [哈尔滨搓澡师傅累到坐凳子上睡着](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E6%90%93%E6%BE%A1%E5%B8%88%E5%82%85%E7%B4%AF%E5%88%B0%E5%9D%90%E5%87%B3%E5%AD%90%E4%B8%8A%E7%9D%A1%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [游客与景区工作人员发生冲突被诅咒](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E4%B8%8E%E6%99%AF%E5%8C%BA%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%81%E8%A2%AB%E8%AF%85%E5%92%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [富二代继承过亿家产：被骗家里欠钱](https://www.baidu.com/s?wd=%E5%AF%8C%E4%BA%8C%E4%BB%A3%E7%BB%A7%E6%89%BF%E8%BF%87%E4%BA%BF%E5%AE%B6%E4%BA%A7%EF%BC%9A%E8%A2%AB%E9%AA%97%E5%AE%B6%E9%87%8C%E6%AC%A0%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [伊朗发生恐怖袭击事件 外交部回应](https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E7%94%9F%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [我国电视开机率跌至30%](https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E7%8E%87%E8%B7%8C%E8%87%B330%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [村民哄抢芋头？谣言](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%E8%8A%8B%E5%A4%B4%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
