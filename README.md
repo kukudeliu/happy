@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 12:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 12:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [沪上阿姨 魔道祖师](https://s.weibo.com/weibo?q=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%20%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88&t=31&band_rank=6&Refer=top)<br />
 7. [于正新剧女演员 换人](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%20%E6%8D%A2%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
 8. [11个砂糖橘外套是家长选的](https://s.weibo.com/weibo?q=%2311%E4%B8%AA%E7%A0%82%E7%B3%96%E6%A9%98%E5%A4%96%E5%A5%97%E6%98%AF%E5%AE%B6%E9%95%BF%E9%80%89%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [18岁才知道饺子可以不是猪肉馅的](https://s.weibo.com/weibo?q=18%E5%B2%81%E6%89%8D%E7%9F%A5%E9%81%93%E9%A5%BA%E5%AD%90%E5%8F%AF%E4%BB%A5%E4%B8%8D%E6%98%AF%E7%8C%AA%E8%82%89%E9%A6%85%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+9. [免费拉游客的劳斯莱斯车主找到了](https://s.weibo.com/weibo?q=%23%E5%85%8D%E8%B4%B9%E6%8B%89%E6%B8%B8%E5%AE%A2%E7%9A%84%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E8%BD%A6%E4%B8%BB%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
