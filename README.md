@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 00:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 00:24:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [文体旅融合释放冰雪经济潜能](https://www.baidu.com/s?wd=%E6%96%87%E4%BD%93%E6%97%85%E8%9E%8D%E5%90%88%E9%87%8A%E6%94%BE%E5%86%B0%E9%9B%AA%E7%BB%8F%E6%B5%8E%E6%BD%9C%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子吃串串香刚坐下就被收4种费用](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E4%B8%B2%E4%B8%B2%E9%A6%99%E5%88%9A%E5%9D%90%E4%B8%8B%E5%B0%B1%E8%A2%AB%E6%94%B64%E7%A7%8D%E8%B4%B9%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [外交部回应缅甸炮弹落入中国境内](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BC%85%E7%94%B8%E7%82%AE%E5%BC%B9%E8%90%BD%E5%85%A5%E4%B8%AD%E5%9B%BD%E5%A2%83%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多名中国留学生入境美国时遭盘查](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%85%A5%E5%A2%83%E7%BE%8E%E5%9B%BD%E6%97%B6%E9%81%AD%E7%9B%98%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [85后大叔卖奶茶身家150亿](https://www.baidu.com/s?wd=85%E5%90%8E%E5%A4%A7%E5%8F%94%E5%8D%96%E5%A5%B6%E8%8C%B6%E8%BA%AB%E5%AE%B6150%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [85后大叔卖奶茶身家150亿](https://www.baidu.com/s?wd=85%E5%90%8E%E5%A4%A7%E5%8F%94%E5%8D%96%E5%A5%B6%E8%8C%B6%E8%BA%AB%E5%AE%B6150%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小砂糖橘收到新疆文旅邀请](https://www.baidu.com/s?wd=%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E6%94%B6%E5%88%B0%E6%96%B0%E7%96%86%E6%96%87%E6%97%85%E9%82%80%E8%AF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [村民哄抢芋头？谣言](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%E8%8A%8B%E5%A4%B4%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [文体旅融合释放冰雪经济潜能](https://www.baidu.com/s?wd=%E6%96%87%E4%BD%93%E6%97%85%E8%9E%8D%E5%90%88%E9%87%8A%E6%94%BE%E5%86%B0%E9%9B%AA%E7%BB%8F%E6%B5%8E%E6%BD%9C%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子吃串串香刚坐下就被收4种费用](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E4%B8%B2%E4%B8%B2%E9%A6%99%E5%88%9A%E5%9D%90%E4%B8%8B%E5%B0%B1%E8%A2%AB%E6%94%B64%E7%A7%8D%E8%B4%B9%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [外交部回应缅甸炮弹落入中国境内](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BC%85%E7%94%B8%E7%82%AE%E5%BC%B9%E8%90%BD%E5%85%A5%E4%B8%AD%E5%9B%BD%E5%A2%83%E5%86%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多名中国留学生入境美国时遭盘查](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%85%A5%E5%A2%83%E7%BE%8E%E5%9B%BD%E6%97%B6%E9%81%AD%E7%9B%98%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [85后大叔卖奶茶身家150亿](https://www.baidu.com/s?wd=85%E5%90%8E%E5%A4%A7%E5%8F%94%E5%8D%96%E5%A5%B6%E8%8C%B6%E8%BA%AB%E5%AE%B6150%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [85后大叔卖奶茶身家150亿](https://www.baidu.com/s?wd=85%E5%90%8E%E5%A4%A7%E5%8F%94%E5%8D%96%E5%A5%B6%E8%8C%B6%E8%BA%AB%E5%AE%B6150%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小砂糖橘收到新疆文旅邀请](https://www.baidu.com/s?wd=%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E6%94%B6%E5%88%B0%E6%96%B0%E7%96%86%E6%96%87%E6%97%85%E9%82%80%E8%AF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [村民哄抢芋头？谣言](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%E8%8A%8B%E5%A4%B4%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
