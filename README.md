@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 14:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 14:33:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [“我打我自己媳妇 我有结婚证”](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E6%89%93%E6%88%91%E8%87%AA%E5%B7%B1%E5%AA%B3%E5%A6%87+%E6%88%91%E6%9C%89%E7%BB%93%E5%A9%9A%E8%AF%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国13岁少年通关俄罗斯方块](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD13%E5%B2%81%E5%B0%91%E5%B9%B4%E9%80%9A%E5%85%B3%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“师范热”降温](https://www.baidu.com/s?wd=%E2%80%9C%E5%B8%88%E8%8C%83%E7%83%AD%E2%80%9D%E9%99%8D%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [#电影金手指#](https://www.baidu.com/s?wd=%23%E7%94%B5%E5%BD%B1%E9%87%91%E6%89%8B%E6%8C%87%23&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [哈尔滨68元锅包肉饭店已关门](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A868%E5%85%83%E9%94%85%E5%8C%85%E8%82%89%E9%A5%AD%E5%BA%97%E5%B7%B2%E5%85%B3%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“抢白面要地震”？造谣](https://www.baidu.com/s?wd=%E2%80%9C%E6%8A%A2%E7%99%BD%E9%9D%A2%E8%A6%81%E5%9C%B0%E9%9C%87%E2%80%9D%EF%BC%9F%E9%80%A0%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [“我打我自己媳妇 我有结婚证”](https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E6%89%93%E6%88%91%E8%87%AA%E5%B7%B1%E5%AA%B3%E5%A6%87+%E6%88%91%E6%9C%89%E7%BB%93%E5%A9%9A%E8%AF%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国13岁少年通关俄罗斯方块](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD13%E5%B2%81%E5%B0%91%E5%B9%B4%E9%80%9A%E5%85%B3%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“师范热”降温](https://www.baidu.com/s?wd=%E2%80%9C%E5%B8%88%E8%8C%83%E7%83%AD%E2%80%9D%E9%99%8D%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [#电影金手指#](https://www.baidu.com/s?wd=%23%E7%94%B5%E5%BD%B1%E9%87%91%E6%89%8B%E6%8C%87%23&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [哈尔滨68元锅包肉饭店已关门](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A868%E5%85%83%E9%94%85%E5%8C%85%E8%82%89%E9%A5%AD%E5%BA%97%E5%B7%B2%E5%85%B3%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“抢白面要地震”？造谣](https://www.baidu.com/s?wd=%E2%80%9C%E6%8A%A2%E7%99%BD%E9%9D%A2%E8%A6%81%E5%9C%B0%E9%9C%87%E2%80%9D%EF%BC%9F%E9%80%A0%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
