@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 22:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 22:52:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女子吃串串香刚坐下就被收4种费用](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E4%B8%B2%E4%B8%B2%E9%A6%99%E5%88%9A%E5%9D%90%E4%B8%8B%E5%B0%B1%E8%A2%AB%E6%94%B64%E7%A7%8D%E8%B4%B9%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [格力回应玫瑰空调被吐槽又土又贵](https://www.baidu.com/s?wd=%E6%A0%BC%E5%8A%9B%E5%9B%9E%E5%BA%94%E7%8E%AB%E7%91%B0%E7%A9%BA%E8%B0%83%E8%A2%AB%E5%90%90%E6%A7%BD%E5%8F%88%E5%9C%9F%E5%8F%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [好丽友蛋黄派被检出金黄色葡萄球菌](https://www.baidu.com/s?wd=%E5%A5%BD%E4%B8%BD%E5%8F%8B%E8%9B%8B%E9%BB%84%E6%B4%BE%E8%A2%AB%E6%A3%80%E5%87%BA%E9%87%91%E9%BB%84%E8%89%B2%E8%91%A1%E8%90%84%E7%90%83%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小砂糖橘收到新疆文旅邀请](https://www.baidu.com/s?wd=%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E6%94%B6%E5%88%B0%E6%96%B0%E7%96%86%E6%96%87%E6%97%85%E9%82%80%E8%AF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [椰树回应日历被指低俗：不对外卖](https://www.baidu.com/s?wd=%E6%A4%B0%E6%A0%91%E5%9B%9E%E5%BA%94%E6%97%A5%E5%8E%86%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%EF%BC%9A%E4%B8%8D%E5%AF%B9%E5%A4%96%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [村民哄抢芋头？谣言](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%E8%8A%8B%E5%A4%B4%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女子吃串串香刚坐下就被收4种费用](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E4%B8%B2%E4%B8%B2%E9%A6%99%E5%88%9A%E5%9D%90%E4%B8%8B%E5%B0%B1%E8%A2%AB%E6%94%B64%E7%A7%8D%E8%B4%B9%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [格力回应玫瑰空调被吐槽又土又贵](https://www.baidu.com/s?wd=%E6%A0%BC%E5%8A%9B%E5%9B%9E%E5%BA%94%E7%8E%AB%E7%91%B0%E7%A9%BA%E8%B0%83%E8%A2%AB%E5%90%90%E6%A7%BD%E5%8F%88%E5%9C%9F%E5%8F%88%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [好丽友蛋黄派被检出金黄色葡萄球菌](https://www.baidu.com/s?wd=%E5%A5%BD%E4%B8%BD%E5%8F%8B%E8%9B%8B%E9%BB%84%E6%B4%BE%E8%A2%AB%E6%A3%80%E5%87%BA%E9%87%91%E9%BB%84%E8%89%B2%E8%91%A1%E8%90%84%E7%90%83%E8%8F%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小砂糖橘收到新疆文旅邀请](https://www.baidu.com/s?wd=%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E6%94%B6%E5%88%B0%E6%96%B0%E7%96%86%E6%96%87%E6%97%85%E9%82%80%E8%AF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [椰树回应日历被指低俗：不对外卖](https://www.baidu.com/s?wd=%E6%A4%B0%E6%A0%91%E5%9B%9E%E5%BA%94%E6%97%A5%E5%8E%86%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%EF%BC%9A%E4%B8%8D%E5%AF%B9%E5%A4%96%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [村民哄抢芋头？谣言](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%E8%8A%8B%E5%A4%B4%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
