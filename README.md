@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 12:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 12:44:01</h4></div>
 
 > 微博  
 
 1. [今年要办奥运会了](https://s.weibo.com/weibo?q=%E4%BB%8A%E5%B9%B4%E8%A6%81%E5%8A%9E%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
 2. [余额低于100元不能提现属霸王条款](https://s.weibo.com/weibo?q=%23%E4%BD%99%E9%A2%9D%E4%BD%8E%E4%BA%8E100%E5%85%83%E4%B8%8D%E8%83%BD%E6%8F%90%E7%8E%B0%E5%B1%9E%E9%9C%B8%E7%8E%8B%E6%9D%A1%E6%AC%BE%23&t=31&band_rank=2&Refer=top)<br />
 3. [南北文旅开门红释放中国消费活力](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%8C%97%E6%96%87%E6%97%85%E5%BC%80%E9%97%A8%E7%BA%A2%E9%87%8A%E6%94%BE%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%23&t=31&band_rank=3&Refer=top)<br />
-4. [胡歌当初不想再演戏的原因](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%BD%93%E5%88%9D%E4%B8%8D%E6%83%B3%E5%86%8D%E6%BC%94%E6%88%8F%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=4&Refer=top)<br />
-5. [洪欣儿子](https://s.weibo.com/weibo?q=%E6%B4%AA%E6%AC%A3%E5%84%BF%E5%AD%90&t=31&band_rank=5&Refer=top)<br />
+4. [洪欣儿子](https://s.weibo.com/weibo?q=%E6%B4%AA%E6%AC%A3%E5%84%BF%E5%AD%90&t=31&band_rank=4&Refer=top)<br />
+5. [胡歌当初不想再演戏的原因](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%BD%93%E5%88%9D%E4%B8%8D%E6%83%B3%E5%86%8D%E6%BC%94%E6%88%8F%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [高圆圆爸爸强迫赵又廷听京剧](https://s.weibo.com/weibo?q=%E9%AB%98%E5%9C%86%E5%9C%86%E7%88%B8%E7%88%B8%E5%BC%BA%E8%BF%AB%E8%B5%B5%E5%8F%88%E5%BB%B7%E5%90%AC%E4%BA%AC%E5%89%A7&t=31&band_rank=6&Refer=top)<br />
 7. [于正新剧女演员 换人](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%20%E6%8D%A2%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
 8. [沪上阿姨 魔道祖师](https://s.weibo.com/weibo?q=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%20%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88&t=31&band_rank=8&Refer=top)<br />
