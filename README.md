@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 06:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 06:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [外交部回应缅甸炮弹落入云南](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BC%85%E7%94%B8%E7%82%AE%E5%BC%B9%E8%90%BD%E5%85%A5%E4%BA%91%E5%8D%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [杭州姑娘一句想吃冻梨司机直接下车买](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%98%E4%B8%80%E5%8F%A5%E6%83%B3%E5%90%83%E5%86%BB%E6%A2%A8%E5%8F%B8%E6%9C%BA%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%A6%E4%B9%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [广西北海地震](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [繁花宝总全名叫什么](https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1%E5%AE%9D%E6%80%BB%E5%85%A8%E5%90%8D%E5%8F%AB%E4%BB%80%E4%B9%88&t=31&band_rank=8&Refer=top)<br />
-9. [头发别耳后显脸小方法](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E5%88%AB%E8%80%B3%E5%90%8E%E6%98%BE%E8%84%B8%E5%B0%8F%E6%96%B9%E6%B3%95&t=31&band_rank=9&Refer=top)<br />
+8. [头发别耳后显脸小方法](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E5%88%AB%E8%80%B3%E5%90%8E%E6%98%BE%E8%84%B8%E5%B0%8F%E6%96%B9%E6%B3%95&t=31&band_rank=8&Refer=top)<br />
+9. [繁花宝总全名叫什么](https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1%E5%AE%9D%E6%80%BB%E5%85%A8%E5%90%8D%E5%8F%AB%E4%BB%80%E4%B9%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
