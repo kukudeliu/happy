@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 13:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 13:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李在明左侧颈内静脉60%被切断](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B7%A6%E4%BE%A7%E9%A2%88%E5%86%85%E9%9D%99%E8%84%8960%25%E8%A2%AB%E5%88%87%E6%96%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [昆凌最强大脑](https://s.weibo.com/weibo?q=%E6%98%86%E5%87%8C%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91&t=31&band_rank=7&Refer=top)<br />
 8. [员工连休37天事假被公司开除](https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E8%BF%9E%E4%BC%9137%E5%A4%A9%E4%BA%8B%E5%81%87%E8%A2%AB%E5%85%AC%E5%8F%B8%E5%BC%80%E9%99%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [胡歌当初不想再演戏的原因](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%BD%93%E5%88%9D%E4%B8%8D%E6%83%B3%E5%86%8D%E6%BC%94%E6%88%8F%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [高圆圆爸爸强迫赵又廷听京剧](https://s.weibo.com/weibo?q=%E9%AB%98%E5%9C%86%E5%9C%86%E7%88%B8%E7%88%B8%E5%BC%BA%E8%BF%AB%E8%B5%B5%E5%8F%88%E5%BB%B7%E5%90%AC%E4%BA%AC%E5%89%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
