@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 11:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 11:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [伊朗总统誓言报复以色列](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%AA%93%E8%A8%80%E6%8A%A5%E5%A4%8D%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [支付宝再战社交](https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E5%AE%9D%E5%86%8D%E6%88%98%E7%A4%BE%E4%BA%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [纪念币 外挂](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%BF%B5%E5%B8%81%20%E5%A4%96%E6%8C%82&t=31&band_rank=8&Refer=top)<br />
-9. [多多买菜本地生活业务已完全暂停](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%A4%9A%E4%B9%B0%E8%8F%9C%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%B4%BB%E4%B8%9A%E5%8A%A1%E5%B7%B2%E5%AE%8C%E5%85%A8%E6%9A%82%E5%81%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [沪上阿姨 魔道祖师](https://s.weibo.com/weibo?q=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%20%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
