@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 18:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 18:09:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [重庆70岁大爷逆生长：满头乌黑发](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%8670%E5%B2%81%E5%A4%A7%E7%88%B7%E9%80%86%E7%94%9F%E9%95%BF%EF%BC%9A%E6%BB%A1%E5%A4%B4%E4%B9%8C%E9%BB%91%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [85后大叔卖奶茶身家150亿](https://www.baidu.com/s?wd=85%E5%90%8E%E5%A4%A7%E5%8F%94%E5%8D%96%E5%A5%B6%E8%8C%B6%E8%BA%AB%E5%AE%B6150%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [哈尔滨机场更衣室为游客铺地毯](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E6%9C%BA%E5%9C%BA%E6%9B%B4%E8%A1%A3%E5%AE%A4%E4%B8%BA%E6%B8%B8%E5%AE%A2%E9%93%BA%E5%9C%B0%E6%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方通报男子失联多日：已遇害](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%A4%B1%E8%81%94%E5%A4%9A%E6%97%A5%EF%BC%9A%E5%B7%B2%E9%81%87%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [幼儿园突然闭园？教育部门：正调查](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%AA%81%E7%84%B6%E9%97%AD%E5%9B%AD%EF%BC%9F%E6%95%99%E8%82%B2%E9%83%A8%E9%97%A8%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [村民哄抢芋头？谣言](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%E8%8A%8B%E5%A4%B4%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [重庆70岁大爷逆生长：满头乌黑发](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%8670%E5%B2%81%E5%A4%A7%E7%88%B7%E9%80%86%E7%94%9F%E9%95%BF%EF%BC%9A%E6%BB%A1%E5%A4%B4%E4%B9%8C%E9%BB%91%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [85后大叔卖奶茶身家150亿](https://www.baidu.com/s?wd=85%E5%90%8E%E5%A4%A7%E5%8F%94%E5%8D%96%E5%A5%B6%E8%8C%B6%E8%BA%AB%E5%AE%B6150%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [哈尔滨机场更衣室为游客铺地毯](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E6%9C%BA%E5%9C%BA%E6%9B%B4%E8%A1%A3%E5%AE%A4%E4%B8%BA%E6%B8%B8%E5%AE%A2%E9%93%BA%E5%9C%B0%E6%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方通报男子失联多日：已遇害](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%A4%B1%E8%81%94%E5%A4%9A%E6%97%A5%EF%BC%9A%E5%B7%B2%E9%81%87%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [幼儿园突然闭园？教育部门：正调查](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%AA%81%E7%84%B6%E9%97%AD%E5%9B%AD%EF%BC%9F%E6%95%99%E8%82%B2%E9%83%A8%E9%97%A8%EF%BC%9A%E6%AD%A3%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [村民哄抢芋头？谣言](https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%E8%8A%8B%E5%A4%B4%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
