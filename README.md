@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 15:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 15:53:01</h4></div>
 
 > 微博  
 
 1. [微博之夜阵容官宣](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=1&Refer=top)<br />
-2. [昆凌最强大脑](https://s.weibo.com/weibo?q=%E6%98%86%E5%87%8C%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91&t=31&band_rank=2&Refer=top)<br />
+2. [唐嫣为拍繁花三年没接其他戏](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E4%B8%BA%E6%8B%8D%E7%B9%81%E8%8A%B1%E4%B8%89%E5%B9%B4%E6%B2%A1%E6%8E%A5%E5%85%B6%E4%BB%96%E6%88%8F%23&t=31&band_rank=2&Refer=top)<br />
 3. [南北文旅开门红释放中国消费活力](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%8C%97%E6%96%87%E6%97%85%E5%BC%80%E9%97%A8%E7%BA%A2%E9%87%8A%E6%94%BE%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [暖阳分手](https://s.weibo.com/weibo?q=%E6%9A%96%E9%98%B3%E5%88%86%E6%89%8B&t=31&band_rank=4&Refer=top)<br />
-5. [唐嫣为拍繁花三年没接其他戏](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E4%B8%BA%E6%8B%8D%E7%B9%81%E8%8A%B1%E4%B8%89%E5%B9%B4%E6%B2%A1%E6%8E%A5%E5%85%B6%E4%BB%96%E6%88%8F%23&t=31&band_rank=5&Refer=top)<br />
+5. [昆凌最强大脑](https://s.weibo.com/weibo?q=%E6%98%86%E5%87%8C%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91&t=31&band_rank=5&Refer=top)<br />
 6. [李在明左侧颈内静脉60%被切断](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B7%A6%E4%BE%A7%E9%A2%88%E5%86%85%E9%9D%99%E8%84%8960%25%E8%A2%AB%E5%88%87%E6%96%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [难怪重庆瘦人多](https://s.weibo.com/weibo?q=%E9%9A%BE%E6%80%AA%E9%87%8D%E5%BA%86%E7%98%A6%E4%BA%BA%E5%A4%9A&t=31&band_rank=7&Refer=top)<br />
 8. [爱泼斯坦](https://s.weibo.com/weibo?q=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6&t=31&band_rank=8&Refer=top)<br />
