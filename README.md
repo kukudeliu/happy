@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 16:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 16:13:01</h4></div>
 
 > 微博  
 
 1. [微博之夜阵容官宣](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=1&Refer=top)<br />
 2. [昆凌最强大脑](https://s.weibo.com/weibo?q=%E6%98%86%E5%87%8C%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91&t=31&band_rank=2&Refer=top)<br />
-3. [文物古籍展喊你来打卡](https://s.weibo.com/weibo?q=%23%E6%96%87%E7%89%A9%E5%8F%A4%E7%B1%8D%E5%B1%95%E5%96%8A%E4%BD%A0%E6%9D%A5%E6%89%93%E5%8D%A1%23&t=31&band_rank=3&Refer=top)<br />
+3. [陆军2024开训大片有多硬核](https://s.weibo.com/weibo?q=%23%E9%99%86%E5%86%9B2024%E5%BC%80%E8%AE%AD%E5%A4%A7%E7%89%87%E6%9C%89%E5%A4%9A%E7%A1%AC%E6%A0%B8%23&t=31&band_rank=3&Refer=top)<br />
 4. [暖阳分手](https://s.weibo.com/weibo?q=%E6%9A%96%E9%98%B3%E5%88%86%E6%89%8B&t=31&band_rank=4&Refer=top)<br />
 5. [唐嫣为拍繁花三年没接其他戏](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E4%B8%BA%E6%8B%8D%E7%B9%81%E8%8A%B1%E4%B8%89%E5%B9%B4%E6%B2%A1%E6%8E%A5%E5%85%B6%E4%BB%96%E6%88%8F%23&t=31&band_rank=5&Refer=top)<br />
 6. [李在明左侧颈内静脉60%被切断](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B7%A6%E4%BE%A7%E9%A2%88%E5%86%85%E9%9D%99%E8%84%8960%25%E8%A2%AB%E5%88%87%E6%96%AD%23&t=31&band_rank=6&Refer=top)<br />
