@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 22:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 22:37:01</h4></div>
 
 > 微博  
 
-1. [哈尔滨惊现15元1个小土豆挂件](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%83%8A%E7%8E%B015%E5%85%831%E4%B8%AA%E5%B0%8F%E5%9C%9F%E8%B1%86%E6%8C%82%E4%BB%B6%23&t=31&band_rank=1&Refer=top)<br />
-2. [沈耀承认了抑郁症](https://s.weibo.com/weibo?q=%E6%B2%88%E8%80%80%E6%89%BF%E8%AE%A4%E4%BA%86%E6%8A%91%E9%83%81%E7%97%87&t=31&band_rank=2&Refer=top)<br />
+1. [广西地震](https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top)<br />
+2. [哈尔滨惊现15元1个小土豆挂件](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%83%8A%E7%8E%B015%E5%85%831%E4%B8%AA%E5%B0%8F%E5%9C%9F%E8%B1%86%E6%8C%82%E4%BB%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [神舟家族将太空家园建设得越来越好](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E8%88%9F%E5%AE%B6%E6%97%8F%E5%B0%86%E5%A4%AA%E7%A9%BA%E5%AE%B6%E5%9B%AD%E5%BB%BA%E8%AE%BE%E5%BE%97%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A5%BD%23&t=31&band_rank=3&Refer=top)<br />
-4. [00后回应被富豪父亲隐瞒家产20年](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%AF%8C%E8%B1%AA%E7%88%B6%E4%BA%B2%E9%9A%90%E7%9E%92%E5%AE%B6%E4%BA%A720%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
-5. [王皓 你赶啥呀兄弟](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9A%93%20%E4%BD%A0%E8%B5%B6%E5%95%A5%E5%91%80%E5%85%84%E5%BC%9F&t=31&band_rank=5&Refer=top)<br />
-6. [老师 你怎么让我奶站过道里](https://s.weibo.com/weibo?q=%E8%80%81%E5%B8%88%20%E4%BD%A0%E6%80%8E%E4%B9%88%E8%AE%A9%E6%88%91%E5%A5%B6%E7%AB%99%E8%BF%87%E9%81%93%E9%87%8C&t=31&band_rank=6&Refer=top)<br />
-7. [预算两万的出国旅行推荐](https://s.weibo.com/weibo?q=%E9%A2%84%E7%AE%97%E4%B8%A4%E4%B8%87%E7%9A%84%E5%87%BA%E5%9B%BD%E6%97%85%E8%A1%8C%E6%8E%A8%E8%8D%90&t=31&band_rank=7&Refer=top)<br />
-8. [中共中央政治局常务委员会召开会议](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [玲子回归砸了夜东京](https://s.weibo.com/weibo?q=%E7%8E%B2%E5%AD%90%E5%9B%9E%E5%BD%92%E7%A0%B8%E4%BA%86%E5%A4%9C%E4%B8%9C%E4%BA%AC&t=31&band_rank=9&Refer=top)<br />
+4. [沈耀承认了抑郁症](https://s.weibo.com/weibo?q=%E6%B2%88%E8%80%80%E6%89%BF%E8%AE%A4%E4%BA%86%E6%8A%91%E9%83%81%E7%97%87&t=31&band_rank=4&Refer=top)<br />
+5. [00后回应被富豪父亲隐瞒家产20年](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%AF%8C%E8%B1%AA%E7%88%B6%E4%BA%B2%E9%9A%90%E7%9E%92%E5%AE%B6%E4%BA%A720%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
+6. [王皓 你赶啥呀兄弟](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9A%93%20%E4%BD%A0%E8%B5%B6%E5%95%A5%E5%91%80%E5%85%84%E5%BC%9F&t=31&band_rank=6&Refer=top)<br />
+7. [老师 你怎么让我奶站过道里](https://s.weibo.com/weibo?q=%E8%80%81%E5%B8%88%20%E4%BD%A0%E6%80%8E%E4%B9%88%E8%AE%A9%E6%88%91%E5%A5%B6%E7%AB%99%E8%BF%87%E9%81%93%E9%87%8C&t=31&band_rank=7&Refer=top)<br />
+8. [预算两万的出国旅行推荐](https://s.weibo.com/weibo?q=%E9%A2%84%E7%AE%97%E4%B8%A4%E4%B8%87%E7%9A%84%E5%87%BA%E5%9B%BD%E6%97%85%E8%A1%8C%E6%8E%A8%E8%8D%90&t=31&band_rank=8&Refer=top)<br />
+9. [中共中央政治局常务委员会召开会议](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
