@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 14:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-04 14:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李在明左侧颈内静脉60%被切断](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B7%A6%E4%BE%A7%E9%A2%88%E5%86%85%E9%9D%99%E8%84%8960%25%E8%A2%AB%E5%88%87%E6%96%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [余额低于100元不能提现属霸王条款](https://s.weibo.com/weibo?q=%23%E4%BD%99%E9%A2%9D%E4%BD%8E%E4%BA%8E100%E5%85%83%E4%B8%8D%E8%83%BD%E6%8F%90%E7%8E%B0%E5%B1%9E%E9%9C%B8%E7%8E%8B%E6%9D%A1%E6%AC%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [唐嫣为拍繁花三年没接其他戏](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E4%B8%BA%E6%8B%8D%E7%B9%81%E8%8A%B1%E4%B8%89%E5%B9%B4%E6%B2%A1%E6%8E%A5%E5%85%B6%E4%BB%96%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [免费拉游客的劳斯莱斯车主找到了](https://s.weibo.com/weibo?q=%23%E5%85%8D%E8%B4%B9%E6%8B%89%E6%B8%B8%E5%AE%A2%E7%9A%84%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E8%BD%A6%E4%B8%BB%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [难怪重庆瘦人多](https://s.weibo.com/weibo?q=%E9%9A%BE%E6%80%AA%E9%87%8D%E5%BA%86%E7%98%A6%E4%BA%BA%E5%A4%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
