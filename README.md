@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 09:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 09:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女子吃串串香刚坐下就被收4种费用](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E4%B8%B2%E4%B8%B2%E9%A6%99%E5%88%9A%E5%9D%90%E4%B8%8B%E5%B0%B1%E8%A2%AB%E6%94%B64%E7%A7%8D%E8%B4%B9%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本记者吐槽民众给灾区寄千纸鹤](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AE%B0%E8%80%85%E5%90%90%E6%A7%BD%E6%B0%91%E4%BC%97%E7%BB%99%E7%81%BE%E5%8C%BA%E5%AF%84%E5%8D%83%E7%BA%B8%E9%B9%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [以部长：巴勒斯坦人最好自愿搬走](https://www.baidu.com/s?wd=%E4%BB%A5%E9%83%A8%E9%95%BF%EF%BC%9A%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA%E6%9C%80%E5%A5%BD%E8%87%AA%E6%84%BF%E6%90%AC%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：房地产新模式在路上](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%96%B0%E6%A8%A1%E5%BC%8F%E5%9C%A8%E8%B7%AF%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国部分医院强制要求戴口罩](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%83%A8%E5%88%86%E5%8C%BB%E9%99%A2%E5%BC%BA%E5%88%B6%E8%A6%81%E6%B1%82%E6%88%B4%E5%8F%A3%E7%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [哈尔滨把鄂伦春族请下山营业？](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E6%8A%8A%E9%84%82%E4%BC%A6%E6%98%A5%E6%97%8F%E8%AF%B7%E4%B8%8B%E5%B1%B1%E8%90%A5%E4%B8%9A%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女子吃串串香刚坐下就被收4种费用](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E4%B8%B2%E4%B8%B2%E9%A6%99%E5%88%9A%E5%9D%90%E4%B8%8B%E5%B0%B1%E8%A2%AB%E6%94%B64%E7%A7%8D%E8%B4%B9%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本记者吐槽民众给灾区寄千纸鹤](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AE%B0%E8%80%85%E5%90%90%E6%A7%BD%E6%B0%91%E4%BC%97%E7%BB%99%E7%81%BE%E5%8C%BA%E5%AF%84%E5%8D%83%E7%BA%B8%E9%B9%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [以部长：巴勒斯坦人最好自愿搬走](https://www.baidu.com/s?wd=%E4%BB%A5%E9%83%A8%E9%95%BF%EF%BC%9A%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA%E6%9C%80%E5%A5%BD%E8%87%AA%E6%84%BF%E6%90%AC%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [媒体：房地产新模式在路上](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%96%B0%E6%A8%A1%E5%BC%8F%E5%9C%A8%E8%B7%AF%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国部分医院强制要求戴口罩](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%83%A8%E5%88%86%E5%8C%BB%E9%99%A2%E5%BC%BA%E5%88%B6%E8%A6%81%E6%B1%82%E6%88%B4%E5%8F%A3%E7%BD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [哈尔滨把鄂伦春族请下山营业？](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E6%8A%8A%E9%84%82%E4%BC%A6%E6%98%A5%E6%97%8F%E8%AF%B7%E4%B8%8B%E5%B1%B1%E8%90%A5%E4%B8%9A%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
