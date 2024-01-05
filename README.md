@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 15:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 15:56:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [天宫机械臂视角看治愈系地球](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%AB%E6%9C%BA%E6%A2%B0%E8%87%82%E8%A7%86%E8%A7%92%E7%9C%8B%E6%B2%BB%E6%84%88%E7%B3%BB%E5%9C%B0%E7%90%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [中国单身汉开始涌向尼泊尔找老婆](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8D%95%E8%BA%AB%E6%B1%89%E5%BC%80%E5%A7%8B%E6%B6%8C%E5%90%91%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%89%BE%E8%80%81%E5%A9%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [双胞胎兄弟一个守国一个守家](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%85%84%E5%BC%9F%E4%B8%80%E4%B8%AA%E5%AE%88%E5%9B%BD%E4%B8%80%E4%B8%AA%E5%AE%88%E5%AE%B6%23&t=31&band_rank=5&Refer=top)<br />
-6. [侵华日军七三一部队遗址前排起长队](https://s.weibo.com/weibo?q=%23%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E4%B8%83%E4%B8%89%E4%B8%80%E9%83%A8%E9%98%9F%E9%81%97%E5%9D%80%E5%89%8D%E6%8E%92%E8%B5%B7%E9%95%BF%E9%98%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [大鹏请来了周星驰](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%B9%8F%E8%AF%B7%E6%9D%A5%E4%BA%86%E5%91%A8%E6%98%9F%E9%A9%B0&t=31&band_rank=7&Refer=top)<br />
+6. [大鹏请来了周星驰](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%B9%8F%E8%AF%B7%E6%9D%A5%E4%BA%86%E5%91%A8%E6%98%9F%E9%A9%B0&t=31&band_rank=6&Refer=top)<br />
+7. [侵华日军七三一部队遗址前排起长队](https://s.weibo.com/weibo?q=%23%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E4%B8%83%E4%B8%89%E4%B8%80%E9%83%A8%E9%98%9F%E9%81%97%E5%9D%80%E5%89%8D%E6%8E%92%E8%B5%B7%E9%95%BF%E9%98%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [快递新规3月1日起施行](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E6%96%B0%E8%A7%843%E6%9C%881%E6%97%A5%E8%B5%B7%E6%96%BD%E8%A1%8C%23&t=31&band_rank=8&Refer=top)<br />
 9. [南阳一公职人员兼职日薪税后3000](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B3%E4%B8%80%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%85%BC%E8%81%8C%E6%97%A5%E8%96%AA%E7%A8%8E%E5%90%8E3000%23&t=31&band_rank=9&Refer=top)<br />
 
