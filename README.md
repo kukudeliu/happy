@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 22:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 22:28:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [乡村振兴追梦人](https://s.weibo.com/weibo?q=%23%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E8%BF%BD%E6%A2%A6%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [TVB前主播柳俊江因屋内烧炭身亡](https://s.weibo.com/weibo?q=%23TVB%E5%89%8D%E4%B8%BB%E6%92%AD%E6%9F%B3%E4%BF%8A%E6%B1%9F%E5%9B%A0%E5%B1%8B%E5%86%85%E7%83%A7%E7%82%AD%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [赵露思哭到颤抖](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%93%AD%E5%88%B0%E9%A2%A4%E6%8A%96&t=31&band_rank=5&Refer=top)<br />
-6. [假球](https://s.weibo.com/weibo?q=%E5%81%87%E7%90%83&t=31&band_rank=6&Refer=top)<br />
-7. [看王家卫怎么拍分手](https://s.weibo.com/weibo?q=%E7%9C%8B%E7%8E%8B%E5%AE%B6%E5%8D%AB%E6%80%8E%E4%B9%88%E6%8B%8D%E5%88%86%E6%89%8B&t=31&band_rank=7&Refer=top)<br />
+6. [看王家卫怎么拍分手](https://s.weibo.com/weibo?q=%E7%9C%8B%E7%8E%8B%E5%AE%B6%E5%8D%AB%E6%80%8E%E4%B9%88%E6%8B%8D%E5%88%86%E6%89%8B&t=31&band_rank=6&Refer=top)<br />
+7. [假球](https://s.weibo.com/weibo?q=%E5%81%87%E7%90%83&t=31&band_rank=7&Refer=top)<br />
 8. [2租客发现11万现金房东免租1年](https://s.weibo.com/weibo?q=%232%E7%A7%9F%E5%AE%A2%E5%8F%91%E7%8E%B011%E4%B8%87%E7%8E%B0%E9%87%91%E6%88%BF%E4%B8%9C%E5%85%8D%E7%A7%9F1%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
 9. [谢娜听到陈乔恩参加婚恋节目的反应](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%90%AC%E5%88%B0%E9%99%88%E4%B9%94%E6%81%A9%E5%8F%82%E5%8A%A0%E5%A9%9A%E6%81%8B%E8%8A%82%E7%9B%AE%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
 
