@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 19:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 19:56:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [小砂糖橘家乡回礼了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E5%AE%B6%E4%B9%A1%E5%9B%9E%E7%A4%BC%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [汪小姐吃的排骨年糕外卖量暴涨200%](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B0%8F%E5%A7%90%E5%90%83%E7%9A%84%E6%8E%92%E9%AA%A8%E5%B9%B4%E7%B3%95%E5%A4%96%E5%8D%96%E9%87%8F%E6%9A%B4%E6%B6%A8200%25%23&t=31&band_rank=6&Refer=top)<br />
 7. [黑龙江这是集体进入宠娃模式了](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E8%BF%99%E6%98%AF%E9%9B%86%E4%BD%93%E8%BF%9B%E5%85%A5%E5%AE%A0%E5%A8%83%E6%A8%A1%E5%BC%8F%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [看王家卫怎么拍分手](https://s.weibo.com/weibo?q=%E7%9C%8B%E7%8E%8B%E5%AE%B6%E5%8D%AB%E6%80%8E%E4%B9%88%E6%8B%8D%E5%88%86%E6%89%8B&t=31&band_rank=8&Refer=top)<br />
-9. [樊振东发挥](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E6%8C%A5&t=31&band_rank=9&Refer=top)<br />
+8. [咪咕 信号呢](https://s.weibo.com/weibo?q=%E5%92%AA%E5%92%95%20%E4%BF%A1%E5%8F%B7%E5%91%A2&t=31&band_rank=8&Refer=top)<br />
+9. [看王家卫怎么拍分手](https://s.weibo.com/weibo?q=%E7%9C%8B%E7%8E%8B%E5%AE%B6%E5%8D%AB%E6%80%8E%E4%B9%88%E6%8B%8D%E5%88%86%E6%89%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
