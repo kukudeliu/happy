@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 20:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 20:09:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [流浪16年留美博士曾发表32篇SCI](https://www.baidu.com/s?wd=%E6%B5%81%E6%B5%AA16%E5%B9%B4%E7%95%99%E7%BE%8E%E5%8D%9A%E5%A3%AB%E6%9B%BE%E5%8F%91%E8%A1%A832%E7%AF%87SCI&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文旅市场开启新年加速度](https://www.baidu.com/s?wd=%E6%96%87%E6%97%85%E5%B8%82%E5%9C%BA%E5%BC%80%E5%90%AF%E6%96%B0%E5%B9%B4%E5%8A%A0%E9%80%9F%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [50多岁昆明市长全马破4](https://www.baidu.com/s?wd=50%E5%A4%9A%E5%B2%81%E6%98%86%E6%98%8E%E5%B8%82%E9%95%BF%E5%85%A8%E9%A9%AC%E7%A0%B44&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [快递新规将施行：不得抛扔踩踏快件](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E6%96%B0%E8%A7%84%E5%B0%86%E6%96%BD%E8%A1%8C%EF%BC%9A%E4%B8%8D%E5%BE%97%E6%8A%9B%E6%89%94%E8%B8%A9%E8%B8%8F%E5%BF%AB%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [哈尔滨爆火带涨东北多家公司股票](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E7%88%86%E7%81%AB%E5%B8%A6%E6%B6%A8%E4%B8%9C%E5%8C%97%E5%A4%9A%E5%AE%B6%E5%85%AC%E5%8F%B8%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [恩师徐根宝喊话范志毅回来搞足球](https://www.baidu.com/s?wd=%E6%81%A9%E5%B8%88%E5%BE%90%E6%A0%B9%E5%AE%9D%E5%96%8A%E8%AF%9D%E8%8C%83%E5%BF%97%E6%AF%85%E5%9B%9E%E6%9D%A5%E6%90%9E%E8%B6%B3%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [巴西数百囚犯借圣诞节回家逃了](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E6%95%B0%E7%99%BE%E5%9B%9A%E7%8A%AF%E5%80%9F%E5%9C%A3%E8%AF%9E%E8%8A%82%E5%9B%9E%E5%AE%B6%E9%80%83%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [听障父母摆摊给女儿买人工耳蜗](https://www.baidu.com/s?wd=%E5%90%AC%E9%9A%9C%E7%88%B6%E6%AF%8D%E6%91%86%E6%91%8A%E7%BB%99%E5%A5%B3%E5%84%BF%E4%B9%B0%E4%BA%BA%E5%B7%A5%E8%80%B3%E8%9C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西北海地震有数人受伤？](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E5%9C%B0%E9%9C%87%E6%9C%89%E6%95%B0%E4%BA%BA%E5%8F%97%E4%BC%A4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [流浪16年留美博士曾发表32篇SCI](https://www.baidu.com/s?wd=%E6%B5%81%E6%B5%AA16%E5%B9%B4%E7%95%99%E7%BE%8E%E5%8D%9A%E5%A3%AB%E6%9B%BE%E5%8F%91%E8%A1%A832%E7%AF%87SCI&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [文旅市场开启新年加速度](https://www.baidu.com/s?wd=%E6%96%87%E6%97%85%E5%B8%82%E5%9C%BA%E5%BC%80%E5%90%AF%E6%96%B0%E5%B9%B4%E5%8A%A0%E9%80%9F%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [50多岁昆明市长全马破4](https://www.baidu.com/s?wd=50%E5%A4%9A%E5%B2%81%E6%98%86%E6%98%8E%E5%B8%82%E9%95%BF%E5%85%A8%E9%A9%AC%E7%A0%B44&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [快递新规将施行：不得抛扔踩踏快件](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E6%96%B0%E8%A7%84%E5%B0%86%E6%96%BD%E8%A1%8C%EF%BC%9A%E4%B8%8D%E5%BE%97%E6%8A%9B%E6%89%94%E8%B8%A9%E8%B8%8F%E5%BF%AB%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [哈尔滨爆火带涨东北多家公司股票](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E7%88%86%E7%81%AB%E5%B8%A6%E6%B6%A8%E4%B8%9C%E5%8C%97%E5%A4%9A%E5%AE%B6%E5%85%AC%E5%8F%B8%E8%82%A1%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [恩师徐根宝喊话范志毅回来搞足球](https://www.baidu.com/s?wd=%E6%81%A9%E5%B8%88%E5%BE%90%E6%A0%B9%E5%AE%9D%E5%96%8A%E8%AF%9D%E8%8C%83%E5%BF%97%E6%AF%85%E5%9B%9E%E6%9D%A5%E6%90%9E%E8%B6%B3%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [巴西数百囚犯借圣诞节回家逃了](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E6%95%B0%E7%99%BE%E5%9B%9A%E7%8A%AF%E5%80%9F%E5%9C%A3%E8%AF%9E%E8%8A%82%E5%9B%9E%E5%AE%B6%E9%80%83%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [听障父母摆摊给女儿买人工耳蜗](https://www.baidu.com/s?wd=%E5%90%AC%E9%9A%9C%E7%88%B6%E6%AF%8D%E6%91%86%E6%91%8A%E7%BB%99%E5%A5%B3%E5%84%BF%E4%B9%B0%E4%BA%BA%E5%B7%A5%E8%80%B3%E8%9C%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西北海地震有数人受伤？](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E5%9C%B0%E9%9C%87%E6%9C%89%E6%95%B0%E4%BA%BA%E5%8F%97%E4%BC%A4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
