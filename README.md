@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 23:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 23:14:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [租客退租留下宫里宫气家具](https://www.baidu.com/s?wd=%E7%A7%9F%E5%AE%A2%E9%80%80%E7%A7%9F%E7%95%99%E4%B8%8B%E5%AE%AB%E9%87%8C%E5%AE%AB%E6%B0%94%E5%AE%B6%E5%85%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [富豪悬赏千万寻子电话被打爆](https://www.baidu.com/s?wd=%E5%AF%8C%E8%B1%AA%E6%82%AC%E8%B5%8F%E5%8D%83%E4%B8%87%E5%AF%BB%E5%AD%90%E7%94%B5%E8%AF%9D%E8%A2%AB%E6%89%93%E7%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [2租客发现11万现金 房东免租1年](https://www.baidu.com/s?wd=2%E7%A7%9F%E5%AE%A2%E5%8F%91%E7%8E%B011%E4%B8%87%E7%8E%B0%E9%87%91+%E6%88%BF%E4%B8%9C%E5%85%8D%E7%A7%9F1%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [反诈志愿者接诈骗电话装上当](https://www.baidu.com/s?wd=%E5%8F%8D%E8%AF%88%E5%BF%97%E6%84%BF%E8%80%85%E6%8E%A5%E8%AF%88%E9%AA%97%E7%94%B5%E8%AF%9D%E8%A3%85%E4%B8%8A%E5%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [景区月薪6千招人扮孙悟空吃东西](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E6%9C%88%E8%96%AA6%E5%8D%83%E6%8B%9B%E4%BA%BA%E6%89%AE%E5%AD%99%E6%82%9F%E7%A9%BA%E5%90%83%E4%B8%9C%E8%A5%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西北海地震有数人受伤？](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E5%9C%B0%E9%9C%87%E6%9C%89%E6%95%B0%E4%BA%BA%E5%8F%97%E4%BC%A4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [租客退租留下宫里宫气家具](https://www.baidu.com/s?wd=%E7%A7%9F%E5%AE%A2%E9%80%80%E7%A7%9F%E7%95%99%E4%B8%8B%E5%AE%AB%E9%87%8C%E5%AE%AB%E6%B0%94%E5%AE%B6%E5%85%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [富豪悬赏千万寻子电话被打爆](https://www.baidu.com/s?wd=%E5%AF%8C%E8%B1%AA%E6%82%AC%E8%B5%8F%E5%8D%83%E4%B8%87%E5%AF%BB%E5%AD%90%E7%94%B5%E8%AF%9D%E8%A2%AB%E6%89%93%E7%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [2租客发现11万现金 房东免租1年](https://www.baidu.com/s?wd=2%E7%A7%9F%E5%AE%A2%E5%8F%91%E7%8E%B011%E4%B8%87%E7%8E%B0%E9%87%91+%E6%88%BF%E4%B8%9C%E5%85%8D%E7%A7%9F1%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [反诈志愿者接诈骗电话装上当](https://www.baidu.com/s?wd=%E5%8F%8D%E8%AF%88%E5%BF%97%E6%84%BF%E8%80%85%E6%8E%A5%E8%AF%88%E9%AA%97%E7%94%B5%E8%AF%9D%E8%A3%85%E4%B8%8A%E5%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [景区月薪6千招人扮孙悟空吃东西](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E6%9C%88%E8%96%AA6%E5%8D%83%E6%8B%9B%E4%BA%BA%E6%89%AE%E5%AD%99%E6%82%9F%E7%A9%BA%E5%90%83%E4%B8%9C%E8%A5%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西北海地震有数人受伤？](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E5%9C%B0%E9%9C%87%E6%9C%89%E6%95%B0%E4%BA%BA%E5%8F%97%E4%BC%A4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
