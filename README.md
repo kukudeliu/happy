@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 22:36:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 22:37:01</h4></div>
 
 > 微博  
 
 1. [孙燕姿妹妹发文断绝关系](https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%87%95%E5%A7%BF%E5%A6%B9%E5%A6%B9%E5%8F%91%E6%96%87%E6%96%AD%E7%BB%9D%E5%85%B3%E7%B3%BB%23&t=31&band_rank=1&Refer=top)<br />
-2. [豆腐脑敢放糖 粽子就敢包肉](https://s.weibo.com/weibo?q=%E8%B1%86%E8%85%90%E8%84%91%E6%95%A2%E6%94%BE%E7%B3%96%20%E7%B2%BD%E5%AD%90%E5%B0%B1%E6%95%A2%E5%8C%85%E8%82%89&t=31&band_rank=2&Refer=top)<br />
+2. [TVB前主播柳俊江因屋内烧炭身亡](https://s.weibo.com/weibo?q=%23TVB%E5%89%8D%E4%B8%BB%E6%92%AD%E6%9F%B3%E4%BF%8A%E6%B1%9F%E5%9B%A0%E5%B1%8B%E5%86%85%E7%83%A7%E7%82%AD%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [乡村振兴追梦人](https://s.weibo.com/weibo?q=%23%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E8%BF%BD%E6%A2%A6%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
-4. [TVB前主播柳俊江因屋内烧炭身亡](https://s.weibo.com/weibo?q=%23TVB%E5%89%8D%E4%B8%BB%E6%92%AD%E6%9F%B3%E4%BF%8A%E6%B1%9F%E5%9B%A0%E5%B1%8B%E5%86%85%E7%83%A7%E7%82%AD%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
+4. [豆腐脑敢放糖 粽子就敢包肉](https://s.weibo.com/weibo?q=%E8%B1%86%E8%85%90%E8%84%91%E6%95%A2%E6%94%BE%E7%B3%96%20%E7%B2%BD%E5%AD%90%E5%B0%B1%E6%95%A2%E5%8C%85%E8%82%89&t=31&band_rank=4&Refer=top)<br />
 5. [赵露思哭到颤抖](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%93%AD%E5%88%B0%E9%A2%A4%E6%8A%96&t=31&band_rank=5&Refer=top)<br />
 6. [看王家卫怎么拍分手](https://s.weibo.com/weibo?q=%E7%9C%8B%E7%8E%8B%E5%AE%B6%E5%8D%AB%E6%80%8E%E4%B9%88%E6%8B%8D%E5%88%86%E6%89%8B&t=31&band_rank=6&Refer=top)<br />
 7. [2租客发现11万现金房东免租1年](https://s.weibo.com/weibo?q=%232%E7%A7%9F%E5%AE%A2%E5%8F%91%E7%8E%B011%E4%B8%87%E7%8E%B0%E9%87%91%E6%88%BF%E4%B8%9C%E5%85%8D%E7%A7%9F1%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
