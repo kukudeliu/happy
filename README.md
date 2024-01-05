@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 12:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 12:47:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [超七成年轻人开始关注奶茶健康](https://s.weibo.com/weibo?q=%23%E8%B6%85%E4%B8%83%E6%88%90%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%85%B3%E6%B3%A8%E5%A5%B6%E8%8C%B6%E5%81%A5%E5%BA%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [小土豆说哈尔滨菜量太大每天都吃撑](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9C%9F%E8%B1%86%E8%AF%B4%E5%93%88%E5%B0%94%E6%BB%A8%E8%8F%9C%E9%87%8F%E5%A4%AA%E5%A4%A7%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%90%83%E6%92%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [狐妖王权篇开机](https://s.weibo.com/weibo?q=%E7%8B%90%E5%A6%96%E7%8E%8B%E6%9D%83%E7%AF%87%E5%BC%80%E6%9C%BA&t=31&band_rank=6&Refer=top)<br />
-7. [刘诗诗摇滚歌姬](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E6%91%87%E6%BB%9A%E6%AD%8C%E5%A7%AC%23&t=31&band_rank=7&Refer=top)<br />
+7. [死期将至](https://s.weibo.com/weibo?q=%E6%AD%BB%E6%9C%9F%E5%B0%86%E8%87%B3&t=31&band_rank=7&Refer=top)<br />
 8. [李荣书退团](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E4%B9%A6%E9%80%80%E5%9B%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [死期将至](https://s.weibo.com/weibo?q=%E6%AD%BB%E6%9C%9F%E5%B0%86%E8%87%B3&t=31&band_rank=9&Refer=top)<br />
+9. [刘诗诗摇滚歌姬](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E6%91%87%E6%BB%9A%E6%AD%8C%E5%A7%AC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
