@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 21:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 21:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朝鲜5日上午进行海军实弹射击演习](https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C5%E6%97%A5%E4%B8%8A%E5%8D%88%E8%BF%9B%E8%A1%8C%E6%B5%B7%E5%86%9B%E5%AE%9E%E5%BC%B9%E5%B0%84%E5%87%BB%E6%BC%94%E4%B9%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [租客退租留下宫里宫气家具](https://s.weibo.com/weibo?q=%23%E7%A7%9F%E5%AE%A2%E9%80%80%E7%A7%9F%E7%95%99%E4%B8%8B%E5%AE%AB%E9%87%8C%E5%AE%AB%E6%B0%94%E5%AE%B6%E5%85%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [与恶魔有约](https://s.weibo.com/weibo?q=%E4%B8%8E%E6%81%B6%E9%AD%94%E6%9C%89%E7%BA%A6&t=31&band_rank=8&Refer=top)<br />
-9. [我姓哈名尔滨](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A7%93%E5%93%88%E5%90%8D%E5%B0%94%E6%BB%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [豆腐脑敢放糖 粽子就敢包肉](https://s.weibo.com/weibo?q=%E8%B1%86%E8%85%90%E8%84%91%E6%95%A2%E6%94%BE%E7%B3%96%20%E7%B2%BD%E5%AD%90%E5%B0%B1%E6%95%A2%E5%8C%85%E8%82%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
