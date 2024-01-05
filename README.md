@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 16:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 16:52:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [尔滨啊](https://s.weibo.com/weibo?q=%E5%B0%94%E6%BB%A8%E5%95%8A&t=31&band_rank=5&Refer=top)<br />
 6. [央视曝河南距今2300年的赵长城被拦腰截断](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E6%B2%B3%E5%8D%97%E8%B7%9D%E4%BB%8A2300%E5%B9%B4%E7%9A%84%E8%B5%B5%E9%95%BF%E5%9F%8E%E8%A2%AB%E6%8B%A6%E8%85%B0%E6%88%AA%E6%96%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [警方通报女大学生摆摊被威胁](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%91%86%E6%91%8A%E8%A2%AB%E5%A8%81%E8%83%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [大鹏请来了周星驰](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%B9%8F%E8%AF%B7%E6%9D%A5%E4%BA%86%E5%91%A8%E6%98%9F%E9%A9%B0&t=31&band_rank=8&Refer=top)<br />
-9. [秦岚被外国人合照](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E8%A2%AB%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%90%88%E7%85%A7&t=31&band_rank=9&Refer=top)<br />
+8. [你会花29999买玫瑰空调吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E8%8A%B129999%E4%B9%B0%E7%8E%AB%E7%91%B0%E7%A9%BA%E8%B0%83%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [大鹏请来了周星驰](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%B9%8F%E8%AF%B7%E6%9D%A5%E4%BA%86%E5%91%A8%E6%98%9F%E9%A9%B0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
