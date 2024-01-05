@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 21:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 21:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朝鲜5日上午进行海军实弹射击演习](https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C5%E6%97%A5%E4%B8%8A%E5%8D%88%E8%BF%9B%E8%A1%8C%E6%B5%B7%E5%86%9B%E5%AE%9E%E5%BC%B9%E5%B0%84%E5%87%BB%E6%BC%94%E4%B9%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [看王家卫怎么拍分手](https://s.weibo.com/weibo?q=%E7%9C%8B%E7%8E%8B%E5%AE%B6%E5%8D%AB%E6%80%8E%E4%B9%88%E6%8B%8D%E5%88%86%E6%89%8B&t=31&band_rank=7&Refer=top)<br />
 8. [我姓哈名尔滨](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A7%93%E5%93%88%E5%90%8D%E5%B0%94%E6%BB%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [沈腾抽中刘德华签名海报](https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E6%8A%BD%E4%B8%AD%E5%88%98%E5%BE%B7%E5%8D%8E%E7%AD%BE%E5%90%8D%E6%B5%B7%E6%8A%A5&t=31&band_rank=9&Refer=top)<br />
+9. [央视曝河南距今2300年的赵长城被拦腰截断](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E6%B2%B3%E5%8D%97%E8%B7%9D%E4%BB%8A2300%E5%B9%B4%E7%9A%84%E8%B5%B5%E9%95%BF%E5%9F%8E%E8%A2%AB%E6%8B%A6%E8%85%B0%E6%88%AA%E6%96%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
