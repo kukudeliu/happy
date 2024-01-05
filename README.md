@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 00:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 00:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [樊振东发挥](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E6%8C%A5&t=31&band_rank=6&Refer=top)<br />
 7. [papi酱菱红下线](https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E8%8F%B1%E7%BA%A2%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [沈阳文旅局长深夜在线听网友支招](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E6%96%87%E6%97%85%E5%B1%80%E9%95%BF%E6%B7%B1%E5%A4%9C%E5%9C%A8%E7%BA%BF%E5%90%AC%E7%BD%91%E5%8F%8B%E6%94%AF%E6%8B%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [中福彩已报警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A6%8F%E5%BD%A9%E5%B7%B2%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [家长半夜给班主任打电话学生遭怒怼](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%8D%8A%E5%A4%9C%E7%BB%99%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%89%93%E7%94%B5%E8%AF%9D%E5%AD%A6%E7%94%9F%E9%81%AD%E6%80%92%E6%80%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
