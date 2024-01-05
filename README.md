@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 11:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 11:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [哈尔滨惊现15元1个小土豆挂件](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%83%8A%E7%8E%B015%E5%85%831%E4%B8%AA%E5%B0%8F%E5%9C%9F%E8%B1%86%E6%8C%82%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [警方通报东航乘客机舱内大闹](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%9C%E8%88%AA%E4%B9%98%E5%AE%A2%E6%9C%BA%E8%88%B1%E5%86%85%E5%A4%A7%E9%97%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [腾讯破30000的四部剧](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E7%A0%B430000%E7%9A%84%E5%9B%9B%E9%83%A8%E5%89%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [老婆力劝范志毅出演繁花](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A9%86%E5%8A%9B%E5%8A%9D%E8%8C%83%E5%BF%97%E6%AF%85%E5%87%BA%E6%BC%94%E7%B9%81%E8%8A%B1%23&t=31&band_rank=9&Refer=top)<br />
+9. [唐嫣演技](https://s.weibo.com/weibo?q=%E5%94%90%E5%AB%A3%E6%BC%94%E6%8A%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
