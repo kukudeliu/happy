@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 04:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 04:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [2租客发现11万现金房东免租1年](https://s.weibo.com/weibo?q=%232%E7%A7%9F%E5%AE%A2%E5%8F%91%E7%8E%B011%E4%B8%87%E7%8E%B0%E9%87%91%E6%88%BF%E4%B8%9C%E5%85%8D%E7%A7%9F1%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦总决赛男单夺冠](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%80%BB%E5%86%B3%E8%B5%9B%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0%23&t=31&band_rank=7&Refer=top)<br />
 8. [赵露思哭到颤抖](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%93%AD%E5%88%B0%E9%A2%A4%E6%8A%96&t=31&band_rank=8&Refer=top)<br />
-9. [papi酱菱红下线](https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E8%8F%B1%E7%BA%A2%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [甲流刚好又感染乙流](https://s.weibo.com/weibo?q=%23%E7%94%B2%E6%B5%81%E5%88%9A%E5%A5%BD%E5%8F%88%E6%84%9F%E6%9F%93%E4%B9%99%E6%B5%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
