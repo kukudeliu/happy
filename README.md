@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 04:29:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 04:30:02</h4></div>
 
 > 微博  
 
 1. [孙燕姿妹妹发文断绝关系](https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%87%95%E5%A7%BF%E5%A6%B9%E5%A6%B9%E5%8F%91%E6%96%87%E6%96%AD%E7%BB%9D%E5%85%B3%E7%B3%BB%23&t=31&band_rank=1&Refer=top)<br />
-2. [百事被家乐福封杀](https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%BA%8B%E8%A2%AB%E5%AE%B6%E4%B9%90%E7%A6%8F%E5%B0%81%E6%9D%80%23&t=31&band_rank=2&Refer=top)<br />
+2. [一个人骂我 说明不了什么](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E9%AA%82%E6%88%91%20%E8%AF%B4%E6%98%8E%E4%B8%8D%E4%BA%86%E4%BB%80%E4%B9%88&t=31&band_rank=2&Refer=top)<br />
 3. [中国航天员26年出征太空12次](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%9826%E5%B9%B4%E5%87%BA%E5%BE%81%E5%A4%AA%E7%A9%BA12%E6%AC%A1%23&t=31&band_rank=3&Refer=top)<br />
-4. [一个人骂我 说明不了什么](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E9%AA%82%E6%88%91%20%E8%AF%B4%E6%98%8E%E4%B8%8D%E4%BA%86%E4%BB%80%E4%B9%88&t=31&band_rank=4&Refer=top)<br />
+4. [百事被家乐福封杀](https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%BA%8B%E8%A2%AB%E5%AE%B6%E4%B9%90%E7%A6%8F%E5%B0%81%E6%9D%80%23&t=31&band_rank=4&Refer=top)<br />
 5. [甲流刚好又感染乙流](https://s.weibo.com/weibo?q=%23%E7%94%B2%E6%B5%81%E5%88%9A%E5%A5%BD%E5%8F%88%E6%84%9F%E6%9F%93%E4%B9%99%E6%B5%81%23&t=31&band_rank=5&Refer=top)<br />
 6. [家长半夜给班主任打电话学生遭怒怼](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%8D%8A%E5%A4%9C%E7%BB%99%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%89%93%E7%94%B5%E8%AF%9D%E5%AD%A6%E7%94%9F%E9%81%AD%E6%80%92%E6%80%BC%23&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦总决赛男单夺冠](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%80%BB%E5%86%B3%E8%B5%9B%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0%23&t=31&band_rank=7&Refer=top)<br />
