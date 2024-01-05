@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 03:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 03:06:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [租客退租留下宫里宫气家具](https://www.baidu.com/s?wd=%E7%A7%9F%E5%AE%A2%E9%80%80%E7%A7%9F%E7%95%99%E4%B8%8B%E5%AE%AB%E9%87%8C%E5%AE%AB%E6%B0%94%E5%AE%B6%E5%85%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老师将班级电脑壁纸设成自己照片](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%B0%86%E7%8F%AD%E7%BA%A7%E7%94%B5%E8%84%91%E5%A3%81%E7%BA%B8%E8%AE%BE%E6%88%90%E8%87%AA%E5%B7%B1%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [因家长半夜打电话 班主任怒怼学生](https://www.baidu.com/s?wd=%E5%9B%A0%E5%AE%B6%E9%95%BF%E5%8D%8A%E5%A4%9C%E6%89%93%E7%94%B5%E8%AF%9D+%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%80%92%E6%80%BC%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [在美国街头流浪的复旦博士：想回国](https://www.baidu.com/s?wd=%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%A1%97%E5%A4%B4%E6%B5%81%E6%B5%AA%E7%9A%84%E5%A4%8D%E6%97%A6%E5%8D%9A%E5%A3%AB%EF%BC%9A%E6%83%B3%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [泼天的富贵考验哈尔滨](https://www.baidu.com/s?wd=%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5%E8%80%83%E9%AA%8C%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西北海地震有数人受伤？](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E5%9C%B0%E9%9C%87%E6%9C%89%E6%95%B0%E4%BA%BA%E5%8F%97%E4%BC%A4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [租客退租留下宫里宫气家具](https://www.baidu.com/s?wd=%E7%A7%9F%E5%AE%A2%E9%80%80%E7%A7%9F%E7%95%99%E4%B8%8B%E5%AE%AB%E9%87%8C%E5%AE%AB%E6%B0%94%E5%AE%B6%E5%85%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [老师将班级电脑壁纸设成自己照片](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%B0%86%E7%8F%AD%E7%BA%A7%E7%94%B5%E8%84%91%E5%A3%81%E7%BA%B8%E8%AE%BE%E6%88%90%E8%87%AA%E5%B7%B1%E7%85%A7%E7%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [因家长半夜打电话 班主任怒怼学生](https://www.baidu.com/s?wd=%E5%9B%A0%E5%AE%B6%E9%95%BF%E5%8D%8A%E5%A4%9C%E6%89%93%E7%94%B5%E8%AF%9D+%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%80%92%E6%80%BC%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [在美国街头流浪的复旦博士：想回国](https://www.baidu.com/s?wd=%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%A1%97%E5%A4%B4%E6%B5%81%E6%B5%AA%E7%9A%84%E5%A4%8D%E6%97%A6%E5%8D%9A%E5%A3%AB%EF%BC%9A%E6%83%B3%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [泼天的富贵考验哈尔滨](https://www.baidu.com/s?wd=%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5%E8%80%83%E9%AA%8C%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西北海地震有数人受伤？](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E5%9C%B0%E9%9C%87%E6%9C%89%E6%95%B0%E4%BA%BA%E5%8F%97%E4%BC%A4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
