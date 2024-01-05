@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 19:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 19:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朝鲜向韩国西部海域发射200多发海岸炮](https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E5%90%91%E9%9F%A9%E5%9B%BD%E8%A5%BF%E9%83%A8%E6%B5%B7%E5%9F%9F%E5%8F%91%E5%B0%84200%E5%A4%9A%E5%8F%91%E6%B5%B7%E5%B2%B8%E7%82%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [双胞胎兄弟一个守国一个守家](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%85%84%E5%BC%9F%E4%B8%80%E4%B8%AA%E5%AE%88%E5%9B%BD%E4%B8%80%E4%B8%AA%E5%AE%88%E5%AE%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [苹果终于不用手动设置节假日日历了](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E7%BB%88%E4%BA%8E%E4%B8%8D%E7%94%A8%E6%89%8B%E5%8A%A8%E8%AE%BE%E7%BD%AE%E8%8A%82%E5%81%87%E6%97%A5%E6%97%A5%E5%8E%86%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [双林3比0小胖头](https://s.weibo.com/weibo?q=%E5%8F%8C%E6%9E%973%E6%AF%940%E5%B0%8F%E8%83%96%E5%A4%B4&t=31&band_rank=9&Refer=top)<br />
+9. [樊振东发挥](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E6%8C%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
