@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 18:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-05 18:41:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [侵华日军七三一部队遗址前排起长队](https://www.baidu.com/s?wd=%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E4%B8%83%E4%B8%89%E4%B8%80%E9%83%A8%E9%98%9F%E9%81%97%E5%9D%80%E5%89%8D%E6%8E%92%E8%B5%B7%E9%95%BF%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [古茗和蜜雪冰城谁是下沉之王](https://www.baidu.com/s?wd=%E5%8F%A4%E8%8C%97%E5%92%8C%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%B0%81%E6%98%AF%E4%B8%8B%E6%B2%89%E4%B9%8B%E7%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#金手指梁朝伟刘德华双雄对决#](https://www.baidu.com/s?wd=%23%E9%87%91%E6%89%8B%E6%8C%87%E6%A2%81%E6%9C%9D%E4%BC%9F%E5%88%98%E5%BE%B7%E5%8D%8E%E5%8F%8C%E9%9B%84%E5%AF%B9%E5%86%B3%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子用锄头殴打两人致死？谣言](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E9%94%84%E5%A4%B4%E6%AE%B4%E6%89%93%E4%B8%A4%E4%BA%BA%E8%87%B4%E6%AD%BB%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广西北海地震有数人受伤？](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E5%9C%B0%E9%9C%87%E6%9C%89%E6%95%B0%E4%BA%BA%E5%8F%97%E4%BC%A4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [侵华日军七三一部队遗址前排起长队](https://www.baidu.com/s?wd=%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E4%B8%83%E4%B8%89%E4%B8%80%E9%83%A8%E9%98%9F%E9%81%97%E5%9D%80%E5%89%8D%E6%8E%92%E8%B5%B7%E9%95%BF%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [古茗和蜜雪冰城谁是下沉之王](https://www.baidu.com/s?wd=%E5%8F%A4%E8%8C%97%E5%92%8C%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%B0%81%E6%98%AF%E4%B8%8B%E6%B2%89%E4%B9%8B%E7%8E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#金手指梁朝伟刘德华双雄对决#](https://www.baidu.com/s?wd=%23%E9%87%91%E6%89%8B%E6%8C%87%E6%A2%81%E6%9C%9D%E4%BC%9F%E5%88%98%E5%BE%B7%E5%8D%8E%E5%8F%8C%E9%9B%84%E5%AF%B9%E5%86%B3%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [男子用锄头殴打两人致死？谣言](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E9%94%84%E5%A4%B4%E6%AE%B4%E6%89%93%E4%B8%A4%E4%BA%BA%E8%87%B4%E6%AD%BB%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [广西北海地震有数人受伤？](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E5%9C%B0%E9%9C%87%E6%9C%89%E6%95%B0%E4%BA%BA%E5%8F%97%E4%BC%A4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
