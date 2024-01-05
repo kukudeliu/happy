@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 01:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 01:35:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [王楚钦总决赛男单夺冠](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%80%BB%E5%86%B3%E8%B5%9B%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [沈阳文旅局长深夜在线听网友支招](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E6%96%87%E6%97%85%E5%B1%80%E9%95%BF%E6%B7%B1%E5%A4%9C%E5%9C%A8%E7%BA%BF%E5%90%AC%E7%BD%91%E5%8F%8B%E6%94%AF%E6%8B%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [家长半夜给班主任打电话学生遭怒怼](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%8D%8A%E5%A4%9C%E7%BB%99%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%89%93%E7%94%B5%E8%AF%9D%E5%AD%A6%E7%94%9F%E9%81%AD%E6%80%92%E6%80%BC%23&t=31&band_rank=7&Refer=top)<br />
-8. [赵露思哭到颤抖](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%93%AD%E5%88%B0%E9%A2%A4%E6%8A%96&t=31&band_rank=8&Refer=top)<br />
-9. [papi酱菱红下线](https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E8%8F%B1%E7%BA%A2%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
+8. [papi酱菱红下线](https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E8%8F%B1%E7%BA%A2%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [赵露思哭到颤抖](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%93%AD%E5%88%B0%E9%A2%A4%E6%8A%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
