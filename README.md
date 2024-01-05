@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 07:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 07:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [沈阳文旅局长深夜在线听网友支招](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E6%96%87%E6%97%85%E5%B1%80%E9%95%BF%E6%B7%B1%E5%A4%9C%E5%9C%A8%E7%BA%BF%E5%90%AC%E7%BD%91%E5%8F%8B%E6%94%AF%E6%8B%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [papi酱菱红下线](https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E8%8F%B1%E7%BA%A2%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [中央大街现鄂伦春族老爷爷](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E5%A4%A7%E8%A1%97%E7%8E%B0%E9%84%82%E4%BC%A6%E6%98%A5%E6%97%8F%E8%80%81%E7%88%B7%E7%88%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [小寒](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AF%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [2租客发现11万现金房东免租1年](https://s.weibo.com/weibo?q=%232%E7%A7%9F%E5%AE%A2%E5%8F%91%E7%8E%B011%E4%B8%87%E7%8E%B0%E9%87%91%E6%88%BF%E4%B8%9C%E5%85%8D%E7%A7%9F1%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
