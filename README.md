@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 15:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 16:00:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [有多囊卵巢综合征女性会出现爆痘](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%A4%9A%E5%9B%8A%E5%8D%B5%E5%B7%A2%E7%BB%BC%E5%90%88%E5%BE%81%E5%A5%B3%E6%80%A7%E4%BC%9A%E5%87%BA%E7%8E%B0%E7%88%86%E7%97%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [汪小姐出车祸](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B0%8F%E5%A7%90%E5%87%BA%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [山东一高校坠落巨大冰块砸倒学生](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E9%AB%98%E6%A0%A1%E5%9D%A0%E8%90%BD%E5%B7%A8%E5%A4%A7%E5%86%B0%E5%9D%97%E7%A0%B8%E5%80%92%E5%AD%A6%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [黑龙江文旅厅厅长仅任职1年](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%87%E6%97%85%E5%8E%85%E5%8E%85%E9%95%BF%E4%BB%85%E4%BB%BB%E8%81%8C1%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [谢震廷否认向前女友挥刀](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E9%9C%87%E5%BB%B7%E5%90%A6%E8%AE%A4%E5%90%91%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%8C%A5%E5%88%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
