@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 13:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 13:47:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [王石有一个3岁女儿](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9F%B3%E6%9C%89%E4%B8%80%E4%B8%AA3%E5%B2%81%E5%A5%B3%E5%84%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [专家称南方小土豆争议暴露南北文化差异](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E4%BA%89%E8%AE%AE%E6%9A%B4%E9%9C%B2%E5%8D%97%E5%8C%97%E6%96%87%E5%8C%96%E5%B7%AE%E5%BC%82%23&t=31&band_rank=6&Refer=top)<br />
 7. [复旦留美博士称妻子拿绿卡后和他离婚](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%95%99%E7%BE%8E%E5%8D%9A%E5%A3%AB%E7%A7%B0%E5%A6%BB%E5%AD%90%E6%8B%BF%E7%BB%BF%E5%8D%A1%E5%90%8E%E5%92%8C%E4%BB%96%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [王菲 反王家卫打击第一人](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%8F%B2%20%E5%8F%8D%E7%8E%8B%E5%AE%B6%E5%8D%AB%E6%89%93%E5%87%BB%E7%AC%AC%E4%B8%80%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
-9. [肖战打卡肖战](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%89%93%E5%8D%A1%E8%82%96%E6%88%98&t=31&band_rank=9&Refer=top)<br />
+8. [肖战打卡肖战](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%89%93%E5%8D%A1%E8%82%96%E6%88%98&t=31&band_rank=8&Refer=top)<br />
+9. [王菲 反王家卫打击第一人](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%8F%B2%20%E5%8F%8D%E7%8E%8B%E5%AE%B6%E5%8D%AB%E6%89%93%E5%87%BB%E7%AC%AC%E4%B8%80%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
