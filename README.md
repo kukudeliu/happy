@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 18:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 18:36:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [小砂糖橘还有后续的后续](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E8%BF%98%E6%9C%89%E5%90%8E%E7%BB%AD%E7%9A%84%E5%90%8E%E7%BB%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [三天60亿](https://s.weibo.com/weibo?q=%E4%B8%89%E5%A4%A960%E4%BA%BF&t=31&band_rank=6&Refer=top)<br />
 7. [外卖小哥救人订单超时民警上门帮正名](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%95%91%E4%BA%BA%E8%AE%A2%E5%8D%95%E8%B6%85%E6%97%B6%E6%B0%91%E8%AD%A6%E4%B8%8A%E9%97%A8%E5%B8%AE%E6%AD%A3%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [辛芷蕾的面部折叠度](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%9A%84%E9%9D%A2%E9%83%A8%E6%8A%98%E5%8F%A0%E5%BA%A6%23&t=31&band_rank=8&Refer=top)<br />
+8. [央视评繁花](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E7%B9%81%E8%8A%B1%23&t=31&band_rank=8&Refer=top)<br />
 9. [哈尔滨冰玫瑰](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E7%8E%AB%E7%91%B0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
