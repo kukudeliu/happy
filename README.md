@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 10:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 10:47:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [南方人吃冻梨削皮看傻东北网友](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E4%BA%BA%E5%90%83%E5%86%BB%E6%A2%A8%E5%89%8A%E7%9A%AE%E7%9C%8B%E5%82%BB%E4%B8%9C%E5%8C%97%E7%BD%91%E5%8F%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [繁花Citywalk收费520元起](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1Citywalk%E6%94%B6%E8%B4%B9520%E5%85%83%E8%B5%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [哈尔滨南方游客骨折数量明显增多](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%8D%97%E6%96%B9%E6%B8%B8%E5%AE%A2%E9%AA%A8%E6%8A%98%E6%95%B0%E9%87%8F%E6%98%8E%E6%98%BE%E5%A2%9E%E5%A4%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [易烊千玺从喝奶到喝香槟](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%BB%8E%E5%96%9D%E5%A5%B6%E5%88%B0%E5%96%9D%E9%A6%99%E6%A7%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [微博之夜 嘉宾](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E5%98%89%E5%AE%BE&t=31&band_rank=9&Refer=top)<br />
+8. [微博之夜 嘉宾](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E5%98%89%E5%AE%BE&t=31&band_rank=8&Refer=top)<br />
+9. [易烊千玺从喝奶到喝香槟](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%BB%8E%E5%96%9D%E5%A5%B6%E5%88%B0%E5%96%9D%E9%A6%99%E6%A7%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
