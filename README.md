@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 15:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 15:51:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [小砂糖橘想把东北警察叔叔带回家](https://www.baidu.com/s?wd=%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E6%83%B3%E6%8A%8A%E4%B8%9C%E5%8C%97%E8%AD%A6%E5%AF%9F%E5%8F%94%E5%8F%94%E5%B8%A6%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济开年活力蒸腾](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BC%80%E5%B9%B4%E6%B4%BB%E5%8A%9B%E8%92%B8%E8%85%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家称小土豆争议暴露南北文化差异](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B0%8F%E5%9C%9F%E8%B1%86%E4%BA%89%E8%AE%AE%E6%9A%B4%E9%9C%B2%E5%8D%97%E5%8C%97%E6%96%87%E5%8C%96%E5%B7%AE%E5%BC%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [大学生被冰锥砸中倒地 医院：已身亡](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%86%B0%E9%94%A5%E7%A0%B8%E4%B8%AD%E5%80%92%E5%9C%B0+%E5%8C%BB%E9%99%A2%EF%BC%9A%E5%B7%B2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [好莱坞男星与两女儿坠机身亡](https://www.baidu.com/s?wd=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B7%E6%98%9F%E4%B8%8E%E4%B8%A4%E5%A5%B3%E5%84%BF%E5%9D%A0%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [好莱坞男星与两女儿坠机身亡](https://www.baidu.com/s?wd=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B7%E6%98%9F%E4%B8%8E%E4%B8%A4%E5%A5%B3%E5%84%BF%E5%9D%A0%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大学生被冰锥砸中倒地 医院：已身亡](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%86%B0%E9%94%A5%E7%A0%B8%E4%B8%AD%E5%80%92%E5%9C%B0+%E5%8C%BB%E9%99%A2%EF%BC%9A%E5%B7%B2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [黑龙江省长点名哈尔滨](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E9%95%BF%E7%82%B9%E5%90%8D%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江苏两区基础教育缩至9年？](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%A4%E5%8C%BA%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E7%BC%A9%E8%87%B39%E5%B9%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [小砂糖橘想把东北警察叔叔带回家](https://www.baidu.com/s?wd=%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E6%83%B3%E6%8A%8A%E4%B8%9C%E5%8C%97%E8%AD%A6%E5%AF%9F%E5%8F%94%E5%8F%94%E5%B8%A6%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济开年活力蒸腾](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BC%80%E5%B9%B4%E6%B4%BB%E5%8A%9B%E8%92%B8%E8%85%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家称小土豆争议暴露南北文化差异](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B0%8F%E5%9C%9F%E8%B1%86%E4%BA%89%E8%AE%AE%E6%9A%B4%E9%9C%B2%E5%8D%97%E5%8C%97%E6%96%87%E5%8C%96%E5%B7%AE%E5%BC%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [大学生被冰锥砸中倒地 医院：已身亡](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%86%B0%E9%94%A5%E7%A0%B8%E4%B8%AD%E5%80%92%E5%9C%B0+%E5%8C%BB%E9%99%A2%EF%BC%9A%E5%B7%B2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [好莱坞男星与两女儿坠机身亡](https://www.baidu.com/s?wd=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B7%E6%98%9F%E4%B8%8E%E4%B8%A4%E5%A5%B3%E5%84%BF%E5%9D%A0%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [好莱坞男星与两女儿坠机身亡](https://www.baidu.com/s?wd=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B7%E6%98%9F%E4%B8%8E%E4%B8%A4%E5%A5%B3%E5%84%BF%E5%9D%A0%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大学生被冰锥砸中倒地 医院：已身亡](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%86%B0%E9%94%A5%E7%A0%B8%E4%B8%AD%E5%80%92%E5%9C%B0+%E5%8C%BB%E9%99%A2%EF%BC%9A%E5%B7%B2%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [黑龙江省长点名哈尔滨](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E9%95%BF%E7%82%B9%E5%90%8D%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江苏两区基础教育缩至9年？](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%A4%E5%8C%BA%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E7%BC%A9%E8%87%B39%E5%B9%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
