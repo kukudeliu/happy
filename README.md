@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 11:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 11:49:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [微博之夜 嘉宾](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E5%98%89%E5%AE%BE&t=31&band_rank=5&Refer=top)<br />
 6. [家属已知复旦留美博士流浪纽约街头](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%B7%B2%E7%9F%A5%E5%A4%8D%E6%97%A6%E7%95%99%E7%BE%8E%E5%8D%9A%E5%A3%AB%E6%B5%81%E6%B5%AA%E7%BA%BD%E7%BA%A6%E8%A1%97%E5%A4%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [店主落泪回应索菲亚教堂蛋糕爆火](https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E8%90%BD%E6%B3%AA%E5%9B%9E%E5%BA%94%E7%B4%A2%E8%8F%B2%E4%BA%9A%E6%95%99%E5%A0%82%E8%9B%8B%E7%B3%95%E7%88%86%E7%81%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [你好星期六这期演技高端局](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E8%BF%99%E6%9C%9F%E6%BC%94%E6%8A%80%E9%AB%98%E7%AB%AF%E5%B1%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [魏大勋开车门魏总关车门](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%BC%80%E8%BD%A6%E9%97%A8%E9%AD%8F%E6%80%BB%E5%85%B3%E8%BD%A6%E9%97%A8%23&t=31&band_rank=9&Refer=top)<br />
+8. [魏大勋开车门魏总关车门](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%BC%80%E8%BD%A6%E9%97%A8%E9%AD%8F%E6%80%BB%E5%85%B3%E8%BD%A6%E9%97%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [你好星期六这期演技高端局](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E8%BF%99%E6%9C%9F%E6%BC%94%E6%8A%80%E9%AB%98%E7%AB%AF%E5%B1%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
