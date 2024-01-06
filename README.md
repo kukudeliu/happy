@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 11:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 11:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [家属已知复旦留美博士流浪纽约街头](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%B7%B2%E7%9F%A5%E5%A4%8D%E6%97%A6%E7%95%99%E7%BE%8E%E5%8D%9A%E5%A3%AB%E6%B5%81%E6%B5%AA%E7%BA%BD%E7%BA%A6%E8%A1%97%E5%A4%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [繁花Citywalk收费520元起](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1Citywalk%E6%94%B6%E8%B4%B9520%E5%85%83%E8%B5%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [南方人吃冻梨削皮看傻东北网友](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E4%BA%BA%E5%90%83%E5%86%BB%E6%A2%A8%E5%89%8A%E7%9A%AE%E7%9C%8B%E5%82%BB%E4%B8%9C%E5%8C%97%E7%BD%91%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [哈尔滨南方游客骨折数量明显增多](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%8D%97%E6%96%B9%E6%B8%B8%E5%AE%A2%E9%AA%A8%E6%8A%98%E6%95%B0%E9%87%8F%E6%98%8E%E6%98%BE%E5%A2%9E%E5%A4%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [你好星期六这期演技高端局](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E8%BF%99%E6%9C%9F%E6%BC%94%E6%8A%80%E9%AB%98%E7%AB%AF%E5%B1%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
