@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 13:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 13:49:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [中国经济开年活力蒸腾](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BC%80%E5%B9%B4%E6%B4%BB%E5%8A%9B%E8%92%B8%E8%85%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家：朝鲜半岛炮声轰隆局势很严峻](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%9C%9D%E9%B2%9C%E5%8D%8A%E5%B2%9B%E7%82%AE%E5%A3%B0%E8%BD%B0%E9%9A%86%E5%B1%80%E5%8A%BF%E5%BE%88%E4%B8%A5%E5%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王石透露自己有一个三岁的女儿](https://www.baidu.com/s?wd=%E7%8E%8B%E7%9F%B3%E9%80%8F%E9%9C%B2%E8%87%AA%E5%B7%B1%E6%9C%89%E4%B8%80%E4%B8%AA%E4%B8%89%E5%B2%81%E7%9A%84%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [复旦留美博士称前妻拿绿卡后离婚](https://www.baidu.com/s?wd=%E5%A4%8D%E6%97%A6%E7%95%99%E7%BE%8E%E5%8D%9A%E5%A3%AB%E7%A7%B0%E5%89%8D%E5%A6%BB%E6%8B%BF%E7%BB%BF%E5%8D%A1%E5%90%8E%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [越南游客穿拖鞋勇闯哈尔滨](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E6%B8%B8%E5%AE%A2%E7%A9%BF%E6%8B%96%E9%9E%8B%E5%8B%87%E9%97%AF%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [商户拆承重墙致多名业主家开裂](https://www.baidu.com/s?wd=%E5%95%86%E6%88%B7%E6%8B%86%E6%89%BF%E9%87%8D%E5%A2%99%E8%87%B4%E5%A4%9A%E5%90%8D%E4%B8%9A%E4%B8%BB%E5%AE%B6%E5%BC%80%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [复旦留美博士称前妻拿绿卡后离婚](https://www.baidu.com/s?wd=%E5%A4%8D%E6%97%A6%E7%95%99%E7%BE%8E%E5%8D%9A%E5%A3%AB%E7%A7%B0%E5%89%8D%E5%A6%BB%E6%8B%BF%E7%BB%BF%E5%8D%A1%E5%90%8E%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江苏两区基础教育缩至9年？](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%A4%E5%8C%BA%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E7%BC%A9%E8%87%B39%E5%B9%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [中国经济开年活力蒸腾](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BC%80%E5%B9%B4%E6%B4%BB%E5%8A%9B%E8%92%B8%E8%85%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [专家：朝鲜半岛炮声轰隆局势很严峻](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%9C%9D%E9%B2%9C%E5%8D%8A%E5%B2%9B%E7%82%AE%E5%A3%B0%E8%BD%B0%E9%9A%86%E5%B1%80%E5%8A%BF%E5%BE%88%E4%B8%A5%E5%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王石透露自己有一个三岁的女儿](https://www.baidu.com/s?wd=%E7%8E%8B%E7%9F%B3%E9%80%8F%E9%9C%B2%E8%87%AA%E5%B7%B1%E6%9C%89%E4%B8%80%E4%B8%AA%E4%B8%89%E5%B2%81%E7%9A%84%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [复旦留美博士称前妻拿绿卡后离婚](https://www.baidu.com/s?wd=%E5%A4%8D%E6%97%A6%E7%95%99%E7%BE%8E%E5%8D%9A%E5%A3%AB%E7%A7%B0%E5%89%8D%E5%A6%BB%E6%8B%BF%E7%BB%BF%E5%8D%A1%E5%90%8E%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [越南游客穿拖鞋勇闯哈尔滨](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E6%B8%B8%E5%AE%A2%E7%A9%BF%E6%8B%96%E9%9E%8B%E5%8B%87%E9%97%AF%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [商户拆承重墙致多名业主家开裂](https://www.baidu.com/s?wd=%E5%95%86%E6%88%B7%E6%8B%86%E6%89%BF%E9%87%8D%E5%A2%99%E8%87%B4%E5%A4%9A%E5%90%8D%E4%B8%9A%E4%B8%BB%E5%AE%B6%E5%BC%80%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [复旦留美博士称前妻拿绿卡后离婚](https://www.baidu.com/s?wd=%E5%A4%8D%E6%97%A6%E7%95%99%E7%BE%8E%E5%8D%9A%E5%A3%AB%E7%A7%B0%E5%89%8D%E5%A6%BB%E6%8B%BF%E7%BB%BF%E5%8D%A1%E5%90%8E%E7%A6%BB%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江苏两区基础教育缩至9年？](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%A4%E5%8C%BA%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E7%BC%A9%E8%87%B39%E5%B9%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
