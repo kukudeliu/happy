@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 17:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 17:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [哈尔滨冰玫瑰](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E7%8E%AB%E7%91%B0&t=31&band_rank=6&Refer=top)<br />
 7. [藏海传 路透](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E4%BC%A0%20%E8%B7%AF%E9%80%8F&t=31&band_rank=7&Refer=top)<br />
 8. [王鹤棣枪灰发色](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%9E%AA%E7%81%B0%E5%8F%91%E8%89%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [美国被曝花15亿美元训练记者黑中国](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%8A%B115%E4%BA%BF%E7%BE%8E%E5%85%83%E8%AE%AD%E7%BB%83%E8%AE%B0%E8%80%85%E9%BB%91%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=9&Refer=top)<br />
+9. [繁花钟镇涛 致敬张国荣](https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1%E9%92%9F%E9%95%87%E6%B6%9B%20%E8%87%B4%E6%95%AC%E5%BC%A0%E5%9B%BD%E8%8D%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
