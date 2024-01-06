@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 11:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 11:45:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [武艺 我爸妈都没那么使唤我](https://s.weibo.com/weibo?q=%E6%AD%A6%E8%89%BA%20%E6%88%91%E7%88%B8%E5%A6%88%E9%83%BD%E6%B2%A1%E9%82%A3%E4%B9%88%E4%BD%BF%E5%94%A4%E6%88%91&t=31&band_rank=4&Refer=top)<br />
 5. [微博之夜 嘉宾](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E5%98%89%E5%AE%BE&t=31&band_rank=5&Refer=top)<br />
 6. [家属已知复旦留美博士流浪纽约街头](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%B7%B2%E7%9F%A5%E5%A4%8D%E6%97%A6%E7%95%99%E7%BE%8E%E5%8D%9A%E5%A3%AB%E6%B5%81%E6%B5%AA%E7%BA%BD%E7%BA%A6%E8%A1%97%E5%A4%B4%23&t=31&band_rank=6&Refer=top)<br />
-7. [你好星期六这期演技高端局](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E8%BF%99%E6%9C%9F%E6%BC%94%E6%8A%80%E9%AB%98%E7%AB%AF%E5%B1%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [店主落泪回应索菲亚教堂蛋糕爆火](https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E8%90%BD%E6%B3%AA%E5%9B%9E%E5%BA%94%E7%B4%A2%E8%8F%B2%E4%BA%9A%E6%95%99%E5%A0%82%E8%9B%8B%E7%B3%95%E7%88%86%E7%81%AB%23&t=31&band_rank=8&Refer=top)<br />
+7. [店主落泪回应索菲亚教堂蛋糕爆火](https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E8%90%BD%E6%B3%AA%E5%9B%9E%E5%BA%94%E7%B4%A2%E8%8F%B2%E4%BA%9A%E6%95%99%E5%A0%82%E8%9B%8B%E7%B3%95%E7%88%86%E7%81%AB%23&t=31&band_rank=7&Refer=top)<br />
+8. [你好星期六这期演技高端局](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E8%BF%99%E6%9C%9F%E6%BC%94%E6%8A%80%E9%AB%98%E7%AB%AF%E5%B1%80%23&t=31&band_rank=8&Refer=top)<br />
 9. [吉林某单位门岗出现野生东北虎](https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E6%9F%90%E5%8D%95%E4%BD%8D%E9%97%A8%E5%B2%97%E5%87%BA%E7%8E%B0%E9%87%8E%E7%94%9F%E4%B8%9C%E5%8C%97%E8%99%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
