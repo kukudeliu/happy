@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 16:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 16:26:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女子被家暴16次需终身挂粪袋案进展](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E9%9C%80%E7%BB%88%E8%BA%AB%E6%8C%82%E7%B2%AA%E8%A2%8B%E6%A1%88%E8%BF%9B%E5%B1%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [美国被曝花15亿美元训练记者黑中国](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%8A%B115%E4%BA%BF%E7%BE%8E%E5%85%83%E8%AE%AD%E7%BB%83%E8%AE%B0%E8%80%85%E9%BB%91%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [专家称南方小土豆争议暴露南北文化差异](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E4%BA%89%E8%AE%AE%E6%9A%B4%E9%9C%B2%E5%8D%97%E5%8C%97%E6%96%87%E5%8C%96%E5%B7%AE%E5%BC%82%23&t=31&band_rank=7&Refer=top)<br />
-8. [有多囊卵巢综合征女性会出现爆痘](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%A4%9A%E5%9B%8A%E5%8D%B5%E5%B7%A2%E7%BB%BC%E5%90%88%E5%BE%81%E5%A5%B3%E6%80%A7%E4%BC%9A%E5%87%BA%E7%8E%B0%E7%88%86%E7%97%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [哈工大学霸人手一个橘宝宝](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A7%E5%AD%A6%E9%9C%B8%E4%BA%BA%E6%89%8B%E4%B8%80%E4%B8%AA%E6%A9%98%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=9&Refer=top)<br />
+8. [哈工大学霸人手一个橘宝宝](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A7%E5%AD%A6%E9%9C%B8%E4%BA%BA%E6%89%8B%E4%B8%80%E4%B8%AA%E6%A9%98%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=8&Refer=top)<br />
+9. [有多囊卵巢综合征女性会出现爆痘](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%A4%9A%E5%9B%8A%E5%8D%B5%E5%B7%A2%E7%BB%BC%E5%90%88%E5%BE%81%E5%A5%B3%E6%80%A7%E4%BC%9A%E5%87%BA%E7%8E%B0%E7%88%86%E7%97%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
