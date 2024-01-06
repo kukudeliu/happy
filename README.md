@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 15:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 15:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [汪小姐出车祸](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B0%8F%E5%A7%90%E5%87%BA%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [山东一高校坠落巨大冰块砸倒学生](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E9%AB%98%E6%A0%A1%E5%9D%A0%E8%90%BD%E5%B7%A8%E5%A4%A7%E5%86%B0%E5%9D%97%E7%A0%B8%E5%80%92%E5%AD%A6%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [黑龙江文旅厅厅长仅任职1年](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%87%E6%97%85%E5%8E%85%E5%8E%85%E9%95%BF%E4%BB%85%E4%BB%BB%E8%81%8C1%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [日本称只接受美国援助](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A7%B0%E5%8F%AA%E6%8E%A5%E5%8F%97%E7%BE%8E%E5%9B%BD%E6%8F%B4%E5%8A%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [女子被家暴16次需终身挂粪袋案进展](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E9%9C%80%E7%BB%88%E8%BA%AB%E6%8C%82%E7%B2%AA%E8%A2%8B%E6%A1%88%E8%BF%9B%E5%B1%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
