@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 16:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 17:00:02</h4></div>
 
 > 微博  
 
 1. [你可以叫我 滨](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%8F%AF%E4%BB%A5%E5%8F%AB%E6%88%91%20%E6%BB%A8&t=31&band_rank=1&Refer=top)<br />
 2. [被冰锥砸中倒地的大学生已身亡](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%86%B0%E9%94%A5%E7%A0%B8%E4%B8%AD%E5%80%92%E5%9C%B0%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
-3. [全国各省份力拼经济开门红](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%90%84%E7%9C%81%E4%BB%BD%E5%8A%9B%E6%8B%BC%E7%BB%8F%E6%B5%8E%E5%BC%80%E9%97%A8%E7%BA%A2%23&t=31&band_rank=3&Refer=top)<br />
+3. [种地这件事中国人有多牛](https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E8%BF%99%E4%BB%B6%E4%BA%8B%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%89%E5%A4%9A%E7%89%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [三天60亿](https://s.weibo.com/weibo?q=%E4%B8%89%E5%A4%A960%E4%BA%BF&t=31&band_rank=4&Refer=top)<br />
 5. [藏海传 路透](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E4%BC%A0%20%E8%B7%AF%E9%80%8F&t=31&band_rank=5&Refer=top)<br />
 6. [美国被曝花15亿美元训练记者黑中国](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%8A%B115%E4%BA%BF%E7%BE%8E%E5%85%83%E8%AE%AD%E7%BB%83%E8%AE%B0%E8%80%85%E9%BB%91%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
-7. [鲁东大学](https://s.weibo.com/weibo?q=%E9%B2%81%E4%B8%9C%E5%A4%A7%E5%AD%A6&t=31&band_rank=7&Refer=top)<br />
-8. [哈尔滨冰玫瑰](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E7%8E%AB%E7%91%B0&t=31&band_rank=8&Refer=top)<br />
+7. [哈尔滨冰玫瑰](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E7%8E%AB%E7%91%B0&t=31&band_rank=7&Refer=top)<br />
+8. [鲁东大学](https://s.weibo.com/weibo?q=%E9%B2%81%E4%B8%9C%E5%A4%A7%E5%AD%A6&t=31&band_rank=8&Refer=top)<br />
 9. [专家称南方小土豆争议暴露南北文化差异](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E4%BA%89%E8%AE%AE%E6%9A%B4%E9%9C%B2%E5%8D%97%E5%8C%97%E6%96%87%E5%8C%96%E5%B7%AE%E5%BC%82%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
