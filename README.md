@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 20:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 20:02:01</h4></div>
 
 > 微博  
 
 1. [央视评繁花](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E7%B9%81%E8%8A%B1%23&t=31&band_rank=1&Refer=top)<br />
-2. [尔滨火了沈阳坐不住了](https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E7%81%AB%E4%BA%86%E6%B2%88%E9%98%B3%E5%9D%90%E4%B8%8D%E4%BD%8F%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+2. [江苏发现1例罕见小P血型](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%8F%91%E7%8E%B01%E4%BE%8B%E7%BD%95%E8%A7%81%E5%B0%8FP%E8%A1%80%E5%9E%8B%23&t=31&band_rank=2&Refer=top)<br />
 3. [种地这件事中国人有多牛](https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E8%BF%99%E4%BB%B6%E4%BA%8B%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%89%E5%A4%9A%E7%89%9B%23&t=31&band_rank=3&Refer=top)<br />
-4. [江苏发现1例罕见小P血型](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%8F%91%E7%8E%B01%E4%BE%8B%E7%BD%95%E8%A7%81%E5%B0%8FP%E8%A1%80%E5%9E%8B%23&t=31&band_rank=4&Refer=top)<br />
-5. [小砂糖橘还有后续的后续](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E8%BF%98%E6%9C%89%E5%90%8E%E7%BB%AD%E7%9A%84%E5%90%8E%E7%BB%AD%23&t=31&band_rank=5&Refer=top)<br />
-6. [车银优今天长这样](https://s.weibo.com/weibo?q=%E8%BD%A6%E9%93%B6%E4%BC%98%E4%BB%8A%E5%A4%A9%E9%95%BF%E8%BF%99%E6%A0%B7&t=31&band_rank=6&Refer=top)<br />
-7. [外卖小哥救人订单超时民警上门帮正名](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%95%91%E4%BA%BA%E8%AE%A2%E5%8D%95%E8%B6%85%E6%97%B6%E6%B0%91%E8%AD%A6%E4%B8%8A%E9%97%A8%E5%B8%AE%E6%AD%A3%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [验证码 验蠢](https://s.weibo.com/weibo?q=%E9%AA%8C%E8%AF%81%E7%A0%81%20%E9%AA%8C%E8%A0%A2&t=31&band_rank=8&Refer=top)<br />
-9. [沈耀考第一](https://s.weibo.com/weibo?q=%E6%B2%88%E8%80%80%E8%80%83%E7%AC%AC%E4%B8%80&t=31&band_rank=9&Refer=top)<br />
+4. [车银优今天长这样](https://s.weibo.com/weibo?q=%E8%BD%A6%E9%93%B6%E4%BC%98%E4%BB%8A%E5%A4%A9%E9%95%BF%E8%BF%99%E6%A0%B7&t=31&band_rank=4&Refer=top)<br />
+5. [验证码 验蠢](https://s.weibo.com/weibo?q=%E9%AA%8C%E8%AF%81%E7%A0%81%20%E9%AA%8C%E8%A0%A2&t=31&band_rank=5&Refer=top)<br />
+6. [沈耀考第一](https://s.weibo.com/weibo?q=%E6%B2%88%E8%80%80%E8%80%83%E7%AC%AC%E4%B8%80&t=31&band_rank=6&Refer=top)<br />
+7. [尔滨火了沈阳坐不住了](https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E7%81%AB%E4%BA%86%E6%B2%88%E9%98%B3%E5%9D%90%E4%B8%8D%E4%BD%8F%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [三天60亿](https://s.weibo.com/weibo?q=%E4%B8%89%E5%A4%A960%E4%BA%BF&t=31&band_rank=8&Refer=top)<br />
+9. [身份证45开头的哈尔滨免费吃冻梨](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BB%BD%E8%AF%8145%E5%BC%80%E5%A4%B4%E7%9A%84%E5%93%88%E5%B0%94%E6%BB%A8%E5%85%8D%E8%B4%B9%E5%90%83%E5%86%BB%E6%A2%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
