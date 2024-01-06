@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 00:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 00:42:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [旅游市场“热气”升腾](https://www.baidu.com/s?wd=%E6%97%85%E6%B8%B8%E5%B8%82%E5%9C%BA%E2%80%9C%E7%83%AD%E6%B0%94%E2%80%9D%E5%8D%87%E8%85%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [王家卫希望胡歌找回演李逍遥的感觉](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E5%B8%8C%E6%9C%9B%E8%83%A1%E6%AD%8C%E6%89%BE%E5%9B%9E%E6%BC%94%E6%9D%8E%E9%80%8D%E9%81%A5%E7%9A%84%E6%84%9F%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [徐冬冬回应椰树泳装挂历争议](https://www.baidu.com/s?wd=%E5%BE%90%E5%86%AC%E5%86%AC%E5%9B%9E%E5%BA%94%E6%A4%B0%E6%A0%91%E6%B3%B3%E8%A3%85%E6%8C%82%E5%8E%86%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [有人愿捐钱接留美流浪博士回国养老](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E6%84%BF%E6%8D%90%E9%92%B1%E6%8E%A5%E7%95%99%E7%BE%8E%E6%B5%81%E6%B5%AA%E5%8D%9A%E5%A3%AB%E5%9B%9E%E5%9B%BD%E5%85%BB%E8%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [业主被起诉后拎近2万硬币给物业](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E8%A2%AB%E8%B5%B7%E8%AF%89%E5%90%8E%E6%8B%8E%E8%BF%912%E4%B8%87%E7%A1%AC%E5%B8%81%E7%BB%99%E7%89%A9%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [央视评繁花](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%AF%84%E7%B9%81%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [原料涨价致3元饮料消失](https://www.baidu.com/s?wd=%E5%8E%9F%E6%96%99%E6%B6%A8%E4%BB%B7%E8%87%B43%E5%85%83%E9%A5%AE%E6%96%99%E6%B6%88%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [保定一游泳馆被雪压塌？](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%9A%E4%B8%80%E6%B8%B8%E6%B3%B3%E9%A6%86%E8%A2%AB%E9%9B%AA%E5%8E%8B%E5%A1%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [旅游市场“热气”升腾](https://www.baidu.com/s?wd=%E6%97%85%E6%B8%B8%E5%B8%82%E5%9C%BA%E2%80%9C%E7%83%AD%E6%B0%94%E2%80%9D%E5%8D%87%E8%85%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [王家卫希望胡歌找回演李逍遥的感觉](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E5%B8%8C%E6%9C%9B%E8%83%A1%E6%AD%8C%E6%89%BE%E5%9B%9E%E6%BC%94%E6%9D%8E%E9%80%8D%E9%81%A5%E7%9A%84%E6%84%9F%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [徐冬冬回应椰树泳装挂历争议](https://www.baidu.com/s?wd=%E5%BE%90%E5%86%AC%E5%86%AC%E5%9B%9E%E5%BA%94%E6%A4%B0%E6%A0%91%E6%B3%B3%E8%A3%85%E6%8C%82%E5%8E%86%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [有人愿捐钱接留美流浪博士回国养老](https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E6%84%BF%E6%8D%90%E9%92%B1%E6%8E%A5%E7%95%99%E7%BE%8E%E6%B5%81%E6%B5%AA%E5%8D%9A%E5%A3%AB%E5%9B%9E%E5%9B%BD%E5%85%BB%E8%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [业主被起诉后拎近2万硬币给物业](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E8%A2%AB%E8%B5%B7%E8%AF%89%E5%90%8E%E6%8B%8E%E8%BF%912%E4%B8%87%E7%A1%AC%E5%B8%81%E7%BB%99%E7%89%A9%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [央视评繁花](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%AF%84%E7%B9%81%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [原料涨价致3元饮料消失](https://www.baidu.com/s?wd=%E5%8E%9F%E6%96%99%E6%B6%A8%E4%BB%B7%E8%87%B43%E5%85%83%E9%A5%AE%E6%96%99%E6%B6%88%E5%A4%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [保定一游泳馆被雪压塌？](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%9A%E4%B8%80%E6%B8%B8%E6%B3%B3%E9%A6%86%E8%A2%AB%E9%9B%AA%E5%8E%8B%E5%A1%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
