@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 23:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 23:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [央视评繁花](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E7%B9%81%E8%8A%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [贪官收22箱现金车被压得上不了坡](https://s.weibo.com/weibo?q=%23%E8%B4%AA%E5%AE%98%E6%94%B622%E7%AE%B1%E7%8E%B0%E9%87%91%E8%BD%A6%E8%A2%AB%E5%8E%8B%E5%BE%97%E4%B8%8A%E4%B8%8D%E4%BA%86%E5%9D%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [砂糖橘东北睡1宿变果脯](https://s.weibo.com/weibo?q=%23%E7%A0%82%E7%B3%96%E6%A9%98%E4%B8%9C%E5%8C%97%E7%9D%A11%E5%AE%BF%E5%8F%98%E6%9E%9C%E8%84%AF%23&t=31&band_rank=8&Refer=top)<br />
-9. [马立奥cos天天](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AB%8B%E5%A5%A5cos%E5%A4%A9%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [江苏发现1例罕见小P血型](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%8F%91%E7%8E%B01%E4%BE%8B%E7%BD%95%E8%A7%81%E5%B0%8FP%E8%A1%80%E5%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
