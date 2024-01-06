@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 14:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 14:29:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [中国经济开年活力蒸腾](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BC%80%E5%B9%B4%E6%B4%BB%E5%8A%9B%E8%92%B8%E8%85%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [3任落马公安厅长合计受贿超12亿](https://www.baidu.com/s?wd=3%E4%BB%BB%E8%90%BD%E9%A9%AC%E5%85%AC%E5%AE%89%E5%8E%85%E9%95%BF%E5%90%88%E8%AE%A1%E5%8F%97%E8%B4%BF%E8%B6%8512%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [实属罕见 金正恩首次向岸田文雄致电](https://www.baidu.com/s?wd=%E5%AE%9E%E5%B1%9E%E7%BD%95%E8%A7%81+%E9%87%91%E6%AD%A3%E6%81%A9%E9%A6%96%E6%AC%A1%E5%90%91%E5%B2%B8%E7%94%B0%E6%96%87%E9%9B%84%E8%87%B4%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [哈尔滨早餐店主回应卖甜豆腐脑](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E6%97%A9%E9%A4%90%E5%BA%97%E4%B8%BB%E5%9B%9E%E5%BA%94%E5%8D%96%E7%94%9C%E8%B1%86%E8%85%90%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [伊朗公布恐袭事件初步调查结果](https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B6%E5%88%9D%E6%AD%A5%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [儿子不愿提水妈妈重新解释重男轻女](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E4%B8%8D%E6%84%BF%E6%8F%90%E6%B0%B4%E5%A6%88%E5%A6%88%E9%87%8D%E6%96%B0%E8%A7%A3%E9%87%8A%E9%87%8D%E7%94%B7%E8%BD%BB%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [一年中最冷的时候来了](https://www.baidu.com/s?wd=%E4%B8%80%E5%B9%B4%E4%B8%AD%E6%9C%80%E5%86%B7%E7%9A%84%E6%97%B6%E5%80%99%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江苏两区基础教育缩至9年？](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%A4%E5%8C%BA%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E7%BC%A9%E8%87%B39%E5%B9%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [中国经济开年活力蒸腾](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BC%80%E5%B9%B4%E6%B4%BB%E5%8A%9B%E8%92%B8%E8%85%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [3任落马公安厅长合计受贿超12亿](https://www.baidu.com/s?wd=3%E4%BB%BB%E8%90%BD%E9%A9%AC%E5%85%AC%E5%AE%89%E5%8E%85%E9%95%BF%E5%90%88%E8%AE%A1%E5%8F%97%E8%B4%BF%E8%B6%8512%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [实属罕见 金正恩首次向岸田文雄致电](https://www.baidu.com/s?wd=%E5%AE%9E%E5%B1%9E%E7%BD%95%E8%A7%81+%E9%87%91%E6%AD%A3%E6%81%A9%E9%A6%96%E6%AC%A1%E5%90%91%E5%B2%B8%E7%94%B0%E6%96%87%E9%9B%84%E8%87%B4%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [哈尔滨早餐店主回应卖甜豆腐脑](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E6%97%A9%E9%A4%90%E5%BA%97%E4%B8%BB%E5%9B%9E%E5%BA%94%E5%8D%96%E7%94%9C%E8%B1%86%E8%85%90%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [伊朗公布恐袭事件初步调查结果](https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B6%E5%88%9D%E6%AD%A5%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [儿子不愿提水妈妈重新解释重男轻女](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E4%B8%8D%E6%84%BF%E6%8F%90%E6%B0%B4%E5%A6%88%E5%A6%88%E9%87%8D%E6%96%B0%E8%A7%A3%E9%87%8A%E9%87%8D%E7%94%B7%E8%BD%BB%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [一年中最冷的时候来了](https://www.baidu.com/s?wd=%E4%B8%80%E5%B9%B4%E4%B8%AD%E6%9C%80%E5%86%B7%E7%9A%84%E6%97%B6%E5%80%99%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江苏两区基础教育缩至9年？](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%A4%E5%8C%BA%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E7%BC%A9%E8%87%B39%E5%B9%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
