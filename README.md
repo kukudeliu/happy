@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 20:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 20:30:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [沈耀跟程雨杉在一起了](https://s.weibo.com/weibo?q=%E6%B2%88%E8%80%80%E8%B7%9F%E7%A8%8B%E9%9B%A8%E6%9D%89%E5%9C%A8%E4%B8%80%E8%B5%B7%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [三天60亿](https://s.weibo.com/weibo?q=%E4%B8%89%E5%A4%A960%E4%BA%BF&t=31&band_rank=6&Refer=top)<br />
 7. [你可以叫我 滨](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%8F%AF%E4%BB%A5%E5%8F%AB%E6%88%91%20%E6%BB%A8&t=31&band_rank=7&Refer=top)<br />
-8. [验证码 验蠢](https://s.weibo.com/weibo?q=%E9%AA%8C%E8%AF%81%E7%A0%81%20%E9%AA%8C%E8%A0%A2&t=31&band_rank=8&Refer=top)<br />
-9. [A先生李李恋情](https://s.weibo.com/weibo?q=A%E5%85%88%E7%94%9F%E6%9D%8E%E6%9D%8E%E6%81%8B%E6%83%85&t=31&band_rank=9&Refer=top)<br />
+8. [A先生李李恋情](https://s.weibo.com/weibo?q=A%E5%85%88%E7%94%9F%E6%9D%8E%E6%9D%8E%E6%81%8B%E6%83%85&t=31&band_rank=8&Refer=top)<br />
+9. [验证码 验蠢](https://s.weibo.com/weibo?q=%E9%AA%8C%E8%AF%81%E7%A0%81%20%E9%AA%8C%E8%A0%A2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
