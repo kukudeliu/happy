@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 16:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 16:33:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [美国被曝花15亿美元训练记者黑中国](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%8A%B115%E4%BA%BF%E7%BE%8E%E5%85%83%E8%AE%AD%E7%BB%83%E8%AE%B0%E8%80%85%E9%BB%91%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [女子被家暴16次需终身挂粪袋案进展](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E9%9C%80%E7%BB%88%E8%BA%AB%E6%8C%82%E7%B2%AA%E8%A2%8B%E6%A1%88%E8%BF%9B%E5%B1%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [专家称南方小土豆争议暴露南北文化差异](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E4%BA%89%E8%AE%AE%E6%9A%B4%E9%9C%B2%E5%8D%97%E5%8C%97%E6%96%87%E5%8C%96%E5%B7%AE%E5%BC%82%23&t=31&band_rank=7&Refer=top)<br />
-8. [香港演员尹子维宣传哈尔滨早市](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%BC%94%E5%91%98%E5%B0%B9%E5%AD%90%E7%BB%B4%E5%AE%A3%E4%BC%A0%E5%93%88%E5%B0%94%E6%BB%A8%E6%97%A9%E5%B8%82%23&t=31&band_rank=8&Refer=top)<br />
-9. [哈工大学霸人手一个橘宝宝](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A7%E5%AD%A6%E9%9C%B8%E4%BA%BA%E6%89%8B%E4%B8%80%E4%B8%AA%E6%A9%98%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=9&Refer=top)<br />
+8. [哈工大学霸人手一个橘宝宝](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A7%E5%AD%A6%E9%9C%B8%E4%BA%BA%E6%89%8B%E4%B8%80%E4%B8%AA%E6%A9%98%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=8&Refer=top)<br />
+9. [香港演员尹子维宣传哈尔滨早市](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%BC%94%E5%91%98%E5%B0%B9%E5%AD%90%E7%BB%B4%E5%AE%A3%E4%BC%A0%E5%93%88%E5%B0%94%E6%BB%A8%E6%97%A9%E5%B8%82%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
