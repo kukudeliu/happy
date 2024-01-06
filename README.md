@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 09:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 09:13:01</h4></div>
 
 > 微博  
 
-1. [预算18w去哈尔滨](https://s.weibo.com/weibo?q=%E9%A2%84%E7%AE%9718w%E5%8E%BB%E5%93%88%E5%B0%94%E6%BB%A8&t=31&band_rank=1&Refer=top)<br />
-2. [家属已知复旦留美博士流浪纽约街头](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%B7%B2%E7%9F%A5%E5%A4%8D%E6%97%A6%E7%95%99%E7%BE%8E%E5%8D%9A%E5%A3%AB%E6%B5%81%E6%B5%AA%E7%BA%BD%E7%BA%A6%E8%A1%97%E5%A4%B4%23&t=31&band_rank=2&Refer=top)<br />
+1. [家属已知复旦留美博士流浪纽约街头](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%B7%B2%E7%9F%A5%E5%A4%8D%E6%97%A6%E7%95%99%E7%BE%8E%E5%8D%9A%E5%A3%AB%E6%B5%81%E6%B5%AA%E7%BA%BD%E7%BA%A6%E8%A1%97%E5%A4%B4%23&t=31&band_rank=1&Refer=top)<br />
+2. [预算18w去哈尔滨](https://s.weibo.com/weibo?q=%E9%A2%84%E7%AE%9718w%E5%8E%BB%E5%93%88%E5%B0%94%E6%BB%A8&t=31&band_rank=2&Refer=top)<br />
 3. [中国航天员26年出征太空12次](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%9826%E5%B9%B4%E5%87%BA%E5%BE%81%E5%A4%AA%E7%A9%BA12%E6%AC%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [警方辟谣哈尔滨放开南方小土豆放烟花](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%93%88%E5%B0%94%E6%BB%A8%E6%94%BE%E5%BC%80%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E6%94%BE%E7%83%9F%E8%8A%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [南方人吃冻梨削皮看傻东北网友](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E4%BA%BA%E5%90%83%E5%86%BB%E6%A2%A8%E5%89%8A%E7%9A%AE%E7%9C%8B%E5%82%BB%E4%B8%9C%E5%8C%97%E7%BD%91%E5%8F%8B%23&t=31&band_rank=5&Refer=top)<br />
