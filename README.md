@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 20:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 20:09:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [种地这件事中国人有多牛](https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E8%BF%99%E4%BB%B6%E4%BA%8B%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%89%E5%A4%9A%E7%89%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [车银优今天长这样](https://s.weibo.com/weibo?q=%E8%BD%A6%E9%93%B6%E4%BC%98%E4%BB%8A%E5%A4%A9%E9%95%BF%E8%BF%99%E6%A0%B7&t=31&band_rank=4&Refer=top)<br />
 5. [验证码 验蠢](https://s.weibo.com/weibo?q=%E9%AA%8C%E8%AF%81%E7%A0%81%20%E9%AA%8C%E8%A0%A2&t=31&band_rank=5&Refer=top)<br />
-6. [沈耀考第一](https://s.weibo.com/weibo?q=%E6%B2%88%E8%80%80%E8%80%83%E7%AC%AC%E4%B8%80&t=31&band_rank=6&Refer=top)<br />
-7. [三天60亿](https://s.weibo.com/weibo?q=%E4%B8%89%E5%A4%A960%E4%BA%BF&t=31&band_rank=7&Refer=top)<br />
+6. [三天60亿](https://s.weibo.com/weibo?q=%E4%B8%89%E5%A4%A960%E4%BA%BF&t=31&band_rank=6&Refer=top)<br />
+7. [沈耀考第一](https://s.weibo.com/weibo?q=%E6%B2%88%E8%80%80%E8%80%83%E7%AC%AC%E4%B8%80&t=31&band_rank=7&Refer=top)<br />
 8. [你可以叫我 滨](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%8F%AF%E4%BB%A5%E5%8F%AB%E6%88%91%20%E6%BB%A8&t=31&band_rank=8&Refer=top)<br />
 9. [身份证45开头的哈尔滨免费吃冻梨](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BB%BD%E8%AF%8145%E5%BC%80%E5%A4%B4%E7%9A%84%E5%93%88%E5%B0%94%E6%BB%A8%E5%85%8D%E8%B4%B9%E5%90%83%E5%86%BB%E6%A2%A8%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -24,7 +24,7 @@
 5. [哈尔滨冰玫瑰  太浪漫了](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E7%8E%AB%E7%91%B0++%E5%A4%AA%E6%B5%AA%E6%BC%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子网购仅退款后取走千元快递](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD%E4%BB%85%E9%80%80%E6%AC%BE%E5%90%8E%E5%8F%96%E8%B5%B0%E5%8D%83%E5%85%83%E5%BF%AB%E9%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“卖糖葫芦被威胁”女生重新出摊](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%96%E7%B3%96%E8%91%AB%E8%8A%A6%E8%A2%AB%E5%A8%81%E8%83%81%E2%80%9D%E5%A5%B3%E7%94%9F%E9%87%8D%E6%96%B0%E5%87%BA%E6%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哈尔滨早餐店主回应卖甜豆腐脑](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E6%97%A9%E9%A4%90%E5%BA%97%E4%B8%BB%E5%9B%9E%E5%BA%94%E5%8D%96%E7%94%9C%E8%B1%86%E8%85%90%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄媒：哈尔滨正成为新的网红城市](https://www.baidu.com/s?wd=%E4%BF%84%E5%AA%92%EF%BC%9A%E5%93%88%E5%B0%94%E6%BB%A8%E6%AD%A3%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E7%BD%91%E7%BA%A2%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江苏两区基础教育缩至9年？](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%A4%E5%8C%BA%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E7%BC%A9%E8%87%B39%E5%B9%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [哈尔滨冰玫瑰  太浪漫了](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E7%8E%AB%E7%91%B0++%E5%A4%AA%E6%B5%AA%E6%BC%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子网购仅退款后取走千元快递](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD%E4%BB%85%E9%80%80%E6%AC%BE%E5%90%8E%E5%8F%96%E8%B5%B0%E5%8D%83%E5%85%83%E5%BF%AB%E9%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“卖糖葫芦被威胁”女生重新出摊](https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%96%E7%B3%96%E8%91%AB%E8%8A%A6%E8%A2%AB%E5%A8%81%E8%83%81%E2%80%9D%E5%A5%B3%E7%94%9F%E9%87%8D%E6%96%B0%E5%87%BA%E6%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哈尔滨早餐店主回应卖甜豆腐脑](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E6%97%A9%E9%A4%90%E5%BA%97%E4%B8%BB%E5%9B%9E%E5%BA%94%E5%8D%96%E7%94%9C%E8%B1%86%E8%85%90%E8%84%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄媒：哈尔滨正成为新的网红城市](https://www.baidu.com/s?wd=%E4%BF%84%E5%AA%92%EF%BC%9A%E5%93%88%E5%B0%94%E6%BB%A8%E6%AD%A3%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E7%BD%91%E7%BA%A2%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江苏两区基础教育缩至9年？](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%A4%E5%8C%BA%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E7%BC%A9%E8%87%B39%E5%B9%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
