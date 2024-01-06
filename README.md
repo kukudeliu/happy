@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 08:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 08:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孙东旭再现扔东西动作后赶紧纠正](https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B8%9C%E6%97%AD%E5%86%8D%E7%8E%B0%E6%89%94%E4%B8%9C%E8%A5%BF%E5%8A%A8%E4%BD%9C%E5%90%8E%E8%B5%B6%E7%B4%A7%E7%BA%A0%E6%AD%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [孙燕姿妹妹发文断绝关系](https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%87%95%E5%A7%BF%E5%A6%B9%E5%A6%B9%E5%8F%91%E6%96%87%E6%96%AD%E7%BB%9D%E5%85%B3%E7%B3%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [百事被家乐福封杀](https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%BA%8B%E8%A2%AB%E5%AE%B6%E4%B9%90%E7%A6%8F%E5%B0%81%E6%9D%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [家长半夜给班主任打电话学生遭怒怼](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%8D%8A%E5%A4%9C%E7%BB%99%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%89%93%E7%94%B5%E8%AF%9D%E5%AD%A6%E7%94%9F%E9%81%AD%E6%80%92%E6%80%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [易烊千玺从喝奶到喝香槟](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%BB%8E%E5%96%9D%E5%A5%B6%E5%88%B0%E5%96%9D%E9%A6%99%E6%A7%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
