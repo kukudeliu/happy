@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 14:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 14:32:01</h4></div>
 
 > 微博  
 
 1. [三天60亿](https://s.weibo.com/weibo?q=%E4%B8%89%E5%A4%A960%E4%BA%BF&t=31&band_rank=1&Refer=top)<br />
 2. [专家称南方小土豆争议暴露南北文化差异](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E4%BA%89%E8%AE%AE%E6%9A%B4%E9%9C%B2%E5%8D%97%E5%8C%97%E6%96%87%E5%8C%96%E5%B7%AE%E5%BC%82%23&t=31&band_rank=2&Refer=top)<br />
 3. [聚焦中心工作奋进关键之年](https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6%E4%B8%AD%E5%BF%83%E5%B7%A5%E4%BD%9C%E5%A5%8B%E8%BF%9B%E5%85%B3%E9%94%AE%E4%B9%8B%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
-4. [汪小姐出车祸](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B0%8F%E5%A7%90%E5%87%BA%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=4&Refer=top)<br />
-5. [黑龙江文旅厅厅长仅任职1年](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%87%E6%97%85%E5%8E%85%E5%8E%85%E9%95%BF%E4%BB%85%E4%BB%BB%E8%81%8C1%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
+4. [黑龙江文旅厅厅长仅任职1年](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%87%E6%97%85%E5%8E%85%E5%8E%85%E9%95%BF%E4%BB%85%E4%BB%BB%E8%81%8C1%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
+5. [汪小姐出车祸](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B0%8F%E5%A7%90%E5%87%BA%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [日本称只接受美国援助](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A7%B0%E5%8F%AA%E6%8E%A5%E5%8F%97%E7%BE%8E%E5%9B%BD%E6%8F%B4%E5%8A%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [微博之夜 白鹿](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E7%99%BD%E9%B9%BF&t=31&band_rank=7&Refer=top)<br />
 8. [肖战打卡肖战](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%89%93%E5%8D%A1%E8%82%96%E6%88%98&t=31&band_rank=8&Refer=top)<br />
