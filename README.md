@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 21:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 21:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [央视评繁花](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E7%B9%81%E8%8A%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [三天60亿](https://s.weibo.com/weibo?q=%E4%B8%89%E5%A4%A960%E4%BA%BF&t=31&band_rank=7&Refer=top)<br />
 8. [你可以叫我 滨](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%8F%AF%E4%BB%A5%E5%8F%AB%E6%88%91%20%E6%BB%A8&t=31&band_rank=8&Refer=top)<br />
-9. [刘宇宁回应阴阳剧本](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%9B%9E%E5%BA%94%E9%98%B4%E9%98%B3%E5%89%A7%E6%9C%AC%23&t=31&band_rank=9&Refer=top)<br />
+9. [星巴克64亿未使用礼品卡成高管奖金](https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%B7%B4%E5%85%8B64%E4%BA%BF%E6%9C%AA%E4%BD%BF%E7%94%A8%E7%A4%BC%E5%93%81%E5%8D%A1%E6%88%90%E9%AB%98%E7%AE%A1%E5%A5%96%E9%87%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
