@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 22:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 22:33:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [已读乱回](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E8%AF%BB%E4%B9%B1%E5%9B%9E%23&t=31&band_rank=4&Refer=top)<br />
 5. [边晓晓江晴朗离婚](https://s.weibo.com/weibo?q=%E8%BE%B9%E6%99%93%E6%99%93%E6%B1%9F%E6%99%B4%E6%9C%97%E7%A6%BB%E5%A9%9A&t=31&band_rank=5&Refer=top)<br />
 6. [央视评繁花](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E7%B9%81%E8%8A%B1%23&t=31&band_rank=6&Refer=top)<br />
-7. [三天60亿](https://s.weibo.com/weibo?q=%E4%B8%89%E5%A4%A960%E4%BA%BF&t=31&band_rank=7&Refer=top)<br />
-8. [江苏发现1例罕见小P血型](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%8F%91%E7%8E%B01%E4%BE%8B%E7%BD%95%E8%A7%81%E5%B0%8FP%E8%A1%80%E5%9E%8B%23&t=31&band_rank=8&Refer=top)<br />
+7. [江苏发现1例罕见小P血型](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%8F%91%E7%8E%B01%E4%BE%8B%E7%BD%95%E8%A7%81%E5%B0%8FP%E8%A1%80%E5%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [三天60亿](https://s.weibo.com/weibo?q=%E4%B8%89%E5%A4%A960%E4%BA%BF&t=31&band_rank=8&Refer=top)<br />
 9. [车银优今天长这样](https://s.weibo.com/weibo?q=%E8%BD%A6%E9%93%B6%E4%BC%98%E4%BB%8A%E5%A4%A9%E9%95%BF%E8%BF%99%E6%A0%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
