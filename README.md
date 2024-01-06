@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 14:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 14:43:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [聚焦中心工作奋进关键之年](https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6%E4%B8%AD%E5%BF%83%E5%B7%A5%E4%BD%9C%E5%A5%8B%E8%BF%9B%E5%85%B3%E9%94%AE%E4%B9%8B%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [黑龙江文旅厅厅长仅任职1年](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%87%E6%97%85%E5%8E%85%E5%8E%85%E9%95%BF%E4%BB%85%E4%BB%BB%E8%81%8C1%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [日本称只接受美国援助](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A7%B0%E5%8F%AA%E6%8E%A5%E5%8F%97%E7%BE%8E%E5%9B%BD%E6%8F%B4%E5%8A%A9%23&t=31&band_rank=5&Refer=top)<br />
-6. [汪小姐出车祸](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B0%8F%E5%A7%90%E5%87%BA%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=6&Refer=top)<br />
-7. [有多囊卵巢综合征女性会出现爆痘](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%A4%9A%E5%9B%8A%E5%8D%B5%E5%B7%A2%E7%BB%BC%E5%90%88%E5%BE%81%E5%A5%B3%E6%80%A7%E4%BC%9A%E5%87%BA%E7%8E%B0%E7%88%86%E7%97%98%23&t=31&band_rank=7&Refer=top)<br />
+6. [有多囊卵巢综合征女性会出现爆痘](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%A4%9A%E5%9B%8A%E5%8D%B5%E5%B7%A2%E7%BB%BC%E5%90%88%E5%BE%81%E5%A5%B3%E6%80%A7%E4%BC%9A%E5%87%BA%E7%8E%B0%E7%88%86%E7%97%98%23&t=31&band_rank=6&Refer=top)<br />
+7. [汪小姐出车祸](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B0%8F%E5%A7%90%E5%87%BA%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [微博之夜 白鹿](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E7%99%BD%E9%B9%BF&t=31&band_rank=8&Refer=top)<br />
 9. [肖战打卡肖战](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%89%93%E5%8D%A1%E8%82%96%E6%88%98&t=31&band_rank=9&Refer=top)<br />
 
