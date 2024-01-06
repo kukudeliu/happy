@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 18:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 18:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [辛芷蕾的面部折叠度](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%9A%84%E9%9D%A2%E9%83%A8%E6%8A%98%E5%8F%A0%E5%BA%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [小砂糖橘还有后续的后续](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E8%BF%98%E6%9C%89%E5%90%8E%E7%BB%AD%E7%9A%84%E5%90%8E%E7%BB%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [哈尔滨冰玫瑰](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E7%8E%AB%E7%91%B0&t=31&band_rank=8&Refer=top)<br />
-9. [被冰锥砸中倒地的大学生已身亡](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%86%B0%E9%94%A5%E7%A0%B8%E4%B8%AD%E5%80%92%E5%9C%B0%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [藏海传 路透](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E4%BC%A0%20%E8%B7%AF%E9%80%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
