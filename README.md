@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 00:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 00:09:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [王家卫希望胡歌找回演李逍遥的感觉](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E5%B8%8C%E6%9C%9B%E8%83%A1%E6%AD%8C%E6%89%BE%E5%9B%9E%E6%BC%94%E6%9D%8E%E9%80%8D%E9%81%A5%E7%9A%84%E6%84%9F%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [繁花钟镇涛金厨出场 致敬张国荣](https://www.baidu.com/s?wd=%E7%B9%81%E8%8A%B1%E9%92%9F%E9%95%87%E6%B6%9B%E9%87%91%E5%8E%A8%E5%87%BA%E5%9C%BA+%E8%87%B4%E6%95%AC%E5%BC%A0%E5%9B%BD%E8%8D%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [徐冬冬回应椰树泳装挂历争议](https://www.baidu.com/s?wd=%E5%BE%90%E5%86%AC%E5%86%AC%E5%9B%9E%E5%BA%94%E6%A4%B0%E6%A0%91%E6%B3%B3%E8%A3%85%E6%8C%82%E5%8E%86%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [唐双宁被开除党籍](https://www.baidu.com/s?wd=%E5%94%90%E5%8F%8C%E5%AE%81%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方提醒：这个码千万别扫](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%8F%90%E9%86%92%EF%BC%9A%E8%BF%99%E4%B8%AA%E7%A0%81%E5%8D%83%E4%B8%87%E5%88%AB%E6%89%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [保定一游泳馆被雪压塌？](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%9A%E4%B8%80%E6%B8%B8%E6%B3%B3%E9%A6%86%E8%A2%AB%E9%9B%AA%E5%8E%8B%E5%A1%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [王家卫希望胡歌找回演李逍遥的感觉](https://www.baidu.com/s?wd=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E5%B8%8C%E6%9C%9B%E8%83%A1%E6%AD%8C%E6%89%BE%E5%9B%9E%E6%BC%94%E6%9D%8E%E9%80%8D%E9%81%A5%E7%9A%84%E6%84%9F%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [繁花钟镇涛金厨出场 致敬张国荣](https://www.baidu.com/s?wd=%E7%B9%81%E8%8A%B1%E9%92%9F%E9%95%87%E6%B6%9B%E9%87%91%E5%8E%A8%E5%87%BA%E5%9C%BA+%E8%87%B4%E6%95%AC%E5%BC%A0%E5%9B%BD%E8%8D%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [徐冬冬回应椰树泳装挂历争议](https://www.baidu.com/s?wd=%E5%BE%90%E5%86%AC%E5%86%AC%E5%9B%9E%E5%BA%94%E6%A4%B0%E6%A0%91%E6%B3%B3%E8%A3%85%E6%8C%82%E5%8E%86%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [唐双宁被开除党籍](https://www.baidu.com/s?wd=%E5%94%90%E5%8F%8C%E5%AE%81%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方提醒：这个码千万别扫](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%8F%90%E9%86%92%EF%BC%9A%E8%BF%99%E4%B8%AA%E7%A0%81%E5%8D%83%E4%B8%87%E5%88%AB%E6%89%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [保定一游泳馆被雪压塌？](https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%9A%E4%B8%80%E6%B8%B8%E6%B3%B3%E9%A6%86%E8%A2%AB%E9%9B%AA%E5%8E%8B%E5%A1%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
