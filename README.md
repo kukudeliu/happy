@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 17:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 17:22:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [三天60亿](https://s.weibo.com/weibo?q=%E4%B8%89%E5%A4%A960%E4%BA%BF&t=31&band_rank=4&Refer=top)<br />
 5. [藏海传 路透](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E4%BC%A0%20%E8%B7%AF%E9%80%8F&t=31&band_rank=5&Refer=top)<br />
 6. [哈尔滨冰玫瑰](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E7%8E%AB%E7%91%B0&t=31&band_rank=6&Refer=top)<br />
-7. [美国被曝花15亿美元训练记者黑中国](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%8A%B115%E4%BA%BF%E7%BE%8E%E5%85%83%E8%AE%AD%E7%BB%83%E8%AE%B0%E8%80%85%E9%BB%91%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [王鹤棣枪灰发色](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%9E%AA%E7%81%B0%E5%8F%91%E8%89%B2%23&t=31&band_rank=8&Refer=top)<br />
+7. [王鹤棣枪灰发色](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%9E%AA%E7%81%B0%E5%8F%91%E8%89%B2%23&t=31&band_rank=7&Refer=top)<br />
+8. [美国被曝花15亿美元训练记者黑中国](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%8A%B115%E4%BA%BF%E7%BE%8E%E5%85%83%E8%AE%AD%E7%BB%83%E8%AE%B0%E8%80%85%E9%BB%91%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=8&Refer=top)<br />
 9. [辛芷蕾的面部折叠度](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%9A%84%E9%9D%A2%E9%83%A8%E6%8A%98%E5%8F%A0%E5%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
