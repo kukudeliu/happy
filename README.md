@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 19:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 19:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [沈耀考第一](https://s.weibo.com/weibo?q=%E6%B2%88%E8%80%80%E8%80%83%E7%AC%AC%E4%B8%80&t=31&band_rank=6&Refer=top)<br />
 7. [外卖小哥救人订单超时民警上门帮正名](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%95%91%E4%BA%BA%E8%AE%A2%E5%8D%95%E8%B6%85%E6%97%B6%E6%B0%91%E8%AD%A6%E4%B8%8A%E9%97%A8%E5%B8%AE%E6%AD%A3%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [身份证45开头的哈尔滨免费吃冻梨](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BB%BD%E8%AF%8145%E5%BC%80%E5%A4%B4%E7%9A%84%E5%93%88%E5%B0%94%E6%BB%A8%E5%85%8D%E8%B4%B9%E5%90%83%E5%86%BB%E6%A2%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [你可以叫我 滨](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%8F%AF%E4%BB%A5%E5%8F%AB%E6%88%91%20%E6%BB%A8&t=31&band_rank=9&Refer=top)<br />
+9. [验证码 验蠢](https://s.weibo.com/weibo?q=%E9%AA%8C%E8%AF%81%E7%A0%81%20%E9%AA%8C%E8%A0%A2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
