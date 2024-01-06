@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 00:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 00:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [央视评繁花](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E7%B9%81%E8%8A%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [砂糖橘东北睡1宿变果脯](https://s.weibo.com/weibo?q=%23%E7%A0%82%E7%B3%96%E6%A9%98%E4%B8%9C%E5%8C%97%E7%9D%A11%E5%AE%BF%E5%8F%98%E6%9E%9C%E8%84%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [王家卫希望胡歌找回演李逍遥的感觉](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E5%B8%8C%E6%9C%9B%E8%83%A1%E6%AD%8C%E6%89%BE%E5%9B%9E%E6%BC%94%E6%9D%8E%E9%80%8D%E9%81%A5%E7%9A%84%E6%84%9F%E8%A7%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [边晓晓江晴朗离婚](https://s.weibo.com/weibo?q=%E8%BE%B9%E6%99%93%E6%99%93%E6%B1%9F%E6%99%B4%E6%9C%97%E7%A6%BB%E5%A9%9A&t=31&band_rank=9&Refer=top)<br />
+9. [贪官太嚣张另一个贪官都看不下去了](https://s.weibo.com/weibo?q=%23%E8%B4%AA%E5%AE%98%E5%A4%AA%E5%9A%A3%E5%BC%A0%E5%8F%A6%E4%B8%80%E4%B8%AA%E8%B4%AA%E5%AE%98%E9%83%BD%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
