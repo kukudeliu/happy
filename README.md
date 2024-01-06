@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 18:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 18:18:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [小砂糖橘还有后续的后续](https://www.baidu.com/s?wd=%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E8%BF%98%E6%9C%89%E5%90%8E%E7%BB%AD%E7%9A%84%E5%90%8E%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [椰树泳装挂历惹争议](https://www.baidu.com/s?wd=%E6%A4%B0%E6%A0%91%E6%B3%B3%E8%A3%85%E6%8C%82%E5%8E%86%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [最强大脑首播就是国际赛](https://www.baidu.com/s?wd=%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91%E9%A6%96%E6%92%AD%E5%B0%B1%E6%98%AF%E5%9B%BD%E9%99%85%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哈尔滨人独在家乡为异客](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E4%BA%BA%E7%8B%AC%E5%9C%A8%E5%AE%B6%E4%B9%A1%E4%B8%BA%E5%BC%82%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方提醒：这个码千万别扫](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%8F%90%E9%86%92%EF%BC%9A%E8%BF%99%E4%B8%AA%E7%A0%81%E5%8D%83%E4%B8%87%E5%88%AB%E6%89%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江苏两区基础教育缩至9年？](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%A4%E5%8C%BA%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E7%BC%A9%E8%87%B39%E5%B9%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [小砂糖橘还有后续的后续](https://www.baidu.com/s?wd=%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E8%BF%98%E6%9C%89%E5%90%8E%E7%BB%AD%E7%9A%84%E5%90%8E%E7%BB%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [椰树泳装挂历惹争议](https://www.baidu.com/s?wd=%E6%A4%B0%E6%A0%91%E6%B3%B3%E8%A3%85%E6%8C%82%E5%8E%86%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [最强大脑首播就是国际赛](https://www.baidu.com/s?wd=%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91%E9%A6%96%E6%92%AD%E5%B0%B1%E6%98%AF%E5%9B%BD%E9%99%85%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哈尔滨人独在家乡为异客](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E4%BA%BA%E7%8B%AC%E5%9C%A8%E5%AE%B6%E4%B9%A1%E4%B8%BA%E5%BC%82%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方提醒：这个码千万别扫](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%8F%90%E9%86%92%EF%BC%9A%E8%BF%99%E4%B8%AA%E7%A0%81%E5%8D%83%E4%B8%87%E5%88%AB%E6%89%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江苏两区基础教育缩至9年？](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%A4%E5%8C%BA%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E7%BC%A9%E8%87%B39%E5%B9%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
