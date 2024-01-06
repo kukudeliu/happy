@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 17:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 17:24:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [新年开新局 实干促发展](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E5%BC%80%E6%96%B0%E5%B1%80+%E5%AE%9E%E5%B9%B2%E4%BF%83%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [黑龙江文旅厅厅长仅任职1年](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%87%E6%97%85%E5%8E%85%E5%8E%85%E9%95%BF%E4%BB%85%E4%BB%BB%E8%81%8C1%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方提醒：这个码千万别扫](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%8F%90%E9%86%92%EF%BC%9A%E8%BF%99%E4%B8%AA%E7%A0%81%E5%8D%83%E4%B8%87%E5%88%AB%E6%89%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [商户拆承重墙致多名业主家开裂](https://www.baidu.com/s?wd=%E5%95%86%E6%88%B7%E6%8B%86%E6%89%BF%E9%87%8D%E5%A2%99%E8%87%B4%E5%A4%9A%E5%90%8D%E4%B8%9A%E4%B8%BB%E5%AE%B6%E5%BC%80%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [好莱坞男星与两女儿坠机身亡](https://www.baidu.com/s?wd=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B7%E6%98%9F%E4%B8%8E%E4%B8%A4%E5%A5%B3%E5%84%BF%E5%9D%A0%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医院回应员工打游戏不理市民](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%91%98%E5%B7%A5%E6%89%93%E6%B8%B8%E6%88%8F%E4%B8%8D%E7%90%86%E5%B8%82%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [商户拆承重墙致多名业主家开裂](https://www.baidu.com/s?wd=%E5%95%86%E6%88%B7%E6%8B%86%E6%89%BF%E9%87%8D%E5%A2%99%E8%87%B4%E5%A4%9A%E5%90%8D%E4%B8%9A%E4%B8%BB%E5%AE%B6%E5%BC%80%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江苏两区基础教育缩至9年？](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%A4%E5%8C%BA%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E7%BC%A9%E8%87%B39%E5%B9%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [新年开新局 实干促发展](https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E5%BC%80%E6%96%B0%E5%B1%80+%E5%AE%9E%E5%B9%B2%E4%BF%83%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [黑龙江文旅厅厅长仅任职1年](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%87%E6%97%85%E5%8E%85%E5%8E%85%E9%95%BF%E4%BB%85%E4%BB%BB%E8%81%8C1%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方提醒：这个码千万别扫](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%8F%90%E9%86%92%EF%BC%9A%E8%BF%99%E4%B8%AA%E7%A0%81%E5%8D%83%E4%B8%87%E5%88%AB%E6%89%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [商户拆承重墙致多名业主家开裂](https://www.baidu.com/s?wd=%E5%95%86%E6%88%B7%E6%8B%86%E6%89%BF%E9%87%8D%E5%A2%99%E8%87%B4%E5%A4%9A%E5%90%8D%E4%B8%9A%E4%B8%BB%E5%AE%B6%E5%BC%80%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [好莱坞男星与两女儿坠机身亡](https://www.baidu.com/s?wd=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B7%E6%98%9F%E4%B8%8E%E4%B8%A4%E5%A5%B3%E5%84%BF%E5%9D%A0%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医院回应员工打游戏不理市民](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%91%98%E5%B7%A5%E6%89%93%E6%B8%B8%E6%88%8F%E4%B8%8D%E7%90%86%E5%B8%82%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [商户拆承重墙致多名业主家开裂](https://www.baidu.com/s?wd=%E5%95%86%E6%88%B7%E6%8B%86%E6%89%BF%E9%87%8D%E5%A2%99%E8%87%B4%E5%A4%9A%E5%90%8D%E4%B8%9A%E4%B8%BB%E5%AE%B6%E5%BC%80%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江苏两区基础教育缩至9年？](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%A4%E5%8C%BA%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E7%BC%A9%E8%87%B39%E5%B9%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
