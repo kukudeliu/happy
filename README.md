@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 12:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 12:31:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [小砂糖橘哭着想把东北警察叔叔带回家](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%A0%82%E7%B3%96%E6%A9%98%E5%93%AD%E7%9D%80%E6%83%B3%E6%8A%8A%E4%B8%9C%E5%8C%97%E8%AD%A6%E5%AF%9F%E5%8F%94%E5%8F%94%E5%B8%A6%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [魏大勋开车门魏总关车门](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%BC%80%E8%BD%A6%E9%97%A8%E9%AD%8F%E6%80%BB%E5%85%B3%E8%BD%A6%E9%97%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [春晚要是敢演这种小品](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E8%A6%81%E6%98%AF%E6%95%A2%E6%BC%94%E8%BF%99%E7%A7%8D%E5%B0%8F%E5%93%81&t=31&band_rank=7&Refer=top)<br />
-8. [武艺 我爸妈都没那么使唤我](https://s.weibo.com/weibo?q=%E6%AD%A6%E8%89%BA%20%E6%88%91%E7%88%B8%E5%A6%88%E9%83%BD%E6%B2%A1%E9%82%A3%E4%B9%88%E4%BD%BF%E5%94%A4%E6%88%91&t=31&band_rank=8&Refer=top)<br />
-9. [唐双宁被开除党籍](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%8F%8C%E5%AE%81%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23&t=31&band_rank=9&Refer=top)<br />
+8. [唐双宁被开除党籍](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%8F%8C%E5%AE%81%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23&t=31&band_rank=8&Refer=top)<br />
+9. [武艺 我爸妈都没那么使唤我](https://s.weibo.com/weibo?q=%E6%AD%A6%E8%89%BA%20%E6%88%91%E7%88%B8%E5%A6%88%E9%83%BD%E6%B2%A1%E9%82%A3%E4%B9%88%E4%BD%BF%E5%94%A4%E6%88%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
