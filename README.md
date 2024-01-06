@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 23:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 23:38:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [已读乱回](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E8%AF%BB%E4%B9%B1%E5%9B%9E%23&t=31&band_rank=4&Refer=top)<br />
 5. [砂糖橘东北睡1宿变果脯](https://s.weibo.com/weibo?q=%23%E7%A0%82%E7%B3%96%E6%A9%98%E4%B8%9C%E5%8C%97%E7%9D%A11%E5%AE%BF%E5%8F%98%E6%9E%9C%E8%84%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [央视评繁花](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E7%B9%81%E8%8A%B1%23&t=31&band_rank=6&Refer=top)<br />
-7. [边晓晓江晴朗离婚](https://s.weibo.com/weibo?q=%E8%BE%B9%E6%99%93%E6%99%93%E6%B1%9F%E6%99%B4%E6%9C%97%E7%A6%BB%E5%A9%9A&t=31&band_rank=7&Refer=top)<br />
-8. [央视曝辽宁3任公安厅长落马细节](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E8%BE%BD%E5%AE%813%E4%BB%BB%E5%85%AC%E5%AE%89%E5%8E%85%E9%95%BF%E8%90%BD%E9%A9%AC%E7%BB%86%E8%8A%82%23&t=31&band_rank=8&Refer=top)<br />
+7. [央视曝辽宁3任公安厅长落马细节](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E8%BE%BD%E5%AE%813%E4%BB%BB%E5%85%AC%E5%AE%89%E5%8E%85%E9%95%BF%E8%90%BD%E9%A9%AC%E7%BB%86%E8%8A%82%23&t=31&band_rank=7&Refer=top)<br />
+8. [边晓晓江晴朗离婚](https://s.weibo.com/weibo?q=%E8%BE%B9%E6%99%93%E6%99%93%E6%B1%9F%E6%99%B4%E6%9C%97%E7%A6%BB%E5%A9%9A&t=31&band_rank=8&Refer=top)<br />
 9. [贪官收22箱现金车被压得上不了坡](https://s.weibo.com/weibo?q=%23%E8%B4%AA%E5%AE%98%E6%94%B622%E7%AE%B1%E7%8E%B0%E9%87%91%E8%BD%A6%E8%A2%AB%E5%8E%8B%E5%BE%97%E4%B8%8A%E4%B8%8D%E4%BA%86%E5%9D%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
