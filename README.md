@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 15:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 15:04:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [3任落马公安厅长合计受贿超12亿](https://www.baidu.com/s?wd=3%E4%BB%BB%E8%90%BD%E9%A9%AC%E5%85%AC%E5%AE%89%E5%8E%85%E9%95%BF%E5%90%88%E8%AE%A1%E5%8F%97%E8%B4%BF%E8%B6%8512%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [好莱坞男星与两女儿坠机身亡](https://www.baidu.com/s?wd=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B7%E6%98%9F%E4%B8%8E%E4%B8%A4%E5%A5%B3%E5%84%BF%E5%9D%A0%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [实属罕见 金正恩首次向岸田文雄致电](https://www.baidu.com/s?wd=%E5%AE%9E%E5%B1%9E%E7%BD%95%E8%A7%81+%E9%87%91%E6%AD%A3%E6%81%A9%E9%A6%96%E6%AC%A1%E5%90%91%E5%B2%B8%E7%94%B0%E6%96%87%E9%9B%84%E8%87%B4%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [商户拆承重墙致多名业主家开裂](https://www.baidu.com/s?wd=%E5%95%86%E6%88%B7%E6%8B%86%E6%89%BF%E9%87%8D%E5%A2%99%E8%87%B4%E5%A4%9A%E5%90%8D%E4%B8%9A%E4%B8%BB%E5%AE%B6%E5%BC%80%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孙燕姿妹妹曾多次发文对姐姐不满](https://www.baidu.com/s?wd=%E5%AD%99%E7%87%95%E5%A7%BF%E5%A6%B9%E5%A6%B9%E6%9B%BE%E5%A4%9A%E6%AC%A1%E5%8F%91%E6%96%87%E5%AF%B9%E5%A7%90%E5%A7%90%E4%B8%8D%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江苏两区基础教育缩至9年？](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%A4%E5%8C%BA%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E7%BC%A9%E8%87%B39%E5%B9%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [3任落马公安厅长合计受贿超12亿](https://www.baidu.com/s?wd=3%E4%BB%BB%E8%90%BD%E9%A9%AC%E5%85%AC%E5%AE%89%E5%8E%85%E9%95%BF%E5%90%88%E8%AE%A1%E5%8F%97%E8%B4%BF%E8%B6%8512%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [好莱坞男星与两女儿坠机身亡](https://www.baidu.com/s?wd=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B7%E6%98%9F%E4%B8%8E%E4%B8%A4%E5%A5%B3%E5%84%BF%E5%9D%A0%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [实属罕见 金正恩首次向岸田文雄致电](https://www.baidu.com/s?wd=%E5%AE%9E%E5%B1%9E%E7%BD%95%E8%A7%81+%E9%87%91%E6%AD%A3%E6%81%A9%E9%A6%96%E6%AC%A1%E5%90%91%E5%B2%B8%E7%94%B0%E6%96%87%E9%9B%84%E8%87%B4%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [商户拆承重墙致多名业主家开裂](https://www.baidu.com/s?wd=%E5%95%86%E6%88%B7%E6%8B%86%E6%89%BF%E9%87%8D%E5%A2%99%E8%87%B4%E5%A4%9A%E5%90%8D%E4%B8%9A%E4%B8%BB%E5%AE%B6%E5%BC%80%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孙燕姿妹妹曾多次发文对姐姐不满](https://www.baidu.com/s?wd=%E5%AD%99%E7%87%95%E5%A7%BF%E5%A6%B9%E5%A6%B9%E6%9B%BE%E5%A4%9A%E6%AC%A1%E5%8F%91%E6%96%87%E5%AF%B9%E5%A7%90%E5%A7%90%E4%B8%8D%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [江苏两区基础教育缩至9年？](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%A4%E5%8C%BA%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E7%BC%A9%E8%87%B39%E5%B9%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
