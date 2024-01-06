@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 14:34:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-06 14:35:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [黑龙江文旅厅厅长仅任职1年](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%87%E6%97%85%E5%8E%85%E5%8E%85%E9%95%BF%E4%BB%85%E4%BB%BB%E8%81%8C1%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [汪小姐出车祸](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B0%8F%E5%A7%90%E5%87%BA%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [日本称只接受美国援助](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A7%B0%E5%8F%AA%E6%8E%A5%E5%8F%97%E7%BE%8E%E5%9B%BD%E6%8F%B4%E5%8A%A9%23&t=31&band_rank=6&Refer=top)<br />
-7. [肖战打卡肖战](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%89%93%E5%8D%A1%E8%82%96%E6%88%98&t=31&band_rank=7&Refer=top)<br />
-8. [微博之夜 白鹿](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E7%99%BD%E9%B9%BF&t=31&band_rank=8&Refer=top)<br />
+7. [微博之夜 白鹿](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E7%99%BD%E9%B9%BF&t=31&band_rank=7&Refer=top)<br />
+8. [肖战打卡肖战](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%89%93%E5%8D%A1%E8%82%96%E6%88%98&t=31&band_rank=8&Refer=top)<br />
 9. [零封](https://s.weibo.com/weibo?q=%E9%9B%B6%E5%B0%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
