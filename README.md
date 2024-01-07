@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 11:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 11:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女孩骨折忍痛赶飞机邻座是骨科主任](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AA%A8%E6%8A%98%E5%BF%8D%E7%97%9B%E8%B5%B6%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E6%98%AF%E9%AA%A8%E7%A7%91%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [厌食症 早起](https://s.weibo.com/weibo?q=%E5%8E%8C%E9%A3%9F%E7%97%87%20%E6%97%A9%E8%B5%B7&t=31&band_rank=7&Refer=top)<br />
 8. [张若昀长文](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%E9%95%BF%E6%96%87&t=31&band_rank=8&Refer=top)<br />
-9. [留美流浪博士发声](https://s.weibo.com/weibo?q=%23%E7%95%99%E7%BE%8E%E6%B5%81%E6%B5%AA%E5%8D%9A%E5%A3%AB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [12岁肺纤维化女孩现在怎样了](https://s.weibo.com/weibo?q=%2312%E5%B2%81%E8%82%BA%E7%BA%A4%E7%BB%B4%E5%8C%96%E5%A5%B3%E5%AD%A9%E7%8E%B0%E5%9C%A8%E6%80%8E%E6%A0%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
