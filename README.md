@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 19:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 19:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [马斯克被曝吸毒](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A2%AB%E6%9B%9D%E5%90%B8%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [一车白狐即将运往尔滨](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%BD%A6%E7%99%BD%E7%8B%90%E5%8D%B3%E5%B0%86%E8%BF%90%E5%BE%80%E5%B0%94%E6%BB%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [日本地震导致部分海域变陆地](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%AF%BC%E8%87%B4%E9%83%A8%E5%88%86%E6%B5%B7%E5%9F%9F%E5%8F%98%E9%99%86%E5%9C%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [王心凌 纯白圣女](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%BF%83%E5%87%8C%20%E7%BA%AF%E7%99%BD%E5%9C%A3%E5%A5%B3&t=31&band_rank=9&Refer=top)<br />
+9. [刘亦菲 唐嫣是最好的汪小姐](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%94%90%E5%AB%A3%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%B1%AA%E5%B0%8F%E5%A7%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
