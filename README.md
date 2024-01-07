@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 00:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 00:46:01</h4></div>
 
 > 微博  
 
 1. [张雪峰解释公司为何不招应届生](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A7%A3%E9%87%8A%E5%85%AC%E5%8F%B8%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%8B%9B%E5%BA%94%E5%B1%8A%E7%94%9F%23&t=31&band_rank=1&Refer=top)<br />
 2. [A先生说辛芷蕾本人很漂亮](https://s.weibo.com/weibo?q=%23A%E5%85%88%E7%94%9F%E8%AF%B4%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%9C%AC%E4%BA%BA%E5%BE%88%E6%BC%82%E4%BA%AE%23&t=31&band_rank=2&Refer=top)<br />
 3. [全国各地开年即开跑](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E5%BC%80%E5%B9%B4%E5%8D%B3%E5%BC%80%E8%B7%91%23&t=31&band_rank=3&Refer=top)<br />
-4. [为什么年轻人不爱用信用卡了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E7%88%B1%E7%94%A8%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [复旦流浪博士已与家乡取得联系](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E6%B5%81%E6%B5%AA%E5%8D%9A%E5%A3%AB%E5%B7%B2%E4%B8%8E%E5%AE%B6%E4%B9%A1%E5%8F%96%E5%BE%97%E8%81%94%E7%B3%BB%23&t=31&band_rank=5&Refer=top)<br />
+4. [复旦流浪博士已与家乡取得联系](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E6%B5%81%E6%B5%AA%E5%8D%9A%E5%A3%AB%E5%B7%B2%E4%B8%8E%E5%AE%B6%E4%B9%A1%E5%8F%96%E5%BE%97%E8%81%94%E7%B3%BB%23&t=31&band_rank=4&Refer=top)<br />
+5. [为什么年轻人不爱用信用卡了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E7%88%B1%E7%94%A8%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [A先生跳海](https://s.weibo.com/weibo?q=A%E5%85%88%E7%94%9F%E8%B7%B3%E6%B5%B7&t=31&band_rank=6&Refer=top)<br />
 7. [干掉蜜雪冰城的是旁边的蜜雪冰城](https://s.weibo.com/weibo?q=%23%E5%B9%B2%E6%8E%89%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E7%9A%84%E6%98%AF%E6%97%81%E8%BE%B9%E7%9A%84%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [胖东来你装个红绿灯吧](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E4%BD%A0%E8%A3%85%E4%B8%AA%E7%BA%A2%E7%BB%BF%E7%81%AF%E5%90%A7%23&t=31&band_rank=8&Refer=top)<br />
