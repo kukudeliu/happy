@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 23:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 23:37:01</h4></div>
 
 > 微博  
 
 1. [A先生说辛芷蕾本人很漂亮](https://s.weibo.com/weibo?q=%23A%E5%85%88%E7%94%9F%E8%AF%B4%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%9C%AC%E4%BA%BA%E5%BE%88%E6%BC%82%E4%BA%AE%23&t=31&band_rank=1&Refer=top)<br />
 2. [干掉蜜雪冰城的是旁边的蜜雪冰城](https://s.weibo.com/weibo?q=%23%E5%B9%B2%E6%8E%89%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E7%9A%84%E6%98%AF%E6%97%81%E8%BE%B9%E7%9A%84%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%23&t=31&band_rank=2&Refer=top)<br />
 3. [全国各地开年即开跑](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E5%BC%80%E5%B9%B4%E5%8D%B3%E5%BC%80%E8%B7%91%23&t=31&band_rank=3&Refer=top)<br />
-4. [华图 敢耍老子](https://s.weibo.com/weibo?q=%E5%8D%8E%E5%9B%BE%20%E6%95%A2%E8%80%8D%E8%80%81%E5%AD%90&t=31&band_rank=4&Refer=top)<br />
-5. [A先生跳海](https://s.weibo.com/weibo?q=A%E5%85%88%E7%94%9F%E8%B7%B3%E6%B5%B7&t=31&band_rank=5&Refer=top)<br />
+4. [A先生跳海](https://s.weibo.com/weibo?q=A%E5%85%88%E7%94%9F%E8%B7%B3%E6%B5%B7&t=31&band_rank=4&Refer=top)<br />
+5. [华图 敢耍老子](https://s.weibo.com/weibo?q=%E5%8D%8E%E5%9B%BE%20%E6%95%A2%E8%80%8D%E8%80%81%E5%AD%90&t=31&band_rank=5&Refer=top)<br />
 6. [贪官花40多万元建了条500米断头路](https://s.weibo.com/weibo?q=%23%E8%B4%AA%E5%AE%98%E8%8A%B140%E5%A4%9A%E4%B8%87%E5%85%83%E5%BB%BA%E4%BA%86%E6%9D%A1500%E7%B1%B3%E6%96%AD%E5%A4%B4%E8%B7%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [胖东来你装个红绿灯吧](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E4%BD%A0%E8%A3%85%E4%B8%AA%E7%BA%A2%E7%BB%BF%E7%81%AF%E5%90%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘亦菲 唐嫣是最好的汪小姐](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%94%90%E5%AB%A3%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%B1%AA%E5%B0%8F%E5%A7%90&t=31&band_rank=8&Refer=top)<br />
-9. [韩国好丽友蛋黄派检出金黄色葡萄球菌](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A5%BD%E4%B8%BD%E5%8F%8B%E8%9B%8B%E9%BB%84%E6%B4%BE%E6%A3%80%E5%87%BA%E9%87%91%E9%BB%84%E8%89%B2%E8%91%A1%E8%90%84%E7%90%83%E8%8F%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [香菜泡面](https://s.weibo.com/weibo?q=%E9%A6%99%E8%8F%9C%E6%B3%A1%E9%9D%A2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
