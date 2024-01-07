@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 13:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 13:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [哈尔滨当地人搓澡都戒半个月了](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%BD%93%E5%9C%B0%E4%BA%BA%E6%90%93%E6%BE%A1%E9%83%BD%E6%88%92%E5%8D%8A%E4%B8%AA%E6%9C%88%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [钟楚曦侯雯元吻戏](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E4%BE%AF%E9%9B%AF%E5%85%83%E5%90%BB%E6%88%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [女孩骨折忍痛赶飞机邻座是骨科主任](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AA%A8%E6%8A%98%E5%BF%8D%E7%97%9B%E8%B5%B6%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E6%98%AF%E9%AA%A8%E7%A7%91%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [国考成绩 等一个奇迹](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%20%E7%AD%89%E4%B8%80%E4%B8%AA%E5%A5%87%E8%BF%B9&t=31&band_rank=9&Refer=top)<br />
+9. [教育部辟谣缩短学制取消中考](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [大学生被冰锥砸中身亡 监控曝光](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%86%B0%E9%94%A5%E7%A0%B8%E4%B8%AD%E8%BA%AB%E4%BA%A1+%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从“小包裹”里看中国经济活力](https://www.baidu.com/s?wd=%E4%BB%8E%E2%80%9C%E5%B0%8F%E5%8C%85%E8%A3%B9%E2%80%9D%E9%87%8C%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [富二代执掌公司7年亏损32亿](https://www.baidu.com/s?wd=%E5%AF%8C%E4%BA%8C%E4%BB%A3%E6%89%A7%E6%8E%8C%E5%85%AC%E5%8F%B87%E5%B9%B4%E4%BA%8F%E6%8D%9F32%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [微信私密朋友圈被吐槽有bug](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%A7%81%E5%AF%86%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB%E5%90%90%E6%A7%BD%E6%9C%89bug&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [狗狗偷咬主人被抓包急忙捂嘴](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E5%81%B7%E5%92%AC%E4%B8%BB%E4%BA%BA%E8%A2%AB%E6%8A%93%E5%8C%85%E6%80%A5%E5%BF%99%E6%8D%82%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [涨价前6分钟加油被拒 加油站回应](https://www.baidu.com/s?wd=%E6%B6%A8%E4%BB%B7%E5%89%8D6%E5%88%86%E9%92%9F%E5%8A%A0%E6%B2%B9%E8%A2%AB%E6%8B%92+%E5%8A%A0%E6%B2%B9%E7%AB%99%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [陕西通报5人烧炉取暖中毒已致4死](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E9%80%9A%E6%8A%A55%E4%BA%BA%E7%83%A7%E7%82%89%E5%8F%96%E6%9A%96%E4%B8%AD%E6%AF%92%E5%B7%B2%E8%87%B44%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [微信私密朋友圈被吐槽有bug](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%A7%81%E5%AF%86%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB%E5%90%90%E6%A7%BD%E6%9C%89bug&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [狗狗偷咬主人被抓包急忙捂嘴](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E5%81%B7%E5%92%AC%E4%B8%BB%E4%BA%BA%E8%A2%AB%E6%8A%93%E5%8C%85%E6%80%A5%E5%BF%99%E6%8D%82%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吃味精会让人“头秃”？](https://www.baidu.com/s?wd=%E5%90%83%E5%91%B3%E7%B2%BE%E4%BC%9A%E8%AE%A9%E4%BA%BA%E2%80%9C%E5%A4%B4%E7%A7%83%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [大学生被冰锥砸中身亡 监控曝光](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%86%B0%E9%94%A5%E7%A0%B8%E4%B8%AD%E8%BA%AB%E4%BA%A1+%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从“小包裹”里看中国经济活力](https://www.baidu.com/s?wd=%E4%BB%8E%E2%80%9C%E5%B0%8F%E5%8C%85%E8%A3%B9%E2%80%9D%E9%87%8C%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [富二代执掌公司7年亏损32亿](https://www.baidu.com/s?wd=%E5%AF%8C%E4%BA%8C%E4%BB%A3%E6%89%A7%E6%8E%8C%E5%85%AC%E5%8F%B87%E5%B9%B4%E4%BA%8F%E6%8D%9F32%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [微信私密朋友圈被吐槽有bug](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%A7%81%E5%AF%86%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB%E5%90%90%E6%A7%BD%E6%9C%89bug&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [狗狗偷咬主人被抓包急忙捂嘴](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E5%81%B7%E5%92%AC%E4%B8%BB%E4%BA%BA%E8%A2%AB%E6%8A%93%E5%8C%85%E6%80%A5%E5%BF%99%E6%8D%82%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [涨价前6分钟加油被拒 加油站回应](https://www.baidu.com/s?wd=%E6%B6%A8%E4%BB%B7%E5%89%8D6%E5%88%86%E9%92%9F%E5%8A%A0%E6%B2%B9%E8%A2%AB%E6%8B%92+%E5%8A%A0%E6%B2%B9%E7%AB%99%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [陕西通报5人烧炉取暖中毒已致4死](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E9%80%9A%E6%8A%A55%E4%BA%BA%E7%83%A7%E7%82%89%E5%8F%96%E6%9A%96%E4%B8%AD%E6%AF%92%E5%B7%B2%E8%87%B44%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [微信私密朋友圈被吐槽有bug](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%A7%81%E5%AF%86%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB%E5%90%90%E6%A7%BD%E6%9C%89bug&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [狗狗偷咬主人被抓包急忙捂嘴](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E5%81%B7%E5%92%AC%E4%B8%BB%E4%BA%BA%E8%A2%AB%E6%8A%93%E5%8C%85%E6%80%A5%E5%BF%99%E6%8D%82%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吃味精会让人“头秃”？](https://www.baidu.com/s?wd=%E5%90%83%E5%91%B3%E7%B2%BE%E4%BC%9A%E8%AE%A9%E4%BA%BA%E2%80%9C%E5%A4%B4%E7%A7%83%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
