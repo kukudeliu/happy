@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 15:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 15:02:01</h4></div>
 
 > 微博  
 
-1. [微信私密朋友圈被吐槽有bug](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E7%A7%81%E5%AF%86%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB%E5%90%90%E6%A7%BD%E6%9C%89bug%23&t=31&band_rank=1&Refer=top)<br />
-2. [庄嫂摔碗 郑恺关门](https://s.weibo.com/weibo?q=%E5%BA%84%E5%AB%82%E6%91%94%E7%A2%97%20%E9%83%91%E6%81%BA%E5%85%B3%E9%97%A8&t=31&band_rank=2&Refer=top)<br />
+1. [庄嫂摔碗 郑恺关门](https://s.weibo.com/weibo?q=%E5%BA%84%E5%AB%82%E6%91%94%E7%A2%97%20%E9%83%91%E6%81%BA%E5%85%B3%E9%97%A8&t=31&band_rank=1&Refer=top)<br />
+2. [微信私密朋友圈被吐槽有bug](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E7%A7%81%E5%AF%86%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB%E5%90%90%E6%A7%BD%E6%9C%89bug%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国开年干出开门红](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%B9%B4%E5%B9%B2%E5%87%BA%E5%BC%80%E9%97%A8%E7%BA%A2%23&t=31&band_rank=3&Refer=top)<br />
 4. [研究发现内脏脂肪越多大脑越小](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E5%86%85%E8%84%8F%E8%84%82%E8%82%AA%E8%B6%8A%E5%A4%9A%E5%A4%A7%E8%84%91%E8%B6%8A%E5%B0%8F%23&t=31&band_rank=4&Refer=top)<br />
 5. [鹤岗把唯一的丹顶鹤借给尔滨](https://s.weibo.com/weibo?q=%23%E9%B9%A4%E5%B2%97%E6%8A%8A%E5%94%AF%E4%B8%80%E7%9A%84%E4%B8%B9%E9%A1%B6%E9%B9%A4%E5%80%9F%E7%BB%99%E5%B0%94%E6%BB%A8%23&t=31&band_rank=5&Refer=top)<br />
