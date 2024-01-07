@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 14:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 14:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [哈工大学长杨柏汇因笑容温柔被关注](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A7%E5%AD%A6%E9%95%BF%E6%9D%A8%E6%9F%8F%E6%B1%87%E5%9B%A0%E7%AC%91%E5%AE%B9%E6%B8%A9%E6%9F%94%E8%A2%AB%E5%85%B3%E6%B3%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [辛芷蕾因绣春刀被王家卫选中](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%A0%E7%BB%A3%E6%98%A5%E5%88%80%E8%A2%AB%E7%8E%8B%E5%AE%B6%E5%8D%AB%E9%80%89%E4%B8%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [有必要将义务教育延长至12年吗](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%BF%85%E8%A6%81%E5%B0%86%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E5%BB%B6%E9%95%BF%E8%87%B312%E5%B9%B4%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [钟楚曦侯雯元吻戏](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E4%BE%AF%E9%9B%AF%E5%85%83%E5%90%BB%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [高管违法辞退员工态度嚣张](https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%AE%A1%E8%BF%9D%E6%B3%95%E8%BE%9E%E9%80%80%E5%91%98%E5%B7%A5%E6%80%81%E5%BA%A6%E5%9A%A3%E5%BC%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
