@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 11:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 11:36:01</h4></div>
 
 > 微博  
 
 1. [微信私密朋友圈被吐槽有bug](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E7%A7%81%E5%AF%86%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB%E5%90%90%E6%A7%BD%E6%9C%89bug%23&t=31&band_rank=1&Refer=top)<br />
 2. [辛芷蕾因绣春刀被王家卫选中](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%A0%E7%BB%A3%E6%98%A5%E5%88%80%E8%A2%AB%E7%8E%8B%E5%AE%B6%E5%8D%AB%E9%80%89%E4%B8%AD%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国冰雪季大联欢](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E9%9B%AA%E5%AD%A3%E5%A4%A7%E8%81%94%E6%AC%A2%23&t=31&band_rank=3&Refer=top)<br />
-4. [3同学租车出车祸开车同学遭索赔59万](https://s.weibo.com/weibo?q=%233%E5%90%8C%E5%AD%A6%E7%A7%9F%E8%BD%A6%E5%87%BA%E8%BD%A6%E7%A5%B8%E5%BC%80%E8%BD%A6%E5%90%8C%E5%AD%A6%E9%81%AD%E7%B4%A2%E8%B5%9459%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
-5. [国考成绩 等一个奇迹](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%20%E7%AD%89%E4%B8%80%E4%B8%AA%E5%A5%87%E8%BF%B9&t=31&band_rank=5&Refer=top)<br />
+4. [国考成绩 等一个奇迹](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%20%E7%AD%89%E4%B8%80%E4%B8%AA%E5%A5%87%E8%BF%B9&t=31&band_rank=4&Refer=top)<br />
+5. [3同学租车出车祸开车同学遭索赔59万](https://s.weibo.com/weibo?q=%233%E5%90%8C%E5%AD%A6%E7%A7%9F%E8%BD%A6%E5%87%BA%E8%BD%A6%E7%A5%B8%E5%BC%80%E8%BD%A6%E5%90%8C%E5%AD%A6%E9%81%AD%E7%B4%A2%E8%B5%9459%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [厌食症 早起](https://s.weibo.com/weibo?q=%E5%8E%8C%E9%A3%9F%E7%97%87%20%E6%97%A9%E8%B5%B7&t=31&band_rank=6&Refer=top)<br />
 7. [鸣龙少年编剧 参加过高考吗](https://s.weibo.com/weibo?q=%E9%B8%A3%E9%BE%99%E5%B0%91%E5%B9%B4%E7%BC%96%E5%89%A7%20%E5%8F%82%E5%8A%A0%E8%BF%87%E9%AB%98%E8%80%83%E5%90%97&t=31&band_rank=7&Refer=top)<br />
 8. [女孩骨折忍痛赶飞机邻座是骨科主任](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AA%A8%E6%8A%98%E5%BF%8D%E7%97%9B%E8%B5%B6%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E6%98%AF%E9%AA%A8%E7%A7%91%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=8&Refer=top)<br />
