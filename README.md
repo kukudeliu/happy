@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 22:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 22:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩国好丽友蛋黄派检出金黄色葡萄球菌](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A5%BD%E4%B8%BD%E5%8F%8B%E8%9B%8B%E9%BB%84%E6%B4%BE%E6%A3%80%E5%87%BA%E9%87%91%E9%BB%84%E8%89%B2%E8%91%A1%E8%90%84%E7%90%83%E8%8F%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [A先生说辛芷蕾本人很漂亮](https://s.weibo.com/weibo?q=%23A%E5%85%88%E7%94%9F%E8%AF%B4%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%9C%AC%E4%BA%BA%E5%BE%88%E6%BC%82%E4%BA%AE%23&t=31&band_rank=7&Refer=top)<br />
 8. [影评人说赵丽颖花千骨灵动鲜活](https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%AF%84%E4%BA%BA%E8%AF%B4%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%8A%B1%E5%8D%83%E9%AA%A8%E7%81%B5%E5%8A%A8%E9%B2%9C%E6%B4%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [心疼爷叔](https://s.weibo.com/weibo?q=%E5%BF%83%E7%96%BC%E7%88%B7%E5%8F%94&t=31&band_rank=9&Refer=top)<br />
+9. [刘亦菲 唐嫣是最好的汪小姐](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%94%90%E5%AB%A3%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%B1%AA%E5%B0%8F%E5%A7%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
