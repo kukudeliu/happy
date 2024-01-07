@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 13:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 13:51:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [辛芷蕾因绣春刀被王家卫选中](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%A0%E7%BB%A3%E6%98%A5%E5%88%80%E8%A2%AB%E7%8E%8B%E5%AE%B6%E5%8D%AB%E9%80%89%E4%B8%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [浙大一院半月接收47名围炉煮茶中毒患者](https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E4%B8%80%E9%99%A2%E5%8D%8A%E6%9C%88%E6%8E%A5%E6%94%B647%E5%90%8D%E5%9B%B4%E7%82%89%E7%85%AE%E8%8C%B6%E4%B8%AD%E6%AF%92%E6%82%A3%E8%80%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [钟楚曦侯雯元吻戏](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E4%BE%AF%E9%9B%AF%E5%85%83%E5%90%BB%E6%88%8F%23&t=31&band_rank=6&Refer=top)<br />
-7. [女孩骨折忍痛赶飞机邻座是骨科主任](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AA%A8%E6%8A%98%E5%BF%8D%E7%97%9B%E8%B5%B6%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E6%98%AF%E9%AA%A8%E7%A7%91%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [哈尔滨当地人搓澡都戒半个月了](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%BD%93%E5%9C%B0%E4%BA%BA%E6%90%93%E6%BE%A1%E9%83%BD%E6%88%92%E5%8D%8A%E4%B8%AA%E6%9C%88%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [哈尔滨当地人搓澡都戒半个月了](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%BD%93%E5%9C%B0%E4%BA%BA%E6%90%93%E6%BE%A1%E9%83%BD%E6%88%92%E5%8D%8A%E4%B8%AA%E6%9C%88%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [女孩骨折忍痛赶飞机邻座是骨科主任](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AA%A8%E6%8A%98%E5%BF%8D%E7%97%9B%E8%B5%B6%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E6%98%AF%E9%AA%A8%E7%A7%91%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [国考成绩 等一个奇迹](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%20%E7%AD%89%E4%B8%80%E4%B8%AA%E5%A5%87%E8%BF%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
