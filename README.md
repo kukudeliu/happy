@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 13:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 13:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [浙大一院半月接收47名围炉煮茶中毒患者](https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E4%B8%80%E9%99%A2%E5%8D%8A%E6%9C%88%E6%8E%A5%E6%94%B647%E5%90%8D%E5%9B%B4%E7%82%89%E7%85%AE%E8%8C%B6%E4%B8%AD%E6%AF%92%E6%82%A3%E8%80%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [哈尔滨当地人搓澡都戒半个月了](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%BD%93%E5%9C%B0%E4%BA%BA%E6%90%93%E6%BE%A1%E9%83%BD%E6%88%92%E5%8D%8A%E4%B8%AA%E6%9C%88%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [钟楚曦侯雯元吻戏](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E4%BE%AF%E9%9B%AF%E5%85%83%E5%90%BB%E6%88%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [女孩骨折忍痛赶飞机邻座是骨科主任](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AA%A8%E6%8A%98%E5%BF%8D%E7%97%9B%E8%B5%B6%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E6%98%AF%E9%AA%A8%E7%A7%91%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [教育部辟谣缩短学制取消中考](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%23&t=31&band_rank=9&Refer=top)<br />
+8. [研究发现内脏脂肪越多大脑越小](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E5%86%85%E8%84%8F%E8%84%82%E8%82%AA%E8%B6%8A%E5%A4%9A%E5%A4%A7%E8%84%91%E8%B6%8A%E5%B0%8F%23&t=31&band_rank=8&Refer=top)<br />
+9. [女孩骨折忍痛赶飞机邻座是骨科主任](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AA%A8%E6%8A%98%E5%BF%8D%E7%97%9B%E8%B5%B6%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E6%98%AF%E9%AA%A8%E7%A7%91%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
