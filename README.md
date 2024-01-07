@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 00:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 00:29:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [贪官盲目搞开发致债务剧增超千亿](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E7%9B%B2%E7%9B%AE%E6%90%9E%E5%BC%80%E5%8F%91%E8%87%B4%E5%80%BA%E5%8A%A1%E5%89%A7%E5%A2%9E%E8%B6%85%E5%8D%83%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [开门红！几个数字看开年活力](https://www.baidu.com/s?wd=%E5%BC%80%E9%97%A8%E7%BA%A2%EF%BC%81%E5%87%A0%E4%B8%AA%E6%95%B0%E5%AD%97%E7%9C%8B%E5%BC%80%E5%B9%B4%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [球迷吐槽C罗中国行票价虚高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%90%90%E6%A7%BDC%E7%BD%97%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%A5%A8%E4%BB%B7%E8%99%9A%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中国在极地布放首个生态潜标](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%9E%81%E5%9C%B0%E5%B8%83%E6%94%BE%E9%A6%96%E4%B8%AA%E7%94%9F%E6%80%81%E6%BD%9C%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [主播展示百万帝王绿翡翠手滑掉河里](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E5%B1%95%E7%A4%BA%E7%99%BE%E4%B8%87%E5%B8%9D%E7%8E%8B%E7%BB%BF%E7%BF%A1%E7%BF%A0%E6%89%8B%E6%BB%91%E6%8E%89%E6%B2%B3%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [朝鲜7日继续进行海岸炮射击](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C7%E6%97%A5%E7%BB%A7%E7%BB%AD%E8%BF%9B%E8%A1%8C%E6%B5%B7%E5%B2%B8%E7%82%AE%E5%B0%84%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [陕西5人烧炉取暖中毒致4死](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF5%E4%BA%BA%E7%83%A7%E7%82%89%E5%8F%96%E6%9A%96%E4%B8%AD%E6%AF%92%E8%87%B44%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [波音客机飞行时舱门脱落紧急返航](https://www.baidu.com/s?wd=%E6%B3%A2%E9%9F%B3%E5%AE%A2%E6%9C%BA%E9%A3%9E%E8%A1%8C%E6%97%B6%E8%88%B1%E9%97%A8%E8%84%B1%E8%90%BD%E7%B4%A7%E6%80%A5%E8%BF%94%E8%88%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部:缩短学制取消中考不实](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [贪官盲目搞开发致债务剧增超千亿](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E7%9B%B2%E7%9B%AE%E6%90%9E%E5%BC%80%E5%8F%91%E8%87%B4%E5%80%BA%E5%8A%A1%E5%89%A7%E5%A2%9E%E8%B6%85%E5%8D%83%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [开门红！几个数字看开年活力](https://www.baidu.com/s?wd=%E5%BC%80%E9%97%A8%E7%BA%A2%EF%BC%81%E5%87%A0%E4%B8%AA%E6%95%B0%E5%AD%97%E7%9C%8B%E5%BC%80%E5%B9%B4%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [球迷吐槽C罗中国行票价虚高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%90%90%E6%A7%BDC%E7%BD%97%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%A5%A8%E4%BB%B7%E8%99%9A%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [中国在极地布放首个生态潜标](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%9E%81%E5%9C%B0%E5%B8%83%E6%94%BE%E9%A6%96%E4%B8%AA%E7%94%9F%E6%80%81%E6%BD%9C%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [主播展示百万帝王绿翡翠手滑掉河里](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E5%B1%95%E7%A4%BA%E7%99%BE%E4%B8%87%E5%B8%9D%E7%8E%8B%E7%BB%BF%E7%BF%A1%E7%BF%A0%E6%89%8B%E6%BB%91%E6%8E%89%E6%B2%B3%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [朝鲜7日继续进行海岸炮射击](https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C7%E6%97%A5%E7%BB%A7%E7%BB%AD%E8%BF%9B%E8%A1%8C%E6%B5%B7%E5%B2%B8%E7%82%AE%E5%B0%84%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [陕西5人烧炉取暖中毒致4死](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF5%E4%BA%BA%E7%83%A7%E7%82%89%E5%8F%96%E6%9A%96%E4%B8%AD%E6%AF%92%E8%87%B44%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [波音客机飞行时舱门脱落紧急返航](https://www.baidu.com/s?wd=%E6%B3%A2%E9%9F%B3%E5%AE%A2%E6%9C%BA%E9%A3%9E%E8%A1%8C%E6%97%B6%E8%88%B1%E9%97%A8%E8%84%B1%E8%90%BD%E7%B4%A7%E6%80%A5%E8%BF%94%E8%88%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部:缩短学制取消中考不实](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
