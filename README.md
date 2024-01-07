@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 01:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 01:09:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [贪官盲目搞开发致债务剧增超千亿](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E7%9B%B2%E7%9B%AE%E6%90%9E%E5%BC%80%E5%8F%91%E8%87%B4%E5%80%BA%E5%8A%A1%E5%89%A7%E5%A2%9E%E8%B6%85%E5%8D%83%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [开门红！几个数字看开年活力](https://www.baidu.com/s?wd=%E5%BC%80%E9%97%A8%E7%BA%A2%EF%BC%81%E5%87%A0%E4%B8%AA%E6%95%B0%E5%AD%97%E7%9C%8B%E5%BC%80%E5%B9%B4%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [球迷吐槽C罗中国行票价虚高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%90%90%E6%A7%BDC%E7%BD%97%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%A5%A8%E4%BB%B7%E8%99%9A%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [贪官儿子经营广告屏被企业疯狂投钱](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E5%84%BF%E5%AD%90%E7%BB%8F%E8%90%A5%E5%B9%BF%E5%91%8A%E5%B1%8F%E8%A2%AB%E4%BC%81%E4%B8%9A%E7%96%AF%E7%8B%82%E6%8A%95%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [贪官收红包从忐忑到成为习惯](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E6%94%B6%E7%BA%A2%E5%8C%85%E4%BB%8E%E5%BF%90%E5%BF%91%E5%88%B0%E6%88%90%E4%B8%BA%E4%B9%A0%E6%83%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [iPhone电池门赔款到账](https://www.baidu.com/s?wd=iPhone%E7%94%B5%E6%B1%A0%E9%97%A8%E8%B5%94%E6%AC%BE%E5%88%B0%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [一中国游客在泰国浮潜不幸溺亡](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%B3%B0%E5%9B%BD%E6%B5%AE%E6%BD%9C%E4%B8%8D%E5%B9%B8%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本强震后局地土壤液化](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E5%90%8E%E5%B1%80%E5%9C%B0%E5%9C%9F%E5%A3%A4%E6%B6%B2%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部:缩短学制取消中考不实](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [贪官盲目搞开发致债务剧增超千亿](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E7%9B%B2%E7%9B%AE%E6%90%9E%E5%BC%80%E5%8F%91%E8%87%B4%E5%80%BA%E5%8A%A1%E5%89%A7%E5%A2%9E%E8%B6%85%E5%8D%83%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [开门红！几个数字看开年活力](https://www.baidu.com/s?wd=%E5%BC%80%E9%97%A8%E7%BA%A2%EF%BC%81%E5%87%A0%E4%B8%AA%E6%95%B0%E5%AD%97%E7%9C%8B%E5%BC%80%E5%B9%B4%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [球迷吐槽C罗中国行票价虚高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%90%90%E6%A7%BDC%E7%BD%97%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%A5%A8%E4%BB%B7%E8%99%9A%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [贪官儿子经营广告屏被企业疯狂投钱](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E5%84%BF%E5%AD%90%E7%BB%8F%E8%90%A5%E5%B9%BF%E5%91%8A%E5%B1%8F%E8%A2%AB%E4%BC%81%E4%B8%9A%E7%96%AF%E7%8B%82%E6%8A%95%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [贪官收红包从忐忑到成为习惯](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E6%94%B6%E7%BA%A2%E5%8C%85%E4%BB%8E%E5%BF%90%E5%BF%91%E5%88%B0%E6%88%90%E4%B8%BA%E4%B9%A0%E6%83%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [iPhone电池门赔款到账](https://www.baidu.com/s?wd=iPhone%E7%94%B5%E6%B1%A0%E9%97%A8%E8%B5%94%E6%AC%BE%E5%88%B0%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [一中国游客在泰国浮潜不幸溺亡](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%B3%B0%E5%9B%BD%E6%B5%AE%E6%BD%9C%E4%B8%8D%E5%B9%B8%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [日本强震后局地土壤液化](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E5%90%8E%E5%B1%80%E5%9C%B0%E5%9C%9F%E5%A3%A4%E6%B6%B2%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部:缩短学制取消中考不实](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
