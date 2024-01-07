@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 19:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 19:15:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [砂糖橘东北睡1宿变果脯](https://www.baidu.com/s?wd=%E7%A0%82%E7%B3%96%E6%A9%98%E4%B8%9C%E5%8C%97%E7%9D%A11%E5%AE%BF%E5%8F%98%E6%9E%9C%E8%84%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一车白狐即将运往哈尔滨](https://www.baidu.com/s?wd=%E4%B8%80%E8%BD%A6%E7%99%BD%E7%8B%90%E5%8D%B3%E5%B0%86%E8%BF%90%E5%BE%80%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [狗狗偷咬主人被抓包急忙捂嘴](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E5%81%B7%E5%92%AC%E4%B8%BB%E4%BA%BA%E8%A2%AB%E6%8A%93%E5%8C%85%E6%80%A5%E5%BF%99%E6%8D%82%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“恋爱脑”爷叔被骗170万养老金](https://www.baidu.com/s?wd=%E2%80%9C%E6%81%8B%E7%88%B1%E8%84%91%E2%80%9D%E7%88%B7%E5%8F%94%E8%A2%AB%E9%AA%97170%E4%B8%87%E5%85%BB%E8%80%81%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [儿童服装印有艾滋英文引发质疑](https://www.baidu.com/s?wd=%E5%84%BF%E7%AB%A5%E6%9C%8D%E8%A3%85%E5%8D%B0%E6%9C%89%E8%89%BE%E6%BB%8B%E8%8B%B1%E6%96%87%E5%BC%95%E5%8F%91%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部:缩短学制取消中考不实](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [砂糖橘东北睡1宿变果脯](https://www.baidu.com/s?wd=%E7%A0%82%E7%B3%96%E6%A9%98%E4%B8%9C%E5%8C%97%E7%9D%A11%E5%AE%BF%E5%8F%98%E6%9E%9C%E8%84%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一车白狐即将运往哈尔滨](https://www.baidu.com/s?wd=%E4%B8%80%E8%BD%A6%E7%99%BD%E7%8B%90%E5%8D%B3%E5%B0%86%E8%BF%90%E5%BE%80%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [狗狗偷咬主人被抓包急忙捂嘴](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E5%81%B7%E5%92%AC%E4%B8%BB%E4%BA%BA%E8%A2%AB%E6%8A%93%E5%8C%85%E6%80%A5%E5%BF%99%E6%8D%82%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“恋爱脑”爷叔被骗170万养老金](https://www.baidu.com/s?wd=%E2%80%9C%E6%81%8B%E7%88%B1%E8%84%91%E2%80%9D%E7%88%B7%E5%8F%94%E8%A2%AB%E9%AA%97170%E4%B8%87%E5%85%BB%E8%80%81%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [儿童服装印有艾滋英文引发质疑](https://www.baidu.com/s?wd=%E5%84%BF%E7%AB%A5%E6%9C%8D%E8%A3%85%E5%8D%B0%E6%9C%89%E8%89%BE%E6%BB%8B%E8%8B%B1%E6%96%87%E5%BC%95%E5%8F%91%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部:缩短学制取消中考不实](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
