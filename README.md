@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 23:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 23:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [A先生跳海](https://s.weibo.com/weibo?q=A%E5%85%88%E7%94%9F%E8%B7%B3%E6%B5%B7&t=31&band_rank=6&Refer=top)<br />
 7. [韩国好丽友蛋黄派检出金黄色葡萄球菌](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A5%BD%E4%B8%BD%E5%8F%8B%E8%9B%8B%E9%BB%84%E6%B4%BE%E6%A3%80%E5%87%BA%E9%87%91%E9%BB%84%E8%89%B2%E8%91%A1%E8%90%84%E7%90%83%E8%8F%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘亦菲 唐嫣是最好的汪小姐](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%94%90%E5%AB%A3%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%B1%AA%E5%B0%8F%E5%A7%90&t=31&band_rank=8&Refer=top)<br />
-9. [刘诗诗靠张云龙肩膀路透](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E9%9D%A0%E5%BC%A0%E4%BA%91%E9%BE%99%E8%82%A9%E8%86%80%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [香菜泡面](https://s.weibo.com/weibo?q=%E9%A6%99%E8%8F%9C%E6%B3%A1%E9%9D%A2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [球迷吐槽C罗中国行票价虚高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%90%90%E6%A7%BDC%E7%BD%97%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%A5%A8%E4%BB%B7%E8%99%9A%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [贪官花40多万建500米断头路](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E8%8A%B140%E5%A4%9A%E4%B8%87%E5%BB%BA500%E7%B1%B3%E6%96%AD%E5%A4%B4%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子私藏枪支家中宛如“军火库”](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%81%E8%97%8F%E6%9E%AA%E6%94%AF%E5%AE%B6%E4%B8%AD%E5%AE%9B%E5%A6%82%E2%80%9C%E5%86%9B%E7%81%AB%E5%BA%93%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [父母从新疆给远嫁女儿寄50斤羊肉](https://www.baidu.com/s?wd=%E7%88%B6%E6%AF%8D%E4%BB%8E%E6%96%B0%E7%96%86%E7%BB%99%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%84%BF%E5%AF%8450%E6%96%A4%E7%BE%8A%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [陕西5人烧炉取暖中毒致4死](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF5%E4%BA%BA%E7%83%A7%E7%82%89%E5%8F%96%E6%9A%96%E4%B8%AD%E6%AF%92%E8%87%B44%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部:缩短学制取消中考不实](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [球迷吐槽C罗中国行票价虚高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%90%90%E6%A7%BDC%E7%BD%97%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%A5%A8%E4%BB%B7%E8%99%9A%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [贪官花40多万建500米断头路](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E8%8A%B140%E5%A4%9A%E4%B8%87%E5%BB%BA500%E7%B1%B3%E6%96%AD%E5%A4%B4%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子私藏枪支家中宛如“军火库”](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%81%E8%97%8F%E6%9E%AA%E6%94%AF%E5%AE%B6%E4%B8%AD%E5%AE%9B%E5%A6%82%E2%80%9C%E5%86%9B%E7%81%AB%E5%BA%93%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [父母从新疆给远嫁女儿寄50斤羊肉](https://www.baidu.com/s?wd=%E7%88%B6%E6%AF%8D%E4%BB%8E%E6%96%B0%E7%96%86%E7%BB%99%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%84%BF%E5%AF%8450%E6%96%A4%E7%BE%8A%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [陕西5人烧炉取暖中毒致4死](https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF5%E4%BA%BA%E7%83%A7%E7%82%89%E5%8F%96%E6%9A%96%E4%B8%AD%E6%AF%92%E8%87%B44%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部:缩短学制取消中考不实](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
