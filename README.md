@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 10:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 10:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中方决定制裁5家美国军工企业](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%86%B3%E5%AE%9A%E5%88%B6%E8%A3%815%E5%AE%B6%E7%BE%8E%E5%9B%BD%E5%86%9B%E5%B7%A5%E4%BC%81%E4%B8%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [张若昀长文](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%E9%95%BF%E6%96%87&t=31&band_rank=7&Refer=top)<br />
 8. [留美流浪博士发声](https://s.weibo.com/weibo?q=%23%E7%95%99%E7%BE%8E%E6%B5%81%E6%B5%AA%E5%8D%9A%E5%A3%AB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [全国各省份力拼经济开门红](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%90%84%E7%9C%81%E4%BB%BD%E5%8A%9B%E6%8B%BC%E7%BB%8F%E6%B5%8E%E5%BC%80%E9%97%A8%E7%BA%A2%23&t=31&band_rank=9&Refer=top)<br />
+9. [12岁肺纤维化女孩现在怎样了](https://s.weibo.com/weibo?q=%2312%E5%B2%81%E8%82%BA%E7%BA%A4%E7%BB%B4%E5%8C%96%E5%A5%B3%E5%AD%A9%E7%8E%B0%E5%9C%A8%E6%80%8E%E6%A0%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
