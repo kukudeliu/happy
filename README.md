@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 23:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 23:09:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [贪官盲目搞开发致债务剧增超千亿](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E7%9B%B2%E7%9B%AE%E6%90%9E%E5%BC%80%E5%8F%91%E8%87%B4%E5%80%BA%E5%8A%A1%E5%89%A7%E5%A2%9E%E8%B6%85%E5%8D%83%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [开门红！几个数字看开年活力](https://www.baidu.com/s?wd=%E5%BC%80%E9%97%A8%E7%BA%A2%EF%BC%81%E5%87%A0%E4%B8%AA%E6%95%B0%E5%AD%97%E7%9C%8B%E5%BC%80%E5%B9%B4%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [球迷吐槽C罗中国行票价虚高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%90%90%E6%A7%BDC%E7%BD%97%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%A5%A8%E4%BB%B7%E8%99%9A%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [市民送姜茶遭摊贩威胁称抢生意](https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E9%80%81%E5%A7%9C%E8%8C%B6%E9%81%AD%E6%91%8A%E8%B4%A9%E5%A8%81%E8%83%81%E7%A7%B0%E6%8A%A2%E7%94%9F%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [哈尔滨上新冰上龙舟赛](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%8A%E6%96%B0%E5%86%B0%E4%B8%8A%E9%BE%99%E8%88%9F%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [订婚3年后男子反悔索要18万彩礼](https://www.baidu.com/s?wd=%E8%AE%A2%E5%A9%9A3%E5%B9%B4%E5%90%8E%E7%94%B7%E5%AD%90%E5%8F%8D%E6%82%94%E7%B4%A2%E8%A6%8118%E4%B8%87%E5%BD%A9%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [4月大女婴被遗弃警方已送福利院](https://www.baidu.com/s?wd=4%E6%9C%88%E5%A4%A7%E5%A5%B3%E5%A9%B4%E8%A2%AB%E9%81%97%E5%BC%83%E8%AD%A6%E6%96%B9%E5%B7%B2%E9%80%81%E7%A6%8F%E5%88%A9%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [贪官花40多万建500米断头路](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E8%8A%B140%E5%A4%9A%E4%B8%87%E5%BB%BA500%E7%B1%B3%E6%96%AD%E5%A4%B4%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本地震导致部分海域变陆地](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%AF%BC%E8%87%B4%E9%83%A8%E5%88%86%E6%B5%B7%E5%9F%9F%E5%8F%98%E9%99%86%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部:缩短学制取消中考不实](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [贪官盲目搞开发致债务剧增超千亿](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E7%9B%B2%E7%9B%AE%E6%90%9E%E5%BC%80%E5%8F%91%E8%87%B4%E5%80%BA%E5%8A%A1%E5%89%A7%E5%A2%9E%E8%B6%85%E5%8D%83%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [开门红！几个数字看开年活力](https://www.baidu.com/s?wd=%E5%BC%80%E9%97%A8%E7%BA%A2%EF%BC%81%E5%87%A0%E4%B8%AA%E6%95%B0%E5%AD%97%E7%9C%8B%E5%BC%80%E5%B9%B4%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [球迷吐槽C罗中国行票价虚高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%90%90%E6%A7%BDC%E7%BD%97%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%A5%A8%E4%BB%B7%E8%99%9A%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [市民送姜茶遭摊贩威胁称抢生意](https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E9%80%81%E5%A7%9C%E8%8C%B6%E9%81%AD%E6%91%8A%E8%B4%A9%E5%A8%81%E8%83%81%E7%A7%B0%E6%8A%A2%E7%94%9F%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [哈尔滨上新冰上龙舟赛](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%8A%E6%96%B0%E5%86%B0%E4%B8%8A%E9%BE%99%E8%88%9F%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [订婚3年后男子反悔索要18万彩礼](https://www.baidu.com/s?wd=%E8%AE%A2%E5%A9%9A3%E5%B9%B4%E5%90%8E%E7%94%B7%E5%AD%90%E5%8F%8D%E6%82%94%E7%B4%A2%E8%A6%8118%E4%B8%87%E5%BD%A9%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [4月大女婴被遗弃警方已送福利院](https://www.baidu.com/s?wd=4%E6%9C%88%E5%A4%A7%E5%A5%B3%E5%A9%B4%E8%A2%AB%E9%81%97%E5%BC%83%E8%AD%A6%E6%96%B9%E5%B7%B2%E9%80%81%E7%A6%8F%E5%88%A9%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [贪官花40多万建500米断头路](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E8%8A%B140%E5%A4%9A%E4%B8%87%E5%BB%BA500%E7%B1%B3%E6%96%AD%E5%A4%B4%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本地震导致部分海域变陆地](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%AF%BC%E8%87%B4%E9%83%A8%E5%88%86%E6%B5%B7%E5%9F%9F%E5%8F%98%E9%99%86%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部:缩短学制取消中考不实](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
