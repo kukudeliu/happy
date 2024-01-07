@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 00:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 00:02:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [A先生跳海](https://s.weibo.com/weibo?q=A%E5%85%88%E7%94%9F%E8%B7%B3%E6%B5%B7&t=31&band_rank=4&Refer=top)<br />
 5. [胖东来你装个红绿灯吧](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E4%BD%A0%E8%A3%85%E4%B8%AA%E7%BA%A2%E7%BB%BF%E7%81%AF%E5%90%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [贪官花40多万元建了条500米断头路](https://s.weibo.com/weibo?q=%23%E8%B4%AA%E5%AE%98%E8%8A%B140%E5%A4%9A%E4%B8%87%E5%85%83%E5%BB%BA%E4%BA%86%E6%9D%A1500%E7%B1%B3%E6%96%AD%E5%A4%B4%E8%B7%AF%23&t=31&band_rank=6&Refer=top)<br />
-7. [香菜泡面](https://s.weibo.com/weibo?q=%E9%A6%99%E8%8F%9C%E6%B3%A1%E9%9D%A2&t=31&band_rank=7&Refer=top)<br />
-8. [华图 敢耍老子](https://s.weibo.com/weibo?q=%E5%8D%8E%E5%9B%BE%20%E6%95%A2%E8%80%8D%E8%80%81%E5%AD%90&t=31&band_rank=8&Refer=top)<br />
+7. [华图 敢耍老子](https://s.weibo.com/weibo?q=%E5%8D%8E%E5%9B%BE%20%E6%95%A2%E8%80%8D%E8%80%81%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
+8. [香菜泡面](https://s.weibo.com/weibo?q=%E9%A6%99%E8%8F%9C%E6%B3%A1%E9%9D%A2&t=31&band_rank=8&Refer=top)<br />
 9. [为什么年轻人不爱用信用卡了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E7%88%B1%E7%94%A8%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,8 +23,8 @@
 4. [开门红！几个数字看开年活力](https://www.baidu.com/s?wd=%E5%BC%80%E9%97%A8%E7%BA%A2%EF%BC%81%E5%87%A0%E4%B8%AA%E6%95%B0%E5%AD%97%E7%9C%8B%E5%BC%80%E5%B9%B4%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [球迷吐槽C罗中国行票价虚高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%90%90%E6%A7%BDC%E7%BD%97%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%A5%A8%E4%BB%B7%E8%99%9A%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一中国游客在泰国浮潜不幸溺亡](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%B3%B0%E5%9B%BD%E6%B5%AE%E6%BD%9C%E4%B8%8D%E5%B9%B8%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本强震后局地土壤液化](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E5%90%8E%E5%B1%80%E5%9C%B0%E5%9C%9F%E5%A3%A4%E6%B6%B2%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本地震导致部分海域变陆地](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%AF%BC%E8%87%B4%E9%83%A8%E5%88%86%E6%B5%B7%E5%9F%9F%E5%8F%98%E9%99%86%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日本地震导致部分海域变陆地](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%AF%BC%E8%87%B4%E9%83%A8%E5%88%86%E6%B5%B7%E5%9F%9F%E5%8F%98%E9%99%86%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全国多地景区官宣：免费](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%99%AF%E5%8C%BA%E5%AE%98%E5%AE%A3%EF%BC%9A%E5%85%8D%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部:缩短学制取消中考不实](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [开门红！几个数字看开年活力](https://www.baidu.com/s?wd=%E5%BC%80%E9%97%A8%E7%BA%A2%EF%BC%81%E5%87%A0%E4%B8%AA%E6%95%B0%E5%AD%97%E7%9C%8B%E5%BC%80%E5%B9%B4%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [球迷吐槽C罗中国行票价虚高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%90%90%E6%A7%BDC%E7%BD%97%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%A5%A8%E4%BB%B7%E8%99%9A%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一中国游客在泰国浮潜不幸溺亡](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%B3%B0%E5%9B%BD%E6%B5%AE%E6%BD%9C%E4%B8%8D%E5%B9%B8%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本强震后局地土壤液化](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E5%90%8E%E5%B1%80%E5%9C%B0%E5%9C%9F%E5%A3%A4%E6%B6%B2%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本地震导致部分海域变陆地](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%AF%BC%E8%87%B4%E9%83%A8%E5%88%86%E6%B5%B7%E5%9F%9F%E5%8F%98%E9%99%86%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日本地震导致部分海域变陆地](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%AF%BC%E8%87%B4%E9%83%A8%E5%88%86%E6%B5%B7%E5%9F%9F%E5%8F%98%E9%99%86%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全国多地景区官宣：免费](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%99%AF%E5%8C%BA%E5%AE%98%E5%AE%A3%EF%BC%9A%E5%85%8D%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部:缩短学制取消中考不实](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
