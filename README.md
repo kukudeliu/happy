@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 03:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 03:24:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [中国在极地布放首个生态潜标](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%9E%81%E5%9C%B0%E5%B8%83%E6%94%BE%E9%A6%96%E4%B8%AA%E7%94%9F%E6%80%81%E6%BD%9C%E6%A0%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [为什么年轻人不爱用信用卡了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E7%88%B1%E7%94%A8%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [贪官花40多万元建了条500米断头路](https://s.weibo.com/weibo?q=%23%E8%B4%AA%E5%AE%98%E8%8A%B140%E5%A4%9A%E4%B8%87%E5%85%83%E5%BB%BA%E4%BA%86%E6%9D%A1500%E7%B1%B3%E6%96%AD%E5%A4%B4%E8%B7%AF%23&t=31&band_rank=5&Refer=top)<br />
-6. [A先生说辛芷蕾本人很漂亮](https://s.weibo.com/weibo?q=%23A%E5%85%88%E7%94%9F%E8%AF%B4%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%9C%AC%E4%BA%BA%E5%BE%88%E6%BC%82%E4%BA%AE%23&t=31&band_rank=6&Refer=top)<br />
-7. [干掉蜜雪冰城的是旁边的蜜雪冰城](https://s.weibo.com/weibo?q=%23%E5%B9%B2%E6%8E%89%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E7%9A%84%E6%98%AF%E6%97%81%E8%BE%B9%E7%9A%84%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [A先生跳海](https://s.weibo.com/weibo?q=A%E5%85%88%E7%94%9F%E8%B7%B3%E6%B5%B7&t=31&band_rank=8&Refer=top)<br />
-9. [南宁地铁回应广告画争议](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E5%B9%BF%E5%91%8A%E7%94%BB%E4%BA%89%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
+6. [干掉蜜雪冰城的是旁边的蜜雪冰城](https://s.weibo.com/weibo?q=%23%E5%B9%B2%E6%8E%89%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E7%9A%84%E6%98%AF%E6%97%81%E8%BE%B9%E7%9A%84%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%23&t=31&band_rank=6&Refer=top)<br />
+7. [A先生说辛芷蕾本人很漂亮](https://s.weibo.com/weibo?q=%23A%E5%85%88%E7%94%9F%E8%AF%B4%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%9C%AC%E4%BA%BA%E5%BE%88%E6%BC%82%E4%BA%AE%23&t=31&band_rank=7&Refer=top)<br />
+8. [南宁地铁回应广告画争议](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E5%B9%BF%E5%91%8A%E7%94%BB%E4%BA%89%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
+9. [A先生跳海](https://s.weibo.com/weibo?q=A%E5%85%88%E7%94%9F%E8%B7%B3%E6%B5%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,8 +22,8 @@
 3. [贪官盲目搞开发致债务剧增超千亿](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E7%9B%B2%E7%9B%AE%E6%90%9E%E5%BC%80%E5%8F%91%E8%87%B4%E5%80%BA%E5%8A%A1%E5%89%A7%E5%A2%9E%E8%B6%85%E5%8D%83%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [开门红！几个数字看开年活力](https://www.baidu.com/s?wd=%E5%BC%80%E9%97%A8%E7%BA%A2%EF%BC%81%E5%87%A0%E4%B8%AA%E6%95%B0%E5%AD%97%E7%9C%8B%E5%BC%80%E5%B9%B4%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [球迷吐槽C罗中国行票价虚高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%90%90%E6%A7%BDC%E7%BD%97%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%A5%A8%E4%BB%B7%E8%99%9A%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [贪官花40多万建500米断头路](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E8%8A%B140%E5%A4%9A%E4%B8%87%E5%BB%BA500%E7%B1%B3%E6%96%AD%E5%A4%B4%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [主播展示百万帝王绿翡翠手滑掉河里](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E5%B1%95%E7%A4%BA%E7%99%BE%E4%B8%87%E5%B8%9D%E7%8E%8B%E7%BB%BF%E7%BF%A1%E7%BF%A0%E6%89%8B%E6%BB%91%E6%8E%89%E6%B2%B3%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美防长进ICU未及时通报 白宫震惊](https://www.baidu.com/s?wd=%E7%BE%8E%E9%98%B2%E9%95%BF%E8%BF%9BICU%E6%9C%AA%E5%8F%8A%E6%97%B6%E9%80%9A%E6%8A%A5+%E7%99%BD%E5%AE%AB%E9%9C%87%E6%83%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [贪官花40多万建500米断头路](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E8%8A%B140%E5%A4%9A%E4%B8%87%E5%BB%BA500%E7%B1%B3%E6%96%AD%E5%A4%B4%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [父母从新疆给远嫁女儿寄50斤羊肉](https://www.baidu.com/s?wd=%E7%88%B6%E6%AF%8D%E4%BB%8E%E6%96%B0%E7%96%86%E7%BB%99%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%84%BF%E5%AF%8450%E6%96%A4%E7%BE%8A%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部:缩短学制取消中考不实](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [贪官盲目搞开发致债务剧增超千亿](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E7%9B%B2%E7%9B%AE%E6%90%9E%E5%BC%80%E5%8F%91%E8%87%B4%E5%80%BA%E5%8A%A1%E5%89%A7%E5%A2%9E%E8%B6%85%E5%8D%83%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [开门红！几个数字看开年活力](https://www.baidu.com/s?wd=%E5%BC%80%E9%97%A8%E7%BA%A2%EF%BC%81%E5%87%A0%E4%B8%AA%E6%95%B0%E5%AD%97%E7%9C%8B%E5%BC%80%E5%B9%B4%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [球迷吐槽C罗中国行票价虚高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%90%90%E6%A7%BDC%E7%BD%97%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%A5%A8%E4%BB%B7%E8%99%9A%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [贪官花40多万建500米断头路](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E8%8A%B140%E5%A4%9A%E4%B8%87%E5%BB%BA500%E7%B1%B3%E6%96%AD%E5%A4%B4%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [主播展示百万帝王绿翡翠手滑掉河里](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E5%B1%95%E7%A4%BA%E7%99%BE%E4%B8%87%E5%B8%9D%E7%8E%8B%E7%BB%BF%E7%BF%A1%E7%BF%A0%E6%89%8B%E6%BB%91%E6%8E%89%E6%B2%B3%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美防长进ICU未及时通报 白宫震惊](https://www.baidu.com/s?wd=%E7%BE%8E%E9%98%B2%E9%95%BF%E8%BF%9BICU%E6%9C%AA%E5%8F%8A%E6%97%B6%E9%80%9A%E6%8A%A5+%E7%99%BD%E5%AE%AB%E9%9C%87%E6%83%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [贪官花40多万建500米断头路](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E8%8A%B140%E5%A4%9A%E4%B8%87%E5%BB%BA500%E7%B1%B3%E6%96%AD%E5%A4%B4%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [父母从新疆给远嫁女儿寄50斤羊肉](https://www.baidu.com/s?wd=%E7%88%B6%E6%AF%8D%E4%BB%8E%E6%96%B0%E7%96%86%E7%BB%99%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%84%BF%E5%AF%8450%E6%96%A4%E7%BE%8A%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部:缩短学制取消中考不实](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
