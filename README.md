@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 19:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 19:22:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [东部战区新年开飞高燃画面](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E6%96%B0%E5%B9%B4%E5%BC%80%E9%A3%9E%E9%AB%98%E7%87%83%E7%94%BB%E9%9D%A2%23&t=31&band_rank=3&Refer=top)<br />
 4. [日本地震导致部分海域变陆地](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%AF%BC%E8%87%B4%E9%83%A8%E5%88%86%E6%B5%B7%E5%9F%9F%E5%8F%98%E9%99%86%E5%9C%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [大四男生租房被房东奶奶当亲孙照顾](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E7%A7%9F%E6%88%BF%E8%A2%AB%E6%88%BF%E4%B8%9C%E5%A5%B6%E5%A5%B6%E5%BD%93%E4%BA%B2%E5%AD%99%E7%85%A7%E9%A1%BE%23&t=31&band_rank=5&Refer=top)<br />
-6. [酒鬼去汪星了](https://s.weibo.com/weibo?q=%E9%85%92%E9%AC%BC%E5%8E%BB%E6%B1%AA%E6%98%9F%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+6. [国考 给个痛快吧](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%20%E7%BB%99%E4%B8%AA%E7%97%9B%E5%BF%AB%E5%90%A7&t=31&band_rank=6&Refer=top)<br />
 7. [一车白狐即将运往尔滨](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%BD%A6%E7%99%BD%E7%8B%90%E5%8D%B3%E5%B0%86%E8%BF%90%E5%BE%80%E5%B0%94%E6%BB%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [国考 给个痛快吧](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%20%E7%BB%99%E4%B8%AA%E7%97%9B%E5%BF%AB%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
+8. [酒鬼去汪星了](https://s.weibo.com/weibo?q=%E9%85%92%E9%AC%BC%E5%8E%BB%E6%B1%AA%E6%98%9F%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [31岁中国男游客在泰国浮潜溺亡](https://s.weibo.com/weibo?q=%2331%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%B3%B0%E5%9B%BD%E6%B5%AE%E6%BD%9C%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
