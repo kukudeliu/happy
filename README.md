@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 11:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 11:43:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [国考成绩 等一个奇迹](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%20%E7%AD%89%E4%B8%80%E4%B8%AA%E5%A5%87%E8%BF%B9&t=31&band_rank=4&Refer=top)<br />
 5. [辛芷蕾因绣春刀被王家卫选中](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%A0%E7%BB%A3%E6%98%A5%E5%88%80%E8%A2%AB%E7%8E%8B%E5%AE%B6%E5%8D%AB%E9%80%89%E4%B8%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [四川省考 数量全靠蒙](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E7%9C%81%E8%80%83%20%E6%95%B0%E9%87%8F%E5%85%A8%E9%9D%A0%E8%92%99&t=31&band_rank=6&Refer=top)<br />
-7. [3同学租车出车祸开车同学遭索赔59万](https://s.weibo.com/weibo?q=%233%E5%90%8C%E5%AD%A6%E7%A7%9F%E8%BD%A6%E5%87%BA%E8%BD%A6%E7%A5%B8%E5%BC%80%E8%BD%A6%E5%90%8C%E5%AD%A6%E9%81%AD%E7%B4%A2%E8%B5%9459%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [厌食症 早起](https://s.weibo.com/weibo?q=%E5%8E%8C%E9%A3%9F%E7%97%87%20%E6%97%A9%E8%B5%B7&t=31&band_rank=8&Refer=top)<br />
+7. [厌食症 早起](https://s.weibo.com/weibo?q=%E5%8E%8C%E9%A3%9F%E7%97%87%20%E6%97%A9%E8%B5%B7&t=31&band_rank=7&Refer=top)<br />
+8. [3同学租车出车祸开车同学遭索赔59万](https://s.weibo.com/weibo?q=%233%E5%90%8C%E5%AD%A6%E7%A7%9F%E8%BD%A6%E5%87%BA%E8%BD%A6%E7%A5%B8%E5%BC%80%E8%BD%A6%E5%90%8C%E5%AD%A6%E9%81%AD%E7%B4%A2%E8%B5%9459%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [女孩骨折忍痛赶飞机邻座是骨科主任](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AA%A8%E6%8A%98%E5%BF%8D%E7%97%9B%E8%B5%B6%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E6%98%AF%E9%AA%A8%E7%A7%91%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
