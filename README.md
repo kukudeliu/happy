@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 11:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 11:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [辛芷蕾因绣春刀被王家卫选中](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%A0%E7%BB%A3%E6%98%A5%E5%88%80%E8%A2%AB%E7%8E%8B%E5%AE%B6%E5%8D%AB%E9%80%89%E4%B8%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [厌食症 早起](https://s.weibo.com/weibo?q=%E5%8E%8C%E9%A3%9F%E7%97%87%20%E6%97%A9%E8%B5%B7&t=31&band_rank=6&Refer=top)<br />
 7. [四川省考 数量全靠蒙](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E7%9C%81%E8%80%83%20%E6%95%B0%E9%87%8F%E5%85%A8%E9%9D%A0%E8%92%99&t=31&band_rank=7&Refer=top)<br />
-8. [鸣龙少年编剧 参加过高考吗](https://s.weibo.com/weibo?q=%E9%B8%A3%E9%BE%99%E5%B0%91%E5%B9%B4%E7%BC%96%E5%89%A7%20%E5%8F%82%E5%8A%A0%E8%BF%87%E9%AB%98%E8%80%83%E5%90%97&t=31&band_rank=8&Refer=top)<br />
-9. [女孩骨折忍痛赶飞机邻座是骨科主任](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AA%A8%E6%8A%98%E5%BF%8D%E7%97%9B%E8%B5%B6%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E6%98%AF%E9%AA%A8%E7%A7%91%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=9&Refer=top)<br />
+8. [专家建议取消大城市买房买车限制](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%A4%A7%E5%9F%8E%E5%B8%82%E4%B9%B0%E6%88%BF%E4%B9%B0%E8%BD%A6%E9%99%90%E5%88%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [鸣龙少年编剧 参加过高考吗](https://s.weibo.com/weibo?q=%E9%B8%A3%E9%BE%99%E5%B0%91%E5%B9%B4%E7%BC%96%E5%89%A7%20%E5%8F%82%E5%8A%A0%E8%BF%87%E9%AB%98%E8%80%83%E5%90%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
