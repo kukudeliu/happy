@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 10:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 10:43:01</h4></div>
 
 > 微博  
 
-1. [女孩骨折忍痛赶飞机邻座是骨科主任](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AA%A8%E6%8A%98%E5%BF%8D%E7%97%9B%E8%B5%B6%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E6%98%AF%E9%AA%A8%E7%A7%91%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=1&Refer=top)<br />
-2. [3同学租车出车祸开车同学遭索赔59万](https://s.weibo.com/weibo?q=%233%E5%90%8C%E5%AD%A6%E7%A7%9F%E8%BD%A6%E5%87%BA%E8%BD%A6%E7%A5%B8%E5%BC%80%E8%BD%A6%E5%90%8C%E5%AD%A6%E9%81%AD%E7%B4%A2%E8%B5%9459%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
+1. [3同学租车出车祸开车同学遭索赔59万](https://s.weibo.com/weibo?q=%233%E5%90%8C%E5%AD%A6%E7%A7%9F%E8%BD%A6%E5%87%BA%E8%BD%A6%E7%A5%B8%E5%BC%80%E8%BD%A6%E5%90%8C%E5%AD%A6%E9%81%AD%E7%B4%A2%E8%B5%9459%E4%B8%87%23&t=31&band_rank=1&Refer=top)<br />
+2. [女孩骨折忍痛赶飞机邻座是骨科主任](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AA%A8%E6%8A%98%E5%BF%8D%E7%97%9B%E8%B5%B6%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E6%98%AF%E9%AA%A8%E7%A7%91%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=2&Refer=top)<br />
 3. [全国各省份力拼经济开门红](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%90%84%E7%9C%81%E4%BB%BD%E5%8A%9B%E6%8B%BC%E7%BB%8F%E6%B5%8E%E5%BC%80%E9%97%A8%E7%BA%A2%23&t=31&band_rank=3&Refer=top)<br />
 4. [中方决定制裁5家美国军工企业](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%86%B3%E5%AE%9A%E5%88%B6%E8%A3%815%E5%AE%B6%E7%BE%8E%E5%9B%BD%E5%86%9B%E5%B7%A5%E4%BC%81%E4%B8%9A%23&t=31&band_rank=4&Refer=top)<br />
 5. [鸣龙少年编剧 参加过高考吗](https://s.weibo.com/weibo?q=%E9%B8%A3%E9%BE%99%E5%B0%91%E5%B9%B4%E7%BC%96%E5%89%A7%20%E5%8F%82%E5%8A%A0%E8%BF%87%E9%AB%98%E8%80%83%E5%90%97&t=31&band_rank=5&Refer=top)<br />
