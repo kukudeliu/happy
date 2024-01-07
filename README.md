@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 10:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 10:44:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [贪官太嚣张另一个贪官都看不下去了](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E5%A4%AA%E5%9A%A3%E5%BC%A0%E5%8F%A6%E4%B8%80%E4%B8%AA%E8%B4%AA%E5%AE%98%E9%83%BD%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [砂糖橘东北睡1宿变果脯](https://www.baidu.com/s?wd=%E7%A0%82%E7%B3%96%E6%A9%98%E4%B8%9C%E5%8C%97%E7%9D%A11%E5%AE%BF%E5%8F%98%E6%9E%9C%E8%84%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子凌晨逐户试锁开门成功进入一户](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%8C%E6%99%A8%E9%80%90%E6%88%B7%E8%AF%95%E9%94%81%E5%BC%80%E9%97%A8%E6%88%90%E5%8A%9F%E8%BF%9B%E5%85%A5%E4%B8%80%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [iPhone电池门赔款到账](https://www.baidu.com/s?wd=iPhone%E7%94%B5%E6%B1%A0%E9%97%A8%E8%B5%94%E6%AC%BE%E5%88%B0%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [芜湖辟谣学生15岁可免试上大学](https://www.baidu.com/s?wd=%E8%8A%9C%E6%B9%96%E8%BE%9F%E8%B0%A3%E5%AD%A6%E7%94%9F15%E5%B2%81%E5%8F%AF%E5%85%8D%E8%AF%95%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国购物中心惊现外星人？视频曝光](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E6%83%8A%E7%8E%B0%E5%A4%96%E6%98%9F%E4%BA%BA%EF%BC%9F%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [吃味精会让人“头秃”？](https://www.baidu.com/s?wd=%E5%90%83%E5%91%B3%E7%B2%BE%E4%BC%9A%E8%AE%A9%E4%BA%BA%E2%80%9C%E5%A4%B4%E7%A7%83%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [贪官太嚣张另一个贪官都看不下去了](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E5%A4%AA%E5%9A%A3%E5%BC%A0%E5%8F%A6%E4%B8%80%E4%B8%AA%E8%B4%AA%E5%AE%98%E9%83%BD%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [砂糖橘东北睡1宿变果脯](https://www.baidu.com/s?wd=%E7%A0%82%E7%B3%96%E6%A9%98%E4%B8%9C%E5%8C%97%E7%9D%A11%E5%AE%BF%E5%8F%98%E6%9E%9C%E8%84%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子凌晨逐户试锁开门成功进入一户](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%8C%E6%99%A8%E9%80%90%E6%88%B7%E8%AF%95%E9%94%81%E5%BC%80%E9%97%A8%E6%88%90%E5%8A%9F%E8%BF%9B%E5%85%A5%E4%B8%80%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [iPhone电池门赔款到账](https://www.baidu.com/s?wd=iPhone%E7%94%B5%E6%B1%A0%E9%97%A8%E8%B5%94%E6%AC%BE%E5%88%B0%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [芜湖辟谣学生15岁可免试上大学](https://www.baidu.com/s?wd=%E8%8A%9C%E6%B9%96%E8%BE%9F%E8%B0%A3%E5%AD%A6%E7%94%9F15%E5%B2%81%E5%8F%AF%E5%85%8D%E8%AF%95%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国购物中心惊现外星人？视频曝光](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E6%83%8A%E7%8E%B0%E5%A4%96%E6%98%9F%E4%BA%BA%EF%BC%9F%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [吃味精会让人“头秃”？](https://www.baidu.com/s?wd=%E5%90%83%E5%91%B3%E7%B2%BE%E4%BC%9A%E8%AE%A9%E4%BA%BA%E2%80%9C%E5%A4%B4%E7%A7%83%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
