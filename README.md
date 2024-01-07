@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 06:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 06:10:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [球迷吐槽C罗中国行票价虚高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%90%90%E6%A7%BDC%E7%BD%97%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%A5%A8%E4%BB%B7%E8%99%9A%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [全国多地景区官宣：免费](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%99%AF%E5%8C%BA%E5%AE%98%E5%AE%A3%EF%BC%9A%E5%85%8D%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [首钢:违法开除员工高管非集团员工](https://www.baidu.com/s?wd=%E9%A6%96%E9%92%A2%3A%E8%BF%9D%E6%B3%95%E5%BC%80%E9%99%A4%E5%91%98%E5%B7%A5%E9%AB%98%E7%AE%A1%E9%9D%9E%E9%9B%86%E5%9B%A2%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [主播展示百万帝王绿翡翠手滑掉河里](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E5%B1%95%E7%A4%BA%E7%99%BE%E4%B8%87%E5%B8%9D%E7%8E%8B%E7%BB%BF%E7%BF%A1%E7%BF%A0%E6%89%8B%E6%BB%91%E6%8E%89%E6%B2%B3%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [贪官花40多万建500米断头路](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E8%8A%B140%E5%A4%9A%E4%B8%87%E5%BB%BA500%E7%B1%B3%E6%96%AD%E5%A4%B4%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部:缩短学制取消中考不实](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [球迷吐槽C罗中国行票价虚高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%90%90%E6%A7%BDC%E7%BD%97%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%A5%A8%E4%BB%B7%E8%99%9A%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [全国多地景区官宣：免费](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%99%AF%E5%8C%BA%E5%AE%98%E5%AE%A3%EF%BC%9A%E5%85%8D%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [首钢:违法开除员工高管非集团员工](https://www.baidu.com/s?wd=%E9%A6%96%E9%92%A2%3A%E8%BF%9D%E6%B3%95%E5%BC%80%E9%99%A4%E5%91%98%E5%B7%A5%E9%AB%98%E7%AE%A1%E9%9D%9E%E9%9B%86%E5%9B%A2%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [主播展示百万帝王绿翡翠手滑掉河里](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E5%B1%95%E7%A4%BA%E7%99%BE%E4%B8%87%E5%B8%9D%E7%8E%8B%E7%BB%BF%E7%BF%A1%E7%BF%A0%E6%89%8B%E6%BB%91%E6%8E%89%E6%B2%B3%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [贪官花40多万建500米断头路](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E8%8A%B140%E5%A4%9A%E4%B8%87%E5%BB%BA500%E7%B1%B3%E6%96%AD%E5%A4%B4%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部:缩短学制取消中考不实](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
