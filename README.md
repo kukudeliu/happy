@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 23:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 23:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [贪官花40多万元建了条500米断头路](https://s.weibo.com/weibo?q=%23%E8%B4%AA%E5%AE%98%E8%8A%B140%E5%A4%9A%E4%B8%87%E5%85%83%E5%BB%BA%E4%BA%86%E6%9D%A1500%E7%B1%B3%E6%96%AD%E5%A4%B4%E8%B7%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [华图 敢耍老子](https://s.weibo.com/weibo?q=%E5%8D%8E%E5%9B%BE%20%E6%95%A2%E8%80%8D%E8%80%81%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
 8. [香菜泡面](https://s.weibo.com/weibo?q=%E9%A6%99%E8%8F%9C%E6%B3%A1%E9%9D%A2&t=31&band_rank=8&Refer=top)<br />
-9. [为什么年轻人不爱用信用卡了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E7%88%B1%E7%94%A8%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘亦菲 唐嫣是最好的汪小姐](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%94%90%E5%AB%A3%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%B1%AA%E5%B0%8F%E5%A7%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [贪官盲目搞开发致债务剧增超千亿](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E7%9B%B2%E7%9B%AE%E6%90%9E%E5%BC%80%E5%8F%91%E8%87%B4%E5%80%BA%E5%8A%A1%E5%89%A7%E5%A2%9E%E8%B6%85%E5%8D%83%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [开门红！几个数字看开年活力](https://www.baidu.com/s?wd=%E5%BC%80%E9%97%A8%E7%BA%A2%EF%BC%81%E5%87%A0%E4%B8%AA%E6%95%B0%E5%AD%97%E7%9C%8B%E5%BC%80%E5%B9%B4%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [球迷吐槽C罗中国行票价虚高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%90%90%E6%A7%BDC%E7%BD%97%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%A5%A8%E4%BB%B7%E8%99%9A%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子千里投案自首 赃物半路被盗](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8D%83%E9%87%8C%E6%8A%95%E6%A1%88%E8%87%AA%E9%A6%96+%E8%B5%83%E7%89%A9%E5%8D%8A%E8%B7%AF%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [全国多地景区官宣：免费](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%99%AF%E5%8C%BA%E5%AE%98%E5%AE%A3%EF%BC%9A%E5%85%8D%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [父母从新疆给远嫁女儿寄50斤羊肉](https://www.baidu.com/s?wd=%E7%88%B6%E6%AF%8D%E4%BB%8E%E6%96%B0%E7%96%86%E7%BB%99%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%84%BF%E5%AF%8450%E6%96%A4%E7%BE%8A%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [全国多地景区官宣：免费](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%99%AF%E5%8C%BA%E5%AE%98%E5%AE%A3%EF%BC%9A%E5%85%8D%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美防长进ICU未及时通报 白宫震惊](https://www.baidu.com/s?wd=%E7%BE%8E%E9%98%B2%E9%95%BF%E8%BF%9BICU%E6%9C%AA%E5%8F%8A%E6%97%B6%E9%80%9A%E6%8A%A5+%E7%99%BD%E5%AE%AB%E9%9C%87%E6%83%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本地震导致部分海域变陆地](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%AF%BC%E8%87%B4%E9%83%A8%E5%88%86%E6%B5%B7%E5%9F%9F%E5%8F%98%E9%99%86%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部:缩短学制取消中考不实](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [贪官盲目搞开发致债务剧增超千亿](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E7%9B%B2%E7%9B%AE%E6%90%9E%E5%BC%80%E5%8F%91%E8%87%B4%E5%80%BA%E5%8A%A1%E5%89%A7%E5%A2%9E%E8%B6%85%E5%8D%83%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [开门红！几个数字看开年活力](https://www.baidu.com/s?wd=%E5%BC%80%E9%97%A8%E7%BA%A2%EF%BC%81%E5%87%A0%E4%B8%AA%E6%95%B0%E5%AD%97%E7%9C%8B%E5%BC%80%E5%B9%B4%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [球迷吐槽C罗中国行票价虚高](https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%90%90%E6%A7%BDC%E7%BD%97%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%A5%A8%E4%BB%B7%E8%99%9A%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子千里投案自首 赃物半路被盗](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8D%83%E9%87%8C%E6%8A%95%E6%A1%88%E8%87%AA%E9%A6%96+%E8%B5%83%E7%89%A9%E5%8D%8A%E8%B7%AF%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [全国多地景区官宣：免费](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%99%AF%E5%8C%BA%E5%AE%98%E5%AE%A3%EF%BC%9A%E5%85%8D%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [父母从新疆给远嫁女儿寄50斤羊肉](https://www.baidu.com/s?wd=%E7%88%B6%E6%AF%8D%E4%BB%8E%E6%96%B0%E7%96%86%E7%BB%99%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%84%BF%E5%AF%8450%E6%96%A4%E7%BE%8A%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [全国多地景区官宣：免费](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%99%AF%E5%8C%BA%E5%AE%98%E5%AE%A3%EF%BC%9A%E5%85%8D%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美防长进ICU未及时通报 白宫震惊](https://www.baidu.com/s?wd=%E7%BE%8E%E9%98%B2%E9%95%BF%E8%BF%9BICU%E6%9C%AA%E5%8F%8A%E6%97%B6%E9%80%9A%E6%8A%A5+%E7%99%BD%E5%AE%AB%E9%9C%87%E6%83%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本地震导致部分海域变陆地](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%AF%BC%E8%87%B4%E9%83%A8%E5%88%86%E6%B5%B7%E5%9F%9F%E5%8F%98%E9%99%86%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部:缩短学制取消中考不实](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%3A%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
