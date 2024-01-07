@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 21:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 21:05:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [国产首艘大型邮轮顺利完成首航](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E9%A6%96%E8%89%98%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%E9%A1%BA%E5%88%A9%E5%AE%8C%E6%88%90%E9%A6%96%E8%88%AA%23&t=31&band_rank=3&Refer=top)<br />
 4. [胡歌辛芷蕾繁花吻戏](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%B9%81%E8%8A%B1%E5%90%BB%E6%88%8F%23&t=31&band_rank=4&Refer=top)<br />
 5. [海南警方 可以不懂爱情但要学会文明](https://s.weibo.com/weibo?q=%E6%B5%B7%E5%8D%97%E8%AD%A6%E6%96%B9%20%E5%8F%AF%E4%BB%A5%E4%B8%8D%E6%87%82%E7%88%B1%E6%83%85%E4%BD%86%E8%A6%81%E5%AD%A6%E4%BC%9A%E6%96%87%E6%98%8E&t=31&band_rank=5&Refer=top)<br />
-6. [北京首钢](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E9%A6%96%E9%92%A2&t=31&band_rank=6&Refer=top)<br />
-7. [父母从新疆给远嫁女儿寄50斤羊肉](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E4%BB%8E%E6%96%B0%E7%96%86%E7%BB%99%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%84%BF%E5%AF%8450%E6%96%A4%E7%BE%8A%E8%82%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [李李身世之谜](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%9D%8E%E8%BA%AB%E4%B8%96%E4%B9%8B%E8%B0%9C&t=31&band_rank=8&Refer=top)<br />
+6. [A先生跳海](https://s.weibo.com/weibo?q=A%E5%85%88%E7%94%9F%E8%B7%B3%E6%B5%B7&t=31&band_rank=6&Refer=top)<br />
+7. [北京首钢](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E9%A6%96%E9%92%A2&t=31&band_rank=7&Refer=top)<br />
+8. [父母从新疆给远嫁女儿寄50斤羊肉](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E4%BB%8E%E6%96%B0%E7%96%86%E7%BB%99%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%84%BF%E5%AF%8450%E6%96%A4%E7%BE%8A%E8%82%89%23&t=31&band_rank=8&Refer=top)<br />
 9. [大家都在午睡只有他在苦心钻研国粹](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AE%B6%E9%83%BD%E5%9C%A8%E5%8D%88%E7%9D%A1%E5%8F%AA%E6%9C%89%E4%BB%96%E5%9C%A8%E8%8B%A6%E5%BF%83%E9%92%BB%E7%A0%94%E5%9B%BD%E7%B2%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
