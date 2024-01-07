@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 23:06:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 23:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [A先生跳海](https://s.weibo.com/weibo?q=A%E5%85%88%E7%94%9F%E8%B7%B3%E6%B5%B7&t=31&band_rank=6&Refer=top)<br />
 7. [韩国好丽友蛋黄派检出金黄色葡萄球菌](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A5%BD%E4%B8%BD%E5%8F%8B%E8%9B%8B%E9%BB%84%E6%B4%BE%E6%A3%80%E5%87%BA%E9%87%91%E9%BB%84%E8%89%B2%E8%91%A1%E8%90%84%E7%90%83%E8%8F%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘亦菲 唐嫣是最好的汪小姐](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%94%90%E5%AB%A3%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%B1%AA%E5%B0%8F%E5%A7%90&t=31&band_rank=8&Refer=top)<br />
-9. [影评人说赵丽颖花千骨灵动鲜活](https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%AF%84%E4%BA%BA%E8%AF%B4%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%8A%B1%E5%8D%83%E9%AA%A8%E7%81%B5%E5%8A%A8%E9%B2%9C%E6%B4%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘诗诗靠张云龙肩膀路透](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E9%9D%A0%E5%BC%A0%E4%BA%91%E9%BE%99%E8%82%A9%E8%86%80%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
