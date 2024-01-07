@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 20:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 20:55:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [北京首钢](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E9%A6%96%E9%92%A2&t=31&band_rank=5&Refer=top)<br />
 6. [父母从新疆给远嫁女儿寄50斤羊肉](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E4%BB%8E%E6%96%B0%E7%96%86%E7%BB%99%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%84%BF%E5%AF%8450%E6%96%A4%E7%BE%8A%E8%82%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [大家都在午睡只有他在苦心钻研国粹](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AE%B6%E9%83%BD%E5%9C%A8%E5%8D%88%E7%9D%A1%E5%8F%AA%E6%9C%89%E4%BB%96%E5%9C%A8%E8%8B%A6%E5%BF%83%E9%92%BB%E7%A0%94%E5%9B%BD%E7%B2%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [第一部国产偶像剧男主是陈龙](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E9%83%A8%E5%9B%BD%E4%BA%A7%E5%81%B6%E5%83%8F%E5%89%A7%E7%94%B7%E4%B8%BB%E6%98%AF%E9%99%88%E9%BE%99%23&t=31&band_rank=8&Refer=top)<br />
+8. [李李身世之谜](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%9D%8E%E8%BA%AB%E4%B8%96%E4%B9%8B%E8%B0%9C&t=31&band_rank=8&Refer=top)<br />
 9. [京东联名卡 抢不到](https://s.weibo.com/weibo?q=%E4%BA%AC%E4%B8%9C%E8%81%94%E5%90%8D%E5%8D%A1%20%E6%8A%A2%E4%B8%8D%E5%88%B0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
