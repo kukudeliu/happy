@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 20:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 20:44:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [海南警方 可以不懂爱情但要学会文明](https://s.weibo.com/weibo?q=%E6%B5%B7%E5%8D%97%E8%AD%A6%E6%96%B9%20%E5%8F%AF%E4%BB%A5%E4%B8%8D%E6%87%82%E7%88%B1%E6%83%85%E4%BD%86%E8%A6%81%E5%AD%A6%E4%BC%9A%E6%96%87%E6%98%8E&t=31&band_rank=4&Refer=top)<br />
 5. [北京首钢](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E9%A6%96%E9%92%A2&t=31&band_rank=5&Refer=top)<br />
 6. [父母从新疆给远嫁女儿寄50斤羊肉](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E4%BB%8E%E6%96%B0%E7%96%86%E7%BB%99%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%84%BF%E5%AF%8450%E6%96%A4%E7%BE%8A%E8%82%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [酒鬼去汪星了](https://s.weibo.com/weibo?q=%E9%85%92%E9%AC%BC%E5%8E%BB%E6%B1%AA%E6%98%9F%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [第一部国产偶像剧男主是陈龙](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E9%83%A8%E5%9B%BD%E4%BA%A7%E5%81%B6%E5%83%8F%E5%89%A7%E7%94%B7%E4%B8%BB%E6%98%AF%E9%99%88%E9%BE%99%23&t=31&band_rank=8&Refer=top)<br />
+7. [第一部国产偶像剧男主是陈龙](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E9%83%A8%E5%9B%BD%E4%BA%A7%E5%81%B6%E5%83%8F%E5%89%A7%E7%94%B7%E4%B8%BB%E6%98%AF%E9%99%88%E9%BE%99%23&t=31&band_rank=7&Refer=top)<br />
+8. [酒鬼去汪星了](https://s.weibo.com/weibo?q=%E9%85%92%E9%AC%BC%E5%8E%BB%E6%B1%AA%E6%98%9F%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [王心凌 纯白圣女](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%BF%83%E5%87%8C%20%E7%BA%AF%E7%99%BD%E5%9C%A3%E5%A5%B3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
