@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 07:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 07:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [贪官花40多万元建了条500米断头路](https://s.weibo.com/weibo?q=%23%E8%B4%AA%E5%AE%98%E8%8A%B140%E5%A4%9A%E4%B8%87%E5%85%83%E5%BB%BA%E4%BA%86%E6%9D%A1500%E7%B1%B3%E6%96%AD%E5%A4%B4%E8%B7%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么年轻人不爱用信用卡了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E7%88%B1%E7%94%A8%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [涉事公司回应女高管违法开除员工](https://s.weibo.com/weibo?q=%23%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E5%A5%B3%E9%AB%98%E7%AE%A1%E8%BF%9D%E6%B3%95%E5%BC%80%E9%99%A4%E5%91%98%E5%B7%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [干掉蜜雪冰城的是旁边的蜜雪冰城](https://s.weibo.com/weibo?q=%23%E5%B9%B2%E6%8E%89%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E7%9A%84%E6%98%AF%E6%97%81%E8%BE%B9%E7%9A%84%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%23&t=31&band_rank=9&Refer=top)<br />
+9. [首钢辟谣网传女高管违法开除员工](https://s.weibo.com/weibo?q=%23%E9%A6%96%E9%92%A2%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E5%A5%B3%E9%AB%98%E7%AE%A1%E8%BF%9D%E6%B3%95%E5%BC%80%E9%99%A4%E5%91%98%E5%B7%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
