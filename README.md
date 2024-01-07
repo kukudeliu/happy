@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 14:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 14:42:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [庄嫂摔碗 郑恺关门](https://s.weibo.com/weibo?q=%E5%BA%84%E5%AB%82%E6%91%94%E7%A2%97%20%E9%83%91%E6%81%BA%E5%85%B3%E9%97%A8&t=31&band_rank=5&Refer=top)<br />
 6. [辛芷蕾因绣春刀被王家卫选中](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%A0%E7%BB%A3%E6%98%A5%E5%88%80%E8%A2%AB%E7%8E%8B%E5%AE%B6%E5%8D%AB%E9%80%89%E4%B8%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [钟楚曦侯雯元吻戏](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E4%BE%AF%E9%9B%AF%E5%85%83%E5%90%BB%E6%88%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [尔滨送女生1000克拉冰钻戒](https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E9%80%81%E5%A5%B3%E7%94%9F1000%E5%85%8B%E6%8B%89%E5%86%B0%E9%92%BB%E6%88%92%23&t=31&band_rank=8&Refer=top)<br />
+8. [有必要将义务教育延长至12年吗](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%BF%85%E8%A6%81%E5%B0%86%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E5%BB%B6%E9%95%BF%E8%87%B312%E5%B9%B4%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [国考成绩 等一个奇迹](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%20%E7%AD%89%E4%B8%80%E4%B8%AA%E5%A5%87%E8%BF%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -19,22 +19,22 @@
 
 1. [中南海2023年刊•外交篇](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E6%B5%B72023%E5%B9%B4%E5%88%8A%E2%80%A2%E5%A4%96%E4%BA%A4%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [当前军队反腐败斗争取得压倒性胜利](https://www.baidu.com/s?wd=%E5%BD%93%E5%89%8D%E5%86%9B%E9%98%9F%E5%8F%8D%E8%85%90%E8%B4%A5%E6%96%97%E4%BA%89%E5%8F%96%E5%BE%97%E5%8E%8B%E5%80%92%E6%80%A7%E8%83%9C%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [专家建议取消大城市买房买车限制](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%A4%A7%E5%9F%8E%E5%B8%82%E4%B9%B0%E6%88%BF%E4%B9%B0%E8%BD%A6%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [马斯克被曝长期吸毒 律师否认](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A2%AB%E6%9B%9D%E9%95%BF%E6%9C%9F%E5%90%B8%E6%AF%92+%E5%BE%8B%E5%B8%88%E5%90%A6%E8%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从“小包裹”里看中国经济活力](https://www.baidu.com/s?wd=%E4%BB%8E%E2%80%9C%E5%B0%8F%E5%8C%85%E8%A3%B9%E2%80%9D%E9%87%8C%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [富二代执掌公司7年亏损32亿](https://www.baidu.com/s?wd=%E5%AF%8C%E4%BA%8C%E4%BB%A3%E6%89%A7%E6%8E%8C%E5%85%AC%E5%8F%B87%E5%B9%B4%E4%BA%8F%E6%8D%9F32%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [专家建议取消大城市买房买车限制](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%A4%A7%E5%9F%8E%E5%B8%82%E4%B9%B0%E6%88%BF%E4%B9%B0%E8%BD%A6%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子拍完写真全身痒到抓出血](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8B%8D%E5%AE%8C%E5%86%99%E7%9C%9F%E5%85%A8%E8%BA%AB%E7%97%92%E5%88%B0%E6%8A%93%E5%87%BA%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [主播展示百万帝王绿翡翠手滑掉河里](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E5%B1%95%E7%A4%BA%E7%99%BE%E4%B8%87%E5%B8%9D%E7%8E%8B%E7%BB%BF%E7%BF%A1%E7%BF%A0%E6%89%8B%E6%BB%91%E6%8E%89%E6%B2%B3%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [砂糖橘东北睡1宿变果脯](https://www.baidu.com/s?wd=%E7%A0%82%E7%B3%96%E6%A9%98%E4%B8%9C%E5%8C%97%E7%9D%A11%E5%AE%BF%E5%8F%98%E6%9E%9C%E8%84%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [3同学出车祸开车同学遭索赔59万](https://www.baidu.com/s?wd=3%E5%90%8C%E5%AD%A6%E5%87%BA%E8%BD%A6%E7%A5%B8%E5%BC%80%E8%BD%A6%E5%90%8C%E5%AD%A6%E9%81%AD%E7%B4%A2%E8%B5%9459%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吃味精会让人“头秃”？](https://www.baidu.com/s?wd=%E5%90%83%E5%91%B3%E7%B2%BE%E4%BC%9A%E8%AE%A9%E4%BA%BA%E2%80%9C%E5%A4%B4%E7%A7%83%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [中南海2023年刊•外交篇](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E6%B5%B72023%E5%B9%B4%E5%88%8A%E2%80%A2%E5%A4%96%E4%BA%A4%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [当前军队反腐败斗争取得压倒性胜利](https://www.baidu.com/s?wd=%E5%BD%93%E5%89%8D%E5%86%9B%E9%98%9F%E5%8F%8D%E8%85%90%E8%B4%A5%E6%96%97%E4%BA%89%E5%8F%96%E5%BE%97%E5%8E%8B%E5%80%92%E6%80%A7%E8%83%9C%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [专家建议取消大城市买房买车限制](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%A4%A7%E5%9F%8E%E5%B8%82%E4%B9%B0%E6%88%BF%E4%B9%B0%E8%BD%A6%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [马斯克被曝长期吸毒 律师否认](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A2%AB%E6%9B%9D%E9%95%BF%E6%9C%9F%E5%90%B8%E6%AF%92+%E5%BE%8B%E5%B8%88%E5%90%A6%E8%AE%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [从“小包裹”里看中国经济活力](https://www.baidu.com/s?wd=%E4%BB%8E%E2%80%9C%E5%B0%8F%E5%8C%85%E8%A3%B9%E2%80%9D%E9%87%8C%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [富二代执掌公司7年亏损32亿](https://www.baidu.com/s?wd=%E5%AF%8C%E4%BA%8C%E4%BB%A3%E6%89%A7%E6%8E%8C%E5%85%AC%E5%8F%B87%E5%B9%B4%E4%BA%8F%E6%8D%9F32%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [专家建议取消大城市买房买车限制](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%A4%A7%E5%9F%8E%E5%B8%82%E4%B9%B0%E6%88%BF%E4%B9%B0%E8%BD%A6%E9%99%90%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子拍完写真全身痒到抓出血](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8B%8D%E5%AE%8C%E5%86%99%E7%9C%9F%E5%85%A8%E8%BA%AB%E7%97%92%E5%88%B0%E6%8A%93%E5%87%BA%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [主播展示百万帝王绿翡翠手滑掉河里](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E5%B1%95%E7%A4%BA%E7%99%BE%E4%B8%87%E5%B8%9D%E7%8E%8B%E7%BB%BF%E7%BF%A1%E7%BF%A0%E6%89%8B%E6%BB%91%E6%8E%89%E6%B2%B3%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [砂糖橘东北睡1宿变果脯](https://www.baidu.com/s?wd=%E7%A0%82%E7%B3%96%E6%A9%98%E4%B8%9C%E5%8C%97%E7%9D%A11%E5%AE%BF%E5%8F%98%E6%9E%9C%E8%84%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [3同学出车祸开车同学遭索赔59万](https://www.baidu.com/s?wd=3%E5%90%8C%E5%AD%A6%E5%87%BA%E8%BD%A6%E7%A5%B8%E5%BC%80%E8%BD%A6%E5%90%8C%E5%AD%A6%E9%81%AD%E7%B4%A2%E8%B5%9459%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吃味精会让人“头秃”？](https://www.baidu.com/s?wd=%E5%90%83%E5%91%B3%E7%B2%BE%E4%BC%9A%E8%AE%A9%E4%BA%BA%E2%80%9C%E5%A4%B4%E7%A7%83%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
