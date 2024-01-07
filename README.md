@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 12:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 12:10:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [贪官太嚣张另一个贪官都看不下去了](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E5%A4%AA%E5%9A%A3%E5%BC%A0%E5%8F%A6%E4%B8%80%E4%B8%AA%E8%B4%AA%E5%AE%98%E9%83%BD%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女孩骨折忍痛赶飞机邻座是骨科主任](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%AA%A8%E6%8A%98%E5%BF%8D%E7%97%9B%E8%B5%B6%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E6%98%AF%E9%AA%A8%E7%A7%91%E4%B8%BB%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [复旦留美流浪博士已换新衣并剪短发](https://www.baidu.com/s?wd=%E5%A4%8D%E6%97%A6%E7%95%99%E7%BE%8E%E6%B5%81%E6%B5%AA%E5%8D%9A%E5%A3%AB%E5%B7%B2%E6%8D%A2%E6%96%B0%E8%A1%A3%E5%B9%B6%E5%89%AA%E7%9F%AD%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本强震后局地土壤液化](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E5%90%8E%E5%B1%80%E5%9C%B0%E5%9C%9F%E5%A3%A4%E6%B6%B2%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [狗狗偷咬主人被抓包急忙捂嘴](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E5%81%B7%E5%92%AC%E4%B8%BB%E4%BA%BA%E8%A2%AB%E6%8A%93%E5%8C%85%E6%80%A5%E5%BF%99%E6%8D%82%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吃味精会让人“头秃”？](https://www.baidu.com/s?wd=%E5%90%83%E5%91%B3%E7%B2%BE%E4%BC%9A%E8%AE%A9%E4%BA%BA%E2%80%9C%E5%A4%B4%E7%A7%83%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [贪官太嚣张另一个贪官都看不下去了](https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E5%A4%AA%E5%9A%A3%E5%BC%A0%E5%8F%A6%E4%B8%80%E4%B8%AA%E8%B4%AA%E5%AE%98%E9%83%BD%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女孩骨折忍痛赶飞机邻座是骨科主任](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E9%AA%A8%E6%8A%98%E5%BF%8D%E7%97%9B%E8%B5%B6%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E6%98%AF%E9%AA%A8%E7%A7%91%E4%B8%BB%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [复旦留美流浪博士已换新衣并剪短发](https://www.baidu.com/s?wd=%E5%A4%8D%E6%97%A6%E7%95%99%E7%BE%8E%E6%B5%81%E6%B5%AA%E5%8D%9A%E5%A3%AB%E5%B7%B2%E6%8D%A2%E6%96%B0%E8%A1%A3%E5%B9%B6%E5%89%AA%E7%9F%AD%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本强震后局地土壤液化](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E5%90%8E%E5%B1%80%E5%9C%B0%E5%9C%9F%E5%A3%A4%E6%B6%B2%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [狗狗偷咬主人被抓包急忙捂嘴](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E5%81%B7%E5%92%AC%E4%B8%BB%E4%BA%BA%E8%A2%AB%E6%8A%93%E5%8C%85%E6%80%A5%E5%BF%99%E6%8D%82%E5%98%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吃味精会让人“头秃”？](https://www.baidu.com/s?wd=%E5%90%83%E5%91%B3%E7%B2%BE%E4%BC%9A%E8%AE%A9%E4%BA%BA%E2%80%9C%E5%A4%B4%E7%A7%83%E2%80%9D%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
