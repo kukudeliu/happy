@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 12:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 12:15:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [四川省考 做不完根本做不完](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E7%9C%81%E8%80%83%20%E5%81%9A%E4%B8%8D%E5%AE%8C%E6%A0%B9%E6%9C%AC%E5%81%9A%E4%B8%8D%E5%AE%8C&t=31&band_rank=5&Refer=top)<br />
 6. [辛芷蕾因绣春刀被王家卫选中](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%A0%E7%BB%A3%E6%98%A5%E5%88%80%E8%A2%AB%E7%8E%8B%E5%AE%B6%E5%8D%AB%E9%80%89%E4%B8%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [厌食症 早起](https://s.weibo.com/weibo?q=%E5%8E%8C%E9%A3%9F%E7%97%87%20%E6%97%A9%E8%B5%B7&t=31&band_rank=7&Refer=top)<br />
-8. [四川省考 数量全靠蒙](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E7%9C%81%E8%80%83%20%E6%95%B0%E9%87%8F%E5%85%A8%E9%9D%A0%E8%92%99&t=31&band_rank=8&Refer=top)<br />
-9. [订婚3年后男子反悔索要18万彩礼](https://s.weibo.com/weibo?q=%23%E8%AE%A2%E5%A9%9A3%E5%B9%B4%E5%90%8E%E7%94%B7%E5%AD%90%E5%8F%8D%E6%82%94%E7%B4%A2%E8%A6%8118%E4%B8%87%E5%BD%A9%E7%A4%BC%23&t=31&band_rank=9&Refer=top)<br />
+8. [浙大一院半月接收47名围炉煮茶中毒患者](https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E4%B8%80%E9%99%A2%E5%8D%8A%E6%9C%88%E6%8E%A5%E6%94%B647%E5%90%8D%E5%9B%B4%E7%82%89%E7%85%AE%E8%8C%B6%E4%B8%AD%E6%AF%92%E6%82%A3%E8%80%85%23&t=31&band_rank=8&Refer=top)<br />
+9. [四川省考 数量全靠蒙](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E7%9C%81%E8%80%83%20%E6%95%B0%E9%87%8F%E5%85%A8%E9%9D%A0%E8%92%99&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
