@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 17:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 17:28:01</h4></div>
 
 > 微博  
 
-1. [爸爸说台湾宝宝在哈尔滨叫小当归](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%AF%B4%E5%8F%B0%E6%B9%BE%E5%AE%9D%E5%AE%9D%E5%9C%A8%E5%93%88%E5%B0%94%E6%BB%A8%E5%8F%AB%E5%B0%8F%E5%BD%93%E5%BD%92%23&t=31&band_rank=1&Refer=top)<br />
-2. [第一部国产偶像剧男主是陈龙](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E9%83%A8%E5%9B%BD%E4%BA%A7%E5%81%B6%E5%83%8F%E5%89%A7%E7%94%B7%E4%B8%BB%E6%98%AF%E9%99%88%E9%BE%99%23&t=31&band_rank=2&Refer=top)<br />
+1. [第一部国产偶像剧男主是陈龙](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E9%83%A8%E5%9B%BD%E4%BA%A7%E5%81%B6%E5%83%8F%E5%89%A7%E7%94%B7%E4%B8%BB%E6%98%AF%E9%99%88%E9%BE%99%23&t=31&band_rank=1&Refer=top)<br />
+2. [爸爸说台湾宝宝在哈尔滨叫小当归](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%AF%B4%E5%8F%B0%E6%B9%BE%E5%AE%9D%E5%AE%9D%E5%9C%A8%E5%93%88%E5%B0%94%E6%BB%A8%E5%8F%AB%E5%B0%8F%E5%BD%93%E5%BD%92%23&t=31&band_rank=2&Refer=top)<br />
 3. [东部战区新年开飞高燃画面](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E6%96%B0%E5%B9%B4%E5%BC%80%E9%A3%9E%E9%AB%98%E7%87%83%E7%94%BB%E9%9D%A2%23&t=31&band_rank=3&Refer=top)<br />
 4. [主播展示百万帝王绿翡翠手滑掉河里](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E5%B1%95%E7%A4%BA%E7%99%BE%E4%B8%87%E5%B8%9D%E7%8E%8B%E7%BB%BF%E7%BF%A1%E7%BF%A0%E6%89%8B%E6%BB%91%E6%8E%89%E6%B2%B3%E9%87%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [东北人保密意识真好](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E4%BA%BA%E4%BF%9D%E5%AF%86%E6%84%8F%E8%AF%86%E7%9C%9F%E5%A5%BD%23&t=31&band_rank=5&Refer=top)<br />
