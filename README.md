@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 20:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 20:11:02</h4></div>
 
 > 微博  
 
 1. [刘亦菲 唐嫣是最好的汪小姐](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%94%90%E5%AB%A3%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%B1%AA%E5%B0%8F%E5%A7%90&t=31&band_rank=1&Refer=top)<br />
 2. [国考 给个痛快吧](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%20%E7%BB%99%E4%B8%AA%E7%97%9B%E5%BF%AB%E5%90%A7&t=31&band_rank=2&Refer=top)<br />
 3. [东部战区新年开飞高燃画面](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E6%96%B0%E5%B9%B4%E5%BC%80%E9%A3%9E%E9%AB%98%E7%87%83%E7%94%BB%E9%9D%A2%23&t=31&band_rank=3&Refer=top)<br />
-4. [日本地震导致部分海域变陆地](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%AF%BC%E8%87%B4%E9%83%A8%E5%88%86%E6%B5%B7%E5%9F%9F%E5%8F%98%E9%99%86%E5%9C%B0%23&t=31&band_rank=4&Refer=top)<br />
-5. [酒鬼去汪星了](https://s.weibo.com/weibo?q=%E9%85%92%E9%AC%BC%E5%8E%BB%E6%B1%AA%E6%98%9F%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
+4. [酒鬼去汪星了](https://s.weibo.com/weibo?q=%E9%85%92%E9%AC%BC%E5%8E%BB%E6%B1%AA%E6%98%9F%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
+5. [日本地震导致部分海域变陆地](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%AF%BC%E8%87%B4%E9%83%A8%E5%88%86%E6%B5%B7%E5%9F%9F%E5%8F%98%E9%99%86%E5%9C%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [海南警方 可以不懂爱情但要学会文明](https://s.weibo.com/weibo?q=%E6%B5%B7%E5%8D%97%E8%AD%A6%E6%96%B9%20%E5%8F%AF%E4%BB%A5%E4%B8%8D%E6%87%82%E7%88%B1%E6%83%85%E4%BD%86%E8%A6%81%E5%AD%A6%E4%BC%9A%E6%96%87%E6%98%8E&t=31&band_rank=6&Refer=top)<br />
 7. [北京首钢](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E9%A6%96%E9%92%A2&t=31&band_rank=7&Refer=top)<br />
 8. [王心凌 纯白圣女](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%BF%83%E5%87%8C%20%E7%BA%AF%E7%99%BD%E5%9C%A3%E5%A5%B3&t=31&band_rank=8&Refer=top)<br />
