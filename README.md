@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 01:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 01:32:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [复旦流浪博士已与家乡取得联系](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E6%B5%81%E6%B5%AA%E5%8D%9A%E5%A3%AB%E5%B7%B2%E4%B8%8E%E5%AE%B6%E4%B9%A1%E5%8F%96%E5%BE%97%E8%81%94%E7%B3%BB%23&t=31&band_rank=2&Refer=top)<br />
 3. [全国各地开年即开跑](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E5%BC%80%E5%B9%B4%E5%8D%B3%E5%BC%80%E8%B7%91%23&t=31&band_rank=3&Refer=top)<br />
 4. [为什么年轻人不爱用信用卡了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E7%88%B1%E7%94%A8%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [A先生说辛芷蕾本人很漂亮](https://s.weibo.com/weibo?q=%23A%E5%85%88%E7%94%9F%E8%AF%B4%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%9C%AC%E4%BA%BA%E5%BE%88%E6%BC%82%E4%BA%AE%23&t=31&band_rank=5&Refer=top)<br />
+5. [A先生跳海](https://s.weibo.com/weibo?q=A%E5%85%88%E7%94%9F%E8%B7%B3%E6%B5%B7&t=31&band_rank=5&Refer=top)<br />
 6. [干掉蜜雪冰城的是旁边的蜜雪冰城](https://s.weibo.com/weibo?q=%23%E5%B9%B2%E6%8E%89%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E7%9A%84%E6%98%AF%E6%97%81%E8%BE%B9%E7%9A%84%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%23&t=31&band_rank=6&Refer=top)<br />
-7. [A先生跳海](https://s.weibo.com/weibo?q=A%E5%85%88%E7%94%9F%E8%B7%B3%E6%B5%B7&t=31&band_rank=7&Refer=top)<br />
+7. [A先生说辛芷蕾本人很漂亮](https://s.weibo.com/weibo?q=%23A%E5%85%88%E7%94%9F%E8%AF%B4%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%9C%AC%E4%BA%BA%E5%BE%88%E6%BC%82%E4%BA%AE%23&t=31&band_rank=7&Refer=top)<br />
 8. [贪官花40多万元建了条500米断头路](https://s.weibo.com/weibo?q=%23%E8%B4%AA%E5%AE%98%E8%8A%B140%E5%A4%9A%E4%B8%87%E5%85%83%E5%BB%BA%E4%BA%86%E6%9D%A1500%E7%B1%B3%E6%96%AD%E5%A4%B4%E8%B7%AF%23&t=31&band_rank=8&Refer=top)<br />
 9. [天启异闻录 烂尾](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%90%AF%E5%BC%82%E9%97%BB%E5%BD%95%20%E7%83%82%E5%B0%BE&t=31&band_rank=9&Refer=top)<br />
 
