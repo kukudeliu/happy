@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 13:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-07 13:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [教育部辟谣缩短学制取消中考](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [微博之夜第四波官宣阵容](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E7%AC%AC%E5%9B%9B%E6%B3%A2%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [国考成绩 等一个奇迹](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%20%E7%AD%89%E4%B8%80%E4%B8%AA%E5%A5%87%E8%BF%B9&t=31&band_rank=8&Refer=top)<br />
-9. [四川省考 考场没钟表](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E7%9C%81%E8%80%83%20%E8%80%83%E5%9C%BA%E6%B2%A1%E9%92%9F%E8%A1%A8&t=31&band_rank=9&Refer=top)<br />
+9. [女孩骨折忍痛赶飞机邻座是骨科主任](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AA%A8%E6%8A%98%E5%BF%8D%E7%97%9B%E8%B5%B6%E9%A3%9E%E6%9C%BA%E9%82%BB%E5%BA%A7%E6%98%AF%E9%AA%A8%E7%A7%91%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
