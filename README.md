@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 09:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 09:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [第一批小东北虎已抵达桂林](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%B0%8F%E4%B8%9C%E5%8C%97%E8%99%8E%E5%B7%B2%E6%8A%B5%E8%BE%BE%E6%A1%82%E6%9E%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [胡歌 爆剧玄学](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%20%E7%88%86%E5%89%A7%E7%8E%84%E5%AD%A6&t=31&band_rank=7&Refer=top)<br />
 8. [公安机关发现余华英其他拐卖犯罪事实](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E5%8F%91%E7%8E%B0%E4%BD%99%E5%8D%8E%E8%8B%B1%E5%85%B6%E4%BB%96%E6%8B%90%E5%8D%96%E7%8A%AF%E7%BD%AA%E4%BA%8B%E5%AE%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [警犬父母生下幼犬取名110](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E7%8A%AC%E7%88%B6%E6%AF%8D%E7%94%9F%E4%B8%8B%E5%B9%BC%E7%8A%AC%E5%8F%96%E5%90%8D110%23&t=31&band_rank=9&Refer=top)<br />
+9. [做哈工大的学生也太幸福了](https://s.weibo.com/weibo?q=%E5%81%9A%E5%93%88%E5%B7%A5%E5%A4%A7%E7%9A%84%E5%AD%A6%E7%94%9F%E4%B9%9F%E5%A4%AA%E5%B9%B8%E7%A6%8F%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
