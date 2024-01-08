@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 01:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 01:40:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [多地上新文旅大礼包](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E4%B8%8A%E6%96%B0%E6%96%87%E6%97%85%E5%A4%A7%E7%A4%BC%E5%8C%85%23&t=31&band_rank=3&Refer=top)<br />
 4. [五官越来越耐看的技巧](https://s.weibo.com/weibo?q=%E4%BA%94%E5%AE%98%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%80%90%E7%9C%8B%E7%9A%84%E6%8A%80%E5%B7%A7&t=31&band_rank=4&Refer=top)<br />
 5. [苦难就是苦难](https://s.weibo.com/weibo?q=%E8%8B%A6%E9%9A%BE%E5%B0%B1%E6%98%AF%E8%8B%A6%E9%9A%BE&t=31&band_rank=5&Refer=top)<br />
-6. [丁俊晖147分](https://s.weibo.com/weibo?q=%E4%B8%81%E4%BF%8A%E6%99%96147%E5%88%86&t=31&band_rank=6&Refer=top)<br />
-7. [爷叔给宝总上的最后一课](https://s.weibo.com/weibo?q=%23%E7%88%B7%E5%8F%94%E7%BB%99%E5%AE%9D%E6%80%BB%E4%B8%8A%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [鞠婧祎宋威龙咬唇吻](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%AE%8B%E5%A8%81%E9%BE%99%E5%92%AC%E5%94%87%E5%90%BB%23&t=31&band_rank=8&Refer=top)<br />
+6. [爷叔给宝总上的最后一课](https://s.weibo.com/weibo?q=%23%E7%88%B7%E5%8F%94%E7%BB%99%E5%AE%9D%E6%80%BB%E4%B8%8A%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%23&t=31&band_rank=6&Refer=top)<br />
+7. [鞠婧祎宋威龙咬唇吻](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%AE%8B%E5%A8%81%E9%BE%99%E5%92%AC%E5%94%87%E5%90%BB%23&t=31&band_rank=7&Refer=top)<br />
+8. [丁俊晖147分](https://s.weibo.com/weibo?q=%E4%B8%81%E4%BF%8A%E6%99%96147%E5%88%86&t=31&band_rank=8&Refer=top)<br />
 9. [吃葡萄柚是一件很私人的事](https://s.weibo.com/weibo?q=%23%E5%90%83%E8%91%A1%E8%90%84%E6%9F%9A%E6%98%AF%E4%B8%80%E4%BB%B6%E5%BE%88%E7%A7%81%E4%BA%BA%E7%9A%84%E4%BA%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,8 +23,8 @@
 4. [各地乡村振兴玩出“新花样”](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E7%8E%A9%E5%87%BA%E2%80%9C%E6%96%B0%E8%8A%B1%E6%A0%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [辛芷蕾：拍了3年才知道李李的结局](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%EF%BC%9A%E6%8B%8D%E4%BA%863%E5%B9%B4%E6%89%8D%E7%9F%A5%E9%81%93%E6%9D%8E%E6%9D%8E%E7%9A%84%E7%BB%93%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [掉入河道的翡翠蛋面已找到](https://www.baidu.com/s?wd=%E6%8E%89%E5%85%A5%E6%B2%B3%E9%81%93%E7%9A%84%E7%BF%A1%E7%BF%A0%E8%9B%8B%E9%9D%A2%E5%B7%B2%E6%89%BE%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [范湉湉扇胡歌巴掌“一条过”](https://www.baidu.com/s?wd=%E8%8C%83%E6%B9%89%E6%B9%89%E6%89%87%E8%83%A1%E6%AD%8C%E5%B7%B4%E6%8E%8C%E2%80%9C%E4%B8%80%E6%9D%A1%E8%BF%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国一男子裸身跳水族馆鱼缸被捕](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%94%B7%E5%AD%90%E8%A3%B8%E8%BA%AB%E8%B7%B3%E6%B0%B4%E6%97%8F%E9%A6%86%E9%B1%BC%E7%BC%B8%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [致7死武校投毒案宣判：两被告获死刑](https://www.baidu.com/s?wd=%E8%87%B47%E6%AD%BB%E6%AD%A6%E6%A0%A1%E6%8A%95%E6%AF%92%E6%A1%88%E5%AE%A3%E5%88%A4%EF%BC%9A%E4%B8%A4%E8%A2%AB%E5%91%8A%E8%8E%B7%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡歌说要为唐嫣这次表演鼓掌](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E8%AF%B4%E8%A6%81%E4%B8%BA%E5%94%90%E5%AB%A3%E8%BF%99%E6%AC%A1%E8%A1%A8%E6%BC%94%E9%BC%93%E6%8E%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [各地乡村振兴玩出“新花样”](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E7%8E%A9%E5%87%BA%E2%80%9C%E6%96%B0%E8%8A%B1%E6%A0%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [辛芷蕾：拍了3年才知道李李的结局](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%EF%BC%9A%E6%8B%8D%E4%BA%863%E5%B9%B4%E6%89%8D%E7%9F%A5%E9%81%93%E6%9D%8E%E6%9D%8E%E7%9A%84%E7%BB%93%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [掉入河道的翡翠蛋面已找到](https://www.baidu.com/s?wd=%E6%8E%89%E5%85%A5%E6%B2%B3%E9%81%93%E7%9A%84%E7%BF%A1%E7%BF%A0%E8%9B%8B%E9%9D%A2%E5%B7%B2%E6%89%BE%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [范湉湉扇胡歌巴掌“一条过”](https://www.baidu.com/s?wd=%E8%8C%83%E6%B9%89%E6%B9%89%E6%89%87%E8%83%A1%E6%AD%8C%E5%B7%B4%E6%8E%8C%E2%80%9C%E4%B8%80%E6%9D%A1%E8%BF%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国一男子裸身跳水族馆鱼缸被捕](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%94%B7%E5%AD%90%E8%A3%B8%E8%BA%AB%E8%B7%B3%E6%B0%B4%E6%97%8F%E9%A6%86%E9%B1%BC%E7%BC%B8%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [致7死武校投毒案宣判：两被告获死刑](https://www.baidu.com/s?wd=%E8%87%B47%E6%AD%BB%E6%AD%A6%E6%A0%A1%E6%8A%95%E6%AF%92%E6%A1%88%E5%AE%A3%E5%88%A4%EF%BC%9A%E4%B8%A4%E8%A2%AB%E5%91%8A%E8%8E%B7%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡歌说要为唐嫣这次表演鼓掌](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E8%AF%B4%E8%A6%81%E4%B8%BA%E5%94%90%E5%AB%A3%E8%BF%99%E6%AC%A1%E8%A1%A8%E6%BC%94%E9%BC%93%E6%8E%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
