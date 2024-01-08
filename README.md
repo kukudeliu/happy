@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 23:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 23:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [mbti新题](https://s.weibo.com/weibo?q=mbti%E6%96%B0%E9%A2%98&t=31&band_rank=5&Refer=top)<br />
 6. [哈尔滨冻草莓都开始按个卖了](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%BB%E8%8D%89%E8%8E%93%E9%83%BD%E5%BC%80%E5%A7%8B%E6%8C%89%E4%B8%AA%E5%8D%96%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [鞠婧祎宋威龙咬唇吻](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%AE%8B%E5%A8%81%E9%BE%99%E5%92%AC%E5%94%87%E5%90%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [专家建议羽绒服要手洗](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A6%81%E6%89%8B%E6%B4%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [五官越来越耐看的技巧](https://s.weibo.com/weibo?q=%E4%BA%94%E5%AE%98%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%80%90%E7%9C%8B%E7%9A%84%E6%8A%80%E5%B7%A7&t=31&band_rank=9&Refer=top)<br />
+8. [五官越来越耐看的技巧](https://s.weibo.com/weibo?q=%E4%BA%94%E5%AE%98%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%80%90%E7%9C%8B%E7%9A%84%E6%8A%80%E5%B7%A7&t=31&band_rank=8&Refer=top)<br />
+9. [专家建议羽绒服要手洗](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A6%81%E6%89%8B%E6%B4%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
