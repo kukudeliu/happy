@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 19:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 19:34:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女子称波司登羽绒服剪开全是碎末](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2023年为有气象记录以来最暖年](https://www.baidu.com/s?wd=2023%E5%B9%B4%E4%B8%BA%E6%9C%89%E6%B0%94%E8%B1%A1%E8%AE%B0%E5%BD%95%E4%BB%A5%E6%9D%A5%E6%9C%80%E6%9A%96%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李国庆称是叶璇想制造爆点](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9B%BD%E5%BA%86%E7%A7%B0%E6%98%AF%E5%8F%B6%E7%92%87%E6%83%B3%E5%88%B6%E9%80%A0%E7%88%86%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [今年起 法国宠物店不再出售猫狗](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E8%B5%B7+%E6%B3%95%E5%9B%BD%E5%AE%A0%E7%89%A9%E5%BA%97%E4%B8%8D%E5%86%8D%E5%87%BA%E5%94%AE%E7%8C%AB%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [常怡去世](https://www.baidu.com/s?wd=%E5%B8%B8%E6%80%A1%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女子称波司登羽绒服剪开全是碎末](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2023年为有气象记录以来最暖年](https://www.baidu.com/s?wd=2023%E5%B9%B4%E4%B8%BA%E6%9C%89%E6%B0%94%E8%B1%A1%E8%AE%B0%E5%BD%95%E4%BB%A5%E6%9D%A5%E6%9C%80%E6%9A%96%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李国庆称是叶璇想制造爆点](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9B%BD%E5%BA%86%E7%A7%B0%E6%98%AF%E5%8F%B6%E7%92%87%E6%83%B3%E5%88%B6%E9%80%A0%E7%88%86%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [今年起 法国宠物店不再出售猫狗](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E8%B5%B7+%E6%B3%95%E5%9B%BD%E5%AE%A0%E7%89%A9%E5%BA%97%E4%B8%8D%E5%86%8D%E5%87%BA%E5%94%AE%E7%8C%AB%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [常怡去世](https://www.baidu.com/s?wd=%E5%B8%B8%E6%80%A1%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
