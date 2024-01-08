@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 05:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 05:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [辛芷蕾：拍了3年才知道李李的结局](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%EF%BC%9A%E6%8B%8D%E4%BA%863%E5%B9%B4%E6%89%8D%E7%9F%A5%E9%81%93%E6%9D%8E%E6%9D%8E%E7%9A%84%E7%BB%93%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [致54死事故细节披露 8层楼4秒成废墟](https://www.baidu.com/s?wd=%E8%87%B454%E6%AD%BB%E4%BA%8B%E6%95%85%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2+8%E5%B1%82%E6%A5%BC4%E7%A7%92%E6%88%90%E5%BA%9F%E5%A2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南方哈士奇到东北拉雪橇狂飙5公里](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%93%88%E5%A3%AB%E5%A5%87%E5%88%B0%E4%B8%9C%E5%8C%97%E6%8B%89%E9%9B%AA%E6%A9%87%E7%8B%82%E9%A3%995%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [叶蓬现身央视春晚彩排 随地吐口香糖](https://www.baidu.com/s?wd=%E5%8F%B6%E8%93%AC%E7%8E%B0%E8%BA%AB%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92+%E9%9A%8F%E5%9C%B0%E5%90%90%E5%8F%A3%E9%A6%99%E7%B3%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湖南长沙倒塌违建房鉴定报告系团购](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E9%95%BF%E6%B2%99%E5%80%92%E5%A1%8C%E8%BF%9D%E5%BB%BA%E6%88%BF%E9%89%B4%E5%AE%9A%E6%8A%A5%E5%91%8A%E7%B3%BB%E5%9B%A2%E8%B4%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [辛芷蕾：拍了3年才知道李李的结局](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%EF%BC%9A%E6%8B%8D%E4%BA%863%E5%B9%B4%E6%89%8D%E7%9F%A5%E9%81%93%E6%9D%8E%E6%9D%8E%E7%9A%84%E7%BB%93%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [致54死事故细节披露 8层楼4秒成废墟](https://www.baidu.com/s?wd=%E8%87%B454%E6%AD%BB%E4%BA%8B%E6%95%85%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2+8%E5%B1%82%E6%A5%BC4%E7%A7%92%E6%88%90%E5%BA%9F%E5%A2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南方哈士奇到东北拉雪橇狂飙5公里](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%93%88%E5%A3%AB%E5%A5%87%E5%88%B0%E4%B8%9C%E5%8C%97%E6%8B%89%E9%9B%AA%E6%A9%87%E7%8B%82%E9%A3%995%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [叶蓬现身央视春晚彩排 随地吐口香糖](https://www.baidu.com/s?wd=%E5%8F%B6%E8%93%AC%E7%8E%B0%E8%BA%AB%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92+%E9%9A%8F%E5%9C%B0%E5%90%90%E5%8F%A3%E9%A6%99%E7%B3%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湖南长沙倒塌违建房鉴定报告系团购](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E9%95%BF%E6%B2%99%E5%80%92%E5%A1%8C%E8%BF%9D%E5%BB%BA%E6%88%BF%E9%89%B4%E5%AE%9A%E6%8A%A5%E5%91%8A%E7%B3%BB%E5%9B%A2%E8%B4%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
