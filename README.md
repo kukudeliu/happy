@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 22:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 22:35:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [各地乡村振兴玩出“新花样”](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E7%8E%A9%E5%87%BA%E2%80%9C%E6%96%B0%E8%8A%B1%E6%A0%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子称波司登羽绒服剪开全是碎末](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [致54死事故细节披露 8层楼4秒成废墟](https://www.baidu.com/s?wd=%E8%87%B454%E6%AD%BB%E4%BA%8B%E6%95%85%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2+8%E5%B1%82%E6%A5%BC4%E7%A7%92%E6%88%90%E5%BA%9F%E5%A2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [专家称短视频或成为珍贵史料](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E7%9F%AD%E8%A7%86%E9%A2%91%E6%88%96%E6%88%90%E4%B8%BA%E7%8F%8D%E8%B4%B5%E5%8F%B2%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [繁花让周末的黄河路大堵车](https://www.baidu.com/s?wd=%E7%B9%81%E8%8A%B1%E8%AE%A9%E5%91%A8%E6%9C%AB%E7%9A%84%E9%BB%84%E6%B2%B3%E8%B7%AF%E5%A4%A7%E5%A0%B5%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [繁花让周末的黄河路大堵车](https://www.baidu.com/s?wd=%E7%B9%81%E8%8A%B1%E8%AE%A9%E5%91%A8%E6%9C%AB%E7%9A%84%E9%BB%84%E6%B2%B3%E8%B7%AF%E5%A4%A7%E5%A0%B5%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [哈尔滨冻草莓都开始按个卖了](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%BB%E8%8D%89%E8%8E%93%E9%83%BD%E5%BC%80%E5%A7%8B%E6%8C%89%E4%B8%AA%E5%8D%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [各地乡村振兴玩出“新花样”](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E7%8E%A9%E5%87%BA%E2%80%9C%E6%96%B0%E8%8A%B1%E6%A0%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子称波司登羽绒服剪开全是碎末](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [致54死事故细节披露 8层楼4秒成废墟](https://www.baidu.com/s?wd=%E8%87%B454%E6%AD%BB%E4%BA%8B%E6%95%85%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2+8%E5%B1%82%E6%A5%BC4%E7%A7%92%E6%88%90%E5%BA%9F%E5%A2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [专家称短视频或成为珍贵史料](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E7%9F%AD%E8%A7%86%E9%A2%91%E6%88%96%E6%88%90%E4%B8%BA%E7%8F%8D%E8%B4%B5%E5%8F%B2%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [繁花让周末的黄河路大堵车](https://www.baidu.com/s?wd=%E7%B9%81%E8%8A%B1%E8%AE%A9%E5%91%A8%E6%9C%AB%E7%9A%84%E9%BB%84%E6%B2%B3%E8%B7%AF%E5%A4%A7%E5%A0%B5%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [繁花让周末的黄河路大堵车](https://www.baidu.com/s?wd=%E7%B9%81%E8%8A%B1%E8%AE%A9%E5%91%A8%E6%9C%AB%E7%9A%84%E9%BB%84%E6%B2%B3%E8%B7%AF%E5%A4%A7%E5%A0%B5%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [哈尔滨冻草莓都开始按个卖了](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%BB%E8%8D%89%E8%8E%93%E9%83%BD%E5%BC%80%E5%A7%8B%E6%8C%89%E4%B8%AA%E5%8D%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
