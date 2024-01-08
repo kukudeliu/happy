@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 16:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 16:23:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [杨紫李现牵手同框路透](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%E7%89%B5%E6%89%8B%E5%90%8C%E6%A1%86%E8%B7%AF%E9%80%8F%23&t=31&band_rank=5&Refer=top)<br />
 6. [教授建议生个孩子给一居室](https://s.weibo.com/weibo?q=%23%E6%95%99%E6%8E%88%E5%BB%BA%E8%AE%AE%E7%94%9F%E4%B8%AA%E5%AD%A9%E5%AD%90%E7%BB%99%E4%B8%80%E5%B1%85%E5%AE%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [安徽武校投毒案一审宣判](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E6%AD%A6%E6%A0%A1%E6%8A%95%E6%AF%92%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [女子过安检保温杯里藏刀](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%87%E5%AE%89%E6%A3%80%E4%BF%9D%E6%B8%A9%E6%9D%AF%E9%87%8C%E8%97%8F%E5%88%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [银行4个窗口只开1个被男子怒怼](https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C4%E4%B8%AA%E7%AA%97%E5%8F%A3%E5%8F%AA%E5%BC%801%E4%B8%AA%E8%A2%AB%E7%94%B7%E5%AD%90%E6%80%92%E6%80%BC%23&t=31&band_rank=9&Refer=top)<br />
+8. [银行4个窗口只开1个被男子怒怼](https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C4%E4%B8%AA%E7%AA%97%E5%8F%A3%E5%8F%AA%E5%BC%801%E4%B8%AA%E8%A2%AB%E7%94%B7%E5%AD%90%E6%80%92%E6%80%BC%23&t=31&band_rank=8&Refer=top)<br />
+9. [女子过安检保温杯里藏刀](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%87%E5%AE%89%E6%A3%80%E4%BF%9D%E6%B8%A9%E6%9D%AF%E9%87%8C%E8%97%8F%E5%88%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
