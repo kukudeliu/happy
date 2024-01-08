@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 07:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 07:31:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [女子哈尔滨吃铁锅炖分量少提醒避雷](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%93%88%E5%B0%94%E6%BB%A8%E5%90%83%E9%93%81%E9%94%85%E7%82%96%E5%88%86%E9%87%8F%E5%B0%91%E6%8F%90%E9%86%92%E9%81%BF%E9%9B%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [被开除当事人称公司全用盗版软件](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%BC%80%E9%99%A4%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E5%85%AC%E5%8F%B8%E5%85%A8%E7%94%A8%E7%9B%97%E7%89%88%E8%BD%AF%E4%BB%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [贾玲张小斐 我真的会谢](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%88%91%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%B0%A2&t=31&band_rank=6&Refer=top)<br />
-7. [女儿刚生爸妈坐高铁送2万6卖炸串钱](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%88%9A%E7%94%9F%E7%88%B8%E5%A6%88%E5%9D%90%E9%AB%98%E9%93%81%E9%80%812%E4%B8%876%E5%8D%96%E7%82%B8%E4%B8%B2%E9%92%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [人间清醒是李湘](https://s.weibo.com/weibo?q=%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%E6%98%AF%E6%9D%8E%E6%B9%98&t=31&band_rank=8&Refer=top)<br />
+7. [人间清醒是李湘](https://s.weibo.com/weibo?q=%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%E6%98%AF%E6%9D%8E%E6%B9%98&t=31&band_rank=7&Refer=top)<br />
+8. [女儿刚生爸妈坐高铁送2万6卖炸串钱](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%88%9A%E7%94%9F%E7%88%B8%E5%A6%88%E5%9D%90%E9%AB%98%E9%93%81%E9%80%812%E4%B8%876%E5%8D%96%E7%82%B8%E4%B8%B2%E9%92%B1%23&t=31&band_rank=8&Refer=top)<br />
 9. [唐嫣过去的三年都是汪小姐](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E8%BF%87%E5%8E%BB%E7%9A%84%E4%B8%89%E5%B9%B4%E9%83%BD%E6%98%AF%E6%B1%AA%E5%B0%8F%E5%A7%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
