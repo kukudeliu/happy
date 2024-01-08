@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 23:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 23:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [哈尔滨冻草莓都开始按个卖了](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%BB%E8%8D%89%E8%8E%93%E9%83%BD%E5%BC%80%E5%A7%8B%E6%8C%89%E4%B8%AA%E5%8D%96%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [国考成绩 不出就睡了](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%20%E4%B8%8D%E5%87%BA%E5%B0%B1%E7%9D%A1%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [宝总李李将吻未吻](https://s.weibo.com/weibo?q=%E5%AE%9D%E6%80%BB%E6%9D%8E%E6%9D%8E%E5%B0%86%E5%90%BB%E6%9C%AA%E5%90%BB&t=31&band_rank=8&Refer=top)<br />
-9. [微博之夜全阵容集结](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%85%A8%E9%98%B5%E5%AE%B9%E9%9B%86%E7%BB%93%23&t=31&band_rank=9&Refer=top)<br />
+9. [鞠婧祎宋威龙咬唇吻](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%AE%8B%E5%A8%81%E9%BE%99%E5%92%AC%E5%94%87%E5%90%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
