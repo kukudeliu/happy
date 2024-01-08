@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 07:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 07:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [贾玲张小斐 我真的会谢](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%88%91%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%B0%A2&t=31&band_rank=6&Refer=top)<br />
 7. [女儿刚生爸妈坐高铁送2万6卖炸串钱](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%88%9A%E7%94%9F%E7%88%B8%E5%A6%88%E5%9D%90%E9%AB%98%E9%93%81%E9%80%812%E4%B8%876%E5%8D%96%E7%82%B8%E4%B8%B2%E9%92%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [人间清醒是李湘](https://s.weibo.com/weibo?q=%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%E6%98%AF%E6%9D%8E%E6%B9%98&t=31&band_rank=8&Refer=top)<br />
-9. [平平无奇女主 懒傻馋呆男主](https://s.weibo.com/weibo?q=%E5%B9%B3%E5%B9%B3%E6%97%A0%E5%A5%87%E5%A5%B3%E4%B8%BB%20%E6%87%92%E5%82%BB%E9%A6%8B%E5%91%86%E7%94%B7%E4%B8%BB&t=31&band_rank=9&Refer=top)<br />
+9. [沈阳文旅局局长连夜听网友支招](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E6%96%87%E6%97%85%E5%B1%80%E5%B1%80%E9%95%BF%E8%BF%9E%E5%A4%9C%E5%90%AC%E7%BD%91%E5%8F%8B%E6%94%AF%E6%8B%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
