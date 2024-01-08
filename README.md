@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 10:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 10:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [我国破获一起英国秘密情报局间谍案](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%A0%B4%E8%8E%B7%E4%B8%80%E8%B5%B7%E8%8B%B1%E5%9B%BD%E7%A7%98%E5%AF%86%E6%83%85%E6%8A%A5%E5%B1%80%E9%97%B4%E8%B0%8D%E6%A1%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [第一批小东北虎已抵达桂林](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%B0%8F%E4%B8%9C%E5%8C%97%E8%99%8E%E5%B7%B2%E6%8A%B5%E8%BE%BE%E6%A1%82%E6%9E%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [胡歌 爆剧玄学](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%20%E7%88%86%E5%89%A7%E7%8E%84%E5%AD%A6&t=31&band_rank=8&Refer=top)<br />
-9. [做哈工大的学生也太幸福了](https://s.weibo.com/weibo?q=%E5%81%9A%E5%93%88%E5%B7%A5%E5%A4%A7%E7%9A%84%E5%AD%A6%E7%94%9F%E4%B9%9F%E5%A4%AA%E5%B9%B8%E7%A6%8F%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [日本地震已致161人死亡](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4161%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
