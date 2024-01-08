@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 20:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 20:44:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [南方哈士奇到东北拉雪橇狂飙5公里](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%93%88%E5%A3%AB%E5%A5%87%E5%88%B0%E4%B8%9C%E5%8C%97%E6%8B%89%E9%9B%AA%E6%A9%87%E7%8B%82%E9%A3%995%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [透过关键词观察开年经济](https://www.baidu.com/s?wd=%E9%80%8F%E8%BF%87%E5%85%B3%E9%94%AE%E8%AF%8D%E8%A7%82%E5%AF%9F%E5%BC%80%E5%B9%B4%E7%BB%8F%E6%B5%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子称波司登羽绒服剪开全是碎末](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [河南一班主任让全班学生发毒誓](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%AE%A9%E5%85%A8%E7%8F%AD%E5%AD%A6%E7%94%9F%E5%8F%91%E6%AF%92%E8%AA%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国人吃盐过多致死率世界第1](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E7%9B%90%E8%BF%87%E5%A4%9A%E8%87%B4%E6%AD%BB%E7%8E%87%E4%B8%96%E7%95%8C%E7%AC%AC1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [今年起 法国宠物店不再出售猫狗](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E8%B5%B7+%E6%B3%95%E5%9B%BD%E5%AE%A0%E7%89%A9%E5%BA%97%E4%B8%8D%E5%86%8D%E5%87%BA%E5%94%AE%E7%8C%AB%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国人吃盐过多致死率世界第1](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E7%9B%90%E8%BF%87%E5%A4%9A%E8%87%B4%E6%AD%BB%E7%8E%87%E4%B8%96%E7%95%8C%E7%AC%AC1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [河南一班主任让全班学生发毒誓](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%AE%A9%E5%85%A8%E7%8F%AD%E5%AD%A6%E7%94%9F%E5%8F%91%E6%AF%92%E8%AA%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [救护车被私家车挡道 患者家属急哭](https://www.baidu.com/s?wd=%E6%95%91%E6%8A%A4%E8%BD%A6%E8%A2%AB%E7%A7%81%E5%AE%B6%E8%BD%A6%E6%8C%A1%E9%81%93+%E6%82%A3%E8%80%85%E5%AE%B6%E5%B1%9E%E6%80%A5%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [南方哈士奇到东北拉雪橇狂飙5公里](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%93%88%E5%A3%AB%E5%A5%87%E5%88%B0%E4%B8%9C%E5%8C%97%E6%8B%89%E9%9B%AA%E6%A9%87%E7%8B%82%E9%A3%995%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [透过关键词观察开年经济](https://www.baidu.com/s?wd=%E9%80%8F%E8%BF%87%E5%85%B3%E9%94%AE%E8%AF%8D%E8%A7%82%E5%AF%9F%E5%BC%80%E5%B9%B4%E7%BB%8F%E6%B5%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子称波司登羽绒服剪开全是碎末](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [河南一班主任让全班学生发毒誓](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%AE%A9%E5%85%A8%E7%8F%AD%E5%AD%A6%E7%94%9F%E5%8F%91%E6%AF%92%E8%AA%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国人吃盐过多致死率世界第1](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E7%9B%90%E8%BF%87%E5%A4%9A%E8%87%B4%E6%AD%BB%E7%8E%87%E4%B8%96%E7%95%8C%E7%AC%AC1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [今年起 法国宠物店不再出售猫狗](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E8%B5%B7+%E6%B3%95%E5%9B%BD%E5%AE%A0%E7%89%A9%E5%BA%97%E4%B8%8D%E5%86%8D%E5%87%BA%E5%94%AE%E7%8C%AB%E7%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国人吃盐过多致死率世界第1](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E7%9B%90%E8%BF%87%E5%A4%9A%E8%87%B4%E6%AD%BB%E7%8E%87%E4%B8%96%E7%95%8C%E7%AC%AC1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [河南一班主任让全班学生发毒誓](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%AE%A9%E5%85%A8%E7%8F%AD%E5%AD%A6%E7%94%9F%E5%8F%91%E6%AF%92%E8%AA%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [救护车被私家车挡道 患者家属急哭](https://www.baidu.com/s?wd=%E6%95%91%E6%8A%A4%E8%BD%A6%E8%A2%AB%E7%A7%81%E5%AE%B6%E8%BD%A6%E6%8C%A1%E9%81%93+%E6%82%A3%E8%80%85%E5%AE%B6%E5%B1%9E%E6%80%A5%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
