@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 21:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 21:04:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女子称波司登羽绒服剪开全是碎末](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [河南一班主任让全班学生发毒誓](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%AE%A9%E5%85%A8%E7%8F%AD%E5%AD%A6%E7%94%9F%E5%8F%91%E6%AF%92%E8%AA%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国人吃盐过多致死率世界第1](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E7%9B%90%E8%BF%87%E5%A4%9A%E8%87%B4%E6%AD%BB%E7%8E%87%E4%B8%96%E7%95%8C%E7%AC%AC1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小伙让乘客手机声音关小点遭威胁](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%AE%A9%E4%B9%98%E5%AE%A2%E6%89%8B%E6%9C%BA%E5%A3%B0%E9%9F%B3%E5%85%B3%E5%B0%8F%E7%82%B9%E9%81%AD%E5%A8%81%E8%83%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [爱泼斯坦生前掌握特朗普希拉里黑料](https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E7%94%9F%E5%89%8D%E6%8E%8C%E6%8F%A1%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%8C%E6%8B%89%E9%87%8C%E9%BB%91%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女子称波司登羽绒服剪开全是碎末](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [河南一班主任让全班学生发毒誓](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%AE%A9%E5%85%A8%E7%8F%AD%E5%AD%A6%E7%94%9F%E5%8F%91%E6%AF%92%E8%AA%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国人吃盐过多致死率世界第1](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E7%9B%90%E8%BF%87%E5%A4%9A%E8%87%B4%E6%AD%BB%E7%8E%87%E4%B8%96%E7%95%8C%E7%AC%AC1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小伙让乘客手机声音关小点遭威胁](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%AE%A9%E4%B9%98%E5%AE%A2%E6%89%8B%E6%9C%BA%E5%A3%B0%E9%9F%B3%E5%85%B3%E5%B0%8F%E7%82%B9%E9%81%AD%E5%A8%81%E8%83%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [爱泼斯坦生前掌握特朗普希拉里黑料](https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E7%94%9F%E5%89%8D%E6%8E%8C%E6%8F%A1%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%8C%E6%8B%89%E9%87%8C%E9%BB%91%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
