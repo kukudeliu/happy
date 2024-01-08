@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 19:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 19:03:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [民警吃火锅多看一眼抓住2名逃犯](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%90%83%E7%81%AB%E9%94%85%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%8A%93%E4%BD%8F2%E5%90%8D%E9%80%83%E7%8A%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [蔡依林 浪5](https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%20%E6%B5%AA5&t=31&band_rank=6&Refer=top)<br />
 7. [五岁女童针灸推拿拔罐样样都会](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%B2%81%E5%A5%B3%E7%AB%A5%E9%92%88%E7%81%B8%E6%8E%A8%E6%8B%BF%E6%8B%94%E7%BD%90%E6%A0%B7%E6%A0%B7%E9%83%BD%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [王菲 她甚至能治王家卫](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%8F%B2%20%E5%A5%B9%E7%94%9A%E8%87%B3%E8%83%BD%E6%B2%BB%E7%8E%8B%E5%AE%B6%E5%8D%AB&t=31&band_rank=8&Refer=top)<br />
-9. [科举文男主有了脸](https://s.weibo.com/weibo?q=%E7%A7%91%E4%B8%BE%E6%96%87%E7%94%B7%E4%B8%BB%E6%9C%89%E4%BA%86%E8%84%B8&t=31&band_rank=9&Refer=top)<br />
+8. [科举文男主有了脸](https://s.weibo.com/weibo?q=%E7%A7%91%E4%B8%BE%E6%96%87%E7%94%B7%E4%B8%BB%E6%9C%89%E4%BA%86%E8%84%B8&t=31&band_rank=8&Refer=top)<br />
+9. [王菲 她甚至能治王家卫](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%8F%B2%20%E5%A5%B9%E7%94%9A%E8%87%B3%E8%83%BD%E6%B2%BB%E7%8E%8B%E5%AE%B6%E5%8D%AB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [南方哈士奇到东北拉雪橇狂飙5公里](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%93%88%E5%A3%AB%E5%A5%87%E5%88%B0%E4%B8%9C%E5%8C%97%E6%8B%89%E9%9B%AA%E6%A9%87%E7%8B%82%E9%A3%995%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [透过关键词观察开年经济](https://www.baidu.com/s?wd=%E9%80%8F%E8%BF%87%E5%85%B3%E9%94%AE%E8%AF%8D%E8%A7%82%E5%AF%9F%E5%BC%80%E5%B9%B4%E7%BB%8F%E6%B5%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子称波司登羽绒服剪开全是碎末](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子遭丈夫辗轧拖拽死亡案明日开庭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E4%B8%88%E5%A4%AB%E8%BE%97%E8%BD%A7%E6%8B%96%E6%8B%BD%E6%AD%BB%E4%BA%A1%E6%A1%88%E6%98%8E%E6%97%A5%E5%BC%80%E5%BA%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本地震区核电站附近现油膜](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%8C%BA%E6%A0%B8%E7%94%B5%E7%AB%99%E9%99%84%E8%BF%91%E7%8E%B0%E6%B2%B9%E8%86%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [沙特发现世界级金矿](https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E5%8F%91%E7%8E%B0%E4%B8%96%E7%95%8C%E7%BA%A7%E9%87%91%E7%9F%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [日本地震区核电站附近现油膜](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%8C%BA%E6%A0%B8%E7%94%B5%E7%AB%99%E9%99%84%E8%BF%91%E7%8E%B0%E6%B2%B9%E8%86%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [沙特发现世界级金矿](https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E5%8F%91%E7%8E%B0%E4%B8%96%E7%95%8C%E7%BA%A7%E9%87%91%E7%9F%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [辽宁一暖气管道破损水喷十多米高](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E6%9A%96%E6%B0%94%E7%AE%A1%E9%81%93%E7%A0%B4%E6%8D%9F%E6%B0%B4%E5%96%B7%E5%8D%81%E5%A4%9A%E7%B1%B3%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [南方哈士奇到东北拉雪橇狂飙5公里](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%93%88%E5%A3%AB%E5%A5%87%E5%88%B0%E4%B8%9C%E5%8C%97%E6%8B%89%E9%9B%AA%E6%A9%87%E7%8B%82%E9%A3%995%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [透过关键词观察开年经济](https://www.baidu.com/s?wd=%E9%80%8F%E8%BF%87%E5%85%B3%E9%94%AE%E8%AF%8D%E8%A7%82%E5%AF%9F%E5%BC%80%E5%B9%B4%E7%BB%8F%E6%B5%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子称波司登羽绒服剪开全是碎末](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子遭丈夫辗轧拖拽死亡案明日开庭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E4%B8%88%E5%A4%AB%E8%BE%97%E8%BD%A7%E6%8B%96%E6%8B%BD%E6%AD%BB%E4%BA%A1%E6%A1%88%E6%98%8E%E6%97%A5%E5%BC%80%E5%BA%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本地震区核电站附近现油膜](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%8C%BA%E6%A0%B8%E7%94%B5%E7%AB%99%E9%99%84%E8%BF%91%E7%8E%B0%E6%B2%B9%E8%86%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [沙特发现世界级金矿](https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E5%8F%91%E7%8E%B0%E4%B8%96%E7%95%8C%E7%BA%A7%E9%87%91%E7%9F%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [日本地震区核电站附近现油膜](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%8C%BA%E6%A0%B8%E7%94%B5%E7%AB%99%E9%99%84%E8%BF%91%E7%8E%B0%E6%B2%B9%E8%86%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [沙特发现世界级金矿](https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E5%8F%91%E7%8E%B0%E4%B8%96%E7%95%8C%E7%BA%A7%E9%87%91%E7%9F%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [辽宁一暖气管道破损水喷十多米高](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E6%9A%96%E6%B0%94%E7%AE%A1%E9%81%93%E7%A0%B4%E6%8D%9F%E6%B0%B4%E5%96%B7%E5%8D%81%E5%A4%9A%E7%B1%B3%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
