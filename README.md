@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 10:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 10:45:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [为什么网吧老板不会赶走蹭睡的人](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BD%91%E5%90%A7%E8%80%81%E6%9D%BF%E4%B8%8D%E4%BC%9A%E8%B5%B6%E8%B5%B0%E8%B9%AD%E7%9D%A1%E7%9A%84%E4%BA%BA&t=31&band_rank=2&Refer=top)<br />
 3. [中国在极地布放首个生态潜标](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%9E%81%E5%9C%B0%E5%B8%83%E6%94%BE%E9%A6%96%E4%B8%AA%E7%94%9F%E6%80%81%E6%BD%9C%E6%A0%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [辛芷蕾喝多了](https://s.weibo.com/weibo?q=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%96%9D%E5%A4%9A%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
-5. [深圳欢乐谷过山车碰撞事故调查报告公布](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E8%BF%87%E5%B1%B1%E8%BD%A6%E7%A2%B0%E6%92%9E%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83%23&t=31&band_rank=5&Refer=top)<br />
-6. [深圳欢乐谷过山车事故9人被追责问责](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E8%BF%87%E5%B1%B1%E8%BD%A6%E4%BA%8B%E6%95%859%E4%BA%BA%E8%A2%AB%E8%BF%BD%E8%B4%A3%E9%97%AE%E8%B4%A3%23&t=31&band_rank=6&Refer=top)<br />
+5. [深圳欢乐谷过山车事故9人被追责问责](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E8%BF%87%E5%B1%B1%E8%BD%A6%E4%BA%8B%E6%95%859%E4%BA%BA%E8%A2%AB%E8%BF%BD%E8%B4%A3%E9%97%AE%E8%B4%A3%23&t=31&band_rank=5&Refer=top)<br />
+6. [深圳欢乐谷过山车碰撞事故调查报告公布](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E8%BF%87%E5%B1%B1%E8%BD%A6%E7%A2%B0%E6%92%9E%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [郑强称60岁退休确实早了一点](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%BC%BA%E7%A7%B060%E5%B2%81%E9%80%80%E4%BC%91%E7%A1%AE%E5%AE%9E%E6%97%A9%E4%BA%86%E4%B8%80%E7%82%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [华莱士送10万份套餐](https://s.weibo.com/weibo?q=%E5%8D%8E%E8%8E%B1%E5%A3%AB%E9%80%8110%E4%B8%87%E4%BB%BD%E5%A5%97%E9%A4%90&t=31&band_rank=8&Refer=top)<br />
 9. [马斯克回应吸毒](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%BA%94%E5%90%B8%E6%AF%92%23&t=31&band_rank=9&Refer=top)<br />
