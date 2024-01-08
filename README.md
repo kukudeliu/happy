@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 13:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 13:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [送房的话你愿意生孩子吗](https://s.weibo.com/weibo?q=%23%E9%80%81%E6%88%BF%E7%9A%84%E8%AF%9D%E4%BD%A0%E6%84%BF%E6%84%8F%E7%94%9F%E5%AD%A9%E5%AD%90%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [车厘子每斤便宜60元](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E6%AF%8F%E6%96%A4%E4%BE%BF%E5%AE%9C60%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [王一博你睡了吗](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BD%A0%E7%9D%A1%E4%BA%86%E5%90%97&t=31&band_rank=8&Refer=top)<br />
-9. [霉霉又双叒世一了](https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E5%8F%88%E5%8F%8C%E5%8F%92%E4%B8%96%E4%B8%80%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [大冻梨街头走秀小土豆被身高暴击](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%86%BB%E6%A2%A8%E8%A1%97%E5%A4%B4%E8%B5%B0%E7%A7%80%E5%B0%8F%E5%9C%9F%E8%B1%86%E8%A2%AB%E8%BA%AB%E9%AB%98%E6%9A%B4%E5%87%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
