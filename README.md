@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 18:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 18:08:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [为强国建设、民族复兴提供坚强保证](https://www.baidu.com/s?wd=%E4%B8%BA%E5%BC%BA%E5%9B%BD%E5%BB%BA%E8%AE%BE%E3%80%81%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4%E6%8F%90%E4%BE%9B%E5%9D%9A%E5%BC%BA%E4%BF%9D%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [致7死武校投毒案宣判：两被告获死刑](https://www.baidu.com/s?wd=%E8%87%B47%E6%AD%BB%E6%AD%A6%E6%A0%A1%E6%8A%95%E6%AF%92%E6%A1%88%E5%AE%A3%E5%88%A4%EF%BC%9A%E4%B8%A4%E8%A2%AB%E5%91%8A%E8%8E%B7%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [2023年为有气象记录以来最暖年](https://www.baidu.com/s?wd=2023%E5%B9%B4%E4%B8%BA%E6%9C%89%E6%B0%94%E8%B1%A1%E8%AE%B0%E5%BD%95%E4%BB%A5%E6%9D%A5%E6%9C%80%E6%9A%96%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [女子半年吃出200多次异物被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8D%8A%E5%B9%B4%E5%90%83%E5%87%BA200%E5%A4%9A%E6%AC%A1%E5%BC%82%E7%89%A9%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [透过关键词观察开年经济](https://www.baidu.com/s?wd=%E9%80%8F%E8%BF%87%E5%85%B3%E9%94%AE%E8%AF%8D%E8%A7%82%E5%AF%9F%E5%BC%80%E5%B9%B4%E7%BB%8F%E6%B5%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子称波司登羽绒服剪开全是碎末](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [为强国建设、民族复兴提供坚强保证](https://www.baidu.com/s?wd=%E4%B8%BA%E5%BC%BA%E5%9B%BD%E5%BB%BA%E8%AE%BE%E3%80%81%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4%E6%8F%90%E4%BE%9B%E5%9D%9A%E5%BC%BA%E4%BF%9D%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [致7死武校投毒案宣判：两被告获死刑](https://www.baidu.com/s?wd=%E8%87%B47%E6%AD%BB%E6%AD%A6%E6%A0%A1%E6%8A%95%E6%AF%92%E6%A1%88%E5%AE%A3%E5%88%A4%EF%BC%9A%E4%B8%A4%E8%A2%AB%E5%91%8A%E8%8E%B7%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [2023年为有气象记录以来最暖年](https://www.baidu.com/s?wd=2023%E5%B9%B4%E4%B8%BA%E6%9C%89%E6%B0%94%E8%B1%A1%E8%AE%B0%E5%BD%95%E4%BB%A5%E6%9D%A5%E6%9C%80%E6%9A%96%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [女子半年吃出200多次异物被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8D%8A%E5%B9%B4%E5%90%83%E5%87%BA200%E5%A4%9A%E6%AC%A1%E5%BC%82%E7%89%A9%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [透过关键词观察开年经济](https://www.baidu.com/s?wd=%E9%80%8F%E8%BF%87%E5%85%B3%E9%94%AE%E8%AF%8D%E8%A7%82%E5%AF%9F%E5%BC%80%E5%B9%B4%E7%BB%8F%E6%B5%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子称波司登羽绒服剪开全是碎末](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
