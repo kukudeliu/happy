@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 18:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 18:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [蔡依林 浪5](https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%20%E6%B5%AA5&t=31&band_rank=6&Refer=top)<br />
 7. [民警吃火锅多看一眼抓住2名逃犯](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%90%83%E7%81%AB%E9%94%85%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%8A%93%E4%BD%8F2%E5%90%8D%E9%80%83%E7%8A%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子谎称外卖吃出异物200多次被刑拘](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B0%8E%E7%A7%B0%E5%A4%96%E5%8D%96%E5%90%83%E5%87%BA%E5%BC%82%E7%89%A9200%E5%A4%9A%E6%AC%A1%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [千万网红团队成员约架致一人身亡](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E7%BD%91%E7%BA%A2%E5%9B%A2%E9%98%9F%E6%88%90%E5%91%98%E7%BA%A6%E6%9E%B6%E8%87%B4%E4%B8%80%E4%BA%BA%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [于正面试赵昭仪视频](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E9%9D%A2%E8%AF%95%E8%B5%B5%E6%98%AD%E4%BB%AA%E8%A7%86%E9%A2%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
