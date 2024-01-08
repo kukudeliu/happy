@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 01:26:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 01:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [爷叔给宝总上的最后一课](https://s.weibo.com/weibo?q=%23%E7%88%B7%E5%8F%94%E7%BB%99%E5%AE%9D%E6%80%BB%E4%B8%8A%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [鞠婧祎宋威龙咬唇吻](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%AE%8B%E5%A8%81%E9%BE%99%E5%92%AC%E5%94%87%E5%90%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [吃葡萄柚是一件很私人的事](https://s.weibo.com/weibo?q=%23%E5%90%83%E8%91%A1%E8%90%84%E6%9F%9A%E6%98%AF%E4%B8%80%E4%BB%B6%E5%BE%88%E7%A7%81%E4%BA%BA%E7%9A%84%E4%BA%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [mbti新题](https://s.weibo.com/weibo?q=mbti%E6%96%B0%E9%A2%98&t=31&band_rank=9&Refer=top)<br />
+9. [苦难就是苦难](https://s.weibo.com/weibo?q=%E8%8B%A6%E9%9A%BE%E5%B0%B1%E6%98%AF%E8%8B%A6%E9%9A%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
