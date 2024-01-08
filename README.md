@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 22:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 22:41:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [刘宇宁直播没被认出的原因](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E6%B2%A1%E8%A2%AB%E8%AE%A4%E5%87%BA%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=5&Refer=top)<br />
 6. [国考成绩 不出就睡了](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%20%E4%B8%8D%E5%87%BA%E5%B0%B1%E7%9D%A1%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [乙流](https://s.weibo.com/weibo?q=%E4%B9%99%E6%B5%81&t=31&band_rank=7&Refer=top)<br />
-8. [微博之夜全阵容集结](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%85%A8%E9%98%B5%E5%AE%B9%E9%9B%86%E7%BB%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [宝总李李将吻未吻](https://s.weibo.com/weibo?q=%E5%AE%9D%E6%80%BB%E6%9D%8E%E6%9D%8E%E5%B0%86%E5%90%BB%E6%9C%AA%E5%90%BB&t=31&band_rank=9&Refer=top)<br />
+8. [宝总李李将吻未吻](https://s.weibo.com/weibo?q=%E5%AE%9D%E6%80%BB%E6%9D%8E%E6%9D%8E%E5%B0%86%E5%90%BB%E6%9C%AA%E5%90%BB&t=31&band_rank=8&Refer=top)<br />
+9. [微博之夜全阵容集结](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%85%A8%E9%98%B5%E5%AE%B9%E9%9B%86%E7%BB%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
