@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 04:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 04:11:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [辛芷蕾：拍了3年才知道李李的结局](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%EF%BC%9A%E6%8B%8D%E4%BA%863%E5%B9%B4%E6%89%8D%E7%9F%A5%E9%81%93%E6%9D%8E%E6%9D%8E%E7%9A%84%E7%BB%93%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子鞋内私藏2千克黄金入境被查获](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%9E%8B%E5%86%85%E7%A7%81%E8%97%8F2%E5%8D%83%E5%85%8B%E9%BB%84%E9%87%91%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [范湉湉扇胡歌巴掌“一条过”](https://www.baidu.com/s?wd=%E8%8C%83%E6%B9%89%E6%B9%89%E6%89%87%E8%83%A1%E6%AD%8C%E5%B7%B4%E6%8E%8C%E2%80%9C%E4%B8%80%E6%9D%A1%E8%BF%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [羊驼因频繁吐口水被安全员“约谈”](https://www.baidu.com/s?wd=%E7%BE%8A%E9%A9%BC%E5%9B%A0%E9%A2%91%E7%B9%81%E5%90%90%E5%8F%A3%E6%B0%B4%E8%A2%AB%E5%AE%89%E5%85%A8%E5%91%98%E2%80%9C%E7%BA%A6%E8%B0%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡歌说要为唐嫣这次表演鼓掌](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E8%AF%B4%E8%A6%81%E4%B8%BA%E5%94%90%E5%AB%A3%E8%BF%99%E6%AC%A1%E8%A1%A8%E6%BC%94%E9%BC%93%E6%8E%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [辛芷蕾：拍了3年才知道李李的结局](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%EF%BC%9A%E6%8B%8D%E4%BA%863%E5%B9%B4%E6%89%8D%E7%9F%A5%E9%81%93%E6%9D%8E%E6%9D%8E%E7%9A%84%E7%BB%93%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子鞋内私藏2千克黄金入境被查获](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%9E%8B%E5%86%85%E7%A7%81%E8%97%8F2%E5%8D%83%E5%85%8B%E9%BB%84%E9%87%91%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [范湉湉扇胡歌巴掌“一条过”](https://www.baidu.com/s?wd=%E8%8C%83%E6%B9%89%E6%B9%89%E6%89%87%E8%83%A1%E6%AD%8C%E5%B7%B4%E6%8E%8C%E2%80%9C%E4%B8%80%E6%9D%A1%E8%BF%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [羊驼因频繁吐口水被安全员“约谈”](https://www.baidu.com/s?wd=%E7%BE%8A%E9%A9%BC%E5%9B%A0%E9%A2%91%E7%B9%81%E5%90%90%E5%8F%A3%E6%B0%B4%E8%A2%AB%E5%AE%89%E5%85%A8%E5%91%98%E2%80%9C%E7%BA%A6%E8%B0%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡歌说要为唐嫣这次表演鼓掌](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E8%AF%B4%E8%A6%81%E4%B8%BA%E5%94%90%E5%AB%A3%E8%BF%99%E6%AC%A1%E8%A1%A8%E6%BC%94%E9%BC%93%E6%8E%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
