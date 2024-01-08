@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 11:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 11:36:01</h4></div>
 
 > 微博  
 
 1. [6人奸淫不满14周岁幼女被判刑](https://s.weibo.com/weibo?q=%236%E4%BA%BA%E5%A5%B8%E6%B7%AB%E4%B8%8D%E6%BB%A114%E5%91%A8%E5%B2%81%E5%B9%BC%E5%A5%B3%E8%A2%AB%E5%88%A4%E5%88%91%23&t=31&band_rank=1&Refer=top)<br />
 2. [郑强称60岁退休确实早了一点](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%BC%BA%E7%A7%B060%E5%B2%81%E9%80%80%E4%BC%91%E7%A1%AE%E5%AE%9E%E6%97%A9%E4%BA%86%E4%B8%80%E7%82%B9%23&t=31&band_rank=2&Refer=top)<br />
-3. [中国在极地布放首个生态潜标](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%9E%81%E5%9C%B0%E5%B8%83%E6%94%BE%E9%A6%96%E4%B8%AA%E7%94%9F%E6%80%81%E6%BD%9C%E6%A0%87%23&t=31&band_rank=3&Refer=top)<br />
+3. [2024全军开训热血壁纸](https://s.weibo.com/weibo?q=%232024%E5%85%A8%E5%86%9B%E5%BC%80%E8%AE%AD%E7%83%AD%E8%A1%80%E5%A3%81%E7%BA%B8%23&t=31&band_rank=3&Refer=top)<br />
 4. [小伙裸辞卖预制菜年亏40万后逆袭](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%A3%B8%E8%BE%9E%E5%8D%96%E9%A2%84%E5%88%B6%E8%8F%9C%E5%B9%B4%E4%BA%8F40%E4%B8%87%E5%90%8E%E9%80%86%E8%A2%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [辛芷蕾喝多了](https://s.weibo.com/weibo?q=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%96%9D%E5%A4%9A%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [深圳欢乐谷过山车事故9人被追责问责](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E8%BF%87%E5%B1%B1%E8%BD%A6%E4%BA%8B%E6%95%859%E4%BA%BA%E8%A2%AB%E8%BF%BD%E8%B4%A3%E9%97%AE%E8%B4%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=7&Refer=top)<br />
-8. [岳云鹏曾被30人围观洗澡](https://s.weibo.com/weibo?q=%E5%B2%B3%E4%BA%91%E9%B9%8F%E6%9B%BE%E8%A2%AB30%E4%BA%BA%E5%9B%B4%E8%A7%82%E6%B4%97%E6%BE%A1&t=31&band_rank=8&Refer=top)<br />
-9. [华莱士送10万份套餐](https://s.weibo.com/weibo?q=%E5%8D%8E%E8%8E%B1%E5%A3%AB%E9%80%8110%E4%B8%87%E4%BB%BD%E5%A5%97%E9%A4%90&t=31&band_rank=9&Refer=top)<br />
+8. [中国在极地布放首个生态潜标](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%9E%81%E5%9C%B0%E5%B8%83%E6%94%BE%E9%A6%96%E4%B8%AA%E7%94%9F%E6%80%81%E6%BD%9C%E6%A0%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [岳云鹏曾被30人围观洗澡](https://s.weibo.com/weibo?q=%E5%B2%B3%E4%BA%91%E9%B9%8F%E6%9B%BE%E8%A2%AB30%E4%BA%BA%E5%9B%B4%E8%A7%82%E6%B4%97%E6%BE%A1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
