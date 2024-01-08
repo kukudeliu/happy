@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 04:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 04:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [丁俊晖147分](https://s.weibo.com/weibo?q=%E4%B8%81%E4%BF%8A%E6%99%96147%E5%88%86&t=31&band_rank=6&Refer=top)<br />
 7. [爷叔给宝总上的最后一课](https://s.weibo.com/weibo?q=%23%E7%88%B7%E5%8F%94%E7%BB%99%E5%AE%9D%E6%80%BB%E4%B8%8A%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [珠帘玉幕剧组给刘宇宁庆生](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95%E5%89%A7%E7%BB%84%E7%BB%99%E5%88%98%E5%AE%87%E5%AE%81%E5%BA%86%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [恋爱三个月定律](https://s.weibo.com/weibo?q=%E6%81%8B%E7%88%B1%E4%B8%89%E4%B8%AA%E6%9C%88%E5%AE%9A%E5%BE%8B&t=31&band_rank=9&Refer=top)<br />
+9. [6名干部违规聚餐狂饮7瓶白酒致1死](https://s.weibo.com/weibo?q=%236%E5%90%8D%E5%B9%B2%E9%83%A8%E8%BF%9D%E8%A7%84%E8%81%9A%E9%A4%90%E7%8B%82%E9%A5%AE7%E7%93%B6%E7%99%BD%E9%85%92%E8%87%B41%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
