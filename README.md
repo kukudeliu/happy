@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 13:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 13:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [辛芷蕾喝多了](https://s.weibo.com/weibo?q=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%96%9D%E5%A4%9A%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫国色芳华造型](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E9%80%A0%E5%9E%8B&t=31&band_rank=7&Refer=top)<br />
 8. [日本一核电站震后漏油入海](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E6%A0%B8%E7%94%B5%E7%AB%99%E9%9C%87%E5%90%8E%E6%BC%8F%E6%B2%B9%E5%85%A5%E6%B5%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [6人奸淫不满14周岁幼女被判刑](https://s.weibo.com/weibo?q=%236%E4%BA%BA%E5%A5%B8%E6%B7%AB%E4%B8%8D%E6%BB%A114%E5%91%A8%E5%B2%81%E5%B9%BC%E5%A5%B3%E8%A2%AB%E5%88%A4%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [广州一中学花近5万买破解Wii](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%80%E4%B8%AD%E5%AD%A6%E8%8A%B1%E8%BF%915%E4%B8%87%E4%B9%B0%E7%A0%B4%E8%A7%A3Wii%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
