@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 03:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 03:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [珠帘玉幕剧组给刘宇宁庆生](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95%E5%89%A7%E7%BB%84%E7%BB%99%E5%88%98%E5%AE%87%E5%AE%81%E5%BA%86%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [吃葡萄柚是一件很私人的事](https://s.weibo.com/weibo?q=%23%E5%90%83%E8%91%A1%E8%90%84%E6%9F%9A%E6%98%AF%E4%B8%80%E4%BB%B6%E5%BE%88%E7%A7%81%E4%BA%BA%E7%9A%84%E4%BA%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [丁俊晖147分](https://s.weibo.com/weibo?q=%E4%B8%81%E4%BF%8A%E6%99%96147%E5%88%86&t=31&band_rank=7&Refer=top)<br />
-8. [五官越来越耐看的技巧](https://s.weibo.com/weibo?q=%E4%BA%94%E5%AE%98%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%80%90%E7%9C%8B%E7%9A%84%E6%8A%80%E5%B7%A7&t=31&band_rank=8&Refer=top)<br />
-9. [爷叔给宝总上的最后一课](https://s.weibo.com/weibo?q=%23%E7%88%B7%E5%8F%94%E7%BB%99%E5%AE%9D%E6%80%BB%E4%B8%8A%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%23&t=31&band_rank=9&Refer=top)<br />
+8. [爷叔给宝总上的最后一课](https://s.weibo.com/weibo?q=%23%E7%88%B7%E5%8F%94%E7%BB%99%E5%AE%9D%E6%80%BB%E4%B8%8A%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [五官越来越耐看的技巧](https://s.weibo.com/weibo?q=%E4%BA%94%E5%AE%98%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%80%90%E7%9C%8B%E7%9A%84%E6%8A%80%E5%B7%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
