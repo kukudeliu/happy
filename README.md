@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 21:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 21:28:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [聚焦中国经济圆桌会](https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9C%86%E6%A1%8C%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [微博之夜全阵容集结](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%85%A8%E9%98%B5%E5%AE%B9%E9%9B%86%E7%BB%93%23&t=31&band_rank=4&Refer=top)<br />
 5. [警方通报广东一中学教师坠楼](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B9%BF%E4%B8%9C%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%95%99%E5%B8%88%E5%9D%A0%E6%A5%BC%23&t=31&band_rank=5&Refer=top)<br />
-6. [中国人吃盐过多致死率世界第1](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E7%9B%90%E8%BF%87%E5%A4%9A%E8%87%B4%E6%AD%BB%E7%8E%87%E4%B8%96%E7%95%8C%E7%AC%AC1%23&t=31&band_rank=6&Refer=top)<br />
-7. [吃葡萄柚是一件很私人的事](https://s.weibo.com/weibo?q=%23%E5%90%83%E8%91%A1%E8%90%84%E6%9F%9A%E6%98%AF%E4%B8%80%E4%BB%B6%E5%BE%88%E7%A7%81%E4%BA%BA%E7%9A%84%E4%BA%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [恋爱三个月定律](https://s.weibo.com/weibo?q=%E6%81%8B%E7%88%B1%E4%B8%89%E4%B8%AA%E6%9C%88%E5%AE%9A%E5%BE%8B&t=31&band_rank=8&Refer=top)<br />
+6. [恋爱三个月定律](https://s.weibo.com/weibo?q=%E6%81%8B%E7%88%B1%E4%B8%89%E4%B8%AA%E6%9C%88%E5%AE%9A%E5%BE%8B&t=31&band_rank=6&Refer=top)<br />
+7. [中国人吃盐过多致死率世界第1](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E7%9B%90%E8%BF%87%E5%A4%9A%E8%87%B4%E6%AD%BB%E7%8E%87%E4%B8%96%E7%95%8C%E7%AC%AC1%23&t=31&band_rank=7&Refer=top)<br />
+8. [吃葡萄柚是一件很私人的事](https://s.weibo.com/weibo?q=%23%E5%90%83%E8%91%A1%E8%90%84%E6%9F%9A%E6%98%AF%E4%B8%80%E4%BB%B6%E5%BE%88%E7%A7%81%E4%BA%BA%E7%9A%84%E4%BA%8B%23&t=31&band_rank=8&Refer=top)<br />
 9. [蔡依林 浪5](https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%20%E6%B5%AA5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
