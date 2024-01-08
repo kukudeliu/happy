@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 23:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 23:47:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [丁俊晖147分](https://s.weibo.com/weibo?q=%E4%B8%81%E4%BF%8A%E6%99%96147%E5%88%86&t=31&band_rank=4&Refer=top)<br />
 5. [mbti新题](https://s.weibo.com/weibo?q=mbti%E6%96%B0%E9%A2%98&t=31&band_rank=5&Refer=top)<br />
 6. [哈尔滨冻草莓都开始按个卖了](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%BB%E8%8D%89%E8%8E%93%E9%83%BD%E5%BC%80%E5%A7%8B%E6%8C%89%E4%B8%AA%E5%8D%96%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [专家建议羽绒服要手洗](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A6%81%E6%89%8B%E6%B4%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [鞠婧祎宋威龙咬唇吻](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%AE%8B%E5%A8%81%E9%BE%99%E5%92%AC%E5%94%87%E5%90%BB%23&t=31&band_rank=8&Refer=top)<br />
+7. [鞠婧祎宋威龙咬唇吻](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%AE%8B%E5%A8%81%E9%BE%99%E5%92%AC%E5%94%87%E5%90%BB%23&t=31&band_rank=7&Refer=top)<br />
+8. [专家建议羽绒服要手洗](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A6%81%E6%89%8B%E6%B4%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [刘宇宁直播没被认出的原因](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E6%B2%A1%E8%A2%AB%E8%AE%A4%E5%87%BA%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
