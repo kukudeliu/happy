@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 12:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 12:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [辛芷蕾喝多了](https://s.weibo.com/weibo?q=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%96%9D%E5%A4%9A%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫国色芳华造型](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E9%80%A0%E5%9E%8B&t=31&band_rank=7&Refer=top)<br />
 8. [小伙裸辞卖预制菜年亏40万后逆袭](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%A3%B8%E8%BE%9E%E5%8D%96%E9%A2%84%E5%88%B6%E8%8F%9C%E5%B9%B4%E4%BA%8F40%E4%B8%87%E5%90%8E%E9%80%86%E8%A2%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [郑强称60岁退休确实早了一点](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%BC%BA%E7%A7%B060%E5%B2%81%E9%80%80%E4%BC%91%E7%A1%AE%E5%AE%9E%E6%97%A9%E4%BA%86%E4%B8%80%E7%82%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [日本一核电站震后漏油入海](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E6%A0%B8%E7%94%B5%E7%AB%99%E9%9C%87%E5%90%8E%E6%BC%8F%E6%B2%B9%E5%85%A5%E6%B5%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
