@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 22:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 22:38:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [专家建议羽绒服要手洗](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A6%81%E6%89%8B%E6%B4%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [刘宇宁直播没被认出的原因](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E6%B2%A1%E8%A2%AB%E8%AE%A4%E5%87%BA%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=5&Refer=top)<br />
 6. [国考成绩 不出就睡了](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%20%E4%B8%8D%E5%87%BA%E5%B0%B1%E7%9D%A1%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [微博之夜全阵容集结](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%85%A8%E9%98%B5%E5%AE%B9%E9%9B%86%E7%BB%93%23&t=31&band_rank=7&Refer=top)<br />
-8. [恋爱三个月定律](https://s.weibo.com/weibo?q=%E6%81%8B%E7%88%B1%E4%B8%89%E4%B8%AA%E6%9C%88%E5%AE%9A%E5%BE%8B&t=31&band_rank=8&Refer=top)<br />
-9. [乙流](https://s.weibo.com/weibo?q=%E4%B9%99%E6%B5%81&t=31&band_rank=9&Refer=top)<br />
+7. [乙流](https://s.weibo.com/weibo?q=%E4%B9%99%E6%B5%81&t=31&band_rank=7&Refer=top)<br />
+8. [微博之夜全阵容集结](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%85%A8%E9%98%B5%E5%AE%B9%E9%9B%86%E7%BB%93%23&t=31&band_rank=8&Refer=top)<br />
+9. [恋爱三个月定律](https://s.weibo.com/weibo?q=%E6%81%8B%E7%88%B1%E4%B8%89%E4%B8%AA%E6%9C%88%E5%AE%9A%E5%BE%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
