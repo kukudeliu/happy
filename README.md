@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 04:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 04:21:02</h4></div>
 
 > 微博  
 
 1. [年轻人报复性挤爆3.5分餐厅](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%8C%A4%E7%88%863.5%E5%88%86%E9%A4%90%E5%8E%85%23&t=31&band_rank=1&Refer=top)<br />
-2. [贾玲张小斐 我真的会谢](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%88%91%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%B0%A2&t=31&band_rank=2&Refer=top)<br />
+2. [女子哈尔滨吃铁锅炖分量少提醒避雷](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%93%88%E5%B0%94%E6%BB%A8%E5%90%83%E9%93%81%E9%94%85%E7%82%96%E5%88%86%E9%87%8F%E5%B0%91%E6%8F%90%E9%86%92%E9%81%BF%E9%9B%B7%23&t=31&band_rank=2&Refer=top)<br />
 3. [多地上新文旅大礼包](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E4%B8%8A%E6%96%B0%E6%96%87%E6%97%85%E5%A4%A7%E7%A4%BC%E5%8C%85%23&t=31&band_rank=3&Refer=top)<br />
-4. [女儿刚生爸妈坐高铁送2万6卖炸串钱](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%88%9A%E7%94%9F%E7%88%B8%E5%A6%88%E5%9D%90%E9%AB%98%E9%93%81%E9%80%812%E4%B8%876%E5%8D%96%E7%82%B8%E4%B8%B2%E9%92%B1%23&t=31&band_rank=4&Refer=top)<br />
-5. [丁俊晖147分](https://s.weibo.com/weibo?q=%E4%B8%81%E4%BF%8A%E6%99%96147%E5%88%86&t=31&band_rank=5&Refer=top)<br />
-6. [吃葡萄柚是一件很私人的事](https://s.weibo.com/weibo?q=%23%E5%90%83%E8%91%A1%E8%90%84%E6%9F%9A%E6%98%AF%E4%B8%80%E4%BB%B6%E5%BE%88%E7%A7%81%E4%BA%BA%E7%9A%84%E4%BA%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [爷叔给宝总上的最后一课](https://s.weibo.com/weibo?q=%23%E7%88%B7%E5%8F%94%E7%BB%99%E5%AE%9D%E6%80%BB%E4%B8%8A%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [珠帘玉幕剧组给刘宇宁庆生](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95%E5%89%A7%E7%BB%84%E7%BB%99%E5%88%98%E5%AE%87%E5%AE%81%E5%BA%86%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
+4. [贾玲张小斐 我真的会谢](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%88%91%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%B0%A2&t=31&band_rank=4&Refer=top)<br />
+5. [女儿刚生爸妈坐高铁送2万6卖炸串钱](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%88%9A%E7%94%9F%E7%88%B8%E5%A6%88%E5%9D%90%E9%AB%98%E9%93%81%E9%80%812%E4%B8%876%E5%8D%96%E7%82%B8%E4%B8%B2%E9%92%B1%23&t=31&band_rank=5&Refer=top)<br />
+6. [丁俊晖147分](https://s.weibo.com/weibo?q=%E4%B8%81%E4%BF%8A%E6%99%96147%E5%88%86&t=31&band_rank=6&Refer=top)<br />
+7. [吃葡萄柚是一件很私人的事](https://s.weibo.com/weibo?q=%23%E5%90%83%E8%91%A1%E8%90%84%E6%9F%9A%E6%98%AF%E4%B8%80%E4%BB%B6%E5%BE%88%E7%A7%81%E4%BA%BA%E7%9A%84%E4%BA%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [爷叔给宝总上的最后一课](https://s.weibo.com/weibo?q=%23%E7%88%B7%E5%8F%94%E7%BB%99%E5%AE%9D%E6%80%BB%E4%B8%8A%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%23&t=31&band_rank=8&Refer=top)<br />
 9. [6名干部违规聚餐狂饮7瓶白酒致1死](https://s.weibo.com/weibo?q=%236%E5%90%8D%E5%B9%B2%E9%83%A8%E8%BF%9D%E8%A7%84%E8%81%9A%E9%A4%90%E7%8B%82%E9%A5%AE7%E7%93%B6%E7%99%BD%E9%85%92%E8%87%B41%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
