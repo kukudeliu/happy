@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 04:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 04:09:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [张雪峰被起诉 法院已受理](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A2%AB%E8%B5%B7%E8%AF%89+%E6%B3%95%E9%99%A2%E5%B7%B2%E5%8F%97%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地乡村振兴玩出“新花样”](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E7%8E%A9%E5%87%BA%E2%80%9C%E6%96%B0%E8%8A%B1%E6%A0%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [辛芷蕾：拍了3年才知道李李的结局](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%EF%BC%9A%E6%8B%8D%E4%BA%863%E5%B9%B4%E6%89%8D%E7%9F%A5%E9%81%93%E6%9D%8E%E6%9D%8E%E7%9A%84%E7%BB%93%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [哈尔滨索菲亚教堂造型蛋糕爆火](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E7%B4%A2%E8%8F%B2%E4%BA%9A%E6%95%99%E5%A0%82%E9%80%A0%E5%9E%8B%E8%9B%8B%E7%B3%95%E7%88%86%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [冰雪大世界拿下吉尼斯世界纪录](https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E6%8B%BF%E4%B8%8B%E5%90%89%E5%B0%BC%E6%96%AF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [最抗冻复兴号投放哈尔滨](https://www.baidu.com/s?wd=%E6%9C%80%E6%8A%97%E5%86%BB%E5%A4%8D%E5%85%B4%E5%8F%B7%E6%8A%95%E6%94%BE%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子鞋内私藏2千克黄金入境被查获](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%9E%8B%E5%86%85%E7%A7%81%E8%97%8F2%E5%8D%83%E5%85%8B%E9%BB%84%E9%87%91%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [范湉湉扇胡歌巴掌“一条过”](https://www.baidu.com/s?wd=%E8%8C%83%E6%B9%89%E6%B9%89%E6%89%87%E8%83%A1%E6%AD%8C%E5%B7%B4%E6%8E%8C%E2%80%9C%E4%B8%80%E6%9D%A1%E8%BF%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [羊驼因频繁吐口水被安全员“约谈”](https://www.baidu.com/s?wd=%E7%BE%8A%E9%A9%BC%E5%9B%A0%E9%A2%91%E7%B9%81%E5%90%90%E5%8F%A3%E6%B0%B4%E8%A2%AB%E5%AE%89%E5%85%A8%E5%91%98%E2%80%9C%E7%BA%A6%E8%B0%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [张雪峰被起诉 法院已受理](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A2%AB%E8%B5%B7%E8%AF%89+%E6%B3%95%E9%99%A2%E5%B7%B2%E5%8F%97%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地乡村振兴玩出“新花样”](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E7%8E%A9%E5%87%BA%E2%80%9C%E6%96%B0%E8%8A%B1%E6%A0%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [辛芷蕾：拍了3年才知道李李的结局](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%EF%BC%9A%E6%8B%8D%E4%BA%863%E5%B9%B4%E6%89%8D%E7%9F%A5%E9%81%93%E6%9D%8E%E6%9D%8E%E7%9A%84%E7%BB%93%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [哈尔滨索菲亚教堂造型蛋糕爆火](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E7%B4%A2%E8%8F%B2%E4%BA%9A%E6%95%99%E5%A0%82%E9%80%A0%E5%9E%8B%E8%9B%8B%E7%B3%95%E7%88%86%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [冰雪大世界拿下吉尼斯世界纪录](https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E6%8B%BF%E4%B8%8B%E5%90%89%E5%B0%BC%E6%96%AF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [最抗冻复兴号投放哈尔滨](https://www.baidu.com/s?wd=%E6%9C%80%E6%8A%97%E5%86%BB%E5%A4%8D%E5%85%B4%E5%8F%B7%E6%8A%95%E6%94%BE%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子鞋内私藏2千克黄金入境被查获](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%9E%8B%E5%86%85%E7%A7%81%E8%97%8F2%E5%8D%83%E5%85%8B%E9%BB%84%E9%87%91%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [范湉湉扇胡歌巴掌“一条过”](https://www.baidu.com/s?wd=%E8%8C%83%E6%B9%89%E6%B9%89%E6%89%87%E8%83%A1%E6%AD%8C%E5%B7%B4%E6%8E%8C%E2%80%9C%E4%B8%80%E6%9D%A1%E8%BF%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [羊驼因频繁吐口水被安全员“约谈”](https://www.baidu.com/s?wd=%E7%BE%8A%E9%A9%BC%E5%9B%A0%E9%A2%91%E7%B9%81%E5%90%90%E5%8F%A3%E6%B0%B4%E8%A2%AB%E5%AE%89%E5%85%A8%E5%91%98%E2%80%9C%E7%BA%A6%E8%B0%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
