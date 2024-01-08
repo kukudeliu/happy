@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 18:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 18:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [蔡依林 浪5](https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%20%E6%B5%AA5&t=31&band_rank=6&Refer=top)<br />
 7. [民警吃火锅多看一眼抓住2名逃犯](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%90%83%E7%81%AB%E9%94%85%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%8A%93%E4%BD%8F2%E5%90%8D%E9%80%83%E7%8A%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [王菲 她甚至能治王家卫](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%8F%B2%20%E5%A5%B9%E7%94%9A%E8%87%B3%E8%83%BD%E6%B2%BB%E7%8E%8B%E5%AE%B6%E5%8D%AB&t=31&band_rank=8&Refer=top)<br />
-9. [千万网红团队成员约架致一人身亡](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E7%BD%91%E7%BA%A2%E5%9B%A2%E9%98%9F%E6%88%90%E5%91%98%E7%BA%A6%E6%9E%B6%E8%87%B4%E4%B8%80%E4%BA%BA%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [科举文男主有了脸](https://s.weibo.com/weibo?q=%E7%A7%91%E4%B8%BE%E6%96%87%E7%94%B7%E4%B8%BB%E6%9C%89%E4%BA%86%E8%84%B8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
