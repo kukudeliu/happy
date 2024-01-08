@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 11:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 12:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [辛芷蕾喝多了](https://s.weibo.com/weibo?q=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%96%9D%E5%A4%9A%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=7&Refer=top)<br />
 8. [华莱士送10万份套餐](https://s.weibo.com/weibo?q=%E5%8D%8E%E8%8E%B1%E5%A3%AB%E9%80%8110%E4%B8%87%E4%BB%BD%E5%A5%97%E9%A4%90&t=31&band_rank=8&Refer=top)<br />
-9. [等国考成绩](https://s.weibo.com/weibo?q=%E7%AD%89%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9&t=31&band_rank=9&Refer=top)<br />
+9. [杨紫国色芳华造型](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E9%80%A0%E5%9E%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
