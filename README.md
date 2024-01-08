@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 21:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 21:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国人吃盐过多致死率世界第1](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E7%9B%90%E8%BF%87%E5%A4%9A%E8%87%B4%E6%AD%BB%E7%8E%87%E4%B8%96%E7%95%8C%E7%AC%AC1%23&t=31&band_rank=6&Refer=top)<br />
 7. [吃葡萄柚是一件很私人的事](https://s.weibo.com/weibo?q=%23%E5%90%83%E8%91%A1%E8%90%84%E6%9F%9A%E6%98%AF%E4%B8%80%E4%BB%B6%E5%BE%88%E7%A7%81%E4%BA%BA%E7%9A%84%E4%BA%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [恋爱三个月定律](https://s.weibo.com/weibo?q=%E6%81%8B%E7%88%B1%E4%B8%89%E4%B8%AA%E6%9C%88%E5%AE%9A%E5%BE%8B&t=31&band_rank=8&Refer=top)<br />
-9. [女子称波司登羽绒服剪开全是碎末](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB%23&t=31&band_rank=9&Refer=top)<br />
+9. [蔡依林 浪5](https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%20%E6%B5%AA5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
